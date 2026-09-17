@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Olanzapine
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 517
 evidence_level: L5
 indication_count: 5
@@ -10,12 +10,12 @@ indication_count: 5
 # Olanzapine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L5** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -43,7 +43,7 @@ Olanzapine is a second-generation (atypical) antipsychotic originally approved f
 | Predicted New Indication | Major Depressive Disorder |
 | TxGNN Prediction Score | 0% (reported as 0.0 — this appears anomalous for a rank-1 candidate; treat as a data-quality flag, not a true near-zero score) |
 | Evidence Level | L1 (≥2 completed Phase 3 RCTs: NCT00035321, NCT00958568, among others) |
-| Malaysia Market Status | ✓ 已上市 (Marketed) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 34 |
 | Recommended Decision | Hold |
 
@@ -106,10 +106,10 @@ A Blocking data gap (DG001 — TFDA warnings/contraindications) prevents any saf
 - Correction of the upstream `original_indications` field so genuinely novel candidates can be distinguished from already-approved uses
 - Re-validation of the TxGNN scoring pipeline to resolve the anomalous 0.0 prediction score
 - Populated NPRA license-level data (product name, dosage form, approved indication text) for the 34 registered products
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

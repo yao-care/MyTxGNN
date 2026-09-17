@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Magnesium Hydroxide
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 461
-evidence_level: L5
+evidence_level: L2
 indication_count: 5
 ---
 
 # Magnesium Hydroxide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L2** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -47,7 +47,7 @@ Magnesium Hydroxide (DrugBank DB09104) is a well-established over-the-counter an
 | Predicted New Indication | Esophagitis |
 | TxGNN Prediction Score | 0.00% |
 | Evidence Level | L2 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 41 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -88,7 +88,7 @@ Esophagitis is predominantly an acid-mediated mucosal injury process — whether
 
 ## Malaysia Market Information
 
-Malaysia market status is recorded as **Marketed (已上市)** with **41 total registrations**, but the individual license records supplied in this evidence pack (license number, product name, dosage form, manufacturer, approved indication text) were all returned empty — this appears to be a data-extraction gap rather than an absence of registrations, and should be remediated before this information is used in any regulatory or safety assessment (see Data Gap DG001).
+Malaysia market status is recorded as **Marketed (Marketed)** with **41 total registrations**, but the individual license records supplied in this evidence pack (license number, product name, dosage form, manufacturer, approved indication text) were all returned empty — this appears to be a data-extraction gap rather than an absence of registrations, and should be remediated before this information is used in any regulatory or safety assessment (see Data Gap DG001).
 
 ---
 
@@ -129,10 +129,10 @@ The acid-neutralizing mechanism is plausible for esophagitis and the evidence le
 - Clarification/validation of the TxGNN scoring pipeline for this candidate, given the 0.00% score across all five ranked indications
 - A focused safety assessment on hypermagnesemia risk (informed by PMID 38152602 and 9533062), especially for patients with renal impairment, before considering any monotherapy use in esophagitis
 - Consider evaluating the constipation and GERD candidates (also L2, with more direct single-agent trial evidence) in parallel, as they may represent stronger near-term repurposing opportunities than esophagitis
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

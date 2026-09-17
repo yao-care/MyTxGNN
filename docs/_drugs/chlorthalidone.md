@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chlorthalidone
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 210
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Chlorthalidone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -99,10 +99,10 @@ Despite a high TxGNN prediction score, primary hereditary glaucoma has zero supp
 - If pursued, a targeted literature/trial search specifically on chlorthalidone and intraocular pressure, since none currently exists
 
 *Note: within this evidence pack, rank 8 (chronic pulmonary heart disease, L3, Research Question) has a materially stronger evidence base — 1 clinical trial and 3 literature citations, including a direct historical study of chlorthalidone in cor pulmonale — and may be a more productive candidate to prioritize ahead of this one.*
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

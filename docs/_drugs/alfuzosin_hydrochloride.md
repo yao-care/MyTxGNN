@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Alfuzosin Hydrochloride
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 42
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Alfuzosin Hydrochloride
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Tahap bukti: **L5** | Indikasi diramal: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -91,10 +91,10 @@ The TxGNN model produced no repurposing predictions for this drug, and two criti
 - **Complete license record retrieval:** Re-query the NPRA database to populate product names, dosage forms, manufacturers, and approved indication texts for all 3 registered licenses.
 - **Re-run the TxGNN prediction pipeline** after the DrugBank mapping is resolved to generate repurposing candidates with prediction scores and associated disease nodes.
 - **Re-generate this report** once the above gaps are remediated; the full template (clinical trial evidence, literature evidence, cytotoxicity assessment) will be populated accordingly.
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

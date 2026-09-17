@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Capecitabine
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 186
-evidence_level: L5
+evidence_level: L1
 indication_count: 5
 ---
 
 # Capecitabine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L1** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -45,7 +45,7 @@ Capecitabine is an oral fluoropyrimidine prodrug originally established for meta
 | Predicted New Indication | Gastric Neoplasm |
 | TxGNN Prediction Score | 0.00% (as recorded in source data; flagged for verification given it is ranked #1) |
 | Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 12 |
 | Recommended Decision | Hold |
 
@@ -101,7 +101,7 @@ Because thymidine phosphorylase upregulation and rapid cell turnover are shared 
 |---------|------|------|-----------|
 | Not available | Not available | Not available | Not available |
 
-The source dataset records **12 total registrations** with market status "已上市" (Marketed), but all individual license fields (authorization number, product name, dosage form, approved indication text) are empty in this extract. License-level detail needs to be re-pulled from NPRA before this section can be completed.
+The source dataset records **12 total registrations** with market status "Marketed" (Marketed), but all individual license fields (authorization number, product name, dosage form, approved indication text) are empty in this extract. License-level detail needs to be re-pulled from NPRA before this section can be completed.
 
 ---
 
@@ -136,10 +136,10 @@ Efficacy evidence for capecitabine in gastric cancer is strong (Evidence Level L
 - Actual NPRA-approved indication text and product details for the 12 registered licenses (current records are empty)
 - Formal DDI query results (current query status: not found)
 - Clarification of the TxGNN score of 0.00% for the rank-1 prediction, given it appears inconsistent with the rank position
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

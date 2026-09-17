@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ketoprofen
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 419
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Ketoprofen
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -45,7 +45,7 @@ Ketoprofen is a well-established nonsteroidal anti-inflammatory drug (NSAID) alr
 | Predicted New Indication | Osteoarthritis susceptibility |
 | TxGNN Prediction Score | 99.998% |
 | Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 15 |
 | Recommended Decision | Hold |
 
@@ -97,10 +97,10 @@ The top-ranked TxGNN prediction, osteoarthritis susceptibility, is not a treatab
 - DrugBank mechanism-of-action data (currently a High-severity data gap)
 - Complete NPRA license-level detail (product name, dosage form, approved indication text) for the 15 existing registrations
 - If repurposing interest continues for this drug, redirect evaluation toward this drug's mechanistically coherent, better-evidenced signals in the same evidence pack — osteoarthritis (L1) and arthropathy (L2) — noting these represent existing/overlapping uses rather than novel indications, so any "repurposing" framing there would need separate justification (e.g., new formulation, route, or patient population)
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

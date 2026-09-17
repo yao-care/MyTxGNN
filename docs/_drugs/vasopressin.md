@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Vasopressin
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 685
-evidence_level: L5
+evidence_level: L4
 indication_count: 2
 ---
 
 # Vasopressin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+Tahap bukti: **L4** | Indikasi diramal: **2** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 2
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -108,10 +108,10 @@ Please refer to the package insert for safety information.
 - If pursued, primary pharmacology/preclinical evidence directly linking vasopressin (not DDAVP) to prothrombin synthesis or activity
 
 **Additional candidate (lower priority):** A second prediction, *drug-induced osteoporosis* (TxGNN score 99.62%), was also flagged but has no clinical trials or literature support at all (Evidence Level L5) and is likewise recommended for **Hold**.
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

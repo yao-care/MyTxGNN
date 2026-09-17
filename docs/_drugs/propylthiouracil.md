@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Propylthiouracil
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 579
 evidence_level: L5
 indication_count: 3
@@ -10,12 +10,12 @@ indication_count: 3
 # Propylthiouracil
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+Tahap bukti: **L5** | Indikasi diramal: **3** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 3
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -42,7 +42,7 @@ indication_count: 3
 | Item | Content |
 |------|------|
 | Original Indication | Hyperthyroidism (Graves' disease) — *not captured in the NPRA license text on file; based on PTU's established pharmacology* |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 1 |
 | Recommended Decision (overall) | **Hold** (blocked by missing TFDA/NPRA safety data — see below) |
 
@@ -153,10 +153,10 @@ The missing TFDA/NPRA package-insert data (warnings and contraindications) is a 
 - Complete NPRA license details (authorization number, product name, dosage form, approved indication text) — currently blank despite an active registration
 - For neonatal thyrotoxicosis: formal relevance grading of the ~10 literature items still marked "pending" to firm up the existing L2/S2 assessment
 - For RTH-beta and hyperthyroxinemia: endocrinology expert review of the receptor-vs-synthesis mechanistic mismatch before advancing beyond L4/Research Question
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

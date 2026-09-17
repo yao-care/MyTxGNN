@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Atorvastatin Calcium
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 99
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Atorvastatin Calcium
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Tahap bukti: **L5** | Indikasi diramal: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -47,7 +47,7 @@ With **71 registered products** in Malaysia and key safety and MOA data still ou
 | Predicted New Indication | — *(No TxGNN output available)* |
 | TxGNN Prediction Score | — *(Pending)* |
 | Evidence Level | — *(Cannot be determined)* |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 71 |
 | Recommended Decision | **Hold** |
 
@@ -115,10 +115,10 @@ The core repurposing analysis cannot proceed because the TxGNN prediction pipeli
 - [ ] Re-run DDI query after DrugBank ID is confirmed (current `query_status: not_found` likely due to missing DrugBank ID linkage)
 
 Once the above are resolved, this report should be regenerated with Evidence Pack v5.
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

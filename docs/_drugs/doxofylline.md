@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Doxofylline
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 297
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Doxofylline
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -45,7 +45,7 @@ Doxofylline is a methylxanthine-class bronchodilator used clinically for asthma 
 | Predicted New Indication | Pierre Robin syndrome associated with a chromosomal anomaly |
 | TxGNN Prediction Score | 99.54% |
 | Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 1 |
 | Recommended Decision | Hold |
 
@@ -97,10 +97,10 @@ The top-ranked predicted indication (Pierre Robin syndrome associated with a chr
 - Confirmed mechanism of action from DrugBank (high-severity data gap — needed to assess mechanistic plausibility of any candidate)
 - Complete Malaysia license/product details (registration number, dosage form, approved indication text)
 - If further TxGNN-based repurposing candidates are needed for doxofylline, re-run prediction with tighter mechanistic filtering, since the current top-10 output is dominated by structural/genetic disorders with no biological rationale
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

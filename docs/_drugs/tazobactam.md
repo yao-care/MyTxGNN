@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Tazobactam
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 636
-evidence_level: L5
+evidence_level: L1
 indication_count: 2
 ---
 
 # Tazobactam
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+Tahap bukti: **L1** | Indikasi diramal: **2** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 2
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -101,10 +101,10 @@ Evidence strength is high (L1: multiple completed Phase 3 RCTs), but this largel
 - DrugBank mechanism-of-action record for tazobactam — high priority (DG002)
 - Malaysia-specific license/product data (registration numbers, dosage forms, approved indication text per product) — not populated in current pull
 - Clarification of which specific combination product(s) (piperacillin/tazobactam vs. ceftolozane/tazobactam) the pneumonia indication would apply to, since safety and spectrum differ between them
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

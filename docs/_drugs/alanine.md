@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Alanine
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 34
 evidence_level: L5
 indication_count: 1
@@ -10,12 +10,12 @@ indication_count: 1
 # Alanine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+Tahap bukti: **L5** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -128,10 +128,10 @@ The TxGNN model assigns a high prediction score (99.37%) to Alanine for gastropa
 - **DrugBank MOA retrieval**: Query DrugBank API for DB00160 to populate pharmacological classification and mechanism detail (currently a High-severity data gap)
 - **Dose and formulation assessment**: Determine what dose, route, and formulation would be pharmacologically relevant for a gastroparesis indication, distinct from its nutritional use
 - **Patient population definition**: Clarify whether the target population is diabetic gastroparesis, post-surgical gastroparesis, or idiopathic — as mechanistic relevance may differ
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

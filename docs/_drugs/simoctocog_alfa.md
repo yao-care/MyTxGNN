@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Simoctocog Alfa
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 616
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Simoctocog Alfa
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -89,10 +89,10 @@ Please refer to the package insert for safety information.
 - Resolve the blocking data gap: TFDA/NPRA package insert warnings and contraindications (currently unavailable), required before any S1 safety screening.
 - Obtain confirmed mechanism-of-action data via DrugBank to formally document the drug's original-indication linkage.
 - If pursuing repurposing further, prioritize "symptomatic form of hemophilia in female carriers" over pseudo-von Willebrand disease given its more coherent mechanistic link to FVIII replacement, and commission targeted trial/literature searches for that candidate.
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

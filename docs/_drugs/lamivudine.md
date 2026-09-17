@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Lamivudine
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 423
-evidence_level: L5
+evidence_level: L1
 indication_count: 5
 ---
 
 # Lamivudine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L1** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -111,10 +111,10 @@ The clinical trial and literature base for lamivudine in HIV infection is extens
 - Re-pull the NPRA license records with populated fields (license number, product name, dosage form, manufacturer, indication text) — the current five entries are empty
 - Confirm whether `original_indications` was genuinely empty at prediction time, or whether this is a data-pipeline defect that caused known indications (HIV, HBV) to be surfaced as "predictions"
 - De-duplicate the prediction set — ranks 1/4 (HIV) and ranks 2/5 (HBV) appear to be repeats, and rank 3 (AIDS) overlaps with rank 1; clarify whether this reflects five independent model outputs or a pipeline artifact before using rank counts in scoring
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

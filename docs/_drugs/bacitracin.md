@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bacitracin
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 115
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Bacitracin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -140,10 +140,10 @@ The top-ranked prediction (punctate epithelial keratoconjunctivitis) is highly p
 ---
 
 *This report is for research purposes only and does not constitute medical advice. Drug repurposing candidates require clinical validation before application. Data cutoff: 2026-04-09.*
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Cabazitaxel
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 171
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Cabazitaxel
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L2** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -87,7 +87,7 @@ Currently no related clinical trials registered (ClinicalTrials.gov and ICTRP qu
 
 ## Malaysia Market Information
 
-The evidence pack confirms cabazitaxel is **marketed in Malaysia with 4 active registrations** (`market_status: 已上市`), but individual license details (registration number, product name, dosage form, approved indication text) were not populated in this data pull. This should be treated as a data gap requiring a follow-up query to the NPRA QUEST3+ registration system before Malaysia-specific labelling can be confirmed.
+The evidence pack confirms cabazitaxel is **marketed in Malaysia with 4 active registrations** (`market_status: Marketed`), but individual license details (registration number, product name, dosage form, approved indication text) were not populated in this data pull. This should be treated as a data gap requiring a follow-up query to the NPRA QUEST3+ registration system before Malaysia-specific labelling can be confirmed.
 
 ---
 
@@ -126,10 +126,10 @@ Please refer to the package insert for safety information. Structured warnings, 
 - Clarify whether the 3 clinical-phase literature findings (GENEVIEVE, dose-finding, dose-escalation) should be manually cross-registered into the structured clinical trial evidence store, since they did not surface via the ClinicalTrials.gov/ICTRP search
 
 *Note: Ranks 2–10 in this evidence pack (a cluster of near-identical scores ~0.9989 for sickle cell disease variants, plus HIV, hyperthyroidism, neuroblastoma, and rheumatoid arthritis) show no supporting clinical trial or literature evidence, and reviewer annotations already flag several of these as likely TxGNN embedding-space noise (L5/S0/Hold). These are not carried forward in this report and are recommended for no further individual investigation unless new evidence emerges.*
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

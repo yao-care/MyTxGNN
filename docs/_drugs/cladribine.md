@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cladribine
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 222
 evidence_level: L5
 indication_count: 7
@@ -10,12 +10,12 @@ indication_count: 7
 # Cladribine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **7** 個
+Tahap bukti: **L5** | Indikasi diramal: **7** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 7
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -75,7 +75,7 @@ Currently no related literature available.
 
 ## Malaysia Market Information
 
-NPRA records confirm cladribine has **3 marketed registrations** in Malaysia (market status: 已上市 / Marketed). However, the evidence pack does not include the specific license numbers, product names, dosage forms, or approved-indication text for these registrations — these fields were returned empty from the source query and require follow-up retrieval from NPRA.
+NPRA records confirm cladribine has **3 marketed registrations** in Malaysia (market status: Marketed / Marketed). However, the evidence pack does not include the specific license numbers, product names, dosage forms, or approved-indication text for these registrations — these fields were returned empty from the source query and require follow-up retrieval from NPRA.
 
 ---
 
@@ -113,10 +113,10 @@ The prediction is supported only by a TxGNN model score (L5, no clinical or lite
 - Confirmed mechanism of action from DrugBank (DG002, High) — required to assess mechanistic plausibility
 - Preclinical or case-level evidence specifically linking cladribine to rhabdomyosarcoma or related sarcoma pathways
 - Complete NPRA license details (product names, dosage forms, approved indication text) for the 3 existing registrations
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

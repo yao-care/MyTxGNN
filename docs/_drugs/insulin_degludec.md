@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Insulin Degludec
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 399
-evidence_level: L5
+evidence_level: L1
 indication_count: 6
 ---
 
 # Insulin Degludec
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **6** 個
+Tahap bukti: **L1** | Indikasi diramal: **6** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 6
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -47,7 +47,7 @@ indication_count: 6
 | Predicted New Indication | Type 1 Diabetes Mellitus |
 | TxGNN Prediction Score | 99.44% |
 | Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 5 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -99,7 +99,7 @@ For contrast, among the other TxGNN-ranked candidates for this drug, most (autoi
 
 ## Malaysia Market Information
 
-Insulin degludec holds **5 active registrations** with NPRA and is currently marketed (已上市) in Malaysia. Detailed license numbers, product names, dosage forms, and approved-indication text were not captured in this evidence pack (all license record fields returned empty), so a per-license table cannot be produced from the available data.
+Insulin degludec holds **5 active registrations** with NPRA and is currently marketed (Marketed) in Malaysia. Detailed license numbers, product names, dosage forms, and approved-indication text were not captured in this evidence pack (all license record fields returned empty), so a per-license table cannot be produced from the available data.
 
 ---
 
@@ -121,10 +121,10 @@ The evidence base is extremely strong (L1: multiple completed Phase 3 RCTs, incl
 - Package insert data for warnings, contraindications, and drug interactions (currently unavailable)
 - Formal confirmation of drug MOA from DrugBank/product labeling
 - If genuine repurposing candidates are of interest, the thiamine-responsive dysfunction syndrome (TRMA) candidate (L4, Research Question) warrants a literature-based mechanistic review, while the remaining candidates (autoimmune oophoritis, opsismodysplasia, focal/classic stiff person syndrome) currently lack any supporting evidence and should remain on Hold
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

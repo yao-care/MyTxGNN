@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fluocinolone Acetonide
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 349
 evidence_level: L5
 indication_count: 4
@@ -10,12 +10,12 @@ indication_count: 4
 # Fluocinolone Acetonide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **4** 個
+Tahap bukti: **L5** | Indikasi diramal: **4** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 4
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -83,10 +83,10 @@ The prediction for lichen planus pigmentosus is supported only by the TxGNN mode
 - At least preliminary case-series or mechanistic literature specific to lichen planus pigmentosus before advancing past Hold
 
 *Note: among the related lichen planus subtype predictions in this evidence pack, "lichen planus pemphigoides" (rank 4, score 99.34%) has stronger supporting evidence — 3 literature citations including one RCT (PMID 8065723) — and is already at decision stage S1 ("Research Question"). This subtype may warrant separate evaluation.*
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

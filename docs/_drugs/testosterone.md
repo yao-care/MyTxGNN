@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Testosterone
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 643
 evidence_level: L5
 indication_count: 5
@@ -10,12 +10,12 @@ indication_count: 5
 # Testosterone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L5** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -126,10 +126,10 @@ The predicted indication (CHH) is mechanistically plausible almost by definition
 - Complete NPRA license record details (license numbers, product names, dosage forms, approved indication text) for the 4 existing registrations
 - Verification of the TxGNN scoring pipeline — all 5 ranked predictions show an identical 0.0 score, which needs explanation before being used in decision-making
 - Confirmation of Testosterone's currently labeled indication(s) in Malaysia, to determine whether CHH is already covered by the existing label rather than a true repurposing candidate
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

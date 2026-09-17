@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Clozapine
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 235
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Clozapine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L4** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -45,7 +45,7 @@ Clozapine is a tricyclic dibenzodiazepine antipsychotic, globally recognized for
 | Predicted New Indication | Manic Bipolar Affective Disorder |
 | TxGNN Prediction Score | 99.95% |
 | Evidence Level | L4 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 9 |
 | Recommended Decision | Research Question |
 
@@ -102,10 +102,10 @@ The mechanistic link between clozapine's receptor-antagonist profile and mood st
 - Broader literature/trial search using alternate terminology (current searches for "manic bipolar affective disorder" returned zero across all three sources; try "bipolar mania," "psychotic mania," "treatment-resistant bipolar disorder")
 - Complete NPRA license-level detail (authorization numbers, product names, approved indication text)
 - A formal hematological safety monitoring plan given clozapine's known agranulocytosis risk profile, before any indication-expansion discussion
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Calcium Chloride
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 180
-evidence_level: L5
+evidence_level: L4
 indication_count: 5
 ---
 
 # Calcium Chloride
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L4** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -45,7 +45,7 @@ Calcium Chloride is a marketed injectable electrolyte with 90 product registrati
 | Predicted New Indication | Hypercalcemia disease (Rank 1) — flagged as mechanistically contradictory |
 | TxGNN Prediction Score | 0.00% (Note: all 5 predicted indications in this pack show a score of 0.0, which likely reflects a scoring/normalization artifact rather than true near-zero confidence) |
 | Evidence Level | L4 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 90 |
 | Recommended Decision | **Hold** |
 
@@ -94,13 +94,13 @@ The 20 literature results are predominantly general reviews on the causes, diagn
 
 ## Malaysia Market Information
 
-Calcium Chloride is confirmed as **Marketed (已上市)** in Malaysia with **90 total registrations**. However, the current data pull did not populate license-level details (authorization number, product name, dosage form, manufacturer, or approved indication text) — all fields were returned empty. Detailed registration information should be re-queried from the source registry before this is used for regulatory decision-making.
+Calcium Chloride is confirmed as **Marketed (Marketed)** in Malaysia with **90 total registrations**. However, the current data pull did not populate license-level details (authorization number, product name, dosage form, manufacturer, or approved indication text) — all fields were returned empty. Detailed registration information should be re-queried from the source registry before this is used for regulatory decision-making.
 
 ---
 
 ## Safety Considerations
 
-Safety data for this candidate is currently incomplete. Both `key_warnings` and `contraindications` are marked as data gaps, and no drug–drug interaction records were found (`query_status: not_found`). Notably, this gap is flagged in the evidence pack as **Blocking** (DG001 — "TFDA 仿單警語/禁忌"), meaning it prevents this candidate from proceeding to the S1 safety pre-screening stage.
+Safety data for this candidate is currently incomplete. Both `key_warnings` and `contraindications` are marked as data gaps, and no drug–drug interaction records were found (`query_status: not_found`). Notably, this gap is flagged in the evidence pack as **Blocking** (DG001 — "NPRA package insert warnings/contraindications"), meaning it prevents this candidate from proceeding to the S1 safety pre-screening stage.
 
 > Please refer to the package insert for safety information. Obtaining the official product label (warnings, contraindications, DDI) is a prerequisite before any further evaluation of this candidate.
 
@@ -132,10 +132,10 @@ The top-ranked prediction (hypercalcemia) is mechanistically contradictory — C
 - Re-verification of Malaysia license-level data (product names, dosage forms, approved indication text), all of which were empty in this pull
 - If pursuing further research, reframe the cardiac-arrest signal as a **defined research question** (e.g., subgroup analysis by etiology — hyperkalemia/CCB-toxicity vs. undifferentiated arrest) rather than a general indication-expansion request
 - Flag hypercalcemia and nephrocalcinosis findings internally as **pharmacovigilance/safety signals** rather than repurposing leads
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

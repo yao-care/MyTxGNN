@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Oxaliplatin
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 524
-evidence_level: L5
+evidence_level: L2
 indication_count: 4
 ---
 
 # Oxaliplatin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **4** 個
+Tahap bukti: **L2** | Indikasi diramal: **4** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 4
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -47,7 +47,7 @@ with **5 clinical trials** and **20 publications** currently supporting this dir
 | Predicted New Indication | Malignant Pleural Mesothelioma |
 | TxGNN Prediction Score | 99.68% |
 | Evidence Level | L2 |
-| Malaysia Market Status | ✓ 已上市 (Marketed) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 9 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -109,10 +109,10 @@ Multiple completed Phase 2 single-arm trials and a substantial literature base (
 - Local (Malaysia/Taiwan) approved indication text from license records, which was empty in this evidence pack
 - Route-of-administration compatibility assessment (currently marked "pending" in the evidence pack)
 - Ideally, a randomized Phase 3 trial or systematic review/meta-analysis to move beyond L2 evidence
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

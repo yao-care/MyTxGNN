@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Spironolactone
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 627
 evidence_level: L5
 indication_count: 2
@@ -10,12 +10,12 @@ indication_count: 2
 # Spironolactone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+Tahap bukti: **L5** | Indikasi diramal: **2** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 2
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -85,10 +85,10 @@ Both predicted indications are supported only by TxGNN's model score (L5, decisi
 - Confirmed original indication text and mechanism of action (DG002)
 - Preclinical or case-level evidence linking androgen/mineralocorticoid pathways to *APCDD1*/*CDH3*- or desmosome-related follicular pathology
 - Any case reports of spironolactone use in genetic hypotrichosis syndromes to test the mechanistic hypothesis before further investment
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

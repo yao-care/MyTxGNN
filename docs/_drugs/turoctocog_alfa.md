@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Turoctocog Alfa
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 674
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Turoctocog Alfa
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -85,10 +85,10 @@ All 10 top-ranked predictions sit at evidence level L5 (model prediction only) w
 - Obtain formal MOA documentation (DG002) from DrugBank or the manufacturer
 - If pursuing rank 5, clarify whether "acquired coagulation factor deficiency" specifically denotes acquired Hemophilia A, then re-run targeted clinical trial/literature searches on that refined term
 - Populate complete Malaysia licence records (product name, dosage form, approved indication text) to establish the true original-indication baseline for comparison
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

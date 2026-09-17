@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sodium Citrate
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 621
 evidence_level: L5
 indication_count: 5
@@ -10,12 +10,12 @@ indication_count: 5
 # Sodium Citrate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L5** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -92,10 +92,10 @@ The top-ranked TxGNN prediction (Pharyngitis) has no supporting mechanistic rati
 - Verified mechanism of action data (DG002)
 - Complete license-level registration data (authorization numbers, indication text) for Malaysia
 - Consider re-scoping the evaluation toward Rhinitis (rank 2, L3, "Research Question") or Gastroesophageal Reflux Disease (rank 4, L4, "Research Question"), which show materially stronger mechanistic and evidentiary support than the top-ranked Pharyngitis candidate
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

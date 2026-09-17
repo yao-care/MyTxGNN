@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Metronidazole
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 482
-evidence_level: L5
+evidence_level: L1
 indication_count: 5
 ---
 
 # Metronidazole
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L1** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -112,10 +112,10 @@ Rosacea has L1-level evidence (multiple completed Phase 3 RCTs) and metronidazol
 - Verification/re-query of the TxGNN score for this drug–disease pair (currently reported as 0.0)
 - Malaysia license-level detail (product name, dosage form, approved indication text) — all 5 sampled records were blank
 - Confirmation of whether rosacea is already a labeled indication for any Malaysia-marketed metronidazole product, to distinguish "regulatory gap-filling" from genuine off-label repurposing
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

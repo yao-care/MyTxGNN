@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Plerixafor
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 559
 evidence_level: L5
 indication_count: 7
@@ -10,12 +10,12 @@ indication_count: 7
 # Plerixafor
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **7** 個
+Tahap bukti: **L5** | Indikasi diramal: **7** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 7
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -96,10 +96,10 @@ The TxGNN score is high, but the prediction is unsupported by any clinical trial
 - Complete Malaysia license/registration details (product names, dosage forms, approved indication text)
 - Any preclinical or case-level evidence specific to indolent plasma cell myeloma
 - **Note:** A related predicted indication for this drug, *myeloid leukemia* (rank 7, score 99.02%), is backed by substantially stronger evidence — 30 clinical trials and 20 publications, reaching evidence level L2 with a "Research Question" recommendation — and may warrant separate, prioritized evaluation.
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

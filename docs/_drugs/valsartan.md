@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Valsartan
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 683
 evidence_level: L5
 indication_count: 5
@@ -10,12 +10,12 @@ indication_count: 5
 # Valsartan
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L5** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -108,10 +108,10 @@ The Blocking-severity data gap (DG001: TFDA/NPRA label warnings and contraindica
 - Query DrugBank for mechanism of action (DG002)
 - Investigate why TxGNN score is reported as 0.0 for all ranked candidates and re-run scoring if this is a pipeline defect
 - Re-evaluate whether this candidate should be filtered out of the repurposing queue as a same-indication (non-novel) match
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Desmopressin
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 259
-evidence_level: L5
+evidence_level: L4
 indication_count: 7
 ---
 
 # Desmopressin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **7** 個
+Tahap bukti: **L4** | Indikasi diramal: **7** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 7
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -33,7 +33,7 @@ indication_count: 7
 
 ## One-Sentence Summary
 
-Desmopressin (DrugBank DB00035) is a registered drug in Taiwan (7 TFDA licenses, market status "已上市"), though its labeled original indication text was not captured in this data extract. The TxGNN model's top-ranked prediction is efficacy in **congenital prothrombin deficiency**, but the supporting evidence — **1 clinical trial** (studying a different drug, emicizumab) and **4 publications** (none specifically addressing this disease) — does not substantiate the mechanistic pairing, and the evidence pack itself flags this as a likely **evidence mismatch**.
+Desmopressin (DrugBank DB00035) is a registered drug in Taiwan (7 TFDA licenses, market status "Marketed"), though its labeled original indication text was not captured in this data extract. The TxGNN model's top-ranked prediction is efficacy in **congenital prothrombin deficiency**, but the supporting evidence — **1 clinical trial** (studying a different drug, emicizumab) and **4 publications** (none specifically addressing this disease) — does not substantiate the mechanistic pairing, and the evidence pack itself flags this as a likely **evidence mismatch**.
 
 ---
 
@@ -45,7 +45,7 @@ Desmopressin (DrugBank DB00035) is a registered drug in Taiwan (7 TFDA licenses,
 | Predicted New Indication | Congenital Prothrombin Deficiency |
 | TxGNN Prediction Score | 99.70% |
 | Evidence Level | L4 |
-| Malaysia Market Status (TFDA/Taiwan data) | ✓ Marketed (已上市) |
+| Malaysia Market Status (TFDA/Taiwan data) | ✓ Marketed (Marketed) |
 | Number of Registrations | 7 |
 | Recommended Decision | Hold |
 
@@ -84,7 +84,7 @@ None of the above literature directly studies desmopressin in congenital prothro
 
 ## Malaysia Market Information
 
-License-level detail (authorization number, product name, dosage form, indication text) was not captured for any of the 7 TFDA registrations in this data extract — only the aggregate count and market status ("已上市") are available. Per Data Gap DG001, resolving this requires downloading and parsing the TFDA label PDFs directly.
+License-level detail (authorization number, product name, dosage form, indication text) was not captured for any of the 7 TFDA registrations in this data extract — only the aggregate count and market status ("Marketed") are available. Per Data Gap DG001, resolving this requires downloading and parsing the TFDA label PDFs directly.
 
 ---
 
@@ -106,10 +106,10 @@ The TxGNN score for congenital prothrombin deficiency is high, but the attached 
 - DrugBank mechanism-of-action detail (DG002) to confirm or rule out any indirect pathway to prothrombin deficiency
 - If this drug-disease pairing is to be pursued further, targeted literature/trial searches specific to desmopressin and Factor II deficiency (none currently exist in this pack)
 - Consider prioritizing review of the same batch's stronger candidates instead — **primary release disorder of platelets** (S2, "Proceed with Guardrails") and **Glanzmann thrombasthenia** (S1, "Research Question") — which have direct mechanistic and literature support
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

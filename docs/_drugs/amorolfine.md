@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Amorolfine
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 61
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Amorolfine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -107,10 +107,10 @@ This candidate is supported solely by a TxGNN model prediction (Evidence Level L
 - Conduct a broader preclinical literature search to determine whether any morpholine-class compounds (beyond antifungals) have demonstrated bone metabolism activity
 - If any preclinical signal emerges, design a targeted in vitro study before considering clinical advancement
 - Re-evaluate the prediction rationale: if no mechanistic link can be established after the above steps, formally close this candidate
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

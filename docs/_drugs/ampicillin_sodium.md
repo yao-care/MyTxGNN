@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ampicillin Sodium
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 71
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Ampicillin Sodium
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Tahap bukti: **L5** | Indikasi diramal: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -111,10 +111,10 @@ The TxGNN prediction pipeline returned no repurposing candidates for Ampicillin 
 - **Re-run TxGNN pipeline** after confirming correct INN-to-DrugBank mapping; the absence of a DrugBank ID (`drugbank_id: null`) is the most likely cause of the empty predictions list
 - **Populate NPRA license details** — retrieve full registration records including product name, dosage form, manufacturer, and approved indication text for all 8 licenses
 - Once predictions are available, re-evaluate evidence level and update the recommended decision accordingly
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

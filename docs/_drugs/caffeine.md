@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Caffeine
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 175
-evidence_level: L5
+evidence_level: L2
 indication_count: 5
 ---
 
 # Caffeine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L2** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -122,10 +122,10 @@ Headache disorder is supported by 4 completed Phase 3/4 trials (including a 1,88
 - Clarification of whether the repositioning claim should target caffeine monotherapy or caffeine-as-adjuvant within combination products, since almost all trial evidence is combination-based
 - Review of termination/withdrawal/suspension reasons for NCT01755702, NCT01629329, NCT01426971, and NCT02582996 before those trials are counted as fully supportive evidence
 - If a broader-indication strategy is desired, note that pharyngitis, vasomotor rhinitis, common cold, and nasopharyngitis were also screened in this pack but returned only weak/indirect evidence (L3–L5) and are recommended for **Hold**
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

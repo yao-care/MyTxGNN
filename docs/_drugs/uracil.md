@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Uracil
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 677
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Uracil
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L1** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -133,10 +133,10 @@ Multiple completed Phase 3 RCTs (ACTS-CC 02, NSABP C-06, and related trials) sup
 - Confirmed DrugBank mechanism-of-action record for uracil (DG002, High)
 - Full extraction of the 5 NPRA licence records (product name, dosage form, indication text) to confirm whether colorectal cancer is already an approved indication for uracil-containing products in Malaysia, which would reframe this from "new indication" to "existing indication confirmation"
 - Clarification of DPD-deficiency screening requirements given known fluoropyrimidine toxicity risk in poor metabolizers
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

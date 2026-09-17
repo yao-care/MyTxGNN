@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Iodixanol
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 405
 evidence_level: L5
 indication_count: 3
@@ -10,12 +10,12 @@ indication_count: 3
 # Iodixanol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+Tahap bukti: **L5** | Indikasi diramal: **3** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 3
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -115,10 +115,10 @@ The top-ranked candidate (osteoarthritis susceptibility) has no supporting clini
 - Confirmed mechanism of action data (High-priority gap, DG002)
 - An independent assessment of whether the TxGNN score reflects a genuine pharmacological hypothesis or a literature co-occurrence artifact, before committing further evaluation resources
 - If pursued, a preclinical/pharmacological rationale for any anti-arthritic activity of iodixanol, which does not currently exist in the evidence reviewed
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

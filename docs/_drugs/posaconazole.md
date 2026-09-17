@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Posaconazole
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 562
-evidence_level: L5
+evidence_level: L4
 indication_count: 1
 ---
 
 # Posaconazole
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+Tahap bukti: **L4** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -45,7 +45,7 @@ Posaconazole is a triazole antifungal; the specific TFDA/NPRA-approved indicatio
 | Predicted New Indication | Pneumocystosis (Pneumocystis pneumonia) |
 | TxGNN Prediction Score | 99.77% |
 | Evidence Level | L4 |
-| Malaysia Market Status | 已上市 (Marketed) |
+| Malaysia Market Status | Marketed (Marketed) |
 | Number of Registrations | 3 |
 | Recommended Decision | Hold |
 
@@ -84,7 +84,7 @@ Because both the original indication text and the formal MOA record are data gap
 
 ## Malaysia Market Information
 
-The evidence pack confirms posaconazole has **3 active registrations** in Malaysia (NPRA, market status: 已上市/Marketed), but the license number, product name, dosage form, and approved indication text fields were not populated in this dataset, so a detailed registration table cannot be produced. This should be sourced directly from NPRA records before proceeding.
+The evidence pack confirms posaconazole has **3 active registrations** in Malaysia (NPRA, market status: Marketed/Marketed), but the license number, product name, dosage form, and approved indication text fields were not populated in this dataset, so a detailed registration table cannot be produced. This should be sourced directly from NPRA records before proceeding.
 
 ---
 
@@ -106,10 +106,10 @@ The mechanistic rationale is weak and self-flagged as speculative — Pneumocyst
 - Confirmed DrugBank MOA record to resolve DG002
 - Direct pharmacological or clinical evidence evaluating posaconazole activity against Pneumocystis jirovecii specifically
 - Complete NPRA registration details (license numbers, product names, approved indication text) for the 3 existing Malaysia registrations
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

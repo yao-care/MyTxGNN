@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Mycophenolic Acid
-parent: 僅模型預測 (L5)
+parent: Medium Evidence (L3)
 nav_order: 495
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Mycophenolic Acid
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L3** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -123,10 +123,10 @@ The predicted association is supported mainly by MMF's role as a standard GVHD-p
 - Confirmed mechanism of action data from DrugBank (High-priority gap, DG002)
 - Complete Malaysia license/authorization details (license numbers, product names, approved indication text)
 - A mechanistic re-assessment clarifying whether this candidate should be scoped as "MMF for hemoglobinopathy" or more precisely as "MMF for GVHD prophylaxis in HSCT for hemoglobinopathy," since these represent different clinical claims
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

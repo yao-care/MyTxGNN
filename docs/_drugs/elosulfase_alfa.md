@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Elosulfase Alfa
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 308
 evidence_level: L5
 indication_count: 9
@@ -10,12 +10,12 @@ indication_count: 9
 # Elosulfase Alfa
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **9** 個
+Tahap bukti: **L5** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 9
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -101,10 +101,10 @@ The predicted association between elosulfase alfa and Scheie syndrome has an L5 
 - Complete NPRA license/registration details (authorization number, product name, dosage form, approved indication text)
 - Any preclinical or biochemical data specifically addressing cross-reactivity or potential benefit of GALNS-targeted ERT in IDUA-deficient (MPS I/Scheie) disease, if such a hypothesis is to be pursued further
 - A review of the underlying disease-vocabulary mapping used by the prediction pipeline — other candidate indications in this same evidence pack showed clear literature-to-disease mismatches (e.g., Morquio A-specific elosulfase alfa trials indexed under an unrelated "Sanfilippo syndrome" label), suggesting this data source should be validated before being used for further decision-making
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

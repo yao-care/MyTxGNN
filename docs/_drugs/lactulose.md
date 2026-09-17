@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lactulose
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 422
 evidence_level: L5
 indication_count: 8
@@ -10,12 +10,12 @@ indication_count: 8
 # Lactulose
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **8** 個
+Tahap bukti: **L5** | Indikasi diramal: **8** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 8
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -43,7 +43,7 @@ Lactulose is a non-absorbable synthetic disaccharide long established for treati
 | Predicted New Indication | Acute Urate Nephropathy |
 | TxGNN Prediction Score | 99.89% |
 | Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 12 |
 | Recommended Decision | Hold |
 
@@ -63,7 +63,7 @@ Currently no related literature available.
 
 ## Malaysia Market Information
 
-Detailed license records (product names, dosage forms, manufacturers) were not returned in this data extract — all license fields came back empty. NPRA data confirms lactulose has **12 active registrations** and a market status of **Marketed (已上市)** in Malaysia; individual authorization details would need to be re-pulled from the NPRA source.
+Detailed license records (product names, dosage forms, manufacturers) were not returned in this data extract — all license fields came back empty. NPRA data confirms lactulose has **12 active registrations** and a market status of **Marketed (Marketed)** in Malaysia; individual authorization details would need to be re-pulled from the NPRA source.
 
 ## Safety Considerations
 
@@ -82,10 +82,10 @@ Despite a high TxGNN score, there is no known mechanistic link between lactulose
 - DrugBank MOA data to properly assess mechanistic plausibility across all candidate indications
 
 **Note:** Among the other indications in this evidence pack, **obstructive jaundice** (rank 3, evidence level L3, 1 completed Phase 4 trial plus 20 publications including a multicentre RCT on postoperative renal protection) shows substantially stronger mechanistic and evidentiary support and may warrant a separate, dedicated evaluation report.
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

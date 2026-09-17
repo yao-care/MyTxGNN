@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Moroctocog Alfa
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 490
-evidence_level: L5
+evidence_level: L4
 indication_count: 8
 ---
 
 # Moroctocog Alfa
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **8** 個
+Tahap bukti: **L4** | Indikasi diramal: **8** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 8
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -106,10 +106,10 @@ The mechanistic link between Factor VIII replacement and primary platelet releas
 - Complete Malaysia authorization details (product names, dosage forms, approved indication text)
 - Preclinical or mechanistic evidence directly linking FVIII replacement to platelet granule release function, if this candidate is to be pursued further
 - Consider prioritizing the *acquired coagulation factor deficiency* candidate (rank 4) instead, given its stronger mechanistic plausibility and L2 evidence level
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

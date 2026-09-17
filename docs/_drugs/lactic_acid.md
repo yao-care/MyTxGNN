@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lactic Acid
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 421
 evidence_level: L5
 indication_count: 5
@@ -10,12 +10,12 @@ indication_count: 5
 # Lactic Acid
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L5** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -65,7 +65,7 @@ Currently no related literature available.
 
 ## Malaysia Market Information
 
-NPRA records show 7 active registrations for Lactic Acid (market status: 已上市 / Marketed), but license-level details (license number, product name, dosage form, manufacturer, approved indication text) were not returned in this data pull — all fields came back empty. This needs to be re-queried from the NPRA source before any regulatory comparison can be made.
+NPRA records show 7 active registrations for Lactic Acid (market status: Marketed / Marketed), but license-level details (license number, product name, dosage form, manufacturer, approved indication text) were not returned in this data pull — all fields came back empty. This needs to be re-queried from the NPRA source before any regulatory comparison can be made.
 
 ## Safety Considerations
 
@@ -85,10 +85,10 @@ The top-ranked predicted indication (Atypical Coarctation of Aorta) has no clini
 - Drug mechanism of action (MOA) data via DrugBank — High-priority gap (DG002)
 - NPRA license-level details (product names, dosage forms, approved indications) for the 7 existing registrations
 - If a repurposing signal is still wanted for this drug, re-evaluate rank 5 (dry eye syndrome) instead, which reached S1/"Research Question" status with some biological rationale, rather than the top-ranked but mechanistically unsupported aortic prediction
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

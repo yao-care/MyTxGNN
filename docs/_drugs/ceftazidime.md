@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Ceftazidime
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 199
-evidence_level: L5
+evidence_level: L1
 indication_count: 5
 ---
 
 # Ceftazidime
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L1** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -47,7 +47,7 @@ indication_count: 5
 | Predicted New Indication | Peritonitis |
 | TxGNN Prediction Score | 0.00% *(as returned by source data — see note below)* |
 | Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 11 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -103,7 +103,7 @@ Because the mechanistic fit is driven by antibacterial spectrum rather than a ne
 
 ## Malaysia Market Information
 
-NPRA records show **11 active registrations** for Ceftazidime in Malaysia (market status: 已上市 / Marketed). However, the authorization-level details returned in this data pull — license numbers, product names, dosage forms, and approved indication text — were all blank. This is a data gap requiring a direct NPRA product-registration lookup before authorization specifics can be reported.
+NPRA records show **11 active registrations** for Ceftazidime in Malaysia (market status: Marketed / Marketed). However, the authorization-level details returned in this data pull — license numbers, product names, dosage forms, and approved indication text — were all blank. This is a data gap requiring a direct NPRA product-registration lookup before authorization specifics can be reported.
 
 ---
 
@@ -128,10 +128,10 @@ Peritonitis has the strongest evidence among the five predicted indications (L1,
 - NPRA registration details (license numbers, product names, dosage forms, approved indication text) for the 11 Malaysia listings — currently blank
 - Resolution of the TxGNN score anomaly (0.00% across all ranked indications) before using it in formal scoring
 - Clarify whether peritonitis should be tracked as "repurposing" or as guideline-alignment/label-extension documentation, given the existing off-label/standard-of-care use pattern
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

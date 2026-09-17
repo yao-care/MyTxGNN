@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Elvitegravir
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 309
 evidence_level: L5
 indication_count: 3
@@ -10,12 +10,12 @@ indication_count: 3
 # Elvitegravir
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+Tahap bukti: **L5** | Indikasi diramal: **3** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 3
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -49,7 +49,7 @@ indication_count: 3
 | Predicted New Indication | Simian Immunodeficiency Virus (SIV) Infection |
 | TxGNN Prediction Score | 99.89% |
 | Evidence Level | L4 (preclinical/mechanism studies only — no clinical trials identified) |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 1 |
 | Recommended Decision | Hold |
 
@@ -123,10 +123,10 @@ The top-ranked prediction (SIV infection) and the second-ranked prediction (FIV)
 - Obtain complete Malaysia license details (authorization number, product name, dosage form, approved indication text)
 - If pursuing this lead further, clarify with a subject-matter expert whether the SIV/FIV associations have any translatable human application (e.g., informing HIV pre-exposure prophylaxis or microbicide research) — otherwise these should be deprioritized as non-human artifacts of the knowledge graph
 - No further action needed on the Rank 3 (neurodevelopmental disorder) prediction absent new mechanistic evidence
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

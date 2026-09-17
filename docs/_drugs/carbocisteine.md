@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Carbocisteine
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 193
 evidence_level: L5
 indication_count: 1
@@ -10,12 +10,12 @@ indication_count: 1
 # Carbocisteine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+Tahap bukti: **L5** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -45,7 +45,7 @@ Carbocisteine is a mucolytic (mucoactive) agent conventionally used to reduce th
 | Predicted New Indication | Gout |
 | TxGNN Prediction Score | 99.67% |
 | Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 18 |
 | Recommended Decision | Hold |
 
@@ -97,10 +97,10 @@ This is a pure TxGNN embedding-similarity prediction (L5) with no clinical trial
 - DrugBank mechanism of action data (DG002)
 - Preclinical or mechanistic studies establishing any plausible link between mucolytic activity and urate metabolism / NLRP3 inflammasome pathways
 - Malaysia licence-level product detail (registration numbers, indication texts) for market verification
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

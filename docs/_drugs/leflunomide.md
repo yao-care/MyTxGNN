@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Leflunomide
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 429
 evidence_level: L5
 indication_count: 2
@@ -10,12 +10,12 @@ indication_count: 2
 # Leflunomide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+Tahap bukti: **L5** | Indikasi diramal: **2** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 2
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -45,7 +45,7 @@ indication_count: 2
 | Predicted New Indication | Brachydactyly-syndactyly syndrome |
 | TxGNN Prediction Score | 99.93% (rank 1531 of full candidate list) |
 | Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 5 |
 | Recommended Decision | Hold |
 
@@ -83,10 +83,10 @@ The prediction rests solely on TxGNN model output (L5) with zero supporting clin
 - Confirmed mechanism of action from DrugBank — resolve DG002
 - Complete TFDA license records (authorization numbers, approved indication text) for the 5 existing registrations
 - Preclinical or mechanistic evidence establishing a plausible biological rationale for this indication, given the current rationale finds none
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

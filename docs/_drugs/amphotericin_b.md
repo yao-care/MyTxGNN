@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Amphotericin B
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 69
-evidence_level: L5
+evidence_level: L2
 indication_count: 5
 ---
 
 # Amphotericin B
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L2** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -47,7 +47,7 @@ with **2 clinical trials** and **19 publications** currently supporting this dir
 | Predicted New Indication | Esophageal Candidiasis |
 | TxGNN Prediction Score | 0.00% |
 | Evidence Level | L2 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 2 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -91,7 +91,7 @@ Clinically, Amphotericin B has long served as an alternative or salvage therapy 
 
 ## Malaysia Market Information
 
-The evidence pack confirms **2 registered products** in Malaysia with market status **已上市 (Marketed)**. However, detailed registration data — including licence numbers, product names, dosage forms, and approved indication text — are not available in the current evidence pack. Please refer to the [NPRA registration database](https://www.npra.gov.my/) for full product details.
+The evidence pack confirms **2 registered products** in Malaysia with market status **Marketed (Marketed)**. However, detailed registration data — including licence numbers, product names, dosage forms, and approved indication text — are not available in the current evidence pack. Please refer to the [NPRA registration database](https://www.npra.gov.my/) for full product details.
 
 ---
 
@@ -117,10 +117,10 @@ Amphotericin B's antifungal mechanism directly targets the causative pathogen of
 - **Registered dosage forms:** Confirm which of the 2 registered Malaysian products is the deoxycholate vs. liposomal formulation, as these differ substantially in safety profile and dosing
 - **Safety monitoring protocol:** Define nephrotoxicity monitoring plan (serum creatinine, electrolytes) and infusion-related reaction management, particularly for the conventional formulation
 - **Azole-resistance context:** Clarify the local Malaysian epidemiology of fluconazole-resistant *Candida* to position AmB's role relative to echinocandins as first-line alternatives in resistant cases
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

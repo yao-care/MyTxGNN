@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Anastrozole
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 74
-evidence_level: L5
+evidence_level: L1
 indication_count: 6
 ---
 
 # Anastrozole
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **6** 個
+Tahap bukti: **L1** | Indikasi diramal: **6** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 6
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -47,7 +47,7 @@ This prediction validates TxGNN's knowledge graph reasoning capability and confi
 | Predicted New Indication | Female Breast Carcinoma |
 | TxGNN Prediction Score | 99.68% |
 | Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 4 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -101,7 +101,7 @@ The TxGNN model's highest-ranked prediction for anastrozole is female breast car
 
 ## Malaysia Market Information
 
-Anastrozole has **4 registered products** in Malaysia (market status: ✓ 已上市). Detailed product registration data (authorization numbers, product names, dosage forms, manufacturers, and approved indication text) was not populated in this evidence pack data pull. The table below reflects the registration structure pending full NPRA data retrieval.
+Anastrozole has **4 registered products** in Malaysia (market status: ✓ Marketed). Detailed product registration data (authorization numbers, product names, dosage forms, manufacturers, and approved indication text) was not populated in this evidence pack data pull. The table below reflects the registration structure pending full NPRA data retrieval.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -150,10 +150,10 @@ TxGNN predicts female breast carcinoma as the top indication for anastrozole wit
 - **NPRA product registration details**: Query the NPRA database to populate authorization numbers, product names, dosage forms, and approved indication text for all 4 registered anastrozole products
 - **Bone health management protocol**: Establish a DEXA-guided bone mineral density monitoring and intervention protocol (calcium/vitamin D supplementation, bisphosphonate threshold criteria) appropriate for the Malaysian patient population
 - **Patient selection criteria**: Define postmenopausal status confirmation procedures and ER/PR receptor testing requirements aligned with Malaysian clinical practice standards before any formulary or prescribing guideline update
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

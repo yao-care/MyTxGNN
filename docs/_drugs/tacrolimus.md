@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Tacrolimus
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 633
-evidence_level: L5
+evidence_level: L1
 indication_count: 3
 ---
 
 # Tacrolimus
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+Tahap bukti: **L1** | Indikasi diramal: **3** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 3
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -47,7 +47,7 @@ indication_count: 3
 | Predicted New Indication | Seborrheic Dermatitis |
 | TxGNN Prediction Score | 99.26% |
 | Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 17 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -91,7 +91,7 @@ Critically, this is not a purely computational extrapolation — the predicted i
 
 ## Malaysia Market Information
 
-Tacrolimus holds **17 active NPRA registrations** and is currently marketed (已上市) in Malaysia. Detailed registration data (license numbers, product names, dosage forms, approved indication text) was not returned in this evidence extract — the source records for all sampled licenses were blank fields. This is flagged as a data gap (DG001-adjacent) requiring a direct NPRA product database query before use in regulatory decision-making.
+Tacrolimus holds **17 active NPRA registrations** and is currently marketed (Marketed) in Malaysia. Detailed registration data (license numbers, product names, dosage forms, approved indication text) was not returned in this evidence extract — the source records for all sampled licenses were blank fields. This is flagged as a data gap (DG001-adjacent) requiring a direct NPRA product database query before use in regulatory decision-making.
 
 ---
 
@@ -113,10 +113,10 @@ Seborrheic dermatitis is supported by an unusually strong evidence base for a re
 - Formal DrugBank/NPRA-sourced mechanism of action documentation (DG002)
 - Complete Malaysia registration details (license numbers, product names, dosage forms, approved indication text) for the 17 listed licenses
 - DDI database query (current query returned no results)
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Pregabalin
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 570
-evidence_level: L5
+evidence_level: L1
 indication_count: 5
 ---
 
 # Pregabalin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L1** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -99,7 +99,7 @@ Importantly, the repurposing rationale for fibromyalgia explicitly notes this is
 
 ## Malaysia Market Information
 
-Pregabalin has 63 registered licenses in Malaysia ("已上市" / Marketed status), but the returned license records in this evidence pack do not contain usable product-level data — license number, product name, dosage form, manufacturer, and approved-indication text are all blank across the sampled entries. Product-level registration details could not be extracted for this report and require a direct NPRA query to resolve.
+Pregabalin has 63 registered licenses in Malaysia ("Marketed" / Marketed status), but the returned license records in this evidence pack do not contain usable product-level data — license number, product name, dosage form, manufacturer, and approved-indication text are all blank across the sampled entries. Product-level registration details could not be extracted for this report and require a direct NPRA query to resolve.
 
 ---
 
@@ -121,10 +121,10 @@ The clinical evidence for pregabalin in fibromyalgia is exceptionally strong (Ev
 - Retrieve pregabalin's mechanism-of-action documentation from DrugBank — High-priority gap (DG002).
 - Confirm which specific indications are currently registered under the 63 Malaysia licenses, since license-level indication text was not returned in this dataset.
 - Reconcile the 0.00% TxGNN score against the L1 evidence level to confirm the scoring output is correct for this candidate.
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

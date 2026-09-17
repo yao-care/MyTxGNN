@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Fluorometholone
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 351
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Fluorometholone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L4** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -101,10 +101,10 @@ A Blocking data gap (DG001 — missing NPRA label warnings/contraindications) pr
 - Package insert / label warnings and contraindications (DG001 — download from NPRA and parse)
 - DrugBank mechanism of action data (DG002)
 - Consider re-prioritizing evaluation toward rank #4, "post-bacterial disorder" (evidence level L3, active Phase 2 trial NCT07308938 on fluorometholone as adjunct therapy for bacterial corneal ulcers), which has stronger near-term evidence potential than the top-ranked infectious anterior uveitis candidate
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

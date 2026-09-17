@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Albutrepenonacog Alfa
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 36
 evidence_level: L5
 indication_count: 6
@@ -10,12 +10,12 @@ indication_count: 6
 # Albutrepenonacog Alfa
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **6** 個
+Tahap bukti: **L5** | Indikasi diramal: **6** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 6
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -126,10 +126,10 @@ This indication warrants monitoring: bypass therapy with FEIBA (which contains a
 - **Re-evaluation trigger**: If any Phase 2 or Phase 3 trials investigating FIX-based bypass strategies in non-Haemophilia platelet disorders are registered in future, re-initiate evidence scoring for ranks 2–3
 
 > ⚠️ *This report is for research reference only and does not constitute medical advice. All drug repurposing candidates require clinical validation before any clinical application.*
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

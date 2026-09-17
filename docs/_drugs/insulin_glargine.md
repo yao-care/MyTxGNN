@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Insulin Glargine
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 401
-evidence_level: L5
+evidence_level: L2
 indication_count: 5
 ---
 
 # Insulin Glargine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L2** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -113,10 +113,10 @@ The repurposing hypothesis has high mechanistic plausibility (same drug, same gl
 - Detailed mechanism of action documentation from DrugBank (currently a High-severity data gap)
 - A larger, adequately powered confirmatory RCT specifically in the DKA population (existing trials are underpowered or terminated)
 - Malaysia-specific regulatory review of whether early basal insulin use in DKA falls within, or requires an extension of, the current approved label
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

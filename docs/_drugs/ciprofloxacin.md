@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Ciprofloxacin
-parent: 僅模型預測 (L5)
+parent: Medium Evidence (L3)
 nav_order: 218
-evidence_level: L5
+evidence_level: L3
 indication_count: 5
 ---
 
 # Ciprofloxacin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L3** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -43,7 +43,7 @@ Ciprofloxacin is a broad-spectrum fluoroquinolone antibiotic originally used aga
 | Predicted New Indication | Paratyphoid Fever |
 | TxGNN Prediction Score | 0.00% (reported value; appears inconsistent with the supporting clinical/literature evidence — flagged for data QA) |
 | Evidence Level | L3 |
-| Malaysia Market Status | ✓ 已上市 (Marketed) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 42 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -93,10 +93,10 @@ Ciprofloxacin's use in paratyphoid/enteric fever is supported by a Cochrane syst
 - Confirm whether existing Malaysia product licenses already cover enteric/paratyphoid fever in their approved indication text (license data was not populated in this evidence pack)
 - Investigate the apparent TxGNN score anomaly (0.00% despite supporting SR/RCT evidence) before using it in decision scoring
 - Assess local/regional fluoroquinolone resistance data for *Salmonella* Paratyphi before recommending first-line use
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

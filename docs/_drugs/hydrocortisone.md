@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Hydrocortisone
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 384
-evidence_level: L5
+evidence_level: L4
 indication_count: 5
 ---
 
 # Hydrocortisone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L4** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -45,7 +45,7 @@ Hydrocortisone is the physiological glucocorticoid used broadly for adrenocortic
 | Predicted New Indication | Erythema Multiforme |
 | TxGNN Prediction Score | 0.00% *(as recorded in this evidence pack — likely an unpopulated/placeholder value rather than a true near-zero score; should be re-verified before use)* |
 | Evidence Level | L4 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 58 |
 | Recommended Decision | Hold |
 
@@ -97,7 +97,7 @@ Notably, one case report in the literature set (PMID 10696380) describes a patie
 
 ## Malaysia Market Information
 
-License-level details (authorization number, product name, dosage form, manufacturer) are not available in the current evidence pack — all five sampled license records have blank fields. The regulatory data confirms 58 total registered licenses and "已上市" (marketed) status (see Quick Overview), but product-level specifics require direct TFDA lookup.
+License-level details (authorization number, product name, dosage form, manufacturer) are not available in the current evidence pack — all five sampled license records have blank fields. The regulatory data confirms 58 total registered licenses and "Marketed" (marketed) status (see Quick Overview), but product-level specifics require direct TFDA lookup.
 
 ---
 
@@ -121,10 +121,10 @@ The evidence level is L4 (mechanism/preclinical-adjacent only) with no clinical 
 - Mechanism of action data (DG002, High) — needed to assess mechanistic plausibility beyond general corticosteroid class effects
 - A clinical trial or case series specifically testing hydrocortisone (not other corticosteroids) as an EM treatment, to move beyond preclinical/anecdotal evidence
 - **Note:** this evidence pack also scored "hemorrhoid" as this drug's rank-2 predicted indication, with substantially stronger evidence (L2, multiple completed Phase 2 RCTs, "Proceed with Guardrails" recommendation) reflecting hydrocortisone's already-established label use (e.g., Anusol-HC, Proctofoam-HC). That candidate may warrant separate evaluation as a more actionable repurposing/label-extension case than erythema multiforme.
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

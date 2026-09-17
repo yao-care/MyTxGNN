@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Nimodipine
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 501
 evidence_level: L5
 indication_count: 2
@@ -10,12 +10,12 @@ indication_count: 2
 # Nimodipine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+Tahap bukti: **L5** | Indikasi diramal: **2** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 2
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -83,10 +83,10 @@ Both predicted indications sit at evidence level L5 / decision stage S0 — high
 - Confirmed mechanism-of-action data from DrugBank or primary literature
 - Any preclinical or mechanistic studies linking CCB activity to lipid metabolism (HoFH) or V2-receptor/cAMP signaling (NSIAD)
 - Re-screen for clinical trials/literature periodically, as current searches returned no hits for either indication
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

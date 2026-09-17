@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lorlatinib
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 457
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Lorlatinib
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -51,7 +51,7 @@ A note before the report: the Evidence Pack itself flags severe data-quality pro
 | Predicted New Indication | Gingival Fibromatosis |
 | TxGNN Prediction Score | 99.81% |
 | Evidence Level | L5 (model prediction only — no clinical trials, no literature) |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 2 (license-level detail fields are currently empty in the dataset) |
 | Recommended Decision | **Hold** |
 
@@ -124,10 +124,10 @@ Please refer to the package insert for safety information. (Key warnings, contra
 - Populate the missing Malaysia license-level fields (product name, dosage form, indication text) for the 2 existing registrations
 - Before relying on this candidate batch's rankings at all, have the data pipeline re-verify the disease-label-to-literature mapping — at least 5 of the 10 ranked candidates in this batch returned literature describing a different disease than the one labeled
 - Separately re-evaluate rank #6 under its correct underlying disease (ALK-driven pediatric neuroblastoma, not "lung germ cell tumor") — this is the only candidate in the batch with genuine mechanistic plausibility and real trial data (PMID 37012551), and merits its own S2 research-question workup rather than being folded into this noisy ranking
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

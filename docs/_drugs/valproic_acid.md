@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Valproic Acid
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 682
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Valproic Acid
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L2** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -45,7 +45,7 @@ Valproic acid is a broad-spectrum antiepileptic drug (AED) already marketed in M
 | Predicted New Indication | Visual epilepsy (photosensitive / visual-stimulus-induced reflex seizures) |
 | TxGNN Prediction Score | 99.88% |
 | Evidence Level | L2 |
-| Malaysia Market Status | ✓ 已上市 (Marketed) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 3 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -131,10 +131,10 @@ Please refer to the package insert for safety information. (TFDA/NPRA labeled wa
 - DrugBank-sourced mechanism of action data (DG002) to strengthen the mechanistic rationale
 - NPRA license numbers, product names, and approved indication text (currently blank in this pack) to confirm current labeled scope
 - A prospective study or registry analysis specifically targeting photosensitive/reflex epilepsy outcomes with valproic acid, rather than relying on general-epilepsy literature
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tipiracil
-parent: 高證據等級 (L1-L2)
+parent: High Evidence (L1-L2)
 nav_order: 652
 evidence_level: L1
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Tipiracil
 {: .fs-9 }
 
-證據等級: **L1** | 預測適應症: **10** 個
+Tahap bukti: **L1** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -48,7 +48,7 @@ TxGNN 模型預測其對 **Colonic Neoplasm（大腸腫瘤）** 具高度關聯�
 | 預測新適應症 | Colonic Neoplasm |
 | TxGNN 預測分數 | 99.99% |
 | 證據等級 | L1 |
-| 馬來西亞市場狀態 | 已上市 |
+| 馬來西亞市場狀態 | Marketed |
 | 註冊許可證數量 | 2 |
 | 建議決策 | Proceed with Guardrails |
 
@@ -98,7 +98,7 @@ TxGNN 模型預測其對 **Colonic Neoplasm（大腸腫瘤）** 具高度關聯�
 
 ## 馬來西亞市場資訊
 
-NPRA 資料庫顯示 Tipiracil 相關製劑於馬來西亞共有 **2 筆有效註冊許可證**（市場狀態：已上市），但許可證編號、產品名稱、劑型、製造商及核准適應症文字等細項尚未取得，需另行向 NPRA 官網查詢補齊。
+NPRA 資料庫顯示 Tipiracil 相關製劑於馬來西亞共有 **2 筆有效註冊許可證**（市場狀態：Marketed），但許可證編號、產品名稱、劑型、製造商及核准適應症文字等細項尚未取得，需另行向 NPRA 官網查詢補齊。
 
 ---
 
@@ -136,10 +136,10 @@ NPRA 資料庫顯示 Tipiracil 相關製劑於馬來西亞共有 **2 筆有效�
 - DrugBank 作用機轉確認資料（DG002）
 - 完整的馬來西亞許可證明細（許可證號、產品名、劑型、核准適應症文字）
 - 釐清「Colonic Neoplasm」預測與現行核准適應症（轉移性大腸直腸癌）之差異，確認是否構成真正的老藥新用機會
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

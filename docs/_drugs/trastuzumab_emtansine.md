@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Trastuzumab Emtansine
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 664
-evidence_level: L5
+evidence_level: L4
 indication_count: 4
 ---
 
 # Trastuzumab Emtansine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **4** 個
+Tahap bukti: **L4** | Indikasi diramal: **4** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 4
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -111,10 +111,10 @@ The top-ranked prediction (normal breast-like subtype) has only one indirectly r
 - Complete NPRA license records (product names, dosage forms, approved indication text) for the 6 registered products
 - Literature or trial evidence specifically evaluating T-DM1 in PAM50 normal-like breast cancer
 - Separately, consider evaluating Rank 3 (PR-negative breast cancer, L1 evidence) as a distinct, better-supported candidate — while noting it may represent a subgroup of the existing approved indication rather than a novel use
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

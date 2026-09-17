@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cyproterone Acetate
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 243
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Cyproterone Acetate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -45,7 +45,7 @@ Cyproterone acetate is an antiandrogen with progestogenic activity, marketed in 
 | Predicted New Indication | Migraine Disorder |
 | TxGNN Prediction Score | 99.66% |
 | Evidence Level | L5 (model prediction only) |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 4 |
 | Recommended Decision | Hold |
 
@@ -75,7 +75,7 @@ Currently no related literature available.
 
 ## Malaysia Market Information
 
-NPRA records confirm cyproterone acetate holds **4 marketed authorizations** in Malaysia (status: 已上市/Marketed). Detailed authorization numbers, product names, dosage forms, and approved indication text are not available in the current dataset.
+NPRA records confirm cyproterone acetate holds **4 marketed authorizations** in Malaysia (status: Marketed/Marketed). Detailed authorization numbers, product names, dosage forms, and approved indication text are not available in the current dataset.
 
 ---
 
@@ -97,10 +97,10 @@ This candidate has evidence level L5 — a TxGNN score alone, with zero supporti
 - Verified mechanism of action data from DrugBank (DG002)
 - At minimum, preclinical or observational evidence linking hormonal modulation to migraine frequency before considering further clinical evaluation
 - Caution: re-screen the full 10-candidate prediction set for this drug — several entries appear to reflect risk-factor associations rather than therapeutic ones, and should not be advanced without independent mechanistic review
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

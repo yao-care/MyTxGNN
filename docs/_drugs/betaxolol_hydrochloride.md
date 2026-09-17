@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Betaxolol Hydrochloride
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 140
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Betaxolol Hydrochloride
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Tahap bukti: **L5** | Indikasi diramal: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -45,7 +45,7 @@ Betaxolol hydrochloride is a selective beta-1 adrenergic receptor antagonist (be
 | Predicted New Indication | **None** (no TxGNN predictions generated) |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | **L5** (No predictions, no supporting studies) |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 1 |
 | Recommended Decision | **Hold** |
 
@@ -119,10 +119,10 @@ No TxGNN repurposing predictions were generated for Betaxolol Hydrochloride, and
 - **Re-populate NPRA license details** (authorization number, product name, dosage form, approved indication)
 - **Verify TxGNN pipeline input**: Confirm that Betaxolol was correctly mapped in the knowledge graph and re-run the prediction if necessary
 - **Re-generate the evidence pack** once the above gaps are filled, then re-evaluate
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

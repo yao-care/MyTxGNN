@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Busulfan
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 170
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Busulfan
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L1** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -141,10 +141,10 @@ Please refer to the package insert for safety information. (Key warnings, contra
 - Clarify messaging so the MDS "prediction" is presented as supporting an established conditioning-regimen role rather than a de novo indication
 
 **Other predicted indications in this evidence pack (for context, not actioned here):** Refractory cytopenia of childhood (L2, Research Question) and unclassified MDS (L3, Research Question) are directionally consistent with the MDS signal above but have thinner evidence. Five candidates — 5q- deletion syndrome, severe congenital sideroblastic anemia, HIV infection, a rare neurodevelopmental disorder, and seborrheic keratosis, plus simian immunodeficiency virus infection — returned no clinical trial or literature support (L5, Hold) and, per the evidence pack's own annotations, several (seborrheic keratosis, SIV infection) are likely knowledge-graph noise rather than genuine repurposing signals; none warrant further investment without new independent evidence.
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

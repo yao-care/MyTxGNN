@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Prilocaine
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 572
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Prilocaine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L2** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -43,7 +43,7 @@ Prilocaine is an amide-type local anesthetic, used for injectable/topical local 
 | Predicted New Indication | Neuralgia (notably postherpetic neuralgia) |
 | TxGNN Prediction Score | 99.34% |
 | Evidence Level | L2 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 4 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -87,7 +87,7 @@ This mechanistic plausibility is supported by a body of clinical literature: EML
 
 ## Malaysia Market Information
 
-The dataset confirms **4 active NPRA registrations** for prilocaine-containing products (market status: 已上市/Marketed), but the current evidence pack does not yet include the underlying license numbers, product names, dosage forms, or approved indication text for these registrations — these fields are present in the schema but blank in this pull. This data should be retrieved from the NPRA product registry before finalizing the market-access assessment.
+The dataset confirms **4 active NPRA registrations** for prilocaine-containing products (market status: Marketed/Marketed), but the current evidence pack does not yet include the underlying license numbers, product names, dosage forms, or approved indication text for these registrations — these fields are present in the schema but blank in this pull. This data should be retrieved from the NPRA product registry before finalizing the market-access assessment.
 
 ## Safety Considerations
 
@@ -108,10 +108,10 @@ Neuralgia (postherpetic neuralgia) is the only one of TxGNN's 10 predicted indic
 - NPRA license-level detail (product names, dosage forms, approved indication text) for the 4 registered products
 - Confirmation of methemoglobinemia and allergic-reaction risk data specific to the registered Malaysia formulations, given known class-level safety signals
 - A dedicated prilocaine (or lidocaine-prilocaine) RCT in postherpetic neuralgia to close the current L2 evidence gap
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

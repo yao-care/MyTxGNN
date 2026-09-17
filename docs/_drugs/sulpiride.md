@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sulpiride
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 631
 evidence_level: L5
 indication_count: 9
@@ -10,12 +10,12 @@ indication_count: 9
 # Sulpiride
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **9** 個
+Tahap bukti: **L5** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 9
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -96,10 +96,10 @@ There is no clinical trial or disease-specific literature evidence for this drug
 - Confirmed mechanism of action via DrugBank API to close the MOA data gap
 - Independent biological/genetic plausibility review, since the predicted target is a structural congenital disorder rather than a pharmacologically modulable pathway
 - Given the pattern across all 9 predictions in this pack (uniform L5/Hold, zero trials/literature), consider deprioritizing this candidate set pending stronger signal from a future model iteration
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

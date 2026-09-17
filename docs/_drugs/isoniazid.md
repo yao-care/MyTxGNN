@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Isoniazid
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 413
 evidence_level: L5
 indication_count: 1
@@ -10,12 +10,12 @@ indication_count: 1
 # Isoniazid
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+Tahap bukti: **L5** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -98,10 +98,10 @@ The predicted association between isoniazid and conjunctivitis is not supported 
 - Obtain TFDA/NPRA package insert warnings, contraindications, and DDI data (currently Blocking gap)
 - Obtain confirmed mechanism of action documentation
 - If pursuing the TB-conjunctivitis angle, seek dedicated clinical evidence beyond isolated case reports
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

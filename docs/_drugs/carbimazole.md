@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Carbimazole
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 192
-evidence_level: L5
+evidence_level: L4
 indication_count: 3
 ---
 
 # Carbimazole
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+Tahap bukti: **L4** | Indikasi diramal: **3** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 3
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -114,10 +114,10 @@ This evidence pack contained two additional predicted indications with notably d
 | 3 | Hyperthyroxinemia | 99.21% | L4 | Hold |
 
 Rank 2 (neonatal thyrotoxicosis) is backed by 20 publications, including cohort studies, and reflects an already-established clinical practice (transplacental maternal Graves' antibodies causing neonatal thyrotoxicosis, treated with antithyroid drugs per ATA/ESPE guidance) — its evidence base is materially stronger than the RTHβ candidate featured above and may warrant prioritization if this evaluation is intended to identify the most actionable repurposing opportunity for Carbimazole.
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

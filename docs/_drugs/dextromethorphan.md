@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Dextromethorphan
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 267
-evidence_level: L5
+evidence_level: L2
 indication_count: 6
 ---
 
 # Dextromethorphan
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **6** 個
+Tahap bukti: **L2** | Indikasi diramal: **6** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 6
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -124,10 +124,10 @@ Dextromethorphan has a well-established safety profile with extensive market ava
 - Identification of preclinical or pilot studies targeting nasal cavity inflammatory conditions with NMDA antagonists or sigma-1 agonists
 - Drug-drug interaction profiling for commonly co-administered nasal/respiratory medications (e.g., intranasal corticosteroids, antihistamines)
 - Assessment of appropriate dosage form and route of administration for nasal cavity disease (oral vs. topical nasal delivery)
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

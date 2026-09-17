@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Clofazimine
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 229
 evidence_level: L5
 indication_count: 3
@@ -10,12 +10,12 @@ indication_count: 3
 # Clofazimine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+Tahap bukti: **L5** | Indikasi diramal: **3** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 3
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -98,10 +98,10 @@ The top-ranked predicted indication (pneumocystosis) is unsupported by any clini
 - DrugBank mechanism-of-action detail — resolves High-severity Data Gap DG002
 - Confirmed NPRA license text for the 4 existing Malaysia registrations (license number, product name, dosage form, approved indication)
 - If pursuing the malaria candidate instead of pneumocystosis: a targeted external literature search for in vitro/in vivo antiplasmodial data on clofazimine, since this evidence pack's automated search found none despite the rationale citing prior reports
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

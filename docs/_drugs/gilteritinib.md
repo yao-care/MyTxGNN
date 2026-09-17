@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Gilteritinib
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 367
 evidence_level: L5
 indication_count: 1
@@ -10,12 +10,12 @@ indication_count: 1
 # Gilteritinib
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+Tahap bukti: **L5** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -82,10 +82,10 @@ The prediction is supported only by a TxGNN graph score (L5, no clinical or lite
 - Official TFDA/NPRA label data — warnings, contraindications, and full approved indication text (currently blocking)
 - Verified mechanism of action documentation (currently a data gap)
 - Any preclinical or mechanistic evidence connecting FLT3/AXL inhibition to poliovirus pathology, motor neuron protection, or antiviral activity, before further evaluation is warranted
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

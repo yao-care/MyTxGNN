@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Milrinone
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 485
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Milrinone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -43,7 +43,7 @@ Milrinone is a PDE3-inhibitor inotrope/vasodilator used short-term for acute dec
 | Predicted New Indication | Headache Disorder (specifically: RCVS-associated headache) |
 | TxGNN Prediction Score | 99.46% (rank 7,623 of candidates) |
 | Evidence Level | L3 (case reports/case series only) |
-| Malaysia Market Status | ✓ 已上市 (Marketed) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 1 |
 | Recommended Decision | Research Question |
 
@@ -73,7 +73,7 @@ This mechanism is narrow: it applies to vasospasm-driven secondary headache (RCV
 
 ## Malaysia Market Information
 
-NPRA records confirm Milrinone holds **1 active registration** in Malaysia with market status "已上市 (Marketed)." License number, product name, dosage form, and the approved indication text were not captured in this data pull — this is recorded as **Data Gap DG001 (Blocking)** in the evidence pack and must be resolved before any safety review can proceed.
+NPRA records confirm Milrinone holds **1 active registration** in Malaysia with market status "Marketed (Marketed)." License number, product name, dosage form, and the approved indication text were not captured in this data pull — this is recorded as **Data Gap DG001 (Blocking)** in the evidence pack and must be resolved before any safety review can proceed.
 
 ## Safety Considerations
 
@@ -92,10 +92,10 @@ Evidence is limited to three case reports/series (L3) supporting a mechanistical
 - Clarify route of administration required for RCVS efficacy (published cases use intra-arterial infusion — standard IV/oral milrinone formulations may not replicate this effect)
 - Seek a dedicated RCVS case series or registry data beyond the 3 existing case reports to raise evidence level above L3
 - Separately re-triage rank 1–4 (alopecia/hypotrichosis cluster) and rank 7–9 (migraine cluster) predictions — evidence pack already recommends Hold with no further action pending new trial/literature signals
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

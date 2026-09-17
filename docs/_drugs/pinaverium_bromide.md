@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pinaverium Bromide
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 547
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Pinaverium Bromide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Tahap bukti: **L5** | Indikasi diramal: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -88,10 +88,10 @@ The TxGNN knowledge graph prediction pipeline requires a valid DrugBank ID to ma
 - **Re-run the TxGNN pipeline** after resolving DG001 and DG002; expected outputs include repurposing candidate rankings, supporting clinical trial evidence, and literature citations
 - **Populate NPRA license details** (authorization numbers, product names, dosage forms, approved indications) from the NPRA registration portal to complete the Malaysia regulatory section
 - **Verify market status and indication scope** through official NPRA records to confirm whether current Malaysian approvals already cover any predicted new indications (which would simplify the regulatory pathway)
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

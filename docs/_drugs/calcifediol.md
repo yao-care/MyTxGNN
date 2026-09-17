@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Calcifediol
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 176
 evidence_level: L5
 indication_count: 4
@@ -10,12 +10,12 @@ indication_count: 4
 # Calcifediol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **4** 個
+Tahap bukti: **L5** | Indikasi diramal: **4** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 4
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -144,7 +144,7 @@ Neither trial directly tests calcifediol as a VDDR treatment — both are includ
 
 ## Malaysia Market Information
 
-NPRA market status is **Marketed (已上市)** with **4 registered licenses**. However, this evidence pack does not contain license-level detail (authorization numbers, product names, dosage forms, or approved indication text) — all four license records were returned empty. This data gap should be closed by pulling the NPRA product register directly before any regulatory-facing use of this report.
+NPRA market status is **Marketed (Marketed)** with **4 registered licenses**. However, this evidence pack does not contain license-level detail (authorization numbers, product names, dosage forms, or approved indication text) — all four license records were returned empty. This data gap should be closed by pulling the NPRA product register directly before any regulatory-facing use of this report.
 
 ---
 
@@ -170,10 +170,10 @@ Please refer to the package insert for safety information. No key warnings, cont
 - If pursuing Hereditary Hypophosphatemic Rickets (rank 3, the strongest genuine candidate at "Research Question" stage), commission a targeted literature/mechanism review distinguishing calcifediol's adjunctive role from standard-of-care active-vitamin-D analogues.
 - If VDDR is pursued further, restrict scope to the VDDR type 1B (CYP2R1-deficient) subgroup rather than VDDR broadly, given the mechanistic contradiction for types 1 and 2.
 - Populate the missing NPRA license-level fields (product names, dosage forms, indication text) for the 4 registered products.
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

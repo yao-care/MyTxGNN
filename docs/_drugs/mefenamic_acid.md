@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Mefenamic Acid
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 468
-evidence_level: L5
+evidence_level: L1
 indication_count: 8
 ---
 
 # Mefenamic Acid
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **8** 個
+Tahap bukti: **L1** | Indikasi diramal: **8** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 8
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -43,7 +43,7 @@ Mefenamic acid is a fenamate-class NSAID established for pain and inflammation c
 | Predicted New Indication | Rheumatoid Arthritis |
 | TxGNN Prediction Score | 99.73% |
 | Evidence Level | L1 |
-| Market Status | ✓ Marketed (已上市) |
+| Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 36 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -94,10 +94,10 @@ Multiple double-blind RCTs from the 1960s–1980s support mefenamic acid's effic
 - Confirmed DrugBank mechanism-of-action detail
 - Modern real-world or comparative-effectiveness data, given all supporting RA trials predate current registries and current NSAID/DMARD standard-of-care benchmarks
 - Individual NPRA license/product listings to confirm current approved indication wording and dosage forms
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

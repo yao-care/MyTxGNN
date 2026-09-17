@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Edaravone
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 306
 evidence_level: L5
 indication_count: 2
@@ -10,12 +10,12 @@ indication_count: 2
 # Edaravone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+Tahap bukti: **L5** | Indikasi diramal: **2** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 2
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -51,7 +51,7 @@ Edaravone is currently marketed in Malaysia (1 active registration), but its ori
 | Predicted New Indication | Heparin Cofactor 2 Deficiency |
 | TxGNN Prediction Score | 99.47% |
 | Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 1 |
 | Recommended Decision | Hold |
 
@@ -106,10 +106,10 @@ The prediction is supported only by a TxGNN embedding-similarity score (Evidence
 - Confirm the original approved indication text and full license details (currently blank in the registry record)
 - Conduct a targeted literature/mechanistic review on any link between oxidative-stress pathways and heparin cofactor II or Factor V regulation before advancing past S0
 - Given the complete absence of clinical or trial evidence (L5), any further pursuit should start with preclinical/mechanistic studies rather than clinical evaluation
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

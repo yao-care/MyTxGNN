@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Etoricoxib
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 332
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Etoricoxib
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -95,10 +95,10 @@ The prediction score is high, but evidence level is L5 — a pure TxGNN model pr
 - Etoricoxib-specific migraine trial or publication search, or a formal literature review of NSAID/COX-2 inhibitors in migraine treatment
 - If pursuing headache-spectrum indications instead, consider re-scoring "headache disorder" and "trigeminal autonomic cephalalgia" (ranks 9–10), which have case-level literature support that migraine disorder itself lacks
 - Original (approved) indication text from NPRA licensing data, currently blank in the source extract
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Carbidopa
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 191
-evidence_level: L5
+evidence_level: L1
 indication_count: 5
 ---
 
 # Carbidopa
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L1** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -43,7 +43,7 @@ Carbidopa is a peripheral dopa-decarboxylase (DDC) inhibitor used together with 
 | Predicted New Indication | Parkinsonian Disorder |
 | TxGNN Prediction Score | 0.00% |
 | Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 12 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -104,10 +104,10 @@ The evidence base for carbidopa in Parkinson's disease/parkinsonian disorder is 
 - Correct/investigate the TxGNN scoring pipeline — a uniform 0.0% score across all five candidates suggests a normalization or export issue that should be fixed before this candidate set is used for prioritization
 - Deduplicate "Parkinsonian Disorder" and "Parkinson Disease" at the ontology level so future runs don't double-count the same known indication as two separate repurposing candidates
 - If genuine novel indications are the goal, re-run prediction excluding the drug's own labeled disease class to surface true candidates
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

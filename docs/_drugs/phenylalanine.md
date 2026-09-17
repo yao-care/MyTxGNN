@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Phenylalanine
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 544
 evidence_level: L5
 indication_count: 2
@@ -10,12 +10,12 @@ indication_count: 2
 # Phenylalanine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+Tahap bukti: **L5** | Indikasi diramal: **2** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 2
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -44,7 +44,7 @@ The TxGNN model predicts it may be effective for **Sclerosing Cholangitis**, wit
 | Predicted New Indication | Sclerosing Cholangitis |
 | TxGNN Prediction Score | 99.43% |
 | Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 35 |
 | Recommended Decision | Hold |
 
@@ -88,10 +88,10 @@ The prediction rests solely on a TxGNN topological score (L5 evidence) with no s
 - Mechanism of action (MOA) data for phenylalanine from DrugBank
 - TFDA/NPRA label warnings, contraindications, and approved indication text (currently blocking, per data gap DG001)
 - Any preclinical or mechanistic study directly linking phenylalanine metabolism to cholangitis/biliary fibrosis before further evaluation is warranted
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

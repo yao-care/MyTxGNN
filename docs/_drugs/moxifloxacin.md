@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Moxifloxacin
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 491
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Moxifloxacin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -84,10 +84,10 @@ The prediction reaches Evidence Level L5 (model prediction only) — no clinical
 - Confirmed mechanism of action data for moxifloxacin (DG002)
 - Preclinical or mechanistic evidence connecting fluoroquinolone antibacterials to pancreatic amylase regulation
 - Original approved indication text from the regulatory license record, to properly assess indication-to-indication plausibility
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

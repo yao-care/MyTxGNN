@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Ofloxacin
-parent: 僅模型預測 (L5)
+parent: Medium Evidence (L3)
 nav_order: 516
-evidence_level: L5
+evidence_level: L3
 indication_count: 5
 ---
 
 # Ofloxacin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L3** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -76,7 +76,7 @@ Currently no related clinical trials registered.
 
 ## Malaysia Market Information
 
-Registration-level details (license numbers, product names, dosage forms, approved indication text) were not returned in this data extraction — all fields in the source license records were empty. Based on aggregate registry data, Ofloxacin holds **148 total registrations** and is currently marketed ("已上市") in Malaysia.
+Registration-level details (license numbers, product names, dosage forms, approved indication text) were not returned in this data extraction — all fields in the source license records were empty. Based on aggregate registry data, Ofloxacin holds **148 total registrations** and is currently marketed ("Marketed") in Malaysia.
 
 ## Safety Considerations
 
@@ -95,10 +95,10 @@ Literature evidence (Cochrane systematic reviews, a BMJ meta-analysis, and decad
 - Current regional antimicrobial resistance data for *Salmonella* Paratyphi against fluoroquinolones
 - Drug-drug interaction (DDI) data, currently not found
 - Complete Malaysia license/product registry detail (indication text, dosage forms) for the marketed products
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

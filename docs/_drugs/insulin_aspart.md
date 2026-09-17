@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Insulin Aspart
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 398
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Insulin Aspart
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L1** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -97,7 +97,7 @@ None of the remaining nine TxGNN predictions in this batch (autoimmune oophoriti
 
 ## Malaysia Market Information
 
-Detailed license-level records (product name, dosage form, indication text) were not returned in this evidence pack — the NPRA query confirms 16 active registrations, but the sampled license entries are blank. Market status is confirmed as marketed ("已上市").
+Detailed license-level records (product name, dosage form, indication text) were not returned in this evidence pack — the NPRA query confirms 16 active registrations, but the sampled license entries are blank. Market status is confirmed as marketed ("Marketed").
 
 ---
 
@@ -121,10 +121,10 @@ Please refer to the package insert for safety information. **Note:** The absence
 - Obtain DrugBank mechanism-of-action detail to close DG002
 - Re-run TxGNN candidate generation with existing/approved indications excluded, to surface genuine novel repurposing hypotheses for this drug
 - If pursuing permanent neonatal diabetes mellitus or pancreatic agenesis as research questions (both mechanistically plausible but evidence-thin), commission a targeted literature review before further evidence collection
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

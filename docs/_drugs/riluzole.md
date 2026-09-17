@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Riluzole
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 593
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Riluzole
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -67,7 +67,7 @@ Currently no related literature available.
 
 ## Malaysia Market Information
 
-The evidence pack records 1 total registration for Riluzole with market status "已上市" (Marketed), but the underlying license record (authorization number, product name, dosage form, approved indication text) is empty in the source data — no populated fields are available to construct a market information table.
+The evidence pack records 1 total registration for Riluzole with market status "Marketed" (Marketed), but the underlying license record (authorization number, product name, dosage form, approved indication text) is empty in the source data — no populated fields are available to construct a market information table.
 
 ## Safety Considerations
 
@@ -86,10 +86,10 @@ The top-ranked candidate has no clinical or literature support (L5, S0), and the
 - Any preclinical or case-level evidence specifically linking Riluzole to cortical migration disorders, before this candidate can move past S0
 
 **Note on other candidates in this pack:** rank 2 (ALS) is Riluzole's original approved indication, not a repurposing candidate, despite strong evidence (L1). Ranks 4, 7, and 8 (lower motor neuron syndrome, monomelic amyotrophy, Mills syndrome) carry plausible mechanistic overlap with ALS pathology but currently have zero trial/literature support (L5) — these are flagged "Research Question" in the source data and may be more productive candidates for future evidence-gathering than the top-ranked prediction reviewed above.
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

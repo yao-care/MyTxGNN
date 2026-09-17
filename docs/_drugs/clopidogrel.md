@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Clopidogrel
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 233
 evidence_level: L5
 indication_count: 8
@@ -10,12 +10,12 @@ indication_count: 8
 # Clopidogrel
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **8** 個
+Tahap bukti: **L5** | Indikasi diramal: **8** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 8
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -47,7 +47,7 @@ indication_count: 8
 | Predicted New Indication | Migraine with brainstem aura |
 | TxGNN Prediction Score | 99.44% |
 | Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 23 |
 | Recommended Decision | Hold |
 
@@ -77,7 +77,7 @@ Currently no related literature available.
 
 ## Malaysia Market Information
 
-Clopidogrel is registered in Malaysia with 23 total licences and an active ("已上市") market status. However, licence-level details (registration number, product name, dosage form, approved indication text) were not populated in this evidence pack extract and require follow-up retrieval from the NPRA source.
+Clopidogrel is registered in Malaysia with 23 total licences and an active ("Marketed") market status. However, licence-level details (registration number, product name, dosage form, approved indication text) were not populated in this evidence pack extract and require follow-up retrieval from the NPRA source.
 
 ---
 
@@ -102,10 +102,10 @@ All 8 TxGNN-predicted indications for clopidogrel (including the top-ranked migr
 - Populate licence-level product/indication details for the 23 Malaysia registrations (currently all blank)
 - Re-run clinical trial / literature searches periodically — current searches (as of 2026-03-27) returned zero hits across all 8 predicted indications
 - If pursuing further, prioritize rheumatoid arthritis (rank 7) for mechanistic follow-up, as its rationale (platelet involvement in synovial inflammation) is comparatively stronger than the other candidates, despite currently having no trial or literature support
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

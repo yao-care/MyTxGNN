@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Mesalazine
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 475
-evidence_level: L5
+evidence_level: L2
 indication_count: 7
 ---
 
 # Mesalazine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **7** 個
+Tahap bukti: **L2** | Indikasi diramal: **7** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 7
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -45,7 +45,7 @@ Mesalazine (5-aminosalicylic acid) is the active metabolite of sulfasalazine and
 | Predicted New Indication | Rheumatoid Arthritis |
 | TxGNN Prediction Score | 99.57% |
 | Evidence Level | L2 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 16 |
 | Recommended Decision | Hold |
 
@@ -83,7 +83,7 @@ By contrast, the osteoarthritis candidate (rank 2, not the focus of this report)
 
 ## Malaysia Market Information
 
-16 products are registered with NPRA (marketed status: 已上市), but the evidence pack does not contain product-level detail — license numbers, product names, dosage forms, and approved indication text are all blank in the current data set (data gap). This information needs to be pulled directly from NPRA before further evaluation.
+16 products are registered with NPRA (marketed status: Marketed), but the evidence pack does not contain product-level detail — license numbers, product names, dosage forms, and approved indication text are all blank in the current data set (data gap). This information needs to be pulled directly from NPRA before further evaluation.
 
 ## Safety Considerations
 
@@ -102,10 +102,10 @@ The RA hypothesis is mechanistically plausible through the sulfasalazine-DMARD p
 - Clarification of active-moiety attribution (mesalazine vs. sulfapyridine) for the RA effect
 - NPRA product-level registration details (license numbers, dosage forms, approved indication text)
 - Consider parallel tracking of the osteoarthritis candidate (rank 2), which has a more direct 2024 mechanistic study for 5-ASA itself, despite lacking clinical trials
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Zinc Chloride
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 697
 evidence_level: L5
 indication_count: 3
@@ -10,12 +10,12 @@ indication_count: 3
 # Zinc Chloride
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+Tahap bukti: **L5** | Indikasi diramal: **3** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 3
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -45,7 +45,7 @@ Zinc Chloride (DrugBank DB14533) is marketed in Taiwan under 3 existing licenses
 | Predicted New Indication | Severe Nonproliferative Diabetic Retinopathy |
 | TxGNN Prediction Score | 99.34% |
 | Evidence Level | L5 |
-| Taiwan Market Status | ✓ Marketed (已上市) |
+| Taiwan Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 3 |
 | Recommended Decision | Hold |
 
@@ -73,7 +73,7 @@ Currently no related literature available.
 
 ## Taiwan Market Information
 
-Zinc Chloride currently holds 3 marketed licenses in Taiwan (市場狀態: 已上市); however, structured details such as license numbers, product names, dosage forms, and approved indication text are not yet available in the evidence pack and require retrieval from TFDA records.
+Zinc Chloride currently holds 3 marketed licenses in Taiwan (市場狀態: Marketed); however, structured details such as license numbers, product names, dosage forms, and approved indication text are not yet available in the evidence pack and require retrieval from TFDA records.
 
 ---
 
@@ -108,10 +108,10 @@ The top-ranked predicted indication (severe NPDR) is supported only by a TxGNN m
 - Mechanism of action (MOA) data from DrugBank or primary literature
 - Complete license/registration details (license numbers, approved indication text, dosage forms) for the 3 Taiwan marketing authorizations
 - If pursuing the dry eye syndrome signal (Rank 3) instead, formulation-level confirmation that zinc chloride (not complex zinc-hyaluronate formulations) drives the observed clinical effect
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Levonorgestrel
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 437
-evidence_level: L5
+evidence_level: L2
 indication_count: 6
 ---
 
 # Levonorgestrel
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **6** 個
+Tahap bukti: **L2** | Indikasi diramal: **6** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 6
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -119,10 +119,10 @@ Please refer to the package insert for safety information.
 - Obtain detailed mechanism-of-action documentation from DrugBank to close data gap DG002
 - Identify or conduct a study evaluating levonorgestrel specifically (as opposed to combined EE/LNG formulations) for acne, since current supportive evidence is confounded by the estrogen component
 - Confirm which of the 15 Malaysia-registered levonorgestrel products (oral pill, IUS, or emergency contraceptive) would be the relevant formulation/route if this indication were pursued, since route compatibility is currently unassessed
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

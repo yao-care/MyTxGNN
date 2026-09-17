@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Piroxicam
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 554
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Piroxicam
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L4** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -85,7 +85,7 @@ Eight Piroxicam product registrations are confirmed active on the Malaysian NPRA
 | Item | Detail |
 |------|--------|
 | Total Registrations Confirmed | 8 products |
-| Market Status | Marketed (已上市) |
+| Market Status | Marketed (Marketed) |
 | Full Product Details | Retrieve from [NPRA Product Registration Search](https://www.npra.gov.my/index.php/en/product-registration) |
 
 ---
@@ -132,10 +132,10 @@ These closely related indications share Piroxicam's core COX-inhibition mechanis
 ---
 
 > ⚠️ **Disclaimer**: This report is intended for research reference only and does not constitute medical advice. All drug repurposing candidates require clinical validation before any clinical application. YMYL content — all findings should be interpreted by qualified healthcare professionals.
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

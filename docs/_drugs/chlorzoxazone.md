@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Chlorzoxazone
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 211
-evidence_level: L5
+evidence_level: L4
 indication_count: 9
 ---
 
 # Chlorzoxazone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **9** 個
+Tahap bukti: **L4** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 9
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -45,7 +45,7 @@ Chlorzoxazone is a centrally-acting skeletal muscle relaxant historically used f
 | Predicted New Indication | Migraine Disorder |
 | TxGNN Prediction Score | 99.73% |
 | Evidence Level | L4 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 1 |
 | Recommended Decision | Hold |
 
@@ -77,7 +77,7 @@ Currently no related clinical trials registered.
 
 ## Malaysia Market Information
 
-One registration is on file (market status: 已上市 / Marketed), but the current data extract does not include the license number, product name, dosage form, or approved indication text for this registration — these fields need to be pulled from the NPRA source record directly.
+One registration is on file (market status: Marketed / Marketed), but the current data extract does not include the license number, product name, dosage form, or approved indication text for this registration — these fields need to be pulled from the NPRA source record directly.
 
 ---
 
@@ -103,10 +103,10 @@ The strongest evidence available for the top-ranked candidate (migraine disorder
 - Malaysia license/product detail verification (license number, dosage form, approved indication text)
 
 *Side note: among the other TxGNN candidates for this drug, rheumatoid arthritis (rank 9, L3, decision stage S2) has comparatively stronger evidence — case-series use of chlorzoxazone combinations in rheumatic/musculo-articular disease dating to the 1960s–70s — and may warrant a separate evaluation.*
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

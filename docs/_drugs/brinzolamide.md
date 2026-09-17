@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Brinzolamide
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 161
 evidence_level: L5
 indication_count: 1
@@ -10,12 +10,12 @@ indication_count: 1
 # Brinzolamide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+Tahap bukti: **L5** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -114,10 +114,10 @@ Brinzolamide's mechanism of action (CA-II inhibition → IOP reduction) directly
 - **Mechanism of action data**: Retrieve complete MOA details from DrugBank API to support formal documentation
 - **Paediatric dosing data**: If the target population includes young children (as in primary congenital glaucoma), paediatric pharmacokinetic and safety data should be compiled
 - **Regulatory gap analysis**: Confirm whether any jurisdiction has already approved Brinzolamide specifically for hereditary glaucoma subtypes, which would further de-risk the label extension pathway
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

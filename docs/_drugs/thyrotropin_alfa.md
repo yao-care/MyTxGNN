@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Thyrotropin Alfa
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 648
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Thyrotropin Alfa
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -43,7 +43,7 @@ Thyrotropin alfa (recombinant human TSH) is internationally used as a diagnostic
 | Predicted New Indication | Migraine Disorder |
 | TxGNN Prediction Score | 99.98% |
 | Evidence Level | L5 |
-| Malaysia Market Status | ✓ 已上市 (Marketed) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 1 |
 | Recommended Decision | Hold |
 
@@ -65,7 +65,7 @@ Currently no related literature available.
 
 ## Malaysia Market Information
 
-NPRA records confirm 1 active registration for Thyrotropin alfa, with market status "已上市" (Marketed). However, the licence number, product name, dosage form, and approved indication text are not populated in the current dataset — retrieval/parsing of the NPRA product label is required (see DG001, Blocking severity) before this information can be reported.
+NPRA records confirm 1 active registration for Thyrotropin alfa, with market status "Marketed" (Marketed). However, the licence number, product name, dosage form, and approved indication text are not populated in the current dataset — retrieval/parsing of the NPRA product label is required (see DG001, Blocking severity) before this information can be reported.
 
 ## Safety Considerations
 
@@ -83,10 +83,10 @@ The top-ranked predicted indication (migraine disorder) has no clinical trial or
 - Obtain DrugBank mechanism-of-action and categorization data to close DG002
 - If pursuing further evaluation of this drug's repurposing potential, prioritize the hyperthyroidism/goiter signal (rank 10) instead of migraine — but first resolve the mechanistic contradiction (TSH agonism vs. treating hyperthyroidism) with an endocrinology-literate review before any S2+ progression
 - Given the near-total absence of supporting evidence across 9 of 10 predicted indications, consider deprioritizing this candidate in favor of TxGNN outputs with stronger underlying evidence
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

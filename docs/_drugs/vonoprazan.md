@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Vonoprazan
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 692
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Vonoprazan
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L1** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -47,7 +47,7 @@ Using the drug-repurposing evaluation report template to generate the requested 
 | Predicted New Indication | Gastric Ulcer |
 | TxGNN Prediction Score | 99.99% |
 | Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 4 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -103,7 +103,7 @@ In short: the TxGNN prediction largely corroborates a mechanistically expected �
 
 ## Malaysia Market Information
 
-Market status confirms the product is marketed (✓ 已上市) with **4 registered authorizations**. However, detailed license fields (authorization number, product name, dosage form, approved indication text) are currently blank in the source dataset and cannot be reported. This is a data gap that also blocks confirmation of whether "gastric ulcer" is already within the locally approved label.
+Market status confirms the product is marketed (✓ Marketed) with **4 registered authorizations**. However, detailed license fields (authorization number, product name, dosage form, approved indication text) are currently blank in the source dataset and cannot be reported. This is a data gap that also blocks confirmation of whether "gastric ulcer" is already within the locally approved label.
 
 ---
 
@@ -127,10 +127,10 @@ The gastric ulcer prediction is backed by L1-level evidence — two completed Ph
 - DrugBank-sourced mechanism-of-action confirmation (DG002, High)
 - Complete license-level indication text to verify whether gastric ulcer is already within the currently approved local label (avoids treating an existing indication as "new")
 - Drug-drug interaction data (current query status: not found)
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

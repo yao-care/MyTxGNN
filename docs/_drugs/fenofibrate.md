@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Fenofibrate
-parent: 僅模型預測 (L5)
+parent: Medium Evidence (L3)
 nav_order: 341
-evidence_level: L5
+evidence_level: L3
 indication_count: 5
 ---
 
 # Fenofibrate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L3** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -95,10 +95,10 @@ The only clinical trial directly studying this population is a small (n=19), non
 - Confirmed original approved indication text (all 13 Malaysia license records currently have blank indication fields)
 - A controlled study in a defined, non-iatrogenic hypoalphalipoproteinemia population to resolve the conflicting directionality seen in the literature
 - Clarification of whether "obsolete familial combined hyperlipidemia" (rank 3, no evidence) is a disease-mapping duplicate before it is carried forward as a separate candidate
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

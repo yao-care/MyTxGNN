@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Exemestane
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 335
 evidence_level: L5
 indication_count: 7
@@ -10,12 +10,12 @@ indication_count: 7
 # Exemestane
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **7** 個
+Tahap bukti: **L5** | Indikasi diramal: **7** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 7
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -75,7 +75,7 @@ Currently no related literature available.
 
 ## Malaysia Market Information
 
-Exemestane has **2 registered products** in Malaysia (`market_status`: 已上市 / Marketed), but the underlying license records in this evidence pack (license number, product name, dosage form, manufacturer, approved indication text) are all empty — this detail is not currently available from the data source and would need to be pulled directly from NPRA.
+Exemestane has **2 registered products** in Malaysia (`market_status`: Marketed / Marketed), but the underlying license records in this evidence pack (license number, product name, dosage form, manufacturer, approved indication text) are all empty — this detail is not currently available from the data source and would need to be pulled directly from NPRA.
 
 ---
 
@@ -112,10 +112,10 @@ Please refer to the package insert for safety information.
 - DrugBank MOA data via API — resolves DG002 (High)
 - Full Malaysia license records (license number, product name, dosage form, approved indication text) for the 2 registered products
 - If continued repurposing evaluation is desired, note that rank 2 in this pack (amenorrhea, L4 evidence, 5 supporting publications) has more literature volume than rank 1 — though that literature describes amenorrhea as a *side effect* observed during ovarian-suppression therapy, not a treatment target, so it would need the same "is this causal or coincidental" scrutiny before advancing.
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

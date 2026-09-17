@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tolvaptan
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 656
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Tolvaptan
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -98,10 +98,10 @@ The mechanistic and literature-based efficacy signal for tolvaptan in ADPKD-spec
 - DrugBank-confirmed mechanism of action (DG002)
 - Malaysia license-level detail (authorization numbers, product names, dosage forms, approved indication text) for the 6 existing registrations
 - Confirmation of whether the PKD3 (non-PKD1/PKD2) genetic subtype has been specifically studied, or whether the evidence base only supports general ADPKD
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

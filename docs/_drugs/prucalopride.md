@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Prucalopride
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 580
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Prucalopride
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -80,7 +80,7 @@ Currently no related literature available.
 | Not specified | Not specified | Not specified | Not specified |
 | Not specified | Not specified | Not specified | Not specified |
 
-Two active licenses are confirmed in the registry (total_licenses = 2, market_status = 已上市), but license number, product name, dosage form, and approved-indication text were not populated in this data pull.
+Two active licenses are confirmed in the registry (total_licenses = 2, market_status = Marketed), but license number, product name, dosage form, and approved-indication text were not populated in this data pull.
 
 ---
 
@@ -104,10 +104,10 @@ The top-ranked predicted indication (hypoalphalipoproteinemia) has no supporting
 - DrugBank mechanism-of-action data — needed for mechanistic-plausibility assessment
 - Confirmed license text (product name, dosage form, approved indication) for the 2 Taiwan registrations
 - Consider redirecting evaluation effort to the amyloidosis / primary amyloidosis candidates (rank 6 and 9) in this same prediction set, which have actual literature support and a more coherent mechanistic rationale
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mirtazapine
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 487
 evidence_level: L5
 indication_count: 3
@@ -10,12 +10,12 @@ indication_count: 3
 # Mirtazapine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+Tahap bukti: **L5** | Indikasi diramal: **3** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 3
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -77,7 +77,7 @@ Currently no related literature available
 
 ## Malaysia Market Information
 
-Mirtazapine holds 8 active registrations in Malaysia (market status: 已上市 / Marketed). Detailed licence-level data (registration numbers, product names, dosage forms, approved indication text) was not returned in this evidence pack and requires a separate NPRA lookup.
+Mirtazapine holds 8 active registrations in Malaysia (market status: Marketed / Marketed). Detailed licence-level data (registration numbers, product names, dosage forms, approved indication text) was not returned in this evidence pack and requires a separate NPRA lookup.
 
 ---
 
@@ -101,10 +101,10 @@ All three top predictions (Ohdo syndrome and variants, blepharophimosis-intellec
 - Confirmed drugbank MOA data (DG002)
 - A genuine mechanistic hypothesis linking mirtazapine to chromatin-regulation or channelopathy pathways, if pursued further
 - Given the current evidence profile, recommend deprioritizing this candidate in favor of higher-scoring, evidence-backed predictions
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

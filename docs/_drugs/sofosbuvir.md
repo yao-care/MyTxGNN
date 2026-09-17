@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Sofosbuvir
-parent: 僅模型預測 (L5)
+parent: Medium Evidence (L3)
 nav_order: 623
-evidence_level: L5
+evidence_level: L3
 indication_count: 8
 ---
 
 # Sofosbuvir
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **8** 個
+Tahap bukti: **L3** | Indikasi diramal: **8** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 8
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -126,10 +126,10 @@ Official TFDA/NPRA key warnings, contraindications, and drug interaction data ar
 - Confirm or refute the mechanistic basis for anti-HBV activity (e.g., is the reported HBsAg effect host-immune-mediated rather than direct antiviral?)
 - Monitor for publication of full results from NCT03312023 (currently only pilot-stage data available)
 - Formally assess the HBV reactivation safety literature as part of any future benefit-risk review for this indication
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

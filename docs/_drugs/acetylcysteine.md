@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Acetylcysteine
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 21
-evidence_level: L5
+evidence_level: L1
 indication_count: 5
 ---
 
 # Acetylcysteine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L1** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -47,7 +47,7 @@ with **13 clinical trials** and **18 publications** currently supporting this di
 | Predicted New Indication | Bronchitis |
 | TxGNN Prediction Score | Not available (score data not populated in current Evidence Pack) |
 | Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 33 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -101,7 +101,7 @@ These three mechanisms map precisely onto the cardinal pathological features of 
 
 ## Malaysia Market Information
 
-Acetylcysteine holds **33 registered products** in Malaysia with a confirmed marketed status (已上市). However, individual product details — including authorization numbers, brand names, dosage forms, and approved indication texts — were not available in the current NPRA data extract. Please consult the [NPRA Product Registration database](https://www.npra.gov.my/) directly for complete product listings to determine which approved indications are currently on-label in Malaysia.
+Acetylcysteine holds **33 registered products** in Malaysia with a confirmed marketed status (Marketed). However, individual product details — including authorization numbers, brand names, dosage forms, and approved indication texts — were not available in the current NPRA data extract. Please consult the [NPRA Product Registration database](https://www.npra.gov.my/) directly for complete product listings to determine which approved indications are currently on-label in Malaysia.
 
 ---
 
@@ -146,10 +146,10 @@ This Evidence Pack covers 5 TxGNN-predicted indications for Acetylcysteine. Summ
 **Amyloidosis (Rank 3):** Emerging signal concentrated in a rare subtype — hereditary cystatin C amyloid angiopathy (HCCAA) — where NAC disrupts cystatin C aggregation via disulfide bond cleavage. A non-randomised clinical trial was published in *JAMA Neurology* (2025, PMID 40163249). Evidence for general amyloidosis remains preclinical.
 
 **AL Amyloidosis (Rank 4):** No relevant NAC clinical evidence. The mechanistic link (light-chain misfolding) is distant from NAC's pharmacology. **Hold** decision is appropriate; deprioritise unless further biological rationale emerges.
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

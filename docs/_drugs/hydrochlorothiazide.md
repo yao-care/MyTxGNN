@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Hydrochlorothiazide
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 383
-evidence_level: L5
+evidence_level: L2
 indication_count: 5
 ---
 
 # Hydrochlorothiazide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L2** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -99,10 +99,10 @@ The mechanistic rationale and clinical evidence (CLOROTIC trial, L2) support HCT
 - Drug interaction data specific to combination diuretic use (loop diuretics, potassium-sparing agents) in HF populations
 - Clarification of the TxGNN scoring pipeline, since all five candidate indications returned a 0.0 score
 - Product-level NPRA registration data (license numbers, approved indication text) to confirm current Malaysia labeling
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

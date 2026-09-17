@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Zanamivir
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 693
 evidence_level: L5
 indication_count: 2
@@ -10,12 +10,12 @@ indication_count: 2
 # Zanamivir
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+Tahap bukti: **L5** | Indikasi diramal: **2** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 2
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -104,10 +104,10 @@ The predicted indication (pyelonephritis) has no biologically plausible mechanis
 - Resolve DG001 (Blocking): retrieve and parse the TFDA package insert for warnings/contraindications before any safety screening can begin
 - Resolve DG002 (High): confirm zanamivir's mechanism of action via DrugBank API to formally document the mechanistic mismatch
 - If this candidate is to be pursued further, independent confirmation of a plausible biological rationale (e.g., an off-target antibacterial or immunomodulatory effect) would be required, as none currently exists in the evidence pack
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

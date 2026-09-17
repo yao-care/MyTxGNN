@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Aripiprazole Monohydrate
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 86
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Aripiprazole Monohydrate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Tahap bukti: **L5** | Indikasi diramal: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -49,7 +49,7 @@ The report is therefore classified as **incomplete** and a **Hold** decision is 
 | Predicted New Indication | **Pending** — TxGNN prediction data not yet available |
 | TxGNN Prediction Score | Pending |
 | Evidence Level | **Undetermined** (no predictions to evaluate) |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 1 |
 | Recommended Decision | **Hold** |
 
@@ -83,7 +83,7 @@ Currently no related literature is linked to this evaluation.
 
 ## Malaysia Market Information
 
-The Evidence Pack confirms **1 active registration** with Malaysia NPRA and a market status of **已上市 (Marketed)**. However, the licence detail fields (registration number, product name, dosage form, manufacturer, approved indication text) were returned as empty strings in the current data extract.
+The Evidence Pack confirms **1 active registration** with Malaysia NPRA and a market status of **Marketed (Marketed)**. However, the licence detail fields (registration number, product name, dosage form, manufacturer, approved indication text) were returned as empty strings in the current data extract.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------------------|--------------|-------------|---------------------|
@@ -115,10 +115,10 @@ This Evidence Pack is structurally incomplete — TxGNN predictions, mechanism o
 - **[Critical]** Re-run the TxGNN prediction pipeline — the `predicted_indications` array is empty; without at least one candidate disease, the report cannot be completed
 - **[Required]** Re-query NPRA to retrieve complete licence record fields (registration number, product name, dosage form, approved indication text)
 - **[Optional]** Confirm whether the monohydrate salt form shares DrugBank entries with the free base form of aripiprazole (DrugBank ID: DB01238) to avoid mapping failures
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

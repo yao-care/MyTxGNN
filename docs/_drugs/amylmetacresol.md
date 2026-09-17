@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Amylmetacresol
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 73
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Amylmetacresol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -103,10 +103,10 @@ All 10 TxGNN-predicted indications are rated L5 (model prediction only), zero su
 - **Safety data**: Obtain package insert warnings and contraindications from NPRA or manufacturer to enable S1 safety screening — also **Blocking** (DG001)
 - **Targeted preclinical literature review**: If any indication is to be advanced, the highest-priority candidate is **infectious anterior uveitis** (Rank 7); a focused search for any in vitro antibacterial ophthalmic data on AMC should be conducted before further investment
 - **Knowledge graph audit**: Assess whether the observed ocular disease cluster and the high-score / zero-evidence pattern across all 10 predictions represents a systematic false-positive bias requiring TxGNN model recalibration or ontology node correction prior to further AMC analysis
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

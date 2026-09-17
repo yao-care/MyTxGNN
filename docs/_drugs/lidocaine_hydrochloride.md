@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lidocaine Hydrochloride
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 441
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Lidocaine Hydrochloride
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Tahap bukti: **L5** | Indikasi diramal: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -96,10 +96,10 @@ The TxGNN prediction pipeline returned zero repurposing candidates for Lidocaine
 - **Retrieve TFDA package insert** — Download and parse the PDF to extract warnings, contraindications, and dosage information (Data Gap DG001)
 - **Re-run TxGNN prediction pipeline** — Once drug mapping is confirmed (DrugBank ID resolved), re-execute the KG and DL prediction steps to generate scored repurposing candidates
 - **Verify input data integrity** — Check whether the empty `original_indications` array caused the prediction pipeline to skip this compound entirely, and correct the upstream loader if so
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

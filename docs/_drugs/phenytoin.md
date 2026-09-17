@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Phenytoin
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 545
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Phenytoin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -45,7 +45,7 @@ Phenytoin is a classic sodium-channel-blocking antiepileptic drug; the specific 
 | Predicted New Indication | Trigeminal Nerve Neoplasm |
 | TxGNN Prediction Score | 99.99% |
 | Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 5 |
 | Recommended Decision | Hold |
 
@@ -83,7 +83,7 @@ None of these publications address trigeminal nerve neoplasm specifically.
 
 ## Malaysia Market Information
 
-The regulatory extract indicates 5 active product registrations (`total_licenses = 5`) with market status **已上市 (Marketed)**, but individual license details — authorization numbers, product names, dosage forms, and approved indication text — were not returned in this data pull and cannot be reported here.
+The regulatory extract indicates 5 active product registrations (`total_licenses = 5`) with market status **Marketed (Marketed)**, but individual license details — authorization numbers, product names, dosage forms, and approved indication text — were not returned in this data pull and cannot be reported here.
 
 ---
 
@@ -106,10 +106,10 @@ The rank-1 prediction (trigeminal nerve neoplasm) has no clinical trial support 
 - Retrieval of DrugBank MOA and drug category data
 - Retrieval of actual NPRA license register details (product names, dosage forms, approved indication text)
 - Consider evaluating **trigeminal neuralgia** (rank 10 in this same pack, L3/S2, "Proceed with Guardrails," backed by a completed clinical trial and an EAN guideline) as the more substantively supported repurposing candidate for this drug
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

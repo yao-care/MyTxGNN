@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Phenol
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 542
 evidence_level: L5
 indication_count: 8
@@ -10,12 +10,12 @@ indication_count: 8
 # Phenol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **8** 個
+Tahap bukti: **L5** | Indikasi diramal: **8** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 8
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -45,7 +45,7 @@ Phenol (DrugBank DB03255) is a well-established topical caustic/keratolytic agen
 | Predicted New Indication | Acne Keloid |
 | TxGNN Prediction Score | 99.94% (rank 1255 of predictions) |
 | Evidence Level | L3 (literature-only; no registered clinical trials) |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 30 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -104,10 +104,10 @@ Acne Keloid is the only one of 8 TxGNN-predicted indications with a genuine mech
 - Formal mechanism-of-action documentation from DrugBank or manufacturer data (DG002)
 - Complete license-level registration details (product names, dosage forms, approved indication text) for the 30 Malaysia registrations
 - Prospective or comparative clinical data specifically evaluating phenol peel for acne-related keloidal scarring, since current evidence is limited to case series and general reviews
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

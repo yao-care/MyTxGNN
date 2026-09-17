@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Zonisamide
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 700
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Zonisamide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -45,7 +45,7 @@ Zonisamide is an antiepileptic drug (AED) originally used for the treatment of e
 | Predicted New Indication | Tourette syndrome |
 | TxGNN Prediction Score | 99.85% |
 | Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 1 |
 | Recommended Decision | Hold |
 
@@ -100,10 +100,10 @@ The Tourette syndrome prediction is supported only by a TxGNN model score (L5) w
 - Malaysia registration details — license number, product name, dosage form, approved indication text
 - Preclinical or case-level evidence specifically linking zonisamide to tic disorder/Tourette syndrome
 - Consider re-scoping evaluation toward the higher-evidence candidates in this same pack (absence epilepsy L1, bipolar mania L2), which may offer a more actionable near-term repurposing pathway
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

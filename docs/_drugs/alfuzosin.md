@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Alfuzosin
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 41
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Alfuzosin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -107,10 +107,10 @@ The TxGNN prediction score is extremely high (99.999%), but this reflects proxim
 - **Retrieve NPRA registration details:** Obtain full product list (authorization numbers, dosage forms, approved indication texts) from the NPRA database
 - **Investigate model artefact:** Assess whether TxGNN systematically over-predicts hair follicle diseases for all alpha-1 blocker class drugs — if confirmed, this cluster of predictions should be filtered at the pipeline level rather than evaluated individually
 - **Mechanistic direction audit:** For any future re-evaluation of alfuzosin candidates, prioritise indications where alpha-1 *blockade* (vasodilation, smooth muscle relaxation) has a logically consistent therapeutic direction — such as **Rank 8: Persistent Fetal Circulation Syndrome (PPHN)**, where pulmonary vascular smooth muscle relaxation is the desired effect, although neonatal safety data remain absent
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

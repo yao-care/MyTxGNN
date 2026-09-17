@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Choline Salicylate
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 213
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Choline Salicylate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -101,10 +101,10 @@ There are zero supporting clinical trials or publications for the Prinzmetal ang
 - DrugBank-sourced mechanism of action data (DG002)
 - Original indication and license text for Choline salicylate (currently entirely missing from this pack)
 - If further repurposing work on this drug is pursued, note that **rheumatoid arthritis** (rank 2 in this same evidence pack, TxGNN score 99.82%) carries a stronger evidence base — Evidence Level L3, decision stage S2, 4 supporting publications, and a mechanistically coherent rationale (NSAID-class anti-inflammatory action) — and may be a more productive candidate to evaluate next than Prinzmetal angina.
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

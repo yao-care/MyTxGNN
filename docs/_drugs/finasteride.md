@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Finasteride
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 346
 evidence_level: L5
 indication_count: 6
@@ -10,12 +10,12 @@ indication_count: 6
 # Finasteride
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **6** 個
+Tahap bukti: **L5** | Indikasi diramal: **6** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 6
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -43,7 +43,7 @@ Finasteride is a 5α-reductase inhibitor conventionally used for benign prostati
 | Predicted New Indication | Ambras type hypertrichosis universalis congenita |
 | TxGNN Prediction Score | 99.99% (rank 207 of full candidate list) |
 | Evidence Level | L5 (model prediction only, no supporting studies) |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 8 |
 | Recommended Decision | Hold |
 
@@ -65,7 +65,7 @@ Currently no related literature available.
 
 ## Malaysia Market Information
 
-Finasteride is marketed in Malaysia with 8 total NPRA registrations (market status: 已上市/Marketed). However, this evidence pack does not include populated license-level details (license number, product name, dosage form, or approved-indication text) — those fields were returned blank by the data source and would need to be re-pulled from NPRA records before they can be reported.
+Finasteride is marketed in Malaysia with 8 total NPRA registrations (market status: Marketed/Marketed). However, this evidence pack does not include populated license-level details (license number, product name, dosage form, or approved-indication text) — those fields were returned blank by the data source and would need to be re-pulled from NPRA records before they can be reported.
 
 ## Safety Considerations
 
@@ -83,10 +83,10 @@ The top-ranked prediction (Ambras type hypertrichosis universalis congenita) has
 - Confirmed mechanism-of-action data from DrugBank (DG002, High)
 - If a hair-growth-related repurposing hypothesis is still of interest, re-evaluate the rank-2 candidate ("hypertrichosis (disease)") with trials/literature that actually involve Finasteride, rather than the current androgenetic-alopecia trial of only tangential relevance
 - Populated NPRA license-level data (product names, dosage forms, approved indication text) for the 8 existing registrations
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

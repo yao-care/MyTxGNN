@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Carboprost Tromethamine
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 195
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Carboprost Tromethamine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -45,7 +45,7 @@ Carboprost tromethamine is an already-marketed injectable (3 registered licenses
 | Predicted New Indication | Atypical Coarctation of Aorta |
 | TxGNN Prediction Score | 99.99% |
 | Evidence Level | L5 (model prediction only) |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 3 |
 | Recommended Decision | Hold |
 
@@ -75,7 +75,7 @@ Currently no related literature available.
 
 ## Malaysia Market Information
 
-The evidence pack confirms 3 registered licenses and an overall "已上市 (Marketed)" status, but license-level details (authorization number, product name, dosage form, approved indication text) are all currently blank in the source data and cannot be reported.
+The evidence pack confirms 3 registered licenses and an overall "Marketed (Marketed)" status, but license-level details (authorization number, product name, dosage form, approved indication text) are all currently blank in the source data and cannot be reported.
 
 ---
 
@@ -97,10 +97,10 @@ Please refer to the package insert for safety information.
 - Mechanism of action data via DrugBank (currently High-severity gap, DG002)
 - Complete license-level regulatory data (authorization numbers, product names, approved indication text)
 - If pursuing repurposing directions for this drug, consider re-evaluating **rank 10 (primary hereditary glaucoma)** instead — it has a class-level mechanistic rationale (PGF2α/FP-receptor agonist class shared with approved glaucoma drugs) despite a lower TxGNN score, making it a more biologically grounded candidate than the current top-ranked prediction.
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

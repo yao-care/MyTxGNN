@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Camphor
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 184
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Camphor
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L4** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -45,7 +45,7 @@ Camphor is a widely marketed OTC ingredient traditionally used as a topical rube
 | Predicted New Indication | Migraine Disorder |
 | TxGNN Prediction Score | 99.85% |
 | Evidence Level | L4 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 297 |
 | Recommended Decision | Hold |
 
@@ -104,10 +104,10 @@ Evidence is limited to L4 (case reports/series and one unrelated-drug RCT pulled
 - Camphor-specific preclinical or clinical data testing a plausible anti-migraine mechanism (e.g., CGRP pathway or validated TRP-channel modulation with headache outcome measures)
 - Re-curation of the literature evidence base to exclude keyword-collision results (e.g., the erenumab RCT) and to correctly classify adverse-effect case reports as safety signals rather than efficacy support
 - Malaysia licence-level detail (product names, dosage forms, approved indication text) for the 297 registered products, which was not returned in this data extract
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

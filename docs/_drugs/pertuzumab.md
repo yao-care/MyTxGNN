@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Pertuzumab
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 541
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Pertuzumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L1** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -45,7 +45,7 @@ Ranks 2–5 are HER2+ breast cancer molecular-subtype labels (not independent ne
 | Predicted New Indication | HER2 Positive Breast Carcinoma |
 | TxGNN Prediction Score | 99.97% (rank 830 in full candidate list) |
 | Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 3 |
 | Recommended Decision | Hold — pending data-gap remediation (see Conclusion) |
 
@@ -107,7 +107,7 @@ Only ranks 6–10 (ectomesenchymoma, malignant cutaneous granular cell skin tumo
 
 ## Malaysia Market Information
 
-NPRA registration confirms **3 active licenses** and marketed status ("已上市"), but license-level fields (authorization number, product name, dosage form, approved indication text) were all returned empty in this data pull — this is not the same as zero registrations, just missing field-level detail that needs re-query.
+NPRA registration confirms **3 active licenses** and marketed status ("Marketed"), but license-level fields (authorization number, product name, dosage form, approved indication text) were all returned empty in this data pull — this is not the same as zero registrations, just missing field-level detail that needs re-query.
 
 ## Cytotoxicity
 
@@ -137,10 +137,10 @@ Two data gaps block a sound safety/regulatory judgment on this candidate package
 - Retrieve DrugBank MOA and drug categories to confirm targeted-therapy classification and enable proper cytotoxicity/monitoring guidance
 - Re-run the KG mapping to exclude pertuzumab's already-approved indication (and its HR-status subtypes) from the "candidate" list, so future outputs isolate genuinely novel hypotheses
 - If prostatic urethra urothelial carcinoma is to be pursued as a research question, commission a targeted literature/trial search specifically for anti-HER2 therapy in HER2-overexpressing urothelial carcinoma
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

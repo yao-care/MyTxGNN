@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Imatinib
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 391
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Imatinib
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L2** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -86,7 +86,7 @@ This is not a purely theoretical extrapolation: imatinib already holds regulator
 
 ## Market Information
 
-TFDA/NPRA regulatory data confirms **22 registered licenses** with market status "已上市" (Marketed), but individual license fields (license number, product name, manufacturer, approved indication text) are blank in this data pack — this is tracked as Blocking Data Gap **DG001** (TFDA label/warnings not yet retrieved). A full license-level breakdown cannot be presented until this gap is remediated.
+TFDA/NPRA regulatory data confirms **22 registered licenses** with market status "Marketed" (Marketed), but individual license fields (license number, product name, manufacturer, approved indication text) are blank in this data pack — this is tracked as Blocking Data Gap **DG001** (TFDA label/warnings not yet retrieved). A full license-level breakdown cannot be presented until this gap is remediated.
 
 ## Cytotoxicity
 
@@ -116,10 +116,10 @@ Four Grade-A, DFSP-specific completed trials (NCT00084630, NCT00122473, NCT00555
 - DrugBank-sourced MOA and full safety/DDI profile — High-priority gap DG002
 - Taiwan-specific license and approved-indication text (currently blank in this pack)
 - Confirmation of whether DFSP is within imatinib's currently approved Taiwan label, or would require off-label/expanded-access pathway
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

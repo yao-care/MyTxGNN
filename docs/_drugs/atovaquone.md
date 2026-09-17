@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Atovaquone
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 102
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Atovaquone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Tahap bukti: **L5** | Indikasi diramal: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -49,7 +49,7 @@ Atovaquone 是一種抗寄生蟲藥物，廣泛用於 *Pneumocystis jirovecii* �
 | Predicted New Indication | **無**（`predicted_indications` 為空陣列） |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | N/A（無預測結果） |
-| Malaysia Market Status | ✓ Marketed（已上市） |
+| Malaysia Market Status | ✓ Marketed（Marketed） |
 | Number of Registrations | 1 |
 | Recommended Decision | **Hold** |
 
@@ -57,7 +57,7 @@ Atovaquone 是一種抗寄生蟲藥物，廣泛用於 *Pneumocystis jirovecii* �
 
 ## Malaysia Market Information
 
-NPRA 查詢回傳 1 筆已上市登記，但本次 Evidence Pack 未取得詳細登記欄位（產品名稱、劑型、核准適應症等）。
+NPRA 查詢回傳 1 筆Marketed登記，但本次 Evidence Pack 未取得詳細登記欄位（產品名稱、劑型、核准適應症等）。
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |----------------------|--------------|-------------|---------------------|
@@ -93,10 +93,10 @@ Please refer to the package insert for safety information.
 ---
 
 > ⚠️ **YMYL 免責聲明**：本報告結果僅供研究參考，不構成任何醫療建議。老藥新用候選藥物需經過正式臨床驗證後，方可應用於實際醫療決策。
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

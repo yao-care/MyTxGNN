@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Rilpivirine
-parent: 僅模型預測 (L5)
+parent: Medium Evidence (L3)
 nav_order: 592
-evidence_level: L5
+evidence_level: L3
 indication_count: 5
 ---
 
 # Rilpivirine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L3** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -118,10 +118,10 @@ The mechanism is not in question — rilpivirine's antiretroviral action in preg
 - Confirmed mechanism-of-action documentation from DrugBank (currently a High-severity data gap)
 - Completed Malaysia NPRA license details (product name, dosage form, approved indication text)
 - Maturation of the ongoing VIROPREG cohort (NCT07412977, not yet recruiting) or an equivalent prospective efficacy/PK study specifically in the perinatal-prevention population, since no trial to date is designed to test this indication as a primary endpoint
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

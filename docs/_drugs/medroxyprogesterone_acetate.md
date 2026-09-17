@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Medroxyprogesterone Acetate
-parent: 僅模型預測 (L5)
+parent: Medium Evidence (L3)
 nav_order: 467
-evidence_level: L5
+evidence_level: L3
 indication_count: 5
 ---
 
 # Medroxyprogesterone Acetate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L3** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -46,7 +46,7 @@ The TxGNN model's top-ranked prediction is **Uterine Corpus Cancer**, supported 
 | Predicted New Indication | Uterine Corpus Cancer |
 | TxGNN Prediction Score | 0.00% (as recorded in source data) |
 | Evidence Level | L3 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 7 |
 | Recommended Decision | Hold |
 
@@ -116,10 +116,10 @@ The mechanistic case for progestin activity in uterine/endometrial tissue is cre
 - Clarification of whether "uterine corpus cancer" and "endometrial cancer" should be merged into a single indication before further scoring, to avoid double-counting evidence
 - Re-extraction of NPRA license-level fields (product name, dosage form, manufacturer, indication text) for the 7 registrations
 - Verification of the TxGNN score field, which currently reads 0.00% across all ranked indications and may reflect an extraction issue rather than the model's actual confidence
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

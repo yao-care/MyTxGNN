@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Carvedilol
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 197
 evidence_level: L5
 indication_count: 5
@@ -10,12 +10,12 @@ indication_count: 5
 # Carvedilol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L5** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -103,10 +103,10 @@ The predicted indication (malignant hypertensive renal disease) has zero support
 - Targeted literature/clinical search specifically on carvedilol in malignant hypertension with renal involvement
 
 **Additional note on other candidates in this evidence pack:** Ranks 2, 3, and 5 (malignant renovascular hypertension, unclear-mechanism pulmonary hypertension, Braddock syndrome) are similarly L5/Hold with no supporting evidence — Braddock syndrome in particular appears to be a spurious knowledge-graph link with no plausible mechanistic connection. Rank 4 (pulmonary hypertension owing to lung disease/hypoxia) is the only candidate with literature (20 PubMed hits, mostly general hypoxia biology, tier 3), but the rationale for that candidate leans toward a **safety caution signal** rather than a therapeutic opportunity — non-selective β-blockers are traditionally used with caution in hypoxic pulmonary hypertension due to blunting of compensatory right-ventricular response.
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

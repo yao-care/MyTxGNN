@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Linagliptin
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 443
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Linagliptin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Tahap bukti: **L5** | Indikasi diramal: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -85,10 +85,10 @@ The `predicted_indications` array is empty, meaning no repurposing candidate has
 2. **Resolve DG002 (High)** — Query the DrugBank API for Linagliptin's mechanism of action (DB08882); MOA data is required by the TxGNN pipeline for mechanistic similarity scoring.
 3. **Re-run the TxGNN prediction pipeline** with complete inputs to populate `predicted_indications`; only then can a disease target and evidence level be assigned.
 4. **Retrieve NPRA licence details** for the 9 registered products (product names, dosage forms, approved indication text) to complete the Malaysia Market Information section.
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

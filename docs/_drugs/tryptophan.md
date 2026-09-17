@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Tryptophan
-parent: 僅模型預測 (L5)
+parent: Medium Evidence (L3)
 nav_order: 673
-evidence_level: L5
+evidence_level: L3
 indication_count: 8
 ---
 
 # Tryptophan
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **8** 個
+Tahap bukti: **L3** | Indikasi diramal: **8** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 8
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -104,10 +104,10 @@ The mechanistic rationale (serotonin precursor) is biologically plausible but co
 - A modern, adequately powered RCT evaluating tryptophan for RLS symptom control
 - Clarification of tryptophan's role relative to dopaminergic pathways in RLS pathophysiology
 - Safety review addressing the historical eosinophilia-myalgia syndrome (EMS) association with impure tryptophan preparations, and confirmation of current pharmaceutical-grade purity standards
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

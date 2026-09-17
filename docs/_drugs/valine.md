@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Valine
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 681
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Valine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L4** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -80,7 +80,7 @@ Currently no related clinical trials registered.
 
 ## Malaysia Market Information
 
-Aggregate registration data indicates 41 total product licenses in Malaysia with active ("已上市"/Marketed) status. Itemized license numbers, product names, dosage forms, and approved indication text were not returned in the current data pull (all fields empty), so a per-license table cannot be produced at this time.
+Aggregate registration data indicates 41 total product licenses in Malaysia with active ("Marketed"/Marketed) status. Itemized license numbers, product names, dosage forms, and approved indication text were not returned in the current data pull (all fields empty), so a per-license table cannot be produced at this time.
 
 ---
 
@@ -104,10 +104,10 @@ Evidence for a valine–sclerosing cholangitis association is minimal: no clinic
 - Confirmed mechanism of action (MOA) data from DrugBank or other authoritative source (DG002)
 - Targeted mechanistic or preclinical studies specifically evaluating valine (not amino acids/BCAA generally) in cholestatic/sclerosing cholangitis models
 - Re-run literature searches with disambiguation of "valine" from genetic mutation nomenclature ("Val" amino acid codes) to avoid false-positive evidence counts in this and related predicted indications
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

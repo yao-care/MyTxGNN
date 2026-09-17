@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Aprotinin
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 83
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Aprotinin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Tahap bukti: **L5** | Indikasi diramal: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -107,10 +107,10 @@ The Evidence Pack is structurally incomplete — there are no TxGNN predictions,
 - **[Required]** Retrieve full NPRA license details (license number, product name, dosage form, indication text) for both registered products
 - **[Required]** Investigate Aprotinin's international regulatory status (suspended/withdrawn in EU and Canada since 2007–2008 due to BART trial findings) and assess whether Malaysia's 2 registrations remain active and clinically appropriate
 - **[Optional]** Once MOA is confirmed, manually verify whether Aprotinin appears in any repurposing literature (e.g., anti-inflammatory, hereditary angioedema, pancreatitis) to supplement the TxGNN pipeline
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sevoflurane
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 613
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Sevoflurane
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -81,10 +81,10 @@ The top-ranked prediction (Prinzmetal angina) has no clinical or literature supp
 - DrugBank mechanism-of-action data to properly assess mechanistic plausibility
 - License-level Malaysia registration detail (product names, approved indication text)
 - Note: other TxGNN candidates for this drug (e.g., migraine disorder, tendinitis, fibromyalgia) also lack direct treatment evidence — the associated trials/literature address sevoflurane's use *during* anesthesia for patients with these conditions, not its use *to treat* them. None currently meet criteria to advance beyond Hold.
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

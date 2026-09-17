@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Romiplostim
-parent: 僅模型預測 (L5)
+parent: Medium Evidence (L3)
 nav_order: 602
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Romiplostim
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L3** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -107,10 +107,10 @@ Please refer to the package insert for safety information.
 - An interventional study (even early-phase) directly testing Romiplostim in a platelet-release-disorder population, rather than relying solely on ITP-adjacent mechanistic literature
 
 *Note: a separate candidate in this same evidence pack, "platelet-type bleeding disorder" (rank 8), already reaches L1 evidence (Phase 3 RECITE trial and other Phase 3/4 studies) but substantially overlaps with Romiplostim's already-approved ITP-related use rather than representing a genuinely novel indication — it is not the primary subject of this report but may warrant its own evaluation if treated as a distinct label.*
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

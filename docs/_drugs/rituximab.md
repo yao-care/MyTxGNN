@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rituximab
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 599
 evidence_level: L5
 indication_count: 5
@@ -10,12 +10,12 @@ indication_count: 5
 # Rituximab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L5** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -50,7 +50,7 @@ Rituximab is a chimeric anti-CD20 monoclonal antibody originally used to treat C
 | Item | Content |
 |------|------|
 | Original Indication | CD20-positive B-cell Non-Hodgkin Lymphoma (globally established original indication; the evidence pack's own `drug.original_indications` and Malaysia license `approved_indication_text` fields are empty, so this is not confirmed against local label text) |
-| Malaysia Market Status | Marketed (已上市) |
+| Malaysia Market Status | Marketed (Marketed) |
 | Number of Registrations | 9 |
 
 ## Why is This Prediction Reasonable?
@@ -246,10 +246,10 @@ Please refer to the package insert for safety information. This evidence pack's 
 - Re-pull Malaysia NPRA license-level detail (authorization numbers, product names, indication text) — all 9 registrations currently have empty records.
 - Investigate the `txgnn.score = 0.0` anomaly across all five predictions — this field appears unpopulated and should not be interpreted as a real confidence score.
 - If pursuing LCH specifically: commission a targeted literature/trial search restricted to "Langerhans cell histiocytosis" + "rituximab" (the current broad "histiocytosis" query returned mostly off-target results for unrelated non-Langerhans disorders) and consider whether a dedicated pilot study is warranted given the case-report-only evidence base.
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

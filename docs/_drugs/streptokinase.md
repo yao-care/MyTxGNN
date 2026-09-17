@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Streptokinase
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 628
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Streptokinase
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -109,10 +109,10 @@ Please refer to the package insert for safety information. (Key warnings, contra
 - Retrieve DrugBank MOA/classification data to close DG002
 - Confirm streptokinase's actual approved indication text on the Malaysia label, to determine whether MI is already covered (making this a label-expansion/confirmation exercise, not true repurposing)
 - Deprioritize the low-evidence downstream candidates already flagged Hold/L5 in this pack (e.g., hemoglobinopathy, partial 16p deletion), which appear to be knowledge-graph artifacts rather than plausible signals
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

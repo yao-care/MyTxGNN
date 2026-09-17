@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Iopromide
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 407
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Iopromide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -99,10 +99,10 @@ The top-ranked prediction (osteoarthritis susceptibility) has no clinical trial 
 - Obtain DrugBank mechanism-of-action data to assess biological plausibility
 - If pursuing an arthritis-related indication, run targeted searches for actual treatment studies (current hits for "osteoarthritis" and "rheumatoid arthritis" are imaging-technique papers only, not efficacy evidence)
 - Clarify and confirm the sickle cell disease / vaso-occlusive event safety signal against the official label before any further evaluation
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

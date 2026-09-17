@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ropeginterferon Alfa-2B
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 603
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Ropeginterferon Alfa-2B
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -84,10 +84,10 @@ None of the top 10 TxGNN predictions — including the top-ranked Laubry-Pezzi s
 - Correct the disease-ontology mapping error affecting the "disorder of fucoglycosan synthesis" label (Rank 6), which appears to actually reference Polycythemia Vera literature
 - Confirm the drug's true original approved indication via NPRA license text (currently blank) rather than inference
 - Re-run prediction review beyond the top 10 ranks, since none in this set meet even L4 (preclinical/mechanistic) evidence thresholds
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

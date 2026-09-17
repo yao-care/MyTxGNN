@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Aluminium Hydroxide
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 48
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Aluminium Hydroxide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Tahap bukti: **L5** | Indikasi diramal: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -99,10 +99,10 @@ The TxGNN model returned no predictions for Aluminium Hydroxide due to a missing
 - [ ] **Retrieve detailed NPRA license records** — Re-query NPRA to populate individual product names, dosage forms, and approved indication text for the 42 registrations
 - [ ] **Re-run TxGNN prediction pipeline** — After data gaps are resolved, re-execute `run_kg_prediction.py` and collect the top-ranked disease candidates
 - [ ] **Re-generate Evidence Pack** — A new v5 pack with complete inputs will enable a full L1–L5 evidence assessment and Go/Proceed with Guardrails recommendation
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

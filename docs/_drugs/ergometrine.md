@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ergometrine
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 322
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Ergometrine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -100,10 +100,10 @@ The Hypertrichosis prediction is supported only by a TxGNN embedding score (L5, 
 - Preclinical or mechanistic studies linking ergot alkaloid pharmacology to hair follicle biology, if this candidate is to be pursued further
 - Complete NPRA license details (product name, dosage form, approved indication text) for the 2 existing registrations
 - Consider re-scoping evaluation toward the migraine disorder candidate (rank 7), which has materially stronger mechanistic and literature support within this same evidence pack
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

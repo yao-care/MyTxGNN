@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Calcium Lactate Gluconate
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 183
 evidence_level: L5
 indication_count: 2
@@ -10,12 +10,12 @@ indication_count: 2
 # Calcium Lactate Gluconate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+Tahap bukti: **L5** | Indikasi diramal: **2** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 2
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -100,10 +100,10 @@ The top-ranked predicted indication (calcium-alkali syndrome) is best understood
 - Clarify whether the calcium-alkali syndrome signal in the knowledge graph reflects an adverse-event co-occurrence rather than a treatment relationship, to confirm it should be excluded from further repurposing evaluation
 - If pursuing the bone dysplasia candidate, identify the specific disease subtype/genetic etiology to determine whether calcium supplementation is mechanistically appropriate, and seek preclinical or case-level evidence before any further investment
 - Complete license-level extraction of Malaysia NPRA registration data (product names, dosage forms, approved indication text)
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

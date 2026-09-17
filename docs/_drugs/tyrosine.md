@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tyrosine
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 676
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Tyrosine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -98,10 +98,10 @@ The evidence level is L5 (model prediction only), with zero clinical trials and 
 - Confirm the original approved indication(s) from NPRA license-level records (currently blank)
 - Independently verify whether the cauda equina syndrome association is a genuine TxGNN signal or a knowledge-graph indexing error before allocating further review resources
 - If pursued, generate a dedicated literature/preclinical search specifically on tyrosine and lumbosacral nerve root pathology, since the current single reference is not relevant
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Roxithromycin
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 605
-evidence_level: L5
+evidence_level: L4
 indication_count: 8
 ---
 
 # Roxithromycin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **8** 個
+Tahap bukti: **L4** | Indikasi diramal: **8** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 8
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -43,7 +43,7 @@ Roxithromycin is a macrolide antibiotic originally used to treat bacterial infec
 | Predicted New Indication | Leprosy |
 | TxGNN Prediction Score | 99.70% |
 | Evidence Level | L4 |
-| Malaysia Market Status | ✓ 已上市 (Marketed) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 1 |
 | Recommended Decision | Hold |
 
@@ -71,7 +71,7 @@ Currently no related clinical trials registered
 
 ## Malaysia Market Information
 
-Roxithromycin currently holds 1 active registration in Malaysia (已上市 / Marketed), but detailed registration data — authorization number, product name, dosage form, and approved-indication text — was not available in the current dataset.
+Roxithromycin currently holds 1 active registration in Malaysia (Marketed / Marketed), but detailed registration data — authorization number, product name, dosage form, and approved-indication text — was not available in the current dataset.
 
 ## Safety Considerations
 
@@ -89,10 +89,10 @@ Evidence for leprosy is limited to decades-old in vitro/animal studies and revie
 - Documented mechanism of action (MOA) data from DrugBank or equivalent source
 - Head-to-head or dose-ranging data comparing roxithromycin vs. clarithromycin for anti-mycobacterial activity
 - Any human clinical evidence (even case reports) before advancing beyond the research-question stage
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

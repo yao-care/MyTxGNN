@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Fluticasone Propionate
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 357
-evidence_level: L5
+evidence_level: L4
 indication_count: 5
 ---
 
 # Fluticasone Propionate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L4** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -104,10 +104,10 @@ Evidence for fluticasone propionate in neurodermatitis is currently limited to t
 - License-level product records to substantiate the 31 registered authorizations
 
 **Note:** This evidence pack also contains a separate candidate, **atopic eczema** (rank 4), with substantially stronger evidence (Evidence Level L1, 11 clinical trials including Phase 3/4 RCTs of topical fluticasone propionate, 20 publications, recommendation "Proceed with Guardrails"). That direction largely reflects an already-established use of this drug class rather than a novel repurposing signal, but may be worth a separate evaluation report given the evidence strength.
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

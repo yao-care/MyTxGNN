@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Degarelix
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 255
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Degarelix
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -45,7 +45,7 @@ Degarelix is a GnRH (gonadotropin-releasing hormone) receptor antagonist, public
 | Predicted New Indication | Hypertrichosis (disease) |
 | TxGNN Prediction Score | 99.99% |
 | Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 2 |
 | Recommended Decision | Hold |
 
@@ -67,7 +67,7 @@ Currently no related literature available.
 
 ## Malaysia Market Information
 
-Degarelix is registered under 2 active licenses ("已上市" / Marketed status), but the evidence pack contains no populated license numbers, product names, dosage forms, manufacturers, or approved indication text for either entry — these fields are all blank in the source data and require direct NPRA lookup to complete.
+Degarelix is registered under 2 active licenses ("Marketed" / Marketed status), but the evidence pack contains no populated license numbers, product names, dosage forms, manufacturers, or approved indication text for either entry — these fields are all blank in the source data and require direct NPRA lookup to complete.
 
 ## Safety Considerations
 
@@ -85,10 +85,10 @@ The candidate has L5 evidence (model prediction only, no clinical trials or lite
 - Confirmed mechanism of action and original approved indication (High gap, DG002)
 - NPRA license details (license numbers, approved indication text, dosage forms) for the 2 registered products
 - If pursuing further repurposing analysis, consider re-scoping toward rank 9 (central precocious puberty), which has a stronger direct mechanistic rationale despite its lower TxGNN score and current "Research Question" status
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

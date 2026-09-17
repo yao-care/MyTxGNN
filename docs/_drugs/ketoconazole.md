@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Ketoconazole
-parent: 僅模型預測 (L5)
+parent: Medium Evidence (L3)
 nav_order: 418
-evidence_level: L5
+evidence_level: L3
 indication_count: 5
 ---
 
 # Ketoconazole
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L3** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -110,10 +110,10 @@ The mechanistic link between ketoconazole and dematiaceous fungi is direct, and 
 - A current-standard-of-care comparison against itraconazole/terbinafine given PMID 40183549
 
 **Note:** This pack also contains 4 other candidate indications for ketoconazole with independently scored evidence — notably **tinea pedis** (L1, S3, "Proceed with Guardrails," supported by 5 completed Phase 3 trials, one with n=831) and **paracoccidioidomycosis** (L2, S2, supported by an RCT, PMID 12230222). Those carry materially stronger evidence than chromomycosis and may warrant a separate evaluation if the goal is to prioritize by evidence strength rather than TxGNN rank order.
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

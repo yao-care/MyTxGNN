@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Emtricitabine
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 312
 evidence_level: L5
 indication_count: 3
@@ -10,12 +10,12 @@ indication_count: 3
 # Emtricitabine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+Tahap bukti: **L5** | Indikasi diramal: **3** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 3
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -84,7 +84,7 @@ Importantly, this is a **cross-species** repurposing signal (human drug → vete
 
 ## Malaysia Market Information
 
-Detailed authorization data (license numbers, product names, dosage forms, approved indication text) is not available in this evidence pack — all license entries returned empty fields despite the registry reporting 12 total licenses. Market status is confirmed as "已上市" (Marketed).
+Detailed authorization data (license numbers, product names, dosage forms, approved indication text) is not available in this evidence pack — all license entries returned empty fields despite the registry reporting 12 total licenses. Market status is confirmed as "Marketed" (Marketed).
 
 ---
 
@@ -109,10 +109,10 @@ Please refer to the package insert for safety information.
 - DrugBank MOA detail to confirm mechanistic linkage (DG002)
 - Clarification of scope: confirm whether a veterinary indication (FIV) is a valid target for this human-drug regulatory review, or should be excluded/routed to veterinary pharmacology channels
 - Complete Malaysia license/authorization detail (currently blank despite 12 registered licenses)
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

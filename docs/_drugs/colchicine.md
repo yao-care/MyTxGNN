@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Colchicine
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 236
 evidence_level: L5
 indication_count: 3
@@ -10,12 +10,12 @@ indication_count: 3
 # Colchicine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+Tahap bukti: **L5** | Indikasi diramal: **3** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 3
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -86,10 +86,10 @@ This prediction sits at Evidence Level L5 (model prediction only) with zero supp
 
 ---
 **Note:** This evidence pack contains two additional predicted indications for colchicine not covered in this report. Notably, **familial Mediterranean fever** (rank 2, score 99.38%) carries **Evidence Level L1** with a "Proceed with Guardrails" recommendation — substantially stronger evidence than the malaria prediction summarized above. If the goal is to identify colchicine's most promising repurposing candidate, a separate report on that indication is recommended.
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

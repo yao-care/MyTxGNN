@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Silodosin
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 614
 evidence_level: L5
 indication_count: 6
@@ -10,12 +10,12 @@ indication_count: 6
 # Silodosin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **6** 個
+Tahap bukti: **L5** | Indikasi diramal: **6** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 6
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -101,10 +101,10 @@ The top-ranked prediction sits at evidence level L5 (model score only, zero tria
 - Structured mechanism-of-action data from DrugBank (DG002)
 - Complete NPRA license record (product name, dosage form, approved indication text) for the Malaysia market entry
 - If this candidate is pursued further, an independent review of whether the TxGNN embedding cluster around rare congenital/dysmorphic syndromes reflects a systematic model artifact, before allocating further evidence-collection resources to it
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

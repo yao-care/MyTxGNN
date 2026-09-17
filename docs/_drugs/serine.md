@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Serine
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 612
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Serine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -98,10 +98,10 @@ The top-ranked predicted indication (Familial Visceral Myopathy) is supported by
 - Original approved indication text for the 55 Malaysia-registered products
 - Independent clinical or preclinical evidence specific to Familial Visceral Myopathy, since none currently exists
 - Disambiguation review of secondary candidates (e.g., intestinal obstruction, angle-closure glaucoma) to confirm retrieved literature reflects the amino acid Serine and not unrelated serine protease enzymes
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

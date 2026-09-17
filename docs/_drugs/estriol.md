@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Estriol
-parent: 僅模型預測 (L5)
+parent: Medium Evidence (L3)
 nav_order: 325
-evidence_level: L5
+evidence_level: L3
 indication_count: 1
 ---
 
 # Estriol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+Tahap bukti: **L3** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -44,7 +44,7 @@ The TxGNN model predicts it may be effective for **Amenorrhea** — specifically
 | Predicted New Indication | Amenorrhea (functional hypothalamic amenorrhea) |
 | TxGNN Prediction Score | 99.18% (rank 10,684 among all predictions) |
 | Evidence Level | L3 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 1 |
 | Recommended Decision | Hold |
 
@@ -83,7 +83,7 @@ Two important caveats limit how far this rationale extends. First, it only addre
 
 ## Malaysia Market Information
 
-The NPRA registry indicates 1 registered license for estriol with market status "已上市" (Marketed), but the license number, product name, dosage form, and approved indication text were not captured in this evidence pack (all fields blank). This is flagged as data gap **DG001** (Blocking) — resolving it requires downloading and parsing the actual product label/insert from the regulatory source.
+The NPRA registry indicates 1 registered license for estriol with market status "Marketed" (Marketed), but the license number, product name, dosage form, and approved indication text were not captured in this evidence pack (all fields blank). This is flagged as data gap **DG001** (Blocking) — resolving it requires downloading and parsing the actual product label/insert from the regulatory source.
 
 ## Safety Considerations
 
@@ -101,10 +101,10 @@ The prediction rests on a plausible but narrow mechanism (estrogen modulation of
 - Resolve DG002: obtain estriol's mechanism-of-action detail from DrugBank
 - A clinical trial search specifically re-verified for estriol (not estetrol) to confirm whether any real trials exist in amenorrhea
 - A larger, adequately powered RCT with a clinical endpoint (resumption of menstrual cycles), not just LH secretion, to validate the FHA mechanistic hypothesis
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

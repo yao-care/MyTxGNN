@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Thymol
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 647
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Thymol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -76,7 +76,7 @@ Currently no related literature available.
 
 ## Malaysia Market Information
 
-The evidence pack confirms Thymol holds **21 active registrations** under "已上市" (Marketed) status in Malaysia, but no license number, product name, dosage form, or approved-indication text was returned for any of the sampled entries. Registry detail retrieval needs to be re-run against the NPRA source to populate this table.
+The evidence pack confirms Thymol holds **21 active registrations** under "Marketed" (Marketed) status in Malaysia, but no license number, product name, dosage form, or approved-indication text was returned for any of the sampled entries. Registry detail retrieval needs to be re-run against the NPRA source to populate this table.
 
 ---
 
@@ -119,10 +119,10 @@ The prediction is TxGNN model output only (L5), with zero clinical trials, zero 
 - NPRA-sourced label data: key warnings, contraindications, and approved indication text (currently all missing/blocking gaps)
 - Any preclinical or mechanistic study directly linking thymol to cardiac structural pathology, before this candidate is reconsidered
 - If pursuing candidate #8 (fucoglycosan synthesis disorder) further, re-run literature search with disease-specific MeSH terms rather than drug-name-only matching to rule out the mapping artifact
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

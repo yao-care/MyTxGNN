@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Calcipotriol
-parent: 僅模型預測 (L5)
+parent: Medium Evidence (L3)
 nav_order: 177
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Calcipotriol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L3** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -105,10 +105,10 @@ The seborrheic keratosis prediction is backed by a specific, mechanistically-sup
 - Complete license-level detail (product names, dosage forms, approved indication text) for the 6 existing Malaysia registrations
 - Consider a small prospective/comparative trial in SK to move evidence from L3 toward L2, given no controlled trials currently exist
 - Note: lower-ranked predicted indications (e.g., vulvitis, vulvar neoplasm) show mechanistically plausible but preliminary (L4) evidence and are not yet ready for advancement; several others (e.g., vulvovaginitis, bone Paget disease, breast fibrocystic disease) remain at L5/Hold with no supporting literature or trials, and one entry (bone Paget disease) may reflect a disease-entity mapping error that should be corrected before further evaluation.
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

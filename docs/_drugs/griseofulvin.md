@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Griseofulvin
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 375
 evidence_level: L5
 indication_count: 5
@@ -10,12 +10,12 @@ indication_count: 5
 # Griseofulvin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L5** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -85,10 +85,10 @@ The prediction rests solely on a TxGNN model score with no clinical trials and n
 - Confirmed mechanism of action via DrugBank API
 - Any in vitro/in vivo evidence of antiparasitic or larvicidal activity for griseofulvin
 - Human clinical or case-report evidence specific to myiasis, since the only literature hit is a veterinary review unrelated to this drug
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

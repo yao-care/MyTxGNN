@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Calcitriol
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 178
-evidence_level: L5
+evidence_level: L2
 indication_count: 7
 ---
 
 # Calcitriol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **7** 個
+Tahap bukti: **L2** | Indikasi diramal: **7** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 7
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -51,7 +51,7 @@ Using the provided Evidence Pack, I selected the strongest, most actionable pred
 | Predicted New Indication | Hereditary Hypophosphatemic Rickets (incl. X-linked hypophosphatemia, XLH) |
 | TxGNN Prediction Score | 99.28% |
 | Evidence Level | L2 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 7 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -125,10 +125,10 @@ Please refer to the package insert for safety information.
 - Detailed mechanism of action (MOA) data from DrugBank (High-priority gap, DG002) — needed to formalize the mechanistic-relevance write-up beyond general pharmacological knowledge.
 - Complete NPRA license records (authorization numbers, product names, approved indication text, dosage forms) for the 7 registered products.
 - A dedicated literature/trial reconciliation for the other TxGNN candidates flagged as "Research Question" (renal tubular acidosis, familial isolated hypoparathyroidism) — these share the same mechanistic class and may be worth a manual literature search given the apparent evidence-collection gap noted in their rationales.
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

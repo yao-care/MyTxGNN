@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Asenapine Maleate
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 92
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Asenapine Maleate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Tahap bukti: **L5** | Indikasi diramal: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -113,10 +113,10 @@ This Evidence Pack lacks the two elements required to initiate a repurposing eva
 - **Re-run TxGNN prediction pipeline** with asenapine maleate mapped to its correct DrugBank node to generate repurposing candidate scores
 - **Retrieve full NPRA registration records** (authorization numbers, product names, dosage forms, indication texts) for the 2 existing Malaysian licenses
 - Once predictions are available, execute a targeted **ClinicalTrials.gov**, **ICTRP**, and **PubMed** search for the top-ranked indication to establish an evidence level (L1–L5)
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

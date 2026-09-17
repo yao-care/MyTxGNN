@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Cholecalciferol
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 212
-evidence_level: L5
+evidence_level: L2
 indication_count: 7
 ---
 
 # Cholecalciferol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **7** 個
+Tahap bukti: **L2** | Indikasi diramal: **7** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 7
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -45,7 +45,7 @@ Cholecalciferol (Vitamin D3) is a nutritional secosteroid used to prevent and tr
 | Predicted New Indication | Renal Osteodystrophy |
 | TxGNN Prediction Score | 99.11% (rank 11,477 overall) |
 | Evidence Level | L2 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 800 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -103,7 +103,7 @@ This gives the prediction a direct and clinically plausible mechanistic basis, t
 
 ## Malaysia Market Information
 
-800 cholecalciferol-containing products are registered and marketed in Malaysia (NPRA status: 已上市 / Marketed). This data pull did not return individual license-level detail (registration numbers, product names, dosage forms, or approved indication text) — those fields came back empty for all sampled records and would need to be re-queried from the NPRA product database before a formulation-specific safety or route assessment can be completed.
+800 cholecalciferol-containing products are registered and marketed in Malaysia (NPRA status: Marketed / Marketed). This data pull did not return individual license-level detail (registration numbers, product names, dosage forms, or approved indication text) — those fields came back empty for all sampled records and would need to be re-queried from the NPRA product database before a formulation-specific safety or route assessment can be completed.
 
 ## Safety Considerations
 
@@ -122,10 +122,10 @@ Among the 7 TxGNN-predicted indications for cholecalciferol, renal osteodystroph
 - License-level detail for the 800 Malaysia registrations (dosage form, strength, approved indication text) to assess route/formulation compatibility with a CKD population
 - Clarification of dosing strategy by CKD stage, since renal 1α-hydroxylation impairment may limit cholecalciferol's own efficacy relative to active vitamin D analogs in advanced disease
 - A dedicated evidence pull isolating cholecalciferol-specific (vs. calcitriol/doxercalciferol/paricalcitol/burosumab) trials, to avoid conflating results across pharmacologically distinct agents
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

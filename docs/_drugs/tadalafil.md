@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tadalafil
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 634
 evidence_level: L5
 indication_count: 5
@@ -10,12 +10,12 @@ indication_count: 5
 # Tadalafil
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L5** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -44,7 +44,7 @@ Tadalafil is a PDE5 inhibitor already marketed in Malaysia (23 NPRA registration
 | Original Indication | Erectile dysfunction (Tadalafil's globally established original approval; Malaysia-specific NPRA label wording is not available in this evidence pack) |
 | Predicted New Indication (headline) | 5 candidates evaluated — see breakdown below; genuine novel signal is **Premature Ejaculation** |
 | TxGNN Prediction Score | Recorded as 0.0 for all 5 candidates in this pack — score field appears unpopulated/not meaningful for differentiation; ranking below uses evidence level and clinical relevance instead |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 23 |
 | Recommended Decision | Mixed — see per-indication table below |
 
@@ -234,10 +234,10 @@ Please refer to the package insert for safety information. No warnings, contrain
 - License-level NPRA registration detail (product names, dosage forms, current approved indications) to determine whether ED/PAH/BPH indications are already on the Malaysia label or represent a genuine label-expansion opportunity
 - For premature ejaculation: dedicated tadalafil-monotherapy trial data (separate from SSRI-combination trials) to strengthen the causal case
 - Drug-drug interaction data (current query returned no results) before any clinical recommendation, especially given known nitrate/alpha-blocker interaction concerns for PDE5 inhibitors
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

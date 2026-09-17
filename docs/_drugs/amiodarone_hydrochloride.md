@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Amiodarone Hydrochloride
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 56
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Amiodarone Hydrochloride
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Tahap bukti: **L5** | Indikasi diramal: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -47,7 +47,7 @@ This report documents the current data status and outlines the steps required be
 | Predicted New Indication | Not yet generated |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — prediction pipeline not yet completed |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 7 |
 | Recommended Decision | **Hold** — critical data gaps must be resolved first |
 
@@ -111,10 +111,10 @@ No TxGNN repurposing predictions are currently available, and two critical data 
 3. **[Pipeline]** Complete the TxGNN prediction run for Amiodarone Hydrochloride to generate ranked repurposing candidates — without this, no mechanistic or evidence analysis can be performed
 4. **[Data Completeness]** Populate all 7 Malaysia NPRA licence records (product names, dosage forms, manufacturers, approved indication texts) from the NPRA product registration database
 5. **[Re-evaluation]** Once the above are completed, re-generate the Evidence Pack and proceed to full L1–L5 evidence grading against the top-ranked predicted indication
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

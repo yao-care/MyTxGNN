@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Itraconazole
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 417
-evidence_level: L5
+evidence_level: L4
 indication_count: 1
 ---
 
 # Itraconazole
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+Tahap bukti: **L4** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -45,7 +45,7 @@ Itraconazole is a triazole antifungal, classically used to treat systemic fungal
 | Predicted New Indication | Pneumocystosis |
 | TxGNN Prediction Score | 99.34% |
 | Evidence Level | L4 |
-| Malaysia Market Status | ✓ 已上市 (Marketed) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 8 |
 | Recommended Decision | Hold |
 
@@ -86,7 +86,7 @@ Currently no related clinical trials registered.
 
 ## Malaysia Market Information
 
-NPRA records show **8 registered licenses** for itraconazole with market status "已上市 (Marketed)". Individual license numbers, product names, dosage forms, and approved indication text were not returned in this data pull — retrieval from NPRA is needed before this table can be populated.
+NPRA records show **8 registered licenses** for itraconazole with market status "Marketed (Marketed)". Individual license numbers, product names, dosage forms, and approved indication text were not returned in this data pull — retrieval from NPRA is needed before this table can be populated.
 
 ---
 
@@ -108,10 +108,10 @@ The prediction is not supported by direct clinical evidence (no clinical trials 
 - Confirmed drug mechanism of action data from DrugBank (DG002)
 - Targeted literature/clinical search specifically on itraconazole efficacy against *Pneumocystis jirovecii* (rather than general fungal-infection prophylaxis in the same risk population), to resolve the resistance concern raised by PMID 12606318
 - NPRA license-level detail (product names, indications, dosage forms) for the 8 registered products
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

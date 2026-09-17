@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Estradiol Valerate
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 324
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Estradiol Valerate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -99,10 +99,10 @@ The top-ranked TxGNN prediction (fragile X syndrome, symptomatic female carrier 
 - Mechanism of action data from DrugBank (resolves DG002)
 - Malaysia license-level product details (license numbers, product names, dosage forms, approved indication text)
 - If pursuing a repurposing signal for this drug, consider evaluating **primary ovarian failure** (rank 2 in the prediction list) instead — it has substantially stronger supporting evidence (50 clinical trials, 20 publications identified) than the top-ranked but evidence-free candidate reported here
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

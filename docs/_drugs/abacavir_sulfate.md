@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Abacavir Sulfate
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 11
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Abacavir Sulfate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Tahap bukti: **L5** | Indikasi diramal: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -100,10 +100,10 @@ The Evidence Pack lacks predicted indications, a valid DrugBank ID, MOA data, an
 - **Package insert retrieval** (DG001 — Blocking): Download and parse the NPRA/TFDA package insert PDF to extract warnings, contraindications, and special population guidance
 - **NPRA license details**: Re-query NPRA to populate authorization numbers, product names, dosage forms, and approved indication text for all 6 registrations
 - **HLA-B\*5701 screening policy**: Confirm whether Malaysia's current clinical guidelines mandate pre-treatment genotyping, as this is a material safety guardrail for any repurposing study design
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

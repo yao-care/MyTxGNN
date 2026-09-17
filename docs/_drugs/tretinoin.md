@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tretinoin
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 666
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Tretinoin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -45,7 +45,7 @@ Tretinoin (all-trans retinoic acid) is internationally known for treating acute 
 | Predicted New Indication | Rheumatoid Nodulosis |
 | TxGNN Prediction Score | 99.84% |
 | Evidence Level | L5 |
-| Malaysia Market Status | ✓ 已上市 (Marketed) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 12 |
 | Recommended Decision | Hold |
 
@@ -105,10 +105,10 @@ The top-ranked predicted indication, Rheumatoid Nodulosis, has zero supporting c
 - Retrieve confirmed mechanism of action and DrugBank drug categories (High-severity gap, DG002)
 - Populate complete NPRA license/product details (all 12 registrations currently have blank fields in this pack)
 - Consider re-evaluating other candidates from the same TxGNN run with stronger evidence bases — e.g., osteoarthritis (rank 7, L4, 20 literature hits, though with conflicting pro-/anti-inflammatory signals) or Quinquaud's folliculitis decalvans (rank 10, L4, flagged "Research Question") — as these have at least some literature signal, unlike Rheumatoid Nodulosis.
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

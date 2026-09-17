@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Potassium Chloride
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 565
-evidence_level: L5
+evidence_level: L4
 indication_count: 5
 ---
 
 # Potassium Chloride
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L4** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -43,7 +43,7 @@ Potassium chloride is a fundamental electrolyte compound already used clinically
 | Predicted New Indication | Potassium Deficiency Disease (Hypokalemia) |
 | TxGNN Prediction Score | 0.00% |
 | Evidence Level | L4 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 115 |
 | Recommended Decision | Hold |
 
@@ -82,7 +82,7 @@ Supporting literature in this pack is largely mechanistic/physiological (reviews
 
 ## Malaysia Market Information
 
-Regulatory data indicates **115 active registrations** for Potassium Chloride in Malaysia, confirming broad market presence (已上市 / Marketed). However, detailed license numbers, product names, dosage forms, and approved indication text were not captured in this evidence pack and require direct lookup from source regulatory records.
+Regulatory data indicates **115 active registrations** for Potassium Chloride in Malaysia, confirming broad market presence (Marketed / Marketed). However, detailed license numbers, product names, dosage forms, and approved indication text were not captured in this evidence pack and require direct lookup from source regulatory records.
 
 ## Safety Considerations
 
@@ -100,10 +100,10 @@ The TxGNN prediction score for this indication is effectively 0.00%, indicating 
 - Confirmed mechanism of action and original approved indication text from DrugBank/regulatory sources
 - Clarification of whether "potassium deficiency disease" should be treated as a genuinely novel indication or simply the drug's existing approved use, before allocating further review resources
 - Completion of relevance grading for the currently "pending" clinical trial and literature records, and re-scoring once the above gaps are resolved
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

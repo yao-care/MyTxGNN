@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Enzalutamide
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 316
 evidence_level: L5
 indication_count: 7
@@ -10,12 +10,12 @@ indication_count: 7
 # Enzalutamide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **7** 個
+Tahap bukti: **L5** | Indikasi diramal: **7** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 7
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -44,7 +44,7 @@ The TxGNN model's top-ranked prediction for this candidate is **"Prostate Cancer
 | Predicted New Indication | Prostate Cancer/Brain Cancer Susceptibility |
 | TxGNN Prediction Score | 99.71% |
 | Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 4 |
 | Recommended Decision | Hold |
 
@@ -97,10 +97,10 @@ Please refer to the package insert for safety information.
 - Clarification of what clinical entity "prostate cancer/brain cancer susceptibility" actually refers to before further evaluation
 - Per-license registration details (license numbers, product names, approved indication text) for the 4 Malaysia registrations
 - If pursuing repurposing further, consider evaluating rank 6 ("male reproductive organ cancer") separately, noting it substantially overlaps with the already-approved prostate cancer indication rather than representing a novel target
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

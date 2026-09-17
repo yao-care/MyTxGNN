@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bleomycin Sulfate
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 151
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Bleomycin Sulfate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Tahap bukti: **L5** | Indikasi diramal: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -45,7 +45,7 @@ Bleomycin Sulfate is a marketed antineoplastic glycopeptide antibiotic historica
 | Predicted New Indication | **None — no TxGNN predictions available** |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | **L5** (No model predictions or supporting studies in this dataset) |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 2 |
 | Recommended Decision | **Hold** |
 
@@ -75,7 +75,7 @@ Currently no TxGNN-linked literature available, as no predicted indications have
 
 ## Malaysia Market Information
 
-Bleomycin Sulfate has **2 registered licenses** with a market status of "Marketed" (已上市). However, the detailed registration information (authorization numbers, product names, dosage forms, and approved indication text) is not available in the current dataset.
+Bleomycin Sulfate has **2 registered licenses** with a market status of "Marketed" (Marketed). However, the detailed registration information (authorization numbers, product names, dosage forms, and approved indication text) is not available in the current dataset.
 
 > **Note:** License details need to be retrieved from the NPRA database to complete this section.
 
@@ -120,10 +120,10 @@ No TxGNN predictions have been generated for Bleomycin Sulfate, and the Evidence
 4. **Package insert safety data** — Download and parse TFDA package insert PDF to extract warnings and contraindications (DG001, Blocking)
 5. **Re-run TxGNN prediction pipeline** — Once DrugBank ID and indication mappings are populated, execute `run_kg_prediction.py` to generate repurposing candidates
 6. **Evidence collection** — After predictions are available, run ClinicalTrials.gov and PubMed collectors to gather supporting evidence
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

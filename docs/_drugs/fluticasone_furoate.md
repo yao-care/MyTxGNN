@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Fluticasone Furoate
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 356
-evidence_level: L5
+evidence_level: L2
 indication_count: 8
 ---
 
 # Fluticasone Furoate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **8** 個
+Tahap bukti: **L2** | Indikasi diramal: **8** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 8
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -100,10 +100,10 @@ The top-ranked predicted indication (atopic eczema) is supported only by class-e
 - Complete Malaysia license details (authorization numbers, product names, approved indication text)
 - Furoate-specific (not propionate) topical/dermatologic efficacy data for atopic eczema, if this indication is to be pursued further
 - Consider evaluating the bronchitis/COPD prediction (rank 2) in parallel — it has direct furoate-specific evidence (L1, "Proceed with Guardrails") and may be a more actionable near-term candidate
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

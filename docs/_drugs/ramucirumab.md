@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ramucirumab
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 583
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Ramucirumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -47,7 +47,7 @@ Ramucirumab is a VEGFR-2-targeting monoclonal antibody approved for several soli
 | Predicted New Indication | Uterine Ligament Adenocarcinoma |
 | TxGNN Prediction Score | 99.95% |
 | Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 2 |
 | Recommended Decision | Hold |
 
@@ -77,7 +77,7 @@ Currently no related literature available.
 
 ## Malaysia Market Information
 
-Malaysia (NPRA) shows **2 active registrations** for Ramucirumab (market status: 已上市 / Marketed). However, license number, product name, dosage form, manufacturer, and approved indication text were not populated for either entry in this evidence pack, so a per-license table cannot be presented without fabricating values.
+Malaysia (NPRA) shows **2 active registrations** for Ramucirumab (market status: Marketed / Marketed). However, license number, product name, dosage form, manufacturer, and approved indication text were not populated for either entry in this evidence pack, so a per-license table cannot be presented without fabricating values.
 
 ---
 
@@ -111,10 +111,10 @@ The top-ranked candidate (Uterine Ligament Adenocarcinoma) is supported only by 
 - Confirmed mechanism of action via DrugBank API — High-priority gap (DG002)
 - License-level detail (product name, dosage form, approved indication text) for the 2 Malaysia registrations
 - Consider re-scoping toward higher-evidence candidates (e.g., endocervical carcinoma, rank 2) which carry class-level support from bevacizumab's GOG-240 trial, before committing resources to the top-ranked but evidence-free hit
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

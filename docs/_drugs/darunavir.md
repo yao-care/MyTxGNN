@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Darunavir
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 249
 evidence_level: L5
 indication_count: 4
@@ -10,12 +10,12 @@ indication_count: 4
 # Darunavir
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **4** 個
+Tahap bukti: **L5** | Indikasi diramal: **4** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 4
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -97,10 +97,10 @@ All four TxGNN-predicted candidates are Evidence Level L5 (model prediction only
 - Darunavir mechanism of action via DrugBank API — High-priority gap (DG002); required for mechanistic-link analysis
 - Confirmed TFDA-approved indication text from the license record (currently blank)
 - Re-screening of the TxGNN output beyond the current top 4 (ranks 806–10,598) for candidates with plausible human-disease relevance and non-zero trial/literature support
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

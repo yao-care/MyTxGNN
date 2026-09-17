@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Aceclofenac
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 17
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Aceclofenac
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L1** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -122,10 +122,10 @@ Aceclofenac in osteoarthritis is supported by multiple completed Phase 4 RCTs an
 - Download and review the Malaysian product package insert from the NPRA official website to identify local warnings, contraindications, and drug interactions (currently a blocking data gap)
 - Evaluate GI and cardiovascular risk profile specifically for the Malaysian patient population, particularly elderly patients and those with common Southeast Asian comorbidities (hypertension, diabetes, chronic kidney disease)
 - Design a post-marketing surveillance plan for long-term safety monitoring should OA be formally listed as an approved indication in Malaysia
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

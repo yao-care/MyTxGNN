@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Methylprednisolone
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 481
 evidence_level: L5
 indication_count: 5
@@ -10,12 +10,12 @@ indication_count: 5
 # Methylprednisolone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L5** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -107,10 +107,10 @@ Please refer to the package insert for safety information. No key warnings, cont
 - Monitor completion of NCT06266221 (Phase 3 RCT, EM major, expected completion 2027) as the pivotal efficacy signal
 - Track NCT06119490 (methylprednisolone + JAK inhibitors in TEN) for spectrum-disease safety/efficacy data
 - Populate complete Malaysia license records (product name, dosage form, approved indication text) — current records for all sampled licenses are blank despite 7 total registrations
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

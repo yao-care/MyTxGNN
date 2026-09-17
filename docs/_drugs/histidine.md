@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Histidine
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 382
 evidence_level: L5
 indication_count: 2
@@ -10,12 +10,12 @@ indication_count: 2
 # Histidine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+Tahap bukti: **L5** | Indikasi diramal: **2** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 2
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -45,7 +45,7 @@ Histidine is an essential amino acid marketed in Malaysia across 32 registered p
 | Predicted New Indication | Gastroparesis (disease) |
 | TxGNN Prediction Score | 99.55% |
 | Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 32 |
 | Recommended Decision | Hold |
 
@@ -89,7 +89,7 @@ Multiple animal studies (PMIDs 27351144, 32054995, 35799467, 29601088) show that
 
 ## Malaysia Market Information
 
-Histidine holds 32 active registrations in Malaysia under "已上市" (marketed) status. License-level detail (authorization number, product name, dosage form, approved indication text) was not populated in the extracted dataset for this drug, so a per-product table cannot be presented without fabricating values.
+Histidine holds 32 active registrations in Malaysia under "Marketed" (marketed) status. License-level detail (authorization number, product name, dosage form, approved indication text) was not populated in the extracted dataset for this drug, so a per-product table cannot be presented without fabricating values.
 
 ---
 
@@ -111,10 +111,10 @@ The primary predicted indication (gastroparesis) is evidence level L5 — a mode
 - Confirmed mechanism of action for histidine — currently a High-severity gap (DG002)
 - Any real-world or preclinical evidence specific to histidine (not just downstream histamine) in gastric motility disorders
 - Resolution of the directional contradiction seen in the sclerosing cholangitis literature before considering that indication further
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mometasone Furoate
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 489
 evidence_level: L5
 indication_count: 5
@@ -10,12 +10,12 @@ indication_count: 5
 # Mometasone Furoate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L5** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -71,7 +71,7 @@ Currently no related clinical trials registered.
 
 ## Malaysia Market Information
 
-NPRA/market data confirms 36 active registrations for Mometasone Furoate in Malaysia (market status: 已上市), but this evidence pack did not return product-level detail — license numbers, product names, dosage forms, and approved indication text were all blank for every record queried. This should be pulled directly from NPRA before any decision is finalized.
+NPRA/market data confirms 36 active registrations for Mometasone Furoate in Malaysia (market status: Marketed), but this evidence pack did not return product-level detail — license numbers, product names, dosage forms, and approved indication text were all blank for every record queried. This should be pulled directly from NPRA before any decision is finalized.
 
 ## Safety Considerations
 
@@ -90,10 +90,10 @@ The top-ranked prediction (neurodermatitis) has a 0.00% TxGNN score, no clinical
 - Obtain NPRA license-level detail (product names, dosage forms, approved indication text) for the 36 registrations
 - Direct clinical evidence connecting mometasone furoate specifically to neurodermatitis/lichen simplex chronicus
 - **Reprioritize candidate selection**: within this same evidence pack, atopic eczema (rank 4, 10 trials incl. completed Phase 2/4 studies, 20 publications) and asthma (rank 5, 20 publications including Phase 3 RCTs) have far stronger evidence bases than the current rank-1 neurodermatitis prediction and warrant separate evaluation as the lead repurposing candidate
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

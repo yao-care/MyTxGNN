@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Imiquimod
-parent: 僅模型預測 (L5)
+parent: Medium Evidence (L3)
 nav_order: 394
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Imiquimod
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L3** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -45,7 +45,7 @@ Imiquimod is a topical Toll-like receptor 7 (TLR7) agonist / immune response mod
 | Predicted New Indication | Pre-malignant Neoplasm |
 | TxGNN Prediction Score | 99.92% |
 | Evidence Level | L3 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 2 |
 | Recommended Decision | Hold |
 
@@ -96,7 +96,7 @@ The main caveat is that most of the identified evidence targets specific, well-d
 
 ## Malaysia Market Information
 
-The evidence pack confirms **2 registered Imiquimod products in Malaysia** (NPRA, market status: 已上市 / Marketed), but individual license numbers, product names, dosage forms, manufacturers, and approved indication text were not populated in this data pull — this is captured under Data Gap **DG001** (Blocking), which also blocks the S1 safety initial review below.
+The evidence pack confirms **2 registered Imiquimod products in Malaysia** (NPRA, market status: Marketed / Marketed), but individual license numbers, product names, dosage forms, manufacturers, and approved indication text were not populated in this data pull — this is captured under Data Gap **DG001** (Blocking), which also blocks the S1 safety initial review below.
 
 ---
 
@@ -118,10 +118,10 @@ The top-ranked indication (pre-malignant neoplasm) is backed by a reasonable vol
 - Formal DrugBank mechanism-of-action record (DG002)
 - Individual Malaysia license details (license numbers, product names, dosage forms, approved indication text) for the 2 registered products
 - Confirmation of randomized-controlled-trial design/results for the key Phase 3 studies (NCT01720407, NCT02329171) to finalize the evidence-level grading
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

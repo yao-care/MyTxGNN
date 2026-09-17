@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Hydroquinone
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 386
-evidence_level: L5
+evidence_level: L4
 indication_count: 4
 ---
 
 # Hydroquinone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **4** 個
+Tahap bukti: **L4** | Indikasi diramal: **4** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 4
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -109,10 +109,10 @@ Please refer to the package insert for safety information.
 - Fill in complete Malaysia license details (product names, dosage forms, indication text) for the 3 existing registrations
 - Clarify whether the predicted indication should be narrowed specifically to DPN/pigmented seborrheic keratosis rather than the broader disease category
 - Note: other ranked candidates in this pack (e.g., "exanthem," rank 3) show apparent disease-label mismatches in their clinical trial evidence (melasma trials mapped to an unrelated disease node) — worth a knowledge-graph mapping review before further use of this candidate set
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

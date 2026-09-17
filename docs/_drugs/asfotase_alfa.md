@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Asfotase Alfa
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 93
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Asfotase Alfa
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -99,10 +99,10 @@ Despite a high TxGNN prediction score (99.95%), there is no mechanistic basis, c
 - **Preclinical proof-of-concept:** In vitro and in vivo studies using established OxPhos disease models (e.g., ETC complex I/IV knockout cells) treated with recombinant TNSALP
 - **Regulatory data completion:** Obtain full NPRA registration records including product names, dosage forms, and Malaysian-approved indication texts
 - **Safety data retrieval:** Download and parse package insert for contraindications, key warnings, and drug-drug interaction profile from the NPRA website
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

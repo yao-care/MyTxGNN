@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Denosumab
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 257
 evidence_level: L5
 indication_count: 2
@@ -10,12 +10,12 @@ indication_count: 2
 # Denosumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+Tahap bukti: **L5** | Indikasi diramal: **2** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 2
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -79,10 +79,10 @@ The prediction for severe nonproliferative diabetic retinopathy is supported onl
 - Verified mechanism-of-action documentation from DrugBank or equivalent (DG002)
 - Targeted literature/clinical trial search for RANKL inhibition and retinal microvascular outcomes, ideally interventional rather than biomarker-association studies
 - Further evaluation of the related broader indication "diabetic retinopathy" (TxGNN score 99.23%), whose existing real-world cohort data has not yet been assessed for relevance
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

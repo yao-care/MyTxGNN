@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Deferiprone
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 254
 evidence_level: L5
 indication_count: 9
@@ -10,12 +10,12 @@ indication_count: 9
 # Deferiprone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **9** 個
+Tahap bukti: **L5** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 9
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -45,7 +45,7 @@ indication_count: 9
 | Predicted New Indication | Hepatic Porphyria |
 | TxGNN Prediction Score | 99.20% |
 | Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 6 |
 | Recommended Decision | Hold |
 
@@ -75,7 +75,7 @@ Currently no related literature available.
 
 ## Malaysia Market Information
 
-The evidence pack records 6 total registrations with market status "已上市" (Marketed), but the 5 license entries returned contain no populated fields (license number, product name, dosage form, manufacturer, and indication text are all blank) — this is a data gap in the source query, not an absence of registrations. License-level detail needs to be re-collected from NPRA before it can be reported here.
+The evidence pack records 6 total registrations with market status "Marketed" (Marketed), but the 5 license entries returned contain no populated fields (license number, product name, dosage form, manufacturer, and indication text are all blank) — this is a data gap in the source query, not an absence of registrations. License-level detail needs to be re-collected from NPRA before it can be reported here.
 
 ---
 
@@ -98,10 +98,10 @@ The top-ranked prediction (hepatic porphyria) is supported only by an L5, model-
 - Preclinical or mechanistic studies clarifying the *direction* of iron-chelation effects across porphyria subtypes before considering hepatic porphyria as a repurposing candidate
 - Confirmation of `original_indications` (currently empty) — note that **beta-thalassemia with other manifestations (rank 8)** appears to be deferiprone's already-approved use (Ferriprox), not a genuinely new indication; this should be verified so it is not miscounted as a repurposing candidate
 - Populated Malaysia license/indication data to replace the current blank entries
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Moclobemide
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 488
-evidence_level: L5
+evidence_level: L2
 indication_count: 2
 ---
 
 # Moclobemide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+Tahap bukti: **L2** | Indikasi diramal: **2** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 2
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -45,7 +45,7 @@ Moclobemide is a reversible, selective MAO-A inhibitor (RIMA) established for th
 | Predicted New Indication | Agoraphobia |
 | TxGNN Prediction Score | 99.43% |
 | Evidence Level | L2 |
-| Malaysia Market Status | ✓ 已上市 (Marketed) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 1 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -111,10 +111,10 @@ Two RCTs and a body of supporting review literature establish a mechanistically 
 - A prospective or retrospective study specifically targeting agoraphobia (rather than panic disorder broadly) as the primary endpoint
 
 *Note: The second candidate indication, "benign paroxysmal torticollis of infancy" (TxGNN score 99.30%), has no literature or clinical trial support and no plausible mechanistic link — recommend Hold, likely a false-positive knowledge-graph prediction.*
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

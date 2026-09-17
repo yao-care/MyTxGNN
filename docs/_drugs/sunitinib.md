@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Sunitinib
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 632
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Sunitinib
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L2** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -47,7 +47,7 @@ Sunitinib is an oral multi-targeted tyrosine kinase inhibitor established intern
 | Predicted New Indication | Liposarcoma |
 | TxGNN Prediction Score | 99.87% |
 | Evidence Level | L2 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -91,7 +91,7 @@ However, the evidence pack's own annotation cautions that clinical response rate
 
 ## Malaysia Market Information
 
-License-level details (authorization number, product name, dosage form, indication text) are not populated in the current dataset. NPRA records confirm Sunitinib holds **20 active marketing authorizations** in Malaysia with market status **已上市 (Marketed)**.
+License-level details (authorization number, product name, dosage form, indication text) are not populated in the current dataset. NPRA records confirm Sunitinib holds **20 active marketing authorizations** in Malaysia with market status **Marketed (Marketed)**.
 
 ---
 
@@ -119,10 +119,10 @@ Evidence level is L2 (single dedicated Phase 2 trial population plus supportive 
 - DrugBank-sourced mechanism of action and drug category data
 - Populated NPRA license records (product names, dosage forms, approved indication text) for the 20 existing registrations
 - Liposarcoma-subtype-stratified efficacy data (particularly myxoid/round-cell) before considering further development
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

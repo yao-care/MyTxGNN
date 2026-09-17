@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Meropenem
-parent: 僅模型預測 (L5)
+parent: Medium Evidence (L3)
 nav_order: 474
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Meropenem
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L3** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -43,7 +43,7 @@ Meropenem is a broad-spectrum carbapenem antibiotic used for serious bacterial i
 | Predicted New Indication | Bacterial Arthritis |
 | TxGNN Prediction Score | 99.92% |
 | Evidence Level | L3 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 25 |
 | Recommended Decision | Hold |
 
@@ -78,7 +78,7 @@ Mechanistically, this supports meropenem as a plausible carbapenem option for MD
 
 ## Malaysia Market Information
 
-NPRA records show **25 registered licenses** for Meropenem with market status "已上市" (Marketed), but the underlying license detail fields (license number, product name, dosage form, manufacturer, approved indication text) were returned empty in the current dataset and cannot be tabulated. This is a data-completeness gap in the source extract, not evidence of a missing market presence.
+NPRA records show **25 registered licenses** for Meropenem with market status "Marketed" (Marketed), but the underlying license detail fields (license number, product name, dosage form, manufacturer, approved indication text) were returned empty in the current dataset and cannot be tabulated. This is a data-completeness gap in the source extract, not evidence of a missing market presence.
 
 ## Safety Considerations
 
@@ -98,10 +98,10 @@ Please refer to the package insert for safety information. (Key warnings, contra
 - Complete NPRA license detail records (product names, dosage forms, approved indication text) for the 25 registered products
 - Confirmation of relevance for the single clinical trial (NCT01371656), which studies levofloxacin rather than meropenem
 - A dedicated literature/clinical search specific to "septic arthritis" or "meropenem AND joint infection" to reduce noise from the current broader "bacterial arthritis" query
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Dasatinib
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 250
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Dasatinib
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L2** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -47,7 +47,7 @@ Dasatinib is an oral multi-target kinase inhibitor (BCR-ABL, SRC family, KIT, PD
 | Predicted New Indication | Ewing Sarcoma |
 | TxGNN Prediction Score | 99.90% |
 | Evidence Level | L2 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 2 |
 | Recommended Decision | Hold |
 
@@ -127,10 +127,10 @@ Mechanistic and in vitro evidence plausibly links dasatinib's SRC-pathway inhibi
 - DrugBank mechanism-of-action record (DG002)
 - Ewing-sarcoma-specific subgroup results from NCT00464620
 - Complete TFDA license details (authorization numbers, dosage forms, approved indication text)
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

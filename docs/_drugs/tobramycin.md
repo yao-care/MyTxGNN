@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tobramycin
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 653
 evidence_level: L5
 indication_count: 5
@@ -10,12 +10,12 @@ indication_count: 5
 # Tobramycin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L5** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -45,7 +45,7 @@ Tobramycin is an aminoglycoside antibiotic historically used against susceptible
 | Predicted New Indication | Superior Limbic Keratoconjunctivitis |
 | TxGNN Prediction Score | 0.00% |
 | Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 3 |
 | Recommended Decision | Hold |
 
@@ -75,7 +75,7 @@ Currently no related literature available for Superior Limbic Keratoconjunctivit
 
 ## Malaysia Market Information
 
-NPRA records indicate Tobramycin currently holds **3 active registrations** in Malaysia (market status: 已上市 / Marketed). However, itemized license details (authorization number, product name, dosage form, and approved indication text) were not returned in this data pull and cannot be tabulated at this time.
+NPRA records indicate Tobramycin currently holds **3 active registrations** in Malaysia (market status: Marketed / Marketed). However, itemized license details (authorization number, product name, dosage form, and approved indication text) were not returned in this data pull and cannot be tabulated at this time.
 
 ---
 
@@ -112,10 +112,10 @@ The top TxGNN-ranked candidate indication, Superior Limbic Keratoconjunctivitis,
 - Obtain detailed mechanism of action data from DrugBank (High-severity gap, DG002)
 - Confirm the specific NPRA-approved indication text from license records (currently blank for all 3 registrations)
 - If repurposing interest continues, prioritize dedicated evaluation of the higher-evidence candidates (E. coli infection, bacterial meningitis) rather than the top-ranked SLK candidate
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bilastine
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 145
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Bilastine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Tahap bukti: **L5** | Indikasi diramal: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -109,10 +109,10 @@ No TxGNN-predicted indications exist for Bilastine at this time, and multiple bl
 3. **Obtain MOA data** — Query DrugBank API for Bilastine's mechanism of action, targets, and pharmacodynamics
 4. **Parse package insert** — Download and extract warnings, contraindications, and adverse reactions from the official package insert (Blocking severity — required for Stage 1 safety assessment)
 5. **Query DDI databases** — Re-attempt drug–drug interaction search once DrugBank data is fully integrated
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

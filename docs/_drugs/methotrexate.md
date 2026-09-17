@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Methotrexate
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 477
-evidence_level: L5
+evidence_level: L2
 indication_count: 5
 ---
 
 # Methotrexate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L2** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -123,10 +123,10 @@ The mechanistic rationale is sound and historically supported by one Phase 3 RCT
 - TFDA/NPRA package insert warnings, contraindications, and drug interaction data (currently unavailable)
 - Clarification of the TxGNN prediction score, which returned 0.0 across all candidates
 - Updated evidence review to confirm whether methotrexate has a role alongside current platinum/immunotherapy-based standards of care
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

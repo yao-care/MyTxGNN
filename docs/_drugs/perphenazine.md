@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Perphenazine
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 540
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Perphenazine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -47,7 +47,7 @@ Using the drug-repurposing evidence pack directly (no skill match for this — i
 | Predicted New Indication | Retinal dystrophy with or without extraocular anomalies |
 | TxGNN Prediction Score | 99.96% (rank 932) |
 | Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 1 |
 | Recommended Decision | Hold |
 
@@ -112,10 +112,10 @@ The top-ranked prediction (retinal dystrophy with/without extraocular anomalies)
 - Confirmed mechanism of action (DG002, High)
 - If this specific signal is pursued: dedicated preclinical/pharmacological rationale linking perphenazine to retinal or extraocular developmental pathways
 - Consider re-scoping this candidacy toward the **anxiety disorder** signal (rank 10, L2, Proceed with Guardrails), which has materially stronger clinical and literature support within the same evidence pack
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

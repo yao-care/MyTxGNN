@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Norfloxacin
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 510
-evidence_level: L5
+evidence_level: L2
 indication_count: 5
 ---
 
 # Norfloxacin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L2** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -109,10 +109,10 @@ The mechanistic link and supporting literature (three Cochrane systematic review
 - Detailed mechanism of action data from DrugBank
 - Malaysia license-level product details (product names, dosage forms, approved indication text)
 - Current local antimicrobial resistance data, given several cited studies note rising fluoroquinolone resistance in *Salmonella* and *Shigella* species
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

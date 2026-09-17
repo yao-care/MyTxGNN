@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Teriparatide
-parent: 僅模型預測 (L5)
+parent: Medium Evidence (L3)
 nav_order: 642
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Teriparatide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L3** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -49,7 +49,7 @@ indication_count: 10
 | Predicted New Indication | Pregnancy-Associated Osteoporosis |
 | TxGNN Prediction Score | 99.55% |
 | Evidence Level | L3 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 5 |
 | Recommended Decision | Hold |
 
@@ -84,7 +84,7 @@ Currently no literature is registered specifically for the Pregnancy-Associated 
 
 ## Malaysia Market Information
 
-NPRA status is **Marketed (已上市)** with **5 registered licenses**. However, product name, dosage form, manufacturer, and approved-indication text for these 5 licenses are not populated in the current data extract, so a license-level table cannot be produced. This gap should be remediated (NPRA product search or label PDF) before Malaysia-specific labeling comparisons are made.
+NPRA status is **Marketed (Marketed)** with **5 registered licenses**. However, product name, dosage form, manufacturer, and approved-indication text for these 5 licenses are not populated in the current data extract, so a license-level table cannot be produced. This gap should be remediated (NPRA product search or label PDF) before Malaysia-specific labeling comparisons are made.
 
 ---
 
@@ -107,10 +107,10 @@ Safety data required for even an initial risk screen is blocked (DG001, Blocking
 - Dedicated clinical evidence in pregnant/postpartum osteoporosis patients
 - Reproductive and fetal safety data before any pregnancy-related indication is considered
 - Completion of Malaysia license details (product name, dosage form, indication text) for the 5 existing registrations
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

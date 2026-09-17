@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Lacosamide
-parent: 僅模型預測 (L5)
+parent: Medium Evidence (L3)
 nav_order: 420
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Lacosamide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L3** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -108,10 +108,10 @@ Evidence Level L3 with only a single, small (n=40), still-recruiting Phase 3 tri
 - Confirmation of indication direction: manic-phase-specific evidence, vs. the depression-phase evidence currently available
 - Results from NCT07412132 upon completion (expected 2027-01)
 - Complete NPRA license detail (product names, dosage forms, approved indication text) for the 4 registered licenses
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

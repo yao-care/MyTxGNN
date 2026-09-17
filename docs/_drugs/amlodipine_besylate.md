@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Amlodipine Besylate
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 59
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Amlodipine Besylate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Tahap bukti: **L5** | Indikasi diramal: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -111,10 +111,10 @@ This Evidence Pack is structurally incomplete — the TxGNN prediction pipeline 
 - **Re-run TxGNN prediction pipeline** with the confirmed DrugBank ID to generate repurposing candidates; this will unlock all downstream sections (predicted indications, clinical trial evidence, literature evidence).
 - **Populate all 50 NPRA licence records** with complete product details (product name, dosage form, approved indication text) to enable a proper Malaysia market summary.
 - Once all gaps are resolved, **re-generate this report** using the completed Evidence Pack.
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

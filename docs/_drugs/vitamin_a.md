@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Vitamin A
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 690
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Vitamin A
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -119,10 +119,10 @@ This evidence pack (`TW-UNKNOWN-multi`) contains 10 ranked TxGNN predictions for
 - **Rank 7 – "Perinatal Disease" (L2, Proceed with Guardrails):** This is the most scientifically credible candidate in the set. Vitamin A supplementation in very-low-birth-weight (VLBW) preterm infants to reduce bronchopulmonary dysplasia (BPD) risk is supported by **multiple Cochrane systematic reviews** (PMID 27552058, 21975731, 17943744, 12519545, 10796372). If a repurposing candidate from this pack merits a full evaluation report, this is the one recommended for follow-up — noting that "perinatal disease" as a category is broader than the specific VLBW/BPD population where evidence actually concentrates.
 
 All remaining candidates (ranks 2, 4, 5, 6, 8, 9, 10) carry Evidence Level L3–L5 with weak-to-no direct supporting evidence and are recommended for **Hold** or **Research Question** status only.
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

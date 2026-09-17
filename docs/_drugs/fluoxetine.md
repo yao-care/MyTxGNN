@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Fluoxetine
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 353
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Fluoxetine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L1** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -45,7 +45,7 @@ indication_count: 10
 | Predicted New Indication | Obsessive-Compulsive Disorder |
 | TxGNN Prediction Score | 99.96% |
 | Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 7 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -121,10 +121,10 @@ The OCD signal is backed by L1-tier evidence (a Phase 4 RCT and multiple support
 - DrugBank-sourced mechanism of action confirmation
 - Malaysia-specific license details (product name, dosage form, approved indication text) to verify whether OCD is already a registered indication locally
 - If pursuing a genuinely incremental signal, consider evaluating dysthymic disorder (rank 10, L2, two supporting placebo-controlled RCTs) as a parallel candidate
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Trifarotene
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 669
 evidence_level: L5
 indication_count: 2
@@ -10,12 +10,12 @@ indication_count: 2
 # Trifarotene
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+Tahap bukti: **L5** | Indikasi diramal: **2** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 2
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -83,10 +83,10 @@ The predicted indication lacks any clinical trial or literature support, and the
 - Mechanism of action data from DrugBank (DG002) — needed to properly evaluate mechanistic plausibility
 - Complete license record details (product name, dosage form, approved indication text) for the Malaysia registration
 - If pursuing further, re-evaluate the second-ranked candidate (pyogenic arthritis-pyoderma gangrenosum-acne syndrome, score 99.32%), which currently has no evidence or rationale assessment completed
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cyanocobalamin
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 239
 evidence_level: L5
 indication_count: 5
@@ -10,12 +10,12 @@ indication_count: 5
 # Cyanocobalamin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L5** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -45,7 +45,7 @@ Cyanocobalamin is the synthetic form of vitamin B12, established as replacement 
 | Predicted New Indication | Microcytic Anemia |
 | TxGNN Prediction Score | 0.00% |
 | Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 428 |
 | Recommended Decision | Hold |
 
@@ -113,10 +113,10 @@ The TxGNN model assigned this candidate a prediction score of 0.0, and both the 
 - Resolve DG002: obtain mechanism of action data from DrugBank
 - Re-query Malaysia license records to obtain populated product/authorization details (current sample is entirely blank)
 - Note for portfolio review: the same evidence pack shows **vitamin B12 deficiency** (rank 3, evidence level L1, decision stage S3, recommendation "Proceed with Guardrails") as a much stronger-evidence candidate — but this is the drug's already-established core indication rather than a novel repurposing target, and should be treated as a scope/coverage question rather than a new indication filing
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

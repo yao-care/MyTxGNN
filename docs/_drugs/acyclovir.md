@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Acyclovir
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 25
-evidence_level: L5
+evidence_level: L1
 indication_count: 5
 ---
 
 # Acyclovir
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L1** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -45,7 +45,7 @@ Acyclovir is a nucleoside analogue antiviral originally approved for the treatme
 | Predicted New Indication | Herpes Zoster |
 | TxGNN Prediction Score | 0.00% (score data may not have been populated; rank 1 of 5 predictions) |
 | Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 46 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -129,10 +129,10 @@ All five TxGNN predictions for Acyclovir represent herpesvirus indications with 
 - **DrugBank MOA data retrieval**: Query DrugBank API for DB00787 to obtain formal mechanism of action, drug categories, and toxicity classifications (DG002 Severity: High)
 - **TxGNN score validation**: Investigate why all five prediction scores are recorded as 0.0; this likely reflects a data pipeline issue rather than actual model output — correct score values are needed to accurately rank and compare prediction confidence across indications
 - **Acyclovir-resistant strain monitoring plan**: Given evidence of TK-mutant Acyclovir-resistant VZV and HSV strains in immunocompromised populations, any clinical use expansion should include a resistance surveillance protocol
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

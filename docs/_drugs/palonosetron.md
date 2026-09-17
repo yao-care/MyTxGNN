@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Palonosetron
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 530
-evidence_level: L5
+evidence_level: L4
 indication_count: 5
 ---
 
 # Palonosetron
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L4** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -103,10 +103,10 @@ The only direct evidence for this indication is a single case report describing 
 - DrugBank-confirmed mechanism of action — resolves DG002
 - Complete Malaysia license/product detail (name, dosage form, approved indication text)
 - Any mechanistic or preclinical study directly testing 5-HT3 antagonism in migraine models, to determine whether the case-report signal is an outlier or a real class effect
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

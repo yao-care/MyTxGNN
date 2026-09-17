@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Ezetimibe
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 336
-evidence_level: L5
+evidence_level: L1
 indication_count: 5
 ---
 
 # Ezetimibe
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L1** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -45,7 +45,7 @@ Ezetimibe is a selective cholesterol-absorption inhibitor originally used to tre
 | Predicted New Indication | Sitosterolemia |
 | TxGNN Prediction Score | 0.00% (score field returned as 0.0 for all ranked candidates in this data pull — likely incomplete scoring data, not a true 0% prediction) |
 | Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 40 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -113,10 +113,10 @@ Sitosterolemia is supported by L1-level evidence — multiple completed, randomi
 - Confirmed mechanism-of-action data from DrugBank (currently unavailable at the drug level)
 - Malaysia-specific product license and approved-indication text (the current data pull returned 40 total registrations but no populated license detail records)
 - Drug–drug interaction (DDI) data (current query status: not found)
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

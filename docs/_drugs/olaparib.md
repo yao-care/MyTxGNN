@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Olaparib
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 518
-evidence_level: L5
+evidence_level: L1
 indication_count: 1
 ---
 
 # Olaparib
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+Tahap bukti: **L1** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -47,7 +47,7 @@ indication_count: 1
 | Predicted New Indication | Female Breast Carcinoma |
 | TxGNN Prediction Score | 99.09% |
 | Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 2 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -99,7 +99,7 @@ This mechanism is not tumor-type specific — it depends on the BRCA1/2 or homol
 
 ## Malaysia Market Information
 
-The local registry (2 records, market status: 已上市/Marketed) does not include license numbers, product names, dosage forms, or approved-indication text in this evidence pack — these fields were returned empty by the source query and cannot be populated without re-querying the source registry.
+The local registry (2 records, market status: Marketed/Marketed) does not include license numbers, product names, dosage forms, or approved-indication text in this evidence pack — these fields were returned empty by the source query and cannot be populated without re-querying the source registry.
 
 ---
 
@@ -132,10 +132,10 @@ Evidence level L1 is met — multiple completed Phase 3 RCTs (OlympiAD, OlympiA)
 - Local package insert (warnings, contraindications, drug interactions) — currently a Blocking data gap
 - Confirmation of the exact currently approved indication text on the 2 local licenses, to determine whether breast cancer is already covered or requires label expansion
 - Formal DrugBank/label-sourced mechanism of action record (currently a High-severity data gap; the mechanistic rationale above is derived from trial/literature evidence, not a structured MOA source)
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Omeprazole
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 520
-evidence_level: L5
+evidence_level: L4
 indication_count: 5
 ---
 
 # Omeprazole
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L4** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -44,7 +44,7 @@ The TxGNN model's top-ranked new-indication prediction is **Hyperinsulinism**, b
 | Predicted New Indication | Hyperinsulinism |
 | TxGNN Prediction Score | 0% |
 | Evidence Level | L4 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 45 |
 | Recommended Decision | Hold |
 
@@ -78,7 +78,7 @@ For Hyperinsulinism specifically, the mechanistic story is contradictory rather 
 
 ## Malaysia Market Information
 
-The NPRA record confirms Omeprazole holds **45 active registrations** and is currently marketed ("已上市"), but detailed authorization records (license number, product name, dosage form, manufacturer, approved indication text) are not populated in this evidence pack and cannot be listed.
+The NPRA record confirms Omeprazole holds **45 active registrations** and is currently marketed ("Marketed"), but detailed authorization records (license number, product name, dosage form, manufacturer, approved indication text) are not populated in this evidence pack and cannot be listed.
 
 ## Safety Considerations
 
@@ -96,10 +96,10 @@ The TxGNN prediction score for omeprazole-hyperinsulinism is 0.0, no clinical tr
 - Confirmed mechanism of action data for omeprazole (currently High-severity data gap — DG002)
 - A dedicated preclinical or clinical study testing omeprazole monotherapy (not combination or background-drug use) on insulin secretion/hyperinsulinism endpoints
 - Resolution of the directional conflict between the hypergastrinemia/insulin-trophic pathway and the GLP-1-combination insulin-sensitizing pathway before any further evaluation
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Sulfamethoxazole
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 629
-evidence_level: L5
+evidence_level: L4
 indication_count: 1
 ---
 
 # Sulfamethoxazole
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+Tahap bukti: **L4** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -45,7 +45,7 @@ but this direction is currently supported by **0 clinical trials** and only **1 
 | Predicted New Indication | Acute Contagious Conjunctivitis |
 | TxGNN Prediction Score | 99.63% |
 | Evidence Level | L4 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 15 |
 | Recommended Decision | Hold |
 
@@ -83,10 +83,10 @@ There are no clinical trials and only one indirect epidemiological publication s
 - Confirmed mechanism-of-action reference from DrugBank (original_moa currently unavailable)
 - Evidence of an existing or feasible topical ophthalmic formulation for sulfamethoxazole
 - Targeted literature/clinical trial search for sulfamethoxazole (or TMP-SMX) specifically studied for treating bacterial/contagious conjunctivitis, rather than general conjunctivitis epidemiology
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

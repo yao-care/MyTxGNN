@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Avelumab
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 105
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Avelumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -155,10 +155,10 @@ The top TxGNN prediction (HHV-8-related tumour) is supported exclusively by mode
 - **Reprioritisation consideration:** Given that Ranks 9–10 (urothelial carcinoma subtypes) share direct histological continuity with Avelumab's JAVELIN Bladder 100-approved indication and carry L4 evidence (Research Question), it is strongly recommended to rerun the primary analysis with **Prostatic Urethra Urothelial Carcinoma** or **Kidney Pelvis Sarcomatoid TCC** as the lead candidate indication
 - **Populate Malaysia licence record:** Contact NPRA to retrieve the complete registration details for the 1 active licence on file
 - **Exclude ranks 5–8 from further analysis:** The immune deficiency predictions (ADA deficiency, reticular dysgenesis, immunoerythromyeloid hypoplasia, non-SCID) are mechanistically implausible for PD-L1 inhibition and should be flagged as likely KG false positives
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

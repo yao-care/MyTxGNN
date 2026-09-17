@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Norethisterone
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 509
 evidence_level: L5
 indication_count: 1
@@ -10,12 +10,12 @@ indication_count: 1
 # Norethisterone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+Tahap bukti: **L5** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -45,7 +45,7 @@ indication_count: 1
 | Predicted New Indication | Amenorrhea (disease) |
 | TxGNN Prediction Score | 99.60% |
 | Evidence Level | L3 (per evidence pack scoring) |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 7 |
 | Recommended Decision | Hold |
 
@@ -87,7 +87,7 @@ The evidence pack's own `repurposing_rationale.mechanistic_link` flags this expl
 
 ## Malaysia Market Information
 
-License-level detail (authorization numbers, product names, dosage forms, approved indication text) was not returned in this data pull — all 7 registered license records have empty fields. Only the aggregate figures are confirmed: **7 total licenses**, market status **已上市 (Marketed)**. Full license detail should be re-queried from the source registry before this is used in decision-making.
+License-level detail (authorization numbers, product names, dosage forms, approved indication text) was not returned in this data pull — all 7 registered license records have empty fields. Only the aggregate figures are confirmed: **7 total licenses**, market status **Marketed (Marketed)**. Full license detail should be re-queried from the source registry before this is used in decision-making.
 
 ## Safety Considerations
 
@@ -105,10 +105,10 @@ Please refer to the package insert for safety information. (Key warnings, contra
 - Confirmed mechanism of action data (resolve DG002)
 - A targeted literature/trial search restricted to norethisterone as monotherapy (not as GnRH-antagonist add-back) for amenorrhea treatment, to clarify whether a genuine treatment signal exists
 - Malaysia/Taiwan license-level indication text (currently empty across all 7 records) to establish the true original indication baseline
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

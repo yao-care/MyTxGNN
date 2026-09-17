@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Potassium Citrate
-parent: 僅模型預測 (L5)
+parent: Medium Evidence (L3)
 nav_order: 566
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Potassium Citrate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L3** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -100,10 +100,10 @@ The mechanistic rationale is strong and long-standing clinical dosing/effectiven
 - Confirmed DrugBank mechanism-of-action data
 - Complete Malaysia license-level detail (product name, dosage form, approved indication text) for the 31 registrations
 - A safety monitoring plan (e.g., serum potassium, renal function) specific to RTA populations, given the drug's core potassium-loading effect
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

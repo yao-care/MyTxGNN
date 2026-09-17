@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Cabergoline
-parent: 僅模型預測 (L5)
+parent: Medium Evidence (L3)
 nav_order: 172
-evidence_level: L5
+evidence_level: L3
 indication_count: 5
 ---
 
 # Cabergoline
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L3** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -127,10 +127,10 @@ The top-ranked TxGNN prediction for cabergoline — Pituitary Adenocarcinoma (di
 - Disambiguate the disease scope: clarify whether "pituitary adenocarcinoma" in this workflow is intended to capture benign pituitary adenoma (where evidence is strong, per the related rank-3 node) or true malignant pituitary carcinoma (where evidence remains essentially absent)
 - If the intent is the adenoma/prolactinoma indication, re-evaluate using the rank-3 "pituitary cancer" evidence base (L1, 20 trials including completed Phase 2/3 RCTs and a systematic review/meta-analysis), which is markedly stronger than the rank-1 node scored here
 - Complete NPRA license record details (authorization number, approved indication text, dosage form) currently missing from the registry extract
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

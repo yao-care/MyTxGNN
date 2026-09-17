@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dexchlorpheniramine Maleate
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 263
 evidence_level: L5
 indication_count: 1
@@ -10,12 +10,12 @@ indication_count: 1
 # Dexchlorpheniramine Maleate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+Tahap bukti: **L5** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -92,10 +92,10 @@ The TxGNN prediction score is high (99.12%), and there is a plausible, albeit in
 - **Preclinical validation:** In vitro or in vivo studies testing dexchlorpheniramine specifically in AIP models (not just EPP)
 - **Literature deep-dive:** Systematic review of all antihistamines (H1 and H2) studied in any porphyria subtype, to map the class-level evidence landscape
 - **Consultation with porphyria specialists:** Expert opinion on whether H1 blockade could address the HMBS enzyme deficiency and ALA/PBG accumulation that characterize AIP, as opposed to the FECH deficiency in EPP
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

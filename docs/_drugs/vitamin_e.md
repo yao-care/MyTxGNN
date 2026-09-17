@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Vitamin E
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 691
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Vitamin E
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -45,7 +45,7 @@ Vitamin E is a fat-soluble antioxidant vitamin, widely marketed in Malaysia as a
 | Predicted New Indication | Benign Recurrent Intrahepatic Cholestasis |
 | TxGNN Prediction Score | 99.99% |
 | Evidence Level | L5 |
-| Malaysia Market Status | ✓ 已上市 (Marketed) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 245 |
 | Recommended Decision | Hold |
 
@@ -99,10 +99,10 @@ The top-ranked prediction (BRIC) has zero direct clinical trial or literature su
 - DrugBank mechanism of action data (DG002, High)
 - Disease-specific evidence for BRIC (current supporting data only covers the related PFIC/familial intrahepatic cholestasis indication, not BRIC itself)
 - Complete license-level product data (registration numbers, approved indication text) for the 245 Malaysia registrations
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

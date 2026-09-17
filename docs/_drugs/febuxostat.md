@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Febuxostat
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 339
 evidence_level: L5
 indication_count: 3
@@ -10,12 +10,12 @@ indication_count: 3
 # Febuxostat
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+Tahap bukti: **L5** | Indikasi diramal: **3** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 3
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -46,7 +46,7 @@ Febuxostat is a xanthine oxidase (XO) inhibitor whose established use is lowerin
 | Top-Ranked Prediction | Hypouricemia, Renal (score 99.99%) — direction of effect is mechanistically counter-intuitive, see rationale |
 | Most Mechanistically Coherent Prediction | HPRT Partial Deficiency / Lesch-Nyhan Syndrome |
 | Evidence Level | L3 (rank 1) / L4 (rank 2, 3) |
-| Malaysia Market Status | ✓ 已上市 (Marketed) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 11 |
 | Recommended Decision | **Hold** (blocked — see rationale) |
 
@@ -120,10 +120,10 @@ Regardless of how promising the mechanistic case is for HPRT Partial Deficiency 
 - Full NPRA license-level detail (product name, dosage form, indication text) for the 11 registrations
 - Clarification of the NCT04398251 trial's actual population/endpoints to confirm or rule out relevance to renal hypouricemia
 - Given the rarity of HPRT deficiency and Lesch-Nyhan syndrome, real-world/registry evidence should be sought to supplement the case-report-only literature base before any guardrailed use is finalized
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

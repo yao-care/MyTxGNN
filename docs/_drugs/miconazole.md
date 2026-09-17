@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Miconazole
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 483
-evidence_level: L5
+evidence_level: L4
 indication_count: 1
 ---
 
 # Miconazole
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+Tahap bukti: **L4** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -104,10 +104,10 @@ The prediction is mechanistically plausible (anti-*P. acnes* activity in vitro) 
 - Mechanism of action (MOA) data from DrugBank to strengthen the mechanistic rationale
 - A dedicated clinical trial or observational study of miconazole (topical) specifically in acne vulgaris patients
 - Individual Malaysia license details (product names, dosage forms, approved indication text) for the 39 existing registrations
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

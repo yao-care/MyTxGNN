@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Bupropion
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 169
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Bupropion
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L1** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -134,10 +134,10 @@ Please refer to the package insert for safety information. Detailed warnings, co
 ---
 
 *Note: Nine additional TxGNN-predicted indications for bupropion were reviewed in this evidence pack (rank 2–10). Rank 2 ("ADHD, inattentive type") is a clinical subtype of the primary indication above and inherits the same mechanistic rationale (L3, Research Question). Ranks 3–10 (e.g., faciodigitogenital syndrome, chondromyxoid fibroma, hypervitaminosis) had no supporting clinical trials or literature and were assessed as likely knowledge-graph embedding noise (L5, Hold) — they are not carried forward in this report.*
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

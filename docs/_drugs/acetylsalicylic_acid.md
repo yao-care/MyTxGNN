@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Acetylsalicylic Acid
-parent: 僅模型預測 (L5)
+parent: Medium Evidence (L3)
 nav_order: 22
-evidence_level: L5
+evidence_level: L3
 indication_count: 9
 ---
 
 # Acetylsalicylic Acid
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **9** 個
+Tahap bukti: **L3** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 9
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -88,7 +88,7 @@ Currently no related clinical trials registered specifically for migraine with b
 
 ## Malaysia Market Information
 
-The Evidence Pack confirms **15 registered products** for acetylsalicylic acid in Malaysia, with a current market status of **Marketed (已上市)**. However, specific product details — including authorization numbers, brand names, dosage forms, manufacturers, and approved indication texts — were not retrieved in the current data query. Please consult the National Pharmaceutical Regulatory Agency (NPRA) product register directly for full product listings.
+The Evidence Pack confirms **15 registered products** for acetylsalicylic acid in Malaysia, with a current market status of **Marketed (Marketed)**. However, specific product details — including authorization numbers, brand names, dosage forms, manufacturers, and approved indication texts — were not retrieved in the current data query. Please consult the National Pharmaceutical Regulatory Agency (NPRA) product register directly for full product listings.
 
 ---
 
@@ -114,10 +114,10 @@ Multiple systematic reviews, one double-blind RCT for acute migraine (with or wi
 - Retrieval of specific product registration details (authorization numbers, approved indications) from the NPRA register for all 15 registered products
 - Vascular risk stratification protocol for patients with brainstem aura, given elevated ischaemic risk compared to standard migraine with aura
 - Definition of the optimal dose regimen (acute vs. prophylactic low-dose) specific to this indication
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

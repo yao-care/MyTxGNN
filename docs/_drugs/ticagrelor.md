@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Ticagrelor
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 649
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Ticagrelor
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L1** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -90,7 +90,7 @@ Because the predicted indication sits on the same causal pathway (platelet-drive
 
 ## Malaysia Market Information
 
-License-level details (registration numbers, product names, dosage forms, manufacturers) were not returned in the current data pack — all fields in the source registration records were empty. The market status is confirmed as **marketed (已上市)** with **8 total registrations** on file. Registration-level details need to be pulled from the source registry before regulatory cross-checks can be completed.
+License-level details (registration numbers, product names, dosage forms, manufacturers) were not returned in the current data pack — all fields in the source registration records were empty. The market status is confirmed as **marketed (Marketed)** with **8 total registrations** on file. Registration-level details need to be pulled from the source registry before regulatory cross-checks can be completed.
 
 ---
 
@@ -113,10 +113,10 @@ Two directly relevant Phase 3 trials (SOCRATES/EUCLID and the ongoing CAPTIVA tr
 - Malaysia license-level registration details (product names, dosage forms, manufacturers)
 - Completed drug-drug interaction data (current query returned no results)
 - Awaiting CAPTIVA (NCT05047172) primary results, expected completion 2028-05-31
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lemborexant
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 430
 evidence_level: L5
 indication_count: 1
@@ -10,12 +10,12 @@ indication_count: 1
 # Lemborexant
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+Tahap bukti: **L5** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -46,7 +46,7 @@ indication_count: 1
 | Predicted New Indication | Insomnia (Sleep Disorder, Initiating and Maintaining Sleep) |
 | TxGNN Prediction Score | 99.75% |
 | Evidence Level | L1 (≥2 completed Phase 3 RCTs reported in literature, PMID 31880796 / 32585700 / 33636648) |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 2 |
 | Recommended Decision | Hold |
 
@@ -89,7 +89,7 @@ Mechanistically, blocking orexin signalling directly addresses the hyperarousal 
 
 ## Malaysia Market Information
 
-NPRA records confirm **2 active registrations** for lemborexant (market status: 已上市 / Marketed), but the underlying license-level fields (license number, product name, dosage form, approved indication text) were not populated in this evidence pack. A follow-up NPRA product-level query is needed before this data can be reported.
+NPRA records confirm **2 active registrations** for lemborexant (market status: Marketed / Marketed), but the underlying license-level fields (license number, product name, dosage form, approved indication text) were not populated in this evidence pack. A follow-up NPRA product-level query is needed before this data can be reported.
 
 ---
 
@@ -111,10 +111,10 @@ Please refer to the package insert for safety information.
 - DrugBank-sourced mechanism of action confirmation — resolves DG002
 - Complete Malaysia license-level details (license number, product name, dosage form, approved indication text) for the 2 existing registrations
 - Confirmation of lemborexant's currently approved local indication, to clarify whether this represents a genuinely new use or documentation of an existing one
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

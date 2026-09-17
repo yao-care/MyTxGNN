@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Etanercept
-parent: 僅模型預測 (L5)
+parent: Medium Evidence (L3)
 nav_order: 326
-evidence_level: L5
+evidence_level: L3
 indication_count: 6
 ---
 
 # Etanercept
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **6** 個
+Tahap bukti: **L3** | Indikasi diramal: **6** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 6
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -118,10 +118,10 @@ Please refer to the package insert for safety information. (No structured warnin
 - Malaysia licence-level detail (product names, indication text) re-queried from NPRA, since the current pack returned blank fields
 - A dedicated, adequately powered trial specifically in rheumatoid vasculitis (not the related-but-distinct ANCA-vasculitis population) before this candidate could move beyond Hold
 - Note: other candidates in this evidence pack — inflammatory spondylopathy and polyarticular juvenile rheumatoid arthritis — already carry L1 evidence and "Proceed with Guardrails" status, but these reflect etanercept's *existing* approved uses rather than novel repurposing signals, and are worth reviewing separately from this rheumatoid vasculitis candidate.
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

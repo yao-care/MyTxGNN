@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Glutamic Acid
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 372
-evidence_level: L5
+evidence_level: L4
 indication_count: 4
 ---
 
 # Glutamic Acid
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **4** 個
+Tahap bukti: **L4** | Indikasi diramal: **4** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 4
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -88,7 +88,7 @@ Given the absence of any human RCT or observational study using glutamic acid it
 
 ## Malaysia Market Information
 
-Detailed license-level data (license number, product name, dosage form, approved indication text) was not captured for this drug — all 5 sampled license records returned empty fields. The regulatory database records **29 total registrations** with market status "已上市" (Marketed), but no structured product-level detail is currently available.
+Detailed license-level data (license number, product name, dosage form, approved indication text) was not captured for this drug — all 5 sampled license records returned empty fields. The regulatory database records **29 total registrations** with market status "Marketed" (Marketed), but no structured product-level detail is currently available.
 
 ---
 
@@ -112,10 +112,10 @@ Evidence Level L4 reflects predominantly preclinical/mechanistic support — onl
 - Confirmed mechanism of action from DrugBank
 - Original approved indication text for the 29 Malaysia licenses (currently blank)
 - Direct human interventional evidence (RCT or controlled study) testing glutamic acid itself — not vitamin K/D analogs or structurally distinct polymers — for bone density or fracture outcomes in postmenopausal osteoporosis
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

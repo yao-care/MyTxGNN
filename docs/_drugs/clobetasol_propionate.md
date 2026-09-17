@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Clobetasol Propionate
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 226
-evidence_level: L5
+evidence_level: L1
 indication_count: 5
 ---
 
 # Clobetasol Propionate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L1** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -101,7 +101,7 @@ In practical terms, this candidate should be read less as "new therapeutic hypot
 
 ## Malaysia Market Information
 
-License-level detail (authorization numbers, product names, dosage forms, indication text) was **not returned** in this data pull — all 5 sample license records in the evidence pack have empty fields. What is confirmed: NPRA records show **28 active registrations** under market status **已上市 (Marketed)**. License-level detail should be re-queried from NPRA before this report is used for regulatory purposes.
+License-level detail (authorization numbers, product names, dosage forms, indication text) was **not returned** in this data pull — all 5 sample license records in the evidence pack have empty fields. What is confirmed: NPRA records show **28 active registrations** under market status **Marketed (Marketed)**. License-level detail should be re-queried from NPRA before this report is used for regulatory purposes.
 
 ---
 
@@ -123,10 +123,10 @@ The evidence base for dermatitis is strong (L1: multiple completed Phase 3/4 tri
 - DrugBank mechanism-of-action confirmation (DG002, High)
 - License-level indication text from NPRA to confirm whether "dermatitis" is already within the approved label (would reclassify this from repurposing candidate to label-consistency check)
 - Data-quality check on the TxGNN score field, which returned 0.0 across all five ranked indications in this pack
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

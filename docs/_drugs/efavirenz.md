@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Efavirenz
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 307
-evidence_level: L5
+evidence_level: L4
 indication_count: 3
 ---
 
 # Efavirenz
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+Tahap bukti: **L4** | Indikasi diramal: **3** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 3
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -102,10 +102,10 @@ The predicted indication (Feline Acquired Immunodeficiency Syndrome) is supporte
 - DrugBank/mechanism-of-action detail for Efavirenz — currently a High-severity data gap (DG002)
 - If this veterinary indication is pursued, structural/PK evidence on whether Efavirenz (or an analog) can be modified for FIV RT activity, plus clarification of the applicable veterinary regulatory pathway (distinct from human drug repurposing)
 - Note: a related knowledge-graph prediction for Efavirenz in Simian Immunodeficiency Virus infection (rank 2, evidence level L3) shows substantially stronger literature support (16 publications, including direct in vivo efavirenz dosing in RT-SHIV-infected macaques), though that model itself represents a translational HIV research tool rather than a standalone human clinical indication — it may be a more productive research question to pursue in parallel.
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

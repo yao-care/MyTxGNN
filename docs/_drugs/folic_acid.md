@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Folic Acid
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 359
-evidence_level: L5
+evidence_level: L4
 indication_count: 5
 ---
 
 # Folic Acid
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L4** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -45,7 +45,7 @@ Folic Acid (Vitamin B9) is a water-soluble vitamin classically used to treat and
 | Predicted New Indication | Microcytic Anemia |
 | TxGNN Prediction Score | 0.00% |
 | Evidence Level | L4 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 392 |
 | Recommended Decision | Hold |
 
@@ -104,10 +104,10 @@ The predicted link between folic acid and microcytic anemia is mechanistically i
 - TFDA/NPRA package insert data (warnings, contraindications, approved indication text) — currently a blocking data gap
 - Confirmed mechanism of action (MOA) data from DrugBank
 - If pursuing folic acid repurposing further, evaluate the higher-evidence candidates already identified in this pack (e.g., "folic acid deficiency anemia," evidence level L1, though this reflects the drug's known original indication rather than a novel use; or "vitamin deficiency disorder," evidence level L3) rather than microcytic anemia
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Nitric Oxide
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 503
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Nitric Oxide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L1** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -45,7 +45,7 @@ Nitric oxide (DrugBank DB00435) is already marketed in Malaysia, but its origina
 | Predicted New Indication | Pulmonary Arterial Hypertension |
 | TxGNN Prediction Score | 99.41% (rank 8214 among candidate diseases) |
 | Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 1 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -89,7 +89,7 @@ Two related PAH subtypes in this evidence pack — PAH associated with congenita
 
 ## Malaysia Market Information
 
-The evidence pack confirms the product is registered and marketed in Malaysia (`market_status: 已上市`, 1 license on file), but the license record itself contains no populated fields (license number, product name, dosage form, manufacturer, and approved indication text are all blank). No usable registration detail can be reported at this time — this should be pulled directly from the NPRA registry before the report is finalized.
+The evidence pack confirms the product is registered and marketed in Malaysia (`market_status: Marketed`, 1 license on file), but the license record itself contains no populated fields (license number, product name, dosage form, manufacturer, and approved indication text are all blank). No usable registration detail can be reported at this time — this should be pulled directly from the NPRA registry before the report is finalized.
 
 ## Safety Considerations
 
@@ -109,10 +109,10 @@ The PAH indication has strong (L1) mechanistic and clinical-trial support — in
 - Confirmation of this product's original approved indication(s), currently unrecorded
 - Route-of-administration/delivery-system compatibility assessment for the inhaled formulation
 - Secondary review of PAH-CHD (L2) and PAH-CTD (L3) as related research questions, and formal disposition (e.g., closure as noise) of the five L5 "Hold" predictions in this pack
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

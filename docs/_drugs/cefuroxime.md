@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Cefuroxime
-parent: 僅模型預測 (L5)
+parent: Medium Evidence (L3)
 nav_order: 201
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Cefuroxime
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L3** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -45,7 +45,7 @@ with **0 registered clinical trials** and **20 retrieved publications** currentl
 | Predicted New Indication | Bacterial Arthritis |
 | TxGNN Prediction Score | 99.87% |
 | Evidence Level | L3 |
-| Malaysia Market Status | 已上市 (Marketed) |
+| Malaysia Market Status | Marketed (Marketed) |
 | Number of Registrations | 39 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -78,7 +78,7 @@ Currently no related clinical trials registered
 
 ## Malaysia Market Information
 
-39 Cefuroxime registrations are recorded as marketed (已上市) in this dataset, but individual license number, product name, dosage form, and approved indication text fields were not populated in this data pull, so a per-product table cannot be presented without guessing.
+39 Cefuroxime registrations are recorded as marketed (Marketed) in this dataset, but individual license number, product name, dosage form, and approved indication text fields were not populated in this data pull, so a per-product table cannot be presented without guessing.
 
 ## Safety Considerations
 
@@ -97,10 +97,10 @@ Evidence for Cefuroxime in bacterial arthritis is L3 (case series, cohort, PK da
 - Dedicated clinical outcome data for bacterial (non-Lyme) septic arthritis specifically, ideally comparative/RCT-level
 - Clear separation of Lyme arthritis literature from general bacterial/septic arthritis literature before any clinical guardrail is finalized
 - Verified TFDA-approved indication text per license number to establish the true "original indication" baseline
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Haloperidol
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 379
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Haloperidol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L1** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -120,10 +120,10 @@ The rank-1 prediction (schizophrenia) is supported by extensive Phase 3/4 RCT an
 - Re-query NPRA for complete per-license product name, dosage form, and approved indication text
 - Clarify with regulatory/clinical staff whether schizophrenia should be treated as a "confirmation" case rather than a repurposing candidate before further investment
 - Ranks 3, 5, 6, 7, 9, 10 (L5, no trials/literature, no mechanistic plausibility) should be deprioritized as likely false positives; rank 2 (schizophreniform disorder, L3) may warrant lightweight monitoring only
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

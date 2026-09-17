@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Deferasirox
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 253
 evidence_level: L5
 indication_count: 5
@@ -10,12 +10,12 @@ indication_count: 5
 # Deferasirox
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L5** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -45,7 +45,7 @@ Deferasirox is an oral iron chelator originally used to manage chronic iron over
 | Predicted New Indication | Beta-thalassemia and related diseases |
 | TxGNN Prediction Score | 0.00% *(note: all 5 predicted indications in this evidence pack report a score of 0.0 — this looks like a data/scoring pipeline anomaly and should be verified against the raw TxGNN output before being used for ranking)* |
 | Evidence Level | L1 (≥2 completed Phase 3 trials support this disease area) |
-| Malaysia Market Status | Marketed (已上市) |
+| Malaysia Market Status | Marketed (Marketed) |
 | Number of Registrations | 14 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -94,7 +94,7 @@ Mechanistically this still makes sense: any condition producing chronic iron acc
 
 ## Malaysia Market Information
 
-NPRA records confirm **14 registered licenses** for Deferasirox with a market status of **已上市 (Marketed)**. However, this query did not return the underlying license details (authorization numbers, product names, dosage forms, or approved indication text — all fields came back empty). Full registration details should be re-verified directly against the NPRA QUEST3+ database or product label before this data is used for regulatory decision-making.
+NPRA records confirm **14 registered licenses** for Deferasirox with a market status of **Marketed (Marketed)**. However, this query did not return the underlying license details (authorization numbers, product names, dosage forms, or approved indication text — all fields came back empty). Full registration details should be re-verified directly against the NPRA QUEST3+ database or product label before this data is used for regulatory decision-making.
 
 ---
 
@@ -117,10 +117,10 @@ The predicted indication is supported by strong trial evidence (L1: two complete
 - Complete NPRA license details (authorization numbers, product names, dosage forms, approved indication text) for the 14 registered products
 - Verification of the TxGNN prediction scores, which currently show 0.0 across all candidate indications — likely a data pipeline issue rather than a true model output
 - Clarification on whether NCT02604433 (a Luspatercept trial) should remain in the Deferasirox evidence set, or be reclassified as disease-context rather than drug-specific evidence
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

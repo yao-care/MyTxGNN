@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Methylene Blue
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 479
 evidence_level: L5
 indication_count: 3
@@ -10,12 +10,12 @@ indication_count: 3
 # Methylene Blue
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+Tahap bukti: **L5** | Indikasi diramal: **3** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 3
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -143,10 +143,10 @@ Please refer to the package insert for safety information.
 - A specific pharmacological hypothesis (anti-inflammatory, antimicrobial, or mucolytic) connecting methylene blue to bronchitis before this candidate can advance past S0
 
 **Separately noted:** the methemoglobinemia candidates (Rank 2 & 3) are mechanistically well-supported and already carry "Proceed with Guardrails" / "Research Question" recommendations in this pack — these represent methylene blue's known, established pharmacology rather than novel repurposing, and should be tracked on their own evaluation path rather than folded into the bronchitis assessment.
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

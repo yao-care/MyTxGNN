@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tenecteplase
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 640
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Tenecteplase
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -87,10 +87,10 @@ Please refer to the package insert for safety information.
 - Literature/trial search specifically targeting "posterolateral myocardial infarction" as a defined treatment population, rather than general MI/thrombolysis studies
 
 **Note on other candidates in this pack:** among the 10 ranked predictions, *septal myocardial infarction* (rank 3, L4, decision stage S1, "Research Question") and *coronary stenosis* (rank 5, 1 completed Phase 2 trial + 12 PubMed hits, scoring not yet finalized) currently have materially more supporting evidence than the top-ranked candidate and may warrant separate, dedicated evaluation.
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

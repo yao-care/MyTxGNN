@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Cephalexin
-parent: 僅模型預測 (L5)
+parent: Medium Evidence (L3)
 nav_order: 203
-evidence_level: L5
+evidence_level: L3
 indication_count: 5
 ---
 
 # Cephalexin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L3** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -45,7 +45,7 @@ Cephalexin is a first-generation oral cephalosporin antibiotic long used against
 | Predicted New Indication | Streptococcal Pneumonia |
 | TxGNN Prediction Score | 0% |
 | Evidence Level | L3 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 26 |
 | Recommended Decision | Hold |
 
@@ -86,7 +86,7 @@ Currently no related clinical trials registered.
 
 ## Malaysia Market Information
 
-Detailed authorization records (product name, dosage form, manufacturer, approved indication text) were not populated in this data pull — all fields returned blank. NPRA query log confirms **26 active registrations** for Cephalexin as of the data cutoff, with overall market status "已上市" (Marketed).
+Detailed authorization records (product name, dosage form, manufacturer, approved indication text) were not populated in this data pull — all fields returned blank. NPRA query log confirms **26 active registrations** for Cephalexin as of the data cutoff, with overall market status "Marketed" (Marketed).
 
 ---
 
@@ -110,10 +110,10 @@ The TxGNN score of 0.0 provides no computational novelty signal, and the evidenc
 - DrugBank mechanism-of-action detail (DG002)
 - A trial or controlled study evaluating cephalexin itself (not comparator cephalosporins) specifically for streptococcal pneumonia
 - Reassessment of whether this and the other four predicted indications in this pack should be reclassified as label-consistent uses rather than repurposing candidates
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

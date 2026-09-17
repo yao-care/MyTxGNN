@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Temozolomide
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 639
-evidence_level: L5
+evidence_level: L1
 indication_count: 2
 ---
 
 # Temozolomide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+Tahap bukti: **L1** | Indikasi diramal: **2** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 2
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -79,7 +79,7 @@ Given this, the primary evaluation task is less about efficacy plausibility and 
 
 ## Malaysia Market Information
 
-License detail records (product name, dosage form, manufacturer, approved indication text) were not captured for any of the 5 registered temozolomide products in this evidence pack — only the aggregate count and "已上市 (Marketed)" status are on file. Detailed license extraction is required before this table can be populated.
+License detail records (product name, dosage form, manufacturer, approved indication text) were not captured for any of the 5 registered temozolomide products in this evidence pack — only the aggregate count and "Marketed (Marketed)" status are on file. Detailed license extraction is required before this table can be populated.
 
 ## Cytotoxicity
 
@@ -106,10 +106,10 @@ Efficacy evidence is strong — multiple completed Phase 3 RCTs (including the l
 - TFDA package insert (warnings, contraindications) — required to clear the Blocking data gap before safety sign-off
 - DrugBank-sourced mechanism of action and drug categories — currently unavailable, needed for formal MOA documentation
 - Original approved indication text for the 5 Malaysian license entries — needed to confirm whether astrocytic tumour use is already covered under the existing registration or requires a label update
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

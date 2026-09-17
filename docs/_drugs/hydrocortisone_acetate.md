@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hydrocortisone Acetate
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 385
 evidence_level: L5
 indication_count: 5
@@ -10,12 +10,12 @@ indication_count: 5
 # Hydrocortisone Acetate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L5** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -45,7 +45,7 @@ Hydrocortisone Acetate is a corticosteroid (glucocorticoid receptor agonist) alr
 | Predicted New Indication | Erythema Multiforme |
 | TxGNN Prediction Score | 0.00% |
 | Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 34 |
 | Recommended Decision | Hold |
 
@@ -108,10 +108,10 @@ The TxGNN prediction score for this indication is effectively zero, evidence lev
 - Verified mechanism of action data (DG002)
 - Any genuine preclinical or mechanistic evidence for corticosteroid benefit in erythema multiforme, distinct from the single contradictory adverse-event case report
 - Consider redirecting evaluation effort to the **Hemorrhoid** candidate in this same pack (rank 2, Evidence Level L1, multiple completed Phase 2 RCTs, "Proceed with Guardrails"), which represents a substantially stronger and already clinically established signal
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

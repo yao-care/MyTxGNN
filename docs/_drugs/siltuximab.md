@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Siltuximab
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 615
 evidence_level: L5
 indication_count: 8
@@ -10,12 +10,12 @@ indication_count: 8
 # Siltuximab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **8** 個
+Tahap bukti: **L5** | Indikasi diramal: **8** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 8
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -87,10 +87,10 @@ The predicted indication (extracutaneous mastocytoma) has no supporting clinical
 - Preclinical or mechanistic studies directly testing IL-6 blockade in KIT-mutant mastocytosis, if this indication is to be pursued further
 
 **Note on alternative candidates:** Among the 8 predictions in this evidence pack, rank 5 (Kaposi's sarcoma) has comparatively stronger — though still preliminary — support: an L4 evidence level with a plausible mechanistic link (HHV-8 viral IL-6 homolog activating the IL-6/gp130/STAT3 pathway) and one relevant review-level publication. If further investment in this drug's repurposing potential is warranted, Kaposi's sarcoma may be a more productive direction than extracutaneous mastocytoma.
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

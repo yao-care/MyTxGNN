@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Budesonide
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 167
-evidence_level: L5
+evidence_level: L1
 indication_count: 5
 ---
 
 # Budesonide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L1** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -114,10 +114,10 @@ The clinical trial and literature base for Budesonide in asthma is extensive and
 - Complete NPRA license-level detail (authorization numbers, product names, dosage forms, approved indication text) for the 34 registered products — current extract returned blank fields
 - Clarification of the TxGNN score field, which reads 0.00% despite being the #1-ranked candidate — likely a pipeline/export artifact rather than a true confidence value
 - If further repurposing research is desired, prioritize the intrinsic (non-allergic) asthma phenotype (rank 4, evidence level L3, "Research Question" stage) as the more genuinely exploratory candidate in this set, rather than the already-approved asthma/IBD/Crohn's disease associations
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

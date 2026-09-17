@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Desogestrel
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 260
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Desogestrel
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -43,7 +43,7 @@ Desogestrel is a progestin, most widely used worldwide as a progestin-only oral 
 | Predicted New Indication | Breast Fibrocystic Disease |
 | TxGNN Prediction Score | 99.96% |
 | Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 11 |
 | Recommended Decision | Hold |
 
@@ -83,10 +83,10 @@ The predicted pairing (Desogestrel → Breast Fibrocystic Disease) has no suppor
 - DrugBank mechanism-of-action data (data gap DG002)
 - Full Malaysia product license details (product names, dosage forms, approved indication text) for the 11 registrations
 - If pursuing repurposing research for this drug, prioritize the higher-evidence candidates in this same prediction set — acne (L2, Research Question) or amenorrhea (L3, Research Question) — over Breast Fibrocystic Disease
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

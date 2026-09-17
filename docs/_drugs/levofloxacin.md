@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Levofloxacin
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 436
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Levofloxacin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -45,7 +45,7 @@ Levofloxacin is a broad-spectrum fluoroquinolone antibiotic. The TxGNN model pre
 | Predicted New Indication | Monoclonal Gammopathy (infection prophylaxis in myeloma) |
 | TxGNN Prediction Score | 99.81% |
 | Evidence Level | L2 (1 completed Phase 2/3 RCT — TEAMM trial; the Pack's internal tag shows "L1," but per this report's determination rule, L1 requires ≥2 completed Phase 3 RCTs, so L2 is used here) |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 19 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -80,7 +80,7 @@ Currently no related clinical trials registered (no `NCT`-indexed trials were re
 
 ## Malaysia Market Information
 
-License-level detail (authorization numbers, product names, dosage forms, approved indication text) is not populated in this Evidence Pack — only the aggregate count is available: **19 registered products**, market status **已上市 (Marketed)**. Authorization numbers, brand names, and approved-indication text will need to be pulled directly from NPRA records to complete this table.
+License-level detail (authorization numbers, product names, dosage forms, approved indication text) is not populated in this Evidence Pack — only the aggregate count is available: **19 registered products**, market status **Marketed (Marketed)**. Authorization numbers, brand names, and approved-indication text will need to be pulled directly from NPRA records to complete this table.
 
 ## Safety Considerations
 
@@ -101,10 +101,10 @@ A completed Phase 3 RCT (TEAMM) plus multiple consistent cohort studies support 
 - Confirm whether local hematology guidelines already recommend fluoroquinolone prophylaxis in myeloma, and assess resistance/stewardship risk for long-term local use
 - Populate NPRA license-level detail (product names, authorization numbers, approved indication text) for the 19 registered products
 - As a secondary track, evaluate **septicemic plague** (rank 9; L2 evidence, already FDA-approved abroad under the Animal Rule) as an additional, mechanistically strong repurposing candidate
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

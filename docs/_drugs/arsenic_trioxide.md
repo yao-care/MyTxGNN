@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Arsenic Trioxide
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 87
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Arsenic Trioxide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L2** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -99,7 +99,7 @@ A particularly compelling repurposing argument lies in the demonstrated synergy 
 
 ## Malaysia Market Information
 
-The Malaysian National Pharmaceutical Regulatory Agency (NPRA) confirms **1 registered product** for Arsenic Trioxide with market status **已上市 (Marketed)**. Detailed product-level records (authorisation number, brand name, dosage form, approved indication text) were not captured in the current data export. Clinicians should verify the full registration details, including the approved indication scope, directly via the NPRA official portal (bpfk.moh.gov.my) before any clinical application.
+The Malaysian National Pharmaceutical Regulatory Agency (NPRA) confirms **1 registered product** for Arsenic Trioxide with market status **Marketed (Marketed)**. Detailed product-level records (authorisation number, brand name, dosage form, approved indication text) were not captured in the current data export. Clinicians should verify the full registration details, including the approved indication scope, directly via the NPRA official portal (bpfk.moh.gov.my) before any clinical application.
 
 ---
 
@@ -140,10 +140,10 @@ A completed randomised Phase 2 study (NCT02190695, n=92), a 2023 systematic meta
 - **Cardiac safety protocol**: Establish a mandatory baseline and serial QTc monitoring plan, including electrolyte (K⁺, Mg²⁺) correction criteria, given the known arrhythmia risk
 - **Evidence synthesis review**: Review the 2023 meta-analysis (PMID 37908176) and the 2025 RCT (PMID 40167011) in detail to determine the preferred combination partner (decitabine vs. azacitidine), optimal dosing schedule, and response criteria
 - **Subtype stratification note**: TxGNN also flagged MDS subtypes (unclassified MDS, refractory cytopenia of childhood, aregenerative anemia) in the top 10 predictions; the mechanism and evidence reviewed here are most applicable to adult MDS broadly — paediatric and rare subtype applications require separate dedicated review
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

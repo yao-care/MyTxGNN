@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Atenolol
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 97
-evidence_level: L5
+evidence_level: L1
 indication_count: 5
 ---
 
 # Atenolol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L1** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -47,7 +47,7 @@ This is an exceptionally well-evidenced drug-indication pair at Evidence Level *
 | Predicted New Indication | Hypertension |
 | TxGNN Prediction Score | N/A (score data pending in current dataset) |
 | Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 30 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -99,7 +99,7 @@ Landmark cardiovascular outcome trials have firmly established atenolol's antihy
 
 ## Malaysia Market Information
 
-The NPRA registry query confirmed **30 registered products** for Atenolol in Malaysia with market status **Marketed (已上市)**. However, detailed product-level information — including license numbers, product names, dosage forms, and approved indication text — was not returned in the current dataset.
+The NPRA registry query confirmed **30 registered products** for Atenolol in Malaysia with market status **Marketed (Marketed)**. However, detailed product-level information — including license numbers, product names, dosage forms, and approved indication text — was not returned in the current dataset.
 
 Please consult the official NPRA registry at [https://www.npra.gov.my](https://www.npra.gov.my) for complete registration details of individual atenolol-containing products.
 
@@ -127,10 +127,10 @@ Multiple completed Phase 3/4 RCTs with large sample sizes — including INVEST (
 - **NPRA registration details:** Retrieve license numbers, approved indication text, and dosage forms for all 30 registered products from the NPRA registry
 - **Metabolic risk assessment:** Given existing literature evidence of atenolol's impact on glucose/insulin sensitivity and lipid profile (PMID 9140673, PMID 00607347), include a metabolic monitoring protocol for high-risk patient populations (diabetic, obese, metabolic syndrome)
 - **Comparator positioning:** Given the ASCOT and LIFE trial data showing atenolol's inferiority to newer agents (amlodipine, ARBs) in certain endpoints, clarify the clinical positioning of atenolol within current Malaysian hypertension treatment guidelines (e.g., as a first-line option or in specific subgroups)
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

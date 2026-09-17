@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Pimecrolimus
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 546
-evidence_level: L5
+evidence_level: L2
 indication_count: 4
 ---
 
 # Pimecrolimus
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **4** 個
+Tahap bukti: **L2** | Indikasi diramal: **4** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 4
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -47,7 +47,7 @@ with **1 clinical trial** and **18 publications** currently supporting this dire
 | Predicted New Indication | Seborrheic Dermatitis |
 | TxGNN Prediction Score | 99.73% |
 | Evidence Level | L2 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 1 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -92,7 +92,7 @@ Importantly, the off-label use of pimecrolimus 1% cream for seborrheic dermatiti
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------------------|-------------|-------------|---------------------|
-| — | Pimecrolimus (1 registered product) | Topical Cream (1% cream, Elidel class) | Detailed indication text not recorded in current regulatory dataset; registration confirmed active (已上市) |
+| — | Pimecrolimus (1 registered product) | Topical Cream (1% cream, Elidel class) | Detailed indication text not recorded in current regulatory dataset; registration confirmed active (Marketed) |
 
 > **Note:** The Malaysia NPRA query confirmed 1 active registration for pimecrolimus. Detailed product name, license number, and approved indication text require verification directly from the NPRA product database or the registered package insert.
 
@@ -126,10 +126,10 @@ The use of pimecrolimus for seborrheic dermatitis is mechanistically well-ground
 - **Dosage form verification:** Confirm that the currently registered product in Malaysia is pimecrolimus 1% cream (the formulation studied in all relevant trials), and that topical application route is covered.
 - **Pharmaco-economic assessment:** Evaluate cost-competitiveness vs. ketoconazole and low-potency topical corticosteroids, which are the current standard of care in Malaysia for seborrheic dermatitis.
 - **Regulatory pathway review:** Determine whether a label extension application to NPRA is required or whether the current broad dermatitis indication encompasses seborrheic dermatitis.
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

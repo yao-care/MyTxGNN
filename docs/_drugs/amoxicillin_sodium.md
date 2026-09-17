@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Amoxicillin Sodium
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 64
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Amoxicillin Sodium
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Tahap bukti: **L5** | Indikasi diramal: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -113,10 +113,10 @@ No TxGNN repurposing predictions were generated and two critical data gaps — a
 - **[License data repopulation]** Investigate why the 5 NPRA-registered product records returned with all empty fields; inspect the raw API response and fix the field-mapping logic in the data processing pipeline
 - **[Re-run TxGNN pipeline]** Once DrugBank ID is confirmed and indication text is available, re-execute `run_kg_prediction.py` and `txgnn_model.py` to generate repurposing candidates
 - **[Evidence collection]** After predictions are generated, run ClinicalTrials.gov and PubMed collectors against the top-ranked predicted indication to build an evidence table and assign a formal evidence level (L1–L5)
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

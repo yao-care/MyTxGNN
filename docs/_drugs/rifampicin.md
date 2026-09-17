@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Rifampicin
-parent: 僅模型預測 (L5)
+parent: Medium Evidence (L3)
 nav_order: 591
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Rifampicin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L3** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -45,7 +45,7 @@ Rifampicin is a rifamycin-class antibiotic historically used to treat tuberculos
 | Predicted New Indication | Conjunctivitis |
 | TxGNN Prediction Score | 99.95% |
 | Evidence Level | L3 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 8 |
 | Recommended Decision | Hold |
 
@@ -108,10 +108,10 @@ Please refer to the package insert for safety information.
 - Confirmed mechanism of action data from DrugBank
 - Modern clinical evidence (trial or systematic review) specifically evaluating rifampicin for bacterial conjunctivitis, beyond historical trachoma and meningococcal case reports
 - Complete Malaysia licence-level registration details (product names, dosage forms, approved indication text)
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

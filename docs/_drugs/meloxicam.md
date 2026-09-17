@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Meloxicam
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 470
-evidence_level: L5
+evidence_level: L1
 indication_count: 5
 ---
 
 # Meloxicam
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L1** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -99,7 +99,7 @@ Currently, detailed formal mechanism-of-action documentation (DrugBank MOA field
 
 ## Malaysia Market Information
 
-The evidence pack confirms meloxicam holds **24 active registrations** with market status "已上市" (Marketed) in Malaysia, but none of the individual license records (license number, product name, dosage form, manufacturer, approved indication text) contain usable data — all fields returned empty from the source query. Registration-level detail cannot be reported until this is re-queried against the NPRA source.
+The evidence pack confirms meloxicam holds **24 active registrations** with market status "Marketed" (Marketed) in Malaysia, but none of the individual license records (license number, product name, dosage form, manufacturer, approved indication text) contain usable data — all fields returned empty from the source query. Registration-level detail cannot be reported until this is re-queried against the NPRA source.
 
 ---
 
@@ -124,10 +124,10 @@ Efficacy evidence for meloxicam in osteoarthritis is extensive (L1, multiple com
 - Re-query NPRA license records — current 24 registrations have no populated product/indication detail
 - Re-verify the TxGNN score of 0.0 for this candidate; treat as a possible pipeline/export defect rather than a true prediction value
 - Given this candidate largely reconfirms an existing indication, consider whether pipeline resources are better directed at genuinely novel candidates for this drug (the current rank 3 and 5 candidates were correctly screened out at L5/Hold)
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

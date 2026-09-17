@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Epinephrine
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 317
-evidence_level: L5
+evidence_level: L2
 indication_count: 4
 ---
 
 # Epinephrine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **4** 個
+Tahap bukti: **L2** | Indikasi diramal: **4** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 4
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -133,10 +133,10 @@ This evidence pack (`TW-DB00668-multi`) contains three additional TxGNN-predicte
 | Food-dependent exercise-induced anaphylaxis | 99.57% | L3 | Proceed with Guardrails | Extension of epinephrine's existing anaphylaxis indication to a specific trigger subtype (physical exertion + food); 20 supporting publications but no dedicated clinical trials |
 | Rienhoff syndrome | 99.57% | L5 | Hold | No clinical trials or literature identified; a rare TGFBR2-related connective tissue disorder with no known mechanistic link to adrenergic agonism — likely a knowledge-graph false positive |
 | Respiratory malformation | 99.56% | L4 | Hold | Evidence mismatch: retrieved literature concerns croup/upper-airway obstruction, not structural malformation, and most trials are irrelevant noise; requires manual disease-label review before further scoring |
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

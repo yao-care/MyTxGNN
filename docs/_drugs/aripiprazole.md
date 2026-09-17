@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Aripiprazole
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 85
 evidence_level: L5
 indication_count: 5
@@ -10,12 +10,12 @@ indication_count: 5
 # Aripiprazole
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L5** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -133,10 +133,10 @@ The evidence pack also identifies schizophrenia (Rank 3, L1) and bipolar disorde
 - **Pediatric risk management plan**: Develop monitoring protocols covering: body weight and BMI (at baseline, 4 weeks, 8 weeks, then quarterly), fasting glucose and lipid panel, extrapyramidal symptom assessment (e.g., AIMS scale), and sedation monitoring — all critical for the pediatric target population
 - **Dose confirmation**: Confirm the pediatric dose range registered or to be registered in Malaysia (globally approved range: 2–15 mg/day for ASD irritability)
 - **Asia-Pacific comparator review**: Cross-reference with Japanese and Taiwanese regulatory approvals for ASD irritability to support any Malaysia indication extension application
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

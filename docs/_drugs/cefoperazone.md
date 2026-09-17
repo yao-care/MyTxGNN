@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Cefoperazone
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 198
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Cefoperazone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L1** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -45,7 +45,7 @@ indication_count: 10
 | Predicted New Indication | Pneumonia (hospital-acquired / ventilator-associated / community-acquired) |
 | TxGNN Prediction Score | 99.93% (internal rank #1438) |
 | Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 8 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -112,10 +112,10 @@ Cefoperazone(-sulbactam)'s use in hospital-acquired and ventilator-associated pn
 - Full Taiwan license particulars (product names, dosage forms, indication text) for the 8 registered products
 - Confirmation of whether pneumonia already falls within Cefoperazone's existing approved label in Taiwan (if so, this is label-confirmation rather than a new indication)
 - Secondary review of bronchitis (L2, also "Proceed with Guardrails") as a related, evidence-supported candidate
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

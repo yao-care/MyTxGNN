@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rufinamide
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 606
 evidence_level: L5
 indication_count: 5
@@ -10,12 +10,12 @@ indication_count: 5
 # Rufinamide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L5** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -82,10 +82,10 @@ The prediction score is high, but the evidence level is L5 — supported only by
 - Retrieve the NPRA product label (indication text, warnings, contraindications) to resolve the blocking data gap and enable an S1 safety assessment
 - Obtain confirmed original MOA and indication documentation from DrugBank
 - Monitor for emerging case reports, preclinical studies, or off-label use data specifically evaluating sodium-channel antiepileptics (including rufinamide) in FIRES before advancing this candidate beyond the research-hypothesis stage
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

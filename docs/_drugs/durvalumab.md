@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Durvalumab
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 302
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Durvalumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L4** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -124,10 +124,10 @@ Please refer to the package insert for safety information.
 - Resolve DG002: obtain a verified DrugBank mechanism-of-action record
 - Complete the Malaysia license record (license number, product name, dosage form, approved indication text)
 - Consider prioritizing research on other candidates in this same pack with stronger existing evidence — e.g., **endocervical carcinoma** (rank 6, evidence level L2, 2 trials including a completed Phase 1), **kidney pelvis sarcomatoid transitional cell carcinoma** (rank 2, L3), and **infiltrating bladder urothelial carcinoma sarcomatoid variant** (rank 3, L3) — as these have actual clinical trial support, unlike the headline prediction above
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tropicamide
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 672
 evidence_level: L5
 indication_count: 3
@@ -10,12 +10,12 @@ indication_count: 3
 # Tropicamide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+Tahap bukti: **L5** | Indikasi diramal: **3** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 3
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -85,10 +85,10 @@ This candidate has no clinical trial or literature support (Evidence Level L5), 
 - Confirmed mechanism of action from DrugBank (high-priority gap)
 - Independent mechanistic or preclinical rationale specifically linking tropicamide to cauda equina syndrome, given the current rationale argues against biological plausibility
 - If pursuing alternative candidates instead, note that neurogenic bladder and irritable bowel syndrome (ranks 2–3) also currently lack trial/literature evidence and remain at Hold
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Probenecid
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 573
 evidence_level: L5
 indication_count: 3
@@ -10,12 +10,12 @@ indication_count: 3
 # Probenecid
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+Tahap bukti: **L5** | Indikasi diramal: **3** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 3
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -111,10 +111,10 @@ A Blocking data gap on label warnings/contraindications (DG001) prevents any saf
 - Malaysia registration detail (license number, product name, approved indication text) for the single existing registration
 - A targeted literature/clinical review to determine whether any therapeutic (vs. diagnostic) rationale for probenecid in renal hypouricemia exists, given the mechanistic contradiction noted above
 - Reassessment of the two lower-ranked candidates (Lesch-Nyhan syndrome, rank 2; HGPRT partial deficiency, rank 3) — both are purine-metabolism disorders with sparse or no evidence, and likely reflect the same diagnostic-probe association rather than independent treatment signals
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

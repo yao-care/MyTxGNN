@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Lorazepam
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 456
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Lorazepam
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L2** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -49,7 +49,7 @@ The mechanistic link is direct — lorazepam's GABAergic enhancement produces se
 | Predicted New Indication | Insomnia (disease) |
 | TxGNN Prediction Score | 99.80% |
 | Evidence Level | L2 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 5 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -139,10 +139,10 @@ Lorazepam's GABA-A receptor mechanism directly and plausibly supports its effica
 - **CBT-I co-prescription framework**: Design a combination treatment pathway integrating cognitive-behavioural therapy for insomnia as the first-line non-pharmacological backbone, with lorazepam positioned as a short-term adjunct
 - **Special population risk stratification**: Conduct a focused assessment of dose adjustments required for elderly patients (fall risk, cognitive impairment, extended half-life) and patients with respiratory compromise or hepatic impairment
 - **Contemporary Phase 3 evidence gap**: Given the withdrawn NCT03338764 and absence of a completed modern Phase 3 insomnia-specific trial with lorazepam as monotherapy, consider whether a bridging pharmacokinetic or efficacy study is warranted before pursuing any new indication filing
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

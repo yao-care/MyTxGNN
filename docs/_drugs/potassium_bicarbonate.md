@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Potassium Bicarbonate
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 564
 evidence_level: L5
 indication_count: 1
@@ -10,12 +10,12 @@ indication_count: 1
 # Potassium Bicarbonate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+Tahap bukti: **L5** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -44,7 +44,7 @@ The TxGNN model predicts it may be effective for **Gastroduodenitis**, but curre
 | Predicted New Indication | Gastroduodenitis |
 | TxGNN Prediction Score | 99.72% |
 | Evidence Level | L5 (model prediction only — no clinical trials, no literature) |
-| Taiwan Market Status | ✓ Marketed (已上市) |
+| Taiwan Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 4 |
 | Recommended Decision | Hold |
 
@@ -84,10 +84,10 @@ The prediction is supported only by a TxGNN score with no corroborating clinical
 - Confirmed mechanism of action from DrugBank — High-priority gap (DG002)
 - Complete Taiwan license details (product names, dosage forms, approved indication text)
 - Independent preclinical or mechanistic evidence linking potassium bicarbonate to gastroduodenitis before advancing beyond model prediction
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lincomycin Hydrochloride
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 444
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Lincomycin Hydrochloride
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Tahap bukti: **L5** | Indikasi diramal: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -99,10 +99,10 @@ The evidence pack for Lincomycin Hydrochloride is structurally incomplete — no
 - **[Blocking]** Download and parse the NPRA/TFDA package insert PDF to extract key warnings and contraindications — required before any safety screening step (currently marked as a Severity: Blocking data gap).
 - **[High]** Populate the mechanism of action (MOA) field by querying the DrugBank API once the DrugBank ID is confirmed — Lincomycin inhibits bacterial protein synthesis by binding to the 50S ribosomal subunit, but this must be sourced from structured data rather than background knowledge.
 - **[Pipeline]** After the above gaps are resolved, re-run the full TxGNN prediction pipeline (KG + DL + mapping steps) and regenerate the evidence pack to obtain `predicted_indications` before initiating a full repurposing evaluation.
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

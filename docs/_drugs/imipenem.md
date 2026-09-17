@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Imipenem
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 393
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Imipenem
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -101,10 +101,10 @@ The top-ranked prediction (diffuse scleroderma) has no plausible mechanistic rat
 - Mechanism of action data (DG002) to properly assess biological plausibility for any predicted indication
 - If pursuing repurposing analysis further, prioritize better-supported candidates from the same prediction set (e.g., typhoid fever, staphylococcus aureus infection) rather than diffuse scleroderma
 - Complete Malaysia license detail (product names, dosage forms, approved indication text) currently missing from registry records
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

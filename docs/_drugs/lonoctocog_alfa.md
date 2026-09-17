@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lonoctocog Alfa
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 451
 evidence_level: L5
 indication_count: 4
@@ -10,12 +10,12 @@ indication_count: 4
 # Lonoctocog Alfa
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **4** 個
+Tahap bukti: **L5** | Indikasi diramal: **4** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 4
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -114,10 +114,10 @@ All four predicted indications are at Evidence Level L5 (model prediction only, 
 - **Mechanistic feasibility assessment**: Consult with haematology specialists to evaluate whether secondary FVIII reduction in pseudo-vWD is clinically significant enough to warrant factor replacement as an adjunct
 - **Preclinical model identification**: Explore whether murine or in vitro models of pseudo-vWD or Scott syndrome with FVIII supplementation have been attempted in any unpublished data or conference abstracts
 - **Prioritisation**: If evidence is identified, Scott syndrome — with its most mechanistically direct (albeit still speculative) rationale — should be evaluated first as the lead candidate for a formal research question proposal
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

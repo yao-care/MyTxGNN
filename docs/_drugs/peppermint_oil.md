@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Peppermint Oil
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 537
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Peppermint Oil
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -100,10 +100,10 @@ The leprosy prediction has no clinical trial or literature support, and the mech
 - Completed NPRA license/product details (name, dosage form, manufacturer, approved indication text)
 - Independent mechanistic or preclinical evidence linking peppermint oil to *M. leprae* or leprosy pathophysiology before this candidate is reconsidered
 - If cardiovascular disease is of interest instead, that candidate (rank 9, L3, "Research Question") already has trial and literature support worth a separate evaluation
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

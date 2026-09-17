@@ -9,6 +9,8 @@ evidence_level: "L5"
 indication_count: 0
 brands: []
 permalink: /drugs/udenafil/
+nav_exclude: true
+search_exclude: true
 ---
 
 # Udenafil

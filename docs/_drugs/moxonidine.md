@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Moxonidine
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 492
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Moxonidine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -65,7 +65,7 @@ Currently no related literature available.
 
 ## Malaysia Market Information
 
-Moxonidine has 3 active registrations in the Malaysia (NPRA) database (market status: 已上市 / Marketed). License number, product name, dosage form, and approved-indication text were not returned for any of the 3 records in this data set.
+Moxonidine has 3 active registrations in the Malaysia (NPRA) database (market status: Marketed / Marketed). License number, product name, dosage form, and approved-indication text were not returned for any of the 3 records in this data set.
 
 ## Safety Considerations
 
@@ -82,10 +82,10 @@ The top-ranked TxGNN prediction (hypotrichosis simplex of the scalp) has no clin
 - TFDA/NPRA package insert warnings and contraindications (currently a Blocking data gap — required before any S1 safety screening)
 - Confirmed mechanism of action (MOA) from DrugBank or equivalent source
 - If pursuing this program, consider redirecting evaluation toward the mechanistically plausible candidates in this same pack — malignant renovascular hypertension and malignant hypertensive renal disease (rank 5–6, L4/"Research Question") — which still require dedicated clinical or preclinical evidence but have a coherent pharmacological rationale
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Indacaterol
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 396
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Indacaterol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -83,10 +83,10 @@ There is no clinical or literature evidence for indacaterol in NSIAD, and no pla
 - TFDA/NPRA approved-indication text and full license detail for the 6 Malaysia registrations
 - Preclinical/in vitro pharmacology evidence exploring any indirect link between β2-adrenergic signaling and AVP/V2 receptor regulation
 - Package insert safety data (key warnings, contraindications, DDI), currently unavailable
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

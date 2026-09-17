@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sotatercept
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 625
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Sotatercept
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -65,7 +65,7 @@ Currently no related literature available.
 
 ## Malaysia Market Information
 
-Sotatercept is recorded as marketed in Malaysia with **2 active registrations** (NPRA, market status: 已上市). Per-license details (authorization number, product name, dosage form, approved indication text) were not returned in this data extract, so no license-level table can be presented at this time.
+Sotatercept is recorded as marketed in Malaysia with **2 active registrations** (NPRA, market status: Marketed). Per-license details (authorization number, product name, dosage form, approved indication text) were not returned in this data extract, so no license-level table can be presented at this time.
 
 ## Safety Considerations
 
@@ -85,10 +85,10 @@ The ALL prediction rests solely on a TxGNN topological score (L5) with zero supp
 - Complete license-level detail (product names, dosage forms, approved indication text) for the 2 Malaysia registrations
 
 Note: all 10 TxGNN-predicted indications for this drug (including ALL) are currently rated L5/Hold — none has clinical or literature support in this evidence pack.
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

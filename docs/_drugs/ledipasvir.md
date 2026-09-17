@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Ledipasvir
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 428
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Ledipasvir
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L2** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -47,7 +47,7 @@ with **21 clinical trials** and **20 publications** currently retrieved for this
 | Predicted New Indication | Hepatitis B Virus Infection |
 | TxGNN Prediction Score | 99.91% |
 | Evidence Level | L2 |
-| Malaysia Market Status | ✓ 已上市 (Marketed) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 1 |
 | Recommended Decision | Hold |
 
@@ -99,7 +99,7 @@ However, the mechanistic case is weak on closer inspection. Ledipasvir's target 
 
 ## Malaysia Market Information
 
-Malaysia NPRA records show **1 active registration** for ledipasvir with market status "已上市" (Marketed). However, the specific license number, product name, dosage form, manufacturer, and approved indication text were not available in this evidence pack and require direct lookup from the NPRA product registry.
+Malaysia NPRA records show **1 active registration** for ledipasvir with market status "Marketed" (Marketed). However, the specific license number, product name, dosage form, manufacturer, and approved indication text were not available in this evidence pack and require direct lookup from the NPRA product registry.
 
 ---
 
@@ -122,10 +122,10 @@ The mechanistic basis for ledipasvir's activity against HBV is weak — its targ
 - A larger, controlled trial specifically targeting HBV monoinfection to confirm or refute the modest HBsAg reduction signal seen in NCT03312023
 - Malaysia-specific license and approved-indication details from the NPRA registry
 - Clarification of whether NCT03261349's target population is true HBV monoinfection or hepatitis delta virus (HDV), which would materially change the interpretation of that trial
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

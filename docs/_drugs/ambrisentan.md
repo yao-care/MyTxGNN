@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Ambrisentan
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 50
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Ambrisentan
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L4** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -127,10 +127,10 @@ The TxGNN prediction score for PAVM (99.41%) most likely reflects knowledge grap
 **Key observation for HIV-PAH (Rank 4):** A completed Phase 3, multicentre, double-blind, placebo-controlled crossover RCT (NCT00709956) enrolled 64 HIV-PAH patients. While this trial evaluated iloprost as the primary intervention, it represents the highest-quality trial evidence available for this patient population and validates the feasibility of controlled studies in HIV-PAH. ERA-specific data (including Ambrisentan background therapy) are available within this dataset.
 
 > ⚠️ **Disclaimer:** All findings are for research reference only and do not constitute medical advice. Drug repurposing candidates require clinical validation before any therapeutic application. All clinical use should refer to the NPRA-approved prescribing information and applicable Malaysia regulatory requirements.
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

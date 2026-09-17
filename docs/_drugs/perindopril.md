@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Perindopril
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 539
-evidence_level: L5
+evidence_level: L4
 indication_count: 5
 ---
 
 # Perindopril
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L4** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -77,7 +77,7 @@ Currently no related clinical trials registered.
 
 ## Malaysia Market Information
 
-Perindopril holds 39 active registrations in Malaysia under "已上市" (Marketed) status, but this evidence pack does not contain license-level detail (authorization numbers, product names, dosage forms, or approved indication text) — all license fields were returned empty by the NPRA query, so no table can be produced.
+Perindopril holds 39 active registrations in Malaysia under "Marketed" (Marketed) status, but this evidence pack does not contain license-level detail (authorization numbers, product names, dosage forms, or approved indication text) — all license fields were returned empty by the NPRA query, so no table can be produced.
 
 ---
 
@@ -99,10 +99,10 @@ A blocking data gap (DG001) means TFDA/NPRA package-insert warnings and contrain
 - DrugBank MOA detail to confirm the mechanistic linkage — resolve DG002
 - Literature or case reports specifically evaluating ACE inhibitors (ideally perindopril) in malignant hypertensive renal disease
 - A defined renal-function monitoring plan (serum creatinine, eGFR) given the known risk of ACE-inhibitor-induced GFR decline in this population
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

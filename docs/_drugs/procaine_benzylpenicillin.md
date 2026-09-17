@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Procaine Benzylpenicillin
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 574
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Procaine Benzylpenicillin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -83,10 +83,10 @@ The "infectious otitis media" indication has no clinical trial or literature sup
 - Complete NPRA license details (license number, product name, dosage form, approved indication text) for the 3 existing registrations
 
 **Note:** This evidence pack contains 10 TxGNN-predicted indications for this drug. Among them, **bacterial arthritis** (rank 2, score 99.89%) has substantially stronger support — evidence level L2, decision stage S2, recommendation "Proceed with Guardrails" — backed by historical clinical literature on procaine penicillin in gonococcal arthritis (including a 1976 comparative dosing trial, PMID 824468). If a repurposing candidate is needed from this drug, bacterial arthritis is likely a better-evidenced starting point than infectious otitis media.
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

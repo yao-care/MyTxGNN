@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Selumetinib
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 610
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Selumetinib
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -94,10 +94,10 @@ The top-ranked predicted indication (Familial Generalized Lentiginosis) has no c
 - Confirmation of the drug's originally approved indication from local registration records (currently blank in both license entries)
 
 **Note:** Within this same evidence pack, *peripheral nerve schwannoma* (rank 9) has substantially stronger evidence — a completed Phase 2 trial and 7 supporting publications (evidence level L2, decision stage S2, "Research Question") — and may warrant separate, prioritized evaluation ahead of the top-ranked candidate above.
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

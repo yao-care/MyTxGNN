@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Diclofenac Sodium
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 277
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Diclofenac Sodium
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Tahap bukti: **L5** | Indikasi diramal: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -121,10 +121,10 @@ The evidence pack is substantially incomplete — no TxGNN prediction has been g
 4. **Obtain package insert data** — Download and parse the package insert PDF to extract warnings, contraindications, and DDI information (DG001 — Blocking)
 5. **Query DrugBank for MOA** — Once DrugBank ID is confirmed, retrieve mechanism of action, pharmacodynamics, and toxicity data (DG002)
 6. **Re-generate evidence pack** — After resolving the above gaps, regenerate the evidence pack and re-run this evaluation
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

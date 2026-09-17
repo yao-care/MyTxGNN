@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fulvestrant
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 360
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Fulvestrant
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -69,7 +69,7 @@ Currently no related clinical trials registered.
 
 ## Malaysia Market Information
 
-The evidence pack confirms fulvestrant is marketed in Malaysia (market status: 已上市) with **8** active NPRA registrations. However, the returned license records contain no license numbers, product names, dosage forms, or indication text, so a per-license table cannot be produced from this data.
+The evidence pack confirms fulvestrant is marketed in Malaysia (market status: Marketed) with **8** active NPRA registrations. However, the returned license records contain no license numbers, product names, dosage forms, or indication text, so a per-license table cannot be produced from this data.
 
 ## Safety Considerations
 
@@ -87,10 +87,10 @@ The HIV indication is supported only by TxGNN's model score (L5, decision stage 
 - Detailed mechanism of action (MOA) data (currently High-severity data gap DG002)
 - Dedicated preclinical or mechanistic studies specifically testing fulvestrant against HIV/retroviral targets, since existing literature does not address this indication
 - Confirmed original indication text and full license details from NPRA (current records are blank)
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Alectinib Hydrochloride
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 37
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Alectinib Hydrochloride
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Tahap bukti: **L5** | Indikasi diramal: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -47,7 +47,7 @@ A full drug repurposing evaluation **cannot be completed** until these data gaps
 | Predicted New Indication | No predictions generated |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | N/A |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 1 |
 | Recommended Decision | **Hold** |
 
@@ -85,7 +85,7 @@ Please refer to the package insert for safety information.
 
 ## Malaysia Market Information
 
-The Evidence Pack confirms **1 active registration** with market status **✓ Marketed (已上市)**. However, all licence record fields (licence number, product name, dosage form, manufacturer, and approved indication text) were returned as empty strings and could not be populated in this report.
+The Evidence Pack confirms **1 active registration** with market status **✓ Marketed (Marketed)**. However, all licence record fields (licence number, product name, dosage form, manufacturer, and approved indication text) were returned as empty strings and could not be populated in this report.
 
 > **Action required:** Query the NPRA Product Registration database directly at [https://www.npra.gov.my](https://www.npra.gov.my) using the search term "ALECTINIB" to retrieve the full registration record and approved indication text.
 
@@ -105,10 +105,10 @@ The prediction pipeline did not generate any TxGNN repurposing candidates for al
 - **[Critical]** Re-run the full TxGNN prediction pipeline after DrugBank mapping is restored; expected repurposing candidates include ALK-driven tumours beyond NSCLC
 - **[High]** Populate the licence record fields (product name, dosage form, approved indication) from NPRA to complete the regulatory section
 - **[High]** Once predictions are available, collect clinical trial (ClinicalTrials.gov / ICTRP) and PubMed literature evidence for the top-ranked predicted indication before re-generating this report
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

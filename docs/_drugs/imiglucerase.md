@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Imiglucerase
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 392
-evidence_level: L5
+evidence_level: L4
 indication_count: 5
 ---
 
 # Imiglucerase
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L4** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -43,7 +43,7 @@ Imiglucerase is a recombinant glucocerebrosidase enzyme-replacement therapy, his
 | Predicted New Indication | Hurler syndrome (MPS I) |
 | TxGNN Prediction Score | 99.52% |
 | Evidence Level | L4 |
-| Malaysia Market Status | ✓ 已上市 (Marketed) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 1 |
 | Recommended Decision | Hold |
 
@@ -90,10 +90,10 @@ The evidence pack's own mechanistic analysis identifies the top candidate (Hurle
 - Confirmed mechanism of action data from DrugBank (DG002)
 - Expert pharmacology review to determine whether the TxGNN LSD-category clustering reflects a genuine signal or a modeling artifact
 - If pursued, preclinical rationale specific to alpha-L-iduronidase pathway crossover before any clinical evidence generation
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

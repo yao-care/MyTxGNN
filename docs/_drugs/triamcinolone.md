@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Triamcinolone
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 667
-evidence_level: L5
+evidence_level: L4
 indication_count: 5
 ---
 
 # Triamcinolone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L4** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -124,10 +124,10 @@ Please refer to the package insert for safety information. (Key warnings, contra
 - Run an indication-specific clinical evidence search for corticosteroid use in erythema multiforme management, since current trial results are not indication-specific
 - Reconcile and clarify the adverse-reaction signal (triamcinolone as a trigger of EM-like reactions) against the proposed therapeutic use
 - Verify the TxGNN score anomaly (0.00% reported for the rank-1 candidate)
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

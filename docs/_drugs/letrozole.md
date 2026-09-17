@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Letrozole
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 433
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Letrozole
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L1** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -97,7 +97,7 @@ It is worth noting that this evidence pack contains several closely related dise
 
 ## Malaysia Market Information
 
-NPRA records confirm letrozole is marketed in Malaysia with **7 registered licenses** (`market_status: 已上市 / Marketed`). However, individual license numbers, product names, dosage forms, manufacturers, and approved-indication texts were not returned in this data pull — this is a flagged Blocking-severity data gap (DG001) that also prevents a full safety pre-assessment. These details should be sourced directly from NPRA registration records before proceeding further.
+NPRA records confirm letrozole is marketed in Malaysia with **7 registered licenses** (`market_status: Marketed / Marketed`). However, individual license numbers, product names, dosage forms, manufacturers, and approved-indication texts were not returned in this data pull — this is a flagged Blocking-severity data gap (DG001) that also prevents a full safety pre-assessment. These details should be sourced directly from NPRA registration records before proceeding further.
 
 ---
 
@@ -131,10 +131,10 @@ The evidence base for letrozole in breast cancer is very strong (L1, multiple co
 - Obtain structured DrugBank MOA data to complete the mechanistic-relevance analysis (DG002)
 - Confirm the specific approved-indication text for each of the 7 Malaysia licenses to determine whether "female breast carcinoma" is already covered under the existing label, versus representing a genuinely incremental indication
 - Clarify whether the other KG-predicted nodes in this multi-indication candidate (e.g., ER-negative breast cancer, Ehrlich tumor) should be excluded as likely graph-node noise before any downstream regulatory use of this prediction set
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

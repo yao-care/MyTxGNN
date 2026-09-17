@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Aspartic Acid
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 94
-evidence_level: L5
+evidence_level: L4
 indication_count: 1
 ---
 
 # Aspartic Acid
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+Tahap bukti: **L4** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -124,10 +124,10 @@ The evidence base for aspartic acid in renal tubular acidosis does not yet suppo
 - **Retrieve package insert safety data** — download and parse NPRA/TFDA official product inserts to address the Blocking DG001 data gap (key warnings and contraindications)
 - **Conduct a targeted literature review** — specifically on ornithine-aspartate in renal acid-base disorders and on aspartate supplementation in metabolic acidosis subtypes, to determine whether any clinical signals exist beyond the 1983 case report
 - **Expert consultation** — engage a nephrologist to assess whether any RTA subtype (particularly secondary or metabolic RTA) could plausibly benefit from aspartate supplementation and, if so, whether a preclinical proof-of-concept study is warranted before any clinical investment is considered
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

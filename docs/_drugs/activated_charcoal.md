@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Activated Charcoal
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 24
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Activated Charcoal
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Tahap bukti: **L5** | Indikasi diramal: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -103,10 +103,10 @@ There are no TxGNN-predicted indications to evaluate, and two critical data gaps
 - **Re-run TxGNN prediction pipeline**: After confirming that activated charcoal maps correctly to a knowledge graph node, re-execute `run_kg_prediction.py` to generate scored repurposing candidates.
 - **Verify NPRA licence details**: Retrieve the three product registration records in full (product name, dosage form, approved indication text) from the NPRA database.
 - **Confirm KG node eligibility**: Determine whether activated charcoal is represented as a tractable node in the TxGNN knowledge graph (`data/node.csv`); if absent, assess whether a surrogate compound or a mechanism-level placeholder can be used.
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

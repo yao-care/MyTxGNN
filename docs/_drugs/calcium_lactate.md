@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Calcium Lactate
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 182
 evidence_level: L5
 indication_count: 2
@@ -10,12 +10,12 @@ indication_count: 2
 # Calcium Lactate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+Tahap bukti: **L5** | Indikasi diramal: **2** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 2
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -115,10 +115,10 @@ The predicted indication (calcium-alkali syndrome) is clinically implausible as 
 - Complete relevance triage on the 13 retrieved clinical trials to formally confirm none support this indication
 - Clarify with the TxGNN/KG team whether the "calcium-alkali syndrome" edge represents an adverse-event association rather than a therapeutic one, and consider filtering such edges in future prediction runs
 - If a genuine therapeutic rationale for this or the secondary candidate (primary bone dysplasia with defective bone mineralization, score 99.71%, currently no supporting trials or literature) emerges, re-evaluate with updated evidence
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

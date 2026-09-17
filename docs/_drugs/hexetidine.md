@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hexetidine
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 381
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Hexetidine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -67,7 +67,7 @@ Currently no related literature available.
 
 ## Malaysia Market Information
 
-NPRA records confirm 1 active registration for hexetidine (market status: 已上市 / Marketed), but the license number, product name, dosage form, and approved indication text fields are not populated in the current data source and require retrieval from the NPRA product registry.
+NPRA records confirm 1 active registration for hexetidine (market status: Marketed / Marketed), but the license number, product name, dosage form, and approved indication text fields are not populated in the current data source and require retrieval from the NPRA product registry.
 
 ## Safety Considerations
 
@@ -85,10 +85,10 @@ The top-ranked prediction (interventricular septum aneurysm) has no clinical tri
 - Retrieve hexetidine's MOA from DrugBank (DG002)
 - Complete the NPRA license record (license number, product name, dosage form, approved indication text)
 - Re-evaluate lower-ranked candidates with actual clinical/literature support (e.g., rank 6) for label-mapping accuracy before considering any indication in this list further
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

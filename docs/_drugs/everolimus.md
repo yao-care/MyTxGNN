@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Everolimus
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 333
-evidence_level: L5
+evidence_level: L2
 indication_count: 5
 ---
 
 # Everolimus
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L2** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -45,7 +45,7 @@ Everolimus is an oral mTOR-pathway inhibitor already registered and marketed in 
 | Predicted New Indication | Breast Neoplasm |
 | TxGNN Prediction Score | 0.00% (as recorded in this evidence pack — see note below) |
 | Evidence Level | L2 |
-| Malaysia Market Status | ✓ Marketed (已上市) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 8 |
 | Recommended Decision | Hold |
 
@@ -97,7 +97,7 @@ The predicted breast-neoplasm indication is not a novel hypothesis so much as a 
 
 ## Malaysia Market Information
 
-The NPRA registry shows **8 licenses** for Everolimus with market status "已上市" (Marketed), but this evidence pack does not include the per-license details (license number, product name, dosage form, or approved-indication text) — all corresponding fields were returned empty. These details need to be pulled from the NPRA source directly before a license-level table can be produced.
+The NPRA registry shows **8 licenses** for Everolimus with market status "Marketed" (Marketed), but this evidence pack does not include the per-license details (license number, product name, dosage form, or approved-indication text) — all corresponding fields were returned empty. These details need to be pulled from the NPRA source directly before a license-level table can be produced.
 
 ---
 
@@ -134,10 +134,10 @@ Efficacy evidence for everolimus in HR+/HER2− breast cancer is solid (L2 — o
 - Populate per-license details (license number, product name, dosage form, approved-indication text) for the 8 registered products
 - Complete the drug-drug interaction query (currently `not_found`)
 - Once S1 safety review is unblocked, re-evaluate — given the existing efficacy evidence, this candidate is a strong fit for "Proceed with Guardrails"
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

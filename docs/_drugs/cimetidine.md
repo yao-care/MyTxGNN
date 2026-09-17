@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cimetidine
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 216
 evidence_level: L5
 indication_count: 5
@@ -10,12 +10,12 @@ indication_count: 5
 # Cimetidine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L5** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -45,7 +45,7 @@ Cimetidine is a histamine H2-receptor antagonist historically used for peptic ul
 | Predicted New Indication | Hyperinsulinism |
 | TxGNN Prediction Score | 0% |
 | Evidence Level | L5 |
-| Malaysia Market Status | ✓ 已上市 (Marketed) |
+| Malaysia Market Status | ✓ Marketed (Marketed) |
 | Number of Registrations | 21 |
 | Recommended Decision | Hold |
 
@@ -99,10 +99,10 @@ The top-ranked TxGNN prediction (hyperinsulinism) has no mechanistic rationale, 
 - Obtain NPRA product label (warnings, contraindications) — currently a Blocking gap (DG001)
 - Obtain DrugBank mechanism of action data — currently a High-severity gap (DG002)
 - If pursuing a genuine repurposing signal from this pack, evaluate **systemic mastocytosis** instead (L4, Research Question stage) as the more mechanistically distinct candidate, pending further clinical evidence
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Clobazam
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 225
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Clobazam
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -101,10 +101,10 @@ The TxGNN prediction score is high, but it is unsupported by any clinical trial 
 - Confirmed mechanism of action from DrugBank to resolve DG002
 - Broader literature/trial search using related terms (e.g., "super-refractory status epilepticus," "benzodiazepine + FIRES") given FIRES is a rare syndrome that may not be indexed under its exact name
 - Original indication and Malaysia license detail confirmation, currently missing from both `drug.original_indications` and `taiwan_regulatory.licenses`
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

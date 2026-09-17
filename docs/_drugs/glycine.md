@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Glycine
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 373
 evidence_level: L5
 indication_count: 5
@@ -10,12 +10,12 @@ indication_count: 5
 # Glycine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L5** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -78,7 +78,7 @@ None of these publications constitute direct evidence of glycine's efficacy in p
 
 ## Malaysia Market Information
 
-Taiwan/NPRA regulatory records show **209 total registrations** with market status "已上市" (Marketed), but the license-level fields (registration number, product name, dosage form, manufacturer, indication text) returned empty for all sampled entries in this evidence pack. No usable per-product table can be presented until license records are re-queried.
+Taiwan/NPRA regulatory records show **209 total registrations** with market status "Marketed" (Marketed), but the license-level fields (registration number, product name, dosage form, manufacturer, indication text) returned empty for all sampled entries in this evidence pack. No usable per-product table can be presented until license records are re-queried.
 
 ## Safety Considerations
 
@@ -97,10 +97,10 @@ The TxGNN score for pharyngitis is 0.0 with no supporting mechanism, and all ass
 - Corrected/re-run evidence search with tighter drug-name disambiguation (current results are contaminated by glyphosate, roxadustat/daprodustat, and unrelated vaccine trials)
 - Complete license-level records (product name, dosage form, approved indication text) for the 209 Malaysia registrations
 - If pursuing further, evaluate the more evidence-backed but confounded **common cold** candidate (rank 4, L3/S1) separately, noting glycine's role there is likely as a zinc-stabilizing excipient rather than the active moiety
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

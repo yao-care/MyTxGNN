@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Risperidone
-parent: 僅模型預測 (L5)
+parent: Medium Evidence (L3)
 nav_order: 597
-evidence_level: L5
+evidence_level: L3
 indication_count: 5
 ---
 
 # Risperidone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Tahap bukti: **L3** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -87,7 +87,7 @@ Mechanistically, D2/5-HT2A blockade plausibly explains risperidone's benefit for
 
 ## Malaysia Market Information
 
-Detailed authorization records (license number, product name, dosage form, approved-indication text) are not yet populated in this evidence pack for any of the 25 registrations. NPRA confirms risperidone's market status as **已上市 (Marketed)** with **25 active registrations**; license-level detail needs to be pulled from source before this table can be completed.
+Detailed authorization records (license number, product name, dosage form, approved-indication text) are not yet populated in this evidence pack for any of the 25 registrations. NPRA confirms risperidone's market status as **Marketed (Marketed)** with **25 active registrations**; license-level detail needs to be pulled from source before this table can be completed.
 
 ---
 
@@ -112,10 +112,10 @@ The only genuinely novel candidate in this pack — Autism Susceptibility 1 — 
 - License-level product/indication text for the 25 Malaysia registrations
 - A pipeline-level check on why already-approved indications are being surfaced as "predicted new indications" — likely an artifact of candidate-ontology granularity (e.g., "bipolar disorder" vs. "manic bipolar affective disorder" as separate nodes) that should be deduplicated against `original_indications` before scoring
 - If Autism Susceptibility 1 is to be pursued further, non-pharmacogenomic efficacy evidence specific to genetically-defined ASD subpopulations would be needed — none currently exists in this pack
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 

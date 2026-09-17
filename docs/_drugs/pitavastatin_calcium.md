@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pitavastatin Calcium
-parent: 僅模型預測 (L5)
+parent: Low Evidence (L4-L5)
 nav_order: 556
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Pitavastatin Calcium
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Tahap bukti: **L5** | Indikasi diramal: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Isi kandungan
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Laporan penilaian ahli farmasi
 
 </div>
 
@@ -111,10 +111,10 @@ The evidence pack for Pitavastatin Calcium contains no TxGNN repurposing predict
 - **Resolve NPRA/TFDA package insert data gap (DG001):** Download and parse the product insert PDFs from the NPRA portal or TFDA website to populate key warnings, contraindications, approved indication texts per registration, and drug interaction data
 - **Populate NPRA licence details:** Re-query the NPRA Quest 3+ database to retrieve authorisation numbers, product names, dosage forms, and manufacturers for all 3 registered products
 - **Re-generate evidence pack** once the above gaps are resolved, then produce a full evaluation report with a defined target indication, evidence level, and Go/Proceed/Hold recommendation grounded in actual data
-## Disclaimer
+## Penafian
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
+Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
 
 ---
 
