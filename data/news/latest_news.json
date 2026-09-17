@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-17T05:44:03.356962",
+  "fetched": "2026-09-17T10:58:12.784846",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 11,
   "items": [
     {
       "title": "When We Become Medical Tourists — Dr Ng Kuo Chern",
@@ -117,31 +117,11 @@
       ]
     },
     {
-      "title": "Puchong blaze guts four factories, collapse risk remains (VIDEO)",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/17/puchong-blaze-guts-four-factories-collapse-risk-remains/235497",
+      "title": "Haze: 30 areas across Malaysia record unhealthy air quality, including Ipoh, PJ, Shah Alam and Kuching",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/17/haze-30-areas-across-malaysia-record-unhealthy-air-quality-including-ipoh-pj-shah-alam-and-kuching/235548",
       "source": "Malay Mail",
-      "published": "2026-09-17T03:46:30",
-      "summary": "KUALA LUMPUR, Sept 17 — A fire destroyed four factories at Jalan TPP 5/15, Puchong Industrial Park, today.Selangor...",
-      "keywords_matched": [
-        "trial"
-      ]
-    },
-    {
-      "title": "Perak worst hit as 28 areas nationwide turn unhealthy",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/17/perak-worst-hit-as-28-areas-nationwide-turn-unhealthy/235480",
-      "source": "Malay Mail",
-      "published": "2026-09-17T02:42:57",
-      "summary": "KUALA LUMPUR, Sept 17 — A total of 28 areas nationwide recorded Air Pollutant Index (API) readings at unhealthy le...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Health Ministry denies claims officials absent from funerals of FDS crash victims",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/17/health-ministry-denies-claims-officials-absent-from-funerals-of-fds-crash-victims/235475",
-      "source": "Malay Mail",
-      "published": "2026-09-17T02:20:53",
-      "summary": "KUALA LUMPUR, Sept 17 — Allegations that no senior health officials attended the funerals of members of the Flying...",
+      "published": "2026-09-17T10:05:11",
+      "summary": "KUALA LUMPUR, Sept 17 — A total of 30 areas nationwide recorded unhealthy Air Pollutant Index (API) readings as of...",
       "keywords_matched": [
         "health"
       ]
