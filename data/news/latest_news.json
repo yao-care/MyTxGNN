@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-17T00:04:46.285036",
+  "fetched": "2026-09-17T05:44:03.356962",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,32 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 14,
+  "total_items": 13,
   "items": [
+    {
+      "title": "When We Become Medical Tourists — Dr Ng Kuo Chern",
+      "url": "https://codeblue.galencentre.org/2026/09/when-we-become-medical-tourists-dr-ng-kuo-chern/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-09-17T03:45:00",
+      "summary": "If blunt and overly restrictive measures are imposed in the name of financial prudence, we risk hampering our ability to develop and extend our health care capabilities. For Malaysians with the means to travel, seeking treatment abroad becomes an option. The post When We Become Medical Tourists — Dr Ng Kuo Chern appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "medical",
+        "treatment"
+      ]
+    },
+    {
+      "title": "How Sarawak Can Create A Specialised Aeromedical Service",
+      "url": "https://codeblue.galencentre.org/2026/09/how-sarawak-can-create-a-specialised-aeromedical-service/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-09-17T02:00:00",
+      "summary": "A Sarawakian doctor, who now practises in Australia, urges Sarawak to form its own specialised aeromedical service that isn't merely transport. A Sarawak FDS can be co-funded by state corporate groups. Aeromedical medicine should be a career pathway. The post How Sarawak Can Create A Specialised Aeromedical Service appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical",
+        "medicine",
+        "doctor"
+      ]
+    },
     {
       "title": "Deepest Condolences To Families Of Victims Of Long Lellang Tragedy — Chiew Choon Man",
       "url": "https://codeblue.galencentre.org/2026/09/deepest-condolences-to-families-of-victims-of-long-lellang-tragedy-chiew-choon-man/",
@@ -93,63 +117,31 @@
       ]
     },
     {
-      "title": "Retaining Doctors Top Priority For New MMA President",
-      "url": "https://codeblue.galencentre.org/2026/09/retaining-doctors-top-priority-for-new-mma-president/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-14T08:00:00",
-      "summary": "Retaining doctors in the public sector is critical to ensuring continuity and quality of care, particularly as Malaysia faced increasing demands from an ageing population and the rising burden of NCDs. The post Retaining Doctors Top Priority For New MMA President appeared first on CodeBlue .",
-      "keywords_matched": [
-        "doctor"
-      ]
-    },
-    {
-      "title": "The Duty To Care And The Duty To Bring Them Home — Dr Vekneswaraj Arumugam",
-      "url": "https://codeblue.galencentre.org/2026/09/the-duty-to-care-and-the-duty-to-bring-them-home-dr-vekneswaraj-arumugam/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-14T06:00:00",
-      "summary": "A health care worker boarding a helicopter for a remote medical mission isn't going on holiday. The health system has a responsibility to do more than get them from one point to another. It must ask whether health care personnel are adequately prepared. The post The Duty To Care And The Duty To Bring Them Home — Dr Vekneswaraj Arumugam appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "medical"
-      ]
-    },
-    {
-      "title": "Haze alert: 38 areas in Peninsular Malaysia record unhealthy readings",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/16/haze-alert-38-areas-in-peninsular-malaysia-record-unhealthy-readings/235434",
+      "title": "Puchong blaze guts four factories, collapse risk remains (VIDEO)",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/17/puchong-blaze-guts-four-factories-collapse-risk-remains/235497",
       "source": "Malay Mail",
-      "published": "2026-09-16T09:54:57",
-      "summary": "KUALA LUMPUR, Sept 16 — A total of 38 areas in Peninsular Malaysia recorded unhealthy Air Pollution Index (API) re...",
+      "published": "2026-09-17T03:46:30",
+      "summary": "KUALA LUMPUR, Sept 17 — A fire destroyed four factories at Jalan TPP 5/15, Puchong Industrial Park, today.Selangor...",
+      "keywords_matched": [
+        "trial"
+      ]
+    },
+    {
+      "title": "Perak worst hit as 28 areas nationwide turn unhealthy",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/17/perak-worst-hit-as-28-areas-nationwide-turn-unhealthy/235480",
+      "source": "Malay Mail",
+      "published": "2026-09-17T02:42:57",
+      "summary": "KUALA LUMPUR, Sept 17 — A total of 28 areas nationwide recorded Air Pollutant Index (API) readings at unhealthy le...",
       "keywords_matched": [
         "health"
       ]
     },
     {
-      "title": "Negeri Sembilan DOE ramps up enforcement as haze hits unhealthy levels",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/16/negeri-sembilan-doe-ramps-up-enforcement-as-haze-hits-unhealthy-levels/235411",
+      "title": "Health Ministry denies claims officials absent from funerals of FDS crash victims",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/17/health-ministry-denies-claims-officials-absent-from-funerals-of-fds-crash-victims/235475",
       "source": "Malay Mail",
-      "published": "2026-09-16T06:17:17",
-      "summary": "SEREMBAN, Sept 16 — The Negeri Sembilan Department of Environment (DOE) is stepping up ground-level monitoring, pa...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Schools advised to stagger students seeking medical checks, says Perak health exco",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/16/schools-advised-to-stagger-students-seeking-medical-checks-says-perak-health-exco/235405",
-      "source": "Malay Mail",
-      "published": "2026-09-16T05:41:12",
-      "summary": "IPOH, Sept 16 — The Perak government has advised schools to coordinate with District Health Offices and relevant h...",
-      "keywords_matched": [
-        "health",
-        "medical"
-      ]
-    },
-    {
-      "title": "Penang air quality hits unhealthy levels statewide, Minden records API of 167",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/16/penang-air-quality-hits-unhealthy-levels-statewide-minden-records-api-of-167/235394",
-      "source": "Malay Mail",
-      "published": "2026-09-16T04:21:22",
-      "summary": "GEORGE TOWN, Sept 16 — Air quality at all four monitoring stations in Penang reached unhealthy levels as of 11am t...",
+      "published": "2026-09-17T02:20:53",
+      "summary": "KUALA LUMPUR, Sept 17 — Allegations that no senior health officials attended the funerals of members of the Flying...",
       "keywords_matched": [
         "health"
       ]
