@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-18T07:02:49.260209",
+  "fetched": "2026-09-18T12:42:03.647059",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
     {
       "title": "Enforce Boundary Between Optometry And Medical Eye Care — MSO & MMA",
@@ -118,16 +118,6 @@
       "summary": "KUALA LUMPUR, Sept 18 — Air quality across Malaysia deteriorated further by midday today, with 35 monitoring stati...",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "Passenger dies after medical emergency on Malaysia Airlines flight to Sydney",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/18/passenger-dies-after-medical-emergency-on-malaysia-airlines-flight-to-sydney/235586",
-      "source": "Malay Mail",
-      "published": "2026-09-18T01:08:01",
-      "summary": "KUALA LUMPUR, Sept 18 — A passenger died on board a Sydney-bound Malaysia Airlines flight after suffering a critic...",
-      "keywords_matched": [
-        "medical"
       ]
     }
   ]
