@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-17T22:39:41.193036",
+  "fetched": "2026-09-18T01:01:12.035018",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
     {
       "title": "When We Become Medical Tourists — Dr Ng Kuo Chern",
@@ -112,6 +112,16 @@
       "source": "CodeBlue (Health News)",
       "published": "2026-09-14T08:40:18",
       "summary": "Galen Centre renews its call for a Health Service Commission, saying this commitment must be announced in Budget 2027 and that the Long Lellang tragedy should serve as a turning point. PH pledged in GE15 to establish a National Health Service Commission. The post Announce Health Service Commission In Budget 2027: Galen Centre appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Sarawak and Selangor bear the brunt as 34 stations log ‘Unhealthy’ API levels in Malaysia",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/18/sarawak-and-selangor-bear-the-brunt-as-34-stations-log-unhealthy-api-levels-in-malaysia/235578",
+      "source": "Malay Mail",
+      "published": "2026-09-18T00:42:58",
+      "summary": "KUALA LUMPUR, Sept 18 — Air quality across Malaysia deteriorated significantly this morning, with 34 monitoring st...",
       "keywords_matched": [
         "health"
       ]
