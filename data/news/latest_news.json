@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-18T12:42:03.647059",
+  "fetched": "2026-09-18T16:56:02.856125",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 10,
   "items": [
     {
       "title": "Enforce Boundary Between Optometry And Medical Eye Care — MSO & MMA",
@@ -108,16 +108,6 @@
         "doctor",
         "patient",
         "hospital"
-      ]
-    },
-    {
-      "title": "Haze update: 35 areas now with ‘Unhealthy’ API, Selangor’s Johan Setia tops 193",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/18/haze-update-35-areas-now-with-unhealthy-api-selangors-johan-setia-tops-193/235635",
-      "source": "Malay Mail",
-      "published": "2026-09-18T04:28:45",
-      "summary": "KUALA LUMPUR, Sept 18 — Air quality across Malaysia deteriorated further by midday today, with 35 monitoring stati...",
-      "keywords_matched": [
-        "health"
       ]
     }
   ]
