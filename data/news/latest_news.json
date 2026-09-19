@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-19T05:34:06.501301",
+  "fetched": "2026-09-19T10:19:06.894786",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 13,
   "items": [
     {
       "title": "Enforce Boundary Between Optometry And Medical Eye Care — MSO & MMA",
@@ -111,13 +111,33 @@
       ]
     },
     {
-      "title": "Haze stretches from Tawau to Perak as 20 areas record unhealthy air, Kuching and Serian hit 169",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/19/haze-stretches-from-tawau-to-perak-as-20-areas-record-unhealthy-air-kuching-and-serian-hit-169/235739",
+      "title": "Air quality dips nationwide, Sarawak records seven unhealthy API readings, Klang Valley four, Johor three",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/19/air-quality-dips-nationwide-sarawak-records-seven-unhealthy-api-readings-klang-valley-four-johor-three/235801",
       "source": "Malay Mail",
-      "published": "2026-09-19T02:19:17",
-      "summary": "KUALA LUMPUR, Sept 19 — As of 9am today, 20 areas nationwide are recording unhealthy Air Pollutant Index (API) rea...",
+      "published": "2026-09-19T09:50:46",
+      "summary": "KUALA LUMPUR, Sept 19 — A total of 17 areas nationwide recorded Air Pollutant Index (API) readings at unhealthy le...",
       "keywords_matched": [
         "health"
+      ]
+    },
+    {
+      "title": "Malaysia records 102 deceased organ donors so far in 2026, but 12,575 still await transplants, says MOH",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/19/malaysia-records-102-deceased-organ-donors-so-far-in-2026-but-12575-still-await-transplants-says-moh/235791",
+      "source": "Malay Mail",
+      "published": "2026-09-19T08:33:26",
+      "summary": "KUALA TERENGGANU, Sept 19 — The Ministry of Health (MOH) recorded 102 deceased organ donors from January to August...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Preliminary report on Sarawak Flying Doctor helicopter crash due within 30 days, says deputy transport minister",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/19/preliminary-report-on-sarawak-flying-doctor-helicopter-crash-due-within-30-days-says-state-deputy-minister/235777",
+      "source": "Malay Mail",
+      "published": "2026-09-19T07:26:41",
+      "summary": "MIRI, Sept 19 — The Air Accident Investigation Bureau (BSKU) will issue a preliminary report on the Flying Doctor...",
+      "keywords_matched": [
+        "doctor"
       ]
     }
   ]
