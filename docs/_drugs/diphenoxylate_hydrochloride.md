@@ -29,83 +29,84 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Diphenoxylate Hydrochloride: Drug Repurposing Evaluation — Insufficient Prediction Data
+# Diphenoxylate Hydrochloride: Penilaian Penggunabalian Ubat — Data Ramalan Tidak Mencukupi
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Diphenoxylate hydrochloride is an opioid-type antidiarrheal agent, typically used in combination with atropine to manage acute and chronic diarrhoea. The TxGNN model has **not generated any predicted new indications** for this drug. The evidence pack contains significant data gaps across regulatory details, mechanism of action, and safety information, precluding a meaningful repurposing assessment at this time.
+Diphenoxylate hydrochloride adalah agen antidiarrhea jenis opioid, biasanya digunakan dalam kombinasi dengan atropine untuk menguruskan cirit-birit akut dan kronik. Model TxGNN **tidak menghasilkan sebarang petunjuk penggunaan baru yang diramalkan** untuk ubat ini. Pakej bukti mengandungi jurang data yang ketara merentasi perincian peraturan, mekanisme tindakan, dan maklumat keselamatan, menghalang penilaian penggunabalian yang bermakna pada masa ini.
 
 ---
 
-## Quick Overview
+## Gambaran Pantas
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Antidiarrheal (license details not available in current data) |
-| Predicted New Indication | — None predicted |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 (No predictions or supporting studies) |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 4 |
-| Recommended Decision | **Hold** |
+| Petunjuk Asal | Antidiarrhea (butiran lesen tidak tersedia dalam data semasa) |
+| Petunjuk Penggunaan Baru Diramalkan | — Tiada yang diramalkan |
+| Skor Ramalan TxGNN | N/A |
+| Tahap Bukti | L5 (Tiada ramalan atau kajian sokongan) |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 4 |
+| Keputusan Disyorkan | **Tahan** |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-**No TxGNN prediction was generated for this drug**, so there is no repurposing hypothesis to evaluate at this time.
+**Tiada ramalan TxGNN yang dijana untuk ubat ini**, jadi tiada hipotesis penggunabalian untuk dinilai pada masa ini.
 
-From general pharmacological knowledge, diphenoxylate is a synthetic phenylpiperidine opioid that acts primarily on mu-opioid receptors in the gastrointestinal tract. It slows intestinal motility and reduces fluid secretion, which is the basis of its antidiarrheal effect. It is almost always formulated in combination with a sub-therapeutic dose of atropine sulphate (marketed as Lomotil® and generics) to discourage deliberate misuse.
+Daripada pengetahuan farmakologi umum, diphenoxylate adalah opioid phenylpiperidine sintetik yang bertindak terutamanya pada reseptor mu-opioid dalam saluran gastrousus. Ia memperlahankan motiliti usus dan mengurangkan sekresi bendalir, yang menjadi asas bagi kesannya yang antidiarrhea. Ia hampir selalu dirumuskan dalam kombinasi dengan dos sub-terapi atropine sulphate (dipasarkan sebagai Lomotil® dan generik) untuk mengecilkan hati penyalahgunaan yang disengaja.
 
-Detailed mechanism of action data was not available in this evidence pack (flagged as Data Gap DG002). Without a TxGNN prediction score or candidate disease, no mechanistic bridge to a new indication can be assessed.
-
----
-
-## Clinical Trial Evidence
-
-Currently no predicted indication exists, therefore no related clinical trials can be evaluated.
+Data mekanisme tindakan terperinci tidak tersedia dalam pakej bukti ini (ditandakan sebagai Jurang Data DG002). Tanpa skor ramalan TxGNN atau penyakit calon, tiada jambatan mekanik ke petunjuk penggunaan baru boleh dinilai.
 
 ---
 
-## Literature Evidence
+## Bukti Percubaan Klinik
 
-Currently no predicted indication exists, therefore no targeted literature search was performed.
+Pada masa ini tiada petunjuk penggunaan yang diramalkan, oleh itu tiada carian literatur berkaitan boleh dinilai.
 
 ---
 
-## Malaysia Market Information
+## Bukti Literatur
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+Pada masa ini tiada petunjuk penggunaan yang diramalkan, oleh itu tiada carian literatur yang ditargetkan telah dijalankan.
+
+---
+
+## Maklumat Pasaran Malaysia
+
+| Nombor Kelulusan | Nama Produk | Bentuk Dos | Petunjuk Penggunaan Diluluskan |
 |------|------|------|------|
-| *(not available)* | *(not available)* | *(not available)* | *(not available)* |
+| *(tidak tersedia)* | *(tidak tersedia)* | *(tidak tersedia)* | *(tidak tersedia)* |
 
-> **Note:** 4 registrations are recorded in the regulatory database, but the detailed licence information (authorization number, product name, dosage form, and approved indication text) was not populated in the current evidence pack. This data should be retrieved from the NPRA database to complete the assessment.
+> **Nota:** 4 pendaftaran direkodkan dalam pangkalan data peraturan, tetapi maklumat lesen terperinci (nombor kelulusan, nama produk, bentuk dos, dan teks petunjuk penggunaan yang diluluskan) tidak diisi dalam pakej bukti semasa. Data ini harus diambil daripada pangkalan data NPRA untuk melengkapkan penilaian.
 
 ---
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-> Please refer to the package insert for safety information.
+> Sila rujuk sisipan pakej untuk maklumat keselamatan.
 >
-> All safety fields (key warnings, contraindications, drug–drug interactions) are currently flagged as data gaps. Before any repurposing evaluation can proceed, the following must be obtained:
-> - Package insert warnings and precautions (Data Gap DG001 — severity: **Blocking**)
-> - Drug–drug interaction profile (query returned 0 results)
+> Semua medan keselamatan (amaran utama, kontraindikasi, interaksi ubat–ubat) kini ditandakan sebagai jurang data. Sebelum sebarang penilaian penggunabalian boleh diteruskan, yang berikut mesti diperolehi:
+> - Amaran dan tindakan berjaga-jaga sisipan pakej (Jurang Data DG001 — keterukan: **Menghalang**)
+> - Profil interaksi ubat–ubat (pertanyaan mengembalikan 0 hasil)
 
 ---
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The TxGNN model did not produce any predicted new indications for diphenoxylate hydrochloride. In addition, the evidence pack has multiple blocking-level data gaps (safety information, regulatory detail, mechanism of action), making it impossible to conduct a meaningful repurposing evaluation.
+**Rasional:**
+Model TxGNN tidak menghasilkan sebarang petunjuk penggunaan baru yang diramalkan untuk diphenoxylate hydrochloride. Selain itu, pakej bukti mempunyai berbilang jurang data tahap menghalang (maklumat keselamatan, perincian peraturan, mekanisme tindakan), menjadikannya mustahil untuk menjalankan penilaian penggunabalian yang bermakna.
 
-**To proceed, the following is needed:**
-- **TxGNN prediction re-run**: Confirm that diphenoxylate hydrochloride (or its DrugBank ID) is correctly mapped in the knowledge graph; if the DrugBank mapping failed, resolve the identifier first (Data Gap DG002)
-- **DrugBank ID resolution**: The `drugbank_id` is currently null — query DrugBank for "Diphenoxylate" (expected: DB01081) and re-run the prediction pipeline
-- **NPRA licence detail retrieval**: Populate the 4 licence records with authorization numbers, product names, dosage forms, and approved indication text
-- **Safety data extraction**: Download and parse the package insert PDF from NPRA to obtain warnings, contraindications, and interaction data (Data Gap DG001 — **Blocking**)
-- **Mechanism of action documentation**: Retrieve MOA details from DrugBank to enable future mechanistic plausibility analysis
+**Untuk meneruskan, yang berikut diperlukan:**
+- **Jalankan semula ramalan TxGNN**: Sahkan bahawa diphenoxylate hydrochloride (atau ID DrugBank-nya) dipetakan dengan betul dalam graf pengetahuan; jika pemetaan DrugBank gagal, selesaikan pengecam terlebih dahulu (Jurang Data DG002)
+- **Resolusi ID DrugBank**: `drugbank_id` kini adalah null — pertanyaan DrugBank untuk "Diphenoxylate" (dijangka: DB01081) dan jalankan semula saluran ramalan
+- **Pengambilan butiran lesen NPRA**: Isikan 4 rekod lesen dengan nombor kelulusan, nama produk, bentuk dos, dan teks petunjuk penggunaan yang diluluskan
+- **Pengekstrakan data keselamatan**: Muat turun dan parskan PDF sisipan pakej daripada NPRA untuk memperoleh amaran, kontraindikasi, dan data interaksi (Jurang Data DG001 — **Menghalang**)
+- **Dokumentasi mekanisme tindakan**: Ambil butiran MOA daripada DrugBank untuk membolehkan analisis kesempurnaan mekanik masa depan
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

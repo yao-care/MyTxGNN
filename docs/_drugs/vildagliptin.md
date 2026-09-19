@@ -29,86 +29,87 @@ Tahap bukti: **L2** | Indikasi diramal: **10**
 
 </div>
 
-Using the drug-repurposing report template supplied in the task instructions to structure this output.
+# Vildagliptin: Dari Diabetes Mellitus Jenis 2 kepada Diabetes Mellitus Jenis 1
 
-A note on source selection before the report: TxGNN returned 10 ranked candidates, but the evidence pack's own `repurposing_rationale` explicitly labels ranks 1–9 (stiff limb syndrome, stiff person syndrome, thiamine-responsive dysfunction syndrome, opsismodysplasia, four lipodystrophy variants, and pancreatic agenesis) as having **no mechanistic link and no supporting evidence** — these look like embedding-space artifacts rather than real repurposing signals, and all carry `Hold`/L5/S0. Only **rank 10, Type 1 Diabetes Mellitus (T1DM)**, has an actual evidence base (L2/S1) and a plausible mechanism, so this report is built around that candidate rather than the top raw TxGNN score.
+## Nota Mengenai Pemilihan Sumber Sebelum Laporan
+
+TxGNN mengembalikan 10 calon berperingkat, tetapi paket bukti sendiri `repurposing_rationale` secara eksplisit melabel peringkat 1–9 (sindrom anggota kaku, sindrom orang kaku, sindrom disfungsi responsif tiamin, opsismodisplasia, empat varian lipodistrofi, dan agenesis pankreas) kerana mempunyai **tiada sambungan mekanik dan tiada bukti sokongan** — ini kelihatan seperti artifak ruang penyisipan daripada isyarat repurposing sebenar, dan semua membawa `Hold`/L5/S0. Hanya **peringkat 10, Diabetes Mellitus Jenis 1 (T1DM)**, mempunyai asas bukti sebenar (L2/S1) dan mekanisme yang munasabah, jadi laporan ini dibina di sekitar calon itu daripada skor TxGNN bagi kedudukan tertinggi.
 
 ---
 
-# Vildagliptin: From Type 2 Diabetes Mellitus to Type 1 Diabetes Mellitus
+## Ringkasan Satu Ayat
 
-## One-Sentence Summary
+Vildagliptin ialah penghambat DPP-4 yang pada asalnya digunakan untuk meningkatkan kawalan glikemik dalam **Diabetes Mellitus Jenis 2**. Dalam kalangan calon berperingkat TxGNN, satu-satunya yang mempunyai bukti sokongan sebenar ialah **Diabetes Mellitus Jenis 1**, di mana penghambatan DPP-4 mungkin membantu memelihara fungsi sel β sisa — disokong oleh **1 ujian terkawal rawak selesai** dan **9 penerbitan relevan**, walaupun ia tidak dapat menangani proses penyakit autoimun asas.
 
-Vildagliptin is a DPP-4 inhibitor originally used to improve glycemic control in **Type 2 Diabetes Mellitus**. Among TxGNN's ranked candidates, the only one with real supporting evidence is **Type 1 Diabetes Mellitus**, where DPP-4 inhibition may help preserve residual β-cell function — supported by **1 completed RCT** and **9 relevant publications**, though it cannot address the underlying autoimmune disease process.
+> ⚠️ Nota: Ramalan berperingkat 9 teratas TxGNN (sindrom anggota kaku/sindrom orang kaku, sindrom disfungsi responsif tiamin, opsismodisplasia, empat subtip lipodistrofi, agenesis pankreas) semua memperoleh skor >99.7% tetapi mempunyai **sifar bukti klinikal atau literatur** dan tiada mekanisme munasabah mengikut analisis paket bukti sendiri. Ia dikecualikan daripada laporan ini kerana kemungkinan artifak model.
 
-> ⚠️ Note: TxGNN's top 9 ranked predictions (stiff limb/stiff person syndrome, thiamine-responsive dysfunction syndrome, opsismodysplasia, four lipodystrophy subtypes, pancreatic agenesis) all scored >99.7% but have **zero clinical or literature evidence** and no plausible mechanism per the evidence pack's own analysis. They are excluded from this report as likely model artifacts.
+## Tinjauan Pantas
 
-## Quick Overview
+| Item | Kandungan |
+|------|-----------|
+| Indikasi Asal | Diabetes Mellitus Jenis 2 (ditetapkan dalam literatur yang dirujuk; tidak didedahkan dalam ekstrak lesen NPRA Malaysia untuk tarikan ini) |
+| Indikasi Baru yang Diramalkan | Diabetes Mellitus Jenis 1 |
+| Skor Ramalan TxGNN | 99.37% |
+| Tahap Bukti | L2 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 12 |
+| Keputusan yang Disyorkan | Tahan |
 
-| Item | Content |
-|------|------|
-| Original Indication | Type 2 Diabetes Mellitus (established in cited literature; not disclosed in the Malaysia NPRA license extract for this pull) |
-| Predicted New Indication | Type 1 Diabetes Mellitus |
-| TxGNN Prediction Score | 99.37% |
-| Evidence Level | L2 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 12 |
-| Recommended Decision | Hold |
+## Mengapa Ramalan Ini Masuk Akal?
 
-## Why is This Prediction Reasonable?
+Data mekanisme tindakan terperinci tidak dikembalikan daripada DrugBank untuk tarikan ini (ditandai sebagai jurang data DG002). Berdasarkan literatur yang diterbitkan yang ditangkap dalam paket bukti, vildagliptin ialah penghambat kompetitif bagi dipeptidil peptidase-4 (DPP-4), enzim yang merosot hormon incretin GLP-1 dan GIP. Dengan menyekat perosakan ini, vildagliptin meningkatkan tahap GLP-1/GIP endogen, yang meningkatkan sekresi insulin bergantung glukosa dan menekan pelepasan glukagon yang tidak sesuai — mekanisme tersapnya dalam Diabetes Mellitus Jenis 2.
 
-Detailed mechanism-of-action data was not returned from DrugBank for this pull (flagged as data gap DG002). Based on the published literature captured in the evidence pack, vildagliptin is a competitive inhibitor of dipeptidyl peptidase-4 (DPP-4), the enzyme that degrades the incretin hormones GLP-1 and GIP. By blocking this degradation, vildagliptin raises endogenous GLP-1/GIP levels, which enhances glucose-dependent insulin secretion and suppresses inappropriate glucagon release — its established mechanism in Type 2 Diabetes.
+Diabetes Mellitus Jenis 1 dan Jenis 2 berbeza secara asasnya dalam etiologi (kemusnahan sel β autoimun vs. rintangan insulin/kekurangan relatif), tetapi ia berkongsi fisiologi pengawalseliaan glukosa hiliran. Beberapa ujian dan kajian mekanistik dalam paket bukti (cth., PMID 22855332, PMID 18597213, PMID 33124663) menunjukkan bahawa vildagliptin masih boleh mengubahsuai peraturan balas glukagon dan, secara bersama dengan rapamicin, sebahagiannya memulihkan fungsi sel β walaupun dalam T1DM jangka panjang. Ini menyokong nisbah yang munasabah dan berlabuh bukti untuk meneroka vildagliptin sebagai **adjuvan** dalam T1DM.
 
-Type 1 and Type 2 diabetes differ fundamentally in etiology (autoimmune β-cell destruction vs. insulin resistance/relative deficiency), but they share downstream glucose-regulatory physiology. Several trials and mechanistic studies in the evidence pack (e.g., PMID 22855332, PMID 18597213, PMID 33124663) show that vildagliptin can still modulate glucagon counterregulation and, in combination with rapamycin, partially restore β-cell function even in long-standing T1DM. This supports a plausible, evidence-anchored rationale for exploring vildagliptin as an **adjunct** in T1DM.
+Adalah penting untuk diperhatikan bahawa medan nisbah untuk calon ini secara eksplisit mencatat vildagliptin **tidak menyasarkan proses autoimun** yang memusnahkan sel β dalam T1DM — ia hanya boleh menyokong fungsi sel β sisa atau peraturan glukagon, bukan menghentikan kemajuan penyakit. Ini menyederhanakan ramalan kepada peranan adjuvan/penyelidikan daripada calon rawatan utama, tidak seperti ramalan yang tidak masuk akal secara mekanik yang diletakkan di atasnya.
 
-Importantly, the rationale field for this candidate explicitly notes vildagliptin **does not target the autoimmune process** that destroys β-cells in T1DM — it can only support residual β-cell function or glucagon regulation, not halt disease progression. This tempers the prediction to an adjunctive/research role rather than a primary treatment candidate, unlike the mechanistically implausible predictions ranked above it.
+## Bukti Ujian Klinikal
 
-## Clinical Trial Evidence
+Nota: beberapa ujian NCT yang dikembalikan oleh carian telah ditandai oleh paket bukti itu sendiri sebagai ketidakpadanan pengindeksan yang mungkin (tajuk/ringkasan sebagai kajian Diabetes Mellitus Jenis 2 walaupun ditandai di bawah pertanyaan T1DM ini, cth. NCT00099853, NCT01472432, NCT02475499 — semua dinilai "C" untuk relevansi). Hanya ujian yang benar-benar mengkaji populasi T1DM disenaraikan di bawah.
 
-Note: several NCT trials returned by the search were flagged by the evidence pack itself as likely indexing mismatches (titled/summarized as Type 2 Diabetes studies despite being tagged under this T1DM query, e.g. NCT00099853, NCT01472432, NCT02475499 — all graded "C" for relevance). Only trials genuinely studying T1DM populations are listed below.
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT01147276](https://clinicaltrials.gov/study/NCT01147276) | Phase 4 | Completed | 28 | Examined whether DPP-4 inhibition by vildagliptin affects glucagon counterregulatory response to hypoglycemia in patients with Type 1 Diabetes |
-| [NCT06021119](https://clinicaltrials.gov/study/NCT06021119) | Phase 3 | Completed | 50 | Vildagliptin as add-on therapy for Ramadan Iftar-related glycemic excursions in adolescents/young adults with T1DM on an advanced hybrid closed-loop insulin system |
-| [NCT06348706](https://clinicaltrials.gov/study/NCT06348706) | Phase 3 | Completed | 60 | Effect of DPP-4 inhibitor supplementation on non-alcoholic steatohepatitis (NASH) in adolescents with T1DM |
+| [NCT01147276](https://clinicaltrials.gov/study/NCT01147276) | Fasa 4 | Selesai | 28 | Meneliti sama ada penghambatan DPP-4 oleh vildagliptin mempengaruhi tindak balas peraturan balas glukagon terhadap hipoglikemia dalam pesakit dengan Diabetes Mellitus Jenis 1 |
+| [NCT06021119](https://clinicaltrials.gov/study/NCT06021119) | Fasa 3 | Selesai | 50 | Vildagliptin sebagai terapi tambahan untuk keterlaluan glikemik berkaitan Iftar Ramadan pada remaja/dewasa muda dengan T1DM pada sistem gelung tertutup hibrid lanjutan |
+| [NCT06348706](https://clinicaltrials.gov/study/NCT06348706) | Fasa 3 | Selesai | 60 | Kesan suplementasi penghambat DPP-4 pada steatohepatitis bukan alkohol (NASH) pada remaja dengan T1DM |
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [33124663](https://pubmed.ncbi.nlm.nih.gov/33124663/) | 2021 | RCT | J Clin Endocrinol Metab | Double-blind RCT: rapamycin plus vildagliptin investigated for restoring β-cell function in long-standing Type 1 Diabetes |
-| [39318059](https://pubmed.ncbi.nlm.nih.gov/39318059/) | 2024 | RCT | Diabetes Obes Metab | RCT of vildagliptin add-on therapy on MMP-14, liver stiffness, and subclinical atherosclerosis in adolescents with T1DM and NASH |
-| [38057844](https://pubmed.ncbi.nlm.nih.gov/38057844/) | 2023 | RCT | Diabetol Metab Syndr | RCT of adjunctive oral vildagliptin to mitigate Ramadan Iftar-related glycemic excursions in T1DM patients on closed-loop insulin delivery |
-| [30848158](https://pubmed.ncbi.nlm.nih.gov/30848158/) | 2019 | Review | Expert Opin Investig Drugs | Review of DPP-4 inhibitors modulating β-cell function in T1DM and diabetic kidney disease, including protective effects against immune-mediated β-cell destruction |
-| [31781045](https://pubmed.ncbi.nlm.nih.gov/31781045/) | 2019 | Mechanistic study | Front Endocrinol | Mechanistic review of how vildagliptin sustains elevated GLP-1/GIP levels and improves β-cell glucose sensitivity |
-| [22855332](https://pubmed.ncbi.nlm.nih.gov/22855332/) | 2012 | Clinical study | J Clin Endocrinol Metab | Vildagliptin reduces glucagon during hyperglycemia while preserving glucagon counterregulation during hypoglycemia in T1DM |
-| [18597213](https://pubmed.ncbi.nlm.nih.gov/18597213/) | 2008 | Clinical study | Horm Metab Res | Effect of vildagliptin on glucagon concentration during meals in patients with Type 1 Diabetes |
-| [25395211](https://pubmed.ncbi.nlm.nih.gov/25395211/) | 2015 | Preclinical/Animal | Curr Pharm Biotechnol | Vildagliptin induced β-cell neogenesis and improved lipid profile in a later phase of experimental Type 1 Diabetes (rat model) |
-| [23523961](https://pubmed.ncbi.nlm.nih.gov/23523961/) | 2013 | Preclinical/Animal | Arch Med Res | Vildagliptin ameliorated oxidative stress and pancreatic β-cell destruction in Type 1 diabetic rats |
-| [29510081](https://pubmed.ncbi.nlm.nih.gov/29510081/) | 2018 | Preclinical/Animal | Can J Physiol Pharmacol | Vildagliptin/pioglitazone combination improved overall glycemic control in Type 1 diabetic rats |
+| [33124663](https://pubmed.ncbi.nlm.nih.gov/33124663/) | 2021 | UTR | J Clin Endocrinol Metab | Ujian terkawal rawak buta berganda: rapamicin ditambah vildagliptin disiasat untuk memulihkan fungsi sel β dalam Diabetes Mellitus Jenis 1 jangka panjang |
+| [39318059](https://pubmed.ncbi.nlm.nih.gov/39318059/) | 2024 | UTR | Diabetes Obes Metab | Ujian terkawal rawak terapi tambahan vildagliptin pada MMP-14, kekakuan hati, dan aterosklerosis subklinikal pada remaja dengan T1DM dan NASH |
+| [38057844](https://pubmed.ncbi.nlm.nih.gov/38057844/) | 2023 | UTR | Diabetol Metab Syndr | Ujian terkawal rawak vildagliptin lisan adjuvan untuk mengurangkan keterlaluan glikemik berkaitan Iftar Ramadan pada pesakit T1DM pada penyampaian insulin gelung tertutup |
+| [30848158](https://pubmed.ncbi.nlm.nih.gov/30848158/) | 2019 | Tinjauan | Expert Opin Investig Drugs | Tinjauan penghambat DPP-4 mengubahsuai fungsi sel β dalam T1DM dan penyakit ginjal diabetes, termasuk kesan perlindungan terhadap pemusnahan sel β yang dirantau imun |
+| [31781045](https://pubmed.ncbi.nlm.nih.gov/31781045/) | 2019 | Kajian Mekanistik | Front Endocrinol | Tinjauan mekanistik bagaimana vildagliptin mengekalkan tahap GLP-1/GIP yang tinggi dan meningkatkan sensitiviti glukosa sel β |
+| [22855332](https://pubmed.ncbi.nlm.nih.gov/22855332/) | 2012 | Kajian Klinikal | J Clin Endocrinol Metab | Vildagliptin mengurangkan glukagon semasa hiperglikemia sambil memelihara peraturan balas glukagon semasa hipoglikemia dalam T1DM |
+| [18597213](https://pubmed.ncbi.nlm.nih.gov/18597213/) | 2008 | Kajian Klinikal | Horm Metab Res | Kesan vildagliptin pada kepekatan glukagon semasa makanan pada pesakit dengan Diabetes Mellitus Jenis 1 |
+| [25395211](https://pubmed.ncbi.nlm.nih.gov/25395211/) | 2015 | Pra-klinikal/Haiwan | Curr Pharm Biotechnol | Vildagliptin mendorong neogenesis sel β dan meningkatkan profil lipid pada fasa kemudian Diabetes Mellitus Jenis 1 eksperimental (model tikus) |
+| [23523961](https://pubmed.ncbi.nlm.nih.gov/23523961/) | 2013 | Pra-klinikal/Haiwan | Arch Med Res | Vildagliptin memperlahankan tekanan oksidatif dan pemusnahan sel β pankreas dalam tikus diabetes Jenis 1 |
+| [29510081](https://pubmed.ncbi.nlm.nih.gov/29510081/) | 2018 | Pra-klinikal/Haiwan | Can J Physiol Pharmacol | Kombinasi vildagliptin/pioglitazon meningkatkan kawalan glikemik keseluruhan dalam tikus diabetes Jenis 1 |
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-License-level detail (authorization numbers, product names, dosage forms, approved indication text) was not returned in this data pull — all 12 NPRA license records came back with empty fields. Market status confirms vildagliptin is **currently marketed** in Malaysia with **12 total registrations**, but a fresh NPRA data extraction is needed to populate product-level detail.
+Perincian peringkat lesen (nombor kebenaran, nama produk, bentuk dos, teks indikasi yang diluluskan) tidak dikembalikan dalam tarikan data ini — semua 12 rekod lesen NPRA datang kembali dengan medan kosong. Status pasaran mengesahkan vildagliptin adalah **kini dipasarkan** di Malaysia dengan **12 jumlah pendaftaran**, tetapi pengekstrakan data NPRA segar diperlukan untuk mengisi perincian peringkat produk.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information. No key warnings, contraindications, or drug-drug interaction data were returned for this candidate in the current pull (safety.ddi query status: not found).
+Sila rujuk helaian maklumat ubat untuk maklumat keselamatan. Tiada data amaran utama, kontraindikasi, atau interaksi ubat-ubatan yang relevan dikembalikan untuk calon ini dalam tarikan semasa (status pertanyaan `safety.ddi`: tidak dijumpai).
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The only mechanistically and evidentially supportable candidate — Type 1 Diabetes Mellitus — has just one completed RCT specifically targeting T1DM outcomes (rapamycin + vildagliptin, tier 1) plus supportive mechanistic and preclinical data, but the drug cannot address the autoimmune pathology underlying T1DM and would at best serve an adjunctive role. Formal safety screening (S1) cannot proceed because the package insert warnings/contraindications data is currently missing (data gap DG001, severity: Blocking).
+**Rasional:**
+Satu-satunya calon yang disokong secara mekanik dan bukti — Diabetes Mellitus Jenis 1 — mempunyai hanya satu ujian terkawal rawak selesai yang secara khusus menyasarkan hasil T1DM (rapamicin + vildagliptin, tahap 1) ditambah data mekanik dan pra-klinikal yang sokongan, tetapi ubat ini tidak boleh menangani patologi autoimun yang mendasari T1DM dan paling baik boleh berfungsi sebagai peranan adjuvan. Pemeriksaan keselamatan formal (S1) tidak boleh diteruskan kerana data amaran dan kontraindikasi helaian maklumat ubat pada masa ini hilang (jurang data DG001, keterukan: Menghalang).
 
-**To proceed, the following is needed:**
-- Package insert / NPRA warnings and contraindications data (DG001, blocking)
-- Confirmed drug mechanism-of-action documentation from DrugBank (DG002)
-- Malaysia license-level detail (product names, dosage forms, approved indication text) — current pull returned empty fields
-- Re-verification of clinical trial indexing, since several retrieved NCT records were mismatched to Type 2 Diabetes populations despite being tagged for this T1DM query
-- Additional T1DM-specific RCTs beyond the single completed rapamycin + vildagliptin trial before considering further evaluation stages
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data amaran dan kontraindikasi helaian maklumat ubat / NPRA (DG001, menghalang)
+- Dokumentasi mekanisme tindakan ubat yang disahkan daripada DrugBank (DG002)
+- Perincian peringkat lesen Malaysia (nama produk, bentuk dos, teks indikasi yang diluluskan) — tarikan semasa mengembalikan medan kosong
+- Pengesahan semula pengindeksan ujian klinikal, kerana beberapa rekod NCT yang diperolehi tidak sepadan dengan populasi Diabetes Mellitus Jenis 2 walaupun ditandai untuk pertanyaan T1DM ini
+- Ujian terkawal rawak tambahan khusus untuk T1DM di luar ujian rapamicin + vildagliptin selesai tunggal sebelum mempertimbangkan peringkat penilaian seterusnya
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

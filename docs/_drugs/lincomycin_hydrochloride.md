@@ -29,76 +29,77 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Lincomycin Hydrochloride: Drug Repurposing Evaluation Report — Insufficient Prediction Data
+# Lincomycin Hydrochloride: Laporan Penilaian Penggunaan Ubat Ulang — Data Ramalan Tidak Mencukupi
 
 ---
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Lincomycin Hydrochloride is a lincosamide antibiotic, historically used to treat serious infections caused by susceptible Gram-positive organisms including streptococci, staphylococci, and pneumococci.
-The TxGNN model **did not return any predicted repurposing indications** for this compound in the current evidence pack — no drug repurposing evaluation can be completed at this stage.
-This report documents the current data gaps and outlines the steps required before a meaningful evaluation can proceed.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Serious Gram-positive bacterial infections (antibiotic class knowledge) |
-| Predicted New Indication | — Not available (no TxGNN output) |
-| TxGNN Prediction Score | — Not available |
-| Evidence Level | — Not assessable |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 20 |
-| Recommended Decision | **Hold** |
+Lincomycin Hydrochloride adalah antibiotik linkosamida yang secara historis digunakan untuk merawat jangkitan serius yang disebabkan oleh organisma Gram-positif yang peka termasuk streptokoki, stafilokoki, dan pneumokoki.
+Model TxGNN **tidak mengembalikan sebarang indikasi penggunaan ubat ulang yang diramalkan** untuk sebatian ini dalam pakej bukti semasa — tidak dapat menyelesaikan sebarang penilaian penggunaan ubat ulang pada peringkat ini.
+Laporan ini mendokumenkan jurang data semasa dan menggariskan langkah-langkah yang diperlukan sebelum penilaian yang bermakna dapat dilakukan.
 
 ---
 
-## Why Evaluation Cannot Proceed
+## Gambaran Keseluruhan Ringkas
 
-The core prerequisite for a repurposing evaluation — a TxGNN prediction — is absent in this evidence pack (`predicted_indications: []`). Two possible causes exist:
-
-1. **The prediction pipeline has not yet been executed** for this compound. Lincomycin Hydrochloride may not have been matched to a DrugBank node (DrugBank ID is currently null), which would prevent the knowledge-graph model from scoring candidate disease associations.
-
-2. **The model returned no candidates above the confidence threshold**, which itself may reflect insufficient graph connectivity due to the missing DrugBank mapping.
-
-Additionally, the approved indication texts across all 20 Malaysian registrations were not captured in the data extraction step, meaning neither the drug's baseline therapeutic role nor its known safety profile can be confirmed from the structured data alone.
-
-Without a target indication, the following sections — *Clinical Trial Evidence*, *Literature Evidence*, and *Why is This Prediction Reasonable?* — cannot be meaningfully populated and are omitted per reporting rules.
-
----
-
-## Malaysia Market Information
-
-Lincomycin Hydrochloride holds **20 product registrations** with the Malaysian drug authority (NPRA) and is confirmed as currently marketed. However, the structured licence details (product names, dosage forms, and approved indication texts) were not retrieved in this data extraction cycle — all licence record fields returned as empty. The individual registration table cannot be presented without this data.
-
-> **Action required**: Re-query the NPRA product database to retrieve licence numbers, product names, dosage forms, and approved indication texts for all 20 registrations.
+| Item | Kandungan |
+|------|-----------|
+| Indikasi Asal | Jangkitan bakteria Gram-positif yang serius (pengetahuan kelas antibiotik) |
+| Indikasi Baru yang Diramalkan | — Tidak tersedia |
+| Skor Ramalan TxGNN | — Tidak tersedia |
+| Tahap Bukti | — Tidak boleh dinilai |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 20 |
+| Keputusan yang Disyorkan | **Tunggu** |
 
 ---
 
-## Safety Considerations
+## Mengapa Penilaian Tidak Boleh Diteruskan
 
-> Please refer to the package insert for safety information.
+Persyaratan utama untuk penilaian penggunaan ubat ulang — ramalan TxGNN — tiada dalam pakej bukti ini (`predicted_indications: []`). Dua punca yang mungkin wujud:
+
+1. **Saluran paip ramalan mungkin belum dijalankan** untuk sebatian ini. Lincomycin Hydrochloride mungkin belum dipadankan kepada nod DrugBank (ID DrugBank kini kosong), yang akan menghalang model graf pengetahuan daripada memberikan skor kepada asosiasi penyakit calon.
+
+2. **Model mengembalikan tiada calon di atas ambang keyakinan**, yang itu sendiri mungkin mencerminkan sambungan graf yang tidak mencukupi disebabkan oleh pemetaan DrugBank yang hilang.
+
+Selain itu, teks indikasi yang diluluskan di semua 20 pendaftaran Malaysia tidak ditangkap dalam langkah pengekstrakan data, bermakna kedua-dua peranan terapeutik asas ubat mahupun profil keselamatannya yang diketahui tidak dapat disahkan daripada data berstruktur sahaja.
+
+Tanpa indikasi sasaran, bahagian-bahagian berikut — *Bukti Percubaan Klinikal*, *Bukti Kesusasteraan*, dan *Mengapa Ramalan Ini Wajar?* — tidak boleh diisi secara bermakna dan ditinggalkan mengikut peraturan pelaporan.
+
+---
+
+## Maklumat Pasaran Malaysia
+
+Lincomycin Hydrochloride memegang **20 pendaftaran produk** dengan pihak berkuasa ubat Malaysia (NPRA) dan disahkan sebagai dipasarkan semasa. Walau bagaimanapun, butiran lesen berstruktur (nama produk, bentuk dos, dan teks indikasi yang diluluskan) tidak diperoleh semula dalam kitaran pengekstrakan data ini — semua medan rekod lesen dikembalikan kosong. Jadual pendaftaran individu tidak boleh dikemukakan tanpa data ini.
+
+> **Tindakan diperlukan**: Soal semula pangkalan data produk NPRA untuk mendapatkan semula nombor lesen, nama produk, bentuk dos, dan teks indikasi yang diluluskan untuk semua 20 pendaftaran.
+
+---
+
+## Pertimbangan Keselamatan
+
+> Sila rujuk leaflet ubat untuk maklumat keselamatan.
 >
-> No key warnings, contraindications, or drug interaction data were captured in this evidence pack. NPRA/TFDA package insert PDFs should be retrieved and parsed before any clinical or regulatory review is conducted.
+> Tiada data amaran utama, keterangan bertentangan, atau data interaksi ubat ditangkap dalam pakej bukti ini. PDF leaflet ubat NPRA/TFDA harus dimuat turun dan diurai sebelum sebarang semakan klinikal atau kawal selia dilakukan.
 
 ---
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah-Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tunggu**
 
-**Rationale:**
-The evidence pack for Lincomycin Hydrochloride is structurally incomplete — no TxGNN repurposing prediction is present, the DrugBank linkage is missing, and all structured regulatory detail fields are empty. There is currently no indication to evaluate and no safety baseline to assess against.
+**Alasan:**
+Pakej bukti untuk Lincomycin Hydrochloride tidak lengkap secara struktur — tiada ramalan penggunaan ubat ulang TxGNN hadir, sambungan DrugBank hilang, dan semua medan butiran kawal selia berstruktur kosong. Tiada indikasi untuk dinilai dan tiada garis dasar keselamatan untuk dinilai melawannya pada masa ini.
 
-**To proceed, the following is needed:**
+**Untuk meneruskan, yang berikut diperlukan:**
 
-- **[Blocking]** Resolve the DrugBank ID mapping for Lincomycin Hydrochloride (search `DB01190` — the known DrugBank entry for lincomycin) to enable knowledge-graph scoring and unlock TxGNN prediction output.
-- **[Blocking]** Re-run the NPRA product database query to populate licence numbers, product names, dosage forms, and approved indication texts for all 20 registrations.
-- **[Blocking]** Download and parse the NPRA/TFDA package insert PDF to extract key warnings and contraindications — required before any safety screening step (currently marked as a Severity: Blocking data gap).
-- **[High]** Populate the mechanism of action (MOA) field by querying the DrugBank API once the DrugBank ID is confirmed — Lincomycin inhibits bacterial protein synthesis by binding to the 50S ribosomal subunit, but this must be sourced from structured data rather than background knowledge.
-- **[Pipeline]** After the above gaps are resolved, re-run the full TxGNN prediction pipeline (KG + DL + mapping steps) and regenerate the evidence pack to obtain `predicted_indications` before initiating a full repurposing evaluation.
+- **[Blocking]** Selesaikan pemetaan ID DrugBank untuk Lincomycin Hydrochloride (cari `DB01190` — entri DrugBank yang diketahui untuk linkomasin) untuk membolehkan pemeringkatan graf pengetahuan dan membuka keluaran ramalan TxGNN.
+- **[Blocking]** Jalankan semula pertanyaan pangkalan data produk NPRA untuk mengisi nombor lesen, nama produk, bentuk dos, dan teks indikasi yang diluluskan untuk semua 20 pendaftaran.
+- **[Blocking]** Muat turun dan urai PDF leaflet ubat NPRA/TFDA untuk mengeluarkan amaran utama dan keterangan bertentangan — diperlukan sebelum sebarang langkah pemeriksaan keselamatan (kini ditandakan sebagai jurang data Blocking).
+- **[High]** Isi medan mekanisme tindakan (MOA) dengan membuat pertanyaan kepada API DrugBank setelah ID DrugBank disahkan — Lincomycin menghalang sintesis protein bakteria dengan mengikat kepada subunit ribosomal 50S, tetapi ini mesti bersumber daripada data berstruktur dan bukannya pengetahuan latar belakang.
+- **[Pipeline]** Setelah jurang di atas diselesaikan, jalankan semula saluran paip ramalan TxGNN penuh (langkah KG + DL + pemetaan) dan hasilkan semula pakej bukti untuk mendapatkan `predicted_indications` sebelum memulakan penilaian penggunaan ubat ulang penuh.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

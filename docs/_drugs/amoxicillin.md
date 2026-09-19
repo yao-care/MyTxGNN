@@ -29,97 +29,96 @@ Tahap bukti: **L3** | Indikasi diramal: **8**
 
 </div>
 
-# Amoxicillin: From Bacterial Infections to Monoclonal Gammopathy
+# Amoxicillin: Dari Jangkitan Bakterial kepada Gammopatik Monoklonal
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Amoxicillin is a broad-spectrum aminopenicillin antibiotic widely used for treating bacterial infections of the respiratory, urinary, and gastrointestinal tracts, including *Helicobacter pylori* eradication regimens.
-The TxGNN model predicts it may be effective for **Monoclonal Gammopathy** — most specifically Immunoproliferative Small Intestinal Disease (IPSID), where antibiotic eradication of the bacterial antigenic driver produces disease remission.
-This direction is supported by **1 clinical trial** and **11 publications**, with the most compelling biological rationale concentrated in IPSID case series.
+Amoxicillin ialah antibiotik aminopenisilin spektrum luas yang digunakan secara meluas untuk merawat jangkitan bakterial pada saluran pernafasan, kemih, dan gastrousus, termasuk rejimen penghapusan *Helicobacter pylori*. Model TxGNN meramalkan ia mungkin berkesan untuk **Gammopatik Monoklonal** — paling khususnya Penyakit Usus Halus Imunoproliferatif (IPSID), di mana penghapusan antibiotoik pemandu antigen bakterial menghasilkan remisi penyakit. Arah ini disokong oleh **1 ujian klinikal** dan **11 penerbitan**, dengan rasional biologi yang paling menarik tertumpu dalam siri kes IPSID.
 
 ---
 
-## Quick Overview
+## Gambaran Keseluruhan Cepat
 
-| Item | Content |
+| Item | Kandungan |
 |------|---------|
-| Original Indication | Bacterial infections (respiratory, urinary, gastrointestinal tract; *H. pylori* eradication) |
-| Predicted New Indication | Monoclonal Gammopathy — specifically IPSID (Alpha-chain disease / Mediterranean lymphoma) |
-| TxGNN Prediction Score | 99.22% |
-| Evidence Level | L3 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 100 |
-| Recommended Decision | Proceed with Guardrails |
+| Petunjuk Asal | Jangkitan bakterial (saluran pernafasan, kemih, gastrousus; penghapusan *H. pylori*) |
+| Petunjuk Baru yang Diramalkan | Gammopatik Monoklonal — khususnya IPSID (Penyakit Rantai Alpha / Limfoma Mediterranean) |
+| Skor Ramalan TxGNN | 99.22% |
+| Tahap Bukti | L3 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 100 |
+| Keputusan yang Disyorkan | Teruskan dengan Langkah Penjagaan |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data was not retrieved in this Evidence Pack. Based on established pharmacological knowledge, amoxicillin is a beta-lactam antibiotic that inhibits bacterial cell wall synthesis by binding irreversibly to penicillin-binding proteins (PBPs), preventing peptidoglycan cross-linking and causing bactericidal activity against a broad range of gram-positive and gram-negative organisms. This mechanism is the essential foundation for its potential role in antigen-driven lymphoproliferative disease.
+Pada masa ini, data mekanisme tindakan terperinci tidak diambil dalam Pek Bukti ini. Berdasarkan pengetahuan farmakologi yang telah ditetapkan, amoxicillin ialah antibiotik beta-laktam yang merencat sintesis dinding sel bakterial dengan mengikat secara tidak boleh balik kepada protein pengikat penisilin (PBPs), mencegah silang-sambung peptidoglikan dan menyebabkan aktiviti bakterisidal terhadap pelbagai organisma positif gram dan negatif gram. Mekanisme ini ialah asas penting untuk peranannya yang berpotensi dalam penyakit limfoproliferatif yang didorong antigen.
 
-The biological bridge to monoclonal gammopathy centres on a specific subtype: **Immunoproliferative Small Intestinal Disease (IPSID)**, also known as Alpha-chain disease or Mediterranean lymphoma. In IPSID, persistent intestinal bacterial infection — particularly *Campylobacter jejuni* and related gram-negative organisms — drives abnormal clonal proliferation of IgA α-heavy-chain-secreting B cells, generating a detectable monoclonal immunoglobulin. When this bacterial antigenic driver is eradicated with antibiotics (tetracycline, amoxicillin ± metronidazole), early-stage disease (Stage A) can achieve durable complete remission without chemotherapy.
+Jambatan biologi kepada gammopatik monoklonal berpusat pada subtip tertentu: **Penyakit Usus Halus Imunoproliferatif (IPSID)**, juga dikenali sebagai Penyakit Rantai Alpha atau Limfoma Mediterranean. Dalam IPSID, jangkitan bakterial usus yang berterusan — khususnya *Campylobacter jejuni* dan organisma negatif gram berkaitan — mendorong proliferasi klonal abnormal sel-sel B yang mensekretkan rantai-berat IgA α, menghasilkan imunoglobulin monoklonal yang boleh dikesan. Apabila pemandu antigen bakterial ini dihapuskan dengan antibiotik (tetrasiklin, amoxicillin ± metronidazol), penyakit peringkat awal (Tahap A) boleh mencapai remisi lengkap yang tahan lama tanpa kemoterapi.
 
-This mechanism closely parallels the well-validated *H. pylori* eradication model for gastric MALT lymphoma, and multiple published case series have documented full or partial regression of IPSID following antibiotic therapy alone (PMID 9030995, 8988128, 20300878), making this one of the few repurposing opportunities in this class that is already partially clinically validated. **Critical caveat**: this biological rationale applies exclusively to early-stage IPSID and does **not** extend to MGUS, multiple myeloma, Waldenström's macroglobulinemia, or other monoclonal gammopathies, where amoxicillin has no established mechanistic role.
+Mekanisme ini selari dengan model penghapusan *H. pylori* yang telah disahkan untuk limfoma MALT gastrik, dan beberapa siri kes yang diterbitkan telah mendokumentasikan regresi penuh atau separa IPSID selepas terapi antibiotik sahaja (PMID 9030995, 8988128, 20300878), menjadikan ini salah satu peluang repurposing yang terbatas dalam kelas ini yang sudah pun sebahagiannya disahkan secara klinikal. **Kaveat kritikal**: rasional biologi ini terpakai secara eksklusif kepada IPSID peringkat awal dan **tidak** meluas kepada MGUS, myeloma berganda, makroglobulinemia Waldenström, atau gammopatik monoklonal lain, di mana amoxicillin tidak mempunyai peranan mekanis yang ditetapkan.
 
 ---
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT00062231](https://clinicaltrials.gov/study/NCT00062231) | N/A | Terminated | 351 | Prospective double-blind RCT comparing moxifloxacin monotherapy vs. ciprofloxacin + amoxicillin/clavulanate as oral empirical therapy for febrile neutropenia in low-risk cancer patients; terminated early without a definitive conclusion. Amoxicillin used as part of the comparator combination — not as a treatment for monoclonal gammopathy directly. |
+| [NCT00062231](https://clinicaltrials.gov/study/NCT00062231) | N/A | Ditamatkan | 351 | Ujian RCT buta dua hala prospektif membandingkan monoterapi moxifloxacin vs. ciprofloxacin + amoxicillin/clavulanate sebagai terapi empirikal lisan untuk neutropenia demam pada pesakit kanser risiko rendah; ditamatkan awal tanpa kesimpulan pasti. Amoxicillin digunakan sebagai sebahagian daripada kombinasi perbandingan — bukan sebagai rawatan untuk gammopatik monoklonal secara langsung. |
 
-> **Note**: No clinical trials specifically investigating amoxicillin for IPSID or monoclonal gammopathy are currently registered. The trial above (Relevance Grade C) provides only contextual background on amoxicillin use in a haematology-oncology setting.
+> **Nota**: Tiada ujian klinikal yang menyiasat secara khusus amoxicillin untuk IPSID atau gammopatik monoklonal sedang didaftar. Ujian di atas (Gred Relevansi C) hanya memberikan latar belakang kontekstual tentang penggunaan amoxicillin dalam tetapan onkologi-hematologi.
 
 ---
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|------|------|---------|---------|
-| [9030995](https://pubmed.ncbi.nlm.nih.gov/9030995/) | 1997 | Case Series | *Lancet* | Mediterranean lymphoma (IPSID) treated with antibiotics alone; documents complete regression of monoclonal B-cell disease after eradication therapy, establishing the antibiotic-treatment paradigm for early-stage IPSID |
-| [8988128](https://pubmed.ncbi.nlm.nih.gov/8988128/) | 1997 | Case Series | *Lancet* | Regression of immunoproliferative small intestinal disease following *H. pylori* eradication; directly supports the infection-driven clonal B-cell proliferation model |
-| [20300878](https://pubmed.ncbi.nlm.nih.gov/20300878/) | 2010 | Case Series | *J Gastrointest Cancer* | 20-year-old male with alpha-heavy-chain IPSID achieved complete clinical and endoscopic regression following *H. pylori* eradication antibiotic therapy, with resolution of mesenteric lymphadenopathy on CT |
-| [16253033](https://pubmed.ncbi.nlm.nih.gov/16253033/) | 2005 | Case Report | *Arch Pathol Lab Med* | Non-secretory IPSID variant (extranodal marginal zone B-cell lymphoma) of the distal small bowel; highlights diagnostic spectrum and histopathological subtypes relevant to defining antibiotic-responsive candidates |
-| [21908119](https://pubmed.ncbi.nlm.nih.gov/21908119/) | 2011 | Case Report | *Med Mal Infect* | *Rothia dentocariosa* pneumonia in an immunocompromised patient with plasma cell dyscrasia; amoxicillin used for infectious complication management in a monoclonal gammopathy context |
-| [35619805](https://pubmed.ncbi.nlm.nih.gov/35619805/) | 2022 | Case Report | *Front Public Health* | Disseminated nocardiosis caused by *Nocardia vulneris* in a patient with macroglobulinemia; amoxicillin/clavulanate identified as one of the susceptible antibiotic options |
-| [22092390](https://pubmed.ncbi.nlm.nih.gov/22092390/) | 2012 | Retrospective Comparative Study | *J Oral Pathol Med* | Comparative analysis of bisphosphonate-related ONJ in multiple myeloma vs. breast cancer; amoxicillin used as supportive antibiotic in standardised wound care protocol |
-| [20015614](https://pubmed.ncbi.nlm.nih.gov/20015614/) | 2010 | Case Series | *Int J Oral Maxillofac Surg* | Surgical management of bisphosphonate-induced ONJ in myeloma patients unresponsive to conservative therapy; amoxicillin used as prophylactic/supportive antibiotic |
-| [20513124](https://pubmed.ncbi.nlm.nih.gov/20513124/) | 2010 | Diagnostic Accuracy Study | *Am J Hematol* | High false-positive rate of Aspergillus galactomannan test in multiple myeloma patients; amoxicillin/clavulanate implicated as a cause of assay interference — clinically relevant for infection monitoring in this population |
-| [18639371](https://pubmed.ncbi.nlm.nih.gov/18639371/) | 2009 | Retrospective Study | *Br J Oral Maxillofac Surg* | Bisphosphonate-associated ONJ in myeloma: therapy discontinuation does not alter clinical course and may allow recurrence of bone pain and osteolytic progression |
+| [9030995](https://pubmed.ncbi.nlm.nih.gov/9030995/) | 1997 | Siri Kes | *Lancet* | Limfoma Mediterranean (IPSID) dirawat dengan antibiotik sahaja; mendokumentasikan regresi lengkap penyakit sel-B monoklonal selepas terapi penghapusan, menetapkan paradigma rawatan antibiotik untuk IPSID peringkat awal |
+| [8988128](https://pubmed.ncbi.nlm.nih.gov/8988128/) | 1997 | Siri Kes | *Lancet* | Regresi penyakit usus halus imunoproliferatif selepas penghapusan *H. pylori*; secara langsung menyokong model proliferasi klonal sel-B yang didorong jangkitan |
+| [20300878](https://pubmed.ncbi.nlm.nih.gov/20300878/) | 2010 | Siri Kes | *J Gastrointest Cancer* | Lelaki berusia 20 tahun dengan IPSID rantai-berat alpha mencapai remisi klinikal dan endoskopik lengkap selepas terapi antibiotik penghapusan *H. pylori*, dengan resolusi limfadenopati mesenterik pada CT |
+| [16253033](https://pubmed.ncbi.nlm.nih.gov/16253033/) | 2005 | Laporan Kes | *Arch Pathol Lab Med* | Varian IPSID tidak mensekretori (limfoma sel-B zon margin ekstranodal) usus halus distal; menunjukkan spektrum diagnostik dan subtip histopatologi yang relevan dengan menentukan calon responsif antibiotik |
+| [21908119](https://pubmed.ncbi.nlm.nih.gov/21908119/) | 2011 | Laporan Kes | *Med Mal Infect* | Pneumonia *Rothia dentocariosa* dalam pesakit imunokompromis dengan displasia plasma sel; amoxicillin digunakan untuk pengurusan komplikasi jangkitan dalam konteks gammopatik monoklonal |
+| [35619805](https://pubmed.ncbi.nlm.nih.gov/35619805/) | 2022 | Laporan Kes | *Front Public Health* | Nocardiosis tersebar yang disebabkan oleh *Nocardia vulneris* dalam pesakit dengan makroglobulinemia; amoxicillin/clavulanate dikenalpasti sebagai salah satu pilihan antibiotik yang terdedah |
+| [22092390](https://pubmed.ncbi.nlm.nih.gov/22092390/) | 2012 | Kajian Perbandingan Retrospektif | *J Oral Pathol Med* | Analisis perbandingan ONJ berkaitan bifosfonat dalam myeloma berganda vs. kanser payudara; amoxicillin digunakan sebagai antibiotik penyokong dalam protokol penjagaan luka standard |
+| [20015614](https://pubmed.ncbi.nlm.nih.gov/20015614/) | 2010 | Siri Kes | *Int J Oral Maxillofac Surg* | Pengurusan bedah ONJ yang disebabkan bifosfonat dalam pesakit myeloma yang tidak responsif terhadap terapi konservatif; amoxicillin digunakan sebagai antibiotik profilaksis/penyokong |
+| [20513124](https://pubmed.ncbi.nlm.nih.gov/20513124/) | 2010 | Kajian Ketepatan Diagnostik | *Am J Hematol* | Kadar positif palsu yang tinggi ujian galatomannan Aspergillus dalam pesakit myeloma berganda; amoxicillin/clavulanate yang terlibat sebagai penyebab gangguan ujian — relevan secara klinikal untuk pemantauan jangkitan dalam populasi ini |
+| [18639371](https://pubmed.ncbi.nlm.nih.gov/18639371/) | 2009 | Kajian Retrospektif | *Br J Oral Maxillofac Surg* | ONJ berkaitan bifosfonat dalam myeloma: penghentian terapi tidak mengubah perjalanan klinikal dan mungkin membenarkan berulangnya sakit tulang dan perkembangan osteolitik |
 
-> **Evidence Assessment**: The three IPSID/Mediterranean lymphoma papers (PMID 9030995, 8988128, 20300878) provide the most directly relevant and mechanistically compelling evidence. The remaining publications reflect amoxicillin use in secondary infection management or supportive care within haematological malignancy contexts, and do not constitute primary repurposing evidence.
-
----
-
-## Malaysia Market Information
-
-Amoxicillin is confirmed as marketed in Malaysia with 100 registered products. However, individual product registration details — including authorization numbers, product names, dosage forms, and approved indications — were not returned in this Evidence Pack.
-
-> **Action Required**: Retrieve full product listing from the Malaysia NPRA e-Search portal to confirm available formulations (oral, injectable, suspension), dosing strengths, and currently approved indications before proceeding.
+> **Penilaian Bukti**: Tiga kertas IPSID/limfoma Mediterranean (PMID 9030995, 8988128, 20300878) memberikan bukti yang paling berkaitan secara langsung dan menarik secara mekanis. Penerbitan selebihnya mencerminkan penggunaan amoxicillin dalam pengurusan jangkitan sekunder atau penjagaan penyokong dalam konteks keganasan hematologi, dan tidak membentuk bukti repurposing utama.
 
 ---
 
-## Safety Considerations
+## Maklumat Pasaran Malaysia
 
-Please refer to the package insert for safety information. Detailed warnings and contraindications data were not available in this Evidence Pack and should be retrieved directly from the NPRA-approved product labelling.
+Amoxicillin disahkan sebagai dipasarkan di Malaysia dengan 100 produk berdaftar. Walau bagaimanapun, butiran pendaftaran produk individu — termasuk nombor kebenaran, nama produk, bentuk dos, dan petunjuk yang diluluskan — tidak dikembalikan dalam Pek Bukti ini.
+
+> **Tindakan Diperlukan**: Ambil senarai produk lengkap daripada portal e-Search NPRA Malaysia untuk mengesahkan formulasi yang tersedia (lisan, injektor, ampaian), kekuatan dos, dan petunjuk yang diluluskan pada masa ini sebelum meneruskan.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Proceed with Guardrails**
+Sila rujuk sisipan pakej untuk maklumat keselamatan. Data amaran terperinci dan data kontraindikasi tidak tersedia dalam Pek Bukti ini dan harus diambil terus daripada labelan produk yang diluluskan NPRA.
 
-**Rationale:**
-Amoxicillin has a biologically plausible, partially validated mechanism for treating early-stage IPSID (Stage A) through eradication of the bacterial antigenic driver sustaining clonal B-cell proliferation — a paradigm directly analogous to *H. pylori* eradication for gastric MALT lymphoma, supported by published case series demonstrating durable disease regression. The scope is deliberately narrow: this recommendation applies to **IPSID only** and must not be extrapolated to other monoclonal gammopathies.
+---
 
-**To proceed, the following is needed:**
-- Retrieve MOA data from DrugBank API (DB01060) to formally document the mechanistic basis and confirm absence of direct anti-lymphoproliferative activity
-- Retrieve NPRA product label PDF to extract full warnings, contraindications, and currently approved indications for Malaysia-specific labelling
-- Define strict patient selection criteria: **early-stage IPSID (Stage A only)** — explicitly excluding MGUS, multiple myeloma, and Waldenström's macroglobulinemia from any expanded use proposal
-- Commission a focused systematic review of IPSID antibiotic therapy outcomes (amoxicillin vs. tetracycline vs. amoxicillin + metronidazole) to characterise the optimal regimen, dosing duration, and remission rates
-- Investigate regional epidemiology: IPSID / Mediterranean lymphoma has higher reported prevalence in Middle Eastern and some Southeast Asian populations, which may increase clinical relevance in the Malaysian context
-- Clarify TxGNN false-positive rate for the higher-ranked predictions (Ranks 1–5, all L5/Hold), as these appear to reflect knowledge-graph noise rather than genuine repurposing candidates, and refine the prediction pipeline accordingly
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Teruskan dengan Langkah Penjagaan**
+
+**Rasional:**
+Amoxicillin mempunyai mekanisme yang secara biologi munasabah, sebahagiannya disahkan untuk merawat IPSID peringkat awal (Tahap A) melalui penghapusan pemandu antigen bakterial yang mengekalkan proliferasi klonal sel-B — paradigma yang secara langsung analogi kepada penghapusan *H. pylori* untuk limfoma MALT gastrik, disokong oleh siri kes yang diterbitkan menunjukkan regresi penyakit yang tahan lama. Skop adalah dengan sengaja sempit: cadangan ini terpakai kepada **IPSID sahaja** dan mesti tidak digeneralisasikan kepada gammopatik monoklonal lain.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Ambil data MOA daripada API DrugBank (DB01060) untuk secara rasmi mendokumentasikan asas mekanis dan mengesahkan ketiadaan aktiviti anti-limfoproliferatif langsung
+- Ambil PDF label produk NPRA untuk mengeluarkan amaran penuh, kontraindikasi, dan petunjuk yang diluluskan pada masa ini untuk labelan khusus Malaysia
+- Tentukan kriteria pemilihan pesakit yang ketat: **IPSID peringkat awal (Tahap A sahaja)** — secara eksplisit mengecualikan MGUS, myeloma berganda, dan makroglobulinemia Waldenström daripada sebarang cadangan penggunaan yang diperluaskan
+- Suruh kajian sistematik yang tertumpu pada hasil terapi antibiotik IPSID (amoxicillin vs. tetrasiklin vs. amoxicillin + metronidazol) untuk mencirikan rejimen optimal, tempoh dos, dan kadar remisi
+- Siasat epidemiologi serantau: IPSID / Limfoma Mediterranean mempunyai prevalensi dilaporkan yang lebih tinggi dalam populasi Timur Tengah dan beberapa Asia Tenggara, yang mungkin meningkatkan relevansi klinikal dalam konteks Malaysia
+- Jelaskan kadar positif palsu TxGNN untuk ramalan kedudukan lebih tinggi (Kedudukan 1–5, semua L5/Tahan), kerana ini nampaknya mencerminkan bising grafik pengetahuan dan bukannya calon repurposing tulen, dan perhalusi saluran ramalan dengan sewajarnya
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

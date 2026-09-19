@@ -29,97 +29,98 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Zinc Oxide: From Topical Skin Protectant to Dermatitis
+# Seng Oksida: Daripada Agen Pelindung Kulit Topikal kepada Dermatitis
 
-## One-Sentence Summary
+## Ringkasan dalam Satu Ayat
 
-Zinc Oxide is a long-established OTC topical agent, primarily used as a skin protectant/barrier ingredient (e.g., diaper rash ointments, incontinence barrier creams). The TxGNN model ranks **Dermatitis** as its top predicted indication, supported by **24 clinical trials** and **20 publications** — though most of this evidence already documents zinc oxide's existing, well-known use in diaper/incontinence-associated dermatitis rather than a genuinely novel signal.
+Seng oksida adalah ejen topikal OTC yang telah lama ditubuhkan, digunakan terutamanya sebagai bahan pelindung/penghalang kulit (cth. salep ruam lampin, krim penghalang ketidakupayaan) — model TxGNN menempatkan **Dermatitis** sebagai indikasi yang diprediksi teratas, disokong oleh **24 ujian klinikal** dan **20 penerbitan** — walaupun sebahagian besar bukti ini sudah mendokumentasikan penggunaan seng oksida yang sedia ada dan terkenal untuk dermatitis lampin/berkaitan ketidakupayaan daripada isyarat yang benar-benar baru.
 
 ---
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
+| Perkara | Kandungan |
 |------|------|
-| Original Indication | Not specified in current dataset (no approved indication text or license detail available); zinc oxide is generally classified as a topical skin protectant/astringent |
-| Predicted New Indication | Dermatitis |
-| TxGNN Prediction Score | 0.00% (as reported — see data quality note below) |
-| Evidence Level | L2 (1 completed Phase 2/3 RCT identified) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 280 |
-| Recommended Decision | Hold |
+| Indikasi Asal | Tidak dinyatakan dalam set data semasa (tiada teks indikasi yang diluluskan atau perincian lesen yang tersedia); seng oksida secara amnya diklasifikasikan sebagai agen pelindung/astringen kulit topikal |
+| Indikasi Baru yang Diprediksi | Dermatitis |
+| Skor Ramalan TxGNN | 0.00% (seperti yang dilaporkan — lihat nota kualiti data di bawah) |
+| Paras Bukti | L2 (1 RCT Fasa 2/3 yang telah selesai dikenal pasti) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 280 |
+| Keputusan yang Disyorkan | Tahan |
 
-**Data quality note:** The TxGNN score for this rank-1 prediction is reported as 0.00%, which is inconsistent with it being ranked first. This should be verified against the raw model output before this candidate is used for prioritization.
-
----
-
-## Why is This Prediction Reasonable?
-
-Currently, detailed mechanism of action data for zinc oxide is not available (DrugBank query pending — DG002). Based on the evidence collected, zinc oxide is widely used as a topical skin protectant and mild astringent that forms a physical barrier on the skin surface, reducing exposure to moisture, irritants, and friction — this is directly reflected in the collected evidence itself, where the majority of trials involve commercial zinc oxide diaper-rash ointments (e.g., Desitin) and barrier creams.
-
-Importantly, the relationship between "original indication" and "predicted new indication" here is not a typical repurposing scenario: dermatitis (specifically diaper dermatitis and incontinence-associated dermatitis) is already zinc oxide's principal, long-standing clinical use, not a novel therapeutic hypothesis. The TxGNN prediction in this case appears to be re-identifying an established use rather than surfacing a new one, which should be factored into how this candidate is prioritized against genuinely novel repurposing opportunities.
+**Nota kualiti data:** Skor TxGNN untuk ramalan pangkat-1 ini dilaporkan sebagai 0.00%, yang tidak konsisten dengan penempatannya sebagai yang pertama. Ini harus disahkan dengan keluaran model mentah sebelum calon ini digunakan untuk penentuan keutamaan.
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Pada masa ini, data mekanisme tindakan terperinci untuk seng oksida tidak tersedia (pertanyaan DrugBank sedang diproses — DG002). Berdasarkan bukti yang dikumpulkan, seng oksida digunakan secara meluas sebagai agen pelindung kulit topikal dan astrigen ringan yang membentuk penghalang fizikal pada permukaan kulit, mengurangkan pendedahan kepada lembapan, pengacau, dan geseran — ini secara langsung ditunjukkan dalam bukti yang dikumpulkan itu sendiri, di mana majoriti ujian melibatkan salep ruam lampin seng oksida komersial (cth. Desitin) dan krim penghalang.
+
+Yang penting, hubungan antara "indikasi asal" dan "indikasi baru yang diprediksi" di sini bukan senario penggunaan semula ubat yang tipikal: dermatitis (khususnya dermatitis lampin dan dermatitis berkaitan ketidakupayaan) sudah merupakan penggunaan klinikal utama dan berkesinambungan lama seng oksida, bukan hipotesis terapeutik yang baru. Ramalan TxGNN dalam kes ini nampaknya mengenal pasti semula penggunaan yang telah ditubuhkan daripada mendedahkan satu yang baru, yang harus diambil kira dalam cara calon ini diutamakan terhadap peluang penggunaan semula ubat yang benar-benar baru.
+
+---
+
+## Bukti Ujian Klinikal
+
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT02080247](https://clinicaltrials.gov/study/NCT02080247) | Phase 3 | Completed | 142 | RCT comparing Calmoseptine vs. Desitin (zinc oxide) diaper rash paste for incontinence-associated dermatitis (IAD) in hospitalized adults/children |
-| [NCT02716415](https://clinicaltrials.gov/study/NCT02716415) | Phase 4 | Completed | 319 | RCT comparing Calmoseptine ointment vs. Desitin Maximum Strength 40% zinc oxide paste for diaper dermatitis in neonates/infants |
-| [NCT00219466](https://clinicaltrials.gov/study/NCT00219466) | Phase 4 | Completed | 112 | RCT of two marketed zinc oxide topical skin protectants for relief of diaper rash signs/symptoms |
-| [NCT03309059](https://clinicaltrials.gov/study/NCT03309059) | NA | Completed | 138 | Compared zinc oxide ointment vs. non-irritant barrier film for prevention of IAD in hospitalized elderly |
-| [NCT07186907](https://clinicaltrials.gov/study/NCT07186907) | NA | Completed | 44 | Compared hydrocolloid dressing vs. 40% zinc oxide cream for diaper dermatitis in NICU neonates/infants |
-| [NCT06134505](https://clinicaltrials.gov/study/NCT06134505) | NA | Completed | 93 | Compared bee-product barrier cream vs. zinc-oxide-containing barrier cream for diaper dermatitis |
-| [NCT05427760](https://clinicaltrials.gov/study/NCT05427760) | NA | Completed | 103 | Investigated effect of oxygen/airing on infant diaper dermatitis (zinc oxide as comparator) |
-| [NCT06800352](https://clinicaltrials.gov/study/NCT06800352) | NA | Completed | 45 | Investigated olive oil and centaury oil vs. standard care for diaper dermatitis management |
-| [NCT04173247](https://clinicaltrials.gov/study/NCT04173247) | NA | Completed | 28 | Pilot RCT of KeraStat cream vs. routine skin care for radiation-induced dermatitis (head/neck) |
-| [NCT06770374](https://clinicaltrials.gov/study/NCT06770374) | NA | Recruiting | 400 | RCT of a zinc-oxide adhesive securement device for central catheter fixation, assessing skin complications |
+| [NCT02080247](https://clinicaltrials.gov/study/NCT02080247) | Fasa 3 | Selesai | 142 | RCT membandingkan Calmoseptine vs. Desitin (seng oksida) salep ruam lampin untuk dermatitis berkaitan ketidakupayaan (IAD) dalam orang dewasa/kanak-kanak yang dirawat di hospital |
+| [NCT02716415](https://clinicaltrials.gov/study/NCT02716415) | Fasa 4 | Selesai | 319 | RCT membandingkan salep Calmoseptine vs. salep Desitin Kekuatan Maksimum 40% seng oksida untuk dermatitis lampin dalam bayi baru lahir/bayi muda |
+| [NCT00219466](https://clinicaltrials.gov/study/NCT00219466) | Fasa 4 | Selesai | 112 | RCT dua agen pelindung kulit topikal seng oksida yang dipasarkan untuk melegakan tanda/gejala ruam lampin |
+| [NCT03309059](https://clinicaltrials.gov/study/NCT03309059) | NA | Selesai | 138 | Membandingkan salep seng oksida vs. filem penghalang bukan pengacau untuk pencegahan IAD dalam orang tua yang dirawat di hospital |
+| [NCT07186907](https://clinicaltrials.gov/study/NCT07186907) | NA | Selesai | 44 | Membandingkan pembalut hidrokolloid vs. krim seng oksida 40% untuk dermatitis lampin dalam bayi baru lahir/bayi muda di NICU |
+| [NCT06134505](https://clinicaltrials.gov/study/NCT06134505) | NA | Selesai | 93 | Membandingkan krim penghalang berdasarkan produk lebah vs. krim penghalang yang mengandungi seng oksida untuk dermatitis lampin |
+| [NCT05427760](https://clinicaltrials.gov/study/NCT05427760) | NA | Selesai | 103 | Menyiasat kesan oksigen/pengudaraan pada dermatitis lampin bayi (seng oksida sebagai perbandingan) |
+| [NCT06800352](https://clinicaltrials.gov/study/NCT06800352) | NA | Selesai | 45 | Menyiasat minyak zaitun dan minyak centaury vs. penjagaan standard untuk pengurusan dermatitis lampin |
+| [NCT04173247](https://clinicaltrials.gov/study/NCT04173247) | NA | Selesai | 28 | RCT pelopor krim KeraStat vs. penjagaan kulit rutin untuk dermatitis yang diinduksi radiasi (kepala/leher) |
+| [NCT06770374](https://clinicaltrials.gov/study/NCT06770374) | NA | Merekrut | 400 | RCT peranti pengikat pelekat seng oksida untuk perakuan kateter pusat, menilai komplikasi kulit |
 
 ---
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [27841440](https://pubmed.ncbi.nlm.nih.gov/27841440/) | 2016 | Systematic Review (Cochrane) | Cochrane Database Syst Rev | Reviews interventions, including zinc oxide, for preventing/treating incontinence-associated dermatitis in adults |
-| [33960676](https://pubmed.ncbi.nlm.nih.gov/33960676/) | 2021 | Cluster RCT | International Wound Journal | Zinc oxide vs. acrylic terpolymer skin protectant regimens for treating established IAD in acute care |
-| [36717288](https://pubmed.ncbi.nlm.nih.gov/36717288/) | 2023 | RCT | Journal of Tissue Viability | Hydrocolloid crusting method vs. standard care (incl. zinc oxide) for IAD in acute care adults |
-| [34434272](https://pubmed.ncbi.nlm.nih.gov/34434272/) | 2021 | Animal Study | Experimental and Therapeutic Medicine | Rat model of IAD; assessed therapeutic effect of zinc oxide vs. skin protective film/silicone dressing |
-| [29901362](https://pubmed.ncbi.nlm.nih.gov/29901362/) | 2016 | Comparative Clinical Study | J Med Assoc Thai | Compared talcum powder vs. zinc oxide cream for prevention of irritant contact diaper dermatitis |
-| [17128840](https://pubmed.ncbi.nlm.nih.gov/17128840/) | 2006 | Multicenter Clinical Study | J Med Assoc Thai | Compared dexpanthenol vs. zinc oxide ointment for irritant diaper dermatitis from diarrhea |
-| [39081404](https://pubmed.ncbi.nlm.nih.gov/39081404/) | 2024 | Pilot Study | J Multidisciplinary Healthcare | Nursing program using zinc oxide + petroleum jelly for IAD prevention in older ICU patients |
-| [34747103](https://pubmed.ncbi.nlm.nih.gov/34747103/) | 2022 | Case Report | Pediatrics International | Hyperzincemia in an infant following topical zinc oxide use for diaper dermatitis |
-| [29181960](https://pubmed.ncbi.nlm.nih.gov/29181960/) | 2017 | Assessor-Blinded Trial | Minerva Pediatrica | Starch/glycyrretinic/zinc oxide/bisabolol cream for chronic mild-to-moderate atopic dermatitis in children |
-| [38099219](https://pubmed.ncbi.nlm.nih.gov/38099219/) | 2023 | Laboratory Study | Front Cell Infect Microbiol | Zinc oxide nano-whiskers show antibacterial and dermatitis-mitigating properties in vitro |
+| [27841440](https://pubmed.ncbi.nlm.nih.gov/27841440/) | 2016 | Kajian Sistematik (Cochrane) | Cochrane Database Syst Rev | Mengkaji intervensi, termasuk seng oksida, untuk mencegah/merawat dermatitis berkaitan ketidakupayaan pada orang dewasa |
+| [33960676](https://pubmed.ncbi.nlm.nih.gov/33960676/) | 2021 | RCT Gerombol | International Wound Journal | Rejimen agen pelindung kulit seng oksida vs. polimer terpolimer akril untuk merawat IAD yang sudah ditubuhkan dalam penjagaan akut |
+| [36717288](https://pubmed.ncbi.nlm.nih.gov/36717288/) | 2023 | RCT | Journal of Tissue Viability | Kaedah kerak hidrokolloid vs. penjagaan standard (termasuk seng oksida) untuk IAD dalam orang dewasa penjagaan akut |
+| [34434272](https://pubmed.ncbi.nlm.nih.gov/34434272/) | 2021 | Kajian Haiwan | Experimental and Therapeutic Medicine | Model tikus IAD; menilai kesan terapeutik seng oksida vs. filem pelindung kulit/pembalut silikon |
+| [29901362](https://pubmed.ncbi.nlm.nih.gov/29901362/) | 2016 | Kajian Klinikal Perbandingan | J Med Assoc Thai | Membandingkan serbuk talk vs. krim seng oksida untuk pencegahan dermatitis lampin kontak pengacau |
+| [17128840](https://pubmed.ncbi.nlm.nih.gov/17128840/) | 2006 | Kajian Klinikal Berbilang Pusat | J Med Assoc Thai | Membandingkan dexpanthenol vs. salep seng oksida untuk dermatitis lampin pengacau dari cirit-birit |
+| [39081404](https://pubmed.ncbi.nlm.nih.gov/39081404/) | 2024 | Kajian Pelopor | J Multidisciplinary Healthcare | Program kejururawatan menggunakan seng oksida + petroleum jelly untuk pencegahan IAD dalam pesakit ICU lebih tua |
+| [34747103](https://pubmed.ncbi.nlm.nih.gov/34747103/) | 2022 | Laporan Kes | Pediatrics International | Hiperzincemia pada bayi berikutan penggunaan seng oksida topikal untuk dermatitis lampin |
+| [29181960](https://pubmed.ncbi.nlm.nih.gov/29181960/) | 2017 | Ujian Penilai Buta | Minerva Pediatrica | Krim kanji/glisiretik/seng oksida/bisabolol untuk dermatitis atopik ringan hingga sederhana yang kronik pada kanak-kanak |
+| [38099219](https://pubmed.ncbi.nlm.nih.gov/38099219/) | 2023 | Kajian Makmal | Front Cell Infect Microbiol | Whisker nano seng oksida menunjukkan sifat antibakteria dan mitigasi dermatitis dalam vitro |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Detailed license/product-level data (authorization number, product name, dosage form, approved indication text) is not populated in the current dataset — all 5 sampled license records are empty. NPRA registration status confirms zinc oxide is **marketed** with **280 total registrations** on file, but product-level detail must be pulled directly from NPRA before it can be reported here.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information. Key warnings, contraindications, and drug-drug interaction data are all currently unavailable in this dataset (flagged as **Blocking** in the data-gap log — DG001), which prevents this candidate from entering the S1 safety pre-assessment stage.
+Data terperinci peringkat lesen/produk (nombor kebenaran, nama produk, bentuk dos, teks indikasi yang diluluskan) tidak dipenuhi dalam set data semasa — semua 5 rekod lesen yang disampel kosong. Status pendaftaran NPRA mengesahkan seng oksida **dipasarkan** dengan **280 jumlah pendaftaran** dalam fail, tetapi perincian peringkat produk mesti ditarik terus dari NPRA sebelum ia boleh dilaporkan di sini.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila rujuk sisipan pakej untuk maklumat keselamatan. Data amaran utama, kontraindikasi, dan interaksi ubat-ubat semuanya tidak tersedia pada masa ini dalam set data ini (ditandakan sebagai **Menghalang** dalam log jurang data — DG001), yang menghalang calon ini daripada memasuki peringkat pra-penilaian keselamatan S1.
 
-**Rationale:**
-While zinc oxide has a moderate evidentiary base for dermatitis-related uses (L2, including one completed Phase 3 RCT and a Cochrane systematic review), the complete absence of safety data (warnings, contraindications, DDI) is a **Blocking** gap that prevents progression to the S1 safety evaluation stage. Additionally, this prediction largely re-identifies zinc oxide's already-established use rather than surfacing a genuinely novel indication.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert warnings and contraindications (DG001, Blocking — download and parse label PDF)
-- DrugBank mechanism-of-action data (DG002)
-- Verification of the anomalous 0.00% TxGNN score for this rank-1 candidate
-- Malaysia license/product-level detail (authorization numbers, approved indication text) currently missing despite 280 registrations on file
-- Relevance grading completion for the "pending" clinical trials and literature entries to confirm true signal strength
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Alasan:**
+Walaupun seng oksida mempunyai asas bukti yang sederhana untuk penggunaan berkaitan dermatitis (L2, termasuk satu RCT Fasa 3 yang telah selesai dan kajian sistematik Cochrane), ketiadaan lengkap data keselamatan (amaran, kontraindikasi, DDI) adalah jurang **Menghalang** yang menghalang kemajuan ke peringkat penilaian keselamatan S1. Selain itu, ramalan ini sebahagian besarnya mengenal pasti semula penggunaan yang telah ditubuhkan seng oksida daripada mendedahkan indikasi yang benar-benar baru.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Amaran sisipan pakej TFDA/NPRA dan kontraindikasi (DG001, Menghalang — muat turun dan analisis PDF label)
+- Data mekanisme tindakan DrugBank (DG002)
+- Pengesahan skor TxGNN anomali 0.00% untuk calon pangkat-1 ini
+- Perincian peringkat lesen/produk Malaysia (nombor kebenaran, teks indikasi yang diluluskan) yang sedang hilang walaupun 280 pendaftaran dalam fail
+- Penyiapan penggredan relevansi untuk entri ujian klinikal dan kesusasteraan "menunggu" untuk mengesahkan kekuatan isyarat sebenar
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,74 +29,75 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Letermovir: From Cytomegalovirus (CMV) Prophylaxis to Vulvovaginal Candidiasis
+# Letermovir: Dari Profilaksis Sitomegalovirus (CMV) ke Candidiasis Vulvovaginal
 
-## One-Sentence Summary
+## Ringkasan Satu Kalimat
 
-Letermovir is a CMV terminase complex inhibitor clinically used for cytomegalovirus (CMV) prophylaxis after allogeneic hematopoietic stem cell transplantation. The TxGNN model predicts it may be effective for **Vulvovaginal Candidiasis**, but currently **no clinical trials and no publications** support this direction — the prediction rests on knowledge-graph similarity alone.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not recorded in the structured registry field (data gap); known clinical use is Cytomegalovirus (CMV) prophylaxis in allogeneic HSCT recipients |
-| Predicted New Indication | Vulvovaginal Candidiasis |
-| TxGNN Prediction Score | 99.88% |
-| Evidence Level | L5 (model prediction only, no supporting studies) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
-| Recommended Decision | Hold |
+Letermovir adalah penghambat kompleks terminase CMV yang digunakan secara klinis untuk profilaksis sitomegalovirus (CMV) setelah transplantasi sel induk hematopoietik allogenik. Model TxGNN memprediksi bahwa ini mungkin efektif untuk **Candidiasis Vulvovaginal**, tetapi saat ini **tidak ada uji klinis dan tidak ada publikasi** yang mendukung arah ini — prediksi didasarkan semata-mata pada kesamaan jaringan pengetahuan.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Ikhtisar Cepat
 
-Currently, detailed mechanism of action data is not available in the structured record. Based on known pharmacological information, Letermovir inhibits the CMV terminase complex (pUL51/pUL56/pUL89), blocking cytomegalovirus DNA packaging and cleavage. It has proven efficacy for CMV prophylaxis after allogeneic HSCT.
-
-This mechanism has no known or plausible overlap with the pathophysiology of vulvovaginal candidiasis, a fungal infection driven by targets such as ergosterol synthesis, fungal cell wall chitin, and biofilm formation. There is no mechanistic bridge between a viral DNA-packaging inhibitor and antifungal activity.
-
-Given the very high TxGNN score (99.88%) combined with the complete absence of mechanistic rationale, clinical trials, or literature, this prediction should be treated as a **high-probability false positive** arising from pure knowledge-graph embedding similarity rather than a biologically grounded repurposing candidate.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Item | Konten |
+|------|--------|
+| Indikasi Asli | Tidak tercatat dalam bidang registri terstruktur (kesenjangan data); penggunaan klinis yang diketahui adalah pencegahan sitomegalovirus (CMV) pada penerima transplantasi sel induk hematopoietik allogenik |
+| Indikasi Baru yang Diprediksi | Candidiasis Vulvovaginal |
+| Skor Prediksi TxGNN | 99.88% |
+| Tahap Bukti | L5 (prediksi model saja, tidak ada studi pendukung) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Jumlah Registrasi | 2 |
+| Keputusan yang Direkomendasikan | Tunda |
 
 ---
 
-## Literature Evidence
+## Mengapa Prediksi Ini Masuk Akal?
 
-Currently no related literature available.
+Saat ini, data mekanisme aksi terperinci tidak tersedia dalam catatan terstruktur. Berdasarkan informasi farmakologis yang diketahui, Letermovir menghambat kompleks terminase CMV (pUL51/pUL56/pUL89), memblokir pengemasan dan pembelahan DNA sitomegalovirus. Ini telah terbukti efektif untuk profilaksis CMV setelah transplantasi sel induk hematopoietik allogenik.
 
----
+Mekanisme ini tidak memiliki tumpang tindih yang diketahui atau masuk akal dengan patofisiologi candidiasis vulvovaginal, infeksi jamur yang didorong oleh target seperti sintesis ergosterol, kitin dinding sel jamur, dan pembentukan biofilm. Tidak ada jembatan mekanis antara penghambat pengemasan DNA virus dan aktivitas antijamur.
 
-## Malaysia Market Information
-
-Letermovir has 2 active registrations on file with NPRA (Malaysia), market status "Marketed." Product-level details (authorization number, product name, dosage form, approved indication text) are not available in the current data extract and require direct retrieval from NPRA records.
+Mengingat skor TxGNN yang sangat tinggi (99.88%) dikombinasikan dengan ketiadaan total rasional mekanis, uji klinis, atau literatur, prediksi ini harus diperlakukan sebagai **positif palsu dengan probabilitas tinggi** yang timbul dari kesamaan penyisipan jaringan pengetahuan murni daripada kandidat repurposing yang didasarkan secara biologis.
 
 ---
 
-## Safety Considerations
+## Bukti Uji Klinis
 
-Please refer to the package insert for safety information.
+Saat ini tidak ada uji klinis terkait yang terdaftar.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Hold**
+Saat ini tidak ada literatur terkait yang tersedia.
 
-**Rationale:**
-No clinical trials or literature support this indication, and the known mechanism of action shows no plausible link to candidiasis pathophysiology — the prediction cannot pass initial mechanistic or evidentiary screening.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert warnings and contraindications (currently blocking — DG001)
-- Confirmed original indication and detailed MOA from DrugBank (DG002)
-- Any preclinical or mechanistic evidence linking terminase inhibition to antifungal activity, should this candidate be revisited
-- Full product-level Malaysia registration details (license numbers, approved indication text)
+## Informasi Pasaran Malaysia
+
+Letermovir memiliki 2 registrasi aktif dalam file dengan NPRA (Malaysia), status pasaran "Dipasarkan." Detail tingkat produk (nomor otorisasi, nama produk, bentuk dosis, teks indikasi yang disetujui) tidak tersedia dalam ekstrak data saat ini dan memerlukan pengambilan langsung dari catatan NPRA.
+
+---
+
+## Pertimbangan Keselamatan
+
+Silakan merujuk ke sisipan paket untuk informasi keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Selanjutnya
+
+**Keputusan: Tunda**
+
+**Dasar Pemikiran:**
+Tidak ada uji klinis atau literatur yang mendukung indikasi ini, dan mekanisme aksi yang diketahui menunjukkan tidak ada tautan yang masuk akal untuk patofisiologi candidiasis — prediksi tidak dapat melewati penyaringan mekanistik atau bukti awal.
+
+**Untuk melanjutkan, berikut ini diperlukan:**
+- Peringatan sisipan paket TFDA/NPRA dan kontraindikasi (saat ini memblokir — DG001)
+- Indikasi asli yang dikonfirmasi dan MOA terperinci dari DrugBank (DG002)
+- Bukti pra-klinis atau mekanistik apa pun yang menghubungkan penghambatan terminase ke aktivitas antijamur, harus kandidat ini ditinjau kembali
+- Detail registrasi Malaysia tingkat produk lengkap (nomor lisensi, teks indikasi yang disetujui)
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,86 +29,87 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Bilastine: Drug Repurposing Evaluation — Awaiting Predictions
+# Bilastine: Penilaian Repurposing Ubat — Menunggu Ramalan
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Bilastine is a second-generation H1-antihistamine registered in Malaysia with 5 active authorizations, primarily used for symptomatic treatment of allergic rhinitis and urticaria. The TxGNN model has **not yet generated any predicted new indications** for this drug. **No clinical trial or literature evidence** has been collected for repurposing candidates, and critical data gaps remain.
+Bilastine ialah antihistamin H1 generasi kedua yang didaftarkan di Malaysia dengan 5 kelulusan aktif, digunakan terutamanya untuk rawatan simptomatik rinitis alergik dan urtikaria. Model TxGNN **belum menjana sebarang ramalan petunjuk baharu** untuk ubat ini. **Tiada bukti percubaan klinikal atau literatur** telah dikumpulkan untuk calon repurposing, dan jurang data kritikal masih tinggal.
 
 ---
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Not available in current data |
-| Predicted New Indication | None (no TxGNN predictions generated) |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 — Model prediction not yet available |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 5 |
-| Recommended Decision | **Hold** |
+| Petunjuk Asal | Tidak tersedia dalam data semasa |
+| Petunjuk Baharu yang Diramalkan | Tiada (tiada ramalan TxGNN dijana) |
+| Skor Ramalan TxGNN | T/A |
+| Tahap Bukti | L5 — Ramalan model belum tersedia |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 5 |
+| Keputusan yang Disyorkan | **Tunggu** |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action (MOA) data is not available in the evidence pack. Based on known pharmacological information, Bilastine is a second-generation, non-sedating H1-antihistamine that selectively blocks peripheral histamine H1 receptors. It is clinically used for the symptomatic relief of allergic rhinoconjunctivitis and urticaria (hives).
+Pada masa ini, data mekanisme tindakan (MOA) terperinci tidak tersedia dalam pakej bukti. Berdasarkan maklumat farmakologi yang diketahui, Bilastine ialah antihistamin H1 generasi kedua, bukan penenang, yang menghalang secara selektif reseptor histamin H1 periferal. Ia digunakan secara klinikal untuk pelepasan simptomatik rinitis alergik konjunktivitis dan urtikaria (gatal-gatal).
 
-No TxGNN predictions have been generated for Bilastine at this time. This may be due to incomplete mapping between the drug's DrugBank ID (DB11591) and nodes in the TxGNN knowledge graph, or the drug may not have met the scoring thresholds for any candidate disease indications. Without predictions, no mechanistic plausibility assessment can be performed.
+Tiada ramalan TxGNN telah dijana untuk Bilastine pada masa ini. Ini mungkin disebabkan oleh pemetaan yang tidak lengkap antara ID DrugBank ubat (DB11591) dan nod dalam graf pengetahuan TxGNN, atau ubat mungkin tidak memenuhi ambang pemarkahan untuk sebarang petunjuk penyakit calon. Tanpa ramalan, tiada penilaian kebolehkepercayaan mekanik dapat dilakukan.
 
-Before a repurposing evaluation can proceed, the TxGNN prediction pipeline must be re-run or debugged to determine why no candidate indications were produced for this drug.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for repurposing candidates, as no new indications have been predicted.
+Sebelum penilaian repurposing dapat diteruskan, saluran paip ramalan TxGNN mesti dijalankan semula atau disahkan untuk menentukan mengapa tiada petunjuk calon telah dihasilkan untuk ubat ini.
 
 ---
 
-## Literature Evidence
+## Bukti Percubaan Klinikal
 
-Currently no related literature available for repurposing candidates, as no new indications have been predicted.
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan untuk calon repurposing, kerana tiada petunjuk baharu telah diramalkan.
 
 ---
 
-## Malaysia Market Information
+## Bukti Literatur
 
-5 authorizations are recorded in the NPRA database, but detailed product information has not yet been populated in the evidence pack.
+Pada masa ini tiada literatur berkaitan tersedia untuk calon repurposing, kerana tiada petunjuk baharu telah diramalkan.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+---
+
+## Maklumat Pasaran Malaysia
+
+5 kelulusan dicatat dalam pangkalan data NPRA, tetapi maklumat produk terperinci belum diisi dalam pakej bukti.
+
+| Nombor Kelulusan | Nama Produk | Bentuk Dos | Petunjuk yang Diluluskan |
 |------|------|------|------|
-| *(Data pending)* | *(Data pending)* | *(Data pending)* | *(Data pending)* |
+| *(Data menunggu)* | *(Data menunggu)* | *(Data menunggu)* | *(Data menunggu)* |
 
-> **Note:** License detail fields are currently empty. Please retrieve full product information from the [NPRA Quest3+ database](https://quest3plus.bpfk.gov.my/) to complete this section.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-> **Data Gaps Identified:**
-> - TFDA/NPRA package insert warnings and contraindications have not been parsed (Severity: **Blocking** — cannot proceed to Stage 1 safety assessment)
-> - Drug–drug interaction data not found in current query
+> **Nota:** Medan butir lesen sedang kosong. Sila ambil maklumat produk penuh daripada [pangkalan data NPRA Quest3+](https://quest3plus.bpfk.gov.my/) untuk melengkapkan bahagian ini.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-**Rationale:**
-No TxGNN-predicted indications exist for Bilastine at this time, and multiple blocking data gaps prevent evaluation from proceeding. The evidence pack lacks MOA data, approved indication text, package insert safety information, and — most critically — any repurposing predictions to evaluate.
+> **Jurang Data yang Dikenal Pasti:**
+> - Amaran sisipan pakej TFDA/NPRA dan kontraindikasi belum dianalisis (Keterukan: **Menghalang** — tidak dapat meneruskan ke penilaian keselamatan Tahap 1)
+> - Data interaksi ubat–ubat tidak ditemui dalam pertanyaan semasa
 
-**To proceed, the following is needed:**
+---
 
-1. **Re-run TxGNN prediction pipeline** — Verify that Bilastine (DB11591) is correctly mapped in the knowledge graph (`node.csv` / `kg.csv`) and re-execute `run_kg_prediction.py` to generate candidate indications
-2. **Populate NPRA license details** — Retrieve product names, dosage forms, and approved indication text from the NPRA Quest3+ database for all 5 registrations
-3. **Obtain MOA data** — Query DrugBank API for Bilastine's mechanism of action, targets, and pharmacodynamics
-4. **Parse package insert** — Download and extract warnings, contraindications, and adverse reactions from the official package insert (Blocking severity — required for Stage 1 safety assessment)
-5. **Query DDI databases** — Re-attempt drug–drug interaction search once DrugBank data is fully integrated
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tunggu**
+
+**Alasan:**
+Tiada petunjuk yang diramalkan TxGNN wujud untuk Bilastine pada masa ini, dan pelbagai jurang data yang menghalang mencegah penilaian daripada diteruskan. Pakej bukti kekurangan data MOA, teks petunjuk yang diluluskan, maklumat keselamatan sisipan pakej, dan — yang paling kritikal — sebarang ramalan repurposing untuk dinilai.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+
+1. **Jalankan semula saluran paip ramalan TxGNN** — Sahkan bahawa Bilastine (DB11591) dipetakan dengan betul dalam graf pengetahuan (`node.csv` / `kg.csv`) dan jalankan semula `run_kg_prediction.py` untuk menjana petunjuk calon
+2. **Isi butir lesen NPRA** — Ambil nama produk, bentuk dos, dan teks petunjuk yang diluluskan daripada pangkalan data NPRA Quest3+ untuk semua 5 pendaftaran
+3. **Dapatkan data MOA** — Soal API DrugBank untuk mekanisme tindakan Bilastine, sasaran, dan farmakodinamik
+4. **Analisis sisipan pakej** — Muat turun dan ekstrak amaran, kontraindikasi, dan tindak balas buruk daripada sisipan pakej rasmi (keterukan menghalang — diperlukan untuk penilaian keselamatan Tahap 1)
+5. **Soal pangkalan data DDI** — Coba semula carian interaksi ubat–ubat apabila data DrugBank telah disepadukan sepenuhnya
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,132 +29,133 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Avelumab: From Merkel Cell Carcinoma to Human Herpesvirus 8-Related Tumor
+# Avelumab: Daripada Karsinoma Sel Merkel hingga Tumor Berkaitan Human Herpesvirus 8
 
 ---
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Avelumab is a fully human anti-PD-L1 monoclonal antibody (immune checkpoint inhibitor), approved for Merkel cell carcinoma and as first-line maintenance therapy for locally advanced or metastatic urothelial carcinoma following platinum-based chemotherapy.
-The TxGNN model predicts it may be effective for **Human Herpesvirus 8-Related Tumor**,
-with **0 clinical trials** and **0 publications** currently supporting this specific direction.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Merkel Cell Carcinoma / Urothelial Carcinoma (referenced in prediction rationale; licence record fields unpopulated) |
-| Predicted New Indication | Human Herpesvirus 8-Related Tumor |
-| TxGNN Prediction Score | 99.97% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+Avelumab adalah antibodi monoklon anti-PD-L1 manusia penuh (perencat titik pemeriksaan imuniti), diluluskan untuk karsinoma sel Merkel dan sebagai terapi penyelenggaraan lini pertama untuk karsinoma urotelial tempatan lanjut atau bermetastasis berikutan kemoterapu berasaskan platinum.
+Model TxGNN meramalkan ia mungkin berkesan untuk **Tumor Berkaitan Human Herpesvirus 8**,
+dengan **0 uji klinis** dan **0 publikasi** yang kini menyokong arah khusus ini.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Ikhtisar Cepat
 
-Detailed mechanism of action data is not available in this Evidence Pack. Based on known information, Avelumab is a fully human IgG1 anti-PD-L1 monoclonal antibody that blocks the PD-1/PD-L1 immune checkpoint interaction, thereby restoring T cell-mediated anti-tumour surveillance. Its proven clinical efficacy in Merkel cell carcinoma (MCC) and urothelial carcinoma (UC) — both PD-L1-expressing malignancies — establishes the immunological framework from which the TxGNN knowledge graph extrapolates.
-
-Human herpesvirus 8 (HHV-8) is the causative oncovirus behind Kaposi sarcoma and primary effusion lymphoma. Viral oncoproteins (e.g., vFLIP, K1) may transcriptionally upregulate PD-L1 on tumour cells, creating an immune-evasive microenvironment that PD-L1 blockade could theoretically reverse. At the class level, Pembrolizumab (another PD-1/PD-L1 inhibitor) has been explored in Phase 2 trials for Kaposi sarcoma, providing indirect precedent that this checkpoint axis is biologically relevant in HHV-8 tumours.
-
-However, no specific clinical or preclinical data exists for Avelumab in HHV-8-related tumours. The high TxGNN score (99.97%, model rank #736) most likely reflects knowledge graph node clustering between "PD-L1 inhibitor" and "virally-driven tumour with immune evasion", rather than direct experimental evidence. Without supporting data, this prediction cannot be responsibly extrapolated from Avelumab's approved indications at this time.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Item | Kandungan |
+|------|-----------|
+| Indikasi Asal | Karsinoma Sel Merkel / Karsinoma Urotelial (dirujuk dalam rasional ramalan; medan rekod lesen tidak diisi) |
+| Indikasi Baru Diramalkan | Tumor Berkaitan Human Herpesvirus 8 |
+| Skor Ramalan TxGNN | 99.97% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan Disyorkan | Tunggu |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available.
+Data mekanisme tindakan terperinci tidak tersedia dalam Pakej Bukti ini. Berdasarkan maklumat yang diketahui, avelumab adalah antibodi monoklon IgG1 anti-PD-L1 manusia penuh yang menyekat interaksi titik pemeriksaan imuniti PD-1/PD-L1, dengan demikian memulihkan pengawasan anti-tumor yang dimediasi sel T. Keberhasilan klinis yang terbukti dalam karsinoma sel Merkel (MCC) dan karsinoma urotelial (UC) — kedua-duanya malignansi yang mengekspres PD-L1 — menetapkan kerangka kerja imunologi dari mana graf pengetahuan TxGNN berekspolasi.
+
+Human herpesvirus 8 (HHV-8) adalah virus onkogenik penyebab sarkoma Kaposi dan limfoma keluaran primer. Onkoprotein viral (cth., vFLIP, K1) mungkin meningkatkan transkripsi PD-L1 pada sel tumor secara upregulasi, menciptakan mikro persekitaran anti-tumor yang tahan terhadap imuniti yang penyekat PD-L1 secara teorinya boleh membalikkan. Pada peringkat kelas, pembrolizumab (perencat PD-1/PD-L1 lain) telah diterokai dalam uji klinis Fasa 2 untuk sarkoma Kaposi, memberikan preseden tidak langsung bahawa paksi titik pemeriksaan ini relevan secara biologi dalam tumor HHV-8.
+
+Walau bagaimanapun, tiada data klinis atau preklinik khusus wujud untuk avelumab dalam tumor berkaitan HHV-8. Skor TxGNN yang tinggi (99.97%, pangkat model #736) kemungkinan besar mencerminkan pengelompokan nod graf pengetahuan antara "perencat PD-L1" dan "tumor yang didorong oleh virus dengan pengelakan imuniti", bukannya bukti eksperimental langsung. Tanpa data sokongan, ramalan ini tidak boleh diperluas dengan bertanggungjawab daripada indikasi yang diluluskan avelumab pada masa ini.
 
 ---
 
-## Malaysia Market Information
+## Bukti Uji Klinis
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------------------|-------------|-------------|---------------------|
+Pada masa ini tiada uji klinis berkaitan yang didaftarkan.
+
+---
+
+## Bukti Kesusastraan
+
+Pada masa ini tiada kesusastraan berkaitan yang tersedia.
+
+---
+
+## Maklumat Pasaran Malaysia
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
+|-----------------|-----------|-----------|----------------------|
 | — | — | — | — |
 
-> The Evidence Pack records 1 active licence and market status as "Marketed", but all licence detail fields (authorization number, product name, dosage form, approved indication) were not populated in this data extract. Please verify complete registration details directly via the **National Pharmaceutical Regulatory Agency (NPRA) Malaysia** database.
+> Pakej Bukti merekodkan 1 lesen aktif dan status pasaran sebagai "Dipasarkan", namun semua medan perincian lesen (nombor kebenaran, nama produk, bentuk dos, indikasi yang diluluskan) tidak diisi dalam ekstrak data ini. Sila sahkan maklumat pendaftaran lengkap secara langsung melalui pangkalan data **Agensi Peraturan Farmaseutikal Kebangsaan (NPRA) Malaysia**.
 
 ---
 
-## All Predicted Indications — Summary
+## Semua Indikasi Diramalkan — Ringkasan
 
-This is a multi-indication candidate pack (TW-DB11945-multi). The following table summarises all 10 TxGNN predictions and their current evidence status:
+Ini adalah pakej calon multi-indikasi (TW-DB11945-multi). Jadual berikut merumuskan semua 10 ramalan TxGNN dan status bukti semasa mereka:
 
-| Rank | Disease | TxGNN Score | KG Rank | Evidence Level | Recommendation |
-|------|---------|------------|---------|----------------|----------------|
-| 1 | Human Herpesvirus 8-Related Tumor | 99.97% | #736 | L5 | Hold |
-| 2 | Middle Ear Neuroendocrine Tumor | 99.97% | #742 | L5 | Hold |
-| 3 | Malignant Cutaneous Granular Cell Skin Tumor | 99.97% | #810 | L5 | Hold |
-| 4 | Ectomesenchymoma | 99.97% | #829 | L5 | Hold |
-| 5 | Adenosine Deaminase Deficiency | 99.95% | #1143 | L5 | Hold |
-| 6 | Reticular Dysgenesis | 99.94% | #1241 | L5 | Hold |
-| 7 | Immunoerythromyeloid Hypoplasia | 99.94% | #1291 | L5 | Hold |
-| 8 | Non-Severe Combined Immunodeficiency | 99.92% | #1717 | L5 | Hold |
-| 9 | Prostatic Urethra Urothelial Carcinoma | 99.92% | #1745 | L4 | Research Question |
-| 10 | Kidney Pelvis Sarcomatoid Transitional Cell Carcinoma | 99.91% | #1765 | L4 | Research Question |
+| Pangkat | Penyakit | Skor TxGNN | Pangkat KG | Tahap Bukti | Cadangan |
+|---------|---------|-----------|-----------|------------|---------|
+| 1 | Tumor Berkaitan Human Herpesvirus 8 | 99.97% | #736 | L5 | Tunggu |
+| 2 | Tumor Neuroendokrin Telinga Tengah | 99.97% | #742 | L5 | Tunggu |
+| 3 | Tumor Kulit Sel Granular Berkaitan Kulit Ganas | 99.97% | #810 | L5 | Tunggu |
+| 4 | Ektomesenkimoma | 99.97% | #829 | L5 | Tunggu |
+| 5 | Kekurangan Deaminase Adenosin | 99.95% | #1143 | L5 | Tunggu |
+| 6 | Displasia Retikular | 99.94% | #1241 | L5 | Tunggu |
+| 7 | Hipoplasia Imunoeritromieloid | 99.94% | #1291 | L5 | Tunggu |
+| 8 | Imunodefisiensi Gabungan Tidak Teruk | 99.92% | #1717 | L5 | Tunggu |
+| 9 | Karsinoma Sel Urostelial Uretra Prostatik | 99.92% | #1745 | L4 | Soalan Penyelidikan |
+| 10 | Karsinoma Sel Transisional Sarcomatoid Pelvis Buah Pinggang | 99.91% | #1765 | L4 | Soalan Penyelidikan |
 
-**Key observations across the prediction set:**
+**Pemerhatian utama merentas set ramalan:**
 
-- **Ranks 1–4 (oncology):** All involve rare tumours (HHV-8, middle ear NET, malignant granular cell tumour, ectomesenchymoma) with plausible but unsubstantiated PD-L1 rationale. Zero supporting evidence found.
-- **Ranks 5–8 (non-malignant immune deficiency):** ADA deficiency, reticular dysgenesis, immunoerythromyeloid hypoplasia, and non-SCID are non-neoplastic conditions. PD-L1 inhibition lacks any mechanistic target in these diseases, and application could carry safety risks. These predictions likely reflect systematic over-clustering of immune-pathway nodes in the KG model.
-- **Ranks 9–10 (urothelial carcinoma subtypes — strongest biological rationale):** Both are histological subtypes of urothelial carcinoma (UC), directly connected to Avelumab's JAVELIN Bladder 100-approved indication. Rank 10 additionally has 1 observational study (NCT05431777, N=79, completed) evaluating Avelumab in Japanese UC patients, providing initial real-world data. These two candidates merit prioritised follow-up.
-
----
-
-**Supporting Trial for Rank 10:**
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|-------------|-------|--------|------------|--------------|
-| [NCT05431777](https://clinicaltrials.gov/study/NCT05431777) | N/A (Observational) | Completed | 79 | Retrospective multicentre study evaluating treatment patterns, safety, and outcomes of first-line Avelumab maintenance in Japanese patients with locally advanced or metastatic urothelial carcinoma. Provides descriptive real-world data; not a controlled efficacy trial for the sarcomatoid subtype specifically. |
+- **Pangkat 1–4 (onkologi):** Semua melibatkan tumor jarang (HHV-8, NET telinga tengah, tumor sel granular ganas, ektomesenkimoma) dengan rasional PD-L1 yang munasabah tetapi tidak terbukti. Tiada bukti sokongan ditemui.
+- **Pangkat 5–8 (kekurangan imuniti bukan ganas):** Kekurangan ADA, displasia retikular, hipoplasia imunoeritromieloid, dan non-SCID adalah keadaan bukan neoplastik. Perencatan PD-L1 tidak mempunyai sasaran mekanistik dalam penyakit ini, dan aplikasi boleh membawa risiko keselamatan. Ramalan ini kemungkinan besar mencerminkan lebihan pengelompokan nod laluan imuniti dalam model KG secara sistematik.
+- **Pangkat 9–10 (suburi karsinoma urotelial — rasional biologi paling kuat):** Kedua-duanya adalah subtipe histologi karsinoma urotelial (UC), berhubung langsung dengan indikasi yang diluluskan JAVELIN Bladder 100 avelumab. Pangkat 10 tambahan mempunyai 1 kajian pemerhatian (NCT05431777, N=79, selesai) menilai avelumab dalam pesakit UC Jepun, memberikan data dunia sebenar awal. Kedua-dua calon ini layak untuk susulan yang diprioritikan.
 
 ---
 
-## Cytotoxicity
+**Uji Sokongan untuk Pangkat 10:**
 
-| Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Immunotherapy — PD-L1 Immune Checkpoint Inhibitor (non-cytotoxic monoclonal antibody) |
-| Myelosuppression Risk | Low (direct bone marrow suppression is not a primary mechanism; immune-related haematological events such as immune thrombocytopenia are possible but uncommon) |
-| Emetogenicity Classification | Minimal (intravenous antibody infusion; emetogenicity not a primary concern) |
-| Monitoring Items | CBC with differential, liver function tests (ALT/AST/bilirubin), thyroid function (TSH, free T4), renal function (creatinine), fasting glucose, cortisol — to detect immune-related adverse events (irAEs); infusion reaction monitoring during each administration |
-| Handling Protection | Standard biologics handling procedures apply; dedicated cytotoxic containment facilities not required for this drug class |
+| Nombor Uji | Fasa | Status | Pendaftaran | Penemuan Utama |
+|-----------|------|--------|------------|----------------|
+| [NCT05431777](https://clinicaltrials.gov/study/NCT05431777) | T/A (Pemerhatian) | Selesai | 79 | Kajian berbilang pusat retrospektif menilai corak rawatan, keselamatan, dan hasil rawatan penyelenggaraan avelumab lini pertama dalam pesakit Jepun dengan karsinoma urotelial tempatan lanjut atau bermetastasis. Memberikan data deskriptif dunia sebenar; bukan uji keberkesanan terkawal untuk subtipe sarcomatoid khusus. |
 
 ---
 
-## Safety Considerations
+## Sitotoksisiti
 
-Please refer to the package insert for safety information.
-
-> Key warnings and contraindications were not populated in this Evidence Pack. The NPRA-registered package insert should be consulted for complete prescribing information. As a class-level note, PD-L1 inhibitors carry well-characterised risks of immune-related adverse events (irAEs), including immune-mediated pneumonitis, colitis, hepatitis, endocrinopathies (thyroiditis, adrenal insufficiency), nephritis, and infusion-related reactions. These class effects are relevant irrespective of the indication being evaluated.
+| Item | Kandungan |
+|------|-----------|
+| Klasifikasi Sitotoksisiti | Imununoterapi — Antibodi Monoklon Perencat PD-L1 Titik Pemeriksaan Imuniti (bukan sitotoksik) |
+| Risiko Tekanan Sumsum Tulang | Rendah (penindasan sumsum tulang langsung bukan mekanisme utama; peristiwa hematologi berkaitan imuniti seperti trombositopenia imun adalah mungkin tetapi jarang) |
+| Klasifikasi Emetogenisiti | Minimal (infusi antibodi intravena; emetogenisiti bukan kebimbangan utama) |
+| Perkara Pemantauan | CBC dengan pembezaan, ujian fungsi hati (ALT/AST/bilirubin), fungsi tiroid (TSH, T4 bebas), fungsi buah pinggang (kreatinin), glukosa puasa, kortisol — untuk mengesan peristiwa buruk berkaitan imuniti (irAE); pemantauan tindak balas infusi semasa setiap pentadbiran |
+| Perlindungan Pengendalian | Prosedur pengendalian biologi standard digunakan; kemudahan kandungan sitotoksik khusus tidak diperlukan untuk kelas ubat ini |
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila rujuk kepada sisipan pakej untuk maklumat keselamatan.
 
-**Rationale:**
-The top TxGNN prediction (HHV-8-related tumour) is supported exclusively by model-derived inference (L5 evidence), with zero clinical trials and zero publications identified. While a theoretical immunological mechanism can be constructed, proceeding without any corroborating preclinical or clinical data would constitute an evidence-free extrapolation that cannot be responsibly evaluated for repurposing at this stage.
+> Amaran dan kontraindikasi utama tidak diisi dalam Pakej Bukti ini. Sisipan pakej yang didaftarkan NPRA harus dirujuk untuk maklumat preskripsi lengkap. Sebagai nota peringkat kelas, penrencat PD-L1 membawa risiko peristiwa buruk berkaitan imuniti (irAE) yang ditandai dengan baik, termasuk pneumonitis yang dimediasi imun, kolitis, hepatitis, endokrinopati (tiroiditis, ketidakupayaan adrenal), nefritis, dan tindak balas infusi yang berkaitan. Kesan kelas ini relevan tanpa mengira indikasi yang dinilai.
 
-**To proceed, the following is needed:**
+---
 
-- **Immediate data gaps:** Obtain and parse the NPRA/TFDA package insert to retrieve key warnings and contraindications (Data Gap DG001, Blocking severity)
-- **Mechanism clarification:** Query DrugBank API to retrieve Avelumab's full mechanism of action and target profile (Data Gap DG002, High severity)
-- **Evidence search for top prediction:** Conduct a targeted literature search (PubMed, Embase) for PD-L1 expression data and checkpoint inhibitor studies in HHV-8-related tumours (Kaposi sarcoma, primary effusion lymphoma), including Pembrolizumab Phase 2 data as class-level precedent
-- **Reprioritisation consideration:** Given that Ranks 9–10 (urothelial carcinoma subtypes) share direct histological continuity with Avelumab's JAVELIN Bladder 100-approved indication and carry L4 evidence (Research Question), it is strongly recommended to rerun the primary analysis with **Prostatic Urethra Urothelial Carcinoma** or **Kidney Pelvis Sarcomatoid TCC** as the lead candidate indication
-- **Populate Malaysia licence record:** Contact NPRA to retrieve the complete registration details for the 1 active licence on file
-- **Exclude ranks 5–8 from further analysis:** The immune deficiency predictions (ADA deficiency, reticular dysgenesis, immunoerythromyeloid hypoplasia, non-SCID) are mechanistically implausible for PD-L1 inhibition and should be flagged as likely KG false positives
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tunggu**
+
+**Rasional:**
+Ramalan TxGNN teratas (tumor berkaitan HHV-8) disokong semata-mata oleh kesimpulan yang diperoleh model (bukti L5), dengan sifar uji klinis dan sifar publikasi yang dikenal pasti. Walaupun mekanisme imunologi teori boleh dibuat, meneruskan tanpa sebarang data koraboratif preklinik atau klinis akan merupakan ekstrapolasi bebas bukti yang tidak boleh dinilai dengan bertanggungjawab untuk persalinan semula pada peringkat ini.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+
+- **Jurang data segera:** Dapatkan dan huraikan sisipan pakej NPRA/TFDA untuk mendapatkan amaran utama dan kontraindikasi (Jurang Data DG001, Penindasan Keterukan)
+- **Penjelasan mekanisme:** Soal API DrugBank untuk mendapatkan profil mekanisme tindakan penuh avelumab dan profil sasaran (Jurang Data DG002, Keterukan Tinggi)
+- **Pencarian bukti untuk ramalan teratas:** Lakukan carian kesusastraan yang disasarkan (PubMed, Embase) untuk data ekspresi PD-L1 dan kajian perencat titik pemeriksaan dalam tumor berkaitan HHV-8 (sarkoma Kaposi, limfoma keluaran primer), termasuk data Fasa 2 pembrolizumab sebagai preseden peringkat kelas
+- **Pertimbangan Perprioritasan Semula:** Memandangkan pangkat 9–10 (suburi karsinoma urotelial) berkongsi kontinuiti histologi langsung dengan indikasi yang diluluskan JAVELIN Bladder 100 avelumab dan membawa bukti L4 (Soalan Penyelidikan), adalah disyorkan dengan kuat untuk menjalankan semula analisis utama dengan **Karsinoma Sel Urostelial Uretra Prostatik** atau **Karsinoma Sel Transisional Sarcomatoid Pelvis Buah Pinggang** sebagai calon indikasi utama
+- **Isi Rekod Lesen Malaysia:** Hubungi NPRA untuk mendapatkan maklumat pendaftaran lengkap untuk 1 lesen aktif pada fail
+- **Kecualikan pangkat 5–8 daripada analisis lanjut:** Ramalan kekurangan imuniti (kekurangan ADA, displasia retikular, hipoplasia imunoeritromieloid, non-SCID) adalah tidak munasabah secara mekanistik untuk perencatan PD-L1 dan harus ditandai sebagai kemungkinan positif palsu KG
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

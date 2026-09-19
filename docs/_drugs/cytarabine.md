@@ -29,106 +29,107 @@ Tahap bukti: **L5** | Indikasi diramal: **9**
 
 </div>
 
-# Cytarabine: From Original Indication Not on File to Small Cell Lung Carcinoma
+# Sitarabin: Dari Petunjuk Asal Tidak pada Fail ke Karsinoma Sel Paru-Paru Kecil
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Cytarabine (Ara-C) is a cytotoxic antimetabolite chemotherapy agent registered in Malaysia (3 active licenses), but the specific original approved indication text is not present in the current dataset. The TxGNN model's top-ranked prediction is **Small Cell Lung Carcinoma** (score **99.78%**), but this specific rank-1 candidate currently has **zero clinical trials and zero publications** supporting it — the evidence pack itself flags it as a pure score-driven speculation with no known mechanistic basis. Two other candidates further down the ranked list (primary pulmonary lymphoma, neuroblastoma) carry stronger mechanistic rationale and are worth separate attention (see Appendix below).
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not recorded in current Malaysia registration data (see Data Gap DG001/DG002) |
-| Predicted New Indication | Small Cell Lung Carcinoma |
-| TxGNN Prediction Score | 99.78% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 3 |
-| Recommended Decision | Hold |
+Sitarabin (Ara-C) ialah ejen kemoterapu sitostatik antimetabolit yang berdaftar di Malaysia (3 lesen aktif), namun teks petunjuk asal yang diluluskan khusus tidak terdapat dalam set data semasa. Ramalan model TxGNN berpangkat teratas ialah **Karsinoma Sel Paru-Paru Kecil** (skor **99.78%**), tetapi calon berpangkat khusus ini pada masa kini mempunyai **sifar percubaan klinikal dan sifar penerbitan** yang menyokongnya — pakej bukti itu sendiri menandainya sebagai spekulasi tulen yang didorong oleh skor tanpa asas mekanistik yang diketahui. Dua calon lain lebih jauh turun dalam senarai berpangkat (limfoma paru-paru primer, neuroblastoma) membawa rasional mekanistik yang lebih kuat dan patut mendapat perhatian berasingan (lihat Lampiran di bawah).
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Pantas
 
-Detailed mechanism of action data for cytarabine is not available in this evidence pack (flagged as Data Gap DG002, severity High). Based on the mechanistic notes embedded elsewhere in this evidence pack, cytarabine (Ara-C) is a pyrimidine nucleoside analogue that, after intracellular phosphorylation to Ara-CTP, competitively inhibits DNA polymerase and causes chain termination — a classic S-phase-specific cytotoxic mechanism. This mechanism underlies its established role in haematologic malignancies (e.g., high-dose cytarabine regimens in leukaemia and non-Hodgkin lymphoma).
-
-For the top-ranked candidate specifically — **Small Cell Lung Carcinoma** — the evidence pack's own rationale is explicit that this link is *not* mechanistically well-supported: SCLC standard-of-care is platinum/etoposide, cytarabine is not a known active agent in this setting, and no trial or literature evidence exists to corroborate the prediction. This candidate should be read as a TxGNN score-driven hypothesis only, not a mechanism-anchored one.
-
-Because the original indication text itself is missing from the Malaysia registration data, the usual comparison between "original indication" and "predicted new indication" cannot be made directly here — this gap should be closed before any further scoring is finalized.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Item | Kandungan |
+|------|-----------|
+| Petunjuk Asal | Tidak direkodkan dalam data pendaftaran Malaysia semasa (lihat Data Gap DG001/DG002) |
+| Petunjuk Baru Dipramalk | Karsinoma Sel Paru-Paru Kecil |
+| Skor Ramalan TxGNN | 99.78% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Marketed) |
+| Bilangan Pendaftaran | 3 |
+| Keputusan Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available.
+Data mekanisme tindakan terperinci untuk sitarabin tidak tersedia dalam pakej bukti ini (ditandai sebagai Data Gap DG002, keterukan Tinggi). Berdasarkan nota mekanistik yang tertanam di tempat lain dalam pakej bukti ini, sitarabin (Ara-C) ialah analog nukleosida pirimidin yang, selepas pemfosforilan intrasel ke Ara-CTP, secara kompetitif menghalang DNA polimerase dan menyebabkan penghentian rantai — mekanisme sitostatik khusus fasa S klasik. Mekanisme ini mendasari peranannya yang telah ditegakkan dalam malignansi hematologi (mis., rejimen sitarabin dos tinggi dalam leukemia dan limfoma non-Hodgkin).
 
----
+Untuk calon berpangkat teratas khususnya — **Karsinoma Sel Paru-Paru Kecil** — rasional pakej bukti itu sendiri jelas bahawa pautan ini *tidak* disokong dengan baik secara mekanistik: penjagaan piawai SCLC ialah platinum/etopozid, sitarabin bukan ejen aktif yang diketahui dalam tetapan ini, dan tiada bukti percubaan atau penerbitan sedia ada untuk menyokong ramalan. Calon ini harus dibaca sebagai hipotesis yang didorong oleh skor TxGNN sahaja, bukan satu yang bertautan mekanisme.
 
-## Appendix: Other Predicted Indications (Full Ranked List)
-
-This evidence pack contains 9 TxGNN-predicted indications for cytarabine, not all with the same strength of rationale as the top-ranked candidate. None have direct trial or literature support in this dataset, but two stand out for stronger mechanistic/clinical-practice plausibility and may warrant prioritization over the rank-1 candidate:
-
-| Rank | Predicted Indication | Score | Evidence Level | Decision Stage | Recommendation |
-|------|----------------------|-------|-----------------|-----------------|-----------------|
-| 1 | Small cell lung carcinoma | 99.78% | L5 | S0 | Hold |
-| 2 | **Primary pulmonary lymphoma** | 99.78% | **L4** | **S1** | **Research Question** |
-| 3 | Well-differentiated fetal adenocarcinoma of the lung | 99.76% | L5 | S0 | Hold |
-| 4 | Pulmonary blastoma | 99.76% | L5 | S0 | Hold |
-| 5 | Upper aerodigestive tract neoplasm | 99.49% | L5 | S0 | Hold |
-| 6 | **Ganglioneuroblastoma (disease)** | 99.36% | **L4** | **S1** | **Research Question** |
-| 7 | Vertebral anomalies and variable endocrine and T-cell dysfunction | 99.32% | L5 | S0 | Hold — likely knowledge-graph noise, needs manual node review |
-| 8 | Retroperitoneal neoplasm | 99.23% | L5 | S0 | Hold |
-| 9 | **Neuroblastoma** | 99.19% | **L4** | **S1** | **Research Question** |
-
-Notable: rank 2 (primary pulmonary lymphoma) is grounded in cytarabine's established role in non-Hodgkin lymphoma regimens; rank 9 (neuroblastoma) is grounded in real-world use of high-dose cytarabine + topotecan as salvage therapy for relapsed/refractory neuroblastoma. Both lack direct trial/literature hits in this pack but are mechanistically stronger than the top-scored SCLC candidate and may be better starting points for further evidence-gathering.
+Kerana teks petunjuk asal itu sendiri hilang daripada data pendaftaran Malaysia, perbandingan biasa antara "petunjuk asal" dan "petunjuk baru dipramalk" tidak dapat dibuat secara langsung di sini — celah ini harus ditutup sebelum sebarang penskoran lanjut dimuktamadkan.
 
 ---
 
-## Malaysia Market Information
+## Bukti Percubaan Klinikal
 
-Malaysia regulatory status shows cytarabine as **marketed (Marketed)** with **3 active licenses**. However, license number, product name, dosage form, manufacturer, and approved indication text are not populated in the current dataset for any of the 3 entries — this data will need to be pulled directly from NPRA records before it can be cited in a formal report.
-
----
-
-## Cytotoxicity
-
-| Item | Content |
-|------|------|
-| Cytotoxicity Classification | Conventional cytotoxic (Pyrimidine antimetabolite / nucleoside analogue) |
-| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
-| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | Please refer to the package insert warnings and precautions |
-| Handling Protection | Cytotoxic drug handling regulations apply (class-level requirement); confirm specifics in package insert |
+Pada masa kini tiada percubaan klinikal yang berkaitan berdaftar.
 
 ---
 
-## Safety Considerations
+## Bukti Kesusasteraan
 
-Please refer to the package insert for safety information.
+Pada masa kini tiada kesusasteraan yang berkaitan tersedia.
 
 ---
 
-## Conclusion and Next Steps
+## Lampiran: Petunjuk Lain Yang Dipramalk (Senarai Pangkat Penuh)
 
-**Decision: Hold**
+Pakej bukti ini mengandungi 9 petunjuk yang dipramalk TxGNN untuk sitarabin, bukan semua dengan kekuatan rasional yang sama dengan calon berpangkat teratas. Tiada seorang pun mempunyai sokongan percubaan atau kesusasteraan langsung dalam set data ini, tetapi dua menonjol untuk kebolehpercayaan rasional/amalan klinikal yang lebih kuat dan mungkin patut mengutamakan berbanding calon berpangkat ke-1:
 
-**Rationale:**
-The top-ranked prediction (small cell lung carcinoma) has no clinical trial or literature support and the evidence pack itself identifies it as a pure model-score artifact without mechanistic grounding. Blocking-severity data gaps in TFDA warnings/contraindications (DG001) prevent even a preliminary safety assessment.
+| Pangkat | Petunjuk Dipramalk | Skor | Tahap Bukti | Tahap Keputusan | Cadangan |
+|---------|-------------------|------|-------------|-----------------|----------|
+| 1 | Karsinoma sel paru-paru kecil | 99.78% | L5 | S0 | Tahan |
+| 2 | **Limfoma paru-paru primer** | 99.78% | **L4** | **S1** | **Soalan Penyelidikan** |
+| 3 | Adenokarsinoma janin yang berdiferensiasi dengan baik di paru-paru | 99.76% | L5 | S0 | Tahan |
+| 4 | Blastoma paru-paru | 99.76% | L5 | S0 | Tahan |
+| 5 | Neoplasma saluran aerodigestif atas | 99.49% | L5 | S0 | Tahan |
+| 6 | **Ganglioneuroblastoma (penyakit)** | 99.36% | **L4** | **S1** | **Soalan Penyelidikan** |
+| 7 | Anomali vertebra dan disfungsi sel-T dan endokrin pembolehubah | 99.32% | L5 | S0 | Tahan — kemungkinan besar bunyi graf pengetahuan, memerlukan semakan nod manual |
+| 8 | Neoplasma retroperitoneal | 99.23% | L5 | S0 | Tahan |
+| 9 | **Neuroblastoma** | 99.19% | **L4** | **S1** | **Soalan Penyelidikan** |
 
-**To proceed, the following is needed:**
-- TFDA package insert (warnings, contraindications) — DG001, Blocking
-- DrugBank mechanism-of-action query — DG002, High
-- Original approved indication text from NPRA license records (all 3 licenses currently blank)
-- If pursuing repurposing further, prioritize evidence-gathering on primary pulmonary lymphoma or neuroblastoma (L4/Research Question) over the rank-1 SCLC candidate, given their stronger mechanistic basis
+Ketara: pangkat 2 (limfoma paru-paru primer) berasaskan peranan sitarabin yang telah ditegakkan dalam rejimen limfoma non-Hodgkin; pangkat 9 (neuroblastoma) berasaskan penggunaan dunia sebenar sitarabin dos tinggi + topotekan sebagai terapi penyelamat untuk neuroblastoma yang relaps/refraktori. Keduanya kekurangan pukulan percubaan/kesusasteraan langsung dalam pek ini tetapi adalah lebih kuat mekanistik daripada calon SCLC yang diskor teratas dan mungkin merupakan titik permulaan yang lebih baik untuk pengumpulan bukti selanjutnya.
+
+---
+
+## Maklumat Pasaran Malaysia
+
+Status regulasi Malaysia menunjukkan sitarabin sebagai **dipasarkan (Marketed)** dengan **3 lesen aktif**. Bagaimanapun, nombor lesen, nama produk, bentuk ubat, pengilang, dan teks petunjuk yang diluluskan tidak diisi dalam set data semasa untuk mana-mana 3 entri — data ini perlu ditarik terus daripada rekod NPRA sebelum ia boleh disebut dalam laporan rasmi.
+
+---
+
+## Sitotoksisiti
+
+| Item | Kandungan |
+|------|-----------|
+| Klasifikasi Sitotoksisiti | Sitostatik konvensional (Antimetabolit pirimidin / analog nukleosida) |
+| Risiko Supresi Sumsum Tulang | Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan paket |
+| Klasifikasi Emetogenisiti | Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan paket |
+| Item Pemantauan | Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan paket |
+| Perlindungan Pengendalian | Peraturan pengendalian ubat sitostatik terpakai (keperluan peringkat kelas); sahkan detail dalam sisipan paket |
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan paket untuk maklumat keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Ramalan berpangkat teratas (karsinoma sel paru-paru kecil) tidak mempunyai sokongan percubaan klinikal atau kesusasteraan dan pakej bukti itu sendiri mengenalinya sebagai artifak skor model tulen tanpa asas mekanistik. Celah data keterukan penghalang dalam amaran/kontraindikasi TFDA (DG001) menghalang pun penilaian keselamatan awal.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisipan paket TFDA (amaran, kontraindikasi) — DG001, Penghalang
+- Pertanyaan mekanisme tindakan DrugBank — DG002, Tinggi
+- Teks petunjuk yang diluluskan asal daripada rekod lesen NPRA (ketiga-tiga lesen semasa kosong)
+- Jika mengejar ubatan semula selanjutnya, utamakan pengumpulan bukti pada limfoma paru-paru primer atau neuroblastoma (L4/Soalan Penyelidikan) berbanding calon SCLC berpangkat ke-1, memandangkan asas mekanistik mereka yang lebih kuat
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

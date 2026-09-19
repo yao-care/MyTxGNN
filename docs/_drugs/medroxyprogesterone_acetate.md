@@ -29,93 +29,94 @@ Tahap bukti: **L3** | Indikasi diramal: **5**
 
 </div>
 
-# Medroxyprogesterone Acetate: From an Unspecified Original Indication to Uterine Corpus Cancer
+# Medroxyprogesterone Acetate: Daripada Indikasi Asal Tidak Jelas kepada Kanser Uteri Korpus
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Medroxyprogesterone Acetate (MPA, DrugBank DB00603) is a synthetic progestin marketed in Malaysia under 7 registrations, though the specific original approved indication text is not available in the current NPRA extract.
-The TxGNN model's top-ranked prediction is **Uterine Corpus Cancer**, supported by **5 clinical trials** and **20 publications** — but the evidence pack itself flags this label as likely overlapping with the separately ranked **Endometrial Cancer** prediction, which carries materially stronger evidence (43 trials, 20 publications, evidence level L2 vs. L3).
+Medroxyprogesterone Acetate (MPA, DrugBank DB00603) ialah progestin sintetik yang dipasarkan di Malaysia dengan 7 pendaftaran, walaupun teks indikasi yang diluluskan secara spesifik tidak tersedia dalam ekstrak NPRA semasa.
+Ramalan berkedudukan teratas model TxGNN ialah **Kanser Uteri Korpus**, disokong oleh **5 uji klinis** dan **20 penerbitan** — tetapi pakej bukti itu sendiri menandakan label ini kemungkinan besar bertindih dengan ramalan **Kanser Endometrium** yang disenaraikan secara berasingan, yang membawa bukti yang jauh lebih kuat (43 uji, 20 penerbitan, aras bukti L2 berbanding L3).
 
 ---
 
-## Quick Overview
+## Gambaran Keseluruhan Cepat
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Not specified in current NPRA license records (data gap) |
-| Predicted New Indication | Uterine Corpus Cancer |
-| TxGNN Prediction Score | 0.00% (as recorded in source data) |
-| Evidence Level | L3 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 7 |
-| Recommended Decision | Hold |
+| Indikasi Asal | Tidak dinyatakan dalam rekod lesen NPRA semasa (jurang data) |
+| Indikasi Baru Terduga | Kanser Uteri Korpus |
+| Skor Ramalan TxGNN | 0.00% (seperti yang dicatat dalam data sumber) |
+| Aras Bukti | L3 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Marketed) |
+| Bilangan Pendaftaran | 7 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed mechanism-of-action data for MPA was not returned by this query (DrugBank MOA field is a data gap). However, the underlying evidence records consistently describe MPA as a **synthetic progestin (progestogen)** acting through the progesterone receptor (PR), producing anti-proliferative and radiosensitizing effects on PR-positive endometrial tissue, and inducing differentiation/apoptosis in PR-positive endometrial cancer cells.
+Data mekanisme tindakan terperinci untuk MPA tidak dikembalikan oleh pertanyaan ini (medan MOA DrugBank ialah jurang data). Namun, rekod bukti yang mendasari secara konsisten menggambarkan MPA sebagai **progestin sintetik (progestogen)** yang bertindak melalui reseptor progesteron (PR), menghasilkan kesan anti-proliferasi dan radiosensitasi pada tisu endometrium yang positif PR, dan mendorong pembezaan/apoptosis dalam sel kanser endometrium yang positif PR.
 
-"Uterine corpus cancer" and "endometrial cancer" are, in most clinical usage, the same disease entity (the corpus uteri's malignancy is overwhelmingly endometrial carcinoma), and the evidence pack's own analysis for this rank explicitly notes this overlap: the trials linked to "uterine corpus cancer" are less direct (HRT risk cohorts, fertility-preservation trials where MPA is not the primary arm) than those linked to the separately scored "endometrial cancer" entry, which includes multiple Phase 2/3 trials with MPA as the primary intervention and a guideline-supported role in fertility-sparing and palliative treatment of endometrial cancer.
+"Kanser uteri korpus" dan "kanser endometrium" adalah, dalam penggunaan klinis kebanyakan, entiti penyakit yang sama (keganasan korpus uteri adalah sangat ketara karsinoma endometrium), dan analisis pakej bukti sendiri untuk pangkat ini secara eksplisit mencatat pertindihan ini: uji yang terpaut kepada "kanser uteri korpus" adalah kurang langsung (kohort risiko HRT, uji pemeliharaan kesuburan di mana MPA bukan lengan utama) daripada yang terpaut kepada entri "kanser endometrium" yang disenaraikan secara berasingan, yang termasuk berbilang uji Fasa 2/3 dengan MPA sebagai intervensi utama dan peranan yang disokong panduan dalam rawatan pemeliharaan kesuburan dan paliiatif kanser endometrium.
 
-In short, the mechanistic rationale (PR-mediated antiproliferative action) is sound and well documented, but the specific "uterine corpus cancer" label appears to be a partially redundant/lower-quality subset of a broader, better-supported endometrial cancer signal. This should be clarified before treating the two as independent findings.
+Ringkasnya, rasional mekanistik (tindakan anti-proliferasi yang dimediasi PR) adalah wajar dan terdokumentasikan dengan baik, tetapi label "kanser uteri korpus" khususnya kelihatan sebagai subset yang berlebihan/berkualiti lebih rendah daripada isyarat endometrium yang lebih luas dan lebih disokong. Ini perlu dijelaskan sebelum menganggap kedua-dua sebagai penemuan bebas.
 
 ---
 
-## Clinical Trial Evidence
+## Bukti Uji Klinis
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Uji | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT00064025](https://clinicaltrials.gov/study/NCT00064025) | Phase 2 | Completed | 75 | Phase II pilot of short-term Depo-Provera (MPA) exposure and its morphologic/biochemical/molecular effects on endometrioid adenocarcinoma of the uterine corpus |
-| [NCT03018249](https://clinicaltrials.gov/study/NCT03018249) | Early Phase 1 | Completed | 50 | Randomized surgical-window trial: short-term MPA vs. MPA + entinostat on progesterone receptor-related molecular changes in endometrioid endometrial tumors |
-| [NCT03463252](https://clinicaltrials.gov/study/NCT03463252) | Phase 2/3 | Recruiting | 224 | LNG-IUS fertility-sparing trial for atypical endometrial hyperplasia/early endometrial carcinoma; MPA is not the primary arm |
-| [NCT04710017](https://clinicaltrials.gov/study/NCT04710017) | N/A | Completed | 110 | Tranexamic acid vs. depot-MPA for perimenopausal irregular uterine bleeding (non-cancer indication) |
-| [NCT01698164](https://clinicaltrials.gov/study/NCT01698164) | Phase 4 | Unknown | 1200 | Multi-center HRT trial in early-menopausal Chinese women; not a direct MPA-cancer treatment trial |
+| [NCT00064025](https://clinicaltrials.gov/study/NCT00064025) | Fasa 2 | Selesai | 75 | Ujian rintis Fasa II pendedahan Depo-Provera (MPA) jangka pendek dan kesan morfologik/biokimia/molekularnya pada adenokarsinoma endometrioid korpus uteri |
+| [NCT03018249](https://clinicaltrials.gov/study/NCT03018249) | Fasa Awal 1 | Selesai | 50 | Uji tetingkap pembedahan rawak: MPA berbanding MPA + entinostat pada perubahan molekular yang berkaitan reseptor progesteron dalam tumor endometrial endometrioid |
+| [NCT03463252](https://clinicaltrials.gov/study/NCT03463252) | Fasa 2/3 | Merekrut | 224 | Uji pemeliharaan kesuburan LNG-IUS untuk hiperplasia endometrial atipikal/karsinoma endometrial awal; MPA bukan lengan utama |
+| [NCT04710017](https://clinicaltrials.gov/study/NCT04710017) | Tiada | Selesai | 110 | Asid traneksamik berbanding MPA depot untuk pendarahan uteri tidak teratur perimenopausal (indikasi bukan kanser) |
+| [NCT01698164](https://clinicaltrials.gov/study/NCT01698164) | Fasa 4 | Tidak diketahui | 1200 | Uji HRT multi-pusat pada wanita Cina mula-mula menopaus; bukan uji rawatan kanser-MPA langsung |
 
 ---
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [15535270](https://pubmed.ncbi.nlm.nih.gov/15535270/) | 2004 | Review | Nihon Rinsho | Introductory review of hormone therapy for uterine corpus cancer |
-| [6842804](https://pubmed.ncbi.nlm.nih.gov/6842804/) | 1983 | Cohort | JAMA | Risk of breast, uterine corpus, and ovarian cancer in women receiving MPA injections (5,000-woman cohort) |
-| [2526620](https://pubmed.ncbi.nlm.nih.gov/2526620/) | 1989 | Case series | Gan To Kagaku Ryoho | MPA combined with chemotherapy enabled complete surgical removal of stage III uterine corpus carcinoma |
-| [20414038](https://pubmed.ncbi.nlm.nih.gov/20414038/) | 2010 | Case report | Gan To Kagaku Ryoho | Two cases of multidrug-resistant recurrent endometrial cancer successfully treated with MPA |
-| [38469132](https://pubmed.ncbi.nlm.nih.gov/38469132/) | 2024 | Case report | Gynecol Oncol Rep | Successful fertility preservation in stage II endometrial carcinoma with long-term progestin therapy |
-| [2973195](https://pubmed.ncbi.nlm.nih.gov/2973195/) | 1988 | Cohort | Zentralbl Gynakol | Adjuvant gestagen (MPA) therapy in 221 stage I endometrial cancer patients; 5-year survival reported |
-| [6218817](https://pubmed.ncbi.nlm.nih.gov/6218817/) | 1983 | Cohort | Br J Obstet Gynaecol | Progestogens (incl. MPA) as adjuvant to surgery in stage I adenocarcinoma of the uterine corpus |
-| [6467144](https://pubmed.ncbi.nlm.nih.gov/6467144/) | 1984 | Preclinical (in vitro) | Cancer | MPA increases radiosensitivity of endometrial adenocarcinoma explants |
-| [9605604](https://pubmed.ncbi.nlm.nih.gov/9605604/) | 1997 | Preclinical (animal) | Acta Anat | Effects of conjugated estrogens ± MPA on mammary carcinogenesis and uterine adenomyosis in mice |
-| [7559094](https://pubmed.ncbi.nlm.nih.gov/7559094/) | 1995 | Preclinical (animal) | Jpn J Cancer Res | Inhibitory effects of MPA on mouse endometrial carcinogenesis |
+| [15535270](https://pubmed.ncbi.nlm.nih.gov/15535270/) | 2004 | Ulasan | Nihon Rinsho | Ulasan pengenalan terapi hormon untuk kanser uteri korpus |
+| [6842804](https://pubmed.ncbi.nlm.nih.gov/6842804/) | 1983 | Kohort | JAMA | Risiko kanser payudara, uteri korpus, dan ovari pada wanita yang menerima suntikan MPA (kohort 5,000 wanita) |
+| [2526620](https://pubmed.ncbi.nlm.nih.gov/2526620/) | 1989 | Siri kes | Gan To Kagaku Ryoho | MPA digabung dengan kemoterapi membolehkan penyingkiran pembedahan lengkap karsinoma uteri korpus tahap III |
+| [20414038](https://pubmed.ncbi.nlm.nih.gov/20414038/) | 2010 | Laporan kes | Gan To Kagaku Ryoho | Dua kes kanser endometrium kambuh rintang pelbagai ubat berjaya dirawat dengan MPA |
+| [38469132](https://pubmed.ncbi.nlm.nih.gov/38469132/) | 2024 | Laporan kes | Gynecol Oncol Rep | Pemeliharaan kesuburan berjaya dalam karsinoma endometrium tahap II dengan terapi progestin jangka panjang |
+| [2973195](https://pubmed.ncbi.nlm.nih.gov/2973195/) | 1988 | Kohort | Zentralbl Gynakol | Terapi gestagen tambahan (MPA) dalam 221 pesakit kanser endometrium tahap I; kemandirian 5 tahun dilaporkan |
+| [6218817](https://pubmed.ncbi.nlm.nih.gov/6218817/) | 1983 | Kohort | Br J Obstet Gynaecol | Progestogens (termasuk MPA) sebagai tambahan kepada pembedahan dalam adenokarsinoma tahap I korpus uteri |
+| [6467144](https://pubmed.ncbi.nlm.nih.gov/6467144/) | 1984 | Praklinis (in vitro) | Cancer | MPA meningkatkan radiosensitiviti eksplan adenokarsinoma endometrium |
+| [9605604](https://pubmed.ncbi.nlm.nih.gov/9605604/) | 1997 | Praklinis (hewan) | Acta Anat | Kesan estrogen terkonjugasi ± MPA pada karsinogenesis mammari dan adenomiosis uteri dalam tikus |
+| [7559094](https://pubmed.ncbi.nlm.nih.gov/7559094/) | 1995 | Praklinis (hewan) | Jpn J Cancer Res | Kesan penghambatan MPA pada karsinogenesis endometrium tikus |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Taiwan/NPRA source data confirms **7 active registrations** and Marketed status, but the individual license fields (license number, product name, dosage form, manufacturer, approved indication text) were returned empty in this extract and cannot be tabulated. Registration-level detail needs to be re-pulled from the NPRA source before it can be reported.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
+Sumber data Taiwan/NPRA mengesahkan **7 pendaftaran aktif** dan status Dipasarkan, tetapi medan lesen individu (nombor lesen, nama produk, bentuk dos, pengilang, teks indikasi yang diluluskan) dikembalikan kosong dalam ekstrak ini dan tidak boleh disenaraikan. Detail peringkat pendaftaran perlu dicabuli semula daripada sumber NPRA sebelum ia boleh dilaporkan.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila rujuk risalah paket untuk maklumat keselamatan.
 
-**Rationale:**
-The mechanistic case for progestin activity in uterine/endometrial tissue is credible, but this specific "uterine corpus cancer" prediction has lower-quality, largely indirect trial support and is flagged by the evidence pack itself as likely overlapping with the stronger "endometrial cancer" prediction (L2, Proceed with Guardrails). A Blocking-severity gap in TFDA label warnings/contraindications also prevents any S1 safety screen.
+---
 
-**To proceed, the following is needed:**
-- TFDA package insert (warnings, contraindications) — currently a Blocking data gap
-- DrugBank/authoritative MOA confirmation for MPA
-- Clarification of whether "uterine corpus cancer" and "endometrial cancer" should be merged into a single indication before further scoring, to avoid double-counting evidence
-- Re-extraction of NPRA license-level fields (product name, dosage form, manufacturer, indication text) for the 7 registrations
-- Verification of the TxGNN score field, which currently reads 0.00% across all ranked indications and may reflect an extraction issue rather than the model's actual confidence
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Kes mekanistik untuk aktiviti progestin dalam tisu uteri/endometrium adalah munasabah, tetapi ramalan "kanser uteri korpus" khusus ini mempunyai sokongan uji berkualiti lebih rendah, sebahagian besarnya tidak langsung dan ditandakan oleh pakej bukti itu sendiri sebagai kemungkinan besar bertindih dengan ramalan "kanser endometrium" yang lebih kuat (L2, Teruskan dengan Penjaga). Jurang data keterukan Blocking dalam amaran/kontraindikasi label TFDA juga menghalang sebarang saringan keselamatan S1.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Risalah paket TFDA (amaran, kontraindikasi) — pada masa ini jurang data Blocking
+- Pengesahan DrugBank/autoritatif MOA untuk MPA
+- Penjelasan sama ada "kanser uteri korpus" dan "kanser endometrium" harus digabungkan menjadi satu indikasi sebelum pemarkahan lanjut, untuk mengelakkan pengiraan berganda bukti
+- Pencabutan semula medan peringkat lesen NPRA (nama produk, bentuk dos, pengilang, teks indikasi) untuk 7 pendaftaran
+- Pengesahan medan skor TxGNN, yang pada masa ini membaca 0.00% merentasi semua indikasi yang disenaraikan dan mungkin mencerminkan isu pencabutan daripada keyakinan sebenar model
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

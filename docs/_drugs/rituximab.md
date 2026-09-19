@@ -29,223 +29,224 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Rituximab: From CD20+ B-Cell Malignancies to Five TxGNN-Predicted Indications (One Genuinely Novel)
+# Rituximab: Daripada Keganasan Sel B CD20+ kepada Lima Indikasi Terjangka TxGNN (Satu Benar-benar Novel)
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Rituximab is a chimeric anti-CD20 monoclonal antibody originally used to treat CD20-positive B-cell malignancies. TxGNN returned five predicted indications for this candidate, but four of them (non-Hodgkin lymphoma, rheumatoid arthritis, mantle cell lymphoma, and "B-cell neoplasm" broadly) are **already globally approved uses of rituximab** — the model is reproducing known labels rather than proposing something new — while only **Langerhans Cell Histiocytosis (LCH)** represents a genuinely novel repurposing candidate, and it is currently supported only by a handful of case reports (no dedicated clinical trials).
+Rituximab ialah antibodi monoklonal anti-CD20 kimaera yang asalnya digunakan untuk merawat keganasan sel B positif CD20. TxGNN mengembalikan lima indikasi terjangka untuk calon ini, tetapi empat daripadanya (limfoma bukan-Hodgkin, artritis reumatoid, limfoma sel mantel, dan "neoplasma sel B" secara keseluruhannya) adalah **penggunaan rituximab yang telah diluluskan secara global** — model ini sedang mengulang label yang diketahui daripada mencadangkan sesuatu yang baru — sementara hanya **Histiositosis Sel Langerhans (LCH)** mewakili calon pengguna semula yang benar-benar novel, dan ia kini disokong hanya oleh segelintir laporan kes (tiada percubaan klinikal yang khusus).
 
-## Quick Overview
+## Gambaran Pantas
 
-| Rank | Predicted Indication | TxGNN Score | Evidence Level | Decision Stage | Recommendation | Status vs. Rituximab |
-|------|----------------------|-------------|-----------------|-----------------|-----------------|------------------------|
-| 1 | Non-Hodgkin Lymphoma (familial) | 0.00%* | L1 | S3 | Proceed with Guardrails | Already-approved indication (model validation) |
-| 2 | Rheumatoid Arthritis | 0.00%* | L1 | S3 | Proceed with Guardrails | Already-approved indication (model validation) |
-| 3 | Mantle Cell Lymphoma | 0.00%* | L1 | S3 | Proceed with Guardrails | Already-approved indication (model validation) |
-| 4 | B-cell Neoplasm (general) | 0.00%* | L1 | S3 | Proceed with Guardrails | Umbrella category covering multiple already-approved uses |
-| 5 | Langerhans Cell Histiocytosis | 0.00%* | L4 | S1 | Research Question | **Genuinely novel candidate** — weak evidence |
+| Pangkat | Indikasi Terjangka | Skor TxGNN | Tahap Bukti | Tahap Keputusan | Cadangan | Status berbanding Rituximab |
+|--------|----------------------|------------|-------------|-----------------|----------|------------------------|
+| 1 | Limfoma Bukan-Hodgkin (keluarga) | 0.00%* | L1 | S3 | Teruskan dengan Pengawal | Indikasi yang telah diluluskan (pengesahan model) |
+| 2 | Artritis Reumatoid | 0.00%* | L1 | S3 | Teruskan dengan Pengawal | Indikasi yang telah diluluskan (pengesahan model) |
+| 3 | Limfoma Sel Mantel | 0.00%* | L1 | S3 | Teruskan dengan Pengawal | Indikasi yang telah diluluskan (pengesahan model) |
+| 4 | Neoplasma Sel B (umum) | 0.00%* | L1 | S3 | Teruskan dengan Pengawal | Kategori payung meliputi pelbagai penggunaan yang telah diluluskan |
+| 5 | Histiositosis Sel Langerhans | 0.00%* | L4 | S1 | Soalan Penyelidikan | **Calon pengguna semula yang benar-benar novel** — bukti lemah |
 
-\* All five `txgnn.score` values in the evidence pack are 0.0 — this looks like an unpopulated/placeholder field rather than a meaningful confidence score, and should be treated as a data-quality gap in the prediction pipeline rather than as "no signal."
+\* Semua lima nilai `txgnn.score` dalam pak bukti adalah 0.0 — ini kelihatan seperti medan yang tidak diisi/tempat letak semula daripada skor keyakinan yang bermakna, dan harus diperlakukan sebagai jurang kualiti data dalam saluran ramalan daripada sebagai "tiada isyarat."
 
-| Item | Content |
-|------|------|
-| Original Indication | CD20-positive B-cell Non-Hodgkin Lymphoma (globally established original indication; the evidence pack's own `drug.original_indications` and Malaysia license `approved_indication_text` fields are empty, so this is not confirmed against local label text) |
-| Malaysia Market Status | Marketed (Marketed) |
-| Number of Registrations | 9 |
+| Item | Kandungan |
+|------|--------|
+| Indikasi Asal | Limfoma Bukan-Hodgkin Sel B CD20-positif (indikasi asal yang ditubuhkan secara global; medan `drug.original_indications` dan lesen Malaysia `approved_indication_text` dalam pak bukti adalah kosong, jadi ini tidak disahkan terhadap teks label tempatan) |
+| Status Pasaran Malaysia | Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 9 |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism-of-action data is not available in this evidence pack (`original_moa: [Data Gap]`, flagged as data gap DG002/High severity). Based on well-established public information, rituximab is a chimeric murine/human anti-CD20 monoclonal antibody that binds CD20 on the surface of B lymphocytes and depletes them via complement-dependent cytotoxicity, antibody-dependent cellular cytotoxicity, and direct apoptosis. Its efficacy in CD20-positive B-cell malignancies is well proven, and the same B-cell-depletion mechanism is mechanistically applicable to autoimmune conditions driven by pathogenic B-cell/autoantibody activity.
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia dalam pak bukti ini (`original_moa: [Data Gap]`, ditandai sebagai jurang data DG002/Keterukan tinggi). Berdasarkan maklumat umum yang ditubuhkan dengan baik, rituximab ialah antibodi monoklonal anti-CD20 kimaera murni/manusia yang mengikat CD20 pada permukaan limfosit B dan menghapuskan mereka melalui sitotoksisiti bergantung pelengkap, sitotoksisiti bergantung sel, dan apoptosis langsung. Kesan mujabarnya dalam keganasan sel B positif CD20 terbukti dengan baik, dan mekanisme pengurangan sel B yang sama boleh digunakan secara mekanik untuk keadaan autoimun yang didorong oleh aktiviti sel B/autobadi yang patogenik.
 
-**Indications 1–4 (NHL, RA, MCL, B-cell neoplasm)** are not novel predictions — they are indications for which rituximab already holds regulatory approval internationally (NHL/CLL/MCL since the late 1990s–2000s; RA in combination with methotrexate since 2006). The evidence pack's own `repurposing_rationale.mechanistic_link` field explicitly flags this for every one of these four entries, describing them as the model "reproducing known labels" rather than proposing something new. These are useful as **model-validation evidence** (TxGNN correctly recovers known drug–disease pairs) but should not be scored as repurposing opportunities.
+**Indikasi 1–4 (NHL, RA, MCL, neoplasma sel B)** bukan ramalan novel — ia adalah indikasi yang mana rituximab sudah memegang kelulusan kawal selia secara antarabangsa (NHL/CLL/MCL sejak akhir 1990-an–2000-an; RA dalam kombinasi dengan metotreksat sejak 2006). Medan `repurposing_rationale.mechanistic_link` pak bukti sendiri secara eksplisit menandai ini untuk setiap satu daripada empat entri ini, menerangkan mereka sebagai model "mengulang label yang diketahui" daripada mencadangkan sesuatu yang baru. Ini berguna sebagai **bukti pengesahan model** (TxGNN dengan betul memulihkan pasangan ubat–penyakit yang diketahui) tetapi tidak boleh diskor sebagai peluang pengguna semula.
 
-**Indication 5 (Langerhans Cell Histiocytosis)** is the one genuinely novel candidate. LCH is a clonal proliferation of myeloid dendritic/histiocytic cells rather than a B-cell malignancy, so CD20 is not a primary therapeutic target in the lesion itself — the mechanistic link is indirect, hypothesized to act via depletion of reactive B-cell/lymphoid aggregates around lesions or via effects on LCH-associated neurodegenerative/autoimmune-like complications. This is reflected in the much lower evidence level (L4) and decision stage (S1, "Research Question").
+**Indikasi 5 (Histiositosis Sel Langerhans)** adalah calon novel yang benar-benar. LCH ialah proliferasi klonal sel mieloid dendriti/histiositik daripada keganasan sel B, jadi CD20 bukan sasaran terapi utama dalam lesi itu sendiri — pautan mekanik adalah tidak langsung, terduga untuk bertindak melalui pengurangan penghimpunan sel B/limfoid yang reaktif di sekitar lesi atau melalui kesan pada komplikasi yang berkaitan LCH/seperti autoimun yang merosot saraf. Ini ditunjukkan dalam tahap bukti yang lebih rendah (L4) dan tahap keputusan (S1, "Soalan Penyelidikan").
 
-## Clinical Trial Evidence
+## Bukti Percubaan Klinikal
 
-### Indication 1: Non-Hodgkin Lymphoma (familial)
+### Indikasi 1: Limfoma Bukan-Hodgkin (keluarga)
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT03206671](https://clinicaltrials.gov/study/NCT03206671) | Phase 3 | Active, not recruiting | 650 | B-NHL 2013: NHL-BFM/NOPHO standard-of-care protocol evaluating rituximab's role in mature aggressive B-cell NHL/leukemia in children and adolescents |
-| [NCT06230224](https://clinicaltrials.gov/study/NCT06230224) | Phase 3 | Recruiting | 216 | OLYMPIA-4: odronextamab vs. rituximab-containing standard of care in relapsed/refractory aggressive B-NHL — rituximab regimen used as active comparator |
-| [NCT04680052](https://clinicaltrials.gov/study/NCT04680052) | Phase 3 | Active, not recruiting | 654 | Tafasitamab + lenalidomide + rituximab vs. lenalidomide + rituximab in R/R follicular/marginal zone lymphoma |
-| [NCT05171647](https://clinicaltrials.gov/study/NCT05171647) | Phase 3 | Active, not recruiting | 208 | Mosunetuzumab + polatuzumab vs. rituximab + gemcitabine/oxaliplatin (R-GemOx) in R/R aggressive B-NHL |
-| [NCT03570892](https://clinicaltrials.gov/study/NCT03570892) | Phase 3 | Active, not recruiting | 331 | BELINDA: tisagenlecleucel vs. standard of care (post rituximab/anthracycline failure) in R/R aggressive B-NHL |
-| [NCT02285062](https://clinicaltrials.gov/study/NCT02285062) | Phase 3 | Completed | 570 | Lenalidomide + R-CHOP (R2-CHOP) vs. placebo + R-CHOP in untreated ABC-type DLBCL |
-| [NCT01200589](https://clinicaltrials.gov/study/NCT01200589) | Phase 3 | Terminated | 438 | Ofatumumab vs. rituximab monotherapy in indolent B-NHL relapsed after rituximab-containing therapy |
-| [NCT04002297](https://clinicaltrials.gov/study/NCT04002297) | Phase 3 | Active, not recruiting | 510 | Zanubrutinib + rituximab vs. bendamustine + rituximab in untreated mantle cell lymphoma (transplant-ineligible) |
-| [NCT04745832](https://clinicaltrials.gov/study/NCT04745832) | Phase 3 | Terminated | 82 | COASTAL: zandelisib + rituximab vs. standard immunochemotherapy in relapsed indolent NHL |
-| [NCT00072449](https://clinicaltrials.gov/study/NCT00072449) | Phase 2 | Terminated | 12 | Rituximab monotherapy for refractory/relapsed primary CNS lymphoma |
+| [NCT03206671](https://clinicaltrials.gov/study/NCT03206671) | Fasa 3 | Aktif, tidak merekrut | 650 | B-NHL 2013: protokol piawai NHL-BFM/NOPHO menilai peranan rituximab dalam limfoma/leukemia sel B agresif matang NHL dalam kanak-kanak dan remaja |
+| [NCT06230224](https://clinicaltrials.gov/study/NCT06230224) | Fasa 3 | Merekrut | 216 | OLYMPIA-4: odronextamab vs. penjagaan piawai yang mengandungi rituximab dalam limfoma B agresif yang dikembalikan/tahan sebarang rawatan |
+| [NCT04680052](https://clinicaltrials.gov/study/NCT04680052) | Fasa 3 | Aktif, tidak merekrut | 654 | Tafasitamab + lenalidomida + rituximab vs. lenalidomida + rituximab dalam limfoma folikular/zon marginal R/R |
+| [NCT05171647](https://clinicaltrials.gov/study/NCT05171647) | Fasa 3 | Aktif, tidak merekrut | 208 | Mosunetuzumab + polatuzumab vs. rituximab + gemitabin/oksaliplatin (R-GemOx) dalam limfoma B agresif R/R |
+| [NCT03570892](https://clinicaltrials.gov/study/NCT03570892) | Fasa 3 | Aktif, tidak merekrut | 331 | BELINDA: tisagenlecleucel vs. penjagaan piawai (selepas kegagalan rituximab/antrasiklin) dalam limfoma B agresif R/R |
+| [NCT02285062](https://clinicaltrials.gov/study/NCT02285062) | Fasa 3 | Selesai | 570 | Lenalidomida + R-CHOP (R2-CHOP) vs. plasebo + R-CHOP dalam DLBCL jenis ABC yang tidak dirawat |
+| [NCT01200589](https://clinicaltrials.gov/study/NCT01200589) | Fasa 3 | Dihentikan | 438 | Ofatumumab vs. monoterapi rituximab dalam limfoma B indolen yang dikembalikan selepas terapi yang mengandungi rituximab |
+| [NCT04002297](https://clinicaltrials.gov/study/NCT04002297) | Fasa 3 | Aktif, tidak merekrut | 510 | Zanubrutinib + rituximab vs. bendamustina + rituximab dalam limfoma sel mantel yang tidak dirawat (tidak layak untuk transplantasi) |
+| [NCT04745832](https://clinicaltrials.gov/study/NCT04745832) | Fasa 3 | Dihentikan | 82 | COASTAL: zandelisib + rituximab vs. imunokhemioterapi piawai dalam NHL indolen yang dikembalikan |
+| [NCT00072449](https://clinicaltrials.gov/study/NCT00072449) | Fasa 2 | Dihentikan | 12 | Monoterapi rituximab untuk limfoma CNS primer yang tahan/dikembalikan |
 
-### Indication 2: Rheumatoid Arthritis
+### Indikasi 2: Artritis Reumatoid
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT00422383](https://clinicaltrials.gov/study/NCT00422383) | Phase 3 | Completed | 378 | Randomized double-blind study of MabThera re-treatment regimens + methotrexate in RA with inadequate response to MTX |
-| [NCT00299104](https://clinicaltrials.gov/study/NCT00299104) | Phase 3 | Completed | 755 | Rituximab + MTX vs. MTX alone in MTX-naive active RA (registration-grade international study) |
-| [NCT00443651](https://clinicaltrials.gov/study/NCT00443651) | Phase 3 | Completed | 578 | Open-label safety study of rituximab + other DMARDs in active RA with inadequate DMARD response |
-| [NCT01272908](https://clinicaltrials.gov/study/NCT01272908) | Phase 3 | Completed | 120 | RESET: rituximab safety/effectiveness in RA after inadequate response to one prior anti-TNF agent |
-| [NCT00299130](https://clinicaltrials.gov/study/NCT00299130) | Phase 3 | Completed | 511 | Placebo-controlled study of rituximab + MTX vs. MTX monotherapy in active RA |
-| [NCT01332994](https://clinicaltrials.gov/study/NCT01332994) | Phase 3 | Completed | 519 | MIRAI: sequential tocilizumab then rituximab in DMARD-inadequate-responder RA |
-| [NCT01382940](https://clinicaltrials.gov/study/NCT01382940) | Phase 4 | Completed | 351 | Safety of a more rapid rituximab infusion rate in moderate-to-severe RA |
-| [NCT03853746](https://clinicaltrials.gov/study/NCT03853746) | Phase 4 | Completed | 10 | Short-term B-cell depletion and long-term disease activity/immune tolerance (also studied in MS) |
-| [NCT01640548](https://clinicaltrials.gov/study/NCT01640548) | N/A | Completed | 320 | Retrospective chart review of biologic monotherapy (including rituximab) in RA |
-| [NCT01557348](https://clinicaltrials.gov/study/NCT01557348) | N/A | Completed | 1239 | Global observational study of rituximab/alternative TNF-inhibitors in RA non-responders to a single TNF-inhibitor |
+| [NCT00422383](https://clinicaltrials.gov/study/NCT00422383) | Fasa 3 | Selesai | 378 | Kajian dwi-buta rawak bagi rejim rawatan semula MabThera + metotreksat dalam RA dengan respons inadekuat kepada MTX |
+| [NCT00299104](https://clinicaltrials.gov/study/NCT00299104) | Fasa 3 | Selesai | 755 | Rituximab + MTX vs. MTX sahaja dalam RA aktif yang tidak pernah dirawat dengan MTX (kajian pendaftaran antarabangsa) |
+| [NCT00443651](https://clinicaltrials.gov/study/NCT00443651) | Fasa 3 | Selesai | 578 | Kajian keselamatan atas label terbuka rituximab + ubat DMARD lain dalam RA aktif dengan respons DMARD yang inadekuat |
+| [NCT01272908](https://clinicaltrials.gov/study/NCT01272908) | Fasa 3 | Selesai | 120 | RESET: keselamatan/keberkesanan rituximab dalam RA selepas respons inadekuat kepada satu agen penghambat TNF terdahulu |
+| [NCT00299130](https://clinicaltrials.gov/study/NCT00299130) | Fasa 3 | Selesai | 511 | Kajian kawalan plasebo rituximab + MTX vs. monoterapi MTX dalam RA aktif |
+| [NCT01332994](https://clinicaltrials.gov/study/NCT01332994) | Fasa 3 | Selesai | 519 | MIRAI: toksilizumab berurutan kemudian rituximab dalam RA yang tidak membalas DMARD |
+| [NCT01382940](https://clinicaltrials.gov/study/NCT01382940) | Fasa 4 | Selesai | 351 | Keselamatan kadar infusi rituximab yang lebih cepat dalam RA sederhana hingga teruk |
+| [NCT03853746](https://clinicaltrials.gov/study/NCT03853746) | Fasa 4 | Selesai | 10 | Pengurangan sel B jangka pendek dan aktiviti penyakit jangka panjang/toleransi imun (juga dikaji dalam MS) |
+| [NCT01640548](https://clinicaltrials.gov/study/NCT01640548) | N/A | Selesai | 320 | Ulasan carta retrospektif bagi monoterapi biologi (termasuk rituximab) dalam RA |
+| [NCT01557348](https://clinicaltrials.gov/study/NCT01557348) | N/A | Selesai | 1239 | Kajian pemerhatian global rituximab/penghambat TNF alternatif dalam bukan responden RA kepada satu penghambat TNF |
 
-### Indication 3: Mantle Cell Lymphoma
+### Indikasi 3: Limfoma Sel Mantel
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT04566887](https://clinicaltrials.gov/study/NCT04566887) | Phase 2 | Recruiting | 105 | Acalabrutinib + R-CHOP in previously untreated MCL prior to autologous transplant |
-| [NCT05245656](https://clinicaltrials.gov/study/NCT05245656) | Phase 2 | Recruiting | 90 | Randomized comparison of rituximab/bendamustine (RB) alternating with RB/cytarabine (RBAC) vs. RB alone in elderly transplant-ineligible MCL |
-| [NCT06084936](https://clinicaltrials.gov/study/NCT06084936) | Phase 3 | Recruiting | 182 | Glofitamab monotherapy vs. investigator's choice (rituximab + bendamustine, or lenalidomide + rituximab) in R/R MCL |
-| [NCT04002297](https://clinicaltrials.gov/study/NCT04002297) | Phase 3 | Active, not recruiting | 510 | Zanubrutinib + rituximab vs. bendamustine + rituximab in untreated, transplant-ineligible MCL |
-| [NCT03567876](https://clinicaltrials.gov/study/NCT03567876) | Phase 2 | Completed | 141 | Addition of venetoclax to rituximab/bendamustine/cytarabine (V-RBAC) in high-risk elderly MCL |
-| [NCT04849715](https://clinicaltrials.gov/study/NCT04849715) | Phase 3 | Withdrawn | 0 | Parsaclisib + bendamustine/rituximab vs. placebo + BR as first-line MCL therapy |
-| [NCT06482684](https://clinicaltrials.gov/study/NCT06482684) | Phase 2 | Recruiting | 150 | Rituximab + ibrutinib induction followed by CAR-T consolidation vs. standard of care in high-risk MCL |
-| [NCT00376961](https://clinicaltrials.gov/study/NCT00376961) | Phase 2 | Completed | 68 | R-CHOP + bortezomib induction followed by bortezomib maintenance in newly diagnosed MCL |
-| [NCT00114738](https://clinicaltrials.gov/study/NCT00114738) | Phase 2 | Completed | 53 | EPOCH-rituximab-bortezomib induction with bortezomib maintenance vs. observation in untreated MCL |
-| [NCT01389427](https://clinicaltrials.gov/study/NCT01389427) | Phase 1/2 | Completed | 41 | Temsirolimus + rituximab-based regimens (R-CHOP/R-FC/R-DHA) in relapsed/refractory MCL |
+| [NCT04566887](https://clinicaltrials.gov/study/NCT04566887) | Fasa 2 | Merekrut | 105 | Akalabrutin + R-CHOP dalam limfoma sel mantel yang tidak pernah dirawat sebelum transplantasi autolog |
+| [NCT05245656](https://clinicaltrials.gov/study/NCT05245656) | Fasa 2 | Merekrut | 90 | Perbandingan rawak rituximab/bendamustina (RB) bergantian dengan RB/sitarabin (RBAC) vs. RB sahaja dalam limfoma sel mantel tidak layak transplantasi yang lebih tua |
+| [NCT06084936](https://clinicaltrials.gov/study/NCT06084936) | Fasa 3 | Merekrut | 182 | Monoterapi glofitamab vs. pilihan penyiasat (rituximab + bendamustina, atau lenalidomida + rituximab) dalam limfoma sel mantel R/R |
+| [NCT04002297](https://clinicaltrials.gov/study/NCT04002297) | Fasa 3 | Aktif, tidak merekrut | 510 | Zanubrutinib + rituximab vs. bendamustina + rituximab dalam limfoma sel mantel tidak dirawat, tidak layak transplantasi |
+| [NCT03567876](https://clinicaltrials.gov/study/NCT03567876) | Fasa 2 | Selesai | 141 | Penambahan venetoclax kepada rituximab/bendamustina/sitarabin (V-RBAC) dalam limfoma sel mantel berisiko tinggi yang lebih tua |
+| [NCT04849715](https://clinicaltrials.gov/study/NCT04849715) | Fasa 3 | Ditarik balik | 0 | Parsaclisib + bendamustina/rituximab vs. plasebo + BR sebagai terapi baris pertama limfoma sel mantel |
+| [NCT06482684](https://clinicaltrials.gov/study/NCT06482684) | Fasa 2 | Merekrut | 150 | Rituximab + ibrutinib induksi diikuti penyatuan CAR-T vs. penjagaan piawai dalam limfoma sel mantel berisiko tinggi |
+| [NCT00376961](https://clinicaltrials.gov/study/NCT00376961) | Fasa 2 | Selesai | 68 | Induksi R-CHOP + bortezomib diikuti pemeliharaan bortezomib dalam limfoma sel mantel yang baru didiagnosis |
+| [NCT00114738](https://clinicaltrials.gov/study/NCT00114738) | Fasa 2 | Selesai | 53 | Induksi EPOCH-rituximab-bortezomib dengan pemeliharaan bortezomib vs. pemerhatian dalam limfoma sel mantel yang tidak dirawat |
+| [NCT01389427](https://clinicaltrials.gov/study/NCT01389427) | Fasa 1/2 | Selesai | 41 | Temsirolimus + rejimen berbasis rituximab (R-CHOP/R-FC/R-DHA) dalam limfoma sel mantel yang dikembalikan/tahan |
 
-### Indication 4: B-cell Neoplasm (general)
+### Indikasi 4: Neoplasma Sel B (umum)
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT02005471](https://clinicaltrials.gov/study/NCT02005471) | Phase 3 | Completed | 389 | Venetoclax + rituximab vs. bendamustine + rituximab in relapsed/refractory CLL (key registration trial) |
-| [NCT01808599](https://clinicaltrials.gov/study/NCT01808599) | Phase 2 | Active, not recruiting | 112 | Chlorambucil + subcutaneous rituximab, then rituximab maintenance, in MALT lymphoma |
-| [NCT03391466](https://clinicaltrials.gov/study/NCT03391466) | Phase 3 | Completed | 359 | ZUMA-7: axicabtagene ciloleucel vs. standard of care (rituximab-based) in R/R DLBCL |
-| [NCT04361279](https://clinicaltrials.gov/study/NCT04361279) | Phase 3 | Completed | 421 | Rituximab biosimilar (SIBP-02) + CHOP vs. rituximab + CHOP in untreated CD20+ DLBCL |
-| [NCT00312845](https://clinicaltrials.gov/study/NCT00312845) | Phase 3 | Completed | 676 | Bortezomib + rituximab vs. rituximab alone in relapsed/refractory follicular B-NHL |
-| [NCT04212013](https://clinicaltrials.gov/study/NCT04212013) | Phase 3 | Active, not recruiting | 23 | Ibrutinib + rituximab vs. placebo + rituximab in treatment-naive marginal zone lymphoma |
-| [NCT03777085](https://clinicaltrials.gov/study/NCT03777085) | Phase 3 | Unknown | 230 | TQB2303 + CHOP vs. rituximab + CHOP in untreated CD20+ DLBCL |
-| [NCT04623541](https://clinicaltrials.gov/study/NCT04623541) | Phase 1/2 | Active, not recruiting | 195 | Epcoritamab (± venetoclax/pirtobrutinib) in R/R CLL and Richter's syndrome |
-| [NCT02158091](https://clinicaltrials.gov/study/NCT02158091) | Phase 1/2 | Active, not recruiting | 32 | IPI-145 + fludarabine/cyclophosphamide/rituximab (FCR) in untreated, younger CLL |
-| [NCT04980859](https://clinicaltrials.gov/study/NCT04980859) | Phase 3 | Unknown | 45 | Zanubrutinib + limited-course immunochemotherapy in newly treated CLL without 17p- |
+| [NCT02005471](https://clinicaltrials.gov/study/NCT02005471) | Fasa 3 | Selesai | 389 | Venetoclax + rituximab vs. bendamustina + rituximab dalam CLL yang dikembalikan/tahan (percubaan pendaftaran utama) |
+| [NCT01808599](https://clinicaltrials.gov/study/NCT01808599) | Fasa 2 | Aktif, tidak merekrut | 112 | Klorambuil + rituximab subkutan, kemudian pemeliharaan rituximab, dalam limfoma MALT |
+| [NCT03391466](https://clinicaltrials.gov/study/NCT03391466) | Fasa 3 | Selesai | 359 | ZUMA-7: aksikabajen silolusol vs. penjagaan piawai (berbasis rituximab) dalam DLBCL R/R |
+| [NCT04361279](https://clinicaltrials.gov/study/NCT04361279) | Fasa 3 | Selesai | 421 | Biosimilar rituximab (SIBP-02) + CHOP vs. rituximab + CHOP dalam DLBCL CD20+ yang tidak dirawat |
+| [NCT00312845](https://clinicaltrials.gov/study/NCT00312845) | Fasa 3 | Selesai | 676 | Bortezomib + rituximab vs. rituximab sahaja dalam limfoma B indolen yang dikembalikan/tahan |
+| [NCT04212013](https://clinicaltrials.gov/study/NCT04212013) | Fasa 3 | Aktif, tidak merekrut | 23 | Ibrutinib + rituximab vs. plasebo + rituximab dalam limfoma zon marginal yang tidak pernah dirawat |
+| [NCT03777085](https://clinicaltrials.gov/study/NCT03777085) | Fasa 3 | Tidak diketahui | 230 | TQB2303 + CHOP vs. rituximab + CHOP dalam DLBCL CD20+ yang tidak dirawat |
+| [NCT04623541](https://clinicaltrials.gov/study/NCT04623541) | Fasa 1/2 | Aktif, tidak merekrut | 195 | Epcoritamab (± venetoclax/pirtobrutinib) dalam CLL dan sindrom Richter yang R/R |
+| [NCT02158091](https://clinicaltrials.gov/study/NCT02158091) | Fasa 1/2 | Aktif, tidak merekrut | 32 | IPI-145 + fludarabin/siklofosfamida/rituximab (FCR) dalam CLL muda yang tidak dirawat |
+| [NCT04980859](https://clinicaltrials.gov/study/NCT04980859) | Fasa 3 | Tidak diketahui | 45 | Zanubrutinib + imunokhemioterapi kursus terbatas dalam CLL yang baru dirawat tanpa 17p- |
 
-### Indication 5: Langerhans Cell Histiocytosis
+### Indikasi 5: Histiositosis Sel Langerhans
 
-Trial coverage is sparse and largely off-target — none of the four trials returned by the search are dedicated rituximab-in-LCH trials:
+Liputan percubaan adalah jarang dan sebahagian besar luar sasaran — tiada satu daripada empat percubaan yang dikembalikan ialah percubaan rituximab-dalam-LCH yang berdedikasi:
 
-| Trial Number | Phase | Status | Enrollment | Key Findings / Relevance Caveat |
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama / Kaveat Perkaitan |
 |---------|------|------|------|---------|
-| [NCT07270835](https://clinicaltrials.gov/study/NCT07270835) | Phase 4 | Recruiting | 40 | Zanubrutinib + rituximab for **secondary hemophagocytic lymphohistiocytosis (HLH) in B-cell lymphoma** — tangential to LCH itself (HLH can occur as an LCH complication, but this trial's population is B-cell lymphoma, not LCH) |
-| [NCT01818908](https://clinicaltrials.gov/study/NCT01818908) | Phase 2 | Unknown | 50 | DA-EPOCH for NHL-associated HLH — graded "C" (low relevance), population is NHL, not LCH |
-| [NCT03096782](https://clinicaltrials.gov/study/NCT03096782) | Phase 2 | Completed | 6 | Cord blood transplant engineering for leukemia/lymphoma — graded "C", unrelated to rituximab-LCH question |
-| [NCT01471067](https://clinicaltrials.gov/study/NCT01471067) | Phase 1 | Completed | 33 | Cord blood fucosylation for hematologic malignancies — unrelated to LCH |
+| [NCT07270835](https://clinicaltrials.gov/study/NCT07270835) | Fasa 4 | Merekrut | 40 | Zanubrutinib + rituximab untuk **limfositosis hemofagositik sekunder (HLH) dalam limfoma sel B** — ketangential kepada LCH itu sendiri (HLH boleh berlaku sebagai komplikasi LCH, tetapi populasi percubaan ini ialah limfoma sel B, bukan LCH) |
+| [NCT01818908](https://clinicaltrials.gov/study/NCT01818908) | Fasa 2 | Tidak diketahui | 50 | DA-EPOCH untuk HLH yang berkaitan NHL — dinilai "C" (perkaitan rendah), populasi adalah NHL, bukan LCH |
+| [NCT03096782](https://clinicaltrials.gov/study/NCT03096782) | Fasa 2 | Selesai | 6 | Kejuruteraan pemindahan darah umbilikus untuk leukemia/limfoma — dinilai "C", tidak berkaitan dengan soalan rituximab-LCH |
+| [NCT01471067](https://clinicaltrials.gov/study/NCT01471067) | Fasa 1 | Selesai | 33 | Fukosylation darah umbilikus untuk keganasan hematologi — tidak berkaitan dengan LCH |
 
-**No trial in this evidence pack directly tests rituximab in LCH.**
+**Tiada percubaan dalam pak bukti ini secara langsung menguji rituximab dalam LCH.**
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-### Indication 1: Non-Hodgkin Lymphoma (familial)
+### Indikasi 1: Limfoma Bukan-Hodgkin (keluarga)
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [27345636](https://pubmed.ncbi.nlm.nih.gov/27345636/) | 2016 | RCT (Tier 1) | Lancet Oncology | GADOLIN: obinutuzumab + bendamustine vs. bendamustine alone in rituximab-refractory indolent NHL |
-| [28983798](https://pubmed.ncbi.nlm.nih.gov/28983798/) | 2017 | Review (Tier 1) | Advances in Therapy | 20-year clinical experience review of rituximab across B-cell hematologic malignancies |
-| [38010876](https://pubmed.ncbi.nlm.nih.gov/38010876/) | 2023 | Systematic Review (Tier 1) | Hematology | Meta-analysis of efficacy/safety of subcutaneous rituximab in NHL |
-| [39234863](https://pubmed.ncbi.nlm.nih.gov/39234863/) | 2025 | RCT (Tier 2) | Haematologica | Real-life experience with rituximab + lenalidomide in relapsed/refractory indolent NHL |
-| [32135128](https://pubmed.ncbi.nlm.nih.gov/32135128/) | 2020 | Systematic Review | Lancet Haematology | Cardiovascular adverse events with CHOP vs. R-CHOP in NHL — meta-analysis |
-| [25499449](https://pubmed.ncbi.nlm.nih.gov/25499449/) | 2015 | Review | Blood | Transformed follicular NHL — natural history and outcomes |
-| [37860948](https://pubmed.ncbi.nlm.nih.gov/37860948/) | 2024 | Retrospective | J Chemotherapy | Characteristics/predictors of infusion-related reactions to rituximab in B-NHL |
-| [21958083](https://pubmed.ncbi.nlm.nih.gov/21958083/) | 2012 | Review | Leukemia & Lymphoma | Maintenance rituximab in follicular NHL — facts and controversies |
-| [32303486](https://pubmed.ncbi.nlm.nih.gov/32303486/) | 2020 | Review | Clin Lymphoma Myeloma Leuk | Management of adverse events from rituximab + lenalidomide in indolent/low-grade NHL |
-| [40749164](https://pubmed.ncbi.nlm.nih.gov/40749164/) | 2025 | Preclinical | Blood | Glofitamab (CD20×CD3 T-cell engager) combinations — preclinical NHL models |
+| [27345636](https://pubmed.ncbi.nlm.nih.gov/27345636/) | 2016 | RCT (Tahap 1) | Lancet Oncology | GADOLIN: obinutuzumab + bendamustina vs. bendamustina sahaja dalam limfoma indolen yang tahan rituximab |
+| [28983798](https://pubmed.ncbi.nlm.nih.gov/28983798/) | 2017 | Ulasan (Tahap 1) | Advances in Therapy | Pengalaman klinikal 20 tahun ulasan rituximab merentasi keganasan hematologi sel B |
+| [38010876](https://pubmed.ncbi.nlm.nih.gov/38010876/) | 2023 | Ulasan Sistematik (Tahap 1) | Hematology | Meta-analisis keberkesanan/keselamatan rituximab subkutan dalam NHL |
+| [39234863](https://pubmed.ncbi.nlm.nih.gov/39234863/) | 2025 | RCT (Tahap 2) | Haematologica | Pengalaman nyata dengan rituximab + lenalidomida dalam limfoma indolen yang dikembalikan/tahan |
+| [32135128](https://pubmed.ncbi.nlm.nih.gov/32135128/) | 2020 | Ulasan Sistematik | Lancet Haematology | Peristiwa buruk kardiovaskular dengan CHOP vs. R-CHOP dalam NHL — meta-analisis |
+| [25499449](https://pubmed.ncbi.nlm.nih.gov/25499449/) | 2015 | Ulasan | Blood | Limfoma folikular yang berubah — sejarah semula jadi dan hasil |
+| [37860948](https://pubmed.ncbi.nlm.nih.gov/37860948/) | 2024 | Retrospektif | J Chemotherapy | Ciri-ciri/peramal tindak balas yang berkaitan infusi kepada rituximab dalam B-NHL |
+| [21958083](https://pubmed.ncbi.nlm.nih.gov/21958083/) | 2012 | Ulasan | Leukemia & Lymphoma | Pemeliharaan rituximab dalam limfoma folikular — fakta dan kontroversi |
+| [32303486](https://pubmed.ncbi.nlm.nih.gov/32303486/) | 2020 | Ulasan | Clin Lymphoma Myeloma Leuk | Pengurusan peristiwa buruk daripada rituximab + lenalidomida dalam limfoma indolen/darjah rendah NHL |
+| [40749164](https://pubmed.ncbi.nlm.nih.gov/40749164/) | 2025 | Praklinik | Blood | Kombinasi glofitamab (CD20×CD3 T-sel engager) — model NHL praklinik |
 
-### Indication 2: Rheumatoid Arthritis
+### Indikasi 2: Artritis Reumatoid
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [31099191](https://pubmed.ncbi.nlm.nih.gov/31099191/) | 2019 | Systematic Review (Tier 1) | Int J Rheum Dis | Infection risk of rituximab vs. non-rituximab treatment in RA |
-| [41004196](https://pubmed.ncbi.nlm.nih.gov/41004196/) | 2025 | Systematic Review (Tier 1) | Expert Opin Biol Ther | Efficacy/safety of rituximab in RA-associated interstitial lung disease |
-| [31446557](https://pubmed.ncbi.nlm.nih.gov/31446557/) | 2019 | Systematic Review/Meta-analysis (Tier 1) | BioDrugs | Comparative efficacy/safety of biosimilar vs. originator rituximab in RA and NHL |
-| [19758217](https://pubmed.ncbi.nlm.nih.gov/19758217/) | 2009 | Cohort (Tier 2) | Ann NY Acad Sci | Long-term clinical, biologic, and pharmacogenetic effects of rituximab in RA |
-| [33638167](https://pubmed.ncbi.nlm.nih.gov/33638167/) | 2021 | Pharmacokinetic study | Fundam Clin Pharmacol | Variability of rituximab and tocilizumab trough concentrations in RA |
-| [16920570](https://pubmed.ncbi.nlm.nih.gov/16920570/) | 2006 | Review | Autoimmunity Reviews | Treatment of RA with rituximab — early update and possible indications |
-| [17896839](https://pubmed.ncbi.nlm.nih.gov/17896839/) | 2007 | Review | BioDrugs | Rituximab in RA — pivotal placebo-controlled trial summary |
-| [26692536](https://pubmed.ncbi.nlm.nih.gov/26692536/) | 2016 | Network Meta-analysis | Int J Rheum Dis | Bayesian NMA comparing tocilizumab, rituximab, abatacept, tofacitinib in TNF-inadequate-responder RA |
-| [21925447](https://pubmed.ncbi.nlm.nih.gov/21925447/) | 2011 | Systematic Review | Reumatologia Clinica | Systematic review of rituximab efficacy and safety in RA |
-| [38693680](https://pubmed.ncbi.nlm.nih.gov/38693680/) | 2024 | Survey | Musculoskeletal Care | Patient/rheumatologist perceptions on rituximab dose reduction in RA |
+| [31099191](https://pubmed.ncbi.nlm.nih.gov/31099191/) | 2019 | Ulasan Sistematik (Tahap 1) | Int J Rheum Dis | Risiko jangkitan rituximab vs. rawatan bukan-rituximab dalam RA |
+| [41004196](https://pubmed.ncbi.nlm.nih.gov/41004196/) | 2025 | Ulasan Sistematik (Tahap 1) | Expert Opin Biol Ther | Keberkesanan/keselamatan rituximab dalam penyakit paru antara yang berkaitan RA |
+| [31446557](https://pubmed.ncbi.nlm.nih.gov/31446557/) | 2019 | Ulasan Sistematik/Meta-analisis (Tahap 1) | BioDrugs | Keberkesanan/keselamatan komparatif biosimilar vs. rituximab asal dalam RA dan NHL |
+| [19758217](https://pubmed.ncbi.nlm.nih.gov/19758217/) | 2009 | Kohort (Tahap 2) | Ann NY Acad Sci | Kesan klinikal, biologi, dan farmakogenetik jangka panjang rituximab dalam RA |
+| [33638167](https://pubmed.ncbi.nlm.nih.gov/33638167/) | 2021 | Kajian Farmakokinetik | Fundam Clin Pharmacol | Kebolehubahan kepekatan palung rituximab dan toksilizumab dalam RA |
+| [16920570](https://pubmed.ncbi.nlm.nih.gov/16920570/) | 2006 | Ulasan | Autoimmunity Reviews | Rawatan RA dengan rituximab — kemas kini awal dan indikasi kemungkinan |
+| [17896839](https://pubmed.ncbi.nlm.nih.gov/17896839/) | 2007 | Ulasan | BioDrugs | Rituximab dalam RA — ringkasan percubaan kawalan plasebo utama |
+| [26692536](https://pubmed.ncbi.nlm.nih.gov/26692536/) | 2016 | Meta-analisis Rangkaian | Int J Rheum Dis | NMA Bayesian membandingkan toksilizumab, rituximab, abatacept, tofacitinib dalam RA yang tidak membalas TNF |
+| [21925447](https://pubmed.ncbi.nlm.nih.gov/21925447/) | 2011 | Ulasan Sistematik | Reumatologia Clinica | Ulasan sistematik keberkesanan dan keselamatan rituximab dalam RA |
+| [38693680](https://pubmed.ncbi.nlm.nih.gov/38693680/) | 2024 | Kajian | Musculoskeletal Care | Persepsi pesakit/rheumatologi pada pengurangan dos rituximab dalam RA |
 
-### Indication 3: Mantle Cell Lymphoma
+### Indikasi 3: Limfoma Sel Mantel
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [38669626](https://pubmed.ncbi.nlm.nih.gov/38669626/) | 2024 | RCT (Tier 1) | Blood | LyMa-101: obinutuzumab vs. rituximab in transplant-eligible MCL, long-term outcome |
-| [30348538](https://pubmed.ncbi.nlm.nih.gov/30348538/) | 2018 | RCT Phase 3 (Tier 1) | Lancet Oncology | VR-CAP vs. R-CHOP in transplant-ineligible untreated MCL — final OS results |
-| [41052510](https://pubmed.ncbi.nlm.nih.gov/41052510/) | 2025 | RCT (Tier 1) | Lancet | ENRICH: ibrutinib + rituximab vs. standard immunochemotherapy in untreated MCL (age 60+) |
-| [32985902](https://pubmed.ncbi.nlm.nih.gov/32985902/) | 2021 | RCT Phase 3 (Tier 1) | Future Oncology | Zanubrutinib + rituximab vs. bendamustine + rituximab in transplant-ineligible MCL |
-| [32126141](https://pubmed.ncbi.nlm.nih.gov/32126141/) | 2020 | Pooled analysis | Blood Advances | Rituximab/bendamustine and rituximab/cytarabine induction for transplant-eligible MCL |
-| [36469833](https://pubmed.ncbi.nlm.nih.gov/36469833/) | 2023 | RCT long-term follow-up | J Clin Oncol | European MCL Network trial — high-dose cytarabine + ASCT, long-term follow-up |
-| [30033656](https://pubmed.ncbi.nlm.nih.gov/30033656/) | 2018 | Systematic Review/Meta-analysis | Am J Hematol | Rituximab maintenance therapy for MCL — systematic review and meta-analysis |
-| [39023870](https://pubmed.ncbi.nlm.nih.gov/39023870/) | 2024 | Commentary | Blood | "Is rituximab retro in mantle cell lymphoma?" — perspective on evolving standard of care |
-| [38678093](https://pubmed.ncbi.nlm.nih.gov/38678093/) | 2024 | RCT Phase 3 | Leukemia | Addition of bortezomib to rituximab/cytarabine/dexamethasone in R/R MCL |
-| [28988912](https://pubmed.ncbi.nlm.nih.gov/28988912/) | 2017 | Commentary | Lancet Oncology | Maintenance rituximab in mantle-cell lymphoma |
+| [38669626](https://pubmed.ncbi.nlm.nih.gov/38669626/) | 2024 | RCT (Tahap 1) | Blood | LyMa-101: obinutuzumab vs. rituximab dalam limfoma sel mantel yang layak transplantasi, hasil jangka panjang |
+| [30348538](https://pubmed.ncbi.nlm.nih.gov/30348538/) | 2018 | RCT Fasa 3 (Tahap 1) | Lancet Oncology | VR-CAP vs. R-CHOP dalam limfoma sel mantel yang tidak dirawat, tidak layak transplantasi — hasil OS terakhir |
+| [41052510](https://pubmed.ncbi.nlm.nih.gov/41052510/) | 2025 | RCT (Tahap 1) | Lancet | ENRICH: ibrutinib + rituximab vs. imunokhemioterapi piawai dalam limfoma sel mantel yang tidak dirawat (usia 60+) |
+| [32985902](https://pubmed.ncbi.nlm.nih.gov/32985902/) | 2021 | RCT Fasa 3 (Tahap 1) | Future Oncology | Zanubrutinib + rituximab vs. bendamustina + rituximab dalam limfoma sel mantel yang tidak layak transplantasi |
+| [32126141](https://pubmed.ncbi.nlm.nih.gov/32126141/) | 2020 | Analisis Terkumpul | Blood Advances | Induksi rituximab/bendamustina dan rituximab/sitarabin untuk limfoma sel mantel yang layak transplantasi |
+| [36469833](https://pubmed.ncbi.nlm.nih.gov/36469833/) | 2023 | Susulan RCT jangka panjang | J Clin Oncol | Percubaan Rangkaian Limfoma Sel Mantel Eropah — sitarabin dos tinggi + ASCT, susulan jangka panjang |
+| [30033656](https://pubmed.ncbi.nlm.nih.gov/30033656/) | 2018 | Ulasan Sistematik/Meta-analisis | Am J Hematol | Terapi pemeliharaan rituximab untuk limfoma sel mantel — ulasan sistematik dan meta-analisis |
+| [39023870](https://pubmed.ncbi.nlm.nih.gov/39023870/) | 2024 | Ulasan | Blood | "Adakah rituximab retro dalam limfoma sel mantel?" — perspektif pada standard of care yang berkembang |
+| [38678093](https://pubmed.ncbi.nlm.nih.gov/38678093/) | 2024 | RCT Fasa 3 | Leukemia | Penambahan bortezomib kepada rituximab/sitarabin/deksametason dalam limfoma sel mantel R/R |
+| [28988912](https://pubmed.ncbi.nlm.nih.gov/28988912/) | 2017 | Ulasan | Lancet Oncology | Pemeliharaan rituximab dalam limfoma sel mantel |
 
-### Indication 4: B-cell Neoplasm (general)
+### Indikasi 4: Neoplasma Sel B (umum)
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [20647199](https://pubmed.ncbi.nlm.nih.gov/20647199/) | 2010 | RCT (Tier 1) | NEJM | RAVE trial: rituximab vs. cyclophosphamide for ANCA-associated vasculitis |
-| [33661537](https://pubmed.ncbi.nlm.nih.gov/33661537/) | 2021 | Review (Tier 1) | Am J Hematol | 2021 update on DLBCL — risk stratification and management, R-CHOP as mainstay |
-| [32482755](https://pubmed.ncbi.nlm.nih.gov/32482755/) | 2020 | Review (Tier 2, mechanistic) | Haematologica | Regulation and function of CD20 — biology underlying anti-CD20 therapy |
-| [32933335](https://pubmed.ncbi.nlm.nih.gov/32933335/) | 2021 | Review | Expert Opin Biol Ther | Anti-CD20 treatment for B-cell malignancies — current status and future directions |
-| [28983819](https://pubmed.ncbi.nlm.nih.gov/28983819/) | 2017 | Review | Advances in Therapy | Subcutaneous rituximab for B-cell hematologic malignancies — scientific rationale |
-| [18240027](https://pubmed.ncbi.nlm.nih.gov/18240027/) | 2008 | Review | Clin Rev Allergy Immunol | Rituximab beyond simple B-cell depletion — relevance to autoimmune B-cell disorders |
-| [12710588](https://pubmed.ncbi.nlm.nih.gov/12710588/) | 2002 | Review | Anti-Cancer Drugs | Rituximab in B-cell disorders other than NHL |
-| [20194898](https://pubmed.ncbi.nlm.nih.gov/20194898/) | 2010 | Preclinical | Blood | Engineering of GA101 (obinutuzumab) as enhanced next-gen anti-CD20 antibody vs. rituximab |
-| [25499448](https://pubmed.ncbi.nlm.nih.gov/25499448/) | 2015 | Review | Blood | DLBCL — optimizing outcome in the context of clinical/biologic heterogeneity |
-| [33171490](https://pubmed.ncbi.nlm.nih.gov/33171490/) | 2021 | Review | Blood | Treatment of Burkitt lymphoma in adults |
+| [20647199](https://pubmed.ncbi.nlm.nih.gov/20647199/) | 2010 | RCT (Tahap 1) | NEJM | Percubaan RAVE: rituximab vs. siklofosfamida untuk vaskulitis yang berkaitan ANCA |
+| [33661537](https://pubmed.ncbi.nlm.nih.gov/33661537/) | 2021 | Ulasan (Tahap 1) | Am J Hematol | Kemas kini 2021 tentang DLBCL — stratifikasi risiko dan pengurusan, R-CHOP sebagai tonggak |
+| [32482755](https://pubmed.ncbi.nlm.nih.gov/32482755/) | 2020 | Ulasan (Tahap 2, mekanik) | Haematologica | Peraturan dan fungsi CD20 — biologi yang mendasari terapi anti-CD20 |
+| [32933335](https://pubmed.ncbi.nlm.nih.gov/32933335/) | 2021 | Ulasan | Expert Opin Biol Ther | Rawatan anti-CD20 untuk keganasan sel B — status semasa dan arah hadapan masa depan |
+| [28983819](https://pubmed.ncbi.nlm.nih.gov/28983819/) | 2017 | Ulasan | Advances in Therapy | Rituximab subkutan untuk keganasan hematologi sel B — rasional saintifik |
+| [18240027](https://pubmed.ncbi.nlm.nih.gov/18240027/) | 2008 | Ulasan | Clin Rev Allergy Immunol | Rituximab di luar penghapusan sel B yang mudah — perkaitan untuk gangguan autoimun sel B |
+| [12710588](https://pubmed.ncbi.nlm.nih.gov/12710588/) | 2002 | Ulasan | Anti-Cancer Drugs | Rituximab dalam gangguan sel B selain daripada NHL |
+| [20194898](https://pubmed.ncbi.nlm.nih.gov/20194898/) | 2010 | Praklinik | Blood | Kejuruteraan GA101 (obinutuzumab) sebagai antibodi anti-CD20 generasi seterusnya yang ditingkatkan vs. rituximab |
+| [25499448](https://pubmed.ncbi.nlm.nih.gov/25499448/) | 2015 | Ulasan | Blood | DLBCL — mengoptimalkan hasil dalam konteks heterogenitas klinikal/biologi |
+| [33171490](https://pubmed.ncbi.nlm.nih.gov/33171490/) | 2021 | Ulasan | Blood | Rawatan limfoma Burkitt dalam dewasa |
 
-### Indication 5: Langerhans Cell Histiocytosis
+### Indikasi 5: Histiositosis Sel Langerhans
 
-Literature specific to rituximab in LCH is very limited; most items returned by the broader "histiocytosis" search are about unrelated non-Langerhans disorders (Rosai-Dorfman disease, necrobiotic xanthogranuloma, Erdheim-Chester disease) and are only tangentially relevant:
+Kesusasteraan khusus kepada rituximab dalam LCH adalah sangat terbatas; kebanyakan item yang dikembalikan oleh pencarian "histiositosis" yang lebih luas adalah tentang gangguan bukan-Langerhans yang tidak berkaitan (penyakit Rosai-Dorfman, xanthogranuloma nekrobiotik, penyakit Erdheim-Chester) dan hanya ketangential yang berkaitan:
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [30596314](https://pubmed.ncbi.nlm.nih.gov/30596314/) | 2018 | Case series (Tier 3) | Pediatr Hematol Oncol | **The only directly on-topic paper**: rituximab therapy for LCH-associated neurologic dysfunction |
-| [18351339](https://pubmed.ncbi.nlm.nih.gov/18351339/) | 2008 | Case report | Ann Hematol | LCH mimicking relapse in a follicular lymphoma patient — diagnostic overlap, not treatment evidence |
-| [23256832](https://pubmed.ncbi.nlm.nih.gov/23256832/) | 2012 | Case series | Vnitrni Lekarstvi | Lenalidomide (not rituximab) in rare blood disorders including LCH — background only |
-| [22681714](https://pubmed.ncbi.nlm.nih.gov/22681714/) | 2013 | Case report | Actas Dermosifiliogr | Juvenile xanthogranuloma (non-Langerhans) + follicular lymphoma treated with chemo + rituximab |
-| [15561688](https://pubmed.ncbi.nlm.nih.gov/15561688/) | 2004 | Review | Hematology Am Soc Hematol Educ Program | Overview of atypical cellular/histiocytic disorders including LCH |
+| [30596314](https://pubmed.ncbi.nlm.nih.gov/30596314/) | 2018 | Siri kes (Tahap 3) | Pediatr Hematol Oncol | **Satu-satunya kertas yang langsung relevan-topik**: terapi rituximab untuk disfungsi neurologi yang berkaitan LCH |
+| [18351339](https://pubmed.ncbi.nlm.nih.gov/18351339/) | 2008 | Laporan kes | Ann Hematol | LCH meniru relaps dalam pesakit limfoma folikular — pertindihan diagnostik, bukan bukti rawatan |
+| [23256832](https://pubmed.ncbi.nlm.nih.gov/23256832/) | 2012 | Siri kes | Vnitrni Lekarstvi | Lenalidomida (bukan rituximab) dalam gangguan darah yang jarang termasuk LCH — latar belakang sahaja |
+| [22681714](https://pubmed.ncbi.nlm.nih.gov/22681714/) | 2013 | Laporan kes | Actas Dermosifiliogr | Xanthogranuloma remaja (bukan-Langerhans) + limfoma folikular dirawat dengan kimia + rituximab |
+| [15561688](https://pubmed.ncbi.nlm.nih.gov/15561688/) | 2004 | Ulasan | Hematology Am Soc Hematol Educ Program | Gambaran keseluruhan gangguan seluler/histiositik atipik termasuk LCH |
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Per NPRA data, rituximab has **9 total registrations** and is currently **marketed** in Malaysia. However, the license-level fields returned in this evidence pack (authorization numbers, product names, dosage forms, manufacturers, approved indication text) are all empty — this appears to be an extraction gap in the NPRA data source rather than an absence of registrations, and should be re-pulled before this candidate proceeds further.
+Menurut data NPRA, rituximab mempunyai **9 jumlah pendaftaran** dan kini **dipasarkan** di Malaysia. Walau bagaimanapun, medan tahap lesen yang dikembalikan dalam pak bukti ini (nombor kebenaran, nama produk, bentuk dos, pengeluar, teks indikasi yang diluluskan) semuanya kosong — ini kelihatan sebagai jurang ekstraksi dalam sumber data NPRA daripada ketiadaan pendaftaran, dan harus ditarik semula sebelum calon ini bergerak lebih jauh.
 
-## Cytotoxicity
+## Sitotoksisiti
 
-Rituximab's predicted/established uses span both oncology (NHL, CLL, MCL) and non-oncology autoimmune disease (RA), so a cytotoxicity profile is included given the oncology use cases.
+Penggunaan terjangka/yang ditubuhkan rituximab merangkau kedua-dua onkologi (NHL, CLL, MCL) dan penyakit autoimun bukan-onkologi (RA), jadi profil sitotoksisiti dimasukkan memandangkan kes penggunaan onkologi.
 
-| Item | Content |
-|------|------|
-| Cytotoxicity Classification | Targeted therapy / Immunotherapy (anti-CD20 monoclonal antibody) — not a conventional cytotoxic chemotherapeutic |
-| Myelosuppression Risk | Low-to-moderate; primary hematologic effect is B-lymphocyte depletion rather than broad myelosuppression, though neutropenia (including delayed-onset) is reported, particularly in combination regimens (e.g., R-CHOP, R-bendamustine) |
-| Emetogenicity Classification | Low (as monotherapy); infusion-related reactions (fever, chills, hypotension) are the more clinically significant acute-administration risk — see PMID 37860948 above |
-| Monitoring Items | CBC with differential, immunoglobulin levels, hepatitis B status/reactivation risk (per known anti-CD20 class risk), infusion-related reaction monitoring during administration |
-| Handling Protection | As a biologic monoclonal antibody, standard hazardous-drug/biologic handling precautions apply; does not require conventional cytotoxic chemotherapy handling protocols |
+| Item | Kandungan |
+|------|--------|
+| Klasifikasi Sitotoksisiti | Terapi tersasaran / Imunoterapi (antibodi monoklonal anti-CD20) — bukan kemioterapi sitotoksik konvensional |
+| Risiko Pengurangan Sumsum | Rendah hingga sederhana; kesan hematologi utama ialah pengurangan limfosit B daripada pengurangan sumsum yang luas, meskipun neutropenia (termasuk permulaan yang ditangguhkan) dilaporkan, khususnya dalam rejimen kombinasi (cth., R-CHOP, R-bendamustina) |
+| Klasifikasi Emetogenisiti | Rendah (sebagai monoterapi); tindak balas yang berkaitan infusi (demam, menggigil, hipotensi) adalah risiko pentadbiran akut yang lebih bermakna secara klinikal — lihat PMID 37860948 di atas |
+| Item Pemantauan | CBC dengan pembezaan, tahap imunoglobulin, status hepatitis B/risiko reaktivasi (menurut risiko kelas anti-CD20 yang diketahui), pemantauan tindak balas yang berkaitan infusi semasa pentadbiran |
+| Perlindungan Pengendalian | Sebagai antibodi monoklonal biologi, langkah berjaga-jaga pengendalian ubat berbahaya/biologi piawai digunakan; tidak memerlukan protokol pengendalian kemioterapi sitotoksik konvensional |
 
-Detailed toxicity data specific to this evidence pack was not available — please refer to the package insert warnings and precautions for definitive guidance.
+Data toksisiti terperinci khusus kepada pak bukti ini tidak tersedia — sila rujuk amaran dan sesaat sisipan paket untuk panduan yang definitif.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information. This evidence pack's safety fields (`key_warnings`, `contraindications`, `ddi.interactions`) were not populated (data gap DG001, flagged as **Blocking severity** — "cannot enter S1 safety pre-screening" — remediation: retrieve and parse the TFDA/NPRA package insert PDF).
+Sila rujuk sisipan paket untuk maklumat keselamatan. Medan keselamatan pak bukti ini (`key_warnings`, `contraindications`, `ddi.interactions`) tidak diisi (jurang data DG001, ditandai sebagai **keterukan Pemblokiran** — "tidak dapat memasuki pra-skrin keselamatan S1" — remediasi: ambil dan huraikan PDF sisipan paket TFDA/NPRA).
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Mixed — see per-indication breakdown**
+**Keputusan: Bercampur — lihat pecahan setiap indikasi**
 
-**Rationale:**
-- Indications 1–4 (NHL, RA, MCL, B-cell neoplasm) are **already-approved uses of rituximab**, not novel repurposing candidates — TxGNN is validating known drug–disease pairs here, which is useful confirmation of model reliability but should not be counted as new pipeline opportunities. These carry L1 evidence and a "Proceed with Guardrails" label only in the sense of confirming existing clinical practice, not exploring something new.
-- Indication 5 (Langerhans Cell Histiocytosis) is the only genuinely novel candidate, but evidence is currently limited to a single pediatric case series (L4, "Research Question" stage) with no supporting clinical trials directly testing rituximab in LCH.
+**Rasional:**
+- Indikasi 1–4 (NHL, RA, MCL, neoplasma sel B) adalah **penggunaan rituximab yang telah diluluskan**, bukan calon pengguna semula yang novel — TxGNN sedang mengesahkan pasangan ubat–penyakit yang diketahui di sini, yang merupakan pengesahan kebolehan model yang berguna tetapi tidak seharusnya dikira sebagai peluang saluran baharu. Ini membawa bukti L1 dan label "Teruskan dengan Pengawal" hanya dalam erti pengesahan amalan klinikal sedia ada, bukan meneroka sesuatu yang baru.
+- Indikasi 5 (Histiositosis Sel Langerhans) adalah satu-satunya calon novel yang benar-benar, tetapi bukti kini terhad kepada siri kes kanak-kanak tunggal (L4, tahap "Soalan Penyelidikan") tanpa percubaan klinikal yang menyokong secara langsung menguji rituximab dalam LCH.
 
-**To proceed, the following is needed:**
-- Resolve the Blocking-severity safety data gap (DG001): retrieve and parse the TFDA/NPRA package insert for warnings, contraindications, and DDI data before any S1 safety pre-screening can occur.
-- Resolve the MOA data gap (DG002) via DrugBank API query to confirm mechanism-of-action classification.
-- Re-pull Malaysia NPRA license-level detail (authorization numbers, product names, indication text) — all 9 registrations currently have empty records.
-- Investigate the `txgnn.score = 0.0` anomaly across all five predictions — this field appears unpopulated and should not be interpreted as a real confidence score.
-- If pursuing LCH specifically: commission a targeted literature/trial search restricted to "Langerhans cell histiocytosis" + "rituximab" (the current broad "histiocytosis" query returned mostly off-target results for unrelated non-Langerhans disorders) and consider whether a dedicated pilot study is warranted given the case-report-only evidence base.
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Selesaikan jurang data keselamatan yang Keterukan Pemblokiran (DG001): ambil dan huraikan sisipan paket TFDA/NPRA untuk amaran, percanggahan, dan data DDI sebelum sebarang pra-skrin keselamatan S1 boleh berlaku.
+- Selesaikan jurang data MOA (DG002) melalui pertanyaan API DrugBank untuk mengesahkan klasifikasi mekanisme-tindakan.
+- Tarik semula maklumat terperinci lesen NPRA Malaysia (nombor kebenaran, nama produk, teks indikasi) — semua 9 pendaftaran kini mempunyai rekod kosong.
+- Siasat anomali `txgnn.score = 0.0` merentasi semua lima ramalan — medan ini kelihatan tidak diisi dan tidak seharusnya ditafsirkan sebagai skor keyakinan yang sebenar.
+- Jika meneruskan LCH khususnya: telah menugaskan pencarian kesusasteraan/percubaan tersasaran yang terbatas kepada "histiositosis sel Langerhans" + "rituximab" (pertanyaan "histiositosis" luas semasa mengembalikan kebanyakan hasil luar sasaran untuk gangguan bukan-Langerhans yang tidak berkaitan) dan pertimbangkan sama ada kajian percontohan yang berdedikasi adalah wajar memandangkan asas bukti kes-laporan sahaja.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

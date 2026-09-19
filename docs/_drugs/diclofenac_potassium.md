@@ -29,85 +29,86 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Diclofenac Potassium: Drug Repurposing Preliminary Assessment
+# Diclofenac potassium: Penilaian Awal Penolokan Semula Ubat
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Diclofenac potassium is a non-steroidal anti-inflammatory drug (NSAID) currently marketed in Malaysia with 6 registered products. The TxGNN model has **not yet generated predicted new indications** for this drug, and the evidence pack contains significant data gaps that must be addressed before a full repurposing evaluation can proceed.
+Diclofenac potassium (Diklofenac kalium) adalah ubat anti-inflamasi tanpa steroid (NSAID) yang sedang dipasarkan di Malaysia dengan 6 produk terdaftar. Model TxGNN telah **belum menjana petunjuk indikasi baru** untuk ubat ini, dan pakej bukti mengandungi jurang data yang ketara yang mesti ditangani sebelum penilaian penolokan semula ubat yang penuh boleh diteruskan.
 
 ---
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | NSAID — specific approved indication text not available in current data |
-| Predicted New Indication | — (No TxGNN prediction available) |
-| TxGNN Prediction Score | — |
-| Evidence Level | L5 (Insufficient data for evaluation) |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 6 |
-| Recommended Decision | **Hold** |
+| Indikasi Asal | NSAID — teks indikasi yang diluluskan khusus tidak tersedia dalam data semasa |
+| Indikasi Baru yang Dijangkakan | — (Tiada ramalan TxGNN tersedia) |
+| Skor Ramalan TxGNN | — |
+| Tahap Bukti | L5 (Data tidak mencukupi untuk penilaian) |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 6 |
+| Keputusan yang Disyorkan | **Tahan** |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data is not available in the evidence pack. Based on well-established pharmacological knowledge, diclofenac potassium is a non-selective cyclooxygenase (COX-1/COX-2) inhibitor belonging to the NSAID class. It exerts its therapeutic effects by inhibiting prostaglandin synthesis, thereby reducing inflammation, pain, and fever. The potassium salt formulation provides faster absorption compared to the sodium salt.
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia dalam pakej bukti. Berdasarkan pengetahuan farmakologi yang telah ditubuhkan dengan baik, Diclofenac potassium adalah penyekat siklooksigenase (COX-1/COX-2) yang tidak-selektif yang termasuk dalam kelas NSAID. Ia menghasilkan kesan terapeutiknya dengan menghalang sintesis prostaglandin, dengan itu mengurangkan keradangan, kesakitan, dan demam. Formulasi garam kalium menyediakan penyerapan yang lebih pantas berbanding dengan garam natrium.
 
-However, **no TxGNN predictions have been generated** for this drug. The `predicted_indications` array is empty, meaning the model has either not yet been run for diclofenac potassium, or the drug was not successfully mapped to the knowledge graph. Without a predicted indication, the mechanistic plausibility analysis cannot be completed.
+Walau bagaimanapun, **tiada ramalan TxGNN telah dijana** untuk ubat ini. Susunan `predicted_indications` adalah kosong, bermaksud model sama ada belum dijalankan untuk Diclofenac potassium, atau ubat tidak berjaya dipetakan ke grafik pengetahuan. Tanpa indikasi yang dijangkakan, analisis kebolehplausibilan mekanistik tidak dapat diselesaikan.
 
-It is worth noting that diclofenac and the broader NSAID class have been subjects of extensive drug repurposing research globally — particularly in areas such as oncology (colorectal cancer chemoprevention), Alzheimer's disease, and certain dermatological conditions — suggesting that once the TxGNN pipeline is properly configured for this drug, meaningful predictions may emerge.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered (no predicted indication available for evidence search).
+Patut diambil perhatian bahawa Diclofenac dan kelas NSAID secara keseluruhan telah menjadi subjek penyelidikan penolokan semula ubat yang luas di seluruh dunia — khususnya dalam bidang seperti onkologi (pencegahan kanser kolorektal), penyakit Alzheimer, dan keadaan dermatologi tertentu — menunjukkan bahawa apabila saluran paip TxGNN dikonfigurasi dengan betul untuk ubat ini, ramalan yang bermakna mungkin muncul.
 
 ---
 
-## Literature Evidence
+## Bukti Ujian Klinikal
 
-Currently no related literature available (no predicted indication available for evidence search).
+Pada masa ini tiada ujian klinikal berkaitan yang berdaftar (tiada indikasi yang dijangkakan tersedia untuk carian bukti).
 
 ---
 
-## Malaysia Market Information
+## Bukti Kesusasteraan
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+Pada masa ini tiada kesusasteraan berkaitan yang tersedia (tiada indikasi yang dijangkakan tersedia untuk carian bukti).
+
+---
+
+## Maklumat Pasaran Malaysia
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
 |------|------|------|------|
-| *(Not available)* | *(Not available)* | *(Not available)* | *(Not available)* |
+| *(Tidak tersedia)* | *(Tidak tersedia)* | *(Tidak tersedia)* | *(Tidak tersedia)* |
 
-> **Note:** Although 6 product registrations were identified via the NPRA query (queried 2026-03-27), the detailed licence information (authorization numbers, product names, dosage forms, and approved indications) was not captured in the current evidence pack. This data needs to be re-collected from the NPRA database.
-
----
-
-## Safety Considerations
-
-> Please refer to the package insert for safety information. Current evidence pack does not contain resolved safety data (warnings, contraindications, or drug-drug interactions). As a widely used NSAID, key safety concerns generally include gastrointestinal bleeding risk, cardiovascular thrombotic events, renal impairment, and hypersensitivity reactions — but these should be confirmed from the official Malaysian package insert.
+> **Nota:** Walaupun 6 pendaftaran produk telah dikenal pasti melalui pertanyaan NPRA (bertanya 2026-03-27), maklumat lesen terperinci (nombor kebenaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan) tidak ditangkap dalam pakej bukti semasa. Data ini perlu dikumpul semula daripada pangkalan data NPRA.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
-
-**Rationale:**
-The evidence pack is substantially incomplete — there are no TxGNN predicted indications, no resolved DrugBank ID, no mechanism of action data, no safety information, and no detailed licence records. A meaningful repurposing evaluation cannot be conducted until these foundational data gaps are filled.
-
-**To proceed, the following is needed:**
-
-1. **DrugBank mapping** — Resolve the DrugBank ID for diclofenac potassium (likely DB00586 for diclofenac; the potassium salt should map to the parent compound). This is critical for KG-based prediction.
-2. **Re-run TxGNN prediction** — Once DrugBank mapping is complete, execute the knowledge graph and deep learning prediction pipelines to generate candidate indications.
-3. **Collect NPRA licence details** — Re-query the NPRA database to populate authorization numbers, product names, dosage forms, and approved indication text for all 6 registrations.
-4. **Obtain MOA data** — Query DrugBank API for the full mechanism of action, pharmacodynamics, and target information.
-5. **Resolve safety data** — Download and parse the Malaysian package insert to extract key warnings, contraindications, and drug interaction information.
-6. **Evidence collection** — Once a predicted indication is available, run ClinicalTrials.gov, PubMed, and ICTRP collectors to gather supporting evidence.
+> Sila rujuk sisipan pakej untuk maklumat keselamatan. Pakej bukti semasa tidak mengandungi data keselamatan yang diselesaikan (amaran, kontraindikasi, atau interaksi ubat-ubatan). Sebagai NSAID yang digunakan secara meluas, kebimbangan keselamatan utama secara umum termasuk risiko pendarahan gastrointestinal, peristiwa trombotik kardiovaskular, kemerosotan fungsi buah pinggang, dan reaksi hipersensitiviti — tetapi ini harus disahkan daripada sisipan pakej rasmi Malaysia.
 
 ---
 
-*Disclaimer: This report is for research reference only and does not constitute medical advice. Drug repurposing candidates require clinical validation before application.*
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Alasan:**
+Pakej bukti jauh daripada lengkap — tiada indikasi yang dijangkakan TxGNN, tiada ID DrugBank yang diselesaikan, tiada data mekanisme tindakan, tiada maklumat keselamatan, dan tiada rekod lesen terperinci. Penilaian penolokan semula ubat yang bermakna tidak dapat dijalankan sehingga jurang data asas ini diisi.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+
+1. **Pemetaan DrugBank** — Selesaikan ID DrugBank untuk Diclofenac potassium (mungkin DB00586 untuk diklofenac; garam kalium harus dipetakan ke sebatian induk). Ini penting untuk ramalan berasaskan KG.
+2. **Jalankan semula ramalan TxGNN** — Sebaik sahaja pemetaan DrugBank selesai, laksanakan saluran paip ramalan grafik pengetahuan dan pembelajaran mendalam untuk menghasilkan indikasi calon.
+3. **Kumpul butir-butir lesen NPRA** — Bertanya semula pangkalan data NPRA untuk melengkapkan nombor kebenaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan untuk kesemua 6 pendaftaran.
+4. **Dapatkan data MOA** — Pertanyaan API DrugBank untuk maklumat mekanisme tindakan penuh, farmakodinamik, dan sasaran.
+5. **Selesaikan data keselamatan** — Muat turun dan parsekan sisipan pakej Malaysia untuk mengekstrak maklumat amaran utama, kontraindikasi, dan interaksi ubat-ubatan.
+6. **Pengumpulan bukti** — Sebaik sahaja indikasi yang dijangkakan tersedia, jalankan kolektor ClinicalTrials.gov, PubMed, dan ICTRP untuk mengumpul bukti sokongan.
+
+---
+
+*Penafian: Laporan ini adalah untuk rujukan penyelidikan sahaja dan tidak merupakan nasihat perubatan. Calon penolokan semula ubat memerlukan pengesahan klinikal sebelum aplikasi.*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

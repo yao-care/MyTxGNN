@@ -29,97 +29,98 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Linezolid: Drug Repurposing Evaluation Report (TxGNN Predictions Pending)
+# Linezolid: Laporan Penilaian Penggubahan Semula Ubat (Ramalan TxGNN Menunggu)
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Linezolid is a synthetic oxazolidinone-class antibiotic approved for treating serious Gram-positive bacterial infections, including those caused by methicillin-resistant *Staphylococcus aureus* (MRSA) and vancomycin-resistant *Enterococcus* (VRE).
-At this time, **no TxGNN repurposing predictions are available** for this drug, as the `predicted_indications` list in the current Evidence Pack is empty.
-Without a prediction target, a full mechanistic and clinical evidence evaluation cannot be completed; this report documents the current data status and outlines the steps needed before evaluation can proceed.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Not retrievable from current data (all license detail fields are empty) |
-| Predicted New Indication | No predictions available |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | N/A — no prediction target to assess |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 9 |
-| Recommended Decision | **Hold** |
+Linezolid adalah antibiotik sintetik kelas oxazolidinone yang diluluskan untuk merawat jangkitan bakteria Gram-positif yang serius, termasuk yang disebabkan oleh *Staphylococcus aureus* yang tahan methicillin (MRSA) dan *Enterococcus* yang tahan vancomycin (VRE).
+Pada masa ini, **tiada ramalan penggubahan semula TxGNN tersedia** untuk ubat ini, kerana senarai `predicted_indications` dalam Evidence Pack semasa adalah kosong.
+Tanpa sasaran ramalan, penilaian mekanistik dan klinikal yang lengkap tidak boleh disempurnakan; laporan ini mendokumentasikan status data semasa dan menggariskan langkah-langkah yang diperlukan sebelum penilaian dapat diteruskan.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Pantas
 
-This section cannot be completed in its standard form because no repurposing target has been predicted. The following contextual information is provided based on publicly known pharmacology to support future evaluation once predictions are generated.
-
-Linezolid inhibits bacterial protein synthesis by binding to the 23S ribosomal RNA component of the 50S ribosomal subunit, thereby preventing formation of the 70S initiation complex. This mechanism is distinct from all other antibiotic classes, which explains its activity against multidrug-resistant Gram-positive organisms. Within the drug repurposing literature, oxazolidinone scaffolds have attracted interest beyond infectious disease — notably in oncology (ribosomal biology overlap) and some inflammatory conditions — though no such prediction is available in this pack.
-
-The MOA field is currently flagged as a data gap (DG002). Retrieving the full DrugBank MOA entry should be the first remediation step, as it is foundational to any mechanistic plausibility argument for a predicted new indication.
-
----
-
-## Clinical Trial Evidence
-
-No predicted indication is available in this Evidence Pack; therefore, no disease-specific clinical trial evidence can be presented.
-
-Once a prediction target is confirmed, the ClinicalTrials.gov and ICTRP collectors should be queried for that specific drug–disease pair.
+| Item | Kandungan |
+|------|-----------|
+| Petunjuk Asal | Tidak boleh diperolehi daripada data semasa (semua medan butiran lesen adalah kosong) |
+| Petunjuk Baru yang Diramalkan | Tiada ramalan tersedia |
+| Skor Ramalan TxGNN | T/A |
+| Tahap Bukti | T/A — tiada sasaran ramalan untuk dinilai |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 9 |
+| Keputusan yang Disyorkan | **Tahan** |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-No predicted indication is available in this Evidence Pack; therefore, no disease-specific literature evidence can be presented.
+Bahagian ini tidak boleh disempurnakan dalam bentuk piawainya kerana tiada sasaran penggubahan semula yang telah diramalkan. Maklumat kontekstual berikut disediakan berdasarkan farmakologi yang diketahui umum untuk menyokong penilaian masa depan apabila ramalan dihasilkan.
+
+Linezolid menghambat sintesis protein bakteria dengan mengikat pada komponen RNA ribosomal 23S subunit ribosomal 50S, dengan itu mencegah pembentukan kompleks permulaan 70S. Mekanisme ini adalah berbeza daripada semua kelas antibiotik lain, yang menjelaskan aktivitasnya terhadap organisma Gram-positif yang tahan pelbagai ubat. Dalam literatur penggubahan semula ubat, perancah oxazolidinone telah menarik minat melampaui penyakit berjangkit — terutamanya dalam onkologi (pertindihan biologi ribosomal) dan beberapa keadaan inflamasi — walaupun tiada ramalan sedemikian tersedia dalam pakej ini.
+
+Medan MOA kini ditandakan sebagai jurang data (DG002). Mendapatkan semula entri MOA DrugBank yang lengkap harus menjadi langkah pemulihan pertama, kerana ia adalah asas kepada sebarang hujah kebolehkerjaan mekanistik untuk petunjuk baru yang diramalkan.
 
 ---
 
-## Malaysia Market Information
+## Bukti Ujian Klinikal
 
-Nine active registrations are recorded with the National Pharmaceutical Regulatory Agency (NPRA) of Malaysia. However, all license detail fields (authorization number, product name, dosage form, approved indication) were returned as empty strings in the current Evidence Pack. The table below reflects this data gap.
+Tiada petunjuk yang diramalkan tersedia dalam Evidence Pack ini; oleh itu, tiada bukti ujian klinikal khusus penyakit boleh dipersembahkan.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+Setelah sasaran ramalan disahkan, pemungut ClinicalTrials.gov dan ICTRP harus dikueri untuk pasangan ubat–penyakit tertentu itu.
+
+---
+
+## Bukti Literatur
+
+Tiada petunjuk yang diramalkan tersedia dalam Evidence Pack ini; oleh itu, tiada bukti literatur khusus penyakit boleh dipersembahkan.
+
+---
+
+## Maklumat Pasaran Malaysia
+
+Sembilan pendaftaran aktif direkodkan dengan Agensi Kawal Selia Farmaseutikal Kebangsaan (NPRA) Malaysia. Walau bagaimanapun, semua medan butiran lesen (nombor kebenaran, nama produk, bentuk dos, petunjuk yang diluluskan) telah dikembalikan sebagai rentetan kosong dalam gabungan data semasa. Jadual di bawah mencerminkan jurang data ini.
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjuk yang Diluluskan |
 |---------------------|-------------|-------------|---------------------|
-| — | — | — | Detailed fields not populated in current data pull |
+| — | — | — | Medan butiran tidak diisi dalam tarikan data semasa |
 
-> **Action required:** Re-query the NPRA database with explicit field extraction for all 9 registrations, or download the corresponding product information leaflets, to populate this table.
-
----
-
-## Safety Considerations
-
-All safety fields in the current Evidence Pack are flagged as data gaps:
-
-- **Key Warnings**: Not available (DG001 — Blocking severity)
-- **Contraindications**: Not available (DG001 — Blocking severity)
-- **Drug Interactions**: Query returned no results (DDI status: `not_found`)
-
-> Please refer to the package insert (SmPC / PIL) available on the NPRA or originator (Pfizer) product pages for complete safety information. Linezolid is known to carry important warnings regarding myelosuppression, serotonin syndrome (in combination with serotonergic agents), peripheral and optic neuropathy, and lactic acidosis — these must be formally extracted before any safety assessment can proceed.
+> **Tindakan diperlukan:** Kueri semula pangkalan data NPRA dengan pengekstrakan medan yang jelas untuk semua 9 pendaftaran, atau muat turun risalah maklumat produk yang sepadan, untuk memenuhi jadual ini.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Semua medan keselamatan dalam Evidence Pack semasa ditandakan sebagai jurang data:
 
-**Rationale:**
-The Evidence Pack for Linezolid currently contains no TxGNN repurposing predictions and is missing all safety, MOA, and regulatory detail data. There is no actionable prediction to evaluate, and three of the four data domains required for a standard assessment are incomplete.
+- **Amaran Utama**: Tidak tersedia (DG001 — Keterukan pemblokiran)
+- **Kontraindikasi**: Tidak tersedia (DG001 — Keterukan pemblokiran)
+- **Interaksi Ubat**: Kueri tidak mengembalikan hasil (`not_found` status)
 
-**To proceed, the following is needed:**
-
-- **[Critical — DG001]** Download and parse NPRA / originator product insert PDFs to extract approved indications, warnings, and contraindications for all 9 registered products.
-- **[Critical — DG002]** Query the DrugBank API for Linezolid (DB00601) to retrieve the full mechanism of action, pharmacodynamics, and toxicity profile.
-- **[Critical]** Re-run the TxGNN prediction pipeline to generate `predicted_indications` for Linezolid; confirm whether the empty list reflects a true model output (no candidates above threshold) or a pipeline failure.
-- **[High]** Re-query NPRA with structured field extraction to populate all 9 license records (authorization number, product name, dosage form, indication text).
-- **[Medium]** Rerun the DDI query against DrugBank interaction data (the `not_found` status may reflect a query issue rather than a genuine absence of interactions, given linezolid's well-known serotonergic interaction profile).
-- **[Medium]** Once a prediction target is confirmed, run ClinicalTrials.gov and PubMed collectors for that specific drug–disease pair to establish an evidence level (L1–L5).
+> Sila rujuk risalah pembungkusan (SmPC / PIL) yang tersedia di halaman produk NPRA atau pemula untuk maklumat keselamatan yang lengkap. Linezolid diketahui membawa amaran penting berkaitan mielosupresi, sindrom serotonin (dalam kombinasi dengan agen serotonergik), neuropati perifer dan opik, serta asidosis laktat — ini mesti diekstrak secara formal sebelum sebarang penilaian keselamatan boleh diteruskan.
 
 ---
 
-*This report is for research reference only and does not constitute medical advice. Any drug repurposing candidate requires clinical validation before application.*
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Evidence Pack untuk Linezolid pada masa ini tidak mengandungi ramalan penggubahan semula TxGNN dan hilang semua data keselamatan, MOA, dan peraturan butiran. Tiada ramalan yang boleh ditindakan untuk dinilai, dan tiga daripada empat domain data yang diperlukan untuk penilaian piawai adalah tidak lengkap.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+
+- **[Kritikal — DG001]** Muat turun dan analisis PDF risalah produk NPRA / pemula untuk mengekstrak petunjuk yang diluluskan, amaran, dan kontraindikasi bagi semua 9 produk terdaftar.
+- **[Kritikal — DG002]** Kueri API DrugBank untuk Linezolid (DB00601) untuk mendapatkan semula mekanisme tindakan yang lengkap, farmakodinamik, dan profil ketoksikan.
+- **[Kritikal]** Jalankan semula saluran ramalan TxGNN untuk menjana `predicted_indications` untuk Linezolid; sahkan sama ada senarai kosong mencerminkan output model yang benar (tiada calon di atas ambang) atau kegagalan saluran.
+- **[Tinggi]** Kueri semula NPRA dengan pengekstrakan medan berstruktur untuk memenuhi semua 9 rekod lesen (nombor kebenaran, nama produk, bentuk dos, teks petunjuk).
+- **[Sederhana]** Jalankan semula kueri DDI terhadap data interaksi DrugBank (status `not_found` mungkin mencerminkan masalah kueri daripada ketiadaan interaksi yang tulen, memandangkan profil interaksi serotonergik linezolid yang diketahui dengan baik).
+- **[Sederhana]** Setelah sasaran ramalan disahkan, jalankan pemungut ClinicalTrials.gov dan PubMed untuk pasangan ubat–penyakit tertentu itu untuk menetapkan tahap bukti (L1–L5).
+
+---
+
+*Laporan ini adalah untuk rujukan penyelidikan sahaja dan tidak merupakan nasihat perubatan. Sebarang calon penggubahan semula ubat memerlukan pengesahan klinikal sebelum aplikasi.*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

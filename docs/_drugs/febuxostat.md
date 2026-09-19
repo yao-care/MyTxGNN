@@ -29,97 +29,98 @@ Tahap bukti: **L5** | Indikasi diramal: **3**
 
 </div>
 
-# Febuxostat: From Hyperuricemia to Renal Hypouricemia, HPRT Deficiency and Lesch-Nyhan Syndrome
+# Febuxostat: Dari Hiperurisemia kepada Hipourisemia Renal, Defisiensi HPRT dan Sindrom Lesch-Nyhan
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Febuxostat is a xanthine oxidase (XO) inhibitor whose established use is lowering uric acid in hyperuricemia/gout. The TxGNN model surfaced three related purine-metabolism disorders as repurposing candidates — **Renal Hypouricemia**, **HPRT Partial Deficiency (Kelley-Seegmiller syndrome)**, and **Lesch-Nyhan Syndrome** — but the strength and even the direction of the rationale differ sharply between them: the top-ranked candidate (Renal Hypouricemia) is mechanistically counter-intuitive and supported only by one low-relevance trial and two review articles, while the two lower-ranked candidates fit the drug's known mechanism directly but rest on case-report-level evidence only, with no registered clinical trials.
+Febuxostat adalah perencat xanthine oxidase (XO) yang digunakan secara mapan untuk menurunkan asid urik pada hiperurisemia/gaut. Model TxGNN mendedahkan tiga gangguan metabolisme purin yang berkaitan sebagai calon penyusunan semula ubat — **Hipourisemia Renal**, **Defisiensi HPRT Separa (sindrom Kelley-Seegmiller)**, dan **Sindrom Lesch-Nyhan** — namun kekuatan dan bahkan arah rasional berbeza dengan tajam di antara mereka: calon teratas (Hipourisemia Renal) adalah kontra-intuitif mekanik dan hanya disokong oleh satu uji kaji berkaitannya rendah dan dua artikel ulasan, manakala dua calon berperingkat lebih rendah sesuai dengan mekanisme ubat yang diketahui secara langsung tetapi bergantung pada bukti peringkat laporan kes sahaja, tanpa sebarang ujian klinikal berdaftar.
 
 ---
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | Hyperuricemia / Gout (uric acid-lowering therapy) — inferred from mechanism text in the evidence pack; TFDA license indication text itself was not returned (data gap) |
-| Predicted Indications Evaluated | 3 (see comparison table below) |
-| Top-Ranked Prediction | Hypouricemia, Renal (score 99.99%) — direction of effect is mechanistically counter-intuitive, see rationale |
-| Most Mechanistically Coherent Prediction | HPRT Partial Deficiency / Lesch-Nyhan Syndrome |
-| Evidence Level | L3 (rank 1) / L4 (rank 2, 3) |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 11 |
-| Recommended Decision | **Hold** (blocked — see rationale) |
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Hiperurisemia / Gaut (terapi penurun asid urik) — disimpulkan daripada teks mekanisme dalam pakej bukti; teks indikasi lesen TFDA itu sendiri tidak dipulangkan (jurang data) |
+| Indikasi yang Diramalkan Dinilai | 3 (lihat jadual perbandingan di bawah) |
+| Ramalan Teratas | Hipourisemia, Renal (skor 99.99%) — arah kesan adalah kontra-intuitif mekanik, lihat rasional |
+| Ramalan Paling Koheren Mekanik | Defisiensi HPRT Separa / Sindrom Lesch-Nyhan |
+| Tahap Bukti | L3 (peringkat 1) / L4 (peringkat 2, 3) |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 11 |
+| Cadangan Keputusan | **Tahan** (disekat — lihat rasional) |
 
-### Predicted Indications Comparison
+### Perbandingan Indikasi yang Diramalkan
 
-| Rank | Disease | TxGNN Score | Evidence Level | Decision Stage | Recommendation |
+| Peringkat | Penyakit | Skor TxGNN | Tahap Bukti | Peringkat Keputusan | Cadangan |
 |---|---|---|---|---|---|
-| 1 | Hypouricemia, renal | 99.99% | L3 | S1 | Research Question |
-| 2 | Hypoxanthine-guanine phosphoribosyltransferase (HPRT) partial deficiency | 99.98% | L4 | S2 | Proceed with Guardrails |
-| 3 | Lesch-Nyhan syndrome | 99.68% | L4 | S2 | Proceed with Guardrails |
+| 1 | Hipourisemia, renal | 99.99% | L3 | S1 | Soalan Penyelidikan |
+| 2 | Defisiensi hipoxanthine-guanine phosphoribosyltransferase (HPRT) separa | 99.98% | L4 | S2 | Teruskan dengan Penjaga |
+| 3 | Sindrom Lesch-Nyhan | 99.68% | L4 | S2 | Teruskan dengan Penjaga |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Adalah Munasabah?
 
-The `drug.original_moa` field is marked as a data gap, but the mechanism can be reconstructed from the evidence pack's own rationale text: Febuxostat is a **selective xanthine oxidase (XO) inhibitor** that blocks the conversion of hypoxanthine/xanthine to uric acid — the mechanistic basis of its approved use in hyperuricemia and gout.
+Medan `drug.original_moa` ditandakan sebagai jurang data, tetapi mekanisme boleh dibina semula daripada teks rasional pakej bukti itu sendiri: Febuxostat adalah **perencat xanthine oxidase (XO) yang terpilih** yang menyekat penukaran hipoxanthine/xanthine kepada asid urik — asas mekanik penggunaannya yang diluluskan dalam hiperurisemia dan gaut.
 
-For **Renal Hypouricemia (rank 1)**, the link is not straightforward: this is a condition of *low* serum urate, and a uric-acid-*lowering* drug is not a direct treatment for it — treating hypouricemia with febuxostat would be mechanistically contradictory. The actual hypothesis surfaced in the literature (PMID 36754409) is narrower and different: in renal hypouricemia patients who develop exercise-induced acute kidney injury (EIAKI), XO activity spikes during exercise and generates reactive oxygen species (ROS); XO inhibitors may protect the kidney by suppressing ROS generation, independent of any further urate-lowering effect. This is a plausible but indirect and unconfirmed mechanistic path, and the single supporting trial (NCT04398251) provides no usable detail on population or endpoints (Relevance Grade C, status Unknown).
+Untuk **Hipourisemia Renal (peringkat 1)**, hubungannya tidak mudah: ini adalah keadaan *rendah* urata serum, dan ubat *penurun* asid urik bukanlah rawatan langsung untuknya — merawat hipourisemia dengan febuxostat akan bercanggah mekanik. Hipotesis sebenar yang didedahkan dalam kesusasteraan (PMID 36754409) adalah lebih sempit dan berbeza: dalam pesakit hipourisemia renal yang mengalami kecederaan ginjal akut yang dipicu oleh senaman (EIAKI), aktiviti XO melonjak semasa senaman dan menjana spesies oksigen reaktif (ROS); perencat XO mungkin melindungi ginjal dengan menekan penjanaan ROS, bebas daripada sebarang kesan penurun urata yang lebih lanjut. Ini adalah laluan mekanik yang munasabah tetapi tidak langsung dan tidak disahkan, dan percubaan tunggal yang menyokong (NCT04398251) tidak memberikan perincian yang boleh digunakan mengenai populasi atau titik akhir (Gred Perkaitan C, status Tidak Diketahui).
 
-For **HPRT Partial Deficiency (rank 2)** and **Lesch-Nyhan Syndrome (rank 3)**, the mechanistic fit is direct and conventional: both are caused by reduced/absent HPRT enzyme activity, which shunts purine metabolism through the XO pathway and causes severe hyperuricemia, gout, and renal complications. Febuxostat's XO-inhibiting mechanism acts squarely on this downstream pathology, and it is already used clinically as an allopurinol alternative in exactly this patient population — this is a case of the model recovering a known, mechanistically sound off-label use pattern for rare purine-metabolism disorders rather than a novel discovery.
+Untuk **Defisiensi HPRT Separa (peringkat 2)** dan **Sindrom Lesch-Nyhan (peringkat 3)**, kesepadanan mekanik adalah langsung dan konvensional: kedua-duanya disebabkan oleh aktiviti enzim HPRT yang berkurangan/tiada, yang mengalihkan metabolisme purin melalui laluan XO dan menyebabkan hiperurisemia teruk, gaut, dan komplikasi renal. Mekanisme perencat-XO febuxostat bertindak terus pada patologi hiliran ini, dan ia sudah digunakan secara klinikal sebagai alternatif allopurinol dalam populasi pesakit yang sama persis — ini adalah kes pemulihan model terhadap corak penggunaan luar label yang diketahui dan mekanik yang wajar untuk gangguan metabolisme purin yang jarang berlaku daripada penemuan yang baru.
 
 ---
 
-## Clinical Trial Evidence
+## Bukti Uji Kaji Klinikal
 
-| Indication | Trial Number | Phase | Status | Enrollment | Key Findings |
+| Indikasi | Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---|---------|------|------|------|---------|
-| Hypouricemia, renal | [NCT04398251](https://clinicaltrials.gov/study/NCT04398251) | Phase 4 | Unknown | 100 | Single-center (Shanghai Xu-hui Central Hospital, Urology) study of uric acid control on stone recurrence and renal function in hyperuricemic calculi patients; title/summary do not confirm relevance to renal hypouricemia specifically (Relevance Grade C) |
+| Hipourisemia, renal | [NCT04398251](https://clinicaltrials.gov/study/NCT04398251) | Fasa 4 | Tidak Diketahui | 100 | Kajian pusat tunggal (Shanghai Xu-hui Central Hospital, Urology) mengenai kawalan asid urik pada pengulangan batu dan fungsi renal dalam pesakit batu kalkuli hiperuremik; tajuk/ringkasan tidak mengesahkan kaitan kepada hipourisemia renal secara khusus (Gred Perkaitan C) |
 
-HPRT Partial Deficiency and Lesch-Nyhan Syndrome: **Currently no related clinical trials registered.**
+Defisiensi HPRT Separa dan Sindrom Lesch-Nyhan: **Tiada ujian klinikal berkaitan yang berdaftar pada masa ini.**
 
 ---
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-| Indication | PMID | Year | Type | Journal | Key Findings |
+| Indikasi | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |---|------|-----|------|------|---------|
-| Hypouricemia, renal | [31650389](https://pubmed.ncbi.nlm.nih.gov/31650389/) | 2020 | Review | Clinical Rheumatology | Narrative review of hypouricemia etiology and clinical relevance for rheumatologists |
-| Hypouricemia, renal | [36754409](https://pubmed.ncbi.nlm.nih.gov/36754409/) | 2023 | Review/Case | Internal Medicine (Tokyo) | Case of familial renal hypouricemia (URAT1 mutation) with recurrent EIAKI; proposes non-purine XO inhibitors (incl. febuxostat) as prophylaxis via ROS suppression |
-| HPRT partial deficiency | [32128695](https://pubmed.ncbi.nlm.nih.gov/32128695/) | 2020 | Case report | CEN Case Reports | Novel HPRT1 p.V35M mutation causing partial HPRT deficiency presenting as familial juvenile gout |
-| HPRT partial deficiency | [26073243](https://pubmed.ncbi.nlm.nih.gov/26073243/) | 2015 | Case report | Internal Medicine (Tokyo) | Novel HPRT gene mutation combined with known variants, presenting as hyperuricemia/gout in a 15-year-old |
-| Lesch-Nyhan syndrome | [40763966](https://pubmed.ncbi.nlm.nih.gov/40763966/) | 2025 | Case report/series | Zhonghua Yi Xue Yi Chuan Xue Za Zhi | Clinical, genetic, and treatment characteristics of two pediatric Lesch-Nyhan syndrome cases |
-| Lesch-Nyhan syndrome | [32128695](https://pubmed.ncbi.nlm.nih.gov/32128695/) | 2020 | Case report | CEN Case Reports | Same HPRT1 mutation case as above, relevant to the broader HPRT-deficiency spectrum including Lesch-Nyhan syndrome |
+| Hipourisemia, renal | [31650389](https://pubmed.ncbi.nlm.nih.gov/31650389/) | 2020 | Ulasan | Clinical Rheumatology | Ulasan naratif etiologi hipourisemia dan perkaitan klinikal untuk ahli reumatologi |
+| Hipourisemia, renal | [36754409](https://pubmed.ncbi.nlm.nih.gov/36754409/) | 2023 | Ulasan/Kes | Internal Medicine (Tokyo) | Kes hipourisemia renal keluarga (mutasi URAT1) dengan EIAKI berulang; mencadangkan perencat XO bukan purin (termasuk febuxostat) sebagai profilaksis melalui penindasaan ROS |
+| Defisiensi HPRT separa | [32128695](https://pubmed.ncbi.nlm.nih.gov/32128695/) | 2020 | Laporan kes | CEN Case Reports | Mutasi HPRT1 p.V35M novel yang menyebabkan defisiensi HPRT separa yang mempersembahkan sebagai gaut remaja keluarga |
+| Defisiensi HPRT separa | [26073243](https://pubmed.ncbi.nlm.nih.gov/26073243/) | 2015 | Laporan kes | Internal Medicine (Tokyo) | Mutasi gen HPRT novel digabungkan dengan varian yang diketahui, mempersembahkan sebagai hiperurisemia/gaut dalam seorang berusia 15 tahun |
+| Sindrom Lesch-Nyhan | [40763966](https://pubmed.ncbi.nlm.nih.gov/40763966/) | 2025 | Laporan kes/siri | Zhonghua Yi Xue Yi Chuan Xue Za Zhi | Ciri klinikal, genetik, dan rawatan dua kes sindrom Lesch-Nyhan pediatrik |
+| Sindrom Lesch-Nyhan | [32128695](https://pubmed.ncbi.nlm.nih.gov/32128695/) | 2020 | Laporan kes | CEN Case Reports | Kes mutasi HPRT1 yang sama seperti di atas, berkaitan dengan spektrum defisiensi HPRT yang lebih luas termasuk sindrom Lesch-Nyhan |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-The evidence pack confirms Febuxostat is **Marketed** in Malaysia with **11 total registrations**, but the individual license records (license number, product name, dosage form, approved indication text) were all returned empty in this data pull — a data gap requiring a direct NPRA/TFDA re-query before this can be used for regulatory review.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-*(Note: `key_warnings`, `contraindications`, and `ddi` are all marked as data gaps in this evidence pack. This is flagged as a **Blocking** gap (DG001) — it directly prevents completion of the S1 safety screening stage for any of the three candidate indications, independent of their individual evidence strength.)*
+Pakej bukti mengesahkan Febuxostat adalah **Dipasarkan** di Malaysia dengan **11 jumlah pendaftaran**, tetapi rekod lesen individu (nombor lesen, nama produk, bentuk dos, teks indikasi yang diluluskan) semuanya dipulangkan kosong dalam cabutan data ini — jurang data yang memerlukan pertanyaan semula NPRA/TFDA secara langsung sebelum ini boleh digunakan untuk semakan kawal selia.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila rujuk risalah penghimpaun untuk maklumat keselamatan.
 
-**Rationale:**
-Regardless of how promising the mechanistic case is for HPRT Partial Deficiency and Lesch-Nyhan Syndrome, the pack's own data-gap log marks the missing TFDA label warnings/contraindications (DG001) as **Blocking severity** — it explicitly prevents entry into the S1 safety initial-review stage. No indication can be advanced past this gate until that data is supplied. Separately, the top-ranked candidate (Renal Hypouricemia) has a mechanistically indirect rationale and only Grade C trial evidence, and should not be prioritized even once the safety gate clears.
+*(Nota: `key_warnings`, `contraindications`, dan `ddi` semuanya ditandakan sebagai jurang data dalam pakej bukti ini. Ini ditandakan sebagai jurang **Sekatan** (DG001) — ia menghalang secara langsung penyelesaian peringkat saringan keselamatan awal S1 untuk mana-mana tiga indikasi calon, bebas daripada kekuatan bukti individu mereka.)*
 
-**To proceed, the following is needed:**
-- TFDA/NPRA product label (warnings, contraindications, DDI) — required to clear the Blocking S1 safety gate
-- Detailed original MOA documentation from DrugBank (currently a High-severity data gap)
-- Full NPRA license-level detail (product name, dosage form, indication text) for the 11 registrations
-- Clarification of the NCT04398251 trial's actual population/endpoints to confirm or rule out relevance to renal hypouricemia
-- Given the rarity of HPRT deficiency and Lesch-Nyhan syndrome, real-world/registry evidence should be sought to supplement the case-report-only literature base before any guardrailed use is finalized
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Tidak kira seberapa menjanjikan kes mekanik untuk Defisiensi HPRT Separa dan Sindrom Lesch-Nyhan, log jurang data pakej sendiri menandakan amaran label TFDA yang hilang/kontraidikasi (DG001) sebagai **Keparahan Sekatan** — ia secara eksplisit menghalang kemasukan ke dalam peringkat saringan keselamatan awal S1. Tiada indikasi boleh dimajukan melepasi pintu gerbang ini sehingga data itu disediakan. Secara berasingan, calon teratas (Hipourisemia Renal) mempunyai rasional yang tidak langsung mekanik dan hanya bukti ujian Gred C, dan tidak boleh diprioritaskan walaupun pintu gerbang keselamatan dibersihkan.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Label produk TFDA/NPRA (amaran, kontraidikasi, DDI) — diperlukan untuk membersihkan pintu gerbang keselamatan S1 yang Sekatan
+- Dokumentasi MOA asal terperinci daripada DrugBank (pada masa ini jurang data Keparahan Tinggi)
+- Perincian peringkat lesen NPRA penuh (nama produk, bentuk dos, teks indikasi) untuk 11 pendaftaran
+- Penjelasan populasi/titik akhir sebenar ujian NCT04398251 untuk mengesahkan atau menolak perkaitan kepada hipourisemia renal
+- Memandangkan kelangkaan defisiensi HPRT dan sindrom Lesch-Nyhan, bukti dunia nyata/daftar harus dicari untuk menambah asas kesusasteraan kes-saja sebelum sebarang penggunaan berpenjaga dimuktamadkan
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

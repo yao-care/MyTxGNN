@@ -29,82 +29,83 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Alectinib Hydrochloride: From ALK+ Non-Small Cell Lung Cancer to [No Repurposing Predictions Generated]
+# Alectinib Hydrochloride: Daripada Kanser Paru Sel Bukan Kecil ALK+ kepada [Tiada Ramalan Penyalahgunaan Ubat Dijana]
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Alectinib Hydrochloride is an ALK/RET tyrosine kinase inhibitor with an established indication in ALK-positive non-small cell lung cancer (NSCLC), and is confirmed as a marketed product in Malaysia with 1 registered licence.
-However, the current Evidence Pack contains **no TxGNN-generated repurposing predictions** for this compound, as key upstream data — including the DrugBank ID, approved indication text, and safety information — were not successfully retrieved.
-A full drug repurposing evaluation **cannot be completed** until these data gaps are resolved and the prediction pipeline is re-run.
+Alectinib hydrochloride adalah inhibitor kinase tirosin ALK/RET yang terpilih dengan indikasi yang sudah mapan dalam kanser paru sel bukan kecil positif ALK (NSCLC), dan dikonfirmasi sebagai produk yang dipasarkan di Malaysia dengan 1 lesen terdaftar.
+Walau bagaimanapun, Pakej Bukti semasa tidak mengandungi **ramalan penyalahgunaan ubat yang dijana oleh TxGNN** untuk sebatian ini, kerana data upstream utama — termasuk ID DrugBank, teks indikasi yang diluluskan, dan maklumat keselamatan — tidak berjaya diambil semula.
+Penilaian penyalahgunaan ubat yang menyeluruh **tidak dapat diselesaikan** sehingga jurang data ini diselesaikan dan saluran ramalan dijalankan semula.
 
 ---
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
+| Perkara | Kandungan |
 |------|---------|
-| Original Indication | Not populated in current data (known from background: ALK-positive NSCLC) |
-| Predicted New Indication | No predictions generated |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | N/A |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 1 |
-| Recommended Decision | **Hold** |
+| Indikasi Asal | Tidak diisi dalam data semasa (diketahui daripada latar belakang: NSCLC positif ALK) |
+| Indikasi Baru yang Diramalkan | Tiada ramalan dijana |
+| Skor Ramalan TxGNN | N/A |
+| Tahap Bukti | N/A |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Marketed) |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | **Tahan** |
 
 ---
 
-## Background and Data Status
+## Latar Belakang dan Status Data
 
-Currently, detailed mechanism of action data is not available in the Evidence Pack. Based on known information, alectinib is an orally administered, selective ALK (Anaplastic Lymphoma Kinase) and RET kinase inhibitor. Its efficacy in ALK-positive NSCLC has been well established through pivotal Phase 3 trials (e.g., ALEX, J-ALEX, ALESIA), demonstrating superior progression-free survival compared to crizotinib, including activity against CNS metastases.
+Pada masa ini, data mekanisme tindakan yang terperinci tidak tersedia dalam Pakej Bukti. Berdasarkan maklumat yang diketahui, alectinib adalah inhibitor kinase ALK (Anaplastic Lymphoma Kinase) dan RET yang terpilih dan diberikan secara oral. Keberkesanannya dalam NSCLC positif ALK telah ditetapkan dengan baik melalui ujian Fasa 3 utama (contohnya, ALEX, J-ALEX, ALESIA), menunjukkan kelangsungan hidup tanpa perkembangan yang lebih baik berbanding crizotinib, termasuk aktiviti terhadap metastasis sistem saraf pusat.
 
-The TxGNN knowledge graph prediction step did not produce any candidate repurposing indications in the current run. This is most likely attributable to the unresolved `drugbank_id: null` field — the DrugBank ID is required as a node identifier in the knowledge graph, and its absence prevents TxGNN from computing similarity scores against disease nodes.
+Langkah ramalan graf pengetahuan TxGNN tidak menghasilkan sebarang calon indikasi penyalahgunaan dalam larian semasa. Ini kemungkinan besar disebabkan oleh medan `drugbank_id: null` yang belum diselesaikan — ID DrugBank diperlukan sebagai pengecam nod dalam graf pengetahuan, dan ketiadaannya menghalang TxGNN daripada mengira skor persamaan terhadap nod penyakit.
 
-Once the DrugBank mapping is restored (DB ID: DB11363 for alectinib) and the pipeline is re-executed, biologically plausible repurposing candidates may include other ALK-driven malignancies such as anaplastic large cell lymphoma (ALCL), inflammatory myofibroblastic tumour (IMT), and neuroblastoma — all of which overexpress or harbour ALK fusions. However, these candidates must be formally scored by TxGNN before evaluation can proceed.
+Setelah pemetaan DrugBank dipulihkan (DB ID: DB11363 untuk alectinib) dan saluran dijalankan semula, calon penyalahgunaan yang boleh dipercayai secara biologi mungkin termasuk keganasan lain yang didorong oleh ALK seperti limfoma sel besar anaplastik (ALCL), tumor mikofibroblastik radang (IMT), dan neuroblastoma — semuanya mengekspresikan berlebihan atau mengandungi fusi ALK. Walau bagaimanapun, calon-calon ini mesti diskor secara formal oleh TxGNN sebelum penilaian dapat diteruskan.
 
 ---
 
-## Cytotoxicity
+## Sitotoksisiti
 
-| Item | Content |
+| Perkara | Kandungan |
 |------|---------|
-| Cytotoxicity Classification | Targeted therapy — selective ALK/RET tyrosine kinase inhibitor (second-generation) |
-| Myelosuppression Risk | Low to moderate; anaemia and neutropenia reported but less frequent than conventional cytotoxics |
-| Emetogenicity Classification | Low (oral agent; nausea reported in ~18% of patients) |
-| Monitoring Items | CBC with differential, liver function tests (ALT/AST/bilirubin), renal function, pulmonary function, ECG (QTc), CPK (myalgia/rhabdomyolysis risk) |
-| Handling Protection | Oral solid dosage form; standard handling precautions for oral targeted therapies apply; avoid crushing capsules without containment |
+| Pengelasan Sitotoksisiti | Terapi yang disasarkan — inhibitor kinase tirosin ALK/RET yang terpilih (generasi kedua) |
+| Risiko Penindasan Sum-sum | Rendah hingga sederhana; anemia dan neutropenia dilaporkan tetapi kurang kerap daripada sitostatik konvensional |
+| Pengelasan Emetogenisiti | Rendah (ejen oral; mual dilaporkan dalam ~18% pesakit) |
+| Item Pemantauan | CBC dengan pembezaan, ujian fungsi hati (ALT/AST/bilirubin), fungsi buah pinggang, fungsi paru, ECG (QTc), CPK (risiko rhabdomiolisis/myalgia) |
+| Perlindungan Pengendalian | Bentuk dos pepejal oral; langkah perlindungan pengendalian standard untuk terapi sasaran oral dikenakan; elakkan menghancurkan kapsul tanpa pembendungan |
 
 ---
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-> **Note:** Both key warnings and contraindications are listed as data gaps in the current Evidence Pack (DG001: Severity — Blocking). No drug-drug interaction data was retrieved (query status: not_found). Full safety evaluation is blocked until the product insert is retrieved and parsed.
-
----
-
-## Malaysia Market Information
-
-The Evidence Pack confirms **1 active registration** with market status **✓ Marketed (Marketed)**. However, all licence record fields (licence number, product name, dosage form, manufacturer, and approved indication text) were returned as empty strings and could not be populated in this report.
-
-> **Action required:** Query the NPRA Product Registration database directly at [https://www.npra.gov.my](https://www.npra.gov.my) using the search term "ALECTINIB" to retrieve the full registration record and approved indication text.
+> **Nota:** Kedua-dua amaran utama dan kontraindikasi disenaraikan sebagai jurang data dalam Pakej Bukti semasa (DG001: Keterukan — Menyekat). Tiada data interaksi ubat-ubatan diambil semula (status pertanyaan: not_found). Penilaian keselamatan penuh disekat sehingga sisipan produk diambil semula dan dianalisis.
 
 ---
 
-## Conclusion and Next Steps
+## Maklumat Pasaran Malaysia
 
-**Decision: Hold**
+Pakej Bukti mengesahkan **1 pendaftaran aktif** dengan status pasaran **✓ Dipasarkan (Marketed)**. Walau bagaimanapun, semua medan rekod lesen (nombor lesen, nama produk, bentuk dos, pengilang, dan teks indikasi yang diluluskan) dikembalikan sebagai rentetan kosong dan tidak dapat diisi dalam laporan ini.
 
-**Rationale:**
-The prediction pipeline did not generate any TxGNN repurposing candidates for alectinib, most likely due to a missing DrugBank ID that prevents the drug from being located as a node in the knowledge graph. Without scored predictions, no evidence-based repurposing evaluation can be conducted.
+> **Tindakan diperlukan:** Soal pangkalan data Pendaftaran Produk NPRA secara langsung di [https://www.npra.gov.my](https://www.npra.gov.my) menggunakan istilah carian "ALECTINIB" untuk memperoleh rekod pendaftaran penuh dan teks indikasi yang diluluskan.
 
-**To proceed, the following is needed:**
+---
 
-- **[Critical — DG001]** Retrieve the Malaysian product insert (PI/SmPC) from the NPRA database to populate approved indication, warnings, and contraindications
-- **[Critical — DG002]** Resolve `drugbank_id: null` — confirmed DrugBank ID is **DB11363**; update the mapping table and re-run `scripts/run_kg_prediction.py`
-- **[Critical]** Re-run the full TxGNN prediction pipeline after DrugBank mapping is restored; expected repurposing candidates include ALK-driven tumours beyond NSCLC
-- **[High]** Populate the licence record fields (product name, dosage form, approved indication) from NPRA to complete the regulatory section
-- **[High]** Once predictions are available, collect clinical trial (ClinicalTrials.gov / ICTRP) and PubMed literature evidence for the top-ranked predicted indication before re-generating this report
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Alasan:**
+Saluran ramalan tidak menghasilkan sebarang calon penyalahgunaan TxGNN untuk alectinib, kemungkinan besar disebabkan oleh ID DrugBank yang hilang yang menghalang ubat daripada terletak sebagai nod dalam graf pengetahuan. Tanpa ramalan yang diskor, tiada penilaian penyalahgunaan berasaskan bukti dapat dijalankan.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+
+- **[Kritikal — DG001]** Ambil semula sisipan produk Malaysia (PI/SmPC) daripada pangkalan data NPRA untuk mengisi indikasi yang diluluskan, amaran, dan kontraindikasi
+- **[Kritikal — DG002]** Selesaikan `drugbank_id: null` — ID DrugBank yang disahkan ialah **DB11363**; kemaskini jadual pemetaan dan jalankan semula `scripts/run_kg_prediction.py`
+- **[Kritikal]** Jalankan semula saluran ramalan TxGNN penuh selepas pemetaan DrugBank dipulihkan; calon penyalahgunaan yang dijangka termasuk tumor yang didorong ALK di luar NSCLC
+- **[Tinggi]** Isikan medan rekod lesen (nama produk, bentuk dos, indikasi yang diluluskan) daripada NPRA untuk melengkapkan bahagian pengawalseliaan
+- **[Tinggi]** Setelah ramalan tersedia, kumpul ujian klinikal (ClinicalTrials.gov / ICTRP) dan bukti literatur PubMed untuk indikasi yang diprediksi tertinggi sebelum menjana semula laporan ini
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

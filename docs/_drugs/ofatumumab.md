@@ -29,78 +29,79 @@ Tahap bukti: **L5** | Indikasi diramal: **8**
 
 </div>
 
-# Ofatumumab: From Chronic Lymphocytic Leukemia to IGHV-Mutated CLL/SLL Subtype
+# Ofatumumab: Daripada Leukemia Limfosit Kronik kepada Subtip CLL/SLL Bermutasi IGHV
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Ofatumumab is a human anti-CD20 monoclonal antibody originally approved for chronic lymphocytic leukemia (CLL), including relapsed/refractory disease.
-The TxGNN model's top-ranked prediction points to **chronic lymphocytic leukemia/small lymphocytic lymphoma with IGHV somatic hypermutation** (a molecularly-defined CLL/SLL subtype) with a **99.77% prediction score**,
-but currently **no clinical trials or publications are indexed specifically for this subtype** — the evidence base is inferred by transfer from the drug's well-established parent CLL/SLL indication.
+Ofatumumab ialah antibodi monoklonal anti-CD20 manusia yang pada awalnya diluluskan untuk leukemia limfosit kronik (CLL), termasuk penyakit yang relaps atau tahan rawatan.
+Ramalan model TxGNN berpangkat teratas menunjuk kepada **leukemia limfosit kronik/limfoma limfosit kecil dengan hipermatasi somatik gen pembolehubah rantai berat imunoglobulin** (subtip CLL/SLL yang ditakrifkan secara molekul) dengan **skor ramalan 99.77%**,
+namun pada masa ini **tiada percubaan klinikal atau penerbitan yang diindeks khusus bagi subtip ini** — asas bukti disimpulkan daripada pemindahan daripada penunjuk CLL/SLL induk ubat yang telah mantap.
 
-## Quick Overview
+## Panduan Ringkas
 
-| Item | Content |
-|------|------|
-| Original Indication | Chronic lymphocytic leukemia (CLL), incl. disease refractory to fludarabine and alemtuzumab — inferred from associated trial/literature evidence in this pack; the Malaysia (NPRA) license record itself has no indication text on file |
-| Predicted New Indication | Chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation (IGHV-mutated CLL/SLL) |
-| TxGNN Prediction Score | 99.77% |
-| Evidence Level | L2 (per model scoring; no trials/literature are directly indexed to this subtype — evidence is transferred from the parent CLL/SLL entity, see below) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Leukemia limfosit kronik (CLL), termasuk penyakit yang tahan terhadap fludarabina dan alemtuzumab — disimpulkan daripada bukti percubaan/literatur yang berkaitan dalam pakej ini; rekod lesen Malaysia (NPRA) sendiri tidak mempunyai teks petunjuk pada fail |
+| Petunjuk Baru Diramalkan | Leukemia limfosit kronik/limfoma limfosit kecil dengan hipermatasi somatik gen pembolehubah rantai berat imunoglobulin (IGHV-bermutasi CLL/SLL) |
+| Skor Ramalan TxGNN | 99.77% |
+| Tahap Bukti | L2 (mengikut pemarkahan model; tiada percubaan/literatur yang diindeks secara langsung kepada subtip ini — bukti dipindahkan daripada entiti CLL/SLL induk, rujuk di bawah) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed DrugBank-level mechanism-of-action data is flagged as a data gap in this pack (DG002). However, the associated literature evidence consistently describes ofatumumab as a fully human IgG1κ anti-CD20 monoclonal antibody that binds a membrane-proximal epitope on CD20 and depletes CD20-positive B cells primarily through complement-dependent cytotoxicity (CDC) and antibody-dependent cell-mediated cytotoxicity (ADCC).
+Data mekanisme tindakan tahap DrugBank yang terperinci telah ditandai sebagai jurang data dalam pakej ini (DG002). Walau bagaimanapun, bukti literatur yang berkaitan secara konsisten menerangkan ofatumumab sebagai antibodi monoklonal anti-CD20 manusia IgG1κ sepenuhnya yang mengikat epitop berhampiran membran pada CD20 dan menyusutkan sel-sel B positif CD20 terutamanya melalui sitotoksisiti bergantung pelengkap (CDC) dan sitotoksisiti bergantung sel yang menyerap antibodi (ADCC).
 
-IGHV-mutated CLL/SLL is not a separate disease — it is a prognostic molecular subtype of CLL/SLL defined by immunoglobulin heavy-chain variable-region somatic hypermutation status. Since CD20 expression and the CDC/ADCC-based mechanism of ofatumumab are shared across CLL/SLL regardless of IGHV status, the mechanistic case for activity in this subtype follows directly from the drug's already-approved CLL/SLL indication rather than representing a novel biological hypothesis.
+IGHV-bermutasi CLL/SLL bukan penyakit tersendiri — ia ialah subtip molekul prognostik CLL/SLL yang ditakrifkan oleh status hipermatasi somatik gen pembolehubah rantai berat imunoglobulin. Memandangkan ungkapan CD20 dan mekanisme berasaskan CDC/ADCC ofatumumab dikongsi merentasi CLL/SLL tanpa mengira status IGHV, kes mekanistik untuk aktiviti dalam subtip ini berpunca terus daripada petunjuk CLL/SLL yang telah diluluskan ubat daripada mewakili hipotesis biologi baru.
 
-This also explains the evidence gap: registration trials for ofatumumab in CLL/SLL (e.g., the Phase 3 DUO trial, NCT02004522, and the RESONATE comparator trials) generally did not stratify enrollment or reporting by IGHV mutation status, so no study is indexed specifically to this subtype. The parent CLL/SLL indication (see predicted_indications rank 5 in this pack) carries much stronger direct evidence — L1, 34 clinical trials including multiple completed Phase 3 studies, and 20 publications — and the scoring engine explicitly notes that this is ofatumumab's original, already-approved indication rather than a genuine repurposing signal.
+Ini juga menjelaskan jurang bukti: percubaan pendaftaran untuk ofatumumab dalam CLL/SLL (contohnya, percubaan Fasa 3 DUO, NCT02004522, dan percubaan pembanding RESONATE) secara umumnya tidak membahagikan pendaftaran atau pelaporan mengikut status mutasi IGHV, jadi tiada kajian yang diindeks khusus bagi subtip ini. Petunjuk CLL/SLL induk (lihat ramalan_indikasi pangkat 5 dalam pakej ini) membawa bukti langsung yang jauh lebih kuat — L1, 34 percubaan klinikal termasuk berbilang kajian Fasa 3 yang telah selesai, dan 20 penerbitan — dan enjin pemarkahan secara terang-terangan menyatakan bahawa ini ialah petunjuk asal ubat yang telah diluluskan daripada membentuk isyarat pemindahan semula ubat yang tulen.
 
-## Clinical Trial Evidence
+## Bukti Percubaan Klinikal
 
-Currently no related clinical trials registered specifically for the IGHV-mutated CLL/SLL subtype.
+Pada masa ini tiada percubaan klinikal yang berkaitan berdaftar khusus bagi subtip IGHV-bermutasi CLL/SLL.
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no related literature available specifically for the IGHV-mutated CLL/SLL subtype.
+Pada masa ini tiada literatur yang berkaitan tersedia khusus bagi subtip IGHV-bermutasi CLL/SLL.
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Malaysia (NPRA) records confirm the product is marketed, with 1 registered license. However, the underlying license record (authorization number, product name, dosage form, and approved indication text) is not populated in the source data and constitutes a data gap.
+Rekod Malaysia (NPRA) mengesahkan produk dipasarkan, dengan 1 lesen berdaftar. Walau bagaimanapun, rekod lesen asas (nombor kebenaran, nama produk, bentuk dos, dan teks petunjuk yang diluluskan) tidak diisi dalam data sumber dan membentuk jurang data.
 
-## Cytotoxicity
+## Sitotoksisiti
 
-Ofatumumab's original indication is an oncologic condition (CLL/SLL), so this section applies.
+Petunjuk asal ofatumumab ialah keadaan onkologi (CLL/SLL), jadi bahagian ini terpakai.
 
-| Item | Content |
-|------|------|
-| Cytotoxicity Classification | Targeted therapy / Immunotherapy (anti-CD20 monoclonal antibody; not a conventional cytotoxic agent) |
-| Myelosuppression Risk | Low to Moderate — literature describes an overall favorable toxicity profile relative to conventional chemoimmunotherapy, though neutropenia has been reported, particularly in combination regimens |
-| Emetogenicity Classification | Low (monoclonal antibody class) |
-| Monitoring Items | CBC with differential, infusion-related reaction monitoring, hepatitis B reactivation screening (standard precaution for anti-CD20 agents), renal and hepatic function |
-| Handling Protection | Standard biologic infusion precautions (premedication, infusion-reaction monitoring) apply; conventional cytotoxic drug handling regulations are not required as ofatumumab is not a DNA-damaging/alkylating cytotoxic agent |
+| Item | Kandungan |
+|------|----------|
+| Klasifikasi Sitotoksisiti | Terapi bertarget / Imunurapi (antibodi monoklonal anti-CD20; bukan agen sitotoksik konvensional) |
+| Risiko Penindasan Sumsum Tulang | Rendah hingga Sederhana — literatur menerangkan profil ketoksikan keseluruhan yang menggalakkan berbanding dengan kemoteurapi imun konvensional, walaupun neutropenia telah dilaporkan, terutamanya dalam rejimen kombinasi |
+| Klasifikasi Emetogenisiti | Rendah (kelas antibodi monoklonal) |
+| Item Pemantauan | CBC dengan pembezaan, pemantauan tindak balas berkaitan infusi, pemeriksaan penyalaan semula hepatitis B (penjaga piawai bagi agen anti-CD20), fungsi renal dan hepatik |
+| Perlindungan Pengendalian | Penjagaan infusi biologi standard (pramedicasi, pemantauan tindak balas infusi) terpakai; peraturan pengendalian agen sitotoksik konvensional tidak diperlukan kerana ofatumumab bukan agen sitotoksik yang musnah DNA/alkilasi |
 
-Detailed institution-specific toxicity data (e.g., DrugBank toxicity fields) were not available in this pack — please refer to the package insert warnings and precautions for full detail.
+Data ketoksikan tahap institusi yang terperinci (contohnya, medan ketoksikan DrugBank) tidak tersedia dalam pakej ini — sila rujuk amaran dan penerangan perempuan pembungkusan untuk perincian lengkap.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information. TFDA/NPRA-level warnings, contraindications, and drug interaction data are all flagged as data gaps in this pack (DG001, Blocking severity), and the DDI query returned no results.
+Sila rujuk perempuan pembungkusan untuk maklumat keselamatan. Data amaran tahap TFDA/NPRA, kontraindikasi, dan interaksi ubat semuanya ditandai sebagai jurang data dalam pakej ini (DG001, Keterukan Sekatan), dan pertanyaan DDI mengembalikan tiada hasil.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-- The top-ranked prediction (IGHV-mutated CLL/SLL) has no direct clinical trial or literature evidence — it is a mechanistically plausible extension of an already-approved indication rather than a novel repurposing signal, and the missing safety label data (DG001, Blocking) prevents even an initial S1 safety screen.
+**Asas Pemikiran:**
+- Ramalan berpangkat teratas (IGHV-bermutasi CLL/SLL) tidak mempunyai bukti percubaan klinikal atau literatur langsung — ia ialah sambungan mekanistik yang munasabah kepada petunjuk yang telah diluluskan daripada mewakili isyarat pemindahan semula ubat yang tulen, dan data label keselamatan yang hilang (DG001, Sekatan) menghalangi bahkan pemeriksaan keselamatan S1 awal.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert (仿單) PDF for warnings, contraindications, and drug interactions (DG001)
-- Confirmed DrugBank mechanism-of-action record (DG002)
-- IGHV-status-stratified subgroup analysis from existing CLL/SLL Phase 3 data (e.g., re-analysis of the DUO trial, NCT02004522) to generate direct evidence for this subtype
-- Malaysia-specific license and approved-indication text for the marketed product
+**Untuk meneruskan, perkara berikut diperlukan:**
+- PDF perempuan pembungkusan TFDA/NPRA (仿單) bagi amaran, kontraindikasi, dan interaksi ubat (DG001)
+- Rekod mekanisme tindakan DrugBank yang disahkan (DG002)
+- Analisis subkumpulan berstrata status IGHV daripada data Fasa 3 CLL/SLL yang sedia ada (contohnya, analisis semula percubaan DUO, NCT02004522) bagi menghasilkan bukti langsung bagi subtip ini
+- Teks lesen dan petunjuk yang diluluskan khusus Malaysia bagi produk yang dipasarkan
 
-**Note:** A separate candidate in this pack, **follicular lymphoma** (rank 3, score 99.70%), carries substantially stronger independent evidence — 15 clinical trials (including a terminated Phase 3 head-to-head study) and 20 publications — and represents a more genuine repurposing opportunity outside ofatumumab's original CLL/SLL indication; it may warrant its own dedicated evaluation.
+**Nota:** Calon berasingan dalam pakej ini, **limfoma folikel** (pangkat 3, skor 99.70%), membawa bukti bebas yang jauh lebih kuat — 15 percubaan klinikal (termasuk kajian perbandingan kepala-kepala Fasa 3 yang ditamatkan) dan 20 penerbitan — dan mewakili peluang pemindahan semula ubat yang lebih tulen di luar petunjuk CLL/SLL asal ofatumumab; ia mungkin memerlukan penilaian tersendiri yang berdedikasi.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

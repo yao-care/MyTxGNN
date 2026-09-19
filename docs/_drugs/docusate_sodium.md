@@ -29,80 +29,80 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Docusate Sodium: Drug Repurposing Evaluation — No New Indication Predicted
+# Docusate Sodium: Penilaian Ubah Tujuan Ubat — Tiada Indikasi Baharu yang Diramalkan
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Docusate Sodium is a well-known anionic surfactant stool softener, currently marketed in Malaysia with 1 registration.
-The TxGNN model **did not predict any new repurposing indications** for this drug, and no candidate disease was identified for further evaluation.
+Docusate sodium adalah surfaktant anionik yang terkenal sebagai pelembut najis, kini dipasarkan di Malaysia dengan 1 pendaftaran. Model TxGNN **tidak meramalkan sebarang indikasi ubah tujuan ubat yang baharu** untuk ubat ini, dan tiada penyakit calon yang dikenal pasti untuk penilaian lanjutan.
 
 ---
 
-## Quick Overview
+## Gambaran Pantas
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | (Not recorded in current dataset) |
-| Predicted New Indication | **None** — no predictions generated |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | N/A |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 1 |
-| Recommended Decision | **Hold** |
+| Indikasi Asal | (Tidak tercatat dalam set data semasa) |
+| Indikasi Baharu yang Diramalkan | **Tiada** — tiada ramalan yang dijana |
+| Skor Ramalan TxGNN | N/A |
+| Tahap Bukti | N/A |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Jumlah Pendaftaran | 1 |
+| Keputusan yang Disyorkan | **Tahan** |
 
 ---
 
-## Why Were No Predictions Generated?
+## Mengapa Tiada Ramalan yang Dijana?
 
-Docusate Sodium (dioctyl sodium sulfosuccinate) is an anionic surfactant that acts as a stool softener. It lowers the surface tension of stool, allowing water and lipids to penetrate the faecal mass, thereby facilitating bowel movements. It is widely used as an over-the-counter laxative.
+Docusate sodium (dioctyl sodium sulfosuccinate) adalah surfaktant anionik yang bertindak sebagai pelembut najis. Ia mengurangkan ketegangan permukaan najis, membenarkan air dan lipid menembusi jisim najis, dengan itu memudahkan pergerakan usus. Ia digunakan secara meluas sebagai ubat pencahar tanpa resepi.
 
-There are several possible reasons why TxGNN did not generate repurposing candidates for this drug:
+Terdapat beberapa kemungkinan sebab mengapa TxGNN tidak menjana calon ubah tujuan ubat untuk ubat ini:
 
-1. **Missing DrugBank ID**: The Evidence Pack does not contain a DrugBank ID mapping for Docusate Sodium. Without this identifier, the drug cannot be located within the TxGNN knowledge graph, making it impossible to compute disease–drug prediction scores.
+1. **DrugBank ID yang hilang**: Pek Bukti tidak mengandungi pemetaan DrugBank ID untuk Docusate sodium. Tanpa pengenalpastian ini, ubat tidak dapat ditempatkan dalam graf pengetahuan TxGNN, menjadikannya mustahil untuk mengira skor ramalan penyakit–ubat.
 
-2. **Limited knowledge graph connectivity**: Even if mapped, Docusate Sodium is a simple surfactant with a non-specific physical mechanism of action (rather than a receptor- or enzyme-targeted pharmacological mechanism). Drugs with non-specific MOAs tend to have fewer edges in the knowledge graph, reducing the likelihood of meaningful repurposing predictions.
+2. **Keterhubungan graf pengetahuan terbatas**: Walaupun dipetakan, docusate sodium adalah surfaktant mudah dengan mekanisme tindakan fizikal bukan spesifik (bukan mekanisme farmakologi bertarget reseptor atau enzim). Ubat dengan MOA bukan spesifik cenderung mempunyai lebih sedikit tepi dalam graf pengetahuan, mengurangkan kemungkinan ramalan ubah tujuan ubat yang bermakna.
 
-3. **Narrow therapeutic profile**: As a stool softener with localised gastrointestinal action and minimal systemic absorption, the pharmacological basis for cross-indication repurposing is inherently limited.
+3. **Profil terapeutik sempit**: Sebagai pelembut najis dengan tindakan gastrointestinal setempat dan penyerapan sistemik minimal, asas farmakologi untuk ubah tujuan ubat lintas indikasi secara intrinsik terhad.
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
 |------|------|------|------|
-| (Not recorded) | (Not recorded) | (Not recorded) | (Not recorded) |
+| (Tidak tercatat) | (Tidak tercatat) | (Tidak tercatat) | (Tidak tercatat) |
 
-> **Note:** One registration was identified in the NPRA database, but detailed licence fields (authorization number, product name, dosage form, approved indication) were not captured in the current evidence pack. Manual verification on the [NPRA Quest3+ portal](https://quest3plus.bpfk.gov.my/) is recommended.
-
----
-
-## Safety Considerations
-
-> Please refer to the package insert for safety information. No warnings, contraindications, or drug interaction data were available in the current evidence pack.
+> **Nota:** Satu pendaftaran telah dikenal pasti dalam pangkalan data NPRA, tetapi bidang lesen terperinci (nombor kebenaran, nama produk, bentuk dos, indikasi yang diluluskan) tidak ditangkap dalam pek bukti semasa. Pengesahan manual di [portal NPRA Quest3+](https://quest3plus.bpfk.gov.my/) adalah disyorkan.
 
 ---
 
-## Data Gaps Identified
+## Pertimbangan Keselamatan
 
-| Gap ID | Item | Severity | Impact | Remediation |
+> Sila rujuk sisipan paket untuk maklumat keselamatan. Tiada amaran, kontraindikasi, atau data interaksi ubat tersedia dalam pek bukti semasa.
+
+---
+
+## Jurang Data yang Dikenal Pasti
+
+| ID Jurang | Item | Keterukan | Kesan | Penyelesaian |
 |--------|------|----------|--------|-------------|
-| DG001 | TFDA Label Warnings / Contraindications | Blocking | Cannot perform S1 safety screening | Download and parse label PDF from TFDA website |
-| DG002 | Mechanism of Action (MOA) | High | Affects mechanistic relevance analysis | Query DrugBank API |
+| DG001 | Amaran Label TFDA / Kontraindikasi | Menghalang | Tidak dapat melakukan penskrinan keselamatan S1 | Muat turun dan analisis PDF label dari laman web TFDA |
+| DG002 | Mekanisme Tindakan (MOA) | Tinggi | Menjejaskan analisis relevansi mekanistik | Pertanyaan API DrugBank |
 
 ---
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-No repurposing candidates were predicted by TxGNN for Docusate Sodium. The most likely root cause is the missing DrugBank ID mapping, which prevents the drug from being located in the knowledge graph. Additionally, as a non-specific surfactant laxative with minimal systemic exposure, Docusate Sodium has limited pharmacological rationale for cross-indication repurposing.
+**Alasan:**
+Tiada calon ubah tujuan ubat yang diramalkan oleh TxGNN untuk Docusate sodium. Punca utama yang paling mungkin adalah pemetaan DrugBank ID yang hilang, yang menghalang ubat daripada ditempatkan dalam graf pengetahuan. Selain itu, sebagai ubat pencahar surfaktant bukan spesifik dengan pendedahan sistemik minimal, Docusate sodium mempunyai rasional farmakologi terbatas untuk ubah tujuan ubat lintas indikasi.
 
-**To proceed, the following is needed:**
-- **Resolve DrugBank mapping**: Docusate Sodium corresponds to DrugBank ID **DB11089** (or **DB04352** for the dioctyl sulfosuccinate salt form). Re-run the mapping pipeline with corrected identifiers.
-- **Re-execute TxGNN prediction** after DrugBank ID is successfully mapped to the knowledge graph.
-- **Fill data gaps**: Obtain label warnings (DG001) and MOA information (DG002) to enable safety screening if predictions are subsequently generated.
-- **If no predictions emerge after re-mapping**, classify this drug as **low-priority for repurposing** and archive.
+**Untuk meneruskan, yang berikut diperlukan:**
+- **Selesaikan pemetaan DrugBank**: Docusate sodium sepadan dengan DrugBank ID **DB11089** (atau **DB04352** untuk bentuk garam dioctyl sulfosuccinate). Jalankan semula saluran pemetaan dengan pengenalpastian yang dibetulkan.
+- **Jalankan semula ramalan TxGNN** selepas DrugBank ID berjaya dipetakan ke graf pengetahuan.
+- **Isi jurang data**: Dapatkan amaran label (DG001) dan maklumat MOA (DG002) untuk membolehkan penskrinan keselamatan S1 jika ramalan kemudiannya dijana.
+- **Jika tiada ramalan muncul selepas pemetaan semula**, kelaskan ubat ini sebagai **keutamaan rendah untuk ubah tujuan ubat** dan arkibkan.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

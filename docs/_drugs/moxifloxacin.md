@@ -29,61 +29,62 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Moxifloxacin: From Bacterial Infections to Hyperamylasemia
+# Moxifloxacin: Daripada Jangkitan Bakterial kepada Hiperamilasemia
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Moxifloxacin is a fluoroquinolone-class antibacterial agent marketed in Malaysia (21 registrations); specific approved indication wording was not included in this evidence pack.
-The TxGNN model's top-ranked prediction is **Hyperamylasemia**, with a raw score of 99.98%, but this candidate is currently supported by **0 clinical trials** and **0 publications**.
+Moxifloxacin ialah agen antibakteri kelas fluorokuinolone yang dipasarkan di Malaysia (21 pendaftaran); perkataan indikasi yang diluluskan khusus tidak disertakan dalam pakej bukti ini.
+Ramalan tertinggi model TxGNN ialah **Hiperamilasemia**, dengan skor mentah 99.98%, tetapi calon ini pada masa kini disokong oleh **0 ujian klinikal** dan **0 penerbitan**.
 
-## Quick Overview
+## Tinjauan Cepat
 
-| Item | Content |
-|------|------|
-| Original Indication | Not specified in the regulatory data provided (moxifloxacin is a fluoroquinolone antibacterial; general indications for this class include respiratory, skin/soft-tissue and intra-abdominal bacterial infections, not confirmed from this pack) |
-| Predicted New Indication | Hyperamylasemia |
-| TxGNN Prediction Score | 99.98% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 21 |
-| Recommended Decision | Hold |
+| Perkara | Kandungan |
+|------|----------|
+| Indikasi Asal | Tidak dinyatakan dalam data peraturan yang disediakan (moxifloxacin ialah agen antibakteri fluorokuinolone; indikasi umum untuk kelas ini termasuk jangkitan respiratori, kulit/jaringan lembut dan intra-abdominal bakterial, tidak disahkan daripada pakej ini) |
+| Indikasi Baharu yang Diramal | Hiperamilasemia |
+| Skor Ramalan TxGNN | 99.98% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 21 |
+| Keputusan yang Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data is not available (flagged as a High-severity data gap, DG002). Based on known information, moxifloxacin is a fluoroquinolone antibacterial that inhibits bacterial DNA gyrase and topoisomerase IV; its established efficacy is in bacterial infections, not in pancreatic or metabolic disease.
+Pada masa kini, data mekanisme tindakan terperinci tidak tersedia (ditandai sebagai jurang data Keparahan Tinggi, DG002). Berdasarkan maklumat yang diketahui, moxifloxacin ialah agen antibakteri fluorokuinolone yang menghambat DNA gyrase dan topoisomerase IV bakterial; keberkesanannya yang telah ditegakkan berada dalam jangkitan bakterial, bukan dalam penyakit pankreas atau metabolik.
 
-The evidence pack's own mechanistic assessment for this candidate states there is **no known biological pathway** linking moxifloxacin's antibacterial mechanism to hyperamylasemia (pancreatic amylase elevation). The high TxGNN score most likely reflects proximity between nodes in the knowledge graph rather than a plausible pharmacological relationship. No clinical trials, no ICTRP-registered trials, and no PubMed literature were found linking these two entities.
+Penilaian mekanisme pakej bukti sendiri untuk calon ini menyatakan tiada laluan biologi yang diketahui menghubungkan mekanisme antibakteri moxifloxacin kepada hiperamilasemia (peningkatan amilase pankreas). Skor TxGNN yang tinggi kemungkinan besar mencerminkan kedekatan antara nod dalam graf pengetahuan dan bukannya hubungan farmakologi yang munasabah. Tiada ujian klinikal, tiada ujian berdaftar ICTRP, dan tiada literatur PubMed ditemui menghubungkan kedua-dua entiti ini.
 
-Because the score is high but entirely unsupported by mechanism or empirical evidence, this candidate should be treated as a pure model output requiring independent biological validation before any further evaluation.
+Oleh kerana skor tinggi tetapi sepenuhnya tidak disokong oleh mekanisme atau bukti empirikal, calon ini harus dianggap sebagai keluaran model tulen yang memerlukan pengesahan biologi independen sebelum sebarang penilaian lanjutan.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-Currently no related clinical trials registered
+Pada masa kini tiada ujian klinikal berkaitan yang didaftarkan
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no related literature available
+Pada masa kini tiada literatur berkaitan tersedia
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-NPRA records confirm 21 active registrations and "Marketed" status for moxifloxacin, but license number, product name, dosage form and approved-indication text were not populated in this evidence pack, so a per-product table cannot be produced. This is tracked as a Blocking data gap (DG001) affecting downstream safety review.
+Rekod NPRA mengesahkan 21 pendaftaran aktif dan status "Dipasarkan" untuk moxifloxacin, tetapi nombor lesen, nama produk, bentuk dos dan teks indikasi yang diluluskan tidak diisi dalam pakej bukti ini, jadi jadual per-produk tidak dapat dihasilkan. Ini dijejaki sebagai jurang data Penyekat (DG001) yang mempengaruhi pemeriksaan keselamatan hiliran.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The prediction reaches Evidence Level L5 (model prediction only) — no clinical trials, no literature, and no identifiable mechanistic link between moxifloxacin's antibacterial activity and hyperamylasemia. A high TxGNN score alone is not sufficient grounds to advance this candidate.
+**Alasan:**
+Ramalan mencapai Tahap Bukti L5 (ramalan model sahaja) — tiada ujian klinikal, tiada literatur, dan tiada pautan mekanisme yang dapat dikenal pasti antara aktiviti antibakteri moxifloxacin dan hiperamilasemia. Skor TxGNN yang tinggi sahaja tidak cukup asas untuk memajukan calon ini.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert warnings and contraindications (currently blocking safety screening, DG001)
-- Confirmed mechanism of action data for moxifloxacin (DG002)
-- Preclinical or mechanistic evidence connecting fluoroquinolone antibacterials to pancreatic amylase regulation
-- Original approved indication text from the regulatory license record, to properly assess indication-to-indication plausibility
+**Untuk meneruskan, yang berikut diperlukan:**
+- Peringatan sisipan pakej TFDA/NPRA dan kontraindikasi (pada masa kini menyekat pemeriksaan keselamatan, DG001)
+- Data mekanisme tindakan yang disahkan untuk moxifloxacin (DG002)
+- Bukti praklinikal atau mekanisme menghubungkan antibakteri fluorokuinolone kepada pengawalaturan amilase pankreas
+- Teks indikasi yang diluluskan asal daripada rekod lesen peraturan, untuk menilai kewajaran indikasi-kepada-indikasi dengan betul
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,77 +29,78 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# ABACAVIR SULFATE: Repurposing Readiness Assessment — Insufficient Data to Complete Full Evaluation
+# ABACAVIR SULFATE: Penilaian Kesiapan Penggunaan Semula Ubat — Data Tidak Mencukupi untuk Menyelesaikan Penilaian Penuh
 
 ---
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Abacavir Sulfate is a nucleoside reverse transcriptase inhibitor (NRTI) widely used in HIV-1 treatment regimens.
-The current Evidence Pack contains **no TxGNN-predicted new indications**, and critical data elements — including mechanism of action, package insert warnings, and product-level registration details — are missing.
-With **6 active registrations** confirmed in Malaysia but no repurposing candidates generated, this evaluation cannot proceed beyond a preliminary readiness assessment.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Not retrieved (license details unavailable) |
-| Predicted New Indication | No prediction available |
-| TxGNN Prediction Score | Not available |
-| Evidence Level | N/A |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 6 |
-| Recommended Decision | **Hold** |
+Abacavir Sulfate ialah penghambat transkriptase balik nukleosida (NRTI) yang digunakan secara meluas dalam rejimen rawatan HIV-1.
+Pakej Bukti semasa mengandungi **tiada petunjuk baru yang diramalkan oleh TxGNN**, dan elemen data penting — termasuk mekanisme tindakan, amaran surat sisipan ubat dan perincian pendaftaran peringkat produk — tidak ada.
+Dengan **6 pendaftaran aktif** disahkan di Malaysia tetapi tiada calon penggunaan semula ubat yang dijana, penilaian ini tidak dapat meneruskan melampaui penilaian kesiapan awal.
 
 ---
 
-## Why Is This Prediction Reasonable?
+## Tinjauan Pantas
 
-No repurposing candidates were returned by the TxGNN model in this evaluation run. Without a predicted new indication, mechanistic bridging analysis between an original and a target disease cannot be performed.
-
-Furthermore, mechanism of action (MOA) data is listed as a data gap (DG002), which means even a manual mechanistic rationale cannot be constructed at this stage. Abacavir's pharmacological class is known from the literature to be NRTI, but a formal MOA profile from DrugBank has not been retrieved and should not be substituted with assumptions.
-
-Until the prediction pipeline is re-run with a complete drug entry (including a valid DrugBank ID) and MOA data is retrieved, this section will remain incomplete.
-
----
-
-## Malaysia Market Information
-
-Six registrations are confirmed by the NPRA query (query ID 1, status: success), but product-level details — including authorization numbers, product names, dosage forms, and approved indication text — were not populated in the current Evidence Pack. The table below reflects what is available.
-
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------------------|-------------|-------------|-------------------|
-| — | — | — | Details not retrieved; 6 registrations confirmed via NPRA |
-
-> **Action required:** Re-query NPRA with full license retrieval to populate product details before proceeding to clinical review.
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Tidak diambil (perincian lesen tidak tersedia) |
+| Petunjuk Baru yang Diramalkan | Tiada ramalan tersedia |
+| Skor Ramalan TxGNN | Tidak tersedia |
+| Tahap Bukti | T/A |
+| Status Pasaran Malaysia | ✓ Pasaran |
+| Bilangan Pendaftaran | 6 |
+| Keputusan yang Disyorkan | **Tahan** |
 
 ---
 
-## Safety Considerations
+## Mengapa Ramalan Ini Munasabah?
 
-Please refer to the package insert for safety information.
+Tiada calon penggunaan semula ubat yang dikembalikan oleh model TxGNN dalam larian penilaian ini. Tanpa petunjuk baru yang diramalkan, analisis jambatan mekanik antara penyakit asal dan penyakit sasaran tidak dapat dilakukan.
 
-> **Note:** Key warnings and contraindications are listed as blocking data gaps (DG001). A known class-specific concern for abacavir is HLA-B\*5701-associated hypersensitivity syndrome — this should be explicitly captured when package insert data is retrieved and must be addressed in any prospective repurposing protocol.
+Selain itu, data mekanisme tindakan (MOA) disenaraikan sebagai jurang data (DG002), yang bermaksud bahawa walaupun rasional mekanik manual tidak dapat dibina pada peringkat ini. Kelas farmakoloji Abacavir diketahui daripada kesusasteraan menjadi NRTI, tetapi profil MOA formal daripada DrugBank belum diambil dan tidak boleh digantikan dengan andaian.
+
+Sehingga saluran ramalan dijalankan semula dengan entri ubat lengkap (termasuk ID DrugBank yang sah) dan data MOA diambil, bahagian ini akan kekal tidak lengkap.
 
 ---
 
-## Conclusion and Next Steps
+## Maklumat Pasaran Malaysia
 
-**Decision: Hold**
+Enam pendaftaran disahkan oleh pertanyaan NPRA (ID pertanyaan 1, status: kejayaan), tetapi perincian peringkat produk — termasuk nombor kebenaran, nama produk, bentuk dos dan teks petunjuk yang diluluskan — tidak diisi dalam Pakej Bukti semasa. Jadual di bawah mencerminkan apa yang tersedia.
 
-**Rationale:**
-The Evidence Pack lacks predicted indications, a valid DrugBank ID, MOA data, and package insert safety information — the minimum inputs required for a repurposing evaluation. Proceeding without these would produce an unreliable result.
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjuk yang Diluluskan |
+|------------------|------------|-----------|------------------------|
+| — | — | — | Perincian tidak diambil; 6 pendaftaran disahkan melalui NPRA |
 
-**To proceed, the following is needed:**
+> **Tindakan diperlukan:** Pertanyaan semula NPRA dengan pengambilan lesen penuh untuk mengisi perincian produk sebelum meneruskan ke ulasan klinikal.
 
-- **TxGNN prediction pipeline**: Re-run with a resolved DrugBank ID for Abacavir Sulfate to generate repurposing candidates
-- **DrugBank ID resolution**: Map "ABACAVIR SULFATE" to its DrugBank entry (expected: DB01048) via the DrugBank API
-- **MOA data retrieval** (DG002): Query DrugBank for mechanism of action, pharmacodynamics, and drug targets
-- **Package insert retrieval** (DG001 — Blocking): Download and parse the NPRA/TFDA package insert PDF to extract warnings, contraindications, and special population guidance
-- **NPRA license details**: Re-query NPRA to populate authorization numbers, product names, dosage forms, and approved indication text for all 6 registrations
-- **HLA-B\*5701 screening policy**: Confirm whether Malaysia's current clinical guidelines mandate pre-treatment genotyping, as this is a material safety guardrail for any repurposing study design
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk surat sisipan ubat untuk maklumat keselamatan.
+
+> **Nota:** Amaran utama dan kontraindikasi disenaraikan sebagai jurang data yang menghalang (DG001). Kebimbangan khusus kelas yang diketahui untuk abacavir ialah sindrom hipersensitiviti yang berkaitan HLA-B\*5701 — ini harus ditangkap secara eksplisit apabila data surat sisipan ubat diambil dan mesti ditangani dalam sebarang protokol penggunaan semula ubat yang prospektif.
+
+---
+
+## Kesimpulan dan Langkah-Langkah Berikutnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Pakej Bukti kekurangan petunjuk yang diramalkan, ID DrugBank yang sah, data MOA dan maklumat keselamatan surat sisipan ubat — input minimum yang diperlukan untuk penilaian penggunaan semula ubat. Meneruskan tanpa ini akan menghasilkan hasil yang tidak dapat dipercayai.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+
+- **Saluran ramalan TxGNN**: Jalankan semula dengan ID DrugBank Abacavir Sulfate yang diselesaikan untuk menjana calon penggunaan semula ubat
+- **Penyelesaian ID DrugBank**: Peta "ABACAVIR SULFATE" ke entri DrugBank-nya (dijangka: DB01048) melalui API DrugBank
+- **Pengambilan data MOA** (DG002): Pertanyaan DrugBank untuk mekanisme tindakan, dinamika farmakoloji dan sasaran ubat
+- **Pengambilan surat sisipan ubat** (DG001 — Menghalang): Muat turun dan analisis PDF surat sisipan ubat NPRA/TFDA untuk mengekstrak amaran, kontraindikasi dan panduan populasi khas
+- **Perincian lesen NPRA**: Pertanyaan semula NPRA untuk mengisi nombor kebenaran, nama produk, bentuk dos dan teks petunjuk yang diluluskan untuk semua 6 pendaftaran
+- **Polisi saringan HLA-B\*5701**: Sahkan sama ada garis panduan klinikal semasa Malaysia mengarahkan genotaip sebelum rawatan, kerana ini ialah penghalang keselamatan penting untuk sebarang reka bentuk kajian penggunaan semula ubat
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

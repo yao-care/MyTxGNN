@@ -29,59 +29,60 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Gilteritinib: From Acute Myeloid Leukemia to Bulbar Polio
+# Gilteritinib: Dari Leukemia Mieloid Akut ke Polio Bulbar
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Gilteritinib is a FLT3/AXL tyrosine kinase inhibitor used clinically for FLT3-mutated acute myeloid leukemia (AML). The TxGNN model predicts a possible effect in **Bulbar Polio**, a poliovirus-mediated motor neuron disease, but this direction is currently supported only by the model's graph score — **no clinical trials and no literature** have been identified.
+Gilteritinib ialah perencat tirosin kinase FLT3/AXL yang digunakan secara klinikal untuk leukemia mieloid akut (AML) yang bermutasi FLT3. Model TxGNN meramalkan kemungkinan kesan dalam **Polio Bulbar**, penyakit neuron motor yang dimediasi oleh polivirus, tetapi arah ini pada masa ini disokong hanya oleh skor graf model — **tiada ujian klinikal dan tiada literatur** telah dikenal pasti.
 
-## Quick Overview
+## Gambaran Ringkas
 
-| Item | Content |
+| Perkara | Kandungan |
 |------|------|
-| Original Indication | Not available in regulatory record (license fields blank); per drug mechanism notes, gilteritinib is used for FLT3-mutated AML |
-| Predicted New Indication | Bulbar Polio |
-| TxGNN Prediction Score | 99.10% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+| Petunjuk Asal | Tidak tersedia dalam rekod kawal selia (medan lesen kosong); mengikut nota mekanisme ubat, gilteritinib digunakan untuk AML yang bermutasi FLT3 |
+| Petunjuk Baru yang Diramalkan | Polio Bulbar |
+| Skor Ramalan TxGNN | 99.10% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed mechanism of action data from the regulatory source is not available (flagged as a Blocking/High-severity data gap). Based on the mechanistic notes accompanying this prediction, gilteritinib is a FLT3/AXL tyrosine kinase inhibitor, clinically used for FLT3-mutation-positive acute myeloid leukemia — a targeted oncology therapy acting on hematopoietic malignant cell signaling.
+Data mekanisme tindakan terperinci daripada sumber kawal selia tidak tersedia (ditandai sebagai jurang data Pemblokiran/Keterukan Tinggi). Berdasarkan nota mekanik yang mengiringi ramalan ini, gilteritinib ialah perencat tirosin kinase FLT3/AXL, digunakan secara klinikal untuk leukemia mieloid akut positif mutasi FLT3 — terapi onkologi yang disasarkan bertindak pada isyarat sel ganas hematopoietik.
 
-Bulbar polio is an acute neuromuscular disease caused by poliovirus infection and destruction of motor neurons in the brainstem. Its pathology (viral replication and direct neuronal injury) has no established relationship to the FLT3/AXL kinase pathway, and no shared pharmacological, mechanistic, or epidemiological rationale links the two conditions.
+Polio bulbar ialah penyakit neuromuskuler akut yang disebabkan oleh jangkitan polivirus dan pemusnahan neuron motor di batang otak. Patologinya (replikasi viral dan cedera neuron langsung) tidak mempunyai hubungan yang ditetapkan dengan laluan kinase FLT3/AXL, dan tiada rasional farmakologi, mekanik, atau epidemiologi yang bersama yang menghubungkan kedua-dua keadaan.
 
-This prediction should therefore be read as a pure knowledge-graph association rather than a mechanistically grounded hypothesis. The TxGNN score is high, but score magnitude alone does not substitute for mechanistic plausibility or empirical evidence — both of which are absent here.
+Oleh itu, ramalan ini harus dibaca sebagai perkaitan graf pengetahuan tulen dan bukannya hipotesis yang berasas mekanik. Skor TxGNN tinggi, tetapi magnitud skor sahaja tidak menggantikan kebolehpercayaan mekanik atau bukti empirikal — kedua-duanya tiada di sini.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-Currently no related clinical trials registered.
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no related literature available.
+Pada masa ini tiada literatur berkaitan yang tersedia.
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Gilteritinib is registered as marketed in Malaysia (1 authorization on file), but the license record (authorization number, product name, dosage form, approved indication text) is not populated in the current data source and cannot be tabulated.
+Gilteritinib didaftarkan sebagai dipasarkan di Malaysia (1 kebenaran dalam fail), tetapi rekod lesen (nombor kebenaran, nama produk, bentuk dos, teks petunjuk yang diluluskan) tidak diisi dalam sumber data semasa dan tidak dapat dijadualkan.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The prediction is supported only by a TxGNN graph score (L5, no clinical or literature evidence), and the proposed mechanistic link between a FLT3/AXL kinase inhibitor and a poliovirus-mediated neurological disease is not biologically plausible based on available information. This does not meet the threshold to advance to safety or clinical evaluation.
+**Rasional:**
+Ramalan ini disokong hanya oleh skor graf TxGNN (L5, tiada bukti klinikal atau literatur), dan pautan mekanik yang dicadangkan antara perencat kinase FLT3/AXL dan penyakit neurologi yang dimediasi oleh polivirus tidak boleh dipercayai secara biologi berdasarkan maklumat yang tersedia. Ini tidak memenuhi ambang untuk maju ke penilaian keselamatan atau klinikal.
 
-**To proceed, the following is needed:**
-- Official TFDA/NPRA label data — warnings, contraindications, and full approved indication text (currently blocking)
-- Verified mechanism of action documentation (currently a data gap)
-- Any preclinical or mechanistic evidence connecting FLT3/AXL inhibition to poliovirus pathology, motor neuron protection, or antiviral activity, before further evaluation is warranted
+**Untuk meneruskan, yang berikut diperlukan:**
+- Data label rasmi TFDA/NPRA — amaran, kontraindikasi, dan teks petunjuk yang diluluskan sepenuhnya (pada masa ini menghalang)
+- Dokumentasi mekanisme tindakan yang disahkan (pada masa ini jurang data)
+- Sebarang bukti pra-klinikal atau mekanik yang menghubungkan perencatan FLT3/AXL kepada patologi polivirus, perlindungan neuron motor, atau aktiviti antiviral, sebelum penilaian lanjut adalah wajar
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

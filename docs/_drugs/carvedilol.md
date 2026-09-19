@@ -29,80 +29,81 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Carvedilol: From Hypertension/Heart Failure to Malignant Hypertensive Renal Disease
+# Carvedilol: Daripada Hipertensi/Kegagalan Jantung kepada Penyakit Renal Hipertensi Ganas
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Carvedilol is a non-selective β1/β2- and α1-adrenergic antagonist widely used to treat hypertension and chronic heart failure.
-The TxGNN model predicts it may be effective for **Malignant Hypertensive Renal Disease**,
-but this prediction is currently supported by **0 clinical trials** and **0 publications** — it is a model-only signal with no direct evidence.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not available in this data pack (NPRA license text and `original_indications` are empty); generally known clinical use is hypertension / chronic heart failure |
-| Predicted New Indication | Malignant Hypertensive Renal Disease |
-| TxGNN Prediction Score | 99.55% |
-| Evidence Level | L5 (model prediction only, no trials or literature) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 14 |
-| Recommended Decision | Hold |
+Carvedilol ialah antagonis α1-adrenergik dan β1/β2- non-selektif yang digunakan secara meluas untuk merawat hipertensi dan kegagalan jantung kronik.
+Model TxGNN meramalkan ia mungkin berkesan untuk **Penyakit Renal Hipertensi Ganas**,
+tetapi ramalan ini pada masa kini disokong oleh **0 ujian klinikal** dan **0 penerbitan** — ia adalah isyarat model sahaja tanpa bukti langsung.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Pantas
 
-Detailed mechanism of action data is not available in this data pack (`original_moa`: Data Gap). Based on general pharmacological knowledge, carvedilol is a combined α1/β-adrenergic antagonist that lowers systemic blood pressure and cardiac afterload, and this class-level property has proven efficacy in hypertension.
-
-Malignant hypertensive renal disease involves severely elevated blood pressure causing acute renal microvascular injury. Since carvedilol lowers systemic blood pressure, it could theoretically contribute as part of a multi-drug antihypertensive regimen. However, this is a **pharmacological class-level inference, not indication-specific evidence** — the acute management of malignant hypertension with renal involvement typically requires intravenous antihypertensives and treatment of the underlying cause, which oral carvedilol alone would not address.
-
-No clinical trials, ICTRP registrations, or PubMed literature were found linking carvedilol to this specific indication, so the mechanistic plausibility above remains a theoretical hypothesis rather than a validated treatment pathway.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Item | Kandungan |
+|------|-----------|
+| Indikasi Asal | Tidak tersedia dalam bungkus data ini (teks lesen NPRA dan `original_indications` adalah kosong); penggunaan klinikal yang diketahui secara umum ialah hipertensi / kegagalan jantung kronik |
+| Indikasi Baru Diramalkan | Penyakit Renal Hipertensi Ganas |
+| Skor Ramalan TxGNN | 99.55% |
+| Tahap Bukti | L5 (ramalan model sahaja, tiada ujian atau literatur) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 14 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available.
+Data mekanisme tindakan terperinci tidak tersedia dalam bungkus data ini (`original_moa`: Jurang Data). Berdasarkan pengetahuan farmakologi umum, carvedilol ialah antagonis α1-adrenergik dan β-gabungan yang menurunkan tekanan darah sistemik dan beban akhir jantung, dan sifat peringkat kelas ini mempunyai keberkesanan yang terbukti dalam hipertensi.
 
----
+Penyakit renal hipertensi ganas melibatkan tekanan darah yang sangat tinggi menyebabkan cedera mikrovaskuler renal akut. Oleh kerana carvedilol menurunkan tekanan darah sistemik, ia boleh secara teoritis menyumbang sebagai sebahagian daripada rejim antihipertensi berbilang ubat. Namun, ini ialah **inferens peringkat kelas farmakologi, bukan bukti khusus indikasi** — pengurusan akut hipertensi ganas dengan keterlibatan renal biasanya memerlukan antihipertensi intravena dan rawatan punca asas, yang carvedilol oral sahaja tidak akan menangani.
 
-## Malaysia Market Information
-
-Carvedilol holds **14 registered licenses** in Malaysia with market status **Marketed**, but the individual license records (authorization numbers, product names, dosage forms, approved indication text) are not populated in this data pack and cannot be displayed.
+Tiada ujian klinikal, pendaftaran ICTRP, atau literatur PubMed ditemui yang menghubungkan carvedilol dengan indikasi khusus ini, jadi kemungkinan mekanik yang tersebut di atas kekal sebagai hipotesis teori daripada laluan rawatan yang disahkan.
 
 ---
 
-## Safety Considerations
+## Bukti Ujian Klinikal
 
-Please refer to the package insert for safety information.
-
-*(Note: `key_warnings` and `contraindications` are flagged as Data Gap in this pack; `DDI` query returned no results. This is recorded as a Blocking data gap — DG001 — since it prevents initial safety screening.)*
+Pada masa kini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Hold**
+Pada masa kini tiada literatur berkaitan yang tersedia.
 
-**Rationale:**
-The predicted indication (malignant hypertensive renal disease) has zero supporting clinical trials or literature — evidence level L5, model prediction only. In addition, TFDA/NPRA warning and contraindication data (DG001, Blocking severity) is missing, which by itself blocks entry into the S1 safety pre-assessment stage.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA product label with warnings and contraindications (DG001)
-- DrugBank mechanism-of-action data to support mechanistic-link analysis (DG002)
-- Actual NPRA license records (product names, approved indication text) for the Malaysia market table
-- Targeted literature/clinical search specifically on carvedilol in malignant hypertension with renal involvement
+## Maklumat Pasaran Malaysia
 
-**Additional note on other candidates in this evidence pack:** Ranks 2, 3, and 5 (malignant renovascular hypertension, unclear-mechanism pulmonary hypertension, Braddock syndrome) are similarly L5/Hold with no supporting evidence — Braddock syndrome in particular appears to be a spurious knowledge-graph link with no plausible mechanistic connection. Rank 4 (pulmonary hypertension owing to lung disease/hypoxia) is the only candidate with literature (20 PubMed hits, mostly general hypoxia biology, tier 3), but the rationale for that candidate leans toward a **safety caution signal** rather than a therapeutic opportunity — non-selective β-blockers are traditionally used with caution in hypoxic pulmonary hypertension due to blunting of compensatory right-ventricular response.
+Carvedilol memegang **14 lesen berdaftar** di Malaysia dengan status pasaran **Dipasarkan**, tetapi rekod lesen individu (nombor kebenaran, nama produk, bentuk dos, teks indikasi yang diluluskan) tidak diisi dalam bungkus data ini dan tidak dapat dipaparkan.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk helaian maklumat produk untuk maklumat keselamatan.
+
+*(Nota: `key_warnings` dan `contraindications` ditandakan sebagai Jurang Data dalam bungkus ini; pertanyaan `DDI` tidak mengembalikan sebarang hasil. Ini direkodkan sebagai jurang data Penghalang — DG001 — kerana ia menghalang saringan keselamatan awal.)*
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Alasan:**
+Indikasi yang diramalkan (penyakit renal hipertensi ganas) mempunyai sifar ujian klinikal atau literatur yang menyokong — tahap bukti L5, ramalan model sahaja. Selain itu, data amaran/kontraindikasi TFDA/NPRA (DG001, keterukan Penghalang) hilang, yang dengan sendirinya menghalang kemasukan ke peringkat pra-penilaian keselamatan S1.
+
+**Untuk melanjutkan, yang berikut diperlukan:**
+- Label produk TFDA/NPRA dengan amaran dan kontraindikasi (DG001)
+- Data mekanisme tindakan DrugBank untuk menyokong analisis pautan mekanik (DG002)
+- Rekod lesen NPRA sebenar (nama produk, teks indikasi yang diluluskan) untuk jadual pasaran Malaysia
+- Pencarian literatur/klinikal tersasaran khusus pada carvedilol dalam hipertensi ganas dengan keterlibatan renal
+
+**Nota tambahan mengenai calon lain dalam bungkus bukti ini:** Pangkat 2, 3, dan 5 (hipertensi renovaskular ganas, hipertensi pulmonari mekanisme tidak jelas, sindrom Braddock) adalah L5/Tahan dengan bukti yang menyokong sifar — sindrom Braddock khususnya kelihatan menjadi pautan graf pengetahuan palsu tanpa sambungan mekanik yang munasabah. Pangkat 4 (hipertensi pulmonari kerana penyakit paru-paru/hipoksia) ialah satu-satunya calon dengan literatur (20 hits PubMed, kebanyakannya biologi hipoksia umum, tingkat 3), tetapi alasan untuk calon itu condong ke arah **isyarat amaran keselamatan** daripada peluang terapeutik — penyekat beta non-selektif secara tradisinya digunakan dengan berhati-hati dalam hipertensi pulmonari hipoksik kerana melemahkan tindak balas ventrikel kanan pampasan.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

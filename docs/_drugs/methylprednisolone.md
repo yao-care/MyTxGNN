@@ -29,84 +29,85 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Methylprednisolone: From Corticosteroid-Responsive Inflammatory Conditions to Erythema Multiforme
+# Methylprednisolone: Daripada Kondisi Keradangan Responsif Kortikosteroid kepada Eritema Multiforme
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Methylprednisolone is a systemic glucocorticoid broadly used for inflammatory, allergic, and autoimmune conditions; the specific NPRA-approved indication text is not captured in this evidence pack. The TxGNN model ranks **Erythema Multiforme** as its top predicted new indication, supported by **2 directly relevant clinical trials** and **10+ relevant publications**, including a Cochrane systematic review on the SJS/TEN spectrum — but a blocking gap in TFDA/NPRA safety-label data currently prevents a full safety assessment.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not specified in NPRA license records (all 5 sampled license entries are blank); methylprednisolone's known general indication class is corticosteroid-responsive inflammatory/allergic/autoimmune conditions |
-| Predicted New Indication | Erythema Multiforme |
-| TxGNN Prediction Score | 0.00% (raw score recorded as 0.0 — appears to be a data capture issue; treat rank position #1, not the score magnitude, as the directional signal) |
-| Evidence Level | L3 (systematic review + observational evidence) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 7 |
-| Recommended Decision | Hold |
+Methylprednisolone adalah glukokortikoid sistemik yang digunakan secara luas untuk kondisi peradangan, alergi, dan autoimun; teks indikasi yang disetujui NPRA khusus tidak ditangkap dalam paket bukti ini. Model TxGNN menempatkan **Eritema Multiforme** sebagai prediksi indikasi baru teratasnya, didukung oleh **2 uji klinis yang relevan secara langsung** dan **10+ publikasi relevan**, termasuk tinjauan sistematis Cochrane pada spektrum SJS/TEN — tetapi kesenjangan pemblokiran dalam data label keselamatan TFDA/NPRA saat ini mencegah penilaian keselamatan penuh.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Pantas
 
-Currently, detailed mechanism of action data is not available (DG002, High severity). Based on known pharmacology, methylprednisolone is a synthetic glucocorticoid with broad anti-inflammatory and immunosuppressive activity, widely used across corticosteroid-responsive conditions; its efficacy in these settings has been proven for decades.
-
-Erythema multiforme (EM) is a T-cell–mediated hypersensitivity mucocutaneous reaction. Systemic glucocorticoids, including methylprednisolone, are commonly used clinically to control inflammation in severe forms (EM major). Mechanistically this is a reasonable extension of methylprednisolone's established immunosuppressive action. However, EM sits on a disease spectrum with Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN), and the systematic-review evidence for systemic interventions (including corticosteroids) across this spectrum is of relatively weak quality with inconsistent conclusions — which tempers confidence in the prediction despite biological plausibility.
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asli | Tidak ditentukan dalam catatan lisensi NPRA (semua 5 entri lisensi sampel kosong); kelas indikasi umum methylprednisolone yang diketahui adalah kondisi peradangan/alergi/autoimun responsif kortikosteroid |
+| Indikasi Baru yang Diprediksi | Eritema Multiforme |
+| Skor Prediksi TxGNN | 0.00% (skor baku dicatat sebagai 0.0 — tampaknya masalah penangkapan data; perlakukan posisi peringkat #1, bukan besarnya skor, sebagai sinyal arah) |
+| Tingkat Bukti | L3 (tinjauan sistematis + bukti observasional) |
+| Status Pasar Malaysia | ✓ Dipasarkan |
+| Jumlah Pendaftaran | 7 |
+| Rekomendasi Keputusan | Tahan |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Prediksi Ini Masuk Akal?
 
-Note: the evidence pack's clinical-trials query returned 14 results for "erythema multiforme," but most (e.g., prostate cancer abiraterone trials, an SBRT trial, vitiligo studies) are keyword-mismatched and not clinically relevant. Only the following are directly relevant:
+Saat ini, data mekanisme aksi terperinci tidak tersedia (DG002, Keparahan Tinggi). Berdasarkan farmakologi yang diketahui, methylprednisolone adalah glukokortikoid sintetis dengan aktivitas antiradang dan imunosupresif yang luas, digunakan secara luas di berbagai kondisi responsif kortikosteroid; keefektifannya dalam pengaturan ini telah terbukti selama beberapa dekade.
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Eritema multiforme (EM) adalah reaksi mukokutan hipersensitivitas yang dimediasi oleh sel-T. Glukokortikoid sistemik, termasuk methylprednisolone, biasanya digunakan secara klinis untuk mengendalikan peradangan dalam bentuk parah (EM besar). Secara mekanistik, ini adalah perpanjangan yang masuk akal dari tindakan imunosupresif methylprednisolone yang telah terbukti. Namun, EM berada di spektrum penyakit dengan Stevens-Johnson syndrome (SJS) dan toxic epidermal necrolysis (TEN), dan bukti tinjauan sistematis untuk intervensi sistemik (termasuk kortikosteroid) di seluruh spektrum ini memiliki kualitas yang relatif lemah dengan kesimpulan yang tidak konsisten — yang melemahkan kepercayaan pada prediksi meskipun ada kemasukan biologis.
+
+---
+
+## Bukti Uji Klinis
+
+Catatan: kueri uji klinis paket bukti mengembalikan 14 hasil untuk "erythema multiforme," tetapi sebagian besar (misalnya, uji abiraterone kanker prostat, uji SBRT, studi vitiligo) tidak cocok dengan kata kunci dan tidak relevan secara klinis. Hanya yang berikut ini langsung relevan:
+
+| Nomor Uji | Fase | Status | Pendaftaran | Temuan Kunci |
 |---------|------|------|------|---------|
-| [NCT06266221](https://clinicaltrials.gov/study/NCT06266221) | Phase 3 | Not yet recruiting | 96 | RCT comparing a short systemic corticosteroid regimen to placebo in the acute established phase of severe erythema multiforme |
-| [NCT06119490](https://clinicaltrials.gov/study/NCT06119490) | Early Phase 1 | Recruiting | 30 | Two-arm, open-label study evaluating methylprednisolone combined with JAK inhibitors (baricitinib/tofacitinib) for toxic epidermal necrolysis (EM-spectrum disease) |
+| [NCT06266221](https://clinicaltrials.gov/study/NCT06266221) | Fase 3 | Belum mulai merekrut | 96 | RCT membandingkan rejimen kortikosteroid sistemik pendek dengan plasebo dalam fase akut yang sudah mapan dari eritema multiforme parah |
+| [NCT06119490](https://clinicaltrials.gov/study/NCT06119490) | Fase Awal 1 | Merekrut | 30 | Studi dua lengan, label terbuka mengevaluasi methylprednisolone dikombinasikan dengan penghambat JAK (baricitinib/tofacitinib) untuk toxic epidermal necrolysis (penyakit spektrum EM) |
 
 ---
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [35274741](https://pubmed.ncbi.nlm.nih.gov/35274741/) | 2022 | Cochrane Systematic Review | Cochrane Database Syst Rev | Reviews systemic interventions (including glucocorticoids) for SJS/TEN/overlap syndrome; notes an unmet need to establish efficacy of these therapies |
-| [9039508](https://pubmed.ncbi.nlm.nih.gov/9039508/) | 1997 | Prospective comparative study | Eur J Pediatr | 16 children with EM major (Stevens-Johnson): early IV methylprednisolone bolus (4 mg/kg/day) vs. supportive care only — early corticosteroid use associated with better outcomes |
-| [26281815](https://pubmed.ncbi.nlm.nih.gov/26281815/) | 2015 | Review | J Emerg Med | General clinical review of erythema multiforme presentation and management |
-| [8566721](https://pubmed.ncbi.nlm.nih.gov/8566721/) | 1995 | Review | Allergy Proc | Virus-induced EM/SJS; discusses acyclovir plus corticosteroid management strategy |
-| [37832081](https://pubmed.ncbi.nlm.nih.gov/37832081/) | 2023 | Case Report | Medicine | Sintilimab (PD-1 inhibitor)-induced EM drug eruption in colon cancer treatment |
-| [38962048](https://pubmed.ncbi.nlm.nih.gov/38962048/) | 2024 | Case Report | Int Cancer Conf J | Pembrolizumab-induced severe EM major; steroid ointment ineffective, systemic disease progressed |
-| [7919560](https://pubmed.ncbi.nlm.nih.gov/7919560/) | 1994 | Case Report | Ann Pharmacother | Ampicillin-induced EM with hypersensitivity myocarditis |
-| [16164723](https://pubmed.ncbi.nlm.nih.gov/16164723/) | 2005 | Review/Case series | J Eur Acad Dermatol Venereol | Lupus erythematosus associated with EM-like lesions (Rowell's syndrome) |
-| [12370143](https://pubmed.ncbi.nlm.nih.gov/12370143/) | 2002 | Case Report | Eur J Dermatol | Dimorphic exanthema with EM major features from pyrazolone derivatives |
-| [21909214](https://pubmed.ncbi.nlm.nih.gov/21909214/) | 2011 | Case Report | Ann Dermatol | Neonatal erythema multiforme, an extremely rare presentation |
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information. No key warnings, contraindications, or drug interaction data were returned in this evidence pack (DDI query status: not found).
+| PMID | Tahun | Jenis | Jurnal | Temuan Kunci |
+|------|------|------|------|---------|
+| [35274741](https://pubmed.ncbi.nlm.nih.gov/35274741/) | 2022 | Tinjauan Sistematis Cochrane | Cochrane Database Syst Rev | Meninjau intervensi sistemik (termasuk glukokortikoid) untuk SJS/TEN/sindrom tumpang tindih; mencatat kebutuhan yang belum terpenuhi untuk membangun efikasi terapi ini |
+| [9039508](https://pubmed.ncbi.nlm.nih.gov/9039508/) | 1997 | Studi komparatif prospektif | Eur J Pediatr | 16 anak dengan EM besar (Stevens-Johnson): bolus methylprednisolone IV awal (4 mg/kg/hari) vs. perawatan suportif saja — penggunaan kortikosteroid awal terkait dengan hasil yang lebih baik |
+| [26281815](https://pubmed.ncbi.nlm.nih.gov/26281815/) | 2015 | Tinjauan | J Emerg Med | Tinjauan klinis umum presentasi eritema multiforme dan manajemen |
+| [8566721](https://pubmed.ncbi.nlm.nih.gov/8566721/) | 1995 | Tinjauan | Allergy Proc | EM/SJS yang diinduksi virus; membahas strategi manajemen asiklovir plus kortikosteroid |
+| [37832081](https://pubmed.ncbi.nlm.nih.gov/37832081/) | 2023 | Laporan Kasus | Medicine | Sintilimab (penghambat PD-1)–induksi erupsi EM dalam pengobatan kanker kolon |
+| [38962048](https://pubmed.ncbi.nlm.nih.gov/38962048/) | 2024 | Laporan Kasus | Int Cancer Conf J | Pembrolizumab–induksi EM besar parah; salep steroid tidak efektif, penyakit sistemik berkembang |
+| [7919560](https://pubmed.ncbi.nlm.nih.gov/7919560/) | 1994 | Laporan Kasus | Ann Pharmacother | EM yang diinduksi ampisilin dengan miokarditis hipersensitivitas |
+| [16164723](https://pubmed.ncbi.nlm.nih.gov/16164723/) | 2005 | Tinjauan/Seri kasus | J Eur Acad Dermatol Venereol | Lupus eritematosus yang terkait dengan lesi mirip EM (sindrom Rowell) |
+| [12370143](https://pubmed.ncbi.nlm.nih.gov/12370143/) | 2002 | Laporan Kasus | Eur J Dermatol | Eksantem dimorfik dengan fitur EM besar dari turunan pirazol |
+| [21909214](https://pubmed.ncbi.nlm.nih.gov/21909214/) | 2011 | Laporan Kasus | Ann Dermatol | Eritema multiforme neonatal, presentasi yang sangat jarang |
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Silakan merujuk pada brosur kemasan untuk informasi keselamatan. Data peringatan kunci, kontraindikasi, atau interaksi obat tidak dikembalikan dalam paket bukti ini (status kueri DDI: tidak ditemukan).
 
-**Rationale:**
-- The predicted indication has plausible mechanistic rationale and L3-level evidence (a Cochrane systematic review plus supportive clinical and case literature), but a **Blocking** data gap (DG001: missing TFDA/NPRA package insert warnings/contraindications) prevents this candidate from completing even the S1 safety initial screening stage — this must be resolved before any Go/Guardrails decision can be made.
-- The TxGNN score value itself appears incompletely captured (0.0 across all ranked candidates), so the ranking should be treated as directional only, not as a calibrated confidence measure.
+---
 
-**To proceed, the following is needed:**
-- Retrieve and parse the Malaysia NPRA product insert(s) for methylprednisolone to resolve DG001 (key warnings, contraindications)
-- Obtain detailed mechanism-of-action data from DrugBank to resolve DG002
-- Monitor completion of NCT06266221 (Phase 3 RCT, EM major, expected completion 2027) as the pivotal efficacy signal
-- Track NCT06119490 (methylprednisolone + JAK inhibitors in TEN) for spectrum-disease safety/efficacy data
-- Populate complete Malaysia license records (product name, dosage form, approved indication text) — current records for all sampled licenses are blank despite 7 total registrations
+## Kesimpulan dan Langkah Selanjutnya
+
+**Keputusan: Tahan**
+
+**Alasan:**
+- Indikasi yang diprediksi memiliki dasar mekanistik yang masuk akal dan bukti tingkat L3 (tinjauan sistematis Cochrane ditambah literatur klinis dan kasus pendukung), tetapi kesenjangan data **Pemblokiran** (DG001: hilangnya peringatan paket sisipan TFDA/NPRA/kontraindikasi) mencegah kandidat ini menyelesaikan bahkan tahap penyaringan keselamatan awal S1 — ini harus diselesaikan sebelum keputusan Go/Guardrails apa pun dapat dibuat.
+- Nilai skor TxGNN itu sendiri tampaknya tidak sepenuhnya ditangkap (0.0 di semua kandidat yang diberi peringkat), jadi peringkat harus diperlakukan sebagai arah saja, bukan sebagai ukuran kepercayaan yang dikalibrasi.
+
+**Untuk melanjutkan, yang berikut diperlukan:**
+- Ambil dan urai sisipan produk NPRA Malaysia untuk methylprednisolone untuk mengatasi DG001 (peringatan kunci, kontraindikasi)
+- Dapatkan data mekanisme aksi terperinci dari DrugBank untuk mengatasi DG002
+- Pantau penyelesaian NCT06266221 (RCT Fase 3, EM besar, penyelesaian yang diharapkan 2027) sebagai sinyal efikasi poros
+- Lacak NCT06119490 (methylprednisolone + penghambat JAK dalam TEN) untuk data keselamatan/efikasi penyakit spektrum
+- Isi catatan lisensi Malaysia lengkap (nama produk, bentuk dosis, teks indikasi yang disetujui) — catatan saat ini untuk semua lisensi sampel kosong meskipun ada 7 total pendaftaran
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

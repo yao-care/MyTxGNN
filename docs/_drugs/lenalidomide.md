@@ -29,93 +29,94 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Lenalidomide: From Multiple Myeloma to Mantle Cell Lymphoma
+# Lenalidomide: Dari Mieloma Berganda kepada Limfoma Mantel
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Lenalidomide is an oral immunomodulatory drug (IMiD) originally developed for multiple myeloma and myelodysplastic syndrome with deletion 5q (del5q). The TxGNN model's top-ranked prediction identifies **Mantle Cell Lymphoma** as a candidate new indication, backed by **50 clinical trials** and **20 publications** in this evidence pack — though this is already a globally approved indication for lenalidomide in several markets, which is important context for the Malaysia-specific evaluation below.
+Lenalidomide adalah ubat imunomodulatif oral (IMiD) yang pada asalnya dibangunkan untuk mieloma berganda dan sindrom mielodisplasia dengan pemadaman 5q (del5q). Model TxGNN telah mengenal pasti **Limfoma Mantel** sebagai calon indikasi baru berdasarkan peringkat teratas, disokong oleh **50 ujian klinikal** dan **20 penerbitan** dalam pakej bukti ini — walaupun ini sudah merupakan indikasi yang diluluskan secara global untuk lenalidomide di beberapa pasaran, yang merupakan konteks penting untuk penilaian khusus Malaysia di bawah.
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | Multiple Myeloma / Myelodysplastic Syndrome with del(5q) (per literature evidence in this pack; NPRA license indication text was not resolved — see Malaysia Market Information) |
-| Predicted New Indication | Mantle Cell Lymphoma |
-| TxGNN Prediction Score | 0.00% (score field returned 0.0 in the evidence pack — likely a data/pipeline gap, not a true near-zero prediction; flagged for verification) |
-| Evidence Level | L2 (1 completed Phase 3 RCT — NCT01865110 — plus multiple completed Phase 2 RCTs) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 26 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|---------|
+| Indikasi Asal | Mieloma Berganda / Sindrom Mielodisplasia dengan del(5q) (menurut bukti kesusasteraan dalam pakej ini; teks indikasi lesen NPRA tidak diselesaikan — lihat Maklumat Pasaran Malaysia) |
+| Indikasi Baru yang Diramalkan | Limfoma Mantel |
+| Skor Ramalan TxGNN | 0.00% (medan skor yang dikembalikan 0.0 dalam pakej bukti — kemungkinan jurang data/saluran paip, bukan ramalan yang benar-benar hampir sifar; dipilau untuk pengesahan) |
+| Tahap Bukti | L2 (1 Ujian Rawak Terkawal Fasa 3 yang diselesaikan — NCT01865110 — ditambah dengan beberapa Ujian Rawak Terkawal Fasa 2 yang diselesaikan) |
+| Status Pasaran Malaysia | ✓ Telah dipasarkan |
+| Bilangan Pendaftaran | 26 |
+| Keputusan yang Dicadangkan | Tangguhkan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed original mechanism-of-action text was not available in this evidence pack (drug-level data gap, DG002). Based on the literature evidence collected here, Lenalidomide acts by binding cereblon (CRBN), a substrate receptor of the CRL4 E3 ubiquitin ligase complex, redirecting it to ubiquitinate and degrade the transcription factors IKZF1 and IKZF3 in multiple myeloma cells (PMID 24292625, 24292623), and CK1α in del(5q) MDS cells (PMID 26131937). This cereblon-mediated protein degradation underlies both its direct anti-tumour and immunomodulatory (T-cell costimulatory, NK-cell activating, anti-angiogenic) effects.
+Teks mekanisme tindakan asal yang terperinci tidak tersedia dalam pakej bukti ini (jurang data peringkat ubat, DG002). Berdasarkan bukti kesusasteraan yang dikumpulkan di sini, lenalidomide bertindak dengan mengikat cereblon (CRBN), reseptor substrat kompleks ubikuitin ligase CRL4 E3, mengalihkannya untuk meng-ubikuitinasi dan mendegradasi faktor transkripsi IKZF1 dan IKZF3 dalam sel mieloma berganda (PMID 24292625, 24292623), dan CK1α dalam sel MDS del(5q) (PMID 26131937). Degradasi protein yang dimediasi cereblon ini mendasari keduanya kesan anti-tumor langsung dan imunomodulatif (ko-rangsangan sel T, pengaktifan sel NK, kesan anti-angiogenik).
 
-Mantle cell lymphoma, like multiple myeloma and MDS, is a clonal haematologic/lymphoid malignancy, and lenalidomide's immunomodulatory and cereblon-dependent mechanisms are not tumour-type restricted — they have shown activity across a broad range of B-cell neoplasms. Consistent with this, several trial summaries in this pack (e.g. NCT00609869, NCT02341781) explicitly state that Revlimid® is "approved by the Food and Drug Administration (FDA) for the treatment" of relapsed/refractory MCL after bortezomib failure, and lenalidomide plus rituximab (R2) is a recognised chemotherapy-free regimen for both untreated and relapsed MCL.
+Limfoma mantel, seperti mieloma berganda dan MDS, adalah keganasan klonal hematologi/limfoid, dan mekanisme imunomodulatif dan yang dimediasi cereblon lenalidomide tidak terhad kepada jenis tumor — ia telah menunjukkan aktiviti merentasi pelbagai neoplasma sel B. Konsisten dengan ini, beberapa ringkasan percubaan dalam pakej ini (contohnya NCT00609869, NCT02341781) secara jelas menyatakan bahawa Revlimid® adalah "diluluskan oleh Badan Makanan dan Dadah Federal (FDA) untuk rawatan" MCL yang kambuh/tahan rawatan selepas kegagalan bortezomib, dan lenalidomide ditambah rituximab (R2) adalah rejimen berasaskan kemoterapia yang diiktiraf untuk MCL yang belum dirawat dan yang telah kambuh.
 
-This is an important nuance for interpretation: MCL (along with MM and MDS del5q) already appears to be an internationally approved indication for lenalidomide, not a mechanistically novel repurposing candidate. The TxGNN "prediction" here most plausibly reflects a **Malaysia label/registration gap** rather than a new biological hypothesis — which should shape the regulatory next steps below.
+Ini adalah nuansa penting untuk tafsiran: MCL (bersama MM dan MDS del5q) nampaknya sudah merupakan indikasi yang diluluskan secara antarabangsa untuk lenalidomide, bukan calon repurposing yang bersifat biologi baru. Ramalan "TxGNN" di sini paling berkemungkinan mencerminkan **jurang label/pendaftaran Malaysia** daripada hipotesis biologi yang baru — yang harus membentuk langkah kawal selia seterusnya di bawah.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT01865110](https://clinicaltrials.gov/study/NCT01865110) | Phase 3 | Completed | 623 | R-CHOP+R-HAD vs R-CHOP induction, followed by lenalidomide+rituximab vs rituximab-alone maintenance in older MCL patients |
-| [NCT06084936](https://clinicaltrials.gov/study/NCT06084936) | Phase 3 | Recruiting | 182 | Glofitamab monotherapy vs investigator's choice (incl. lenalidomide+rituximab) in R/R MCL |
-| [NCT01021423](https://clinicaltrials.gov/study/NCT01021423) | Phase 3 | Terminated | 9 | Lenalidomide maintenance after first-line chemotherapy in MCL (stopped early, design no longer relevant) |
-| [NCT00737529](https://clinicaltrials.gov/study/NCT00737529) | Phase 2 | Completed | 134 | Single-agent lenalidomide in MCL relapsed/refractory to bortezomib — basis for FDA approval in this setting |
-| [NCT01472562](https://clinicaltrials.gov/study/NCT01472562) | Phase 2 | Completed | 38 | First-line lenalidomide + rituximab in previously untreated MCL |
-| [NCT02460276](https://clinicaltrials.gov/study/NCT02460276) | Phase 2 | Completed | 50 | Ibrutinib + lenalidomide + rituximab in R/R MCL |
-| [NCT03863184](https://clinicaltrials.gov/study/NCT03863184) | Phase 2 | Active, not recruiting | 37 | Acalabrutinib + lenalidomide + rituximab/obinutuzumab in previously untreated MCL |
-| [NCT01737177](https://clinicaltrials.gov/study/NCT01737177) | Phase 2 | Completed | 42 | Bendamustine + lenalidomide + rituximab (R2-B) as second-line therapy for first relapsed/refractory MCL |
-| [NCT02633137](https://clinicaltrials.gov/study/NCT02633137) | Phase 2 | Completed | 49 | Sequential chemotherapy + lenalidomide-RCHOP, followed by lenalidomide-rituximab maintenance in untreated MCL |
-| [NCT03647124](https://clinicaltrials.gov/study/NCT03647124) | N/A | Completed | 105 | Post-authorization safety study characterizing lenalidomide-associated tumor flare reaction and high tumor burden in R/R MCL |
+| Nombor Ujian | Fasa | Status | Bilangan Peserta | Penemuan Utama |
+|---------|------|--------|------|---------|
+| [NCT01865110](https://clinicaltrials.gov/study/NCT01865110) | Fasa 3 | Selesai | 623 | R-CHOP+R-HAD vs induksi R-CHOP, diikuti oleh penyelenggaraan lenalidomide+rituximab vs rituximab sahaja dalam pesakit MCL yang lebih tua |
+| [NCT06084936](https://clinicaltrials.gov/study/NCT06084936) | Fasa 3 | Merekrut | 182 | Terapi monofarmakalogi glofitamab vs pilihan penyiasat (termasuk lenalidomide+rituximab) dalam MCL R/R |
+| [NCT01021423](https://clinicaltrials.gov/study/NCT01021423) | Fasa 3 | Dihentikan | 9 | Penyelenggaraan lenalidomide selepas kemoterapia lini pertama dalam MCL (dihentikan lebih awal, reka bentuk tidak lagi relevan) |
+| [NCT00737529](https://clinicaltrials.gov/study/NCT00737529) | Fasa 2 | Selesai | 134 | Lenalidomide agen tunggal dalam MCL kambuh/tahan rawatan terhadap bortezomib — asas untuk kelulusan FDA dalam tetapan ini |
+| [NCT01472562](https://clinicaltrials.gov/study/NCT01472562) | Fasa 2 | Selesai | 38 | Lini pertama lenalidomide + rituximab dalam MCL yang belum dirawat sebelumnya |
+| [NCT02460276](https://clinicaltrials.gov/study/NCT02460276) | Fasa 2 | Selesai | 50 | Ibrutinib + lenalidomide + rituximab dalam MCL R/R |
+| [NCT03863184](https://clinicaltrials.gov/study/NCT03863184) | Fasa 2 | Aktif, bukan merekrut | 37 | Acalabrutinib + lenalidomide + rituximab/obinutuzumab dalam MCL yang belum dirawat sebelumnya |
+| [NCT01737177](https://clinicaltrials.gov/study/NCT01737177) | Fasa 2 | Selesai | 42 | Bendamustina + lenalidomide + rituximab (R2-B) sebagai terapi lini kedua untuk MCL yang kambuh/tahan rawatan untuk kali pertama |
+| [NCT02633137](https://clinicaltrials.gov/study/NCT02633137) | Fasa 2 | Selesai | 49 | Kemoterapia berjujukan + lenalidomide-RCHOP, diikuti oleh penyelenggaraan lenalidomide-rituximab dalam MCL yang belum dirawat |
+| [NCT03647124](https://clinicaltrials.gov/study/NCT03647124) | T/A | Selesai | 105 | Kajian keselamatan pasca-kebenaran mencirikan reaksi ledakan tumor yang berkaitan lenalidomide dan beban tumor yang tinggi dalam MCL R/R |
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [40104044](https://pubmed.ncbi.nlm.nih.gov/40104044/) | 2025 | Trial follow-up | HemaSphere | Long-term outcomes of ibrutinib+lenalidomide+rituximab (Nordic MCL6 Philemon phase 2 trial) in relapsed MCL |
-| [36257914](https://pubmed.ncbi.nlm.nih.gov/36257914/) | 2023 | Retrospective/observational | British Journal of Haematology | SCHOLAR-2 real-world chart review of R/R MCL after BTK-inhibitor failure across Europe (n=240) |
-| [30608891](https://pubmed.ncbi.nlm.nih.gov/30608891/) | 2019 | Review | Expert Opinion on Pharmacotherapy | Overview of lenalidomide efficacy in MCL, monotherapy and chemo-free combinations |
-| [24883181](https://pubmed.ncbi.nlm.nih.gov/24883181/) | 2014 | Review | Therapeutic Advances in Hematology | Overview of lenalidomide in relapsed/refractory MCL; notes FDA approval for MDS and relapsed MM |
-| [25952533](https://pubmed.ncbi.nlm.nih.gov/25952533/) | 2015 | Review | Expert Review of Hematology | Lenalidomide mechanisms and approval status in relapsed MCL after ≥2 prior lines including bortezomib |
-| [26755518](https://pubmed.ncbi.nlm.nih.gov/26755518/) | 2016 | Review | Journal of Clinical Oncology | Comprehensive review of MCL biology and treatment landscape |
-| [38906740](https://pubmed.ncbi.nlm.nih.gov/38906740/) | 2024 | Review | Blood Reviews | Current management of relapsed/refractory MCL in the BTK-inhibitor era |
-| [32552760](https://pubmed.ncbi.nlm.nih.gov/32552760/) | 2020 | Review | Journal of Hematology & Oncology | Emerging therapies in MCL, including IMiD-based combinations |
-| [35639332](https://pubmed.ncbi.nlm.nih.gov/35639332/) | 2022 | Review | Current Oncology Reports | Risk-adapted therapy and management of relapsed MCL |
-| [26297281](https://pubmed.ncbi.nlm.nih.gov/26297281/) | 2015 | Safety review | Clinical Lymphoma, Myeloma & Leukemia | Practical management of lenalidomide-related rash; notes hematologic toxicity as most common cause of dose interruption/discontinuation across MDS/MM/MCL |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|----|--------|---------|
+| [40104044](https://pubmed.ncbi.nlm.nih.gov/40104044/) | 2025 | Susulan percubaan | HemaSphere | Hasil jangka panjang ibrutinib+lenalidomide+rituximab (Nordic MCL6 Philemon ujian fasa 2) dalam MCL yang telah kambuh |
+| [36257914](https://pubmed.ncbi.nlm.nih.gov/36257914/) | 2023 | Semakan retrospektif/pemerhatian | British Journal of Haematology | Semakan carta SCHOLAR-2 MCL R/R pasca kegagalan perencatan BTK di seluruh Eropah (n=240) |
+| [30608891](https://pubmed.ncbi.nlm.nih.gov/30608891/) | 2019 | Semakan | Expert Opinion on Pharmacotherapy | Gambaran keseluruhan keberkesanan lenalidomide dalam MCL, terapi monofarmakalogi dan kombinasi bebas kemoterapia |
+| [24883181](https://pubmed.ncbi.nlm.nih.gov/24883181/) | 2014 | Semakan | Therapeutic Advances in Hematology | Gambaran keseluruhan lenalidomide dalam MCL yang kambuh/tahan rawatan; nota kelulusan FDA untuk MDS dan MM yang telah kambuh |
+| [25952533](https://pubmed.ncbi.nlm.nih.gov/25952533/) | 2015 | Semakan | Expert Review of Hematology | Mekanisme lenalidomide dan status kelulusan dalam MCL yang telah kambuh selepas ≥2 lini terdahulu termasuk bortezomib |
+| [26755518](https://pubmed.ncbi.nlm.nih.gov/26755518/) | 2016 | Semakan | Journal of Clinical Oncology | Semakan komprehensif biologi MCL dan landskap rawatan |
+| [38906740](https://pubmed.ncbi.nlm.nih.gov/38906740/) | 2024 | Semakan | Blood Reviews | Pengurusan semasa MCL yang telah kambuh/tahan rawatan dalam era perencatan BTK |
+| [32552760](https://pubmed.ncbi.nlm.nih.gov/32552760/) | 2020 | Semakan | Journal of Hematology & Oncology | Terapi yang muncul dalam MCL, termasuk kombinasi berasaskan IMiD |
+| [35639332](https://pubmed.ncbi.nlm.nih.gov/35639332/) | 2022 | Semakan | Current Oncology Reports | Terapi berorientasikan risiko dan pengurusan MCL yang telah kambuh |
+| [26297281](https://pubmed.ncbi.nlm.nih.gov/26297281/) | 2015 | Semakan keselamatan | Clinical Lymphoma, Myeloma & Leukemia | Pengurusan praktikal ruam yang berkaitan lenalidomide; nota ketoksikan hematologi sebagai punca yang paling biasa terjadinya gangguan dos/penghentian di seluruh MDS/MM/MCL |
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-NPRA registration data confirms Lenalidomide is **marketed in Malaysia with 26 active registrations**, but the individual license records provided in this evidence pack (license numbers, product names, dosage forms, approved indication text) were all returned empty and could not be resolved. A separate data pull from the NPRA product register is needed to confirm the exact approved indication wording and dosage forms currently on the Malaysia label before this can be compared against the predicted MCL indication.
+Data pendaftaran NPRA mengesahkan bahawa lenalidomide **telah dipasarkan di Malaysia dengan 26 pendaftaran aktif**, tetapi rekod lesen individu yang disediakan dalam pakej bukti ini (nombor lesen, nama produk, bentuk dos, teks indikasi yang diluluskan) semuanya dikembalikan kosong dan tidak dapat diselesaikan. Satu cabutan data berasingan dari daftar produk NPRA diperlukan untuk mengesahkan teks indikasi yang tepat yang diluluskan dan bentuk dos pada label Malaysia semasa sebelum ini dapat dibandingkan dengan indikasi MCL yang diramalkan.
 
-## Cytotoxicity
+## Ketoksikan
 
-| Item | Content |
-|------|------|
-| Cytotoxicity Classification | Targeted/immunomodulatory therapy (IMiD class — cereblon E3 ubiquitin ligase modulator), not a conventional cytotoxic chemotherapy agent |
-| Myelosuppression Risk | High — neutropenia and thrombocytopenia are consistently reported as the most common Grade ≥3 toxicities and the leading cause of dose interruption/discontinuation across MM, MDS, and MCL trials in this evidence pack (PMID 26297281) |
-| Emetogenicity Classification | Low |
-| Monitoring Items | CBC with differential (frequent, especially early cycles), renal function (dose adjustment by CrCl), thyroid function, VTE risk assessment |
-| Handling Protection | Special handling required due to teratogenicity (thalidomide analogue) — dispensing must follow a pregnancy prevention/REMS-equivalent program; many institutions also apply hazardous-drug handling precautions given its cereblon-mediated cytotoxic activity |
+| Item | Kandungan |
+|------|---------|
+| Klasifikasi Ketoksikan | Terapi yang disasarkan/imunomodulatif (kelas IMiD — penyesuai ligase E3 ubikuitin cereblon), bukan agen kemoterapia sitotoksik konvensional |
+| Risiko Penekanan Sumsum Tulang | Tinggi — neutropenia dan trombositopenia secara konsisten dilaporkan sebagai ketoksikan Grade ≥3 yang paling biasa dan punca utama gangguan dos/penghentian merentasi ujian MM, MDS, dan MCL dalam pakej bukti ini (PMID 26297281) |
+| Klasifikasi Emetogenisiti | Rendah |
+| Item Pemantauan | Sel darah putih lengkap (CBC) dengan pembezaan (kerap, terutama awal kitaran), fungsi buah pinggang (penyesuaian dos oleh CrCl), fungsi tiroid, penilaian risiko VTE |
+| Perlindungan Pengendalian | Pengendalian khas diperlukan kerana teratogenisiti (analog talidomida) — pengedaran harus mematuhi program pencegahan kehamilan/REMS yang setara; banyak institusi juga menggunakan langkah penjagaan ubat berbahaya mengingat aktiviti sitotoksik yang dimediasi cereblonnya |
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information. The evidence pack's key warnings, contraindications, and drug interaction data are all marked as unresolved (query DG001 — TFDA/NPRA label warnings and contraindications — is flagged Blocking severity, meaning safety screening could not be completed from available data).
+Sila rujuk risalah pakej untuk maklumat keselamatan. Data amaran utama, kontraindikasi, dan interaksi ubat-ubat pakej bukti semuanya ditandai sebagai tidak diselesaikan (pertanyaan DG001 — amaran/kontraindikasi label TFDA/NPRA — dipilau Blocking severity, bermakna pemeriksaan keselamatan tidak dapat diselesaikan dari data yang tersedia).
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tangguhkan**
 
-**Rationale:**
-Global clinical evidence for lenalidomide in MCL is strong (L2, including a completed Phase 3 RCT and multiple completed Phase 2 RCTs, plus an FDA-approved indication abroad), but the Blocking-severity data gap (DG001 — no NPRA label warnings/contraindications available) means safety screening (S1) cannot be completed, and the current scope of the Malaysia label for lenalidomide has not been confirmed.
+**Alasan:**
+Bukti klinikal global untuk lenalidomide dalam MCL adalah kuat (L2, termasuk Ujian Rawak Terkawal Fasa 3 yang diselesaikan dan beberapa Ujian Rawak Terkawal Fasa 2 yang diselesaikan, ditambah indikasi yang diluluskan FDA di luar negara), tetapi jurang data Blocking-severity (DG001 — tiada amaran/kontraindikasi label NPRA yang tersedia) bermakna pemeriksaan keselamatan (S1) tidak dapat diselesaikan, dan skop semasa label Malaysia untuk lenalidomide belum disahkan.
 
-**To proceed, the following is needed:**
-- NPRA package insert (warnings, contraindications, REMS/pregnancy-prevention program details) — resolves DG001
-- Confirmed mechanism-of-action documentation from DrugBank — resolves DG002
-- Confirmation of whether MCL (and MM/MDS del5q) are already within the current Malaysia-approved label, since this candidate may represent a label-alignment gap rather than a genuinely novel repurposing
-- Drug-drug interaction data (current query returned no results)
-- Resolved NPRA license records (product names, dosage forms, indication text) to complete the market information table
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Risalah pakej NPRA (amaran, kontraindikasi, butiran program pencegahan REMS/kehamilan) — menyelesaikan DG001
+- Dokumentasi mekanisme tindakan yang disahkan daripada DrugBank — menyelesaikan DG002
+- Pengesahan sama ada MCL (dan MM/MDS del5q) sudah berada dalam label yang diluluskan Malaysia semasa, kerana calon ini mungkin mewakili jurang penjajaran label daripada repurposing yang benar-benar baru
+- Data interaksi ubat-ubat (pertanyaan semasa tidak mengembalikan sebarang keputusan)
+- Rekod lesen NPRA yang diselesaikan (nama produk, bentuk dos, teks indikasi) untuk melengkapkan jadual maklumat pasaran
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

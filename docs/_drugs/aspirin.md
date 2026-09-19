@@ -29,91 +29,92 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# ASPIRIN: Drug Repurposing Evaluation (No Predictions Available)
+# ASPIRIN: Penilaian Penggunaan Semula Ubat (Tiada Ramalan Tersedia)
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Aspirin (acetylsalicylic acid) is a widely used analgesic, antipyretic, and anti-inflammatory agent with well-established cardiovascular applications, confirmed as marketed in Malaysia with 22 registered products.
-However, **no TxGNN predicted indications** are present in this evidence pack, and critical data including mechanism of action, individual license details, and safety profile are absent.
-**This report reflects an incomplete evaluation; supplementary data retrieval is required before any repurposing decision can be made.**
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Not specified in registration data |
-| Predicted New Indication | No prediction available |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | N/A — no predictions to evaluate |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 22 |
-| Recommended Decision | **Hold** |
+Aspirin (asid asetilsalilik) adalah agen analgesik, antipiretik, dan anti-inflamasi yang digunakan secara meluas dengan aplikasi kardiovaskular yang terbukti, disahkan sebagai dipasarkan di Malaysia dengan 22 produk terdaftar.
+Walau bagaimanapun, **tiada petunjuk ramalan TxGNN** terdapat dalam bungkus bukti ini, dan data kritikal termasuk mekanisme tindakan, butiran lesen individu, dan profil keselamatan adalah tidak ada.
+**Laporan ini mencerminkan penilaian yang tidak lengkap; pengambilan data tambahan diperlukan sebelum sebarang keputusan penggunaan semula boleh dibuat.**
 
 ---
 
-## Why No Prediction Is Available
+## Gambaran Pantas
 
-The TxGNN prediction pipeline did not return any candidate indications for Aspirin in this evidence pack. This is most likely due to one or more of the following upstream failures:
-
-1. **DrugBank ID is absent** — Without a confirmed DrugBank ID, the drug cannot be mapped to a node in the TxGNN knowledge graph, blocking all downstream KG-based and DL-based scoring.
-2. **Disease mapping may be incomplete** — If the approved indication text fields are empty (as they are here), the disease normalisation step cannot produce seed nodes for the repurposing graph traversal.
-3. **Data retrieval is partial** — The query log confirms that NPRA returned 22 records and DrugBank returned 1 result, but the structured fields were not populated into the evidence pack, suggesting a parsing or integration gap.
-
-Currently, detailed mechanism of action data is not available. Based on widely published pharmacology, Aspirin irreversibly inhibits COX-1 and COX-2 enzymes, reducing prostaglandin synthesis. This makes it mechanistically plausible for repurposing into inflammatory, thrombotic, and potentially oncological contexts. However, this information has not been formally captured in the current evidence pack and cannot be used for a structured evaluation until the DrugBank record is integrated.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
-*(No predicted indications are available in this evidence pack, so no indication-specific trial evidence can be displayed.)*
+| Perkara | Kandungan |
+|---------|-----------|
+| Petunjuk Asal | Tidak dinyatakan dalam data pendaftaran |
+| Petunjuk Baharu Ramalan | Tiada ramalan tersedia |
+| Skor Ramalan TxGNN | N/A |
+| Tahap Bukti | N/A — tiada ramalan untuk dinilai |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 22 |
+| Keputusan Disyorkan | **Tahan** |
 
 ---
 
-## Literature Evidence
+## Sebab Tiada Ramalan Tersedia
 
-Currently no related literature available.
+Saluran paip ramalan TxGNN tidak mengembalikan sebarang cadangan petunjuk untuk Aspirin dalam bungkus bukti ini. Ini kemungkinan besar disebabkan oleh satu atau lebih daripada kegagalan hiliran berikut:
 
-*(No predicted indications are available in this evidence pack, so no indication-specific literature can be displayed.)*
+1. **DrugBank ID hilang** — Tanpa DrugBank ID yang disahkan, ubat tidak boleh dipetakan ke nod dalam graf pengetahuan TxGNN, menghalang semua penilaian berbasis KG dan DL seterusnya.
+2. **Pemetaan penyakit mungkin tidak lengkap** — Jika medan teks petunjuk yang diluluskan kosong (seperti yang ada di sini), langkah normalisasi penyakit tidak dapat menghasilkan nod benih untuk traversal graf penggunaan semula.
+3. **Pengambilan data adalah separa** — Log pertanyaan mengesahkan bahawa NPRA mengembalikan 22 rekod dan DrugBank mengembalikan 1 hasil, tetapi medan berstruktur tidak diisi ke dalam bungkus bukti, mencadangkan jurang penghuraian atau integrasi.
 
----
-
-## Malaysia Market Information
-
-22 product authorisations are confirmed for Aspirin in Malaysia via NPRA query. However, individual license details (authorization numbers, product names, dosage forms, approved indications) were not retrieved in this evidence pack and are therefore unavailable for tabulation.
-
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|----------------------|--------------|-------------|---------------------|
-| — | Not retrieved | Not retrieved | Not retrieved |
-
-> **Note:** The NPRA query returned 22 records (query ID 1, status: success), but the structured fields in all 22 license entries are empty. A supplementary data pull is required to populate this table.
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia. Berdasarkan farmakologi yang diterbitkan secara meluas, Aspirin menghalang secara tidak boleh balik enzim COX-1 dan COX-2, mengurangkan sintesis prostaglandin. Ini menjadikannya secara mekanis munasabah untuk penggunaan semula ke dalam konteks inflamasi, trombotik, dan berpotensi onkologi. Walau bagaimanapun, maklumat ini belum ditangkap secara formal dalam bungkus bukti semasa dan tidak boleh digunakan untuk penilaian berstruktur sehingga rekod DrugBank diintegrasikan.
 
 ---
 
-## Safety Considerations
+## Bukti Ujian Klinikal
 
-Please refer to the package insert for safety information.
+Pada masa ini tiada ujian klinikal yang berkaitan didaftarkan.
+
+*(Tiada ramalan petunjuk tersedia dalam bungkus bukti ini, jadi tiada bukti ujian khusus petunjuk boleh dipaparkan.)*
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Kesusasteraan
 
-**Decision: Hold**
+Pada masa ini tiada kesusasteraan yang berkaitan tersedia.
 
-**Rationale:**
-This evidence pack contains no TxGNN predicted indications and is missing all critical data fields — mechanism of action, individual license details, safety warnings, and contraindications — making it impossible to conduct a meaningful drug repurposing evaluation at this stage.
+*(Tiada ramalan petunjuk tersedia dalam bungkus bukti ini, jadi tiada bukti kesusasteraan khusus petunjuk boleh dipaparkan.)*
 
-**To proceed, the following is needed:**
+---
 
-- **Re-run TxGNN pipeline** after resolving the DrugBank ID mapping issue, so that candidate indications can be generated
-- **Retrieve DrugBank record** (query log confirms 1 result was found) to populate DrugBank ID, MOA, pharmacological categories, and safety data
-- **Parse NPRA/package insert PDFs** to populate the 22 license entries with product name, dosage form, and approved indication text (addresses data gap DG001)
-- **Resolve MOA data gap** (DG002) via DrugBank API to enable mechanistic plausibility analysis
-- **Conduct DDI screening** once the DrugBank ID is confirmed and safety fields are populated
-- **Re-evaluate evidence level** once predicted indications and supporting evidence are available
+## Maklumat Pasaran Malaysia
+
+22 kebenaran produk disahkan untuk Aspirin di Malaysia melalui pertanyaan NPRA. Walau bagaimanapun, butiran lesen individu (nombor kebenaran, nama produk, bentuk dos, petunjuk yang diluluskan) tidak diambil dalam bungkus bukti ini dan oleh itu tidak tersedia untuk tabulasi.
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjuk yang Diluluskan |
+|------------------|------------|-----------|------------------------|
+| — | Tidak diambil | Tidak diambil | Tidak diambil |
+
+> **Nota:** Pertanyaan NPRA mengembalikan 22 rekod (ID pertanyaan 1, status: berjaya), tetapi medan berstruktur dalam semua 22 catatan lesen adalah kosong. Satu tarikan data tambahan diperlukan untuk mengisi jadual ini.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Bungkus bukti ini tidak mengandungi sebarang petunjuk ramalan TxGNN dan hilang semua medan data kritikal — mekanisme tindakan, butiran lesen individu, amaran keselamatan, dan kontraindikasi — menjadikannya mustahil untuk menjalankan penilaian penggunaan semula ubat yang bermakna pada tahap ini.
+
+**Untuk meneruskan, berikut diperlukan:**
+
+- **Jalankan semula saluran paip TxGNN** selepas menyelesaikan isu pemetaan DrugBank ID, supaya cadangan petunjuk dapat dijana
+- **Ambil rekod DrugBank** (log pertanyaan mengesahkan 1 hasil ditemui) untuk mengisi DrugBank ID, MOA, kategori farmakologi, dan data keselamatan
+- **Huraikan PDF NPRA/sisipan pakej** untuk mengisi 22 catatan lesen dengan nama produk, bentuk dos, dan teks petunjuk yang diluluskan (menangani jurang data DG001)
+- **Selesaikan jurang data MOA** (DG002) melalui API DrugBank untuk memungkinkan analisis plausibiliti mekanis
+- **Jalankan penapisan DDI** setelah DrugBank ID disahkan dan medan keselamatan diisi
+- **Menilai semula tahap bukti** setelah petunjuk ramalan dan bukti sokongan tersedia
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

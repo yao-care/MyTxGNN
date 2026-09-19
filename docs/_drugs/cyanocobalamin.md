@@ -29,90 +29,91 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Cyanocobalamin: From Vitamin B12 Deficiency to Microcytic Anemia
+# Sianokobalamin: Dari Kekurangan Vitamin B12 hingga Anemia Mikrositik
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Cyanocobalamin is the synthetic form of vitamin B12, established as replacement therapy for vitamin B12 deficiency states (pernicious anemia, malabsorption, dietary deficiency). The TxGNN model's top-ranked candidate is **microcytic anemia**, but with a **prediction score of 0.0** and only **2 clinical trials** and **20 publications** returned — none of which directly support a B12-microcytic anemia link, and the mechanistic rationale in the evidence pack itself flags this as a poor fit.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Vitamin B12 deficiency (megaloblastic/pernicious anemia) — established core indication; not captured in the sampled Malaysia license records (all 5 sampled entries are blank) |
-| Predicted New Indication | Microcytic Anemia |
-| TxGNN Prediction Score | 0.00% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 428 |
-| Recommended Decision | Hold |
+Sianokobalamin adalah bentuk sintetik vitamin B12, yang mapan sebagai terapi penggantian untuk keadaan kekurangan vitamin B12 (anemia pernisiosa, malabsorpsi, kekurangan diet). Calon teratas model TxGNN ialah **anemia mikrositik**, tetapi dengan **skor ramalan 0.0** dan hanya **2 uji klinis** serta **20 penerbitan** yang dikembalikan — tiada satupun yang secara langsung menyokong hubungan B12-anemia mikrositik, dan nisbah mekanik dalam pakej bukti itu sendiri menanda ini sebagai ketidaksesuaian.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Pantas
 
-Currently, detailed mechanism of action data is not available (DG002, DrugBank MOA query pending). Based on known pharmacology, cyanocobalamin is a synthetic vitamin B12 analog used as a cofactor-replacement therapy — its efficacy in vitamin B12 deficiency and pernicious anemia is well established and forms the drug's original/core indication.
-
-However, the mechanistic case for microcytic anemia is weak. B12 deficiency classically causes **macrocytic/megaloblastic** anemia (elevated MCV) through impaired DNA synthesis in erythroid precursors — the opposite morphology of **microcytic** anemia, which is driven primarily by iron deficiency, thalassemia trait, or chronic disease. The evidence pack's own scoring reflects this: the TxGNN model assigned a prediction score of **0.0** (no model confidence), and the supporting clinical trials retrieved (oral iron supplementation studies, a general micronutrient-deficiency survey in pregnant women) are iron-focused and do not test cyanocobalamin as an intervention.
-
-Given this mismatch, the mechanistic plausibility for this specific candidate is low, and the evidence pack's internal recommendation for this indication is **Hold**.
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Kekurangan vitamin B12 (anemia megaloblastik/pernisiosa) — petunjuk teras yang mapan; tidak ditangkap dalam rekod lesen sampel Malaysia (kesemua 5 entri sampel adalah kosong) |
+| Petunjuk Baru Ramalan | Anemia Mikrositik |
+| Skor Ramalan TxGNN | 0.00% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 428 |
+| Keputusan Cadangan | Tahan |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Wajar?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia (DG002, pertanyaan DrugBank MOA tertunda). Berdasarkan farmakologi yang diketahui, sianokobalamin adalah analog vitamin B12 sintetik yang digunakan sebagai terapi penggantian kofaktor — keberkesanannya dalam kekurangan vitamin B12 dan anemia pernisiosa adalah mapan dan membentuk petunjuk asal/teras ubat.
+
+Walau bagaimanapun, kes mekanik untuk anemia mikrositik adalah lemah. Kekurangan B12 secara klasik menyebabkan **anemia makrositik/megaloblastik** (MCV meningkat) melalui sintesis DNA yang terjejas dalam pendahulu eritroid — morfologi yang bertentangan dengan anemia **mikrositik**, yang didorong terutamanya oleh kekurangan besi, ciri thalassemia, atau penyakit kronik. Penilaian pakej bukti itu sendiri mencerminkan ini: model TxGNN menetapkan skor ramalan **0.0** (tiada keyakinan model), dan uji klinis sokongan yang diambil (kajian suplemen besi oral, tinjauan kekurangan mikronutrien umum pada wanita hamil) adalah berfokus besi dan tidak menguji sianokobalamin sebagai intervensi.
+
+Memandangkan ketidakpadanan ini, kebolehpercayaan mekanik untuk calon khusus ini adalah rendah, dan cadangan dalaman pakej bukti untuk petunjuk ini ialah **Tahan**.
+
+---
+
+## Bukti Uji Klinis
+
+| Nombor Uji | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT05022979](https://clinicaltrials.gov/study/NCT05022979) | N/A | Completed | 341 | Prevalence survey of micronutrient deficiencies in pregnant women (French Guiana); not a B12 intervention, not specific to microcytic anemia |
-| [NCT05185024](https://clinicaltrials.gov/study/NCT05185024) | N/A | Completed | 152 | Comparison of three oral iron-containing supplements for correcting mild microcytic anemia; unrelated to cyanocobalamin's mechanism |
+| [NCT05022979](https://clinicaltrials.gov/study/NCT05022979) | T/A | Selesai | 341 | Tinjauan prevalensi kekurangan mikronutrien pada wanita hamil (Guiana Perancis); bukan intervensi B12, bukan khusus untuk anemia mikrositik |
+| [NCT05185024](https://clinicaltrials.gov/study/NCT05185024) | T/A | Selesai | 152 | Perbandingan tiga suplemen yang mengandungi besi oral untuk membetulkan anemia mikrositik ringan; tidak berkaitan dengan mekanisme sianokobalamin |
 
 ---
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [26926814](https://pubmed.ncbi.nlm.nih.gov/26926814/) | 2016 | Review | American Family Physician | Iron deficiency is the most common cause of microcytic anemia in infants/children |
-| [8930231](https://pubmed.ncbi.nlm.nih.gov/8930231/) | 1996 | Review | Archives of Family Medicine | Combined iron + cobalamin deficiency anemia; RBC morphology varies with relative degree of each deficiency |
-| [27212091](https://pubmed.ncbi.nlm.nih.gov/27212091/) | 2016 | Pending classification | Obstet Gynecol Clin North Am | MCV-based anemia classification: B12/folate deficiency causes macrocytosis, not microcytosis |
-| [28291568](https://pubmed.ncbi.nlm.nih.gov/28291568/) | 2017 | Pending classification | J Formos Med Assoc | Anemia and hematinic deficiencies in oral mucosal disease patients with microcytosis |
-| [28972879](https://pubmed.ncbi.nlm.nih.gov/28972879/) | 2017 | Pending classification | Discovery Medicine | Challenging clinical presentations of pernicious anemia |
-| [33906782](https://pubmed.ncbi.nlm.nih.gov/33906782/) | 2021 | Pending classification | J Formos Med Assoc | B12 deficiency and anemia in 140 Taiwanese lacto-vegetarian women |
-| [39954228](https://pubmed.ncbi.nlm.nih.gov/39954228/) | 2025 | Pending classification | Indian J Gastroenterol | Review of anemia in IBD; B12/folate deficiency listed among etiologies |
-| [28314600](https://pubmed.ncbi.nlm.nih.gov/28314600/) | 2017 | Pending classification | J Formos Med Assoc | Anemia/hematinic deficiencies in GPCA+/- microcytosis patients |
-| [36105468](https://pubmed.ncbi.nlm.nih.gov/36105468/) | 2022 | Pending classification | Heliyon | Magnitude and morphological types of anemia in under-five children |
-| [37258053](https://pubmed.ncbi.nlm.nih.gov/37258053/) | 2023 | Pending classification | Comparative Medicine | Severe anemia in rats after Roux-en-Y gastric bypass |
+| [26926814](https://pubmed.ncbi.nlm.nih.gov/26926814/) | 2016 | Ulasan | American Family Physician | Kekurangan besi adalah sebab paling biasa anemia mikrositik pada bayi/kanak-kanak |
+| [8930231](https://pubmed.ncbi.nlm.nih.gov/8930231/) | 1996 | Ulasan | Archives of Family Medicine | Anemia kekurangan besi + kobalamin gabungan; morfologi RBC berubah dengan tahap relatif setiap kekurangan |
+| [27212091](https://pubmed.ncbi.nlm.nih.gov/27212091/) | 2016 | Pengelasan tertunda | Obstet Gynecol Clin North Am | Pengelasan anemia berasaskan MCV: kekurangan B12/folat menyebabkan makrositosis, bukan mikrositosis |
+| [28291568](https://pubmed.ncbi.nlm.nih.gov/28291568/) | 2017 | Pengelasan tertunda | J Formos Med Assoc | Anemia dan kekurangan hematinik pada pesakit penyakit mukosa oral dengan mikrositosis |
+| [28972879](https://pubmed.ncbi.nlm.nih.gov/28972879/) | 2017 | Pengelasan tertunda | Discovery Medicine | Persembahan klinis yang mencabar anemia pernisiosa |
+| [33906782](https://pubmed.ncbi.nlm.nih.gov/33906782/) | 2021 | Pengelasan tertunda | J Formos Med Assoc | Kekurangan B12 dan anemia pada 140 wanita lacto-vegetarian Taiwan |
+| [39954228](https://pubmed.ncbi.nlm.nih.gov/39954228/) | 2025 | Pengelasan tertunda | Indian J Gastroenterol | Ulasan anemia dalam IBD; kekurangan B12/folat disenaraikan antara etiologi |
+| [28314600](https://pubmed.ncbi.nlm.nih.gov/28314600/) | 2017 | Pengelasan tertunda | J Formos Med Assoc | Anemia/kekurangan hematinik pada pesakit GPCA+/- mikrositosis |
+| [36105468](https://pubmed.ncbi.nlm.nih.gov/36105468/) | 2022 | Pengelasan tertunda | Heliyon | Magnitud dan jenis morfologi anemia pada kanak-kanak bawah lima tahun |
+| [37258053](https://pubmed.ncbi.nlm.nih.gov/37258053/) | 2023 | Pengelasan tertunda | Comparative Medicine | Anemia teruk pada tikus selepas bypass gastrik Roux-en-Y |
 
-None of the above literature directly demonstrates cyanocobalamin efficacy in microcytic anemia; most describe iron deficiency as the dominant cause or discuss B12 deficiency in the context of macrocytic/pernicious anemia instead.
-
----
-
-## Malaysia Market Information
-
-Malaysia registration data confirms the product is marketed (428 total registrations), but the sampled license records returned by the query contain no populated fields (license number, product name, dosage form, manufacturer, and approved indication text are all blank). Detailed authorization-level information is not currently available and requires re-query against the source registry.
+Tiada literatur di atas secara langsung menunjukkan keberkesanan sianokobalamin dalam anemia mikrositik; kebanyakannya menerangkan kekurangan besi sebagai sebab dominan atau membincangkan kekurangan B12 dalam konteks anemia makrositik/pernisiosa sebaliknya.
 
 ---
 
-## Safety Considerations
+## Maklumat Pasaran Malaysia
 
-Please refer to the package insert for safety information. (Key warnings and contraindications are flagged as a **blocking data gap** — DG001 — pending retrieval and parsing of the official product insert; no drug-drug interaction records were found in the current query.)
+Data pendaftaran Malaysia mengesahkan produk dipasarkan (428 pendaftaran jumlah), tetapi rekod lesen sampel yang dikembalikan oleh pertanyaan tidak mengandungi medan yang diisi (nombor lesen, nama produk, bentuk dos, pengilang, dan teks petunjuk yang diluluskan semuanya kosong). Maklumat tahap kebenaran yang terperinci tidak tersedia pada masa ini dan memerlukan pertanyaan semula terhadap daftar sumber.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila rujuk surat sisipan bungkusan untuk maklumat keselamatan. (Amaran utama dan kontraindikasi ditanda sebagai **celah data pemblokiran** — DG001 — menunggu pengambilan dan penghuraian surat sisipan produk rasmi; tiada rekod interaksi ubat-ubat ditemui dalam pertanyaan semasa.)
 
-**Rationale:**
-The TxGNN model assigned this candidate a prediction score of 0.0, and both the mechanistic rationale and retrieved evidence point to a morphological mismatch — vitamin B12 deficiency classically causes macrocytic, not microcytic, anemia. The supporting clinical trials involve iron supplementation rather than cyanocobalamin, and no literature directly evaluates cyanocobalamin efficacy in microcytic anemia. Additionally, a blocking safety data gap (TFDA/NPRA warnings and contraindications) prevents this candidate from advancing to initial safety review regardless of efficacy evidence.
+---
 
-**To proceed, the following is needed:**
-- Resolve DG001 (blocking): obtain and parse the official Malaysia product insert for warnings/contraindications
-- Resolve DG002: obtain mechanism of action data from DrugBank
-- Re-query Malaysia license records to obtain populated product/authorization details (current sample is entirely blank)
-- Note for portfolio review: the same evidence pack shows **vitamin B12 deficiency** (rank 3, evidence level L1, decision stage S3, recommendation "Proceed with Guardrails") as a much stronger-evidence candidate — but this is the drug's already-established core indication rather than a novel repurposing target, and should be treated as a scope/coverage question rather than a new indication filing
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Nisbah:**
+Model TxGNN menetapkan calon ini skor ramalan 0.0, dan kedua-dua nisbah mekanik dan bukti yang diambil menunjukkan ketidakpadanan morfologi — kekurangan vitamin B12 secara klasik menyebabkan anemia makrositik, bukan mikrositik. Uji klinis sokongan melibatkan suplemen besi dan bukannya sianokobalamin, dan tiada literatur secara langsung menilai keberkesanan sianokobalamin dalam anemia mikrositik. Tambahan pula, celah data keselamatan pemblokiran (amaran TFDA/NPRA dan kontraindikasi) menghalang calon ini daripada maju ke semakan keselamatan awal tanpa mengira bukti keberkesanan.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Selesaikan DG001 (pemblokiran): dapatkan dan huraikan surat sisipan produk Malaysia rasmi untuk amaran/kontraindikasi
+- Selesaikan DG002: dapatkan data mekanisme tindakan daripada DrugBank
+- Pertanyaan semula rekod lesen Malaysia untuk mendapatkan butiran produk/kebenaran yang diisi (sampel semasa sepenuhnya kosong)
+- Nota untuk semakan portfolio: pakej bukti yang sama menunjukkan **kekurangan vitamin B12** (pangkat 3, tahap bukti L1, peringkat keputusan S3, cadangan "Teruskan dengan Pengawasan") sebagai calon yang berkuat bukti lebih baik — tetapi ini adalah petunjuk teras ubat yang sudah mapan sebaliknya bukan sasaran penentuan semula novel, dan harus diperlakukan sebagai soalan skop/liputan dan bukannya pemfailan petunjuk baru
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

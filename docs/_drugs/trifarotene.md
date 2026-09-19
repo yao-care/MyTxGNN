@@ -29,60 +29,61 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Trifarotene: From Unspecified Original Indication to Elevated Plasma Zinc
+# Trifarotene: Daripada Petunjuk Asal yang Tidak Dinyatakan kepada Zinc Plasma yang Meningkat
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Trifarotene (DrugBank DB12808) is marketed in Malaysia, but its original approved indication and mechanism of action are not yet recorded in this evidence pack. The TxGNN model assigns a **99.40%** score to "Zinc, Elevated Plasma" as a candidate new indication, but this prediction is currently supported by **0 clinical trials** and **0 publications**, and the accompanying mechanistic assessment flags it as likely graph-structure noise rather than a genuine pharmacological signal.
+Trifarotene (DrugBank DB12808) dipasarkan di Malaysia, tetapi petunjuk asal yang diluluskan dan mekanisme tindakan tidak lagi direkodkan dalam pek bukti ini. Model TxGNN menetapkan skor **99.40%** kepada "Zinc, Elevated Plasma" sebagai calon petunjuk baru, tetapi ramalan ini kini disokong oleh **0 ujian klinikal** dan **0 penerbitan**, dan penilaian mekanistik yang menyertai menandainya sebagai kemungkinan bunyi struktur graf daripada isyarat farmakologi tulin.
 
-## Quick Overview
+## Gambaran Keseluruhan Cepat
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Not specified in available records |
-| Predicted New Indication | Zinc, Elevated Plasma |
-| TxGNN Prediction Score | 99.40% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+| Petunjuk Asal | Tidak dinyatakan dalam rekod yang tersedia |
+| Petunjuk Baharu yang Diramalkan | Zinc, Elevated Plasma |
+| Skor Ramalan TxGNN | 99.40% |
+| Paras Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed mechanism of action data for trifarotene is not currently available in this evidence pack, and no original indication text was returned from the Malaysia registry record on file, so a direct pharmacological bridge between the original and predicted indications cannot be established from the data provided.
+Data mekanisme tindakan terperinci untuk trifarotene tidak tersedia pada masa ini dalam pek bukti ini, dan tiada teks petunjuk asal dikembalikan daripada rekod daftar Malaysia yang ada fail, jadi jambatan farmakologi langsung antara petunjuk asal dan diramalkan tidak dapat ditubuhkan daripada data yang disediakan.
 
-The evidence pack's own mechanistic assessment is explicitly skeptical of this prediction: there is no known mechanism linking RAR-γ agonism (trifarotene's known pharmacological class) to plasma zinc concentration regulation. "Elevated plasma zinc" is a laboratory parameter rather than a disease entity, and high-scoring TxGNN predictions for this type of node are commonly attributable to knowledge-graph co-occurrence noise rather than an interpretable pharmacological pathway.
+Penilaian mekanistik pek bukti itu sendiri secara eksplisit skeptikal terhadap ramalan ini: tidak ada mekanisme yang diketahui menghubungkan agonis RAR-γ (kelas farmakologi trifarotene yang diketahui) kepada peraturan kepekatan zinc plasma. "Zinc plasma yang meningkat" adalah parameter makmal dan bukan entiti penyakit, dan ramalan TxGNN berskor tinggi untuk jenis nod ini biasanya boleh dipertanggungjawabkan kepada bunyi kebetulan graf pengetahuan daripada laluan farmakologi yang boleh ditafsir.
 
-Given the absence of both mechanistic plausibility and corroborating evidence, this prediction should be treated as a low-confidence model output rather than a repurposing lead.
+Memandangkan ketiadaan kedua-dua kebolehpercayaan mekanistik dan bukti sokongan, ramalan ini harus diperlakukan sebagai output model keyakinan rendah dan bukannya petunjuk pemilikkan semula.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-Currently no related clinical trials registered
+Pada masa ini tiada ujian klinikal berkaitan terdaftar
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no related literature available
+Pada masa ini tiada literatur berkaitan tersedia
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Malaysia registry (NPRA) records 1 active license for this product, but the detailed fields (license number, product name, dosage form, approved indication text) were not returned in this evidence pack and cannot be reported without fabrication.
+Daftar Malaysia (NPRA) merekodkan 1 lesen aktif untuk produk ini, tetapi medan terperinci (nombor lesen, nama produk, bentuk dos, teks petunjuk yang diluluskan) tidak dikembalikan dalam pek bukti ini dan tidak dapat dilaporkan tanpa fabrikasi.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisipan paket untuk maklumat keselamatan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The predicted indication lacks any clinical trial or literature support, and the mechanistic rationale itself indicates the prediction is likely a knowledge-graph artifact rather than a biologically plausible signal (L5, decision stage S0).
+**Nisbah:**
+Petunjuk yang diramalkan kekurangan sebarang sokongan ujian klinikal atau literatur, dan nisbah mekanistik itu sendiri menunjukkan ramalan itu berkemungkinan artifak graf pengetahuan dan bukannya isyarat biologi yang munasabah (L5, peringkat keputusan S0).
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert warnings and contraindications (blocking gap, DG001) — required before any S1 safety screening can begin
-- Mechanism of action data from DrugBank (DG002) — needed to properly evaluate mechanistic plausibility
-- Complete license record details (product name, dosage form, approved indication text) for the Malaysia registration
-- If pursuing further, re-evaluate the second-ranked candidate (pyogenic arthritis-pyoderma gangrenosum-acne syndrome, score 99.32%), which currently has no evidence or rationale assessment completed
+**Untuk meneruskan, yang berikut diperlukan:**
+- Amaran sisipan paket TFDA/NPRA dan kontraindikasi (jurang pemblokiran, DG001) — diperlukan sebelum apa-apa pemeriksaan keselamatan S1 boleh dimulakan
+- Data mekanisme tindakan daripada DrugBank (DG002) — diperlukan untuk menilai dengan wajar kebolehpercayaan mekanistik
+- Butiran rekod lesen lengkap (nama produk, bentuk dos, teks petunjuk yang diluluskan) untuk pendaftaran Malaysia
+- Jika meneruskan lebih lanjut, penilaian semula calon yang berpangkat kedua (piogenic arthritis-pyoderma gangrenosum-acne syndrome, skor 99.32%), yang pada masa ini tidak ada bukti atau penilaian nisbah yang telah selesai
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

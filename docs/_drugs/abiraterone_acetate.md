@@ -29,100 +29,101 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Abiraterone Acetate: From Prostate Cancer to [Awaiting TxGNN Prediction]
+# Abiraterone Acetate: Daripada Kanser Prostat kepada [Menunggu Ramalan TxGNN]
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Abiraterone acetate is a CYP17A1 inhibitor indicated for metastatic castration-resistant prostate cancer (mCRPC), registered in Malaysia under 11 authorizations.
-However, **the TxGNN prediction pipeline has not yet generated new indication candidates** for this drug — `predicted_indications` is empty.
-Without a prediction output, this report serves as a **data completeness audit** prior to full repurposing evaluation.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Metastatic castration-resistant prostate cancer (mCRPC) *(from general knowledge; NPRA indication text not retrieved)* |
-| Predicted New Indication | Not yet generated |
-| TxGNN Prediction Score | Not available |
-| Evidence Level | Not assessable |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 11 |
-| Recommended Decision | **Hold** — critical data gaps block evaluation |
+Abiraterone Acetate adalah perencat CYP17A1 yang diindikasikan untuk kanser prostat yang tahan ketua metastatik (mCRPC), didaftarkan di Malaysia di bawah 11 kebenaran.
+Bagaimanapun, **saluran paip ramalan TxGNN belum menghasilkan calon petunjuk baru** untuk ubat ini — `predicted_indications` kosong.
+Tanpa output ramalan, laporan ini berfungsi sebagai **audit kelengkapan data** sebelum penilaian penjumlahan semula yang penuh.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Pantas
 
-No TxGNN prediction is currently available for Abiraterone Acetate (`predicted_indications: []`). A mechanistic rationale for repurposing cannot be constructed without a target indication.
-
-Currently, detailed mechanism of action data has not been retrieved from DrugBank. Based on publicly available knowledge, Abiraterone Acetate irreversibly inhibits **CYP17A1** (17α-hydroxylase/C17,20-lyase), a key enzyme in androgen biosynthesis in the testes, adrenal glands, and within prostate tumour tissue itself. This androgen-depletion mechanism drives its efficacy in hormone-sensitive and castration-resistant prostate cancer.
-
-Once the TxGNN prediction pipeline is executed and a new indication candidate is identified, the mechanistic bridge between CYP17A1 inhibition and the predicted disease can be evaluated here.
-
----
-
-## Clinical Trial Evidence
-
-Currently no TxGNN-predicted indication is available. Clinical trial evidence cannot be displayed.
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Kanser prostat yang tahan ketua metastatik (mCRPC) *(daripada pengetahuan umum; teks indikasi NPRA tidak diambil)* |
+| Indikasi Ramalan Baru | Belum dijana |
+| Skor Ramalan TxGNN | Tidak tersedia |
+| Tahap Bukti | Tidak boleh dinilai |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 11 |
+| Keputusan yang Disyorkan | **Tahan** — jurang data penting menghalang penilaian |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no TxGNN-predicted indication is available. Literature evidence cannot be displayed.
+Tiada ramalan TxGNN yang tersedia pada masa ini untuk Abiraterone Acetate (`predicted_indications: []`). Rasional mekanistik untuk penjumlahan semula tidak dapat dibina tanpa indikasi sasaran.
+
+Pada masa ini, data mekanisme tindakan terperinci belum diambil daripada DrugBank. Berdasarkan pengetahuan yang tersedia secara terbuka, Abiraterone Acetate secara tidak boleh balik merencat **CYP17A1** (17α-hidroksilase/C17,20-liase), enzim utama dalam biosintesis androgen di testis, kelenjar adrenal, dan dalam tisu tumor prostat itu sendiri. Mekanisme penipisan androgen ini mendorong keupayaannya dalam kanser prostat yang peka hormon dan tahan ketua.
+
+Sebaik sahaja saluran paip ramalan TxGNN dilaksanakan dan calon indikasi baru dikenal pasti, jambatan mekanistik antara perencatan CYP17A1 dan penyakit yang diramalkan dapat dinilai di sini.
 
 ---
 
-## Malaysia Market Information
+## Bukti Ujian Klinikal
 
-The NPRA query returned **11 registered licenses**, but individual license details (authorization number, product name, dosage form, approved indication text) were not populated in this Evidence Pack. Please re-run the data extraction with full field retrieval.
+Pada masa ini tiada indikasi yang diramalkan oleh TxGNN tersedia. Bukti ujian klinikal tidak dapat dipaparkan.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+---
+
+## Bukti Kesusasteraan
+
+Pada masa ini tiada indikasi yang diramalkan oleh TxGNN tersedia. Bukti kesusasteraan tidak dapat dipaparkan.
+
+---
+
+## Maklumat Pasaran Malaysia
+
+Pertanyaan NPRA mengembalikan **11 lesen terdaftar**, tetapi butiran lesen individu (nombor kebenaran, nama produk, bentuk dos, teks indikasi yang diluluskan) tidak diisi dalam Pakej Bukti ini. Sila jalankan semula pengekstrakan data dengan pengambilan medan penuh.
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
 |---------------------|-------------|-------------|-------------------|
-| *(Not retrieved)* | *(Not retrieved)* | *(Not retrieved)* | *(Not retrieved)* |
+| *(Tidak diambil)* | *(Tidak diambil)* | *(Tidak diambil)* | *(Tidak diambil)* |
 
-> ⚠️ **11 registrations confirmed** via NPRA query (2026-03-27), but individual record details require a follow-up extraction pass.
-
----
-
-## Cytotoxicity
-
-Abiraterone Acetate is an antineoplastic agent (androgen biosynthesis inhibitor for prostate cancer).
-
-| Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Targeted therapy — Hormonal / CYP17A1 inhibitor (not conventional cytotoxic) |
-| Myelosuppression Risk | Low (non-cytotoxic mechanism; myelosuppression not a primary concern) |
-| Emetogenicity Classification | Low |
-| Monitoring Items | Liver function (ALT/AST/bilirubin), serum potassium, blood pressure, fluid retention, serum testosterone and PSA |
-| Handling Protection | Standard oncology handling precautions; does not typically require cytotoxic drug handling protocols under most institutional guidelines, but confirm per local SOPs |
+> ⚠️ **11 pendaftaran disahkan** melalui pertanyaan NPRA (2026-03-27), tetapi butiran rekod individu memerlukan lintasan pengekstrakan susulan.
 
 ---
 
-## Safety Considerations
+## Ketoksikan
 
-Please refer to the package insert for safety information.
+Abiraterone Acetate adalah agen antineoplastik (perencat biosintesis androgen untuk kanser prostat).
 
-> The Evidence Pack carries **DG001 (Blocking)**: NPRA/TFDA package insert warnings and contraindications have not been retrieved. This gap must be resolved before any safety-gated decision can be made.
+| Item | Kandungan |
+|------|----------|
+| Klasifikasi Ketoksikan | Terapi tersasaran — Hormonal / perencat CYP17A1 (bukan sitotoksik konvensional) |
+| Risiko Supresi Sumsum Tulang | Rendah (mekanisme bukan sitotoksik; supresi sumsum tulang bukan kebimbangan utama) |
+| Klasifikasi Emetogenisiti | Rendah |
+| Item Pemantauan | Fungsi hati (ALT/AST/bilirubin), kalium serum, tekanan darah, retensi bendalir, testosteron serum dan PSA |
+| Perlindungan Pengendalian | Langkah-langkah pengendalian onkologi standard; biasanya tidak memerlukan protokol pengendalian ubat sitotoksik di bawah kebanyakan garis panduan institusional, tetapi sahkan mengikut SOP setempat |
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila rujuk risalah pakej untuk maklumat keselamatan.
 
-**Rationale:**
-The two most critical inputs for a repurposing evaluation — TxGNN predicted indications and safety/MOA data — are both absent. Proceeding without them would yield an uninformative risk assessment.
+> Pakej Bukti membawa **DG001 (Menyekat)**: Amaran dan kontraindikasi risalah pakej NPRA/TFDA belum diambil. Jurang ini mesti diselesaikan sebelum sebarang keputusan yang tergantung keselamatan dapat dibuat.
 
-**To proceed, the following is needed:**
+---
 
-- [ ] **\[DG001 — Blocking\]** Retrieve NPRA/TFDA package insert: download the PDF and parse warnings, contraindications, and special population data
-- [ ] **\[DG002 — High\]** Query DrugBank API for `ABIRATERONE ACETATE` to obtain DrugBank ID, confirmed MOA, drug categories, and toxicity data
-- [ ] **Re-run TxGNN prediction pipeline** — `predicted_indications` is empty; execute KG + DL prediction steps and populate the Evidence Pack
-- [ ] **Re-extract NPRA license details** — 11 registrations exist but individual record fields (product name, dosage form, indication text) were not captured; re-query with full field mapping
-- [ ] Once predictions are available, re-generate this report with a target indication and evidence tables
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Dua input paling penting untuk penilaian penjumlahan semula — indikasi yang diramalkan TxGNN dan data keselamatan/MOA — kedua-duanya tidak hadir. Meneruskan tanpanya akan menghasilkan penilaian risiko yang tidak bermaklumat.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+
+- [ ] **\[DG001 — Menyekat\]** Ambil risalah pakej NPRA/TFDA: muat turun PDF dan parskan amaran, kontraindikasi, dan data populasi istimewa
+- [ ] **\[DG002 — Tinggi\]** Tanyakan API DrugBank untuk `ABIRATERONE ACETATE` untuk mendapatkan ID DrugBank, MOA yang disahkan, kategori ubat, dan data ketoksikan
+- [ ] **Jalankan semula saluran paip ramalan TxGNN** — `predicted_indications` kosong; laksanakan langkah ramalan KG + DL dan isi Pakej Bukti
+- [ ] **Ekstrak semula butiran lesen NPRA** — 11 pendaftaran wujud tetapi medan rekod individu (nama produk, bentuk dos, teks indikasi) tidak ditangkap; tanyakan semula dengan pemetaan medan penuh
+- [ ] Sebaik sahaja ramalan tersedia, janakan semula laporan ini dengan indikasi sasaran dan jadual bukti
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

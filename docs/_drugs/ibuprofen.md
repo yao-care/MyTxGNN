@@ -29,99 +29,100 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-# Ibuprofen: From Pain and Inflammation to Osteoarthritis
+# Ibuprofen: Daripada Kesakitan dan Keradangan kepada Osteoarthritis
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-> Ibuprofen is a classic non-selective COX-1/COX-2 inhibitor NSAID, widely used for pain, fever, and inflammation.
-> The TxGNN model's top-ranked candidate indication is **Osteoarthritis**, but this is already a globally established, standard use of ibuprofen rather than a novel repurposing target —
-> supported by **50 clinical trials** and **19 publications** in this dataset, including a very large (N=24,081) cardiovascular-safety RCT (PRECISION).
+> Ibuprofen ialah penyekat COX-1/COX-2 yang tidak selektif secara klasik, NSAID yang digunakan secara meluas untuk kesakitan, demam, dan keradangan.
+> Petunjuk calon tertinggi model TxGNN ialah **Osteoarthritis**, tetapi ini sudah merupakan kegunaan ibuprofen yang ditubuhkan secara global, bukan sasaran ubah tujuan yang baru —
+> disokong oleh **50 percubaan klinikal** dan **19 penerbitan** dalam set data ini, termasuk satu percubaan keselamatan kardiovaskular RCT yang sangat besar (N=24,081) (PRECISION).
 
 ---
 
-## Quick Overview
+## Gambaran Pantas
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Pain, fever, and inflammation (general NSAID use; specific TFDA-approved label indication text not available in this dataset) |
-| Predicted New Indication | Osteoarthritis |
-| TxGNN Prediction Score | 0.00% *(score field returned as 0.0 in this dataset — likely incomplete/placeholder; not used as the basis for the recommendation below)* |
-| Evidence Level | L1 |
-| Market Status | ✓ Marketed |
-| Number of Registrations | 43 |
-| Recommended Decision | Proceed with Guardrails |
+| Petunjuk Asal | Kesakitan, demam, dan keradangan (kegunaan NSAID umum; teks petunjuk yang diluluskan TFDA spesifik tidak tersedia dalam set data ini) |
+| Petunjuk Calon Baru | Osteoarthritis |
+| Skor Ramalan TxGNN | 0.00% *(medan skor dikembalikan sebagai 0.0 dalam set data ini — kemungkinan data tidak lengkap/placeholder; tidak digunakan sebagai asas untuk cadangan di bawah)* |
+| Tahap Bukti | L1 |
+| Status Pasaran | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 43 |
+| Keputusan yang Disyorkan | Teruskan dengan Pengawalan Keselamatan |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Adalah Munasabah?
 
-Currently, detailed structured mechanism-of-action data is not available (marked as a data gap in this evidence pack). Based on known pharmacology, ibuprofen is a non-selective COX-1/COX-2 inhibitor that blocks conversion of arachidonic acid to prostaglandins (notably PGE2), reducing synovial inflammation and joint pain — a standard NSAID class effect.
+Pada masa ini, data mekanisme tindakan berstruktur terperinci tidak tersedia (ditandakan sebagai jurang data dalam pak bukti ini). Berdasarkan farmakologi yang diketahui, ibuprofen ialah penyekat COX-1/COX-2 yang tidak selektif yang menghalang penukaran asid arakidonik kepada prostaglandin (terutamanya PGE2), mengurangkan keradangan sinovial dan kesakitan sendi — kesan kelas NSAID standard.
 
-Importantly, this is not a case of mechanistic extrapolation to a new disease area: osteoarthritis is already one of ibuprofen's long-standing, globally approved core indications. The evidence pack itself notes that this reflects ibuprofen's "existing standard indication rather than a novel mechanistic inference." The large body of clinical trials and literature below therefore functions as **confirmatory evidence of an established use**, not as exploratory repurposing evidence.
+Dengan penting, ini bukan kes ekstrapolasi mekanis kepada kawasan penyakit baru: osteoarthritis sudah merupakan salah satu petunjuk teras yang diluluskan secara global jangka panjang ibuprofen. Pak bukti itu sendiri menyatakan bahawa ini mencerminkan "petunjuk standard yang sedia ada ibuprofen daripada inferens mekanis yang baru." Badan besar percubaan klinikal dan kesusasteraan di bawah oleh itu berfungsi sebagai **bukti pengesahan penggunaan yang telah ditubuhkan**, bukan bukti ubah tujuan penerokaan.
 
-Because the mechanism (COX inhibition → reduced PGE2 → reduced joint inflammation/pain) is already proven and the indication is already in wide clinical use, the main open questions for this candidate are not efficacy questions but **safety-documentation completeness** — specifically, the TFDA label warnings/contraindications data gap flagged as "Blocking" in this evidence pack (see Conclusion below).
+Kerana mekanisme (halangan COX → PGE2 berkurangan → keradangan/kesakitan sendi berkurangan) sudah terbukti dan petunjuk sudah digunakan secara meluas dalam klinikal, soalan terbuka utama untuk calon ini bukan soalan keberkesanan tetapi **kesempurnaan dokumentasi keselamatan** — khususnya, jurang data amaran label TFDA/kontraindikasi yang ditandakan sebagai "Blocking" dalam pak bukti ini (lihat Kesimpulan di bawah).
 
 ---
 
-## Clinical Trial Evidence
+## Bukti Percubaan Klinikal
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Percubaan | Fasa | Status | Kemasukan | Penemuan Kunci |
 |---------|------|------|------|---------|
-| [NCT00613106](https://clinicaltrials.gov/study/NCT00613106) | Phase 3 | Completed | 179 | Long-term safety follow-on for HZT-501 (ibuprofen 800mg/famotidine 26.6mg) in patients requiring long-term NSAID treatment |
-| [NCT00450216](https://clinicaltrials.gov/study/NCT00450216) | Phase 3 | Completed | 906 | HZT-501 reduces development of ibuprofen-associated ulcers vs. ibuprofen alone |
-| [NCT00450658](https://clinicaltrials.gov/study/NCT00450658) | Phase 3 | Completed | 627 | Companion Phase 3 trial confirming HZT-501 reduces ibuprofen-associated GI ulcers |
-| [NCT00346216](https://clinicaltrials.gov/study/NCT00346216) | Phase 4 | Completed | 24,081 | Large-scale cardiovascular safety RCT (PRECISION): celecoxib vs. naproxen and ibuprofen in OA/RA patients with CV risk |
-| [NCT00269191](https://clinicaltrials.gov/study/NCT00269191) | Phase 3 | Completed | 528 | Etoricoxib 30mg vs. ibuprofen 2400mg/day: safety and efficacy in hip/knee osteoarthritis |
-| [NCT01066676](https://clinicaltrials.gov/study/NCT01066676) | Phase 4 | Completed | 482 | Dexibuprofen vs. ibuprofen 400mg oral suspension: tolerability and efficacy in hip/knee OA |
-| [NCT05318521](https://clinicaltrials.gov/study/NCT05318521) | Phase 3 | Unknown | 500 | Ibuprofen modified-release 800mg vs. placebo for chronic knee OA pain |
-| [NCT00784810](https://clinicaltrials.gov/study/NCT00784810) | Phase 4 | Completed | 247 | Oxycodone/naloxone vs. codeine/paracetamol for chronic low back pain or OA pain, with ibuprofen as supplemental analgesic |
-| [NCT00792818](https://clinicaltrials.gov/study/NCT00792818) | Phase 3 | Completed | 367 | Curcuma domestica extract vs. ibuprofen, multicenter RCT for knee osteoarthritis |
-| [NCT00630929](https://clinicaltrials.gov/study/NCT00630929) | Phase 4 | Completed | 388 | Celecoxib (once daily) vs. ibuprofen (three times daily) vs. placebo in knee osteoarthritis |
+| [NCT00613106](https://clinicaltrials.gov/study/NCT00613106) | Fasa 3 | Selesai | 179 | Susulan keselamatan jangka panjang untuk HZT-501 (ibuprofen 800mg/famotidine 26.6mg) dalam pesakit yang memerlukan rawatan NSAID jangka panjang |
+| [NCT00450216](https://clinicaltrials.gov/study/NCT00450216) | Fasa 3 | Selesai | 906 | HZT-501 mengurangkan pembangunan ulser yang berkaitan ibuprofen berbanding ibuprofen sahaja |
+| [NCT00450658](https://clinicaltrials.gov/study/NCT00450658) | Fasa 3 | Selesai | 627 | Percubaan Fasa 3 pendamping yang mengesahkan HZT-501 mengurangkan ulser GI yang berkaitan ibuprofen |
+| [NCT00346216](https://clinicaltrials.gov/study/NCT00346216) | Fasa 4 | Selesai | 24,081 | Percubaan RCT keselamatan kardiovaskular berskala besar (PRECISION): celecoxib vs. naproxen dan ibuprofen dalam pesakit OA/RA dengan risiko CV |
+| [NCT00269191](https://clinicaltrials.gov/study/NCT00269191) | Fasa 3 | Selesai | 528 | Etoricoxib 30mg vs. ibuprofen 2400mg/hari: keselamatan dan keberkesanan dalam osteoarthritis pinggul/lutut |
+| [NCT01066676](https://clinicaltrials.gov/study/NCT01066676) | Fasa 4 | Selesai | 482 | Dexibuprofen vs. ibuprofen 400mg suspensyon oral: kebolehanerimaan dan keberkesanan dalam OA pinggul/lutut |
+| [NCT05318521](https://clinicaltrials.gov/study/NCT05318521) | Fasa 3 | Tidak Diketahui | 500 | Ibuprofen lepasan-ubahsuai 800mg vs. plasebo untuk kesakitan OA lutut kronik |
+| [NCT00784810](https://clinicaltrials.gov/study/NCT00784810) | Fasa 4 | Selesai | 247 | Oxycodone/naloxone vs. codeine/paracetamol untuk kesakitan belakang rendah kronik atau kesakitan OA, dengan ibuprofen sebagai analgesik tambahan |
+| [NCT00792818](https://clinicaltrials.gov/study/NCT00792818) | Fasa 3 | Selesai | 367 | Ekstrak Curcuma domestica vs. ibuprofen, percubaan RCT berbilang pusat untuk osteoarthritis lutut |
+| [NCT00630929](https://clinicaltrials.gov/study/NCT00630929) | Fasa 4 | Selesai | 388 | Celecoxib (sekali sehari) vs. ibuprofen (tiga kali sehari) vs. plasebo dalam osteoarthritis lutut |
 
 ---
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Kunci |
 |------|-----|------|------|---------|
-| [27959716](https://pubmed.ncbi.nlm.nih.gov/27959716/) | 2016 | RCT | New England Journal of Medicine | Cardiovascular safety of celecoxib vs. naproxen/ibuprofen in arthritis patients (PRECISION trial) |
-| [25560713](https://pubmed.ncbi.nlm.nih.gov/25560713/) | 2015 | Review | Annals of Internal Medicine | Network meta-analysis comparing pharmacologic interventions for knee osteoarthritis |
-| [22471358](https://pubmed.ncbi.nlm.nih.gov/22471358/) | 2012 | Review | J Pharm Pharmacol | Review of ibuprofen pharmacokinetics/pharmacodynamics as first-line hip/knee OA therapy |
-| [28035387](https://pubmed.ncbi.nlm.nih.gov/28035387/) | 2017 | Review | Molecular Medicine Reports | Mechanistic study comparing ibuprofen, prednisone, and betamethasone in OA chondrocyte models |
-| [22149579](https://pubmed.ncbi.nlm.nih.gov/22149579/) | 2012 | Review | Expert Rev Gastroenterol Hepatol | GI protection of ibuprofen/famotidine (HZT-501/DUEXIS) in RA and OA |
-| [25141246](https://pubmed.ncbi.nlm.nih.gov/25141246/) | 2014 | Pooled Analysis | Postgraduate Medicine | Pooled analysis: GI ulcer risk with ibuprofen/famotidine vs. ibuprofen alone in OA |
-| [35234840](https://pubmed.ncbi.nlm.nih.gov/35234840/) | 2022 | Analysis | Eur Heart J Cardiovasc Pharmacother | Cardiorenal risk of celecoxib vs. naproxen/ibuprofen — insights from the PRECISION trial |
-| [320671](https://pubmed.ncbi.nlm.nih.gov/320671/) | 1977 | RCT | Southern Medical Journal | Double-blind multiclinic trial: ibuprofen vs. aspirin vs. placebo in osteoarthritis (N=437) |
-| [24672232](https://pubmed.ncbi.nlm.nih.gov/24672232/) | 2014 | RCT | Clinical Interventions in Aging | Multicenter trial: Curcuma domestica extract vs. ibuprofen in knee osteoarthritis |
-| [38937394](https://pubmed.ncbi.nlm.nih.gov/38937394/) | 2024 | Review | Drugs | Systematic review/meta-analysis: paracetamol combination therapy for back pain and osteoarthritis |
+| [27959716](https://pubmed.ncbi.nlm.nih.gov/27959716/) | 2016 | RCT | New England Journal of Medicine | Keselamatan kardiovaskular celecoxib vs. naproxen/ibuprofen dalam pesakit arthritis (percubaan PRECISION) |
+| [25560713](https://pubmed.ncbi.nlm.nih.gov/25560713/) | 2015 | Ulasan | Annals of Internal Medicine | Meta-analisis rangkaian membandingkan campur tangan farmakologi untuk osteoarthritis lutut |
+| [22471358](https://pubmed.ncbi.nlm.nih.gov/22471358/) | 2012 | Ulasan | J Pharm Pharmacol | Ulasan farmakokinetik/farmakodinamik ibuprofen sebagai terapi OA pinggul/lutut barisan pertama |
+| [28035387](https://pubmed.ncbi.nlm.nih.gov/28035387/) | 2017 | Ulasan | Molecular Medicine Reports | Kajian mekanis membandingkan ibuprofen, prednisone, dan betamethasone dalam model kondrosit OA |
+| [22149579](https://pubmed.ncbi.nlm.nih.gov/22149579/) | 2012 | Ulasan | Expert Rev Gastroenterol Hepatol | Perlindungan GI ibuprofen/famotidine (HZT-501/DUEXIS) dalam RA dan OA |
+| [25141246](https://pubmed.ncbi.nlm.nih.gov/25141246/) | 2014 | Analisis Terkumpul | Postgraduate Medicine | Analisis terkumpul: risiko ulser GI dengan ibuprofen/famotidine vs. ibuprofen sahaja dalam OA |
+| [35234840](https://pubmed.ncbi.nlm.nih.gov/35234840/) | 2022 | Analisis | Eur Heart J Cardiovasc Pharmacother | Risiko kardiorena celecoxib vs. naproxen/ibuprofen — wawasan daripada percubaan PRECISION |
+| [320671](https://pubmed.ncbi.nlm.nih.gov/320671/) | 1977 | RCT | Southern Medical Journal | Percubaan berbilang klinik buta-dua: ibuprofen vs. aspirin vs. plasebo dalam osteoarthritis (N=437) |
+| [24672232](https://pubmed.ncbi.nlm.nih.gov/24672232/) | 2014 | RCT | Clinical Interventions in Aging | Percubaan berbilang pusat: ekstrak Curcuma domestica vs. ibuprofen dalam osteoarthritis lutut |
+| [38937394](https://pubmed.ncbi.nlm.nih.gov/38937394/) | 2024 | Ulasan | Drugs | Ulasan sistematik/meta-analisis: terapi kombinasi paracetamol untuk kesakitan belakang dan osteoarthritis |
 
 ---
 
-## Market Information
+## Maklumat Pasaran
 
-Detailed license-level records (authorization number, product name, dosage form, approved indication text) are not populated in this dataset — the 5 sample license entries returned are blank. What is confirmed: ibuprofen is **marketed** with **43 total registrations** on record. License-level detail should be re-pulled from the regulatory source before this candidate proceeds further.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information. *(No key warnings, contraindications, or DDI data were returned in this evidence pack — DDI query status: not found, 0 interactions.)*
+Rekod peringkat lesen terperinci (nombor kebenaran, nama produk, bentuk ubat, teks petunjuk yang diluluskan) tidak diisi dalam set data ini — 5 entri lesen sampel yang dikembalikan adalah kosong. Apa yang disahkan: ibuprofen adalah **dipasarkan** dengan **43 jumlah pendaftaran** dalam rekod. Perincian peringkat lesen harus diambil semula daripada sumber kawal seliaan sebelum calon ini diteruskan.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Proceed with Guardrails**
+Sila rujuk sisipan pakej untuk maklumat keselamatan. *(Tiada amaran kunci, kontraindikasi, atau data DDI yang dikembalikan dalam pak bukti ini — status pertanyaan DDI: tidak ditemui, 0 interaksi.)*
 
-**Rationale:**
-- Osteoarthritis is already an established, long-standing indication for ibuprofen with strong supporting evidence (L1: multiple completed Phase 3/4 RCTs, including the large PRECISION trial), so efficacy is not in question.
-- However, this evidence pack flags a **Blocking-severity data gap (DG001)**: TFDA label warnings/contraindications are missing, which the pack itself states prevents completion of initial safety screening (S1). Guardrails are therefore driven by regulatory/safety documentation completeness, not by uncertainty about the drug-disease link.
+---
 
-**To proceed, the following is needed:**
-- TFDA package insert warnings and contraindications (DG001, Blocking — retrieve and parse the official label PDF)
-- Structured mechanism-of-action data from DrugBank (DG002)
-- Confirmed license-level market data (authorization numbers, approved indication text) to replace the currently blank entries
-- Clarification that this candidate represents consolidation of an existing approved use rather than a novel repurposing opportunity, so it should be routed accordingly in the review pipeline
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Teruskan dengan Pengawalan Keselamatan**
+
+**Asalan:**
+- Osteoarthritis sudah merupakan petunjuk yang telah ditubuhkan, jangka panjang untuk ibuprofen dengan bukti sokongan yang kuat (L1: berbilang RCT Fasa 3/4 yang selesai, termasuk percubaan PRECISION yang besar), jadi keberkesanan tidak dipertanyakan.
+- Walau bagaimanapun, pak bukti ini menandakan **jurang data keterukan Blocking (DG001)**: amaran label TFDA/kontraindikasi hilang, yang pak sendiri nyatakan menghalang penyelesaian pemeriksaan keselamatan awal (S1). Pengawalan oleh itu didorong oleh kesempurnaan dokumentasi kawal seliaan/keselamatan, bukan oleh ketidakpastian tentang pautan ubat-penyakit.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Amaran sisipan pakej TFDA dan kontraindikasi (DG001, Blocking — ambil dan huraikan PDF label rasmi)
+- Data mekanisme tindakan berstruktur daripada DrugBank (DG002)
+- Data pasaran peringkat lesen yang disahkan (nombor kebenaran, teks petunjuk yang diluluskan) untuk menggantikan entri kosong semasa
+- Penjelasan bahawa calon ini mewakili penggabungan penggunaan yang telah diluluskan sedia ada daripada peluang ubah tujuan yang baru, jadi ia harus dihalakan sewajarnya dalam saluran ulasan
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

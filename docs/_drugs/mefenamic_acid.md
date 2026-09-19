@@ -29,71 +29,72 @@ Tahap bukti: **L1** | Indikasi diramal: **8**
 
 </div>
 
-# Mefenamic Acid: From Analgesic/Anti-Inflammatory Use to Rheumatoid Arthritis
+# Mefenamic Acid: Dari Penggunaan Analgesik/Anti-Radang ke Artritis Reumatoid
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Mefenamic acid is a fenamate-class NSAID established for pain and inflammation control. The TxGNN model predicts it may be effective for **Rheumatoid Arthritis**, a use already supported by a body of historical randomized trials — **0 registered clinical trials** but **20 PubMed publications**, several from double-blind RCTs conducted in the 1960s–1980s.
+Mefenamic acid adalah NSAID golongan fenaman yang telah ditetapkan untuk mengawal kesakitan dan radang. Model TxGNN meramal bahawa ia mungkin berkesan untuk **Artritis Reumatoid**, penggunaan yang sudah disokong oleh badan percubaan rawak bersejarah — **0 percubaan klinis berdaftar** tetapi **20 penerbitan PubMed**, beberapa daripada RCT buta ganda yang dijalankan pada tahun 1960s–1980s.
 
-## Quick Overview
+## Ikhtisar Ringkas
 
-| Item | Content |
+| Perkara | Kandungan |
 |------|------|
-| Original Indication | Not specified in the current NPRA license extract (all license fields returned empty); mefenamic acid is a known fenamate NSAID used for mild-to-moderate pain and inflammatory conditions |
-| Predicted New Indication | Rheumatoid Arthritis |
-| TxGNN Prediction Score | 99.73% |
-| Evidence Level | L1 |
-| Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 36 |
-| Recommended Decision | Proceed with Guardrails |
+| Petunjuk Asal | Tidak dinyatakan dalam ekstrak lesen NPRA semasa (semua medan lesen kembali kosong); mefenamic acid adalah NSAID golongan fenaman yang terkenal digunakan untuk mengawal kesakitan sederhana hingga sederhana dan keadaan radang |
+| Petunjuk Baharu yang Diramal | Artritis Reumatoid |
+| Skor Ramalan TxGNN | 99.73% |
+| Tahap Bukti | L1 |
+| Status Pasaran | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 36 |
+| Keputusan yang Disyorkan | Teruskan dengan Pengawasan Khusus |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Masuk Akal?
 
-Currently, detailed mechanism-of-action data from DrugBank is not available (flagged as a High-severity data gap). Based on known pharmacology, mefenamic acid is a fenamate-class NSAID that directly inhibits COX-1/COX-2, reducing prostaglandin synthesis — a mechanism that underlies both analgesic and anti-inflammatory activity.
+Pada masa ini, data mekanisme tindakan terperinci daripada DrugBank tidak tersedia (ditandakan sebagai jurang data keterukan Tinggi). Berdasarkan farmakologi yang diketahui, mefenamic acid adalah NSAID golongan fenaman yang secara langsung merencat COX-1/COX-2, mengurangkan sintesis prostaglandin — mekanisme yang mendasari kedua-dua aktiviti analgesik dan anti-radang.
 
-Because COX inhibition is the core pharmacological basis for controlling joint pain and inflammation in rheumatoid arthritis, this prediction is not really a "novel" repurposing signal — it reflects a long-recognized, mechanistically direct extension of NSAID activity into a classic inflammatory joint disease, and is consistent with mefenamic acid's approved use in some markets.
+Kerana perencat COX adalah asas farmakologi teras untuk mengawal kesakitan sendi dan radang dalam artritis reumatoid, ramalan ini bukan benar-benar isyarat "repurposing novel" — ia mencerminkan perluasan yang telah lama diketahui dan secara mekanis langsung bagi aktiviti NSAID ke dalam penyakit sendi radang klasik, dan sejajar dengan kegunaan yang diluluskan mefenamic acid di beberapa pasaran.
 
-The supporting literature is high in mechanistic plausibility but dated: the available RCTs comparing mefenamic acid against ibuprofen, flurbiprofen, and sulindac in RA were conducted between the late 1960s and late 1970s, predating clinicaltrials.gov-style trial registries — which explains why zero registered clinical trials appear despite Tier-1 RCT literature support.
+Kesusasteraan yang menyokong adalah tinggi dari segi kemungkinan mekanis tetapi sudah lama: RCT yang tersedia membandingkan mefenamic acid terhadap ibuprofen, flurbiprofen, dan sulindac dalam RA telah dijalankan antara akhir 1960-an dan akhir 1970-an, mendahului pendaftaran percubaan gaya clinicaltrials.gov — yang menjelaskan mengapa sifar percubaan klinis berdaftar muncul walaupun terdapat sokongan kesusasteraan RCT Tier-1.
 
-## Clinical Trial Evidence
+## Bukti Percubaan Klinis
 
-Currently no related clinical trials registered.
+Pada masa ini tiada percubaan klinis berkaitan berdaftar.
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [373989](https://pubmed.ncbi.nlm.nih.gov/373989/) | 1979 | RCT | Current Medical Research and Opinion | Double-blind crossover trial (n=24): mefenamic acid, flurbiprofen and sulindac all significantly superior to placebo on pain score, joint tenderness, and morning stiffness |
-| [330287](https://pubmed.ncbi.nlm.nih.gov/330287/) | 1977 | RCT | The Journal of International Medical Research | Randomized double-blind within-patient study (n=40): mefenamic acid and ibuprofen showed comparable analgesic/anti-inflammatory effect; similar side-effect profile |
-| [796645](https://pubmed.ncbi.nlm.nih.gov/796645/) | 1976 | RCT | The Medical Journal of Australia | Double-blind crossover trial: mefenamic acid (1500mg/day) compared favorably with ibuprofen (1200mg/day) added to maintenance salicylate therapy; mild, mostly GI side effects |
-| [4294443](https://pubmed.ncbi.nlm.nih.gov/4294443/) | 1967 | Cohort/Clinical Study | Annals of the Rheumatic Diseases | Early clinical study establishing use of mefenamic acid in rheumatoid arthritis |
-| [306128](https://pubmed.ncbi.nlm.nih.gov/306128/) | 1978 | Review | Scottish Medical Journal | Reviews the clinical place of mefenamic acid in RA treatment |
-| [5333309](https://pubmed.ncbi.nlm.nih.gov/5333309/) | 1966 | Review | British Medical Journal | Early review of mefenamic acid pharmacology and clinical use |
-| [20668](https://pubmed.ncbi.nlm.nih.gov/20668/) | 1977 | Review | Seminars in Arthritis and Rheumatism | Broader review of anti-inflammatory drugs including fenamates |
-| [5676955](https://pubmed.ncbi.nlm.nih.gov/5676955/) | 1968 | Case Series (Safety) | British Medical Journal | Three RA patients developed autoimmune haemolytic anaemia (warm-antibody type) during mefenamic acid therapy; resolved after drug withdrawal — relevant long-term safety signal |
-| [29548675](https://pubmed.ncbi.nlm.nih.gov/29548675/) | 2018 | Case-crossover Study | The American Journal of Cardiology | Evaluated stroke/AMI risk with NSAID use (including fenamates) specifically in RA patients — relevant to cardiovascular safety monitoring in this population |
-| [16223958](https://pubmed.ncbi.nlm.nih.gov/16223958/) | 2006 | Preclinical | Molecular Pharmacology | Mechanistic study showing mefenamic acid's neuroprotective/COX-inhibition effects, supporting long-term anti-inflammatory rationale (epidemiologic link between NSAID use in RA and reduced Alzheimer's risk) |
+| [373989](https://pubmed.ncbi.nlm.nih.gov/373989/) | 1979 | RCT | Current Medical Research and Opinion | Percubaan silang buta ganda (n=24): mefenamic acid, flurbiprofen dan sulindac semuanya jauh lebih unggul daripada plasebo pada skor kesakitan, kelembutan sendi, dan kekakuan pagi |
+| [330287](https://pubmed.ncbi.nlm.nih.gov/330287/) | 1977 | RCT | The Journal of International Medical Research | Kajian dalam-pesakit rawak buta ganda (n=40): mefenamic acid dan ibuprofen menunjukkan kesan analgesik/anti-radang yang setanding; profil kesan sampingan yang serupa |
+| [796645](https://pubmed.ncbi.nlm.nih.gov/796645/) | 1976 | RCT | The Medical Journal of Australia | Percubaan silang buta ganda: mefenamic acid (1500mg/hari) dibandingkan menguntungkan dengan ibuprofen (1200mg/hari) ditambah terapi salisilat penyelenggaraan; kesan sampingan ringan, kebanyakannya GI |
+| [4294443](https://pubmed.ncbi.nlm.nih.gov/4294443/) | 1967 | Kohort/Kajian Klinis | Annals of the Rheumatic Diseases | Kajian klinis awal yang menetapkan kegunaan mefenamic acid dalam artritis reumatoid |
+| [306128](https://pubmed.ncbi.nlm.nih.gov/306128/) | 1978 | Ulasan | Scottish Medical Journal | Mengulas tempat klinis mefenamic acid dalam rawatan RA |
+| [5333309](https://pubmed.ncbi.nlm.nih.gov/5333309/) | 1966 | Ulasan | British Medical Journal | Ulasan awal farmakologi mefenamic acid dan kegunaan klinis |
+| [20668](https://pubmed.ncbi.nlm.nih.gov/20668/) | 1977 | Ulasan | Seminars in Arthritis and Rheumatism | Ulasan lebih luas tentang ubat-ubatan anti-radang termasuk fenaman |
+| [5676955](https://pubmed.ncbi.nlm.nih.gov/5676955/) | 1968 | Siri Kes (Keselamatan) | British Medical Journal | Tiga pesakit RA mengalami anemia hemolitik autoimun (jenis antibodi hangat) semasa terapi mefenamic acid; diselesaikan selepas penarikan ubat — isyarat keselamatan jangka panjang yang relevan |
+| [29548675](https://pubmed.ncbi.nlm.nih.gov/29548675/) | 2018 | Kajian Silang Kes | The American Journal of Cardiology | Menilai risiko strok/AMI dengan penggunaan NSAID (termasuk fenaman) khususnya pada pesakit RA — relevan untuk pemantauan keselamatan kardiovaskular dalam populasi ini |
+| [16223958](https://pubmed.ncbi.nlm.nih.gov/16223958/) | 2006 | Praklinik | Molecular Pharmacology | Kajian mekanistik menunjukkan kesan neuroprotektif/perencat COX mefenamic acid, menyokong nisbah anti-radang jangka panjang (pautan epidemiologi antara penggunaan NSAID dalam RA dan risiko Alzheimer yang lebih rendah) |
 
-## Market Information
+## Maklumat Pasaran
 
-Total of 36 registrations are on file under NPRA, and market status is confirmed as Marketed. However, per-license details (license number, product name, dosage form, approved indication text) were not returned in this data pull — all five sampled license records came back empty, so individual product listings cannot be reported here.
+Jumlah 36 pendaftaran adalah pada fail di bawah NPRA, dan status pasaran disahkan sebagai Dipasarkan. Walau bagaimanapun, perincian per-lesen (nombor lesen, nama produk, bentuk dos, teks petunjuk yang diluluskan) tidak dikembalikan dalam tarikan data ini — semua lima rekod lesen sampel kembali kosong, jadi penyenaraian produk individu tidak boleh dilaporkan di sini.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information. (Structured warnings, contraindications, and DDI data were not available in this data pull — TFDA/NPRA label warnings are flagged as a Blocking-severity data gap.)
+Sila rujuk kemasukan pakej untuk maklumat keselamatan. (Data amaran berstruktur, kontraindikasi, dan DDI tidak tersedia dalam tarikan data ini — amaran label TFDA/NPRA ditandakan sebagai jurang data keterukan Berhalang.)
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Proceed with Guardrails**
+**Keputusan: Teruskan dengan Pengawasan Khusus**
 
-**Rationale:**
-Multiple double-blind RCTs from the 1960s–1980s support mefenamic acid's efficacy in rheumatoid arthritis, and the mechanism (COX-1/COX-2 inhibition) is directly applicable — but the evidence base is decades old, predates modern trial registries, and carries an unresolved autoimmune haemolytic anaemia signal plus a cardiovascular risk signal specific to RA patients.
+**Alasan:**
+Pelbagai RCT buta ganda daripada tahun 1960s–1980s menyokong keberkesanan mefenamic acid dalam artritis reumatoid, dan mekanisme (perencat COX-1/COX-2) secara langsung dapat digunakan — tetapi asas bukti sudah berusia beberapa dekad, mendahului pendaftaran percubaan moden, dan membawa isyarat anemia hemolitik autoimun yang belum diselesaikan serta isyarat risiko kardiovaskular khusus untuk pesakit RA.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA-approved label warnings and contraindications (Blocking data gap — required before any S1 safety review can proceed)
-- Confirmed DrugBank mechanism-of-action detail
-- Modern real-world or comparative-effectiveness data, given all supporting RA trials predate current registries and current NSAID/DMARD standard-of-care benchmarks
-- Individual NPRA license/product listings to confirm current approved indication wording and dosage forms
+**Untuk meneruskan, yang berikut diperlukan:**
+- Amaran dan kontraindikasi lesen yang diluluskan TFDA/NPRA (Jurang data Berhalang — diperlukan sebelum mana-mana semakan keselamatan S1 boleh diteruskan)
+- Perincian mekanisme tindakan DrugBank yang disahkan
+- Data dunia nyata moden atau keberkesanan perbandingan, memandangkan semua percubaan RA yang menyokong mendahului pendaftaran semasa dan penanda aras standard-of-care NSAID/DMARD semasa
+- Penyenaraian lesen/produk NPRA individu untuk mengesahkan teks petunjuk yang diluluskan semasa dan bentuk dos
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

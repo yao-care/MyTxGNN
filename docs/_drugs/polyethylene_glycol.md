@@ -29,74 +29,75 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Polyethylene Glycol: From Osmotic Laxative (Bowel Preparation) to Congenital Ichthyosiform Erythroderma
+# Polietilena Glikol: Daripada Pencahar Osmotik (Penyediaan Usus) kepada Eritroderma Iktiosis Kongenital
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Polyethylene Glycol (PEG, DrugBank DB09287) is currently used clinically as an osmotic laxative for bowel preparation and widely as a pharmaceutical excipient/carrier; a formally recorded original indication is not available in the Malaysia NPRA license data on file. The TxGNN model predicts potential relevance to **Congenital Ichthyosiform Erythroderma**, but this prediction is currently supported by **0 clinical trials** and **0 publications** — it is a knowledge-graph association only, with no direct biological or clinical evidence yet identified.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not formally recorded in the Malaysia NPRA license data on file; clinically established as an osmotic laxative (bowel preparation) and pharmaceutical excipient/carrier |
-| Predicted New Indication | Congenital Ichthyosiform Erythroderma |
-| TxGNN Prediction Score | 99.03% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 9 |
-| Recommended Decision | Hold |
+Polietilena Glikol (PEG, DrugBank DB09287) sedang digunakan secara klinikal sebagai pencahar osmotik untuk penyediaan usus dan secara meluas sebagai eksipien farmasi/pembawa; tiada indikasi asal yang dicatat secara rasmi dalam data lesen NPRA Malaysia yang tersedia. Model TxGNN meramalkan potensi kaitan dengan **Eritroderma Iktiosis Kongenital**, tetapi ramalan ini kini disokong oleh **0 uji klinik** dan **0 penerbitan** — ia adalah perhubungan graf pengetahuan sahaja, tanpa bukti biologi atau klinikal langsung yang dikenal pasti setakat ini.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Tinjauan Cepat
 
-Currently, detailed mechanism of action data for PEG is not available. Based on known information, PEG's established clinical roles are as an osmotic laxative (bowel preparation) and as a pharmaceutical excipient/carrier — neither role reflects a targeted pharmacological mechanism.
-
-Congenital ichthyosiform erythroderma is a keratinization disorder typically linked to genetic defects such as *TGM1* or *ABCA12*. PEG-based polymers are commonly used as humectants/moisturizing agents in topical formulations, and it is theoretically plausible that PEG could improve skin hydration in ichthyosis patients. However, this would be an indirect, non-specific physicochemical effect (moisture retention), not a pharmacological intervention targeting the underlying keratin metabolism defect.
-
-The TxGNN score of 0.99 reflects the strength of an association within the knowledge graph, not validated biological plausibility. Without any supporting clinical trial or literature evidence, the mechanistic link between PEG's known uses and this predicted indication remains speculative.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered
+| Perkara | Kandungan |
+|--------|----------|
+| Indikasi Asal | Tidak dicatat secara rasmi dalam data lesen NPRA Malaysia yang tersedia; ditegakkan secara klinikal sebagai pencahar osmotik (penyediaan usus) dan eksipien/pembawa farmasi |
+| Indikasi Baru yang Diramalkan | Eritroderma Iktiosis Kongenital |
+| Skor Ramalan TxGNN | 99.03% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 9 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available
+Pada masa ini, data mekanisme tindakan terperinci untuk PEG tidak tersedia. Berdasarkan maklumat yang diketahui, peranan klinikal yang ditegakkan PEG adalah sebagai pencahar osmotik (penyediaan usus) dan sebagai eksipien/pembawa farmasi — tiada peranan mencerminkan mekanisme farmakologi yang disasarkan.
 
----
+Eritroderma iktiosis kongenital adalah gangguan keratinisasi yang biasanya berkaitan dengan kecacatan genetik seperti *TGM1* atau *ABCA12*. Polimer berasaskan PEG biasanya digunakan sebagai agen humektan/pelembab dalam formulasi topikal, dan secara teorinya munasabah bahawa PEG boleh meningkatkan hidrasi kulit dalam pesakit iktiosis. Walau bagaimanapun, ini akan menjadi kesan fisikokimia tidak langsung (pengekalan lembab), bukan campur tangan farmakologi yang menyasarkan kecacatan metabolisme keratin asas.
 
-## Malaysia Market Information
-
-Detailed authorization records (license numbers, product names, dosage forms, approved indication text) are not available in the current data pack. Malaysia NPRA data confirms the drug is Marketed with 9 active registrations on file.
+Skor TxGNN sebanyak 0.99 mencerminkan kekuatan perhubungan dalam graf pengetahuan, bukan kebolehpercayaan biologi yang disahkan. Tanpa sebarang bukti uji klinik atau kesusasteraan yang menyokong, pautan mekanistik antara kegunaan PEG yang diketahui dan indikasi yang diramalkan ini tetap spekulatif.
 
 ---
 
-## Safety Considerations
+## Bukti Uji Klinik
 
-Please refer to the package insert for safety information.
+Tiada uji klinik berkaitan yang didaftarkan pada masa ini
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Kesusasteraan
 
-**Decision: Hold**
+Tiada kesusasteraan berkaitan yang tersedia pada masa ini
 
-**Rationale:**
-The prediction is based solely on TxGNN model output (Evidence Level L5) with no supporting clinical trials or literature, and a data gap on drug label warnings/contraindications currently blocks any safety pre-screening (S1).
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert warnings and contraindications (Blocking gap — required before any safety pre-screening)
-- Mechanism of action (MOA) data from DrugBank or primary literature
-- Detailed Malaysia license records (license numbers, product names, approved indication text)
-- Preclinical or case-level evidence exploring PEG's effect on keratinization/skin barrier function in ichthyosis
+## Maklumat Pasaran Malaysia
+
+Rekod kebenaran terperinci (nombor lesen, nama produk, bentuk dos, teks indikasi yang diluluskan) tidak tersedia dalam pakej data semasa. Data NPRA Malaysia mengesahkan ubat tersebut Dipasarkan dengan 9 pendaftaran aktif dalam fail.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk risalah untuk maklumat keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Ramalan adalah berdasarkan semata-mata pada output model TxGNN (Tahap Bukti L5) tanpa sebarang uji klinik atau kesusasteraan yang menyokong, dan jurang data pada amaran dan kontraindikasi surat risalah ubat kini menyekat sebarang pra-pemeriksaan keselamatan (S1).
+
+**Untuk meneruskan, berikut diperlukan:**
+- Amaran dan kontraindikasi surat risalah TFDA/NPRA (Jurang Halangan — diperlukan sebelum sebarang pra-pemeriksaan keselamatan)
+- Data mekanisme tindakan (MOA) daripada DrugBank atau kesusasteraan utama
+- Rekod lesen Malaysia terperinci (nombor lesen, nama produk, teks indikasi yang diluluskan)
+- Bukti praklinik atau peringkat kes yang meneroka kesan PEG pada keratinisasi/fungsi halangan kulit dalam iktiosis
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

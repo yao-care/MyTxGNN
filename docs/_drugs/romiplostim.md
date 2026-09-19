@@ -29,84 +29,85 @@ Tahap bukti: **L3** | Indikasi diramal: **10**
 
 </div>
 
-# Romiplostim: From Immune Thrombocytopenia (ITP) to Primary Release Disorder of Platelets
+# Romiplostim: Dari Trombositopenia Imun (ITP) kepada Gangguan Pelepasan Platelet Primer
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Romiplostim is a thrombopoietin receptor (TPO-R) agonist whose approved use is referenced within this evidence pack as immune thrombocytopenia (ITP); detailed original-indication text from the Malaysia registry record itself is not populated.
-The TxGNN model predicts it may also be effective for **primary release disorder of platelets**, a mechanistic match with Romiplostim's core action of stimulating megakaryocyte-driven platelet production.
-Currently only **1 clinical trial** (an observational cohort, not interventional) and **2 publications** (both review/mechanistic, tier 3) support this specific direction.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Immune Thrombocytopenia (ITP) — referenced in evidence-pack rationale; NPRA license indication text not populated in source data |
-| Predicted New Indication | Primary release disorder of platelets |
-| TxGNN Prediction Score | 99.9998% (rank 7 among candidates) |
-| Evidence Level | L3 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+Romiplostim adalah agonis reseptor trombopoietin (TPO-R) yang penggunaan yang diluluskan dirujuk dalam pakej bukti ini sebagai trombositopenia imun (ITP); teks petunjuk asal daripada rekod pendaftaran Malaysia itu sendiri tidak diisi.
+Model TxGNN meramalkan ia juga mungkin berkesan untuk **gangguan pelepasan platelet primer**, padanan mekanik dengan tindakan teras Romiplostim dalam merangsang pengeluaran platelet yang didorong oleh megakariasit.
+Pada masa ini hanya **1 percubaan klinikal** (sebuah kohort pemerhatian, bukan intervensi) dan **2 penerbitan** (kedua-duanya ulasan/mekanik, peringkat 3) menyokong arah spesifik ini.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Pantas
 
-Detailed mechanism-of-action data (DrugBank MOA field) is flagged as a data gap in this pack. Based on the information available, however, the repurposing rationale for this candidate states that Romiplostim's core mechanism is stimulating megakaryocyte proliferation and differentiation to increase platelet production — i.e., it acts as a TPO receptor agonist.
-
-"Primary release disorder of platelets" describes a disorder of platelet generation/release from megakaryocytes. This aligns directly with Romiplostim's known mode of action in its approved ITP use, where the drug boosts platelet counts by driving thrombopoiesis. The mechanistic overlap is therefore high in principle.
-
-That said, the supporting evidence currently sits at the basic-science/mechanistic level (bone-marrow megakaryocytopoiesis literature) rather than at the level of interventional trials specifically targeting this disease label. The one available clinical trial is an observational cohort study on thrombosis risk factors in ITP patients, not a treatment trial — it establishes population overlap but not therapeutic efficacy for this specific indication.
-
----
-
-## Clinical Trial Evidence
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT03820960](https://clinicaltrials.gov/study/NCT03820960) | N/A | Completed | 10,039 | Observational cohort on thrombosis risk factors in immune thrombocytopenia (ITP); non-interventional, does not directly test Romiplostim efficacy for this disease label — population overlap only (relevance grade C). |
+| Item | Kandungan |
+|------|-----------|
+| Petunjuk Asal | Trombositopenia Imun (ITP) — dirujuk dalam rasional pakej bukti; teks petunjuk yang diluluskan NPRA tidak diisi dalam data sumber |
+| Petunjuk Baru yang Diramalkan | Gangguan pelepasan platelet primer |
+| Skor Ramalan TxGNN | 99.9998% (kedudukan 7 dalam kalangan calon) |
+| Tahap Bukti | L3 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [23594368](https://pubmed.ncbi.nlm.nih.gov/23594368/) | 2013 | Review | British Journal of Haematology | Reviews megakaryocytopoiesis and thrombopoiesis biology, including thrombopoietin (TPO) as the primary growth factor for the megakaryocyte lineage — mechanistic basis, not clinical trial data. |
-| [25682608](https://pubmed.ncbi.nlm.nih.gov/25682608/) | 2015 | Mechanistic/Basic Study | Haematologica | Shows antiplatelet autoantibodies in ITP inhibit proplatelet formation and impair platelet production in vitro — supports the biological rationale for TPO-R agonist therapy but is not a clinical efficacy study. |
+Data mekanisme tindakan terperinci (medan MOA DrugBank) ditandai sebagai jurang data dalam pakej ini. Berdasarkan maklumat yang tersedia, walau bagaimanapun, rasional pengguna semula untuk calon ini menyatakan bahawa mekanisme teras Romiplostim adalah merangsang proliferasi dan diferensiasi megakariasit untuk meningkatkan pengeluaran platelet — iaitu, ia bertindak sebagai agonis reseptor TPO.
 
----
+"Gangguan pelepasan platelet primer" menggambarkan gangguan pengeluaran/pelepasan platelet daripada megakariasit. Ini sejajar terus dengan mekanisme tindakan Romiplostim yang diketahui dalam penggunaannya yang diluluskan ITP, di mana ubat itu meningkatkan kiraan platelet dengan memacu trombopoiesis. Pertindihan mekanik oleh itu tinggi pada prinsipnya.
 
-## Malaysia Market Information
-
-The registry record confirms 1 active license (market status: Marketed), but the license number, product name, dosage form, and approved-indication text fields are not populated in the current data extract. Detailed authorization information needs to be pulled from the NPRA product registry directly.
+Walau bagaimanapun, bukti sokongan pada masa ini duduk di peringkat sains asas/mekanik (literatur megakariasitopoeisis sumsum tulang) daripada di peringkat percubaan intervensi yang khusus menyasarkan label penyakit ini. Satu-satunya percubaan klinikal yang tersedia adalah kajian kohort pemerhatian tentang faktor risiko trombosis dalam pesakit ITP, bukan percubaan rawatan — ia menetapkan pertindihan populasi tetapi bukan keberkesanan terapeutik untuk petunjuk spesifik ini.
 
 ---
 
-## Safety Considerations
+## Bukti Percubaan Klinikal
 
-Please refer to the package insert for safety information.
+| Nombor Percubaan | Fasa | Status | Bilangan Peserta | Penemuan Utama |
+|---------|------|--------|------|---------|
+| [NCT03820960](https://clinicaltrials.gov/study/NCT03820960) | N/A | Selesai | 10,039 | Kohort pemerhatian tentang faktor risiko trombosis dalam trombositopenia imun (ITP); bukan intervensi, tidak secara langsung menguji keberkesanan Romiplostim untuk label penyakit ini — pertindihan populasi sahaja (gred relevansi C). |
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Hold**
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|------|------|------|---------|
+| [23594368](https://pubmed.ncbi.nlm.nih.gov/23594368/) | 2013 | Ulasan | British Journal of Haematology | Mengulas biologi megakariasitopoeisis dan trombopoiesis, termasuk trombopoietin (TPO) sebagai faktor pertumbuhan utama untuk lintasan megakariasit — asas mekanik, bukan data percubaan klinikal. |
+| [25682608](https://pubmed.ncbi.nlm.nih.gov/25682608/) | 2015 | Kajian Mekanik/Asas | Haematologica | Menunjukkan bahawa autoantibodi antiplatelet dalam ITP menghalang pembentukan proplatelet dan mengganggu pengeluaran platelet dalam vitro — menyokong rasional biologi untuk terapi agonis TPO-R tetapi bukan kajian keberkesanan klinikal. |
 
-**Rationale:**
-- The top-ranked predicted indication (primary release disorder of platelets) is supported only by mechanistic/basic-science literature and one non-interventional observational trial — no direct interventional evidence exists yet for this specific disease label.
-- Two Blocking/High-severity data gaps (package insert warnings & contraindications; detailed MOA) currently prevent this candidate from clearing the S1 safety pre-screen.
+---
 
-**To proceed, the following is needed:**
-- NPRA package insert (warnings, contraindications) — currently a Blocking data gap
-- DrugBank-sourced mechanism-of-action detail — currently a High-severity data gap
-- Complete NPRA registration record (license number, product name, dosage form, full approved indication text)
-- An interventional study (even early-phase) directly testing Romiplostim in a platelet-release-disorder population, rather than relying solely on ITP-adjacent mechanistic literature
+## Maklumat Pasaran Malaysia
 
-*Note: a separate candidate in this same evidence pack, "platelet-type bleeding disorder" (rank 8), already reaches L1 evidence (Phase 3 RECITE trial and other Phase 3/4 studies) but substantially overlaps with Romiplostim's already-approved ITP-related use rather than representing a genuinely novel indication — it is not the primary subject of this report but may warrant its own evaluation if treated as a distinct label.*
+Rekod pendaftaran mengesahkan 1 lesen aktif (status pasaran: Dipasarkan), tetapi nombor lesen, nama produk, bentuk dos, dan medan teks petunjuk yang diluluskan tidak diisi dalam ekstrak data semasa. Maklumat kebenaran terperinci perlu ditarik daripada pendaftaran produk NPRA secara langsung.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+- Petunjuk yang diramalkan berkedudukan teratas (gangguan pelepasan platelet primer) disokong hanya oleh literatur sains asas/mekanik dan satu percubaan pemerhatian bukan intervensi — tiada bukti intervensi langsung wujud lagi untuk label penyakit spesifik ini.
+- Dua jurang data pemblokiran/berketerukan tinggi (amaran sisipan pakej & kontraindikasi; MOA terperinci) pada masa ini menghalang calon ini daripada melepasi pemeriksaan pra-keselamatan S1.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisipan pakej NPRA (amaran, kontraindikasi) — pada masa ini jurang data pemblokiran
+- Perincian mekanisme tindakan bersumber DrugBank — pada masa ini jurang data berketerukan tinggi
+- Rekod pendaftaran NPRA yang lengkap (nombor lesen, nama produk, bentuk dos, teks petunjuk yang diluluskan sepenuhnya)
+- Sebuah kajian intervensi (bahkan awal fasa) yang secara langsung menguji Romiplostim dalam populasi gangguan pelepasan platelet, bukannya bergantung sepenuhnya kepada literatur mekanik bersebelahan ITP
+
+*Nota: calon berasingan dalam pakej bukti yang sama, "gangguan pendarahan jenis platelet" (kedudukan 8), sudah mencapai bukti L1 (percubaan RECITE Fasa 3 dan kajian Fasa 3/4 lain) tetapi sangat bertindih dengan penggunaan ITP yang diluluskan Romiplostim daripada mewakili petunjuk yang benar-benar baru — ia bukan subjek utama laporan ini tetapi mungkin menjamin penilaian sendiri jika dianggap sebagai label yang berbeza.*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

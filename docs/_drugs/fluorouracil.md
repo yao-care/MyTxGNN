@@ -29,70 +29,71 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Fluorouracil: From Oncology Indications to Botryoid-Type Embryonal Rhabdomyosarcoma of the Vagina
+# Fluorouracil: Dari Indikasi Onkologi kepada Rabdomiosarkoma Embrional Jenis Botryoid Faraj
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Fluorouracil is a long-established antineoplastic agent; the specific original indication text is not present in the available NPRA records for this evidence pack. The TxGNN model predicts a possible new application in **botryoid-type embryonal rhabdomyosarcoma of the vagina**, but this top-ranked prediction currently has **0 clinical trials** and **0 publications** supporting it — it is a model-score-only signal.
+Fluorouracil adalah agen antineoplas yang telah lama ditubuhkan; teks indikasi asal khusus tidak hadir dalam rekod NPRA yang tersedia untuk pek bukti ini. Model TxGNN meramalkan kemungkinan aplikasi baru dalam **rabdomiosarkoma embrional jenis botryoid faraj**, tetapi ramalan teratas ini pada masa kini mempunyai **0 ujian klinikal** dan **0 penerbitan** yang menyokongnya — ia adalah isyarat skor model sahaja.
 
-## Quick Overview
+## Ikhtisar Ringkas
 
-| Item | Content |
-|------|------|
-| Original Indication | Not specified in available NPRA license records |
-| Predicted New Indication | Botryoid-type embryonal rhabdomyosarcoma of the vagina |
-| TxGNN Prediction Score | 99.75% |
-| Evidence Level | L5 (model prediction only, no clinical trials or literature identified) |
-| Malaysia Market Status | ✓ Marketed (NPRA) |
-| Number of Registrations | 3 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|-----------|
+| Indikasi Asal | Tidak dinyatakan dalam rekod lesen NPRA yang tersedia |
+| Indikasi Baru yang Diramalkan | Rabdomiosarkoma embrional jenis botryoid faraj |
+| Skor Ramalan TxGNN | 99.75% |
+| Tahap Bukti | L5 (ramalan model sahaja, tiada ujian klinikal atau literatur yang dikenal pasti) |
+| Status Pasaran Malaysia | ✓ Dipasarkan (NPRA) |
+| Bilangan Pendaftaran | 3 |
+| Keputusan Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data is not available for this drug in the evidence pack. Based on general pharmacological knowledge, fluorouracil belongs to the fluoropyrimidine antimetabolite class, with proven efficacy across multiple oncology indications; mechanistically, cytotoxic antimetabolites are broadly applied across solid and soft-tissue malignancies, which is the likely basis for the model associating it with a rhabdomyosarcoma subtype.
+Pada masa kini, data mekanisme kerja terperinci tidak tersedia untuk ubat ini dalam pek bukti. Berdasarkan pengetahuan farmakologi umum, fluorouracil termasuk dalam kelas antimetabolit fluoropirimid, dengan keberkesanan terbukti di berbagai indikasi onkologi; dari segi mekanisme, antimetabolit sitotoksik digunakan secara luas di berbagai jenis keganasan tumor pepejal dan tisu lembut, yang kemungkinannya merupakan asas bagi model untuk mengaitkan ubat ini dengan subtip rabdomiosarkoma.
 
-However, this specific predicted indication (botryoid-type embryonal rhabdomyosarcoma of the vagina) returned **zero** clinical trial and **zero** literature hits in targeted searches (query_log IDs 3–5). The score is derived purely from the TxGNN knowledge-graph/deep-learning model, with no corroborating external evidence yet identified. By contrast, other lower-ranked predictions for this drug (e.g., rhabdomyosarcoma generally, rank 2; liver sarcoma, rank 7) do have some literature or trial support, but per the reporting rules this report focuses on the rank-1 prediction.
+Walau bagaimanapun, indikasi ramalan khusus ini (rabdomiosarkoma embrional jenis botryoid faraj) mengembalikan **sifar** ujian klinikal dan **sifar** keputusan literatur dalam carian sasaran (ID log pertanyaan 3–5). Skor berasal sepenuhnya daripada model graf pengetahuan/pembelajaran mendalam TxGNN, tanpa bukti luaran yang mengesahkan dikenal pasti lagi. Sebaliknya, ramalan dengan pangkat lebih rendah untuk ubat ini (contohnya, rabdomiosarkoma secara umum, pangkat 2; sarkoma hati, pangkat 7) mempunyai beberapa sokongan literatur atau ujian, tetapi mengikut peraturan pelaporan, laporan ini memfokus pada ramalan pangkat-1.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-Currently no related clinical trials registered.
+Pada masa kini tiada ujian klinikal berkaitan yang didaftarkan.
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no related literature available.
+Pada masa kini tiada literatur berkaitan yang tersedia.
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-NPRA records confirm the drug is marketed in Malaysia with **3 active license registrations**; however, the evidence pack does not include the detailed license number, product name, dosage form, or approved-indication text for these registrations.
+Rekod NPRA mengesahkan ubat ini dipasarkan di Malaysia dengan **3 pendaftaran lesen aktif**; walau bagaimanapun, pek bukti tidak termasuk teks nombor lesen terperinci, nama produk, bentuk dos, atau indikasi yang diluluskan untuk pendaftaran ini.
 
-## Cytotoxicity
+## Sitotoksisiti
 
-*(Fluorouracil is a classic cytotoxic chemotherapy agent — fluoropyrimidine antimetabolite class — so this section applies.)*
+*(Fluorouracil adalah agen kemoterapi sitotoksik klasik — kelas antimetabolit fluoropirimid — jadi bahagian ini relevan.)*
 
-| Item | Content |
-|------|------|
-| Cytotoxicity Classification | Conventional cytotoxic (Fluoropyrimidine/antimetabolite class) |
-| Myelosuppression Risk | Medium–High — fluoropyrimidines are commonly associated with neutropenia; no drug-specific toxicity data available in this pack, please refer to the package insert |
-| Emetogenicity Classification | Low–Moderate (typical for fluoropyrimidines) |
-| Monitoring Items | CBC with differential, renal and hepatic function, DPD-deficiency screening where applicable |
-| Handling Protection | Cytotoxic drug handling precautions required per standard chemotherapy protocols |
+| Item | Kandungan |
+|------|-----------|
+| Klasifikasi Sitotoksisiti | Sitotoksik konvensional (kelas fluoropirimid/antimetabolit) |
+| Risiko Supresi Sumsum Tulang | Sederhana–Tinggi — fluoropirimid biasanya dikaitkan dengan neutropenia; tiada data sitotoksisiti khusus ubat tersedia dalam pek ini, sila rujuk lembaran maklumat produk |
+| Klasifikasi Emetogenisiti | Rendah–Sederhana (tipikal untuk fluoropirimid) |
+| Item Pemantauan | Kiraan sel darah lengkap dengan pembezaan, fungsi buah pinggang dan hati, pemeriksaan kekurangan DPD di mana berkenaan |
+| Perlindungan Pengendalian | Langkah-langkah perlindungan pengendalian ubat sitotoksik diperlukan sesuai protokol kemoterapi standard |
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information. Note: TFDA/NPRA label warnings and contraindications (DG001) are currently a **Blocking** data gap and must be resolved before any safety assessment can proceed.
+Sila rujuk lembaran maklumat produk untuk maklumat keselamatan. Nota: amaran label TFDA/NPRA dan kontraindikasi (DG001) pada masa kini adalah **Halangan** jurang data dan mesti diselesaikan sebelum sebarang penilaian keselamatan dapat diteruskan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The TxGNN score is high, but the top-ranked predicted indication has no clinical trial or literature support (L5), and a Blocking safety data gap (missing label warnings/contraindications) prevents even a preliminary safety assessment.
+**Alasan:**
+Skor TxGNN tinggi, tetapi indikasi ramalan yang mempunyai pangkat teratas tidak mempunyai sokongan ujian klinikal atau literatur (L5), dan jurang data keselamatan Halangan (amaran label/kontraindikasi yang hilang) mencegah penilaian keselamatan awal.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA label warnings and contraindications (DG001, Blocking)
-- Mechanism of action data via DrugBank (DG002)
-- Any preclinical or case-level evidence specific to rhabdomyosarcoma subtypes
-- Complete license/indication text for the 3 Malaysia registrations
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Amaran label TFDA/NPRA dan kontraindikasi (DG001, Halangan)
+- Data mekanisme kerja melalui DrugBank (DG002)
+- Sebarang bukti praklinik atau bukti tingkat kes khusus untuk subtip rabdomiosarkoma
+- Teks lesen/indikasi lengkap untuk 3 pendaftaran Malaysia
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

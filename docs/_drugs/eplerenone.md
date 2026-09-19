@@ -29,60 +29,61 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Eplerenone: From Hypertension to Pulmonary Hypertension with Unclear Multifactorial Mechanism
+# Eplerenone: Dari Hipertensi kepada Hipertensi Pulmonari dengan Mekanisme Multifaktorial yang Tidak Jelas
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Eplerenone (DrugBank DB00700) is a selective mineralocorticoid (aldosterone) receptor antagonist marketed in Malaysia, with hypertension as its known original indication (though the registry's approved-indication text has not yet been extracted from the product insert). The TxGNN model predicts potential efficacy for **Pulmonary Hypertension with Unclear Multifactorial Mechanism**, but currently **zero clinical trials and zero drug-specific literature** support this direction — this is a model-score-only prediction (Evidence Level L5).
+Eplerenone (DrugBank DB00700) ialah antagonis reseptor mineralokortikoid (aldosteron) terpilih yang dipasarkan di Malaysia, dengan hipertensi sebagai indikasi asalnya yang diketahui (walau bagaimanapun, teks indikasi yang diluluskan dalam pendaftaran belum lagi diekstrak daripada sisipan produk). Model TxGNN meramalkan kemungkinan keberkesanan untuk **Hipertensi Pulmonari dengan Mekanisme Multifaktorial yang Tidak Jelas**, tetapi pada masa kini **sifar percubaan klinikal dan sifar kesusasteraan khusus ubat** menyokong arah ini — ini adalah ramalan berdasarkan skor model sahaja (Tahap Bukti L5).
 
-## Quick Overview
+## Gambaran Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | Hypertension (per known pharmacological classification as an MRA; official approved-indication text not yet extracted from the license record — see Data Gap DG001) |
-| Predicted New Indication | Pulmonary Hypertension with Unclear Multifactorial Mechanism |
-| TxGNN Prediction Score | 99.50% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|-----------|
+| Indikasi Asal | Hipertensi (berdasarkan klasifikasi farmakoloji yang diketahui sebagai MRA; teks indikasi yang diluluskan secara rasmi belum lagi diekstrak daripada rekod lesen — lihat Jurang Data DG001) |
+| Indikasi Baru yang Diramalkan | Hipertensi Pulmonari dengan Mekanisme Multifaktorial yang Tidak Jelas |
+| Skor Ramalan TxGNN | 99.50% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 2 |
+| Keputusan Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed mechanism-of-action data is not yet available in this evidence pack (Data Gap DG002). Based on known pharmacological classification, eplerenone is a selective aldosterone (mineralocorticoid) receptor antagonist (MRA); its efficacy in hypertension is well established, and mechanistically MRA-class drugs are theorized to counteract aldosterone-driven pulmonary vascular remodeling and fibrosis, which is the basis of the TxGNN mechanistic hypothesis for pulmonary hypertension.
+Data mekanisme tindakan terperinci belum tersedia dalam bungkus bukti ini (Jurang Data DG002). Berdasarkan klasifikasi farmakoloji yang diketahui, eplerenone ialah antagonis reseptor mineralokortikoid (aldosteron) (MRA) terpilih; keberkesanannya dalam hipertensi telah ditegaskan dengan baik, dan secara mekanis ubat kelas MRA diperkirakan dapat mengatasi remodeling vaskular pulmonari yang didorong aldosteron dan fibrosis, yang merupakan asas hipotesis mekanik TxGNN untuk hipertensi pulmonari.
 
-However, this specific predicted indication — "pulmonary hypertension with unclear multifactorial mechanism" — is itself a category whose underlying mechanism is undefined, and the evidence pack returns **no clinical trials and no literature** for eplerenone against this indication. A closely adjacent, similarly-scored prediction (rank 2, "pulmonary hypertension owing to lung disease and/or hypoxia," score 99.50%) did return 20 PubMed hits, but per the evidence pack's own classification these are generic hypoxia-biology papers (brain aging, tumor metabolism, cognitive impairment) with no drug-specific relevance to eplerenone or MRAs — they represent literature-search noise rather than supporting evidence.
+Walau bagaimanapun, indikasi khusus yang diramalkan ini — "hipertensi pulmonari dengan mekanisme multifaktorial yang tidak jelas" — adalah suatu kategori sendiri yang mekanisme asasnya tidak didefinisikan, dan bungkus bukti mengembalikan **sifar percubaan klinikal dan sifar kesusasteraan** untuk eplerenone terhadap indikasi ini. Ramalan yang berdekatan dan serupa skornya (pangkat ke-2, "hipertensi pulmonari yang timbul daripada penyakit paru-paru dan/atau hipoksia," skor 99.50%) benar-benar mengembalikan 20 hits PubMed, tetapi mengikut klasifikasi bungkus bukti sendiri ini adalah kertas biologi hipoksia generik (penuaan otak, metabolisme tumor, gangguan kognitif) tanpa kaitan ubat khusus kepada eplerenone atau MRA — mereka mewakili kebisingan pencarian kesusasteraan dan bukannya bukti sokongan.
 
-At present, this prediction rests entirely on the TxGNN model score and a plausible but unverified mechanistic hypothesis, with no drug-specific or disease-specific data confirming applicability.
+Pada masa kini, ramalan ini berdasarkan sepenuhnya pada skor model TxGNN dan hipotesis mekanik yang munasabah tetapi belum disahkan, tanpa data khusus ubat atau khusus penyakit yang mengesahkan kebolehgunaan.
 
-## Clinical Trial Evidence
+## Bukti Percubaan Klinikal
 
-Currently no related clinical trials registered.
+Pada masa kini tiada percubaan klinikal berkaitan yang terdaftar.
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-Currently no related literature available.
+Pada masa kini tiada kesusasteraan berkaitan yang tersedia.
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Two registrations exist under the current market status (✓ Marketed), but the license detail fields (authorization number, product name, dosage form, approved indication text) have not yet been populated in this evidence pack. This gap also underlies the missing "Original Indication" text above and should be resolved before further evaluation.
+Dua pendaftaran wujud di bawah status pasaran semasa (✓ Dipasarkan), tetapi medan perincian lesen (nombor kebenaran, nama produk, bentuk dosaj, teks indikasi yang diluluskan) belum lagi diisi dalam bungkus bukti ini. Jurang ini juga mendasari teks "Indikasi Asal" yang hilang di atas dan harus diselesaikan sebelum penilaian lanjut.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information. Note: retrieval of the TFDA/NPRA product insert (warnings and contraindications) is flagged as a **Blocking** data gap (DG001) — until resolved, this candidate cannot proceed to the S1 safety pre-assessment stage.
+Sila rujuk sisipan pakej untuk maklumat keselamatan. Catatan: pengambilan sisipan produk TFDA/NPRA (amaran dan kontraindikasi) ditandai sebagai jurang data **Menghalang** (DG001) — sehingga diselesaikan, calon ini tidak dapat meneruskan ke peringkat pra-penilaian keselamatan S1.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The top-ranked predicted indication (pulmonary hypertension with unclear multifactorial mechanism) has no supporting clinical trials or literature — it is a pure model-score prediction (L5). In addition, the blocking safety data gap (missing product insert warnings/contraindications) prevents this candidate from even entering the S1 safety pre-assessment.
+**Alasan Rasional:**
+Indikasi yang diramalkan berpangkat tertinggi (hipertensi pulmonari dengan mekanisme multifaktorial yang tidak jelas) tidak mempunyai percubaan klinikal atau kesusasteraan yang menyokong — ia adalah ramalan skor model tulen (L5). Selain itu, jurang data keselamatan yang menghalang (sisipan produk TFDA/NPRA yang hilang — amaran dan kontraindikasi) menghalang calon ini daripada memasuki pra-penilaian keselamatan S1.
 
-**To proceed, the following is needed:**
-- Retrieve the TFDA/NPRA product insert for warnings and contraindications (DG001, blocking)
-- Obtain confirmed mechanism-of-action data from DrugBank (DG002)
-- Populate the Malaysia license records (product name, dosage form, approved indication text) for both registrations
-- If pursuing rank-2 "pulmonary hypertension owing to lung disease and/or hypoxia" as an alternative, run a targeted literature search for eplerenone/MRA-specific studies, since the current 20 hits are generic hypoxia biology, not drug- or disease-specific evidence
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Ambil sisipan produk TFDA/NPRA untuk amaran dan kontraindikasi (DG001, menghalang)
+- Perolehi data mekanisme tindakan yang disahkan daripada DrugBank (DG002)
+- Isi rekod lesen Malaysia (nama produk, bentuk dosaj, teks indikasi yang diluluskan) untuk kedua-dua pendaftaran
+- Jika mengejar pangkat ke-2 "hipertensi pulmonari yang timbul daripada penyakit paru-paru dan/atau hipoksia" sebagai alternatif, jalankan carian kesusasteraan yang disasarkan untuk kajian khusus eplerenone/MRA, kerana 20 hits semasa adalah biologi hipoksia generik, bukan bukti khusus ubat atau penyakit
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,105 +29,106 @@ Tahap bukti: **L2** | Indikasi diramal: **10**
 
 </div>
 
-# Topotecan: From Ovarian Cancer to Female Breast Carcinoma
+# Topotecan: Daripada Kanser Ovarium kepada Karsinoma Payudara Wanita
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-> Topotecan is a topoisomerase I inhibitor whose established Malaysian market presence covers oncology use (2 NPRA-registered products), though the specific approved indication text was not available in this dataset. The TxGNN model predicts it may be effective for **Female Breast Carcinoma**, with **5 clinical trials** and **20 publications** currently supporting this direction — but the evidence is still largely preclinical/early-phase, placing this candidate at a hypothesis-generating "Research Question" stage rather than a treatment-ready one.
+> Topotecan adalah perencat topoisomerase I yang kehadirannya yang sudah ditegakkan di pasaran Malaysia meliputi penggunaan onkologi (2 produk berdaftar NPRA), walaupun teks petunjuk yang diluluskan secara spesifik tidak tersedia dalam set data ini. Model TxGNN meramalkan ia mungkin berkesan untuk **Karsinoma Payudara Wanita**, dengan **5 ujian klinikal** dan **20 penerbitan** kini menyokong arah ini — tetapi buktinya masih sebahagian besarnya pra-klinikal/fasa awal, meletakkan calon ini pada tahap "Soalan Penyelidikan" yang menjana hipotesis dan bukannya tahap yang sedia untuk rawatan.
 
 ---
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
+| Perkara | Kandungan |
 |------|------|
-| Original Indication | Not specified in the available Malaysia registration records (both license entries are missing indication text — see Malaysia Market Information below) |
-| Predicted New Indication | Female Breast Carcinoma |
-| TxGNN Prediction Score | 99.92% |
-| Evidence Level | L2 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
-| Recommended Decision | Hold (pipeline-labeled "Research Question" / decision stage S2 — hypothesis worth further dedicated study, not yet actionable) |
+| Petunjuk Asal | Tidak dinyatakan dalam rekod pendaftaran Malaysia yang tersedia (kedua-dua entri lesen hilang teks petunjuk — lihat Maklumat Pasaran Malaysia di bawah) |
+| Petunjuk Baru yang Diramalkan | Karsinoma Payudara Wanita |
+| Skor Ramalan TxGNN | 99.92% |
+| Tahap Bukti | L2 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 2 |
+| Keputusan yang Disyorkan | Tunggu (berlabel laluan "Research Question" / peringkat keputusan S2 — hipotesis yang patut dikaji lebih lanjut secara khusus, belum boleh diambil tindakan lagi) |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed structured MOA data for topotecan was not returned by DrugBank in this pack (data gap DG002), but the evidence pack's own repurposing rationale identifies the mechanism directly: **Topotecan is a Topoisomerase I inhibitor** that stabilizes the Top1–DNA cleavage complex, inducing double-strand DNA breaks. This is a broad-spectrum cytotoxic mechanism shared across many solid tumors — it is not breast-cancer-specific by design.
+Data MOA berstruktur terperinci untuk topotecan tidak dikembalikan oleh DrugBank dalam pakej ini (jurang data DG002), tetapi nisbah penghubah semula penggunaan pakej bukti itu sendiri mengenal pasti mekanisme secara langsung: **Topotecan adalah perencat Topoisomerase I** yang menstabilkan kompleks pemisahan Top1–DNA, mendorong pecahan DNA dua heliks. Ini adalah mekanisme sitotoksik spektrum luas yang dikongsi di seluruh banyak tumor pepejal — ia bukan khas kanser payudara mengikut reka bentuk.
 
-What makes the breast cancer signal noteworthy is a more targeted hypothesis layered on top of that general mechanism: recent preclinical work (PMID 40300683, 2025) identifies **TFDP1** as a driver of triple-negative breast cancer (TNBC) proliferation and proposes topotecan as a therapeutic agent against TFDP1-driven, MYC-associated tumor biology — a potential synthetic-lethality relationship rather than simple mechanistic overlap with topotecan's approved gynecologic-oncology indications.
+Apa yang menjadikan isyarat kanser payudara ini ketara ialah hipotesis yang lebih tersasaran berlapis di atas mekanisme umum itu: kerja pra-klinikal baru-baru ini (PMID 40300683, 2025) mengenal pasti **TFDP1** sebagai pemacu proliferasi kanser payudara negatif tiga (TNBC) dan mencadangkan topotecan sebagai agen terapeutik terhadap biologi TNBC dan tumor berkaitan MYC yang didorong TFDP1 — potensi hubungan letal sintetik dan bukannya hanya pertindihan mekanistik dengan petunjuk onkologi ginekologi topotecan yang diluluskan.
 
-Clinically, this is not an entirely novel idea — topotecan has been directly tested in breast cancer before (e.g., the CALGB Phase II trial, PMID 10362325, and the TIME high-dose regimen, NCT00006032), but those efforts date to the 1990s–2000s, showed modest or inconsistent activity, and one of the more targeted regimens was terminated. The newer TNBC/TFDP1 mechanistic angle is what currently sustains interest, but it has not yet been tested prospectively in patients.
+Secara klinikal, ini bukan idea yang benar-benar baru — topotecan telah diuji secara langsung dalam kanser payudara sebelumnya (cth., percubaan CALGB Phase II, PMID 10362325, dan rejim TIME dos tinggi, NCT00006032), tetapi usaha tersebut bermula pada tahun 1990-an–2000-an, menunjukkan aktiviti sederhana atau tidak konsisten, dan salah satu rejim yang lebih tersasaran telah dihentikan. Sudut mekanistik TNBC/TFDP1 yang lebih baru itulah yang kini mengekalkan minat, tetapi ia belum diuji secara prospektif dalam pesakit.
 
 ---
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT00006032](https://clinicaltrials.gov/study/NCT00006032) | Phase 2 | Terminated | N/A | TIME regimen (topotecan + ifosfamide/mesna + etoposide) followed by autologous stem cell rescue in metastatic breast cancer — the most directly relevant trial (Grade A), but terminated |
-| [NCT02282020](https://clinicaltrials.gov/study/NCT02282020) | Phase 3 | Completed | 266 | Olaparib vs. physician's-choice single-agent chemotherapy in platinum-sensitive relapsed ovarian cancer (gBRCA-mutated); topotecan's role is likely only as a comparator/background option (Grade B, relevance uncertain) |
-| [NCT04739800](https://clinicaltrials.gov/study/NCT04739800) | Phase 2 | Active, not recruiting | 120 | Durvalumab + olaparib + cediranib triplet vs. other combinations/standard chemo in platinum-resistant recurrent ovarian/peritoneal/fallopian cancer; topotecan appears only as one possible chemo backbone agent (Grade B) |
-| [NCT02419495](https://clinicaltrials.gov/study/NCT02419495) | Phase 1 | Terminated | 221 | Selinexor combined with multiple standard chemo/immunotherapy regimens (including topotecan) in advanced malignancies — a safety/dose-finding study, not a topotecan efficacy trial (Grade B) |
-| [NCT04279509](https://clinicaltrials.gov/study/NCT04279509) | N/A | Unknown | 35 | Patient-derived organoid drug-screening platform (SCORE) for refractory solid tumors; an ex vivo screening method, not a clinical efficacy trial (Grade C) |
+| [NCT00006032](https://clinicaltrials.gov/study/NCT00006032) | Fasa 2 | Dihentikan | N/A | Rejim TIME (topotecan + ifosfamid/mesna + etoposida) diikuti dengan penyelamat sel stem autologus dalam kanser payudara bermetastasis — ujian paling berkaitan secara langsung (Gred A), tetapi dihentikan |
+| [NCT02282020](https://clinicaltrials.gov/study/NCT02282020) | Fasa 3 | Selesai | 266 | Olaparib vs. kemoterapi agen tunggal pilihan doktor dalam kanser ovarium yang kebal platinum yang dikembalikan (mutasi gBRCA); peranan topotecan berkemungkinan hanya sebagai agen perbandingan/latar belakang (Gred B, relevansi tidak pasti) |
+| [NCT04739800](https://clinicaltrials.gov/study/NCT04739800) | Fasa 2 | Aktif, tidak merekrut | 120 | Tiga elemen durvalumab + olaparib + cediranib vs. kombinasi lain/kemoterapy piawai dalam kanser ovarium/peritoneal/tuba falopius yang kebal platinum yang kambuh; topotecan nampaknya hanya muncul sebagai salah satu agen kemoterapi tulang belakang yang mungkin (Gred B) |
+| [NCT02419495](https://clinicaltrials.gov/study/NCT02419495) | Fasa 1 | Dihentikan | 221 | Selinexor digabungkan dengan rejim kemoterapi/imunoterapi standard berganda (termasuk topotecan) dalam keganasan lanjutan — kajian keselamatan/penentuan dos, bukan ujian keberkesanan topotecan (Gred B) |
+| [NCT04279509](https://clinicaltrials.gov/study/NCT04279509) | N/A | Tidak diketahui | 35 | Platform saringan ubat organoid terbitan pesakit (SCORE) untuk tumor pepejal yang tahan terapi; kaedah saringan ex vivo, bukan ujian keberkesanan klinikal (Gred C) |
 
 ---
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [10362325](https://pubmed.ncbi.nlm.nih.gov/10362325/) | 1999 | Phase 2 clinical trial | American Journal of Clinical Oncology | CALGB Phase II trial of topotecan monotherapy in advanced breast cancer patients previously treated with one prior regimen |
-| [40300683](https://pubmed.ncbi.nlm.nih.gov/40300683/) | 2025 | Preclinical | International Journal of Biological Macromolecules | TFDP1 drives TNBC development via senescence suppression; proposed as a therapeutic target for topotecan |
-| [11455218](https://pubmed.ncbi.nlm.nih.gov/11455218/) | 2001 | Pilot clinical study | Onkologie | Topotecan as primary chemotherapy for breast cancer brain metastases — pilot study |
-| [9413954](https://pubmed.ncbi.nlm.nih.gov/9413954/) | 1997 | Phase 1/2 trial | British Journal of Cancer | Continuous infusional topotecan in advanced breast cancer and NSCLC — no evidence of increased efficacy over standard dosing |
-| [9626200](https://pubmed.ncbi.nlm.nih.gov/9626200/) | 1998 | Phase 2 trial | Journal of Clinical Oncology | Paclitaxel + topotecan with G-CSF support in stage IV breast cancer |
-| [26623560](https://pubmed.ncbi.nlm.nih.gov/26623560/) | 2015 | Preclinical | Oncotarget | Metronomic topotecan + pazopanib combination shows potent efficacy in preclinical models of primary/late-stage metastatic TNBC |
-| [27444351](https://pubmed.ncbi.nlm.nih.gov/27444351/) | 2016 | Preclinical | Phytomedicine | MHP-1 restores topotecan sensitivity and inhibits metastasis via EMT/TGF-β regulation in breast cancer cells |
-| [31408695](https://pubmed.ncbi.nlm.nih.gov/31408695/) | 2019 | Preclinical | Pharmacological Research | Daidzein enhances topotecan's anticancer effect and reverses BCRP-mediated drug resistance in breast cancer |
-| [15836850](https://pubmed.ncbi.nlm.nih.gov/15836850/) | 2005 | Preclinical | Journal of Surgical Research | Quercetin's effect on topotecan cytotoxicity in MCF-7 and MDA-MB-231 breast cancer cells |
-| [10930538](https://pubmed.ncbi.nlm.nih.gov/10930538/) | 2000 | Preclinical | Biochemical Pharmacology | BCRP/MXR/ABCP transporter expression characterized in topotecan-resistant breast carcinoma cell lines |
+| [10362325](https://pubmed.ncbi.nlm.nih.gov/10362325/) | 1999 | Ujian klinikal Fasa 2 | American Journal of Clinical Oncology | Ujian CALGB Fasa II topotecan monoterapi dalam pesakit kanser payudara lanjutan yang dirawat sebelumnya dengan satu rejim terdahulu |
+| [40300683](https://pubmed.ncbi.nlm.nih.gov/40300683/) | 2025 | Pra-klinikal | International Journal of Biological Macromolecules | TFDP1 mendorong pembangunan TNBC melalui penindasan senescence; dicadangkan sebagai sasaran terapeutik untuk topotecan |
+| [11455218](https://pubmed.ncbi.nlm.nih.gov/11455218/) | 2001 | Kajian klinikal percubaan | Onkologie | Topotecan sebagai kemoterapi utama untuk metastasis otak kanser payudara — kajian percubaan |
+| [9413954](https://pubmed.ncbi.nlm.nih.gov/9413954/) | 1997 | Ujian Fasa 1/2 | British Journal of Cancer | Topotecan infusi berterusan dalam kanser payudara lanjutan dan NSCLC — tiada bukti keberkesanan meningkat berbanding dos standard |
+| [9626200](https://pubmed.ncbi.nlm.nih.gov/9626200/) | 1998 | Ujian Fasa 2 | Journal of Clinical Oncology | Paclitaxel + topotecan dengan sokongan G-CSF dalam kanser payudara peringkat IV |
+| [26623560](https://pubmed.ncbi.nlm.nih.gov/26623560/) | 2015 | Pra-klinikal | Oncotarget | Kombinasi topotecan metronomik + pazopanib menunjukkan keberkesanan poten dalam model pra-klinikal TNBC utama/bermetastasis peringkat lewat |
+| [27444351](https://pubmed.ncbi.nlm.nih.gov/27444351/) | 2016 | Pra-klinikal | Phytomedicine | MHP-1 memulihkan sensitiviti topotecan dan menghalang metastasis melalui peraturan EMT/TGF-β dalam sel kanser payudara |
+| [31408695](https://pubmed.ncbi.nlm.nih.gov/31408695/) | 2019 | Pra-klinikal | Pharmacological Research | Daidzein meningkatkan kesan antikanser topotecan dan membalikkan rintangan ubat yang dimediasi BCRP dalam kanser payudara |
+| [15836850](https://pubmed.ncbi.nlm.nih.gov/15836850/) | 2005 | Pra-klinikal | Journal of Surgical Research | Kesan quercetin pada sitotoksisiti topotecan dalam sel kanser payudara MCF-7 dan MDA-MB-231 |
+| [10930538](https://pubmed.ncbi.nlm.nih.gov/10930538/) | 2000 | Pra-klinikal | Biochemical Pharmacology | Ungkapan pengangkut BCRP/MXR/ABCP dicirikan dalam garis sel karsinoma payudara yang kebal topotecan |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-NPRA records confirm **2 registered licenses** for topotecan (market status: Marketed), but this evidence pack does not include the license numbers, product names, dosage forms, or approved indication text for either entry — these fields were returned empty and require direct extraction from NPRA product records or the package insert.
+Rekod NPRA mengesahkan **2 lesen berdaftar** untuk topotecan (status pasaran: Dipasarkan), tetapi pakej bukti ini tidak menyertakan nombor lesen, nama produk, bentuk dos, atau teks petunjuk yang diluluskan untuk mana-mana entri — medan ini dikembalikan kosong dan memerlukan pengekstrakan langsung daripada rekod produk NPRA atau sisipan pakej.
 
 ---
 
-## Cytotoxicity
+## Sitotoksisiti
 
-Topotecan is a cytotoxic antineoplastic agent (topoisomerase I inhibitor, camptothecin derivative), so this section applies.
+Topotecan adalah agen antineoplastik sitotoksik (perencat topoisomerase I, terbitan kamptotein), jadi bahagian ini terpakai.
 
-| Item | Content |
+| Perkara | Kandungan |
 |------|------|
-| Cytotoxicity Classification | Conventional cytotoxic — topoisomerase I inhibitor (camptothecin derivative) |
-| Myelosuppression Risk | High — dose-limiting myelosuppression is well documented for topotecan; e.g., a Phase 2 germ cell tumor trial in this evidence pack (PMID 8617580) reported median nadir leukocyte count 1.75 ×10⁹/L, neutrophil count 1.55 ×10⁹/L, hemoglobin 8.75 g/dL, and platelet count 20,500/mm³ |
-| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | CBC with differential (given the documented myelosuppression risk); renal and hepatic function per standard cytotoxic monitoring practice — Malaysia-specific label requirements not available in this dataset |
-| Handling Protection | Standard cytotoxic drug handling precautions apply; confirm specific protocol against the local NPRA package insert once available |
+| Klasifikasi Sitotoksisiti | Sitotoksik konvensional — perencat topoisomerase I (terbitan kamptotein) |
+| Risiko Supresi Sumsum Tulang | Tinggi — supresi sumsum tulang yang mengehadkan dos adalah terdokumentasi dengan baik untuk topotecan; cth., ujian Fasa 2 tumor sel germinal dalam pakej bukti ini (PMID 8617580) melaporkan median nadir leukosit 1.75 ×10⁹/L, kiraan neutrofil 1.55 ×10⁹/L, hemoglobin 8.75 g/dL, dan kiraan platelet 20,500/mm³ |
+| Klasifikasi Emetogenisiti | Sila rujuk amaran dan tindakan berjaga-jaga label pakej |
+| Item Pemantauan | CBC dengan pembezaan (memandangkan risiko supresi sumsum tulang yang terdokumentasi); fungsi renal dan hepatik mengikut amalan pemantauan sitotoksik standard — keperluan label Malaysia yang spesifik tidak tersedia dalam set data ini |
+| Perlindungan Pengendalian | Tindakan berjaga-jaga pengendalian ubat sitotoksik standard terpakai; sahkan protokol spesifik terhadap sisipan pakej NPRA tempatan sebaik ia tersedia |
 
 ---
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information. (Key warnings, contraindications, and drug interaction data were not available in this evidence pack — flagged as a Blocking data gap, DG001.)
+Sila rujuk sisipan pakej untuk maklumat keselamatan. (Data amaran utama, kontraindikasi, dan interaksi ubat tidak tersedia dalam pakej bukti ini — ditanda sebagai jurang data Menyekat, DG001.)
 
 ---
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tunggu**
 
-**Rationale:**
-The mechanistic hypothesis (Top1 inhibition with potential synthetic lethality in TFDP1/MYC-driven TNBC) is biologically plausible and supported by recent preclinical work, but direct clinical evidence in breast cancer is dated, mostly early-phase or preclinical, and the most disease-matched regimen (TIME) was terminated. The evidence pack itself scores this at decision stage S2 with a "Research Question" label — appropriate for further investigation, not for advancing toward clinical or regulatory action yet.
+**Rasional:**
+Hipotesis mekanistik (penghambatan Top1 dengan potensi letal sintetik dalam TNBC/MYC yang didorong TFDP1) adalah munasabah secara biologi dan disokong oleh kerja pra-klinikal baru-baru ini, tetapi bukti klinikal langsung dalam kanser payudara adalah usang, kebanyakannya fasa awal atau pra-klinikal, dan rejim yang paling sepadan dengan penyakit (TIME) telah dihentikan. Pakej bukti itu sendiri menjaringkan ini pada peringkat keputusan S2 dengan label "Research Question" — sesuai untuk penyiasatan lebih lanjut, bukan untuk melangkah ke arah tindakan klinikal atau kawal selia lagi.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert data — warnings, contraindications, DDIs (Blocking gap, DG001)
-- Confirmed DrugBank MOA and drug category classification (DG002)
-- Complete Malaysia product registration details (license numbers, product names, approved indication text) for both registered products
-- A prospective trial specifically testing topotecan in TNBC/TFDP1-driven breast cancer, since existing breast cancer trials predate and do not test this specific mechanistic hypothesis
+**Untuk meneruskan, yang berikut diperlukan:**
+- Data sisipan pakej TFDA/NPRA — amaran, kontraindikasi, DDI (Jurang menyekat, DG001)
+- Klasifikasi MOA dan kategori ubat DrugBank yang disahkan (DG002)
+- Butiran pendaftaran produk Malaysia yang lengkap (nombor lesen, nama produk, teks petunjuk yang diluluskan) untuk kedua-dua produk berdaftar
+- Ujian prospektif yang secara khusus menguji topotecan dalam kanser payudara TNBC/TFDP1, kerana ujian kanser payudara yang ada mendahului dan tidak menguji hipotesis mekanistik spesifik ini
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

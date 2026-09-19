@@ -29,60 +29,61 @@ Tahap bukti: **L4** | Indikasi diramal: **1**
 
 </div>
 
-# Sulfamethoxazole: From Systemic Bacterial Infections to Acute Contagious Conjunctivitis
+# Sulfamethoxazole: Dari Jangkitan Bakteria Sistemik kepada Konjunktivitis Akut Menular
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Sulfamethoxazole is a sulfonamide antibacterial, traditionally used systemically (commonly as the trimethoprim-sulfamethoxazole combination) for bacterial infections.
-The TxGNN model predicts it may be effective for **Acute Contagious Conjunctivitis**,
-but this direction is currently supported by **0 clinical trials** and only **1 indirect publication**, so the evidence base is very thin.
+Sulfamethoxazole adalah antibakteria sulfonamida yang secara tradisional digunakan secara sistemik (biasanya sebagai kombinasi trimetoprim-sulfamethoxazole) untuk jangkitan bakteria.
+Model TxGNN meramalkan ia mungkin berkesan untuk **Konjunktivitis Akut Menular**,
+tetapi arah ini pada masa kini disokong oleh **0 percubaan klinikal** dan hanya **1 penerbitan tidak langsung**, jadi asas bukti sangat tipis.
 
-## Quick Overview
+## Gambaran Cepat
 
-| Item | Content |
-|------|------|
-| Original Indication | Not specified in current license records (no approved indication text available); known clinically as a systemic antibacterial, typically combined with trimethoprim |
-| Predicted New Indication | Acute Contagious Conjunctivitis |
-| TxGNN Prediction Score | 99.63% |
-| Evidence Level | L4 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 15 |
-| Recommended Decision | Hold |
+| Perkara | Kandungan |
+|--------|----------|
+| Indikasi Asal | Tidak dinyatakan dalam rekod lesen semasa (tiada teks indikasi yang diluluskan tersedia); diketahui secara klinikal sebagai antibakteria sistemik, lazimnya digabungkan dengan trimetoprim |
+| Indikasi Baru Yang Diprediksi | Konjunktivitis Akut Menular |
+| Skor Ramalan TxGNN | 99.63% |
+| Tahap Bukti | L4 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 15 |
+| Keputusan Yang Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Sulfamethoxazole inhibits bacterial dihydropteroate synthase (DHPS), blocking the folate synthesis pathway required for bacterial growth. This gives it broad-spectrum activity against organisms commonly implicated in bacterial conjunctivitis, such as *Staphylococcus* spp., *Streptococcus* spp., and *Haemophilus influenzae*.
+Sulfamethoxazole menghalang sintas dihidroptenoat bakteria (DHPS), menyekat laluan sintesis folat yang diperlukan untuk pertumbuhan bakteria. Ini memberikannya aktiviti spektrum luas terhadap organisma yang biasa terlibat dalam konjunktivitis bakteria, seperti *Staphylococcus* spp., *Streptococcus* spp., dan *Haemophilus influenzae*.
 
-Mechanistically, this prediction is plausible in part because a related sulfonamide, sulfacetamide, is already an established topical ophthalmic antibacterial class. This provides indirect mechanistic support for a sulfonamide being useful in ocular infection.
+Secara mekanistik, ramalan ini munasabah sebahagiannya kerana sulfonamida yang berkaitan, sulfasetamid, sudah merupakan kelas antibakteria oftalmik topikal yang mantap. Ini memberikan sokongan mekanistik tidak langsung untuk sulfonamida yang berguna dalam jangkitan okular.
 
-However, sulfamethoxazole itself is clinically used almost exclusively as an oral systemic agent (typically as TMP-SMX) rather than in a topical ophthalmic formulation, and there is currently no direct clinical evidence — trial or otherwise — demonstrating its efficacy specifically for treating conjunctivitis. The prediction should therefore be regarded as mechanistically plausible but clinically unproven.
+Bagaimanapun, sulfamethoxazole sendiri secara klinikal digunakan hampir secara eksklusif sebagai agen sistemik oral (lazimnya sebagai TMP-SMX) bukan dalam formula oftalmik topikal, dan pada masa kini tiada bukti klinikal langsung — percubaan atau sebaliknya — yang menunjukkan keberkesan khususnya untuk merawat konjunktivitis. Oleh itu, ramalan itu perlu dianggap sebagai munasabah secara mekanistik tetapi tidak terbukti secara klinikal.
 
-## Clinical Trial Evidence
+## Bukti Percubaan Klinikal
 
-Currently no related clinical trials registered
+Pada masa kini tiada percubaan klinikal berkaitan yang terdaftar
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [31788487](https://pubmed.ncbi.nlm.nih.gov/31788487/) | 2019 | Cohort | Medical Hypothesis, Discovery & Innovation Ophthalmology Journal | Retrospective study of childhood acute bacterial conjunctivitis in Western Greece characterizing causative bacteria and antibiotic susceptibility patterns; describes the pathogen landscape rather than testing sulfamethoxazole's clinical efficacy directly |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|------|------|---------|--------------|
+| [31788487](https://pubmed.ncbi.nlm.nih.gov/31788487/) | 2019 | Kohort | Medical Hypothesis, Discovery & Innovation Ophthalmology Journal | Kajian retrospektif konjunktivitis bakteria akut pada kanak-kanak di Yunani Barat mencirikan corak bakteria penyebab dan pola kerentanan antibiotik; menerangkan landskap patogen bukan menguji keberkesanan klinikal sulfamethoxazole secara langsung |
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-There are no clinical trials and only one indirect epidemiological publication supporting this indication, and TFDA/NPRA label warnings and contraindications are currently unavailable (Blocking data gap), which prevents even an initial safety screen (S1).
+**Nisbah Berdasarkan:**
+Tiada percubaan klinikal dan hanya satu penerbitan epidemiologi tidak langsung menyokong indikasi ini, dan amaran label TFDA/NPRA serta kontraindikasi pada masa kini tidak tersedia (Jurang data yang menghalang), yang menghalang bahkan skrin keselamatan awal (S1).
 
-**To proceed, the following is needed:**
-- Package insert warnings, contraindications, and drug interaction data (currently a Blocking data gap)
-- Confirmed mechanism-of-action reference from DrugBank (original_moa currently unavailable)
-- Evidence of an existing or feasible topical ophthalmic formulation for sulfamethoxazole
-- Targeted literature/clinical trial search for sulfamethoxazole (or TMP-SMX) specifically studied for treating bacterial/contagious conjunctivitis, rather than general conjunctivitis epidemiology
+**Untuk meneruskan, yang berikut diperlukan:**
+- Amaran sisipan pakej, kontraindikasi, dan data interaksi ubat (jurang data yang menghalang pada masa kini)
+- Rujukan mekanisme tindakan yang disahkan dari DrugBank (original_moa pada masa kini tidak tersedia)
+- Bukti formula oftalmik topikal sulfamethoxazole yang sedia ada atau boleh dilaksanakan
+- Carian literatur/percubaan klinikal yang disasarkan untuk sulfamethoxazole (atau TMP-SMX) yang secara khusus dikaji untuk merawat konjunktivitis bakteria/menular, bukan epidemiologi konjunktivitis umum
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

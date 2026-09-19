@@ -29,64 +29,65 @@ Tahap bukti: **L5** | Indikasi diramal: **8**
 
 </div>
 
-# Siltuximab: From Multicentric Castleman's Disease to Extracutaneous Mastocytoma
+# Siltuximab: Daripada Penyakit Castleman Multisenter ke Mastositoma Ekstrakutanea
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Siltuximab is a chimeric anti-IL-6 monoclonal antibody, originally used to treat HHV-8-negative/HIV-negative multicentric Castleman's disease. The TxGNN model predicts it may be effective for **Extracutaneous Mastocytoma**, but this direction is currently supported by **0 clinical trials** and **0 publications** — it is a pure model prediction with no corroborating evidence.
+Siltuximab adalah antibodi monoklonal anti-IL-6 kimaera, yang asalnya digunakan untuk mengubati penyakit Castleman multisenter yang negatif HHV-8/negatif HIV. Model TxGNN meramalkan ia mungkin berkesan untuk **Mastositoma Ekstrakutanea**, tetapi arah ini pada masa kini disokong oleh **0 ujian klinikal** dan **0 penerbitan** — ia adalah ramalan model tulen tanpa bukti pengesahan.
 
-## Quick Overview
+## Gambaran Keseluruhan Cepat
 
-| Item | Content |
-|------|------|
-| Original Indication | Multicentric Castleman's Disease (HHV-8-negative/HIV-negative) |
-| Predicted New Indication | Extracutaneous Mastocytoma |
-| TxGNN Prediction Score | 99.64% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Penyakit Castleman Multisenter (negatif HHV-8/negatif HIV) |
+| Petunjuk Baru yang Diramalkan | Mastositoma Ekstrakutanea |
+| Skor Ramalan TxGNN | 99.64% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 2 |
+| Keputusan yang Disyorkan | Tunggu |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism-of-action data at the drug-profile level is not available (flagged as a High-severity data gap). Based on information available elsewhere in this evidence pack, siltuximab is a recombinant chimeric (human-murine) anti-human interleukin-6 (IL-6) monoclonal antibody, administered by IV infusion, and its efficacy in multicentric Castleman's disease — a condition driven by excess IL-6 signalling — is established.
+Pada masa kini, data mekanisme tindakan terperinci pada tahap profil ubat tidak tersedia (ditandai sebagai keterbatasan data Keparahan Tinggi). Berdasarkan maklumat yang tersedia di tempat lain dalam pakej bukti ini, siltuximab adalah antibodi monoklonal anti-interleukin-6 (IL-6) manusia kimaera (manusia-tetikus) rekombinan, ditadbirkan melalui infusi IV, dan keberkesanannya dalam penyakit Castleman multisenter — keadaan yang didorong oleh isyarat IL-6 yang berlebihan — adalah terbukti.
 
-Extracutaneous mastocytoma, however, is not primarily an IL-6-driven disease. Its core pathology is activating KIT (D816V) mutation signalling; while mast cells within the tumour can secrete IL-6, and serum IL-6 correlates with disease burden, IL-6 functions here as a bystander cytokine rather than a driver of pathogenesis. This means the mechanistic rationale for IL-6 blockade in this indication is weak.
+Mastositoma ekstrakutanea, bagaimanapun, bukan penyakit yang didorong oleh IL-6 terutamanya. Patologi terasnya ialah isyarat mutasi pengaktif KIT (D816V); walaupun sel-sel mast dalam tumor boleh mengeluarkan IL-6, dan IL-6 serum berkorelasi dengan beban penyakit, IL-6 berfungsi di sini sebagai sitokin penonton daripada pemacu patogenesis. Ini bermakna nisbah mekanistik untuk penyekatan IL-6 dalam petunjuk ini adalah lemah.
 
-The TxGNN prediction score is very high (99.64%), but a high graph-embedding similarity score does not, by itself, establish a causal treatment mechanism — it reflects network proximity in the knowledge graph, which here is not backed by any clinical trial or literature evidence.
+Skor ramalan TxGNN sangat tinggi (99.64%), tetapi skor kesamaan grafik penuh tinggi tidak, dalam dirinya sendiri, menetapkan mekanisme rawatan penyebab — ia mencerminkan kedekatan rangkaian dalam graf pengetahuan, yang di sini tidak disokong oleh sebarang bukti ujian klinikal atau literatur.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-Currently no related clinical trials registered
+Pada masa kini tiada ujian klinikal terkait yang berdaftar
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no related literature available
+Pada masa kini tiada literatur terkait yang tersedia
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Malaysia regulatory records confirm 2 active product registrations (Market Status: ✓ Marketed). Detailed licence numbers, product names, dosage forms, and approved-indication text for these registrations are not yet populated in this evidence pack and require retrieval from NPRA source records.
+Rekod kawal selia Malaysia mengesahkan 2 pendaftaran produk aktif (Status Pasaran: ✓ Dipasarkan). Nombor lesen terperinci, nama produk, bentuk dos, dan teks petunjuk yang diluluskan untuk pendaftaran ini belum lagi diisi dalam pakej bukti ini dan memerlukan penarikan balik daripada rekod sumber NPRA.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk risalah maklumat produk untuk maklumat keselamatan.
 
-*(Note: the TFDA/NPRA package-insert warnings and contraindications are flagged as a Blocking data gap in this evidence pack — this must be resolved before any S1 safety pre-assessment can proceed.)*
+*(Nota: amaran risalah maklumat TFDA/NPRA dan kontraindikasi ditandai sebagai keterbatasan data Penyumbat dalam pakej bukti ini — ini mesti diselesaikan sebelum sebarang pra-penilaian keselamatan S1 dapat diteruskan.)*
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tunggu**
 
-**Rationale:**
-The predicted indication (extracutaneous mastocytoma) has no supporting clinical trials or literature, and the drug's known IL-6-targeting mechanism does not directly address the KIT-mutation-driven pathology of this disease. The high TxGNN score alone is insufficient to justify advancing this candidate.
+**Rasional:**
+Petunjuk yang diramalkan (mastositoma ekstrakutanea) tidak mempunyai ujian klinikal atau bukti literatur yang menyokong, dan mekanisme IL-6-targeting ubat yang diketahui tidak secara langsung menangani patologi yang didorong mutasi KIT penyakit ini. Skor TxGNN yang tinggi sahaja tidak mencukupi untuk membenarkan kemajuan calon ini.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert (warnings, contraindications) — currently a Blocking data gap preventing safety pre-assessment
-- Confirmed original indication and approved-indication text from Malaysia licence records (currently blank in the source data)
-- Formal DrugBank-sourced mechanism-of-action documentation for siltuximab
-- Preclinical or mechanistic studies directly testing IL-6 blockade in KIT-mutant mastocytosis, if this indication is to be pursued further
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Risalah maklumat produk TFDA/NPRA (amaran, kontraindikasi) — pada masa kini keterbatasan data Penyumbat yang menghalang pra-penilaian keselamatan
+- Petunjuk asal yang disahkan dan teks petunjuk yang diluluskan daripada rekod lesen Malaysia (pada masa kini kosong dalam data sumber)
+- Dokumentasi mekanisme tindakan yang bersumber DrugBank rasmi untuk siltuximab
+- Kajian pra-klinikal atau mekanistik yang secara langsung menguji penyekatan IL-6 dalam mastositosis yang dimutasikan KIT, jika petunjuk ini akan diteruskan lebih jauh
 
-**Note on alternative candidates:** Among the 8 predictions in this evidence pack, rank 5 (Kaposi's sarcoma) has comparatively stronger — though still preliminary — support: an L4 evidence level with a plausible mechanistic link (HHV-8 viral IL-6 homolog activating the IL-6/gp130/STAT3 pathway) and one relevant review-level publication. If further investment in this drug's repurposing potential is warranted, Kaposi's sarcoma may be a more productive direction than extracutaneous mastocytoma.
+**Nota mengenai calon alternatif:** Di antara 8 ramalan dalam pakej bukti ini, pangkat 5 (Sarcoma Kaposi) mempunyai sokongan yang secara perbandingan lebih kuat — walaupun masih awal — tahap bukti L4 dengan pautan mekanistik yang munasabah (IL-6 homolog virus HHV-8 mengaktifkan laluan IL-6/gp130/STAT3) dan satu penerbitan peringkat ulasan yang relevan. Jika pelaburan lebih lanjut dalam potensi penyusunan semula ubat ini dijustifikasi, sarcoma Kaposi mungkin arah yang lebih produktif daripada mastositoma ekstrakutanea.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

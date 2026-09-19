@@ -29,92 +29,93 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Alfacalcidol: From Renal Osteodystrophy to Familial Isolated Hypoparathyroidism Due to Impaired PTH Secretion
+# Alfacalcidol: Daripada Osteodistrofi Renal kepada Hipoparatiroidisme Terpencil Keluarga Disebabkan Sekresi PTH yang Terjejas
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Alfacalcidol (1α-hydroxycholecalciferol) is a synthetic active vitamin D analog widely used for calcium-phosphate metabolic disorders, including renal osteodystrophy and various forms of hypoparathyroidism.
-The TxGNN model predicts it may be effective for **Familial Isolated Hypoparathyroidism Due to Impaired PTH Secretion**, with a prediction score of **99.61%**; however, the evidence for this specific genetic subtype currently rests on mechanistic reasoning rather than dedicated clinical trials or publications.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Renal osteodystrophy; calcium-phosphate metabolic disorders (individual product data not available from regulatory records) |
-| Predicted New Indication | Familial Isolated Hypoparathyroidism Due to Impaired PTH Secretion |
-| TxGNN Prediction Score | 99.61% |
-| Evidence Level | L4 — Mechanistic evidence; no dedicated clinical trials or publications identified |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 16 |
-| Recommended Decision | Proceed with Guardrails |
+Alfacalcidol (1α-hidroksilkolesikalsiferol) ialah analog vitamin D sintetik aktif yang digunakan secara meluas untuk gangguan metabolik kalsium-fosfat, termasuk osteodistrofi renal dan pelbagai bentuk hipoparatiroidisme.
+Model TxGNN meramalkan ia mungkin berkesan untuk **Hipoparatiroidisme Terpencil Keluarga Disebabkan Sekresi PTH yang Terjejas**, dengan skor ramalan **99.61%**; bagaimanapun, bukti untuk subtip genetik khusus ini pada masa ini bergantung pada penaakulan mekanik daripada ujian klinik atau penerbitan khusus.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Ringkasan Pantas
 
-Alfacalcidol is a pro-drug that undergoes hepatic 25-hydroxylation to yield calcitriol (1,25-dihydroxycholecalciferol) — the biologically active form of vitamin D. Crucially, this hepatic activation pathway does **not** depend on renal 1α-hydroxylase, the enzyme whose activity is tightly controlled by parathyroid hormone (PTH). Detailed mechanism of action data from DrugBank was not retrievable for this analysis, but alfacalcidol's pharmacology is well established in the scientific literature.
-
-In familial isolated hypoparathyroidism due to impaired PTH secretion, the root defect is insufficient PTH production from the parathyroid glands (caused by mutations in the *PTH* gene, *GCM2*, or related secretory machinery). Without adequate PTH signalling, renal 1α-hydroxylase activity falls, calcitriol synthesis drops, and patients develop chronic hypocalcaemia accompanied by neuromuscular irritability, tetany, and seizure risk. By supplying a ready-to-activate vitamin D precursor that bypasses this renal bottleneck entirely, alfacalcidol directly addresses the downstream metabolic deficit regardless of PTH status.
-
-The repurposing logic is especially compelling because alfacalcidol is already the standard of care for other PTH-deficient states — post-surgical hypoparathyroidism, autoimmune hypoparathyroidism, and pseudohypoparathyroidism. Familial isolated hypoparathyroidism shares the identical downstream metabolic lesion (insufficient active vitamin D), making the mechanistic fit essentially complete (★★★★★). The primary gap is the absence of studies specifically enrolling patients with this rare, genetically confirmed subtype.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for familial isolated hypoparathyroidism due to impaired PTH secretion.
+| Item | Kandungan |
+|------|-----------|
+| Petunjuk Asal | Osteodistrofi renal; gangguan metabolik kalsium-fosfat (data produk individu tidak tersedia daripada rekod kawal selia) |
+| Petunjuk Baharu yang Diramalkan | Hipoparatiroidisme Terpencil Keluarga Disebabkan Sekresi PTH yang Terjejas |
+| Skor Ramalan TxGNN | 99.61% |
+| Tahap Bukti | L4 — Bukti mekanik; tiada ujian klinik atau penerbitan khusus yang dikenalpasti |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 16 |
+| Keputusan yang Disyorkan | Teruskan dengan Penjaga |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available specifically for familial isolated hypoparathyroidism due to impaired PTH secretion.
+Alfacalcidol ialah pro-ubat yang menjalani hidroksilasi 25 hepatik untuk menghasilkan kalsitriol (1,25-dihidroksikolesikalsiferol) — bentuk biologi aktif vitamin D. Dengan ketara, laluan pengaktifan hepatik ini **tidak** bergantung pada 1α-hidroksilase renal, enzim yang aktivitinya dikawal ketat oleh hormon paratiroid (PTH). Data mekanisme tindakan terperinci daripada DrugBank tidak dapat diambil untuk analisis ini, tetapi farmakoloji alfacalcidol telah ditubuhkan dengan baik dalam kesusasteraan saintifik.
 
-> **Context note:** Supporting literature exists for closely related conditions sharing the same PTH-deficiency mechanism. Notably, 20 publications were identified for Dahlberg-Borer-Newcomer syndrome (HDR syndrome, also characterised by hypoparathyroidism), and 8 publications for renal tubular acidosis with alfacalcidol use — both providing indirect mechanistic support. Key examples from adjacent evidence are listed below for reference.
+Dalam hipoparatiroidisme terpencil keluarga yang disebabkan oleh sekresi PTH yang terjejas, kecacatan akar adalah pengeluaran PTH yang tidak mencukupi daripada kelenjar paratiroid (yang disebabkan oleh mutasi dalam gen *PTH*, *GCM2*, atau mesin sekretori berkaitan). Tanpa isyarat PTH yang mencukupi, aktiviti 1α-hidroksilase renal jatuh, sintesis kalsitriol menurun, dan pesakit mengalami hipokalsemia kronik disertai dengan kerengsangan neuromuskuler, tetani, dan risiko kejang. Dengan membekalkan pendahulu vitamin D yang siap diaktifkan yang melepasi halangan renal ini sepenuhnya, alfacalcidol secara langsung menangani kecacatan metabolik hilir tanpa mengira status PTH.
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|--------------|
-| [28993435](https://pubmed.ncbi.nlm.nih.gov/28993435/) | 2017 | Case Series | *Endocrine Connections* | Active vitamin D analogue is standard management for hypocalcaemia in children with hypoparathyroidism; intercurrent illness can destabilise calcium homeostasis, requiring dose adjustment |
-| [31968342](https://pubmed.ncbi.nlm.nih.gov/31968342/) | 2020 | Clinical Study | *American Journal of Nephrology* | Patients with permanent post-surgical hypoparathyroidism require high calcium supplementation with vitamin D (including alfacalcidol) to maintain serum calcium; highlights hypercalcaemia risk as key monitoring point |
-| [32580149](https://pubmed.ncbi.nlm.nih.gov/32580149/) | 2020 | Registry Study | *Endocrine Connections* | Russian registry of chronic hypoparathyroidism patients; active vitamin D derivatives including alfacalcidol are the principal treatment modality |
-| [11518137](https://pubmed.ncbi.nlm.nih.gov/11518137/) | 2001 | Case Report | *Internal Medicine (Tokyo)* | Alfacalcidol as part of a regimen achieving rapid bone mineralisation improvement in a patient with renal tubular acidosis type 1 and osteomalacia |
-| [6893175](https://pubmed.ncbi.nlm.nih.gov/6893175/) | 1980 | Clinical Study | *Contributions to Nephrology* | 1α-OH-VD₃ (alfacalcidol) was 200–250 times more potent than vitamin D₂ in correcting calcium malabsorption in Fanconi syndrome; plasma calcitriol rose rapidly after administration |
-| [6262039](https://pubmed.ncbi.nlm.nih.gov/6262039/) | 1981 | Review | *Drugs* | Comprehensive pharmacological review establishing alfacalcidol's role among active vitamin D compounds; efficacy in hypoparathyroidism explicitly reviewed |
+Logik penggantian tujuan amat menarik kerana alfacalcidol sudah menjadi penjagaan standard untuk keadaan kekurangan PTH lain — hipoparatiroidisme lepas-pembedahan, hipoparatiroidisme autoimun, dan pseudohipoparatiroidisme. Hipoparatiroidisme terpencil keluarga berkongsi lesi metabolik hilir yang sama (vitamin D aktif yang tidak mencukupi), menjadikan kesepadanan mekanik pada dasarnya lengkap (★★★★★). Jurang utama ialah ketiadaan kajian yang secara khusus merekrut pesakit dengan subtip genetik yang jarang ini.
 
 ---
 
-## Malaysia Market Information
+## Bukti Ujian Klinik
 
-Individual product authorisation details were not available in the Evidence Pack for the 16 registered products. Alfacalcidol is confirmed as currently marketed in Malaysia with 16 active registrations.
-
-For current product listings, refer to the [NPRA Drug Registration Database](https://npra.gov.my).
+Pada masa ini tiada ujian klinik berkaitan yang didaftarkan untuk hipoparatiroidisme terpencil keluarga yang disebabkan oleh sekresi PTH yang terjejas.
 
 ---
 
-## Safety Considerations
+## Bukti Kesusasteraan
 
-Please refer to the package insert for safety information.
+Pada masa ini tiada kesusasteraan berkaitan yang tersedia secara khusus untuk hipoparatiroidisme terpencil keluarga yang disebabkan oleh sekresi PTH yang terjejas.
 
-> **Important note:** Although formal safety data was not retrievable for this report, active vitamin D analogs carry well-recognised risks of **hypercalcaemia** and **hypercalciuria**, which are particularly relevant when used in hypoparathyroid patients requiring long-term supplementation. A monitoring protocol should be established before any clinical use. Package insert download and parsing is listed as a required next step.
+> **Nota konteks:** Kesusasteraan sokongan wujud untuk keadaan berkaitan yang berkongsi mekanisme kekurangan PTH yang sama. Terutama, 20 penerbitan telah dikenalpasti untuk sindrom Dahlberg-Borer-Newcomer (sindrom HDR, juga dicirikan oleh hipoparatiroidisme), dan 8 penerbitan untuk asidosis tubular renal dengan penggunaan alfacalcidol — kedua-duanya memberikan sokongan mekanik tidak langsung. Contoh utama daripada bukti bersebelahan disenaraikan di bawah untuk rujukan.
+
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-------|-------|--------|----------------|
+| [28993435](https://pubmed.ncbi.nlm.nih.gov/28993435/) | 2017 | Siri Kes | *Endocrine Connections* | Analog vitamin D aktif adalah penjagaan standard untuk hipokalsemia dalam kanak-kanak dengan hipoparatiroidisme; penyakit serentak boleh menyeimbangkan hemostasis kalsium, memerlukan penyesuaian dos |
+| [31968342](https://pubmed.ncbi.nlm.nih.gov/31968342/) | 2020 | Kajian Klinik | *American Journal of Nephrology* | Pesakit dengan hipoparatiroidisme lepas-pembedahan kekal memerlukan suplementasi kalsium tinggi dengan vitamin D (termasuk alfacalcidol) untuk mengekalkan kalsium serum; menyerlahkan risiko hiperkalsemia sebagai titik pemantauan utama |
+| [32580149](https://pubmed.ncbi.nlm.nih.gov/32580149/) | 2020 | Kajian Daftar | *Endocrine Connections* | Daftar Rusia bagi pesakit hipoparatiroidisme kronik; derivatif vitamin D aktif termasuk alfacalcidol ialah modaliti rawatan utama |
+| [11518137](https://pubmed.ncbi.nlm.nih.gov/11518137/) | 2001 | Laporan Kes | *Internal Medicine (Tokyo)* | Alfacalcidol sebagai sebahagian daripada rejimen yang mencapai peningkatan pemineralan tulang yang cepat dalam pesakit dengan asidosis tubular renal jenis 1 dan osteomalasia |
+| [6893175](https://pubmed.ncbi.nlm.nih.gov/6893175/) | 1980 | Kajian Klinik | *Contributions to Nephrology* | 1α-OH-VD₃ (alfacalcidol) adalah 200–250 kali lebih berkuasa daripada vitamin D₂ dalam membetulkan malabsorpsi kalsium dalam sindrom Fanconi; plasma kalsitriol meningkat dengan cepat selepas pentadbiran |
+| [6262039](https://pubmed.ncbi.nlm.nih.gov/6262039/) | 1981 | Ulasan | *Drugs* | Tinjauan farmakoloji komprehensif yang menetapkan peranan alfacalcidol dalam kalangan sebatian vitamin D aktif; keberkesanan dalam hipoparatiroidisme dikaji secara eksplisit |
 
 ---
 
-## Conclusion and Next Steps
+## Maklumat Pasaran Malaysia
 
-**Decision: Proceed with Guardrails**
+Butiran kebenaran produk individu tidak tersedia dalam Pakej Bukti untuk 16 produk berdaftar. Alfacalcidol disahkan sebagai dipasarkan pada masa ini di Malaysia dengan 16 pendaftaran aktif.
 
-**Rationale:**
-Alfacalcidol's PTH-independent mechanism of action maps directly onto the metabolic deficit caused by impaired PTH secretion, making this a scientifically compelling repurposing candidate. The absence of dedicated evidence for this specific genetic subtype reflects the disease's rarity, not a mechanistic mismatch — the drug is already standard of care in phenotypically identical conditions.
+Untuk penyenaraian produk semasa, rujuk [Pangkalan Data Pendaftaran Ubat NPRA](https://npra.gov.my).
 
-**To proceed, the following is needed:**
+---
 
-- **Safety data**: Download and parse the NPRA-approved package insert to extract contraindications, warnings (especially hypercalcaemia, hypercalciuria, renal calculi), drug interactions, and dose adjustment guidance
-- **MOA confirmation**: Retrieve full mechanism of action data from DrugBank (DB01436) to formalise the pharmacological rationale for regulatory and clinical submissions
-- **Evidence generation**: Initiate a case series or patient registry study enrolling individuals with genetically confirmed familial isolated hypoparathyroidism on alfacalcidol therapy; partner with rare endocrine disease networks (e.g., EUHYPO, Hypoparathyroidism Association)
-- **Monitoring protocol**: Define calcium, phosphate, urinary calcium, PTH (if measurable), and renal function monitoring intervals — weekly during dose-titration phase, transitioning to monthly once stable
-- **Regulatory pathway**: Consult NPRA regarding off-label prescribing documentation or orphan drug designation options for this rare endocrine condition (estimated prevalence < 1:100,000)
+## Pertimbangan Keselamatan
+
+Sila rujuk risalah produk untuk maklumat keselamatan.
+
+> **Nota penting:** Walaupun data keselamatan formal tidak dapat diambil untuk laporan ini, analog vitamin D aktif membawa risiko yang diiktiraf — **hiperkalsemia** dan **hiperkalsiuria** — yang amat relevan apabila digunakan dalam pesakit hipoparatiroid yang memerlukan suplementasi jangka panjang. Protokol pemantauan harus ditubuhkan sebelum sebarang penggunaan klinik. Muat turun dan penghuraian risalah produk disenaraikan sebagai langkah seterusnya yang diperlukan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Teruskan dengan Penjaga**
+
+**Rasional:**
+Mekanisme PTH-bebas alfacalcidol memetakan terus kepada kecacatan metabolik yang disebabkan oleh sekresi PTH yang terjejas, menjadikan ini calon penggantuan tujuan yang menarik dari segi saintifik. Ketiadaan bukti khusus untuk subtip genetik khusus ini mencerminkan kelangkaan penyakit, bukan ketidakpadanan mekanik — ubat ini sudah menjadi penjagaan standard dalam keadaan yang sama secara fenotip.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+
+- **Data keselamatan**: Muat turun dan hurai risalah produk yang diluluskan NPRA untuk mengekstrak kontraindikasi, amaran (terutama hiperkalsemia, hiperkalsiuria, batu ginjal), interaksi ubat, dan panduan penyesuaian dos
+- **Pengesahan MOA**: Ambil data mekanisme tindakan penuh daripada DrugBank (DB01436) untuk memformalkan rasional farmakoloji untuk penyerahan kawal selia dan klinik
+- **Penjanaan bukti**: Mulakan siri kes atau kajian daftar pesakit yang merekrut individu dengan hipoparatiroidisme terpencil keluarga yang disahkan secara genetik pada terapi alfacalcidol; berkerjasama dengan rangkaian penyakit endokrin jarang (contohnya, EUHYPO, Hypoparathyroidism Association)
+- **Protokol pemantauan**: Tentukan selang pemantauan kalsium, fosfat, kalsium kencing, PTH (jika boleh diukur), dan fungsi ginjal — mingguan semasa fasa penyesuaian dos, peralihan kepada bulanan sebaik sahaja stabil
+- **Laluan kawal selia**: Berunding dengan NPRA mengenai dokumentasi preskripsi luar label atau pilihan penetapan ubat orfan untuk keadaan endokrin jarang ini (anggaran kelaziman < 1:100,000)
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

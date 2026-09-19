@@ -29,107 +29,104 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-Using the drug-repurposing evaluation report prompt (v5) rules already supplied, here is the report generated directly from the Evidence Pack.
+# Levodopa: Daripada Penyakit Parkinson kepada Gangguan Parkinsonism
+
+## Ringkasan Satu Ayat
+
+Levodopa adalah terapi penggantian dopamin piawai emas yang mapan untuk **penyakit Parkinson idiopatik** (disahkan dalam pakej bukti ini sendiri sebagai calon pangkat 4, "bukan penggunaan ulang / petunjuk asal"). Ramalan model TxGNN yang berpangkat teratas meluaskan ini kepada kategori diagnostik yang lebih luas iaitu **Gangguan Parkinsonism**, yang kini disokong oleh **50 percubaan klinikal** dan **20 penerbitan**, walaupun beberapa penyakit asas dalam istilah payung ini (contohnya: parkinsonism atipik/vaskular) diketahui secara klinikal memberikan respons yang buruk terhadap Levodopa.
 
 ---
 
-# Levodopa: From Parkinson's Disease to Parkinsonian Disorder
+## Gambaran Keseluruhan Pantas
 
-## One-Sentence Summary
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Penyakit Parkinson (idiopatik) — teks lesen NPRA tidak dipulangkan untuk pertanyaan ini; disahkan sebaliknya melalui calon pangkat 4 pakej bukti sendiri, yang menyatakan penyakit Parkinson adalah petunjuk teras asal Levodopa |
+| Petunjuk Baharu Diramalkan | Gangguan Parkinsonism |
+| Skor Ramalan TxGNN | 0.00%* |
+| Paras Bukti | L1 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 15 |
+| Keputusan Disyorkan | Teruskan dengan Pagar Keselamatan |
 
-Levodopa is the long-standing gold-standard dopamine-replacement therapy for idiopathic **Parkinson's disease** (confirmed within this evidence pack itself as candidate rank 4, "non-repurposing / original indication"). The TxGNN model's top-ranked prediction broadens this to the wider diagnostic category of **Parkinsonian Disorder**, which is currently supported by **50 clinical trials** and **20 publications**, though several of the underlying diseases in this umbrella term (e.g. atypical/vascular parkinsonism) are clinically known to respond poorly to Levodopa.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Parkinson's disease (idiopathic) — NPRA license text was not returned for this query; confirmed instead via the evidence pack's own rank-4 candidate, which states Parkinson's disease is Levodopa's original core indication |
-| Predicted New Indication | Parkinsonian Disorder |
-| TxGNN Prediction Score | 0.00%* |
-| Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 15 |
-| Recommended Decision | Proceed with Guardrails |
-
-\* *Data quality note: the raw TxGNN score field returned 0.0 for all five candidate diseases in this evidence pack (ranks 1–5). This is very likely an export/serialization issue rather than a true model confidence of zero, since candidates are still meaningfully differentiated by rank (1–5) and by evidence volume. Rank order, not the raw score, should be used to interpret model confidence until this is resolved.*
+\* *Nota kualiti data: medan skor TxGNN mentah dipulangkan 0.0 untuk kesemua lima penyakit calon dalam pakej bukti ini (pangkat 1–5). Ini berkemungkinan besar isu eksport/serialisasi daripada keyakinan model benar sifar, memandangkan calon masih dibezakan bermakna mengikut pangkat (1–5) dan mengikut volum bukti. Susunan pangkat, bukan skor mentah, harus digunakan untuk mentafsir keyakinan model sehingga ini diselesaikan.*
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed mechanism-of-action data for Levodopa was not returned by the DrugBank query in this evidence pack (flagged as data gap DG002). However, the evidence pack's own repurposing rationale for the original-indication candidate (rank 4, Parkinson disease) does provide the relevant mechanism: **Levodopa is a dopamine precursor that crosses the blood–brain barrier and is converted to dopamine by AADC, directly replenishing the nigrostriatal dopamine deficiency that underlies parkinsonism.** This is the best-established drug mechanism in movement-disorder neurology, supported by decades of Phase 3 RCTs and clinical use.
+Data mekanisme aksi terperinci untuk Levodopa tidak dipulangkan oleh pertanyaan DrugBank dalam pakej bukti ini (ditandai sebagai jurang data DG002). Walau bagaimanapun, pakej bukti sendiri menyediakan nisbah penggunaan ulang untuk calon petunjuk asal (pangkat 4, penyakit Parkinson) dengan data mekanisme yang berkaitan: **Levodopa adalah pendahulu dopamin yang merentas halangan darah-otak dan ditukarkan kepada dopamin oleh AADC, secara langsung mengisi semula kekurangan dopamin nigrostriatal yang mendasari parkinsonism.** Ini adalah mekanisme ubat yang paling terbina dengan baik dalam neurologi gangguan pergerakan, disokong oleh puluhan tahun RCT Fasa 3 dan penggunaan klinikal.
 
-"Parkinsonian Disorder" (rank 1) is not a distinct new disease so much as a **broader diagnostic umbrella** that contains idiopathic Parkinson's disease plus related but mechanistically heterogeneous syndromes (e.g. multiple system atrophy, vascular parkinsonism, progressive supranuclear palsy). The rationale attached to this candidate explicitly notes: *"與『Parkinson disease』為同一機轉核心（多巴胺前驅物補充治療），但此標籤較廣泛，可能涵蓋部分對 Levodopa 反應不一的巴金森症候群… 核心特發性巴金森病證據充分，但廣義 parkinsonian disorder 需注意亞型異質性。"* In plain terms: the mechanistic logic is sound for the classic idiopathic-PD subset, but the broader label pools in atypical parkinsonism subtypes that are clinically recognized to have a poor or transient Levodopa response. This heterogeneity is the central caveat for this prediction, not a reason to reject it outright — hence the "Proceed with Guardrails" stance rather than a clean "Go."
+"Gangguan Parkinsonism" (pangkat 1) bukan penyakit baharu yang berbeza sebanyak **payung diagnostik yang lebih luas** yang mengandungi penyakit Parkinson idiopatik ditambah sindrom berkaitan tetapi secara mekanistik heterogen (contohnya: atrofi sistem berganda, parkinsonism vaskular, progresif supranuklear palsi). Rasional yang dilampirkan pada calon ini secara eksplisit menyatakan: *"與『Parkinson disease』為同一機轉核心（多巴胺前驅物補充治療），但此標籤較廣泛，可能涵蓋部分對 Levodopa 反應不一的巴金森症候群… 核心特發性巴金森病證據充分，但廣義 parkinsonian disorder 需注意亞型異質性。"* Dalam istilah biasa: logik mekanistik adalah teguh untuk subset idiopatik-PD klasik, tetapi label yang lebih luas mengumpulkan dalam subtipe parkinsonism atipik yang secara klinikal diiktiraf mempunyai respons Levodopa yang buruk atau sementara. Heterogeniti ini adalah peringatan utama untuk ramalan ini, bukan alasan untuk menolaknya sepenuhnya — oleh itu pendirian "Teruskan dengan Pagar Keselamatan" daripada "Pergi" yang bersih.
 
-For context, three other TxGNN-predicted candidates in this pack (juvenile-onset Parkinson disease 19A, early-onset parkinsonism-intellectual disability syndrome, atypical juvenile parkinsonism) scored far lower on evidence (L3–L5) and are not the focus of this report, since rank 1 is the designated primary candidate under the reporting rules.
+Untuk konteks, tiga calon yang diramalkan TxGNN lain dalam pak ini (penyakit Parkinson permulaan remaja 19A, sindrom parkinsonism-kecacatan intelektual permulaan awal, parkinsonism remaja atipik) mendapat skor jauh lebih rendah pada bukti (L3–L5) dan bukan fokus laporan ini, kerana pangkat 1 adalah calon utama yang ditetapkan di bawah peraturan pelaporan.
 
 ---
 
-## Clinical Trial Evidence
+## Bukti Percubaan Klinikal
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Percubaan | Fasa | Status | Bilangan Peserta | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT00001928](https://clinicaltrials.gov/study/NCT00001928) | N/A | Completed | 25 | "Intravenous Levodopa in Parkinsonism" — direct test of IV levodopa as dopamine replacement in Parkinsonian patients. |
-| [NCT00562198](https://clinicaltrials.gov/study/NCT00562198) | Phase 2 | Terminated | 16 | Crossover study comparing Levodopa/Carbidopa vs. Stalevo on striatal ¹¹C-raclopride binding in PD patients with wearing-off symptoms — direct Levodopa pharmacodynamics. |
-| [NCT03881371](https://clinicaltrials.gov/study/NCT03881371) | Phase 3 | Completed | 307 | Safinamide add-on vs. placebo in Chinese PD patients on stable-dose Levodopa with motor fluctuations. |
-| [NCT02240030](https://clinicaltrials.gov/study/NCT02240030) | Phase 3 | Completed | 351 | CVT-301 (Levodopa Inhalation Powder) vs. placebo for OFF episodes in PD patients with motor fluctuations. |
-| [NCT00466167](https://clinicaltrials.gov/study/NCT00466167) | Phase 3 | Completed | 517 | Pramipexole ER vs. placebo vs. IR in Levodopa-treated advanced PD patients with motor fluctuations. |
-| [NCT00368108](https://clinicaltrials.gov/study/NCT00368108) | Phase 3 | Completed | 752 | E2007 vs. placebo in Levodopa-treated PD patients with motor fluctuations. |
-| [NCT01283594](https://clinicaltrials.gov/study/NCT01283594) | Phase 2/3 | Completed | 420 | SYN115 as adjunctive therapy in Levodopa-treated PD subjects with end-of-dose wearing off. |
-| [NCT00199407](https://clinicaltrials.gov/study/NCT00199407) | Phase 3 | Completed | 230 | Istradefylline (KW-6002) 20 mg/day for reducing OFF time in advanced PD patients treated with Levodopa. |
-| [NCT06596876](https://clinicaltrials.gov/study/NCT06596876) | Phase 3 | Recruiting | 450 | HRG2010 vs. sustained-release carbidopa-levodopa in PD patients with motor fluctuations. |
-| [NCT00143026](https://clinicaltrials.gov/study/NCT00143026) | Phase 4 | Completed | 184 | Carbidopa/Levodopa/Entacapone vs. quality of life (PDQ-8) in PD patients with minimal motor fluctuations. |
+| [NCT00001928](https://clinicaltrials.gov/study/NCT00001928) | N/A | Selesai | 25 | "Intravenous Levodopa in Parkinsonism" — ujian langsung levodopa intravena sebagai penggantian dopamin dalam pesakit Parkinsonian. |
+| [NCT00562198](https://clinicaltrials.gov/study/NCT00562198) | Fasa 2 | Ditamatkan | 16 | Kajian silang membandingkan Levodopa/Carbidopa vs. Stalevo pada pengikatan striatal ¹¹C-raclopride dalam pesakit PD dengan gejala kehausan — farmakodinamik Levodopa langsung. |
+| [NCT03881371](https://clinicaltrials.gov/study/NCT03881371) | Fasa 3 | Selesai | 307 | Safinamid tambahan vs. plasebo dalam pesakit PD China pada dos stabil Levodopa dengan turun naik motor. |
+| [NCT02240030](https://clinicaltrials.gov/study/NCT02240030) | Fasa 3 | Selesai | 351 | CVT-301 (Levodopa Inhalation Powder) vs. plasebo untuk episod OFF dalam pesakit PD dengan turun naik motor. |
+| [NCT00466167](https://clinicaltrials.gov/study/NCT00466167) | Fasa 3 | Selesai | 517 | Pramipeksol ER vs. plasebo vs. IR dalam pesakit PD lanjutan yang dirawat Levodopa dengan turun naik motor. |
+| [NCT00368108](https://clinicaltrials.gov/study/NCT00368108) | Fasa 3 | Selesai | 752 | E2007 vs. plasebo dalam pesakit PD yang dirawat Levodopa dengan turun naik motor. |
+| [NCT01283594](https://clinicaltrials.gov/study/NCT01283594) | Fasa 2/3 | Selesai | 420 | SYN115 sebagai terapi tambahan dalam subjek PD yang dirawat Levodopa dengan kehausan akhir-dos. |
+| [NCT00199407](https://clinicaltrials.gov/study/NCT00199407) | Fasa 3 | Selesai | 230 | Istradefylline (KW-6002) 20 mg/hari untuk mengurangkan masa OFF dalam pesakit PD lanjutan yang dirawat Levodopa. |
+| [NCT06596876](https://clinicaltrials.gov/study/NCT06596876) | Fasa 3 | Merekrut | 450 | HRG2010 vs. carbidopa-levodopa lepasan lanjutan dalam pesakit PD dengan turun naik motor. |
+| [NCT00143026](https://clinicaltrials.gov/study/NCT00143026) | Fasa 4 | Selesai | 184 | Carbidopa/Levodopa/Entacapone vs. kualiti hidup (PDQ-8) dalam pesakit PD dengan turun naik motor minimal. |
 
-*Note: most of these trials evaluate an add-on/comparator drug against a stable Levodopa background rather than Levodopa itself as the primary intervention; NCT00001928 and NCT00562198 are the two trials that test Levodopa directly (Grade A relevance in the source evidence pack).*
+*Nota: kebanyakan percubaan ini menilai ubat tambahan/pembanding terhadap latar belakang Levodopa yang stabil daripada Levodopa itu sendiri sebagai campur tangan utama; NCT00001928 dan NCT00562198 adalah dua percubaan yang menguji Levodopa secara langsung (Kekautan Gred A dalam pakej bukti sumber).*
 
 ---
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [25449210](https://pubmed.ncbi.nlm.nih.gov/25449210/) | 2015 | Review | Movement Disorders | Comprehensive review of Levodopa pharmacokinetics and pharmacodynamics in PD treatment. |
-| [41219370](https://pubmed.ncbi.nlm.nih.gov/41219370/) | 2025 | Cohort | Scientific Reports | Postmortem study (n=63) on Levodopa exposure and nigral neuroinflammation across PD, MSA, and PSP. |
-| [30361296](https://pubmed.ncbi.nlm.nih.gov/30361296/) | 2019 | Cohort | J Neurol Neurosurg Psychiatry | REIN-PD trial: behavioural/trait changes in PD patients switched from dopamine agonist to Levodopa. |
-| [11723148](https://pubmed.ncbi.nlm.nih.gov/11723148/) | 2001 | Cohort | J Gerontol A Biol Sci Med Sci | Effect of Levodopa therapy on orthostatic and postprandial hypotension in elderly Parkinsonian patients. |
-| [31272925](https://pubmed.ncbi.nlm.nih.gov/31272925/) | 2019 | Review | Parkinsonism & Related Disorders | Juvenile parkinsonism differential diagnosis, genetics, and Levodopa-responsive subtypes. |
-| [28229895](https://pubmed.ncbi.nlm.nih.gov/28229895/) | 2017 | Review | The Lancet Neurology | Update on impulse control disorders and Levodopa-induced dyskinesias in PD. |
-| [6435991](https://pubmed.ncbi.nlm.nih.gov/6435991/) | 1984 | Review | Drugs | Historical overview establishing Levodopa as the most effective single drug in Parkinson's disease. |
-| [812004](https://pubmed.ncbi.nlm.nih.gov/812004/) | 1975 | Cohort | Neurology | Classic study of on-off response with oral vs. IV Levodopa administration in Parkinsonian patients. |
-| [12429201](https://pubmed.ncbi.nlm.nih.gov/12429201/) | 2002 | Preclinical | Experimental Neurology | Quetiapine attenuates Levodopa-induced motor complications in rodent/primate parkinsonian models. |
-| [35986227](https://pubmed.ncbi.nlm.nih.gov/35986227/) | 2023 | Review | Cerebellum | Diagnostic criteria for multiple system atrophy — relevant to differentiating atypical parkinsonism within the broader "parkinsonian disorder" label. |
+| [25449210](https://pubmed.ncbi.nlm.nih.gov/25449210/) | 2015 | Ulasan | Movement Disorders | Ulasan komprehensif farmakokenetik dan farmakodinamik Levodopa dalam rawatan PD. |
+| [41219370](https://pubmed.ncbi.nlm.nih.gov/41219370/) | 2025 | Kohort | Scientific Reports | Kajian selepas kematian (n=63) mengenai pendedahan Levodopa dan neuroinflammation nigral di seluruh PD, MSA, dan PSP. |
+| [30361296](https://pubmed.ncbi.nlm.nih.gov/30361296/) | 2019 | Kohort | J Neurol Neurosurg Psychiatry | Percubaan REIN-PD: perubahan kelakuan/trait dalam pesakit PD yang ditukar daripada agonis dopamin kepada Levodopa. |
+| [11723148](https://pubmed.ncbi.nlm.nih.gov/11723148/) | 2001 | Kohort | J Gerontol A Biol Sci Med Sci | Kesan terapi Levodopa pada hipotensi ortostik dan pascaprandial dalam pesakit Parkinsonian warga tua. |
+| [31272925](https://pubmed.ncbi.nlm.nih.gov/31272925/) | 2019 | Ulasan | Parkinsonism & Related Disorders | Diagnosa pembezaan parkinsonism remaja, genetik, dan subtipe responsif Levodopa. |
+| [28229895](https://pubmed.ncbi.nlm.nih.gov/28229895/) | 2017 | Ulasan | The Lancet Neurology | Kemas kini gangguan kawalan impuls dan diskinesia yang disebabkan Levodopa dalam PD. |
+| [6435991](https://pubmed.ncbi.nlm.nih.gov/6435991/) | 1984 | Ulasan | Drugs | Gambaran sejarah menubuhkan Levodopa sebagai ubat tunggal paling berkesan dalam penyakit Parkinson. |
+| [812004](https://pubmed.ncbi.nlm.nih.gov/812004/) | 1975 | Kohort | Neurology | Kajian klasik respons hidup-mati dengan pentadbiran Levodopa oral vs. intravena dalam pesakit Parkinsonian. |
+| [12429201](https://pubmed.ncbi.nlm.nih.gov/12429201/) | 2002 | Praklinikal | Experimental Neurology | Quetiapine mengurangkan komplikasi motor yang disebabkan Levodopa dalam model parkinsonism tikus/primat. |
+| [35986227](https://pubmed.ncbi.nlm.nih.gov/35986227/) | 2023 | Ulasan | Cerebellum | Kriteria diagnostik untuk atrofi sistem berganda — relevan untuk membezakan parkinsonism atipik dalam label "gangguan parkinsonism" yang lebih luas. |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-NPRA records show Levodopa has **15 active marketing authorizations** in Malaysia (market status: Marketed). However, the license-level fields returned for this query — authorization number, product name, dosage form, and approved indication text — were all empty in the current data pull, so an item-level authorization table cannot be presented. This should be treated as an open data gap requiring a fresh NPRA query before regulatory sign-off.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-*(All safety fields in this evidence pack — key warnings, contraindications, and drug–drug interactions — were returned as data gaps or empty; DG001 flags this as a Blocking gap for the S1 safety pre-screen.)*
+Rekod NPRA menunjukkan Levodopa mempunyai **15 pengesahan pemasaran aktif** di Malaysia (status pasaran: Dipasarkan). Walau bagaimanapun, medan peringkat lesen yang dipulangkan untuk pertanyaan ini — nombor pengesahan, nama produk, bentuk dos, dan teks petunjuk yang diluluskan — semuanya kosong dalam tarikan data semasa, jadi jadual pengesahan peringkat item tidak dapat dipersembahkan. Ini harus dianggap sebagai jurang data terbuka yang memerlukan pertanyaan NPRA segar sebelum persetujuan kawal selia.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Proceed with Guardrails**
+Sila rujuk sisinan pakej untuk maklumat keselamatan.
 
-**Rationale:**
-The mechanistic rationale is strong for the core idiopathic-PD subset of "parkinsonian disorder," and the evidence level is L1 (multiple completed Phase 3 RCTs in Levodopa-treated Parkinsonian populations), consistent with the source scoring. However, the predicted indication is a broader diagnostic umbrella that includes atypical parkinsonism subtypes (MSA, vascular parkinsonism, PSP) with clinically recognized poor Levodopa response, and the drug-level safety/MOA data needed for a full S1 safety screen is currently missing (DG001, blocking; DG002, high).
+*(Semua medan keselamatan dalam pakej bukti ini — amaran utama, kontraindikasi, dan interaksi ubat-ubat — dipulangkan sebagai jurang data atau kosong; DG001 menandai ini sebagai jurang Pemblokiran untuk skrin pra-keselamatan S1.)*
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert warnings and contraindications (DG001 — blocking for S1 safety screen)
-- Confirmed Levodopa mechanism-of-action record via DrugBank API (DG002)
-- Complete NPRA license-level detail (authorization numbers, product names, approved indication text) for the 15 registered products
-- Subtype-stratified evidence review to separate idiopathic-PD response data from atypical-parkinsonism response data before applying this prediction across the full "parkinsonian disorder" umbrella
-- Clarification/re-pull of the TxGNN score field, which returned 0.0 for all five candidates in this dataset and should not currently be relied on as a confidence metric
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Teruskan dengan Pagar Keselamatan**
+
+**Rasional:**
+Rasional mekanistik adalah kuat untuk subset idiopatik-PD teras "gangguan parkinsonism," dan paras bukti ialah L1 (pelbagai RCT Fasa 3 yang selesai dalam populasi Parkinsonian yang dirawat Levodopa), konsisten dengan pemarkahan sumber. Walau bagaimanapun, petunjuk yang diramalkan adalah payung diagnostik yang lebih luas yang merangkumi subtipe parkinsonism atipik (MSA, parkinsonism vaskular, PSP) dengan respons Levodopa yang buruk secara klinikal diiktiraf, dan data keselamatan/MOA peringkat ubat yang diperlukan untuk skrin keselamatan S1 penuh kini hilang (DG001, memblokir; DG002, tinggi).
+
+**Untuk meneruskan, berikut diperlukan:**
+- Amaran dan kontraindikasi sisinan pakej TFDA/NPRA (DG001 — memblokir untuk skrin keselamatan S1)
+- Rekod mekanisme aksi Levodopa yang disahkan melalui API DrugBank (DG002)
+- Butiran peringkat lesen NPRA yang lengkap (nombor pengesahan, nama produk, teks petunjuk yang diluluskan) untuk 15 produk berdaftar
+- Tinjauan bukti bertingkat-subtipe untuk memisahkan data respons idiopatik-PD daripada data respons parkinsonism atipik sebelum menggunakan ramalan ini di seluruh payung "gangguan parkinsonism" penuh
+- Penjelasan/tarikan semula medan skor TxGNN, yang dipulangkan 0.0 untuk kesemua lima calon dalam dataset ini dan tidak seharusnya dipercayai sebagai metrik keyakinan pada masa kini
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

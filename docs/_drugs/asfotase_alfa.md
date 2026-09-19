@@ -29,76 +29,77 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Asfotase alfa: From Hypophosphatasia to Mitochondrial Oxidative Phosphorylation Disorder Due to Nuclear DNA Anomalies
+# Asfotase alfa: Daripada Hipofospatasia kepada Gangguan Fosforilasi Oksidatif Mitokondria Disebabkan Anomali DNA Nuklear
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Asfotase alfa (Strensiq) is a first-in-class bone-targeted enzyme replacement therapy (ERT) for hypophosphatasia (HPP), a rare inherited metabolic disorder caused by deficient tissue-nonspecific alkaline phosphatase (TNSALP) activity — an established indication independently validated by the TxGNN model at rank 3 with Level 1 evidence.
-The model's top-ranked novel prediction suggests it may be relevant for **mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies**,
-with **0 clinical trials** and **0 publications** currently supporting this direction.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Hypophosphatasia (HPP) — Malaysian regulatory indication text not captured; established global approved indication |
-| Predicted New Indication | Mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies |
-| TxGNN Prediction Score | 99.95% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
-| Recommended Decision | Hold |
+Asfotase alfa (Strensiq) ialah terapi penggantian enzim berorientasikan tulang yang pertama dalam kelasnya (ERT) untuk hipofospatasia (HPP), suatu gangguan metabolik warisan yang jarang disebabkan oleh aktiviti alkalin fosfatase bukan-spesifik tisu (TNSALP) yang tidak mencukupi — suatu petunjuk yang telah terbukti yang disahkan secara independen oleh model TxGNN pada pangkat 3 dengan bukti Tahap 1.
+Ramalan novel bertaraf teratas model menunjukkan ia mungkin relevan untuk **gangguan fosforilasi oksidatif mitokondria yang disebabkan oleh anomali DNA nuklear**,
+dengan **0 percubaan klinikal** dan **0 penerbitan** yang kini menyokong arah ini.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Tinjauan Pantas
 
-Detailed mechanism of action data is not available in the current evidence pack. Based on known clinical information, asfotase alfa is a recombinant human TNSALP fusion protein incorporating a bone-targeting deca-aspartate domain that directs the enzyme to the skeletal compartment. Its established mechanism involves subcutaneous delivery of functional TNSALP, which hydrolyzes extracellular inorganic pyrophosphate (PPi) — a potent inhibitor of hydroxyapatite crystal deposition — and pyridoxal 5'-phosphate (PLP), restoring normal skeletal mineralization in patients with loss-of-function ALPL gene mutations.
-
-The proposed link to mitochondrial oxidative phosphorylation (OxPhos) disorder is **highly speculative, with no direct mechanistic basis.** OxPhos disorders arise from mutations in nuclear genes encoding mitochondrial electron transport chain (ETC) complex subunits or assembly factors — a pathophysiology fundamentally distinct from ALPL gene mutation and TNSALP deficiency. Although alkaline phosphatase participates in extracellular purine metabolism (e.g., hydrolysis of ATP to AMP), there is currently no published evidence that exogenous TNSALP supplementation can correct ETC complex dysfunction, improve mitochondrial energy production, or modulate nuclear DNA-associated OxPhos pathways.
-
-This rank 1 prediction most likely reflects knowledge graph (KG) topology: both conditions are rare, severe, inherited systemic metabolic disorders sharing phenotypic nodes (e.g., muscular hypotonia, developmental delay, multisystem involvement), which can produce high prediction scores without true mechanistic plausibility. Importantly, the TxGNN model correctly and independently identified hypophosphatasia as a high-confidence target (rank 3, score 99.89%, evidence level L1) — demonstrating the model's capacity to capture genuine drug-disease biology. The rank 1 OxPhos prediction, however, remains a purely exploratory computational hypothesis that would require substantial mechanistic research before any translational or clinical consideration is warranted.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies.
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Hipofospatasia (HPP) — teks petunjuk terkawal Malaysia tidak ditangkap; petunjuk yang diluluskan global yang telah ditetapkan |
+| Petunjuk Baharu yang Diramalkan | Gangguan fosforilasi oksidatif mitokondria yang disebabkan oleh anomali DNA nuklear |
+| Skor Ramalan TxGNN | 99.95% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 2 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available for mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies.
+Data mekanisme tindakan terperinci tidak tersedia dalam pakej bukti semasa. Berdasarkan maklumat klinikal yang diketahui, asfotase alfa ialah protein fusion TNSALP manusia rekombinan yang menggabungkan domain penargetan tulang deca-aspartat yang mengarahkan enzim ke kompartmen rangka. Mekanismenya yang telah ditetapkan melibatkan penghantaran subkutan TNSALP berfungsi, yang menghidrolisa pirofosfat anorganik ekstrasel (PPi) — penghambat kuat pemendapan kristal hidroksiapatit — dan piridoksal 5'-fosfat (PLP), memulihkan mineralisasi rangka normal pada pesakit dengan mutasi gen ALPL kehilangan fungsi.
 
----
+Pautan yang dicadangkan kepada gangguan fosforilasi oksidatif mitokondria (OxPhos) adalah **sangat spekulatif, tanpa asas mekanistik langsung.** Gangguan OxPhos timbul daripada mutasi dalam gen nuklear yang mengkod subunit rantai pengangkutan elektron mitokondria (ETC) atau faktor pemasangan — patofisiologi yang berbeza asasnya daripada mutasi gen ALPL dan kekurangan TNSALP. Walaupun alkalin fosfatase menyertai metabolisme purin ekstrasel (contohnya, hidrolisis ATP kepada AMP), pada masa ini tiada bukti yang diterbitkan bahawa pelengkapan TNSALP eksogen dapat membetulkan disfungsi ETC kompleks, meningkatkan pengeluaran tenaga mitokondria, atau memodulasi laluan OxPhos yang berkaitan dengan DNA nuklear.
 
-## Malaysia Market Information
-
-Asfotase alfa holds 2 registrations in Malaysia (market status: Marketed). Detailed registration records — including authorization numbers, product names, dosage forms, and approved indication texts — were not captured in the current dataset. Please refer to the National Pharmaceutical Regulatory Agency (NPRA) of Malaysia for complete product registration details.
+Ramalan pangkat 1 ini kemungkinan besar mencerminkan topologi graf pengetahuan (KG): kedua-dua keadaan adalah gangguan metabolik warisan sistemik yang jarang dan teruk berkongsi nod fenotip (contohnya, hipotonia otot, kelewatan perkembangan, penglibatan multisistem), yang dapat menghasilkan skor ramalan tinggi tanpa keselarasan mekanistik sebenar. Penting, model TxGNN dengan betul dan secara independen mengenal pasti hipofospatasia sebagai sasaran keyakinan tinggi (pangkat 3, skor 99.89%, tahap bukti L1) — menunjukkan kapasiti model untuk menangkap biologi ubat-penyakit yang tulin. Ramalan OxPhos pangkat 1, bagaimanapun, kekal hipotesis pengiraan penerokaan semata yang memerlukan penyelidikan mekanistik besar sebelum sebarang pertimbangan translasional atau klinikal dijamin.
 
 ---
 
-## Safety Considerations
+## Bukti Percubaan Klinikal
 
-Please refer to the package insert for safety information.
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan untuk gangguan fosforilasi oksidatif mitokondria yang disebabkan oleh anomali DNA nuklear.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Kesusasteraan
 
-**Decision: Hold**
+Pada masa ini tiada kesusasteraan berkaitan tersedia untuk gangguan fosforilasi oksidatif mitokondria yang disebabkan oleh anomali DNA nuklear.
 
-**Rationale:**
-Despite a high TxGNN prediction score (99.95%), there is no mechanistic basis, clinical trial data, or published literature connecting asfotase alfa to mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies (Evidence Level L5). The prediction is categorized as highly speculative — most likely driven by phenotypic overlap and topological proximity of rare metabolic diseases in the knowledge graph, rather than shared biological mechanism.
+---
 
-**To proceed, the following is needed:**
-- **Basic science investigation:** Determine whether TNSALP, PPi, or PLP modulate mitochondrial function or OxPhos pathway components in any experimental system
-- **Preclinical proof-of-concept:** In vitro and in vivo studies using established OxPhos disease models (e.g., ETC complex I/IV knockout cells) treated with recombinant TNSALP
-- **Regulatory data completion:** Obtain full NPRA registration records including product names, dosage forms, and Malaysian-approved indication texts
-- **Safety data retrieval:** Download and parse package insert for contraindications, key warnings, and drug-drug interaction profile from the NPRA website
+## Maklumat Pasaran Malaysia
+
+Asfotase alfa memegang 2 pendaftaran di Malaysia (status pasaran: Dipasarkan). Rekod pendaftaran terperinci — termasuk nombor kebenaran, nama produk, bentuk dos, dan teks petunjuk yang diluluskan — tidak ditangkap dalam set data semasa. Sila rujuk Agensi Kawal Selia Farmaseutikal Kebangsaan (NPRA) Malaysia untuk butiran pendaftaran produk yang lengkap.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk risalah pembungkusan untuk maklumat keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Berikutnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Walaupun skor ramalan TxGNN tinggi (99.95%), tiada asas mekanistik, data percubaan klinikal, atau kesusasteraan yang diterbitkan menghubungkan asfotase alfa kepada gangguan fosforilasi oksidatif mitokondria yang disebabkan oleh anomali DNA nuklear (Tahap Bukti L5). Ramalan dikategorikan sebagai sangat spekulatif — kemungkinan besar didorong oleh pertindihan fenotip dan kedekatanproksimaliti penyakit metabolik jarang dalam graf pengetahuan, bukannya mekanisme biologi yang dikongsi.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- **Penyiasatan sains asas:** Tentukan sama ada TNSALP, PPi, atau PLP memodulasi fungsi mitokondria atau komponen laluan OxPhos dalam mana-mana sistem eksperimental
+- **Bukti-bukti preklinikal:** Kajian in vitro dan in vivo menggunakan model penyakit OxPhos yang ditetapkan (contohnya, sel ketiadaan kompleks ETC I/IV) yang dirawat dengan TNSALP rekombinan
+- **Pelengkapan data kawal selia:** Peroleh rekod pendaftaran NPRA penuh termasuk nama produk, bentuk dos, dan teks petunjuk yang diluluskan Malaysia
+- **Pengambilan data keselamatan:** Muat turun dan huraikan risalah pembungkusan untuk kontraindikasi, amaran utama, dan profil interaksi ubat-ubat daripada laman web NPRA
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

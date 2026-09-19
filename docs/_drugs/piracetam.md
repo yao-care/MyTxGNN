@@ -29,77 +29,78 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Piracetam: Drug Repurposing Evaluation — TxGNN Prediction Pending
+# Piracetam: Penilaian Penyusunan Semula Ubat — Ramalan TxGNN Ditangguhkan
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Piracetam (DrugBank: DB09210) is a nootropic agent currently holding **9 marketing authorisations** in Malaysia.
-The Evidence Pack contains **no TxGNN repurposing predictions**, and critical drug-level data — including mechanism of action, approved indication text, and safety warnings — remain outstanding data gaps.
-A complete repurposing evaluation **cannot be performed** until these gaps are resolved.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Not available in current data |
-| Predicted New Indication | None (TxGNN prediction not yet generated) |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | N/A — no prediction data available |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 9 |
-| Recommended Decision | **Hold** |
+Piracetam (DrugBank: DB09210) ialah agen nootropik yang kini memegang **9 kelulusan pemasaran** di Malaysia.
+Pakej Bukti mengandungi **tiada ramalan penyusunan semula TxGNN**, dan data peringkat ubat yang kritikal — termasuk mekanisme kerja, teks petunjuk yang diluluskan, dan amaran keselamatan — tetap menjadi jurang data yang tertunggak.
+Penilaian penyusunan semula yang lengkap **tidak dapat dilakukan** sehingga jurang-jurang ini diselesaikan.
 
 ---
 
-## Why No Prediction is Currently Available
+## Gambaran Keseluruhan Cepat
 
-The `predicted_indications` field in this Evidence Pack is empty, meaning the TxGNN knowledge-graph and deep-learning pipeline has not yet produced a candidate new indication for Piracetam. Without a target indication, the core mechanistic reasoning, clinical trial review, and literature analysis that form the backbone of a repurposing report cannot be conducted.
-
-Additionally, detailed mechanism of action (MOA) data is flagged as a high-severity data gap (DG002). Without understanding how Piracetam acts at the molecular level, it would not be possible to evaluate whether any predicted indication is pharmacologically plausible.
-
-Once TxGNN predictions are generated and MOA data is retrieved from DrugBank, this section will be replaced with a full mechanistic rationale linking the original and new indications.
-
----
-
-## Malaysia Market Information
-
-Nine marketing authorisations were confirmed via NPRA query on 2026-03-27. However, the individual licence records — including product name, dosage form, and approved indication text — are not populated in this version of the Evidence Pack.
-
-| Status | Detail |
-|--------|--------|
-| Confirmed licences | 9 (source: NPRA, queried 2026-03-27) |
-| Product names | Not retrieved |
-| Dosage forms | Not retrieved |
-| Approved indication text | Not retrieved |
-
-> **Action required:** Retrieve full licence records from the NPRA portal to populate product-level details before proceeding.
+| Item | Kandungan |
+|------|-----------|
+| Petunjuk Asal | Tidak tersedia dalam data semasa |
+| Petunjuk Baharu yang Diramalkan | Tiada (ramalan TxGNN belum dijana) |
+| Skor Ramalan TxGNN | T/A |
+| Tahap Bukti | T/A — tiada data ramalan tersedia |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 9 |
+| Keputusan yang Dicadangkan | **Tangguh** |
 
 ---
 
-## Safety Considerations
+## Mengapa Tiada Ramalan Kini Tersedia
 
-Please refer to the package insert for safety information. Key warnings and contraindications have not yet been retrieved from the package insert PDF (data gap DG001, severity: Blocking). No drug–drug interactions were found in the current query (DDI count: 0), but this result should be interpreted cautiously until the full package insert is reviewed.
+Medan `predicted_indications` dalam Pakej Bukti ini adalah kosong, bermakna saluran pemprosesan pengetahuan graf TxGNN dan pembelajaran dalam telah menghasilkan tiada petunjuk baharu calon untuk Piracetam. Tanpa petunjuk sasaran, penalaran mekanistik teras, semakan ujian klinikal, dan analisis kesusasteraan yang membentuk tulang belakang laporan penyusunan semula tidak dapat dijalankan.
+
+Selain itu, data mekanisme kerja yang terperinci (MOA) ditandai sebagai jurang data berseveriti tinggi (DG002). Tanpa memahami cara Piracetam bertindak di peringkat molekul, tidak mungkin untuk menilai sama ada sebarang petunjuk yang diramalkan adalah munasabah dari segi farmakologi.
+
+Setelah ramalan TxGNN dijana dan data MOA diambil daripada DrugBank, bahagian ini akan digantikan dengan nisbah mekanistik penuh yang menghubungkan petunjuk asal dan baharu.
 
 ---
 
-## Conclusion and Next Steps
+## Maklumat Pasaran Malaysia
 
-**Decision: Hold**
+Sembilan kelulusan pemasaran telah disahkan melalui pertanyaan NPRA pada 2026-03-27. Walau bagaimanapun, rekod lesen individu — termasuk nama produk, bentuk dos, dan teks petunjuk yang diluluskan — tidak diisi dalam versi Pakej Bukti ini.
 
-**Rationale:**
-The two prerequisites for a repurposing evaluation — a TxGNN-predicted target indication and basic drug-level safety/MOA data — are both absent. Proceeding without them would produce an analysis with no evidential or mechanistic foundation.
+| Status | Perincian |
+|--------|-----------|
+| Lesen yang disahkan | 9 (sumber: NPRA, ditanya 2026-03-27) |
+| Nama produk | Tidak diambil |
+| Bentuk dos | Tidak diambil |
+| Teks petunjuk yang diluluskan | Tidak diambil |
 
-**To proceed, the following is needed:**
+> **Tindakan diperlukan:** Ambil rekod lesen penuh daripada portal NPRA untuk mengisi perincian peringkat produk sebelum meneruskan.
 
-1. **Run TxGNN prediction pipeline** for Piracetam (KG + DL methods) to generate repurposing candidates with confidence scores
-2. **Retrieve MOA from DrugBank API** (DG002 — High severity): query DrugBank for mechanism of action, pharmacodynamics, and drug targets
-3. **Download and parse the TFDA/NPRA package insert PDF** (DG001 — Blocking severity): extract key warnings, contraindications, and special population guidance
-4. **Retrieve full NPRA licence records**: product names, dosage forms, manufacturers, and approved indication text for all 9 authorisations
-5. **Re-run Evidence Pack generation** (v5 or later) with the above data, then regenerate this report
+---
 
-> ⚠️ *This report is for research reference only and does not constitute medical advice. Any drug repurposing candidate requires clinical validation before application.*
+## Pertimbangan Keselamatan
+
+Sila rujuk risalah pakej untuk maklumat keselamatan. Amaran utama dan kontraindikasi belum diambil daripada PDF risalah pakej (jurang data DG001, keterukan: Halangan). Tiada interaksi ubat–ubat ditemui dalam pertanyaan semasa (kiraan DDI: 0), tetapi hasil ini harus ditafsirkan dengan berhati-hati sehingga risalah pakej penuh disemak.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tangguh**
+
+**Alasan:**
+Dua prasyarat untuk penilaian penyusunan semula — petunjuk sasaran yang diramalkan TxGNN dan data keselamatan/MOA ubat asas — kedua-duanya tidak hadir. Meneruskan tanpanya akan menghasilkan analisis tanpa asas bukti atau mekanistik.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+
+1. **Jalankan saluran pemprosesan ramalan TxGNN** untuk Piracetam (kaedah KG + DL) untuk menjana calon penyusunan semula dengan skor keyakinan
+2. **Ambil MOA daripada API DrugBank** (DG002 — Keterukan Tinggi): pertanyaan DrugBank untuk mekanisme kerja, farmakoinamik, dan sasaran ubat
+3. **Muat turun dan urai PDF risalah pakej TFDA/NPRA** (DG001 — Keterukan Halangan): ekstrak amaran utama, kontraindikasi, dan panduan penduduk khas
+4. **Ambil rekod lesen NPRA penuh**: nama produk, bentuk dos, pengilang, dan teks petunjuk yang diluluskan untuk semua 9 kelulusan
+5. **Jalankan semula penjanaan Pakej Bukti** (v5 atau lebih baru) dengan data di atas, kemudian janakan semula laporan ini
+
+> ⚠️ *Laporan ini adalah untuk rujukan penyelidikan sahaja dan tidak membentuk nasihat perubatan. Sebarang calon penyusunan semula ubat memerlukan pengesahan klinikal sebelum aplikasi.*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

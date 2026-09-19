@@ -29,78 +29,79 @@ Tahap bukti: **L1** | Indikasi diramal: **2**
 
 </div>
 
-# Tazobactam: From Combination Antibacterial Therapy to Pneumonia
+# Tazobactam: Dari Terapi Antibakteria Kombinasi hingga Pneumonia
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Tazobactam is a beta-lactamase inhibitor with no standalone antibacterial activity; it is marketed only in fixed combinations with partner beta-lactams (e.g., piperacillin, ceftolozane) to restore activity against beta-lactamase–producing pathogens. The TxGNN model flags **Pneumonia** as a high-scoring association, supported by **50 clinical trials** and **20 publications** — though most of this evidence reflects pneumonia's status as an *already-established* indication for tazobactam-containing combinations rather than a genuinely novel repurposing signal.
+Tazobactam adalah penghambat beta-laktamase tanpa aktiviti antibakteria mandiri; ia dipasarkan hanya dalam kombinasi tetap dengan mitra beta-laktam (cth., piperacillin, ceftolozane) untuk mengembalikan aktiviti terhadap patogen penghasil beta-laktamase. Model TxGNN menandai **Pneumonia** sebagai asosiasi berskor tinggi, disokong oleh **50 ujian klinikal** dan **20 publikasi** — meskipun sebagian besar bukti ini mencerminkan status pneumonia sebagai indikasi *yang sudah terbina* untuk kombinasi yang mengandungi tazobactam daripada isyarat penyusunan semula yang benar-benar novel.
 
-## Quick Overview
+## Ikhtisar Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | No standalone indication — tazobactam is a beta-lactamase inhibitor sold only as fixed combinations (e.g., piperacillin/tazobactam, ceftolozane/tazobactam); Malaysia-specific licensed indication text is not available in this data pull |
-| Predicted New Indication | Pneumonia |
-| TxGNN Prediction Score | 99.46% |
-| Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 9 |
-| Recommended Decision | Proceed with Guardrails |
+| Item | Kandungan |
+|------|---------|
+| Indikasi Asal | Tiada indikasi mandiri — tazobactam adalah penghambat beta-laktamase yang dijual hanya sebagai kombinasi tetap (cth., piperacillin/tazobactam, ceftolozane/tazobactam); teks indikasi berlesen khusus Malaysia tidak tersedia dalam senaraian data ini |
+| Indikasi Baru Yang Diramal | Pneumonia |
+| Skor Ramalan TxGNN | 99.46% |
+| Tahap Bukti | L1 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 9 |
+| Keputusan Yang Disyorkan | Teruskan dengan Penjagaan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed standalone mechanism-of-action data for tazobactam is not available from DrugBank in this evidence pack (data gap DG002). Based on the model's repurposing rationale, tazobactam is a beta-lactamase inhibitor that has no independent bactericidal activity; it irreversibly inhibits bacterial beta-lactamases (including many ESBL variants), thereby protecting a co-administered beta-lactam partner — piperacillin or ceftolozane — from enzymatic hydrolysis and restoring bactericidal activity against beta-lactamase-producing Gram-negative organisms, including *Pseudomonas aeruginosa*.
+Data mekanisme tindakan mandiri terperinci untuk tazobactam tidak tersedia daripada DrugBank dalam pakej bukti ini (jurang data DG002). Berdasarkan rasional penyusunan semula model, tazobactam adalah penghambat beta-laktamase yang tidak mempunyai aktiviti bakterisid bebas; ia menghalang secara tidak boleh balik beta-laktamase bakteria (termasuk banyak varian ESBL), dengan itu melindungi mitra beta-laktam yang ditadbir bersama — piperacillin atau ceftolozane — daripada hidrolisis enzimatik dan mengembalikan aktiviti bakterisid terhadap organisma Gram-negatif penghasil beta-laktamase, termasuk *Pseudomonas aeruginosa*.
 
-Because tazobactam only exists as part of fixed combinations, its relationship to pneumonia is not exploratory: piperacillin/tazobactam and ceftolozane/tazobactam are already labeled for hospital-acquired and ventilator-associated bacterial pneumonia caused by beta-lactamase-producing Enterobacterales and *P. aeruginosa*. The mechanistic link is therefore very strong, but the "prediction" largely reconfirms known pharmacology rather than uncovering a new therapeutic use — this distinction matters for how the evidence should be weighted in a repurposing decision.
+Oleh kerana tazobactam hanya wujud sebagai sebahagian daripada kombinasi tetap, hubungannya dengan Pneumonia bukan penerokaan: piperacillin/tazobactam dan ceftolozane/tazobactam sudah berlabel untuk pneumonia bakteria yang diakibatkan oleh Enterobacterales penghasil beta-laktamase dan *P. aeruginosa* di hospital dan berkaitan ventilator. Pautan mekanistik oleh itu sangat kuat, tetapi "ramalan" sebahagian besarnya mengesahkan semula farmakoloji yang diketahui daripada menemui penggunaan terapeutik baru — perbezaan ini penting bagi cara bukti harus ditimbang dalam keputusan penyusunan semula.
 
-The same caveat applies to the model's second-ranked signal, urinary tract infection (score 99.12%, also L1/Proceed with Guardrails), which is likewise an existing combination-product indication (e.g., ceftolozane/tazobactam in complicated UTI/pyelonephritis).
+Amaran yang sama terpakai kepada isyarat berjenjang kedua model, jangkitan saluran kencing (skor 99.12%, juga L1/Teruskan dengan Penjagaan), yang juga sama merupakan indikasi produk kombinasi sedia ada (cth., ceftolozane/tazobactam dalam jangkitan kencing rumit/pielonefritis).
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Ujian | Fasa | Status | Jumlah Peserta | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT02070757](https://clinicaltrials.gov/study/NCT02070757) | Phase 3 | Completed | 726 | IV ceftolozane/tazobactam vs. meropenem in ventilated nosocomial pneumonia (VABP/HABP); non-inferiority on Day 28 all-cause mortality |
-| [NCT02493764](https://clinicaltrials.gov/study/NCT02493764) | Phase 3 | Completed | 537 | Imipenem/cilastatin/relebactam vs. piperacillin/tazobactam in HABP/VABP; non-inferiority on all-cause mortality |
-| [NCT03583333](https://clinicaltrials.gov/study/NCT03583333) | Phase 3 | Completed | 274 | Multinational trial of imipenem/cilastatin/relebactam vs. piperacillin/tazobactam in HABP/VABP |
-| [NCT00253955](https://clinicaltrials.gov/study/NCT00253955) | Phase 3 | Completed | 460 | Levofloxacin 750mg OD vs. piperacillin/tazobactam 4g/500mg q8h in mild-to-moderate hospital-acquired pneumonia |
-| [NCT02735707](https://clinicaltrials.gov/study/NCT02735707) | Phase 3 | Recruiting | 20,000 | REMAP-CAP adaptive platform trial evaluating multiple interventions (including beta-lactam arms) in community-acquired pneumonia |
-| [NCT04223752](https://clinicaltrials.gov/study/NCT04223752) | Phase 1 | Completed | 41 | Safety, tolerability, and PK of ceftolozane/tazobactam in pediatric nosocomial pneumonia |
-| [NCT06422533](https://clinicaltrials.gov/study/NCT06422533) | N/A | Recruiting | 226 | Ceftolozane/tazobactam vs. piperacillin/tazobactam for bacteremia in hemato-oncology patients with febrile neutropenia |
-| [NCT03581370](https://clinicaltrials.gov/study/NCT03581370) | Phase 3 | Recruiting | 80 | Short vs. prolonged infusion of ceftolozane/tazobactam in ventilator-associated pneumonia due to *P. aeruginosa* |
-| [NCT01796717](https://clinicaltrials.gov/study/NCT01796717) | Phase 2/3 | Unknown | 50 | Dosing optimization (prolonged vs. intermittent infusion) of piperacillin/tazobactam for nosocomial pneumonia with higher-MIC pathogens |
-| [NCT02387372](https://clinicaltrials.gov/study/NCT02387372) | Phase 1 | Completed | 37 | Plasma PK and lung penetration of IV ceftolozane/tazobactam in critically ill patients |
+| [NCT02070757](https://clinicaltrials.gov/study/NCT02070757) | Fasa 3 | Selesai | 726 | Ceftolozane/tazobactam IV vs. meropenem dalam pneumonia nosokomial berventilasi (VABP/HABP); kesetaraan pada kematian semua punca Hari ke-28 |
+| [NCT02493764](https://clinicaltrials.gov/study/NCT02493764) | Fasa 3 | Selesai | 537 | Imipenem/cilastatin/relebactam vs. piperacillin/tazobactam dalam HABP/VABP; kesetaraan pada kematian semua punca |
+| [NCT03583333](https://clinicaltrials.gov/study/NCT03583333) | Fasa 3 | Selesai | 274 | Ujian berbilang negara imipenem/cilastatin/relebactam vs. piperacillin/tazobactam dalam HABP/VABP |
+| [NCT00253955](https://clinicaltrials.gov/study/NCT00253955) | Fasa 3 | Selesai | 460 | Levofloxacin 750mg OD vs. piperacillin/tazobactam 4g/500mg q8h dalam pneumonia berkaitan hospital ringan hingga sederhana |
+| [NCT02735707](https://clinicaltrials.gov/study/NCT02735707) | Fasa 3 | Merekrut | 20,000 | Ujian platform adaptif REMAP-CAP menilai pelbagai campur tangan (termasuk lengan beta-laktam) dalam pneumonia yang didapat komuniti |
+| [NCT04223752](https://clinicaltrials.gov/study/NCT04223752) | Fasa 1 | Selesai | 41 | Keselamatan, kebolehterimaan, dan PK ceftolozane/tazobactam dalam pneumonia nosokomial pediatrik |
+| [NCT06422533](https://clinicaltrials.gov/study/NCT06422533) | N/A | Merekrut | 226 | Ceftolozane/tazobactam vs. piperacillin/tazobactam untuk bakteremia dalam pesakit hemato-onkologi dengan neutropenia demam |
+| [NCT03581370](https://clinicaltrials.gov/study/NCT03581370) | Fasa 3 | Merekrut | 80 | Infusi pendek vs. lanjutan ceftolozane/tazobactam dalam pneumonia berkaitan ventilator yang disebabkan oleh *P. aeruginosa* |
+| [NCT01796717](https://clinicaltrials.gov/study/NCT01796717) | Fasa 2/3 | Tidak diketahui | 50 | Pengoptimuman dos (infusi lanjutan vs. terputus) piperacillin/tazobactam untuk pneumonia nosokomial dengan patogen MIC lebih tinggi |
+| [NCT02387372](https://clinicaltrials.gov/study/NCT02387372) | Fasa 1 | Selesai | 37 | PK plasma dan penetrasi paru IV ceftolozane/tazobactam dalam pesakit genting yang sakit |
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [30208454](https://pubmed.ncbi.nlm.nih.gov/30208454/) | 2018 | RCT | JAMA | Piperacillin-tazobactam vs. meropenem for ceftriaxone-resistant *E. coli*/*K. pneumoniae* bloodstream infection; 30-day mortality outcomes |
-| [31563344](https://pubmed.ncbi.nlm.nih.gov/31563344/) | 2019 | RCT | Lancet Infect Dis | ASPECT-NP: ceftolozane-tazobactam vs. meropenem for Gram-negative nosocomial pneumonia, phase 3 non-inferiority |
-| [39674398](https://pubmed.ncbi.nlm.nih.gov/39674398/) | 2025 | RCT | Int J Infect Dis | Phase 3 non-inferiority trial of imipenem/cilastatin/relebactam vs. piperacillin/tazobactam in HABP/VABP |
-| [32785589](https://pubmed.ncbi.nlm.nih.gov/32785589/) | 2021 | RCT | Clin Infect Dis | RESTORE-IMI 2: imipenem/cilastatin/relebactam vs. piperacillin/tazobactam in HABP/VABP |
-| [38902935](https://pubmed.ncbi.nlm.nih.gov/38902935/) | 2025 | Cohort | Clin Infect Dis | Resistance emergence: ceftazidime-avibactam vs. ceftolozane-tazobactam in MDR *P. aeruginosa* bacteremia/pneumonia |
-| [39701120](https://pubmed.ncbi.nlm.nih.gov/39701120/) | 2025 | Cohort | Lancet Infect Dis | CACTUS study: real-world effectiveness of ceftazidime-avibactam vs. ceftolozane-tazobactam for MDR *P. aeruginosa* |
-| [38971203](https://pubmed.ncbi.nlm.nih.gov/38971203/) | 2024 | Review | Int J Antimicrob Agents | Systematic review of PK/PD for novel beta-lactam/beta-lactamase inhibitor combinations in carbapenem-resistant Gram-negative pneumonia |
-| [32662691](https://pubmed.ncbi.nlm.nih.gov/32662691/) | 2020 | Review | Expert Rev Anti Infect Ther | Review of ceftolozane/tazobactam for hospital-acquired pneumonia |
-| [38823453](https://pubmed.ncbi.nlm.nih.gov/38823453/) | 2024 | Review | Clin Microbiol Infect | Network meta-analysis of empiric antibiotic regimens for non-ventilator HAP |
-| [35488823](https://pubmed.ncbi.nlm.nih.gov/35488823/) | 2022 | Review | Rev Esp Quimioter | Review of ceftolozane-tazobactam pharmacology and use in nosocomial pneumonia |
+| [30208454](https://pubmed.ncbi.nlm.nih.gov/30208454/) | 2018 | RCT | JAMA | Piperacillin-tazobactam vs. meropenem untuk jangkitan aliran darah *E. coli*/*K. pneumoniae* yang tahan ceftriakson; hasil kematian 30 hari |
+| [31563344](https://pubmed.ncbi.nlm.nih.gov/31563344/) | 2019 | RCT | Lancet Infect Dis | ASPECT-NP: ceftolozane-tazobactam vs. meropenem untuk pneumonia nosokomial Gram-negatif, kesetaraan fasa 3 |
+| [39674398](https://pubmed.ncbi.nlm.nih.gov/39674398/) | 2025 | RCT | Int J Infect Dis | Ujian kesetaraan fasa 3 imipenem/cilastatin/relebactam vs. piperacillin/tazobactam dalam HABP/VABP |
+| [32785589](https://pubmed.ncbi.nlm.nih.gov/32785589/) | 2021 | RCT | Clin Infect Dis | RESTORE-IMI 2: imipenem/cilastatin/relebactam vs. piperacillin/tazobactam dalam HABP/VABP |
+| [38902935](https://pubmed.ncbi.nlm.nih.gov/38902935/) | 2025 | Kohort | Clin Infect Dis | Kemunculan rintangan: ceftazidime-avibactam vs. ceftolozane-tazobactam dalam bakteremia/*P. aeruginosa* MDR/pneumonia |
+| [39701120](https://pubmed.ncbi.nlm.nih.gov/39701120/) | 2025 | Kohort | Lancet Infect Dis | Kajian CACTUS: keberkesanan dunia sebenar ceftazidime-avibactam vs. ceftolozane-tazobactam untuk *P. aeruginosa* MDR |
+| [38971203](https://pubmed.ncbi.nlm.nih.gov/38971203/) | 2024 | Ulasan | Int J Antimicrob Agents | Ulasan sistematik PK/PD untuk kombinasi beta-laktam/penghambat beta-laktamase novel dalam pneumonia Gram-negatif tahan karbapenem |
+| [32662691](https://pubmed.ncbi.nlm.nih.gov/32662691/) | 2020 | Ulasan | Expert Rev Anti Infect Ther | Ulasan ceftolozane/tazobactam untuk pneumonia yang diakibatkan hospital |
+| [38823453](https://pubmed.ncbi.nlm.nih.gov/38823453/) | 2024 | Ulasan | Clin Microbiol Infect | Meta-analisis rangkaian rejimen antibiotik empirikal untuk HAP bukan ventilator |
+| [35488823](https://pubmed.ncbi.nlm.nih.gov/35488823/) | 2022 | Ulasan | Rev Esp Quimioter | Ulasan farmakoloji ceftolozane-tazobactam dan penggunaan dalam pneumonia nosokomial |
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information. (No warnings, contraindications, or drug-interaction data were retrievable in this pull — flagged as blocking data gap DG001 for TFDA/NPRA label warnings/contraindications, and the DDI query returned no results.)
+Sila rujuk sisipan pakej untuk maklumat keselamatan. (Tiada amaran, kontraindikasi, atau data interaksi ubat dapat diambil dalam senaraian ini — ditanda sebagai jurang data penyekat DG001 untuk amaran/kontraindikasi label TFDA/NPRA, dan pertanyaan DDI tidak menghasilkan hasil.)
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Proceed with Guardrails**
+**Keputusan: Teruskan dengan Penjagaan**
 
-**Rationale:**
-Evidence strength is high (L1: multiple completed Phase 3 RCTs), but this largely confirms an existing indication for tazobactam-containing combinations rather than a novel repurposing hypothesis, and safety-critical data (label warnings, contraindications, DDI, standalone MOA) needed for an S1 safety evaluation are currently missing.
+**Rasional:**
+Kekuatan bukti tinggi (L1: pelbagai RCT Fasa 3 selesai), tetapi ini sebahagian besarnya mengesahkan indikasi sedia ada untuk kombinasi yang mengandungi tazobactam daripada hipotesis penyusunan semula novel, dan data kritikal keselamatan (amaran label, kontraindikasi, DDI, MOA mandiri) yang diperlukan untuk penilaian keselamatan S1 belum tersedia.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA product label (warnings, contraindications) — currently blocking (DG001)
-- DrugBank mechanism-of-action record for tazobactam — high priority (DG002)
-- Malaysia-specific license/product data (registration numbers, dosage forms, approved indication text per product) — not populated in current pull
-- Clarification of which specific combination product(s) (piperacillin/tazobactam vs. ceftolozane/tazobactam) the pneumonia indication would apply to, since safety and spectrum differ between them
+**Untuk meneruskan, yang berikut diperlukan:**
+- Label produk TFDA/NPRA (amaran, kontraindikasi) — sedang menyekat (DG001)
+- Rekod mekanisme tindakan DrugBank untuk tazobactam — prioriti tinggi (DG002)
+- Data lesen/produk khusus Malaysia (nombor pendaftaran, bentuk dos, teks indikasi yang diluluskan setiap produk) — tidak dipenuhi dalam senaraian semasa
+- Penjelasan produk kombinasi khusus (piperacillin/tazobactam vs. ceftolozane/tazobactam) yang mana indikasi Pneumonia akan terpakai, kerana keselamatan dan spektrum berbeza antara keduanya
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

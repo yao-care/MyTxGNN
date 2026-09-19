@@ -29,77 +29,78 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Candesartan Cilexetil: From Hypertension to Malignant Renovascular Hypertension
+# Candesartan Cilexetil: Dari Hipertensi kepada Hipertensi Renovaskular Ganas
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Candesartan cilexetil is an angiotensin II receptor blocker (ARB) prodrug, a drug class established for the treatment of hypertension. The TxGNN model predicts it may be effective for **Malignant Renovascular Hypertension**, but this direction is currently supported **only by the model's mechanistic score** — no clinical trials or literature specific to this indication have been identified, and a blocking data gap (missing TFDA/NPRA product label) prevents safety evaluation at this stage.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Hypertension *(general ARB drug-class indication; specific NPRA-approved label text is not available in this evidence pack — see Safety Considerations)* |
-| Predicted New Indication | Malignant Renovascular Hypertension |
-| TxGNN Prediction Score | 99.68% |
-| Evidence Level | L5 (model prediction only — no clinical trials or literature identified for this indication) |
-| Malaysia Market Status | ✓ Marketed (13 registrations) |
-| Number of Registrations | 13 |
-| Recommended Decision | Hold |
+Candesartan cilexetil adalah prodrug penghambat reseptor angiotensin II (ARB), kelas obat yang telah mapan untuk pengobatan hipertensi. Model TxGNN meramalkan obat ini mungkin efektif untuk **Hipertensi Renovaskular Ganas**, tetapi arah ini kini didukung **hanya oleh skor mekanik model** — tidak ada uji klinis atau literatur khusus untuk indikasi ini telah diidentifikasi, dan celah data yang menghalangi (label produk TFDA/NPRA yang hilang) mencegah evaluasi keselamatan pada tahap ini.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Cepat
 
-Detailed mechanism-of-action data from DrugBank is not available in this evidence pack (Data Gap DG002, High severity). Based on general pharmacological knowledge, candesartan cilexetil is an ester prodrug that is hydrolyzed to active candesartan, a selective angiotensin II type 1 (AT1) receptor antagonist. By blocking AT1 receptors, it inhibits renin-angiotensin-aldosterone system (RAAS)-mediated vasoconstriction and aldosterone secretion, and this mechanism underlies its established use for hypertension.
-
-Malignant renovascular hypertension is pathophysiologically driven by excessive renin secretion secondary to renal artery stenosis, which in turn hyperactivates the RAAS pathway. Since ARBs directly interrupt this pathway, there is a plausible mechanistic rationale for candesartan's activity in renovascular hypertension in general, and ARBs already have an established clinical role in non-malignant renovascular hypertension.
-
-However, the "malignant" subtype represents a hypertensive emergency, frequently accompanied by acute target-organ damage (retinopathy, acute kidney injury). Emergency management typically relies on intravenous antihypertensives rather than oral ARBs as first-line therapy, and in patients with bilateral renal artery stenosis, ARB use carries a recognized risk of precipitating acute renal function deterioration. Renal function and renal artery status should therefore be carefully assessed before candesartan is considered for long-term use in this population. This mechanistic plausibility, combined with the complete absence of direct clinical or literature evidence, is why the evidence level is rated L5 rather than higher.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Item | Konten |
+|------|--------|
+| Indikasi Asli | Hipertensi *(indikasi kelas ARB umum; teks label NPRA yang disetujui khusus tidak tersedia dalam paket bukti ini — lihat Pertimbangan Keselamatan)* |
+| Indikasi Baru yang Diprediksi | Hipertensi Renovaskular Ganas |
+| Skor Prediksi TxGNN | 99.68% |
+| Tingkat Bukti | L5 (prediksi model saja — tidak ada uji klinis atau literatur yang diidentifikasi untuk indikasi ini) |
+| Status Pasaran Malaysia | ✓ Dipasarkan (13 pendaftaran) |
+| Jumlah Pendaftaran | 13 |
+| Keputusan yang Direkomendasikan | Tunggu |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Masuk Akal?
 
-Currently no related literature available.
+Data mekanisme aksi terperinci dari DrugBank tidak tersedia dalam paket bukti ini (Celah Data DG002, keseriusan Tinggi). Berdasarkan pengetahuan farmakologi umum, candesartan cilexetil adalah prodrug ester yang dihidrolisis menjadi candesartan aktif, antagonis reseptor angiotensin II tipe 1 (AT1) yang selektif. Dengan memblokir reseptor AT1, obat ini menghambat vasokonstriksi yang dimediasi sistem renin-angiotensin-aldosteron (RAAS) dan sekresi aldosteron, dan mekanisme ini mendasari penggunaan mapannya untuk hipertensi.
 
----
+Hipertensi renovaskular ganas secara patofisiologis didorong oleh sekresi renin berlebihan sekunder terhadap stenosis arteri ginjal, yang pada gilirannya mengaktifkan berlebihan jalur RAAS. Karena ARB secara langsung menghentikan jalur ini, ada rasio mekanik yang masuk akal untuk aktivitas candesartan dalam hipertensi renovaskular secara umum, dan ARB sudah memiliki peran klinis yang mapan dalam hipertensi renovaskular non-ganas.
 
-## Malaysia Market Information
-
-NPRA registration records indicate **13 active licenses** for candesartan cilexetil in Malaysia, confirming the drug is currently marketed. However, this evidence pack does not include the underlying license details (authorization numbers, product names, dosage forms, or approved indication text) — all corresponding fields were returned empty by the data source. This is a data gap requiring direct retrieval from the NPRA product registry before license-level detail can be reported.
+Namun, subtipe "ganas" mewakili keadaan darurat hipertensi, sering disertai kerusakan organ target akut (retinopati, cedera ginjal akut). Manajemen darurat biasanya mengandalkan antihipertensi intravena daripada ARB oral sebagai terapi lini pertama, dan pada pasien dengan stenosis bilateral arteri ginjal, penggunaan ARB membawa risiko yang diakui untuk mempercepat penurunan fungsi ginjal akut. Fungsi ginjal dan status arteri ginjal harus dievaluasi dengan hati-hati sebelum candesartan dipertimbangkan untuk penggunaan jangka panjang dalam populasi ini. Kelayakan mekanik ini, dikombinasikan dengan ketiadaan bukti klinis atau literatur langsung, adalah alasan mengapa tingkat bukti dinilai L5 daripada lebih tinggi.
 
 ---
 
-## Safety Considerations
+## Bukti Uji Klinis
 
-Please refer to the package insert for safety information.
-
-*(Note: retrieval of the TFDA/NPRA product label — including warnings, contraindications, and drug interaction data — is recorded as a **Blocking** data gap (DG001) in this evidence pack. This gap by itself prevents the candidate from entering the S1 safety initial-evaluation stage.)*
+Saat ini tidak ada uji klinis terkait yang terdaftar.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Hold**
+Saat ini tidak ada literatur terkait yang tersedia.
 
-**Rationale:**
-Malignant renovascular hypertension has a plausible RAAS-blockade mechanistic rationale but is supported by no clinical trials and no literature in the current evidence pack, placing it at evidence level L5. This alone would limit the candidate to a research question. More critically, the missing TFDA/NPRA product label (Data Gap DG001, Blocking) prevents any safety initial evaluation, and missing DrugBank mechanism-of-action data (Data Gap DG002, High) limits confidence in the mechanistic linkage. Given the emergency nature of the "malignant" phenotype and the known renal risk of ARBs in bilateral renal artery stenosis, proceeding without safety data would be inappropriate.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA product label (warnings, contraindications, drug interactions) — resolves Blocking gap DG001
-- DrugBank-confirmed mechanism of action — resolves High-severity gap DG002
-- Complete NPRA license details (product names, dosage forms, approved indication text) for the 13 registered products
-- Targeted literature/clinical trial search specific to ARB use in renovascular hypertension and renal artery stenosis populations
-- Nephrology input on renal function and renal artery imaging criteria required before considering ARB use in this population
+## Informasi Pasar Malaysia
+
+Catatan pendaftaran NPRA menunjukkan **13 lisensi aktif** untuk candesartan cilexetil di Malaysia, mengkonfirmasi obat saat ini dipasarkan. Namun, paket bukti ini tidak mencakup detail lisensi mendasar (nomor otorisasi, nama produk, bentuk dosis, atau teks indikasi yang disetujui) — semua bidang terkait dikembalikan kosong oleh sumber data. Ini adalah celah data yang memerlukan pengambilan langsung dari registri produk NPRA sebelum detail tingkat lisensi dapat dilaporkan.
+
+---
+
+## Pertimbangan Keselamatan
+
+Silakan lihat kemasan sisipan untuk informasi keselamatan.
+
+*(Catatan: pengambilan label produk TFDA/NPRA — termasuk peringatan, kontraindikasi, dan data interaksi obat — dicatat sebagai celah data **Menghalangi** (DG001) dalam paket bukti ini. Celah ini saja mencegah kandidat memasuki tahap evaluasi keselamatan awal S1.)*
+
+---
+
+## Kesimpulan dan Langkah Selanjutnya
+
+**Keputusan: Tunggu**
+
+**Rasio:**
+Hipertensi renovaskular ganas memiliki rasio mekanik pemblokiran RAAS yang masuk akal tetapi didukung oleh tidak ada uji klinis dan tidak ada literatur dalam paket bukti saat ini, menempatkannya pada tingkat bukti L5. Hal ini saja akan membatasi kandidat pada pertanyaan penelitian. Lebih kritis lagi, label produk TFDA/NPRA yang hilang (Celah Data DG001, Menghalangi) mencegah evaluasi keselamatan awal apa pun, dan data mekanisme aksi DrugBank yang hilang (Celah Data DG002, Keseriusan Tinggi) membatasi kepercayaan pada hubungan mekanik. Mengingat sifat darurat fenotipe "ganas" dan risiko ginjal ARB yang diketahui dalam stenosis bilateral arteri ginjal, melanjutkan tanpa data keselamatan akan tidak sesuai.
+
+**Untuk melanjutkan, hal berikut diperlukan:**
+- Label produk TFDA/NPRA (peringatan, kontraindikasi, interaksi obat) — menyelesaikan celah Menghalangi DG001
+- Mekanisme aksi yang dikonfirmasi DrugBank — menyelesaikan celah keseriusan Tinggi DG002
+- Detail lisensi NPRA lengkap (nama produk, bentuk dosis, teks indikasi yang disetujui) untuk 13 produk terdaftar
+- Pencarian literatur/uji klinis yang ditargetkan khusus untuk penggunaan ARB dalam hipertensi renovaskular dan populasi stenosis arteri ginjal
+- Masukan Nefrologi tentang kriteria fungsi ginjal dan pencitraan arteri ginjal yang diperlukan sebelum mempertimbangkan penggunaan ARB dalam populasi ini
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,94 +29,95 @@ Tahap bukti: **L2** | Indikasi diramal: **10**
 
 </div>
 
-# Megestrol Acetate: From Palliative Hormonal Therapy for Breast/Endometrial Carcinoma to Uterine Corpus Endometrial Carcinoma
+# Megestrol Acetate: Dari Terapi Hormonal Paliatif untuk Karsinoma Payudara/Endometrium ke Karsinoma Endometrium Corpus Uteri
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Megestrol acetate is a synthetic progestin historically used for palliative treatment of breast and endometrial carcinoma and for cancer/AIDS-related anorexia-cachexia. The TxGNN model's top-ranked prediction, **Uterine Corpus Endometrial Carcinoma**, is supported by **3 clinical trials** directly retrieved for this exact ontology term, while the closely related (and evidence-richer) sibling term "endometrial cancer" carries **36 clinical trials and 20 publications**, reflecting that this is largely a refinement of an already-recognized clinical use (fertility-sparing progestin therapy) rather than an entirely novel indication.
+Megestrol acetate ialah progestin sintetik yang secara historis digunakan untuk rawatan paliatif kanser payudara dan endometrium serta untuk anorexia-cachexia berkaitan kanser/AIDS. Ramalan berpangkat teratas model TxGNN, **Karsinoma Endometrium Corpus Uteri**, disokong oleh **3 ujian klinis** yang diambil secara langsung untuk istilah ontologi yang tepat ini, manakala istilah sibling yang berkaitan rapat (dan lebih kaya bukti) "kanser endometrium" membawa **36 ujian klinis dan 20 penerbitan**, mencerminkan bahawa ini sebahagian besarnya merupakan pemurnian penggunaan klinis yang telah diiktiraf (terapi progestin jimat kesuburan) dan bukannya petunjukan yang benar-benar baru.
 
 ---
 
-## Quick Overview
+## Ringkasan Pantas
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Not populated in this data pack (TFDA/NPRA license `approved_indication_text` fields are empty). Per international labeling referenced within the evidence pack itself (e.g., NCT00163072), megestrol acetate is approved for palliative treatment of breast and endometrial carcinoma, and is widely used as an appetite stimulant in cancer-related cachexia. |
-| Predicted New Indication | Uterine Corpus Endometrial Carcinoma |
-| TxGNN Prediction Score | 99.94% |
-| Evidence Level | L2 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 3 |
-| Recommended Decision | Proceed with Guardrails |
+| Indikasi Asli | Tidak diisi dalam paket data ini (medan `approved_indication_text` lesen TFDA/NPRA kosong). Mengikut label internasional yang dirujuk dalam paket bukti itu sendiri (cth., NCT00163072), megestrol acetate diluluskan untuk rawatan paliatif kanser payudara dan endometrium, dan digunakan secara meluas sebagai perangsang selera dalam cachexia berkaitan kanser. |
+| Indikasi Baru Diramalkan | Karsinoma Endometrium Corpus Uteri |
+| Skor Ramalan TxGNN | 99.94% |
+| Tahap Bukti | L2 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Marketed) |
+| Bilangan Pendaftaran | 3 |
+| Keputusan Disyorkan | Teruskan dengan Pengawal |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed mechanism-of-action data is flagged as a Blocking/High data gap in this pack (DG001, DG002). Based on information recoverable from the evidence itself, megestrol acetate is a progestin that acts as a progesterone receptor (PR) agonist, suppressing estrogen-driven proliferation of PR-positive endometrial tissue and inducing glandular differentiation — a mechanism described repeatedly across the retrieved literature (e.g., PMID 34233525, "Megestrol acetate drives endometrial carcinoma cell senescence via interacting with progesterone receptor B/FOXO1 axis").
+Data mekanisme tindakan yang terperinci ditandakan sebagai jurang data Menyekat/Tinggi dalam paket ini (DG001, DG002). Berdasarkan maklumat yang dapat diperolehi daripada bukti itu sendiri, megestrol acetate ialah progestin yang bertindak sebagai agonis reseptor progesteron (PR), menekan proliferasi yang didorong estrogen bagi tisu endometrium PR-positif dan mendorong diferensiasi kelenjar — mekanisme yang diterangkan berulang kali di seluruh literatur yang diambil (cth., PMID 34233525, "Megestrol acetate drives endometrial carcinoma cell senescence via interacting with progesterone receptor B/FOXO1 axis").
 
-The predicted new indication is mechanistically almost a restatement of an existing use: megestrol acetate is already an internationally recognized agent for endometrial carcinoma (particularly in fertility-sparing regimens for young women with early-stage, PR-positive disease). The evidence pack's own rationale notes that "uterine corpus endometrial carcinoma" and "endometrial cancer" are different ontology terms for essentially the same clinical entity, which explains why both score almost identically (99.94%) despite very different amounts of retrieved evidence — the rank-1 term simply has thinner direct query coverage (3 trials, 0 literature hits) than its sibling node (36 trials, 20 publications, including a completed Phase III temsirolimus±MA trial and multiple GOG-sponsored studies).
+Indikasi baru yang diramalkan hampir-hampir adalah penyataan semula bagi penggunaan yang sedia ada: megestrol acetate sudah pun merupakan agen yang diiktiraf secara antarabangsa untuk kanser endometrium (khususnya dalam rejimen jimat kesuburan untuk wanita muda dengan penyakit peringkat awal, PR-positif). Rasional paket bukti sendiri mencatat bahawa "karsinoma endometrium corpus uteri" dan "kanser endometrium" adalah istilah ontologi yang berbeza untuk entiti klinis yang pada asasnya sama, yang menjelaskan mengapa kedua-duanya menjaringkan hampir sama (99.94%) walaupun pelbagai jumlah bukti yang diambil — istilah peringkat-1 hanya mempunyai liputan pertanyaan langsung yang lebih tipis (3 ujian, 0 hasil literatur) daripada nod sibling-nya (36 ujian, 20 penerbitan, termasuk ujian temsirolimus±MA Fasa III yang selesai dan pelbagai kajian yang ditaja GOG).
 
-Because the mechanism (PR agonism → suppressed endometrial proliferation) is identical regardless of which ontology label is used, the strength of this prediction should be read together with the "endometrial cancer" evidence cluster rather than in isolation.
+Kerana mekanisme (agonis PR → proliferasi endometrium yang ditekan) adalah sama tanpa mengira label ontologi yang digunakan, kekuatan ramalan ini harus dibaca bersama-sama dengan kluster bukti "kanser endometrium" dan bukannya dalam isolasi.
 
 ---
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinis
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT04046185](https://clinicaltrials.gov/study/NCT04046185) | Early Phase 1 | Unknown | 60 | PD-1 inhibitor combined with progesterone vs. progesterone alone for fertility preservation in early-stage endometrial cancer |
-| [NCT00503581](https://clinicaltrials.gov/study/NCT00503581) | Phase 2 | Terminated | 9 | Continuous vs. sequential progestin therapy for endometrial intraepithelial neoplasia/atypical hyperplasia in patients desiring uterine preservation; terminated with very small sample |
-| [NCT00729586](https://clinicaltrials.gov/study/NCT00729586) | Phase 2 | Completed | 73 | Temsirolimus with or without megestrol acetate + tamoxifen in advanced/persistent/recurrent endometrial carcinoma; directly evaluates MA-containing regimen |
+| [NCT04046185](https://clinicaltrials.gov/study/NCT04046185) | Fasa Awal 1 | Tidak diketahui | 60 | Perencat PD-1 digabungkan dengan progesteron vs. progesteron sahaja untuk pemeliharaan kesuburan dalam kanser endometrium peringkat awal |
+| [NCT00503581](https://clinicaltrials.gov/study/NCT00503581) | Fasa 2 | Ditamatkan | 9 | Terapi progestin berterusan vs. berurutan untuk neoplasia intraepitelial endometrium/hiperplasia atipikal pada pesakit yang menginginkan pemeliharaan uterus; ditamatkan dengan sampel yang sangat kecil |
+| [NCT00729586](https://clinicaltrials.gov/study/NCT00729586) | Fasa 2 | Selesai | 73 | Temsirolimus dengan atau tanpa megestrol acetate + tamoxifen dalam karsinoma endometrium maju/berterusan/berulang; menilai secara langsung rejimen yang mengandungi MA |
 
-*Note: A far larger evidence base (36 trials) exists for the closely related node "endometrial cancer," including completed Phase II/III studies directly testing megestrol acetate (e.g., NCT05538897, NCT04576104, NCT03241914, NCT00016341). See rationale above.*
-
----
-
-## Literature Evidence
-
-Currently no related literature available for this specific ontology term (0 PubMed hits recorded in the query log for "uterine corpus endometrial carcinoma"). Substantial literature (20 publications, including a Tier-1 GOG randomized trial, PMID 24456823) exists for the related term "endometrial cancer."
+*Nota: Asas bukti yang jauh lebih besar (36 ujian) wujud untuk nod yang berkaitan rapat "kanser endometrium," termasuk kajian Fasa II/III yang selesai menguji megestrol acetate secara langsung (cth., NCT05538897, NCT04576104, NCT03241914, NCT00016341). Lihat rasional di atas.*
 
 ---
 
-## Malaysia Market Information
+## Bukti Literatur
 
-Three NPRA registrations are on record (`total_licenses: 3`, market status: Marketed), but license number, product name, dosage form, and approved-indication fields were not populated in this data pack — product-level detail could not be extracted for this report.
+Pada masa ini tiada literatur berkaitan tersedia untuk istilah ontologi khusus ini (0 hasil PubMed yang direkodkan dalam log pertanyaan untuk "karsinoma endometrium corpus uteri"). Literatur yang besar (20 penerbitan, termasuk ujian GOG bertier-1 rawak, PMID 24456823) wujud untuk istilah yang berkaitan "kanser endometrium."
 
 ---
 
-## Cytotoxicity
+## Maklumat Pasaran Malaysia
 
-| Item | Content |
+Tiga pendaftaran NPRA ada dalam rekod (`total_licenses: 3`, status pasaran: Dipasarkan), tetapi nombor lesen, nama produk, bentuk dos, dan medan indikasi yang diluluskan tidak diisi dalam paket data ini — butiran peringkat produk tidak dapat diekstrak untuk laporan ini.
+
+---
+
+## Sitotoksisiti
+
+| Item | Kandungan |
 |------|------|
-| Cytotoxicity Classification | Hormonal (endocrine) antineoplastic agent — progestin/PR agonist; **not** conventional cytotoxic chemotherapy |
-| Myelosuppression Risk | Low — megestrol acetate is not associated with clinically significant bone marrow suppression |
-| Emetogenicity Classification | Low |
-| Monitoring Items | Adrenal function (secondary adrenal suppression reported, PMID 10491532), coagulation parameters/VTE risk (PMID 11727356), weight/glycemic status, blood pressure |
-| Handling Protection | Standard cytotoxic-drug handling precautions are not required (non-cytotoxic hormonal agent) |
+| Pengelasan Sitotoksisiti | Agen antineoplastik hormonal (endokrin) — progestin/agonis PR; **bukan** kemoterapia sitotoksik konvensional |
+| Risiko Penindasan Sumsum Tulang | Rendah — megestrol acetate tidak dikaitkan dengan penindasan sumsum tulang yang klinikal bererti |
+| Pengelasan Emetogenisiti | Rendah |
+| Item Pemantauan | Fungsi adrenal (penindasan adrenal sekunder dilaporkan, PMID 10491532), parameter koagulasi/risiko VTE (PMID 11727356), berat/status glikemik, tekanan darah |
+| Perlindungan Pengendalian | Langkah-langkah pengendalian ubat sitotoksik standard tidak diperlukan (agen hormonal bukan sitotoksik) |
 
 ---
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for formal warnings, contraindications, and drug-interaction data (none were retrievable in this data pack; DDI query returned no results).
+Sila rujuk selebaran produk untuk amaran formal, kontraindikasi, dan data interaksi ubat (tiada yang dapat diperolehi dalam paket data ini; carian DDI tidak menghasilkan hasil).
 
-Supplementary signals noted in the retrieved literature (not part of the formal safety dataset): secondary adrenal suppression with MA therapy (PMID 10491532) and effects on hemostasis/thromboembolic risk at high doses (PMID 11727356).
+Isyarat tambahan yang dicatat dalam literatur yang diambil (bukan sebahagian daripada set data keselamatan formal): penindasan adrenal sekunder dengan terapi MA (PMID 10491532) dan kesan pada hemostasis/risiko tromboembolik pada dos tinggi (PMID 11727356).
 
 ---
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Proceed with Guardrails**
+**Keputusan: Teruskan dengan Pengawal**
 
-**Rationale:**
-The mechanistic rationale is strong and megestrol acetate is already used clinically for endometrial carcinoma, but the specific ontology term ranked first by TxGNN has only thin direct trial evidence (3 trials, no literature) and a critical safety data gap (TFDA/NPRA label warnings and contraindications are missing, flagged Blocking).
+**Rasional:**
+Rasional mekanik adalah kuat dan megestrol acetate sudah digunakan secara klinis untuk kanser endometrium, tetapi istilah ontologi khusus yang disenaraikan pertama oleh TxGNN hanya mempunyai bukti ujian langsung yang tipis (3 ujian, tiada literatur) dan jurang data keselamatan yang kritikal (amaran label TFDA/NPRA dan kontraindikasi hilang, ditandakan Menyekat).
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert (warnings, contraindications, DDI) — currently a Blocking data gap (DG001)
-- DrugBank-sourced MOA and drug interaction profile (DG002)
-- Product-level Malaysia registration detail (license numbers, dosage forms, approved indication text)
-- Formal evidence synthesis across the "uterine corpus endometrial carcinoma" and "endometrial cancer" ontology nodes, since they represent the same clinical entity and should not be evaluated in isolation
+**Untuk meneruskan, yang berikut diperlukan:**
+- Selebaran produk TFDA/NPRA (amaran, kontraindikasi, DDI) — pada masa ini jurang data Menyekat (DG001)
+- MOA bersumber DrugBank dan profil interaksi ubat (DG002)
+- Butiran pendaftaran Malaysia peringkat produk (nombor lesen, bentuk dos, teks indikasi yang diluluskan)
+- Sintesis bukti formal di seluruh nod ontologi "karsinoma endometrium corpus uteri" dan "kanser endometrium," kerana ia mewakili entiti klinis yang sama dan tidak boleh dinilai dalam isolasi
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

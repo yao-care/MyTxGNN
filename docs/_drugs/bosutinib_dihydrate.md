@@ -29,78 +29,79 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Bosutinib Dihydrate: Drug Repurposing Preliminary Assessment
+# Bosutinib Dihydrate: Penilaian Awal Penggunaan Kembali Ubat
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Bosutinib dihydrate is a tyrosine kinase inhibitor (TKI) currently marketed in Malaysia with 2 registered products, primarily indicated for the treatment of chronic myeloid leukaemia (CML). The TxGNN model has **not yet generated predicted new indications** for this compound, and significant data gaps remain in the evidence pack — including mechanism of action details, DrugBank ID mapping, and approved indication text — that must be resolved before a repurposing assessment can proceed.
+Bosutinib dihydrate ialah penghambat tirosin kinase (TKI) yang kini dipasarkan di Malaysia dengan 2 produk berdaftar, terutamanya ditunjukkan untuk rawatan leukemia mieloid kronik (CML). Model TxGNN **belum lagi menghasilkan ramalan indikasi baru** untuk sebatian ini, dan jurang data yang ketara kekal dalam pakej bukti — termasuk butir-butir mekanisme tindakan, pemetaan ID DrugBank, dan teks indikasi yang diluluskan — yang mesti diselesaikan sebelum penilaian penggunaan kembali dapat dilanjutkan.
 
-## Quick Overview
+## Gambaran Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | Chronic myeloid leukaemia (CML) — *indication text not captured in current evidence pack* |
-| Predicted New Indication | None — no TxGNN predictions available |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 (Insufficient — no predictions generated) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
-| Recommended Decision | **Hold** |
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Leukemia mieloid kronik (CML) — *teks indikasi tidak ditangkap dalam pakej bukti semasa* |
+| Indikasi Baru yang Diramal | Tiada — tiada ramalan TxGNN tersedia |
+| Skor Ramalan TxGNN | N/A |
+| Tahap Bukti | L5 (Tidak Mencukupi — tiada ramalan dijana) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 2 |
+| Cadangan Keputusan | **Tahan** |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data is not available in the evidence pack. Based on publicly known information, bosutinib is a dual Src/ABL tyrosine kinase inhibitor that blocks the activity of the BCR-ABL fusion oncoprotein, which drives the proliferation of leukaemic cells in chronic myeloid leukaemia (CML). It also inhibits several members of the Src family of kinases and has demonstrated activity against other kinase targets relevant to oncology.
+Pada masa ini, data terperinci mekanisme tindakan tidak tersedia dalam pakej bukti. Berdasarkan maklumat yang diketahui umum, bosutinib ialah penghambat tirosin kinase Src/ABL dwi-sasaran yang menghalang aktiviti onkoprotein pelubangan BCR-ABL, yang mendorong perkembangan sel leukemik dalam leukemia mieloid kronik (CML). Ia juga menghalang beberapa anggota keluarga kinase Src dan telah menunjukkan aktiviti terhadap sasaran kinase lain yang relevan dengan onkologi.
 
-Because the TxGNN model has not yet generated any predicted new indications for bosutinib dihydrate, it is not possible to evaluate mechanistic plausibility for a repurposing hypothesis at this time. The absence of predictions may result from an unsuccessful DrugBank ID mapping (the `drugbank_id` field is null), which would prevent the compound from being matched to nodes in the TxGNN knowledge graph. Resolving this mapping is a prerequisite for generating meaningful predictions.
+Oleh kerana model TxGNN belum lagi menghasilkan sebarang ramalan indikasi baru untuk bosutinib dihydrate, adalah tidak mungkin untuk menilai kelayakan mekanik untuk hipotesis penggunaan kembali pada masa ini. Ketiadaan ramalan mungkin hasil daripada pemetaan ID DrugBank yang tidak berjaya (medan `drugbank_id` adalah nol), yang akan menghalang sebatian daripada dipadankan dengan nod dalam graf pengetahuan TxGNN. Menyelesaikan pemetaan ini adalah prasyarat untuk menghasilkan ramalan yang bermakna.
 
-Given bosutinib's multi-kinase inhibitory profile — targeting not only BCR-ABL but also Src, HER, PDGFR, and other kinases — the drug could theoretically have repurposing potential across several oncology indications and possibly kinase-driven non-oncology conditions. However, any such hypothesis requires validated TxGNN output and supporting clinical evidence.
+Memandangkan profil multi-kinase inhibitori bosutinib — menyasarkan bukan sahaja BCR-ABL tetapi juga Src, HER, PDGFR, dan kinase lain — ubat ini secara teorinya boleh mempunyai potensi penggunaan kembali merentasi beberapa indikasi onkologi dan mungkin juga keadaan bukan-onkologi yang didorong oleh kinase. Walau bagaimanapun, sebarang hipotesis sedemikian memerlukan keluaran TxGNN yang disahkan dan bukti klinikal yang menyokong.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-Currently no predicted indications have been generated; therefore, no targeted clinical trial search was conducted.
+Pada masa ini tiada ramalan indikasi telah dijana; oleh itu, tiada carian ujian klinikal yang disasarkan telah dijalankan.
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-Currently no predicted indications have been generated; therefore, no targeted literature search was conducted.
+Pada masa ini tiada ramalan indikasi telah dijana; oleh itu, tiada carian kesusasteraan yang disasarkan telah dijalankan.
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
 |---------|------|------|-----------|
-| *(not captured)* | *(not captured)* | *(not captured)* | *(not captured)* |
-| *(not captured)* | *(not captured)* | *(not captured)* | *(not captured)* |
+| *(tidak ditangkap)* | *(tidak ditangkap)* | *(tidak ditangkap)* | *(tidak ditangkap)* |
+| *(tidak ditangkap)* | *(tidak ditangkap)* | *(tidak ditangkap)* | *(tidak ditangkap)* |
 
-> **Note:** Two product registrations are recorded in the NPRA database, but the licence details (authorization number, product name, dosage form, and approved indication text) were not successfully captured during data collection. A re-query of the NPRA database is required to populate these fields.
+> **Nota:** Dua pendaftaran produk direkodkan dalam pangkalan data NPRA, tetapi butir lesen (nombor kebenaran, nama produk, bentuk dos, dan teks indikasi diluluskan) tidak berjaya ditangkap semasa pengumpulan data. Soal semula pangkalan data NPRA diperlukan untuk memenuhi medan-medan ini.
 
-## Cytotoxicity
+## Sitotoksisiti
 
-Bosutinib is an antineoplastic agent (tyrosine kinase inhibitor class). The following safety profile is based on generally known pharmacological properties:
+Bosutinib ialah agen antineoplastik (kelas penghambat tirosin kinase). Profil keselamatan berikut adalah berdasarkan sifat farmakologi yang diketahui umum:
 
-| Item | Content |
-|------|------|
-| Cytotoxicity Classification | Targeted therapy (Tyrosine kinase inhibitor — dual Src/ABL TKI) |
-| Myelosuppression Risk | Moderate (thrombocytopenia, neutropenia, and anaemia are commonly reported) |
-| Emetogenicity Classification | Low to moderate |
-| Monitoring Items | CBC with differential, liver function tests (ALT/AST — hepatotoxicity is a known risk), renal function, electrolytes, lipase |
-| Handling Protection | Standard precautions for oral antineoplastic agents; follow institutional cytotoxic drug handling regulations |
+| Item | Kandungan |
+|------|----------|
+| Klasifikasi Sitotoksisiti | Terapi tersasarkan (Penghambat tirosin kinase — dwi-sasaran Src/ABL TKI) |
+| Risiko Penindasan Sumsum Tulang | Sederhana (trombositopenia, neutropenia, dan anemia dilaporkan secara umum) |
+| Klasifikasi Emetogenisiti | Rendah hingga sederhana |
+| Item Pemantauan | CBC dengan pembezaan, ujian fungsi hati (ALT/AST — hepatotoksisiti ialah risiko yang diketahui), fungsi buah pinggang, elektrolit, lipase |
+| Perlindungan Penanganan | Tindakan pencegahan piawai untuk ubat antineoplastik oral; ikut peraturan penanganan ubat sitotoksik institusi |
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-> Please refer to the package insert for safety information. Key warnings, contraindications, and drug–drug interaction data were not available in the current evidence pack and represent a **blocking data gap** (DG001) that must be resolved before safety evaluation can proceed.
+> Sila rujuk sisipan bungkusan untuk maklumat keselamatan. Data amaran utama, kontraindikasi, dan interaksi ubat-ubat tidak tersedia dalam pakej bukti semasa dan mewakili **jurang data yang menghalang** (DG001) yang mesti diselesaikan sebelum penilaian keselamatan dapat diteruskan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The evidence pack for bosutinib dihydrate is substantially incomplete. No TxGNN predictions have been generated (likely due to a missing DrugBank ID mapping), and critical data fields — including approved indication text, mechanism of action, safety warnings, and contraindications — remain unfilled. A repurposing evaluation cannot proceed until these foundational gaps are resolved.
+**Alasan:**
+Pakej bukti untuk bosutinib dihydrate adalah tidak lengkap secara ketara. Tiada ramalan TxGNN telah dijana (berkemungkinan disebabkan pemetaan ID DrugBank yang hilang), dan medan data kritikal — termasuk teks indikasi diluluskan, mekanisme tindakan, amaran keselamatan, dan kontraindikasi — kekal tidak terisi. Penilaian penggunaan kembali tidak dapat diteruskan sehingga jurang asas ini diselesaikan.
 
-**To proceed, the following is needed:**
-- **DrugBank ID mapping** — Query DrugBank for "bosutinib" (likely DB06616) and update the `drugbank_id` field to enable TxGNN knowledge graph matching
-- **Re-run TxGNN prediction** — Once the DrugBank ID is mapped, re-execute the KG and DL prediction pipelines to generate repurposing candidates
-- **NPRA licence details** — Re-query the NPRA database to capture authorization numbers, product names, dosage forms, and approved indication text for the 2 registered products
-- **Package insert parsing** — Obtain and parse the bosutinib package insert (仿單) to extract key warnings, contraindications, and drug interaction data (resolving DG001)
-- **MOA data** — Retrieve detailed mechanism of action from DrugBank API (resolving DG002)
+**Untuk meneruskan, perkara berikut diperlukan:**
+- **Pemetaan ID DrugBank** — Soal DrugBank untuk "bosutinib" (berkemungkinan DB06616) dan kemas kini medan `drugbank_id` untuk membolehkan padanan graf pengetahuan TxGNN
+- **Jalankan semula ramalan TxGNN** — Setelah ID DrugBank dimeta, jalankan semula aliran paip ramalan KG dan DL untuk menghasilkan calon penggunaan kembali
+- **Butir lesen NPRA** — Soal semula pangkalan data NPRA untuk menangkap nombor kebenaran, nama produk, bentuk dos, dan teks indikasi diluluskan untuk 2 produk terdaftar
+- **Penghuraian sisipan bungkusan** — Perolehi dan huraikan sisipan bungkusan bosutinib (仿單) untuk mengekstrak amaran utama, kontraindikasi, dan data interaksi ubat (menyelesaikan DG001)
+- **Data MOA** — Perolehi mekanisme tindakan terperinci daripada API DrugBank (menyelesaikan DG002)
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

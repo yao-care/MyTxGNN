@@ -29,77 +29,78 @@ Tahap bukti: **L5** | Indikasi diramal: **8**
 
 </div>
 
-# Corifollitropin Alfa: From an Unregistered Original Indication to Gastroduodenitis
+# Corifollitropin Alfa: Daripada Indikasi Asal Tidak Berdaftar kepada Gastroduodenitis
 
-## One-Sentence Summary
+## Satu Ayat Ringkasan
 
-> Corifollitropin alfa is a long-acting recombinant FSH analog; its original approved indication is not recorded in the current Malaysia (NPRA) registration data, though its known pharmacology targets ovarian granulosa-cell FSH receptors to drive follicular development.
-> The TxGNN model predicts a possible association with **Gastroduodenitis**, but **0 clinical trials** and **0 publications** currently support this direction, and the model's own mechanistic rationale flags it as a likely graph-noise artifact rather than a genuine biological signal.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not recorded in current NPRA license data; MOA description suggests ovarian stimulation for assisted reproduction |
-| Predicted New Indication | Gastroduodenitis |
-| TxGNN Prediction Score | 99.65% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
-| Recommended Decision | Hold |
+> Corifollitropin alfa ialah analog FSH rekombinan yang bertindak lama; indikasi asal yang diluluskan tidak direkodkan dalam data pendaftaran Malaysia (NPRA) semasa, walaupun farmakologinya yang diketahui menyasarkan reseptor FSH sel granulosa ovari untuk mendorong perkembangan folikel.
+> Model TxGNN meramalkan kemungkinan persatuan dengan **Gastroduodenitis**, tetapi **0 uji klinikal** dan **0 penerbitan** semasa menyokong arah ini, dan rasional mekanistik model itu sendiri menandainya sebagai artifak hingar graf yang kemungkinan besar daripada isyarat biologi yang sahih.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Ikhtisar Pantas
 
-Corifollitropin alfa is a long-acting recombinant FSH analog that acts on ovarian granulosa-cell FSH receptors to stimulate follicular development — a mechanism referenced in the evidence pack's rationale, though a formal, structured mechanism-of-action record is not currently available for this drug.
-
-There is no known pharmacological or pathway overlap between FSH receptor signaling and gastroduodenitis (a gastric/duodenal mucosal inflammatory condition). FSH receptor expression in gastrointestinal tissue has no established biological significance, and the model's own annotation for this candidate explicitly states the link lacks a reasonable biological basis, attributing the prediction to knowledge-graph co-morbidity or node-proximity noise rather than a genuine mechanistic signal.
-
-The other seven candidates in this batch show the same pattern: several (migraine, migraine with brainstem aura, pulmonary hypertension) have rationale text suggesting the drug's known pharmacodynamics (acute hormonal fluctuation, OHSS-related fluid shifts) would plausibly *worsen* rather than treat the predicted condition — i.e., mechanistically inverse to the hypothesis. None of the eight candidates currently have supporting clinical or literature evidence.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Tidak direkodkan dalam data lesen NPRA semasa; penerangan MOA mencadangkan rangsangan ovari untuk pembiakan berbantu |
+| Indikasi Baru Diramalkan | Gastroduodenitis |
+| Skor Ramalan TxGNN | 99.65% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Berada di Pasaran |
+| Bilangan Pendaftaran | 2 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available
+Corifollitropin alfa ialah analog FSH rekombinan yang bertindak lama yang bertindak pada reseptor FSH sel granulosa ovari untuk merangsang perkembangan folikel — mekanisme yang dirujuk dalam rasional paket bukti, walaupun rekod mekanisme tindakan yang formal dan berstruktur tidak tersedia pada masa ini untuk ubat ini.
 
----
+Tiada pertindihan farmakologi atau laluan yang diketahui antara isyarat reseptor FSH dan gastroduodenitis (keadaan radang mukosa gastrik/duodenum). Ungkapan reseptor FSH dalam tisu gastrointestinal tidak mempunyai kepentingan biologi yang telah ditetapkan, dan anotasi model itu sendiri untuk calon ini secara eksplisit menyatakan pautan tidak mempunyai asas biologi yang munasabah, mengaitkan ramalan itu kepada ko-morbiditi graf pengetahuan atau hingar kedekatan nod dan bukannya isyarat mekanistik yang sahih.
 
-## Malaysia Market Information
-
-Two NPRA registrations exist for this drug (market status: ✓ Marketed), but license number, product name, dosage form, and approved indication text are not populated in the current dataset. This detail cannot be reported until the underlying registration record is retrieved.
+Lapan calon lain dalam kumpulan ini menunjukkan corak yang sama: beberapa (migrain, migrain dengan aura batang otak, hipertensi pulmoner) mempunyai teks rasional yang mencadangkan farmakologi ubat yang diketahui (turun naik hormonal akut, peralihan bendalir berkaitan OHSS) akan secara munasabah *memburuk* dan bukannya merawat keadaan yang diramalkan — iaitu, kebalikan mekanistik kepada hipotesis. Tiada lapan calon mempunyai bukti klinikal atau literatur yang menyokong pada masa ini.
 
 ---
 
-## Safety Considerations
+## Bukti Uji Klinikal
 
-Please refer to the package insert for safety information.
-
-*(Note: TFDA/NPRA labeled warnings and contraindications are flagged as a Blocking data gap (DG001) — until resolved, this candidate cannot proceed to the S1 safety pre-screen.)*
+Pada masa ini tiada uji klinikal yang berkaitan didaftarkan
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Hold**
+Pada masa ini tiada literatur yang berkaitan tersedia
 
-**Rationale:**
-This is an L5, model-prediction-only signal with zero supporting clinical trials or literature. The mechanistic rationale itself assesses the FSH-receptor-to-gastroduodenitis link as biologically implausible and likely a knowledge-graph noise artifact, and a Blocking data gap (missing TFDA safety data) independently prevents entry into safety pre-screening.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert data — warnings and contraindications (DG001, Blocking)
-- Confirmed mechanism of action record (DG002, High)
-- Confirmed original approved indication(s) for this drug in the Malaysia registry
-- Independent biological plausibility review before allocating further evidence-collection resources to this candidate, given the model's own rationale casts doubt on the signal
+## Maklumat Pasaran Malaysia
+
+Dua pendaftaran NPRA wujud untuk ubat ini (status pasaran: ✓ Berada di Pasaran), tetapi nombor lesen, nama produk, bentuk dos, dan teks indikasi yang diluluskan tidak diisi dalam set data semasa. Butiran ini tidak boleh dilaporkan sehingga rekod pendaftaran asas diambil.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk kepada maklumat produk untuk maklumat keselamatan.
+
+*(Nota: Amaran dan kontraindikasi yang berlabel TFDA/NPRA ditandakan sebagai jurang data yang menyekat (DG001) — sehingga ia diselesaikan, calon ini tidak boleh meneruskan ke pra-pemeriksaan keselamatan S1.)*
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Ini ialah isyarat L5, ramalan model sahaja dengan sifar uji klinikal atau literatur yang menyokong. Rasional mekanistik itu sendiri menilai pautan FSH-reseptor-ke-gastroduodenitis sebagai implausibel dari segi biologi dan berkemungkinan artifak hingar graf, dan jurang data yang menyekat (data keselamatan TFDA hilang) secara bebas menghalang kemasukan ke pra-pemeriksaan keselamatan S1.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Data maklumat produk TFDA/NPRA — amaran dan kontraindikasi (DG001, Menyekat)
+- Rekod mekanisme tindakan yang disahkan (DG002, Tinggi)
+- Indikasi yang diluluskan asal yang disahkan untuk ubat ini dalam pendaftaran Malaysia
+- Ulasan kesahihan biologi yang bebas sebelum memperuntukkan sumber pengumpulan bukti lanjut kepada calon ini, memandangkan rasional model sendiri meragukan isyarat itu
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

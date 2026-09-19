@@ -29,83 +29,81 @@ Tahap bukti: **L5** | Indikasi diramal: **9**
 
 </div>
 
-# Acarbose: From Type 2 Diabetes to Classic Stiff Person Syndrome
+# Acarbose: Dari Diabetes Jenis 2 Kepada Sindrom Stiff Person Klasik
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Acarbose is an intestinal alpha-glucosidase inhibitor originally approved for managing postprandial hyperglycemia in type 2 diabetes mellitus.
-The TxGNN model predicts it may be effective for **Classic Stiff Person Syndrome**,
-with **no clinical trials** and **no publications** currently supporting this direction.
-The high prediction score is assessed as a likely false positive arising from the knowledge graph proximity between Stiff Person Syndrome and diabetes (both conditions involve GAD65 autoantibodies), rather than a genuine pharmacological connection.
+Acarbose adalah penghambat alfa-glukosidase usus yang awalnya diluluskan untuk menangani hiperglikemia pasca-makan pada diabetes mellitus jenis 2. Model TxGNN meramalkan ia mungkin berkesan untuk **Sindrom Stiff Person Klasik**, dengan **tiada ujian klinikal** dan **tiada penerbitan** yang kini menyokong arah ini. Skor ramalan yang tinggi dinilai sebagai positif palsu yang mungkin timbul daripada proksimitas graf pengetahuan antara Sindrom Stiff Person dan diabetes (kedua-dua keadaan melibatkan autoantibodi GAD65), bukan sambungan farmakoloji yang tulen.
 
 ---
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
+| Perkara | Kandungan |
 |------|---------|
-| Original Indication | Type 2 Diabetes Mellitus (postprandial hyperglycemia management) |
-| Predicted New Indication | Classic Stiff Person Syndrome |
-| TxGNN Prediction Score | 99.65% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 5 |
-| Recommended Decision | Hold |
+| Petunjuk Asal | Diabetes Mellitus Jenis 2 (pengurusan hiperglikemia pasca-makan) |
+| Petunjuk Baru yang Diramalkan | Sindrom Stiff Person Klasik |
+| Skor Ramalan TxGNN | 99.65% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 5 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data is not available from the evidence pack. Based on known information, Acarbose is an intestinal alpha-glucosidase inhibitor that competitively blocks the enzymes responsible for breaking down complex carbohydrates into absorbable glucose in the small intestine. This delays carbohydrate digestion and blunts postprandial blood glucose peaks, making it effective as an adjunct oral therapy for type 2 diabetes. Its action is entirely confined to the gastrointestinal lumen; it is minimally absorbed systemically.
+Pada masa ini, data mekanisme aksi terperinci tidak tersedia daripada pakej bukti. Berdasarkan maklumat yang diketahui, acarbose adalah penghambat alfa-glukosidase usus yang menghalang secara kompetitif enzim yang bertanggungjawab untuk memecahkan karbohidrat kompleks kepada glukosa yang boleh diserap di usus halus. Ini melambatkan pencernaan karbohidrat dan menumpulkan puncak glukosa darah pasca-makan, menjadikannya berkesan sebagai terapi oral tambahan untuk diabetes jenis 2. Tindakannya terbatas sepenuhnya kepada lumen saluran gastrousus; ia diserap secara minimal ke dalam sistem tubuh.
 
-Classic Stiff Person Syndrome (SPS) is a rare autoimmune neurological disorder driven primarily by autoantibodies against GAD65 (Glutamic Acid Decarboxylase 65), an enzyme that catalyses the synthesis of the inhibitory neurotransmitter GABA. SPS and Type 1 Diabetes are known to share GAD65 autoantibodies — both conditions can co-exist in the same patient — which creates a strong edge in the TxGNN knowledge graph linking Acarbose (a diabetes drug) to SPS through their shared antigen.
+Sindrom Stiff Person Klasik (SPS) adalah gangguan neurologi autoimun yang jarang didorong terutamanya oleh autoantibodi terhadap GAD65 (Glutamic Acid Decarboxylase 65), enzim yang mengkatalisis sintesis neurotransmiter penghambatan GABA. SPS dan Diabetes Jenis 1 diketahui berkongsi autoantibodi GAD65 — kedua-dua keadaan boleh wujud bersama dalam pesakit yang sama — yang mencipta tepi yang kuat dalam graf pengetahuan TxGNN yang menghubungkan acarbose (ubat diabetes) kepada SPS melalui antigen bersama mereka.
 
-However, this connection is assessed as a **false positive signal**. Acarbose acts exclusively at the intestinal brush border and has no known mechanism to modulate GAD65-directed autoimmunity, suppress central nervous system inhibitory tone, or provide any neuroprotection. The elevated TxGNN score reflects the graph topology of diabetes–SPS comorbidity rather than any pharmacologically actionable pathway. No preclinical or clinical evidence supports the use of Acarbose in SPS.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+Walau bagaimanapun, sambungan ini dinilai sebagai **isyarat positif palsu**. Acarbose bertindak secara eksklusif di sempadan berus usus dan tidak mempunyai mekanisme yang diketahui untuk mengubah autoimuniti yang diarahkan kepada GAD65, menekan nada penghambatan sistem saraf pusat, atau memberikan sebarang neuroperlindungan. Skor TxGNN yang meningkat mencerminkan topologi graf komorbiditi diabetes-SPS daripada sebarang laluan yang boleh diambil tindakan farmakoloji. Tiada bukti praklinik atau klinikal yang menyokong penggunaan acarbose dalam SPS.
 
 ---
 
-## Literature Evidence
+## Bukti Ujian Klinikal
 
-Currently no related literature available.
-
----
-
-## Malaysia Market Information
-
-Five Acarbose product registrations are confirmed in the NPRA (National Pharmaceutical Regulatory Agency) database (Malaysia market status: Marketed). However, detailed product information — including product names, dosage forms, and approved indication text — was not captured in the current evidence pack. Please refer directly to the [NPRA Product Search](https://www.npra.gov.my/) for complete authorisation details.
+Pada masa ini tiada ujian klinikal yang berkaitan didaftarkan.
 
 ---
 
-## Safety Considerations
+## Bukti Literatur
 
-Please refer to the package insert for safety information.
-
----
-
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The TxGNN prediction for Classic Stiff Person Syndrome is assessed as a knowledge graph artefact — the model correctly identifies a disease that co-occurs with diabetes (via shared GAD65 autoantibodies) but Acarbose has no pharmacological mechanism relevant to autoimmune neurological disease. There is zero supporting clinical or preclinical evidence.
-
-**To proceed, the following is needed:**
-- **MOA data** from DrugBank (DB00284) to formally confirm the absence of any neuroimmunological or systemic immunomodulatory activity
-- **Full package insert** (warnings, contraindications) from NPRA to complete the S1 safety screening — currently a blocking data gap
-- **Complete Malaysia licence details** (product names, dosage forms, approved indications) from the NPRA database to populate the regulatory table
-- If any further investigation of SPS is considered, a mechanistic hypothesis explaining how intestinal alpha-glucosidase inhibition could suppress GAD65 autoimmunity in the CNS would be required as a minimum prerequisite before any preclinical work is justified
-
-> **Research Note:** Among all 9 predicted indications in this pack, **Pancreatic Agenesis** (rank 9, L4) presents the most biologically coherent — though still indirect — rationale for Acarbose use, as an adjunct to insulin therapy to smooth postprandial glycaemic variability in a condition of complete pancreatic insulin deficiency. This direction has 11 associated publications and may warrant a separate focused assessment.
+Pada masa ini tiada literatur yang berkaitan tersedia.
 
 ---
 
-*This report is for research reference only and does not constitute medical advice. All drug repurposing candidates require clinical validation before any therapeutic application.*
+## Maklumat Pasaran Malaysia
+
+Lima pendaftaran produk acarbose disahkan dalam pangkalan data NPRA (Agensi Kawal Selia Farmaseutikal Kebangsaan) (status pasaran Malaysia: Dipasarkan). Walau bagaimanapun, maklumat produk terperinci — termasuk nama produk, bentuk dos, dan teks petunjuk yang diluluskan — tidak ditangkap dalam pakej bukti semasa. Sila rujuk terus kepada [Carian Produk NPRA](https://www.npra.gov.my/) untuk butiran kebenaran lengkap.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk kepada sisipan pakej untuk maklumat keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Alasan:**
+Ramalan TxGNN untuk Sindrom Stiff Person Klasik dinilai sebagai artifak graf pengetahuan — model ini dengan betul mengenal pasti penyakit yang berlaku bersama diabetes (melalui autoantibodi GAD65 bersama) tetapi acarbose tidak mempunyai mekanisme farmakoloji yang berkaitan dengan penyakit neurologi autoimun. Tiada bukti klinikal atau praklinik yang menyokong.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- **Data MOA** daripada DrugBank (DB00284) untuk mengesahkan secara formal ketiadaan sebarang aktiviti neuroimmunologi atau imunomodulasi sistemik
+- **Sisipan pakej lengkap** (amaran, kontraindikasi) daripada NPRA untuk menyelesaikan saringan keselamatan S1 — pada masa ini jurang data yang menghalang
+- **Butiran lesen Malaysia yang lengkap** (nama produk, bentuk dos, petunjuk yang diluluskan) daripada pangkalan data NPRA untuk mengisi jadual kawal selia
+- Jika sebarang penyiasatan lanjut SPS dipertimbangkan, hipotesis mekanisme yang menjelaskan bagaimana penghambatan alfa-glukosidase usus boleh menindas autoimuniti GAD65 dalam CNS akan diperlukan sebagai prasyarat minimum sebelum sebarang kerja praklinik dibenarkan
+
+> **Nota Penyelidikan:** Antara semua 9 petunjuk yang diramalkan dalam pakej ini, **Agenesis Pankreas** (pangkat 9, L4) mempersembahkan rasional yang paling koheren secara biologi — walaupun masih tidak langsung — untuk penggunaan acarbose, sebagai terapi tambahan kepada terapi insulin untuk melancarkan kebolehubahan glikemik pasca-makan dalam keadaan kekurangan insulin pankreas yang lengkap. Arah ini mempunyai 11 penerbitan yang berkaitan dan mungkin menjamin penilaian tertumpu yang berasingan.
+
+---
+
+*Laporan ini hanya untuk rujukan penyelidikan dan tidak merupakan nasihat perubatan. Semua calon ubat ubah guna memerlukan pengesahan klinikal sebelum sebarang aplikasi terapeutik.*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

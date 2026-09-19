@@ -29,75 +29,76 @@ Tahap bukti: **L5** | Indikasi diramal: **3**
 
 </div>
 
-# Clofazimine: From Leprosy (Hansen's Disease) to Pneumocystosis
+# Clofazimine: Dari Kusta (Penyakit Hansen) ke Pneumocystosis
 
-## One-Sentence Summary
+## Ringkasan Satu Kalimat
 
-Clofazimine is a riminophenazine antimycobacterial agent, established in leprosy multidrug therapy and multidrug-resistant tuberculosis regimens.
-The TxGNN model predicts it may be effective for **Pneumocystosis**, with a prediction score of **99.90%**, but **0 clinical trials** and **0 publications** currently support this direction, and the model's own mechanistic rationale flags the prediction as likely a knowledge-graph co-occurrence artifact rather than a true pharmacological link.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Leprosy (Hansen's disease) / MDR-TB — based on established pharmacological knowledge of clofazimine; not confirmed by NPRA license text in this Evidence Pack (all 4 license records have blank indication fields — see Data Gap DG001) |
-| Predicted New Indication | Pneumocystosis |
-| TxGNN Prediction Score | 99.90% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 4 |
-| Recommended Decision | Hold |
+Clofazimine adalah agen antimikobarteri riminofenazin yang telah mapan dalam terapi multidrug kusta dan rejimen tuberkulosis resistan multidrug.
+Model TxGNN meramalkan bahwa ia mungkin efektif untuk **Pneumocystosis**, dengan skor prediksi **99.90%**, tetapi **0 uji klinis** dan **0 publikasi** saat ini mendukung arah ini, dan penjelasan mekanis model sendiri menandai prediksi ini sebagai kemungkinan artefak ko-kemunculan grafik pengetahuan daripada tautan farmakologis sejati.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Singkat
 
-Currently, detailed mechanism of action data is not available (Data Gap DG002). Based on known information, clofazimine is a riminophenazine compound whose established mechanism involves DNA binding, reactive oxygen species (ROS) induction, and inhibition of the K+ channel/phospholipase A2 pathway — an antimycobacterial and immunomodulatory profile used against *M. leprae* and *M. tuberculosis*.
-
-*Pneumocystis jirovecii*, the causative organism of pneumocystosis, is a fungus with cell wall composition and metabolic pathways substantially different from mycobacteria. There is no documented antifungal activity for clofazimine that would mechanistically support this prediction. The evidence pack's own rationale for this ranking states that the high TxGNN score likely reflects graph proximity between clofazimine and pneumocystosis through a shared "opportunistic infection in immunocompromised populations" node cluster, rather than a genuine pharmacological relationship — and explicitly rates the credibility of this link as low.
-
-Two lower-ranked candidates were also generated: **malaria** (99.60%, rank 6229) has a somewhat more plausible theoretical basis — clofazimine's lipophilicity, membrane penetration, and ROS-induction mechanism overlap conceptually with oxidative-stress-based antimalarial mechanisms, and the rationale notes prior literature reports of in vitro antiplasmodial activity, though this evidence pack's own PubMed/ClinicalTrials/ICTRP searches returned zero hits — suggesting an evidence-collection gap rather than a true absence of literature, and warranting a targeted follow-up search. **Gastrin secretion abnormality** (99.57%, rank 6584) has no known mechanistic basis and is assessed as likely graph noise.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered
+| Item | Konten |
+|------|--------|
+| Indikasi Asli | Kusta (Penyakit Hansen) / MDR-TB — berdasarkan pengetahuan farmakologis yang mapan tentang clofazimine; tidak dikonfirmasi oleh teks lisensi NPRA dalam Evidence Pack ini (semua 4 catatan lisensi memiliki kolom indikasi kosong — lihat Data Gap DG001) |
+| Indikasi Baru yang Diprediksi | Pneumocystosis |
+| Skor Prediksi TxGNN | 99.90% |
+| Tingkat Bukti | L5 |
+| Status Pasar Malaysia | ✓ Dipasarkan |
+| Jumlah Registrasi | 4 |
+| Rekomendasi Keputusan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Prediksi Ini Masuk Akal?
 
-Currently no related literature available
+Saat ini, data mekanisme kerja yang terperinci tidak tersedia (Data Gap DG002). Berdasarkan informasi yang diketahui, clofazimine adalah senyawa riminofenazin yang mekanismenya yang mapan melibatkan pengikatan DNA, induksi spesies oksigen reaktif (ROS), dan penghambatan jalur saluran K+ / fosfolipase A2 — profil antimikobakteri dan imunomodulatif yang digunakan melawan *M. leprae* dan *M. tuberculosis*.
 
----
+*Pneumocystis jirovecii*, organisme penyebab pneumocystosis, adalah jamur dengan komposisi dinding sel dan jalur metabolik yang secara substansial berbeda dari mikobakteri. Tidak ada aktivitas antijamur yang terdokumentasi untuk clofazimine yang akan secara mekanis mendukung prediksi ini. Penjelasan Evidence Pack sendiri untuk peringkat ini menyatakan bahwa skor TxGNN yang tinggi kemungkinan mencerminkan kedekatan grafik antara clofazimine dan pneumocystosis melalui cluster simpul "infeksi oportunistik pada populasi imunokompromi" bersama, daripada hubungan farmakologis sejati — dan secara eksplisit menilai kredibilitas tautan ini sebagai rendah.
 
-## Malaysia Market Information
-
-Four authorizations are on record with Malaysia's NPRA (total_licenses = 4), but product-level details (license number, product name, dosage form, approved indication text) are not populated in this Evidence Pack — this is a data gap requiring direct NPRA lookup to resolve.
+Dua kandidat peringkat lebih rendah juga dihasilkan: **malaria** (99.60%, rank 6229) memiliki dasar teoretis yang agak lebih masuk akal — lipofilitasitas clofazimine, penetrasi membran, dan mekanisme induksi ROS secara konseptual tumpang tindih dengan mekanisme antimalarial berbasis stres oksidatif, dan penjelasan mencatat laporan literatur sebelumnya tentang aktivitas antiplasmodial in vitro, meskipun penelusuran PubMed/ClinicalTrials/ICTRP Evidence Pack sendiri mengembalikan nol hit — menunjukkan kesenjangan pengumpulan bukti daripada ketiadaan literatur sejati, dan menjamin pencarian tindak lanjut yang ditargetkan. **Abnormalitas sekresi gastrin** (99.57%, rank 6584) tidak memiliki dasar mekanis yang diketahui dan dinilai sebagai kemungkinan kebisingan grafik.
 
 ---
 
-## Safety Considerations
+## Bukti Uji Klinis
 
-Please refer to the package insert for safety information. (Key warnings, contraindications, and drug interaction data are all flagged as data gaps in this Evidence Pack — DG001, Blocking severity — and could not be retrieved.)
+Saat ini tidak ada uji klinis terkait yang terdaftar
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Hold**
+Saat ini tidak ada literatur terkait yang tersedia
 
-**Rationale:**
-The top-ranked predicted indication (pneumocystosis) is unsupported by any clinical trial or literature evidence, and this Evidence Pack's own mechanistic analysis assesses the graph-derived link as low-credibility co-occurrence rather than genuine pharmacology. Additionally, TFDA/NPRA warning and contraindication data is a Blocking-severity gap, which prevents the case from entering the S1 safety pre-screening stage regardless of indication.
+---
 
-**To proceed, the following is needed:**
-- NPRA/TFDA package insert (warnings, contraindications) — resolves Blocking Data Gap DG001, required before any S1 safety assessment
-- DrugBank mechanism-of-action detail — resolves High-severity Data Gap DG002
-- Confirmed NPRA license text for the 4 existing Malaysia registrations (license number, product name, dosage form, approved indication)
-- If pursuing the malaria candidate instead of pneumocystosis: a targeted external literature search for in vitro/in vivo antiplasmodial data on clofazimine, since this evidence pack's automated search found none despite the rationale citing prior reports
+## Informasi Pasar Malaysia
+
+Empat otorisasi tercatat dengan NPRA Malaysia (total_licenses = 4), tetapi detail tingkat produk (nomor lisensi, nama produk, bentuk sediaan, teks indikasi yang disetujui) tidak diisi dalam Evidence Pack ini — ini adalah kesenjangan data yang memerlukan pencarian langsung NPRA untuk diselesaikan.
+
+---
+
+## Pertimbangan Keamanan
+
+Silakan merujuk pada maklumat kemasan untuk informasi keamanan. (Data peringatan utama, kontraindikasi, dan interaksi obat semuanya ditandai sebagai kesenjangan data dalam Evidence Pack ini — DG001, Blocking severity — dan tidak dapat diambil.)
+
+---
+
+## Kesimpulan dan Langkah Selanjutnya
+
+**Keputusan: Tahan**
+
+**Alasan:**
+Indikasi yang diprediksi peringkat teratas (pneumocystosis) tidak didukung oleh bukti uji klinis atau literatur apa pun, dan analisis mekanis Evidence Pack sendiri menilai tautan yang diturunkan dari grafik sebagai ko-kemunculan berkredibilitas rendah daripada farmakologi sejati. Selain itu, data peringatan TFDA/NPRA dan kesenjangan kontraindikasi adalah Blocking-severity gap, yang mencegah kasus memasuki tahap pra-skrining keamanan S1 terlepas dari indikasi.
+
+**Untuk melanjutkan, diperlukan hal berikut:**
+- Maklumat kemasan NPRA/TFDA (peringatan, kontraindikasi) — menyelesaikan Blocking Data Gap DG001, diperlukan sebelum penilaian keamanan S1 apa pun
+- Detail mekanisme kerja DrugBank — menyelesaikan Data Gap High-severity DG002
+- Teks lisensi NPRA yang dikonfirmasi untuk 4 registrasi Malaysia yang ada (nomor lisensi, nama produk, bentuk sediaan, indikasi yang disetujui)
+- Jika mengejar kandidat malaria bukan pneumocystosis: pencarian literatur eksternal yang ditargetkan untuk data antiplasmodial in vitro/in vivo pada clofazimine, karena pencarian otomatis Evidence Pack ini menemukan nol hit meskipun penjelasan mengutip laporan sebelumnya
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

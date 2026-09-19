@@ -29,82 +29,83 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Norethisterone: From Hormonal Contraception/Menstrual Regulation to Amenorrhea
+# Norethisterone: Daripada Kontrasepsi Hormon/Pengaturan Menstruasi ke Amenorea
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-> Norethisterone (DB00717) is a 19-nortestosterone-derived progestin generally used in hormonal contraception and menstrual cycle regulation; the specific Malaysian/Taiwan-registered indication text was not retrievable in this data pull.
-> The TxGNN model predicts it may be effective for **Amenorrhea**, with a **99.60%** prediction score, supported by **8 clinical trials** and **~20 publications**.
-> However, the underlying evidence suggests this may reflect a **drug-causes-disease** association (norethisterone inducing amenorrhea as a side effect / add-back component) rather than a genuine treatment signal, and evidence strength is only L3.
+> Norethisterone (DB00717) adalah progestin yang berasal daripada 19-nortestosteron yang biasanya digunakan dalam kontrasepsi hormon dan pengaturan kitaran menstruasi; teks indikasi yang terdaftar khusus di Malaysia/Taiwan tidak dapat diperolehi dalam pengambilan data ini.
+> Model TxGNN meramalkan bahawa ianya mungkin berkesan untuk **Amenorea**, dengan skor ramalan **99,60%**, disokong oleh **8 ujian klinis** dan **~20 penerbitan**.
+> Walau bagaimanapun, bukti yang mendasari mencadangkan bahawa ini mungkin mencerminkan perkaitan **ubat-menyebabkan-penyakit** (norethisterone menginduksi amenorea sebagai kesan sampingan/komponen penambahan balik) daripada isyarat rawatan yang tulen, dan kekuatan bukti hanyalah L3.
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | Not specified in available data (no `approved_indication_text` retrieved from registry; norethisterone is generally known as a progestin used in contraception/menstrual disorders) |
-| Predicted New Indication | Amenorrhea (disease) |
-| TxGNN Prediction Score | 99.60% |
-| Evidence Level | L3 (per evidence pack scoring) |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 7 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|---------|
+| Indikasi Asal | Tidak dinyatakan dalam data yang tersedia (tiada teks indikasi yang diluluskan diambil daripada pendaftaran; norethisterone secara umum diketahui sebagai progestin yang digunakan dalam kontrasepsi/gangguan menstruasi) |
+| Indikasi Baru yang Diramalkan | Amenorea (penyakit) |
+| Skor Ramalan TxGNN | 99,60% |
+| Tahap Bukti | L3 (mengikut pemarkahan paket bukti) |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 7 |
+| Keputusan yang Disyorkan | Tunda |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data is not available (`original_moa: [Data Gap]`). Based on known pharmacology, norethisterone is a synthetic progestin that binds the progesterone receptor and is primarily used to induce endometrial withdrawal bleeding, delay menses, and support contraceptive regimens — a mechanism that is, if anything, **opposite in direction** to treating amenorrhea (absence of menstruation).
+Pada masa kini, data mekanisme tindakan terperinci tidak tersedia (`original_moa: [Jurang Data]`). Berdasarkan farmakologi yang diketahui, norethisterone adalah progestin sintetik yang mengikat reseptor progesteron dan digunakan terutamanya untuk menginduksi pendarahan pengeluaran endometrium, menangguhkan haid, dan menyokong rejim kontrasepsi — mekanisme yang, jika ada pun, **berlawanan arah** dengan merawat amenorea (ketiadaan menstruasi).
 
-The supporting evidence largely reflects this ambiguity. Of the 8 clinical trials retrieved, most (LIBERTY 1, LIBERTY 2, LIBERTY EXTENSION, NCT03751124) use **relugolix** (a GnRH antagonist) as the primary agent, with norethindrone acetate included only as low-dose "add-back" therapy to offset estrogen-deficiency side effects (e.g., bone density loss) — amenorrhea/bleeding reduction in these trials is driven by relugolix's suppression of ovulation, not by norethisterone itself. The remaining trials (elagolix studies, BG2109) do not involve norethisterone at all.
+Bukti yang menyokong sebagian besar mencerminkan kekaburan ini. Daripada 8 ujian klinis yang diambil, kebanyakan (LIBERTY 1, LIBERTY 2, LIBERTY EXTENSION, NCT03751124) menggunakan **relugolix** (antagonis GnRH) sebagai agen utama, dengan norethindron asetat hanya disertakan sebagai terapi "penambahan balik" dos rendah untuk mengimbangi kesan sampingan kekurangan estrogen (cth, kehilangan kepadatan tulang) — amenorea/pengurangan pendarahan dalam ujian ini didorong oleh penindasan relugolix terhadap ovulasi, bukan oleh norethisterone itu sendiri. Ujian yang tinggal (kajian elagolix, BG2109) tidak melibatkan norethisterone sama sekali.
 
-The evidence pack's own `repurposing_rationale.mechanistic_link` flags this explicitly: the high TxGNN score (0.996) may reflect a **drug–disease co-occurrence/side-effect association** (long-term progestin or combined oral contraceptive use causing amenorrhea) rather than a validated therapeutic relationship. This directional ambiguity should be resolved before any further development effort.
+Paket bukti itu sendiri menandai kekaburan ini secara eksplisit dalam `repurposing_rationale.mechanistic_link`: skor TxGNN yang tinggi (0.996) mungkin mencerminkan perkaitan **ubat–penyakit ko-kejadian/kesan sampingan** (penggunaan progestin jangka panjang atau kontraseptif oral kombinasi menyebabkan amenorea) daripada hubungan terapeutik yang disahkan. Kekaburan arah ini harus diselesaikan sebelum sebarang usaha pembangunan lanjut.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinis
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT03049735](https://clinicaltrials.gov/study/NCT03049735) | Phase 3 | Completed | 388 | LIBERTY 1: relugolix ± low-dose estradiol/norethindrone acetate (NETA) add-back vs placebo for heavy menstrual bleeding in uterine fibroids; amenorrhea a secondary outcome. NETA is an add-back component, not the primary agent. |
-| [NCT03103087](https://clinicaltrials.gov/study/NCT03103087) | Phase 3 | Completed | 382 | LIBERTY 2: identical design/regimen to LIBERTY 1, confirmatory Phase 3 RCT. |
-| [NCT03412890](https://clinicaltrials.gov/study/NCT03412890) | Phase 3 | Completed | 477 | LIBERTY EXTENSION: open-label, long-term (28-week) safety/efficacy extension of relugolix + estradiol/NETA. |
-| [NCT03751124](https://clinicaltrials.gov/study/NCT03751124) | Phase 3 | Completed | 229 | Randomized withdrawal study of relugolix + estradiol + norethindrone acetate, up to 104 weeks, in uterine fibroid patients. |
-| [NCT05620355](https://clinicaltrials.gov/study/NCT05620355) | Phase 3 | Unknown | 312 | BG2109 (not norethisterone) ± add-back therapy for heavy menstrual bleeding; status unclear, drug identity for add-back not confirmed. |
-| [NCT01817530](https://clinicaltrials.gov/study/NCT01817530) | Phase 2 | Completed | 571 | Elagolix ± add-back vs placebo for heavy menstrual bleeding in uterine fibroids; primary agent is elagolix, not norethisterone. |
-| [NCT01441635](https://clinicaltrials.gov/study/NCT01441635) | Phase 2 | Completed | 271 | Elagolix vs placebo proof-of-concept for uterine bleeding/fibroid volume; no direct norethisterone involvement. |
-| [NCT06953076](https://clinicaltrials.gov/study/NCT06953076) | N/A | Recruiting | 111 | Ultrasound observational study of fibroid morphology during relugolix/estradiol/norethisterone treatment; descriptive imaging study, not an efficacy trial. |
+| [NCT03049735](https://clinicaltrials.gov/study/NCT03049735) | Fasa 3 | Selesai | 388 | LIBERTY 1: relugolix ± estradiol dos rendah/norethindron asetat (NETA) penambahan balik vs plasebo untuk pendarahan menstruasi berat dalam fibroid uterus; amenorea adalah hasil sekunder. NETA adalah komponen penambahan balik, bukan agen utama. |
+| [NCT03103087](https://clinicaltrials.gov/study/NCT03103087) | Fasa 3 | Selesai | 382 | LIBERTY 2: reka bentuk/rejim yang sama dengan LIBERTY 1, ujian RCT Fasa 3 pengesahan. |
+| [NCT03412890](https://clinicaltrials.gov/study/NCT03412890) | Fasa 3 | Selesai | 477 | LIBERTY EXTENSION: label terbuka, keselamatan/keberkesanan jangka panjang (28 minggu) peluasan relugolix + estradiol/NETA. |
+| [NCT03751124](https://clinicaltrials.gov/study/NCT03751124) | Fasa 3 | Selesai | 229 | Kajian penarikan balik rawak relugolix + estradiol + norethindron asetat, sehingga 104 minggu, dalam pesakit fibroid uterus. |
+| [NCT05620355](https://clinicaltrials.gov/study/NCT05620355) | Fasa 3 | Tidak Diketahui | 312 | BG2109 (bukan norethisterone) ± terapi penambahan balik untuk pendarahan menstruasi berat; status tidak jelas, identiti ubat untuk penambahan balik tidak disahkan. |
+| [NCT01817530](https://clinicaltrials.gov/study/NCT01817530) | Fasa 2 | Selesai | 571 | Elagolix ± penambahan balik vs plasebo untuk pendarahan menstruasi berat dalam fibroid uterus; agen utama adalah elagolix, bukan norethisterone. |
+| [NCT01441635](https://clinicaltrials.gov/study/NCT01441635) | Fasa 2 | Selesai | 271 | Elagolix vs bukti plasebo konsep untuk pendarahan uterus/isipadu fibroid; tiada penglibatan norethisterone langsung. |
+| [NCT06953076](https://clinicaltrials.gov/study/NCT06953076) | T/A | Merekrut | 111 | Kajian pemerhatian ultrasound morfologi fibroid semasa rawatan relugolix/estradiol/norethisterone; kajian pengimejan perihal, bukan ujian keberkesanan. |
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [37863160](https://pubmed.ncbi.nlm.nih.gov/37863160/) | 2024 | RCT | American Journal of Obstetrics and Gynecology | Relugolix + estradiol + NETA (LIBERTY Long-Term Extension) improved fibroid-associated heavy menstrual bleeding in Black/African American women over 52 weeks; NETA is add-back, not primary driver. |
-| [41489365](https://pubmed.ncbi.nlm.nih.gov/41489365/) | 2026 | Secondary analysis | Biology of Reproduction | WHICH trial secondary study: compared DMPA-IM vs norethisterone enanthate (NET-EN) on HPO axis; DMPA-IM associated with more amenorrhea than NET-EN, suggesting NET-EN is *less* amenorrhea-inducing among injectables. |
-| [6786825](https://pubmed.ncbi.nlm.nih.gov/6786825/) | 1981 | Phase I trial | Contraception | Phase I trial of norethisterone enanthate (NEN) and norethisterone acetate (NET) in 20 women; reports amenorrhea/spotting as menstrual-disorder side effects during contraceptive use. |
-| [38530848](https://pubmed.ncbi.nlm.nih.gov/38530848/) | 2024 | RCT | PLoS One | WHICH randomized trial comparing DMPA-IM and NET-EN effects on estradiol levels and menstrual/psychological/behavioral measures relevant to HIV risk. |
-| [37103532](https://pubmed.ncbi.nlm.nih.gov/37103532/) | 2023 | Review | Obstetrics and Gynecology | Reviews oral GnRH antagonists (co-administered with steroid hormones, e.g., norethindrone) for uterine leiomyoma management. |
-| [23641480](https://pubmed.ncbi.nlm.nih.gov/23641480/) | 2013 | Systematic Review (Cochrane) | Cochrane Database of Systematic Reviews | Review of combination injectable contraceptives, including bleeding-pattern changes (e.g., amenorrhea) as a known effect. |
-| [18843662](https://pubmed.ncbi.nlm.nih.gov/18843662/) | 2008 | Systematic Review (Cochrane) | Cochrane Database of Systematic Reviews | Earlier Cochrane review of combination injectable contraceptives, same topic as above. |
-| [2975377](https://pubmed.ncbi.nlm.nih.gov/2975377/) | 1988 | Review | The Practitioner | General review of injectable contraception. |
-| [2660092](https://pubmed.ncbi.nlm.nih.gov/2660092/) | 1989 | Review | Pediatric Clinics of North America | Overview of hormonal contraception principles for adolescent care. |
-| [12317413](https://pubmed.ncbi.nlm.nih.gov/12317413/) | 1987 | Review | Current Therapeutics | General review of oral contraceptives. |
+| [37863160](https://pubmed.ncbi.nlm.nih.gov/37863160/) | 2024 | RCT | American Journal of Obstetrics and Gynecology | Relugolix + estradiol + NETA (LIBERTY Long-Term Extension) meningkatkan pendarahan menstruasi berat yang berkaitan fibroid dalam wanita Kulit Hitam/Afrika Barat selama 52 minggu; NETA adalah penambahan balik, bukan pemacu utama. |
+| [41489365](https://pubmed.ncbi.nlm.nih.gov/41489365/) | 2026 | Analisis Sekunder | Biology of Reproduction | Kajian sekunder WHICH: membandingkan DMPA-IM vs norethisterone enanthate (NET-EN) pada paksi HPO; DMPA-IM berkaitan dengan amenorea lebih banyak daripada NET-EN, mencadangkan NET-EN adalah *kurang* pemicu amenorea di kalangan boleh suntik. |
+| [6786825](https://pubmed.ncbi.nlm.nih.gov/6786825/) | 1981 | Ujian Fasa I | Contraception | Ujian Fasa I norethisterone enanthate (NEN) dan norethisterone acetate (NET) dalam 20 wanita; melaporkan amenorea/bercak-bercak sebagai kesan sampingan gangguan menstruasi semasa penggunaan kontraseptif. |
+| [38530848](https://pubmed.ncbi.nlm.nih.gov/38530848/) | 2024 | RCT | PLoS One | Ujian WHICH rawak membandingkan kesan DMPA-IM dan NET-EN pada tahap estradiol dan langkah menstruasi/psikologi/perilaku yang relevan dengan risiko HIV. |
+| [37103532](https://pubmed.ncbi.nlm.nih.gov/37103532/) | 2023 | Ulasan | Obstetrics and Gynecology | Menyemak antagonis GnRH oral (diberikan bersama dengan hormon steroid, cth, norethindrone) untuk pengurusan leiomyoma uterus. |
+| [23641480](https://pubmed.ncbi.nlm.nih.gov/23641480/) | 2013 | Ulasan Sistematik (Cochrane) | Cochrane Database of Systematic Reviews | Ulasan kontraseptif suntikan gabungan, termasuk perubahan corak pendarahan (cth, amenorea) sebagai kesan yang diketahui. |
+| [18843662](https://pubmed.ncbi.nlm.nih.gov/18843662/) | 2008 | Ulasan Sistematik (Cochrane) | Cochrane Database of Systematic Reviews | Ulasan Cochrane lebih awal tentang kontraseptif suntikan gabungan, topik yang sama seperti di atas. |
+| [2975377](https://pubmed.ncbi.nlm.nih.gov/2975377/) | 1988 | Ulasan | The Practitioner | Ulasan umum kontrasepsi suntikan. |
+| [2660092](https://pubmed.ncbi.nlm.nih.gov/2660092/) | 1989 | Ulasan | Pediatric Clinics of North America | Gambaran keseluruhan prinsip kontrasepsi hormon untuk penjagaan remaja. |
+| [12317413](https://pubmed.ncbi.nlm.nih.gov/12317413/) | 1987 | Ulasan | Current Therapeutics | Ulasan umum kontraseptif oral. |
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-License-level detail (authorization numbers, product names, dosage forms, approved indication text) was not returned in this data pull — all 7 registered license records have empty fields. Only the aggregate figures are confirmed: **7 total licenses**, market status **Marketed (Marketed)**. Full license detail should be re-queried from the source registry before this is used in decision-making.
+Perincian peringkat lesen (nombor kebenaran, nama produk, bentuk dos, teks indikasi yang diluluskan) tidak dikembalikan dalam pengambilan data ini — semua 7 rekod lesen berdaftar mempunyai medan kosong. Hanya angka agregat yang disahkan: **7 jumlah lesen**, status pasaran **Dipasarkan (Dipasarkan)**. Perincian lesen penuh harus ditanya semula daripada pendaftaran sumber sebelum ini digunakan dalam pembuatan keputusan.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information. (Key warnings, contraindications, and drug-interaction data were not available in this evidence pack — flagged as Blocking data gap DG001, TFDA label warnings/contraindications not yet retrieved.)
+Sila rujuk risalah paket untuk maklumat keselamatan. (Data amaran utama paket, kontra-indikasi, dan interaksi ubat tidak tersedia dalam paket bukti ini — ditandai sebagai jurang data pemblokiran DG001, amaran label TFDA/kontra-indikasi belum diambil lagi.)
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tunda**
 
-**Rationale:**
-- The mechanistic rationale itself questions the direction of the TxGNN association — most supporting trials use norethisterone/NETA only as an add-back component to a different primary drug (relugolix), and clinical literature indicates norethisterone-containing regimens are more plausibly linked to *causing* amenorrhea (as a contraceptive side effect) than treating it. Combined with L3 evidence and a Blocking safety data gap (DG001), this does not meet the bar to proceed.
+**Alasan:**
+- Alasan mekanistik itu sendiri mempersoalkan arah perkaitan TxGNN — kebanyakan ujian yang menyokong menggunakan norethisterone/NETA hanya sebagai komponen penambahan balik kepada ubat utama yang berbeza (relugolix), dan kesusasteraan klinis menunjukkan bahawa rejim yang mengandungi norethisterone lebih munasabah dikaitkan dengan *menyebabkan* amenorea (sebagai kesan sampingan kontraseptif) daripada merawatnya. Digabungkan dengan bukti L3 dan jurang data keselamatan pemblokiran (DG001), ini tidak memenuhi bar untuk meneruskan.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA label warnings and contraindications (resolve DG001, currently blocking safety review)
-- Confirmed mechanism of action data (resolve DG002)
-- A targeted literature/trial search restricted to norethisterone as monotherapy (not as GnRH-antagonist add-back) for amenorrhea treatment, to clarify whether a genuine treatment signal exists
-- Malaysia/Taiwan license-level indication text (currently empty across all 7 records) to establish the true original indication baseline
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Amaran label TFDA/NPRA dan kontra-indikasi (selesaikan DG001, pada masa kini memblokir semakan keselamatan)
+- Data mekanisme tindakan yang disahkan (selesaikan DG002)
+- Pencarian kesusasteraan/ujian tertumpu yang terbatas kepada norethisterone sebagai terapi mono (bukan sebagai penambahan balik antagonis GnRH) untuk rawatan amenorea, untuk menjelaskan sama ada isyarat rawatan tulen wujud
+- Teks indikasi peringkat lesen Malaysia/Taiwan (pada masa kini kosong merentas semua 7 rekod) untuk mewujudkan garis dasar indikasi asal yang benar
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

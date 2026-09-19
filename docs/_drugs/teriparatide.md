@@ -29,84 +29,85 @@ Tahap bukti: **L3** | Indikasi diramal: **10**
 
 </div>
 
-# Teriparatide: From Osteoporosis to Pregnancy-Associated Osteoporosis
+# Teriparatide: Daripada Osteoporosis kepada Osteoporosis Berkaitan Kehamilan
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-> Teriparatide (DrugBank DB06285) is a recombinant PTH(1-34) analogue originally used to treat osteoporosis by stimulating bone formation.
-> Among the 10 TxGNN-predicted indications in this pack, most of the highest-scoring candidates (e.g. duodenal ulcer, esophageal malformation) have **no supporting evidence** and are explicitly flagged in the pack's own rationale as likely **model noise**.
-> The most evidence-backed candidate is **Pregnancy-Associated Osteoporosis**, supported by **2 completed clinical trials** (neither enrolled the target population) and corresponding to **Evidence Level L3**.
+> Teriparatide (DrugBank DB06285) adalah analogue PTH(1-34) rekombinan yang awalnya digunakan untuk merawat osteoporosis dengan merangsang pembentukan tulang.
+> Antara 10 indikasi yang diramalkan oleh TxGNN dalam pak ini, kebanyakan daripada calon-calon berskor tertinggi (cth. ulser duodenum, malformasi esofagus) **tiada bukti sokongan** dan secara jelas ditandai dalam rasional pak sendiri sebagai **bising model** yang kemungkinan.
+> Calon yang paling disokong oleh bukti adalah **Osteoporosis Berkaitan Kehamilan**, disokong oleh **2 ujian klinikal yang selesai** (kedua-duanya tidak merekrut populasi sasaran) dan sepadan dengan **Tahap Bukti L3**.
 
-*Note on selection: the raw #1 TxGNN score (duodenal ulcer, 99.86%) was not used as the headline indication because it has zero clinical/literature evidence and the pack's own mechanistic-link field describes it as embedding noise. This report instead highlights the highest-scoring candidate that has actual supporting data.*
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Osteoporosis (per FORTEO/teriparatide labeling referenced in trial NCT00277706; not directly available from NPRA license text) |
-| Predicted New Indication | Pregnancy-Associated Osteoporosis |
-| TxGNN Prediction Score | 99.55% |
-| Evidence Level | L3 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 5 |
-| Recommended Decision | Hold |
+*Nota tentang pemilihan: skor TxGNN mentah #1 (ulser duodenum, 99.86%) tidak digunakan sebagai indikasi tajuk utama kerana ia tiada bukti klinikal/literatur dan medan pautan mekanik pak sendiri menerangkannya sebagai bising tanam. Laporan ini sebaliknya menyerlahkan calon berskor tertinggi yang mempunyai data sokongan sebenar.*
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Pantas
 
-Teriparatide is a PTH(1-34) recombinant analogue that activates the PTH1 receptor, stimulating osteoblastic bone formation. It is an approved osteoanabolic agent for osteoporosis. Pregnancy-associated osteoporosis is, at its core, still a low-bone-density/bone-loss disorder, so there is a plausible mechanistic overlap with teriparatide's core indication — activating the same PTH1-mediated bone-formation pathway that underlies its approved osteoporosis use.
-
-However, neither supporting trial was designed for this population: NCT00277706 (Phase 1, completed, N=40) tested PTH(1-34)/FORTEO for periodontal bone regeneration, and NCT02440581 (NA phase, completed, N=141) studied bone loss in dialysis-dependent renal osteodystrophy patients. Both provide only indirect, mechanism-level support rather than direct efficacy evidence in pregnant or postpartum patients. Critically, teriparatide use in pregnancy carries an unresolved reproductive-safety question — animal studies have raised an osteosarcoma signal, and no fetal safety data exists for this population.
-
-By contrast, the majority of the other 9 predicted indications (duodenal ulcer, non-syndromic esophageal malformation, duodenal obstruction, duodenogastric reflux, Worth syndrome, autosomal dominant neovascular inflammatory vitreoretinopathy, succinyl-CoA:3-ketoacid CoA transferase deficiency) have no clinical trials, no literature, and no plausible mechanistic link to PTH1-receptor signaling — several are even mechanistically contradictory (e.g., Worth syndrome is a high-bone-density disorder, the opposite direction of an osteoanabolic drug). One additional candidate, amenorrhea (rank 10, L4), has indirect support via estrogen-deficiency-related bone loss (PMID 36303862), but the only literature is a general review, not a direct intervention study. Esophageal disease (rank 5) literature was also reviewed and excluded — the cited papers describe teriparatide **adverse events** (including calcinosis cutis), not efficacy in esophageal disease, so it is a safety signal in the wrong direction, not repurposing support.
+| Item | Kandungan |
+|------|---------|
+| Indikasi Asal | Osteoporosis (setiap rujukan pelabelan FORTEO/teriparatide dalam ujian NCT00277706; tidak tersedia secara langsung daripada teks lesen NPRA) |
+| Indikasi Baru yang Diramalkan | Osteoporosis Berkaitan Kehamilan |
+| Skor Ramalan TxGNN | 99.55% |
+| Tahap Bukti | L3 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 5 |
+| Keputusan Disyorkan | Tahan |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Teriparatide adalah analogue PTH(1-34) rekombinan yang mengaktifkan reseptor PTH1, merangsang pembentukan tulang osteoblastik. Ia adalah agen osteoanabolik yang diluluskan untuk osteoporosis. Osteoporosis berkaitan kehamilan, pada intinya, masih merupakan gangguan ketumpatan tulang rendah/kehilangan tulang, jadi ada pertindihan mekanik yang munasabah dengan indikasi teras teriparatide — mengaktifkan laluan pembentukan tulang yang sama yang dimediasi PTH1 yang mendasari penggunaannya yang diluluskan untuk osteoporosis.
+
+Bagaimanapun, kedua-dua ujian sokongan tidak dirancang untuk populasi ini: NCT00277706 (Fasa 1, selesai, N=40) menguji PTH(1-34)/FORTEO untuk penjanaan semula tulang periodontal, dan NCT02440581 (fasa N/A, selesai, N=141) mengkaji kehilangan tulang dalam pesakit osteodistrofi renal bergantung dialisis. Kedua-duanya memberikan hanya sokongan mekanik tidak langsung dan bukannya bukti keberkesanan langsung dalam pesakit hamil atau pasca-bersalin. Secara kritis, penggunaan teriparatide semasa kehamilan membawa persoalan keselamatan pembiakan yang tidak diselesaikan — kajian haiwan telah menimbulkan isyarat osteosarkoma, dan tiada data keselamatan janin wujud untuk populasi ini.
+
+Sebaliknya, majoriti daripada 9 indikasi yang diramalkan lain (ulser duodenum, malformasi esofagus bukan sindromik, obstruksi duodenum, refluk duodenogastrik, Sindrom Worth, vitreoretinopatitis radang neovaskular dominan autosom, kekurangan penggantian ketoacyl-CoA suksinil:3-ketoacid) tiada ujian klinikal, tiada literatur, dan tiada pautan mekanik yang munasabah kepada isyarat PTH1-reseptor — beberapa malahan secara mekanik bercanggah (cth., Sindrom Worth adalah gangguan ketumpatan tulang tinggi, arah bertentangan dengan ubat osteoanabolik). Satu calon tambahan, amenorrhea (pangkat 10, L4), mempunyai sokongan tidak langsung melalui kehilangan tulang berkaitan kekurangan estrogen (PMID 36303862), tetapi literatur tunggal adalah ulasan umum, bukan kajian intervensi langsung. Literatur penyakit esofagus (pangkat 5) juga telah disemak dan dikecualikan — kertas yang dirujuk menerangkan **peristiwa sampingan** teriparatide (termasuk kalsinosis kutis), bukan keberkesanan dalam penyakit esofagus, jadi ia isyarat keselamatan dalam arah yang salah, bukan sokongan penggunaan semula ubat.
+
+---
+
+## Bukti Ujian Klinikal
+
+| Nombor Ujian | Fasa | Status | Perekrutan | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT00277706](https://clinicaltrials.gov/study/NCT00277706) | Phase 1 | Completed | 40 | Tested PTH(1-34) (FORTEO) combined with periodontal surgery for oral bone regeneration; confirms osteoanabolic mechanism but not specific to pregnancy-associated osteoporosis |
-| [NCT02440581](https://clinicaltrials.gov/study/NCT02440581) | N/A | Completed | 141 | Evaluated bone loss/renal osteodystrophy in CKD dialysis patients; population and intervention only tangentially relevant |
+| [NCT00277706](https://clinicaltrials.gov/study/NCT00277706) | Fasa 1 | Selesai | 40 | Menguji PTH(1-34) (FORTEO) digabungkan dengan pembedahan periodontal untuk penjanaan semula tulang oral; mengesahkan mekanisme osteoanabolik tetapi bukan khusus kepada osteoporosis berkaitan kehamilan |
+| [NCT02440581](https://clinicaltrials.gov/study/NCT02440581) | N/A | Selesai | 141 | Menilai kehilangan tulang/osteodistrofi renal dalam pesakit CKD dialisis; populasi dan intervensi hanya relevan secara tangensial |
 
 ---
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no literature is registered specifically for the Pregnancy-Associated Osteoporosis indication.
+Pada masa ini tiada literatur didaftarkan khusus untuk indikasi Osteoporosis Berkaitan Kehamilan.
 
-(For context: the secondary candidate, amenorrhea, is supported by one review — [PMID 36303862](https://pubmed.ncbi.nlm.nih.gov/36303862/), 2022, *Frontiers in Endocrinology* — on bone health in functional hypothalamic amenorrhea, but it is not a direct teriparatide intervention study.)
-
----
-
-## Malaysia Market Information
-
-NPRA status is **Marketed (Marketed)** with **5 registered licenses**. However, product name, dosage form, manufacturer, and approved-indication text for these 5 licenses are not populated in the current data extract, so a license-level table cannot be produced. This gap should be remediated (NPRA product search or label PDF) before Malaysia-specific labeling comparisons are made.
+(Untuk konteks: calon sekunder, amenorrhea, disokong oleh satu ulasan — [PMID 36303862](https://pubmed.ncbi.nlm.nih.gov/36303862/), 2022, *Frontiers in Endocrinology* — tentang kesihatan tulang dalam amenorrhea hipotalamik fungsional, tetapi ia bukan kajian intervensi teriparatide langsung.)
 
 ---
 
-## Safety Considerations
+## Maklumat Pasaran Malaysia
 
-TFDA/NPRA package insert warnings, contraindications, and drug-interaction data are currently unavailable — this is flagged as a **Blocking** data gap (DG001), which prevents a formal safety (S1) review. Please refer to the official package insert for safety information until this gap is resolved.
+Status NPRA adalah **Dipasarkan (Dipasarkan)** dengan **5 lesen terdaftar**. Bagaimanapun, nama produk, bentuk dos, pengilang, dan teks indikasi yang diluluskan untuk 5 lesen ini tidak diisi dalam ekstrak data semasa, jadi jadual tahap lesen tidak boleh dihasilkan. Jurang ini perlu dipulihkan (pencarian produk NPRA atau PDF label) sebelum perbandingan pelabelan khusus Malaysia dibuat.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Data sisipan paket TFDA/NPRA tentang amaran, kontraindikasi, dan data interaksi ubat pada masa ini tidak tersedia — ini ditandai sebagai jurang data **Menyekat** (DG001), yang menghalang ulasan keselamatan rasmi (S1). Sila rujuk sisipan paket rasmi untuk maklumat keselamatan sehingga jurang ini diselesaikan.
 
-**Rationale:**
-Safety data required for even an initial risk screen is blocked (DG001, Blocking severity), and the strongest available indication (pregnancy-associated osteoporosis) is only supported by trials in unrelated populations plus an unresolved reproductive-safety concern (potential osteosarcoma signal in animal data, no fetal safety data). Evidence is directional, not confirmatory.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert data (warnings, contraindications, DDI) to close DG001
-- Confirmed mechanism of action from DrugBank to close DG002
-- Dedicated clinical evidence in pregnant/postpartum osteoporosis patients
-- Reproductive and fetal safety data before any pregnancy-related indication is considered
-- Completion of Malaysia license details (product name, dosage form, indication text) for the 5 existing registrations
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Data keselamatan yang diperlukan untuk skrin risiko awal pun dihalang (DG001, keterukan Menyekat), dan indikasi terkuat tersedia (osteoporosis berkaitan kehamilan) hanya disokong oleh ujian dalam populasi yang tidak berkaitan serta persoalan keselamatan pembiakan yang tidak diselesaikan (isyarat osteosarkoma yang mungkin dalam data haiwan, tiada data keselamatan janin). Bukti adalah berarah, bukan pengesahan.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Data sisipan paket TFDA/NPRA (amaran, kontraindikasi, DDI) untuk menutup DG001
+- Mekanisme tindakan yang disahkan dari DrugBank untuk menutup DG002
+- Bukti klinikal yang berdedikasi dalam pesakit osteoporosis hamil/pasca-bersalin
+- Data keselamatan pembiakan dan janin sebelum mana-mana indikasi yang berkaitan kehamilan dipertimbangkan
+- Penyelesaian butiran lesen Malaysia (nama produk, bentuk dos, teks indikasi) untuk 5 pendaftaran sedia ada
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,109 +29,110 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Brigatinib: From ALK-Positive Non-Small Cell Lung Cancer to Gingival Fibromatosis
+# Brigatinib: Daripada Kanser Paru Sel Bukan Kecil ALK-Positif kepada Fibromatosis Gingival
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Brigatinib is a next-generation anaplastic lymphoma kinase (ALK) tyrosine kinase inhibitor, originally approved for the treatment of ALK-positive metastatic non-small cell lung cancer (NSCLC).
-The TxGNN model predicts it may be effective for **Gingival Fibromatosis**,
-however there are currently **0 clinical trials** and **0 publications** directly supporting this specific indication, placing this at the lowest evidence level (L5).
+Brigatinib ialah inhibitor tirosin kinase anaplastik limfoma (ALK) generasi seterusnya, yang pada asalnya telah diluluskan untuk rawatan kanser paru sel bukan kecil (NSCLC) metastatik ALK-positif.
+Model TxGNN meramalkan ia mungkin berkesan untuk **Fibromatosis Gingival**,
+namun kini terdapat **0 ujian klinikal** dan **0 penerbitan** yang secara langsung menyokong petunjukan khusus ini, meletakkan ini pada tahap bukti terendah (L5).
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | ALK-positive metastatic non-small cell lung cancer (NSCLC) |
-| Predicted New Indication | Fibromatosis, Gingival |
-| TxGNN Prediction Score | 99.89% |
-| Evidence Level | L5 — Model prediction only, no actual studies |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
-| Recommended Decision | **Hold** |
+| Item | Kandungan |
+|------|----------|
+| Petunjukan Asal | Kanser paru sel bukan kecil (NSCLC) metastatik ALK-positif |
+| Petunjukan Baru yang Diramalkan | Fibromatosis, Gingival |
+| Skor Ramalan TxGNN | 99.89% |
+| Tahap Bukti | L5 — Ramalan model sahaja, tiada kajian sebenar |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 3 |
+| Keputusan yang Disyorkan | **Tahan** |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Brigatinib (brand name ALUNBRIG™) is a next-generation small molecule tyrosine kinase inhibitor that primarily targets anaplastic lymphoma kinase (ALK). It also exhibits inhibitory activity against additional kinases including ROS1, FLT3, EGFR (including T790M mutant), and IGF-1R. It was first approved by the US FDA in April 2017 for ALK-positive metastatic NSCLC, and its first-line efficacy was established through the landmark Phase 3 ALTA-1L trial demonstrating superior progression-free survival over crizotinib. Detailed mechanism of action data was not available in the Evidence Pack, but based on extensive published literature, brigatinib's primary mechanism involves potent and selective inhibition of ALK kinase activity, blocking downstream oncogenic signalling pathways (RAS/MAPK, PI3K/AKT, JAK/STAT).
+Brigatinib (nama jenama ALUNBRIG™) ialah inhibitor tirosin kinase molekul kecil generasi seterusnya yang terutamanya menargetkan kinase anaplastik limfoma (ALK). Ia juga menunjukkan aktiviti penghambatan terhadap kinase tambahan termasuk ROS1, FLT3, EGFR (termasuk mutan T790M), dan IGF-1R. Ia pertama kali diluluskan oleh FDA AS pada April 2017 untuk NSCLC metastatik ALK-positif, dan keberkesanannya barisan pertama ditegakkan melalui ujian Fasa 3 mercu tanda ALTA-1L yang menunjukkan kemandirian bebas perkembangan yang lebih baik berbanding crizotinib. Data mekanisme tindakan terperinci tidak tersedia dalam Pakej Bukti, tetapi berdasarkan literatur yang diterbitkan secara meluas, mekanisme utama brigatinib melibatkan perencatan kinase ALK yang kuat dan terpilih, menghalang laluan isyarat onkogenik hiliran (RAS/MAPK, PI3K/AKT, JAK/STAT).
 
-Gingival fibromatosis is a benign condition characterised by progressive, non-neoplastic fibrous overgrowth of gingival tissue. It can be hereditary (caused by mutations in genes such as SOS1 or HGF) or drug-induced (commonly by calcium channel blockers, cyclosporin, or phenytoin). The pathophysiology involves excessive collagen deposition by gingival fibroblasts, driven by growth factor signalling (particularly TGF-β and CTGF pathways) rather than kinase-driven oncogenic proliferation.
+Fibromatosis gingival ialah keadaan jinak yang dicirikan oleh pertumbuhan berlebihan tisu gingival berserat yang progresif, bukan neoplastik. Ia boleh bersifat herediter (disebabkan oleh mutasi dalam gen seperti SOS1 atau HGF) atau teraruh oleh ubat (biasanya oleh penyekat saluran kalsium, siklosporin, atau fenitoin). Patofisiologi melibatkan pengenapan kolagen yang berlebihan oleh fibroblas gingival, didorong oleh pensinyalan faktor pertumbuhan (terutamanya laluan TGF-β dan CTGF) dan bukannya proliferasi onkogenik yang didorong kinase.
 
-The mechanistic link between ALK inhibition and gingival fibromatosis is weak. There is no established evidence that ALK signalling plays a role in gingival fibroblast proliferation or collagen overproduction. While TxGNN assigned a high prediction score (99.89%), this likely reflects topological proximity in the knowledge graph rather than a true pharmacological rationale. The absence of any clinical trials, case reports, or preclinical studies linking brigatinib (or any ALK inhibitor) to gingival fibromatosis further underscores the speculative nature of this prediction.
+Pautan mekanistik antara perencatan ALK dan fibromatosis gingival adalah lemah. Tiada bukti yang ditegakkan bahawa pensinyalan ALK memainkan peranan dalam proliferasi fibroblas gingival atau pengenapan kolagen berlebihan. Walaupun TxGNN menugaskan skor ramalan yang tinggi (99.89%), ini berkemungkinan mencerminkan kedekatan topologi dalam grafik pengetahuan dan bukannya potensi terapeutik yang sebenar untuk keadaan khusus ini. Ketiadaan sebarang ujian klinikal, laporan kes, atau kajian praklinikal yang menghubungkan brigatinib (atau mana-mana inhibitor ALK) dengan fibromatosis gingival seterusnya menekankan sifat spekulatif ramalan ini.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-Currently no related clinical trials registered for brigatinib in gingival fibromatosis.
+Kini tiada ujian klinikal berkaitan didaftarkan untuk brigatinib dalam fibromatosis gingival.
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no related literature available for brigatinib in gingival fibromatosis.
+Kini tiada literatur berkaitan tersedia untuk brigatinib dalam fibromatosis gingival.
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjukan Lulusan |
 |---------|------|------|-----------|
-| (Details pending) | — | — | ALK-positive NSCLC |
-| (Details pending) | — | — | ALK-positive NSCLC |
-| (Details pending) | — | — | ALK-positive NSCLC |
+| (Butiran ditunggu) | — | — | NSCLC ALK-positif |
+| (Butiran ditunggu) | — | — | NSCLC ALK-positif |
+| (Butiran ditunggu) | — | — | NSCLC ALK-positif |
 
-> *Note: 3 registrations are recorded in the NPRA database, but detailed product information (authorization numbers, product names, dosage forms, and approved indication text) was not available in the current data extract.*
+> *Nota: 3 pendaftaran tercatat dalam pangkalan data NPRA, tetapi maklumat produk terperinci (nombor kebenaran, nama produk, bentuk dos, dan teks petunjukan lulusan) tidak tersedia dalam ekstrak data semasa.*
 
-## Cytotoxicity
+## Sitotoksisiti
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Cytotoxicity Classification | Targeted therapy (ALK tyrosine kinase inhibitor) |
-| Myelosuppression Risk | Low to moderate — lymphopenia and anaemia reported; severe myelosuppression uncommon compared to conventional cytotoxics |
-| Emetogenicity Classification | Low |
-| Monitoring Items | CBC with differential, hepatic transaminases (ALT/AST), lipase/amylase, serum creatinine, blood glucose, blood pressure; pulmonary function (risk of early-onset pulmonary events/ILD) |
-| Handling Protection | Standard precautions for oral antineoplastic agents; no cytotoxic spill kit required for intact tablets, but broken/crushed tablets should be handled with gloves per institutional guidelines |
+| Klasifikasi Sitotoksisiti | Terapi bersasaran (inhibitor tirosin kinase ALK) |
+| Risiko Mielosuppresi | Rendah hingga sederhana — limfopenia dan anemia dilaporkan; mielosuppresi berat kurang biasa berbanding sitostatik konvensional |
+| Klasifikasi Emetogenisiti | Rendah |
+| Item Pemantauan | CBC dengan pembezaan, transaminase hepatik (ALT/AST), lipase/amilase, kreatinin serum, glukosa darah, tekanan darah; fungsi paru (risiko peristiwa paru awal/ILD) |
+| Perlindungan Pengendalian | Tindakan berjaga-jaga piawai untuk ubat antineoplastik oral; tiada perlu kit tumpahan sitotoksik untuk tablet utuh, tetapi tablet yang pecah/hancur harus ditangani dengan sarung tangan mengikut garis panduan institusi |
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-> Please refer to the package insert for safety information. Key warnings, contraindications, and drug interaction data were not available in the current evidence pack.
+> Sila rujuk sisipan pakej untuk maklumat keselamatan. Data amaran utama, kontraindikasi, dan interaksi ubat tidak tersedia dalam pakej bukti semasa.
 
-**Known class-level safety signals from published literature include:**
-- **Interstitial lung disease (ILD) / Pneumonitis**: Early-onset pulmonary events (within 7 days of initiation) reported in clinical trials; dose escalation strategy (90 mg × 7 days → 180 mg) was implemented to mitigate this risk
-- **Hypertension**: Treatment-emergent hypertension reported in ALTA-1L; blood pressure monitoring recommended
-- **Hepatotoxicity**: Elevations in ALT/AST observed; periodic liver function monitoring advised
-- **Tumour lysis syndrome (TLS)**: A fatal case of brigatinib-induced TLS has been reported in the literature (PMID: 34987411)
-- **Visual disturbances**: Blurred vision and other visual symptoms reported
+**Isyarat keselamatan tahap kelas yang diketahui dari literatur yang diterbitkan termasuk:**
+- **Penyakit paru interstisium (ILD) / Pneumonitis**: Peristiwa paru awal (dalam 7 hari permulaan) dilaporkan dalam ujian klinikal; strategi peningkatan dos (90 mg × 7 hari → 180 mg) telah dilaksanakan untuk mengurangkan risiko ini
+- **Hipertensi**: Hipertensi yang muncul rawatan dilaporkan dalam ALTA-1L; pemantauan tekanan darah disyorkan
+- **Hepatotoksisiti**: Peningkatan ALT/AST diperhatikan; pemantauan fungsi hati berkala disenaraikan
+- **Sindrom lisis tumor (TLS)**: Satu kes TLS teraruh brigatinib yang fatal telah dilaporkan dalam literatur (PMID: 34987411)
+- **Gangguan visual**: Penglihatan kabur dan gejala visual lain dilaporkan
 
-## Additional Predicted Indications Overview
+## Gambaran Keseluruhan Petunjukan Tambahan yang Diramalkan
 
-Given that the top-ranked prediction (gingival fibromatosis) lacks mechanistic rationale, a summary of all 10 predicted indications is provided below for completeness:
+Memandangkan petunjukan yang ditarafkan tertinggi (fibromatosis gingival) kekurangan rasional mekanistik, ringkasan semua 10 petunjukan yang diramalkan disediakan di bawah untuk kesempurnaan:
 
-| Rank | Predicted Indication | TxGNN Score | Evidence Level | Mechanistic Plausibility | Recommendation |
+| Kedudukan | Petunjukan yang Diramalkan | Skor TxGNN | Tahap Bukti | Kebolehpercayaan Mekanistik | Cadangan |
 |------|---------------------|-------------|----------------|--------------------------|----------------|
-| 1 | Fibromatosis, gingival | 99.89% | L5 | None — no ALK pathway involvement | Hold |
-| 2 | Fibroma of lung | 99.86% | L5 | None — benign tumour, no ALK activation | Hold |
-| 3 | Hamartoma of lung | 99.85% | L5 | None — HMGA2-driven, not ALK | Hold |
-| 4 | Lung hilum carcinoma | 99.85% | L4 | **Conditional** — if ALK+ NSCLC subtype, brigatinib already has Phase 3 evidence | Research Question |
-| 5 | Lung benign neoplasm | 99.85% | L5 | None — benign tumours lack ALK activation | Hold |
-| 6 | IBMPFD (VCP-related) | 99.84% | L5 | None — VCP gene mutation, unrelated to ALK | Hold |
-| 7 | Lung germ cell tumour | 99.84% | L4 | Weak — ALK not a common driver in GCTs | Hold |
-| 8 | Pulmonary sulcus neoplasm | 99.84% | L4 | **Conditional** — Pancoast tumour is NSCLC; if ALK+, existing evidence applies | Research Question |
-| 9 | Junctional epidermolysis bullosa | 99.83% | L5 | None — structural protein defect, unrelated to kinase signalling | Hold |
-| 10 | Leukomelanoderma syndrome | 99.83% | L5 | None — rare genetic developmental syndrome | Hold |
+| 1 | Fibromatosis, gingival | 99.89% | L5 | Tiada — tiada penglibatan laluan ALK | Tahan |
+| 2 | Fibroma paru-paru | 99.86% | L5 | Tiada — tumor jinak, tiada aktivasi ALK | Tahan |
+| 3 | Hamartoma paru-paru | 99.85% | L5 | Tiada — didorong HMGA2, bukan ALK | Tahan |
+| 4 | Karsinoma hilum paru-paru | 99.85% | L4 | **Bersyarat** — jika subtipe NSCLC ALK+, brigatinib sudah mempunyai bukti Fasa 3 | Soalan Penyelidikan |
+| 5 | Neoplasma jinak paru-paru | 99.85% | L5 | Tiada — tumor jinak kekurangan aktivasi ALK | Tahan |
+| 6 | IBMPFD (berkaitan VCP) | 99.84% | L5 | Tiada — mutasi gen VCP, tidak berkaitan dengan ALK | Tahan |
+| 7 | Tumor sel germinal paru-paru | 99.84% | L4 | Lemah — ALK bukan pemandu umum dalam GCT | Tahan |
+| 8 | Neoplasma sulkus paru | 99.84% | L4 | **Bersyarat** — tumor Pancoast ialah NSCLC; jika ALK+, bukti sedia ada terpakai | Soalan Penyelidikan |
+| 9 | Epidermolisis bullosa jungsional | 99.83% | L5 | Tiada — kecacatan protein struktur, tidak berkaitan dengan pensinyalan kinase | Tahan |
+| 10 | Sindrom leukomelanoderma | 99.83% | L5 | Tiada — sindrom perkembangan genetik jarang | Tahan |
 
-**Notable finding**: The most scientifically interesting signal for brigatinib repurposing does **not** appear in the TxGNN top-10 list but is present in the literature evidence: **NF2-related schwannomatosis**. A Phase 2 trial published in *The New England Journal of Medicine* (PMID: [38904277](https://pubmed.ncbi.nlm.nih.gov/38904277/)) demonstrated that brigatinib causes tumour shrinkage in NF2-deficient schwannomas and meningiomas through inhibition of multiple tyrosine kinases (not ALK), representing a genuine mechanistically validated repurposing opportunity.
+**Penemuan ketara**: Isyarat yang paling menarik secara saintifik untuk penggunaan semula brigatinib **tidak** muncul dalam senarai 10 teratas TxGNN tetapi hadir dalam bukti literatur: **schwannomatosis berkaitan NF2**. Ujian Fasa 2 yang diterbitkan dalam *The New England Journal of Medicine* (PMID: [38904277](https://pubmed.ncbi.nlm.nih.gov/38904277/)) menunjukkan bahawa brigatinib menyebabkan pengecilan tumor dalam schwannoma dan meningioma kekurangan NF2 melalui perencatan pelbagai kinase tirosin (bukan ALK), mewakili peluang penggunaan semula yang sah divalidasi mekanistik.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The top TxGNN-predicted indication (gingival fibromatosis) lacks any mechanistic rationale linking ALK inhibition to the pathophysiology of gingival fibrous overgrowth. There are zero clinical trials and zero publications supporting this specific drug–disease pair. The remaining predictions are similarly unsupported, with the partial exception of anatomical subtypes of NSCLC (lung hilum carcinoma, Pancoast tumour), for which brigatinib's existing ALK-positive NSCLC indication already applies conditionally. The high TxGNN scores (>99.8%) across all predictions likely reflect the drug's strong connectivity within the knowledge graph rather than true therapeutic potential for these specific conditions.
+**Rasional:**
+Petunjukan yang diramalkan tertinggi TxGNN (fibromatosis gingival) kekurangan sebarang rasional mekanistik yang menghubungkan perencatan ALK dengan patofisiologi pertumbuhan berlebihan tisu gingival berserat. Terdapat sifar ujian klinikal dan sifar penerbitan yang menyokong pasangan ubat-penyakit khusus ini. Ramalan yang selebihnya adalah sama-sama tidak disokong, dengan pengecualian separa untuk subtipe anatomik NSCLC (karsinoma hilum paru, tumor Pancoast), yang mana petunjukan NSCLC ALK-positif brigatinib yang sedia ada sudah terpakai secara bersyarat. Skor TxGNN yang tinggi (>99.8%) di semua ramalan berkemungkinan mencerminkan kesambungan ubat yang kuat dalam grafik pengetahuan dan bukannya potensi terapeutik sebenar untuk keadaan khusus ini.
 
-**To proceed, the following is needed:**
-- Obtain detailed mechanism of action data from DrugBank to assess off-target kinase activity that might be relevant to non-oncologic conditions
-- Retrieve package insert safety information (key warnings, contraindications) from NPRA to complete the safety profile
-- Investigate the NF2-schwannomatosis signal further — this represents the most promising repurposing lead supported by Phase 2 clinical evidence (NEJM 2024), though it was not captured in the TxGNN prediction ranking
-- For lung hilum carcinoma and pulmonary sulcus neoplasm, no additional action is needed — these are anatomical subtypes of NSCLC already covered by the existing ALK-positive NSCLC indication
-- Consider whether TxGNN model retraining or feature engineering could improve specificity for distinguishing benign from malignant conditions
+**Untuk meneruskan, yang berikut diperlukan:**
+- Dapatkan data mekanisme tindakan terperinci dari DrugBank untuk menilai aktiviti kinase luar sasaran yang mungkin berkaitan dengan keadaan bukan onkologi
+- Ambil maklumat sisipan pakej dari NPRA (amaran utama, kontraindikasi) untuk melengkapkan profil keselamatan
+- Selidiki isyarat schwannomatosis NF2 lebih lanjut — ini mewakili petunjuk penggunaan semula yang paling menjanjikan yang disokong oleh bukti klinikal Fasa 2 (NEJM 2024), walaupun ia tidak ditangkap dalam peringkat ramalan TxGNN
+- Untuk karsinoma hilum paru dan neoplasma sulkus paru, tiada tindakan tambahan diperlukan — ini adalah subtipe anatomik NSCLC yang sudah dilindungi oleh petunjukan NSCLC ALK-positif yang sedia ada
+- Pertimbangkan sama ada latihan semula model TxGNN atau kejuruteraan ciri dapat meningkatkan kekhususan untuk membezakan keadaan jinak daripada ganas
 
 ---
 
-*Disclaimer: This report is for research reference only and does not constitute medical advice. Drug repurposing candidates require clinical validation before application. Data cutoff: 2026-04-09.*
+*Penafian: Laporan ini adalah untuk rujukan penyelidikan sahaja dan tidak merupakan nasihat perubatan. Calon penggunaan semula ubat memerlukan pengesahan klinikal sebelum aplikasi. Potongan data: 2026-04-09.*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

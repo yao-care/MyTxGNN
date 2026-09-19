@@ -29,75 +29,76 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Ferric Carboxymaltose: From Unspecified Original Indication to Bronchitis
+# Ferric Carboxymaltose: Dari Indikasi Asal Tidak Spesifik kepada Bronkitis
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-> Ferric carboxymaltose's original approved indication is not available in the current dataset, though it is registered and marketed in Malaysia under 1 license.
-> The TxGNN model predicts it may be effective for **Bronchitis**, but this prediction is currently supported by **no clinical trials** and **no published literature**.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not available in current data |
-| Predicted New Indication | Bronchitis |
-| TxGNN Prediction Score | 99.00% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+> Indikasi kelulusan asal ferric carboxymaltose tidak tersedia dalam set data semasa, walaupun ia telah didaftar dan dipasarkan di Malaysia di bawah 1 lesen.
+> Model TxGNN meramalkan ia mungkin berkesan untuk **Bronkitis**, tetapi ramalan ini didukung pada masa kini oleh **tiada ujian klinikal** dan **tiada literatur terbitan**.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Ringkasan Pantas
 
-Currently, detailed mechanism of action data for ferric carboxymaltose is not available in this dataset (marked as a High-severity data gap). Based on the evidence review associated with this prediction, ferric carboxymaltose is known to be an intravenous iron preparation used for iron deficiency anemia, working by replenishing ferritin iron stores and transferrin iron saturation.
-
-This mechanism has no established direct link to bronchitis, which is a respiratory tract disease driven by viral or bacterial infection and airway inflammation. The high TxGNN score (0.99) most likely reflects an indirect knowledge-graph association — for example, the common comorbidity between chronic respiratory disease (such as COPD) and anemia of chronic disease, which often requires iron therapy — rather than a genuine pharmacological effect of iron repletion on bronchitis itself.
-
-Because original indication data is unavailable for this drug in the current dataset, no direct cross-comparison between the original and predicted indications can be made at this time.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered
+| Item | Kandungan |
+|------|-----------|
+| Indikasi Asal | Tidak tersedia dalam data semasa |
+| Indikasi Baru yang Diramalkan | Bronkitis |
+| Skor Ramalan TxGNN | 99.00% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available
+Pada masa kini, data mekanisme tindakan terperinci untuk ferric carboxymaltose tidak tersedia dalam set data ini (ditandakan sebagai jurang data keparahan Tinggi). Berdasarkan tinjauan bukti yang berkaitan dengan ramalan ini, ferric carboxymaltose diketahui sebagai sediaan besi intravena yang digunakan untuk anemia kekurangan besi, berfungsi dengan mengisi semula simpanan besi ferit dan saturasi besi transferin.
 
----
+Mekanisme ini tidak mempunyai hubungan langsung yang ditubuhkan dengan bronkitis, yang merupakan penyakit saluran pernafasan yang didorong oleh jangkitan virus atau bakteria serta keradangan saluran udara. Skor TxGNN yang tinggi (0.99) kemungkinan besar mencerminkan hubungan persatuan graf pengetahuan yang tidak langsung — sebagai contoh, komorbiditi biasa antara penyakit pernafasan kronik (seperti COPD) dan anemia penyakit kronik, yang sering memerlukan terapi besi — daripada kesan farmakologi tulen pemulihan besi pada bronkitis itu sendiri.
 
-## Malaysia Market Information
-
-License details (license number, product name, dosage form, approved indication text) are not populated in the current dataset. The drug is confirmed as marketed in Malaysia with 1 registered license, but detailed registration data requires further collection.
+Kerana data indikasi asal tidak tersedia untuk ubat ini dalam set data semasa, tiada perbandingan langsung antara indikasi asal dan diramalkan boleh dibuat pada masa ini.
 
 ---
 
-## Safety Considerations
+## Bukti Ujian Klinikal
 
-Please refer to the package insert for safety information.
+Pada masa ini tiada ujian klinikal berkaitan yang didaftar
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Hold**
+Pada masa ini tiada literatur berkaitan tersedia
 
-**Rationale:**
-Evidence level is L5 (model prediction only), with zero clinical trials and zero literature supporting a bronchitis indication, and the proposed mechanistic link is indirect at best. A Blocking-severity data gap (TFDA label warnings/contraindications) also prevents safety pre-screening (S1).
+---
 
-**To proceed, the following is needed:**
-- TFDA product label (warnings, contraindications) — currently blocking safety evaluation
-- Mechanism of action data from DrugBank
-- Confirmed original indication and approved indication text for the Malaysia license
-- Targeted literature/clinical trial search for ferric carboxymaltose in respiratory/bronchitis-related contexts to establish or rule out a plausible biological rationale
+## Maklumat Pasaran Malaysia
+
+Butir-butir lesen (nombor lesen, nama produk, bentuk ubat, teks indikasi yang diluluskan) tidak diisi dalam set data semasa. Ubat ini disahkan sebagai dipasarkan di Malaysia dengan 1 lesen yang didaftar, tetapi data pendaftaran terperinci memerlukan pengumpulan lanjutan.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Alasan:**
+Tahap bukti ialah L5 (ramalan model sahaja), dengan sifar ujian klinikal dan sifar literatur menyokong indikasi bronkitis, dan pautan mekanistik yang dicadangkan hanya tidak langsung. Jurang data keparahan Menyekat (peringatan dan kontraindikasi label TFDA) juga menghalang pra-pemeriksaan keselamatan (S1).
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Label produk TFDA (peringatan, kontraindikasi) — pada masa ini menghalang penilaian keselamatan
+- Data mekanisme tindakan daripada DrugBank
+- Indikasi asal yang disahkan dan teks indikasi yang diluluskan untuk lesen Malaysia
+- Carian literatur/ujian klinikal yang disasarkan untuk ferric carboxymaltose dalam konteks pernafasan/bronkitis untuk mewujudkan atau menolak rasional biologi yang munasabah
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

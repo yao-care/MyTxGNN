@@ -29,74 +29,75 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Carbocisteine: From Respiratory Mucus Hypersecretion to Gout
+# Carbocisteine: Daripada Hipersekrasi Lendir Respiratori kepada Pirai
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Carbocisteine is a mucolytic (mucoactive) agent conventionally used to reduce the viscosity of respiratory secretions in productive cough and airway mucus hypersecretion. The TxGNN model predicts a possible effect in **Gout**, but this prediction is currently supported by **0 clinical trials** and **0 publications** — it rests entirely on knowledge-graph embedding similarity.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Respiratory mucus hypersecretion / productive cough (mucolytic) — not sourced from this data pack; Malaysia licence indication texts were not provided |
-| Predicted New Indication | Gout |
-| TxGNN Prediction Score | 99.67% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 18 |
-| Recommended Decision | Hold |
+Carbocisteine ialah ejen mukoliotik (mukoaktif) yang secara konvensional digunakan untuk mengurangkan kelikatan sekret respiratori dalam batuk produktif dan hipersekrasi lendir jalan napas. Model TxGNN meramalkan kemungkinan kesan dalam **Pirai**, tetapi ramalan ini kini disokong oleh **0 percubaan klinikal** dan **0 penerbitan** — ia bergantung sepenuhnya pada persamaan tertanam graf pengetahuan.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Ringkasan Pantas
 
-Currently, detailed mechanism of action data is not available. Based on known information, carbocisteine belongs to the mucolytic/mucoactive drug class, and its efficacy in reducing sputum viscosity for respiratory conditions is well established; some literature also attributes mild antioxidant and anti-inflammatory properties to it, but this has not been formally captured in this evidence pack.
-
-Gout is fundamentally a purine-metabolism and urate-handling disorder — driven by urate transporters (e.g., URAT1, ABCG2) and NLRP3 inflammasome activation in response to monosodium urate crystal deposition. There is no known overlap between the mucolytic mechanism of carbocisteine and any of these gout-specific pathways.
-
-No mechanistic link, clinical trial, or publication currently connects carbocisteine to gout. The prediction most likely reflects an indirect topological association in the knowledge graph (e.g., shared co-prescription or comorbidity patterns with other anti-inflammatory agents) rather than a genuine pharmacological relationship. This is consistent with the L5 evidence level and the model's own "Hold" recommendation.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Hipersekrasi lendir respiratori / batuk produktif (mukoliotik) — tidak bersumber daripada pek data ini; teks indikasi lesen Malaysia tidak disediakan |
+| Indikasi Baru Yang Diramalkan | Pirai |
+| Skor Ramalan TxGNN | 99.67% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 18 |
+| Keputusan Yang Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia. Berdasarkan maklumat yang diketahui, carbocisteine termasuk dalam kelas ubat mukoliotik/mukoaktif, dan keberkesanan dalam mengurangkan kelikatan sputum untuk keadaan respiratori telah ditegakkan dengan baik; beberapa literatur juga mengatakan sifat antioksidan ringan dan anti-radang kepadanya, tetapi ini belum ditangkap secara formal dalam pek bukti ini.
 
----
+Pirai pada asasnya ialah gangguan metabolisme purin dan pengendalian urat — didorong oleh pengangkut urat (cth., URAT1, ABCG2) dan pengaktifan inflammasom NLRP3 sebagai tindakbalas kepada pemendapan kristal monosodium urat. Tiada pertindihan yang diketahui antara mekanisme mukoliotik carbocisteine dan mana-mana laluan khusus pirai ini.
 
-## Malaysia Market Information
-
-Carbocisteine holds 18 active registrations in Malaysia (market status: marketed). Licence-level details (registration numbers, product names, dosage forms, approved indication texts) were not populated in this data pack and cannot be listed here.
+Tiada pautan mekanistik, percubaan klinikal, atau penerbitan pada masa ini yang menghubungkan carbocisteine dengan pirai. Ramalan itu kemungkinan besar mencerminkan persatuan topologi tidak langsung dalam graf pengetahuan (cth., preskripsi bersama atau corak komorbiditi yang dikongsi dengan ejen anti-radang lain) daripada hubungan farmakologi yang tulen. Ini adalah konsisten dengan tahap bukti L5 dan cadangan "Tahan" model itu sendiri.
 
 ---
 
-## Safety Considerations
+## Bukti Percubaan Klinikal
 
-Please refer to the package insert for safety information.
+Pada masa ini tiada percubaan klinikal yang berkaitan didaftarkan
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Hold**
+Pada masa ini tiada literatur yang berkaitan tersedia
 
-**Rationale:**
-This is a pure TxGNN embedding-similarity prediction (L5) with no clinical trials, no supporting literature, and no identifiable mechanistic overlap between carbocisteine's mucolytic action and gout pathophysiology. Combined with missing MOA and safety data, there is no basis to advance this candidate.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert — warnings, contraindications (blocking gap, DG001)
-- DrugBank mechanism of action data (DG002)
-- Preclinical or mechanistic studies establishing any plausible link between mucolytic activity and urate metabolism / NLRP3 inflammasome pathways
-- Malaysia licence-level product detail (registration numbers, indication texts) for market verification
+## Maklumat Pasaran Malaysia
+
+Carbocisteine mempunyai 18 pendaftaran aktif di Malaysia (status pasaran: dipasarkan). Butiran tahap lesen (nombor pendaftaran, nama produk, bentuk dos, teks indikasi yang diluluskan) tidak diisi dalam pek data ini dan tidak dapat disenaraikan di sini.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Ini adalah ramalan persamaan tertanam TxGNN tulen (L5) tanpa percubaan klinikal, tanpa literatur sokongan, dan tanpa pertindihan mekanistik yang boleh dikenal pasti antara tindakan mukoliotik carbocisteine dan patofiziologi pirai. Digabungkan dengan data MOA dan keselamatan yang hilang, tiada asas untuk memajukan calon ini.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisipan pakej TFDA/NPRA — amaran, kontraindikasi (jurang penyekatan, DG001)
+- Data mekanisme tindakan DrugBank (DG002)
+- Kajian praklinik atau mekanistik yang menetapkan sebarang pautan yang munasabah antara aktiviti mukoliotik dan metabolisme urat / laluan inflammasom NLRP3
+- Perincian produk tahap lesen Malaysia (nombor pendaftaran, teks indikasi) untuk pengesahan pasaran
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

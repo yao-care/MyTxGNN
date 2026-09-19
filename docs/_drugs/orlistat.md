@@ -29,73 +29,74 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Orlistat: From Obesity to Hypervitaminosis
+# Orlistat: Daripada Obesiti hingga Hipervitiaminosis
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Orlistat is a pancreatic lipase inhibitor originally used for weight management in obesity. The TxGNN model predicts a possible link to **Hypervitaminosis**, but this direction is currently supported by **0 clinical trials** and **0 publications**, and the drug's own mechanism argues more naturally against this indication than for it.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Obesity / weight management (based on known drug information — TFDA license indication text not available in current data) |
-| Predicted New Indication | Hypervitaminosis |
-| TxGNN Prediction Score | 99.42% |
-| Evidence Level | L5 |
-| Taiwan Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 2 |
-| Recommended Decision | Hold |
+Orlistat ialah perencat lipase pankreas yang asal digunakan untuk pengurusan berat badan dalam obesiti. Model TxGNN meramalkan kemungkinan hubungan ke **Hipervitiaminosis**, tetapi arah ini kini disokong oleh **0 ujian klinikal** dan **0 penerbitan**, dan mekanisme ubat itu sendiri berhujah lebih semula jadi menentang petunjuk ini daripada menyokongnya.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Umum Cepat
 
-Currently, detailed mechanism of action data is not available from the evidence pack (data gap). Based on known information, orlistat is a pancreatic lipase inhibitor: it blocks intestinal hydrolysis of triglycerides and reduces dietary fat absorption by approximately 30%, which is the basis of its use in obesity/weight management.
-
-This mechanism is mechanistically closer to **hypovitaminosis** than to hypervitaminosis: reduced fat absorption also reduces absorption of fat-soluble vitamins (A, D, E, K), which is a well-documented adverse effect of orlistat, not a treatment effect. The only theoretically defensible link to hypervitaminosis is indirect — in a patient with fat-soluble vitamin toxicity (e.g., vitamin A or D overdose), orlistat's blockade of fat absorption could in principle blunt further intestinal uptake of the offending vitamin. This is a speculative, off-label mechanism with no direct literature support for treating hypervitaminosis as an indication.
-
-The high TxGNN score (99.42%) most likely reflects the knowledge graph's proximity between orlistat and fat-soluble-vitamin-metabolism nodes, rather than a validated therapeutic relationship. This prediction should be treated as a graph-topology artifact requiring independent confirmation, not a mechanistically well-supported repurposing candidate.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered
+| Item | Kandungan |
+|------|---------|
+| Petunjuk Asal | Obesiti / pengurusan berat badan (berdasarkan maklumat ubat yang diketahui — teks petunjuk lesen TFDA tidak tersedia dalam data semasa) |
+| Petunjuk Baru yang Diramalkan | Hipervitiaminosis |
+| Skor Ramalan TxGNN | 99.42% |
+| Tahap Bukti | L5 |
+| Status Pasaran Taiwan | ✓ Bertindak (Bertindak) |
+| Bilangan Pendaftaran | 2 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia daripada pakej bukti (jurang data). Berdasarkan maklumat yang diketahui, orlistat ialah perencat lipase pankreas: ia menyekat hidrolisis dalam usus kecil bagi triglyserida dan mengurangkan penyerapan lemak diet sebanyak kira-kira 30%, yang merupakan asas penggunaannya dalam obesiti/pengurusan berat badan.
 
----
+Mekanisme ini adalah lebih dekat secara mekanistik ke hipovitiaminosis daripada kepada hipervitiaminosis: penyerapan lemak yang berkurangan juga mengurangkan penyerapan vitamin larut dalam lemak (A, D, E, K), yang merupakan kesan buruk yang didokumentasikan dengan baik bagi orlistat, bukan kesan rawatan. Satu-satunya hubungan yang boleh dipertahankan secara teori kepada hipervitiaminosis ialah secara tidak langsung — dalam pesakit dengan keracunan vitamin larut dalam lemak (contohnya, overdos vitamin A atau D), penyekatan orlistat terhadap penyerapan lemak boleh secara teori mengurangkan pengambilan usus kecil vitamin penyebab itu. Ini ialah mekanisme spekulatif, luar label tanpa sokongan literatur langsung untuk merawat hipervitiaminosis sebagai petunjuk.
 
-## Malaysia Market Information
-
-Orlistat is marketed in Taiwan (TFDA) with 2 registered licenses. Detailed license information (product names, dosage forms, manufacturers, approved indication text) is not available in the current data pack.
+Skor TxGNN yang tinggi (99.42%) kemungkinan besar mencerminkan kedekatan graf pengetahuan antara nod orlistat dan nod metabolisme vitamin larut dalam lemak, bukan satu hubungan terapeutik yang disahkan. Ramalan ini harus diperlakukan sebagai artifak topologi graf yang memerlukan pengesahan bebas, bukan calon ubat untuk kegunaan baru yang disokong secara mekanistik dengan baik.
 
 ---
 
-## Safety Considerations
+## Bukti Ujian Klinikal
 
-Please refer to the package insert for safety information.
+Pada masa ini tiada ujian klinikal yang berkaitan berdaftar
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Hold**
+Pada masa ini tiada literatur yang berkaitan tersedia
 
-**Rationale:**
-This is an L5, model-prediction-only candidate with zero clinical trials or literature support. The repurposing rationale itself is mechanistically weak — orlistat's known pharmacology (reduced fat-soluble vitamin absorption) points toward causing hypovitaminosis, not treating hypervitaminosis, so the high TxGNN score is more likely a graph-proximity artifact than a real signal.
+---
 
-**To proceed, the following is needed:**
-- TFDA package insert (warnings/contraindications) — currently a Blocking data gap (DG001); required before any S1 safety screening
-- Confirmed mechanism of action (MOA) data from DrugBank (High-severity data gap, DG002)
-- Independent literature/pharmacology review specifically addressing whether orlistat can reduce absorption of an already-ingested/circulating fat-soluble vitamin, since no clinical trials or publications currently exist for this indication
+## Maklumat Pasaran Malaysia
+
+Orlistat bertindak di Taiwan (TFDA) dengan 2 lesen berdaftar. Maklumat lesen terperinci (nama produk, bentuk dos, pengilang, teks petunjuk yang diluluskan) tidak tersedia dalam pakej data semasa.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk warkah pakej untuk maklumat keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Alasan:**
+Ini ialah calon L5, ramalan model sahaja tanpa ujian klinikal atau sokongan literatur. Rasional ubat untuk kegunaan baru itu sendiri adalah lemah secara mekanistik — farmakologi orlistat yang diketahui (penyerapan vitamin larut dalam lemak yang berkurangan) menunjuk ke arah menyebabkan hipovitiaminosis, bukan merawat hipervitiaminosis, jadi skor TxGNN yang tinggi lebih mungkin artifak kedekatan graf daripada isyarat sebenar.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Warkah pakej TFDA (amaran/kontraindikasi) — pada masa ini jurang data yang menghalang (DG001); diperlukan sebelum mana-mana saringan keselamatan S1
+- Data mekanisme tindakan (MOA) yang disahkan daripada DrugBank (jurang data keparahan tinggi, DG002)
+- Semakan literatur/farmakologi bebas yang secara khusus mempertimbangkan sama ada orlistat boleh mengurangkan penyerapan vitamin larut dalam lemak yang sudah dimakan/beredar, kerana tiada ujian klinikal atau penerbitan sedia ada untuk petunjuk ini
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

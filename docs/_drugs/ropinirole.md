@@ -29,87 +29,88 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Ropinirole: From Parkinson's Disease to Attention-Deficit/Hyperactivity Disorder
+# Ropinirole: Daripada Penyakit Parkinson kepada Gangguan Kekurangan Perhatian/Hiperaktiviti
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Ropinirole is a non-ergoline dopamine D2/D3 receptor agonist globally indicated for Parkinson's disease and restless legs syndrome (RLS). The TxGNN model predicts it may be effective for **Attention-Deficit/Hyperactivity Disorder (ADHD)**, currently supported by **0 clinical trials** and **8 publications**, most of which are case reports and reviews from RLS–ADHD comorbid populations rather than trials targeting ADHD directly.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Parkinson's disease / Restless Legs Syndrome (global indications; Malaysia-specific approved indication text not available in this data pack) |
-| Predicted New Indication | Attention-Deficit/Hyperactivity Disorder |
-| TxGNN Prediction Score | 99.99% |
-| Evidence Level | L4 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 4 |
-| Recommended Decision | Hold |
+Ropinirole ialah agonis reseptor dopamin D2/D3 bukan ergoline yang ditunjukkan secara global untuk penyakit Parkinson dan sindrom kaki gelisah (RLS). Model TxGNN meramalkan ia mungkin berkesan untuk **Gangguan Kekurangan Perhatian/Hiperaktiviti (ADHD)**, kini disokong oleh **0 percubaan klinikal** dan **8 publikasi**, kebanyakannya adalah laporan kes dan ulasan daripada populasi koeksistensi RLS–ADHD dan bukannya percubaan yang menyasarkan ADHD secara langsung.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Pantas Lalu
 
-Detailed mechanism-of-action data is not available in this evidence pack (marked as a Data Gap). Based on established pharmacological knowledge, Ropinirole is a non-ergoline dopamine D2/D3 receptor agonist whose efficacy in Parkinson's disease and restless legs syndrome is well established.
-
-ADHD is mechanistically associated with reduced dopaminergic transmission in prefrontal-striatal circuits, so a D2/D3 agonist is theoretically plausible as a modulator of ADHD symptoms. However, the literature currently supporting this signal comes almost entirely from patients with **comorbid RLS and ADHD** (e.g., a pediatric case where ropinirole improved both restless-legs/periodic-limb-movement symptoms and ADHD symptoms), not from trials designed to treat ADHD's core symptoms directly.
-
-This means the mechanistic rationale is real but indirect — the current evidence base reflects a secondary/comorbidity observation rather than a targeted therapeutic hypothesis, which is why the evidence level remains L4 (preclinical/mechanistic) rather than higher.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Penyakit Parkinson / Sindrom Kaki Gelisah (petunjuk global; teks petunjuk yang diluluskan khusus Malaysia tidak tersedia dalam pakej data ini) |
+| Petunjuk Baru Yang Diramalkan | Gangguan Kekurangan Perhatian/Hiperaktiviti |
+| Skor Ramalan TxGNN | 99.99% |
+| Aras Bukti | L4 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 4 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [15866437](https://pubmed.ncbi.nlm.nih.gov/15866437/) | 2005 | Case Report | Pediatric Neurology | 6-year-old with ADHD + RLS/PLMS showed significant improvement in both ADHD symptoms and sleep disruption after ropinirole treatment |
-| [16218085](https://pubmed.ncbi.nlm.nih.gov/16218085/) | 2005 | Review | Sleep | Reviews the RLS–ADHD association and proposes a shared dopaminergic mechanism supporting common pharmacologic treatment |
-| [18052582](https://pubmed.ncbi.nlm.nih.gov/18052582/) | 2007 | Case Report | J Clin Psychiatry | Ropinirole used to treat aripiprazole-induced tardive akathisia (unrelated to ADHD; dopaminergic mechanism relevant) |
-| [18656214](https://pubmed.ncbi.nlm.nih.gov/18656214/) | 2008 | Review | Revue Neurologique | General overview of restless legs syndrome epidemiology and diagnostic criteria; no ADHD-specific data |
-| [17483695](https://pubmed.ncbi.nlm.nih.gov/17483695/) | 2007 | Preclinical | J Neuropathol Exp Neurol | A11-lesioned, iron-deprived mouse model of RLS; supports a dopamine–iron pathophysiology link theoretically relevant to RLS/ADHD overlap |
-| [24992083](https://pubmed.ncbi.nlm.nih.gov/24992083/) | 2014 | RCT (Parkinson's disease population) | Clinical Neuropharmacology | 11-week comparison of piribedil vs. pramipexole/ropinirole on vigilance in Parkinson's disease with daytime sleepiness; not ADHD-specific |
-| [34182128](https://pubmed.ncbi.nlm.nih.gov/34182128/) | 2021 | Receptor Pharmacology | Pharmacological Research | Studies D4 receptor/α2A-adrenoceptor heteromers implicated in ADHD pathophysiology; does not directly test ropinirole |
-| [30950895](https://pubmed.ncbi.nlm.nih.gov/30950895/) | 2019 | Case Report (Safety) | Cornea | Corneal edema reported in patients exposed to systemic dopaminergic agents; safety signal, not efficacy evidence |
+Data mekanisme tindakan terperinci tidak tersedia dalam pakej bukti ini (ditandai sebagai Jurang Data). Berdasarkan pengetahuan farmakologi yang mantap, ropinirole ialah agonis reseptor dopamin D2/D3 bukan ergoline yang keberkesanannya dalam penyakit Parkinson dan sindrom kaki gelisah telah ditubuhkan dengan baik.
 
-**Note:** None of the identified literature is a clinical trial directly testing ropinirole for ADHD's core symptoms; most evidence derives from RLS–ADHD comorbid case reports and dopaminergic mechanism studies.
+ADHD secara mekanis dikaitkan dengan penghantaran dopaminergik yang berkurangan dalam litar prefrontal-striatal, jadi agonis D2/D3 secara teorinya munasabah sebagai penyesuai gejala ADHD. Namun, literatur yang kini menyokong isyarat ini datang hampir sepenuhnya daripada pesakit dengan **RLS dan ADHD bersamaan** (cth., kes pediatrik di mana ropinirole meningkatkan kedua-dua gejala kaki gelisah/pergerakan anggota berkala dan gejala ADHD), bukan daripada percubaan yang dirancang untuk merawat gejala teras ADHD secara langsung.
+
+Ini bermakna rasional mekanis adalah nyata tetapi tidak langsung — pangkalan bukti semasa mencerminkan pemerhatian sekunder/koeksistensi dan bukannya hipotesis terapeutik yang disasarkan, itulah sebabnya aras bukti kekal L4 (preklinikal/mekanis) dan bukannya yang lebih tinggi.
 
 ---
 
-## Malaysia Market Information
+## Bukti Percubaan Klinikal
 
-NPRA records confirm **4 active marketed authorizations** for Ropinirole in Malaysia, but this data pull did not return the underlying license number, product name, dosage form, or approved-indication text fields for any of them — these details should be sourced directly from NPRA product registration records before proceeding.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-**Note:** Package insert warnings/contraindications (DG001) are flagged as a **Blocking** data gap in this evidence pack — this data must be obtained before the drug can enter a formal S1 safety evaluation.
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Hold**
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|------|------|---------|---------|
+| [15866437](https://pubmed.ncbi.nlm.nih.gov/15866437/) | 2005 | Laporan Kes | Pediatric Neurology | Kanak-kanak berusia 6 tahun dengan ADHD + RLS/PLMS menunjukkan peningkatan ketara dalam kedua-dua gejala ADHD dan gangguan tidur selepas rawatan ropinirole |
+| [16218085](https://pubmed.ncbi.nlm.nih.gov/16218085/) | 2005 | Ulasan | Sleep | Mengulas perkaitan RLS–ADHD dan mencadangkan mekanisme dopaminergik bersama yang menyokong rawatan farmakologi bersama |
+| [18052582](https://pubmed.ncbi.nlm.nih.gov/18052582/) | 2007 | Laporan Kes | J Clin Psychiatry | Ropinirole digunakan untuk merawat akathisia disebabkan aripiprazol (tidak berkaitan dengan ADHD; mekanisme dopaminergik relevan) |
+| [18656214](https://pubmed.ncbi.nlm.nih.gov/18656214/) | 2008 | Ulasan | Revue Neurologique | Gambaran umum epidemiologi sindrom kaki gelisah dan kriteria diagnostik; tiada data khusus ADHD |
+| [17483695](https://pubmed.ncbi.nlm.nih.gov/17483695/) | 2007 | Preklinikal | J Neuropathol Exp Neurol | Model tikus A11-lesi, kekurangan besi bagi RLS; menyokong pautan patofisiologi dopamin–besi yang secara teorinya relevan kepada pertindihan RLS/ADHD |
+| [24992083](https://pubmed.ncbi.nlm.nih.gov/24992083/) | 2014 | RCT (populasi penyakit Parkinson) | Clinical Neuropharmacology | Perbandingan 11 minggu piribedil vs. pramipeksol/ropinirole pada kewaspadaan dalam penyakit Parkinson dengan kantuk siang hari; bukan khusus ADHD |
+| [34182128](https://pubmed.ncbi.nlm.nih.gov/34182128/) | 2021 | Farmakologi Reseptor | Pharmacological Research | Mengkaji reseptor D4/heteromer α2A-adrenoreseptor yang terlibat dalam patofisiologi ADHD; tidak menguji ropinirole secara langsung |
+| [30950895](https://pubmed.ncbi.nlm.nih.gov/30950895/) | 2019 | Laporan Kes (Keselamatan) | Cornea | Edema kornea dilaporkan pada pesakit yang terdedah kepada agen dopaminergik sistemik; isyarat keselamatan, bukan bukti keberkesanan |
 
-**Rationale:**
-The NPRA package-insert safety data required for even a preliminary (S1) safety screen is currently missing (Blocking data gap), and the ADHD signal itself rests only on case reports and mechanistic reviews (L4) from RLS–ADHD comorbid patients — not on any completed clinical trial targeting ADHD. Additionally, 9 of the 10 TxGNN-ranked candidates for this drug (e.g., faciodigitogenital syndrome, X-linked myopia, Charcot-Marie-Tooth disease) show zero supporting evidence and no plausible dopaminergic mechanism, indicating substantial noise in this model run that warrants caution in weighting the ADHD score itself.
+**Nota:** Tiada literatur yang dikenal pasti adalah percubaan klinikal yang menguji ropinirole secara langsung bagi gejala teras ADHD; kebanyakan bukti berasal daripada laporan kes koeksistensi RLS–ADHD dan kajian mekanisme dopaminergik.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert (warnings, contraindications) to clear the Blocking data gap
-- DrugBank-confirmed mechanism of action (DG002)
-- A prospective or retrospective study directly assessing ropinirole in ADHD (not just comorbid RLS populations)
-- Safety monitoring plan addressing known dopamine-agonist risks (e.g., impulse-control disorders such as gambling, noted in adjacent literature) if pursued in a psychiatric population
+---
+
+## Maklumat Pasaran Malaysia
+
+Rekod NPRA mengesahkan **4 kebenaran pasaran aktif** untuk ropinirole di Malaysia, tetapi pengeluaran data ini tidak mengembalikan nombor lesen asas, nama produk, bentuk dos, atau bidang teks petunjuk yang diluluskan bagi mana-mana daripada mereka — perincian ini harus bersumber terus daripada rekod pendaftaran produk NPRA sebelum meneruskan.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan bungkus untuk maklumat keselamatan.
+
+**Nota:** Amaran sisipan bungkus/kontraindikasi (DG001) ditanda sebagai jurang data **Pemblokiran** dalam pakej bukti ini — data ini mesti diperolehi sebelum ubat boleh memasuki penilaian keselamatan formal (S1).
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Data sisipan bungkus NPRA keselamatan yang diperlukan untuk skrin keselamatan awal (S1) hilang pada masa ini (jurang data Pemblokiran), dan isyarat ADHD itu sendiri hanya bergantung pada laporan kes dan ulasan mekanis (L4) daripada pesakit koeksistensi RLS–ADHD — bukan pada mana-mana percubaan klinikal yang telah selesai menyasarkan ADHD. Selain itu, 9 daripada 10 calon kedudukan tertinggi TxGNN bagi ubat ini (cth., sindrom fasiodigitogenital, miopia bersambung-X, penyakit Charcot-Marie-Tooth) menunjukkan bukti sifar dan tiada mekanisme dopaminergik yang munasabah, menunjukkan bunyi yang besar dalam larian model ini yang menjamin berhati-hati dalam pemberat skor ADHD itu sendiri.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Sisipan bungkus TFDA/NPRA (amaran, kontraindikasi) untuk menjelaskan jurang data Pemblokiran
+- Mekanisme tindakan yang disahkan DrugBank (DG002)
+- Kajian prospektif atau retrospektif yang menilai ropinirole dalam ADHD secara langsung (bukan hanya populasi RLS bersamaan)
+- Pelan pemantauan keselamatan yang menangani risiko agonis dopamin yang diketahui (cth., gangguan kawalan impuls seperti perjudian, dicatat dalam literatur bersebelahan) jika dikejar dalam populasi psikiatrik
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,97 +29,98 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Insulin Detemir: From Diabetes Mellitus to Type 1 Diabetes Mellitus
+# Insulin detemir: Dari Diabetes Mellitus ke Diabetes Mellitus Jenis 1
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Insulin detemir (DrugBank DB01307) is a long-acting basal insulin analogue already established in clinical practice for managing diabetes mellitus. The TxGNN model's top-ranked prediction — **Type 1 Diabetes Mellitus** — is supported by extensive evidence (50 clinical trials queried, multiple completed Phase 3 RCTs with up to 2,287 participants, and 19 PubMed publications), but as the evidence pack itself notes, this is **not a genuine new indication**: insulin detemir is already a standard T1DM treatment, so this prediction is best read as a validation of known pharmacology rather than true repurposing.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Diabetes Mellitus (Type 1 & Type 2) — established use; formal Malaysia licence indication text was not captured in this evidence pack (see Market Information below) |
-| Predicted New Indication | Type 1 Diabetes Mellitus *(already an existing, approved use of this drug — see caveat below)* |
-| TxGNN Prediction Score | 99.77% |
-| Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 3 |
-| Recommended Decision | Proceed with Guardrails |
+Insulin detemir (DrugBank DB01307) adalah agen insulin basal kerja panjang yang sudah terbukti dalam praktik klinis untuk menguruskan diabetes mellitus. Ramalan teratas model TxGNN — **Diabetes Mellitus Jenis 1** — disokong oleh bukti yang luas (50 ujian klinis yang dirujuk, pelbagai ujian rawak terkawal (RCT) Fasa 3 yang telah selesai dengan sehingga 2,287 peserta, dan 19 penerbitan PubMed), namun seperti yang dinyatakan dalam pakej bukti itu sendiri, ini **bukan indikasi baru yang sebenar**: insulin detemir sudah pun merupakan rawatan T1DM piawai, jadi ramalan ini paling baik dibaca sebagai pengesahan farmakologi yang diketahui daripada penggantujuan ubat yang sebenar.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Tinjauan Pantas
 
-Currently, detailed formal mechanism-of-action data from DrugBank is not available (Data Gap DG002). Based on the literature captured in this evidence pack, insulin detemir is a soluble, long-acting human insulin analogue acylated with a 14-carbon fatty acid; this modification allows reversible binding to albumin, producing slow, predictable absorption and a prolonged glucose-lowering effect of up to 24 hours (PMID [15516157](https://pubmed.ncbi.nlm.nih.gov/15516157/), PMID [20539842](https://pubmed.ncbi.nlm.nih.gov/20539842/)). Like other basal insulins, it acts directly on the insulin receptor to normalize glucose metabolism.
-
-**Important caveat:** Unlike a typical drug-repurposing candidate, insulin detemir's mechanistic link to type 1 diabetes mellitus is not an inferred cross-indication relationship — the drug's `repurposing_rationale` explicitly states it "is already a standard T1DM treatment" and that this is "not true drug repurposing." The TxGNN model has effectively rediscovered an already-approved use, which explains the unusually strong and abundant clinical/literature evidence (L1) compared to the other candidates below.
-
-The remaining nine TxGNN-predicted indications for this drug (autoimmune oophoritis, opsismodysplasia, thiamine-responsive dysfunction syndrome, classic/focal stiff person syndrome, pancreatic agenesis, and three lipodystrophy-related conditions) all score similarly high (99.4–99.7%) but have **zero supporting clinical trials or literature**. Their rationale notes describe them as comorbidity artifacts (shared autoimmune markers with T1DM), molecular pathway coincidences (e.g., INPPL1/SHIP2 signaling), or — in the case of the lipodystrophy conditions — likely **reversed causality**, since insulin injection is a known *cause* of localized lipodystrophy rather than a treatment for it.
-
----
-
-## Clinical Trial Evidence
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT01486940](https://clinicaltrials.gov/study/NCT01486940) | Phase 3 | Completed | 598 | Multinational RCT comparing insulin detemir + aspart vs. NPH + human soluble insulin in T1DM basal-bolus regimen |
-| [NCT01513473](https://clinicaltrials.gov/study/NCT01513473) | Phase 3 | Completed | 350 | BEGIN Young 1: 26-week efficacy/safety comparison of insulin degludec vs. detemir in children/adolescents with T1DM |
-| [NCT03220425](https://clinicaltrials.gov/study/NCT03220425) | Phase 3 | Completed | 752 | Six-month comparison of insulin detemir (2400 nmol/mL formulation) vs. NPH insulin in T1DM basal-bolus regimen |
-| [NCT00738153](https://clinicaltrials.gov/study/NCT00738153) | N/A (observational) | Completed | 798 | Post-marketing efficacy and serious adverse drug reaction surveillance of Levemir® in T1DM and T2DM (Africa) |
-| [NCT01709929](https://clinicaltrials.gov/study/NCT01709929) | Phase 3 | Completed | 2287 | Large multicentre, non-randomised safety study of insulin detemir in insulin-dependent T1DM and T2DM |
-| [NCT01454284](https://clinicaltrials.gov/study/NCT01454284) | Phase 3 | Completed | 1114 | 52-week double-blind RCT comparing LY2605541 vs. insulin glargine in T1DM (detemir-class comparator context) |
-| [NCT00474045](https://clinicaltrials.gov/study/NCT00474045) | Phase 3 | Completed | 470 | RCT of insulin detemir vs. NPH insulin (with aspart bolus) in pregnant women with T1DM |
-| [NCT00095082](https://clinicaltrials.gov/study/NCT00095082) | Phase 3 | Completed | 447 | RCT comparing insulin detemir + aspart vs. insulin glargine + aspart in T1DM |
-| [NCT00487240](https://clinicaltrials.gov/study/NCT00487240) | Phase 3 | Completed | 387 | Comparison of insulin lispro protamine suspension vs. insulin detemir as basal insulin in T1DM basal-bolus therapy |
-| [NCT00447382](https://clinicaltrials.gov/study/NCT00447382) | Phase 3 | Completed | 330 | 12-month double-blind safety comparison of insulin detemir made by two different production processes in T1DM |
+| Item | Kandungan |
+|------|---------|
+| Indikasi Asal | Diabetes Mellitus (Jenis 1 & Jenis 2) — penggunaan yang telah ditubuhkan; teks indikasi lesen rasmi Malaysia tidak ditangkap dalam pakej bukti ini (lihat Maklumat Pasaran di bawah) |
+| Indikasi Baru Diprediksi | Diabetes Mellitus Jenis 1 *(sudah pun merupakan penggunaan yang diluluskan, disetujui bagi ubat ini — lihat kaveat di bawah)* |
+| Skor Ramalan TxGNN | 99.77% |
+| Tahap Bukti | L1 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 3 |
+| Cadangan Keputusan | Teruskan dengan Penjaga |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| PMID | Year | Type | Journal | Key Findings |
+Pada masa ini, data mekanisme tindakan formal terperinci daripada DrugBank tidak tersedia (Jurang Data DG002). Berdasarkan literatur yang ditangkap dalam pakej bukti ini, insulin detemir adalah agen analog insulin manusia yang larut, kerja panjang yang diasilkan dengan asid lemak 14-karbon; pengubahan ini membenarkan ikatan boleh balik dengan albumin, menghasilkan penyerapan perlahan, boleh diramal dan kesan menurunkan glukosa yang bertahan sehingga 24 jam (PMID [15516157](https://pubmed.ncbi.nlm.nih.gov/15516157/), PMID [20539842](https://pubmed.ncbi.nlm.nih.gov/20539842/)). Seperti insulin basal lain, ia bertindak terus pada reseptor insulin untuk menormalkan metabolisme glukosa.
+
+**Kaveat penting:** Tidak seperti calon penggantujuan ubat biasa, pautan mekanistik insulin detemir ke diabetes mellitus jenis 1 bukan hubungan silang indikasi yang disimpulkan — `repurposing_rationale` ubat secara eksplisit menyatakan ia "sudah pun merupakan rawatan T1DM piawai" dan bahawa ini "bukan penggantujuan ubat yang sebenar." Model TxGNN telah secara berkesan menemui semula penggunaan yang sudah diluluskan, yang menjelaskan bukti klinis/literatur yang sangat kuat dan berlimpah (L1) berbanding dengan calon-calon lain di bawah.
+
+Sembilan indikasi TxGNN yang diprediksi selebihnya untuk ubat ini (oophoritis autoimun, opsismodisplasia, sindrom disfungsi responsif tiamin, sindrom orang kaku klasik/fokal, agenesis pankreas, dan tiga keadaan berkaitan lipodistrofi) semuanya memperoleh skor serupa tinggi (99.4–99.7%) tetapi mempunyai **sifar ujian klinis atau literatur yang menyokong**. Rasional mereka menerangkan mereka sebagai artifak komorbiditi (penanda autoimun dikongsi dengan T1DM), kebetulan laluan molekul (cth, isyarat INPPL1/SHIP2), atau — dalam kes keadaan lipodistrofi — kemungkinan besar **kausaliti terbalik**, kerana suntikan insulin adalah *punca* yang diketahui lipodistrofi setempat dan bukannya rawatan untuknya.
+
+---
+
+## Bukti Ujian Klinis
+
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
+|---------|-----|------|------|---------|
+| [NCT01486940](https://clinicaltrials.gov/study/NCT01486940) | Fasa 3 | Selesai | 598 | RCT multinasional membandingkan insulin detemir + aspart vs. NPH + insulin manusia larut dalam rejimen basal-bolus T1DM |
+| [NCT01513473](https://clinicaltrials.gov/study/NCT01513473) | Fasa 3 | Selesai | 350 | BEGIN Young 1: perbandingan keberkesanan/keselamatan 26 minggu bagi insulin degludec vs. detemir pada kanak-kanak/remaja dengan T1DM |
+| [NCT03220425](https://clinicaltrials.gov/study/NCT03220425) | Fasa 3 | Selesai | 752 | Perbandingan enam bulan insulin detemir (formulasi 2400 nmol/mL) vs. insulin NPH dalam rejimen basal-bolus T1DM |
+| [NCT00738153](https://clinicaltrials.gov/study/NCT00738153) | T/A (pemerhatian) | Selesai | 798 | Pengawasan keberkesanan pasca-pemasaran dan tindak balas ubat buruk yang serius bagi Levemir® dalam T1DM dan T2DM (Afrika) |
+| [NCT01709929](https://clinicaltrials.gov/study/NCT01709929) | Fasa 3 | Selesai | 2287 | Kajian keselamatan multicentre berskala besar yang tidak dikurniakan ubat insulin detemir dalam T1DM dan T2DM bergantung insulin |
+| [NCT01454284](https://clinicaltrials.gov/study/NCT01454284) | Fasa 3 | Selesai | 1114 | RCT buta dua arah 52 minggu membandingkan LY2605541 vs. insulin glargine dalam T1DM (konteks perbandingan kelas detemir) |
+| [NCT00474045](https://clinicaltrials.gov/study/NCT00474045) | Fasa 3 | Selesai | 470 | RCT insulin detemir vs. insulin NPH (dengan bolus aspart) dalam wanita hamil dengan T1DM |
+| [NCT00095082](https://clinicaltrials.gov/study/NCT00095082) | Fasa 3 | Selesai | 447 | RCT membandingkan insulin detemir + aspart vs. insulin glargine + aspart dalam T1DM |
+| [NCT00487240](https://clinicaltrials.gov/study/NCT00487240) | Fasa 3 | Selesai | 387 | Perbandingan suspensus protamin insulin lispro vs. insulin detemir sebagai insulin basal dalam terapi basal-bolus T1DM |
+| [NCT00447382](https://clinicaltrials.gov/study/NCT00447382) | Fasa 3 | Selesai | 330 | Perbandingan keselamatan 12 bulan buta dua arah insulin detemir yang diperbuat oleh dua proses pengeluaran yang berbeza dalam T1DM |
+
+---
+
+## Bukti Literatur
+
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [36623517](https://pubmed.ncbi.nlm.nih.gov/36623517/) | 2023 | RCT | Lancet Diabetes & Endocrinology | EXPECT trial: insulin degludec non-inferior to insulin detemir (both + aspart) in pregnant women with T1DM |
-| [36896906](https://pubmed.ncbi.nlm.nih.gov/36896906/) | 2024 | Review | Current Diabetes Reviews | Two-decade review of insulin glargine trials in T1DM, with detemir as key comparator |
-| [29477399](https://pubmed.ncbi.nlm.nih.gov/29477399/) | 2018 | Review (systematic review + network meta-analysis) | Value in Health | Comparative efficacy/safety of basal insulin regimens (including detemir) in adults with T1DM |
-| [21878861](https://pubmed.ncbi.nlm.nih.gov/21878861/) | 2011 | Systematic Review / Meta-analysis | Polskie Archiwum Medycyny Wewnetrznej | Detemir vs. NPH insulin in T1DM: mixed evidence on glycemic control improvement |
-| [20539842](https://pubmed.ncbi.nlm.nih.gov/20539842/) | 2010 | Review | Vascular Health and Risk Management | Overview of insulin detemir as basal analogue in T1DM/T2DM; lower hypoglycemia rate vs. NPH |
-| [15516157](https://pubmed.ncbi.nlm.nih.gov/15516157/) | 2004 | Review | Drugs | Pharmacology review: albumin-binding mechanism gives detemir predictable, prolonged action in T1DM/T2DM |
-| [17326333](https://pubmed.ncbi.nlm.nih.gov/17326333/) | 2006 | Review | Vascular Health and Risk Management | Detemir's unique albumin-binding mechanism reduces hypoglycemia risk, especially nocturnal, in T1DM |
-| [15691219](https://pubmed.ncbi.nlm.nih.gov/15691219/) | 2005 | Review | BioDrugs | Spotlight review on detemir's predictable metabolic effect vs. NPH insulin in T1DM/T2DM |
-| [23110609](https://pubmed.ncbi.nlm.nih.gov/23110609/) | 2012 | Review | Drugs | Comprehensive review of detemir's reduced within-patient variability vs. NPH/ultralente |
-| [37290466](https://pubmed.ncbi.nlm.nih.gov/37290466/) | 2023 | Review | Lancet Diabetes & Endocrinology | Management of T1DM in pregnancy: lifestyle, pharmacological treatment (incl. basal insulins), and technology |
+| [36623517](https://pubmed.ncbi.nlm.nih.gov/36623517/) | 2023 | RCT | Lancet Diabetes & Endocrinology | Ujian EXPECT: insulin degludec tidak lebih rendah daripada insulin detemir (kedua-duanya + aspart) dalam wanita hamil dengan T1DM |
+| [36896906](https://pubmed.ncbi.nlm.nih.gov/36896906/) | 2024 | Ulasan | Current Diabetes Reviews | Ulasan dua dekad ujian insulin glargine dalam T1DM, dengan detemir sebagai perbandingan utama |
+| [29477399](https://pubmed.ncbi.nlm.nih.gov/29477399/) | 2018 | Ulasan (ulasan sistematik + meta-analisis rangkaian) | Value in Health | Keberkesanan perbandingan/keselamatan rejimen insulin basal (termasuk detemir) pada orang dewasa dengan T1DM |
+| [21878861](https://pubmed.ncbi.nlm.nih.gov/21878861/) | 2011 | Ulasan Sistematik / Meta-analisis | Polskie Archiwum Medycyny Wewnetrznej | Detemir vs. insulin NPH dalam T1DM: bukti bercampur pada penambahan kawalan glikemik |
+| [20539842](https://pubmed.ncbi.nlm.nih.gov/20539842/) | 2010 | Ulasan | Vascular Health and Risk Management | Tinjauan insulin detemir sebagai agen analog basal dalam T1DM/T2DM; kadar hipoglikemia yang lebih rendah vs. NPH |
+| [15516157](https://pubmed.ncbi.nlm.nih.gov/15516157/) | 2004 | Ulasan | Drugs | Ulasan farmakoloji: mekanisme ikatan albumin memberikan detemir tindakan yang boleh diramal, berpanjangan dalam T1DM/T2DM |
+| [17326333](https://pubmed.ncbi.nlm.nih.gov/17326333/) | 2006 | Ulasan | Vascular Health and Risk Management | Mekanisme ikatan albumin unik detemir mengurangkan risiko hipoglikemia, khususnya malam hari, dalam T1DM |
+| [15691219](https://pubmed.ncbi.nlm.nih.gov/15691219/) | 2005 | Ulasan | BioDrugs | Ulasan sorot mengenai kesan metabolik boleh diramal detemir vs. insulin NPH dalam T1DM/T2DM |
+| [23110609](https://pubmed.ncbi.nlm.nih.gov/23110609/) | 2012 | Ulasan | Drugs | Ulasan komprehensif kebolehubahan dalam pesakit detemir yang dikurangkan vs. NPH/ultralente |
+| [37290466](https://pubmed.ncbi.nlm.nih.gov/37290466/) | 2023 | Ulasan | Lancet Diabetes & Endocrinology | Pengurusan T1DM dalam kehamilan: gaya hidup, rawatan farmakoloji (termasuk insulin basal), dan teknologi |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-The evidence pack confirms **3 registered licences** with market status "Marketed (Marketed)," but the individual licence numbers, product names, dosage forms, manufacturers, and approved-indication text fields were not populated in this data source. This is a data-completeness gap in the regulatory extraction pipeline (separate from Data Gap DG001, which concerns package-insert warnings), not evidence that the product is unlicensed — insulin detemir is internationally marketed as Levemir®.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information. Note: the evidence pack flags TFDA/NPRA label warnings and contraindications as a **Blocking** data gap (DG001) — this specifically prevents a formal S1 safety pre-assessment and should be resolved before final sign-off, even though insulin detemir's real-world safety profile (primarily hypoglycemia risk) is well characterized in long-standing clinical use.
+Pakej bukti mengesahkan **3 lesen pendaftaran** dengan status pasaran "Dipasarkan (Dipasarkan)," tetapi nombor lesen individu, nama produk, bentuk dos, pengilang, dan bidang teks indikasi yang diluluskan tidak diisi dalam sumber data ini. Ini adalah jurang kelengkapan data dalam saluran pengekstrakan kawal selia (berasingan daripada Jurang Data DG001, yang berkaitan dengan peringatan sisipan paket), bukan bukti bahawa produk tidak berlesen — insulin detemir dipasarkan secara internasional sebagai Levemir®.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Proceed with Guardrails**
+Sila rujuk sisipan paket untuk maklumat keselamatan. Nota: pakej bukti menandai amaran label TFDA/NPRA dan kontraindikasi sebagai jurang data **Penyekatan** (DG001) — ini secara khusus menghalang pra-penilaian keselamatan S1 formal dan harus diselesaikan sebelum pengesahan akhir, walaupun profil keselamatan dunia nyata insulin detemir (terutamanya risiko hipoglikemia) dicirikan dengan baik dalam penggunaan klinis jangka panjang yang telah ditubuhkan.
 
-**Rationale:**
-- Evidence for the T1DM indication itself is very strong (L1, multiple completed Phase 3 RCTs), but this reflects confirmation of an already-approved use rather than novel repurposing value — it should not be marketed or resourced as a "new indication" finding.
-- All other TxGNN-predicted indications for this drug (ranks 2–10) lack any clinical trial or literature support (L4–L5) and are flagged in their own rationale as comorbidity artifacts, pathway coincidences, or reversed-causality errors (lipodystrophy candidates) — none warrant advancement.
+---
 
-**To proceed, the following is needed:**
-- Retrieve TFDA/NPRA package-insert warnings and contraindications (DG001, Blocking) to complete the S1 safety pre-assessment
-- Retrieve formal DrugBank MOA text (DG002) to replace the literature-derived mechanism summary above
-- Populate the 3 Malaysia licence records (numbers, product names, dosage forms, approved indication text) currently missing from the regulatory data source
-- If this candidate is retained in the repurposing pipeline, reclassify it as "known-use validation" rather than a novel repurposing lead, since rank-1 is not a true new indication
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Teruskan dengan Penjaga**
+
+**Rasional:**
+- Bukti untuk indikasi T1DM itu sendiri sangat kuat (L1, pelbagai RCT Fasa 3 yang telah selesai), tetapi ini mencerminkan pengesahan penggunaan yang sudah diluluskan daripada nilai penggantujuan novel — ia tidak harus dipasarkan atau disumber sebagai penemuan "indikasi baru."
+- Semua indikasi TxGNN yang diprediksi selebihnya untuk ubat ini (kedudukan 2–10) kekurangan sebarang ujian klinis atau sokongan literatur (L4–L5) dan dibenderakan dalam rasional mereka sendiri sebagai artifak komorbiditi, kebetulan laluan, atau ralat kausaliti terbalik (calon lipodistrofi) — tidak satu pun wajar untuk dimajukan.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Ambil peringatan sisipan paket TFDA/NPRA dan teks kontraindikasi (DG001, Penyekatan) untuk melengkapkan pra-penilaian keselamatan S1
+- Ambil teks MOA DrugBank rasmi (DG002) untuk menggantikan ringkasan mekanisme yang diperoleh literatur di atas
+- Isikan rekod pendaftaran Malaysia 3 (nombor, nama produk, bentuk dos, teks indikasi yang diluluskan) yang pada masa ini hilang daripada sumber data kawal selia
+- Jika calon ini dikekalkan dalam saluran penggantujuan ubat, reklasifikasikan ia sebagai "pengesahan penggunaan yang diketahui" daripada petunjuk penggantujuan novel, kerana kedudukan 1 bukan indikasi baru yang sebenar
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

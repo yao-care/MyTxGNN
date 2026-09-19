@@ -29,74 +29,75 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# AMINOPHYLLINE DIHYDRATE: Drug Repurposing Evaluation — Evidence Pack Incomplete
+# AMINOPHYLLINE DIHYDRATE: Penilaian Penjelmaan Ubat — Paket Bukti Tidak Lengkap
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Aminophylline Dihydrate is a methylxanthine bronchodilator widely used for respiratory conditions including asthma and COPD.
-This Evidence Pack contains **no TxGNN-predicted new indications**, and two critical data gaps — mechanism of action and official safety warnings — remain unresolved.
-A full repurposing evaluation **cannot be completed** until these gaps are remediated; the recommended decision is **Hold**.
+Aminophylline Dihydrate ialah bronkodilator metilksantin yang digunakan secara meluas untuk keadaan pernafasan termasuk asma dan COPD.
+Paket Bukti ini tidak mengandungi **tiada indikasi kegunaan baru yang diramalkan oleh TxGNN**, dan dua jurang data kritikal — mekanisme tindakan dan amaran keselamatan rasmi — masih belum diselesaikan.
+Penilaian penjelmaan ubat yang lengkap **tidak dapat diselesaikan** sehingga jurang-jurang ini diperbaiki; keputusan yang disyorkan ialah **Tahan**.
 
 ---
 
-## Quick Overview
+## Gambaran Keseluruhan Cepat
 
-| Item | Content |
+| Item | Kandungan |
 |------|---------|
-| Original Indication | Not captured in this Evidence Pack |
-| Predicted New Indication | No predictions available |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 — model prediction absent; no supporting studies assessable |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | **Hold** |
+| Indikasi Asal | Tidak ditangkap dalam Paket Bukti ini |
+| Indikasi Kegunaan Baru yang Diramalkan | Tiada ramalan tersedia |
+| Skor Ramalan TxGNN | N/A |
+| Tahap Bukti | L5 — ramalan model tiada; tiada kajian sokongan yang boleh dinilai |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | **Tahan** |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-No TxGNN-predicted indication was returned in this Evidence Pack, so no formal mechanistic rationale for a new indication can be constructed.
+Tiada indikasi yang diramalkan oleh TxGNN yang dikembalikan dalam Paket Bukti ini, jadi tiada rasional mekanistik rasmi untuk indikasi kegunaan baru yang dapat dibina.
 
-Detailed mechanism of action data is not available in the current Evidence Pack (Data Gap DG002). From established pharmacological knowledge, Aminophylline is a salt of theophylline and ethylenediamine belonging to the methylxanthine class. It is understood to act primarily as a non-selective phosphodiesterase inhibitor and adenosine receptor antagonist, producing smooth muscle relaxation, bronchodilation, and mild positive chronotropic and inotropic cardiac effects. Its established clinical role is in the management of bronchospasm associated with asthma and COPD.
+Data mekanisme tindakan yang terperinci tidak tersedia dalam Paket Bukti semasa (Jurang Data DG002). Berdasarkan pengetahuan farmakologi yang mapan, Aminophylline ialah garam teofelin dan etilena diamina yang tergolong dalam kelas metilksantin. Ia dipahami bertindak terutamanya sebagai penghambat fosfodiesterase tidak terpilih dan antagonis reseptor adenosin, menghasilkan relaksasi otot licin, bronkodilatasi, dan kesan jantung kronotropik dan inotropik positif yang ringan. Peranan klinikal yang telah ditubuhkan ialah dalam pengurusan bronkospasma yang berkaitan dengan asma dan COPD.
 
-Without a predicted new indication from the TxGNN model, the mechanistic bridge analysis — the central pillar of a repurposing evaluation — cannot proceed. This section will be populated once TxGNN predictions are available and the MOA data gap is resolved.
+Tanpa indikasi kegunaan baru yang diramalkan daripada model TxGNN, analisis jambatan mekanistik — tiang pusat penilaian penjelmaan ubat — tidak dapat diteruskan. Bahagian ini akan diisi setelah ramalan TxGNN tersedia dan jurang data MOA diselesaikan.
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-One registration record exists in the Malaysia NPRA database for Aminophylline Dihydrate; however, all associated license fields (authorization number, product name, dosage form, and approved indication text) were not captured during data retrieval and are absent from this Evidence Pack.
+Satu rekod pendaftaran wujud dalam pangkalan data NPRA Malaysia untuk Aminophylline Dihydrate; bagaimanapun, semua medan lesen yang berkaitan (nombor kebenaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan) tidak ditangkap semasa pengambilan data dan tiada dalam Paket Bukti ini.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
 |----------------------|--------------|-------------|---------------------|
-| Not retrieved | Not retrieved | Not retrieved | Not retrieved |
+| Tidak diperolehi | Tidak diperolehi | Tidak diperolehi | Tidak diperolehi |
 
-To complete this table, the NPRA license record must be re-queried and the approved indication text extracted.
-
----
-
-## Safety Considerations
-
-Please refer to the official package insert for safety information.
-
-Both the key warnings and contraindications for Aminophylline Dihydrate are flagged as blocking data gaps (DG001) in this Evidence Pack. No drug–drug interaction data was returned from the DrugBank query. Until the package insert is retrieved and parsed, no safety profile can be presented, and the drug **cannot advance to clinical feasibility screening**.
+Untuk melengkapkan jadual ini, rekod lesen NPRA mesti disiasat semula dan teks indikasi yang diluluskan diambil.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila rujuk sisipan paket rasmi untuk maklumat keselamatan.
 
-**Rationale:**
-The Evidence Pack is structurally incomplete — the TxGNN prediction pipeline returned no candidate indications, and the two highest-priority data gaps (safety warnings and MOA) remain unresolved, blocking both safety screening and mechanistic analysis.
+Kedua-dua amaran utama dan kontraindikasi untuk Aminophylline Dihydrate ditandai sebagai jurang data yang menghalang (DG001) dalam Paket Bukti ini. Tiada data interaksi ubat–ubat yang dikembalikan daripada pertanyaan DrugBank. Sehingga sisipan paket diperolehi dan dianalisis, tiada profil keselamatan dapat dipersembahkan, dan ubat ini **tidak dapat maju ke skrining kelayakan klinikal**.
 
-**To proceed, the following is needed:**
+---
 
-- **Resolve DG001 (Blocking):** Download the Malaysia-registered package insert PDF from NPRA and extract key warnings, contraindications, and dosage information
-- **Resolve DG002 (High):** Query DrugBank API using the INN "aminophylline" or "theophylline" to obtain DrugBank ID, full MOA, and drug categories
-- **Obtain TxGNN predictions:** Confirm that Aminophylline Dihydrate (or its active moiety theophylline) is present in the TxGNN knowledge graph; re-run the KG + DL prediction pipeline and populate `predicted_indications`
-- **Complete the NPRA license record:** Re-query NPRA to retrieve authorization number, product name, dosage form, and approved indication text for the 1 registered product
-- **Re-generate the Evidence Pack** once all four items above are resolved, then proceed to full S1 safety screening and mechanistic evaluation
+## Kesimpulan dan Langkah Berikutnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Paket Bukti adalah tidak lengkap secara struktur — saluran ramalan TxGNN tidak mengembalikan indikasi calon, dan dua jurang data keutamaan tertinggi (amaran keselamatan dan MOA) tetap tidak diselesaikan, menghalang kedua-dua skrining keselamatan dan analisis mekanistik.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+
+- **Selesaikan DG001 (Menghalang):** Muat turun PDF sisipan paket berdaftar Malaysia daripada NPRA dan ambil amaran utama, kontraindikasi, dan maklumat dos
+- **Selesaikan DG002 (Tinggi):** Soal API DrugBank menggunakan INN "aminophylline" atau "theophylline" untuk mendapatkan ID DrugBank, MOA penuh, dan kategori ubat
+- **Dapatkan ramalan TxGNN:** Sahkan bahawa Aminophylline Dihydrate (atau moiti aktifnya theophylline) hadir dalam graf pengetahuan TxGNN; jalankan semula saluran ramalan KG + DL dan isi `predicted_indications`
+- **Lengkapkan rekod lesen NPRA:** Siasat semula NPRA untuk mengambil nombor kebenaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan untuk 1 produk berdaftar
+- **Jana semula Paket Bukti** setelah semua empat item di atas diselesaikan, kemudian teruskan ke skrining keselamatan S1 lengkap dan penilaian mekanistik
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

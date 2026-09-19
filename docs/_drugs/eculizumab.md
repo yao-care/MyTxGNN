@@ -29,79 +29,80 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Eculizumab: Original Indication Data Unavailable → Predicted New Indication: Cyclic Hematopoiesis
+# Ekulizumab: Data Indikasi Asal Tidak Tersedia → Indikasi Baru yang Diramalkan: Hematopoiesis Siklik
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Eculizumab's original approved indication could not be retrieved from the current evidence pack (regulatory license and indication text fields are empty). TxGNN predicts the drug may be effective for **Cyclic Hematopoiesis**, but this prediction is currently supported by **0 clinical trials** and **0 publications**, and the reviewer's own mechanistic assessment finds no known biological link between complement inhibition and this disease. Overall evidence quality across all 10 TxGNN-ranked candidates in this pack is very low (all rated L5), and a Blocking data gap on package insert safety information prevents any safety evaluation at this time.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not available — regulatory license record exists (1 license, market status "Marketed"/Marketed) but indication text field is blank in the source data |
-| Predicted New Indication | Cyclic Hematopoiesis |
-| TxGNN Prediction Score | 99.97% |
-| Evidence Level | L5 (model prediction only, no clinical or literature support) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+Indikasi asal yang telah diluluskan untuk Ekulizumab tidak dapat diambil daripada pakej bukti semasa (medan lesen kawal selia dan teks indikasi adalah kosong). TxGNN meramalkan ubat ini mungkin berkesan untuk **Hematopoiesis Siklik**, tetapi ramalan ini kini disokong oleh **0 percubaan klinikal** dan **0 penerbitan**, dan penilaian mekanistik pengulas sendiri tidak menemui sebarang pautan biologi yang diketahui antara perencatan pelengkap dan penyakit ini. Kualiti bukti keseluruhan di semua 10 calon berjenjang TxGNN dalam pakej ini sangat rendah (semua dinilai L5), dan jurang data Blokir mengenai maklumat keselamatan sisipan pembungkus menghalang sebarang penilaian keselamatan pada masa ini.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Umum Pantas
 
-Detailed mechanism of action (MOA) data for Eculizumab is not available in the current evidence pack (flagged as a High-severity data gap, DG002). Based on general pharmacological knowledge referenced in the reviewer's rationale notes, Eculizumab acts as a terminal complement inhibitor (C5/membrane attack complex blockade); however, this general mechanism is not confirmed against a verified original-indication record in this pack.
-
-Critically, the reviewer-provided mechanistic rationale for Cyclic Hematopoiesis explicitly concludes that there is **no known pathological connection** between this disease and complement biology: Cyclic Hematopoiesis is driven by ELANE gene mutations causing cyclic dysregulation of neutrophil elastase and disrupted granulopoiesis rhythm, a pathway with no established link to the complement cascade that Eculizumab targets. The high TxGNN score is assessed as potentially reflecting node-embedding similarity among hematologic disease clusters in the knowledge graph, rather than a genuine mechanistic relationship.
-
-The same pattern repeats across the other nine ranked candidates in this pack (e.g., JAGN1 deficiency, X-linked SCN, CXCR2/CSF3R receptor defects) — all are congenital neutropenia or granulocyte-disorder syndromes whose underlying biology (protein trafficking, receptor signaling, apoptosis) does not intersect with terminal complement inhibition. Two candidates (ranks 4 and 10) returned literature hits, but on inspection these publications discuss Eculizumab's already-approved indications (PNH, aHUS, TMA, myasthenia gravis) rather than the candidate disease itself, and are flagged by the reviewer as likely disease-name/literature mismatches rather than genuine supporting evidence.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Tidak tersedia — rekod lesen kawal selia wujud (1 lesen, status pasaran "Marketed"/Dipasarkan) tetapi medan teks indikasi kosong dalam data sumber |
+| Indikasi Baru yang Diramalkan | Hematopoiesis Siklik |
+| Skor Ramalan TxGNN | 99.97% |
+| Aras Bukti | L5 (ramalan model sahaja, tanpa sokongan klinikal atau literatur) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available
+Data mekanisme tindakan terperinci (MOA) untuk Ekulizumab tidak tersedia dalam pakej bukti semasa (ditandakan sebagai jurang data Keterukan Tinggi, DG002). Berdasarkan pengetahuan farmakologi am yang dirujuk dalam nota nisbah rasional pengulas, Ekulizumab bertindak sebagai perencat pelengkap terminal (perencatan C5/kompleks serangan membran); walau bagaimanapun, mekanisme am ini tidak disahkan berbanding rekod indikasi asal yang disahkan dalam pakej ini.
 
-*(Note: For reference, other candidates in this evidence pack — e.g., "congenital neutropenia-myelofibrosis-nephromegaly syndrome" and "primary release disorder of platelets" — did return literature hits, but these were assessed as disease-name/topic mismatches (discussing PNH, aHUS, TMA, and myasthenia gravis instead of the candidate disease) and do not constitute valid evidence for Cyclic Hematopoiesis.)*
+Secara kritikal, nisbah rasional mekanistik yang diberikan oleh pengulas untuk Hematopoiesis Siklik secara eksplisit menyimpulkan bahawa terdapat **tiada pautan patologi yang diketahui** antara penyakit ini dan biologi pelengkap: Hematopoiesis Siklik didorong oleh mutasi gen ELANE yang menyebabkan peraturan siklik elastase neutrofil dan rentak granulopoiesis terganggu, laluan dengan tiada pautan yang mantap kepada lata pelengkap yang disasarkan oleh Ekulizumab. Skor TxGNN yang tinggi dinilai sebagai kemungkinan mencerminkan kesamaan tertanam nod di kalangan kelompok penyakit hematologi dalam graf pengetahuan, bukan hubungan mekanistik yang tulen.
 
----
-
-## Malaysia Market Information
-
-A registration record exists (market status: Marketed, 1 total license), but the license number, product name, dosage form, manufacturer, and approved indication text fields are all blank in the current data extract. This information should be re-queried from the source regulatory database before proceeding further.
+Corak yang sama berulang di semua sembilan calon berjenjang lain dalam pakej ini (cth., kekurangan JAGN1, SCN bersambung-X, kecacatan reseptor CXCR2/CSF3R) — semua adalah neutropenia bawaan atau sindrom gangguan butiran sel putih yang biologi asasnya (pengangkutan protein, isyarat reseptor, apoptosis) tidak bersilang dengan perencatan pelengkap terminal. Dua calon (pangkat 4 dan 10) mengembalikan pukulan literatur, tetapi apabila diperiksa penerbitan ini membincangkan indikasi yang telah diluluskan oleh Ekulizumab (PNH, aHUS, TMA, miastenia gravis) bukan penyakit calon itu sendiri, dan ditandakan oleh pengulas sebagai kemungkinan ketidakpadanan nama penyakit/literatur bukan bukti sokongan tulen.
 
 ---
 
-## Safety Considerations
+## Bukti Percubaan Klinikal
 
-Please refer to the package insert for safety information.
-
-*(Note: Key warnings, contraindications, and drug interaction data are all marked as data gaps in this pack. Retrieval of the official package insert (DG001, Blocking severity) is required before any safety-related decision can be made.)*
+Pada masa ini tiada percubaan klinikal berkaitan berdaftar
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Hold**
+Pada masa ini tiada literatur berkaitan tersedia
 
-**Rationale:**
-All evidence for the Cyclic Hematopoiesis prediction is at Level L5 (model prediction only) — there are no clinical trials or literature specifically supporting this indication, and the mechanistic rationale itself indicates no plausible biological link between complement inhibition and this disease. Additionally, a Blocking-severity data gap (missing package insert warnings/contraindications) means this candidate cannot yet pass initial safety screening (S1), and this pattern of weak/absent evidence is consistent across all 10 TxGNN-ranked candidates in this pack.
+*(Catatan: Sebagai rujukan, calon lain dalam pakej bukti ini — contohnya, "sindrom neutropenia bawaan-mielofibrosis-nephromegaly" dan "gangguan pelepasan platelet primer" — memang mengembalikan pukulan literatur, tetapi ini dinilai sebagai ketidakpadanan nama penyakit/topik (membincangkan PNH, aHUS, TMA, dan miastenia gravis sebagai gantinya daripada penyakit calon) dan tidak membentuk bukti sah untuk Hematopoiesis Siklik.)*
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert (warnings, contraindications) — currently Blocking (DG001)
-- Verified mechanism of action data via DrugBank (DG002)
-- Confirmed original indication and license details (regulatory data fields are currently empty)
-- Independent verification of any future literature or trial hits against the exact candidate disease name, given the mismatch pattern observed in this pack
-- Re-evaluation if genuine preclinical or case-level evidence specific to Cyclic Hematopoiesis emerges
+---
+
+## Maklumat Pasaran Malaysia
+
+Rekod pendaftaran wujud (status pasaran: Dipasarkan, 1 jumlah lesen keseluruhan), tetapi medan nombor lesen, nama produk, bentuk dos, pengilang, dan teks indikasi yang diluluskan semuanya kosong dalam ekstrak data semasa. Maklumat ini harus dicapai semula daripada pangkalan data kawal selia sumber sebelum meneruskan lebih jauh.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan pembungkus untuk maklumat keselamatan.
+
+*(Catatan: Amaran utama, kontraindikasi, dan data interaksi ubat semuanya ditandakan sebagai jurang data dalam pakej ini. Pengambilan sisipan pembungkus rasmi (DG001, keterukan Blokir) diperlukan sebelum sebarang keputusan berkaitan keselamatan boleh dibuat.)*
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Nisbah Rasional:**
+Semua bukti untuk ramalan Hematopoiesis Siklik adalah pada Aras L5 (ramalan model sahaja) — tiada percubaan klinikal atau literatur khusus menyokong indikasi ini, dan nisbah rasional mekanistik itu sendiri menunjukkan tiada pautan biologi yang munasabah antara perencatan pelengkap dan penyakit ini. Selain itu, jurang data keterukan Blokir (amaran sisipan pembungkus/kontraindikasi hilang) bermaksud calon ini belum dapat lulus penapisan keselamatan awal (S1), dan corak bukti lemah/tidak ada ini konsisten di semua 10 calon berjenjang TxGNN dalam pakej ini.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Sisipan pembungkus TFDA/NPRA (amaran, kontraindikasi) — kini Blokir (DG001)
+- Data mekanisme tindakan yang disahkan melalui DrugBank (DG002)
+- Indikasi asal yang disahkan dan butiran lesen (medan data kawal selia kini kosong)
+- Pengesahan bebas sebarang pukulan literatur atau percubaan masa depan terhadap nama penyakit calon yang tepat, memandangkan corak ketidakpadanan yang diperhatikan dalam pakej ini
+- Penilaian semula jika bukti praklinikal atau peringkat kes yang tulen khusus kepada Hematopoiesis Siklik muncul
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

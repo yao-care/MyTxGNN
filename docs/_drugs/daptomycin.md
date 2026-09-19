@@ -29,68 +29,69 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Daptomycin: From Gram-Positive Infections to Osteoarthritis
+# Daptomycin: Dari Jangkitan Gram-Positif kepada Osteoarthritis
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Daptomycin is a cyclic lipopeptide antibiotic originally used to treat serious Gram-positive infections such as skin/soft-tissue infections, bacteraemia, and right-sided endocarditis. The TxGNN model predicts it may be effective for **Osteoarthritis**, but the supporting literature (10 publications, 0 clinical trials) is almost entirely about daptomycin treating *osteoarticular infections* (e.g., prosthetic joint infection) — a mechanistically distinct condition from degenerative osteoarthritis — suggesting this prediction is likely a knowledge-graph node-confusion artifact rather than a genuine repurposing signal.
+Daptomycin adalah antibiotik lipopeptida siklik yang awalnya digunakan untuk merawat jangkitan Gram-positif serius seperti jangkitan kulit/jaringan lembut, bakteremia, dan endokarditis sisi kanan. Model TxGNN meramalkan ia mungkin berkesan untuk **Osteoarthritis**, tetapi literatur sokongan (10 penerbitan, 0 ujian klinikal) hampir sepenuhnya tentang daptomycin merawat *jangkitan osteoartikular* (cth., jangkitan sendi prostetik) — keadaan yang berbeza dari segi mekanisme daripada osteoarthritis degeneratif — menunjukkan ramalan ini berkemungkinan besar adalah artifak kekeliruan nod graf pengetahuan daripada isyarat penolakan semula yang tulen.
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | Not available from Malaysia licence records; literature context indicates serious Gram-positive infections (skin infection, bacteraemia, right-sided endocarditis) |
-| Predicted New Indication | Osteoarthritis |
-| TxGNN Prediction Score | 99.86% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 4 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Tidak tersedia daripada rekod lesen Malaysia; konteks literatur menunjukkan jangkitan Gram-positif serius (jangkitan kulit, bakteremia, endokarditis sisi kanan) |
+| Petunjuk Baru Diramalkan | Osteoarthritis |
+| Skor Ramalan TxGNN | 99.86% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 4 |
+| Keputusan Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed mechanism-of-action data for daptomycin is not available in this evidence pack (data gap). Based on information found in the supporting literature, daptomycin is a cyclic lipopeptide that calcium-dependently binds and depolarises the cell membrane of Gram-positive bacteria, producing rapid bactericidal activity — a purely antimicrobial mechanism with no known direct link to the cartilage degeneration and joint inflammation pathways underlying osteoarthritis.
+Data mekanisme tindakan terperinci untuk daptomycin tidak tersedia dalam pakej bukti ini (jurang data). Berdasarkan maklumat yang ditemui dalam literatur sokongan, daptomycin adalah lipopeptida siklik yang bergantung pada kalsium mengikat dan depolarisasi membran sel organisma Gram-positif, menghasilkan aktiviti bakterisida pantas — mekanisme semata antimikrob tanpa pautan langsung yang diketahui kepada jalan kartilaj degenerasi dan keradangan sendi yang mendasari osteoarthritis.
 
-Critically, all 10 supporting publications describe daptomycin's use in treating **osteoarticular infections** — prosthetic joint infection (PJI), septic arthritis, and implant-associated bone/joint infection caused by Gram-positive organisms — not osteoarthritis as a degenerative disease. One case report (PMID 32206362) even describes a patient referred for total knee arthroplasty with a pre-existing osteoarthritis diagnosis who was subsequently found to have a chronic *Corynebacterium* joint infection, illustrating how these two concepts get conflated in source text.
+Secara kritikal, kesemua 10 penerbitan sokongan menerangkan penggunaan daptomycin dalam merawat **jangkitan osteoartikular** — jangkitan sendi prostetik (PJI), artritis septik, dan jangkitan tulang/sendi berkaitan implan yang disebabkan oleh organisma Gram-positif — bukan osteoarthritis sebagai penyakit degeneratif. Satu laporan kes (PMID 32206362) bahkan menerangkan pesakit yang dirujuk untuk artroplasti lutut total dengan diagnosis osteoarthritis sedia ada yang kemudiannya didapati mempunyai jangkitan sendi *Corynebacterium* kronik, mengilustrasikan bagaimana dua konsep ini menjadi keliru dalam teks sumber.
 
-Taken together, this pattern is best explained by TxGNN's knowledge graph merging or closely embedding the "osteoarticular infection" and "osteoarthritis" disease nodes, rather than a real pharmacological signal. No mechanistic or clinical rationale currently supports repurposing daptomycin for osteoarthritis itself.
+Diambil bersama, corak ini paling baik dijelaskan oleh graf pengetahuan TxGNN yang menggabungkan atau membenamkan secara dekat nod penyakit "jangkitan osteoartikular" dan "osteoarthritis", daripada isyarat farmakologi sebenar. Tiada rasional mekanistik atau klinikal semasa menyokong penolakan semula daptomycin untuk osteoarthritis itu sendiri.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-Currently no related clinical trials registered.
+Tiada ujian klinikal berkaitan yang didaftarkan pada masa ini.
 
-## Literature Evidence
+## Bukti Literatur
 
-**Note:** the publications below discuss daptomycin's established use for Gram-positive *osteoarticular infections* (PJI, septic arthritis), not degenerative osteoarthritis — included here for transparency per the evidence pack, but they should not be read as efficacy evidence for osteoarthritis.
+**Nota:** penerbitan di bawah membincangkan penggunaan daptomycin yang telah ditetapkan untuk *jangkitan osteoartikular* Gram-positif (PJI, artritis septik), bukan osteoarthritis degeneratif — disertakan di sini untuk ketelusan mengikut pakej bukti, tetapi ia tidak boleh dibaca sebagai bukti keberkesanan untuk osteoarthritis.
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [23519823](https://pubmed.ncbi.nlm.nih.gov/23519823/) | 2013 | Cohort | International orthopaedics | High-dose daptomycin + rifampicin evaluated for safety/efficacy in Gram-positive osteoarticular infections |
-| [22511636](https://pubmed.ncbi.nlm.nih.gov/22511636/) | 2012 | Case Series | J Antimicrob Chemother | Daptomycin experience in knee/hip periprosthetic joint infections |
-| [26235888](https://pubmed.ncbi.nlm.nih.gov/26235888/) | 2015 | Cohort | Int J Antimicrob Agents | High-dose daptomycin (>6 mg/kg) for complicated bone/joint and implant-associated infections |
-| [22854340](https://pubmed.ncbi.nlm.nih.gov/22854340/) | 2012 | In vitro susceptibility | J Antibiotics | Daptomycin susceptibility of S. aureus/S. epidermidis from prosthetic joint infections |
-| [17999973](https://pubmed.ncbi.nlm.nih.gov/17999973/) | 2008 | Cohort | J Antimicrob Chemother | Daptomycin vs. standard therapy outcomes in osteoarticular infections with S. aureus bacteraemia |
-| [32206362](https://pubmed.ncbi.nlm.nih.gov/32206362/) | 2020 | Case Report | Case Rep Orthop | Chronic Corynebacterium striatum septic arthritis in a patient referred for TKA, initially read as osteoarthritis |
-| [23312602](https://pubmed.ncbi.nlm.nih.gov/23312602/) | 2013 | Survey/Review | Int J Antimicrob Agents | Emerging Infections Network survey on current PJI management practices |
-| [21477701](https://pubmed.ncbi.nlm.nih.gov/21477701/) | 2010 | Registry Cohort | Medicina clínica | EU-CORE registry: daptomycin use experience in Spain |
-| [25650692](https://pubmed.ncbi.nlm.nih.gov/25650692/) | 2015 | Retrospective microbiology | Surgical infections | 10-year evolution of Staphylococcal susceptibility profile in osteoarticular infections |
-| [41853106](https://pubmed.ncbi.nlm.nih.gov/41853106/) | 2026 | Case Report | ASM Case Reports | First reported synovial fluid isolation of Corynebacterium propinquum causing septic arthritis |
+| [23519823](https://pubmed.ncbi.nlm.nih.gov/23519823/) | 2013 | Kohort | International Orthopaedics | Daptomycin dos tinggi + rifampicin dinilai untuk keselamatan/keberkesanan dalam jangkitan osteoartikular Gram-positif |
+| [22511636](https://pubmed.ncbi.nlm.nih.gov/22511636/) | 2012 | Siri Kes | J Antimicrob Chemother | Pengalaman daptomycin dalam jangkitan sendi periprostetik lutut/pinggul |
+| [26235888](https://pubmed.ncbi.nlm.nih.gov/26235888/) | 2015 | Kohort | Int J Antimicrob Agents | Daptomycin dos tinggi (>6 mg/kg) untuk jangkitan tulang/sendi rumit dan jangkitan berkaitan implan |
+| [22854340](https://pubmed.ncbi.nlm.nih.gov/22854340/) | 2012 | Kerentanan in vitro | J Antibiotics | Kerentanan daptomycin S. aureus/S. epidermidis daripada jangkitan sendi prostetik |
+| [17999973](https://pubmed.ncbi.nlm.nih.gov/17999973/) | 2008 | Kohort | J Antimicrob Chemother | Hasil daptomycin vs. terapi piawai dalam jangkitan osteoartikular dengan bakteremia S. aureus |
+| [32206362](https://pubmed.ncbi.nlm.nih.gov/32206362/) | 2020 | Laporan Kes | Case Rep Orthop | Artritis septik Corynebacterium striatum kronik dalam pesakit yang dirujuk untuk TKA, pada mulanya dibaca sebagai osteoarthritis |
+| [23312602](https://pubmed.ncbi.nlm.nih.gov/23312602/) | 2013 | Tinjauan/Ulasan | Int J Antimicrob Agents | Tinjauan Rangkaian Jangkitan Baru mengenai amalan pengurusan PJI semasa |
+| [21477701](https://pubmed.ncbi.nlm.nih.gov/21477701/) | 2010 | Kohort Pendaftaran | Medicina Clínica | Pendaftaran EU-CORE: pengalaman penggunaan daptomycin di Sepanyol |
+| [25650692](https://pubmed.ncbi.nlm.nih.gov/25650692/) | 2015 | Mikrobiologi Retrospektif | Surgical Infections | Evolusi 10 tahun profil kerentanan Staphylococcal dalam jangkitan osteoartikular |
+| [41853106](https://pubmed.ncbi.nlm.nih.gov/41853106/) | 2026 | Laporan Kes | ASM Case Reports | Pengasingan cecair sinovial Corynebacterium propinquum pertama yang dilaporkan yang menyebabkan artritis septik |
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information. (Note: TFDA label warnings/contraindications and DDI data are currently unavailable — flagged as a Blocking data gap; see Next Steps.)
+Sila rujuk sisipan pakej untuk maklumat keselamatan. (Nota: amaran label TFDA/kontraindikasi dan data DDI pada masa ini tidak tersedia — ditandai sebagai jurang data menghalang; lihat Langkah Seterusnya.)
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The osteoarthritis prediction is supported only by literature on a mechanistically unrelated condition (osteoarticular infection), with zero clinical trials and no plausible MOA linkage — consistent with the assigned L5 evidence level and a likely knowledge-graph artifact rather than a real repurposing signal.
+**Rasional:**
+Ramalan osteoarthritis hanya disokong oleh literatur tentang keadaan yang berbeza dari segi mekanisme (jangkitan osteoartikular), tanpa ujian klinikal dan tiada pautan MOA yang munasabah — konsisten dengan tahap bukti L5 yang diberikan dan artifak graf pengetahuan berkemungkinan daripada isyarat penolakan semula sebenar.
 
-**To proceed, the following is needed:**
-- TFDA label (warnings/contraindications) — currently a Blocking data gap (DG001)
-- DrugBank-confirmed mechanism of action — High-priority data gap (DG002)
-- If pursuing this drug further, redirect attention to **rheumatoid arthritis** (rank 2, L4/S1), which has an actual mechanistic lead: a 2025 animal study (PMID 39571268) shows daptomycin suppresses inflammatory cytokines/NF-κB in a collagen-induced arthritis model — a materially stronger starting hypothesis than the osteoarthritis signal reviewed here
+**Untuk meneruskan, yang berikut diperlukan:**
+- Label TFDA (amaran/kontraindikasi) — pada masa ini adalah jurang data menghalang (DG001)
+- Mekanisme tindakan yang disahkan DrugBank — jurang data prioriti tinggi (DG002)
+- Jika meneruskan ubat ini lebih jauh, alihkan perhatian kepada **artritis reumatoid** (pangkat 2, L4/S1), yang mempunyai petunjuk mekanistik sebenar: kajian haiwan 2025 (PMID 39571268) menunjukkan daptomycin menekan sitokina/NF-κB keradangan dalam model artritis kolijen teraruh — hipotesis permulaan yang jauh lebih kuat daripada isyarat osteoarthritis yang disemak di sini
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

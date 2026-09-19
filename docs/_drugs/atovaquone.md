@@ -29,70 +29,71 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Atovaquone: 老藥新用評估待完成 — 資料不足，無法進行完整分析
+# Atovaquone: Penilaian Penggunaan Semula Ubat Tertangguh — Data Tidak Mencukupi, Analisis Lengkap Tidak Dapat Dilakukan
 
 ---
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Atovaquone 是一種抗寄生蟲藥物，廣泛用於 *Pneumocystis jirovecii* 肺炎（PCP）的治療與預防，以及弓形蟲病和瘧疾預防（與proguanil併用）。
-然而，本次 Evidence Pack 中 **TxGNN 預測適應症欄位為空**，且原始適應症記錄、作用機轉與安全性資訊均存在關鍵缺口，**無法進行完整的老藥新用評估**。
-建議補齊資料後重新執行預測流程，再進行正式評估。
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | 未記錄於 Evidence Pack（依一般知識：PCP 治療/預防、弓形蟲病、瘧疾預防） |
-| Predicted New Indication | **無**（`predicted_indications` 為空陣列） |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | N/A（無預測結果） |
-| Malaysia Market Status | ✓ Marketed（Marketed） |
-| Number of Registrations | 1 |
-| Recommended Decision | **Hold** |
+Atovaquone adalah ubat antiparasit yang digunakan secara meluas untuk rawatan dan pencegahan pneumonia *Pneumocystis jirovecii* (PCP), serta penyakit toksoplasma dan pencegahan malaria (digunakan bersama proguanil).
+Walau bagaimanapun, dalam Evidence Pack ini, **medan indikasi yang diprediksi oleh TxGNN kosong**, dan rekod indikasi asal, mekanisme tindakan dan maklumat keselamatan semuanya mempunyai jurang kritis, **penilaian penggunaan semula ubat yang lengkap tidak dapat dilakukan**.
+Disyorkan untuk melengkapkan data dan melaksanakan semula proses ramalan, kemudian melakukan penilaian rasmi.
 
 ---
 
-## Malaysia Market Information
+## Gambaran Ringkas
 
-NPRA 查詢回傳 1 筆Marketed登記，但本次 Evidence Pack 未取得詳細登記欄位（產品名稱、劑型、核准適應症等）。
-
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|----------------------|--------------|-------------|---------------------|
-| （未取得） | （未取得） | （未取得） | （未取得） |
-
-> **補救措施**：透過 NPRA 官方查詢介面，以登記編號取得完整產品資訊並填入上表。
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-> 本次 Evidence Pack 的安全性欄位（警語、禁忌、藥物交互作用）均為資料缺口，尚未自仿單或 DrugBank 取得。
+| Item | Kandungan |
+|------|-----------|
+| Indikasi Asal | Tidak dicatat dalam Evidence Pack (berdasarkan pengetahuan umum: rawatan/pencegahan PCP, penyakit toksoplasma, pencegahan malaria) |
+| Indikasi Baru yang Diprediksi | **Tiada** (`predicted_indications` ialah tatasusunan kosong) |
+| Skor Ramalan TxGNN | N/A |
+| Tahap Bukti | N/A (Tiada hasil ramalan) |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | **Tahan** |
 
 ---
 
-## Conclusion and Next Steps
+## Maklumat Pasaran Malaysia
 
-**Decision: Hold**
+Pertanyaan NPRA mengembalikan 1 pendaftaran Dipasarkan, tetapi Evidence Pack ini belum mendapatkan medan pendaftaran terperinci (nama produk, bentuk dos, indikasi yang diluluskan, dll.).
 
-**Rationale:**
-本次 Atovaquone Evidence Pack 存在多項關鍵缺口——TxGNN 預測結果缺失、原始適應症未記錄、作用機轉未取得、安全性警語與禁忌均未填入，評估流程無法繼續推進。
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
+|------------------|------------|-----------|------------------------|
+| (Belum diperoleh) | (Belum diperoleh) | (Belum diperoleh) | (Belum diperoleh) |
 
-**To proceed, the following is needed:**
-
-- **[Blocking — DG001]** 下載並解析 NPRA/TFDA 仿單 PDF，取得安全性警語與禁忌症，以解除 S1 安全性初評阻擋
-- **[High — DG002]** 透過 DrugBank API 查詢 DB01117 的作用機轉（MOA），以支援機轉關聯性分析
-- **重新執行 TxGNN 預測流程**，針對 Atovaquone (DB01117) 生成新適應症候選清單（`predicted_indications`）
-- **補全 NPRA 登記詳細資訊**：取得產品名稱、劑型、核准適應症全文
-- 資料補齊後，依照 Evidence Pack v4 規格重新生成報告，進行完整 L1–L5 證據評級與決策分析
+> **Langkah Pemulihan**: Melalui antara muka pertanyaan rasmi NPRA, dapatkan maklumat produk lengkap menggunakan nombor pendaftaran dan isikan jadual di atas.
 
 ---
 
-> ⚠️ **YMYL 免責聲明**：本報告結果僅供研究參考，不構成任何醫療建議。老藥新用候選藥物需經過正式臨床驗證後，方可應用於實際醫療決策。
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan bungkusan untuk maklumat keselamatan.
+
+> Medan keselamatan Evidence Pack ini (amaran, kontraindikasi, interaksi ubat) semuanya merupakan jurang data, belum diperoleh daripada sisipan produk atau DrugBank.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Alasan:**
+Evidence Pack Atovaquone ini mempunyai beberapa jurang kritis — hasil ramalan TxGNN hilang, indikasi asal tidak dicatat, mekanisme tindakan belum diperoleh, amaran keselamatan dan kontraindikasi belum diisi, proses penilaian tidak dapat diteruskan.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+
+- **[Blocking — DG001]** Muat turun dan analisis PDF sisipan produk NPRA/TFDA, dapatkan amaran keselamatan dan kontraindikasi, untuk menghapuskan sekatan penilaian keselamatan awal S1
+- **[High — DG002]** Pertanyaan API DrugBank untuk mekanisme tindakan (MOA) DB01117, untuk menyokong analisis kaitan mekanisme
+- **Laksanakan semula proses ramalan TxGNN**, hasilkan senarai calon indikasi baru untuk Atovaquone (DB01117) (`predicted_indications`)
+- **Lengkapkan maklumat pendaftaran NPRA terperinci**: Dapatkan nama produk, bentuk dos, teks penuh indikasi yang diluluskan
+- Setelah data dilengkapkan, janakan semula laporan mengikut spesifikasi Evidence Pack v4, jalankan penarafan bukti L1–L5 lengkap dan analisis keputusan
+
+---
+
+> ⚠️ **Penafian YMYL**: Hasil laporan ini adalah untuk tujuan penyelidikan sahaja dan tidak merupakan sebarang nasihat perubatan. Ubat calon penggunaan semula ubat mesti melalui pengesahan klinikal rasmi sebelum dapat digunakan dalam keputusan penjagaan kesihatan sebenarnya.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

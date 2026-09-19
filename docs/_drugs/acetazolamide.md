@@ -29,108 +29,109 @@ Tahap bukti: **L2** | Indikasi diramal: **10**
 
 </div>
 
-# Acetazolamide: From Glaucoma and Edema to Cardiomyopathy
+# Acetazolamide: Daripada Glaukoma dan Edema Hingga kepada Kardiomiopati
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Acetazolamide is a well-established carbonic anhydrase inhibitor with registered indications including glaucoma and diuresis; however, detailed Malaysian-registered indication texts were not retrievable from this evidence pack.
-The TxGNN model predicts it may be effective for **Cardiomyopathy** (specifically acute decompensated heart failure with diuretic resistance) — ranked #7 by TxGNN score but **#1 by evidence quality** among the ten assessed indications.
-This direction is supported by **3 active clinical trials** (all Phase 4, total enrolment 1,805) and **10 publications**, with the landmark ADVOR Phase 3 RCT (NEJM 2022) providing additional external validation not captured in this evidence pack.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Not retrievable — all Malaysian registered product indication fields are empty in this evidence pack |
-| Predicted New Indication | Cardiomyopathy |
-| TxGNN Prediction Score | 99.83% (rank #7 by TxGNN; rank #1 by evidence quality) |
-| Evidence Level | L2 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
-| Recommended Decision | Proceed with Guardrails |
-
-> **Note on prediction selection:** The highest TxGNN-scored prediction (exercise-induced malignant hyperthermia, 99.95%) carries L5 evidence with a **Hold** recommendation and no supporting clinical trials or publications. This report focuses on **Cardiomyopathy** as the most evidence-supported and clinically actionable candidate.
+Acetazolamide ialah inhibitor karbonik anhidrasis yang telah diteguhkan dengan baik dengan indikasi terdaftar termasuk glaukoma dan diuresis; bagaimanapun, teks indikasi terdaftar khusus Malaysia yang terperinci tidak dapat diambil daripada pakej bukti ini.
+Model TxGNN meramalkan ia mungkin berkesan untuk **Kardiomiopati** (khususnya kegagalan jantung akut yang mengalami dekompensasi dengan rintangan diuretik) — disenaraikan #7 mengikut skor TxGNN tetapi **#1 mengikut kualiti bukti** dalam kalangan sepuluh indikasi yang dinilai.
+Arah ini disokong oleh **3 percubaan klinikal yang aktif** (semua Fasa 4, jumlah enrolmen 1,805) dan **10 penerbitan**, dengan RCT Fasa 3 mercu tanda ADVOR (NEJM 2022) memberikan pengesahan luaran tambahan yang tidak ditangkap dalam pakej bukti ini.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Pantas
 
-Currently, detailed mechanism of action data is not available from the evidence pack. Based on known information, acetazolamide is a **carbonic anhydrase inhibitor (CAI)** whose efficacy in glaucoma, altitude sickness, and oedema has been well established, and whose renal tubular mechanism is directly applicable to heart failure management.
+| Item | Kandungan |
+|------|-----------|
+| Indikasi Asal | Tidak dapat diambil — semua medan teks indikasi produk terdaftar Malaysia kosong dalam pakej bukti ini |
+| Indikasi Baru Ramalan | Kardiomiopati |
+| Skor Ramalan TxGNN | 99.83% (kedudukan #7 mengikut TxGNN; kedudukan #1 mengikut kualiti bukti) |
+| Tahap Bukti | L2 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 3 |
+| Keputusan yang Disyorkan | Teruskan dengan Langkah Keselamatan |
 
-Acetazolamide inhibits carbonic anhydrase in the renal proximal tubule, blocking bicarbonate (HCO₃⁻) reabsorption. In patients receiving long-term loop diuretics, a compensatory metabolic alkalosis gradually develops, blunting the natriuretic effect of those diuretics and producing diuretic resistance. By reversing this metabolic alkalosis, acetazolamide restores loop diuretic sensitivity — and as a consequence, improves fluid decongestion in acute decompensated heart failure. The ADVOR Phase 3 RCT (NEJM 2022), though not captured in this evidence pack, confirmed this pathway with statistically significant improvement in successful decongestion vs. placebo.
-
-Cardiomyopathy is one of the leading causes of chronic heart failure, and acute decompensation with volume overload and diuretic resistance is its most common and costly clinical presentation. The mechanistic bridge — carbonic anhydrase inhibition → metabolic alkalosis correction → loop diuretic resensitisation → decongestion — precisely targets this unmet therapeutic need. Three independent Phase 4 trials (total n = 1,805) are currently recruiting patients with exactly this clinical profile, reflecting broad investigator confidence in the repurposing hypothesis.
+> **Nota mengenai pemilihan ramalan:** Ramalan berskor tertinggi TxGNN (hipertermia ganas teraruh latihan, 99.95%) membawa bukti L5 dengan cadangan **Tahan**, dan tiada percubaan klinikal atau penerbitan yang menyokong. Laporan ini memberi fokus kepada **Kardiomiopati** sebagai calon yang paling disokong bukti dan boleh dilakukan secara klinikal.
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Pada masa kini, data mekanisme tindakan terperinci tidak tersedia daripada pakej bukti. Berdasarkan maklumat yang diketahui, acetazolamide ialah **inhibitor karbonik anhidrasis (CAI)** yang keberkesanannya dalam glaukoma, penyakit ketinggian, dan edema telah diteguhkan dengan baik, dan mekanisme tiub renalnya boleh digunakan secara langsung untuk pengurusan kegagalan jantung.
+
+Acetazolamide menghalang karbonik anhidrasis dalam tubul proksimal ginjal, menyekat penyerapan semula bikarbonat (HCO₃⁻). Dalam pesakit yang menerima diuretik gelung jangka panjang, alkalosis metabolik pampasan secara beransur berkembang, menumpulkan kesan natriuretik diuretik tersebut dan menghasilkan rintangan diuretik. Dengan membalikkan alkalosis metabolik ini, acetazolamide mengembalikan kepekaan diuretik gelung — dan akibatnya, meningkatkan dekongesti cecair dalam kegagalan jantung akut yang mengalami dekompensasi. RCT Fasa 3 ADVOR (NEJM 2022), walaupun tidak ditangkap dalam pakej bukti ini, mengesahkan laluan ini dengan peningkatan yang signifikan secara statistik dalam dekongesti yang berjaya berbanding plasebo.
+
+Kardiomiopati ialah salah satu punca utama kegagalan jantung kronik, dan dekompensasi akut dengan beban isipadu berlebihan dan rintangan diuretik ialah presentasi klinikal yang paling biasa dan mahal. Jambatan mekanistik — perencat karbonik anhidrasis → pembetulan alkalosis metabolik → penyesuaian semula diuretik gelung → dekongesti — menyasarkan dengan tepat keperluan terapeutik yang tidak terpenuhi ini. Tiga percubaan Fasa 4 yang bebas (jumlah n = 1,805) sedang merekrut pesakit dengan profil klinikal yang tepat, mencerminkan keyakinan penyelidik yang luas terhadap hipotesis penggunaan semula ubat.
+
+---
+
+## Bukti Percubaan Klinikal
+
+| Nombor Percubaan | Fasa | Status | Enrolmen | Penemuan Utama |
 |-------------|-------|--------|------------|--------------|
-| [NCT05802849](https://clinicaltrials.gov/study/NCT05802849) | Phase 4 | Recruiting | 400 | Oral acetazolamide as adjunct to loop diuretics in acute decompensation of chronic HF (including cardiomyopathy); tests decongestion outcomes in patients with both preserved and reduced LVEF |
-| [NCT06166654](https://clinicaltrials.gov/study/NCT06166654) | Phase 4 | Recruiting | 939 | Double-blind multicentre RCT comparing loop diuretics + metolazone vs. loop diuretics + acetazolamide vs. loop diuretics alone in acute HF with volume overload; primary endpoint is optimal diuretic strategy for loop-diuretic-resistant patients |
-| [NCT06092437](https://clinicaltrials.gov/study/NCT06092437) | N/A | Recruiting | 466 | TAILOR-AHF: urine sodium–guided personalised diuretic algorithm in acute decompensated HF; acetazolamide is an escalation option within the algorithm, evaluating biomarker-driven therapy selection |
+| [NCT05802849](https://clinicaltrials.gov/study/NCT05802849) | Fasa 4 | Merekrut | 400 | Acetazolamide lisan sebagai tambahan kepada diuretik gelung dalam dekompensasi akut kegagalan jantung kronik (termasuk kardiomiopati); menguji hasil dekongesti pada pesakit dengan LVEF yang terpelihara dan berkurang |
+| [NCT06166654](https://clinicaltrials.gov/study/NCT06166654) | Fasa 4 | Merekrut | 939 | RCT dwibuta berbilang pusat membandingkan diuretik gelung + metolazon berbanding diuretik gelung + acetazolamide berbanding diuretik gelung sahaja dalam kegagalan jantung akut dengan beban isipadu berlebihan; titik akhir utama ialah strategi diuretik optimum untuk pesakit dengan rintangan diuretik gelung |
+| [NCT06092437](https://clinicaltrials.gov/study/NCT06092437) | N/A | Merekrut | 466 | TAILOR-AHF: algoritma diuretik terpersonalisasi yang dipandu natrium air kencing dalam kegagalan jantung dekompensasi akut; acetazolamide ialah opsyen peningkatan dalam algoritma, menilai pemilihan terapi yang dipandu penanda biologi |
 
 ---
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|------|------|---------|--------------|
-| [38806171](https://pubmed.ncbi.nlm.nih.gov/38806171/) | 2025 | Annual Review | ESC Heart Failure | 2024 HF management update; contextualises evolving diuretic strategies including carbonic anhydrase inhibitors alongside SGLT2 inhibitors and finerenone in contemporary HF care |
-| [37169875](https://pubmed.ncbi.nlm.nih.gov/37169875/) | 2023 | Review | Eur Heart J Cardiovasc Pharmacother | Review of novel CV pharmacotherapy in 2022, including first-in-class approvals for obstructive HCM; provides pharmacological landscape for cardiomyopathy treatment advances |
-| [30279861](https://pubmed.ncbi.nlm.nih.gov/30279861/) | 2018 | Case Report | J Cardiology Cases | Acetazolamide successfully corrected hypochloremia and improved diuretic response in an 87-year-old patient with advanced HF and HCM; highlights chloride manipulation and urinary electrolyte monitoring as essential |
-| [29123889](https://pubmed.ncbi.nlm.nih.gov/29123889/) | 2017 | Adverse Event Report | Acute Medicine & Surgery | ⚠️ Non-cardiogenic pulmonary oedema occurred 1 hour after **IV** acetazolamide in a dilated cardiomyopathy patient; critical safety signal suggesting oral route is preferred in cardiomyopathy |
-| [22426904](https://pubmed.ncbi.nlm.nih.gov/22426904/) | 2012 | Animal Study (ex vivo) | Saudi Medical Journal | Investigated acetazolamide effects on ischemia-reperfused isolated rabbit hearts; provides preclinical mechanistic evidence for cardioprotective potential |
-| [23571262](https://pubmed.ncbi.nlm.nih.gov/23571262/) | 2014 | Case Report | Indian Journal of Ophthalmology | Oral acetazolamide used in Danon disease — a glycogen storage cardiomyopathy — for cystoid macular oedema management; indirect evidence of use in a cardiomyopathy subtype |
-| [7324871](https://pubmed.ncbi.nlm.nih.gov/7324871/) | 1981 | Case Series | Acta Neurologica Scandinavica | Patient on acetazolamide 750–1000 mg/day for hypokalaemic periodic paralysis developed exercise angina with ST depression; cardiac monitoring warranted during high-dose therapy |
-| [742352](https://pubmed.ncbi.nlm.nih.gov/742352/) | 1978 | Case Series | Acta Neurologica Scandinavica | Echocardiographic evidence of cardiomyopathy in hypokalaemic periodic paralysis family; documents ion-channel–related cardiac muscle involvement relevant to acetazolamide's mechanism |
-| [9627326](https://pubmed.ncbi.nlm.nih.gov/9627326/) | 1998 | Case Series | Journal of Nuclear Medicine | SPECT cerebral blood flow in mitochondrial encephalomyopathy; documents acetazolamide's vasodilatory effect on tissue perfusion, peripheral but mechanistically relevant to cardiac applications |
-| [35619116](https://pubmed.ncbi.nlm.nih.gov/35619116/) | 2022 | Case Report | Journal of Medical Case Reports | Congenital hydrocephalus with trisomy 9p and coexisting congenital heart disease; acetazolamide used for CSF management, illustrating the complexity of cardiac comorbidity management |
+| [38806171](https://pubmed.ncbi.nlm.nih.gov/38806171/) | 2025 | Semakan Tahunan | ESC Heart Failure | Pembaruan pengurusan kegagalan jantung 2024; menempatkan strategi diuretik yang berkembang termasuk inhibitor karbonik anhidrasis bersama dengan penghambat SGLT2 dan finerenone dalam penjagaan kegagalan jantung kontemporari |
+| [37169875](https://pubmed.ncbi.nlm.nih.gov/37169875/) | 2023 | Semakan | Eur Heart J Cardiovasc Pharmacother | Semakan farmakotherapi kardiovaskular baru pada 2022, termasuk persetujuan pertama dalam kelas untuk kardiomiopati hipertrofik obstruktif; memberikan landskap farmakologi untuk kemajuan pengurusan kardiomiopati |
+| [30279861](https://pubmed.ncbi.nlm.nih.gov/30279861/) | 2018 | Laporan Kes | J Cardiology Cases | Acetazolamide berjaya membetulkan hipokloremia dan meningkatkan tindak balas diuretik dalam pesakit berusia 87 tahun dengan kegagalan jantung maju dan kardiomiopati hipertrofik; menyerlahkan manipulasi klorida dan pemantauan elektrolit air kencing sebagai penting |
+| [29123889](https://pubmed.ncbi.nlm.nih.gov/29123889/) | 2017 | Laporan Peristiwa Buruk | Acute Medicine & Surgery | ⚠️ Edema paru-paru bukan kardiogenik berlaku 1 jam selepas acetazolamide **IV** dalam pesakit kardiomiopati yang meluas; isyarat keselamatan kritikal yang mencadangkan rute lisan lebih disukai dalam kardiomiopati |
+| [22426904](https://pubmed.ncbi.nlm.nih.gov/22426904/) | 2012 | Kajian Haiwan (ex vivo) | Saudi Medical Journal | Menyiasat kesan acetazolamide pada jantung kelinci terpencil iskemia-reperfusi; memberikan bukti mekanistik praklinikal untuk potensi kardioprotektor |
+| [23571262](https://pubmed.ncbi.nlm.nih.gov/23571262/) | 2014 | Laporan Kes | Indian Journal of Ophthalmology | Acetazolamide lisan digunakan dalam penyakit Danon — kardiomiopati penyimpanan glikogen — untuk pengurusan edema makula sistoid; bukti tidak langsung penggunaan dalam subtip kardiomiopati |
+| [7324871](https://pubmed.ncbi.nlm.nih.gov/7324871/) | 1981 | Siri Kes | Acta Neurologica Scandinavica | Pesakit pada acetazolamide 750–1000 mg/hari untuk kelumpuhan berkala hipokalelamik mengembangkan angina teraruh latihan dengan kemurunduran ST; pemantauan jantung diperlukan semasa terapi dos tinggi |
+| [742352](https://pubmed.ncbi.nlm.nih.gov/742352/) | 1978 | Siri Kes | Acta Neurologica Scandinavica | Bukti ekokardiografi kardiomiopati dalam keluarga kelumpuhan berkala hipokalelamik; mendokumentasikan penglibatan otot jantung berkaitan saluran ion yang relevan dengan mekanisme acetazolamide |
+| [9627326](https://pubmed.ncbi.nlm.nih.gov/9627326/) | 1998 | Siri Kes | Journal of Nuclear Medicine | Aliran darah otak SPECT dalam ensefalomiopati mitokondria; mendokumentasikan kesan vasodilatori acetazolamide pada perfusi tisu, tidak langsung tetapi mekanistik relevan dengan aplikasi jantung |
+| [35619116](https://pubmed.ncbi.nlm.nih.gov/35619116/) | 2022 | Laporan Kes | Journal of Medical Case Reports | Hidrosefali bawaan dengan trisomi 9p dan penyakit jantung bawaan yang wujud bersama; acetazolamide digunakan untuk pengurusan LCR, mengilustrasikan kerumitan pengurusan komorbidat jantung |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Three products are registered with Malaysia NPRA (市場狀態: Marketed). However, individual license details — including registration numbers, product names, dosage forms, and approved indication texts — were not successfully retrieved in this evidence pack. The table below reflects the data gap.
+Tiga produk terdaftar dengan NPRA Malaysia (Status Pasaran: Dipasarkan). Bagaimanapun, butiran lesen individu — termasuk nombor pendaftaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan — tidak berjaya diambil dalam pakej bukti ini. Jadual di bawah mencerminkan jurang data.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+| Nombor Kelulusan | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
 |---------------------|-------------|-------------|---------------------|
-| (Pending retrieval) | (Pending retrieval) | (Pending retrieval) | (Pending retrieval) |
-| (Pending retrieval) | (Pending retrieval) | (Pending retrieval) | (Pending retrieval) |
-| (Pending retrieval) | (Pending retrieval) | (Pending retrieval) | (Pending retrieval) |
+| (Menunggu pengambilan) | (Menunggu pengambilan) | (Menunggu pengambilan) | (Menunggu pengambilan) |
+| (Menunggu pengambilan) | (Menunggu pengambilan) | (Menunggu pengambilan) | (Menunggu pengambilan) |
+| (Menunggu pengambilan) | (Menunggu pengambilan) | (Menunggu pengambilan) | (Menunggu pengambilan) |
 
-> **Action required:** Retrieve full product data from the [NPRA Product Registration](https://www.npra.gov.my) database using the drug name "Acetazolamide" to complete this section.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information. All safety data fields (key warnings, contraindications, drug-drug interactions) are pending retrieval in this evidence pack.
-
-> **Specific signals identified from literature (pending formal package insert verification):**
-> - **IV route risk:** Non-cardiogenic pulmonary oedema reported after IV acetazolamide in a cardiomyopathy patient (PMID 29123889); **oral route is strongly preferred** in this indication.
-> - **Electrolyte monitoring:** Hypokalaemia-related cardiac effects documented in case series (PMID 7324871); concurrent loop diuretic use amplifies this risk — close monitoring of serum potassium, chloride, and sodium is warranted.
+> **Tindakan diperlukan:** Ambil data produk lengkap daripada pangkalan data [Pendaftaran Produk NPRA](https://www.npra.gov.my) menggunakan nama ubat "Acetazolamide" untuk melengkapkan bahagian ini.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Proceed with Guardrails**
+Sila rujuk sisipan bungkusan untuk maklumat keselamatan. Semua medan data keselamatan (amaran utama, kontraindikasi, interaksi ubat-ubat) tertakluk kepada pengambilan dalam pakej bukti ini.
 
-**Rationale:**
-Three Phase 4 RCTs (total enrolment 1,805) are actively testing oral acetazolamide for acute decompensated heart failure/cardiomyopathy, and the carbonic anhydrase inhibition → metabolic alkalosis correction → loop diuretic resensitisation pathway is externally validated by the ADVOR Phase 3 RCT (NEJM 2022). Acetazolamide is already marketed in Malaysia (3 registrations), and the oral formulation presents no route compatibility barrier for this indication.
+> **Isyarat khusus yang dikenal pasti daripada kesusasteraan (tertakluk kepada pengesahan sisipan bungkusan formal):**
+> - **Risiko rute IV:** Edema paru-paru bukan kardiogenik dilaporkan selepas acetazolamide **IV** dalam pesakit kardiomiopati (PMID 29123889); **rute lisan sangat disukai** dalam indikasi ini.
+> - **Pemantauan elektrolit:** Kesan jantung berkaitan hipokalelamia didokumentasikan dalam siri kes (PMID 7324871); penggunaan diuretik gelung serentak meningkatkan risiko ini — pemantauan rapat kalium serum, klorida, dan natrium diperlukan.
 
-**To proceed, the following is needed:**
+---
 
-- **Regulatory data retrieval:** Download Malaysian NPRA registration details (product names, dosage forms, approved indications) and the package insert PDF to fill the current data gaps
-- **MOA documentation:** Query DrugBank API (DrugBank ID currently null) to complete the mechanism of action record
-- **Route safety protocol:** Restrict use to the **oral route only** in cardiomyopathy patients; IV administration carries documented pulmonary oedema risk
-- **Electrolyte monitoring plan:** Establish mandatory monitoring of serum K⁺, Cl⁻, Na⁺, and bicarbonate at baseline and during treatment, given combined diuretic-related electrolyte depletion risk
-- **Evidence watch:** Monitor completion of NCT05802849 (n = 400, expected December 2025) and NCT06166654 (n = 939, expected September 2027) for upgraded evidence level to L1
-- **Scope clarification:** Confirm whether the target Malaysian patient population (acute HF/cardiomyopathy with diuretic resistance) falls within or outside the current approved Malaysian label, to determine whether an off-label use protocol or label extension application is required
+## Kesimpulan dan Langkah-Langkah Seterusnya
+
+**Keputusan: Teruskan dengan Langkah Keselamatan**
+
+**Alasan:**
+Tiga RCT Fasa 4 (jumlah enrolmen 1,805) sedang menguji acetazolamide lisan untuk kegagalan jantung akut yang mengalami dekompensasi/kardiomiopati, dan laluan perencat karbonik anhidrasis → pembetulan alkalosis metabolik → penyesuaian semula diuretik gelung bersifat luaran yang disahkan oleh RCT Fasa 3 ADVOR (NEJM 2022). Acetazolamide telah dipasarkan di Malaysia (3 pendaftaran), dan bentuk lisan tidak memberikan halangan keserasian rute untuk indikasi ini.
+
+**Untuk meneruskan, berikut diperlukan:**
+
+- **Pengambilan data kawal selia:** Muat turun butiran pendaftaran NPRA Malaysia (nama produk, bentuk dos, indikasi yang diluluskan) dan PDF sisipan bungkusan untuk mengisi jurang data semasa
+- **Dokumentasi MOA:** Pertanyaan API DrugBank (ID DrugBank pada masa kini kosong) untuk melengkapkan rekod mekanisme tindakan
+- **Protokol keselamatan rute:** Hadkan penggunaan ke **rute lisan sahaja** dalam pesakit kardiomiopati; pemberian IV membawa risiko edema paru-paru yang didokumentasikan
+- **Rancangan pemantauan elektrolit:** Tetapkan pemantauan wajib K⁺ serum, Cl⁻, Na⁺, dan bikarbonat pada garis asas dan semasa rawatan, memandangkan risiko penyusutan elektrolit berkaitan diuretik gabungan
+- **Pemantauan bukti:** Pantau selesainya NCT05802849 (n = 400, dijangka Disember 2025) dan NCT06166654 (n = 939, dijangka September 2027) untuk tahap bukti yang ditingkatkan kepada L1
+- **Penjelasan skop:** Sahkan sama ada populasi pesakit Malaysia yang sasaran (kegagalan jantung akut/kardiomiopati dengan rintangan diuretik) jatuh dalam atau di luar label yang diluluskan Malaysia semasa, untuk menentukan sama ada protokol penggunaan luar label atau permohonan perluasan label diperlukan
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

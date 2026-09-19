@@ -29,98 +29,99 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Vancomycin: From Gram-Positive Bacterial Infections to Bacterial Arthritis
+# Vankomycin: Daripada Jangkitan Bakteria Gram-Positif kepada Artritis Bakterial
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Vancomycin is a glycopeptide antibiotic historically used against serious gram-positive bacterial infections (including MRSA). The TxGNN model predicts it may also be effective for **Bacterial Arthritis (Septic Arthritis)**, with **9 clinical trials** and **20 publications** currently identified as supporting evidence, though most of this evidence addresses prophylaxis, dosing, or duration rather than a dedicated treatment trial, and individual relevance grading is still pending.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Gram-positive bacterial infections (e.g., MRSA) — specific NPRA label indication text not available in this evidence pack (license records contain no indication text) |
-| Predicted New Indication | Bacterial Arthritis (Septic Arthritis) |
-| TxGNN Prediction Score | 99.98% |
-| Evidence Level | L3 (systematic reviews/meta-analyses on vancomycin use in joint infection; no dedicated completed RCT for treatment of established septic arthritis) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 7 |
-| Recommended Decision | Hold |
+Vankomycin ialah antibiotik glikopeptida yang digunakan secara sejarah untuk jangkitan bakteria gram-positif yang serius (termasuk MRSA). Model TxGNN meramalkan ia mungkin juga berkesan untuk **Artritis Bakterial (Artritis Septik)**, dengan **9 ujian klinikal** dan **20 penerbitan** yang kini dikenalpasti sebagai bukti sokongan, walaupun kebanyakan bukti ini menangani profilaksis, dos, atau tempoh daripada ujian rawatan yang didedikasikan, dan grading perkaitan individu masih belum selesai.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Pantas
 
-Currently, detailed mechanism of action data is not available. Based on known information, vancomycin belongs to the glycopeptide antibiotic class, and its efficacy against serious gram-positive bacterial infections — most notably methicillin-resistant *Staphylococcus aureus* (MRSA) — is well established.
-
-Bacterial (septic) arthritis is most frequently caused by *Staphylococcus aureus*, a gram-positive organism already within vancomycin's proven spectrum of activity. This overlap is why vancomycin is already a mainstay of empiric and definitive therapy for staphylococcal joint infections in clinical practice, including intravenous treatment of established infection and topical/intrawound use to prevent periprosthetic joint infection.
-
-Mechanistically, the prediction is therefore plausible: vancomycin's cell-wall synthesis inhibition acts directly on the causative pathogen class in most bacterial arthritis cases. However, most of the currently available evidence addresses adjacent questions (surgical prophylaxis, treatment duration, nephrotoxicity mitigation, comparator-drug trials) rather than a dedicated efficacy trial of vancomycin specifically for treating diagnosed bacterial arthritis.
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Jangkitan bakteria gram-positif yang serius (cth., MRSA) — teks indikasi label NPRA khusus tidak tersedia dalam paket bukti ini (rekod lesen tidak mengandungi teks indikasi) |
+| Indikasi Baru yang Diramalkan | Artritis Bakterial (Artritis Septik) |
+| Skor Ramalan TxGNN | 99.98% |
+| Tahap Bukti | L3 (ulasan sistematik/meta-analisis tentang penggunaan vankomycin dalam jangkitan sendi; tiada ujian RCT yang siap untuk rawatan artritis septik yang telah ditubuhkan) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 7 |
+| Keputusan Disyorkan | Tunda |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Pada masa ini, data mekanisme tindakan yang terperinci tidak tersedia. Berdasarkan maklumat yang diketahui, vankomycin tergolong dalam kelas antibiotik glikopeptida, dan keberkesanannya terhadap jangkitan bakteria gram-positif yang serius — terutamanya *Staphylococcus aureus* yang tahan metisilin (MRSA) — telah ditubuhkan dengan baik.
+
+Artritis (septik) bakterial paling kerap disebabkan oleh *Staphylococcus aureus*, organisma gram-positif yang sudah berada dalam spektrum terbukti vankomycin. Pertindihan ini adalah sebabnya vankomycin sudah menjadi terapi empiris dan definitif utama untuk jangkitan sendi stafilokokus dalam amalan klinikal, termasuk rawatan intravena jangkitan yang telah ditubuhkan dan penggunaan topikal/intraluka untuk mencegah jangkitan sendi periprotesis.
+
+Secara mekanistik, ramalan itu munasabah: penghambatan sintesis dinding sel vankomycin bertindak secara langsung pada kelas patogen penyebab dalam kebanyakan kes artritis bakterial. Walau bagaimanapun, kebanyakan bukti yang tersedia pada masa ini menangani soalan bersebelahan (profilaksis pembedahan, tempoh rawatan, mitigasi nefrotoksisiti, ujian ubat perbandingan) daripada ujian keberkesanan yang didedikasikan untuk vankomycin khususnya untuk merawat artritis bakterial yang telah didiagnosis.
+
+---
+
+## Bukti Ujian Klinikal
+
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT05484284](https://clinicaltrials.gov/study/NCT05484284) | NA | Completed | 14 | Two-stage exchange with low-dose antibiotics evaluated as a surgical strategy for septic native knee arthritis |
-| [NCT00108433](https://clinicaltrials.gov/study/NCT00108433) | Phase 3 | Terminated | 61 | Linezolid vs vancomycin/cefazolin for catheter-related gram-positive bloodstream infection in hemodialysis patients |
-| [NCT06191601](https://clinicaltrials.gov/study/NCT06191601) | N/A | Unknown | 150 | Broad-spectrum beta-lactam probabilistic antibiotic therapy in orthopedic joint infections requiring multidisciplinary management |
-| [NCT01371656](https://clinicaltrials.gov/study/NCT01371656) | Phase 3 | Completed | 624 | Levofloxacin (not vancomycin) for bacteremia prevention in pediatric leukemia/HSCT patients — indirectly relevant |
-| [NCT03426761](https://clinicaltrials.gov/study/NCT03426761) | Phase 4 | Completed | 41 | Dalbavancin (related lipoglycopeptide, not vancomycin) for gram-positive osteomyelitis/septic arthritis including prosthetic joint infection |
-| [NCT04993027](https://clinicaltrials.gov/study/NCT04993027) | Phase 2 | Not yet recruiting | 100 | Topical vancomycin powder for infection prophylaxis in total hip/knee arthroplasty |
-| [NCT03615781](https://clinicaltrials.gov/study/NCT03615781) | NA | Completed | 85 | Two vs four weeks of antibiotic treatment duration in native joint septic arthritis |
-| [NCT01734694](https://clinicaltrials.gov/study/NCT01734694) | Phase 4 | Terminated | 100 | Strategy to prevent vancomycin-induced nephrotoxicity in high-risk patients — safety-focused, not efficacy |
-| [NCT04014413](https://clinicaltrials.gov/study/NCT04014413) | NA | Recruiting | 450 | Fecal microbiota transplantation pilot study — only tangentially related via gut dysbiosis/infection context |
+| [NCT05484284](https://clinicaltrials.gov/study/NCT05484284) | NA | Selesai | 14 | Pertukaran dua peringkat dengan antibiotik dos rendah dinilai sebagai strategi pembedahan untuk artritis lutut asli septik |
+| [NCT00108433](https://clinicaltrials.gov/study/NCT00108433) | Fasa 3 | Ditamatkan | 61 | Linezolid vs vankomycin/sefazolin untuk jangkitan aliran darah gram-positif berkaitan kateter pada pesakit hemodialisis |
+| [NCT06191601](https://clinicaltrials.gov/study/NCT06191601) | N/A | Tidak diketahui | 150 | Terapi antibiotik beta-laktam spektrum luas berkemungkinan dalam jangkitan sendi ortopedik yang memerlukan pengurusan multidisiplin |
+| [NCT01371656](https://clinicaltrials.gov/study/NCT01371656) | Fasa 3 | Selesai | 624 | Levofloxacin (bukan vankomycin) untuk pencegahan bakteremia dalam pesakit leukemia/HSCT pediatrik — berkaitan secara tidak langsung |
+| [NCT03426761](https://clinicaltrials.gov/study/NCT03426761) | Fasa 4 | Selesai | 41 | Dalbavancin (lipoglikopeptida berkaitan, bukan vankomycin) untuk osteomielitis gram-positif/artritis septik termasuk jangkitan sendi periprotesis |
+| [NCT04993027](https://clinicaltrials.gov/study/NCT04993027) | Fasa 2 | Belum mula merekrut | 100 | Serbuk vankomycin topikal untuk profilaksis jangkitan dalam artroplasti pinggul/lutut jumlah |
+| [NCT03615781](https://clinicaltrials.gov/study/NCT03615781) | NA | Selesai | 85 | Dua vs empat minggu tempoh rawatan antibiotik dalam artritis sendi asli septik |
+| [NCT01734694](https://clinicaltrials.gov/study/NCT01734694) | Fasa 4 | Ditamatkan | 100 | Strategi untuk mencegah nefrotoksisiti yang disebabkan oleh vankomycin pada pesakit berisiko tinggi — berfokus keselamatan, bukan keberkesanan |
+| [NCT04014413](https://clinicaltrials.gov/study/NCT04014413) | NA | Merekrut | 450 | Kajian rintis pemindahan mikrobiota tinja — hanya berkaitan secara tangen melalui konteks disbiosis usus/jangkitan |
 
-**Note:** Only a minority of these trials directly test vancomycin efficacy for bacterial arthritis treatment; most address surgical technique, prophylaxis, duration, or safety in adjacent joint-infection settings, and per-trial relevance grading in the source evidence pack is still marked "pending."
+**Nota:** Hanya minoriti ujian ini yang secara langsung menguji keberkesanan vankomycin untuk rawatan artritis bakterial; kebanyakan menangani teknik pembedahan, profilaksis, tempoh, atau keselamatan dalam tetapan jangkitan sendi bersebelahan, dan grading perkaitan setiap ujian dalam paket bukti sumber masih ditandakan "belum selesai".
 
 ---
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [40193249](https://pubmed.ncbi.nlm.nih.gov/40193249/) | 2025 | Review | JAMA | Management review of *S. aureus* bacteremia, the leading cause of gram-positive bloodstream/joint infection mortality |
-| [33760010](https://pubmed.ncbi.nlm.nih.gov/33760010/) | 2021 | RCT | JAMA Surgery | Intrawound vancomycin powder evaluated in operatively treated high-risk tibia fractures to reduce surgical site infection |
-| [21916390](https://pubmed.ncbi.nlm.nih.gov/21916390/) | 2011 | Review | American Family Physician | Clinical approach to diagnosing and treating septic arthritis |
-| [30772469](https://pubmed.ncbi.nlm.nih.gov/30772469/) | 2019 | Review | Int J Infect Dis | Antibiotic penetration into bone and joint tissue, relevant to dosing adequacy in joint infection |
-| [31005433](https://pubmed.ncbi.nlm.nih.gov/31005433/) | 2019 | Systematic Review/Meta-analysis | J Arthroplasty | Intrawound vancomycin in THA/TKA to prevent periprosthetic joint infection |
-| [36527075](https://pubmed.ncbi.nlm.nih.gov/36527075/) | 2022 | Systematic Review/Meta-analysis | J Orthop Surg Res | Effect of different vancomycin powder doses on periprosthetic joint infection rate |
-| [36470703](https://pubmed.ncbi.nlm.nih.gov/36470703/) | 2024 | Systematic Review/Meta-analysis | J Orthop Sci | Intrawound vancomycin powder vs povidone-iodine lavage for periprosthetic joint infection prevention |
-| [30656372](https://pubmed.ncbi.nlm.nih.gov/30656372/) | 2020 | Systematic Review/Meta-analysis | KSSTA | Vancomycin graft-soaking reduces septic arthritis incidence following ACL reconstruction |
-| [37020216](https://pubmed.ncbi.nlm.nih.gov/37020216/) | 2023 | Systematic Review/Meta-analysis | BMC Musculoskeletal Disorders | Vancomycin presoak reduces postoperative infection in ACL reconstruction |
-| [28900682](https://pubmed.ncbi.nlm.nih.gov/28900682/) | 2017 | Review | Curr Top Microbiol Immunol | Treatment approaches for *S. aureus* infections, including bone/joint disease |
+| [40193249](https://pubmed.ncbi.nlm.nih.gov/40193249/) | 2025 | Tinjauan | JAMA | Tinjauan pengurusan bakteremia *S. aureus*, punca utama kematian jangkitan aliran darah gram-positif sendi |
+| [33760010](https://pubmed.ncbi.nlm.nih.gov/33760010/) | 2021 | RCT | JAMA Surgery | Serbuk vankomycin intraluka dinilai dalam patah tulang tibia yang dirawat secara operatif berisiko tinggi untuk mengurangkan jangkitan luka pembedahan |
+| [21916390](https://pubmed.ncbi.nlm.nih.gov/21916390/) | 2011 | Tinjauan | American Family Physician | Pendekatan klinikal untuk mendiagnosis dan merawat artritis septik |
+| [30772469](https://pubmed.ncbi.nlm.nih.gov/30772469/) | 2019 | Tinjauan | Int J Infect Dis | Penetrasi antibiotik ke dalam tulang dan tisu sendi, relevan untuk kecukupan dos dalam jangkitan sendi |
+| [31005433](https://pubmed.ncbi.nlm.nih.gov/31005433/) | 2019 | Tinjauan Sistematik/Meta-analisis | J Arthroplasty | Vankomycin intraluka dalam THA/TKA untuk mencegah jangkitan sendi periprotesis |
+| [36527075](https://pubmed.ncbi.nlm.nih.gov/36527075/) | 2022 | Tinjauan Sistematik/Meta-analisis | J Orthop Surg Res | Kesan dos serbuk vankomycin yang berbeza pada kadar jangkitan sendi periprotesis |
+| [36470703](https://pubmed.ncbi.nlm.nih.gov/36470703/) | 2024 | Tinjauan Sistematik/Meta-analisis | J Orthop Sci | Serbuk vankomycin intraluka vs pencucian povidone-iodine untuk pencegahan jangkitan sendi periprotesis |
+| [30656372](https://pubmed.ncbi.nlm.nih.gov/30656372/) | 2020 | Tinjauan Sistematik/Meta-analisis | KSSTA | Pemrendam graf vankomycin mengurangkan insiden artritis septik berikutan pembinaan semula ACL |
+| [37020216](https://pubmed.ncbi.nlm.nih.gov/37020216/) | 2023 | Tinjauan Sistematik/Meta-analisis | BMC Musculoskeletal Disorders | Pra-rendam vankomycin mengurangkan jangkitan pasca operatif dalam pembinaan semula ACL |
+| [28900682](https://pubmed.ncbi.nlm.nih.gov/28900682/) | 2017 | Tinjauan | Curr Top Microbiol Immunol | Pendekatan rawatan untuk jangkitan *S. aureus*, termasuk penyakit tulang/sendi |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-NPRA registration records confirm vancomycin is currently marketed in Malaysia with **7 active registrations**, but the evidence pack's license entries do not contain populated product name, dosage form, manufacturer, or indication text fields, so a detailed authorization table cannot be produced at this time.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information. No key warnings, contraindications, or drug interaction data were retrievable in this evidence pack — this is flagged as a **Blocking** data gap (DG001) that must be resolved before safety screening can proceed.
+Rekod pendaftaran NPRA mengesahkan vankomycin kini dipasarkan di Malaysia dengan **7 pendaftaran aktif**, tetapi entri lesen dalam paket bukti tidak mengandungi nama produk yang dipenuhi, bentuk dos, pengilang, atau medan teks indikasi, jadi jadual kebenaran terperinci tidak boleh dihasilkan pada masa ini.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila rujuk kepada sisirat paket untuk maklumat keselamatan. Tiada data amaran utama, kontraindikasi, atau interaksi ubat yang boleh diambil dalam paket bukti ini — ini ditandakan sebagai jurang data **Penghalang** (DG001) yang mesti diselesaikan sebelum pemeriksaan keselamatan dapat diteruskan.
 
-**Rationale:**
-- Vancomycin's known antibacterial spectrum against gram-positive pathogens (including *S. aureus*, the leading cause of septic arthritis) makes the prediction mechanistically plausible and is reinforced by multiple systematic reviews/meta-analyses on vancomycin use in joint infection prevention.
-- However, direct RCT evidence for treating established bacterial arthritis with vancomycin (versus prophylaxis, dosing, or duration studies) is limited, and a **Blocking** data gap — absence of NPRA label warnings/contraindications (DG001) — prevents the candidate from entering initial safety screening (S1) regardless of evidence strength.
+---
 
-**To proceed, the following is needed:**
-- NPRA-approved package insert data (warnings, contraindications) to resolve DG001
-- DrugBank mechanism of action data to resolve DG002 and strengthen the mechanistic rationale
-- Completion of pending relevance grading for the 9 clinical trials and 20 publications listed under this indication
-- Identification of trials/studies that directly test vancomycin (not comparator or adjacent agents) for treatment — not just prevention — of diagnosed bacterial arthritis
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tunda**
+
+**Alasan:**
+- Spektrum antibakteria vankomycin yang diketahui terhadap patogen gram-positif (termasuk *S. aureus*, punca utama artritis septik) menjadikan ramalan itu munasabah secara mekanistik dan diperkuat oleh beberapa tinjauan sistematik/meta-analisis tentang penggunaan vankomycin dalam pencegahan jangkitan sendi.
+- Walau bagaimanapun, bukti RCT langsung untuk merawat artritis bakterial yang telah ditubuhkan dengan vankomycin (versus profilaksis, dos, atau kajian tempoh) terbatas, dan jurang data **Penghalang** — ketiadaan amaran/kontraindikasi label NPRA (DG001) — menghalang calon daripada memasuki pemeriksaan keselamatan awal (S1) tanpa mengira kekuatan bukti.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data sisirat paket yang diluluskan NPRA (amaran, kontraindikasi) untuk menyelesaikan DG001
+- Data mekanisme tindakan DrugBank untuk menyelesaikan DG002 dan memperkuat rasional mekanistik
+- Penyiapan grading perkaitan yang belum selesai untuk 9 ujian klinikal dan 20 penerbitan yang disenaraikan di bawah indikasi ini
+- Pengenalpastian ujian/kajian yang secara langsung menguji vankomycin (bukan ubat perbandingan atau bersebelahan) untuk rawatan — bukan sekadar pencegahan — artritis bakterial yang telah didiagnosis
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

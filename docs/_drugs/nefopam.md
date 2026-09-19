@@ -29,85 +29,86 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Nefopam: From General Analgesia to Postoperative Pain Control in Lumbar Spinal Stenosis Surgery
+# Nefopam: Dari Analgesia Umum kepada Kawalan Kesakitan Pasca Operasi dalam Pembedahan Stenosis Tulang Belakang Lumbar
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-> Nefopam is a non-opioid, centrally acting analgesic already marketed in Malaysia for general pain control.
-> Among the TxGNN model's predictions, the only candidate supported by actual clinical evidence is **Lumbar Spinal Stenosis** — specifically as an adjunct for postoperative pain and dysesthesia after spine surgery —
-> backed by **1 randomized controlled trial** and **3 publications** (one of which is a serious safety signal, not efficacy evidence).
+> Nefopam adalah analgesia bukan opioid yang bertindak secara pusat, sudah dipasarkan di Malaysia untuk kawalan kesakitan umum.
+> Dalam kalangan ramalan model TxGNN, satu-satunya calon yang disokong oleh bukti klinikal sebenar adalah **Stenosis Tulang Belakang Lumbar** — khususnya sebagai tambahan untuk kesakitan pasca operasi dan dysesthesia selepas pembedahan tulang belakang —
+> disokong oleh **1 ujian terkawal rawak** dan **3 penerbitan** (satu daripadanya adalah isyarat keselamatan yang serius, bukan bukti keberkesanan).
 
-**Note on ranking:** TxGNN's top 9 predictions (immature/mature/diabetic/senile cataract subtypes, etc.) all scored ~99.98% with zero supporting trials or literature. The evidence pack itself flags these as a knowledge-graph clustering artifact — nine near-identical cataract subtypes scoring almost identically, with no plausible mechanistic link between a monoamine-reuptake analgesic and lens pathology. This report therefore treats **Lumbar Spinal Stenosis (rank 10)** — the only prediction with real trial/literature support — as the substantive candidate, and excludes the cataract cluster from further evaluation.
+**Nota mengenai kedudukan:** Sembilan ramalan teratas TxGNN (subtipe katarak tidak matang/matang/diabetik/senilis, dll.) semua menjaringkan ~99.98% tanpa ujian sokongan atau literatur. Pakej bukti itu sendiri menandai ini sebagai artifak pengelompokan graf pengetahuan — sembilan subtipe katarak hampir sama yang menjaringkan skor hampir sama, tanpa pautan mekanik yang boleh dipercayai antara analgesia reuptake monoamin dan patologi lensa. Laporan ini oleh itu menganggap **Stenosis Tulang Belakang Lumbar (kedudukan 10)** — satu-satunya ramalan dengan sokongan ujian/literatur sebenar — sebagai calon yang besar, dan mengecualikan kluster katarak daripada penilaian lanjutan.
 
 ---
 
-## Quick Overview
+## Tinjauan Pantas
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | General analgesia (non-opioid centrally acting analgesic) — specific NPRA-approved label text not available in source data |
-| Predicted New Indication | Lumbar Spinal Stenosis (postoperative pain/dysesthesia control) |
-| TxGNN Prediction Score | 99.97% (rank 803 among all candidates) |
-| Evidence Level | L3 (single RCT + case report + cohort study; no completed Phase 2/3 RCT registered for this specific indication) |
-| Malaysia Market Status | Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+| Petunjuk Asal | Analgesia umum (analgesia bukan opioid yang bertindak secara pusat) — teks label yang diluluskan NPRA yang khusus tidak tersedia dalam data sumber |
+| Petunjuk Baru yang Diramal | Stenosis Tulang Belakang Lumbar (kawalan kesakitan/dysesthesia pasca operasi) |
+| Skor Ramalan TxGNN | 99.97% (kedudukan 803 antara semua calon) |
+| Tahap Bukti | L3 (RCT tunggal + laporan kes + kajian kohort; tiada RCT Fasa 2/3 yang siap didaftarkan untuk petunjuk khusus ini) |
+| Status Pasaran Malaysia | Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | Tunggu |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Masuk Akal?
 
-Nefopam is a centrally acting monoamine reuptake inhibitor (serotonin/norepinephrine/dopamine), clinically known for analgesic and anti-shivering/anti-tremor effects. Detailed formal mechanism-of-action documentation was not available in this evidence pack (flagged as a Blocking-severity data gap), but the repurposing rationale attached to the top literature-backed candidate describes this mechanism consistently across sources.
+Nefopam adalah inhibitor reuptake monoamin yang bertindak secara pusat (serotonin/norepinephrine/dopamine), dikenali secara klinikal untuk kesan analgesia dan anti-menggigil/anti-tremor. Dokumentasi formal mekanisme-tindakan yang terperinci tidak tersedia dalam pakej bukti ini (ditandai sebagai jurang data keterukan Pemblokiran), tetapi rasional repurposing yang dilampirkan pada calon yang disokong literatur teratas menerangkan mekanisme ini secara konsisten merentasi sumber.
 
-The link to lumbar spinal stenosis is not disease-modifying — nefopam does not act on the pathology of spinal canal narrowing itself. Rather, it is already used off-label/adjunctively in multimodal postoperative analgesia protocols following spine surgery, including decompression for lumbar spinal stenosis, by modulating pain signaling at the spinal cord/brainstem level. This is a **symptomatic perioperative pain-control use**, not a treatment for the underlying stenosis.
+Pautan kepada stenosis tulang belakang lumbar bukan berorientasikan penyakit — nefopam tidak bertindak pada patologi penyempitan saluran tulang belakang itu sendiri. Sebaliknya, ia sudah digunakan luar label/tambahan dalam protokol analgesia multimodal pasca operasi selepas pembedahan tulang belakang, termasuk dekompresi untuk stenosis tulang belakang lumbar, dengan memodulasi isyarat kesakitan di peringkat sumsum tulang belakang/batang otak. Ini adalah **penggunaan kawalan kesakitan perioperasi simptomatik**, bukan rawatan untuk stenosis yang mendasari. 
 
-This distinction matters for decision-making: the evidence supports "nefopam as a postoperative analgesic adjunct in LSS surgery patients," not "nefopam treats lumbar spinal stenosis." The recommendation and any future development plan should be scoped accordingly.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered on ClinicalTrials.gov or ICTRP for this indication. (The supporting RCT below was identified through PubMed as a journal-published trial, not a registry entry.)
+Perbezaan ini penting untuk pengambilan keputusan: bukti menyokong "nefopam sebagai tambahan analgesik pasca operasi dalam pesakit pembedahan LSS," bukan "nefopam merawat stenosis tulang belakang lumbar." Cadangan dan mana-mana rancangan pembangunan masa depan harus dilingkup mengikutnya.
 
 ---
 
-## Literature Evidence
+## Bukti Ujian Klinikal
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [38068520](https://pubmed.ncbi.nlm.nih.gov/38068520/) | 2023 | RCT | Journal of Clinical Medicine | Double-blind RCT (n=73) in LSS spine surgery patients: intraoperative nefopam 20 mg reduced postoperative dysesthesia and pain, improved satisfaction vs. saline control |
-| [31166320](https://pubmed.ncbi.nlm.nih.gov/31166320/) | 2019 | Cohort | Zhurnal Voprosy Neirokhirurgii im. N.N. Burdenko | Compared multimodal analgesia regimens (incl. nefopam) in spinal stenosis surgery patients; assessed effect on failed back surgery syndrome rate |
-| [25535527](https://pubmed.ncbi.nlm.nih.gov/25535527/) | 2014 | Case Report | Journal of Korean Neurosurgical Society | **Safety signal**: status epilepticus in a 71-year-old LSS surgery patient following IV nefopam among a multi-drug analgesic regimen |
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan di ClinicalTrials.gov atau ICTRP untuk petunjuk ini. (RCT yang menyokong di bawah telah dikenal pasti melalui PubMed sebagai ujian yang diterbitkan jurnal, bukan entri daftar.)
 
 ---
 
-## Malaysia Market Information
+## Bukti Literatur
 
-Nefopam is recorded as **marketed** in Malaysia with **1 registered license**, but the source data does not include the license number, product name, dosage form, or approved indication text for this registration — these fields were returned blank by NPRA and could not be populated here.
-
----
-
-## Safety Considerations
-
-Formal label-derived warnings, contraindications, and drug interaction data were not available for this drug (flagged as a Blocking-severity data gap — this also means a formal S1 safety pre-assessment cannot be completed). Please refer to the package insert for safety information.
-
-**Additional signal from literature (not label data):** one case report ([PMID 25535527](https://pubmed.ncbi.nlm.nih.gov/25535527/)) describes status epilepticus temporally associated with IV nefopam administration in a spine-surgery patient receiving concurrent analgesics. This is a single case within a polypharmacy context and does not establish causality, but it should be tracked explicitly given nefopam's known seizure-risk class signal.
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|------|------|------|---------|
+| [38068520](https://pubmed.ncbi.nlm.nih.gov/38068520/) | 2023 | RCT | Journal of Clinical Medicine | RCT buta berganda (n=73) dalam pesakit pembedahan tulang belakang LSS: nefopam 20 mg intraoperasi mengurangkan dysesthesia dan kesakitan pasca operasi, meningkatkan kepuasan berbanding kawalan saline |
+| [31166320](https://pubmed.ncbi.nlm.nih.gov/31166320/) | 2019 | Kohort | Zhurnal Voprosy Neirokhirurgii im. N.N. Burdenko | Membandingkan rejimen analgesia multimodal (termasuk nefopam) dalam pesakit pembedahan stenosis tulang belakang; menilai kesan pada kadar sindrom tulang belakang gagal |
+| [25535527](https://pubmed.ncbi.nlm.nih.gov/25535527/) | 2014 | Laporan Kes | Journal of Korean Neurosurgical Society | **Isyarat keselamatan**: status epileptikus dalam pesakit LSS berusia 71 tahun selepas nefopam IV di antara rejimen analgesik multi-ubat |
 
 ---
 
-## Conclusion and Next Steps
+## Maklumat Pasaran Malaysia
 
-**Decision: Hold**
+Nefopam dicatat sebagai **dipasarkan** di Malaysia dengan **1 lesen yang didaftarkan**, tetapi data sumber tidak termasuk nombor lesen, nama produk, bentuk dos, atau teks petunjuk yang diluluskan untuk pendaftaran ini — bidang ini dikembalikan kosong oleh NPRA dan tidak dapat diisi di sini.
 
-**Rationale:**
-The only literature-supported candidate (lumbar spinal stenosis) is backed by a single moderate-sized RCT (n=73) showing symptomatic postoperative benefit, not disease-modifying efficacy, and a documented seizure-risk safety signal. Critically, the formal NPRA label (warnings/contraindications) is a Blocking data gap, so the mandatory S1 safety pre-assessment cannot yet be completed.
+---
 
-**To proceed, the following is needed:**
-- NPRA product label/insert (warnings, contraindications) — resolves DG001, required before any S1 safety sign-off
-- Confirmed mechanism-of-action documentation from DrugBank — resolves DG002
-- Larger/replication RCT data specifically in LSS postoperative pain, ideally with seizure/neuropsychiatric adverse event monitoring
-- Explicit scoping decision: pursue as "postoperative analgesic adjunct in spine surgery" (symptomatic use) rather than "treatment for lumbar spinal stenosis" (disease-modifying), to avoid overstating the indication
-- DDI review, since current DDI query returned no data (not confirmed absence of interactions)
+## Pertimbangan Keselamatan
+
+Data amaran label formal, kontraindikasi, dan interaksi ubat tidak tersedia untuk ubat ini (ditandai sebagai jurang data keterukan Pemblokiran — ini juga bermakna penilaian praoperasi keselamatan S1 formal tidak dapat diselesaikan). Sila rujuk lembaran maklumat produk untuk maklumat keselamatan.
+
+**Isyarat tambahan daripada literatur (bukan data label):** satu laporan kes ([PMID 25535527](https://pubmed.ncbi.nlm.nih.gov/25535527/)) menerangkan status epileptikus yang berkaitan secara temporal dengan pentadbiran nefopam IV dalam pesakit pembedahan tulang belakang yang menerima analgesik serentak. Ini adalah satu kes tunggal dalam konteks polifarmasi dan tidak menetapkan kausaliti, tetapi ia harus dijejaki secara jelas memandangkan isyarat kelas risiko sawan nefopam yang diketahui.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tunggu**
+
+**Rasional:**
+Satu-satunya calon yang disokong literatur (stenosis tulang belakang lumbar) disokong oleh RCT bersaiz sederhana tunggal (n=73) yang menunjukkan manfaat pasca operasi simptomatik, bukan keberkesanan penyakit-penyakit, dan isyarat keselamatan risiko sawan yang terdokumentasi. Secara kritis, label NPRA formal (amaran/kontraindikasi) adalah jurang data Pemblokiran, jadi penilaian praoperasi keselamatan S1 wajib belum dapat diselesaikan.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Label produk NPRA/sisipan (amaran, kontraindikasi) — menyelesaikan DG001, diperlukan sebelum sebarang tanda tangan S1 keselamatan
+- Dokumentasi mekanisme-tindakan yang disahkan daripada DrugBank — menyelesaikan DG002
+- Data RCT yang lebih besar/replikasi khusus dalam kesakitan pasca operasi LSS, idealnya dengan pemantauan kejadian buruk sawan/neuropsikiatri
+- Keputusan lingkup yang jelas: kejar sebagai "tambahan analgesik pasca operasi dalam pembedahan tulang belakang" (penggunaan simptomatik) dan bukannya "rawatan untuk stenosis tulang belakang lumbar" (penyakit-penyakit), untuk mengelakkan melebih-lebih mengatakan petunjuk
+- Kajian DDI, kerana pertanyaan DDI semasa tidak mengembalikan data (bukan kehadiran bersendirian yang disahkan bagi interaksi)
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

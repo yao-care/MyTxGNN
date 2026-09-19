@@ -29,102 +29,103 @@ Tahap bukti: **L5** | Indikasi diramal: **8**
 
 </div>
 
-# Chlorambucil: From Chronic Lymphocytic Leukemia to CLL/SLL with IGHV Somatic Hypermutation
+# Chlorambucil: Daripada Leukemia Limfositik Kronik kepada CLL/SLL dengan Somatic Hypermutation Gen Pemboleh ubah Rantai Berat Imunoglobulin
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Chlorambucil is a well-established alkylating agent with a long history of use as frontline therapy for chronic lymphocytic leukemia (CLL) and related B-cell lymphoid malignancies. The TxGNN model predicts it may be effective for **CLL/SLL with immunoglobulin heavy-chain variable-region gene (IGHV) somatic hypermutation** — a molecularly defined, favorable-prognosis subtype — with the current targeted evidence search returning **0 clinical trials** and **0 publications** specifically addressing this molecular subtype.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Not available in Malaysian regulatory record (license details not captured at time of extraction) |
-| Predicted New Indication | CLL/SLL with IGHV somatic hypermutation |
-| TxGNN Prediction Score | 99.72% |
-| Evidence Level | L5 (no subtype-specific studies retrieved) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+Chlorambucil ialah agen alkiliasi yang tersegala dengan sejarah panjang penggunaan sebagai terapi lini hadapan untuk leukemia limfositik kronik (CLL) dan malignansi limfoid sel B yang berkaitan. Model TxGNN meramal ia mungkin berkesan untuk **CLL/SLL dengan somatic hypermutation gen pemboleh ubah rantai berat imunoglobulin (IGHV)** — subtaip yang ditakrifkan secara molekular dengan prognosis yang baik — dengan carian bukti yang ditujukan semasa ini mengembalikan **0 ujian klinikal** dan **0 penerbitan** yang secara khusus menangani subtaip molekular ini.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Cepat
 
-Detailed mechanism of action data was not available from DrugBank at the time of this report. Based on known pharmacology, chlorambucil is a nitrogen mustard–derived alkylating agent. It forms covalent cross-links between and within DNA strands, effectively halting DNA replication and transcription. This cytotoxic mechanism is particularly effective against proliferating lymphocytes, which explains the drug's decades-long use as a first-line therapy in B-cell lymphoid malignancies including CLL.
-
-CLL/SLL is biologically stratified into two major subtypes based on the mutational status of the immunoglobulin heavy-chain variable region (IGHV) gene. Tumour cells carrying IGHV somatic hypermutation — the predicted indication here — are derived from post-germinal centre B cells and typically show a more indolent disease course and better response to conventional chemoimmunotherapy. Chlorambucil-based regimens (e.g., chlorambucil + obinutuzumab, chlorambucil + rituximab) have been validated in Phase 3 trials enrolling CLL patients broadly, with meaningful response rates observed across IGHV-mutated cohorts in subgroup analyses.
-
-The TxGNN prediction therefore reflects a mechanistically coherent and clinically plausible scenario. Chlorambucil's well-characterised B-cell cytotoxicity aligns with the biology of IGHV-mutated CLL, which remains sensitive to DNA-damaging agents. The high TxGNN score (99.72%) likely reflects strong pathway connectivity between chlorambucil's known targets and the molecular drivers of this CLL subtype in the knowledge graph. However, no dedicated prospective studies specifically enrolling IGHV-mutated CLL as a distinct stratum were retrieved in this evidence pack, which limits formal evidence grading.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for CLL/SLL with IGHV somatic hypermutation specifically.
-
-> **Contextual note:** Three completed Phase 3 trials involving chlorambucil in CLL broadly were identified in a parallel search query within this evidence pack. These include a randomised study of lenalidomide versus chlorambucil as first-line therapy in elderly B-CLL patients (NCT00910910; n=450), a safety evaluation of obinutuzumab with or without chemotherapy in previously untreated or relapsed/refractory CLL (NCT01905943; n=979), and a head-to-head comparison of alemtuzumab versus chlorambucil as frontline therapy in progressive B-CLL (NCT00046683; n=284). While none of these prospectively stratified by IGHV status as a primary endpoint, they establish a substantial Phase 3 evidence base for chlorambucil in CLL overall and may contain subgroup data relevant to IGHV-mutated disease.
+| Item | Kandungan |
+|------|-----------|
+| Petunjuk Asal | Tidak tersedia dalam rekod kawal selia Malaysia (butiran lesen tidak ditangkap pada masa pengekstrakan) |
+| Petunjuk Baharu yang Diramal | CLL/SLL dengan somatic hypermutation IGHV |
+| Skor Ramalan TxGNN | 99.72% |
+| Tahap Bukti | L5 (tiada kajian khusus subtaip yang diambil) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available for CLL/SLL with IGHV somatic hypermutation specifically.
+Data mekanisme tindakan terperinci tidak tersedia daripada DrugBank pada masa laporan ini dihasilkan. Berdasarkan farmakoloji yang diketahui, chlorambucil ialah agen alkiliasi yang diterbitkan daripada nitrogen mustard. Ia membentuk sambungan kovalen rentas dan dalam helai DNA, dengan berkesan menghentikan replikasi dan transkripsi DNA. Mekanisme sitotoksik ini amat berkesan terhadap limfosit yang memperbiak, yang menjelaskan penggunaan ubat ini selama puluhan tahun sebagai terapi lini pertama dalam malignansi limfoid sel B termasuk CLL.
 
-> **Contextual note:** One publication retrieved under the closely related rank-2 prediction (pregerminal centre CLL/SLL) describes the discovery of two distinct CLL subtypes — the IGHV-unmutated pre-germinal centre type and the IGHV-mutated post-germinal centre type — and discusses risk-adapted treatment approaches (PMID [12577769](https://pubmed.ncbi.nlm.nih.gov/12577769/), *Ned Tijdschr Geneeskd*, 2003). This paper directly contextualises the biological basis of the rank-1 prediction.
+CLL/SLL dibahagikan secara biologi kepada dua subtaip utama berdasarkan status mutasi rantau pemboleh ubah rantai berat imunoglobulin (IGHV). Sel tumor yang membawa somatic hypermutation IGHV — petunjuk yang diramal di sini — berasal daripada sel B selepas pusat kerminal dan biasanya menunjukkan perjalanan penyakit yang lebih tenang dan tindak balas yang lebih baik terhadap kemoimmunterapi konvensional. Rejimen berasaskan chlorambucil (cth., chlorambucil + obinutuzumab, chlorambucil + rituximab) telah disahkan dalam ujian Fasa 3 yang merekrut pesakit CLL secara meluas, dengan kadar tindak balas bermakna yang diperhatikan dalam kohort bermutas IGHV dalam analisis subkumpulan.
+
+Oleh itu, ramalan TxGNN mencerminkan senario yang koheren dari segi mekanisme dan plausibel secara klinikal. Sitotoksisiti sel B yang dicirikan dengan baik oleh chlorambucil selaras dengan biologi CLL bermutas IGHV, yang tetap sensitif terhadap agen yang merosakkan DNA. Skor TxGNN yang tinggi (99.72%) mungkin mencerminkan ketersambungan laluan yang kuat antara sasaran yang diketahui chlorambucil dan pemacu molekular subtaip CLL ini dalam graf pengetahuan. Walau bagaimanapun, tiada kajian prospektif khusus yang merekrut CLL bermutas IGHV sebagai stratifikasi yang berbeza diambil dalam pakej bukti ini, yang mengehadkan penarafan bukti formal.
 
 ---
 
-## Malaysia Market Information
+## Bukti Ujian Klinikal
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|----------------------|--------------|-------------|---------------------|
+Pada masa ini, tiada ujian klinikal terkait yang didaftarkan untuk CLL/SLL dengan somatic hypermutation IGHV secara khusus.
+
+> **Nota kontekstual:** Tiga ujian Fasa 3 yang telah selesai melibatkan chlorambucil dalam CLL secara meluas dikenal pasti dalam pertanyaan carian selari dalam pakej bukti ini. Ini termasuk kajian rawakkan bagi lenalidomid berbanding chlorambucil sebagai terapi lini pertama pada pesakit B-CLL yang berusia (NCT00910910; n=450), penilaian keselamatan obinutuzumab dengan atau tanpa kemoterapi dalam CLL sebelum ini tidak dirawat atau relaps/refraktori (NCT01905943; n=979), dan perbandingan kepala ke kepala alemtuzumab berbanding chlorambucil sebagai terapi hadapan dalam B-CLL progresif (NCT00046683; n=284). Walaupun tiada yang stratifikasi prospektif mengikut status IGHV sebagai titik akhir utama, mereka menetapkan asas bukti Fasa 3 yang besar untuk chlorambucil dalam CLL secara keseluruhan dan mungkin mengandungi data subkumpulan yang relevan dengan penyakit bermutas IGHV.
+
+---
+
+## Bukti Kesusasteraan
+
+Pada masa ini, tiada kesusasteraan berkaitan tersedia untuk CLL/SLL dengan somatic hypermutation IGHV secara khusus.
+
+> **Nota kontekstual:** Satu penerbitan yang diambil di bawah ramalan kedudukan-2 yang berkaitan rapat (CLL/SLL pra-pusat kerminal) menghuraikan penemuan dua subtaip CLL yang berbeza — jenis pra-pusat kerminal tanpa mutas IGHV dan jenis pasca-pusat kerminal bermutas IGHV — dan membincangkan pendekatan rawatan yang disesuaikan dengan risiko (PMID [12577769](https://pubmed.ncbi.nlm.nih.gov/12577769/), *Ned Tijdschr Geneeskd*, 2003). Kertas ini secara langsung menempatkan konteks asas biologi ramalan kedudukan-1.
+
+---
+
+## Maklumat Pasaran Malaysia
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjuk yang Diluluskan |
+|------------------|-------------|-----------|------------------------|
 | — | — | — | — |
 
-The Malaysian regulatory record confirms **1 active registration** for chlorambucil (market status: marketed). However, detailed product information — including the MAL authorization number, product name, dosage form, and approved indication text — was not captured in the data extracted at the time of this report. These details can be retrieved directly from the NPRA product search portal.
+Rekod kawal selia Malaysia mengesahkan **1 pendaftaran aktif** untuk chlorambucil (status pasaran: dipasarkan). Walau bagaimanapun, maklumat produk terperinci — termasuk nombor kebenaran MAL, nama produk, bentuk dos, dan teks petunjuk yang diluluskan — tidak ditangkap dalam data yang diambil pada masa laporan ini dihasilkan. Butiran ini dapat diambil terus daripada portal carian produk NPRA.
 
 ---
 
-## Cytotoxicity
+## Sitotoksisiti
 
-| Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Conventional cytotoxic (Alkylating agent — Nitrogen mustard class) |
-| Myelosuppression Risk | High — dose-dependent bone marrow suppression; neutropenia, thrombocytopenia, and anaemia are common and may be cumulative with repeated cycles |
-| Emetogenicity Classification | Low to moderate |
-| Monitoring Items | Full blood count (CBC with differential) before each cycle and at nadir; liver function tests; renal function; monitoring for secondary malignancy with long-term use |
-| Handling Protection | Must comply with cytotoxic drug handling regulations; oral tablet/capsule formulation requires caregiver education on safe handling, storage, and disposal |
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-> The safety data fields (key warnings, contraindications, and drug–drug interactions) were all identified as data gaps in this evidence pack. The NPRA-approved product monograph should be obtained and reviewed before any clinical or formulary decision is made. Known class-level concerns for alkylating agents include myelosuppression, secondary leukaemia risk with prolonged use, teratogenicity, and carcinogenicity.
+| Item | Kandungan |
+|------|-----------|
+| Klasifikasi Sitotoksisiti | Sitotoksik konvensional (Agen alkiliasi — kelas nitrogen mustard) |
+| Risiko Penekanan Sumsum Tulang | Tinggi — penekanan sumsum tulang yang bersandar dos; neutropenia, trombositopenia, dan anemia adalah biasa dan mungkin kumulatif dengan kitaran yang berulang |
+| Klasifikasi Emetogenisiti | Rendah hingga sederhana |
+| Item Pemantauan | Bilangan sel darah penuh (CBC dengan pembezaan) sebelum setiap kitaran dan pada nadir; ujian fungsi hati; fungsi buah pinggang; pemantauan bagi keganasan sekunder dengan penggunaan jangka panjang |
+| Perlindungan Pengendalian | Mesti mematuhi peraturan pengendalian ubat sitotoksik; formulasi tablet/kapsul oral memerlukan pendidikan penjaga tentang pengendalian selamat, penyimpanan, dan pelupusan |
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-**Rationale:**
-No clinical trials or publications specifically addressing chlorambucil in the molecularly defined subtype *CLL/SLL with IGHV somatic hypermutation* were retrieved, resulting in an L5 evidence level for this prediction. Although extensive Phase 3 evidence exists for chlorambucil in CLL broadly — and the mechanistic rationale is sound — the IGHV-mutated subtype has not been independently validated as a distinct treatment target in this evidence pack.
-
-**To proceed, the following is needed:**
-
-- **Subgroup data extraction:** Obtain IGHV-mutated subgroup analyses from existing Phase 3 chlorambucil-in-CLL trials (e.g., CLL11 obinutuzumab study, RESONATE-2 comparator arm) to determine whether the benefit–risk profile holds specifically for this molecular subset.
-- **MOA data completion:** Retrieve full DrugBank entry for chlorambucil (DB00291) to complete mechanistic link analysis and confirm pathway plausibility at the molecular level.
-- **Safety documentation:** Download the NPRA-approved Malaysian product monograph (仿單) to extract approved indication text, warnings, contraindications, and dosing recommendations; this is a blocking prerequisite for the S1 safety screening stage.
-- **Regulatory review:** Assess whether the IGHV-mutated CLL subtype would require a new indication filing or falls within the scope of the existing Malaysian approval; consult NPRA guidance on precision oncology label extensions.
-- **Market intelligence:** Clarify the current therapeutic landscape in Malaysia — whether BTK inhibitors (ibrutinib, acalabrutinib) or BCL-2 inhibitors (venetoclax) have displaced chlorambucil as standard of care, which would affect the repurposing value proposition.
+> Medan data keselamatan (amaran utama, kontraindikasi, dan interaksi ubat–ubat) semuanya dikenal pasti sebagai jurang data dalam pakej bukti ini. Monograf produk yang diluluskan NPRA harus diperolehi dan disemak sebelum sebarang keputusan klinikal atau formulari dibuat. Kebimbangan tahap kelas yang diketahui untuk agen alkiliasi termasuk penekanan sumsum tulang, risiko leukemia sekunder dengan penggunaan berpanjangan, teratogenisiti, dan kekarsinogenan.
 
 ---
 
-*This report is for research reference only and does not constitute medical advice. All drug repurposing candidates require clinical validation before any application to patient care.*
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Tiada ujian klinikal atau penerbitan yang secara khusus menangani chlorambucil dalam subtaip yang ditakrifkan secara molekular *CLL/SLL dengan somatic hypermutation IGHV* telah diambil, menghasilkan tahap bukti L5 untuk ramalan ini. Walaupun bukti Fasa 3 yang luas wujud untuk chlorambucil dalam CLL secara meluas — dan rasional mekanik adalah kukuh — subtaip bermutas IGHV belum disahkan secara bebas sebagai sasaran rawatan yang berbeza dalam pakej bukti ini.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+
+- **Pengekstrakan data subkumpulan:** Peroleh analisis subkumpulan bermutas IGHV daripada ujian Fasa 3 chlorambucil-dalam-CLL yang sedia ada (cth., kajian obinutuzumab CLL11, lengan perbandingan RESONATE-2) untuk menentukan sama ada profil manfaat–risiko bertahan khusus untuk subset molekular ini.
+- **Penyelesaian data MOA:** Ambil keseluruhan catatan DrugBank untuk chlorambucil (DB00291) untuk menyelesaikan analisis sambungan laluan dan mengesahkan kebolehpercayaan laluan pada tahap molekular.
+- **Dokumentasi keselamatan:** Muat turun monograf produk Malaysia yang diluluskan NPRA untuk mengekstrak teks petunjuk yang diluluskan, amaran, kontraindikasi, dan syor dos; ini adalah prasyarat penghalang untuk peringkat saringan keselamatan S1.
+- **Semakan kawal selia:** Nilai sama ada subtaip CLL bermutas IGHV akan memerlukan pemfailan petunjuk baharu atau jatuh dalam skop kelulusan Malaysia yang sedia ada; berunding dengan panduan NPRA mengenai sambungan label onkologi ketepatan.
+- **Perisikan pasaran:** Jelaskan landskap terapeutik semasa di Malaysia — sama ada perencit BTK (ibrutinib, acalabrutinib) atau perencit BCL-2 (venetoclax) telah menggantikan chlorambucil sebagai norma penjagaan, yang akan menjejaskan cadangan nilai ubat guna semula.
+
+---
+
+*Laporan ini adalah untuk rujukan penyelidikan sahaja dan tidak membentuk nasihat perubatan. Semua calon ubat guna semula memerlukan pengesahan klinikal sebelum sebarang aplikasi kepada penjagaan pesakit.*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

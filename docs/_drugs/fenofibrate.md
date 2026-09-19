@@ -29,72 +29,73 @@ Tahap bukti: **L3** | Indikasi diramal: **5**
 
 </div>
 
-# Fenofibrate: From Hyperlipidemia to Hypoalphalipoproteinemia
+# Fenofibrate: Dari Hiperlipidemia ke Hipoalfalipoproteinemia
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Fenofibrate is a fibrate-class PPAR-alpha agonist used for hyperlipidemia and hypertriglyceridemia (mixed dyslipidemia).
-The TxGNN model predicts it may also be effective for **Hypoalphalipoproteinemia** (abnormally low HDL cholesterol),
-with **1 clinical trial** and **11 publications** currently touching on this specific direction — evidence that is preliminary and mechanistically contested.
+Fenofibrate adalah agonis PPAR-alfa kelas fibrat yang digunakan untuk hiperlipidemia dan hipertrigliseridemia (dislidemia campuran).
+Model TxGNN memprediksi bahwa ia juga dapat efektif untuk **Hipoalfalipoproteinemia** (kolesterol HDL abnormal rendah),
+dengan **1 uji klinis** dan **11 publikasi** yang saat ini menyentuh arah spesifik ini — bukti yang bersifat awal dan secara mekanistik diperdebatkan.
 
-## Quick Overview
+## Gambaran Cepat
 
-| Item | Content |
-|------|------|
-| Original Indication | Hyperlipidemia / Hypertriglyceridemia (dyslipidemia) — specific NPRA-approved indication text not available in this evidence pack |
-| Predicted New Indication | Hypoalphalipoproteinemia |
-| TxGNN Prediction Score | 0.00% (as recorded in evidence pack) |
-| Evidence Level | L3 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 13 |
-| Recommended Decision | Hold |
+| Item | Konten |
+|------|--------|
+| Indikasi Awal | Hiperlipidemia / Hipertrigliseridemia (dislidemia) — teks indikasi yang disetujui NPRA spesifik tidak tersedia dalam paket bukti ini |
+| Indikasi Baru yang Diprediksi | Hipoalfalipoproteinemia |
+| Skor Prediksi TxGNN | 0.00% |
+| Tingkat Bukti | L3 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Jumlah Pendaftaran | 13 |
+| Keputusan yang Disarankan | Tunda |
 
-## Why is This Prediction Reasonable?
+## Mengapa Prediksi Ini Masuk Akal?
 
-Detailed mechanism of action data is not available in this evidence pack (flagged as a High-severity data gap). Based on known pharmacology, fenofibrate belongs to the fibrate class and acts as a PPAR-alpha agonist — it activates lipoprotein lipase (LPL), lowers ApoC-III, reduces hepatic VLDL/triglyceride synthesis, and has been reported to raise ApoA-I expression and promote reverse cholesterol transport. This core mechanism is the basis for its established efficacy in hyperlipidemia and hypertriglyceridemia.
+Data mekanisme kerja terperinci tidak tersedia dalam paket bukti ini (ditandai sebagai celah data berisiko tinggi). Berdasarkan farmakologi yang diketahui, fenofibrate termasuk kelas fibrat dan bertindak sebagai agonis PPAR-alfa — ia mengaktifkan lipase lipoprotein (LPL), menurunkan ApoC-III, mengurangi sintesis VLDL/trigliserida hepatik, dan telah dilaporkan meningkatkan ekspresi ApoA-I serta mempromosikan transportasi kolesterol terbalik. Mekanisme inti ini adalah dasar untuk efikasi yang sudah terbukti dalam hiperlipidemia dan hipertrigliseridemia.
 
-Hypoalphalipoproteinemia is defined by pathologically low HDL cholesterol, so in theory a drug that upregulates ApoA-I and reverse cholesterol transport could raise HDL levels in this population. However, the evidence pack's own rationale flags an important caveat: most hypoalphalipoproteinemia is caused by genetic defects (e.g., LCAT deficiency, ApoA-I mutations) that are not addressed by fenofibrate's mechanism, and multiple sources in the literature set (e.g., PMID 7567762, PMID 26667175) describe fenofibrate/fibrate combinations *causing* iatrogenic HDL reduction rather than correcting it. The mechanistic direction is therefore ambiguous and requires careful interpretation rather than straightforward extrapolation from the original indication.
+Hipoalfalipoproteinemia didefinisikan oleh kolesterol HDL patologis rendah, jadi secara teori obat yang meningkatkan ApoA-I dan transportasi kolesterol terbalik dapat meningkatkan kadar HDL dalam populasi ini. Namun, rasionalisasi paket bukti itu sendiri menandai peringatan penting: sebagian besar hipoalfalipoproteinemia disebabkan oleh cacat genetik (misalnya, defisiensi LCAT, mutasi ApoA-I) yang tidak ditangani oleh mekanisme fenofibrate, dan berbagai sumber dalam rangkaian literatur (misalnya, PMID 7567762, PMID 26667175) menggambarkan kombinasi fenofibrate/fibrat *menyebabkan* pengurangan HDL iatrogenik daripada memperbaikinya. Arah mekanistik oleh karena itu ambigu dan memerlukan interpretasi hati-hati daripada ekstrapolasi langsung dari indikasi awal.
 
-It is also worth noting that three of the other four predicted indications in this evidence pack — familial hyperlipidemia, hypertriglyceridemia, and hyperlipidemia — substantially overlap with fenofibrate's already-established core indications rather than representing genuinely novel repurposing opportunities; the evidence pack's own rationale text for hypertriglyceridemia explicitly notes this ("already an approved indication, not strictly repurposing"). A fifth candidate, "obsolete familial combined hyperlipidemia," has no supporting trial or literature data and is flagged as a likely duplicate/obsolete disease-mapping artifact.
+Juga perlu dicatat bahwa tiga dari empat indikasi lain yang diprediksi dalam paket bukti ini — hiperlipidemia familial, hipertrigliseridemia, dan hiperlipidemia — sebagian besar tumpang tindih dengan indikasi inti yang sudah mapan untuk fenofibrate daripada mewakili peluang repurposing yang benar-benar baru; rasionalisasi paket bukti itu sendiri untuk hipertrigliseridemia secara eksplisit mencatat ini ("sudah indikasi yang disetujui, bukan strictly repurposing"). Kandidat kelima, "hiperlipidemia familial gabungan yang sudah usang," tidak memiliki data uji klinis atau literatur pendukung dan ditandai sebagai artefak pemetaan penyakit duplikat/usang yang mungkin.
 
-## Clinical Trial Evidence
+## Bukti Uji Klinis
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT00458055](https://clinicaltrials.gov/study/NCT00458055) | NA | Completed | 19 | Treatment study for severe HDL deficiency; examines reverse cholesterol transport in a small, non-randomized, directly relevant population, but without a comparator arm. |
+| Nomor Uji | Fase | Status | Pendaftaran | Temuan Utama |
+|---------|------|--------|---------|----------|
+| [NCT00458055](https://clinicaltrials.gov/study/NCT00458055) | NA | Selesai | 19 | Studi pengobatan untuk defisiensi HDL berat; memeriksa transportasi kolesterol terbalik dalam populasi kecil, non-acak, yang langsung relevan, tetapi tanpa lengan pembanding. |
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [26667175](https://pubmed.ncbi.nlm.nih.gov/26667175/) | 2016 | Mechanistic/Biomarker | Molecular & Cellular Proteomics | Identifies PON1 and ApoC proteins as risk factors for hypoalphalipoproteinemia in diabetic patients on fenofibrate + rosiglitazone — describes a paradoxical HDL/ApoA-I reduction as a treatment complication. |
-| [23557750](https://pubmed.ncbi.nlm.nih.gov/23557750/) | 2013 | Case-Control/Mechanistic | J Am Heart Assoc | Links low-HDL phenotype to enhanced lipid peroxidation and platelet activation, supporting the biological rationale for HDL-targeted intervention. |
-| [19230892](https://pubmed.ncbi.nlm.nih.gov/19230892/) | 2009 | Cohort | Atherosclerosis | Fenofibrate (with nicotinic acid) used in familial LCAT deficiency; reports lipoprotein and renal changes after 6 weeks — a genetic hypoalphalipoproteinemia subtype. |
-| [24362356](https://pubmed.ncbi.nlm.nih.gov/24362356/) | 2014 | Review | Current Opinion in Lipidology | Reviews reverse cholesterol transport flux methodology relevant to HDL-raising mechanisms. |
-| [21107758](https://pubmed.ncbi.nlm.nih.gov/21107758/) | 2011 | Expert Opinion/Review | Current Atherosclerosis Reports | Discusses combination lipid therapy, noting isolated hypoalphalipoproteinemia as an exception to statin-first treatment algorithms. |
-| [23415437](https://pubmed.ncbi.nlm.nih.gov/23415437/) | 2013 | Case Report/Review | J Clin Lipidology | Describes a patient with marked HDL deficiency on a regimen including fenofibrate 145 mg/day; reviews genetic HDL-deficiency literature. |
-| [30201532](https://pubmed.ncbi.nlm.nih.gov/30201532/) | 2018 | Case Report | J Clin Lipidology | LCAT-deficient patient case; not fenofibrate-specific but relevant to the target disease's natural history. |
-| [10349128](https://pubmed.ncbi.nlm.nih.gov/10349128/) | 1999 | Review | Medicina | Describes partial LCAT deficiency syndrome, a genetic cause of hypoalphalipoproteinemia. |
-| [23023895](https://pubmed.ncbi.nlm.nih.gov/23023895/) | 2012 | Review | Singapore Med J | General review on low-HDL management strategies beyond LDL-lowering. |
-| [7567762](https://pubmed.ncbi.nlm.nih.gov/7567762/) | 1995 | Case Report | Postgrad Med J | Reports iatrogenic profound hypoalphalipoproteinemia from probucol + fibrate combination — evidence of a mechanism working in the *opposite* direction. |
+| PMID | Tahun | Tipe | Jurnal | Temuan Utama |
+|------|------|------|--------|----------|
+| [26667175](https://pubmed.ncbi.nlm.nih.gov/26667175/) | 2016 | Mekanistik/Biomarker | Molecular & Cellular Proteomics | Mengidentifikasi PON1 dan protein ApoC sebagai faktor risiko untuk hipoalfalipoproteinemia pada pasien diabetik yang menjalani fenofibrate + rosiglitazon — menggambarkan pengurangan HDL/ApoA-I paradoks sebagai komplikasi pengobatan. |
+| [23557750](https://pubmed.ncbi.nlm.nih.gov/23557750/) | 2013 | Kasus-Kontrol/Mekanistik | J Am Heart Assoc | Menghubungkan fenotipe HDL rendah dengan peningkatan peroksidasi lipid dan aktivasi platelet, mendukung rasionalisasi biologis untuk intervensi yang ditargetkan HDL. |
+| [19230892](https://pubmed.ncbi.nlm.nih.gov/19230892/) | 2009 | Kohort | Atherosclerosis | Fenofibrate (dengan asam niasin) digunakan dalam defisiensi LCAT familial; melaporkan perubahan lipoprotein dan ginjal setelah 6 minggu — subtipe hipoalfalipoproteinemia genetik. |
+| [24362356](https://pubmed.ncbi.nlm.nih.gov/24362356/) | 2014 | Tinjauan | Current Opinion in Lipidology | Meninjau metodologi aliran transportasi kolesterol terbalik yang relevan dengan mekanisme pengguna HDL. |
+| [21107758](https://pubmed.ncbi.nlm.nih.gov/21107758/) | 2011 | Pendapat Ahli/Tinjauan | Current Atherosclerosis Reports | Membahas terapi lipid kombinasi, mencatat hipoalfalipoproteinemia terisolasi sebagai pengecualian untuk algoritma pengobatan statin-pertama. |
+| [23415437](https://pubmed.ncbi.nlm.nih.gov/23415437/) | 2013 | Laporan Kasus/Tinjauan | J Clin Lipidology | Menjelaskan pasien dengan defisiensi HDL yang ditandai pada regimen yang mencakup fenofibrate 145 mg/hari; meninjau literatur defisiensi HDL genetik. |
+| [30201532](https://pubmed.ncbi.nlm.nih.gov/30201532/) | 2018 | Laporan Kasus | J Clin Lipidology | Kasus pasien yang kekurangan LCAT; tidak spesifik fenofibrate tetapi relevan dengan sejarah alami penyakit target. |
+| [10349128](https://pubmed.ncbi.nlm.nih.gov/10349128/) | 1999 | Tinjauan | Medicina | Mendeskripsikan sindrom defisiensi LCAT parsial, penyebab genetik hipoalfalipoproteinemia. |
+| [23023895](https://pubmed.ncbi.nlm.nih.gov/23023895/) | 2012 | Tinjauan | Singapore Med J | Tinjauan umum tentang strategi pengelolaan HDL rendah di luar penurunan LDL. |
+| [7567762](https://pubmed.ncbi.nlm.nih.gov/7567762/) | 1995 | Laporan Kasus | Postgrad Med J | Melaporkan hipoalfalipoproteinemia iatrogenik berat dari kombinasi probusol + fibrat — bukti mekanisme yang bekerja dalam arah *berlawanan*. |
 
-## Safety Considerations
+## Pertimbangan Keamanan
 
-Please refer to the package insert for safety information.
+Silakan merujuk pada insert kemasan untuk informasi keamanan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Berikutnya
 
-**Decision: Hold**
+**Keputusan: Tunda**
 
-**Rationale:**
-The only clinical trial directly studying this population is a small (n=19), non-randomized, single-arm study, and none of the 10 supporting publications are RCTs — evidence level is L3 with the decision at an early "Research Question" stage. More importantly, the mechanistic case is internally contradictory: several of the retrieved sources describe fenofibrate (alone or in combination) *causing* iatrogenic HDL reduction rather than correcting it, and most hypoalphalipoproteinemia is driven by genetic defects (LCAT deficiency, ApoA-I mutations) that fenofibrate's PPAR-alpha mechanism does not directly address.
+**Rasionalisasi:**
+Satu-satunya uji klinis yang secara langsung mempelajari populasi ini adalah studi kecil (n=19), non-acak, lengan tunggal, dan tidak satupun dari 10 publikasi pendukung adalah RCT — tingkat bukti adalah L3 dengan keputusan pada tahap awal "Pertanyaan Penelitian". Lebih penting lagi, kasus mekanistik secara internal kontradiktif: beberapa sumber yang diambil menggambarkan fenofibrate (sendiri atau dalam kombinasi) *menyebabkan* pengurangan HDL iatrogenik daripada memperbaikinya, dan sebagian besar hipoalfalipoproteinemia didorong oleh cacat genetik (defisiensi LCAT, mutasi ApoA-I) yang mekanisme PPAR-alfa fenofibrate tidak secara langsung mengatasi.
 
-**To proceed, the following is needed:**
-- Malaysia/NPRA package insert data — warnings, contraindications, and DDI (currently a Blocking data gap)
-- Verified mechanism of action from DrugBank (currently a High-severity data gap)
-- Confirmed original approved indication text (all 13 Malaysia license records currently have blank indication fields)
-- A controlled study in a defined, non-iatrogenic hypoalphalipoproteinemia population to resolve the conflicting directionality seen in the literature
-- Clarification of whether "obsolete familial combined hyperlipidemia" (rank 3, no evidence) is a disease-mapping duplicate before it is carried forward as a separate candidate
+**Untuk melanjutkan, hal berikut diperlukan:**
+- Data insert kemasan Malaysia/NPRA — peringatan, kontraindikasi, dan DDI (saat ini celah data pemblokiran)
+- Mekanisme kerja yang diverifikasi dari DrugBank (saat ini celah data berisiko tinggi)
+- Teks indikasi awal yang disetujui yang dikonfirmasi (semua 13 catatan lisensi Malaysia saat ini memiliki bidang indikasi kosong)
+- Studi terkontrol dalam populasi hipoalfalipoproteinemia yang didefinisikan dengan jelas, non-iatrogenik untuk menyelesaikan directionality yang bertentangan yang terlihat dalam literatur
+- Klarifikasi apakah "hiperlipidemia familial gabungan yang sudah usang" (rangking 3, tanpa bukti) adalah duplikat pemetaan penyakit sebelum dibawa maju sebagai kandidat terpisah
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

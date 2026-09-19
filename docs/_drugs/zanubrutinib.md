@@ -29,104 +29,105 @@ Tahap bukti: **L5** | Indikasi diramal: **6**
 
 </div>
 
-# Zanubrutinib: From B-cell Malignancies to Myeloid Leukemia
+# Zanubrutinib: Daripada Keganasan Sel-B kepada Leukemia Myeloid
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-> Zanubrutinib is a Bruton's tyrosine kinase (BTK) inhibitor known for treating B-cell hematologic malignancies such as CLL/SLL, Waldenström macroglobulinemia, and marginal zone lymphoma.
-> The TxGNN model predicts it may be effective for **Myeloid Leukemia**, but the **2 clinical trials** and **9 publications** identified relate to zanubrutinib's established B-cell malignancy indications rather than direct evidence for myeloid leukemia — evidentiary support for this specific prediction is currently weak.
+> Zanubrutinib adalah penghambat kinase tirosin Bruton (BTK) yang dikenali kerana merawat keganasan hematologi sel-B seperti CLL/SLL, makroglobulinemia Waldenström, dan limfoma zon marginal.
+> Model TxGNN meramalkan ia mungkin berkesan untuk **Leukemia Myeloid**, tetapi **2 uji klinikal** dan **9 penerbitan** yang dikenal pasti berkaitan dengan indikasi keganasan sel-B zanubrutinib yang telah ditegakkan dan bukannya bukti langsung untuk leukemia myeloid — sokongan bukti untuk ramalan spesifik ini pada masa ini adalah lemah.
 
 ---
 
-## Quick Overview
+## Gambaran Pantas
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Not recorded in structured TFDA data; known clinical use includes CLL/SLL, Waldenström macroglobulinemia, and marginal zone lymphoma |
-| Predicted New Indication | Myeloid Leukemia |
-| TxGNN Prediction Score | 99.65% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+| Indikasi Asal | Tidak dicatat dalam data TFDA berstruktur; penggunaan klinikal yang diketahui termasuk CLL/SLL, makroglobulinemia Waldenström, dan limfoma zon marginal |
+| Indikasi Baru yang Diramal | Leukemia Myeloid |
+| Skor Ramalan TxGNN | 99.65% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on known clinical use, zanubrutinib is a BTK (Bruton's tyrosine kinase) inhibitor, primarily indicated for B-cell hematologic malignancies (CLL/SLL, Waldenström macroglobulinemia, marginal zone lymphoma).
+Pada masa kini, data mekanisme tindakan terperinci tidak tersedia dalam pakej bukti ini. Berdasarkan penggunaan klinikal yang diketahui, zanubrutinib adalah penghambat BTK (kinase tirosin Bruton), yang ditunjukkan terutamanya untuk keganasan hematologi sel-B (CLL/SLL, makroglobulinemia Waldenström, limfoma zon marginal).
 
-BTK signaling is a well-established driver in B-cell malignancies but is **not** a recognized primary driver in myeloid leukemia pathogenesis. No experimental or translational evidence in the available literature supports a direct therapeutic mechanism for zanubrutinib in myeloid leukemia. The high TxGNN score likely reflects broad connectivity of the "leukemia" node in the knowledge graph rather than indication-specific mechanistic similarity.
+Pensignalan BTK adalah pemacu yang telah ditegakkan dengan baik dalam keganasan sel-B tetapi **bukan** pemacu utama yang diiktiraf dalam patogenesis leukemia myeloid. Tiada bukti eksperimental atau translasi dalam literatur yang tersedia menyokong mekanisme terapeutik langsung untuk zanubrutinib dalam leukemia myeloid. Skor TxGNN yang tinggi berkemungkinan mencerminkan ketersambungan luas nod "leukemia" dalam graf pengetahuan dan bukannya kesamaan mekanistik khusus indikasi.
 
-Both identified clinical trials involve other investigational agents (CG-806/luxeptinib, PRT2527) rather than zanubrutinib itself, and the associated literature — while high-quality (including a Phase 3 RCT) — pertains exclusively to zanubrutinib's approved B-cell malignancy indications, not myeloid leukemia. This is a case where the model's prediction currently lacks biological plausibility and should be treated with caution.
+Kedua-dua uji klinikal yang dikenal pasti melibatkan agen penyiasat lain (CG-806/luxeptinib, PRT2527) dan bukannya zanubrutinib itu sendiri, dan literatur berkaitan — walaupun berkualiti tinggi (termasuk RCT Fasa 3) — berkaitan semata-mata dengan indikasi keganasan sel-B zanubrutinib yang diluluskan, bukan leukemia myeloid. Ini ialah kes di mana ramalan model pada masa ini tidak mempunyai kebolehfahaman biologi dan harus diperlakukan dengan berhati-hati.
 
 ---
 
-## Clinical Trial Evidence
+## Bukti Uji Klinikal
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Uji | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT04477291](https://clinicaltrials.gov/study/NCT04477291) | Phase 1 | Terminated | 45 | Trial of CG-806 (luxeptinib), not zanubrutinib, in relapsed/refractory AML or high-risk MDS; terminated, no direct relevance to zanubrutinib |
-| [NCT05665530](https://clinicaltrials.gov/study/NCT05665530) | Phase 1 | Completed | 86 | Dose-escalation study of PRT2527 (CDK9 inhibitor) as monotherapy and combined with zanubrutinib/venetoclax in relapsed/refractory hematologic malignancies; zanubrutinib is a combination partner, not the primary study drug, and the target population is not myeloid leukemia |
+| [NCT04477291](https://clinicaltrials.gov/study/NCT04477291) | Fasa 1 | Ditamatkan | 45 | Uji CG-806 (luxeptinib), bukan zanubrutinib, dalam AML yang kambuh/refraktori atau MDS berisiko tinggi; ditamatkan, tiada relevansi langsung dengan zanubrutinib |
+| [NCT05665530](https://clinicaltrials.gov/study/NCT05665530) | Fasa 1 | Selesai | 86 | Kajian penambahan dos PRT2527 (penghambat CDK9) sebagai monoterapi dan digabungkan dengan zanubrutinib/venetoclax dalam keganasan hematologi yang kambuh/refraktori; zanubrutinib adalah rakan gabungan, bukan ubat kajian utama, dan populasi sasaran bukan leukemia myeloid |
 
-*Neither trial provides direct evidence of zanubrutinib efficacy in myeloid leukemia.*
+*Tiada uji memberikan bukti langsung keberkesanan zanubrutinib dalam leukemia myeloid.*
 
 ---
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [39647999](https://pubmed.ncbi.nlm.nih.gov/39647999/) | 2025 | RCT | J Clin Oncol | SEQUOIA trial 5-year follow-up: zanubrutinib vs bendamustine+rituximab in treatment-naïve CLL/SLL (not myeloid leukemia) |
-| [40334067](https://pubmed.ncbi.nlm.nih.gov/40334067/) | 2025 | Cohort | Blood Advances | Zanubrutinib well tolerated and effective in CLL/SLL patients intolerant of ibrutinib/acalabrutinib |
-| [40829104](https://pubmed.ncbi.nlm.nih.gov/40829104/) | 2026 | Cohort | Blood Advances | Pooled analysis of zanubrutinib efficacy/safety in del(17p)/TP53-mutated CLL/SLL across SEQUOIA and ALPINE trials |
-| [36400069](https://pubmed.ncbi.nlm.nih.gov/36400069/) | 2023 | Cohort | Lancet Haematol | Phase 2 study of zanubrutinib in B-cell malignancy patients intolerant of prior BTK inhibitors |
-| [34959482](https://pubmed.ncbi.nlm.nih.gov/34959482/) | 2021 | Review | Pharmaceutics | Review of tyrosine kinase inhibitor era in chronic leukemias (CML, CLL) |
-| [36402930](https://pubmed.ncbi.nlm.nih.gov/36402930/) | 2023 | Review | Leukemia | Review of BTK inhibitor management in Waldenström macroglobulinemia |
-| [37150651](https://pubmed.ncbi.nlm.nih.gov/37150651/) | 2023 | Review | Clin Lymphoma Myeloma Leuk | HBV reactivation risk in patients receiving BTK inhibitors (ibrutinib, acalabrutinib, zanubrutinib) |
-| [38288815](https://pubmed.ncbi.nlm.nih.gov/38288815/) | 2024 | Review | Anticancer Agents Med Chem | Synthetic methodology review of FDA-approved anticancer drugs; mentions zanubrutinib's chemistry only, no pharmacology/clinical data |
-| [36325357](https://pubmed.ncbi.nlm.nih.gov/36325357/) | 2022 | Case Report | Front Immunol | Case report of coexisting Waldenström macroglobulinemia and B-ALL with KMT2D/MECOM mutations |
+| [39647999](https://pubmed.ncbi.nlm.nih.gov/39647999/) | 2025 | RCT | J Clin Oncol | Tindak lanjut 5 tahun uji SEQUOIA: zanubrutinib vs bendamustine+rituximab dalam CLL/SLL yang belum pernah dirawati (bukan leukemia myeloid) |
+| [40334067](https://pubmed.ncbi.nlm.nih.gov/40334067/) | 2025 | Kohort | Blood Advances | Zanubrutinib ditoleransi dengan baik dan berkesan dalam pesakit CLL/SLL yang tidak tahan ibrutinib/acalabrutinib |
+| [40829104](https://pubmed.ncbi.nlm.nih.gov/40829104/) | 2026 | Kohort | Blood Advances | Analisis terkumpul keberkesanan/keselamatan zanubrutinib dalam CLL/SLL del(17p)/TP53-bermutasi merentas ujian SEQUOIA dan ALPINE |
+| [36400069](https://pubmed.ncbi.nlm.nih.gov/36400069/) | 2023 | Kohort | Lancet Haematol | Kajian Fasa 2 zanubrutinib dalam pesakit keganasan sel-B yang tidak tahan penghambat BTK sebelumnya |
+| [34959482](https://pubmed.ncbi.nlm.nih.gov/34959482/) | 2021 | Ulasan | Pharmaceutics | Ulasan era penghambat kinase tirosin dalam leukemia kronik (CML, CLL) |
+| [36402930](https://pubmed.ncbi.nlm.nih.gov/36402930/) | 2023 | Ulasan | Leukemia | Ulasan pengurusan penghambat BTK dalam makroglobulinemia Waldenström |
+| [37150651](https://pubmed.ncbi.nlm.nih.gov/37150651/) | 2023 | Ulasan | Clin Lymphoma Myeloma Leuk | Risiko pengaktifan semula HBV dalam pesakit yang menerima penghambat BTK (ibrutinib, acalabrutinib, zanubrutinib) |
+| [38288815](https://pubmed.ncbi.nlm.nih.gov/38288815/) | 2024 | Ulasan | Anticancer Agents Med Chem | Ulasan metodologi sintetik ubat antikanser yang diluluskan FDA; menyebut hanya kimia zanubrutinib, tiada data farmakologi/klinikal |
+| [36325357](https://pubmed.ncbi.nlm.nih.gov/36325357/) | 2022 | Laporan Kes | Front Immunol | Laporan kes makroglobulinemia Waldenström dan B-ALL bersama dengan mutasi KMT2D/MECOM |
 
-*None of the identified literature addresses zanubrutinib in myeloid leukemia specifically; all pertain to its established B-cell malignancy indications.*
-
----
-
-## Malaysia Market Information
-
-One registration record exists in the source data, but the authorization number, product name, dosage form, and approved indication text fields were not populated. Please consult NPRA registration records directly for full licensing details.
+*Tiada literatur yang dikenal pasti menangani zanubrutinib dalam leukemia myeloid secara khusus; semua berkaitan dengan indikasi keganasan sel-B yang telah ditegakkannya.*
 
 ---
 
-## Cytotoxicity
+## Maklumat Pasaran Malaysia
 
-| Item | Content |
+Satu rekod pendaftaran wujud dalam data sumber, tetapi nombor kebenaran, nama produk, bentuk dos, dan medan teks indikasi yang diluluskan tidak diisi. Sila rujuk rekod pendaftaran NPRA secara langsung untuk butiran pelesenan lengkap.
+
+---
+
+## Sitotoksisiti
+
+| Item | Kandungan |
 |------|------|
-| Cytotoxicity Classification | Targeted therapy (BTK inhibitor) |
-| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
-| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | Please refer to the package insert warnings and precautions |
-| Handling Protection | Please refer to the package insert warnings and precautions |
+| Klasifikasi Sitotoksisiti | Terapi tersasaran (penghambat BTK) |
+| Risiko Penindasan Sumsum Tulang | Sila rujuk amaran dan tindakan berjaga-jaga dalam sisipan pakej |
+| Klasifikasi Emetogenisiti | Sila rujuk amaran dan tindakan berjaga-jaga dalam sisipan pakej |
+| Item Pemantauan | Sila rujuk amaran dan tindakan berjaga-jaga dalam sisipan pakej |
+| Perlindungan Pengendalian | Sila rujuk amaran dan tindakan berjaga-jaga dalam sisipan pakej |
 
 ---
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
 ---
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The mechanistic link between BTK inhibition and myeloid leukemia is not established, and no identified clinical trial or literature provides direct evidence of zanubrutinib efficacy in this indication — the available evidence instead supports its known B-cell malignancy indications. Combined with missing TFDA safety data (warnings/contraindications), this candidate does not meet the threshold to advance past initial screening.
+**Rasional:**
+Pautan mekanik antara perencatan BTK dan leukemia myeloid tidak ditegakkan, dan tiada uji klinikal atau literatur yang dikenal pasti memberikan bukti langsung keberkesanan zanubrutinib dalam indikasi ini — bukti yang tersedia sebaliknya menyokong indikasi keganasan sel-B yang diketahuinya. Digabungkan dengan data keselamatan TFDA yang hilang (amaran/kontraindikasi), calon ini tidak memenuhi ambang untuk maju melepasi pemeriksaan permulaan.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert (warnings, contraindications) — currently blocking (DG001)
-- Confirmed mechanism of action documentation from DrugBank (DG002)
-- Preclinical or translational evidence specifically linking BTK inhibition to myeloid leukemia pathogenesis
-- Complete license/registration details for the Malaysia market record
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisipan pakej TFDA/NPRA (amaran, kontraindikasi) — kini menghalang (DG001)
+- Dokumentasi mekanisme tindakan yang disahkan daripada DrugBank (DG002)
+- Bukti pra-klinikal atau translasi yang secara khusus menghubungkan perencatan BTK dengan patogenesis leukemia myeloid
+- Butiran lesen/pendaftaran lengkap untuk rekod pasaran Malaysia
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

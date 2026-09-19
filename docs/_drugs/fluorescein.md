@@ -29,63 +29,64 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Fluorescein: From Diagnostic Ophthalmic Use to Prinzmetal Angina
+## Fluorescein: Dari Penggunaan Diagnostik Oftalmologi ke Angina Prinzmetal
 
-## One-Sentence Summary
+### Ringkasan Satu Ayat
 
-Fluorescein is a diagnostic fluorescent dye traditionally used for ophthalmic angiography and ocular surface staining, not a therapeutic agent with an established treatment indication.
-The TxGNN model predicts it may be effective for **Prinzmetal Angina**, but this prediction is supported by **0 clinical trials** and **0 publications** — no evidence of any kind exists to substantiate it.
+Fluorescein adalah pewarna fluoresensi diagnostik yang secara tradisional digunakan untuk angiografi oftalmologi dan pewarnaan permukaan okular, bukan ejen terapeutik dengan indikasi pengobatan yang telah ditetapkan.
+Model TxGNN meramalkan bahawa ia mungkin berkesan untuk **Angina Prinzmetal**, tetapi ramalan ini disokong oleh **0 ujian klinis** dan **0 penerbitan** — tiada bukti sebarang jenis wujud untuk menyokongnya.
 
-## Quick Overview
+### Ikhtisar Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | Diagnostic dye for ophthalmic angiography / ocular surface staining (specific licensed indication text not available in this data pack) |
-| Predicted New Indication | Prinzmetal Angina |
-| TxGNN Prediction Score | 99.81% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Pewarna diagnostik untuk angiografi oftalmologi / pewarnaan permukaan okular (teks indikasi berlesensi khusus tidak tersedia dalam pakej data ini) |
+| Indikasi Baru yang Diramalkan | Angina Prinzmetal |
+| Skor Ramalan TxGNN | 99.81% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+### Mengapa Ramalan Ini Masuk Akal?
 
-Currently, detailed mechanism of action data is not available (DG002, High severity data gap). Based on known information, Fluorescein is a fluorescent dye used to visualize retinal/iris vasculature and ocular surface defects diagnostically — it has no established pharmacological activity on coronary vascular smooth muscle or the vasospastic mechanisms underlying Prinzmetal angina.
+Pada masa ini, data mekanisme kerja terperinci tidak tersedia (DG002, jurang data keterukan tinggi). Berdasarkan maklumat yang diketahui, Fluorescein adalah pewarna fluoresensi yang digunakan untuk memvisualisasi vaskulatur retina/iris dan kecacatan permukaan okular secara diagnostik — ia tidak mempunyai aktiviti farmakologi yang telah ditetapkan pada otot licin vaskular koroner atau mekanisme vasospastik yang mendasari angina Prinzmetal.
 
-The evidence pack's own repurposing rationale is explicit on this point: there is **no mechanistic link**, and the prediction has zero corroborating clinical trials or literature across all three evidence sources queried (ClinicalTrials.gov, ICTRP, PubMed). This pattern — a high TxGNN score with a complete absence of supporting real-world evidence — is most consistent with **knowledge-graph noise** rather than a genuine biological signal, and should not be interpreted as a credible repurposing hypothesis.
+Rasional pengguna semula bukti pakej sendiri jelas pada perkara ini: tiada **kaitan mekanistik**, dan ramalan mempunyai sifar ujian klinis atau literatur yang menyokong di seluruh tiga sumber bukti yang ditanya (ClinicalTrials.gov, ICTRP, PubMed). Pola ini — skor TxGNN yang tinggi dengan ketiadaan lengkap bukti sokongan dunia sebenar — paling konsisten dengan **hingar grafik pengetahuan** daripada isyarat biologis yang asli, dan tidak boleh ditafsirkan sebagai hipotesis pengguna semula yang boleh dipercaya.
 
-It is also worth noting that across the other 9 ranked candidates for this drug, the pattern repeats: most have zero evidence, and the few with retrieved literature (e.g., hemoglobinopathy, thrombophilia, hyperthyroidism) are confounded — the studies use fluorescein *angiography* as a diagnostic imaging tool to detect vascular complications of those diseases, not as a treatment for them. None of the 10 predictions currently has genuine therapeutic-use evidence.
+Juga patut diingat bahawa merentas 9 calon berperingkat lain untuk ubat ini, pola berulang: kebanyakannya mempunyai sifar bukti, dan beberapa dengan literatur yang diperolehi (cth. hemoglobinopati, trombofilia, hipertiroidisme) mengelirukan — kajian menggunakan fluorescein *angiografi* sebagai alat pencitraan diagnostik untuk mengesan komplikasi vaskular penyakit tersebut, bukan sebagai rawatan untuk mereka. Tiada dari 10 ramalan semasa mempunyai bukti penggunaan terapeutik yang asli.
 
-## Clinical Trial Evidence
+### Bukti Ujian Klinis
 
-Currently no related clinical trials registered
+Pada masa ini tiada ujian klinis berkaitan yang didaftarkan
 
-## Literature Evidence
+### Bukti Literatur
 
-Currently no related literature available
+Pada masa ini tiada literatur berkaitan yang tersedia
 
-## Malaysia Market Information
+### Maklumat Pasaran Malaysia
 
-License-level details (registration number, product name, dosage form, approved indication text) were not returned in this data pack — all fields were blank. What is confirmed: the product is marketed in Malaysia (✓ Marketed) with 1 total registration on file.
+Detail tahap lesensi (nombor pendaftaran, nama produk, bentuk dosis, teks indikasi yang diluluskan) tidak dikembalikan dalam pakej data ini — semua bidang kosong. Apa yang disahkan: produk dipasarkan di Malaysia (✓ Dipasarkan) dengan 1 jumlah pendaftaran keseluruhan dalam fail.
 
-## Safety Considerations
+### Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-*(Note: TFDA/NPRA label warnings and contraindications are flagged as a Blocking data gap — DG001 — meaning this candidate cannot yet enter a formal S1 safety review.)*
+*(Nota: Amaran label TFDA/NPRA dan kontraindikasi ditandai sebagai jurang data Pemblokiran — DG001 — yang bermakna calon ini belum boleh memasuki semakan keselamatan S1 rasmi.)*
 
-## Conclusion and Next Steps
+### Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The top-ranked prediction (Prinzmetal angina) has zero supporting clinical trials or literature and no plausible mechanism of action — it is best explained as model noise rather than a real signal. No candidate in this evidence pack currently has genuine therapeutic-use evidence for repurposing.
+**Rasional:**
+Ramalan teratas (angina Prinzmetal) mempunyai sifar ujian klinis atau literatur sokongan dan tiada mekanisme kerja yang munasabah — ia paling baik dijelaskan sebagai hingar model daripada isyarat asli. Tiada calon dalam pakej bukti ini pada masa ini mempunyai bukti penggunaan terapeutik yang asli untuk pengguna semula.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert data (warnings, contraindications) — currently a Blocking data gap (DG001)
-- DrugBank mechanism of action data for Fluorescein — currently a High-severity data gap (DG002)
-- A disease-specific literature/trial search that excludes diagnostic-imaging uses of fluorescein, to determine whether any of the 10 predicted indications has genuine therapeutic support
-- If no mechanistic or evidentiary support emerges, this candidate should be deprioritized in favor of higher-scoring repurposing opportunities elsewhere in the pipeline
+**Untuk meneruskan, yang berikut diperlukan:**
+- Data sisipan pakej TFDA/NPRA (amaran, kontraindikasi) — pada masa ini jurang data Pemblokiran (DG001)
+- Data mekanisme kerja DrugBank untuk Fluorescein — pada masa ini jurang data keterukan tinggi (DG002)
+- Carian literatur/ujian klinis khusus penyakit yang mengecualikan penggunaan pencitraan diagnostik fluorescein, untuk menentukan sama ada mana-mana dari 10 indikasi yang diramalkan mempunyai sokongan terapeutik yang asli
+- Jika tiada sokongan mekanistik atau bukti timbul, calon ini perlu dikurangkan prioritinya demi peluang pengguna semula berskor lebih tinggi di tempat lain dalam saluran
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

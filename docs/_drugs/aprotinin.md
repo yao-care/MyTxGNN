@@ -29,84 +29,85 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Aprotinin: Drug Repurposing Evaluation — No TxGNN Predictions Available
+# Aprotinin: Penilaian Kembali Guna Ubat — Tiada Ramalan TxGNN Tersedia
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Aprotinin (DrugBank: DB06692) is a serine protease inhibitor classically used as an antifibrinolytic agent to reduce perioperative blood loss in cardiac surgery.
-However, **the current Evidence Pack contains no TxGNN-predicted new indications**, and critical data fields including mechanism of action, package insert warnings, and approved indication text are all missing.
-This report serves as a **data gap assessment** rather than a full repurposing evaluation; no recommendation can be made until the identified gaps are resolved.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Not available in current Evidence Pack |
-| Predicted New Indication | None — TxGNN prediction not yet completed |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 (Model prediction only — but no prediction exists) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
-| Recommended Decision | **Hold** |
+Aprotinin (DrugBank: DB06692) adalah penyekat protease serin yang secara klasik digunakan sebagai ejen antifibrinolitik untuk mengurangkan kehilangan darah perioperatif dalam pembedahan jantung.
+Walau bagaimanapun, **pakej bukti semasa tidak mengandungi sebarang petunjuk baru yang diramalkan oleh TxGNN**, dan medan data kritikal termasuk mekanisme tindakan, amaran sisipan pakej, dan teks petunjuk yang diluluskan semuanya hilang.
+Laporan ini berfungsi sebagai **penilaian jurang data** daripada penilaian kembali guna penuh; tiada cadangan boleh dibuat sehingga jurang yang dikenal pasti diselesaikan.
 
 ---
 
-## Why No Prediction is Available
+## Gambaran Keseluruhan Pantas
 
-The `predicted_indications` array in this Evidence Pack is **empty**, meaning TxGNN has either not yet processed this candidate, or Aprotinin's DrugBank entry (DB06692) could not be successfully linked to the knowledge graph for scoring.
-
-Two critical upstream data gaps are blocking the full repurposing workflow:
-
-1. **Mechanism of Action (MOA)** — classified as severity **High**. Without MOA data, the knowledge graph cannot correctly anchor Aprotinin's pharmacological profile to disease nodes, which directly impairs the quality of any TxGNN scoring.
-
-2. **TFDA Package Insert Warnings and Contraindications** — classified as severity **Blocking**. This prevents even basic safety screening (S1 triage), meaning the candidate cannot proceed to clinical feasibility review.
-
-Until these two gaps are resolved, no mechanistic rationale, clinical trial evidence table, or literature evidence table can be meaningfully generated for a repurposing target.
-
----
-
-## Malaysia Market Information
-
-Registration details in the Evidence Pack are incomplete — all fields (license number, product name, dosage form, manufacturer, approved indication text) are empty despite 2 registered licenses being recorded.
-
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|----------------------|--------------|-------------|---------------------|
-| (Not available) | (Not available) | (Not available) | (Not available) |
-| (Not available) | (Not available) | (Not available) | (Not available) |
-
-> **Action Required:** Retrieve full license details from the Malaysia NPRA product registry to populate this table.
+| Item | Kandungan |
+|------|-----------|
+| Petunjuk Asal | Tidak tersedia dalam Pakej Bukti semasa |
+| Petunjuk Baru yang Diramalkan | Tiada — ramalan TxGNN belum selesai |
+| Skor Ramalan TxGNN | N/A |
+| Tahap Bukti | L5 (Ramalan model sahaja — tetapi tiada ramalan wujud) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 2 |
+| Keputusan yang Disyorkan | **Tahan** |
 
 ---
 
-## Safety Considerations
+## Mengapa Tiada Ramalan Tersedia
 
-All safety fields in the current Evidence Pack contain no usable data:
+Tatasusunan `predicted_indications` dalam Pakej Bukti ini adalah **kosong**, bermakna TxGNN sama ada belum memproses calon ini, atau kemasukan DrugBank Aprotinin (DB06692) tidak dapat berjaya dipautkan ke graf pengetahuan untuk pemeringkatan.
 
-- Key warnings: not retrieved
-- Contraindications: not retrieved
-- Drug-drug interactions: query returned 0 results (`not_found`)
+Dua jurang data hulu kritikal menyekat aliran kerja kembali guna penuh:
 
-> Please refer to the approved package insert for safety information. Note that Aprotinin has a notable post-market safety history in other jurisdictions (including market withdrawal in several countries due to cardiovascular and renal adverse events) — this regulatory history must be reviewed before any repurposing evaluation proceeds.
+1. **Mekanisme Tindakan (MOA)** — diklasifikasikan sebagai keterukan **Tinggi**. Tanpa data MOA, graf pengetahuan tidak dapat dengan betul menambat profil farmakologi Aprotinin ke nod penyakit, yang secara langsung merosot kualiti sebarang pemeringkatan TxGNN.
+
+2. **Amaran Sisipan Pakej TFDA dan Kontaindikasi** — diklasifikasikan sebagai keterukan **Menyekat**. Ini menghalang pula penyaringan keselamatan asas (peringkat S1), bermakna calon tidak boleh diteruskan ke semakan kebolehlaksanaan klinikal.
+
+Sehingga dua jurang ini diselesaikan, tiada nisbah mekanis, jadual bukti ujikaji klinikal, atau jadual bukti kesusasteraan boleh dijana dengan bermakna untuk sasaran kembali guna.
 
 ---
 
-## Conclusion and Next Steps
+## Maklumat Pasaran Malaysia
 
-**Decision: Hold**
+Butiran pendaftaran dalam Pakej Bukti adalah tidak lengkap — semua medan (nombor lesen, nama produk, bentuk dos, pengeluar, teks petunjuk yang diluluskan) kosong walaupun 2 lesen berdaftar direkodkan.
 
-**Rationale:**
-The Evidence Pack is structurally incomplete — there are no TxGNN predictions, no MOA, no safety data, and no approved indication text — making it impossible to evaluate Aprotinin's repurposing potential at this time.
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjuk yang Diluluskan |
+|------------------|-------------|-----------|--------------------------|
+| (Tidak tersedia) | (Tidak tersedia) | (Tidak tersedia) | (Tidak tersedia) |
+| (Tidak tersedia) | (Tidak tersedia) | (Tidak tersedia) | (Tidak tersedia) |
 
-**To proceed, the following is needed:**
+> **Tindakan Diperlukan:** Ambil butiran lesen penuh daripada daftar produk NPRA Malaysia untuk mengisi jadual ini.
 
-- **[Blocking — DG001]** Download and parse the TFDA package insert PDF to extract warnings, contraindications, and approved indication text; re-run the S1 safety triage gate
-- **[High — DG002]** Query the DrugBank API for DB06692 to retrieve mechanism of action, drug categories, and toxicity profile; use this to re-run TxGNN KG mapping
-- **[Required]** Confirm whether Aprotinin's DrugBank node is correctly present in `data/node.csv` and `data/kg.csv`; if missing or misidentified, the KG prediction step will produce no output
-- **[Required]** Retrieve full NPRA license details (license number, product name, dosage form, indication text) for both registered products
-- **[Required]** Investigate Aprotinin's international regulatory status (suspended/withdrawn in EU and Canada since 2007–2008 due to BART trial findings) and assess whether Malaysia's 2 registrations remain active and clinically appropriate
-- **[Optional]** Once MOA is confirmed, manually verify whether Aprotinin appears in any repurposing literature (e.g., anti-inflammatory, hereditary angioedema, pancreatitis) to supplement the TxGNN pipeline
+---
+
+## Pertimbangan Keselamatan
+
+Semua medan keselamatan dalam Pakej Bukti semasa tidak mengandungi data yang boleh digunakan:
+
+- Amaran utama: tidak diambil
+- Kontaindikasi: tidak diambil
+- Interaksi ubat-ubatan: pertanyaan mengembalikan 0 keputusan (`not_found`)
+
+> Sila rujuk sisipan pakej yang diluluskan untuk maklumat keselamatan. Ambil perhatian bahawa Aprotinin mempunyai sejarah keselamatan pasca-pasaran yang ketara di bidang kuasa lain (termasuk penarikan pasaran di beberapa negara disebabkan peristiwa buruk kardiovaskular dan ginjal) — sejarah pengawalseliaan ini mesti dikaji sebelum sebarang penilaian kembali guna diteruskan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Alasan:**
+Pakej Bukti secara keseluruhan tidak lengkap — tiada ramalan TxGNN, tiada MOA, tiada data keselamatan, dan tiada teks petunjuk yang diluluskan — menjadikan mustahil untuk menilai potensi kembali guna Aprotinin pada masa ini.
+
+**Untuk diteruskan, perkara berikut diperlukan:**
+
+- **[Menyekat — DG001]** Muat turun dan urai PDF sisipan pakej TFDA untuk mengekstrak amaran, kontaindikasi, dan teks petunjuk yang diluluskan; jalankan semula pintu penurasan keselamatan peringkat S1
+- **[Tinggi — DG002]** Pertanyaan API DrugBank untuk DB06692 untuk mendapatkan mekanisme tindakan, kategori ubat, dan profil ketoksikan; gunakan ini untuk menjalankan semula pemetaan KG TxGNN
+- **[Diperlukan]** Sahkan sama ada nod DrugBank Aprotinin dengan betul hadir dalam `data/node.csv` dan `data/kg.csv`; jika hilang atau salah dikenal pasti, langkah ramalan KG akan tidak menghasilkan keluaran
+- **[Diperlukan]** Ambil butiran lesen NPRA penuh (nombor lesen, nama produk, bentuk dos, teks petunjuk) untuk kedua-dua produk berdaftar
+- **[Diperlukan]** Siasat status pengawalseliaan Aprotinin di peringkat antarabangsa (ditangguhkan/ditarik di EU dan Canada sejak 2007–2008 disebabkan penemuan percubaan BART) dan nilai sama ada pendaftaran Malaysia 2 tetap aktif dan sesuai secara klinikal
+- **[Pilihan]** Setelah MOA disahkan, sahkan secara manual sama ada Aprotinin muncul dalam sebarang kesusasteraan kembali guna (cth., anti-radang, angioedema herediter, pankreatitis) untuk melengkapi saluran paip TxGNN
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

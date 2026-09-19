@@ -29,70 +29,71 @@ Tahap bukti: **L3** | Indikasi diramal: **5**
 
 </div>
 
-# Ciprofloxacin: From Bacterial Infections to Paratyphoid Fever
+# Ciprofloxacin: Daripada Jangkitan Bakteria kepada Demam Paratifoid
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Ciprofloxacin is a broad-spectrum fluoroquinolone antibiotic originally used against a wide range of bacterial infections. The TxGNN model highlights **Paratyphoid Fever** as its top-ranked candidate indication, and while the TxGNN numerical score for this candidate is reported as 0.00% (likely a data artifact rather than a true low-confidence signal), the surrounding evidence base is unusually strong: **1 relevant clinical trial** and **20 publications**, including a Cochrane systematic review specifically on fluoroquinolones for enteric fever.
+Ciprofloxacin ialah antibiotik fluorokuinolon spektrum luas yang pada asalnya digunakan terhadap pelbagai jangkitan bakteria. Model TxGNN menonjolkan **Demam Paratifoid** sebagai calon indicasi kedudukan teratasnya, dan walaupun skor berangka TxGNN untuk calon ini dilaporkan sebagai 0.00% (berkemungkinan artefak data dan bukannya isyarat keyakinan benar-benar rendah), asas bukti sekitarnya sangat kuat: **1 percubaan klinikal yang relevan** dan **20 penerbitan**, termasuk semakan sistematik Cochrane khusus mengenai fluorokuinolon untuk demam enterik.
 
-## Quick Overview
+## Gambaran Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | Not captured in evidence pack (TFDA/NPRA license indication text is blank); ciprofloxacin is broadly known as a fluoroquinolone antibiotic indicated for various bacterial infections (e.g., urinary, respiratory, gastrointestinal) |
-| Predicted New Indication | Paratyphoid Fever |
-| TxGNN Prediction Score | 0.00% (reported value; appears inconsistent with the supporting clinical/literature evidence — flagged for data QA) |
-| Evidence Level | L3 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 42 |
-| Recommended Decision | Proceed with Guardrails |
+| Item | Kandungan |
+|------|----------|
+| Indicasi Asal | Tidak ditangkap dalam pakej bukti (teks indicasi lesen TFDA/NPRA kosong); ciprofloxacin dikenali secara luas sebagai antibiotik fluorokuinolon yang dindikasikan untuk pelbagai jangkitan bakteria (cth: saluran kencing, sistem pernafasan, gastrointestinal) |
+| Indicasi Baru yang Diramal | Demam Paratifoid |
+| Skor Ramalan TxGNN | 0.00% (nilai yang dilaporkan; nampaknya tidak konsisten dengan bukti klinikal/literatur yang menyokong — ditandakan untuk QA data) |
+| Tahap Bukti | L3 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 42 |
+| Keputusan Disyorkan | Teruskan dengan Pengawalan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data is not available in the evidence pack. Based on known pharmacology, ciprofloxacin is a fluoroquinolone that inhibits bacterial DNA gyrase and topoisomerase IV, blocking DNA replication in susceptible gram-negative and some gram-positive organisms; its efficacy across a range of bacterial infections is well established, and mechanistically it is active against *Salmonella enterica* serovar Paratyphi, the causative organism of paratyphoid fever.
+Pada masa ini, data mekanisme tindakan yang terperinci tidak tersedia dalam pakej bukti. Berdasarkan farmakoloji yang diketahui, ciprofloxacin ialah fluorokuinolon yang menghalang DNA gyrase dan topoisomerase IV bakteria, menghalang replikasi DNA dalam organisma yang peka gram-negatif dan beberapa gram-positif; keberkesan nya merentasi pelbagai jangkitan bakteria terbukti dengan baik, dan secara mekanistik ia aktif terhadap *Salmonella enterica* serovar Paratyphi, organisma penyebab demam paratifoid.
 
-Paratyphoid fever (together with typhoid fever, collectively "enteric fever") is caused by *Salmonella* species that are classically susceptible to fluoroquinolones. This is not a novel mechanistic leap from an unrelated indication — ciprofloxacin has long been used clinically as an oral single-agent treatment for enteric fever, and WHO guidance lists fluoroquinolones among recommended options where resistance patterns allow. This is corroborated by a Cochrane systematic review in the evidence pack (PMID 21975746) specifically evaluating fluoroquinolones for typhoid and paratyphoid fever, and by an older randomized trial of ciprofloxacin regimens in enteric fever (PMID 7573719).
+Demam paratifoid (bersama-sama dengan demam tifoid, secara kolektif "demam enterik") disebabkan oleh spesies *Salmonella* yang secara klasik peka terhadap fluorokuinolon. Ini bukan lompatan mekanistik novel dari indicasi yang tidak berkaitan — ciprofloxacin telah lama digunakan secara klinikal sebagai rawatan ejen tunggal oral untuk demam enterik, dan panduan WHO menyenaraikan fluorokuinolon antara pilihan yang disyorkan di mana corak rintangan membenarkan. Ini diperkokoh oleh semakan sistematik Cochrane dalam pakej bukti (PMID 21975746) yang secara khusus menilai fluorokuinolon untuk demam tifoid dan paratifoid, dan oleh percubaan rawak yang lebih lama bagi rejimen ciprofloxacin dalam demam enterik (PMID 7573719).
 
-The main caveat raised repeatedly across the literature is emerging fluoroquinolone resistance in *Salmonella* Typhi/Paratyphi, particularly in South Asia, which limits ciprofloxacin's reliability as first-line therapy in some regions and should be factored into any local positioning of this indication.
+Kaveat utama yang dinaikkan berulang kali merentasi literatur ialah rintangan fluorokuinolon yang muncul dalam *Salmonella* Typhi/Paratyphi, terutamanya di Asia Selatan, yang mengehadkan kebolehpercayaan ciprofloxacin sebagai terapi garis pertama dalam beberapa kawasan dan harus dipertimbangkan dalam sebarang kedudukan tempatan indicasi ini.
 
-## Clinical Trial Evidence
+## Bukti Percubaan Klinikal
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT04349826](https://clinicaltrials.gov/study/NCT04349826) | Phase 4 | Completed | 2150 | Compared azithromycin+cefixime vs. azithromycin alone for outpatient treatment of suspected/confirmed uncomplicated typhoid fever in South Asia; background notes ciprofloxacin as one of the established single-agent oral options for enteric fever, though the trial itself did not test ciprofloxacin as an arm. |
+| [NCT04349826](https://clinicaltrials.gov/study/NCT04349826) | Fasa 4 | Selesai | 2150 | Membandingkan azithromycin+cefixime vs. azithromycin sahaja untuk rawatan pesakit luar yang disyaki/disahkan demam tifoid yang tidak rumit di Asia Selatan; catatan latar belakang ciprofloxacin sebagai salah satu pilihan ejen tunggal oral yang ditubuhkan untuk demam enterik, walaupun percubaan itu sendiri tidak menguji ciprofloxacin sebagai cabang. |
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [7573719](https://pubmed.ncbi.nlm.nih.gov/7573719/) | 1995 | RCT | Am J Trop Med Hyg | Randomized comparison of 10-day vs. 14-day ciprofloxacin regimens in 69 enteric fever patients (52% MDR strains); similar time to defervescence in both arms. |
-| [21975746](https://pubmed.ncbi.nlm.nih.gov/21975746/) | 2011 | Systematic Review (Cochrane) | Cochrane Database Syst Rev | Reviews fluoroquinolones (including ciprofloxacin) for typhoid/paratyphoid fever, per WHO recommendations in areas with resistance to older first-line agents. |
-| [36420914](https://pubmed.ncbi.nlm.nih.gov/36420914/) | 2022 | Systematic Review (Cochrane) | Cochrane Database Syst Rev | Evaluates cephalosporins for enteric fever; notes WHO recommends azithromycin, ciprofloxacin, or ceftriaxone given widespread resistance to older agents, with regional fluoroquinolone resistance limiting ciprofloxacin use in South Asia. |
-| [40914181](https://pubmed.ncbi.nlm.nih.gov/40914181/) | 2025 | Review | Lancet | Comprehensive overview of enteric fever epidemiology, transmission, clinical course, and complications. |
-| [16271634](https://pubmed.ncbi.nlm.nih.gov/16271634/) | 2005 | Review | Lancet | General review of typhoid and paratyphoid fever. |
-| [16271635](https://pubmed.ncbi.nlm.nih.gov/16271635/) | 2005 | Review | Lancet | General review of typhoid and paratyphoid fever (companion article). |
-| [40934281](https://pubmed.ncbi.nlm.nih.gov/40934281/) | 2025 | Genomic/Surveillance | PLoS Negl Trop Dis | Documents a marked rise in domestically acquired paratyphoid fever (*S.* Paratyphi A) in Taiwan since 2022, with genomic investigation of transmission routes. |
-| [35871037](https://pubmed.ncbi.nlm.nih.gov/35871037/) | 2022 | Retrospective Cohort | J Formos Med Assoc | Reviews 37 indigenous/imported enteric fever cases (including 13 paratyphoid) at two Taiwan medical centers, 2010–2020. |
-| [32050286](https://pubmed.ncbi.nlm.nih.gov/32050286/) | 2020 | Review | Z Gastroenterol | Overview of typhoid/paratyphoid fever diagnosis and management, noting near-exclusive acquisition outside Europe. |
-| [38387472](https://pubmed.ncbi.nlm.nih.gov/38387472/) | 2024 | Observational | Lancet Microbe | Investigates the relationship between ciprofloxacin prescribing and emerging non-susceptibility in *Salmonella* Typhi in Malawi — a key resistance-risk signal for this indication. |
+| [7573719](https://pubmed.ncbi.nlm.nih.gov/7573719/) | 1995 | RCT | Am J Trop Med Hyg | Perbandingan rawak bagi rejimen ciprofloxacin 10 hari vs. 14 hari dalam 69 pesakit demam enterik (52% strain MDR); masa defervescence serupa dalam kedua-dua cabang. |
+| [21975746](https://pubmed.ncbi.nlm.nih.gov/21975746/) | 2011 | Semakan Sistematik (Cochrane) | Cochrane Database Syst Rev | Mengulas fluorokuinolon (termasuk ciprofloxacin) untuk demam tifoid/paratifoid, mengikut cadangan WHO di kawasan dengan rintangan kepada ejen garis pertama lebih lama. |
+| [36420914](https://pubmed.ncbi.nlm.nih.gov/36420914/) | 2022 | Semakan Sistematik (Cochrane) | Cochrane Database Syst Rev | Menilai sefalosporin untuk demam enterik; ambil perhatian WHO mengesyorkan azithromycin, ciprofloxacin, atau ceftriaxone memandangkan rintangan meluas terhadap ejen lebih lama, dengan rintangan fluorokuinolon serantau mengehadkan penggunaan ciprofloxacin di Asia Selatan. |
+| [40914181](https://pubmed.ncbi.nlm.nih.gov/40914181/) | 2025 | Semakan | Lancet | Gambaran keseluruhan epidemiologi demam enterik, penghantaran, perjalanan klinikal, dan komplikasi. |
+| [16271634](https://pubmed.ncbi.nlm.nih.gov/16271634/) | 2005 | Semakan | Lancet | Semakan umum demam tifoid dan paratifoid. |
+| [16271635](https://pubmed.ncbi.nlm.nih.gov/16271635/) | 2005 | Semakan | Lancet | Semakan umum demam tifoid dan paratifoid (artikel pendamping). |
+| [40934281](https://pubmed.ncbi.nlm.nih.gov/40934281/) | 2025 | Genomik/Pengawasan | PLoS Negl Trop Dis | Mendokumentasikan peningkatan yang ketara dalam demam paratifoid yang diperoleh secara domestik (*S.* Paratyphi A) di Taiwan sejak 2022, dengan penyiasatan genomik bagi laluan penghantaran. |
+| [35871037](https://pubmed.ncbi.nlm.nih.gov/35871037/) | 2022 | Kohort Retrospektif | J Formos Med Assoc | Mengulas 37 kes demam enterik berasli/diimport (termasuk 13 paratifoid) di dua pusat perubatan Taiwan, 2010–2020. |
+| [32050286](https://pubmed.ncbi.nlm.nih.gov/32050286/) | 2020 | Semakan | Z Gastroenterol | Gambaran keseluruhan diagnosis dan pengurusan demam tifoid/paratifoid, dengan catatan perolehan hampir eksklusif di luar Eropah. |
+| [38387472](https://pubmed.ncbi.nlm.nih.gov/38387472/) | 2024 | Pemerhatian | Lancet Microbe | Menyiasat hubungan antara prescribing ciprofloxacin dan non-susceptibility yang muncul dalam *Salmonella* Typhi di Malawi — isyarat risiko rintangan utama untuk indicasi ini. |
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk risalah pakej untuk maklumat keselamatan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Proceed with Guardrails**
+**Keputusan: Teruskan dengan Pengawalan**
 
-**Rationale:**
-Ciprofloxacin's use in paratyphoid/enteric fever is supported by a Cochrane systematic review and direct randomized trial data, and reflects an already well-established clinical role rather than a mechanistically speculative repurposing — but the reported TxGNN score (0.00%) is inconsistent with this evidence and should be reconciled, and multiple sources flag rising fluoroquinolone resistance as a material constraint on efficacy.
+**Alasan:**
+Penggunaan ciprofloxacin dalam demam paratifoid/enterik disokong oleh semakan sistematik Cochrane dan data percubaan rawak langsung, dan mencerminkan peranan klinikal yang sudah ditubuhkan dengan baik dan bukannya repurposing yang secara mekanistik spekulatif — tetapi skor TxGNN yang dilaporkan (0.00%) tidak konsisten dengan bukti ini dan harus diselaraskan, dan pelbagai sumber menandakan rintangan fluorokuinolon yang meningkat sebagai kekangan material pada kebehasilan.
 
-**To proceed, the following is needed:**
-- Resolve DG001 (Blocking): obtain TFDA/NPRA package insert warnings and contraindications before any S1 safety assessment
-- Resolve DG002 (High): obtain confirmed mechanism-of-action data from DrugBank
-- Confirm whether existing Malaysia product licenses already cover enteric/paratyphoid fever in their approved indication text (license data was not populated in this evidence pack)
-- Investigate the apparent TxGNN score anomaly (0.00% despite supporting SR/RCT evidence) before using it in decision scoring
-- Assess local/regional fluoroquinolone resistance data for *Salmonella* Paratyphi before recommending first-line use
+**Untuk teruskan, perkara berikut diperlukan:**
+- Selesaikan DG001 (Menghalang): dapatkan amaran paket TFDA/NPRA dan kontraindikasi sebelum sebarang penilaian keselamatan S1
+- Selesaikan DG002 (Tinggi): dapatkan data mekanisme tindakan yang disahkan daripada DrugBank
+- Sahkan sama ada lesen produk Malaysia yang sedia ada sudah menutup demam enterik/paratifoid dalam teks indicasi yang diluluskan mereka (data lesen tidak diisi dalam pakej bukti ini)
+- Siasat anomali skor TxGNN yang nampaknya (0.00% walaupun bukti SR/RCT yang menyokong) sebelum menggunakannya dalam scoring keputusan
+- Nilaikan data rintangan fluorokuinolon tempatan/serantau untuk *Salmonella* Paratyphi sebelum mengesyorkan penggunaan garis pertama
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

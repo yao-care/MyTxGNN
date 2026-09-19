@@ -29,97 +29,98 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-# Ethinylestradiol: From Hormonal Contraception to Acne
+# Ethinylestradiol: Daripada Kontrasepsi Hormon kepada Jerawat
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Ethinylestradiol is a synthetic estrogen used as the estrogenic component of combined hormonal contraceptive products marketed in Malaysia. The TxGNN model predicts it may also be effective for **Acne**, with **20 clinical trials** and **20 publications** currently supporting this direction — the strongest evidence tier (L1) among the five predicted indications in this evidence pack.
+Ethinylestradiol ialah estrogen sintetik yang digunakan sebagai komponen estrogenik produk kontrasepsi hormon gabungan yang dipasarkan di Malaysia. Model TxGNN meramalkan ia mungkin juga berkesan untuk **Jerawat**, dengan **20 percubaan klinikal** dan **20 penerbitan** yang kini menyokong arah ini — peringkat bukti terkuat (L1) di antara lima petunjukan yang diramalkan dalam pakej bukti ini.
 
 ---
 
-## Quick Overview
+## Panduan Ringkas
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Combined hormonal contraception (component of combined oral contraceptives); NPRA-specific label indication text not retrieved in this extract |
-| Predicted New Indication | Acne |
-| TxGNN Prediction Score | 0.00% |
-| Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 27 |
-| Recommended Decision | Proceed with Guardrails |
+| Petunjukan Asal | Kontrasepsi hormon gabungan (komponen kontraseptif oral gabungan); teks petunjukan label khusus NPRA tidak diambil dalam ekstrak ini |
+| Petunjukan Baru Diramalkan | Jerawat |
+| Skor Ramalan TxGNN | 0.00% |
+| Peringkat Bukti | L1 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 27 |
+| Keputusan yang Disyorkan | Teruskan dengan Garis Panduan |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data for ethinylestradiol itself is not available (data gap). Based on known information, ethinylestradiol is the synthetic estrogen component of many combined oral contraceptives (e.g., with norgestimate, drospirenone, or cyproterone acetate), and its role in contraception is well established.
+Pada masa kini, data mekanisme tindakan terperinci untuk ethinylestradiol sendiri tidak tersedia (jurang data). Berdasarkan maklumat yang diketahui, ethinylestradiol ialah komponen estrogen sintetik bagi banyak kontraseptif oral gabungan (cth., dengan norgestimate, drospirenone, atau cyproterone acetate), dan peranannya dalam kontrasepsi telah ditegakkan dengan baik.
 
-Mechanistically, combined ethinylestradiol/progestin formulations raise sex hormone-binding globulin (SHBG), lower free testosterone, and suppress ovarian and adrenal androgen secretion — reducing sebaceous gland activity and sebum production. This antiandrogenic pathway is the same one exploited for acne treatment, and it explains why several ethinylestradiol combinations (EE/norgestimate, EE/drospirenone, EE/cyproterone acetate) are already approved by FDA/EMA specifically for acne vulgaris.
+Secara mekanistik, formulasi ethinylestradiol/progestin gabungan meningkatkan globulin pengikat hormon seks (SHBG), menurunkan testosteron bebas, dan menindas sekresi androgen ovari dan adrenal — mengurangkan aktiviti kelenjar sebasea dan pengeluaran sebum. Laluan antiandrogenik ini adalah sama seperti yang dieksploitasi untuk rawatan jerawat, dan ia menjelaskan mengapa beberapa kombinasi ethinylestradiol (EE/norgestimate, EE/drospirenone, EE/cyproterone acetate) telah diluluskan oleh FDA/EMA khusus untuk jerawat vulgaris.
 
-Because the original indication (hormonal contraception) and the predicted indication (acne) share the identical hormonal mechanism, this is not a novel biological hypothesis but rather an extension of an already-established drug class effect — supporting the plausibility of the TxGNN prediction.
+Kerana petunjukan asal (kontrasepsi hormon) dan petunjukan yang diramalkan (jerawat) berkongsi mekanisme hormon yang sama, ini bukan hipotesis biologi yang baru tetapi sebaliknya lanjutan bagi kesan kelas ubat yang telah ditegakkan — menyokong kebolehterimaan ramalan TxGNN.
 
 ---
 
-## Clinical Trial Evidence
+## Bukti Percubaan Klinikal
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT00818519](https://clinicaltrials.gov/study/NCT00818519) | Phase 3 | Completed | 179 | Multicenter, double-blind, placebo-controlled RCT of YAZ (drospirenone 3mg/EE 20µg) over 6 cycles in women with moderate acne; highest-quality trial in this dataset. |
-| [NCT00752635](https://clinicaltrials.gov/study/NCT00752635) | Phase 4 | Completed | 48 | Compared Tricilest (norgestimate-EE) vs Diane-35 (cyproterone acetate-EE) for moderate acne vulgaris. |
-| [NCT01466673](https://clinicaltrials.gov/study/NCT01466673) | Phase 4 | Completed | 201 | Head-to-head comparison of EE/norgestimate (triphasic) vs EE/desogestrel (biphasic) for mild-to-moderate acne vulgaris. |
-| [NCT00651469](https://clinicaltrials.gov/study/NCT00651469) | Phase 3 | Completed | 534 | Multicenter, double-blind, placebo-controlled RCT of drospirenone 3mg/EE 20µg over 6 cycles in moderate acne vulgaris. |
-| [NCT00656981](https://clinicaltrials.gov/study/NCT00656981) | Phase 3 | Completed | 541 | Companion multicenter, double-blind, placebo-controlled RCT of the same drospirenone/EE regimen for moderate acne vulgaris. |
-| [NCT00280657](https://clinicaltrials.gov/study/NCT00280657) | Phase 3 | Completed | 1326 | Double-blind, double-dummy RCT over 6 cycles for acne papulopustulosa; largest enrollment in the dataset. |
-| [NCT02710708](https://clinicaltrials.gov/study/NCT02710708) | Phase 4 | Completed | 1921 | Post-authorization safety and efficacy study of YAZ (24/4 regimen) in Chinese women, with moderate acne efficacy as a secondary endpoint. |
-| [NCT00480532](https://clinicaltrials.gov/study/NCT00480532) | N/A | Completed | 131 | Evaluated doxycycline added to continuous combined OC (EE + progestin); acne referenced as a related condition, not a clean EE-only comparison. |
-| [NCT01850095](https://clinicaltrials.gov/study/NCT01850095) | N/A | Unknown | 60 | Mechanistic study of peripheral androgen conversion and TLR-2/CD1d expression in keratinocytes after 6 months of OC treatment; supports mechanism, not clinical efficacy. |
-| [NCT00722761](https://clinicaltrials.gov/study/NCT00722761) | Phase 3 | Completed | 30 | Randomized, double-blind, placebo-controlled study of YAZ for moderate truncal acne vulgaris. |
+| [NCT00818519](https://clinicaltrials.gov/study/NCT00818519) | Fasa 3 | Selesai | 179 | Kajian RCT berbilang pusat, buta ganda, terkawal plasebo bagi YAZ (drospirenone 3mg/EE 20µg) selama 6 kitaran pada wanita dengan jerawat sederhana; percubaan berkualiti tertinggi dalam dataset ini. |
+| [NCT00752635](https://clinicaltrials.gov/study/NCT00752635) | Fasa 4 | Selesai | 48 | Membandingkan Tricilest (norgestimate-EE) vs Diane-35 (cyproterone acetate-EE) untuk jerawat vulgaris sederhana. |
+| [NCT01466673](https://clinicaltrials.gov/study/NCT01466673) | Fasa 4 | Selesai | 201 | Perbandingan kepala-ke-kepala EE/norgestimate (trifasa) vs EE/desogestrel (bifasa) untuk jerawat vulgaris ringan hingga sederhana. |
+| [NCT00651469](https://clinicaltrials.gov/study/NCT00651469) | Fasa 3 | Selesai | 534 | Kajian RCT berbilang pusat, buta ganda, terkawal plasebo bagi drospirenone 3mg/EE 20µg selama 6 kitaran dalam jerawat vulgaris sederhana. |
+| [NCT00656981](https://clinicaltrials.gov/study/NCT00656981) | Fasa 3 | Selesai | 541 | Kajian RCT berbilang pusat, buta ganda, terkawal plasebo pengiringan bagi rejimen drospirenone/EE yang sama untuk jerawat vulgaris sederhana. |
+| [NCT00280657](https://clinicaltrials.gov/study/NCT00280657) | Fasa 3 | Selesai | 1326 | Kajian RCT buta ganda, dwi-plasebo selama 6 kitaran untuk jerawat papulopustulosa; pendaftaran terbesar dalam dataset. |
+| [NCT02710708](https://clinicaltrials.gov/study/NCT02710708) | Fasa 4 | Selesai | 1921 | Kajian keselamatan dan keberkesanan pasca-kebenaran YAZ (rejimen 24/4) pada wanita Cina, dengan keberkesanan jerawat sederhana sebagai titik akhir sekunder. |
+| [NCT00480532](https://clinicaltrials.gov/study/NCT00480532) | T/A | Selesai | 131 | Menilai doxycycline ditambah OC gabungan berterusan (EE + progestin); jerawat dirujuk sebagai keadaan yang berkaitan, bukan perbandingan EE sahaja yang bersih. |
+| [NCT01850095](https://clinicaltrials.gov/study/NCT01850095) | T/A | Tidak Diketahui | 60 | Kajian mekanistik penukaran androgen periferi dan ekspresi TLR-2/CD1d dalam keratinosit selepas 6 bulan rawatan OC; menyokong mekanisme, bukan keberkesanan klinikal. |
+| [NCT00722761](https://clinicaltrials.gov/study/NCT00722761) | Fasa 3 | Selesai | 30 | Kajian rawak, buta ganda, terkawal plasebo bagi YAZ untuk jerawat vulgaris batang sederhana. |
 
 ---
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [21212911](https://pubmed.ncbi.nlm.nih.gov/21212911/) | 2011 | RCT | Saudi Medical Journal | Compared desogestrel+EE vs levonorgestrel+EE (2nd vs 3rd generation OCs) on acne, hirsutism, and weight change. |
-| [40949888](https://pubmed.ncbi.nlm.nih.gov/40949888/) | 2025 | RCT/Cohort | Int J Women's Dermatology | Evaluated EE 20µg/dienogest 2mg for mild-to-moderate acne vulgaris and its psychological effects in young university women. |
-| [140576](https://pubmed.ncbi.nlm.nih.gov/140576/) | 1976 | Clinical study | Acta Europaea Fertilitatis | Treated 175 women with hirsutism/acne using two cyproterone acetate + EE combinations across 1,534 treatment cycles. |
-| [34919250](https://pubmed.ncbi.nlm.nih.gov/34919250/) | 2021 | RCT | Eur Rev Med Pharmacol Sci | Follow-up comparison of Myo-Inositol vs oral contraceptives in lean PCOS teenagers with acne, hirsutism, and menstrual irregularity. |
-| [17683173](https://pubmed.ncbi.nlm.nih.gov/17683173/) | 2007 | Review | Drugs | Reviewed drospirenone 3mg/EE 20µg (24/4 regimen) use in contraception, PMDD, and moderate acne vulgaris. |
-| [18389090](https://pubmed.ncbi.nlm.nih.gov/18389090/) | 2008 | Review | Drugs of Today | Reviewed drospirenone/EE dosing regimen combining low EE dose with antiandrogenic drospirenone. |
-| [21175386](https://pubmed.ncbi.nlm.nih.gov/21175386/) | 2011 | Review | Women's Health (London) | Reviewed efficacy and noncontraceptive benefits of drospirenone/EE, including antiandrogenic effects relevant to acne. |
-| [32404240](https://pubmed.ncbi.nlm.nih.gov/32404240/) | 2020 | Review | Actas Dermo-Sifiliográficas | Reviewed oral contraceptive use in dermatology for acne and hyperandrogenism-related skin conditions. |
-| [36986218](https://pubmed.ncbi.nlm.nih.gov/36986218/) | 2023 | Cohort | Nutrients | Evaluated metabolic/dietary factors in acne vulgaris and OC-based therapy outcomes in young adult women. |
-| [18840013](https://pubmed.ncbi.nlm.nih.gov/18840013/) | 2008 | Phase IV study | Clinical Drug Investigation | Investigated chlormadinone 2mg/EE 0.03mg (Belara) effects on acne-prone facial skin physiology across age groups. |
+| [21212911](https://pubmed.ncbi.nlm.nih.gov/21212911/) | 2011 | RCT | Saudi Medical Journal | Membandingkan desogestrel+EE vs levonorgestrel+EE (OC generasi 2 vs 3) pada jerawat, hirsutisme, dan perubahan berat badan. |
+| [40949888](https://pubmed.ncbi.nlm.nih.gov/40949888/) | 2025 | RCT/Kohort | Int J Women's Dermatology | Menilai EE 20µg/dienogest 2mg untuk jerawat vulgaris ringan hingga sederhana dan kesan psikologikalnya pada wanita universiti muda. |
+| [140576](https://pubmed.ncbi.nlm.nih.gov/140576/) | 1976 | Kajian klinikal | Acta Europaea Fertilitatis | Merawat 175 wanita dengan hirsutisme/jerawat menggunakan dua kombinasi cyproterone acetate + EE merentasi 1,534 kitaran rawatan. |
+| [34919250](https://pubmed.ncbi.nlm.nih.gov/34919250/) | 2021 | RCT | Eur Rev Med Pharmacol Sci | Perbandingan susulan Myo-Inositol vs kontraseptif oral pada remaja PCOS ramping dengan jerawat, hirsutisme, dan ketidakteraturan menstruasi. |
+| [17683173](https://pubmed.ncbi.nlm.nih.gov/17683173/) | 2007 | Kajian Semula | Drugs | Menyemak penggunaan drospirenone 3mg/EE 20µg (rejimen 24/4) dalam kontrasepsi, PMDD, dan jerawat vulgaris sederhana. |
+| [18389090](https://pubmed.ncbi.nlm.nih.gov/18389090/) | 2008 | Kajian Semula | Drugs of Today | Menyemak rejimen dos drospirenone/EE menggabungkan dos EE rendah dengan drospirenone antiandrogenik. |
+| [21175386](https://pubmed.ncbi.nlm.nih.gov/21175386/) | 2011 | Kajian Semula | Women's Health (London) | Menyemak keberkesanan dan manfaat bukan-kontraseptif drospirenone/EE, termasuk kesan antiandrogenik yang relevan dengan jerawat. |
+| [32404240](https://pubmed.ncbi.nlm.nih.gov/32404240/) | 2020 | Kajian Semula | Actas Dermo-Sifiliográficas | Menyemak penggunaan kontraseptif oral dalam dermatologi untuk jerawat dan keadaan kulit berkaitan hiperandrogenik. |
+| [36986218](https://pubmed.ncbi.nlm.nih.gov/36986218/) | 2023 | Kohort | Nutrients | Menilai faktor metabolik/pemakanan dalam jerawat vulgaris dan hasil terapi berasaskan OC pada wanita dewasa muda. |
+| [18840013](https://pubmed.ncbi.nlm.nih.gov/18840013/) | 2008 | Kajian Fasa IV | Clinical Drug Investigation | Menyiasat kesan chlormadinone 2mg/EE 0.03mg (Belara) pada fisiologi kulit wajah yang terdedah jerawat merentas kumpulan umur. |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-NPRA records confirm the drug is marketed with **27 active registrations**, but the registry extract for this evidence pack did not return usable license-level detail — license number, product name, dosage form, manufacturer, and approved indication text are all blank for the retrieved entries. This should be re-queried before relying on it for regulatory decisions.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
+Rekod NPRA mengesahkan ubat dipasarkan dengan **27 pendaftaran aktif**, tetapi ekstrak pendaftar untuk pakej bukti ini tidak mengembalikan butiran peringkat lesen yang boleh digunakan — nombor lesen, nama produk, bentuk dos, pengeluar, dan teks petunjukan yang diluluskan semuanya kosong untuk entri yang diambil. Ini harus ditanya semula sebelum bergantung padanya untuk keputusan kawal selia.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Proceed with Guardrails**
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-**Rationale:**
-Multiple Phase 3, placebo-controlled RCTs (including two large N=500+ trials and one N=1,326 trial) directly support the efficacy of ethinylestradiol-containing combined oral contraceptives for moderate acne vulgaris, and several EE combinations already carry FDA/EMA-approved acne indications — giving this candidate the highest evidence level (L1) among the five predicted indications. However, a **Blocking** data gap on NPRA label warnings/contraindications (DG001) means safety review (S1) cannot yet be completed.
+---
 
-**To proceed, the following is needed:**
-- NPRA package insert data — warnings and contraindications (DG001, Blocking)
-- Detailed mechanism of action documentation for ethinylestradiol (DG002)
-- Malaysia-specific product license details (license number, product name, indication text — currently blank in registry extract)
-- Drug-drug interaction data (current DDI query returned no results)
-- VTE/cardiovascular risk assessment specific to acne-indication dosing in the Malaysian population
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Teruskan dengan Garis Panduan**
+
+**Rasional:**
+Berbilang RCT berfasa 3, terkawal plasebo (termasuk dua percubaan besar N=500+ dan satu percubaan N=1,326) secara langsung menyokong keberkesanan kontraseptif oral gabungan yang mengandungi ethinylestradiol untuk jerawat vulgaris sederhana, dan beberapa kombinasi EE sudah membawa petunjukan jerawat yang diluluskan FDA/EMA — memberikan calon ini peringkat bukti tertinggi (L1) di antara lima petunjukan yang diramalkan. Walau bagaimanapun, jurang data **Pemblokiran** tentang amaran label NPRA/kontraindikasi (DG001) bermakna kajian keselamatan (S1) belum dapat diselesaikan.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Data sisipan pakej NPRA — amaran dan kontraindikasi (DG001, Pemblokiran)
+- Dokumentasi mekanisme tindakan terperinci untuk ethinylestradiol (DG002)
+- Butiran lesen produk khusus Malaysia (nombor lesen, nama produk, teks petunjukan — kini kosong dalam ekstrak pendaftar)
+- Data interaksi ubat-ubat (pertanyaan DDI semasa tidak mengembalikan keputusan)
+- Penilaian risiko VTE/kardiovaskular khusus untuk dos petunjukan jerawat dalam populasi Malaysia
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

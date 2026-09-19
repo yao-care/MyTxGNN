@@ -29,69 +29,70 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Benzocaine: From Local Anaesthesia to Papillary Conjunctivitis
+# Benzocaine: Dari Anestesi Lokal ke Konjunktivitis Papilaris
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Benzocaine is an ester-type local anaesthetic widely used for temporary pain relief of mucosal and skin surfaces.
-The TxGNN model predicts it may be effective for **Papillary Conjunctivitis**,
-however there are currently **no clinical trials** and **no publications** supporting this direction, making the evidence base extremely limited.
+Benzocaine ialah anestesi lokal jenis ester yang digunakan secara meluas untuk pelepasan nyeri sementara di permukaan mukosa dan kulit.
+Model TxGNN meramalkan ia mungkin berkesan untuk **Konjunktivitis Papilaris**,
+namun pada masa kini **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong arah ini, menjadikan asas bukti sangat terhad.
 
-## Quick Overview
+## Ikhtisar Cepat
 
-| Item | Content |
-|------|------|
-| Original Indication | Local anaesthesia (topical pain relief) |
-| Predicted New Indication | Papillary Conjunctivitis |
-| TxGNN Prediction Score | 99.38% |
-| Evidence Level | L5 — Model prediction only, no actual studies |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 6 |
-| Recommended Decision | **Hold** |
+| Item | Kandungan |
+|------|-----------|
+| Petunjuk Asal | Anestesi lokal (pelepasan nyeri topikal) |
+| Petunjuk Baharu Diramalkan | Konjunktivitis Papilaris |
+| Skor Ramalan TxGNN | 99.38% |
+| Tahap Bukti | L5 — Ramalan model sahaja, tiada kajian sebenar |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 6 |
+| Keputusan yang Disyorkan | **Tahan** |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Benzocaine is an ester-type local anaesthetic that works by blocking voltage-gated sodium channels (Na⁺ channels), thereby inhibiting nerve impulse conduction and providing temporary numbing of the applied area. It is commonly found in topical formulations such as lozenges, sprays, gels, and ointments for mucosal and skin pain relief.
+Benzocaine ialah anestesi lokal jenis ester yang berfungsi dengan menyekat saluran natrium (saluran Na⁺) yang digerakkan oleh voltan, dengan demikian menghalang penghantaran impuls saraf dan memberikan pembiusan sementara pada kawasan yang digunakan. Ia biasanya ditemui dalam formulasi topikal seperti lozenges, semburan, gel, dan salap untuk pelepasan nyeri mukosa dan kulit.
 
-Papillary conjunctivitis is an allergic inflammatory condition of the conjunctiva, primarily driven by mast cell degranulation and Type I/IV hypersensitivity reactions. While local anaesthetics at high concentrations have been shown to exhibit weak anti-inflammatory properties — including inhibition of neutrophil activation and reduction of inflammatory mediator release — this mechanism has extremely low relevance to the core pathology of papillary conjunctivitis, which is fundamentally an allergic-inflammatory process.
+Konjunktivitis papilaris ialah keadaan peradangan alahan konjunktiva, yang didorong terutamanya oleh degranulasi sel mast dan tindak balas hipersensitiviti Jenis I/IV. Walaupun anestesi lokal pada kepekatan tinggi telah terbukti mempamerkan sifat anti-radang yang lemah — termasuk perencatan pengaktifan neutrofil dan pengurangan pelepasan mediator radang — mekanisme ini mempunyai kaitan yang sangat rendah dengan patologi teras konjunktivitis papilaris, yang pada dasarnya adalah proses alahan-peradangan.
 
-Critically, Benzocaine is **not an ophthalmic-approved drug**. Its application to the eye would raise significant safety concerns, including potential corneal epithelial toxicity and delayed wound healing. The mechanistic link between sodium channel blockade and allergic conjunctival inflammation is tenuous at best. This prediction, while algorithmically high-scoring, lacks biological plausibility for clinical translation.
+Secara kritikal, Benzocaine **bukanlah ubat yang diluluskan oftalmik**. Aplikasinya ke mata akan menimbulkan kebimbangan keselamatan yang ketara, termasuk potensi toksisiti epitelium kornea dan penyembuhan luka yang tertangguh. Pautan mekanis antara penyekatan saluran natrium dan peradangan alahan konjunktiva sangat lemah sebaliknya. Ramalan ini, walaupun mempunyai skor algoritma yang tinggi, kekurangan kredibiliti biologi untuk terjemahan klinikal.
 
-## Clinical Trial Evidence
+## Bukti Percubaan Klinikal
 
-Currently no related clinical trials registered.
+Pada masa kini tiada percubaan klinikal berkaitan yang didaftarkan.
 
-## Literature Evidence
+## Bukti Sastera
 
-Currently no related literature available.
+Pada masa kini tiada sastera berkaitan yang tersedia.
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Registration details for the 6 authorisations are currently unavailable in the evidence pack. Benzocaine is confirmed as marketed in Malaysia across multiple registrations. Detailed product-level information (authorisation numbers, product names, dosage forms, and approved indications) should be obtained from the NPRA database for completeness.
+Butir-butir pendaftaran untuk 6 kebenaran pada masa kini tidak tersedia dalam pakej bukti. Benzocaine disahkan sebagai dipasarkan di Malaysia merentasi berbilang pendaftaran. Maklumat peringkat produk yang terperinci (nombor kebenaran, nama produk, bentuk dos, dan petunjuk yang diluluskan) harus diperoleh daripada pangkalan data NPRA untuk kesempurnaan.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-> **Note:** Key warnings, contraindications, and drug interaction data were not available in this evidence pack. A complete safety profile should be obtained from the product package insert and the NPRA/DrugBank databases before any further evaluation.
+> **Nota:** Data amaran utama, kontraindikasi, dan interaksi ubat tidak tersedia dalam pakej bukti ini. Profil keselamatan yang lengkap harus diperoleh daripada sisipan pakej produk dan pangkalan data NPRA/DrugBank sebelum sebarang penilaian lanjutan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-There is no clinical or preclinical evidence supporting the use of Benzocaine for papillary conjunctivitis. The mechanistic link is extremely weak — sodium channel blockade does not address allergic inflammatory pathology. Furthermore, Benzocaine is not formulated or approved for ophthalmic use, raising significant route-of-administration and safety concerns. The high TxGNN prediction score alone is insufficient to advance this candidate.
+**Rasional:**
+Tidak ada bukti klinikal atau praklinik yang menyokong penggunaan Benzocaine untuk konjunktivitis papilaris. Pautan mekanis sangat lemah — penyekatan saluran natrium tidak menangani patologi peradangan alahan. Tambahan pula, Benzocaine tidak dirumuskan atau diluluskan untuk penggunaan oftalmik, menimbulkan kebimbangan rute pentadbiran dan keselamatan yang ketara. Skor ramalan TxGNN yang tinggi sahaja tidak mencukupi untuk memajukan calon ini.
 
-**To proceed, the following would be needed:**
-- Preclinical evidence demonstrating anti-inflammatory activity of Benzocaine in ocular allergy models
-- A viable ophthalmic formulation with an acceptable safety profile (corneal toxicity assessment)
-- Detailed mechanism of action data (MOA) linking sodium channel blockade to allergic conjunctival inflammation
-- Complete safety data including package insert warnings and contraindications
-- At minimum one observational study or case series suggesting benefit before escalating to clinical trials
+**Untuk meneruskan, perkara berikut akan diperlukan:**
+- Bukti praklinik yang menunjukkan aktiviti anti-radang Benzocaine dalam model alahan okular
+- Rumusan oftalmik yang berdaya maju dengan profil keselamatan yang boleh diterima (penilaian toksisiti kornea)
+- Data mekanisme tindakan terperinci (MOA) yang menghubungkan penyekatan saluran natrium kepada peradangan alahan konjunktiva
+- Data keselamatan lengkap termasuk amaran sisipan pakej dan kontraindikasi
+- Sekurang-kurangnya satu kajian pemerhatian atau siri kes yang mencadangkan manfaat sebelum meningkatkan ke percubaan klinikal
 
 ---
 
-*Disclaimer: This report is for research purposes only and does not constitute medical advice. Drug repurposing candidates require clinical validation before application.*
+*Penafian: Laporan ini adalah untuk tujuan penyelidikan sahaja dan tidak merupakan nasihat perubatan. Calon penyusunan semula ubat memerlukan pengesahan klinikal sebelum aplikasi.*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

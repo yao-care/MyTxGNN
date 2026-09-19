@@ -29,101 +29,96 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-Using the report template's own instructions directly (no other skill matches — this is a self-contained report-writing task, not TxGNN pipeline engineering, and the evidence pack is already provided in full).
+# Durvalumab: Daripada Penggunaan Onkologi Sedia Ada kepada Karsinoma Urothelial Uretra Prostat
 
-A few things worth flagging before the report: the evidence pack itself has significant gaps — `original_indications` is empty, `original_moa` is `[Data Gap]`, the single Malaysia license record has all fields blank, and the safety fields are all Data Gap / not_found. Per your instructions I won't guess at facts not in the pack (e.g., I won't assert a specific TFDA/NPRA-approved original indication that isn't in the data), but I will use the mechanistic class information ("anti-PD-L1 monoclonal antibody") that *is* explicitly present in the `repurposing_rationale.mechanistic_link` text, since that's sourced data, not invention.
+## Ringkasan Satu Ayat
 
----
-
-# Durvalumab: From Existing Oncology Use to Prostatic Urethra Urothelial Carcinoma
-
-## One-Sentence Summary
-
-Durvalumab is an anti-PD-L1 monoclonal antibody used in oncology, but this evidence pack does not contain a documented original indication (regulatory indication text is missing — see Data Gap DG001). The TxGNN model predicts it may be effective for **prostatic urethra urothelial carcinoma**, an anatomical subtype of urothelial carcinoma, but this specific candidate currently has **0 clinical trials** and **0 publications** directly supporting it — the rationale is drawn entirely by analogy to the broader urothelial carcinoma tumor family.
+Durvalumab ialah antibodi monoklonal anti-PD-L1 yang digunakan dalam onkologi, tetapi pakej bukti ini tidak mengandungi indikasi asal yang didokumentasikan (teks indikasi peraturan hilang — lihat Jurang Data DG001). Model TxGNN meramal ia mungkin berkesan untuk **karsinoma urothelial uretra prostat**, subtipe anatomi karsinoma urothelial, tetapi calon khusus ini kini mempunyai **0 ujian klinikal** dan **0 penerbitan** yang menyokongnya secara langsung — rasional diperolehi sepenuhnya melalui analogi kepada keluarga tumor karsinoma urothelial yang lebih luas.
 
 ---
 
-## Quick Overview
+## Gambaran Pantas
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Not documented in source data (approved indication text unavailable; see Data Gap DG001) |
-| Predicted New Indication | Prostatic urethra urothelial carcinoma |
-| TxGNN Prediction Score | 99.98% |
-| Evidence Level | L4 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+| Indikasi Asal | Tidak didokumentasikan dalam data sumber (teks indikasi yang diluluskan tidak tersedia; lihat Jurang Data DG001) |
+| Indikasi Baru Diramal | Karsinoma urothelial uretra prostat |
+| Skor Ramalan TxGNN | 99.98% |
+| Tahap Bukti | L4 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan Disyorkan | Tahan |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Beralasan?
 
-Currently, detailed mechanism of action data (DrugBank MOA field) is not available for durvalumab in this evidence pack (Data Gap DG002). However, the repurposing rationale accompanying this candidate does identify durvalumab as an **anti-PD-L1 (programmed death-ligand 1) monoclonal antibody** — an immune checkpoint inhibitor. Urothelial carcinoma as a tumor family is characterized by relatively high PD-L1 expression and higher tumor mutational burden (TMB), both features generally associated with better response to checkpoint inhibition.
+Pada masa kini, data mekanisme tindakan terperinci (medan MOA DrugBank) tidak tersedia untuk durvalumab dalam pakej bukti ini (Jurang Data DG002). Walau bagaimanapun, rasional pembaharuan ubat yang disertakan dengan calon ini mengenal pasti durvalumab sebagai **antibodi monoklonal anti-PD-L1 (programmed death-ligand 1)** — perencat titik pemeriksaan imun. Karsinoma urothelial sebagai keluarga tumor ditandai dengan ekspresi PD-L1 yang agak tinggi dan beban mutasi tumor yang lebih tinggi (TMB), kedua-dua ciri yang secara amnya dikaitkan dengan respons yang lebih baik terhadap perencatan titik pemeriksaan.
 
-Prostatic urethra urothelial carcinoma is an anatomical subtype of urothelial carcinoma. Durvalumab already has a documented clinical development history in bladder/urothelial carcinoma more broadly — reflected in trials cited elsewhere in this evidence pack for related subtypes (e.g., NCT02812420 in muscle-invasive high-risk urothelial carcinoma, NCT03912818 in variant-histology bladder cancer). Mechanistically, extending to this specific anatomical location is a reasonable hypothesis by analogy.
+Karsinoma urothelial uretra prostat ialah subtipe anatomi karsinoma urothelial. Durvalumab sudah mempunyai sejarah pembangunan klinikal yang didokumentasikan dalam karsinoma urothelial kantung kencing secara lebih luas — tercermin dalam ujian yang dipetik di tempat lain dalam pakej bukti ini untuk subtipe berkaitan (contohnya, NCT02812420 dalam karsinoma urothelial invasif otot berisiko tinggi, NCT03912818 dalam kanser kantung kencing varian histologi). Dari segi mekanisme, pelanjutan ke lokasi anatomi khusus ini ialah hipotesis yang beralasan melalui analogi.
 
-That said, no clinical trial or literature record in this evidence pack evaluates durvalumab specifically in prostatic urethra urothelial carcinoma. The rationale is indirect — inferred entirely from evidence in the broader urothelial carcinoma category rather than from data specific to this subtype. Original indication and regulatory context for durvalumab are also not available in this dataset, which limits how confidently the "original → new indication" relationship can be assessed.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+Walau bagaimanapun, tiada ujian klinikal atau rekod literatur dalam pakej bukti ini yang menilai durvalumab secara khusus dalam karsinoma urothelial uretra prostat. Rasional adalah tidak langsung — disimpulkan sepenuhnya daripada bukti dalam kategori karsinoma urothelial yang lebih luas, bukannya daripada data khusus untuk subtipe ini. Indikasi asal dan konteks peraturan untuk durvalumab juga tidak tersedia dalam set data ini, yang mengehadkan dengan berapa yakin hubungan "indikasi asal → indikasi baru" dapat dinilai.
 
 ---
 
-## Literature Evidence
+## Bukti Ujian Klinikal
 
-Currently no related literature available.
+Pada masa kini tiada ujian klinikal berkaitan berdaftar.
 
 ---
 
-## Malaysia Market Information
+## Bukti Literatur
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+Pada masa kini tiada literatur berkaitan tersedia.
+
+---
+
+## Maklumat Pasaran Malaysia
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
 |---------|------|------|-----------|
-| Not available in current data extract | Not available | Not available | Not available (see Data Gap DG001) |
+| Tidak tersedia dalam ekstrak data semasa | Tidak tersedia | Tidak tersedia | Tidak tersedia (lihat Jurang Data DG001) |
 
-The regulatory record confirms durvalumab is marketed in Malaysia (1 registration on file), but the license number, product name, dosage form, and approved indication text were not populated in this data extract.
+Rekod peraturan mengesahkan durvalumab dipasarkan di Malaysia (1 pendaftaran fail), tetapi nombor lesen, nama produk, bentuk dos, dan teks indikasi yang diluluskan tidak diisi dalam ekstrak data ini.
 
 ---
 
-## Cytotoxicity
+## Sitotoksisiti
 
-Durvalumab is an antineoplastic biologic (anti-PD-L1 immune checkpoint inhibitor), so this section applies.
+Durvalumab ialah ubat biologi antineoplastik (perencat titik pemeriksaan imun anti-PD-L1), jadi bahagian ini terpakai.
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Cytotoxicity Classification | Immunotherapy (PD-L1 immune checkpoint inhibitor) — not a conventional cytotoxic agent |
-| Myelosuppression Risk | Low — checkpoint inhibitors as a class typically carry low direct myelosuppression risk compared to conventional chemotherapy; drug-specific toxicity data is not available in this evidence pack (Data Gap DG001) |
-| Emetogenicity Classification | Low — checkpoint inhibitors as a class are generally minimally emetogenic |
-| Monitoring Items | Immune-related adverse event monitoring (thyroid function, liver function tests, renal function, pulmonary and colitis symptoms); baseline and periodic CBC |
-| Handling Protection | As a monoclonal antibody, durvalumab is generally not handled under conventional cytotoxic drug precautions, but institutional hazardous-drug handling policy (e.g., NIOSH-listed antineoplastic biologics) should be confirmed locally |
+| Klasifikasi Sitotoksisiti | Immunoterapi (perencat titik pemeriksaan imun PD-L1) — bukan agen sitotoksik konvensional |
+| Risiko Penindasan Sumsum Tulang | Rendah — perencat titik pemeriksaan sebagai kelas lazimnya membawa risiko penindasan sumsum tulang langsung yang rendah dibandingkan dengan kemoterapi konvensional; data toksisiti khusus ubat tidak tersedia dalam pakej bukti ini (Jurang Data DG001) |
+| Klasifikasi Emetogenisiti | Rendah — perencat titik pemeriksaan sebagai kelas secara amnya dengan emetogenisiti minimal |
+| Item Pemantauan | Pemantauan acara buruk berkaitan imun (fungsi tiroid, ujian fungsi hati, fungsi buah pinggang, simptom paru-paru dan kolitis); CBC awal dan berkala |
+| Perlindungan Pengendalian | Sebagai antibodi monoklonal, durvalumab secara amnya tidak dikendalikan di bawah tindakan perlindungan ubat sitotoksik konvensional, tetapi dasar pengendalian ubat berbahaya institusi (contohnya, ubat biologi antineoplastik dalam senarai NIOSH) harus disahkan secara tempatan |
 
-Please refer to the package insert warnings and precautions for drug-specific toxicity data, as this is not available in the current evidence pack.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
+Sila rujuk amaran dan tindakan berhati-hati sisipan pakej untuk data toksisiti khusus ubat, kerana ini tidak tersedia dalam pakej bukti semasa.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-**Rationale:**
-- The top-ranked predicted indication (prostatic urethra urothelial carcinoma) has only **L4** evidence — mechanism-level inference by analogy, with zero clinical trials or literature specific to this subtype.
-- Data Gap DG001 (TFDA/NPRA package insert warnings and contraindications) is flagged as **Blocking**, meaning this candidate cannot yet enter S1 safety screening regardless of efficacy evidence.
+---
 
-**To proceed, the following is needed:**
-- Resolve DG001: obtain the Malaysia (NPRA) or reference regulatory package insert for durvalumab (warnings, contraindications) to unblock S1 safety review
-- Resolve DG002: obtain a verified DrugBank mechanism-of-action record
-- Complete the Malaysia license record (license number, product name, dosage form, approved indication text)
-- Consider prioritizing research on other candidates in this same pack with stronger existing evidence — e.g., **endocervical carcinoma** (rank 6, evidence level L2, 2 trials including a completed Phase 1), **kidney pelvis sarcomatoid transitional cell carcinoma** (rank 2, L3), and **infiltrating bladder urothelial carcinoma sarcomatoid variant** (rank 3, L3) — as these have actual clinical trial support, unlike the headline prediction above
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+- Indikasi diramal teratas (karsinoma urothelial uretra prostat) hanya mempunyai bukti **L4** — inferensi peringkat mekanisme melalui analogi, dengan sifar ujian klinikal atau literatur khusus untuk subtipe ini.
+- Jurang Data DG001 (amaran sisipan pakej TFDA/NPRA dan kontraindikasi) ditandai sebagai **Pemblokiran**, bermakna calon ini belum dapat memasuki saringan keselamatan S1 tanpa mengira bukti keberkesanan.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Selesaikan DG001: dapatkan sisipan pakej peraturan Malaysia (NPRA) atau rujukan untuk durvalumab (amaran, kontraindikasi) untuk membuka pemblokiran saringan keselamatan S1
+- Selesaikan DG002: dapatkan rekod mekanisme tindakan DrugBank yang disahkan
+- Lengkapkan rekod lesen Malaysia (nombor lesen, nama produk, bentuk dos, teks indikasi yang diluluskan)
+- Pertimbangkan untuk mengutamakan penyelidikan calon lain dalam pakej yang sama ini dengan bukti sedia ada yang lebih kuat — contohnya, **karsinoma endoserviks** (kedudukan 6, tahap bukti L2, 2 ujian termasuk Fasa 1 yang selesai), **karsinoma sel transisi sarcomatoid pelvis buah pinggang** (kedudukan 2, L3), dan **varian sarcomatoid karsinoma urothelial kantung kencing yang menyerang** (kedudukan 3, L3) — kerana ini mempunyai sokongan ujian klinikal sebenar, tidak seperti ramalan utama di atas
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

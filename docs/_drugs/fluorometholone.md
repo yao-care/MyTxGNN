@@ -29,78 +29,78 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Fluorometholone: From Non-Infectious Ocular Inflammation to Infectious Anterior Uveitis
+# Fluorometholone: Daripada Keradangan Okular Bukan Menular kepada Uveitis Anterior Menular
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Fluorometholone is a low-penetration topical corticosteroid already used as standard therapy for non-infectious anterior uveitis and other ocular inflammatory conditions.
-The TxGNN model predicts it may also be effective for **Infectious Anterior Uveitis**, but this direction is currently supported by only **1 review article** and **no clinical trials**, and carries a mechanistic caution (steroid monotherapy risks worsening unresolved infection).
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not specified in current NPRA licensing data (data gap) — clinically established as a topical corticosteroid for ocular inflammation |
-| Predicted New Indication | Infectious Anterior Uveitis |
-| TxGNN Prediction Score | 99.98% |
-| Evidence Level | L4 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+Fluorometholone adalah kortikosteroid topikal penembusan rendah yang telah digunakan sebagai terapi piawai untuk uveitis anterior bukan menular dan keadaan keradangan okular lain. Model TxGNN meramalkan ia mungkin juga berkesan untuk **Uveitis Anterior Menular**, tetapi arah ini kini disokong hanya oleh **1 artikel ulasan** dan **tiada percubaan klinikal**, dan membawa kaveat mekanik (monoterapi kortikosteroid berisiko memburukkan jangkitan yang belum diselesaikan).
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Cepat
 
-Currently, detailed mechanism of action data is not available (DrugBank query pending). Based on known clinical use, fluorometholone is a topical corticosteroid with relatively low corneal/intraocular penetration compared to agents like prednisolone acetate or dexamethasone. It is an established first- or second-line agent for controlling inflammation in **non-infectious** anterior uveitis.
-
-The predicted new indication, **infectious anterior uveitis**, shares the same anatomical site and inflammatory pathway as the drug's established use — corticosteroids suppress the same inflammatory cascade regardless of the infectious or non-infectious trigger. This is the mechanistic basis for the TxGNN association.
-
-However, this relationship requires an important caveat: in infectious anterior uveitis, corticosteroid monotherapy without confirmed control of the underlying pathogen can suppress local immune defenses and worsen the infection. Any repurposing pathway for this indication would need to be framed strictly as **adjunctive anti-inflammatory therapy after or alongside antimicrobial treatment**, not as a standalone therapy — a distinction the evidence pack's own rationale explicitly flags.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Tidak dinyatakan dalam data lesen NPRA semasa (jurang data) — tersedia secara klinikal sebagai kortikosteroid topikal untuk keradangan okular |
+| Petunjuk Baru yang Diramalkan | Uveitis Anterior Menular |
+| Skor Ramalan TxGNN | 99.98% |
+| Tahap Bukti | L4 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [29739028](https://pubmed.ncbi.nlm.nih.gov/29739028/) | 2018 | Review | Klinische Monatsblätter für Augenheilkunde | Reviews topical corticosteroids/NSAIDs for anterior uveitis; notes prednisolone acetate 1% penetrates best, while loteprednol and fluorometholone have comparatively lower intraocular efficacy. Discusses non-infectious uveitis; does not directly address infectious cases. |
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia (pertanyaan DrugBank menunggu). Berdasarkan penggunaan klinikal yang diketahui, fluorometholone adalah kortikosteroid topikal dengan penembusan korneal/intraokular yang agak rendah berbanding agen seperti prednisolone asetat atau dexamethasone. Ia adalah agen garis pertama atau garis kedua yang tersedia untuk mengawal keradangan dalam uveitis anterior **bukan menular**.
 
----
+Petunjuk baru yang diramalkan, **uveitis anterior menular**, berkongsi tapak anatomi dan laluan keradangan yang sama dengan penggunaan sedia ada ubat itu — kortikosteroid menekan jujukan keradangan yang sama tanpa mengira pencetus menular atau bukan menular. Ini adalah asas mekanik untuk persatuan TxGNN.
 
-## Malaysia Market Information
-
-One NPRA registration exists (total_licenses = 1), but the license record contains no product name, dosage form, manufacturer, or approved indication text in the current data — full authorization details need to be pulled directly from the NPRA registry.
+Bagaimanapun, perhubungan ini memerlukan kaveat penting: dalam uveitis anterior menular, monoterapi kortikosteroid tanpa kawalan yang disahkan terhadap patogen asas boleh menekan pertahanan imun tempatan dan memburukkan jangkitan. Mana-mana strategi pemindahan tujuan ubat untuk petunjuk ini perlu dirangka dengan ketat sebagai **terapi tambahan anti-keradangan selepas atau bersama rawatan antimikrob**, bukan sebagai terapi berdiri sendiri — satu pembezaan yang dengan jelas ditandai oleh rasional bungkusan bukti itu sendiri.
 
 ---
 
-## Safety Considerations
+## Bukti Percubaan Klinikal
 
-Please refer to the package insert for safety information.
-
-*(Key warnings, contraindications, and drug interaction data are all currently unavailable — see DG001 below.)*
+Pada masa ini tiada percubaan klinikal berkaitan berdaftar
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Kesusasteraan
 
-**Decision: Hold**
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-------|-------|--------|--------|
+| [29739028](https://pubmed.ncbi.nlm.nih.gov/29739028/) | 2018 | Ulasan | Klinische Monatsblätter für Augenheilkunde | Meninjau kortikosteroid topikal/NSAID untuk uveitis anterior; mencatat bahawa prednisolone asetat 1% menembus dengan terbaik, sementara loteprednol dan fluorometholone mempunyai keberkesanan intraokular yang agak rendah. Membincangkan uveitis bukan menular; tidak menangani kes menular secara langsung. |
 
-**Rationale:**
-A Blocking data gap (DG001 — missing NPRA label warnings/contraindications) prevents even an initial safety screen (S1), and the top-ranked indication (infectious anterior uveitis) is supported only by one indirect review article with no clinical trial evidence, plus a real mechanistic safety concern around steroid-only use in unresolved infection.
+---
 
-**To proceed, the following is needed:**
-- Package insert / label warnings and contraindications (DG001 — download from NPRA and parse)
-- DrugBank mechanism of action data (DG002)
-- Consider re-prioritizing evaluation toward rank #4, "post-bacterial disorder" (evidence level L3, active Phase 2 trial NCT07308938 on fluorometholone as adjunct therapy for bacterial corneal ulcers), which has stronger near-term evidence potential than the top-ranked infectious anterior uveitis candidate
+## Maklumat Pasaran Malaysia
+
+Satu pendaftaran NPRA wujud (`total_licenses = 1`), tetapi rekod lesen tidak mengandungi nama produk, bentuk dos, pengeluar, atau teks petunjuk yang diluluskan dalam data semasa — butiran kebenaran penuh perlu ditarik terus dari daftar NPRA.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan paket untuk maklumat keselamatan.
+
+*(Data amaran utama, kontraindikasi, dan interaksi ubat semuanya tidak tersedia pada masa ini — lihat DG001 di bawah.)*
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Jurang data yang memblokir (DG001 — amaran label NPRA/kontraindikasi yang hilang) mencegah bahkan pemeriksaan keselamatan awal (S1), dan petunjuk berperingkat teratas (uveitis anterior menular) disokong hanya oleh satu artikel ulasan tidak langsung tanpa bukti percubaan klinikal, ditambah dengan kebimbangan keselamatan mekanik sebenar mengenai penggunaan monoterapi kortikosteroid dalam jangkitan yang belum diselesaikan.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisipan paket / amaran label dan kontraindikasi (DG001 — muat turun daripada NPRA dan analisis)
+- Data mekanisme tindakan DrugBank (DG002)
+- Pertimbangkan mengutamakan semula penilaian terhadap peringkat #4, "gangguan pasca-bakteria" (tahap bukti L3, percubaan Fasa 2 aktif NCT07308938 mengenai fluorometholone sebagai terapi tambahan untuk ulser korneal bakteria), yang mempunyai potensi bukti dalam jangka pendek yang lebih kuat daripada calon uveitis anterior menular berperingkat teratas
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

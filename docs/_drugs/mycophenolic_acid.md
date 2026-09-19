@@ -29,100 +29,100 @@ Tahap bukti: **L3** | Indikasi diramal: **10**
 
 </div>
 
-# Mycophenolic Acid: From Transplant Rejection Prophylaxis to Hemoglobinopathy
+# Asid Mikofenolik: Daripada Profilaksis Penolakan Organ Dermawan kepada Hemoglobinopati
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Mycophenolic acid (the active moiety of mycophenolate mofetil) is an established immunosuppressant used to prevent solid organ transplant rejection.
-The TxGNN model predicts a possible association with **Hemoglobinopathy**, but the underlying evidence shows the drug is used as a **graft-versus-host disease (GVHD) prophylaxis agent during hematopoietic stem cell transplantation (HSCT)** for conditions like thalassemia and sickle cell disease — not as a direct treatment for the blood disorder itself — with **27 clinical trials** and **9 publications** currently supporting this indirect association.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Prophylaxis of organ (renal/cardiac/hepatic) transplant rejection *(NPRA license indication text not available in current data pull; based on known pharmacology)* |
-| Predicted New Indication | Hemoglobinopathy |
-| TxGNN Prediction Score | 99.60% |
-| Evidence Level | L3 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 5 |
-| Recommended Decision | Hold |
+Asid mikofenolik (bahan aktif utama mycophenolate mofetil) adalah agen imunosupresi yang terbukti digunakan untuk mencegah penolakan organ tubuh. Model TxGNN meramalkan kemungkinan kaitan dengan **Hemoglobinopati**, namun bukti asas menunjukkan ubat digunakan sebagai **agen profilaksis penyakit graf-versus-hos (GVHD) semasa pemindahan sel induk hematopoietik (HSCT)** untuk keadaan seperti talasemia dan penyakit sel sabit — bukan sebagai rawatan langsung untuk gangguan darah itu sendiri — dengan **27 percubaan klinikal** dan **9 penerbitan** kini menyokong kaitan tidak langsung ini.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Pantas
 
-Detailed mechanism of action data is not available in the registry pull (data gap), but the evidence pack's mechanistic analysis indicates mycophenolic acid is a selective, reversible inhibitor of inosine monophosphate dehydrogenase (IMPDH). By blocking de novo guanine nucleotide synthesis, it selectively suppresses T- and B-lymphocyte proliferation — the pharmacological basis for its approved use as an anti-rejection immunosuppressant in organ transplantation.
-
-The link to "hemoglobinopathy" does not reflect a disease-modifying effect on the blood disorder itself. Instead, allogeneic HSCT is a potentially curative procedure for severe hemoglobinopathies (thalassemia major, sickle cell disease), and mycophenolate mofetil is a standard component of the GVHD-prophylaxis regimen given alongside calcineurin inhibitors after transplant. In this sense, the same immunosuppressive mechanism that prevents organ-transplant rejection is being repurposed to prevent graft-versus-host reactions in HSCT for hemoglobinopathy — a related but mechanistically indirect application, not a primary therapy for the hematologic disease.
-
-Because MMF is a supportive/adjunct medication in these trials rather than the study's primary intervention, the strength of the "repurposing" signal is weaker than it appears from the TxGNN score alone — this is reflected in the L3 (observational/cohort-level) evidence grade rather than a higher tier.
+| Item | Kandungan |
+|------|---------|
+| Petunjuk Asal | Profilaksis penolakan organ (buah pinggang/jantung/hati) *(teks petunjuk lesen NPRA tidak tersedia dalam cabutan data semasa; berdasarkan farmakologi yang diketahui)* |
+| Petunjuk Baru yang Diramalkan | Hemoglobinopati |
+| Skor Ramalan TxGNN | 99.60% |
+| Tahap Bukti | L3 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 5 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Masuk Akal?
 
-*Note: In nearly all trials below, mycophenolate mofetil (MMF) is a component of the standard GVHD-prophylaxis regimen (alongside a calcineurin inhibitor ± other agents) rather than the primary study intervention.*
+Data mekanisme tindakan terperinci tidak tersedia dalam cabutan daftar (jurang data), namun analisis mekanistik paket bukti menunjukkan asid mikofenolik adalah perencat inosina monofosfat dehidrogenase (IMPDH) yang terpilih dan boleh balik. Dengan menyekat sintesis nukleotida guanina de novo, ia menindas proliferasi limfosit T dan B secara terpilih — asas farmakologi untuk penggunaannya yang diluluskan sebagai agen imunosupresi anti-penolakan dalam pemindahan organ.
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Hubungan dengan "hemoglobinopati" tidak mencerminkan kesan pengubah penyakit pada gangguan darah itu sendiri. Sebaliknya, HSCT alografik adalah prosedur yang berpotensi menyembuhkan hemoglobinopati yang teruk (talasemia besar, penyakit sel sabit), dan mycophenolate mofetil adalah komponen piawai rejimen profilaksis GVHD yang diberikan bersama perencat kalsineuri selepas pemindahan. Dalam erti kata ini, mekanisme imunosupresi yang sama yang mencegah penolakan pemindahan organ dikembalikan untuk mencegah tindak balas graf-versus-hos dalam HSCT untuk hemoglobinopati — aplikasi yang berkaitan tetapi secara mekanistik tidak langsung, bukan terapi utama untuk penyakit hematologi.
+
+Kerana MMF adalah ubat sokongan/tambahan dalam percubaan ini dan bukannya campur tangan utama kajian, kekuatan isyarat "penggantian tujuan" adalah lebih lemah daripada yang kelihatan dari skor TxGNN sahaja — ini dicerminkan dalam gred bukti L3 (tahap pemerhatian/kohort) daripada peringkat yang lebih tinggi.
+
+---
+
+## Bukti Percubaan Klinikal
+
+*Nota: Dalam hampir semua percubaan di bawah, mycophenolate mofetil (MMF) adalah komponen rejimen profilaksis GVHD piawai (bersama perencat kalsineuri ± ejen lain) daripada campur tangan utama kajian.*
+
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT04009525](https://clinicaltrials.gov/study/NCT04009525) | Phase 4 | Completed | 823 | Multicenter study evaluating allo-HSCT efficacy for thalassemia major; MMF likely part of standard GVHD prophylaxis, not the primary intervention |
-| [NCT02342145](https://clinicaltrials.gov/study/NCT02342145) | Phase 4 | Completed | 205 | Randomized study of basiliximab for acute GVHD prevention after unrelated allo-HSCT in thalassemia major |
-| [NCT03924401](https://clinicaltrials.gov/study/NCT03924401) | Phase 2 | Active, not recruiting | 30 | Extended abatacept combined with tacrolimus + MMF to prevent acute/chronic GVHD in pediatric non-malignant hematologic disease HSCT |
-| [NCT01917708](https://clinicaltrials.gov/study/NCT01917708) | Phase 1 | Completed | 10 | Abatacept added to cyclosporine + MMF as GVHD prophylaxis in pediatric unrelated HSCT for non-malignant disease |
-| [NCT02867800](https://clinicaltrials.gov/study/NCT02867800) | Phase 1 | Completed | 24 | Abatacept added to standard GVHD prophylaxis (calcineurin inhibitor + methotrexate) in pediatric sickle cell HSCT |
-| [NCT02776202](https://clinicaltrials.gov/study/NCT02776202) | Phase 2 | Unknown | 15 | HLA-identical sibling bone marrow transplant with reduced-intensity conditioning for severe sickle cell disease |
-| [NCT01050855](https://clinicaltrials.gov/study/NCT01050855) | Phase 2 | Active, not recruiting | 75 | Reduced-intensity conditioning regimen evaluating engraftment and toxicity in non-malignant disorders |
-| [NCT06872333](https://clinicaltrials.gov/study/NCT06872333) | Phase 2 | Recruiting | 62 | Allogeneic HSCT for high-risk hemoglobinopathies and other red-cell transfusion-dependent disorders |
-| [NCT05736419](https://clinicaltrials.gov/study/NCT05736419) | Phase 2 | Recruiting | 24 | Pre-transplant immune suppression with haploidentical HCT for sickle cell disease or β-thalassemia |
-| [NCT03171831](https://clinicaltrials.gov/study/NCT03171831) | Phase 4 | Unknown | 30 | Safety and efficacy of haploidentical HSCT for thalassemia major |
+| [NCT04009525](https://clinicaltrials.gov/study/NCT04009525) | Fasa 4 | Selesai | 823 | Kajian berpusat nilai menilai keberkesanan allo-HSCT untuk talasemia besar; MMF mungkin sebahagian daripada profilaksis GVHD piawai, bukan campur tangan utama |
+| [NCT02342145](https://clinicaltrials.gov/study/NCT02342145) | Fasa 4 | Selesai | 205 | Kajian rawak basiliximab untuk pencegahan GVHD akut selepas allo-HSCT berkaitan dalam talasemia besar |
+| [NCT03924401](https://clinicaltrials.gov/study/NCT03924401) | Fasa 2 | Aktif, tidak merekrut | 30 | Abatacept lanjutan digabungkan dengan takrolimus + MMF untuk mencegah GVHD akut/kronik dalam HSCT penyakit hematologi bukan ganas pediatrik |
+| [NCT01917708](https://clinicaltrials.gov/study/NCT01917708) | Fasa 1 | Selesai | 10 | Abatacept ditambah siklosporin + MMF sebagai profilaksis GVHD dalam HSCT berkaitan pediatrik untuk penyakit bukan ganas |
+| [NCT02867800](https://clinicaltrials.gov/study/NCT02867800) | Fasa 1 | Selesai | 24 | Abatacept ditambah profilaksis GVHD piawai (perencat kalsineuri + metotreksat) dalam HSCT sel sabit pediatrik |
+| [NCT02776202](https://clinicaltrials.gov/study/NCT02776202) | Fasa 2 | Tidak diketahui | 15 | Pemindahan sumsum tulang belakang bersamaan HLA dengan pemfokusan intensiti berkurangan untuk penyakit sel sabit teruk |
+| [NCT01050855](https://clinicaltrials.gov/study/NCT01050855) | Fasa 2 | Aktif, tidak merekrut | 75 | Rejimen pemfokusan intensiti berkurangan menilai engraftment dan ketoksikan dalam gangguan bukan ganas |
+| [NCT06872333](https://clinicaltrials.gov/study/NCT06872333) | Fasa 2 | Merekrut | 62 | Allo-HSCT untuk hemoglobinopati dan gangguan lain yang bergantung pada transfusi sel merah yang berisiko tinggi |
+| [NCT05736419](https://clinicaltrials.gov/study/NCT05736419) | Fasa 2 | Merekrut | 24 | Supresi imun pra-pemindahan dengan HCT haploidentik untuk penyakit sel sabit atau β-talasemia |
+| [NCT03171831](https://clinicaltrials.gov/study/NCT03171831) | Fasa 4 | Tidak diketahui | 30 | Keselamatan dan keberkesanan HSCT haploidentik untuk talasemia besar |
 
 ---
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [36372358](https://pubmed.ncbi.nlm.nih.gov/36372358/) | 2023 | Cohort/Case series | Transplantation and Cellular Therapy | MMF used to boost immunosuppression for declining mixed chimerism after HSCT in thalassemia |
-| [39891881](https://pubmed.ncbi.nlm.nih.gov/39891881/) | 2025 | Retrospective/Dosing study | Eur J Drug Metab Pharmacokinet | Population PK-based off-label MMF dosing recommendations for pediatric thalassemia HSCT patients |
-| [26860634](https://pubmed.ncbi.nlm.nih.gov/26860634/) | 2016 | Cohort | Biol Blood Marrow Transplant | Alternative-donor HSCT with post-transplant cyclophosphamide for non-malignant disorders including hemoglobinopathies |
-| [29061531](https://pubmed.ncbi.nlm.nih.gov/29061531/) | 2018 | Cohort | Biol Blood Marrow Transplant | Unrelated-donor HSCT with post-transplant cyclophosphamide + tacrolimus/MMF for GVHD prophylaxis in severe sickle cell disease |
-| [28578010](https://pubmed.ncbi.nlm.nih.gov/28578010/) | 2017 | Cohort (Phase I) | Biol Blood Marrow Transplant | Unrelated umbilical cord blood transplant for sickle cell disease after reduced-intensity conditioning |
-| [18940682](https://pubmed.ncbi.nlm.nih.gov/18940682/) | 2008 | Cohort | Biol Blood Marrow Transplant | Stable long-term donor engraftment following reduced-intensity HCT for sickle cell disease |
-| [17454192](https://pubmed.ncbi.nlm.nih.gov/17454192/) | 2007 | Cohort/Risk factor analysis | Hematology (Amsterdam) | Risk factors for pure red cell aplasia following major ABO-incompatible allo-HSCT |
-| [17180133](https://pubmed.ncbi.nlm.nih.gov/17180133/) | 2007 | Case report (safety signal, not efficacy) | J Perinatology | Neonatal anemia and hydrops fetalis reported after maternal MMF use during pregnancy — safety signal, relevant to contraindication assessment rather than efficacy |
-| [15126382](https://pubmed.ncbi.nlm.nih.gov/15126382/) | 2004 | Historical/mechanistic (low direct relevance) | Genetics | General genetics/medicine commentary; tangential to the hemoglobinopathy indication |
+| [36372358](https://pubmed.ncbi.nlm.nih.gov/36372358/) | 2023 | Kohort/Siri kes | Transplantation and Cellular Therapy | MMF digunakan untuk meningkatkan imunsupresi untuk kimerisme campuran yang merosot selepas HSCT dalam talasemia |
+| [39891881](https://pubmed.ncbi.nlm.nih.gov/39891881/) | 2025 | Retrospektif/Kajian dos | Eur J Drug Metab Pharmacokinet | Cadangan dos MMF berasaskan farmakokinetik populasi off-label untuk pesakit HSCT talasemia pediatrik |
+| [26860634](https://pubmed.ncbi.nlm.nih.gov/26860634/) | 2016 | Kohort | Biol Blood Marrow Transplant | HSCT penderma alternatif dengan siklofosfamid pasca-pemindahan untuk gangguan bukan ganas termasuk hemoglobinopati |
+| [29061531](https://pubmed.ncbi.nlm.nih.gov/29061531/) | 2018 | Kohort | Biol Blood Marrow Transplant | HSCT penderma berkaitan dengan siklofosfamid pasca-pemindahan + takrolimus/MMF untuk profilaksis GVHD dalam penyakit sel sabit teruk |
+| [28578010](https://pubmed.ncbi.nlm.nih.gov/28578010/) | 2017 | Kohort (Fasa I) | Biol Blood Marrow Transplant | Pemindahan darah tali pusat berkaitan untuk penyakit sel sabit selepas pemfokusan intensiti berkurangan |
+| [18940682](https://pubmed.ncbi.nlm.nih.gov/18940682/) | 2008 | Kohort | Biol Blood Marrow Transplant | Engraftment penderma stabil jangka panjang selepas HCT intensiti berkurangan untuk penyakit sel sabit |
+| [17454192](https://pubmed.ncbi.nlm.nih.gov/17454192/) | 2007 | Kohort/Analisis faktor risiko | Hematology (Amsterdam) | Faktor risiko untuk aplasia sel merah tulen selepas allo-HSCT tidak serasi ABO besar |
+| [17180133](https://pubmed.ncbi.nlm.nih.gov/17180133/) | 2007 | Laporan kes (isyarat keselamatan, bukan keberkesanan) | J Perinatology | Anemia neonatol dan hidrops fetalis dilaporkan selepas penggunaan MMF ibu mengandung semasa kehamilan — isyarat keselamatan, relevan kepada penilaian kontraindikasi daripada keberkesanan |
+| [15126382](https://pubmed.ncbi.nlm.nih.gov/15126382/) | 2004 | Ulasan sejarah/mekanistik (relevansi langsung rendah) | Genetics | Ulasan umum genetik/perubatan; berkaitan tangensial dengan petunjuk hemoglobinopati |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Malaysia registration status shows **5 active licenses (✓ Marketed)**, but authorization numbers, product names, dosage forms, and approved-indication text were not returned in the current NPRA data pull — this is tracked separately as a data gap requiring a direct NPRA lookup, and is not fabricated here.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-*(Key warnings, contraindications, and DDI data were not available in this data pull. Note: obtaining TFDA/NPRA label warnings and contraindications is flagged as a **Blocking** data gap (DG001) — it must be resolved before this candidate can proceed to initial safety screening (S1). One safety-relevant signal was found in the literature review: a case report of neonatal anemia and hydrops fetalis following maternal MMF use during pregnancy (PMID 17180133), which should be incorporated into the formal safety review once label data is obtained.)*
+Status pendaftaran Malaysia menunjukkan **5 lesen aktif (✓ Dipasarkan)**, namun nombor kebenaran, nama produk, bentuk dos, dan teks petunjuk yang diluluskan tidak dikembalikan dalam cabutan data NPRA semasa — ini dijejaki secara berasingan sebagai jurang data yang memerlukan carian NPRA langsung, dan tidak direka di sini.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila rujuk sisipan bungkusan untuk maklumat keselamatan.
 
-**Rationale:**
-The predicted association is supported mainly by MMF's role as a standard GVHD-prophylaxis component in HSCT for hemoglobinopathies, not as a direct treatment for the disease itself — evidence level is L3 (cohort/observational), and a Blocking-severity data gap on TFDA/NPRA safety warnings and contraindications prevents entry into initial safety screening (S1).
+*(Data amaran utama, kontraindikasi, dan DDI tidak tersedia dalam cabutan data ini. Nota: mendapatkan amaran label TFDA/NPRA dan kontraindikasi ditandakan sebagai jurang data **Pemblokiran** (DG001) — ia mesti diselesaikan sebelum calon ini dapat meneruskan kepada penyaringan keselamatan awal (S1). Satu isyarat keselamatan yang berkaitan ditemui dalam semakan literatur: laporan kes anemia neonatol dan hidrops fetalis selepas penggunaan MMF ibu mengandung semasa kehamilan (PMID 17180133), yang harus dimasukkan ke dalam semakan keselamatan formal sebaik sahaja data label diperoleh.)*
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert warnings and contraindications (Blocking gap, DG001)
-- Confirmed mechanism of action data from DrugBank (High-priority gap, DG002)
-- Complete Malaysia license/authorization details (license numbers, product names, approved indication text)
-- A mechanistic re-assessment clarifying whether this candidate should be scoped as "MMF for hemoglobinopathy" or more precisely as "MMF for GVHD prophylaxis in HSCT for hemoglobinopathy," since these represent different clinical claims
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Kaitan yang diramalkan disokong terutamanya oleh peranan MMF sebagai komponen piawai profilaksis GVHD dalam HSCT untuk hemoglobinopati, bukan sebagai rawatan langsung untuk penyakit itu sendiri — tahap bukti adalah L3 (kohort/pemerhatian), dan jurang data yang merupakan Pemblokiran pada amaran keselamatan dan kontraindikasi TFDA/NPRA menghalang kemasukan ke penyaringan keselamatan awal (S1).
+
+**Untuk meneruskan, berikut diperlukan:**
+- Amaran dan kontraindikasi sisipan paket TFDA/NPRA (jurang Pemblokiran, DG001)
+- Data mekanisme tindakan yang disahkan daripada DrugBank (jurang keutamaan tinggi, DG002)
+- Butiran lesen/kebenaran Malaysia yang lengkap (nombor lesen, nama produk, teks petunjuk yang diluluskan)
+- Penilaian mekanistik semula menjelaskan sama ada calon ini harus diperhitungkan sebagai "MMF untuk hemoglobinopati" atau lebih tepat sebagai "MMF untuk profilaksis GVHD dalam HSCT untuk hemoglobinopati," kerana ini mewakili tuntutan klinikal yang berbeza
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,110 +29,111 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Tegafur: From Gastric Cancer to Colonic Neoplasm
+# Tegafur: Daripada Kanser Gastrik kepada Neoplasma Kolon
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-> Tegafur is an oral fluoropyrimidine (prodrug of 5-fluorouracil) marketed in Malaysia as part of fluoropyrimidine combinations (e.g., UFT, S-1) used for gastrointestinal malignancies. The TxGNN model predicts it may be effective for **Colonic Neoplasm**, with **30 clinical trials** and **20 publications** currently supporting this direction — including six completed Phase 3 randomized trials.
+> Tegafur ialah fluoropirimidina oral (prodrug 5-fluorourasil) yang dipasarkan di Malaysia sebagai sebahagian daripada kombinasi fluoropirimidina (cth. UFT, S-1) yang digunakan untuk keganasan gastrointestinal. Model TxGNN meramalkan ia mungkin berkesan untuk **Neoplasma Kolon**, dengan **30 ujian klinikal** dan **20 penerbitan** kini menyokong arah ini — termasuk enam ujian rawak Phase 3 yang telah selesai.
 
 ---
 
-## Quick Overview
+## Gambaran Pantas
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Gastric cancer (fluoropyrimidine class; specific NPRA-approved label text was not captured in this evidence pack — see Malaysia Market Information) |
-| Predicted New Indication | Colonic Neoplasm |
-| TxGNN Prediction Score | 99.90% |
-| Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
-| Recommended Decision | Proceed with Guardrails |
+| Petunjuk Asal | Kanser gastrik (kelas fluoropirimidina; teks label yang diluluskan NPRA khusus tidak ditangkap dalam pakej bukti ini — lihat Maklumat Pasaran Malaysia) |
+| Petunjuk Baru yang Diramalkan | Neoplasma Kolon |
+| Skor Ramalan TxGNN | 99.90% |
+| Tahap Bukti | L1 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 3 |
+| Keputusan yang Disyorkan | Teruskan dengan Penjaga |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed mechanism-of-action data for this Tegafur record is not yet available in the evidence pack (flagged as data gap DG002). Based on general pharmacology, Tegafur is a prodrug of 5-fluorouracil (5-FU) and is the active component of widely used oral combinations such as UFT (tegafur + uracil, where uracil blocks 5-FU degradation) and S-1 (tegafur + gimeracil + oteracil). Once converted to 5-FU, it inhibits thymidylate synthase, blocking DNA synthesis in rapidly dividing cells.
+Data mekanisme tindakan terperinci untuk rekod Tegafur ini belum lagi tersedia dalam pakej bukti (ditandai sebagai jurang data DG002). Berdasarkan farmakologi umum, Tegafur ialah prodrug 5-fluorourasil (5-FU) dan merupakan komponen aktif kombinasi oral yang digunakan secara meluas seperti UFT (tegafur + urasil, di mana urasil menghalang degradasi 5-FU) dan S-1 (tegafur + gimerasil + oterasil). Setelah ditukar kepada 5-FU, ia merencat timilat sintase, menyekat sintesis DNA dalam sel yang membahagi dengan cepat.
 
-Gastric cancer and colonic neoplasm are both gastrointestinal adenocarcinomas that share chemosensitivity to fluoropyrimidines. This is directly reflected in the evidence pack itself: the second-ranked predicted indication, gastric carcinoma, is explicitly assessed as an "existing approved indication extension" (L1 evidence, Proceed with Guardrails), meaning tegafur-based regimens are already standard-of-care across multiple GI cancer types in East Asia.
+Kanser gastrik dan neoplasma kolon adalah kedua-dua adenokarsinoma gastrointestinal yang berkongsi kepekaan kimia kepada fluoropirimidina. Ini tercermin secara langsung dalam pakej bukti itu sendiri: petunjuk yang diramalkan ke-dua, karsinoma gastrik, secara eksplisit dinilai sebagai "lanjutan petunjuk yang diluluskan sedia ada" (bukti L1, Teruskan dengan Penjaga), bermakna rejimen berasaskan tegafur sudah menjadi penjagaan piawai di pelbagai jenis kanser GI di Asia Timur.
 
-The colonic neoplasm signal is therefore mechanistically consistent: tegafur/UFT and S-1-based regimens (SOX, UFT+LV, S-1+oxaliplatin) are established adjuvant and metastatic treatments for colon and colorectal cancer in international and Asian guidelines, further supporting the plausibility of the TxGNN prediction.
+Isyarat neoplasma kolon adalah oleh itu konsisten secara mekanik: rejimen berasaskan tegafur/UFT dan S-1 (SOX, UFT+LV, S-1+oxaliplatin) adalah rawatan adjuvan dan metastatik yang ditegakkan untuk kanser kolon dan kanser kolorektal dalam garis panduan antarabangsa dan Asia, yang selanjutnya menyokong ketidaktemaran ramalan TxGNN.
 
 ---
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT00392899](https://clinicaltrials.gov/study/NCT00392899) | Phase 3 | Completed | 2025 | Adjuvant tegafur-uracil (UFT) vs. observation in curatively resected Stage II colon cancer |
-| [NCT00378716](https://clinicaltrials.gov/study/NCT00378716) | Phase 3 | Completed | 1608 | Oral UFT+leucovorin vs. IV 5-FU+leucovorin in Stage II/III colon carcinoma |
-| [NCT00660894](https://clinicaltrials.gov/study/NCT00660894) | Phase 3 | Completed | 1535 | UFT+leucovorin vs. S-1 (TS-1) as adjuvant therapy for Stage III colon cancer |
-| [NCT03448549](https://clinicaltrials.gov/study/NCT03448549) | Phase 3 | Unknown | 1191 | SOX (S-1+oxaliplatin) vs. XELOX as adjuvant chemotherapy, Stage III colorectal cancer |
-| [NCT00152230](https://clinicaltrials.gov/study/NCT00152230) | Phase 3 | Completed | 900 | Postoperative adjuvant UFT vs. surgery alone in Dukes C colorectal cancer (NSAS-CC) |
-| [NCT01918852](https://clinicaltrials.gov/study/NCT01918852) | Phase 3 | Completed | 161 | S-1 vs. capecitabine, first-line metastatic colorectal cancer (SALTO trial) |
-| [NCT00905047](https://clinicaltrials.gov/study/NCT00905047) | Phase 3 | Completed | 89 | Crossover comparison of capecitabine vs. UFT+folinic acid in advanced/metastatic colorectal cancer |
-| [NCT02836977](https://clinicaltrials.gov/study/NCT02836977) | N/A | Unknown | 400 | Maintenance tegafur-uracil vs. observation after adjuvant oxaliplatin-based regimen, Stage III colon cancer |
-| [NCT02887365](https://clinicaltrials.gov/study/NCT02887365) | Phase 4 | Unknown | 300 | Tegafur-uracil as maintenance chemotherapy, Stage II MSI-L/MSS colon cancer |
-| [NCT05266300](https://clinicaltrials.gov/study/NCT05266300) | N/A | Completed | 722 | DPYD-genotyping implementation and QA in patients treated with fluoropyrimidines (relevant to toxicity risk stratification) |
+| [NCT00392899](https://clinicaltrials.gov/study/NCT00392899) | Phase 3 | Selesai | 2025 | UFT adjuvan (tegafur-urasil) berbanding pemerhatian dalam kanser kolon yang telah dibedah secara kuratif Stage II |
+| [NCT00378716](https://clinicaltrials.gov/study/NCT00378716) | Phase 3 | Selesai | 1608 | UFT+leukovorin oral berbanding IV 5-FU+leukovorin dalam karsinoma kolon Stage II/III |
+| [NCT00660894](https://clinicaltrials.gov/study/NCT00660894) | Phase 3 | Selesai | 1535 | UFT+leukovorin berbanding S-1 (TS-1) sebagai terapi adjuvan untuk kanser kolon Stage III |
+| [NCT03448549](https://clinicaltrials.gov/study/NCT03448549) | Phase 3 | Tidak diketahui | 1191 | SOX (S-1+oxaliplatin) berbanding XELOX sebagai kemoterapi adjuvan, kanser kolorektal Stage III |
+| [NCT00152230](https://clinicaltrials.gov/study/NCT00152230) | Phase 3 | Selesai | 900 | UFT adjuvan selepas pembedahan berbanding pembedahan sahaja dalam kanser kolorektal Dukes C (NSAS-CC) |
+| [NCT01918852](https://clinicaltrials.gov/study/NCT01918852) | Phase 3 | Selesai | 161 | S-1 berbanding capecitabine, barisan pertama kanser kolorektal metastatik (ujian SALTO) |
+| [NCT00905047](https://clinicaltrials.gov/study/NCT00905047) | Phase 3 | Selesai | 89 | Perbandingan silang capecitabine berbanding UFT+asid folinik dalam kanser kolorektal lanjutan/metastatik |
+| [NCT02836977](https://clinicaltrials.gov/study/NCT02836977) | N/A | Tidak diketahui | 400 | Tegafur-urasil penyelenggaraan berbanding pemerhatian selepas rejimen adjuvan berasaskan oxaliplatin, kanser kolon Stage III |
+| [NCT02887365](https://clinicaltrials.gov/study/NCT02887365) | Phase 4 | Tidak diketahui | 300 | Tegafur-urasil sebagai kemoterapi penyelenggaraan, kanser kolon Stage II MSI-L/MSS |
+| [NCT05266300](https://clinicaltrials.gov/study/NCT05266300) | N/A | Selesai | 722 | Pelaksanaan genotaip DPYD dan QA dalam pesakit yang dirawat dengan fluoropirimidina (relevan untuk stratifikasi risiko toksisiti) |
 
 ---
 
-## Literature Evidence
+## Bukti Sastera
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [31917122](https://pubmed.ncbi.nlm.nih.gov/31917122/) | 2020 | RCT (Phase 3) | Clinical Colorectal Cancer | ACTS-CC 02 trial: S-1+oxaliplatin (SOX) vs. UFT/LV as adjuvant chemotherapy, high-risk Stage III colon cancer |
-| [33714860](https://pubmed.ncbi.nlm.nih.gov/33714860/) | 2021 | RCT (Phase 3 update) | ESMO Open | ACTS-CC 02 updated 5-year overall survival and subgroup analysis |
-| [16648506](https://pubmed.ncbi.nlm.nih.gov/16648506/) | 2006 | RCT (Phase 3) | Journal of Clinical Oncology | NSABP C-06: oral UFT+leucovorin vs. IV 5-FU+leucovorin, Stage II/III colon carcinoma |
-| [26347106](https://pubmed.ncbi.nlm.nih.gov/26347106/) | 2015 | RCT (Phase 3) | Annals of Oncology | JFMC33-0502: optimal treatment duration for UFT/LV adjuvant chemotherapy, Stage IIB/III colon cancer |
-| [35168560](https://pubmed.ncbi.nlm.nih.gov/35168560/) | 2022 | Prospective observational | BMC Cancer | JFMC46-1201: UFT/LV efficacy in high-risk Stage II colon cancer using propensity score matching |
-| [38833114](https://pubmed.ncbi.nlm.nih.gov/38833114/) | 2024 | Prospective controlled study (final analysis) | International Journal of Clinical Oncology | JFMC46-1201 final results, updated 5-year survival and risk factor analysis |
-| [33950962](https://pubmed.ncbi.nlm.nih.gov/33950962/) | 2021 | Nationwide cohort + meta-analysis | Medicine | UFT vs. 5-FU as postoperative adjuvant chemotherapy, Stage II/III colon cancer (Taiwan NHIRD) |
-| [17952521](https://pubmed.ncbi.nlm.nih.gov/17952521/) | 2007 | Review | Surgery Today | UFT as postoperative adjuvant chemotherapy for solid tumors: clinical evidence, mechanism, future direction |
-| [25209093](https://pubmed.ncbi.nlm.nih.gov/25209093/) | 2014 | Review / Consensus guideline | Clinical Colorectal Cancer | Asian consensus on adaptation of international guidelines for metastatic colorectal cancer |
-| [15108041](https://pubmed.ncbi.nlm.nih.gov/15108041/) | 2004 | RCT | International Journal of Clinical Oncology | Adjuvant immunochemotherapy (OK-432) with UFT/HCFU for colorectal cancer |
+| [31917122](https://pubmed.ncbi.nlm.nih.gov/31917122/) | 2020 | RCT (Phase 3) | Clinical Colorectal Cancer | Ujian ACTS-CC 02: S-1+oxaliplatin (SOX) berbanding UFT/LV sebagai kemoterapi adjuvan, kanser kolon Stage III berisiko tinggi |
+| [33714860](https://pubmed.ncbi.nlm.nih.gov/33714860/) | 2021 | RCT (kemas kini Phase 3) | ESMO Open | Kemas kini ACTS-CC 02 kelangsungan hidup keseluruhan 5 tahun dan analisis subkumpulan |
+| [16648506](https://pubmed.ncbi.nlm.nih.gov/16648506/) | 2006 | RCT (Phase 3) | Journal of Clinical Oncology | NSABP C-06: UFT+leukovorin oral berbanding IV 5-FU+leukovorin, karsinoma kolon Stage II/III |
+| [26347106](https://pubmed.ncbi.nlm.nih.gov/26347106/) | 2015 | RCT (Phase 3) | Annals of Oncology | JFMC33-0502: tempoh rawatan optimum untuk kemoterapi adjuvan UFT/LV, kanser kolon Stage IIB/III |
+| [35168560](https://pubmed.ncbi.nlm.nih.gov/35168560/) | 2022 | Pemerhatian prospektif | BMC Cancer | JFMC46-1201: keberkesanan UFT/LV dalam kanser kolon Stage II berisiko tinggi menggunakan padanan skor kecenderungan |
+| [38833114](https://pubmed.ncbi.nlm.nih.gov/38833114/) | 2024 | Kajian terkawal prospektif (analisis akhir) | International Journal of Clinical Oncology | Keputusan akhir JFMC46-1201, kelangsungan hidup 5 tahun yang dikemas kini dan analisis faktor risiko |
+| [33950962](https://pubmed.ncbi.nlm.nih.gov/33950962/) | 2021 | Kohort nasional + meta-analisis | Medicine | UFT berbanding 5-FU sebagai kemoterapi adjuvan selepas pembedahan, kanser kolon Stage II/III (Taiwan NHIRD) |
+| [17952521](https://pubmed.ncbi.nlm.nih.gov/17952521/) | 2007 | Ulasan | Surgery Today | UFT sebagai kemoterapi adjuvan selepas pembedahan untuk tumor pepejal: bukti klinikal, mekanisme, arah masa depan |
+| [25209093](https://pubmed.ncbi.nlm.nih.gov/25209093/) | 2014 | Ulasan / Garis panduan konsensus | Clinical Colorectal Cancer | Konsensus Asia tentang adaptasi garis panduan antarabangsa untuk kanser kolorektal metastatik |
+| [15108041](https://pubmed.ncbi.nlm.nih.gov/15108041/) | 2004 | RCT | International Journal of Clinical Oncology | Imunokemoterapi adjuvan (OK-432) dengan UFT/HCFU untuk kanser kolorektal |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-The evidence pack confirms Tegafur is currently marketed in Malaysia with **3 active registrations**, but the underlying license record (registration number, product name, dosage form, and approved indication text) was not populated in this data pull. This is a data-collection gap on the NPRA source side, not an indication that the product is unregistered — it should be resolved by re-querying the NPRA product register before finalizing any regulatory submission.
+Pakej bukti mengesahkan Tegafur kini dipasarkan di Malaysia dengan **3 pendaftaran aktif**, tetapi rekod lesen asas (nombor pendaftaran, nama produk, bentuk dos, dan teks petunjuk yang diluluskan) tidak diisi dalam pengumpulan data ini. Ini adalah jurang pengumpulan data pada pihak sumber NPRA, bukan petunjuk bahawa produk tidak didaftarkan — ia harus diselesaikan dengan membuat pertanyaan semula pendaftaran produk NPRA sebelum memuktamadkan sebarang penyerahan pengawalseliaan.
 
 ---
 
-## Cytotoxicity
+## Sitotoksisiti
 
-Tegafur is an antineoplastic drug (conventional cytotoxic, fluoropyrimidine class; prodrug of 5-fluorouracil), so this section applies.
+Tegafur ialah ubat antineoplastik (sitotoksik konvensional, kelas fluoropirimidina; prodrug 5-fluorourasil), jadi bahagian ini terpakai.
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Cytotoxicity Classification | Conventional cytotoxic — fluoropyrimidine class (5-FU prodrug) |
-| Myelosuppression Risk | Moderate — leukopenia and thrombocytopenia are recognized class effects of fluoropyrimidines; the evidence pack also includes a case report of UFT-induced haemolytic anaemia (PMID 11320674) |
-| Emetogenicity Classification | Low to moderate (typical for oral fluoropyrimidines) |
-| Monitoring Items | CBC with differential, liver and renal function, electrolytes; DPD/DPYD genotyping or phenotyping is directly supported by evidence in this pack (NCT05266300, DPYD-genotyping implementation in fluoropyrimidine-treated patients) to reduce risk of severe fluoropyrimidine toxicity |
-| Handling Protection | Standard cytotoxic drug handling and disposal precautions required per institutional/regulatory hazardous drug protocols |
+| Klasifikasi Sitotoksisiti | Sitotoksik konvensional — kelas fluoropirimidina (prodrug 5-FU) |
+| Risiko Pengganan Sumsum Tulang | Sederhana — leukopenia dan trombositopenia adalah kesan kelas yang diiktiraf bagi fluoropirimidina; pakej bukti juga termasuk laporan kes hemolitik anemik yang diinduksi UFT (PMID 11320674) |
+| Klasifikasi Emetogenisiti | Rendah hingga sederhana (tipikal untuk fluoropirimidina oral) |
+| Item Pemantauan | CBC dengan pembezaan, fungsi hati dan buah pinggang, elektrolit; genotaip atau fenotaip DPD/DPYD secara langsung disokong oleh bukti dalam pakej ini (NCT05266300, pelaksanaan genotaip DPYD dalam pesakit yang dirawat dengan fluoropirimidina) untuk mengurangkan risiko toksisiti fluoropirimidina yang teruk |
+| Perlindungan Pengendalian | Prosedur pengendalian dan pelupusan ubat sitotoksik piawai diperlukan mengikut protokol ubat berbahaya institusional/pengawalseliaan |
 
 ---
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information. No key warnings, contraindications, or drug-drug interaction data were available in this evidence pack (DDI query returned no results).
+Sila rujuk sisipan pakej untuk maklumat keselamatan. Tiada data amaran utama, kontraindikasi, atau interaksi ubat-ubat tersedia dalam pakej bukti ini (pertanyaan DDI mengembalikan tiada hasil).
 
 ---
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Proceed with Guardrails**
+**Keputusan: Teruskan dengan Penjaga**
 
-**Rationale:**
-Clinical and literature evidence for tegafur-based regimens in colonic neoplasm is strong (L1: six completed Phase 3 RCTs, including the ACTS-CC 02 and NSABP C-06 trials), and mechanistically consistent with the drug's already-supported role in gastric cancer. However, TFDA/NPRA label safety data (warnings, contraindications) is a **Blocking** data gap (DG001) that must be resolved before this candidate can pass the S1 safety pre-assessment.
+**Rasional:**
+Bukti klinikal dan sastera untuk rejimen berasaskan tegafur dalam neoplasma kolon adalah kuat (L1: enam RCT Phase 3 yang telah selesai, termasuk ujian ACTS-CC 02 dan NSABP C-06), dan konsisten secara mekanik dengan peranan yang sudah disokong ubat dalam kanser gastrik. Walau bagaimanapun, data keselamatan label TFDA/NPRA (amaran, kontraindikasi) adalah jurang data **Menyekat** (DG001) yang mesti diselesaikan sebelum calon ini dapat lulus penilaian keselamatan pra-S1.
 
-**To proceed, the following is needed:**
-- Retrieve and parse the NPRA package insert to close the Blocking safety data gap (DG001) — warnings, contraindications, and dosing precautions
-- Obtain DrugBank/mechanism-of-action data to strengthen the mechanistic rationale (DG002)
-- Re-query NPRA license records to populate registration number, product name, dosage form, and approved indication text for the 3 existing Malaysia registrations
-- Confirm DPD/DPYD deficiency screening protocol as part of the safety monitoring plan, given known severe-toxicity risk in DPD-deficient patients
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Ambil semula dan analisis sisipan pakej NPRA untuk menutup jurang data keselamatan Menyekat (DG001) — amaran, kontraindikasi, dan berhati-hati dos
+- Dapatkan data DrugBank/mekanisme tindakan untuk mengukuhkan rasional mekanik (DG002)
+- Buat pertanyaan semula rekod lesen NPRA untuk memenuhi nombor pendaftaran, nama produk, bentuk dos, dan teks petunjuk yang diluluskan untuk 3 pendaftaran Malaysia sedia ada
+- Sahkan protokol pemeriksaan kekurangan DPD/DPYD sebagai sebahagian daripada rancangan pemantauan keselamatan, memandangkan risiko toksisiti teruk yang diketahui dalam pesakit yang kekurangan DPD
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

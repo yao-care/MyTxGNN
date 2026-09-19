@@ -29,80 +29,81 @@ Tahap bukti: **L4** | Indikasi diramal: **7**
 
 </div>
 
-# Delamanid: From Multidrug-Resistant Tuberculosis to Tuberculosis, Bovine (Zoonotic *M. bovis* Infection)
+# Delamanid: Dari Tuberkulosis Tahan Pelbagai Ubat kepada Tuberkulosis, Bovine (Jangkitan Zoonosis *M. bovis*)
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Delamanid is a nitro-dihydro-imidazooxazole antimycobacterial, publicly known for treating pulmonary multidrug-resistant tuberculosis (MDR-TB) in combination regimens — though this specific detail is not present in the current Malaysia (NPRA) license record. The TxGNN model predicts it may also be effective for **Tuberculosis, Bovine** (zoonotic infection caused by *Mycobacterium bovis*), with a very high model score but **no direct clinical trials and only one indirectly related publication** currently supporting this specific prediction.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not recorded in the current Malaysia (NPRA) license data (license text is blank); publicly known indication is pulmonary MDR-TB as part of combination therapy |
-| Predicted New Indication | Tuberculosis, Bovine |
-| TxGNN Prediction Score | 99.91% |
-| Evidence Level | L4 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+Delamanid ialah agen antimikobakteri nitro-dihidro-imidazooxazol yang diketahui umum untuk merawat tuberkulosis paru tahan pelbagai ubat (MDR-TB) dalam rejimen kombinasi — walaupun butiran spesifik ini tidak terdapat dalam rekod lesen Malaysia (NPRA) semasa. Model TxGNN meramalkan ia juga mungkin berkesan untuk **Tuberkulosis, Bovine** (jangkitan zoonosis yang disebabkan oleh *Mycobacterium bovis*), dengan skor model yang sangat tinggi tetapi **tiada ujian klinikal langsung dan hanya satu penerbitan yang berkaitan secara tidak langsung** yang menyokong ramalan spesifik ini pada masa kini.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Ringkasan Pantas
 
-Detailed mechanism of action data is not available in the evidence pack (flagged as a High-severity data gap). Based on publicly known pharmacology, Delamanid belongs to the nitro-imidazooxazole class and acts by inhibiting mycolic acid biosynthesis in the mycobacterial cell wall — the mechanism underlying its efficacy against *Mycobacterium tuberculosis* in MDR pulmonary TB.
-
-*Mycobacterium bovis*, the causative organism of bovine tuberculosis, belongs to the same *M. tuberculosis* complex and shares the cell-wall biology that delamanid targets. Zoonotic infection of humans by *M. bovis* is clinically and pathologically similar to conventional human TB, so mechanistic extension of an anti-mycobacterial drug to this pathogen is biologically plausible.
-
-This plausibility is reinforced by the broader prediction pattern: four of the top five TxGNN-ranked indications for delamanid (bovine TB, avian TB, tuberculoma, inactive TB) are all mycobacterial-disease manifestations, suggesting the model has correctly captured delamanid's core antimycobacterial mechanism rather than producing an isolated artifact. By contrast, the rank-6 prediction ("allergic urticaria") is supported only by an unrelated case report about a different drug (piperacillin-tazobactam) and should be treated as model noise, not a genuine repurposing signal.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for Delamanid in Tuberculosis, Bovine.
-
-*(Note: two ongoing Phase 2/3 trials of delamanid — [NCT05766267](https://clinicaltrials.gov/study/NCT05766267) and [NCT03568383](https://clinicaltrials.gov/study/NCT03568383) — exist under the separate "inactive tuberculosis" prediction and may offer an alternative, more evidence-rich pathway for this drug within the TB disease cluster.)*
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Tidak tercatat dalam data lesen Malaysia (NPRA) semasa (teks lesen kosong); petunjuk yang diketahui umum ialah tuberkulosis paru MDR-TB sebagai sebahagian daripada terapi kombinasi |
+| Petunjuk Baharu yang Diramalkan | Tuberkulosis, Bovine |
+| Skor Ramalan TxGNN | 99.91% |
+| Tahap Bukti | L4 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [39487429](https://pubmed.ncbi.nlm.nih.gov/39487429/) | 2024 | Genomic/epidemiological study | BMC Genomics | Whole-genome sequencing of zoonotic human TB caused by *M. bovis*, characterizing circulating genotypes and genomic drivers of virulence and drug resistance. Provides pathogen-level context but does not directly study delamanid. |
+Data mekanisme tindakan terperinci tidak tersedia dalam pakej bukti (ditandakan sebagai jurang data keparahan tinggi). Berdasarkan farmakologi yang diketahui umum, delamanid termasuk dalam kelas nitro-imidazooxazol dan bertindak dengan menghambat biosintesis asid mikolik dalam dinding sel mikobakteri — mekanisme yang mendasari keberkesanannya terhadap *Mycobacterium tuberculosis* dalam TB paru MDR.
 
----
+*Mycobacterium bovis*, organisma penyebab tuberkulosis bovine, termasuk dalam kompleks *M. tuberculosis* yang sama dan berkongsi biologi dinding sel yang ditargetkan oleh delamanid. Jangkitan zoonosis manusia oleh *M. bovis* secara klinikal dan patologi serupa dengan TB manusia konvensional, jadi penerapan mekanisme ubat anti-mikobakteri kepada patogen ini adalah munasabah secara biologis.
 
-## Cytotoxicity
-
-Not applicable — Delamanid is an antimycobacterial agent, not an antineoplastic/cytotoxic drug. This section is omitted.
+Kemungkinan ini diperkuat oleh corak ramalan yang lebih luas: empat daripada lima petunjuk yang dirujuk paling tinggi oleh TxGNN untuk delamanid (TB bovine, TB unggas, tuberkuloma, TB tidak aktif) semuanya adalah manifestasi penyakit mikobakteri, mencadangkan model telah menangkap mekanisme antimikobakteri delamanid yang betul dan bukannya menghasilkan artifak terisolasi. Sebaliknya, ramalan pangkat-6 ("urticaria alergik") disokong hanya oleh laporan kes yang tidak berkaitan tentang ubat yang berbeza (piperasilin-tazobaktam) dan harus dianggap sebagai hingar model, bukan isyarat repurposing yang tulen.
 
 ---
 
-## Safety Considerations
+## Bukti Ujian Klinikal
 
-Please refer to the package insert for safety information.
+Pada masa ini tiada ujian klinikal yang berkaitan didaftarkan untuk delamanid dalam Tuberkulosis, Bovine.
 
-*(Note: TFDA/NPRA label warnings, contraindications, and drug-interaction data could not be retrieved and are flagged as a Blocking data gap — this must be resolved before any safety evaluation can proceed.)*
+*(Nota: dua ujian Fasa 2/3 yang sedang berlangsung bagi delamanid — [NCT05766267](https://clinicaltrials.gov/study/NCT05766267) dan [NCT03568383](https://clinicaltrials.gov/study/NCT03568383) — wujud di bawah ramalan "tuberkulosis tidak aktif" yang berasingan dan mungkin menawarkan laluan alternatif yang lebih kaya dengan bukti untuk ubat ini dalam kelompok penyakit TB.)*
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Sastera
 
-**Decision: Hold**
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-------|-------|--------|-------------------|
+| [39487429](https://pubmed.ncbi.nlm.nih.gov/39487429/) | 2024 | Kajian Genomik/Epidemiologi | BMC Genomics | Penjujukan genom keseluruhan tuberkulosis manusia zoonosis yang disebabkan oleh *M. bovis*, mencirikan genotip yang beredar dan pemandu genomik bagi keganasannya dan rintangan ubat. Memberikan konteks peringkat patogen tetapi tidak secara langsung mengkaji delamanid. |
 
-**Rationale:**
-- The specific prediction (tuberculosis, bovine) has no direct clinical trial evidence and only one indirectly related publication that does not study delamanid itself.
-- A Blocking data gap exists: no package-insert warnings, contraindications, or drug-interaction data are available, which prevents any preliminary safety assessment (S1) regardless of efficacy evidence.
+---
 
-**To proceed, the following is needed:**
-- Malaysia (NPRA) product label text — warnings, contraindications, dosage form, and approved indication (currently blank in the license record)
-- DrugBank-sourced mechanism of action data
-- Dedicated clinical or preclinical studies evaluating delamanid specifically against *M. bovis*/zoonotic TB, or a decision to instead prioritize the "inactive tuberculosis" prediction, which already has two active Phase 2/3 trials directly testing delamanid
+## Sitotoksisiti
+
+Tidak berkaitan — delamanid ialah agen antimikobakteri, bukan ubat antineoplastik/sitotoksik. Bahagian ini ditinggalkan.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk insert pembungkus untuk maklumat keselamatan.
+
+*(Nota: amaran label TFDA/NPRA, kontraindikasi, dan data interaksi ubat tidak dapat diambil dan ditandakan sebagai jurang data pemblokiran — ini mesti diselesaikan sebelum sebarang penilaian keselamatan awal boleh diteruskan.)*
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Alasan:**
+- Ramalan spesifik (tuberkulosis, bovine) tidak mempunyai bukti ujian klinikal langsung dan hanya satu penerbitan yang berkaitan secara tidak langsung yang tidak mengkaji delamanid itu sendiri.
+- Jurang data pemblokiran wujud: tiada teks label produk Malaysia (NPRA), amaran, kontraindikasi, atau data interaksi ubat tersedia, yang menghalang sebarang penilaian keselamatan awal (S1) tanpa mengira bukti keberkesanan.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Teks label produk Malaysia (NPRA) — amaran, kontraindikasi, bentuk dos, dan petunjuk yang diluluskan (pada masa ini kosong dalam rekod lesen)
+- Data mekanisme tindakan bersumber DrugBank
+- Kajian klinikal atau praklinikan khusus menilai delamanid secara spesifik terhadap *M. bovis*/TB zoonosis, atau keputusan untuk sebaliknya mengutamakan ramalan "tuberkulosis tidak aktif", yang sudah mempunyai dua ujian Fasa 2/3 yang aktif secara langsung menguji delamanid
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

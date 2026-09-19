@@ -29,78 +29,79 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Imipenem: From Bacterial Infections to Diffuse Scleroderma
+# Imipenem: Daripada Jangkitan Bakteria kepada Scleroderma Difus
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-> Imipenem (with cilastatin) is a broad-spectrum carbapenem antibiotic used for severe and multidrug-resistant bacterial infections; the specific TFDA-approved indication text is not available in the source data.
-> The TxGNN model's top-ranked prediction is **Diffuse Scleroderma**, with a very high prediction score but **0 clinical trials** and **0 publications** currently supporting this direction.
-> This candidate should be treated as a low-confidence model output requiring further scrutiny before any action is taken.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not specified in source data (Imipenem is generally known as a broad-spectrum antibacterial for severe/multidrug-resistant infections) |
-| Predicted New Indication | Diffuse Scleroderma |
-| TxGNN Prediction Score | 99.99% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 5 |
-| Recommended Decision | Hold |
+> Imipenem (dengan cilastatin) adalah antibiotik carbapenem spektrum luas yang digunakan untuk jangkitan bakteria yang teruk dan tahan terhadap pelbagai ubat; teks indikasi yang diluluskan TFDA yang khusus tidak tersedia dalam data sumber.
+> Ramalan kedudukan teratas model TxGNN adalah **Scleroderma Difus**, dengan skor prediksi yang sangat tinggi tetapi **0 ujian klinikal** dan **0 penerbitan** yang sedang menyokong arah ini.
+> Calon ini harus dianggap sebagai output model keyakinan rendah yang memerlukan penelitian lanjut sebelum sebarang tindakan diambil.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Ringkas
 
-Currently, detailed mechanism of action data is not available (Data Gap DG002). Based on known pharmacology, Imipenem is a carbapenem-class beta-lactam antibiotic that inhibits bacterial cell wall synthesis by binding penicillin-binding proteins (PBPs), giving it broad-spectrum bactericidal activity against Gram-positive, Gram-negative, and anaerobic organisms.
-
-Diffuse scleroderma, however, is an autoimmune and fibrotic connective tissue disease with no known bacterial etiology. There is no antimicrobial target in its pathophysiology that would explain a therapeutic effect from a cell-wall-synthesis inhibitor. Consistent with this, the evidence pack's own mechanistic assessment states there is **no mechanistic link** between the drug and this disease, and that the high TxGNN score most likely reflects a spurious association from the knowledge-graph embedding rather than a real biological signal — supported by the complete absence of clinical trials or literature (0/0).
-
-By contrast, several lower-ranked predictions in this same evidence pack (e.g., typhoid fever, salmonellosis, staphylococcus aureus infection) fall squarely within Imipenem's known antibacterial spectrum and are backed by clinical and literature evidence. This reinforces that the top-ranked diffuse scleroderma prediction is an outlier rather than a genuine repurposing signal.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Tidak dinyatakan dalam data sumber (Imipenem secara amnya dikenali sebagai antibakterial spektrum luas untuk jangkitan yang teruk/tahan terhadap pelbagai ubat) |
+| Indikasi Baru yang Diprediksi | Scleroderma Difus |
+| Skor Prediksi TxGNN | 99.99% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Jumlah Pendaftaran | 5 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Masuk Akal?
 
-Currently no related literature available
+Pada masa ini, data mekanisme tindakan yang terperinci tidak tersedia (Jurang Data DG002). Berdasarkan farmakologi yang diketahui, Imipenem adalah antibiotik beta-laktam kelas carbapenem yang menghalang sintesis dinding sel bakteria dengan mengikat protein pengikat penisilin (PBP), memberikannya aktiviti membunuh bakteria spektrum luas terhadap organisma Gram-positif, Gram-negatif, dan anaerob.
 
----
+Scleroderma difus, bagaimanapun, adalah penyakit jaringan ikat autoimun dan fibrotik tanpa etiologi bakteria yang diketahui. Tiada sasaran antimikrob dalam patofisiologinya yang akan menjelaskan kesan terapeutik daripada penghambat sintesis dinding sel. Konsisten dengan ini, penilaian mekanistik pakej bukti sendiri menyatakan tiada pautan mekanistik antara ubat dan penyakit ini, dan bahawa skor TxGNN yang tinggi paling mungkin mencerminkan asosiasi palsu daripada penyisipan graf pengetahuan daripada isyarat biologi sebenar — disokong oleh ketiadaan lengkap ujian klinikal atau literatur (0/0).
 
-## Malaysia Market Information
-
-Malaysia (NPRA) records indicate the product is marketed with **5 registered licenses**, but detailed license information (authorization numbers, product names, dosage forms, approved indication text) is not available in the source data.
+Sebaliknya, beberapa ramalan berpangkat rendah dalam pakej bukti yang sama ini (contohnya, demam tifoid, salmonelosis, jangkitan Staphylococcus aureus) jatuh tepat dalam spektrum antibakterial yang diketahui Imipenem dan disokong oleh bukti klinikal dan literatur. Ini memperkuat bahawa ramalan scleroderma difus berpangkat teratas adalah pencilan daripada isyarat penggunaan semula yang tulen.
 
 ---
 
-## Safety Considerations
+## Bukti Ujian Klinikal
 
-Please refer to the package insert for safety information.
-
-*(Note: TFDA/NPRA label warnings and contraindications (DG001) are flagged as a Blocking data gap — this information must be obtained before any safety evaluation can proceed.)*
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Hold**
+Pada masa ini tiada literatur berkaitan yang tersedia
 
-**Rationale:**
-The top-ranked prediction (diffuse scleroderma) has no plausible mechanistic rationale, no clinical trials, and no supporting literature — it does not meet even the minimum bar for further evaluation (L5/S0).
+---
 
-**To proceed, the following is needed:**
-- Package insert warnings/contraindications (DG001, Blocking) to complete basic safety screening
-- Mechanism of action data (DG002) to properly assess biological plausibility for any predicted indication
-- If pursuing repurposing analysis further, prioritize better-supported candidates from the same prediction set (e.g., typhoid fever, staphylococcus aureus infection) rather than diffuse scleroderma
-- Complete Malaysia license detail (product names, dosage forms, approved indication text) currently missing from registry records
+## Maklumat Pasaran Malaysia
+
+Rekod Malaysia (NPRA) menunjukkan produk dipasarkan dengan **5 lesen terdaftar**, tetapi maklumat lesen terperinci (nombor kebenaran, nama produk, bentuk dos, teks indikasi yang diluluskan) tidak tersedia dalam data sumber.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk surat sisipan paket untuk maklumat keselamatan.
+
+*(Nota: amaran label TFDA/NPRA dan kontraindikasi (DG001) ditandai sebagai jurang data yang menghalang — maklumat ini mesti diperolehi sebelum sebarang penilaian keselamatan dapat diteruskan.)*
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Ramalan berpangkat teratas (scleroderma difus) tidak mempunyai rasional mekanistik yang munasabah, tiada ujian klinikal, dan tiada literatur sokongan — ia tidak memenuhi bahkan bar minimum untuk penilaian lanjut (L5/S0).
+
+**Untuk meneruskan, berikut diperlukan:**
+- Amaran surat sisipan paket/kontraindikasi (DG001, Menghalang) untuk melengkapkan pemeriksaan keselamatan asas
+- Data mekanisme tindakan (DG002) untuk menilai dengan wajar keberkebolehajaran biologi untuk sebarang indikasi yang diprediksi
+- Jika mengejar analisis penggunaan semula lebih lanjut, utamakan calon yang lebih banyak disokong daripada set ramalan yang sama (contohnya, demam tifoid, jangkitan Staphylococcus aureus) daripada scleroderma difus
+- Lengkapkan butiran lesen Malaysia (nama produk, bentuk dos, teks indikasi yang diluluskan) yang sedang hilang daripada rekod daftar
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

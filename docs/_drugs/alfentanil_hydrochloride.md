@@ -29,78 +29,79 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Alfentanil Hydrochloride: From Anesthesia Adjunct to No Repurposing Prediction Available
+# Alfentanil Hydrochloride: Daripada Adjuvant Anestesia kepada Tiada Ramalan Penggunaan Semula Tersedia
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Alfentanil Hydrochloride is a short-acting synthetic opioid analgesic primarily used as an anesthetic adjunct for intraoperative analgesia and sedation in monitored care settings.
-The TxGNN model did **not generate any repurposing predictions** for this drug in the current run, likely due to incomplete input data (missing DrugBank ID and indication mapping).
-With **critical data gaps** in both safety profile and mechanistic annotation, further data collection is required before meaningful repurposing analysis can proceed.
+Alfentanil Hydrochloride ialah analgesik opioid sintetik jangka pendek yang digunakan terutamanya sebagai adjuvant anestesi untuk analgesia intraoperatif dan sedasi dalam tetapan penjagaan terpantau.
+Model TxGNN **tidak menghasilkan sebarang ramalan penggunaan semula** untuk ubat ini dalam pelaksanaan semasa, berkemungkinan besar disebabkan oleh data masukan yang tidak lengkap (DrugBank ID hilang dan pemetaan petunjuk hilang).
+Dengan **jurang data yang kritikal** dalam profil keselamatan dan anotasi mekanik, pengumpulan data lebih lanjut diperlukan sebelum analisis penggunaan semula yang bermakna dapat diteruskan.
 
 ---
 
-## Quick Overview
+## Tinjauan Pantas
 
-| Item | Content |
+| Item | Kandungan |
 |------|---------|
-| Original Indication | Short-acting analgesia adjunct in general anesthesia and monitored anesthesia care |
-| Predicted New Indication | — Not available (no TxGNN prediction generated) |
-| TxGNN Prediction Score | — N/A |
-| Evidence Level | L5 — Model prediction not generated; data insufficient |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | **Hold** |
+| Petunjuk Asal | Adjuvant analgesia jangka pendek dalam anestesi umum dan penjagaan anestesia terpantau |
+| Petunjuk Baru yang Diramalkan | — Tidak tersedia (tiada ramalan TxGNN dijana) |
+| Skor Ramalan TxGNN | — T/A |
+| Tahap Bukti | L5 — Ramalan model tidak dijana; data tidak mencukupi |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | **Tahan** |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data is not available in the Evidence Pack. Based on established pharmacological knowledge, Alfentanil Hydrochloride is a 4-anilidopiperidine–class synthetic opioid that acts as a full agonist at the μ-opioid receptor (MOR), producing rapid-onset, short-duration analgesia and sedation. Its ultrashort context-sensitive half-life makes it particularly suited for procedural analgesia and intraoperative use.
+Pada masa kini, data mekanisme tindakan terperinci tidak tersedia dalam Pakej Bukti. Berdasarkan pengetahuan farmakologi yang telah ditetapkan, Alfentanil Hydrochloride ialah opioid sintetik kelas 4-anilidopiperidine yang bertindak sebagai agonis penuh di reseptor μ-opioid (MOR), menghasilkan analgesia dan sedasi dengan permulaan cepat dan tempoh pendek. Separuh hayat sensitif konteks ultrapendennya menjadikannya amat sesuai untuk analgesia prosedural dan penggunaan intraoperatif.
 
-No TxGNN repurposing prediction was generated for this drug in the current pipeline run. This is most likely because the DrugBank ID was not resolved (recorded as `null`), preventing the knowledge graph from mapping Alfentanil to the required node in the drug–disease bipartite network. Without a valid DrugBank anchor, neither KG-based nor deep learning–based predictions can be executed.
+Tiada ramalan penggunaan semula TxGNN yang dijana untuk ubat ini dalam pelaksanaan saluran paip semasa. Ini berkemungkinan besar kerana DrugBank ID tidak diselesaikan (dicatat sebagai `null`), menghalang graf pengetahuan daripada memetakan Alfentanil ke nod yang diperlukan dalam rangkaian dwipartit ubat-penyakit. Tanpa sauh DrugBank yang sah, ramalan berasaskan KG mahupun pembelajaran mendalam tidak dapat dilaksanakan.
 
-Before any repurposing hypothesis can be evaluated, the pipeline must first resolve the DrugBank ID (likely **DB00802 — Alfentanil**), populate the approved indication text from the NPRA/TFDA product monograph, and re-run the full prediction workflow. Only then will a scientifically grounded evaluation be possible.
+Sebelum sebarang hipotesis penggunaan semula dapat dinilai, saluran paip mesti terlebih dahulu menyelesaikan DrugBank ID (dijangka: **DB00802 — Alfentanil**), melengkapkan teks petunjuk yang diluluskan daripada monografi produk NPRA/TFDA, dan menjalankan semula aliran kerja ramalan lengkap. Hanya selepas itu penilaian yang berasaskan sains dapat dilakukan.
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-The Evidence Pack confirms one active registration in Malaysia; however, the detailed product fields (authorization number, product name, dosage form, manufacturer, and approved indication text) were returned empty from the regulatory query. The registration record exists but could not be fully retrieved.
+Pakej Bukti mengesahkan satu pendaftaran aktif di Malaysia; bagaimanapun, medan produk terperinci (nombor kebenaran, nama produk, bentuk dos, pengilang, dan teks petunjuk yang diluluskan) dikembalikan kosong daripada pertanyaan kawal selia. Rekod pendaftaran wujud tetapi tidak dapat diambil sepenuhnya.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjuk yang Diluluskan |
 |---------------------|-------------|-------------|-------------------|
-| — (record present, details not retrieved) | — | — | — |
+| — (rekod hadir, butiran tidak diambil) | — | — | — |
 
-> **Action required:** Retrieve the full NPRA product monograph to populate the above fields and confirm the approved indication text.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-> All safety fields (key warnings, contraindications, and drug–drug interactions) returned as data gaps in this Evidence Pack. Given that Alfentanil is a Schedule II–equivalent controlled opioid, known safety concerns include respiratory depression, CNS depression, bradycardia, chest wall rigidity (at high doses), potential for misuse and dependence, and interactions with CNS depressants (benzodiazepines, propofol, volatile anesthetics, MAOIs). These must be formally documented from the approved product monograph before any repurposing evaluation proceeds.
+> **Tindakan diperlukan:** Ambil monografi produk NPRA lengkap untuk melengkapkan medan di atas dan mengesahkan teks petunjuk yang diluluskan.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila rujuk kepada sisipan pakej untuk maklumat keselamatan.
 
-**Rationale:**
-The TxGNN pipeline produced zero repurposing predictions for Alfentanil Hydrochloride because the DrugBank ID could not be resolved, blocking knowledge graph node mapping and all downstream prediction steps. Without predictions, no evidence review, mechanistic analysis, or benefit–risk assessment is possible at this stage.
-
-**To proceed, the following is needed:**
-
-- **[Critical — DG001]** Download and parse the NPRA/TFDA product monograph PDF to extract approved indication text, key warnings, and contraindications
-- **[Critical — DG002]** Confirm and populate the DrugBank ID (expected: **DB00802**) to enable KG and DL prediction runs
-- **[Required]** Populate all empty NPRA license fields (authorization number, product name, dosage form, manufacturer)
-- **[Required]** Re-run the full TxGNN pipeline (`run_kg_prediction.py`, `txgnn_model.py`) after resolving the above gaps
-- **[Optional]** Query DrugBank API for MOA, pharmacodynamics, and drug interaction data to support mechanistic analysis once predictions are available
+> Semua medan keselamatan (amaran utama, kontraindikasi, dan interaksi ubat-ubat) dikembalikan sebagai jurang data dalam Pakej Bukti ini. Memandangkan Alfentanil ialah opioid terkontrol setara Jadual II, kebimbangan keselamatan yang diketahui termasuk pemendapan pernafasan, pemendapan CNS, bradikardia, kekakuan dinding dada (pada dos tinggi), potensi penyalahgunaan dan kebergantungan, serta interaksi dengan depresan sistem saraf pusat (benzodiazpin, propofol, anestesi mudah meruap, MAOIs). Ini mesti didokumentasikan secara rasmi daripada monografi produk yang diluluskan sebelum penilaian penggunaan semula apa pun diteruskan.
 
 ---
 
-> ⚠️ **Disclaimer:** This report is generated for research reference purposes only and does not constitute medical advice. All drug repurposing candidates require clinical validation before application. This evaluation reflects data available as of 2026-04-04.
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Saluran paip TxGNN menghasilkan sifar ramalan penggunaan semula untuk Alfentanil Hydrochloride kerana DrugBank ID tidak dapat diselesaikan, menghalang pemetaan nod graf pengetahuan dan semua langkah ramalan hiliran. Tanpa ramalan, tiada semakan bukti, analisis mekanik, atau penilaian manfaat-risiko yang mungkin pada peringkat ini.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+
+- **[Kritikal — DG001]** Muat turun dan huraikan PDF monografi produk NPRA/TFDA untuk mengekstrak teks petunjuk yang diluluskan, amaran utama, dan kontraindikasi
+- **[Kritikal — DG002]** Sahkan dan lengkapkan DrugBank ID (dijangka: **DB00802**) untuk membolehkan pelaksanaan ramalan KG dan DL
+- **[Diperlukan]** Lengkapkan semua medan lesen NPRA kosong (nombor kebenaran, nama produk, bentuk dos, pengilang)
+- **[Diperlukan]** Jalankan semula aliran kerja TxGNN lengkap (`run_kg_prediction.py`, `txgnn_model.py`) selepas menyelesaikan jurang di atas
+- **[Pilihan]** Pertanyaan API DrugBank untuk MOA, farmakodinamik, dan data interaksi ubat untuk menyokong analisis mekanik setelah ramalan tersedia
+
+---
+
+> ⚠️ **Penafian:** Laporan ini dijana untuk tujuan rujukan penyelidikan sahaja dan tidak membentuk nasihat perubatan. Semua calon penggunaan semula ubat memerlukan pengesahan klinikal sebelum penerapan. Penilaian ini mencerminkan data yang tersedia pada 2026-04-04.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

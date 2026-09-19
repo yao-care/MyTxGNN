@@ -29,101 +29,102 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-# Triamcinolone: From Corticosteroid-Responsive Inflammatory Conditions to Erythema Multiforme
+# Triamcinolone: Daripada Keadaan Peradangan Responsif Kortikosteroid hingga Eritema Multiforme
 
-## One-Sentence Summary
+## Ringkasan dalam Satu Ayat
 
-Triamcinolone is a synthetic corticosteroid marketed in Malaysia across 47 registered products, though its specific approved indication text was not captured in this data extract. The TxGNN model ranks **Erythema Multiforme** as its top predicted new indication, but the supporting evidence pool (7 clinical trials, 20 publications) is largely indirect — none of the retrieved trials specifically target erythema multiforme, and a notable share of the literature describes triamcinolone as a **cause** of erythema-multiforme-like hypersensitivity reactions rather than a treatment for it.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not specified in current NPRA data extract (Triamcinolone is a corticosteroid class drug used broadly for inflammatory, allergic, dermatologic, ophthalmic, and rheumatic conditions) |
-| Predicted New Indication | Erythema Multiforme |
-| TxGNN Prediction Score | 0.00%* |
-| Evidence Level | L4 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 47 |
-| Recommended Decision | Hold |
-
-*\*The TxGNN score is reported as 0.0 for the rank‑1 prediction in the source data — this is inconsistent with its "top ranked" position and should be verified against the scoring pipeline before use in decision-making.*
+Triamcinolone adalah kortikosteroid sintetik yang dipasarkan di Malaysia merentasi 47 produk berdaftar, walaupun teks indikasi yang diluluskan khususnya tidak ditangkap dalam ekstrak data ini. Model TxGNN meletakkan **Eritema Multiforme** sebagai indikasi baru yang paling tinggi berada di kedudukan teratas, tetapi kumpulan bukti sokongan (7 ujian klinikal, 20 penerbitan) sebahagian besarnya adalah tidak langsung — tiada ujian yang diambil khusus menyasarkan eritema multiforme, dan bahagian yang ketara dalam literatur menerangkan triamcinolone sebagai **penyebab** daripada tindak balas hipersensitiviti yang serupa eritema multiforme dan bukannya rawatan untuknya.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Pantas
 
-Currently, detailed mechanism of action data is not available (data gap DG002). Based on known pharmacological class information, triamcinolone is a synthetic glucocorticoid with anti-inflammatory and immunosuppressive activity, reflected in the breadth of its 47 Malaysia registrations and the wide range of conditions covered in the retrieved trial evidence (dermatitis, alopecia areata, acne, uveitis, macular edema, orbital inflammation). Erythema multiforme is itself an immune-mediated (type IV hypersensitivity) mucocutaneous inflammatory condition, and corticosteroids — including topical and intralesional triamcinolone — are already used in practice for related oral vesiculoerosive diseases (per PMID 30189985), which lends some mechanistic plausibility to the TxGNN prediction.
+| Item | Kandungan |
+|------|---------|
+| Indikasi Asal | Tidak dinyatakan dalam ekstrak data NPRA semasa (Triamcinolone adalah ubat kelas kortikosteroid yang digunakan secara meluas untuk keadaan peradangan, alergik, dermatologi, oftalmik, dan reumatik) |
+| Indikasi Baru yang Diramal | Eritema Multiforme |
+| Skor Ramalan TxGNN | 0.00%* |
+| Tahap Bukti | L4 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 47 |
+| Keputusan yang Disyorkan | Tahan |
 
-However, this rationale must be weighed against a significant confound in the evidence: several of the retrieved publications (e.g., PMID 9687059, 24603513) describe triamcinolone — particularly topical and intra-articular formulations — as a **trigger** of erythema-multiforme-like allergic/contact hypersensitivity reactions, i.e., the opposite causal direction. This is an important signal that must be reconciled before this candidate advances, since it suggests the drug-disease relationship in the literature is bidirectional (both causative and, in limited case reports, therapeutic) rather than clearly supportive.
+*\*Skor TxGNN dilaporkan sebagai 0.0 untuk ramalan kedudukan-1 dalam data sumber — ini tidak konsisten dengan kedudukannya yang "paling tinggi" dan harus disahkan terhadap saluran pemarkahan sebelum digunakan dalam pengambilan keputusan.*
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-**None of the following trials specifically enrolled or targeted erythema multiforme patients** — they were returned by a broader Triamcinolone + "erythema multiforme" search and mostly reflect general triamcinolone use in unrelated conditions. They are listed for completeness but do not constitute direct efficacy evidence for this indication.
+Pada masa ini, data mekanisme tindakan yang terperinci tidak tersedia (jurang data DG002). Berdasarkan maklumat kelas farmakologi yang diketahui, triamcinolone adalah glukokortikoid sintetik dengan aktiviti anti-peradangan dan imunosupresan, yang ditunjukkan oleh luasnya 47 pendaftaran Malaysia dan pelbagai keadaan yang diliputi dalam bukti ujian yang diambil (dermatitis, alopecia areata, jerawat, uveitis, edema makula, keradangan orbital). Eritema multiforme itu sendiri adalah keadaan mukoikutan peradangan yang dirantai oleh imuniti (hipersensitiviti jenis IV), dan kortikosteroid — termasuk triamcinolone topikal dan intralesi — sudah digunakan dalam amalan untuk penyakit vesikulerosif oral yang berkaitan (setiap PMID 30189985), yang memberikan beberapa kelayakan mekanistik kepada ramalan TxGNN.
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Bagaimanapun, nisbah ini mesti ditimbang terhadap gangguan yang ketara dalam bukti: beberapa penerbitan yang diambil (cth., PMID 9687059, 24603513) menerangkan triamcinolone — khususnya formulasi topikal dan intraartikular — sebagai **pencetus** daripada tindak balas hipersensitiviti alergik/sentuhan yang serupa eritema multiforme, iaitu arah kausal yang bertentangan. Ini adalah isyarat penting yang mesti diselaraskan sebelum calon ini maju, kerana ia menunjukkan hubungan ubat-penyakit dalam literatur adalah dua hala (kedua-duanya penyebab dan, dalam laporan kes terhad, terapeutik) dan bukannya sokongan yang jelas.
+
+---
+
+## Bukti Ujian Klinikal
+
+**Tiada ujian dalam ujian berikut yang secara khusus mengambil kira atau menyasarkan pesakit eritema multiforme** — ia dikembalikan oleh carian Triamcinolone + "eritema multiforme" yang lebih luas dan kebanyakannya mencerminkan penggunaan triamcinolone umum dalam keadaan yang tidak berkaitan. Ia disenaraikan untuk kesempurnaan tetapi tidak membentuk bukti keberkesanan langsung untuk indikasi ini.
+
+| Nombor Ujian | Fasa | Status | Kerekrutan | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT06132737](https://clinicaltrials.gov/study/NCT06132737) | Phase 1/2 | Recruiting | 15 | [90Y]Y-PentixaTher for CNS lymphoma — not related to erythema multiforme |
-| [NCT05844618](https://clinicaltrials.gov/study/NCT05844618) | Phase 4 | Completed | 20 | Short-term efficacy of triamcinolone acetonide in atopic dermatitis |
-| [NCT05278858](https://clinicaltrials.gov/study/NCT05278858) | Phase 4 | Terminated | 3 | Needle-free intralesional triamcinolone for pediatric alopecia areata |
-| [NCT06186596](https://clinicaltrials.gov/study/NCT06186596) | N/A | Unknown | 150 | Self-administered intralesional triamcinolone for acne vulgaris |
-| [NCT06170593](https://clinicaltrials.gov/study/NCT06170593) | N/A | Completed | 20 | Intralesional triamcinolone for acne vulgaris (proof of concept) |
-| [NCT01712685](https://clinicaltrials.gov/study/NCT01712685) | Phase 2 | Terminated | 12 | PET imaging agent trial in renal cell carcinoma — not related |
-| [NCT05106192](https://clinicaltrials.gov/study/NCT05106192) | N/A | Withdrawn | 0 | Triamcinolone injections in cutaneous lymphoma plaques |
+| [NCT06132737](https://clinicaltrials.gov/study/NCT06132737) | Fasa 1/2 | Merekrut | 15 | [90Y]Y-PentixaTher untuk limfoma CNS — tidak berkaitan dengan eritema multiforme |
+| [NCT05844618](https://clinicaltrials.gov/study/NCT05844618) | Fasa 4 | Selesai | 20 | Keberkesanan jangka pendek triamcinolone acetonide dalam dermatitis atopik |
+| [NCT05278858](https://clinicaltrials.gov/study/NCT05278858) | Fasa 4 | Ditamatkan | 3 | Triamcinolone intralesi tanpa jarum untuk alopecia areata pediatrik |
+| [NCT06186596](https://clinicaltrials.gov/study/NCT06186596) | T/A | Tidak diketahui | 150 | Triamcinolone intralesi yang ditadbir sendiri untuk jerawat vulgaris |
+| [NCT06170593](https://clinicaltrials.gov/study/NCT06170593) | T/A | Selesai | 20 | Triamcinolone intralesi untuk jerawat vulgaris (konsep bukti) |
+| [NCT01712685](https://clinicaltrials.gov/study/NCT01712685) | Fasa 2 | Ditamatkan | 12 | Ujian agen PET dalam karsinoma sel renal — tidak berkaitan |
+| [NCT05106192](https://clinicaltrials.gov/study/NCT05106192) | T/A | Ditarik balik | 0 | Suntikan triamcinolone dalam plak limfoma kulit |
 
 ---
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [30189985](https://pubmed.ncbi.nlm.nih.gov/30189985/) | 2018 | Review | Dental Clinics of North America | Topical/systemic corticosteroids, including triamcinolone, are used to manage painful oral vesiculoerosive diseases including erythema multiforme |
-| [8690267](https://pubmed.ncbi.nlm.nih.gov/8690267/) | 1996 | Case report (therapeutic) | General Dentistry | Triamcinolone mouthrinse contributed to resolution of oral erythema multiforme lesions |
-| [25098675](https://pubmed.ncbi.nlm.nih.gov/25098675/) | 2015 | Case report (therapeutic) | Clin J Sport Med | Erythema-multiforme-like contact dermatitis from a knee brace resolved with triamcinolone ointment treatment |
-| [39507134](https://pubmed.ncbi.nlm.nih.gov/39507134/) | 2024 | Case report | Cureus | Drug-induced oral erythema multiforme — general case discussion |
-| [38566932](https://pubmed.ncbi.nlm.nih.gov/38566932/) | 2024 | Case report | Int Med Case Reports J | Oral health-related quality of life in herpes-associated erythema multiforme |
-| [9687059](https://pubmed.ncbi.nlm.nih.gov/9687059/) | 1998 | Case report (adverse reaction) | Contact Dermatitis | Erythema-multiforme-**like lesions caused by** triamcinolone acetonide |
-| [24603513](https://pubmed.ncbi.nlm.nih.gov/24603513/) | 2014 | Case report (adverse reaction) | Dermatitis | Erythema-multiforme-like **allergic contact reaction to** topical triamcinolone |
-| [32677172](https://pubmed.ncbi.nlm.nih.gov/32677172/) | 2021 | Case report (adverse reaction) | Contact Dermatitis | Systemic allergic dermatitis **from** intra-articular triamcinolone acetonide |
-| [28128086](https://pubmed.ncbi.nlm.nih.gov/28128086/) | 2016 | Case report | Acta Dermatovenerol Croat | Vesicular contact reaction progressing into erythema multiforme |
-| [1068978](https://pubmed.ncbi.nlm.nih.gov/1068978/) | 1976 | Review | Int Dental Journal | Historical overview of topical corticosteroids (incl. triamcinolone) in oral mucosal disease |
+| [30189985](https://pubmed.ncbi.nlm.nih.gov/30189985/) | 2018 | Ulasan | Dental Clinics of North America | Kortikosteroid topikal/sistemik, termasuk triamcinolone, digunakan untuk menguruskan penyakit vesikulerosif oral yang menyakitkan termasuk eritema multiforme |
+| [8690267](https://pubmed.ncbi.nlm.nih.gov/8690267/) | 1996 | Laporan kes (terapeutik) | General Dentistry | Berkumur triamcinolone menyumbang kepada resolusi lesi eritema multiforme oral |
+| [25098675](https://pubmed.ncbi.nlm.nih.gov/25098675/) | 2015 | Laporan kes (terapeutik) | Clin J Sport Med | Dermatitis sentuhan serupa eritema multiforme daripada pendakap lutut diselesaikan dengan rawatan salep triamcinolone |
+| [39507134](https://pubmed.ncbi.nlm.nih.gov/39507134/) | 2024 | Laporan kes | Cureus | Eritema multiforme yang disebabkan ubat — perbincangan kes umum |
+| [38566932](https://pubmed.ncbi.nlm.nih.gov/38566932/) | 2024 | Laporan kes | Int Med Case Reports J | Kualiti hidup yang berkaitan dengan kesihatan mulut dalam eritema multiforme yang berkaitan herpes |
+| [9687059](https://pubmed.ncbi.nlm.nih.gov/9687059/) | 1998 | Laporan kes (tindak balas merugikan) | Contact Dermatitis | Lesi serupa eritema multiforme **yang disebabkan oleh** triamcinolone acetonide |
+| [24603513](https://pubmed.ncbi.nlm.nih.gov/24603513/) | 2014 | Laporan kes (tindak balas merugikan) | Dermatitis | Tindak balas sentuhan alergik serupa eritema multiforme **kepada** triamcinolone topikal |
+| [32677172](https://pubmed.ncbi.nlm.nih.gov/32677172/) | 2021 | Laporan kes (tindak balas merugikan) | Contact Dermatitis | Dermatitis alergik sistemik **daripada** triamcinolone acetonide intra-artikular |
+| [28128086](https://pubmed.ncbi.nlm.nih.gov/28128086/) | 2016 | Laporan kes | Acta Dermatovenerol Croat | Tindak balas sentuhan vesikular yang berkembang menjadi eritema multiforme |
+| [1068978](https://pubmed.ncbi.nlm.nih.gov/1068978/) | 1976 | Ulasan | Int Dental Journal | Tinjauan sejarah kortikosteroid topikal (termasuk triamcinolone) dalam penyakit mukosa oral |
 
-**Note:** Three of the ten entries above (PMID 9687059, 24603513, 32677172) describe triamcinolone as causing erythema-multiforme-like reactions rather than treating the condition — this adverse-reaction signal should be explicitly addressed in any safety evaluation.
-
----
-
-## Malaysia Market Information
-
-NPRA records confirm **47 active licenses** for Triamcinolone-containing products in Malaysia, but individual license number, product name, dosage form, and indication text were not returned in this data extract (all fields blank in the source records). Product-level detail needs to be re-queried from NPRA before market-entry planning can proceed.
+**Nota:** Tiga daripada sepuluh entri di atas (PMID 9687059, 24603513, 32677172) menerangkan triamcinolone sebagai menyebabkan tindak balas serupa eritema multiforme dan bukannya merawat keadaan — isyarat tindak balas merugikan ini harus ditangani secara eksplisit dalam sebarang penilaian keselamatan.
 
 ---
 
-## Safety Considerations
+## Maklumat Pasaran Malaysia
 
-Please refer to the package insert for safety information. (Key warnings, contraindications, and drug interaction data were not available in the current evidence pack — this is flagged as a **Blocking** data gap in the source meta record, DG001, since it prevents a formal safety pre-screen.)
+Rekod NPRA mengesahkan **47 lesen aktif** untuk produk yang mengandungi Triamcinolone di Malaysia, tetapi nombor lesen individu, nama produk, bentuk dos, dan teks indikasi tidak dikembalikan dalam ekstrak data ini (semua medan kosong dalam rekod sumber). Butiran peringkat produk perlu disaman semula daripada NPRA sebelum perancangan kemasukan pasaran dapat diteruskan.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila rujuk sisipan bungkusan untuk maklumat keselamatan. (Data amaran utama, kontraindikasi, dan interaksi ubat tidak tersedia dalam bungkusan bukti semasa — ini ditandai sebagai **Pemblokiran** jurang data dalam rekod meta sumber, DG001, kerana ia menghalang pra-pemeriksaan keselamatan formal.)
 
-**Rationale:**
-- Safety data (TFDA/NPRA label warnings and contraindications) is completely unavailable, which the evidence pack itself flags as a **Blocking** gap preventing safety pre-screening.
-- No clinical trial in the evidence pack specifically targets erythema multiforme, and the literature evidence is substantially confounded by case reports where triamcinolone itself triggers erythema-multiforme-like hypersensitivity reactions — this weakens rather than supports the repurposing rationale.
-- MOA data is also unavailable (DG002), limiting mechanistic-relevance analysis.
+---
 
-**To proceed, the following is needed:**
-- Retrieve and analyze the NPRA product label (warnings/contraindications) — resolves DG001
-- Retrieve DrugBank MOA data — resolves DG002
-- Obtain individual license/product-level details from NPRA (all 47 records currently blank)
-- Run an indication-specific clinical evidence search for corticosteroid use in erythema multiforme management, since current trial results are not indication-specific
-- Reconcile and clarify the adverse-reaction signal (triamcinolone as a trigger of EM-like reactions) against the proposed therapeutic use
-- Verify the TxGNN score anomaly (0.00% reported for the rank-1 candidate)
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Nisbah:**
+- Data keselamatan (amaran label TFDA/NPRA dan kontraindikasi) sama sekali tidak tersedia, yang bungkusan bukti itu sendiri menandai sebagai **Pemblokiran** jurang yang menghalang pra-pemeriksaan keselamatan.
+- Tiada ujian klinikal dalam bungkusan bukti yang secara khusus menyasarkan eritema multiforme, dan bukti literatur adalah jauh terkabur oleh laporan kes di mana triamcinolone itu sendiri mencetus tindak balas hipersensitiviti serupa eritema multiforme — ini melemahkan dan bukannya menyokong nisbah peralihan tujuan.
+- Data MOA juga tidak tersedia (DG002), mengehadkan analisis kaitannya mekanistik.
+
+**Untuk diteruskan, perkara berikut diperlukan:**
+- Ambil dan analisis label produk NPRA (amaran/kontraindikasi) — menyelesaikan DG001
+- Ambil data MOA DrugBank — menyelesaikan DG002
+- Dapatkan butiran lesen/peringkat produk individu daripada NPRA (semua 47 rekod pada masa ini kosong)
+- Jalankan carian bukti klinikal khusus indikasi untuk penggunaan kortikosteroid dalam pengurusan eritema multiforme, kerana hasil ujian semasa bukan khusus indikasi
+- Selaraskan dan jelaskan isyarat tindak balas merugikan (triamcinolone sebagai pencetus tindak balas serupa EM) terhadap penggunaan terapeutik yang dicadangkan
+- Sahkan anomali skor TxGNN (0.00% dilaporkan untuk calon kedudukan-1)
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

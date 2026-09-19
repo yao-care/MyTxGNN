@@ -29,87 +29,88 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Amiloride Hydrochloride: Evaluation Pending — Insufficient TxGNN Prediction Data
+# Amiloride Hydrochloride: Penilaian Tertunda — Data Ramalan TxGNN Tidak Mencukupi
 
-## One-Sentence Summary
+## Ringkasan Satu Kalimat
 
-Amiloride Hydrochloride is a potassium-sparing diuretic used to treat hypertension and oedema, often prescribed in combination with thiazide diuretics to prevent drug-induced hypokalaemia.
-At this stage, **no TxGNN repurposing predictions are available** for this compound, and critical data gaps in mechanism of action, safety information, and regulatory product details prevent a full evaluation from being completed.
-**2 market authorizations** are registered in Malaysia confirming its commercial availability, but additional data collection is required before any repurposing analysis can proceed.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Hypertension, oedema, thiazide-induced hypokalaemia prevention |
-| Predicted New Indication | Not available |
-| TxGNN Prediction Score | Not available |
-| Evidence Level | — |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 2 |
-| Recommended Decision | **Hold** |
+Amiloride Hydrochloride adalah diuretik penjaga kalium yang digunakan untuk mengobati hipertensi dan edema, sering kali diberikan bersama dengan diuretik tiazidia untuk mencegah hipokalemia yang diinduksi obat.
+Pada tahap ini, **tidak ada ramalan repurposing TxGNN yang tersedia** untuk senyawa ini, dan kesenjangan data kritis dalam mekanisme kerja, informasi keamanan, dan detail produk regulasi menghalangi penyelesaian evaluasi lengkap.
+**2 otorisasi pasar** terdaftar di Malaysia yang mengkonfirmasi ketersediaan komersialnya, tetapi pengumpulan data tambahan diperlukan sebelum analisis repurposing apa pun dapat dilanjutkan.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Ikhtisar Cepat
 
-No TxGNN repurposing predictions are currently available for Amiloride Hydrochloride. As a result, this section cannot present a mechanistic rationale linking an original indication to a new therapeutic target.
-
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on known pharmacological information, Amiloride Hydrochloride belongs to the potassium-sparing diuretic class. It is understood to act on the distal nephron to reduce sodium reabsorption while preserving potassium excretion. Its efficacy in managing hypertension and fluid overload conditions has been established in clinical practice, and it is frequently co-formulated with hydrochlorothiazide.
-
-Without TxGNN prediction output and with the current gaps in MOA, safety, and regulatory product detail, a structured mechanistic bridge to any candidate repurposing indication cannot be constructed at this time. Once the data gaps are remediated and the TxGNN pipeline is re-run, this section will be updated with a full mechanistic rationale.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered — no predicted indication is available for evidence search.
+| Item | Konten |
+|------|--------|
+| Indikasi Asli | Hipertensi, edema, pencegahan hipokalemia yang diinduksi tiazidia |
+| Indikasi Baru yang Diprediksi | Tidak tersedia |
+| Skor Prediksi TxGNN | Tidak tersedia |
+| Tingkat Bukti | — |
+| Status Pasar Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Jumlah Pendaftaran | 2 |
+| Keputusan yang Direkomendasikan | **Tahan** |
 
 ---
 
-## Literature Evidence
+## Mengapa Prediksi Ini Masuk Akal?
 
-Currently no related literature available — no predicted indication is available for evidence search.
+Tidak ada ramalan repurposing TxGNN yang saat ini tersedia untuk Amiloride Hydrochloride. Akibatnya, bagian ini tidak dapat menyajikan alasan mekanis yang menghubungkan indikasi asli dengan target terapeutik baru.
 
----
+Saat ini, data mekanisme kerja terperinci tidak tersedia dalam Paket Bukti ini. Berdasarkan informasi farmakologi yang diketahui, Amiloride Hydrochloride termasuk dalam kelas diuretik penjaga kalium. Diketahui bahwa obat ini bekerja pada nefron distal untuk mengurangi reabsorpsi natrium sambil mempertahankan ekskresi kalium. Efikasinya dalam mengelola hipertensi dan kondisi kelebihan cairan telah terbukti dalam praktik klinis, dan sering kali dikombinasikan dalam formulasi dengan hidroklorotiazidia.
 
-## Malaysia Market Information
-
-Product-level registration details (product name, dosage form, manufacturer, approved indication) are absent from the current dataset for both authorizations. The table below reflects what is currently available:
-
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------------------|-------------|-------------|---------------------|
-| (Not provided) | (Not provided) | (Not provided) | (Not provided) |
-| (Not provided) | (Not provided) | (Not provided) | (Not provided) |
-
-> **Note:** 2 authorizations are confirmed as registered under "AMILORIDE HYDROCHLORIDE" in Malaysia. Full product details must be retrieved from the NPRA product search portal to complete this section.
+Tanpa keluaran prediksi TxGNN dan dengan kesenjangan saat ini dalam MOA, keamanan, dan detail produk regulasi, jembatan mekanis yang terstruktur menuju indikasi repurposing kandidat tidak dapat dibangun pada saat ini. Setelah kesenjangan data diperbaiki dan pipeline TxGNN dijalankan kembali, bagian ini akan diperbarui dengan alasan mekanis lengkap.
 
 ---
 
-## Safety Considerations
+## Bukti Uji Coba Klinis
 
-Please refer to the package insert for safety information.
-
-> **Note:** Safety warnings, contraindications, and drug interaction data are currently unavailable (marked as data gaps in this Evidence Pack). Downloading and parsing the NPRA-registered product SmPC/PI is required before any safety screening can be conducted.
+Saat ini tidak ada uji coba klinis terkait yang terdaftar — tidak ada indikasi yang diprediksi tersedia untuk pencarian bukti.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Hold**
+Saat ini tidak ada literatur terkait yang tersedia — tidak ada indikasi yang diprediksi tersedia untuk pencarian bukti.
 
-**Rationale:**
-No TxGNN repurposing predictions have been generated for this drug, and four critical data dimensions — mechanism of action, safety warnings, contraindications, and full regulatory product details — are incomplete, making it impossible to conduct a meaningful repurposing evaluation at this time.
+---
 
-**To proceed, the following is needed:**
+## Informasi Pasar Malaysia
 
-- **NPRA Package Insert**: Download and parse the SmPC/PI PDF from the NPRA portal to obtain approved indication text, safety warnings (Blocking severity — DG001), and contraindications for both registered products
-- **DrugBank MOA**: Query the DrugBank API using the INN "amiloride" to retrieve the pharmacological mechanism of action and drug classification (High severity — DG002)
-- **Regulatory Product Details**: Retrieve authorization number, product name, dosage form, and manufacturer for both registered licenses to complete the Malaysia market profile
-- **TxGNN Re-run**: Once drug-level data is complete, re-run the TxGNN prediction pipeline to generate repurposing candidates and trigger evidence collection (ClinicalTrials.gov, PubMed)
-- **DDI Screening**: Re-query drug interaction databases after DrugBank ID is confirmed to complete the safety profile
+Detail pendaftaran tingkat produk (nama produk, bentuk dosis, pabrikan, indikasi yang disetujui) tidak ada dalam dataset saat ini untuk kedua otorisasi. Tabel di bawah mencerminkan apa yang saat ini tersedia:
+
+| Nomor Otorisasi | Nama Produk | Bentuk Dosis | Indikasi yang Disetujui |
+|-----------------|------------|-------------|------------------------|
+| (Tidak disediakan) | (Tidak disediakan) | (Tidak disediakan) | (Tidak disediakan) |
+| (Tidak disediakan) | (Tidak disediakan) | (Tidak disediakan) | (Tidak disediakan) |
+
+> **Catatan:** 2 otorisasi dikonfirmasi terdaftar di bawah "AMILORIDE HYDROCHLORIDE" di Malaysia. Detail produk lengkap harus diambil dari portal pencarian produk NPRA untuk menyelesaikan bagian ini.
+
+---
+
+## Pertimbangan Keamanan
+
+Silakan merujuk pada selebaran paket untuk informasi keamanan.
+
+> **Catatan:** Peringatan keamanan, kontraindikasi, dan data interaksi obat saat ini tidak tersedia (ditandai sebagai kesenjangan data dalam Paket Bukti ini). Mengunduh dan mengurai SmPC/PI produk yang terdaftar NPRA diperlukan sebelum penyaringan keamanan apa pun dapat dilakukan.
+
+---
+
+## Kesimpulan dan Langkah Berikutnya
+
+**Keputusan: Tahan**
+
+**Alasan:**
+Tidak ada ramalan repurposing TxGNN yang telah dihasilkan untuk obat ini, dan empat dimensi data kritis — mekanisme kerja, peringatan keamanan, kontraindikasi, dan detail produk regulasi lengkap — tidak lengkap, membuatnya tidak mungkin untuk melakukan evaluasi repurposing yang bermakna pada saat ini.
+
+**Untuk melanjutkan, yang berikut diperlukan:**
+
+- **Selebaran Paket NPRA**: Unduh dan urai PDF SmPC/PI dari portal NPRA untuk mendapatkan teks indikasi yang disetujui, peringatan keamanan (Keparahan Pemblokiran — DG001), dan kontraindikasi untuk kedua produk terdaftar
+- **MOA DrugBank**: Kueri API DrugBank menggunakan INN "amiloride" untuk mengambil mekanisme kerja farmakologis dan klasifikasi obat (Keparahan Tinggi — DG002)
+- **Detail Produk Regulasi**: Ambil nomor otorisasi, nama produk, bentuk dosis, dan pabrikan untuk kedua lisensi terdaftar untuk menyelesaikan profil pasar Malaysia
+- **Re-run TxGNN**: Setelah data tingkat obat selesai, jalankan ulang pipeline prediksi TxGNN untuk menghasilkan kandidat repurposing dan memicu pengumpulan bukti (ClinicalTrials.gov, PubMed)
+- **Penyaringan DDI**: Re-kueri database interaksi obat setelah ID DrugBank dikonfirmasi untuk menyelesaikan profil keamanan
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

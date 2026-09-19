@@ -29,78 +29,79 @@ Tahap bukti: **L3** | Indikasi diramal: **1**
 
 </div>
 
-# Estriol: From Menopausal Hormone Therapy to Amenorrhea
+# Estriol: Dari Terapi Hormon Menopause kepada Amenorrhea
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Estriol is a low-potency natural estrogen historically used in menopausal hormone therapy (vaginal/urogenital atrophy, vasomotor symptoms); the specific Malaysia-registered indication text was not captured in this data pull.
-The TxGNN model predicts it may be effective for **Amenorrhea** — specifically functional hypothalamic amenorrhea (FHA) — but the supporting evidence is thin: **0 directly relevant clinical trials** (the 3 retrieved trials involve a different drug, estetrol) and only **1 small pilot RCT** plus supporting reviews among 13 retrieved publications.
+Estriol adalah estrogen asli berpotensi rendah yang secara historis digunakan dalam terapi hormon menopause (atrofi vaginal/urogenital, gejala vasomotor); teks indikasi spesifik yang terdaftar di Malaysia tidak terekam dalam pengambilan data ini.
+Model TxGNN memperkirakan ia mungkin efektif untuk **Amenorrhea** — khususnya amenorrhea hipotalamik fungsional (FHA) — tetapi bukti pendukungnya terbatas: **0 uji coba klinis yang relevan secara langsung** (3 uji coba yang diambil melibatkan obat berbeda, estetrol) dan hanya **1 RCT pilot kecil** ditambah ulasan pendukung di antara 13 publikasi yang diambil.
 
-## Quick Overview
+## Gambaran Umum Cepat
 
-| Item | Content |
-|------|------|
-| Original Indication | Not captured in the Malaysia registry data provided (license record fields are blank); estriol is generally used for menopausal/urogenital estrogen therapy |
-| Predicted New Indication | Amenorrhea (functional hypothalamic amenorrhea) |
-| TxGNN Prediction Score | 99.18% (rank 10,684 among all predictions) |
-| Evidence Level | L3 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+| Item | Konten |
+|------|--------|
+| Indikasi Asal | Tidak terekam dalam data registri Malaysia yang disediakan (bidang catatan lisensi kosong); estriol umumnya digunakan untuk terapi estrogen menopause/urogenital |
+| Indikasi Baru Terprediksi | Amenorrhea (amenorrhea hipotalamik fungsional) |
+| Skor Prediksi TxGNN | 99.18% (pangkat 10,684 di antara semua prediksi) |
+| Tingkat Bukti | L3 |
+| Status Pasar Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Jumlah Pendaftaran | 1 |
+| Keputusan yang Direkomendasikan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Prediksi Ini Masuk Akal?
 
-Detailed mechanism-of-action data for estriol is not available in this evidence pack. Based on known pharmacology, estriol is a weak-affinity, short-acting estrogen; its established efficacy is in menopausal estrogen replacement, and mechanistically this same estrogen-receptor activity is plausible in other hypoestrogenic states.
+Data rinci tentang mekanisme kerja estriol tidak tersedia dalam paket bukti ini. Berdasarkan farmakologi yang diketahui, estriol adalah estrogen dengan afinitas lemah dan durasi kerja singkat; keberhasilan yang terbukti adalah dalam penggantian estrogen menopause, dan secara mekanistik aktivitas reseptor estrogen yang sama ini dapat berlaku dalam keadaan hipoestrogenik lainnya.
 
-Functional hypothalamic amenorrhea (FHA) is one such state: chronic psychosocial/metabolic stress suppresses pulsatile GnRH release, reducing LH/FSH and producing a hypoestrogenic, amenorrheic condition. Low-dose estrogen exposure has been proposed to modulate the hypothalamic-pituitary axis and help re-trigger positive-feedback LH secretion in FHA patients — this is the specific mechanistic link cited in the evidence pack.
+Amenorrhea hipotalamik fungsional (FHA) adalah keadaan seperti itu: stres psikososial/metabolik kronis menekan pelepasan GnRH pulsatil, mengurangi LH/FSH dan menghasilkan kondisi amenorrhea hipoestrogenik. Paparan estrogen dosis rendah telah diusulkan untuk memodulasi aksis hipotalamik-hipofisis dan membantu merangsang kembali sekresi LH umpan balik positif pada pasien FHA — ini adalah tautan mekanistik spesifik yang dikutip dalam paket bukti.
 
-Two important caveats limit how far this rationale extends. First, it only addresses the hypoestrogenic/hypothalamic subtype of amenorrhea — it has no mechanistic bearing on uterine, chromosomal, or other non-hypoestrogenic causes. Second, the supporting clinical data measures a surrogate endpoint (LH pulsatility), not the actual clinical outcome of restored menstrual cycles, so the causal chain from "modulates LH" to "treats amenorrhea" remains unproven.
+Dua peringatan penting membatasi sejauh mana rasional ini berlaku. Pertama, ia hanya mengatasi subtipe amenorrhea hipoestrogenik/hipotalamik — ia tidak memiliki implikasi mekanistik pada penyebab uterus, kromosom, atau non-hipoestrogenik lainnya. Kedua, data klinis pendukung mengukur titik akhir proksi (pulsatilitas LH), bukan hasil klinis yang sebenarnya dari pemulihan siklus menstruasi, jadi rantai kausal dari "memodulasi LH" ke "mengatasi amenorrhea" tetap tidak terbukti.
 
-## Clinical Trial Evidence
+## Bukti Uji Coba Klinis
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nomor Uji Coba | Fase | Status | Pendaftaran | Temuan Utama |
 |---------|------|------|------|---------|
-| [NCT04090957](https://clinicaltrials.gov/study/NCT04090957) | Phase 3 | Completed | 1015 | Trial of **estetrol (E4)**/drospirenone combined oral contraceptive for postmenopausal vasomotor symptoms — not estriol; appears to be a drug-name mismatch (estetrol ≠ estriol) and does not address amenorrhea |
-| [NCT04209543](https://clinicaltrials.gov/study/NCT04209543) | Phase 3 | Completed | 1570 | Same estetrol/drospirenone contraceptive series, vasomotor-symptom endpoint; same mismatch issue, not relevant to estriol or amenorrhea |
-| [NCT04487392](https://clinicaltrials.gov/study/NCT04487392) | Phase 2 | Withdrawn | 0 | Photobiomodulation for postmenopausal vulvovaginal atrophy; trial withdrawn with zero enrollment, unrelated to estriol or amenorrhea |
+| [NCT04090957](https://clinicaltrials.gov/study/NCT04090957) | Fase 3 | Selesai | 1015 | Uji coba **estetrol (E4)**/drospirenone kontrasepsi oral kombinasi untuk gejala vasomotor pascamenopause — bukan estriol; tampak ada ketidaksesuaian nama obat (estetrol ≠ estriol) dan tidak mengatasi amenorrhea |
+| [NCT04209543](https://clinicaltrials.gov/study/NCT04209543) | Fase 3 | Selesai | 1570 | Seri kontrasepsi estetrol/drospirenone yang sama, titik akhir gejala vasomotor; masalah ketidaksesuaian yang sama, tidak relevan untuk estriol atau amenorrhea |
+| [NCT04487392](https://clinicaltrials.gov/study/NCT04487392) | Fase 2 | Ditarik | 0 | Photobiomodulation untuk atrofi vulvovaginal pascamenopause; uji coba ditarik tanpa pendaftaran peserta, tidak terkait dengan estriol atau amenorrhea |
 
-⚠️ None of the three retrieved trials constitute direct evidence for estriol in amenorrhea. Two are confounded with estetrol (a distinct, related estrogen used in oral contraceptives) and the third was withdrawn before enrolling any subjects. Effectively, **there is no usable clinical trial evidence** for this indication at present.
+⚠️ Tidak ada dari ketiga uji coba yang diambil yang merupakan bukti langsung untuk estriol dalam amenorrhea. Dua tercampur dengan estetrol (estrogen terkait namun berbeda yang digunakan dalam kontrasepsi oral) dan yang ketiga ditarik sebelum mendaftarkan peserta mana pun. Secara efektif, **tidak ada bukti uji coba klinis yang dapat digunakan** untuk indikasi ini saat ini.
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Temuan Utama |
 |------|-----|------|------|---------|
-| [22137494](https://pubmed.ncbi.nlm.nih.gov/22137494/) | 2012 | RCT (pilot, crossover) | Fertility and Sterility | Estriol administration modulated LH secretion in women with functional hypothalamic amenorrhea — the only direct estriol/amenorrhea clinical evidence found, but a small pilot with a surrogate (hormonal) endpoint |
-| [37371858](https://pubmed.ncbi.nlm.nih.gov/37371858/) | 2023 | Review | Biomedicines | Reviews low-dose estrogens as neuroendocrine modulators in FHA, discussing the mechanistic basis for triggering positive-feedback LH release |
-| [16526238](https://pubmed.ncbi.nlm.nih.gov/16526238/) | 2005 | Cohort | Medicinski pregled | Effects of estro-progestagen therapy on lipid/hormonal profiles in premature primary ovarian failure (a hypergonadotropic amenorrhea) |
-| [2949864](https://pubmed.ncbi.nlm.nih.gov/2949864/) | 1986 | Observational (TCM) | Zhong xi yi jie he za zhi | Traditional Chinese Medicine observational study on gonadal function changes in amenorrhea/oligomenorrhea; not estriol-specific |
-| [7026111](https://pubmed.ncbi.nlm.nih.gov/7026111/) | 1981 | Review | Clinical Obstetrics and Gynecology | General review of neoplasia risk and hormonal contraception; background relevance only |
-| [4254759](https://pubmed.ncbi.nlm.nih.gov/4254759/) | 1971 | Case report/Review | British Journal of Psychiatry | Anorexia nervosa review, noting associated amenorrhea; not an estriol treatment study |
-| [5935707](https://pubmed.ncbi.nlm.nih.gov/5935707/) | 1966 | Case report | American Journal of Obstetrics and Gynecology | Gynecologic/endocrine effects following medroxyprogesterone in pregnancy; not estriol |
-| [4102186](https://pubmed.ncbi.nlm.nih.gov/4102186/) | 1971 | Case report | Lancet | Endocrine findings in two patients with premature ovarian failure |
-| [979592](https://pubmed.ncbi.nlm.nih.gov/979592/) | 1976 | Methods paper | Die Medizinische Welt | Radioimmunoassay methodology for LH, FSH, progesterone, estrone, estradiol and estriol; lab-methods reference only |
-| [13931724](https://pubmed.ncbi.nlm.nih.gov/13931724/) | 1963 | Review (mechanism) | Journal of Clinical Endocrinology and Metabolism | Historical review of anti-ovulatory compound mechanisms |
+| [22137494](https://pubmed.ncbi.nlm.nih.gov/22137494/) | 2012 | RCT (pilot, crossover) | Fertility and Sterility | Pemberian estriol memodulasi sekresi LH pada wanita dengan amenorrhea hipotalamik fungsional — satu-satunya bukti klinis estriol/amenorrhea langsung yang ditemukan, namun pilot kecil dengan titik akhir proksi (hormonal) |
+| [37371858](https://pubmed.ncbi.nlm.nih.gov/37371858/) | 2023 | Ulasan | Biomedicines | Mengulas estrogen dosis rendah sebagai modulator neuroendokrin dalam FHA, membahas dasar mekanistik untuk merangsang pelepasan LH umpan balik positif |
+| [16526238](https://pubmed.ncbi.nlm.nih.gov/16526238/) | 2005 | Kohort | Medicinski pregled | Efek terapi estro-progestagen pada profil lipid/hormonal dalam kegagalan ovarium primer prematur (amenorrhea hipergonadotropik) |
+| [2949864](https://pubmed.ncbi.nlm.nih.gov/2949864/) | 1986 | Observasional (TCM) | Zhong xi yi jie he za zhi | Studi observasional Obat Tradisional Cina tentang perubahan fungsi gonadal dalam amenorrhea/oligomenorrhea; tidak spesifik estriol |
+| [7026111](https://pubmed.ncbi.nlm.nih.gov/7026111/) | 1981 | Ulasan | Clinical Obstetrics and Gynecology | Ulasan umum risiko neoplasia dan kontrasepsi hormonal; relevansi latar belakang saja |
+| [4254759](https://pubmed.ncbi.nlm.nih.gov/4254759/) | 1971 | Laporan kasus/Ulasan | British Journal of Psychiatry | Ulasan anoreksia nervosa, mencatat amenorrhea terkait; bukan studi perlakuan estriol |
+| [5935707](https://pubmed.ncbi.nlm.nih.gov/5935707/) | 1966 | Laporan kasus | American Journal of Obstetrics and Gynecology | Efek ginekologi/endokrin setelah medroxyprogesterone dalam kehamilan; bukan estriol |
+| [4102186](https://pubmed.ncbi.nlm.nih.gov/4102186/) | 1971 | Laporan kasus | Lancet | Temuan endokrin pada dua pasien dengan kegagalan ovarium prematur |
+| [979592](https://pubmed.ncbi.nlm.nih.gov/979592/) | 1976 | Makalah metode | Die Medizinische Welt | Metodologi radioimunoassay untuk LH, FSH, progesteron, estron, estradiol dan estriol; referensi metode laboratorium saja |
+| [13931724](https://pubmed.ncbi.nlm.nih.gov/13931724/) | 1963 | Ulasan (mekanisme) | Journal of Clinical Endocrinology and Metabolism | Ulasan historis tentang mekanisme senyawa anti-ovulasi |
 
-## Malaysia Market Information
+## Informasi Pasar Malaysia
 
-The NPRA registry indicates 1 registered license for estriol with market status "Marketed" (Marketed), but the license number, product name, dosage form, and approved indication text were not captured in this evidence pack (all fields blank). This is flagged as data gap **DG001** (Blocking) — resolving it requires downloading and parsing the actual product label/insert from the regulatory source.
+Registri NPRA menunjukkan 1 lisensi terdaftar untuk estriol dengan status pasar "Dipasarkan" (Dipasarkan), namun nomor lisensi, nama produk, bentuk dosis, dan teks indikasi yang disetujui tidak terekam dalam paket bukti ini (semua bidang kosong). Ini ditandai sebagai kesenjangan data **DG001** (Pemblokiran) — menyelesaikannya memerlukan pengunduhan dan analisis sisipan paket sebenarnya dari sumber peraturan.
 
-## Safety Considerations
+## Pertimbangan Keamanan
 
-Please refer to the package insert for safety information. (No key warnings, contraindications, or drug-drug interaction data were available in this evidence pack — DDI query returned zero results, and warnings/contraindications are recorded as data gaps.)
+Silakan merujuk pada sisipan paket untuk informasi keamanan. (Tidak ada data peringatan utama, kontraindikasi, atau interaksi obat-obatan yang tersedia dalam paket bukti ini — kueri DDI mengembalikan nol hasil, dan peringatan/kontraindikasi dicatat sebagai kesenjangan data.)
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Berikutnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The prediction rests on a plausible but narrow mechanism (estrogen modulation of LH in one amenorrhea subtype, FHA) supported by a single small pilot crossover RCT with a surrogate endpoint, not restored menses. The three retrieved clinical trials do not actually support estriol in this indication (drug-name mismatch with estetrol, or withdrawn). Combined with a Blocking data gap on TFDA/NPRA safety labeling (DG001) that prevents a proper S1 safety screen, and a High-severity gap on mechanism of action (DG002), the evidence is not yet sufficient to proceed.
+**Alasan:**
+Prediksi bergantung pada mekanisme yang masuk akal namun terbatas (modulasi LH estrogen dalam satu subtipe amenorrhea, FHA) yang didukung oleh satu RCT pilot crossover kecil dengan titik akhir proksi, bukan pemulihan menstruasi. Tiga uji coba klinis yang diambil sebenarnya tidak mendukung estriol dalam indikasi ini (ketidaksesuaian nama obat dengan estetrol, atau ditarik). Dikombinasikan dengan kesenjangan data Pemblokiran pada pelabelan keamanan TFDA/NPRA (DG001) yang mencegah skrining keamanan S1 yang tepat, dan kesenjangan tingkat keparahan tinggi pada mekanisme kerja (DG002), bukti belum cukup untuk melanjutkan.
 
-**To proceed, the following is needed:**
-- Resolve DG001: obtain and parse the actual Malaysia product label for warnings, contraindications, and confirmed approved indication text
-- Resolve DG002: obtain estriol's mechanism-of-action detail from DrugBank
-- A clinical trial search specifically re-verified for estriol (not estetrol) to confirm whether any real trials exist in amenorrhea
-- A larger, adequately powered RCT with a clinical endpoint (resumption of menstrual cycles), not just LH secretion, to validate the FHA mechanistic hypothesis
+**Untuk melanjutkan, hal-hal berikut diperlukan:**
+- Selesaikan DG001: peroleh dan analisis sisipan paket Malaysia sebenarnya untuk peringatan, kontraindikasi, dan teks indikasi yang disetujui yang dikonfirmasi
+- Selesaikan DG002: peroleh detail mekanisme kerja estriol dari DrugBank
+- Pencarian uji coba klinis yang diverifikasi ulang khusus untuk estriol (bukan estetrol) untuk mengkonfirmasi apakah ada uji coba nyata dalam amenorrhea
+- RCT yang lebih besar dan bertenaga cukup dengan titik akhir klinis (pemulihan siklus menstruasi), bukan hanya sekresi LH, untuk memvalidasi hipotesis mekanistik FHA
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

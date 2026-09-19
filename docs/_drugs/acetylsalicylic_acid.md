@@ -29,91 +29,92 @@ Tahap bukti: **L3** | Indikasi diramal: **9**
 
 </div>
 
-# Acetylsalicylic Acid: From Analgesic & Antiplatelet Therapy to Migraine with Brainstem Aura
+# Acetylsalicylic Acid: Daripada Terapi Analgesik & Antiplatelet kepada Migrain dengan Aura Batang Otak
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Acetylsalicylic acid (aspirin, DB00945) is one of the world's oldest and most widely used medications, established for pain relief, fever reduction, anti-inflammatory effects, and cardiovascular protection through its irreversible COX inhibition and antiplatelet mechanism.
-The TxGNN model predicts it may be effective for **Migraine with Brainstem Aura** (formerly basilar-type migraine) — a rare subtype involving brainstem-originating aura symptoms,
-with **0 registered clinical trials** specific to this indication and **19 publications** currently supporting this direction.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Analgesic, antipyretic, anti-inflammatory, and antiplatelet therapy (specific approved indication text not recorded in current regulatory dataset) |
-| Predicted New Indication | Migraine with Brainstem Aura |
-| TxGNN Prediction Score | 99.94% |
-| Evidence Level | L3 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 15 |
-| Recommended Decision | Proceed with Guardrails |
+Asid asetilsalisilat (aspirin, DB00945) adalah salah satu ubat tertua dan paling banyak digunakan di dunia, yang telah ditubuhkan untuk mengurangkan rasa sakit, menurunkan demam, kesan anti-inflamasi, dan perlindungan kardiovaskular melalui mekanisme inhibisi COX yang tidak boleh balik dan antiplatelet.
+Model TxGNN meramalkan ia mungkin berkesan untuk **Migrain dengan Aura Batang Otak** (dahulunya migrain jenis basilar) — subtipe yang jarang melibatkan gejala aura yang berasal daripada batang otak,
+dengan **0 percubaan klinikal berdaftar** khusus untuk indikasi ini dan **19 penerbitan** sedang menyokong arah ini.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Tinjauan Pantas
 
-Currently, detailed mechanism of action data is not available from the DrugBank query. However, aspirin's pharmacology is well-characterised from the broader literature: aspirin irreversibly acetylates serine residues on COX-1 (Ser529) and COX-2 (Ser516), blocking the conversion of arachidonic acid to prostaglandins and thromboxane A₂ (TXA₂). This dual mechanism — suppressing neuroinflammatory mediators (PGE₂, IL-1β) and irreversibly inhibiting platelet activation — is directly relevant to migraine pathophysiology, which involves sensitisation of the trigeminovascular system and release of CGRP and prostaglandins from perivascular trigeminal nerve terminals.
-
-Migraine with brainstem aura is characterised by fully reversible aura symptoms attributable to brainstem dysfunction — diplopia, dysarthria, tinnitus, vertigo, and ataxia — before or during headache. The core mechanism involves cortical spreading depression (CSD) propagating into or originating from the brainstem, activating trigeminal nuclei (particularly the trigeminal nucleus caudalis in the pons) and triggering local neuroinflammation. Aspirin's upstream inhibition of PGE₂ synthesis and attenuation of CGRP-related sensitisation pathways in the trigeminovascular system provides a biologically plausible basis for modulating both the aura and headache phases. Additionally, the well-documented platelet hypothesis of migraine — wherein aberrant platelet serotonin release and TXA₂-mediated vasoconstriction contribute to CSD triggering — directly implicates aspirin's antiplatelet mechanism as a potential therapeutic lever.
-
-Critically, a retrospective cohort study (PMID 25729594, n=203) directly evaluated low-dose aspirin as prophylaxis specifically for migraine with aura, and the 2015 American Headache Society evidence assessment (PMID 25600718) positions aspirin as a Level A/B agent for acute migraine management. A 2025 systematic review (PMID 39989443) further explored antithrombotic drugs — including aspirin — in migraine prevention. However, the "brainstem aura" subtype carries a higher vascular spasm risk than standard migraine with aura, and careful ischaemic risk evaluation is required before applying general migraine-with-aura evidence to this specific subtype.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered specifically for migraine with brainstem aura and acetylsalicylic acid.
+| Item | Kandungan |
+|------|-----------|
+| Indikasi Asal | Analgesik, antipiretik, anti-inflamasi, dan terapi antiplatelet (teks indikasi yang diluluskan khusus tidak direkodkan dalam set data peraturan semasa) |
+| Indikasi Baru yang Diramalkan | Migrain dengan Aura Batang Otak |
+| Skor Ramalan TxGNN | 99.94% |
+| Tahap Bukti | L3 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 15 |
+| Keputusan yang Disyorkan | Teruskan dengan Pengawasan Ketat |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [25600718](https://pubmed.ncbi.nlm.nih.gov/25600718/) | 2015 | Systematic Review (AHS) | *Headache* | Updated AHS evidence assessment of acute migraine pharmacotherapies; aspirin and aspirin-containing combinations rated as effective Level A agents for acute migraine, including migraine with aura |
-| [39989443](https://pubmed.ncbi.nlm.nih.gov/39989443/) | 2025 | Systematic Review | *Headache* | Systematic review of antithrombotic drugs (including aspirin) as migraine preventive medication; explored biological rationale and available clinical evidence for antiplatelet agents in migraine prevention |
-| [10448545](https://pubmed.ncbi.nlm.nih.gov/10448545/) | 1999 | RCT | *Cephalalgia* | Double-blind double-dummy RCT (n=278, 17 centres): IV lysine acetylsalicylate 1.8 g vs sumatriptan 6 mg SC in acute migraine with or without aura; ASA demonstrated comparable acute efficacy to sumatriptan |
-| [25729594](https://pubmed.ncbi.nlm.nih.gov/25729594/) | 2014 | Retrospective Cohort | *Curr Health Sci J* | Retrospective study (n=203 migraine-with-aura patients per ICHD-II criteria): 46.8% treated with low-dose ASA as prophylaxis; evaluated efficacy and tolerability over ≥4 months — most direct evidence for ASA in migraine with aura prevention |
-| [34384631](https://pubmed.ncbi.nlm.nih.gov/34384631/) | 2021 | Review | *Revue neurologique* | Comprehensive review of migraine with aura: cortical spreading depression as the pivotal mechanism underlying aura; ICHD-III diagnostic criteria and treatment overview including anti-inflammatory approaches |
-| [30291554](https://pubmed.ncbi.nlm.nih.gov/30291554/) | 2018 | Review | *Curr Pain Headache Rep* | Compared pathophysiology, epidemiology, and clinical implications of migraine with and without aura; higher cardiovascular/cerebrovascular risk in aura subtypes informs treatment selection and risk stratification |
-| [35006660](https://pubmed.ncbi.nlm.nih.gov/35006660/) | 2022 | Guideline Review | *FP Essentials* | AHA/ASA primary stroke prevention guidelines; migraine with aura recognised as a modifiable stroke risk factor, with aspirin discussed in context of vascular risk modification |
-| [16103551](https://pubmed.ncbi.nlm.nih.gov/16103551/) | 2005 | Observational | *Heart* | Clopidogrel (antiplatelet) reduced migraine with aura episodes after transcatheter PFO closure; provides indirect support for the antiplatelet mechanism in modulating migraine with aura, including aura related to right-to-left shunt |
-| [36657989](https://pubmed.ncbi.nlm.nih.gov/36657989/) | 2023 | Cohort Study | *Neurology* | Prepregnancy migraine phenotype and risk of adverse pregnancy outcomes; migraine with aura associated with distinct obstetric risk profile — relevant for treatment decision-making in reproductive-age women |
-| [2701286](https://pubmed.ncbi.nlm.nih.gov/2701286/) | 1989 | Review | *Biomed Pharmacother* | Seminal 10-year review of the platelet hypothesis of migraine; foundational mechanistic basis for aspirin's potential in migraine via inhibition of platelet TXA₂ release and serotonin dysregulation |
+Pada masa kini, data mekanisme tindakan yang terperinci tidak tersedia daripada pertanyaan DrugBank. Walau bagaimanapun, farmakologi aspirin telah dicirikan dengan baik daripada literatur yang lebih luas: aspirin mengasetilasi baki serin secara tidak boleh balik pada COX-1 (Ser529) dan COX-2 (Ser516), menghalang penukaran asid arakinonik kepada prostaglandin dan tromboksan A₂ (TXA₂). Mekanisme dwi ini — menekan mediator neuro-inflamasi (PGE₂, IL-1β) dan menghalang aktivasi platelet secara tidak boleh balik — berkait terus dengan patofisiologi migrain, yang melibatkan sensitiviti sistem trigeminovaskular dan pelepasan CGRP serta prostaglandin daripada terminal saraf trigeminal perivaskular.
+
+Migrain dengan aura batang otak dicirikan oleh gejala aura yang sepenuhnya boleh balik yang dapat disifatkan sebagai gangguan fungsi batang otak — diplopia, disartria, tinitus, vertigo, dan ataksia — sebelum atau semasa sakit kepala. Mekanisme teras melibatkan penolakan penyebaran korteks (CSD) yang menyebar ke atau berasal daripada batang otak, mengaktifkan nuklei trigeminal (terutamanya nukleus trigeminal kaudalis di dalam pons) dan mencetuskan neuro-inflamasi tempatan. Inhibisi hulu aspirin terhadap sintesis PGE₂ dan pengurangan lintasan sensitiviti berkaitan CGRP dalam sistem trigeminovaskular menyediakan asas biologi yang munasabah untuk memodulasi kedua-dua fasa aura dan sakit kepala. Selain itu, hipotesis platelet migrain yang terdokumentasi dengan baik — di mana pelepasan serotonin platelet yang tidak normal dan pengecilan pembuluh darah yang dimediasi TXA₂ menyumbang kepada pencetus CSD — secara langsung memberi makna mekanisme antiplatelet aspirin sebagai leverage terapeutik yang berpotensi.
+
+Dengan kritis, satu kajian kohort retrospektif (PMID 25729594, n=203) secara langsung menilai aspirin dos rendah sebagai profilaksis khusus untuk pesakit migrain dengan aura, dan penilaian bukti American Headache Society 2015 (PMID 25600718) meletakkan aspirin sebagai agen Tahap A/B untuk pengurusan migrain akut. Satu semakan sistematik 2025 (PMID 39989443) lebih jauh mengkaji ubat antitrombo — termasuk aspirin — dalam pencegahan migrain. Walau bagaimanapun, subtipe "aura batang otak" membawa risiko vasospasme yang lebih tinggi daripada migrain biasa dengan aura, dan penilaian risiko iskemik yang teliti diperlukan sebelum menggunakan bukti migrain-dengan-aura umum kepada subtipe spesifik ini.
 
 ---
 
-## Malaysia Market Information
+## Bukti Percubaan Klinikal
 
-The Evidence Pack confirms **15 registered products** for acetylsalicylic acid in Malaysia, with a current market status of **Marketed (Marketed)**. However, specific product details — including authorization numbers, brand names, dosage forms, manufacturers, and approved indication texts — were not retrieved in the current data query. Please consult the National Pharmaceutical Regulatory Agency (NPRA) product register directly for full product listings.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-> **Specific consideration for this indication:** Migraine with brainstem aura (basilar-type migraine) involves a higher theoretical risk of vasospasm compared to common migraine with aura. Although aspirin is generally used in migraine management, patients with this specific subtype should be carefully evaluated for ischaemic and haemorrhagic risk before initiating antiplatelet prophylaxis. The interaction of aspirin with other vasoactive migraine medications (e.g., ergotamines, triptans) and the risk of gastrointestinal bleeding with long-term use are additional safety factors that require monitoring. Full warnings, contraindications, and drug interaction data should be retrieved from the NPRA-approved package insert to support a complete S1 safety evaluation.
+Pada masa kini tiada percubaan klinikal berdaftar yang berkaitan khusus dengan migrain dengan aura batang otak dan asid asetilsalisilat.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Proceed with Guardrails**
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-------|-------|--------|----------------|
+| [25600718](https://pubmed.ncbi.nlm.nih.gov/25600718/) | 2015 | Semakan Sistematik (AHS) | *Headache* | Penilaian bukti AHS terkini tentang farmakoterapi migrain akut; aspirin dan kombinasi yang mengandungi aspirin dinilai sebagai agen Tahap A yang berkesan untuk migrain akut, termasuk migrain dengan aura |
+| [39989443](https://pubmed.ncbi.nlm.nih.gov/39989443/) | 2025 | Semakan Sistematik | *Headache* | Semakan sistematik ubat antitrombo (termasuk aspirin) sebagai ubat pencegahan migrain; meneroka rasional biologi dan bukti klinikal yang tersedia untuk agen antiplatelet dalam pencegahan migrain |
+| [10448545](https://pubmed.ncbi.nlm.nih.gov/10448545/) | 1999 | RCT | *Cephalalgia* | RCT buta-ganda (n=278, 17 pusat): lisina asetilsalisilat IV 1.8 g berbanding sumatriptan 6 mg SC dalam migrain akut dengan atau tanpa aura; ASA menunjukkan keberkesanan akut yang setanding dengan sumatriptan |
+| [25729594](https://pubmed.ncbi.nlm.nih.gov/25729594/) | 2014 | Kohort Retrospektif | *Curr Health Sci J* | Kajian retrospektif (n=203 pesakit migrain-dengan-aura mengikut kriteria ICHD-II): 46.8% dirawat dengan ASA dos rendah sebagai profilaksis; menilai keberkesanan dan tolerabiliti selama ≥4 bulan — bukti paling langsung untuk ASA dalam pencegahan migrain dengan aura |
+| [34384631](https://pubmed.ncbi.nlm.nih.gov/34384631/) | 2021 | Ulasan | *Revue neurologique* | Ulasan komprehensif tentang migrain dengan aura: penolakan penyebaran korteks sebagai mekanisme utama yang mendasari aura; kriteria diagnostik ICHD-III dan gambaran keseluruhan rawatan termasuk pendekatan anti-inflamasi |
+| [30291554](https://pubmed.ncbi.nlm.nih.gov/30291554/) | 2018 | Ulasan | *Curr Pain Headache Rep* | Dibandingkan patofisiologi, epidemiologi, dan implikasi klinikal migrain dengan dan tanpa aura; risiko kardiovaskular/serebrovaskular yang lebih tinggi dalam subtipe aura memberikan maklumat kepada pemilihan rawatan dan stratifikasi risiko |
+| [35006660](https://pubmed.ncbi.nlm.nih.gov/35006660/) | 2022 | Ulasan Garis Panduan | *FP Essentials* | Garis panduan pencegahan strok primer AHA/ASA; migrain dengan aura diiktiraf sebagai faktor risiko strok yang boleh diubah, dengan aspirin dibincangkan dalam konteks pengubahsuaian risiko vaskular |
+| [16103551](https://pubmed.ncbi.nlm.nih.gov/16103551/) | 2005 | Pemerhatian | *Heart* | Clopidogrel (antiplatelet) mengurangkan episod migrain dengan aura selepas penutupan PFO transkateter; memberikan sokongan tidak langsung untuk mekanisme antiplatelet dalam memodulasi migrain dengan aura, termasuk aura berkaitan dengan pintas kanan-ke-kiri |
+| [36657989](https://pubmed.ncbi.nlm.nih.gov/36657989/) | 2023 | Kajian Kohort | *Neurology* | Fenotip migrain pra-kehamilan dan risiko hasil kehamilan yang buruk; migrain dengan aura dikaitkan dengan profil obstetrik yang tersendiri — relevan untuk pembuatan keputusan rawatan pada wanita umur reproduktif |
+| [2701286](https://pubmed.ncbi.nlm.nih.gov/2701286/) | 1989 | Ulasan | *Biomed Pharmacother* | Ulasan bertemali 10 tahun tentang hipotesis platelet migrain; asas mekanistik bermutu untuk potensi aspirin dalam migrain melalui perencatan pelepasan TXA₂ platelet dan disregulasi serotonin |
 
-**Rationale:**
-Multiple systematic reviews, one double-blind RCT for acute migraine (with or without aura), and a retrospective cohort study specifically evaluating low-dose aspirin in migraine-with-aura prophylaxis collectively provide Level 3 evidence (observational studies and systematic reviews); however, no clinical trial data exist specifically for the brainstem aura subtype, and the higher vascular risk profile of this rare subtype warrants a cautious, monitored approach before extrapolating from broader migraine-with-aura evidence.
+---
 
-**To proceed, the following is needed:**
-- Dedicated prospective clinical trials or high-quality registry data specifically enrolling migraine with brainstem aura patients
-- Retrieval of full MOA data from DrugBank API (currently a data gap) to strengthen mechanistic link analysis
-- Download and parsing of NPRA-approved package insert PDF to complete the S1 safety evaluation (warnings, contraindications, key drug interactions)
-- Retrieval of specific product registration details (authorization numbers, approved indications) from the NPRA register for all 15 registered products
-- Vascular risk stratification protocol for patients with brainstem aura, given elevated ischaemic risk compared to standard migraine with aura
-- Definition of the optimal dose regimen (acute vs. prophylactic low-dose) specific to this indication
+## Maklumat Pasaran Malaysia
+
+Pakej Bukti mengesahkan **15 produk berdaftar** untuk asid asetilsalisilat di Malaysia, dengan status pasaran semasa **Dipasarkan**. Walau bagaimanapun, butiran produk spesifik — termasuk nombor kebenaran, nama jenama, bentuk dos, pengeluar, dan teks indikasi yang diluluskan — tidak diambil dalam pertanyaan data semasa. Sila rujuk daftar produk Agensi Pengawalseliaan Farmaseutikal Kebangsaan (NPRA) secara langsung untuk senarai produk lengkap.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk lembaran maklumat produk untuk maklumat keselamatan.
+
+> **Pertimbangan spesifik untuk indikasi ini:** Migrain dengan aura batang otak (migrain jenis basilar) melibatkan risiko teori vasospasme yang lebih tinggi berbanding dengan migrain biasa dengan aura. Walaupun aspirin umumnya digunakan dalam pengurusan migrain, pesakit dengan subtipe spesifik ini harus dinilai dengan teliti untuk risiko iskemik dan hemoragik sebelum memulakan profilaksis antiplatelet. Interaksi aspirin dengan ubat migrain vasoaktif lain (cth. ergotamin, triptan) dan risiko pendarahan gastrointestinal dengan penggunaan jangka panjang adalah faktor keselamatan tambahan yang memerlukan pemantauan. Data amaran penuh, kontraindikasi, dan interaksi ubat harus diambil daripada lembaran maklumat produk yang diluluskan NPRA untuk menyokong penilaian keselamatan S1 yang lengkap.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Teruskan dengan Pengawasan Ketat**
+
+**Rasional:**
+Berbilang semakan sistematik, satu RCT buta-ganda untuk migrain akut (dengan atau tanpa aura), dan satu kajian kohort retrospektif yang secara khusus menilai aspirin dos rendah dalam profilaksis migrain-dengan-aura secara kolektif memberikan bukti Tahap 3 (kajian pemerhatian dan semakan sistematik); walau bagaimanapun, tiada data percubaan klinikal wujud khusus untuk subtipe aura batang otak, dan profil risiko vaskular yang lebih tinggi daripada subtipe jarang ini memerlukan pendekatan berhati-hati dan dipantau sebelum mengekstrapolasi daripada bukti migrain-dengan-aura yang lebih luas.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Percubaan klinikal prospektif berdedikasi atau data daftar berkualiti tinggi yang secara khusus mendaftar pesakit migrain dengan aura batang otak
+- Pengambilan data MOA lengkap daripada API DrugBank (pada masa kini jurang data) untuk memperkuat analisis pautan mekanistik
+- Muat turun dan penghuraian PDF lembaran maklumat produk yang diluluskan NPRA untuk melengkapkan penilaian keselamatan S1 (amaran, kontraindikasi, interaksi ubat utama)
+- Pengambilan butiran pendaftaran produk spesifik (nombor kebenaran, indikasi yang diluluskan) daripada daftar NPRA untuk kesemua 15 produk berdaftar
+- Protokol stratifikasi risiko vaskular untuk pesakit dengan aura batang otak, mengikut peningkatan risiko iskemik berbanding dengan migrain biasa dengan aura
+- Takrifan rejimen dos yang optimum (akut berbanding profilaksis dos rendah) khusus kepada indikasi ini
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

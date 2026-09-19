@@ -29,75 +29,76 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Tyrosine: From Unspecified Original Indication to Cauda Equina Syndrome
+# Tyrosine: Dari Indikasi Asal Tidak Ditakrifkan kepada Sindrom Kauda Ekuina
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Tyrosine is an amino acid marketed in Malaysia under 20 registered licenses, but no original approved indication or mechanism-of-action data is currently available in the evidence pack. The TxGNN model's top prediction links it to **Cauda Equina Syndrome**, but this pairing is supported by **0 clinical trials** and only **1 unrelated case report**, and is flagged in the underlying rationale as a likely database indexing mismatch rather than a genuine pharmacological signal.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not documented in the available regulatory records (all license indication fields are blank) |
-| Predicted New Indication | Cauda Equina Syndrome |
-| TxGNN Prediction Score | 99.77% |
-| Evidence Level | L5 |
-| Malaysia Market Status | Marketed |
-| Number of Registrations | 20 |
-| Recommended Decision | Hold |
+Tyrosine ialah asam amino yang dipasarkan di Malaysia di bawah 20 lesen berdaftar, tetapi tiada indikasi yang diluluskan asal atau data mekanisme tindakan yang tersedia pada masa ini dalam pakej bukti. Ramalan teratas model TxGNN menghubungkannya dengan **Sindrom Kauda Ekuina**, tetapi pasangan ini disokong oleh **0 ujian klinikal** dan hanya **1 laporan kes yang tidak berkaitan**, dan ditandai dalam alasan mendasar sebagai kemungkinan ketidakpadanan pengindeksan pangkalan data dan bukannya isyarat farmakologi tulen.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Cepat
 
-Currently, detailed mechanism-of-action data for tyrosine is not available. Tyrosine is a standard amino acid and a known biochemical precursor to catecholamines and thyroid hormones, but no established pharmacological rationale connects it to cauda equina syndrome (a compressive neurological condition of the lumbosacral nerve roots).
-
-The repurposing rationale for this candidate explicitly states that no identifiable mechanism links tyrosine to cauda equina syndrome. The single supporting literature record (PMID 17341045) describes a case of clear cell sarcoma / melanotic schwannoma originating in the spinal nerve root — a histopathology case report with no mention of tyrosine as a therapeutic intervention. This suggests the TxGNN association is most likely a database indexing artifact rather than a substantiated biological hypothesis, and it should not be treated as mechanistically supported at this stage.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
----
-
-## Literature Evidence
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [17341045](https://pubmed.ncbi.nlm.nih.gov/17341045/) | 2006 | Case Report | Neurosurgical focus | Case report of clear cell sarcoma originating from the S1 nerve root, previously misdiagnosed as psammomatous melanotic schwannoma; discusses tumor histogenesis and potential immunotherapy directions. Does not evaluate tyrosine or any drug intervention for cauda equina syndrome. |
+| Perkara | Kandungan |
+|--------|-----------|
+| Indikasi Asal | Tidak didokumenkan dalam rekod peraturan yang tersedia (semua medan indikasi lesen kosong) |
+| Indikasi Baru yang Diramalkan | Sindrom Kauda Ekuina |
+| Skor Ramalan TxGNN | 99.77% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | Dipasarkan |
+| Bilangan Pendaftaran | 20 |
+| Keputusan Yang Disyorkan | Tahan |
 
 ---
 
-## Malaysia Market Information
+## Mengapa Ramalan Ini Munasabah?
 
-The evidence pack confirms tyrosine holds 20 active registrations in Malaysia ("Marketed" status), but no license-level details (registration number, product name, dosage form, or approved indication text) were returned by the source query — all fields are blank in the underlying records. Product-level registration data could not be reported here and would need to be re-queried from the NPRA source.
+Pada masa ini, data mekanisme tindakan terperinci untuk Tyrosine tidak tersedia. Tyrosine ialah asam amino standard dan pelopor biokimia yang diketahui untuk katekolamina dan hormon tiroid, tetapi tiada nisbah farmakologi yang mantap menghubungkannya dengan sindrom kauda ekuina (keadaan neurologis kompresi akar saraf lumbosacral).
 
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
+Nisbah tujuan semula untuk calon ini secara eksplisit menyatakan bahawa tiada mekanisme yang boleh dikenal pasti menghubungkan Tyrosine dengan sindrom kauda ekuina. Rekod kesusasteraan sokongan tunggal (PMID 17341045) menerangkan kes sarkom sel jernih / schwannoma bermelanotik yang berasal dari akar saraf spinal — laporan kes histopatologi tanpa sebarang pernyataan Tyrosine sebagai campur tangan terapeutik. Ini mencadangkan persatuan TxGNN berkemungkinan besar artifak pengindeksan pangkalan data dan bukannya hipotesis biologi yang disokong, dan ia tidak boleh dianggap disokong mekanistik pada peringkat ini.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Ujian Klinikal
 
-**Decision: Hold**
+Pada masa ini tiada ujian klinikal berkaitan didaftar.
 
-**Rationale:**
-The evidence level is L5 (model prediction only), with zero clinical trials and a single literature record that is unrelated to tyrosine or cauda equina syndrome — the rationale itself flags this as a likely false-positive database mismatch. In addition, a Blocking data gap (TFDA/NPRA label warnings and contraindications, DG001) prevents even an initial safety screen (S1) from being conducted.
+---
 
-**To proceed, the following is needed:**
-- Resolve DG001 (Blocking): retrieve the official Malaysia product label warnings/contraindications before any safety-stage evaluation
-- Resolve DG002 (High): obtain tyrosine's mechanism-of-action data from DrugBank to support or refute mechanistic plausibility
-- Confirm the original approved indication(s) from NPRA license-level records (currently blank)
-- Independently verify whether the cauda equina syndrome association is a genuine TxGNN signal or a knowledge-graph indexing error before allocating further review resources
-- If pursued, generate a dedicated literature/preclinical search specifically on tyrosine and lumbosacral nerve root pathology, since the current single reference is not relevant
+## Bukti Kesusasteraan
+
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-------|-------|--------|---------|
+| [17341045](https://pubmed.ncbi.nlm.nih.gov/17341045/) | 2006 | Laporan Kes | Neurosurgical focus | Laporan kes sarkom sel jernih yang berasal dari akar saraf S1, sebelum ini disalahdiagnosis sebagai schwannoma bermelanotik psammomatous; membincangkan histogenesis tumor dan arah potensi imunoterapi. Tidak menilai Tyrosine atau sebarang campur tangan ubat untuk sindrom kauda ekuina. |
+
+---
+
+## Maklumat Pasaran Malaysia
+
+Pakej bukti mengesahkan Tyrosine memegang 20 pendaftaran aktif di Malaysia (status "Dipasarkan"), tetapi tiada butiran peringkat lesen (nombor pendaftaran, nama produk, bentuk dos, atau teks indikasi yang diluluskan) yang dikembalikan oleh pertanyaan sumber — semua medan kosong dalam rekod yang mendasar. Data pendaftaran peringkat produk tidak dapat dilaporkan di sini dan perlu disemak semula dari sumber NPRA.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Nisbah:**
+Tahap bukti ialah L5 (ramalan model sahaja), dengan sifar ujian klinikal dan rekod kesusasteraan tunggal yang tidak berkaitan dengan Tyrosine atau sindrom kauda ekuina — nisbah itu sendiri menandai ini sebagai ketidakpadanan pangkalan data positif palsu yang berkemungkinan. Sebagai tambahan, jurang data Penyekat (amaran label TFDA/NPRA dan kontraindikasi, DG001) menghalang bahkan skrin keselamatan awal (S1) daripada dijalankan.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Selesaikan DG001 (Penyekat): dapatkan amaran label produk Malaysia rasmi/kontraindikasi sebelum sebarang penilaian peringkat keselamatan
+- Selesaikan DG002 (Tinggi): dapatkan data mekanisme tindakan Tyrosine dari DrugBank untuk menyokong atau menafikan kebolehpercayaan mekanistik
+- Sahkan indikasi yang diluluskan asal daripada rekod peringkat lesen NPRA (pada masa ini kosong)
+- Sahkan secara bebas sama ada persatuan sindrom kauda ekuina ialah isyarat TxGNN tulen atau ralat pengindeksan graf pengetahuan sebelum memperuntukkan sumber semakan lanjut
+- Jika diikuti, hasilkan carian kesusasteraan/pra-klinikal khusus pada Tyrosine dan patologi akar saraf lumbosacral, kerana rujukan tunggal semasa tidak relevan
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

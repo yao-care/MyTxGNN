@@ -29,76 +29,77 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Nitrofurantoin: From Urinary Tract Infection to Rheumatoid Arthritis
+# Nitrofurantoin: Dari Infeksi Saluran Kemih ke Arthritis Rheumatoid
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Nitrofurantoin is a nitrofuran antibacterial internationally labeled for uncomplicated urinary tract infections (UTI); the specific approved-indication text in this market's regulatory record was not captured in this evidence pack. The TxGNN model ranks **Rheumatoid Arthritis** as its top predicted new indication (score 99.89%), but the supporting literature (12 PubMed records) consists almost entirely of case reports and reviews describing nitrofurantoin-*induced* adverse reactions (pulmonary fibrosis, hepatitis) in RA patients — not evidence of therapeutic benefit. No clinical trials exist for this pairing.
+Nitrofurantoin ialah bahan kimia antibakteria nitrofuran yang berlabel secara internasional untuk infeksi saluran kemih (ISK) tanpa komplikasi; teks indikasi yang diluluskan khusus dalam rekod regulasi pasaran ini tidak ditangkap dalam pakej bukti ini. Model TxGNN meletakkan **Arthritis Rheumatoid** sebagai ramalan indikasi baru tertingginya (skor 99.89%), tetapi kesusasteraan yang menyokong (12 rekod PubMed) terdiri hampir sepenuhnya daripada laporan kes dan ulasan yang menggambarkan tindak balas buruk yang *disebabkan nitrofurantoin* (fibrosis pulmonari, hepatitis) pada pesakit RA — bukan bukti manfaat terapeutik. Tiada percubaan klinikal yang wujud untuk pasangan ini.
 
-## Quick Overview
+## Gambaran Keseluruhan Cepat
 
-| Item | Content |
-|------|------|
-| Original Indication | Not captured in this evidence pack (license text empty; TFDA label data flagged as a Blocking data gap — DG001). Internationally, Nitrofurantoin's established label indication is uncomplicated urinary tract infection (UTI). |
-| Predicted New Indication | Rheumatoid Arthritis |
-| TxGNN Prediction Score | 99.89% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Tidak ditangkap dalam pakej bukti ini (teks lesen kosong; data label TFDA ditandai sebagai jurang data Menyekat — DG001). Secara internasional, indikasi label yang ditetapkan Nitrofurantoin ialah infeksi saluran kemih tanpa komplikasi (ISK). |
+| Indikasi Baru yang Diramalkan | Arthritis Rheumatoid |
+| Skor Ramalan TxGNN | 99.89% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Wajar?
 
-Detailed mechanism of action data is not available for this drug (data gap). Nitrofurantoin's known pharmacology is that of a nitrofuran antibacterial: after bacterial nitroreductase activation it generates reactive intermediates that damage bacterial DNA and ribosomal proteins. There is no established immunomodulatory or anti-inflammatory mechanism that would explain an effect on rheumatoid synovitis or autoimmune disease activity.
+Data mekanisme tindakan terperinci tidak tersedia untuk ubat ini (jurang data). Farmakologi Nitrofurantoin yang diketahui ialah antibakteria nitrofuran: selepas pengaktifan nitroreduktase bakterial ia menghasilkan perantara reaktif yang merosakkan DNA bakterial dan protein ribosomal. Tiada mekanisme imunomodulatori atau anti-inflamasi yang telah ditetapkan yang dapat menjelaskan kesan pada sinovitis reumatoid atau aktiviti penyakit autoimun.
 
-Reviewing the 12 supporting publications shows the prediction is not mechanistically grounded: the majority describe nitrofurantoin (or other drugs) *causing* interstitial lung disease/pulmonary fibrosis, hepatotoxicity, or sialadenitis in patients who happen to have RA as a comorbidity or differential-diagnosis consideration — not nitrofurantoin treating RA. One record (PMID 31222078) specifically studies antibiotic exposure as a trigger for RA *flares* (a risk signal, not a benefit signal). This pattern is consistent with a co-occurrence artifact: nitrofurantoin and "rheumatoid arthritis" appear together in the literature mainly because clinicians differentiate drug-induced lung/liver injury from RA-associated disease in the same patients, not because of a treatment relationship.
+Menyemak 12 penerbitan yang menyokong menunjukkan ramalan itu tidak berasas secara mekanistik: majoriti menggambarkan nitrofurantoin (atau ubat lain) *menyebabkan* penyakit paru interstisial/fibrosis pulmonari, hepatotoksisiti, atau sialadenitis pada pesakit yang kebetulan mempunyai RA sebagai komorbiditi atau pertimbangan diagnosis pembezaan — bukan nitrofurantoin merawat RA. Satu rekod (PMID 31222078) khusus mengkaji pendedahan antibiotik sebagai pencetus untuk *kambuhan* RA (isyarat risiko, bukan isyarat manfaat). Corak ini konsisten dengan artifak ko-kejadian: nitrofurantoin dan "arthritis rheumatoid" muncul bersama dalam kesusasteraan terutamanya kerana doktor klinikal membezakan kecederaan paru/hati yang disebabkan ubat daripada penyakit berkaitan RA pada pesakit yang sama, bukan kerana hubungan rawatan.
 
-Given this, the high TxGNN score most likely reflects textual/graph co-occurrence rather than a plausible repurposing hypothesis, and the evidence direction is arguably opposite to what a "new indication" would require.
+Memandangkan ini, skor TxGNN yang tinggi paling mungkin mencerminkan ko-kejadian tekstual/graf daripada hipotesis pelbagai guna yang dapat dipercayai, dan arah bukti boleh dikatakan bertentangan dengan apa yang diperlukan oleh "indikasi baru".
 
-## Clinical Trial Evidence
+## Bukti Percubaan Klinikal
 
-Currently no related clinical trials registered.
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [15195196](https://pubmed.ncbi.nlm.nih.gov/15195196/) | 2004 | Review | Saudi Medical Journal | Lists nitrofurantoin among drugs causing pulmonary fibrosis; notes RA itself is also a predisposing disease for lung fibrosis — an adverse-effect/comorbidity overlap, not a treatment link |
-| [25362778](https://pubmed.ncbi.nlm.nih.gov/25362778/) | 2014 | Review | La Revue du praticien | General review of drug-induced interstitial lung disease listing nitrofurantoin (and minocycline) as causative antibiotics |
-| [31222078](https://pubmed.ncbi.nlm.nih.gov/31222078/) | 2019 | Cohort (self-controlled case series) | Scientific Reports | Studied whether antibiotic use *triggers* RA flares (n=31,992, CPRD GOLD) — a risk association, not evidence of therapeutic effect |
-| [3335140](https://pubmed.ncbi.nlm.nih.gov/3335140/) | 1988 | Cohort | Chest | Describes poor prognosis of RA patients hospitalized for interstitial lung fibrosis; does not evaluate nitrofurantoin as therapy |
-| [35145797](https://pubmed.ncbi.nlm.nih.gov/35145797/) | 2022 | Case Report | Cureus | Case of irreversible pulmonary fibrosis from methotrexate + nitrofurantoin interaction in an RA patient — an adverse drug interaction, not a benefit |
-| [41635325](https://pubmed.ncbi.nlm.nih.gov/41635325/) | 2026 | Case Report | Cureus | Autoimmune hepatitis differential diagnosis case; nitrofurantoin and RA both mentioned only as differential considerations for drug-induced liver injury |
-| [11937933](https://pubmed.ncbi.nlm.nih.gov/11937933/) | 2002 | Case Report | Annales de dermatologie et de vénéréologie | Case of phenylbutazone-induced sialadenitis; nitrofurantoin mentioned only as another drug reported to cause sialadenitis |
-| [8104358](https://pubmed.ncbi.nlm.nih.gov/8104358/) | 1993 | Case Report | Revue de pneumologie clinique | Gold-salt-induced pneumonitis case; compares BAL findings to those reported with methotrexate — nitrofurantoin not a treatment focus |
-| [899886](https://pubmed.ncbi.nlm.nih.gov/899886/) | 1977 | Unclassified | Acta Medica Scandinavica | No abstract available; title concerns nitrofurantoin therapy for bacteriuria (UTI), unrelated to RA |
-| [4608019](https://pubmed.ncbi.nlm.nih.gov/4608019/) | 1974 | Unclassified | Der Internist | No abstract available; title is a general synopsis on alveolitis/pulmonary fibrosis |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|------|-------|--------|---------|
+| [15195196](https://pubmed.ncbi.nlm.nih.gov/15195196/) | 2004 | Ulasan | Saudi Medical Journal | Menyenaraikan nitrofurantoin antara ubat yang menyebabkan fibrosis pulmonari; mencatat bahawa RA sendiri juga merupakan penyakit predisposisi untuk fibrosis paru — pertindihan kesan buruk/komorbiditi, bukan pautan rawatan |
+| [25362778](https://pubmed.ncbi.nlm.nih.gov/25362778/) | 2014 | Ulasan | La Revue du praticien | Ulasan umum penyakit paru interstisial yang disebabkan ubat menyenaraikan nitrofurantoin (dan minisiklin) sebagai antibiotik penyebab |
+| [31222078](https://pubmed.ncbi.nlm.nih.gov/31222078/) | 2019 | Kohort (siri kes kawalan kendiri) | Scientific Reports | Mengkaji sama ada penggunaan antibiotik *mencetuskan* kambuhan RA (n=31,992, CPRD GOLD) — persatuan risiko, bukan bukti kesan terapeutik |
+| [3335140](https://pubmed.ncbi.nlm.nih.gov/3335140/) | 1988 | Kohort | Chest | Menerangkan prognosis buruk pesakit RA yang dimasukkan hospital untuk fibrosis paru interstisial; tidak menilai nitrofurantoin sebagai terapi |
+| [35145797](https://pubmed.ncbi.nlm.nih.gov/35145797/) | 2022 | Laporan Kes | Cureus | Kes fibrosis pulmonari yang tidak dapat dipulihkan daripada interaksi metotreksate + nitrofurantoin pada pesakit RA — interaksi ubat yang merugikan, bukan manfaat |
+| [41635325](https://pubmed.ncbi.nlm.nih.gov/41635325/) | 2026 | Laporan Kes | Cureus | Kes diagnosis pembezaan hepatitis autoimun; nitrofurantoin dan RA kedua-duanya disebut hanya sebagai pertimbangan pembezaan untuk kecederaan hati yang disebabkan ubat |
+| [11937933](https://pubmed.ncbi.nlm.nih.gov/11937933/) | 2002 | Laporan Kes | Annales de dermatologie et de vénéréologie | Kes sialadenitis yang disebabkan fenilbutazon; nitrofurantoin disebut hanya sebagai ubat lain yang dilaporkan menyebabkan sialadenitis |
+| [8104358](https://pubmed.ncbi.nlm.nih.gov/8104358/) | 1993 | Laporan Kes | Revue de pneumologie clinique | Kes pneumonitis yang disebabkan garam emas; membandingkan penemuan BAL dengan yang dilaporkan dengan metotreksate — nitrofurantoin bukan fokus rawatan |
+| [899886](https://pubmed.ncbi.nlm.nih.gov/899886/) | 1977 | Tidak Diklasifikasikan | Acta Medica Scandinavica | Tiada abstrak tersedia; tajuk berkaitan terapi nitrofurantoin untuk bacteriuria (ISK), tidak berkaitan dengan RA |
+| [4608019](https://pubmed.ncbi.nlm.nih.gov/4608019/) | 1974 | Tidak Diklasifikasikan | Der Internist | Tiada abstrak tersedia; tajuk ialah sinopsis umum tentang alveolitis/fibrosis pulmonari |
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-This evidence pack records **1 registered license** with market status "Marketed" (Marketed), but the license number, product name, dosage form, and approved-indication text fields were all empty in the source data — full registration details are not available and should be pulled directly from the NPRA product registry before use in any regulatory submission.
+Pakej bukti ini mencatatkan **1 lesen berdaftar** dengan status pasaran "Dipasarkan" (Dipasarkan), tetapi nombor lesen, nama produk, bentuk dos, dan medan teks indikasi yang diluluskan semuanya kosong dalam data sumber — butir-butir pendaftaran penuh tidak tersedia dan harus diambil terus daripada daftar produk NPRA sebelum digunakan dalam sebarang penyerahan kawal selia.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Official safety fields (key warnings, contraindications, drug interactions) were not populated in this evidence pack (DG001, Blocking — TFDA/NPRA label PDF not yet parsed). Please refer to the package insert for safety information.
+Medan keselamatan rasmi (amaran utama, kontraindikasi, interaksi ubat) tidak diisi dalam pakej bukti ini (DG001, Menyekat — PDF label TFDA/NPRA belum dianalisis). Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-**Additional literature-derived signals worth flagging** (not from official label data, but surfaced by this evaluation's broader literature search across other predicted indications):
-- Nitrofurantoin has documented case reports of *inducing* methemoglobinemia, particularly via photoactivation or in neonates ([PMID 3176031](https://pubmed.ncbi.nlm.nih.gov/3176031/), [930081](https://pubmed.ncbi.nlm.nih.gov/930081/), [5359411](https://pubmed.ncbi.nlm.nih.gov/5359411/)).
-- Case-level evidence of nitrofurantoin-associated pulmonary fibrosis, especially in combination with methotrexate ([PMID 35145797](https://pubmed.ncbi.nlm.nih.gov/35145797/)).
-- Nitrofurantoin is conventionally contraindicated/used with caution in significant renal impairment (CrCl < 60 mL/min), relevant given one lower-ranked prediction (diabetic nephropathy) directly implicates renal function.
+**Isyarat tambahan yang diperoleh daripada kesusasteraan yang patut ditandai** (bukan daripada data label rasmi, tetapi terbongkar oleh carian kesusasteraan yang lebih luas dalam penilaian ini merentasi indikasi lain yang diramalkan):
+- Nitrofurantoin mempunyai laporan kes yang terdokumentasi tentang *mencetuskan* methemoglobinemia, terutamanya melalui pengaktifan foto atau pada bayi baru lahir ([PMID 3176031](https://pubmed.ncbi.nlm.nih.gov/3176031/), [930081](https://pubmed.ncbi.nlm.nih.gov/930081/), [5359411](https://pubmed.ncbi.nlm.nih.gov/5359411/)).
+- Bukti peringkat kes fibrosis pulmonari yang berkaitan dengan nitrofurantoin, terutamanya dalam kombinasi dengan metotreksate ([PMID 35145797](https://pubmed.ncbi.nlm.nih.gov/35145797/)).
+- Nitrofurantoin secara konvensional dikontraindikasikan/digunakan dengan berhati-hati dalam gangguan ginjal yang ketara (CrCl < 60 mL/min), relevan memandangkan satu ramalan berpangkat lebih rendah (nephropati diabetik) secara langsung melibatkan fungsi ginjal.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The supporting literature for Rheumatoid Arthritis describes nitrofurantoin-induced adverse events (pulmonary fibrosis, hepatotoxicity) or RA-flare risk, not therapeutic benefit, and there is no plausible mechanistic link between nitrofurantoin's antibacterial mode of action and RA disease modification. No clinical trials exist. The evidence pack's own scoring (L5, S0) and recommendation already align with Hold.
+**Rasional:**
+Kesusasteraan yang menyokong untuk Arthritis Rheumatoid menerangkan peristiwa buruk yang disebabkan nitrofurantoin (fibrosis pulmonari, hepatotoksisiti) atau risiko kambuhan RA, bukan manfaat terapeutik, dan tiada pautan mekanistik yang dapat dipercayai antara mod tindakan antibakteria nitrofurantoin dan pengubahan penyakit RA. Tiada percubaan klinikal yang wujud. Penilaian skor pakej bukti sendiri (L5, S0) dan cadangan sudah selaras dengan Tahan.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA label PDF parsing to close the Blocking safety data gap (DG001) before any S1 safety review
-- DrugBank MOA data (DG002) to properly assess mechanistic plausibility
-- A genuine RA-specific preclinical or translational rationale, since current literature evidence points in the opposite (harm) direction
-- Confirmation this candidate should likely be deprioritized in favor of re-screening lower-noise predictions from this drug's candidate list, several of which (e.g., methemoglobinemia) are themselves inverse safety signals rather than repurposing opportunities
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Penghuraian PDF label TFDA/NPRA untuk menutup jurang data keselamatan Menyekat (DG001) sebelum mana-mana ulasan keselamatan S1
+- Data MOA DrugBank (DG002) untuk menilai dengan betul kebolehpercayaan mekanistik
+- Satu rasional pra-klinikal atau terjemahan khusus RA yang tulen, kerana bukti kesusasteraan semasa menunjuk ke arah yang bertentangan (bahaya)
+- Pengesahan bahawa calon ini mungkin harus diturunkan keutamaan demi penyaringan semula ramalan hingar yang lebih rendah daripada senarai calon ubat ini, beberapa daripadanya (cth, methemoglobinemia) adalah sendiri isyarat keselamatan songsang daripada peluang pelbagai guna
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

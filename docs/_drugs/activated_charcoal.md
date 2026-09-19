@@ -29,80 +29,81 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Activated Charcoal: Emergency Toxin Adsorption Agent — No TxGNN Predictions Available
+# Activated Charcoal: Agen Adsorpsi Toksin Kecemasan — Tiada Prediksi TxGNN Tersedia
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Activated charcoal is a broad-spectrum gastrointestinal adsorbent primarily used in emergency medicine for acute poisoning and drug overdose management.
-The current TxGNN analysis returned **no predicted new indications** for this drug.
-As a result, a formal drug repurposing evaluation cannot be completed without re-running the prediction pipeline with complete input data.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Acute poisoning / Toxin adsorption (emergency use) |
-| Predicted New Indication | None — no TxGNN predictions generated |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 (no predictions or supporting studies retrieved) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
-| Recommended Decision | Hold |
+Activated charcoal adalah adsorben gastrointestinal spektrum luas yang digunakan terutamanya dalam pengurusan kecemasan untuk menangani keracunan akut dan overdosis ubat.
+Analisis TxGNN semasa tidak menunjukkan sebarang indikasi baru yang diramalkan untuk ubat ini.
+Akibatnya, penilaian formal untuk penggunaan ubat bagi indikasi baru tidak dapat diselesaikan tanpa menjalankan semula saluran paip ramalan dengan data input yang lengkap.
 
 ---
 
-## Why No Predictions Are Available
+## Gambaran Ringkas
 
-The `predicted_indications` array in this Evidence Pack is empty. This typically occurs for one or more of the following reasons:
-
-1. **Mapping failure**: Activated charcoal may not have been matched to a node in the TxGNN knowledge graph. Because it is a non-specific physical adsorbent rather than a targeted small molecule, it may lack the pharmacological fingerprint (receptor binding, enzymatic targets) required for graph-based similarity scoring.
-
-2. **Score threshold filtering**: Any candidate predictions may have been removed by the post-processing score cutoff before reaching this report.
-
-3. **Pipeline incompleteness**: The Evidence Pack was flagged with two blocking/high-severity data gaps (DG001: TFDA warnings, DG002: MOA), which may have halted downstream prediction steps.
-
-Until the prediction pipeline is re-run with resolved data gaps, there is no repurposing hypothesis to evaluate.
+| Item | Kandungan |
+|------|-----------|
+| Indikasi Asal | Keracunan akut / Adsorpsi toksin (penggunaan kecemasan) |
+| Indikasi Baru Yang Diramalkan | Tiada — tiada prediksi TxGNN dijana |
+| Skor Ramalan TxGNN | N/A |
+| Tahap Bukti | L5 (tiada prediksi atau kajian sokongan diperolehi) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 3 |
+| Keputusan Yang Disyorkan | Tangguhkan |
 
 ---
 
-## Malaysia Market Information
+## Mengapa Tiada Prediksi Tersedia
 
-Three product registrations are confirmed in the NPRA database, but the detailed licence records (product names, dosage forms, approved indications) were not retrieved in this data pull.
+Tatasusunan `predicted_indications` dalam Pakej Bukti ini kosong. Ini biasanya berlaku untuk satu atau lebih daripada sebab-sebab berikut:
+
+1. **Kegagalan pemetaan**: Activated charcoal mungkin belum dipadankan dengan nod dalam graf pengetahuan TxGNN. Kerana ia adalah adsorben fizikal bukan spesifik dan bukannya molekul kecil bertarget, ia mungkin kekurangan jejak farmakologi (pengikatan reseptor, sasaran enzimatik) yang diperlukan untuk pemarkahan kesamaan berasaskan graf.
+
+2. **Penapisan ambang skor**: Sebarang ramalan calon mungkin telah dialih keluar oleh ambang pemotongan skor pemprosesan pasca sebelum mencapai laporan ini.
+
+3. **Ketidaklengkapan saluran paip**: Pakej Bukti telah ditandai dengan dua jurang data menghalang/keterukan tinggi (DG001: amaran TFDA, DG002: MOA), yang mungkin telah menghentikan langkah ramalan hiliran.
+
+Sehingga saluran paip ramalan dijalankan semula dengan jurang data yang diselesaikan, tidak ada hipotesis penggunaan ubat bagi indikasi baru yang akan dinilai.
+
+---
+
+## Maklumat Pasaran Malaysia
+
+Tiga pendaftaran produk disahkan dalam pangkalan data NPRA, namun rekod lesen terperinci (nama produk, bentuk dos, indikasi yang diluluskan) tidak diperolehi dalam pengambilan data ini.
 
 | Item | Status |
 |------|--------|
-| Number of Registered Products | 3 |
-| Market Status | ✓ Marketed |
-| Detailed Licence Records | Not retrieved — requires a targeted NPRA record lookup |
+| Bilangan Produk Berdaftar | 3 |
+| Status Pasaran | ✓ Dipasarkan |
+| Rekod Lesen Terperinci | Tidak diperolehi — memerlukan pertanyaan rekod NPRA yang disasarkan |
 
-To populate the full licence table, re-query the NPRA portal with the individual product registration numbers associated with DB09278.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-> **Note**: Both the TFDA package insert warnings/contraindications (DG001, severity: Blocking) and drug interaction data were absent from this Evidence Pack. These must be resolved before any safety assessment can proceed.
+Untuk mengisi jadual lesen penuh, lakukan pertanyaan semula pada portal NPRA dengan nombor pendaftaran produk individu yang berkaitan dengan DB09278.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila rujuk selebaran produk untuk maklumat keselamatan.
 
-**Rationale:**
-There are no TxGNN-predicted indications to evaluate, and two critical data gaps (MOA and regulatory safety text) remain unresolved, making it impossible to assess either mechanistic plausibility or safety at this stage.
+> **Nota**: Amaran selebaran produk TFDA/kontraindikasi (DG001, keterukan: Menghalang) dan data interaksi ubat tidak terdapat dalam Pakej Bukti ini. Perkara ini mesti diselesaikan sebelum sebarang penilaian keselamatan dapat diteruskan.
 
-**To proceed, the following is needed:**
+---
 
-- **Resolve DG001 (Blocking)**: Download and parse the TFDA package insert PDF to extract approved indications, warnings, and contraindications.
-- **Resolve DG002 (High)**: Query the DrugBank API for DB09278 to retrieve mechanism of action, drug categories, and toxicity data.
-- **Re-run TxGNN prediction pipeline**: After confirming that activated charcoal maps correctly to a knowledge graph node, re-execute `run_kg_prediction.py` to generate scored repurposing candidates.
-- **Verify NPRA licence details**: Retrieve the three product registration records in full (product name, dosage form, approved indication text) from the NPRA database.
-- **Confirm KG node eligibility**: Determine whether activated charcoal is represented as a tractable node in the TxGNN knowledge graph (`data/node.csv`); if absent, assess whether a surrogate compound or a mechanism-level placeholder can be used.
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tangguhkan**
+
+**Alasan:**
+Tiada indikasi yang diramalkan TxGNN untuk dinilai, dan dua jurang data yang kritikal (MOA dan teks keselamatan kawal selia) tetap tidak diselesaikan, menjadikan ia mustahil untuk menilai sama ada kelayakan mekanistik atau keselamatan pada peringkat ini.
+
+**Untuk meneruskan, perkara-perkara berikut diperlukan:**
+
+- **Selesaikan DG001 (Menghalang)**: Muat turun dan huraikan PDF selebaran produk TFDA untuk mengeluarkan indikasi yang diluluskan, amaran, dan kontraindikasi.
+- **Selesaikan DG002 (Tinggi)**: Pertanyakan API DrugBank untuk DB09278 untuk mendapatkan mekanisme tindakan, kategori ubat, dan data toksisiti.
+- **Jalankan semula saluran paip ramalan TxGNN**: Selepas mengesahkan bahawa activated charcoal memetakan dengan betul kepada nod graf pengetahuan, jalankan semula `run_kg_prediction.py` untuk menjana calon penggunaan ubat yang berdiskor.
+- **Sahkan butiran lesen NPRA**: Perolehi tiga rekod pendaftaran produk sepenuhnya (nama produk, bentuk dos, teks indikasi yang diluluskan) daripada pangkalan data NPRA.
+- **Sahkan kelayakan nod KG**: Tentukan sama ada activated charcoal diwakili sebagai nod yang dapat diselesaikan dalam graf pengetahuan TxGNN (`data/node.csv`); jika tidak wujud, nilai sama ada sebatian pengganti atau pemegang tempat tahap mekanisme boleh digunakan.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

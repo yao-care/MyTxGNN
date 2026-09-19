@@ -29,76 +29,77 @@ Tahap bukti: **L5** | Indikasi diramal: **7**
 
 </div>
 
-# Methoxy Polyethylene Glycol-Epoetin Beta: From Erythropoiesis Stimulation to Primary Release Disorder of Platelets
+# Methoxy Polyethylene Glycol-Epoetin Beta: Daripada Rangsangan Erythropoiesis hingga Gangguan Pelepasan Primer Platelet
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Methoxy polyethylene glycol-epoetin beta (DrugBank DB09107) is an erythropoiesis-stimulating agent (ESA) that activates the EPO receptor (EPOR) pathway to stimulate red blood cell production. The TxGNN model's top prediction is **primary release disorder of platelets**, but this candidate is supported by **0 clinical trials** and **0 publications** — the model's own rationale text notes the mechanistic link is speculative, based on knowledge-graph co-occurrence rather than a known pharmacological pathway.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not available in the Evidence Pack — Malaysia license records contain no indication text (data gap). Known drug class: Erythropoiesis-Stimulating Agent (ESA) |
-| Predicted New Indication | Primary release disorder of platelets |
-| TxGNN Prediction Score | 99.36% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 6 |
-| Recommended Decision | Hold |
+Methoxy polyethylene glycol-epoetin beta (DrugBank DB09107) ialah agen perangsang erythropoiesis (ESA) yang mengaktifkan laluan reseptor EPO (EPOR) untuk merangsang pengeluaran sel darah merah. Ramalan teratas model TxGNN ialah **gangguan pelepasan primer platelet**, tetapi calon ini disokong oleh **0 ujian klinikal** dan **0 penerbitan** — teks alasan model itu sendiri mencatat bahawa pautan mekanik adalah spekulatif, berdasarkan kehadiran bersama graf pengetahuan dan bukannya laluan farmakologi yang diketahui.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Pantas
 
-Detailed mechanism of action data is flagged as a data gap in this Evidence Pack (DG002). Based on what is known, this drug is a PEGylated epoetin beta (methoxy polyethylene glycol-epoetin beta), a member of the ESA class, which binds the EPO receptor (EPOR) on erythroid progenitor cells to stimulate red blood cell production. EPOR is also expressed on megakaryocytes, which is the basis for the model's proposed link to platelet-related disorders.
-
-However, the evidence pack's own rationale text is explicit that this connection is weak: "primary release disorder of platelets" refers to a defect in platelet granule *release*, a process with no established relationship to EPO/EPOR signaling. The rationale explicitly characterizes the prediction as a knowledge-graph co-occurrence artifact rather than a mechanistically supported hypothesis, and no clinical or literature evidence currently exists to support it.
-
-It is also worth noting that all 7 TxGNN-predicted indications for this drug are rated L5 (model prediction only) with a "Hold" recommendation, and several of the lower-ranked candidates (heparin cofactor 2 deficiency, antithrombin deficiency type 2, factor 5 excess with spontaneous thrombosis) run **contrary** to this drug's known safety profile — ESAs carry an established thrombosis risk, making these candidates directionally inappropriate rather than merely unproven. This pattern suggests the prediction set as a whole should be treated with caution rather than as a promising repurposing signal.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Tidak tersedia dalam Pak Bukti — rekod lesen Malaysia tidak mengandungi teks petunjuk (jurang data). Kelas ubat yang diketahui: Agen Perangsang Erythropoiesis (ESA) |
+| Petunjuk Baru yang Diramal | Gangguan pelepasan primer platelet |
+| Skor Ramalan TxGNN | 99.36% |
+| Aras Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 6 |
+| Cadangan Keputusan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available.
+Data mekanisme tindakan terperinci ditandai sebagai jurang data dalam Pak Bukti ini (DG002). Berdasarkan apa yang diketahui, ubat ini ialah epoetin beta yang dipegylated (methoxy polyethylene glycol-epoetin beta), ahli kelas ESA, yang mengikat reseptor EPO (EPOR) pada sel progenitor eritroid untuk merangsang pengeluaran sel darah merah. EPOR juga diekspresikan pada megakaryosit, yang merupakan asas untuk pautan yang dicadangkan model kepada gangguan berkaitan platelet.
 
----
+Walau bagaimanapun, teks alasan pak bukti bukti itu sendiri jelas bahawa sambungan ini lemah: "gangguan pelepasan primer platelet" merujuk kepada kecacatan dalam pelepasan granul platelet, proses yang tidak mempunyai hubungan yang ditetapkan dengan isyarat EPO/EPOR. Alasan tersebut secara eksplisit mencirikan ramalan sebagai artifak kehadiran bersama graf pengetahuan dan bukannya hipotesis yang disokong secara mekanik, dan tiada bukti klinikal atau literatur sedia ada untuk menyokongnya.
 
-## Malaysia Market Information
-
-This product has 6 registered licenses in Malaysia (NPRA, market status: Marketed / Marketed). However, license-level details (registration numbers, product names, dosage forms, approved indication text) are not populated in this Evidence Pack and cannot be reported here.
+Juga perlu diingat bahawa semua 7 petunjuk yang diramal TxGNN untuk ubat ini diberi penarafan L5 (ramalan model sahaja) dengan cadangan "Tahan", dan beberapa calon yang berada di kedudukan lebih rendah (kekurangan kofaktor heparin 2, kekurangan antitrombin jenis 2, lebihan faktor 5 dengan trombosis spontan) berjalan **bertentangan** dengan profil keselamatan ubat yang diketahui — ESA membawa risiko trombosis yang ditetapkan, menjadikan calon ini tidak wajar secara arah daripada hanya tidak terbukti. Corak ini menunjukkan set ramalan secara keseluruhan harus dianggap dengan berhati-hati dan bukannya sebagai isyarat ubat semula guna yang menjanjikan.
 
 ---
 
-## Safety Considerations
+## Bukti Ujian Klinikal
 
-Please refer to the package insert for safety information.
-
-*Note: TFDA/NPRA label warnings and contraindications for this drug are flagged in this Evidence Pack as a **Blocking** data gap (DG001) — this currently prevents even an initial (S1) safety assessment and should be prioritized before any further evaluation.*
+Pada masa ini tiada ujian klinikal yang berkaitan terdaftar.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Hold**
+Pada masa ini tiada literatur yang berkaitan tersedia.
 
-**Rationale:**
-The top-ranked predicted indication has no supporting clinical trials or literature (L5, model prediction only), and the mechanistic rationale in the evidence pack itself indicates the link to EPO/EPOR signaling is not well established. In addition, a Blocking-severity data gap (missing label warnings/contraindications) prevents even a baseline safety screen.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA product label (warnings, contraindications) to resolve DG001 before any safety evaluation can begin
-- DrugBank/label-sourced mechanism of action data to resolve DG002 and properly assess mechanistic plausibility
-- Original approved indication text from Malaysia license records (currently blank in this Evidence Pack)
-- If this candidate is pursued further, independent literature or preclinical search specifically on EPOR expression/signaling in megakaryocyte granule biology, since none currently exists in the evidence pack
+## Maklumat Pasaran Malaysia
+
+Produk ini mempunyai 6 lesen berdaftar di Malaysia (NPRA, status pasaran: Dipasarkan / Dipasarkan). Walau bagaimanapun, butiran aras lesen (nombor pendaftaran, nama produk, bentuk dos, teks petunjuk yang diluluskan) tidak diisi dalam Pak Bukti ini dan tidak boleh dilaporkan di sini.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk prospektus pemaketan untuk maklumat keselamatan.
+
+*Catatan: Amaran label TFDA/NPRA dan kontraindikasi untuk ubat ini ditandai dalam Pak Bukti ini sebagai jurang data **Menghalang** (DG001) — ini pada masa ini menghalang penilaian keselamatan awal (S1) dan harus diprioritaskan sebelum sebarang penilaian lanjut.*
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Alasan:**
+Petunjuk yang diramal berkedudukan teratas tidak mempunyai ujian klinikal atau literatur yang menyokong (L5, ramalan model sahaja), dan alasan mekanik dalam pak bukti bukti itu sendiri menunjukkan bahawa pautan kepada isyarat EPO/EPOR tidak ditegakkan dengan baik. Sebagai tambahan, jurang data keterukan Menghalang (amaran label/kontraindikasi yang hilang) menghalang pun saring keselamatan asas.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Prospektus produk TFDA/NPRA (amaran, kontraindikasi) untuk menyelesaikan DG001 sebelum sebarang penilaian keselamatan boleh dimulai
+- Data mekanisme tindakan yang bersumber daripada DrugBank/label untuk menyelesaikan DG002 dan menilai dengan sewajarnya kebolehakuan mekanik
+- Teks petunjuk yang diluluskan asal daripada rekod lesen Malaysia (pada masa ini kosong dalam Pak Bukti ini)
+- Jika calon ini diikuti lebih lanjut, carian literatur atau praklinik bebas khusus tentang ungkapan/isyarat EPOR dalam biologi pelepasan granul megakaryosit, kerana tiada yang sedia ada dalam pak bukti bukti tersebut
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

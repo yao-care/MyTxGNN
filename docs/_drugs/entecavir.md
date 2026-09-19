@@ -29,96 +29,97 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Entecavir: From Chronic Hepatitis B to Chronic Hepatitis C Virus Infection
+# Entecavir: Daripada Hepatitis B Kronik ke Jangkitan Virus Hepatitis C Kronik
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Entecavir is a guanosine nucleoside analog originally developed and marketed for chronic hepatitis B (HBV) treatment, acting by inhibiting the HBV reverse transcriptase. The TxGNN model's top-ranked prediction flags **chronic hepatitis C virus infection** as a candidate new indication (score 99.98%), but the underlying evidence — **40 clinical trials** and **20 publications** — consists almost entirely of HBV trials and HBV/HCV coinfection management studies, not direct HCV treatment evidence. The evidence pack itself flags this prediction as a likely knowledge-graph artifact rather than a genuine pharmacological signal (see below).
+Entecavir adalah analog nukleoside guanina yang asalnya dibangun dan dipasarkan untuk rawatan hepatitis B kronik (HBV), bertindak dengan merencat enzim reverse transkriptase HBV. Model TxGNN yang memeringkat teratas meramalkan **jangkitan virus hepatitis C kronik** sebagai calon indikasi baru (skor 99.98%), tetapi bukti asas — **40 ujian klinikal** dan **20 penerbitan** — terdiri hampir sepenuhnya daripada ujian HBV dan kajian pengurusan jangkitan bersama HBV/HCV, bukan bukti rawatan HCV langsung. Pak bukti itu sendiri menandai ramalan ini sebagai kemungkinan artifak graf pengetahuan dan bukannya isyarat farmakologi sebenar (lihat di bawah).
 
 ---
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Chronic Hepatitis B virus infection *(inferred from evidence-pack rationale text; the structured TFDA label field was empty — see Data Gap DG001)* |
-| Predicted New Indication | Chronic Hepatitis C Virus Infection |
-| TxGNN Prediction Score | 99.98% |
-| Evidence Level | L4 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 15 |
-| Recommended Decision | Hold |
+| Indikasi Asal | Jangkitan virus hepatitis B kronik *(disimpulkan daripada teks rasional pak bukti; medan label TFDA berstruktur kosong — lihat Jurang Data DG001)* |
+| Indikasi Baru Diramalkan | Jangkitan Virus Hepatitis C Kronik |
+| Skor Ramalan TxGNN | 99.98% |
+| Tahap Bukti | L4 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 15 |
+| Syor Keputusan | Tahan |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed mechanism of action data was not available from DrugBank in this evidence pack (Data Gap DG002). Based on what is documented in the accompanying clinical-trial and literature evidence, however, entecavir is a cyclopentyl guanosine analog that inhibits the HBV reverse transcriptase across all three steps of viral DNA synthesis (priming, negative-strand synthesis, positive-strand synthesis). This mechanism is specific to hepadnaviruses (HBV) — it is not a broad-spectrum antiviral mechanism.
+Data mekanisme tindakan terperinci tidak tersedia daripada DrugBank dalam pak bukti ini (Jurang Data DG002). Berdasarkan apa yang didokumentasikan dalam bukti ujian klinikal dan kesusasteraan yang disertakan, bagaimanapun, entecavir adalah analog guanina siklopentil yang mengrencat enzim reverse transkriptase HBV merentasi ketiga-tiga langkah sintesis DNA virus (penyediaan, sintesis helai negatif, sintesis helai positif). Mekanisme ini spesifik kepada hepadnavirus (HBV) — ia bukan mekanisme antiviral yang berspektrum luas.
 
-Hepatitis C virus, by contrast, is a flavivirus that replicates via an RNA-dependent RNA polymerase (NS5B), a completely different enzymatic target. The evidence pack's own repurposing rationale explicitly notes this mismatch: *"Entecavir…僅抑制HBV反轉錄酶，對HCV（黃病毒科，以NS5B RNA依賴性RNA聚合酶複製）無直接藥理作用機轉"* — there is no known direct pharmacological mechanism connecting entecavir to HCV.
+Virus hepatitis C, sebaliknya, adalah flavivirus yang mereplikasi melalui polimerase RNA bergantung RNA (NS5B), sasaran enzimatik yang sama sekali berbeza. Rasional reproses pak bukti itu sendiri secara eksplisit mencatat ketidakpadanan ini: *"Entecavir…僅抑制HBV反轉錄酶，對HCV（黃病毒科，以NS5B RNA依賴性RNA聚合酶複製）無直接藥理作用機轉"* — tiada mekanisme farmakologi langsung yang diketahui menghubungkan entecavir kepada HCV.
 
-The TxGNN model's very high score for this candidate is most plausibly explained by **"guilt-by-association" inflation**: HBV and HCV frequently co-occur in the same patients and in the same clinical literature (coinfection management, DAA-triggered HBV reactivation studies, dual-hepatitis reviews), which creates dense graph connectivity between entecavir and HCV-related disease nodes without reflecting a real treatment effect. Consistent with this, essentially all of the "supporting" clinical trials for this candidate are actually entecavir-for-HBV trials, or studies of HBV management in HCV/HBV-coinfected patients — not trials of entecavir as HCV therapy.
+Skor TxGNN yang sangat tinggi untuk calon ini paling mudah dijelaskan oleh **inflasi "bersalah-demi-persatuan"**: HBV dan HCV kerap berlaku bersama dalam pesakit yang sama dan dalam kesusasteraan klinikal yang sama (pengurusan jangkitan bersama, kajian reaktivasi HBV yang dicetuskan DAA, ulasan hepatitis dwi), yang mewujudkan kepadatan sambungan graf yang padat antara nod entecavir dan nod berkaitan penyakit HCV tanpa mencerminkan kesan rawatan yang sebenar. Konsisten dengan ini, hampir semua ujian klinikal "sokongan" untuk calon ini sebenarnya adalah ujian entecavir-untuk-HBV, atau kajian pengurusan HBV dalam pesakit jangkitan bersama HCV/HBV — bukan ujian entecavir sebagai terapi HCV.
 
 ---
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT04405011](https://clinicaltrials.gov/study/NCT04405011) | N/A | Unknown | 60 | Evaluates nucleos(t)ide analogue prophylaxis (incl. entecavir) to prevent HBV reactivation in HCV/HBV-coinfected patients receiving DAA therapy for hepatitis C — entecavir treats the HBV component, not HCV itself |
-| [NCT02555943](https://clinicaltrials.gov/study/NCT02555943) | Phase 2/3 | Completed | 23 | Studies direct-acting antivirals for HCV/HBV coinfection; entecavir role limited to managing the HBV component during anti-HCV treatment |
-| [NCT01037166](https://clinicaltrials.gov/study/NCT01037166) | Phase 2 | Completed | 84 | Japan study of entecavir antiviral activity in lamivudine-incomplete-responder chronic hepatitis B patients — HBV indication, not HCV |
-| [NCT04157257](https://clinicaltrials.gov/study/NCT04157257) | Phase 2 | Unknown | 60 | QL-007 combined with entecavir or tenofovir in chronic hepatitis B — an HBV combination study, unrelated to HCV |
-| [NCT01925820](https://clinicaltrials.gov/study/NCT01925820) | Phase 4 | Unknown | 540 | Pegasys plus entecavir vs entecavir alone for HBeAg-negative chronic hepatitis B — HBV trial |
-| [NCT03662568](https://clinicaltrials.gov/study/NCT03662568) | Phase 1 | Completed | 56 | Drug-drug interaction/PK study of ritonavir combination with entecavir or tenofovir in healthy subjects — not an efficacy trial |
-| [NCT00065507](https://clinicaltrials.gov/study/NCT00065507) | Phase 3 | Completed | 195 | Entecavir vs adefovir in chronic hepatitis B with hepatic decompensation — core HBV registration-type evidence |
-| [NCT02881008](https://clinicaltrials.gov/study/NCT02881008) | Phase 1/2 | Completed | 48 | Myrcludex B vs entecavir in HBeAg-negative chronic hepatitis B |
-| [NCT01018381](https://clinicaltrials.gov/study/NCT01018381) | N/A | Completed | 130 | Arabinoxylan rice bran (MGN-3/Biobran) for hepatocellular carcinoma and hepatitis B/C infection; entecavir not the primary study intervention |
-| [NCT07267208](https://clinicaltrials.gov/study/NCT07267208) | Phase 2 | Not yet recruiting | 82 | Entecavir orally disintegrating tablet conversion in stable liver transplant patients with chronic hepatitis B |
+| [NCT04405011](https://clinicaltrials.gov/study/NCT04405011) | N/A | Tidak diketahui | 60 | Menilai profilaksis analog nukleos(t)ida (termasuk entecavir) untuk mencegah reaktivasi HBV dalam pesakit jangkitan bersama HCV/HBV yang menerima terapi DAA untuk hepatitis C — entecavir merawat komponen HBV, bukan HCV itu sendiri |
+| [NCT02555943](https://clinicaltrials.gov/study/NCT02555943) | Fasa 2/3 | Selesai | 23 | Mengkaji antiviral langsung-bertindak untuk jangkitan bersama HCV/HBV; peranan entecavir terhad kepada pengurusan komponen HBV semasa rawatan anti-HCV |
+| [NCT01037166](https://clinicaltrials.gov/study/NCT01037166) | Fasa 2 | Selesai | 84 | Kajian Jepun tentang aktiviti antiviral entecavir dalam pesakit hepatitis B kronik yang tindak balas tidak lengkap lamivudin — indikasi HBV, bukan HCV |
+| [NCT04157257](https://clinicaltrials.gov/study/NCT04157257) | Fasa 2 | Tidak diketahui | 60 | QL-007 digabung dengan entecavir atau tenofovir dalam hepatitis B kronik — kajian kombinasi HBV, tidak berkaitan dengan HCV |
+| [NCT01925820](https://clinicaltrials.gov/study/NCT01925820) | Fasa 4 | Tidak diketahui | 540 | Pegasys tambah entecavir vs entecavir sahaja untuk hepatitis B kronik HBeAg-negatif — ujian HBV |
+| [NCT03662568](https://clinicaltrials.gov/study/NCT03662568) | Fasa 1 | Selesai | 56 | Kajian interaksi ubat-ubat/PK ritonavir digabung dengan entecavir atau tenofovir dalam subjek sihat — bukan ujian keberkesanan |
+| [NCT00065507](https://clinicaltrials.gov/study/NCT00065507) | Fasa 3 | Selesai | 195 | Entecavir vs adefovir dalam hepatitis B kronik dengan dekompensasi hepatik — bukti jenis pendaftaran HBV teras |
+| [NCT02881008](https://clinicaltrials.gov/study/NCT02881008) | Fasa 1/2 | Selesai | 48 | Myrcludex B vs entecavir dalam hepatitis B kronik HBeAg-negatif |
+| [NCT01018381](https://clinicaltrials.gov/study/NCT01018381) | N/A | Selesai | 130 | Arabinoxylan rice bran (MGN-3/Biobran) untuk karsinoma hepatoselular dan jangkitan hepatitis B/C; entecavir bukan campur tangan kajian utama |
+| [NCT07267208](https://clinicaltrials.gov/study/NCT07267208) | Fasa 2 | Belum merekrut | 82 | Penukaran tablet entecavir yang mudah larut dalam mulut dalam pesakit cangkokan hati stabil dengan hepatitis B kronik |
 
-**None of the retrieved trials directly test entecavir as a treatment for hepatitis C.**
+**Tiada satu ujian yang diambil secara langsung menguji entecavir sebagai rawatan untuk hepatitis C.**
 
 ---
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [36146665](https://pubmed.ncbi.nlm.nih.gov/36146665/) | 2022 | Cohort/Observational | Viruses | Examines HCV reactivation in anti-HCV antibody-positive chronic hepatitis B patients undergoing nucleos(t)ide analogue (incl. entecavir) therapy for HBV |
-| [28487602](https://pubmed.ncbi.nlm.nih.gov/28487602/) | 2017 | Review | World J Gastroenterol | Reviews HBV/HCV/alcohol as causes of hepatocellular carcinoma; general background, not entecavir-HCV efficacy |
-| [16937041](https://pubmed.ncbi.nlm.nih.gov/16937041/) | 2006 | Review | Wien Med Wochenschr | Overview of chronic hepatitis B and C treatment landscape as separate diseases |
-| [25027705](https://pubmed.ncbi.nlm.nih.gov/25027705/) | 2014 | Review | Minerva Gastroenterol Dietol | Reviews antiviral medications for hepatitis B and C and renal effects; lists entecavir among HBV-specific agents |
-| [32173307](https://pubmed.ncbi.nlm.nih.gov/32173307/) | 2020 | Review | Clin Res Hepatol Gastroenterol | Management of viral hepatitis B and C in children — separate disease management |
-| [21497740](https://pubmed.ncbi.nlm.nih.gov/21497740/) | 2011 | Review | Best Pract Res Clin Gastroenterol | Fibrosis in chronic viral hepatitis; entecavir discussed only in the HBV context |
-| [24868325](https://pubmed.ncbi.nlm.nih.gov/24868325/) | 2014 | Review | World J Hepatol | Management of hepatitis B/C before and after transplantation; entecavir cited for HBV prophylaxis |
-| [24773464](https://pubmed.ncbi.nlm.nih.gov/24773464/) | 2014 | Review | Expert Opin Pharmacother | Advances in HBV/HCV coinfection treatment; entecavir addresses the HBV component only |
-| [39351520](https://pubmed.ncbi.nlm.nih.gov/39351520/) | 2024 | Review/Commentary | World J Hepatol | General commentary on metabolomics in liver disease diagnostics |
-| [35327336](https://pubmed.ncbi.nlm.nih.gov/35327336/) | 2022 | Review (pending) | Biomedicines | Overview of chronic viral hepatitis (B, C, D) therapies; entecavir discussed under HBV suppressive therapy |
+| [36146665](https://pubmed.ncbi.nlm.nih.gov/36146665/) | 2022 | Kohort/Observasi | Viruses | Memeriksa reaktivasi HCV dalam pesakit antibodi positif anti-HCV hepatitis B kronik yang menjalani terapi analog nukleos(t)ida (termasuk entecavir) untuk HBV |
+| [28487602](https://pubmed.ncbi.nlm.nih.gov/28487602/) | 2017 | Kajian Ulasan | World J Gastroenterol | Ulasan HBV/HCV/alkohol sebagai punca karsinoma hepatoselular; latar belakang umum, bukan keberkesanan entecavir-HCV |
+| [16937041](https://pubmed.ncbi.nlm.nih.gov/16937041/) | 2006 | Kajian Ulasan | Wien Med Wochenschr | Gambaran keseluruhan pembedahan hepatitis B dan C kronik sebagai penyakit berasingan |
+| [25027705](https://pubmed.ncbi.nlm.nih.gov/25027705/) | 2014 | Kajian Ulasan | Minerva Gastroenterol Dietol | Ulasan ubat antiviral untuk hepatitis B dan C dan kesan ginjal; senarai entecavir di antara agen spesifik HBV |
+| [32173307](https://pubmed.ncbi.nlm.nih.gov/32173307/) | 2020 | Kajian Ulasan | Clin Res Hepatol Gastroenterol | Pengurusan viral hepatitis B dan C pada kanak-kanak — pengurusan penyakit berasingan |
+| [21497740](https://pubmed.ncbi.nlm.nih.gov/21497740/) | 2011 | Kajian Ulasan | Best Pract Res Clin Gastroenterol | Fibrosis dalam viral hepatitis kronik; entecavir dibincangkan hanya dalam konteks HBV |
+| [24868325](https://pubmed.ncbi.nlm.nih.gov/24868325/) | 2014 | Kajian Ulasan | World J Hepatol | Pengurusan hepatitis B/C sebelum dan selepas cangkokan; entecavir disebut untuk profilaksis HBV |
+| [24773464](https://pubmed.ncbi.nlm.nih.gov/24773464/) | 2014 | Kajian Ulasan | Expert Opin Pharmacother | Kemajuan dalam rawatan jangkitan bersama HBV/HCV; entecavir menangani komponen HBV sahaja |
+| [39351520](https://pubmed.ncbi.nlm.nih.gov/39351520/) | 2024 | Kajian Ulasan/Ulasan | World J Hepatol | Ulasan umum metabolomik dalam diagnostik penyakit hati |
+| [35327336](https://pubmed.ncbi.nlm.nih.gov/35327336/) | 2022 | Kajian Ulasan (menunggu) | Biomedicines | Gambaran keseluruhan viral hepatitis kronik (B, C, D) terapi; entecavir dibincangkan di bawah terapi penindasan HBV |
 
-**No RCT or direct clinical study evaluates entecavir as an HCV antiviral treatment.**
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information. *(TFDA warnings, contraindications, and drug-drug interaction data were not available in this evidence pack — Data Gap DG001.)*
+**Tiada RCT atau kajian klinikal langsung menilai entecavir sebagai rawatan antiviral HCV.**
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila rujuk sisipan pakej untuk maklumat keselamatan. *(Data amaran TFDA, kontraindikasi, dan interaksi ubat-ubat tidak tersedia dalam pak bukti ini — Jurang Data DG001.)*
 
-**Rationale:**
-The TxGNN score for entecavir–HCV is very high, but every retrieved clinical trial and literature source supports entecavir's *existing* HBV indication or its use in managing the HBV component of HBV/HCV coinfection — none demonstrates direct antiviral activity against HCV. The prediction is mechanistically implausible (HBV reverse transcriptase inhibitor vs. HCV NS5B RNA polymerase target) and is best explained as a graph-association artifact rather than a genuine repurposing signal.
+---
 
-Separately, note that this same evidence pack's rank-2 candidate ("hepatitis B virus infection," L1 evidence, 1 large Phase 3 RCT plus extensive Phase 2–4 data) is very likely **entecavir's own existing approved indication being mis-flagged as "new"** — a downstream effect of the `original_indications` field being empty in the source data (Data Gap). This should be corrected at the data-pipeline level before further scoring.
+## Kesimpulan dan Langkah Seterusnya
 
-**To proceed, the following is needed:**
-- TFDA/NPRA label data (warnings, contraindications) to close Data Gap DG001
-- Confirmed DrugBank mechanism-of-action record to close Data Gap DG002
-- Backfill of the `original_indications` field so already-approved indications are not re-surfaced as novel repurposing candidates
-- If HCV repurposing is still of interest, a literature/mechanism search specifically for entecavir activity against HCV NS5B or host antiviral pathways, since no such evidence exists in the current pack
+**Keputusan: Tahan**
+
+**Rasional:**
+Skor TxGNN untuk entecavir–HCV sangat tinggi, tetapi setiap sumber ujian klinikal dan kesusasteraan yang diambil menyokong indikasi HBV *sedia ada* entecavir atau penggunaannya dalam menguruskan komponen HBV jangkitan bersama HBV/HCV — tidak ada satu pun menunjukkan aktiviti antiviral langsung terhadap HCV. Ramalan secara mekanistik tidak munasabah (penghambat enzim reverse transkriptase HBV vs. sasaran polimerase RNA NS5B HCV) dan paling baik dijelaskan sebagai artifak persatuan graf dan bukannya isyarat reproses tulen.
+
+Secara berasingan, ambil perhatian bahawa calon peringkat-2 pak bukti yang sama ("jangkitan virus hepatitis B," bukti L1, 1 RCT Fasa 3 besar tambah data Fasa 2–4 yang luas) sangat berkemungkinan **indikasi diluluskan sedia ada entecavir yang salah-bendera sebagai "baru"** — kesan hiliran medan `original_indications` yang kosong dalam data sumber (Jurang Data). Ini harus diperbetulkan di peringkat saluran data sebelum penilaian lanjut.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data label TFDA/NPRA (amaran, kontraindikasi) untuk menutup Jurang Data DG001
+- Rekod mekanisme-tindakan DrugBank yang disahkan untuk menutup Jurang Data DG002
+- Pengisian semula medan `original_indications` supaya indikasi yang telah diluluskan tidak dipermukakan semula sebagai calon reproses novel
+- Jika reproses HCV masih diminati, carian kesusasteraan/mekanisme khusus untuk aktiviti entecavir terhadap NS5B HCV atau laluan antiviral tuan rumah, kerana tiada bukti sedemikian wujud dalam pak bukti semasa
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

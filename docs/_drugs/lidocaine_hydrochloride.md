@@ -29,73 +29,74 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Lidocaine Hydrochloride: From Local Anesthesia/Antiarrhythmia — No Active Repurposing Prediction Available
+# Lidocaine Hydrochloride: Dari Anestesi Lokal/Antiaritmia — Tiada Ramalan Peruntukan Semula Aktif Tersedia
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Lidocaine Hydrochloride is a well-established voltage-gated sodium channel blocker, widely used as a local anesthetic and antiarrhythmic agent across numerous clinical settings.
-The current Evidence Pack contains **no TxGNN-generated repurposing predictions** for this compound, likely due to upstream data gaps in the processing pipeline.
-With 19 registered products in Malaysia and zero predicted indications on record, this candidate requires pipeline remediation before a formal repurposing assessment can be conducted.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Local anesthesia; ventricular arrhythmia (based on established clinical knowledge; no approved indication text retrieved) |
-| Predicted New Indication | N/A — no predictions generated |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 (model prediction only; no actual studies linked) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 19 |
-| Recommended Decision | Hold |
+Lidocaine Hydrochloride ialah penyekat saluran natrium yang dikawal voltan yang telah ditubuhkan dengan baik, digunakan secara meluas sebagai agen anestesi lokal dan antiaritmia merentas banyak persekitaran klinikal.
+Pakej Bukti semasa mengandungi **tiada ramalan peruntukan semula yang dijana oleh TxGNN** untuk sebatian ini, kemungkinan besar disebabkan oleh jurang data huluan dalam saluran pemprosesan.
+Dengan 19 produk berdaftar di Malaysia dan sifar petunjuk yang diramalkan dalam rekod, calon ini memerlukan perbaikan saluran sebelum penilaian peruntukan semula yang formal dapat dijalankan.
 
 ---
 
-## Background: What Is This Drug?
+## Gambaran Pantas
 
-Although no TxGNN prediction is available, the following context is provided for completeness.
-
-Lidocaine Hydrochloride belongs to the Class Ib antiarrhythmic and aminoethylamide local anesthetic families. Its primary mechanism involves **blocking voltage-gated sodium channels (Nav1.x)**, thereby inhibiting the initiation and propagation of action potentials in excitable tissues including neurons and cardiomyocytes. This dual action underpins its widespread use in:
-
-- **Local/regional anesthesia**: infiltration, nerve block, epidural, and topical anesthesia
-- **Antiarrhythmia**: acute management of ventricular tachycardia and ventricular fibrillation
-
-The sodium channel blocking mechanism has historically been explored in additional therapeutic contexts — including neuropathic pain, certain inflammatory conditions, and perioperative analgesia — making it a pharmacologically interesting repurposing candidate in principle. However, **this report cannot proceed with a formal repurposing analysis** because the TxGNN prediction pipeline returned no scored indications for this drug.
-
----
-
-## Malaysia Market Information
-
-The Malaysia NPRA database returned **19 registered products** for Lidocaine Hydrochloride. However, the current Evidence Pack did not retrieve individual registration details (authorization numbers, product names, dosage forms, or approved indication text) for any of the 19 entries. A follow-up query against the NPRA database is required to populate this table.
-
-> **Note:** 19 active registrations confirm substantial market presence. Lidocaine products are expected to include injectable solutions (1%/2%), topical gels/sprays, and combination preparations.
+| Item | Kandungan |
+|------|-----------|
+| Petunjuk Asli | Anestesi lokal; aritmia ventrikel (berdasarkan pengetahuan klinikal yang ditubuhkan; tiada teks petunjuk yang diluluskan diambil) |
+| Petunjuk Baru yang Diramalkan | T/A — tiada ramalan yang dijana |
+| Skor Ramalan TxGNN | T/A |
+| Tahap Bukti | L5 (ramalan model sahaja; tiada kajian sebenar dipautkan) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 19 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Safety Considerations
+## Latar Belakang: Apakah Ubat Ini?
 
-Please refer to the package insert for safety information.
+Walaupun tiada ramalan TxGNN tersedia, konteks berikut disediakan untuk kesempurnaan.
 
-> The current Evidence Pack contains no retrieved warnings, contraindications, or drug–drug interaction data. Key areas to investigate prior to any repurposing study include: cardiovascular toxicity (bradycardia, hypotension, heart block), CNS toxicity (seizures, confusion), hypersensitivity reactions, and interactions with other antiarrhythmics or CYP1A2/CYP3A4 substrates.
+Lidocaine Hydrochloride tergolong dalam keluarga antiaritmia Kelas Ib dan anestesi lokal aminoetilamin. Mekanismenya yang utama melibatkan **menyekat saluran natrium yang dikawal voltan (Nav1.x)**, dengan itu menghalang permulaan dan penyebaran potensi tindakan dalam tisu yang boleh terangsang termasuk neuron dan kardiomiosit. Tindakan dwi ini mendasari penggunaannya yang meluas dalam:
+
+- **Anestesi lokal/serantau**: penyusupan, blokade saraf, epidural, dan anestesi topikal
+- **Antiaritmia**: pengurusan akut takikardi ventrikel dan fibrilasi ventrikel
+
+Mekanisme penyekat saluran natrium telah diterokai secara bersejarah dalam konteks terapeutik tambahan — termasuk kesakitan neuropatik, keadaan peradangan tertentu, dan analgesik perioperatif — menjadikannya calon peruntukan semula yang menarik secara farmakologi pada dasarnya. Walau bagaimanapun, **laporan ini tidak dapat meneruskan dengan analisis peruntukan semula yang formal** kerana saluran ramalan TxGNN tidak mengembalikan petunjuk yang diberikan skor untuk ubat ini.
 
 ---
 
-## Conclusion and Next Steps
+## Maklumat Pasaran Malaysia
 
-**Decision: Hold**
+Pangkalan data NPRA Malaysia mengembalikan **19 produk berdaftar** untuk Lidocaine Hydrochloride. Walau bagaimanapun, Pakej Bukti semasa tidak mengambil butiran pendaftaran individu (nombor kelulusan, nama produk, bentuk dos, atau teks petunjuk yang diluluskan) untuk mana-mana 19 entri. Pertanyaan susulan terhadap pangkalan data NPRA diperlukan untuk mengisi jadual ini.
 
-**Rationale:**
-The TxGNN prediction pipeline returned zero repurposing candidates for Lidocaine Hydrochloride, and critical upstream data — including the DrugBank ID, MOA details, approved indication text, and safety warnings — are absent. Without a scored prediction and complete drug profile, a repurposing evaluation cannot be formally initiated.
+> **Nota:** 19 pendaftaran aktif mengesahkan kehadiran pasaran yang besar. Produk Lidocaine dijangka merangkumi larutan boleh suntik (1%/2%), gel/semburan topikal, dan persediaan gabungan.
 
-**To proceed, the following is needed:**
+---
 
-- **Resolve DrugBank ID** — Query DrugBank by INN "lidocaine" to retrieve the canonical `DB00281` record and populate MOA, categories, and toxicity data
-- **Retrieve NPRA license details** — Re-query NPRA for all 19 registration records to obtain authorization numbers, dosage forms, and approved indication text
-- **Retrieve TFDA package insert** — Download and parse the PDF to extract warnings, contraindications, and dosage information (Data Gap DG001)
-- **Re-run TxGNN prediction pipeline** — Once drug mapping is confirmed (DrugBank ID resolved), re-execute the KG and DL prediction steps to generate scored repurposing candidates
-- **Verify input data integrity** — Check whether the empty `original_indications` array caused the prediction pipeline to skip this compound entirely, and correct the upstream loader if so
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
+
+> Pakej Bukti semasa tidak mengandungi amaran yang diambil, kontraindikasi, atau data interaksi ubat–ubat. Bidang utama untuk diselidik sebelum mana-mana kajian peruntukan semula termasuk: ketoksikan kardiovaskular (bradikardia, hipotensi, blokade jantung), ketoksikan CNS (sawan, kekeliruan), tindak balas hipersensitiviti, dan interaksi dengan antiaritmia lain atau substrat CYP1A2/CYP3A4.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Saluran ramalan TxGNN tidak mengembalikan calon peruntukan semula sifar untuk Lidocaine Hydrochloride, dan maklumat kritikal huluan — termasuk DrugBank ID, butiran MOA, teks petunjuk yang diluluskan, dan amaran keselamatan — tidak hadir. Tanpa ramalan yang diberikan skor dan profil ubat yang lengkap, penilaian peruntukan semula tidak dapat dimulakan secara formal.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+
+- **Selesaikan DrugBank ID** — Pertanyaan DrugBank oleh INN "lidocaine" untuk mengambil rekod `DB00281` kanonik dan isi MOA, kategori, dan data ketoksikan
+- **Ambil butiran lesen NPRA** — Pertanyaan semula NPRA untuk semua 19 rekod pendaftaran untuk mendapatkan nombor kelulusan, bentuk dos, dan teks petunjuk yang diluluskan
+- **Ambil sisipan pakej TFDA** — Muat turun dan huraikan PDF untuk mengekstrak amaran, kontraindikasi, dan maklumat dos (Jurang Data DG001)
+- **Jalankan semula saluran ramalan TxGNN** — Sebaik sahaja pemetaan ubat disahkan (DrugBank ID diselesaikan), jalankan semula langkah ramalan KG dan DL untuk menjana calon peruntukan semula yang diberikan skor
+- **Sahkan integriti data input** — Periksa sama ada tatasusunan `original_indications` kosong menyebabkan saluran ramalan melangkau sebatian ini sepenuhnya, dan betulkan pemuat huluan jika ya
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

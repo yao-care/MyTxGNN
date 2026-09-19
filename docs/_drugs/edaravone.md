@@ -29,83 +29,80 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-Using the evidence pack provided, here is the evaluation report.
+# Edaravone: Daripada Petunjuk Asal yang Tidak Direkodkan hingga Kekurangan Heparin Cofactor 2
+
+## Ringkasan Satu Ayat
+
+Edaravone sedang dipasarkan di Malaysia (1 pendaftaran aktif), tetapi teks petunjuk asalnya yang telah diluluskan belum lagi diambil daripada data sumber. Model TxGNN meramalkan ia mungkin berkesan untuk **Kekurangan Heparin Cofactor 2**, dengan **tiada ujian klinikal** dan **tiada kesusasteraan yang diterbitkan** pada masa ini menyokong arah ini — isyarat itu sepenuhnya bergantung pada persamaan model graf pengetahuan.
+
+> *Nota: Calon kedua, **Lebihan Factor V dengan Trombosis Spontan** (skor TxGNN 99.06%), juga telah ditandai oleh model dengan jurang bukti yang sama dan cadangan Hold yang sama.*
 
 ---
 
-# Edaravone: From Unrecorded Original Indication to Heparin Cofactor 2 Deficiency
+## Gambaran Keseluruhan Cepat
 
-## One-Sentence Summary
-
-Edaravone is currently marketed in Malaysia (1 active registration), but its originally approved indication text has not yet been retrieved from source data. The TxGNN model predicts it may be effective for **Heparin Cofactor 2 Deficiency**, with **no clinical trials** and **no published literature** currently supporting this direction — the signal rests entirely on knowledge-graph model similarity.
-
-> *Note: A second candidate, **Factor V Excess with Spontaneous Thrombosis** (TxGNN score 99.06%), was also flagged by the model with the same evidence gaps and the same Hold recommendation.*
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not available — TFDA/NPRA license text has not yet been retrieved (see DG001) |
-| Predicted New Indication | Heparin Cofactor 2 Deficiency |
-| TxGNN Prediction Score | 99.47% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Tidak tersedia — teks lesen TFDA/NPRA belum diambil (lihat DG001) |
+| Petunjuk Baru yang Diramalkan | Kekurangan Heparin Cofactor 2 |
+| Skor Ramalan TxGNN | 99.47% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 1 |
+| Cadangan Keputusan | Hold |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed mechanism-of-action data for edaravone is currently a documented data gap (DG002). Based on general pharmacological knowledge, edaravone is known as a free-radical scavenger / antioxidant agent used for neuroprotection; no verified mechanistic pathway currently links this action to heparin cofactor 2 (a thrombin-inhibiting coagulation factor) deficiency.
+Data mekanisme tindakan terperinci untuk edaravone pada masa ini adalah jurang data yang didokumentasikan (DG002). Berdasarkan pengetahuan farmakologi umum, edaravone dikenali sebagai ejen penyapu radikal bebas / antioksidan yang digunakan untuk neuroproteksi; tiada laluan mekanisme yang disahkan pada masa ini menghubungkan tindakan ini kepada kekurangan heparin cofactor 2 (faktor pembekuan darah yang menghambat trombin).
 
-Heparin cofactor 2 deficiency is a rare disorder of anticoagulant regulation. Oxidative stress can, in theory, affect endothelial function and the broader coagulation/anticoagulation balance, so an indirect biological connection cannot be entirely excluded — but this link is speculative and is not supported by any independent experimental or clinical data in the current evidence pack.
+Kekurangan heparin cofactor 2 adalah gangguan langka pengawalaturan antikoagulasi. Tekanan oksidatif boleh, secara teorinya, mempengaruhi fungsi endothelial dan keseimbangan pembekuan/antikoagulasi yang lebih luas, jadi sambungan biologi tidak langsung tidak boleh sepenuhnya dikecualikan — tetapi pautan ini bersifat spekulatif dan tidak disokong oleh sebarang data eksperimental atau klinikal bebas dalam pakej bukti semasa.
 
-As a result, this prediction should be treated as a **model-generated hypothesis only**. The TxGNN similarity score (0.9947, rank 7,593) is the sole basis for the candidate; there is no clinical trial, registry trial, or published literature confirming, refuting, or even exploring this relationship.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered
+Oleh itu, ramalan ini harus dianggap sebagai **hipotesis yang dijana model sahaja**. Skor persamaan terbitan TxGNN (0.9947, pangkat 7,593) adalah satu-satunya asas untuk calon; tiada ujian klinikal, ujian pendaftar, atau kesusasteraan yang diterbitkan mengesahkan, membantah, atau bahkan meneroka hubungan ini.
 
 ---
 
-## Literature Evidence
+## Bukti Ujian Klinikal
 
-Currently no related literature available
-
----
-
-## Malaysia Market Information
-
-Regulatory records confirm edaravone has **1 active registration** in Malaysia (market status: ✓ Marketed). However, the license number, product name, dosage form, manufacturer, and approved indication text have not yet been retrieved from source data — this is tracked as a blocking data gap (DG001) that also prevents a full safety review.
+Pada masa ini tiada ujian klinikal berkaitan yang didaftar
 
 ---
 
-## Safety Considerations
+## Bukti Kesusasteraan
 
-Please refer to the package insert for safety information.
-
-*(Key warnings, contraindications, and drug-drug interaction data are not yet available in the current dataset — this is tracked as a blocking data gap, DG001.)*
+Pada masa ini tiada kesusasteraan berkaitan yang tersedia
 
 ---
 
-## Conclusion and Next Steps
+## Maklumat Pasaran Malaysia
 
-**Decision: Hold**
+Rekod kawal selia mengesahkan edaravone mempunyai **1 pendaftaran aktif** di Malaysia (status pasaran: ✓ Dipasarkan). Bagaimanapun, nombor lesen, nama produk, bentuk dos, pengilang, dan teks petunjuk yang diluluskan belum lagi diambil daripada data sumber — ini dijejaki sebagai jurang data pemblokiran (DG001) yang juga menghalang semakan keselamatan lengkap.
 
-**Rationale:**
-The prediction is supported only by a TxGNN embedding-similarity score (Evidence Level L5) with zero clinical trials, zero published literature, and no established mechanistic pathway connecting edaravone's known antioxidant/neuroprotective action to a rare coagulation-factor disorder. In addition, the blocking data gap on TFDA/NPRA label warnings and contraindications (DG001) means this candidate cannot yet even enter a preliminary safety review (S1).
+---
 
-**To proceed, the following is needed:**
-- Retrieve the TFDA/NPRA package insert (warnings, contraindications) — DG001
-- Retrieve detailed DrugBank mechanism-of-action data — DG002
-- Confirm the original approved indication text and full license details (currently blank in the registry record)
-- Conduct a targeted literature/mechanistic review on any link between oxidative-stress pathways and heparin cofactor II or Factor V regulation before advancing past S0
-- Given the complete absence of clinical or trial evidence (L5), any further pursuit should start with preclinical/mechanistic studies rather than clinical evaluation
+## Pertimbangan Keselamatan
+
+Sila rujuk risalah produk untuk maklumat keselamatan.
+
+*(Data amaran utama, kontraindikasi, dan interaksi ubat-ubat tidak tersedia dalam set data semasa — ini dijejaki sebagai jurang data pemblokiran, DG001.)*
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Hold**
+
+**Justifikasi:**
+Ramalan disokong hanya oleh skor persamaan terbitan TxGNN (Tahap Bukti L5) dengan sifar ujian klinikal, sifar kesusasteraan yang diterbitkan, dan tiada laluan mekanisme yang ditetapkan menghubungkan tindakan antioksidan/neuroproteksi edaravone yang diketahui kepada gangguan faktor pembekuan darah langka. Selain itu, jurang data pemblokiran pada amaran/kontraindikasi label TFDA/NPRA (DG001) bermakna calon ini masih belum boleh memasuki semakan keselamatan awal (S1).
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Ambil risalah produk TFDA/NPRA (amaran, kontraindikasi) — DG001
+- Ambil data mekanisme tindakan DrugBank terperinci — DG002
+- Sahkan teks petunjuk asal yang diluluskan dan maklumat lesen penuh (pada masa ini kosong dalam rekod pendaftar)
+- Jalankan semakan kesusasteraan/mekanisme yang disasarkan pada sebarang pautan antara laluan tekanan oksidatif dan pengawalaturan heparin cofactor II atau Factor V sebelum maju melepasi S0
+- Memandangkan ketiadaan bukti klinikal atau ujian yang lengkap (L5), sebarang usaha lanjutan harus bermula dengan kajian pra-klinikal/mekanisme dan bukannya penilaian klinikal
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,110 +29,111 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Agomelatine: From Major Depressive Disorder to Anxiety Disorder
+# Agomelatine: Dari Gangguan Depresif Utama kepada Gangguan Kegelisahan
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Agomelatine is a novel melatonergic antidepressant approved in Europe and Australia for Major Depressive Disorder, acting through a unique dual mechanism of MT1/MT2 receptor agonism and 5-HT2C receptor antagonism that is entirely distinct from conventional SSRIs and SNRIs.
-The TxGNN model predicts it may be effective for **Anxiety Disorder** (particularly Generalised Anxiety Disorder, GAD),
-with **14 clinical trials** and **20 publications** currently supporting this direction.
+Agomelatine ialah antidepresan melatonergi novel yang telah diluluskan di Eropah dan Australia untuk Gangguan Depresif Utama, bertindak melalui mekanisme dwi unik iaitu agonis reseptor MT1/MT2 dan antagonis reseptor 5-HT2C yang sama sekali berbeza daripada SSRI dan SNRI konvensional.
+Model TxGNN meramalkan ia mungkin berkesan untuk **Gangguan Kegelisahan** (terutamanya Gangguan Kegelisahan Umum, GAD),
+dengan **14 ujian klinikal** dan **20 publikasi** kini menyokong arah ini.
 
 ---
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
+| Item | Kandungan |
 |------|---------|
-| Original Indication | Not available from Malaysian NPRA data (EMA-approved for Major Depressive Disorder) |
-| Predicted New Indication | Anxiety Disorder |
-| TxGNN Prediction Score | 99.98% |
-| Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Proceed with Guardrails |
+| Petunjuk Asal | Tidak tersedia daripada data NPRA Malaysia (diluluskan EMA untuk Gangguan Depresif Utama) |
+| Petunjuk Baharu yang Diramalkan | Gangguan Kegelisahan |
+| Skor Ramalan TxGNN | 99.98% |
+| Tahap Bukti | L1 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | Teruskan dengan Penjaga |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Although detailed DrugBank MOA data was not retrievable for this evidence pack, the published literature consistently identifies agomelatine as a selective **MT1/MT2 melatonin receptor agonist** combined with a **5-HT2C serotonin receptor antagonist**. The MT1/MT2 agonism acts on the suprachiasmatic nucleus (SCN) to resynchronise disrupted circadian rhythms, while the 5-HT2C antagonism increases dopamine and noradrenaline release in the prefrontal cortex, producing anxiolytic effects that have been confirmed in both preclinical rodent models and clinical trials.
+Walaupun data MOA DrugBank terperinci tidak dapat diambil untuk pakej bukti ini, literatur yang diterbitkan secara konsisten mengenal pasti agomelatine sebagai **agonis reseptor melatonin MT1/MT2 yang selektif** digabungkan dengan **antagonis reseptor serotonin 5-HT2C**. Agonis MT1/MT2 bertindak pada nukleus suprakiasmati (SCN) untuk menyegerakkan semula irama sirkadian yang terhalang, manakala antagonis 5-HT2C meningkatkan pelepasan dopamin dan noradrenalin di korteks prefrontal, menghasilkan kesan anksioliti yang telah disahkan dalam kedua-dua model rodens praklinikal dan ujian klinikal.
 
-Anxiety disorder and major depressive disorder share deeply overlapping neurobiological substrates: amygdala hyperreactivity, prefrontal cortex dysfunction, disrupted sleep-wake regulation, and HPA axis dysregulation. Approximately 50–60% of MDD patients present with clinically significant comorbid anxiety. Agomelatine's 5-HT2C antagonism specifically attenuates amygdala-driven fear responses and pathological worry, while its circadian rhythm-restoring action addresses the sleep disruption that perpetuates anxiety states — making the mechanistic link to anxiety disorder exceptionally strong.
+Gangguan kegelisahan dan gangguan depresif utama berkongsi substrat neurobiologi yang sangat bertindih: hiperreaktiviti amigdala, disfungsi korteks prefrontal, peraturan tidur-terjaga yang terganggu, dan disperaturan paksi HPA. Kira-kira 50–60% pesakit MDD menunjukkan kegelisahan bersekutu yang signifikan secara klinikal. Antagoni 5-HT2C agomelatine secara khusus melemahkan tindak balas ketakutan yang didorong amigdala dan kebimbangan patologi, manakala tindakannya yang memulihkan irama sirkadian menangani gangguan tidur yang memperpanjang keadaan kegelisahan — menjadikan pautan mekanik kepada gangguan kegelisahan luar biasa kuat.
 
-Agomelatine has been directly studied in Generalised Anxiety Disorder through dedicated randomised controlled trials, accumulating sufficient regulatory evidence for approval in Australia. Multiple independent meta-analyses — including a 2025 systematic review and network meta-analysis in *International Clinical Psychopharmacology* — confirm its efficacy in reducing HAM-A scores versus placebo and active comparators, with a favourable tolerability profile free of sexual dysfunction and significant weight gain that limits long-term SSRI/SNRI use in anxiety patients.
+Agomelatine telah dikaji secara langsung dalam Gangguan Kegelisahan Umum melalui ujian kawalan rawak khusus, mengumpulkan bukti kawal selia yang mencukupi untuk kelulusan di Australia. Pelbagai meta-analisis bebas — termasuk ulasan sistematik 2025 dan meta-analisis rangkaian dalam *International Clinical Psychopharmacology* — mengesahkan kesan terapeutiknya dalam mengurangkan skor HAM-A berbanding plasebo dan perbandingan aktif, dengan profil kebolehtoleranan yang menguntungkan bebas daripada disfungsi seksual dan peningkatan berat badan yang signifikan yang mengehadkan penggunaan SSRI/SNRI jangka panjang pada pesakit kegelisahan.
 
 ---
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT01108393](https://clinicaltrials.gov/study/NCT01108393) | Phase 2 | Completed | 74 | Agomelatine 25 mg (escalatable to 50 mg) vs. placebo over 16 weeks in OCD patients; the most directly anxiety-targeted prospective trial in this dataset |
-| [NCT03977441](https://clinicaltrials.gov/study/NCT03977441) | Phase 4 | Unknown | 240 | Multicenter RCT evaluating agomelatine for sleep disorders, depression and anxiety in Parkinson's disease; addresses co-occurring anxiety and mood disturbances |
-| [NCT04589143](https://clinicaltrials.gov/study/NCT04589143) | Phase 4 | Completed | 137 | Agomelatine augmentation in SSRI/SNRI early non-responders with MDD; secondary outcomes specifically included anxiety symptoms and sleep quality improvement |
-| [NCT00411242](https://clinicaltrials.gov/study/NCT00411242) | Phase 3 | Completed | 503 | 8-week fixed-dose agomelatine 25 mg and 50 mg vs. placebo in MDD with 52-week open-label extension; core pivotal trial establishing dose-response |
-| [NCT00467402](https://clinicaltrials.gov/study/NCT00467402) | Phase 3 | Completed | 644 | 52-week RCT on relapse prevention in MDD; sustained anxiolytic-antidepressant effects confirmed over long-term follow-up |
-| [NCT01488071](https://clinicaltrials.gov/study/NCT01488071) | Phase 3 | Completed | 495 | Head-to-head agomelatine vs. vortioxetine in MDD patients with inadequate SSRI response; active-controlled comparative efficacy data |
-| [NCT00411099](https://clinicaltrials.gov/study/NCT00411099) | Phase 3 | Completed | 508 | 8-week fixed-dose agomelatine vs. placebo in MDD with 52-week open-label extension; independent replication of pivotal dose-efficacy study |
-| [NCT00463242](https://clinicaltrials.gov/study/NCT00463242) | Phase 3 | Completed | 501 | Agomelatine vs. paroxetine (active comparator) and placebo in MDD; tolerability comparison directly relevant to anxiety comorbidity management |
-| [NCT05323994](https://clinicaltrials.gov/study/NCT05323994) | N/A | Completed | 104 | Observational study of agomelatine effectiveness in post-COVID depression with prominent anxiety features in routine Russian clinical practice |
-| [NCT01110889](https://clinicaltrials.gov/study/NCT01110889) | Phase 3 | Completed | 582 | 8-week double-blind placebo-controlled multicenter RCT of agomelatine sublingual formulation in MDD; supports broader antidepressant and anxiolytic evidence base |
+| [NCT01108393](https://clinicaltrials.gov/study/NCT01108393) | Fasa 2 | Selesai | 74 | Agomelatine 25 mg (boleh ditingkatkan kepada 50 mg) berbanding plasebo selama 16 minggu dalam pesakit OCD; ujian prospektif yang paling tertumpu kegelisahan dalam set data ini |
+| [NCT03977441](https://clinicaltrials.gov/study/NCT03977441) | Fasa 4 | Tidak Diketahui | 240 | RCT multipusat menilai agomelatine untuk gangguan tidur, kemurungan dan kegelisahan dalam penyakit Parkinson; menangani gangguan kegelisahan dan mood yang bersekutu |
+| [NCT04589143](https://clinicaltrials.gov/study/NCT04589143) | Fasa 4 | Selesai | 137 | Penambahan agomelatine dalam bukan responder awal SSRI/SNRI dengan MDD; hasil sekunder secara khusus termasuk simptom kegelisahan dan peningkatan kualiti tidur |
+| [NCT00411242](https://clinicaltrials.gov/study/NCT00411242) | Fasa 3 | Selesai | 503 | Agomelatine dos tetap 8 minggu 25 mg dan 50 mg berbanding plasebo dalam MDD dengan pelanjutan terbuka 52 minggu; ujian pivot teras yang menetapkan dos-tindak balas |
+| [NCT00467402](https://clinicaltrials.gov/study/NCT00467402) | Fasa 3 | Selesai | 644 | RCT 52 minggu mengenai pencegahan kekambuhan dalam MDD; kesan anksioliti-antidepresan yang berkelanjutan disahkan di atas susulan jangka panjang |
+| [NCT01488071](https://clinicaltrials.gov/study/NCT01488071) | Fasa 3 | Selesai | 495 | Agomelatine berbanding vortioxetine head-to-head dalam pesakit MDD dengan tindak balas SSRI yang tidak mencukupi; data kesan terapeutik perbandingan terkawal aktif |
+| [NCT00411099](https://clinicaltrials.gov/study/NCT00411099) | Fasa 3 | Selesai | 508 | Agomelatine dos tetap 8 minggu berbanding plasebo dalam MDD dengan pelanjutan terbuka 52 minggu; replikasi bebas daripada kajian dos-efikasi pivot |
+| [NCT00463242](https://clinicaltrials.gov/study/NCT00463242) | Fasa 3 | Selesai | 501 | Agomelatine berbanding paroxetine (perbandingan aktif) dan plasebo dalam MDD; perbandingan kebolehtoleranan langsung berkaitan dengan pengurusan bersekutu kegelisahan |
+| [NCT05323994](https://clinicaltrials.gov/study/NCT05323994) | T/A | Selesai | 104 | Kajian pemerhatian keberkesanan agomelatine dalam kemurungan pasca-COVID dengan ciri kegelisahan yang menonjol dalam amalan klinikal rutin Rusia |
+| [NCT01110889](https://clinicaltrials.gov/study/NCT01110889) | Fasa 3 | Selesai | 582 | RCT terkawal plasebo buta ganda 8 minggu agomelatine dalam formulasi sublingual dalam MDD; menyokong asas bukti antidepresan dan anksioliti yang lebih luas |
 
 ---
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|------|------|---------|---------|
-| [38804215](https://pubmed.ncbi.nlm.nih.gov/38804215/) | 2025 | Systematic Review + NMA | Int Clin Psychopharmacol | Network meta-analysis comparing agomelatine against all approved GAD medications on remission and adverse event-driven discontinuation rates |
-| [33537871](https://pubmed.ncbi.nlm.nih.gov/33537871/) | 2021 | Meta-analysis | Advances in Therapy | Pooled analysis of 3 placebo-controlled RCTs for GAD; agomelatine 25–50 mg significantly reduced anxious symptoms and functional impairment vs. placebo |
-| [35795687](https://pubmed.ncbi.nlm.nih.gov/35795687/) | 2022 | Review | Ther Adv Psychopharmacol | Comprehensive mechanistic review of agomelatine's distinctive MT/5-HT2C pathway in GAD; synthesises preclinical anxiolytic data and clinical trial outcomes |
-| [32702221](https://pubmed.ncbi.nlm.nih.gov/32702221/) | 2020 | Meta-analysis | Clin Psychopharmacol Neurosci | Meta-analysis of efficacy and safety of agomelatine specifically in GAD treatment; supports use as an additional treatment option for patients with inadequate response |
-| [24569045](https://pubmed.ncbi.nlm.nih.gov/24569045/) | 2014 | RCT | J Clin Psychiatry | Short-term active-comparator and placebo-controlled Phase 3 study confirming agomelatine efficacy in GAD; completed as a regulatory-confirmatory study required by agencies |
-| [30712879](https://pubmed.ncbi.nlm.nih.gov/30712879/) | 2019 | Systematic Review + NMA | Lancet | Comprehensive Lancet NMA of all pharmacological treatments for GAD; positions agomelatine among available therapeutic choices with efficacy and acceptability data |
-| [34417992](https://pubmed.ncbi.nlm.nih.gov/34417992/) | 2021 | Review | Advances in Therapy | Evidence-based pharmacotherapy framework for GAD with a specific focus on agomelatine as an alternative-mechanism agent for patients who cannot tolerate SSRIs/SNRIs |
-| [28730851](https://pubmed.ncbi.nlm.nih.gov/28730851/) | 2017 | Review | Expert Opin Pharmacother | Evaluation of clinical efficacy and tolerability data for agomelatine in short-term and maintenance treatment of GAD; expert commentary on first-line versus second-line positioning |
-| [24766542](https://pubmed.ncbi.nlm.nih.gov/24766542/) | 2014 | Review | Expert Opin Investig Drugs | Review of agomelatine in GAD discussing clinical profile, mechanisms, and comparison with benzodiazepines, SSRIs, SNRIs, buspirone, and anticonvulsants |
-| [25999720](https://pubmed.ncbi.nlm.nih.gov/25999720/) | 2015 | Review | Neuropsychiatr Dis Treat | Profile of agomelatine as MT1/MT2 agonist with 5-HT2C antagonism as a pharmacological alternative for the ~50% of GAD patients who do not respond adequately to existing treatments |
+| [38804215](https://pubmed.ncbi.nlm.nih.gov/38804215/) | 2025 | Ulasan Sistematik + NMA | Int Clin Psychopharmacol | Meta-analisis rangkaian membandingkan agomelatine terhadap semua ubat GAD yang diluluskan pada kadar remisi dan penghentian yang didorong kejadian buruk |
+| [33537871](https://pubmed.ncbi.nlm.nih.gov/33537871/) | 2021 | Meta-analisis | Advances in Therapy | Analisis terkumpul 3 RCT terkawal plasebo untuk GAD; agomelatine 25–50 mg dengan ketara mengurangkan simptom gelisah dan gangguan fungsian berbanding plasebo |
+| [35795687](https://pubmed.ncbi.nlm.nih.gov/35795687/) | 2022 | Ulasan | Ther Adv Psychopharmacol | Ulasan mekanik komprehensif laluan MT/5-HT2C agomelatine yang berbeza dalam GAD; mensintesis data anksioliti praklinikal dan hasil ujian klinikal |
+| [32702221](https://pubmed.ncbi.nlm.nih.gov/32702221/) | 2020 | Meta-analisis | Clin Psychopharmacol Neurosci | Meta-analisis kesan terapeutik dan keselamatan agomelatine secara khusus dalam rawatan GAD; menyokong penggunaan sebagai pilihan rawatan tambahan untuk pesakit dengan tindak balas yang tidak mencukupi |
+| [24569045](https://pubmed.ncbi.nlm.nih.gov/24569045/) | 2014 | RCT | J Clin Psychiatry | Kajian Fasa 3 perbandingan aktif dan terkawal plasebo jangka pendek mengesahkan kesan terapeutik agomelatine dalam GAD; selesai sebagai kajian pengesahan kawal selia yang diperlukan oleh agensi |
+| [30712879](https://pubmed.ncbi.nlm.nih.gov/30712879/) | 2019 | Ulasan Sistematik + NMA | Lancet | NMA Lancet komprehensif semua rawatan farmakologi untuk GAD; mnempatkan agomelatine di antara pilihan terapeutik yang tersedia dengan data kesan terapeutik dan kebolehterimaan |
+| [34417992](https://pubmed.ncbi.nlm.nih.gov/34417992/) | 2021 | Ulasan | Advances in Therapy | Rangka kerja farmakoterapia berasaskan bukti untuk GAD dengan fokus khusus pada agomelatine sebagai agen mekanisme alternatif untuk pesakit yang tidak dapat bertolak ansur dengan SSRI/SNRI |
+| [28730851](https://pubmed.ncbi.nlm.nih.gov/28730851/) | 2017 | Ulasan | Expert Opin Pharmacother | Penilaian data kesan terapeutik klinikal dan kebolehtoleranan untuk agomelatine dalam rawatan jangka pendek dan penyelenggaraan GAD; ulasan pakar mengenai kedudukan garis pertama berbanding garis kedua |
+| [24766542](https://pubmed.ncbi.nlm.nih.gov/24766542/) | 2014 | Ulasan | Expert Opin Investig Drugs | Ulasan agomelatine dalam GAD membincangkan profil klinikal, mekanisme, dan perbandingan dengan benzodiazpin, SSRI, SNRI, buspiron, dan antikonvulsan |
+| [25999720](https://pubmed.ncbi.nlm.nih.gov/25999720/) | 2015 | Ulasan | Neuropsychiatr Dis Treat | Profil agomelatine sebagai agonis MT1/MT2 dengan antagoni 5-HT2C sebagai alternatif farmakologi untuk kira-kira 50% pesakit GAD yang tidak bertindak balas secara memadai terhadap rawatan sedia ada |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjuk yang Diluluskan |
 |---------|------|------|-----------|
-| (Not retrievable) | (Not retrievable) | (Not retrievable) | (Not retrievable) |
+| (Tidak dapat diambil) | (Tidak dapat diambil) | (Tidak dapat diambil) | (Tidak dapat diambil) |
 
-> **Note:** The Malaysian NPRA registry confirms 1 licensed product with market status **Marketed** as of the data cut-off (2026-04-04). However, detailed product information — including the authorisation number, brand name, dosage form, and the approved indication text — was not captured in the current data feed. Direct verification via the NPRA online registration portal is recommended before proceeding with any regulatory assessment.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-> **Note:** Safety data — including key warnings and contraindications — was not available in the current evidence pack (classified as a Blocking data gap). For agomelatine specifically, prescribers should be aware that hepatotoxicity monitoring (liver enzyme testing before and during treatment) is a well-documented class concern referenced in the EMA label; this should be confirmed in the Malaysian product insert once retrieved.
+> **Nota:** Pendaftaran NPRA Malaysia mengesahkan 1 produk berlesen dengan status pasaran **Dipasarkan** sehingga potongan data (2026-04-04). Walau bagaimanapun, maklumat produk terperinci — termasuk nombor kebenaran, nama jenama, bentuk dos, dan teks petunjuk yang diluluskan — tidak ditangkap dalam suapan data semasa. Pengesahan langsung melalui portal pendaftaran dalam talian NPRA disyorkan sebelum meneruskan mana-mana penilaian kawal selia.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Proceed with Guardrails**
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-**Rationale:**
-Multiple independent meta-analyses and systematic reviews — including a 2025 network meta-analysis and confirmed Phase 3 GAD-specific RCTs cited in pooled analyses — establish L1-level evidence for agomelatine's efficacy in Generalised Anxiety Disorder, supported by a strong and mechanistically coherent rationale and existing regulatory approval in Australia. The drug is already marketed in Malaysia, eliminating market access barriers, but local safety data and the exact scope of the registered indication must be confirmed before proceeding.
-
-**To proceed, the following is needed:**
-- **[Priority — Blocking]** Download and parse the Malaysian SmPC/product insert to extract the approved indication, contraindications, and key warnings (Data Gap DG001)
-- **[Priority — High]** Retrieve DrugBank MOA data to complete the mechanistic analysis documentation (Data Gap DG002)
-- Confirm whether the current Malaysian NPRA registration covers MDD only, or already includes GAD/anxiety disorder
-- If the GAD indication is not yet registered locally, assess whether a supplementary new indication application is required to NPRA
-- Establish a hepatotoxicity monitoring protocol (LFT at baseline, 6 weeks, 12 weeks, and periodically thereafter) consistent with the EMA label requirements
-- Review any local reimbursement or formulary implications for the anxiety disorder indication in the Malaysian healthcare system
+> **Nota:** Data keselamatan — termasuk amaran utama dan kontraindikasi — tidak tersedia dalam pakej bukti semasa (diklasifikasikan sebagai jurang data yang menghalang). Untuk agomelatine secara khusus, pemberi preskripsi harus sedar bahawa pemantauan hepatotoksisiti (ujian enzim hati sebelum dan semasa rawatan) ialah kebimbangan kelas terdokumen dengan baik yang dirujuk dalam label EMA; ini harus disahkan dalam sisipan produk Malaysia apabila diambil.
 
 ---
 
-> ⚠️ **Disclaimer:** This report is for research reference only and does not constitute medical advice. Drug repurposing candidates require clinical validation before any therapeutic application.
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Teruskan dengan Penjaga**
+
+**Rasional:**
+Pelbagai meta-analisis bebas dan ulasan sistematik — termasuk meta-analisis rangkaian 2025 dan RCT khusus GAD Fasa 3 yang disahkan yang disebut dalam analisis terkumpul — menetapkan bukti tahap L1 untuk kesan terapeutik agomelatine dalam Gangguan Kegelisahan Umum, disokong oleh rasional yang kuat dan koheren secara mekanik dan kelulusan kawal selia sedia ada di Australia. Ubat ini sudah dipasarkan di Malaysia, menghapuskan halangan akses pasaran, tetapi data keselamatan tempatan dan skop tepat petunjuk terdaftar mesti disahkan sebelum meneruskan.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- **[Keutamaan — Menghalang]** Muat turun dan analisis SmPC/sisipan produk Malaysia untuk mengeluarkan petunjuk yang diluluskan, kontraindikasi, dan amaran utama (Jurang Data DG001)
+- **[Keutamaan — Tinggi]** Ambil data MOA DrugBank untuk melengkapkan dokumentasi analisis mekanik (Jurang Data DG002)
+- Sahkan sama ada pendaftaran NPRA Malaysia semasa meliputi MDD sahaja, atau sudah merangkumi GAD/gangguan kegelisahan
+- Jika petunjuk GAD belum didaftarkan secara tempatan, nilaikan sama ada permohonan petunjuk baru tambahan diperlukan kepada NPRA
+- Tetapkan protokol pemantauan hepatotoksisiti (ujian fungsi hati pada garis dasar, 6 minggu, 12 minggu, dan berkala selepas itu) yang konsisten dengan keperluan label EMA
+- Kaji sebarang implikasi pelunasan atau formulari tempatan untuk petunjuk gangguan kegelisahan dalam sistem penjagaan kesihatan Malaysia
+
+---
+
+> ⚠️ **Penafian:** Laporan ini hanya untuk rujukan penyelidikan dan tidak merupakan nasihat perubatan. Calon ubat ubah tujuan memerlukan pengesahan klinikal sebelum sebarang aplikasi terapeutik.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

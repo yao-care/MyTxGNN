@@ -29,87 +29,88 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Aprepitant: From Chemotherapy-Induced Nausea and Vomiting to Nephrogenic Syndrome of Inappropriate Antidiuresis
+# Aprepitant: Daripada Pencegahan Mual dan Muntah Berkaitan Kemoterapi kepada Sindrom Neprogenik Antidiuresis yang Tidak Sesuai
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Aprepitant (brand name: Emend) is a Neurokinin-1 (NK1) receptor antagonist approved for the prevention of chemotherapy-induced nausea and vomiting (CINV) and post-operative nausea and vomiting (PONV). The TxGNN model predicts it may be effective for **Nephrogenic Syndrome of Inappropriate Antidiuresis (NSIAD)**, a rare renal tubular disorder of water regulation, with a prediction score of **99.97%**. However, **no supporting clinical trials or published literature** were identified for this specific indication, placing this at the lowest evidence tier.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Prevention of chemotherapy-induced nausea and vomiting (CINV); post-operative nausea and vomiting (PONV) |
-| Predicted New Indication | Nephrogenic Syndrome of Inappropriate Antidiuresis (NSIAD) |
-| TxGNN Prediction Score | 99.97% |
-| Evidence Level | L5 — Model prediction only; no supporting clinical or preclinical studies identified |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 8 |
-| Recommended Decision | **Hold** |
+Aprepitant (nama jenama: Emend) ialah antagonis reseptor Neurokinin-1 (NK1) yang diluluskan untuk pencegahan mual dan muntah yang berkaitan kemoterapi (CINV) dan mual dan muntah selepas pembedahan (PONV). Model TxGNN meramalkan ia mungkin berkesan untuk **Sindrom Neprogenik Antidiuresis yang Tidak Sesuai (NSIAD)**, sejenis gangguan tubul renal yang jarang melibatkan regulasi air, dengan skor ramalan **99.97%**. Walau bagaimanapun, **tiada cubaan klinikal atau literatur terbitan yang menyokong** telah dikenal pasti untuk petunjukan khusus ini, meletakkan ini pada peringkat bukti terendah.
 
 ---
 
-## Why Is This Prediction Reasonable?
+## Tinjauan Pantas
 
-Aprepitant is a selective, high-affinity antagonist of the human Substance P / Neurokinin-1 (NK1) receptor. Substance P is a neuropeptide widely distributed across the central and peripheral nervous systems. By blocking the NK1 receptor, Aprepitant interrupts Substance P-mediated signalling cascades — including the emetic reflex arc in the brainstem — which is the mechanistic basis for its anti-emetic effect in chemotherapy patients.
-
-The mechanistic bridge to Nephrogenic Syndrome of Inappropriate Antidiuresis (NSIAD) is biologically indirect. NSIAD is a rare X-linked condition caused by gain-of-function mutations in the V2 vasopressin receptor gene (*AVPR2*), rendering renal collecting duct cells constitutively responsive to vasopressin signals regardless of actual circulating vasopressin (ADH) levels. This leads to persistent, inappropriate water retention and hyponatraemia. The NK1/Substance P system has been shown to modulate vasopressin secretion from the posterior pituitary, and NK1 receptors are expressed in hypothalamic nuclei that regulate fluid homeostasis. Blocking Substance P-driven vasopressin stimulation theoretically could attenuate excessive water retention.
-
-However, a critical limitation applies: because NSIAD originates from a constitutively active, ligand-independent AVPR2 mutation, reducing Substance P-mediated upstream vasopressin stimulation may have minimal downstream impact on the mutant receptor. The TxGNN model's high score likely reflects graph-level connectivity between "NK1 signalling," "vasopressin axis," and "renal water handling" nodes in the biomedical knowledge graph, rather than validated pharmacological interaction. No experimental data — animal, cellular, or clinical — currently supports this predicted repurposing.
-
-> **Note:** Formal mechanism of action (MOA) data was not retrieved from DrugBank in this pipeline run (Data Gap DG002). The mechanistic reasoning above is based on published pharmacology literature and is provided for interpretive context only.
-
----
-
-## Clinical Trial Evidence
-
-Currently no clinical trials related to Aprepitant in Nephrogenic Syndrome of Inappropriate Antidiuresis have been registered on ClinicalTrials.gov or ICTRP.
+| Item | Kandungan |
+|------|-----------|
+| Petunjuk Asal | Pencegahan mual dan muntah yang berkaitan kemoterapi (CINV); mual dan muntah selepas pembedahan (PONV) |
+| Petunjuk Baru yang Diramalkan | Sindrom Neprogenik Antidiuresis yang Tidak Sesuai (NSIAD) |
+| Skor Ramalan TxGNN | 99.97% |
+| Tahap Bukti | L5 — Ramalan model sahaja; tiada kajian klinikal atau praklinik yang menyokong telah dikenal pasti |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 8 |
+| Keputusan yang Disyorkan | **Tahan** |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no published literature linking Aprepitant to Nephrogenic Syndrome of Inappropriate Antidiuresis is available.
+Aprepitant ialah antagonis spesifik, afiniti tinggi terhadap reseptor manusia Substans P / Neurokinin-1 (NK1). Substans P ialah neuropeptid yang tersebar luas di seluruh sistem saraf pusat dan periferi. Dengan menghalang reseptor NK1, aprepitant mengganggu lata isyarat yang dimediasi Substans P — termasuk arka refleks emetik dalam batang otak — yang merupakan asas mekanis untuk kesan anti-emetik dalam pesakit kemoterapi.
 
----
+Jambatan mekanis kepada Sindrom Neprogenik Antidiuresis yang Tidak Sesuai (NSIAD) adalah secara biologi tidak langsung. NSIAD ialah keadaan terikat-X yang jarang disebabkan oleh mutasi fungsi keuntungan dalam gen reseptor vasopresin V2 (*AVPR2*), menjadikan sel duktus pengumpul renal tindak balas konstitutif terhadap isyarat vasopresin tanpa mengira tahap vasopresin peredaran sebenar (ADH). Ini membawa kepada pengekalan air yang berterusan, tidak sesuai dan hiponatremia. Sistem NK1/Substans P telah ditunjukkan untuk mengubahsuai sekresi vasopresin dari kelenjar hipofisis posterior, dan reseptor NK1 dinyatakan dalam nuklei hipotalamik yang mengatur homeostasis cecair. Menyekat rangsangan vasopresin yang didorong Substans P secara teorinya boleh mengurangkan pengekalan air yang berlebihan.
 
-## Malaysia Market Information
+Walau bagaimanapun, batasan kritikal digunakan: kerana NSIAD berasal daripada mutasi AVPR2 yang aktif konstitutif, bebas ligan, mengurangkan rangsangan vasopresin yang dimediasi hiliran Substans P mungkin mempunyai dampak minimal pada reseptor mutasi. Skor tinggi model TxGNN berkemungkinan mencerminkan sambungan peringkat graf antara nod "signaling NK1," "paksi vasopresin," dan "pengendalian air renal" dalam graf pengetahuan bioperubatan, bukan interaksi farmakologi yang disahkan. Tiada data eksperimental — haiwan, selular, atau klinikal — pada masa ini menyokong pemulihan tujuan yang diramalkan ini.
 
-8 product registrations are confirmed with the National Pharmaceutical Regulatory Agency (NPRA) Malaysia. Detailed registration records (authorization numbers, product names, dosage forms, and approved indication text) were not returned in the current data query. The market status is confirmed as **Marketed**.
-
-> To retrieve full registration details, please query the NPRA product search portal directly at: https://www.npra.gov.my/
+> **Nota:** Data mekanisme tindakan formal (MOA) tidak diambil daripada DrugBank dalam larian saluran paip ini (Jurang Data DG002). Alasan mekanis di atas adalah berdasarkan literatur farmakologi terbitan dan disediakan untuk konteks interpretif sahaja.
 
 ---
 
-## Safety Considerations
+## Bukti Cubaan Klinikal
 
-Formal safety data (package insert warnings, contraindications, and drug-drug interaction records) were not retrieved in this pipeline run.
-
-> Please refer to the approved Aprepitant (Emend®) package insert for complete safety information, including its well-documented CYP3A4 inhibition profile (moderate inhibitor), interactions with warfarin, oral contraceptives, dexamethasone, and other CYP3A4 substrates, as well as contraindications in patients receiving pimozide.
+Pada masa ini tiada cubaan klinikal yang berkaitan dengan aprepitant dalam Sindrom Neprogenik Antidiuresis yang Tidak Sesuai telah didaftar pada ClinicalTrials.gov atau ICTRP.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Hold**
-
-**Rationale:**
-The TxGNN model assigns Aprepitant a very high score (99.97%) for NSIAD, likely driven by knowledge graph connectivity through the vasopressin/fluid regulation axis; however, the mechanistic link is indirect and biologically uncertain given the constitutive nature of NSIAD's AVPR2 mutations. With zero supporting clinical trials, zero published literature on this combination, and outstanding formal data gaps in MOA and safety documentation, there is currently no empirical basis to progress beyond a computational hypothesis.
-
-**To proceed, the following is needed:**
-
-- **Preclinical mechanistic study:** Determine whether NK1 antagonism measurably reduces vasopressin secretion *in vivo*, and whether this translates to any reduction in water retention in AVPR2 gain-of-function animal models (e.g., NSIAD knock-in mice)
-- **BBB and renal penetration data:** Confirm whether Aprepitant achieves pharmacologically relevant concentrations in hypothalamic nuclei and renal collecting ducts at clinically approved doses
-- **DrugBank MOA retrieval:** Complete Data Gap DG002 to formally document the NK1/Substance P mechanism for pipeline records
-- **NPRA license detail retrieval:** Complete full extraction of the 8 Malaysia registrations (authorization numbers, dosage forms, approved indications) for a complete regulatory profile
-- **TFDA/package insert safety parsing:** Complete Data Gap DG001 to enable formal safety screening before any clinical translation discussion
-- **Expert consultation:** Seek input from a nephrologist specialising in rare renal tubular disorders to assess the biological plausibility of this repurposing hypothesis before committing resources to a wet-lab programme
+Pada masa ini tiada literatur terbitan yang menghubungkan aprepitant kepada Sindrom Neprogenik Antidiuresis yang Tidak Sesuai tersedia.
 
 ---
 
-> ⚠️ **Disclaimer:** This report is for research reference purposes only and does not constitute medical advice. All drug repurposing candidates require clinical validation before any therapeutic application. This content is generated by an AI-assisted pipeline and should be reviewed by qualified medical and pharmaceutical professionals.
+## Maklumat Pasaran Malaysia
+
+8 pendaftaran produk disahkan dengan Agensi Kawal Selia Farmaseutikal Kebangsaan (NPRA) Malaysia. Rekod pendaftaran terperinci (nombor kebenaran, nama produk, bentuk dosaj, dan teks petunjuk yang diluluskan) tidak dikembalikan dalam pertanyaan data semasa. Status pasaran disahkan sebagai **Dipasarkan**.
+
+> Untuk mendapatkan butiran pendaftaran penuh, sila pertanyakan portal carian produk NPRA secara terus di: https://www.npra.gov.my/
+
+---
+
+## Pertimbangan Keselamatan
+
+Data keselamatan formal (amaran sisipan pakej, kontraindikasi, dan rekod interaksi ubat-ubatan) tidak diambil dalam larian saluran paip ini.
+
+> Sila rujuk sisipan aprepitant (Emend®) yang diluluskan untuk maklumat keselamatan lengkap, termasuk profil perencat CYP3A4 yang terdokumentasi dengan baik (perencat sederhana), interaksi dengan warfarin, kontraseptif oral, deksamethason, dan substrat CYP3A4 lain, serta kontraindikasi dalam pesakit yang menerima pimozida.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Model TxGNN memberikan aprepitant skor yang sangat tinggi (99.97%) untuk NSIAD, berkemungkinan didorong oleh sambungan graf pengetahuan melalui paksi vasopresin/regulasi cecair; walau bagaimanapun, pautan mekanis adalah tidak langsung dan tidak pasti secara biologi memandangkan sifat konstitutif mutasi AVPR2 NSIAD. Dengan sifar cubaan klinikal yang menyokong, sifar literatur terbitan mengenai gabungan ini, dan jurang data formal yang tertunda dalam dokumentasi MOA dan keselamatan, pada masa ini tiada asas empirikal untuk berkembang melampaui hipotesis pengiraan.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+
+- **Kajian mekanik praklinik:** Tentukan sama ada antagonis NK1 secara terukur mengurangkan sekresi vasopresin *in vivo*, dan sama ada ini diterjemahkan kepada sebarang pengurangan dalam pengekalan air dalam model haiwan fungsi keuntungan AVPR2 (cth., tetikus knock-in NSIAD)
+- **Data penembusan BBB dan renal:** Sahkan sama ada aprepitant mencapai kepekatan yang relevan secara farmakologi dalam nuklei hipotalamik dan duktus pengumpul renal pada dos yang diluluskan secara klinikal
+- **Pengambilan MOA DrugBank:** Siapkan Jurang Data DG002 untuk menghalang mekanisme NK1/Substans P secara rasmi untuk rekod saluran paip
+- **Pengambilan terperinci lesen NPRA:** Siapkan pengekstrakan penuh 8 pendaftaran Malaysia (nombor kebenaran, bentuk dosaj, petunjuk yang diluluskan) untuk profil kawal selia yang lengkap
+- **Penghuraian keselamatan sisipan TFDA/pakej:** Siapkan Jurang Data DG001 untuk membolehkan pemeriksaan keselamatan formal sebelum sebarang perbincangan terjemahan klinikal
+- **Perundingan pakar:** Cari masukan daripada seorang nefrologi yang pakar dalam gangguan tubul renal yang jarang untuk menilai kebolehpercayaan biologi hipotesis pemulihan tujuan ini sebelum melakukan sumber kepada program makmal basah
+
+---
+
+> ⚠️ **Penafian:** Laporan ini adalah untuk tujuan rujukan penyelidikan sahaja dan tidak membentuk nasihat perubatan. Semua calon pemulihan tujuan ubat memerlukan pengesahan klinikal sebelum sebarang permohonan terapeutik. Kandungan ini dijana oleh saluran paip berbantuan AI dan harus dikemukakan semula oleh profesional perubatan dan farmaseutikal yang layak.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

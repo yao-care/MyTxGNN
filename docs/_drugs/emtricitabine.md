@@ -29,86 +29,87 @@ Tahap bukti: **L5** | Indikasi diramal: **3**
 
 </div>
 
-# Emtricitabine: From HIV-1 Infection to Feline Acquired Immunodeficiency Syndrome
+# Emtricitabine: Daripada Jangkitan HIV-1 kepada Sindrom Imunodefisiensi Feline
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Emtricitabine is a nucleoside reverse transcriptase inhibitor (NRTI) originally developed for HIV-1 antiretroviral therapy in humans. The TxGNN model's top prediction points to **Feline Acquired Immunodeficiency Syndrome (FIV, "feline AIDS")** with a **99.92% prediction score**, but the supporting clinical-trial evidence in this pack is actually drawn from human HIV-1 trials, not feline studies — only **1 publication** directly addresses the feline indication.
+Emtricitabine ialah inhibitor nukleosida transkriptase terbalik (NRTI) yang pada asalnya dibangunkan untuk terapi antiretroviral HIV-1 pada manusia. Ramalan teratas model TxGNN menunjukkan **Sindrom Imunodefisiensi Feline (FIV, "feline AIDS")** dengan **skor ramalan 99.92%**, namun bukti uji klinis yang menyokong dalam pakej ini sebenarnya diambil daripada ujian HIV-1 manusia, bukan kajian feline — hanya **1 penerbitan** yang secara langsung menangani petunjuk feline.
 
 ---
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | HIV-1 infection (antiretroviral therapy) — TFDA/NPRA license text not available in this evidence pack |
-| Predicted New Indication | Feline Acquired Immunodeficiency Syndrome (FIV) |
-| TxGNN Prediction Score | 99.92% |
-| Evidence Level | L4 (the 2 completed Phase 3 RCTs in this pack are for the *original* human HIV-1 indication, not FIV; direct feline evidence is limited to one preclinical/animal study) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 12 |
-| Recommended Decision | Hold |
+| Indikasi Asal | Jangkitan HIV-1 (terapi antiretroviral) — teks lesen TFDA/NPRA tidak tersedia dalam pakej bukti ini |
+| Indikasi Baru yang Diramalkan | Sindrom Imunodefisiensi Feline (FIV) |
+| Skor Ramalan TxGNN | 99.92% |
+| Tahap Bukti | L4 (2 ujian RCT Fasa 3 yang lengkap dalam pakej ini adalah untuk indikasi HIV-1 manusia yang *asal*, bukan FIV; bukti feline langsung terhad kepada satu kajian praklinikal/hewan) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 12 |
+| Keputusan yang Disyorkan | Tangguh |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed mechanism of action data is not available for this compound in the current evidence pack (flagged as a High-severity data gap). Based on known pharmacology, Emtricitabine is a cytidine-analog NRTI that terminates reverse-transcriptase-mediated viral DNA synthesis — the same mechanism class used to treat HIV-1 infection in humans.
+Data mekanisme tindakan terperinci tidak tersedia untuk sebatian ini dalam pakej bukti ini (ditandai sebagai jurang data keterukan Tinggi). Berdasarkan kefarmakolojian yang diketahui, Emtricitabine ialah analog sitidina NRTI yang menamatkan sintesis DNA virus yang dimediasi transkriptase terbalik — kelas mekanisme yang sama digunakan untuk merawat jangkitan HIV-1 pada manusia.
 
-The predicted new indication, feline AIDS, is caused by Feline Immunodeficiency Virus (FIV) — a lentivirus in the same *Retroviridae* family as HIV, also dependent on reverse transcriptase for replication. This shared enzymatic target is the most plausible mechanistic bridge for the TxGNN prediction: the model likely picked up on structural/functional similarity between the HIV and FIV disease nodes in the knowledge graph, given both diseases already share the same drug-class treatment paradigm.
+Indikasi baru yang diramalkan, feline AIDS, disebabkan oleh Virus Imunodefisiensi Feline (FIV) — lentivirus dalam keluarga *Retroviridae* yang sama seperti HIV, juga bergantung pada transkriptase terbalik untuk replikasi. Sasaran enzim bersama ini adalah jambatan mekanistik yang paling munasabah untuk ramalan TxGNN: model berkemungkinan telah menangkap persamaan struktur/fungsi antara nod penyakit HIV dan FIV dalam grafik pengetahuan, memandangkan kedua-dua penyakit sudah berkongsi paradigma rawatan kelas ubat yang sama.
 
-Importantly, this is a **cross-species** repurposing signal (human drug → veterinary indication), not a new human indication. The clinical trial evidence attached to this prediction in the pack (dolutegravir vs. raltegravir, darunavir combination regimens, etc.) are all human HIV-1 studies that establish emtricitabine's *existing* antiretroviral use — they do not directly support efficacy in cats. The one study that does address FIV directly (Kim et al. 2023) is a small pharmacokinetic/immunophenotyping study in specific-pathogen-free cats, not a controlled efficacy trial.
+Dengan penting, ini adalah isyarat penggantuan semula **antara spesies** (ubat manusia → indikasi veterinari), bukan indikasi manusia baru. Bukti uji klinis yang dilampirkan pada ramalan ini dalam pakej (dolutegravir vs. raltegravir, rejim gabungan darunavir, dll) adalah semua kajian HIV-1 manusia yang menetapkan penggunaan antiretroviral emtricitabine yang *sedia ada* — mereka tidak secara langsung menyokong keberkesanan dalam kucing. Satu-satunya kajian yang menangani FIV secara langsung (Kim et al. 2023) ialah kajian farmakokinetik/imunofenotiping kecil dalam kucing bebas patogen spesifik, bukan ujian keberkesanan terkendali.
 
 ---
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinis
 
-*(Evidence attached to this prediction pertains to emtricitabine's established human HIV-1 use, not to feline FIV specifically — included here as provided in the evidence pack.)*
+*(Bukti yang dilampirkan pada ramalan ini berkaitan dengan penggunaan emtricitabine yang sedia ada untuk HIV-1 manusia, bukan untuk FIV feline khusus — disertakan di sini seperti yang disediakan dalam pakej bukti.)*
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT01227824](https://clinicaltrials.gov/study/NCT01227824) | Phase 3 | Completed | 828 | Dolutegravir 50mg QD vs. raltegravir 400mg BID, both with dual NRTI (incl. FTC/TDF), in ART-naive HIV-1 adults |
-| [NCT01263015](https://clinicaltrials.gov/study/NCT01263015) | Phase 3 | Completed | 844 | Dolutegravir + abacavir/lamivudine vs. Atripla (efavirenz/emtricitabine/tenofovir) in ART-naive HIV-1 adults |
-| [NCT00951015](https://clinicaltrials.gov/study/NCT00951015) | Phase 2 | Completed | 208 | Dose-selection study of dolutegravir with abacavir/lamivudine or tenofovir/emtricitabine in ART-naive HIV-1 adults |
-| [NCT02770508](https://clinicaltrials.gov/study/NCT02770508) | Phase 4 | Completed | 145 | Boosted darunavir + lamivudine vs. darunavir + emtricitabine/tenofovir or lamivudine/tenofovir in naive HIV-1 patients |
+| [NCT01227824](https://clinicaltrials.gov/study/NCT01227824) | Fasa 3 | Selesai | 828 | Dolutegravir 50mg QD vs. raltegravir 400mg BID, kedua-duanya dengan NRTI dwi (termasuk FTC/TDF), dalam orang dewasa HIV-1 tanpa rawatan antiretroviral sebelumnya |
+| [NCT01263015](https://clinicaltrials.gov/study/NCT01263015) | Fasa 3 | Selesai | 844 | Dolutegravir + abakavir/lamivudin vs. Atripla (efavirenz/emtricitabine/tenofovir) dalam orang dewasa HIV-1 tanpa rawatan antiretroviral sebelumnya |
+| [NCT00951015](https://clinicaltrials.gov/study/NCT00951015) | Fasa 2 | Selesai | 208 | Kajian pemilihan dos dolutegravir dengan abakavir/lamivudin atau tenofovir/emtricitabine dalam orang dewasa HIV-1 tanpa rawatan antiretroviral sebelumnya |
+| [NCT02770508](https://clinicaltrials.gov/study/NCT02770508) | Fasa 4 | Selesai | 145 | Darunavir diperkuat + lamivudin vs. darunavir + emtricitabine/tenofovir atau lamivudin/tenofovir dalam pesakit HIV-1 baru |
 
 ---
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [37112803](https://pubmed.ncbi.nlm.nih.gov/37112803/) | 2023 | Animal/Preclinical Study | Viruses | Combination ART (dolutegravir, tenofovir, emtricitabine) evaluated for pharmacokinetics and immunophenotype outcomes in FIV-infected domestic cats; no definitive therapy currently exists for FIV |
+| [37112803](https://pubmed.ncbi.nlm.nih.gov/37112803/) | 2023 | Kajian Hewan/Praklinikal | Viruses | ART gabungan (dolutegravir, tenofovir, emtricitabine) dinilai untuk hasil farmakokinetik dan imunofenotiping dalam kucing domestik yang dijangkiti FIV; tiada terapi yang ditentukan wujud untuk FIV |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Detailed authorization data (license numbers, product names, dosage forms, approved indication text) is not available in this evidence pack — all license entries returned empty fields despite the registry reporting 12 total licenses. Market status is confirmed as "Marketed" (Marketed).
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-*(Note: key warnings and contraindications for this drug are flagged as a Blocking-severity data gap — DG001 — meaning this evidence pack cannot currently support a safety pre-assessment.)*
+Data kebenaran terperinci (nombor lesen, nama produk, bentuk dos, teks indikasi yang diluluskan) tidak tersedia dalam pakej bukti ini — semua entri daftar kembali medan kosong walaupun daftar melaporkan jumlah 12 lesen. Status pasaran disahkan sebagai "Dipasarkan" (Dipasarkan).
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-**Rationale:**
-- Safety data (warnings, contraindications, DDI) has a Blocking-severity data gap, which by definition prevents entry into initial safety review (S1).
-- The predicted indication is a veterinary condition (feline AIDS); the clinical trial evidence in this pack actually supports emtricitabine's *existing* human HIV-1 use rather than the predicted new indication, and only one small preclinical/animal study directly addresses FIV.
+*(Nota: amaran utama dan kontraindikasi untuk ubat ini ditandai sebagai jurang data keterukan Penghalang — DG001 — bermakna pakej bukti ini tidak boleh menyokong penilaian keselamatan awal.)*
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert (warnings, contraindications, DDI) to clear the blocking safety data gap (DG001)
-- DrugBank MOA detail to confirm mechanistic linkage (DG002)
-- Clarification of scope: confirm whether a veterinary indication (FIV) is a valid target for this human-drug regulatory review, or should be excluded/routed to veterinary pharmacology channels
-- Complete Malaysia license/authorization detail (currently blank despite 12 registered licenses)
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tangguh**
+
+**Rasional:**
+- Data keselamatan (amaran, kontraindikasi, DDI) mempunyai jurang data keterukan Penghalang, yang mengikut takrifan mencegah kemasukan ke dalam semakan keselamatan awal (S1).
+- Indikasi yang diramalkan ialah keadaan veterinari (feline AIDS); bukti uji klinis dalam pakej ini sebenarnya menyokong penggunaan HIV-1 manusia emtricitabine yang *sedia ada* daripada indikasi baru yang diramalkan, dan hanya satu kajian praklinikal/hewan kecil secara langsung menangani FIV.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Sisipan pakej TFDA/NPRA (amaran, kontraindikasi, DDI) untuk membersihkan jurang data keselamatan penghalang (DG001)
+- Detail MOA DrugBank untuk mengesahkan pautan mekanistik (DG002)
+- Penjelasan skop: sahkan sama ada indikasi veterinari (FIV) adalah sasaran yang sah untuk semakan ubat manusia regulasi ini, atau harus dikecualikan/dialihkan ke saluran farmakologi veterinari
+- Maklumat lesen/kebenaran Malaysia lengkap (kini kosong walaupun 12 lesen terdaftar)
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

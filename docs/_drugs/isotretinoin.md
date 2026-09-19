@@ -29,57 +29,58 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Isotretinoin: From Severe Nodular Acne to Malignant Hypertensive Renal Disease
+# Isotretinoin: Dari Jerawat Nodular Teruk kepada Penyakit Ginjal Hipertensi Ganas
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Isotretinoin is an oral retinoid conventionally used for severe, treatment-resistant nodular acne (the NPRA-registered indication text for this drug was not captured in the current evidence pack). The TxGNN model predicts possible efficacy in **Malignant Hypertensive Renal Disease**, but this prediction is currently supported by **zero clinical trials** and **zero publications** — it is a model-only signal with no mechanistic or empirical corroboration.
+Isotretinoin adalah retinoid oral yang secara konvensional digunakan untuk jerawat nodular teruk yang tahan terhadap rawatan (teks indikasi berdaftar NPRA untuk ubat ini tidak ditangkap dalam pakej bukti semasa). Model TxGNN meramalkan kemungkinan keberkesanan dalam **Penyakit Ginjal Hipertensi Ganas**, tetapi ramalan ini pada masa ini disokong oleh **sifar ujian klinikal** dan **sifar penerbitan** — ia adalah isyarat model semata-mata tanpa sokongan mekanistik atau empirik.
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | Severe nodular acne (based on established pharmacology; NPRA license indication text not captured in this evidence pack) |
-| Predicted New Indication | Malignant Hypertensive Renal Disease |
-| TxGNN Prediction Score | 99.01% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 8 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Jerawat nodular teruk (berdasarkan farmakoloji yang mapan; teks indikasi lesen NPRA tidak ditangkap dalam pakej bukti ini) |
+| Indikasi Baru Yang Diramalkan | Penyakit Ginjal Hipertensi Ganas |
+| Skor Ramalan TxGNN | 99.01% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 8 |
+| Keputusan Yang Disyorkan | Tangguh |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed mechanism-of-action data was not available in this evidence pack (flagged as a High-severity data gap). Based on established pharmacological knowledge, isotretinoin (13-cis-retinoic acid) acts primarily on sebaceous gland regulation and epithelial cell differentiation; its known safety signals — hepatotoxicity, hypertriglyceridemia/dyslipidemia, pseudotumor cerebri (benign intracranial hypertension, not malignant hypertension), and teratogenicity — do not point to any established pathway relevant to malignant hypertensive renal disease, a condition driven by renal arteriolar fibrinoid necrosis and acute RAAS activation.
+Data mekanisme tindakan terperinci tidak tersedia dalam pakej bukti ini (ditandai sebagai jurang data keterukan tinggi). Berdasarkan pengetahuan farmakoloji yang mapan, isotretinoin (asid 13-cis-retinoik) bertindak terutamanya dalam mengatur kelenjar sebum dan diferensiasi sel epitelial; isyarat keselamatan yang dikenalinya — hepatotoksisiti, hipertrigliseremia/dislipidemia, pseudotumor serebri (hipertensi intrakranial jinak, bukan hipertensi ganas), dan teratogenisiti — tidak menunjukkan mana-mana jalan yang ditubuhkan yang relevan dengan penyakit ginjal hipertensi ganas, keadaan yang didorong oleh nekrosis fibrinoid arteriol ginjal dan pengaktifan RAAS yang mendadak.
 
-No mechanistic, preclinical, or clinical link between the drug and this indication is identified. The evidence pack's own rationale flags the high TxGNN score as likely reflecting an indirect graph association between retinoid-related and vascular/renal nodes rather than genuine pharmacological plausibility. Notably, the second-ranked prediction, "malignant renovascular hypertension," carries an identical score (99.01%) and describes essentially the same disease concept — this near-duplicate pairing is more consistent with redundant or noisy knowledge-graph structure than with two independent lines of model support.
+Tiada pautan mekanistik, praklinikal, atau klinikal antara ubat dan indikasi ini dikenal pasti. Rasional pakej bukti itu sendiri menandai skor TxGNN yang tinggi sebagai kemungkinan mencerminkan hubungan graf tidak langsung antara nod berkaitan retinoid dan nod pembuluh darah/ginjal bukannya kebertapatan farmakoloji yang tulen. Terutama, ramalan bertaraf kedua, "hipertensi renovaskular ganas," mempunyai skor yang sama (99.01%) dan pada asasnya menggambarkan konsep penyakit yang sama — pasangan yang hampir sama ini lebih konsisten dengan struktur graf pengetahuan berganda atau bising daripada dengan dua rangkaian bukti sokongan model yang berasingan.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-Currently no related clinical trials registered.
+Pada masa ini tiada ujian klinikal berkaitan terdaftar.
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-Currently no related literature available.
+Pada masa ini tiada kesusasteraan berkaitan tersedia.
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Isotretinoin holds 8 registered licenses in Malaysia and is currently marketed, but per-license details (license number, product name, dosage form, approved indication text) were not captured in this evidence pack — only the aggregate registration count and market status are available.
+Isotretinoin mempunyai 8 lesen berdaftar di Malaysia dan pada masa ini sedang dipasarkan, tetapi butiran setiap lesen (nombor lesen, nama produk, bentuk dos, teks indikasi yang diluluskan) tidak ditangkap dalam pakej bukti ini — hanya jumlah pendaftaran keseluruhan dan status pasaran yang tersedia.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk kemasan produk untuk maklumat keselamatan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tangguh**
 
-**Rationale:**
-The prediction is model-generated only (L5), with no supporting clinical trials or literature and no identifiable mechanistic pathway between isotretinoin's known pharmacology and malignant hypertensive renal disease. The near-identical, redundant score for a second near-duplicate predicted indication further suggests knowledge-graph noise rather than a genuine repurposing signal.
+**Rasional:**
+Ramalan adalah dijana model sahaja (L5), tanpa ujian klinikal atau kesusasteraan yang menyokong dan tiada jalan mekanistik yang boleh dikenal pasti antara farmakoloji isotretinoin yang diketahui dan penyakit ginjal hipertensi ganas. Skor yang hampir serupa dan berulang bagi indikasi yang diramalkan hampir sama yang kedua mencadangkan lebih lanjut bising graf pengetahuan daripada isyarat penggunaan semula ubat yang tulen.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert warnings and contraindications (currently a Blocking data gap — required before any S1 safety screening)
-- Confirmed mechanism of action from DrugBank or primary literature (currently a High-severity data gap)
-- Independent preclinical or mechanistic evidence linking retinoid activity to renal vascular pathology, or at minimum an initial case report/observational signal, before allocating further review resources
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Amaran kemasan TFDA/NPRA dan kontraindikasi (pada masa ini jurang data Penyekat — diperlukan sebelum sebarang saringan keselamatan S1)
+- Mekanisme tindakan yang disahkan daripada DrugBank atau kesusasteraan utama (pada masa ini jurang data keterukan tinggi)
+- Bukti praklinikal atau mekanistik bebas yang menghubungkan aktiviti retinoid dengan patologi pembuluh darah ginjal, atau sekurang-kurangnya laporan kes awal atau isyarat pemerhatian, sebelum mengalokasikan sumber untuk semakan lanjutan
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

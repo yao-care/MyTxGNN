@@ -29,100 +29,101 @@ Tahap bukti: **L5** | Indikasi diramal: **3**
 
 </div>
 
-# Elvitegravir: From HIV-1 Infection to Simian Immunodeficiency Virus Infection
+# Elvitegravir: Daripada Jangkitan HIV-1 kepada Jangkitan Virus Imunodefisiensi Simian
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-> Elvitegravir is an HIV-1 integrase strand transfer inhibitor (INSTI), historically used as part of antiretroviral combination therapy for HIV-1 infection.
-> The TxGNN model's top prediction links it to **Simian Immunodeficiency Virus (SIV) Infection**, supported by **7 publications** and **0 clinical trials** —
-> but this evidence describes elvitegravir's *known* antiretroviral pharmacology being studied in non-human primate models, not a genuinely new human indication.
+> Elvitegravir ialah penghambat pemindahan tali integrase HIV-1 (INSTI), yang secara historis digunakan sebagai sebahagian daripada terapi kombinasi antiretroviral untuk jangkitan HIV-1.
+> Model TxGNN meramalkan pautan teratas kepada **Jangkitan Virus Imunodefisiensi Simian (SIV)**, disokong oleh **7 penerbitan** dan **0 percubaan klinikal** —
+> tetapi bukti ini menerangkan *farmakologi antiretroviral yang diketahui* elvitegravir yang dikaji dalam model primata bukan manusia, bukan petunjukan manusia yang benar-benar baru.
 
-*Note: This evidence pack contains three ranked predictions (candidate ID `TW-DB09101-multi`). This report focuses on the top-ranked prediction (SIV infection) and briefly addresses the other two below.*
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | HIV-1 infection (inferred from literature evidence in this pack — not formally documented in regulatory/DrugBank records provided; see data gap below) |
-| Predicted New Indication | Simian Immunodeficiency Virus (SIV) Infection |
-| TxGNN Prediction Score | 99.89% |
-| Evidence Level | L4 (preclinical/mechanism studies only — no clinical trials identified) |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+*Nota: Pakej bukti ini mengandungi tiga ramalan berpangkat (ID calon `TW-DB09101-multi`). Laporan ini memberi tumpuan kepada ramalan berpangkat teratas (jangkitan SIV) dan membahaskan dua lagi di bawah.*
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Pantas
 
-The structured mechanism-of-action field for elvitegravir is not available in this evidence pack (flagged as data gap DG002, High severity). However, the literature evidence retrieved for this prediction consistently describes elvitegravir as an **HIV-1 integrase strand transfer inhibitor (INSTI)**: it blocks integration of viral cDNA into host chromosomal DNA by inhibiting the strand-transfer step of the retroviral integrase enzyme (PMID 17977962).
-
-This mechanism is not unique to HIV-1 — the integrase enzyme and its catalytic mechanism are highly conserved across lentiviruses, a family that includes HIV-1 (infects humans), SIV (infects non-human primates), and FIV (infects cats). This conservation is almost certainly why TxGNN links elvitegravir to SIV infection: the association reflects **target/mechanism homology across related viruses**, rather than a distinct new therapeutic opportunity in a human patient population.
-
-Importantly, when the underlying literature is examined, none of it describes elvitegravir being used to treat a disease called "SIV infection" in the sense of a new clinical indication. Instead, the papers use SIV- or SHIV-infected macaques and humanized mice as **surrogate/preclinical models** to study elvitegravir's resistance profile, antiviral activity, and prevention potential (e.g., topical/vaginal microbicide inserts) — research that ultimately supports HIV-1 prevention and treatment in humans, not a new disease target. This distinction matters for repurposing decisions: the "new indication" here is an animal model system, not a human disease.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Item | Kandungan |
+|------|----------|
+| Petunjukan Asal | Jangkitan HIV-1 (disimpulkan daripada bukti kesusasteraan dalam pakej ini — tidak didokumentasikan secara formal dalam rekod kawal selia/DrugBank yang disediakan; lihat jurang data di bawah) |
+| Petunjukan Baru yang Diramalkan | Jangkitan Virus Imunodefisiensi Simian (SIV) |
+| Skor Ramalan TxGNN | 99.89% |
+| Tahap Bukti | L4 (kajian pra-klinikal/mekanisme sahaja — tiada percubaan klinikal dikenal pasti) |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| PMID | Year | Type | Journal | Key Findings |
+Medan mekanisme tindakan berstruktur untuk elvitegravir tidak tersedia dalam pakej bukti ini (ditandai sebagai jurang data DG002, keterukan tinggi). Walau bagaimanapun, bukti kesusasteraan yang diambil untuk ramalan ini secara konsisten menerangkan elvitegravir sebagai **penghambat pemindahan tali integrase HIV-1 (INSTI)**: ia menghalang penyepaduan DNA komplemen viral ke dalam DNA kromosom inang dengan menghalang langkah pemindahan tali enzim integrase retroviral (PMID 17977962).
+
+Mekanisme ini tidak unik untuk HIV-1 — enzim integrase dan mekanisme katalitiknya dipelihara tinggi di seluruh lentivirus, sebuah keluarga yang merangkumi HIV-1 (menjangkiti manusia), SIV (menjangkiti primata bukan manusia), dan FIV (menjangkiti kucing). Pemuliharaan ini hampir pasti sebabnya TxGNN menghubungkan elvitegravir dengan jangkitan SIV: persatuan itu mencerminkan **kehomologan sasaran/mekanisme di seluruh virus berkaitan**, bukannya peluang terapi tersendiri yang berbeza dalam populasi pesakit manusia.
+
+Penting untuk diingatkan bahawa apabila kesusasteraan asas diperiksa, tidak satu pun menerangkan elvitegravir digunakan untuk merawat penyakit yang dipanggil "jangkitan SIV" dalam erti kata petunjukan terapi baru. Sebaliknya, kertas kerja menggunakan makaka atau tikus yang dijangkiti SIV atau SHIV sebagai **model pengganti/pra-klinikal** untuk mengkaji profil rintangan elvitegravir, aktiviti antiviral, dan potensi pencegahan (cth., sisipan mikrobiocide topikal/vagina) — penyelidikan yang akhirnya menyokong pencegahan dan rawatan HIV-1 pada manusia, bukan sasaran penyakit baru. Pembezaan ini penting untuk keputusan penggunaan semula: "petunjukan baru" di sini ialah sistem model hewan, bukan penyakit manusia.
+
+---
+
+## Bukti Percubaan Klinikal
+
+Jelaslah tiada percubaan klinikal berkaitan didaftarkan.
+
+---
+
+## Bukti Kesusasteraan
+
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [38134382](https://pubmed.ncbi.nlm.nih.gov/38134382/) | 2024 | Animal study (macaque) | J Infect Dis | Tenofovir alafenamide/elvitegravir vaginal inserts gave extended post-exposure protection against vaginal SHIV infection in macaques |
-| [39559349](https://pubmed.ncbi.nlm.nih.gov/39559349/) | 2024 | Animal study (humanized mouse) | Front Immunol | Describes a dual-purpose humanized mouse model for testing antiviral strategies against both SIV and HIV |
-| [28923862](https://pubmed.ncbi.nlm.nih.gov/28923862/) | 2017 | In vitro / resistance study | Antimicrob Agents Chemother | Compares bictegravir/cabotegravir activity against INSTI-resistant SIVmac239 and HIV-1; elvitegravir referenced as an established INSTI comparator |
-| [26378179](https://pubmed.ncbi.nlm.nih.gov/26378179/) | 2015 | In vitro / resistance study | J Virol | Characterizes drug resistance profiles of integrase strand transfer inhibitors (including elvitegravir) in SIVmac239 |
-| [25583721](https://pubmed.ncbi.nlm.nih.gov/25583721/) | 2015 | Model/methods study | Antimicrob Agents Chemother | Establishes a simian-tropic HIV model to study integrase inhibitor drug resistance |
-| [24920794](https://pubmed.ncbi.nlm.nih.gov/24920794/) | 2014 | In vitro / resistance study | J Virol | HIV-1 integrase resistance mutations introduced into SIVmac239 and tested for INSTI susceptibility, including elvitegravir |
-| [17977962](https://pubmed.ncbi.nlm.nih.gov/17977962/) | 2008 | In vitro / pharmacology | J Virol | Original characterization of elvitegravir (JTK-303/GS-9137) as a broad-spectrum HIV-1 integrase inhibitor and its resistance profile |
+| [38134382](https://pubmed.ncbi.nlm.nih.gov/38134382/) | 2024 | Kajian hewan (makaka) | J Infect Dis | Sisipan vagina tenofovir alafenamid/elvitegravir memberikan perlindungan pasca pendedahan yang dipanjangkan terhadap jangkitan SHIV vagina pada makaka |
+| [39559349](https://pubmed.ncbi.nlm.nih.gov/39559349/) | 2024 | Kajian hewan (tikus humanis) | Front Immunol | Menerangkan model tikus humanis dwiguna untuk menguji strategi antiviral terhadap kedua-dua SIV dan HIV |
+| [28923862](https://pubmed.ncbi.nlm.nih.gov/28923862/) | 2017 | Dalam vitro/kajian rintangan | Antimicrob Agents Chemother | Membandingkan aktiviti bictegravir/cabotegravir terhadap SIVmac239 dan HIV-1 rintang INSTI; elvitegravir dirujuk sebagai perbandingan INSTI yang didirikan |
+| [26378179](https://pubmed.ncbi.nlm.nih.gov/26378179/) | 2015 | Dalam vitro/kajian rintangan | J Virol | Mencirikan profil rintangan ubat inhibitor pemindahan tali integrase (termasuk elvitegravir) dalam SIVmac239 |
+| [25583721](https://pubmed.ncbi.nlm.nih.gov/25583721/) | 2015 | Kajian model/kaedah | Antimicrob Agents Chemother | Menubuhkan model HIV tropikal simian untuk mengkaji rintangan ubat inhibitor integrase |
+| [24920794](https://pubmed.ncbi.nlm.nih.gov/24920794/) | 2014 | Dalam vitro/kajian rintangan | J Virol | Mutasi rintangan integrase HIV-1 diperkenalkan ke dalam SIVmac239 dan diuji untuk kerentanan INSTI, termasuk elvitegravir |
+| [17977962](https://pubmed.ncbi.nlm.nih.gov/17977962/) | 2008 | Dalam vitro/farmakologi | J Virol | Pencirian asal elvitegravir (JTK-303/GS-9137) sebagai penghambat integrase HIV-1 spektrum luas dan profil rintangannya |
 
-*Note: All entries above are classified by content of the abstract, since automated study-type classification for these records was not yet completed ("pending") in the source data.*
-
----
-
-## Malaysia Market Information
-
-Elvitegravir is recorded as marketed in Malaysia (1 registration), but the detailed authorization number, product name, dosage form, and approved indication text for this license were not populated in this evidence pack — this is a data gap (DG001, Blocking severity) that must be resolved via the official product label before any safety review can proceed.
+*Nota: Semua penyertaan di atas dikelaskan mengikut kandungan abstrak, kerana pengelasan jenis kajian automatik untuk rekod ini masih belum selesai ("menunggu") dalam data sumber.*
 
 ---
 
-## Safety Considerations
+## Maklumat Pasaran Malaysia
 
-Please refer to the package insert for safety information.
-
-*(Key warnings, contraindications, and drug-drug interaction data were not available in this evidence pack — resolving DG001 by retrieving the official TFDA/NPRA package insert is required before proceeding.)*
+Elvitegravir dicatat sebagai dipasarkan di Malaysia (1 pendaftaran), tetapi nombor kebenaran rasmi, nama produk, bentuk dos, dan teks petunjukan yang diluluskan untuk lesen ini tidak diisi dalam pakej bukti ini — ini ialah jurang data (DG001, keterukan sekatan) yang mesti diselesaikan melalui label produk rasmi sebelum sebarang semakan keselamatan boleh dilakukan.
 
 ---
 
-## Other Predicted Indications (Lower Priority)
+## Pertimbangan Keselamatan
 
-This evidence pack ranked three candidate indications for elvitegravir. For completeness:
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-- **Rank 2 — Feline Acquired Immunodeficiency Syndrome (FIV)**: Same TxGNN score (99.89%) as the top prediction, but with **zero** supporting clinical trials or literature. Like SIV, FIV is a veterinary/animal disease, not a human indication. Evidence Level: **L5** (model prediction only, no supporting studies). Recommendation: **Hold**.
-- **Rank 3 — Neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter**: A rare genetic neurodevelopmental disorder with no plausible mechanistic link to elvitegravir's antiretroviral activity, and no supporting trials or literature. The evidence pack itself flags this as a likely **spurious statistical association** from the knowledge graph embedding space. Evidence Level: **L5**. Recommendation: **Hold**.
+*(Data amaran utama, kontraindikasi, dan interaksi ubat-ubatan tidak tersedia dalam pakej bukti ini — penyelesaian DG001 dengan mengambil sisipan pakej rasmi TFDA/NPRA diperlukan sebelum meneruskan.)*
 
 ---
 
-## Conclusion and Next Steps
+## Petunjukan Diramalkan Lain (Keutamaan Rendah)
 
-**Decision: Hold**
+Pakej bukti ini menilai tiga petunjukan calon untuk elvitegravir. Untuk kelengkapan:
 
-**Rationale:**
-The top-ranked prediction (SIV infection) and the second-ranked prediction (FIV) are both animal/veterinary diseases rather than human clinical indications — the underlying literature confirms elvitegravir's known antiretroviral mechanism is being studied in these species as *models* for HIV-1 research, not as a new disease to treat in patients. Combined with the absence of any clinical trials, a Blocking data gap on TFDA/NPRA safety labeling (DG001), and a High-severity gap on confirmed mechanism of action (DG002), there is currently no actionable human repurposing opportunity to advance.
+- **Pangkat 2 — Sindrom Imunodefisiensi Perolehan Kucing (FIV)**: Skor TxGNN yang sama (99.89%) dengan ramalan teratas, tetapi dengan **sifar** percubaan klinikal atau kesusasteraan yang menyokong. Seperti SIV, FIV ialah penyakit veterinar/hewan, bukan petunjukan manusia. Tahap Bukti: **L5** (ramalan model sahaja, tiada kajian menyokong). Cadangan: **Tahan**.
+- **Pangkat 3 — Gangguan neurobangungan dengan gait ataksia, ketiadaan pertuturan, dan penurunan zat putih kortikal**: Gangguan neurobangungan genetik yang jarang dengan tiada pautan mekanistik yang munasabah dengan aktivitas antiretroviral elvitegravir, dan tiada percubaan atau kesusasteraan menyokong. Pakej bukti itu sendiri menandakannya sebagai kemungkinan **persatuan statistik palsu** daripada ruang tertanam graf pengetahuan. Tahap Bukti: **L5**. Cadangan: **Tahan**.
 
-**To proceed, the following is needed:**
-- Retrieve the official Malaysia (NPRA) package insert to resolve DG001 (warnings/contraindications) before any S1 safety screening can occur
-- Confirm elvitegravir's mechanism of action and original approved indication via DrugBank/regulatory sources to resolve DG002
-- Obtain complete Malaysia license details (authorization number, product name, dosage form, approved indication text)
-- If pursuing this lead further, clarify with a subject-matter expert whether the SIV/FIV associations have any translatable human application (e.g., informing HIV pre-exposure prophylaxis or microbicide research) — otherwise these should be deprioritized as non-human artifacts of the knowledge graph
-- No further action needed on the Rank 3 (neurodevelopmental disorder) prediction absent new mechanistic evidence
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Ramalan berpangkat teratas (jangkitan SIV) dan ramalan berpangkat kedua (FIV) adalah kedua-duanya penyakit hewan/veterinar dan bukannya petunjukan klinikal manusia — kesusasteraan asas mengesahkan mekanisme antiretroviral elvitegravir yang diketahui sedang dikaji dalam spesies ini sebagai *model* untuk penyelidikan HIV-1, bukan sebagai penyakit baru untuk dirawat dalam pesakit. Digabungkan dengan ketiadaan sebarang percubaan klinikal, jurang data yang sekatan pada label keselamatan TFDA/NPRA (DG001), dan jurang keterukan tinggi pada mekanisme tindakan yang disahkan (DG002), jelaslah tidak ada peluang penggunaan semula manusia yang boleh diambil tindakan untuk dimajukan pada masa ini.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Ambil sisipan pakej Malaysia (NPRA) rasmi untuk menyelesaikan DG001 (amaran/kontraindikasi) sebelum sebarang semakan keselamatan S1 boleh berlaku
+- Sahkan mekanisme tindakan elvitegravir dan petunjukan yang diluluskan asal melalui sumber DrugBank/kawal selia untuk menyelesaikan DG002
+- Perolehi butir lesen Malaysia yang lengkap (nombor kebenaran, nama produk, bentuk dos, teks petunjukan yang diluluskan)
+- Jika meneruskan petunjuk ini lebih jauh, jelaskan dengan pakar pokok subjek sama ada persatuan SIV/FIV mempunyai sebarang aplikasi yang dapat diterjemahkan manusia (cth., memaklumkan pencegahan pra-pendedahan HIV atau penyelidikan mikrobiocide) — sebaliknya ini harus diberikan keutamaan rendah sebagai artifak bukan manusia daripada graf pengetahuan
+- Tiada tindakan lanjutan diperlukan pada ramalan Pangkat 3 (gangguan neurobangungan) tanpa bukti mekanistik baru
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

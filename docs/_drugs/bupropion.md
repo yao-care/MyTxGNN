@@ -29,111 +29,102 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-Using **txgnn-pipeline** background knowledge is not directly applicable here (this is a report-writing task, not a pipeline/training operation), so I'm proceeding directly with report generation per the v5 prompt template, using only the data present in the Evidence Pack.
+# Bupropion: Daripada Kemurungan kepada Gangguan Defisit Perhatian/Hiperaktiviti
 
-A few data-handling notes before the report:
-- `original_moa` and `original_indications` are both empty/`[Data Gap]` in this pack. Bupropion's original indications (Major Depressive Disorder, Smoking Cessation) are well-established public pharmacological facts (not fabricated), but the **NPRA-specific approved indication text is not available** in this pack (DG001) — this is flagged explicitly rather than invented.
-- `taiwan_regulatory.licenses` contains 2 entries but every field is an empty string — so no per-license table is presented; this is stated plainly instead of showing a blank table.
-- Bupropion is not an antineoplastic drug → the Cytotoxicity section is omitted per the rules.
-- All `safety` fields are `[Data Gap]` or empty → fallback safety text is used, with DG001 (Blocking) flagged.
+## Ringkasan Satu Ayat
 
----
-
-# Bupropion: From Depression to Attention-Deficit/Hyperactivity Disorder
-
-## One-Sentence Summary
-
-> Bupropion is a norepinephrine–dopamine reuptake inhibitor (NDRI) originally used to treat depression and to support smoking cessation.
-> The TxGNN model predicts it may be effective for **Attention-Deficit/Hyperactivity Disorder (ADHD)**,
-> with **8 clinical trials** (including one completed Phase 3 RCT) and **19 publications** (including a Cochrane systematic review) currently supporting this direction.
+> Bupropion ialah perencat pengambilan semula norepinefrin–dopamin (NDRI) yang asalnya digunakan untuk merawat kemurungan dan untuk menyokong berhenti merokok.
+> Model TxGNN meramalkan ia mungkin berkesan untuk **Gangguan Defisit Perhatian/Hiperaktiviti (ADHD)**,
+> dengan **8 percubaan klinikal** (termasuk satu ujian rawak terkawal Fasa 3 yang telah selesai) dan **19 penerbitan** (termasuk ulasan sistematik Cochrane) yang kini menyokong arah ini.
 
 ---
 
-## Quick Overview
+## Gambaran Keseluruhan Cepat
 
-| Item | Content |
-|------|------|
-| Original Indication | Depression / Smoking cessation (well-established public indications; NPRA-specific approved indication text is not available in this data pack — see Data Gap DG001) |
-| Predicted New Indication | Attention-Deficit/Hyperactivity Disorder (ADHD) |
-| TxGNN Prediction Score | 99.99% |
-| Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
-| Recommended Decision | Proceed with Guardrails |
-
----
-
-## Why is This Prediction Reasonable?
-
-Detailed mechanism-of-action data from DrugBank is currently a data gap (DG002) for this pack. Based on known pharmacology, however, bupropion is a norepinephrine–dopamine reuptake inhibitor (NDRI) that lacks serotonergic activity, distinguishing it from most other antidepressants. It is marketed in the class of atypical antidepressants and, separately, as a smoking-cessation aid, and its efficacy in depression is well established.
-
-Mechanistically, this dopamine/norepinephrine reuptake-inhibition profile is directly relevant to ADHD, whose core pathology is understood to involve prefrontal cortical dopaminergic and noradrenergic hypofunction. This is the same neurochemical target engaged by first-line ADHD stimulants and by atomoxetine (a selective norepinephrine reuptake inhibitor), giving bupropion a plausible, class-consistent rationale as a non-stimulant ADHD option.
-
-This mechanistic plausibility is reinforced by substantial real-world and trial evidence: bupropion has already been studied off-label in ADHD across multiple populations (adults, adolescents, and patients with comorbid substance-use disorders), and is discussed as a nonstimulant alternative in several systematic reviews and network meta-analyses, including a Cochrane review dedicated specifically to bupropion in adult ADHD. Its effect size is generally described as smaller than stimulants but superior to placebo, consistent with a genuine but modest treatment effect rather than a spurious knowledge-graph association.
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Kemurungan / Berhenti merokok (petunjuk yang diketahui secara awam dan mantap; teks petunjuk yang diluluskan khusus NPRA tidak tersedia dalam paket data ini — lihat Jurang Data DG001) |
+| Petunjuk Baru Diramalkan | Gangguan Defisit Perhatian/Hiperaktiviti (ADHD) |
+| Skor Ramalan TxGNN | 99.99% |
+| Paras Bukti | L1 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 2 |
+| Keputusan yang Disyorkan | Teruskan dengan Langkah Pengaman |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Data mekanisme tindakan terperinci daripada DrugBank kini merupakan jurang data (DG002) untuk paket ini. Berdasarkan farmakologi yang diketahui, bagaimanapun, bupropion ialah perencat pengambilan semula norepinefrin–dopamin (NDRI) yang tidak mempunyai aktiviti serotonergik, membezakannya daripada kebanyakan antidepresan lain. Ia dipasarkan dalam kelas antidepresan atipikal dan, secara berasingan, sebagai agen berhenti merokok, dan keberkesan bupropion dalam kemurungan sudah mantap.
+
+Dari segi mekanika, profil perencatan pengambilan semula dopamin/norepinefrin ini berkaitan secara langsung dengan ADHD, yang patologi terasnya difahami melibatkan hipofungsi dopaminergik dan noradrenergik korteks prefrontal. Ini ialah sasaran neurochemical yang sama yang menjadi fokus stimulan ADHD barisan pertama dan oleh atomokseten (perencat pengambilan semula norepinefrin selektif), memberikan bupropion rasional yang munasabah dan selaras dengan kelasnya sebagai pilihan ADHD bukan-stimulan.
+
+Kemasabalan mekanika ini dikukuhkan oleh bukti dunia sebenar dan percubaan yang besar: bupropion telah dikaji di luar label dalam ADHD merentasi pelbagai populasi (dewasa, remaja, dan pesakit dengan gangguan kegunaan bahan berkomplikasi), dan dibincangkan sebagai alternatif bukan-stimulan dalam beberapa ulasan sistematik dan meta-analisis rangkaian, termasuk ulasan Cochrane yang didedikasikan khusus untuk bupropion dalam ADHD dewasa. Saiz kesan bupropion secara umum digambarkan sebagai lebih kecil daripada stimulan tetapi lebih tinggi daripada plasebo, menunjukkan kesan rawatan yang tulen tetapi sederhana, bukan sekadar hubungan palsu dari graf pengetahuan.
+
+---
+
+## Bukti Percubaan Klinikal
+
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT00048360](https://clinicaltrials.gov/study/NCT00048360) | Phase 3 | Completed | 162 | Multicenter, randomized, double-blind, placebo-controlled, flexible-dose (300–450 mg/day) trial of extended-release bupropion for adult ADHD — direct efficacy/safety evidence |
-| [NCT00061087](https://clinicaltrials.gov/study/NCT00061087) | Phase 2/3 | Completed | 115 | Treatment of adult ADHD in patients on methadone maintenance |
-| [NCT00936299](https://clinicaltrials.gov/study/NCT00936299) | Phase 4 | Completed | 105 | Post-marketing confirmatory trial of bupropion for ADHD in adolescents with comorbid substance use disorder |
-| [NCT01270555](https://clinicaltrials.gov/study/NCT01270555) | N/A | Completed | 32 | Open-label study of bupropion SR for adult ADHD with recent/current substance use disorder |
-| [NCT00000268](https://clinicaltrials.gov/study/NCT00000268) | N/A | Completed | 32 | Early trial evaluating cocaine abuse and comorbid Attention Deficit Disorder |
-| [NCT03326128](https://clinicaltrials.gov/study/NCT03326128) | Phase 2 | Terminated | 12 | High-dose bupropion pilot for smoking cessation — not an ADHD efficacy trial, low relevance |
-| [NCT04553263](https://clinicaltrials.gov/study/NCT04553263) | Early Phase 1 | Withdrawn | 0 | Withdrawn (0 enrolled); explored bupropion/naltrexone effects on craving and inhibitory control in stimulant-use disorder with/without ADHD |
-| [NCT00330434](https://clinicaltrials.gov/study/NCT00330434) | N/A | Withdrawn | 0 | Withdrawn; pharmacokinetic/CYP2B6 metabolism study, not an ADHD efficacy trial |
+| [NCT00048360](https://clinicaltrials.gov/study/NCT00048360) | Fasa 3 | Selesai | 162 | Percubaan berbilang pusat, rawak, buta berganda, terkawal plasebo, dos fleksibel (300–450 mg/hari) bupropion pelepasan lanjutan untuk ADHD dewasa — bukti keberkesan/keselamatan langsung |
+| [NCT00061087](https://clinicaltrials.gov/study/NCT00061087) | Fasa 2/3 | Selesai | 115 | Rawatan ADHD dewasa dalam pesakit pada penyelenggaraan metadon |
+| [NCT00936299](https://clinicaltrials.gov/study/NCT00936299) | Fasa 4 | Selesai | 105 | Percubaan pengesahan pasca-pemasaran bupropion untuk ADHD dalam remaja dengan gangguan kegunaan bahan berkomplikasi |
+| [NCT01270555](https://clinicaltrials.gov/study/NCT01270555) | N/A | Selesai | 32 | Kajian terbuka bupropion SR untuk ADHD dewasa dengan gangguan kegunaan bahan baru-baru ini/semasa |
+| [NCT00000268](https://clinicaltrials.gov/study/NCT00000268) | N/A | Selesai | 32 | Percubaan awal menilai penyalahgunaan kokain dan Gangguan Defisit Perhatian berkomplikasi |
+| [NCT03326128](https://clinicaltrials.gov/study/NCT03326128) | Fasa 2 | Ditamatkan | 12 | Percubaan pelopor dos tinggi bupropion untuk berhenti merokok — bukan percubaan keberkesan ADHD, relevansi rendah |
+| [NCT04553263](https://clinicaltrials.gov/study/NCT04553263) | Fasa Awal 1 | Ditarik balik | 0 | Ditarik balik (0 didaftarkan); meneroka kesan bupropion/naltreksone pada kerinduan dan kawalan perencatan dalam gangguan kegunaan stimulan dengan/tanpa ADHD |
+| [NCT00330434](https://clinicaltrials.gov/study/NCT00330434) | N/A | Ditarik balik | 0 | Ditarik balik; kajian farmakokinetik/metabolisme CYP2B6, bukan percubaan keberkesan ADHD |
 
 ---
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [28965364](https://pubmed.ncbi.nlm.nih.gov/28965364/) | 2017 | Review (Cochrane) | Cochrane Database of Systematic Reviews | Cochrane systematic review specifically evaluating bupropion for adult ADHD |
-| [27813651](https://pubmed.ncbi.nlm.nih.gov/27813651/) | 2017 | Review | J Child Adolesc Psychopharmacol | Systematic review of bupropion use for ADHD in children and adolescents |
-| [37405312](https://pubmed.ncbi.nlm.nih.gov/37405312/) | 2023 | Review | Health Psychology Research | Review of bupropion's pharmacokinetics/dynamics and mechanisms across depression, ADHD, and smoking cessation |
-| [30097390](https://pubmed.ncbi.nlm.nih.gov/30097390/) | 2018 | Review (Network Meta-analysis) | The Lancet Psychiatry | Comparative efficacy/tolerability network meta-analysis of ADHD medications across age groups |
-| [33085721](https://pubmed.ncbi.nlm.nih.gov/33085721/) | 2020 | Review (Network Meta-analysis) | PLoS ONE | Systematic review and NMA of pharmacologic treatments for adult ADHD |
-| [38915262](https://pubmed.ncbi.nlm.nih.gov/38915262/) | 2024 | Review | Expert Rev Neurother | Review of current nonstimulant medications for adult ADHD |
-| [38950507](https://pubmed.ncbi.nlm.nih.gov/38950507/) | 2024 | Review (Bayesian NMA) | J Psychiatric Research | Bayesian network meta-analysis of monoamine reuptake inhibitors (incl. bupropion) in ADHD |
-| [26693882](https://pubmed.ncbi.nlm.nih.gov/26693882/) | 2016 | Review | Expert Rev Neurother | Systematic review of alternative pharmacological strategies for adult ADHD |
-| [26601963](https://pubmed.ncbi.nlm.nih.gov/26601963/) | 2016 | Review | Current Pharmaceutical Design | Review of ADHD psychopharmacology, listing bupropion among common treatment options |
-| [39172673](https://pubmed.ncbi.nlm.nih.gov/39172673/) | 2024 | Review | American Family Physician | Clinical review of ADHD diagnosis and treatment in adults |
+| [28965364](https://pubmed.ncbi.nlm.nih.gov/28965364/) | 2017 | Ulasan (Cochrane) | Cochrane Database of Systematic Reviews | Ulasan sistematik Cochrane yang secara khusus menilai bupropion untuk ADHD dewasa |
+| [27813651](https://pubmed.ncbi.nlm.nih.gov/27813651/) | 2017 | Ulasan | J Child Adolesc Psychopharmacol | Ulasan sistematik penggunaan bupropion untuk ADHD dalam kanak-kanak dan remaja |
+| [37405312](https://pubmed.ncbi.nlm.nih.gov/37405312/) | 2023 | Ulasan | Health Psychology Research | Ulasan tentang farmakokinetik/dinamik bupropion dan mekanisme merentasi kemurungan, ADHD, dan berhenti merokok |
+| [30097390](https://pubmed.ncbi.nlm.nih.gov/30097390/) | 2018 | Ulasan (Meta-analisis Rangkaian) | The Lancet Psychiatry | Meta-analisis rangkaian keberkesan/toleransi perbandingan ubat ADHD merentasi kumpulan umur |
+| [33085721](https://pubmed.ncbi.nlm.nih.gov/33085721/) | 2020 | Ulasan (Meta-analisis Rangkaian) | PLoS ONE | Ulasan sistematik dan NMA rawatan farmakologi untuk ADHD dewasa |
+| [38915262](https://pubmed.ncbi.nlm.nih.gov/38915262/) | 2024 | Ulasan | Expert Rev Neurother | Ulasan ubat bukan-stimulan semasa untuk ADHD dewasa |
+| [38950507](https://pubmed.ncbi.nlm.nih.gov/38950507/) | 2024 | Ulasan (NMA Bayesian) | J Psychiatric Research | Meta-analisis rangkaian Bayesian perencat pengambilan semula monoamin (termasuk bupropion) dalam ADHD |
+| [26693882](https://pubmed.ncbi.nlm.nih.gov/26693882/) | 2016 | Ulasan | Expert Rev Neurother | Ulasan sistematik strategi farmakologi alternatif untuk ADHD dewasa |
+| [26601963](https://pubmed.ncbi.nlm.nih.gov/26601963/) | 2016 | Ulasan | Current Pharmaceutical Design | Ulasan psikofarmakologi ADHD, menyenaraikan bupropion di kalangan pilihan rawatan biasa |
+| [39172673](https://pubmed.ncbi.nlm.nih.gov/39172673/) | 2024 | Ulasan | American Family Physician | Ulasan klinikal diagnosis dan rawatan ADHD pada dewasa |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Bupropion is registered in Malaysia with NPRA (**market status: Marketed, 2 total registrations**). However, this data pack does not contain the individual license numbers, product names, dosage forms, or approved indication text for these registrations — retrieving the NPRA product label (DG001) is required to complete this section.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information. Detailed warnings, contraindications, and drug–drug interaction data were not available in this evidence pack (flagged as DG001, a **Blocking** data gap — this must be resolved before any safety pre-assessment can proceed).
+Bupropion didaftarkan di Malaysia dengan NPRA (**status pasaran: Dipasarkan, 2 pendaftaran keseluruhan**). Bagaimanapun, paket data ini tidak mengandungi nombor lesen individu, nama produk, bentuk dos, atau teks petunjuk yang diluluskan untuk pendaftaran ini — pengambilan label produk NPRA (DG001) diperlukan untuk melengkapkan bahagian ini.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Proceed with Guardrails**
-
-**Rationale:**
-- The predicted indication is supported by strong, direct evidence: one completed Phase 3 RCT, several additional completed trials across relevant populations, and a Cochrane systematic review dedicated specifically to bupropion in adult ADHD, together with multiple network meta-analyses situating bupropion among recognized nonstimulant ADHD options (Evidence Level L1).
-- Despite this efficacy evidence, safety data (warnings, contraindications, DDI) is entirely missing from this pack, and NPRA-specific label content is also unavailable — both are prerequisites before any clinical or regulatory pathway can be pursued.
-
-**To proceed, the following is needed:**
-- TFDA/NPRA product label — warnings and contraindications (DG001, Blocking)
-- Confirmed DrugBank mechanism-of-action data (DG002)
-- Malaysia-specific license details and approved indication text for the 2 registered products
-- Formal drug–drug interaction (DDI) review, particularly for CYP2B6 substrates and seizure-threshold–lowering agents given bupropion's known class risk
+Sila rujuk sisipan paket untuk maklumat keselamatan. Data amaran terperinci, kontraindikasi, dan interaksi ubat–ubat tidak tersedia dalam paket bukti ini (ditandakan sebagai DG001, jurang data **Penyekat** — ini mesti diselesaikan sebelum mana-mana pra-penilaian keselamatan boleh diteruskan).
 
 ---
 
-*Note: Nine additional TxGNN-predicted indications for bupropion were reviewed in this evidence pack (rank 2–10). Rank 2 ("ADHD, inattentive type") is a clinical subtype of the primary indication above and inherits the same mechanistic rationale (L3, Research Question). Ranks 3–10 (e.g., faciodigitogenital syndrome, chondromyxoid fibroma, hypervitaminosis) had no supporting clinical trials or literature and were assessed as likely knowledge-graph embedding noise (L5, Hold) — they are not carried forward in this report.*
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Teruskan dengan Langkah Pengaman**
+
+**Rasional:**
+- Petunjuk yang diramalkan disokong oleh bukti yang kuat dan langsung: satu ujian rawak terkawal Fasa 3 yang telah selesai, beberapa percubaan tambahan yang telah selesai merentasi populasi yang relevan, dan ulasan sistematik Cochrane yang didedikasikan khusus kepada bupropion dalam ADHD dewasa, bersama-sama dengan pelbagai meta-analisis rangkaian yang meletakkan bupropion di antara pilihan ADHD bukan-stimulan yang diiktiraf (Paras Bukti L1).
+- Walaupun terdapat bukti keberkesan ini, data keselamatan (amaran, kontraindikasi, DDI) sepenuhnya hilang daripada paket ini, dan kandungan label khusus NPRA juga tidak tersedia — kedua-duanya adalah syarat awal sebelum mana-mana laluan klinikal atau kawal selia boleh ditubuhkan.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Label produk TFDA/NPRA — amaran dan kontraindikasi (DG001, Penyekat)
+- Data mekanisme tindakan DrugBank yang disahkan (DG002)
+- Butiran lesen khusus Malaysia dan teks petunjuk yang diluluskan untuk 2 produk berdaftar
+- Semakan interaksi ubat–ubat (DDI) formal, khususnya untuk substrat CYP2B6 dan agen yang menurunkan ambang sawan memandangkan risiko kelas bupropion yang diketahui
+
+---
+
+*Nota: Sembilan petunjuk tambahan yang diramalkan TxGNN untuk bupropion telah disemak dalam paket bukti ini (peringkat 2–10). Peringkat 2 ("ADHD, jenis kurang perhatian") ialah subtipe klinikal petunjuk utama di atas dan mewarisi rasional mekanika yang sama (L3, Soalan Penyelidikan). Peringkat 3–10 (cth., sindrom faciodigitogenital, fibroma kondromiksoida, hipervitaminosis) tidak mempunyai percubaan klinikal atau literatur yang menyokong dan dinilai sebagai kemungkinan gangguan penyisipan graf pengetahuan (L5, Tahan) — ia tidak dibawa ke hadapan dalam laporan ini.*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

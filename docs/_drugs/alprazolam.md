@@ -29,111 +29,112 @@ Tahap bukti: **L3** | Indikasi diramal: **3**
 
 </div>
 
-# Alprazolam: From Anxiety and Panic Disorders to Insomnia
+# Alprazolam: Dari Gangguan Kebimbangan dan Panik hingga Insomnia
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Alprazolam is a benzodiazepine derivative primarily used for anxiety and panic disorders, acting through positive modulation of GABA-A receptors to produce sedative and anxiolytic effects.
-The TxGNN model predicts it may be effective for **Insomnia**, with **7 clinical trials** and **18 publications** currently supporting this direction.
-However, most clinical trial evidence is indirect, and the primary pharmacological basis rests on alprazolam's established sedative-hypnotic properties rather than dedicated insomnia indication trials.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Anxiety and panic disorders (NPRA approved indication text not retrievable from current data) |
-| Predicted New Indication | Insomnia |
-| TxGNN Prediction Score | 99.81% |
-| Evidence Level | L3 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 14 |
-| Recommended Decision | Proceed with Guardrails |
+Alprazolam ialah derivatif benzodiazpin yang digunakan terutamanya untuk gangguan kebimbangan dan panik, bertindak melalui modulasi positif reseptor GABA-A untuk menghasilkan kesan sedatif dan anxiolitic.
+Model TxGNN meramalkan ia mungkin berkesan untuk **Insomnia**, dengan **7 percubaan klinikal** dan **18 penerbitan** kini menyokong hala tuju ini.
+Walau bagaimanapun, kebanyakan bukti percubaan klinikal adalah tidak langsung, dan asas farmakologi utama terletak pada sifat sedatif-hipnotik alprazolam yang telah ditubuhkan daripada percubaan khusus petunjuk insomnia.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Pantas
 
-Alprazolam positively modulates GABA-A receptor chloride ion channels, enhancing inhibitory GABAergic neurotransmission across the central nervous system. This mechanism produces dose-dependent sedation and hypnotic effects — specifically shortening sleep-onset latency and increasing total sleep time — which directly underpins the TxGNN model's prediction of efficacy in insomnia. The drug's rapid onset of action (Tmax 1–2 hours) further supports its pharmacological plausibility as a sleep-onset aid.
-
-The mechanistic overlap between anxiety management and sleep induction is clinically well-recognised: anxiety-driven hyperarousal is a leading cause of sleep-onset insomnia, and alprazolam's dual anxiolytic-sedative profile makes it pharmacologically rational for patients with comorbid anxiety and insomnia. Comparative studies in specialty populations (e.g., haemodialysis patients with end-stage renal disease) have demonstrated alprazolam's ability to improve subjective and objective sleep quality metrics, lending real-world support to the model prediction.
-
-Nonetheless, important mechanistic limitations must be acknowledged. Alprazolam's half-life of 6–27 hours raises concern for next-day residual sedation ("hangover effect"), unlike ultra-short-acting benzodiazepines such as triazolam. More critically, long-term use suppresses slow-wave sleep and REM sleep architecture, potentially worsening overall sleep quality over time. These pharmacokinetic and pharmacodynamic constraints mean that while the TxGNN prediction is mechanistically sound, alprazolam is not considered an optimal first-line hypnotic agent under current sleep medicine guidelines.
+| Item | Kandungan |
+|------|-----------|
+| Petunjuk Asal | Gangguan kebimbangan dan panik (teks petunjuk yang diluluskan NPRA tidak boleh diambil daripada data semasa) |
+| Petunjuk Baru yang Diramalkan | Insomnia |
+| Skor Ramalan TxGNN | 99.81% |
+| Tahap Bukti | L3 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 14 |
+| Keputusan yang Disyorkan | Teruskan dengan Penjaga |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Alprazolam secara positif memodulasi saluran ion klorida reseptor GABA-A, meningkatkan penghantaran neurotransmisi GABAergik inhibitori di seluruh sistem saraf pusat. Mekanisme ini menghasilkan kesan sedasi dan hipnotik yang bergantung kepada dos — khususnya memendekkan kependaman permulaan tidur dan meningkatkan jumlah masa tidur — yang secara langsung menyokong ramalan model TxGNN tentang keberkesanan dalam insomnia. Permulaan tindakan pantas ubat (Tmax 1–2 jam) seterusnya menyokong kerasionalan farmakologi alprazolam sebagai bantuan permulaan tidur.
+
+Pertindihan mekanistik antara pengurusan kebimbangan dan induksi tidur diakui secara klinikal dengan baik: hipereksitasi yang didorong oleh kebimbangan adalah punca utama insomnia permulaan tidur, dan profil dual anxiolitic-sedatif alprazolam menjadikannya rasional dari segi farmakologi untuk pesakit dengan kebimbangan komorbid dan insomnia. Kajian perbandingan dalam populasi khususan (mis., pesakit hemodialisis dengan penyakit ginjal peringkat akhir) telah menunjukkan keupayaan alprazolam untuk meningkatkan metrik kualiti tidur subjektif dan objektif, memberikan sokongan dunia nyata kepada ramalan model.
+
+Walau bagaimanapun, batasan mekanistik penting mesti diakui. Separuh hayat alprazolam 6–27 jam menimbulkan kebimbangan tentang sedasi sisa hari berikutnya ("kesan mabuk"), tidak seperti benzodiazpin bertindak ultra-pendek seperti triazolam. Lebih kritikal lagi, penggunaan jangka panjang menindas tidur gelombang lambat dan seni bina tidur REM, berkemungkinan memburukkan kualiti tidur keseluruhan dari masa ke masa. Batasan farmakokinetik dan farmakodinamik ini bermakna bahawa walaupun ramalan TxGNN adalah munasabah dari segi mekanistik, alprazolam tidak dianggap agen hipnotik baris pertama yang optimal di bawah garis panduan ubat tidur semasa.
+
+---
+
+## Bukti Percubaan Klinikal
+
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT02648776](https://clinicaltrials.gov/study/NCT02648776) | N/A | Unknown | 1,400 | Prospective cohort in Taiwan examining risks and benefits of hypnotics — including benzodiazepines — in elderly patients with sleep disorders; covers alprazolam-relevant patient population and evaluates clinical, pharmacokinetic, and pharmacogenetic outcomes |
-| [NCT00266409](https://clinicaltrials.gov/study/NCT00266409) | Phase 4 | Completed | 418 | Multicenter open-label RCT comparing Niravam™ (alprazolam orally disintegrating tablet) added to a newly prescribed SSRI/SNRI vs SSRI/SNRI alone in patients with GAD or panic disorder; evaluates time to symptomatic response |
-| [NCT01584440](https://clinicaltrials.gov/study/NCT01584440) | Phase 2 | Completed | 220 | Randomised double-blind placebo-controlled trial of AVP-923 (dextromethorphan/quinidine) for agitation in Alzheimer's disease; provides context for CNS-active drug assessment in elderly patients with sleep-behaviour overlap |
-| [NCT04572750](https://clinicaltrials.gov/study/NCT04572750) | N/A | Completed | 170 | Electronic self-management intervention to promote benzodiazepine cessation among Veterans; contextualises long-term BZD risks including dependence and cognitive effects of alprazolam class |
-| [NCT03327506](https://clinicaltrials.gov/study/NCT03327506) | Phase 4 | Unknown | 128 | Hypnosis versus alprazolam premedication for perioperative anxiety in gynaecological surgery; alprazolam used as active pharmacological comparator for acute anxiolytic-sedative effect |
-| [NCT01146600](https://clinicaltrials.gov/study/NCT01146600) | Phase 2 | Completed | 26 | Clarithromycin for treatment of hypersomnia; inverse sleep condition study providing mechanistic contrast relevant to GABAergic sleep modulation |
-| [NCT01893632](https://clinicaltrials.gov/study/NCT01893632) | Phase 2 | Terminated | 2 | Gabapentin for benzodiazepine dependence; terminated early due to insufficient enrolment (n=2); provides class-level dependence management context |
+| [NCT02648776](https://clinicaltrials.gov/study/NCT02648776) | N/A | Tidak diketahui | 1,400 | Kohort prospektif di Taiwan mengkaji risiko dan faedah hipnotik — termasuk benzodiazpin — pada pesakit warga tua dengan gangguan tidur; meliputi populasi pesakit yang relevan dengan alprazolam dan menilai hasil klinikal, farmakokinetik, dan farmakogenetik |
+| [NCT00266409](https://clinicaltrials.gov/study/NCT00266409) | Fasa 4 | Selesai | 418 | Uji coba RCT terbuka berbilang pusat membandingkan Niravam™ (tablet alprazolam yang mudah larut secara oral) ditambahkan kepada SSRI/SNRI yang baru diprescribekan berbanding SSRI/SNRI sahaja pada pesakit dengan GAD atau gangguan panik; menilai masa untuk respons simptomatik |
+| [NCT01584440](https://clinicaltrials.gov/study/NCT01584440) | Fasa 2 | Selesai | 220 | Uji coba terkawal plasebo berganda rawak AVP-923 (dekstrometorfan/kinidin) untuk agitasi dalam penyakit Alzheimer; memberikan konteks untuk penilaian ubat aktif CNS pada pesakit warga tua dengan pertindihan tingkah laku tidur |
+| [NCT04572750](https://clinicaltrials.gov/study/NCT04572750) | N/A | Selesai | 170 | Campur tangan pengurusan kendiri elektronik untuk menggalakkan penghentian benzodiazpin di kalangan Veteran; mengontekstualizasikan risiko BZD jangka panjang termasuk kebergantungan dan kesan kognitif kelas alprazolam |
+| [NCT03327506](https://clinicaltrials.gov/study/NCT03327506) | Fasa 4 | Tidak diketahui | 128 | Hipnosis berbanding pramedicasi alprazolam untuk kebimbangan perioperatif dalam pembedahan ginekologi; alprazolam digunakan sebagai perbandingan farmakologi aktif untuk kesan anxiolitic-sedatif akut |
+| [NCT01146600](https://clinicaltrials.gov/study/NCT01146600) | Fasa 2 | Selesai | 26 | Klaritromisin untuk rawatan hipersomnia; kajian keadaan tidur songsang memberikan kontras mekanistik yang relevan dengan modulasi tidur GABAergik |
+| [NCT01893632](https://clinicaltrials.gov/study/NCT01893632) | Fasa 2 | Dibatalkan | 2 | Gabapentin untuk kebergantungan benzodiazpin; dibatalkan awal disebabkan pendaftaran yang tidak mencukupi (n=2); memberikan konteks pengurusan kebergantungan peringkat kelas |
 
-> **Note:** No clinical trials directly evaluating alprazolam as a primary investigational treatment for insomnia were identified in ClinicalTrials.gov. The above trials provide indirect evidence through hypnotic drug class context, alprazolam as comparator, or BZD risk characterisation in populations with sleep disorders.
+> **Nota:** Tiada percubaan klinikal yang secara langsung menilai alprazolam sebagai rawatan penyiasatan utama untuk insomnia telah dikenalpasti di ClinicalTrials.gov. Percubaan di atas memberikan bukti tidak langsung melalui konteks kelas ubat hipnotik, alprazolam sebagai perbandingan, atau pencirian risiko BZD dalam populasi dengan gangguan tidur.
 
 ---
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [33403184](https://pubmed.ncbi.nlm.nih.gov/33403184/) | 2020 | Comparative RCT | Cureus | Head-to-head comparison of alprazolam vs melatonin for sleep disorders in haemodialysis patients; directly evaluates alprazolam efficacy for improving subjective and objective sleep quality in ESRD |
-| [39183410](https://pubmed.ncbi.nlm.nih.gov/39183410/) | 2024 | RCT (Integrative Therapy) | Medicine | Alprazolam used as active control in 116 patients with comorbid coronary heart disease and insomnia; experimental group received Du Meridian moxibustion + ear acupuncture; demonstrates alprazolam's real-world role as a standard-of-care comparator for insomnia |
-| [36692463](https://pubmed.ncbi.nlm.nih.gov/36692463/) | 2023 | Meta-analysis | Acta Pharmaceutica (Zagreb) | Systematic review and meta-analysis of randomised and observational studies on tranquilisers (including BZDs) in elderly patients with chronic diseases; assesses optimal dose, type, efficacy outcomes, and adverse effect profiles |
-| [37801512](https://pubmed.ncbi.nlm.nih.gov/37801512/) | 2023 | Preclinical Study | Aging | Proteomic analysis in mice showing repeated alprazolam administration causes hippocampal mitochondrial dysfunction and memory consolidation impairment; reveals molecular mechanisms underlying long-term cognitive safety concerns |
-| [37984023](https://pubmed.ncbi.nlm.nih.gov/37984023/) | 2024 | Epidemiological Analysis | Value in Health Regional Issues | 10-year predictive model of benzodiazepine use trends; documents BZD prescription for insomnia alongside anxiety and mood disorders, and quantifies long-term risks including Alzheimer's disease, dependence, falls, and traffic accidents |
-| [38363887](https://pubmed.ncbi.nlm.nih.gov/38363887/) | 2024 | Cross-sectional Study | Medicine | Cross-sectional study of insomnia prevalence and risk factors in COVID-19 survivors (Dec 2022–Feb 2023); contextualises the contemporary rise in insomnia burden and treatment demand |
-| [25532388](https://pubmed.ncbi.nlm.nih.gov/25532388/) | 2014 | Real-world Analysis | China Journal of Chinese Materia Medica | Real-world analysis of 1,067 insomnia patients from 20 Chinese hospitals; maps concurrent disease patterns (hypertension 26.9%, cerebrovascular disease) and medication use including Western hypnotics (benzodiazepine class) |
-| [15341891](https://pubmed.ncbi.nlm.nih.gov/15341891/) | 2004 | Observational Study | Sleep Medicine | Large managed-care prescription pattern analysis for insomnia treatment; documents decline in dedicated hypnotic use over a decade and corresponding increase in non-hypnotic prescribing including benzodiazepines for insomnia |
-| [23330992](https://pubmed.ncbi.nlm.nih.gov/23330992/) | 2013 | Pharmacology Review | Expert Opinion on Drug Metabolism & Toxicology | Comprehensive review of anxiolytic drug pharmacokinetics; covers alprazolam absorption, distribution, half-life variability (6–27 hours), and clinical implications for daytime residual effects |
-| [35041261](https://pubmed.ncbi.nlm.nih.gov/35041261/) | 2022 | RCT | Brain and Behavior | Randomised controlled trial of eszopiclone for sleep quality and cognitive function in elderly Alzheimer's patients with sleep disorders; provides comparative hypnotic class context for evaluating non-BZD alternatives |
+| [33403184](https://pubmed.ncbi.nlm.nih.gov/33403184/) | 2020 | RCT Perbandingan | Cureus | Perbandingan kepala-ke-kepala alprazolam berbanding melatonin untuk gangguan tidur pada pesakit hemodialisis; secara langsung menilai keberkesanan alprazolam untuk meningkatkan kualiti tidur subjektif dan objektif dalam ESRD |
+| [39183410](https://pubmed.ncbi.nlm.nih.gov/39183410/) | 2024 | RCT (Terapi Integratif) | Medicine | Alprazolam digunakan sebagai kawalan aktif dalam 116 pesakit dengan penyakit jantung koroner dan insomnia komorbid; kumpulan eksperimental menerima moksibusi Du Meridian + akupunktur telinga; menunjukkan peranan dunia nyata alprazolam sebagai perbandingan penjagaan standard untuk insomnia |
+| [36692463](https://pubmed.ncbi.nlm.nih.gov/36692463/) | 2023 | Meta-analisis | Acta Pharmaceutica (Zagreb) | Ulasan sistematik dan meta-analisis kajian rawak dan pemerhatian tentang penenang (termasuk BZD) pada pesakit warga tua dengan penyakit kronik; menilai dos optimal, jenis, hasil keberkesanan, dan profil kesan sampingan |
+| [37801512](https://pubmed.ncbi.nlm.nih.gov/37801512/) | 2023 | Kajian Preklinikal | Aging | Analisis proteomik dalam tikus menunjukkan pemberian alprazolam berulang menyebabkan disfungsi mitokondria hippocampal dan gangguan penyatuan ingatan; mendedahkan mekanisme molekul yang mendasari kebimbangan keselamatan kognitif jangka panjang |
+| [37984023](https://pubmed.ncbi.nlm.nih.gov/37984023/) | 2024 | Analisis Epidemiologi | Value in Health Regional Issues | Model ramalan 10 tahun bagi trend penggunaan benzodiazpin; mendokumentasikan resep BZD untuk insomnia bersama gangguan kebimbangan dan suasana hati, dan mengukur risiko jangka panjang termasuk penyakit Alzheimer, kebergantungan, jatuh, dan kemalangan lalu lintas |
+| [38363887](https://pubmed.ncbi.nlm.nih.gov/38363887/) | 2024 | Kajian Keratan Lintang | Medicine | Kajian keratan lintang prevalans insomnia dan faktor risiko pada survivor COVID-19 (Dis 2022–Feb 2023); mengontekstualizasikan kebangkitan kontemporari dalam beban insomnia dan permintaan rawatan |
+| [25532388](https://pubmed.ncbi.nlm.nih.gov/25532388/) | 2014 | Analisis Dunia Nyata | China Journal of Chinese Materia Medica | Analisis dunia nyata 1,067 pesakit insomnia dari 20 hospital China; memetakan pola penyakit setempat (hipertensi 26.9%, penyakit serebrovaskular) dan penggunaan ubat termasuk hipnotik Barat (kelas benzodiazpin) |
+| [15341891](https://pubmed.ncbi.nlm.nih.gov/15341891/) | 2004 | Kajian Pemerhatian | Sleep Medicine | Analisis pola preskripsi penjagaan terurus besar untuk rawatan insomnia; mendokumentasikan penurunan dalam penggunaan hipnotik khusus sepanjang dekad dan peningkatan preskripsi non-hipnotik yang sepadan termasuk benzodiazpin untuk insomnia |
+| [23330992](https://pubmed.ncbi.nlm.nih.gov/23330992/) | 2013 | Ulasan Farmakologi | Expert Opinion on Drug Metabolism & Toxicology | Ulasan komprehensif farmakokinetik ubat anxiolitic; meliputi penyerapan alprazolam, distribusi, variabiliti separuh hayat (6–27 jam), dan implikasi klinikal untuk kesan sisa siang hari |
+| [35041261](https://pubmed.ncbi.nlm.nih.gov/35041261/) | 2022 | RCT | Brain and Behavior | Uji coba terkawal rawak eszopiclone untuk kualiti tidur dan fungsi kognitif pada pesakit Alzheimer warga tua dengan gangguan tidur; memberikan konteks kelas hipnotik perbandingan untuk menilai alternatif non-BZD |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-NPRA registration data confirms **14 product authorisations** for alprazolam in Malaysia, and the drug is currently marketed. However, individual product details — including authorisation numbers, product names, dosage forms, manufacturers, and approved indication text — were not returned in the current NPRA data extract.
+Data pendaftaran NPRA mengesahkan **14 kebenaran produk** untuk alprazolam di Malaysia, dan ubat itu kini dipasarkan. Walau bagaimanapun, butiran produk individu — termasuk nombor kebenaran, nama produk, bentuk dos, pengeluar, dan teks petunjuk yang diluluskan — tidak dikembalikan dalam ekstrak data NPRA semasa.
 
-> **Data Note:** Detailed product registration records were not available from the NPRA query at this time. Direct verification via the NPRA official product registry is required to confirm currently approved indications, registered dosage forms, and marketing authorisation holders.
-
----
-
-## Safety Considerations
-
-Formal warning and contraindication data from the NPRA package insert were not available for this evaluation. Please refer to the registered package insert for complete safety information.
-
-Based on well-established evidence from the published literature and the drug class profile, the following safety considerations are relevant for clinical decision-making:
-
-- **Dependence and withdrawal**: Long-term benzodiazepine use carries significant risk of physical dependence; abrupt discontinuation can precipitate withdrawal seizures and rebound anxiety/insomnia
-- **CNS depression**: Drowsiness, psychomotor slowing, and cognitive impairment are common, particularly in elderly patients
-- **Falls and fractures**: Elevated risk of falls in older adults, especially in the elderly population
-- **Sleep architecture disruption**: Chronic use suppresses slow-wave sleep (SWS) and REM sleep, potentially worsening long-term sleep quality
-- **Respiratory depression**: Potentially serious risk when combined with opioids, alcohol, or other CNS depressants
-- **Memory impairment**: Anterograde amnesia and hippocampus-dependent memory consolidation deficits documented in both human and animal studies
+> **Nota Data:** Rekod pendaftaran produk terperinci tidak tersedia daripada pertanyaan NPRA pada masa ini. Pengesahan langsung melalui daftar produk rasmi NPRA diperlukan untuk mengesahkan petunjuk yang diluluskan kini, bentuk dos yang didaftarkan, dan pemegang kebenaran pemasaran.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Proceed with Guardrails**
+Data amaran rasmi dan data kontaindikasi daripada sisipan pakej NPRA tidak tersedia untuk penilaian ini. Sila rujuk sisipan pakej yang didaftarkan untuk maklumat keselamatan lengkap.
 
-**Rationale:**
-Alprazolam's GABA-A receptor mechanism provides a pharmacologically sound basis for sedative-hypnotic activity in insomnia, and L3-level evidence from observational studies and comparative real-world trials confirms its use for sleep disturbances in clinical practice. However, no dedicated Phase 2/3 RCT for alprazolam in primary insomnia has been identified, long-term use is associated with sleep architecture deterioration and dependence risk, and alprazolam is not recommended as a first-line hypnotic under current international guidelines.
+Berdasarkan bukti yang terbina dengan kukuh daripada literatur yang diterbitkan dan profil kelas ubat, pertimbangan keselamatan berikut relevan untuk membuat keputusan klinikal:
 
-**To proceed, the following is needed:**
+- **Kebergantungan dan pengeluaran**: Penggunaan benzodiazpin jangka panjang membawa risiko ketara kebergantungan fizikal; penghentian tiba-tiba boleh mencetuskan sawan pengeluaran dan kebimbangan/insomnia yang melantik semula
+- **Penindasan CNS**: Mengantuk, kelembapan psikomotor, dan gangguan kognitif adalah perkara biasa, terutamanya pada pesakit warga tua
+- **Jatuh dan patah tulang**: Risiko jatuh yang meningkat pada orang dewasa yang lebih tua, terutamanya dalam populasi warga tua
+- **Gangguan seni bina tidur**: Penggunaan kronik menindas tidur gelombang lambat (SWS) dan tidur REM, berkemungkinan memburukkan kualiti tidur jangka panjang
+- **Penindasan respiratori**: Risiko yang berpotensi serius apabila digabungkan dengan opioid, alkohol, atau penekan CNS lain
+- **Gangguan ingatan**: Amnesia anterograd dan defisit penyatuan ingatan bergantung hippocampus yang terdokumentasi dalam kajian manusia dan hewan
 
-- Retrieve NPRA-approved indication text to confirm whether insomnia or sleep disorders are already listed as a registered indication in Malaysia
-- Obtain the full registered package insert for complete warning, contraindication, and drug interaction data
-- Clarify the regulatory status of alprazolam as a scheduled/controlled substance in Malaysia and applicable prescription restrictions
-- Commission a systematic review or meta-analysis specifically for alprazolam in primary insomnia to establish whether L2 evidence can be documented
-- Design a pharmacovigilance monitoring plan addressing dependence risk, cognitive effects, and falls — particularly for elderly patients and those with renal or hepatic impairment
-- Define clinical positioning relative to guideline-recommended first-line insomnia treatments (Cognitive Behavioural Therapy for Insomnia [CBT-I], non-benzodiazepine hypnotics such as zolpidem or eszopiclone) to determine where alprazolam adds clinical value
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Teruskan dengan Penjaga**
+
+**Rasional:**
+Mekanisme reseptor GABA-A alprazolam memberikan asas farmakologi yang munasabah untuk aktiviti sedatif-hipnotik dalam insomnia, dan bukti peringkat L3 daripada kajian pemerhatian dan percubaan perbandingan dunia nyata mengesahkan penggunaannya untuk gangguan tidur dalam amalan klinikal. Walau bagaimanapun, tiada RCT berdedikasi Fasa 2/3 untuk alprazolam dalam insomnia utama telah dikenalpasti, penggunaan jangka panjang dikaitkan dengan kerosakan seni bina tidur dan risiko kebergantungan, dan alprazolam tidak disyorkan sebagai agen hipnotik baris pertama di bawah garis panduan antarabangsa semasa.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+
+- Ambil teks petunjuk yang diluluskan NPRA untuk mengesahkan sama ada insomnia atau gangguan tidur sudah terdaftar sebagai petunjuk dalam Malaysia
+- Dapatkan sisipan pakej yang didaftarkan sepenuhnya untuk data amaran lengkap, kontaindikasi, dan interaksi ubat
+- Jelaskan status pengawalseliaan alprazolam sebagai zat terjadual/terkawal di Malaysia dan sekatan preskripsi yang terpakai
+- Gerakkan ulasan sistematik atau meta-analisis khusus untuk alprazolam dalam insomnia utama untuk memastikan sama ada bukti L2 boleh didokumentasikan
+- Reka pelan pemantauan farmakovigilans yang menangani risiko kebergantungan, kesan kognitif, dan jatuh — terutamanya untuk pesakit warga tua dan mereka yang mempunyai rosak ginjal atau hati
+- Tentukan kedudukan klinikal berbanding rawatan insomnia yang disyorkan garis panduan baris pertama (Terapi Tingkah Laku Kognitif untuk Insomnia [CBT-I], hipnotik bukan benzodiazpin seperti zolpidem atau eszopiclone) untuk menentukan tempat alprazolam menambah nilai klinikal
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

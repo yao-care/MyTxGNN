@@ -29,75 +29,76 @@ Tahap bukti: **L3** | Indikasi diramal: **10**
 
 </div>
 
-# Meropenem: From Serious Bacterial Infections to Bacterial Arthritis
+# Meropenem: Daripada Jangkitan Bakteri Serius kepada Artritis Bakteri
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Meropenem is a broad-spectrum carbapenem antibiotic used for serious bacterial infections. The TxGNN model predicts it may be effective for **Bacterial Arthritis**, with **1 clinical trial** and **20 publications** currently identified in the evidence pool — though most of this evidence is indirect (case reports and susceptibility/observational studies rather than trials designed specifically for this indication).
+Meropenem adalah antibiotik spektrum luas jenis carbapenem yang digunakan untuk jangkitan bakteri serius. Model TxGNN meramalkan ia mungkin berkesan untuk **Artritis Bakteri**, dengan **1 uji klinis** dan **20 penerbitan** yang telah dikenal pasti dalam kumpulan bukti — walaupun kebanyakan bukti ini adalah tidak langsung (laporan kes dan kajian kerentanan/pemerhatian dan bukannya uji klinis yang dirancang khusus untuk indikasi ini).
 
-## Quick Overview
+## Gambaran Keseluruhan Cepat
 
-| Item | Content |
-|------|------|
-| Original Indication | Not captured in current dataset — TFDA/NPRA license records were returned with empty indication text (5 licenses on file, all blank). Meropenem is broadly known as a carbapenem antibiotic for serious bacterial infections. |
-| Predicted New Indication | Bacterial Arthritis |
-| TxGNN Prediction Score | 99.92% |
-| Evidence Level | L3 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 25 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Tidak tertangkap dalam set data semasa — rekod lesen TFDA/NPRA dikembalikan dengan teks indikasi kosong (5 lesen pada fail, semuanya kosong). Meropenem diketahui secara meluas sebagai antibiotik carbapenem untuk jangkitan bakteri serius. |
+| Indikasi Baru yang Diramalkan | Artritis Bakteri |
+| Skor Ramalan TxGNN | 99.92% |
+| Tahap Bukti | L3 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Marketed) |
+| Bilangan Pendaftaran | 25 |
+| Keputusan Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Wajar?
 
-Detailed mechanism of action data is not available in the structured dataset (data gap DG002). Based on known pharmacology, meropenem is a broad-spectrum carbapenem that inhibits bacterial cell wall synthesis by binding penicillin-binding proteins (PBPs), producing bactericidal activity against a wide range of Gram-positive and Gram-negative organisms, including anaerobes and many multidrug-resistant (MDR) pathogens.
+Data mekanisme tindakan terperinci tidak tersedia dalam set data berstruktur (celah data DG002). Berdasarkan farmakoloji yang diketahui, meropenem adalah carbapenem spektrum luas yang menghalang sintesis dinding sel bakteri dengan mengikat protein pengikat penisilin (PBPs), menghasilkan aktiviti bakterisidal terhadap pelbagai organisma Gram-positif dan Gram-negatif, termasuk anaerob dan banyak patogen rintang-berbilang ubat (MDR).
 
-Bacterial (septic) arthritis is typically caused by organisms that fall within meropenem's spectrum — *Staphylococcus aureus*, streptococci, Gram-negative bacilli (including *Pseudomonas aeruginosa*), and in tropical/endemic settings, *Burkholderia pseudomallei* (melioidosis). Several of the retrieved publications specifically describe musculoskeletal and osteoarticular melioidosis where isolates remained susceptible to meropenem, and pharmacokinetic literature supports adequate bone/joint tissue and cement-elution penetration.
+Artritis bakteri (septik) biasanya disebabkan oleh organisma yang termasuk dalam spektrum meropenem — *Staphylococcus aureus*, streptococci, bacilli Gram-negatif (termasuk *Pseudomonas aeruginosa*), dan dalam tetapan tropis/endemik, *Burkholderia pseudomallei* (melioidosis). Beberapa penerbitan yang diambil secara khusus menerangkan melioidosis muskuloskeletal dan osteoartikular di mana isolat kekal sensitif terhadap meropenem, dan kesusasteraan farmakokinetik menyokong penetrasi tisu tulang/sendi dan pengeluaran simen yang memadai.
 
-Mechanistically, this supports meropenem as a plausible carbapenem option for MDR or polymicrobial septic arthritis when first-line agents (e.g., cefazolin, vancomycin, ceftriaxone) are inadequate — but this is a rescue/salvage-therapy rationale rather than evidence of first-line efficacy, and no trial in the evidence pack directly tests meropenem against bacterial arthritis as a primary endpoint.
+Secara mekanik, ini menyokong meropenem sebagai pilihan carbapenem yang munasabah untuk artritis septik rintang-MDR atau polimikrob apabila agen lini pertama (cth. cefazolin, vancomycin, ceftriaxone) tidak mencukupi — tetapi ini adalah nisbah terapi penyelamat/salvage dan bukannya bukti keberkesanan lini pertama, dan tiada uji dalam bungkus bukti secara langsung menguji meropenem terhadap artritis bakteri sebagai titik akhir utama.
 
-## Clinical Trial Evidence
+## Bukti Uji Klinis
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Uji | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT01371656](https://clinicaltrials.gov/study/NCT01371656) | Phase 3 | Completed | 624 | Studied levofloxacin (not meropenem) for infection prevention in children with acute leukemia/HSCT. Not a direct efficacy trial of meropenem in bacterial arthritis — included here as the only trial the search surfaced for this indication; relevance is unconfirmed (marked "pending" in the source data). |
+| [NCT01371656](https://clinicaltrials.gov/study/NCT01371656) | Fasa 3 | Selesai | 624 | Mengkaji levofloxacin (bukan meropenem) untuk pencegahan jangkitan pada kanak-kanak dengan leukemia akut/HSCT. Bukan uji keberkesanan langsung meropenem dalam artritis bakteri — disertakan di sini sebagai satu-satunya uji pencarian permukaan untuk indikasi ini; relevansi tidak disahkan (ditandai "tertunda" dalam data sumber). |
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [39489417](https://pubmed.ncbi.nlm.nih.gov/39489417/) | 2024 | Retrospective cohort | Indian Journal of Medical Microbiology | 22 musculoskeletal melioidosis cases (9 septic arthritis, 12 osteomyelitis); all isolates susceptible to meropenem. |
-| [35146367](https://pubmed.ncbi.nlm.nih.gov/35146367/) | 2021 | Retrospective cohort | Le Infezioni in Medicina | Characterizes patients with osteoarticular melioidosis, a rare focal presentation treatable with carbapenems. |
-| [39193962](https://pubmed.ncbi.nlm.nih.gov/39193962/) | 2024 | Cohort/lab | Clinical Laboratory | Pathogen distribution and antimicrobial resistance in bone and joint infections in children under 4. |
-| [38139869](https://pubmed.ncbi.nlm.nih.gov/38139869/) | 2023 | Case report | Pharmaceuticals (Basel) | Septic arthritis of the hip from rare *Bacillus*/*Paenibacillus* species, managed with long-term linezolid. |
-| [33857030](https://pubmed.ncbi.nlm.nih.gov/33857030/) | 2021 | In vitro/PK | J Bone Joint Surg Am | Thermal stability and elution kinetics of meropenem (among others) in PMMA bone cement for orthopaedic infection use. |
-| [37713001](https://pubmed.ncbi.nlm.nih.gov/37713001/) | 2024 | Cohort/antibiogram | Eur J Orthop Surg Traumatol | Antibiogram development for empiric antibiotic strategy in non-spinal orthopaedic infections including septic arthritis. |
-| [31319190](https://pubmed.ncbi.nlm.nih.gov/31319190/) | 2019 | Animal model | Int J Antimicrob Agents | Colistin-cement spacer combined with systemic antibiotics in a rabbit model of carbapenemase-producing *K. pneumoniae* prosthetic joint infection. |
-| [38134096](https://pubmed.ncbi.nlm.nih.gov/38134096/) | 2023 | Case report | Medicine | *Campylobacter fetus*-induced psoas abscess in a patient with gouty arthritis. |
-| [39681779](https://pubmed.ncbi.nlm.nih.gov/39681779/) | 2025 | PK study | Clinical Pharmacokinetics | Population pharmacokinetics of meropenem across the adult lifespan, informing dosing for serious infections. |
-| [36804370](https://pubmed.ncbi.nlm.nih.gov/36804370/) | 2023 | Review | Int J Antimicrob Agents | Review of off-label vs. formal-recommendation antibiotic use (including carbapenems) for MDR/XDR bacterial infections. |
+| [39489417](https://pubmed.ncbi.nlm.nih.gov/39489417/) | 2024 | Kohort retrospektif | Indian Journal of Medical Microbiology | 22 kes melioidosis muskuloskeletal (9 artritis septik, 12 osteomielitis); semua isolat sensitif terhadap meropenem. |
+| [35146367](https://pubmed.ncbi.nlm.nih.gov/35146367/) | 2021 | Kohort retrospektif | Le Infezioni in Medicina | Mencirikan pesakit dengan melioidosis osteoartikular, persembahan fokal yang jarang dapat dirawat dengan carbapenem. |
+| [39193962](https://pubmed.ncbi.nlm.nih.gov/39193962/) | 2024 | Kohort/makmal | Clinical Laboratory | Pengedaran patogen dan rintangan antimikrob dalam jangkitan tulang dan sendi pada kanak-kanak bawah 4 tahun. |
+| [38139869](https://pubmed.ncbi.nlm.nih.gov/38139869/) | 2023 | Laporan kes | Pharmaceuticals (Basel) | Artritis septik pinggul daripada spesies *Bacillus*/*Paenibacillus* yang jarang, diurus dengan linezolid jangka panjang. |
+| [33857030](https://pubmed.ncbi.nlm.nih.gov/33857030/) | 2021 | In vitro/PK | J Bone Joint Surg Am | Kestabilan terma dan kinetik pengeluaran meropenem (antara lain) dalam simen tulang PMMA untuk penggunaan jangkitan ortopedi. |
+| [37713001](https://pubmed.ncbi.nlm.nih.gov/37713001/) | 2024 | Kohort/antibiogram | Eur J Orthop Surg Traumatol | Pembangunan antibiogram untuk strategi antibiotik empirik dalam jangkitan ortopedi bukan lajur termasuk artritis septik. |
+| [31319190](https://pubmed.ncbi.nlm.nih.gov/31319190/) | 2019 | Model hewan | Int J Antimicrob Agents | Penyejuk spacer kolistin digabungkan dengan antibiotik sistemik dalam model arnab jangkitan sendi prostetik *K. pneumoniae* pengeluar carbapenemase. |
+| [38134096](https://pubmed.ncbi.nlm.nih.gov/38134096/) | 2023 | Laporan kes | Medicine | Abses psoas yang disebabkan *Campylobacter fetus* pada pesakit dengan artritis gaut. |
+| [39681779](https://pubmed.ncbi.nlm.nih.gov/39681779/) | 2025 | Kajian PK | Clinical Pharmacokinetics | Farmakokinetik populasi meropenem merentasi jangka hayat dewasa, memberitahu dos untuk jangkitan serius. |
+| [36804370](https://pubmed.ncbi.nlm.nih.gov/36804370/) | 2023 | Ulasan | Int J Antimicrob Agents | Ulasan penggunaan di luar label vs. penggunaan antibiotik syor-rasmi (termasuk carbapenem) untuk jangkitan MDR/XDR. |
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-NPRA records show **25 registered licenses** for Meropenem with market status "Marketed" (Marketed), but the underlying license detail fields (license number, product name, dosage form, manufacturer, approved indication text) were returned empty in the current dataset and cannot be tabulated. This is a data-completeness gap in the source extract, not evidence of a missing market presence.
+Rekod NPRA menunjukkan **25 lesen berdaftar** untuk Meropenem dengan status pasaran "Dipasarkan" (Marketed), tetapi medan butiran lesen asas (nombor lesen, nama produk, bentuk dos, pengilang, teks indikasi yang diluluskan) dikembalikan kosong dalam ekstrak set data semasa dan tidak boleh dijadualkan. Ini adalah celah lengkapan data dalam ekstrak sumber, bukan bukti kehadiran pasaran yang hilang.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information. (Key warnings, contraindications, and DDI data were not available in the current dataset — flagged as a **Blocking** data gap, DG001: TFDA label warnings/contraindications, required before a S1 safety review can proceed.)
+Sila rujuk sisipan bungkus untuk maklumat keselamatan. (Data amaran kunci, kontraindikasi, dan DDI tidak tersedia dalam set data semasa — ditandai sebagai celah data **Menyekat**, DG001: amaran label TFDA/kontraindikasi, diperlukan sebelum semakan keselamatan S1 dapat diteruskan.)
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-- Evidence for meropenem in bacterial arthritis is L3 (retrospective cohorts and case reports showing in vitro/clinical susceptibility, notably in osteoarticular melioidosis) — supportive but not confirmatory, and no trial directly tests meropenem as a treatment for bacterial/septic arthritis.
-- More critically, TFDA/NPRA label safety data (warnings, contraindications) is a **Blocking** gap (DG001), which by itself prevents a S1 safety review regardless of efficacy evidence strength.
+**Nisbah:**
+- Bukti untuk meropenem dalam artritis bakteri adalah L3 (kohort retrospektif dan laporan kes yang menunjukkan kerentanan in vitro/klinis, terutama dalam melioidosis osteoartikular) — sokongan tetapi tidak mengesahkan, dan tiada uji secara langsung menguji meropenem sebagai rawatan untuk artritis bakteri/septik.
+- Lebih kritikal, data keselamatan label TFDA/NPRA (amaran, kontraindikasi) adalah celah **Menyekat** (DG001), yang dengan sendirinya menghalang semakan keselamatan S1 tanpa mengira kekuatan bukti keberkesanan.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert (warnings, contraindications) via PDF retrieval and parsing (DG001)
-- DrugBank-sourced mechanism of action data (DG002)
-- Complete NPRA license detail records (product names, dosage forms, approved indication text) for the 25 registered products
-- Confirmation of relevance for the single clinical trial (NCT01371656), which studies levofloxacin rather than meropenem
-- A dedicated literature/clinical search specific to "septic arthritis" or "meropenem AND joint infection" to reduce noise from the current broader "bacterial arthritis" query
+**Untuk meneruskan, yang berikut diperlukan:**
+- Sisipan bungkus TFDA/NPRA (amaran, kontraindikasi) melalui pengambilan dan penghuraian PDF (DG001)
+- Data mekanisme tindakan bersumber DrugBank (DG002)
+- Rekod butiran lesen NPRA lengkap (nama produk, bentuk dos, teks indikasi yang diluluskan) untuk 25 produk berdaftar
+- Pengesahan relevansi untuk uji klinis tunggal (NCT01371656), yang mengkaji levofloxacin dan bukannya meropenem
+- Carian kesusasteraan/klinis khusus yang didedikasikan kepada "artritis septik" atau "meropenem AND jangkitan sendi" untuk mengurangkan bunyi daripada kueri "artritis bakteri" yang lebih luas semasa
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

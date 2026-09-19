@@ -29,86 +29,87 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-# Clarithromycin: From Bacterial Respiratory Tract Infections to Maxillary Sinusitis
+# Clarithromycin: Daripada Jangkitan Saluran Pernafasan Bakterial kepada Sinusitis Maksilari
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Clarithromycin is a macrolide antibiotic long used against susceptible bacterial infections of the respiratory tract, skin, and gastrointestinal tract (including H. pylori eradication). The TxGNN model flags **Maxillary Sinusitis** as a leading repurposing candidate, and unlike many novel predictions, this one is already backed by **1 clinical trial** and **20 publications**, several of which are historical Phase III randomized controlled trials directly testing clarithromycin in this condition.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Bacterial respiratory tract and other susceptible bacterial infections (general macrolide-class indication; specific Malaysia label text not available in this evidence pack) |
-| Predicted New Indication | Maxillary Sinusitis |
-| TxGNN Prediction Score | 0.00% |
-| Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 28 |
-| Recommended Decision | Proceed with Guardrails |
+Clarithromycin ialah antibiotik makrolida yang telah lama digunakan untuk jangkitan bakterial yang peka terhadap ubat ini di saluran pernafasan, kulit, dan saluran gastrointestinal (termasuk pembasmian H. pylori). Model TxGNN menanda **Sinusitis Maksilari** sebagai calon penyusunan semula utama, dan tidak seperti banyak ramalan novel, ramalan ini telah disokong oleh **1 percubaan klinikal** dan **20 penerbitan**, beberapa daripadanya merupakan percubaan Fasa III rawakan terkawal yang bersejarah yang terus menguji clarithromycin dalam keadaan ini.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Pantas
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on known pharmacology, clarithromycin is a semisynthetic 14-membered macrolide (a methylated derivative of erythromycin) that binds the bacterial 50S ribosomal subunit to inhibit protein synthesis, giving it bactericidal/bacteriostatic activity against common respiratory pathogens such as *Streptococcus pneumoniae*, *Haemophilus influenzae*, and *Moraxella catarrhalis* — the organisms most frequently implicated in acute maxillary sinusitis.
-
-Maxillary sinusitis sits squarely within the spectrum of infections clarithromycin's class has always targeted, so the mechanistic link to its established use in respiratory tract infections is direct rather than speculative. This is reflected in the evidence base: several multicenter, randomized, double-blind Phase III trials from the 1990s–2000s directly compared clarithromycin against amoxicillin, amoxicillin-clavulanate, cefuroxime, sparfloxacin, and ciprofloxacin specifically for acute maxillary sinusitis, consistently reporting comparable or favorable clinical and bacteriological cure rates. In several other jurisdictions, clarithromycin (including its extended-release formulation) already carries an approved indication for acute maxillary sinusitis — reinforcing that the TxGNN signal here reflects strong pre-existing clinical validation rather than an untested hypothesis.
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Jangkitan saluran pernafasan bakterial dan jangkitan bakterial lain yang peka (petunjuk umum kelas makrolida; teks label khusus Malaysia tidak tersedia dalam pakej bukti ini) |
+| Petunjuk Baharu yang Diramalkan | Sinusitis Maksilari |
+| Skor Ramalan TxGNN | 0.00% |
+| Tahap Bukti | L1 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 28 |
+| Keputusan yang Disyorkan | Teruskan dengan Penjaga |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Pada masa kini, data mekanisme tindakan yang terperinci tidak tersedia dalam pakej bukti ini. Berdasarkan farmakologi yang diketahui, clarithromycin ialah makrolida 14-ahli semisintesis (terbitan temetilasi erithromycin) yang mengikat subunit ribosom 50S bakterial untuk menghalang sintesis protein, memberikannya aktiviti bacterisidal/bacteriostatic terhadap patogen pernafasan biasa seperti *Streptococcus pneumoniae*, *Haemophilus influenzae*, dan *Moraxella catarrhalis* — organisma yang paling sering terlibat dalam sinusitis akut maksilari.
+
+Sinusitis maksilari terletak dengan sempurna dalam spektrum jangkitan yang telah selalu ditargetkan oleh kelas ubat clarithromycin, jadi pautan mekanistik kepada penggunaannya yang ditetapkan dalam jangkitan saluran pernafasan adalah langsung daripada spekulatif. Ini ditunjukkan dalam asas bukti: beberapa percubaan multiberpusat, rawakan, buta berganda Fasa III dari tahun 1990-an–2000-an membandingkan secara langsung clarithromycin melawan amoksisilin, amoksisilin-klavulanat, cefuroxime, sparfloxacin, dan ciprofloxacin khususnya untuk sinusitis maksila akut, secara konsisten melaporkan kadar kesembuhan klinikal dan bakteriologi yang sebanding atau menguntungkan. Di beberapa bidang kuasa lain, clarithromycin (termasuk formulasi pelepasan lanjutannya) sudah membawa petunjuk yang diluluskan untuk sinusitis maksila akut — memperkukuh bahawa isyarat TxGNN di sini mencerminkan pengesahan klinikal pra-sedia yang kuat daripada hipotesis yang belum diuji.
+
+---
+
+## Bukti Percubaan Klinikal
+
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT01667692](https://clinicaltrials.gov/study/NCT01667692) | Phase 4 | Completed | 78 | Compared azithromycin- vs. clarithromycin-based triple therapy for H. pylori eradication; not specific to maxillary sinusitis, relevance to this indication should be confirmed |
+| [NCT01667692](https://clinicaltrials.gov/study/NCT01667692) | Fasa 4 | Selesai | 78 | Membandingkan terapi triple berasaskan azithromycin vs. clarithromycin untuk pembasmian H. pylori; bukan khusus untuk sinusitis maksilari, relevansi kepada petunjuk ini harus disahkan |
 
 ---
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [11192134](https://pubmed.ncbi.nlm.nih.gov/11192134/) | 2000 | RCT (Phase III) | Clinical Therapeutics | Double-blind Phase III trial: clarithromycin extended-release vs. immediate-release, comparable efficacy in adults with acute maxillary sinusitis |
-| [2140546](https://pubmed.ncbi.nlm.nih.gov/2140546/) | 1990 | RCT (Phase III) | Current Medical Research and Opinion | Open, Phase III multicentre study; clarithromycin vs. amoxycillin showed comparable efficacy and tolerability |
-| [9923060](https://pubmed.ncbi.nlm.nih.gov/9923060/) | 1998 | RCT | Rhinology | Randomised, double-blind, multicentre trial (n=370): cefuroxime axetil vs. clarithromycin, comparable clinical response and safety |
-| [10214783](https://pubmed.ncbi.nlm.nih.gov/10214783/) | 1999 | RCT | Annals of Otology, Rhinology & Laryngology | Multicenter, randomized, double-blind trial (n=560): ciprofloxacin vs. clarithromycin, clarithromycin showed numerically higher clinical resolution (91% vs. 84%) |
-| [10211537](https://pubmed.ncbi.nlm.nih.gov/10211537/) | 1999 | RCT | Clinical Therapeutics | Randomized, double-masked, multicenter trial (n=504): sparfloxacin vs. clarithromycin in acute bacterial maxillary sinusitis |
-| [8111512](https://pubmed.ncbi.nlm.nih.gov/8111512/) | 1993 | RCT | Archives of Family Medicine | Multicenter comparison of clarithromycin and amoxicillin for acute maxillary sinusitis, evaluating safety and efficacy |
-| [8313865](https://pubmed.ncbi.nlm.nih.gov/8313865/) | 1993 | RCT | Ear, Nose & Throat Journal | Single-blind, randomized, multicenter study (n=497): clarithromycin vs. amoxicillin/clavulanate, similar clinical success rates |
-| [1827106](https://pubmed.ncbi.nlm.nih.gov/1827106/) | 1991 | RCT | Journal of Antimicrobial Chemotherapy | Single-blind, multicentre outpatient trial (n=50): clarithromycin vs. amoxycillin, comparable clinical and bacteriological outcomes |
-| [8763594](https://pubmed.ncbi.nlm.nih.gov/8763594/) | 1996 | RCT | Pathologie-Biologie | Open multicenter trial (n=280): clarithromycin vs. amoxicillin-clavulanate, no significant difference in clinical/radiologic outcomes |
-| [16771618](https://pubmed.ncbi.nlm.nih.gov/16771618/) | 2006 | Review | Expert Review of Anti-infective Therapy | Reviews macrolide immunomodulatory effects alongside established bacteriological/clinical efficacy in acute maxillary sinusitis |
+| [11192134](https://pubmed.ncbi.nlm.nih.gov/11192134/) | 2000 | RCT (Fasa III) | Clinical Therapeutics | Percubaan Fasa III buta berganda: clarithromycin pelepasan lanjutan vs. pelepasan serta-merta, keberkesanan yang setanding dalam orang dewasa dengan sinusitis maksila akut |
+| [2140546](https://pubmed.ncbi.nlm.nih.gov/2140546/) | 1990 | RCT (Fasa III) | Current Medical Research and Opinion | Kajian multiberpusat Fasa III terbuka; clarithromycin vs. amoksisilin menunjukkan keberkesanan dan tolerabiliti yang setanding |
+| [9923060](https://pubmed.ncbi.nlm.nih.gov/9923060/) | 1998 | RCT | Rhinology | Percubaan multiberpusat rawakan buta berganda (n=370): cefuroxime axetil vs. clarithromycin, sambutan klinikal dan keselamatan yang setanding |
+| [10214783](https://pubmed.ncbi.nlm.nih.gov/10214783/) | 1999 | RCT | Annals of Otology, Rhinology & Laryngology | Percubaan multiberpusat rawakan buta berganda (n=560): ciprofloxacin vs. clarithromycin, clarithromycin menunjukkan resolusi klinikal yang lebih tinggi secara berangka (91% vs. 84%) |
+| [10211537](https://pubmed.ncbi.nlm.nih.gov/10211537/) | 1999 | RCT | Clinical Therapeutics | Percubaan rawakan bermuka buta multiberpusat (n=504): sparfloxacin vs. clarithromycin dalam sinusitis maksila bakterial akut |
+| [8111512](https://pubmed.ncbi.nlm.nih.gov/8111512/) | 1993 | RCT | Archives of Family Medicine | Perbandingan multiberpusat clarithromycin dan amoksisilin untuk sinusitis maksila akut, menilai keselamatan dan keberkesanan |
+| [8313865](https://pubmed.ncbi.nlm.nih.gov/8313865/) | 1993 | RCT | Ear, Nose & Throat Journal | Kajian rawakan bermata tunggal multiberpusat (n=497): clarithromycin vs. amoksisilin/klavulanat, kadar kejayaan klinikal yang serupa |
+| [1827106](https://pubmed.ncbi.nlm.nih.gov/1827106/) | 1991 | RCT | Journal of Antimicrobial Chemotherapy | Percubaan pesakit luar multiberpusat bermata tunggal (n=50): clarithromycin vs. amoksisilin, hasil klinikal dan bakteriologi yang setanding |
+| [8763594](https://pubmed.ncbi.nlm.nih.gov/8763594/) | 1996 | RCT | Pathologie-Biologie | Percubaan multiberpusat terbuka (n=280): clarithromycin vs. amoksisilin-klavulanat, tiada perbezaan signifikan dalam hasil klinikal/radiologi |
+| [16771618](https://pubmed.ncbi.nlm.nih.gov/16771618/) | 2006 | Ulasan | Expert Review of Anti-infective Therapy | Mengulas kesan imunomodulator makrolida bersama keberkesanan bakteriologi/klinikal yang ditetapkan dalam sinusitis maksila akut |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Clarithromycin holds **28 active registrations** in the Malaysia market status feed (marketed status: ✓). Detailed per-license data (authorization numbers, product names, dosage forms, approved indication text) were not populated in this evidence pack and need to be pulled from source before use in regulatory submissions.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information. This evidence pack currently has no populated warnings, contraindications, or drug-interaction data for clarithromycin — the DDI query also returned no results.
+Clarithromycin memegang **28 pendaftaran aktif** dalam suapan status pasaran Malaysia (status dipasarkan: ✓). Data terperinci bagi setiap lesen (nombor kebenaran, nama produk, bentuk dos, teks petunjuk yang diluluskan) tidak diisi dalam pakej bukti ini dan perlu ditarik daripada sumber sebelum digunakan dalam penyerahan kawal selia.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Proceed with Guardrails**
+Sila rujuk surat sisipan pakej untuk maklumat keselamatan. Pakej bukti ini pada masa kini tidak mempunyai data amaran, kontraindikasi, atau interaksi ubat yang diisi untuk clarithromycin — pertanyaan DDI juga mengembalikan hasil tiada.
 
-**Rationale:**
-Efficacy evidence for clarithromycin in maxillary sinusitis is strong and L1-grade — multiple completed Phase III RCTs directly support this indication, and the drug is already widely marketed. However, a blocking data gap on label warnings/contraindications means safety review (S1) cannot yet be completed, so full clearance should wait on that data.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert warnings, precautions, and contraindications (DG001, blocking)
-- DrugBank-sourced mechanism of action detail to confirm the mechanistic rationale (DG002)
-- Malaysia license-level detail (product names, dosage forms, approved indication text) currently blank in this pack
-- Confirmation of whether NCT01667692 is genuinely relevant to maxillary sinusitis, given its focus on H. pylori eradication
-- A re-run of the DDI query, which currently returned no interaction data
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Teruskan dengan Penjaga**
+
+**Alasan:**
+Bukti keberkesanan clarithromycin dalam sinusitis maksilari adalah kuat dan gred L1 — berbilang RCT Fasa III yang selesai secara langsung menyokong petunjuk ini, dan ubat sudah dipasarkan secara meluas. Namun, jurang data pemblokiran pada amaran label/kontraindikasi bermakna semakan keselamatan (S1) belum dapat diselesaikan, jadi pelepasan penuh harus menunggu data itu.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Amaran surat sisipan pakej TFDA/NPRA, tindakan berjaga-jaga, dan kontraindikasi (DG001, pemblokiran)
+- Butir mekanisme tindakan bersumber DrugBank untuk mengesahkan rasional mekanistik (DG002)
+- Butir peringkat lesen Malaysia (nama produk, bentuk dos, teks petunjuk yang diluluskan) pada masa kini kosong dalam pakej ini
+- Pengesahan sama ada NCT01667692 benar-benar relevan kepada sinusitis maksilari, memandangkan fokusnya pada pembasmian H. pylori
+- Perlaksanaan semula pertanyaan DDI, yang pada masa kini mengembalikan data interaksi tiada
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

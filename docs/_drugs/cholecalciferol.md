@@ -29,99 +29,100 @@ Tahap bukti: **L2** | Indikasi diramal: **7**
 
 </div>
 
-# Cholecalciferol: From Vitamin D Deficiency to Renal Osteodystrophy
+# Cholecalciferol: Dari Kekurangan Vitamin D hingga Osteodistrofi Ginjal
 
-> **Note on candidate selection**: This evidence pack contains 7 TxGNN-predicted indications for cholecalciferol (ranks 1–7). The highest-scoring candidate (familial isolated hypoparathyroidism, 99.79%) is flagged by its own generated rationale as mechanistically backwards (patients with impaired PTH secretion typically need active vitamin D/calcitriol, not the cholecalciferol precursor) and has zero supporting trials or literature. Ranks 2–4 are similarly unsupported (model noise on rare genetic syndromes). This report therefore centers on **renal osteodystrophy** (rank 6, L2 evidence), the candidate with the strongest direct clinical-trial support for cholecalciferol itself. A summary of all 7 candidates follows the Quick Overview.
+> **Nota tentang pemilihan calon**: Paket bukti ini mengandungi 7 indikasi yang diprediksi oleh TxGNN untuk cholecalciferol (pangkat 1–7). Calon dengan skor tertinggi (hipoparatiroidisme terisolasi keluarga, 99.79%) ditandai oleh rasional yang dihasilkannya sendiri sebagai terbalik secara mekanis (pesakit dengan sekresi PTH yang terganggu biasanya memerlukan vitamin D aktif/calcitriol, bukan pendahulu cholecalciferol) dan mempunyai sifar ujian sokongan atau literatur. Pangkat 2–4 adalah begitu juga tidak disokong (bunyi model pada sindrom genetik langka). Laporan ini oleh itu berpusat pada **osteodistrofi ginjal** (pangkat 6, bukti L2), calon dengan sokongan ujian klinikal paling kuat untuk cholecalciferol itu sendiri. Ringkasan kesemua 7 calon mengikuti Gambaran Keseluruhan Pantas.
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Cholecalciferol (Vitamin D3) is a nutritional secosteroid used to prevent and treat vitamin D deficiency and related bone disorders. The TxGNN model predicts a repurposing signal toward **Renal Osteodystrophy** (CKD-associated mineral and bone disorder), a use already partially reflected in clinical guidelines and supported by **32 clinical trials** and **20 publications**, several of which test cholecalciferol directly in CKD populations.
+Cholecalciferol (Vitamin D3) ialah secosteroid pemakanan yang digunakan untuk mencegah dan merawat kekurangan vitamin D dan gangguan tulang yang berkaitan. Model TxGNN meramalkan isyarat pengubahan tujuan ke arah **Osteodistrofi Ginjal** (gangguan mineral dan tulang yang berkaitan dengan CKD), penggunaan yang sudah sebahagiannya dicerminkan dalam garis panduan klinikal dan disokong oleh **32 ujian klinikal** dan **20 penerbitan**, beberapa daripadanya menguji cholecalciferol secara langsung dalam populasi CKD.
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Not specified in the TFDA/NPRA license extract (all license fields returned blank). Per established pharmacology, cholecalciferol is indicated for prevention and treatment of vitamin D deficiency and nutritional rickets/osteomalacia. |
-| Predicted New Indication | Renal Osteodystrophy |
-| TxGNN Prediction Score | 99.11% (rank 11,477 overall) |
-| Evidence Level | L2 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 800 |
-| Recommended Decision | Proceed with Guardrails |
+| Indikasi Asal | Tidak dinyatakan dalam ekstrak lesen TFDA/NPRA (semua medan lesen mengembalikan kosong). Menurut farmakologi yang ditetapkan, cholecalciferol ditunjukkan untuk pencegahan dan rawatan kekurangan vitamin D serta rakitis pemakanan/osteomalasia. |
+| Indikasi Baru yang Diramalkan | Osteodistrofi ginjal |
+| Skor Ramalan TxGNN | 99.11% (pangkat 11,477 secara keseluruhan) |
+| Tahap Bukti | L2 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 800 |
+| Keputusan Disyorkan | Teruskan dengan Pengawal |
 
-### Other Predicted Indications Considered
+### Indikasi Lain yang Diramalkan Dipertimbangkan
 
-| Rank | Disease | TxGNN Score | Evidence Level | Recommendation |
+| Pangkat | Penyakit | Skor TxGNN | Tahap Bukti | Cadangan |
 |------|---------|------|------|------|
-| 1 | Familial isolated hypoparathyroidism (impaired PTH secretion) | 99.79% | L4 | Research Question |
-| 2 | Acromesomelic dysplasia, Campailla Martinelli type | 99.78% | L5 | Hold |
-| 3 | Craniofacial conodysplasia | 99.75% | L5 | Hold |
-| 4 | Dahlberg-Borer-Newcomer syndrome | 99.73% | L5 | Hold |
-| 5 | Hypophosphatemic rickets | 99.20% | L2 | Proceed with Guardrails |
-| **6** | **Renal osteodystrophy (selected)** | **99.11%** | **L2** | **Proceed with Guardrails** |
-| 7 | Renal tubular acidosis | 99.06% | L3 | Research Question |
+| 1 | Hipoparatiroidisme terisolasi keluarga (sekresi PTH terganggu) | 99.79% | L4 | Soalan Penyelidikan |
+| 2 | Akromesomelik displasia, jenis Campailla Martinelli | 99.78% | L5 | Tunggu |
+| 3 | Konodisplasia kraniofasial | 99.75% | L5 | Tunggu |
+| 4 | Sindrom Dahlberg-Borer-Newcomer | 99.73% | L5 | Tunggu |
+| 5 | Rakitis hipofospatemia | 99.20% | L2 | Teruskan dengan Pengawal |
+| **6** | **Osteodistrofi ginjal (dipilih)** | **99.11%** | **L2** | **Teruskan dengan Pengawal** |
+| 7 | Asidosis tubulus ginjal | 99.06% | L3 | Soalan Penyelidikan |
 
-Ranks 1–4 are model-generated candidates for ultra-rare genetic diseases with no supporting trials or literature; the literature retrieved for rank 4 is explicitly flagged in the evidence pack as generic "vitamin D" keyword noise unrelated to that syndrome. Rank 5 (hypophosphatemic rickets) has a large trial base, but the great majority of those trials test **burosumab (KRN23)**, an anti-FGF23 antibody, not cholecalciferol — direct cholecalciferol evidence there is thin. Rank 7 (renal tubular acidosis) has only 2 trials, neither testing cholecalciferol directly.
+Pangkat 1–4 ialah calon yang dihasilkan model untuk penyakit genetik ultra-langka tanpa ujian sokongan atau literatur; literatur yang diambil untuk pangkat 4 secara eksplisit ditandai dalam paket bukti sebagai bunyi kata kunci "vitamin D" generik yang tidak berkaitan dengan sindrom tersebut. Pangkat 5 (rakitis hipofospatemia) mempunyai asas ujian yang besar, tetapi sebahagian besar ujian tersebut menguji **burosumab (KRN23)**, antibodi anti-FGF23, bukan cholecalciferol — bukti cholecalciferol langsung di sana adalah tipis. Pangkat 7 (asidosis tubulus ginjal) hanya mempunyai 2 ujian, tiada yang menguji cholecalciferol secara langsung.
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Structured mechanism-of-action data was not returned for this drug in the current data pull. Based on established pharmacology, cholecalciferol (Vitamin D3) is a fat-soluble prohormone that undergoes 25-hydroxylation in the liver and 1α-hydroxylation in the kidney to form the biologically active hormone calcitriol (1,25-dihydroxyvitamin D), the principal regulator of intestinal calcium/phosphate absorption and a suppressor of parathyroid hormone (PTH) secretion.
+Data mekanisme-tindakan berstruktur tidak dikembalikan untuk ubat ini dalam cabutan data semasa. Berdasarkan farmakologi yang ditetapkan, cholecalciferol (Vitamin D3) ialah hormon prohormon yang larut dalam lemak yang menjalani 25-hidroksilasi di hati dan 1α-hidroksilasi di ginjal untuk membentuk hormon biologi aktif calcitriol (1,25-dihidroksivitamin D), pengawal utama penyerapan kalsium/fosfat usus dan penindas sekresi hormon paratiroid (PTH).
 
-Renal osteodystrophy — the bone component of chronic kidney disease–mineral and bone disorder (CKD-MBD) — arises largely because failing kidneys lose 1α-hydroxylase activity, leading to calcitriol deficiency, hypocalcemia, secondary hyperparathyroidism, and disordered bone turnover. Correcting underlying 25-hydroxyvitamin D (cholecalciferol-derived) insufficiency is a recommended first step in CKD-MBD management under KDIGO guidelines, ahead of or alongside active vitamin D analog therapy, particularly in earlier CKD stages where residual renal 1α-hydroxylase activity remains.
+Osteodistrofi ginjal — komponen tulang gangguan mineral dan tulang penyakit ginjal kronis (CKD-MBD) — timbul sebahagian besarnya kerana ginjal yang gagal kehilangan aktiviti 1α-hidroksilase, yang membawa kepada kekurangan calcitriol, hipokalsemia, hiperparatiroidisme sekunder, dan pergantian tulang yang terkahar. Membetulkan kekurangan 25-hidroksi-vitamin D asas (yang diperoleh cholecalciferol) adalah langkah pertama yang disyorkan dalam pengurusan CKD-MBD di bawah garis panduan KDIGO, sebelum atau bersama terapi analog vitamin D aktif, terutamanya dalam peringkat CKD lebih awal di mana aktiviti 1α-hidroksilase ginjal sisa masih kekal.
 
-This gives the prediction a direct and clinically plausible mechanistic basis, though its practical value is dose- and stage-dependent: in advanced CKD/ESRD, renal 1α-hydroxylation is severely impaired, and active vitamin D analogs (calcitriol, doxercalciferol, paricalcitol) — rather than cholecalciferol itself — are typically required to achieve pharmacologic effect. This distinction should be preserved when interpreting the trial evidence below, since several retrieved trials studied these active analogs rather than cholecalciferol.
+Ini memberikan ramalan asas mekanistik langsung dan munasabah secara klinikal, walaupun nilainya adalah bergantung pada dos dan peringkat: dalam CKD lanjutan/ESRD, 1α-hidroksilasi ginjal adalah terjejas teruk, dan analog vitamin D aktif (calcitriol, doxercalciferol, paricalcitol) — bukannya cholecalciferol itu sendiri — biasanya diperlukan untuk mencapai kesan farmakoloji. Perbezaan ini harus dipelihara apabila mentafsir bukti ujian di bawah, kerana beberapa ujian yang diambil mengkaji analog aktif ini bukannya cholecalciferol.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Bilangan Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT03063190](https://clinicaltrials.gov/study/NCT03063190) | Phase 4 | Withdrawn (n=0) | 0 | Direct cholecalciferol supplementation trial in CKD patients with restless leg syndrome; withdrawn before enrollment, no data generated |
-| [NCT00285467](https://clinicaltrials.gov/study/NCT00285467) | N/A | Completed | 55 | Cholecalciferol vs. doxercalciferol for secondary hyperparathyroidism in CKD stage 3–4; direct head-to-head cholecalciferol trial |
-| [NCT00752401](https://clinicaltrials.gov/study/NCT00752401) | Phase 3 | Unknown | 200 | VITA-D trial: cholecalciferol substitution in vitamin D–deficient kidney transplant recipients, evaluating renal function and rejection outcomes |
-| [NCT00560300](https://clinicaltrials.gov/study/NCT00560300) | Phase 2 | Completed | 61 | Effects of active vitamin D (calcitriol, doxercalciferol) and phosphate binders on bone disease in children with kidney failure |
-| [NCT01799317](https://clinicaltrials.gov/study/NCT01799317) | Phase 4 | Unknown | 60 | Vitamin D2/1α-hydroxyvitamin D2 combination for bone mineralization defects in pediatric secondary hyperparathyroidism on peritoneal dialysis |
-| [NCT01149291](https://clinicaltrials.gov/study/NCT01149291) | N/A | Completed | 511 | Post-marketing observational study of selective vitamin D receptor activators for secondary hyperparathyroidism in hemodialysis patients |
-| [NCT03527511](https://clinicaltrials.gov/study/NCT03527511) | N/A | Completed | 21 | Effect of active vitamin D plus etelcalcetide on osteoclasts in CKD-MBD patients |
-| [NCT00859612](https://clinicaltrials.gov/study/NCT00859612) | N/A | Completed | 464 | "Renal Osteodystrophy: A Fresh Approach" — DXA vs. QCT for diagnosing bone loss and defining bone-turnover subtype in CKD-5 |
-| [NCT00108394](https://clinicaltrials.gov/study/NCT00108394) | Phase 4 | Completed | N/A | Osteopenia/renal osteodystrophy evaluation and management study (pamidronate for adynamic bone disease) |
-| [NCT00527085](https://clinicaltrials.gov/study/NCT00527085) | Phase 2 | Completed | 45 | Oral calcimimetic (cinacalcet) effects on renal osteodystrophy in hemodialysis patients with secondary hyperparathyroidism (comparator/context trial, not vitamin D) |
+| [NCT03063190](https://clinicaltrials.gov/study/NCT03063190) | Fasa 4 | Ditarik balik (n=0) | 0 | Ujian suplemen cholecalciferol langsung dalam pesakit CKD dengan sindrom kaki gelisah; ditarik balik sebelum pendaftaran, tiada data yang dihasilkan |
+| [NCT00285467](https://clinicaltrials.gov/study/NCT00285467) | N/A | Selesai | 55 | Cholecalciferol vs. doxercalciferol untuk hiperparatiroidisme sekunder dalam peringkat CKD 3–4; ujian head-to-head cholecalciferol langsung |
+| [NCT00752401](https://clinicaltrials.gov/study/NCT00752401) | Fasa 3 | Tidak diketahui | 200 | Ujian VITA-D: penggantian cholecalciferol dalam penerima transplant ginjal kekurangan vitamin D, menilai fungsi ginjal dan hasil penolakan |
+| [NCT00560300](https://clinicaltrials.gov/study/NCT00560300) | Fasa 2 | Selesai | 61 | Kesan vitamin D aktif (calcitriol, doxercalciferol) dan pengikat fosfat pada penyakit tulang dalam kanak-kanak dengan kegagalan ginjal |
+| [NCT01799317](https://clinicaltrials.gov/study/NCT01799317) | Fasa 4 | Tidak diketahui | 60 | Kombinasi vitamin D2/1α-hidroksi-vitamin D2 untuk cacat mineralisasi tulang dalam hiperparatiroidisme sekunder pediatrik pada dialisis peritoneal |
+| [NCT01149291](https://clinicaltrials.gov/study/NCT01149291) | N/A | Selesai | 511 | Kajian observasi pasca-pemasaran pengaktif reseptor vitamin D terpilih untuk hiperparatiroidisme sekunder dalam pesakit hemodialisis |
+| [NCT03527511](https://clinicaltrials.gov/study/NCT03527511) | N/A | Selesai | 21 | Kesan vitamin D aktif ditambah etelcalcetide pada osteoklas dalam pesakit CKD-MBD |
+| [NCT00859612](https://clinicaltrials.gov/study/NCT00859612) | N/A | Selesai | 464 | "Osteodistrofi Ginjal: Pendekatan Segar" — DXA vs. QCT untuk mendiagnosis kehilangan tulang dan menentukan subtipe penukaran tulang dalam CKD-5 |
+| [NCT00108394](https://clinicaltrials.gov/study/NCT00108394) | Fasa 4 | Selesai | N/A | Kajian penilaian dan pengurusan osteopenia/osteodistrofi ginjal (pamidronat untuk penyakit tulang adinamik) |
+| [NCT00527085](https://clinicaltrials.gov/study/NCT00527085) | Fasa 2 | Selesai | 45 | Kesan kalsimimetik lisan (cinacalcet) pada osteodistrofi ginjal dalam pesakit hemodialisis dengan hiperparatiroidisme sekunder (ujian perbandingan/konteks, bukan vitamin D) |
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [2747771](https://pubmed.ncbi.nlm.nih.gov/2747771/) | 1989 | Review | New England Journal of Medicine | Foundational review of renal osteodystrophy pathophysiology and vitamin D's role in mineral homeostasis |
-| [9684690](https://pubmed.ncbi.nlm.nih.gov/9684690/) | 1998 | Review | Artificial Organs | Diagnostic and treatment framework for renal osteodystrophy in dialysis patients, including native vitamin D deficiency correction |
-| [12944733](https://pubmed.ncbi.nlm.nih.gov/12944733/) | 2003 | Review | Blood Purification | Pathogenesis and treatment of renal osteodystrophy; distinguishes high-turnover (osteitis fibrosa) vs. low-turnover (adynamic) disease |
-| [16970258](https://pubmed.ncbi.nlm.nih.gov/16970258/) | 2006 | Review | Saudi J Kidney Dis Transplant | Comprehensive review of renal osteodystrophy spectrum and treatment approaches |
-| [12430093](https://pubmed.ncbi.nlm.nih.gov/12430093/) | 2002 | Review | Seminars in Nephrology | Renal osteodystrophy in chronic renal failure; role of calcitriol deficiency in disease progression |
-| [12386262](https://pubmed.ncbi.nlm.nih.gov/12386262/) | 2002 | Review | Nephrol Dial Transplant | Secondary hyperparathyroidism mechanisms including reduced calcitriol/calcium-sensing receptor density |
-| [3909812](https://pubmed.ncbi.nlm.nih.gov/3909812/) | 1985 | Review | Am J Med Sciences | Early review of renal osteodystrophy pathogenesis and vitamin D-based treatment |
-| [1338454](https://pubmed.ncbi.nlm.nih.gov/1338454/) | 1992 | Review | J Nutr Sci Vitaminol | Cellular mechanisms of vitamin D derivatives in uremic hyperparathyroidism |
-| [26119320](https://pubmed.ncbi.nlm.nih.gov/26119320/) | 2015 | Review | Clinical Calcium | Nutritional management of renal osteodystrophy, including mineral/vitamin D control |
-| [203416](https://pubmed.ncbi.nlm.nih.gov/203416/) | 1977 | Review | Clinical Endocrinology | Classic review of vitamin D metabolism relevant to bone mineralization in renal disease |
+| [2747771](https://pubmed.ncbi.nlm.nih.gov/2747771/) | 1989 | Ulasan | New England Journal of Medicine | Ulasan asas patofisiologi osteodistrofi ginjal dan peranan vitamin D dalam homeostasis mineral |
+| [9684690](https://pubmed.ncbi.nlm.nih.gov/9684690/) | 1998 | Ulasan | Artificial Organs | Rangka kerja diagnosis dan rawatan untuk osteodistrofi ginjal dalam pesakit dialisis, termasuk pembetulan kekurangan vitamin D asli |
+| [12944733](https://pubmed.ncbi.nlm.nih.gov/12944733/) | 2003 | Ulasan | Blood Purification | Patogenesis dan rawatan osteodistrofi ginjal; membezakan penyakit pergantian tinggi (osteitis fibrosa) vs. pergantian rendah (adinamik) |
+| [16970258](https://pubmed.ncbi.nlm.nih.gov/16970258/) | 2006 | Ulasan | Saudi J Kidney Dis Transplant | Ulasan komprehensif spektrum osteodistrofi ginjal dan pendekatan rawatan |
+| [12430093](https://pubmed.ncbi.nlm.nih.gov/12430093/) | 2002 | Ulasan | Seminars in Nephrology | Osteodistrofi ginjal dalam kegagalan ginjal kronis; peranan kekurangan calcitriol dalam perkembangan penyakit |
+| [12386262](https://pubmed.ncbi.nlm.nih.gov/12386262/) | 2002 | Ulasan | Nephrol Dial Transplant | Mekanisme hiperparatiroidisme sekunder termasuk kepadatan reseptor calcitriol/penderia kalsium yang berkurangan |
+| [3909812](https://pubmed.ncbi.nlm.nih.gov/3909812/) | 1985 | Ulasan | Am J Med Sciences | Ulasan awal patogenesis osteodistrofi ginjal dan rawatan berasaskan vitamin D |
+| [1338454](https://pubmed.ncbi.nlm.nih.gov/1338454/) | 1992 | Ulasan | J Nutr Sci Vitaminol | Mekanisme seluler terbitan vitamin D dalam hiperparatiroidisme uremik |
+| [26119320](https://pubmed.ncbi.nlm.nih.gov/26119320/) | 2015 | Ulasan | Clinical Calcium | Pengurusan pemakanan osteodistrofi ginjal, termasuk kawalan mineral/vitamin D |
+| [203416](https://pubmed.ncbi.nlm.nih.gov/203416/) | 1977 | Ulasan | Clinical Endocrinology | Ulasan klasik metabolisme vitamin D yang relevan dengan mineralisasi tulang dalam penyakit ginjal |
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-800 cholecalciferol-containing products are registered and marketed in Malaysia (NPRA status: Marketed / Marketed). This data pull did not return individual license-level detail (registration numbers, product names, dosage forms, or approved indication text) — those fields came back empty for all sampled records and would need to be re-queried from the NPRA product database before a formulation-specific safety or route assessment can be completed.
+800 produk yang mengandungi cholecalciferol didaftarkan dan dipasarkan di Malaysia (status NPRA: Dipasarkan / Dipasarkan). Cabutan data ini tidak mengembalikan detail peringkat lesen individu (nombor pendaftaran, nama produk, bentuk dos, atau teks indikasi yang diluluskan) — medan tersebut datang balik kosong untuk semua rekod sampel dan perlu dikaji semula daripada pangkalan data produk NPRA sebelum penilaian keselamatan atau rute khusus-formulasi dapat diselesaikan.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Proceed with Guardrails**
+**Keputusan: Teruskan dengan Pengawal**
 
-**Rationale:**
-Among the 7 TxGNN-predicted indications for cholecalciferol, renal osteodystrophy has the strongest combination of direct clinical-trial evidence (including head-to-head cholecalciferol trials) and an already-established mechanistic and guideline basis (KDIGO CKD-MBD management). The remaining candidates are either evidence-free rare-disease predictions likely reflecting model noise (ranks 1–4, Hold) or rely predominantly on trials of a different drug class, burosumab (rank 5), or have minimal trial support (rank 7).
+**Rasional:**
+Antara 7 indikasi yang diprediksi oleh TxGNN untuk cholecalciferol, osteodistrofi ginjal mempunyai kombinasi terkuat bukti ujian klinikal langsung (termasuk ujian cholecalciferol head-to-head) dan asas mekanis dan garis panduan yang sudah ditetapkan (pengurusan CKD-MBD KDIGO). Calon selebihnya adalah ramalan penyakit langka bebas bukti kemungkinan mencerminkan bunyi model (pangkat 1–4, Tunggu) atau bergantung terutamanya pada ujian kelas ubat yang berbeza, burosumab (pangkat 5), atau mempunyai sokongan ujian minimal (pangkat 7).
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert warnings and contraindications — currently blocking (DG001), required before any safety pre-assessment
-- Structured mechanism-of-action documentation (DG002)
-- License-level detail for the 800 Malaysia registrations (dosage form, strength, approved indication text) to assess route/formulation compatibility with a CKD population
-- Clarification of dosing strategy by CKD stage, since renal 1α-hydroxylation impairment may limit cholecalciferol's own efficacy relative to active vitamin D analogs in advanced disease
-- A dedicated evidence pull isolating cholecalciferol-specific (vs. calcitriol/doxercalciferol/paricalcitol/burosumab) trials, to avoid conflating results across pharmacologically distinct agents
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Amaran sisipan pakej TFDA/NPRA dan kontraindikasi — sedang menghalang (DG001), diperlukan sebelum sebarang pra-penilaian keselamatan
+- Dokumentasi mekanisme-tindakan berstruktur (DG002)
+- Detail peringkat lesen untuk 800 pendaftaran Malaysia (bentuk dos, kekuatan, teks indikasi yang diluluskan) untuk menilai keserasian rute/formulasi dengan populasi CKD
+- Penjelasan strategi pendosisan mengikut peringkat CKD, kerana gangguan 1α-hidroksilasi ginjal mungkin mengehadkan keberkesanan cholecalciferol itu sendiri berbanding analog vitamin D aktif dalam penyakit lanjutan
+- Cabutan bukti khusus menisihkan ujian cholecalciferol (vs. calcitriol/doxercalciferol/paricalcitol/burosumab), untuk mengelakkan kekeliruan hasil di seluruh agen farmakologi yang berbeza
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

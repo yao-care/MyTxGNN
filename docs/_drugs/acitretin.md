@@ -29,99 +29,100 @@ Tahap bukti: **L3** | Indikasi diramal: **4**
 
 </div>
 
-# Acitretin: From Psoriasis to Acne (Disease)
+# Acitretin: Dari Psoriasis ke Akne (Penyakit)
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Acitretin is a second-generation aromatic retinoid, primarily used for severe psoriasis and other keratinization disorders.
-The TxGNN model predicts it may be effective for **acne (disease)**,
-with **1 clinical trial** and **18 publications** currently supporting this direction.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Psoriasis and keratinization disorders (per literature context; NPRA approved indication text not available in current dataset) |
-| Predicted New Indication | Acne (disease) |
-| TxGNN Prediction Score | 99.94% |
-| Evidence Level | L3 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 4 |
-| Recommended Decision | Proceed with Guardrails |
+Acitretin ialah retinoid aromatik generasi kedua, terutamanya digunakan untuk psoriasis yang teruk dan gangguan keratinisasi lain.
+Model TxGNN meramalkan bahawa ia mungkin berkesan untuk **akne (penyakit)**,
+dengan **1 ujian klinikal** dan **18 penerbitan** yang pada masa ini menyokong arah ini.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Ringkas
 
-Acitretin is a second-generation aromatic retinoid that acts as a full agonist of retinoic acid receptors (RAR-α, RAR-β, and RAR-γ). Through nuclear receptor signalling, it regulates keratinocyte differentiation, inhibits sebaceous gland activity (sebosuppression), and modulates inflammatory pathways including leukotriene production and NF-κB activity. Detailed MOA data from DrugBank was not available in this dataset, but the mechanistic framework is well-characterised in the dermatological literature.
-
-Acne pathogenesis is driven by three overlapping mechanisms that retinoids directly target: follicular hyperkeratinisation, excessive sebaceous gland secretion, and local inflammation. A closely related molecule, isotretinoin (13-cis retinoic acid), is already the established first-line treatment for severe nodulocystic acne. Acitretin belongs to the same pharmacological class and shares sebosuppressive and anti-inflammatory mechanisms, though it differs in pharmacokinetic profile and teratogenic risk classification.
-
-Case reports have documented acitretin's use in nodulocystic acne and hidradenitis suppurativa (acne inversa), a chronic inflammatory disorder mechanistically and anatomically related to acne. Long-term follow-up data from a 25-year case series (PMID 20874789) further supports the biological plausibility of the TxGNN prediction, positioning acitretin as a mechanistically coherent, if pharmacologically second-choice, retinoid candidate for acne management.
-
----
-
-## Clinical Trial Evidence
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|-------------|-------|--------|------------|--------------|
-| [NCT04663906](https://clinicaltrials.gov/study/NCT04663906) | N/A | Unknown | 300 | Observational study examining whether oral retinoid-induced nasal mucosal dryness increases COVID-19 infection risk. Study subject is isotretinoin (not acitretin); indirectly indicates systemic retinoid use in the acne population is under active safety scrutiny. No efficacy data for acitretin. |
-
-> **Note:** No clinical trials directly evaluating acitretin for acne were identified. The sole trial retrieved concerns a related retinoid (isotretinoin) and addresses a safety question, not treatment efficacy.
+| Item | Kandungan |
+|------|-----------|
+| Petunjuk Asal | Psoriasis dan gangguan keratinisasi (menurut konteks literatur; teks petunjuk yang diluluskan NPRA tidak tersedia dalam set data semasa) |
+| Petunjuk Baru yang Diramalkan | Akne (penyakit) |
+| Skor Ramalan TxGNN | 99.94% |
+| Tahap Bukti | L3 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 4 |
+| Keputusan yang Disyorkan | Teruskan dengan Pagar Keselamatan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|--------------|
-| [20874789](https://pubmed.ncbi.nlm.nih.gov/20874789/) | 2011 | Case Series / Retrospective | Br J Dermatol | 25-year experience with acitretin for hidradenitis suppurativa (acne inversa); demonstrates clinically meaningful long-term responses and questions whether HS is truly a misnomer for acne inversa |
-| [12080949](https://pubmed.ncbi.nlm.nih.gov/12080949/) | 2002 | Case Report | Cutis | Patient with severe nodulocystic facial acne and HS treated with acitretin after two isotretinoin courses; partial clinical improvement noted in persistent facial cysts |
-| [25640693](https://pubmed.ncbi.nlm.nih.gov/25640693/) | 2015 | Clinical Guideline | J Eur Acad Dermatol Venereol | European S1 guideline for HS/acne inversa; includes retinoids (including acitretin) within recommended treatment options |
-| [28476075](https://pubmed.ncbi.nlm.nih.gov/28476075/) | 2017 | Cochrane Review | Cochrane Database Syst Rev | Systematic review of drug treatments for discoid lupus erythematosus; evaluates retinoids as a treatment class, providing high-level evidence context for acitretin's immunomodulatory and skin-normalising effects |
-| [41692081](https://pubmed.ncbi.nlm.nih.gov/41692081/) | 2026 | Narrative Review | Clin Dermatol | Comprehensive update on vitamin A and retinoids in dermatology; explicitly covers acitretin alongside isotretinoin for acne-related and keratinisation disorders |
-| [8573927](https://pubmed.ncbi.nlm.nih.gov/8573927/) | 1995 | Review / Mechanistic | Dermatology (Basel) | Examines retinoid-mediated inhibition of sebaceous gland activity; establishes the mechanistic basis for predicting anti-acne effects across the retinoid class, including acitretin |
-| [29234829](https://pubmed.ncbi.nlm.nih.gov/29234829/) | 2018 | Review | Der Hautarzt | Review of pharmacological treatments for acne inversa; positions retinoids including acitretin within the treatment landscape alongside antibiotics and TNF-α inhibitors |
-| [9074840](https://pubmed.ncbi.nlm.nih.gov/9074840/) | 1997 | Narrative Review | Drugs | Broad review of retinoid indications in dermatology; describes acitretin's established role in psoriasis and discusses applicability to acne-related dermatoses |
-| [2112772](https://pubmed.ncbi.nlm.nih.gov/2112772/) | 1990 | Mechanistic (In Vitro) | Prostaglandins | Demonstrates that acitretin inhibits eosinophil leukotriene C4 (LTC4) production; supports anti-inflammatory mechanism relevant to acne-associated tissue inflammation |
-| [1617858](https://pubmed.ncbi.nlm.nih.gov/1617858/) | 1992 | PK / Efficacy Review | Clin Pharmacokinet | Pharmacokinetic comparison of retinoids; confirms acitretin's established efficacy for psoriasis and hyperkeratosis, and discusses PK differences versus isotretinoin that are relevant to acne use |
+Acitretin ialah retinoid aromatik generasi kedua yang bertindak sebagai agonis penuh bagi reseptor asid retinoik (RAR-α, RAR-β, dan RAR-γ). Melalui isyarat reseptor nukleus, ia mengawal pembezaan keratinosit, menghalang aktiviti kelenjar sebum (penghambatan sebo), dan mengubah laluan peradangan termasuk pengeluaran leukotrien dan aktiviti NF-κB. Data MOA terperinci daripada DrugBank tidak tersedia dalam set data ini, tetapi kerangka mekanistik dicirikan dengan baik dalam literatur dermatologi.
+
+Patogenesis akne didorong oleh tiga mekanisme bertindih yang disasarkan secara langsung oleh retinoid: hiperkeratinisasi folikel, sekresi kelenjar sebum yang berlebihan, dan peradangan tempatan. Molekul yang berkait rapat, isotretinoin (asid retinoik 13-cis), telah pun menjadi rawatan baris pertama yang ditentukan untuk akne nodulokistik yang teruk. Acitretin tergolong dalam kelas farmakoloji yang sama dan berkongsi mekanisme penghambatan sebo dan anti-peradangan, walaupun ia berbeza dalam profil farmakokinetik dan klasifikasi risiko teratogenik.
+
+Laporan kes telah mendokumentasikan penggunaan acitretin dalam akne nodulokistik dan hidradenitis suppurativa (acne inversa), gangguan peradangan kronik yang berkaitan secara mekanistik dan anatomi dengan akne. Data susulan jangka panjang daripada siri kes 25 tahun (PMID 20874789) seterusnya menyokong kebolehpercayaan biologi ramalan TxGNN, memposisikan acitretin sebagai calon retinoid yang koheren secara mekanistik, jika pilihan kedua secara farmakoloji, untuk pengurusan akne.
 
 ---
 
-## Malaysia Market Information
+## Bukti Ujian Klinikal
 
-Four product registrations for acitretin are recorded with the NPRA (market status: **Marketed**). However, detailed licence information — including authorisation numbers, product names, dosage forms, and approved indication text — was not available in the current dataset. Please verify directly via the NPRA online portal (https://www.npra.gov.my) for complete registration details.
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
+|-------------|------|--------|------------|-----------------|
+| [NCT04663906](https://clinicaltrials.gov/study/NCT04663906) | N/A | Tidak Diketahui | 300 | Kajian pemerhatian mengkaji sama ada kekeringan mukosa hidung yang diinduksi retinoid oral meningkatkan risiko jangkitan COVID-19. Subjek kajian adalah isotretinoin (bukan acitretin); secara tidak langsung menunjukkan penggunaan retinoid sistemik dalam populasi akne sedang dalam penelitian keselamatan aktif. Tiada data keberkesanan untuk acitretin. |
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------------------|-------------|-------------|---------------------|
-| (Not available in dataset) | — | — | — |
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-> **Important note**: Safety data including key warnings, contraindications, and drug interaction information were not retrievable in this dataset (Data Gap DG001). Given that acitretin carries **FDA Pregnancy Category X** status and is associated with teratogenicity, hepatotoxicity, and hypertriglyceridaemia, reviewing the official NPRA-approved package insert before any clinical or regulatory decision is **essential**.
+> **Nota:** Tiada ujian klinikal yang secara langsung menilai acitretin untuk akne telah dikenal pasti. Satu-satunya ujian yang diambil berkaitan dengan retinoid yang berkaitan (isotretinoin) dan menangani soalan keselamatan, bukan keberkesanan rawatan.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Proceed with Guardrails**
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|------|------|--------|-----------------|
+| [20874789](https://pubmed.ncbi.nlm.nih.gov/20874789/) | 2011 | Siri Kes / Retrospektif | Br J Dermatol | Pengalaman 25 tahun dengan acitretin untuk hidradenitis suppurativa (acne inversa); menunjukkan respons jangka panjang yang bermakna secara klinikal dan mempersoalkan sama ada HS adalah benar-benar salah nama untuk acne inversa |
+| [12080949](https://pubmed.ncbi.nlm.nih.gov/12080949/) | 2002 | Laporan Kes | Cutis | Pesakit dengan akne wajah nodulokistik yang teruk dan HS dirawat dengan acitretin selepas dua kursus isotretinoin; peningkatan klinikal separa dicatat dalam kista wajah yang berterusan |
+| [25640693](https://pubmed.ncbi.nlm.nih.gov/25640693/) | 2015 | Garis Panduan Klinikal | J Eur Acad Dermatol Venereol | Garis panduan S1 Eropah untuk HS/acne inversa; termasuk retinoid (termasuk acitretin) dalam pilihan rawatan yang disyorkan |
+| [28476075](https://pubmed.ncbi.nlm.nih.gov/28476075/) | 2017 | Ulasan Cochrane | Cochrane Database Syst Rev | Ulasan sistematik rawatan ubat untuk lupus eritematosus discoid; menilai retinoid sebagai kelas rawatan, memberikan konteks bukti tahap tinggi untuk kesan penindas imun dan penormalan kulit acitretin |
+| [41692081](https://pubmed.ncbi.nlm.nih.gov/41692081/) | 2026 | Ulasan Naratif | Clin Dermatol | Kemas kini komprehensif tentang vitamin A dan retinoid dalam dermatologi; secara eksplisit meliputi acitretin bersama isotretinoin untuk gangguan berkaitan akne dan keratinisasi |
+| [8573927](https://pubmed.ncbi.nlm.nih.gov/8573927/) | 1995 | Ulasan / Mekanistik | Dermatology (Basel) | Mengkaji penghambatan retinoid-dirantai aktiviti kelenjar sebum; menetapkan asas mekanistik untuk meramalkan kesan anti-akne merentasi kelas retinoid, termasuk acitretin |
+| [29234829](https://pubmed.ncbi.nlm.nih.gov/29234829/) | 2018 | Ulasan | Der Hautarzt | Ulasan rawatan farmakologi untuk acne inversa; memposisikan retinoid termasuk acitretin dalam landskap rawatan bersama antibiotik dan perencat TNF-α |
+| [9074840](https://pubmed.ncbi.nlm.nih.gov/9074840/) | 1997 | Ulasan Naratif | Drugs | Ulasan luas tentang petunjuk retinoid dalam dermatologi; menerangkan peranan acitretin yang ditentukan dalam psoriasis dan membincangkan kebolehgunaan untuk dermatosis berkaitan akne |
+| [2112772](https://pubmed.ncbi.nlm.nih.gov/2112772/) | 1990 | Mekanistik (In Vitro) | Prostaglandins | Menunjukkan bahawa acitretin menghalang pengeluaran leukotriene C4 (LTC4) eosinofil; menyokong mekanisme anti-peradangan yang relevan dengan peradangan tisu berkaitan akne |
+| [1617858](https://pubmed.ncbi.nlm.nih.gov/1617858/) | 1992 | Ulasan PK / Keberkesanan | Clin Pharmacokinet | Perbandingan farmakokinetik retinoid; mengesahkan keberkesanan acitretin yang ditentukan untuk psoriasis dan hiperkeratosis, dan membincangkan perbezaan PK berbanding isotretinoin yang relevan untuk penggunaan akne |
 
-**Rationale:**
-Acitretin shares the core retinoid mechanism of action with isotretinoin — an established first-line treatment for severe acne — and case series and observational data support its use in acne-related disorders such as hidradenitis suppurativa. The L3 evidence base (no RCTs; supported by case reports, guidelines, and mechanistic reviews) justifies cautious advancement rather than outright rejection, but direct efficacy data for acitretin specifically in acne vulgaris is currently absent.
+---
 
-**To proceed, the following is needed:**
+## Maklumat Pasaran Malaysia
 
-- **Safety data retrieval** (Priority: Blocking): Download and parse the NPRA-approved package insert to extract key warnings, contraindications, and pregnancy risk information before any clinical assessment
-- **MOA confirmation**: Query DrugBank API (DB00459) to retrieve structured mechanism of action data for regulatory dossier use
-- **Differentiation analysis**: Clarify the clinical niche for acitretin vs. isotretinoin in acne — particularly for patients where isotretinoin is contraindicated or has failed
-- **Comparative PK/safety review**: Document the teratogenicity and hepatotoxicity profile differences between acitretin and isotretinoin to assess feasibility in target populations
-- **Prospective study design**: Consider a pilot observational study or structured case series for acitretin in acne inversa/nodulocystic acne where isotretinoin has been inadequate, to generate Tier 2 evidence
+Empat pendaftaran produk untuk acitretin direkodkan dengan NPRA (status pasaran: **Dipasarkan**). Walau bagaimanapun, maklumat lesen terperinci — termasuk nombor kebenaran, nama produk, bentuk dos, dan teks petunjuk yang diluluskan — tidak tersedia dalam set data semasa. Sila sahkan secara langsung melalui portal dalam talian NPRA (https://www.npra.gov.my) untuk butiran pendaftaran lengkap.
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjuk yang Diluluskan |
+|-----------------|------------|-----------|--------------------------|
+| (Tidak tersedia dalam set data) | — | — | — |
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
+
+> **Nota penting**: Data keselamatan termasuk amaran utama, kontraindikasi, dan maklumat interaksi ubat tidak dapat diambil semula dalam set data ini (Jurang Data DG001). Memandangkan acitretin membawa status Kategori Kehamilan X FDA dan dikaitkan dengan teratogenisiti, hepatotoksisiti, dan hipertrigliseridemia, menyemak sisipan pakej yang diluluskan NPRA secara rasmi sebelum sebarang keputusan klinikal atau peraturan adalah penting.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Teruskan dengan Pagar Keselamatan**
+
+**Alasan:**
+Acitretin berkongsi mekanisme tindakan retinoid teras dengan isotretinoin — rawatan baris pertama yang ditentukan untuk akne yang teruk — dan data siri kes dan pemerhatian menyokong penggunaannya dalam gangguan berkaitan akne seperti hidradenitis suppurativa. Asas bukti L3 (tiada RCT; disokong oleh laporan kes, garis panduan, dan ulasan mekanistik) membenarkan kemajuan berhati-hati dan bukannya penolakan terang-terangan, tetapi data keberkesanan langsung untuk acitretin khususnya dalam akne vulgaris pada masa ini tidak ada.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+
+- **Pengambilan data keselamatan** (Keutamaan: Menyekat): Muat turun dan huraikan sisipan pakej yang diluluskan NPRA untuk mengeluarkan amaran utama, kontraindikasi, dan maklumat risiko kehamilan sebelum sebarang penilaian klinikal
+- **Pengesahan MOA**: Soal balas API DrugBank (DB00459) untuk mendapatkan data mekanisme tindakan berstruktur untuk kegunaan fail peraturan
+- **Analisis pembezaan**: Jelaskan nisan klinikal untuk acitretin berbanding isotretinoin dalam akne — terutamanya untuk pesakit di mana isotretinoin adalah kontraindikasi atau telah gagal
+- **Ulasan PK/keselamatan perbandingan**: Dokumenkan perbezaan profil teratogenisiti dan hepatotoksisiti antara acitretin dan isotretinoin untuk menilai kebolehlaksanaan dalam populasi sasaran
+- **Reka bentuk kajian prospektif**: Pertimbangkan kajian pemerhatian pelopor atau siri kes berstruktur untuk acitretin dalam acne inversa/akne nodulokistik di mana isotretinoin tidak mencukupi, untuk menjana bukti Tier 2
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

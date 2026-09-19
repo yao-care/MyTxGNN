@@ -29,77 +29,78 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Calcium Lactate Gluconate: From Calcium Supplementation to Calcium-Alkali Syndrome
+# Calcium Lactate Gluconate: Daripada Pemampasan Kalsium kepada Sindrom Kalsium-Alkali
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-> Calcium Lactate Gluconate (DrugBank DB13365) is a calcium salt combination generally used for calcium supplementation, though detailed original indication and mechanism-of-action data are not currently available in the registration record.
-> The TxGNN model's top-ranked signal points to **Calcium-Alkali Syndrome**, but this is very likely a **reverse/adverse-event association** — the drug is a known causal risk factor for this syndrome, not a candidate treatment for it.
-> There are currently **0 clinical trials** and **0 publications** supporting a therapeutic relationship, so this candidate does not meet the evidentiary bar for repurposing.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not specified in the available registration records (calcium lactate gluconate is broadly known as an oral calcium supplement) |
-| Predicted New Indication | Calcium-Alkali Syndrome *(likely an adverse-event association, not a treatment indication — see below)* |
-| TxGNN Prediction Score | 99.34% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 6 |
-| Recommended Decision | Hold |
+> Calcium Lactate Gluconate (DrugBank DB13365) adalah kombinasi garam kalsium yang umumnya digunakan untuk pemampasan kalsium, walaupun data asal petunjukan dan mekanisme kerja yang terperinci tidak tersedia dalam rekod pendaftaran pada masa ini.
+> Isyarat berpangkat teratas model TxGNN menunjuk kepada **Sindrom Kalsium-Alkali**, tetapi ini sangat mungkin merupakan **perkaitan terbalik/kesan sampingan** — ubat ini adalah faktor risiko penyebab yang diketahui untuk sindrom ini, bukan calon rawatan untuknya.
+> Pada masa ini terdapat **0 ujian klinikal** dan **0 penerbitan** yang menyokong perkaitan terapeutik, jadi calon ini tidak memenuhi paras bukti untuk penggunaan semula ubat.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Pantas
 
-Currently, detailed mechanism-of-action data is not available for this product. Based on known pharmacology, calcium lactate gluconate is an oral calcium salt combination used to correct calcium deficiency states; its role as a systemic source of ionic calcium is well established. Mechanistically, however, this is precisely why the top TxGNN signal should be treated with caution rather than enthusiasm.
-
-Calcium-alkali syndrome (historically "milk-alkali syndrome") is a clinical syndrome of hypercalcemia, metabolic alkalosis, and renal impairment caused by **excess intake of calcium together with absorbable alkali**. Calcium lactate gluconate supplementation is a recognized *causal/risk factor* for this syndrome — the pharmacological relationship runs in the opposite direction from a therapeutic one. The high TxGNN score most plausibly reflects a drug–disease co-occurrence learned from adverse-event or toxicity contexts within the knowledge graph, rather than a genuine treatment signal. This candidate should **not** be interpreted as a repurposing opportunity; the model's own rationale notes explicitly that this is a reversed (drug-causes-disease) relationship.
-
-A second, lower-priority candidate identified by the model — *primary bone dysplasia with defective bone mineralization* — has a more plausible, though still purely mechanistic, rationale: calcium is a required substrate for hydroxyapatite formation, and supplementation could theoretically support mineralization in some bone disorders. However, this disease group is heterogeneous and often driven by underlying genetic/enzymatic defects (e.g., ALPL, PHEX, FGF23-related pathways) rather than simple calcium insufficiency; in some subtypes (e.g., hypophosphatasia) additional calcium may even increase risk of hypercalcemia or ectopic calcification. No clinical or literature evidence currently exists for this indication either, so it remains a research question rather than an actionable candidate.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Item | Kandungan |
+|------|----------|
+| Petunjukan Asal | Tidak dinyatakan dalam rekod pendaftaran yang tersedia (calcium lactate gluconate secara meluas diketahui sebagai suplemen kalsium oral) |
+| Petunjukan Baru yang Dijangka | Sindrom Kalsium-Alkali *(kemungkinan besar perkaitan kesan sampingan, bukan petunjukan rawatan — lihat di bawah)* |
+| Skor Ramalan TxGNN | 99.34% |
+| Paras Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 6 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available.
+Pada masa ini, data mekanisme kerja yang terperinci tidak tersedia untuk produk ini. Berdasarkan farmakologi yang diketahui, calcium lactate gluconate adalah kombinasi garam kalsium oral yang digunakan untuk membetulkan keadaan kekurangan kalsium; peranannya sebagai sumber sistemik kalsium ionik sudah mapan. Secara mekanis, bagaimanapun, ini adalah sebab mengapa isyarat TxGNN berpangkat teratas harus diperlakukan dengan berhati-hati dan bukannya antusias.
 
----
+Sindrom kalsium-alkali (secara sejarah "milk-alkali syndrome") adalah sindrom klinikal hiperkalsemia, alkalosis metabolik, dan gangguan buah pinggang yang disebabkan oleh **pengambilan berlebihan kalsium bersama alkali yang dapat diserap**. Pemampasan calcium lactate gluconate adalah faktor *penyebab/risiko* yang diketahui untuk sindrom ini — hubungan farmakologi berlangsung dalam arah yang bertentangan dengan yang terapeutik. Skor TxGNN yang tinggi paling munasabah mencerminkan kemunculan bersama ubat-penyakit yang dipelajari daripada konteks kesan sampingan atau toksisiti dalam graf pengetahuan, bukannya isyarat rawatan yang sebenarnya. Calon ini **tidak boleh** ditafsirkan sebagai peluang penggunaan semula; rasional model sendiri menyatakan dengan jelas bahawa ini adalah hubungan terbalik (ubat-menyebabkan-penyakit).
 
-## Malaysia Market Information
-
-NPRA registration records confirm the product is currently marketed in Malaysia with **6 active authorizations**, but license-level details (authorization numbers, product names, dosage forms, and approved indication text) are not populated in the current evidence pack and require direct extraction from NPRA product registration data before they can be reported individually.
+Calon berpangkat kedua yang lebih rendah yang dikenal pasti oleh model — *displasia tulang utama dengan osifikasi tulang yang cacat* — mempunyai rasional yang lebih munasabah, walaupun masih semata-mata mekanis: kalsium adalah substrat yang diperlukan untuk pembentukan hidroksiapatit, dan pemampasan boleh secara teorinya menyokong osifikasi dalam beberapa gangguan tulang. Walau bagaimanapun, kumpulan penyakit ini adalah heterogen dan sering didorong oleh kecacatan genetik/enzimatik yang mendasar (cth., ALPL, PHEX, laluan berkaitan FGF23) dan bukannya kekurangan kalsium yang mudah; dalam beberapa subtip (cth., hipofosfatasia) kalsium tambahan mungkin malah meningkatkan risiko hiperkalsemia atau pengapuran ektopik. Tiada bukti klinikal atau kesusasteraan yang ada pada masa ini untuk petunjukan ini juga, jadi ia tetap menjadi soalan penyelidikan dan bukannya calon yang boleh diambil tindakan.
 
 ---
 
-## Safety Considerations
+## Bukti Ujian Klinikal
 
-Please refer to the package insert for safety information. Note: the current evidence pack has a **blocking data gap (DG001)** — TFDA/NPRA label warnings and contraindications have not yet been retrieved — so no drug-specific safety statements can be made at this time; a DDI database query also returned no results.
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Kesusasteraan
 
-**Decision: Hold**
+Pada masa ini tiada kesusasteraan berkaitan yang tersedia.
 
-**Rationale:**
-The top-ranked predicted indication (calcium-alkali syndrome) is best understood as a known adverse effect/risk association of calcium lactate gluconate rather than a treatable indication, and is unsupported by any clinical trials or literature (Evidence Level L5, model prediction only). The secondary candidate (bone mineralization disorders) has a plausible mechanistic rationale but likewise has zero supporting trials or publications and involves a heterogeneous disease group where calcium supplementation may not address the underlying pathology. Neither candidate currently justifies moving beyond hypothesis stage.
+---
 
-**To proceed, the following is needed:**
-- Retrieve TFDA/NPRA product label warnings and contraindications (blocking gap, DG001)
-- Retrieve confirmed mechanism-of-action data from DrugBank (DG002)
-- Clarify whether the calcium-alkali syndrome signal in the knowledge graph reflects an adverse-event co-occurrence rather than a treatment relationship, to confirm it should be excluded from further repurposing evaluation
-- If pursuing the bone dysplasia candidate, identify the specific disease subtype/genetic etiology to determine whether calcium supplementation is mechanistically appropriate, and seek preclinical or case-level evidence before any further investment
-- Complete license-level extraction of Malaysia NPRA registration data (product names, dosage forms, approved indication text)
+## Maklumat Pasaran Malaysia
+
+Rekod pendaftaran NPRA mengesahkan produk sedang dipasarkan di Malaysia dengan **6 kebenaran aktif**, tetapi butiran peringkat lesen (nombor kebenaran, nama produk, bentuk dos, dan teks petunjukan yang diluluskan) tidak diisi dalam pek bukti semasa dan memerlukan ekstraksi langsung daripada data pendaftaran produk NPRA sebelum mereka dapat dilaporkan secara individu.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk risalah pek untuk maklumat keselamatan. Nota: pek bukti semasa mempunyai **jurang data pemblokiran (DG001)** — amaran label TFDA/NPRA dan kontraindikasi belum diambil — jadi tiada pernyataan keselamatan khusus ubat dapat dibuat pada masa ini; pertanyaan pangkalan data DDI juga mengembalikan tiada hasil.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Petunjukan yang dijangka berpangkat teratas (sindrom kalsium-alkali) paling baik difahami sebagai kesan sampingan/perkaitan risiko yang diketahui daripada calcium lactate gluconate dan bukannya petunjukan yang boleh dirawat, dan tidak disokong oleh sebarang ujian klinikal atau kesusasteraan (Paras Bukti L5, ramalan model sahaja). Calon sekunder (gangguan osifikasi tulang) mempunyai rasional mekanis yang munasabah tetapi begitu juga mempunyai sifar ujian atau penerbitan yang menyokong dan melibatkan kumpulan penyakit heterogen di mana pemampasan kalsium mungkin tidak menangani patologi asas. Kedua-dua calon pada masa ini tidak membenarkan bergerak melampaui peringkat hipotesis.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Ambil amaran label produk TFDA/NPRA dan kontraindikasi (jurang pemblokiran, DG001)
+- Ambil data mekanisme kerja yang disahkan daripada DrugBank (DG002)
+- Jelaskan sama ada isyarat sindrom kalsium-alkali dalam graf pengetahuan mencerminkan kemunculan bersama kesan sampingan dan bukannya hubungan rawatan, untuk mengesahkan ia harus dikecualikan daripada penilaian penggunaan semula lanjutan
+- Jika mengejar calon displasia tulang, kenal pasti subtip penyakit khusus/etiologi genetik untuk menentukan sama ada pemampasan kalsium adalah sesuai secara mekanis, dan cari bukti pra-klinikal atau peringkat kes sebelum sebarang pelaburan selanjutnya
+- Lengkapkan ekstraksi peringkat lesen data pendaftaran NPRA Malaysia (nama produk, bentuk dos, teks petunjukan yang diluluskan)
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

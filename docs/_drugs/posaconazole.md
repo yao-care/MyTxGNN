@@ -29,83 +29,84 @@ Tahap bukti: **L4** | Indikasi diramal: **1**
 
 </div>
 
-# Posaconazole: From Invasive Fungal Infection to Pneumocystosis
+# Posakonazol: Daripada Jangkitan Kulat Invasif ke Pneumocystosis
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Posaconazole is a triazole antifungal; the specific TFDA/NPRA-approved indication text was not retrievable from the registry data in this evidence pack, but posaconazole is broadly known for prophylaxis/treatment of invasive fungal infections. The TxGNN model predicts it may be effective for **Pneumocystosis (Pneumocystis pneumonia)**, but this is currently supported only by **2 tangentially relevant clinical trials** and **5 review/case-level publications**, none of which directly test posaconazole against Pneumocystis jirovecii.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not specified in registry data (known drug class: triazole antifungal) |
-| Predicted New Indication | Pneumocystosis (Pneumocystis pneumonia) |
-| TxGNN Prediction Score | 99.77% |
-| Evidence Level | L4 |
-| Malaysia Market Status | Marketed (Marketed) |
-| Number of Registrations | 3 |
-| Recommended Decision | Hold |
+Posakonazol adalah agen antijamur triazol; teks indikasi khusus yang diluluskan TFDA/NPRA tidak dapat diambil daripada data pendaftaran dalam pakej bukti ini, tetapi posakonazol secara umum dikenali untuk profilaksis/rawatan jangkitan kulat invasif. Model TxGNN meramalkan ia mungkin berkesan untuk **Pneumocystosis (pneumonia Pneumocystis)**, tetapi ini pada masa kini hanya disokong oleh **2 percubaan klinikal yang relevan secara tangensial** dan **5 penerbitan peringkat ulasan/kes**, tidak satu pun yang secara langsung menguji posakonazol terhadap Pneumocystis jirovecii.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Ringkas
 
-Currently, detailed mechanism of action data for posaconazole is not available in this evidence pack. Based on known pharmacology, posaconazole is a triazole antifungal that inhibits fungal lanosterol 14α-demethylase (CYP51), blocking ergosterol synthesis in the fungal cell membrane — the mechanism underlying its efficacy against filamentous and yeast-like fungi in invasive fungal infections.
-
-However, the repurposing rationale in this evidence pack flags an important mechanistic caveat: *Pneumocystis jirovecii* is an atypical fungus whose trophic form relies primarily on host-derived cholesterol rather than its own ergosterol synthesis, making its sensitivity to triazoles fundamentally different from typical fungal pathogens. This is consistent with clinical practice, where posaconazole is not a first-line agent for Pneumocystis pneumonia (first-line agents are TMP-SMX, atovaquone, or dapsone).
-
-Because both the original indication text and the formal MOA record are data gaps, this prediction should currently be treated as a class-level pharmacological analogy rather than a mechanistically validated hypothesis. The TxGNN score is high, but it is not yet corroborated by direct pharmacodynamic or clinical evidence specific to Pneumocystis.
+| Item | Kandungan |
+|------|---------|
+| Indikasi Asal | Tidak dinyatakan dalam data pendaftaran (kelas ubat yang dikenali: agen antijamur triazol) |
+| Indikasi Baru Terjangka | Pneumocystosis (pneumonia Pneumocystis) |
+| Skor Ramalan TxGNN | 99.77% |
+| Tahap Bukti | L4 |
+| Status Pasaran Malaysia | Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 3 |
+| Keputusan Disyorkan | Tahan |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Pada masa kini, data terperinci mekanisme tindakan untuk posakonazol tidak tersedia dalam pakej bukti ini. Berdasarkan farmakoloji yang dikenali, posakonazol adalah agen antijamur triazol yang menghalang enzim lanosterol 14α-demetilase kulat (CYP51), menyekat sintesis ergosterol dalam membran sel kulat — mekanisme yang mendasari keberhasilannya terhadap kulat berfilamen dan mirip ragi dalam jangkitan kulat invasif.
+
+Bagaimanapun, alasan penyusunan semula dalam pakej bukti ini menunjukkan kaveat mekanisme yang penting: *Pneumocystis jirovecii* adalah kulat atipik yang bentuk trofik utamanya bergantung pada kolesterol daripada tuan rumah dan bukannya sintesis ergosterol sendiri, menjadikan kerentanannya terhadap triazol secara asasnya berbeza daripada patogen kulat biasa. Ini konsisten dengan amalan klinikal, di mana posakonazol bukan agen pilihan pertama untuk pneumonia Pneumocystis (agen pilihan pertama adalah TMP-SMX, atovakuon, atau dapson).
+
+Kerana teks indikasi asal dan rekod MOA rasmi adalah jurang data, ramalan ini pada masa kini harus dianggap sebagai analogi farmakologi peringkat kelas dan bukannya hipotesis yang disahkan secara mekanistik. Skor TxGNN adalah tinggi, tetapi ia belum lagi disokong oleh bukti farmakodinamik langsung atau klinikal khusus untuk Pneumocystis.
+
+---
+
+## Bukti Percubaan Klinikal
+
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT04368559](https://clinicaltrials.gov/study/NCT04368559) | Phase 3 | Active, not recruiting | 602 | Evaluates rezafungin (an echinocandin, not posaconazole) vs. standard antimicrobial regimen for prevention of invasive fungal disease in allogeneic transplant recipients — same disease-prevention setting but a different drug; graded low relevance (Grade C) to posaconazole specifically. |
-| [NCT06859424](https://clinicaltrials.gov/study/NCT06859424) | Phase 2 | Recruiting | 358 | Platform study on GVHD prophylaxis after mismatched unrelated donor transplant; posaconazole, if used, would appear only as a co-administered antifungal prophylaxis, not as the primary study intervention for Pneumocystis (Grade C). |
+| [NCT04368559](https://clinicaltrials.gov/study/NCT04368559) | Fasa 3 | Aktif, bukan pemulihan | 602 | Menilai rezafungin (ekinokandin, bukan posakonazol) berbanding rejimen antimikrob piawai untuk pencegahan penyakit kulat invasif dalam penerima pemindahan allogenik — tetapan pencegahan penyakit yang sama tetapi ubat yang berbeza; dinilai relevan rendah (Gred C) untuk posakonazol khususnya. |
+| [NCT06859424](https://clinicaltrials.gov/study/NCT06859424) | Fasa 2 | Merekrut | 358 | Kajian platform pada profilaksis GVHD selepas pemindahan penderma yang tidak sepadan tanpa hubungan; posakonazol, jika digunakan, hanya akan muncul sebagai profilaksis antijamur yang ditadbir bersama, bukan sebagai campur tangan kajian utama untuk Pneumocystis (Gred C). |
 
 ---
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [41232547](https://pubmed.ncbi.nlm.nih.gov/41232547/) | 2025 | Review/Guideline | The Lancet. Infectious Diseases | UK best-practice update on diagnostic methods for serious fungal diseases (non-culture-based tests); not specific to posaconazole treatment efficacy. |
-| [26901377](https://pubmed.ncbi.nlm.nih.gov/26901377/) | 2016 | Review | Swiss Medical Weekly | Overview of invasive candidiasis, aspergillosis, cryptococcosis, and Pneumocystis pneumonia; notes mould-active posaconazole's role in antifungal prophylaxis in high-risk haemato-oncology patients, reducing invasive candidiasis rates. |
-| [41362140](https://pubmed.ncbi.nlm.nih.gov/41362140/) | 2025 | Guideline | Chinese Journal of Tuberculosis and Respiratory Diseases | Chinese clinical practice guideline for diagnosis/management of invasive pulmonary fungal disease; general guidance, not posaconazole/Pneumocystis-specific. |
-| [35596686](https://pubmed.ncbi.nlm.nih.gov/35596686/) | 2022 | Cohort | Transplant Infectious Disease | Retrospective review of infectious complications in acute GVHD after liver transplant; describes antimicrobial management patterns broadly, not a posaconazole efficacy study. |
-| [21973267](https://pubmed.ncbi.nlm.nih.gov/21973267/) | 2011 | Review (PK) | Clinical Pharmacokinetics | Reviews pulmonary epithelial lining fluid penetration of antifungal/antitubercular agents; pharmacokinetic context only, no efficacy data for Pneumocystis. |
+| [41232547](https://pubmed.ncbi.nlm.nih.gov/41232547/) | 2025 | Ulasan/Garis Panduan | The Lancet. Infectious Diseases | Pengemaskinian amalan terbaik UK pada kaedah diagnostik untuk penyakit kulat yang serius (ujian bukan berasaskan budaya); bukan khusus untuk kecekapan rawatan posakonazol. |
+| [26901377](https://pubmed.ncbi.nlm.nih.gov/26901377/) | 2016 | Ulasan | Swiss Medical Weekly | Gambaran keseluruhan kandidiasis invasif, aspergilosis, kriptokokosis, dan pneumonia Pneumocystis; mencatat peranan posakonazol aktif acuan dalam profilaksis antijamur dalam pesakit hemato-onkologi berisiko tinggi, mengurangkan kadar kandidiasis invasif. |
+| [41362140](https://pubmed.ncbi.nlm.nih.gov/41362140/) | 2025 | Garis Panduan | Chinese Journal of Tuberculosis and Respiratory Diseases | Garis panduan amalan klinikal China untuk diagnosis/pengurusan penyakit kulat paru invasif; panduan umum, bukan khusus posakonazol/Pneumocystis. |
+| [35596686](https://pubmed.ncbi.nlm.nih.gov/35596686/) | 2022 | Kohort | Transplant Infectious Disease | Semakan retrospektif komplikasi jangkitan dalam GVHD akut selepas pemindahan hati; menjelaskan corak pengurusan antimikrob secara umum, bukan kajian kecekapan posakonazol. |
+| [21973267](https://pubmed.ncbi.nlm.nih.gov/21973267/) | 2011 | Ulasan (PK) | Clinical Pharmacokinetics | Semakan penetrasi epitel paru-paru cecair agen antijamur/antituberkulosis; konteks farmakokinetik sahaja, tiada data kecekapan untuk Pneumocystis. |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-The evidence pack confirms posaconazole has **3 active registrations** in Malaysia (NPRA, market status: Marketed/Marketed), but the license number, product name, dosage form, and approved indication text fields were not populated in this dataset, so a detailed registration table cannot be produced. This should be sourced directly from NPRA records before proceeding.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information. TFDA/NPRA label warnings, contraindications, and drug-drug interaction data were not retrievable in this evidence pack (see Data Gap DG001, marked Blocking).
+Pakej bukti mengesahkan posakonazol mempunyai **3 pendaftaran aktif** di Malaysia (NPRA, status pasaran: Dipasarkan/Dipasarkan), tetapi nombor lesen, nama produk, bentuk dos, dan bidang teks indikasi diluluskan tidak diisi dalam set data ini, jadi jadual pendaftaran terperinci tidak boleh dihasilkan. Ini harus bersumber langsung daripada rekod NPRA sebelum meneruskan.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila rujuk sisipan pakej untuk maklumat keselamatan. Amaran label TFDA/NPRA, kontraindikasi, dan data interaksi ubat-ubatan tidak dapat diambil dalam pakej bukti ini (lihat Jurang Data DG001, ditandakan Menghalang).
 
-**Rationale:**
-The mechanistic rationale is weak and self-flagged as speculative — Pneumocystis jirovecii's biology differs from typical ergosterol-dependent fungi, and posaconazole is not a first-line agent for this indication. Neither identified clinical trial directly evaluates posaconazole for Pneumocystis (both graded low relevance), and a Blocking data gap on label warnings/contraindications means safety cannot yet be assessed (DG001 explicitly blocks S1 safety review).
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA label PDF (warnings, contraindications) to resolve DG001
-- Confirmed DrugBank MOA record to resolve DG002
-- Direct pharmacological or clinical evidence evaluating posaconazole activity against Pneumocystis jirovecii specifically
-- Complete NPRA registration details (license numbers, product names, approved indication text) for the 3 existing Malaysia registrations
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Alasan:**
+Alasan mekanisme adalah lemah dan ditandakan sendiri sebagai spekulatif — biologi Pneumocystis jirovecii berbeza daripada kulat yang bergantung pada ergosterol biasa, dan posakonazol bukan agen pilihan pertama untuk indikasi ini. Tidak satu pun percubaan klinikal yang dikenal pasti secara langsung menilai posakonazol untuk Pneumocystis (kedua-duanya dinilai relevan rendah), dan jurang data Menghalang pada amaran label/kontraindikasi bermakna keselamatan belum lagi dapat dinilai (DG001 secara eksplisit menghalang semakan keselamatan S1).
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- PDF label TFDA/NPRA (amaran, kontraindikasi) untuk menyelesaikan DG001
+- Rekod MOA DrugBank yang disahkan untuk menyelesaikan DG002
+- Bukti farmakologi atau klinikal langsung menilai aktiviti posakonazol terhadap Pneumocystis jirovecii khususnya
+- Butiran pendaftaran NPRA lengkap (nombor lesen, nama produk, teks indikasi diluluskan) untuk 3 pendaftaran Malaysia sedia ada
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,64 +29,65 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Fulvestrant: From Breast Cancer to HIV Infectious Disease
+# Fulvestrant: Daripada Kanser Payudara kepada Penyakit Berjangkit HIV
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-> Fulvestrant is a selective estrogen receptor degrader (SERD) used to treat hormone receptor-positive, HER2-negative advanced or metastatic breast cancer.
-> The TxGNN model predicts it may be effective for **HIV Infectious Disease**,
-> but this direction is currently supported by **0 clinical trials** and only **1 tangentially related publication** (on HTLV-1, a distinct retrovirus), indicating a high-score but essentially unvalidated signal.
+> Fulvestrant ialah peredam reseptor estrogen terpilih (SERD) yang digunakan untuk merawat kanser payudara lanjutan atau metastasis yang positif reseptor hormon, HER2-negatif.
+> Model TxGNN meramalkan ia mungkin berkesan untuk **Penyakit Berjangkit HIV**,
+> tetapi arah ini kini disokong hanya oleh **0 uji klinis** dan hanya **1 penerbitan yang berhubung secara tidak langsung** (mengenai HTLV-1, retrovirus yang berbeza), menunjukkan isyarat skor tinggi tetapi pada asasnya tidak disahkan.
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Not disclosed in NPRA license text (all 5 sampled license records have empty `approved_indication_text`) |
-| Predicted New Indication | HIV Infectious Disease |
-| TxGNN Prediction Score | 99.91% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 8 |
-| Recommended Decision | Hold |
+| Indikasi Asal | Tidak didedahkan dalam teks lesen NPRA (kesemua 5 rekod lesen sampel mempunyai teks `approved_indication_text` kosong) |
+| Indikasi Baru Diramalkan | Penyakit Berjangkit HIV |
+| Skor Ramalan TxGNN | 99.91% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 8 |
+| Keputusan Yang Disyorkan | Tunggu |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Masuk Akal?
 
-Detailed mechanism of action data for fulvestrant is not available in this evidence pack. Based on known information, fulvestrant is a selective estrogen receptor degrader (SERD) that binds to and accelerates degradation of the estrogen receptor; its efficacy in hormone receptor-positive breast cancer is well established.
+Data mekanisme tindakan terperinci untuk fulvestrant tidak tersedia dalam pakej bukti ini. Berdasarkan maklumat yang diketahui, fulvestrant ialah peredam reseptor estrogen terpilih (SERD) yang mengikat dan mempercepatkan degradasi reseptor estrogen; keberkesanannya dalam kanser payudara positif reseptor hormon telah terbukti dengan baik.
 
-There is no known pharmacological pathway connecting estrogen receptor degradation to antiretroviral or anti-HIV activity. The only literature item returned for this prediction is a 2025 cross-omics analysis of HTLV-1-associated myelopathy (HAM) — a neuroinflammatory disease caused by a different retrovirus (HTLV-1, not HIV) — and it does not mention fulvestrant, estrogen signaling, or any anti-HIV mechanism.
+Tiada laluan farmakologi yang diketahui menghubungkan degradasi reseptor estrogen kepada aktiviti antiretrovirus atau anti-HIV. Satu-satunya item literatur yang dikembalikan untuk ramalan ini ialah analisis omik silang 2025 mengenai mielopati berkaitan HTLV-1 (HAM) — penyakit neuroinflamasi yang disebabkan oleh retrovirus yang berbeza (HTLV-1, bukan HIV) — dan ia tidak menyebut fulvestrant, pensinyalan estrogen, atau sebarang mekanisme anti-HIV.
 
-Given the absence of a plausible mechanistic bridge and the complete lack of drug-specific clinical or preclinical evidence, this TxGNN prediction should be treated as an unvalidated high-score model artifact rather than a genuine repurposing signal.
+Mengingat ketiadaan sambungan mekanisme yang munasabah dan ketiadaan lengkap bukti klinis atau praklinik khusus ubat, ramalan TxGNN ini harus dianggap sebagai artifak model berskor tinggi yang tidak disahkan bukannya isyarat penjelmaan semula ubat yang tulen.
 
-## Clinical Trial Evidence
+## Bukti Uji Klinis
 
-Currently no related clinical trials registered.
+Pada masa kini tiada uji klinis berkaitan yang berdaftar.
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [40343334](https://pubmed.ncbi.nlm.nih.gov/40343334/) | 2025 | Cross-omics Analysis (preprint) | Research Square | Multi-cohort cross-omics study of HTLV-1-associated myelopathy (HAM) mechanisms and therapeutic targets; does not address HIV or fulvestrant. |
+| [40343334](https://pubmed.ncbi.nlm.nih.gov/40343334/) | 2025 | Analisis Omik Silang (pra-cetak) | Research Square | Kajian omik silang berbilang kohort mengenai mekanisme mielopati berkaitan HTLV-1 (HAM) dan sasaran terapeutik; tidak menangani HIV atau fulvestrant. |
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-The evidence pack confirms fulvestrant is marketed in Malaysia (market status: Marketed) with **8** active NPRA registrations. However, the returned license records contain no license numbers, product names, dosage forms, or indication text, so a per-license table cannot be produced from this data.
+Pakej bukti mengesahkan fulvestrant dipasarkan di Malaysia (status pasaran: Dipasarkan) dengan **8** pendaftaran NPRA yang aktif. Walau bagaimanapun, rekod lesen yang dikembalikan tidak mengandungi nombor lesen, nama produk, bentuk dos, atau teks indikasi, jadi jadual setiap lesen tidak dapat dihasilkan daripada data ini.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk risalah produk untuk maklumat keselamatan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tunggu**
 
-**Rationale:**
-The HIV indication is supported only by TxGNN's model score (L5, decision stage S0) — there are no clinical trials and only one unrelated (HTLV-1) publication, with no mechanistic rationale linking ER degradation to antiretroviral activity.
+**Alasan:**
+Indikasi HIV hanya disokong oleh skor model TxGNN (L5, tahap keputusan S0) — tiada uji klinis dan hanya satu penerbitan tidak berkaitan (HTLV-1), tanpa alasan mekanisme yang menghubungkan degradasi ER kepada aktiviti antiretrovirus.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert warnings and contraindications (currently Blocking data gap DG001) before any S1 safety screening can begin
-- Detailed mechanism of action (MOA) data (currently High-severity data gap DG002)
-- Dedicated preclinical or mechanistic studies specifically testing fulvestrant against HIV/retroviral targets, since existing literature does not address this indication
-- Confirmed original indication text and full license details from NPRA (current records are blank)
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Amaran risalah produk TFDA/NPRA dan kontraindikasi (kini menghalang jurang data DG001) sebelum sebarang pemeriksaan keselamatan S1 dapat dimulakan
+- Data mekanisme tindakan terperinci (MOA) (kini jurang data yang berat DG002)
+- Kajian praklinik atau mekanisme khusus yang khusus menguji fulvestrant terhadap sasaran HIV/retrovirus, kerana literatur sedia ada tidak menangani indikasi ini
+- Teks indikasi asal yang disahkan dan butiran lesen lengkap daripada NPRA (rekod semasa kosong)
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

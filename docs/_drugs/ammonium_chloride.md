@@ -29,88 +29,89 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Ammonium Chloride: From Expectorant/Acidifier to Pharyngitis
+# Ammonium Chloride: Daripada Ekspektoran/Pengasidan kepada Faringitis
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Ammonium Chloride is a well-established compound pharmacologically known as an expectorant and systemic acidifying agent, commonly included in OTC cough and cold preparations.
-The TxGNN model predicts it may be effective for **Pharyngitis**, however the prediction score stands at **0.00%** with **0 clinical trials** and **4 publications** of limited direct relevance supporting this direction.
-This combination of near-zero model confidence and absent direct clinical evidence warrants a cautious hold before any further development steps.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Not available from regulatory records (pharmacologically known as expectorant and systemic acidifier) |
-| Predicted New Indication | Pharyngitis |
-| TxGNN Prediction Score | 0.00% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 36 |
-| Recommended Decision | Hold |
+Ammonium Chloride adalah sebatian yang telah ditubuhkan secara farmakologi sebagai ekspektoran dan agen pengasidan sistemik, biasanya dimasukkan dalam persediaan batuk dan selsema OTC.
+Model TxGNN meramalkan ia mungkin berkesan untuk **Faringitis**, namun skor ramalan berdiri pada **0.00%** dengan **0 ujian klinikal** dan **4 penerbitan** yang mempunyai kaitan langsung terbatas untuk arah ini.
+Kombinasi keyakinan model hampir sifar dan ketiadaan bukti klinikal langsung menjamin penahanan berhati-hati sebelum sebarang langkah pembangunan lanjut.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Ringkasan Pantas
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on established pharmacology, Ammonium Chloride acts as an expectorant by stimulating bronchial gland secretion and increasing respiratory tract fluid volume, thereby reducing mucus viscosity and facilitating clearance of the airways. It also functions as a systemic acidifier by converting to urea and hydrochloric acid in the liver, lowering urinary and systemic pH.
-
-Pharyngitis, common cold, and nasopharyngitis are all upper respiratory tract conditions that share overlapping symptomatic profiles — including throat irritation, mucosal inflammation, and excess mucus production — with which ammonium chloride's expectorant mechanism is broadly compatible. This biological plausibility is further supported by the fact that ammonium chloride is already a common active ingredient in numerous marketed OTC cough and cold preparations, lending indirect credibility to the TxGNN prediction.
-
-However, the TxGNN score of 0.00% is a significant cautionary signal. This value suggests the knowledge graph model found very weak network-level connections between ammonium chloride and pharyngitis, and the evidence retrieved — consisting entirely of papers on structurally related but distinct quaternary ammonium compounds — does not fill this gap. The prediction should therefore be treated as hypothesis-generating rather than actionable at this stage.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Tidak tersedia daripada rekod pengawalseliaan (secara farmakologi diketahui sebagai ekspektoran dan pengasidan sistemik) |
+| Petunjuk Baharu Yang Diramal | Faringitis |
+| Skor Ramalan TxGNN | 0.00% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 36 |
+| Keputusan Disyorkan | Penahanan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-The following publications were retrieved for ammonium chloride and pharyngitis. **Important caveat:** the papers retrieved describe quaternary ammonium compounds (benzalkonium chloride, benzoxonium chloride) rather than ammonium chloride itself; direct clinical evidence for ammonium chloride as a pharyngitis therapeutic is absent from this evidence pack.
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia dalam pakej bukti ini. Berdasarkan farmakologi yang ditubuhkan, Ammonium Chloride bertindak sebagai ekspektoran dengan merangsang sekresi kelenjar bronkial dan meningkatkan jumlah bendalir saluran pernafasan, dengan itu mengurangkan kelikatan lendir dan memudahkan pembersihan saluran udara. Ia juga berfungsi sebagai pengasidan sistemik dengan bertukar menjadi urea dan asid hidroklorik dalam hati, menurunkan pH urin dan sistemik.
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [442769](https://pubmed.ncbi.nlm.nih.gov/442769/) | 1979 | Clinical | ZFA. Zeitschrift fur Allgemeinmedizin | Addresses therapy of acute inflammatory diseases of the mouth and pharyngeal space; abstract unavailable for detailed assessment |
-| [3606702](https://pubmed.ncbi.nlm.nih.gov/3606702/) | 1987 | Clinical study | Arzneimittel-Forschung | Benzoxonium chloride (a quaternary ammonium compound, not ammonium chloride) gargle solutions significantly reduced buccopharyngeal bacterial count in healthy volunteers; 38 patients with sore throat showed safety and efficacy signal |
-| [7818285](https://pubmed.ncbi.nlm.nih.gov/7818285/) | 1994 | Environmental/Epidemiological | Archives of Environmental Health | Pharyngitis and irritative symptoms observed after accidental exposure to a quaternary ammonium disinfectant via a school HVAC system; documents upper airway sensitivity to this compound class |
-| [38622748](https://pubmed.ncbi.nlm.nih.gov/38622748/) | 2024 | Case report | Acta Veterinaria Scandinavica | Severe benzalkonium chloride intoxication in a cat; pharyngitis and oral ulcerations observed at ≤2% concentrations, illustrating mucosal irritation potential of quaternary ammonium compounds |
+Faringitis, selesema biasa, dan nasofaring adalah semua keadaan saluran pernafasan atas yang berkongsi profil simptomatik yang bertindih — termasuk kerengsaan tekak, keradangan membran, dan pengeluaran lendir berlebihan — yang mana mekanisme ekspektoran ammonium chloride secara meluas serasi. Kebolehujudan biologi ini disokong lagi oleh fakta bahawa ammonium chloride sudah pun merupakan bahan aktif biasa dalam banyak persediaan batuk dan selsema OTC yang dipasarkan, memberikan kredibiliti tidak langsung kepada ramalan TxGNN.
+
+Walau bagaimanapun, skor TxGNN sebanyak 0.00% adalah isyarat amaran yang ketara. Nilai ini menunjukkan model graf pengetahuan menemui sambungan tahap rangkaian yang sangat lemah antara ammonium chloride dan faringitis, dan bukti yang diambil — terdiri sepenuhnya daripada kertas tentang sebatian kuaternium ammonium yang berstruktur tetapi berbeza — tidak mengisi jurang ini. Oleh itu, ramalan harus dianggap sebagai penghasil hipotesis dan bukannya boleh bertindak pada peringkat ini.
 
 ---
 
-## Malaysia Market Information
+## Bukti Ujian Klinikal
 
-Detailed product-level registration data was not populated in this evidence pack. The 36 registered products should be verified directly via the NPRA (National Pharmaceutical Regulatory Agency) public database.
-
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------------------|-------------|------------|-------------------|
-| (Not available in evidence pack — 36 registrations confirmed by NPRA query) | — | — | — |
+Pada masa ini tiada ujian klinikal berkaitan yang didaftar.
 
 ---
 
-## Safety Considerations
+## Bukti Literatur
 
-Please refer to the package insert for safety information. Warnings, contraindications, and drug interaction data were all flagged as data gaps in this evidence pack and require retrieval from the NPRA product inserts before any safety assessment can be completed.
+Penerbitan berikut telah diambil untuk ammonium chloride dan faringitis. **Kaveat penting:** kertas yang diambil menghuraikan sebatian kuaternium ammonium (benzalkonium chloride, benzoxonium chloride) dan bukan ammonium chloride itu sendiri; bukti klinikal langsung untuk ammonium chloride sebagai ubat faringitis tidak hadir dalam pakej bukti ini.
+
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-------|------|--------|-------------|
+| [442769](https://pubmed.ncbi.nlm.nih.gov/442769/) | 1979 | Klinikal | ZFA. Zeitschrift fur Allgemeinmedizin | Menangani terapi penyakit radang akut rongga mulut dan ruang farinks; abstrak tidak tersedia untuk penilaian terperinci |
+| [3606702](https://pubmed.ncbi.nlm.nih.gov/3606702/) | 1987 | Kajian klinikal | Arzneimittel-Forschung | Larutan gargle benzoxonium chloride (sebatian kuaternium ammonium, bukan ammonium chloride) mengurangkan bilangan bakteria bukofarinkes dengan ketara dalam sukarelawan sihat; 38 pesakit dengan sakit tekak menunjukkan isyarat keselamatan dan keberkesanan |
+| [7818285](https://pubmed.ncbi.nlm.nih.gov/7818285/) | 1994 | Alam sekitar/Epidemiologi | Archives of Environmental Health | Faringitis dan gejala kerengsaan yang diperhatikan selepas pendedahan sampingan kepada disinfektan kuaternium ammonium melalui sistem HVAC sekolah; mendokumenkan kepekaan saluran udara atas kepada kelas sebatian ini |
+| [38622748](https://pubmed.ncbi.nlm.nih.gov/38622748/) | 2024 | Laporan kes | Acta Veterinaria Scandinavica | Keracunan benzalkonium chloride yang teruk dalam seekor kucing; faringitis dan ulserasi mulut diperhatikan pada kepekatan ≤2%, menggambarkan potensi kerengsaan membran sebatian kuaternium ammonium |
 
 ---
 
-## Conclusion and Next Steps
+## Maklumat Pasaran Malaysia
 
-**Decision: Hold**
+Data pendaftaran peringkat produk terperinci tidak diisi dalam pakej bukti ini. 36 produk berdaftar harus disahkan secara langsung melalui pangkalan data awam NPRA (Agensi Pengawalseliaan Farmasetik Kebangsaan).
 
-**Rationale:**
-The TxGNN prediction score of 0.00% indicates negligible model confidence for this repurposing direction, no registered clinical trials exist, and the retrieved literature addresses structurally related but distinct quaternary ammonium compounds rather than ammonium chloride itself — making this evidence pack insufficient to advance a repurposing claim.
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjuk Lulus |
+|------------------|------------|-----------|-------------|
+| (Tidak tersedia dalam pakej bukti — 36 pendaftaran disahkan oleh pertanyaan NPRA) | — | — | — |
 
-**To proceed, the following is needed:**
-- **[Blocking]** Download and parse NPRA product insert PDFs to obtain approved indications, warnings, and contraindications for the 36 registered products
-- **[High]** Retrieve MOA data from DrugBank API (DB06767) to enable mechanistic link analysis
-- Conduct a targeted PubMed search specifically for "ammonium chloride" AND "pharyngitis" or "upper respiratory tract infection" to identify any direct clinical literature not captured in this pack
-- Clarify whether the TxGNN score of 0.00% reflects a genuine low-confidence prediction or a technical pipeline issue (e.g., missing node embedding for this drug)
-- Review whether any of the 36 Malaysian registered products already carry an upper respiratory tract or cough/cold indication, which would reclassify this as a label-extension rather than repurposing scenario
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk risalah pek untuk maklumat keselamatan. Data amaran, kontraindikasi, dan interaksi ubat semuanya ditandai sebagai jurang data dalam pakej bukti ini dan memerlukan pengambilan daripada risalah produk NPRA sebelum sebarang penilaian keselamatan boleh diselesaikan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Penahanan**
+
+**Alasan:**
+Skor ramalan TxGNN sebanyak 0.00% menunjukkan keyakinan model yang boleh diabaikan untuk arah pemindahan ini, tiada ujian klinikal berdaftar wujud, dan literatur yang diambil menangani sebatian kuaternium ammonium yang berstruktur tetapi berbeza dan bukannya ammonium chloride itu sendiri — menjadikan pakej bukti ini tidak mencukupi untuk memajukan klaim pemindahan.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- **[Menyekat]** Muat turun dan analisis PDF risalah produk NPRA untuk mendapatkan petunjuk yang diluluskan, amaran, dan kontraindikasi untuk 36 produk berdaftar
+- **[Tinggi]** Ambil data MOA daripada API DrugBank (DB06767) untuk membolehkan analisis pautan mekanis
+- Lakukan carian PubMed yang disasarkan khusus untuk "ammonium chloride" DAN "pharyngitis" atau "upper respiratory tract infection" untuk mengenal pasti sebarang literatur klinikal langsung yang tidak ditangkap dalam pakej ini
+- Jelaskan sama ada skor TxGNN sebanyak 0.00% mencerminkan ramalan keyakinan rendah yang tulen atau isu saluran paip teknikal (cth: penyisipan nod yang hilang untuk ubat ini)
+- Tinjau sama ada mana-mana daripada 36 produk berdaftar Malaysia sudah membawa petunjuk saluran pernafasan atas atau batuk/selsema, yang akan mengklasifikasikan semula ini sebagai skenario pelanjutan label dan bukannya pemindahan
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

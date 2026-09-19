@@ -29,61 +29,62 @@ Tahap bukti: **L5** | Indikasi diramal: **7**
 
 </div>
 
-# Sodium Fluoride: From Dental/Bone Mineral Therapy to Epiglottitis
+# Sodium Fluoride: Dari Terapi Mineral Gigi/Tulang hingga Epiglottitis
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Sodium fluoride (DrugBank DB09325) is conventionally used for dental caries prevention and as an osteoporosis adjunct, though this original indication is not captured in the current Malaysia license data extract. The TxGNN model's top-ranked prediction is **Epiglottitis**, but this candidate has **0 clinical trials** and **0 publications**, and the model's own mechanistic review found no pharmacological plausibility for the association.
+Sodium fluoride (DrugBank DB09325) secara konvensional digunakan untuk pencegahan karies gigi dan sebagai adjuvan osteoporosis, meskipun indikasi asal ini tidak tercatat dalam ekstrak data lesen Malaysia semasa. Ramalan model teratas TxGNN ialah **Epiglottitis**, tetapi calon ini mempunyai **0 uji klinis** dan **0 penerbitan**, dan ulasan mekanistik model sendiri tidak menemui kemasukkan farmakologi untuk hubungan tersebut.
 
-## Quick Overview
+## Gambaran Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | Not captured in current license records (commonly known for dental caries prevention / osteoporosis adjunct — unverified against package insert) |
-| Predicted New Indication | Epiglottitis |
-| TxGNN Prediction Score | 99.92% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|-----------|
+| Indikasi Asal | Tidak tercatat dalam rekod lesen semasa (biasanya dikenali untuk pencegahan karies gigi / adjuvan osteoporosis — tidak disahkan terhadap risalah pakej) |
+| Indikasi Baharu Diramal | Epiglottitis |
+| Skor Ramalan TxGNN | 99.92% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 3 |
+| Keputusan Disyorkan | Tunggu |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed mechanism-of-action data for sodium fluoride is not available in this evidence pack (flagged as a High-severity data gap). Based on general pharmacological knowledge, sodium fluoride's established uses relate to hard-tissue mineral metabolism — dental caries prevention (enamel remineralization, inhibition of plaque-bacteria enzymes) and osteoporosis adjunct therapy (osteoblast stimulation).
+Data mekanisme tindakan terperinci untuk sodium fluoride tidak tersedia dalam pakej bukti ini (ditanda sebagai jurang data Keterukan Tinggi). Berdasarkan pengetahuan farmakologi umum, penggunaan sodium fluoride yang telah ditubuhkan berkaitan dengan metabolisme mineral jaringan keras — pencegahan karies gigi (pendemineralan semula enamel, penghambatan enzim plak-bakteria) dan terapi adjuvan osteoporosis (rangsangan osteoblas).
 
-Epiglottitis is an acute bacterial or viral inflammatory condition of the epiglottis with no known connection to fluoride's mineral-metabolism pathways. The evidence pack's own rationale for this candidate states explicitly that there is **no known mechanistic link**, and that the high TxGNN score likely reflects a knowledge-graph co-occurrence artifact rather than a genuine pharmacological hypothesis.
+Epiglottitis ialah keadaan peradangan bakteria atau viral akut pada epiglotis tanpa hubungan yang diketahui dengan laluan metabolisme mineral fluorida. Nisbah pakej bukti sendiri untuk calon ini menyatakan dengan terang bahawa terdapat **tiada pautan mekanistik yang diketahui**, dan skor TxGNN yang tinggi mungkin mencerminkan artifak penyelarasan graf pengetahuan daripada hipotesis farmakologi yang tulen.
 
-This pattern repeats across all seven ranked candidates in this pack (urinary tract infection, Ureaplasma urethritis, gonococcal urethritis, uterine inflammatory disease, xanthogranulomatous pyelonephritis, and laryngitis) — none has an identified mechanistic rationale. Notably, the one candidate with literature support, laryngitis (rank 7), turns out to be a naming artifact: all 5 retrieved papers use **¹⁸F-NaF as a PET bone/cartilage imaging tracer** (skeletal metastasis staging, cricoid cartilage invasion imaging), not as a laryngitis treatment — and are therefore not supportive evidence.
+Corak ini berulang merentas ketujuh calon pangkat dalam pakej ini (jangkitan saluran kencing, Ureaplasma urethritis, urethritis gonokokal, penyakit radang uterus, pyelonephritis xanthogranulomatik, dan laryngitis) — tiada satu pun yang mempunyai nisbah mekanistik yang dikenal pasti. Terutama, calon tunggal dengan sokongan literatur, laryngitis (pangkat 7), ternyata menjadi artifak penamaan: kesemua 5 kertas yang diperoleh menggunakan **¹⁸F-NaF sebagai perunut PET pengimejan tulang/rawan** (peringkatan metastasis rangka, pengimejan pencerobohan krikoid), bukan sebagai rawatan laryngitis — dan oleh itu bukan bukti sokongan.
 
-## Clinical Trial Evidence
+## Bukti Uji Klinis
 
-Currently no related clinical trials registered
+Pada masa ini tiada uji klinis berkaitan yang didaftarkan
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no related literature available
+Pada masa ini tiada literatur berkaitan yang tersedia
 
-## Malaysia Market Information
+## Maklumat Pasar Malaysia
 
-Malaysia currently holds 3 marketing authorizations for sodium fluoride products, but license numbers, product names, dosage forms, and approved-indication text are not available in the current data extract.
+Malaysia pada masa ini memegang 3 kebenaran pemasaran untuk produk sodium fluoride, tetapi nombor lesen, nama produk, bentuk dos, dan teks indikasi yang diluluskan tidak tersedia dalam ekstrak data semasa.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk risalah pakej untuk maklumat keselamatan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tunggu**
 
-**Rationale:**
-The top-ranked candidate (Epiglottitis) is an L5, model-prediction-only signal with zero supporting clinical trials or literature, and the pack's own mechanistic review found no pharmacological plausibility. The same holds for all other ranked candidates in this pack; the one candidate with literature (laryngitis) is explained by a ¹⁸F-NaF imaging-tracer naming confound rather than genuine treatment evidence.
+**Nisbah:**
+Calon pangkat teratas (Epiglottitis) ialah isyarat L5, ramalan model sahaja dengan sifar uji klinis atau literatur sokongan, dan ulasan mekanistik pakej sendiri tidak menemui kemasukkan farmakologi. Perkara yang sama berlaku untuk semua calon pangkat lain dalam pakej ini; calon tunggal dengan literatur (laryngitis) dijelaskan oleh pengeliruan perunut pengimejan ¹⁸F-NaF daripada bukti rawatan tulen.
 
-**To proceed, the following is needed:**
-- TFDA/package-insert warnings and contraindications (currently a Blocking data gap)
-- Verified mechanism-of-action data from DrugBank (currently a High-severity data gap)
-- Confirmed original indication and approved-indication text from Malaysia license records
-- Complete license details (numbers, product names, dosage forms) for the 3 registered products
-- If pursued further, an independent mechanistic hypothesis for epiglottitis would be required before any evidence-generation investment, given the current rationale finds none
+**Untuk meneruskan, berikut diperlukan:**
+- Amaran/kontraindikasi TFDA/risalah pakej (pada masa ini jurang data Halangan)
+- Data mekanisme tindakan yang disahkan dari DrugBank (pada masa ini jurang data Keterukan Tinggi)
+- Indikasi asal dan teks indikasi yang diluluskan yang disahkan dari rekod lesen Malaysia
+- Butiran lesen lengkap (nombor, nama produk, bentuk dos) untuk 3 produk yang didaftarkan
+- Jika diteruskan lebih jauh, hipotesis mekanistik yang bebas untuk epiglottitis akan diperlukan sebelum sebarang pelaburan penjanaan bukti, memandangkan nisbah semasa tidak menemui sebarang
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

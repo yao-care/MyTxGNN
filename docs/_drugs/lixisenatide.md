@@ -29,93 +29,92 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Lixisenatide: Repurposing Evaluation Report (Prediction Data Pending)
+# Lixisenatide: Laporan Penilaian Kegunaan Semula (Data Ramalan Belum Tersedia)
 
 ---
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Lixisenatide (DB09265) is a GLP-1 receptor agonist most commonly indicated for the management of type 2 diabetes mellitus, used in combination with basal insulin or oral antidiabetics.
-This evidence pack **does not contain TxGNN model prediction results** — the `predicted_indications` array is empty — so no new repurposing indication can be formally evaluated at this time.
-Malaysia NPRA records confirm the drug is currently marketed under 2 registrations, but licence details and safety data remain unavailable in this version of the pack.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Type 2 Diabetes Mellitus (GLP-1 receptor agonist class) |
-| Predicted New Indication | — (no TxGNN prediction data present) |
-| TxGNN Prediction Score | — |
-| Evidence Level | N/A — prediction output absent |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
-| Recommended Decision | **Hold** |
+Lixisenatide (DB09265) adalah agonis reseptor GLP-1 yang paling umum diindikasikan untuk pengurusan diabetes mellitus jenis 2, digunakan bersama insulin basal atau antidiabetik oral.
+Pakej bukti ini **tidak mengandungi hasil ramalan model TxGNN** — larik `predicted_indications` adalah kosong — oleh itu, tiada indikasi kegunaan semula baru yang dapat dinilai secara formal pada masa ini.
+Rekod Malaysia NPRA mengesahkan ubat ini sedang dipasarkan di bawah 2 pendaftaran, tetapi butiran lesen dan data keselamatan tetap tidak tersedia dalam versi pakej ini.
 
 ---
 
-## Why Is This Prediction Reasonable?
+## Ikhtisar Pantas
 
-This section cannot be completed as no predicted indication is present in the `predicted_indications` field of this evidence pack.
-
-For background context: lixisenatide is a selective GLP-1 receptor agonist that acts by enhancing glucose-dependent insulin secretion, suppressing postprandial glucagon release, and slowing gastric emptying. The GLP-1 signalling pathway has attracted growing research interest beyond glycaemic control — published studies have explored its role in cardiovascular protection, obesity, non-alcoholic steatohepatitis (NASH), and neurodegenerative diseases such as Parkinson's and Alzheimer's disease. These mechanistic links suggest plausible repurposing directions, but they must be anchored to an actual TxGNN prediction score and supporting evidence before formal evaluation can proceed.
-
-Additionally, detailed MOA data was flagged as a data gap (DG002); retrieval from the DrugBank API is recommended to supplement this analysis.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
-> *Reason: No predicted indication is available in this evidence pack. Without a target disease, no clinical trial query was performed.*
+| Item | Kandungan |
+|------|-----------|
+| Indikasi Asal | Diabetes Mellitus Jenis 2 (kelas agonis reseptor GLP-1) |
+| Indikasi Baru yang Diramalkan | — (tiada data ramalan TxGNN) |
+| Skor Ramalan TxGNN | — |
+| Tahap Bukti | T/A — output ramalan tidak ada |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 2 |
+| Keputusan yang Disyorkan | **Tunggu** |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Adalah Munasabah?
 
-Currently no related literature available.
+Bahagian ini tidak dapat diselesaikan kerana tiada indikasi yang diramalkan dalam medan `predicted_indications` bagi pakej bukti ini.
 
-> *Reason: No predicted indication is available in this evidence pack. Without a target disease, no PubMed query was performed.*
+Untuk konteks latar belakang: lixisenatide adalah agonis reseptor GLP-1 yang selektif yang bertindak dengan meningkatkan sekresi insulin yang bergantung kepada glukosa, menekan pelepasan glukagon selepas makan, dan memperlahankan pengosongan lambung. Laluan isyarat GLP-1 telah menarik minat penyelidikan yang semakin meningkat di luar kawalan glikemia — kajian yang diterbitkan telah mengkaji peranannya dalam perlindungan kardiovaskular, obesiti, steatohepatitis bukan alkohol (NASH), dan penyakit neurodegeneratif seperti penyakit Parkinson dan penyakit Alzheimer. Pautan mekanistik ini mencadangkan arah kegunaan semula yang munasabah, tetapi ia mesti ditambatkan kepada skor ramalan TxGNN yang sebenar dan bukti yang menyokong sebelum penilaian formal dapat dijalankan. Selain itu, data MOA terperinci telah ditanda sebagai jurang data (DG002); pengambilan dari API DrugBank disyorkan untuk melengkapi analisis ini.
 
 ---
 
-## Malaysia Market Information
+## Bukti Ujian Klinikal
 
-Two product licences are registered under Malaysia's NPRA for lixisenatide. However, the individual licence details — including product name, dosage form, manufacturer, and approved indication text — were not returned in this evidence pack (all fields are blank strings).
+Jeranji tiada ujian klinikal yang berkaitan didaftarkan.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+> *Sebab: Tiada indikasi yang diramalkan tersedia dalam pakej bukti ini. Tanpa penyakit sasaran, tiada pertanyaan ujian klinikal yang dilakukan.*
+
+---
+
+## Bukti Kesusasteraan
+
+Jeranji tiada kesusasteraan yang berkaitan tersedia.
+
+> *Sebab: Tiada indikasi yang diramalkan tersedia dalam pakej bukti ini. Tanpa penyakit sasaran, tiada carian PubMed yang dilakukan.*
+
+---
+
+## Maklumat Pasaran Malaysia
+
+Dua lesen produk didaftarkan di bawah NPRA Malaysia untuk lixisenatide. Walau bagaimanapun, butiran lesen individu — seperti nama produk, bentuk dos, pengeluar, dan teks indikasi yang diluluskan — tidak dikembalikan dalam pakej bukti ini (kesemua medan adalah rentetan kosong).
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
 |----------------------|--------------|-------------|---------------------|
-| — | — | — | Details not available in this evidence pack |
-| — | — | — | Details not available in this evidence pack |
+| — | — | — | Butiran tidak tersedia dalam pakej bukti ini |
+| — | — | — | Butiran tidak tersedia dalam pakej bukti ini |
 
-Please verify directly via the **NPRA e-Search portal**: https://www.npra.gov.my/index.php/en/industry/registration/product-registration/check-product-registration-status.html
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-> All safety fields in this evidence pack are data gaps: key warnings, contraindications, and drug-drug interaction records were not retrieved. This was flagged as a **Blocking** issue (DG001) — the NPRA/TFDA package insert PDF should be downloaded and parsed before any safety-gated evaluation can proceed.
+Sila sahkan secara langsung melalui **portal e-Search NPRA**: https://www.npra.gov.my/index.php/en/industry/registration/product-registration/check-product-registration-status.html
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-**Rationale:**
-This evidence pack is structurally incomplete — no TxGNN prediction results are present, licence details are blank, and all safety data is missing. A meaningful repurposing evaluation requires at minimum a target indication with a model confidence score and basic safety clearance.
+> Kesemua medan keselamatan dalam pakej bukti ini adalah jurang data: amaran utama, kontraindikasi, dan rekod interaksi ubat-ubat tidak diperolehi. Ini telah ditanda sebagai isu **Penghalang** (DG001) — PDF sisipan pakej NPRA/TFDA perlu dimuat turun dan dianalisis sebelum sebarang penilaian yang dijaga keselamatan dapat dijalankan.
 
-**To proceed, the following is needed:**
+---
 
-- **Re-run TxGNN model** for lixisenatide (DB09265) to populate `predicted_indications` with candidate diseases and confidence scores
-- **Retrieve MOA data** from the DrugBank API (DG002 — High severity) to support mechanism-of-action analysis
-- **Parse the NPRA/manufacturer package insert PDF** to extract approved indications, key warnings, and contraindications (DG001 — Blocking)
-- **Populate licence details** (product name, dosage form, approved indication text) from NPRA records for the 2 registered products
-- Once a predicted indication is identified, re-collect clinical trial (ClinicalTrials.gov / ICTRP) and PubMed literature evidence to assign a proper evidence level (L1–L5)
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tunggu**
+
+**Rasional:**
+Pakej bukti ini tidak lengkap secara struktur — tiada hasil ramalan model TxGNN yang ada, butiran lesen adalah kosong, dan kesemua data keselamatan hilang. Penilaian kegunaan semula yang bermakna memerlukan sekurang-kurangnya indikasi sasaran dengan skor keyakinan model dan kelulusan keselamatan asas.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+
+- **Jalankan semula model TxGNN** untuk lixisenatide (DB09265) untuk mengisi `predicted_indications` dengan penyakit calon dan skor keyakinan
+- **Ambil data MOA** dari API DrugBank (DG002 — Keseriusan Tinggi) untuk menyokong analisis mekanisme tindakan
+- **Analisis PDF sisipan pakej NPRA/pengeluar** untuk mengekstrak indikasi yang diluluskan, amaran utama, dan kontraindikasi (DG001 — Penghalang)
+- **Isi butiran lesen** (nama produk, bentuk dos, teks indikasi yang diluluskan) dari rekod NPRA untuk 2 produk berdaftar
+- Apabila indikasi yang diramalkan dikenalpasti, **kumpul semula bukti ujian klinikal** (ClinicalTrials.gov / ICTRP) dan **bukti kesusasteraan PubMed** untuk memberikan tahap bukti yang sesuai (L1–L5)
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

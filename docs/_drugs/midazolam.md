@@ -29,87 +29,88 @@ Tahap bukti: **L3** | Indikasi diramal: **1**
 
 </div>
 
-# Midazolam: From Sedation/Anesthesia to Insomnia
+# Midazolam: Daripada Sedasi/Anestesia kepada Insomnia
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Midazolam is a short-acting benzodiazepine most commonly used for procedural sedation, preoperative anxiolysis, and induction of anesthesia. The TxGNN model predicts it may also be effective for **Insomnia**, with **32 clinical trials** identified in the search (mostly related to sedation/sleep-quality contexts) and **11 publications**, including several older double-blind randomized trials that directly tested midazolam for sleep disorders. A blocking data gap remains: NPRA package-insert warnings and contraindications have not yet been retrieved, so full safety screening (S1) cannot be completed.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Sedation / anesthesia induction (specific NPRA-approved indication text not captured in current dataset) |
-| Predicted New Indication | Insomnia |
-| TxGNN Prediction Score | 99.74% |
-| Evidence Level | L3 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 15 |
-| Recommended Decision | Hold |
+Midazolam ialah benzodiazepin kerja pendek yang paling biasa digunakan untuk sedasi prosedur, anxiolisis praoperatif, dan aruhan anestesia. Model TxGNN meramalkan ia mungkin juga berkesan untuk **Insomnia**, dengan **32 uji klinikal** yang dikenal pasti dalam carian (kebanyakannya berkaitan dengan konteks sedasi/kualiti tidur) dan **11 penerbitan**, termasuk beberapa uji rawak berkumpul tertutup yang lebih tua yang menguji midazolam secara langsung untuk gangguan tidur. Jurang data yang menghalang masih tinggal: amaran sisipan paket NPRA dan kontraindikasi masih belum diambil, oleh itu saringan keselamatan penuh (S1) tidak dapat diselesaikan.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Pantas
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on known pharmacology, midazolam is a short-acting benzodiazepine that acts as a positive allosteric modulator at the GABA-A receptor, enhancing inhibitory GABAergic neurotransmission to produce sedative, anxiolytic, amnestic, and hypnotic effects. It is primarily used for procedural sedation, preoperative anxiolysis, and induction of general anesthesia.
-
-Because insomnia is fundamentally a disorder of sleep initiation and maintenance, and midazolam's core pharmacological action is hypnotic/sedative, the mechanistic rationale for repurposing toward insomnia is direct rather than incidental — other benzodiazepines in the same class (e.g., triazolam, temazepam) are already approved hypnotics. This shared mechanism plausibly explains the strong TxGNN score.
-
-That said, most of the clinical trial evidence retrieved relates to procedural/perioperative sedation and sleep-quality outcomes in surgical or ICU settings, not to chronic primary insomnia as a standalone indication. The strongest direct evidence for an insomnia indication comes from a small set of older (1981–1990) double-blind randomized trials specifically testing oral midazolam in patients with sleep disorders.
-
----
-
-## Clinical Trial Evidence
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT06407518](https://clinicaltrials.gov/study/NCT06407518) | NA | Recruiting | 280 | Preoperative oral midazolam for postoperative pain in patients with sleep disturbance/anxiety undergoing laparoscopic colorectal cancer resection |
-| [NCT02142595](https://clinicaltrials.gov/study/NCT02142595) | Phase 4 | Completed | 111 | Compares postoperative sleep quality with IV dexmedetomidine vs. midazolam sedation for TURP |
-| [NCT01966315](https://clinicaltrials.gov/study/NCT01966315) | N/A | Terminated | 5 | Compares sleep quality/quantity (24h polysomnography) between dexmedetomidine and midazolam in ICU patients |
-| [NCT00826553](https://clinicaltrials.gov/study/NCT00826553) | Phase 1 | Terminated | 6 | Compares polysomnographic sleep stages between α2 agonist (dexmedetomidine) and GABA agonist (midazolam-class) sedation |
-| [NCT04082767](https://clinicaltrials.gov/study/NCT04082767) | Phase 3 | Unknown | 120 | Sedation efficacy of dexmedetomidine vs. midazolam in critically ill ventilated children |
-| [NCT00744380](https://clinicaltrials.gov/study/NCT00744380) | NA | Completed | 23 | Dexmedetomidine vs. midazolam for facilitating extubation in ICU patients |
-| [NCT04149626](https://clinicaltrials.gov/study/NCT04149626) | Phase 2 | Unknown | 60 | Compares dexmedetomidine, midazolam, and remifentanil for sedation in orthopedic surgery under regional anesthesia |
-| [NCT07336095](https://clinicaltrials.gov/study/NCT07336095) | Phase 3 | Not yet recruiting | 195 | Oral melatonin vs. oral midazolam as premedication in children undergoing tonsillectomy |
-| [NCT06480500](https://clinicaltrials.gov/study/NCT06480500) | Phase 2 | Recruiting | 110 | Internet-based CBT plus IV ketamine for suicidality in treatment-resistant depression, midazolam-controlled |
-| [NCT06498869](https://clinicaltrials.gov/study/NCT06498869) | NA | Completed | 178 | Effect of ketamine on sleep quality during colonoscopy sedation (midazolam used in standard sedation protocol) |
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Sedasi / aruhan anestesia (teks indikasi khusus yang diluluskan NPRA tidak ditangkap dalam set data semasa) |
+| Indikasi Baru yang Diramalkan | Insomnia |
+| Skor Ramalan TxGNN | 99.74% |
+| Tahap Bukti | L3 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 15 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Wajar?
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [6138072](https://pubmed.ncbi.nlm.nih.gov/6138072/) | 1983 | RCT | British Journal of Clinical Pharmacology | Double-blind trial: midazolam 15mg vs. Vesparax in insomnia secondary to neuromuscular disease; midazolam was an effective hypnotic, better tolerated, no hangover effect |
-| [2121802](https://pubmed.ncbi.nlm.nih.gov/2121802/) | 1990 | RCT | Journal of Clinical Psychopharmacology | Randomized, double-blind, parallel-group multicenter study of sleep, performance, and plasma levels with 14-day use of flurazepam vs. midazolam in chronic insomniacs |
-| [2229461](https://pubmed.ncbi.nlm.nih.gov/2229461/) | 1990 | RCT | Journal of Clinical Psychopharmacology | Executive summary of the above multicenter 14-day flurazepam vs. midazolam trial in chronic insomniacs |
-| [6120704](https://pubmed.ncbi.nlm.nih.gov/6120704/) | 1981 | Clinical Trial | Arzneimittel-Forschung | Multi-center dose-finding pilot study of oral midazolam (10–30mg) in 75 hospitalized patients with mild-to-moderate insomnia |
-| [17988972](https://pubmed.ncbi.nlm.nih.gov/17988972/) | 2007 | Review | Orvosi Hetilap | Review of insomnia pathophysiology, including hyperarousal state in primary insomnia |
-| [2883820](https://pubmed.ncbi.nlm.nih.gov/2883820/) | 1986 | Review | Acta Psychiatrica Scandinavica Suppl. | Review of clinical use of hypnotics (including benzodiazepines) and rationale for a variety of hypnotic options |
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia dalam pakej bukti ini. Berdasarkan farmakologi yang diketahui, midazolam ialah benzodiazepin kerja pendek yang bertindak sebagai modulator alosterik positif pada reseptor GABA-A, meningkatkan neurotransmisi GABAergik penghambatan untuk menghasilkan kesan sedatif, anxiolitis, amnestik, dan hipnotik. Ia digunakan terutamanya untuk sedasi prosedur, anxiolisis praoperatif, dan aruhan anestesia umum.
+
+Kerana insomnia adalah pada asasnya gangguan permulaan dan penyelenggaraan tidur, dan tindakan farmakologi teras midazolam adalah hipnotik/sedatif, alasan mekanistik untuk tujuan semula kepada insomnia adalah langsung daripada kebetulan — benzodiazepin lain dalam kelas yang sama (cth., triazolam, temazepam) sudah diluluskan sebagai hipnotik. Mekanisme bersama ini secara munasabah menjelaskan skor TxGNN yang kuat.
+
+Yang dikatakan, kebanyakan bukti uji klinikal yang diambil berkaitan dengan sedasi prosedur/perioperatif dan hasil kualiti tidur dalam tetapan pembedahan atau ICU, bukan kepada insomnia primer kronik sebagai indikasi kendiri. Bukti langsung yang paling kuat untuk indikasi insomnia datang daripada set kecil uji rawak berkumpul tertutup (1981–1990) yang lebih tua yang menguji midazolam oral secara khusus dalam pesakit dengan gangguan tidur.
 
 ---
 
-## Safety Considerations
+## Bukti Uji Klinikal
 
-Please refer to the package insert for safety information.
+| No. Uji | Fasa | Status | Pendaftaran | Penemuan Utama |
+|---------|------|--------|----------|----------|
+| [NCT06407518](https://clinicaltrials.gov/study/NCT06407518) | NA | Merekrut | 280 | Midazolam oral praoperatif untuk kesakitan pasca operasi pada pesakit dengan gangguan tidur/kebimbangan yang menjalani reseksi kanser kolorektal laparoskopi |
+| [NCT02142595](https://clinicaltrials.gov/study/NCT02142595) | Fasa 4 | Selesai | 111 | Membandingkan kualiti tidur pasca operasi dengan sedasi IV dexmedetomidine vs. midazolam untuk TURP |
+| [NCT01966315](https://clinicaltrials.gov/study/NCT01966315) | T/A | Ditamatkan | 5 | Membandingkan kualiti/kuantiti tidur (polisomnografi 24j) antara dexmedetomidine dan midazolam dalam pesakit ICU |
+| [NCT00826553](https://clinicaltrials.gov/study/NCT00826553) | Fasa 1 | Ditamatkan | 6 | Membandingkan tahap tidur polisomnografik antara agonis α2 (dexmedetomidine) dan sedasi agonis GABA (kelas midazolam) |
+| [NCT04082767](https://clinicaltrials.gov/study/NCT04082767) | Fasa 3 | Tidak Diketahui | 120 | Keberkesanan sedasi dexmedetomidine vs. midazolam pada anak-anak berventilasi yang kritikal |
+| [NCT00744380](https://clinicaltrials.gov/study/NCT00744380) | NA | Selesai | 23 | Dexmedetomidine vs. midazolam untuk memudahkan ekstubasi pada pesakit ICU |
+| [NCT04149626](https://clinicaltrials.gov/study/NCT04149626) | Fasa 2 | Tidak Diketahui | 60 | Membandingkan dexmedetomidine, midazolam, dan remifentanil untuk sedasi dalam pembedahan ortopedik di bawah anestesia serantau |
+| [NCT07336095](https://clinicaltrials.gov/study/NCT07336095) | Fasa 3 | Belum mula merekrut | 195 | Melatonin oral vs. midazolam oral sebagai pramedikasi pada anak-anak yang menjalani tonsilektomi |
+| [NCT06480500](https://clinicaltrials.gov/study/NCT06480500) | Fasa 2 | Merekrut | 110 | CBT berasaskan internet ditambah ketamin IV untuk kesuicidan dalam kemurungan tahan rawatan, dikawal midazolam |
+| [NCT06498869](https://clinicaltrials.gov/study/NCT06498869) | NA | Selesai | 178 | Kesan ketamin pada kualiti tidur semasa sedasi kolonoskopi (midazolam digunakan dalam protokol sedasi standard) |
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Hold**
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|------|--------|--------|----------|
+| [6138072](https://pubmed.ncbi.nlm.nih.gov/6138072/) | 1983 | RCT | British Journal of Clinical Pharmacology | Uji berkumpul tertutup: midazolam 15mg vs. Vesparax dalam insomnia sekunder kepada penyakit neuromuskular; midazolam adalah hipnotik yang berkesan, bertolak ansur lebih baik, tiada kesan cangkup |
+| [2121802](https://pubmed.ncbi.nlm.nih.gov/2121802/) | 1990 | RCT | Journal of Clinical Psychopharmacology | Kajian berpusat multisentral berkumpul tertutup selari: tidur, prestasi, dan paras plasma dengan penggunaan 14 hari flurazepam vs. midazolam pada insomnia kronik |
+| [2229461](https://pubmed.ncbi.nlm.nih.gov/2229461/) | 1990 | RCT | Journal of Clinical Psychopharmacology | Ringkasan eksekutif ujian multisentral 14 hari flurazepam vs. midazolam di atas pada insomnia kronik |
+| [6120704](https://pubmed.ncbi.nlm.nih.gov/6120704/) | 1981 | Uji Klinikal | Arzneimittel-Forschung | Kajian pelopor carian dos multisentral midazolam oral (10–30mg) dalam 75 pesakit wad dengan insomnia ringan hingga sederhana |
+| [17988972](https://pubmed.ncbi.nlm.nih.gov/17988972/) | 2007 | Ulasan | Orvosi Hetilap | Ulasan patofisiologi insomnia, termasuk keadaan hiperbangun dalam insomnia primer |
+| [2883820](https://pubmed.ncbi.nlm.nih.gov/2883820/) | 1986 | Ulasan | Acta Psychiatrica Scandinavica Suppl. | Ulasan penggunaan klinikal hipnotik (termasuk benzodiazepin) dan rasional untuk pelbagai pilihan hipnotik |
 
-**Rationale:**
-- TxGNN prediction is strong (99.74%) and is supported by several historical double-blind RCTs directly testing midazolam for sleep disorders/insomnia, giving mechanistic and empirical plausibility. However, NPRA package-insert warnings and contraindications are a **blocking** data gap — the candidate cannot pass initial safety screening (S1) without this information, particularly given midazolam's known respiratory depression and dependence risks in general use.
+---
 
-**To proceed, the following is needed:**
-- NPRA/TFDA package insert warnings and contraindications (blocking gap, DG001)
-- Confirmed mechanism of action detail from DrugBank (DG002)
-- Malaysia product license details (brand names, dosage forms, approved indication text) — current registry data is incomplete
-- Formal drug-drug interaction (DDI) profile, since none was found in this pull
-- Assessment of whether current midazolam formulations (injectable/procedural) are compatible with a chronic insomnia dosing regimen
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan paket untuk maklumat keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Berikutnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+- Ramalan TxGNN adalah kuat (99.74%) dan disokong oleh beberapa RCT berkumpul tertutup bersejarah yang menguji midazolam secara langsung untuk gangguan tidur/insomnia, memberikan kebolehpercayaan mekanistik dan empirik. Walau bagaimanapun, amaran sisipan paket NPRA dan kontraindikasi adalah jurang data yang **menghalang** — calon tidak dapat melepasi saringan keselamatan awal (S1) tanpa maklumat ini, terutamanya diberikan depresi pernafasan midazolam yang diketahui dan risiko kebergantungan dalam penggunaan umum.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Amaran sisipan paket NPRA/TFDA dan kontraindikasi (jurang menghalang, DG001)
+- Butiran mekanisme tindakan yang disahkan dari DrugBank (DG002)
+- Butiran lesen produk Malaysia (nama jenama, bentuk dos, teks indikasi yang diluluskan) — data daftar semasa tidak lengkap
+- Profil interaksi dadah-dadah rasmi (DDI), kerana tidak ada yang ditemui dalam tarikan ini
+- Penilaian sama ada formulasi midazolam semasa (boleh suntik/prosedur) sesuai dengan rejimen dos insomnia kronik
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

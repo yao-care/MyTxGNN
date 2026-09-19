@@ -29,99 +29,100 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Aceclofenac: From Inflammatory Pain to Osteoarthritis
+# Aceclofenac: Dari Kesakitan Inflamasi kepada Osteoartritis
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Aceclofenac is an oral NSAID (phenylacetic acid derivative) used for the symptomatic treatment of inflammatory pain and rheumatic conditions including joint disease, low back pain, and periarthritis.
-The TxGNN model predicts it may be effective for **Osteoarthritis**, with **5 clinical trials** and **20 publications** currently supporting this direction—including a 2017 meta-analysis of randomised controlled trials directly confirming its efficacy in knee OA.
+Aceclofenac adalah NSAID oral (derivatif asid fenil asetat) yang digunakan untuk rawatan simptomatik kesakitan inflamasi dan keadaan reumatik termasuk penyakit sendi, nyeri pinggang bawah, dan periartritis.
+Model TxGNN meramalkan ia mungkin berkesan untuk **Osteoartritis**, dengan **5 uji kaji klinikal** dan **20 publikasi** kini menyokong arah ini—termasuk meta-analisis 2017 terhadap uji kaji terkawal rawak yang secara langsung mengesahkan keberkesanannya dalam OA lutut.
 
 ---
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Not available in current NPRA registration data (globally used for inflammatory pain and rheumatic conditions) |
-| Predicted New Indication | Osteoarthritis |
-| TxGNN Prediction Score | 99.92% |
-| Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Proceed with Guardrails |
+| Petunjuk Asal | Tidak tersedia dalam data pendaftaran NPRA semasa (digunakan secara global untuk kesakitan inflamasi dan keadaan reumatik) |
+| Petunjuk Baru Diramalkan | Osteoartritis |
+| Skor Ramalan TxGNN | 99.92% |
+| Tahap Bukti | L1 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan Yang Disyorkan | Teruskan dengan Penjaga |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data is not available from the DrugBank records in this Evidence Pack. Based on extensively published pharmacological literature, Aceclofenac is a phenylacetic acid derivative that inhibits both COX-1 and COX-2 enzymes, thereby suppressing prostaglandin E2 (PGE2) synthesis and reducing the expression of pro-inflammatory mediators—including IL-1β, TNF-α, and matrix metalloproteinases (MMPs)—within synovial tissue and cartilage. These are the core inflammatory pathways driving joint pain and structural deterioration in osteoarthritis.
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia daripada rekod DrugBank dalam Paket Bukti ini. Berdasarkan literatur farmakologi yang telah diterbitkan secara meluas, aceclofenac adalah derivatif asid fenil asetat yang menghalang enzim COX-1 dan COX-2, dengan itu menekan sintesis prostaglandin E2 (PGE2) dan mengurangkan ungkapan mediator pro-inflamasi—termasuk IL-1β, TNF-α, dan metalloproteinase matriks (MMP)—dalam tisu sinovial dan rawan tulang rawan. Ini adalah laluan inflamasi utama yang mendorong kesakitan sendi dan kemerosotan struktur dalam osteoartritis.
 
-What distinguishes Aceclofenac from other NSAIDs in the context of osteoarthritis is evidence of additional chondroprotective activity. Research published in the *British Journal of Pharmacology* (PMID: 11090115) demonstrated that Aceclofenac—unlike diclofenac—promotes proteoglycan and hyaluronan synthesis in osteoarthritic human cartilage, suggesting a disease-modifying potential beyond symptom relief. A major metabolite, 4'-hydroxy aceclofenac, also suppresses production of pro-collagenase (MMP-1) and pro-stromelysin (MMP-3) in rheumatoid synovial cells (PMID: 10807502), reinforcing its role in slowing joint matrix degradation.
+Apa yang membezakan aceclofenac daripada NSAID lain dalam konteks osteoartritis adalah bukti aktiviti kondroprotektif tambahan. Penyelidikan yang diterbitkan dalam *British Journal of Pharmacology* (PMID: 11090115) menunjukkan bahawa aceclofenac—tidak seperti diklofenak—mempromosikan sintesis proteoglikan dan hialuronan dalam rawan tulang rawan osteoartritik manusia, mencadangkan potensi pengubah penyakit melebihi pelepasan gejala. Metabolit utama, 4'-hydroxy aceclofenac, juga menekan pengeluaran pro-kolagenase (MMP-1) dan pro-stromelysin (MMP-3) dalam sel sinovial reumatoid (PMID: 10807502), memperkukuh peranannya dalam memperlahankan degradasi matriks sendi.
 
-Osteoarthritis is characterised by progressive cartilage degradation, chronic synovial inflammation, and persistent joint pain—all pathways directly addressed by Aceclofenac's pharmacological profile. The TxGNN model's high prediction score (99.92%) is consistent with substantial global clinical evidence: Aceclofenac is already approved for osteoarthritis in multiple countries including India, South Korea, Spain, and several EU member states. This prediction therefore reflects a strong translational opportunity to formally evaluate or confirm the OA indication within Malaysia's regulatory framework.
+Osteoartritis dicirikan oleh degradasi rawan tulang rawan yang progresif, inflamasi sinovial kronis, dan kesakitan sendi yang berterusan—semua laluan yang ditangani secara langsung oleh profil farmakologi aceclofenac. Skor ramalan TxGNN yang tinggi (99.92%) adalah konsisten dengan bukti klinikal global yang besar: aceclofenac sudah diluluskan untuk osteoartritis di pelbagai negara termasuk India, Korea Selatan, Sepanyol, dan beberapa negara anggota EU. Oleh itu, ramalan ini mencerminkan peluang terjemahan yang kuat untuk menilai atau mengesahkan petunjuk OA dalam rangka kerja pengawalseliaan Malaysia.
 
 ---
 
-## Clinical Trial Evidence
+## Bukti Uji Kaji Klinikal
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Uji Kaji | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT02682524](https://clinicaltrials.gov/study/NCT02682524) | Phase 4 | Completed | 191 | Multicenter, randomized, double-blinded Phase IV RCT directly comparing Aceclofenac with pelubiprofen CR in knee OA patients; evaluates both efficacy and safety over 4 weeks—highest-relevance trial for this prediction |
-| [NCT00647517](https://clinicaltrials.gov/study/NCT00647517) | Phase 4 | Completed | 60 | Taiwan-based Phase 4 trial assessing add-on Tramadol to COX-2 NSAID (including Aceclofenac) in OA and inflammatory arthritis; directly involves Aceclofenac as the NSAID backbone |
-| [NCT00635349](https://clinicaltrials.gov/study/NCT00635349) | Phase 4 | Completed | 143 | Multicenter RCT comparing tramadol/acetaminophen maintenance versus NSAID maintenance in knee OA after initial combination therapy; supports NSAID class—including Aceclofenac—as an effective OA maintenance strategy |
-| [NCT03911570](https://clinicaltrials.gov/study/NCT03911570) | N/A | Completed | 108 | Retrospective 6-month comparative study evaluating crystalline glucosamine sulfate added to conventional OA therapy in patients with concomitant knee and primary hand OA; provides relevant OA treatment context |
-| [NCT04170218](https://clinicaltrials.gov/study/NCT04170218) | N/A | Unknown | 405 | Multicentric French observational study assessing quality-of-care indicators for knee/hip OA in elderly patients; describes the real-world OA management landscape and unmet care needs |
+| [NCT02682524](https://clinicaltrials.gov/study/NCT02682524) | Fasa 4 | Siap | 191 | Uji kaji RCT berganda buta berpusat berbilang Fasa IV yang membandingkan secara langsung aceclofenac dengan pelubiprofen CR dalam pesakit OA lutut; menilai keberkesanan dan keselamatan dalam tempoh 4 minggu—uji kaji paling relevan untuk ramalan ini |
+| [NCT00647517](https://clinicaltrials.gov/study/NCT00647517) | Fasa 4 | Siap | 60 | Uji kaji Fasa 4 berasaskan Taiwan menilai penambahan Tramadol kepada NSAID COX-2 (termasuk aceclofenac) dalam OA dan artritis inflamasi; terlibat secara langsung aceclofenac sebagai tulang belakang NSAID |
+| [NCT00635349](https://clinicaltrials.gov/study/NCT00635349) | Fasa 4 | Siap | 143 | RCT berpusat berbilang membandingkan pemeliharaan tramadol/asetaminofen berbanding pemeliharaan NSAID dalam OA lutut selepas terapi kombinasi awal; menyokong kelas NSAID—termasuk aceclofenac—sebagai strategi pemeliharaan OA yang berkesan |
+| [NCT03911570](https://clinicaltrials.gov/study/NCT03911570) | Tiada | Siap | 108 | Kajian perbandingan retrospektif 6 bulan menilai sulfat glukosamin kristal ditambah kepada terapi OA konvensional dalam pesakit dengan OA lutut bersama dan OA tangan primer; menyediakan konteks rawatan OA yang relevan |
+| [NCT04170218](https://clinicaltrials.gov/study/NCT04170218) | Tiada | Tidak diketahui | 405 | Kajian pemerhatian berbilang pusat Perancis menilai penunjuk kualiti penjagaan untuk OA lutut/pinggul dalam pesakit warga tua; menghuraikan landskap pengurusan OA dunia sebenar dan keperluan penjagaan yang tidak terpenuhi |
 
 ---
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [28293447](https://pubmed.ncbi.nlm.nih.gov/28293447/) | 2017 | Meta-Analysis of RCTs | European Journal of Rheumatology | Meta-analysis of RCTs confirming Aceclofenac's efficacy for pain relief, functional improvement, and safety in OA versus comparator NSAIDs and analgesics; highest-level evidence in this dataset |
-| [24639945](https://pubmed.ncbi.nlm.nih.gov/24639945/) | 2014 | RCT | Knee Surgery & Related Research | 4-week multicenter RCT of Aceclofenac controlled-release in chronic knee OA; demonstrates significant analgesic efficacy and an acceptable safety profile |
-| [21277837](https://pubmed.ncbi.nlm.nih.gov/21277837/) | 2011 | RCT | The Journal of Pain | 6-week double-blind multicentric RCT (n=285) comparing Aceclofenac-CR once daily vs conventional Aceclofenac twice daily in knee OA; both formulations effective for pain intensity and functional outcomes |
-| [32991606](https://pubmed.ncbi.nlm.nih.gov/32991606/) | 2020 | RCT | PLoS ONE | Phase IV non-inferiority RCT comparing pelubiprofen CR vs Aceclofenac 200 mg/day in symptomatic knee OA over 4 weeks; confirms Aceclofenac as the active comparator standard in the field |
-| [16709320](https://pubmed.ncbi.nlm.nih.gov/16709320/) | 2006 | RCT | Current Medical Research and Opinion | Double-blind Indian RCT comparing Aceclofenac vs Diclofenac in OA; Aceclofenac demonstrates equivalent efficacy with superior GI tolerability—relevant for Asian patient populations |
-| [20387351](https://pubmed.ncbi.nlm.nih.gov/20387351/) | 2009 | RCT/Comparative | JNMA | Head-to-head RCT comparing Aceclofenac vs Nabumetone in OA; evaluates comparative efficacy and GI tolerability |
-| [8608684](https://pubmed.ncbi.nlm.nih.gov/8608684/) | 1995 | RCT | Clinical Rheumatology | Large multicentre 12-week double-blind RCT (n=397) comparing Aceclofenac 100 mg BD vs Diclofenac 50 mg TID in knee OA; equivalent clinical efficacy demonstrated at end point |
-| [34876850](https://pubmed.ncbi.nlm.nih.gov/34876850/) | 2021 | Narrative Review | Journal of Pain Research | Comprehensive review of Aceclofenac's analgesic and anti-inflammatory properties in musculoskeletal disorders; summarises OA, RA, and ankylosing spondylitis evidence across global populations |
-| [11511027](https://pubmed.ncbi.nlm.nih.gov/11511027/) | 2001 | Review | Drugs | Comprehensive reappraisal of Aceclofenac use in pain and rheumatic disease; OA efficacy confirmed as comparable to diclofenac, piroxicam, and naproxen in multiple double-blind trials |
-| [11523298](https://pubmed.ncbi.nlm.nih.gov/11523298/) | 2001 | Review | Revue Medicale de Liege | Critical review of Aceclofenac's role in chronic OA; highlights effects on inflammatory mediators, PGE2 inhibition, and cartilage remodelling beyond classical NSAID action |
+| [28293447](https://pubmed.ncbi.nlm.nih.gov/28293447/) | 2017 | Meta-Analisis RCT | European Journal of Rheumatology | Meta-analisis RCT yang mengesahkan keberkesanan aceclofenac untuk pelepasan kesakitan, peningkatan fungsi, dan keselamatan dalam OA berbanding NSAID dan analgesik pembanding; bukti tahap tertinggi dalam set data ini |
+| [24639945](https://pubmed.ncbi.nlm.nih.gov/24639945/) | 2014 | RCT | Knee Surgery & Related Research | RCT berpusat berbilang 4 minggu aceclofenac pelepasan terkawal dalam OA lutut kronik; menunjukkan keberkesanan analgesik yang signifikan dan profil keselamatan yang boleh diterima |
+| [21277837](https://pubmed.ncbi.nlm.nih.gov/21277837/) | 2011 | RCT | The Journal of Pain | RCT berganda buta berpusat berbilang 6 minggu (n=285) membandingkan aceclofenac-CR sekali sehari berbanding aceclofenac konvensional dua kali sehari dalam OA lutut; kedua-dua formulasi berkesan untuk intensiti kesakitan dan hasil fungsi |
+| [32991606](https://pubmed.ncbi.nlm.nih.gov/32991606/) | 2020 | RCT | PLoS ONE | RCT tidak rendah hati Fasa IV membandingkan pelubiprofen CR berbanding aceclofenac 200 mg/hari dalam OA lutut simptomatik dalam tempoh 4 minggu; mengesahkan aceclofenac sebagai piawaian pembanding aktif dalam bidang |
+| [16709320](https://pubmed.ncbi.nlm.nih.gov/16709320/) | 2006 | RCT | Current Medical Research and Opinion | RCT India berganda buta membandingkan aceclofenac berbanding diklofenak dalam OA; aceclofenac menunjukkan keberkesanan setara dengan tolerabiliti GI yang lebih baik—relevan untuk populasi pesakit Asia |
+| [20387351](https://pubmed.ncbi.nlm.nih.gov/20387351/) | 2009 | RCT/Perbandingan | JNMA | RCT kepala-ke-kepala membandingkan aceclofenac berbanding nabumeton dalam OA; menilai keberkesanan perbandingan dan tolerabiliti GI |
+| [8608684](https://pubmed.ncbi.nlm.nih.gov/8608684/) | 1995 | RCT | Clinical Rheumatology | RCT berbilang pusat besar 12 minggu berganda buta (n=397) membandingkan aceclofenac 100 mg BD berbanding diklofenak 50 mg TID dalam OA lutut; keberkesanan klinikal setara ditunjukkan pada titik akhir |
+| [34876850](https://pubmed.ncbi.nlm.nih.gov/34876850/) | 2021 | Ulasan Naratif | Journal of Pain Research | Ulasan komprehensif sifat analgesik dan anti-inflamasi aceclofenac dalam gangguan muskuloskeletal; merumuskan bukti OA, RA, dan ankilosis spondilitis merentasi populasi global |
+| [11511027](https://pubmed.ncbi.nlm.nih.gov/11511027/) | 2001 | Ulasan | Drugs | Penilaian semula komprehensif penggunaan aceclofenac dalam kesakitan dan penyakit reumatik; keberkesanan OA disahkan sebagai setara dengan diklofenak, piroksikam, dan naproksen dalam pelbagai uji kaji berganda buta |
+| [11523298](https://pubmed.ncbi.nlm.nih.gov/11523298/) | 2001 | Ulasan | Revue Medicale de Liege | Ulasan kritikal peranan aceclofenac dalam OA kronik; menyerlahkan kesan pada mediator inflamasi, perencatan PGE2, dan pemodelan semula rawan tulang rawan melebihi tindakan NSAID klasikal |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjuk Diluluskan |
 |---------|------|------|-----------|
-| (Not available) | (Not available) | (Not available) | (Not available) |
+| (Tidak tersedia) | (Tidak tersedia) | (Tidak tersedia) | (Tidak tersedia) |
 
-> **Note:** One Aceclofenac product is confirmed as marketed in Malaysia (NPRA query returned 1 result). However, the product name, dosage form, manufacturer, and approved indication text were not available in the current data extract. Full product details should be retrieved directly from the [NPRA official registry](https://www.npra.gov.my/) or by downloading the product package insert PDF.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-> **Important data gap:** Package insert warnings and contraindications for the Malaysian-registered Aceclofenac product were not retrievable in this Evidence Pack. Retrieval from the NPRA official website is required before clinical deployment to identify local-specific safety requirements, particularly regarding GI, cardiovascular, and renal risk categories per NPRA labelling standards.
+> **Nota:** Satu produk aceclofenac disahkan sebagai dipasarkan di Malaysia (pertanyaan NPRA mengembalikan 1 hasil). Walau bagaimanapun, nama produk, bentuk dos, pengilang, dan teks petunjuk yang diluluskan tidak tersedia dalam ekstrak data semasa. Butiran produk lengkap harus diambil terus daripada [pendaftaran rasmi NPRA](https://www.npra.gov.my/) atau dengan memuat turun PDF bungkus produk.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Proceed with Guardrails**
+Sila rujuk sisipan bungkus untuk maklumat keselamatan.
 
-**Rationale:**
-Aceclofenac in osteoarthritis is supported by multiple completed Phase 4 RCTs and a meta-analysis of randomised controlled trials meeting Level 1 (L1) evidence standards. Its established approval for OA across multiple international jurisdictions substantially de-risks this repurposing pathway in Malaysia, and the TxGNN model's high prediction score (99.92%) is fully consistent with the mechanistic and clinical evidence base.
+> **Jurang data penting:** Amaran sisipan bungkus dan kontraindikasi untuk produk aceclofenac yang didaftarkan Malaysia tidak dapat diambil dalam Paket Bukti ini. Peambilan daripada laman web rasmi NPRA diperlukan sebelum penyebaran klinikal untuk mengenal pasti keperluan khusus setempat, terutamanya berkenaan dengan kategori risiko GI, kardiovaskular, dan renal mengikut piawaian pelabelan NPRA.
 
-**To proceed, the following is needed:**
-- Retrieve full NPRA registration record (product name, dosage form, currently approved indication text) to determine whether an OA indication extension is required or already covered under the existing Malaysia licence
-- Obtain mechanism of action data from DrugBank API (DrugBank ID currently unresolved) to complete the mechanistic rationale for any regulatory submission
-- Download and review the Malaysian product package insert from the NPRA official website to identify local warnings, contraindications, and drug interactions (currently a blocking data gap)
-- Evaluate GI and cardiovascular risk profile specifically for the Malaysian patient population, particularly elderly patients and those with common Southeast Asian comorbidities (hypertension, diabetes, chronic kidney disease)
-- Design a post-marketing surveillance plan for long-term safety monitoring should OA be formally listed as an approved indication in Malaysia
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Teruskan dengan Penjaga**
+
+**Rasional:**
+Aceclofenac dalam osteoartritis disokong oleh berbilang RCT Fasa 4 yang siap dan meta-analisis uji kaji terkawal rawak yang memenuhi piawaian bukti Tahap 1 (L1). Kelulusannya yang ditubuhkan untuk OA merentasi pelbagai bidang kuasa antarabangsa secara besar mengurangkan risiko jalan laluan penggunaan semula ini di Malaysia, dan skor ramalan TxGNN yang tinggi (99.92%) sepenuhnya konsisten dengan asas mekanik dan bukti klinikal.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Ambil rekod pendaftaran NPRA penuh (nama produk, bentuk dos, teks petunjuk yang diluluskan semasa) untuk menentukan sama ada sambungan petunjuk OA diperlukan atau sudah dilindungi di bawah lesen Malaysia yang sedia ada
+- Dapatkan data mekanisme tindakan daripada API DrugBank (ID DrugBank kini tidak diselesaikan) untuk melengkapkan rasional mekanik untuk sebarang penyerahan pengawalseliaan
+- Muat turun dan semak sisipan bungkus produk Malaysia daripada laman web rasmi NPRA untuk mengenal pasti amaran setempat, kontraindikasi, dan interaksi ubat (kini jurang data yang menghalang)
+- Nilaikan profil risiko GI dan kardiovaskular khusus untuk populasi pesakit Malaysia, terutamanya pesakit warga tua dan mereka yang mempunyai komorbiditi Asia Tenggara yang lazim (hipertensi, diabetes, penyakit buah pinggang kronik)
+- Rancang pelan pengawasan keselamatan pasca-pemasaran untuk pemantauan keselamatan jangka panjang sekiranya OA disenaraikan secara rasmi sebagai petunjuk yang diluluskan di Malaysia
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

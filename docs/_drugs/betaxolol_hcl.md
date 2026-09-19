@@ -29,86 +29,87 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# BETAXOLOL HCL: Drug Repurposing Evaluation — Awaiting Prediction Data
+# BETAXOLOL HCL: Penilaian Ubah Guna Ubat — Menunggu Data Ramalan
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Betaxolol HCl is a selective beta-1 adrenergic receptor blocker, available in Malaysia with 2 registered products.
-The TxGNN model has **not yet generated predicted indications** for this drug,
-and critical data gaps (MOA, safety profile, license details) remain to be addressed before evaluation can proceed.
+Betaxolol HCl adalah penghambat reseptor adrenergik beta-1 selektif, tersedia di Malaysia dengan 2 produk berdaftar.
+Model TxGNN **belum menghasilkan indikasi yang diramalkan** untuk ubat ini,
+dan jurang data kritikal (MOA, profil keselamatan, butiran lesen) tetap perlu ditangani sebelum penilaian boleh diteruskan.
 
 ---
 
-## Quick Overview
+## Gambaran Keseluruhan Cepat
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | *(License details pending — registration data fields are empty)* |
-| Predicted New Indication | **None** — no TxGNN prediction available |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 (No prediction or supporting evidence) |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 2 |
-| Recommended Decision | **Hold** |
+| Indikasi Asal | *(Butiran lesen tertunda — medan data pendaftaran kosong)* |
+| Indikasi Baharu Diramalkan | **Tiada** — tiada ramalan TxGNN tersedia |
+| Skor Ramalan TxGNN | T/A |
+| Tahap Bukti | L5 (Tiada ramalan atau bukti sokongan) |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 2 |
+| Keputusan Disyorkan | **Tahan** |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-There is currently **no TxGNN prediction** to evaluate for Betaxolol HCl. The `predicted_indications` array is empty, meaning the model has not yet identified candidate new indications for this drug.
+Pada masa ini **tiada ramalan TxGNN** untuk dinilai bagi Betaxolol HCl. Tatasusunan `predicted_indications` adalah kosong, bermaksud model belum mengenal pasti indikasi kandidat baharu untuk ubat ini.
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on known pharmacological classification, Betaxolol HCl is a selective beta-1 adrenergic receptor antagonist (beta-blocker). It is typically used in oral form for the management of hypertension, and in ophthalmic form for the reduction of intraocular pressure in open-angle glaucoma or ocular hypertension. Its selectivity for beta-1 receptors over beta-2 receptors is a distinguishing characteristic compared to non-selective beta-blockers.
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia dalam pakej bukti ini. Berdasarkan klasifikasi farmakoloji yang diketahui, Betaxolol HCl adalah antagonis reseptor adrenergik beta-1 selektif (beta-blocker). Ia biasanya digunakan dalam bentuk oral untuk pengurusan tekanan darah tinggi, dan dalam bentuk oftalmik untuk pengurangan tekanan intra-okular dalam glukoma sudut terbuka atau hipertensi okular. Selektivitasnya untuk reseptor beta-1 berbanding reseptor beta-2 adalah ciri pembeza berbanding beta-blocker bukan selektif.
 
-Before a repurposing evaluation can be conducted, the TxGNN prediction pipeline must be run for this compound, and the resulting candidate indications must be populated into the evidence pack. Additionally, the DrugBank ID mapping (currently null) needs to be resolved to enable automated evidence collection.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered — no predicted indication available to search against.
+Sebelum penilaian ubah guna boleh dijalankan, saluran paip ramalan TxGNN mesti dijalankan untuk sebatian ini, dan indikasi kandidat yang terhasil mesti diisi ke dalam pakej bukti. Selain itu, pemetaan ID DrugBank (pada masa ini null) perlu diselesaikan untuk membolehkan pengumpulan bukti automatik.
 
 ---
 
-## Literature Evidence
+## Bukti Ujian Klinikal
 
-Currently no related literature available — no predicted indication available to search against.
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan — tiada indikasi yang diramalkan tersedia untuk dicari.
 
 ---
 
-## Malaysia Market Information
+## Bukti Kesusasteraan
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+Pada masa ini tiada kesusasteraan berkaitan tersedia — tiada indikasi yang diramalkan tersedia untuk dicari.
+
+---
+
+## Maklumat Pasaran Malaysia
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Terluluskan |
 |------|------|------|------|
-| *(empty)* | *(empty)* | *(empty)* | *(empty)* |
-| *(empty)* | *(empty)* | *(empty)* | *(empty)* |
+| *(kosong)* | *(kosong)* | *(kosong)* | *(kosong)* |
+| *(kosong)* | *(kosong)* | *(kosong)* | *(kosong)* |
 
-> **Note:** 2 registrations are recorded in the regulatory database, but all license detail fields (authorization number, product name, dosage form, approved indication) are empty. These need to be retrieved from the NPRA database.
+> **Nota:** 2 pendaftaran direkodkan dalam pangkalan data kawal selia, tetapi semua medan butiran lesen (nombor kebenaran, nama produk, bentuk dos, indikasi terluluskan) adalah kosong. Ini perlu diambil daripada pangkalan data NPRA.
 
 ---
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-> Please refer to the package insert for safety information.
+> Sila rujuk sisipan bungkusan untuk maklumat keselamatan.
 >
-> All safety data fields (key warnings, contraindications, drug interactions) are currently unavailable. These must be retrieved before any repurposing evaluation can proceed — this is flagged as a **Blocking** data gap (DG001).
+> Semua medan data keselamatan (amaran utama, kontraindikasi, interaksi ubat) pada masa ini tidak tersedia. Ini mesti diambil sebelum sebarang penilaian ubah guna boleh diteruskan — ini ditandai sebagai jurang data **Menyekat** (DG001).
 
 ---
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-This evidence pack is missing critical data at every level: no TxGNN predicted indications, no DrugBank ID mapping, no MOA data, empty license details, and no safety information. A meaningful repurposing evaluation cannot be performed until these gaps are resolved.
+**Rasional:**
+Pakej bukti ini hilang data kritikal di setiap tahap: tiada indikasi yang diramalkan TxGNN, tiada pemetaan ID DrugBank, tiada data MOA, butiran lesen kosong, dan tiada maklumat keselamatan. Penilaian ubah guna yang bermakna tidak boleh dijalankan sehingga jurang ini diselesaikan.
 
-**To proceed, the following is needed:**
+**Untuk meneruskan, berikut diperlukan:**
 
-1. **DrugBank ID mapping** — Resolve the DrugBank ID for Betaxolol HCl (query returned 1 result per the log, but the ID was not populated; likely `DB00195`)
-2. **TxGNN prediction** — Run the KG and/or DL prediction pipeline to generate candidate new indications
-3. **NPRA license details** — Populate authorization numbers, product names, dosage forms, and approved indication text for the 2 registered products
-4. **Safety data (Blocking)** — Download and parse the package insert PDF from the NPRA website to extract warnings, contraindications, and drug interactions
-5. **MOA data** — Query DrugBank API to retrieve mechanism of action details
-6. **Evidence collection** — Once a predicted indication is available, run ClinicalTrials.gov, PubMed, and ICTRP collectors
+1. **Pemetaan ID DrugBank** — Selesaikan ID DrugBank untuk Betaxolol HCl (pertanyaan mengembalikan 1 hasil setiap log, tetapi ID tidak dipopulasi; berkemungkinan `DB00195`)
+2. **Ramalan TxGNN** — Jalankan saluran paip ramalan KG dan/atau DL untuk menghasilkan indikasi kandidat baharu
+3. **Butiran lesen NPRA** — Populatkan nombor kebenaran, nama produk, bentuk dos, dan teks indikasi terluluskan untuk 2 produk berdaftar
+4. **Data keselamatan (Menyekat)** — Muat turun dan analisis PDF sisipan bungkusan daripada laman web NPRA untuk mengekstrak amaran, kontraindikasi, dan interaksi ubat
+5. **Data MOA** — Pertanyaan API DrugBank untuk mendapatkan butiran mekanisme tindakan
+6. **Pengumpulan bukti** — Apabila indikasi yang diramalkan tersedia, jalankan pengumpul ClinicalTrials.gov, PubMed, dan ICTRP
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,119 +29,120 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Azacitidine: From Myelodysplastic Syndrome to Therapy-Related AML/MDS
+# Azacitidine: Daripada Sindrom Mielodisplastik kepada Terapi AML/MDS Berkaitan
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Azacitidine is a DNA methyltransferase (DNMT) inhibitor originally approved for the treatment of myelodysplastic syndrome (MDS) and acute myeloid leukemia (AML).
-The TxGNN model predicts it may be effective for **Therapy-Related Acute Myeloid Leukemia and Myelodysplastic Syndrome (t-AML/t-MDS)**,
-with **50 clinical trials** and **20 publications** currently supporting this direction.
+Azacitidine ialah penghambat metiltransferase DNA (DNMT) yang pada asalnya telah diluluskan untuk rawatan sindrom mielodisplastik (MDS) dan leukemia mieloid akut (AML).
+Model TxGNN meramalkan ia mungkin berkesan untuk **Leukemia Mieloid Akut dan Sindrom Mielodisplastik Berkaitan Terapi (t-AML/t-MDS)**,
+dengan **50 uji klinis** dan **20 penerbitan** yang kini menyokong arah ini.
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Myelodysplastic syndrome (MDS), Acute myeloid leukemia (AML) |
-| Predicted New Indication | Therapy-related acute myeloid leukemia and myelodysplastic syndrome |
-| TxGNN Prediction Score | 0.00% (Rank 1) |
-| Evidence Level | L1 (≥2 completed Phase 2/3 RCTs) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 12 |
-| Recommended Decision | Proceed with Guardrails |
+| Indikasi Asal | Sindrom mielodisplastik (MDS), Leukemia mieloid akut (AML) |
+| Indikasi Baharu Diramalkan | Leukemia mieloid akut dan sindrom mielodisplastik berkaitan terapi |
+| Skor Ramalan TxGNN | 0.00% (Kedudukan 1) |
+| Tingkat Bukti | L1 (≥2 uji rawak terkawal fasa 2/3 yang telah selesai) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 12 |
+| Keputusan yang Disyorkan | Teruskan dengan Penjaga |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Therapy-related AML/MDS (t-AML/t-MDS) arises as a complication of prior cytotoxic therapy, with core pathogenic mechanisms including aberrant DNA methylation and clonal selection. The affected bone marrow cells exhibit widespread epigenetic dysregulation—particularly hypermethylation of tumour suppressor gene promoters such as *CDKN2B* and genes in the *TP53* pathway—which silences their normal growth-restraining functions. These patients frequently harbour genomic instability from prior chemotherapy exposure, making them poor candidates for intensive reinduction.
+Leukemia mieloid akut dan sindrom mielodisplastik berkaitan terapi (t-AML/t-MDS) timbul sebagai komplikasi daripada terapi sitotoksik sebelumnya, dengan mekanisme patogenik teras termasuk metilasi DNA aberan dan pemilihan klonal. Sel sumsum tulang yang terjejas menunjukkan dysregulasi epigenetik yang meluas—khususnya hipermetilasi promoter gen penahan tumor seperti *CDKN2B* dan gen dalam laluan *TP53*—yang menyenyapkan fungsi perencatan pertumbuhan normal mereka. Pesakit ini sering membawa ketidakstabilan genomik daripada pendedahan kemoterapi sebelumnya, menjadikan mereka calon yang tidak baik untuk reininduksi intensif.
 
-Azacitidine, as a DNMT inhibitor, directly reverses these aberrant methylation patterns by incorporating into DNA during replication and forming covalent bonds with DNA methyltransferases, leading to their degradation. This restores expression of silenced tumour suppressor genes, promotes leukemic cell differentiation, and induces apoptosis. The drug's relatively low-intensity profile makes it particularly suitable for t-AML/t-MDS patients, who are often older and carry comorbidities from prior cancer treatments.
+Azacitidine, sebagai penghambat DNMT, secara langsung mengembalikan corak metilasi aberan ini dengan menggabungkan ke dalam DNA semasa replikasi dan membentuk ikatan kovalen dengan metiltransferase DNA, yang membawa kepada degradasi mereka. Ini memulihkan ungkapan gen penahan tumor yang telah disenyelapkan, menggalakkan pembezaan sel leukemia, dan mendorong apoptosis. Profil intensiti rendah ubat ini menjadikannya sesuai khususnya untuk pesakit t-AML/t-MDS, yang sering lebih tua dan membawa komorbiditi daripada rawatan kanser sebelumnya.
 
-The mechanistic rationale is further strengthened by the emergence of **venetoclax + azacitidine** as a standard-of-care combination for this patient population. Multiple completed Phase 3 trials (e.g., NCT03416179, n=730; NCT03268954, n=454) directly evaluated azacitidine-based regimens in AML/MDS populations that include therapy-related subtypes. A dedicated Phase 2 trial (NCT05379166) is specifically evaluating venetoclax + azacitidine in therapy-related MDS, providing highly targeted evidence for this prediction.
+Rasional mekanik diperkuat lagi oleh kemunculan **venetoclax + azacitidine** sebagai kombinasi standard penjagaan untuk populasi pesakit ini. Pelbagai uji fasa 3 yang telah selesai (cth., NCT03416179, n=730; NCT03268954, n=454) secara langsung menilai rejimen berasaskan azacitidine dalam populasi AML/MDS yang merangkumi subtip berkaitan terapi. Satu uji fasa 2 khusus (NCT05379166) menilai venetoclax + azacitidine dalam MDS berkaitan terapi, memberikan bukti yang sangat tersasarkan untuk ramalan ini.
 
-## Clinical Trial Evidence
+## Bukti Uji Klinis
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Uji | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT03416179](https://clinicaltrials.gov/study/NCT03416179) | Phase 3 | Completed | 730 | Randomized, double-blind, placebo-controlled trial of glasdegib ± azacitidine in previously untreated AML. Largest registration-level trial directly evaluating azacitidine-based therapy in t-AML/MDS population. |
-| [NCT03268954](https://clinicaltrials.gov/study/NCT03268954) | Phase 3 | Completed | 454 | Pevonedistat + azacitidine vs azacitidine alone as first-line treatment for higher-risk MDS, CMML, or low-blast AML. Azacitidine served as control arm standard, providing efficacy baseline. |
-| [NCT01168219](https://clinicaltrials.gov/study/NCT01168219) | Phase 2 | Completed | 68 | Evaluated azacitidine added to reduced-intensity conditioning allogeneic transplantation for MDS and older AML patients. Provides direct evidence for azacitidine in the transplant setting. |
-| [NCT05379166](https://clinicaltrials.gov/study/NCT05379166) | Phase 2 | Active, not recruiting | 33 | Directly evaluates venetoclax + azacitidine in therapy-related MDS (t-MDS). The most disease-specific trial for this prediction. |
-| [NCT02719574](https://clinicaltrials.gov/study/NCT02719574) | Phase 1/2 | Completed | 336 | Olutasidenib ± azacitidine in IDH1-mutated AML/MDS. Large-scale trial with azacitidine combination arm; demonstrates azacitidine's role in targeted therapy combinations. |
-| [NCT02921061](https://clinicaltrials.gov/study/NCT02921061) | Phase 1/2 | Completed | 28 | Decitabine + G-CLAM in newly diagnosed AML/high-risk MDS. Validated hypomethylating agent-based combination feasibility and safety in this population. |
-| [NCT01928537](https://clinicaltrials.gov/study/NCT01928537) | Phase 3B | Completed | 67 | Rigosertib in MDS patients progressing on/after azacitidine or decitabine. Azacitidine established as prior standard treatment baseline. |
-| [NCT02750254](https://clinicaltrials.gov/study/NCT02750254) | Phase 1 | Terminated | 5 | Directly tested azacitidine in haploidentical donor transplantation. Terminated early but provides initial safety data for this approach. |
-| [NCT06129734](https://clinicaltrials.gov/study/NCT06129734) | Phase 1B/2A | Recruiting | 20 | Weekly decitabine + venetoclax maintenance in high-risk myeloid malignancy post-transplant. Represents next-generation HMA combination strategies. |
-| [NCT03146871](https://clinicaltrials.gov/study/NCT03146871) | Phase 2 | Terminated | 7 | sEphB4-HSA + HMA (including azacitidine) in relapsed/refractory MDS/AML. Directly tested azacitidine in combination therapy. |
+| [NCT03416179](https://clinicaltrials.gov/study/NCT03416179) | Fasa 3 | Selesai | 730 | Uji rawak, buta berganda, terkawal plasebo glasdegib ± azacitidine dalam AML yang belum pernah dirawat sebelumnya. Uji peringkat pendaftaran terbesar yang secara langsung menilai terapi berasaskan azacitidine dalam populasi t-AML/MDS. |
+| [NCT03268954](https://clinicaltrials.gov/study/NCT03268954) | Fasa 3 | Selesai | 454 | Pevonedistat + azacitidine vs azacitidine sahaja sebagai rawatan baris pertama untuk MDS berisiko lebih tinggi, CMML, atau AML dengan ledakan rendah. Azacitidine bertindak sebagai lengan kawalan standard, memberikan garis dasar kemanjuran. |
+| [NCT01168219](https://clinicaltrials.gov/study/NCT01168219) | Fasa 2 | Selesai | 68 | Menilai azacitidine ditambah kepada pengkondisian intensiti berkurangan pemindahan allogenik untuk pesakit MDS dan AML yang lebih tua. Memberikan bukti langsung untuk azacitidine dalam tetapan pemindahan. |
+| [NCT05379166](https://clinicaltrials.gov/study/NCT05379166) | Fasa 2 | Aktif, tidak merekrut | 33 | Secara langsung menilai venetoclax + azacitidine dalam MDS berkaitan terapi (t-MDS). Uji paling khusus penyakit untuk ramalan ini. |
+| [NCT02719574](https://clinicaltrials.gov/study/NCT02719574) | Fasa 1/2 | Selesai | 336 | Olutasidenib ± azacitidine dalam AML/MDS bermutasi IDH1. Uji skala besar dengan lengan kombinasi azacitidine; menunjukkan peranan azacitidine dalam kombinasi terapi tersasarkan. |
+| [NCT02921061](https://clinicaltrials.gov/study/NCT02921061) | Fasa 1/2 | Selesai | 28 | Decitabine + G-CLAM dalam AML baru didiagnosis/MDS berisiko tinggi. Mengesahkan kebolehlaksanaan dan keselamatan kombinasi berasaskan agen hipometilasi dalam populasi ini. |
+| [NCT01928537](https://clinicaltrials.gov/study/NCT01928537) | Fasa 3B | Selesai | 67 | Rigosertib dalam pesakit MDS yang berkembang pada/selepas azacitidine atau decitabine. Azacitidine ditubuhkan sebagai garis dasar rawatan standard sebelumnya. |
+| [NCT02750254](https://clinicaltrials.gov/study/NCT02750254) | Fasa 1 | Dihentikan | 5 | Secara langsung menguji azacitidine dalam pemindahan penderma haploidentik. Dihentikan awal tetapi memberikan data keselamatan awal untuk pendekatan ini. |
+| [NCT06129734](https://clinicaltrials.gov/study/NCT06129734) | Fasa 1B/2A | Merekrut | 20 | Decitabine mingguan + pemeliharaan venetoclax dalam keganasan mieloid berisiko tinggi selepas pemindahan. Mewakili strategi kombinasi HMA generasi seterusnya. |
+| [NCT03146871](https://clinicaltrials.gov/study/NCT03146871) | Fasa 2 | Dihentikan | 7 | sEphB4-HSA + HMA (termasuk azacitidine) dalam MDS/AML rekalsitran/refrakter. Secara langsung menguji azacitidine dalam terapi gabungan. |
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [40155601](https://pubmed.ncbi.nlm.nih.gov/40155601/) | 2025 | Prospective Cohort | Blood Cancer J | Venetoclax + azacitidine in untreated t-AML patients with antecedent MDS or CMML. Most directly relevant evidence for the predicted indication. |
-| [38135371](https://pubmed.ncbi.nlm.nih.gov/38135371/) | 2024 | RCT (Phase 3) | Lancet Haematol | ASCERTAIN trial: oral decitabine-cedazuridine vs IV decitabine for MDS/CMML. Demonstrates equivalent PK exposure for oral HMA formulations. |
-| [36370742](https://pubmed.ncbi.nlm.nih.gov/36370742/) | 2023 | Phase 1/2 Trial | Lancet Haematol | Olutasidenib ± azacitidine in IDH1-mutated AML/MDS. Demonstrated safety and clinical activity of azacitidine combinations. |
-| [38452788](https://pubmed.ncbi.nlm.nih.gov/38452788/) | 2024 | Phase 2 Trial | Lancet Haematol | Oral decitabine-cedazuridine + venetoclax for older/unfit AML patients. Effective HMA-based regimen supporting the class mechanism. |
-| [31990086](https://pubmed.ncbi.nlm.nih.gov/31990086/) | 2020 | Translational Research | Eur J Haematol | Clonal selection in t-MDS/AML under azacitidine treatment. Directly examines azacitidine's biological effects in therapy-related disease. |
-| [40737597](https://pubmed.ncbi.nlm.nih.gov/40737597/) | 2025 | Translational | Blood | XPO1 drives resistance to eprenetapopt + azacitidine in TP53-mutated MDS/AML. Identifies resistance mechanism relevant to t-AML treatment. |
-| [40259101](https://pubmed.ncbi.nlm.nih.gov/40259101/) | 2025 | Retrospective | Leukemia | Impact of MDS-related gene mutations on venetoclax/azacitidine outcomes in AML. Identifies molecular predictors of response. |
-| [38052038](https://pubmed.ncbi.nlm.nih.gov/38052038/) | 2024 | Phase 1b Trial | Blood Adv | Tagraxofusp + azacitidine ± venetoclax in AML. Demonstrated azacitidine re-sensitization of resistant cells. |
-| [37470508](https://pubmed.ncbi.nlm.nih.gov/37470508/) | 2023 | Review | Expert Rev Anticancer Ther | Comprehensive review of oral therapies for MDS/AML. Positions azacitidine + venetoclax as backbone therapy with evolving oral formulations. |
-| [36964818](https://pubmed.ncbi.nlm.nih.gov/36964818/) | 2023 | Systematic Review / Meta-analysis | Clin Exp Med | Efficacy of epigenetic agents for older AML/MDS patients in RCTs. Network meta-analysis supporting azacitidine-based regimens. |
+| [40155601](https://pubmed.ncbi.nlm.nih.gov/40155601/) | 2025 | Kohort Prospektif | Blood Cancer J | Venetoclax + azacitidine dalam pesakit t-AML yang belum dirawati dengan anteseden MDS atau CMML. Bukti paling berkaitan langsung untuk indikasi yang diramalkan. |
+| [38135371](https://pubmed.ncbi.nlm.nih.gov/38135371/) | 2024 | Uji Rawak Terkawal (Fasa 3) | Lancet Haematol | Uji ASCERTAIN: decitabine-cedazuridine oral vs decitabine IV untuk MDS/CMML. Menunjukkan pendedahan PK setara untuk formulasi HMA oral. |
+| [36370742](https://pubmed.ncbi.nlm.nih.gov/36370742/) | 2023 | Uji Fasa 1/2 | Lancet Haematol | Olutasidenib ± azacitidine dalam AML/MDS bermutasi IDH1. Menunjukkan keselamatan dan aktiviti klinis kombinasi azacitidine. |
+| [38452788](https://pubmed.ncbi.nlm.nih.gov/38452788/) | 2024 | Uji Fasa 2 | Lancet Haematol | Decitabine-cedazuridine oral + venetoclax untuk pesakit AML yang lebih tua/tidak sesuai. Rejimen berasaskan HMA yang berkesan menyokong mekanisme kelas. |
+| [31990086](https://pubmed.ncbi.nlm.nih.gov/31990086/) | 2020 | Penyelidikan Translatif | Eur J Haematol | Pemilihan klonal dalam t-MDS/AML di bawah rawatan azacitidine. Secara langsung mengkaji kesan biologi azacitidine dalam penyakit berkaitan terapi. |
+| [40737597](https://pubmed.ncbi.nlm.nih.gov/40737597/) | 2025 | Translatif | Blood | XPO1 memacu rintangan terhadap eprenetapopt + azacitidine dalam MDS/AML bermutasi TP53. Mengenalpasti mekanisme rintangan yang berkaitan dengan rawatan t-AML. |
+| [40259101](https://pubmed.ncbi.nlm.nih.gov/40259101/) | 2025 | Retrospektif | Leukemia | Kesan mutasi gen berkaitan MDS pada hasil venetoclax/azacitidine dalam AML. Mengenalpasti peramal molekul respons. |
+| [38052038](https://pubmed.ncbi.nlm.nih.gov/38052038/) | 2024 | Uji Fasa 1b | Blood Adv | Tagraxofusp + azacitidine ± venetoclax dalam AML. Menunjukkan re-sensitisasi azacitidine sel yang rintangan. |
+| [37470508](https://pubmed.ncbi.nlm.nih.gov/37470508/) | 2023 | Ulasan | Expert Rev Anticancer Ther | Ulasan komprehensif terapi oral untuk MDS/AML. Memposisikan azacitidine + venetoclax sebagai terapi tulang punggung dengan formulasi oral yang berkembang. |
+| [36964818](https://pubmed.ncbi.nlm.nih.gov/36964818/) | 2023 | Ulasan Sistematik / Meta-analisis | Clin Exp Med | Kemanjuran agen epigenetik untuk pesakit AML/MDS yang lebih tua dalam uji rawak terkawal. Meta-analisis rangkaian menyokong rejimen berasaskan azacitidine. |
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
 |---------|------|------|-----------|
-| (Details pending) | — | — | — |
+| (Maklumat menunggu) | — | — | — |
 
-> **Note:** Azacitidine is confirmed as marketed in Malaysia with **12 registered products**. Detailed registration information (authorization numbers, product names, dosage forms, approved indications) was not available in the current data extraction. Please refer to the NPRA database for complete license details.
+> **Nota:** Azacitidine disahkan sebagai dipasarkan di Malaysia dengan **12 produk berdaftar**. Maklumat pendaftaran terperinci (nombor kebenaran, nama produk, bentuk dos, indikasi yang diluluskan) tidak tersedia dalam pengekstrakan data semasa. Sila rujuk pangkalan data NPRA untuk butiran lesen yang lengkap.
 
-## Cytotoxicity
+## Sitotoksisiti
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Cytotoxicity Classification | Conventional cytotoxic (Nucleoside analog / Hypomethylating agent) |
-| Myelosuppression Risk | **High** — Neutropenia, thrombocytopenia, and anemia are among the most common dose-limiting toxicities. Grade 3/4 cytopenias occur frequently. |
-| Emetogenicity Classification | Low to moderate |
-| Monitoring Items | CBC with differential (before each cycle and as needed), liver function tests (LFTs), renal function (serum creatinine, BUN), electrolytes, serum bicarbonate |
-| Handling Protection | Must follow cytotoxic drug handling regulations; azacitidine is classified as a hazardous drug requiring appropriate protective equipment during preparation and administration |
+| Klasifikasi Sitotoksisiti | Sitotoksik konvensional (Analog nukleosida / Agen hipometilasi) |
+| Risiko Penekanan Sumsum Tulang | **Tinggi** — Neutropenia, trombositopenia, dan anemia adalah antara toksisitas pembatas dos yang paling biasa. Sitopenia gred 3/4 berlaku kerap. |
+| Klasifikasi Emetogenisiti | Rendah hingga sederhana |
+| Item Pemantauan | Kiraan sel darah lengkap dengan pembezaan (sebelum setiap kitaran dan mengikut keperluan), ujian fungsi hati (LFT), fungsi buah pinggang (kreatinin serum, BUN), elektrolit, bikarbonat serum |
+| Perlindungan Pengendalian | Mesti mematuhi peraturan pengendalian ubat sitotoksik; azacitidine dikelaskan sebagai ubat berbahaya yang memerlukan peralatan perlindungan yang sesuai semasa penyediaan dan pentadbiran |
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-> Please refer to the package insert for safety information. Detailed warnings, contraindications, and drug interaction data were not available in the current evidence pack (data gap identified as blocking severity — DG001). Package insert PDF review is recommended before proceeding to safety evaluation.
+> Sila rujuk sisipan pakej untuk maklumat keselamatan. Maklumat terperinci tentang amaran, kontraindikasi, dan data interaksi ubat tidak tersedia dalam pakej bukti semasa (jurang data yang dikenalpasti sebagai graviti yang menghalang — DG001). Semakan PDF sisipan pakej disyorkan sebelum meneruskan kepada penilaian keselamatan.
 
-## Additional Predicted Indications
+## Indikasi Tambahan Diramalkan
 
-The TxGNN model identified **4 additional indications** beyond the primary prediction. A summary is provided below:
+Model TxGNN mengenalpasti **4 indikasi tambahan** di luar ramalan utama. Ringkasan disediakan di bawah:
 
-| Rank | Predicted Indication | Evidence Level | Clinical Trials | Publications | Recommendation |
+| Kedudukan | Indikasi Diramalkan | Tingkat Bukti | Uji Klinis | Penerbitan | Cadangan |
 |------|---------------------|---------------|----------------|-------------|---------------|
-| 2 | Acute myeloblastic leukemia with maturation (FAB M2) | L1 | 42 | 20 | Proceed with Guardrails |
-| 3 | AML/MDS related to topoisomerase type 2 inhibitor | L5 | 0 | 0 | Research Question |
-| 4 | Myelomonocytic leukemia (CMML/JMML) | L1 | 50 | 20 | Proceed with Guardrails |
-| 5 | AML with minimal differentiation (FAB M0) | L1 | 8 | 5 | Proceed with Guardrails |
+| 2 | Leukemia mielblas akut dengan kematangan (FAB M2) | L1 | 42 | 20 | Teruskan dengan Penjaga |
+| 3 | AML/MDS berkaitan dengan penghambat topoisomerase jenis 2 | L5 | 0 | 0 | Persoalan Penyelidikan |
+| 4 | Leukemia mielo-monosit (CMML/JMML) | L1 | 50 | 20 | Teruskan dengan Penjaga |
+| 5 | AML dengan pembezaan minimal (FAB M0) | L1 | 8 | 5 | Teruskan dengan Penjaga |
 
-**Key observations:**
-- **Rank 2 (AML with maturation)** and **Rank 4 (Myelomonocytic leukemia)** are strongly supported, with azacitidine already included in treatment guidelines (ELN/NCCN) for CMML, and FDA approval of ivosidenib + azacitidine for IDH1-mutated newly diagnosed AML.
-- **Rank 3 (Topoisomerase II inhibitor-related AML/MDS)** has zero clinical trial or literature evidence, representing a pure model prediction. The mechanistic rationale is plausible but requires dedicated investigation.
-- **Rank 5 (AML with minimal differentiation)** is a poor-prognosis subtype where the undifferentiated phenotype may limit azacitidine's differentiation-inducing effects; caution is warranted.
+**Pemerhatian utama:**
+- **Kedudukan 2 (AML dengan kematangan)** dan **Kedudukan 4 (Leukemia mielo-monosit)** disokong dengan kuat, dengan azacitidine sudah termasuk dalam garis panduan rawatan (ELN/NCCN) untuk CMML, dan kelulusan FDA ivosidenib + azacitidine untuk AML baru didiagnosis bermutasi IDH1.
+- **Kedudukan 3 (AML berkaitan penghambat topoisomerase II)** tidak mempunyai bukti uji klinis atau kesusasteraan, mewakili ramalan model tulen. Rasional mekanik adalah munasabah tetapi memerlukan penyiasatan khusus.
+- **Kedudukan 5 (AML dengan pembezaan minimal)** ialah subtip prognosis yang buruk di mana fenotyp yang tidak terbeza mungkin mengehadkan kesan pembezaan azacitidine; berhati-hati diperlukan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Proceed with Guardrails**
+**Keputusan: Teruskan dengan Penjaga**
 
-**Rationale:**
-Azacitidine is already a well-established treatment for AML and MDS, and the TxGNN prediction for therapy-related AML/MDS aligns closely with existing clinical evidence. Multiple completed Phase 2/3 clinical trials (NCT03416179, n=730; NCT03268954, n=454) and a dedicated t-MDS trial (NCT05379166) directly support azacitidine-based regimens in this population. The venetoclax + azacitidine combination has emerged as a standard-of-care approach for patients ineligible for intensive chemotherapy, including those with therapy-related disease.
+**Rasional:**
+Azacitidine sudah merupakan rawatan yang terbina baik untuk AML dan MDS, dan ramalan TxGNN untuk AML/MDS berkaitan terapi sejajar rapat dengan bukti klinis yang sedia ada. Pelbagai uji klinis fasa 2/3 yang telah selesai (NCT03416179, n=730; NCT03268954, n=454) dan uji t-MDS khusus (NCT05379166) secara langsung menyokong rejimen berasaskan azacitidine dalam populasi ini. Kombinasi venetoclax + azacitidine telah muncul sebagai pendekatan standard penjagaan untuk pesakit yang tidak layak untuk kemoterapi intensif, termasuk mereka yang mempunyai penyakit berkaitan terapi.
 
-**To proceed, the following is needed:**
-- **Detailed mechanism of action (MOA) data** — current evidence pack has a data gap; retrieve from DrugBank API
-- **NPRA package insert review** — obtain warnings, contraindications, and drug interaction data (blocking severity data gap DG001)
-- **Malaysia-specific registration details** — populate license numbers, product names, and approved indication text from the NPRA database
-- **Safety monitoring plan** — develop specific monitoring protocols for myelosuppression (the primary dose-limiting toxicity), particularly in the t-AML/t-MDS population who may have compromised bone marrow reserve from prior cytotoxic therapy
-- **Subtype-specific analysis for Rank 3 indication** — topoisomerase II inhibitor-related AML/MDS has zero evidence and requires dedicated preclinical or translational study before further evaluation
+**Untuk meneruskan, perkara berikut diperlukan:**
+- **Data mekanisme tindakan (MOA) terperinci** — pakej bukti semasa mempunyai jurang data; ambil daripada API DrugBank
+- **Semakan sisipan pakej NPRA** — dapatkan amaran, kontraindikasi, dan data interaksi ubat (jurang data graviti yang menghalang DG001)
+- **Butiran pendaftaran khusus Malaysia** — isi nombor lesen, nama produk, dan teks indikasi yang diluluskan daripada pangkalan data NPRA
+- **Pelan pemantauan keselamatan** — bangunkan protokol pemantauan khusus untuk penekanan sumsum tulang (toksisitas pembatas dos utama), terutamanya dalam populasi t-AML/t-MDS yang mungkin mempunyai rizab sumsum tulang yang telah dikompromikan daripada terapi sitotoksik sebelumnya
+- **Analisis khusus subtip untuk indikasi Kedudukan 3** — AML/MDS berkaitan penghambat topoisomerase II tidak mempunyai bukti dan memerlukan kajian praklinis atau translatif khusus sebelum penilaian selanjutnya
 
 ---
 
-> ⚠️ **Disclaimer:** This report is for research reference only and does not constitute medical advice. Drug repurposing candidates require clinical validation before application. All predictions generated by the TxGNN model should be interpreted in conjunction with clinical judgement and regulatory requirements.
+> ⚠️ **Penafian:** Laporan ini adalah untuk rujukan penyelidikan sahaja dan tidak membentuk nasihat perubatan. Calon ubat yang ditujukan kembali memerlukan pengesahan klinis sebelum pemakaian. Semua ramalan yang dijana oleh model TxGNN harus ditafsirkan bersama pertimbangan klinis dan keperluan kawal selia.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,109 +29,110 @@ Tahap bukti: **L1** | Indikasi diramal: **1**
 
 </div>
 
-# Olaparib: From BRCA-Mutated Ovarian Cancer to Female Breast Carcinoma
+# Olaparib: Dari Kanser Ovari Bermutasi BRCA kepada Kanser Payudara Betina
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-> Olaparib (Lynparza) is a PARP1/2 inhibitor originally developed and approved for BRCA-mutated ovarian cancer, exploiting a synthetic lethality mechanism in DNA repair-deficient tumors.
-> The TxGNN model predicts it may also be effective for **Female Breast Carcinoma**, with **10 highly relevant clinical trials** and **20 publications** currently supporting this direction — including multiple completed Phase 3 RCTs (OlympiAD, OlympiA).
-> **Important caveat**: breast cancer is already an internationally approved Olaparib indication in many markets, so this evidence base largely represents label-consolidation/confirmation rather than a novel repurposing signal; local (Malaysia/Taiwan) registry data does not confirm whether the local label already covers this indication.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not recorded in local registry data (globally, Olaparib's first approved indication was BRCA-mutated ovarian cancer maintenance therapy) |
-| Predicted New Indication | Female Breast Carcinoma |
-| TxGNN Prediction Score | 99.09% |
-| Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 2 |
-| Recommended Decision | Proceed with Guardrails |
+> Olaparib (Lynparza) adalah penghambat PARP1/2 yang direka dan diluluskan pada asalnya untuk kanser ovari bermutasi BRCA, mengeksploitasi mekanisme kematian sintetik dalam tumor yang kekurangan pembaikan DNA.
+> Model TxGNN meramalkan ia juga mungkin berkesan untuk **Kanser Payudara Betina**, dengan **10 percubaan klinikal yang sangat relevan** dan **20 penerbitan** yang kini menyokong arah ini — termasuk berbilang RCT Fasa 3 yang telah selesai (OlympiAD, OlympiA).
+> **Peringatan penting**: kanser payudara sudah pun merupakan petunjuk Olaparib yang diluluskan di peringkat antarabangsa di banyak pasaran, jadi asas bukti ini sebahagian besarnya mewakili pengukuhan atau pengesahan label daripada isyarat penggantujuan ubat yang benar-benar baru; data daftar tempatan (Malaysia/Taiwan) tidak mengesahkan sama ada label tempatan sudah pun meliputi petunjuk ini.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Ringkas
 
-Olaparib is a PARP1/2 (poly ADP-ribose polymerase) inhibitor. Its mechanism relies on **synthetic lethality**: in tumors with BRCA1/2 mutations (germline or somatic), homologous recombination DNA repair is already deficient. PARP inhibition blocks single-strand break repair, causing unrepaired breaks to collapse into lethal double-strand breaks selectively in these repair-deficient cancer cells, while sparing normal cells with intact repair machinery.
-
-This mechanism is not tumor-type specific — it depends on the BRCA1/2 or homologous-recombination-deficiency (HRD) status of the tumor, not on the organ of origin. Since both ovarian and breast cancers frequently harbor BRCA1/2 mutations, the mechanistic rationale for extending Olaparib from ovarian to breast cancer is strong and has already been directly validated in randomized controlled trials (OlympiAD, OlympiA), rather than being purely a computational prediction.
-
-**Caveat on novelty**: the evidence pack notes that female breast carcinoma is very likely already an approved global indication for Olaparib (Lynparza), given the maturity of the OlympiAD/OlympiA RCT program. This candidate should therefore be treated primarily as a **local label-verification/evidence-consolidation case** — confirming whether the Malaysia/Taiwan-registered product already carries this indication — rather than a genuinely novel repurposing hypothesis.
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Tidak dicatat dalam data daftar tempatan (di peringkat global, petunjuk pertama Olaparib yang diluluskan adalah terapi penyelenggaraan kanser ovari bermutasi BRCA) |
+| Petunjuk Baru yang Diramalkan | Kanser Payudara Betina |
+| Skor Ramalan TxGNN | 99.09% |
+| Tahap Bukti | L1 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 2 |
+| Keputusan yang Disyorkan | Teruskan dengan Langkah Pengaman |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Wajar?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Olaparib adalah penghambat PARP1/2 (poly ADP-ribose polymerase). Mekanismenya bergantung pada **kematian sintetik**: dalam tumor dengan mutasi BRCA1/2 (germline atau somatik), pembaikan DNA melalui rekombinasi homolog sudah pun cacat. Perencatan PARP menghalang pembaikan pecahan satu untai, menyebabkan pecahan yang tidak diperbaiki runtuh menjadi pecahan berbenang dua yang mematikan secara terpilih dalam sel kanser yang kekurangan pembaikan ini, sambil tidak menjejaskan sel normal dengan mekanisme pembaikan yang utuh.
+
+Mekanisme ini bukan spesifik jenis tumor — ia bergantung pada status BRCA1/2 atau status kekurangan rekombinasi homolog (HRD) tumor, bukan pada organ asal. Oleh kerana kedua-dua kanser ovari dan kanser payudara kerap mengandungi mutasi BRCA1/2, justifikasi mekanik untuk melanjutkan Olaparib dari ovari ke kanser payudara adalah kuat dan sudah pun disahkan secara langsung dalam percubaan terkawal rawak (OlympiAD, OlympiA), daripada semata-mata merupakan ramalan pengiraan.
+
+**Kaveat tentang kebaruan**: pek bukti mencatat bahawa karsinoma payudara betina sangat berkemungkinan sudah pun menjadi petunjuk yang diluluskan global untuk Olaparib (Lynparza), mengambil kira kematangan program RCT OlympiAD/OlympiA. Calon ini oleh itu harus diperlakukan terutamanya sebagai **kes pengesahan label tempatan/pengukuhan bukti** — mengesahkan sama ada produk berdaftar Malaysia/Taiwan sudah pun membawa petunjuk ini — daripada hipotesis penggantujuan ubat yang benar-benar baru.
+
+---
+
+## Bukti Percubaan Klinikal
+
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Kunci |
 |---------|------|------|------|---------|
-| [NCT06580314](https://clinicaltrials.gov/study/NCT06580314) | Phase 3 | Recruiting | 880 | Compares 1 vs. 2 years of maintenance olaparib (± bevacizumab) in BRCA1/2-mutated or HRD+ ovarian cancer after first-line platinum chemotherapy |
-| [NCT02282020](https://clinicaltrials.gov/study/NCT02282020) | Phase 3 | Completed | 266 | Randomized olaparib monotherapy vs. physician's choice chemotherapy in platinum-sensitive relapsed germline BRCA1/2-mutated ovarian cancer |
-| [NCT04553926](https://clinicaltrials.gov/study/NCT04553926) | N/A (post-marketing) | Completed | 661 | Real-world post-marketing surveillance of Lynparza (olaparib) safety/effectiveness in South Korea per approved indications |
-| [NCT01445418](https://clinicaltrials.gov/study/NCT01445418) | Phase 1 | Completed | 103 | Olaparib (AZD2281) + carboplatin in BRCA1/2 mutation carriers with breast/ovarian cancer and sporadic triple-negative breast/ovarian cancer |
-| [NCT01237067](https://clinicaltrials.gov/study/NCT01237067) | Phase 1 | Completed | 77 | PK/PD study of olaparib + carboplatin for refractory/recurrent women's cancers (breast, ovarian, uterine, cervical) |
-| [NCT02264678](https://clinicaltrials.gov/study/NCT02264678) | Phase 1/2 | Active, not recruiting | 357 | Ceralasertib + cytotoxic chemotherapy and/or DNA damage repair agents (including olaparib combinations) in advanced solid malignancies |
-| [NCT05932862](https://clinicaltrials.gov/study/NCT05932862) | Phase 1 | Recruiting | 429 | First-in-human study of XL309 (ISM3091) alone or combined with olaparib in advanced solid tumors |
-| [NCT02684318](https://clinicaltrials.gov/study/NCT02684318) | Phase 1/2 | Unknown | 100 | PM01183 + olaparib combination in advanced solid tumors |
-| [NCT06065059](https://clinicaltrials.gov/study/NCT06065059) | Phase 1/2 | Terminated | 7 | TNG348 (USP1 inhibitor) alone and combined with olaparib in BRCA1/2-mutant or HRD+ solid tumors |
-| [NCT03162627](https://clinicaltrials.gov/study/NCT03162627) | Phase 1 | Active, not recruiting | 90 | Selumetinib + olaparib in endometrial, ovarian and other solid tumors with Ras pathway alterations or PARP resistance |
+| [NCT06580314](https://clinicaltrials.gov/study/NCT06580314) | Fasa 3 | Merekrut | 880 | Membandingkan 1 vs. 2 tahun penyelenggaraan olaparib (± bevacizumab) dalam kanser ovari bermutasi BRCA1/2 atau HRD+ selepas kemoterapi platinum garis pertama |
+| [NCT02282020](https://clinicaltrials.gov/study/NCT02282020) | Fasa 3 | Selesai | 266 | Olaparib monotherapy rawak vs. kemoterapi pilihan doktor dalam kanser ovari kambuhan tahan platinum bermutasi BRCA1/2 germline |
+| [NCT04553926](https://clinicaltrials.gov/study/NCT04553926) | N/A (pasca-pemasaran) | Selesai | 661 | Pengawasan keselamatan pasca-pemasaran dunia sebenar bagi Lynparza (olaparib) di Korea Selatan mengikut petunjuk yang diluluskan |
+| [NCT01445418](https://clinicaltrials.gov/study/NCT01445418) | Fasa 1 | Selesai | 103 | Olaparib (AZD2281) + karboplatinum dalam pembawa mutasi BRCA1/2 dengan kanser payudara/ovari dan kanser payudara/ovari triple-negatif sporadik |
+| [NCT01237067](https://clinicaltrials.gov/study/NCT01237067) | Fasa 1 | Selesai | 77 | Kajian PK/PD olaparib + karboplatinum untuk kanser wanita refrakter/kambuhan (payudara, ovari, uteri, serviks) |
+| [NCT02264678](https://clinicaltrials.gov/study/NCT02264678) | Fasa 1/2 | Aktif, tidak merekrut | 357 | Ceralasertib + kemoterapi sitotoksik dan/atau ejen pembaikan kerosakan DNA (termasuk kombinasi olaparib) dalam keganasan pepejal lanjutan |
+| [NCT05932862](https://clinicaltrials.gov/study/NCT05932862) | Fasa 1 | Merekrut | 429 | Kajian manusia pertama XL309 (ISM3091) sahaja atau digabung dengan olaparib dalam tumor pepejal lanjutan |
+| [NCT02684318](https://clinicaltrials.gov/study/NCT02684318) | Fasa 1/2 | Tidak diketahui | 100 | Kombinasi PM01183 + olaparib dalam tumor pepejal lanjutan |
+| [NCT06065059](https://clinicaltrials.gov/study/NCT06065059) | Fasa 1/2 | Ditamatkan | 7 | TNG348 (penghambat USP1) sahaja dan digabung dengan olaparib dalam tumor pepejal bermutasi BRCA1/2 atau HRD+ |
+| [NCT03162627](https://clinicaltrials.gov/study/NCT03162627) | Fasa 1 | Aktif, tidak merekrut | 90 | Selumetinib + olaparib dalam endometrium, ovari dan tumor pepejal lain dengan perubahan laluan Ras atau rintangan PARP |
 
 ---
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Kunci |
 |------|-----|------|------|---------|
-| [34081848](https://pubmed.ncbi.nlm.nih.gov/34081848/) | 2021 | RCT | The New England Journal of Medicine | OlympiA trial: adjuvant olaparib reduces recurrence in BRCA1/2 germline-mutated, HER2-negative early breast cancer |
-| [28578601](https://pubmed.ncbi.nlm.nih.gov/28578601/) | 2017 | RCT | The New England Journal of Medicine | OlympiAD trial: olaparib shows antitumor activity in germline BRCA-mutated metastatic breast cancer |
-| [30689707](https://pubmed.ncbi.nlm.nih.gov/30689707/) | 2019 | RCT | Annals of Oncology | OlympiAD final OS/tolerability: olaparib vs. chemotherapy of physician's choice in gBRCA-mutated HER2-negative metastatic breast cancer |
-| [36893711](https://pubmed.ncbi.nlm.nih.gov/36893711/) | 2023 | RCT | European Journal of Cancer | OlympiAD extended follow-up confirming OS and safety profile |
-| [36228963](https://pubmed.ncbi.nlm.nih.gov/36228963/) | 2022 | RCT | Annals of Oncology | OlympiA overall survival analysis of adjuvant olaparib in high-risk early breast cancer with germline BRCA1/2 variants |
-| [38588696](https://pubmed.ncbi.nlm.nih.gov/38588696/) | 2024 | RCT | Nature | PARTNER trial: neoadjuvant olaparib + chemotherapy in germline BRCA wild-type triple-negative breast cancer |
-| [33119476](https://pubmed.ncbi.nlm.nih.gov/33119476/) | 2020 | RCT (Phase 2) | Journal of Clinical Oncology | TBCRC 048: olaparib activity in metastatic breast cancer with non-BRCA1/2 homologous recombination gene mutations |
-| [34143979](https://pubmed.ncbi.nlm.nih.gov/34143979/) | 2021 | RCT (Phase 2) | Cancer Cell | I-SPY2: durvalumab + olaparib + paclitaxel increases pathologic complete response in HER2-negative breast cancer |
-| [31650727](https://pubmed.ncbi.nlm.nih.gov/31650727/) | 2020 | Review | Annals of Laboratory Medicine | Review of BRCA1/BRCA2 pathogenic variant breast cancer treatment and prevention strategies |
-| [33710534](https://pubmed.ncbi.nlm.nih.gov/33710534/) | 2021 | Review | Targeted Oncology | Overview of PARP inhibitors (olaparib, talazoparib) approved for BRCA-mutated HER2-negative breast cancer |
+| [34081848](https://pubmed.ncbi.nlm.nih.gov/34081848/) | 2021 | RCT | The New England Journal of Medicine | Percubaan OlympiA: olaparib adjuvan mengurangkan kambuhan dalam kanser payudara awal bermutasi germline BRCA1/2, HER2-negatif |
+| [28578601](https://pubmed.ncbi.nlm.nih.gov/28578601/) | 2017 | RCT | The New England Journal of Medicine | Percubaan OlympiAD: olaparib menunjukkan aktiviti antitumor dalam kanser payudara metastatik bermutasi BRCA germline |
+| [30689707](https://pubmed.ncbi.nlm.nih.gov/30689707/) | 2019 | RCT | Annals of Oncology | OS/tolerabiliti terakhir OlympiAD: olaparib vs. kemoterapi pilihan doktor dalam kanser payudara metastatik HER2-negatif bermutasi gBRCA |
+| [36893711](https://pubmed.ncbi.nlm.nih.gov/36893711/) | 2023 | RCT | European Journal of Cancer | Susulan lanjutan OlympiAD mengesahkan OS dan profil keselamatan |
+| [36228963](https://pubmed.ncbi.nlm.nih.gov/36228963/) | 2022 | RCT | Annals of Oncology | Analisis kemandirian hidup keseluruhan OlympiA untuk olaparib adjuvan dalam kanser payudara awal berisiko tinggi dengan varian germline BRCA1/2 |
+| [38588696](https://pubmed.ncbi.nlm.nih.gov/38588696/) | 2024 | RCT | Nature | Percubaan PARTNER: olaparib neoadjuvan + kemoterapi dalam kanser payudara triple-negatif bermutasi BRCA germline wild-type |
+| [33119476](https://pubmed.ncbi.nlm.nih.gov/33119476/) | 2020 | RCT (Fasa 2) | Journal of Clinical Oncology | TBCRC 048: aktiviti olaparib dalam kanser payudara metastatik dengan mutasi gen pembaikan rekombinasi homolog bukan-BRCA1/2 |
+| [34143979](https://pubmed.ncbi.nlm.nih.gov/34143979/) | 2021 | RCT (Fasa 2) | Cancer Cell | I-SPY2: durvalumab + olaparib + paklitaksel meningkatkan tindak balas patologi lengkap dalam kanser payudara HER2-negatif |
+| [31650727](https://pubmed.ncbi.nlm.nih.gov/31650727/) | 2020 | Ulasan | Annals of Laboratory Medicine | Ulasan varian patogenik BRCA1/BRCA2 rawatan dan strategi pencegahan kanser payudara |
+| [33710534](https://pubmed.ncbi.nlm.nih.gov/33710534/) | 2021 | Ulasan | Targeted Oncology | Gambaran keseluruhan penghambat PARP (olaparib, talazoparib) yang diluluskan untuk kanser payudara HER2-negatif bermutasi BRCA |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-The local registry (2 records, market status: Marketed/Marketed) does not include license numbers, product names, dosage forms, or approved-indication text in this evidence pack — these fields were returned empty by the source query and cannot be populated without re-querying the source registry.
-
----
-
-## Cytotoxicity
-
-| Item | Content |
-|------|------|
-| Cytotoxicity Classification | Targeted therapy (PARP inhibitor) — not a conventional cytotoxic agent |
-| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
-| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | Please refer to the package insert warnings and precautions |
-| Handling Protection | Please refer to the package insert warnings and precautions |
+Daftar tempatan (2 rekod, status pasaran: Dipasarkan/Dipasarkan) tidak termasuk nombor lesen, nama produk, bentuk dos, atau teks petunjuk yang diluluskan dalam pek bukti ini — medan ini dikembalikan kosong oleh kueri sumber dan tidak dapat diisi tanpa pertanyaan semula ke sumber daftar.
 
 ---
 
-## Safety Considerations
+## Sitotoksisiti
 
-Please refer to the package insert for safety information.
+| Item | Kandungan |
+|------|----------|
+| Pengelasan Sitotoksisiti | Terapi tersasaran (penghambat PARP) — bukan ejen sitotoksik konvensional |
+| Risiko Penindasan Sumsum Tulang | Sila rujuk amaran dan langkah berjaga-jaga sisipan pakej |
+| Pengelasan Emetogenisiti | Sila rujuk amaran dan langkah berjaga-jaga sisipan pakej |
+| Item Pemantauan | Sila rujuk amaran dan langkah berjaga-jaga sisipan pakej |
+| Perlindungan Pengendalian | Sila rujuk amaran dan langkah berjaga-jaga sisipan pakej |
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Proceed with Guardrails**
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-**Rationale:**
-Evidence level L1 is met — multiple completed Phase 3 RCTs (OlympiAD, OlympiA) plus a large post-marketing surveillance study directly support olaparib's efficacy and safety in BRCA-mutated breast cancer. However, local drug-level safety data (warnings, contraindications, DDI) and the exact local approved-indication text are unavailable, and the possibility that breast cancer is already within the current local label has not been confirmed.
+---
 
-**To proceed, the following is needed:**
-- Local package insert (warnings, contraindications, drug interactions) — currently a Blocking data gap
-- Confirmation of the exact currently approved indication text on the 2 local licenses, to determine whether breast cancer is already covered or requires label expansion
-- Formal DrugBank/label-sourced mechanism of action record (currently a High-severity data gap; the mechanistic rationale above is derived from trial/literature evidence, not a structured MOA source)
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Teruskan dengan Langkah Pengaman**
+
+**Justifikasi:**
+Tahap bukti L1 tercapai — berbilang RCT Fasa 3 yang telah selesai (OlympiAD, OlympiA) ditambah kajian pengawasan pasca-pemasaran yang besar secara langsung menyokong keberkesanan dan keselamatan olaparib dalam kanser payudara bermutasi BRCA. Bagaimanapun, data keselamatan peringkat ubat tempatan (amaran, kontraindikasi, DDI) dan teks petunjuk yang diluluskan dengan tepat pada 2 lesen tempatan tidak tersedia, dan kemungkinan bahawa kanser payudara sudah pun berada dalam label semasa tempatan belum disahkan.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Sisipan pakej tempatan (amaran, kontraindikasi, interaksi ubat) — pada masa ini merupakan jurang data yang menghalang
+- Pengesahan teks petunjuk yang diluluskan semasa dengan tepat pada 2 lesen tempatan, untuk menentukan sama ada kanser payudara sudah pun diliputi atau memerlukan pengembangan label
+- Rekod mekanisme tindakan yang bersumber daripada DrugBank/label formal (pada masa ini merupakan jurang data berketerukan tinggi; justifikasi mekanik di atas diperoleh daripada bukti percubaan/literatur, bukan sumber MOA berstruktur)
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

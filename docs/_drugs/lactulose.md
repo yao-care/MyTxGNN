@@ -29,59 +29,60 @@ Tahap bukti: **L5** | Indikasi diramal: **8**
 
 </div>
 
-# Lactulose: From Constipation / Hepatic Encephalopathy to Acute Urate Nephropathy
+# Laktulose: Dari Sembelit / Ensefalopati Hepatik ke Nefropati Urata Akut
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Lactulose is a non-absorbable synthetic disaccharide long established for treating constipation and hepatic (portosystemic) encephalopathy. The TxGNN model's top-ranked prediction proposes potential effectiveness for **Acute Urate Nephropathy**, but currently **0 clinical trials** and **0 publications** support this specific pairing — the prediction rests on the model score alone.
+Laktulose adalah disakarida sintetik yang tidak diserap, telah lama terbukti efektif untuk mengatasi sembelit dan ensefalopati hepatik (portosisteik). Model TxGNN memprediksi potensi keefektifan untuk **Nefropati Urata Akut**, namun saat ini **0 uji klinik** dan **0 publikasi** mendukung pasangan indikasi spesifik ini — prediksi hanya bertumpu pada skor model semata.
 
-## Quick Overview
+## Gambaran Cepat
 
-| Item | Content |
-|------|------|
-| Original Indication | Not recorded in the current NPRA license extract (this data pull returned no `approved_indication_text`); lactulose's globally established indications are constipation and hepatic/portosystemic encephalopathy |
-| Predicted New Indication | Acute Urate Nephropathy |
-| TxGNN Prediction Score | 99.89% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 12 |
-| Recommended Decision | Hold |
+| Item | Konten |
+|------|--------|
+| Indikasi Asli | Tidak tercatat dalam ekstrak lisensi NPRA semasa (penarikan data ini tidak mengembalikan `approved_indication_text`); indikasi laktulose yang telah mapan secara global adalah sembelit dan ensefalopati hepatik/portosisteik |
+| Indikasi Baru yang Diprediksi | Nefropati Urata Akut |
+| Skor Prediksi TxGNN | 99.89% |
+| Tingkat Bukti | L5 |
+| Status Pasar Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Jumlah Registrasi | 12 |
+| Keputusan yang Direkomendasikan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Prediksi Ini Dapat Diterima?
 
-Currently, detailed mechanism of action data is not available (DrugBank MOA query returned a data gap). Based on known pharmacology, lactulose acts locally in the colon — its osmotic effect and bacterial fermentation to short-chain organic acids lower luminal pH, which underlies its efficacy in constipation and in reducing ammonia absorption in hepatic encephalopathy.
+Saat ini, data mekanisme aksi terperinci tidak tersedia (kueri MOA DrugBank mengembalikan kesenjangan data). Berdasarkan farmakologi yang diketahui, laktulose bekerja secara lokal di usus besar — efek osmotiknya dan fermentasi bakteri menjadi asam organik rantai pendek menurunkan pH luminal, yang mendasari efikasinya dalam sembelit dan dalam mengurangi penyerapan amonia dalam ensefalopati hepatik.
 
-For this specific prediction, there is no known mechanistic link between lactulose and acute urate nephropathy: lactulose does not affect uric acid metabolism or renal tubular urate deposition/excretion. No clinical trial or literature evidence was found for this pairing. This appears to be a pure model-score prediction without pharmacological or empirical support, and should be treated as a low-confidence signal rather than a research lead.
+Untuk prediksi spesifik ini, tidak ada hubungan mekanis yang diketahui antara laktulose dan nefropati urata akut: laktulose tidak mempengaruhi metabolisme asam urat atau deposisi/ekskresi urat tubuler ginjal. Tidak ada bukti uji klinik atau literatur yang ditemukan untuk pasangan ini. Ini tampaknya merupakan prediksi skor model murni tanpa dukungan farmakologis atau empiris, dan harus diperlakukan sebagai sinyal kepercayaan rendah daripada prospek penelitian.
 
-## Clinical Trial Evidence
+## Bukti Uji Klinik
 
-Currently no related clinical trials registered.
+Saat ini tidak ada uji klinik berkaitan yang terdaftar.
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no related literature available.
+Saat ini tidak ada literatur berkaitan yang tersedia.
 
-## Malaysia Market Information
+## Maklumat Pasar Malaysia
 
-Detailed license records (product names, dosage forms, manufacturers) were not returned in this data extract — all license fields came back empty. NPRA data confirms lactulose has **12 active registrations** and a market status of **Marketed (Marketed)** in Malaysia; individual authorization details would need to be re-pulled from the NPRA source.
+Catatan lisensi terperinci (nama produk, bentuk dosis, pengilang) tidak dikembalikan dalam ekstrak data ini — semua medan lisensi kembali kosong. Data NPRA mengConfirm laktulose mempunyai **12 registrasi aktif** dan status pasar **Dipasarkan (Dipasarkan)** di Malaysia; butir-butir otorisasi individu perlu ditarik semula dari sumber NPRA.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila merujuk pada risalah pengguna untuk maklumat keselamatan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Selanjutnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-Despite a high TxGNN score, there is no known mechanistic link between lactulose and acute urate nephropathy, and zero clinical trials or literature exist for this pairing — this is an L5, model-only prediction with insufficient basis to advance.
+**Rasionalisasi:**
+Meskipun skor TxGNN tinggi, tidak ada hubungan mekanis yang diketahui antara laktulose dan nefropati urata akut, dan tidak terdapat uji klinik atau literatur untuk pasangan ini — ini adalah prediksi L5, hanya model dengan dasar yang tidak mencukupi untuk maju.
 
-**To proceed, the following is needed:**
-- Preclinical/mechanistic studies on lactulose's effect on uric acid metabolism or renal urate handling, to establish any plausible biological rationale
-- TFDA/NPRA package insert data (warnings, contraindications) — currently a blocking data gap for even a baseline safety screen
-- DrugBank MOA data to properly assess mechanistic plausibility across all candidate indications
+**Untuk melanjutkan, hal berikut diperlukan:**
+- Kajian preklinik/mekanis tentang kesan laktulose pada metabolisme asam urat atau penanganan urat ginjal, untuk membangun alasan biologis yang masuk akal
+- Data risalah pengguna TFDA/NPRA (amaran, kontraindikasi) — saat ini kesenjangan data yang menghalang bahkan untuk skrining keselamatan dasar
+- Data MOA DrugBank untuk menilai dengan betul kelayakan mekanis di semua indikasi calon
 
-**Note:** Among the other indications in this evidence pack, **obstructive jaundice** (rank 3, evidence level L3, 1 completed Phase 4 trial plus 20 publications including a multicentre RCT on postoperative renal protection) shows substantially stronger mechanistic and evidentiary support and may warrant a separate, dedicated evaluation report.
+**Nota:** Di antara indikasi lain dalam pakej bukti ini, **ikterus obstruktif** (pangkat 3, tingkat bukti L3, 1 uji Fase 4 yang selesai ditambah 20 publikasi termasuk RCT berpusat-banyak tentang perlindungan ginjal pascaoperasi) menunjukkan sokongan mekanis dan bukti yang jauh lebih kuat dan mungkin memerlukan laporan penilaian terpisah yang berdedikasi.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

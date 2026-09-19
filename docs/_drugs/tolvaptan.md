@@ -29,75 +29,74 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Tolvaptan: From an Unspecified Approved Indication to Polycystic Kidney Disease 3 (with or without Polycystic Liver Disease)
+# Tolvaptan: Dari Indikasi Kelulusan yang Tidak Spesifik kepada Penyakit Ginjal Polikistik 3 (dengan atau tanpa Penyakit Hati Polikistik)
 
-## One-Sentence Summary
+## Ringkasan dalam Satu Ayat
 
-> Tolvaptan is already marketed in Malaysia (6 registrations), but the source data pack does not specify its original approved indication text or mechanism of action.
-> The TxGNN model's top prediction is **Polycystic Kidney Disease 3 (with or without Polycystic Liver Disease)** — a genetically distinct ADPKD subtype —
-> with **0 disease-specific clinical trials** but **20 supporting publications**, several of which describe landmark Phase 3 RCTs of tolvaptan in the broader ADPKD population.
+> Tolvaptan sudah dipasarkan di Malaysia (6 pendaftaran), tetapi pak data sumber tidak menentukan teks indikasi kelulusan aslinyanya atau mekanisme aksinya. Ramalan teratas model TxGNN ialah **Penyakit Ginjal Polikistik 3 (dengan atau tanpa Penyakit Hati Polikistik)** — subtaip ADPKD yang berbeza secara genetik — dengan **0 ujian klinikal khusus penyakit** tetapi **20 penerbitan sokongan**, beberapa daripadanya menggambarkan RCT Fasa 3 penting tolvaptan dalam populasi ADPKD yang lebih luas.
 
-## Quick Overview
+## Gambaran Ringkas
 
-| Item | Content |
-|------|------|
-| Original Indication | Not specified in the current data extract (no `original_indications` recorded; all license `approved_indication_text` fields are blank) |
-| Predicted New Indication | Polycystic kidney disease 3 with or without polycystic liver disease |
-| TxGNN Prediction Score | 99.99% |
-| Evidence Level | L1 (see caveat below) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 6 |
-| Recommended Decision | Hold |
+| Perkara | Kandungan |
+|--------|----------|
+| Indikasi Asal | Tidak dinyatakan dalam ekstrak data semasa (tiada `original_indications` direkodkan; semua medan lesen `approved_indication_text` adalah kosong) |
+| Indikasi Baru yang Diramalkan | Penyakit ginjal polikistik 3 dengan atau tanpa penyakit hati polikistik |
+| Skor Ramalan TxGNN | 99.99% |
+| Tahap Bukti | L1 (lihat amaran di bawah) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 6 |
+| Keputusan yang Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed mechanism-of-action data for tolvaptan is flagged as a data gap in this pack (DG002). However, the supporting literature and trial records included in the evidence itself consistently describe tolvaptan as a **vasopressin V2-receptor (V2R) antagonist** (e.g., PMID 35134221, PMID 37150675, and trial NCT01850940). V2R antagonism reduces intracellular cAMP signaling in renal tubular epithelium, a pathway implicated in cyst formation and growth.
+Data mekanisme-aksi terperinci untuk tolvaptan ditandai sebagai jurang data dalam pak ini (DG002). Walau bagaimanapun, literatur sokongan dan rekod ujian yang disertakan dalam bukti itu sendiri secara konsisten menggambarkan tolvaptan sebagai **antagonis vasopressin V2-reseptor (V2R)** (contohnya, PMID 35134221, PMID 37150675, dan ujian NCT01850940). Antagonisme V2R mengurangkan isyarat cAMP intraseluler dalam epitel tubular ginjal, laluan yang terlibat dalam pembentukan dan pertumbuhan kista.
 
-"Polycystic kidney disease 3" refers to a genetically distinct but mechanistically related ADPKD subtype (non-PKD1/PKD2, e.g., GANAB/DNAJB11-associated disease), sharing the ciliopathy-driven cystogenesis pathway seen in classic ADPKD. Since tolvaptan already has demonstrated efficacy in slowing cyst growth and renal function decline in ADPKD generally — per PMID 40726372, it "remains the only FDA-approved therapy targeting disease progression" in ADPKD — the mechanistic rationale for extending its use to the PKD3 subtype is biologically plausible.
+"Penyakit ginjal polikistik 3" merujuk kepada subtaip ADPKD yang berbeza secara genetik tetapi berkaitan secara mekanik (bukan PKD1/PKD2, contohnya, penyakit berkaitan GANAB/DNAJB11), berkongsi laluan pembentukan kista yang didorong oleh siliopati yang dilihat dalam ADPKD klasik. Oleh kerana tolvaptan sudah telah menunjukkan keberkesanan dalam memperlahankan pertumbuhan kista dan penurunan fungsi ginjal dalam ADPKD secara umum — mengikut PMID 40726372, ia "tetap menjadi satu-satunya terapi yang diluluskan FDA yang menyasaran perkembangan penyakit" dalam ADPKD — alasan mekanik untuk memperluaskan penggunaannya kepada subtaip PKD3 adalah munasabah secara biologi.
 
-**Important caveat**: none of the literature retrieved for this specific predicted indication explicitly isolates the PKD3 (non-PKD1/PKD2) genetic subgroup — the cited RCTs and reviews study ADPKD broadly. The prediction's strength therefore rests on mechanistic extrapolation from the general ADPKD evidence base, not on subtype-specific trial data.
+**Amaran Penting**: tiada satu pun daripada literatur yang diambil untuk indikasi yang diramalkan khusus ini secara eksplisit mengasingkan subkumpulan genetik PKD3 (bukan PKD1/PKD2) — RCT dan ulasan yang dipetik mengkaji ADPKD secara meluas. Kekuatan ramalan itu oleh itu bergantung pada ekstrapolasi mekanik daripada asas bukti ADPKD yang umum, bukan pada data ujian khusus subtaip.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-Currently no clinical trials are registered directly under this specific predicted indication label ("polycystic kidney disease 3 with or without polycystic liver disease").
+Pada masa ini tiada ujian klinikal yang didaftarkan secara langsung di bawah label indikasi yang diramalkan khusus ini ("penyakit ginjal polikistik 3 dengan atau tanpa penyakit hati polikistik").
 
-*Context note: the broader diagnosis category "polycystic kidney disease" (rank 5 in this pack) has 40 associated trials, including two completed Phase 3 RCTs (NCT00428948, NCT02160145) — see Literature Evidence below for the corresponding publications.*
+*Nota konteks: kategori diagnosis yang lebih luas "penyakit ginjal polikistik" (pangkat 5 dalam pak ini) mempunyai 40 ujian yang berkaitan, termasuk dua RCT Fasa 3 yang selesai (NCT00428948, NCT02160145) — lihat Bukti Literatur di bawah untuk penerbitan yang sepadan.*
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [23121377](https://pubmed.ncbi.nlm.nih.gov/23121377/) | 2012 | RCT (TEMPO 3:4) | The New England Journal of Medicine | Vasopressin V2-receptor antagonism with tolvaptan slowed kidney growth and functional decline in ADPKD |
-| [29105594](https://pubmed.ncbi.nlm.nih.gov/29105594/) | 2017 | RCT (REPRISE) | The New England Journal of Medicine | Tolvaptan efficacy/safety confirmed in later-stage ADPKD patients |
-| [37150675](https://pubmed.ncbi.nlm.nih.gov/37150675/) | 2023 | Systematic Review/Meta-analysis | Nefrologia | Confirms efficacy and characterizes safety profile of tolvaptan across ADPKD trials |
-| [39356039](https://pubmed.ncbi.nlm.nih.gov/39356039/) | 2024 | Systematic Review (Cochrane) | Cochrane Database of Systematic Reviews | Evaluates disease-modifying agents, including tolvaptan, for ADPKD progression |
-| [35134221](https://pubmed.ncbi.nlm.nih.gov/35134221/) | 2022 | Consensus Statement/Guideline | Nephrology, Dialysis, Transplantation | ERA Working Group consensus on tolvaptan use in ADPKD, informed by the TEMPO 3:4 trial |
-| [40126492](https://pubmed.ncbi.nlm.nih.gov/40126492/) | 2025 | Review | JAMA | Comprehensive review of ADPKD epidemiology, genetics, and treatment |
-| [34724412](https://pubmed.ncbi.nlm.nih.gov/34724412/) | 2022 | Review | Annual Review of Pathology | Advances in understanding and treating polycystic liver disease, the hepatic component of PKD3 |
-| [35328738](https://pubmed.ncbi.nlm.nih.gov/35328738/) | 2022 | Review | International Journal of Molecular Sciences | Cystogenesis pathophysiology and treatment advances in ADPKD |
-| [35487607](https://pubmed.ncbi.nlm.nih.gov/35487607/) | 2022 | Review | Clinics in Liver Disease | Discusses tolvaptan's role in slowing renal deterioration and cyst growth in combined kidney/liver disease |
-| [40726372](https://pubmed.ncbi.nlm.nih.gov/40726372/) | 2025 | Review | Current Opinion in Nephrology and Hypertension | Confirms tolvaptan as the only FDA-approved disease-modifying ADPKD therapy; surveys emerging alternatives |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|------|------|--------|---------|
+| [23121377](https://pubmed.ncbi.nlm.nih.gov/23121377/) | 2012 | RCT (TEMPO 3:4) | The New England Journal of Medicine | Antagonisme Vasopressin V2-reseptor dengan tolvaptan memperlahankan pertumbuhan ginjal dan penurunan fungsi dalam ADPKD |
+| [29105594](https://pubmed.ncbi.nlm.nih.gov/29105594/) | 2017 | RCT (REPRISE) | The New England Journal of Medicine | Keberkesanan/keselamatan tolvaptan disahkan dalam pesakit ADPKD peringkat lanjut |
+| [37150675](https://pubmed.ncbi.nlm.nih.gov/37150675/) | 2023 | Ulasan Sistematik/Meta-analisis | Nefrologia | Mengesahkan keberkesanan dan mencirikan profil keselamatan tolvaptan merentas ujian ADPKD |
+| [39356039](https://pubmed.ncbi.nlm.nih.gov/39356039/) | 2024 | Ulasan Sistematik (Cochrane) | Cochrane Database of Systematic Reviews | Menilai agen pengubah penyakit, termasuk tolvaptan, untuk perkembangan ADPKD |
+| [35134221](https://pubmed.ncbi.nlm.nih.gov/35134221/) | 2022 | Pernyataan Konsensus/Panduan | Nephrology, Dialysis, Transplantation | Konsensus Kumpulan Kerja ERA tentang penggunaan tolvaptan dalam ADPKD, dimaklumi oleh ujian TEMPO 3:4 |
+| [40126492](https://pubmed.ncbi.nlm.nih.gov/40126492/) | 2025 | Ulasan | JAMA | Ulasan komprehensif tentang epidemiologi, genetik, dan rawatan ADPKD |
+| [34724412](https://pubmed.ncbi.nlm.nih.gov/34724412/) | 2022 | Ulasan | Annual Review of Pathology | Kemajuan dalam memahami dan merawat penyakit hati polikistik, komponen hepatik PKD3 |
+| [35328738](https://pubmed.ncbi.nlm.nih.gov/35328738/) | 2022 | Ulasan | International Journal of Molecular Sciences | Patofisiologi pembentukan kista dan kemajuan rawatan dalam ADPKD |
+| [35487607](https://pubmed.ncbi.nlm.nih.gov/35487607/) | 2022 | Ulasan | Clinics in Liver Disease | Membincangkan peranan tolvaptan dalam memperlahankan kemerosotan ginjal dan pertumbuhan kista dalam penyakit ginjal/hati gabungan |
+| [40726372](https://pubmed.ncbi.nlm.nih.gov/40726372/) | 2025 | Ulasan | Current Opinion in Nephrology and Hypertension | Mengesahkan tolvaptan sebagai satu-satunya terapi ADPKD pengubah penyakit yang diluluskan FDA; mengkaji alternatif yang sedang berkembang |
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Tolvaptan holds 6 active registrations in Malaysia (market status: Marketed), but the underlying dataset for this run did not capture license-level detail — authorization numbers, product names, dosage forms, and approved indication text are all blank in the source extract. This should be re-pulled from NPRA before proceeding further.
+Tolvaptan memegang 6 pendaftaran aktif di Malaysia (status pasaran: Dipasarkan), tetapi set data asas untuk larian ini tidak menangkap perincian peringkat lesen — nombor kebenaran, nama produk, bentuk dos, dan teks indikasi kelulusan semuanya kosong dalam ekstrak sumber. Ini harus ditarik semula daripada NPRA sebelum meneruskan.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The mechanistic and literature-based efficacy signal for tolvaptan in ADPKD-spectrum disease is strong (two completed Phase 3 RCTs referenced in the literature), but this evidence pack is missing the drug's TFDA/NPRA warnings and contraindications (DG001, flagged Blocking) and its mechanism-of-action confirmation (DG002, flagged High) — both required before an initial safety screen (S1) can begin.
+**Rasional:**
+Isyarat keberkesanan berasaskan mekanik dan literatur untuk tolvaptan dalam penyakit spektrum ADPKD adalah kuat (dua RCT Fasa 3 yang selesai dirujuk dalam literatur), tetapi pak bukti ini kekurangan amaran ubat TFDA/NPRA dan kontarindikasi (DG001, ditandai Menghalang) dan pengesahan mekanisme-acsinya (DG002, ditandai Tinggi) — kedua-duanya diperlukan sebelum skrin keselamatan awal (S1) boleh bermula.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert with warnings, precautions, and contraindications (DG001)
-- DrugBank-confirmed mechanism of action (DG002)
-- Malaysia license-level detail (authorization numbers, product names, dosage forms, approved indication text) for the 6 existing registrations
-- Confirmation of whether the PKD3 (non-PKD1/PKD2) genetic subtype has been specifically studied, or whether the evidence base only supports general ADPKD
+**Untuk meneruskan, berikut diperlukan:**
+- Sisipan pakej TFDA/NPRA dengan amaran, langkah berjaga-jaga, dan kontarindikasi (DG001)
+- Mekanisme aksi yang disahkan DrugBank (DG002)
+- Perincian peringkat lesen Malaysia (nombor kebenaran, nama produk, bentuk dos, teks indikasi kelulusan) untuk 6 pendaftaran sedia ada
+- Pengesahan sama ada subtaip genetik PKD3 (bukan PKD1/PKD2) telah dikaji secara khusus, atau sama ada asas bukti hanya menyokong ADPKD umum
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,83 +29,84 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Levothyroxine Sodium: Thyroid Hormone Replacement — Repurposing Analysis Pending
+# Levothyroxine Sodium: Penggantian Hormon Tiroid — Analisis Repositioning Tertunda
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Levothyroxine Sodium is a synthetic thyroid hormone used as replacement therapy for hypothyroidism and related thyroid conditions, with 9 registered products currently on the Malaysian market.
-The current Evidence Pack contains **no TxGNN predictions** for new indications — the prediction pipeline has not returned candidates for this drug.
-This report is classified as **data-insufficient** and cannot proceed to full repurposing analysis until the identified data gaps are resolved.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Hypothyroidism / thyroid hormone replacement |
-| Predicted New Indication | — (No predictions available) |
-| TxGNN Prediction Score | — |
-| Evidence Level | — (Prediction pipeline incomplete) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 9 |
-| Recommended Decision | **Hold** |
+Levothyroxine Sodium adalah hormon tiroid sintetik yang digunakan sebagai terapi penggantian untuk hipotiroidisme dan kondisi tiroid terkait, dengan 9 produk terdaftar saat ini di pasar Malaysia.
+Evidence Pack saat ini mengandung **tanpa prediksi TxGNN** untuk indikasi baru — pipeline prediksi tidak telah mengembalikan kandidat untuk obat ini.
+Laporan ini diklasifikasikan sebagai **data tidak cukup** dan tidak dapat melanjutkan ke analisis repositioning lengkap sampai kesenjangan data yang diidentifikasi diselesaikan.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Ringkasan Cepat
 
-No TxGNN predictions are present in this Evidence Pack — the `predicted_indications` array is empty. This means either the prediction pipeline has not completed for this drug, or no candidates met the minimum scoring threshold. Without a target indication, no mechanistic rationale can be formally evaluated.
-
-Based on general pharmacological knowledge, Levothyroxine Sodium is a synthetic form of thyroxine (T4), the primary hormone secreted by the thyroid gland. In the body, T4 is peripherally converted to the more active triiodothyronine (T3), which binds to nuclear thyroid hormone receptors and regulates gene expression governing metabolism, cardiovascular function, growth, and neurological development. Potential repurposing candidates could theoretically span metabolic syndrome, heart failure, or cognitive disorders — but no formal model predictions currently exist to substantiate or prioritise any specific direction.
-
-Detailed mechanism of action data from DrugBank is also unavailable in this pack (see Data Gaps below), which further limits any mechanistic cross-indication analysis. Re-running the full TxGNN pipeline with complete drug inputs is the necessary first step before any repurposing assessment can be made.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered — no predicted new indication is available for evidence retrieval.
+| Item | Kandungan |
+|------|-----------|
+| Indikasi Asal | Hipotiroidisme / penggantian hormon tiroid |
+| Indikasi Baru yang Diprediksi | — (Tidak ada prediksi tersedia) |
+| Skor Prediksi TxGNN | — |
+| Tingkat Bukti | — (Pipeline prediksi tidak lengkap) |
+| Status Pasar Malaysia | ✓ Dipasarkan |
+| Jumlah Pendaftaran | 9 |
+| Keputusan yang Direkomendasikan | **Tahan** |
 
 ---
 
-## Literature Evidence
+## Mengapa Prediksi Ini Masuk Akal?
 
-Currently no related literature available — no predicted new indication is available for evidence retrieval.
+Tidak ada prediksi TxGNN dalam Evidence Pack ini — array `predicted_indications` kosong. Ini berarti bahwa pipeline prediksi belum selesai untuk obat ini, atau tidak ada kandidat yang memenuhi ambang skor minimum. Tanpa indikasi target, tidak ada alasan mekanis yang dapat dievaluasi secara formal.
 
----
+Berdasarkan pengetahuan farmakologi umum, Levothyroxine Sodium adalah bentuk sintetis tiroksin (T4), hormon utama yang disekresikan oleh kelenjar tiroid. Di dalam tubuh, T4 dikonversi secara perifer menjadi triiodotironin (T3) yang lebih aktif, yang mengikat reseptor hormon tiroid nuklir dan mengatur ekspresi gen yang mengatur metabolisme, fungsi kardiovaskular, pertumbuhan, dan perkembangan neurologis. Kandidat repositioning potensial secara teoritis dapat mencakup sindrom metabolik, gagal jantung, atau gangguan kognitif — tetapi tidak ada prediksi model formal yang ada saat ini untuk membuktikan atau memprioritaskan arah tertentu.
 
-## Malaysia Market Information
-
-9 product registrations were identified by NPRA query, but individual product details (licence number, product name, dosage form, approved indication) were not populated in the current data pack and require a separate retrieval step.
-
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------------------|--------------|-------------|---------------------|
-| — | — | — | Details not available in current data pack |
-
-> **Note:** NPRA query returned 9 results (query log ID 1, status: success). A follow-up retrieval of individual product records is needed to populate this table.
+Data mekanisme aksi terperinci dari DrugBank juga tidak tersedia dalam paket ini (lihat Kesenjangan Data di bawah), yang selanjutnya membatasi analisis lintas-indikasi mekanis apa pun. Menjalankan kembali pipeline TxGNN lengkap dengan input obat yang lengkap adalah langkah pertama yang diperlukan sebelum penilaian repositioning apa pun dapat dilakukan.
 
 ---
 
-## Safety Considerations
+## Bukti Uji Coba Klinis
 
-Please refer to the package insert for safety information.
+Saat ini tidak ada uji coba klinis terkait yang terdaftar — tidak ada indikasi baru yang diprediksi tersedia untuk pengambilan bukti.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Hold**
+Saat ini tidak ada literatur terkait yang tersedia — tidak ada indikasi baru yang diprediksi tersedia untuk pengambilan bukti.
 
-**Rationale:**
-Two data gaps of Blocking and High severity are unresolved, no TxGNN predictions have been generated, and individual licence details remain unpopulated — the evidence base is currently insufficient to support any repurposing recommendation.
+---
 
-**To proceed, the following is needed:**
+## Informasi Pasar Malaysia
 
-- **[Blocking — DG001] Package insert warnings and contraindications** — Download and parse the NPRA package insert PDF(s) for Levothyroxine Sodium to extract key warnings, contraindications, and DDI information; this is a prerequisite for safety pre-screening
-- **[High — DG002] Mechanism of action (MOA)** — Query the DrugBank API to retrieve DrugBank ID, MOA, pharmacodynamics, and drug categories; this is required for mechanistic cross-indication analysis
-- **Re-run TxGNN prediction pipeline** — Once drug-level data inputs are complete, re-execute the KG and deep-learning prediction steps to generate repurposing candidates with scored indications
-- **Populate NPRA licence details** — Retrieve individual product records for the 9 registered products (product name, dosage form, approved indications) to complete the Malaysia Market Information section
+9 pendaftaran produk diidentifikasi melalui kueri NPRA, tetapi detail produk individual (nomor lisensi, nama produk, bentuk dosis, indikasi yang disetujui) tidak diisi dalam paket data saat ini dan memerlukan langkah pengambilan terpisah.
+
+| Nomor Otorisasi | Nama Produk | Bentuk Dosis | Indikasi yang Disetujui |
+|-----------------|-------------|--------------|------------------------|
+| — | — | — | Detail tidak tersedia dalam paket data saat ini |
+
+> **Catatan:** Kueri NPRA mengembalikan 9 hasil (ID log kueri 1, status: berhasil). Pengambilan tindak lanjut dari catatan produk individual diperlukan untuk mengisi tabel ini.
+
+---
+
+## Pertimbangan Keselamatan
+
+Silakan merujuk pada sisipan kemasan untuk informasi keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Selanjutnya
+
+**Keputusan: Tahan**
+
+**Alasan:**
+Dua kesenjangan data dengan tingkat keparahan Blocking dan High belum diselesaikan, tidak ada prediksi TxGNN yang dihasilkan, dan detail lisensi individual tetap kosong — basis bukti saat ini tidak memadai untuk mendukung rekomendasi repositioning apa pun.
+
+**Untuk melanjutkan, hal berikut diperlukan:**
+
+- **[Blocking — DG001] Peringatan dan kontraindikasi sisipan kemasan** — Unduh dan analisis PDF sisipan kemasan NPRA untuk Levothyroxine Sodium guna mengekstrak peringatan penting, kontraindikasi, dan informasi DDI; ini adalah prasyarat untuk penyaringan keselamatan awal
+- **[High — DG002] Mekanisme aksi (MOA)** — Kueri API DrugBank untuk mengambil ID DrugBank, MOA, farmakodinamik, dan kategori obat; ini diperlukan untuk analisis lintas-indikasi mekanis
+- **Jalankan ulang pipeline prediksi TxGNN** — Setelah input data tingkat obat selesai, jalankan ulang langkah prediksi KG dan pembelajaran mendalam untuk menghasilkan kandidat repositioning dengan indikasi yang diberi skor
+- **Isi detail lisensi NPRA** — Ambil catatan produk individual untuk 9 produk terdaftar (nama produk, bentuk dosis, indikasi yang disetujui) untuk menyelesaikan bagian Informasi Pasar Malaysia
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

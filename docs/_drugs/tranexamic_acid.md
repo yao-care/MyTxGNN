@@ -29,61 +29,62 @@ Tahap bukti: **L4** | Indikasi diramal: **1**
 
 </div>
 
-# Tranexamic Acid: From Heavy Menstrual Bleeding to Amenorrhea — A Contradictory Signal
+# Asid Traneksamik: Dari Perdarahan Menstruasi Berat kepada Amenorrhea — Isyarat yang Bercanggah
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Tranexamic acid is an antifibrinolytic agent whose established clinical role is *reducing* excessive menstrual bleeding (menorrhagia/abnormal uterine bleeding), not inducing or treating absence of menstruation. The TxGNN model predicts a link to **Amenorrhea**, but this evidence pack contains **no supporting clinical trials** and only **2 review-type publications**, neither of which studies this indication directly. The predicted direction appears pharmacologically opposite to the drug's known effect, and is flagged in this pack as a likely knowledge-graph artifact rather than a genuine repurposing signal.
+Asid traneksamik adalah ejen antifibrinolitik yang peranannya yang telah terbukti secara klinikal ialah *mengurangkan* perdarahan menstruasi yang berlebihan (menorrhagia/perdarahan uterus abnormal), bukan mendorong atau merawat ketiadaan menstruasi. Model TxGNN meramalkan kaitan dengan **Amenorrhea**, tetapi pakej bukti ini tidak mengandungi **sebarang percubaan klinikal yang menyokong** dan hanya **2 penerbitan jenis ulasan**, tidak satu pun yang mengkaji indikasi ini secara langsung. Arah ramalan yang diramalkan nampaknya bertentangan secara farmakologis dengan kesan ubat yang diketahui, dan telah ditandai dalam pakej ini sebagai artifak graf pengetahuan yang mungkin dan bukannya isyarat repurposing yang tulen.
 
-## Quick Overview
+## Tinjauan Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | Not stated in TFDA license text on file; per the evidence pack's own rationale notes, tranexamic acid is an antifibrinolytic used to control/reduce heavy menstrual bleeding and other hemorrhagic conditions |
-| Predicted New Indication | Amenorrhea (disease) |
-| TxGNN Prediction Score | 99.19% |
-| Evidence Level | L4 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 10 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|-----------|
+| Indikasi Asal | Tidak dinyatakan dalam teks lesen TFDA yang tersedia; mengikut nota rasional pakej bukti itu sendiri, asid traneksamik adalah ejen antifibrinolitik yang digunakan untuk mengawal/mengurangkan perdarahan menstruasi berat dan keadaan hemoraji lain |
+| Indikasi Baru Yang Diramalkan | Amenorrhea (penyakit) |
+| Skor Ramalan TxGNN | 99.19% |
+| Tahap Bukti | L4 |
+| Status Pasaran Malaysia | ✓ Dimasarkan |
+| Bilangan Pendaftaran | 10 |
+| Keputusan yang Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed mechanism of action data is not available in this evidence pack (flagged as a High-severity data gap). Based on the information that is available, tranexamic acid is a plasminogen/plasmin inhibitor (antifibrinolytic) whose proven clinical effect is to **reduce** excessive uterine bleeding — the opposite physiological direction from amenorrhea (absence of menstruation).
+Data mekanisme tindakan yang terperinci tidak tersedia dalam pakej bukti ini (ditandai sebagai jurang data berkesedar tinggi). Berdasarkan maklumat yang tersedia, asid traneksamik adalah penghambat plasminogen/plasmin (antifibrinolitik) yang kesannya klinikal yang terbukti ialah **mengurangkan** perdarahan uterus yang berlebihan — arah fisiologi yang bertentangan dengan amenorrhea (ketiadaan menstruasi).
 
-The evidence pack itself raises this concern directly: the high TxGNN score (0.99) most likely reflects graph proximity between the "amenorrhea" node and "menstrual bleeding / abnormal uterine bleeding (AUB)" nodes in the knowledge graph, rather than a causal or therapeutic relationship. In other words, the model may be picking up on the fact that tranexamic acid is strongly associated with menstrual-bleeding-related disease concepts in general, without correctly distinguishing "treats bleeding" from "causes absence of bleeding."
+Pakej bukti itu sendiri menimbulkan kebimbangan ini secara langsung: skor TxGNN yang tinggi (0.99) kemungkinan besar mencerminkan kedekatannya dalam graf antara nod "amenorrhea" dan nod "perdarahan menstruasi / perdarahan uterus abnormal (AUB)", dan bukannya hubungan kausal atau terapeutik. Dalam erti kata lain, model mungkin memilih maklumat bahawa asid traneksamik sangat dikaitkan dengan konsep penyakit berkaitan menstruasi secara umum, tanpa membezakan dengan betul "merawat perdarahan" daripada "menyebabkan ketiadaan perdarahan."
 
-Because the original MOA data is missing, this mechanistic conflict cannot be independently cross-checked or resolved from this pack alone. It should be treated as an unresolved contradiction, not as supporting evidence.
+Kerana data MOA asal hilang, konflik mekanik ini tidak boleh disemak silang secara bebas atau diselesaikan daripada pakej ini sahaja. Ia harus dianggap sebagai percanggahan yang belum diselesaikan, bukan sebagai bukti yang menyokong.
 
-## Clinical Trial Evidence
+## Bukti Percubaan Klinikal
 
-Currently no related clinical trials registered.
+Tiada percubaan klinikal berkaitan yang didaftarkan pada masa ini.
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [21701432](https://pubmed.ncbi.nlm.nih.gov/21701432/) | 2011 | Review | Menopause (New York, N.Y.) | Evidence-based review of pharmacological therapies for **abnormal uterine bleeding** (i.e., treating excess bleeding, not amenorrhea); does not address tranexamic acid for amenorrhea specifically |
-| [39043214](https://pubmed.ncbi.nlm.nih.gov/39043214/) | 2024 | Review | Journal of Oncology Pharmacy Practice | Systematic approach to menses **prophylaxis and suppression** in pre-menopausal hematologic cancer patients undergoing treatment-associated cytopenias; discusses menstrual suppression strategies broadly, not amenorrhea as a treated indication for this drug |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|------|------|--------|---------|
+| [21701432](https://pubmed.ncbi.nlm.nih.gov/21701432/) | 2011 | Ulasan | Menopause (New York, N.Y.) | Ulasan berasaskan bukti tentang terapi farmakologi untuk **perdarahan uterus abnormal** (iaitu, merawat perdarahan berlebihan, bukan amenorrhea); tidak menangani asid traneksamik untuk amenorrhea secara khusus |
+| [39043214](https://pubmed.ncbi.nlm.nih.gov/39043214/) | 2024 | Ulasan | Journal of Oncology Pharmacy Practice | Pendekatan sistemik kepada **profilaksis menstruasi dan penindasan** pada pesakit kanser hematologi pra-menopaus yang menjalani sitopenias yang berkaitan dengan rawatan; membincangkan strategi penindasan menstruasi secara luas, bukan amenorrhea sebagai indikasi yang dirawat untuk ubat ini |
 
-Neither publication provides direct evidence for tranexamic acid as a treatment for amenorrhea; both concern management of menstrual bleeding, reinforcing the mechanistic conflict noted above.
+Tidak satu pun penerbitan memberikan bukti langsung untuk asid traneksamik sebagai rawatan untuk amenorrhea; kedua-duanya berkaitan dengan pengurusan perdarahan menstruasi, memperkuat konflik mekanik yang dinyatakan di atas.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information. Note: TFDA warning/contraindication data for this drug is an outstanding **Blocking**-severity data gap (DG001) — safety evaluation (Stage S1) cannot proceed until this is resolved.
+Sila rujuk sisipan pakej untuk maklumat keselamatan. Nota: data amaran/kontraindikasi TFDA untuk ubat ini adalah jurang data berkesedar **Menyekat** (DG001) yang tertunggak — penilaian keselamatan (Peringkat S1) tidak boleh diteruskan sehingga ini diselesaikan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The predicted indication (amenorrhea) runs contrary to tranexamic acid's known pharmacological effect of reducing menstrual bleeding, and no clinical trial evidence exists to support it — the two available publications concern managing bleeding, not treating its absence. Combined with missing MOA and safety data, this candidate does not currently meet the bar to advance past initial screening (decision stage S0).
+**Rasional:**
+Indikasi yang diramalkan (amenorrhea) bertentangan dengan kesan farmakologis asid traneksamik yang diketahui mengurangkan perdarahan menstruasi, dan tiada bukti percubaan klinikal wujud untuk menyokongnya — kedua-dua penerbitan yang tersedia berkaitan dengan pengurusan perdarahan, bukan merawat ketiadaannya. Digabungkan dengan data MOA dan keselamatan yang hilang, calon ini tidak memenuhi standard untuk maju melampaui skrining awal (peringkat keputusan S0).
 
-**To proceed, the following is needed:**
-- TFDA package insert warnings/contraindications (DG001, Blocking — required before any S1 safety screening)
-- Drug mechanism of action data from DrugBank (DG002, High)
-- Independent mechanistic or clinical rationale explaining how an antifibrinolytic could plausibly treat amenorrhea, to rule out a knowledge-graph proximity artifact
-- Detailed TFDA license/product records (license number, product name, dosage form, approved indication text), which were not returned in this pack despite 10 registrations on file
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Amaran sisipan pakej TFDA/kontraindikasi (DG001, Menyekat — diperlukan sebelum mana-mana skrining keselamatan S1)
+- Data mekanisme tindakan ubat daripada DrugBank (DG002, Tinggi)
+- Rasional mekanik atau klinikal bebas yang menjelaskan bagaimana ejen antifibrinolitik mungkin boleh merawat amenorrhea, untuk mengetepikan artifak kedekatannya graf pengetahuan
+- Rekod lesen/produk TFDA yang terperinci (nombor lesen, nama produk, bentuk dos, teks indikasi yang diluluskan), yang tidak dikembalikan dalam pakej ini walaupun terdapat 10 pendaftaran yang tersedia
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

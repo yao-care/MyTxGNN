@@ -29,92 +29,93 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Atorvastatin Calcium: Drug Repurposing Assessment — TxGNN Prediction Data Pending
+# Atorvastatin Calcium: Penilaian Tujuan Ulang Ubat — Data Ramalan TxGNN Tertangguh
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Atorvastatin Calcium is a widely-used statin originally indicated for hyperlipidaemia and cardiovascular risk reduction via HMG-CoA reductase inhibition.
-The current Evidence Pack does **not contain TxGNN prediction output** — the `predicted_indications` array is empty — meaning no new repurposing indication can be evaluated at this time.
-With **71 registered products** in Malaysia and key safety and MOA data still outstanding, the repurposing evaluation is **blocked** until upstream data gaps are resolved.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Hyperlipidaemia / Cardiovascular risk reduction (well-established; TFDA indication text not yet retrieved) |
-| Predicted New Indication | — *(No TxGNN output available)* |
-| TxGNN Prediction Score | — *(Pending)* |
-| Evidence Level | — *(Cannot be determined)* |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 71 |
-| Recommended Decision | **Hold** |
+Atorvastatin Calcium adalah ubat statin yang digunakan secara meluas dan asal-mulanya ditunjukkan untuk hiperlipidemik dan pengurangan risiko kardiovaskular melalui perencatan reductase HMG-CoA.
+Paket Bukti semasa tidak mengandungi **output ramalan TxGNN** — array `predicted_indications` kosong — bermakna tiada indikasi tujuan ulang baharu boleh dinilai pada masa ini.
+Dengan **71 produk berdaftar** di Malaysia dan data keselamatan serta MOA penting masih belum lengkap, penilaian tujuan ulang ubat adalah **tersekat** sehingga jurang data hulu diselesaikan.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Ringkas
 
-TxGNN prediction data is not yet available in this Evidence Pack (`predicted_indications: []`), so no mechanism-to-indication bridging analysis can be performed at this stage.
-
-From established pharmaceutical knowledge, atorvastatin is an HMG-CoA reductase inhibitor (statin). Beyond lipid-lowering, statins are widely researched for pleiotropic effects — including anti-inflammatory, anti-proliferative, and neuroprotective properties — which have driven repurposing hypotheses in areas such as neurodegenerative disease, sepsis, and certain cancers. However, these hypotheses **cannot be confirmed or scored** without the TxGNN model output.
-
-Formal mechanism-to-indication analysis will be completed once the TxGNN prediction pipeline is executed and DrugBank MOA data is retrieved.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered in this Evidence Pack.
-
-*Note: This reflects missing `predicted_indications` data — not the absence of real-world trial activity for atorvastatin. Once a target indication is identified by TxGNN, a ClinicalTrials.gov search should be conducted.*
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Hiperlipidemik / Pengurangan risiko kardiovaskular (telah ditubuh; teks indikasi TFDA belum diambil) |
+| Indikasi Baru Ramalan | — *(Tiada output TxGNN tersedia)* |
+| Skor Ramalan TxGNN | — *(Tertangguh)* |
+| Tahap Bukti | — *(Tidak dapat ditentukan)* |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 71 |
+| Keputusan Disyorkan | **Tahan** |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available in this Evidence Pack.
+Data ramalan TxGNN tidak tersedia dalam Paket Bukti semasa (`predicted_indications: []`), jadi analisis pontian mekanisme-ke-indikasi tidak boleh dilakukan pada peringkat ini.
 
-*Note: Same reason as above — literature evidence retrieval is tied to a specific predicted indication, which is not yet available.*
+Daripada pengetahuan farmaseutikal yang telah ditubuh, atorvastatin adalah perencat reductase HMG-CoA (statin). Selain daripada pengurangan lipid, statin telah dikaji secara meluas untuk kesan pleiotropik — termasuk sifat anti-radang, anti-proliferatif, dan neuroprotektif — yang telah mendorong hipotesis tujuan ulang dalam bidang seperti penyakit neurodegeneratif, sepsis, dan kanser tertentu. Walau bagaimanapun, hipotesis-hipotesis ini **tidak dapat disahkan atau diskor** tanpa output model TxGNN.
+
+Analisis mekanisme-ke-indikasi formal akan diselesaikan apabila paip ramalan TxGNN dilaksanakan dan data MOA DrugBank diambil.
 
 ---
 
-## Malaysia Market Information
+## Bukti Uji Klinikal
 
-The Evidence Pack confirms **71 registered products** for ATORVASTATIN CALCIUM in Malaysia. However, individual product details (authorization number, product name, dosage form, approved indication) were not returned in the current data pull.
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan dalam Paket Bukti ini.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+*Nota: Ini mencerminkan data `predicted_indications` yang hilang — bukan ketiadaan aktiviti ujian dunia sebenar untuk atorvastatin. Apabila indikasi sasaran dikenal pasti oleh TxGNN, pencarian ClinicalTrials.gov harus dijalankan.*
+
+---
+
+## Bukti Literatur
+
+Pada masa ini tiada literatur berkaitan yang tersedia dalam Paket Bukti ini.
+
+*Nota: Alasan yang sama seperti di atas — pengambilan bukti literatur terikat kepada indikasi ramalan khusus, yang belum tersedia lagi.*
+
+---
+
+## Maklumat Pasaran Malaysia
+
+Paket Bukti mengesahkan **71 produk berdaftar** untuk ATORVASTATIN CALCIUM di Malaysia. Walau bagaimanapun, butiran produk individu (nombor kebenaran, nama produk, bentuk dos, indikasi yang diluluskan) tidak dikembalikan dalam penarikan data semasa.
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
 |---------------------|-------------|-------------|---------------------|
-| *(Not retrieved)* | *(Not retrieved)* | *(Not retrieved)* | *(Not retrieved)* |
+| *(Tidak diambil)* | *(Tidak diambil)* | *(Tidak diambil)* | *(Tidak diambil)* |
 
-> **Action Required:** Re-run the NPRA/BPFK query with full licence-level detail retrieval. With 71 registrations confirmed, this data should be accessible.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-> All safety fields (key warnings, contraindications, drug-drug interactions) returned as data gaps or were not found in the current query. A TFDA/NPRA package insert (PIL/SmPC) retrieval is required before any safety-gated decision can be made.
+> **Tindakan Diperlukan:** Jalankan semula pertanyaan NPRA/BPFK dengan pengambilan butiran peringkat lesen penuh. Dengan 71 pendaftaran disahkan, data ini harus dapat diakses.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila rujuk selebaran maklumat produk untuk maklumat keselamatan.
 
-**Rationale:**
-The core repurposing analysis cannot proceed because the TxGNN prediction pipeline has not returned output for this candidate, and two blocking data gaps (safety/MOA) remain unresolved. The drug is well-established in the market (71 Malaysia registrations), so regulatory feasibility is strong once a prediction target is confirmed.
+> Semua medan keselamatan (amaran utama, kontraindikasi, interaksi ubat-ubat) dikembalikan sebagai jurang data atau tidak ditemui dalam pertanyaan semasa. Pengambilan selebaran maklumat TFDA/NPRA (PIL/SmPC) diperlukan sebelum sebarang keputusan berpagar keselamatan boleh dibuat.
 
-**To proceed, the following is needed:**
+---
 
-- [ ] **[DG001 — Blocking]** Retrieve TFDA/NPRA package insert: download SmPC/PIL PDF from the NPRA official portal and parse key warnings and contraindications
-- [ ] **[DG002 — High]** Retrieve DrugBank MOA: query DrugBank API using the resolved DrugBank ID (TFDA → DrugBank ID mapping was attempted; ensure the mapping result is written to `drug.drugbank_id`)
-- [ ] **[Critical]** Execute TxGNN prediction pipeline for ATORVASTATIN CALCIUM to populate `predicted_indications` — this is the prerequisite for the entire repurposing evaluation
-- [ ] Retrieve full NPRA licence-level details (product name, dosage form, indication text) for the 71 registered products
-- [ ] Re-run DDI query after DrugBank ID is confirmed (current `query_status: not_found` likely due to missing DrugBank ID linkage)
+## Kesimpulan dan Langkah Seterusnya
 
-Once the above are resolved, this report should be regenerated with Evidence Pack v5.
+**Keputusan: Tahan**
+
+**Rasional:**
+Analisis tujuan ulang utama tidak dapat diteruskan kerana paip ramalan TxGNN belum mengembalikan output untuk calon ini, dan dua jurang data yang menghalang (keselamatan/MOA) kekal belum diselesaikan. Ubat ini telah ditubuh dengan baik dalam pasaran (71 pendaftaran Malaysia), jadi keberlakuan kawal selia kuat apabila sasaran ramalan disahkan.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+
+- [ ] **[DG001 — Menghalang]** Ambil selebaran maklumat TFDA/NPRA: muat turun SmPC/PIL PDF daripada portal rasmi NPRA dan analisis amaran utama serta kontraindikasi
+- [ ] **[DG002 — Tinggi]** Ambil MOA DrugBank: pertanyaan API DrugBank menggunakan ID DrugBank yang diselesaikan (pemetaan TFDA → ID DrugBank dicuba; pastikan hasil pemetaan ditulis kepada `drug.drugbank_id`)
+- [ ] **[Kritikal]** Jalankan paip ramalan TxGNN untuk ATORVASTATIN CALCIUM untuk mengisi `predicted_indications` — ini adalah prasyarat untuk seluruh penilaian tujuan ulang
+- [ ] Ambil butiran peringkat lesen NPRA penuh (nama produk, bentuk dos, teks indikasi) untuk 71 produk berdaftar
+- [ ] Jalankan semula pertanyaan DDI setelah ID DrugBank disahkan (status `query_status: not_found` semasa kemungkinan disebabkan oleh paut ID DrugBank yang hilang)
+
+Apabila yang di atas diselesaikan, laporan ini harus dijana semula dengan Paket Bukti v5.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

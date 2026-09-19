@@ -29,68 +29,68 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Domperidone: From Unspecified Original Indication to Nephrogenic Syndrome of Inappropriate Antidiuresis
+# Domperidone: Daripada Indikasi Asal yang Tidak Dinyatakan kepada Sindrom Nefrogenik Antidiuresis yang Tidak Sesuai
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Domperidone is marketed in Malaysia under 17 registrations, but the evidence pack does not yet contain its original approved indication text or mechanism of action.
-The TxGNN model predicts it may be effective for **Nephrogenic Syndrome of Inappropriate Antidiuresis**, with a prediction score of **99.08%**, but currently **no clinical trials and no literature** support this direction — this is a model-only signal at this stage.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Predicted New Indication | Nephrogenic Syndrome of Inappropriate Antidiuresis |
-| TxGNN Prediction Score | 99.08% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 17 |
-| Recommended Decision | Hold |
-
-*(Original Indication and license details are omitted — the evidence pack's license records and `original_indications` field contain no data for this field.)*
+Domperidone dipasarkan di Malaysia di bawah 17 pendaftaran, tetapi paket bukti belum mengandungi teks indikasi yang diluluskan asal atau mekanisme tindakan. Model TxGNN meramalkan ia mungkin berkesan untuk **Sindrom Nefrogenik Antidiuresis yang Tidak Sesuai**, dengan skor ramalan **99.08%**, tetapi pada masa ini **tiada ujian klinikal dan tiada literatur** yang menyokong arah ini — ini adalah isyarat model sahaja pada peringkat ini.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Pantas
 
-Currently, detailed mechanism of action data is not available for domperidone in this evidence pack, and no original indication text was retrieved from the Malaysia license records. As a result, no mechanistic or indication-similarity rationale can be constructed from source data at this time.
+| Item | Kandungan |
+|------|-----------|
+| Indikasi Baharu yang Diramalkan | Sindrom Nefrogenik Antidiuresis yang Tidak Sesuai |
+| Skor Ramalan TxGNN | 99.08% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 17 |
+| Keputusan yang Disyorkan | Tunda |
 
-The prediction rests solely on the TxGNN knowledge-graph model's score (99.08%, rank 11,766), with no corroborating clinical trial or literature evidence yet identified. Until MOA and original indication data are retrieved, the biological plausibility of this repurposing signal cannot be independently assessed.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
----
-
-## Literature Evidence
-
-Currently no related literature available.
+*(Indikasi Asal dan butir-butir lesen diabaikan — rekod lesen paket bukti dan medan `original_indications` tidak mengandungi data untuk medan ini.)*
 
 ---
 
-## Safety Considerations
+## Mengapa Ramalan Ini Munasabah?
 
-Please refer to the package insert for safety information.
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia untuk domperidone dalam paket bukti ini, dan tiada teks indikasi yang diluluskan asal telah diambil daripada rekod lesen Malaysia. Akibatnya, tiada alasan mekanis atau kesamaan indikasi dapat dibina daripada data sumber pada masa ini.
+
+Ramalan bergantung sepenuhnya pada skor model graf pengetahuan TxGNN (99.08%, pangkat 11,766), tanpa bukti ujian klinikal atau literatur yang mengesahkan telah dikenal pasti. Sehingga data MOA dan indikasi asal diambil, kebolehupayaan biologi isyarat penyongsangan ini tidak dapat dinilai secara bebas.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Ujian Klinikal
 
-**Decision: Hold**
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
-**Rationale:**
-The predicted indication has zero supporting clinical trials or literature (L5, model prediction only), and a Blocking data gap remains on TFDA warnings/contraindications, which prevents any safety pre-screening. There is currently no basis to advance this candidate.
+---
 
-**To proceed, the following is needed:**
-- TFDA package insert warnings and contraindications (resolve Blocking data gap DG001)
-- Mechanism of action data from DrugBank (resolve data gap DG002)
-- Original approved indication text from Malaysia license records
-- Ongoing monitoring for new clinical trials or publications on domperidone in nephrogenic syndrome of inappropriate antidiuresis
+## Bukti Literatur
+
+Pada masa ini tiada literatur berkaitan yang tersedia.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan paket untuk maklumat keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tunda**
+
+**Rasional:**
+Ramalan indikasi mempunyai sifar ujian klinikal atau literatur yang menyokong (L5, ramalan model sahaja), dan jurang data yang Menghalang kekal pada amaran/kontraindikasi TFDA, yang menghalang sebarang pra-pemeriksaan keselamatan. Pada masa ini tiada asas untuk memajukan calon ini.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Amaran sisipan paket TFDA dan kontraindikasi (selesaikan jurang data yang Menghalang DG001)
+- Data mekanisme tindakan daripada DrugBank (selesaikan jurang data DG002)
+- Teks indikasi yang diluluskan asal daripada rekod lesen Malaysia
+- Pemantauan berterusan untuk ujian klinikal atau penerbitan baharu tentang domperidone dalam sindrom nefrogenik antidiuresis yang tidak sesuai
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,65 +29,66 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Pinaverium Bromide: Drug Repurposing Evaluation — Pending Data Resolution
+# Bromida Pinaverium: Penilaian Repurposing Ubat — Penyelesaian Data Tertunda
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Pinaverium bromide is a calcium-selective antispasmodic agent primarily indicated for functional gastrointestinal disorders, including irritable bowel syndrome (IBS).
-The TxGNN repurposing pipeline was **unable to generate predicted new indications** for this drug, as two critical upstream data gaps — missing DrugBank ID and mechanism of action (MOA) — prevent knowledge graph traversal.
-This report documents the current assessment status and the specific remediation steps required before a full repurposing evaluation can proceed.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Functional gastrointestinal disorders / IBS (general pharmacological knowledge; not confirmed in current Evidence Pack) |
-| Predicted New Indication | No predictions available — pipeline incomplete |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | Not assessable |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
-| Recommended Decision | **Hold** |
+Bromida pinaverium adalah agen antispasmodium selektif kalsium yang terutamanya ditunjukkan untuk gangguan gastrointestinal berfungsi, termasuk sindrom usus besar yang mudah terangsang (IBS).
+Saluran paip repurposing TxGNN **tidak dapat menghasilkan petunjukan baru yang diramal** untuk ubat ini, kerana dua jurang data hulu yang kritikal — DrugBank ID yang hilang dan mekanisme tindakan (MOA) — menghalang perjalanan graf pengetahuan.
+Laporan ini mendokumentasikan status penilaian semasa dan langkah pemulihan khusus yang diperlukan sebelum penilaian repurposing penuh dapat diteruskan.
 
 ---
 
-## Malaysia Market Information
+## Gambaran Keseluruhan Pantas
 
-The NPRA query (2026-03-27) confirmed **2 active registrations** in Malaysia. However, the detailed license fields (authorization numbers, product names, dosage forms, and approved indications) were not populated in the current data extract and require a follow-up retrieval.
+| Item | Kandungan |
+|------|-----------|
+| Petunjukan Asal | Gangguan gastrointestinal berfungsi / IBS (pengetahuan farmakologi umum; tidak disahkan dalam Pakej Bukti semasa) |
+| Petunjukan Baru yang Diramal | Tiada ramalan tersedia — saluran paip tidak lengkap |
+| Skor Ramalan TxGNN | Tiada |
+| Tahap Bukti | Tidak boleh dinilai |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 2 |
+| Keputusan Disyorkan | **Tahan** |
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+---
+
+## Maklumat Pasaran Malaysia
+
+Pertanyaan NPRA (2026-03-27) mengesahkan **2 pendaftaran aktif** di Malaysia. Walau bagaimanapun, medan lesen terperinci (nombor kebenaran, nama produk, bentuk dos, dan petunjukan yang diluluskan) tidak diisi dalam ekstrak data semasa dan memerlukan pengambilan susulan.
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjukan yang Diluluskan |
 |---------------------|-------------|-------------|---------------------|
-| — | — | — | Not available in current extract |
-| — | — | — | Not available in current extract |
+| — | — | — | Tidak tersedia dalam ekstrak semasa |
+| — | — | — | Tidak tersedia dalam ekstrak semasa |
 
-> To retrieve full license details, query the NPRA Product Registration database directly using the search term "PINAVERIUM BROMIDE".
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-> No drug-drug interactions were identified (DDI query status: not found, 0 interactions). Key warnings and contraindications are currently unavailable pending package insert retrieval (Data Gap DG001 — Blocking severity).
+> Untuk mendapatkan butiran lesen penuh, soal pangkalan data Pendaftaran Produk NPRA terus menggunakan istilah pencarian "PINAVERIUM BROMIDE".
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-**Rationale:**
-The TxGNN knowledge graph prediction pipeline requires a valid DrugBank ID to map Pinaverium Bromide onto the drug–disease knowledge graph. Without this mapping, no repurposing candidates can be scored or ranked, making a meaningful evidence evaluation impossible at this stage.
+> Tiada interaksi ubat-ubat yang dikenal pasti (status pertanyaan DDI: tidak ditemui, 0 interaksi). Amaran utama dan kontraindikasi kini tidak tersedia tertunggak pengambilan sisipan pakej (Jurang Data DG001 — Keterukan Menyekat).
 
-**To proceed, the following is needed:**
+---
 
-- **[DG001 — Blocking]** Retrieve the Malaysia-approved package insert from NPRA or the Dicetel® product label to extract approved indications, key warnings, and contraindications; this is required before safety pre-screening (Stage S1) can be initiated
-- **[DG002 — High]** Obtain the DrugBank ID and full MOA description — search DrugBank for "pinaverium" (expected entry: DB06716) — to enable knowledge graph traversal and generate TxGNN repurposing candidates
-- **Re-run the TxGNN pipeline** after resolving DG001 and DG002; expected outputs include repurposing candidate rankings, supporting clinical trial evidence, and literature citations
-- **Populate NPRA license details** (authorization numbers, product names, dosage forms, approved indications) from the NPRA registration portal to complete the Malaysia regulatory section
-- **Verify market status and indication scope** through official NPRA records to confirm whether current Malaysian approvals already cover any predicted new indications (which would simplify the regulatory pathway)
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Alasan:**
+Saluran paip ramalan graf pengetahuan TxGNN memerlukan DrugBank ID yang sah untuk memetakan Bromida Pinaverium ke atas graf pengetahuan ubat-penyakit. Tanpa pemetaan ini, tiada calon repurposing boleh dimarkahkan atau disusun, menjadikan penilaian bukti yang bermakna mustahil pada tahap ini.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+
+- **[DG001 — Menyekat]** Ambil sisipan pakej yang diluluskan Malaysia daripada NPRA atau label produk Dicetel® untuk mengeluarkan petunjukan yang diluluskan, amaran utama, dan kontraindikasi; ini diperlukan sebelum praskrining keselamatan (Peringkat S1) boleh dimulai
+- **[DG002 — Tinggi]** Dapatkan DrugBank ID dan perihalan MOA penuh — cari DrugBank untuk "pinaverium" (kemasukan jangkaan: DB06716) — untuk membolehkan perjalanan graf pengetahuan dan menghasilkan calon repurposing TxGNN
+- **Jalankan semula saluran paip TxGNN** selepas menyelesaikan DG001 dan DG002; keluaran yang dijangkakan termasuk kedudukan calon repurposing, bukti percubaan klinikal sokongan, dan petikan kesusasteraan
+- **Isi butiran lesen NPRA** (nombor kebenaran, nama produk, bentuk dos, petunjukan yang diluluskan) daripada portal pendaftaran NPRA untuk menyelesaikan bahagian kawal selia Malaysia
+- **Sahkan status pasaran dan skop petunjukan** melalui rekod NPRA rasmi untuk mengesahkan sama ada kelulusan Malaysia semasa sudah meliputi mana-mana petunjukan baru yang diramal (yang akan memudahkan laluan kawal selia)
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,83 +29,80 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-Using the evidence pack as provided. Note: the JSON key is `taiwan_regulatory` and all data-gap remediation sources point to **TFDA** (Taiwan), not NPRA/Malaysia — so I've labeled the market section "Taiwan" to match the actual data source rather than the template's placeholder text.
+# Zinc Gluconate: Daripada Indikasi Asal yang Tidak Tertentukan kepada Anemia Prematuriti
+
+## Ringkasan Satu Ayat
+
+> Indikasi asal yang diluluskan untuk zinc gluconate tidak didokumenkan dalam pakej bukti ini — rekod kawal selia Taiwan menunjukkan 136 kebenaran pasaran aktif, tetapi tiada teks indikasi peringkat lesen dikembalikan.
+> Model TxGNN meramalkan kemungkinan keberkesanan untuk **Anemia Prematuriti** (skor 99.94%),
+> tetapi ramalan ini pada masa ini **tiada ujian klinikal sokongan atau literatur yang diterbitkan** — ia hanya bergantung pada skor dalaman model.
 
 ---
 
-# Zinc Gluconate: From Unspecified Original Indication to Anemia of Prematurity
+## Gambaran Keseluruhan Cepat
 
-## One-Sentence Summary
-
-> Zinc gluconate's original approved indication is not documented in this evidence pack — Taiwan regulatory records show 136 active market authorizations, but no license-level indication text was returned.
-> The TxGNN model predicts possible efficacy for **Anemia of Prematurity** (score 99.94%),
-> but this prediction currently has **no supporting clinical trials or published literature** — it rests entirely on the model's internal score.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Not documented in evidence pack (license indication text unavailable) |
-| Predicted New Indication | Anemia of Prematurity |
-| TxGNN Prediction Score | 99.94% |
-| Evidence Level | L5 |
-| Taiwan Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 136 |
-| Recommended Decision | Hold |
+| Perkara | Kandungan |
+|--------|---------|
+| Indikasi Asal | Tidak didokumenkan dalam pakej bukti (teks indikasi lesen tidak tersedia) |
+| Indikasi Baru Ramalan | Anemia Prematuriti |
+| Skor Ramalan TxGNN | 99.94% |
+| Tahap Bukti | L5 |
+| Status Pasaran Taiwan | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 136 |
+| Keputusan Disyorkan | Ditangguhkan |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Adalah Munasabah?
 
-Detailed mechanism-of-action data for zinc gluconate is not available in this evidence pack (flagged as a High-severity data gap, DG002 — remediation: query DrugBank API). Based on general pharmacology, zinc is a cofactor for numerous metalloenzymes, including several involved in hematopoiesis, which is the basis of the model's proposed mechanistic link.
+Data mekanisme tindakan terperinci bagi zinc gluconate tidak tersedia dalam pakej bukti ini (ditandai sebagai jurang data berisiko tinggi, DG002 — pemulihan: soalan API DrugBank). Berdasarkan farmakologi umum, zinc adalah kofaktor untuk pelbagai metalloenzim, termasuk beberapa yang terlibat dalam hematipoesis, yang merupakan asas keterkaitan mekanis yang dicadangkan oleh model.
 
-The repurposing rationale attached to this specific prediction states: *"Zinc is a hematopoietic cofactor and could theoretically influence erythropoiesis, but there is currently no direct evidence supporting zinc gluconate for anemia of prematurity."* This is a plausible but entirely theoretical connection — no original indication data was available to compare against, and no clinical or preclinical evidence has yet been retrieved to test the hypothesis.
+Alasan penyusunan semula yang dilampirkan pada ramalan spesifik ini menyatakan: *"Zinc adalah kofaktor hematipoetik dan boleh secara teorikal mempengaruhi eritropoesis, tetapi pada masa ini tidak ada bukti langsung yang menyokong zinc gluconate untuk anemia prematuriti."* Ini adalah keterkaitan yang munasabah tetapi sepenuhnya teorikal — tiada data indikasi asal tersedia untuk dibandingkan, dan tiada bukti klinikal atau praklinikal telah dikumpulkan untuk menguji hipotesis.
 
-Given the absence of both original-indication context and MOA detail, this prediction should be treated as a hypothesis-generation signal only, not as a mechanistically substantiated candidate.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+Memandangkan ketiadaan kedua-dua konteks indikasi asal dan perincian MOA, ramalan ini harus dianggap sebagai isyarat penjanaan hipotesis sahaja, bukan sebagai calon yang disokong mekanis.
 
 ---
 
-## Literature Evidence
+## Bukti Ujian Klinikal
 
-Currently no related literature available.
-
----
-
-## Taiwan Market Information
-
-Taiwan regulatory records confirm zinc gluconate is marketed with **136 active licenses**, but license-level details (authorization number, product name, dosage form, approved indication text) were not returned in this evidence pack — all fields in the license array are empty. This is a data-completeness issue in the source extraction, not an indication that the drug lacks approved indications.
+Pada masa ini tiada ujian klinikal berkaitan yang didaftar.
 
 ---
 
-## Safety Considerations
+## Bukti Literatur
 
-Please refer to the package insert for safety information.
-
-*(Note: Warnings, contraindications, and DDI data are flagged as a **Blocking** data gap — DG001 — meaning this candidate cannot yet enter S1 safety evaluation. Remediation requires downloading and parsing the TFDA label PDF.)*
+Pada masa ini tiada literatur berkaitan yang tersedia.
 
 ---
 
-## Conclusion and Next Steps
+## Maklumat Pasaran Taiwan
 
-**Decision: Hold**
+Rekod kawal selia Taiwan mengesahkan zinc gluconate dipasarkan dengan **136 lesen aktif**, tetapi perincian peringkat lesen (nombor kebenaran, nama produk, bentuk dos, teks indikasi yang diluluskan) tidak dikembalikan dalam pakej bukti ini — semua medan dalam tatasusunan lesen kosong. Ini adalah isu kelengkapan data dalam pengekstrakan sumber, bukan petunjuk bahawa ubat kekurangan indikasi yang diluluskan.
 
-**Rationale:**
-The top-ranked prediction (Anemia of Prematurity) is supported only by the TxGNN model score with zero clinical trials or literature (Evidence Level L5). Compounding this, a **Blocking** drug-level data gap (missing TFDA label warnings/contraindications) prevents any safety pre-screening. Reviewing the other top-10 predictions for this drug (e.g., "injury," "cell proliferation disorder," "segmental odontomaxillary dysplasia") shows they are either overly broad ontology labels with mostly irrelevant retrieved evidence, or have no evidence at all — none currently rise above L5/L4 with directly relevant, on-target data.
+---
 
-**To proceed, the following is needed:**
-- TFDA label PDF (warnings, contraindications) — DG001, blocking, required before any S1 safety evaluation
-- DrugBank MOA query — DG002, needed to properly assess mechanistic plausibility
-- Original indication text from Taiwan license records (currently empty in the evidence pack)
-- Targeted literature/clinical trial search specific to "anemia of prematurity" + zinc, since the current evidence pack returned none
-- Re-evaluation once L5 candidates accumulate at least preclinical (L4) or observational (L3) evidence directly on-target
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
+
+*(Nota: Data Amaran, kontraindikasi, dan DDI ditandai sebagai jurang data **Menyekat** — DG001 — bermakna calon ini belum lagi boleh memasuki penilaian keselamatan S1. Pemulihan memerlukan memuat turun dan menghurai PDF label TFDA.)*
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Ditangguhkan**
+
+**Nisbah:**
+Ramalan paling tinggi (Anemia Prematuriti) hanya disokong oleh skor model TxGNN dengan sifar ujian klinikal atau literatur (Tahap Bukti L5). Menambah hal ini, jurang data peringkat ubat **Menyekat** (amaran label TFDA yang hilang/kontraindikasi) menghalang sebarang penyaringan keselamatan awal. Menyemak ramalan 10 teratas yang lain untuk ubat ini (cth, "kecederaan," "gangguan proliferasi sel," "displasia odontomaksila segmental") menunjukkan ia adalah sama ada label ontologi yang terlalu luas dengan bukti yang kebanyakannya tidak relevan yang diambil, atau tiada bukti sama sekali — tiada yang pada masa ini meningkat di atas L5/L4 dengan data yang berkaitan secara langsung dan bertujuan.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- PDF label TFDA (amaran, kontraindikasi) — DG001, menyekat, diperlukan sebelum sebarang penilaian keselamatan S1
+- Pertanyaan MOA DrugBank — DG002, diperlukan untuk menilai dengan wajar kebolehpercayaan mekanis
+- Teks indikasi asal daripada rekod lesen Taiwan (pada masa ini kosong dalam pakej bukti)
+- Pencarian literatur/ujian klinikal yang disasarkan khusus kepada "anemia prematuriti" + zinc, kerana pakej bukti semasa tidak mengembalikan sebarang
+- Penilaian semula sebaik sahaja calon L5 mengumpul sekurang-kurangnya bukti praklinikal (L4) atau pemerhatian (L3) yang disasarkan secara langsung
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

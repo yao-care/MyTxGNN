@@ -29,92 +29,93 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Aripiprazole Monohydrate: Drug Repurposing Evaluation — Pending TxGNN Prediction Data
+# Aripiprazole Monohydrate: Penilaian Repurposing Ubat — Data Ramalan TxGNN Tertunda
 
 ---
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Aripiprazole monohydrate is an atypical antipsychotic (second-generation), widely established for the treatment of schizophrenia, bipolar I disorder, and adjunctive major depressive disorder treatment.
-This Evidence Pack confirms **1 active Malaysian market registration**, but **TxGNN repurposing predictions are not yet available** — the `predicted_indications` array is empty, which means a full indication-to-indication evaluation cannot be completed at this stage.
-The report is therefore classified as **incomplete** and a **Hold** decision is recommended until prediction data, mechanism of action, and full regulatory licence details are retrieved.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Schizophrenia; Bipolar I disorder; Adjunctive major depressive disorder *(from established pharmacological knowledge — not present in current Evidence Pack)* |
-| Predicted New Indication | **Pending** — TxGNN prediction data not yet available |
-| TxGNN Prediction Score | Pending |
-| Evidence Level | **Undetermined** (no predictions to evaluate) |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 1 |
-| Recommended Decision | **Hold** |
+Aripiprazole monohydrate ialah antipsikotik atipik (generasi kedua), yang telah ditubuhkan secara meluas untuk rawatan skizofrenia, gangguan bipolar I, dan rawatan adjuvant bagi gangguan depresi major.
+Pakej Bukti ini mengesahkan **1 pendaftaran pasaran Malaysia yang aktif**, tetapi **ramalan repurposing TxGNN belum tersedia** — susunan `predicted_indications` kosong, yang bermakna penilaian indikasi-ke-indikasi yang lengkap tidak dapat diselesaikan pada peringkat ini.
+Laporan tersebut oleh itu diklasifikasikan sebagai **tidak lengkap** dan keputusan **Tahan** disyorkan sehingga data ramalan, mekanisme tindakan, dan butir-butir lesen kawal selia yang lengkap diperolehi.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Panduan Pantas
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on established pharmacological knowledge, aripiprazole monohydrate is an atypical antipsychotic belonging to the quinolinone class. It acts as a **partial agonist at dopamine D2 and D3 receptors** and **serotonin 5-HT1A receptors**, and as an **antagonist at 5-HT2A receptors**. This unique "dopamine system stabiliser" profile distinguishes it from earlier antipsychotics that act as full D2 antagonists.
-
-Because aripiprazole modulates both dopaminergic and serotonergic pathways simultaneously, it has generated research interest in conditions beyond classical psychosis — including impulse-control disorders, autism spectrum disorder–related irritability, Tourette syndrome, and treatment-resistant depression. These cross-indication mechanistic bridges make aripiprazole a plausible candidate for drug repurposing studies.
-
-However, **no TxGNN model prediction scores or candidate diseases are present in this Evidence Pack**. Until the prediction pipeline is re-run and results are populated, no specific new indication can be formally evaluated, and the above mechanistic narrative cannot be linked to a quantitative evidence assessment.
-
----
-
-## Clinical Trial Evidence
-
-TxGNN prediction data is not yet available in this Evidence Pack. Once a target indication is identified, clinical trial evidence will be retrieved from ClinicalTrials.gov and ICTRP.
-
-Currently no related clinical trials are linked to this evaluation.
+| Item | Kandungan |
+|------|-----------|
+| Indikasi Asal | Skizofrenia; Gangguan bipolar I; Rawatan adjuvant bagi gangguan depresi major *(daripada pengetahuan farmakoloji yang ditubuhkan — tidak terdapat dalam Pakej Bukti semasa)* |
+| Indikasi Baru yang Diramalkan | **Tertunda** — Data ramalan TxGNN belum tersedia |
+| Skor Ramalan TxGNN | Tertunda |
+| Tahap Bukti | **Tidak Ditentukan** (tiada ramalan untuk dinilai) |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | **Tahan** |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-TxGNN prediction data is not yet available in this Evidence Pack. Once a target indication is identified, PubMed literature evidence will be retrieved and assessed.
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia dalam Pakej Bukti ini. Berdasarkan pengetahuan farmakoloji yang ditubuhkan, aripiprazole monohydrate ialah antipsikotik atipik yang termasuk dalam kelas kinolinon. Ia bertindak sebagai **agonis separa pada reseptor dopamin D2 dan D3** dan **reseptor serotonin 5-HT1A**, dan sebagai **antagonis pada reseptor 5-HT2A**. Profil "penstabil sistem dopamin" yang unik ini membezakannya daripada antipsikotik terdahulu yang bertindak sebagai antagonis D2 penuh.
 
-Currently no related literature is linked to this evaluation.
+Kerana aripiprazole memodulasi kedua-dua laluan dopaminergik dan serotonergik secara serentak, ia telah menghasilkan minat penyelidikan dalam keadaan di luar psikosis klasik — termasuk gangguan kawalan impuls, kaitan lekas angin spektrum autisme–kerengsuan, sindrom Tourette, dan kemurungan tahan rawatan. Jambatan mekanik lintas indikasi ini menjadikan aripiprazole calon yang munasabah untuk kajian repurposing ubat.
 
----
-
-## Malaysia Market Information
-
-The Evidence Pack confirms **1 active registration** with Malaysia NPRA and a market status of **Marketed (Marketed)**. However, the licence detail fields (registration number, product name, dosage form, manufacturer, approved indication text) were returned as empty strings in the current data extract.
-
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------------------|--------------|-------------|---------------------|
-| *(not retrieved)* | *(not retrieved)* | *(not retrieved)* | *(not retrieved)* |
-
-> **Action Required:** Re-query the NPRA database to retrieve full licence record details for ARIPIPRAZOLE MONOHYDRATE.
+Namun, **tiada skor ramalan model TxGNN atau penyakit calon yang terdapat dalam Pakej Bukti ini**. Sehingga saluran ramalan dijalankan semula dan keputusan dipenuhi, tiada indikasi baru tertentu boleh dinilai secara formal, dan naratif mekanistik di atas tidak dapat dipautkan kepada penilaian bukti kuantitatif.
 
 ---
 
-## Safety Considerations
+## Bukti Ujian Klinikal
 
-Please refer to the package insert for safety information.
+Data ramalan TxGNN tidak tersedia dalam Pakej Bukti ini. Setelah indikasi sasaran dikenal pasti, bukti ujian klinikal akan diperolehi daripada ClinicalTrials.gov dan ICTRP.
 
-> Both key warnings and contraindications are flagged as data gaps in this Evidence Pack (severity: Blocking and High respectively). No drug–drug interaction records were returned. Safety assessment cannot proceed until the full prescribing information is obtained from the NPRA product monograph or the official package insert PDF.
+Pada masa ini tiada ujian klinikal berkaitan yang dipautkan kepada penilaian ini.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Sastera
 
-**Decision: Hold**
+Data ramalan TxGNN tidak tersedia dalam Pakej Bukti ini. Setelah indikasi sasaran dikenal pasti, bukti sastera PubMed akan diperolehi dan dinilai.
 
-**Rationale:**
-This Evidence Pack is structurally incomplete — TxGNN predictions, mechanism of action data, licence details, and safety information are all absent or empty, making it impossible to perform a meaningful repurposing evaluation at this time.
+Pada masa ini tiada sastera berkaitan yang dipautkan kepada penilaian ini.
 
-**To proceed, the following is needed:**
+---
 
-- **[Blocking — DG001]** Download and parse the NPRA/TFDA package insert PDF to extract approved indications, key warnings, and contraindications; this is required before any safety pre-screening (S1) can begin
-- **[High — DG002]** Query the DrugBank API using the drug name `ARIPIPRAZOLE MONOHYDRATE` to retrieve the DrugBank ID, full mechanism of action, pharmacological categories, and toxicity profile
-- **[Critical]** Re-run the TxGNN prediction pipeline — the `predicted_indications` array is empty; without at least one candidate disease, the report cannot be completed
-- **[Required]** Re-query NPRA to retrieve complete licence record fields (registration number, product name, dosage form, approved indication text)
-- **[Optional]** Confirm whether the monohydrate salt form shares DrugBank entries with the free base form of aripiprazole (DrugBank ID: DB01238) to avoid mapping failures
+## Maklumat Pasaran Malaysia
+
+Pakej Bukti mengesahkan **1 pendaftaran aktif** dengan NPRA Malaysia dan status pasaran **Dipasarkan (Dipasarkan)**. Walau bagaimanapun, medan butir-butir lesen (nombor pendaftaran, nama produk, bentuk dos, pengilang, teks indikasi yang diluluskan) dikembalikan sebagai rentetan kosong dalam ekstrak data semasa.
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
+|-----------------|------------|-----------|-------------------------|
+| *(tidak diperolehi)* | *(tidak diperolehi)* | *(tidak diperolehi)* | *(tidak diperolehi)* |
+
+> **Tindakan Diperlukan:** Soal semula pangkalan data NPRA untuk mendapatkan butir-butir rekod lesen lengkap untuk ARIPIPRAZOLE MONOHYDRATE.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
+
+> Kedua-dua amaran utama dan kontraindikasi ditandai sebagai jurang data dalam Pakej Bukti ini (keterukan: Penyekat dan Tinggi masing-masing). Tiada rekod interaksi ubat–ubat dikembalikan. Penilaian keselamatan tidak dapat diteruskan sehingga maklumat preskripsi lengkap diperolehi daripada monograf produk NPRA atau fail PDF sisipan pakej rasmi.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Asas:**
+Pakej Bukti ini secara struktur tidak lengkap — ramalan TxGNN, data mekanisme tindakan, butir-butir lesen, dan maklumat keselamatan semuanya tiada atau kosong, menjadikannya mustahil untuk menjalankan penilaian repurposing bermakna pada masa ini.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+
+- **[Penyekat — DG001]** Muat turun dan parskan fail PDF sisipan pakej NPRA/TFDA untuk mengekstrak indikasi yang diluluskan, amaran utama, dan kontraindikasi; ini diperlukan sebelum sebarang penyaringan keselamatan pra-S1 (S1) dapat dimulakan
+- **[Tinggi — DG002]** Pertanyaan API DrugBank menggunakan nama ubat `ARIPIPRAZOLE MONOHYDRATE` untuk mendapatkan ID DrugBank, mekanisme tindakan lengkap, kategori farmakoloji, dan profil toksisiti
+- **[Kritikal]** Jalankan semula saluran ramalan TxGNN — susunan `predicted_indications` kosong; tanpa sekurang-kurangnya satu penyakit calon, laporan tidak dapat diselesaikan
+- **[Diperlukan]** Soal semula NPRA untuk mendapatkan medan rekod lesen lengkap (nombor pendaftaran, nama produk, bentuk dos, teks indikasi yang diluluskan)
+- **[Pilihan]** Sahkan sama ada bentuk garam monohydrate berkongsi entri DrugBank dengan bentuk bebas aripiprazole (ID DrugBank: DB01238) untuk mengelakkan kegagalan pemetaan
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

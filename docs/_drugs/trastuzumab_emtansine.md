@@ -29,88 +29,89 @@ Tahap bukti: **L4** | Indikasi diramal: **4**
 
 </div>
 
-# Trastuzumab Emtansine: From HER2-Positive Breast Cancer to Normal Breast-like Subtype of Breast Carcinoma
+# Trastuzumab Emtansine: Dari Kanser Payudara HER2-Positif kepada Subtip Seperti Payudara Normal Karsinoma Payudara
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Trastuzumab emtansine (T-DM1) is an antibody-drug conjugate approved for HER2-positive breast cancer. TxGNN's top-ranked prediction for this drug is **Normal Breast-like Subtype of Breast Carcinoma**, but this direction is currently supported by only **1 clinical trial (indirect relevance)** and **0 publications**. This evidence pack also contains three related breast-cancer-subtype predictions with substantially stronger evidence (see "Related Predictions" below), which should be considered alongside the top-ranked candidate.
+Trastuzumab emtansine (T-DM1) ialah konjugat antibodi-ubat yang diluluskan untuk kanser payudara HER2-positif. Ramalan teratas TxGNN untuk ubat ini ialah **Subtip Seperti Payudara Normal Karsinoma Payudara**, tetapi arah ini kini hanya disokong oleh **1 uji coba klinikal (kaitan tidak langsung)** dan **0 penerbitan**. Pakej bukti ini juga mengandungi tiga ramalan subtip payudara yang berkaitan dengan bukti yang jauh lebih kuat (lihat "Ramalan Berkaitan" di bawah), yang harus dipertimbangkan bersama calon teratas.
 
-## Quick Overview
+## Gambaran Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | HER2-positive breast cancer (confirmed via clinical trial descriptions in evidence pack; NPRA indication text not retrieved — see data gap) |
-| Predicted New Indication | Normal breast-like subtype of breast carcinoma |
-| TxGNN Prediction Score | 99.82% |
-| Evidence Level | L4 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 6 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|----------|
+| Petunjukan Asal | Kanser payudara HER2-positif (disahkan melalui penerangan ujian klinikal dalam pakej bukti; teks petunjukan NPRA tidak diambil — lihat jurang data) |
+| Petunjukan Baru yang Diprediksi | Subtip seperti payudara normal karsinoma payudara |
+| Skor Ramalan TxGNN | 99.82% |
+| Tahap Bukti | L4 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 6 |
+| Keputusan yang Disyorkan | Tahan |
 
-### Related TxGNN Predictions for This Drug
+### Ramalan TxGNN Berkaitan untuk Ubat Ini
 
-This evidence pack contains four related breast-cancer-subtype predictions for trastuzumab emtansine. Since scores are nearly identical, evidence strength — not TxGNN rank — should drive triage:
+Pakej bukti ini mengandungi empat ramalan subtip payudara yang berkaitan untuk trastuzumab emtansine. Oleh kerana skor hampir sama, kekuatan bukti — bukan pangkat TxGNN — harus memandu triase:
 
-| Rank | Predicted Indication | TxGNN Score | Evidence Level | Recommendation |
-|------|----------------------|-------------|-----------------|-----------------|
-| 1 | Normal breast-like subtype of breast carcinoma | 99.82% | L4 | Hold |
-| 2 | Progesterone-receptor positive breast cancer | 99.82% | L3 | Research Question |
-| 3 | Progesterone-receptor negative breast cancer | 99.82% | **L1** | **Proceed with Guardrails** |
-| 4 | Breast tumor, luminal A or B | 99.81% | L2 | Research Question |
+| Pangkat | Petunjukan yang Diprediksi | Skor TxGNN | Tahap Bukti | Rekomendasi |
+|--------|----------------------|-------------|-----------------|-----------------|
+| 1 | Subtip seperti payudara normal karsinoma payudara | 99.82% | L4 | Tahan |
+| 2 | Kanser payudara positif reseptor progesteron | 99.82% | L3 | Soalan Penyelidikan |
+| 3 | Kanser payudara negatif reseptor progesteron | 99.82% | **L1** | **Teruskan dengan Pagar Keselamatan** |
+| 4 | Tumor payudara, luminal A atau B | 99.81% | L2 | Soalan Penyelidikan |
 
-**Note:** Rank 3 (PR-negative breast cancer) has the strongest evidence (2 pivotal Phase 3 trials: EMILIA/NCT00829166, MARIANNE/NCT01120184), but its own rationale flags that this is effectively a biomarker subgroup of the *already-approved* HER2-positive breast cancer indication, not a genuinely new indication. Rank 1, the subject of this report, is the weakest and most mechanistically uncertain of the four.
+**Nota:** Pangkat 3 (kanser payudara PR-negatif) mempunyai bukti paling kuat (2 uji coba Fasa 3 penting: EMILIA/NCT00829166, MARIANNE/NCT01120184), tetapi rasional dirinya sendiri menandakan bahawa ini secara berkesan ialah subkumpulan biopenanda bagi petunjukan kanser payudara HER2-positif *yang telah diluluskan*, bukan petunjukan yang benar-benar baru. Pangkat 1, subjek laporan ini, ialah yang paling lemah dan paling tidak pasti dari segi mekanik daripada empat.
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed mechanism-of-action data for trastuzumab emtansine was not retrieved in this evidence pack (Data Gap). Based on information available in the accompanying clinical trial records, trastuzumab emtansine is an antibody-drug conjugate combining trastuzumab (an anti-HER2 monoclonal antibody) with the cytotoxic microtubule inhibitor DM1/mertansine (referred to as "Trastuzumab-Mcc-DM1" in earlier trials such as NCT00679211 and NCT00829166). Its efficacy is well established in HER2-positive breast cancer, where HER2 overexpression drives receptor-mediated internalization and intracellular release of the cytotoxic payload.
+Data mekanisme tindakan terperinci untuk trastuzumab emtansine tidak diambil dalam pakej bukti ini (Jurang Data). Berdasarkan maklumat yang tersedia dalam rekod ujian klinikal yang disertakan, trastuzumab emtansine ialah konjugat antibodi-ubat yang menggabungkan trastuzumab (antibodi monoklonal anti-HER2) dengan perencat mikrotubulus sitotoksik DM1/mertansine (dirujuk sebagai "Trastuzumab-Mcc-DM1" dalam ujian sebelumnya seperti NCT00679211 dan NCT00829166). Keberkesanannya telah terbukti dengan baik dalam kanser payudara HER2-positif, di mana berlebihan HER2 memacu internalisasi dimediasi reseptor dan pelepasan intrasel beban sitotoksik.
 
-"Normal breast-like" is a PAM50 intrinsic molecular subtype defined by gene-expression profiling resembling normal breast tissue; it is not defined by HER2 overexpression, and per the model's own rationale, no literature currently supports that this subtype responds specifically to T-DM1.
+"Seperti payudara normal" ialah subtip intrinsik PAM50 yang ditakrifkan oleh profil ekspresi gen yang menyerupai tisu payudara normal; ia tidak ditakrifkan oleh berlebihan HER2, dan menurut rasional model itu sendiri, tiada sastera kini menyokong bahawa subtip ini bertindak balas secara khusus kepada T-DM1.
 
-Mechanistically, this weakens the case for extending T-DM1 to the normal-like subtype: T-DM1's activity depends on HER2 target expression, and this subtype's biological definition does not entail HER2 positivity. The single supporting trial in this pack (NCT06348134) was graded "C" relevance — it studies anti-HER2 therapy broadly in a HER2-positive Nigerian cohort, not the normal-like subtype specifically.
+Dari segi mekanik, ini melemahkan kes untuk melanjutkan T-DM1 kepada subtip seperti normal: aktiviti T-DM1 bergantung pada ekspresi sasaran HER2, dan takrifan biologi subtip ini tidak memerlukan positif HER2. Satu-satunya ujian sokongan dalam pakej ini (NCT06348134) telah dinilai kaitan "C" — ia mengkaji terapi anti-HER2 secara luas dalam kohort HER2-positif Nigeria, bukan subtip seperti normal secara khusus.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Uji Coba | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT06348134](https://clinicaltrials.gov/study/NCT06348134) | Phase 2 | Recruiting | 74 | Evaluates efficacy/safety of optimal neoadjuvant-to-adjuvant anti-HER2 therapy in Nigerian women with HER2+ breast cancer; does not specifically target the normal-like subtype (Grade C relevance). |
+| [NCT06348134](https://clinicaltrials.gov/study/NCT06348134) | Fasa 2 | Merekrut | 74 | Menilai keberkesanan/keselamatan terapi anti-HER2 neoadjuvan-ke-adjuvan optimum pada wanita Nigeria dengan kanser payudara HER2+; tidak secara khusus menyasarkan subtip seperti normal (Kaitan Gred C). |
 
-## Literature Evidence
+## Bukti Sastera
 
-Currently no related literature available.
+Pada masa ini tiada sastera berkaitan yang tersedia.
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Detailed NPRA registration records (license numbers, product names, dosage forms, indication text) were not retrieved in this evidence pack for any of the 6 registered licenses — this is a blocking data gap (DG001). Only the aggregate status is confirmed: **6 licenses registered, market status ✓ Marketed**.
+Rekod pendaftaran NPRA terperinci (nombor lesen, nama produk, bentuk dos, teks petunjukan) tidak diambil dalam pakej bukti ini untuk mana-mana 6 lesen berdaftar — ini adalah jurang data pemblokiran (DG001). Hanya status agregat yang disahkan: **6 lesen didaftarkan, status pasaran ✓ Dipasarkan**.
 
-## Cytotoxicity
+## Sitotoksisiti
 
-Trastuzumab emtansine is an antineoplastic agent (approved for breast cancer; antibody-drug conjugate class).
+Trastuzumab emtansine ialah agen antineoplastik (diluluskan untuk kanser payudara; kelas konjugat antibodi-ubat).
 
-| Item | Content |
-|------|------|
-| Cytotoxicity Classification | Targeted therapy (HER2-targeted antibody-drug conjugate delivering the cytotoxic maytansinoid payload DM1/mertansine) |
-| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
-| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | Please refer to the package insert warnings and precautions |
-| Handling Protection | As an antibody-drug conjugate with a cytotoxic payload, handling should follow institutional cytotoxic/hazardous drug protocols; refer to the package insert for specifics |
+| Item | Kandungan |
+|------|----------|
+| Klasifikasi Sitotoksisiti | Terapi tersasaran (antibodi anti-HER2 yang menyampaikan beban sitotoksik maytansinoid DM1/mertansine) |
+| Risiko Penindasan Sumsum Tulang | Sila rujuk amaran dan tindakan berjaga-jaga sisipan pakej |
+| Klasifikasi Emetogenisiti | Sila rujuk amaran dan tindakan berjaga-jaga sisipan pakej |
+| Item Pemantauan | Sila rujuk amaran dan tindakan berjaga-jaga sisipan pakej |
+| Perlindungan Pengendalian | Sebagai konjugat antibodi-ubat dengan beban sitotoksik, pengendalian harus mengikuti protokol ubat sitotoksik/berbahaya institusional; rujuk sisipan pakej untuk spesifik |
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The top-ranked prediction (normal breast-like subtype) has only one indirectly relevant Phase 2 trial and no supporting literature, and its own mechanistic rationale notes the subtype is not HER2-defined, weakening the biological case for T-DM1 activity there.
+**Rasional:**
+Ramalan teratas (subtip seperti payudara normal) hanya mempunyai satu ujian Fasa 2 kaitan tidak langsung dan tiada sastera sokongan, dan rasional mekanik dirinya sendiri mencatat subtip tidak ditakrifkan HER2, melemahkan kes biologi untuk aktiviti T-DM1 di sana.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert (warnings, contraindications) — currently blocking (DG001)
-- Detailed mechanism-of-action data (DG002)
-- Complete NPRA license records (product names, dosage forms, approved indication text) for the 6 registered products
-- Literature or trial evidence specifically evaluating T-DM1 in PAM50 normal-like breast cancer
-- Separately, consider evaluating Rank 3 (PR-negative breast cancer, L1 evidence) as a distinct, better-supported candidate — while noting it may represent a subgroup of the existing approved indication rather than a novel use
+**Untuk meneruskan, yang berikut diperlukan:**
+- Sisipan pakej TFDA/NPRA (amaran, kontraindikasi) — pada masa ini pemblokiran (DG001)
+- Data mekanisme tindakan terperinci (DG002)
+- Rekod lesen NPRA lengkap (nama produk, bentuk dos, teks petunjukan diluluskan) untuk 6 produk berdaftar
+- Sastera atau bukti ujian yang secara khusus menilai T-DM1 dalam kanser payudara normal seperti PAM50
+- Secara berasingan, pertimbangkan untuk menilai Pangkat 3 (kanser payudara PR-negatif, bukti L1) sebagai calon berbeza yang lebih disokong — sambil ambil perhatian ia mungkin mewakili subkumpulan petunjukan yang telah diluluskan sedia ada daripada penggunaan baru
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

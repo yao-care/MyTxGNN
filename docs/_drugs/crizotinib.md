@@ -29,72 +29,73 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Crizotinib: From ALK/ROS1-Positive NSCLC to Gingival Fibromatosis
+# Crizotinib: Daripada NSCLC Positif ALK/ROS1 kepada Fibromatosis Gingiva
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Crizotinib is a tyrosine kinase inhibitor targeting ALK/ROS1/MET, referenced in this evidence pack as approved for ALK/ROS1-positive non-small cell lung cancer (NSCLC). The TxGNN model predicts it may be effective for **Gingival Fibromatosis**, but this prediction is currently supported by **0 clinical trials** and **0 publications** — the evidence pack itself flags the mechanistic link as absent and suspects this is model noise rather than a genuine signal.
+Crizotinib ialah perencat kinase tirosin yang menyasarkan ALK/ROS1/MET, dirujuk dalam pakej bukti ini sebagai diluluskan untuk kanser paru-paru bukan sel kecil positif ALK/ROS1 (NSCLC). Model TxGNN meramalkan ia mungkin berkesan untuk **Fibromatosis Gingiva**, tetapi ramalan ini kini disokong oleh **0 ujian klinikal** dan **0 penerbitan** — pakej bukti itu sendiri menandai pautan mekanik sebagai tidak hadir dan mengesyaki ini adalah hingar model daripada isyarat tulen.
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | ALK/ROS1-positive NSCLC *(sourced from rationale notes; the structured license/indication fields in the source data are blank)* |
-| Predicted New Indication | Gingival Fibromatosis |
-| TxGNN Prediction Score | 99.81% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Kanser paru-paru bukan sel kecil positif ALK/ROS1 *(bersumber daripada nota rasional; medan petunjuk/indikasi berstruktur dalam data sumber adalah kosong)* |
+| Petunjuk Baru yang Diramalkan | Fibromatosis Gingiva |
+| Skor Ramalan TxGNN | 99.81% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Jumlah Pendaftaran | 2 |
+| Keputusan yang Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed mechanism-of-action data is marked as a data gap in this pack. Based on what the evidence pack's rationale notes do state, crizotinib is a small-molecule inhibitor of ALK, ROS1, and MET tyrosine kinases, used clinically for ALK/ROS1-driven NSCLC — a cancer with a specific oncogenic driver mutation.
+Data mekanisme tindakan terperinci ditandai sebagai jurang data dalam pakej ini. Berdasarkan apa yang nota rasional pakej bukti nyatakan, crizotinib ialah perencat kinase tirosin molekul kecil untuk ALK, ROS1, dan MET, digunakan secara klinikal untuk NSCLC yang didorong ALK/ROS1 — kanser dengan mutasi pemandu onkogenik tertentu.
 
-Gingival fibromatosis, by contrast, is a benign connective-tissue proliferative condition, not a malignancy, and has no established link to ALK/ROS1/MET signaling. The evidence pack's own rationale for this candidate states there is "no known connection to crizotinib's known ALK/ROS1/MET kinase-inhibition mechanism, nor is it a neoplastic disease," and explicitly flags the score as a likely artifact of knowledge-graph embedding proximity rather than a real pharmacological signal.
+Fibromatosis gingiva, sebaliknya, ialah keadaan proliferatif tisu penghubung yang jinak, bukan malignansi, dan tiada sambungan yang telah ditetapkan kepada pensinyalan ALK/ROS1/MET. Nota rasional pakej bukti sendiri untuk calon ini menyatakan terdapat "tiada sambungan yang diketahui kepada mekanisme perencatan kinase ALK/ROS1/MET crizotinib yang terkenal, dan ia bukan penyakit neoplastik," dan secara eksplisit menandai skor sebagai kemungkinan artifak daripada kedekatan embedding graf pengetahuan daripada isyarat farmakologi sebenar.
 
-This pattern is consistent across the full top-10 list in this evidence pack: every predicted indication carries evidence level L5 (model prediction only), zero clinical trials, and zero literature hits, with several rationale notes independently describing the scores as probable KG noise. This suggests the prediction score alone is not a reliable signal for this drug in this score band, and mechanistic plausibility should be weighted heavily before any further action.
+Corak ini konsisten di seluruh senarai 10 teratas dalam pakej bukti ini: setiap petunjuk yang diramalkan membawa tahap bukti L5 (ramalan model sahaja), sifar ujian klinikal, dan sifar pukulan kesusasteraan, dengan beberapa nota rasional secara bebas menghuraikan skor sebagai kemungkinan hingar KG. Ini mencadangkan skor ramalan sahaja bukan isyarat yang boleh dipercayai untuk ubat ini dalam jalur skor ini, dan kebolehpercayaan mekanik harus ditimbang dengan berat sebelum sebarang tindakan selanjutnya.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-Currently no related clinical trials registered.
+Pada masa ini tiada ujian klinikal yang berkaitan didaftarkan.
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-Currently no related literature available.
+Pada masa ini tiada kesusasteraan yang berkaitan tersedia.
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Crizotinib holds **2 registered licenses** in Malaysia with market status "Marketed." Detailed per-license information (authorization number, product name, dosage form, approved indication text) is not available in the source data — all corresponding fields were returned blank.
+Crizotinib memegang **2 lesen berdaftar** di Malaysia dengan status pasaran "Dipasarkan." Maklumat terperinci untuk setiap lesen (nombor kebenaran, nama produk, bentuk dos, teks petunjuk yang diluluskan) tidak tersedia dalam data sumber — semua medan yang berkaitan dikembalikan kosong.
 
-## Cytotoxicity
+## Sitotoksisiti
 
-Crizotinib is an oncology drug (ALK/ROS1/MET-targeted therapy for NSCLC), so this section applies.
+Crizotinib ialah ubat onkologi (terapi ALK/ROS1/MET-terhala kinase tirosin untuk NSCLC), jadi bahagian ini terpakai.
 
-| Item | Content |
-|------|------|
-| Cytotoxicity Classification | Targeted therapy (ALK/ROS1/MET tyrosine kinase inhibitor) — not a conventional cytotoxic chemotherapy agent, per rationale notes |
-| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
-| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | Please refer to the package insert warnings and precautions |
-| Handling Protection | Please refer to the package insert warnings and precautions |
+| Item | Kandungan |
+|------|----------|
+| Klasifikasi Sitotoksisiti | Terapi bertarget (perencat kinase tirosin ALK/ROS1/MET) — bukan agen kemoterapi sitotoksik konvensional, mengikut nota rasional |
+| Risiko Penindasan Sum-sum | Sila rujuk amaran dan perkara berjaga dalam sisipan paket |
+| Klasifikasi Emetogeniti | Sila rujuk amaran dan perkara berjaga dalam sisipan paket |
+| Item Pemantauan | Sila rujuk amaran dan perkara berjaga dalam sisipan paket |
+| Perlindungan Pengendalian | Sila rujuk amaran dan perkara berjaga dalam sisipan paket |
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisipan paket untuk maklumat keselamatan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The top-ranked predicted indication (gingival fibromatosis) has no clinical trial, literature, or mechanistic support, and the evidence pack itself identifies the prediction as likely knowledge-graph noise rather than a genuine repurposing signal. Additionally, a Blocking data gap (missing TFDA/NPRA package insert warnings and contraindications) prevents this candidate from entering the S1 safety review stage regardless of indication-level evidence.
+**Rasional:**
+Petunjuk yang diramalkan berkedudukan tertinggi (fibromatosis gingiva) tiada ujian klinikal, kesusasteraan, atau sokongan mekanik, dan pakej bukti itu sendiri mengenal pasti ramalan sebagai kemungkinan hingar graf pengetahuan daripada isyarat penyusunan semula tulen. Selain itu, jurang data penghalang (sisipan paket TFDA/NPRA yang hilang, amaran dan kontraindikasi) menghalang calon ini daripada memasuki peringkat ulasan keselamatan S1 tanpa mengira bukti tahap petunjuk.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert data (warnings, contraindications) — currently a Blocking data gap
-- Confirmed mechanism-of-action data via DrugBank API
-- Complete Malaysia license details (product names, dosage forms, full approved indication text)
-- If this indication is pursued further, a preclinical or mechanistic rationale connecting ALK/ROS1/MET pathway biology to gingival fibromatosis pathogenesis, which is currently absent
+**Untuk meneruskan, perkara-perkara berikut diperlukan:**
+- Data sisipan paket TFDA/NPRA (amaran, kontraindikasi) — pada masa ini jurang data penghalang
+- Data mekanisme tindakan yang disahkan melalui API DrugBank
+- Maklumat lesen Malaysia yang lengkap (nama produk, bentuk dos, teks petunjuk yang diluluskan penuh)
+- Jika petunjuk ini diteruskan lebih jauh, rasional pra-klinikal atau mekanik yang menghubungkan biologi laluan ALK/ROS1/MET kepada patogenesis fibromatosis gingiva, yang pada masa ini tidak ada
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

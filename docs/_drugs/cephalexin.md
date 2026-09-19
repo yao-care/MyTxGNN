@@ -29,87 +29,88 @@ Tahap bukti: **L3** | Indikasi diramal: **5**
 
 </div>
 
-# Cephalexin: From Bacterial Infections to Streptococcal Pneumonia
+# Cephalexin: Daripada Jangkitan Bakteria kepada Pneumonia Streptokokus
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Cephalexin is a first-generation oral cephalosporin antibiotic long used against susceptible bacterial infections. The TxGNN model lists **Streptococcal Pneumonia** as its top associated indication, but the prediction carries a **0% score** and the evidence pack's own mechanistic analysis identifies this as an existing antibacterial-spectrum use rather than a novel repurposing signal — supported by **0 clinical trials** and **20 literature references**, mostly older reviews and small comparator studies.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not specified in this data pull (Cephalexin is a first-generation cephalosporin antibiotic for susceptible bacterial infections) |
-| Predicted New Indication | Streptococcal Pneumonia |
-| TxGNN Prediction Score | 0% |
-| Evidence Level | L3 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 26 |
-| Recommended Decision | Hold |
+Cephalexin adalah antibiotik sefalosporin generasi pertama oral yang telah lama digunakan terhadap jangkitan bakteria yang rentan. Model TxGNN menyenaraikan **Pneumonia Streptokokus** sebagai petunjuk berikutannya yang paling berkaitan, tetapi ramalan membawa skor **0%** dan analisis mekanik pakej bukti sendiri mengenal pasti ini sebagai penggunaan spektrum antibakteria yang sedia ada daripada isyarat penambahan tujuan yang baru — disokong oleh **0 uji klinik** dan **20 rujukan literatur**, kebanyakannya ulasan lebih lama dan kajian pembanding kecil.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Pantas
 
-Currently, detailed mechanism of action data is not available in this evidence pack (flagged as a High-severity data gap). Based on general pharmacological knowledge, Cephalexin inhibits bacterial cell wall synthesis by binding penicillin-binding proteins (PBPs), giving it direct antibacterial activity against susceptible gram-positive organisms, including *Streptococcus pneumoniae*.
-
-This is the key caveat for this candidate: the evidence pack's own mechanistic rationale explicitly states that streptococcal pneumonia falls **within cephalexin's existing antibacterial spectrum rather than a cross-mechanism repurposing hypothesis** ("此為抗菌譜內用途而非跨機轉再利用"). The TxGNN score of 0.0 — identical across all five predicted indications in this pack — provides no computational novelty signal to support a genuine repurposing claim.
-
-The same pattern holds across the other four candidates in this pack: *streptococcal infection* (L2, "既有適應症延伸使用") and *staphylococcus aureus infection* (L1, "非跨機轉假說") are both explicitly labeled as on-spectrum extensions rather than new indications, while *infectious otitis media* and *arthropathy* have weak or mismatched mechanistic support. None of the five candidates in this evidence pack represents a strong novel repurposing hypothesis.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Tidak dinyatakan dalam pengambilan data ini (Cephalexin adalah antibiotik sefalosporin generasi pertama untuk jangkitan bakteria yang rentan) |
+| Indikasi Baru Yang Diramalkan | Pneumonia Streptokokus |
+| Skor Ramalan TxGNN | 0% |
+| Tahap Bukti | L3 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 26 |
+| Keputusan Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| PMID | Year | Type | Journal | Key Findings |
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia dalam pakej bukti ini (ditandakan sebagai jurang data berseveriti tinggi). Berdasarkan pengetahuan farmakologi am, Cephalexin menghalang sintesis dinding sel bakteria dengan mengikat protein yang mengikat penicillin (PBPs), memberikan aktiviti antibakteria langsung terhadap organisma gram-positif yang rentan, termasuk *Streptococcus pneumoniae*.
+
+Ini adalah peringatan utama untuk kandidat ini: rasional mekanik pakej bukti sendiri secara jelas menyatakan bahawa pneumonia streptokokus jatuh **dalam spektrum antibakteria sedia ada cephalexin daripada hipotesis penambahan tujuan mekanisme silang** ("此為抗菌譜內用途而非跨機轉再利用"). Skor TxGNN 0.0 — sama di semua lima indikasi yang diramalkan dalam pakej ini — tidak memberikan isyarat kebaruan pengiraan untuk menyokong tuntutan penambahan tujuan tulen.
+
+Corak yang sama berlaku di seluruh empat kandidat lain dalam pakej ini: *jangkitan streptokokus* (L2, "既有適應症延伸使用") dan *jangkitan Staphylococcus aureus* (L1, "非跨機轉假說") kedua-duanya secara jelas dilabel sebagai lanjutan spektrum sedia ada daripada indikasi baru, manakala *otitis media berjangkit* dan *arthropati* mempunyai sokongan mekanik yang lemah atau tidak sepadan. Tiada satu pun daripada lima kandidat dalam pakej bukti ini mewakili hipotesis penambahan tujuan novel yang kuat.
+
+---
+
+## Bukti Uji Klinik
+
+Pada masa ini tiada uji klinik yang berkaitan yang didaftarkan.
+
+---
+
+## Bukti Literatur
+
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [799997](https://pubmed.ncbi.nlm.nih.gov/799997/) | 1976 | RCT (small, old) | J Int Med Res | Randomized double-blind comparison of cephradine vs. cephalexin in 162 children with bacterial infections, including lobar pneumonia and skin infections |
-| [4284](https://pubmed.ncbi.nlm.nih.gov/4284/) | 1976 | RCT (small, old) | Curr Ther Res Clin Exp | Comparison of cephradine and cephalexin in respiratory and urinary tract infections |
-| [4248663](https://pubmed.ncbi.nlm.nih.gov/4248663/) | 1970 | Review | Med Clin North Am | General review of cephalexin pharmacology and clinical use |
-| [3803252](https://pubmed.ncbi.nlm.nih.gov/3803252/) | 1986 | RCT (comparator: cefaclor, not cephalexin arm) | Drugs | 103 gold-miners with pneumococcal pneumonia treated with cefadroxil vs. cefaclor; 94% clinical cure in both arms — cephalexin not a study arm |
-| [3752972](https://pubmed.ncbi.nlm.nih.gov/3752972/) | 1986 | Animal model | Antimicrob Agents Chemother | Rat lung-infection model: cefadroxil ~8x more effective than cephalexin at reducing viable streptococci at infection site |
-| [44908](https://pubmed.ncbi.nlm.nih.gov/44908/) | 1979 | Cohort (cefaclor, not cephalexin) | Postgrad Med J | 60 patients with pneumonia/bronchitis treated with cefaclor; cephalexin not the study drug |
-| [5556191](https://pubmed.ncbi.nlm.nih.gov/5556191/) | 1971 | Pending classification | Postgrad Med J | "Treatment of pneumonia in childhood with cephalexin" — title directly relevant, abstract not retrieved |
-| [4404851](https://pubmed.ncbi.nlm.nih.gov/4404851/) | 1972 | Pending classification | Scand J Infect Dis | "Cephalexin therapy of lower respiratory tract, soft tissue and bone infections" |
-| [4931110](https://pubmed.ncbi.nlm.nih.gov/4931110/) | 1970 | Pending classification | La Prensa Med Mex | Cephalexin monohydrate in 120 children with respiratory infections; clinical, bacteriological and hematic/hepatic/renal tolerance data |
-| [4642154](https://pubmed.ncbi.nlm.nih.gov/4642154/) | 1972 | Pending classification | Am Fam Physician | General review titled "Pneumonia" |
+| [799997](https://pubmed.ncbi.nlm.nih.gov/799997/) | 1976 | RCT (kecil, lama) | J Int Med Res | Perbandingan buta berganda rawak cephradine vs. cephalexin dalam 162 kanak-kanak dengan jangkitan bakteria, termasuk pneumonia lobar dan jangkitan kulit |
+| [4284](https://pubmed.ncbi.nlm.nih.gov/4284/) | 1976 | RCT (kecil, lama) | Curr Ther Res Clin Exp | Perbandingan cephradine dan cephalexin dalam jangkitan saluran pernafasan dan urin |
+| [4248663](https://pubmed.ncbi.nlm.nih.gov/4248663/) | 1970 | Ulasan | Med Clin North Am | Ulasan umum farmakologi dan penggunaan klinikal cephalexin |
+| [3803252](https://pubmed.ncbi.nlm.nih.gov/3803252/) | 1986 | RCT (pembanding: cefaclor, bukan cabang cephalexin) | Drugs | 103 penggali emas dengan pneumonia pneumokokus yang dirawat dengan cefadroxil vs. cefaclor; 94% kesembuhan klinikal di kedua-dua cabang — cephalexin bukan cabang kajian |
+| [3752972](https://pubmed.ncbi.nlm.nih.gov/3752972/) | 1986 | Model haiwan | Antimicrob Agents Chemother | Model jangkitan paru-paru tikus: cefadroxil ~8x lebih berkesan daripada cephalexin dalam mengurangkan streptokokus berdaya hidup di tapak jangkitan |
+| [44908](https://pubmed.ncbi.nlm.nih.gov/44908/) | 1979 | Kohort (cefaclor, bukan cephalexin) | Postgrad Med J | 60 pesakit dengan pneumonia/bronkitis yang dirawat dengan cefaclor; cephalexin bukan ubat kajian |
+| [5556191](https://pubmed.ncbi.nlm.nih.gov/5556191/) | 1971 | Pengelasan tertunda | Postgrad Med J | "Treatment of pneumonia in childhood with cephalexin" — tajuk langsung berkaitan, abstrak tidak diambil |
+| [4404851](https://pubmed.ncbi.nlm.nih.gov/4404851/) | 1972 | Pengelasan tertunda | Scand J Infect Dis | "Cephalexin therapy of lower respiratory tract, soft tissue and bone infections" |
+| [4931110](https://pubmed.ncbi.nlm.nih.gov/4931110/) | 1970 | Pengelasan tertunda | La Prensa Med Mex | Cephalexin monohydrate dalam 120 kanak-kanak dengan jangkitan pernafasan; data toleransi klinikal, bakteriologi dan hematik/hepatik/renal |
+| [4642154](https://pubmed.ncbi.nlm.nih.gov/4642154/) | 1972 | Pengelasan tertunda | Am Fam Physician | Ulasan umum bertajuk "Pneumonia" |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Detailed authorization records (product name, dosage form, manufacturer, approved indication text) were not populated in this data pull — all fields returned blank. NPRA query log confirms **26 active registrations** for Cephalexin as of the data cutoff, with overall market status "Marketed" (Marketed).
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-*(Note: NPRA/TFDA package insert warnings and contraindications are flagged as a **Blocking** data gap (DG001) in this evidence pack — this must be resolved before any safety-stage evaluation (S1) can proceed.)*
+Rekod kebenaran terperinci (nama produk, bentuk dos, pengilang, teks indikasi yang diluluskan) tidak diisi dalam pengambilan data ini — semua medan dikembalikan kosong. Log pertanyaan NPRA mengesahkan **26 pendaftaran aktif** untuk Cephalexin pada tarikh potongan data, dengan status pasaran keseluruhan "Dipasarkan" (Dipasarkan).
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-**Rationale:**
-The TxGNN score of 0.0 provides no computational novelty signal, and the evidence pack's own mechanistic rationale confirms that streptococcal pneumonia falls within cephalexin's existing antibacterial spectrum rather than representing a genuine repurposing hypothesis. No clinical trials directly test cephalexin for this indication, and a Blocking data gap on regulatory warnings/contraindications prevents even an initial safety screen.
+*(Nota: Amaran sisipan pakej NPRA/TFDA dan kontraindikasi ditandakan sebagai jurang data **Menghalang** (DG001) dalam pakej bukti ini — ini mesti diselesaikan sebelum sebarang penilaian peringkat keselamatan (S1) dapat diteruskan.)*
 
-**To proceed, the following is needed:**
-- NPRA/TFDA package insert warnings and contraindications (Blocking gap, DG001)
-- DrugBank mechanism-of-action detail (DG002)
-- A trial or controlled study evaluating cephalexin itself (not comparator cephalosporins) specifically for streptococcal pneumonia
-- Reassessment of whether this and the other four predicted indications in this pack should be reclassified as label-consistent uses rather than repurposing candidates
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Skor TxGNN 0.0 tidak memberikan isyarat kebaruan pengiraan, dan rasional mekanik pakej bukti sendiri mengesahkan bahawa pneumonia streptokokus jatuh dalam spektrum antibakteria sedia ada cephalexin daripada mewakili hipotesis penambahan tujuan tulen. Tiada uji klinik yang secara langsung menguji cephalexin untuk indikasi ini, dan jurang data Menghalang pada amaran peraturan/kontraindikasi mencegah malah skrin keselamatan awal.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Amaran sisipan pakej NPRA/TFDA dan kontraindikasi (Jurang menghalang, DG001)
+- Butiran mekanisme tindakan DrugBank (DG002)
+- Satu percubaan atau kajian terkawal yang menilai cephalexin sendiri (bukan sefalosporin pembanding) khusus untuk pneumonia streptokokus
+- Penilaian semula sama ada ini dan empat indikasi yang diramalkan yang lain dalam pakej ini harus diklasifikasikan semula sebagai penggunaan konsisten label daripada kandidat penambahan tujuan
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

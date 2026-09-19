@@ -29,88 +29,89 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Pitavastatin Calcium: Drug Repurposing Evaluation — Insufficient Data to Complete Prediction
+# Pitavastatin Calcium: Penilaian Ubah Tujuan Ubat — Data Tidak Mencukupi untuk Menyelesaikan Ramalan
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Pitavastatin Calcium is a statin-class lipid-lowering agent, clinically established for the management of hypercholesterolaemia and mixed dyslipidaemia through inhibition of HMG-CoA reductase.
-No TxGNN repurposing predictions were generated for this drug in the current evidence pack, making it impossible to identify or evaluate a candidate new indication.
-All three major data components — mechanism of action, safety labelling, and product-level NPRA registration details — remain unresolved data gaps; the pipeline must be re-run with complete inputs before a full evaluation can be produced.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Hypercholesterolaemia / Dyslipidaemia *(inferred from drug class; NPRA-specific approved text not retrieved)* |
-| Predicted New Indication | — *(No TxGNN prediction available in this evidence pack)* |
-| TxGNN Prediction Score | — |
-| Evidence Level | — *(No prediction to evaluate)* |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
-| Recommended Decision | **Hold** |
+Pitavastatin Calcium ialah agen penurun lipid kelas statin, yang ditubuhkan secara klinikal untuk pengurusan hiperkolesterolaemia dan disolipidaemia bercampur melalui perencatan HMG-CoA reductase.
+Tiada ramalan ubah tujuan TxGNN yang dihasilkan untuk ubat ini dalam pakej bukti semasa, menjadikannya mustahil untuk mengenal pasti atau menilai calon petunjuk baru.
+Ketiga-tiga komponen data utama — mekanisme tindakan, pelabelan keselamatan, dan butir pendaftaran NPRA peringkat produk — kekal sebagai jurang data yang tidak diselesaikan; saluran mesti dijalankan semula dengan input lengkap sebelum penilaian penuh dapat dihasilkan.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Pantas
 
-No TxGNN-predicted indication is present in the current evidence pack (`predicted_indications` array is empty). A structured repurposing rationale cannot be constructed without a target disease.
-
-Based on publicly available information, Pitavastatin Calcium is a synthetic, fully fluorinated statin that competitively inhibits 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase — the rate-limiting enzyme in hepatic cholesterol biosynthesis. By reducing intracellular cholesterol, it upregulates LDL receptors, lowers circulating LDL-C and triglycerides, and modestly raises HDL-C. Beyond lipid effects, statins as a class also exert pleiotropic actions including anti-inflammatory, antioxidant, and immunomodulatory effects, properties that have motivated repurposing research in oncology, cardiovascular risk reduction beyond lipid-lowering, and neurodegenerative diseases.
-
-However, all of the above is general class knowledge, not evidence drawn from this evidence pack. The formal mechanism of action data field (`original_moa`) is flagged as a data gap (severity: High), and no indication-level evidence (clinical trials or literature) has been retrieved. Once TxGNN predictions and supporting evidence are loaded into the pack, a complete mechanism-to-indication alignment analysis can be performed.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered — no predicted indication is available in this evidence pack to query against.
+| Item | Kandungan |
+|------|-----------|
+| Petunjuk Asal | Hiperkolesterolaemia / Disolipidaemia *(disimpulkan dari kelas ubat; teks yang diluluskan khusus NPRA tidak diambil)* |
+| Petunjuk Baru yang Diramalkan | — *(Tiada ramalan TxGNN tersedia dalam pakej bukti ini)* |
+| Skor Ramalan TxGNN | — |
+| Tahap Bukti | — *(Tiada ramalan untuk dinilai)* |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 3 |
+| Keputusan yang Disyorkan | **Tahan** |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available — no predicted indication is available in this evidence pack to query against.
+Tiada petunjuk yang diramalkan oleh TxGNN dalam pakej bukti semasa (tatasusunan `predicted_indications` kosong). Rasional ubah tujuan berstruktur tidak dapat dibina tanpa penyakit sasaran.
 
----
+Berdasarkan maklumat yang tersedia umum, Pitavastatin Calcium ialah statin sintetik yang terfluorinasi sepenuhnya yang melakukan perencatan kompetitif 3-hidroksil-3-metilglutaril-koenzim A (HMG-CoA) reductase — enzim pembatas kadar dalam biosintesis kolesterol hepatik. Dengan mengurangkan kolesterol intraselular, ia meningkatkan reseptor LDL, menurunkan LDL-C dan trigliserida yang beredar, dan sederhana meningkatkan HDL-C. Selain kesan lipid, statin sebagai kelas juga menjalankan tindakan pleiotropik termasuk kesan anti-radang, antioksidan, dan imunomodulatori, sifat yang telah mendorong penyelidikan ubah tujuan dalam onkologi, pengurangan risiko kardiovaskular melebihi penurunan lipid, dan penyakit neurodegeneratif.
 
-## Malaysia Market Information
-
-The evidence pack records **3 registered products** in Malaysia, but all product-level detail fields (authorisation number, product name, dosage form, and approved indication text) were not populated during data retrieval. The table below reflects the state of the data as received.
-
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|----------------------|-------------|-------------|---------------------|
-| Not retrieved | Not retrieved | Not retrieved | Not retrieved |
-| Not retrieved | Not retrieved | Not retrieved | Not retrieved |
-| Not retrieved | Not retrieved | Not retrieved | Not retrieved |
-
-> **Note:** NPRA product registration details should be retrieved directly from the [NPRA Quest 3+ portal](https://quest3plus.bpfk.gov.my) or via package insert PDF parsing to populate these fields.
+Walau bagaimanapun, semua perkara di atas adalah pengetahuan kelas umum, bukan bukti yang diambil daripada pakej bukti ini. Medan data mekanisme tindakan formal (`original_moa`) ditanda sebagai jurang data (kesukaran: Tinggi), dan tiada bukti peringkat petunjuk (percubaan klinikal atau literatur) telah diambil. Setelah ramalan TxGNN dan bukti sokongan dimuatkan ke dalam pakej, analisis penjajaran mekanisme-ke-petunjuk yang lengkap dapat dilakukan.
 
 ---
 
-## Safety Considerations
+## Bukti Percubaan Klinikal
 
-Please refer to the package insert for safety information.
-
-> All safety fields — key warnings, contraindications, and drug-drug interactions — are flagged as data gaps in this evidence pack. The blocking data gap (DG001) indicates that TFDA/NPRA package insert PDFs have not yet been downloaded and parsed. This must be resolved before any safety-based prescribing or repurposing decision can be made.
+Pada masa ini tiada percubaan klinikal yang berkaitan didaftarkan — tiada petunjuk yang diramalkan tersedia dalam pakej bukti ini untuk pertanyaan.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Hold**
+Pada masa ini tiada literatur yang berkaitan tersedia — tiada petunjuk yang diramalkan tersedia dalam pakej bukti ini untuk pertanyaan.
 
-**Rationale:**
-The evidence pack for Pitavastatin Calcium contains no TxGNN repurposing predictions and is missing all three critical data layers (MOA, safety labelling, and NPRA product details); no repurposing candidate can be evaluated, scored, or recommended at this stage.
+---
 
-**To proceed, the following is needed:**
+## Maklumat Pasaran Malaysia
 
-- **Re-run TxGNN prediction pipeline** with Pitavastatin Calcium correctly mapped to its DrugBank ID (DB08860) so that `predicted_indications` is populated with candidate diseases, scores, and supporting evidence
-- **Resolve DrugBank data gap (DG002):** Query the DrugBank API using DrugBank ID DB08860 to retrieve the full drug profile including pharmacology, MOA, drug categories, and toxicity data
-- **Resolve NPRA/TFDA package insert data gap (DG001):** Download and parse the product insert PDFs from the NPRA portal or TFDA website to populate key warnings, contraindications, approved indication texts per registration, and drug interaction data
-- **Populate NPRA licence details:** Re-query the NPRA Quest 3+ database to retrieve authorisation numbers, product names, dosage forms, and manufacturers for all 3 registered products
-- **Re-generate evidence pack** once the above gaps are resolved, then produce a full evaluation report with a defined target indication, evidence level, and Go/Proceed/Hold recommendation grounded in actual data
+Pakej bukti merekodkan **3 produk yang didaftarkan** di Malaysia, tetapi semua medan butir peringkat produk (nombor kebenaran, nama produk, bentuk dos, dan teks petunjuk yang diluluskan) tidak diisi semasa pengambilan data. Jadual di bawah mencerminkan keadaan data seperti yang diterima.
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjuk yang Diluluskan |
+|------------------|-------------|-----------|------------------------|
+| Tidak diambil | Tidak diambil | Tidak diambil | Tidak diambil |
+| Tidak diambil | Tidak diambil | Tidak diambil | Tidak diambil |
+| Tidak diambil | Tidak diambil | Tidak diambil | Tidak diambil |
+
+> **Nota:** Butir pendaftaran produk NPRA harus diambil terus daripada [portal NPRA Quest 3+](https://quest3plus.bpfk.gov.my) atau melalui penghuraian PDF sisipan pakej untuk melengkapkan medan ini.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
+
+> Semua medan keselamatan — amaran utama, kontraindikasi, dan interaksi ubat-ubat — ditanda sebagai jurang data dalam pakej bukti ini. Jurang data penyekat (DG001) menunjukkan bahawa PDF sisipan pakej TFDA/NPRA belum dimuat turun dan diuraikan. Ini mesti diselesaikan sebelum sebarang keputusan preskripsi atau ubah tujuan berdasarkan keselamatan dapat dibuat.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Pakej bukti untuk Pitavastatin Calcium tidak mengandungi ramalan ubah tujuan TxGNN dan tiada ketiga-tiga lapisan data kritikal (MOA, pelabelan keselamatan, dan butir produk NPRA); tiada calon ubah tujuan dapat dinilai, dimarkahkan, atau disyorkan pada peringkat ini.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+
+- **Jalankan semula saluran ramalan TxGNN** dengan Pitavastatin Calcium dipetakan dengan betul kepada ID DrugBank-nya (DB08860) supaya `predicted_indications` diisi dengan penyakit calon, markah, dan bukti sokongan
+- **Selesaikan jurang data DrugBank (DG002):** Pertanyaan API DrugBank menggunakan ID DrugBank DB08860 untuk mengambil profil ubat lengkap termasuk farmakoloji, MOA, kategori ubat, dan data ketoksikan
+- **Selesaikan jurang data sisipan pakej NPRA/TFDA (DG001):** Muat turun dan uraikan PDF sisipan produk daripada portal NPRA atau laman web TFDA untuk melengkapkan amaran utama, kontraindikasi, teks petunjuk yang diluluskan bagi setiap pendaftaran, dan data interaksi ubat
+- **Isikan butir lesen NPRA:** Pertanyaan semula pangkalan data NPRA Quest 3+ untuk mengambil nombor kebenaran, nama produk, bentuk dos, dan pengilang untuk ketiga-tiga produk yang didaftarkan
+- **Hasilkan semula pakej bukti** setelah jurang di atas diselesaikan, kemudian hasilkan laporan penilaian penuh dengan petunjuk sasaran yang ditakrifkan, tahap bukti, dan cadangan Go/Proceed/Hold berdasarkan data sebenar
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

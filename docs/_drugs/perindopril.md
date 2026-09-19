@@ -29,76 +29,77 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-# Perindopril: From Hypertension to Malignant Hypertensive Renal Disease
+# Perindopril: Daripada Hipertensi kepada Penyakit Renal Hipertensi Maligna
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Perindopril (DrugBank DB00790) is an ACE inhibitor established for the treatment of hypertension (the current evidence pack does not include the exact NPRA-approved indication text). The TxGNN model predicts it may be effective for **Malignant Hypertensive Renal Disease**, but currently only **0 clinical trials** and **1 tangentially related publication** support this direction, and a blocking safety data gap (missing package-insert warnings/contraindications) prevents a full safety assessment.
+Perindopril (DrugBank DB00790) ialah inhibitor ACE yang telah dibuktikan untuk rawatan hipertensi (paket bukti semasa tidak termasuk teks petunjuk yang diluluskan NPRA). Model TxGNN meramalkan ia mungkin berkesan untuk **Penyakit Renal Hipertensi Maligna**, tetapi pada masa kini hanya **0 uji klinik** dan **1 penerbitan yang berkaitan secara tangensial** menyokong arah ini, dan jurang data keselamatan yang menghalang (amaran dan kontraindikasi dalam sisipan paket yang hilang) menghalang penilaian keselamatan penuh.
 
 ---
 
-## Quick Overview
+## Gambaran Singkat
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Hypertension (based on known ACE-inhibitor class use; NPRA license indication text not available in this evidence pack) |
-| Predicted New Indication | Malignant Hypertensive Renal Disease |
-| TxGNN Prediction Score | 99.77% |
-| Evidence Level | L4 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 39 |
-| Recommended Decision | Hold |
+| Petunjuk Asal | Hipertensi (berdasarkan penggunaan kelas inhibitor ACE yang diketahui; teks petunjuk lesen NPRA tidak tersedia dalam paket bukti ini) |
+| Petunjuk Baharu yang Diramal | Penyakit Renal Hipertensi Maligna |
+| Skor Ramalan TxGNN | 99.77% |
+| Tahap Bukti | L4 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 39 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed mechanism of action data is not available in this evidence pack (data gap DG002). Based on known pharmacology, perindopril is an angiotensin-converting enzyme (ACE) inhibitor that blocks the renin-angiotensin-aldosterone system (RAAS) and dilates the glomerular efferent arteriole, thereby lowering intraglomerular pressure. This is the established pharmacological rationale for ACE inhibitor use across hypertensive kidney disease more broadly.
+Data mekanisme tindakan terperinci tidak tersedia dalam paket bukti ini (jurang data DG002). Berdasarkan farmakologi yang diketahui, perindopril ialah inhibitor enzim pengubah angiotensin (ACE) yang menyekat sistem renin-angiotensin-aldosteron (RAAS) dan meluaskan arteriola efferent glomerulus, dengan itu menurunkan tekanan intraglomerulus. Ini adalah nisbah farmakologi yang ditubuhkan untuk penggunaan inhibitor ACE di seluruh penyakit ginjal hipertensi yang lebih luas.
 
-Malignant hypertensive renal disease is a severe manifestation of uncontrolled hypertension causing acute renal damage, and RAAS blockade is a standard-of-care mechanism for hypertension-related nephropathy. This gives the TxGNN prediction plausible mechanistic grounding.
+Penyakit renal hipertensi maligna ialah manifestasi teruk daripada hipertensi yang tidak terkawal menyebabkan kerosakan renal akut, dan penyekatan RAAS ialah mekanisme penjagaan standard untuk nefropati berkaitan hipertensi. Ini memberi ramalan TxGNN asas mekanistik yang munasabah.
 
-However, this same mechanism is a double-edged sword: in malignant hypertension with acute kidney involvement, ACE inhibitor initiation carries a real risk of further worsening renal function (efferent arteriolar dilation can drop GFR further in a compromised kidney), so serum creatinine/GFR monitoring is essential at treatment initiation — this is flagged directly in the evidence pack's own repurposing rationale.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+Walau bagaimanapun, mekanisme yang sama ini ialah pisau bermata dua: dalam hipertensi maligna dengan penglibatan ginjal akut, permulaan inhibitor ACE membawa risiko nyata untuk memburukkan lagi fungsi renal (peleluasan arteriola efferent boleh menurunkan GFR lebih jauh dalam ginjal yang terjejas), jadi pemantauan kreatinin serum/GFR adalah penting pada permulaan rawatan — ini ditandai secara langsung dalam justifikasi pengguna semula paket bukti itu sendiri.
 
 ---
 
-## Literature Evidence
+## Bukti Uji Klinik
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [36382821](https://pubmed.ncbi.nlm.nih.gov/36382821/) | 2022 | Cohort/Case series | Urologiia (Moscow) | Discusses residual kidney function after nephrectomy for renal cancer; does not directly evaluate perindopril or ACE inhibitors in malignant hypertensive renal disease — relevance to this specific indication is unconfirmed ("pending" in source data) |
+Pada masa kini tiada uji klinik berkaitan yang didaftarkan.
 
 ---
 
-## Malaysia Market Information
+## Bukti Kesusasteraan
 
-Perindopril holds 39 active registrations in Malaysia under "Marketed" (Marketed) status, but this evidence pack does not contain license-level detail (authorization numbers, product names, dosage forms, or approved indication text) — all license fields were returned empty by the NPRA query, so no table can be produced.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|------|------|------|---------|
+| [36382821](https://pubmed.ncbi.nlm.nih.gov/36382821/) | 2022 | Kohort/Siri kes | Urologiia (Moscow) | Membincangkan fungsi ginjal baki selepas nefroektomi untuk kanser renal; tidak secara langsung menilai perindopril atau inhibitor ACE dalam penyakit renal hipertensi maligna — kaitannya dengan petunjuk khusus ini tidak disahkan ("pending" dalam data sumber) |
 
 ---
 
-## Conclusion and Next Steps
+## Maklumat Pasaran Malaysia
 
-**Decision: Hold**
+Perindopril memegang 39 pendaftaran aktif di Malaysia di bawah status "Dipasarkan" (Marketed), tetapi paket bukti ini tidak mengandungi perincian peringkat lesen (nombor kebenaran, nama produk, bentuk dos, atau teks petunjuk yang diluluskan) — semua medan lesen dikembalikan kosong oleh pertanyaan NPRA, jadi tidak ada jadual yang boleh dihasilkan.
 
-**Rationale:**
-A blocking data gap (DG001) means TFDA/NPRA package-insert warnings and contraindications are unavailable, so this candidate cannot pass initial safety screening (S1). Combined with zero clinical trials and only one publication that is not directly on-topic, the evidence base is currently model-prediction-plus-mechanism only, and the same ACE-inhibitor mechanism carries a known acute renal risk in this exact patient population that must be resolved before proceeding.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert (warnings, contraindications) — resolve DG001 before any S1 safety evaluation
-- DrugBank MOA detail to confirm the mechanistic linkage — resolve DG002
-- Literature or case reports specifically evaluating ACE inhibitors (ideally perindopril) in malignant hypertensive renal disease
-- A defined renal-function monitoring plan (serum creatinine, eGFR) given the known risk of ACE-inhibitor-induced GFR decline in this population
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan paket untuk maklumat keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Justifikasi:**
+Jurang data yang menghalang (DG001) bermakna amaran sisipan paket TFDA/NPRA dan kontraindikasi tidak tersedia, jadi calon ini tidak dapat melepasi penskrining keselamatan awal (S1). Bersama-sama dengan sifar uji klinik dan hanya satu penerbitan yang tidak secara langsung berkaitan, asas bukti pada masa kini hanya berdasarkan ramalan model dan penalaran mekanisme, dan mekanisme inhibitor ACE yang sama membawa risiko renal akut yang diketahui dalam populasi pesakit spesifik ini yang mesti diselesaikan sebelum meneruskan.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisipan paket TFDA/NPRA (amaran, kontraindikasi) — selesaikan DG001 sebelum sebarang penilaian keselamatan S1
+- Perincian MOA DrugBank untuk mengesahkan kaitan mekanistik — selesaikan DG002
+- Kesusasteraan atau laporan kes yang secara khusus menilai inhibitor ACE (sebaik-baiknya perindopril) dalam penyakit renal hipertensi maligna
+- Rancangan pemantauan fungsi ginjal yang ditakrifkan (kreatinin serum, eGFR) memandangkan risiko penurunan GFR yang disebabkan oleh inhibitor ACE dalam populasi ini
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

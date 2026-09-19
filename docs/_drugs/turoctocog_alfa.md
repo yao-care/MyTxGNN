@@ -29,62 +29,63 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Turoctocog Alfa: From Hemophilia A to Primary Release Disorder of Platelets
+# Turoctocog Alfa: Dari Hemofilia A kepada Gangguan Pelepasan Primer Platelet
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Turoctocog alfa is a recombinant human Factor VIII (FVIII) replacement product, established for treating and preventing bleeding in Hemophilia A. The TxGNN model's top prediction is **Primary Release Disorder of Platelets**, but this evidence pack found **0 clinical trials** and **0 publications** supporting it, and the model's own mechanistic annotation flags the pathology (platelet granule-release defect) as unrelated to FVIII replacement.
+Turoctocog alfa ialah produk penggantian Faktor VIII manusia rekombinan (FVIII), yang ditetapkan untuk merawat dan mencegah pendarahan dalam Hemofilia A. Ramalan tertinggi model TxGNN ialah **Gangguan Pelepasan Primer Platelet**, tetapi pek bukti ini menemui **0 ujian klinikal** dan **0 penerbitan** yang menyokongnya, dan anotasi mekanis model itu sendiri menandakan patologi (kecacatan pelepasan granul platelet) sebagai tidak berkaitan dengan penggantian FVIII.
 
-## Quick Overview
+## Gambaran Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | Hemophilia A (congenital Factor VIII deficiency) — based on known drug class; no licence-level indication text was retrievable in this evidence pack |
-| Predicted New Indication | Primary release disorder of platelets |
-| TxGNN Prediction Score | 99.99% |
-| Evidence Level | L5 (model prediction only, no clinical or literature evidence) |
-| Malaysia Market Status | Marketed |
-| Number of Registrations | 7 |
-| Recommended Decision | Hold |
+| Perkara | Keterangan |
+|--------|-----------|
+| Indikasi Asal | Hemofilia A (kekurangan Faktor VIII bawaan) — berdasarkan kelas ubat yang diketahui; teks indikasi peringkat lesen tidak dapat diperolehi dalam pek bukti ini |
+| Indikasi Baru yang Diramal | Gangguan pelepasan primer platelet |
+| Skor Ramalan TxGNN | 99.99% |
+| Tahap Bukti | L5 (ramalan model sahaja, tiada bukti klinikal atau literatur) |
+| Status Pasaran Malaysia | Dipasarkan |
+| Bilangan Pendaftaran | 7 |
+| Keputusan yang Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data is not available (Data Gap DG002). Based on known information, turoctocog alfa is a B-domain truncated recombinant human Factor VIII, which restores FVIII coagulant activity in the intrinsic coagulation cascade and is used for on-demand treatment and prophylaxis of bleeding episodes, and perioperative management, in patients with Hemophilia A.
+Pada masa kini, data mekanisme aksi yang terperinci tidak tersedia (Jurang Data DG002). Berdasarkan maklumat yang diketahui, turoctocog alfa ialah Faktor VIII manusia rekombinan yang dipotong B-domain, yang memulihkan aktiviti koagulan FVIII dalam lata pembekuan intrinsik dan digunakan untuk rawatan sesuai permintaan dan profilaksis episod pendarahan, serta pengurusan perioperatif, pada pesakit dengan Hemofilia A.
 
-TxGNN's top-ranked candidate, primary release disorder of platelets, is a platelet granule-secretion defect rather than a coagulation-factor deficiency. The evidence pack's own repurposing rationale explicitly states that FVIII replacement has no direct pharmacological action on this pathology, and this same mismatch is flagged for 8 of the 10 top-ranked candidates — including receptor/membrane defects (Glanzmann thrombasthenia, Scott syndrome, collagen-receptor defect), constitutional thrombocytopenias, and even thrombotic thrombocytopenic purpura, a prothrombotic condition where adding a procoagulant factor could plausibly be counterproductive.
+Calon bertaraf teratas TxGNN, gangguan pelepasan primer platelet, ialah kecacatan sekresi granul platelet dan bukannya kekurangan faktor pembekuan. Rasional penggantian ubat dalam pek bukti ini secara eksplisit menyatakan bahawa penggantian FVIII tidak mempunyai tindakan farmakologi langsung ke atas patologi ini, dan ketidakselarasan yang sama ditandakan untuk 8 daripada 10 calon bertaraf teratas — termasuk kecacatan reseptor/membran (Trombasthenia Glanzmann, Sindrom Scott, kecacatan reseptor kolagen), trombositopenia konstitusional, dan bahkan purpura trombositopenik trombotik, suatu keadaan protrombotik di mana penambahan faktor prokoagulan boleh secara masuk akal menjadi tidak menguntungkan.
 
-The one candidate with a coherent mechanistic story is rank 5, "acquired coagulation factor deficiency": if this label specifically refers to acquired Hemophilia A (autoantibody-mediated FVIII deficiency), FVIII replacement has established pharmacological plausibility. However, the disease label as provided is not specific enough to confirm this reading, and no trials or publications were retrieved to support it either way.
+Satu-satunya calon dengan narasi mekanis yang koheren ialah pangkat 5, "kekurangan faktor pembekuan yang diperoleh": jika label penyakit ini khusus merujuk kepada Hemofilia A yang diperoleh (kekurangan FVIII yang dimediasi autoantibodi), penggantian FVIII mempunyai kebolehupayaan farmakologi yang telah ditentukan. Namun begitu, label penyakit seperti yang diberikan tidak cukup spesifik untuk mengesahkan pembacaan ini, dan tiada ujian atau penerbitan yang diperolehi untuk menyokongnya dalam kedua-dua cara.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-Currently no related clinical trials registered
+Pada masa kini tiada ujian klinikal berkaitan yang berdaftar
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no related literature available
+Pada masa kini tiada literatur berkaitan yang tersedia
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Turoctocog alfa holds 7 active marketing authorisations in Malaysia (market status: Marketed), but licence-level details (product names, dosage forms, manufacturers, approved indication text) were not populated in this evidence pack and could not be reported.
+Turoctocog alfa memegang 7 kebenaran pemasaran yang aktif di Malaysia (status pasaran: Dipasarkan), tetapi butiran peringkat lesen (nama produk, bentuk dosis, pengilang, teks indikasi yang diluluskan) tidak diisi dalam pek bukti ini dan tidak dapat dilaporkan.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk risalah produk untuk maklumat keselamatan.
 
-*Note: TFDA/NPRA label warnings and contraindications (DG001) are marked as a **Blocking** data gap in this evidence pack — a formal safety evaluation (S1 stage) cannot proceed until this is resolved.*
+*Nota: Amaran label TFDA/NPRA dan kontraindikasi (DG001) ditandakan sebagai jurang data **Pemblokiran** dalam pek bukti ini — penilaian keselamatan formal (tahap S1) tidak dapat diteruskan sehingga ini diselesaikan.*
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-All 10 top-ranked predictions sit at evidence level L5 (model prediction only) with zero corroborating trials or literature, and the mechanistic annotations included in the evidence pack itself argue against a pharmacological link for most candidates. Combined with a Blocking data gap on TFDA/NPRA safety labelling, there is no basis to advance any of these candidates beyond model-prediction stage.
+**Rasional:**
+Semua 10 ramalan bertaraf teratas berada pada tahap bukti L5 (ramalan model sahaja) tanpa ujian atau literatur yang menyokong, dan anotasi mekanis yang disertakan dalam pek bukti itu sendiri mempersoalkan pautan farmakologi untuk kebanyakan calon. Apabila digabungkan dengan jurang data Pemblokiran pada label keselamatan TFDA/NPRA, tiada asas untuk memajukan mana-mana daripada calon ini melampaui tahap ramalan model.
 
-**To proceed, the following is needed:**
-- Retrieve the official TFDA/NPRA package insert to fill DG001 (warnings, contraindications) — required before any S1 safety screening
-- Obtain formal MOA documentation (DG002) from DrugBank or the manufacturer
-- If pursuing rank 5, clarify whether "acquired coagulation factor deficiency" specifically denotes acquired Hemophilia A, then re-run targeted clinical trial/literature searches on that refined term
-- Populate complete Malaysia licence records (product name, dosage form, approved indication text) to establish the true original-indication baseline for comparison
+**Untuk meneruskan, yang berikut diperlukan:**
+- Perolehi risalah produk rasmi TFDA/NPRA untuk mengisi DG001 (amaran, kontraindikasi) — diperlukan sebelum sebarang pemeriksaan keselamatan S1
+- Dapatkan dokumentasi MOA formal (DG002) daripada DrugBank atau pengilang
+- Jika mengejar pangkat 5, jelaskan sama ada "kekurangan faktor pembekuan yang diperoleh" khusus merujuk kepada Hemofilia A yang diperoleh, kemudian jalankan semula carian ujian klinikal/literatur yang disasarkan pada istilah yang disempurnakan itu
+- Isi rekod lesen Malaysia yang lengkap (nama produk, bentuk dosis, teks indikasi yang diluluskan) untuk mewujudkan garis asas indikasi asal yang sebenar untuk perbandingan
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

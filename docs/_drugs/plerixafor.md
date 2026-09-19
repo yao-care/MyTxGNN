@@ -29,73 +29,74 @@ Tahap bukti: **L5** | Indikasi diramal: **7**
 
 </div>
 
-# Plerixafor: From Stem Cell Mobilization to Indolent Plasma Cell Myeloma
+# Plerixafor: Dari Mobilisasi Sel Punca ke Mieloma Sel Plasma Indolen
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Plerixafor is a CXCR4 antagonist clinically approved for mobilizing peripheral blood stem cells (in combination with G-CSF) for autologous transplantation in multiple myeloma and lymphoma patients. The TxGNN model predicts it may be effective for **Indolent Plasma Cell Myeloma**, but this specific indication currently has **no supporting clinical trials or literature** — it is a pure computational prediction.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Peripheral blood stem cell mobilization (combined with G-CSF) |
-| Predicted New Indication | Indolent Plasma Cell Myeloma |
-| TxGNN Prediction Score | 99.97% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 4 |
-| Recommended Decision | Hold |
+Plerixafor adalah antagonis CXCR4 yang telah diluluskan secara klinis untuk memobilisasi sel-sel stem darah periferal (dalam kombinasi dengan G-CSF) untuk transplantasi autolog pada pesakit mieloma multipel dan limfoma. Model TxGNN meramalkan bahawa ia mungkin berkesan untuk **Mieloma Sel Plasma Indolen**, tetapi indikasi spesifik ini pada masa kini tidak mempunyai **ujian klinis atau literatur sokongan** — ia adalah ramalan pengiraan semata-mata.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Ringkas
 
-Currently, detailed mechanism of action data for Plerixafor is not available as a formal MOA entry. Based on the evidence pack's rationale notes, Plerixafor is a CXCR4 antagonist that is already clinically approved (in combination with G-CSF) to mobilize peripheral blood stem cells for autologous transplant specifically in multiple myeloma patients. The CXCR4/CXCL12 axis is also implicated in the retention of plasma cell myeloma cells within the bone marrow niche and in the development of drug resistance, giving the prediction mechanistic plausibility.
-
-However, the approved use is a "mobilization" indication rather than direct treatment of the malignancy itself, and this prediction targets indolent plasma cell myeloma as a therapeutic indication — a meaningfully different clinical claim. The evidence pack contains no clinical trials, ICTRP records, or literature specific to this disease, so the mechanistic argument remains theoretical and unverified.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
----
-
-## Literature Evidence
-
-Currently no related literature available.
+| Item | Kandungan |
+|------|---------|
+| Indikasi Asal | Mobilisasi sel-sel stem darah periferal (kombinasi dengan G-CSF) |
+| Indikasi Baru Diramalkan | Mieloma Sel Plasma Indolen |
+| Skor Ramalan TxGNN | 99.97% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 4 |
+| Cadangan Keputusan | Tunggu |
 
 ---
 
-## Malaysia Market Information
+## Mengapa Ramalan Ini Adalah Munasabah?
 
-NPRA records show Plerixafor is marketed in Malaysia with **4 registered authorizations**, but this evidence pack does not yet contain the detailed product information (authorization number, product name, dosage form, or approved indication text) for these registrations.
+Pada masa kini, data mekanisme tindakan terperinci untuk plerixafor tidak tersedia sebagai catatan MOA formal. Berdasarkan catatan rasional dalam pakej bukti, plerixafor adalah antagonis CXCR4 yang telah diluluskan secara klinis (dalam kombinasi dengan G-CSF) untuk memobilisasi sel-sel stem darah periferal bagi transplantasi autolog khususnya pada pesakit mieloma multipel. Paksi CXCR4/CXCL12 juga terlibat dalam pengekalan sel-sel mieloma sel plasma dalam niche sumsum tulang dan dalam perkembangan rintangan ubat, memberikan kebolehjelasan mekanis kepada ramalan.
 
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
+Namun, penggunaan yang diluluskan adalah indikasi "mobilisasi" dan bukannya rawatan langsung terhadap keganasan itu sendiri, dan ramalan ini menyasarkan mieloma sel plasma indolen sebagai indikasi terapeutik — tuntutan klinis yang bermakna berbeza. Pakej bukti tidak mengandungi ujian klinis, rekod ICTRP, atau literatur khusus untuk penyakit ini, jadi hujah mekanis tetap bersifat teori dan belum disahkan.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Ujian Klinis
 
-**Decision: Hold**
+Pada masa kini tiada ujian klinis berkaitan yang didaftarkan.
 
-**Rationale:**
-The TxGNN score is high, but the prediction is unsupported by any clinical trial or literature evidence (L5, decision stage S0). Without external validation, this signal alone does not justify advancing to safety or clinical evaluation.
+---
 
-**To proceed, the following is needed:**
-- Detailed mechanism of action (MOA) data for Plerixafor
-- TFDA/NPRA package insert content (warnings, contraindications) — currently a blocking data gap for safety screening
-- Complete Malaysia license/registration details (product names, dosage forms, approved indication text)
-- Any preclinical or case-level evidence specific to indolent plasma cell myeloma
-- **Note:** A related predicted indication for this drug, *myeloid leukemia* (rank 7, score 99.02%), is backed by substantially stronger evidence — 30 clinical trials and 20 publications, reaching evidence level L2 with a "Research Question" recommendation — and may warrant separate, prioritized evaluation.
+## Bukti Literatur
+
+Pada masa kini tiada literatur berkaitan yang tersedia.
+
+---
+
+## Maklumat Pasaran Malaysia
+
+Rekod NPRA menunjukkan plerixafor dipasarkan di Malaysia dengan **4 pendaftaran yang dibenarkan**, tetapi pakej bukti ini belum mengandungi maklumat produk terperinci (nombor kebenaran, nama produk, bentuk dos, atau teks indikasi yang diluluskan) untuk pendaftaran-pendaftaran ini.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila merujuk kepada sisipan pakej untuk maklumat keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tunggu**
+
+**Rasional:**
+Skor TxGNN adalah tinggi, tetapi ramalan tidak disokong oleh sebarang bukti ujian klinis atau literatur (L5, tahap keputusan S0). Tanpa pengesahan luaran, isyarat ini sahaja tidak membenarkan kemajuan kepada penilaian keselamatan atau klinis.
+
+**Untuk melanjutkan, yang berikut diperlukan:**
+- Data mekanisme tindakan terperinci (MOA) untuk plerixafor
+- Kandungan sisipan pakej TFDA/NPRA (amaran, kontraindikasi) — pada masa kini jurang data yang menghalang untuk saringan keselamatan
+- Butiran lesen/pendaftaran Malaysia yang lengkap (nama produk, bentuk dos, teks indikasi yang diluluskan)
+- Sebarang bukti praklinik atau bukti aras kes khusus untuk mieloma sel plasma indolen
+- **Nota:** Indikasi ramalan yang berkaitan untuk ubat ini, *leukemia mieloid* (pangkat 7, skor 99.02%), disokong oleh bukti yang jauh lebih kuat — 30 ujian klinis dan 20 penerbitan, mencapai tahap bukti L2 dengan cadangan "Soalan Penyelidikan" — dan mungkin menjamin penilaian berasingan dan diprioritaskan.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

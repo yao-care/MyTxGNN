@@ -29,99 +29,100 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Prednisolone Acetate: From Ophthalmic/Systemic Corticosteroid Use to Conjunctivitis
+# Prednisolone Asetat: Daripada Penggunaan Kortikosteroid Oftalmik/Sistemik kepada Konjunktivitis
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Prednisolone acetate is a topical/ophthalmic corticosteroid; the specific original indication text was not captured in this evidence pull, though 6 NPRA marketing authorizations are on file in Malaysia. The TxGNN model predicts it may be effective for **Conjunctivitis**, and unlike most of the other candidate sub-diagnoses surfaced for this drug, this signal is already backed by **10 clinical trials** and **20 publications**, several using prednisolone acetate itself as the study drug.
+Prednisolone asetat ialah kortikosteroid oftalmik/topik; teks indikasi asal khusus tidak ditangkap dalam pengeluaran bukti ini, walaupun 6 kebenaran pemasaran NPRA terdapat dalam fail di Malaysia. Model TxGNN meramalkan ia mungkin berkesan untuk **Konjunktivitis**, dan tidak seperti kebanyakan sub-diagnosis calon lain yang dimunculkan untuk ubat ini, isyarat ini sudah disokong oleh **10 uji klinis** dan **20 publikasi**, beberapa menggunakan prednisolone asetat itu sendiri sebagai ubat kajian.
 
 ---
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Not captured in this evidence pack (license indication text blank; drug class is a topical/systemic corticosteroid) |
-| Predicted New Indication | Conjunctivitis |
-| TxGNN Prediction Score | 99.84% |
-| Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 6 |
-| Recommended Decision | Proceed with Guardrails |
+| Indikasi Asal | Tidak ditangkap dalam pak bukti ini (teks indikasi lesen kosong; kelas ubat ialah kortikosteroid oftalmik/topik) |
+| Indikasi Baru yang Diramalkan | Konjunktivitis |
+| Skor Ramalan TxGNN | 99.84% |
+| Tahap Bukti | L1 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 6 |
+| Keputusan yang Disyorkan | Lanjutkan dengan Pembatasan |
 
-Note: TxGNN's single highest-ranked prediction is actually "acute contagious conjunctivitis" (score 99.97%), but that candidate has **zero** supporting trials or literature and carries an explicit safety caution (steroids may worsen untreated infectious conjunctivitis). This report focuses on "Conjunctivitis" (rank 2) because it is the only candidate in this set with an actual evidentiary base and an actionable decision stage (S3).
-
----
-
-## Why is This Prediction Reasonable?
-
-Detailed formal mechanism-of-action data (DrugBank MOA text) was not available in this evidence pack. Based on the pharmacology reflected in the evidence, prednisolone acetate is a glucocorticoid that suppresses inflammatory cytokine release and leukocyte infiltration — the standard mechanism by which topical ophthalmic corticosteroids control ocular surface inflammation.
-
-This mechanism maps directly onto allergic and steroid-responsive forms of conjunctivitis (e.g., seasonal/perennial allergic conjunctivitis, vernal keratoconjunctivitis, giant papillary conjunctivitis), where the inflammatory process itself — rather than an active untreated pathogen — is the primary driver of symptoms. Several of the supporting trials use prednisolone acetate (or the closely related prednisolone sodium phosphate) as the active comparator in Conjunctival Allergen Challenge (CAC) models, directly testing the drug in this indication rather than in an analog.
-
-The caveat is that "conjunctivitis" is an etiologically heterogeneous label spanning allergic, viral, bacterial, and immune-mediated causes. The rationale explicitly flags that corticosteroid monotherapy is inappropriate for infectious conjunctivitis without concurrent antimicrobial/antiviral coverage, and that IOP and cataract risk require monitoring with prolonged use — hence the "Proceed with Guardrails" rather than "Go" recommendation.
+Nota: Ramalan berpangkat tertinggi tunggal TxGNN sebenarnya ialah "konjunktivitis menular akut" (skor 99.97%), tetapi calon itu mempunyai **sifar** uji klinis atau kesusasteraan sokongan dan membawa amaran keselamatan yang jelas (steroid boleh memburukkan konjunktivitis jangkitan yang tidak dirawat). Laporan ini memberi tumpuan kepada "Konjunktivitis" (pangkat 2) kerana ia adalah satu-satunya calon dalam set ini dengan asas bukti yang sebenar dan peringkat keputusan yang boleh ditindaklanjuti (S3).
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Data mekanisme tindakan formal yang terperinci (teks MOA DrugBank) tidak tersedia dalam pak bukti ini. Berdasarkan farmakoloji yang dicerminkan dalam bukti, prednisolone asetat ialah glukokortikoid yang menekan pelepasan sitokin proinflamasi dan infiltrasi leukosit — mekanisme piawai di mana kortikosteroid oftalmik topik mengawal keradangan permukaan okular.
+
+Mekanisme ini memetakan terus kepada bentuk konjunktivitis alergik dan responsif terhadap steroid (cth., konjunktivitis alergik musiman/tahunan, keratokonjunktivitis vernalis, konjunktivitis papila raksasa), di mana proses peradangan itu sendiri — bukan patogen yang tidak dirawat secara aktif — adalah pemacu utama gejala. Beberapa uji klinis sokongan menggunakan prednisolone asetat (atau prednisolone natrium fosfat yang berkait rapat) sebagai pembanding aktif dalam model Cabaran Alergen Konjungtival (CAC), menguji ubat secara langsung dalam indikasi ini bukannya dalam analog.
+
+Peringatan adalah bahawa "konjunktivitis" ialah label etiologi yang heterogen meliputi penyebab alergik, viral, bakterial, dan berkaitan imun. Rasional secara eksplisit menandai bahawa monoterapi kortikosteroid tidak sesuai untuk konjunktivitis berjangkit tanpa perlindungan antimikrob/antiviral serentak, dan bahawa risiko IOP dan katarak memerlukan pemantauan dengan penggunaan yang berpanjangan — oleh itu cadangan "Lanjutkan dengan Pembatasan" bukannya "Pergi".
+
+---
+
+## Bukti Uji Klinis
+
+| Nombor Uji | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT00689078](https://clinicaltrials.gov/study/NCT00689078) | Phase 4 | Completed | 36 | Randomized, double-masked comparison of prednisolone acetate 1% vs. 0.12%, loteprednol etabonate 0.2%, and placebo in a modified conjunctival allergen challenge (CAC) model; direct efficacy evidence for the study drug itself. |
-| [NCT01730872](https://clinicaltrials.gov/study/NCT01730872) | Phase 4 | Completed | 16 | Double-masked, placebo-controlled CAC evaluation of prednisolone sodium phosphate 1% ophthalmic solution for allergic inflammation (itching, redness). |
-| [NCT01534195](https://clinicaltrials.gov/study/NCT01534195) | Phase 4 | Completed | 11 | Randomized, double-masked, placebo-controlled adaptive CAC trial of prednisolone sodium phosphate 1% in allergic conjunctivitis. |
-| [NCT01120132](https://clinicaltrials.gov/study/NCT01120132) | Phase 2 | Completed | 716 | Multi-center trial of cyclosporine ± prednisolone acetate vs. components/vehicle in mild ocular allergic inflammation; large sample, indirect (combination) evidence. |
-| [NCT00833495](https://clinicaltrials.gov/study/NCT00833495) | Phase 2 | Completed | 155 | Co-administration of cyclosporine with prednisolone acetate 0.12% (PredMild®) vs. prednisolone acetate 1% alone or vehicle in mild ocular allergic inflammation. |
-| [NCT04705584](https://clinicaltrials.gov/study/NCT04705584) | N/A | Unknown | 180 | Comparative study of topical immunosuppressants (cyclosporine A vs. tacrolimus) as steroid-sparing alternatives in resistant spring catarrh; positions topical steroids as current standard of care. |
-| [NCT03320434](https://clinicaltrials.gov/study/NCT03320434) | Phase 2 | Completed | 120 | Dose-ranging, vehicle- and active-controlled study of PRT-2761 for acute/chronic allergic conjunctivitis using the Ora-CAC® model; supports the CAC methodology used across this evidence set. |
-| [NCT01437982](https://clinicaltrials.gov/study/NCT01437982) | Phase 4 | Completed | 140 | Post-marketing surveillance of Lotemax (loteprednol) 0.5% ophthalmic suspension; same-class safety/efficacy monitoring precedent. |
-| [NCT00298272](https://clinicaltrials.gov/study/NCT00298272) | Phase 2 | Terminated | 54 | Rituximab + MTX combination trial in rheumatoid arthritis; not directly relevant to conjunctivitis. |
-| [NCT00967226](https://clinicaltrials.gov/study/NCT00967226) | Phase 2 | Terminated | 19 | Propranolol vs. prednisolone for infant hemangiomas; different indication, not relevant to conjunctivitis. |
+| [NCT00689078](https://clinicaltrials.gov/study/NCT00689078) | Fasa 4 | Selesai | 36 | Perbandingan rawak, double-blind prednisolone asetat 1% vs. 0.12%, etabonate loteprednol 0.2%, dan plasebo dalam model cabaran alergen konjungtival (CAC) yang diubah suai; bukti keberkesanan langsung untuk ubat kajian itu sendiri. |
+| [NCT01730872](https://clinicaltrials.gov/study/NCT01730872) | Fasa 4 | Selesai | 16 | Penilaian CAC double-blind, terkawal plasebo bagi penyelesaian oftalmik natrium fosfat prednisolone 1% untuk keradangan alergik (gatal, kemerahan). |
+| [NCT01534195](https://clinicaltrials.gov/study/NCT01534195) | Fasa 4 | Selesai | 11 | Uji klinis CAC adaptif rawak, double-blind, terkawal plasebo bagi natrium fosfat prednisolone 1% dalam konjunktivitis alergik. |
+| [NCT01120132](https://clinicaltrials.gov/study/NCT01120132) | Fasa 2 | Selesai | 716 | Uji multi-pusat siklosporin ± prednisolone asetat vs. komponen/kenderaan dalam keradangan okular alergik yang ringan; sampel besar, bukti tidak langsung (kombinasi). |
+| [NCT00833495](https://clinicaltrials.gov/study/NCT00833495) | Fasa 2 | Selesai | 155 | Pentadbiran serentak siklosporin dengan prednisolone asetat 0.12% (PredMild®) vs. prednisolone asetat 1% sahaja atau kenderaan dalam keradangan okular alergik yang ringan. |
+| [NCT04705584](https://clinicaltrials.gov/study/NCT04705584) | T/A | Tidak diketahui | 180 | Kajian perbandingan imunpenekan topik (siklosporin A vs. takrolimus) sebagai alternatif penjimatan steroid dalam cataract musim bunga yang resistan; kedudukan steroid topik sebagai penjagaan piawaian semasa. |
+| [NCT03320434](https://clinicaltrials.gov/study/NCT03320434) | Fasa 2 | Selesai | 120 | Kajian julat dos, kenderaan-, dan aktif-terkawal PRT-2761 untuk konjunktivitis alergik akut/kronik menggunakan model Ora-CAC®; menyokong metodologi CAC yang digunakan di seluruh set bukti ini. |
+| [NCT01437982](https://clinicaltrials.gov/study/NCT01437982) | Fasa 4 | Selesai | 140 | Pemantauan selepas pemasaran Lotemax (loteprednol) 0.5% suspensi oftalmik; pendahuluan pemantauan keselamatan/keberkesanan kelas yang sama. |
+| [NCT00298272](https://clinicaltrials.gov/study/NCT00298272) | Fasa 2 | Ditamatkan | 54 | Uji klinis kombinasi rituximab + MTX dalam artritis reumatoid; tidak berkaitan secara langsung dengan konjunktivitis. |
+| [NCT00967226](https://clinicaltrials.gov/study/NCT00967226) | Fasa 2 | Ditamatkan | 19 | Propranolol vs. prednisolone untuk hemangioma bayi; indikasi berbeza, tidak berkaitan dengan konjunktivitis. |
 
 ---
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [24055903](https://pubmed.ncbi.nlm.nih.gov/24055903/) | 2013 | Comparative | Cornea | Compares topical cyclosporine A, epinastine, and prednisolone acetate 1% in an experimental allergic conjunctivitis model. |
-| [32049186](https://pubmed.ncbi.nlm.nih.gov/32049186/) | 2020 | Comparative study | Acta Cirurgica Brasileira | Prednisolone vs. sodium diclofenac (both with ciprofloxacin) vs. artificial tears for signs/symptoms of acute viral conjunctivitis. |
-| [6398026](https://pubmed.ncbi.nlm.nih.gov/6398026/) | 1984 | Randomized comparative | Annals of Ophthalmology | Fluorometholone acetate vs. prednisolone acetate 1.0% in external ocular inflammation, including conjunctivitis. |
-| [15048138](https://pubmed.ncbi.nlm.nih.gov/15048138/) | 2004 | Retrospective case series | Bone Marrow Transplantation | Topical corticosteroid therapy for cicatricial conjunctivitis in chronic GVHD; graded clinical outcomes over treatment course. |
-| [8619769](https://pubmed.ncbi.nlm.nih.gov/8619769/) | 1996 | Experimental/lab | Archives of Ophthalmology | Effects of Pred Forte (prednisolone acetate) on adenoviral replication in vitro and in a rabbit ocular model — informs the viral-conjunctivitis caution. |
-| [26984315](https://pubmed.ncbi.nlm.nih.gov/26984315/) | 2016 | Cohort | Advances in Therapy | Impact of topical ophthalmic corticosteroids (loteprednol) on intraocular pressure — same-class safety monitoring relevance. |
-| [12931748](https://pubmed.ncbi.nlm.nih.gov/12931748/) | 2003 | Review/epidemiology | Asian Pacific Journal of Allergy and Immunology | Vernal keratoconjunctivitis in Thailand; topical corticosteroids used in moderate-to-severe cases. |
-| [9689636](https://pubmed.ncbi.nlm.nih.gov/9689636/) | 1998 | Experimental/lab | Ocular Immunology and Inflammation | Corticosteroid (Pred Forte) treatment in a compound 48/80-induced mouse conjunctivitis model, mechanistic (PLA2/iNOS) evidence. |
-| [28792180](https://pubmed.ncbi.nlm.nih.gov/28792180/) | 2017 | Case report | The Journal of the Association of Physicians of India | Bilateral acute anterior uveitis and conjunctivitis after zoledronic acid, treated with topical prednisolone acetate 1% with resolution. |
-| [33437893](https://pubmed.ncbi.nlm.nih.gov/33437893/) | 2021 | Case report | American Journal of Ophthalmology Case Reports | Presumed herpetic interstitial keratitis initially diagnosed as viral conjunctivitis, treated with valacyclovir plus topical prednisolone acetate. |
+| [24055903](https://pubmed.ncbi.nlm.nih.gov/24055903/) | 2013 | Perbandingan | Cornea | Membandingkan siklosporin A topik, epinastine, dan prednisolone asetat 1% dalam model konjunktivitis alergik eksperimental. |
+| [32049186](https://pubmed.ncbi.nlm.nih.gov/32049186/) | 2020 | Kajian perbandingan | Acta Cirurgica Brasileira | Prednisolone vs. natrium diklofenak (kedua-duanya dengan siprofloksasin) vs. air mata tiruan untuk tanda/gejala konjunktivitis viral akut. |
+| [6398026](https://pubmed.ncbi.nlm.nih.gov/6398026/) | 1984 | Perbandingan rawak | Annals of Ophthalmology | Fluorometholone asetat vs. prednisolone asetat 1.0% dalam keradangan okular luar, termasuk konjunktivitis. |
+| [15048138](https://pubmed.ncbi.nlm.nih.gov/15048138/) | 2004 | Siri kes retrospektif | Bone Marrow Transplantation | Terapi kortikosteroid topik untuk konjunktivitis sikatriks dalam GVHD kronik; hasil klinikal berdegra sepanjang kursus rawatan. |
+| [8619769](https://pubmed.ncbi.nlm.nih.gov/8619769/) | 1996 | Eksperimental/makmal | Archives of Ophthalmology | Kesan Pred Forte (prednisolone asetat) pada replikasi adenoviral secara in vitro dan dalam model okular arnab — memberitahu amaran konjunktivitis viral. |
+| [26984315](https://pubmed.ncbi.nlm.nih.gov/26984315/) | 2016 | Kohort | Advances in Therapy | Kesan kortikosteroid oftalmik topik (loteprednol) pada tekanan intraokuler — relevansi pemantauan keselamatan kelas yang sama. |
+| [12931748](https://pubmed.ncbi.nlm.nih.gov/12931748/) | 2003 | Ulasan/epidemiologi | Asian Pacific Journal of Allergy and Immunology | Keratokonjunktivitis vernalis di Thailand; kortikosteroid topik digunakan dalam kes sederhana hingga teruk. |
+| [9689636](https://pubmed.ncbi.nlm.nih.gov/9689636/) | 1998 | Eksperimental/makmal | Ocular Immunology and Inflammation | Rawatan kortikosteroid (Pred Forte) dalam model konjunktivitis tetikus yang diinduksi sebatian 48/80, bukti mekanik (PLA2/iNOS). |
+| [28792180](https://pubmed.ncbi.nlm.nih.gov/28792180/) | 2017 | Laporan kes | The Journal of the Association of Physicians of India | Uveitis anterior akut bilateral dan konjunktivitis selepas asid zoledronik, dirawat dengan prednisolone asetat topik 1% dengan penyelesaian. |
+| [33437893](https://pubmed.ncbi.nlm.nih.gov/33437893/) | 2021 | Laporan kes | American Journal of Ophthalmology Case Reports | Dugaan keratitis interstitial herpes didiagnosis pada mulanya sebagai konjunktivitis viral, dirawat dengan valasiklovir ditambah prednisolone asetat topik. |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-NPRA records confirm the product is **Marketed** with **6 active licenses**, but license-level details (registration numbers, product names, dosage forms, and approved indication text) were not captured in this data pull — all corresponding fields in the evidence pack are blank.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
+Rekod NPRA mengesahkan produk adalah **Dipasarkan** dengan **6 lesen aktif**, tetapi butiran peringkat lesen (nombor pendaftaran, nama produk, bentuk ubat, dan teks indikasi yang diluluskan) tidak ditangkap dalam pengeluaran data ini — semua medan yang sepadan dalam pak bukti adalah kosong.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Proceed with Guardrails**
+Sila rujuk risalah penghuni untuk maklumat keselamatan.
 
-**Rationale:**
-- Conjunctivitis is the only TxGNN-predicted indication in this candidate set with meaningful clinical trial and literature support (10 trials, several using prednisolone acetate itself in CAC models; 20 publications), reaching evidence level L1 and decision stage S3. However, "conjunctivitis" spans infectious and non-infectious etiologies, and the evidence base itself (e.g., the adenoviral-replication and acute-viral-conjunctivitis studies) warns that steroid monotherapy is inappropriate without excluding or co-treating infection — hence guardrails rather than an unconditional "Go."
-- The other 9 predicted sub-diagnoses (acute contagious conjunctivitis, parasitic conjunctivitis, chronic follicular conjunctivitis, conjunctival folliculosis, serous conjunctivitis, papillary conjunctivitis, Angelucci syndrome, pseudomembranous conjunctivitis, acute hemorrhagic conjunctivitis) remain at L3–L5 / S0–S1 with "Hold" recommendations and should not be pursued on current evidence.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert (warnings, precautions, contraindications) — currently a Blocking data gap preventing safety pre-screening (S1).
-- Confirmed mechanism-of-action and DrugBank classification data.
-- License-level detail (indication text, dosage form) for the 6 Malaysia authorizations, to confirm whether an ophthalmic-route product already carries a conjunctivitis-adjacent label.
-- A protocol requiring exclusion or concurrent treatment of infectious etiology before steroid use, plus a monitoring plan for IOP and cataract risk with extended use.
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Lanjutkan dengan Pembatasan**
+
+**Rasional:**
+- Konjunktivitis adalah satu-satunya indikasi yang diramalkan TxGNN dalam set calon ini dengan sokongan uji klinis dan kesusasteraan yang bermakna (10 uji, beberapa menggunakan prednisolone asetat itu sendiri dalam model CAC; 20 publikasi), mencapai tahap bukti L1 dan peringkat keputusan S3. Walau bagaimanapun, "konjunktivitis" meliputi etiologi menular dan bukan menular, dan asas bukti itu sendiri (cth., kajian replikasi adenoviral dan konjunktivitis viral akut) memberi amaran bahawa monoterapi steroid tidak sesuai tanpa mengecualikan atau merawat jangkitan secara serentak — oleh itu pembatasan bukannya "Pergi" tanpa syarat.
+- 9 sub-diagnosis yang diramalkan lain (konjunktivitis menular akut, konjunktivitis parasit, konjunktivitis folikular kronik, folikulosis konjungtival, konjunktivitis serosa, konjunktivitis papila, sindrom Angelucci, konjunktivitis pseudomembran, konjunktivitis pendarahan akut) kekal pada L3–L5 / S0–S1 dengan cadangan "Tunda" dan tidak boleh dikejar berdasarkan bukti semasa.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Risalah penghuni TFDA/NPRA (amaran, perhatian, kontraindikasi) — kini jurang data penyekat mencegah pra-skrin keselamatan (S1).
+- Data mekanisme tindakan yang disahkan dan klasifikasi DrugBank.
+- Butiran peringkat lesen (teks indikasi, bentuk ubat) untuk 6 kebenaran Malaysia, untuk mengesahkan sama ada produk rute oftalmik sudah membawa label bersebelahan konjunktivitis.
+- Protokol yang memerlukan pengecualian atau rawatan serentak etiologi menular sebelum penggunaan steroid, ditambah pelan pemantauan untuk risiko IOP dan katarak dengan penggunaan yang dilanjutkan.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

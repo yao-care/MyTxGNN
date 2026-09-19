@@ -29,78 +29,79 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Clobazam: From Epilepsy to Febrile Infection-Related Epilepsy Syndrome (FIRES)
+# Clobazam: Daripada Epilepsi kepada Febrile Infection-Related Epilepsy Syndrome (FIRES)
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-> Clobazam is a benzodiazepine originally used as an adjunctive anticonvulsant for epilepsy.
-> The TxGNN model predicts it may be effective for **Febrile Infection-Related Epilepsy Syndrome (FIRES)**,
-> but currently **0 clinical trials** and **0 publications** directly support this specific direction — the prediction rests on the computational model alone.
+> Clobazam ialah benzodiazepin yang pada asalnya digunakan sebagai agen antikonvulsan tambahan untuk epilepsi.
+> Model TxGNN meramalkan ia mungkin berkesan untuk **Febrile Infection-Related Epilepsy Syndrome (FIRES)**,
+> namun pada masa kini **0 uji klinik** dan **0 penerbitan** secara langsung menyokong arah khusus ini — ramalan ini bergantung pada model pengiraan sahaja.
 
 ---
 
-## Quick Overview
+## Gambaran Keseluruhan Cepat
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Epilepsy / seizure disorders (adjunctive therapy) — general drug knowledge; not confirmed by the data pack, as `original_indications` and the NPRA license indication text are both empty |
-| Predicted New Indication | Febrile infection-related epilepsy syndrome (FIRES) |
-| TxGNN Prediction Score | 99.82% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+| Indikasi Asal | Epilepsi / gangguan sawan (terapi tambahan) — pengetahuan ubat umum; tidak disahkan oleh paket data, kerana `original_indications` dan teks indikasi lesen NPRA kedua-duanya kosong |
+| Indikasi Baru Yang Diramalkan | Febrile infection-related epilepsy syndrome (FIRES) |
+| Skor Ramalan TxGNN | 99.82% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan Yang Disyorkan | Tahan |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data is not available (DG002, DrugBank MOA field returned no data). Based on general pharmacological knowledge, clobazam is a 1,5-benzodiazepine that acts as a GABA-A receptor positive allosteric modulator, and its efficacy as an adjunctive antiepileptic (e.g., in Lennox-Gastaut syndrome) is well established. This class-level mechanism has not been independently verified for this candidate in the current evidence pack.
+Pada masa kini, data mekanisme tindakan terperinci tidak tersedia (DG002, medan MOA DrugBank mengembalikan tiada data). Berdasarkan pengetahuan farmakologi umum, clobazam ialah benzodiazepin 1,5 yang bertindak sebagai modulator alosterik positif reseptor GABA-A, dan keberkesanannya sebagai antiepileptik tambahan (contohnya, dalam sindrom Lennox-Gastaut) telah ditubuhkan dengan baik. Mekanisme tahap kelas ini belum diverifikasi secara bebas untuk calon ini dalam paket bukti semasa.
 
-FIRES is a rare, severe epileptic encephalopathy that follows a febrile illness and presents as new-onset super-refractory status epilepticus, driven by excessive cortical excitatory-inhibitory imbalance. Benzodiazepines, including clobazam, are mechanistically positioned to dampen this excitability via GABAergic potentiation, which is consistent with why the TxGNN model links a GABA-A modulating anticonvulsant to a refractory seizure syndrome.
+FIRES ialah ensefalopati epileptik yang jarang dan teruk yang mengikuti penyakit berjangkit dengan demam serta mempersembahkan status epileptikus baru yang sangat tahan ubat, didorong oleh ketidakseimbangan yang berlebihan antara aktiviti rangsangan dan perencatan di korteks. Benzodiazepine, termasuk clobazam, diposisikan secara mekanistik untuk mengurangkan keterangsangan ini melalui potensiasi GABAergik, yang konsisten dengan alasan model TxGNN menghubungkan antikonvulsan yang memodulasi GABA-A kepada sindrom sawan yang tahan ubat.
 
-That said, this mechanistic plausibility is theoretical. No clinical trial or literature record in this evidence pack — nor in the underlying query log (0 results across ClinicalTrials.gov, ICTRP, and PubMed for the clobazam + FIRES search) — provides direct support. The prediction should be treated as a hypothesis-generating signal only.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+Walau bagaimanapun, kebolehmungkinan mekanistik ini adalah teoretis. Tiada rekod ujian klinik atau kesusasteraan dalam paket bukti ini — mahupun dalam log pertanyaan asas (0 keputusan merentas ClinicalTrials.gov, ICTRP, dan PubMed untuk carian clobazam + FIRES) — memberikan sokongan langsung. Ramalan harus diperlakukan sebagai isyarat penjanaan hipotesis sahaja.
 
 ---
 
-## Literature Evidence
+## Bukti Ujian Klinik
 
-Currently no related literature available.
-
----
-
-## Malaysia Market Information
-
-Clobazam is confirmed as marketed in Malaysia under NPRA, with 1 active registration. Detailed license information (registration number, product name, dosage form, and approved indication text) was not returned by the data source and is unavailable in this evidence pack.
+Pada masa kini tiada ujian klinik berkaitan didaftarkan.
 
 ---
 
-## Safety Considerations
+## Bukti Kesusasteraan
 
-Please refer to the package insert for safety information.
-
-*(Note: Key warnings, contraindications, and drug interaction data were not available from the queried sources — this is flagged as a Blocking data gap (DG001) that currently prevents safety screening for this candidate.)*
+Pada masa kini tiada kesusasteraan berkaitan tersedia.
 
 ---
 
-## Conclusion and Next Steps
+## Maklumat Pasaran Malaysia
 
-**Decision: Hold**
+clobazam disahkan sebagai dipasarkan di Malaysia di bawah NPRA, dengan 1 pendaftaran aktif. Maklumat lesen terperinci (nombor pendaftaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan) tidak dikembalikan oleh sumber data dan tidak tersedia dalam paket bukti ini.
 
-**Rationale:**
-The TxGNN prediction score is high, but it is unsupported by any clinical trial or literature evidence (Evidence Level L5), and a Blocking data gap in safety labeling (DG001) means this candidate cannot yet pass an initial safety screen.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert (warnings, contraindications) to resolve DG001
-- Confirmed mechanism of action from DrugBank to resolve DG002
-- Broader literature/trial search using related terms (e.g., "super-refractory status epilepticus," "benzodiazepine + FIRES") given FIRES is a rare syndrome that may not be indexed under its exact name
-- Original indication and Malaysia license detail confirmation, currently missing from both `drug.original_indications` and `taiwan_regulatory.licenses`
+## Pertimbangan Keselamatan
+
+Sila rujuk maklumat dalam bungkus untuk panduan keselamatan.
+
+*(Nota: Data amaran utama, kontraindikasi, dan interaksi ubat tidak tersedia daripada sumber yang ditanya — ini ditandai sebagai jurang data yang menghalang (DG001) yang pada masa kini menghalang penyaringan keselamatan untuk calon ini.)*
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Alasan:**
+Skor ramalan TxGNN tinggi, tetapi tidak disokong oleh sebarang bukti ujian klinik atau kesusasteraan (Tahap Bukti L5), dan jurang data yang menghalang dalam pelabelan keselamatan (DG001) bermakna calon ini belum dapat melepasi penyaringan keselamatan awal.
+
+**Untuk meneruskan, perkara-perkara berikut diperlukan:**
+- Maklumat dalam bungkus ubat TFDA/NPRA (amaran, kontraindikasi) untuk menyelesaikan DG001
+- Mekanisme tindakan yang disahkan daripada DrugBank untuk menyelesaikan DG002
+- Pencarian kesusasteraan/ujian yang lebih luas menggunakan istilah berkaitan (contohnya, "super-refractory status epilepticus," "benzodiazepine + FIRES") kerana FIRES ialah sindrom yang jarang yang mungkin tidak diindeks di bawah nama tepatnya
+- Pengesahan indikasi asal dan butiran lesen Malaysia yang masih tiada daripada kedua-duanya `drug.original_indications` dan `taiwan_regulatory.licenses`
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

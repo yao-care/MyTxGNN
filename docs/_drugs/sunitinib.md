@@ -29,96 +29,97 @@ Tahap bukti: **L2** | Indikasi diramal: **10**
 
 </div>
 
-# Sunitinib: From Renal Cell Carcinoma/GIST to Liposarcoma
+# Sunitinib: Daripada Karsinoma Sel Ginjal/GIST kepada Liposarcoma
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Sunitinib is an oral multi-targeted tyrosine kinase inhibitor established internationally for gastrointestinal stromal tumor (GIST), advanced renal cell carcinoma, and pancreatic neuroendocrine tumors. The TxGNN model predicts it may also be effective for **Liposarcoma**, with **3 clinical trials** and **9 publications** currently supporting this direction — though clinical response in this setting has historically been modest.
+Sunitinib adalah inhibitor tirosin kinase multi-target oral yang telah ditetapkan secara antarabangsa untuk tumor stromal gastrointestinal (GIST), karsinoma sel ginjal lanjutan, dan tumor neuroendokrin pankreas. Model TxGNN meramalkan ia juga mungkin berkesan untuk **Liposarcoma**, dengan **3 percubaan klinikal** dan **9 penerbitan** yang sedang menyokong arah ini — walaupun respons klinikal dalam tetapan ini secara sejarah agak sederhana.
 
-*Note: the current evidence pack has no populated NPRA license-level indication text and marks the structured original-indication/MOA fields as data gaps; the original-indication description above reflects internationally established labeling, not an extracted local regulatory record.*
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not captured in NPRA license extract (all license fields empty); internationally labeled for GIST, advanced/metastatic renal cell carcinoma, and pancreatic neuroendocrine tumors |
-| Predicted New Indication | Liposarcoma |
-| TxGNN Prediction Score | 99.87% |
-| Evidence Level | L2 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 20 |
-| Recommended Decision | Hold |
+*Nota: pakej bukti semasa tidak mempunyai teks indikasi peringkat lesen NPRA yang diisi dan menanda medan indikasi-asal/MOA berstruktur sebagai jurang data; penerangan indikasi asal di atas mencerminkan pelabelan yang ditetapkan secara antarabangsa, bukan rekod kawal selia tempatan yang diekstrak.*
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Pantas
 
-Currently, the structured mechanism-of-action field for sunitinib is marked as a data gap in this evidence pack. Based on well-established pharmacology, sunitinib is an oral multi-targeted TKI that inhibits VEGFR1-3, PDGFRα/β, KIT, and FLT3, blocking tumor angiogenesis and growth-factor signaling. This mechanism underlies its approved use in GIST and advanced renal cell carcinoma.
-
-Liposarcoma — particularly the myxoid/round-cell subtype — is a rare soft-tissue sarcoma, and a subset of tumors display PDGFRβ expression with angiogenesis-dependent growth. This creates mechanistic overlap with sunitinib's established anti-angiogenic and anti-PDGFR activity, which is the rationale the evidence pack cites for the TxGNN prediction linking sunitinib to liposarcoma.
-
-However, the evidence pack's own annotation cautions that clinical response rates for sunitinib in liposarcoma have historically been modest, and it is not a first-line agent for this indication — the mechanistic plausibility is real, but efficacy is limited relative to sunitinib's approved uses.
-
----
-
-## Clinical Trial Evidence
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT00400569](https://clinicaltrials.gov/study/NCT00400569) | Phase 2 | Completed | 48 | Open-label single-site trial of sunitinib malate in metastatic/unresectable soft tissue sarcoma, including leiomyosarcoma, liposarcoma, fibrosarcoma, and MFH; oral dosing days 1–28 of a 42-day cycle until progression or toxicity. |
-| [NCT00474994](https://clinicaltrials.gov/study/NCT00474994) | Phase 2 | Completed | 53 | Multicenter continuous-dosing study of sunitinib in non-GIST sarcomas (including liposarcoma), evaluating anti-tumor activity via blockade of growth-related enzymes and tumor blood supply. |
-| [NCT02048371](https://clinicaltrials.gov/study/NCT02048371) | Phase 2 | Completed | 131 | SARC024 blanket protocol studying regorafenib (a related small-molecule kinase inhibitor, not sunitinib itself) across sarcoma subtypes; cited as class-level mechanistic support only. |
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Tidak ditangkap dalam ekstrak lesen NPRA (semua medan lesen kosong); dilabel secara antarabangsa untuk GIST, karsinoma sel ginjal lanjutan/metastasis, dan tumor neuroendokrin pankreas |
+| Indikasi Baru Diramalkan | Liposarcoma |
+| Skor Ramalan TxGNN | 99.87% |
+| Tahap Bukti | L2 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 20 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Wajar?
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [21154746](https://pubmed.ncbi.nlm.nih.gov/21154746/) | 2011 | Phase 2 trial | International Journal of Cancer | Single-institution Phase 2 study of sunitinib malate in relapsed/refractory soft tissue sarcoma, focused on leiomyosarcoma, liposarcoma, and MFH; evaluated safety and efficacy in these three histologies. |
-| [38254762](https://pubmed.ncbi.nlm.nih.gov/38254762/) | 2024 | Review | Cancers | Reviews genetic, epigenetic, and transcriptomic alterations in liposarcoma to guide targeted-therapy selection; notes surgery remains mainstay while targeted options are limited. |
-| [24555529](https://pubmed.ncbi.nlm.nih.gov/24555529/) | 2014 | Review | Expert Review of Anticancer Therapy | Surveys emerging medical therapies for adult soft tissue sarcoma, including subtype-specific chemosensitivity patterns. |
-| [23482782](https://pubmed.ncbi.nlm.nih.gov/23482782/) | 2013 | Case report | Anticancer Research | Reports long-lasting clinical benefit of sunitinib malate in a heavily pre-treated metastatic liposarcoma patient. |
-| [38717131](https://pubmed.ncbi.nlm.nih.gov/38717131/) | 2024 | N/A | American Journal of Surgical Pathology | Clinicopathologic analysis of 25 cases of myxoid inflammatory myofibroblastic sarcoma, a distinctive sarcoma type; general sarcoma-classification context. |
-| [24712007](https://pubmed.ncbi.nlm.nih.gov/24712007/) | 2014 | N/A | Magyar Onkologia | Discusses subtype-based medical treatment of soft tissue sarcomas, including targeted agents by histology. |
-| [28423517](https://pubmed.ncbi.nlm.nih.gov/28423517/) | 2017 | N/A | Oncotarget | Next-generation sequencing of extraskeletal myxoid chondrosarcoma; evaluates predictive factors for sunitinib benefit in this related sarcoma subtype. |
-| [22987955](https://pubmed.ncbi.nlm.nih.gov/22987955/) | 2012 | N/A | Annals of Oncology | Discusses histology-driven therapy for soft tissue sarcomas, noting trabectedin's high activity specifically in myxoid liposarcoma. |
-| [25884155](https://pubmed.ncbi.nlm.nih.gov/25884155/) | 2015 | N/A | BMC Cancer | Protocol for the REGOSARC trial evaluating regorafenib (a related TKI) in advanced soft tissue sarcoma; angiogenesis-pathway rationale relevant to sunitinib's mechanism. |
+Pada masa ini, medan mekanisme-tindakan berstruktur bagi sunitinib ditanda sebagai jurang data dalam pakej bukti ini. Berdasarkan farmakologi yang telah ditetapkan, sunitinib adalah TKI multi-target oral yang menghalang VEGFR1-3, PDGFRα/β, KIT, dan FLT3, menghalang angiogenesis tumor dan isyarat faktor pertumbuhan. Mekanisme ini mendasari penggunaannya yang diluluskan dalam GIST dan karsinoma sel ginjal lanjutan.
+
+Liposarcoma — terutamanya subtipe myxoid/bulat-sel — adalah sarcoma tisu lembut yang jarang, dan subset tumor menunjukkan ekspresi PDGFRβ dengan pertumbuhan yang bergantung kepada angiogenesis. Ini mewujudkan pertindihan mekanik dengan aktiviti anti-angiogenik dan anti-PDGFR sunitinib yang telah ditetapkan, yang merupakan alasan pakej bukti petikan untuk ramalan TxGNN yang menghubungkan sunitinib dengan liposarcoma.
+
+Walau bagaimanapun, anotasi pakej bukti sendiri memberi amaran bahawa kadar respons klinikal untuk sunitinib dalam liposarcoma secara sejarah agak sederhana, dan ia bukan agen garis pertama untuk indikasi ini — kebolehpercayaan mekanik adalah nyata, tetapi keberkesanan terhad berbanding dengan kegunaan sunitinib yang diluluskan.
 
 ---
 
-## Malaysia Market Information
+## Bukti Percubaan Klinikal
 
-License-level details (authorization number, product name, dosage form, indication text) are not populated in the current dataset. NPRA records confirm Sunitinib holds **20 active marketing authorizations** in Malaysia with market status **Marketed (Marketed)**.
-
----
-
-## Cytotoxicity
-
-Please refer to the package insert warnings and precautions — DrugBank category, MOA, and toxicity data are not available in the current evidence pack to support a detailed cytotoxicity classification.
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
+|---|---|---|---|---|
+| [NCT00400569](https://clinicaltrials.gov/study/NCT00400569) | Fasa 2 | Selesai | 48 | Percubaan satu laman terbuka sunitinib malate dalam sarcoma tisu lembut metastasis/tidak boleh direseksi, termasuk leiomyosarcoma, liposarcoma, fibrosarcoma, dan MFH; dos oral hari 1–28 kitaran 42 hari hingga perkembangan atau ketoksikan. |
+| [NCT00474994](https://clinicaltrials.gov/study/NCT00474994) | Fasa 2 | Selesai | 53 | Kajian dos berterusan berbilang pusat sunitinib dalam sarcoma bukan-GIST (termasuk liposarcoma), menilai aktiviti antitumor melalui pemblokiran enzim berkaitan pertumbuhan dan bekalan darah tumor. |
+| [NCT02048371](https://clinicaltrials.gov/study/NCT02048371) | Fasa 2 | Selesai | 131 | Protokol payung SARC024 mengkaji regorafenib (inhibitor kinase molekul kecil berkaitan, bukan sunitinib sendiri) merentasi subtipe sarcoma; dipetik sebagai sokongan mekanik peringkat kelas sahaja. |
 
 ---
 
-## Safety Considerations
+## Bukti Kesusasteraan
 
-Please refer to the package insert for safety information.
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|------|------|------|---------|
+| [21154746](https://pubmed.ncbi.nlm.nih.gov/21154746/) | 2011 | Percubaan Fasa 2 | International Journal of Cancer | Kajian Fasa 2 satu institusi sunitinib malate dalam sarcoma tisu lembut relaps/refraktori, tertumpu kepada leiomyosarcoma, liposarcoma, dan MFH; menilai keselamatan dan keberkesanan dalam tiga histologi ini. |
+| [38254762](https://pubmed.ncbi.nlm.nih.gov/38254762/) | 2024 | Ulasan | Cancers | Mengkaji perubahan genetik, epigenetik, dan transkriptomik dalam liposarcoma untuk membimbing pemilihan terapi tersasar; mencatat pembedahan kekal menjadi tunjang sambil pilihan tersasar terhad. |
+| [24555529](https://pubmed.ncbi.nlm.nih.gov/24555529/) | 2014 | Ulasan | Expert Review of Anticancer Therapy | Meninjau terapi perubatan yang muncul untuk sarcoma tisu lembut dewasa, termasuk corak sensitiviti kimia berasaskan subtipe. |
+| [23482782](https://pubmed.ncbi.nlm.nih.gov/23482782/) | 2013 | Laporan Kes | Anticancer Research | Melaporkan manfaat klinikal yang bertahan lama sunitinib malate dalam pesakit liposarcoma metastasis yang telah dirawat dengan berat. |
+| [38717131](https://pubmed.ncbi.nlm.nih.gov/38717131/) | 2024 | Tidak Tersedia | American Journal of Surgical Pathology | Analisis klinikopatalogi 25 kes sarcoma miofibroblas inflamamasi myxoid yang berbeza; konteks pengelasan sarcoma umum. |
+| [24712007](https://pubmed.ncbi.nlm.nih.gov/24712007/) | 2014 | Tidak Tersedia | Magyar Onkologia | Membincangkan rawatan perubatan berasaskan subtipe sarcoma tisu lembut, termasuk agen tersasar mengikut histologi. |
+| [28423517](https://pubmed.ncbi.nlm.nih.gov/28423517/) | 2017 | Tidak Tersedia | Oncotarget | Pensekatan generasi seterusnya ekstraskeletal myxoid chondrosarcoma; menilai faktor ramalan untuk manfaat sunitinib dalam subtipe sarcoma berkaitan ini. |
+| [22987955](https://pubmed.ncbi.nlm.nih.gov/22987955/) | 2012 | Tidak Tersedia | Annals of Oncology | Membincangkan terapi terdorong histologi untuk sarcoma tisu lembut, mencatat aktiviti tinggi trabectedin khususnya dalam myxoid liposarcoma. |
+| [25884155](https://pubmed.ncbi.nlm.nih.gov/25884155/) | 2015 | Tidak Tersedia | BMC Cancer | Protokol untuk percubaan REGOSARC menilai regorafenib (TKI berkaitan) dalam sarcoma tisu lembut lanjutan; alasan laluan angiogenesis relevan dengan mekanisme sunitinib. |
 
 ---
 
-## Conclusion and Next Steps
+## Maklumat Pasaran Malaysia
 
-**Decision: Hold**
+Butiran peringkat lesen (nombor kebenaran, nama produk, bentuk dos, teks indikasi) tidak diisi dalam dataset semasa. Rekod NPRA mengesahkan Sunitinib memegang **20 kebenaran pemasaran aktif** di Malaysia dengan status pasaran **Dipasarkan (Dipasarkan)**.
 
-**Rationale:**
-Evidence level is L2 (single dedicated Phase 2 trial population plus supportive literature), and the evidence pack itself flags sunitinib's response rate in liposarcoma as modest and non-first-line; the model score is high, but clinical evidence does not yet support active pursuit.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA-sourced package insert (warnings, contraindications, DDI) to clear the current safety data gap
-- DrugBank-sourced mechanism of action and drug category data
-- Populated NPRA license records (product names, dosage forms, approved indication text) for the 20 existing registrations
-- Liposarcoma-subtype-stratified efficacy data (particularly myxoid/round-cell) before considering further development
+## Sitotoksisiti
+
+Sila rujuk amaran dan pertimbangan dalam surat keterangan produk — data kategori DrugBank, MOA, dan ketoksikan tidak tersedia dalam pakej bukti semasa untuk menyokong pengelasan sitotoksisiti yang terperinci.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk surat keterangan produk untuk maklumat keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Tahap bukti ialah L2 (percubaan Fasa 2 pendeta tunggal populasi serta kesusasteraan yang menyokong), dan pakej bukti sendiri menanda kadar respons sunitinib dalam liposarcoma sebagai sederhana dan bukan-garis-pertama; skor model tinggi, tetapi bukti klinikal belum menyokong usaha aktif.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Surat keterangan produk bersumber TFDA/NPRA (amaran, kontraindikasi, DDI) untuk membersihkan jurang data keselamatan semasa
+- Data mekanisme tindakan dan kategori ubat bersumber DrugBank
+- Rekod lesen NPRA yang diisi (nama produk, bentuk dos, teks indikasi yang diluluskan) untuk 20 pendaftaran sedia ada
+- Data keberkesanan bertapis subtipe liposarcoma (terutamanya myxoid/bulat-sel) sebelum mempertimbangkan pengembangan lebih lanjut
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

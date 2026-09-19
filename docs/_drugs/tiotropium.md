@@ -29,108 +29,105 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-Using the drug-repurposing report template directly on the supplied Evidence Pack. One important note before the report: `predicted_indications[0]` ("obstructive lung disease") is TxGNN's top hit, but its own `repurposing_rationale` states this is the **umbrella term already covering tiotropium's approved COPD/asthma use** — i.e., not a genuine new-use signal. I've built the report per the template (which anchors on `predicted_indications[0]`) but flagged this prominently so the report isn't misleading.
+# Tiotropium: Dari Penyakit Obstruktif Paru-paru Kronik hingga Penyakit Paru-paru Obstruktif
+
+## Ringkasan Satu Ayat
+
+> Tiotropium ialah antagonis muskarinik kerja panjang (LAMA) bronkodilator yang telah terbukti untuk penyakit obstruktif paru-paru kronik (COPD) dan, sebagai terapi tambahan, asma persisten yang teruk.
+> Model TxGNN dengan kedudukan tertinggi meramalkan **Penyakit Paru-paru Obstruktif**, disokong oleh **50 kajian klinikal** dan **20 penerbitan** — namun, istilah ini adalah payung kategori penyakit yang sudah termasuk petunjuk kegunaan yang diluluskan untuk tiotropium, jadi ia harus dibaca sebagai isyarat pengesahan daripada calon pertukaran guna yang benar-benar baru.
 
 ---
 
-# Tiotropium: From Chronic Obstructive Pulmonary Disease to Obstructive Lung Disease
+## Gambaran Pantas
 
-## One-Sentence Summary
-
-> Tiotropium is a long-acting muscarinic antagonist (LAMA) bronchodilator established for chronic obstructive pulmonary disease (COPD) and, as add-on therapy, severe persistent asthma.
-> The TxGNN model's top-ranked prediction is **Obstructive Lung Disease**, supported by **50 clinical trials** and **20 publications** — however, this term is the disease-category umbrella that already includes tiotropium's approved indications, so it should be read as a confirmatory signal rather than a genuinely novel repurposing candidate.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not stated in the TFDA/NPRA license extract (approved-indication text is blank for all 3 registrations); based on established pharmacology, tiotropium is indicated for maintenance treatment of COPD and as add-on controller therapy in severe persistent asthma |
-| Predicted New Indication | Obstructive Lung Disease *(umbrella term — not a novel indication; see caveat below)* |
-| TxGNN Prediction Score | 99.99% |
-| Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
-| Recommended Decision | Proceed with Guardrails *(model-derived label — see Conclusion for a corrected recommendation)* |
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Tidak dinyatakan dalam ekstrak lesen TFDA/NPRA (teks petunjuk kelulusan kosong untuk semua 3 pendaftaran); berdasarkan farmakoloji yang mapan, tiotropium ditunjukkan untuk rawatan penyelenggaraan COPD dan sebagai terapi pengawal tambahan dalam asma persisten yang teruk |
+| Petunjuk Baharu Diramalkan | Penyakit Paru-paru Obstruktif *(istilah payung — bukan petunjuk baru; lihat kaveat di bawah)* |
+| Skor Ramalan TxGNN | 99.99% |
+| Tahap Bukti | L1 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 3 |
+| Keputusan yang Disyorkan | Teruskan dengan Penjaga *(label terbitan model — lihat Kesimpulan untuk cadangan yang dibetulkan)* |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-`drug.original_moa` is marked as a data gap in this Evidence Pack, so the mechanism below is drawn from the `repurposing_rationale` fields attached to individual predictions rather than a dedicated MOA record: Tiotropium is a long-acting muscarinic receptor antagonist (LAMA) that selectively blocks M3 receptors on airway smooth muscle, producing sustained bronchodilation. This is the well-established mechanistic basis for its role in COPD and asthma management.
+`drug.original_moa` ditandai sebagai jurang data dalam Pek Bukti ini, jadi mekanisme di bawah diambil daripada medan `repurposing_rationale` yang dilampirkan pada ramalan individu daripada rekod MOA berdedikasi: Tiotropium ialah antagonis muskarinik kerja panjang (LAMA) yang secara selektif menghalang reseptor M3 pada otot licin saluran udara, menghasilkan bronkodilasi yang berkelanjutan. Ini adalah asas mekanistik yang mapan untuk peranannya dalam pengurusan COPD dan asma.
 
-**Important caveat**: the rationale text supplied for this top-ranked prediction explicitly states that "obstructive lung disease" is a superordinate concept covering COPD and asthma — i.e., the disease tiotropium is *already* indicated for — and is "not a novel prediction." The same applies to rank 5 in this Evidence Pack, "chronic obstructive pulmonary disease" itself (L1, included seemingly as a baseline/sanity-check entry). Both score extremely high (>99.8%) precisely because the model is correctly recovering a known drug–disease link, not surfacing new therapeutic potential.
+**Kaveat penting**: teks rasional yang dibekalkan untuk ramalan dengan kedudukan tertinggi ini secara jelas menyatakan bahawa "penyakit paru-paru obstruktif" adalah konsep superordinat yang meliputi COPD dan asma — iaitu, penyakit yang tiotropium *sudah* ditunjukkan untuk — dan adalah "bukan ramalan baru." Perkara yang sama berlaku untuk kedudukan 5 dalam Pek Bukti ini, "penyakit obstruktif paru-paru kronik" itu sendiri (L1, disertakan nampaknya sebagai merujuk asas/semakan akal masuk). Kedua-dua skor sangat tinggi (>99.8%) tepat kerana model itu dengan betul memulihkan pautan ubat-penyakit yang diketahui, bukan menampilkan potensi terapeutik baru.
 
-Among the remaining candidates, only rank 4 ("COPD, severe early onset") represents a plausible but underpowered incremental extension — same LAMA mechanism, but no trial has specifically enrolled or stratified this early-onset severe phenotype. Ranks 2, 3, and 6–10 (respiratory malformation, Rienhoff syndrome, hyperlucent lung, compensatory emphysema, interstitial emphysema, tracheal stenosis, and a CD8α-deficiency immune disorder) are structural, genetic, or immunologic conditions with no mechanistic link to M3-receptor antagonism; their own rationale text flags them as likely drug-name co-occurrence noise rather than real signal, and 6 of the 7 have zero supporting trials or literature (L5).
+Di antara calon yang tinggal, hanya kedudukan 4 ("COPD, permulaan usia awal yang teruk") mewakili sambungan tambahan yang munasabah tetapi kurang berkuasa — mekanisme LAMA yang sama, tetapi tiada kajian yang khusus telah mendaftarkan atau menstratifikasi fenotip permulaan usia awal yang teruk ini. Kedudukan 2, 3, dan 6–10 (malformasi respiratori, sindrom Rienhoff, paru-paru bercahaya, emfisema pampasan, emfisema interstisial, stenosis trakea, dan gangguan imun kekurangan CD8α) adalah keadaan struktur, genetik, atau imunologi tanpa sambungan mekanistik kepada antagonisme reseptor M3; teks rasional mereka sendiri menandainya sebagai kemungkinan besar bunyi bersama nama ubat daripada isyarat sebenar, dan 6 daripada 7 telah tidak ada kajian sokongan atau literatur (L5).
 
 ---
 
-## Clinical Trial Evidence
+## Bukti Kajian Klinikal
 
-*(from `predicted_indications[0]` — "obstructive lung disease")*
+*(daripada `predicted_indications[0]` — "penyakit paru-paru obstruktif")*
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Kajian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT00776984](https://clinicaltrials.gov/study/NCT00776984) | Phase 3 | Completed | 453 | Placebo-controlled trial of tiotropium Respimat 5 mcg/day as add-on controller therapy over 48 weeks in severe persistent asthma |
-| [NCT00523991](https://clinicaltrials.gov/study/NCT00523991) | Phase 4 | Completed | 457 | 24-week multicenter trial of tiotropium 18 mcg HandiHaler + PRN albuterol vs. placebo + PRN albuterol in maintenance-naïve COPD |
-| [NCT00144339](https://clinicaltrials.gov/study/NCT00144339) | Phase 3 | Completed | 5993 | UPLIFT-scale trial assessing whether daily tiotropium reduces the rate of lung-function decline in COPD |
-| [NCT00277264](https://clinicaltrials.gov/study/NCT00277264) | Phase 3 | Completed | 914 | SAFE study — one-year effect of tiotropium 18 mcg on trough FEV1 change in COPD, stratified by smoking status |
-| [NCT01911364](https://clinicaltrials.gov/study/NCT01911364) | Phase 3 | Completed | 3686 | 52-week trial comparing triple therapy (beclometasone+formoterol+glycopyrronium) vs. tiotropium and vs. tiotropium+beclometasone/formoterol in severe COPD |
-| [NCT01316913](https://clinicaltrials.gov/study/NCT01316913) | Phase 3 | Completed | 872 | 24-week comparison of GSK573719/GW642444 vs. GSK573719 vs. tiotropium in COPD |
-| [NCT02173769](https://clinicaltrials.gov/study/NCT02173769) | N/A | Completed | 1845 | Real-world assessment of physical functioning changes with tiotropium+olodaterol combination therapy in COPD |
-| [NCT01112241](https://clinicaltrials.gov/study/NCT01112241) | Phase 4 | Completed | 17 | Acute bronchodilator responsiveness to tiotropium and albuterol in obliterative bronchiolitis after hematopoietic stem cell transplant |
-| [NCT00662740](https://clinicaltrials.gov/study/NCT00662740) | Phase 3 | Terminated | 220 | 1-year comparison of tiotropium+salmeterol combination regimens vs. single-agent therapies in COPD |
-| [NCT03199976](https://clinicaltrials.gov/study/NCT03199976) | Phase 4 | Terminated | 80 | Intermittent tiotropium+salbutamol vs. fluticasone+salbutamol vs. salbutamol alone for episode-free days in early-childhood wheezing |
+| [NCT00776984](https://clinicaltrials.gov/study/NCT00776984) | Fasa 3 | Selesai | 453 | Kajian terkawal plasebo tiotropium Respimat 5 mcg/hari sebagai terapi pengawal tambahan lebih 48 minggu dalam asma persisten yang teruk |
+| [NCT00523991](https://clinicaltrials.gov/study/NCT00523991) | Fasa 4 | Selesai | 457 | Kajian multipusat 24 minggu tiotropium 18 mcg HandiHaler + albuterol PRN lwn. plasebo + albuterol PRN dalam penyelenggaraan COPD tanpa rawatan terdahulu |
+| [NCT00144339](https://clinicaltrials.gov/study/NCT00144339) | Fasa 3 | Selesai | 5993 | Kajian skala UPLIFT menilai sama ada tiotropium harian mengurangkan kadar penurunan fungsi paru-paru dalam COPD |
+| [NCT00277264](https://clinicaltrials.gov/study/NCT00277264) | Fasa 3 | Selesai | 914 | Kajian SAFE — kesan setahun tiotropium 18 mcg pada perubahan FEV1 trofi dalam COPD, distratifikasi mengikut status merokok |
+| [NCT01911364](https://clinicaltrials.gov/study/NCT01911364) | Fasa 3 | Selesai | 3686 | Kajian 52 minggu membandingkan terapi tiga (beklometason+formoterol+glikopirronium) lwn. tiotropium dan lwn. tiotropium+beklometason/formoterol dalam COPD yang teruk |
+| [NCT01316913](https://clinicaltrials.gov/study/NCT01316913) | Fasa 3 | Selesai | 872 | Perbandingan 24 minggu GSK573719/GW642444 lwn. GSK573719 lwn. tiotropium dalam COPD |
+| [NCT02173769](https://clinicaltrials.gov/study/NCT02173769) | T/A | Selesai | 1845 | Penilaian dunia sebenar perubahan fungsi fizikal dengan terapi gabungan tiotropium+olodaterol dalam COPD |
+| [NCT01112241](https://clinicaltrials.gov/study/NCT01112241) | Fasa 4 | Selesai | 17 | Responsif bronkodilator akut kepada tiotropium dan albuterol dalam bronkiolitis obliteratif selepas pemindahan sel stem hematopoietik |
+| [NCT00662740](https://clinicaltrials.gov/study/NCT00662740) | Fasa 3 | Ditamatkan | 220 | Perbandingan 1 tahun regimen gabungan tiotropium+salmeterol lwn. terapi agen tunggal dalam COPD |
+| [NCT03199976](https://clinicaltrials.gov/study/NCT03199976) | Fasa 4 | Ditamatkan | 80 | Tiotropium+salbutamol berkala lwn. flutikazon+salbutamol lwn. salbutamol sahaja untuk hari bebas episod dalam pernafasan awal kanak-kanak |
 
 ---
 
-## Literature Evidence
+## Bukti Literatur
 
-*(from `predicted_indications[0]` — "obstructive lung disease")*
+*(daripada `predicted_indications[0]` — "penyakit paru-paru obstruktif")*
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [28877027](https://pubmed.ncbi.nlm.nih.gov/28877027/) | 2017 | RCT | The New England Journal of Medicine | Long-term tiotropium use improves lung function and slows decline in mild/moderate, early-stage COPD |
-| [25046211](https://pubmed.ncbi.nlm.nih.gov/25046211/) | 2014 | Systematic Review (Cochrane) | Cochrane Database of Systematic Reviews | Update of tiotropium vs. placebo efficacy/safety evidence across trial formats including the Respimat soft-mist inhaler |
-| [26391969](https://pubmed.ncbi.nlm.nih.gov/26391969/) | 2015 | Systematic Review (Cochrane) | Cochrane Database of Systematic Reviews | Update comparing tiotropium against ipratropium bromide in stable COPD |
-| [29206658](https://pubmed.ncbi.nlm.nih.gov/29206658/) | 2018 | Review | Current Opinion in Pulmonary Medicine | Review of lung-function trajectories in COPD and the role of pharmacologic intervention in early disease phases |
-| [10069510](https://pubmed.ncbi.nlm.nih.gov/10069510/) | 1999 | Review | Life Sciences | Mechanistic profile of tiotropium as a slow-dissociating, kinetically M3/M1-selective antimuscarinic bronchodilator |
-| [23170031](https://pubmed.ncbi.nlm.nih.gov/23170031/) | 2012 | Cohort/Comparative | The Annals of Pharmacotherapy | Review of efficacy/safety data on concomitant ipratropium plus tiotropium use in COPD |
-| [33095662](https://pubmed.ncbi.nlm.nih.gov/33095662/) | 2021 | Review | Current Medical Research and Opinion | Evidence review of tiotropium+olodaterol fixed-dose combination per GOLD 2020 recommendations for exacerbation reduction |
-| [32727455](https://pubmed.ncbi.nlm.nih.gov/32727455/) | 2020 | Review | Respiratory Research | Review of tiotropium's clinical development history as LAMA monotherapy for GOLD groups B, C, and D |
-| [22562275](https://pubmed.ncbi.nlm.nih.gov/22562275/) | 2012 | Study (unclassified) | Pneumonologia i Alergologia Polska | Effects of formoterol, formoterol+tiotropium, formoterol+ICS, and tiotropium on lung function, exercise tolerance, and morning activities in COPD |
-| [12010082](https://pubmed.ncbi.nlm.nih.gov/12010082/) | 2002 | Study (unclassified) | Drugs | Pharmacologic and clinical profile of tiotropium bromide as a once-daily anticholinergic bronchodilator in COPD |
+| [28877027](https://pubmed.ncbi.nlm.nih.gov/28877027/) | 2017 | RCT | The New England Journal of Medicine | Penggunaan tiotropium jangka panjang meningkatkan fungsi paru-paru dan memperlahankan penurunan dalam COPD awal/sederhana yang ringan |
+| [25046211](https://pubmed.ncbi.nlm.nih.gov/25046211/) | 2014 | Ulasan Sistematik (Cochrane) | Cochrane Database of Systematic Reviews | Kemaskini bukti keberkesanan/keselamatan tiotropium lwn. plasebo merentasi format kajian termasuk inhaler Respimat lembut-kabus |
+| [26391969](https://pubmed.ncbi.nlm.nih.gov/26391969/) | 2015 | Ulasan Sistematik (Cochrane) | Cochrane Database of Systematic Reviews | Kemaskini membandingkan tiotropium terhadap bromida ipratropium dalam COPD stabil |
+| [29206658](https://pubmed.ncbi.nlm.nih.gov/29206658/) | 2018 | Ulasan | Current Opinion in Pulmonary Medicine | Ulasan trajektori fungsi paru-paru dalam COPD dan peranan campur tangan farmakoloji dalam fasa penyakit awal |
+| [10069510](https://pubmed.ncbi.nlm.nih.gov/10069510/) | 1999 | Ulasan | Life Sciences | Profil mekanistik tiotropium sebagai antagonis muskarinik pelembap-nyahkepada yang bermassa kinesis M3/M1-selektif bronkodilator |
+| [23170031](https://pubmed.ncbi.nlm.nih.gov/23170031/) | 2012 | Kohort/Perbandingan | The Annals of Pharmacotherapy | Ulasan data keberkesanan/keselamatan penggunaan bersama ipratropium tambah tiotropium dalam COPD |
+| [33095662](https://pubmed.ncbi.nlm.nih.gov/33095662/) | 2021 | Ulasan | Current Medical Research and Opinion | Ulasan bukti gabungan tiotropium+olodaterol dosis tetap bagi cadangan GOLD 2020 untuk pengurangan eksaserbasi |
+| [32727455](https://pubmed.ncbi.nlm.nih.gov/32727455/) | 2020 | Ulasan | Respiratory Research | Ulasan sejarah pembangunan klinikal tiotropium sebagai monoterap LAMA untuk kumpulan GOLD B, C, dan D |
+| [22562275](https://pubmed.ncbi.nlm.nih.gov/22562275/) | 2012 | Kajian (tidak diklasifikasi) | Pneumonologia i Alergologia Polska | Kesan formoterol, formoterol+tiotropium, formoterol+ICS, dan tiotropium pada fungsi paru-paru, toleransi latihan, dan aktiviti pagi dalam COPD |
+| [12010082](https://pubmed.ncbi.nlm.nih.gov/12010082/) | 2002 | Kajian (tidak diklasifikasi) | Drugs | Profil farmakoloji dan klinikal tiotropium bromida sebagai bronkodilator antikolin sekali sehari dalam COPD |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-The evidence pack confirms **3 active registrations** for tiotropium with market status "Marketed," but product-level fields (authorization number, product name, dosage form, and approved-indication text) are blank in the current data extract and cannot be populated without re-querying the source registry.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-*(Underlying data: `key_warnings`, `contraindications`, and the DDI query all returned no usable content in this Evidence Pack — DDI query status: not found, 0 interactions recorded.)*
+Pek bukti mengesahkan **3 pendaftaran aktif** untuk tiotropium dengan status pasaran "Dipasarkan," tetapi medan peringkat produk (nombor kebenaran, nama produk, bentuk dos, dan teks petunjuk yang diluluskan) kosong dalam ekstrak data semasa dan tidak dapat diisi tanpa mengkaji semula sumber daftar.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold — Not a Novel Repurposing Candidate (as top-ranked)**
+Sila rujuk sisipan bungkusan untuk maklumat keselamatan.
 
-**Rationale:**
-- The Evidence Pack's own rationale for the #1-ranked prediction ("obstructive lung disease") states it is a superordinate concept already encompassing tiotropium's approved COPD/asthma indications — the L1 evidence level reflects confirmation of existing use, not a new therapeutic signal, so it should not be advanced through a repurposing pathway.
-- Of the remaining candidates, only rank 4 ("COPD, severe early onset," L3, "Research Question") is mechanistically plausible but lacks phenotype-specific trial data; all others (respiratory malformation, Rienhoff syndrome, hyperlucent lung, compensatory emphysema, interstitial emphysema, tracheal stenosis, and CD8α-deficiency susceptibility) are structural/genetic/immunologic conditions with no mechanistic rationale and, in 6 of 7 cases, zero supporting trials or literature (L5) — recommendation Hold on all.
+*(Data asas: pertanyaan `key_warnings`, `contraindications`, dan DDI semuanya mengembalikan tiada kandungan boleh guna dalam Pek Bukti ini — status pertanyaan DDI: tidak dijumpai, 0 interaksi direkodkan.)*
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package-insert warnings and contraindications (flagged as a **Blocking** data gap — required before any Stage 1 safety screen can proceed)
-- Formal mechanism-of-action record for tiotropium (High-severity data gap; the mechanism cited above was reconstructed from prediction-level rationale text, not a dedicated MOA source)
-- If pursuing rank 4 ("COPD, severe early onset") further: literature/trial search specifically targeting early-onset severe COPD phenotypes rather than general COPD populations
-- Complete product-level Malaysia registration data (brand names, dosage forms, approved-indication text) currently missing from the license extract
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tangguhkan — Bukan Calon Pertukaran Guna Baru (sebagai kedudukan tertinggi)**
+
+**Rasional:**
+- Rasional Pek Bukti itu sendiri untuk ramalan beredudukan #1 ("penyakit paru-paru obstruktif") menyatakan ia adalah konsep superordinat yang sudah merangkumi petunjuk kegunaan COPD/asma yang diluluskan untuk tiotropium — tahap bukti L1 mencerminkan pengesahan penggunaan sedia ada, bukan isyarat terapeutik baru, jadi ia tidak boleh dimajukan melalui laluan pertukaran guna.
+- Daripada calon yang tinggal, hanya kedudukan 4 ("COPD, permulaan usia awal yang teruk," L3, "Soalan Penyelidikan") adalah munasabah secara mekanistik tetapi kurang bukti kajian khusus fenotip; semua yang lain (malformasi respiratori, sindrom Rienhoff, paru-paru bercahaya, emfisema pampasan, emfisema interstisial, stenosis trakea, dan kerentanan kekurangan CD8α) adalah keadaan struktur/genetik/imunologi tanpa rasional mekanistik dan, dalam 6 daripada 7 kes, kajian atau literatur sokongan sifar (L5) — cadangan Tangguhkan semua.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Amaran sisipan bungkusan TFDA/NPRA dan kontraindikasi (ditandai sebagai jurang data **Menyekat** — diperlukan sebelum sebarang skrin keselamatan Peringkat 1 dapat diteruskan)
+- Rekod mekanisme-tindakan formal untuk tiotropium (Jurang data keterukan tinggi; mekanisme yang disebut di atas telah dibina semula daripada teks rasional tahap ramalan, bukan sumber MOA berdedikasi)
+- Jika meneruskan kedudukan 4 ("COPD, permulaan usia awal yang teruk") selanjutnya: carian literatur/kajian yang khusus menyasarkan fenotip COPD permulaan usia awal yang teruk daripada populasi COPD umum
+- Data pendaftaran Malaysia peringkat produk lengkap (nama jenama, bentuk dos, teks petunjuk yang diluluskan) sedang hilang daripada ekstrak lesen
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

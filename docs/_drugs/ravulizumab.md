@@ -29,62 +29,63 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Ravulizumab: From Complement-Mediated Disease to Congenital Neutropenia (G6PC3 Deficiency)
+# Ravulizumab: Dari Penyakit Dimediasi Komplemen ke Neutropenia Kongenital Berat (Defisiensi G6PC3)
 
-## One-Sentence Summary
+## Ringkasan Satu Kalimat
 
-Ravulizumab is a long-acting terminal complement C5 inhibitor, with its established global indications covering complement/thrombotic microangiopathy-related diseases (PNH, aHUS, gMG, NMOSD). The TxGNN model's top prediction is **autosomal recessive severe congenital neutropenia due to G6PC3 deficiency**, but this direction — along with all 9 other candidates in this evidence pack — has **zero clinical trials and zero literature support**, and the model's own generated rationale explicitly flags it as a likely graph-clustering artifact rather than a genuine mechanistic link.
+Ravulizumab adalah penghambat komplemen C5 terminal jangka panjang, dengan indikasi global yang ditetapkan mencakup penyakit yang terkait dengan komplemen dan mikroangiopati trombotik (PNH, aHUS, gMG, NMOSD). Prediksi teratas model TxGNN adalah **neutropenia kongenital berat resesif autosom akibat defisiensi G6PC3**, tetapi arah ini — bersama dengan semua 9 kandidat lainnya dalam paket bukti ini — memiliki **nol uji klinis dan nol dukungan literatur**, dan rasional yang dihasilkan model secara eksplisit menandainya sebagai artefak pengelompokan grafik yang mungkin daripada tautan mekanis yang sebenarnya.
 
-## Quick Overview
+## Gambaran Umum Cepat
 
-| Item | Content |
-|------|------|
-| Original Indication | Not captured in the current Malaysia regulatory data pull; based on annotations in this evidence pack, Ravulizumab's known global indications are complement-mediated diseases (PNH, aHUS, gMG, NMOSD) |
-| Predicted New Indication | Autosomal recessive severe congenital neutropenia due to G6PC3 deficiency |
-| TxGNN Prediction Score | 99.96% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+| Item | Konten |
+|------|---------|
+| Indikasi Asli | Tidak ditangkap dalam penarikan data peraturan Malaysia saat ini; berdasarkan anotasi dalam paket bukti ini, indikasi global Ravulizumab yang diketahui adalah penyakit yang dimediasi komplemen (PNH, aHUS, gMG, NMOSD) |
+| Indikasi Baru yang Diprediksi | Neutropenia kongenital berat resesif autosom akibat defisiensi G6PC3 |
+| Skor Prediksi TxGNN | 99.96% |
+| Tingkat Bukti | L5 |
+| Status Pasar Malaysia | ✓ Dipasarkan |
+| Jumlah Registrasi | 1 |
+| Keputusan yang Disarankan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Prediksi Ini Dapat Diterima?
 
-Detailed mechanism of action data is not available in the structured record (`original_moa`: Data Gap). However, annotations embedded elsewhere in this evidence pack indicate Ravulizumab is a long-acting terminal complement C5 inhibitor (same mechanistic class as eculizumab), blocking cleavage of C5 into C5a/C5b and preventing formation of the membrane attack complex (MAC). Its established indications are complement-mediated diseases and thrombotic microangiopathies.
+Data mekanisme aksi terperinci tidak tersedia dalam catatan terstruktur (`original_moa`: Kesenjangan Data). Namun, anotasi yang tertanam di tempat lain dalam paket bukti ini menunjukkan bahwa Ravulizumab adalah penghambat komplemen C5 terminal jangka panjang (kelas mekanis yang sama dengan eculizumab), memblokir pembelahan C5 menjadi C5a/C5b dan mencegah pembentukan kompleks serangan membran (MAC). Indikasi yang ditetapkannya adalah penyakit yang dimediasi komplemen dan mikroangiopati trombotik.
 
-The model's top-ranked candidate — congenital neutropenia due to G6PC3 deficiency — has no known pathophysiological connection to this mechanism: it arises from a glucose-6-phosphatase defect causing endoplasmic reticulum stress and impaired neutrophil maturation, not complement activation. The evidence pack's own rationale for this candidate explicitly states the high TxGNN score is most likely driven by clustering of "rare hematologic/immune genetic disease" nodes in the knowledge graph rather than a true biological link. This pattern repeats across all 10 ranked candidates in this pack (congenital neutropenia subtypes, platelet disorders, megaloblastic anemia, etc.) — each rationale independently concludes there is no plausible mechanistic bridge to C5 inhibition. The one partial exception is rank 3, primary hyperoxaluria, where the rationale notes a speculative, indirect route (oxalate nephropathy can trigger downstream thrombotic microangiopathy, which is sometimes treated off-label with complement inhibitors) — but this targets a complication, not the disease's underlying enzymatic defect (AGXT/GRHPR/HOGA1), and has no direct supporting evidence either.
+Kandidat peringkat teratas model — neutropenia kongenital akibat defisiensi G6PC3 — tidak memiliki koneksi patofisiologis yang diketahui dengan mekanisme ini: hal ini timbul dari defek glukosa-6-fosfatase yang menyebabkan stres retikulum endoplasma dan pematangan neutrofil yang terganggu, bukan aktivasi komplemen. Rasional paket bukti untuk kandidat ini secara eksplisit menyatakan bahwa skor TxGNN yang tinggi kemungkinan besar didorong oleh pengelompokan node "penyakit genetik hematologis/imun langka" dalam grafik pengetahuan daripada tautan biologis yang sebenarnya. Pola ini berulang di semua 10 kandidat peringkat dalam paket ini (subtipe neutropenia kongenital, gangguan trombosit, anemia megaloblastik, dll.) — setiap rasional secara independen menyimpulkan tidak ada jembatan mekanis yang masuk akal ke penghambatan C5. Satu pengecualian parsial adalah peringkat 3, hyperoxaluria primer, di mana rasional mencatat rute spekulatif dan tidak langsung (nephropati oksalat dapat memicu mikroangiopati trombotik hilir, yang kadang-kadang diobati di luar label dengan penghambat komplemen) — tetapi ini menargetkan komplikasi, bukan defek enzimatik yang mendasari penyakit (AGXT/GRHPR/HOGA1), dan juga tidak memiliki bukti pendukung langsung.
 
-Overall, this candidate set reads as a case where TxGNN's high confidence scores are not well corroborated by mechanistic plausibility, and none are backed by real-world clinical or literature evidence.
+Secara keseluruhan, set kandidat ini terlihat sebagai kasus di mana skor kepercayaan diri TxGNN yang tinggi tidak didukung dengan baik oleh kelayakan mekanis, dan tidak ada yang didukung oleh bukti klinis dunia nyata atau literatur.
 
-## Clinical Trial Evidence
+## Bukti Uji Klinis
 
-Currently no related clinical trials registered.
+Saat ini tidak ada uji klinis terkait yang terdaftar.
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no related literature available.
+Saat ini tidak ada literatur terkait yang tersedia.
 
-## Malaysia Market Information
+## Informasi Pasar Malaysia
 
-The NPRA record confirms 1 registration is on file with market status ✓ Marketed. License number, product name, dosage form, and approved indication text were not captured in this data pull.
+Catatan NPRA mengkonfirmasi 1 registrasi ada di file dengan status pasar ✓ Dipasarkan. Nomor lisensi, nama produk, bentuk dosis, dan teks indikasi yang disetujui tidak ditangkap dalam penarikan data ini.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Silakan merujuk pada risalah ubat untuk informasi keselamatan.
 
-*(Note: `key_warnings` and `contraindications` are flagged as Blocking data gaps — DG001 — in this evidence pack, meaning a formal S1 safety screen cannot proceed until the TFDA package insert is obtained.)*
+*(Catatan: `key_warnings` dan `contraindications` ditandai sebagai kesenjangan data yang menghalangi — DG001 — dalam paket bukti ini, yang berarti penyaringan keselamatan S1 formal tidak dapat dilanjutkan sampai risalah ubat TFDA diperoleh.)*
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Selanjutnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-All 10 predicted indications are L5 (model prediction only) with no supporting clinical trials or literature, and 9 of 10 candidates' own mechanistic rationale explicitly finds no plausible link to Ravulizumab's C5-inhibition MOA. Combined with a Blocking data gap on safety warnings/contraindications (DG001), there is currently no basis to advance any of these candidates past initial screening.
+**Rasional:**
+Semua 10 indikasi yang diprediksi adalah L5 (prediksi model saja) tanpa uji klinis atau literatur pendukung, dan rasional mekanis 9 dari 10 kandidat sendiri secara eksplisit menemukan tidak ada tautan yang masuk akal untuk mekanisme kerja penghambatan C5 Ravulizumab. Dikombinasikan dengan kesenjangan data yang menghalangi pada peringatan keselamatan/kontraindikasi (DG001), saat ini tidak ada dasar untuk memajukan salah satu dari kandidat ini melampaui penyaringan awal.
 
-**To proceed, the following is needed:**
-- TFDA package insert (warnings, contraindications) — resolves DG001, required before any S1 safety evaluation
-- Confirmed DrugBank MOA record — resolves DG002
-- If pursuing the primary hyperoxaluria (rank 3) direction specifically: case-level or registry evidence on complement inhibitor use in oxalate-nephropathy-associated TMA, since this is currently a downstream-complication hypothesis rather than a primary-indication hypothesis
-- Complete Malaysia regulatory license details (product name, dosage form, approved indication text) for the existing registration
+**Untuk melanjutkan, yang berikut diperlukan:**
+- Risalah ubat TFDA (peringatan, kontraindikasi) — menyelesaikan DG001, diperlukan sebelum evaluasi keselamatan S1 apa pun
+- Catatan mekanisme kerja DrugBank yang dikonfirmasi — menyelesaikan DG002
+- Jika mengejar arah hyperoxaluria primer (peringkat 3) secara khusus: bukti tingkat kasus atau registri pada penggunaan penghambat komplemen dalam TMA yang terkait dengan nephropati oksalat, karena ini saat ini hipotesis komplikasi hilir daripada hipotesis indikasi primer
+- Detail lisensi peraturan Malaysia yang lengkap (nama produk, bentuk dosis, teks indikasi yang disetujui) untuk registrasi yang ada
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,62 +29,63 @@ Tahap bukti: **L5** | Indikasi diramal: **7**
 
 </div>
 
-# Cycloserine: From Tuberculosis to Irritable Bowel Syndrome
+# Cycloserine: Daripada Tuberkulosis kepada Sindrom Usus Iritabel
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Cycloserine is a second-line anti-tuberculosis agent that inhibits alanine racemase/D-alanine ligase and also acts as a partial agonist at the NMDA receptor glycine site. The TxGNN model predicts it may be effective for **Irritable Bowel Syndrome (IBS)**, but this prediction is currently supported by **0 clinical trials** and **0 publications** — it rests entirely on knowledge-graph similarity rather than direct evidence.
+Cycloserine ialah agen anti-tuberkulosis baris kedua yang menghalangi alanine racemase/D-alanine ligase dan juga bertindak sebagai agonis separa di tapak glisin reseptor NMDA. Model TxGNN meramalkan ia mungkin berkesan untuk **Sindrom Usus Iritabel (IBS)**, tetapi ramalan ini kini disokong oleh **0 ujian klinikal** dan **0 penerbitan** — ia bergantung sepenuhnya pada kesamaan graf-pengetahuan daripada bukti langsung.
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | Tuberculosis (second-line anti-TB agent) — no formal TFDA indication text was extracted in this evidence pack |
-| Predicted New Indication | Irritable Bowel Syndrome |
-| TxGNN Prediction Score | 99.95% (graph rank 1184) |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Tuberculosis (agen anti-TB baris kedua) — tiada teks petunjuk TFDA formal yang telah diekstrak dalam pakej bukti ini |
+| Petunjuk Baru yang Diramalkan | Sindrom Usus Iritabel |
+| Skor Ramalan TxGNN | 99.95% (ranking graf 1184) |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed mechanism-of-action data was not returned by DrugBank in this evidence pack (flagged as a High-severity data gap). Based on the mechanistic notes captured alongside the prediction, cycloserine inhibits alanine racemase and D-alanine ligase — enzymes bacteria use for cell-wall synthesis — which underlies its anti-tuberculosis effect. It also has a secondary, off-target action as a partial agonist at the NMDA receptor's glycine site, a property more commonly discussed in its CNS toxicity profile than in any therapeutic context.
+Data mekanisme-tindakan terperinci tidak dikembalikan oleh DrugBank dalam pakej bukti ini (ditandakan sebagai jurang data berat). Berdasarkan nota mekanistik yang ditangkap bersama ramalan, cycloserine menghalangi alanine racemase dan D-alanine ligase — enzim yang digunakan bakteri untuk sintesis dinding sel — yang mendasari kesan anti-tuberkulosisnya. Ia juga mempunyai tindakan sampingan luar sasaran sebagai agonis separa di tapak glisin reseptor NMDA, sifat yang lebih umum dibincangkan dalam profil toksisiti SSP daripada dalam sebarang konteks terapeutik.
 
-Tuberculosis and IBS are unrelated conditions with no shared organ system or established pharmacological link. The theoretical bridge TxGNN may be drawing on is the gut-brain axis, where NMDA/glutamate receptor signaling has some role in visceral hypersensitivity and gut motility regulation. However, this is a mechanistic hypothesis only — no direct study has examined cycloserine's effect on intestinal motility or visceral pain, and the connection should be treated as speculative graph-embedding similarity rather than a validated pharmacological rationale.
+Tuberkulosis dan IBS ialah keadaan yang tidak berkaitan dengan tiada sistem organ bersama atau pautan farmakologi yang ditubuhkan. Jambatan teori yang mungkin dilakukan TxGNN ialah paksi usus-otak, di mana isyarat reseptor NMDA/glutamat mempunyai beberapa peranan dalam hipersensitiviti viseral dan regulasi motiliti usus. Namun, ini hanyalah hipotesis mekanistik sahaja — tiada kajian langsung telah mengkaji kesan cycloserine terhadap motiliti usus atau rasa sakit viseral, dan sambungan harus diperlakukan sebagai kesamaan embedding graf yang boleh disiasat daripada nisbah farmakologi yang disahkan.
 
-Given cycloserine's well-documented CNS toxicity (seizures, psychiatric symptoms) at doses used for TB treatment, any exploration of this indication would need to address a fundamentally different risk-benefit calculus than its current use in a serious infectious disease.
+Memandangkan toksisiti SSP cycloserine yang didokumenkan dengan baik (sawan, simptom psikiatri) pada dos yang digunakan untuk rawatan TB, sebarang penerokaan petunjuk ini perlu menangani kalkulus faedah risiko yang berbeza secara asas daripada penggunaan semasanya dalam penyakit jangkitan yang serius.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-Currently no related clinical trials registered.
+Tiada ujian klinikal berkaitan yang didaftarkan pada masa kini.
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no related literature available.
+Tiada literatur berkaitan tersedia pada masa kini.
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-A registration record exists (1 license on file), but product name, dosage form, manufacturer, and approved indication text were not populated in this evidence pack — these fields need to be re-extracted from the source registry before market details can be reported.
+Rekod pendaftaran wujud (1 lesen pada fail), tetapi nama produk, bentuk dos, pengilang, dan teks petunjuk diluluskan tidak diisi dalam pakej bukti ini — medan ini perlu diekstrak semula daripada daftar sumber sebelum butiran pasaran dapat dilaporkan.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-*(Note: warning and contraindication data for cycloserine were not available from TFDA in this evidence pack — this is flagged as a Blocking gap and must be resolved before any clinical safety assessment can proceed.)*
+*(Nota: data amaran dan kontraindikasi untuk cycloserine tidak tersedia daripada TFDA dalam pakej bukti ini — ini ditandakan sebagai jurang Menyekat dan mesti diselesaikan sebelum sebarang penilaian keselamatan klinikal dapat diteruskan.)*
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The prediction is supported only by TxGNN's graph-embedding score (L5) with no clinical trials, no literature, and no mechanistic study directly linking cycloserine to IBS. Combined with a Blocking gap on TFDA warnings/contraindications, there is not yet enough information to move this candidate past initial screening.
+**Rasional:**
+Ramalan disokong hanya oleh skor embedding graf TxGNN (L5) tanpa ujian klinikal, tanpa literatur, dan tanpa kajian mekanistik yang mengaitkan secara langsung cycloserine kepada IBS. Digabungkan dengan jurang Menyekat pada amaran/kontraindikasi TFDA, belum ada maklumat yang mencukupi untuk menggerakkan calon ini melampaui saringan awal.
 
-**To proceed, the following is needed:**
-- TFDA package insert (warnings, contraindications) to close the Blocking safety gap
-- DrugBank-confirmed mechanism of action to validate the gut-brain axis hypothesis
-- Preclinical or mechanistic studies on cycloserine's effect on gut motility/visceral sensitivity
-- Reassessment of risk-benefit given cycloserine's known CNS toxicity profile relative to IBS as a non-life-threatening condition
+**Untuk meneruskan, yang berikut diperlukan:**
+- Sisipan pakej TFDA (amaran, kontraindikasi) untuk menutup jurang keselamatan Menyekat
+- Mekanisme tindakan yang disahkan DrugBank untuk mengesahkan hipotesis paksi usus-otak
+- Kajian praklinikal atau mekanistik tentang kesan cycloserine terhadap motiliti usus/sensitiviti viseral
+- Penilaian semula faedah risiko memandangkan profil toksisiti SSP cycloserine yang diketahui berbanding IBS sebagai keadaan bukan mengancam nyawa
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

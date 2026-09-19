@@ -29,67 +29,68 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Diphenhydramine HCl: Drug Repurposing Evaluation — No Predicted Indications
+# Diphenhydramine HCl: Penilaian Penggunaan Semula Ubat — Tiada Indikasi yang Diramalkan
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Diphenhydramine HCl is a first-generation antihistamine (H1 receptor antagonist) widely used for allergic symptoms, motion sickness, and as a sleep aid. The TxGNN model currently has **no predicted new indications** for this drug, and the evidence pack contains significant data gaps in regulatory details, safety information, and mechanism of action documentation.
+Diphenhydramine HCl ialah antihistamin generasi pertama (antagonis reseptor H1) yang digunakan secara meluas untuk gejala alergik, mabuk perjalanan, dan sebagai pembantu tidur. Model TxGNN pada masa kini tidak mempunyai **indikasi baru yang diramalkan** untuk ubat ini, dan pakej bukti mengandungi jurang data yang ketara dalam butiran kawal selia, maklumat keselamatan, dan dokumentasi mekanisme tindakan.
 
-## Quick Overview
+## Tinjauan Cepat
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Antihistamine (allergy, motion sickness, insomnia — specific approved indication text not available in data) |
-| Predicted New Indication | None (no TxGNN predictions available) |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | N/A |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 21 |
-| Recommended Decision | Hold |
+| Indikasi Asal | Antihistamin (alergik, mabuk perjalanan, insomnia — teks indikasi yang diluluskan secara khusus tidak tersedia dalam data) |
+| Indikasi Baru yang Diramalkan | Tiada (tiada ramalan TxGNN tersedia) |
+| Skor Ramalan TxGNN | N/A |
+| Aras Bukti | N/A |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 21 |
+| Keputusan yang Disyorkan | Tunda |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-There are currently **no TxGNN-predicted new indications** for Diphenhydramine HCl, so a mechanistic plausibility assessment cannot be performed at this time.
+Pada masa kini, **tiada indikasi baru yang diramalkan oleh TxGNN** untuk Diphenhydramine HCl, jadi penilaian kebolehmungkinan mekanistik tidak dapat dilakukan pada masa ini.
 
-For background, Diphenhydramine is a first-generation antihistamine that acts as an inverse agonist at the histamine H1 receptor. It also exhibits anticholinergic, antitussive, antiemetic, and mild sedative properties. These multi-receptor activities have historically made it useful across allergy, cold symptoms, motion sickness, and short-term insomnia management.
+Sebagai latar belakang, Diphenhydramine ialah antihistamin generasi pertama yang bertindak sebagai antagonis terbalik pada reseptor histamin H1. Ia juga mempamerkan sifat antikolin, antitusif, antiemetik, dan sedatif ringan. Aktiviti multi-reseptor ini secara historis telah menjadikannya berguna merentas alergik, gejala selsema, mabuk perjalanan, dan pengurusan insomnia jangka pendek.
 
-The absence of TxGNN predictions may result from several factors: (1) the drug's DrugBank ID was not mapped (recorded as `null`), which would prevent the knowledge graph from linking Diphenhydramine to its molecular targets and disease associations; (2) incomplete integration of regulatory and pharmacological metadata. Resolving the DrugBank mapping is a prerequisite for generating meaningful repurposing predictions.
+Ketiadaan ramalan TxGNN mungkin hasil daripada beberapa faktor: (1) ID DrugBank ubat tidak dipetakan (direkodkan sebagai `null`), yang akan menghalang graf pengetahuan daripada menghubungkan Diphenhydramine kepada sasaran molekulnya dan persatuan penyakit; (2) integrasi tidak lengkap data metadata kawal selia dan farmakologi. Menyelesaikan pemetaan DrugBank adalah prasyarat untuk menghasilkan ramalan penggunaan semula yang bermakna.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-Currently no predicted indication available — clinical trial evidence search was not performed.
+Pada masa ini tiada indikasi yang diramalkan — carian bukti ujian klinikal tidak dilakukan.
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no predicted indication available — literature evidence search was not performed.
+Pada masa ini tiada indikasi yang diramalkan — carian bukti literatur tidak dilakukan.
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+| Nombor Kelulusan | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
 |---------|------|------|-----------|
-| (not available) | (not available) | (not available) | (not available) |
+| (tidak tersedia) | (tidak tersedia) | (tidak tersedia) | (tidak tersedia) |
 
-> **Note:** 21 registrations were identified for Diphenhydramine HCl in the NPRA database, but detailed license information (authorization numbers, product names, dosage forms, and approved indications) was not populated in the evidence pack. This data gap should be remediated by re-querying the NPRA database.
+> **Catatan:** 21 pendaftaran telah dikenal pasti untuk Diphenhydramine HCl dalam pangkalan data NPRA, tetapi maklumat lesen terperinci (nombor kelulusan, nama produk, bentuk dos, dan teks indikasi yang diluluskan) tidak diisi dalam pakej bukti. Jurang data ini seharusnya diperbaiki dengan menanyakan semula pangkalan data NPRA.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-> Please refer to the package insert for safety information.
+> Sila rujuk sisipan pakej untuk maklumat keselamatan.
 >
-> **Note:** Key warnings, contraindications, and drug interaction data were not available in the evidence pack. As a widely used OTC antihistamine, Diphenhydramine's well-known safety concerns include sedation/drowsiness, anticholinergic effects (dry mouth, urinary retention, constipation), and risk of confusion in elderly patients. A full safety review from the package insert and DrugBank is recommended before any repurposing evaluation proceeds.
+> **Catatan:** Data amaran utama, kontraindikasi, dan interaksi ubat tidak tersedia dalam pakej bukti. Sebagai antihistamin OTC yang digunakan secara meluas, kebimbangan keselamatan Diphenhydramine yang terkenal termasuk sedasi/mengantuk, kesan antikolin (mulut kering, retensi urin, sembelit), dan risiko kekeliruan pada pesakit warga tua. Semakan keselamatan lengkap daripada sisipan pakej dan DrugBank disyorkan sebelum sebarang penilaian penggunaan semula diteruskan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tunda**
 
-**Rationale:**
-No TxGNN-predicted indications are available for Diphenhydramine HCl. The evidence pack has critical data gaps — missing DrugBank ID mapping, empty license details, and absent safety data — that prevent any meaningful repurposing evaluation.
+**Alasan:**
+Tiada indikasi yang diramalkan oleh TxGNN tersedia untuk Diphenhydramine HCl. Pakej bukti mempunyai jurang data kritikal — pemetaan ID DrugBank yang hilang, butiran lesen kosong, dan data keselamatan yang tidak hadir — yang menghalang sebarang penilaian penggunaan semula yang bermakna.
 
-**To proceed, the following is needed:**
-- **DrugBank ID mapping**: Resolve the `null` DrugBank ID (Diphenhydramine is DB01075 in DrugBank) to enable knowledge graph linkage
-- **Re-run TxGNN prediction**: Once the DrugBank mapping is established, re-execute the KG and DL prediction pipelines
-- **Populate NPRA license details**: Re-query the NPRA database to fill in authorization numbers, product names, dosage forms, and approved indication text for all 21 registrations
-- **Safety data collection**: Download and parse the package insert to extract key warnings, contraindications, and drug interactions
-- **MOA documentation**: Retrieve mechanism of action details from DrugBank (H1 receptor inverse agonist, anticholinergic properties)
+**Untuk meneruskan, perkara berikut diperlukan:**
+- **Pemetaan ID DrugBank**: Selesaikan ID DrugBank `null` (Diphenhydramine ialah DB01075 dalam DrugBank) untuk membolehkan penghubungan graf pengetahuan
+- **Jalankan semula ramalan TxGNN**: Setelah pemetaan DrugBank ditetapkan, jalankan semula saluran ramalan KG dan DL
+- **Isi butiran lesen NPRA**: Tanyakan semula pangkalan data NPRA untuk mengisi nombor kelulusan, nama produk, bentuk dos, dan teks indikasi yang diluluskan untuk semua 21 pendaftaran
+- **Pengumpulan data keselamatan**: Muat turun dan analisis sisipan pakej untuk mengekstrak amaran utama, kontraindikasi, dan interaksi ubat
+- **Dokumentasi MOA**: Ambil butiran mekanisme tindakan daripada DrugBank (antagonis terbalik reseptor H1, sifat antikolin)
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

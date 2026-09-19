@@ -29,75 +29,76 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Capmatinib: From NSCLC (MET Exon 14 Skipping) to Rheumatoid Arthritis
+# Capmatinib: Dari NSCLC (Pemangkasan Exon 14 MET) ke Radang Sendi Reumatoid
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Capmatinib is a selective MET (c-Met/HGF receptor) tyrosine kinase inhibitor originally approved for non-small cell lung cancer (NSCLC) harboring MET exon 14 skipping mutations.
-The TxGNN model predicts it may be effective for **Rheumatoid Arthritis**, but this direction is currently supported only by **0 clinical trials** and **1 indirectly related publication** (a general kinase-inhibitor review, not RA-specific).
+Capmatinib ialah perencat tirosin kinase MET (reseptor c-Met/HGF) selektif yang pada asalnya diluluskan untuk kanser paru-paru sel bukan kecil (NSCLC) yang membawa mutasi pemangkasan exon 14 MET.
+Model TxGNN meramalkan ia mungkin berkesan untuk **Radang Sendi Reumatoid**, tetapi arah ini pada masa kini disokong hanya oleh **0 ujian klinikal** dan **1 penerbitan yang tidak langsung berkaitan** (ulasan perencat kinase umum, bukan khusus RA).
 
-## Quick Overview
+## Gambaran Keseluruhan Cepat
 
-| Item | Content |
-|------|------|
-| Original Indication | NSCLC with MET exon 14 skipping mutation (derived from mechanism description; TFDA/NPRA license indication text not available in current data pull) |
-| Predicted New Indication | Rheumatoid Arthritis |
-| TxGNN Prediction Score | 99.45% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | NSCLC dengan mutasi pemangkasan exon 14 MET (diperoleh daripada penerangan mekanisme; teks indikasi lesen TFDA/NPRA tidak tersedia dalam tarikan data semasa) |
+| Indikasi Baru yang Diprakirakan | Radang Sendi Reumatoid |
+| Skor Ramalan TxGNN | 99.45% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 2 |
+| Keputusan Yang Disyorkan | Tunggu |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Masuk Akal?
 
-Detailed DrugBank mechanism-of-action data for capmatinib is currently a data gap (DG002). Based on the available mechanistic description, capmatinib is a selective MET (c-Met/HGF receptor) tyrosine kinase inhibitor, approved for NSCLC driven by MET exon 14 skipping mutations.
+Data mekanisme tindakan DrugBank yang terperinci untuk capmatinib pada masa kini merupakan jurang data (DG002). Berdasarkan penerangan mekanisme yang tersedia, capmatinib ialah perencat tirosin kinase MET (reseptor c-Met/HGF) selektif yang diluluskan untuk NSCLC yang didorong oleh mutasi pemangkasan exon 14 MET.
 
-The c-Met/HGF signaling pathway has been discussed in preclinical literature as playing a potential role in rheumatoid arthritis synovial fibroblast proliferation and pannus (invasive synovial tissue) formation. This offers a theoretical, mechanism-level rationale for exploring MET inhibition in RA.
+Laluan isyarat c-Met/HGF telah dibincangkan dalam kesusasteraan pra-klinikal sebagai memainkan peranan yang berpotensi dalam proliferasi fibroblas sinovial radang sendi reumatoid dan pembentukan pannus (tisu sinovial invasif). Ini menawarkan rasional teori peringkat mekanisme untuk meneroka perencatan MET dalam RA.
 
-However, this link is a class-level inference — it applies broadly to kinase inhibitors with MET activity rather than being derived from capmatinib-specific data. No clinical trials, case reports, or capmatinib-specific preclinical studies in RA currently exist to support this prediction; it originates from the TxGNN model score alone.
+Walau bagaimanapun, pautan ini ialah inferens peringkat kelas — ia terpakai secara luas kepada perencat kinase dengan aktiviti MET dan bukannya diperoleh daripada data khusus capmatinib. Tiada ujian klinikal, laporan kes, atau kajian pra-klinikal khusus capmatinib dalam RA kini wujud untuk menyokong ramalan ini; ia berasal daripada skor model TxGNN semata-mata.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-Currently no related clinical trials registered
+Pada masa kini tiada ujian klinikal berkaitan yang didaftarkan
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [33513356](https://pubmed.ncbi.nlm.nih.gov/33513356/) | 2021 | Review | Pharmacological Research | General review of FDA-approved protein kinase inhibitors (2021 update); mentions capmatinib within the broader kinase-inhibitor class but does not address rheumatoid arthritis specifically |
+| [33513356](https://pubmed.ncbi.nlm.nih.gov/33513356/) | 2021 | Ulasan | Pharmacological Research | Ulasan umum perencat protein kinase yang diluluskan FDA (kemas kini 2021); menyebut capmatinib dalam kelas perencat kinase yang lebih luas tetapi tidak menangani radang sendi reumatoid secara khusus |
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-NPRA records show **2 registered licenses** for capmatinib (market status: Marketed), but license number, product name, dosage form, and approved indication text are not available in the current data pull.
+Rekod NPRA menunjukkan **2 lesen berdaftar** untuk capmatinib (status pasaran: Dipasarkan), tetapi nombor lesen, nama produk, bentuk dos, dan teks indikasi yang diluluskan tidak tersedia dalam tarikan data semasa.
 
-## Cytotoxicity
+## Sitotoksisitas
 
-| Item | Content |
-|------|------|
-| Cytotoxicity Classification | Targeted therapy (selective MET/c-Met tyrosine kinase inhibitor) |
-| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
-| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | Please refer to the package insert warnings and precautions |
-| Handling Protection | Please refer to the package insert warnings and precautions |
+| Item | Kandungan |
+|------|----------|
+| Klasifikasi Sitotoksisitas | Terapi tersasaran (perencat tirosin kinase MET/c-Met selektif) |
+| Risiko Penindasan Sumsum Tulang | Sila rujuk amaran dan pencegahan lembaran maklumat |
+| Klasifikasi Emetik | Sila rujuk amaran dan pencegahan lembaran maklumat |
+| Item Pemantauan | Sila rujuk amaran dan pencegahan lembaran maklumat |
+| Perlindungan Pengendalian | Sila rujuk amaran dan pencegahan lembaran maklumat |
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk lembaran maklumat untuk maklumat keselamatan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tunggu**
 
-**Rationale:**
-The prediction rests solely on a TxGNN model score (L5, Stage S0) with no capmatinib-specific clinical, case-report, or preclinical evidence for rheumatoid arthritis — only a class-level mechanistic hypothesis. A blocking data gap (DG001: TFDA/NPRA label warnings and contraindications) also prevents any S1 safety pre-assessment.
+**Rasional:**
+Ramalan ini beristirahat semata-mata pada skor model TxGNN (L5, Peringkat S0) tanpa bukti klinikal, laporan kes, atau pra-klinikal khusus capmatinib untuk radang sendi reumatoid — hanya hipotesis mekanisme peringkat kelas. Jurang data yang menyekat (DG001: amaran dan kontraindikasi label TFDA/NPRA) juga menghalang sebarang pra-penilaian keselamatan S1.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA product label (warnings, contraindications) to clear the S1 safety gate (DG001, blocking)
-- Confirmed DrugBank mechanism-of-action record for capmatinib (DG002)
-- Capmatinib-specific preclinical or case-level evidence linking MET inhibition to RA disease activity
-- Complete license/product details (name, dosage form, indication text) for the 2 Malaysia registrations
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Label produk TFDA/NPRA (amaran, kontraindikasi) untuk meluluskan pintu keselamatan S1 (DG001, menyekat)
+- Rekod mekanisme tindakan DrugBank yang disahkan untuk capmatinib (DG002)
+- Bukti pra-klinikal atau peringkat kes khusus capmatinib yang menghubungkan perencatan MET kepada aktiviti penyakit RA
+- Butiran lesen/produk lengkap (nama, bentuk dos, teks indikasi) untuk 2 pendaftaran Malaysia
 
-*Note: A second candidate, brachydactyly-syndactyly syndrome (TxGNN score 99.03%), was also screened for capmatinib but excluded from this report — no known biological mechanism connects MET inhibition to this congenital limb malformation syndrome, and no supporting trials or literature exist.*
+*Nota: Calon kedua, sindrom bradidaktili-sindaktili (skor TxGNN 99.03%), juga disaring untuk capmatinib tetapi dikecualikan daripada laporan ini — tiada mekanisme biologi yang diketahui menghubungkan perencatan MET kepada sindrom kelainan anggota badan kongenital ini, dan tiada ujian atau kesusasteraan yang menyokong.*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

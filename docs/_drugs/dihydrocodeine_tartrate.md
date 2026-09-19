@@ -29,86 +29,87 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Dihydrocodeine Tartrate: Drug Repurposing Evaluation
+# Dihydrocodeine Tartrate: Penilaian Tujuan Baru Ubat
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Dihydrocodeine Tartrate is a semi-synthetic opioid derivative, currently marketed in Malaysia with 3 registered products. The TxGNN model **has not generated any predicted new indications** for this drug, and the evidence pack contains significant data gaps in regulatory details, mechanism of action, and safety information, precluding a meaningful repurposing assessment at this time.
+Dihydrocodeine Tartrate ialah terbitan opioid separa sintetik yang kini dipasarkan di Malaysia dengan 3 produk berdaftar. Model TxGNN **belum menjana sebarang indikasi baru yang diramalkan** untuk ubat ini, dan pakej bukti mengandungi jurang data yang signifikan dalam butiran kawal selia, mekanisme tindakan, dan maklumat keselamatan, yang menghalang penilaian penemuan semula kegunaan yang bermakna pada masa ini.
 
 ---
 
-## Quick Overview
+## Gambaran Keseluruhan Cepat
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | (Registration details unavailable — see Data Gaps below) |
-| Predicted New Indication | **None** — no TxGNN predictions available |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 (No predictions or supporting studies) |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 3 |
-| Recommended Decision | **Hold** |
+| Indikasi Asal | (Butiran pendaftaran tidak tersedia — lihat Jurang Data di bawah) |
+| Indikasi Baru yang Diramalkan | **Tiada** — tiada ramalan TxGNN tersedia |
+| Skor Ramalan TxGNN | T/A |
+| Tahap Bukti | L5 (Tiada ramalan atau kajian sokongan) |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 3 |
+| Keputusan yang Disyorkan | **Tahan** |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-There is **no TxGNN prediction to evaluate** for Dihydrocodeine Tartrate at this time. The predicted indications list is empty, meaning the model either did not identify a viable repurposing candidate or the drug could not be mapped to the knowledge graph (no DrugBank ID was resolved in the evidence pack).
+**Tiada ramalan TxGNN untuk dinilai** untuk Dihydrocodeine Tartrate pada masa ini. Senarai indikasi yang diramalkan adalah kosong, bermakna model sama ada tidak mengenal pasti calon penemuan semula kegunaan yang berdaya maju atau ubat tidak dapat dipetakan ke dalam graf pengetahuan (tiada ID DrugBank telah diselesaikan dalam pakej bukti).
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on general pharmacological knowledge, Dihydrocodeine is a semi-synthetic opioid analgesic structurally related to codeine. It acts primarily as a μ-opioid receptor agonist and is typically used for moderate pain relief and as an antitussive (cough suppressant). Without a confirmed DrugBank mapping and TxGNN knowledge graph linkage, the model cannot generate repurposing predictions.
+Pada masa ini, data mekanisme tindakan yang terperinci tidak tersedia dalam pakej bukti ini. Berdasarkan pengetahuan farmakologi umum, Dihydrocodeine ialah agonis analgesik opioid separa sintetik yang berkaitan secara struktur dengan kodein. Ia bertindak terutamanya sebagai agonis reseptor μ-opioid dan biasanya digunakan untuk pelepasan rasa sakit sederhana dan sebagai antitusif (perencat batuk). Tanpa pemetaan DrugBank yang disahkan dan pautan graf pengetahuan TxGNN, model tidak dapat menjana ramalan penemuan semula kegunaan.
 
-Before any repurposing analysis can proceed, the foundational data gaps — particularly the DrugBank ID mapping and mechanism of action — must be resolved.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered (no predicted indication to query against).
+Sebelum sebarang analisis penemuan semula kegunaan dapat diteruskan, jurang data asas — khususnya pemetaan ID DrugBank dan mekanisme tindakan — mesti diselesaikan.
 
 ---
 
-## Literature Evidence
+## Bukti Uji Klinik
 
-Currently no related literature available (no predicted indication to query against).
+Pada masa ini tiada ujian klinik yang berkaitan berdaftar (tiada indikasi yang diramalkan untuk disoalkan).
 
 ---
 
-## Malaysia Market Information
+## Bukti Kesusasteraan
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+Pada masa ini tiada kesusasteraan yang berkaitan tersedia (tiada indikasi yang diramalkan untuk disoalkan).
+
+---
+
+## Maklumat Pasaran Malaysia
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
 |------|------|------|------|
-| (unavailable) | (unavailable) | (unavailable) | (unavailable) |
-| (unavailable) | (unavailable) | (unavailable) | (unavailable) |
-| (unavailable) | (unavailable) | (unavailable) | (unavailable) |
+| (tidak tersedia) | (tidak tersedia) | (tidak tersedia) | (tidak tersedia) |
+| (tidak tersedia) | (tidak tersedia) | (tidak tersedia) | (tidak tersedia) |
+| (tidak tersedia) | (tidak tersedia) | (tidak tersedia) | (tidak tersedia) |
 
-> **Note:** 3 registrations were confirmed via NPRA query (2026-03-27), but detailed licence information (product names, dosage forms, approved indications) was not populated in the evidence pack. This data needs to be re-collected from the NPRA database.
-
----
-
-## Safety Considerations
-
-> Please refer to the package insert for safety information. The current evidence pack does not contain resolved warnings, contraindications, or drug interaction data for Dihydrocodeine Tartrate. As an opioid analgesic, standard opioid precautions (respiratory depression, dependence potential, CNS depression with concurrent sedatives) should be assumed pending formal data collection.
+> **Nota:** 3 pendaftaran telah disahkan melalui pertanyaan NPRA (2026-03-27), tetapi maklumat lesen terperinci (nama produk, bentuk dos, indikasi yang diluluskan) tidak diisi dalam pakej bukti. Data ini perlu dikumpul semula dari pangkalan data NPRA.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
-
-**Rationale:**
-No TxGNN repurposing predictions exist for Dihydrocodeine Tartrate, and multiple critical data gaps (DrugBank ID, MOA, regulatory details, safety profile) prevent any meaningful evaluation. The candidate cannot advance without foundational data.
-
-**To proceed, the following is needed:**
-
-1. **Resolve DrugBank ID mapping** — Query DrugBank for "Dihydrocodeine" (DB01955 is the expected ID) and confirm the knowledge graph linkage
-2. **Retrieve mechanism of action (MOA)** from DrugBank or primary pharmacology references
-3. **Re-collect NPRA registration details** — Licence numbers, product names, dosage forms, and approved indication text for all 3 registrations
-4. **Collect safety data** — Package insert warnings, contraindications, and drug-drug interactions (particularly CNS depressants, MAOIs, and CYP2D6 inhibitors)
-5. **Re-run TxGNN prediction pipeline** once DrugBank mapping is established, to determine if viable repurposing candidates emerge
+> Sila rujuk sisipan pakej untuk maklumat keselamatan. Pakej bukti semasa tidak mengandungi amaran yang diselesaikan, kontraindikasi, atau data interaksi ubat untuk Dihydrocodeine Tartrate. Sebagai analgesik opioid, langkah berjaga-jaga opioid standard (depresi pernafasan, potensi kebergantungan, depresi SSP dengan sedatif serentak) perlu diandaikan sambil menunggu pengumpulan data formal.
 
 ---
 
-*This report is for research reference only and does not constitute medical advice. Any drug repurposing candidates require clinical validation before application.*
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Tiada ramalan penemuan semula kegunaan TxGNN wujud untuk Dihydrocodeine Tartrate, dan pelbagai jurang data kritikal (ID DrugBank, MOA, butiran kawal selia, profil keselamatan) menghalang sebarang penilaian yang bermakna. Calon tidak dapat maju tanpa data asas.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+
+1. **Selesaikan pemetaan ID DrugBank** — Soalkan DrugBank untuk "Dihydrocodeine" (DB01955 ialah ID yang dijangkakan) dan sahkan pautan graf pengetahuan
+2. **Ambil mekanisme tindakan (MOA)** daripada DrugBank atau rujukan farmakologi utama
+3. **Kumpul semula butiran pendaftaran NPRA** — Nombor lesen, nama produk, bentuk dos, dan teks indikasi yang diluluskan untuk semua 3 pendaftaran
+4. **Kumpul data keselamatan** — Amaran sisipan pakej, kontraindikasi, dan interaksi ubat-ubatan (terutamanya perencat SSP, MAOIs, dan perencat CYP2D6)
+5. **Jalankan semula saluran ramalan TxGNN** apabila pemetaan DrugBank telah ditetapkan, untuk menentukan sama ada calon penemuan semula kegunaan yang berdaya maju muncul
+
+---
+
+*Laporan ini adalah untuk rujukan penyelidikan sahaja dan tidak membentuk nasihat perubatan. Sebarang calon penemuan semula kegunaan ubat memerlukan pengesahan klinis sebelum aplikasi.*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

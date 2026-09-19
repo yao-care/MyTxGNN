@@ -29,90 +29,91 @@ Tahap bukti: **L5** | Indikasi diramal: **7**
 
 </div>
 
-# Cladribine: From Lymphoid Malignancies to Parameningeal Embryonal Rhabdomyosarcoma
+# Cladribine: Daripada Keganasan Limfoid ke Rabdomiosarkoma Embrional Parameningeal
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Cladribine is a purine nucleoside analog with established clinical use in hairy cell leukemia, chronic lymphocytic leukemia, and multiple sclerosis. The TxGNN model predicts it may be effective for **parameningeal embryonal rhabdomyosarcoma**, but this prediction is currently supported by **0 clinical trials** and **0 publications** — it rests entirely on the model's statistical association score.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not specified in NPRA license data; known clinical use (per evidence pack rationale) includes hairy cell leukemia, CLL, and multiple sclerosis |
-| Predicted New Indication | Parameningeal embryonal rhabdomyosarcoma |
-| TxGNN Prediction Score | 99.77% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
-| Recommended Decision | Hold |
+Cladribine adalah analog nukleosida purin dengan kegunaan klinis yang telah ditubuhkan dalam leukemia sel berbulu, leukemia limfositik kronik, dan multiple sclerosis. Model TxGNN meramalkan ia mungkin berkesan untuk **rabdomiosarkoma embrional parameningeal**, tetapi ramalan ini kini disokong oleh **0 percubaan klinis** dan **0 penerbitan** — ia bergantung sepenuhnya pada skor perkaitan statistik model.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Cepat
 
-Currently, detailed mechanism of action data is not available in structured form (marked as a data gap). Based on information embedded in the evidence pack's own rationale, cladribine is a deoxyadenosine analog that, after phosphorylation by deoxycytidine kinase, accumulates preferentially in cells with high DCK/low 5'-nucleotidase activity — primarily lymphocytes and monocytes. This underlies its established clinical use in lymphoid malignancies (hairy cell leukemia, CLL) and multiple sclerosis.
-
-Rhabdomyosarcoma, by contrast, is a tumor of skeletal-muscle lineage typically driven by PAX3/7-FOXO1 fusion genes or RAS-pathway alterations. There is no known biological overlap between cladribine's lymphocyte-selective nucleoside-analog mechanism and rhabdomyosarcoma's driver pathways.
-
-The evidence pack itself is explicit that this prediction is a knowledge-graph statistical association rather than a mechanistically derived hypothesis: all seven predicted indications are rhabdomyosarcoma subtypes (plus one liver sarcoma) clustered at nearly identical TxGNN scores (0.9975–0.9977), with zero clinical trials, zero literature, and zero ICTRP records across every query performed. This pattern is more consistent with the model's disease-embedding neighborhood than with a targeted mechanistic signal.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Tidak ditentukan dalam data lesen NPRA; kegunaan klinis yang diketahui (mengikut rasional paket bukti) termasuk leukemia sel berbulu, CLL, dan multiple sclerosis |
+| Indikasi Baru yang Diramalkan | Rabdomiosarkoma embrional parameningeal |
+| Skor Ramalan TxGNN | 99.77% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 3 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available.
+Buat masa ini, data mekanisme tindakan terperinci tidak tersedia dalam bentuk berstruktur (ditandakan sebagai jurang data). Berdasarkan maklumat yang tertanam dalam rasional paket bukti itu sendiri, cladribine adalah analog deoksiadenina yang, selepas pengfosfatan oleh deoksisitidina kinase, mengumpul secara pilihan dalam sel dengan aktiviti DCK tinggi/5'-nukleotidase rendah — terutamanya limfosit dan monosit. Ini mendasari kegunaannya yang telah ditubuhkan dalam keganasan limfoid (leukemia sel berbulu, CLL) dan multiple sclerosis.
 
----
+Rabdomiosarkoma, sebaliknya, adalah tumor daripada keturunan otot rangka yang biasanya didorong oleh gen fusion PAX3/7-FOXO1 atau perubahan laluan RAS. Tidak ada pertindihan biologi yang diketahui antara mekanisme analog nukleosida terpilih limfosit cladribine dan laluan pemandu rabdomiosarkoma.
 
-## Malaysia Market Information
-
-NPRA records confirm cladribine has **3 marketed registrations** in Malaysia (market status: Marketed / Marketed). However, the evidence pack does not include the specific license numbers, product names, dosage forms, or approved-indication text for these registrations — these fields were returned empty from the source query and require follow-up retrieval from NPRA.
+Paket bukti itu sendiri adalah jelas bahawa ramalan ini adalah perkaitan statistik dalam graf-pengetahuan dan bukannya hipotesis yang diterima secara mekanik: semua tujuh indikasi yang diramalkan adalah subtip rabdomiosarkoma (ditambah satu sarkoma hati) yang berkelompok pada skor TxGNN yang hampir sama (0.9975–0.9977), dengan sifar percubaan klinis, sifar sastera, dan sifar rekod ICTRP di semua pertanyaan yang dilakukan. Corak ini lebih konsisten dengan kawasan terdekat penyakit dalam model daripada dengan isyarat mekanistik yang sebenarnya.
 
 ---
 
-## Cytotoxicity
+## Bukti Percubaan Klinis
 
-Cladribine's known clinical use (hairy cell leukemia, CLL) places it in the antineoplastic/cytotoxic category.
-
-| Item | Content |
-|------|------|
-| Cytotoxicity Classification | Conventional cytotoxic (purine nucleoside analog / antimetabolite) |
-| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
-| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | Please refer to the package insert warnings and precautions |
-| Handling Protection | Please refer to the package insert warnings and precautions |
+Pada masa ini tiada percubaan klinis berkaitan yang berdaftar.
 
 ---
 
-## Safety Considerations
+## Bukti Sastera
 
-Please refer to the package insert for safety information.
-
-*Note: NPRA label warnings/contraindications for this drug are marked as a **Blocking** data gap (DG001) in the source evidence pack — this data must be obtained before any safety assessment can proceed.*
+Pada masa ini tiada sastera berkaitan yang tersedia.
 
 ---
 
-## Conclusion and Next Steps
+## Maklumat Pasaran Malaysia
 
-**Decision: Hold**
+Rekod NPRA mengesahkan cladribine mempunyai **3 pendaftaran yang dipasarkan** di Malaysia (status pasaran: Dipasarkan / Dipasarkan). Bagaimanapun, paket bukti tidak termasuk nombor lesen tertentu, nama produk, bentuk dos, atau teks indikasi yang diluluskan untuk pendaftaran ini — bidang ini dikembalikan kosong daripada pertanyaan sumber dan memerlukan pengambilan susulan daripada NPRA.
 
-**Rationale:**
-The prediction is supported only by a TxGNN model score (L5, no clinical or literature evidence across any of the 7 candidate indications), and a blocking data gap in NPRA label safety information prevents even an initial safety screen. There is no mechanistic, clinical, or preclinical basis currently on file linking cladribine to rhabdomyosarcoma.
+---
 
-**To proceed, the following is needed:**
-- NPRA label warnings/contraindications (DG001, Blocking) — required before any S1 safety review
-- Confirmed mechanism of action from DrugBank (DG002, High) — required to assess mechanistic plausibility
-- Preclinical or case-level evidence specifically linking cladribine to rhabdomyosarcoma or related sarcoma pathways
-- Complete NPRA license details (product names, dosage forms, approved indication text) for the 3 existing registrations
+## Sitotoksisiti
+
+Kegunaan klinis cladribine yang diketahui (leukemia sel berbulu, CLL) menempatkannya dalam kategori antineoplastik/sitotoksik.
+
+| Item | Kandungan |
+|------|----------|
+| Klasifikasi Sitotoksisiti | Sitotoksik konvensional (analog nukleosida purin / antimetabolit) |
+| Risiko Penindasan Sumsum Tulang | Sila rujuk amaran dan langkah-langkah berjaga dalam risalah pakej |
+| Klasifikasi Emetogenisiti | Sila rujuk amaran dan langkah-langkah berjaga dalam risalah pakej |
+| Item Pemantauan | Sila rujuk amaran dan langkah-langkah berjaga dalam risalah pakej |
+| Perlindungan Pengendalian | Sila rujuk amaran dan langkah-langkah berjaga dalam risalah pakej |
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk risalah pakej untuk maklumat keselamatan.
+
+*Nota: Amaran label NPRA/kontraindikasi untuk ubat ini ditandakan sebagai jurang data yang **Menghalang** (DG001) dalam paket bukti sumber — data ini mesti diperolehi sebelum sebarang penilaian keselamatan dapat diteruskan.*
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Nisbah:**
+Ramalan ini hanya disokong oleh skor model TxGNN (L5, tiada bukti klinis atau sastera di semua 7 indikasi calon), dan jurang data yang menghalang dalam maklumat keselamatan label NPRA menghalang bahkan skrin keselamatan awal. Pada masa ini tidak ada asas mekanistik, klinis, atau pra-klinis dalam fail yang menghubungkan cladribine kepada rabdomiosarkoma.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Amaran label NPRA/kontraindikasi (DG001, Menghalang) — diperlukan sebelum sebarang semakan keselamatan S1
+- Mekanisme tindakan yang disahkan daripada DrugBank (DG002, Tinggi) — diperlukan untuk menilai kemungkinan mekanistik
+- Bukti pra-klinis atau peringkat kes yang secara khusus menghubungkan cladribine kepada rabdomiosarkoma atau laluan sarkoma berkaitan
+- Butiran lesen NPRA yang lengkap (nama produk, bentuk dos, teks indikasi yang diluluskan) untuk 3 pendaftaran sedia ada
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

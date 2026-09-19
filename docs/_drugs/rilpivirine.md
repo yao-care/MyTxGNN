@@ -29,95 +29,96 @@ Tahap bukti: **L3** | Indikasi diramal: **5**
 
 </div>
 
-# Rilpivirine: From HIV-1 Infection to Congenital Human Immunodeficiency Virus
+# Rilpivirine: Daripada Jangkitan HIV-1 kepada Virus Immunodefisiensi Manusia Bawaan Lahir
 
-*Note: This Evidence Pack contains 5 TxGNN-predicted indications for rilpivirine. Indications #1 (feline AIDS), #2 (simian immunodeficiency virus), and #3 (a rare pediatric neurodevelopmental disorder) are non-human or unsupported by any mechanistic or clinical evidence (Evidence Level L4-L5, "Hold"). Indication #5 ("AIDS related complex") is, per the pack's own rationale, an obsolete synonym for the existing HIV-1 label rather than a true new indication. This report therefore focuses on the candidate with the most substantive, human-relevant, and actionable evidence: **congenital/perinatal HIV** (mother-to-child transmission prevention).*
-
----
-
-## One-Sentence Summary
-
-Rilpivirine is a non-nucleoside reverse transcriptase inhibitor (NNRTI) established for HIV-1 treatment in adults, most notably as part of the long-acting cabotegravir/rilpivirine (CAB/RPV) regimen. TxGNN predicts a signal for **congenital human immunodeficiency virus** (perinatal transmission prevention), a population-extension use rather than a new mechanism, currently supported by **28 clinical trial records** (several directly involving pregnant or pediatric HIV populations) and **5 publications**, including one systematic review and two cohort studies.
+*Nota: Pakej Bukti ini mengandungi 5 petunjuk yang diramalkan oleh TxGNN untuk rilpivirine. Petunjuk #1 (AIDS kucing), #2 (virus immunodefisiensi simpai), dan #3 (gangguan neurodevelopmental pediatri jarang) adalah bukan manusia atau tidak disokong oleh sebarang bukti mekanistik atau klinikal (Tahap Bukti L4-L5, "Tunggu"). Petunjuk #5 ("kompleks yang berkaitan dengan AIDS") adalah, mengikut rasional pakej sendiri, sinonim usang untuk label HIV-1 yang sedia ada bukannya petunjuk sebenar yang baru. Laporan ini oleh itu menumpukan pada calon dengan bukti yang paling substantif, relevan pada manusia, dan boleh bertindak: **HIV bawaan lahir/perinatal** (pencegahan penghantaran daripada ibu ke anak).*
 
 ---
 
-## Quick Overview
+## Ringkasan Satu Ayat
 
-| Item | Content |
-|------|------|
-| Original Indication | HIV-1 infection (NNRTI-based antiretroviral therapy) — Malaysia NPRA license text is not populated in current records; this is drawn from the drug's established pharmacology as referenced throughout the evidence pack |
-| Predicted New Indication | Congenital Human Immunodeficiency Virus (perinatal/mother-to-child transmission prevention) |
-| TxGNN Prediction Score | 99.56% |
-| Evidence Level | L3 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Proceed with Guardrails |
+Rilpivirine adalah inhibitor reverse transcriptase bukan nukleosida (NNRTI) yang telah ditetapkan untuk rawatan HIV-1 pada dewasa, paling terkenal sebagai sebahagian daripada rejimen cabotegravir/rilpivirine (CAB/RPV) jangka panjang. TxGNN meramalkan isyarat untuk **virus immunodefisiensi manusia bawaan lahir** (pencegahan penghantaran perinatal), suatu penggunaan yang merupakan perluasan populasi bukannya mekanisme baru, kini disokong oleh **28 rekod ujian klinikal** (beberapa secara langsung melibatkan populasi hamil atau pediatrik HIV) dan **5 penerbitan**, termasuk satu ulasan sistematik dan dua kajian kohort.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Tinjauan Ringkas
 
-Currently, detailed mechanism of action data is not available. Based on known information, rilpivirine is an NNRTI, most often used clinically as part of the long-acting cabotegravir + rilpivirine (CAB/RPV) two-drug regimen; its efficacy in HIV-1 infection has been proven in adults, and mechanistically the same antiretroviral action may be applicable to preventing vertical (mother-to-child) transmission.
-
-This predicted indication is not a novel pharmacological hypothesis — it is a population extension of an already-approved use. The clinical question is not "does rilpivirine work against HIV," but "what is the safety and pharmacokinetic profile of rilpivirine (and CAB/RPV) when used by pregnant women and their infants." Existing case reports and cohort data show that RPV plasma concentrations drop 70–75% during pregnancy compared to non-pregnant individuals, while cabotegravir levels remain comparable — raising a real pharmacokinetic concern about whether standard bimonthly long-acting dosing is adequate throughout pregnancy, even though no virologic failure or vertical transmission has been reported in published cases to date.
-
-Because the underlying antiviral mechanism is unchanged, the repurposing rationale is mechanistically sound; the open questions are pharmacokinetic adequacy and safety in pregnancy/infancy, not efficacy against HIV itself.
+| Item | Kandungan |
+|------|---------|
+| Petunjuk Asli | Jangkitan HIV-1 (terapi antiretroviral berasaskan NNRTI) — teks lesen NPRA Malaysia tidak diisi dalam rekod semasa; ini diambil daripada farmakologi ubat yang telah ditetapkan seperti yang dirujuk di seluruh pakej bukti |
+| Petunjuk Baru yang Diramalkan | Virus Immunodefisiensi Manusia Bawaan Lahir (pencegahan penghantaran daripada ibu ke anak/perinatal) |
+| Skor Ramalan TxGNN | 99.56% |
+| Tahap Bukti | L3 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | Teruskan dengan Penjaga |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Pada masa kini, data mekanisme tindakan terperinci tidak tersedia. Berdasarkan maklumat yang diketahui, rilpivirine adalah suatu NNRTI, paling kerap digunakan secara klinikal sebagai sebahagian daripada rejimen dua ubat jangka panjang cabotegravir + rilpivirine (CAB/RPV); kesan berkesannya dalam jangkitan HIV-1 telah terbukti pada dewasa, dan secara mekanistik tindakan antiretroviral yang sama mungkin boleh digunakan untuk mencegah penghantaran menegak (daripada ibu ke anak).
+
+Petunjuk yang diramalkan ini bukanlah hipotesis farmakologi baru — ia adalah perluasan populasi penggunaan yang sudah diluluskan. Soalan klinikal bukanlah "adakah rilpivirine bekerja terhadap HIV," tetapi "apakah profil keselamatan dan farmakokinetik rilpivirine (dan CAB/RPV) apabila digunakan oleh wanita hamil dan bayi mereka." Data laporan kes sedia ada dan kohort menunjukkan bahawa kepekatan plasma RPV turun 70–75% semasa kehamilan dibandingkan dengan individu yang tidak hamil, manakala aras cabotegravir kekal sebanding — menimbulkan kebimbangan farmakokinetik nyata sama ada dos jangka panjang bibulan standard mencukupi sepanjang kehamilan, walaupun tiada kegagalan virologi atau penghantaran menegak telah dilaporkan dalam kes yang diterbitkan sehingga kini.
+
+Oleh kerana mekanisme antivirus asas tidak berubah, rasional penjajakan semula adalah sah secara mekanistik; soalan terbuka adalah kecukupan farmakokinetik dan keselamatan dalam kehamilan/masa bayi, bukan kesan ke atas HIV itu sendiri.
+
+---
+
+## Bukti Ujian Klinikal
+
+| Nombor Ujian | Fasa | Status | Jumlah Peserta | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT07412977](https://clinicaltrials.gov/study/NCT07412977) | N/A | Not yet recruiting | 5,160 | VIROPREG: French prospective cohort assessing impact of viral infections (incl. HIV) and antiviral treatment during pregnancy on maternal/child outcomes |
-| [NCT00855335](https://clinicaltrials.gov/study/NCT00855335) | Phase 3 | Completed | 77 | Single-arm PK study of darunavir/ritonavir, etravirine, and rilpivirine in HIV-1-infected pregnant women |
-| [NCT00042289](https://clinicaltrials.gov/study/NCT00042289) | N/A | Completed | 1,578 | IMPAACT P1026s: prospective PK study of antiretrovirals (incl. rilpivirine-containing regimens) in pregnant and postpartum women |
-| [NCT03497676](https://clinicaltrials.gov/study/NCT03497676) | Phase 1/2 | Completed | 168 | Safety, acceptability, tolerability and PK of oral and long-acting CAB/RPV in virologically suppressed children and adolescents with HIV |
-| [NCT02494986](https://clinicaltrials.gov/study/NCT02494986) | Phase 2 | Active, not recruiting | 48 | Open-label rollover providing continued rilpivirine access to participants from pediatric rilpivirine trials |
-| [NCT03299049](https://clinicaltrials.gov/study/NCT03299049) | Phase 3 | Active, not recruiting | 1,049 | ATLAS-2M: non-inferiority of CAB LA + RPV LA dosed every 8 vs. every 4 weeks in virologically suppressed adults |
-| [NCT02422797](https://clinicaltrials.gov/study/NCT02422797) | Phase 3 | Completed | 518 | Switch to dolutegravir + rilpivirine two-drug regimen in virologically suppressed HIV-1 adults |
-| [NCT02951052](https://clinicaltrials.gov/study/NCT02951052) | Phase 3 | Active, not recruiting | 618 | ATLAS: switch to long-acting IM CAB + RPV in virologically suppressed HIV-1 adults |
+| [NCT07412977](https://clinicaltrials.gov/study/NCT07412977) | N/A | Belum lagi merekrut | 5,160 | VIROPREG: Kohort prospektif Perancis menilai kesan jangkitan virus (termasuk HIV) dan rawatan antivirus semasa kehamilan terhadap hasil ibu dan anak |
+| [NCT00855335](https://clinicaltrials.gov/study/NCT00855335) | Fasa 3 | Selesai | 77 | Kajian farmakokinetik satu lengan darunavir/ritonavir, etravirine, dan rilpivirine pada wanita hamil yang berjangkit HIV-1 |
+| [NCT00042289](https://clinicaltrials.gov/study/NCT00042289) | N/A | Selesai | 1,578 | IMPAACT P1026s: kajian farmakokinetik prospektif antiretroviral (termasuk rejimen mengandungi rilpivirine) pada wanita hamil dan selepas melahirkan |
+| [NCT03497676](https://clinicaltrials.gov/study/NCT03497676) | Fasa 1/2 | Selesai | 168 | Keselamatan, kebolehteraan, ketoleransian dan farmakokinetik CAB/RPV lisan dan jangka panjang pada anak-anak dan remaja dengan HIV yang tertekan virologi |
+| [NCT02494986](https://clinicaltrials.gov/study/NCT02494986) | Fasa 2 | Aktif, tidak merekrut | 48 | Sambungan terbuka menyediakan akses rilpivirine yang berterusan kepada peserta dari ujian rilpivirine pediatrik |
+| [NCT03299049](https://clinicaltrials.gov/study/NCT03299049) | Fasa 3 | Aktif, tidak merekrut | 1,049 | ATLAS-2M: ketiadaan inferioritas CAB LA + RPV LA yang didoskan setiap 8 berbanding setiap 4 minggu pada dewasa yang tertekan virologi |
+| [NCT02422797](https://clinicaltrials.gov/study/NCT02422797) | Fasa 3 | Selesai | 518 | Beralih kepada rejimen dua ubat dolutegravir + rilpivirine pada dewasa HIV-1 yang tertekan virologi |
+| [NCT02951052](https://clinicaltrials.gov/study/NCT02951052) | Fasa 3 | Aktif, tidak merekrut | 618 | ATLAS: beralih kepada CAB jangka panjang IM + RPV pada dewasa HIV-1 yang tertekan virologi |
 
-*18 additional trial records exist in the underlying dataset (mostly adult HIV-1 CAB/RPV efficacy, PK, and implementation studies); the above 8 are prioritized for direct relevance to pregnant, perinatal, or pediatric populations.*
+*18 rekod ujian tambahan wujud dalam set data asas (kebanyakannya rawatan HIV-1 dewasa CAB/RPV, farmakokinetik, dan kajian pelaksanaan); 8 yang di atas diprioritaskan untuk relevansi langsung kepada populasi hamil, perinatal, atau pediatrik.*
 
 ---
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [41225339](https://pubmed.ncbi.nlm.nih.gov/41225339/) | 2025 | Systematic Review/Meta-analysis | BMC Infectious Diseases | Systematic review of cabotegravir safety in pregnancy; long-acting IM formulation may help address adherence gaps in PrEP/PEP settings |
-| [36411596](https://pubmed.ncbi.nlm.nih.gov/36411596/) | 2023 | Cohort | HIV Medicine | Pregnancy outcomes and PK washout data in women living with HIV exposed to CAB + RPV in clinical trials |
-| [38864586](https://pubmed.ncbi.nlm.nih.gov/38864586/) | 2024 | Cohort | AIDS (London, England) | US cohort study of first-trimester exposure to newer antiretrovirals (incl. rilpivirine) and congenital anomaly rates |
-| [38703388](https://pubmed.ncbi.nlm.nih.gov/38703388/) | 2024 | Case Report | Clinical Infectious Diseases | Bimonthly CAB/RPV in a pregnant woman; RPV levels 70-75% lower than non-pregnant, no virologic failure or transmission, but dosing may be inadequate throughout pregnancy |
-| [41268510](https://pubmed.ncbi.nlm.nih.gov/41268510/) | 2025 | Case Report | Case Reports in Infectious Diseases | Case of viral suppression maintained on CAB/RPV every 2 months throughout pregnancy, with literature review |
+| [41225339](https://pubmed.ncbi.nlm.nih.gov/41225339/) | 2025 | Ulasan Sistematik/Meta-analisis | BMC Infectious Diseases | Ulasan sistematik keselamatan cabotegravir semasa kehamilan; formulasi IM jangka panjang mungkin membantu mengatasi jurang kepatuhan dalam tetapan PrEP/PEP |
+| [36411596](https://pubmed.ncbi.nlm.nih.gov/36411596/) | 2023 | Kohort | HIV Medicine | Hasil kehamilan dan data pencucian farmakokinetik pada wanita yang berjangkit HIV yang terdedah kepada CAB + RPV dalam ujian klinikal |
+| [38864586](https://pubmed.ncbi.nlm.nih.gov/38864586/) | 2024 | Kohort | AIDS (London, England) | Kajian kohort AS tentang pendedahan trimester pertama kepada antiretroviral yang lebih baru (termasuk rilpivirine) dan kadar anomali bawaan |
+| [38703388](https://pubmed.ncbi.nlm.nih.gov/38703388/) | 2024 | Laporan Kes | Clinical Infectious Diseases | CAB/RPV dua bulan pada wanita hamil; aras RPV 70-75% lebih rendah daripada tidak hamil, tiada kegagalan virologi atau penghantaran, tetapi dos mungkin tidak mencukupi sepanjang kehamilan |
+| [41268510](https://pubmed.ncbi.nlm.nih.gov/41268510/) | 2025 | Laporan Kes | Case Reports in Infectious Diseases | Kes penindasan virus yang dikekalkan pada CAB/RPV setiap 2 bulan sepanjang kehamilan, dengan ulasan kesusasteraan |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Malaysia NPRA records confirm rilpivirine holds **1 active registration** (market status: Marketed), but the underlying license record in this Evidence Pack does not contain populated fields for authorization number, product name, dosage form, or approved indication text — these details need to be pulled directly from the NPRA product register before market-specific labeling claims can be made.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
+Rekod NPRA Malaysia mengesahkan rilpivirine memegang **1 pendaftaran aktif** (status pasaran: Dipasarkan), tetapi rekod lesen asas dalam Pakej Bukti ini tidak mengandungi medan yang diisi untuk nombor kebenaran, nama produk, bentuk dos, atau teks petunjuk yang diluluskan — butiran ini perlu ditarik terus daripada daftar produk NPRA sebelum tuntutan pelabelan khusus pasaran boleh dibuat.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Proceed with Guardrails**
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-**Rationale:**
-The mechanism is not in question — rilpivirine's antiretroviral action in pregnant women and children is an extension of its approved adult HIV-1 use, not a new pharmacological hypothesis. However, evidence is currently observational (cohort studies, case reports, one systematic review) rather than randomized, and published data flag a real pharmacokinetic concern (reduced RPV exposure in pregnancy) that warrants dose/monitoring guardrails rather than an unrestricted "Go."
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert warnings and contraindications (currently a Blocking data gap — required before any S1 safety screen)
-- Confirmed mechanism-of-action documentation from DrugBank (currently a High-severity data gap)
-- Completed Malaysia NPRA license details (product name, dosage form, approved indication text)
-- Maturation of the ongoing VIROPREG cohort (NCT07412977, not yet recruiting) or an equivalent prospective efficacy/PK study specifically in the perinatal-prevention population, since no trial to date is designed to test this indication as a primary endpoint
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Teruskan dengan Penjaga**
+
+**Rasional:**
+Mekanisme tidak diragukan — tindakan antiretroviral rilpivirine pada wanita hamil dan anak-anak adalah perluasan populasi penggunaan HIV-1 dewasa yang diluluskan, bukan hipotesis farmakologi baru. Walau bagaimanapun, bukti pada masa kini adalah berasaskan pemerhatian (kajian kohort, laporan kes, satu ulasan sistematik) bukannya daripada ujian rawak, dan data yang diterbitkan menandai kebimbangan farmakokinetik sebenar (pendedahan RPV yang dikurangkan semasa kehamilan) yang memerlukan penjaga dos/pemantauan bukannya "Ya" tanpa had.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Amaran sisipan pakej TFDA/NPRA dan kontraindikasi (pada masa kini jurang data yang menghalang — diperlukan sebelum sebarang skrin keselamatan S1)
+- Dokumentasi mekanisme tindakan yang disahkan daripada DrugBank (pada masa kini jurang data keterukan tinggi)
+- Butiran lesen NPRA Malaysia yang selesai (nama produk, bentuk dos, teks petunjuk yang diluluskan)
+- Kematangan kohort VIROPREG yang sedang berjalan (NCT07412977, belum lagi merekrut) atau kajian kecekapan/farmakokinetik prospektif setara secara khusus dalam populasi pencegahan perinatal, kerana tiada ujian sehingga ini dirancang untuk menguji petunjuk ini sebagai titik akhir utama
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,83 +29,84 @@ Tahap bukti: **L4** | Indikasi diramal: **7**
 
 </div>
 
-# Desmopressin: From Original Indication (Not Extracted) to Congenital Prothrombin Deficiency
+# Desmopressin: Dari Indikasi Asal (Tidak Diekstrak) ke Kekurangan Protrombin Kongenital
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Desmopressin (DrugBank DB00035) is a registered drug in Taiwan (7 TFDA licenses, market status "Marketed"), though its labeled original indication text was not captured in this data extract. The TxGNN model's top-ranked prediction is efficacy in **congenital prothrombin deficiency**, but the supporting evidence — **1 clinical trial** (studying a different drug, emicizumab) and **4 publications** (none specifically addressing this disease) — does not substantiate the mechanistic pairing, and the evidence pack itself flags this as a likely **evidence mismatch**.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not available — TFDA license indication text was not extracted for any of the 7 registrations (Data Gap DG001) |
-| Predicted New Indication | Congenital Prothrombin Deficiency |
-| TxGNN Prediction Score | 99.70% |
-| Evidence Level | L4 |
-| Malaysia Market Status (TFDA/Taiwan data) | ✓ Marketed (Marketed) |
-| Number of Registrations | 7 |
-| Recommended Decision | Hold |
+Desmopressin (DrugBank DB00035) ialah ubat terdaftar di Taiwan (7 lesen TFDA, status pasaran "Dipasarkan"), walaupun teks indikasi asal yang berlabel tidak ditangkap dalam ekstrak data ini. Ramalan teratas model TxGNN ialah keberkesanan dalam **kekurangan protrombin kongenital**, tetapi bukti yang menyokong — **1 uji klinis** (mengkaji ubat yang berbeza, emicizumab) dan **4 penerbitan** (tidak ada yang secara khusus menangani penyakit ini) — tidak membuktikan pasangan mekanik, dan pakej bukti itu sendiri menandainya sebagai kemungkinan **ketidakpadanan bukti**.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Panduan Pantas
 
-Detailed mechanism-of-action data for desmopressin is not available in the source record (`original_moa` is a flagged Data Gap, DG002). However, the evidence pack's own literature-derived rationale consistently describes desmopressin's established pharmacology: it is a vasopressin V2-receptor agonist that triggers release of endogenous von Willebrand factor (vWF) and Factor VIII from endothelial Weibel-Palade bodies, and enhances platelet adhesion. This mechanism underlies its accepted (including off-label) use in mild hemophilia A, von Willebrand disease, and certain platelet-release disorders — a pattern reflected across the literature attached to several of the other predicted indications in this evidence pack (e.g. PMID 36656570, PMID 21509710).
-
-For congenital prothrombin (Factor II) deficiency specifically, this mechanism does not apply: prothrombin synthesis and activity are unrelated to the vWF/Factor VIII release pathway that desmopressin acts on. Consistent with this, the attached clinical trial (NCT04567511) studies emicizumab — not desmopressin — for mild hemophilia A, and the four literature citations concern acquired hemophilia A, combined Factor V/VIII deficiency, and general rational treatment of bleeding disorders, none of which directly address prothrombin deficiency. The evidence pack itself characterizes this as an "evidence mismatch": a high TxGNN score without a coherent mechanistic or clinical basis.
-
-Two other candidates in this same evaluation batch show materially stronger alignment and may warrant separate follow-up: **primary release disorder of platelets** (rank 4, evidence level L3, decision stage S2, recommendation "Proceed with Guardrails") and **Glanzmann thrombasthenia** (rank 3, evidence level L3, decision stage S1, "Research Question"), both of which are directly supported by mechanism-relevant literature on desmopressin's known bleeding-time-shortening effects.
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Tidak tersedia — teks indikasi lesen TFDA tidak diekstrak untuk mana-mana 7 pendaftaran (Jurang Data DG001) |
+| Indikasi Baru yang Diramalkan | Kekurangan Protrombin Kongenital |
+| Skor Ramalan TxGNN | 99.70% |
+| Tahap Bukti | L4 |
+| Status Pasaran Malaysia (data TFDA/Taiwan) | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 7 |
+| Keputusan yang Disyorkan | Tangguh |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Masuk Akal?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Data mekanisme tindakan terperinci untuk desmopressin tidak tersedia dalam rekod sumber (`original_moa` adalah Jurang Data yang ditandai, DG002). Bagaimanapun, rasional yang diperoleh daripada literatur pakej bukti itu sendiri secara konsisten menerangkan farmakologi desmopressin yang telah ditetapkan: ia adalah agonis reseptor vasopressin V2 yang mencetuskan pelepasan faktor von Willebrand endogen (vWF) dan Faktor VIII daripada badan Weibel-Palade endotel, dan meningkatkan perlekatan platelet. Mekanisme ini mendasari penggunaannya yang diterima (termasuk penggunaan di luar label) dalam hemofilia A ringan, penyakit von Willebrand, dan gangguan pelepasan platelet tertentu — pola yang tercermin dalam literatur yang dilampirkan pada beberapa indikasi lain yang diramalkan dalam pakej bukti ini (cth. PMID 36656570, PMID 21509710).
+
+Untuk kekurangan protrombin (Faktor II) kongenital khususnya, mekanisme ini tidak terpakai: sintesis dan aktiviti protrombin tidak berkaitan dengan laluan pelepasan vWF/Faktor VIII yang desmopressin bertindak. Konsisten dengan ini, uji klinis yang dilampirkan (NCT04567511) mengkaji emicizumab — bukan desmopressin — untuk hemofilia A ringan, dan empat petikan literatur menyangkut hemofilia A yang diperoleh, kekurangan Faktor V/VIII gabungan, dan rawatan rasional umum gangguan pendarahan, tidak ada satupun yang secara langsung menangani kekurangan protrombin. Pakej bukti itu sendiri mencirikan ini sebagai "ketidakpadanan bukti": skor TxGNN yang tinggi tanpa asas mekanik atau klinis yang koheren.
+
+Dua calon lain dalam kumpulan penilaian yang sama menunjukkan penjajaran yang lebih kuat secara material dan mungkin memerlukan susulan berasingan: **gangguan pelepasan primer platelet** (kedudukan 4, tahap bukti L3, peringkat keputusan S2, cadangan "Teruskan dengan Pengawalan") dan **trombasenia Glanzmann** (kedudukan 3, tahap bukti L3, peringkat keputusan S1, "Soalan Penyelidikan"), kedua-duanya disokong secara langsung oleh literatur yang relevan dengan mekanisme tentang kesan pemendekkan masa pendarahan desmopressin yang diketahui.
+
+---
+
+## Bukti Uji Klinis
+
+| Nombor Uji | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT04567511](https://clinicaltrials.gov/study/NCT04567511) | Phase 4 | Recruiting | 20 | Studies Hemlibra (emicizumab) — not desmopressin — in mild hemophilia A. Relevance graded **C** (low): different drug, different indication than congenital prothrombin deficiency. |
+| [NCT04567511](https://clinicaltrials.gov/study/NCT04567511) | Fasa 4 | Merekrut | 20 | Mengkaji Hemlibra (emicizumab) — bukan desmopressin — dalam hemofilia A ringan. Perkaitan dinilai **C** (rendah): ubat yang berbeza, indikasi yang berbeza daripada kekurangan protrombin kongenital. |
 
 ---
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [21115138](https://pubmed.ncbi.nlm.nih.gov/21115138/) | 2011 | Review | Autoimmunity Reviews | Diagnosis, aetiology, and treatment of acquired hemophilia A — not prothrombin deficiency. |
-| [7684674](https://pubmed.ncbi.nlm.nih.gov/7684674/) | 1993 | Review | Drugs | Rational treatment options for congenital bleeding disorders generally (hemophilia A, von Willebrand disease). |
-| [1942544](https://pubmed.ncbi.nlm.nih.gov/1942544/) | 1991 | Case Report | Rinsho Ketsueki | Cesarean section management with Factor VIII replacement in combined Factor V/VIII deficiency — not prothrombin deficiency. |
-| [2607619](https://pubmed.ncbi.nlm.nih.gov/2607619/) | 1989 | Case Report | Rinsho Ketsueki | DDAVP administration in combined Factor V/VIII deficiency — not prothrombin deficiency. |
+| [21115138](https://pubmed.ncbi.nlm.nih.gov/21115138/) | 2011 | Ulasan | Autoimmunity Reviews | Diagnosis, etiologi, dan rawatan hemofilia A yang diperoleh — bukan kekurangan protrombin. |
+| [7684674](https://pubmed.ncbi.nlm.nih.gov/7684674/) | 1993 | Ulasan | Drugs | Pilihan rawatan rasional untuk gangguan pendarahan kongenital secara umum (hemofilia A, penyakit von Willebrand). |
+| [1942544](https://pubmed.ncbi.nlm.nih.gov/1942544/) | 1991 | Laporan Kes | Rinsho Ketsueki | Pengurusan seksyen kaisar dengan penggantian Faktor VIII dalam kekurangan Faktor V/VIII gabungan — bukan kekurangan protrombin. |
+| [2607619](https://pubmed.ncbi.nlm.nih.gov/2607619/) | 1989 | Laporan Kes | Rinsho Ketsueki | Pentadbiran DDAVP dalam kekurangan Faktor V/VIII gabungan — bukan kekurangan protrombin. |
 
-None of the above literature directly studies desmopressin in congenital prothrombin deficiency.
-
----
-
-## Malaysia Market Information
-
-License-level detail (authorization number, product name, dosage form, indication text) was not captured for any of the 7 TFDA registrations in this data extract — only the aggregate count and market status ("Marketed") are available. Per Data Gap DG001, resolving this requires downloading and parsing the TFDA label PDFs directly.
+Tidak ada literatur di atas yang secara langsung mengkaji desmopressin dalam kekurangan protrombin kongenital.
 
 ---
 
-## Safety Considerations
+## Maklumat Pasaran Malaysia
 
-Please refer to the package insert for safety information. Note: TFDA label warnings and contraindications for desmopressin were not available in this extract (Data Gap DG001, severity: Blocking) — this gap currently prevents the candidate from entering the S1 safety-evaluation stage.
+Butiran peringkat lesen (nombor kebenaran, nama produk, bentuk dos, teks indikasi) tidak ditangkap untuk mana-mana 7 pendaftaran TFDA dalam ekstrak data ini — hanya kiraan agregat dan status pasaran ("Dipasarkan") tersedia. Menurut Jurang Data DG001, menyelesaikan ini memerlukan memuat turun dan menganalisis PDF label TFDA secara langsung.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila merujuk sisipan pakej untuk maklumat keselamatan. Nota: Amaran label TFDA dan kontraindikasi untuk desmopressin tidak tersedia dalam ekstrak ini (Jurang Data DG001, keterukan: Menyekat) — jurang ini pada masa kini menghalang calon daripada memasuki peringkat penilaian keselamatan S1.
 
-**Rationale:**
-The TxGNN score for congenital prothrombin deficiency is high, but the attached clinical trial and literature evidence do not address this drug-disease pairing, and the underlying mechanism (vWF/Factor VIII release) has no established link to prothrombin synthesis or activity. This is assessed as a likely evidence mismatch rather than a genuine repurposing signal.
+---
 
-**To proceed, the following is needed:**
-- TFDA label warnings/contraindications (DG001, Blocking) — required before any safety evaluation can begin
-- DrugBank mechanism-of-action detail (DG002) to confirm or rule out any indirect pathway to prothrombin deficiency
-- If this drug-disease pairing is to be pursued further, targeted literature/trial searches specific to desmopressin and Factor II deficiency (none currently exist in this pack)
-- Consider prioritizing review of the same batch's stronger candidates instead — **primary release disorder of platelets** (S2, "Proceed with Guardrails") and **Glanzmann thrombasthenia** (S1, "Research Question") — which have direct mechanistic and literature support
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tangguh**
+
+**Rasional:**
+Skor TxGNN untuk kekurangan protrombin kongenital adalah tinggi, tetapi uji klinis yang dilampirkan dan bukti literatur tidak menangani pasangan ubat-penyakit ini, dan mekanisme yang mendasar (pelepasan vWF/Faktor VIII) tidak mempunyai sambungan yang ditetapkan dengan sintesis atau aktiviti protrombin. Ini dinilai sebagai ketidakpadanan bukti yang mungkin daripada isyarat penyusunan semula yang tulen.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Amaran label TFDA/kontraindikasi (DG001, Menyekat) — diperlukan sebelum sebarang penilaian keselamatan boleh dimulai
+- Butiran mekanisme tindakan DrugBank (DG002) untuk mengesahkan atau menolak mana-mana laluan tidak langsung kepada kekurangan protrombin
+- Jika pasangan ubat-penyakit ini akan diikuti lebih lanjut, carian literatur/uji yang disasarkan khusus untuk desmopressin dan kekurangan Faktor II (tidak ada yang wujud dalam pakej ini)
+- Pertimbangkan untuk mengutamakan semakan calon yang lebih kuat dalam kumpulan yang sama — **gangguan pelepasan primer platelet** (S2, "Teruskan dengan Pengawalan") dan **trombasenia Glanzmann** (S1, "Soalan Penyelidikan") — yang mempunyai sokongan mekanik dan literatur langsung
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

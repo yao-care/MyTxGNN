@@ -29,95 +29,96 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-# Celecoxib: From NSAID Pain/Inflammation Management to Osteoarthritis (Already-Approved Use — Not a Novel Indication)
+# Celecoxib: Dari Pengurusan Kesakitan/Keradangan NSAID kepada Osteoartritis (Kegunaan yang Sudah Diluluskan — Bukan Petunjuk Baharu)
 
-## One-Sentence Summary
+## Ringkasan dalam Satu Ayat
 
-Celecoxib is a selective COX-2 inhibitor already marketed for pain and inflammation control; the TxGNN model's top output for this candidate is **Osteoarthritis**, but the evidence pack's own rationale confirms this is celecoxib's existing, long-approved indication rather than a genuine repurposing hypothesis. **50 clinical trials** and **20 publications** exist for celecoxib in osteoarthritis, but this volume reflects decades of label-confirming research, not new-use discovery — the model appears to have re-surfaced a known indication rather than found a repurposing signal.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not extractable from source records (all 5 TFDA/NPRA license entries returned empty `approved_indication_text`); per the evidence pack's own rationale, celecoxib is already indicated for osteoarthritis, rheumatoid arthritis, and ankylosing spondylitis pain/inflammation |
-| Predicted New Indication | Osteoarthritis |
-| TxGNN Prediction Score | 0.00% |
-| Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 22 |
-| Recommended Decision | Hold |
+Celecoxib adalah perencat COX-2 pilihan yang sudah dipasarkan untuk kawalan kesakitan dan keradangan; output teratas model TxGNN untuk calon ini adalah **Osteoartritis**, tetapi rationale dalam pakej bukti itu sendiri mengesahkan bahawa ini adalah indikasi yang sudah lama diluluskan celecoxib dan bukannya hipotesis penggunaan semula yang tulen. **50 ujian klinikal** dan **20 penerbitan** wujud untuk celecoxib dalam osteoartritis, tetapi volume ini mencerminkan penyelidikan pengesahan label selama beberapa dekad, bukan penemuan kegunaan baru — model itu kelihatannya telah membangkitkan kembali indikasi yang sudah diketahui daripada menemui isyarat penggunaan semula.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Ikhtisar Pantas
 
-Currently, detailed mechanism-of-action data for this candidate is flagged as a data gap (`original_moa: [Data Gap]`). Based on information embedded in the evidence pack's repurposing rationale, celecoxib is a selective COX-2 inhibitor that blocks prostaglandin synthesis to relieve joint inflammation and pain — the standard pharmacological mechanism underlying its use in osteoarthritis (OA), rheumatoid arthritis (RA), and ankylosing spondylitis (AS).
-
-However, the rationale text explicitly notes that this mechanistic link is **not a novel hypothesis**: "Celecoxib (Celebrex) is itself an FDA-approved OA drug; this represents an existing indication rather than a repurposing candidate." The same conclusion applies to the model's other four ranked outputs — rheumatoid arthritis and ankylosing spondylitis are also existing, guideline-recommended celecoxib indications, while "spondyloarthropathy, susceptibility to" and "osteoarthritis susceptibility" are GWAS/OMIM genetic-susceptibility entries, not treatable clinical disease entities, and carry only weak, largely coincidental literature support (case reports, unrelated cohort studies).
-
-In short: the abundance of clinical and literature evidence here confirms celecoxib's established efficacy in OA/RA/AS, but it does not support a new-use repurposing claim. This candidate should likely be flagged for exclusion from the active repurposing pipeline rather than advanced.
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Tidak boleh diekstrak dari rekod sumber (kesemua 5 entri lesen TFDA/NPRA mengembalikan `approved_indication_text` kosong); mengikut rationale dalam pakej bukti itu sendiri, celecoxib sudah ditunjukkan untuk kesakitan/keradangan osteoartritis, arthritis rheumatoid, dan spondilitis ankilosis |
+| Indikasi Diramal | Osteoartritis |
+| Skor Ramalan TxGNN | 0.00% |
+| Tahap Bukti | L1 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 22 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Pada masa ini, data mekanisme tindakan yang terperinci untuk calon ini ditandai sebagai jurang data (`original_moa: [Data Gap]`). Berdasarkan maklumat yang tertanam dalam rationale penggunaan semula pakej bukti, celecoxib adalah perencat COX-2 pilihan yang menyekat sintesis prostaglandin untuk melegakan keradangan dan kesakitan sendi — mekanisme farmakoloji piawai yang mendasari kegunaannya dalam osteoartritis (OA), arthritis rheumatoid (RA), dan spondilitis ankilosis (SA).
+
+Bagaimanapun, teks rationale dengan jelas menyatakan bahawa pautan mekanistik ini **bukan hipotesis baharu**: "Celecoxib (Celebrex) itu sendiri adalah ubat OA yang diluluskan FDA; ini mewakili indikasi yang sedia ada daripada calon penggunaan semula." Kesimpulan yang sama terpakai kepada empat output berpangkat lain model itu — arthritis rheumatoid dan spondilitis ankilosis juga merupakan indikasi celecoxib yang disyorkan garis panduan sedia ada, manakala "spondyloarthropathy, susceptibility to" dan "osteoarthritis susceptibility" adalah entri kerentanan genetik GWAS/OMIM, bukan entiti penyakit klinikal yang boleh dirawati, dan hanya mempunyai sokongan literatur yang lemah dan sebahagian besarnya kebetulan (laporan kes, kajian kohort yang tidak berkaitan).
+
+Ringkasnya: kelimpahan bukti klinikal dan literatur di sini mengesahkan keberkesanan celecoxib yang ditubuhkan dalam OA/RA/SA, tetapi ia tidak menyokong tuntutan penggunaan semula baharu. Calon ini sepatutnya ditandai untuk pengecualian daripada saluran penggunaan semula aktif dan bukannya dimajukan.
+
+---
+
+## Bukti Ujian Klinikal
+
+| Nombor Ujian | Fasa | Status | Perekrutan | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT01554163](https://clinicaltrials.gov/study/NCT01554163) | Phase 3 | Completed | 239 | Etoricoxib 30 mg vs. celecoxib 200 mg in Korean OA patients — non-inferiority/safety comparison |
-| [NCT02528188](https://clinicaltrials.gov/study/NCT02528188) | Phase 3 | Completed | 3021 | Long-term tanezumab vs. NSAID (incl. celecoxib background) safety/efficacy in hip/knee OA |
-| [NCT00476034](https://clinicaltrials.gov/study/NCT00476034) | Phase 3 | Completed | 1312 | 39-week extension of core trial comparing lumiracoxib vs. celecoxib 200 mg in knee OA |
-| [NCT00373685](https://clinicaltrials.gov/study/NCT00373685) | Phase 4 | Completed | 8067 | GI-REASONS: GI safety of celecoxib vs. non-selective NSAIDs in OA patients |
-| [NCT00145301](https://clinicaltrials.gov/study/NCT00145301) | Phase 3 | Completed | 3036 | 52-week retention/safety/efficacy comparison of lumiracoxib doses vs. celecoxib 200 mg in OA |
-| [NCT00640627](https://clinicaltrials.gov/study/NCT00640627) | Phase 4 | Completed | 380 | Celebrex (celecoxib) vs. placebo in knee OA non-responsive to naproxen/ibuprofen |
-| [NCT00092768](https://clinicaltrials.gov/study/NCT00092768) | Phase 3 | Completed | 500 | Etoricoxib 30 mg vs. celecoxib 200 mg safety/efficacy in hip/knee OA |
-| [NCT00630929](https://clinicaltrials.gov/study/NCT00630929) | Phase 4 | Completed | 388 | Celebrex once-daily vs. ibuprofen three-times-daily vs. placebo in knee OA |
-| [NCT00581685](https://clinicaltrials.gov/study/NCT00581685) | Phase 3 | Completed | 31 | Celecoxib + pregabalin for post-total-hip-arthroplasty pain control |
-| [NCT00565500](https://clinicaltrials.gov/study/NCT00565500) | Phase 4 | Completed | 24 | Aspirin–celecoxib interaction study in OA patients with stable ischemic heart disease |
+| [NCT01554163](https://clinicaltrials.gov/study/NCT01554163) | Fasa 3 | Selesai | 239 | Etoricoxib 30 mg berbanding celecoxib 200 mg pada pesakit OA Korea — ujian ketidak-kurang-berkesanan dan keselamatan |
+| [NCT02528188](https://clinicaltrials.gov/study/NCT02528188) | Fasa 3 | Selesai | 3021 | Keselamatan dan keberkesanan jangka panjang tanezumab berbanding NSAID (termasuk latar belakang celecoxib) dalam OA pinggul/lutut |
+| [NCT00476034](https://clinicaltrials.gov/study/NCT00476034) | Fasa 3 | Selesai | 1312 | Sambungan selama 39 minggu ujian teras membandingkan lumiracoxib dengan celecoxib 200 mg dalam OA lutut |
+| [NCT00373685](https://clinicaltrials.gov/study/NCT00373685) | Fasa 4 | Selesai | 8067 | GI-REASONS: keselamatan gastrointestinal celecoxib berbanding NSAID tidak pilih-kasih pada pesakit OA |
+| [NCT00145301](https://clinicaltrials.gov/study/NCT00145301) | Fasa 3 | Selesai | 3036 | Perbandingan penahanan/keselamatan/keberkesanan 52 minggu dos lumiracoxib berbanding celecoxib 200 mg dalam OA |
+| [NCT00640627](https://clinicaltrials.gov/study/NCT00640627) | Fasa 4 | Selesai | 380 | Celebrex (celecoxib) berbanding plasebo dalam OA lutut yang tidak responsif terhadap naproxen/ibuprofen |
+| [NCT00092768](https://clinicaltrials.gov/study/NCT00092768) | Fasa 3 | Selesai | 500 | Etoricoxib 30 mg berbanding celecoxib 200 mg keselamatan/keberkesanan dalam OA pinggul/lutut |
+| [NCT00630929](https://clinicaltrials.gov/study/NCT00630929) | Fasa 4 | Selesai | 388 | Celebrex sekali sehari berbanding ibuprofen tiga kali sehari berbanding plasebo dalam OA lutut |
+| [NCT00581685](https://clinicaltrials.gov/study/NCT00581685) | Fasa 3 | Selesai | 31 | Celecoxib + pregabalin untuk kawalan kesakitan selepas arthroplasti sendi pinggul keseluruhan |
+| [NCT00565500](https://clinicaltrials.gov/study/NCT00565500) | Fasa 4 | Selesai | 24 | Kajian interaksi aspirin-celecoxib pada pesakit OA dengan penyakit jantung iskemik stabil |
 
 ---
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Kunci |
 |------|-----|------|------|---------|
-| [27196460](https://pubmed.ncbi.nlm.nih.gov/27196460/) | 2016 | Meta-Analysis | Medicine | Meta-analysis confirming efficacy and safety of celecoxib (COX-2 inhibitor) in osteoarthritis |
-| [16495392](https://pubmed.ncbi.nlm.nih.gov/16495392/) | 2006 | RCT | New England Journal of Medicine | GAIT trial — glucosamine/chondroitin vs. celecoxib-controlled arm for knee OA pain |
-| [34932581](https://pubmed.ncbi.nlm.nih.gov/34932581/) | 2021 | Systematic Review | PLoS One | Cardiovascular safety of celecoxib in RA and OA patients |
-| [30575881](https://pubmed.ncbi.nlm.nih.gov/30575881/) | 2018 | Systematic Review/Meta-analysis | JAMA | Long-term pain control across pharmacologic agents (incl. celecoxib) in knee OA |
-| [25560713](https://pubmed.ncbi.nlm.nih.gov/25560713/) | 2015 | Review/Network Meta-analysis | Annals of Internal Medicine | Comparative effectiveness of pharmacologic interventions for knee OA |
-| [28530031](https://pubmed.ncbi.nlm.nih.gov/28530031/) | 2017 | Cochrane Systematic Review | Cochrane Database of Systematic Reviews | "Celecoxib for osteoarthritis" — formal Cochrane review |
-| [25589511](https://pubmed.ncbi.nlm.nih.gov/25589511/) | 2016 | RCT | Annals of the Rheumatic Diseases | Non-inferiority trial: chondroitin+glucosamine vs. celecoxib for painful knee OA |
-| [26576862](https://pubmed.ncbi.nlm.nih.gov/26576862/) | 2015 | Meta-analysis | Scientific Reports | Effectiveness/safety of glucosamine, chondroitin, combination, or celecoxib in knee OA |
-| [10804043](https://pubmed.ncbi.nlm.nih.gov/10804043/) | 2000 | Review | Drugs | Foundational review of celecoxib use in OA, RA, and acute pain |
-| [22141388](https://pubmed.ncbi.nlm.nih.gov/22141388/) | 2011 | Review | Drugs | Celecoxib review covering OA, RA, and ankylosing spondylitis symptomatic relief |
+| [27196460](https://pubmed.ncbi.nlm.nih.gov/27196460/) | 2016 | Meta-Analisis | Medicine | Meta-analisis yang mengesahkan keberkesanan dan keselamatan celecoxib (perencat COX-2) dalam osteoartritis |
+| [16495392](https://pubmed.ncbi.nlm.nih.gov/16495392/) | 2006 | RCT | New England Journal of Medicine | Ujian GAIT — glukosamin/kondroitin berbanding lengan terkawal celecoxib untuk kesakitan OA lutut |
+| [34932581](https://pubmed.ncbi.nlm.nih.gov/34932581/) | 2021 | Ulasan Sistematik | PLoS One | Keselamatan kardiovaskular celecoxib pada pesakit RA dan OA |
+| [30575881](https://pubmed.ncbi.nlm.nih.gov/30575881/) | 2018 | Ulasan Sistematik/Meta-analisis | JAMA | Kawalan kesakitan jangka panjang merentasi agen farmakoloji (termasuk celecoxib) dalam OA lutut |
+| [25560713](https://pubmed.ncbi.nlm.nih.gov/25560713/) | 2015 | Ulasan/Meta-analisis Rangkaian | Annals of Internal Medicine | Keberkesanan perbandingan intervensi farmakoloji untuk OA lutut |
+| [28530031](https://pubmed.ncbi.nlm.nih.gov/28530031/) | 2017 | Ulasan Sistematik Cochrane | Cochrane Database of Systematic Reviews | "Celecoxib untuk osteoartritis" — ulasan sistematik rasmi Cochrane |
+| [25589511](https://pubmed.ncbi.nlm.nih.gov/25589511/) | 2016 | RCT | Annals of the Rheumatic Diseases | Ujian ketidak-kurang-berkesanan: kondroitin+glukosamin berbanding celecoxib untuk OA lutut yang menyakitkan |
+| [26576862](https://pubmed.ncbi.nlm.nih.gov/26576862/) | 2015 | Meta-analisis | Scientific Reports | Keberkesanan/keselamatan glukosamin, kondroitin, gabungan, atau celecoxib dalam OA lutut |
+| [10804043](https://pubmed.ncbi.nlm.nih.gov/10804043/) | 2000 | Ulasan | Drugs | Ulasan asas penggunaan celecoxib dalam OA, RA, dan kesakitan akut |
+| [22141388](https://pubmed.ncbi.nlm.nih.gov/22141388/) | 2011 | Ulasan | Drugs | Ulasan celecoxib meliputi OA, RA, dan spondilitis ankilosis pelepasan kesakitan simtomatik |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Individual license-level fields (authorization number, product name, dosage form, manufacturer, approved indication text) were all returned empty by the source query and cannot be tabulated. What is confirmed: **22 active registrations** are on file and the product's overall market status is **✓ Marketed** in Malaysia.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information. (Key warnings, contraindications, and drug-interaction data were all returned as data gaps in this evidence pack; the DDI query itself returned `not_found`.)
+Medan peringkat lesen individu (nombor kebenaran, nama produk, bentuk dos, pengilang, teks indikasi yang diluluskan) semuanya dikembalikan kosong oleh kueri sumber dan tidak boleh dijadualkan. Apa yang disahkan: **22 pendaftaran aktif** ada dalam fail dan status pasaran keseluruhan produk adalah **✓ Dipasarkan** di Malaysia.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila rujuk surat sisipan untuk maklumat keselamatan. (Data amaran kunci, kontraindikasi, dan data interaksi ubat semuanya dikembalikan sebagai jurang data dalam pakej bukti ini; pertanyaan DDI itu sendiri mengembalikan `not_found`.)
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
 
 **Rationale:**
-This candidate does not represent a genuine repurposing opportunity. The top-ranked prediction (osteoarthritis) and the third-ranked prediction (rheumatoid arthritis) are already-approved celecoxib indications, and the fifth-ranked prediction (ankylosing spondylitis) is also standard guideline-recommended use — the abundant clinical/literature evidence confirms existing efficacy rather than a new hypothesis. The two remaining candidates ("spondyloarthropathy, susceptibility to" and "osteoarthritis susceptibility") are genetic-susceptibility ontology entries, not treatable diseases, and are supported only by incidental case-report/cohort literature (Evidence Level L4, Decision Stage S0). All five entries in this evidence pack independently arrive at a "Hold" recommendation.
+Calon ini tidak mewakili peluang penggunaan semula yang tulen. Ramalan berpangkat teratas (osteoartritis) dan ramalan berpangkat ketiga (arthritis rheumatoid) adalah indikasi celecoxib yang sudah diluluskan, dan ramalan berpangkat kelima (spondilitis ankilosis) juga merupakan kegunaan garis panduan disyorkan piawai — bukti klinikal/literatur yang berlimpah mengesahkan keberkesanan sedia ada daripada hipotesis baharu. Dua calon yang tinggal ("spondyloarthropathy, susceptibility to" dan "osteoarthritis susceptibility") adalah entri ontologi kerentanan genetik, bukan penyakit yang boleh dirawati, dan disokong hanya oleh literatur laporan kes/kohort insidental (Tahap Bukti L4, Peringkat Keputusan S0). Kesemua lima entri dalam pakej bukti ini secara bebas tiba pada rekomendasi "Tahan".
 
-**To proceed, the following is needed:**
-- Recommend flagging candidate `TW-DB00482-multi` for exclusion from the active repurposing pipeline rather than advancing it, since no candidate here clears S1 (osteoarthritis/RA/AS are label overlap; the two susceptibility entries are non-actionable ontology artifacts)
-- If label-expansion or safety-monitoring work is pursued regardless, DG001 (TFDA/NPRA package-insert warnings and contraindications) is a **Blocking** gap and must be resolved before any S1 safety screening
-- DG002 (mechanism-of-action confirmation via DrugBank API) should be resolved to replace the rationale-text-derived MOA summary used in this report with a verified source
+**Untuk meneruskan, yang berikut diperlukan:**
+- Syorkan penandaan calon `TW-DB00482-multi` untuk pengecualian daripada saluran penggunaan semula aktif dan bukannya memajukannya, kerana tiada calon di sini yang melepasi S1 (osteoartritis/RA/SA adalah pertindihan label; dua entri kerentanan adalah artifak ontologi yang tidak boleh dilaksanakan)
+- Jika kerja pengembangan label atau pemantauan keselamatan dijalankan walau bagaimanapun, DG001 (amaran surat sisipan TFDA/NPRA dan kontraindikasi) adalah jurang yang **Menghalang** dan mesti diselesaikan sebelum sebarang pemeriksaan keselamatan S1
+- DG002 (pengesahan mekanisme tindakan melalui API DrugBank) sepatutnya diselesaikan untuk menggantikan ringkasan MOA yang diperoleh teks rationale yang digunakan dalam laporan ini dengan sumber yang disahkan
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,83 +29,84 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Pembrolizumab: From Advanced Malignancies (PD‑1 Immunotherapy) to Gingival Fibromatosis
+# Pembrolizumab: Dari Keganasan Lanjutan (Terapi Imun PD‑1) hingga Fibromatosis Gingival
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Pembrolizumab (DrugBank DB09037) is an anti‑PD‑1 immune checkpoint inhibitor used across multiple advanced malignancies; the specific NPRA/Malaysia-approved indication text was not captured in this evidence pack. The TxGNN model's top-ranked new-indication prediction is **Fibromatosis, Gingival** (a benign gum fibrous overgrowth), but this candidate has **zero supporting clinical trials and zero literature**, and the evidence pack's own mechanistic review finds no biological link to PD‑1 blockade — the high score most likely reflects graph-embedding noise rather than a genuine repurposing signal.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not extracted from Malaysia NPRA license text (data gap DG001/DG002); pembrolizumab is a PD‑1 checkpoint inhibitor used in advanced malignancies (melanoma, NSCLC, MSI‑H colorectal cancer, HNSCC, hepatocellular carcinoma, etc.) per drug class and cited literature |
-| Predicted New Indication | Fibromatosis, gingival |
-| TxGNN Prediction Score | 99.40% |
-| Evidence Level | L5 |
-| Malaysia Market Status | Marketed (Marketed) |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+Pembrolizumab (DrugBank DB09037) ialah inhibitor titik kontrol imun anti-PD‑1 yang digunakan merentas berbagai keganasan lanjutan; teks petunjuk yang diluluskan oleh NPRA/Malaysia yang khusus tidak ditangkap dalam bungkusan bukti ini. Ramalan petunjuk baru yang mendapat pangkat tertinggi oleh model TxGNN ialah **Fibromatosis Gingival** (pertumbuhan fibrosa gusi jinak), tetapi calon ini mempunyai **sifar ujian klinikal yang menyokong dan sifar literatur**, dan semakan mekanik bungkusan bukti sendiri tidak menemui sebarang pautan biologi kepada sekatan PD‑1 — skor tinggi kemungkinan besar mencerminkan hingar penglibatan graf daripada isyarat ubah ubatan sebenar.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Tinjauan Pantas
 
-Currently, detailed mechanism of action data is not available (DG002: Blocking gap on DrugBank MOA query). Based on known information, pembrolizumab is a humanized IgG4 monoclonal antibody that blocks the PD‑1 receptor, restoring T‑cell activity against tumor cells expressing PD‑L1; its efficacy in various advanced malignancies is well established mechanistically and in the wider literature referenced throughout this evidence pack.
-
-However, for this specific candidate, the prediction is **not reasonable**. Gingival fibromatosis is a benign, non‑neoplastic fibrous gum overgrowth disorder — it does not involve tumor neoantigen presentation, immune evasion, or any known PD‑1/PD‑L1 axis biology. The evidence pack's own rationale states explicitly: *"non-immune-evasion/neoantigen mechanism; no known biological connection to PD‑1 checkpoint blockade. The high TxGNN score likely reflects knowledge-graph proximity noise rather than an explainable mechanism."*
-
-No clinical trials or publications were retrieved linking pembrolizumab to gingival fibromatosis, further confirming this is a model-artifact prediction rather than a substantiated repurposing hypothesis.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Tidak diekstrak daripada teks lesen NPRA Malaysia (jurang data DG001/DG002); pembrolizumab ialah inhibitor titik kontrol PD‑1 yang digunakan dalam keganasan lanjutan (melanoma, NSCLC, kanser kolorektal MSI‑H, HNSCC, karsinoma hepatoselular, dsb.) mengikut kelas ubat dan literatur yang disebut |
+| Petunjuk Baru yang Diramalkan | Fibromatosis gingival |
+| Skor Ramalan TxGNN | 99.40% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available.
+Pada masa kini, data mekanisme tindakan terperinci tidak tersedia (DG002: Jurang penyekatan pada pertanyaan MOA DrugBank). Berdasarkan maklumat yang diketahui, pembrolizumab ialah antibodi monoklonal IgG4 yang dimanusiakan yang menyekat reseptor PD‑1, memulihkan aktiviti sel‑T terhadap sel tumor yang mengekspresikan PD‑L1; keberkesanannya dalam pelbagai keganasan lanjutan telah ditubuhkan dengan baik secara mekanik dan dalam literatur yang lebih luas yang dirujuk di seluruh bungkusan bukti ini.
 
----
+Bagaimanapun, untuk calon khusus ini, ramalan adalah **bukan munasabah**. Fibromatosis gingival ialah gangguan pertumbuhan gusi fibrosa jinak, bukan neoplastik — ia tidak melibatkan pembentangan neoantigen tumor, pengelakan imun, atau sebarang biologi paksi PD‑1/PD‑L1 yang diketahui. Rasional bungkusan bukti sendiri menyatakan secara jelas: *"mekanisme bukan-pengelakan-imun/neoantigen; tiada sambungan biologi yang diketahui kepada sekatan titik kontrol PD‑1. Skor TxGNN yang tinggi kemungkinan besar mencerminkan hingar kedekatan-graf pengetahuan daripada mekanisme yang boleh dijelaskan."*
 
-## Safety Considerations
-
-Please refer to the package insert for safety information. (No key warnings, contraindications, or drug-interaction data were retrieved for this candidate; DG001 flags this as a Blocking gap that prevents formal S1 safety screening.)
+Tiada ujian klinikal atau penerbitan yang diperoleh menghubungkan pembrolizumab kepada fibromatosis gingival, memastikan lagi bahawa ini ialah ramalan artifak model daripada hipotesis ubah ubatan yang terbukti.
 
 ---
 
-## Cytotoxicity
+## Bukti Ujian Klinikal
 
-Pembrolizumab is an antineoplastic agent (immune checkpoint inhibitor class, used across multiple malignancies per cited literature), so this section applies.
-
-| Item | Content |
-|------|------|
-| Cytotoxicity Classification | Immunotherapy (anti‑PD‑1 checkpoint inhibitor) — not a conventional cytotoxic chemotherapeutic |
-| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
-| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | Standard checkpoint‑inhibitor monitoring: CBC with differential, liver and renal function, thyroid/endocrine panel, and clinical surveillance for immune-related adverse events |
-| Handling Protection | Please refer to the package insert warnings and precautions; as a biologic monoclonal antibody it does not fall under conventional cytotoxic (chemotherapy) handling regulations, but institutional biologic-handling SOPs should apply |
+Pada masa kini tiada ujian klinikal berkaitan yang terdaftar.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Hold**
+Pada masa kini tiada literatur berkaitan yang tersedia.
 
-**Rationale:**
-- The rank‑1 candidate has an L5 evidence level (model prediction only), zero trials, zero literature, and an explicit negative mechanistic assessment already recorded in the evidence pack. Across all 10 candidates in this batch, scores are nearly indistinguishable (99.27%–99.40%), most evidence retrieved is either irrelevant (mismatched to unrelated benign/rare-disease ontology terms) or actually describes pembrolizumab's *existing* approved oncology indications rather than the predicted new one — none reach evidence level L1–L3.
-- DG001 (TFDA/NPRA warnings and contraindications, Blocking severity) means this candidate cannot yet clear S1 safety screening regardless of efficacy signal.
+---
 
-**To proceed, the following is needed:**
-- Resolve DG001 (Blocking): retrieve NPRA label warnings/contraindications before any S1 safety evaluation.
-- Resolve DG002 (High): confirm mechanism of action via DrugBank API to support/refute mechanistic plausibility claims.
-- Confirm the Malaysia-approved indication text (current license record is empty despite 1 registered product).
-- If a viable repurposing signal is the goal, consider re-examining rank 4 ("lung hilum carcinoma," L4/S1, "Research Question") instead — it is the only candidate in this batch with anatomically plausible NSCLC-adjacent biology, though its current literature is limited to adverse-event case reports rather than efficacy data.
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan bungkusan untuk maklumat keselamatan. (Tiada amaran utama, kontraindikasi, atau data interaksi ubat yang diperoleh untuk calon ini; DG001 menandai ini sebagai jurang Penyekatan yang mencegah saringan keselamatan S1 formal.)
+
+---
+
+## Toksisiti Sitotoksik
+
+Pembrolizumab ialah agen antineoplas (kelas inhibitor titik kontrol imun, digunakan merentas berbagai keganasan mengikut literatur yang disebut), jadi bahagian ini terpakai.
+
+| Item | Kandungan |
+|------|----------|
+| Klasifikasi Toksisiti Sitotoksik | Terapi Imun (inhibitor titik kontrol anti-PD‑1) — bukan agen kemoterapeutik sitotoksik konvensional |
+| Risiko Penekanan Sumsum Tulang | Sila rujuk amaran dan langkah berjaga-jaga sisipan bungkusan |
+| Klasifikasi Emetogenisiti | Sila rujuk amaran dan langkah berjaga-jaga sisipan bungkusan |
+| Perkara Pemantauan | Pemantauan inhibitor titik kontrol piawai: CBC dengan pembeza, fungsi hati dan ginjal, panel tiroid/endokrin, dan pengawasan klinikal untuk peristiwa buruk yang berkaitan imun |
+| Perlindungan Pengendalian | Sila rujuk amaran dan langkah berjaga-jaga sisipan bungkusan; kerana antibodi monoklonal biologi ia tidak termasuk dalam peraturan pengendalian kemoterapeutik sitotoksik (kemoterapeutik) konvensional, tetapi SOP pengendalian biologi institusi harus digunakan |
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+- Calon pangkat‑1 mempunyai tahap bukti L5 (ramalan model sahaja), sifar ujian, sifar literatur, dan penilaian mekanik negatif yang jelas sudah direkodkan dalam bungkusan bukti. Merentas semua 10 calon dalam kumpulan ini, skor hampir tidak dapat dibezakan (99.27%–99.40%), kebanyakan bukti yang diperoleh sama ada tidak berkaitan (tidak padanan kepada istilah ontologi penyakit jinak/jarang yang tidak berkaitan) atau sebenarnya menerangkan petunjuk onkologi yang diluluskan *sedia ada* pembrolizumab daripada yang diramalkan baharu — tiada mencapai tahap bukti L1–L3.
+- DG001 (amaran TFDA/NPRA dan kontraindikasi, keterukan Penyekatan) bermakna calon ini belum dapat melewati saringan keselamatan S1 tanpa mengira isyarat keberkesanan.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Selesaikan DG001 (Penyekatan): ambil amaran label NPRA/kontraindikasi sebelum sebarang penilaian keselamatan S1.
+- Selesaikan DG002 (Tinggi): sahkan mekanisme tindakan melalui API DrugBank untuk menyokong/menafikan tuntutan kebolehpercayaan mekanik.
+- Sahkan teks petunjuk yang diluluskan Malaysia (rekod lesen semasa kosong walaupun 1 produk terdaftar).
+- Jika isyarat ubah ubatan yang berdaya maju adalah tujuannya, pertimbangkan untuk memeriksa semula pangkat 4 ("karsinoma hilum paru-paru," L4/S1, "Soalan Penyelidikan") — ia ialah satu-satunya calon dalam kumpulan ini dengan biologi berdekatan NSCLC yang munasabah dari segi anatomi, walaupun literatur semasanya terhad kepada laporan kes peristiwa buruk daripada data keberkesanan.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

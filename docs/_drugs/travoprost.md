@@ -29,61 +29,62 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Travoprost: From Glaucoma/Ocular Hypertension to Visceral Calciphylaxis
+# Travoprost: Dari Glaucoma/Hipertensi Okular kepada Visceral Calciphylaxis
 
-## One-Sentence Summary
+## Ringkasan Satu Kalimat
 
-> Travoprost (DB00287) is a prostaglandin F2α analog whose established use is lowering intraocular pressure in glaucoma and ocular hypertension — though this specific regulatory dataset does not carry a populated indication text, so that original-use statement is based on public drug knowledge rather than the supplied license records. TxGNN's top-ranked prediction for this drug is **Visceral Calciphylaxis**, but this candidate currently has **zero clinical trials** and **zero supporting publications** — the prediction rests on the model score alone.
+> Travoprost (DB00287) adalah analog prostaglandin F2α yang kegunaannya yang terbukai adalah menurunkan tekanan intraokular dalam glaucoma dan hipertensi okular — meskipun set data peraturan khusus ini tidak mengandung teks indikasi yang terpopulasi, sehingga pernyataan penggunaan asli didasarkan pada pengetahuan obat publik daripada catatan lisensi yang disediakan. Prediksi peringkat teratas TxGNN untuk obat ini adalah **Visceral Calciphylaxis**, tetapi kandidat ini saat ini memiliki **nol uji klinis** dan **nol publikasi pendukung** — prediksi berpijak pada skor model saja.
 
-## Quick Overview
+## Gambaran Umum Cepat
 
-| Item | Content |
-|------|------|
-| Original Indication | Not captured in the supplied NPRA license records (all `approved_indication_text` fields are blank); publicly known as glaucoma / ocular hypertension (prostaglandin F2α / FP-receptor agonist) |
-| Predicted New Indication | Visceral Calciphylaxis |
-| TxGNN Prediction Score | 99.9998% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 4 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asli | Tidak ditangkap dalam catatan lisensi NPRA yang disediakan (semua bidang `approved_indication_text` kosong); secara publik dikenal sebagai glaucoma / hipertensi okular (prostaglandin F2α / agonis reseptor FP) |
+| Indikasi Baru yang Diprediksi | Visceral Calciphylaxis |
+| Skor Prediksi TxGNN | 99.9998% |
+| Tingkat Bukti | L5 |
+| Status Pasar Malaysia | ✓ Dipasarkan |
+| Jumlah Pendaftaran | 4 |
+| Keputusan yang Direkomendasikan | Tunda |
 
-## Why is This Prediction Reasonable?
+## Mengapa Prediksi Ini Masuk Akal?
 
-Currently, detailed mechanism of action data is not available (flagged as a High-severity data gap, DG002). Based on public information, travoprost is a topical prostaglandin F2α analog / FP-receptor agonist used to increase uveoscleral outflow and reduce intraocular pressure.
+Saat ini, data mekanisme kerja terperinci tidak tersedia (ditandai sebagai kesenjangan data tingkat tinggi, DG002). Berdasarkan informasi publik, travoprost adalah analog prostaglandin F2α topikal / agonis reseptor FP yang digunakan untuk meningkatkan aliran uveoskleral dan mengurangi tekanan intraokular.
 
-For this specific candidate, however, the evidence pack itself is explicit that no mechanistic bridge exists: visceral calciphylaxis is a small-vessel calcifying vasculopathy, and the pack notes "no known connection" between that pathology and travoprost's FP-receptor/IOP-lowering pathway. The prediction is therefore a pure statistical signal from TxGNN (rank 6, score ≈1.0) unsupported by any biological rationale, clinical trial, or literature — consistent with its L5/Hold classification.
+Untuk kandidat spesifik ini, bagaimanapun, paket bukti itu sendiri secara eksplisit menyatakan bahwa tidak ada jembatan mekanis yang ada: visceral calciphylaxis adalah vaskulopati kalsifikasi pembuluh kecil, dan paket mencatat "tidak ada koneksi yang diketahui" antara patologi itu dan jalur penurun FP-reseptor/IOP travoprost. Prediksi oleh karena itu adalah sinyal statistik murni dari TxGNN (peringkat 6, skor ≈1.0) yang tidak didukung oleh alasan biologis, uji klinis, atau literatur apa pun — konsisten dengan klasifikasi L5/Tunda-nya.
 
-It is worth noting that a lower-ranked candidate in the same pack, *vascular disease* (rank 5), has a more plausible — if still indirect — mechanistic thread: travoprost's well-documented ocular hyperemia (vasodilatory) side effect and 20 associated publications, though none of that literature studies systemic vascular disease directly. That candidate reached evidence level L4/S1 ("Research Question") and may warrant separate follow-up outside the scope of this report's primary candidate.
+Patut dicatat bahwa kandidat peringkat lebih rendah dalam paket yang sama, *penyakit vaskular* (peringkat 5), memiliki benang mekanis yang lebih masuk akal — meskipun masih tidak langsung: efek samping hiperemia okular travoprost yang terdokumentasi dengan baik (vasodilator) dan 20 publikasi terkait, meskipun tidak ada literatur itu yang mempelajari penyakit vaskular sistemik secara langsung. Kandidat itu mencapai tingkat bukti L4/S1 ("Pertanyaan Penelitian") dan mungkin layak mendapat tindak lanjut terpisah di luar cakupan kandidat utama laporan ini.
 
-## Clinical Trial Evidence
+## Bukti Uji Klinis
 
-Currently no related clinical trials registered
+Saat ini tidak ada uji klinis terkait yang terdaftar
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no related literature available
+Saat ini tidak ada literatur terkait yang tersedia
 
-## Malaysia Market Information
+## Informasi Pasar Malaysia
 
-Travoprost holds 4 active NPRA registrations ("Marketed" / Marketed), but the supplied dataset does not include populated license numbers, product names, dosage forms, or indication texts for any of the 4 entries — this level of detail was not captured in the current data pull and would need to be sourced directly from the NPRA product registry before market-facing use.
+Travoprost memiliki 4 pendaftaran NPRA aktif ("Dipasarkan"), tetapi set data yang disediakan tidak menyertakan nomor lisensi yang terpopulasi, nama produk, bentuk dosis, atau teks indikasi untuk salah satu dari 4 entri — tingkat detail ini tidak ditangkap dalam penarikan data saat ini dan perlu bersumber langsung dari daftar produk NPRA sebelum penggunaan yang menghadap pasar.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information. (Note: TFDA/NPRA package-insert warnings and contraindications are flagged as a **Blocking**-severity data gap in this evidence pack — see "To proceed" below — and no drug interaction records were found for travoprost in this query.)
+Silakan lihat sisipan paket untuk informasi keselamatan. (Catatan: Peringatan sisipan paket TFDA/NPRA dan kontraindikasi ditandai sebagai kesenjangan data tingkat penting dalam paket bukti ini — lihat "Untuk melanjutkan" di bawah — dan tidak ada catatan interaksi obat yang ditemukan untuk travoprost dalam kueri ini.)
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Selanjutnya
 
-**Decision: Hold**
+**Keputusan: Tunda**
 
-**Rationale:**
-The top-ranked prediction (visceral calciphylaxis) is supported only by an extremely high TxGNN score, with no clinical trials, no literature, and no established mechanistic link — the evidence pack's own rationale confirms this. Combined with a Blocking-severity safety data gap that prevents even a preliminary S1 safety screen, this candidate does not meet the bar to advance.
+**Alasan:**
+Prediksi peringkat teratas (visceral calciphylaxis) didukung hanya oleh skor TxGNN yang sangat tinggi, tanpa uji klinis, tanpa literatur, dan tanpa tautan mekanis yang terbentuk — rasionalisasi paket bukti itu sendiri mengkonfirmasi ini. Dikombinasikan dengan kesenjangan data keselamatan tingkat penting yang mencegah bahkan layar keselamatan S1 awal, kandidat ini tidak memenuhi standar untuk maju.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert data (warnings, contraindications) — currently a Blocking data gap (DG001)
-- Detailed mechanism of action data from DrugBank — currently a High-severity data gap (DG002)
-- Any preclinical or mechanistic studies linking FP-receptor agonism to vascular/soft-tissue calcification pathways, if this candidate is to be reconsidered
-- Complete license/product detail (number, product name, dosage form, indication text) for the 4 existing Malaysia registrations
-- If pursuing an alternative direction, consider prioritizing the *vascular disease* candidate (L4, 20 supporting publications) for a dedicated evaluation instead
+**Untuk melanjutkan, hal berikut diperlukan:**
+- Data sisipan paket TFDA/NPRA (peringatan, kontraindikasi) — saat ini kesenjangan data tingkat penting (DG001)
+- Data mekanisme kerja terperinci dari DrugBank — saat ini kesenjangan data tingkat tinggi (DG002)
+- Setiap studi preklinik atau mekanis yang menghubungkan agonis reseptor FP ke jalur kalsifikasi vaskular/jaringan lunak, jika kandidat ini akan dipertimbangkan kembali
+- Detail lisensi/produk lengkap (nomor, nama produk, bentuk dosis, teks indikasi) untuk 4 pendaftaran Malaysia yang ada
+- Jika mengejar arah alternatif, pertimbangkan untuk memprioritaskan kandidat *penyakit vaskular* (L4, 20 publikasi pendukung) untuk evaluasi khusus sebagai gantinya
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,91 +29,90 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-Using the provided report template, I'll assemble the Evaluation Report directly from the Evidence Pack (no additional tool calls or skills are needed for this — it's a pure data-to-narrative writing task).
+# Budesonide: Dari Terapi Kortikosteroid Inhalasi kepada Asma (Pengesahan Indikasi)
 
-# Budesonide: From Inhaled Corticosteroid Therapy to Asthma (Indication Confirmation)
+## Ringkasan Satu Ayat
 
-## One-Sentence Summary
+Budesonide ialah glukokortikoid sintetik yang bertindak secara tempatan dan telah dipasarkan di Malaysia sebagai kortikosteroid inhalasi/oral. Persatuan berpangkat teratas model TxGNN menunjukkan **Asma**, namun bukti dan rasional yang disediakan menunjukkan bahawa ini adalah **indikasi teras yang sudah dilulus** untuk Budesonide daripada kandidat penggunaan semula yang benar-benar baru, disokong oleh kira-kira **50 ujian klinis** dan **20 penerbitan** dalam set data yang mendasarinya (10 teratas daripada setiap satu ditunjukkan di bawah). Kandidat ini sebaiknya dibaca sebagai **isyarat pengesahan validasi** — laporan juga menandakan tempat persatuan berpangkat lain model (IBD, asma alergik, asma intrinsik, penyakit Crohn) terletak pada spektrum kenovelaan.
 
-Budesonide is a locally-acting synthetic glucocorticoid already marketed in Malaysia as an inhaled/oral corticosteroid. The TxGNN model's top-ranked association points to **Asthma**, but the evidence and rationale supplied indicate this is Budesonide's **already-approved core indication** rather than a genuinely novel repurposing candidate, supported by roughly **50 clinical trials** and **20 publications** in the underlying dataset (top 10 of each shown below). This candidate is best read as a **confirmatory validation signal** — the report also flags where the model's other four ranked associations (IBD, allergic asthma, intrinsic asthma, Crohn's disease) fall on the novelty spectrum.
+## Gambaran Cepat
 
-## Quick Overview
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Tidak dapat diekstrak daripada data lesen NPRA semasa (kesemua 5 rekod lesen sampel mempunyai medan `approved_indication_text` kosong). Budesonide ialah glukokortikoid yang dicirikan dengan baik dipasarkan untuk indikasi pernafasan (asma) dan gastrointestinal (IBD) secara global. |
+| Indikasi Baru Yang Diramalkan | Asma |
+| Skor Ramalan TxGNN | 0.00% *(lihat kaveat di bawah — nilai ini kelihatan sebagai pemegang tempat data daripada skor keyakinan sebenar, kerana ia dilaporkan sebagai 0.0 walaupun berada di kedudukan #1)* |
+| Tahap Bukti | L1 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 34 |
+| Keputusan Yang Disyorkan | Teruskan dengan Syarat Keselamatan |
 
-| Item | Content |
-|------|------|
-| Original Indication | Not extractable from the current NPRA license data (all 5 sampled license records have blank `approved_indication_text`). Budesonide is a well-characterized glucocorticoid marketed for respiratory (asthma) and gastrointestinal (IBD) indications globally. |
-| Predicted New Indication | Asthma |
-| TxGNN Prediction Score | 0.00% *(see caveat below — this value appears to be a data placeholder rather than a genuine confidence score, since it is reported as 0.0 despite being ranked #1)* |
-| Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 34 |
-| Recommended Decision | Proceed with Guardrails |
+## Mengapa Ramalan Ini Munasabah?
 
-## Why is This Prediction Reasonable?
+Pada masa ini, data mekanisme tindakan terperinci untuk Budesonide tidak tersedia dalam suapan DrugBank berstruktur (Jurang Data DG002). Berdasarkan farmakoloji yang diketahui, Budesonide ialah glukokortikoid sintetik tidak-terhalogen dengan potensi anti-radang tempatan yang tinggi dan metabolisme hepatik pelepasan pertama yang meluas, yang memberikan nisbah aktiviti tempatan-ke-sistemik yang menguntungkan. Sifat ini mendasari dua aplikasi klinis utamanya: penggunaan inhalasi/nebulasi untuk radang saluran udara (asma) dan formulasi oral atau rektal pelepasan pH/masa untuk radang gastrointestinal (penyakit Crohn, kolitis ulseratif, kolitis mikroskopik).
 
-Currently, detailed mechanism of action data for Budesonide is not available in the structured DrugBank feed (Data Gap DG002). Based on known pharmacology, Budesonide is a non-halogenated synthetic glucocorticoid with high topical anti-inflammatory potency and extensive first-pass hepatic metabolism, which gives it a favorable local-to-systemic activity ratio. This property underlies its two major clinical applications: inhaled/nebulized use for airway inflammation (asthma) and pH/time-release oral or rectal formulations for gastrointestinal inflammation (Crohn's disease, ulcerative colitis, microscopic colitis).
+Untuk kandidat berpangkat teratas dalam pak bukti ini, rasional mekanistik yang disediakan secara eksplisit menyatakan: *"Budesonide ialah ICS yang kuat dan bertindak secara tempatan yang menekan penyusupan eosinofil saluran udara, edema mukosa, dan pelepasan sitokin melalui reseptor glukokortikoid — ini adalah mekanisme anti-radang bersama untuk asma. Ini adalah indikasi teras Budesonide yang sudah dilulus, bukan kandidat ramalan baru; pautan mekanistik adalah langsung dan telah disahkan secara klinis."* Dalam erti kata lain, keluaran TxGNN tertentu ini mengesahkan penggunaan yang telah ditetapkan daripada membuka hipotesis terapeutik baru — badan bukti Fasa 3 yang besar di bawah mencerminkan puluhan tahun penyelidikan indikasi yang dilulus, bukan data penggunaan semula eksploratori.
 
-For the top-ranked candidate in this evidence pack, the supplied mechanistic rationale explicitly states: *"Budesonide is a potent, locally-acting ICS that suppresses airway eosinophilic infiltration, mucosal edema, and cytokine release via the glucocorticoid receptor — this is the standard anti-inflammatory mechanism for asthma. This is Budesonide's core already-approved indication, not a novel prediction candidate; the mechanistic link is direct and clinically validated."* In other words, this particular TxGNN output is confirming an established use rather than surfacing a new therapeutic hypothesis — the large body of Phase 3 evidence below reflects decades of approved-indication research, not exploratory repurposing data.
+Untuk konteks, persatuan berpangkat lain pak bukti yang sama berbeza-beza dalam kenovelaan: penyakit usus radang (kedudukan 2) dan penyakit Crohn (kedudukan 5) juga merupakan penggunaan yang sudah dilulus bagi formulasi pelepasan ileum Budesonide (Entocort EC); asma alergik (kedudukan 3) bertindih dengan besar kepada indikasi asma yang dilulus; hanya asma intrinsik (bukan alergik) (kedudukan 4) mencerminkan soalan fenotip khusus yang benar-benar kurang dikaji, disokong terutamanya oleh literatur yang lebih lama dan berskala kecil (tahap bukti L3, peringkat keputusan "Soalan Penyelidikan"). Perbezaan ini penting untuk memprioritaskan sebarang kerja susulan.
 
-For context, the same evidence pack's other ranked associations vary in novelty: inflammatory bowel disease (rank 2) and Crohn's disease (rank 5) are also already-approved uses of Budesonide's ileal-release formulation (Entocort EC); allergic asthma (rank 3) overlaps substantially with the approved asthma indication; only intrinsic (non-allergic) asthma (rank 4) reflects a genuinely under-studied phenotype-specific question, supported mainly by older, small-scale literature (evidence level L3, decision stage "Research Question"). This distinction matters for prioritizing any follow-up work.
+## Bukti Ujian Klinis
 
-## Clinical Trial Evidence
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT00252863](https://clinicaltrials.gov/study/NCT00252863) | Phase 3 | Completed | 1,600 | Symbicort (budesonide/formoterol) SMART regimen vs. conventional best-practice treatment for persistent asthma over 26 weeks |
-| [NCT05202262](https://clinicaltrials.gov/study/NCT05202262) | Phase 3 | Completed | 645 | VATHOS: 24-week trial of budesonide/formoterol MDI vs. budesonide MDI and open-label Symbicort Turbuhaler in inadequately controlled asthma |
-| [NCT00509028](https://clinicaltrials.gov/study/NCT00509028) | Phase 3 | Completed | 241 | Long-term (48-week) safety/efficacy of budesonide Turbuhaler in Japanese children with bronchial asthma |
-| [NCT00646529](https://clinicaltrials.gov/study/NCT00646529) | Phase 3 | Completed | 175 | SAPLING: 6-month safety comparison of Symbicort vs. Pulmicort Turbuhaler in asthmatic children aged 6–11 |
-| [NCT00839800](https://clinicaltrials.gov/study/NCT00839800) | Phase 3 | Completed | 2,091 | 12-month multinational trial comparing Symbicort SMART vs. Symbicort + terbutaline as-needed in patients ≥16 years |
-| [NCT04609904](https://clinicaltrials.gov/study/NCT04609904) | Phase 3 | Completed | 2,187 | Efficacy/safety of budesonide/glycopyrronium/formoterol vs. Symbicort in adults/adolescents with severe inadequately-controlled asthma |
-| [NCT00646594](https://clinicaltrials.gov/study/NCT00646594) | Phase 3 | Completed | 1,200 | 7-month comparison of Symbicort pMDI (fixed/adjustable) vs. Advair in subjects ≥12 years with asthma |
-| [NCT00252824](https://clinicaltrials.gov/study/NCT00252824) | Phase 3 | Completed | 1,000 | 26-week comparison of Symbicort single-inhaler therapy vs. conventional stepwise treatment in adolescents/adults with persistent asthma |
-| [NCT01803555](https://clinicaltrials.gov/study/NCT01803555) | Phase 3 | Completed | 605 | 12-week efficacy/safety of budesonide/formoterol Spiromax vs. Symbicort Turbohaler in persistent asthma |
-| [NCT01360021](https://clinicaltrials.gov/study/NCT01360021) | Phase 3 | Completed | 214 | 12-week comparison of Symbicort breath-actuated MDI vs. pressurized MDI formulations in adult/adolescent asthmatics |
+| [NCT00252863](https://clinicaltrials.gov/study/NCT00252863) | Fasa 3 | Selesai | 1,600 | Symbicort (budesonide/formoterol) rejim SMART vs. rawatan amalan terbaik konvensional untuk asma berterusan selama 26 minggu |
+| [NCT05202262](https://clinicaltrials.gov/study/NCT05202262) | Fasa 3 | Selesai | 645 | VATHOS: ujian 24 minggu budesonide/formoterol MDI vs. MDI budesonide dan Symbicort Turbuhaler berlabel terbuka dalam asma yang tidak tersusun dengan baik |
+| [NCT00509028](https://clinicaltrials.gov/study/NCT00509028) | Fasa 3 | Selesai | 241 | Keselamatan/keberkesanan jangka panjang (48 minggu) budesonide Turbuhaler dalam kanak-kanak Jepun dengan asma bronkial |
+| [NCT00646529](https://clinicaltrials.gov/study/NCT00646529) | Fasa 3 | Selesai | 175 | SAPLING: perbandingan keselamatan 6 bulan Symbicort vs. Pulmicort Turbuhaler dalam kanak-kanak asmatik berusia 6–11 |
+| [NCT00839800](https://clinicaltrials.gov/study/NCT00839800) | Fasa 3 | Selesai | 2,091 | Ujian pelbagai negara 12 bulan membandingkan Symbicort SMART vs. Symbicort + terbutaline mengikut keperluan dalam pesakit ≥16 tahun |
+| [NCT04609904](https://clinicaltrials.gov/study/NCT04609904) | Fasa 3 | Selesai | 2,187 | Keberkesanan/keselamatan budesonide/glicopirroniun/formoterol vs. Symbicort dalam orang dewasa/remaja dengan asma yang sangat tidak tersusun dengan baik |
+| [NCT00646594](https://clinicaltrials.gov/study/NCT00646594) | Fasa 3 | Selesai | 1,200 | Perbandingan 7 bulan Symbicort pMDI (tetap/dapat disesuaikan) vs. Advair dalam subjek ≥12 tahun dengan asma |
+| [NCT00252824](https://clinicaltrials.gov/study/NCT00252824) | Fasa 3 | Selesai | 1,000 | Perbandingan 26 minggu terapi inhalasi tunggal Symbicort vs. rawatan bertingkat konvensional dalam remaja/orang dewasa dengan asma berterusan |
+| [NCT01803555](https://clinicaltrials.gov/study/NCT01803555) | Fasa 3 | Selesai | 605 | Keberkesanan/keselamatan 12 minggu budesonide/formoterol Spiromax vs. Symbicort Turbohaler dalam asma berterusan |
+| [NCT01360021](https://clinicaltrials.gov/study/NCT01360021) | Fasa 3 | Selesai | 214 | Perbandingan 12 minggu Symbicort MDI yang diaktifkan nafas vs. formulasi pMDI bertekan dalam astmatik dewasa/remaja |
 
-*Note: the underlying dataset contains ~50 asthma-related trials in total; the 10 above were prioritized for graded relevance ("A"), completed Phase 3 status, and enrollment size.*
+*Nota: set data yang mendasarinya mengandungi ~50 ujian yang berkaitan dengan asma secara keseluruhan; 10 di atas diprioritaskan untuk relevansi berpangkat ("A"), status Fasa 3 yang selesai, dan saiz pendaftaran.*
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [29768149](https://pubmed.ncbi.nlm.nih.gov/29768149/) | 2018 | RCT | N Engl J Med | As-needed inhaled budesonide-formoterol as an alternative to conventional maintenance strategies in mild asthma |
-| [37003355](https://pubmed.ncbi.nlm.nih.gov/37003355/) | 2023 | RCT | Chest | DENALI trial: albuterol-budesonide pMDI in mild-to-moderate asthma, confirming each component's contribution to efficacy |
-| [11687183](https://pubmed.ncbi.nlm.nih.gov/11687183/) | 2001 | Cochrane Review/Meta-analysis | Cochrane Database Syst Rev | Systematic review of inhaled budesonide for chronic asthma in children and adults |
-| [32237004](https://pubmed.ncbi.nlm.nih.gov/32237004/) | 2020 | Review | Respirology | Synthesis of asthma-control data from budesonide/formoterol maintenance-and-reliever trials |
-| [38527278](https://pubmed.ncbi.nlm.nih.gov/38527278/) | 2024 | Expert Consensus/Review | J Asthma | Thailand expert consensus on nebulized budesonide use for asthma and COPD, stable and exacerbation stages |
-| [16162021](https://pubmed.ncbi.nlm.nih.gov/16162021/) | 2005 | Review | Drugs | Review of budesonide inhalation suspension for asthma treatment in infants and children |
-| [38889078](https://pubmed.ncbi.nlm.nih.gov/38889078/) | 2024 | Meta-analysis | J Asthma | Meta-analysis of aerosolized budesonide inhalation effects on respiratory symptoms and inflammatory markers in asthma |
-| [27381656](https://pubmed.ncbi.nlm.nih.gov/27381656/) | 2016 | Mechanistic Review | Pulm Pharmacol Ther | Molecular and cellular mechanisms underlying budesonide's therapeutic effects in asthma |
-| [17983258](https://pubmed.ncbi.nlm.nih.gov/17983258/) | 2007 | Review | Drugs | Review of budesonide/formoterol as combined maintenance-and-reliever inhalation therapy in asthma |
-| [19032229](https://pubmed.ncbi.nlm.nih.gov/19032229/) | 2008 | Review | Allergy | Review of budesonide/formoterol maintenance-and-reliever therapy in moderate-to-severe asthma per GINA guidelines |
+| [29768149](https://pubmed.ncbi.nlm.nih.gov/29768149/) | 2018 | RCT | N Engl J Med | Budesonide-formoterol inhalasi mengikut keperluan sebagai alternatif kepada strategi penyelenggaraan konvensional dalam asma ringan |
+| [37003355](https://pubmed.ncbi.nlm.nih.gov/37003355/) | 2023 | RCT | Chest | Ujian DENALI: pMDI albuterol-budesonide dalam asma ringan hingga sederhana, mengesahkan sumbangan setiap komponen kepada keberkesanan |
+| [11687183](https://pubmed.ncbi.nlm.nih.gov/11687183/) | 2001 | Ulasan Cochrane/Meta-analisis | Cochrane Database Syst Rev | Ulasan sistematik budesonide inhalasi untuk asma kronik dalam kanak-kanak dan orang dewasa |
+| [32237004](https://pubmed.ncbi.nlm.nih.gov/32237004/) | 2020 | Ulasan | Respirology | Sintesis data kawalan asma daripada ujian penyelenggaraan-dan-pelepas budesonide/formoterol |
+| [38527278](https://pubmed.ncbi.nlm.nih.gov/38527278/) | 2024 | Konsensus Pakar/Ulasan | J Asthma | Konsensus pakar Thailand tentang penggunaan budesonide nebulasi untuk asma dan KOPD, peringkat stabil dan eksaserbasi |
+| [16162021](https://pubmed.ncbi.nlm.nih.gov/16162021/) | 2005 | Ulasan | Drugs | Ulasan suspens inhalasi budesonide untuk rawatan asma dalam bayi dan kanak-kanak |
+| [38889078](https://pubmed.ncbi.nlm.nih.gov/38889078/) | 2024 | Meta-analisis | J Asthma | Meta-analisis kesan inhalasi budesonide terhembus pada gejala pernafasan dan penanda radang dalam asma |
+| [27381656](https://pubmed.ncbi.nlm.nih.gov/27381656/) | 2016 | Ulasan Mekanistik | Pulm Pharmacol Ther | Mekanisme molekul dan selular yang mendasari kesan terapeutik budesonide dalam asma |
+| [17983258](https://pubmed.ncbi.nlm.nih.gov/17983258/) | 2007 | Ulasan | Drugs | Ulasan budesonide/formoterol sebagai terapi inhalasi penyelenggaraan-dan-pelepas gabungan dalam asma |
+| [19032229](https://pubmed.ncbi.nlm.nih.gov/19032229/) | 2008 | Ulasan | Allergy | Ulasan terapi penyelenggaraan-dan-pelepas budesonide/formoterol dalam asma sederhana hingga teruk mengikut garis panduan GINA |
 
-*Note: the underlying dataset contains 20 asthma-related publications in total; the 10 above were prioritized as RCTs and meta-analyses first, then reviews by recency and relevance.*
+*Nota: set data yang mendasarinya mengandungi 20 penerbitan yang berkaitan dengan asma secara keseluruhan; 10 di atas diprioritaskan sebagai RCT dan meta-analisis terlebih dahulu, kemudian ulasan mengikut ketermukaan dan relevansi.*
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-NPRA records confirm Budesonide is **marketed in Malaysia with 34 total licenses**, but the license-level fields returned in the current query (license number, product name, dosage form, manufacturer, approved indication text) are all blank for the 5 sampled records. No usable authorization table can be presented from this dataset at this time. A re-query of the NPRA product registry (or direct lookup on the NPRA QUEST database) is needed to populate authorization numbers, product/brand names, dosage forms, and label indication text before this section can be completed.
+Rekod NPRA mengesahkan bahawa Budesonide **dipasarkan di Malaysia dengan 34 lesen jumlah**, namun medan peringkat lesen yang dikembalikan dalam pertanyaan semasa (nombor lesen, nama produk, bentuk dos, pengilang, teks indikasi yang dilulus) semuanya kosong untuk 5 rekod sampel. Tiada jadual kebenaran yang boleh digunakan boleh dibentangkan daripada set data ini pada masa ini. Pertanyaan semula ke daftar produk NPRA (atau pencarian terus pada pangkalan data NPRA QUEST) diperlukan untuk mengisi nombor kebenaran, nama produk/jenama, bentuk dos, dan teks indikasi label sebelum bahagian ini boleh diselesaikan.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-*(Key warnings, contraindications, and drug-interaction data were queried but returned no usable results — DDI query status: not found, 0 interactions on file. This is flagged as a Blocking data gap (DG001) for full safety assessment; see Conclusion below.)*
+*(Data amaran utama, kontraindikasi, dan interaksi ubat dicari tetapi tidak mengembalikan hasil yang boleh digunakan — status pertanyaan DDI: tidak ditemui, 0 interaksi dalam fail. Ini ditandakan sebagai jurang data bloking (DG001) untuk penilaian keselamatan penuh; lihat Kesimpulan di bawah.)*
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Proceed with Guardrails**
+**Keputusan: Teruskan dengan Syarat Keselamatan**
 
-**Rationale:**
-The clinical trial and literature base for Budesonide in asthma is extensive and mature (evidence level L1, multiple completed Phase 3 RCTs), but this reflects confirmation of an already-approved indication rather than a novel repurposing opportunity — the supplied mechanistic rationale itself states this is not a new prediction candidate. The "guardrail" designation is therefore driven less by efficacy uncertainty and more by two Blocking/High-severity data gaps that prevent a complete safety and regulatory sign-off: missing NPRA label warnings/contraindications (DG001, Blocking) and missing structured mechanism-of-action data (DG002, High).
+**Rasional:**
+Asas ujian klinis dan literatur untuk Budesonide dalam asma adalah luas dan matang (tahap bukti L1, pelbagai RCT Fasa 3 yang selesai), namun ini mencerminkan pengesahan indikasi yang sudah dilulus daripada peluang penggunaan semula yang baru — rasional mekanistik yang disediakan sendiri menyatakan bahawa ini bukan kandidat ramalan baru. Penetapan "syarat keselamatan" oleh itu didorong kurang oleh ketidakpastian keberkesanan dan lebih banyak oleh dua jurang data Bloking/Keterukan Tinggi yang menghalang tanda-tangan keselamatan dan peraturan yang lengkap: amaran label NPRA yang hilang/kontraindikasi (DG001, Bloking) dan data mekanisme tindakan berstruktur yang hilang (DG002, Prioriti Tinggi).
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert (warnings, precautions, contraindications) — required before Stage 1 safety screening can be completed (Blocking)
-- Structured mechanism-of-action data via DrugBank API query (High priority)
-- Complete NPRA license-level detail (authorization numbers, product names, dosage forms, approved indication text) for the 34 registered products — current extract returned blank fields
-- Clarification of the TxGNN score field, which reads 0.00% despite being the #1-ranked candidate — likely a pipeline/export artifact rather than a true confidence value
-- If further repurposing research is desired, prioritize the intrinsic (non-allergic) asthma phenotype (rank 4, evidence level L3, "Research Question" stage) as the more genuinely exploratory candidate in this set, rather than the already-approved asthma/IBD/Crohn's disease associations
+**Untuk teruskan, yang berikut diperlukan:**
+- Sisipan pakej TFDA/NPRA (amaran, berjaga-jaga, kontraindikasi) — diperlukan sebelum pemeriksaan keselamatan Peringkat 1 boleh diselesaikan (Bloking)
+- Data mekanisme tindakan berstruktur melalui pertanyaan API DrugBank (Prioriti Tinggi)
+- Butiran peringkat lesen NPRA yang lengkap (nombor kebenaran, nama produk, bentuk dos, teks indikasi yang dilulus) untuk 34 produk berdaftar — ekstrak semasa mengembalikan medan kosong
+- Penjelasan medan skor TxGNN, yang membaca 0.00% walaupun berada di kedudukan #1-berpangkat — kemungkinan artifak saluran/eksport daripada nilai keyakinan sebenar
+- Jika penyelidikan penggunaan semula selanjutnya diingini, utamakan fenotip asma intrinsik (bukan alergik) (kedudukan 4, tahap bukti L3, peringkat keputusan "Soalan Penyelidikan") sebagai kandidat yang lebih benar-benar eksploratori dalam set ini, daripada persatuan asma/IBD/penyakit Crohn yang sudah dilulus
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,112 +29,113 @@ Tahap bukti: **L2** | Indikasi diramal: **10**
 
 </div>
 
-# Gemcitabine: From Pancreatic Cancer to Female Breast Carcinoma
+# Gemcitabine: Dari Kanker Pankreas kepada Karsinoma Payudara Wanita
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Gemcitabine (DrugBank DB00441) is a deoxycytidine-analog chemotherapy agent long established in solid-tumor treatment (pancreatic, NSCLC, bladder, ovarian cancer). The TxGNN model predicts it may also be effective for **Female Breast Carcinoma**, a use already partially supported outside this evidence pack (e.g., approved gemcitabine + paclitaxel regimens), with **50 clinical trials** and **20 publications** currently retrieved. However, a **Blocking** data gap in safety labeling (NPRA warnings/contraindications) means this candidate cannot yet clear the S1 safety screen.
+Gemcitabine (DrugBank DB00441) adalah agen kemoterapi analog deoksisitidina yang telah lama ditubuhkan dalam rawatan tumor pepejal (kanker pankreas, NSCLC, kandung kencing, ovarium). Model TxGNN meramalkan ia mungkin juga berkesan untuk **Karsinoma Payudara Wanita**, satu kegunaan yang sudah mendapat sokongan separa di luar pakej bukti ini (cth, rejimen gemcitabine + paclitaxel yang diluluskan), dengan **50 ujian klinikal** dan **20 penerbitan** yang telah diperolehi pada masa ini. Walau bagaimanapun, **jurang data yang menghalang** dalam label keselamatan (amaran/kontraindikasi NPRA) bermaksud calon ini belum dapat melepasi skrin keselamatan S1.
 
 ---
 
-## Quick Overview
+## Gambaran Pantas
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Not captured in this NPRA data pull (all license `approved_indication_text` fields are blank). Gemcitabine's internationally approved indications include pancreatic cancer, non-small cell lung cancer, bladder cancer, and ovarian cancer. |
-| Predicted New Indication | Female Breast Carcinoma |
-| TxGNN Prediction Score | 99.98% |
-| Evidence Level | L2 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 16 |
-| Recommended Decision | Hold |
+| Petunjuk Asal | Tidak ditangkap dalam tarikan data NPRA ini (semua medan `approved_indication_text` lesen adalah kosong). Petunjuk yang diluluskan secara antarabangsa untuk gemcitabine termasuk kanker pankreas, kanker paru-paru sel bukan kecil, kanker kandung kencing, dan kanker ovarium. |
+| Petunjuk Baru yang Diramalkan | Karsinoma Payudara Wanita |
+| Skor Ramalan TxGNN | 99.98% |
+| Tahap Bukti | L2 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 16 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data is not available in this evidence pack (`original_moa` is a data gap). Based on well-established pharmacology, gemcitabine is a pyrimidine (deoxycytidine) nucleoside analog antimetabolite: it is phosphorylated intracellularly to its active triphosphate form, which is incorporated into DNA to cause chain termination, and its diphosphate form inhibits ribonucleotide reductase, depleting deoxynucleotide pools needed for DNA replication and repair.
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia dalam pakej bukti ini (`original_moa` adalah jurang data). Berdasarkan farmakologi yang telah ditubuhkan dengan baik, gemcitabine adalah analog nukleosida purina (deoksisitidina) antimatabolit: ia difosforilkan dalam sel ke bentuk trifosfat aktifnya, yang dimasukkan ke dalam DNA untuk menyebabkan penamatan rantai, dan bentuk difosfatnya menghalang penurunan ribonukleotida, menghabiskan kumpulan deoksinukleotida yang diperlukan untuk replikasi dan pembaikan DNA.
 
-This mechanism is not tumor-type specific — it targets rapidly dividing cells broadly, which is why gemcitabine already has approved or guideline-supported use across multiple solid tumors (pancreatic, NSCLC, bladder, ovarian) and is combined with taxanes, platinum agents, and HER2-targeted therapy. Breast cancer shares the same fundamental dependence on rapid cell proliferation, and gemcitabine + paclitaxel is in fact an established regimen for metastatic breast cancer in many jurisdictions, which aligns mechanistically and clinically with the TxGNN prediction.
+Mekanisme ini bukan khusus untuk jenis tumor — ia menyasarkan sel yang membelah dengan cepat secara meluas, itulah sebabnya gemcitabine sudah mempunyai kegunaan yang diluluskan atau disokong garis panduan merentasi pelbagai tumor pepejal (pankreas, NSCLC, kandung kencing, ovarium) dan digabungkan dengan taksana, agen platinum, dan terapi yang disasarkan HER2. Kanker payudara berkongsi pergantungan asas yang sama terhadap proliferasi sel yang cepat, dan gemcitabine + paclitaxel sebenarnya adalah rejimen yang ditubuhkan untuk kanker payudara metastatik di banyak bidang kuasa, yang selaras secara mekanistik dan klinikal dengan ramalan TxGNN.
 
-The very large volume of retrieved trials (50) spanning HER2-positive, triple-negative, and metastatic breast cancer settings — often in combination with trastuzumab, taxanes, platinum agents, or bevacizumab — further supports that this is not a novel, untested mechanistic hypothesis but an extension of an already active clinical development line.
+Isipadu yang sangat besar bagi ujian yang diperolehi (50) merentasi tetapan kanker payudara HER2-positif, triple-negatif, dan metastatik — sering dalam kombinasi dengan trastuzumab, taksana, agen platinum, atau bevacizumab — seterusnya menyokong bahawa ini bukan hipotesis mekanistik novel yang belum diuji tetapi lanjutan daripada garis pembangunan klinikal yang sudah aktif.
 
 ---
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT00440622](https://clinicaltrials.gov/study/NCT00440622) | Phase 3 | Terminated | 90 | Gemcitabine+Herceptin vs. Capecitabine+Herceptin in pretreated HER2-positive metastatic breast cancer |
-| [NCT00561119](https://clinicaltrials.gov/study/NCT00561119) | Phase 3 | Completed | 326 | Maintenance vs. observation after 6 cycles of gemcitabine+paclitaxel as 1st-line chemotherapy for metastatic/recurrent breast cancer |
-| [NCT00408408](https://clinicaltrials.gov/study/NCT00408408) | Phase 3 | Unknown | 1206 | Neoadjuvant trial adding capecitabine or gemcitabine to docetaxel (±bevacizumab) before AC, evaluating pathologic complete response |
-| [NCT01050322](https://clinicaltrials.gov/study/NCT01050322) | Phase 2 | Completed | 142 | Lapatinib-capecitabine vs. lapatinib-vinorelbine vs. lapatinib-gemcitabine in HER2/neu-amplified metastatic breast cancer after taxane progression |
-| [NCT00110084](https://clinicaltrials.gov/study/NCT00110084) | Phase 2 | Completed | 50 | Weekly nab-paclitaxel plus gemcitabine in metastatic breast cancer |
-| [NCT00193063](https://clinicaltrials.gov/study/NCT00193063) | Phase 2 | Completed | 41 | Weekly gemcitabine plus trastuzumab in HER2-overexpressing metastatic breast cancer |
-| [NCT00005991](https://clinicaltrials.gov/study/NCT00005991) | Phase 1/2 | Completed | 76 | Gemcitabine plus liposomal doxorubicin (Doxil) in metastatic breast cancer |
-| [NCT00006007](https://clinicaltrials.gov/study/NCT00006007) | Phase 2 | Completed | 59 | Gemcitabine plus pemetrexed (MTA/LY231514) in metastatic breast cancer |
-| [NCT00003540](https://clinicaltrials.gov/study/NCT00003540) | Phase 2 | Completed | 30 | Gemcitabine monotherapy in metastatic breast cancer previously treated with doxorubicin and paclitaxel |
-| [NCT00244933](https://clinicaltrials.gov/study/NCT00244933) | Phase 2 | Completed | 19 | Gemcitabine plus genistein in metastatic breast cancer, with biomarker assays |
+| [NCT00440622](https://clinicaltrials.gov/study/NCT00440622) | Fasa 3 | Ditamatkan | 90 | Gemcitabine+Herceptin vs. Capecitabine+Herceptin dalam kanker payudara metastatik HER2-positif yang telah dirawat sebelumnya |
+| [NCT00561119](https://clinicaltrials.gov/study/NCT00561119) | Fasa 3 | Selesai | 326 | Penyelenggaraan vs. pemerhatian selepas 6 kitaran gemcitabine+paclitaxel sebagai kemoterapi baris pertama untuk kanker payudara berulang/metastatik |
+| [NCT00408408](https://clinicaltrials.gov/study/NCT00408408) | Fasa 3 | Tidak diketahui | 1206 | Ujian neoadjuvan menambah capecitabine atau gemcitabine kepada docetaxel (±bevacizumab) sebelum AC, menilai tindak balas patologi lengkap |
+| [NCT01050322](https://clinicaltrials.gov/study/NCT01050322) | Fasa 2 | Selesai | 142 | Lapatinib-capecitabine vs. lapatinib-vinorelbine vs. lapatinib-gemcitabine dalam kanker payudara metastatik yang diperkaya HER2/neu selepas kemajuan taksana |
+| [NCT00110084](https://clinicaltrials.gov/study/NCT00110084) | Fasa 2 | Selesai | 50 | Nab-paclitaxel mingguan ditambah gemcitabine dalam kanker payudara metastatik |
+| [NCT00193063](https://clinicaltrials.gov/study/NCT00193063) | Fasa 2 | Selesai | 41 | Gemcitabine mingguan ditambah trastuzumab dalam kanker payudara metastatik yang terlalu mengekspres HER2 |
+| [NCT00005991](https://clinicaltrials.gov/study/NCT00005991) | Fasa 1/2 | Selesai | 76 | Gemcitabine ditambah doxorubicin liposomal (Doxil) dalam kanker payudara metastatik |
+| [NCT00006007](https://clinicaltrials.gov/study/NCT00006007) | Fasa 2 | Selesai | 59 | Gemcitabine ditambah pemetrexed (MTA/LY231514) dalam kanker payudara metastatik |
+| [NCT00003540](https://clinicaltrials.gov/study/NCT00003540) | Fasa 2 | Selesai | 30 | Monoterapi gemcitabine dalam kanker payudara metastatik yang telah dirawat sebelumnya dengan doxorubicin dan paclitaxel |
+| [NCT00244933](https://clinicaltrials.gov/study/NCT00244933) | Fasa 2 | Selesai | 19 | Gemcitabine ditambah genistein dalam kanker payudara metastatik, dengan pemeriksaan biomarker |
 
 ---
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [38262235](https://pubmed.ncbi.nlm.nih.gov/38262235/) | 2024 | Phase 1 trial | Gynecologic Oncology | Mirvetuximab soravtansine + gemcitabine in FRα-positive recurrent ovarian/endometrial cancer and triple-negative breast cancer; MTD/RP2D determination |
-| [40779028](https://pubmed.ncbi.nlm.nih.gov/40779028/) | 2025 | Phase 1 trial | Breast Cancer Research and Treatment | Carboplatin + gemcitabine + mifepristone (GR antagonist) in GR-positive advanced breast and ovarian cancer to enhance chemosensitivity |
-| [25398698](https://pubmed.ncbi.nlm.nih.gov/25398698/) | 2015 | Phase 2 trial | Cancer Chemotherapy and Pharmacology | Docetaxel, gemcitabine, and bevacizumab as salvage chemotherapy for HER2-negative metastatic breast cancer |
-| [16020974](https://pubmed.ncbi.nlm.nih.gov/16020974/) | 2005 | Phase 2 trial | Oncology | Weekly docetaxel plus gemcitabine as first-line treatment for metastatic breast cancer |
-| [12722022](https://pubmed.ncbi.nlm.nih.gov/12722022/) | 2003 | Phase 2 trial | Seminars in Oncology | Gemcitabine plus trastuzumab in heavily pretreated HER2-overexpressing metastatic breast cancer |
-| [15685819](https://pubmed.ncbi.nlm.nih.gov/15685819/) | 2004 | Review | Oncology (Williston Park) | Review of gemcitabine + paclitaxel combination regimens/schedules in metastatic breast cancer |
-| [15685820](https://pubmed.ncbi.nlm.nih.gov/15685820/) | 2004 | Review | Oncology (Williston Park) | Review of gemcitabine + docetaxel combination rationale and dosing in metastatic breast cancer |
-| [14754467](https://pubmed.ncbi.nlm.nih.gov/14754467/) | 2004 | Review | Clinical Breast Cancer | Gemcitabine and taxanes positioned as a new standard-of-care combination in breast cancer |
-| [12138397](https://pubmed.ncbi.nlm.nih.gov/12138397/) | 2002 | Review | Seminars in Oncology | Review of gemcitabine single-agent and combination (targeted therapy) activity in metastatic breast cancer |
-| [21980041](https://pubmed.ncbi.nlm.nih.gov/21980041/) | 2011 | Pharmacogenetic study | Cancer Genomics & Proteomics | Gemcitabine/platinum pathway pharmacogenetics predicting hematologic toxicity in Asian breast cancer patients |
+| [38262235](https://pubmed.ncbi.nlm.nih.gov/38262235/) | 2024 | Ujian Fasa 1 | Gynecologic Oncology | Mirvetuximab soravtansine + gemcitabine dalam kanker ovarium/endometrium berulang yang FRα-positif dan kanker payudara triple-negatif; penentuan MTD/RP2D |
+| [40779028](https://pubmed.ncbi.nlm.nih.gov/40779028/) | 2025 | Ujian Fasa 1 | Breast Cancer Research and Treatment | Carboplatin + gemcitabine + mifepristone (antagonis GR) dalam kanker payudara dan ovarium lanjutan yang GR-positif untuk meningkatkan sensitiviti kemoterapi |
+| [25398698](https://pubmed.ncbi.nlm.nih.gov/25398698/) | 2015 | Ujian Fasa 2 | Cancer Chemotherapy and Pharmacology | Docetaxel, gemcitabine, dan bevacizumab sebagai kemoterapi penyelamat untuk kanker payudara metastatik HER2-negatif |
+| [16020974](https://pubmed.ncbi.nlm.nih.gov/16020974/) | 2005 | Ujian Fasa 2 | Oncology | Docetaxel mingguan ditambah gemcitabine sebagai rawatan baris pertama untuk kanker payudara metastatik |
+| [12722022](https://pubmed.ncbi.nlm.nih.gov/12722022/) | 2003 | Ujian Fasa 2 | Seminars in Oncology | Gemcitabine ditambah trastuzumab dalam kanker payudara metastatik yang terlalu mengekspres HER2 yang telah banyak dirawat |
+| [15685819](https://pubmed.ncbi.nlm.nih.gov/15685819/) | 2004 | Kajian Ulasan | Oncology (Williston Park) | Kajian ulasan rejimen kombinasi gemcitabine + paclitaxel/jadual dalam kanker payudara metastatik |
+| [15685820](https://pubmed.ncbi.nlm.nih.gov/15685820/) | 2004 | Kajian Ulasan | Oncology (Williston Park) | Kajian ulasan justifikasi kombinasi gemcitabine + docetaxel dan dos dalam kanker payudara metastatik |
+| [14754467](https://pubmed.ncbi.nlm.nih.gov/14754467/) | 2004 | Kajian Ulasan | Clinical Breast Cancer | Gemcitabine dan taksana diposisikan sebagai kombinasi penjagaan piawai baru dalam kanker payudara |
+| [12138397](https://pubmed.ncbi.nlm.nih.gov/12138397/) | 2002 | Kajian Ulasan | Seminars in Oncology | Kajian ulasan aktiviti gemcitabine tunggal dan kombinasi (terapi sasaran) dalam kanker payudara metastatik |
+| [21980041](https://pubmed.ncbi.nlm.nih.gov/21980041/) | 2011 | Kajian Farmakoenetik | Cancer Genomics & Proteomics | Farmakoenetik laluan gemcitabine/platinum meramalkan ketoksikan hematologi dalam pesakit kanker payudara Asia |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Gemcitabine is confirmed marketed in Malaysia with **16 active NPRA registrations**. However, the individual license-level fields (authorization number, product name, dosage form, approved indication text) were not populated in this data pull — all `licenses[]` entries came back blank. Product-level detail needs to be re-fetched from the NPRA product registry before this can be tabulated.
+Gemcitabine disahkan dipasarkan di Malaysia dengan **16 pendaftaran NPRA yang aktif**. Walau bagaimanapun, medan peringkat lesen individu (nombor kebenaran, nama produk, bentuk dos, teks petunjuk yang diluluskan) tidak diisi dalam tarikan data ini — semua entri `licenses[]` kembali kosong. Detail peringkat produk perlu diambil semula daripada pendaftaran produk NPRA sebelum ini dapat disenaraikan.
 
 ---
 
-## Cytotoxicity
+## Sitotoksisiti
 
-Gemcitabine is a conventional cytotoxic chemotherapy agent (pyrimidine/deoxycytidine analog antimetabolite), so this section applies.
+Gemcitabine adalah agen kemoterapi sitotoksik konvensional (antimatabolit purina/deoksisitidina), jadi bahagian ini terpakai.
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Cytotoxicity Classification | Conventional cytotoxic (pyrimidine antimetabolite / nucleoside analog) |
-| Myelosuppression Risk | High — antimetabolites of this class commonly cause dose-limiting neutropenia, thrombocytopenia, and anemia; drug-specific incidence data is not present in this evidence pack |
-| Emetogenicity Classification | Low to moderate (typical for single-agent gemcitabine per standard antiemetic risk classification; combination regimens may be higher) |
-| Monitoring Items | CBC with differential before each cycle, liver function tests, renal function |
-| Handling Protection | Yes — standard cytotoxic/hazardous drug handling precautions required during preparation and administration |
+| Klasifikasi Sitotoksisiti | Sitotoksik konvensional (antimatabolit purina / analog nukleosida) |
+| Risiko Penindasan Sumsum Tulang | Tinggi — antimatabolit kelas ini biasanya menyebabkan neutropenia, trombositopenia, dan anemia pembatas dos; data khusus ubat tidak terdapat dalam pakej bukti ini |
+| Klasifikasi Emetogenisiti | Rendah hingga sederhana (tipikal untuk gemcitabine tunggal menurut klasifikasi risiko antiemetik piawai; rejimen kombinasi mungkin lebih tinggi) |
+| Item Pemantauan | CBC dengan pembezaan sebelum setiap kitaran, ujian fungsi hati, fungsi buah pinggang |
+| Perlindungan Pengendalian | Ya — prekautian pengendalian ubat sitotoksik/berbahaya piawai diperlukan semasa penyediaan dan pentadbiran |
 
-Please refer to the package insert warnings and precautions for drug-specific detail, as none was captured in this evidence pack.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information. This evidence pack has no populated key warnings, contraindications, or drug-interaction data — all fields returned as data gaps, and the NPRA drug interaction (DDI) query returned no results (`query_status: not_found`).
+Sila rujuk amaran dan prekautian sisipan bungkusan untuk detail khusus ubat, kerana tiada yang ditangkap dalam pakej bukti ini.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila rujuk sisipan bungkusan untuk maklumat keselamatan. Pakej bukti ini tidak mempunyai data amaran utama, kontraindikasi, atau interaksi ubat yang diisi — semua medan dikembalikan sebagai jurang data, dan pertanyaan interaksi ubat NPRA (DDI) mengembalikan tiada hasil (`query_status: not_found`).
 
-**Rationale:**
-Efficacy-side evidence is substantial (50 trials including a completed Phase 3 RCT and multiple completed Phase 2 studies, plus 20 supporting publications), but data gap DG001 — missing NPRA warnings/contraindications — is flagged **Blocking** and explicitly prevents entry into the S1 safety initial assessment. Efficacy strength alone cannot substitute for a safety review that has not yet occurred.
+---
 
-**To proceed, the following is needed:**
-- Retrieve and parse the NPRA package insert (warnings, contraindications) — DG001, Blocking
-- Retrieve gemcitabine mechanism of action from DrugBank API — DG002, High
-- Re-pull NPRA license-level product data (product name, dosage form, approved indication text) for the 16 registrations
-- Drug-drug interaction data from a source other than the current NPRA DDI query (returned zero results)
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Justifikasi:**
+Bukti sebelah keberkesanan adalah besar (50 ujian termasuk RCT Fasa 3 yang selesai dan pelbagai kajian Fasa 2 yang selesai, ditambah 20 penerbitan sokongan), tetapi jurang data DG001 — amaran/kontraindikasi NPRA yang hilang — ditandai sebagai **Menghalang** dan secara eksplisit menghalang masuk ke penilaian keselamatan awal S1. Kekuatan keberkesanan sahaja tidak dapat menggantikan penyemakan keselamatan yang belum berlaku.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Perolehi dan huraikan sisipan bungkusan NPRA (amaran, kontraindikasi) — DG001, Menghalang
+- Perolehi mekanisme tindakan gemcitabine daripada API DrugBank — DG002, Tinggi
+- Ambil semula data produk peringkat lesen NPRA (nama produk, bentuk dos, teks petunjuk yang diluluskan) untuk 16 pendaftaran
+- Data interaksi ubat daripada sumber selain pertanyaan DDI NPRA semasa (mengembalikan sifar hasil)
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

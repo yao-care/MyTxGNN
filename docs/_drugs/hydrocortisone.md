@@ -29,98 +29,99 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-# Hydrocortisone: From Corticosteroid Replacement & Anti-Inflammatory Therapy to Erythema Multiforme
+# Hydrocortisone: Daripada Terapi Penggantian Kortikosteroid & Anti-Radang kepada Eritema Multiforme
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Hydrocortisone is the physiological glucocorticoid used broadly for adrenocortical insufficiency and inflammatory/allergic conditions (topical, systemic, ophthalmic, and rectal formulations); specific TFDA label indication text was not available in this evidence pack. The TxGNN model's top-ranked prediction points to **Erythema Multiforme**, but the supporting evidence is weak — **6 clinical trials** (none directly testing hydrocortisone in EM) and **20 publications**, most of which are case reports on tangential topics or even report hydrocortisone-induced EM rather than treatment.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not extractable from TFDA license data in this evidence pack (all `approved_indication_text` fields blank); as a corticosteroid, hydrocortisone is generally indicated for adrenocortical insufficiency and inflammatory/allergic conditions |
-| Predicted New Indication | Erythema Multiforme |
-| TxGNN Prediction Score | 0.00% *(as recorded in this evidence pack — likely an unpopulated/placeholder value rather than a true near-zero score; should be re-verified before use)* |
-| Evidence Level | L4 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 58 |
-| Recommended Decision | Hold |
+Hydrocortisone adalah glukokortikoid fisiologi yang digunakan secara meluas untuk ketidakcukupan adrenokorteks dan keadaan radang/alergi (formulasi topikal, sistemik, oftalmik, dan rektal); teks indikasi label TFDA khusus tidak tersedia dalam pakej bukti ini. Ramalan kedudukan teratas model TxGNN menunjukkan **Eritema Multiforme**, tetapi bukti yang menyokong adalah lemah — **6 percubaan klinikal** (tiada yang menguji secara langsung hydrocortisone dalam EM) dan **20 penerbitan**, kebanyakan adalah laporan kes tentang topik tangen atau bahkan melaporkan EM yang disebabkan oleh hydrocortisone dan bukannya rawatan.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Pantas
 
-Currently, detailed mechanism of action data is not available. Based on known information, hydrocortisone is a glucocorticoid receptor agonist with anti-inflammatory and immunosuppressive effects; its efficacy across a wide range of inflammatory and immune-mediated dermatologic conditions has been established, and mechanistically it could plausibly modulate the immune/inflammatory reaction underlying erythema multiforme (EM).
-
-However, the rationale here is theoretical rather than evidence-backed. The oldest and most relevant literature (Patterson et al., 1990) frames corticosteroid use in EM/Stevens-Johnson syndrome as an explicit **"therapeutic controversy"** — corticosteroids are not established first-line therapy for EM, and their role remains debated. None of the six retrieved clinical trials directly test hydrocortisone as an intervention for EM; they were captured by keyword overlap (atopic dermatitis, unrelated oncology/cardiology trials) rather than genuine relevance.
-
-Notably, one case report in the literature set (PMID 10696380) describes a patient who **developed EM after topical application of a hydrocortisone-containing product** (Gentisone HC ear drops) — an adverse reaction, not a therapeutic use. This further weakens, rather than supports, the repurposing hypothesis.
+| Item | Kandungan |
+|------|-----------|
+| Indikasi Asal | Tidak boleh diekstrak daripada data lesen TFDA dalam pakej bukti ini (semua medan `approved_indication_text` kosong); sebagai kortikosteroid, hydrocortisone secara amnya ditunjukkan untuk ketidakcukupan adrenokorteks dan keadaan radang/alergi |
+| Indikasi Baru yang Diramalkan | Eritema Multiforme |
+| Skor Ramalan TxGNN | 0.00% *(seperti yang direkodkan dalam pakej bukti ini — berkemungkinan nilai tidak dipenuhi/pengganti daripada skor hampir sifar sebenar; harus disahkan semula sebelum digunakan)* |
+| Tahap Bukti | L4 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 58 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia. Berdasarkan maklumat yang diketahui, hydrocortisone adalah agonis reseptor glukokortikoid dengan kesan anti-radang dan imunosupresan; keberkesanannya merentasi pelbagai keadaan dermatologi radang dan berkaitan imun telah ditegakkan, dan secara mekanik ia boleh mengubah tindak balas imun/radang yang mendasari eritema multiforme (EM).
+
+Namun, alasan di sini adalah teori daripada sokongan bukti. Kesusasteraan tertua dan paling relevan (Patterson et al., 1990) membingkai penggunaan kortikosteroid dalam EM/Sindrom Stevens-Johnson sebagai **"kontroversi terapeutik"** yang jelas — kortikosteroid bukan terapi lini pertama yang ditetapkan untuk EM, dan peranan mereka tetap dipertikaikan. Tiada satu pun daripada enam percubaan klinikal yang diambil menguji hydrocortisone secara langsung sebagai intervensi untuk EM; mereka ditangkap dengan pertindihan kata kunci (dermatitis atopik, percubaan onkologi/kardiologi yang tidak berkaitan) daripada relevansi tulen.
+
+Secara ketara, satu laporan kes dalam set kesusasteraan (PMID 10696380) menerangkan pesakit yang **mengembangkan EM selepas aplikasi topikal produk yang mengandungi hydrocortisone** (Gentisone HC titis telinga) — tindak balas buruk, bukan kegunaan terapeutik. Ini lebih jauh melemahkan, daripada menyokong, hipotesis pengubahsuaian tujuan.
+
+---
+
+## Bukti Percubaan Klinikal
+
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT02153762](https://clinicaltrials.gov/study/NCT02153762) | N/A | Completed | 41 | Locoid Lipocream (hydrocortisone butyrate) application-order study in atopic dermatitis — **not EM-related** (Grade C) |
-| [NCT05199376](https://clinicaltrials.gov/study/NCT05199376) | N/A | Recruiting | 30 | Percutaneous cryotherapy for neurofibromas in NF1 — keyword mismatch, **not relevant** (Grade C) |
-| [NCT00332163](https://clinicaltrials.gov/study/NCT00332163) | Phase 2 | Completed | 95 | Skin toxicity management for panitumumab/FOLFIRI in mCRC — not specific to EM (Grade C) |
-| [NCT05468372](https://clinicaltrials.gov/study/NCT05468372) | Phase 2 | Recruiting | 50 | Amphotericin B vs posaconazole for pulmonary mucormycosis — **unrelated** (Grade C) |
-| [NCT06878729](https://clinicaltrials.gov/study/NCT06878729) | N/A | Recruiting | 74 | Coronary CTO-PCI procedural comparison — **unrelated** (Grade C) |
-| [NCT01650194](https://clinicaltrials.gov/study/NCT01650194) | Phase 2 | Completed | 60 | Enzalutamide + abiraterone in prostate cancer — **unrelated** (Grade C) |
+| [NCT02153762](https://clinicaltrials.gov/study/NCT02153762) | N/A | Selesai | 41 | Kajian urutan aplikasi Locoid Lipocream (hidrokortison butirat) dalam dermatitis atopik — **bukan berkaitan EM** (Gred C) |
+| [NCT05199376](https://clinicaltrials.gov/study/NCT05199376) | N/A | Merekrut | 30 | Krioterapi perkutaneus untuk neurofibroma dalam NF1 — ketidakpadanan kata kunci, **tidak relevan** (Gred C) |
+| [NCT00332163](https://clinicaltrials.gov/study/NCT00332163) | Fasa 2 | Selesai | 95 | Pengurusan ketoksikan kulit untuk panitumumab/FOLFIRI dalam mCRC — tidak khusus untuk EM (Gred C) |
+| [NCT05468372](https://clinicaltrials.gov/study/NCT05468372) | Fasa 2 | Merekrut | 50 | Amfoterisin B vs posakonazol untuk mucormycosis pulmonari — **tidak berkaitan** (Gred C) |
+| [NCT06878729](https://clinicaltrials.gov/study/NCT06878729) | N/A | Merekrut | 74 | Perbandingan prosedur CTO-PCI koroner — **tidak berkaitan** (Gred C) |
+| [NCT01650194](https://clinicaltrials.gov/study/NCT01650194) | Fasa 2 | Selesai | 60 | Enzalutamid + abiraterone dalam kanser prostat — **tidak berkaitan** (Gred C) |
 
-**None of the retrieved trials directly evaluate hydrocortisone for the treatment of erythema multiforme.**
+**Tiada satu pun percubaan yang diambil menilai secara langsung hydrocortisone untuk rawatan eritema multiforme.**
 
 ---
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [2198136](https://pubmed.ncbi.nlm.nih.gov/2198136/) | 1990 | Review | Chest | Reviews EM/SJS management; explicitly frames corticosteroid therapeutic role as controversial |
-| [3869906](https://pubmed.ncbi.nlm.nih.gov/3869906/) | 1985 | Case series (pending classification) | Czasopismo stomatologiczne | Hydrocortisone iontophoresis used in treatment of erythema exudativum multiforme — most directly relevant record |
-| [26627523](https://pubmed.ncbi.nlm.nih.gov/26627523/) | 2015 | Case report | JPMA | Corticosteroids used in management of Herpes-associated EM in a pediatric case |
-| [10696380](https://pubmed.ncbi.nlm.nih.gov/10696380/) | 1999 | Case report | J Laryngol Otol | EM **caused by** topical hydrocortisone acetate/gentamicin ear drops — adverse reaction, not treatment |
-| [1068978](https://pubmed.ncbi.nlm.nih.gov/1068978/) | 1976 | Review | Int Dent J | Corticosteroids (incl. hydrocortisone hemisuccinate) in oral mucosal disease management |
-| [37854261](https://pubmed.ncbi.nlm.nih.gov/37854261/) | 2023 | Case report | Clin Case Rep | EM-like lesions provoked by radiotherapy |
-| [15243755](https://pubmed.ncbi.nlm.nih.gov/15243755/) | 2005 | Case report | Arch Gynecol Obstet | EM major following docetaxel administration |
-| [18370879](https://pubmed.ncbi.nlm.nih.gov/18370879/) | 2008 | Case report | J Ocul Pharmacol Ther | EM following topical dorzolamide use |
-| [20407030](https://pubmed.ncbi.nlm.nih.gov/20407030/) | 2010 | Case report | Ann Pharmacother | Caspofungin-induced toxic epidermal necrolysis (TEN) |
-| [13994257](https://pubmed.ncbi.nlm.nih.gov/13994257/) | 1963 | Comparative topical therapy | Arch Dermatol | Triamcinolone vs hydrocortisone comparison in topical therapy |
+| [2198136](https://pubmed.ncbi.nlm.nih.gov/2198136/) | 1990 | Ulasan | Chest | Mengulaskan pengurusan EM/SJS; secara jelas membingkai peranan terapeutik kortikosteroid sebagai kontroversi |
+| [3869906](https://pubmed.ncbi.nlm.nih.gov/3869906/) | 1985 | Siri kes (pengelasan tertunda) | Czasopismo stomatologiczne | Iontoforesis hidrokortison digunakan dalam rawatan eritema exudativum multiforme — rekod paling berkaitan secara langsung |
+| [26627523](https://pubmed.ncbi.nlm.nih.gov/26627523/) | 2015 | Laporan kes | JPMA | Kortikosteroid digunakan dalam pengurusan EM berkaitan Herpes dalam kes pediatrik |
+| [10696380](https://pubmed.ncbi.nlm.nih.gov/10696380/) | 1999 | Laporan kes | J Laryngol Otol | EM **disebabkan oleh** titis telinga yang mengandungi asetad hidrokortison/gentamicin topikal — tindak balas buruk, bukan rawatan |
+| [1068978](https://pubmed.ncbi.nlm.nih.gov/1068978/) | 1976 | Ulasan | Int Dent J | Kortikosteroid (termasuk hemisuksinat hidrokortison) dalam pengurusan penyakit membran mukosa mulut |
+| [37854261](https://pubmed.ncbi.nlm.nih.gov/37854261/) | 2023 | Laporan kes | Clin Case Rep | Lesi seperti EM yang dipicu oleh terapi radiasi |
+| [15243755](https://pubmed.ncbi.nlm.nih.gov/15243755/) | 2005 | Laporan kes | Arch Gynecol Obstet | EM major susulan pemberian docetaxel |
+| [18370879](https://pubmed.ncbi.nlm.nih.gov/18370879/) | 2008 | Laporan kes | J Ocul Pharmacol Ther | EM susulan penggunaan topikal dorzolamid |
+| [20407030](https://pubmed.ncbi.nlm.nih.gov/20407030/) | 2010 | Laporan kes | Ann Pharmacother | Nekrolisis epidermal toksik (TEN) yang disebabkan oleh caspofungin |
+| [13994257](https://pubmed.ncbi.nlm.nih.gov/13994257/) | 1963 | Perbandingan terapi topikal | Arch Dermatol | Perbandingan triamsinolone vs hydrocortisone dalam terapi topikal |
 
-*10 of 20 retrieved publications are shown, prioritized for direct relevance to hydrocortisone and EM. No RCTs were identified; evidence is dominated by case reports, several of which describe hydrocortisone as a **cause** rather than a treatment of EM.*
-
----
-
-## Malaysia Market Information
-
-License-level details (authorization number, product name, dosage form, manufacturer) are not available in the current evidence pack — all five sampled license records have blank fields. The regulatory data confirms 58 total registered licenses and "Marketed" (marketed) status (see Quick Overview), but product-level specifics require direct TFDA lookup.
+*10 daripada 20 penerbitan yang diambil ditunjukkan, diutamakan untuk relevansi langsung kepada hydrocortisone dan EM. Tiada RCT telah dikenalpasti; bukti adalah didominasi oleh laporan kes, beberapa daripadanya menghuraikan hydrocortisone sebagai **penyebab** daripada rawatan EM.*
 
 ---
 
-## Safety Considerations
+## Maklumat Pasaran Malaysia
 
-Please refer to the package insert for safety information. No drug interaction records were found (`query_status: not_found`).
-
-Note: the evidence pack flags TFDA package insert warnings/contraindications as a **Blocking** data gap (DG001) — this must be resolved before any Stage 1 safety evaluation can proceed.
+Butiran peringkat lesen (nombor kebenaran, nama produk, bentuk dos, pengilang) tidak tersedia dalam pakej bukti semasa — semua lima rekod lesen sampel mempunyai medan kosong. Data peraturan mengesahkan 58 jumlah lesen berdaftar dan status "Dipasarkan" (dipasarkan) (lihat Gambaran Pantas), tetapi butiran peringkat produk memerlukan pencarian TFDA langsung.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila rujuk buku maklumat untuk maklumat keselamatan. Tiada rekod interaksi ubat ditemui (`query_status: not_found`).
 
-**Rationale:**
-The evidence level is L4 (mechanism/preclinical-adjacent only) with no clinical trials directly testing hydrocortisone in EM, and the literature itself characterizes corticosteroid use in EM as a longstanding therapeutic controversy. One case report even documents hydrocortisone-induced EM, which cuts against the repurposing hypothesis rather than supporting it.
+Nota: pakej bukti menandakan amaran/kontraindikasi buku maklumat TFDA sebagai jurang data **Menyekat** (DG001) — ini mesti diselesaikan sebelum sebarang penilaian keselamatan Peringkat 1 dapat diteruskan.
 
-**To proceed, the following is needed:**
-- TFDA package insert warnings/contraindications (DG001, Blocking) — required before any safety evaluation
-- Mechanism of action data (DG002, High) — needed to assess mechanistic plausibility beyond general corticosteroid class effects
-- A clinical trial or case series specifically testing hydrocortisone (not other corticosteroids) as an EM treatment, to move beyond preclinical/anecdotal evidence
-- **Note:** this evidence pack also scored "hemorrhoid" as this drug's rank-2 predicted indication, with substantially stronger evidence (L2, multiple completed Phase 2 RCTs, "Proceed with Guardrails" recommendation) reflecting hydrocortisone's already-established label use (e.g., Anusol-HC, Proctofoam-HC). That candidate may warrant separate evaluation as a more actionable repurposing/label-extension case than erythema multiforme.
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Alasan:**
+Tahap bukti adalah L4 (mekanisme/yang bersebelahan dengan praklinikal sahaja) tanpa percubaan klinikal yang menguji secara langsung hydrocortisone dalam EM, dan kesusasteraan itu sendiri mengkhususkan penggunaan kortikosteroid dalam EM sebagai kontroversi terapeutik yang berdiri lama. Satu laporan kes juga mendokumentasikan EM yang disebabkan oleh hydrocortisone, yang menentang daripada menyokong hipotesis pengubahsuaian tujuan.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Amaran/kontraindikasi buku maklumat TFDA (DG001, Menyekat) — diperlukan sebelum sebarang penilaian keselamatan
+- Data mekanisme tindakan (DG002, Tinggi) — diperlukan untuk menilai ketentusan mekanik di luar kesan kelas kortikosteroid umum
+- Percubaan klinikal atau siri kes yang khusus menguji hydrocortisone (bukan kortikosteroid lain) sebagai rawatan EM, untuk melampaui bukti praklinikal/anekdot
+- **Nota:** pakej bukti ini juga menjaringkan "hemoroid" sebagai indikasi ramalan peringkat-2 ubat ini, dengan bukti yang jauh lebih kuat (L2, pelbagai RCT Fasa 2 yang selesai, pengesyoran "Teruskan dengan Pagar Keselamatan") mencerminkan kegunaan label yang sudah ditetapkan hydrocortisone (cth., Anusol-HC, Proctofoam-HC). Kandidat itu mungkin memerlukan penilaian berasingan sebagai kes pengubahsuaian tujuan/perluasan label yang lebih boleh tindakan daripada eritema multiforme.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

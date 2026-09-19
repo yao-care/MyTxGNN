@@ -29,95 +29,96 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Betamethasone Dipropionate: Drug Repurposing Evaluation Report
+# Betamethasone Dipropionate: Laporan Penilaian Ubat Repurposing
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Betamethasone Dipropionate is a potent synthetic corticosteroid widely used for inflammatory and pruritic dermatological conditions. The TxGNN model has **not generated any predicted new indications** for this drug at this time. There are currently **no clinical trials or publications** linked to a repurposing candidate, and several critical data gaps remain to be resolved.
+Betamethasone Dipropionate ialah kortikosteroid sintetik yang kuat digunakan secara meluas untuk keadaan dermatologi yang meradang dan gatal. Model TxGNN telah **tidak menghasilkan sebarang petunjukan baru yang diramalkan** untuk ubat ini pada masa ini. Pada masa ini **tiada ujian klinikal atau penerbitan** yang terpaut kepada calon repurposing, dan beberapa jurang data kritikal tetap perlu diselesaikan.
 
 ---
 
-## Quick Overview
+## Gambaran Pantas
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | *(Data not available in current evidence pack — see note below)* |
-| Predicted New Indication | **None** (no TxGNN predictions generated) |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | **L5** — Model prediction only; no candidate identified |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 41 |
-| Recommended Decision | **Hold** |
+| Petunjukan Asal | *(Data tidak tersedia dalam paket bukti semasa — lihat nota di bawah)* |
+| Petunjukan Baru yang Diramalkan | **Tiada** (tiada ramalan TxGNN dijana) |
+| Skor Ramalan TxGNN | N/A |
+| Tahap Bukti | **L5** — Ramalan model sahaja; tiada calon dikenal pasti |
+| Status Pasaran Malaysia | ✓ Dalam Pasaran (Marketed) |
+| Jumlah Pendaftaran | 41 |
+| Keputusan yang Disyorkan | **Tahan** |
 
-> **Note on Original Indication:** The 41 licence records returned by NPRA all have empty indication text fields. Based on established pharmacological knowledge, Betamethasone Dipropionate is a high-potency topical corticosteroid indicated for the relief of inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses (e.g., eczema, psoriasis, dermatitis).
-
----
-
-## Why is This Prediction Reasonable?
-
-There is **no TxGNN prediction to evaluate** at this time. The `predicted_indications` array is empty, meaning the model did not return any drug-repurposing candidates for Betamethasone Dipropionate.
-
-This may be due to one or more of the following reasons:
-- **Missing DrugBank ID mapping**: The evidence pack shows `drugbank_id: null`. Without a valid DrugBank identifier, the TxGNN knowledge graph cannot anchor the drug node and therefore cannot generate repurposing predictions.
-- **Topical corticosteroid limitations**: Betamethasone Dipropionate is predominantly used as a topical agent. Drugs with primarily local (non-systemic) mechanisms may have fewer knowledge-graph connections to systemic disease nodes, reducing the likelihood of high-scoring predictions.
-
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on general pharmacological knowledge, Betamethasone Dipropionate is a synthetic fluorinated corticosteroid that exerts anti-inflammatory, antipruritic, and vasoconstrictive effects by binding to intracellular glucocorticoid receptors, suppressing pro-inflammatory cytokine release, and inhibiting phospholipase A2 activity. This mechanism is well-characterised but the MOA field should be populated from DrugBank to enable proper mechanistic analysis.
+> **Nota tentang Petunjukan Asal:** Kesemua 41 rekod lesen yang dikembalikan oleh NPRA semuanya mempunyai medan teks petunjukan kosong. Berdasarkan pengetahuan farmakologi yang ditubuhkan, Betamethasone Dipropionate ialah kortikosteroid topikal berkuasa tinggi yang ditunjukkan untuk pelepasan manifestasi radang dan gatal bagi dermatosis yang responsif kepada kortikosteroid (cth: eksema, psoriasis, dermatitis).
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related clinical trials registered (no predicted indication to query against).
+**Tiada ramalan TxGNN untuk dinilai** pada masa ini. Tatasusunan `predicted_indications` kosong, bermakna model tidak mengembalikan sebarang calon repurposing ubat untuk Betamethasone Dipropionate.
+
+Ini mungkin disebabkan oleh satu atau lebih sebab berikut:
+- **Pemetaan ID DrugBank yang hilang**: Paket bukti menunjukkan `drugbank_id: null`. Tanpa pengenal DrugBank yang sah, graf pengetahuan TxGNN tidak dapat mengangkur nod ubat dan oleh itu tidak dapat menghasilkan ramalan repurposing.
+- **Had kortikosteroid topikal**: Betamethasone Dipropionate terutamanya digunakan sebagai agen topikal. Ubat dengan mekanisme terutamanya tempatan (bukan sistemik) mungkin mempunyai lebih sedikit sambungan graf pengetahuan kepada nod penyakit sistemik, mengurangkan kemungkinan ramalan berskor tinggi.
+
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia dalam paket bukti ini. Berdasarkan pengetahuan farmakologi umum, Betamethasone Dipropionate ialah kortikosteroid sintetik yang difluorina yang mengeluarkan kesan anti-radang, antipruritus, dan vasokonstriktif dengan mengikat reseptor glukokortikoid intraseluler, menekan pelepasan sitokin pro-radang, dan menghalang aktiviti fosfolipase A2. Mekanisme ini dicirikan dengan baik tetapi medan MOA harus diisi daripada DrugBank untuk membolehkan analisis mekanistik yang betul.
 
 ---
 
-## Literature Evidence
+## Bukti Ujian Klinikal
 
-Currently no related literature available (no predicted indication to query against).
+Pada masa ini tiada ujian klinikal berkaitan yang terdaftar (tiada petunjukan yang diramalkan untuk soalan).
 
 ---
 
-## Malaysia Market Information
+## Bukti Kesusasteraan
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+Pada masa ini tiada kesusasteraan berkaitan yang tersedia (tiada petunjukan yang diramalkan untuk soalan).
+
+---
+
+## Maklumat Pasaran Malaysia
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjukan yang Diluluskan |
 |------|------|------|------|
-| *(empty)* | *(empty)* | *(empty)* | *(empty)* |
-| *(empty)* | *(empty)* | *(empty)* | *(empty)* |
-| *(empty)* | *(empty)* | *(empty)* | *(empty)* |
-| *(empty)* | *(empty)* | *(empty)* | *(empty)* |
-| *(empty)* | *(empty)* | *(empty)* | *(empty)* |
+| *(kosong)* | *(kosong)* | *(kosong)* | *(kosong)* |
+| *(kosong)* | *(kosong)* | *(kosong)* | *(kosong)* |
+| *(kosong)* | *(kosong)* | *(kosong)* | *(kosong)* |
+| *(kosong)* | *(kosong)* | *(kosong)* | *(kosong)* |
+| *(kosong)* | *(kosong)* | *(kosong)* | *(kosong)* |
 
-> **Data Quality Issue:** All 41 NPRA licence records were returned with empty fields (licence number, product name, dosage form, and approved indication text are all blank). The raw NPRA query was successful (`result_count: 41`), but the structured data was not parsed into the evidence pack. This must be remediated before the report can be completed.
+> **Isu Kualiti Data:** Kesemua 41 rekod lesen NPRA telah dikembalikan dengan medan kosong (nombor lesen, nama produk, bentuk dos, dan teks petunjukan yang diluluskan semuanya kosong). Soalan NPRA mentah adalah berjaya (`result_count: 41`), tetapi data berstruktur tidak diuraikan ke dalam paket bukti. Ini mesti diperbaiki sebelum laporan dapat diselesaikan.
 
 ---
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-> Please refer to the package insert for safety information.
+> Sila rujuk sisipan paket untuk maklumat keselamatan.
 >
-> All safety data fields (key warnings, contraindications, drug interactions) are currently unavailable. The DDI query returned zero interactions. These data gaps are classified as **Blocking** severity — the evaluation cannot proceed to Stage 1 safety screening without them.
+> Semua medan data keselamatan (amaran utama, kontraindikasi, interaksi ubat) pada masa ini tidak tersedia. Soalan DDI mengembalikan sifar interaksi. Jurang data ini diklasifikasikan sebagai keterukan **Sekatan** — penilaian tidak dapat meneruskan ke saringan keselamatan Tahap 1 tanpa data ini.
 
 ---
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-This candidate cannot be evaluated because (1) no TxGNN repurposing predictions were generated, likely due to a missing DrugBank ID mapping, and (2) the NPRA licence data, safety warnings, and mechanism of action are all missing or empty. There is no predicted indication to assess.
+**Alasan:**
+Calon ini tidak dapat dinilai kerana (1) tiada ramalan repurposing TxGNN dijana, berkemungkinan disebabkan oleh pemetaan ID DrugBank yang hilang, dan (2) data lesen NPRA, amaran keselamatan, dan mekanisme tindakan semuanya hilang atau kosong. Tiada petunjukan yang diramalkan untuk dinilai.
 
-**To proceed, the following is needed:**
+**Untuk meneruskan, perkara berikut diperlukan:**
 
-1. **Resolve DrugBank ID mapping** — Query DrugBank for "Betamethasone Dipropionate" (the query log shows a successful DrugBank hit with `result_count: 1`; the ID should be captured and populated as `drugbank_id` — expected: [DB04315](https://go.drugbank.com/drugs/DB04315) or parent compound [DB00443](https://go.drugbank.com/drugs/DB00443) for Betamethasone)
-2. **Re-parse NPRA licence records** — The 41 registrations were found but all fields are empty; re-download and parse the structured data
-3. **Populate MOA from DrugBank** — Once the DrugBank ID is resolved, retrieve the mechanism of action
-4. **Retrieve safety data** — Download and parse package insert PDFs from the NPRA/TFDA website for warnings, contraindications, and drug interactions
-5. **Re-run TxGNN prediction** — With a valid DrugBank ID mapped into the knowledge graph, re-execute the KG and DL prediction pipelines to generate repurposing candidates
-6. **Re-generate evidence pack** — Once the above gaps are filled, produce a v5 evidence pack and re-run this report
+1. **Selesaikan pemetaan ID DrugBank** — Soal DrugBank untuk "Betamethasone Dipropionate" (log soalan menunjukkan hit DrugBank yang berjaya dengan `result_count: 1`; ID harus ditangkap dan diisi sebagai `drugbank_id` — dijangka: [DB04315](https://go.drugbank.com/drugs/DB04315) atau sebatian induk [DB00443](https://go.drugbank.com/drugs/DB00443) untuk Betamethasone)
+2. **Urai semula rekod lesen NPRA** — 41 pendaftaran ditemui tetapi semua medan kosong; muat semula dan urai data berstruktur
+3. **Isi MOA daripada DrugBank** — Apabila ID DrugBank diselesaikan, ambil mekanisme tindakan
+4. **Ambil data keselamatan** — Muat turun dan urai PDF sisipan paket daripada laman NPRA/TFDA untuk amaran, kontraindikasi, dan interaksi ubat
+5. **Jalankan semula ramalan TxGNN** — Dengan ID DrugBank sah yang dipetakan ke dalam graf pengetahuan, jalankan semula saluran ramalan KG dan DL untuk menghasilkan calon repurposing
+6. **Hasilkan semula paket bukti** — Apabila jurang di atas diisi, hasilkan paket bukti v5 dan jalankan semula laporan ini
 
 ---
 
-*This report was generated on 2026-04-09 based on Evidence Pack v4 (candidate ID: TW-UNKNOWN-multi). Results are for research purposes only and do not constitute medical advice. Any drug repurposing candidates require clinical validation before application.*
+*Laporan ini dijana pada 2026-04-09 berdasarkan Paket Bukti v4 (ID calon: TW-UNKNOWN-multi). Hasil adalah untuk tujuan penyelidikan sahaja dan tidak merupakan nasihat perubatan. Sebarang calon repurposing ubat memerlukan pengesahan klinikal sebelum aplikasi.*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

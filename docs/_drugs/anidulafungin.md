@@ -29,78 +29,79 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Anidulafungin: Repurposing Evaluation (No TxGNN Predictions Currently Available)
+# Anidulafungin: Penilaian Penggunaan Semula Ubat (Tiada Ramalan TxGNN Tersedia Pada Masa Ini)
 
 ---
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Anidulafungin (DB00362) is an echinocandin antifungal agent with one active registration in Malaysia.
-The current Evidence Pack contains **no TxGNN repurposing predictions** for this drug — the `predicted_indications` list is empty — meaning a standard repurposing evaluation cannot be completed at this stage.
-Critical upstream data gaps in the original approved indication, mechanism of action, and safety profile must be resolved before the pipeline can produce actionable output.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Not available in current data |
-| Predicted New Indication | No prediction generated |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | N/A — no predictions to evaluate |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | **Hold** |
+Anidulafungin (DB00362) ialah agen antifungal echinocandin dengan satu pendaftaran aktif di Malaysia.
+Pakej Bukti semasa mengandungi **tiada ramalan penggunaan semula TxGNN** untuk ubat ini — senarai `predicted_indications` kosong — bermaksud penilaian penggunaan semula ubat standard tidak dapat diselesaikan pada peringkat ini.
+Jurang data hulu yang kritikal dalam petunjuk yang diluluskan asal, mekanisme tindakan, dan profil keselamatan mesti diselesaikan sebelum saluran dapat menghasilkan output yang boleh bertindak.
 
 ---
 
-## Why No Prediction Was Generated
+## Gambaran Keseluruhan Cepat
 
-Currently, detailed mechanism of action data is not available. Based on its DrugBank classification (DB00362), Anidulafungin belongs to the **echinocandin** class of antifungal agents. Echinocandins act by inhibiting 1,3-β-D-glucan synthase, an enzyme essential for fungal cell wall integrity that has no mammalian equivalent — giving this drug class a highly selective safety profile.
-
-The absence of TxGNN predictions most likely stems from one or more of the following upstream failures:
-
-1. **No approved indications were loaded** — `original_indications` is an empty list, which may have prevented the drug from being correctly anchored in the knowledge graph.
-2. **MOA data is missing** — without mechanistic annotation, the graph-based traversal used by TxGNN may have scored no candidate disease nodes above the reporting threshold.
-3. **Licence detail fields are blank** — even though 1 NPRA registration exists, all structured fields (product name, dosage form, approved indication text) returned empty strings, suggesting a parsing or data-retrieval failure at the NPRA query step.
-
-Until these inputs are corrected and the prediction pipeline re-run, no repurposing candidates can be evaluated.
+| Perkara | Kandungan |
+|------|-----------|
+| Petunjuk Asal | Tidak tersedia dalam data semasa |
+| Petunjuk Ramalan Baru | Tiada ramalan dijana |
+| Skor Ramalan TxGNN | T/A |
+| Tahap Bukti | T/A — tiada ramalan untuk dinilai |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan Disyorkan | **Tunda** |
 
 ---
 
-## Malaysia Market Information
+## Mengapa Tiada Ramalan Dijana
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia. Berdasarkan pengklasifikasiannya dalam DrugBank (DB00362), anidulafungin termasuk dalam kelas **echinocandin** agen antifungal. Echinocandin bertindak dengan menghalang sintesis 1,3-β-D-glukan, enzim yang penting untuk integriti dinding sel fungal yang tidak mempunyai setara mamalia — memberikan kelas ubat ini profil keselamatan yang sangat selektif.
+
+Ketiadaan ramalan TxGNN kemungkinan besar berpunca daripada satu atau lebih kegagalan hulu berikut:
+
+1. **Tiada petunjuk yang diluluskan dimuat** — `original_indications` ialah senarai kosong, yang mungkin telah menghalang ubat daripada dilabuh dengan betul dalam graf pengetahuan.
+2. **Data MOA hilang** — tanpa anotasi mekanik, traversal berasaskan graf yang digunakan oleh TxGNN mungkin tidak menemui nod penyakit calon melampaui ambang pelaporan.
+3. **Medan butiran lesen kosong** — walaupun 1 pendaftaran NPRA wujud, semua medan berstruktur (nama produk, bentuk dos, teks petunjuk yang diluluskan) mengembalikan rentetan kosong, mencadangkan kegagalan penghuraian atau penarikan data pada langkah pertanyaan NPRA.
+
+Sehingga input ini diperbetulkan dan saluran ramalan dijalankan semula, tiada calon penggunaan semula ubat dapat dinilai.
+
+---
+
+## Maklumat Pasaran Malaysia
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjuk yang Diluluskan |
 |---------------------|--------------|-------------|---------------------|
-| Not returned | Not returned | Not returned | Not returned |
+| Tidak dikembalikan | Tidak dikembalikan | Tidak dikembalikan | Tidak dikembalikan |
 
-> Although the NPRA query on 2026-03-27 returned a `result_count` of 1, all structured fields within the licence record are blank. The raw response from NPRA should be inspected to determine whether the issue is a field-mapping mismatch in `config/fields.yaml` or an upstream data quality problem in the NPRA database itself.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-> All safety fields (key warnings, contraindications, drug interactions) are currently flagged as data gaps or returned empty. The DDI query returned zero interactions with a status of `not_found`. No safety summary can be produced until the package insert is retrieved and parsed.
+> Walaupun pertanyaan NPRA pada 2026-03-27 mengembalikan `result_count` 1, semua medan berstruktur dalam rekod lesen kosong. Respons mentah daripada NPRA harus diperiksa untuk menentukan sama ada isu adalah ketidaksesuaian pemetaan medan dalam `config/fields.yaml` atau masalah kualiti data hulu dalam pangkalan data NPRA itu sendiri.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-**Rationale:**
-The TxGNN pipeline produced zero repurposing candidates for Anidulafungin, and every critical data input — approved indication, mechanism of action, safety warnings, and NPRA licence details — is currently unavailable. There is no evidence base on which to make a repurposing recommendation.
+> Semua medan keselamatan (amaran utama, kontraindikasi, interaksi ubat) pada masa ini ditandai sebagai jurang data atau mengembalikan kosong. Pertanyaan DDI mengembalikan interaksi sifar dengan status `not_found`. Tiada ringkasan keselamatan dapat dihasilkan sehingga sisipan pakej diambil dan diuraikan.
 
-**To proceed, the following is needed:**
+---
 
-- **[Blocking — DG001]** Download and parse the NPRA/TFDA package insert PDF to extract approved indications, key warnings, and contraindications; without this, safety pre-screening (S1 gate) cannot be entered
-- **[High — DG002]** Query the DrugBank API for Anidulafungin's mechanism of action (DB00362) to enable mechanistic relevance analysis
-- **[High]** Investigate why the single NPRA licence record returned all blank fields — check the field mapping in `config/fields.yaml` against the actual NPRA response structure and correct the parser in `scripts/process_fda_data.py`
-- **[High]** Re-run `scripts/run_kg_prediction.py` after populating the original indication and MOA fields; verify that Anidulafungin (DB00362) is present and correctly mapped in `data/external/drugbank_vocab.csv`
-- **[Medium]** Once predictions are available, collect clinical trial and PubMed literature evidence for the top-ranked predicted indication and re-issue this report at Evidence Level L2 or above before any go/no-go decision
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tunda**
+
+**Rasional:**
+Saluran TxGNN menghasilkan sifar calon penggunaan semula ubat untuk anidulafungin, dan setiap input data kritikal — petunjuk yang diluluskan, mekanisme tindakan, amaran keselamatan, dan butiran lesen NPRA — pada masa ini tidak tersedia. Tiada asas bukti untuk membuat cadangan penggunaan semula ubat.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+
+- **[Menghalang — DG001]** Muat turun dan uraikan PDF sisipan pakej NPRA/TFDA untuk mengekstrak petunjuk yang diluluskan, amaran utama, dan kontraindikasi; tanpanya, pra-pemeriksaan keselamatan (pintu S1) tidak dapat dimulai
+- **[Tinggi — DG002]** Pertanyaan API DrugBank untuk mekanisme tindakan anidulafungin (DB00362) untuk membolehkan analisis relevansi mekanik
+- **[Tinggi]** Selidiki mengapa rekod lesen NPRA tunggal mengembalikan semua medan kosong — periksa pemetaan medan dalam `config/fields.yaml` terhadap struktur respons NPRA sebenar dan betulkan pengurai dalam `scripts/process_fda_data.py`
+- **[Tinggi]** Jalankan semula `scripts/run_kg_prediction.py` selepas mengisi medan petunjuk asal dan MOA; sahkan bahawa anidulafungin (DB00362) hadir dan dipetakan dengan betul dalam `data/external/drugbank_vocab.csv`
+- **[Sederhana]** Setelah ramalan tersedia, kumpulkan bukti ujian klinikal dan literatur PubMed untuk petunjuk ramalan peringkat teratas dan keluarkan semula laporan ini pada Tahap Bukti L2 atau lebih tinggi sebelum mana-mana keputusan pergi/tidak pergi
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

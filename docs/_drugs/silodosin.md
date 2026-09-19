@@ -29,78 +29,79 @@ Tahap bukti: **L5** | Indikasi diramal: **6**
 
 </div>
 
-# Silodosin: From Benign Prostatic Hyperplasia to Ambras Type Hypertrichosis Universalis Congenita
+# Silodosin: Daripada Hiperplasia Prostat Jinak kepada Hipertrikosis Universal Kongenital Jenis Ambras
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-> Silodosin is a highly selective alpha-1A adrenergic receptor antagonist used to treat benign prostatic hyperplasia (BPH) and lower urinary tract symptoms (LUTS).
-> The TxGNN model predicts it may be effective for **Ambras type hypertrichosis universalis congenita**, a rare congenital hair-overgrowth syndrome,
-> but this is supported by **0 clinical trials** and **0 publications**, and the evidence pack itself flags the prediction as likely a knowledge-graph embedding artifact rather than a genuine pharmacological signal.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Benign Prostatic Hyperplasia (BPH) / Lower Urinary Tract Symptoms (LUTS) — based on known drug class; structured NPRA indication text not available in this evidence pack |
-| Predicted New Indication | Ambras type hypertrichosis universalis congenita |
-| TxGNN Prediction Score | 99.99% |
-| Evidence Level | L5 (model prediction only, no supporting studies) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+> Silodosin adalah penyekat reseptor adrenergik alfa-1A yang sangat selektif yang digunakan untuk merawat hiperplasia prostat jinak (BPH) dan gejala saluran kencing bawah (LUTS).
+> Model TxGNN meramalkan ia mungkin berkesan untuk **Hipertrikosis universal kongenital jenis Ambras**, sebuah gangguan kongenital hipertrikosis yang jarang,
+> tetapi ini disokong oleh **0 ujian klinik** dan **0 penerbitan**, dan pakej bukti itu sendiri menandai ramalan itu sebagai berkemungkinan besar artefak penyematan grafik pengetahuan daripada isyarat farmakologi yang sebenar.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Cepat
 
-Currently, detailed mechanism of action data is not available in structured form (flagged as a High-severity data gap). Based on known information, silodosin is a highly selective alpha-1A adrenergic receptor antagonist that relaxes smooth muscle in the prostate and bladder neck, and is approved for BPH and associated lower urinary tract symptoms.
-
-There is no known or plausible mechanistic link between alpha-1A receptor antagonism and Ambras type hypertrichosis, a rare congenital disorder of follicular development. The evidence pack's own rationale is explicit on this point: it describes the prediction as most likely arising from proximity in the TxGNN knowledge-graph embedding space rather than any genuine biological relationship, and notes it has no supporting biological plausibility.
-
-This assessment is reinforced by the pattern across silodosin's top 6 predicted indications: nearly all are rare congenital or dysmorphic syndromes (hypertrichosis, odonto-periodontal malformation syndrome, Dandy-Walker malformation, hair shaft abnormality, familial trichomegaly) that cluster together in a way suggestive of a systematic embedding artifact rather than five independent, biologically grounded repurposing signals.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Hiperplasia Prostat Jinak (BPH) / Gejala Saluran Kencing Bawah (LUTS) — berdasarkan kelas ubat yang diketahui; teks petunjuk NPRA berstruktur tidak tersedia dalam pakej bukti ini |
+| Petunjuk Baru Diramalkan | Hipertrikosis universal kongenital jenis Ambras |
+| Skor Ramalan TxGNN | 99.99% |
+| Tahap Bukti | L5 (ramalan model sahaja, tiada kajian sokongan) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia dalam bentuk berstruktur (ditandai sebagai jurang data tahap Tinggi). Berdasarkan maklumat yang diketahui, silodosin adalah penyekat reseptor adrenergik alfa-1A yang sangat selektif yang melonggarkan otot licin di prostat dan leher belepung, dan diluluskan untuk BPH dan gejala saluran kencing bawah yang berkaitan.
 
----
+Tidak terdapat pautan mekanistik yang diketahui atau mungkin antara antagonisme reseptor alfa-1A dan hipertrikosis universal kongenital jenis Ambras, sebuah gangguan kongenital yang jarang bagi perkembangan folikel. Pakej bukti itu sendiri jelas tentang perkara ini: ia menggambarkan ramalan sebagai berkemungkinan besar timbul daripada kedekatannya dalam ruang penyematan grafik pengetahuan TxGNN daripada sebarang hubungan biologi yang sebenar, dan mencatatkan ia tidak mempunyai sokongan kebolehpercayaan biologi.
 
-## Malaysia Market Information
-
-Silodosin is registered and marketed in Malaysia (1 NPRA license on file), but the evidence pack does not contain the underlying license number, product name, dosage form, or approved indication text — this needs to be pulled directly from the NPRA registry to complete a product-level record.
+Penilaian ini diperkuat oleh corak di antara 6 petunjuk diramalkan teratas silodosin: hampir semua adalah sindrom kongenital atau dismorfik yang jarang (hipertrikosis, sindrom kelainan odonto-periodontal, malformasi Dandy-Walker, kelainan aci rambut, trichomegali keluarga) yang berkumpul bersama dengan cara yang mencadangkan artefak penyematan sistematik daripada lima isyarat penyusunan semula penggunaan yang bebas dan berasaskan biologi.
 
 ---
 
-## Safety Considerations
+## Bukti Ujian Klinik
 
-Please refer to the package insert for safety information.
-
-*Note: TFDA/NPRA label warnings and contraindications are a Blocking data gap in this evidence pack (DG001) — this must be resolved before any S1 safety review can proceed.*
+Pada masa ini tiada ujian klinik berkaitan yang didaftarkan
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Kesusasteraan
 
-**Decision: Hold**
+Pada masa ini tiada kesusasteraan berkaitan yang tersedia
 
-**Rationale:**
-The top-ranked prediction sits at evidence level L5 (model score only, zero trials, zero literature), and the evidence pack's own mechanistic review judges it biologically implausible and likely an embedding artifact — this holds for all 6 of silodosin's top predicted indications, none of which have supporting clinical or literature evidence. A Blocking data gap in TFDA/NPRA safety labeling also prevents this candidate from entering initial safety screening (S1) regardless of the indication question.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert (warnings, contraindications) to close the Blocking safety data gap (DG001)
-- Structured mechanism-of-action data from DrugBank (DG002)
-- Complete NPRA license record (product name, dosage form, approved indication text) for the Malaysia market entry
-- If this candidate is pursued further, an independent review of whether the TxGNN embedding cluster around rare congenital/dysmorphic syndromes reflects a systematic model artifact, before allocating further evidence-collection resources to it
+## Maklumat Pasaran Malaysia
+
+Silodosin didaftarkan dan dipasarkan di Malaysia (1 lesen NPRA pada fail), tetapi pakej bukti tidak mengandungi nombor lesen asas, nama produk, bentuk dos, atau teks petunjuk yang diluluskan — ini perlu diambil terus daripada pendaftaran NPRA untuk melengkapkan rekod aras produk.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
+
+*Nota: Amaran label TFDA/NPRA dan kontraindikasi adalah jurang data Pemblokiran dalam pakej bukti ini (DG001) — ini mesti diselesaikan sebelum sebarang semakan keselamatan S1 dapat diteruskan.*
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Asas Pemikiran:**
+Ramalan bertaraf tertinggi berada pada tahap bukti L5 (skor model sahaja, ujian sifar, kesusasteraan sifar), dan semakan mekanistik pakej bukti sendiri menilainya sebagai tidak mungkin secara biologi dan berkemungkinan artefak penyematan — ini berlaku untuk kesemua 6 petunjuk yang diramalkan teratas bagi silodosin, tiada satu pun yang mempunyai bukti klinik atau kesusasteraan yang menyokong. Jurang data Pemblokiran dalam pelabelan keselamatan TFDA/NPRA juga menghalang calon ini daripada memasuki penapisan keselamatan awal (S1) tanpa mengira pertanyaan petunjuk.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisipan pakej TFDA/NPRA (amaran, kontraindikasi) untuk menutup jurang data keselamatan Pemblokiran (DG001)
+- Data mekanisme tindakan berstruktur daripada DrugBank (DG002)
+- Rekod lesen NPRA lengkap (nama produk, bentuk dos, teks petunjuk yang diluluskan) untuk kemasukan pasaran Malaysia
+- Jika calon ini dikejar lebih lanjut, ulasan bebas tentang sama ada kelompok penyematan TxGNN mengelilingi sindrom kongenital/dismorfik yang jarang mencerminkan artefak model sistematik, sebelum memperuntukkan sumber pengumpulan bukti lanjut kepadanya
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

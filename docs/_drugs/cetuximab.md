@@ -29,89 +29,90 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Cetuximab: From Approved Oncology Indications to Non-seminomatous Lesion
+# Cetuximab: Daripada Indikasi Onkologi yang Diluluskan kepada Lesi Non-seminomatosa
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Cetuximab (DrugBank DB00002) is an anti-EGFR monoclonal antibody marketed in Malaysia under 2 registrations; the specific original approved-indication text is not captured in this data pull (data gap). The TxGNN model's top-ranked prediction for this drug is **Non-seminomatous Lesion**, but this specific signal is currently **unsupported by evidence** — **0 clinical trials** and **0 publications** were found for this drug–disease pair.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not captured in current data (original_indications field empty; MOA also a data gap — see below) |
-| Predicted New Indication | Non-seminomatous Lesion |
-| TxGNN Prediction Score | 99.95% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
-| Recommended Decision | Hold |
+Cetuximab (DrugBank DB00002) ialah antibodi monoklonal anti-EGFR yang dipasarkan di Malaysia dengan 2 pendaftaran; teks indikasi asal yang diluluskan tidak ditangkap dalam senarai data ini (jurang data). Ramalan teratas model TxGNN untuk ubat ini ialah **Lesi Non-seminomatosa**, tetapi isyarat khusus ini pada masa ini **tidak disokong oleh bukti** — **0 ujian klinikal** dan **0 penerbitan** telah ditemui untuk pasangan ubat-penyakit ini.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Pantas
 
-Currently, detailed mechanism of action data is not available for Cetuximab in this evidence pack (flagged as a High-severity data gap, DG002). Based on information present elsewhere in this pack's literature evidence, Cetuximab is known to act as a chimeric IgG1 monoclonal antibody directed against the epidermal growth factor receptor (EGFR), and is used across several EGFR-driven epithelial cancers (e.g., colorectal cancer, head and neck squamous cell carcinoma, and salivary gland carcinoma appear repeatedly in the supporting literature retrieved for other candidate indications).
-
-For the specific prediction featured here — **Non-seminomatous Lesion** — no clinical trial, ICTRP, or PubMed record was retrieved despite targeted searches. The rationale supplied with this candidate explicitly states that the link is "a TxGNN prediction score only, with no mechanistic literature support" for EGFR expression in non-seminomatous lesions. In other words, the association currently rests entirely on the graph-embedding model's output rank, not on any independent biological or clinical signal.
-
-**Note:** This same evidence pack contains other TxGNN candidates for Cetuximab with meaningfully stronger support than this one — notably **cystic neoplasm** (rank 8, evidence level L2, driven by a Phase II trial in salivary/adenoid cystic carcinoma) and **pre-malignant neoplasm** (rank 10, evidence level L1, driven by a completed Phase II trial of cetuximab in high-risk pre-malignant upper aerodigestive lesions, NCT00524017). Reviewers evaluating this drug's repurposing potential should consider those candidates separately, as they are far better evidenced than the top-ranked prediction discussed in this report.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Tidak ditangkap dalam data semasa (medan original_indications kosong; MOA juga jurang data — lihat di bawah) |
+| Indikasi Baru yang Diramalkan | Lesi Non-seminomatosa |
+| Skor Ramalan TxGNN | 99.95% |
+| Paras Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 2 |
+| Keputusan Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available.
+Pada masa ini, data mekanisme tindakan yang terperinci tidak tersedia untuk Cetuximab dalam pakej bukti ini (ditandai sebagai jurang data dengan keparahan tinggi, DG002). Berdasarkan maklumat yang terdapat di tempat lain dalam bukti kesusasteraan pakej ini, Cetuximab diketahui bertindak sebagai antibodi monoklonal kimia IgG1 yang diarahkan terhadap penerima faktor pertumbuhan epidermis (EGFR), dan digunakan merentasi beberapa kanser epitelial yang didorong EGFR (cth., kanser kolorektal, karsinoma sel skuamosa kepala dan leher, dan karsinoma kelenjar liur muncul berulang kali dalam kesusasteraan sokongan yang diambil untuk calon indikasi lain).
 
----
+Untuk ramalan khusus yang ditampilkan di sini — **Lesi Non-seminomatosa** — tiada rekod ujian klinikal, ICTRP, atau PubMed telah diambil walaupun carian tersasaran. Rasional yang disediakan dengan calon ini menyatakan dengan jelas bahawa pautan itu ialah "skor ramalan TxGNN sahaja, tanpa sokongan kesusasteraan mekanistik" untuk ungkapan EGFR dalam lesi non-seminomatosa. Dengan kata lain, persatuan pada masa ini bergantung sepenuhnya pada output pangkat model embedding graf, bukan pada mana-mana isyarat biologi atau klinikal yang independen.
 
-## Malaysia Market Information
-
-License records exist for Cetuximab (2 registrations, market status "Marketed"/Marketed), but product name, dosage form, manufacturer, and approved-indication text were not populated in this data pull — a detailed product table cannot be presented without fabricating values.
+**Nota:** Pakej bukti yang sama ini mengandungi calon TxGNN lain untuk Cetuximab dengan sokongan yang bermakna lebih kuat daripada yang ini — terutamanya **neoplasma kistik** (pangkat 8, paras bukti L2, didorong oleh ujian Fasa II dalam karsinoma kistik saliva/adenoid) dan **neoplasma pra-ganas** (pangkat 10, paras bukti L1, didorong oleh ujian Fasa II yang selesai bagi cetuximab dalam lesi aerodigestif atas pra-ganas berisiko tinggi, NCT00524017). Penyemak yang menilai potensi ubat baru ini harus mempertimbangkan calon tersebut secara berasingan, kerana mereka jauh lebih terbukti daripada ramalan tertinggi yang dibincangkan dalam laporan ini.
 
 ---
 
-## Cytotoxicity
+## Bukti Ujian Klinikal
 
-Cetuximab is an antineoplastic biologic (anti-EGFR monoclonal antibody used across multiple epithelial cancers per the literature retrieved elsewhere in this pack), so this section applies.
-
-| Item | Content |
-|------|------|
-| Cytotoxicity Classification | Targeted therapy (Anti-EGFR monoclonal antibody) |
-| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
-| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | Please refer to the package insert warnings and precautions |
-| Handling Protection | Please refer to the package insert warnings and precautions |
+Pada masa ini tiada ujian klinikal berkaitan yang berdaftar.
 
 ---
 
-## Safety Considerations
+## Bukti Kesusasteraan
 
-Please refer to the package insert for safety information.
+Pada masa ini tiada kesusasteraan berkaitan yang tersedia.
 
 ---
 
-## Conclusion and Next Steps
+## Maklumat Pasaran Malaysia
 
-**Decision: Hold**
+Rekod lesen wujud untuk Cetuximab (2 pendaftaran, status pasaran "Dipasarkan"), tetapi nama produk, bentuk dos, pengilang, dan teks indikasi yang diluluskan tidak diisi dalam senarai data ini — jadual produk terperinci tidak boleh dipersembahkan tanpa membuat nilai.
 
-**Rationale:**
-The featured prediction (Cetuximab → Non-seminomatous Lesion) has no clinical trial or literature evidence and rests solely on a TxGNN model score (Evidence Level L5); it does not meet the threshold to proceed past S0.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA product label (warnings and contraindications) — currently a Blocking data gap (DG001), required before any S1 safety screening
-- Cetuximab mechanism-of-action documentation from DrugBank — currently a High-severity data gap (DG002), required for mechanistic-link analysis
-- Malaysia license/product detail (product name, dosage form, manufacturer, approved indication text) for the 2 existing registrations
-- If this candidate is to be pursued further, independent literature or preclinical evidence connecting EGFR biology to non-seminomatous lesions
-- Separately, consider prioritizing evaluation of the better-evidenced candidates already surfaced in this pack — **cystic neoplasm (L2)** and **pre-malignant neoplasm (L1)** — which have actual clinical trial support
+## Sitotoksisiti
+
+Cetuximab ialah biologi antineoplastik (antibodi monoklonal anti-EGFR yang digunakan merentasi pelbagai kanser epitelial mengikut kesusasteraan yang diambil di tempat lain dalam pakej ini), jadi bahagian ini terpakai.
+
+| Item | Kandungan |
+|------|----------|
+| Pengelasan Sitotoksisiti | Terapi yang tersasaran (Antibodi monoklonal anti-EGFR) |
+| Risiko Supresi Sumsum Tulang | Sila rujuk amaran dan tindakan pencegahan dalam sisipan bungkus |
+| Pengelasan Emetogenisiti | Sila rujuk amaran dan tindakan pencegahan dalam sisipan bungkus |
+| Item Pemantauan | Sila rujuk amaran dan tindakan pencegahan dalam sisipan bungkus |
+| Perlindungan Pengendalian | Sila rujuk amaran dan tindakan pencegahan dalam sisipan bungkus |
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan bungkus untuk maklumat keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Ramalan yang ditampilkan (Cetuximab → Lesi Non-seminomatosa) tidak mempunyai bukti ujian klinikal atau kesusasteraan dan bergantung sepenuhnya pada skor model TxGNN (Paras Bukti L5); ia tidak memenuhi ambang untuk meneruskan melepasi S0.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Label produk TFDA/NPRA (amaran dan kontraindikasi) — pada masa ini jurang data Menghalang (DG001), diperlukan sebelum penskrinan keselamatan S1 apa pun
+- Dokumentasi mekanisme tindakan Cetuximab daripada DrugBank — pada masa ini jurang data dengan keparahan tinggi (DG002), diperlukan untuk analisis pautan mekanistik
+- Maklumat lesen/terperinci produk Malaysia untuk 2 pendaftaran sedia ada (nama produk, bentuk dos, pengilang, teks indikasi yang diluluskan)
+- Jika calon ini akan diusahakan lebih lanjut, bukti kesusasteraan bebas atau praklinikal yang menghubungkan biologi EGFR kepada lesi non-seminomatosa
+- Secara berasingan, pertimbangkan untuk mengutamakan penilaian calon yang lebih terbukti telah dipermukaankan dalam pakej ini — **neoplasma kistik (L2)** dan **neoplasma pra-ganas (L1)** — yang mempunyai sokongan ujian klinikal sebenar
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

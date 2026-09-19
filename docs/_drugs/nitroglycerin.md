@@ -29,94 +29,95 @@ Tahap bukti: **L3** | Indikasi diramal: **5**
 
 </div>
 
-# Nitroglycerin: From Angina Pectoris to Pulmonary Hypertension
+# Nitroglycerin: Daripada Angina Pektoris kepada Hipertansi Paru-paru
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Nitroglycerin is a nitrate vasodilator classically used for angina pectoris and hypertensive emergencies (regulatory indication text was not returned in this data pull). The TxGNN model predicts it may be effective for **Pulmonary Hypertension**, with **13 clinical trials** and **20 publications** currently supporting this direction, though none are completed pivotal Phase 3 trials specific to this indication.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not available from this NPRA data pull (license indication text empty); classically indicated for angina pectoris / hypertensive emergencies |
-| Predicted New Indication | Pulmonary Hypertension |
-| TxGNN Prediction Score | 99.61% |
-| Evidence Level | L3 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
-| Recommended Decision | Proceed with Guardrails |
+Nitroglycerin adalah vasodilatator nitrat yang secara klasik digunakan untuk angina pektoris dan kecemasan hipertensi (teks indikasi peraturan tidak dikembalikan dalam penarikan data NPRA ini). Model TxGNN meramalkan ia mungkin berkesan untuk **Hipertansi Paru-paru**, dengan **13 ujian klinis** dan **20 penerbitan** yang kini menyokong arah ini, walaupun tiada satu pun adalah ujian Fasa 3 pivotal lengkap yang khusus untuk indikasi ini.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Pantas
 
-Detailed mechanism-of-action data was not returned for this candidate in the current data pull. Based on the supporting literature itself (Divakaran & Loscalzo, *JACC* 2017, PMID 29096811), nitroglycerin is an organic nitrate that is enzymatically converted to nitric oxide (NO), which activates guanylate cyclase, raises intracellular cGMP, and relaxes vascular smooth muscle. This is the same mechanism underlying its established use in angina and acute pulmonary edema.
-
-Because pulmonary vascular smooth muscle responds to the same NO–cGMP pathway as systemic and coronary vasculature, the mechanistic extension from angina/vasospasm control to pulmonary vasodilation is pharmacologically plausible. This is reinforced by decades of small clinical studies using inhaled/nebulized or IV nitroglycerin to acutely lower pulmonary artery pressure across multiple pulmonary hypertension etiologies — congenital heart disease, persistent pulmonary hypertension of the newborn (PPHN), post-cardiac-surgery pulmonary hypertension, and COPD-related pulmonary hypertension.
-
-Nitroglycerin's known short duration of action, tolerance development, and need for continuous/nebulized dosing (rather than oral formulation for pulmonary hypertension) are practical considerations that mechanistic plausibility alone does not resolve, and would need to be addressed before any Malaysia-specific development plan.
+| Item | Kandungan |
+|------|---------|
+| Indikasi Asal | Tidak tersedia daripada penarikan data NPRA ini (teks indikasi lesen kosong); secara klasik ditunjukkan untuk angina pektoris / kecemasan hipertensi |
+| Indikasi Baru yang Diramalkan | Hipertansi Paru-paru |
+| Skor Ramalan TxGNN | 99.61% |
+| Tahap Bukti | L3 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 3 |
+| Keputusan Disyorkan | Teruskan dengan Pengawal |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Data mekanisme-tindakan terperinci tidak dikembalikan untuk kandidat ini dalam penarikan data semasa. Berdasarkan literatur penyokong itu sendiri (Divakaran & Loscalzo, *JACC* 2017, PMID 29096811), nitroglycerin adalah nitrat organik yang secara enzim ditukarkan kepada nitrik oksida (NO), yang mengaktifkan guanilat siklas, meningkatkan cGMP intraseluler, dan melonggarkan otot licin vaskular. Ini adalah mekanisme yang sama di sebalik penggunaannya yang mantap dalam angina dan edema paru akut.
+
+Kerana otot licin vaskular paru merespons laluan NO–cGMP yang sama seperti vaskular sistemik dan koroner, lanjutan mekanistik daripada kawalan angina/vasospasm kepada vasodilatasi paru adalah dapat dipercayai secara farmakologi. Ini diperkuat oleh beberapa dekad kajian klinis kecil menggunakan nitroglycerin yang terhidu/nebulisasi atau IV untuk menurunkan tekanan arteri paru akut merentas pelbagai etiologi hipertansi paru — penyakit jantung kongenital, hipertansi paru persisten bayi baru lahir (PPHN), hipertansi paru pasca-pembedahan jantung, dan hipertansi paru yang berkaitan COPD.
+
+Tempoh tindakan pendek nitroglycerin yang diketahui, perkembangan toleransi, dan keperluan untuk dos berkelanjutan/nebulisasi (dan bukannya formulasi oral untuk hipertansi paru) adalah pertimbangan praktikal yang ketersediaan mekanistik sahaja tidak menyelesaikan, dan perlu ditangani sebelum mana-mana rancangan pembangunan khusus Malaysia.
+
+---
+
+## Bukti Ujian Klinis
+
+| Nombor Ujian | Fasa | Status | Kemasukan | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT05741229](https://clinicaltrials.gov/study/NCT05741229) | NA | Completed | 80 | Nebulized nitroglycerin as adjuvant therapy improved echocardiographic and clinical parameters in persistent pulmonary hypertension of the newborn (PPHN) |
-| [NCT07214129](https://clinicaltrials.gov/study/NCT07214129) | NA | Completed | 20 | Nebulized nitroglycerin evaluated as a vaso-reactivity testing agent in pulmonary arterial hypertension |
-| [NCT04594629](https://clinicaltrials.gov/study/NCT04594629) | Phase 1 | Unknown | 120 | Compared nebulized PGI2 (epoprostenol) vs. nebulized nitroglycerin for managing pulmonary hypertension after valve replacement surgery |
-| [NCT06107465](https://clinicaltrials.gov/study/NCT06107465) | Phase 2/3 | Unknown | 60 | High- vs. low-dose IV nitroglycerin in sympathetic crashing acute pulmonary edema (SCAPE) |
-| [NCT03259165](https://clinicaltrials.gov/study/NCT03259165) | Phase 2 | Terminated | 52 | Nitroglycerin vs. furosemide guided by lung ultrasound in acute heart failure |
-| [NCT00449059](https://clinicaltrials.gov/study/NCT00449059) | Phase 4 | Completed | 20 | Acute effect of nitroglycerin infusion on cyclosporine-induced hypertension after cardiac transplantation |
-| [NCT01120964](https://clinicaltrials.gov/study/NCT01120964) | Phase 1/2 | Completed | 22 | IV L-citrulline (NO-pathway precursor) vs. placebo in children undergoing cardiopulmonary bypass, relevant to pulmonary pressure control |
-| [NCT05373108](https://clinicaltrials.gov/study/NCT05373108) | Phase 4 | Completed | 19 | Endothelin-1 and vasomotor function assessment in cardiac allograft vasculopathy — mechanistically relevant to pulmonary/coronary vasomotor regulation |
+| [NCT05741229](https://clinicaltrials.gov/study/NCT05741229) | NA | Selesai | 80 | Nitroglycerin nebulisasi sebagai terapi pembantu meningkatkan parameter ekokardiografi dan klinis dalam hipertansi paru persisten bayi baru lahir (PPHN) |
+| [NCT07214129](https://clinicaltrials.gov/study/NCT07214129) | NA | Selesai | 20 | Nitroglycerin nebulisasi dinilai sebagai ejen ujian vasoreaktiviti dalam hipertansi arterial paru |
+| [NCT04594629](https://clinicaltrials.gov/study/NCT04594629) | Fasa 1 | Tidak diketahui | 120 | Dibandingkan PGI2 nebulisasi (epoprostenol) vs. nitroglycerin nebulisasi untuk menguruskan hipertansi paru selepas pembedahan penggantian injap |
+| [NCT06107465](https://clinicaltrials.gov/study/NCT06107465) | Fasa 2/3 | Tidak diketahui | 60 | Nitroglycerin IV dos tinggi vs. dos rendah dalam edema paru akut ranap simpatik (SCAPE) |
+| [NCT03259165](https://clinicaltrials.gov/study/NCT03259165) | Fasa 2 | Dihentikan | 52 | Nitroglycerin vs. furosemid dipandu oleh ultrasound paru dalam kegagalan jantung akut |
+| [NCT00449059](https://clinicaltrials.gov/study/NCT00449059) | Fasa 4 | Selesai | 20 | Kesan akut infusi nitroglycerin pada hipertensi yang diinduksi siklosporin selepas pemindahan jantung |
+| [NCT01120964](https://clinicaltrials.gov/study/NCT01120964) | Fasa 1/2 | Selesai | 22 | L-sitrulin IV (pelopor laluan NO) vs. plasebo pada anak-anak yang menjalani pintasan kardiopulmoner, relevan dengan kawalan tekanan paru |
+| [NCT05373108](https://clinicaltrials.gov/study/NCT05373108) | Fasa 4 | Selesai | 19 | Penilaian endotelin-1 dan fungsi vasomotor dalam vaskulopati alograf jantung — relevan secara mekanistik dengan regulasi vasomotor paru/koroner |
 
 ---
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [40888971](https://pubmed.ncbi.nlm.nih.gov/40888971/) | 2025 | RCT | European Journal of Pediatrics | Nebulized nitroglycerin improved echocardiographic/clinical parameters vs. control in 80 newborns with PPHN |
-| [29880427](https://pubmed.ncbi.nlm.nih.gov/29880427/) | 2018 | RCT | Journal of Cardiothoracic and Vascular Anesthesia | Compared dobutamine + nitroglycerin vs. milrinone for perioperative pulmonary hypertension management in mitral valve surgery |
-| [39549131](https://pubmed.ncbi.nlm.nih.gov/39549131/) | 2024 | Systematic Review/NMA | Clinical Drug Investigation | Network meta-analysis comparing pulmonary vasodilator therapies (including nitroglycerin) for perioperative pulmonary hypertension in mitral valve replacement surgery |
-| [29096811](https://pubmed.ncbi.nlm.nih.gov/29096811/) | 2017 | Review | Journal of the American College of Cardiology | Comprehensive review of nitroglycerin's NO-donor mechanism and cardiovascular therapeutic roles |
-| [34082850](https://pubmed.ncbi.nlm.nih.gov/34082850/) | 2021 | Review | Cardiology in the Young | Review of nitroglycerin inhalation for acute pulmonary arterial hypertension in children with congenital heart disease |
-| [16429888](https://pubmed.ncbi.nlm.nih.gov/16429888/) | 2005 | Review | Texas Heart Institute Journal | Review of pharmacologic management of systemic and pulmonary hypertension in cardiac surgery patients |
-| [6407380](https://pubmed.ncbi.nlm.nih.gov/6407380/) | 1983 | Clinical Study | Annals of Internal Medicine | Nitroglycerin increased cardiac index 40%, decreased pulmonary vascular resistance 40%, and reduced mean pulmonary artery pressure in 9 patients with chronic pulmonary hypertension |
-| [14508317](https://pubmed.ncbi.nlm.nih.gov/14508317/) | 2003 | Clinical Study | Anesthesiology | Nitroglycerin inhalation improved postoperative hemodynamics in pulmonary hypertension patients undergoing mitral valve replacement |
-| [6423015](https://pubmed.ncbi.nlm.nih.gov/6423015/) | 1984 | Clinical Study | Bulletin Européen de Physiopathologie Respiratoire | Sublingual nitroglycerin/isosorbide dinitrate reduced pulmonary arterial pressure and vascular resistance in COPD-related pulmonary hypertension |
-| [31250045](https://pubmed.ncbi.nlm.nih.gov/31250045/) | 2019 | Clinical Study | European Journal of Clinical Pharmacology | ALDH2 polymorphism influenced the vasodilatory response to nitroglycerin in infants with congenital heart disease and pulmonary arterial hypertension |
+| [40888971](https://pubmed.ncbi.nlm.nih.gov/40888971/) | 2025 | RCT | European Journal of Pediatrics | Nitroglycerin nebulisasi meningkatkan parameter ekokardiografi/klinis vs. kawalan dalam 80 bayi baru lahir dengan PPHN |
+| [29880427](https://pubmed.ncbi.nlm.nih.gov/29880427/) | 2018 | RCT | Journal of Cardiothoracic and Vascular Anesthesia | Dibandingkan dobutamin + nitroglycerin vs. milrinon untuk pengurusan hipertansi paru perioperatif dalam pembedahan injap mitral |
+| [39549131](https://pubmed.ncbi.nlm.nih.gov/39549131/) | 2024 | Ulasan Sistematik/NMA | Clinical Drug Investigation | Meta-analisis rangkaian membandingkan terapi vasodilatator paru (termasuk nitroglycerin) untuk hipertansi paru perioperatif dalam pembedahan penggantian injap mitral |
+| [29096811](https://pubmed.ncbi.nlm.nih.gov/29096811/) | 2017 | Ulasan | Journal of the American College of Cardiology | Ulasan komprehensif bagi mekanisme penderma NO nitroglycerin dan peranan terapeutik kardiovaskular |
+| [34082850](https://pubmed.ncbi.nlm.nih.gov/34082850/) | 2021 | Ulasan | Cardiology in the Young | Ulasan inhalasi nitroglycerin untuk hipertansi arterial paru akut pada anak-anak dengan penyakit jantung kongenital |
+| [16429888](https://pubmed.ncbi.nlm.nih.gov/16429888/) | 2005 | Ulasan | Texas Heart Institute Journal | Ulasan pengurusan farmakologi hipertensi sistemik dan paru dalam pesakit pembedahan jantung |
+| [6407380](https://pubmed.ncbi.nlm.nih.gov/6407380/) | 1983 | Kajian Klinis | Annals of Internal Medicine | Nitroglycerin meningkatkan indeks jantung 40%, mengurangkan rintangan vaskular paru 40%, dan mengurangkan tekanan arteri paru min dalam 9 pesakit dengan hipertansi paru kronik |
+| [14508317](https://pubmed.ncbi.nlm.nih.gov/14508317/) | 2003 | Kajian Klinis | Anesthesiology | Inhalasi nitroglycerin meningkatkan hemodinamik pasca-operatif pada pesakit hipertansi paru yang menjalani penggantian injap mitral |
+| [6423015](https://pubmed.ncbi.nlm.nih.gov/6423015/) | 1984 | Kajian Klinis | Bulletin Européen de Physiopathologie Respiratoire | Nitroglycerin sublingual/isosorbid dinitrat mengurangkan tekanan arteri paru dan rintangan vaskular dalam hipertansi paru yang berkaitan COPD |
+| [31250045](https://pubmed.ncbi.nlm.nih.gov/31250045/) | 2019 | Kajian Klinis | European Journal of Clinical Pharmacology | Polimorfisme ALDH2 mempengaruhi tindak balas vasodilatatori terhadap nitroglycerin pada bayi dengan penyakit jantung kongenital dan hipertansi arterial paru |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-NPRA confirms 3 active registrations under marketed status for nitroglycerin, but license-level details (authorization number, product name, dosage form, approved indication text) were not returned in this data pull and require direct retrieval from the NPRA product registry.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
+NPRA mengesahkan 3 pendaftaran aktif di bawah status dipasarkan untuk nitroglycerin, tetapi butiran peringkat lesen (nombor kebenaran, nama produk, bentuk dos, teks indikasi yang diluluskan) tidak dikembalikan dalam penarikan data ini dan memerlukan pengambilan langsung daripada daftar produk NPRA.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Proceed with Guardrails**
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-**Rationale:**
-A substantial and mechanistically coherent body of small clinical studies, one RCT, and a network meta-analysis support nitroglycerin's acute pulmonary-vasodilatory effect across several pulmonary hypertension etiologies (PPHN, post-cardiac-surgery, COPD-related), but no completed pivotal Phase 3 RCT exists for a formal pulmonary hypertension indication, and safety/regulatory data for the Malaysia-registered products is currently missing.
+---
 
-**To proceed, the following is needed:**
-- NPRA product label / prescribing information (key warnings, contraindications, drug interactions) — currently blocking (DG001)
-- Confirmed mechanism-of-action reference from DrugBank or the product label (DG002)
-- Full license-level product data for the 3 Malaysia registrations (brand names, dosage forms, approved indication text)
-- A focused Phase 2/3 trial or updated systematic review targeting a specific pulmonary hypertension subtype (e.g., PPHN or post-cardiac-surgery pulmonary hypertension) to consolidate the existing signal
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Teruskan dengan Pengawal**
+
+**Alasan:**
+Badan bukti yang besar dan koheren secara mekanistik daripada kajian klinis kecil, satu RCT, dan meta-analisis rangkaian menyokong kesan vasodilatatori paru akut nitroglycerin merentas pelbagai etiologi hipertansi paru (PPHN, pasca-pembedahan jantung, yang berkaitan COPD), tetapi tiada RCT Fasa 3 pivotal lengkap wujud untuk indikasi hipertansi paru formal, dan data keselamatan/peraturan untuk produk berdaftar Malaysia pada masa ini tidak tersedia.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Label produk NPRA / maklumat preskripsi (amaran utama, kontraindikasi, interaksi ubat) — pada masa ini menyekat (DG001)
+- Rujukan mekanisme-tindakan yang disahkan daripada DrugBank atau label produk (DG002)
+- Data produk peringkat lesen lengkap untuk 3 pendaftaran Malaysia (nama jenama, bentuk dos, teks indikasi yang diluluskan)
+- Ujian Fasa 2/3 yang tertumpu atau ulasan sistematik terkini yang menargetkan subtip hipertansi paru tertentu (cth., PPHN atau hipertansi paru pasca-pembedahan jantung) untuk menyatukan isyarat yang sedia ada
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

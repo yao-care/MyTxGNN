@@ -29,113 +29,114 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-# Capecitabine: From Colorectal Cancer to Gastric Neoplasm
+# Capecitabine: Daripada Kanser Kolorektal kepada Neoplasma Gastrik
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Capecitabine is an oral fluoropyrimidine prodrug originally established for metastatic colorectal cancer and metastatic breast cancer. The TxGNN model's top-ranked prediction points to **Gastric Neoplasm**, an indication already substantiated by **50+ clinical trials** and **20 publications** in the evidence pack — including several completed Phase 3 RCTs that already use capecitabine as a chemotherapy backbone in gastric cancer.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not available in the Malaysia regulatory extract (all `approved_indication_text` fields are empty). Per capecitabine's global label, established indications are metastatic colorectal cancer, adjuvant colon cancer, and metastatic breast cancer. |
-| Predicted New Indication | Gastric Neoplasm |
-| TxGNN Prediction Score | 0.00% (as recorded in source data; flagged for verification given it is ranked #1) |
-| Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 12 |
-| Recommended Decision | Hold |
+Capecitabine ialah prodrug fluoropyrimidine oral yang telah ditubuhkan untuk kanser kolorektal bermetastasis dan kanser payudara bermetastasis. Ramalan berperingkat teratas model TxGNN menunjuk kepada **Neoplasma Gastrik**, suatu petunjuk yang telah disokong oleh **50+ ujian klinikal** dan **20 publikasi** dalam pakej bukti — termasuk beberapa RCT Fasa 3 yang sudah selesai menggunakan capecitabine sebagai tulang belakang kemoterapi dalam kanser gastrik.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Ringkas
 
-Currently, detailed mechanism of action data is not available in this evidence pack (Data Gap DG002). Based on known pharmacology, capecitabine is an orally administered prodrug of 5-fluorouracil (5-FU). It is sequentially converted by carboxylesterase (liver), cytidine deaminase (liver/tumor), and thymidine phosphorylase — an enzyme frequently overexpressed in tumor tissue — into active 5-FU, which inhibits thymidylate synthase and disrupts DNA/RNA synthesis in rapidly dividing cells.
-
-Colorectal cancer and gastric cancer are both gastrointestinal adenocarcinomas with overlapping sensitivity to fluoropyrimidine-based chemotherapy. Capecitabine, in combination with platinum agents (notably oxaliplatin), is already used as a standard chemotherapy backbone for gastric cancer in multiple jurisdictions — a pattern reflected directly in this evidence pack through completed Phase 3 trials such as CLASSIC (adjuvant capecitabine + oxaliplatin after D2 gastrectomy) and ARTIST (capecitabine + cisplatin ± radiotherapy).
-
-Because thymidine phosphorylase upregulation and rapid cell turnover are shared features of gastric and colorectal tumor tissue, the mechanistic rationale for capecitabine's activity in gastric cancer is strong. In effect, this TxGNN prediction largely reconfirms an already well-established off-label/regional use rather than surfacing a novel hypothesis — which also explains why ranks 1, 3, and 4 in this evidence pack (gastric neoplasm, gastric carcinoma, gastric cancer) are essentially synonymous disease terms.
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Tidak tersedia dalam ekstrak kawal selia Malaysia (semua medan `approved_indication_text` kosong). Menurut label global capecitabine, petunjuk yang ditubuhkan ialah kanser kolorektal bermetastasis, kanser kolon adjuvan, dan kanser payudara bermetastasis. |
+| Petunjuk Baru yang Diramalkan | Neoplasma Gastrik |
+| Skor Ramalan TxGNN | 0.00% (seperti yang dicatat dalam data sumber; ditandai untuk pengesahan memandangkan ia berada di peringkat #1) |
+| Tahap Bukti | L1 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 12 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Masuk Akal?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia dalam pakej bukti ini (Data Gap DG002). Berdasarkan farmakoloji yang diketahui, capecitabine ialah prodrug yang diberikan secara oral daripada 5-fluorourasil (5-FU). Ia secara berturut-turut ditukar oleh carboxylesterase (hati), cytidine deaminase (hati/tumor), dan thymidine phosphorylase — suatu enzim yang sering mengalami peningkatan ungkapan dalam tisu tumor — menjadi 5-FU aktif, yang menghambat thymidylate synthase dan mengganggu sintesis DNA/RNA dalam sel-sel yang membahagi cepat.
+
+Kanser kolorektal dan kanser gastrik adalah keduanya adenokarsinoma saluran pencernaan dengan kepekaan bertindih kepada kemoterapi berasaskan fluoropyrimidine. Capecitabine, dalam kombinasi dengan agen platinum (terutamanya oxaliplatin), telah digunakan sebagai tulang belakang kemoterapi piawai untuk kanser gastrik di pelbagai bidang kuasa — suatu corak yang dicerminkan secara langsung dalam pakej bukti ini melalui ujian Fasa 3 yang selesai seperti CLASSIC (capecitabine adjuvan + oxaliplatin selepas gastrektomi D2) dan ARTIST (capecitabine + cisplatin ± radioterapi).
+
+Oleh kerana peningkatan thymidine phosphorylase dan pembaruan sel yang pantas adalah ciri-ciri bersama tisu tumor gastrik dan kolorektal, nisbah mekanik untuk aktiviti capecitabine dalam kanser gastrik adalah kuat. Sebenarnya, ramalan TxGNN ini sebahagian besarnya mengesahkan semula penggunaan di luar label yang sudah ditubuhkan/penggunaan serantau daripada membongkar hipotesis baru — yang juga menjelaskan mengapa peringkat 1, 3, dan 4 dalam pakej bukti ini (neoplasma gastrik, karsinoma gastrik, kanser gastrik) pada asasnya ialah istilah penyakit sinonim.
+
+---
+
+## Bukti Ujian Klinikal
+
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT01774786](https://clinicaltrials.gov/study/NCT01774786) | Phase 3 | Completed | 780 | Pertuzumab + trastuzumab + fluoropyrimidine/cisplatin chemotherapy in HER2+ metastatic gastric/GEJ cancer |
-| [NCT03615326](https://clinicaltrials.gov/study/NCT03615326) | Phase 3 | Completed | 738 | KEYNOTE-811: pembrolizumab + trastuzumab + chemotherapy vs placebo in HER2+ advanced gastric/GEJ adenocarcinoma |
-| [NCT03817268](https://clinicaltrials.gov/study/NCT03817268) | Phase 3 | Unknown | 768 | CAPOGA: adjuvant capecitabine vs observation after R0 resection of early-stage gastric adenocarcinoma |
-| [NCT02076594](https://clinicaltrials.gov/study/NCT02076594) | Phase 3 | Terminated | 171 | Low-dose docetaxel/oxaliplatin/capecitabine vs epirubicin/oxaliplatin/capecitabine (EOX) in advanced gastric cancer |
-| [NCT06177041](https://clinicaltrials.gov/study/NCT06177041) | Phase 3 | Recruiting | 486 | M108 monoclonal antibody + CAPOX vs placebo + CAPOX in CLDN18.2-positive gastric/GEJ adenocarcinoma |
-| [NCT07118527](https://clinicaltrials.gov/study/NCT07118527) | Phase 3 | Recruiting | 600 | SHR-A1811 + chemotherapy + adebrelimab vs trastuzumab + chemotherapy + pembrolizumab, first-line gastric/GEJ adenocarcinoma |
-| [NCT03627728](https://clinicaltrials.gov/study/NCT03627728) | Phase 2 | Completed | 67 | a-MANTRA: maintenance regorafenib vs placebo after first-line platinum + fluoropyrimidine (incl. capecitabine) in HER2-negative gastric/GEJ cancer |
-| [NCT02335411](https://clinicaltrials.gov/study/NCT02335411) | Phase 2 | Completed | 318 | KEYNOTE-059: pembrolizumab monotherapy and combined with cisplatin + 5-FU/capecitabine in recurrent/metastatic gastric/GEJ adenocarcinoma |
-| [NCT05266300](https://clinicaltrials.gov/study/NCT05266300) | N/A | Completed | 722 | Clinical implementation of DPYD-genotyping for patients starting fluoropyrimidines (5-FU, capecitabine, tegafur) — safety-relevant |
-| [NCT00130936](https://clinicaltrials.gov/study/NCT00130936) | Phase 1/2 | Terminated | 50 | Epirubicin + carboplatin + capecitabine (ECC) in unresectable/metastatic gastric/GEJ cancer with pharmacogenetic correlates |
+| [NCT01774786](https://clinicaltrials.gov/study/NCT01774786) | Fasa 3 | Selesai | 780 | Pertuzumab + trastuzumab + kemoterapi fluoropyrimidine/cisplatin dalam kanser gastrik/GEJ HER2+ bermetastasis |
+| [NCT03615326](https://clinicaltrials.gov/study/NCT03615326) | Fasa 3 | Selesai | 738 | KEYNOTE-811: pembrolizumab + trastuzumab + kemoterapi vs plasebo dalam adenokarsinoma gastrik/GEJ HER2+ lanjutan |
+| [NCT03817268](https://clinicaltrials.gov/study/NCT03817268) | Fasa 3 | Tidak Diketahui | 768 | CAPOGA: capecitabine adjuvan vs pemerhatian selepas reseksi R0 daripada adenokarsinoma gastrik peringkat awal |
+| [NCT02076594](https://clinicaltrials.gov/study/NCT02076594) | Fasa 3 | Ditamatkan | 171 | Docetaxel/oxaliplatin/capecitabine dos rendah vs epirubicin/oxaliplatin/capecitabine (EOX) dalam kanser gastrik lanjutan |
+| [NCT06177041](https://clinicaltrials.gov/study/NCT06177041) | Fasa 3 | Merekrut | 486 | Antibodi monoklonal M108 + CAPOX vs plasebo + CAPOX dalam adenokarsinoma gastrik/GEJ positif CLDN18.2 |
+| [NCT07118527](https://clinicaltrials.gov/study/NCT07118527) | Fasa 3 | Merekrut | 600 | SHR-A1811 + kemoterapi + adebrelimab vs trastuzumab + kemoterapi + pembrolizumab, adenokarsinoma gastrik/GEJ garis pertama |
+| [NCT03627728](https://clinicaltrials.gov/study/NCT03627728) | Fasa 2 | Selesai | 67 | a-MANTRA: regorafenib penyelenggaraan vs plasebo selepas platinum garis pertama + fluoropyrimidine (termasuk capecitabine) dalam kanser gastrik/GEJ negatif HER2 |
+| [NCT02335411](https://clinicaltrials.gov/study/NCT02335411) | Fasa 2 | Selesai | 318 | KEYNOTE-059: terapi monokhidak pembrolizumab dan digabung dengan cisplatin + 5-FU/capecitabine dalam adenokarsinoma gastrik/GEJ berulang/bermetastasis |
+| [NCT05266300](https://clinicaltrials.gov/study/NCT05266300) | N/A | Selesai | 722 | Pelaksanaan klinikal genotipin DPYD untuk pesakit yang memulai fluoropyrimidine (5-FU, capecitabine, tegafur) — berkaitan keselamatan |
+| [NCT00130936](https://clinicaltrials.gov/study/NCT00130936) | Fasa 1/2 | Ditamatkan | 50 | Epirubicin + carboplatin + capecitabine (ECC) dalam kanser gastrik/GEJ yang tidak dapat diresek/bermetastasis dengan korelat farmakogenetik |
 
 ---
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [30982686](https://pubmed.ncbi.nlm.nih.gov/30982686/) | 2019 | RCT (Phase 2/3) | Lancet | FLOT4: docetaxel triplet vs fluorouracil/capecitabine + cisplatin + epirubicin as perioperative therapy for resectable gastric/GEJ adenocarcinoma |
-| [22226517](https://pubmed.ncbi.nlm.nih.gov/22226517/) | 2012 | RCT (Phase 3) | Lancet | CLASSIC: adjuvant capecitabine + oxaliplatin vs observation after D2 gastrectomy improves disease-free survival |
-| [25439693](https://pubmed.ncbi.nlm.nih.gov/25439693/) | 2014 | RCT (Phase 3, follow-up) | Lancet Oncology | CLASSIC 5-year follow-up confirms sustained benefit of adjuvant capecitabine + oxaliplatin |
-| [33278599](https://pubmed.ncbi.nlm.nih.gov/33278599/) | 2021 | RCT (Phase 3) | Annals of Oncology | ARTIST 2: adjuvant S-1 vs S-1+oxaliplatin vs chemoradiation in node-positive gastric cancer after D2 resection |
-| [22184384](https://pubmed.ncbi.nlm.nih.gov/22184384/) | 2012 | RCT (Phase 3) | J Clin Oncol | ARTIST: capecitabine + cisplatin vs capecitabine + cisplatin + concurrent capecitabine radiotherapy after D2 resection |
-| [34275019](https://pubmed.ncbi.nlm.nih.gov/34275019/) | 2021 | Systematic review / meta-analysis | Eur J Clin Pharmacol | Comparison of S-1-based vs capecitabine-based adjuvant chemotherapy for gastric cancer |
-| [32389017](https://pubmed.ncbi.nlm.nih.gov/32389017/) | 2020 | Systematic review / meta-analysis | Annals of Palliative Medicine | Efficacy and safety of capecitabine-based vs S-1-based chemotherapy for metastatic/recurrent gastric cancer |
-| [21415237](https://pubmed.ncbi.nlm.nih.gov/21415237/) | 2011 | Meta-analysis (individual patient data) | Annals of Oncology | Capecitabine vs 5-FU efficacy in colorectal and gastric cancers — pooled analysis of 6,171 patients |
-| [26470733](https://pubmed.ncbi.nlm.nih.gov/26470733/) | 2015 | Review | Expert Rev Gastroenterol Hepatol | Capecitabine has replaced infusional 5-FU as the preferred fluoropyrimidine backbone for gastric cancer |
-| [24090307](https://pubmed.ncbi.nlm.nih.gov/24090307/) | 2013 | Review | Expert Opin Investig Drugs | Capecitabine in the treatment of esophageal and gastric cancers |
+| [30982686](https://pubmed.ncbi.nlm.nih.gov/30982686/) | 2019 | RCT (Fasa 2/3) | Lancet | FLOT4: triplet docetaxel vs fluorourasil/capecitabine + cisplatin + epirubicin sebagai terapi perioperatif untuk adenokarsinoma gastrik/GEJ yang dapat diresek |
+| [22226517](https://pubmed.ncbi.nlm.nih.gov/22226517/) | 2012 | RCT (Fasa 3) | Lancet | CLASSIC: capecitabine adjuvan + oxaliplatin vs pemerhatian selepas gastrektomi D2 meningkatkan kelangsungan hidup bebas penyakit |
+| [25439693](https://pubmed.ncbi.nlm.nih.gov/25439693/) | 2014 | RCT (Fasa 3, susulan) | Lancet Oncology | CLASSIC susulan 5 tahun mengesahkan manfaat berkelanjutan capecitabine adjuvan + oxaliplatin |
+| [33278599](https://pubmed.ncbi.nlm.nih.gov/33278599/) | 2021 | RCT (Fasa 3) | Annals of Oncology | ARTIST 2: S-1 adjuvan vs S-1+oxaliplatin vs kemoradioterapi dalam kanser gastrik positif nod selepas reseksi D2 |
+| [22184384](https://pubmed.ncbi.nlm.nih.gov/22184384/) | 2012 | RCT (Fasa 3) | J Clin Oncol | ARTIST: capecitabine + cisplatin vs capecitabine + cisplatin + capecitabine radioterapi serentak selepas reseksi D2 |
+| [34275019](https://pubmed.ncbi.nlm.nih.gov/34275019/) | 2021 | Tinjauan sistemik / meta-analisis | Eur J Clin Pharmacol | Perbandingan kemoterapi adjuvan berasaskan S-1 vs berasaskan capecitabine untuk kanser gastrik |
+| [32389017](https://pubmed.ncbi.nlm.nih.gov/32389017/) | 2020 | Tinjauan sistemik / meta-analisis | Annals of Palliative Medicine | Keberkesanan dan keselamatan kemoterapi berasaskan capecitabine vs berasaskan S-1 untuk kanser gastrik bermetastasis/berulang |
+| [21415237](https://pubmed.ncbi.nlm.nih.gov/21415237/) | 2011 | Meta-analisis (data pesakit individu) | Annals of Oncology | Keberkesanan capecitabine vs 5-FU dalam kanser kolorektal dan gastrik — analisis terkumpul 6,171 pesakit |
+| [26470733](https://pubmed.ncbi.nlm.nih.gov/26470733/) | 2015 | Tinjauan | Expert Rev Gastroenterol Hepatol | Capecitabine telah menggantikan 5-FU infusional sebagai tulang belakang fluoropyrimidine pilihan untuk kanser gastrik |
+| [24090307](https://pubmed.ncbi.nlm.nih.gov/24090307/) | 2013 | Tinjauan | Expert Opin Investig Drugs | Capecitabine dalam rawatan kanser esofagus dan gastrik |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjuk yang Diluluskan |
 |---------|------|------|-----------|
-| Not available | Not available | Not available | Not available |
+| Tidak tersedia | Tidak tersedia | Tidak tersedia | Tidak tersedia |
 
-The source dataset records **12 total registrations** with market status "Marketed" (Marketed), but all individual license fields (authorization number, product name, dosage form, approved indication text) are empty in this extract. License-level detail needs to be re-pulled from NPRA before this section can be completed.
-
----
-
-## Cytotoxicity
-
-| Item | Content |
-|------|------|
-| Cytotoxicity Classification | Conventional cytotoxic (fluoropyrimidine class — oral 5-FU prodrug) |
-| Myelosuppression Risk | Low–Moderate — generally less myelosuppressive than IV 5-FU; hand-foot syndrome and diarrhea are typically the dose-limiting toxicities rather than cytopenia |
-| Emetogenicity Classification | Low |
-| Monitoring Items | CBC with differential, renal function (dose adjustment required in renal impairment), liver function, hand-foot syndrome grading; DPD/DPYD genotype status is a recognized pre-treatment safety consideration (per NCT05266300) |
-| Handling Protection | Must follow standard cytotoxic drug handling and dispensing protocols; patient counseling required for an oral cytotoxic agent |
+Dataset sumber merekodkan **12 jumlah pendaftaran keseluruhan** dengan status pasaran "Dipasarkan" (Dipasarkan), tetapi semua medan individu lesen (nombor kebenaran, nama produk, bentuk dos, teks petunjuk yang diluluskan) kosong dalam ekstrak ini. Butiran peringkat lesen perlu ditarik semula daripada NPRA sebelum bahagian ini boleh disempurnakan.
 
 ---
 
-## Safety Considerations
+## Sitotoksisiti
 
-Please refer to the package insert for safety information. TFDA/NPRA-specific key warnings, contraindications, and drug-drug interaction data are not available in this evidence pack (Data Gap DG001, Blocking severity).
+| Item | Kandungan |
+|------|----------|
+| Klasifikasi Sitotoksisiti | Sitotoksik konvensional (kelas fluoropyrimidine — prodrug 5-FU oral) |
+| Risiko Penekanan Sumsum Tulang | Rendah–Sederhana — secara amnya kurang menindas sumsum tulang daripada 5-FU IV; sindrom tangan-kaki dan diare biasanya ialah toksisiti penentu dos daripada sitopenia |
+| Klasifikasi Keupayaan Emetogenik | Rendah |
+| Item Pemantauan | CBC dengan pembezaan, fungsi buah pinggang (penyesuaian dos diperlukan dalam gangguan buah pinggang), fungsi hati, penilaian sindrom tangan-kaki; status genotipin DPD/DPYD ialah pertimbangan keselamatan pra-rawatan yang diiktiraf (per NCT05266300) |
+| Perlindungan Pengendalian | Mesti mematuhi protokol pengendalian dan penyampaian ubat sitotoksik piawai; perundingan pesakit diperlukan untuk ubat sitotoksik oral |
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila rujuk sisipan pakej untuk maklumat keselamatan. Data peringatan khusus TFDA/NPRA, kontraindikasi, dan interaksi ubat-ubatan tidak tersedia dalam pakej bukti ini (Data Gap DG001, keterukan Penghalang).
 
-**Rationale:**
-Efficacy evidence for capecitabine in gastric cancer is strong (Evidence Level L1 — multiple completed Phase 3 RCTs, including CLASSIC, ARTIST, and FLOT4, directly or indirectly support this use). However, Data Gap DG001 (missing TFDA/NPRA warnings and contraindications) is explicitly Blocking and prevents completion of the S1 safety screening stage, so the candidate cannot advance until safety labeling data is obtained.
+---
 
-**To proceed, the following is needed:**
-- Malaysia (NPRA) package insert warnings and contraindications (DG001, blocking)
-- Confirmed mechanism of action documentation from DrugBank (DG002)
-- Actual NPRA-approved indication text and product details for the 12 registered licenses (current records are empty)
-- Formal DDI query results (current query status: not found)
-- Clarification of the TxGNN score of 0.00% for the rank-1 prediction, given it appears inconsistent with the rank position
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Bukti keberkesanan untuk capecitabine dalam kanser gastrik adalah kuat (Tahap Bukti L1 — pelbagai RCT Fasa 3 yang selesai, termasuk CLASSIC, ARTIST, dan FLOT4, secara langsung atau tidak langsung menyokong penggunaan ini). Walau bagaimanapun, Data Gap DG001 (peringatan dan kontraindikasi TFDA/NPRA yang hilang) secara eksplisit Penghalang dan menghalang penyelesaian peringkat penyaringan keselamatan S1, jadi calon tidak boleh maju sehingga data pelabelan keselamatan diperoleh.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Peringatan pakej sisipan Malaysia (NPRA) dan kontraindikasi (DG001, penghalang)
+- Dokumentasi mekanisme tindakan yang disahkan daripada DrugBank (DG002)
+- Teks petunjuk yang diluluskan NPRA dan butiran produk yang sebenarnya untuk 12 lesen terdaftar (rekod semasa kosong)
+- Hasil pertanyaan DDI formal (status pertanyaan semasa: tidak ditemui)
+- Penjelasan skor TxGNN sebanyak 0.00% untuk ramalan peringkat-1, memandangkan ia kelihatannya tidak konsisten dengan kedudukan peringkat
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

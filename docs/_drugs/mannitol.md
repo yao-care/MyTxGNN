@@ -29,76 +29,77 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Mannitol: From Osmotic Diuretic Use to Nephrogenic Syndrome of Inappropriate Antidiuresis
+# Mannitol: Daripada Penggunaan Diuretik Osmotik kepada Sindrom Nefrogenik Antidiuresis yang Tidak Sesuai
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Mannitol is a classic osmotic diuretic long used to reduce intracranial/intraocular pressure and promote diuresis in acute oliguric states. The TxGNN model predicts it may be effective for **Nephrogenic Syndrome of Inappropriate Antidiuresis (NSIAD)**, a rare hereditary hyponatremia disorder, but this direction is currently supported by **0 clinical trials** and only **1 general review publication** that does not specifically address mannitol or NSIAD.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Osmotic diuretic (reduction of intracranial/intraocular pressure, promotion of diuresis) — specific NPRA license indication text was not captured in this data pull |
-| Predicted New Indication | Nephrogenic Syndrome of Inappropriate Antidiuresis |
-| TxGNN Prediction Score | 99.97% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 7 |
-| Recommended Decision | Hold |
+Mannitol ialah diuretik osmotik klasik yang telah lama digunakan untuk mengurangkan tekanan intrakranial/intraokular dan menggalakkan diuresis dalam keadaan oliguria akut. Model TxGNN meramalkan ia mungkin berkesan untuk **Sindrom Nefrogenik Antidiuresis yang Tidak Sesuai (NSIAD)**, suatu gangguan hiponatremia herediter yang jarang, tetapi arah ini kini disokong oleh **0 percubaan klinikal** dan hanya **1 penerbitan ulasan umum** yang tidak secara khusus membahaskan mannitol atau NSIAD.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Pantas
 
-Currently, detailed mechanism of action data is not available for this candidate. Based on known pharmacology, mannitol is a classic osmotic diuretic; its efficacy in reducing intracranial pressure, treating cerebral edema, lowering intraocular pressure, and promoting forced diuresis has been well established for decades, and mechanistically it may theoretically extend to conditions involving abnormal free-water handling.
-
-NSIAD is a rare inherited disorder caused by constitutive (gain-of-function) activation of the vasopressin V2 receptor, leading to inappropriate water retention and hyponatremia independent of vasopressin levels. In theory, an osmotic diuretic could promote free-water excretion and help correct the resulting hyponatremia, which is the conceptual basis for TxGNN's prediction.
-
-However, the only literature returned for this candidate is a general review on pitfalls in evaluating hyponatremia — it does not discuss mannitol specifically, nor does it address NSIAD as a distinct treatment target. This is a purely inferential mechanistic link rather than an evidence-based one, and no clinical trials exist to test it.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Item | Kandungan |
+|------|-----------|
+| Indikasi Asal | Diuretik osmotik (pengurangan tekanan intrakranial/intraokular, penggalakan diuresis) — teks indikasi lesen NPRA tertentu tidak ditangkap dalam pengambilan data ini |
+| Indikasi Baru yang Diramalkan | Sindrom Nefrogenik Antidiuresis yang Tidak Sesuai |
+| Skor Ramalan TxGNN | 99.97% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 7 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Masuk Akal?
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [26706473](https://pubmed.ncbi.nlm.nih.gov/26706473/) | 2016 | Review | European journal of internal medicine | General review of common pitfalls in evaluating hyponatremic patients; addresses diagnostic/management errors in hyponatremia broadly but does not discuss mannitol or NSIAD specifically |
+Pada masa kini, data mekanisme tindakan terperinci tidak tersedia untuk calon ini. Berdasarkan farmakologi yang diketahui, mannitol ialah diuretik osmotik klasik; keberkesanannya dalam mengurangkan tekanan intrakranial, merawat edema serebral, menurunkan tekanan intraokular, dan menggalakkan diuresis paksa telah ditubuhkan dengan baik selama beberapa dekad, dan secara mekanistik ia mungkin secara teorinya dapat meluas kepada keadaan yang melibatkan pengendalian air bebas yang tidak normal.
 
----
+NSIAD ialah gangguan herediter yang jarang yang disebabkan oleh pengaktifan konstitutif (keuntungan fungsi) reseptor vasopressin V2, yang membawa kepada pengekalan air yang tidak sesuai dan hiponatremia bebas daripada tahap vasopressin. Secara teori, diuretik osmotik boleh menggalakkan ekskresi air bebas dan membantu membetulkan hiponatremia yang terhasil, yang merupakan asas konseptual bagi ramalan TxGNN.
 
-## Malaysia Market Information
-
-The evidence pack confirms Mannitol is marketed in Malaysia with **7 total registered licenses**, but license-level details (authorization numbers, product names, dosage forms, approved indication text) were not populated in this data pull and cannot be tabulated here.
+Walau bagaimanapun, satu-satunya literatur yang dikembalikan untuk calon ini ialah ulasan umum tentang jebakan dalam menilai hiponatremia — ia tidak membincangkan mannitol secara khusus, dan ia juga tidak menangani NSIAD sebagai sasaran rawatan yang berbeza. Ini ialah pautan mekanistik yang semata-mata inferensi dan bukannya berasaskan bukti, dan tiada percubaan klinikal yang wujud untuk mengujinya.
 
 ---
 
-## Safety Considerations
+## Bukti Percubaan Klinikal
 
-Please refer to the package insert for safety information.
+Pada masa kini tiada percubaan klinikal berkaitan didaftarkan.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Hold**
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|------|------|------|---------|
+| [26706473](https://pubmed.ncbi.nlm.nih.gov/26706473/) | 2016 | Ulasan | European journal of internal medicine | Ulasan umum tentang jebakan biasa dalam menilai pesakit hiponatremia; menangani ralat diagnostik/pengurusan dalam hiponatremia secara luas tetapi tidak membincangkan mannitol atau NSIAD secara khusus |
 
-**Rationale:**
-The mechanistic rationale for mannitol in NSIAD is plausible in theory but rests on a single general review that does not mention mannitol or NSIAD directly, with zero supporting clinical trials — evidence level L5 (model prediction only). This is insufficient to justify further investment at this stage.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA-equivalent package insert data (warnings, contraindications) to complete the S1 safety screen (currently blocking per DG001)
-- Confirmed mechanism of action (DrugBank) data (DG002)
-- Targeted literature/case search specifically on osmotic diuretics or mannitol in NSIAD or V2-receptor-mediated hyponatremia
-- Complete Malaysia license-level detail (product names, dosage forms, approved indication text) for the 7 existing registrations
+## Maklumat Pasaran Malaysia
+
+Pakej bukti mengesahkan Mannitol dipasarkan di Malaysia dengan **7 jumlah lesen yang didaftarkan**, tetapi butiran tahap lesen (nombor kebenaran, nama produk, bentuk dos, teks indikasi yang diluluskan) tidak diisi dalam pengambilan data ini dan tidak dapat dijadualkan di sini.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Asas Logik:**
+Asas logik mekanistik untuk mannitol dalam NSIAD adalah masuk akal secara teori tetapi bergantung pada satu ulasan umum yang tidak menyebut mannitol atau NSIAD secara langsung, dengan sifar percubaan klinikal yang menyokong — tahap bukti L5 (ramalan model sahaja). Ini tidak mencukupi untuk membenarkan pelaburan lanjut pada peringkat ini.
+
+**Perkara berikut diperlukan untuk meneruskan:**
+- Data sisipan pakej setara TFDA/NPRA (amaran, kontraindikasi) untuk melengkapkan skrin keselamatan S1 (kini menyekat mengikut DG001)
+- Data mekanisme tindakan (DrugBank) yang disahkan (DG002)
+- Carian literatur/kes bertarget khusus pada diuretik osmotik atau mannitol dalam NSIAD atau hiponatremia yang dimediasi reseptor V2
+- Butiran tahap lesen Malaysia lengkap (nama produk, bentuk dos, teks indikasi yang diluluskan) untuk 7 pendaftaran sedia ada
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

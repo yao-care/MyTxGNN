@@ -29,74 +29,75 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Norelgestromin: From Contraception to Amenorrhea
+# Norelgestromin: Dari Kontrasepsi ke Amenorrhea
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Norelgestromin, the active metabolite of norgestimate, is a third-generation progestin currently marketed in Malaysia as the active component of a combined transdermal contraceptive patch. The TxGNN model predicts a possible link to **Amenorrhea**, with a prediction score of **99.51%**, but this is based **purely on graph-embedding similarity** — there are currently **no clinical trials and no published literature** supporting this direction.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Contraception (progestin component of a transdermal contraceptive patch) — not separately confirmed in the Malaysia license text, which was not populated in this data pull |
-| Predicted New Indication | Amenorrhea |
-| TxGNN Prediction Score | 99.51% (rank 7212) |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+Norelgestromin, metabolit aktif norgestimat, adalah progestin generasi ketiga yang kini dipasarkan di Malaysia sebagai komponen aktif ubat cegah hamil dalam bentuk tampalan transdermik gabungan. Model TxGNN meramalkan kemungkinan kaitan dengan **Amenorrhea**, dengan skor ramalan sebanyak **99.51%**, tetapi ini berdasarkan **semata-mata pada persamaan penjelmaan graf** — pada masa ini **tiada ujian klinikal dan tiada literatur terbitan** yang menyokong arah ini.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Cepat
 
-Detailed mechanism-of-action data for norelgestromin is not currently available in this evidence pack. Based on known pharmacology, norelgestromin is a third-generation progestin and the active metabolite of norgestimate; progestins as a class act on the endometrium and hypothalamic-pituitary-ovarian axis, and are used clinically to induce withdrawal bleeding or manage cycle regulation — a mechanistic basis that could plausibly extend to amenorrhea.
-
-However, the directionality of this link is ambiguous. Norelgestromin's established clinical role is as the progestin in a combined transdermal contraceptive patch, and chronic progestin exposure from that same class of product is itself a well-recognized *cause* of amenorrhea rather than a treatment for it. TxGNN's graph-embedding similarity does not distinguish between "treats" and "is associated with/causes" relationships, so this prediction should be read as a hypothesis worth investigating, not a therapeutic signal.
-
-No original indication data, no MOA record, and no clinical or literature evidence exist in this pack to resolve that ambiguity — the entire prediction currently rests on model output alone.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Kontrasepsi (komponen progestin ubat cegah hamil tampalan transdermik) — tidak disahkan secara berasingan dalam teks lesen Malaysia, yang tidak diisi dalam penarikan data ini |
+| Petunjuk Baru Diramalkan | Amenorrhea |
+| Skor Ramalan TxGNN | 99.51% (pangkat 7212) |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available.
+Data mekanisme tindakan terperinci untuk norelgestromin tidak tersedia dalam pakej bukti ini pada masa ini. Berdasarkan farmakologi yang diketahui, norelgestromin adalah progestin generasi ketiga dan metabolit aktif norgestimat; progestin sebagai kelas bertindak pada endometrium dan paksi hipotalamus-pituitari-ovari, dan digunakan secara klinikal untuk mendorong perdarahan penarikan atau mengurus peraturan kitaran — asas mekanistik yang boleh dipercayai meluas ke amenorrhea.
 
----
+Walau bagaimanapun, arah kaitan ini tidak jelas. Peranan klinikal yang ditetapkan norelgestromin adalah sebagai progestin dalam ubat cegah hamil tampalan transdermik gabungan, dan pendedahan progestin kronik daripada kelas produk yang sama adalah sendirinya sebab yang diiktiraf dengan baik untuk amenorrhea daripada rawatan untuknya. Persamaan penjelmaan graf TxGNN tidak membezakan antara perhubungan "merawat" dan "berkait dengan/menyebabkan", jadi ramalan ini harus dibaca sebagai hipotesis yang bernilai disiasati, bukan isyarat terapeutik.
 
-## Malaysia Market Information
-
-One NPRA registration is on record (market status: Marketed), but the license number, product name, dosage form, manufacturer, and approved indication text were not populated in this data pull — no usable registration details can be reported without guessing.
+Tiada data petunjuk asal, tiada rekod MOA, dan tiada bukti klinikal atau literatur wujud dalam pakej ini untuk menyelesaikan kekaburan itu — keseluruhan ramalan pada masa ini bergantung pada keluaran model sahaja.
 
 ---
 
-## Safety Considerations
+## Bukti Ujian Klinikal
 
-Please refer to the package insert for safety information. (Key warnings, contraindications, and drug interaction data are all currently unavailable — DG001 is flagged as a **Blocking** gap for safety review.)
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Hold**
+Pada masa ini tiada literatur berkaitan tersedia.
 
-**Rationale:**
-This is an L5, model-prediction-only signal with zero supporting clinical trials or literature, and the proposed mechanism has an unresolved directionality problem (progestins can plausibly both treat and cause amenorrhea). Combined with a Blocking safety data gap (DG001), the candidate cannot proceed to safety screening (S1) as-is.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert (warnings, contraindications) — resolves DG001, currently blocking
-- Confirmed mechanism of action from DrugBank — resolves DG002
-- Confirmed original approved indication text from the Malaysia license record
-- Preclinical or mechanistic literature clarifying whether progestin exposure treats or induces amenorrhea in this context
+## Maklumat Pasaran Malaysia
+
+Satu pendaftaran NPRA terdapat dalam rekod (status pasaran: Dipasarkan), tetapi nombor lesen, nama produk, bentuk dos, pengilang, dan teks petunjuk yang diluluskan tidak diisi dalam penarikan data ini — tiada butir pendaftaran yang boleh digunakan dapat dilaporkan tanpa meneka.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk risalah paket untuk maklumat keselamatan. (Data amaran utama, kontraindikasi, dan interaksi ubat semuanya tidak tersedia pada masa ini — DG001 ditandai sebagai jurang **Halangan** untuk semakan keselamatan.)
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Alasan:**
+Ini adalah isyarat L5, ramalan model sahaja tanpa bukti ujian klinikal atau literatur yang menyokong, dan mekanisme yang dicadangkan mempunyai masalah arah yang belum diselesaikan (progestin boleh dipercayai merawat dan menyebabkan amenorrhea). Digabungkan dengan jurang data keselamatan Halangan (DG001), calon tidak boleh meneruskan ke pemeriksaan keselamatan (S1) seadanya.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Risalah paket TFDA/NPRA (amaran, kontraindikasi) — menyelesaikan DG001, kini menghalang
+- Mekanisme tindakan yang disahkan daripada DrugBank — menyelesaikan DG002
+- Teks petunjuk asal yang disahkan daripada rekod lesen Malaysia
+- Literatur praklinikal atau mekanistik yang menjelaskan sama ada pendedahan progestin merawat atau mendorong amenorrhea dalam konteks ini
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

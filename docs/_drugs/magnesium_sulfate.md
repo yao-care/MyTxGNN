@@ -29,98 +29,99 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Magnesium Sulfate: From Electrolyte/Anticonvulsant Therapy to Preeclampsia/Eclampsia
+# Magnesium Sulfate: Dari Terapi Elektrolit/Antikonvulsan hingga Preeklampsia/Eklampsia
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Magnesium Sulfate is a long-established electrolyte and anticonvulsant agent with multiple clinical uses; detailed original-indication and mechanism data were not returned in this evidence pack. The TxGNN model predicts high relevance to **Preeclampsia/Eclampsia**, and this is supported by **50 clinical trials** and **20 publications** — though as noted below, this largely reflects confirmation of an already-established standard of care rather than a novel repurposing signal.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not specified in the Malaysia registration data provided (license indication text not returned in this extract) |
-| Predicted New Indication | Preeclampsia/Eclampsia |
-| TxGNN Prediction Score | 99.9992% |
-| Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 12 |
-| Recommended Decision | Proceed with Guardrails |
+Magnesium Sulfate adalah agen elektrolit dan antikonvulsan yang telah lama tertegak dengan penggunaan klinis berbilang; data mekanisme dan indikasi asal yang terperinci tidak dikembalikan dalam pakej bukti ini. Model TxGNN meramalkan kaitan tinggi dengan **Preeklampsia/Eklampsia**, dan ini disokong oleh **50 percubaan klinis** dan **20 penerbitan** — meskipun seperti yang dinyatakan di bawah, ini sebahagian besarnya mencerminkan pengesahan daripada penjagaan piawai yang sudah wujud daripada isyarat ubat baharu.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Pantas
 
-Currently, detailed mechanism of action data is not available from DrugBank in this extract (flagged as a High-severity data gap). Based on known pharmacology, Magnesium Sulfate acts as an NMDA receptor antagonist and calcium-channel blocker: it suppresses neuronal hyperexcitability (anticonvulsant effect) and induces relaxation of cerebral and peripheral vascular smooth muscle.
-
-This mechanism maps directly onto the pathophysiology of preeclampsia/eclampsia, where seizure activity and cerebral vasospasm are the central clinical problems. Importantly, this is **not an exploratory repurposing finding** — Magnesium Sulfate is already the internationally recognized standard of care for eclampsia prophylaxis and treatment (ACOG, WHO guidelines). The TxGNN prediction here should be read as a validation/completeness check of the evidence base rather than discovery of a new use, which is reflected in the very high volume of supporting trials and literature below.
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Tidak dinyatakan dalam data pendaftaran Malaysia yang disediakan (teks indikasi lesen tidak dikembalikan dalam ekstrak ini) |
+| Indikasi Baru Diramalkan | Preeklampsia/Eklampsia |
+| Skor Ramalan TxGNN | 99.9992% |
+| Tahap Bukti | L1 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 12 |
+| Keputusan yang Disyorkan | Teruskan dengan Penjaga |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Pada masa kini, data mekanisme tindakan yang terperinci tidak tersedia daripada DrugBank dalam ekstrak ini (ditandai sebagai jurang data keterukan tinggi). Berdasarkan farmakologi yang diketahui, Magnesium Sulfate bertindak sebagai antagonis reseptor NMDA dan penyekat saluran kalsium: ia menekan hipereksitabiliti neuron (kesan antikonvulsan) dan menginduksi relaksasi otot licin vaskular serebral dan periferal.
+
+Mekanisme ini memetakan secara langsung ke patofisiologi preeklampsia/eklampsia, di mana aktiviti kejang dan vasospasme serebral adalah masalah klinis utama. Dengan pentingnya, ini **bukan penemuan ubat baharu penerokaan** — Magnesium Sulfate sudah merupakan penjagaan piawai yang diiktiraf secara antarabangsa untuk profilaksis dan rawatan eklampsia (ACOG, garis panduan WHO). Ramalan TxGNN di sini harus dibaca sebagai semakan pengesahan/kesempurnaan asas bukti daripada penemuan penggunaan baru, yang dicerminkan dalam jumlah percubaan dan kesusasteraan sokongan yang sangat tinggi di bawah.
+
+---
+
+## Bukti Percubaan Klinis
+
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT03318211](https://clinicaltrials.gov/study/NCT03318211) | Phase 4 | Unknown | 100 | RCT comparing continuation vs. discontinuation of postpartum MgSO4 in severe preeclampsia |
-| [NCT02835339](https://clinicaltrials.gov/study/NCT02835339) | Phase 4 | Completed | 66 | RCT on MgSO4 pharmacokinetics/dosing in obese preeclamptic women |
-| [NCT01846156](https://clinicaltrials.gov/study/NCT01846156) | Phase 3 | Completed | 240 | RCT comparing MgSO4 protocols for severe pre-eclampsia |
-| [NCT03164304](https://clinicaltrials.gov/study/NCT03164304) | Phase 4 | Completed | 222 | RCT: 1g vs 2g/hr IV maintenance dose efficacy/safety in severe pre-eclampsia |
-| [NCT04387565](https://clinicaltrials.gov/study/NCT04387565) | N/A | Completed | 210 | Observational study of maternal Mg/vanadium levels in preeclampsia (mechanistic support) |
-| [NCT01492608](https://clinicaltrials.gov/study/NCT01492608) | Phase 3 | Completed | 560 | MASP-STUDY: antenatal MgSO4 for prevention of cerebral palsy/death in preterm infants |
-| [NCT02307201](https://clinicaltrials.gov/study/NCT02307201) | Phase 2/3 | Completed | 1114 | Multicenter RCT on postpartum MgSO4 duration in severe preeclampsia |
-| [NCT02317146](https://clinicaltrials.gov/study/NCT02317146) | Phase 2/3 | Completed | 280 | RCT on novel postpartum MgSO4 protocol (6h vs 24h) |
-| [NCT04501289](https://clinicaltrials.gov/study/NCT04501289) | N/A | Completed | 114 | RCT: low-dose MgSO4 vs standard Pritchard regimen for severe preeclampsia/eclampsia |
-| [NCT06126068](https://clinicaltrials.gov/study/NCT06126068) | N/A | Completed | 120 | RCT comparing loading-dose MgSO4 with Pritchard regimen in a low-resource setting |
+| [NCT03318211](https://clinicaltrials.gov/study/NCT03318211) | Fasa 4 | Tidak Diketahui | 100 | RCT membandingkan kesinambungan vs. penghentian MgSO4 pascabersalin dalam preeklampsia berat |
+| [NCT02835339](https://clinicaltrials.gov/study/NCT02835339) | Fasa 4 | Selesai | 66 | RCT mengenai farmakokinetik/dos MgSO4 dalam wanita preeklampsia obese |
+| [NCT01846156](https://clinicaltrials.gov/study/NCT01846156) | Fasa 3 | Selesai | 240 | RCT membandingkan protokol MgSO4 untuk pra-eklampsia berat |
+| [NCT03164304](https://clinicaltrials.gov/study/NCT03164304) | Fasa 4 | Selesai | 222 | RCT: 1g vs 2g/jam IV dos penyelenggaraan keberkesanan/keselamatan dalam pra-eklampsia berat |
+| [NCT04387565](https://clinicaltrials.gov/study/NCT04387565) | N/A | Selesai | 210 | Kajian pemerhatian aras ibu Mg/vanadium dalam preeklampsia (sokongan mekanistik) |
+| [NCT01492608](https://clinicaltrials.gov/study/NCT01492608) | Fasa 3 | Selesai | 560 | MASP-STUDY: antenatal MgSO4 untuk pencegahan lumpuh otak/kematian pada bayi pra-matang |
+| [NCT02307201](https://clinicaltrials.gov/study/NCT02307201) | Fasa 2/3 | Selesai | 1114 | Multisentre RCT pada tempoh MgSO4 pascabersalin dalam preeklampsia berat |
+| [NCT02317146](https://clinicaltrials.gov/study/NCT02317146) | Fasa 2/3 | Selesai | 280 | RCT pada protokol MgSO4 pascabersalin novel (6j vs 24j) |
+| [NCT04501289](https://clinicaltrials.gov/study/NCT04501289) | N/A | Selesai | 114 | RCT: dos rendah MgSO4 vs rejimen Pritchard piawai untuk preeklampsia/eklampsia berat |
+| [NCT06126068](https://clinicaltrials.gov/study/NCT06126068) | N/A | Selesai | 120 | RCT membandingkan MgSO4 dos muatan dengan rejimen Pritchard dalam tetapan sumber terhad |
 
-*(50 total clinical trials were identified for this indication; the above 10 are the highest-quality, most directly relevant completed RCTs.)*
+*(50 percubaan klinis keseluruhan telah dikenal pasti untuk indikasi ini; 10 di atas adalah RCT berkualiti tertinggi dan paling relevan yang telah selesai.)*
 
 ---
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [38865319](https://pubmed.ncbi.nlm.nih.gov/38865319/) | 2024 | RCT | PLoS One | Springfusor pump vs. standard IM administration acceptability trial |
-| [9794688](https://pubmed.ncbi.nlm.nih.gov/9794688/) | 1998 | Review | Obstetrics and Gynecology | Review of efficacy, benefits and risks of MgSO4 seizure prophylaxis |
-| [2288560](https://pubmed.ncbi.nlm.nih.gov/2288560/) | 1990 | Review | American Journal of Obstetrics and Gynecology | MgSO4 as the ideal anticonvulsant in preeclampsia-eclampsia |
-| [2672428](https://pubmed.ncbi.nlm.nih.gov/2672428/) | 1989 | Review/Mechanism | Stroke | Mechanistic review: MgSO4 action via cerebral vasospasm relief |
-| [16978425](https://pubmed.ncbi.nlm.nih.gov/16978425/) | 2006 | Review | Obstetrical & Gynecological Survey | Cerebral hemodynamics rationale for MgSO4 use |
-| [41054655](https://pubmed.ncbi.nlm.nih.gov/41054655/) | 2025 | Review | Cureus | Pharmacology and clinical applications of MgSO4 across settings |
-| [39110688](https://pubmed.ncbi.nlm.nih.gov/39110688/) | 2024 | Qualitative Study | PLoS One | Nurse-midwife perspectives on MgSO4 administration (Tanzania) |
-| [31527059](https://pubmed.ncbi.nlm.nih.gov/31527059/) | 2019 | Commentary | Global Health: Science and Practice | Systems-level barriers to MgSO4 use in resource-limited settings |
-| [490496](https://pubmed.ncbi.nlm.nih.gov/490496/) | 1979 | Historical/Clinical | The Journal of Reproductive Medicine | Pritchard's original description of MgSO4 use in preeclampsia-eclampsia |
-| [1566765](https://pubmed.ncbi.nlm.nih.gov/1566765/) | 1992 | Animal/Mechanism | American Journal of Obstetrics and Gynecology | Central anticonvulsant effects of MgSO4 on hippocampal seizures |
+| [38865319](https://pubmed.ncbi.nlm.nih.gov/38865319/) | 2024 | RCT | PLoS One | Ujian penerimaan pam Springfusor vs. pentadbiran IM piawai |
+| [9794688](https://pubmed.ncbi.nlm.nih.gov/9794688/) | 1998 | Ulasan | Obstetrics and Gynecology | Ulasan keberkesanan, manfaat dan risiko profilaksis kejang MgSO4 |
+| [2288560](https://pubmed.ncbi.nlm.nih.gov/2288560/) | 1990 | Ulasan | American Journal of Obstetrics and Gynecology | MgSO4 sebagai antikonvulsan ideal dalam preeklampsia-eklampsia |
+| [2672428](https://pubmed.ncbi.nlm.nih.gov/2672428/) | 1989 | Ulasan/Mekanisme | Stroke | Ulasan mekanistik: tindakan MgSO4 melalui pelepasan vasospasme serebral |
+| [16978425](https://pubmed.ncbi.nlm.nih.gov/16978425/) | 2006 | Ulasan | Obstetrical & Gynecological Survey | Rasional hemodinamik serebral untuk penggunaan MgSO4 |
+| [41054655](https://pubmed.ncbi.nlm.nih.gov/41054655/) | 2025 | Ulasan | Cureus | Farmakologi dan aplikasi klinis MgSO4 merentas tetapan |
+| [39110688](https://pubmed.ncbi.nlm.nih.gov/39110688/) | 2024 | Kajian Kualitatif | PLoS One | Perspektif jururawat-bidan mengenai pentadbiran MgSO4 (Tanzania) |
+| [31527059](https://pubmed.ncbi.nlm.nih.gov/31527059/) | 2019 | Ulasan Kritis | Global Health: Science and Practice | Halangan di peringkat sistem terhadap penggunaan MgSO4 dalam tetapan sumber terhad |
+| [490496](https://pubmed.ncbi.nlm.nih.gov/490496/) | 1979 | Sejarah/Klinis | The Journal of Reproductive Medicine | Penerangan asal Pritchard mengenai penggunaan MgSO4 dalam preeklampsia-eklampsia |
+| [1566765](https://pubmed.ncbi.nlm.nih.gov/1566765/) | 1992 | Haiwan/Mekanisme | American Journal of Obstetrics and Gynecology | Kesan antikonvulsan pusat MgSO4 pada kejang hipokampal |
 
-*(20 total publications were identified for this indication.)*
-
----
-
-## Malaysia Market Information
-
-Malaysia registration data confirms **12 registered products** with market status ✓ Marketed. However, per-product details (registration number, product name, dosage form, approved indication text) were not returned in this data extract — this is flagged as a **Blocking** data gap (DG001) requiring an NPRA label lookup before final safety/indication confirmation.
+*(20 penerbitan keseluruhan telah dikenal pasti untuk indikasi ini.)*
 
 ---
 
-## Safety Considerations
+## Maklumat Pasaran Malaysia
 
-Please refer to the package insert for safety information.
+Data pendaftaran Malaysia mengesahkan **12 produk berdaftar** dengan status pasaran ✓ Dipasarkan. Bagaimanapun, butiran per produk (nombor pendaftaran, nama produk, bentuk dos, teks indikasi yang diluluskan) tidak dikembalikan dalam ekstrak data ini — ini ditandai sebagai **Menyekat** jurang data (DG001) yang memerlukan pencarian label NPRA sebelum pengesahan keselamatan/indikasi akhir.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Proceed with Guardrails**
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-**Rationale:**
-Evidence level L1 (multiple completed Phase 3/4 RCTs) strongly supports Magnesium Sulfate's efficacy in preeclampsia/eclampsia, consistent with its status as international standard of care (ACOG/WHO). However, Malaysia-specific label data (warnings, contraindications, registered indication text) is currently missing and blocks a full local safety assessment.
+---
 
-**To proceed, the following is needed:**
-- NPRA package insert / label retrieval to resolve the Blocking data gap (DG001) — warnings, contraindications, and confirmed registered indication text
-- DrugBank mechanism-of-action detail (DG002) to complete the mechanistic linkage documentation
-- Per-product license detail (registration numbers, product names, dosage forms) for the 12 registered Malaysia products
-- Confirmation of whether local clinical guidelines already recognize this indication, since global evidence indicates this is established practice rather than a novel repurposing candidate
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Teruskan dengan Penjaga**
+
+**Alasan:**
+Tahap bukti L1 (pelbagai RCT Fasa 3/4 yang telah selesai) dengan kuat menyokong keberkesanan Magnesium Sulfate dalam preeklampsia/eklampsia, konsisten dengan statusnya sebagai penjagaan piawai antarabangsa (ACOG/WHO). Bagaimanapun, data label khusus Malaysia (amaran, kontraindikasi, teks indikasi berdaftar) pada masa kini hilang dan menyekat penilaian keselamatan setempat yang penuh.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Pengambilan sisipan pakej NPRA / label untuk menyelesaikan jurang data Menyekat (DG001) — amaran, kontraindikasi, dan teks indikasi berdaftar yang disahkan
+- Butiran mekanisme tindakan DrugBank (DG002) untuk melengkapkan dokumentasi pautan mekanistik
+- Butiran lesen per produk (nombor pendaftaran, nama produk, bentuk dos) untuk 12 produk Malaysia yang berdaftar
+- Pengesahan sama ada garis panduan klinis setempat sudah mengiktiraf indikasi ini, memandangkan bukti global menunjukkan ini adalah amalan yang tertegak daripada calon ubat baharu yang novel
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

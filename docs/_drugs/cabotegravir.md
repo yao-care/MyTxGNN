@@ -29,79 +29,78 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-Using the drug-repurposing evaluation report format specified in the prompt to produce the report from the supplied Evidence Pack.
+# Cabotegravir: Dari Jangkitan HIV-1 kepada Artritis Reumatoid
 
-# Cabotegravir: From HIV-1 Infection to Rheumatoid Arthritis
+## Ringkasan Satu Ayat
 
-## One-Sentence Summary
-
-Cabotegravir is an HIV-1 integrase strand transfer inhibitor (INSTI), used clinically for the treatment and pre-exposure prophylaxis (PrEP) of HIV-1 infection. The TxGNN model predicts a possible association with **Rheumatoid Arthritis**, but this direction is currently supported by **0 clinical trials** and **0 publications**, and mechanistic review indicates the score is more likely a knowledge-graph artifact than a genuine pharmacological signal.
+Cabotegravir ialah penghambat pemindahan untai integrase HIV-1 (INSTI), digunakan secara klinikal untuk rawatan dan profilaksis pra-pendedahan (PrEP) jangkitan HIV-1. Model TxGNN meramal kemungkinan perkaitan dengan **Artritis Reumatoid**, tetapi arah ini kini disokong oleh **0 ujian klinikal** dan **0 penerbitan**, dan semakan mekanik menunjukkan skor ini lebih berkemungkinan artifak graf pengetahuan daripada isyarat farmakologi yang tulen.
 
 ---
 
-## Quick Overview
+## Gambaran Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | HIV-1 infection (treatment / PrEP) — based on known drug identity; formal NPRA label indication text not yet extracted |
-| Predicted New Indication | Rheumatoid Arthritis |
-| TxGNN Prediction Score | 99.45% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
-| Recommended Decision | Hold |
-
----
-
-## Why is This Prediction Reasonable?
-
-Currently, detailed mechanism of action data is not available for Cabotegravir in this evidence pack. Based on known information, Cabotegravir is an HIV-1 integrase strand transfer inhibitor (INSTI), part of the same pharmacological class as dolutegravir and bictegravir, and its efficacy in HIV-1 treatment and prevention is well established. No anti-inflammatory, anti-TNF, IL-6 pathway, or broader immunomodulatory mechanism has been reported for this drug class that would plausibly explain an effect on rheumatoid arthritis.
-
-Rheumatoid arthritis is a chronic autoimmune/inflammatory joint disease driven by cytokine pathways (TNF-α, IL-6, JAK-STAT) that are mechanistically unrelated to viral integrase inhibition. The high TxGNN score most likely reflects indirect graph connections — for example, shared nodes around HIV-associated immune activation or autoimmune comorbidities in the underlying knowledge graph — rather than a direct pharmacological relationship between the drug and the disease.
-
-Given the complete absence of supporting clinical trials or literature (0/0), and no plausible biological rationale, this prediction should be treated as an unconfirmed model output rather than an actionable repurposing lead at this stage.
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Jangkitan HIV-1 (rawatan / PrEP) — berdasarkan identiti ubat yang diketahui; teks indikasi label NPRA yang rasmi belum diekstrak |
+| Indikasi Baru yang Diramal | Artritis Reumatoid |
+| Skor Ramalan TxGNN | 99.45% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 2 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related clinical trials registered.
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia untuk Cabotegravir dalam pakej bukti ini. Berdasarkan maklumat yang diketahui, Cabotegravir ialah penghambat pemindahan untai integrase HIV-1 (INSTI), sebahagian daripada kelas farmakologi yang sama seperti dolutegravir dan bictegravir, dan keberkesanannya dalam rawatan dan pencegahan HIV-1 telah ditegakkan dengan baik. Tiada mekanisme anti-inflamasi, anti-TNF, laluan IL-6, atau imunomodulasi yang lebih luas telah dilaporkan untuk kelas ubat ini yang boleh secara munasabah menjelaskan kesan pada artritis reumatoid.
 
----
+Artritis reumatoid ialah penyakit sendi autoimun/inflamasi kronik yang didorong oleh laluan sitokin (TNF-α, IL-6, JAK-STAT) yang tidak berkaitan secara mekanik dengan perencatan integrase virus. Skor TxGNN yang tinggi kemungkinan besar mencerminkan sambungan graf tidak langsung — sebagai contoh, nod bersama di sekitar pengaktifan imun berkaitan HIV atau komorbiditi autoimun dalam graf pengetahuan asas — daripada hubungan farmakologi langsung antara ubat dan penyakit.
 
-## Literature Evidence
-
-Currently no related literature available.
+Memandangkan ketiadaan sepenuhnya ujian klinikal atau literatur yang menyokong (0/0), dan tiada asas biologi yang munasabah, ramalan ini harus dianggap sebagai keluaran model yang tidak disahkan daripada petunjuk penggunaan semula yang boleh diambil tindakan pada peringkat ini.
 
 ---
 
-## Malaysia Market Information
+## Bukti Ujian Klinikal
 
-Cabotegravir holds **2 active registrations** in Malaysia (NPRA status: Marketed / Marketed). However, the detailed registration fields (authorization number, product name, dosage form, and approved indication text) could not be extracted from the current data source and require follow-up retrieval from the NPRA product registry before they can be reported here.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-*Note: Extraction of the NPRA/TFDA label warnings and contraindications for Cabotegravir is currently blocked (see data gap below) and could not be completed for this evaluation.*
+Pada masa ini tiada ujian klinikal yang berkaitan terdaftar.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Hold**
+Pada masa ini tiada literatur yang berkaitan tersedia.
 
-**Rationale:**
-The top-ranked prediction (rheumatoid arthritis) — along with all other top-5 TxGNN predictions for this drug — has no clinical trial or literature support and no plausible mechanistic link to integrase inhibition; the repurposing rationale itself flags these as likely knowledge-graph noise rather than genuine signals. In addition, a **Blocking** data gap (missing NPRA/TFDA label warnings and contraindications) currently prevents even a baseline safety review, so this candidate cannot proceed regardless of the efficacy signal strength.
+---
 
-**To proceed, the following is needed:**
-- NPRA/TFDA product label (warnings, contraindications) — required to clear the Blocking data gap (DG001) before any safety evaluation
-- Detailed mechanism of action data from DrugBank — required to resolve the High-severity data gap (DG002) and support mechanistic review
-- Complete NPRA registration details (license numbers, product names, dosage forms, approved indication text) for the 2 existing Malaysia registrations
-- If the rheumatoid arthritis hypothesis is pursued further: preclinical or mechanistic evidence establishing a plausible immunomodulatory pathway, followed by a renewed search for clinical trials and literature
-- Given that none of the top 5 TxGNN-predicted indications for this drug show mechanistic plausibility or evidentiary support, consider re-evaluating this candidate's priority or revisiting the underlying model output before further investment
+## Maklumat Pasaran Malaysia
+
+Cabotegravir memegang **2 pendaftaran aktif** di Malaysia (status NPRA: Dipasarkan / Dipasarkan). Walau bagaimanapun, medan pendaftaran terperinci (nombor lesen, nama produk, bentuk dos, dan teks indikasi yang diluluskan) tidak dapat diekstrak daripada sumber data semasa dan memerlukan pengambilan susulan daripada daftar produk NPRA sebelum ia dapat dilaporkan di sini.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk brosur produk untuk maklumat keselamatan.
+
+*Nota: Pengekstrakan amaran label NPRA/TFDA dan kontraindikasi untuk Cabotegravir kini dihalang (lihat jurang data di bawah) dan tidak dapat diselesaikan untuk penilaian ini.*
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Alasan:**
+Ramalan bertaraf teratas (artritis reumatoid) — bersama dengan semua ramalan TxGNN lima teratas yang lain untuk ubat ini — tidak mempunyai sokongan ujian klinikal atau literatur dan tiada pautan mekanik yang munasabah untuk perencatan integrase; nisbah penggunaan semula itu sendiri menandakan ini sebagai kemungkinan besar hingar-bingar graf pengetahuan daripada isyarat tulen. Sebagai tambahan, **jurang data yang menghalang** (amaran dan kontraindikasi label NPRA/TFDA yang hilang) kini mencegah bahkan semakan keselamatan asas, jadi calon ini tidak boleh meneruskan tanpa mengira kekuatan isyarat keberkesanan.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Label produk NPRA/TFDA (amaran, kontraindikasi) — diperlukan untuk mengatasi jurang data yang menghalang (DG001) sebelum sebarang penilaian keselamatan
+- Data mekanisme tindakan terperinci daripada DrugBank — diperlukan untuk menyelesaikan jurang data berkeparahan tinggi (DG002) dan menyokong semakan mekanik
+- Butir pendaftaran NPRA yang lengkap (nombor lesen, nama produk, bentuk dos, teks indikasi yang diluluskan) untuk 2 pendaftaran Malaysia yang sedia ada
+- Jika hipotesis artritis reumatoid diusahakan lebih jauh: bukti pra-klinikal atau mekanik yang menetapkan laluan imunomodulasi yang munasabah, diikuti dengan pencarian yang diperbaharui untuk ujian klinikal dan literatur
+- Memandangkan bahawa tiada satu pun daripada 5 indikasi yang diramal TxGNN teratas untuk ubat ini menunjukkan kelayakan mekanik atau sokongan bukti, pertimbangkan untuk menilai semula keutamaan calon ini atau mengkaji semula keluaran model asas sebelum pelaburan lanjut
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,111 +29,112 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Docetaxel Trihydrate: Drug Repurposing Evaluation Report
+# Docetaxel Trihydrate: Laporan Penilaian Ubah Guna Ubat
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Docetaxel trihydrate is a taxane-class antineoplastic agent widely used in the treatment of various solid tumours including breast cancer, non-small cell lung cancer, and prostate cancer. The TxGNN model did not generate any predicted new indications for this drug, and the evidence pack contains significant data gaps in regulatory details, safety information, and mechanism of action. **No repurposing candidates are available for evaluation at this time.**
+Docetaxel trihydrate adalah agen antineoplastik jenis taksan yang digunakan secara luas dalam rawatan pelbagai tumor pepejal termasuk kanser payudara, kanser paru-paru sel bukan kecil, dan kanser prostat. Model TxGNN tidak menghasilkan sebarang ramalan indikasi baru untuk ubat ini, dan pakej bukti mengandungi jurang data yang ketara dalam perincian kawal selia, maklumat keselamatan, dan mekanisme tindakan. **Tiada calon ubah guna untuk penilaian tersedia pada masa ini.**
 
 ---
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Antineoplastic (specific approved indication text unavailable) |
-| Predicted New Indication | None — TxGNN returned no predictions |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 (No predictions or supporting studies) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 5 |
-| Recommended Decision | **Hold** |
+| Indikasi Asal | Antineoplastik (teks indikasi yang diluluskan khusus tidak tersedia) |
+| Indikasi Baru yang Diramal | Tiada — TxGNN tidak mengembalikan ramalan |
+| Skor Ramalan TxGNN | T/A |
+| Tahap Bukti | L5 (Tiada ramalan atau kajian sokongan) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 5 |
+| Keputusan yang Disyorkan | **Pegangan** |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, the TxGNN model did not return any repurposing predictions for docetaxel trihydrate. This may be due to one or more of the following reasons:
+Pada masa ini, model TxGNN tidak mengembalikan sebarang ramalan ubah guna untuk docetaxel trihydrate. Ini mungkin disebabkan oleh satu atau lebih sebab berikut:
 
-1. **Missing DrugBank ID mapping**: The evidence pack does not contain a DrugBank ID for docetaxel trihydrate. Without a valid DrugBank ID, the drug cannot be mapped to nodes in the TxGNN knowledge graph, and therefore no predictions can be generated. Docetaxel's DrugBank ID is known to be **DB01248** — resolving this mapping gap should be the first remediation step.
+1. **Pemetaan ID DrugBank yang hilang**: Pakej bukti tidak mengandungi ID DrugBank untuk docetaxel trihydrate. Tanpa ID DrugBank yang sah, ubat tidak dapat dipetakan ke nod dalam graf pengetahuan TxGNN, dan oleh itu tiada ramalan boleh dijana. ID DrugBank docetaxel diketahui ialah **DB01248** — menyelesaikan jurang pemetaan ini sepatutnya menjadi langkah pemulihan pertama.
 
-2. **Ingredient name form**: The query used "DOCETAXEL TRIHYDRATE" (the hydrate salt form) rather than the INN "docetaxel". Name normalisation may have failed to resolve this to the canonical form used in the knowledge graph.
+2. **Bentuk nama bahan kimia**: Pertanyaan menggunakan "DOCETAXEL TRIHYDRATE" (bentuk garam hidrat) daripada INN "docetaxel". Normalisasi nama mungkin gagal untuk menyelesaikan ini ke bentuk kanonik yang digunakan dalam graf pengetahuan.
 
-Docetaxel is a semi-synthetic taxane that works by disrupting microtubule dynamics, inhibiting mitotic cell division. It binds to β-tubulin subunits of microtubules, stabilising them and preventing depolymerisation, which ultimately leads to cell cycle arrest at the G2/M phase and apoptosis. This well-characterised mechanism of action is broadly relevant across multiple solid tumour types, suggesting that repurposing predictions *should* be feasible once the data mapping issues are resolved.
-
----
-
-## Clinical Trial Evidence
-
-Currently no predicted indications are available, therefore no targeted clinical trial search was performed.
-
-> To generate clinical trial evidence, the DrugBank ID mapping and TxGNN prediction pipeline must first be completed successfully.
+Docetaxel adalah taksan separuh sintetik yang berfungsi dengan mengganggu dinamik mikrotubul, menghalang pembahagian mitotik sel. Ia mengikat ke subunit β-tubulin mikrotubul, menstabilkannya dan mencegah depolimerisasi, yang akhirnya membawa kepada penahanan kitaran sel pada fasa G2/M dan apoptosis. Mekanisme tindakan yang dicirikan dengan baik ini berkaitan secara meluas merentas pelbagai jenis tumor pepejal, mencadangkan bahawa ramalan ubah guna *sepatutnya* boleh dilakukan setelah isu pemetaan data diselesaikan.
 
 ---
 
-## Literature Evidence
+## Bukti Ujian Klinikal
 
-Currently no predicted indications are available, therefore no targeted literature search was performed.
+Pada masa ini tiada indikasi yang diramal tersedia, oleh itu carian ujian klinikal yang disasarkan tidak dilakukan.
+
+> Untuk menghasilkan bukti ujian klinikal, pemetaan ID DrugBank dan saluran ramalan TxGNN mesti diselesaikan dengan berjaya terlebih dahulu.
 
 ---
 
-## Malaysia Market Information
+## Bukti Kesusasteraan
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+Pada masa ini tiada indikasi yang diramal tersedia, oleh itu carian kesusasteraan yang disasarkan tidak dilakukan.
+
+---
+
+## Maklumat Pasaran Malaysia
+
+| Nombor Kebenaran | Nama Produk | Bentuk Ubatan | Indikasi yang Diluluskan |
 |------|------|------|------|
-| (Not available) | (Not available) | (Not available) | (Not available) |
-| (Not available) | (Not available) | (Not available) | (Not available) |
-| (Not available) | (Not available) | (Not available) | (Not available) |
-| (Not available) | (Not available) | (Not available) | (Not available) |
-| (Not available) | (Not available) | (Not available) | (Not available) |
+| (Tidak tersedia) | (Tidak tersedia) | (Tidak tersedia) | (Tidak tersedia) |
+| (Tidak tersedia) | (Tidak tersedia) | (Tidak tersedia) | (Tidak tersedia) |
+| (Tidak tersedia) | (Tidak tersedia) | (Tidak tersedia) | (Tidak tersedia) |
+| (Tidak tersedia) | (Tidak tersedia) | (Tidak tersedia) | (Tidak tersedia) |
+| (Tidak tersedia) | (Tidak tersedia) | (Tidak tersedia) | (Tidak tersedia) |
 
-> **Note:** 5 registrations were identified via NPRA query (2026-03-27), but detailed registration information (authorization numbers, product names, dosage forms, and approved indication text) was not populated in the evidence pack. This data gap must be remediated by querying the NPRA database directly.
+> **Nota:** 5 pendaftaran telah dikenal pasti melalui pertanyaan NPRA (2026-03-27), tetapi maklumat pendaftaran terperinci (nombor kebenaran, nama produk, bentuk ubatan, dan teks indikasi yang diluluskan) tidak diisi dalam pakej bukti. Jurang data ini mesti dipulihkan dengan mengkueri pangkalan data NPRA secara langsung.
 
 ---
 
-## Cytotoxicity
+## Sitotoksisiti
 
-Docetaxel is a well-established cytotoxic antineoplastic agent (taxane class). The following information is based on known pharmacological properties:
+Docetaxel adalah agen antineoplastik sitotoksik yang telah ditubuhkan dengan baik (jenis taksan — agen penyetabil mikrotubul). Maklumat berikut adalah berdasarkan sifat farmakologi yang diketahui:
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Cytotoxicity Classification | Conventional cytotoxic (Taxane class — microtubule-stabilising agent) |
-| Myelosuppression Risk | **High** — Neutropenia is the most common dose-limiting toxicity; febrile neutropenia risk is significant |
-| Emetogenicity Classification | Low to moderate |
-| Monitoring Items | CBC with differential (before each cycle), liver function tests (AST, ALT, bilirubin, ALP), renal function, fluid retention monitoring |
-| Handling Protection | **Must follow cytotoxic drug handling regulations** — closed-system transfer devices recommended; protective gown, double gloves, and eye protection required during preparation and administration |
+| Klasifikasi Sitotoksisiti | Sitotoksik konvensional (jenis taksan — agen penyetabil mikrotubul) |
+| Risiko Penindasan Sumsum Tulang | **Tinggi** — Neutropenia adalah toksisiti yang paling kerap mengehadkan dos; risiko neutropenia demam adalah signifikan |
+| Klasifikasi Emetogenisiti | Rendah hingga sederhana |
+| Item Pemantauan | CBC dengan pembezaan (sebelum setiap kitaran), ujian fungsi hati (AST, ALT, bilirubin, ALP), fungsi buah pinggang, pemantauan pengekalan cecair |
+| Perlindungan Pengendalian | **Mesti mengikut peraturan pengendalian ubat sitotoksik** — peranti pemindahan sistem tertutup disyorkan; jubah pelindung, sarung tangan berganda, dan perlindungan mata diperlukan semasa penyediaan dan pemberian |
 
 ---
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-> Detailed safety data (key warnings, contraindications, and drug interactions) was not available in this evidence pack. Please refer to the package insert for complete safety information.
+> Data keselamatan terperinci (amaran utama, kontraindikasi, dan interaksi ubat) tidak tersedia dalam pakej bukti ini. Sila rujuk sisipan paket untuk maklumat keselamatan yang lengkap.
 >
-> **Known critical safety considerations for docetaxel (from general pharmacological knowledge):**
-> - **Hepatic impairment**: Docetaxel is contraindicated in patients with severe hepatic impairment (bilirubin > ULN, or AST/ALT > 1.5× ULN with ALP > 2.5× ULN)
-> - **Neutropenia**: Patients should not receive docetaxel if neutrophil count < 1,500 cells/mm³
-> - **Hypersensitivity**: Severe hypersensitivity reactions (including anaphylaxis) have been reported; premedication with corticosteroids is required
-> - **Fluid retention**: Cumulative fluid retention can be severe; premedication regimen is essential
+> **Pertimbangan keselamatan kritikal yang diketahui untuk docetaxel (dari pengetahuan farmakologi umum):**
+> - **Kemudaratan hati**: Docetaxel dikontraindikasikan pada pesakit dengan kemudaratan hati yang teruk (bilirubin > ULN, atau AST/ALT > 1.5× ULN dengan ALP > 2.5× ULN)
+> - **Neutropenia**: Pesakit tidak sepatutnya menerima docetaxel jika kiraan neutrofil < 1,500 sel/mm³
+> - **Hipersensitiviti**: Reaksi hipersensitiviti yang teruk (termasuk anafilaksis) telah dilaporkan; pramedicasi dengan kortikosteroid diperlukan
+> - **Pengekalan cecair**: Pengekalan cecair kumulatif boleh menjadi teruk; rejimen pramedicasi adalah penting
 
 ---
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Pegangan**
 
-**Rationale:**
-The TxGNN model did not generate any repurposing predictions for docetaxel trihydrate, most likely due to a missing DrugBank ID mapping and/or ingredient name normalisation failure. Without predicted indications, no evidence assessment can be performed. The evidence pack also contains critical data gaps across regulatory details, safety information, and mechanism of action.
+**Rasional:**
+Model TxGNN tidak menghasilkan sebarang ramalan ubah guna untuk docetaxel trihydrate, kemungkinan besar disebabkan oleh pemetaan ID DrugBank yang hilang dan/atau kegagalan normalisasi nama bahan kimia. Tanpa indikasi yang diramal, tiada penilaian bukti boleh dilakukan. Pakej bukti juga mengandungi jurang data kritikal merentas perincian kawal selia, maklumat keselamatan, dan mekanisme tindakan.
 
-**To proceed, the following is needed:**
-1. **Resolve DrugBank ID mapping** — Map "DOCETAXEL TRIHYDRATE" to DrugBank ID **DB01248** (docetaxel) and re-run the prediction pipeline
-2. **Populate NPRA registration details** — Query the Malaysia NPRA database to obtain authorization numbers, product names, dosage forms, and approved indication text for all 5 registrations
-3. **Obtain safety data** — Download and parse the package insert(s) to extract key warnings, contraindications, and drug interaction information
-4. **Re-run TxGNN prediction** — Once the DrugBank ID is resolved, execute both KG and DL prediction methods to generate repurposing candidates
-5. **Collect evidence** — After predictions are available, query ClinicalTrials.gov, PubMed, and ICTRP for supporting evidence
+**Untuk meneruskan, yang berikut diperlukan:**
+1. **Selesaikan pemetaan ID DrugBank** — Petakan "DOCETAXEL TRIHYDRATE" ke ID DrugBank **DB01248** (docetaxel) dan jalankan semula saluran ramalan
+2. **Isi perincian pendaftaran NPRA** — Kueri pangkalan data NPRA Malaysia untuk mendapatkan nombor kebenaran, nama produk, bentuk ubatan, dan teks indikasi yang diluluskan untuk semua 5 pendaftaran
+3. **Dapatkan data keselamatan** — Muat turun dan analisa sisipan paket untuk mengekstrak amaran utama, kontraindikasi, dan maklumat interaksi ubat
+4. **Jalankan semula ramalan TxGNN** — Setelah ID DrugBank diselesaikan, laksanakan kedua-dua kaedah ramalan KG dan DL untuk menghasilkan calon ubah guna
+5. **Kumpulkan bukti** — Setelah ramalan tersedia, kueri ClinicalTrials.gov, PubMed, dan ICTRP untuk bukti sokongan
 
 ---
 
-*Disclaimer: This report is for research purposes only and does not constitute medical advice. All drug repurposing candidates require clinical validation before application.*
+*Penafian: Laporan ini adalah untuk tujuan penyelidikan sahaja dan tidak merupakan nasihat perubatan. Semua calon ubah guna ubat memerlukan pengesahan klinikal sebelum penggunaan.*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

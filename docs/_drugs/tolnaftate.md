@@ -29,86 +29,87 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Tolnaftate: Original Indication Undocumented — Predicted Application in Pityriasis Versicolor
+# Tolnaftate: Indikasi Asal Tidak Didokumentasikan — Aplikasi yang Diramalkan dalam Pityriasis Versicolor
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-The evidence pack for this candidate does not record Tolnaftate's originally approved indication (NPRA license text and DrugBank fields are both empty — see data gaps DG001/DG002). The TxGNN model's top-ranked prediction is **Pityriasis versicolor**, supported by **0 registered clinical trials** and **18 publications**, though the reported TxGNN score of 0.0 appears to be a placeholder/pipeline artifact rather than a genuine confidence value and should be re-verified before use in decision-making.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not available — NPRA license records contain no approved-indication text in this pull (see DG001) |
-| Predicted New Indication | Pityriasis versicolor |
-| TxGNN Prediction Score | 0% (raw score = 0.0; likely a data/pipeline gap, not a true low-confidence result — needs re-validation) |
-| Evidence Level | L2 (per evidence pack scoring) |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 14 |
-| Recommended Decision | Proceed with Guardrails |
+Pakej bukti untuk calon ini tidak merekodkan indikasi asal Tolnaftate yang diluluskan (teks lesen NPRA dan medan DrugBank kedua-duanya kosong — lihat jurang data DG001/DG002). Model TxGNN dengan pangkat teratas adalah **Pityriasis versicolor**, disokong oleh **0 ujian klinikal yang didaftar** dan **18 penerbitan**, walaupun skor TxGNN yang dilaporkan sebesar 0.0 nampaknya merupakan tempat letak/artefak saluran paip daripada nilai keyakinan sejati dan harus disahkan semula sebelum digunakan dalam pengambilan keputusan.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Pantas
 
-Detailed mechanism-of-action data is not populated in the drug-level record (`original_moa` is a documented data gap, DG002, High severity). However, the repurposing rationale attached to this candidate does describe the pharmacology: Tolnaftate is a thiocarbamate antifungal that inhibits squalene epoxidase, blocking ergosterol synthesis in the fungal cell membrane. This mechanism gives it activity against *Malassezia furfur*, the organism that causes pityriasis (tinea) versicolor.
-
-Several of the candidate's other ranked predictions (tinea pedis, tinea corporis, tinea barbae, dermatophytosis of groin/perianal area) are all classic dermatophyte/superficial fungal infections — the same therapeutic class Tolnaftate is long established in clinically. The rationale text for pityriasis versicolor itself notes this is "a long-known clinical use" (為長期臨床已知用途) via the same mechanism as its use in tinea infections, meaning this "prediction" is best read as a within-class confirmation of an already well-characterized antifungal spectrum rather than a mechanistically novel repurposing signal.
-
-Because the original approved indication is not recorded in this evidence pack, the reviewer cannot yet confirm whether pityriasis versicolor is already an approved/labeled use in Malaysia or represents a genuine label extension — this should be resolved before the candidate moves past guardrail review.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Item | Kandungan |
+|------|---------|
+| Indikasi Asal | Tidak tersedia — rekod lesen NPRA tidak mengandungi teks indikasi yang diluluskan dalam tarikan ini (lihat DG001) |
+| Indikasi Baharu yang Diramalkan | Pityriasis versicolor |
+| Skor Ramalan TxGNN | 0% (skor mentah = 0.0; kemungkinan jurang data/saluran paip, bukan hasil keyakinan rendah yang benar — perlu pengesahan semula) |
+| Tahap Bukti | L2 (mengikut pemarkahan pakej bukti) |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 14 |
+| Keputusan yang Disyorkan | Teruskan dengan Penjagaan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [5338033](https://pubmed.ncbi.nlm.nih.gov/5338033/) | 1966 | RCT (double-blind) | Dermatologica | Double-blind clinical evaluation of tolnaftate as a topical antifungal agent |
-| [38874607](https://pubmed.ncbi.nlm.nih.gov/38874607/) | 2024 | Review | Dermatologie (Heidelberg) | Confirms tolnaftate among topical antifungals with activity against dermatophytes; notes pityriasis versicolor is treated topically with antimycotics |
-| [2029718](https://pubmed.ncbi.nlm.nih.gov/2029718/) | 1991 | Review | Clinical Therapeutics | Comparator-drug review (oxiconazole) noting topical antifungals' established value in tinea (pityriasis) versicolor |
-| [1379146](https://pubmed.ncbi.nlm.nih.gov/1379146/) | 1992 | Review | Drugs | Diagnosis/treatment overview of superficial fungal infections including tinea versicolor (Malassezia furfur) |
-| [1037098](https://pubmed.ncbi.nlm.nih.gov/1037098/) | 1976 | Review | Cutis | Review of topical antifungal agents effective in tinea versicolor and cutaneous candidiasis |
-| [4617272](https://pubmed.ncbi.nlm.nih.gov/4617272/) | 1974 | Cohort | Revista de investigación en salud pública | Clinical study of an antifungal (Hoe 296) in glabrous skin dermatophytosis and pityriasis versicolor |
-| [14126266](https://pubmed.ncbi.nlm.nih.gov/14126266/) | 1964 | Cohort (preliminary report) | J Invest Dermatol | Early preliminary report on tolnaftate therapy of mycotic infections |
-| [5844107](https://pubmed.ncbi.nlm.nih.gov/5844107/) | 1965 | Cohort | Am J Dis Child | Clinical experience with tolnaftate in superficial fungus infections |
-| [14277312](https://pubmed.ncbi.nlm.nih.gov/14277312/) | 1964 | Cohort | Dermatologia Tropica et Ecologica Geographica | Early clinical characterization of tolnaftate as a potent topical fungicide |
-| [1160934](https://pubmed.ncbi.nlm.nih.gov/1160934/) | 1975 | Cohort (comparator drug) | Mykosen | Comparator (miconazole) study in dermatomycosis treatment |
+Data mekanisme tindakan terperinci tidak diisi dalam rekod peringkat ubat (`original_moa` adalah jurang data yang didokumentasikan, DG002, keterukan tinggi). Walau bagaimanapun, rasional peminyaan semula yang dilampirkan pada calon ini menerangkan farmakoloji: Tolnaftate ialah antifungal thiocarbamate yang menghalang squalene epoksidase, menghalang sintesis ergosterol dalam membran sel kulat. Mekanisme ini memberikan aktiviti terhadap *Malassezia furfur*, organisma yang menyebabkan pityriasis (tinea) versicolor.
+
+Beberapa ramalan calon yang berperingkat lain (tinea pedis, tinea corporis, tinea barbae, dermatomikosis selangkangan/kawasan perianal) semuanya adalah jangkitan dermatofita/permukaan klasik — kelas terapeutik yang sama untuk mana tolnaftate telah lama ditetapkan secara klinikal. Teks rasional untuk pityriasis versicolor itu sendiri mencatat ini adalah "penggunaan klinikal yang telah lama diketahui" (為長期臨床已知用途) melalui mekanisme yang sama seperti penggunaannya dalam jangkitan tinea, bermakna "ramalan" ini lebih baik dibaca sebagai pengesahan dalam-kelas spektrum antifungal yang sudah dicirikan dengan baik daripada isyarat peminyaan semula yang secara mekanik baru.
+
+Kerana indikasi asal yang diluluskan tidak direkodkan dalam pakej bukti ini, penyemak belum dapat mengesahkan sama ada pityriasis versicolor sudah merupakan penggunaan yang diluluskan/berlabel di Malaysia atau mewakili sambungan label yang tulen — ini harus diselesaikan sebelum calon bergerak melepasi semakan penjagaan.
 
 ---
 
-## Malaysia Market Information
+## Bukti Ujian Klinikal
 
-NPRA records confirm **14 active registrations** under Marketed status, but the license-level fields (registration number, product name, dosage form, approved indication text) were not populated in this data pull — none of the 5 sampled license records contain values. This should be re-queried from the NPRA source before it is used to support a labeling decision.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
+Pada masa ini tiada ujian klinikal berkaitan yang didaftar.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Kesusasteraan
 
-**Decision: Proceed with Guardrails**
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-------|--------|--------|---------|
+| [5338033](https://pubmed.ncbi.nlm.nih.gov/5338033/) | 1966 | RCT (buta ganda) | Dermatologica | Penilaian klinikal buta ganda tolnaftate sebagai agen antifungal topikal |
+| [38874607](https://pubmed.ncbi.nlm.nih.gov/38874607/) | 2024 | Ulasan | Dermatologie (Heidelberg) | Mengesahkan tolnaftate dalam antifungal topikal dengan aktiviti terhadap dermatofita; mencatat pityriasis versicolor dirawat secara topikal dengan antimikotik |
+| [2029718](https://pubmed.ncbi.nlm.nih.gov/2029718/) | 1991 | Ulasan | Clinical Therapeutics | Ulasan ubat pembanding (oxiconazole) yang mencatat nilai antifungal topikal yang sudah terbukti dalam tinea (pityriasis) versicolor |
+| [1379146](https://pubmed.ncbi.nlm.nih.gov/1379146/) | 1992 | Ulasan | Drugs | Gambaran keseluruhan diagnosis/rawatan jangkitan kulat permukaan termasuk tinea versicolor (*Malassezia furfur*) |
+| [1037098](https://pubmed.ncbi.nlm.nih.gov/1037098/) | 1976 | Ulasan | Cutis | Ulasan agen antifungal topikal yang berkesan dalam tinea versicolor dan kandidiasis kutaneus |
+| [4617272](https://pubmed.ncbi.nlm.nih.gov/4617272/) | 1974 | Kohort | Revista de investigación en salud pública | Kajian klinikal antifungal (Hoe 296) dalam dermatomikosis kulit licin dan pityriasis versicolor |
+| [14126266](https://pubmed.ncbi.nlm.nih.gov/14126266/) | 1964 | Kohort (laporan pendahuluan) | J Invest Dermatol | Laporan pendahuluan tentang terapi tolnaftate jangkitan mikotin |
+| [5844107](https://pubmed.ncbi.nlm.nih.gov/5844107/) | 1965 | Kohort | Am J Dis Child | Pengalaman klinikal dengan tolnaftate dalam jangkitan kulat permukaan |
+| [14277312](https://pubmed.ncbi.nlm.nih.gov/14277312/) | 1964 | Kohort | Dermatologia Tropica et Ecologica Geographica | Pencirian klinikal awal tolnaftate sebagai fungisida topikal yang berkuasa |
+| [1160934](https://pubmed.ncbi.nlm.nih.gov/1160934/) | 1975 | Kohort (ubat pembanding) | Mykosen | Kajian pembanding (miconazole) dalam rawatan dermatomikosis |
 
-**Rationale:**
-The mechanistic rationale for antifungal activity in pityriasis versicolor is sound and consistent with Tolnaftate's established pharmacology, but the evidence base for this specific ranked indication is thin (no clinical trials, evidence level L2, largely older literature) and the reported TxGNN score of 0.0 needs re-verification. Note also that a lower-ranked candidate in this same pack — tinea pedis (rank 2) — actually carries stronger evidence (L1, including an active recruiting Phase 2 trial and 2 completed RCTs) and may warrant priority review ahead of this one.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert warnings and contraindications (DG001, Blocking — required before any S1 safety screening)
-- Confirmed mechanism-of-action documentation (DG002)
-- Complete NPRA license-level data (product names, dosage forms, approved indication text) for all 14 registrations
-- Verification of the TxGNN score of 0.0 for this candidate — confirm whether it is a genuine model output or a pipeline data gap
-- Clarification of whether pityriasis versicolor is already within Tolnaftate's approved label in Malaysia
+## Maklumat Pasaran Malaysia
+
+Rekod NPRA mengesahkan **14 pendaftaran aktif** di bawah status Dipasarkan, tetapi medan lesen-peringkat (nombor pendaftaran, nama produk, bentuk dos, teks indikasi yang diluluskan) tidak diisi dalam tarikan data ini — tiada daripada 5 rekod lesen sampel yang mengandungi nilai. Ini harus ditanya semula daripada sumber NPRA sebelum ia digunakan untuk menyokong keputusan pelabelan.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk surat keterangan paket untuk maklumat keselamatan.
+
+---
+
+## Kesimpulan dan Langkah-Langkah Seterusnya
+
+**Keputusan: Teruskan dengan Penjagaan**
+
+**Rasional:**
+Rasional mekanik untuk aktiviti antifungal dalam pityriasis versicolor adalah kukuh dan konsisten dengan farmakoloji Tolnaftate yang telah ditetapkan, tetapi asas bukti untuk indikasi berperingkat khusus ini adalah terbatas (tiada ujian klinikal, tahap bukti L2, sebahagian besarnya kesusasteraan lama) dan skor TxGNN yang dilaporkan sebesar 0.0 perlu pengesahan semula. Perhatikan juga bahawa calon berperingkat lebih rendah dalam pakej yang sama ini — tinea pedis (pangkat 2) — sebenarnya membawa bukti yang lebih kuat (L1, termasuk ujian Fasa 2 yang sedang merekrut secara aktif dan 2 RCT yang selesai) dan mungkin memerlukan semakan dengan prioriti lebih tinggi daripada yang ini.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Amaran surat keterangan paket TFDA/NPRA dan kontraindikasi (DG001, Blokir — diperlukan sebelum sebarang pemeriksaan keselamatan S1)
+- Dokumentasi mekanisme tindakan yang disahkan (DG002)
+- Data peringkat lesen NPRA yang lengkap (nama produk, bentuk dos, teks indikasi yang diluluskan) untuk semua 14 pendaftaran
+- Pengesahan skor TxGNN sebesar 0.0 untuk calon ini — sahkan sama ada ia adalah keluaran model tulen atau jurang data saluran paip
+- Penjelasan sama ada pityriasis versicolor sudah berada dalam label Tolnaftate yang diluluskan di Malaysia
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,72 +29,73 @@ Tahap bukti: **L3** | Indikasi diramal: **5**
 
 </div>
 
-# Ofloxacin: From Bacterial Infections to Paratyphoid Fever
+# Ofloxacin: Dari Jangkitan Bakteri kepada Demam Paratipoid
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Ofloxacin is a broad-spectrum fluoroquinolone antibiotic already marketed for susceptible bacterial infections. The TxGNN model predicts it may be effective for **Paratyphoid Fever**, and although no dedicated clinical trials are registered for this indication, **20 publications** — including Cochrane systematic reviews, a meta-analysis, and decades of direct clinical experience with ofloxacin in enteric fever — support this direction.
+Ofloxacin adalah antibiotik fluorokuinolon spektrum luas yang telah dipasarkan untuk jangkitan bakteri yang peka. Model TxGNN meramalkan ia mungkin berkesan untuk **Demam Paratipoid**, dan walaupun tiada ujian klinikal khusus didaftarkan untuk petunjukan ini, **20 publikasi** — termasuk ulasan sistematik Cochrane, meta-analisis, dan puluhan tahun pengalaman klinikal langsung dengan ofloxacin dalam demam enterik — menyokong hala tuju ini.
 
-## Quick Overview
+## Tinjauan Pantas
 
-| Item | Content |
+| Perkara | Kandungan |
 |------|------|
-| Original Indication | Not specified in the extracted registration data (Ofloxacin is broadly indicated for susceptible bacterial infections, e.g., urinary, respiratory, and gastrointestinal tract infections) |
-| Predicted New Indication | Paratyphoid Fever |
-| TxGNN Prediction Score | 0% |
-| Evidence Level | L3 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 148 |
-| Recommended Decision | Hold |
+| Petunjukan Asal | Tidak ditentukan dalam data pendaftaran yang diekstrak (Ofloxacin ditunjukkan secara luas untuk jangkitan bakteri yang peka, contohnya jangkitan saluran kencing, pernafasan, dan saluran pencernaan) |
+| Petunjukan Baru yang Diramalkan | Demam Paratipoid |
+| Skor Ramalan TxGNN | 0% |
+| Tahap Bukti | L3 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 148 |
+| Keputusan Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on general pharmacological knowledge, Ofloxacin is a second-generation fluoroquinolone that inhibits bacterial DNA gyrase and topoisomerase IV, giving it broad-spectrum activity against Gram-negative and some Gram-positive organisms, including *Salmonella enterica*.
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia dalam paket bukti ini. Berdasarkan pengetahuan farmakologi umum, Ofloxacin adalah fluorokuinolon generasi kedua yang menghalang girase DNA bakteria dan topoisomerase IV, memberikan aktiviti spektrum luas terhadap organisma Gram-negatif dan beberapa organisma Gram-positif, termasuk *Salmonella enterica*.
 
-Paratyphoid fever is caused by *Salmonella enterica* serovar Paratyphi, a Gram-negative enteric pathogen well within the historically documented spectrum of fluoroquinolone activity. Ofloxacin's original approved uses already cover susceptible bacterial infections broadly, and fluoroquinolones as a class (ciprofloxacin, ofloxacin, levofloxacin) were for many years the WHO-recommended first-line treatment for typhoid and paratyphoid (enteric) fever, before rising resistance in South Asia shifted guidance toward azithromycin and ceftriaxone.
+Demam paratipoid disebabkan oleh *Salmonella enterica* serovar Paratyphi, patogen enterik Gram-negatif yang berada dengan baik dalam spektrum aktiviti fluorokuinolon yang didokumentasikan secara sejarah. Kegunaan asal yang telah diluluskan Ofloxacin sudah meliputi jangkitan bakteri yang peka secara meluas, dan fluorokuinolon sebagai satu kelas (ciprofloxacin, ofloxacin, levofloxacin) adalah rawatan baris pertama yang disyorkan WHO selama bertahun-tahun untuk demam tifoid dan paratipoid (enterik), sebelum rintangan yang meningkat di Asia Selatan mengalihkan panduan ke arah azithromycin dan ceftriaxone.
 
-Mechanistically, this makes the prediction reasonable: ofloxacin's antibacterial spectrum has long included *Salmonella* Paratyphi, and clinical use for this exact indication has decades of precedent — the open question is not biological plausibility but current regional resistance patterns and formal safety documentation.
+Dari segi mekanisme, ini menjadikan ramalan munasabah: spektrum antibakteria ofloxacin telah lama memasukkan *Salmonella* Paratyphi, dan kegunaan klinikal untuk petunjukan yang tepat ini mempunyai preseden puluhan tahun — soalan terbuka bukan tentang kredibiliti biologi tetapi corak rintangan serantau semasa dan dokumentasi keselamatan formal.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-Currently no related clinical trials registered.
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [21975746](https://pubmed.ncbi.nlm.nih.gov/21975746/) | 2011 | Systematic Review (Cochrane) | Cochrane Database Syst Rev | WHO recommends fluoroquinolones (incl. ofloxacin) in areas with resistance to older first-line agents for typhoid/paratyphoid fever. |
-| [19493939](https://pubmed.ncbi.nlm.nih.gov/19493939/) | 2009 | Meta-analysis | BMJ | Reviews evidence supporting fluoroquinolones as first-line agents over other antibiotics for treating enteric fever. |
-| [36420914](https://pubmed.ncbi.nlm.nih.gov/36420914/) | 2022 | Systematic Review (Cochrane) | Cochrane Database Syst Rev | Compares cephalosporins to fluoroquinolone-based regimens for enteric fever amid rising fluoroquinolone resistance in South Asia. |
-| [16271634](https://pubmed.ncbi.nlm.nih.gov/16271634/) | 2005 | Review | Lancet | General review of typhoid and paratyphoid fever epidemiology and management. |
-| [11197787](https://pubmed.ncbi.nlm.nih.gov/11197787/) | 2000 | Clinical study | Internal Medicine (Tokyo) | Studied adverse reactions and therapeutic efficacy of oral fluoroquinolones (incl. ofloxacin) in Japanese typhoid/paratyphoid patients. |
-| [8361412](https://pubmed.ncbi.nlm.nih.gov/8361412/) | 1993 | Clinical study | Mikrobiyoloji Bulteni | 33 adult Salmonella infection patients (incl. 9 paratyphoid) treated with ofloxacin; all recovered without complication. |
-| [2113941](https://pubmed.ncbi.nlm.nih.gov/2113941/) | 1990 | Clinical study | J Chemother | 28 enteric fever patients treated with ofloxacin 200mg BID x8 days; all cured clinically and bacteriologically, no relapse at 12-week follow-up. |
-| [3102387](https://pubmed.ncbi.nlm.nih.gov/3102387/) | 1986 | Clinical study | Infection | Early ofloxacin trial including enteric fever patients alongside genitourinary infections. |
-| [17965350](https://pubmed.ncbi.nlm.nih.gov/17965350/) | 2007 | In vitro study | J Med Microbiol | MICs of ofloxacin and newer agents determined against ciprofloxacin-resistant enteric fever isolates, informing resistance-era treatment choice. |
-| [20955459](https://pubmed.ncbi.nlm.nih.gov/20955459/) | 2010 | Preclinical (animal model) | APMIS | Murine Salmonella model evaluating ofloxacin plus probiotic co-treatment; supports mechanistic antibacterial activity against Salmonella spp. |
+| [21975746](https://pubmed.ncbi.nlm.nih.gov/21975746/) | 2011 | Ulasan Sistematik (Cochrane) | Cochrane Database Syst Rev | WHO mengesyorkan fluorokuinolon (termasuk ofloxacin) di kawasan yang mempunyai rintangan terhadap agen baris pertama yang lebih lama untuk demam tifoid/paratipoid. |
+| [19493939](https://pubmed.ncbi.nlm.nih.gov/19493939/) | 2009 | Meta-analisis | BMJ | Mengkaji semula bukti yang menyokong fluorokuinolon sebagai agen baris pertama daripada antibiotik lain untuk merawat demam enterik. |
+| [36420914](https://pubmed.ncbi.nlm.nih.gov/36420914/) | 2022 | Ulasan Sistematik (Cochrane) | Cochrane Database Syst Rev | Membandingkan sefalosporin dengan rejimen berasaskan fluorokuinolon untuk demam enterik di tengah rintangan fluorokuinolon yang meningkat di Asia Selatan. |
+| [16271634](https://pubmed.ncbi.nlm.nih.gov/16271634/) | 2005 | Ulasan | Lancet | Ulasan umum epidemiologi demam tifoid dan paratipoid serta pengurusannya. |
+| [11197787](https://pubmed.ncbi.nlm.nih.gov/11197787/) | 2000 | Kajian klinikal | Internal Medicine (Tokyo) | Mengkaji tindak balas buruk dan keberkesanan terapeutik fluorokuinolon oral (termasuk ofloxacin) pada pesakit tifoid/paratipoid Jepun. |
+| [8361412](https://pubmed.ncbi.nlm.nih.gov/8361412/) | 1993 | Kajian klinikal | Mikrobiyoloji Bulteni | 33 pesakit jangkitan Salmonella dewasa (termasuk 9 paratipoid) dirawat dengan ofloxacin; semua pulih tanpa komplikasi. |
+| [2113941](https://pubmed.ncbi.nlm.nih.gov/2113941/) | 1990 | Kajian klinikal | J Chemother | 28 pesakit demam enterik dirawat dengan ofloxacin 200mg BID x8 hari; semua disembuhkan secara klinikal dan bakteriologi, tiada keulangan pada susulan 12 minggu. |
+| [3102387](https://pubmed.ncbi.nlm.nih.gov/3102387/) | 1986 | Kajian klinikal | Infection | Percubaan ofloxacin awal termasuk pesakit demam enterik bersama jangkitan genitourinari. |
+| [17965350](https://pubmed.ncbi.nlm.nih.gov/17965350/) | 2007 | Kajian in vitro | J Med Microbiol | MIC ofloxacin dan agen yang lebih baru ditentukan terhadap isolat demam enterik rintangan ciprofloxacin, menginformasikan pilihan rawatan era rintangan. |
+| [20955459](https://pubmed.ncbi.nlm.nih.gov/20955459/) | 2010 | Praklinik (model hewan) | APMIS | Model Salmonella murin menilai ofloxacin tambah rawatan kontra probiotik; menyokong aktiviti antibakteria mekanik terhadap spesies Salmonella. |
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Registration-level details (license numbers, product names, dosage forms, approved indication text) were not returned in this data extraction — all fields in the source license records were empty. Based on aggregate registry data, Ofloxacin holds **148 total registrations** and is currently marketed ("Marketed") in Malaysia.
+Butiran peringkat pendaftaran (nombor lesen, nama produk, bentuk dos, teks petunjukan yang diluluskan) tidak dikembalikan dalam pengekstrakan data ini — semua medan dalam rekod lesen sumber kosong. Berdasarkan data daftar agregat, Ofloxacin memegang **148 pendaftaran keseluruhan** dan sedang dipasarkan ("Dipasarkan") di Malaysia.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila merujuk kepada sisipan bungkusan untuk maklumat keselamatan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-Literature evidence (Cochrane systematic reviews, a BMJ meta-analysis, and decades of direct clinical studies) supports biological plausibility and historical clinical use of ofloxacin for paratyphoid fever, but the missing TFDA/NPRA label safety data (warnings and contraindications) is a **blocking** gap that prevents entry into the safety evaluation stage. Current global guidance has also shifted away from fluoroquinolone monotherapy in regions with high Salmonella resistance, which must be weighed before recommending this indication.
+**Alasan:**
+Bukti literatur (ulasan sistematik Cochrane, meta-analisis BMJ, dan puluhan tahun kajian klinikal langsung) menyokong kredibiliti biologi dan kegunaan klinikal sejarah ofloxacin untuk demam paratipoid, tetapi kekosongan data keselamatan label TFDA/NPRA (amaran dan kontraindikasi) adalah celah **penghalang** yang menghalang masuk ke peringkat penilaian keselamatan. Panduan global semasa juga telah beralih daripada monoterapi fluorokuinolon di kawasan dengan rintangan Salmonella yang tinggi, yang mesti ditimbang sebelum mengesyorkan petunjukan ini.
 
-**To proceed, the following is needed:**
-- Official Malaysia/NPRA product label (warnings, contraindications) — resolves blocking data gap DG001
-- Confirmed mechanism of action / DrugBank pharmacology detail — resolves DG002
-- Current regional antimicrobial resistance data for *Salmonella* Paratyphi against fluoroquinolones
-- Drug-drug interaction (DDI) data, currently not found
-- Complete Malaysia license/product registry detail (indication text, dosage forms) for the marketed products
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Label produk Malaysia/NPRA rasmi (amaran, kontraindikasi) — menyelesaikan celah data penghalang DG001
+- Mekanisme tindakan yang disahkan / butiran farmakologi DrugBank — menyelesaikan DG002
+- Data rintangan antimikrob serantau semasa untuk *Salmonella* Paratyphi terhadap fluorokuinolon
+- Data interaksi ubat-ubat (DDI), kini tidak dijumpai
+- Butiran lesen Malaysia/daftar produk yang lengkap (teks petunjukan, bentuk dos) untuk produk yang dipasarkan
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

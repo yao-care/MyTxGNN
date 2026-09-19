@@ -29,93 +29,94 @@ Tahap bukti: **L3** | Indikasi diramal: **5**
 
 </div>
 
-# Loratadine: From Allergic Rhinitis to Pharyngitis
+# Loratadine: Dari Rhinitis Alergik hingga Faringitis
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Loratadine is a second-generation, non-sedating H1 antihistamine widely established for the treatment of allergic rhinitis and chronic urticaria.
-The TxGNN model predicts it may be effective for **Pharyngitis**, with **2 clinical trials** and **7 publications** providing contextual supporting evidence.
+Loratadine adalah antagonis H1 generasi kedua, tidak menyebabkan kantuk, yang telah dibangun untuk pengobatan rhinitis alergik dan urtikaria kronik.
+Model TxGNN meramalkan bahawa ia mungkin berkesan untuk **Faringitis**, dengan **2 percubaan klinikal** dan **7 penerbitan** memberikan bukti sokongan kontekstual.
 
-> **Note:** TxGNN prediction scores were not returned for this evaluation run (all scores recorded as 0.0). The ranking order reflects the model's relative prioritisation, but numeric scores should be treated as unavailable pending pipeline review.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Allergic rhinitis and chronic urticaria (licence detail records not populated in this dataset) |
-| Predicted New Indication | Pharyngitis |
-| TxGNN Prediction Score | Not available (score data gap in this run) |
-| Evidence Level | L3 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 56 |
-| Recommended Decision | Hold (Research Question) |
+> **Nota:** Skor ramalan TxGNN tidak dikembalikan untuk larian penilaian ini (semua skor dicatat sebagai 0.0). Susunan kedudukan mencerminkan keutamaan relatif model, tetapi skor berangka harus dianggap tidak tersedia sehingga tinjauan saluran paip.
 
 ---
 
-## Why Is This Prediction Reasonable?
+## Gambaran Pantas
 
-Loratadine is a long-acting, selective peripheral H1 receptor antagonist — the prototypical second-generation antihistamine. By competitively blocking histamine H1 receptors, it prevents the downstream effects of histamine release: vasodilation, increased vascular permeability, stimulation of sensory nerve endings, and mucus hypersecretion. Unlike first-generation antihistamines, it does not readily cross the blood–brain barrier, which explains its non-sedating profile. Its active metabolite, desloratadine, shares these properties and contributes to its sustained duration of action.
-
-The mechanistic link between Loratadine's established indication (allergic rhinitis) and pharyngitis is anatomically plausible. Both conditions involve inflammation of contiguous upper respiratory mucosa, and in allergic or post-nasal drip-associated pharyngitis, histamine released from mucosal mast cells contributes to local swelling, hypersecretion, and the sensation of throat irritation. H1 blockade could theoretically attenuate these symptoms, particularly in patients whose pharyngitis has an allergic or reactive component.
-
-However, the mechanistic relevance is indirect and context-dependent. The large majority of acute pharyngitis cases are driven by viral (rhinovirus, adenovirus, coronavirus) or bacterial (*Streptococcus pyogenes*) infection, where histamine-mediated inflammation is a secondary rather than primary pathological driver. Clinical benefit from Loratadine monotherapy in this setting would therefore be expected to be modest and symptomatic. This is consistent with the evidence landscape: the clinical trials identified involve Loratadine as a component of combination products targeting upper respiratory symptoms broadly, not as a stand-alone pharyngitis therapy.
-
----
-
-## Clinical Trial Evidence
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|-------------|-------|--------|-----------|-------------|
-| [NCT06531707](https://clinicaltrials.gov/study/NCT06531707) | Phase 3 | Recruiting | 177 | Randomised, double-blind, multi-centre trial comparing an Ibuprofen/Loratadine fixed-dose combination vs each monotherapy for symptomatic treatment of the common cold (encompassing pharyngeal symptoms); results not yet available |
-| [NCT05275933](https://clinicaltrials.gov/study/NCT05275933) | Phase 2/3 | Completed | 93 | Assessed Lian Hua Qing Wen (TCM) capsules as adjuvant therapy in mild COVID-19 home recovery in Singapore; Loratadine is not the investigational agent — relevance to pharyngitis repurposing is minimal |
+| Item | Kandungan |
+|------|-----------|
+| Indikasi Asal | Rhinitis alergik dan urtikaria kronik (rekod butiran lesen tidak diisi dalam set data ini) |
+| Indikasi Baru yang Diramalkan | Faringitis |
+| Skor Ramalan TxGNN | Tidak tersedia (jurang data skor dalam larian ini) |
+| Tahap Bukti | L3 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 56 |
+| Keputusan yang Disyorkan | Tahan (Soalan Penyelidikan) |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|------------|
-| [28441993](https://pubmed.ncbi.nlm.nih.gov/28441993/) | 2017 | RCT | Allergy and Asthma Proceedings | Randomised, placebo-controlled study of cetirizine and loratadine in children with seasonal allergic rhinitis; demonstrates H1 antihistamine efficacy for upper-airway allergic inflammation — the mechanistic class relevant to pharyngitis |
-| [8621843](https://pubmed.ncbi.nlm.nih.gov/8621843/) | 1996 | RCT | J Allergy Clin Immunol | Fluticasone propionate vs loratadine 10 mg once daily in 240 adolescents with ragweed-induced seasonal AR over 4 weeks; loratadine reduced both nasal and ocular symptom scores significantly vs baseline |
-| [12642846](https://pubmed.ncbi.nlm.nih.gov/12642846/) | 2003 | RCT | J Allergy Clin Immunol | Randomised double-blind trial of desloratadine (Loratadine's principal active metabolite) in perennial allergic rhinitis; supports H1 blockade as a strategy for managing year-round upper-airway mucosal inflammation |
-| [11277962](https://pubmed.ncbi.nlm.nih.gov/11277962/) | 2001 | RCT | Int J Dermatology | Once-daily desloratadine vs placebo for chronic idiopathic urticaria; confirms anti-inflammatory and antipruritic efficacy of the loratadine/desloratadine drug class across histamine-mediated tissue reactions |
-| [12962522](https://pubmed.ncbi.nlm.nih.gov/12962522/) | 2003 | Review | Drugs | Comprehensive review of desloratadine efficacy in SAR, perennial AR, and chronic idiopathic urticaria; rapid onset, full 24-hour dosing coverage, and sustained anti-allergic effect across indications |
-| [9806113](https://pubmed.ncbi.nlm.nih.gov/9806113/) | 1998 | Review | Drugs | Review of mometasone furoate for allergic rhinitis; loratadine cited as an active comparator, underscoring its reference standard role in upper respiratory allergy management |
-| [19821542](https://pubmed.ncbi.nlm.nih.gov/19821542/) | 2009 | Consumer Guide | Consumer Reports | OTC drug comparison guide; loratadine identified as a recommended non-sedating antihistamine for upper respiratory allergy relief — indirect confirmation of its established real-world positioning |
+Loratadine adalah antagonis reseptor H1 periferal selektif bertindak lama — prototaip antihistamin generasi kedua. Dengan menghalang secara kompetitif reseptor H1 histamin, ia mencegah kesan hiliran pelepasan histamin: vasodilatasi, peningkatan kebolehtelapan vaskular, rangsangan hujung saraf sensorik, dan hipersekrési mucus. Tidak seperti antihistamin generasi pertama, ia tidak mudah melepasi sawar darah-otak, yang menjelaskan profilnya yang tidak menyebabkan kantuk. Metabolitnya yang aktif, desloratadine, berkongsi sifat-sifat ini dan menyumbang kepada tempoh tindakannya yang berterusan.
+
+Pautan mekanis antara indikasi yang telah ditetapkan Loratadine (rhinitis alergik) dan faringitis adalah secara anatomi munasabah. Kedua-dua keadaan melibatkan peradangan mukosa saluran pernafasan atas yang berdekatan, dan dalam faringitis berkaitan alergi atau aliran keluar belakang hidung, histamin yang dilepaskan daripada sel mast mukosa menyumbang kepada pembengkakan tempatan, hipersekrési, dan sensasi keterlaluan tekak. Penyerangan H1 secara teori dapat mengurangkan simptom-simptom ini, terutamanya dalam pesakit yang faringitisnya mempunyai komponen alergi atau reaktif.
+
+Walau bagaimanapun, kaitan mekanis adalah tidak langsung dan bergantung konteks. Sebahagian besar kes faringitis akut didorong oleh jangkitan virus (rhinovirus, adenovirus, coronavirus) atau bakteria (*Streptococcus pyogenes*), di mana peradangan dimediasi histamin adalah pemacu patologi sekunder dan bukan primer. Manfaat klinikal daripada monoterapi Loratadine dalam tetapan ini akan dijangka sederhana dan simptomatik. Ini konsisten dengan landskap bukti: percubaan klinikal yang dikenal pasti melibatkan Loratadine sebagai komponen produk kombinasi yang menyasarkan simptom saluran pernafasan atas secara meluas, bukan sebagai terapi faringitis berdiri sendiri.
 
 ---
 
-## Malaysia Market Information
+## Bukti Percubaan Klinikal
 
-Loratadine holds **56 registered products** in Malaysia (market status: ✓ Marketed). The detailed individual licence records — including product names, dosage forms, manufacturers, and approved indication text — were not populated in this Evidence Pack.
-
-Please consult the **NPRA e-Register** at [https://www.npra.gov.my](https://www.npra.gov.my) for complete registration details across all 56 product authorisations.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information. Detailed warnings, contraindications, and drug interaction data were not available in this Evidence Pack (Data Gaps DG001 and DG002). Remediation steps are noted in the Next Steps section below.
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
+|-----------------|------|--------|-----------|-----------------|
+| [NCT06531707](https://clinicaltrials.gov/study/NCT06531707) | Fasa 3 | Merekrut | 177 | Percubaan berlapis dua, buta ganda, berbilang pusat membandingkan kombinasi dos tetap Ibuprofen/Loratadine vs monoterapi setiap satu untuk rawatan simptomatik pilek biasa (merangkumi simptom pharyngeal); keputusan belum tersedia |
+| [NCT05275933](https://clinicaltrials.gov/study/NCT05275933) | Fasa 2/3 | Selesai | 93 | Menilai kapsul Lian Hua Qing Wen (TCM) sebagai terapi adjuvan dalam pemulihan rumah COVID-19 ringan di Singapura; Loratadine bukan agen penyiasat — perkaitan dengan pemulihan tujuan faringitis adalah minimal |
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Hold (Research Question)**
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|------|------|--------|-----------------|
+| [28441993](https://pubmed.ncbi.nlm.nih.gov/28441993/) | 2017 | RCT | Allergy and Asthma Proceedings | Kajian terkawal plasebo rawak bagi cetirizine dan loratadine dalam kanak-kanak dengan rhinitis alergik bermusim; menunjukkan keberkesanan antihistamin H1 untuk peradangan saluran udara atas alergik — kelas mekanis yang berkaitan dengan faringitis |
+| [8621843](https://pubmed.ncbi.nlm.nih.gov/8621843/) | 1996 | RCT | J Allergy Clin Immunol | Fluticasone propionate vs loratadine 10 mg sekali sehari dalam 240 remaja dengan rhinitis alergik teraruh ragweed selama 4 minggu; loratadine mengurangkan kedua-dua skor simptom nasal dan okuler secara signifikan berbanding dengan garis asas |
+| [12642846](https://pubmed.ncbi.nlm.nih.gov/12642846/) | 2003 | RCT | J Allergy Clin Immunol | Percubaan terkawal plasebo rawak desloratadine (metabolit aktif utama Loratadine) dalam rhinitis alergik perenial; menyokong penyerangan H1 sebagai strategi untuk menguruskan peradangan mukosa saluran udara atas sepanjang tahun |
+| [11277962](https://pubmed.ncbi.nlm.nih.gov/11277962/) | 2001 | RCT | Int J Dermatology | Desloratadine sekali sehari vs plasebo untuk urtikaria idiopatik kronik; mengesahkan keberkesanan anti-radang dan antipruritus kelas ubat loratadine/desloratadine merentasi reaksi jaringan dimediasi histamin |
+| [12962522](https://pubmed.ncbi.nlm.nih.gov/12962522/) | 2003 | Ulasan | Drugs | Ulasan komprehensif keberkesanan desloratadine dalam SAR, rhinitis alergik perenial, dan urtikaria idiopatik kronik; permulaan cepat, liputan dos 24 jam penuh, dan kesan anti-alergik berterusan merentasi indikasi |
+| [9806113](https://pubmed.ncbi.nlm.nih.gov/9806113/) | 1998 | Ulasan | Drugs | Ulasan mometasone furoate untuk rhinitis alergik; loratadine disebut sebagai perbandingan aktif, menggarisbawahi peranannya yang piawai rujukan dalam pengurusan alergi saluran pernafasan atas |
+| [19821542](https://pubmed.ncbi.nlm.nih.gov/19821542/) | 2009 | Panduan Pengguna | Consumer Reports | Panduan perbandingan ubat OTC; loratadine dikenal pasti sebagai antihistamin tanpa kantuk yang disyorkan untuk pelepasan alergi saluran pernafasan atas — pengesahan tidak langsung peranannya yang ditubuhkan di dunia nyata |
 
-**Rationale:**
-While the mechanistic basis for Loratadine in pharyngitis is biologically plausible, histamine plays only a secondary role in most pharyngitis cases, and no clinical trials have directly investigated Loratadine monotherapy for pharyngitis as a primary endpoint. The identified trials target broader upper respiratory tract symptoms using combination products, and the evidence level (L3) does not yet support a direct repurposing claim.
+---
 
-**To proceed, the following is needed:**
+## Maklumat Pasaran Malaysia
 
-- **Resolve Data Gap DG001**: Retrieve NPRA-registered product package inserts (via NPRA official website PDF download) to obtain approved indications, key warnings, and contraindications
-- **Resolve Data Gap DG002**: Query the DrugBank API (DB00455) to confirm Loratadine's full mechanism of action, pharmacokinetics, and toxicity profile
-- **Clarify TxGNN score output**: All five predicted indications returned a score of 0.0 in this run — investigate whether this reflects a pipeline serialisation issue or genuine model output, and rerun if necessary
-- **Commission a targeted evidence review**: Conduct a systematic literature search specifically for antihistamine monotherapy in viral pharyngitis and allergic pharyngitis (distinct from allergic rhinitis), to determine whether direct clinical evidence exists
-- **Populate NPRA licence data**: Query the NPRA e-Register to retrieve product names, dosage forms, and approved indication text for the 56 registered products, enabling a complete Malaysia Market Information table
-- **Consider evaluating Rank 4 (Common Cold) in parallel**: That indication has stronger direct evidence (Phase 3 RCT ongoing, 1989 RCT with Loratadine + pseudoephedrine, L3 evidence level) and a "Proceed with Guardrails" recommendation — it may be a more actionable near-term repurposing candidate
+Loratadine memegang **56 produk berdaftar** di Malaysia (status pasaran: ✓ Dipasarkan). Rekod lesen individu terperinci — termasuk nama produk, bentuk dos, pengilang, dan teks indikasi yang diluluskan — tidak diisi dalam Pakej Bukti ini.
+
+Sila rujuk **NPRA e-Register** di [https://www.npra.gov.my](https://www.npra.gov.my) untuk butiran pendaftaran lengkap merentasi semua 56 kebenaran produk.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk risalah pakej untuk maklumat keselamatan. Data amaran terperinci, kontraindikasi, dan interaksi ubat tidak tersedia dalam Pakej Bukti ini (Jurang Data DG001 dan DG002). Langkah pemulihan dicatat dalam bahagian Langkah Seterusnya di bawah.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan (Soalan Penyelidikan)**
+
+**Alasan:**
+Walaupun asas mekanis untuk Loratadine dalam faringitis adalah secara biologis munasabah, histamin memainkan peranan sekunder sahaja dalam kebanyakan kes faringitis, dan tiada percubaan klinikal yang telah menyelidik secara langsung monoterapi Loratadine untuk faringitis sebagai titik akhir primer. Percubaan yang dikenal pasti menyasarkan simptom saluran pernafasan atas yang lebih luas menggunakan produk kombinasi, dan tahap bukti (L3) belum lagi menyokong tuntutan pemulihan tujuan langsung.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+
+- **Selesaikan Jurang Data DG001**: Ambil alih risalah pakej produk berdaftar NPRA (melalui muat turun PDF laman web rasmi NPRA) untuk mendapatkan indikasi yang diluluskan, amaran utama, dan kontraindikasi
+- **Selesaikan Jurang Data DG002**: Tanyakan API DrugBank (DB00455) untuk mengesahkan mekanisme tindakan penuh Loratadine, farmakokinetik, dan profil ketoksikan
+- **Jelaskan keluaran skor TxGNN**: Semua lima indikasi yang diramalkan mengembalikan skor 0.0 dalam larian ini — selidik sama ada ini mencerminkan isu penyeliaran saluran paip atau keluaran model tulen, dan jalankan semula jika perlu
+- **Mengarahkan tinjauan bukti yang disasarkan**: Jalankan carian literatur sistematik khusus untuk monoterapi antihistamin dalam faringitis virus dan faringitis alergik (berbeza daripada rhinitis alergik), untuk menentukan sama ada bukti klinikal langsung wujud
+- **Isi data lesen NPRA**: Tanyakan e-Register NPRA untuk mendapatkan nama produk, bentuk dos, dan teks indikasi yang diluluskan untuk 56 produk berdaftar, membolehkan jadual Maklumat Pasaran Malaysia yang lengkap
+- **Pertimbangkan untuk menilai Pangkat 4 (Pilek Biasa) secara serentak**: Indikasi itu mempunyai bukti langsung yang lebih kuat (RCT Fasa 3 sedang berlangsung, RCT 1989 dengan Loratadine + pseudoefedrin, tahap bukti L3) dan cadangan "Teruskan dengan Pengawal" — ia mungkin calon pemulihan tujuan yang lebih dapat ditindakkan dalam jangka pendek
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

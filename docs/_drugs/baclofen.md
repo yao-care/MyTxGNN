@@ -29,156 +29,157 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Baclofen: From Spasticity to Nicotine Dependence
+# Baclofen: Daripada Spastisiti kepada Kebergantungan Nikotin
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Baclofen is a GABA-B receptor agonist originally used for the treatment of spasticity associated with conditions such as multiple sclerosis and spinal cord injuries. The TxGNN model predicts it may be effective for **Nicotine Dependence** (Rank 2, Evidence Level L2) and **Attention Deficit-Hyperactivity Disorder** (Rank 1, Evidence Level L5), with **3 clinical trials** and **20 publications** supporting the nicotine dependence direction, while the ADHD prediction currently relies on model inference with only indirect literature support.
+Baclofen adalah agonis reseptor GABA-B yang asalnya digunakan untuk rawatan spastisiti yang berkaitan dengan keadaan seperti sklerosis multiple dan kecederaan sumsum tulang belakang. Model TxGNN meramalkan ia mungkin berkhasiat untuk **Kebergantungan Nikotin** (Pangkat 2, Tahap Bukti L2) dan **Gangguan Hiperaktif-Defisit Perhatian** (Pangkat 1, Tahap Bukti L5), dengan **3 ujian klinis** dan **20 penerbitan** menyokong arah kebergantungan nikotin, manakala ramalan ADHD bergantung pada inferens model dengan hanya sokongan literatur tidak langsung.
 
 ---
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-### Prediction 1: Attention Deficit-Hyperactivity Disorder (ADHD)
+### Ramalan 1: Gangguan Hiperaktif-Defisit Perhatian (ADHD)
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Spasticity (approved indication text not available in current dataset) |
-| Predicted New Indication | Attention Deficit-Hyperactivity Disorder |
-| TxGNN Prediction Score | 99.32% |
-| Evidence Level | L5 — Model prediction only, no direct clinical studies |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 6 |
-| Recommended Decision | **Hold** |
+| Petunjukan Asli | Spastisiti (teks petunjukan yang diluluskan tidak tersedia dalam set data semasa) |
+| Petunjukan Baru yang Diramalkan | Gangguan Hiperaktif-Defisit Perhatian |
+| Skor Ramalan TxGNN | 99.32% |
+| Tahap Bukti | L5 — Ramalan model sahaja, tiada kajian klinis langsung |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 6 |
+| Keputusan yang Disyorkan | **Tahan** |
 
-### Prediction 2: Nicotine Dependence
+### Ramalan 2: Kebergantungan Nikotin
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Spasticity (approved indication text not available in current dataset) |
-| Predicted New Indication | Nicotine Dependence |
-| TxGNN Prediction Score | 99.19% |
-| Evidence Level | L2 — 1 completed Phase 2 RCT |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 6 |
-| Recommended Decision | **Proceed with Guardrails** |
+| Petunjukan Asli | Spastisiti (teks petunjukan yang diluluskan tidak tersedia dalam set data semasa) |
+| Petunjukan Baru yang Diramalkan | Kebergantungan Nikotin |
+| Skor Ramalan TxGNN | 99.19% |
+| Tahap Bukti | L2 — 1 RCT Fasa 2 yang telah selesai |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 6 |
+| Keputusan yang Disyorkan | **Teruskan dengan Penjaga** |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-### Mechanism of Action
+### Mekanisme Tindakan
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on established pharmacological knowledge, baclofen is a selective GABA-B (gamma-aminobutyric acid type B) receptor agonist. It acts by binding to GABA-B receptors in the spinal cord and brain, inhibiting excitatory neurotransmitter release and reducing monosynaptic and polysynaptic reflexes. Its original approval is for the management of spasticity resulting from multiple sclerosis, spinal cord injuries, and other spinal cord diseases.
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia dalam pakej bukti ini. Berdasarkan pengetahuan farmakologi yang telah ditetapkan, baclofen adalah agonis reseptor GABA-B (asid gamma-aminobutrik jenis B) yang selektif. Ia bertindak dengan mengikat kepada reseptor GABA-B di sumsum tulang belakang dan otak, menghalang pelepasan neurotransmiter pengujaan dan mengurangkan refleks monosinapik dan polinapik. Peluluhan asalnya adalah untuk pengurusan spastisiti yang terhasil daripada sklerosis multiple, kecederaan sumsum tulang belakang, dan penyakit sumsum tulang belakang lain.
 
-### Nicotine Dependence — Mechanistic Rationale (Moderate to Strong)
+### Kebergantungan Nikotin — Asas Mekanistik (Sederhana hingga Kuat)
 
-The GABA-B receptor plays a critical role in modulating the mesolimbic dopamine reward pathway. Activation of GABA-B receptors by baclofen inhibits dopamine neuronal firing in the ventral tegmental area (VTA), thereby attenuating the rewarding and reinforcing effects of nicotine. Multiple preclinical studies (PMID 24553576, 18682277, 19250803) have directly demonstrated that baclofen reduces nicotine conditioned place preference, discriminative stimulus effects, and drug-induced reinstatement of nicotine-seeking behaviour. This mechanism is consistent with baclofen's extensively studied role in alcohol use disorder, where it has already received approval in France. The GABAergic hypothesis of nicotine dependence provides a plausible pharmacological bridge from baclofen's known receptor activity to smoking cessation.
+Reseptor GABA-B memainkan peranan kritikal dalam memodulasi laluan ganjaran mesolimbik dopamin. Pengaktifan reseptor GABA-B oleh baclofen merencat pencetakan neuron dopamin di kawasan ventral tegmental (VTA), dengan itu melemahkan kesan ganjaran dan penguatan nikotin. Pelbagai kajian pra-klinis (PMID 24553576, 18682277, 19250803) telah menunjukkan secara langsung bahawa baclofen mengurangkan pilihan tempat bersyarat nikotin, kesan rangsangan diskriminatif, dan pemulihan semula kelakuan mencari nikotin yang dirangsang ubat. Mekanisme ini konsisten dengan peranan baclofen yang telah dikaji secara meluas dalam gangguan penggunaan alkohol, di mana ia telah menerima kelulusan di Perancis. Hipotesis GABAergik kebergantungan nikotin memberikan jambatan farmakologi yang masuk akal daripada aktiviti reseptor baclofen yang diketahui kepada pemberhentian merokok.
 
-### ADHD — Mechanistic Rationale (Weak)
+### ADHD — Asas Mekanistik (Lemah)
 
-The core pathophysiology of ADHD involves dysregulation of the dopamine and norepinephrine pathways, whereas baclofen acts primarily on the GABAergic system. While there is theoretical interest in the role of GABA in impulse control circuits (PMID 24062084), and baclofen has been studied in Tourette syndrome (which is frequently comorbid with ADHD), there is no direct pharmacological link between GABA-B agonism and the attention/executive function deficits central to ADHD. The retrieved literature primarily mentions ADHD as a comorbidity within studies of other neuropsychiatric conditions (e.g., Tourette syndrome, autism spectrum disorders), rather than as a direct treatment target for baclofen.
+Patofisiologi teras ADHD melibatkan disregulasi laluan dopamin dan norepinefrin, manakala baclofen bertindak terutamanya pada sistem GABAergik. Walaupun ada minat teori dalam peranan GABA dalam litar kawalan dorongan (PMID 24062084), dan baclofen telah dikaji dalam sindrom Tourette (yang sering berkomorbit dengan ADHD), tiada kaitan farmakologi langsung antara agonis GABA-B dan defisit perhatian/fungsi eksekutif yang merupakan pusat ADHD. Literatur yang diambil terutamanya menyebut ADHD sebagai komorbiditi dalam kajian keadaan neuropsikiatrik lain (contohnya, sindrom Tourette, gangguan spektrum autisme), bukannya sebagai sasaran rawatan langsung untuk baclofen.
 
 ---
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinis
 
-### Prediction 1: ADHD
+### Ramalan 1: ADHD
 
-Currently no related clinical trials registered.
+Pada masa ini tiada ujian klinis yang berkaitan didaftarkan.
 
-### Prediction 2: Nicotine Dependence
+### Ramalan 2: Kebergantungan Nikotin
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Ujian | Fasa | Status | Kemasukan | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT01821560](https://clinicaltrials.gov/study/NCT01821560) | Phase 2 | Completed | 44 | Examined baclofen's effects on brain responses and behaviour in cigarette smokers using perfusion fMRI and dopaminergic gene association approach. Investigated whether baclofen reduces appetitive cue-sensitive neural responses and smoking behaviour. Most important completed evidence source. |
-| [NCT00257894](https://clinicaltrials.gov/study/NCT00257894) | Phase 2 | Terminated | 41 | Evaluated baclofen's efficacy in reducing smoking urge, withdrawal, and reinforcement in moderate-to-heavy smokers. Terminated but enrolled 41 participants; partial data may be available. Termination reason is a key consideration. |
-| [NCT01228994](https://clinicaltrials.gov/study/NCT01228994) | Phase 2 | Terminated | 6 | Directly tested the GABAergic hypothesis of nicotine dependence in a randomized, placebo-controlled design. Terminated early after enrolling only 6 participants — insufficient to draw efficacy conclusions. Termination cause (recruitment difficulty vs. safety concern) requires investigation. |
+| [NCT01821560](https://clinicaltrials.gov/study/NCT01821560) | Fasa 2 | Selesai | 44 | Memeriksa kesan baclofen pada tindak balas otak dan kelakuan pada perokok menggunakan pengimejan fMRI perfusi dan pendekatan persatuan gen dopaminergik. Menyiasat sama ada baclofen mengurangkan tindak balas neural sensitif isyarat appetitif dan kelakuan merokok. Sumber bukti selesai paling penting. |
+| [NCT00257894](https://clinicaltrials.gov/study/NCT00257894) | Fasa 2 | Ditamatkan | 41 | Menilai keberkesanan baclofen dalam mengurangkan dorongan merokok, pengeluaran, dan pengukuhan dalam perokok sederhana hingga berat. Ditamatkan tetapi mendaftarkan 41 peserta; data separa mungkin tersedia. Alasan penamatan adalah pertimbangan utama. |
+| [NCT01228994](https://clinicaltrials.gov/study/NCT01228994) | Fasa 2 | Ditamatkan | 6 | Secara langsung menguji hipotesis GABAergik kebergantungan nikotin dalam rancangan rawak, terkawal plasebo. Ditamatkan awal selepas mendaftarkan hanya 6 peserta — tidak mencukupi untuk membuat kesimpulan keberkesanan. Punca penamatan (kesukaran pengambilan vs. kebimbangan keselamatan) memerlukan penyiasatan. |
 
 ---
 
-## Literature Evidence
+## Bukti Literatur
 
-### Prediction 1: ADHD
+### Ramalan 1: ADHD
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [35345730](https://pubmed.ncbi.nlm.nih.gov/35345730/) | 2022 | Systematic Review | Cureus | Reviewed treatment of tics in Tourette syndrome (comorbid with ADHD); baclofen not a primary focus for ADHD itself |
-| [10342599](https://pubmed.ncbi.nlm.nih.gov/10342599/) | 1999 | Review | J Child Neurol | Enrolled 450 patients with tics/Tourette syndrome treated with baclofen/botulinum toxin; ADHD mentioned as comorbidity |
-| [26366961](https://pubmed.ncbi.nlm.nih.gov/26366961/) | 2015 | Review | Clin Neuropharmacol | Mood stabilizers in ASD children; ADHD discussed as comorbid condition, baclofen not directly studied for ADHD |
-| [24295630](https://pubmed.ncbi.nlm.nih.gov/24295630/) | 2013 | Review | Int Rev Neurobiol | Emerging treatments in Tourette syndrome; ADHD as comorbidity, baclofen discussed for tics only |
-| [24062084](https://pubmed.ncbi.nlm.nih.gov/24062084/) | 2014 | Preclinical | Psychopharmacology | α2A-adrenergic agonist (guanfacine) in ventral hippocampus reduces impulsive decision-making; GABA role in impulsivity mentioned peripherally |
-| [11393328](https://pubmed.ncbi.nlm.nih.gov/11393328/) | 2001 | Review | Paediatr Drugs | Tourette syndrome management; baclofen listed among newer agents for tics, ADHD addressed as comorbidity |
+| [35345730](https://pubmed.ncbi.nlm.nih.gov/35345730/) | 2022 | Ulasan Sistematik | Cureus | Meninjau rawatan tics dalam sindrom Tourette (berkomorbit dengan ADHD); baclofen bukan fokus utama untuk ADHD itu sendiri |
+| [10342599](https://pubmed.ncbi.nlm.nih.gov/10342599/) | 1999 | Ulasan | J Child Neurol | Mendaftarkan 450 pesakit dengan tics/sindrom Tourette yang dirawat dengan baclofen/toksin botulinum; ADHD disebut sebagai komorbiditi |
+| [26366961](https://pubmed.ncbi.nlm.nih.gov/26366961/) | 2015 | Ulasan | Clin Neuropharmacol | Penstabil mood pada kanak-kanak ASD; ADHD dibincangkan sebagai keadaan berkomorbit, baclofen tidak dikaji secara langsung untuk ADHD |
+| [24295630](https://pubmed.ncbi.nlm.nih.gov/24295630/) | 2013 | Ulasan | Int Rev Neurobiol | Rawatan baru dalam sindrom Tourette; ADHD sebagai komorbiditi, baclofen dibincangkan untuk tics sahaja |
+| [24062084](https://pubmed.ncbi.nlm.nih.gov/24062084/) | 2014 | Pra-klinis | Psychopharmacology | Agonis adrenergik α2A (guanfasine) di hipokampus ventral mengurangkan pembuatan keputusan impulsif; peranan GABA dalam impulsiviti disebut secara persisian |
+| [11393328](https://pubmed.ncbi.nlm.nih.gov/11393328/) | 2001 | Ulasan | Paediatr Drugs | Pengurusan sindrom Tourette; baclofen disenaraikan di antara agen lebih baru untuk tics, ADHD ditangani sebagai komorbiditi |
 
-> **Note:** None of the retrieved literature directly investigates baclofen as a treatment for ADHD. All references mention ADHD as a comorbid condition within studies of Tourette syndrome, autism, or impulse control.
+> **Nota:** Tiada literatur yang diambil secara langsung menyiasat baclofen sebagai rawatan untuk ADHD. Semua rujukan menyebut ADHD sebagai keadaan berkomorbit dalam kajian sindrom Tourette, autisme, atau kawalan dorongan.
 
-### Prediction 2: Nicotine Dependence
+### Ramalan 2: Kebergantungan Nikotin
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [25868070](https://pubmed.ncbi.nlm.nih.gov/25868070/) | 2015 | Clinical/RCT | Neuropsychopharmacology | Double-blind, placebo-controlled RCT of baclofen for concurrent alcohol and nicotine dependence — direct clinical evidence |
-| [24553576](https://pubmed.ncbi.nlm.nih.gov/24553576/) | 2014 | Preclinical | Psychopharmacology | Baclofen attenuated nicotine rewarding properties and withdrawal manifestations in rodents |
-| [19250803](https://pubmed.ncbi.nlm.nih.gov/19250803/) | 2009 | Preclinical | Eur Neuropsychopharmacol | Baclofen prevented drug-induced reinstatement of nicotine-seeking behaviour and nicotine place preference in rodents |
-| [18682277](https://pubmed.ncbi.nlm.nih.gov/18682277/) | 2008 | Preclinical | Neurosci Lett | Baclofen reduced conditioned rewarding and discriminative stimulus effects of nicotine in rats at high doses |
-| [23500668](https://pubmed.ncbi.nlm.nih.gov/23500668/) | 2013 | Preclinical | Prog Neuropsychopharmacol Biol Psychiatry | Baclofen prevented nicotine withdrawal-related α4β2 nicotinic receptor density changes in mice |
-| [24971600](https://pubmed.ncbi.nlm.nih.gov/24971600/) | 2015 | Review | Neuropharmacology | GABA-B receptors as therapeutic targets for substance use disorders, including nicotine; PAMs may offer better side-effect profile |
-| [29250815](https://pubmed.ncbi.nlm.nih.gov/29250815/) | 2018 | Review | Pharmacotherapy | Review of current and emerging tobacco cessation pharmacotherapies; baclofen discussed as emerging candidate |
-| [24654737](https://pubmed.ncbi.nlm.nih.gov/24654737/) | 2014 | Review | Expert Opin Emerg Drugs | Emerging drugs for tobacco dependence; baclofen included among GABAergic candidates |
-| [17338593](https://pubmed.ncbi.nlm.nih.gov/17338593/) | 2007 | Review | CNS Drugs | Pharmacotherapy of dual substance abuse; baclofen reviewed for combined alcohol–nicotine dependence treatment |
-| [38555115](https://pubmed.ncbi.nlm.nih.gov/38555115/) | 2024 | Review | Int Rev Neurobiol | Drug repurposing for alcohol use disorder; baclofen listed among approved medications in France, mechanism applicable to nicotine |
+| [25868070](https://pubmed.ncbi.nlm.nih.gov/25868070/) | 2015 | Klinis/RCT | Neuropsychopharmacology | RCT tertutup buta, terkawal plasebo baclofen untuk kebergantungan alkohol dan nikotin serentak — bukti klinis langsung |
+| [24553576](https://pubmed.ncbi.nlm.nih.gov/24553576/) | 2014 | Pra-klinis | Psychopharmacology | Baclofen melemahkan sifat ganjaran nikotin dan manifestasi pengeluaran dalam tikus |
+| [19250803](https://pubmed.ncbi.nlm.nih.gov/19250803/) | 2009 | Pra-klinis | Eur Neuropsychopharmacol | Baclofen mencegah pemulihan semula kelakuan mencari nikotin yang dirangsang ubat dan pilihan tempat nikotin dalam tikus |
+| [18682277](https://pubmed.ncbi.nlm.nih.gov/18682277/) | 2008 | Pra-klinis | Neurosci Lett | Baclofen mengurangkan kesan ganjaran dan rangsangan diskriminatif bersyarat nikotin dalam tikus pada dos tinggi |
+| [23500668](https://pubmed.ncbi.nlm.nih.gov/23500668/) | 2013 | Pra-klinis | Prog Neuropsychopharmacol Biol Psychiatry | Baclofen mencegah perubahan ketumpatan reseptor nikotin α4β2 berkaitan pengeluaran nikotin dalam tikus |
+| [24971600](https://pubmed.ncbi.nlm.nih.gov/24971600/) | 2015 | Ulasan | Neuropharmacology | Reseptor GABA-B sebagai sasaran terapeutik untuk gangguan penggunaan bahan, termasuk nikotin; PAM mungkin menawarkan profil kesan sampingan yang lebih baik |
+| [29250815](https://pubmed.ncbi.nlm.nih.gov/29250815/) | 2018 | Ulasan | Pharmacotherapy | Ulasan farmakoterapeutik pemberhentian tembakau semasa dan baru; baclofen dibincangkan sebagai calon yang muncul |
+| [24654737](https://pubmed.ncbi.nlm.nih.gov/24654737/) | 2014 | Ulasan | Expert Opin Emerg Drugs | Ubat-ubatan yang muncul untuk kebergantungan tembakau; baclofen termasuk di antara calon GABAergik |
+| [17338593](https://pubmed.ncbi.nlm.nih.gov/17338593/) | 2007 | Ulasan | CNS Drugs | Farmakoterapeutik penyalahgunaan bahan dwi; baclofen diulas untuk rawatan kebergantungan alkohol–nikotin gabungan |
+| [38555115](https://pubmed.ncbi.nlm.nih.gov/38555115/) | 2024 | Ulasan | Int Rev Neurobiol | Repenggunaan ubat untuk gangguan penggunaan alkohol; baclofen disenaraikan di antara ubat-ubatan yang diluluskan di Perancis, mekanisme terpakai pada nikotin |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjukan yang Diluluskan |
 |---------|------|------|-----------|
-| (Details unavailable) | — | — | — |
-| (Details unavailable) | — | — | — |
-| (Details unavailable) | — | — | — |
-| (Details unavailable) | — | — | — |
-| (Details unavailable) | — | — | — |
+| (Maklumat tidak tersedia) | — | — | — |
+| (Maklumat tidak tersedia) | — | — | — |
+| (Maklumat tidak tersedia) | — | — | — |
+| (Maklumat tidak tersedia) | — | — | — |
+| (Maklumat tidak tersedia) | — | — | — |
 
-> **Note:** 6 registrations are recorded in the Malaysian market (status: Marketed), but detailed license information (authorization numbers, product names, dosage forms, approved indications) was not available in the current dataset. Please consult the NPRA database for complete registration details.
-
----
-
-## Safety Considerations
-
-> Please refer to the package insert for safety information. Key warnings, contraindications, and drug interaction data were not available in this evidence pack. As baclofen is a centrally acting agent, clinicians should be aware of common class effects including sedation, drowsiness, dizziness, weakness, and the risk of withdrawal seizures upon abrupt discontinuation.
+> **Nota:** 6 pendaftaran direkodkan dalam pasaran Malaysia (status: Dipasarkan), tetapi maklumat lesen terperinci (nombor kebenaran, nama produk, bentuk dos, petunjukan yang diluluskan) tidak tersedia dalam set data semasa. Sila rujuk pangkalan data NPRA untuk butiran pendaftaran lengkap.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-### Prediction 1: ADHD
-
-**Decision: Hold**
-
-**Rationale:**
-The TxGNN prediction score is high (99.32%), but there is no direct clinical or preclinical evidence supporting baclofen for ADHD treatment. All retrieved literature only tangentially mentions ADHD as a comorbidity in Tourette syndrome or autism studies. The mechanistic link between GABA-B agonism and ADHD's core dopaminergic/noradrenergic pathology is extremely weak. This prediction does not warrant further development at this time.
-
-**To proceed, the following would be needed:**
-- Direct preclinical studies demonstrating baclofen's effect on ADHD-relevant behavioural endpoints (sustained attention, hyperactivity, impulsivity)
-- Mechanistic studies linking GABA-B modulation to prefrontal dopamine/norepinephrine signalling relevant to ADHD
-- At least one pilot clinical trial specifically targeting ADHD symptoms
+> Sila rujuk sisipan pakej untuk maklumat keselamatan. Data amaran utama, kontraindikasi, dan data interaksi ubat tidak tersedia dalam pakej bukti ini. Oleh kerana baclofen adalah agen bertindak pusat, pengamal klinis harus sedar tentang kesan kelas yang lazim termasuk sedasi, mengantuk, pening, kelemahan, dan risiko sawan penarikan ubat apabila pemberhentian mendadak.
 
 ---
 
-### Prediction 2: Nicotine Dependence
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Proceed with Guardrails**
+### Ramalan 1: ADHD
 
-**Rationale:**
-One completed Phase 2 trial (NCT01821560, n=44) directly examined baclofen's effects on brain and behavioural responses in smokers, providing the strongest available clinical evidence. A solid body of preclinical research (≥4 animal studies) consistently demonstrates that baclofen attenuates nicotine reward, withdrawal, and relapse. The GABAergic hypothesis of nicotine dependence is mechanistically coherent and supported by baclofen's established efficacy in alcohol use disorder (approved in France). However, two of three clinical trials were terminated, and definitive efficacy data from Phase 3 trials is lacking.
+**Keputusan: Tahan**
 
-**To proceed, the following is needed:**
-- Obtain and review published results from NCT01821560 (completed trial) to confirm efficacy signal
-- Investigate termination reasons for NCT01228994 and NCT00257894 (recruitment vs. safety)
-- Detailed mechanism of action data (MOA) from DrugBank
-- NPRA package insert review for key warnings and contraindications
-- Safety monitoring plan, particularly for sedation and CNS depression in combination with other substances
-- Consideration of a Phase 2b/3 dose-finding trial if efficacy signal is confirmed
+**Asas:**
+Skor ramalan TxGNN tinggi (99.32%), tetapi tidak ada bukti klinis atau pra-klinis langsung yang menyokong baclofen untuk rawatan ADHD. Semua literatur yang diambil hanya secara tangensial menyebut ADHD sebagai komorbiditi dalam kajian sindrom Tourette atau autisme. Kaitan mekanistik antara agonis GABA-B dan patofisiologi teras ADHD yang melibatkan dopamin/norepinefrin sangat lemah. Ramalan ini tidak wajar untuk pengembangan lanjut pada masa ini.
+
+**Untuk meneruskan, yang berikut akan diperlukan:**
+- Kajian pra-klinis langsung menunjukkan kesan baclofen pada titik akhir kelakuan yang relevan ADHD (perhatian berkelanjutan, hiperaktiviti, impulsiviti)
+- Kajian mekanistik menghubungkan modulasi GABA-B kepada isyarat dopamin/norepinefrin prefrontal yang relevan dengan ADHD
+- Sekurang-kurangnya satu ujian klinis pelopor yang khusus menyasarkan simptom ADHD
+
+---
+
+### Ramalan 2: Kebergantungan Nikotin
+
+**Keputusan: Teruskan dengan Penjaga**
+
+**Asas:**
+Satu ujian Fasa 2 yang telah selesai (NCT01821560, n=44) secara langsung memeriksa kesan baclofen pada tindak balas otak dan kelakuan pada perokok, memberikan bukti klinis terkuat yang tersedia. Badan penyelidikan pra-klinis yang kukuh (≥4 kajian haiwan) secara konsisten menunjukkan bahawa baclofen melemahkan ganjaran nikotin, pengeluaran, dan kambuh. Hipotesis GABAergik kebergantungan nikotin adalah kohesif secara mekanistik dan disokong oleh keberkesanan baclofen yang telah ditetapkan dalam gangguan penggunaan alkohol (diluluskan di Perancis). Walau bagaimanapun, dua daripada tiga ujian klinis telah ditamatkan, dan data keberkesanan yang pasti daripada ujian Fasa 3 tidak ada.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Dapatkan dan tinjau hasil yang diterbitkan daripada NCT01821560 (ujian selesai) untuk mengesahkan isyarat keberkesanan
+- Selidiki sebab penamatan untuk NCT01228994 dan NCT00257894 (pengambilan vs. keselamatan)
+- Data mekanisme tindakan terperinci (MOA) daripada DrugBank
+- Ulasan sisipan pakej NPRA untuk amaran utama dan kontraindikasi
+- Rancangan pemantauan keselamatan, khususnya untuk sedasi dan penindasan sistem saraf pusat dalam kombinasi dengan bahan lain
+- Pertimbangan ujian penemuan dos Fasa 2b/3 jika isyarat keberkesanan disahkan
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

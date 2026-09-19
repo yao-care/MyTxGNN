@@ -29,86 +29,87 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Streptokinase: From Thrombolytic Therapy to Myocardial Infarction
+# Streptokinase: Dari Terapi Thrombolytic kepada Infark Miokard
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Streptokinase is a bacterial-derived fibrinolytic (thrombolytic) enzyme. The TxGNN model's top prediction for this drug is **Myocardial Infarction**, supported by **20 historical publications** — however, this predicted indication substantially overlaps with streptokinase's long-established classical clinical use as a thrombolytic in acute MI, so it should be read as evidence *confirmation* rather than a novel repurposing signal. No structured clinical trials are registered for this specific pairing, and Malaysia (NPRA) label/safety data for this candidate is currently a blocking gap.
+Streptokinase ialah enzim fibrinolitik (thrombolytic) yang berasal daripada bakteria. Ramalan teratas model TxGNN untuk ubat ini ialah **Infark Miokard**, disokong oleh **20 penerbitan sejarah** — namun, petunjukan yang diramalkan ini banyak bertindih dengan penggunaan klinikal klasikal streptokinase yang telah lama disahkan sebagai thrombolytic dalam MI akut, jadi ia harus dibaca sebagai pengesahan bukti, bukan sebagai isyarat pengubahturusan yang asli. Tiada percubaan klinikal berstruktur yang berdaftar untuk pasangan khusus ini, dan data label/keselamatan NPRA (Malaysia) untuk calon ini kini merupakan jurang yang menghalang.
 
 ---
 
-## Quick Overview
+## Ikhtisar Cepat
 
-| Item | Content |
+| Perkara | Kandungan |
 |------|------|
-| Original Indication | Not available — NPRA license record field is currently blank (see Safety Considerations) |
-| Predicted New Indication | Myocardial Infarction |
-| TxGNN Prediction Score | 99.83% |
-| Evidence Level | L1 (multiple historical randomized controlled trials in literature) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+| Petunjukan Asal | Tidak tersedia — medan rekod lesen NPRA kini kosong (lihat Pertimbangan Keselamatan) |
+| Petunjukan Baru yang Diramalkan | Infark Miokard |
+| Skor Ramalan TxGNN | 99.83% |
+| Tahap Bukti | L1 (percubaan terkawal rawak sejarah berganda dalam literatur) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | Hold |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism-of-action data from DrugBank is not available for this candidate (data gap). Based on general pharmacological knowledge, streptokinase is a **fibrinolytic/thrombolytic enzyme**: it forms a complex with plasminogen that catalyzes conversion of plasminogen to plasmin, which in turn degrades fibrin and dissolves intravascular thrombi.
+Pada masa kini, data mekanisme tindakan terperinci daripada DrugBank tidak tersedia untuk calon ini (jurang data). Berdasarkan pengetahuan farmakologi umum, streptokinase ialah **enzim fibrinolitik/thrombolytic**: ia membentuk kompleks dengan plasminogen yang mengkatalisis penukaran plasminogen kepada plasmin, yang seterusnya merendahkan fibrin dan membubarkan thrombi intravaskular.
 
-Myocardial infarction is caused by acute coronary artery thrombosis; a thrombolytic that clears the occlusive clot and restores coronary flow is mechanistically directly applicable to this condition. Consistent with this, the literature evidence set is dominated by studies (from the 1970s–1990s) evaluating exactly this use — reperfusion therapy for acute MI.
+Infark miokard disebabkan oleh thrombosis arteri koronari akut; thrombolytic yang membersihkan bekuan oklusi dan memulihkan aliran koronari dapat diaplikasikan secara mekanik secara langsung kepada keadaan ini. Selaras dengan ini, set bukti literatur didominasi oleh kajian (daripada tahun 1970-an–1990-an) menilai penggunaan yang tepat — terapi reperfusi untuk MI akut.
 
-**Important caveat**: this is not really a "new" indication being discovered — thrombolysis for acute MI is streptokinase's classical, decades-old primary clinical application. The TxGNN score here most likely reflects the model recovering a well-known drug–disease association embedded in its training knowledge graph, rather than surfacing a genuinely novel repurposing opportunity. This should be weighed heavily when interpreting the "Go/Hold" recommendation below.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered (ClinicalTrials.gov and ICTRP both returned 0 results for Streptokinase × myocardial infarction; the supporting evidence predates the modern trial-registry era, which is consistent with the literature dates below).
+**Kaveat penting**: ini bukan benar-benar petunjukan "baru" yang ditemui — thrombolysis untuk MI akut ialah aplikasi klinikal utama klasikal streptokinase yang berumur puluhan tahun. Skor TxGNN di sini kemungkinan besar mencerminkan model memulihkan persatuan ubat-penyakit yang terkenal yang tertanam dalam grafik pengetahuan latihannya, sebaliknya daripada meluncurkan peluang pengubahturusan yang benar-benar baru. Ini harus ditimbang dengan berat apabila mentafsir cadangan "Teruskan/Tahan" di bawah.
 
 ---
 
-## Literature Evidence
+## Bukti Percubaan Klinikal
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [4934187](https://pubmed.ncbi.nlm.nih.gov/4934187/) | 1971 | RCT | British Medical Journal | European Working Party multicentre trial; 730 evaluable MI patients randomized to streptokinase vs. heparin. |
-| [481511](https://pubmed.ncbi.nlm.nih.gov/481511/) | 1979 | RCT | New England Journal of Medicine | Controlled trial in 512 stratified AMI patients at 11 European centers; 24-hour streptokinase infusion vs. glucose significantly reduced 6-month mortality (p<0.01) in medium/high-risk groups. |
-| [2888018](https://pubmed.ncbi.nlm.nih.gov/2888018/) | 1987 | RCT | New England Journal of Medicine | Double-blind trial, 219 patients with AMI <4h from onset; IV streptokinase (1.5 MU) vs. placebo; primary endpoint left ventricular function. |
-| [3312370](https://pubmed.ncbi.nlm.nih.gov/3312370/) | 1987 | Review | Journal of the American College of Cardiology | Review of randomized trials of intracoronary and intravenous streptokinase for AMI, including Western Washington and Netherlands trials. |
-| [8028463](https://pubmed.ncbi.nlm.nih.gov/8028463/) | 1994 | Meta-analysis / Decision analysis | Medical Decision Making | Combined meta-analysis and decision analysis of cost-effectiveness of IV streptokinase by infarct location and likelihood of infarction. |
-| [21070617](https://pubmed.ncbi.nlm.nih.gov/21070617/) | 2012 | Review | Cardiovascular Therapeutics | Reviews streptokinase's discovery and demonstrated mortality benefit in AMI, and later tissue plasminogen activators (alteplase, reteplase, tenecteplase). |
-| [10172727](https://pubmed.ncbi.nlm.nih.gov/10172727/) | 1995 | Review | Journal of Interventional Cardiology | European Working Party streptokinase trials and European Cooperative Study Group alteplase trials in AMI. |
-| [7895344](https://pubmed.ncbi.nlm.nih.gov/7895344/) | 1995 | Review | Circulation | Discusses optimal AMI management requiring early, complete reperfusion. |
-| [3815914](https://pubmed.ncbi.nlm.nih.gov/3815914/) | 1987 | Case report | Clinical Cardiology | 45-year-old man developed a second (anterior) MI during apparently successful streptokinase therapy for an initial inferolateral MI. |
-| [8005961](https://pubmed.ncbi.nlm.nih.gov/8005961/) | 1993 | Review | Journal of the Association of Physicians of India | Discussion of streptokinase use in acute MI. |
+Pada masa kini tiada percubaan klinikal berkaitan yang berdaftar (ClinicalTrials.gov dan ICTRP kedua-duanya mengembalikan 0 hasil untuk Streptokinase × infark miokard; bukti sokongan mendahului era pendaftaran percubaan moden, yang konsisten dengan tarikh literatur di bawah).
 
 ---
 
-## Malaysia Market Information
+## Bukti Literatur
 
-The NPRA record confirms **1 active registration** with market status "Marketed," but the specific license number, product name, dosage form, and approved-indication text fields are currently blank in the underlying record (data gap — see DG001). These fields need to be populated from the official NPRA product insert before market-detail claims can be made.
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|------|-------|-------|---------|
+| [4934187](https://pubmed.ncbi.nlm.nih.gov/4934187/) | 1971 | RCT | British Medical Journal | Percubaan multisentrik Pihak Kerja Eropah; 730 pesakit MI yang boleh dinilai dirandomisasi kepada streptokinase vs. heparin. |
+| [481511](https://pubmed.ncbi.nlm.nih.gov/481511/) | 1979 | RCT | New England Journal of Medicine | Percubaan terkawal dalam 512 pesakit AMI berstrata di 11 pusat Eropah; infusi streptokinase 24 jam vs. glukosa mengurangkan secara ketara mortaliti 6 bulan (p<0.01) dalam kumpulan risiko sederhana/tinggi. |
+| [2888018](https://pubmed.ncbi.nlm.nih.gov/2888018/) | 1987 | RCT | New England Journal of Medicine | Percubaan buta ganda, 219 pesakit dengan AMI <4h dari permulaan; streptokinase IV (1.5 MU) vs. plasebo; titik akhir utama fungsi ventrikel kiri. |
+| [3312370](https://pubmed.ncbi.nlm.nih.gov/3312370/) | 1987 | Ulasan | Journal of the American College of Cardiology | Ulasan percubaan rawak streptokinase intrakoronari dan intravena untuk AMI, termasuk percubaan Western Washington dan Netherlands. |
+| [8028463](https://pubmed.ncbi.nlm.nih.gov/8028463/) | 1994 | Meta-analisis / Analisis keputusan | Medical Decision Making | Analisis meta-gabungan dan analisis keputusan keberkesanan kos streptokinase IV mengikut lokasi infark dan kemungkinan infarksi. |
+| [21070617](https://pubmed.ncbi.nlm.nih.gov/21070617/) | 2012 | Ulasan | Cardiovascular Therapeutics | Ulasan penemuan streptokinase dan manfaat mortaliti yang ditunjukkan dalam AMI, dan aktivator plasminogen tisu kemudian (alteplase, reteplase, tenecteplase). |
+| [10172727](https://pubmed.ncbi.nlm.nih.gov/10172727/) | 1995 | Ulasan | Journal of Interventional Cardiology | Percubaan streptokinase Pihak Kerja Eropah dan percubaan alteplase Kumpulan Kajian Koperatif Eropah dalam AMI. |
+| [7895344](https://pubmed.ncbi.nlm.nih.gov/7895344/) | 1995 | Ulasan | Circulation | Membincangkan pengurusan AMI yang optimal memerlukan reperfusi awal yang lengkap. |
+| [3815914](https://pubmed.ncbi.nlm.nih.gov/3815914/) | 1987 | Laporan kes | Clinical Cardiology | Lelaki berusia 45 tahun mengembangkan MI kedua (anterior) semasa terapi streptokinase yang didapati berjaya untuk MI inferolateral awal. |
+| [8005961](https://pubmed.ncbi.nlm.nih.gov/8005961/) | 1993 | Ulasan | Journal of the Association of Physicians of India | Perbincangan penggunaan streptokinase dalam MI akut. |
 
 ---
 
-## Safety Considerations
+## Maklumat Pasaran Malaysia
 
-Please refer to the package insert for safety information. (Key warnings, contraindications, and drug–drug interaction data are all currently unavailable — DG001, Blocking severity — and must be obtained from the official NPRA/manufacturer package insert before any safety assessment can proceed.)
+Rekod NPRA mengesahkan **1 pendaftaran aktif** dengan status pasaran "Dipasarkan," tetapi medan nombor lesen khusus, nama produk, bentuk dos, dan teks petunjukan yang diluluskan kini kosong dalam rekod dasar (jurang data — lihat DG001). Medan ini perlu diisi daripada leaflet ubat NPRA rasmi sebelum tuntutan perincian pasaran dapat dibuat.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila rujuk leaflet ubat untuk maklumat keselamatan. (Data amaran utama, kontraindikasi, dan interaksi ubat–ubat semuanya kini tidak tersedia — DG001, Keparahan Pemblokiran — dan mesti diperolehi daripada leaflet ubat NPRA/pengilang rasmi sebelum mana-mana penilaian keselamatan dapat diteruskan.)
 
-**Rationale:**
-- The efficacy evidence for streptokinase in myocardial infarction is strong (multiple historical RCTs), but this largely reflects the drug's already-established classical use rather than a novel repurposing signal, limiting the value of pursuing it as a "new indication" candidate.
-- More critically, TFDA/NPRA label data (warnings, contraindications, DDI) is a **Blocking** data gap that prevents even an initial (S1) safety evaluation — the candidate cannot progress until this is resolved.
+---
 
-**To proceed, the following is needed:**
-- Obtain and parse the official NPRA package insert (warnings, contraindications, interactions) to close DG001
-- Retrieve DrugBank MOA/classification data to close DG002
-- Confirm streptokinase's actual approved indication text on the Malaysia label, to determine whether MI is already covered (making this a label-expansion/confirmation exercise, not true repurposing)
-- Deprioritize the low-evidence downstream candidates already flagged Hold/L5 in this pack (e.g., hemoglobinopathy, partial 16p deletion), which appear to be knowledge-graph artifacts rather than plausible signals
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Hold**
+
+**Rasional:**
+- Bukti keberkesanan untuk streptokinase dalam infark miokard adalah kuat (percubaan terkawal rawak sejarah berganda), tetapi ini sebahagian besarnya mencerminkan penggunaan klasikal yang telah disahkan ubat daripada isyarat pengubahturusan baru, mengehadkan nilai mengejar sebagai calon "petunjukan baru".
+- Lebih penting lagi, data label NPRA (amaran, kontraindikasi, DDI) adalah **Pemblokiran** jurang data yang menghalang malah penilaian keselamatan awal (S1) — calon tidak dapat maju sehingga ini diselesaikan.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Dapatkan dan huraikan leaflet ubat NPRA rasmi (amaran, kontraindikasi, interaksi) untuk menutup DG001
+- Ambil data MOA/klasifikasi DrugBank untuk menutup DG002
+- Sahkan teks petunjukan yang diluluskan sebenarnya streptokinase pada label Malaysia, untuk menentukan sama ada MI sudah dilindungi (menjadikan ini latihan pengembangan label/pengesahan, bukan pengubahturusan sebenar)
+- Deprioritasi calon hiliran bukti rendah yang sudah ditandai Hold/L5 dalam pak ini (cth., hemoglobinopati, pemadaman 16p separa), yang kelihatan seperti artifak grafik pengetahuan daripada isyarat yang munasabah
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

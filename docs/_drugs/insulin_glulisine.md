@@ -29,100 +29,101 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Insulin Glulisine: From Diabetes Mellitus (Label Indication) to Type 1 Diabetes Mellitus (Confirmatory Signal, Not True Repurposing)
+# Insulin Glulisine: Daripada Diabetes Mellitus (Indikasi Label) kepada Diabetes Mellitus Jenis 1 (Isyarat Pengesahan, Bukan Penggunaan Semula Sejati)
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Insulin glulisine is a rapid-acting insulin analogue already used for glycemic control in diabetes mellitus. The TxGNN model's top-ranked prediction is **Type 1 Diabetes Mellitus** — but this is the drug's **existing, on-label indication**, not a novel repurposing candidate, supported by **50 clinical trials** and **19 publications**. The model's high score here reflects correct recall of a known drug–disease relationship rather than a new hypothesis.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Diabetes mellitus, glycemic control (formal NPRA label indication text not yet retrieved — data gap) |
-| Predicted New Indication | Type 1 Diabetes Mellitus |
-| TxGNN Prediction Score | 99.55% |
-| Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Proceed with Guardrails |
+Insulin glulisine ialah analog insulin yang bertindak cepat yang sudah digunakan untuk kawalan glisemik dalam diabetes mellitus. Ramalan model TxGNN berpangkat tertinggi ialah **Diabetes Mellitus Jenis 1** — tetapi ini ialah **indikasi sedia ada, berdasarkan label** ubat itu, bukan calon penggunaan semula yang baru, disokong oleh **50 percubaan klinis** dan **19 penerbitan**. Skor model yang tinggi di sini mencerminkan penarikan balik yang betul bagi hubungan ubat-penyakit yang diketahui daripada graf pengetahuan, bukan pembentukan hipotesis baru.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Pantas
 
-Currently, detailed mechanism of action data is not available (`original_moa`: Data Gap). Based on the evidence pack's own model rationale, insulin glulisine is a **rapid-acting insulin analogue** that is already approved for glycemic control in type 1 diabetes. This means the top-ranked "predicted" indication is in fact the drug's established, on-label use — not a genuine repurposing candidate. The very high TxGNN score (99.55%) is consistent with this: it reflects the model correctly recovering a known, well-documented drug–disease association from the knowledge graph, rather than surfacing a novel signal.
-
-This is corroborated by the depth of supporting evidence: 50 registered clinical trials and 19 publications directly involving insulin glulisine in type 1 diabetes populations, including multiple completed Phase 3 non-inferiority trials against insulin lispro and insulin aspart across adult, pediatric, and CSII (pump) settings. This volume of evidence is what would be expected for a mature, approved indication — not an exploratory hypothesis.
-
-It is worth noting that ranks 2–10 in this evidence pack (e.g., thiamine-responsive dysfunction syndrome, stiff person syndrome, autoimmune oophoritis, and several lipodystrophy entries) carry no clinical trial or literature support (Evidence Level L5, decision stage S0/Hold). Several of these — particularly the lipodystrophy-related entries — are flagged in the model rationale as potentially **causality-reversed**: localized lipoatrophy/lipodystrophy is a known adverse effect of insulin injection, so the graph may be linking "insulin" and "lipodystrophy" via an adverse-event edge rather than a treatment edge. These should not be advanced without independent mechanistic review. The only mid-tier candidate is rank 7 (pancreatic agenesis, L4, "Research Question") — insulin replacement is standard care for the permanent neonatal diabetes caused by pancreatic agenesis, but no dedicated trials or literature were found in this data pull.
+| Item | Kandungan |
+|------|---------|
+| Indikasi Asal | Diabetes mellitus, kawalan glisemik (teks indikasi label formal NPRA belum diambil — jurang data) |
+| Indikasi Ramalan Baru | Diabetes Mellitus Jenis 1 |
+| Skor Ramalan TxGNN | 99.55% |
+| Paras Bukti | L1 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan Disyorkan | Terus dengan Pengawal |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Pada masa ini, data mekanisme kerja terperinci tidak tersedia (`original_moa`: Jurang Data). Berdasarkan rasional model paket bukti itu sendiri, insulin glulisine ialah **analog insulin yang bertindak cepat** yang sudah diluluskan untuk kawalan glisemik dalam diabetes jenis 1. Ini bermakna indikasi berpangkat tertinggi yang "diprakirakan" sebenarnya ialah penggunaan berdasarkan label ubat itu yang telah ditubuhkan — bukan calon penggunaan semula yang sejati. Skor TxGNN yang amat tinggi (99.55%) konsisten dengan ini: ia mencerminkan model dengan betul mendapatkan semula persatuan ubat-penyakit yang diketahui, didokumenkan dengan baik daripada graf pengetahuan, daripada mempermukakan isyarat baru.
+
+Ini disokong oleh kedalaman bukti sokongan: 50 percubaan klinis berdaftar dan 19 penerbitan yang melibatkan insulin glulisine secara terus dalam populasi diabetes jenis 1, termasuk pelbagai percubaan fasa 3 kesederajatan tanpa inferioriti terhadap insulin lispro dan insulin aspart merentas tetapan orang dewasa, pediatrik, dan CSII (pam). Jumlah bukti ini adalah apa yang dijangkakan untuk indikasi yang matang dan diluluskan — bukan hipotesis penerokaan.
+
+Adalah patut diingat bahawa pangkat 2–10 dalam paket bukti ini (cth., disfungsi responsif tiamin, sindrom orang kaku, oophoritis autoimun, dan beberapa entri lipodistrofi) tidak membawa sokongan percubaan klinis atau literatur (Paras Bukti L5, decision stage S0/Hold). Beberapa daripadanya — terutamanya entri yang berkaitan lipodistrofi — ditandai dalam rasional model sebagai berpotensi **kausaliti-terbalik**: lipoatrofi setempat/lipodistrofi ialah kesan sampingan yang diketahui bagi suntikan insulin, jadi graf mungkin menghubungkan "insulin" dan "lipodistrofi" melalui tepi peristiwa buruk daripada tepi rawatan. Ini tidak seharusnya dimajukan tanpa semakan mekanisme bebas. Satu-satunya calon peringkat tengah ialah pangkat 7 (agenesis pankreas, L4, "Soalan Penyelidikan") — penggantian insulin ialah penjagaan piawai untuk diabetes neonatal kekal yang disebabkan oleh agenesis pankreas, tetapi tiada percubaan khusus atau literatur ditemui dalam pengambilan data ini.
+
+---
+
+## Bukti Percubaan Klinis
+
+| Nombor Percubaan | Fasa | Status | Bilangan Peserta | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT01202474](https://clinicaltrials.gov/study/NCT01202474) | Phase 4 | Completed | 100 | Apidra (glulisine) + Lantus basal-bolus regimen in children/adolescents with T1DM in Russia; evaluated HbA1c targets and hypoglycemia rates |
-| [NCT02688933](https://clinicaltrials.gov/study/NCT02688933) | Phase 4 | Completed | 638 | Large RCT comparing morning Toujeo (glargine U300) vs Lantus in T1DM using CGM-measured glycemic control |
-| [NCT02685449](https://clinicaltrials.gov/study/NCT02685449) | Phase 4 | Unknown | 70 | Cross-over study of insulin requirement for pure-protein meals in children with T1DM on CSII |
-| [NCT01792830](https://clinicaltrials.gov/study/NCT01792830) | Phase 3 | Completed | 175 | Glargine-based hospital discharge insulin algorithm efficacy/safety in cardiac surgery patients with perioperative hyperglycemia |
-| [NCT00546702](https://clinicaltrials.gov/study/NCT00546702) | Phase 3 | Completed | 142 | 26-week efficacy/safety study of insulin glulisine (HMR1964) with insulin glargine in T1DM |
-| [NCT00467376](https://clinicaltrials.gov/study/NCT00467376) | Phase 3 | Completed | 485 | Insulin glulisine vs insulin lispro (both with Lantus) in T1DM/T2DM — efficacy, hypoglycemia frequency |
-| [NCT01768559](https://clinicaltrials.gov/study/NCT01768559) | Phase 3 | Completed | 894 | 26-week RCT: lixisenatide vs once-daily/thrice-daily insulin glulisine added to insulin glargine ± metformin in T2DM |
-| [NCT04974528](https://clinicaltrials.gov/study/NCT04974528) | Phase 3 | Completed | 319 | INHALE-1: inhaled Afrezza vs rapid-acting analogs (incl. glulisine) + basal insulin in pediatric T1DM/T2DM |
-| [NCT00290979](https://clinicaltrials.gov/study/NCT00290979) | Phase 3 | Completed | 250 | 28-week non-inferiority study: insulin glulisine (HMR1964) vs insulin lispro in T1DM |
-| [NCT00135083](https://clinicaltrials.gov/study/NCT00135083) | Phase 3 | Completed | 347 | Once vs twice vs thrice-daily insulin glulisine as add-on to glargine + oral sensitizer in T2DM |
+| [NCT01202474](https://clinicaltrials.gov/study/NCT01202474) | Fasa 4 | Selesai | 100 | Regimen basal-bolus Apidra (glulisine) + Lantus dalam kanak-kanak/remaja dengan T1DM di Rusia; menilai sasaran HbA1c dan kadar hipoglikemia |
+| [NCT02688933](https://clinicaltrials.gov/study/NCT02688933) | Fasa 4 | Selesai | 638 | RCT besar yang membandingkan Toujeo pagi (glargine U300) vs Lantus dalam T1DM menggunakan kawalan glisemik diukur CGM |
+| [NCT02685449](https://clinicaltrials.gov/study/NCT02685449) | Fasa 4 | Tidak Diketahui | 70 | Kajian silang keperluan insulin untuk makanan protein tulen dalam kanak-kanak dengan T1DM pada CSII |
+| [NCT01792830](https://clinicaltrials.gov/study/NCT01792830) | Fasa 3 | Selesai | 175 | Keberkesanan/keselamatan algoritma insulin pemulangan hospital berasaskan glargine dalam pesakit pembedahan jantung dengan hiperglikemia perioperatif |
+| [NCT00546702](https://clinicaltrials.gov/study/NCT00546702) | Fasa 3 | Selesai | 142 | Kajian keberkesanan/keselamatan 26 minggu bagi insulin glulisine (HMR1964) dengan insulin glargine dalam T1DM |
+| [NCT00467376](https://clinicaltrials.gov/study/NCT00467376) | Fasa 3 | Selesai | 485 | Insulin glulisine vs insulin lispro (kedua-duanya dengan Lantus) dalam T1DM/T2DM — keberkesanan, kekerapan hipoglikemia |
+| [NCT01768559](https://clinicaltrials.gov/study/NCT01768559) | Fasa 3 | Selesai | 894 | RCT 26 minggu: lixisenatide vs insulin glulisine sekali sehari/tiga kali sehari ditambah kepada insulin glargine ± metformin dalam T2DM |
+| [NCT04974528](https://clinicaltrials.gov/study/NCT04974528) | Fasa 3 | Selesai | 319 | INHALE-1: Afrezza terhidu vs analog bertindak cepat (termasuk glulisine) + insulin basal dalam T1DM/T2DM pediatrik |
+| [NCT00290979](https://clinicaltrials.gov/study/NCT00290979) | Fasa 3 | Selesai | 250 | Kajian kesederajatan tanpa inferioriti 28 minggu: insulin glulisine (HMR1964) vs insulin lispro dalam T1DM |
+| [NCT00135083](https://clinicaltrials.gov/study/NCT00135083) | Fasa 3 | Selesai | 347 | Insulin glulisine sekali vs dua kali vs tiga kali sehari sebagai tambahan kepada glargine + penyensitif lisan dalam T2DM |
 
-40 additional trials were identified in the evidence pack but are not listed here for brevity.
+40 percubaan tambahan telah dikenal pasti dalam paket bukti tetapi tidak disenaraikan di sini untuk ringkasnya.
 
 ---
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [16308840](https://pubmed.ncbi.nlm.nih.gov/16308840/) | 2005 | RCT | Horm Metab Res | 683-patient RCT comparing insulin glulisine vs insulin lispro in adults with T1DM |
-| [21291333](https://pubmed.ncbi.nlm.nih.gov/21291333/) | 2011 | RCT | Diabetes Technol Ther | 26-week trial: comparable efficacy/safety of glulisine vs lispro in basal-bolus regimen, pediatric T1DM |
-| [21457066](https://pubmed.ncbi.nlm.nih.gov/21457066/) | 2011 | RCT | Diabetes Technol Ther | Randomized crossover: glulisine vs aspart vs lispro via CSII in T1DM |
-| [19614947](https://pubmed.ncbi.nlm.nih.gov/19614947/) | 2009 | RCT | Diabetes Obes Metab | Glulisine vs lispro (with glargine) in Japanese patients with T1DM |
-| [19496630](https://pubmed.ncbi.nlm.nih.gov/19496630/) | 2009 | Review | Drugs | Comprehensive review of insulin glulisine use in diabetes mellitus management |
-| [23243636](https://pubmed.ncbi.nlm.nih.gov/23243636/) | 2012 | Review | Drugs of Today | Review of insulin analogues, including glulisine, in children/adolescents with T1DM |
-| [18076215](https://pubmed.ncbi.nlm.nih.gov/18076215/) | 2008 | Review (PK/PD) | Clin Pharmacokinet | Clinical pharmacokinetics and pharmacodynamics of insulin glulisine |
-| [16123473](https://pubmed.ncbi.nlm.nih.gov/16123473/) | 2005 | Study | Diabetes Care | PK, postprandial glucose control, and safety of glulisine in pediatric T1DM |
-| [28544684](https://pubmed.ncbi.nlm.nih.gov/28544684/) | 2017 | Study | Pediatr Int | Efficacy/safety of glulisine for CSII in pediatric T1DM (Japan) |
-| [16706558](https://pubmed.ncbi.nlm.nih.gov/16706558/) | 2006 | Review | Drugs | Review of insulin glulisine pharmacology and clinical trial data in T1DM/T2DM |
+| [16308840](https://pubmed.ncbi.nlm.nih.gov/16308840/) | 2005 | RCT | Horm Metab Res | RCT 683-pesakit membandingkan insulin glulisine vs insulin lispro dalam orang dewasa dengan T1DM |
+| [21291333](https://pubmed.ncbi.nlm.nih.gov/21291333/) | 2011 | RCT | Diabetes Technol Ther | Percubaan 26 minggu: keberkesanan/keselamatan yang setanding bagi glulisine vs lispro dalam rejimen basal-bolus, T1DM pediatrik |
+| [21457066](https://pubmed.ncbi.nlm.nih.gov/21457066/) | 2011 | RCT | Diabetes Technol Ther | Silang rawak: glulisine vs aspart vs lispro melalui CSII dalam T1DM |
+| [19614947](https://pubmed.ncbi.nlm.nih.gov/19614947/) | 2009 | RCT | Diabetes Obes Metab | Glulisine vs lispro (dengan glargine) dalam pesakit T1DM Jepun |
+| [19496630](https://pubmed.ncbi.nlm.nih.gov/19496630/) | 2009 | Ulasan | Drugs | Ulasan komprehensif bagi penggunaan insulin glulisine dalam pengurusan diabetes mellitus |
+| [23243636](https://pubmed.ncbi.nlm.nih.gov/23243636/) | 2012 | Ulasan | Drugs of Today | Ulasan analog insulin, termasuk glulisine, dalam kanak-kanak/remaja dengan T1DM |
+| [18076215](https://pubmed.ncbi.nlm.nih.gov/18076215/) | 2008 | Ulasan (PK/PD) | Clin Pharmacokinet | Farmakokinetik klinis dan farmakodinamik insulin glulisine |
+| [16123473](https://pubmed.ncbi.nlm.nih.gov/16123473/) | 2005 | Kajian | Diabetes Care | PK, kawalan glukosa postprandial, dan keselamatan glulisine dalam T1DM pediatrik |
+| [28544684](https://pubmed.ncbi.nlm.nih.gov/28544684/) | 2017 | Kajian | Pediatr Int | Keberkesanan/keselamatan glulisine untuk CSII dalam T1DM pediatrik (Jepun) |
+| [16706558](https://pubmed.ncbi.nlm.nih.gov/16706558/) | 2006 | Ulasan | Drugs | Ulasan farmakoloji insulin glulisine dan data percubaan klinis dalam T1DM/T2DM |
 
-9 additional publications were identified in the evidence pack but are not listed here for brevity.
-
----
-
-## Malaysia Market Information
-
-Malaysia (NPRA) market status is **✓ Marketed**, with 1 registration on record. However, the registration detail fields (authorization number, product name, dosage form, approved indication text) were **not populated in this data pull** — this is tracked as Data Gap DG001 (Blocking) in the evidence pack and must be resolved before a full label table can be produced.
+9 penerbitan tambahan telah dikenal pasti dalam paket bukti tetapi tidak disenaraikan di sini untuk ringkasnya.
 
 ---
 
-## Safety Considerations
+## Maklumat Pasaran Malaysia
 
-Please refer to the package insert for safety information. (Key warnings, contraindications, and drug interaction data were not available in this data pull — DG001, Blocking.)
+Status pasaran Malaysia (NPRA) ialah **✓ Dipasarkan**, dengan 1 pendaftaran pada rekod. Walau bagaimanapun, medan butiran pendaftaran (nombor kebenaran, nama produk, bentuk dos, teks indikasi diluluskan) **tidak diisi dalam pengambilan data ini** — ini dijejak sebagai Jurang Data DG001 (Menghalang) dalam paket bukti dan mesti diselesaikan sebelum jadual label lengkap dapat dihasilkan.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Proceed with Guardrails**
+Sila rujuk sisipan pakej untuk maklumat keselamatan. (Amaran utama, kontraindikasi, dan data interaksi ubat tidak tersedia dalam pengambilan data ini — DG001, Menghalang.)
 
-**Rationale:**
-The evidence base (L1, 50 trials, 19 publications) is strong, but it supports the drug's **existing** indication rather than a new one — this candidate should be treated as a label/data-completeness item, not a repurposing opportunity. The "Proceed with Guardrails" status is driven by the blocking data gap on TFDA/NPRA label safety information (DG001), not by uncertainty about efficacy.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA label PDF (warnings, contraindications) — blocking for safety review (DG001)
-- DrugBank mechanism-of-action data to complete the mechanistic record (DG002)
-- Confirmation that this candidate is not a duplicate of an already-approved indication in the pipeline database
-- If pursuing genuinely novel signals from this drug, rank 7 (pancreatic agenesis, L4) is the only candidate with a plausible mechanistic rationale and would need dedicated evidence collection; ranks 2–6 and 8–10 (L5, Hold) are not actionable without independent mechanistic verification, and the lipodystrophy-related ranks (8–10) should first be checked for causality-reversed graph edges
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Terus dengan Pengawal**
+
+**Rasional:**
+Asas bukti (L1, 50 percubaan, 19 penerbitan) adalah kuat, tetapi ia menyokong **indikasi sedia ada** ubat daripada yang baru — calon ini seharusnya diperlakukan sebagai item label/ketengkapan data, bukan peluang penggunaan semula. Status "Terus dengan Pengawal" didorong oleh jurang data yang menghalang pada maklumat keselamatan label TFDA/NPRA (DG001), bukan oleh ketidakpastian tentang keberkesanan.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- PDF label TFDA/NPRA (amaran, kontraindikasi) — menghalang untuk semakan keselamatan (DG001)
+- Data mekanisme kerja DrugBank untuk melengkapkan rekod mekanisme (DG002)
+- Pengesahan bahawa calon ini bukan duplikat bagi indikasi yang sudah diluluskan dalam pangkalan data saluran paip
+- Jika mengejar isyarat baru yang genuinely baru daripada ubat ini, pangkat 7 (agenesis pankreas, L4) ialah satu-satunya calon dengan rasional mekanisme yang munasabah dan memerlukan pengumpulan bukti berdedikasi; pangkat 2–6 dan 8–10 (L5, S0/Hold) tidak boleh diambil tindakan tanpa pengesahan mekanisme bebas, dan pangkat yang berkaitan lipodistrofi (8–10) seharusnya disemak terlebih dahulu untuk tepi graf kausaliti-terbalik
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

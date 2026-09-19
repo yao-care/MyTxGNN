@@ -29,88 +29,89 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Guaiacol: From Historical Expectorant Use to Acute Laryngopharyngitis
+# Guaiacol: Dari Penggunaan Ekspektoran Bersejarah hingga Laringofaring Akut
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Guaiacol (DrugBank DB11359) is a phenolic compound registered in Malaysia under 2 marketing authorizations; the exact approved indication text is not available in the current registry extract. The TxGNN model's top prediction suggests potential relevance to **Acute Laryngopharyngitis**, but this is currently supported by **0 clinical trials and 0 publications** — a model-only signal. A secondary prediction, **Nasal Cavity Disease**, has weaker but non-zero support: **1 clinical trial** (on the related compound guaifenesin) and **1 literature review**.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not specified in current registry data (approved indication text not populated in either license record) |
-| Predicted New Indication | Acute Laryngopharyngitis |
-| TxGNN Prediction Score | 99.57% |
-| Evidence Level | L5 (model prediction only, no supporting trials or literature) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
-| Recommended Decision | Hold |
+Guaiacol (DrugBank DB11359) ialah sebatian fenolik berdaftar di Malaysia di bawah 2 kebenaran pemasaran; teks petunjuk yang tepat yang diluluskan tidak tersedia dalam ekstrak daftar semasa. Ramalan model TxGNN teratas mencadangkan perkaitan potensi kepada **Laringofaring Akut**, tetapi ini kini disokong oleh **0 ujian klinikal dan 0 penerbitan** — isyarat model sahaja. Ramalan sekunder, **Penyakit Rongga Hidung**, mempunyai sokongan lebih lemah tetapi bukan sifar: **1 ujian klinikal** (pada sebatian berkaitan guaifenesin) dan **1 ulasan literatur**.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Ikhtisar Pantas
 
-Detailed mechanism of action data for guaiacol is not currently available in this evidence pack (flagged as a High-severity data gap). Based on general pharmacological background, guaiacol is a phenolic compound historically associated with mild antiseptic and expectorant properties, and is chemically the parent structure of guaifenesin (guaiacol glyceryl ether), a well-established mucolytic/expectorant agent.
-
-The rationale linking guaiacol to acute laryngopharyngitis is purely topological (TxGNN knowledge-graph prediction, score 0.9957) — no clinical trial or published study on guaiacol itself for this indication currently exists in the evidence base. The theoretical basis (mild mucosal effects on upper respiratory inflammation) is plausible but unverified.
-
-A related, better-supported signal exists for **Nasal Cavity Disease**: guaifenesin — sharing the guaiacol core structure — has demonstrated expectorant/mucolytic effects in a completed Phase 2 pediatric trial for chronic rhinitis. Because this evidence comes from a structural analog rather than guaiacol itself, and guaiacol's own MOA is a confirmed data gap, this mechanistic link is of moderate strength and requires validation before it can be extrapolated to guaiacol directly.
-
----
-
-## Clinical Trial Evidence — Acute Laryngopharyngitis (Primary Prediction)
-
-Currently no related clinical trials registered.
-
-## Literature Evidence — Acute Laryngopharyngitis (Primary Prediction)
-
-Currently no related literature available.
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Tidak ditentukan dalam data daftar semasa (teks petunjuk yang diluluskan tidak diisi dalam kedua-dua rekod lesen) |
+| Petunjuk Baru yang Diramalkan | Laringofaring Akut |
+| Skor Ramalan TxGNN | 99.57% |
+| Aras Bukti | L5 (ramalan model sahaja, tanpa ujian atau literatur penyokong) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 2 |
+| Keputusan yang Disyorkan | Tertahankan |
 
 ---
 
-## Secondary Prediction: Nasal Cavity Disease (Score 99.51%, Rank 7149, Evidence Level L4)
+## Mengapa Ramalan Ini Munasabah?
 
-### Clinical Trial Evidence
+Data mekanisme tindakan terperinci untuk guaiacol tidak tersedia pada masa ini dalam pakej bukti ini (ditandai sebagai jurang data Keparahan Tinggi). Berdasarkan latar belakang farmakologi umum, guaiacol ialah sebatian fenolik yang secara historis dikaitkan dengan sifat antiseptik ringan dan ekspektoran, dan secara kimia merupakan struktur induk guaifenesin (guaiacol gliseril eter), agen mukolitis/ekspektoran yang mantap.
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Alasan yang menghubungkan guaiacol kepada laringofaring akut adalah topologi semata (ramalan graf pengetahuan TxGNN, skor 0.9957) — tiada ujian klinikal atau kajian terbitan pada guaiacol sendiri untuk petunjuk ini wujud dalam asas bukti pada masa ini. Asas teori (kesan mukosal ringan pada keradangan saluran pernafasan atas) boleh dipakai tetapi tidak disahkan.
+
+Isyarat berkaitan yang lebih baik disokong wujud untuk **Penyakit Rongga Hidung**: guaifenesin — berkongsi struktur teras guaiacol — telah menunjukkan kesan ekspektoran/mukolitis dalam ujian pediatrik Fasa 2 selesai untuk rinitis kronik. Kerana bukti ini datang daripada analog struktur daripada guaiacol sendiri, dan MOA guaiacol sendiri ialah jurang data yang disahkan, pautan mekanistik ini mempunyai kekuatan sederhana dan memerlukan pengesahan sebelum ia boleh diekstrapolasi kepada guaiacol secara langsung.
+
+---
+
+## Bukti Ujian Klinikal — Laringofaring Akut (Ramalan Utama)
+
+Pada masa ini tiada ujian klinikal berkaitan berdaftar.
+
+## Bukti Literatur — Laringofaring Akut (Ramalan Utama)
+
+Pada masa ini tiada literatur berkaitan tersedia.
+
+---
+
+## Ramalan Sekunder: Penyakit Rongga Hidung (Skor 99.51%, Pangkat 7149, Aras Bukti L4)
+
+### Bukti Ujian Klinikal
+
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT01364467](https://clinicaltrials.gov/study/NCT01364467) | Phase 2 | Completed | 30 | Randomized, placebo-controlled pilot trial of oral guaifenesin (guaiacol derivative, not guaiacol itself) for pediatric chronic rhinitis; evaluated nasal symptom relief via SN-5 survey. Rated Grade B relevance — same chemical family, not the same molecule. |
+| [NCT01364467](https://clinicaltrials.gov/study/NCT01364467) | Fasa 2 | Selesai | 30 | Ujian pilot rawak terkawal plasebo guaifenesin lisan (terbitan guaiacol, bukan guaiacol sendiri) untuk rinitis kronik pediatrik; menilai pelepasan gejala hidung melalui survei SN-5. Dinilai kaitan Gred B — keluarga kimia sama, bukan molekul sama. |
 
-### Literature Evidence
+### Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [9065342](https://pubmed.ncbi.nlm.nih.gov/9065342/) | 1997 | Review | American Journal of Rhinology | Review of sinusitis management in adult cystic fibrosis patients; general sinonasal disease context, not guaiacol-specific. |
+| [9065342](https://pubmed.ncbi.nlm.nih.gov/9065342/) | 1997 | Ulasan | American Journal of Rhinology | Ulasan pengurusan sinusitis dalam pesakit fibrosis kistik dewasa; konteks penyakit sinonasal umum, bukan spesifik guaiacol. |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Guaiacol holds 2 marketing authorizations in Malaysia (market status: Marketed), but the license number, product name, dosage form, manufacturer, and approved indication text fields are not populated in the current registry extract. This information should be sourced directly from NPRA product listings before proceeding further.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information. (TFDA/NPRA package insert warnings, contraindications, and drug interaction data are not yet available in this evidence pack — retrieval of the product insert is flagged as a Blocking data gap.)
+Guaiacol memiliki 2 kebenaran pemasaran di Malaysia (status pasaran: Dipasarkan), tetapi nombor lesen, nama produk, bentuk dos, pengilang, dan medan teks petunjuk yang diluluskan tidak diisi dalam ekstrak daftar semasa. Maklumat ini harus bersumber terus daripada penyenaraian produk NPRA sebelum meneruskan lebih jauh.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold** (for the primary prediction, Acute Laryngopharyngitis)
+Sila rujuk risalah pembungkusan untuk maklumat keselamatan. (Amaran risalah pembungkusan TFDA/NPRA, kontraindikasi, dan data interaksi ubat tidak lagi tersedia dalam pakej bukti ini — pengambilan risalah produk ditandai sebagai jurang data yang Menghalang.)
 
-**Rationale:**
-The top-ranked prediction (Acute Laryngopharyngitis) is supported only by the TxGNN model score with zero clinical trials or literature — insufficient to advance past initial screening. The secondary prediction (Nasal Cavity Disease) shows a more promising evidence trail, but the trial evidence is for guaifenesin rather than guaiacol itself, and MOA/safety data for guaiacol remain unconfirmed.
+---
 
-**To proceed, the following is needed:**
-- Guaiacol package insert (warnings, contraindications) from TFDA/NPRA — currently a Blocking gap
-- Confirmed mechanism of action for guaiacol from DrugBank or primary literature
-- Malaysia license details (product names, approved indication text) for the 2 existing registrations
-- If pursuing the Nasal Cavity Disease lead: literature or trial data specific to guaiacol (not just guaifenesin) to confirm the mechanistic extrapolation is valid
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tertahankan** (untuk ramalan utama, Laringofaring Akut)
+
+**Alasan:**
+Ramalan peringkat tertinggi (Laringofaring Akut) disokong oleh skor model TxGNN sahaja dengan sifar ujian klinikal atau literatur — tidak mencukupi untuk maju melampaui pemeriksaan awal. Ramalan sekunder (Penyakit Rongga Hidung) menunjukkan jejak bukti yang lebih menjanjikan, tetapi bukti ujian adalah untuk guaifenesin daripada guaiacol sendiri, dan data MOA/keselamatan untuk guaiacol kekal belum disahkan.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Risalah pembungkusan guaiacol (amaran, kontraindikasi) daripada TFDA/NPRA — kini jurang yang Menghalang
+- MOA yang disahkan untuk guaiacol daripada DrugBank atau literatur utama
+- Butiran lesen Malaysia (nama produk, teks petunjuk yang diluluskan) untuk 2 pendaftaran sedia ada
+- Jika mengejar petunjuk Penyakit Rongga Hidung: literatur atau data ujian khusus untuk guaiacol (bukan hanya guaifenesin) untuk mengesahkan ekstrapolasi mekanistik adalah sah
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

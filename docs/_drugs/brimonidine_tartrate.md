@@ -29,99 +29,100 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Brimonidine Tartrate: Drug Repurposing Evaluation — Insufficient Data for Prediction
+# Brimonidine Tartrate: Penilaian Pengunaan Semula Ubat — Data Tidak Mencukupi untuk Ramalan
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Brimonidine tartrate is an alpha-2 adrenergic agonist widely used for the treatment of glaucoma and ocular hypertension. The TxGNN model has **not generated any predicted new indications** for this drug, and key data fields (DrugBank ID, MOA, approved indication text, safety data) remain unfilled. This report serves as a **data gap assessment** to guide next steps for completing the evidence pack.
+Brimonidine tartrate ialah agonis adrenergik alfa-2 yang digunakan secara meluas untuk merawat glaukoma dan hipertensi okular. Model TxGNN **tidak menghasilkan sebarang indikasi baru yang diramal** untuk ubat ini, dan medan data utama (DrugBank ID, MOA, teks indikasi yang diluluskan, data keselamatan) kekal kosong. Laporan ini berfungsi sebagai **penilaian jurang data** untuk membimbing langkah seterusnya dalam melengkapkan pakej bukti.
 
 ---
 
-## Quick Overview
+## Ringkasan Cepat
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | *(Data not provided in evidence pack — known clinically for glaucoma / ocular hypertension)* |
-| Predicted New Indication | **None** — TxGNN returned no predictions |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | **L5** (No predictions, no supporting studies) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 9 |
-| Recommended Decision | **Hold** |
+| Indikasi Asal | *(Data tidak disediakan dalam pakej bukti — diketahui secara klinikal untuk glaukoma / hipertensi okular)* |
+| Indikasi Baru yang Diramal | **Tiada** — TxGNN mengembalikan tiada ramalan |
+| Skor Ramalan TxGNN | N/A |
+| Tahap Bukti | **L5** (Tiada ramalan, tiada kajian sokongan) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 9 |
+| Keputusan yang Disyorkan | **Tahan** |
 
 ---
 
-## Why Was No Prediction Generated?
+## Mengapa Tiada Ramalan Dihasilkan?
 
-Brimonidine tartrate is a selective alpha-2 adrenergic receptor agonist. It reduces aqueous humour production and enhances uveoscleral outflow, thereby lowering intraocular pressure. It is also available in a topical dermal formulation for the treatment of persistent facial erythema associated with rosacea.
+Brimonidine tartrate ialah agonis reseptor adrenergik alfa-2 terpilih. Ia mengurangkan pengeluaran humor akueus dan meningkatkan aliran uveosklerа, dengan itu menurunkan tekanan intraokular. Ia juga tersedia dalam formulasi derma topikal untuk merawat eritema wajah yang berterusan yang berkaitan dengan rosasea.
 
-The TxGNN model returned an empty `predicted_indications` array, which typically indicates one or more of the following issues:
+Model TxGNN mengembalikan tatasusunan `predicted_indications` yang kosong, yang biasanya menunjukkan satu atau lebih isu berikut:
 
-1. **Missing DrugBank ID mapping** — The evidence pack shows `drugbank_id: null`. Without a valid DrugBank identifier, the drug cannot be located in TxGNN's knowledge graph (`node.csv`), and no repurposing candidates can be scored. The query log shows a DrugBank query returned 1 result, but the ID was not populated into the evidence pack.
+1. **Pemetaan DrugBank ID yang hilang** — Pakej bukti menunjukkan `drugbank_id: null`. Tanpa pengenalan DrugBank yang sah, ubat tidak boleh ditemui dalam graf pengetahuan TxGNN (`node.csv`), dan tiada calon pengunaan semula boleh diberi skor. Log pertanyaan menunjukkan pertanyaan DrugBank mengembalikan 1 hasil, tetapi ID tidak diisi ke dalam pakej bukti.
 
-2. **Incomplete upstream data** — The `original_indications` array is empty and all licence records have blank fields, suggesting the NPRA data extraction did not successfully parse structured fields for this drug.
+2. **Data hulu yang tidak lengkap** — Tatasusunan `original_indications` adalah kosong dan semua rekod lesen mempunyai medan kosong, menunjukkan bahawa pengekstrakan data NPRA tidak berjaya menghuraikan medan berstruktur untuk ubat ini.
 
-3. **Topical/ophthalmic route limitation** — Brimonidine is predominantly used as an ophthalmic or topical agent. The TxGNN knowledge graph may have limited representation of locally-acting drugs compared to systemic therapeutics.
+3. **Batasan laluan topikal/oftalmik** — Brimonidine digunakan terutamanya sebagai agen oftalmik atau topikal. Graf pengetahuan TxGNN mungkin mempunyai perwakilan terbatas bagi ubat yang bertindak secara setempat berbanding terapeutik sistemik.
 
-Until the DrugBank ID is resolved and the drug is successfully mapped into the knowledge graph, no repurposing predictions can be generated.
-
----
-
-## Clinical Trial Evidence
-
-No predicted indication is available; therefore, no targeted clinical trial search was conducted.
+Sehingga DrugBank ID diselesaikan dan ubat berjaya dipetakan ke dalam graf pengetahuan, tiada ramalan pengunaan semula boleh dihasilkan.
 
 ---
 
-## Literature Evidence
+## Bukti Ujian Klinikal
 
-No predicted indication is available; therefore, no targeted literature search was conducted.
+Tiada indikasi yang diramal tersedia; oleh itu, tiada carian ujian klinikal yang bertujuan dijalankan.
 
 ---
 
-## Malaysia Market Information
+## Bukti Kesusasteraan
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+Tiada indikasi yang diramal tersedia; oleh itu, tiada carian kesusasteraan yang bertujuan dijalankan.
+
+---
+
+## Maklumat Pasaran Malaysia
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
 |------|------|------|------|
-| *(empty)* | *(empty)* | *(empty)* | *(empty)* |
+| *(kosong)* | *(kosong)* | *(kosong)* | *(kosong)* |
 
-> **Note:** 9 registrations were identified by the NPRA query, but structured licence details (authorization number, product name, dosage form, approved indication) were not populated in the evidence pack. The raw NPRA data needs to be re-extracted and parsed.
-
----
-
-## Safety Considerations
-
-> Please refer to the package insert for safety information. All safety fields (key warnings, contraindications, drug interactions) are currently unpopulated in the evidence pack.
+> **Nota:** 9 pendaftaran telah dikenalpasti oleh pertanyaan NPRA, tetapi butiran lesen berstruktur (nombor kebenaran, nama produk, bentuk dos, indikasi yang diluluskan) tidak diisi dalam pakej bukti. Data NPRA mentah perlu diekstrak semula dan diurai.
 
 ---
 
-## Data Gap Summary
+## Pertimbangan Keselamatan
 
-The following critical gaps must be resolved before this candidate can progress:
+> Sila rujuk pamflet pakej untuk maklumat keselamatan. Semua medan keselamatan (amaran utama, kontraindikasi, interaksi ubat) sedang tidak diisi dalam pakej bukti.
 
-| Gap ID | Item | Severity | Impact | Remediation |
+---
+
+## Ringkasan Jurang Data
+
+Jurang kritikal berikut mesti diselesaikan sebelum calon ini boleh maju:
+
+| ID Jurang | Item | Tahap Keterukan | Kesan | Pemulihan |
 |--------|------|----------|--------|-------------|
-| DG001 | Package insert warnings & contraindications | **Blocking** | Cannot enter S1 safety screening | Download package insert PDF from NPRA/TFDA and parse |
-| DG002 | Mechanism of Action (MOA) | High | Affects mechanistic relevance analysis | Query DrugBank API (1 result already found) |
-| — | DrugBank ID | **Blocking** | Cannot run TxGNN prediction without KG node | Map from DrugBank query result (DB00484) |
-| — | NPRA licence details | High | Market information section is empty | Re-extract structured fields from NPRA |
-| — | Original indication text | High | Cannot establish baseline for repurposing logic | Parse from NPRA approved indication field |
+| DG001 | Amaran pamflet pakej & kontraindikasi | **Menghalang** | Tidak boleh memasuki saringan keselamatan S1 | Muat turun PDF pamflet pakej daripada NPRA/TFDA dan urai |
+| DG002 | Mekanisme Tindakan (MOA) | Tinggi | Mempengaruhi analisis keberkaitan mekanistik | Pertanyaan API DrugBank (1 hasil sudah ditemui) |
+| — | DrugBank ID | **Menghalang** | Tidak boleh menjalankan ramalan TxGNN tanpa nod KG | Petakan daripada hasil pertanyaan DrugBank (DB00484) |
+| — | Butiran lesen NPRA | Tinggi | Bahagian maklumat pasaran adalah kosong | Ekstrak semula medan berstruktur daripada medan indikasi yang diluluskan NPRA |
+| — | Teks indikasi asal | Tinggi | Tidak boleh menetapkan garis asas untuk logik pengunaan semula | Urai daripada medan indikasi yang diluluskan NPRA |
 
 ---
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The evidence pack is critically incomplete — no DrugBank ID mapping, no parsed licence details, no safety data, and consequently no TxGNN predictions were generated. There is insufficient information to evaluate any repurposing opportunity at this time.
+**Alasan:**
+Pakej bukti tidak lengkap secara kritikal — tiada pemetaan DrugBank ID, tiada butiran lesen yang diurai, tiada data keselamatan, dan akibatnya tiada ramalan TxGNN dihasilkan. Maklumat tidak mencukupi untuk menilai sebarang peluang pengunaan semula pada ketika ini.
 
-**To proceed, the following is needed:**
-- **Resolve DrugBank ID mapping** — The query log indicates 1 DrugBank result was found; populate `drugbank_id` (likely **DB00484** for brimonidine) and re-run TxGNN prediction
-- **Re-extract NPRA licence data** — Parse authorization numbers, product names, dosage forms, and approved indication text for all 9 registrations
-- **Obtain package insert** — Download and parse warnings, contraindications, and drug interaction information
-- **Query DrugBank API for MOA** — Retrieve mechanism of action, pharmacodynamics, and toxicity data
-- **Re-run TxGNN pipeline** — Once DrugBank ID is mapped, execute `run_kg_prediction.py` to generate repurposing candidates
+**Untuk meneruskan, berikut diperlukan:**
+- **Selesaikan pemetaan DrugBank ID** — Log pertanyaan menunjukkan 1 hasil DrugBank ditemui; isi `drugbank_id` (mungkin **DB00484** untuk brimonidine) dan jalankan semula ramalan TxGNN
+- **Ekstrak semula data lesen NPRA** — Urai nombor kebenaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan untuk semua 9 pendaftaran
+- **Perolehi pamflet pakej** — Muat turun dan urai amaran, kontraindikasi, dan maklumat interaksi ubat
+- **Pertanyaan API DrugBank untuk MOA** — Perolehi mekanisme tindakan, farmakodinamik, dan data toksisiti
+- **Jalankan semula saluran paip TxGNN** — Selepas DrugBank ID dipetakan, jalankan `run_kg_prediction.py` untuk menghasilkan calon pengunaan semula
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

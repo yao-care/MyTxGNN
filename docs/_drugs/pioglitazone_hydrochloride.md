@@ -29,95 +29,96 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Pioglitazone Hydrochloride: Repurposing Evaluation (TxGNN Prediction Pending)
+# Pioglitazone Hydrochloride: Penilaian Penggunaan Kembali (Prediksi TxGNN Tertunda)
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Pioglitazone hydrochloride is a thiazolidinedione-class PPARγ agonist widely used for Type 2 Diabetes Mellitus management, with 6 active registrations in Malaysia.
-This Evidence Pack does not yet contain TxGNN repurposing predictions — the evaluation below is therefore preliminary, and a **Hold** decision is recommended until the data pipeline is completed.
-Once predictions are generated, the drug's insulin-sensitising and anti-inflammatory mechanisms make it a promising repurposing candidate for metabolic and inflammatory conditions.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Type 2 Diabetes Mellitus (inferred from drug class; NPRA details pending) |
-| Predicted New Indication | Not available — TxGNN prediction not yet generated |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | N/A |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 6 |
-| Recommended Decision | **Hold** |
+Pioglitazone hydrochloride ialah agonis PPARγ kelas thiazolidinedione yang digunakan secara meluas untuk pengurusan Type 2 Diabetes Mellitus, dengan 6 pendaftaran aktif di Malaysia.
+Pakej Bukti ini belum mengandungi ramalan penggunaan kembali TxGNN — oleh itu penilaian di bawah adalah awal, dan keputusan **Tahan** disyorkan sehingga saluran data selesai.
+Setelah ramalan dijana, mekanisme peka insulin dan anti-radang ubat menjadikannya calon penggunaan kembali yang menjanjikan untuk keadaan metabolik dan radang.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Pantas
 
-Detailed mechanism of action data is not available in this Evidence Pack (Data Gap DG002). Based on established pharmacological knowledge, pioglitazone hydrochloride belongs to the thiazolidinedione (TZD) class and acts as a selective agonist of **peroxisome proliferator-activated receptor gamma (PPARγ)** — a nuclear receptor that regulates genes involved in glucose metabolism, adipogenesis, lipid homeostasis, and inflammatory signalling. This pleiotropic mechanism is the pharmacological basis for most repurposing hypotheses.
-
-PPARγ activation influences pathways relevant to a range of conditions beyond Type 2 Diabetes, including non-alcoholic steatohepatitis (NASH), polycystic ovary syndrome (PCOS), neurodegenerative diseases, and certain inflammatory or fibrotic conditions. The breadth of PPARγ's downstream effects means that pioglitazone has mechanistic rationale for multiple therapeutic areas — making it a classically attractive repurposing candidate.
-
-Because the TxGNN model has not yet produced predictions for this drug in the current Evidence Pack, no specific new indication can be formally evaluated at this stage. Once predictions are available, the mechanistic link between PPARγ agonism and the top-ranked predicted indications can be assessed in detail.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered in this Evidence Pack.
-
-> **Note:** This reflects the absence of TxGNN-predicted indications, not the global literature. Once a target indication is confirmed, ClinicalTrials.gov and ICTRP queries should be re-run against that specific indication.
+| Perkara | Kandungan |
+|---------|-----------|
+| Petunjuk Asal | Type 2 Diabetes Mellitus (disimpulkan daripada kelas ubat; butiran NPRA tertunda) |
+| Petunjuk Baru Diramal | Tidak tersedia — ramalan TxGNN belum dijana |
+| Skor Ramalan TxGNN | T/A |
+| Tahap Bukti | T/A |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 6 |
+| Keputusan Disyorkan | **Tahan** |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available in this Evidence Pack.
+Data mekanisme tindakan terperinci tidak tersedia dalam Pakej Bukti ini (Jurang Data DG002). Berdasarkan pengetahuan farmakologi yang ditubuhkan, pioglitazone hydrochloride tergolong dalam kelas thiazolidinedione (TZD) dan bertindak sebagai agonis selektif **peroxisome proliferator-activated receptor gamma (PPARγ)** — reseptor nuklear yang mengawal gen yang terlibat dalam metabolisme glukosa, adipogenesis, homeostasis lipid, dan isyarat radang. Mekanisme pleiotrofik ini ialah asas farmakologi untuk kebanyakan hipotesis penggunaan kembali.
 
-> **Note:** Same caveat as above — evidence collection is indication-specific and requires a confirmed TxGNN prediction first.
+Pengaktifan PPARγ mempengaruhi laluan yang relevan dengan pelbagai keadaan di luar Type 2 Diabetes, termasuk non-alcoholic steatohepatitis (NASH), polycystic ovary syndrome (PCOS), penyakit neurodegeneratif, dan keadaan radang atau fibrosis tertentu. Luas kesan hiliran PPARγ bermakna pioglitazone mempunyai rasional mekanis untuk pelbagai bidang terapi — menjadikannya calon penggunaan kembali yang menarik secara klasik.
 
----
-
-## Malaysia Market Information
-
-The NPRA query (2026-03-27) confirmed **6 active registrations** for pioglitazone hydrochloride. However, individual product records were returned without populated detail fields. A follow-up data pull is required to retrieve full licence information.
-
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------------------|--------------|-------------|---------------------|
-| — | — | — | Details not retrieved in this Evidence Pack |
-| — | — | — | Details not retrieved in this Evidence Pack |
-| — | — | — | Details not retrieved in this Evidence Pack |
-| — | — | — | Details not retrieved in this Evidence Pack |
-| — | — | — | Details not retrieved in this Evidence Pack |
-
-> 6 registrations confirmed by NPRA query. Full licence details (product names, dosage forms, approved indication text) require a follow-up NPRA data enrichment step.
+Kerana model TxGNN masih belum menghasilkan ramalan untuk ubat ini dalam Pakej Bukti semasa, tiada petunjuk baru tertentu dapat dinilai secara rasmi pada peringkat ini. Setelah ramalan tersedia, pautan mekanis antara agonis PPARγ dan petunjuk yang diramal kedudukan teratas dapat dinilai secara terperinci.
 
 ---
 
-## Safety Considerations
+## Bukti Ujian Klinikal
 
-Please refer to the package insert for safety information. Key warnings, contraindications, and drug interaction data were not retrieved in this Evidence Pack (Data Gap DG001 — Blocking severity).
+Pada masa ini tiada ujian klinikal yang berkaitan didaftarkan dalam Pakej Bukti ini.
 
-> **Class-level caution (domain knowledge, not yet confirmed via package insert):** Thiazolidinediones as a class are associated with fluid retention and risk of congestive heart failure exacerbation, potential increased risk of bladder cancer with prolonged use, and bone fracture risk particularly in women. These must be formally confirmed by parsing the official Malaysia package insert before any clinical or regulatory assessment proceeds.
+> **Nota:** Ini mencerminkan ketiadaan petunjuk yang diramal TxGNN, bukan kesusasteraan global. Setelah petunjuk sasaran disahkan, pertanyaan ClinicalTrials.gov dan ICTRP harus dijalankan semula terhadap petunjuk tertentu itu.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Kesusasteraan
 
-**Decision: Hold**
+Pada masa ini tiada kesusasteraan yang berkaitan tersedia dalam Pakej Bukti ini.
 
-**Rationale:**
-This Evidence Pack is critically incomplete — no TxGNN repurposing predictions have been generated, all individual NPRA licence detail fields are unpopulated, and safety data retrieval has failed. A meaningful repurposing evaluation cannot be produced with the current data, and proceeding without resolving the Blocking data gap (DG001) would be inappropriate.
+> **Nota:** Caveat yang sama seperti di atas — pengumpulan bukti adalah khusus untuk petunjuk dan memerlukan ramalan TxGNN yang disahkan terlebih dahulu.
 
-**To proceed, the following is needed:**
+---
 
-- **[Critical — Blocking]** Download and parse the Malaysia package insert PDF to extract warnings, contraindications, and drug interactions (resolves Data Gap DG001)
-- **[Critical]** Complete the TxGNN knowledge graph prediction run for pioglitazone hydrochloride to generate a ranked list of repurposing candidates
-- **[High]** Query DrugBank API to retrieve DrugBank ID, full MOA description, drug categories, and DDI data (resolves Data Gap DG002)
-- **[High]** Re-run NPRA data enrichment to populate all 6 licence records with product names, dosage forms, and approved indication text
-- **[Standard]** Re-run clinical trial (ClinicalTrials.gov / ICTRP) and PubMed evidence collection against the top-ranked TxGNN-predicted indication once confirmed
-- **[Standard]** Confirm whether pioglitazone hydrochloride has any antineoplastic classification — if not, the Cytotoxicity section can be formally omitted from the final report
+## Maklumat Pasaran Malaysia
+
+Pertanyaan NPRA (2026-03-27) mengesahkan **6 pendaftaran aktif** untuk pioglitazone hydrochloride. Walau bagaimanapun, rekod produk individu dikembalikan tanpa medan perincian yang dipenuhi. Satu salinan data susulan diperlukan untuk mendapatkan maklumat lesen lengkap.
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjuk yang Diluluskan |
+|------------------|-------------|-----------|-------------------------|
+| — | — | — | Perincian tidak diambil dalam Pakej Bukti ini |
+| — | — | — | Perincian tidak diambil dalam Pakej Bukti ini |
+| — | — | — | Perincian tidak diambil dalam Pakej Bukti ini |
+| — | — | — | Perincian tidak diambil dalam Pakej Bukti ini |
+| — | — | — | Perincian tidak diambil dalam Pakej Bukti ini |
+
+> 6 pendaftaran disahkan oleh pertanyaan NPRA. Perincian lesen lengkap (nama produk, bentuk dos, teks petunjuk yang diluluskan) memerlukan langkah pengayaan data NPRA susulan.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan pakej untuk maklumat keselamatan. Data amaran utama, kontraindikasi, dan interaksi ubat tidak diambil dalam Pakej Bukti ini (Jurang Data DG001 — Keseriusan Sekat).
+
+> **Amaran tahap kelas (pengetahuan domain, belum disahkan melalui sisipan pakej):** Thiazolidinedione sebagai kelas dikaitkan dengan pengekalan bendalir dan risiko perburukan kegagalan jantung kongestif, risiko peningkatan kanser pundi kencing yang berpotensi dengan penggunaan lanjutan, dan risiko patah tulang terutamanya pada wanita. Ini mesti disahkan secara rasmi dengan menghuraikan sisipan pakej Malaysia rasmi sebelum sebarang penilaian klinikal atau kawal selia diteruskan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Pakej Bukti ini sangat tidak lengkap — tiada ramalan penggunaan kembali TxGNN telah dijana, semua medan perincian lesen NPRA individu tidak dipenuhi, dan pengambilan data keselamatan telah gagal. Penilaian penggunaan kembali yang bermakna tidak dapat dihasilkan dengan data semasa, dan meneruskan tanpa menyelesaikan jurang data Sekat (DG001) adalah tidak sesuai.
+
+**Untuk meneruskan, berikut diperlukan:**
+
+- **[Kritikal — Sekat]** Muat turun dan huraikan PDF sisipan pakej Malaysia untuk mengekstrak amaran, kontraindikasi, dan interaksi ubat (menyelesaikan Jurang Data DG001)
+- **[Kritikal]** Selesaikan larian ramalan graf pengetahuan TxGNN untuk pioglitazone hydrochloride untuk menjana senarai calon penggunaan kembali yang disusun pangkat
+- **[Tinggi]** Pertanyaan DrugBank API untuk mendapatkan DrugBank ID, perihalan MOA lengkap, kategori ubat, dan data DDI (menyelesaikan Jurang Data DG002)
+- **[Tinggi]** Jalankan semula pengayaan data NPRA untuk mengisi semua 6 rekod lesen dengan nama produk, bentuk dos, dan teks petunjuk yang diluluskan
+- **[Piawai]** Jalankan semula ujian klinikal (ClinicalTrials.gov / ICTRP) dan pengumpulan bukti PubMed terhadap petunjuk yang diramal TxGNN kedudukan teratas setelah disahkan
+- **[Piawai]** Sahkan sama ada pioglitazone hydrochloride mempunyai sebarang klasifikasi antineoplasia — jika tidak, bahagian Sitotoksisiti dapat digugurkan secara rasmi daripada laporan akhir
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

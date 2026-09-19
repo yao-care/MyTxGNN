@@ -29,101 +29,102 @@ Tahap bukti: **L4** | Indikasi diramal: **1**
 
 </div>
 
-# Aspartic Acid: From Nutritional Amino Acid to Renal Tubular Acidosis
+# Aspartic Acid: Daripada Asid Amino Pemakanan kepada Acidosis Tubular Renal
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Aspartic acid (L-aspartic acid, DB00128) is a non-essential amino acid used primarily as a nutritional and metabolic substrate, registered under 23 product licences in Malaysia.
-The TxGNN model predicts it may have therapeutic relevance in **Renal Tubular Acidosis (RTA)** with a score of **99.47%**,
-however the supporting evidence consists entirely of **basic science and genetic background studies** — no directly relevant clinical trials exist, and the sole clinical case dates to 1983.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Nutritional amino acid supplement; registered indication details not available in current dataset |
-| Predicted New Indication | Renal Tubular Acidosis |
-| TxGNN Prediction Score | 99.47% |
-| Evidence Level | L4 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 23 |
-| Recommended Decision | Hold |
+Aspartic acid (L-aspartic acid, DB00128) ialah asid amino yang tidak penting digunakan terutamanya sebagai substrat pemakanan dan metabolik, terdaftar di bawah 23 lesen produk di Malaysia.
+Model TxGNN meramalkan ia mungkin mempunyai relevansi terapeutik dalam **Acidosis Tubular Renal (RTA)** dengan skor **99.47%**,
+bagaimanapun bukti yang menyokong terdiri sepenuhnya daripada **kajian latar belakang sains asas dan genetik** — tiada ujian klinikal yang berkaitan secara langsung wujud, dan satu-satunya kes klinikal berasal dari 1983.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Ringkas
 
-Aspartic acid (L-aspartic acid) is a non-essential amino acid that serves as a central metabolic hub — participating in the urea cycle, purine biosynthesis, and transamination reactions throughout the body. Detailed pharmacological MOA data is not currently available in this dataset; however, its biochemical roles in renal physiology are well-documented in the scientific literature.
-
-The mechanistic connection to renal tubular acidosis is indirect but biologically plausible through three converging pathways. First, the SLC22A13 transporter has been shown to mediate unidirectional efflux of aspartate and glutamate at the basolateral membrane of type A intercalated cells in the renal collecting duct (PMID: 24147638) — the very cells responsible for proton secretion that is defective in distal RTA. Second, renal ammoniagenesis is the kidney's primary compensatory mechanism in acid-base disorders, and aspartic acid contributes nitrogen to the glutamine synthesis pathway that fuels NH₄⁺ excretion. Third, animal studies demonstrate that metabolic acidosis alters the concentrations of aspartate and related intermediates in renal tubule cells (PMID: 5641145; PMID: 2884989), suggesting aspartate participates in the kidney's adaptive metabolic response.
-
-However, a critical caveat must be noted: RTA's primary defect — whether impaired proton secretion in distal tubules or deficient proximal HCO₃⁻ reabsorption — is typically caused by mutations in genes such as SLC4A1, ATP6V1B1, or ATP6V0A4. Aspartic acid supplementation cannot directly repair these structural or genetic transporter defects. The high TxGNN score (0.9947) most likely reflects the broad connectivity of aspartate within the renal metabolic network, rather than a specific pharmacological mechanism. The only clinical case suggesting benefit (PMID: 6422151) involved a highly specific secondary RTA arising from pyruvate carboxylase deficiency — a scenario not representative of primary RTA.
+| Item | Kandungan |
+|------|-----------|
+| Petunjuk Asal | Suplemen asid amino pemakanan; butiran petunjuk berdaftar tidak tersedia dalam set data semasa |
+| Petunjuk Baru yang Diramalkan | Acidosis Tubular Renal |
+| Skor Ramalan TxGNN | 99.47% |
+| Tahap Bukti | L4 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 23 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Masuk Akal?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Aspartic acid (L-aspartic acid) ialah asid amino yang tidak penting berfungsi sebagai hab metabolik pusat — mengambil bahagian dalam kitaran urea, biosintesis purin, dan tindak balas transamination di seluruh badan. Data farmakoloji MOA terperinci tidak tersedia dalam set data ini; bagaimanapun, peranannya dalam fisiologi ginjal terdokumenkan dengan baik dalam literatur saintifik.
+
+Sambungan mekanik kepada acidosis tubular renal adalah tidak langsung tetapi secara biologi munasabah melalui tiga laluan yang bertemu. Pertama, pengangkut SLC22A13 telah ditunjukkan untuk mengantara keluaran aspartate dan glutamate satu hala pada membran basolateral sel-sel intercalated jenis A dalam duktus kolekting renal (PMID: 24147638) — sel yang sama yang bertanggungjawab untuk rembesan proton yang cacat dalam RTA distal. Kedua, ammoniogenesis renal ialah mekanisme pampasan utama ginjal dalam gangguan asid-bes, dan aspartic acid menyumbang nitrogen kepada laluan sintesis glutamin yang menyalakkan penyetisaran NH₄⁺. Ketiga, kajian hewan menunjukkan bahawa acidosis metabolik mengubah kepekatan aspartate dan perantara yang berkaitan dalam sel tubul renal (PMID: 5641145; PMID: 2884989), menunjukkan aspartate mengambil bahagian dalam tindak balas metabolik adaptif ginjal.
+
+Bagaimanapun, kaveat kritikal mesti diperhatikan: kerosakan utama RTA — sama ada rembesan proton yang terhalang dalam tubul distal atau ketiadaan penyerapan semula HCO₃⁻ proksikal — biasanya disebabkan oleh mutasi dalam gen seperti SLC4A1, ATP6V1B1, atau ATP6V0A4. Suplemen aspartic acid tidak dapat secara langsung membaiki kerosakan pengangkut struktural atau genetik ini. Skor TxGNN yang tinggi (0.9947) kemungkinan besar mencerminkan ketersambungan luas aspartate dalam rangkaian metabolik renal, bukannya mekanisme farmakoloji khusus. Satu-satunya kes klinikal yang menunjukkan faedah (PMID: 6422151) melibatkan RTA sekunder yang sangat khusus yang timbul daripada kekurangan piruvat karboxilase — satu senario yang tidak mewakili RTA utama.
+
+---
+
+## Bukti Ujian Klinikal
+
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |-------------|-------|--------|-----------|--------------|
-| [NCT04725812](https://clinicaltrials.gov/study/NCT04725812) | Phase 2 | Terminated | 2 | **[Database mismatch — not relevant]** Investigated eculizumab (complement inhibitor) for preeclampsia at 23–30 weeks gestation. No connection to aspartic acid or renal tubular acidosis. Trial terminated early with only 2 participants enrolled; contributes zero evidence to this repurposing question. |
+| [NCT04725812](https://clinicaltrials.gov/study/NCT04725812) | Fasa 2 | Ditamatkan | 2 | **[Ketidakpadanan pangkalan data — tidak relevan]** Menyiasat eculizumab (perencat pelengkap) untuk preeklampsia pada 23–30 minggu kehamilan. Tiada sambungan kepada aspartic acid atau acidosis tubular renal. Ujian ditamatkan awal dengan hanya 2 peserta didaftarkan; menyumbang sifar bukti kepada soalan repurposing ini. |
 
-> ⚠️ The sole retrieved trial (NCT04725812) is assessed Grade C relevance and represents a probable database mis-match. There are currently **no registered clinical trials** directly evaluating aspartic acid for the treatment of renal tubular acidosis.
+> ⚠️ Ujian yang diambil satu-satunya (NCT04725812) dinilai relevansi Gred C dan mewakili kemungkinan ketidakpadanan pangkalan data. Pada masa ini **tiada ujian klinikal berdaftar** yang secara langsung menilai aspartic acid untuk rawatan acidosis tubular renal.
 
 ---
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|------|------|---------|--------------|
-| [6422151](https://pubmed.ncbi.nlm.nih.gov/6422151/) | 1983 | Case Report | J Inherited Metab Dis | Patient with pyruvate carboxylase deficiency, proximal RTA, and cystinuria showed clinical improvement after dietary aspartic acid supplementation — the most direct (though highly disease-specific) clinical evidence available |
-| [990372](https://pubmed.ncbi.nlm.nih.gov/990372/) | 1976 | Clinical Loading Study | Biomedicine | IV ornithine-aspartate loading in children with familial neurological syndrome, RTA, and cystinuria; examined amino acid metabolic interplay, indirect relevance |
-| [24147638](https://pubmed.ncbi.nlm.nih.gov/24147638/) | 2014 | Basic Science | Biochemical Journal | SLC22A13 mediates unidirectional aspartate/glutamate efflux at basolateral membrane of type A intercalated cells in renal collecting duct — directly links aspartate transport to the cell type responsible for proton secretion in dRTA |
-| [2884989](https://pubmed.ncbi.nlm.nih.gov/2884989/) | 1987 | Animal Study | Biochemical Journal | ¹³C-NMR and GC-MS study showing glutamate/aspartate carbon metabolism is significantly altered in rat renal tubules under chronic metabolic acidosis |
-| [5641145](https://pubmed.ncbi.nlm.nih.gov/5641145/) | 1968 | Animal Study | Nature | Concentrations of metabolic intermediates, including aspartate-related substrates, are shifted in kidneys of rats with metabolic acidosis |
-| [26208211](https://pubmed.ncbi.nlm.nih.gov/26208211/) | 2015 | Genetic Diagnostic Study | Jornal de Pediatria | Whole-exome sequencing as diagnostic tool for distal RTA in 4 children; establishes genetic underpinning, no therapeutic relevance to aspartic acid |
-| [20068363](https://pubmed.ncbi.nlm.nih.gov/20068363/) | 2010 | Genetic Study / Case Series | Nephron Physiology | SLC4A1 mutations causing distal RTA in Filipino children; genetic characterisation only |
-| [12087557](https://pubmed.ncbi.nlm.nih.gov/12087557/) | 2002 | Genetic Case Study | Am J Kidney Dis | G701D mutation in AE1/SLC4A1 causes autosomal recessive dRTA by disrupting Cl⁻/HCO₃⁻ exchange; mechanistic context for RTA pathophysiology |
-| [23053187](https://pubmed.ncbi.nlm.nih.gov/23053187/) | 2013 | Case Report | Ann Hematol | SLC4A1/AE1 A858D homozygote presenting with dRTA, thrombocytopenic purpura, and acanthocytosis; disease characterisation only |
-| [14301365](https://pubmed.ncbi.nlm.nih.gov/14301365/) | 1965 | Basic Science | Am J Physiology | Foundational study on the relationship between tubular cell PNH₃ and renal ammonia production — background physiology for understanding ammoniagenesis in RTA |
+| [6422151](https://pubmed.ncbi.nlm.nih.gov/6422151/) | 1983 | Laporan Kes | J Inherited Metab Dis | Pesakit dengan kekurangan piruvat carboxylase, RTA proksikal, dan cystinuria menunjukkan peningkatan klinikal selepas suplemen aspartic acid diet — bukti klinikal paling langsung (walaupun sangat spesifik penyakit) yang tersedia |
+| [990372](https://pubmed.ncbi.nlm.nih.gov/990372/) | 1976 | Kajian Pemuatan Klinikal | Biomedicine | Pemuatan IV ornithine-aspartate pada kanak-kanak dengan sindrom neurologi keluarga, RTA, dan cystinuria; diperiksa interaksi metabolik asid amino, relevansi tidak langsung |
+| [24147638](https://pubmed.ncbi.nlm.nih.gov/24147638/) | 2014 | Sains Asas | Biochemical Journal | SLC22A13 mengantara keluaran aspartate/glutamate satu hala pada membran basolateral sel-sel intercalated jenis A dalam duktus kolekting renal — secara langsung menghubungkan pengangkutan aspartate kepada jenis sel yang bertanggungjawab untuk rembesan proton dalam dRTA |
+| [2884989](https://pubmed.ncbi.nlm.nih.gov/2884989/) | 1987 | Kajian Hewan | Biochemical Journal | Kajian ¹³C-NMR dan GC-MS menunjukkan metabolisme karbon glutamate/aspartate telah diubah secara signifikan dalam tubul renal tikus di bawah acidosis metabolik kronik |
+| [5641145](https://pubmed.ncbi.nlm.nih.gov/5641145/) | 1968 | Kajian Hewan | Nature | Kepekatan perantara metabolik, termasuk substrat yang berkaitan aspartate, dialihkan dalam ginjal tikus dengan acidosis metabolik |
+| [26208211](https://pubmed.ncbi.nlm.nih.gov/26208211/) | 2015 | Kajian Diagnostik Genetik | Jornal de Pediatria | Penjujukan exome seluruh sebagai alat diagnostik untuk RTA distal dalam 4 kanak-kanak; menetapkan asas genetik, tiada relevansi terapeutik kepada aspartic acid |
+| [20068363](https://pubmed.ncbi.nlm.nih.gov/20068363/) | 2010 | Kajian Genetik / Siri Kes | Nephron Physiology | Mutasi SLC4A1 menyebabkan RTA distal dalam kanak-kanak Filipino; pencirian genetik sahaja |
+| [12087557](https://pubmed.ncbi.nlm.nih.gov/12087557/) | 2002 | Kajian Kes Genetik | Am J Kidney Dis | Mutasi G701D dalam AE1/SLC4A1 menyebabkan RTA distal autosom resesif dengan mengganggu pertukaran Cl⁻/HCO₃⁻; konteks mekanik untuk patofisiologi RTA |
+| [23053187](https://pubmed.ncbi.nlm.nih.gov/23053187/) | 2013 | Laporan Kes | Ann Hematol | Homozig A858D SLC4A1/AE1 dengan RTA distal, purpura trombositopenik, dan acanthocytosis; pencirian penyakit sahaja |
+| [14301365](https://pubmed.ncbi.nlm.nih.gov/14301365/) | 1965 | Sains Asas | Am J Physiology | Kajian asas mengenai hubungan antara PNH₃ sel tubul dan pengeluaran ammonia renal — fisiologi latar belakang untuk memahami ammoniogenesis dalam RTA |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-> ⚠️ 23 product registrations for Aspartic Acid are confirmed in Malaysia (NPRA query, 2026-03-27), however individual licence details — including authorization numbers, product names, dosage forms, and approved indication texts — are not available in the current dataset. Full NPRA licence retrieval is recommended as a priority next step.
+> ⚠️ 23 pendaftaran produk untuk Aspartic Acid disahkan di Malaysia (pertanyaan NPRA, 2026-03-27), bagaimanapun butiran lesen individu — termasuk nombor kebenaran, nama produk, bentuk dos, dan teks petunjuk yang diluluskan — tidak tersedia dalam set data semasa. Pengambilan lesen NPRA penuh disyorkan sebagai langkah keutamaan seterusnya.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjuk yang Diluluskan |
 |---------------------|-------------|-------------|---------------------|
-| — | Details pending retrieval | — | — |
+| — | Butiran menunggu pengambilan | — | — |
 
-*23 licences confirmed active; individual records require direct retrieval from the NPRA database.*
-
----
-
-## Safety Considerations
-
-Detailed key warnings and contraindications for aspartic acid are not yet available in this dataset and represent a **Blocking** data gap that must be resolved before any formal safety screening can proceed. No drug-drug interactions were identified in this evaluation.
-
-> Please refer to the package insert and NPRA/TFDA official product monographs for complete safety information.
+*23 lesen disahkan aktif; rekod individu memerlukan pengambilan terus dari pangkalan data NPRA.*
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Peringatan utama terperinci dan kontraindikasi untuk aspartic acid belum tersedia dalam set data ini dan mewakili **Menyekat** jurang data yang mesti diselesaikan sebelum sebarang skrin keselamatan rasmi dapat dilakukan. Tiada interaksi ubat-ubatan yang dikenal pasti dalam penilaian ini.
 
-**Rationale:**
-The evidence base for aspartic acid in renal tubular acidosis does not yet support a repurposing investment decision. Supporting evidence is limited to preclinical mechanistic studies, foundational animal physiology (some dating to 1965–1987), and a single 1983 case report from a highly atypical secondary RTA scenario. The one retrieved clinical trial is a confirmed database mismatch. While the metabolic biology connecting aspartate to renal acid-base regulation is scientifically coherent, it falls well short of a pharmacologically actionable mechanism, and the root cause of primary RTA (genetic transporter defects) is not addressable by amino acid supplementation.
+> Sila rujuk sisipan pakej dan monografi produk rasmi NPRA/TFDA untuk maklumat keselamatan yang lengkap.
 
-**To proceed, the following is needed:**
+---
 
-- **Retrieve NPRA licence details** — authorization numbers, dosage forms, and approved indication texts for all 23 registered aspartic acid products (priority action)
-- **Resolve MOA data gap** — query DrugBank API to obtain pharmacological mechanism, pharmacokinetics, and drug class classification for DB00128
-- **Retrieve package insert safety data** — download and parse NPRA/TFDA official product inserts to address the Blocking DG001 data gap (key warnings and contraindications)
-- **Conduct a targeted literature review** — specifically on ornithine-aspartate in renal acid-base disorders and on aspartate supplementation in metabolic acidosis subtypes, to determine whether any clinical signals exist beyond the 1983 case report
-- **Expert consultation** — engage a nephrologist to assess whether any RTA subtype (particularly secondary or metabolic RTA) could plausibly benefit from aspartate supplementation and, if so, whether a preclinical proof-of-concept study is warranted before any clinical investment is considered
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Asas bukti untuk aspartic acid dalam acidosis tubular renal belum menyokong keputusan pelaburan repurposing. Bukti yang menyokong terhad kepada kajian mekanik preklinikal, fisiologi hewan asas (sesetengahnya bertarikh 1965–1987), dan satu laporan kes 1983 daripada senario RTA sekunder yang tidak tipikal. Satu ujian klinikal yang diambil adalah ketidakpadanan pangkalan data yang disahkan. Walaupun biologi metabolik yang menghubungkan aspartate kepada pengaturan asid-bes ginjal adalah kohesif secara saintifik, ia jauh kurang daripada mekanisme yang boleh ditindaklanjuti secara farmakoloji, dan puncak kerosakan RTA utama (kerosakan pengangkut genetik) tidak dapat ditangani oleh suplemen asid amino.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+
+- **Ambil butiran lesen NPRA** — nombor kebenaran, bentuk dos, dan teks petunjuk yang diluluskan untuk semua 23 produk aspartic acid yang didaftarkan (tindakan keutamaan)
+- **Selesaikan jurang data MOA** — pertanyaan API DrugBank untuk mendapatkan mekanisme farmakoloji, farmakokinetik, dan klasifikasi kelas ubat untuk DB00128
+- **Ambil data keselamatan sisipan pakej** — muat turun dan huraikan sisipan produk rasmi NPRA/TFDA untuk menangani jurang data menyekat DG001 (peringatan utama dan kontraindikasi)
+- **Jalankan ulasan literatur tersasaran** — khususnya mengenai ornithine-aspartate dalam gangguan asid-bes renal dan suplemen aspartate dalam subtip acidosis metabolik, untuk menentukan sama ada sebarang isyarat klinikal wujud di luar laporan kes 1983
+- **Perundingan pakar** — terlibat nephrologist untuk menilai sama ada sebarang subtip RTA (terutamanya RTA sekunder atau metabolik) dapat secara munasabah mendapat manfaat daripada suplemen aspartate dan, jika ya, sama ada kajian bukti-konsep preklinikal dijamin sebelum sebarang pelaburan klinikal dipertimbangkan
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

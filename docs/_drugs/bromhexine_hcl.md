@@ -29,79 +29,80 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Bromhexine HCL: Mucolytic Agent — No New Indication Predicted
+# Bromheksina HCL: Agen Mukolotik — Tiada Indikasi Baru yang Diramalkan
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Bromhexine HCL is a well-established mucolytic agent widely used for the relief of productive cough associated with respiratory conditions. The TxGNN model has **not generated any repurposing predictions** for this drug. With **37 registrations** in Malaysia confirming broad market availability, further data enrichment (DrugBank mapping, MOA, safety profile) is needed before repurposing analysis can proceed.
+Bromheksina HCL adalah agen mukolotik yang telah terbukti dan luas digunakan untuk meredakan batuk produktif yang berkaitan dengan keadaan pernafasan. Model TxGNN **tidak menghasilkan sebarang ramalan penggunaan semula** untuk ubat ini. Dengan **37 pendaftaran** di Malaysia yang mengesahkan ketersediaan pasaran yang luas, pengayaan data lanjut (pemetaan DrugBank, MOA, profil keselamatan) diperlukan sebelum analisis penggunaan semula dapat dilakukan.
 
 ---
 
-## Quick Overview
+## Gambaran Umum Cepat
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Mucolytic — relief of productive cough in respiratory disorders |
-| Predicted New Indication | None (no TxGNN prediction available) |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 — No prediction generated |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 37 |
-| Recommended Decision | **Hold** |
+| Indikasi Asal | Mukolotik — meredakan batuk produktif dalam gangguan pernafasan |
+| Indikasi Baru yang Diramalkan | Tiada (tiada ramalan TxGNN tersedia) |
+| Skor Ramalan TxGNN | N/A |
+| Tahap Bukti | L5 — Tiada ramalan dihasilkan |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 37 |
+| Keputusan yang Disyorkan | **Tahan** |
 
 ---
 
-## Why is This Prediction Absent?
+## Mengapa Ramalan Ini Tidak Ada?
 
-Bromhexine HCL is a mucolytic agent that works by depolymerising mucopolysaccharides and stimulating secretion of serous mucus in the respiratory tract, thereby reducing sputum viscosity and facilitating expectoration. It has been in clinical use globally for decades for bronchitis, asthma with mucus plugging, and other respiratory conditions with excessive mucus production.
+Bromheksina HCL adalah agen mukolotik yang berfungsi melalui depolimerisasi mukopolisakarida dan merangsang sekresi lendir serosa dalam saluran pernafasan, dengan itu mengurangkan kelikatan sputum dan memudahkan ekspektorasi. Ia telah digunakan secara klinikal secara global selama beberapa dekad untuk bronkitis, asma dengan sumbatan lendir, dan keadaan pernafasan lain dengan pengeluaran lendir yang berlebihan.
 
-The TxGNN model did not return any repurposing candidates for Bromhexine HCL. This may be attributable to one or more of the following factors: (1) the drug's DrugBank ID was not successfully mapped (`drugbank_id: null`), which would prevent the model from locating the drug within the knowledge graph; (2) Bromhexine's mechanism of action data was not available for the model to leverage; or (3) the drug's pharmacological profile did not yield high-confidence novel disease associations above the model's threshold.
+Model TxGNN tidak mengembalikan sebarang calon penggunaan semula untuk Bromheksina HCL. Ini mungkin disebabkan oleh satu atau lebih faktor berikut: (1) ID DrugBank ubat tidak berjaya dipetakan (`drugbank_id: null`), yang akan menghalang model daripada mencari ubat dalam graf pengetahuan; (2) data mekanisme tindakan Bromheksina tidak tersedia untuk digunakan oleh model; atau (3) profil farmakoloji ubat tidak menghasilkan persatuan penyakit novel berkeyakinan tinggi di atas ambang model.
 
-To enable a meaningful repurposing analysis, the DrugBank mapping must first be resolved. Bromhexine HCL is listed in DrugBank (DB09015), and correcting this linkage would allow the knowledge graph and deep learning pipelines to generate scored predictions.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials are available for evaluation, as no new indication has been predicted.
+Untuk memungkinkan analisis penggunaan semula yang bermakna, pemetaan DrugBank mesti diselesaikan terlebih dahulu. Bromheksina HCL disenaraikan dalam DrugBank (DB09015), dan membetulkan pautan ini akan membenarkan graf pengetahuan dan saluran pembelajaran mendalam untuk menjana ramalan yang diskor.
 
 ---
 
-## Literature Evidence
+## Bukti Percubaan Klinikal
 
-Currently no related literature is available for evaluation, as no new indication has been predicted.
+Pada masa ini tiada percubaan klinikal yang berkaitan tersedia untuk penilaian, kerana tiada indikasi baru telah diramalkan.
 
 ---
 
-## Malaysia Market Information
+## Bukti Kesusasteraan
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+Pada masa ini tiada kesusasteraan yang berkaitan tersedia untuk penilaian, kerana tiada indikasi baru telah diramalkan.
+
+---
+
+## Maklumat Pasaran Malaysia
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
 |------|------|------|------|
-| *(Details not available)* | — | — | — |
+| *(Butiran tidak tersedia)* | — | — | — |
 
-> **Note:** While 37 NPRA registrations were retrieved for Bromhexine HCL, the individual license details (authorization number, product name, dosage form, and approved indication text) were not populated in the evidence pack. A follow-up query to the NPRA database is required to complete this section.
-
----
-
-## Safety Considerations
-
-> Please refer to the package insert for safety information. Key warnings, contraindications, and drug interaction data were not available in the current evidence pack.
+> **Nota:** Walaupun 37 pendaftaran NPRA telah diambil untuk Bromheksina HCL, butiran lesen individu (nombor kebenaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan) tidak diisi dalam pakej bukti. Pertanyaan susulan ke pangkalan data NPRA diperlukan untuk melengkapkan bahagian ini.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+> Sila rujuk sisipan pakej untuk maklumat keselamatan. Amaran utama, kontraindikasi, dan data interaksi ubat tidak tersedia dalam pakej bukti semasa.
 
-**Rationale:**
-No TxGNN repurposing prediction was generated for Bromhexine HCL, most likely due to a missing DrugBank ID mapping that prevents the drug from being located in the knowledge graph. Without a predicted indication, there is no candidate to evaluate.
+---
 
-**To proceed, the following is needed:**
-- **Resolve DrugBank mapping**: Map Bromhexine HCL to its DrugBank ID (DB09015) and re-run the TxGNN prediction pipeline (both KG and DL methods)
-- **Obtain mechanism of action data**: Query DrugBank API to populate the MOA field for mechanistic reasoning
-- **Populate NPRA license details**: Re-query the NPRA database to retrieve authorization numbers, product names, dosage forms, and approved indication text for the 37 registered products
-- **Obtain safety profile**: Download and parse the package insert (PIL) for key warnings, contraindications, and drug interactions
-- **Re-generate evidence pack**: Once the above data gaps are filled, re-run the full pipeline to produce an actionable repurposing evaluation
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Alasan:**
+Tiada ramalan penggunaan semula TxGNN yang dihasilkan untuk Bromheksina HCL, kemungkinan besar disebabkan oleh pemetaan ID DrugBank yang hilang yang menghalang ubat daripada ditemui dalam graf pengetahuan. Tanpa indikasi yang diramalkan, tiada calon untuk dinilai.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- **Selesaikan pemetaan DrugBank**: Petakan Bromheksina HCL ke ID DrugBank-nya (DB09015) dan jalankan semula saluran ramalan TxGNN (kedua-dua kaedah KG dan DL)
+- **Dapatkan data mekanisme tindakan**: Pertanyaan API DrugBank untuk mengisi medan MOA untuk penaakulan mekanis
+- **Isi butiran lesen NPRA**: Pertanyaan semula pangkalan data NPRA untuk mendapatkan nombor kebenaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan untuk 37 produk berdaftar
+- **Dapatkan profil keselamatan**: Muat turun dan analisis sisipan pakej (PIL) untuk amaran utama, kontraindikasi, dan interaksi ubat
+- **Jana semula pakej bukti**: Setelah jurang data di atas diisi, jalankan semula saluran penuh untuk menghasilkan penilaian penggunaan semula yang boleh ditindakkan
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

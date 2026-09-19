@@ -29,88 +29,89 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Azelaic Acid: Dermatological Agent — No New Indication Predicted
+# Azelaic Acid: Agen Dermatologi — Tiada Petunjuk Baru Diramal
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Azelaic Acid is a naturally occurring dicarboxylic acid commonly used in dermatology for the treatment of acne vulgaris and rosacea. The TxGNN model **did not generate any repurposing predictions** for this drug, meaning there are currently no computationally suggested new indications. Further data enrichment (mechanism of action, regulatory details) is needed before re-evaluation.
+Azelaic Acid adalah asid dikarboksilik yang berlaku semula jadi yang biasa digunakan dalam dermatologi untuk rawatan jerawat vulgaris dan rosacea. Model TxGNN **tidak menghasilkan sebarang petunjuk penggunaan semula** untuk ubat ini, bermakna pada masa ini tiada petunjuk baru yang dicadangkan secara pengiraan. Pengkayaan data yang lebih lanjut (mekanisme tindakan, butir-butir kawal selia) diperlukan sebelum penilaian semula.
 
 ---
 
-## Quick Overview
+## Gambaran Keseluruhan Cepat
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Dermatological use (acne, rosacea — based on known pharmacology; specific approved indication text not available in dataset) |
-| Predicted New Indication | **None** — no TxGNN predictions generated |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | **N/A** — no prediction to evaluate |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
-| Recommended Decision | **Hold** |
+| Petunjuk Asal | Penggunaan dermatologi (jerawat, rosacea — berdasarkan farmakologi yang diketahui; teks petunjuk yang diluluskan khusus tidak tersedia dalam set data) |
+| Petunjuk Baru yang Diramal | **Tiada** — tiada ramalan TxGNN yang dijana |
+| Skor Ramalan TxGNN | T/A |
+| Tahap Bukti | **T/A** — tiada ramalan untuk dinilai |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 2 |
+| Keputusan yang Disyorkan | **Tangguh** |
 
 ---
 
-## Why Was No Prediction Generated?
+## Mengapa Tiada Ramalan yang Dijana?
 
-Azelaic Acid (DrugBank ID: DB00548) is a dicarboxylic acid with known antibacterial, keratolytic, anti-inflammatory, and tyrosinase-inhibiting properties. It is primarily used as a topical agent for acne vulgaris, rosacea, and hyperpigmentation disorders.
+Azelaic Acid (DrugBank ID: DB00548) ialah asid dikarboksilik dengan sifat antibakteria, keratolitik, anti-radang, dan perencat tirosinase yang diketahui. Ia digunakan terutamanya sebagai agen topikal untuk jerawat vulgaris, rosacea, dan gangguan hiperpigmentasi.
 
-The TxGNN model did not produce any repurposing candidates for this drug. Several factors may explain this:
+Model TxGNN tidak menghasilkan sebarang calon penggunaan semula untuk ubat ini. Beberapa faktor mungkin menjelaskan perkara ini:
 
-1. **Topical-only use profile**: Azelaic Acid is predominantly used topically, which limits its systemic pharmacological interactions captured by the knowledge graph. TxGNN's drug–disease relationship network may not adequately represent topical-route-specific therapeutic effects.
+1. **Profil penggunaan topikal sahaja**: Azelaic Acid digunakan terutamanya secara topikal, yang menghadkan interaksi farmakologi sistemik yang ditangkap oleh graf pengetahuan. Rangkaian hubungan ubat-penyakit TxGNN mungkin tidak memadai mewakili kesan terapeutik khusus laluan topikal.
 
-2. **Missing mechanism of action data**: The MOA field is absent from the current dataset. Without explicit target–pathway annotations in the knowledge graph, the model's ability to infer novel disease associations is reduced.
+2. **Data mekanisme tindakan yang hilang**: Medan MOA adalah hilang daripada set data semasa. Tanpa anotasi sasaran-laluan eksplisit dalam graf pengetahuan, keupayaan model untuk menginferkan persatuan penyakit baru berkurangan.
 
-3. **Limited knowledge graph connectivity**: If Azelaic Acid has few edges (drug–target, drug–disease, drug–drug) in the underlying knowledge graph, the graph neural network has insufficient signal to generate high-confidence predictions.
-
----
-
-## Clinical Trial Evidence
-
-No predicted indication exists; therefore, no targeted clinical trial search was performed.
+3. **Keterhubungan graf pengetahuan yang terhad**: Jika Azelaic Acid mempunyai beberapa tepi sahaja (ubat-sasaran, ubat-penyakit, ubat-ubat) dalam rangkaian graf asas, rangkaian saraf graf mempunyai isyarat yang tidak mencukupi untuk menghasilkan ramalan keyakinan tinggi.
 
 ---
 
-## Literature Evidence
+## Bukti Uji Klinis
 
-No predicted indication exists; therefore, no targeted literature search was performed.
+Tiada petunjuk yang diramal; oleh itu, tiada carian uji klinis yang disasarkan telah dilakukan.
 
 ---
 
-## Malaysia Market Information
+## Bukti Kesusasteraan
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+Tiada petunjuk yang diramal; oleh itu, tiada carian kesusasteraan yang disasarkan telah dilakukan.
+
+---
+
+## Maklumat Pasaran Malaysia
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjuk Diluluskan |
 |------|------|------|------|
-| *(Not available in dataset)* | *(Not available)* | *(Not available)* | *(Not available)* |
+| *(Tidak tersedia dalam set data)* | *(Tidak tersedia)* | *(Tidak tersedia)* | *(Tidak tersedia)* |
 
-> **Note:** The NPRA query confirmed 2 registrations for Azelaic Acid in Malaysia, but detailed license information (authorization numbers, product names, dosage forms, approved indications) was not captured in the current dataset. Please consult the [NPRA Product Search](https://quest3plus.bpfk.gov.my/pmo/index.php) for complete registration details.
-
----
-
-## Safety Considerations
-
-> Please refer to the package insert for safety information. Key warnings, contraindications, and drug interaction data were not available in the current dataset.
+> **Nota:** Pertanyaan NPRA mengesahkan 2 pendaftaran untuk Azelaic Acid di Malaysia, tetapi maklumat lesen terperinci (nombor kebenaran, nama produk, bentuk dos, petunjuk yang diluluskan) tidak ditangkap dalam set data semasa. Sila semak [Carian Produk NPRA](https://quest3plus.bpfk.gov.my/pmo/index.php) untuk butir-butir pendaftaran yang lengkap.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
-
-**Rationale:**
-The TxGNN model did not generate any repurposing predictions for Azelaic Acid. Without a candidate indication, there is no actionable repurposing hypothesis to evaluate at this time.
-
-**To proceed, the following is needed:**
-
-- **Mechanism of action (MOA) data** — Query DrugBank API to obtain target and pathway annotations, which will enrich Azelaic Acid's representation in the knowledge graph
-- **Complete Malaysia regulatory details** — Retrieve full NPRA license information including product names, dosage forms, and approved indication text
-- **Package insert safety data** — Obtain key warnings, contraindications, and precautions from the approved product labelling
-- **Knowledge graph connectivity check** — Verify that Azelaic Acid (DB00548) exists as a node in the TxGNN knowledge graph (`data/kg.csv`) and assess its edge count; if absent or poorly connected, the drug cannot be effectively evaluated by the model
-- **Re-run TxGNN prediction** after data enrichment to determine if new indications emerge
+> Sila rujuk lembaran maklumat paket untuk maklumat keselamatan. Data amaran utama, kontraindikasi, dan interaksi ubat-ubatan tidak tersedia dalam set data semasa.
 
 ---
 
-*This report is for research purposes only and does not constitute medical advice. Any drug repurposing candidates require clinical validation before application.*
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tangguh**
+
+**Alasan:**
+Model TxGNN tidak menghasilkan sebarang petunjuk penggunaan semula untuk Azelaic Acid. Tanpa petunjuk calon, tiada hipotesis penggunaan semula yang boleh ditindaklanjuti untuk dinilai pada masa ini.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+
+- **Data mekanisme tindakan (MOA)** — Tanya API DrugBank untuk mendapatkan anotasi sasaran dan laluan, yang akan memperkaya perwakilan Azelaic Acid dalam graf pengetahuan
+- **Butir-butir kawal selia Malaysia yang lengkap** — Ambil maklumat lesen NPRA penuh termasuk nama produk, bentuk dos, dan teks petunjuk yang diluluskan
+- **Data keselamatan lembaran maklumat paket** — Dapatkan amaran utama, kontraindikasi, dan berhati-hati daripada pelabelan produk yang diluluskan
+- **Semakan keterhubungan graf pengetahuan** — Sahkan bahawa Azelaic Acid (DB00548) wujud sebagai nod dalam graf pengetahuan TxGNN (`data/kg.csv`) dan menilai jumlah tepinya; jika tiada atau tidak berkaitan dengan baik, ubat tidak dapat dinilai dengan berkesan oleh model
+- **Jalankan semula ramalan TxGNN** selepas pengkayaan data untuk menentukan sama ada petunjuk baru muncul
+
+---
+
+*Laporan ini adalah untuk tujuan penyelidikan sahaja dan tidak membentuk nasihat perubatan. Sebarang calon penggunaan semula ubat memerlukan pengesahan klinis sebelum aplikasi.*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

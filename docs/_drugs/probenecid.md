@@ -29,88 +29,89 @@ Tahap bukti: **L5** | Indikasi diramal: **3**
 
 </div>
 
-# Probenecid: From Gout (Hyperuricemia) to Renal Hypouricemia
+# Probenecid: Daripada Gout (Hyperuricemia) kepada Renal Hypouricemia
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Probenecid is a classic uricosuric agent long used to treat gout/hyperuricemia (and historically as an adjunct to prolong penicillin plasma levels). The TxGNN model predicts a link to **Renal Hypouricemia**, but the supporting literature (20 publications, no clinical trials) mostly describes probenecid as a **diagnostic challenge agent** used to characterize the urate-transporter defect in these patients, rather than as a treatment — an important distinction for interpreting this prediction.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Gout / hyperuricemia (uricosuric agent); note — Malaysia registration text is not populated in this evidence pack (see Data Gaps) |
-| Predicted New Indication | Renal Hypouricemia |
-| TxGNN Prediction Score | 99.73% |
-| Evidence Level | L3 (observational case reports/series + 1 review; no RCTs, no clinical trials) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+Probenecid adalah agen uricosuric klasik yang telah lama digunakan untuk merawat gout/hyperuricemia (dan secara historis sebagai pelengkap untuk memanjangkan tahap plasma penicillin). Model TxGNN meramalkan pautan kepada **Renal Hypouricemia**, tetapi literatur yang menyokong (20 publikasi, tiada ujian klinikal) kebanyakannya menggambarkan probenecid sebagai **agen cabaran diagnostik** yang digunakan untuk mencirikan kecacatan pengangkut urate dalam pesakit ini, bukan sebagai rawatan — perbezaan penting untuk mentafsir ramalan ini.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Ikhtisar Cepat
 
-Detailed mechanism-of-action data for this evidence pack is not available (Data Gap DG002). Based on known pharmacology, probenecid inhibits the URAT1/OAT organic-anion transporters in the renal proximal tubule, blocking urate reabsorption and **increasing** urinary uric acid excretion — the mechanism it uses to lower serum urate in gout.
-
-Renal hypouricemia is the opposite clinical picture: patients have **loss-of-function mutations in SLC22A12 (URAT1)**, causing excessive urate loss and abnormally low serum urate. Because probenecid acts on the same transporter, the literature link TxGNN is picking up is largely **diagnostic, not therapeutic** — multiple retrieved papers (e.g. PMID 854144, PMID 8302413, PMID 7099326) describe the classic "probenecid test," where a blunted uricosuric response to probenecid/pyrazinamide is used to subtype the tubular defect in renal hypouricemia, not to treat it.
-
-This mechanistic mismatch does not necessarily invalidate the prediction (probenecid pharmacology is genuinely central to understanding and diagnosing renal hypouricemia, and shared URAT1 biology is a real link), but it means the current evidence base supports a **diagnostic/mechanistic association** far more than a **treatment indication**. This should be explicitly flagged before any further repurposing evaluation proceeds.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Gout / hyperuricemia (agen uricosuric); nota — teks pendaftaran Malaysia tidak diisi dalam paket bukti ini (lihat Jurang Data) |
+| Indikasi Baru Diramalkan | Renal Hypouricemia |
+| Skor Ramalan TxGNN | 99.73% |
+| Tahap Bukti | L3 (laporan/siri kes observasi + 1 ulasan; tiada RCT, tiada ujian klinikal) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| PMID | Year | Type | Journal | Key Findings |
+Data mekanisme tindakan terperinci untuk paket bukti ini tidak tersedia (Jurang Data DG002). Berdasarkan farmakologi yang diketahui, probenecid menghalang pengangkut anion organik URAT1/OAT dalam tubulus proksimal buah pinggang, menghalang reabsorpsi urate dan **meningkatkan** ekskresi asid urik urin — mekanisme yang digunakannya untuk menurunkan urate serum dalam gout.
+
+Renal hypouricemia adalah gambaran klinikal yang bertentangan: pesakit mempunyai **mutasi hilang-fungsi dalam SLC22A12 (URAT1)**, menyebabkan kehilangan urate yang berlebihan dan urate serum yang rendah secara tidak normal. Kerana probenecid bertindak pada pengangkut yang sama, pautan literatur yang TxGNN ambil kebanyakannya adalah **diagnostik, bukan terapeutik** — beberapa kertas yang diambil (contohnya PMID 854144, PMID 8302413, PMID 7099326) menggambarkan "ujian probenecid" klasik, di mana tindak balas uricosuric yang tumpul kepada probenecid/pyrazinamide digunakan untuk menentukan subtipe kecacatan tubulus dalam renal hypouricemia, bukan untuk merawatnya.
+
+Ketidakpadanan mekanistik ini tidak semestinya membatalkan ramalan (farmakologi probenecid adalah benar-benar pusat untuk memahami dan mendiagnosis renal hypouricemia, dan biologi URAT1 yang dikongsi adalah pautan sebenar), tetapi ia bermakna asas bukti semasa menyokong **persatuan diagnostik/mekanistik** jauh lebih daripada **indikasi rawatan**. Ini harus ditandai secara eksplisit sebelum sebarang penilaian repurposing lebih lanjut diteruskan.
+
+---
+
+## Bukti Ujian Klinikal
+
+Pada masa kini tiada ujian klinikal berkaitan yang didaftarkan.
+
+---
+
+## Bukti Literatur
+
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [31650389](https://pubmed.ncbi.nlm.nih.gov/31650389/) | 2020 | Review | Clinical Rheumatology | Narrative review of hypouricemia etiology and workup for rheumatologists; covers renal hypouricemia as a major cause |
-| [14694169](https://pubmed.ncbi.nlm.nih.gov/14694169/) | 2004 | Cohort study | J Am Soc Nephrol | Sequenced SLC22A12 in 32 Japanese renal hypouricemia patients; correlated URAT1 genotype with urate clearance phenotype |
-| [16678460](https://pubmed.ncbi.nlm.nih.gov/16678460/) | 2006 | Review | Molecular Genetics and Metabolism | Overview of hereditary renal hypouricemia (HRH), SLC22A12/URAT1 loss-of-function as principal cause |
-| [7771493](https://pubmed.ncbi.nlm.nih.gov/7771493/) | 1995 | Case report + review | American Journal of Kidney Diseases | Case of exercise-induced acute renal failure in renal hypouricemia; discusses prevention strategies and reviews prior literature |
-| [14655203](https://pubmed.ncbi.nlm.nih.gov/14655203/) | 2003 | Case report | American Journal of Kidney Diseases | Two brothers with hereditary renal hypouricemia and exercise-induced ARF |
-| [3813739](https://pubmed.ncbi.nlm.nih.gov/3813739/) | 1987 | Case series | Archives of Internal Medicine | 7 maturity-onset diabetic patients with renal hypouricemia; increased pyrazinamide-suppressible urate clearance |
-| [1944743](https://pubmed.ncbi.nlm.nih.gov/1944743/) | 1991 | Case series | Nephron | 14 Type 1 diabetics with renal hypouricemia vs. 14 controls; characterized uricosuric mechanisms |
-| [9583212](https://pubmed.ncbi.nlm.nih.gov/9583212/) | 1998 | Case report | Acta Paediatrica Japonica | 10-year-old girl with exercise-induced ARF and renal hypouricemia |
-| [8533596](https://pubmed.ncbi.nlm.nih.gov/8533596/) | 1995 | Case report | Acta Paediatrica Japonica | 15-year-old boy with renal hypouricemia and exercise-induced ARF; probenecid/pyrazinamide test used to characterize the tubular defect |
-| [8976099](https://pubmed.ncbi.nlm.nih.gov/8976099/) | 1996 | Review | Nihon Rinsho (Japanese Journal of Clinical Medicine) | Classification of urate metabolism abnormalities, including renal hypouricemia subtypes |
+| [31650389](https://pubmed.ncbi.nlm.nih.gov/31650389/) | 2020 | Ulasan | Clinical Rheumatology | Ulasan naratif etiologi hypouricemia dan kerja untuk ahli reumatologi; merangkumi renal hypouricemia sebagai punca utama |
+| [14694169](https://pubmed.ncbi.nlm.nih.gov/14694169/) | 2004 | Kajian Kohort | J Am Soc Nephrol | Diurut SLC22A12 dalam 32 pesakit renal hypouricemia Jepun; berkorelasi genotip URAT1 dengan fenotip kejelasan urate |
+| [16678460](https://pubmed.ncbi.nlm.nih.gov/16678460/) | 2006 | Ulasan | Molecular Genetics and Metabolism | Gambaran keseluruhan hypouricemia buah pinggang turun temurun (HRH), kehilangan fungsi SLC22A12/URAT1 sebagai punca utama |
+| [7771493](https://pubmed.ncbi.nlm.nih.gov/7771493/) | 1995 | Laporan Kes + ulasan | American Journal of Kidney Diseases | Kes kegagalan buah pinggang akut yang diinduksi oleh senaman dalam renal hypouricemia; membincangkan strategi pencegahan dan meninjau literatur sebelumnya |
+| [14655203](https://pubmed.ncbi.nlm.nih.gov/14655203/) | 2003 | Laporan Kes | American Journal of Kidney Diseases | Dua saudara lelaki dengan renal hypouricemia turun temurun dan kegagalan buah pinggang akut yang diinduksi oleh senaman |
+| [3813739](https://pubmed.ncbi.nlm.nih.gov/3813739/) | 1987 | Siri Kes | Archives of Internal Medicine | 7 pesakit diabetes jenis 2 dengan renal hypouricemia; peningkatan kejelasan urate yang boleh ditindas pyrazinamide |
+| [1944743](https://pubmed.ncbi.nlm.nih.gov/1944743/) | 1991 | Siri Kes | Nephron | 14 pesakit diabetes jenis 1 dengan renal hypouricemia berbanding 14 kawalan; mencirikan mekanisme uricosuric |
+| [9583212](https://pubmed.ncbi.nlm.nih.gov/9583212/) | 1998 | Laporan Kes | Acta Paediatrica Japonica | Gadis berusia 10 tahun dengan kegagalan buah pinggang akut yang diinduksi oleh senaman dan renal hypouricemia |
+| [8533596](https://pubmed.ncbi.nlm.nih.gov/8533596/) | 1995 | Laporan Kes | Acta Paediatrica Japonica | Budak berusia 15 tahun dengan renal hypouricemia dan kegagalan buah pinggang akut yang diinduksi oleh senaman; ujian probenecid/pyrazinamide digunakan untuk mencirikan kecacatan tubulus |
+| [8976099](https://pubmed.ncbi.nlm.nih.gov/8976099/) | 1996 | Ulasan | Nihon Rinsho (Japanese Journal of Clinical Medicine) | Pengelasan anomali metabolisme urate, termasuk subtipe renal hypouricemia |
 
-(10 of 20 retrieved publications shown, prioritized by evidence type; remaining are additional case reports.)
-
----
-
-## Malaysia Market Information
-
-Detailed authorization records (license number, product name, dosage form, approved indication text) are not populated in this evidence pack — only the aggregate count (1 registration, marketed status) is available. Registration-level detail should be pulled from source before this candidate advances.
+(10 daripada 20 publikasi yang diambil ditunjukkan, diutamakan mengikut jenis bukti; selebihnya adalah laporan kes tambahan.)
 
 ---
 
-## Safety Considerations
+## Maklumat Pasaran Malaysia
 
-Please refer to the package insert for safety information. Note: TFDA/NPRA label warnings and contraindications are flagged as a **Blocking** data gap (DG001) — this must be resolved before any safety (S1) evaluation can proceed, and no drug-drug interaction records were found in this pack.
+Rekod kebenaran terperinci (nombor lesen, nama produk, bentuk dos, teks indikasi yang diluluskan) tidak diisi dalam paket bukti ini — hanya kiraan agregat (1 pendaftaran, status dipasarkan) tersedia. Perincian peringkat pendaftaran harus diambil daripada sumber sebelum calon ini maju.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila rujuk sisipan paket untuk maklumat keselamatan. Nota: Amaran label TFDA/NPRA dan kontraindikasi ditandai sebagai jurang data **Penyekat** (DG001) — ini mesti diselesaikan sebelum sebarang penilaian keselamatan (S1) dapat diteruskan, dan tiada rekod interaksi ubat-ubatan yang ditemui dalam paket ini.
 
-**Rationale:**
-A Blocking data gap on label warnings/contraindications (DG001) prevents any safety assessment, and the supporting literature for renal hypouricemia is composed entirely of case reports/series describing probenecid as a **diagnostic probe** for the URAT1 defect rather than as a therapeutic agent — evidence quality and mechanistic direction do not currently support a repurposing case.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA label PDF parsed for warnings and contraindications (resolves DG001)
-- Confirmed mechanism of action via DrugBank (resolves DG002)
-- Malaysia registration detail (license number, product name, approved indication text) for the single existing registration
-- A targeted literature/clinical review to determine whether any therapeutic (vs. diagnostic) rationale for probenecid in renal hypouricemia exists, given the mechanistic contradiction noted above
-- Reassessment of the two lower-ranked candidates (Lesch-Nyhan syndrome, rank 2; HGPRT partial deficiency, rank 3) — both are purine-metabolism disorders with sparse or no evidence, and likely reflect the same diagnostic-probe association rather than independent treatment signals
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Alasan:**
+Jurang data Penyekat pada amaran label/kontraindikasi (DG001) menghalang sebarang penilaian keselamatan, dan literatur yang menyokong untuk renal hypouricemia terdiri sepenuhnya daripada laporan/siri kes yang menggambarkan probenecid sebagai **penyongsong diagnostik** untuk kecacatan URAT1 bukan sebagai agen terapeutik — kualiti bukti dan arah mekanistik tidak semasa menyokong kes repurposing.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- PDF label TFDA/NPRA dianalisis untuk amaran dan kontraindikasi (menyelesaikan DG001)
+- Mekanisme tindakan yang disahkan melalui DrugBank (menyelesaikan DG002)
+- Perincian pendaftaran Malaysia (nombor lesen, nama produk, teks indikasi yang diluluskan) untuk satu pendaftaran yang sedia ada
+- Tinjauan literatur/klinikal yang tertumpu untuk menentukan sama ada sebarang nisbah terapeutik (vs. diagnostik) untuk probenecid dalam renal hypouricemia wujud, memandangkan percanggahan mekanistik yang dicatat di atas
+- Penilaian semula dua calon kedudukan lebih rendah (sindrom Lesch-Nyhan, kedudukan 2; kecacatan HGPRT separa, kedudukan 3) — kedua-duanya adalah gangguan metabolisme purin dengan bukti yang jarang atau tiada, dan berkemungkinan mencerminkan persatuan ujian diagnostik yang sama bukan tanda rawatan yang bebas
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

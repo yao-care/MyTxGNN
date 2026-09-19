@@ -29,133 +29,134 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Bimatoprost: From Glaucoma / Eyelash Hypotrichosis to Alopecia
+# Bimatoprost: Dari Glaukoma / Hipotrikosis Bulu Mata ke Alopesia
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Bimatoprost is a synthetic prostamide F2α analogue, originally approved for the treatment of glaucoma (Lumigan®) and eyelash hypotrichosis (Latisse®). The TxGNN model predicts it may be effective for **Alopecia** (including androgenetic alopecia and alopecia areata), with **11 clinical trials** and **20 publications** currently supporting this direction. Among 10 predicted indications, alopecia demonstrates the strongest evidence base (Level L2), while several other hair-related predictions are flagged as directional contradictions or false positives.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Glaucoma / Ocular hypertension; Eyelash hypotrichosis |
-| Predicted New Indication | Alopecia (Rank 9 of 10 predictions; highest evidence) |
-| TxGNN Prediction Score | 99.99% |
-| Evidence Level | L2 (1 completed Phase 2 RCT with n=307) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
-| Recommended Decision | Proceed with Guardrails |
+Bimatoprost ialah anasir prostamid F2α sintetik, yang asal diluluskan untuk merawat glaukoma (Lumigan®) dan hipotrikosis bulu mata (Latisse®). Model TxGNN meramalkan ia mungkin berkesan untuk **Alopesia** (termasuk alopesia androgenetik dan alopesia areata), dengan **11 percubaan klinis** dan **20 penerbitan** kini menyokong arah ini. Antara 10 ramalan petunjuk, alopesia menunjukkan asas bukti terkuat (Tahap L2), manakala beberapa ramalan berkaitan rambut lain ditanda sebagai percanggahan arah atau positif palsu.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Pantas
 
-Bimatoprost is a synthetic prostamide F2α analogue that acts as an agonist at the FP prostanoid receptor. Its primary pharmacological action involves promoting the transition of hair follicles from the resting phase (telogen) to the active growth phase (anagen), while simultaneously extending the duration of the growth phase. This mechanism was first discovered as a side effect in glaucoma patients using bimatoprost eye drops (Lumigan®), who developed longer, thicker, and darker eyelashes — leading to its FDA approval as Latisse® for eyelash hypotrichosis in 2008.
-
-The link between the original ophthalmic indication and the predicted alopecia indication is rooted in shared receptor biology. Scalp hair follicles express the same FP receptors as eyelash follicles. If bimatoprost can stimulate eyelash growth through prostamide signalling, the same pharmacological pathway should, in principle, be applicable to scalp hair follicles. This biological rationale is strongly supported by multiple completed Phase 2 clinical trials specifically designed to test bimatoprost for androgenetic alopecia (AGA) in both men (n=307) and women (n=306), as well as investigational studies in alopecia areata.
-
-Notably, the TxGNN model also predicted several other hair-related conditions (hypertrichosis, hair shaft abnormalities, Ambras syndrome). However, two of these — hypertrichosis (Rank 1) and Ambras type hypertrichosis (Rank 5) — represent **directional contradictions**: these are conditions of excessive hair growth that bimatoprost would *worsen*, not treat. This highlights a known limitation of the TxGNN knowledge graph in distinguishing between "treats" and "causes/exacerbates" associations. The alopecia prediction (Rank 9), by contrast, is directionally correct and clinically validated.
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Glaukoma / tekanan intraokuler tinggi; Hipotrikosis bulu mata |
+| Petunjuk Baharu Diramalkan | Alopesia (Pangkat 9 daripada 10 ramalan; bukti tertinggi) |
+| Skor Ramalan TxGNN | 99.99% |
+| Tahap Bukti | L2 (1 ujian klinis fasa 2 selesai dengan n=307) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 3 |
+| Keputusan Disyorkan | Teruskan dengan Penggalak |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Bimatoprost ialah anasir prostamid F2α sintetik yang bertindak sebagai agonis pada reseptor prostenoid FP. Tindakan farmakolos utamanya melibatkan menggalakkan peralihan folikel rambut daripada fasa rehat (telogen) ke fasa pertumbuhan aktif (anagen), sambil secara serentak memanjangkan tempoh fasa pertumbuhan. Mekanisme ini pertama kali ditemui sebagai kesan sampingan pada pesakit glaukoma yang menggunakan titis mata bimatoprost (Lumigan®), yang mengembangkan bulu mata yang lebih panjang, tebal, dan gelap — membawa kepada kelulusannya oleh FDA sebagai Latisse® untuk hipotrikosis bulu mata pada 2008.
+
+Pautan antara petunjuk oftalmik asal dan petunjuk alopesia yang diramalkan berakar pada biologi reseptor bersama. Folikel rambut kulit kepala menyatakan reseptor FP yang sama dengan folikel bulu mata. Jika bimatoprost dapat merangsang pertumbuhan bulu mata melalui isyarat prostamid, laluan farmakolos yang sama sepatutnya, secara prinsipnya, boleh digunakan pada folikel rambut kulit kepala. Rasional biologi ini kuat disokong oleh beberapa ujian klinis fasa 2 selesai yang direka khusus untuk menguji bimatoprost bagi alopesia androgenetik (AGA) pada lelaki (n=307) dan wanita (n=306), serta kajian penyiasatan dalam alopesia areata.
+
+Penting untuk dinyatakan, model TxGNN juga meramalkan beberapa keadaan berkaitan rambut lain (hipertrikosis, ketakaktifan batang rambut, sindrom Ambras). Walau bagaimanapun, dua daripada ini — hipertrikosis (Pangkat 1) dan hipertrikosis tipe Ambras (Pangkat 5) — mewakili **percanggahan arah**: ini ialah keadaan pertumbuhan rambut berlebihan yang bimatoprost akan *memburuk*, bukan merawat. Ini menyoroti batasan yang diketahui bagi graf pengetahuan TxGNN dalam membezakan antara hubungan "merawat" dan "menyebabkan/memperburuk". Ramalan alopesia (Pangkat 9), sebaliknya, arah yang betul dan disahkan secara klinis.
+
+---
+
+## Bukti Percubaan Klinis
+
+| Nombor Percubaan | Fasa | Status | Bilangan Peserta | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT01325337](https://clinicaltrials.gov/study/NCT01325337) | Phase 2 | Completed | 307 | Phase 2 RCT comparing 3 doses of bimatoprost vs vehicle and minoxidil 5% in men with androgenetic alopecia — key efficacy trial |
-| [NCT01325350](https://clinicaltrials.gov/study/NCT01325350) | Phase 2 | Completed | 306 | Phase 2 RCT comparing 3 doses of bimatoprost vs vehicle and minoxidil 2% in women with female pattern hair loss |
-| [NCT01904721](https://clinicaltrials.gov/study/NCT01904721) | Phase 2 | Completed | 244 | Safety and efficacy study of bimatoprost in men with AGA — dose-response validation |
-| [NCT01189279](https://clinicaltrials.gov/study/NCT01189279) | Phase 1 | Completed | 42 | Safety, tolerability, and pharmacokinetics of new scalp-specific bimatoprost formulations |
-| [NCT02170662](https://clinicaltrials.gov/study/NCT02170662) | Phase 2 | Completed | 33 | Effect of topical bimatoprost on androgen-dependent hair follicles — mechanistic validation |
-| [NCT05600673](https://clinicaltrials.gov/study/NCT05600673) | Phase 1/2 | Completed | 30 | CO2 fractional laser combined with bimatoprost 0.03% for alopecia areata — combination therapy approach |
-| [NCT00187577](https://clinicaltrials.gov/study/NCT00187577) | N/A | Completed | 14 | Latanoprost vs bimatoprost in promoting eyelash growth in alopecia areata patients |
-| [NCT02848300](https://clinicaltrials.gov/study/NCT02848300) | Phase 1 | Completed | 11 | Scalp pharmacokinetics and tolerability of two bimatoprost formulations after 14-day topical application in AGA |
-| [NCT01023841](https://clinicaltrials.gov/study/NCT01023841) | Phase 4 | Completed | 71 | Bimatoprost 0.03% for eyelash hypotrichosis in children — safety profile extension |
-| [NCT02676310](https://clinicaltrials.gov/study/NCT02676310) | Phase 1 | Terminated | 53 | Dose escalation study in men with AGA — terminated (reason to be clarified; may be safety or commercial) |
+| [NCT01325337](https://clinicaltrials.gov/study/NCT01325337) | 2 | Selesai | 307 | Ujian klinis fasa 2 rawak terkontrol membandingkan 3 dos bimatoprost berbanding kenderaan dan minoksidil 5% pada lelaki dengan alopesia androgenetik — ujian keberkesanan utama |
+| [NCT01325350](https://clinicaltrials.gov/study/NCT01325350) | 2 | Selesai | 306 | Ujian klinis fasa 2 rawak terkontrol membandingkan 3 dos bimatoprost berbanding kenderaan dan minoksidil 2% pada wanita dengan kehilangan rambut pola perempuan |
+| [NCT01904721](https://clinicaltrials.gov/study/NCT01904721) | 2 | Selesai | 244 | Kajian keselamatan dan keberkesanan bimatoprost pada lelaki dengan AGA — pengesahan tindak balas dos |
+| [NCT01189279](https://clinicaltrials.gov/study/NCT01189279) | 1 | Selesai | 42 | Keselamatan, toleransi, dan farmakokinetik formulasi bimatoprost khusus kulit kepala baharu |
+| [NCT02170662](https://clinicaltrials.gov/study/NCT02170662) | 2 | Selesai | 33 | Kesan bimatoprost topik pada folikel rambut bergantung androgen — pengesahan mekanik |
+| [NCT05600673](https://clinicaltrials.gov/study/NCT05600673) | 1/2 | Selesai | 30 | Laser bercahaya karbon dioksida bergabung dengan bimatoprost 0.03% untuk alopesia areata — pendekatan terapi gabungan |
+| [NCT00187577](https://clinicaltrials.gov/study/NCT00187577) | N/A | Selesai | 14 | Latanoprost berbanding bimatoprost dalam menggalakkan pertumbuhan bulu mata pada pesakit alopesia areata |
+| [NCT02848300](https://clinicaltrials.gov/study/NCT02848300) | 1 | Selesai | 11 | Farmakokinetik kulit kepala dan toleransi dua formulasi bimatoprost selepas aplikasi topik 14 hari dalam AGA |
+| [NCT01023841](https://clinicaltrials.gov/study/NCT01023841) | 4 | Selesai | 71 | Bimatoprost 0.03% untuk hipotrikosis bulu mata pada anak-anak — pelanjutan profil keselamatan |
+| [NCT02676310](https://clinicaltrials.gov/study/NCT02676310) | 1 | Ditamatkan | 53 | Kajian penambahan dos pada lelaki dengan AGA — ditamatkan (sebab perlu dijelaskan; mungkin keselamatan atau komersial) |
 
 ---
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [32250713](https://pubmed.ncbi.nlm.nih.gov/32250713/) | 2022 | Systematic Review & Network Meta-analysis | J Dermatol Treat | Determined relative efficacies of non-surgical AGA monotherapies in men and women; bimatoprost included in network comparison |
-| [40252129](https://pubmed.ncbi.nlm.nih.gov/40252129/) | 2025 | Clinical Study | Arch Dermatol Res | CO2 fractional laser + bimatoprost demonstrated enhanced hair regrowth in alopecia areata |
-| [28264599](https://pubmed.ncbi.nlm.nih.gov/28264599/) | 2017 | Narrative Review | Expert Opin Investig Drugs | Comprehensive review of bimatoprost for eyelash, eyebrow, and scalp alopecia treatment |
-| [35278027](https://pubmed.ncbi.nlm.nih.gov/35278027/) | 2022 | Prospective Open-label | Dermatol Ther | Topical bimatoprost for eyelash loss in alopecia totalis/universalis; 16/19 patients showed response |
-| [37089845](https://pubmed.ncbi.nlm.nih.gov/37089845/) | 2023 | Prospective Comparative | Indian Dermatol Online J | Bimatoprost vs clobetasol propionate in scalp alopecia areata — direct head-to-head comparison |
-| [35040730](https://pubmed.ncbi.nlm.nih.gov/35040730/) | 2022 | Preclinical + Formulation | Drug Deliv | Novel topical bimatoprost formulation with 4.6× higher skin flux and 529% increased dermal deposition; in vivo hair regrowth in AGA model |
-| [29863806](https://pubmed.ncbi.nlm.nih.gov/29863806/) | 2018 | Clinical Practice Guideline | J Dermatol | Japanese guidelines for male/female pattern hair loss (2017 version); bimatoprost referenced as emerging therapy |
-| [29854658](https://pubmed.ncbi.nlm.nih.gov/29854658/) | 2018 | Review | Indian Dermatol Online J | Overview of bimatoprost in dermatology — prostamide analogue repurposed from glaucoma to alopecia and vitiligo |
-| [22735503](https://pubmed.ncbi.nlm.nih.gov/22735503/) | 2012 | Review | Skin Therapy Lett | Promising therapies for AGA including bimatoprost as a novel prostaglandin-based approach |
-| [37185388](https://pubmed.ncbi.nlm.nih.gov/37185388/) | 2023 | Review | Curr Oncol | Prevention and treatment of chemotherapy-induced alopecia; bimatoprost discussed as interventional option |
+| [32250713](https://pubmed.ncbi.nlm.nih.gov/32250713/) | 2022 | Ulasan Sistematik & Meta-analisis Rangkaian | J Dermatol Treat | Menentukan keberkesanan relatif monoterapi AGA bukan pembedahan pada lelaki dan wanita; bimatoprost termasuk dalam perbandingan rangkaian |
+| [40252129](https://pubmed.ncbi.nlm.nih.gov/40252129/) | 2025 | Kajian Klinis | Arch Dermatol Res | Laser bercahaya karbon dioksida + bimatoprost menunjukkan pertumbuhan rambut yang ditingkatkan dalam alopesia areata |
+| [28264599](https://pubmed.ncbi.nlm.nih.gov/28264599/) | 2017 | Ulasan Naratif | Expert Opin Investig Drugs | Ulasan komprehensif bimatoprost untuk rawatan bulu mata, alis, dan alopesia kulit kepala |
+| [35278027](https://pubmed.ncbi.nlm.nih.gov/35278027/) | 2022 | Prospektif Terbuka Label | Dermatol Ther | Bimatoprost topik untuk kehilangan bulu mata dalam alopesia totalis/universalis; 16/19 pesakit menunjukkan tindak balas |
+| [37089845](https://pubmed.ncbi.nlm.nih.gov/37089845/) | 2023 | Perbandingan Prospektif | Indian Dermatol Online J | Bimatoprost berbanding propionat clobetasol dalam alopesia areata kulit kepala — perbandingan kepala banding langsung |
+| [35040730](https://pubmed.ncbi.nlm.nih.gov/35040730/) | 2022 | Pra-klinis + Formulasi | Drug Deliv | Formulasi bimatoprost topik baharu dengan aliran kulit 4.6× lebih tinggi dan peningkatan pemendapan dermal 529%; pertumbuhan rambut dalam model AGA in vivo |
+| [29863806](https://pubmed.ncbi.nlm.nih.gov/29863806/) | 2018 | Garis Panduan Amalan Klinis | J Dermatol | Garis panduan Jepun untuk kehilangan rambut pola lelaki/perempuan (versi 2017); bimatoprost dirujuk sebagai terapi berkembang |
+| [29854658](https://pubmed.ncbi.nlm.nih.gov/29854658/) | 2018 | Ulasan | Indian Dermatol Online J | Gambaran keseluruhan bimatoprost dalam dermatologi — anasir prostamid yang diubahsuai dari glaukoma kepada alopesia dan vitiligo |
+| [22735503](https://pubmed.ncbi.nlm.nih.gov/22735503/) | 2012 | Ulasan | Skin Therapy Lett | Terapi menjanjikan untuk AGA termasuk bimatoprost sebagai pendekatan berasaskan prostaglandin novel |
+| [37185388](https://pubmed.ncbi.nlm.nih.gov/37185388/) | 2023 | Ulasan | Curr Oncol | Pencegahan dan rawatan alopesia teraruh kemoterapi; bimatoprost dibincangkan sebagai pilihan intervensi |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjuk Kelulusan |
 |---------|------|------|-----------|
-| (Data pending) | — | — | — |
-| (Data pending) | — | — | — |
-| (Data pending) | — | — | — |
+| (Data tertunggu) | — | — | — |
+| (Data tertunggu) | — | — | — |
+| (Data tertunggu) | — | — | — |
 
-> **Note:** Bimatoprost is confirmed as marketed in Malaysia with 3 active registrations; however, detailed license information (authorization numbers, product names, dosage forms, and approved indication text) was not available in the current data extract. Please refer to the NPRA database for complete registration details.
+> **Catatan:** Bimatoprost disahkan sebagai dipasarkan di Malaysia dengan 3 pendaftaran aktif; bagaimanapun, maklumat lesen terperinci (nombor kebenaran, nama produk, bentuk dos, dan teks petunjuk kelulusan) tidak tersedia dalam ekstrak data semasa. Sila rujuk pangkalan data NPRA untuk butiran pendaftaran lengkap.
 
 ---
 
-## Other Predicted Indications Summary
+## Ringkasan Petunjuk Lain yang Diramalkan
 
-The TxGNN model generated 10 predicted indications for bimatoprost. Beyond the primary alopecia recommendation, the following is a summary of all predictions for transparency:
+Model TxGNN menghasilkan 10 petunjuk yang diramalkan untuk bimatoprost. Selain daripada rekomendasi alopesia utama, berikut ialah ringkasan semua ramalan untuk ketelusan:
 
-| Rank | Predicted Disease | TxGNN Score | Evidence Level | Assessment |
+| Pangkat | Penyakit Diramalkan | Skor TxGNN | Tahap Bukti | Penilaian |
 |------|------------------|-------------|---------------|------------|
-| 1 | Hypertrichosis | 99.998% | L5 | ⚠️ **Directional contradiction** — bimatoprost *causes* hypertrichosis; would worsen condition |
-| 2 | Malformation syndrome (periodontal) | 99.997% | L5 | ❌ Keyword matching false positive; no bimatoprost literature found |
-| 3 | Dandy-Walker malformation syndrome | 99.997% | L5 | ❌ No mechanistic link; KG noise |
-| 4 | Isolated genetic hair shaft abnormality | 99.997% | L5 | Weak link — structural protein defect, not follicle cycle issue |
-| 5 | Ambras type hypertrichosis | 99.997% | L5 | ⚠️ **Directional contradiction** — same issue as Rank 1 |
-| 6 | Hypotrichosis simplex of the scalp | 99.996% | L5 | ✅ Strong rationale (same FP receptor mechanism as Latisse®); no direct trials yet |
-| 7 | Congenital hypotrichosis milia | 99.995% | L5 | Weak link — congenital follicle developmental defect |
-| 8 | Diffuse alopecia areata | 99.993% | L4 | ✅ Promising; NCT05600673 supports combination approach |
-| **9** | **Alopecia** | **99.993%** | **L2** | **✅ Best candidate — 11 trials, 20 publications** |
-| 10 | Genetic alopecia | 99.966% | L4 | ✅ Moderate rationale; limited direct evidence |
+| 1 | Hipertrikosis | 99.998% | L5 | ⚠️ **Percanggahan arah** — bimatoprost *menyebabkan* hipertrikosis; akan memburuk keadaan |
+| 2 | Sindrom Malformasi (periodontal) | 99.997% | L5 | ❌ Padanan kata-kunci positif palsu; tiada kesusasteraan bimatoprost ditemui |
+| 3 | Sindrom malformasi Dandy-Walker | 99.997% | L5 | ❌ Tiada pautan mekanik; hingar KG |
+| 4 | Ketakaktifan batang rambut genetik terpencil | 99.997% | L5 | Pautan lemah — kecacatan protein struktur, bukan isu kitaran folikel |
+| 5 | Hipertrikosis tipe Ambras | 99.997% | L5 | ⚠️ **Percanggahan arah** — isu sama dengan Pangkat 1 |
+| 6 | Hipotrikosis simplek kulit kepala | 99.996% | L5 | ✅ Rasional kuat (mekanisme reseptor FP sama dengan Latisse®); tiada ujian langsung lagi |
+| 7 | Milia hipotrikosis bawaan | 99.995% | L5 | Pautan lemah — kecacatan pembangunan folikel bawaan |
+| 8 | Alopesia areata tersebar | 99.993% | L4 | ✅ Menjanjikan; NCT05600673 menyokong pendekatan gabungan |
+| **9** | **Alopesia** | **99.993%** | **L2** | **✅ Calon terbaik — 11 ujian, 20 penerbitan** |
+| 10 | Alopesia genetik | 99.966% | L4 | ✅ Rasional sederhana; bukti langsung terbatas |
 
 ---
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-> Please refer to the package insert for safety information.
+> Sila rujuk sisipan pakej untuk maklumat keselamatan.
 >
-> **Note:** Key warnings, contraindications, and drug interaction data were not available in the current evidence pack. To complete the safety assessment, the following actions are recommended:
-> - Download and parse the product insert (仿單) from the NPRA website
-> - Query DrugBank for comprehensive safety and DDI data
+> **Catatan:** Data amaran utama, kontradikasi, dan maklumat interaksi ubat tidak tersedia dalam pak bukti semasa. Untuk melengkapkan penilaian keselamatan, tindakan berikut disyorkan:
+> - Muat turun dan huraikan sisipan produk daripada laman web NPRA
+> - Pertanyaan DrugBank untuk data keselamatan komprehensif dan profil interaksi ubat
 >
-> **Known class-level considerations for prostaglandin analogues (general reference):**
-> - Iris pigmentation changes (irreversible in ophthalmic use)
-> - Periorbital skin darkening
-> - Eyelid erythema and pruritus
-> - When applied topically to scalp, systemic absorption and ocular effects should be monitored
+> **Pertimbangan tahap kelas yang diketahui untuk anasir prostaglandin (rujukan umum):**
+> - Perubahan pigmentasi iris (tidak dapat diperbaiki dalam penggunaan oftalmik)
+> - Penghitaman kulit periorbital
+> - Eritem dan pruritus kelopak mata
+> - Apabila digunakan secara topik pada kulit kepala, penyerapan sistemik dan kesan okular harus dipantau
 
 ---
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Proceed with Guardrails**
+**Keputusan: Teruskan dengan Penggalak**
 
-**Rationale:**
-Bimatoprost has strong mechanistic plausibility for treating alopecia, supported by its FDA-approved hair growth promotion mechanism (FP receptor agonism). Multiple completed Phase 2 RCTs in both male AGA (n=307) and female pattern hair loss (n=306) provide Level 2 evidence. The drug is already marketed in Malaysia, which reduces regulatory barriers. However, it has not yet received regulatory approval for an alopecia indication in any jurisdiction, and Phase 3 pivotal trials have not been conducted.
+**Rasional:**
+Bimatoprost mempunyai kelayakan mekanik yang kuat untuk merawat alopesia, disokong oleh mekanisme promosi pertumbuhan rambut yang diluluskan FDA (agonis reseptor prostenoid FP). Beberapa ujian klinis fasa 2 selesai dalam AGA lelaki (n=307) dan kehilangan rambut pola perempuan (n=306) menyediakan bukti Tahap L2. Ubat ini sudah dipasarkan di Malaysia, yang mengurangkan halangan kawal selia. Walau bagaimanapun, ia belum menerima kelulusan kawal selia untuk petunjuk alopesia dalam mana-mana bidang kuasa, dan ujian penting fasa 3 belum dijalankan.
 
-**To proceed, the following is needed:**
-- **Safety data completion**: Obtain full package insert warnings and contraindications from NPRA; query DrugBank for DDI profile
-- **MOA formal documentation**: Retrieve detailed mechanism of action data from DrugBank (DrugBank ID lookup required)
-- **Phase 3 trial status**: Investigate why Phase 1 dose-escalation trial (NCT02676310) was terminated — determine if safety signal or commercial decision
-- **Formulation development**: Assess availability of scalp-specific bimatoprost formulations (current marketed forms are ophthalmic solutions)
-- **Regulatory pathway**: Evaluate Section 505(b)(2) or equivalent pathway for new indication filing in Malaysia
-- **Subtype-specific analysis**: Consider separate evaluation tracks for androgenetic alopecia (strongest evidence) vs alopecia areata (emerging evidence with combination therapy)
+**Untuk meneruskan, perkara berikut diperlukan:**
+- **Penyempurnaan data keselamatan**: Dapatkan amaran sisipan pakej penuh dan kontradikasi daripada NPRA; pertanyaan DrugBank untuk profil interaksi ubat
+- **Dokumentasi MOA rasmi**: Dapatkan data mekanisme tindakan terperinci daripada DrugBank
+- **Status ujian fasa 3**: Siasat mengapa ujian penambahan dos fasa 1 (NCT02676310) ditamatkan — tentukan jika isyarat keselamatan atau keputusan komersial
+- **Pembangunan formulasi**: Nilai ketersediaan formulasi bimatoprost khusus kulit kepala (bentuk dipasarkan semasa adalah larutan oftalmik)
+- **Laluan kawal selia**: Nilai bahagian 505(b)(2) atau laluan setara untuk pemfailan petunjuk baharu di Malaysia
+- **Analisis jenis kecil**: Pertimbangkan trek penilaian berasingan untuk alopesia androgenetik (bukti terkuat) berbanding alopesia areata (bukti berkembang dengan terapi gabungan)
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,92 +29,93 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# ACALABRUTINIB MALEATE: Repurposing Evaluation — Insufficient Data to Complete Full Assessment
+# ACALABRUTINIB MALEATE: Penilaian Penggunaan Kembali — Data Tidak Mencukupi untuk Melengkapi Penilaian Penuh
 
 ---
 
-## One-Sentence Summary
+## Ringkasan Satu Kalimat
 
-Acalabrutinib maleate is a targeted anticancer agent (BTK inhibitor) currently registered in Malaysia, indicated for haematological malignancies such as chronic lymphocytic leukaemia and mantle cell lymphoma.
-However, **no TxGNN predictions were generated** in this Evidence Pack due to missing DrugBank ID mapping, and critical data fields — including approved indication text, mechanism of action, and safety warnings — are absent.
-A complete repurposing evaluation **cannot proceed** until these gaps are resolved.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Not available in current data |
-| Predicted New Indication | No predictions generated |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 — No predictions run yet |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | **Hold** |
+Acalabrutinib maleate adalah agen antikanker tersasaran (penghambat BTK) yang saat ini terdaftar di Malaysia, diindikasikan untuk keganasan hematologi seperti leukemia limfositik kronis dan limfoma sel mantel.
+Namun, **tidak ada prediksi TxGNN yang dihasilkan** dalam Paket Bukti ini karena pemetaan ID DrugBank yang hilang, dan bidang data kritis — termasuk teks indikasi yang disetujui, mekanisme aksi, dan peringatan keselamatan — tidak ada.
+Penilaian penggunaan kembali yang lengkap **tidak dapat dilanjutkan** sampai celah-celah ini diselesaikan.
 
 ---
 
-## Why No Prediction Is Available
+## Gambaran Singkat
 
-The TxGNN repurposing pipeline requires a valid **DrugBank ID** to locate the drug node within the knowledge graph and compute drug–disease association scores. For this submission, `drugbank_id` is `null`, which means:
-
-1. The drug could not be anchored in the TxGNN knowledge graph.
-2. Neither the knowledge graph (KG) method nor the deep learning (DL) method produced candidate scores.
-3. Without a scored candidate list, no ranked predicted indications can be reported.
-
-Additionally, the mechanism of action (MOA) data is absent, preventing any mechanistic plausibility analysis even if a candidate indication were identified manually.
-
-Acalabrutinib is known from published literature to be a **second-generation, covalent Bruton's tyrosine kinase (BTK) inhibitor**. BTK plays a central role in B-cell receptor signalling, making it relevant not only to its approved haematological indications but potentially to autoimmune and inflammatory conditions. However, these insights cannot be formally incorporated into a TxGNN report without completing the pipeline.
-
----
-
-## Malaysia Market Information
-
-The drug is confirmed as **marketed** in Malaysia (1 active registration via NPRA). However, the detailed licence record returned was empty — authorization number, product name, dosage form, and approved indication text were all absent from this Evidence Pack.
-
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|----------------------|--------------|-------------|---------------------|
-| *(Not returned by query)* | *(Not returned)* | *(Not returned)* | *(Not returned)* |
-
-> **Note:** NPRA query log confirms 1 result was found (query ID 1, status: success). The empty fields suggest a data extraction or parsing issue in the current pipeline run, not an absence of registration.
+| Item | Konten |
+|------|--------|
+| Indikasi Asli | Tidak tersedia dalam data saat ini |
+| Indikasi Baru yang Diprediksi | Tidak ada prediksi yang dihasilkan |
+| Skor Prediksi TxGNN | N/A |
+| Tingkat Bukti | L5 — Belum ada prediksi yang dijalankan |
+| Status Pasar Malaysia | ✓ Dipasarkan |
+| Jumlah Pendaftaran | 1 |
+| Keputusan yang Direkomendasikan | **Tahan** |
 
 ---
 
-## Cytotoxicity
+## Mengapa Tidak Ada Prediksi yang Tersedia
 
-Acalabrutinib is an antineoplastic targeted therapy. The following applies pending full package insert retrieval:
+Saluran pipa penggunaan kembali TxGNN memerlukan **ID DrugBank** yang valid untuk menemukan simpul obat dalam grafik pengetahuan dan menghitung skor asosiasi obat-penyakit. Untuk pengajuan ini, `drugbank_id` adalah `null`, yang berarti:
 
-| Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Targeted therapy — covalent BTK inhibitor |
-| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
-| Emetogenicity Classification | Low (typical for oral small-molecule targeted agents) |
-| Monitoring Items | CBC with differential, liver function tests, renal function |
-| Handling Protection | Follow institutional cytotoxic drug handling protocols |
+1. Obat tidak dapat ditambatkan dalam grafik pengetahuan TxGNN.
+2. Baik metode grafik pengetahuan (KG) maupun metode pembelajaran mendalam (DL) tidak menghasilkan skor kandidat.
+3. Tanpa daftar kandidat yang terskor, tidak ada indikasi prediksi yang dipecah peringkat dapat dilaporkan.
 
----
+Selain itu, data mekanisme aksi (MOA) tidak tersedia, mencegah analisis kelayakan mekanistik apa pun bahkan jika indikasi kandidat diidentifikasi secara manual.
 
-## Safety Considerations
-
-Please refer to the package insert for safety information.
+Acalabrutinib diketahui dari literatur terpublikasi adalah **penghambat tirosin kinase Bruton (BTK) generasi kedua, kovalen**. BTK memainkan peran sentral dalam pensinyalan reseptor sel B, menjadikannya relevan tidak hanya untuk indikasi hematologi yang disetujuinya tetapi berpotensi untuk kondisi autoimun dan inflamasi. Namun, wawasan ini tidak dapat dimasukkan secara formal ke dalam laporan TxGNN tanpa menyelesaikan saluran pipa.
 
 ---
 
-## Conclusion and Next Steps
+## Informasi Pasar Malaysia
 
-**Decision: Hold**
+Obat ini dikonfirmasi sebagai **dipasarkan** di Malaysia (1 pendaftaran aktif melalui NPRA). Namun, catatan lisensi terperinci yang dikembalikan kosong — nomor otorisasi, nama produk, bentuk dosis, dan teks indikasi yang disetujui semuanya tidak ada dalam Paket Bukti ini.
 
-**Rationale:**
-The TxGNN prediction pipeline did not produce any scored indications due to a missing DrugBank ID, and all safety and indication details from the regulatory record are absent — this Evidence Pack does not contain sufficient data to support a repurposing evaluation.
+| Nomor Otorisasi | Nama Produk | Bentuk Dosis | Indikasi yang Disetujui |
+|-----------------|------------|-------------|------------------------|
+| *(Tidak dikembalikan oleh kueri)* | *(Tidak dikembalikan)* | *(Tidak dikembalikan)* | *(Tidak dikembalikan)* |
 
-**To proceed, the following is needed:**
+> **Catatan:** Log kueri NPRA mengkonfirmasi 1 hasil ditemukan (ID kueri 1, status: sukses). Bidang kosong menunjukkan masalah ekstraksi atau penguraian data dalam aliran saluran pipa saat ini, bukan ketiadaan pendaftaran.
 
-- **Resolve DrugBank ID mapping**: Query DrugBank for "acalabrutinib" (the free base INN); the maleate salt form may not match directly. Expected ID: DB12116. Re-run `scripts/run_kg_prediction.py` after mapping.
-- **Re-parse NPRA licence record**: The NPRA query returned 1 result but all fields are empty. Review the raw response in `data/raw/malaysia_fda_drugs.json` and fix the field extraction in `scripts/process_fda_data.py`.
-- **Retrieve MOA from DrugBank**: Once the DrugBank ID is confirmed, pull `pharmacodynamics`, `mechanism-of-action`, and `categories` fields via the DrugBank API.
-- **Download package insert PDF**: Obtain the NPRA-approved package insert to extract approved indications, key warnings, and contraindications. This is flagged as a **Blocking** data gap (DG001).
-- **Re-run Evidence Pack generation** after the above four items are completed to produce a full L1–L5 evidence-graded report.
+---
+
+## Sitotoksisitas
+
+Acalabrutinib adalah terapi antineoplastik tersasaran. Berikut ini berlaku menunggu pengambilan vademekum lengkap:
+
+| Item | Konten |
+|------|--------|
+| Klasifikasi Sitotoksisitas | Terapi tersasaran — penghambat BTK kovalen |
+| Risiko Supresi Sumsum Tulang | Silakan lihat peringatan dan tindakan pencegahan vademekum |
+| Klasifikasi Emetogenisitas | Rendah (khas untuk agen penghambat kecil oral tersasaran) |
+| Item Pemantauan | CBC dengan diferensial, tes fungsi hati, fungsi ginjal |
+| Perlindungan Penanganan | Ikuti protokol penanganan obat sitotoksik institusional |
+
+---
+
+## Pertimbangan Keselamatan
+
+Silakan lihat vademekum untuk informasi keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Selanjutnya
+
+**Keputusan: Tahan**
+
+**Alasan:**
+Saluran pipa prediksi TxGNN tidak menghasilkan indikasi yang terskor apa pun karena ID DrugBank yang hilang, dan semua detail keselamatan dan indikasi dari catatan regulasi tidak ada — Paket Bukti ini tidak berisi data yang cukup untuk mendukung penilaian penggunaan kembali.
+
+**Untuk melanjutkan, berikut yang diperlukan:**
+
+- **Selesaikan pemetaan ID DrugBank**: Kueri DrugBank untuk "acalabrutinib" (INN bentuk bebas); bentuk garam maleate mungkin tidak cocok secara langsung. ID yang diharapkan: DB12116. Jalankan ulang `scripts/run_kg_prediction.py` setelah pemetaan.
+- **Urai ulang catatan lisensi NPRA**: Kueri NPRA mengembalikan 1 hasil tetapi semua bidang kosong. Tinjau respons mentah dalam `data/raw/malaysia_fda_drugs.json` dan perbaiki ekstraksi bidang dalam `scripts/process_fda_data.py`.
+- **Ambil MOA dari DrugBank**: Setelah ID DrugBank dikonfirmasi, tarik bidang `pharmacodynamics`, `mechanism-of-action`, dan `categories` melalui API DrugBank.
+- **Unduh PDF vademekum**: Dapatkan vademekum yang disetujui NPRA untuk mengekstrak indikasi yang disetujui, peringatan utama, dan kontraindikasi. Ini ditandai sebagai kesenjangan data **Pemblokiran** (DG001).
+- **Jalankan ulang pembuatan Paket Bukti** setelah empat item di atas diselesaikan untuk menghasilkan laporan grading bukti penuh L1–L5.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

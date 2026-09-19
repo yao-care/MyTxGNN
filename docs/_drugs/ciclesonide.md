@@ -29,79 +29,80 @@ Tahap bukti: **L5** | Indikasi diramal: **6**
 
 </div>
 
-# Ciclesonide: From Inhaled Corticosteroid Therapy to Atopic Eczema
+# Ciclesonide: Daripada Terapi Kortikosteroid Inhalasi kepada Eksim Atopik
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-> Ciclesonide is a corticosteroid prodrug marketed in Malaysia as an inhaled/intranasal formulation (no NPRA indication text is available in the current dataset, but ciclesonide is an established inhaled corticosteroid, e.g. Alvesco/Omnaris, for asthma and allergic rhinitis).
-> The TxGNN model predicts it may be effective for **Atopic Eczema**,
-> with **no clinical trials** and **no publications** currently supporting this specific indication — the prediction stands on mechanism alone, and a route-of-administration mismatch (no topical dermatological formulation exists) needs to be resolved before this can advance.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not specified in NPRA license records provided (ciclesonide is a known inhaled corticosteroid, typically indicated for asthma/allergic rhinitis) |
-| Predicted New Indication | Atopic Eczema |
-| TxGNN Prediction Score | 99.96% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 5 |
-| Recommended Decision | Hold |
+> Ciclesonide adalah prodrug kortikosteroid yang dipasarkan di Malaysia dalam formulasi inhalasi/intranasal (tiada teks petunjuk NPRA tersedia dalam set data semasa, tetapi ciclesonide adalah kortikosteroid inhalasi yang mantap, cth. Alvesco/Omnaris, untuk asma dan rinitis alergik).
+> Model TxGNN meramalkan ia mungkin berkesan untuk **Eksim Atopik**,
+> dengan **tiada ujian klinikal** dan **tiada penerbitan** yang kini menyokong petunjuk khusus ini — ramalan itu berdiri pada mekanisme sahaja, dan ketidakpadanan laluan pemberian ubat (tiada formulasi topikal dermatologi wujud) perlu diselesaikan sebelum ini dapat maju.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Pantas
 
-Detailed mechanism-of-action data for ciclesonide is not available in this dataset (flagged as a High-severity data gap). Based on known information, ciclesonide is an inhaled corticosteroid prodrug: after deposition in the lung it is activated by esterases to des-ciclesonide, which binds the glucocorticoid receptor and suppresses airway inflammation. This is the shared mechanism of the inhaled corticosteroid (ICS) class rather than evidence specific to ciclesonide.
-
-The proposed link to atopic eczema rests entirely on this same anti-inflammatory glucocorticoid mechanism — corticosteroids are, in general, effective for atopic dermatitis when applied topically. However, the evidence pack explicitly flags a critical gap between mechanism and feasibility: **ciclesonide currently exists only as an inhaled and intranasal formulation, with no approved topical/dermatological product.** Without a skin-appropriate formulation, the mechanistic plausibility cannot translate into a deliverable therapy as-is, and this prediction should be read as a class-level hypothesis rather than an actionable, drug-specific signal.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered
-
----
-
-## Literature Evidence
-
-Currently no related literature available
-
-*Note: No clinical trials or publications were found specifically studying ciclesonide in atopic eczema/dermatitis. This ranks the prediction at L5 (model prediction only).*
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Tidak ditentukan dalam rekod lesen NPRA yang disediakan (ciclesonide adalah kortikosteroid inhalasi yang diketahui, biasanya ditunjuk untuk asma/rinitis alergik) |
+| Petunjuk Baru yang Diramalkan | Eksim Atopik |
+| Skor Ramalan TxGNN | 99.96% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 5 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Malaysia Market Information
+## Mengapa Ramalan Ini Munasabah?
 
-Five NPRA licenses are on record for ciclesonide (market status: ✓ Marketed), but the license number, product name, dosage form, manufacturer, and approved indication text were not populated in the current dataset for any of the 5 entries. Retrieving the underlying NPRA/label PDFs is needed before this information can be reported.
+Data mekanisme tindakan terperinci untuk ciclesonide tidak tersedia dalam set data ini (ditandai sebagai jurang data berseveriti tinggi). Berdasarkan maklumat yang diketahui, ciclesonide adalah prodrug kortikosteroid inhalasi: selepas pemendapan di paru-paru ia diaktifkan oleh esteras kepada des-ciclesonide, yang mengikat reseptor glukokortikoid dan menekan radang saluran udara. Ini adalah mekanisme bersama kelas kortikosteroid inhalasi (KI) dan bukannya bukti khusus kepada ciclesonide.
 
----
-
-## Safety Considerations
-
-No structured TFDA/NPRA key warnings, contraindications, or drug-interaction data are currently available for ciclesonide (DG001, Blocking severity — retrieval of the official label PDF is pending).
-
-**Literature safety signal (class-relevant):** A case report (PMID [22957490](https://pubmed.ncbi.nlm.nih.gov/22957490/), *Contact Dermatitis*, 2012) describes systemic allergic dermatitis caused by inhaled budesonide, with cross-reactivity to ciclesonide confirmed on patch testing. This is a drug-*causing*-dermatitis safety signal for the ICS class, not evidence of ciclesonide treating dermatitis — but it is directly relevant here: it suggests ICS-class corticosteroids, including ciclesonide, carry a documented (if rare) risk of contact/systemic allergic dermatitis via cross-reactivity, which warrants specific attention if a dermatological repurposing pathway is ever pursued.
+Pautan yang dicadangkan kepada eksim atopik bergantung sepenuhnya pada mekanisme anti-radang glukokortikoid yang sama — kortikosteroid, secara umum, berkesan untuk dermatitis atopik apabila digunakan secara topikal. Walau bagaimanapun, pek bukti secara jelas menandai jurang kritikal antara mekanisme dan kebolehlaksanaan: **ciclesonide kini wujud hanya dalam formulasi inhalasi dan intranasal, tanpa produk topikal/dermatologi yang diluluskan.** Tanpa formulasi yang sesuai untuk kulit, kemusykilan mekanistik tidak dapat diterjemahkan kepada terapi yang boleh dihantar sebaik adanya, dan ramalan ini harus dibaca sebagai hipotesis tahap kelas dan bukannya isyarat khusus ubat yang boleh ditindakkan.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Ujian Klinikal
 
-**Decision: Hold**
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan
 
-**Rationale:**
-The atopic eczema prediction has no supporting clinical trials or literature (L5, model-prediction-only) and a formulation/route mismatch that the mechanistic rationale itself identifies as unresolved. Combined with a Blocking-severity gap in TFDA/NPRA safety labeling data (DG001), this candidate cannot yet enter even initial (S1) safety screening.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA label PDF (key warnings, contraindications, DDI) to close DG001 and unblock S1 safety screening
-- Confirmed DrugBank MOA record to close DG002
-- A feasibility assessment of whether a topical/dermatological ciclesonide formulation exists or is developable, since none is currently marketed
-- Preclinical or mechanistic studies specific to atopic dermatitis, given the corticosteroid class carries a documented cross-reactive allergic dermatitis risk (PMID 22957490)
-- For context: a related candidate, **bronchitis** (rank 4, L4, decision stage S1, "Research Question"), is mechanistically closer to ciclesonide's existing respiratory use and has at least guideline-level literature support — it may be a more tractable next candidate to investigate than atopic eczema.
+## Bukti Literatur
+
+Pada masa ini tiada literatur berkaitan tersedia
+
+*Nota: Tiada ujian klinikal atau penerbitan ditemui secara khusus mengkaji ciclesonide dalam eksim atopik/dermatitis. Ini meletakkan ramalan pada L5 (ramalan model sahaja).*
+
+---
+
+## Maklumat Pasaran Malaysia
+
+Lima lesen NPRA terdapat dalam rekod untuk ciclesonide (status pasaran: ✓ Dipasarkan), tetapi nombor lesen, nama produk, bentuk dos, pengilang, dan teks petunjuk yang diluluskan tidak diisi dalam set data semasa untuk mana-mana 5 penyertaan. Pengambilan PDF label NPRA/asli diperlukan sebelum maklumat ini dapat dilaporkan.
+
+---
+
+## Pertimbangan Keselamatan
+
+Tiada data amaran kunci berstruktur TFDA/NPRA, kontraindikasi, atau interaksi ubat kini tersedia untuk ciclesonide (DG001, keterukan penghadang — pengambilan PDF label rasmi masih belum selesai).
+
+**Isyarat keselamatan literatur (relevan kelas):** Satu laporan kes (PMID [22957490](https://pubmed.ncbi.nlm.nih.gov/22957490/), *Contact Dermatitis*, 2012) menerangkan dermatitis alergik sistemik yang disebabkan oleh budesonide inhalasi, dengan reaktiviti silang kepada ciclesonide disahkan pada ujian tampalan. Ini adalah isyarat keselamatan dermatitis yang disebabkan ubat untuk kelas KI, bukan bukti ciclesonide merawat dermatitis — tetapi ia relevan secara langsung di sini: ia mencadangkan kortikosteroid kelas KI, termasuk ciclesonide, membawa risiko dermatitis alergik kontak/sistemik yang terdokumen (jika jarang) melalui reaktiviti silang, yang memerlukan perhatian khusus jika laluan repurposing dermatologi pernah ditarik.
+
+---
+
+## Kesimpulan dan Langkah Berikutnya
+
+**Keputusan: Tahan**
+
+**Nisbah:**
+Ramalan eksim atopik tidak mempunyai ujian klinikal atau literatur sokongan (L5, ramalan model sahaja) dan ketidakpadanan formulasi/laluan yang nisbah mekanistik itu sendiri mengenal pasti sebagai belum diselesaikan. Digabungkan dengan jurang data keselamatan berseveriti penghadang TFDA/NPRA (DG001), calon ini belum dapat memasuki pemeriksaan keselamatan awal pun (S1).
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- PDF label TFDA/NPRA (amaran kunci, kontraindikasi, DDI) untuk menutup DG001 dan membuka pemeriksaan keselamatan S1
+- Rekod MOA DrugBank yang disahkan untuk menutup DG002
+- Penilaian kebolehlaksanaan sama ada formulasi ciclesonide topikal/dermatologi wujud atau boleh dibangunkan, kerana tiada yang dipasarkan pada masa ini
+- Kajian pra-klinikal atau mekanistik khusus kepada dermatitis atopik, memandangkan kelas kortikosteroid membawa risiko dermatitis alergik reaktiviti silang yang terdokumen (PMID 22957490)
+- Untuk konteks: calon berkaitan, **bronkitis** (kedudukan 4, L4, tahap keputusan S1, "Soalan Penyelidikan"), adalah secara mekanistik lebih dekat dengan penggunaan respiratori sedia ada ciclesonide dan mempunyai sekurang-kurangnya sokongan literatur tahap garis panduan — ia mungkin calon berikutnya yang lebih mudah diselesaikan untuk diselidik daripada eksim atopik.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

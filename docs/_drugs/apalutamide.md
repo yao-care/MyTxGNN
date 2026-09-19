@@ -29,110 +29,111 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Apalutamide: Androgen Receptor Inhibitor — Insufficient Data for Repurposing Evaluation
+# Apalutamide: Inhibitor Reseptor Androgen — Data Tidak Mencukupi untuk Penilaian Repurposing
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Apalutamide (Erleada®) is a non-steroidal androgen receptor (AR) signaling inhibitor approved for prostate cancer treatment, currently marketed in Malaysia under one registered licence.
-However, **the current Evidence Pack contains no TxGNN-predicted new indications**, and critical data fields — including approved indication text, mechanism of action details, and safety warnings — are absent or incomplete.
-As a result, **a full repurposing evaluation cannot be completed at this stage**; the recommended decision is **Hold** pending data remediation.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Prostate cancer (based on known pharmacological class; approved indication text not retrieved from this Evidence Pack) |
-| Predicted New Indication | — No TxGNN prediction available |
-| TxGNN Prediction Score | — Not applicable |
-| Evidence Level | L5 (model prediction not available; no supporting studies retrievable from this pack) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | **Hold** |
+Apalutamide (Erleada®) ialah inhibitor pensinyalan reseptor androgen (AR) bukan steroid yang diluluskan untuk rawatan kanser prostat, kini dipasarkan di Malaysia di bawah satu lesen terdaftar.
+Namun, **Evidence Pack semasa tidak mengandungi indikasi baru yang diramalkan TxGNN**, dan medan data kritikal — termasuk teks indikasi yang diluluskan, butiran mekanisme tindakan, dan amaran keselamatan — tidak ada atau tidak lengkap.
+Akibatnya, **penilaian repurposing penuh tidak dapat diselesaikan pada peringkat ini**; keputusan yang disyorkan ialah **Hold** menunggu pemulihan data.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Pandangan Umum Cepat
 
-No TxGNN-predicted new indication is present in the Evidence Pack (`predicted_indications: []`). Therefore, a mechanistic repurposing hypothesis cannot be formally evaluated at this time.
-
-For background context: Apalutamide is a small-molecule androgen receptor inhibitor that binds directly to the ligand-binding domain of AR, blocking nuclear translocation, DNA binding, and transcriptional activation of androgen-responsive genes. It belongs to the same pharmacological class as enzalutamide and darolutamide. Its established efficacy in hormone-sensitive and castration-resistant prostate cancer is well documented in the SPARTAN and TITAN Phase 3 trials.
-
-Currently, detailed mechanism of action data is not available in the Evidence Pack. Pending completion of DrugBank MOA data retrieval (Data Gap DG002) and TxGNN scoring, a formal mechanistic bridge to any candidate new indication cannot be constructed.
-
----
-
-## Clinical Trial Evidence
-
-No TxGNN-predicted indication is available; therefore, targeted clinical trial evidence cannot be retrieved from the Evidence Pack.
-
-Currently no related clinical trials are linked to a repurposing prediction for this candidate.
+| Item | Kandungan |
+|------|-----------|
+| Indikasi Asal | Kanser prostat (berdasarkan kelas farmakologi yang diketahui; teks indikasi yang diluluskan tidak diambil dari Evidence Pack ini) |
+| Indikasi Baru yang Diramalkan | — Tiada ramalan TxGNN tersedia |
+| Skor Ramalan TxGNN | — Tidak terpakai |
+| Tahap Bukti | L5 (ramalan model tidak tersedia; tiada kajian sokongan yang boleh diambil dari pak ini) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | **Hold** |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature is available for a repurposing prediction in this Evidence Pack.
+Tiada indikasi baru yang diramalkan TxGNN hadir dalam Evidence Pack (`predicted_indications: []`). Oleh itu, hipotesis repurposing mekanik tidak dapat dinilai secara formal pada masa ini.
+
+Untuk konteks latar belakang: Apalutamide ialah inhibitor reseptor androgen molekul kecil yang mengikat terus ke domain pengikat ligan AR, menghalang translokas nukleus, pengikat DNA, dan pengaktifan transkripsi gen yang responsif androgen. Ia tergolong dalam kelas farmakologi yang sama seperti enzalutamide dan darolutamide. Keberkesan yang telah terbukti dalam kanser prostat sensitif hormon dan yang resistan kastrasion didokumenkan dengan baik dalam ujian Fasa 3 SPARTAN dan TITAN.
+
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia dalam Evidence Pack. Menunggu penyelesaian pengambilan data MOA DrugBank (Data Gap DG002) dan pemarkahan TxGNN, jambatan mekanik formal kepada sebarang indikasi calon baru tidak dapat dibina.
 
 ---
 
-## Malaysia Market Information
+## Bukti Ujian Klinikal
 
-The Evidence Pack confirms 1 registered licence in Malaysia; however, all licence detail fields (licence number, product name, dosage form, manufacturer, approved indication text) were returned as empty strings and could not be populated.
+Tiada indikasi yang diramalkan TxGNN tersedia; oleh itu, bukti ujian klinikal yang disasarkan tidak dapat diambil dari Evidence Pack.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+Pada masa ini tiada ujian klinikal yang berkaitan dipautkan kepada ramalan repurposing untuk calon ini.
+
+---
+
+## Bukti Kesusasteraan
+
+Pada masa ini tiada kesusasteraan yang berkaitan tersedia untuk ramalan repurposing dalam Evidence Pack ini.
+
+---
+
+## Maklumat Pasaran Malaysia
+
+Evidence Pack mengesahkan 1 lesen terdaftar di Malaysia; bagaimanapun, semua medan butiran lesen (nombor lesen, nama produk, bentuk dos, pengilang, teks indikasi yang diluluskan) telah dikembalikan sebagai rentetan kosong dan tidak dapat diisi.
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
 |---------------------|-------------|-------------|---------------------|
-| — (not retrieved) | — (not retrieved) | — (not retrieved) | — (not retrieved) |
+| — (tidak diambil) | — (tidak diambil) | — (tidak diambil) | — (tidak diambil) |
 
-> **Action required**: Download the NPRA product registration record to populate all licence fields.
-
----
-
-## Cytotoxicity
-
-Apalutamide is an **antiandrogen / androgen receptor signaling inhibitor** — it is classified as a targeted antineoplastic agent, not a conventional cytotoxic.
-
-| Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Targeted therapy — non-steroidal androgen receptor inhibitor (not a conventional cytotoxic/DNA-damaging agent) |
-| Myelosuppression Risk | Low (AR inhibitors do not typically cause significant myelosuppression; haematological monitoring still recommended) |
-| Emetogenicity Classification | Minimal to low |
-| Monitoring Items | CBC, liver function tests (LFTs), thyroid function (hypothyroidism reported), falls/fracture risk assessment, seizure history |
-| Handling Protection | Follows standard oral antineoplastic handling precautions; avoid crushing tablets; use gloves when handling |
+> **Tindakan diperlukan**: Muat turun rekod pendaftaran produk NPRA untuk mengisi semua medan lesen.
 
 ---
 
-## Safety Considerations
+## Sitotoksisiti
 
-Key warnings and contraindications were not retrievable from the current Evidence Pack (Data Gap DG001 — TFDA package insert not parsed). No drug–drug interaction data was found in the DDI query.
+Apalutamide ialah **antiandrogen / inhibitor pensinyalan reseptor androgen** — ia diklasifikasikan sebagai ejen antineoplastik tersasaran, bukan sitotoksik konvensional.
 
-Please refer to the approved Malaysian package insert and the Erleada® prescribing information for complete safety information, including:
-
-- Seizure risk (particularly in patients with predisposing factors)
-- Falls and fractures
-- Cardiovascular events
-- Hypothyroidism
-- Embryo-foetal toxicity (contraindicated in females of reproductive potential)
-- Strong CYP3A4 and CYP2C19 induction (clinically significant DDI potential, despite `not_found` status in automated DDI query — manual review is essential)
+| Item | Kandungan |
+|------|-----------|
+| Klasifikasi Sitotoksisiti | Terapi tersasaran — inhibitor reseptor androgen bukan steroid (bukan ejen sitotoksik/perosak DNA konvensional) |
+| Risiko Supresi Sumsum Tulang | Rendah (inhibitor AR biasanya tidak menyebabkan supresi sumsum tulang yang ketara; pemantauan hematologi masih disyorkan) |
+| Klasifikasi Emetogenisiti | Minimum hingga rendah |
+| Perkara Pemantauan | CBC, ujian fungsi hati (LFTs), fungsi tiroid (hipotiroidisme dilaporkan), penilaian risiko jatuh/patah tulang, sejarah sawan |
+| Perlindungan Pengendalian | Mengikuti langkah perawatan antineoplastik oral standard; hindari penghancuran tablet; gunakan sarung tangan semasa mengendalikan |
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Amaran kunci dan kontraindikasi tidak dapat diambil dari Evidence Pack semasa (Data Gap DG001 — sisipan pakej TFDA tidak diuraikan). Tiada data interaksi ubat-ubatan ditemui dalam pertanyaan DDI.
 
-**Rationale:**
-The Evidence Pack for Apalutamide (DB11901) is currently insufficient to support a repurposing evaluation: the `predicted_indications` array is empty, approved indication text was not retrieved, mechanism of action data is absent, and safety warnings/contraindications have not been parsed. No recommendation can be made without at minimum a TxGNN prediction score and a candidate new indication.
+Sila rujuk sisipan pakej Malaysia yang diluluskan dan maklumat preskripsi Erleada® untuk maklumat keselamatan yang lengkap, termasuk:
 
-**To proceed, the following is needed:**
+- Risiko sawan (terutamanya pada pesakit dengan faktor predisposisi)
+- Jatuh dan patah tulang
+- Peristiwa kardiovaskular
+- Hipotiroidisme
+- Toksisiti embriofoetal (dikontraindikasikan pada wanita dengan potensi reproduktif)
+- Aruhan CYP3A4 dan CYP2C19 yang kuat (potensi DDI yang bermakna secara klinikal, walaupun status `not_found` dalam pertanyaan DDI automatik — semakan manual adalah penting)
 
-- [ ] **DG001 (Blocking)** — Download and parse the TFDA/NPRA package insert PDF to extract approved indication text, key warnings, and contraindications
-- [ ] **DG002 (High)** — Query DrugBank API to retrieve mechanism of action (MOA) for DB11901
-- [ ] **Re-run TxGNN prediction pipeline** — Confirm that Apalutamide (DB11901) is included in the KG prediction run and that `repurposing_candidates.csv` contains scored disease candidates
-- [ ] **Populate licence details** — Retrieve full NPRA registration record (licence number, product name, dosage form, manufacturer)
-- [ ] **Manual DDI review** — Despite the automated `not_found` result, Apalutamide is a potent CYP3A4/2C19/P-gp inducer; a manual DDI review against common co-medications is required before any repurposing protocol is initiated
-- [ ] **Re-generate Evidence Pack** — Once DG001 and DG002 are resolved and TxGNN predictions are available, reissue Evidence Pack v5 for full evaluation
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Hold**
+
+**Alasan:**
+Evidence Pack untuk Apalutamide (DB11901) pada masa ini tidak mencukupi untuk menyokong penilaian repurposing: tatasusunan `predicted_indications` kosong, teks indikasi yang diluluskan tidak diambil, data mekanisme tindakan hilang, dan amaran keselamatan/kontraindikasi belum diuraikan. Tiada saranan boleh diberikan tanpa sekurang-kurangnya skor ramalan TxGNN dan indikasi calon baru.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+
+- [ ] **DG001 (Menyekat)** — Muat turun dan uraikan PDF sisipan pakej TFDA/NPRA untuk mengekstrak teks indikasi yang diluluskan, amaran kunci, dan kontraindikasi
+- [ ] **DG002 (Tinggi)** — Pertanyaan API DrugBank untuk mendapatkan mekanisme tindakan (MOA) untuk DB11901
+- [ ] **Jalankan semula saluran ramalan TxGNN** — Sahkan bahawa Apalutamide (DB11901) disertakan dalam pelaksanaan ramalan KG dan bahawa `repurposing_candidates.csv` mengandungi calon penyakit yang diskorkan
+- [ ] **Isi butiran lesen** — Ambil rekod pendaftaran NPRA penuh (nombor lesen, nama produk, bentuk dos, pengilang)
+- [ ] **Semakan DDI manual** — Walaupun keputusan automatik `not_found`, Apalutamide ialah inducer CYP3A4/2C19/P-gp yang kuat; semakan DDI manual terhadap ubat-ubatan bersama yang biasa diperlukan sebelum sebarang protokol repurposing dimulakan
+- [ ] **Jana semula Evidence Pack** — Setelah DG001 dan DG002 diselesaikan dan ramalan TxGNN tersedia, keluarkan semula Evidence Pack v5 untuk penilaian penuh
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

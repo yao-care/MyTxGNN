@@ -29,62 +29,63 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Sotatercept: From Pulmonary Arterial Hypertension to Acute Lymphoblastic Leukemia
+# Sotatercept: Dari Hipertensi Arteri Pulmonal hingga Leukemia Limfoblastik Akut
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Sotatercept is an ActRIIA-Fc fusion protein ("ligand trap") whose established pharmacology centers on pulmonary vascular remodeling in pulmonary arterial hypertension (PAH) and on bone metabolism. The TxGNN model predicts a possible link to **acute lymphoblastic leukemia (ALL)**, but this is a **model-only signal (L5)** — no clinical trials or publications currently support it, and the underlying mechanistic note itself flags the connection as weak and possibly a prediction artifact.
+Sotatercept adalah protein fusi ActRIIA-Fc ("perangkap ligan") yang farmakologinya yang telah ditetapkan berpusat pada remodeling vaskular paru dalam hipertensi arteri pulmonal (PAH) dan pada metabolisme tulang. Model TxGNN memprediksi kemungkinan hubungan dengan **leukemia limfoblastik akut (ALL)**, tetapi ini adalah **sinyal hanya-model (L5)** — tidak ada uji klinis atau publikasi yang mendukungnya saat ini, dan catatan mekanis yang mendasar itu sendiri menandai koneksi sebagai lemah dan mungkin merupakan artefak prediksi.
 
-## Quick Overview
+## Tinjauan Cepat
 
-| Item | Content |
-|------|------|
-| Original Indication | Pulmonary Arterial Hypertension (PAH) — inferred from mechanistic notes in this evidence pack; formal NPRA label indication text was not available (blocking data gap) |
-| Predicted New Indication | Acute Lymphoblastic Leukemia (disease) |
-| TxGNN Prediction Score | 99.78% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
-| Recommended Decision | Hold |
+| Item | Konten |
+|------|--------|
+| Indikasi Asli | Hipertensi Arteri Pulmonal (PAH) — disimpulkan dari catatan mekanis dalam paket bukti ini; teks indikasi label NPRA formal tidak tersedia (celah data pemblokiran) |
+| Indikasi Baru yang Diprediksi | Leukemia Limfoblastik Akut (penyakit) |
+| Skor Prediksi TxGNN | 99.78% |
+| Tingkat Bukti | L5 |
+| Status Pasar Malaysia | ✓ Dipasarkan |
+| Jumlah Registrasi | 2 |
+| Rekomendasi Keputusan | Tunda |
 
-## Why is This Prediction Reasonable?
+## Mengapa Prediksi Ini Masuk Akal?
 
-Formal mechanism-of-action data was not returned for this drug (data gap). Based on the mechanistic notes attached to this evidence pack, Sotatercept is an ActRIIA-Fc fusion protein that traps Activin A/B and GDF8/11 (TGF-β superfamily ligands), inhibiting SMAD2/3 signaling. This pathway underlies its established use in pulmonary vascular remodeling (PAH) and its effects on hematopoiesis/bone metabolism — the same superfamily targeted by the related ligand-trap luspatercept, which is approved for anemia in myelodysplastic syndrome.
+Data mekanisme-aksi formal tidak dikembalikan untuk obat ini (celah data). Berdasarkan catatan mekanis yang terlampir pada paket bukti ini, sotatercept adalah protein fusi ActRIIA-Fc yang menjebak Activin A/B dan GDF8/11 (ligan superfamili TGF-β), menghambat signaling SMAD2/3. Jalur ini mendasari penggunaannya yang telah ditetapkan dalam remodeling vaskular paru (PAH) dan efeknya pada hematopoiesis/metabolisme tulang — superfamili yang sama ditargetkan oleh perangkap ligan terkait luspatercept, yang disetujui untuk anemia dalam sindrom mielodisplastik.
 
-For the top-ranked prediction, ALL, the evidence pack's own rationale is explicitly skeptical: Activin/GDF signaling relates to red-cell production and the bone-marrow microenvironment, but this is a hematopoietic *regulatory* mechanism, not a pathway with a direct link to the malignant lymphoblast proliferation that drives ALL. No clinical or literature evidence corroborates the connection, and the source note itself assesses this as a mechanistically weak link with a high likelihood of being TxGNN prediction noise rather than a genuine pharmacological signal.
+Untuk prediksi peringkat teratas, ALL, rasional paket bukti sendiri secara eksplisit skeptis: signaling Activin/GDF berkaitan dengan produksi sel merah dan mikrolingkungan sumsum tulang, tetapi ini adalah mekanisme hematopoietik *regulasi*, bukan jalur dengan hubungan langsung dengan proliferasi limfoblas ganas yang mendorong ALL. Tidak ada bukti klinis atau literatur yang mendukung koneksi, dan catatan sumber itu sendiri menilai ini sebagai hubungan mekanis lemah dengan kemungkinan tinggi bahwa ini adalah kebisingan prediksi TxGNN daripada sinyal farmakologis yang genuine.
 
-In short, the biological rationale for Sotatercept's known indications is coherent, but its extension to ALL specifically is not well supported and should be treated as a low-confidence, exploratory signal only.
+Singkatnya, rasional biologis untuk indikasi yang diketahui sotatercept koheren, tetapi perluasannya ke ALL khususnya tidak didukung dengan baik dan harus diperlakukan sebagai sinyal eksplorasi berkonfiden rendah saja.
 
-## Clinical Trial Evidence
+## Bukti Uji Klinis
 
-Currently no related clinical trials registered.
+Saat ini tidak ada uji klinis terkait yang terdaftar.
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no related literature available.
+Saat ini tidak ada literatur terkait yang tersedia.
 
-## Malaysia Market Information
+## Informasi Pasar Malaysia
 
-Sotatercept is recorded as marketed in Malaysia with **2 active registrations** (NPRA, market status: Marketed). Per-license details (authorization number, product name, dosage form, approved indication text) were not returned in this data extract, so no license-level table can be presented at this time.
+Sotatercept dicatat sebagai dipasarkan di Malaysia dengan **2 registrasi aktif** (NPRA, status pasar: Dipasarkan). Detail tingkat lisensi (nomor otorisasi, nama produk, bentuk dosis, teks indikasi yang disetujui) tidak dikembalikan dalam ekstrak data ini, sehingga tabel tingkat lisensi tidak dapat disajikan pada waktu ini.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Silakan lihat lembar fakta kemasan untuk informasi keselamatan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Selanjutnya
 
-**Decision: Hold**
+**Keputusan: Tunda**
 
-**Rationale:**
-The ALL prediction rests solely on a TxGNN topological score (L5) with zero supporting clinical trials or publications, and the mechanistic rationale supplied with the evidence pack itself rates the drug–disease link as weak and possibly noise. Separately, TFDA/NPRA label data (warnings/contraindications) is a **blocking** gap that prevents even an initial (S1) safety assessment, regardless of the strength of the efficacy signal.
+**Rasional:**
+Prediksi ALL sepenuhnya bertumpu pada skor topologi TxGNN (L5) tanpa uji klinis atau publikasi pendukung, dan rasional mekanis yang disediakan dengan paket bukti itu sendiri menilai hubungan obat–penyakit sebagai lemah dan kemungkinan kebisingan. Secara terpisah, data label TFDA/NPRA (peringatan/kontraindikasi) adalah celah **pemblokiran** yang mencegah bahkan penilaian keselamatan awal (S1), terlepas dari kekuatan sinyal efikasi.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert (warnings, contraindications) — required before any S1 safety review
-- Confirmed DrugBank mechanism-of-action record
-- Preclinical or mechanistic studies specifically linking Activin/GDF signaling to ALL pathophysiology
-- Complete license-level detail (product names, dosage forms, approved indication text) for the 2 Malaysia registrations
+**Untuk melanjutkan, hal berikut diperlukan:**
+- Lembar fakta kemasan TFDA/NPRA (peringatan, kontraindikasi) — diperlukan sebelum tinjauan keselamatan S1
+- Catatan mekanisme-aksi DrugBank yang dikonfirmasi
+- Studi prekliniks atau mekanis yang secara khusus menghubungkan signaling Activin/GDF dengan patofisiologi ALL
+- Detail tingkat lisensi lengkap (nama produk, bentuk dosis, teks indikasi yang disetujui) untuk 2 registrasi Malaysia
 
-Note: all 10 TxGNN-predicted indications for this drug (including ALL) are currently rated L5/Hold — none has clinical or literature support in this evidence pack.
+Catatan: semua 10 indikasi yang diprediksi TxGNN untuk obat ini (termasuk ALL) saat ini dinilai L5/Tunda — tidak ada satupun yang memiliki dukungan klinis atau literatur dalam paket bukti ini.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

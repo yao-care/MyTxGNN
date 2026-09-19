@@ -29,78 +29,79 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Levofloxacin: From Bacterial Infections to Monoclonal Gammopathy
+# Levofloxacin: Daripada Jangkitan Bakteria kepada Gammopati Monoklonal
 
-> **Note on indication selection:** The Evidence Pack contains 10 TxGNN-predicted indications for Levofloxacin. The single highest-scoring one (*punctate epithelial keratoconjunctivitis*, rank 1) is supported only by one loosely related case series about a **parasitic** (microsporidial) eye infection outbreak — not a levofloxacin efficacy study — so it does not support a credible repurposing claim. This report instead profiles **monoclonal gammopathy** (rank 7), which has the strongest and most decision-ready evidence in the pack (a completed Phase 3 RCT plus multiple supporting cohort studies). A second strong candidate, *septicemic plague* (already FDA-approved abroad via the Animal Rule), is summarized in the conclusion.
+> **Nota tentang pemilihan indikasi:** Pakej Bukti mengandungi 10 indikasi ramalan TxGNN untuk Levofloxacin. Yang paling tinggi skor tunggal (*keratokonjungtivitis epitelial punktat*, pangkat 1) disokong hanya oleh satu siri kes yang longgar berkaitan dengan jangkitan mata **parasit** (microsporidial) — bukan kajian keberkesanan levofloxacin — jadi ia tidak menyokong tuntutan repurposing yang boleh dipercayai. Laporan ini sebaliknya memprofil **gammopati monoklonal** (pangkat 7), yang mempunyai bukti paling kuat dan paling siap untuk keputusan dalam pakej (RCT Fasa 3 yang telah selesai ditambah pelbagai kajian kohort sokongan). Calon kuat kedua, *wabak taun septikemia* (sudah diluluskan FDA di luar negara melalui Peraturan Haiwan), diringkaskan dalam kesimpulan.
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Levofloxacin is a broad-spectrum fluoroquinolone antibiotic. The TxGNN model predicts a beneficial association with **Monoclonal Gammopathy** (including newly diagnosed multiple myeloma) — not as a disease-modifying treatment, but as **antibacterial prophylaxis** to reduce infection-related morbidity and mortality in these immunocompromised patients — supported by **1 completed Phase 3 RCT** and **~20 related publications**.
+Levofloxacin ialah antibiotik fluorokuinolon spektrum luas. Model TxGNN meramalkan persatuan yang bermanfaat dengan **Gammopati Monoklonal** (termasuk mieloma berbilang yang baru didiagnosis) — bukan sebagai rawatan pengubah penyakit, tetapi sebagai **profilaksis antibakteria** untuk mengurangkan morbiditi dan mortaliti berkaitan jangkitan pada pesakit imunokompromis ini — disokong oleh **1 RCT Fasa 3 yang telah selesai** dan **~20 penerbitan berkaitan**.
 
-## Quick Overview
+## Gambaran Keseluruhan Cepat
 
-| Item | Content |
-|------|------|
-| Original Indication | Bacterial infections (general fluoroquinolone antibiotic use); specific TFDA/NPRA-approved indication text is not available in this Evidence Pack (Data Gap) |
-| Predicted New Indication | Monoclonal Gammopathy (infection prophylaxis in myeloma) |
-| TxGNN Prediction Score | 99.81% |
-| Evidence Level | L2 (1 completed Phase 2/3 RCT — TEAMM trial; the Pack's internal tag shows "L1," but per this report's determination rule, L1 requires ≥2 completed Phase 3 RCTs, so L2 is used here) |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 19 |
-| Recommended Decision | Proceed with Guardrails |
+| Item | Kandungan |
+|------|---------|
+| Indikasi Asal | Jangkitan bakteria (kegunaan antibiotik fluorokuinolon umum); teks indikasi yang diluluskan TFDA/NPRA tertentu tidak tersedia dalam Pakej Bukti ini (Jurang Data) |
+| Indikasi Baru Ramalan | Gammopati Monoklonal (profilaksis jangkitan dalam mieloma) |
+| Skor Ramalan TxGNN | 99.81% |
+| Tahap Bukti | L2 (1 RCT Fasa 2/3 yang telah selesai — ujian TEAMM; tanda dalaman Pakej menunjukkan "L1," tetapi menurut peraturan penentuan laporan ini, L1 memerlukan ≥2 RCT Fasa 3 yang telah selesai, jadi L2 digunakan di sini) |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 19 |
+| Keputusan Yang Disyorkan | Teruskan dengan Pengaman |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data is not available (flagged as a High-severity Data Gap). Based on known pharmacology, Levofloxacin is a fluoroquinolone antibiotic (DNA gyrase / topoisomerase IV inhibitor) whose bactericidal efficacy across common bacterial infections is well established.
+Pada masa ini, data mekanisme tindakan yang terperinci tidak tersedia (ditandai sebagai Jurang Data Keterukan Tinggi). Berdasarkan farmakologi yang diketahui, Levofloxacin ialah antibiotik fluorokuinolon (penyekat DNA gyrase / topoisomerase IV) yang keberkesanan bakterisida merentas jangkitan bakteria yang biasa ditubuhkan dengan baik.
 
-The link to monoclonal gammopathy is not a direct disease-treatment relationship — it is a **supportive-care repurposing**. Patients with monoclonal gammopathy (particularly newly diagnosed multiple myeloma) have profound humoral immunodeficiency and a markedly elevated risk of serious infection, especially during induction chemotherapy and around autologous stem-cell transplantation (ASCT). Levofloxacin's established antibacterial mechanism is applied here as **prophylaxis** to lower rates of bacteremia, febrile neutropenia, and infection-related death, rather than to act on the plasma-cell disorder itself.
+Pautan kepada gammopati monoklonal bukan perhubungan rawatan penyakit langsung — ia adalah **repurposing penjagaan sokongan**. Pesakit dengan gammopati monoklonal (terutamanya mieloma berbilang yang baru didiagnosis) mempunyai kekurangan imun humoral yang mendalam dan risiko yang jauh lebih tinggi untuk jangkitan serius, terutamanya semasa kemoterapi aruhan dan sekitar transplantasi sel stem autologus (ASCT). Mekanisme antibakteria yang ditubuhkan Levofloxacin digunakan di sini sebagai **profilaksis** untuk menurunkan kadar bakteremia, neutropenia febril, dan kematian berkaitan jangkitan, bukan untuk bertindak pada gangguan sel plasma itu sendiri.
 
-This mechanistic rationale is directly supported by the pivotal TEAMM trial (a multicentre, double-blind, placebo-controlled Phase 3 RCT), reinforced by multiple real-world cohort studies in ASCT and bortezomib-based regimens, making this one of the better-substantiated candidates in the pack.
+Rasional mekanistik ini disokong terus oleh ujian TEAMM (satu ujian kawalan plasebo buta berganda multicentre RCT Fasa 3), diperkukuh oleh pelbagai kajian kohort kehidupan sebenar dalam ASCT dan rejimen berasaskan bortezomib, menjadikan ini salah satu calon yang paling mantap dalam pakej.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-Currently no related clinical trials registered (no `NCT`-indexed trials were returned for this drug–disease pair; the pivotal RCT evidence below is indexed via PubMed rather than a clinical trial registry entry).
+Pada masa ini tiada ujian klinikal berkaitan berdaftar (tiada ujian yang diindeks `NCT` dikembalikan untuk pasangan ubat-penyakit ini; bukti RCT pangsi di bawah diindeks melalui PubMed daripada entri daftar ujian klinikal).
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Kunci |
 |------|-----|------|------|---------|
-| [31668592](https://pubmed.ncbi.nlm.nih.gov/31668592/) | 2019 | RCT (Phase 3) | The Lancet. Oncology | TEAMM trial: levofloxacin prophylaxis in newly diagnosed myeloma; assesses benefit against infection vs. resistance/HCAI risk |
-| [31690402](https://pubmed.ncbi.nlm.nih.gov/31690402/) | 2019 | RCT / HTA Report | Health Technology Assessment | Full HTA report of the TEAMM RCT on prophylactic levofloxacin in newly diagnosed symptomatic myeloma |
-| [29080369](https://pubmed.ncbi.nlm.nih.gov/29080369/) | 2018 | RCT/Comparative Cohort | Clinical Transplantation | Ciprofloxacin vs. levofloxacin prophylaxis in 297 autologous HSCT myeloma patients; compares breakthrough infection rates |
-| [26150022](https://pubmed.ncbi.nlm.nih.gov/26150022/) | 2015 | Cohort | Biology of Blood and Marrow Transplantation | Prophylactic levofloxacin reduced bloodstream infection/fever rates in neutropenic myeloma patients undergoing autologous HSCT |
-| [37573150](https://pubmed.ncbi.nlm.nih.gov/37573150/) | 2023 | Cohort | Transplant Infectious Disease | Infectious complications after autologous HCT in myeloma, with/without levofloxacin prophylaxis, from a developing-country setting |
-| [25212681](https://pubmed.ncbi.nlm.nih.gov/25212681/) | 2014 | Cohort | International Journal of Hematology | Prophylactic oral levofloxacin reduced severe infections in myeloma patients on bortezomib-based regimens |
-| [32304873](https://pubmed.ncbi.nlm.nih.gov/32304873/) | 2020 | Retrospective Cohort | Biology of Blood and Marrow Transplantation | Retrospective review of fluoroquinolone prophylaxis outcomes in autologous stem-cell transplantation |
-| [24797543](https://pubmed.ncbi.nlm.nih.gov/24797543/) | 2014 | Retrospective Cohort | Transplant Infectious Disease | Change in antibacterial prophylaxis strategy affected bacteremia/hospitalization rates after outpatient autologous PBSCT for myeloma |
-| [32019731](https://pubmed.ncbi.nlm.nih.gov/32019731/) | 2020 | Retrospective Cohort | Clinical Lymphoma, Myeloma & Leukemia | Bacterial infection rates among myeloma patients on bortezomib induction, without routine fluoroquinolone prophylaxis (Asian cohort) |
-| [32172361](https://pubmed.ncbi.nlm.nih.gov/32172361/) | 2020 | Review | Current Hematologic Malignancy Reports | Supportive care review in multiple myeloma, including infection prophylaxis principles |
+| [31668592](https://pubmed.ncbi.nlm.nih.gov/31668592/) | 2019 | RCT (Fasa 3) | The Lancet. Oncology | Ujian TEAMM: profilaksis levofloxacin dalam mieloma yang baru didiagnosis; menilai manfaat terhadap jangkitan vs. rintangan/risiko JBPK |
+| [31690402](https://pubmed.ncbi.nlm.nih.gov/31690402/) | 2019 | RCT / Laporan HTA | Health Technology Assessment | Laporan HTA lengkap ujian TEAMM RCT tentang profilaksis levofloxacin dalam mieloma simptomatik yang baru didiagnosis |
+| [29080369](https://pubmed.ncbi.nlm.nih.gov/29080369/) | 2018 | RCT/Kohort Perbandingan | Clinical Transplantation | Profilaksis siprofloxacin vs. levofloxacin dalam 297 pesakit mieloma HSCT autologus; membandingkan kadar jangkitan terobosan |
+| [26150022](https://pubmed.ncbi.nlm.nih.gov/26150022/) | 2015 | Kohort | Biology of Blood and Marrow Transplantation | Levofloxacin profilaktik mengurangkan kadar jangkitan arus darah/demam pada pesakit mieloma neutropenik yang menjalani HSCT autologus |
+| [37573150](https://pubmed.ncbi.nlm.nih.gov/37573150/) | 2023 | Kohort | Transplant Infectious Disease | Komplikasi jangkitan selepas HCT autologus dalam mieloma, dengan/tanpa profilaksis levofloxacin, daripada tetapan negara berkembang |
+| [25212681](https://pubmed.ncbi.nlm.nih.gov/25212681/) | 2014 | Kohort | International Journal of Hematology | Profilaksis oral levofloxacin mengurangkan jangkitan serius pada pesakit mieloma pada rejimen berasaskan bortezomib |
+| [32304873](https://pubmed.ncbi.nlm.nih.gov/32304873/) | 2020 | Kohort Retrospektif | Biology of Blood and Marrow Transplantation | Semakan retrospektif hasil profilaksis fluorokuinolon dalam transplantasi sel stem autologus |
+| [24797543](https://pubmed.ncbi.nlm.nih.gov/24797543/) | 2014 | Kohort Retrospektif | Transplant Infectious Disease | Perubahan dalam strategi profilaksis antibakteria mempengaruhi kadar bakteremia/pernahan selepas PBSCT autologus untuk mieloma |
+| [32019731](https://pubmed.ncbi.nlm.nih.gov/32019731/) | 2020 | Kohort Retrospektif | Clinical Lymphoma, Myeloma & Leukemia | Kadar jangkitan bakteria dalam kalangan pesakit mieloma pada aruhan bortezomib, tanpa profilaksis fluorokuinolon rutin (kohort Asia) |
+| [32172361](https://pubmed.ncbi.nlm.nih.gov/32172361/) | 2020 | Ulasan | Current Hematologic Malignancy Reports | Ulasan penjagaan sokongan dalam mieloma berbilang, termasuk prinsip profilaksis jangkitan |
 
-*Additional items in the pack (three editorial Letters/Correspondence responding to the TEAMM trial, and isolated case reports on unrelated adverse events) were excluded here as lower-priority per the RCT > Review > Case Report ranking rule.*
+*Item tambahan dalam pakej (tiga Surat Editorial/Surat Sambutan merespons ujian TEAMM, dan laporan kes terpencil tentang peristiwa buruk yang tidak berkaitan) dikecualikan di sini sebagai keutamaan yang lebih rendah mengikut peraturan kedudukan RCT > Ulasan > Laporan Kes.*
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-License-level detail (authorization numbers, product names, dosage forms, approved indication text) is not populated in this Evidence Pack — only the aggregate count is available: **19 registered products**, market status **Marketed (Marketed)**. Authorization numbers, brand names, and approved-indication text will need to be pulled directly from NPRA records to complete this table.
+Detail peringkat lesen (nombor kebenaran, nama produk, bentuk dos, teks indikasi yang diluluskan) tidak diisi dalam Pakej Bukti ini — hanya kiraan agregat yang tersedia: **19 produk berdaftar**, status pasaran **Dipasarkan (Dipasarkan)**. Nombor kebenaran, nama jenama, dan teks indikasi yang diluluskan perlu ditarik terus daripada rekod NPRA untuk melengkapkan jadual ini.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information. (`key_warnings`, `contraindications`, and DDI data are all flagged as Data Gaps in this pack — DG001 is rated **Blocking** for safety pre-assessment.)
+Sila rujuk sisipan paket untuk maklumat keselamatan. (Data `key_warnings`, `contraindications`, dan DDI semuanya ditandai sebagai Jurang Data dalam pakej ini — DG001 dinilai **Menghalang** untuk penilaian keselamatan pra.)
 
-One safety signal is worth flagging from the evidence itself: fluoroquinolones, including levofloxacin, carry a known class risk of peripheral neuropathy, which is directly relevant given one of the other TxGNN-predicted associations in this pack (rank 8, "hematological disease associated with an acquired peripheral neuropathy") is more plausibly a **risk signal** than a treatment opportunity.
+Satu isyarat keselamatan patut ditandai daripada bukti itu sendiri: fluorokuinolon, termasuk levofloxacin, membawa risiko kelas yang diketahui tentang neuropati periferal, yang relevan secara langsung memandangkan salah satu persatuan TxGNN-ramalan yang lain dalam pakej ini (pangkat 8, "penyakit hematologi yang berkaitan dengan neuropati periferal yang diperoleh") adalah lebih dipercayai **isyarat risiko** daripada peluang rawatan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Proceed with Guardrails**
+**Keputusan: Teruskan dengan Pengaman**
 
-**Rationale:**
-A completed Phase 3 RCT (TEAMM) plus multiple consistent cohort studies support levofloxacin prophylaxis reducing infection-related morbidity/mortality in newly diagnosed myeloma. However, this is a supportive-care/prophylactic use rather than a primary treatment for monoclonal gammopathy, TFDA/NPRA safety documentation is currently blocked by Data Gaps, and antimicrobial-stewardship implications of prophylactic fluoroquinolone use need local assessment before any label or protocol change.
+**Rasional:**
+RCT Fasa 3 yang telah selesai (TEAMM) ditambah dengan pelbagai kajian kohort yang konsisten menyokong profilaksis levofloxacin mengurangkan morbiditi/mortaliti berkaitan jangkitan dalam mieloma yang baru didiagnosis. Walau bagaimanapun, ini adalah kegunaan penjagaan sokongan/profilaktik daripada rawatan utama untuk gammopati monoklonal, dokumentasi keselamatan TFDA/NPRA pada masa ini diblokir oleh Jurang Data, dan implikasi pengurusan antimikrobial penggunaan fluorokuinolon profilaktik memerlukan penilaian tempatan sebelum sebarang perubahan label atau protokol.
 
-**To proceed, the following is needed:**
-- Resolve DG001 (Blocking): obtain TFDA/NPRA package insert warnings and contraindications
-- Resolve DG002 (High): confirm Levofloxacin's DrugBank MOA and category data
-- Confirm whether local hematology guidelines already recommend fluoroquinolone prophylaxis in myeloma, and assess resistance/stewardship risk for long-term local use
-- Populate NPRA license-level detail (product names, authorization numbers, approved indication text) for the 19 registered products
-- As a secondary track, evaluate **septicemic plague** (rank 9; L2 evidence, already FDA-approved abroad under the Animal Rule) as an additional, mechanistically strong repurposing candidate
+**Untuk meneruskan, yang berikut diperlukan:**
+- Selesaikan DG001 (Menghalang): dapatkan amaran sisipan paket TFDA/NPRA dan kontraindikasi
+- Selesaikan DG002 (Tinggi): sahkan MOA dan data kategori DrugBank Levofloxacin
+- Sahkan sama ada panduan hematologi tempatan sudah mengesyorkan profilaksis fluorokuinolon dalam mieloma, dan menilai risiko rintangan/pengurusan untuk penggunaan jangka panjang tempatan
+- Isi butiran peringkat lesen NPRA (nama produk, nombor kebenaran, teks indikasi yang diluluskan) untuk 19 produk berdaftar
+- Sebagai trek sekunder, nilaikan **wabak taun septikemia** (pangkat 9; bukti L2, sudah diluluskan FDA di luar negara di bawah Peraturan Haiwan) sebagai calon repurposing tambahan yang mekanistik kuat
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

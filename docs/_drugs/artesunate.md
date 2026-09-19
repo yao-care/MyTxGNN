@@ -29,90 +29,91 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Artesunate: Antimalarial Drug — Repurposing Evaluation (Preliminary)
+# Artesunate: Ubat Antimalaria — Penilaian Tujuan Semula (Awal)
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Artesunate (DrugBank: DB09274) is a well-established artemisinin-derived antimalarial agent, currently holding one active market authorisation in Malaysia.
-However, this Evidence Pack contains critical data gaps — **no TxGNN predictions were returned**, and mechanism of action, regulatory indication text, and safety data are all absent — meaning a complete drug repurposing evaluation **cannot be finalised at this stage**.
-Immediate data remediation is required before proceeding to evidence synthesis.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Malaria (inferred from drug class; approved indication text not available in current pack) |
-| Predicted New Indication | No predictions available in current data |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | N/A — insufficient data to assign level |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | **Hold** |
+Artesunate (DrugBank: DB09274) ialah ejen antimalaria terbitan artemisinin yang sudah mantap, kini memegang satu kebenaran pasaran aktif di Malaysia.
+Walau bagaimanapun, Pakej Bukti ini mengandungi jurang data yang kritikal — **tiada ramalan TxGNN dikembalikan**, dan mekanisme kerja, teks indikasi kawal selia, serta data keselamatan semuanya tidak ada — bermakna penilaian tujuan semula ubat yang lengkap **tidak dapat diselesaikan pada peringkat ini**.
+Pemulihan data segera diperlukan sebelum meneruskan ke sintesis bukti.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Pantas
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack, and the TxGNN model returned no repurposing candidates for this compound.
-
-Artesunate belongs to the artemisinin class of antimalarials. Its primary clinical role is in treating severe and uncomplicated *Plasmodium* infections. Prior research has suggested that artemisinins may exert cytotoxic activity through iron-dependent free radical generation, which has prompted exploratory investigation into oncology applications — however, this evidence base is **not reflected in the current Evidence Pack** and cannot be formally evaluated here.
-
-Without a confirmed predicted indication, a mechanism-to-indication bridging analysis is not applicable at this time. Once TxGNN predictions are successfully generated, this section should be revisited to assess whether the known antimalarial mechanism is mechanistically plausible for the predicted new indication.
-
----
-
-## Clinical Trial Evidence
-
-No predicted indication is available in the current Evidence Pack. Clinical trial evidence cannot be extracted or summarised.
-
-Once a target indication is identified from TxGNN output, relevant trials should be retrieved from `predicted_indications[0].evidence.clinical_trials`.
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Malaria (disimpulkan daripada kelas ubat; teks indikasi diluluskan tidak tersedia dalam pakej semasa) |
+| Indikasi Baru yang Diramalkan | Tiada ramalan tersedia dalam data semasa |
+| Skor Ramalan TxGNN | N/A |
+| Tahap Bukti | N/A — data tidak mencukupi untuk menetapkan tahap |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | **Tahan** |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Wajar?
 
-No predicted indication is available in the current Evidence Pack. Literature evidence cannot be extracted or summarised.
+Buat masa sekarang, data mekanisme kerja yang terperinci tidak tersedia dalam Pakej Bukti ini, dan model TxGNN tidak mengembalikan calon ubat tujuan semula untuk sebatian ini.
 
-Once a target indication is identified, relevant publications should be retrieved from `predicted_indications[0].evidence.literature`.
+Artesunate tergolong dalam kelas antimalaria artemisinin. Peranan klinikal utamanya adalah dalam merawat jangkitan *Plasmodium* yang teruk dan tanpa komplikasi. Penyelidikan terdahulu telah mencadangkan bahawa artemisinin mungkin menjalankan aktiviti sitotoksik melalui penjanaan radikal bebas bergantung besi, yang telah mendorong penyiasatan eksploratori ke dalam aplikasi onkologi — namun, asas bukti ini **tidak tercermin dalam Pakej Bukti semasa** dan tidak boleh dinilai secara formal di sini.
+
+Tanpa indikasi ramalan yang disahkan, analisis jambatan mekanisme-ke-indikasi tidak berkenaan pada masa ini. Sebaik sahaja ramalan TxGNN berjaya dijana, bahagian ini harus disemak semula untuk menilai sama ada mekanisme antimalaria yang diketahui dapat dibenarkan secara mekanistik untuk indikasi baru yang diramalkan.
 
 ---
 
-## Malaysia Market Information
+## Bukti Ujian Klinik
 
-The Evidence Pack confirms **1 active market authorisation** in Malaysia; however, all registration detail fields are currently empty.
+Tiada indikasi ramalan tersedia dalam Pakej Bukti semasa. Bukti ujian klinik tidak boleh diekstrak atau disimpulkan.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+Sebaik sahaja indikasi sasaran dikenal pasti daripada keluaran TxGNN, ujian yang relevan harus diambil semula daripada `predicted_indications[0].evidence.clinical_trials`.
+
+---
+
+## Bukti Literatur
+
+Tiada indikasi ramalan tersedia dalam Pakej Bukti semasa. Bukti literatur tidak boleh diekstrak atau disimpulkan.
+
+Sebaik sahaja indikasi sasaran dikenal pasti, penerbitan yang relevan harus diambil semula daripada `predicted_indications[0].evidence.literature`.
+
+---
+
+## Maklumat Pasaran Malaysia
+
+Pakej Bukti mengesahkan **1 kebenaran pasaran aktif** di Malaysia; walau bagaimanapun, semua medan terperinci pendaftaran kini kosong.
+
+| Nombor Kebenaran | Nama Produk | Bentuk Ubatan | Indikasi yang Diluluskan |
 |---------------------|--------------|-------------|---------------------|
-| *(Not available)* | *(Not available)* | *(Not available)* | *(Not available — requires NPRA record retrieval)* |
+| *(Tidak tersedia)* | *(Tidak tersedia)* | *(Tidak tersedia)* | *(Tidak tersedia — memerlukan pengambilan rekod NPRA)* |
 
-To populate this table, the full NPRA registration record for Artesunate must be retrieved and parsed.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-> **Note:** All safety fields in this Evidence Pack — including key warnings, contraindications, and drug-drug interactions — are either marked as data gaps or returned no results. This is classified as a **Blocking** data gap (DG001) that prevents any safety-dependent evaluation steps.
+Untuk mengisi jadual ini, rekod pendaftaran NPRA lengkap untuk Artesunate mesti diambil semula dan dianalisis.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila rujuk lembaran penyisipan pakej untuk maklumat keselamatan.
 
-**Rationale:**
-This Evidence Pack is incomplete in two blocking dimensions: (1) the TxGNN prediction pipeline returned no repurposing candidates for Artesunate, and (2) critical safety and regulatory data are absent. No evidence-based repurposing recommendation can be made in the current state.
+> **Nota:** Semua medan keselamatan dalam Pakej Bukti ini — termasuk amaran utama, kontraindikasi, dan interaksi ubat-ubat — sama ada ditandai sebagai jurang data atau tidak mengembalikan hasil. Ini diklasifikasikan sebagai jurang data **Penghalang** (DG001) yang menghalang sebarang langkah penilaian bergantung keselamatan.
 
-**To proceed, the following is needed:**
+---
 
-- **[Blocking — DG001]** Retrieve and parse the NPRA/TFDA package insert PDF to extract approved indication, key warnings, and contraindications
-- **[High — DG002]** Query the DrugBank API for Artesunate (DB09274) to retrieve the mechanism of action, pharmacodynamics, and drug categories
-- **[Blocking — Predictions]** Diagnose why `predicted_indications` is empty — verify that Artesunate's DrugBank ID is present in the TxGNN knowledge graph node list (`data/node.csv`) and re-run the prediction pipeline (`scripts/run_kg_prediction.py`)
-- **[Medium]** Populate NPRA licence details (product name, dosage form, authorisation number) from the regulatory record confirmed as present (1 registration found)
-- **[Post-remediation]** Once predictions and MOA are available, re-run the full Evidence Pack generation to enable a complete L1–L5 evidence-level assessment and a Go / Proceed with Guardrails decision
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Pakej Bukti ini tidak lengkap dalam dua dimensi penghalang: (1) saluran ramalan TxGNN tidak mengembalikan calon ubat tujuan semula untuk Artesunate, dan (2) data keselamatan dan kawal selia yang kritikal tidak ada. Tiada cadangan tujuan semula berasaskan bukti boleh dibuat dalam keadaan semasa.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+
+- **[Penghalang — DG001]** Ambil semula dan analisis PDF lembaran penyisipan pakej NPRA/TFDA untuk mengeluarkan indikasi diluluskan, amaran utama, dan kontraindikasi
+- **[Tinggi — DG002]** Soal API DrugBank untuk Artesunate (DB09274) untuk mengambil semula mekanisme kerja, farmakodinamik, dan kategori ubat
+- **[Penghalang — Ramalan]** Diagnosis mengapa `predicted_indications` kosong — sahkan bahawa ID DrugBank Artesunate ada dalam senarai nod graf pengetahuan TxGNN (`data/node.csv`) dan jalankan semula saluran ramalan (`scripts/run_kg_prediction.py`)
+- **[Sederhana]** Isi terperinci lesen NPRA (nama produk, bentuk ubatan, nombor kebenaran) daripada rekod kawal selia yang disahkan ada (1 pendaftaran ditemui)
+- **[Selepas pemulihan]** Sebaik sahaja ramalan dan MOA tersedia, jalankan semula penjanaan Pakej Bukti lengkap untuk membolehkan penilaian tahap bukti L1–L5 yang lengkap dan keputusan Go / Teruskan dengan Keadaan Keselamatan
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

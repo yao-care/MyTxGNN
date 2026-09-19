@@ -29,77 +29,78 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Urofollitropin: From Fertility Treatment to Migraine Disorder
+# Urofollitropin: Daripada Rawatan Kesuburan kepada Gangguan Migrain
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Urofollitropin (DrugBank DB00094) is a purified urine-derived FSH preparation; this evidence pack does not contain its formally registered indication text or mechanism-of-action data, though FSH preparations of this class are generally used for ovulation induction in fertility treatment. The TxGNN model predicts potential efficacy for **Migraine Disorder** (score **99.85%**), but this prediction is currently supported by **0 clinical trials** and **0 publications**, and the drug-level mechanistic rationale supplied alongside the prediction is weak to contradictory rather than supportive.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not extracted from Malaysia licenses in this evidence pack (data gap); FSH preparations of this class are generally used for ovulation induction / female infertility |
-| Predicted New Indication | Migraine Disorder |
-| TxGNN Prediction Score | 99.85% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 5 |
-| Recommended Decision | Hold |
+Urofollitropin (DrugBank DB00094) adalah persediaan FSH yang ditulenkan daripada kencing; pakej bukti ini tidak mengandungi teks indikasi yang didaftar secara rasmi atau data mekanisme tindakan, walaupun persediaan FSH kelas ini biasanya digunakan untuk induksi ovulasi dalam rawatan kesuburan. Model TxGNN meramalkan potensi keberkesanan untuk **Gangguan Migrain** (skor **99.85%**), tetapi ramalan ini pada masa ini disokong oleh **0 percubaan klinikal** dan **0 penerbitan**, dan justifikasi rasional mekanika pada peringkat ubat yang disediakan bersama ramalan adalah lemah hingga bercanggah dan bukannya sokongan.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Ringkasan Pantas
 
-Currently, detailed mechanism of action data is not available for urofollitropin in this evidence pack. Based on known information, urofollitropin is a purified urinary-derived follicle-stimulating hormone (FSH) preparation that acts on FSH receptors on ovarian granulosa cells to promote follicular development — a reproductive endocrine mechanism.
-
-Migraine disorder involves an entirely different physiological system, centered on trigeminovascular activation and CGRP-mediated neurovascular signaling. Per the drug-level rationale accompanying this prediction, there is no known direct physiological link between exogenous FSH administration and migraine pathophysiology. The TxGNN score may instead reflect an indirect graph-embedding association — for example, known links between estrogen fluctuation and migraine susceptibility — rather than a genuine treatment mechanism for FSH itself.
-
-Notably, the supplied rationale flags a potential **directional concern**: exogenous FSH commonly amplifies estrogen fluctuation, which could theoretically provoke or worsen migraine rather than treat it. The same directional mismatch appears across the other top-ranked predictions in this evidence pack (e.g., restless legs syndrome, POTS), where hormonal fluctuation is associated with symptom *worsening* in the literature, not therapeutic benefit. Combined with the complete absence of clinical trials or literature specifically linking urofollitropin to migraine, the mechanistic case for this prediction is not currently persuasive.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered
+| Item | Kandungan |
+|------|--------|
+| Indikasi Asal | Tidak diekstrak daripada lesen Malaysia dalam pakej bukti ini (jurang data); persediaan FSH kelas ini biasanya digunakan untuk induksi ovulasi / ketidaksuburan wanita |
+| Indikasi Baru yang Diramalkan | Gangguan Migrain |
+| Skor Ramalan TxGNN | 99.85% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 5 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available
+Pada masa ini, data mekanisme tindakan yang terperinci tidak tersedia untuk urofollitropin dalam pakej bukti ini. Berdasarkan maklumat yang diketahui, urofollitropin adalah persediaan hormon perangsang folikel (FSH) yang ditulenkan daripada kencing yang bertindak pada reseptor FSH pada sel granulosa ovari untuk mempromosikan perkembangan folikel — mekanisme endokrin reproduktif.
 
----
+Gangguan migrain melibatkan sistem fisiologi yang sama sekali berbeza, berpusat pada pengaktifan trigeminovaskular dan pensinyalan neurovaskuler yang dimediasi CGRP. Menurut justifikasi rasional mekanika pada peringkat ubat yang mengiringi ramalan ini, tiada pautan fisiologi langsung yang diketahui antara pentadbiran FSH eksogen dan patofisiologi migrain. Skor TxGNN mungkin sebaliknya mencerminkan persatuan sisipan graf tidak langsung — sebagai contoh, pautan yang diketahui antara turun naik estrogen dan kerentanan migrain — daripada mekanisme rawatan tulen untuk FSH itu sendiri.
 
-## Malaysia Market Information
-
-Malaysia regulatory records show **5 registered licenses** for urofollitropin (market status: Marketed / Marketed), but this evidence pack does not include the detailed authorization number, product name, dosage form, or approved-indication text for any of these licenses (data gap).
+Yang ketara, justifikasi rasional yang disediakan menandakan potensi **kebimbangan arah**: FSH eksogen biasanya memperkuat turun naik estrogen, yang secara teorinya boleh mencetuskan atau memburukkan migrain daripada merawatnya. Ketidakpadanan arah yang sama muncul merentas ramalan berpangkat teratas yang lain dalam pakej bukti ini (cth., sindrom kaki gelisah, POTS), di mana turun naik hormon dikaitkan dengan *memburuknya* gejala dalam kesusasteraan, bukan manfaat terapeutik. Digabungkan dengan ketiadaan sepenuhnya percubaan klinikal atau kesusasteraan yang khusus menghubungkan urofollitropin kepada migrain, kes rasional mekanika untuk ramalan ini tidak kini meyakinkan.
 
 ---
 
-## Safety Considerations
+## Bukti Percubaan Klinikal
 
-Please refer to the package insert for safety information.
-
-*(Note: `key_warnings`, `contraindications`, and drug-interaction data were all flagged as data gaps in this evidence pack — including a **Blocking**-severity gap on TFDA/NPRA label warnings and contraindications, which prevents a full S1 safety screen.)*
+Pada masa ini tiada percubaan klinikal yang berkaitan didaftarkan
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Kesusasteraan
 
-**Decision: Hold**
+Pada masa ini tiada kesusasteraan yang berkaitan tersedia
 
-**Rationale:**
-- The prediction sits at the lowest evidence tier (L5) with zero supporting clinical trials or literature, and the supplied mechanistic rationale is weak-to-contradictory (exogenous FSH may plausibly worsen rather than treat migraine via estrogen fluctuation). Combined with a **Blocking** data gap on TFDA/NPRA safety labeling, this candidate cannot proceed past initial screening (S0/S1) at this time.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert warnings and contraindications (Blocking gap, DG001)
-- Confirmed mechanism of action data from DrugBank or equivalent source (High-priority gap, DG002)
-- Complete license/authorization details (product name, dosage form, approved indication text) for the 5 Malaysia registrations
-- At minimum, preclinical or mechanistic evidence directly connecting FSH signaling to migraine pathophysiology before this candidate can be re-scored above L5
-- Re-evaluation should also consider the directional risk (potential migraine aggravation) rather than treating the TxGNN score alone as evidence of therapeutic benefit
+## Maklumat Pasaran Malaysia
+
+Rekod kawal selia Malaysia menunjukkan **5 lesen berdaftar** untuk urofollitropin (status pasaran: Dipasarkan / Dipasarkan), tetapi pakej bukti ini tidak mengandungi nombor kebenaran terperinci, nama produk, bentuk dos, atau teks indikasi yang diluluskan untuk mana-mana lesen ini (jurang data).
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
+
+*(Nota: `key_warnings`, `contraindications`, dan data interaksi ubat semuanya telah ditandakan sebagai jurang data dalam pakej bukti ini — termasuk jurang keterukan **Blocking** pada amaran label TFDA/NPRA dan kontraindikasi, yang menghalang skrin keselamatan S1 penuh.)*
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Nisbah:**
+- Ramalan ini berada pada peringkat bukti terendah (L5) tanpa percubaan klinikal atau kesusasteraan sokongan, dan justifikasi rasional mekanika yang disediakan adalah lemah hingga bercanggah (FSH eksogen mungkin secara munasabah memburukkan daripada merawat migrain melalui turun naik estrogen). Digabungkan dengan jurang data **Blocking** pada pelabelan keselamatan TFDA/NPRA, calon ini tidak dapat meneruskan melampaui pemeriksaan awal (S0/S1) pada masa ini.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Amaran sisipan pakej TFDA/NPRA dan kontraindikasi (Jurang Blocking, DG001)
+- Data mekanisme tindakan yang disahkan daripada DrugBank atau sumber setara (Jurang keutamaan tinggi, DG002)
+- Butiran lesen/kebenaran lengkap (nama produk, bentuk dos, teks indikasi yang diluluskan) untuk 5 pendaftaran Malaysia
+- Sekurang-kurangnya, bukti praklinikal atau rasional mekanika yang secara langsung menghubungkan pensinyalan FSH kepada patofisiologi migrain sebelum calon ini dapat dimarkah semula di atas L5
+- Penilaian semula juga harus mempertimbangkan risiko arah (potensi perburukan migrain) daripada menganggap skor TxGNN sahaja sebagai bukti manfaat terapeutik
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

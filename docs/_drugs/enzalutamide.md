@@ -29,74 +29,75 @@ Tahap bukti: **L5** | Indikasi diramal: **7**
 
 </div>
 
-# Enzalutamide: From Prostate Cancer to Prostate Cancer/Brain Cancer Susceptibility
+# Enzalutamide: Daripada Kanser Prostat kepada Kerentanan Kanser Prostat/Kanser Otak
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Enzalutamide is an androgen receptor (AR) antagonist already approved for prostate cancer (mCRPC/nmCRPC); its approved-indication text is not included in this evidence pack, though it is referenced within the pack's own rationale notes.
-The TxGNN model's top-ranked prediction for this candidate is **"Prostate Cancer/Brain Cancer Susceptibility"**, but this label represents a knowledge-graph susceptibility-gene node rather than a defined clinical entity, and it is currently supported by **0 clinical trials** and **0 publications**.
+Enzalutamide ialah antagonis reseptor androgen (AR) yang telah diluluskan untuk kanser prostat (mCRPC/nmCRPC); teks indikasi yang diluluskan tidak termasuk dalam pakej bukti ini, walaupun ia dirujuk dalam nota rasional pakej itu sendiri.
+Ramalan tertinggi model TxGNN untuk calon ini ialah **"Kerentanan Kanser Prostat/Kanser Otak"**, tetapi label ini mewakili nod gen kerentanan dalam graf pengetahuan dan bukannya entiti klinikal yang ditakrifkan, dan ia kini disokong oleh **0 ujian klinikal** dan **0 penerbitan**.
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | Prostate cancer (mCRPC/nmCRPC) — referenced only within evidence-pack rationale text; formal TFDA/NPRA approved-indication wording is a data gap (DG001) |
-| Predicted New Indication | Prostate Cancer/Brain Cancer Susceptibility |
-| TxGNN Prediction Score | 99.71% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 4 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Kanser prostat (mCRPC/nmCRPC) — dirujuk hanya dalam teks rasional pakej bukti; frasa indikasi yang diluluskan rasmi TFDA/NPRA adalah jurang data (DG001) |
+| Indikasi Baru yang Diramalkan | Kerentanan Kanser Prostat/Kanser Otak |
+| Skor Ramalan TxGNN | 99.71% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 4 |
+| Keputusan yang Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data is not available (data gap DG002). Enzalutamide is known as a second-generation androgen receptor antagonist that blocks AR nuclear translocation and DNA binding, and on that basis it is already approved for prostate cancer.
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia (jurang data DG002). Enzalutamide dikenali sebagai antagonis reseptor androgen generasi kedua yang menghalang translokasi nukleus AR dan ikatan DNA, dan atas dasar itu ia telah diluluskan untuk kanser prostat.
 
-However, for this specific top-ranked prediction, the disease label "prostate cancer/brain cancer susceptibility" is not a defined clinical entity — per the evidence pack's own rationale, it is a composite label attached to a susceptibility-gene node within the knowledge graph. There is no mechanistic pathway or clinical rationale that can be articulated beyond the model's statistical association, and no clinical trial or literature evidence exists to support or refute it.
+Bagaimanapun, untuk ramalan kedudukan tertinggi khusus ini, label penyakit "kerentanan kanser prostat/kanser otak" bukanlah entiti klinikal yang ditakrifkan — menurut rasional pakej bukti itu sendiri, ia ialah label komposit yang dilampirkan pada nod gen kerentanan dalam graf pengetahuan. Tiada laluan mekanistik atau rasional klinikal yang dapat diutarakan melainkan persatuan statistik model, dan tiada bukti ujian klinikal atau literatur yang wujud untuk menyokong atau menafikan ia.
 
-For context, this evidence pack contains six other predicted indications for enzalutamide. Notably, rank 6 ("male reproductive organ cancer") carries much stronger evidence (L1, S3, Proceed with Guardrails), but its own rationale flags that this largely overlaps with enzalutamide's already-approved prostate cancer indication rather than representing a genuinely novel repurposing target — it is noted here for decision context, not as a substitute for the rank-1 candidate this report evaluates.
+Untuk konteks, pakej bukti ini mengandungi enam indikasi diramalkan lain untuk enzalutamide. Terutama sekali, kedudukan 6 ("kanser organ pembiakan lelaki") membawa bukti yang jauh lebih kuat (L1, S3, Teruskan dengan Penjaga), tetapi rasionalnya sendiri menandakan bahawa ini sebahagian besarnya bertindih dengan indikasi kanser prostat yang telah diluluskan enzalutamide dan bukannya mewakili sasaran penambahan semula tujuan yang benar-benar baharu — ia dicatat di sini untuk konteks keputusan, bukan sebagai pengganti untuk calon kedudukan-1 yang laporan ini menilai.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-Currently no related clinical trials registered.
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no related literature available.
+Pada masa ini tiada literatur berkaitan yang tersedia.
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-The product is recorded as marketed in Malaysia with 4 total registrations (NPRA), but this evidence pack does not include per-license details (license number, product name, dosage form, or approved indication text) — these fields are all empty in the source data and represent a data gap.
+Produk ini dicatat sebagai dipasarkan di Malaysia dengan 4 jumlah pendaftaran keseluruhan (NPRA), tetapi pakej bukti ini tidak termasuk butiran setiap lesen (nombor lesen, nama produk, bentuk dos, atau teks indikasi yang diluluskan) — semua medan ini kosong dalam data sumber dan mewakili jurang data.
 
-## Cytotoxicity
+## Sitotoksisiti
 
-*Included because the original indication (prostate cancer) is oncologic.*
+*Disertakan kerana indikasi asal (kanser prostat) adalah onkologi.*
 
-| Item | Content |
-|------|------|
-| Cytotoxicity Classification | Targeted therapy (androgen receptor signaling inhibitor); not a conventional cytotoxic agent |
-| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
-| Emetogenicity Classification | Low (consistent with hormonal/AR-targeted agents as a class) |
-| Monitoring Items | Please refer to the package insert warnings and precautions |
-| Handling Protection | Please refer to the package insert warnings and precautions |
+| Item | Kandungan |
+|------|----------|
+| Klasifikasi Sitotoksisiti | Terapi bertarget (perencat isyarat reseptor androgen); bukan agen sitotoksik konvensional |
+| Risiko Penindasan Sumsum Tulang | Sila rujuk amaran sisipan pakej dan tindakan berjaga |
+| Klasifikasi Emetogenisiti | Rendah (konsisten dengan agen hormonal/bertarget AR sebagai kelas) |
+| Item Pemantauan | Sila rujuk amaran sisipan pakej dan tindakan berjaga |
+| Perlindungan Pengendalian | Sila rujuk amaran sisipan pakej dan tindakan berjaga |
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-- The rank-1 predicted indication has no supporting clinical trial or literature evidence (L5), and the disease label itself represents a knowledge-graph artifact (a susceptibility-gene node) rather than a defined clinical entity, so no meaningful mechanistic or clinical case can currently be built.
+**Rasional:**
+- Indikasi diramalkan kedudukan-1 tidak mempunyai bukti ujian klinikal atau literatur yang menyokong (L5), dan label penyakit itu sendiri mewakili artifak graf pengetahuan (nod gen kerentanan) dan bukannya entiti klinikal yang ditakrifkan, jadi tiada kes mekanistik atau klinikal yang bermakna dapat dibina pada masa ini.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert data (warnings, contraindications) — currently a Blocking data gap (DG001)
-- Confirmed mechanism of action data from DrugBank — currently a High-severity data gap (DG002)
-- Clarification of what clinical entity "prostate cancer/brain cancer susceptibility" actually refers to before further evaluation
-- Per-license registration details (license numbers, product names, approved indication text) for the 4 Malaysia registrations
-- If pursuing repurposing further, consider evaluating rank 6 ("male reproductive organ cancer") separately, noting it substantially overlaps with the already-approved prostate cancer indication rather than representing a novel target
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data sisipan pakej TFDA/NPRA (amaran, kontraindikasi) — kini adalah jurang data Penyekat (DG001)
+- Data mekanisme tindakan yang disahkan daripada DrugBank — kini adalah jurang data Keseriusan Tinggi (DG002)
+- Penjelasan tentang entiti klinikal "kerentanan kanser prostat/kanser otak" sebenarnya merujuk sebelum penilaian lanjut
+- Butiran pendaftaran setiap lesen (nombor lesen, nama produk, teks indikasi yang diluluskan) untuk 4 pendaftaran Malaysia
+- Jika mengikuti penambahan semula tujuan lebih jauh, pertimbangkan menilai kedudukan 6 ("kanser organ pembiakan lelaki") secara berasingan, ambil perhatian ia bertindih dengan ketara dengan indikasi kanser prostat yang telah diluluskan dan bukannya mewakili sasaran baharu yang benar-benar
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

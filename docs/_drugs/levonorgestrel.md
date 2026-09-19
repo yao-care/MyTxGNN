@@ -29,96 +29,97 @@ Tahap bukti: **L2** | Indikasi diramal: **6**
 
 </div>
 
-# Levonorgestrel: From Contraception to Acne
+# Levonorgestrel: Daripada Kontrasepsi hingga Jerawat
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Levonorgestrel is a synthetic progestin (19-nortestosterone derivative) originally used for contraception — as a component of combined oral contraceptives, progestin-only pills, emergency contraception, and levonorgestrel-releasing intrauterine systems (IUS). The TxGNN model predicts it may be effective for **Acne**, with **5 clinical trials** and **20 publications** currently identified as candidate evidence, though most relate to levonorgestrel-containing combination products rather than levonorgestrel used alone. A key mechanistic caveat exists: literature indicates levonorgestrel has comparatively **higher androgenic activity** than other progestins, which runs counter to the anti-acne rationale.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Contraception (progestin component of combined/progestin-only contraceptives, emergency contraception, and IUS; NPRA-approved indication text was not available in this evidence pack) |
-| Predicted New Indication | Acne |
-| TxGNN Prediction Score | 99.88% |
-| Evidence Level | L2 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 15 |
-| Recommended Decision | Hold |
+Levonorgestrel ialah progestin sintetik (derivatif 19-nortestosteron) yang pada asalnya digunakan untuk kontrasepsi — sebagai komponen kontraseptif oral gabungan, pil progestin-saja, kontrasepsi kecemasan, dan sistem intrauterus melepas levonorgestrel (IUS). Model TxGNN meramalkan ia mungkin berkesan untuk **Jerawat**, dengan **5 percubaan klinikal** dan **20 penerbitan** yang kini dikenalpasti sebagai bukti calon, walaupun kebanyakannya berkaitan dengan produk kombinasi yang mengandungi levonorgestrel dan bukannya levonorgestrel digunakan bersendirian. Kaveat mekanistik utama wujud: literatur menunjukkan levonorgestrel mempunyai aktiviti **androgenik yang lebih tinggi** berbanding progestin lain, yang bertentangan dengan rasional anti-jerawat.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Pantas
 
-Detailed mechanism-of-action data for levonorgestrel is not available in this evidence pack (data gap DG002). Based on established pharmacological knowledge, levonorgestrel is a synthetic progestin most commonly used as a component of combined oral contraceptives, progestin-only pills, emergency contraception, and levonorgestrel-releasing intrauterine systems. Its contraceptive effect works primarily through suppression of the hypothalamic-pituitary-ovarian axis (inhibiting ovulation) and alteration of cervical mucus and the endometrium.
-
-The link to acne rests on androgen biology: acne is a multifactorial disease in which excess androgen activity at the pilosebaceous unit plays a central role, and combined oral contraceptives can lower bioavailable androgens by suppressing ovarian/adrenal androgen production and raising sex hormone-binding globulin (SHBG). This is the theoretical basis for predicting a hormonal contraceptive component as useful for acne.
-
-However, the mechanistic picture for levonorgestrel specifically is mixed rather than clearly supportive. Literature (PMID 7825629) identifies levonorgestrel as one of the more androgenic progestins in clinical use — the opposite profile of progestins such as chlormadinone acetate or drospirenone, which have antiandrogenic activity. Consistent with this, PMID 15025547 reports that ethinylestradiol/chlormadinone acetate was **significantly more effective** than ethinylestradiol/levonorgestrel in treating mild-to-moderate papulopustular acne. That said, a placebo-controlled RCT (PMID 12196750) did find that a specific low-dose formulation — 20 mcg ethinylestradiol + 100 mcg levonorgestrel — improved moderate acne versus placebo, suggesting the estrogen component of the combined pill can offset levonorgestrel's own androgenicity when used in that fixed combination. This evidence therefore supports levonorgestrel **as part of a specific combined oral contraceptive formulation**, not as a general or monotherapy anti-acne mechanism.
+| Item | Kandungan |
+|------|-----------|
+| Petunjuk Asal | Kontrasepsi (komponen progestin kontraseptif oral gabungan/progestin-saja, kontrasepsi kecemasan, dan IUS; teks petunjuk yang diluluskan NPRA tidak tersedia dalam pakej bukti ini) |
+| Petunjuk Baru Diramalkan | Jerawat |
+| Skor Ramalan TxGNN | 99.88% |
+| Tahap Bukti | L2 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 15 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Data mekanisme tindakan terperinci untuk levonorgestrel tidak tersedia dalam pakej bukti ini (jurang data DG002). Berdasarkan pengetahuan farmakologi yang ditegakkan, levonorgestrel ialah progestin sintetik yang paling kerap digunakan sebagai komponen kontraseptif oral gabungan, pil progestin-saja, kontrasepsi kecemasan, dan sistem intrauterus melepas levonorgestrel. Kesannya yang kontraseptif berfungsi terutamanya melalui pencegahan paksi hipotalamus-hipofisis-ovari (menghalang ovulasi) dan perubahan mukus serviks dan endometrium.
+
+Pautan kepada jerawat berehat pada biologi androgen: jerawat ialah penyakit multifaktorial di mana aktiviti androgen berlebihan pada unit pilosebasi memainkan peranan utama, dan kontraseptif oral gabungan boleh menurunkan androgen bioavailabiliti dengan menekan pengeluaran androgen ovari/adrenal dan meningkatkan globulin pengikat hormon seks (SHBG). Ini ialah asas teori untuk meramalkan komponen hormon kontraseptif sebagai berguna untuk jerawat.
+
+Walau bagaimanapun, gambaran mekanistik bagi levonorgestrel khususnya bercampur-aduk daripada jelas menyokong. Literatur (PMID 7825629) mengenalpasti levonorgestrel sebagai salah satu progestin yang paling androgenik dalam penggunaan klinikal — profil bertentangan dengan progestin seperti klormadinon asetat atau drospirenon, yang mempunyai aktiviti antiandrogenik. Konsisten dengan ini, PMID 15025547 melaporkan bahawa etinilestradiol/klormadinon asetat adalah **jauh lebih berkesan** daripada etinilestradiol/levonorgestrel dalam merawat jerawat papulopustular ringan hingga sederhana. Yang demikian, percubaan terkawal plasebo (PMID 12196750) memang mendapati bahawa formulasi dos rendah tertentu — 20 mcg etinilestradiol + 100 mcg levonorgestrel — meningkatkan jerawat sederhana berbanding plasebo, mencadangkan komponen estrogen pil gabungan boleh mengimbangi androgenisiti levonorgestrel sendiri apabila digunakan dalam kombinasi tetap tersebut. Bukti ini oleh itu menyokong levonorgestrel **sebagai bahagian formulasi kontraseptif oral gabungan tertentu**, bukan sebagai mekanisme anti-jerawat umum atau monoterapi.
+
+---
+
+## Bukti Percubaan Klinikal
+
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT00480532](https://clinicaltrials.gov/study/NCT00480532) | N/A | Completed | 131 | Evaluated doxycycline added to continuous oral contraceptive use to reduce unplanned bleeding; acne is mentioned only as a general doxycycline indication, not as the LNG-related endpoint (relevance grade B — drug/indication link not confirmed). |
-| [NCT01650168](https://clinicaltrials.gov/study/NCT01650168) | N/A | Completed | 101,498 | Large safety cohort comparing nomegestrol acetate/estradiol vs. levonorgestrel-containing combined oral contraceptives; safety-focused, not an acne efficacy trial (relevance grade C). |
-| [NCT00161226](https://clinicaltrials.gov/study/NCT00161226) | N/A | Terminated | 44 | Levonorgestrel IUS (Mirena) trial for endometrial cancer prevention in obese women aged 40–50; acne mentioned only as a side effect of oral progestins in background text, not the study endpoint (relevance grade C, trial terminated). |
-| [NCT05570786](https://clinicaltrials.gov/study/NCT05570786) | Phase 2 | Completed | 100 | Subdermal gestrinone implant for endometriosis-related pelvic pain; gestrinone, not levonorgestrel, and unrelated indication (relevance grade C). |
-| [NCT05492487](https://clinicaltrials.gov/study/NCT05492487) | Phase 2 | Unknown | 60 | Levonorgestrel IUS (Mirena) vs. megestrol acetate for fertility-conserving treatment of atypical endometrial hyperplasia; unrelated to acne (relevance grade C). |
+| [NCT00480532](https://clinicaltrials.gov/study/NCT00480532) | N/A | Selesai | 131 | Menilai doksisiklin ditambah penggunaan kontraseptif oral berterusan untuk mengurangkan pendarahan yang tidak dirancang; jerawat disebut hanya sebagai petunjuk doksisiklin umum, bukan titik akhir berkaitan LNG (gred relevan B — pautan ubat/petunjuk tidak disahkan). |
+| [NCT01650168](https://clinicaltrials.gov/study/NCT01650168) | N/A | Selesai | 101,498 | Kohort keselamatan besar membandingkan nomegestrol asetat/estradiol vs. kontraseptif oral gabungan yang mengandungi levonorgestrel; berfokus keselamatan, bukan percubaan keberkesanan jerawat (gred relevan C). |
+| [NCT00161226](https://clinicaltrials.gov/study/NCT00161226) | N/A | Ditamatkan | 44 | Percubaan IUS levonorgestrel (Mirena) untuk pencegahan kanser endometrium pada wanita gemuk berusia 40–50 tahun; jerawat disebut hanya sebagai kesan sampingan progestin oral dalam teks latar belakang, bukan titik akhir kajian (gred relevan C, percubaan ditamatkan). |
+| [NCT05570786](https://clinicaltrials.gov/study/NCT05570786) | Fasa 2 | Selesai | 100 | Implan subderma gestrinon untuk sakit pelvis berkaitan endometriosis; gestrinon, bukan levonorgestrel, dan petunjuk tidak berkaitan (gred relevan C). |
+| [NCT05492487](https://clinicaltrials.gov/study/NCT05492487) | Fasa 2 | Tidak Diketahui | 60 | IUS levonorgestrel (Mirena) vs. megestrol asetat untuk rawatan hiperplasia endometrial atipikal yang mengekalkan kesuburan; tidak berkaitan dengan jerawat (gred relevan C). |
 
-**Note:** None of the identified trials directly test levonorgestrel for acne treatment — all are graded B/C relevance (indirect or confounded). No dedicated levonorgestrel-acne clinical trial was found.
+**Nota:** Tiada satu pun percubaan yang dikenalpasti menguji levonorgestrel secara langsung untuk rawatan jerawat — semuanya memiliki relevan gred B/C (tidak langsung atau keliru). Tiada percubaan klinikal levonorgestrel-jerawat yang berdedikasi ditemui.
 
 ---
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [12196750](https://pubmed.ncbi.nlm.nih.gov/12196750/) | 2002 | RCT | Journal of the American Academy of Dermatology | Placebo-controlled RCT: low-dose oral contraceptive (20 mcg ethinyl estradiol + 100 mcg levonorgestrel) improved moderate acne, supporting a net benefit for this specific combination. |
-| [15025547](https://pubmed.ncbi.nlm.nih.gov/15025547/) | 2004 | Review | Drugs | Ethinylestradiol/chlormadinone acetate was significantly more effective than ethinylestradiol/levonorgestrel for mild-to-moderate papulopustular acne — indicates levonorgestrel is a weaker antiacne progestin than antiandrogenic alternatives. |
-| [6084924](https://pubmed.ncbi.nlm.nih.gov/6084924/) | 1984 | Comparative Study | Acta Dermato-Venereologica | Compared serum testosterone/SHBG in female acne patients on desogestrel- vs. levonorgestrel-containing oral contraceptives; provides direct biochemical comparison relevant to LNG's androgenic profile. |
-| [21895044](https://pubmed.ncbi.nlm.nih.gov/21895044/) | 2011 | Review | American Journal of Clinical Dermatology | Reviews hyperandrogenism-driven acne, hirsutism, seborrhea, and dermatological benefits of antiandrogenic progestin combinations — contextualizes why progestin choice matters for acne outcomes. |
-| [7825629](https://pubmed.ncbi.nlm.nih.gov/7825629/) | 1995 | Review/Pharmacology | The American Journal of Medicine | Classic review establishing levonorgestrel's relatively high androgenic activity among progestins — the central mechanistic caveat for this prediction. |
-| [16796485](https://pubmed.ncbi.nlm.nih.gov/16796485/) | 2006 | Review | Journal of Women's Health | Reviews drospirenone vs. medroxyprogesterone acetate, levonorgestrel, and micronized progesterone, noting antiandrogenic progestins reduce acne vulgaris and hirsutism more than levonorgestrel. |
-| [11727177](https://pubmed.ncbi.nlm.nih.gov/11727177/) | 2001 | Review | Seminars in Reproductive Medicine | General pharmacology of levonorgestrel-releasing intrauterine systems; background contraceptive mechanism, not acne-specific. |
-| [11091988](https://pubmed.ncbi.nlm.nih.gov/11091988/) | 2000 | Review | Obstetrics and Gynecology Clinics of North America | Reviews levonorgestrel implant contraception mechanisms (ovulation/luteal inhibition, cervical mucus changes); general MOA background. |
-| [14688179](https://pubmed.ncbi.nlm.nih.gov/14688179/) | 2004 | Cohort | Human Reproduction | Levonorgestrel IUS for endometriosis symptom control; supports general levonorgestrel evidence base but not acne-related. |
-| [32909630](https://pubmed.ncbi.nlm.nih.gov/32909630/) | 2020 | Systematic Review | Cochrane Database of Systematic Reviews | Cochrane review of levonorgestrel-releasing IUS for endometrial hyperplasia; general safety/efficacy reference, unrelated to acne. |
+| [12196750](https://pubmed.ncbi.nlm.nih.gov/12196750/) | 2002 | RCT | Journal of the American Academy of Dermatology | RCT terkawal plasebo: kontraseptif oral dos rendah (20 mcg etinilestradiol + 100 mcg levonorgestrel) meningkatkan jerawat sederhana, menyokong faedah bersih untuk kombinasi tertentu ini. |
+| [15025547](https://pubmed.ncbi.nlm.nih.gov/15025547/) | 2004 | Ulasan | Drugs | Etinilestradiol/klormadinon asetat adalah **jauh lebih berkesan** daripada etinilestradiol/levonorgestrel untuk jerawat papulopustular ringan hingga sederhana — menunjukkan levonorgestrel ialah progestin anti-jerawat yang lebih lemah daripada alternatif antiandrogenik. |
+| [6084924](https://pubmed.ncbi.nlm.nih.gov/6084924/) | 1984 | Kajian Perbandingan | Acta Dermato-Venereologica | Membandingkan testosteron serum/SHBG pada pesakit jerawat wanita dalam kontraseptif oral yang mengandungi desogestrel vs. levonorgestrel; memberikan perbandingan biokimia langsung yang berkaitan dengan profil androgenik LNG. |
+| [21895044](https://pubmed.ncbi.nlm.nih.gov/21895044/) | 2011 | Ulasan | American Journal of Clinical Dermatology | Mengulas jerawat yang didorong oleh hiperandrogenisme, hirsutisme, seborrhea, dan manfaat dermatologi kombinasi progestin antiandrogenik — mencontekstualisasikan mengapa pilihan progestin penting untuk hasil jerawat. |
+| [7825629](https://pubmed.ncbi.nlm.nih.gov/7825629/) | 1995 | Ulasan/Farmakologi | The American Journal of Medicine | Ulasan klasik yang menetapkan aktiviti androgenik levonorgestrel yang agak tinggi dalam kalangan progestin — kaveat mekanistik utama untuk ramalan ini. |
+| [16796485](https://pubmed.ncbi.nlm.nih.gov/16796485/) | 2006 | Ulasan | Journal of Women's Health | Mengulas drospirenon vs. medroksiprogesterona asetat, levonorgestrel, dan progesteron terhablur-halus, mencatat progestin antiandrogenik mengurangkan jerawat vulgaris dan hirsutisme lebih daripada levonorgestrel. |
+| [11727177](https://pubmed.ncbi.nlm.nih.gov/11727177/) | 2001 | Ulasan | Seminars in Reproductive Medicine | Farmakologi umum sistem intrauterus melepas levonorgestrel; mekanisme kontraseptif latar belakang, bukan spesifik jerawat. |
+| [11091988](https://pubmed.ncbi.nlm.nih.gov/11091988/) | 2000 | Ulasan | Obstetrics and Gynecology Clinics of North America | Mengulas mekanisme kontrasepsi implan levonorgestrel (pencegahan ovulasi/luteal, perubahan mukus serviks); latar belakang MOA umum. |
+| [14688179](https://pubmed.ncbi.nlm.nih.gov/14688179/) | 2004 | Kohort | Human Reproduction | IUS levonorgestrel untuk kawalan simptom endometriosis; menyokong asas bukti levonorgestrel umum tetapi bukan berkaitan jerawat. |
+| [32909630](https://pubmed.ncbi.nlm.nih.gov/32909630/) | 2020 | Ulasan Sistematik | Cochrane Database of Systematic Reviews | Ulasan Cochrane tentang IUS melepas levonorgestrel untuk hiperplasia endometrium; rujukan keselamatan/keberkesanan umum, tidak berkaitan dengan jerawat. |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Detailed authorization records (license numbers, product names, dosage forms, manufacturers) were not available in this evidence pack — the license entries returned were empty. NPRA data confirms **15 active marketing authorizations** for levonorgestrel-containing products in Malaysia, with overall market status **✓ Marketed**. License-level detail should be pulled directly from the NPRA product registry (QUEST3+) to complete this section.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-**Note:** NPRA/TFDA label data (key warnings, contraindications, and drug-drug interactions) could not be retrieved for this evidence pack — this is flagged as a **Blocking** data gap (DG001), which means the mandatory S1 safety screening step has not yet been completed for this candidate.
+Rekod kebenaran terperinci (nombor lesen, nama produk, bentuk dos, pengeluar) tidak tersedia dalam pakej bukti ini — entri lesen yang dikembalikan adalah kosong. Data NPRA mengesahkan **15 kebenaran pemasaran aktif** untuk produk yang mengandungi levonorgestrel di Malaysia, dengan status pasaran keseluruhan **✓ Dipasarkan**. Butiran tahap lesen harus diambil terus daripada daftar produk NPRA (QUEST3+) untuk melengkapkan bahagian ini.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-**Rationale:**
-- Mechanistic evidence is mixed: levonorgestrel is comparatively more androgenic than other progestins, and literature directly comparing formulations shows antiandrogenic progestins (e.g., chlormadinone acetate) outperform levonorgestrel-containing pills for acne. The one supportive RCT (PMID 12196750) demonstrates benefit only for a specific fixed-dose combined estrogen/levonorgestrel formulation, not levonorgestrel alone.
-- A **Blocking** data gap (DG001 — missing NPRA label warnings/contraindications) currently prevents completion of the required S1 safety screening.
+**Nota:** Data label NPRA/TFDA (amaran utama, kontraindikasi, dan interaksi ubat-ubatan) tidak dapat diambil untuk pakej bukti ini — ini ditandai sebagai jurang data **Penyekat** (DG001), yang bermaksud langkah pemeriksaan keselamatan S1 wajib belum selesai untuk calon ini.
 
-**To proceed, the following is needed:**
-- Retrieve NPRA-approved package insert text (warnings, contraindications) to close data gap DG001 (Blocking)
-- Obtain detailed mechanism-of-action documentation from DrugBank to close data gap DG002
-- Identify or conduct a study evaluating levonorgestrel specifically (as opposed to combined EE/LNG formulations) for acne, since current supportive evidence is confounded by the estrogen component
-- Confirm which of the 15 Malaysia-registered levonorgestrel products (oral pill, IUS, or emergency contraceptive) would be the relevant formulation/route if this indication were pursued, since route compatibility is currently unassessed
+---
+
+## Kesimpulan dan Langkah Berikutnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+- Bukti mekanistik bercampur-aduk: levonorgestrel adalah lebih androgenik berbanding progestin lain, dan literatur yang membandingkan formulasi secara langsung menunjukkan progestin antiandrogenik (cth., klormadinon asetat) mengatasi pil yang mengandungi levonorgestrel untuk jerawat. RCT yang menyokong satu-satunya (PMID 12196750) menunjukkan faedah hanya untuk formulasi estrogen/levonorgestrel dos tetap gabungan tertentu, bukan levonorgestrel bersendirian.
+- Jurang data **Penyekat** (DG001 — peringatan label NPRA/kontraindikasi hilang) kini menghalang penyempurnaan pemeriksaan keselamatan S1 yang diperlukan.
+
+**Untuk meneruskan, berikut diperlukan:**
+- Ambil teks sisipan pakej yang diluluskan NPRA (peringatan, kontraindikasi) untuk menutup jurang data DG001 (Penyekat)
+- Dapatkan dokumentasi mekanisme tindakan terperinci daripada DrugBank untuk menutup jurang data DG002
+- Kenalpasti atau jalankan kajian menilai levonorgestrel secara khusus (berbanding formulasi EE/LNG gabungan) untuk jerawat, kerana bukti yang menyokong kini keliru oleh komponen estrogen
+- Sahkan produk levonorgestrel Malaysia yang didaftar mana (pil oral, IUS, atau kontrasepsi kecemasan) akan menjadi formulasi/laluan yang berkaitan jika petunjuk ini ditimbang, kerana keserasian laluan kini tidak dinilai
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

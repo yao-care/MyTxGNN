@@ -29,79 +29,80 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Zinc Acetate: From Zinc Deficiency (Hypozincemia) to Severe Nonproliferative Diabetic Retinopathy
+# Zinc Acetate: Daripada Kekurangan Zink (Hipozinkemia) kepada Retinopati Diabetik Nonproliferatif Teruk
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-> Zinc acetate is a trace-element replacement therapy, documented in the evidence pack's literature as used for Wilson's disease and hypozincemia (zinc deficiency); Malaysia-specific approved indication text is not available in the current dataset.
-> The TxGNN model predicts it may be effective for **Severe Nonproliferative Diabetic Retinopathy**, with a **99.97% prediction score**,
-> but **0 clinical trials** and **0 publications** currently support this direction — the evidence pack itself flags this as a likely knowledge-graph embedding artifact rather than a genuine biological association.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not specified in Malaysia license data (structured fields empty); literature in this evidence pack references Wilson's disease / hypozincemia (zinc deficiency) as approved uses in other markets |
-| Predicted New Indication | Severe Nonproliferative Diabetic Retinopathy |
-| TxGNN Prediction Score | 99.97% |
-| Evidence Level | L5 (model prediction only) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 5 |
-| Recommended Decision | Hold |
+> Zinc acetate ialah terapi penggantian unsur jejak, yang didokumentasikan dalam literatur pakej bukti sebagai digunakan untuk penyakit Wilson dan hipozinkemia (kekurangan zink); teks petunjuk yang diluluskan khusus Malaysia tidak tersedia dalam set data semasa.
+> Model TxGNN meramalkan ia mungkin berkesan untuk **Retinopati Diabetik Nonproliferatif Teruk**, dengan **skor ramalan 99.97%**,
+> tetapi **0 ujian klinikal** dan **0 penerbitan** kini menyokong arah ini — pakej bukti itu sendiri menandakan ini sebagai artefak penyematan graf pengetahuan yang mungkin daripada persatuan biologi yang tulen.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Tinjauan Cepat
 
-Currently, detailed mechanism of action data is not available (Data Gap DG002). Based on the literature captured elsewhere in this evidence pack, zinc acetate belongs to the trace-element replacement class, with established use in Wilson's disease (copper chelation via metallothionein induction) and in hypozincemia/zinc deficiency states. No original-indication data was provided in the Malaysia license records to compare against.
-
-For this specific prediction, the evidence pack's own analysis is explicit and should be taken at face value: there is **no verifiable mechanistic link** between zinc supplementation and progression staging of diabetic retinopathy. No clinical trial or publication in the evidence pack addresses this relationship. The very high TxGNN score (99.97%, global rank 764) is assessed by the pipeline as likely reflecting **knowledge-graph embedding similarity bias** rather than a true biological association — the same pattern recurs across several other top-10 predictions for this drug (e.g., "acrodermatitis chronica atrophicans," ranked 5th, is flagged as a probable name-similarity confusion with the unrelated zinc-deficiency condition "acrodermatitis enteropathica").
-
-Among the 10 predicted indications reviewed, the only entry with a biologically plausible rationale and supporting (if indirect) literature is **dermatitis** (rank 4, L4 evidence, "Research Question" stage) — zinc deficiency is a recognized cause of dermatitis-like skin lesions, and oral zinc repletion is standard treatment for that specific etiology. This is a materially stronger signal than the top-ranked prediction and may warrant separate evaluation.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered
+| Perkara | Kandungan |
+|---|---|
+| Petunjuk Asal | Tidak dinyatakan dalam data lesen Malaysia (medan struktur kosong); literatur dalam pakej bukti ini merujuk kepada penyakit Wilson / hipozinkemia (kekurangan zink) sebagai kegunaan yang diluluskan di pasaran lain |
+| Petunjuk Baru Yang Diramalkan | Retinopati Diabetik Nonproliferatif Teruk |
+| Skor Ramalan TxGNN | 99.97% |
+| Tahap Bukti | L5 (ramalan model sahaja) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 5 |
+| Keputusan Yang Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available
+Pada masa ini, data mekanisme tindakan yang terperinci tidak tersedia (Jurang Data DG002). Berdasarkan literatur yang ditangkap di tempat lain dalam pakej bukti ini, zinc acetate termasuk dalam kelas penggantian unsur jejak, dengan kegunaan yang terbina dalam penyakit Wilson (kelasi tembaga melalui induksi metalotionein) dan dalam keadaan hipozinkemia/kekurangan zink. Tiada data petunjuk asal diberikan dalam rekod lesen Malaysia untuk dibandingkan.
 
----
+Untuk ramalan spesifik ini, analisis pakej bukti itu sendiri adalah jelas dan harus diambil pada nilai mukanya: tiada **kaitan mekanistik yang boleh disahkan** antara suplementasi zink dan pementapan perkembangan retinopati diabetik. Tiada ujian klinikal atau penerbitan dalam pakej bukti yang menangani hubungan ini. Skor TxGNN yang sangat tinggi (99.97%, pangkat global 764) dinilai oleh saluran paip sebagai mungkin mencerminkan **bias persamaan penyematan graf pengetahuan** daripada persatuan biologi yang sebenar — corak yang sama terulang di beberapa ramalan 10 teratas lain untuk ubat ini (cth., "acrodermatitis chronica atrophicans," pangkat ke-5, ditandakan sebagai kemungkinan kekeliruan persamaan nama dengan keadaan kekurangan zink yang tidak berkaitan "acrodermatitis enteropathica").
 
-## Malaysia Market Information
-
-Malaysia regulatory data confirms 5 active product registrations (market status: Marketed / Marketed), but the structured license fields (license number, product name, dosage form, manufacturer, approved indication text) are all empty in the current dataset and could not be tabulated. This has been logged as Data Gap DG001 (Blocking severity) — TFDA/NPRA label warnings and indication text need to be sourced directly from the regulator before this section or the safety review below can be completed.
+Antara 10 petunjuk yang diramalkan yang dikaji, satu-satunya entri yang mempunyai rasional yang munasabah secara biologi dan literatur sokongan (jika tidak langsung) ialah **dermatitis** (pangkat 4, L4, peringkat "Soalan Penyelidikan") — kekurangan zink ialah punca yang diiktiraf bagi lesi kulit seperti dermatitis, dan penggantian zink lisan ialah rawatan standard untuk etiologi spesifik tersebut. Ini ialah isyarat yang lebih kuat secara material daripada ramalan yang disenaraikan di atas dan mungkin memerlukan penilaian berasingan.
 
 ---
 
-## Safety Considerations
+## Bukti Ujian Klinikal
 
-Please refer to the package insert for safety information.
-
-*(Note: `safety.key_warnings` and `safety.contraindications` contain only unresolved data gaps, and the DDI query returned no results — this is logged as Data Gap DG001, Blocking severity, and must be resolved before any S1 safety review can proceed.)*
+Pada masa ini tiada ujian klinikal yang berkaitan berdaftar
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Hold**
+Pada masa ini tiada literatur yang berkaitan tersedia
 
-**Rationale:**
-The top-ranked prediction (severe nonproliferative diabetic retinopathy) has zero supporting clinical trials or literature, and the evidence pack's own rationale explicitly attributes the high TxGNN score to probable embedding-similarity bias rather than a real drug-disease relationship. Additionally, a Blocking-severity data gap (missing TFDA/NPRA label warnings and contraindications) prevents any safety pre-screening (S1) regardless of efficacy evidence.
+---
 
-**To proceed, the following is needed:**
-- Resolve DG001 (Blocking): obtain and parse the actual product label/insert for warnings, contraindications, and DDI data
-- Resolve DG002 (High): confirm mechanism of action via DrugBank API query
-- Obtain complete Malaysia license records (license number, product name, dosage form, approved indication text) — current dataset has 5 registrations but no populated fields
-- If pursuing repurposing research, redirect focus toward **dermatitis** (rank 4, L4, "Research Question"), which has a mechanistically coherent rationale (zinc-deficiency dermatitis) versus the unsupported top-ranked prediction
-- No further action recommended on severe/nonproliferative diabetic retinopathy without new primary evidence (trial or mechanistic study) directly linking zinc status to retinopathy progression
+## Maklumat Pasaran Malaysia
+
+Data pengawalseliaan Malaysia mengesahkan 5 pendaftaran produk aktif (status pasaran: Dipasarkan / Dipasarkan), tetapi medan lesen berstruktur (nombor lesen, nama produk, bentuk dos, pengeluar, teks petunjuk yang diluluskan) semuanya kosong dalam set data semasa dan tidak dapat dijadualkan. Ini telah dicatat sebagai Jurang Data DG001 (Keterukan Pemblokiran) — amaran label TFDA/NPRA dan teks petunjuk perlu bersumber terus daripada pengawal selia sebelum bahagian ini atau kajian keselamatan di bawah dapat diselesaikan.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan bungkusan untuk maklumat keselamatan.
+
+*(Nota: `safety.key_warnings` dan `safety.contraindications` mengandungi hanya jurang data yang tidak terselesaikan, dan soalan DDI mengembalikan tiada hasil — ini dicatat sebagai Jurang Data DG001, keterukan Pemblokiran, dan mesti diselesaikan sebelum sebarang kajian keselamatan S1 boleh diteruskan.)*
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Ramalan yang disenaraikan teratas (retinopati diabetik nonproliferatif teruk) mempunyai sifar ujian klinikal atau literatur sokongan, dan rasional pakej bukti itu sendiri secara eksplisit mengaitkan skor TxGNN yang tinggi kepada bias persamaan penyematan yang mungkin daripada hubungan ubat-penyakit yang sebenar. Selain itu, jurang data keterukan Pemblokiran (amaran label TFDA/NPRA dan kontraindikasi yang hilang) menghalang sebarang penyaringan keselamatan pra- (S1) tanpa mengira bukti keberkesanan.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Selesaikan DG001 (Pemblokiran): dapatkan dan parskan label produk/sisipan sebenar untuk amaran, kontraindikasi, dan data DDI
+- Selesaikan DG002 (Tinggi): sahkan mekanisme tindakan melalui pertanyaan DrugBank API
+- Dapatkan rekod lesen Malaysia yang lengkap (nombor lesen, nama produk, bentuk dos, teks petunjuk yang diluluskan) — set data semasa mempunyai 5 pendaftaran tetapi tiada medan yang diisi
+- Jika mengejar penyelidikan perubahan tujuan, alihkan tumpuan ke **dermatitis** (pangkat 4, L4, "Soalan Penyelidikan"), yang mempunyai rasional yang koheren secara mekanistik (dermatitis kekurangan zink) berbanding ramalan yang disenaraikan teratas tanpa sokongan
+- Tiada tindakan selanjutnya disyorkan mengenai retinopati diabetik teruk/nonproliferatif tanpa bukti utama baru (ujian atau kajian mekanistik) yang secara langsung menghubungkan status zink kepada perkembangan retinopati
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,81 +29,82 @@ Tahap bukti: **L4** | Indikasi diramal: **2**
 
 </div>
 
-# Potassium Iodide: From Unspecified Original Indication to Nasal Cavity Disease
+# Kalium Iodida: Dari Indikasi Asal yang Tidak Ditentukan hingga Penyakit Rongga Hidung
 
-## One-Sentence Summary
+## Ringkasan Satu Kalimat
 
-Potassium iodide (DrugBank DB06715) has 121 registered products in Malaysia, but its original approved indication is not recorded in the available registry data.
-The TxGNN model predicts potential relevance to **Nasal Cavity Disease** (score 99.95%), with **0 clinical trials** and **4 case-report publications** — all describing fungal (mycotic) nasal/sinus infections rather than the broad TxGNN category itself, and mostly in veterinary settings.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not specified in available NPRA/registry data |
-| Predicted New Indication | Nasal Cavity Disease |
-| TxGNN Prediction Score | 99.95% |
-| Evidence Level | L4 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 121 |
-| Recommended Decision | Hold |
+Kalium iodida (DrugBank DB06715) memiliki 121 produk terdaftar di Malaysia, tetapi indikasi persetujuan aslinya tidak tercatat dalam data registri yang tersedia.
+Model TxGNN memprediksi potensi relevansi terhadap **Penyakit Rongga Hidung** (skor 99.95%), dengan **0 uji klinis** dan **4 publikasi laporan kasus** — semuanya menjelaskan infeksi nasal/sinus jamur (mikotik) daripada kategori TxGNN yang luas itu sendiri, dan sebagian besar dalam pengaturan veteriner.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Singkat
 
-Currently, detailed mechanism of action data is not available for potassium iodide. Based on the evidence collected, potassium iodide (as a saturated solution, SSKI) has a long traditional history as treatment for subcutaneous and mucosal fungal infections — notably sporotrichosis and mucormycosis (zygomycosis). Its mechanism is not fully elucidated, but is thought to involve direct antifungal activity from released iodine along with modulation of local inflammatory/immune responses.
-
-The literature supporting this prediction describes a narrow clinical scenario — mycotic rhinitis and rhinofacial fungal infections (caused by organisms such as *Aspergillus fumigatus*, *Pseudallescheria boydii*, and *Pythium insidiosum*) — rather than "nasal cavity disease" as a broad category. This represents an **indirect mapping**: the TxGNN score reflects knowledge-graph-level similarity, while actual clinical support is limited to a specific fungal-infection subset of nasal disease, largely in veterinary case reports.
-
-Because the mechanistic and disease-category link is narrow and indirect, and no interventional trials exist, this prediction should be interpreted as hypothesis-generating rather than clinically actionable at this stage.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Item | Kandungan |
+|------|---------|
+| Indikasi Asli | Tidak ditentukan dalam data NPRA/registri yang tersedia |
+| Indikasi Baru yang Diprediksi | Penyakit Rongga Hidung |
+| Skor Prediksi TxGNN | 99.95% |
+| Tingkat Bukti | L4 |
+| Status Pasar Malaysia | ✓ Dipasarkan |
+| Jumlah Pendaftaran | 121 |
+| Keputusan yang Direkomendasikan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Prediksi Ini Masuk Akal?
 
-| PMID | Year | Type | Journal | Key Findings |
+Saat ini, data mekanisme aksi terperinci tidak tersedia untuk kalium iodida. Berdasarkan bukti yang dikumpulkan, kalium iodida (sebagai larutan jenuh, SSKI) memiliki sejarah tradisional yang panjang sebagai pengobatan untuk infeksi jamur subkutan dan mukosa — terutama sporotrikosis dan mukormikosis (zigomikosis). Mekanismenya tidak sepenuhnya dijelaskan, tetapi diyakini melibatkan aktivitas antijamur langsung dari yodium yang dilepaskan bersama dengan modulasi respons inflamasi/imun lokal.
+
+Literatur yang mendukung prediksi ini menjelaskan skenario klinis yang sempit — rinitis mikotik dan infeksi jamur rhinofasial (disebabkan oleh organisme seperti *Aspergillus fumigatus*, *Pseudallescheria boydii*, dan *Pythium insidiosum*) — daripada "penyakit rongga hidung" sebagai kategori yang luas. Ini mewakili **pemetaan tidak langsung**: skor TxGNN mencerminkan kesamaan tingkat grafik pengetahuan, sementara dukungan klinis aktual terbatas pada subset infeksi jamur spesifik penyakit nasal, sebagian besar dalam laporan kasus veteriner.
+
+Karena hubungan mekanistik dan kategori penyakit itu sempit dan tidak langsung, dan tidak ada uji intervensi yang ada, prediksi ini harus ditafsirkan sebagai penghasil hipotesis daripada dapat ditindaklanjuti secara klinis pada tahap ini.
+
+---
+
+## Bukti Uji Klinis
+
+Saat ini tidak ada uji klinis terkait yang terdaftar.
+
+---
+
+## Bukti Literatur
+
+| PMID | Tahun | Jenis | Jurnal | Temuan Utama |
 |------|-----|------|------|---------|
-| [34902797](https://pubmed.ncbi.nlm.nih.gov/34902797/) | 2022 | Case report | Journal de mycologie médicale | Successful potassium iodide treatment for rhinofacial pythiosis (oomycete infection) in sheep, causing nasal cavity and hard palate masses |
-| [39576399](https://pubmed.ncbi.nlm.nih.gov/39576399/) | 2024 | Case report | Veterinary Research Communications | Mycotic rhinitis caused by *Aspergillus fumigatus* in a horse treated with topical clotrimazole plus oral potassium iodide |
-| [10976304](https://pubmed.ncbi.nlm.nih.gov/10976304/) | 2000 | Case report | Journal of the American Veterinary Medical Association | *Pseudallescheria boydii* nasal cavity infection in a horse, treated with intranasal miconazole and intravenous sodium iodide |
-| [7997795](https://pubmed.ncbi.nlm.nih.gov/7997795/) | 1994 | Case report | Revista do Instituto de Medicina Tropical de São Paulo | Human case of nasofacial zygomycosis (mucormycosis) in Brazil showing rapid response to potassium iodide therapy |
+| [34902797](https://pubmed.ncbi.nlm.nih.gov/34902797/) | 2022 | Laporan kasus | Journal de mycologie médicale | Pengobatan kalium iodida yang berhasil untuk pithiosis rhinofasial (infeksi oomiseta) pada domba, menyebabkan rongga nasal dan massa palatum keras |
+| [39576399](https://pubmed.ncbi.nlm.nih.gov/39576399/) | 2024 | Laporan kasus | Veterinary Research Communications | Rinitis mikotik yang disebabkan oleh *Aspergillus fumigatus* pada kuda yang diobati dengan klotrimazol topikal ditambah kalium iodida oral |
+| [10976304](https://pubmed.ncbi.nlm.nih.gov/10976304/) | 2000 | Laporan kasus | Journal of the American Veterinary Medical Association | Infeksi rongga nasal *Pseudallescheria boydii* pada kuda, diobati dengan mikonazol intranasal dan natrium iodida intravena |
+| [7997795](https://pubmed.ncbi.nlm.nih.gov/7997795/) | 1994 | Laporan kasus | Revista do Instituto de Medicina Tropical de São Paulo | Kasus manusia zigomikosis nasofasial (mukormikosis) di Brasil menunjukkan respons cepat terhadap terapi kalium iodida |
 
 ---
 
-## Malaysia Market Information
+## Informasi Pasar Malaysia
 
-Malaysia has 121 registered products containing potassium iodide (market status: Marketed), but authorization numbers, product names, dosage forms, and approved indication text are not available in the current data extract.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
+Malaysia memiliki 121 produk terdaftar yang mengandung kalium iodida (status pasar: Dipasarkan), tetapi nomor otorisasi, nama produk, bentuk dosis, dan teks indikasi yang disetujui tidak tersedia dalam ekstrak data saat ini.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Silakan merujuk pada selebaran kemasan untuk informasi keselamatan.
 
-**Rationale:**
-- Evidence is limited to four case reports (mostly veterinary), addressing a narrower fungal-rhinitis indication rather than the broad "nasal cavity disease" category predicted by TxGNN, with no clinical trials. A second predicted indication (acute laryngopharyngitis, score 99.95%) has no supporting clinical trials or literature at all and is also rated Hold — it will not be pursued further at this stage.
-- Safety review cannot proceed: TFDA/NPRA package insert warnings and contraindications are a blocking data gap (DG001), and mechanism of action data is also missing (DG002).
+---
 
-**To proceed, the following is needed:**
-- Package insert warnings, contraindications, and drug interaction data for potassium iodide (blocking gap, DG001)
-- Verified mechanism of action information (DG002)
-- Clarification of which specific nasal/sinus condition (e.g., fungal rhinosinusitis) TxGNN's "nasal cavity disease" category corresponds to, and whether human (not just veterinary) evidence exists
-- Malaysia-specific license and product details (currently unavailable despite 121 registrations)
+## Kesimpulan dan Langkah Berikutnya
+
+**Keputusan: Tahan**
+
+**Alasan:**
+- Bukti terbatas pada empat laporan kasus (sebagian besar veteriner), mengatasi indikasi rinitis jamur yang lebih sempit daripada kategori "penyakit rongga hidung" yang diprediksi oleh TxGNN, tanpa uji klinis. Indikasi yang diprediksi kedua (laringofaring akut, skor 99.95%) tidak memiliki uji klinis pendukung atau literatur sama sekali dan juga dinilai Tahan — tidak akan ditindaklanjuti lebih lanjut pada tahap ini.
+- Tinjauan keselamatan tidak dapat dilanjutkan: peringatan selebaran kemasan TFDA/NPRA dan kontraindikasi adalah celah data pemblokiran (DG001), dan data mekanisme aksi juga hilang (DG002).
+
+**Untuk melanjutkan, hal berikut diperlukan:**
+- Peringatan selebaran kemasan, kontraindikasi, dan data interaksi obat untuk kalium iodida (celah pemblokiran, DG001)
+- Informasi mekanisme aksi yang diverifikasi (DG002)
+- Klarifikasi kondisi nasal/sinus spesifik mana (misalnya, rinosinusitis jamur) kategori "penyakit rongga hidung" TxGNN sesuai dengan, dan apakah bukti manusia (bukan hanya veteriner) ada
+- Detail lisensi dan produk khusus Malaysia (saat ini tidak tersedia meskipun ada 121 pendaftaran)
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

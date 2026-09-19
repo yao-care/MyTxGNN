@@ -29,96 +29,97 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Betaxolol Hydrochloride: Drug Repurposing Evaluation Report
+# Betaxolol Hidroklorida: Laporan Penilaian Penggunaan Semula Ubat
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Betaxolol hydrochloride is a selective beta-1 adrenergic receptor antagonist (beta-blocker), commonly used for hypertension and glaucoma (ocular hypertension). The TxGNN model **did not generate any predicted new indications** for this drug, and critical data gaps (DrugBank ID, MOA, safety profile) remain unresolved, preventing further evaluation at this time.
+Betaxolol hidroklorida adalah antagonis reseptor adrenergik beta-1 selektif (penyekat beta), yang biasa digunakan untuk hipertensi dan glaukoma (hipertensi okular). Model TxGNN **tidak menghasilkan sebarang indikasi baru yang diramalkan** untuk ubat ini, dan jurang data kritikal (ID DrugBank, MOA, profil keselamatan) tetap belum diselesaikan, menghalang penilaian lanjutan buat masa ini.
 
 ---
 
-## Quick Overview
+## Panduan Ringkas
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | *(Data unavailable — license indication text is empty)* |
-| Predicted New Indication | **None** (no TxGNN predictions generated) |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | **L5** (No predictions, no supporting studies) |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 1 |
-| Recommended Decision | **Hold** |
+| Indikasi Asal | *(Data tidak tersedia — medan teks indikasi lesen kosong)* |
+| Indikasi Baru yang Diramalkan | **Tiada** (tiada ramalan TxGNN dihasilkan) |
+| Skor Ramalan TxGNN | T/A |
+| Tahap Bukti | **L5** (Tiada ramalan, tiada kajian sokongan) |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Jumlah Pendaftaran | 1 |
+| Keputusan yang Disyorkan | **Tangguhkan** |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-No TxGNN prediction was generated for Betaxolol Hydrochloride, so there is no mechanistic rationale to evaluate at this time.
+Tiada ramalan TxGNN yang dihasilkan untuk Betaxolol Hidroklorida, oleh itu tiada nisbah mekanik untuk dinilai buat masa ini.
 
-Based on general pharmacological knowledge, Betaxolol is a cardioselective (beta-1 selective) adrenergic receptor blocker. In its oral form it is used to manage hypertension, and in its ophthalmic form it is used to reduce intraocular pressure in open-angle glaucoma and ocular hypertension. Its selectivity for beta-1 receptors means it has relatively less effect on beta-2 receptors in bronchial and vascular smooth muscle compared to non-selective beta-blockers.
+Berdasarkan pengetahuan farmakologi am, Betaxolol adalah penyekat reseptor adrenergik pemilihan jantung (beta-1 selektif). Dalam bentuk oral ia digunakan untuk mengurus hipertensi, dan dalam bentuk oftalmik ia digunakan untuk mengurangkan tekanan intraokuler dalam glaukoma sudut terbuka dan hipertensi okular. Keseselektifannya untuk reseptor beta-1 bermakna ia mempunyai kesan yang agak kurang pada reseptor beta-2 dalam otot licin bronkial dan vaskular berbanding penyekat beta tidak selektif.
 
-Currently, detailed mechanism of action data was not retrieved from DrugBank (DrugBank ID is missing from this evidence pack). Without a confirmed DrugBank mapping and without any TxGNN prediction output, it is not possible to assess cross-indication mechanistic plausibility.
-
----
-
-## Clinical Trial Evidence
-
-Currently no predicted indication exists, therefore no clinical trial search was performed.
+Pada masa ini, data mekanisme tindakan terperinci tidak diambil daripada DrugBank (ID DrugBank hilang daripada paket bukti ini). Tanpa pemetaan DrugBank yang disahkan dan tanpa sebarang hasil ramalan TxGNN, adalah tidak mungkin untuk menilai kemungkinan mekanik lintas-indikasi.
 
 ---
 
-## Literature Evidence
+## Bukti Percubaan Klinikal
 
-Currently no predicted indication exists, therefore no literature search was performed.
+Pada masa ini tiada indikasi diramalkan, oleh itu tiada carian percubaan klinikal dilakukan.
 
 ---
 
-## Malaysia Market Information
+## Bukti Kesusasteraan
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+Pada masa ini tiada indikasi diramalkan, oleh itu tiada carian kesusasteraan dilakukan.
+
+---
+
+## Maklumat Pasaran Malaysia
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
 |------|------|------|------|
-| *(empty)* | *(empty)* | *(empty)* | *(empty)* |
+| *(kosong)* | *(kosong)* | *(kosong)* | *(kosong)* |
 
-> **Note:** One registration record exists in the NPRA database, but all detail fields (authorization number, product name, dosage form, approved indication) are missing from the evidence pack. This data gap should be remediated by re-querying the NPRA database.
+> **Nota:** Satu rekod pendaftaran wujud dalam pangkalan data NPRA, tetapi semua medan butiran (nombor kebenaran, nama produk, bentuk dos, indikasi yang diluluskan) hilang daripada paket bukti. Jurang data ini harus diperbetulkan dengan soal semula pangkalan data NPRA.
 
 ---
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-> Please refer to the package insert for safety information.
+> Sila rujuk sisipan paket untuk maklumat keselamatan.
 >
-> All safety fields (key warnings, contraindications, drug interactions) are currently unavailable. This is classified as a **Blocking** data gap (DG001) that must be resolved before any safety assessment can proceed.
+> Semua medan keselamatan (amaran utama, kontraindikasi, interaksi ubat) tidak tersedia pada masa ini. Ini diklasifikasikan sebagai jurang data **Menghalang** (DG001) yang mesti diselesaikan sebelum sebarang penilaian keselamatan dapat diteruskan.
 
 ---
 
-## Data Gaps Summary
+## Ringkasan Jurang Data
 
-The following critical data gaps were identified and must be addressed:
+Jurang data kritikal berikut telah dikenal pasti dan mesti ditangani:
 
-| Gap ID | Item | Severity | Impact | Remediation |
+| ID Jurang | Item | Keterukan | Kesan | Remediasi |
 |------|------|------|------|------|
-| DG001 | TFDA Label Warnings / Contraindications | **Blocking** | Cannot enter S1 safety screening | Download and parse the label PDF from the regulatory authority website |
-| DG002 | Mechanism of Action (MOA) | **High** | Affects mechanistic relevance analysis | Query DrugBank API (Betaxolol is likely DB00195) |
-| — | DrugBank ID | High | Cannot retrieve MOA, DDI, or toxicity data | Confirm mapping: Betaxolol → DrugBank DB00195 |
-| — | License detail fields | Medium | Market information table is empty | Re-query NPRA with corrected parameters |
-| — | TxGNN Predictions | High | No repurposing candidates to evaluate | Verify that Betaxolol was included in the KG input and re-run prediction pipeline |
+| DG001 | Amaran Label TFDA / Kontraindikasi | **Menghalang** | Tidak boleh memasuki saringan keselamatan S1 | Muat turun dan huraikan PDF label daripada laman web pihak berkuasa kawal selia |
+| DG002 | Mekanisme Tindakan (MOA) | **Tinggi** | Mempengaruhi analisis relevansi mekanik | Soal API DrugBank (Betaxolol berkemungkinan DB00195) |
+| — | ID DrugBank | Tinggi | Tidak boleh mendapatkan MOA, DDI, atau data ketoksikan | Sahkan pemetaan: Betaxolol → DrugBank DB00195 |
+| — | Medan butiran lesen | Sederhana | Jadual maklumat pasaran kosong | Soal semula NPRA dengan parameter yang diperbetulkan |
+| — | Ramalan TxGNN | Tinggi | Tiada calon penggunaan semula untuk dinilai | Sahkan bahawa Betaxolol telah disertakan dalam input KG dan jalankan semula saluran ramalan |
 
 ---
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tangguhkan**
 
-**Rationale:**
-No TxGNN repurposing predictions were generated for Betaxolol Hydrochloride, and multiple blocking data gaps (safety profile, DrugBank ID, MOA) remain unresolved. There is insufficient information to evaluate any repurposing opportunity.
+**Nisbah:**
+Tiada ramalan penggunaan semula TxGNN yang dihasilkan untuk Betaxolol Hidroklorida, dan jurang data menghalang berganda (profil keselamatan, ID DrugBank, MOA) tetap belum diselesaikan. Tidak ada maklumat yang mencukupi untuk menilai sebarang peluang penggunaan semula.
 
-**To proceed, the following is needed:**
-- **Resolve DrugBank mapping**: Betaxolol Hydrochloride is very likely DrugBank [DB00195](https://go.drugbank.com/drugs/DB00195) — confirm and populate the evidence pack
-- **Retrieve MOA data** from DrugBank to enable mechanistic analysis
-- **Obtain safety information** (warnings, contraindications, DDI) from the package insert or regulatory database
-- **Re-populate NPRA license details** (authorization number, product name, dosage form, approved indication)
-- **Verify TxGNN pipeline input**: Confirm that Betaxolol was correctly mapped in the knowledge graph and re-run the prediction if necessary
-- **Re-generate the evidence pack** once the above gaps are filled, then re-evaluate
+**Untuk meneruskan, yang berikut diperlukan:**
+- **Selesaikan pemetaan DrugBank**: Betaxolol Hidroklorida berkemungkinan besar DrugBank [DB00195](https://go.drugbank.com/drugs/DB00195) — sahkan dan isi paket bukti
+- **Dapatkan data MOA** daripada DrugBank untuk membolehkan analisis mekanik
+- **Dapatkan maklumat keselamatan** (amaran, kontraindikasi, DDI) daripada sisipan paket atau pangkalan data kawal selia
+- **Isi semula butiran lesen NPRA** (nombor kebenaran, nama produk, bentuk dos, indikasi yang diluluskan)
+- **Sahkan input saluran TxGNN**: Sahkan bahawa Betaxolol telah dipetakan dengan betul dalam graf pengetahuan dan jalankan semula ramalan jika perlu
+- **Hasilkan semula paket bukti** apabila jurang di atas telah diisi, kemudian nilai semula
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,71 +29,72 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Panitumumab: From Metastatic Colorectal Cancer (RAS Wild-Type) to Drug-Induced Osteoporosis
+# Panitumumab: Daripada Kanser Kolorektal Metastatik (RAS Wild-Type) kepada Osteoporosis Teraruh Ubat
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Panitumumab is a fully human anti-EGFR IgG2 monoclonal antibody, originally indicated for RAS wild-type metastatic colorectal cancer. The TxGNN model predicts a possible link to **drug-induced osteoporosis** (score 99.13%), but this prediction is currently backed by **0 clinical trials** and **0 publications** — it is a model-only signal with no established mechanistic rationale connecting EGFR-pathway inhibition to bone metabolism.
+Panitumumab adalah antibodi monoklonal IgG2 anti-EGFR manusia penuh, yang asalnya ditunjukkan untuk kanser kolorektal metastatik RAS wild-type. Model TxGNN meramalkan kemungkinan pautan kepada **osteoporosis teraruh ubat** (skor 99.13%), tetapi kini ramalan ini disokongan oleh **0 ujian klinikal** dan **0 penerbitan** — ini adalah isyarat model sahaja tanpa asas mekanistik yang terkenal yang mengaitkan persekat laluan EGFR dengan metabolisme tulang.
 
-## Quick Overview
+## Gambaran Keseluruhan Cepat
 
-| Item | Content |
-|------|------|
-| Original Indication | Metastatic Colorectal Cancer (RAS wild-type)* |
-| Predicted New Indication | Drug-Induced Osteoporosis |
-| TxGNN Prediction Score | 99.13% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Kanser Kolorektal Metastatik (RAS wild-type)* |
+| Petunjuk Baru Diprediksi | Osteoporosis Teraruh Ubat |
+| Skor Ramalan TxGNN | 99.13% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Telah Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan Yang Disyorkan | Tangguh |
 
-\* Malaysia's official approved-indication text is not present in the current data set (license record fields are empty); this value is drawn from the drug's known global indication as referenced in the evidence pack's own rationale text, not from a Malaysia-specific label.
+\* Teks petunjuk yang diluluskan rasmi Malaysia tidak terdapat dalam set data semasa (medan rekod lesen adalah kosong); nilai ini diambil daripada petunjuk global ubat yang diketahui seperti yang dirujuk dalam teks justifikasi pakej bukti sendiri, bukan daripada label khusus Malaysia.
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Panitumumab is a fully human anti-EGFR IgG2 monoclonal antibody that blocks epidermal growth factor receptor signaling, its established mechanism in RAS wild-type metastatic colorectal cancer.
+Panitumumab adalah antibodi monoklonal IgG2 anti-EGFR manusia penuh yang menyekat pensignalan reseptor faktor pertumbuhan epidermal, mekanismenya yang telah ditetapkan dalam kanser kolorektal metastatik RAS wild-type.
 
-For the top-ranked prediction, drug-induced osteoporosis, there is **no known or published mechanistic link** between EGFR-pathway blockade and osteoclast/osteoblast regulation. "Drug-induced osteoporosis" is also a descriptive/adverse-effect category rather than a distinct disease entity, which further limits how meaningfully it can be mapped onto a specific drug mechanism. This candidate reflects TxGNN embedding similarity alone, with no supporting biological hypothesis identified.
+Untuk ramalan berkaitan teratas, osteoporosis teraruh ubat, **tiada pautan mekanistik yang diketahui atau diterbitkan** antara persekat laluan EGFR dan peraturan osteoklas/osteoblas. "Osteoporosis teraruh ubat" juga merupakan kategori deskriptif/kesan sampingan daripada entiti penyakit yang berbeza, yang selanjutnya mengehadkan bagaimana ia dapat dipetakan secara bermakna kepada mekanisme ubat khusus. Calon ini mencerminkan kesamaan penyisipan TxGNN sahaja, tanpa hipotesis biologi yang disokong dikenalpasti.
 
-A second, lower-priority candidate in this evidence pack — severe nonproliferative diabetic retinopathy (score 99.05%) — has a marginally more plausible rationale via EGFR/VEGF crosstalk in angiogenesis research, but likewise has zero clinical or preclinical data specific to panitumumab in this indication, and differs from panitumumab's systemic route versus the local (intravitreal) route typically used for retinal anti-angiogenic therapy.
+Calon berkaitan kedua dengan keutamaan lebih rendah dalam pakej bukti ini — retinopati diabetes takproliferatif yang teruk (skor 99.05%) — mempunyai justifikasi yang sedikit lebih munasabah melalui perbualan silang EGFR/VEGF dalam penyelidikan angiogenesis, namun begitu juga tiada data klinikal atau praklinik khusus untuk panitumumab dalam petunjuk ini, dan terdapat perbezaan dalam laluan pemberian kerana panitumumab menggunakan laluan sistematik manakala laluan lokal (intravitreal) biasanya digunakan untuk terapi anti-angiogenik retina.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-Currently no related clinical trials registered
+Pada masa ini tiada ujian klinikal berkaitan berdaftar
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-Currently no related literature available
+Pada masa ini tiada kesusasteraan berkaitan tersedia
 
-## Cytotoxicity
+## Sitotoksisiti
 
-Panitumumab is an antineoplastic agent (approved for RAS wild-type metastatic colorectal cancer; anti-EGFR monoclonal antibody class).
+Panitumumab adalah ejen antineoplastik (diluluskan untuk kanser kolorektal metastatik RAS wild-type; kelas antibodi monoklonal anti-EGFR).
 
-| Item | Content |
-|------|------|
-| Cytotoxicity Classification | Targeted therapy (anti-EGFR monoclonal antibody) |
-| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
-| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | Please refer to the package insert warnings and precautions |
-| Handling Protection | Please refer to the package insert warnings and precautions |
+| Item | Kandungan |
+|------|----------|
+| Klasifikasi Sitotoksisiti | Terapi bertarget (kelas antibodi monoklonal anti-EGFR) |
+| Risiko Penyamaran Sumsum Tulang | Sila rujuk amaran dan tindakan berjaga-jaga dalam risalah bungkusan |
+| Klasifikasi Emetogenisiti | Sila rujuk amaran dan tindakan berjaga-jaga dalam risalah bungkusan |
+| Item Pemantauan | Sila rujuk amaran dan tindakan berjaga-jaga dalam risalah bungkusan |
+| Perlindungan Pengendalian | Sila rujuk amaran dan tindakan berjaga-jaga dalam risalah bungkusan |
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk risalah bungkusan untuk maklumat keselamatan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah-Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tangguh**
 
-**Rationale:**
-There is zero clinical, preclinical, or literature evidence for either candidate indication, and the top-ranked candidate (drug-induced osteoporosis) has no identifiable mechanistic connection to panitumumab's known pharmacology — this is an L5, model-prediction-only signal. In addition, TFDA/NPRA label safety data (warnings, contraindications) is a **Blocking** data gap (DG001), which by itself prevents progression to initial safety screening (S1) regardless of indication-level evidence.
+**Justifikasi:**
+Tiada bukti klinikal, praklinik, atau kesusasteraan untuk sama ada petunjuk calon, dan calon berkaitan teratas (osteoporosis teraruh ubat) tiada pautan mekanistik yang boleh dikenal pasti kepada farmakologi yang diketahui panitumumab — ini adalah isyarat L5, ramalan model sahaja. Sebagai tambahan, data keselamatan label TFDA/NPRA (amaran, kontraindikasi) adalah **Penghalang** jurang data (DG001), yang dengan sendirinya menghalang kemajuan kepada pemeriksaan keselamatan awal (S1) tanpa mengira bukti tahap petunjuk.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA product label (warnings, contraindications) to clear the Blocking data gap (DG001)
-- Confirmed detailed mechanism of action data (DG001/DG002) to properly evaluate biological plausibility
-- Malaysia license record details (product name, dosage form, approved indication text) — current record is empty
-- Preclinical or mechanistic studies specifically linking anti-EGFR therapy to bone metabolism before further evaluating the osteoporosis candidate
-- If pursuing the secondary candidate (diabetic retinopathy), preclinical data on EGFR-pathway involvement in retinal vasculature specific to panitumumab
+**Untuk meneruskan, yang berikut diperlukan:**
+- Label produk TFDA/NPRA (amaran, kontraindikasi) untuk menjelaskan jurang data Penghalang (DG001)
+- Data mekanisme tindakan terperinci yang disahkan (DG001/DG002) untuk menilai dengan sewajarnya kelayakan biologi
+- Butiran rekod lesen Malaysia (nama produk, bentuk dos, teks petunjuk yang diluluskan) — rekod semasa adalah kosong
+- Kajian praklinik atau mekanistik yang secara khusus mengaitkan terapi anti-EGFR dengan metabolisme tulang sebelum menilai lanjutan calon osteoporosis
+- Jika meneruskan calon sekunder (retinopati diabetes), data praklinik mengenai keterlibatan laluan EGFR dalam vaskular retina yang khusus untuk panitumumab
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

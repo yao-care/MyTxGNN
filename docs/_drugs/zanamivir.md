@@ -29,81 +29,82 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Zanamivir: From Influenza to Pyelonephritis
+# Zanamivir: Daripada Influenza kepada Pyelonephritis
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-> Zanamivir is a neuraminidase inhibitor whose evidence pack does not record a confirmed original indication or approved indication text, but its mechanism (blocking influenza virus release via viral surface glycoprotein inhibition) is well documented in the accompanying rationale.
-> The TxGNN model predicts it may be effective for **Pyelonephritis**, a bacterial urinary tract infection,
-> but this prediction is supported by **0 clinical trials** and **0 publications**, and the evidence pack itself flags the mechanistic link as biologically implausible.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not recorded in TFDA license text or `original_indications` field; evidence pack rationale identifies zanamivir as an anti-influenza neuraminidase inhibitor |
-| Predicted New Indication | Pyelonephritis |
-| TxGNN Prediction Score | 99.84% |
-| Evidence Level | L5 (model prediction only, no supporting clinical trials or literature) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | **Hold** |
+> Zanamivir ialah penghambat neuraminidase yang paket bukti tidak merekodkan petunjuk asal yang disahkan atau teks indikasi yang diluluskan, tetapi mekanismenya (menyekat pelepasan virus influenza melalui perencatan glikoprotein permukaan virus) didokumentasikan dengan baik dalam rasional yang disertakan.
+> Model TxGNN meramalkan ia mungkin berkesan untuk **Pyelonephritis**, jangkitan saluran kencing atas yang berbakteri,
+> tetapi ramalan ini disokong oleh **0 percubaan klinikal** dan **0 penerbitan**, dan paket bukti itu sendiri menandai pautan mekanistik sebagai tidak munasabah secara biologi.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Pantas
 
-Detailed mechanism-of-action data for zanamivir is marked as a data gap (`original_moa: [Data Gap]`), but the evidence pack's own rationale describes it as a **neuraminidase inhibitor** that acts exclusively on the influenza virus surface glycoprotein to block viral particle release — a purely antiviral mechanism.
-
-Pyelonephritis, in contrast, is a **bacterial** upper urinary tract infection (most commonly caused by *E. coli*), driven by bacterial adhesion, invasion, and inflammatory pathways entirely unrelated to influenza viral neuraminidase activity. There is no known cross-reactivity, shared target, or overlapping pathway between viral neuraminidase inhibition and antibacterial activity.
-
-The evidence pack explicitly assesses this link as **not mechanistically supported**: the high TxGNN similarity score is attributed to knowledge-graph embedding proximity rather than any real pharmacological or clinical relationship. This is corroborated by a second, lower-ranked prediction in the same pack (disorder of tyrosine metabolism, score 99.02%), where the only literature returned discusses influenza NA resistance mutations (H274Y/N294S) — topically irrelevant to a hereditary amino acid metabolism disorder, again indicating keyword/entity-matching artifacts rather than genuine repurposing signal. This pattern across both top predictions suggests the current run has a systematic false-positive issue for this drug rather than an isolated anomaly.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Item | Kandungan |
+|------|-----------|
+| Indikasi Asal | Tidak direkodkan dalam teks lesen TFDA atau medan `original_indications`; rasional paket bukti mengenal pasti zanamivir sebagai penghambat neuraminidase anti-influenza |
+| Indikasi Baru Diramalkan | Pyelonephritis |
+| Skor Ramalan TxGNN | 99.84% |
+| Tahap Bukti | L5 (ramalan model sahaja, tiada percubaan klinikal atau penerbitan sokongan) |
+| Status Pasaran Malaysia | ✓ Berada di Pasaran |
+| Bilangan Pendaftaran | 1 |
+| Keputusan Disyorkan | **Tunggu** |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available.
+Data mekanisme tindakan terperinci untuk zanamivir ditandakan sebagai jurang data (`original_moa: [Data Gap]`), tetapi rasional paket bukti itu sendiri menerangkannya sebagai **penghambat neuraminidase** yang bertindak eksklusif pada glikoprotein permukaan virus influenza untuk menyekat pelepasan zarah virus — mekanisme semata-mata antivirus.
+
+Pyelonephritis, sebaliknya, ialah jangkitan saluran kencing atas yang **berbakteri** (paling biasa disebabkan oleh *E. coli*), didorong oleh keadhesifan bakterial, pencerobohan, dan jalur keradangan sepenuhnya tidak berkaitan dengan aktiviti neuraminidase virus influenza. Tiada tindak balas silang yang diketahui, sasaran bersama, atau laluan bertindih antara perencatan neuraminidase virus dan aktiviti antibakteria.
+
+Paket bukti secara eksplisit menilai pautan ini sebagai **bukan sokongan mekanistik**: skor kesamaan TxGNN yang tinggi dikaitkan dengan kedekatan pembenaman graf pengetahuan dan bukannya mana-mana hubungan farmakologi atau klinikal yang sebenar. Ini disokong oleh ramalan kedua yang berpangkat lebih rendah dalam paket yang sama (gangguan metabolisme tirosin, skor 99.02%), di mana satu-satunya kesusasteraan yang dikembalikan membincangkan mutasi rintangan NA influenza (H274Y/N294S) — tidak relevan secara topik dengan gangguan metabolisme asid amino keturunan, sekali lagi menunjukkan artifak padanan kata kunci/entiti dan bukannya isyarat repurposing yang tulen. Corak ini di seluruh kedua-dua ramalan teratas mencadangkan larian semasa mempunyai isu positif palsu sistemik untuk ubat ini dan bukannya anomali terpencil.
 
 ---
 
-## Malaysia Market Information
+## Bukti Percubaan Klinikal
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+Pada masa ini tiada percubaan klinikal yang berkaitan didaftarkan.
+
+---
+
+## Bukti Kesusasteraan
+
+Pada masa ini tiada kesusasteraan yang berkaitan tersedia.
+
+---
+
+## Maklumat Pasaran Malaysia
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
 |---------|------|------|-----------|
-| Not specified in evidence pack | Not specified in evidence pack | Not specified in evidence pack | Not specified in evidence pack |
+| Tidak dinyatakan dalam paket bukti | Tidak dinyatakan dalam paket bukti | Tidak dinyatakan dalam paket bukti | Tidak dinyatakan dalam paket bukti |
 
-*Note: `total_licenses` reports 1 registration, but the license record itself contains no populated fields (number, product name, dosage form, or indication text) in this evidence pack.*
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-*Note: The evidence pack flags TFDA label warnings/contraindications (DG001) as a **Blocking** data gap — this alone prevents the candidate from entering initial safety screening (S1), independent of the efficacy evidence discussed above.*
+*Nota: `total_licenses` melaporkan 1 pendaftaran, tetapi rekod lesen itu sendiri tidak mengandungi medan yang dipenuhi (nombor, nama produk, bentuk dos, atau teks indikasi) dalam paket bukti ini.*
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila rujuk sisipan peket untuk maklumat keselamatan.
 
-**Rationale:**
-The predicted indication (pyelonephritis) has no biologically plausible mechanistic link to zanamivir's known antiviral (neuraminidase-inhibiting) activity, no supporting clinical trials, and no supporting literature — the evidence pack itself classifies this as Evidence Level L5 with a "Hold" scoring recommendation. A second predicted indication in the same pack shows the same pattern (high score, irrelevant literature), suggesting the underlying signal is a graph-embedding artifact rather than a genuine repurposing candidate.
+*Nota: Paket bukti menandakan amaran label TFDA/keterangan kontra (DG001) sebagai jurang data **Menghalang** — ini sahaja menghalang calon daripada memasuki saringan keselamatan awal (S1), bebas daripada bukti keberkesanan yang dibincangkan di atas.*
 
-**To proceed, the following is needed:**
-- Resolve DG001 (Blocking): retrieve and parse the TFDA package insert for warnings/contraindications before any safety screening can begin
-- Resolve DG002 (High): confirm zanamivir's mechanism of action via DrugBank API to formally document the mechanistic mismatch
-- If this candidate is to be pursued further, independent confirmation of a plausible biological rationale (e.g., an off-target antibacterial or immunomodulatory effect) would be required, as none currently exists in the evidence pack
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tunggu**
+
+**Rasional:**
+Indikasi yang diramalkan (pyelonephritis) tidak mempunyai pautan mekanistik yang munasabah secara biologi kepada aktiviti antivirus zanamivir yang diketahui (perencatan neuraminidase), tiada percubaan klinikal sokongan, dan tiada kesusasteraan sokongan — paket bukti itu sendiri mengkelaskan ini sebagai Tahap Bukti L5 dengan cadangan pemarkahan "Tunggu". Indikasi yang diramalkan kedua dalam paket yang sama menunjukkan corak yang sama (skor tinggi, kesusasteraan tidak relevan), mencadangkan isyarat asas ialah artifak pembenaman graf dan bukannya calon repurposing yang tulen.
+
+**Untuk diteruskan, yang berikut diperlukan:**
+- Selesaikan DG001 (Menghalang): ambil dan huraikan sisipan peket TFDA untuk amaran/keterangan kontra sebelum sebarang saringan keselamatan boleh bermula
+- Selesaikan DG002 (Tinggi): sahkan mekanisme tindakan zanamivir melalui API DrugBank untuk mendokumentasikan secara formal ketidakpadanan mekanistik
+- Jika calon ini hendak diteruskan lagi, pengesahan bebas bagi rasional biologi yang munasabah (cth., kesan sambilan antibakteria atau imunomodulatif) diperlukan, kerana tiada yang wujud pada masa ini dalam paket bukti
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

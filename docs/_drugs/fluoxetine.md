@@ -29,98 +29,99 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Fluoxetine: From Depression to Obsessive-Compulsive Disorder
+# Fluoxetine: Dari Kemurungan hingga Gangguan Obsesif-Kompulsif
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-> Fluoxetine is a selective serotonin reuptake inhibitor (SSRI) widely used as an antidepressant. The TxGNN model's top-ranked prediction links it to **Obsessive-Compulsive Disorder (OCD)**, supported by **31 clinical trials** and **20 publications** — though this evidence largely confirms an indication fluoxetine already holds internationally rather than a genuinely novel repurposing hypothesis (see caveat below).
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not available in the Malaysia dataset (all `approved_indication_text` fields are blank). Fluoxetine is broadly known as an antidepressant (SSRI class); Malaysia-specific label text is unverified — see Data Gap DG001. |
-| Predicted New Indication | Obsessive-Compulsive Disorder |
-| TxGNN Prediction Score | 99.96% |
-| Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 7 |
-| Recommended Decision | Proceed with Guardrails |
+> Fluoxetine (fluoksatin) ialah perencat serotonin semula yang terpilih (SSRI) yang digunakan secara meluas sebagai ubat antidepresan. Ramalan model TxGNN yang berada di kedudukan tertinggi menghubungkannya dengan **Gangguan Obsesif-Kompulsif (OCD)**, disokong oleh **31 ujian klinikal** dan **20 penerbitan** — walaupun bukti ini sebahagian besarnya mengesahkan petunjuk yang telah dipegang oleh fluoxetine di peringkat antarabangsa dan bukannya hipotesis ubat rawatan semula yang benar-benar baru (lihat kaveat di bawah).
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Pantas
 
-Currently, detailed mechanism of action data from DrugBank is not available (Data Gap DG002). Based on the evidence pack's own rationale, fluoxetine is a selective serotonin reuptake inhibitor (SSRI) that blocks presynaptic serotonin reuptake, raising serotonin concentration in the prefrontal cortex–striatum–thalamus circuit — the core pharmacological pathway underlying OCD pharmacotherapy.
-
-**Important caveat**: the evidence pack itself notes that OCD is *"an existing approved indication for fluoxetine, not a new drug-repurposing hypothesis"* (fluoxetine has held OCD approval in most major markets for decades, alongside major depressive disorder). The very large trial/literature base here therefore reflects mature, established clinical use rather than an emerging signal — this should be read as **evidence consolidation**, not discovery.
-
-A more genuinely incremental signal in this evidence pack is **dysthymic disorder / persistent depressive disorder** (rank 10, L2), which shares fluoxetine's serotonergic mechanism with major depression but is a distinct chronic-course diagnosis, and is backed by two placebo-controlled RCTs (PMID 15653941, PMID 9160652) specifically in this population — worth flagging alongside the top-ranked OCD result.
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Tidak tersedia dalam set data Malaysia (semua medan `approved_indication_text` adalah kosong). Fluoxetine diketahui secara meluas sebagai ubat antidepresan (kelas SSRI); teks label khusus Malaysia tidak disahkan — lihat Jurang Data DG001. |
+| Petunjuk Baharu yang Diramalkan | Gangguan Obsesif-Kompulsif |
+| Skor Ramalan TxGNN | 99.96% |
+| Tahap Bukti | L1 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 7 |
+| Keputusan yang Disyorkan | Teruskan Bersyarat |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Pada masa kini, data mekanisme tindakan terperinci dari DrugBank tidak tersedia (Jurang Data DG002). Berdasarkan rasional pakej bukti sendiri, fluoxetine ialah perencat serotonin semula yang terpilih (SSRI) yang menyekat pengambilan semula serotonin presinaptik, meningkatkan kepekatan serotonin dalam litar korteks prefrontal–striatum–talamus — laluan farmakologi asas yang mendasari terapi farmakologi OCD.
+
+**Kaveat penting**: pakej bukti sendiri mencatat bahawa OCD ialah *"petunjuk kelulusan sedia ada untuk fluoxetine, bukan hipotesis ubat rawatan semula yang baru"* (fluoxetine telah memegang persetujuan OCD di kebanyakan pasaran utama selama puluhan tahun, bersama gangguan depresif utama). Pangkalan ujian/kesusasteraan yang sangat besar di sini oleh itu mencerminkan penggunaan klinikal yang matang dan ditegakkan, bukan isyarat yang muncul — ini harus dibaca sebagai **penyatuan bukti**, bukan penemuan.
+
+Isyarat yang lebih benar-benar tambahan dalam pakej bukti ini ialah **gangguan dysthymik / gangguan depresan berterusan** (kedudukan 10, L2), yang berkongsi mekanisme serotonergik fluoxetine dengan kemurungan utama tetapi merupakan diagnosis kursus kronik yang berbeza, dan disokong oleh dua RCT terkawal plasebo (PMID 15653941, PMID 9160652) secara khusus dalam populasi ini — berbaloi untuk ditandai bersama hasil OCD yang berada di kedudukan tertinggi.
+
+---
+
+## Bukti Ujian Klinikal
+
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT02022709](https://clinicaltrials.gov/study/NCT02022709) | Phase 4 | Completed | 78 | Efficacy of ERP and SSRIs (and predictors of response) for OCD in a Chinese population — Grade A, directly relevant |
-| [NCT00680602](https://clinicaltrials.gov/study/NCT00680602) | Phase 4 | Completed | 158 | Randomized open trial comparing group CBT vs. fluoxetine for OCD — Grade A, direct head-to-head evidence |
-| [NCT00592852](https://clinicaltrials.gov/study/NCT00592852) | Phase 4 | Terminated | 13 | Pilot study of fluoxetine for OCD in children/adolescents with comorbid bipolar disorder — Grade A, terminated early but direct |
-| [NCT00245635](https://clinicaltrials.gov/study/NCT00245635) | Phase 4 | Completed | 43 | Fluoxetine in pediatric body dysmorphic disorder (OCD-spectrum) — Grade B |
-| [NCT03993535](https://clinicaltrials.gov/study/NCT03993535) | Phase 4 | Completed | 250 | Clinical/neuroimaging predictors of treatment response in OCD — Grade B |
-| [NCT00466609](https://clinicaltrials.gov/study/NCT00466609) | Phase 4 | Completed | 54 | Double-blind augmentation strategies (fluoxetine + quetiapine / + clomipramine) for OCD non-responders |
-| [NCT00074815](https://clinicaltrials.gov/study/NCT00074815) | Phase 3 | Completed | 124 | CBT augmentation of SRI treatment in pediatric OCD partial responders |
-| [NCT00758966](https://clinicaltrials.gov/study/NCT00758966) | Phase 2 | Terminated | 8 | Naltrexone SR ± fluoxetine for OCD, proof-of-concept |
-| [NCT04899687](https://clinicaltrials.gov/study/NCT04899687) | Phase 2 | Recruiting | 60 | Fluoxetine + dextromethorphan open-label crossover pilot in OCD and related disorders |
-| [NCT01148316](https://clinicaltrials.gov/study/NCT01148316) | N/A | Completed | 144 | Adaptive pharmacotherapy strategies (incl. fluoxetine) for pediatric OCD in public health context |
+| [NCT02022709](https://clinicaltrials.gov/study/NCT02022709) | Fasa 4 | Selesai | 78 | Keberkesanan ERP dan SSRI (dan peramal tindak balas) untuk OCD dalam populasi Cina — Gred A, terus relevan |
+| [NCT00680602](https://clinicaltrials.gov/study/NCT00680602) | Fasa 4 | Selesai | 158 | Ujian terbuka stratifikasi rawak membandingkan kumpulan CBT berbanding fluoxetine untuk OCD — Gred A, bukti perbandingan kepala-ke-kepala langsung |
+| [NCT00592852](https://clinicaltrials.gov/study/NCT00592852) | Fasa 4 | Ditamatkan | 13 | Kajian rintis fluoxetine untuk OCD dalam kanak-kanak/remaja dengan gangguan bipolar bergabung — Gred A, ditamatkan lebih awal tetapi langsung |
+| [NCT00245635](https://clinicaltrials.gov/study/NCT00245635) | Fasa 4 | Selesai | 43 | Fluoxetine dalam gangguan dismorfik badan pediatrik (spektrum OCD) — Gred B |
+| [NCT03993535](https://clinicaltrials.gov/study/NCT03993535) | Fasa 4 | Selesai | 250 | Peramal klinikal/neuro-imej bagi tindak balas rawatan dalam OCD — Gred B |
+| [NCT00466609](https://clinicaltrials.gov/study/NCT00466609) | Fasa 4 | Selesai | 54 | Strategi peningkatan buta ganda (fluoxetine + quetiapine / + clomipramine) untuk bukan responden OCD |
+| [NCT00074815](https://clinicaltrials.gov/study/NCT00074815) | Fasa 3 | Selesai | 124 | Peningkatan CBT bagi rawatan SRI dalam responden separa pediatrik OCD |
+| [NCT00758966](https://clinicaltrials.gov/study/NCT00758966) | Fasa 2 | Ditamatkan | 8 | Naltreksone SR ± fluoxetine untuk OCD, bukti konsep |
+| [NCT04899687](https://clinicaltrials.gov/study/NCT04899687) | Fasa 2 | Merekrut | 60 | Fluoxetine + dextromethorphan silang terbuka rintis dalam OCD dan gangguan berkaitan |
+| [NCT01148316](https://clinicaltrials.gov/study/NCT01148316) | N/A | Selesai | 144 | Strategi farmakoterapi adaptif (termasuk fluoxetine) untuk OCD pediatrik dalam konteks kesihatan awam |
 
 ---
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [32242450](https://pubmed.ncbi.nlm.nih.gov/32242450/) | 2020 | Review (Tier 1) | Nordic J Psychiatry | Systematic review/meta-analysis of fluoxetine in acute treatment of pediatric OCD |
-| [8263222](https://pubmed.ncbi.nlm.nih.gov/8263222/) | 1993 | RCT (Tier 1) | J Behav Ther Exp Psychiatry | Meta-analysis: clomipramine, fluoxetine, and behavior therapy all effective for OCD |
-| [38703743](https://pubmed.ncbi.nlm.nih.gov/38703743/) | 2024 | Review (Tier 2) | Compr Psychiatry | Long-term safety/tolerability of off-label high-dose SSRIs in OCD |
-| [2140372](https://pubmed.ncbi.nlm.nih.gov/2140372/) | 1990 | Cohort (Tier 2) | J Clin Psychopharmacol | Retrospective comparison of clomipramine vs. fluoxetine efficacy/side effects in OCD |
-| [11437015](https://pubmed.ncbi.nlm.nih.gov/11437015/) | 2001 | RCT | J Am Acad Child Adolesc Psychiatry | 13-week double-blind placebo-controlled trial of fluoxetine in pediatric OCD |
-| [9286186](https://pubmed.ncbi.nlm.nih.gov/9286186/) | 1997 | RCT | Am J Psychiatry | Placebo-controlled trial of fluoxetine vs. phenelzine for OCD |
-| [31638682](https://pubmed.ncbi.nlm.nih.gov/31638682/) | 2019 | RCT | JAMA | RCT of fluoxetine for obsessive-compulsive behaviors in children/adolescents with ASD |
-| [3894437](https://pubmed.ncbi.nlm.nih.gov/3894437/) | 1985 | Cohort | J Clin Psychopharmacol | Early single-blind trial establishing fluoxetine's effect on OCD symptoms |
-| [1429485](https://pubmed.ncbi.nlm.nih.gov/1429485/) | 1992 | Review | J Clin Psychiatry | Review of serotonergic antidepressants' efficacy in OCD, including fluoxetine |
-| [8993077](https://pubmed.ncbi.nlm.nih.gov/8993077/) | 1996 | Review | Psychopharmacol Bull | Mono/polypharmacotherapy of OCD; fluoxetine among approved SRIs |
+| [32242450](https://pubmed.ncbi.nlm.nih.gov/32242450/) | 2020 | Ulasan (Tahap 1) | Nordic J Psychiatry | Ulasan sistematik/meta-analisis fluoxetine dalam rawatan akut OCD pediatrik |
+| [8263222](https://pubmed.ncbi.nlm.nih.gov/8263222/) | 1993 | RCT (Tahap 1) | J Behav Ther Exp Psychiatry | Meta-analisis: clomipramine, fluoxetine, dan terapi tingkah laku semua berkesan untuk OCD |
+| [38703743](https://pubmed.ncbi.nlm.nih.gov/38703743/) | 2024 | Ulasan (Tahap 2) | Compr Psychiatry | Keselamatan jangka panjang/kebolehtodhanan dos tinggi SSRI luar label dalam OCD |
+| [2140372](https://pubmed.ncbi.nlm.nih.gov/2140372/) | 1990 | Kohort (Tahap 2) | J Clin Psychopharmacol | Perbandingan retrospektif keberkesanan/kesan sampingan clomipramine berbanding fluoxetine dalam OCD |
+| [11437015](https://pubmed.ncbi.nlm.nih.gov/11437015/) | 2001 | RCT | J Am Acad Child Adolesc Psychiatry | Ujian buta ganda plasebo terkawal 13 minggu fluoxetine dalam OCD pediatrik |
+| [9286186](https://pubmed.ncbi.nlm.nih.gov/9286186/) | 1997 | RCT | Am J Psychiatry | Ujian terkawal plasebo fluoxetine berbanding phenelzine untuk OCD |
+| [31638682](https://pubmed.ncbi.nlm.nih.gov/31638682/) | 2019 | RCT | JAMA | RCT fluoxetine untuk tingkah laku obsesif-kompulsif dalam kanak-kanak/remaja dengan ASD |
+| [3894437](https://pubmed.ncbi.nlm.nih.gov/3894437/) | 1985 | Kohort | J Clin Psychopharmacol | Ujian awal buta tunggal yang mewujudkan kesan fluoxetine ke atas simptom OCD |
+| [1429485](https://pubmed.ncbi.nlm.nih.gov/1429485/) | 1992 | Ulasan | J Clin Psychiatry | Ulasan keberkesanan antidepresan serotonergik dalam OCD, termasuk fluoxetine |
+| [8993077](https://pubmed.ncbi.nlm.nih.gov/8993077/) | 1996 | Ulasan | Psychopharmacol Bull | Farmakoterapi mono/poli OCD; fluoxetine dalam kalangan SSRI yang diluluskan |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-NPRA records confirm **7 active registrations** for fluoxetine in Malaysia (market status: ✓ Marketed). However, license-level details (authorization number, product name, dosage form, and approved indication text) are not populated in the current dataset — this is a data gap, not a confirmed absence of registration detail.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-**Note**: Package insert warnings/contraindications (Data Gap DG001) are marked as **Blocking** in the source data — this specifically prevents the candidate from entering the S1 safety pre-assessment stage. Drug interaction (DDI) lookup also returned no results.
+Rekod NPRA mengesahkan **7 pendaftaran aktif** untuk fluoxetine di Malaysia (status pasaran: ✓ Dipasarkan). Walau bagaimanapun, butiran peringkat lesen (nombor kebenaran, nama produk, bentuk dos, dan teks petunjuk diluluskan) tidak diisi dalam set data semasa — ini adalah jurang data, bukan ketiadaan butiran pendaftaran yang disahkan.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Proceed with Guardrails**
+Sila rujuk sisipan paket untuk maklumat keselamatan.
 
-**Rationale:**
-The OCD signal is backed by L1-tier evidence (a Phase 4 RCT and multiple supporting trials/reviews), but this largely reflects fluoxetine's already-established indication rather than new repurposing evidence, and a **Blocking** data gap (missing TFDA/NPRA package insert) currently prevents formal safety pre-assessment (S1).
+**Nota**: Amaran/kontraindikasi sisipan paket (Jurang Data DG001) ditandai sebagai **Menghalang** dalam data sumber — ini secara khusus menghalang calon daripada memasuki peringkat pra-penilaian keselamatan S1. Pencarian interaksi ubat (DDI) juga tidak mengembalikan hasil.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert (warnings, contraindications) — Blocking gap, required before any safety assessment
-- DrugBank-sourced mechanism of action confirmation
-- Malaysia-specific license details (product name, dosage form, approved indication text) to verify whether OCD is already a registered indication locally
-- If pursuing a genuinely incremental signal, consider evaluating dysthymic disorder (rank 10, L2, two supporting placebo-controlled RCTs) as a parallel candidate
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Teruskan Bersyarat**
+
+**Rasional:**
+Isyarat OCD disokong oleh bukti tahap L1 (RCT Fasa 4 dan beberapa ujian/ulasan sokongan), tetapi ini sebahagian besarnya mencerminkan petunjuk fluoxetine yang telah ditegakkan dan bukannya bukti ubat rawatan semula baru, dan jurang data **Menghalang** (sisipan paket TFDA/NPRA hilang) pada masa ini menghalang pra-penilaian keselamatan formal (S1).
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisipan paket TFDA/NPRA (amaran, kontraindikasi) — jurang menghalang, diperlukan sebelum sebarang penilaian keselamatan
+- Pengesahan mekanisme tindakan bersumber DrugBank
+- Butiran lesen khusus Malaysia (nama produk, bentuk dos, teks petunjuk diluluskan) untuk mengesahkan sama ada OCD sudah merupakan petunjuk berdaftar tempatan
+- Jika mengejar isyarat yang benar-benar tambahan, pertimbangkan menilai gangguan dysthymik (kedudukan 10, L2, dua RCT terkawal plasebo sokongan) sebagai calon selari
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

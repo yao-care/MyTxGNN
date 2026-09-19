@@ -29,71 +29,72 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Selumetinib: From Neurofibromatosis Type 1 (NF1)-Associated Plexiform Neurofibromas to Familial Generalized Lentiginosis
+# Selumetinib: Daripada Neurofibromatosis Jenis 1 (NF1)-Berkait Neurofibromas Pleksiform kepada Lentiginosis Umum Keluarga
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Selumetinib is a selective MEK1/2 inhibitor, internationally known and marketed (as Koselugo) for NF1-associated plexiform neurofibromas.
-The TxGNN model predicts it may be effective for **Familial Generalized Lentiginosis**, but this is currently a **model-prediction-only** signal — **no clinical trials and no published literature** support this specific indication.
+Selumetinib ialah penghambat MEK1/2 yang selektif, dikenali secara antarabangsa dan dipasarkan (sebagai Koselugo) untuk neurofibromas pleksiform yang berkait dengan NF1.
+Model TxGNN meramalkan bahawa ia mungkin berkesan untuk **Lentiginosis Umum Keluarga**, tetapi ini adalah isyarat **ramalan model sahaja** — **tiada ujian klinikal dan tiada kesusasteraan terbitan** menyokong indikasi khusus ini.
 
-## Quick Overview
+## Panduan Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | Neurofibromatosis type 1 (NF1)-associated plexiform neurofibromas *(known drug identity; not confirmed by local registration text — see Data Gap DG002)* |
-| Predicted New Indication | Familial Generalized Lentiginosis |
-| TxGNN Prediction Score | 99.96% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|-----------|
+| Indikasi Asal | Neurofibromas pleksiform yang berkait dengan Neurofibromatosis jenis 1 (NF1) *(identiti ubat dikenali; tidak disahkan oleh teks pendaftaran tempatan — lihat Data Gap DG002)* |
+| Indikasi Baru yang Diprediksi | Lentiginosis Umum Keluarga |
+| Skor Prediksi TxGNN | 99.96% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 2 |
+| Keputusan yang Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Prediksi Ini Munasabah?
 
-Currently, detailed mechanism of action data is not available (Data Gap DG002). Based on known information, Selumetinib is a selective MEK1/2 inhibitor acting on the RAS-MAPK signaling pathway, and its efficacy in NF1-associated plexiform neurofibromas has been clinically established.
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia (Data Gap DG002). Berdasarkan maklumat yang diketahui, Selumetinib ialah penghambat MEK1/2 yang selektif yang bertindak pada laluan isyarat RAS-MAPK, dan keberkesanannya dalam neurofibromas pleksiform yang berkait dengan NF1 telah ditubuhkan secara klinikal.
 
-Familial generalized lentiginosis belongs to the LEOPARD syndrome / Noonan syndrome spectrum, a group of RASopathies. The evidence pack's rationale notes that the disease's characteristic melanocyte proliferation may involve over-activation of the RAS-MAPK pathway — the same pathway targeted by Selumetinib — which provides a plausible theoretical rationale for the model's prediction.
+Lentiginosis umum keluarga tergolong dalam spektrum Sindrom LEOPARD / Sindrom Noonan, suatu kumpulan RASopathies. Nota rasional pakej bukti menyatakan bahawa proliferasi melanosit ciri penyakit mungkin melibatkan pengaktifan berlebihan laluan RAS-MAPK — laluan yang sama yang disasarkan oleh Selumetinib — yang memberikan alasan teori yang munasabah untuk ramalan model.
 
-However, this mechanistic link is inferential and not yet backed by any experimental or clinical data. No clinical trials or publications specific to Selumetinib in this indication currently exist, so the biological plausibility described above should be treated as a hypothesis requiring confirmation, not established fact.
+Walau bagaimanapun, kaitan mekanis ini adalah inferensial dan belum disokong oleh sebarang data eksperimental atau klinikal. Tiada ujian klinikal atau penerbitan khusus untuk Selumetinib dalam indikasi ini yang wujud pada masa ini, jadi kebolehpercayaan biologi yang diterangkan di atas harus diperlakukan sebagai hipotesis yang memerlukan pengesahan, bukan fakta yang ditubuhkan.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-Currently no related clinical trials registered
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-Currently no related literature available
+Pada masa ini tiada kesusasteraan berkaitan yang tersedia
 
-## Cytotoxicity
+## Sitotoksisiti
 
-*(Selumetinib is classified as an antineoplastic agent — a MEK1/2 protein kinase inhibitor — under its known international drug classification.)*
+*(Selumetinib diklasifikasikan sebagai agen antineoplastik — penghambat protein kinase MEK1/2 — berdasarkan pengelasan ubat antarabangsa yang diketahui.)*
 
-| Item | Content |
-|------|------|
-| Cytotoxicity Classification | Targeted therapy (MEK1/2 inhibitor) |
-| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
-| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | Please refer to the package insert warnings and precautions |
-| Handling Protection | Please refer to the package insert warnings and precautions |
+| Item | Kandungan |
+|------|-----------|
+| Pengelasan Sitotoksisiti | Terapi sasaran (penghambat MEK1/2) |
+| Risiko Penindasan Sumsum Tulang | Sila rujuk sisipan pakej untuk amaran dan tindakan berjaga-jaga |
+| Pengelasan Emetogeniti | Sila rujuk sisipan pakej untuk amaran dan tindakan berjaga-jaga |
+| Item Pemantauan | Sila rujuk sisipan pakej untuk amaran dan tindakan berjaga-jaga |
+| Perlindungan Pengendalian | Sila rujuk sisipan pakej untuk amaran dan tindakan berjaga-jaga |
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The top-ranked predicted indication (Familial Generalized Lentiginosis) has no clinical trial or literature support — evidence level L5, model prediction only. Combined with two blocking/high-severity data gaps (TFDA/NPRA label warnings, and drug MOA), there is currently no basis for an S1 safety review.
+**Rasional:**
+Indikasi yang diprediksi pangkat teratas (Lentiginosis Umum Keluarga) tidak mempunyai sokongan ujian klinikal atau kesusasteraan — tahap bukti L5, ramalan model sahaja. Digabungkan dengan dua jurang data yang menghalang/berisiko tinggi (amaran label TFDA/NPRA, dan MOA ubat), pada masa ini tiada asas untuk ulasan keselamatan S1.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert warnings and contraindications (DG001, Blocking)
-- DrugBank-confirmed mechanism of action data (DG002, High)
-- Any preclinical or case-level evidence specific to familial generalized lentiginosis or the LEOPARD/Noonan syndrome spectrum
-- Confirmation of the drug's originally approved indication from local registration records (currently blank in both license entries)
+**Untuk meneruskan, yang berikut diperlukan:**
+- Amaran dan kontraindikasi sisipan pakej TFDA/NPRA (DG001, Menghalang)
+- Data mekanisme tindakan yang disahkan DrugBank (DG002, Berisiko Tinggi)
+- Sebarang bukti praklinikal atau peringkat kes khusus untuk lentiginosis umum keluarga atau spektrum Sindrom LEOPARD/Sindrom Noonan
+- Pengesahan indikasi yang diluluskan pada asalnya ubat daripada rekod pendaftaran tempatan (pada masa ini kosong dalam kedua-dua penyertaan lesen)
 
-**Note:** Within this same evidence pack, *peripheral nerve schwannoma* (rank 9) has substantially stronger evidence — a completed Phase 2 trial and 7 supporting publications (evidence level L2, decision stage S2, "Research Question") — and may warrant separate, prioritized evaluation ahead of the top-ranked candidate above.
+**Nota:** Dalam pakej bukti yang sama ini, *schwannoma saraf periferi* (pangkat 9) mempunyai bukti yang jauh lebih kuat — ujian Phase 2 yang selesai dan 7 penerbitan sokongan (tahap bukti L2, peringkat keputusan S2, "Soalan Penyelidikan") — dan mungkin menjamin penilaian berasingan yang diprioritaskan di hadapan calon yang dipangkat teratas di atas.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

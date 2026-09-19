@@ -29,99 +29,100 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Cisatracurium: From Neuromuscular Blockade to Ten Low-Confidence TxGNN Predictions
+# Cisatracurium: Daripada Blokad Neuromuskular kepada Sepuluh Ramalan TxGNN Keyakinan Rendah
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Cisatracurium (DrugBank DB00565) is a nondepolarizing neuromuscular blocking agent used as an adjunct to general anesthesia, to facilitate tracheal intubation and mechanical ventilation. TxGNN's knowledge-graph screening returned **10** candidate new indications, but evidence review found none clinically actionable: the top-scoring candidate (cauda equina syndrome) is very likely a **knowledge-graph false positive** with zero mechanism, trials, or literature support, and the only candidate with any real-world evidence — **preeclampsia** — is supported solely by studies about anesthesia management in obstetric patients, not by any disease-modifying effect of cisatracurium itself.
+Cisatracurium (DrugBank DB00565) adalah agen pemblokir neuromuskular tidak bergumpal yang digunakan sebagai adjuvan kepada anestesia umum, untuk memudahkan intubasi trakeal dan ventilasi mekanik. Pemeriksaan graf pengetahuan TxGNN mengembalikan **10** calon indikasi baru, tetapi kajian bukti mendapati tidak ada yang boleh diambil tindakan secara klinis: calon penilaian tertinggi (sindrom ekor kuda) berkemungkinan besar adalah **positif palsu graf pengetahuan** tanpa mekanisme, ujian, atau sokongan literatur, dan satu-satunya calon dengan bukti dunia sebenar — **preeklampsia** — hanya disokong oleh kajian tentang pengurusan anestesi pada pesakit obstetrik, bukan oleh sebarang kesan pengubah penyakit cisatracurium itu sendiri.
 
 ---
 
-## Quick Overview
+## Gambaran Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | Neuromuscular blockade (skeletal muscle relaxation) as an adjunct to general anesthesia — enables tracheal intubation and mechanical ventilation. Taiwan/Malaysia license text was not populated in this data pull (see Malaysia Market Information below). |
-| Predicted New Indication | Preeclampsia (the only candidate with supporting trials/literature; see rationale for why the top-ranked candidate is excluded) |
-| TxGNN Prediction Score | 99.99% (preeclampsia, global rank 286 of all drug–disease pairs) |
-| Evidence Level | L4 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 4 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Blokad neuromuskular (pelonggaran otot rangka) sebagai adjuvan kepada anestesia umum — membolehkan intubasi trakeal dan ventilasi mekanik. Teks lesen Taiwan/Malaysia tidak diisi dalam cabutan data ini (lihat Maklumat Pasaran Malaysia di bawah). |
+| Indikasi Baru Diprediksi | Preeklampsia (satu-satunya calon dengan sokongan ujian/literatur; lihat rasional mengapa calon penilaian tertinggi dikecualikan) |
+| Skor Ramalan TxGNN | 99.99% (preeklampsia, kedudukan global 286 daripada semua pasangan ubat–penyakit) |
+| Aras Bukti | L4 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 4 |
+| Cadangan Keputusan | Tahan |
 
-### Full TxGNN Candidate Screening Summary
+### Ringkasan Pemeriksaan Calon TxGNN Lengkap
 
-| Rank | Predicted Indication | TxGNN Score | Evidence Level | Decision Stage | Recommendation |
+| Kedudukan | Indikasi Diprediksi | Skor TxGNN | Aras Bukti | Tahap Keputusan | Cadangan |
 |---|---|---|---|---|---|
-| 1 | Cauda equina syndrome | 99.99% | L5 | S0 | Hold (likely graph noise/false positive) |
-| 2 | Preeclampsia | 99.99% | L4 | S1 | Research Question |
-| 3 | Obsolete neurogenic bladder (disease) | 99.99% | L5 | S0 | Hold |
-| 4 | Migraine disorder | 99.98% | L5 | S0 | Hold |
-| 5 | Thrombotic disease | 99.97% | L5 | S0 | Hold |
-| 6 | Irritable bowel syndrome | 99.97% | L5 | S0 | Hold |
-| 7 | Migraine with brainstem aura | 99.97% | L5 | S0 | Hold |
-| 8 | Mild pre-eclampsia | 99.96% | L5 | S0 | Hold |
-| 9 | Severe pre-eclampsia | 99.95% | L5 | S0 | Hold |
-| 10 | Neurocirculatory asthenia | 99.95% | L5 | S0 | Hold |
+| 1 | Sindrom ekor kuda | 99.99% | L5 | S0 | Tahan (kemungkinan bunyi graf/positif palsu) |
+| 2 | Preeklampsia | 99.99% | L4 | S1 | Soalan Penyelidikan |
+| 3 | Kandung kemih neurogenik usang (penyakit) | 99.99% | L5 | S0 | Tahan |
+| 4 | Gangguan migrain | 99.98% | L5 | S0 | Tahan |
+| 5 | Penyakit trombotik | 99.97% | L5 | S0 | Tahan |
+| 6 | Sindrom usus mudah tersinggung | 99.97% | L5 | S0 | Tahan |
+| 7 | Migrain dengan aura batang otak | 99.97% | L5 | S0 | Tahan |
+| 8 | Pre-eklampsia ringan | 99.96% | L5 | S0 | Tahan |
+| 9 | Pre-eklampsia teruk | 99.95% | L5 | S0 | Tahan |
+| 10 | Asthenia neurosirkulasi | 99.95% | L5 | S0 | Tahan |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed mechanism of action data for cisatracurium is not available in this data pack (DrugBank query returned a data gap, flagged High severity). Based on the evidence pack's own mechanistic annotations, cisatracurium is a peripheral, quaternary-ammonium neuromuscular blocker that acts selectively on nicotinic receptors at the skeletal-muscle neuromuscular junction, does not cross the blood–brain barrier, and is eliminated by organ-independent Hofmann elimination rather than hepatic/renal metabolism.
+Data mekanisme tindakan terperinci untuk cisatracurium tidak tersedia dalam pek bukti ini (pertanyaan DrugBank mengembalikan jurang data, ditandakan Keparahan Tinggi). Berdasarkan anotasi mekanistik pek bukti itu sendiri, cisatracurium adalah pemblokir neuromuskular kuaterner perifer yang bertindak secara terpilih pada reseptor nikotinik di persimpangan neuromuskular otot rangka, tidak merentasi halangan darah-otak, dan dihapuskan oleh pemansuhan Hofmann yang bebas organ daripada metabolisme hepatik/renal.
 
-This mechanism explains why **8 of the 10 predictions are not biologically plausible**: cauda equina syndrome, obsolete neurogenic bladder, migraine (both variants), irritable bowel syndrome, thrombotic disease, and neurocirculatory asthenia all require either central nervous system penetration, disease-modifying/anticoagulant activity, or autonomic ganglion effects that cisatracurium does not have. All eight returned zero clinical trials and zero literature, consistent with these being TxGNN knowledge-graph co-occurrence artifacts rather than genuine signals.
+Mekanisme ini menjelaskan mengapa **8 daripada 10 ramalan tidak biologi munasabah**: sindrom ekor kuda, kandung kemih neurogenik usang, migrain (kedua-dua varian), sindrom usus mudah tersinggung, penyakit trombotik, dan asthenia neurosirkulasi semuanya memerlukan sama ada penembusan sistem saraf pusat, aktiviti pengubah penyakit/antikoagulan, atau kesan ganglion autonomik yang cisatracurium tidak memiliki. Semua lapan mengembalikan sifar ujian klinis dan sifar literatur, konsisten dengan ini adalah artifak co-kejadian graf pengetahuan TxGNN daripada isyarat tulen.
 
-The **preeclampsia family** (preeclampsia, mild pre-eclampsia, severe pre-eclampsia) is the only cluster with any supporting real-world evidence, but the link is indirect: preeclampsia/HELLP patients undergoing general anesthesia for cesarean delivery often have hepatic or renal impairment, making cisatracurium — whose elimination does not depend on liver or kidney function — a preferred neuromuscular blocker for *anesthetic management* of these patients. This is a **peri-operative drug-selection rationale**, not evidence that cisatracurium treats preeclampsia itself. The TxGNN score most likely reflects this co-occurrence in obstetric-anesthesia literature rather than a disease-modifying mechanism.
+Keluarga **preeklampsia** (preeklampsia, pre-eklampsia ringan, pre-eklampsia teruk) adalah satu-satunya kelompok dengan mana-mana bukti dunia sebenar yang menyokong, tetapi pautan adalah tidak langsung: pesakit preeklampsia/HELLP yang menjalani anestesia umum untuk persalinan sesar sering mempunyai gangguan hepatik atau renal, menjadikan cisatracurium — yang pemansuhan tidak bergantung pada fungsi hati atau ginjal — pemblokir neuromuskular pilihan untuk *pengurusan anestesi* pesakit ini. Ini adalah **rasional pemilihan ubat peripersalinan**, bukan bukti bahawa cisatracurium merawat preeklampsia itu sendiri. Skor TxGNN paling kemungkinan mencerminkan co-kejadian ini dalam literatur anestesia obstetrik daripada mekanisme pengubah penyakit.
 
 ---
 
-## Clinical Trial Evidence (Preeclampsia)
+## Bukti Ujian Klinis (Preeklampsia)
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT04645719](https://clinicaltrials.gov/study/NCT04645719) | Phase 3 | Unknown | 75 | Magnesium sulfate dosing in obese patients; evaluates eclampsia/pre-eclampsia control as one of several magnesium benefits. Not a cisatracurium intervention trial (relevance grade C). |
-| [NCT04003688](https://clinicaltrials.gov/study/NCT04003688) | N/A | Completed | 74 | Magnesium sulfate dose-calculation strategy in obese patients; same context as above. Not a cisatracurium intervention trial (relevance grade C). |
+| [NCT04645719](https://clinicaltrials.gov/study/NCT04645719) | Fasa 3 | Tidak diketahui | 75 | Dos magnesium sulfat pada pesakit obese; menilai kawalan eklampsia/pre-eklampsia sebagai salah satu daripada beberapa faedah magnesium. Bukan ujian intervensi cisatracurium (gred kaitan C). |
+| [NCT04003688](https://clinicaltrials.gov/study/NCT04003688) | T/A | Selesai | 74 | Strategi pengiraan dos magnesium sulfat pada pesakit obese; konteks yang sama seperti di atas. Bukan ujian intervensi cisatracurium (gred kaitan C). |
 
-Neither trial evaluates cisatracurium directly — both concern magnesium sulfate for eclampsia/pre-eclampsia in the general obstetric-anesthesia setting where cisatracurium may co-occur as an anesthetic agent.
+Tiada ujian menilai cisatracurium secara langsung — kedua-dua berkaitan dengan magnesium sulfat untuk eklampsia/pre-eklampsia dalam tetapan anestesia obstetrik umum di mana cisatracurium mungkin co-terjadi sebagai agen anestesi.
 
-## Literature Evidence (Preeclampsia)
+## Bukti Literatur (Preeklampsia)
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [41103680](https://pubmed.ncbi.nlm.nih.gov/41103680/) | 2025 | Cohort | Anesthesiology and Pain Medicine | Compares inflammatory cytokines (IL-6, leptin, adiponectin) after cesarean section under general vs. spinal anesthesia; does not evaluate cisatracurium's effect on preeclampsia. |
-| [18383970](https://pubmed.ncbi.nlm.nih.gov/18383970/) | 2008 | Case series | Revista Española de Anestesiología y Reanimación | Remifentanil bolus for cesarean section in high-risk patients ineligible for spinal anesthesia; anesthesia-technique case series, not a cisatracurium efficacy study. |
+| [41103680](https://pubmed.ncbi.nlm.nih.gov/41103680/) | 2025 | Kohort | Anesthesiology and Pain Medicine | Membandingkan sitokin keradangan (IL-6, leptin, adiponektin) selepas bahagian cesarean di bawah anestesia umum vs. tulang belakang; tidak menilai kesan cisatracurium terhadap preeklampsia. |
+| [18383970](https://pubmed.ncbi.nlm.nih.gov/18383970/) | 2008 | Siri kes | Revista Española de Anestesiología y Reanimación | Bolus remifentanil untuk bahagian cesarean pada pesakit berisiko tinggi yang tidak layak untuk anestesia tulang belakang; siri kes teknik anestesi, bukan kajian keberkesanan cisatracurium. |
 
-No literature evaluates cisatracurium as a treatment for preeclampsia — both citations are general-anesthesia-technique studies in the obstetric setting.
+Tiada literatur menilai cisatracurium sebagai rawatan untuk preeklampsia — kedua-dua petikan adalah kajian teknik anestesia umum dalam tetapan obstetrik.
 
-**Cauda equina syndrome and the other 7 remaining candidates:** Currently no related clinical trials registered. Currently no related literature available.
-
----
-
-## Malaysia Market Information
-
-License-level detail (registration numbers, product names, dosage forms, approved indication text) was not populated for any of the 4 records in this data pull — all fields returned empty. The regulatory system confirms only the aggregate status: **4 active registrations, market status: Marketed**. Registration-level detail should be pulled directly from the NPRA product register before this is used for regulatory decision-making.
+**Sindrom ekor kuda dan 7 calon baki lain:** Pada masa ini tiada ujian klinis berkaitan didaftarkan. Pada masa ini tiada literatur berkaitan tersedia.
 
 ---
 
-## Safety Considerations
+## Maklumat Pasaran Malaysia
 
-Please refer to the package insert for safety information. (Key warnings, contraindications, and drug-interaction data were not available in this data pull — this is flagged as a Blocking data gap and must be resolved before any safety evaluation.)
+Perincian aras lesen (nombor pendaftaran, nama produk, bentuk dos, teks indikasi yang diluluskan) tidak diisi untuk mana-mana daripada 4 rekod dalam cabutan data ini — semua medan mengembalikan kosong. Sistem kawal selia mengesahkan hanya status agregat: **4 pendaftaran aktif, status pasaran: Dipasarkan**. Perincian aras pendaftaran harus ditarik terus dari daftar produk NPRA sebelum ini digunakan untuk pengambilan keputusan kawal selia.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila rujuk risalah paket untuk maklumat keselamatan. (Data amaran utama, kontraindikasi, dan interaksi ubat tidak tersedia dalam cabutan data ini — ini ditandakan sebagai jurang data Pemblokiran dan mesti diselesaikan sebelum mana-mana penilaian keselamatan.)
 
-**Rationale:**
-None of the 10 TxGNN-predicted indications reach actionable evidence. The highest-scoring candidate (cauda equina syndrome) is mechanistically implausible and has zero supporting trials or literature, most consistent with a knowledge-graph false positive. The only candidate with any supporting evidence, preeclampsia, is backed solely by studies about anesthetic technique in obstetric patients, not by a disease-modifying effect of cisatracurium — this is a drug-selection rationale for existing anesthesia practice, not a new indication.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package-insert warnings and contraindications (Blocking data gap, DG001)
-- Verified mechanism-of-action documentation from DrugBank (High-severity data gap, DG002)
-- If the preeclampsia signal is pursued further: dedicated studies distinguishing "used during anesthesia for cesarean delivery in preeclamptic patients" from an actual disease-modifying effect
-- Complete license-level regulatory detail (registration numbers, product names, dosage forms, approved indication text) from NPRA, currently blank in this data pull
+## Kesimpulan dan Langkah Berikutnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Tiada daripada 10 indikasi diprediksi TxGNN mencapai bukti boleh diambil tindakan. Calon penilaian tertinggi (sindrom ekor kuda) adalah biologi tidak munasabah dan mempunyai sifar ujian atau literatur menyokong, paling konsisten dengan positif palsu graf pengetahuan. Satu-satunya calon dengan mana-mana bukti menyokong, preeklampsia, hanya disokong oleh kajian tentang teknik anestesi pada pesakit obstetrik, bukan oleh kesan pengubah penyakit cisatracurium — ini adalah rasional pemilihan ubat untuk amalan anestesi sedia ada, bukan indikasi baru.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Amaran risalah paket TFDA/NPRA dan kontraindikasi (Jurang data Pemblokiran, DG001)
+- Dokumentasi mekanisme tindakan yang disahkan daripada DrugBank (Jurang data Keparahan Tinggi, DG002)
+- Jika isyarat preeklampsia diterokai lanjut: kajian berdedikasi yang membezakan "digunakan semasa anestesi untuk persalinan cesarean pada pesakit preeklampsia" daripada kesan pengubah penyakit yang sebenar
+- Perincian kawal selia aras lesen lengkap (nombor pendaftaran, nama produk, bentuk dos, teks indikasi yang diluluskan) daripada NPRA, pada masa ini kosong dalam cabutan data ini
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

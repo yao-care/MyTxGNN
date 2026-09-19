@@ -29,76 +29,77 @@ Tahap bukti: **L5** | Indikasi diramal: **3**
 
 </div>
 
-# Sulodexide: From Venous/Thromboembolic Disease to Glanzmann Thrombasthenia
+# Sulodexide: Daripada Penyakit Vena/Tromboembolik kepada Trombastenia Glanzmann
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Sulodexide is a glycosaminoglycan-based agent with antithrombotic, profibrinolytic, and vascular endothelial-protective properties, traditionally used in venous and vascular disorders. The TxGNN model predicts it may be relevant to **Glanzmann Thrombasthenia**, a rare inherited platelet function disorder, but this prediction is currently supported by **no clinical trials and no published literature**, and the drug's known pharmacology points in the opposite therapeutic direction from what this bleeding disorder requires.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not specified in current Malaysia registration data (known clinical use per pharmacological profile: venous disease, diabetic nephropathy, thrombosis-related vascular conditions) |
-| Predicted New Indication | Glanzmann Thrombasthenia |
-| TxGNN Prediction Score | 99.43% |
-| Evidence Level | L5 (model prediction only, no supporting studies) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
-| Recommended Decision | Hold |
+Sulodexide adalah agen berasaskan glikosamingikan dengan sifat antitrombotik, profibrinolitik, dan perlindungan endotel vaskular, yang secara tradisional digunakan dalam gangguan vena dan vaskular. Model TxGNN meramalkan bahawa ia mungkin relevan kepada **Trombastenia Glanzmann**, gangguan fungsi trombosit yang jarang bawaan sejak lahir, tetapi ramalan ini pada masa kini disokong oleh **tiada percubaan klinikal dan tiada kesusastraan yang diterbitkan**, dan farmakoloji yang diketahui bagi ubat ini menunjuk ke arah yang berlawanan dengan apa yang gangguan pendarahan ini memerlukan.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Pantas
 
-Detailed original mechanism of action data is not available in the Evidence Pack (flagged as a High-severity data gap). Based on the pharmacological description provided, sulodexide is a mixture of glycosaminoglycans (a fast-moving heparin-like fraction plus a slower-moving dermatan sulfate fraction) with **antithrombotic/anticoagulant, profibrinolytic, and blood-viscosity-lowering** effects, and it protects the vascular endothelial glycocalyx. Clinically it is used for venous disease and diabetic nephropathy — conditions related to thrombosis and vascular damage.
-
-Glanzmann Thrombasthenia, by contrast, is a congenital bleeding disorder caused by a GPIIb/IIIa receptor defect that impairs platelet aggregation, producing a **bleeding tendency rather than a thrombotic one**. There is a direct mechanistic mismatch: an antithrombotic/anticoagulant-leaning drug is being proposed for a disorder whose treatment goal is to reduce bleeding, not promote further anticoagulation.
-
-The most plausible explanation is that the TxGNN score reflects graph-level proximity between "platelet/coagulation" nodes in the knowledge graph rather than a genuine, directionally-correct pharmacological rationale. The same pattern applies to the other two ranked candidates (primary platelet release disorder, pseudo-von Willebrand disease), which are also bleeding disorders rather than thrombotic ones. This is an important caution rather than a confirmation of biological plausibility.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Perkara | Kandungan |
+|------|-----------|
+| Petunjuk Asal | Tidak dinyatakan dalam data pendaftaran Malaysia semasa (penggunaan klinikal yang diketahui mengikut profil farmakoloji: penyakit vena, nefropati diabetik, keadaan vaskular berkaitan trombosis) |
+| Petunjuk Baharu yang Diramalkan | Trombastenia Glanzmann |
+| Skor Ramalan TxGNN | 99.43% |
+| Tahap Bukti | L5 (ramalan model sahaja, tiada kajian sokongan) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 2 |
+| Saranan Keputusan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available.
+Data mekanisme aksi asal yang terperinci tidak tersedia dalam Pakej Bukti (ditandai sebagai jurang data Tahap Tinggi). Berdasarkan penerangan farmakoloji yang diberikan, sulodexide adalah campuran glikosamingikan (fraksi seperti heparin yang bergerak cepat ditambah fraksi dermatan sulfat yang bergerak lebih perlahan) dengan kesan **antitrombotik/antikoagulan, profibrinolitik, dan perendah kelikatan darah**, dan ia melindungi glikokalikas endotel vaskular. Secara klinikal ia digunakan untuk penyakit vena dan nefropati diabetik — keadaan yang berkaitan dengan trombosis dan kerosakan vaskular.
 
----
+Trombastenia Glanzmann, sebaliknya, adalah gangguan pendarahan bawaan yang disebabkan oleh kecacatan reseptor GPIIb/IIIa yang mengganggu agregasi trombosit, menghasilkan **kecenderungan pendarahan bukan trombotik**. Ada ketidakselarasan mekanisme langsung: ubat yang cenderung antitrombotik/antikoagulan diusulkan untuk gangguan yang matlamat rawatannya adalah mengurangkan pendarahan, bukan mempromosikan antikoagulasi lanjutan.
 
-## Malaysia Market Information
-
-Sulodexide holds 2 active registrations in Malaysia (market status: Marketed), but authorization number, product name, dosage form, and approved indication text are not populated in the current dataset.
+Penjelasan paling munasabah ialah bahawa skor TxGNN mencerminkan kedekatan tingkat graf antara nod "trombosit/koagulasi" dalam graf pengetahuan dan bukannya justifikasi farmakoloji yang tulen dan berorientasi dengan betul. Pola yang sama terpakai pada dua calon pemeringkat lain (gangguan pelepasan trombosit primer, penyakit von Willebrand semu), yang juga merupakan gangguan pendarahan dan bukannya yang trombotik. Ini adalah amaran penting dan bukannya pengesahan kebolehpercayaan biologi.
 
 ---
 
-## Safety Considerations
+## Bukti Percubaan Klinikal
 
-Please refer to the package insert for safety information.
-
-*(Note: TFDA/NPRA package insert warnings and contraindications are flagged as a Blocking data gap (DG001) and must be obtained before any safety-related evaluation can proceed.)*
+Pada masa kini tiada percubaan klinikal yang berkaitan yang didaftarkan.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Kesusastraan
 
-**Decision: Hold**
+Pada masa kini tiada kesusastraan yang berkaitan tersedia.
 
-**Rationale:**
-- Evidence level is L5 (model prediction only) with zero supporting clinical trials or literature, and the proposed mechanistic link is directionally inconsistent — sulodexide's antithrombotic profile does not logically support treatment of a congenital bleeding disorder like Glanzmann Thrombasthenia.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert (warnings, contraindications) — currently a Blocking gap (DG001)
-- Confirmed mechanism of action (MOA) data from DrugBank or primary literature (DG002)
-- Independent pharmacological or preclinical rationale reconciling the antithrombotic/bleeding-disorder mismatch before further investment
-- Complete original approved-indication text from Malaysia license records
+## Maklumat Pasaran Malaysia
+
+Sulodexide memegang 2 pendaftaran aktif di Malaysia (status pasaran: Dipasarkan), tetapi nombor kebenaran, nama produk, bentuk dos, dan teks petunjuk yang diluluskan tidak diisikan dalam set data semasa.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk kepada sisipan pakej untuk maklumat keselamatan.
+
+*(Nota: Peringatan sisipan pakej TFDA/NPRA dan kontraindikasi ditandai sebagai jurang data Menyekat (DG001) dan mesti diperolehi sebelum sebarang penilaian berkaitan keselamatan dapat diteruskan.)*
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Alasan:**
+- Tahap bukti ialah L5 (ramalan model sahaja) dengan sifar percubaan klinikal atau kesusastraan sokongan, dan pautan mekanisme yang dicadangkan adalah tidak konsisten arah — profil antitrombotik sulodexide tidak secara logik menyokong rawatan gangguan pendarahan bawaan seperti Trombastenia Glanzmann.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Sisipan pakej TFDA/NPRA (peringatan, kontraindikasi) — pada masa kini jurang Menyekat (DG001)
+- Data mekanisme aksi (MOA) yang disahkan daripada DrugBank atau kesusastraan utama (DG002)
+- Justifikasi farmakoloji bebas atau praklinikal yang menyelaraskan ketidakselarasan antitrombotik/gangguan pendarahan sebelum pelaburan lanjutan
+- Teks petunjuk asal yang diluluskan lengkap daripada rekod lesen Malaysia
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

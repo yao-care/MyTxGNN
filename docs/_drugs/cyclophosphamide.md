@@ -29,92 +29,93 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Cyclophosphamide: From Alkylating Chemotherapy to Myeloid Leukemia
+# Cyclophosphamide: Dari Kemoterapi Alkilasi ke Leukemia Myeloid
 
-## One-Sentence Summary
+## Ringkasan Satu Kalimat
 
-> Cyclophosphamide is a classic nitrogen mustard alkylating agent long used as a core component of combination chemotherapy and as an immunosuppressant.
-> The TxGNN model predicts it may be effective for **Myeloid Leukemia**,
-> but currently **no clinical trials** and **no publications** in this dataset support this specific direction — the prediction rests on mechanistic plausibility alone.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not available in this dataset (label text and indication list are data gaps). Cyclophosphamide is generally known as a broad-spectrum antineoplastic/immunosuppressant used in lymphoma, leukemia and other combination chemotherapy regimens. |
-| Predicted New Indication | Myeloid Leukemia |
-| TxGNN Prediction Score | 99.47% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+> Cyclophosphamide adalah agen alkilasi nitrogen mustard klasik yang telah lama digunakan sebagai komponen inti dari kemoterapi kombinasi dan sebagai imunosupresan.
+> Model TxGNN memprediksi ia mungkin efektif untuk **Leukemia Myeloid**,
+> tetapi saat ini **tidak ada uji klinis** dan **tidak ada publikasi** dalam dataset ini yang mendukung arah spesifik ini — prediksi ini berdasarkan pada plausibilitas mekanistik semata.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Ringkasan Cepat
 
-Detailed mechanism of action data is not available in this evidence pack (flagged as a High-severity data gap). Based on general pharmacological knowledge, cyclophosphamide is a nitrogen mustard alkylating agent that is metabolically activated to form DNA-crosslinking metabolites, producing cytotoxic effects preferentially in rapidly dividing cell populations — the same principle underlying its established role in lymphoma, leukemia and other combination chemotherapy regimens.
-
-Myeloid leukemia is characterized by highly proliferative myeloid blast populations, which are theoretically susceptible to alkylating-agent cytotoxicity in the same way other nitrogen mustards are used in leukemia treatment protocols. This gives the TxGNN prediction reasonable mechanistic plausibility.
-
-However, this connection should be interpreted with caution: because cyclophosphamide is already a well-established component of many leukemia and lymphoma chemotherapy regimens (e.g., conditioning regimens, CHOP-type protocols), it is unclear whether "myeloid leukemia" here represents a genuinely novel repurposing signal or simply reflects an existing, real-world indication that was not captured in this dataset's `original_indications` field. This ambiguity should be resolved before further action is taken.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Item | Konten |
+|------|--------|
+| Indikasi Asli | Tidak tersedia dalam dataset ini (teks label dan daftar indikasi adalah kesenjangan data). Cyclophosphamide umumnya dikenal sebagai agen antineoplastik/imunosupresan spektrum luas yang digunakan dalam limfoma, leukemia dan regimen kemoterapi kombinasi lainnya. |
+| Indikasi Baru yang Diprediksi | Leukemia Myeloid |
+| Skor Prediksi TxGNN | 99.47% |
+| Tingkat Bukti | L5 |
+| Status Pasar Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Jumlah Pendaftaran | 1 |
+| Rekomendasi Keputusan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Prediksi Ini Masuk Akal?
 
-Currently no related literature available.
+Data mekanisme aksi terperinci tidak tersedia dalam paket bukti ini (ditandai sebagai kesenjangan data keparahan tinggi). Berdasarkan pengetahuan farmakologi umum, cyclophosphamide adalah agen alkilasi nitrogen mustard yang diaktifkan secara metabolis untuk membentuk metabolit penyambung DNA, menghasilkan efek sitotoksik lebih disukai dalam populasi sel yang membelah dengan cepat — prinsip yang sama yang mendasari peran yang sudah ditetapkan dalam limfoma, leukemia dan regimen kemoterapi kombinasi lainnya.
 
----
+Leukemia myeloid dicirikan oleh populasi blast myeloid yang sangat proliferatif, yang secara teoritis rentan terhadap sitotoksisitas agen alkilasi dengan cara yang sama nitrogen mustard lainnya digunakan dalam protokol pengobatan leukemia. Ini memberikan prediksi TxGNN plausibilitas mekanistik yang masuk akal.
 
-## Malaysia Market Information
-
-Malaysia (NPRA) records show the product is marketed with **1 registration**, but detailed license fields (license number, product name, dosage form, manufacturer, approved indication text) are not populated in this dataset and could not be extracted.
+Namun, koneksi ini harus diinterpretasi dengan hati-hati: karena cyclophosphamide sudah merupakan komponen yang mapan dalam banyak regimen kemoterapi leukemia dan limfoma (misalnya, regimen kondisioning, protokol tipe CHOP), tidak jelas apakah "leukemia myeloid" di sini mewakili sinyal repurposing yang benar-benar baru atau hanya mencerminkan indikasi yang sudah ada dan nyata yang tidak ditangkap dalam field `original_indications` dari dataset ini. Ambiguitas ini harus diselesaikan sebelum tindakan lebih lanjut diambil.
 
 ---
 
-## Cytotoxicity
+## Bukti Uji Klinis
 
-Cyclophosphamide is a well-established cytotoxic antineoplastic agent (predicted/associated indications in this pack are all oncologic), so this section applies.
-
-| Item | Content |
-|------|------|
-| Cytotoxicity Classification | Conventional cytotoxic (alkylating agent, nitrogen mustard class) |
-| Myelosuppression Risk | High — leukopenia and thrombocytopenia are well-documented, dose-limiting toxicities of this drug class |
-| Emetogenicity Classification | Moderate to High (dose-dependent; higher with IV administration) |
-| Monitoring Items | CBC with differential, platelet count, renal and hepatic function, urinalysis (hemorrhagic cystitis risk) |
-| Handling Protection | Yes — requires cytotoxic/hazardous drug handling precautions |
-
-Specific toxicity thresholds and monitoring schedules should be confirmed against the official package insert once available, as no product-specific toxicity data was present in this evidence pack.
+Saat ini tidak ada uji klinis terkait yang terdaftar.
 
 ---
 
-## Safety Considerations
+## Bukti Literatur
 
-Please refer to the package insert for safety information.
+Saat ini tidak ada literatur terkait yang tersedia.
 
 ---
 
-## Conclusion and Next Steps
+## Informasi Pasar Malaysia
 
-**Decision: Hold**
+Rekam Malaysia (NPRA) menunjukkan produk dipasarkan dengan **1 pendaftaran**, tetapi field lisensi terperinci (nomor lisensi, nama produk, bentuk dosis, pabrikan, teks indikasi yang disetujui) tidak diisi dalam dataset ini dan tidak dapat diekstrak.
 
-**Rationale:**
-The prediction is supported only by mechanistic plausibility (Evidence Level L5) with zero clinical trials or literature identified, and a Blocking-severity data gap (missing NPRA label warnings/contraindications) prevents even an initial safety assessment.
+---
 
-**To proceed, the following is needed:**
-- NPRA label PDF (warnings, contraindications) to resolve the Blocking data gap
-- DrugBank-confirmed mechanism of action to validate the mechanistic rationale
-- Clarification of whether "myeloid leukemia" is a pre-existing indication not captured in `original_indications`, or a genuine new prediction
-- Targeted literature/trial search specifically for cyclophosphamide in myeloid leukemia to establish a higher evidence level before any Go decision
+## Sitotoksisitas
+
+Cyclophosphamide adalah agen antineoplastik sitotoksik yang mapan (indikasi yang diprediksi/terkait dalam paket ini semuanya onkologis), jadi bagian ini berlaku.
+
+| Item | Konten |
+|------|--------|
+| Klasifikasi Sitotoksisitas | Sitotoksik konvensional (agen alkilasi, kelas nitrogen mustard) |
+| Risiko Supresi Sumsum | Tinggi — leukopenia dan trombositopenia adalah toksisitas pembatas dosis yang terdokumentasi dengan baik dari kelas obat ini |
+| Klasifikasi Emetogenisitas | Sedang hingga Tinggi (tergantung dosis; lebih tinggi dengan pemberian IV) |
+| Item Pemantauan | CBC dengan diferensial, hitung platelet, fungsi ginjal dan hati, urinalisis (risiko sistitis hemoragik) |
+| Perlindungan Penanganan | Ya — memerlukan tindakan pencegahan penanganan obat sitotoksik/berbahaya |
+
+Ambang batas toksisitas spesifik dan jadwal pemantauan harus dikonfirmasi terhadap sisipan kemasan resmi setelah tersedia, karena tidak ada data toksisitas spesifik produk yang ada dalam paket bukti ini.
+
+---
+
+## Pertimbangan Keselamatan
+
+Silakan rujuk sisipan kemasan untuk informasi keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Selanjutnya
+
+**Keputusan: Tahan**
+
+**Alasan:**
+Prediksi didukung hanya oleh plausibilitas mekanistik (Tingkat Bukti L5) tanpa uji klinis atau literatur yang teridentifikasi, dan kesenjangan data keparahan Pemblokiran (label NPRA yang hilang/peringatan kontraindikasi) mencegah bahkan penilaian keselamatan awal.
+
+**Untuk melanjutkan, berikut ini diperlukan:**
+- PDF label NPRA (peringatan, kontraindikasi) untuk mengatasi kesenjangan data Pemblokiran
+- Mekanisme aksi yang dikonfirmasi DrugBank untuk memvalidasi rasional mekanistik
+- Klarifikasi apakah "leukemia myeloid" adalah indikasi yang sudah ada sebelumnya yang tidak ditangkap dalam `original_indications`, atau prediksi baru yang asli
+- Pencarian literatur/uji klinis yang ditargetkan khusus untuk cyclophosphamide dalam leukemia myeloid untuk membangun tingkat bukti yang lebih tinggi sebelum keputusan Go apa pun
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

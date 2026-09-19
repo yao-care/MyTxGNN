@@ -29,99 +29,100 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Pirfenidone: From Idiopathic Pulmonary Fibrosis to Extracutaneous Mastocytoma
+# Pirfenidone: Daripada Idiopatik Pulmonari Fibrosis kepada Extracutaneous Mastocytoma
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Pirfenidone is an oral antifibrotic agent approved for idiopathic pulmonary fibrosis (IPF), acting by inhibiting TGF-β1 and related fibrogenic cytokines to reduce fibroblast proliferation and collagen deposition. The TxGNN model predicts it may be effective for **Extracutaneous Mastocytoma** (Rank 1, score 99.71%), though currently **no clinical trials** or **supporting publications** directly evidence this direction. Notably, among all 10 evaluated predictions, **Fibroblastic Neoplasm (Rank 9)** represents the most mechanistically coherent candidate, backed by **6 preclinical and early-phase publications** — and is highlighted as a supplementary finding in this report.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Idiopathic Pulmonary Fibrosis (IPF) |
-| Predicted New Indication | Extracutaneous Mastocytoma |
-| TxGNN Prediction Score | 99.71% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
-| Recommended Decision | Hold |
+Pirfenidone ialah agen antifibrosis oral yang diluluskan untuk idiopatik pulmonari fibrosis (IPF), bekerja dengan menghalang TGF-β1 dan sitokin fibrogenik berkaitan untuk mengurangkan proliferasi fibroblast dan pemendapan kolagen. Model TxGNN meramalkan ia mungkin berkesan untuk **Extracutaneous Mastocytoma** (Pangkat 1, skor 99.71%), walaupun pada masa ini **tiada ujian klinikal** atau **penerbitan sokongan** secara langsung membuktikan arah ini. Secara ketara, dalam kalangan kesemua 10 ramalan yang dinilai, **Fibroblastic Neoplasm (Pangkat 9)** mewakili calon yang paling koheren dari segi mekanis, disokong oleh **6 penerbitan praklinikal dan fasa awal** — dan diserlahkan sebagai penemuan tambahan dalam laporan ini.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Pantas
 
-Currently, detailed mechanism of action data is not available in the evidence pack. Based on published information, Pirfenidone is a broad-spectrum antifibrotic small molecule that inhibits TGF-β1, platelet-derived growth factor (PDGF), epidermal growth factor (EGF), and fibroblast growth factor (FGF) signaling. This results in reduced fibroblast proliferation, myofibroblast activation, and extracellular matrix accumulation — the hallmark pathological processes in IPF. Its efficacy in this setting has been established in multiple Phase 3 trials leading to regulatory approvals since 2014.
-
-Extracutaneous mastocytoma is a rare mast cell tumor driven primarily by activating KIT mutations (most commonly D816V). Mast cell survival and proliferation are heavily dependent on KIT-mediated signaling rather than TGF-β pathways. Pirfenidone has no known direct inhibitory activity against KIT, making the mechanistic connection indirect at best. The high TxGNN prediction score most likely reflects the model detecting shared tumor microenvironment fibrosis features across mast cell neoplasms — a signal that is biologically plausible but not disease-specific.
-
-Among all 10 predicted indications in this evidence pack, **Fibroblastic Neoplasm (Rank 9)** offers a more compelling biological rationale: fibroblastic tumors such as Dupuytren's disease and desmoid fibromatosis are directly driven by TGF-β1 signaling — the primary pharmacological target of Pirfenidone. However, two adverse event case reports from the literature describing fibroblastic lesion aggravation during Pirfenidone use introduce an important safety signal that must be reviewed before any oncology development is considered.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for Extracutaneous Mastocytoma.
+| Item | Kandungan |
+|------|-----------|
+| Petunjuk Asal | Idiopatik Pulmonari Fibrosis (IPF) |
+| Petunjuk Baru yang Diramalkan | Extracutaneous Mastocytoma |
+| Skor Ramalan TxGNN | 99.71% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 3 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Wajar?
 
-Currently no related literature available for Extracutaneous Mastocytoma.
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia dalam pakej bukti. Berdasarkan maklumat yang diterbitkan, pirfenidone ialah molekul antifibrosis spektrum luas yang menghalang signaling TGF-β1, faktor pertumbuhan yang berasal daripada platelet (PDGF), faktor pertumbuhan epidermis (EGF), dan faktor pertumbuhan fibroblast (FGF). Ini menghasilkan pengurangan dalam proliferasi fibroblast, pengaktifan myofibroblast, dan pengumpulan matriks ekstraselular — proses patologi ciri khas dalam IPF. Keberkesanannya dalam tetapan ini telah ditegakkan dalam pelbagai percubaan Fasa 3 yang membawa kepada kelulusan kawal selia sejak 2014.
+
+Extracutaneous mastocytoma ialah tumor sel mast yang jarang didorong terutamanya oleh mutasi KIT pengaktif (paling umum D816V). Kemandirian dan proliferasi sel mast sangat bergantung pada signaling yang dimediasi KIT daripada laluan TGF-β. Pirfenidone tidak mempunyai aktiviti perencat langsung yang dikenali terhadap KIT, menjadikan sambungan mekanis tidak langsung pada terbaik. Skor ramalan TxGNN yang tinggi kemungkinan besar mencerminkan model mengesan ciri-ciri fibrosis mikrolingkungan tumor yang dikongsi merentasi neoplasma sel mast — isyarat yang boleh didayakan secara biologi tetapi bukan khusus penyakit.
+
+Dalam kalangan kesemua 10 petunjuk yang diramalkan dalam pakej bukti ini, **Fibroblastic Neoplasm (Pangkat 9)** menawarkan rasional biologi yang lebih menarik: tumor fibroblastik seperti penyakit Dupuytren dan fibromatosis desmoid didorong secara langsung oleh signaling TGF-β1 — sasaran farmakologi utama pirfenidone. Walau bagaimanapun, dua laporan kes kejadian buruk daripada literatur yang menggambarkan pengburukan lesi fibroblastik semasa penggunaan Pirfenidone memperkenalkan isyarat keselamatan penting yang mesti dikaji sebelum mana-mana pembangunan onkologi dipertimbangkan.
 
 ---
 
-> **Supplementary Finding — Fibroblastic Neoplasm (Rank 9, Score 99.23%, Evidence Level L4):**
-> This indication has the highest evidence density among all 10 predictions. The 6 supporting publications are summarised below.
+## Bukti Ujian Klinikal
 
-### Supplementary Literature: Fibroblastic Neoplasm
+Pada masa ini tiada ujian klinikal yang berkaitan berdaftar untuk Extracutaneous Mastocytoma.
 
-| PMID | Year | Type | Journal | Key Findings |
+---
+
+## Bukti Literatur
+
+Pada masa ini tiada literatur yang berkaitan tersedia untuk Extracutaneous Mastocytoma.
+
+---
+
+> **Penemuan Tambahan — Fibroblastic Neoplasm (Pangkat 9, Skor 99.23%, Tahap Bukti L4):**
+> Petunjuk ini mempunyai ketumpatan bukti tertinggi dalam kalangan kesemua 10 ramalan. 6 penerbitan sokongan diringkaskan di bawah.
+
+### Literatur Tambahan: Fibroblastic Neoplasm
+
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|------|------|---------|-------------|
-| [12907346](https://pubmed.ncbi.nlm.nih.gov/12907346/) | 2003 | Pilot Clinical Study | Am J Gastroenterology | Pilot evaluation of Pirfenidone in desmoid tumors arising in familial adenomatous polyposis; drug described as broad-spectrum antifibrotic blocking TGF-β1, PDGF, EGF, and FGF, with potential to prevent new fibrotic lesion formation |
-| [27835939](https://pubmed.ncbi.nlm.nih.gov/27835939/) | 2016 | In Vitro Study | BMC Musculoskelet Disord | Pirfenidone inhibited TGF-β1-mediated myofibroblast conversion and fascial contraction in Dupuytren's disease-derived fibroblasts; supports direct mechanistic relevance to fibroblastic proliferative disorders |
-| [30927912](https://pubmed.ncbi.nlm.nih.gov/30927912/) | 2019 | In Vitro Mechanistic Study | BMC Musculoskelet Disord | Pirfenidone suppressed both SMAD and non-SMAD TGF-β1 downstream pathways in Dupuytren's fibroblasts, broadening the mechanistic rationale beyond canonical signaling |
-| [35129055](https://pubmed.ncbi.nlm.nih.gov/35129055/) | 2022 | Preclinical / Formulation Study | Pharm Dev Technol | Injectable Pirfenidone formulation developed for local delivery to Dupuytren's nodules; in vitro data supports TGF-β-induced myofibroblast inhibition as proof of concept for targeted fibroblastic disease treatment |
-| [29702057](https://pubmed.ncbi.nlm.nih.gov/29702057/) | 2018 | Case Report ⚠️ Adverse Signal | The Permanente Journal | Undifferentiated pleomorphic sarcoma reported following Pirfenidone use for IPF; authors note a potential oncologic adverse signal requiring long-term surveillance |
-| [32572469](https://pubmed.ncbi.nlm.nih.gov/32572469/) | 2020 | Case Report ⚠️ Adverse Signal | Rheumatology (Oxford) | Multiple eruptive dermatofibromas aggravated during concomitant Pirfenidone and mycophenolate mofetil use in a systemic sclerosis patient; suggests possible paradoxical fibroblastic stimulation in certain contexts |
+| [12907346](https://pubmed.ncbi.nlm.nih.gov/12907346/) | 2003 | Kajian Klinikal Pelopor | Am J Gastroenterology | Penilaian pelopor pirfenidone dalam tumor desmoid yang timbul dalam poliposis adenomatosa keluarga; ubat digambarkan sebagai perencat antifibrosis spektrum luas yang menghalang TGF-β1, PDGF, EGF, dan FGF, dengan potensi untuk mencegah pembentukan lesi fibrosis baru |
+| [27835939](https://pubmed.ncbi.nlm.nih.gov/27835939/) | 2016 | Kajian In Vitro | BMC Musculoskelet Disord | Pirfenidone menghalang penukaran myofibroblast yang dimediasi TGF-β1 dan penguncupan fasial dalam fibroblast yang berasal daripada penyakit Dupuytren; menyokong kaitan mekanis langsung kepada gangguan proliferatif fibroblastik |
+| [30927912](https://pubmed.ncbi.nlm.nih.gov/30927912/) | 2019 | Kajian Mekanis In Vitro | BMC Musculoskelet Disord | Pirfenidone menekan laluan hiliran SMAD dan non-SMAD TGF-β1 dalam fibroblast Dupuytren, meluaskan rasional mekanis di luar signaling kanonik |
+| [35129055](https://pubmed.ncbi.nlm.nih.gov/35129055/) | 2022 | Kajian Praklinikal / Formulasi | Pharm Dev Technol | Formulasi pirfenidone yang boleh suntik dikembangkan untuk penghantaran setempat ke nodule Dupuytren; data in vitro menyokong perencatan myofibroblast yang diinduksi TGF-β sebagai bukti konsep untuk rawatan penyakit fibroblastik yang disasarkan |
+| [29702057](https://pubmed.ncbi.nlm.nih.gov/29702057/) | 2018 | Laporan Kes ⚠️ Isyarat Buruk | The Permanente Journal | Sarkoma pleomorfi yang tidak dibezakan dilaporkan selepas penggunaan pirfenidone untuk IPF; pengarang nota isyarat onkologi yang berpotensi memerlukan pengawasan jangka panjang |
+| [32572469](https://pubmed.ncbi.nlm.nih.gov/32572469/) | 2020 | Laporan Kes ⚠️ Isyarat Buruk | Rheumatology (Oxford) | Dermatofibroma eruptif berganda yang diburuk semasa penggunaan serentak pirfenidone dan mycophenolate mofetil dalam pesakit skleroderma sistemik; mencadangkan kemungkinan rangsangan fibroblastik paradoks dalam konteks tertentu |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-The evidence pack records **3 active registrations** for Pirfenidone in Malaysia. Detailed product information — including registration numbers, brand names, dosage forms, and approved indication text — was not returned in this data pull and requires a follow-up query to the NPRA product database.
+Pakej bukti merekodkan **3 pendaftaran aktif** untuk pirfenidone di Malaysia. Maklumat produk terperinci — termasuk nombor pendaftaran, nama jenama, bentuk dos, dan teks petunjuk yang diluluskan — tidak dikembalikan dalam tarikan data ini dan memerlukan pertanyaan susulan kepada pangkalan data produk NPRA.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjuk yang Diluluskan |
 |---------------------|-------------|-------------|---------------------|
-| — | — | — | Details not available in current data pull |
+| — | — | — | Perincian tidak tersedia dalam tarikan data semasa |
 
 ---
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk surat sisipan bungkusan untuk maklumat keselamatan.
 
-> ⚠️ **Literature-Derived Safety Signal:** Two published case reports (PMID [29702057](https://pubmed.ncbi.nlm.nih.gov/29702057/), [32572469](https://pubmed.ncbi.nlm.nih.gov/32572469/)) describe fibroblastic or sarcomatous lesions arising or worsening during Pirfenidone use. While causality is unestablished, these signals are hypothesis-generating and should be formally reviewed through pharmacovigilance analysis before any oncology repurposing study is initiated.
+> ⚠️ **Isyarat Keselamatan yang Diperoleh daripada Literatur:** Dua laporan kes yang diterbitkan (PMID [29702057](https://pubmed.ncbi.nlm.nih.gov/29702057/), [32572469](https://pubmed.ncbi.nlm.nih.gov/32572469/)) menerangkan lesi fibroblastik atau sarkomasous yang timbul atau bertambah teruk semasa penggunaan pirfenidone. Walaupun sebab akibat tidak ditegakkan, isyarat ini menimbulkan hipotesis dan harus dikaji secara formal melalui analisis farmakowigilans sebelum mana-mana kajian penghembur semula onkologi dimulakan.
 
 ---
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The top-ranked TxGNN prediction (Extracutaneous Mastocytoma) has a high model score but zero supporting clinical or preclinical evidence, and the mechanistic link to Pirfenidone's TGF-β inhibitory mechanism is indirect. The prediction score likely reflects shared microenvironmental fibrosis features rather than a disease-specific connection, and the evidence base does not support proceeding to any development stage at this time.
+**Rasional:**
+Ramalan TxGNN yang mendapat kedudukan teratas (Extracutaneous Mastocytoma) mempunyai skor model yang tinggi tetapi sifar bukti klinikal atau praklinikal yang menyokong, dan sambungan mekanis kepada mekanisme perencatan TGF-β pirfenidone adalah tidak langsung. Skor ramalan kemungkinan besar mencerminkan ciri-ciri fibrosis mikrolingkungan yang dikongsi daripada sambungan khusus penyakit, dan asas bukti tidak menyokong untuk meneruskan ke mana-mana tahap pembangunan pada masa ini.
 
-**To reconsider this assessment or escalate Fibroblastic Neoplasm as the primary candidate, the following is needed:**
+**Untuk mempertimbangkan semula penilaian ini atau meningkatkan Fibroblastic Neoplasm sebagai calon utama, yang berikut diperlukan:**
 
-- **DG001 – Retrieve package insert:** Download and parse NPRA-registered Pirfenidone package inserts to obtain warnings, contraindications, and hepatotoxicity monitoring requirements, which are essential for any oncology safety evaluation
-- **DG002 – Confirm MOA from DrugBank:** Retrieve the full mechanism of action profile (DB04951) to formalise the TGF-β inhibition rationale and identify any off-target activities relevant to KIT or PDGFR pathways
-- **Regulatory data gap:** Retrieve the 3 Malaysia registration details (product names, dosage forms, indication text) from NPRA to complete market characterisation
-- **Pharmacovigilance review:** Formally assess the two adverse oncologic signal case reports before any tumor-directed repurposing pathway is opened
-- **Systematic review:** Commission or identify an existing systematic review on Pirfenidone in TGF-β-driven fibroblastic neoplasms (desmoid tumors, Dupuytren's disease) to establish whether L3-level evidence exists
-- **Feasibility assessment:** If the pharmacovigilance review is reassuring, evaluate the scientific and regulatory feasibility of a Phase 1/2 exploratory trial in fibroblastic neoplasms
+- **DG001 – Ambil surat sisipan bungkusan:** Muat turun dan huraikan surat sisipan bungkusan pirfenidone yang didaftarkan NPRA untuk mendapatkan amaran, kontraindikasi, dan keperluan pemantauan hepatotoksisiti, yang penting untuk mana-mana penilaian keselamatan onkologi
+- **DG002 – Sahkan MOA daripada DrugBank:** Ambil profil mekanisme tindakan lengkap (DB04951) untuk memformalkan rasional perencatan TGF-β dan mengenalpasti mana-mana aktiviti lepas sasaran yang relevan kepada laluan KIT atau PDGFR
+- **Jurang data kawal selia:** Ambil 3 perincian pendaftaran Malaysia (nama produk, bentuk dos, teks petunjuk) daripada NPRA untuk menyelesaikan pencirian pasaran
+- **Kajian farmakowigilans:** Nilai secara formal dua laporan kes isyarat onkologi buruk sebelum mana-mana laluan penghembur semula yang diarahkan ke tumor dibuka
+- **Ulasan sistematik:** Perakuan atau kenal pasti ulasan sistematik sedia ada mengenai pirfenidone dalam neoplasma fibroblastik yang didorong TGF-β (tumor desmoid, penyakit Dupuytren) untuk menentukan sama ada bukti tahap L3 wujud
+- **Penilaian kebolehlaksanaan:** Jika kajian farmakowigilans menenangkan, nilai kebolehlaksanaan sains dan kawal selia percubaan penerokaan Fasa 1/2 dalam neoplasma fibroblastik
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

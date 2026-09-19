@@ -29,66 +29,67 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Simoctocog Alfa: From Hemophilia A to Pseudo-von Willebrand Disease
+# Simoctocog Alfa: Daripada Hemofilia A kepada Penyakit Pseudo-von Willebrand
 
-## One-Sentence Summary
+## Ringkasan Satu Kalimat
 
-Simoctocog alfa (Nuwiq®) is a fourth-generation recombinant human factor VIII (rFVIII) whose established use is replacement therapy in **Hemophilia A**. The TxGNN model's top-ranked new-indication prediction is **Pseudo-von Willebrand Disease**, but this candidate currently has **zero supporting clinical trials and zero publications**, and the drug's own repurposing rationale argues the underlying mechanism does not match this disease.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Hemophilia A (not populated in the NPRA license records pulled for this pack; inferred from drug identity as rFVIII replacement therapy and corroborated by the hemophilia evidence below) |
-| Predicted New Indication | Pseudo-von Willebrand Disease |
-| TxGNN Prediction Score | 99.99% |
-| Evidence Level | L5 (model prediction only, no supporting studies) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 8 |
-| Recommended Decision | Hold |
+Simoctocog alfa (Nuwiq®) adalah faktor VIII manusia rekombinan generasi keempat (rFVIII) yang penggunaannya yang telah ditetapkan adalah terapi penggantian untuk **Hemofilia A**. Prediksi indikasi baru berperingkat teratas model TxGNN adalah **Penyakit Pseudo-von Willebrand**, tetapi kandidat ini kini tidak memiliki ujian klinis pendukung dan publikasi, dan rasional perawatan ubat itu sendiri menunjukkan bahwa mekanisme asasnya tidak sesuai dengan penyakit ini.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Umum Cepat
 
-Currently, detailed mechanism of action data is not available in this evidence pack (`original_moa` is unresolved). Based on known drug identity, simoctocog alfa is a human-cell-line-derived rFVIII that directly replaces the factor VIII deficient in Hemophilia A patients — its efficacy in that setting is well established (see the Hemophilia evidence below, which was captured for this same drug under a different ranked candidate).
-
-For the top-ranked prediction, **Pseudo-von Willebrand Disease**, the mechanistic case is weak. Per the repurposing rationale supplied with this candidate: pseudo-von Willebrand disease is caused by a platelet GP1BA mutation that abnormally increases platelet affinity for von Willebrand factor (VWF), leading to depletion of high-molecular-weight VWF multimers and consumptive thrombocytopenia — it is **not** a FVIII-deficiency disorder. Supplementing rFVIII does not correct this underlying defect. The high TxGNN score most likely reflects semantic proximity within a "bleeding disorder" embedding cluster rather than a genuine pharmacological mechanism, and no clinical trial or literature evidence currently exists to support the prediction.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
----
-
-## Literature Evidence
-
-Currently no related literature available.
+| Item | Konten |
+|------|--------|
+| Indikasi Asal | Hemofilia A (tidak terdapat dalam catatan lisensi NPRA yang dikumpulkan untuk paket ini; disimpulkan dari identiti ubat sebagai terapi penggantian rFVIII dan disahkan oleh bukti hemofilia di bawah) |
+| Indikasi Baru yang Diprediksi | Penyakit Pseudo-von Willebrand |
+| Skor Prediksi TxGNN | 99.99% |
+| Tingkat Bukti | L5 (prediksi model sahaja, tiada studi pendukung) |
+| Status Pasar Malaysia | ✓ Dipasarkan |
+| Jumlah Pendaftaran | 8 |
+| Keputusan yang Disarankan | Tahan |
 
 ---
 
-## Safety Considerations
+## Mengapa Prediksi Ini Masuk Akal?
 
-Please refer to the package insert for safety information.
+Kini, data mekanisme aksi terperinci tidak tersedia dalam paket bukti ini (`original_moa` tidak diselesaikan). Berdasarkan identiti ubat yang diketahui, simoctocog alfa adalah rFVIII yang berasal daripada lini sel manusia yang secara langsung menggantikan faktor VIII yang kekurangan pada pesakit hemofilia A — keupayaannya dalam tetapan tersebut telah terbukti dengan baik (lihat bukti hemofilia di bawah, yang telah dicatat untuk ubat yang sama dalam konteks calon berperingkat berbeza).
+
+Untuk prediksi berperingkat teratas, **Penyakit Pseudo-von Willebrand**, kes mekanistik adalah lemah. Menurut rasional perawatan ubat yang disediakan dengan calon ini: penyakit pseudo-von Willebrand disebabkan oleh mutasi trombosit GP1BA yang secara tidak normal meningkatkan afiniti trombosit terhadap faktor von Willebrand (VWF), yang menyebabkan penipisan multimer VWF berat molekul tinggi dan trombositopenia konsumptif — ia **bukan** gangguan kekurangan FVIII. Melengkapi rFVIII tidak membetulkan kecacatan asas ini. Skor TxGNN yang tinggi paling mungkin mencerminkan kedekatan semantik dalam kluster embedding "gangguan pendarahan" daripada mekanisme farmakologi yang tulen, dan tiada bukti ujian klinis atau literatur yang ada kini untuk menyokong prediksi.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Ujian Klinis
 
-**Decision: Hold**
+Kini tiada ujian klinis berkaitan yang berdaftar.
 
-**Rationale:**
-- The top-ranked candidate (Pseudo-von Willebrand Disease) has no clinical or literature evidence (L5) and a mechanistic rationale that argues against efficacy, not for it.
-- For context, this evidence pack also screened 9 other TxGNN candidates for simoctocog alfa: the only one with strong evidence is "hemophilia" itself (L1, 3 clinical trials incl. the pivotal NuProtect study, 19 publications) — which is the drug's existing approved indication, not a new repurposing opportunity. The one genuinely novel candidate that reached even a preliminary evidence tier is "symptomatic form of hemophilia in female carriers" (L4, Research Question); all remaining candidates (pseudo-von Willebrand disease, primary platelet release disorder, Glanzmann thrombasthenia, Scott syndrome, acquired coagulation factor deficiency, collagen-receptor bleeding diathesis, constitutional thrombocytopenia, and fetal/neonatal alloimmune thrombocytopenia) are Hold, all L5, and several rationales explicitly note the disease mechanism does not involve FVIII deficiency.
+---
 
-**To proceed, the following is needed:**
-- Resolve the blocking data gap: TFDA/NPRA package insert warnings and contraindications (currently unavailable), required before any S1 safety screening.
-- Obtain confirmed mechanism-of-action data via DrugBank to formally document the drug's original-indication linkage.
-- If pursuing repurposing further, prioritize "symptomatic form of hemophilia in female carriers" over pseudo-von Willebrand disease given its more coherent mechanistic link to FVIII replacement, and commission targeted trial/literature searches for that candidate.
+## Bukti Literatur
+
+Kini tiada literatur berkaitan yang tersedia.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk prospektus untuk maklumat keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+- Calon berperingkat teratas (Penyakit Pseudo-von Willebrand) tidak memiliki bukti klinis atau literatur (L5) dan rasional mekanistik yang berhujah menentang keberkesanan, bukan memenyokongnya.
+- Untuk konteks, paket bukti ini juga menyaring 9 calon TxGNN lain untuk simoctocog alfa: satu-satunya dengan bukti kuat adalah "hemofilia" itu sendiri (L1, 3 ujian klinis termasuk kajian penting NuProtect, 19 publikasi) — yang merupakan indikasi yang diluluskan ubat yang sedia ada, bukan peluang perawatan semula yang baru. Satu calon yang tulen baru yang mencapai malah tingkat bukti awal adalah "bentuk simtomatik hemofilia pada pembawa wanita" (L4, Soalan Penyelidikan); semua calon yang tinggal (penyakit pseudo-von Willebrand, gangguan pelepasan trombosit utama, trombastenia Glanzmann, sindrom Scott, kekurangan faktor koagulasi yang diperoleh, diatesis pendarahan reseptor kolagen, trombositopenia konstitusional, dan trombositopenia aloimun fetal/neonatal) adalah Tahan, kesemua L5, dan beberapa rasional secara jelas menyatakan bahawa mekanisme penyakit tidak melibatkan kekurangan FVIII.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Selesaikan jurang data penyekat: amaran dan kontraindikasi prospektus TFDA/NPRA (kini tidak tersedia), diperlukan sebelum sebarang penapisan keselamatan S1.
+- Perolehi data mekanisme-aksi yang disahkan melalui DrugBank untuk secara rasmi mendokumentasikan kaitan indikasi asal ubat.
+- Jika meneruskan perawatan semula lebih lanjut, utamakan "bentuk simtomatik hemofilia pada pembawa wanita" daripada penyakit pseudo-von Willebrand memandangkan kaitan mekanistik yang lebih sesuai terhadap penggantian FVIII, dan melakukan pencarian ujian klinis/literatur yang disasarkan untuk calon tersebut.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

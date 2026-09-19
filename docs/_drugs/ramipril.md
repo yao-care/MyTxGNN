@@ -29,74 +29,75 @@ Tahap bukti: **L3** | Indikasi diramal: **10**
 
 </div>
 
-# Ramipril: From Hypertension to Ischemic Stroke Susceptibility
+# Ramipril: Dari Hipertensi kepada Kerentanan Strok Iskemik
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Ramipril is a long-established ACE inhibitor originally used to treat **hypertension** (and, per existing outcome trials, to reduce cardiovascular/stroke risk in high-risk patients). The TxGNN model's top-ranked new signal points to **"obsolete susceptibility to ischemic stroke,"** but this term carries **no independent clinical trials or literature** and its own rationale flags it as a likely duplicate/obsolete ontology node overlapping with stroke-related terms that are already part of Ramipril's established use — so it is not yet a genuine, actionable repurposing candidate.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Hypertension (inferred from drug class and cross-references in the evidence pack; TFDA/NPRA indication text not yet retrieved) |
-| Predicted New Indication | Obsolete susceptibility to ischemic stroke |
-| TxGNN Prediction Score | 99.95% |
-| Evidence Level | L3 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 8 |
-| Recommended Decision | Hold |
+Ramipril adalah penghambat ACE yang sudah lama digunakan untuk merawat **hipertensi** (dan, mengikut ujian hasil yang sedia ada, untuk mengurangkan risiko kardiovaskular/strok pada pesakit berisiko tinggi). Isyarat baru bertaraf tertinggi oleh model TxGNN menunjukkan **"kerentanan lama kepada strok iskemik,"** tetapi istilah ini membawa **tiada ujian klinikal bebas atau bukti literatur** dan rasional penerangannya sendiri menandainya sebagai nod ontologi yang mungkin diduplikasi/sudah lama, bercampur dengan istilah berkaitan strok yang sudah menjadi sebahagian daripada penggunaan sedia ada Ramipril — jadi ia bukan lagi calon penggabungan semula yang tulen dan boleh diambil tindakan.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Cepat
 
-Currently, detailed mechanism of action data for Ramipril is not available in this evidence pack. Based on known pharmacology, Ramipril is an angiotensin-converting enzyme (ACE) inhibitor: it blocks conversion of angiotensin I to angiotensin II, reducing vasoconstriction and aldosterone release. This mechanism is well established for blood pressure control and, per the HOPE trial and related outcome data captured elsewhere in this evidence pack, also reduces cardiovascular death, myocardial infarction, and stroke in high-risk patients — an effect mechanistically consistent with reduced vascular resistance and endothelial protection.
-
-However, the specific top-ranked term "obsolete susceptibility to ischemic stroke" is not supported by any drug-specific clinical trial or literature evidence — the query log confirms zero results across ClinicalTrials.gov, ICTRP, and PubMed for this exact term. The evidence pack's own rationale is explicit that this label may be an overlapping or deprecated node in the underlying disease ontology relative to "stroke disorder" and "cerebrovascular disorder," which appear separately in this same prediction set with strong, direct Phase 3/4 trial support (e.g., HOPE, ONTARGET). In other words, the mechanistic story for *stroke risk reduction* is credible for Ramipril, but the specific node being scored here is likely redundant with — rather than independent evidence for — those better-supported terms.
-
-Because of this ambiguity, the prediction should be treated as a data-quality question first, and a pharmacological hypothesis second, until the ontology overlap is resolved.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered
+| Item | Kandungan |
+|------|----------|
+| Petunjukan Asal | Hipertensi (disimpulkan daripada kelas ubat dan rujukan silang dalam pakej bukti; teks petunjukan TFDA/NPRA belum diperoleh) |
+| Petunjukan Baru yang Diramalkan | Kerentanan lama kepada strok iskemik |
+| Skor Ramalan TxGNN | 99.95% |
+| Tahap Bukti | L3 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 8 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available
+Pada masa ini, data mekanisme tindakan terperinci untuk Ramipril tidak tersedia dalam pakej bukti ini. Berdasarkan farmakologi yang diketahui, Ramipril adalah penghambat enzim penukar angiotensin (ACE): ia menghalang penukaran angiotensin I kepada angiotensin II, mengurangkan vasokonstriksi dan pelepasan aldosteron. Mekanisme ini sudah ditegaskan untuk kawalan tekanan darah dan, mengikut ujian HOPE dan data hasil berkaitan yang ditangkap di tempat lain dalam pakej bukti ini, juga mengurangkan kematian kardiovaskular, infark miokard, dan strok pada pesakit berisiko tinggi — kesan yang secara mekanik konsisten dengan rintangan pembuluh darah yang berkurangan dan perlindungan endotilium.
 
----
+Walau bagaimanapun, istilah bertaraf tertinggi khusus "kerentanan lama kepada strok iskemik" tidak disokong oleh mana-mana ujian klinikal atau bukti literatur yang khusus untuk ubat — log pertanyaan mengesahkan hasil sifar merentasi ClinicalTrials.gov, ICTRP, dan PubMed untuk istilah tepat ini. Rasional pakej bukti sendiri adalah jelas bahawa label ini mungkin nod yang bertindan atau usang dalam ontologi penyakit asas berbanding "gangguan strok" dan "gangguan serebrovaskular," yang muncul secara berasingan dalam set ramalan yang sama ini dengan sokongan ujian Fasa 3/4 yang kuat (cth., HOPE, ONTARGET). Dengan kata lain, cerita mekanik untuk *pengurangan risiko strok* adalah boleh dipercayai untuk Ramipril, tetapi nod khusus yang diskor di sini berkemungkinan berlebihan dengan — bukannya bukti bebas untuk — istilah-istilah yang disokong dengan lebih baik itu.
 
-## Malaysia Market Information
-
-Detailed licence-level data (authorisation number, product name, dosage form, indication text) was not returned for this drug in the current evidence pack — all fields in the source records are blank. What is confirmed: Ramipril is **marketed in Malaysia** under **8 registered product licences**. Licence-level details should be pulled directly from NPRA QUEST3+ before this candidate proceeds further.
+Oleh kerana kekaburan ini, ramalan harus diperlakukan sebagai soalan kualiti data terlebih dahulu, dan hipotesis farmakologi kedua, sehingga pertindingan ontologi diselesaikan.
 
 ---
 
-## Safety Considerations
+## Bukti Ujian Klinikal
 
-Please refer to the package insert for safety information.
+Pada masa ini tiada ujian klinikal berkaitan terdaftar
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Hold**
+Pada masa ini tiada literatur berkaitan tersedia
 
-**Rationale:**
-The top-ranked candidate carries only model-prediction-level evidence (L3) with zero corroborating trials or literature, and the rationale itself suggests it may be a duplicate/obsolete ontology node rather than a distinct clinical entity — it should not be advanced as a repurposing hypothesis until that is clarified. (Note: other candidates in this evidence pack — "hypertensive disorder," "cerebrovascular disorder," and "stroke disorder" — already carry L1 evidence via HOPE/ONTARGET, but these reflect Ramipril's *existing* approved use and outcome benefit rather than a new indication.)
+---
 
-**To proceed, the following is needed:**
-- Clarify whether "obsolete susceptibility to ischemic stroke" is a distinct disease entity or a deprecated/duplicate node relative to "stroke disorder" and "cerebrovascular disorder" in the underlying ontology
-- TFDA/NPRA package insert warnings and contraindications (currently a Blocking data gap — DG001)
-- DrugBank mechanism-of-action data (High-severity data gap — DG002)
-- Malaysia licence-level details (product names, dosage forms, approved indication text) from NPRA QUEST3+
+## Maklumat Pasaran Malaysia
+
+Data peringkat lesen terperinci (nombor kebenaran, nama produk, bentuk dos, teks petunjukan) tidak dikembalikan untuk ubat ini dalam pakej bukti semasa — semua medan dalam rekod sumber adalah kosong. Yang disahkan: Ramipril **dipasarkan di Malaysia** di bawah **8 lesen produk berdaftar**. Butiran peringkat lesen harus diambil terus daripada NPRA QUEST3+ sebelum calon ini meneruskan lebih jauh.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan bungkusan untuk maklumat keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Calon tertaraf tertinggi membawa bukti tahap ramalan model sahaja (L3) tanpa ujian atau bukti literatur yang menyokong, dan rasional sendiri mencadangkan ia mungkin nod ontologi yang diduplikasi/usang daripada entiti klinikal yang berlainan — ia tidak harus dimajukan sebagai hipotesis penggabungan semula sehingga itu dijelaskan. (Nota: calon lain dalam pakej bukti ini — "gangguan hipertensi," "gangguan serebrovaskular," dan "gangguan strok" — sudah membawa bukti L1 melalui HOPE/ONTARGET, tetapi ini mencerminkan penggunaan *sedia ada* yang diluluskan Ramipril dan manfaat hasil bukannya petunjukan baru.)
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Jelaskan sama ada "kerentanan lama kepada strok iskemik" adalah entiti penyakit yang berlainan atau nod yang usang/diduplikasi berbanding "gangguan strok" dan "gangguan serebrovaskular" dalam ontologi asas
+- Amaran sisipan bungkusan TFDA/NPRA dan kontraindikasi (pada masa ini jurang data pemblokiran — DG001)
+- Data mekanisme tindakan DrugBank (Jurang data berketerlaluan tinggi — DG002)
+- Butiran lesen Malaysia (nama produk, bentuk dos, teks petunjukan yang diluluskan) daripada NPRA QUEST3+
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

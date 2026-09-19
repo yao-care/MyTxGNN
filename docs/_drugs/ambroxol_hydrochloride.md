@@ -29,88 +29,87 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Ambroxol Hydrochloride: Mucolytic Agent — TxGNN Prediction Pending
+# Ambroxol Hydrochloride: Agen Mukolitik — Ramalan TxGNN Tertunda
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Ambroxol Hydrochloride is a well-established mucolytic and expectorant agent, widely registered in Malaysia for respiratory indications such as bronchitis and chronic obstructive pulmonary disease (COPD).
-However, the current Evidence Pack contains **no TxGNN-predicted new indications**, as prediction pipeline data is not yet populated for this candidate.
-Due to critical data gaps in MOA, safety labelling, and prediction output, this report reflects a preliminary status only and a full repurposing assessment cannot yet be completed.
+Ambroxol Hydrochloride ialah agen mukolitik dan ekspektoran yang telah terbukti mapan, berdaftar secara luas di Malaysia untuk indikasi respiratik seperti bronkitis dan penyakit paru obstruktif kronis (COPD). Walau bagaimanapun, Evidence Pack semasa tidak mengandungi sebarang indikasi baharu yang diramalkan oleh TxGNN, kerana data saluran ramalan belum diisi untuk kandidat ini. Disebabkan jurang data yang genting dalam MOA, pelabelan keselamatan, dan keluaran ramalan, laporan ini mencerminkan status awal sahaja dan penilaian penggunaan semula yang lengkap belum dapat diselesaikan.
 
 ---
 
-## Quick Overview
+## Gambaran Pantas
 
-| Item | Content |
-|------|---------|
-| Original Indication | Respiratory conditions (mucolytic/expectorant use; detailed NPRA text not populated in this dataset) |
-| Predicted New Indication | Not available — TxGNN predictions not yet generated |
-| TxGNN Prediction Score | Not available |
-| Evidence Level | N/A (no prediction output) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 20 |
-| Recommended Decision | Hold |
-
----
-
-## Why is This Prediction Reasonable?
-
-Currently, detailed mechanism of action data is not available for this Evidence Pack entry. Based on known pharmacological information, Ambroxol Hydrochloride belongs to the benzylamine class of mucolytics. It is a metabolite of bromhexine and is widely used to reduce mucus viscosity in the airways, facilitating expectoration. Its efficacy in respiratory conditions such as acute and chronic bronchitis, COPD, and asthma-associated secretion disorders has been extensively demonstrated in clinical practice.
-
-Because TxGNN predictions have not yet been generated for this candidate, it is not possible to evaluate mechanistic connections between the original indication and any proposed new indication at this time. Ambroxol has been studied in emerging research areas — including neurological diseases (e.g., Gaucher's disease, Parkinson's disease via GBA pathway modulation) and local analgesic effects — however, none of these directions are currently supported by the prediction data in this Evidence Pack.
-
-A complete repurposing rationale analysis should be conducted once TxGNN prediction output and DrugBank MOA data become available.
+| Item | Kandungan |
+|------|-----------|
+| Indikasi Asal | Keadaan respiratik (penggunaan mukolitik/ekspektoran; teks NPRA yang terperinci tidak diisi dalam set data ini) |
+| Indikasi Baharu yang Diramalkan | Tidak tersedia — ramalan TxGNN belum dijana |
+| Skor Ramalan TxGNN | Tidak tersedia |
+| Tahap Bukti | T/A (tiada keluaran ramalan) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 20 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related clinical trials registered in this Evidence Pack. TxGNN prediction data required before evidence retrieval can be targeted.
+Pada masa ini, data mekanisme tindakan yang terperinci tidak tersedia untuk kemasukan Evidence Pack ini. Berdasarkan maklumat farmakologi yang diketahui, Ambroxol Hydrochloride termasuk dalam kelas benzilamin bagi agen mukolitik. Ia ialah metabolit bromheksina dan digunakan secara meluas untuk mengurangkan kelikatan mukus di saluran udara, memudahkan pengekskresian. Keberkesanannya dalam keadaan respiratik seperti bronkitis akut dan kronik, COPD, dan gangguan sekret yang berkaitan dengan asma telah ditunjukkan secara meluas dalam amalan klinikal.
 
----
+Kerana ramalan TxGNN belum dijana untuk kandidat ini, tidak mungkin untuk menilai sambungan mekanistik antara indikasi asal dan sebarang indikasi baharu yang dicadangkan pada masa ini. Ambroxol telah dikaji dalam bidang penyelidikan yang sedang berkembang — termasuk penyakit neurologi (cth., penyakit Gaucher, penyakit Parkinson melalui modulasi laluan GBA) dan kesan analgesik tempatan — walau bagaimanapun, tiada satu pun daripada arah ini disokong oleh data ramalan dalam Evidence Pack ini.
 
-## Literature Evidence
-
-Currently no related literature available in this Evidence Pack. TxGNN prediction data required to identify relevant publications.
+Analisis nisbah penggunaan semula yang lengkap harus dijalankan setelah keluaran ramalan TxGNN dan data MOA DrugBank menjadi tersedia.
 
 ---
 
-## Malaysia Market Information
+## Bukti Ujian Klinikal
 
-This drug holds **20 registrations** with Malaysia NPRA and is confirmed as actively marketed. However, individual registration details (authorization numbers, product names, dosage forms, and approved indication text) were not populated in the current dataset.
+Pada masa ini tiada ujian klinikal yang berkaitan didaftarkan dalam Evidence Pack ini. Data ramalan TxGNN diperlukan sebelum pengambilan bukti dapat disasarkan.
+
+---
+
+## Bukti Kesusasteraan
+
+Pada masa ini tiada kesusasteraan yang berkaitan tersedia dalam Evidence Pack ini. Data ramalan TxGNN diperlukan untuk mengenal pasti penerbitan yang relevan.
+
+---
+
+## Maklumat Pasaran Malaysia
+
+Ubat ini memegang **20 pendaftaran** dengan NPRA Malaysia dan disahkan sebagai dipasarkan secara aktif. Walau bagaimanapun, butiran pendaftaran individu (nombor kebenaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan) tidak diisi dalam set data semasa.
 
 | Item | Status |
 |------|--------|
-| Malaysia NPRA Registration | ✓ Confirmed (20 licences) |
-| Market Status | ✓ Marketed |
-| Licence Detail Availability | Not populated in current Evidence Pack |
+| Pendaftaran NPRA Malaysia | ✓ Disahkan (20 lesen) |
+| Status Pasaran | ✓ Dipasarkan |
+| Ketersediaan Butiran Lesen | Tidak diisi dalam Evidence Pack semasa |
 
-> To obtain full licence details, query the Malaysia NPRA product search portal directly using "AMBROXOL HYDROCHLORIDE" as the active ingredient.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-> **Note:** Both key warnings and contraindications are flagged as Blocking data gaps (DG001) in this Evidence Pack. This prevents completion of a standard S1 safety screen. Retrieval of the NPRA-registered package insert PDF is required before any safety-dependent decision can be made.
+> Untuk mendapatkan butiran lesen penuh, pertanyakan portal carian produk NPRA Malaysia secara langsung menggunakan "AMBROXOL HYDROCHLORIDE" sebagai bahan aktif.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila rujuk sisipan paket untuk maklumat keselamatan.
 
-**Rationale:**
-The TxGNN prediction pipeline has not yet produced output for this candidate, and two blocking data gaps (package insert safety data and MOA) prevent meaningful repurposing evaluation. No evidence review, mechanistic analysis, or go/no-go recommendation is possible at this stage.
+> **Nota:** Kedua-dua amaran utama dan kontraindikasi ditandai sebagai jurang data Penyekat (DG001) dalam Evidence Pack ini. Ini menghalang penyelesaian skrin keselamatan S1 piawai. Pengambilan PDF sisipan paket yang didaftarkan NPRA diperlukan sebelum sebarang keputusan bergantung keselamatan dapat dibuat.
 
-**To proceed, the following is needed:**
+---
 
-- **[Critical — Blocking]** Run TxGNN prediction pipeline for Ambroxol Hydrochloride to generate `predicted_indications` output
-- **[Critical — Blocking]** Retrieve and parse the NPRA-registered package insert PDF to populate key warnings and contraindications (DG001)
-- **[High]** Query DrugBank API for Ambroxol Hydrochloride to populate `drugbank_id`, MOA, categories, and toxicity data (DG002)
-- **[Medium]** Re-query NPRA with individual licence numbers to populate product names, dosage forms, and approved indication text for the 20 registered products
-- Once the above are resolved, re-run the Evidence Pack generation (target version v5) and proceed with full S1–S3 evaluation
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Nisbah:**
+Saluran ramalan TxGNN belum menghasilkan keluaran untuk kandidat ini, dan dua jurang data Penyekat (data keselamatan sisipan paket dan MOA) menghalang penilaian penggunaan semula yang bermakna. Tiada semakan bukti, analisis mekanistik, atau cadangan GO/NO-GO boleh dilakukan pada peringkat ini.
+
+**Untuk diteruskan, yang berikut diperlukan:**
+
+- **[Genting — Penyekat]** Jalankan saluran ramalan TxGNN untuk Ambroxol Hydrochloride untuk menjana keluaran `predicted_indications`
+- **[Genting — Penyekat]** Ambil dan analisa PDF sisipan paket yang didaftarkan NPRA untuk mengisi amaran utama dan kontraindikasi (DG001)
+- **[Tinggi]** Pertanyakan API DrugBank untuk Ambroxol Hydrochloride untuk mengisi `drugbank_id`, MOA, kategori, dan data ketoksikan (DG002)
+- **[Sederhana]** Pertanyakan semula NPRA dengan nombor lesen individu untuk mengisi nama produk, bentuk dos, dan teks indikasi yang diluluskan untuk 20 produk berdaftar
+- Setelah di atas diselesaikan, jalankan semula penjanaan Evidence Pack (versi sasaran v5) dan teruskan dengan penilaian S1–S3 yang lengkap
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Hydrochlorothiazide
-parent: High Evidence (L1-L2)
+parent: Low Evidence (L4-L5)
 nav_order: 383
-evidence_level: L2
+evidence_level: L5
 indication_count: 5
 ---
 
 # Hydrochlorothiazide
 {: .fs-9 }
 
-Tahap bukti: **L2** | Indikasi diramal: **5** 
+Tahap bukti: **L5** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,76 +29,76 @@ Tahap bukti: **L2** | Indikasi diramal: **5**
 
 </div>
 
-# Hydrochlorothiazide: From Hypertension to Congestive Heart Failure
+# Hidroklortiyazida: Dari Hipertensi kepada Gagal Jantung Kongestif
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Hydrochlorothiazide (HCTZ) is a thiazide diuretic long used for hypertension and fluid retention. Within this evidence pack, the only candidate indication with a completed evidence review is **Congestive Heart Failure** — specifically as an add-on to loop diuretics for diuretic-resistant decompensated heart failure — supported by **1 completed Phase 3 RCT (CLOROTIC trial, n=232)** and **8 relevant publications**, including a 2025 post-hoc analysis. (Note: the other four candidates returned by TxGNN — "hypertension" / "hypertensive disorder" — largely restate HCTZ's already-known original use and carry no completed scoring, so they are not treated as genuine repurposing signals here.)
+Hidroklortiyazida (HCTZ) ialah diuretik tiazida yang telah lama digunakan untuk hipertensi dan retensi bendalir. Dalam pakej bukti ini, satu-satunya petunjuk calon dengan tinjauan bukti yang telah selesai ialah **Gagal Jantung Kongestif** — khususnya sebagai tambahan kepada diuretik gelung untuk gagal jantung terdekomposisi yang resisten diuretik — disokong oleh **1 RCT Fasa 3 yang selesai (percubaan CLOROTIC, n=232)** dan **8 penerbitan yang berkaitan**, termasuk analisis pasca-hoc 2025. (Nota: empat calon lain yang dikembalikan oleh TxGNN — "hipertensi" / "gangguan hipertensi" — sebahagian besarnya menyatakan semula penggunaan asal HCTZ yang sudah diketahui dan tidak mempunyai pemarkahan yang selesai, jadi ia tidak dianggap sebagai isyarat pengubahsuaian yang tulen di sini.)
 
-## Quick Overview
+## Panduan Ringkas
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Hypertension and edema (thiazide diuretic — official NPRA label indication text was not returned in this dataset) |
-| Predicted New Indication | Congestive Heart Failure (as loop-diuretic adjunct in diuretic resistance) |
-| TxGNN Prediction Score | 0.00% (score field returned 0.0 for all candidates in this data pull — likely a pipeline/data-quality issue, not a true confidence score) |
-| Evidence Level | L2 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 61 |
-| Recommended Decision | Hold |
+| Petunjuk Asal | Hipertensi dan edema (diuretik tiazida — teks petunjuk label NPRA rasmi tidak dikembalikan dalam set data ini) |
+| Petunjuk Baru yang Diramalkan | Gagal Jantung Kongestif (sebagai adjuvan diuretik gelung dalam rintangan diuretik) |
+| Skor Ramalan TxGNN | 0.00% (medan skor mengembalikan 0.0 untuk semua calon dalam tarik data ini — kemungkinan besar isu saluran/kualiti data, bukan skor keyakinan yang sebenar) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 61 |
+| Keputusan Disyorkan | Tangguh |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data is not available (Data Gap DG002). Based on known pharmacology, hydrochlorothiazide is a thiazide-type diuretic that inhibits the Na⁺/Cl⁻ cotransporter in the distal convoluted tubule, reducing sodium and water reabsorption and lowering circulating volume — the basis for its established efficacy in hypertension.
+Pada masa kini, data mekanisme tindakan terperinci tidak tersedia (Jurang Data DG002). Berdasarkan farmakoloji yang diketahui, hidroklortiyazida ialah diuretik jenis tiazida yang menghalang peangkut Na⁺/Cl⁻ dalam tubula berkelok distal, mengurangkan penyerapan semula natrium dan air serta menurunkan volum sirkulasi — asas untuk keberkesanannya yang ditegakkan dalam hipertensi.
 
-Heart failure and hypertension share overlapping pathophysiology (volume overload and RAAS activation), and thiazides already have a recognized secondary role in HF management: when loop diuretics (e.g., furosemide) are used long-term, the distal nephron compensates with increased sodium reabsorption ("distal nephron rebound"), producing diuretic resistance. Adding HCTZ blocks this compensatory pathway, producing **sequential nephron blockade** and restoring diuretic response. This mechanism is directly supported by the CLOROTIC trial, giving the prediction a plausible and clinically-grounded rationale — though it should be understood as a **specific adjunct-therapy niche** (diuretic-resistant acute decompensated HF) rather than a broad new primary indication.
+Gagal jantung dan hipertensi berkongsi patofisiologi yang bertindih (beban volum berlebih dan pengaktifan RAAS), dan tiazida sudah mempunyai peranan sekunder yang diiktiraf dalam pengurusan HF: apabila diuretik gelung (cth., furosemida) digunakan jangka panjang, nefron distal mengambil tindakan balas dengan penyerapan semula natrium yang meningkat ("tindakan balas nefron distal"), menghasilkan rintangan diuretik. Penambahan HCTZ menghalang laluan penyusunan ini, menghasilkan **penyekatan nefron berjujukan** dan memulihkan tindakbalas diuretik. Mekanisme ini disokong secara langsung oleh percubaan CLOROTIC, memberikan ramalan satu rasional yang munasabah dan berasaskan klinikal — walaupun ia harus difahami sebagai **nisan terapi adjuvan khusus** (HF terdekomposisi akut yang resisten diuretik) dan bukannya petunjuk primer baru yang luas.
 
-## Clinical Trial Evidence
+## Bukti Percubaan Klinikal
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT01647932](https://clinicaltrials.gov/study/NCT01647932) | Phase 3 | Completed | 232 | CLOROTIC trial: RCT directly testing loop diuretic + thiazide (HCTZ) vs. loop diuretic alone in decompensated heart failure; graded "A" relevance — the pivotal trial for this indication |
-| [NCT00690521](https://clinicaltrials.gov/study/NCT00690521) | NA | Completed | 8 | Compared HCTZ vs. metolazone, both combined with furosemide, for diuresis in congestive heart failure patients |
-| [NCT03006796](https://clinicaltrials.gov/study/NCT03006796) | N/A | Completed | 94 | Observational study of azilsartan/chlorthalidone vs. irbesartan/HCTZ in hypertension with obesity; HCTZ present as comparator-arm component (graded "B") |
-| [NCT03553810](https://clinicaltrials.gov/study/NCT03553810) | Phase 2 | Completed | 80 | ARNi effect on ventricular remodeling in hypertensive LVH — population is pre-HF hypertrophy rather than HF itself (graded "C") |
-| [NCT04465123](https://clinicaltrials.gov/study/NCT04465123) | Phase 3 | Unknown | 100 | Furosemide + sequential nephron blockade (thiazide/spironolactone class) vs. furosemide alone in diuretic-resistant acute HF (graded "C" — HCTZ not confirmed as the specific agent used) |
-| [NCT06273397](https://clinicaltrials.gov/study/NCT06273397) | NA | Not yet recruiting | 1050 | Acetazolamide or metolazone in acute heart failure — related mechanism class, not a direct HCTZ trial (graded "C") |
-| [NCT02185417](https://clinicaltrials.gov/study/NCT02185417) | Phase 3 | Completed | 20,723 | VA Diuretic Comparison Project: chlorthalidone vs. HCTZ for cardiovascular outcomes in older hypertensive patients (large-scale background safety/effectiveness data) |
+| [NCT01647932](https://clinicaltrials.gov/study/NCT01647932) | Fasa 3 | Selesai | 232 | Percubaan CLOROTIC: RCT menguji secara langsung diuretik gelung + tiazida (HCTZ) lawan diuretik gelung sahaja dalam gagal jantung terdekomposisi; dinilai relevansi "A" — percubaan pivot untuk petunjuk ini |
+| [NCT00690521](https://clinicaltrials.gov/study/NCT00690521) | Tiada | Selesai | 8 | Membandingkan HCTZ lawan metolazon, kedua-duanya digabungkan dengan furosemida, untuk diuresis pada pesakit gagal jantung kongestif |
+| [NCT03006796](https://clinicaltrials.gov/study/NCT03006796) | Tiada | Selesai | 94 | Kajian pemerhatian azilsartan/klortalidon lawan irbesartan/HCTZ dalam hipertensi dengan obesiti; HCTZ hadir sebagai komponen lengan pembanding (dinilai relevansi "B") |
+| [NCT03553810](https://clinicaltrials.gov/study/NCT03553810) | Fasa 2 | Selesai | 80 | Kesan ARNi pada pemodelan ventrikel dalam LVH hipertensi — populasi adalah hipertrofi pra-HF dan bukannya HF itu sendiri (dinilai relevansi "C") |
+| [NCT04465123](https://clinicaltrials.gov/study/NCT04465123) | Fasa 3 | Tidak Diketahui | 100 | Furosemida + penyekatan nefron berjujukan (kelas tiazida/spironolakton) lawan furosemida sahaja dalam HF akut yang resisten diuretik (dinilai relevansi "C" — HCTZ tidak disahkan sebagai ejen khusus yang digunakan) |
+| [NCT06273397](https://clinicaltrials.gov/study/NCT06273397) | Tiada | Belum Merekrut | 1050 | Asetazolamida atau metolazon dalam gagal jantung akut — kelas mekanisme berkaitan, bukan percubaan HCTZ langsung (dinilai relevansi "C") |
+| [NCT02185417](https://clinicaltrials.gov/study/NCT02185417) | Fasa 3 | Selesai | 20,723 | Projek Perbandingan Diuretik VA: klortalidon lawan HCTZ untuk hasil kardiovaskular pada pesakit hipertensi yang lebih tua (data keselamatan/keberkesanan latar belakang skala besar) |
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [36423214](https://pubmed.ncbi.nlm.nih.gov/36423214/) | 2023 | RCT (CLOROTIC trial) | European Heart Journal | Adding HCTZ to IV furosemide safely improves diuretic response in acute heart failure |
-| [40856000](https://pubmed.ncbi.nlm.nih.gov/40856000/) | 2025 | RCT post-hoc analysis | European Journal of Heart Failure | Post-hoc analysis of CLOROTIC: HCTZ improves weight loss/decongestion even in patients with diuretic resistance |
-| [38645830](https://pubmed.ncbi.nlm.nih.gov/38645830/) | 2024 | RCT insights/review | Cardiology Research | Reviews recent RCTs on upfront acetazolamide and HCTZ combined with loop diuretics in acute decompensated HF |
-| [38204501](https://pubmed.ncbi.nlm.nih.gov/38204501/) | 2024 | Narrative Review | The Canadian Journal of Hospital Pharmacy | Reviews diuretic strategies, including thiazide add-on, for acute decompensated heart failure |
-| [21896142](https://pubmed.ncbi.nlm.nih.gov/21896142/) | 2011 | Review | Journal of Clinical Hypertension | Pharmacokinetic/pharmacodynamic comparison of thiazide and loop diuretics relevant to combination use |
-| [28711447](https://pubmed.ncbi.nlm.nih.gov/28711447/) | 2017 | Review | JACC: Heart Failure | Describes the pathophysiological transition from hypertension to heart failure, supporting mechanistic overlap |
-| [38806171](https://pubmed.ncbi.nlm.nih.gov/38806171/) | 2025 | Review (guideline update) | ESC Heart Failure | 2024 update on heart failure management |
-| [6761370](https://pubmed.ncbi.nlm.nih.gov/6761370/) | 1982 | Controlled trial | Journal of Clinical Pharmacology | Early controlled trial of slow-release furosemide plus HCTZ in congestive cardiac failure |
+| [36423214](https://pubmed.ncbi.nlm.nih.gov/36423214/) | 2023 | RCT (percubaan CLOROTIC) | European Heart Journal | Penambahan HCTZ kepada furosemida IV dengan selamat meningkatkan tindakbalas diuretik dalam gagal jantung akut |
+| [40856000](https://pubmed.ncbi.nlm.nih.gov/40856000/) | 2025 | Analisis pasca-hoc RCT | European Journal of Heart Failure | Analisis pasca-hoc CLOROTIC: HCTZ meningkatkan kehilangan berat/dekongestif walaupun pada pesakit dengan rintangan diuretik |
+| [38645830](https://pubmed.ncbi.nlm.nih.gov/38645830/) | 2024 | Cerapan/tinjauan RCT | Cardiology Research | Tinjauan RCT terkini tentang asetazolamida awal dan HCTZ digabungkan dengan diuretik gelung dalam HF terdekomposisi akut |
+| [38204501](https://pubmed.ncbi.nlm.nih.gov/38204501/) | 2024 | Tinjauan Naratif | The Canadian Journal of Hospital Pharmacy | Tinjauan strategi diuretik, termasuk penambahan tiazida, untuk gagal jantung terdekomposisi akut |
+| [21896142](https://pubmed.ncbi.nlm.nih.gov/21896142/) | 2011 | Tinjauan | Journal of Clinical Hypertension | Perbandingan farmakokinetik/farmakodinamik diuretik tiazida dan gelung yang berkaitan dengan penggunaan gabungan |
+| [28711447](https://pubmed.ncbi.nlm.nih.gov/28711447/) | 2017 | Tinjauan | JACC: Heart Failure | Menerangkan peralihan patofisiologi dari hipertensi kepada gagal jantung, menyokong pertindihan mekanisme |
+| [38806171](https://pubmed.ncbi.nlm.nih.gov/38806171/) | 2025 | Tinjauan (kemas kini garis panduan) | ESC Heart Failure | Kemas kini 2024 tentang pengurusan gagal jantung |
+| [6761370](https://pubmed.ncbi.nlm.nih.gov/6761370/) | 1982 | Percubaan Terkawal | Journal of Clinical Pharmacology | Percubaan terkawal awal furosemida pelepasan perlahan ditambah HCTZ dalam gagal jantung kongestif |
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Individual authorization-level details (license numbers, product names, dosage forms, approved indication text) were not returned in this dataset — all 5 sampled license records had blank fields. NPRA records confirm **61 total registrations** and an overall market status of **✓ Marketed**, but product-level verification requires a direct NPRA database query.
+Butiran peringkat kebenaran individu (nombor lesen, nama produk, bentuk dos, teks petunjuk yang diluluskan) tidak dikembalikan dalam set data ini — semua 5 rekod lesen sampel mempunyai medan kosong. Rekod NPRA mengesahkan **61 jumlah pendaftaran** dan status pasaran keseluruhan **✓ Dipasarkan**, tetapi pengesahan pada peringkat produk memerlukan pertanyaan pangkalan data NPRA langsung.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information. Key warnings, contraindications, and drug interaction data were all flagged as data gaps in this evidence pack (DG001, severity: Blocking) — this is the primary reason a full safety assessment (S1) cannot currently be completed.
+Sila rujuk sisipan paket untuk maklumat keselamatan. Amaran kunci, kontraindikasi, dan data interaksi ubat semuanya ditandai sebagai jurang data dalam pakej bukti ini (DG001, keseriusan: Menghalang) — ini ialah alasan utama penilaian keselamatan lengkap (S1) tidak dapat diselesaikan pada masa kini.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tangguh**
 
-**Rationale:**
-The mechanistic rationale and clinical evidence (CLOROTIC trial, L2) support HCTZ as an adjunct in diuretic-resistant decompensated heart failure, but this is a narrow, already partially-recognized clinical niche rather than a novel repurposing opportunity — and a **Blocking**-severity data gap (missing NPRA label warnings/contraindications) prevents completion of the mandatory S1 safety screen.
+**Rasional:**
+Rasional mekanis dan bukti klinikal (percubaan CLOROTIC, L2) menyokong HCTZ sebagai adjuvan dalam gagal jantung terdekomposisi yang resisten diuretik, tetapi ini ialah nisan klinikal yang sempit dan sudah sebahagiannya diiktiraf dan bukannya peluang pengubahsuaian yang novel — dan jurang data keseriusan **Menghalang** (amaran label NPRA/kontraindikasi yang hilang) menghalang penyelesaian skrin keselamatan S1 mandatori.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA label warnings and contraindications (resolves DG001, blocking)
-- Confirmed mechanism of action documentation (resolves DG002)
-- Drug interaction data specific to combination diuretic use (loop diuretics, potassium-sparing agents) in HF populations
-- Clarification of the TxGNN scoring pipeline, since all five candidate indications returned a 0.0 score
-- Product-level NPRA registration data (license numbers, approved indication text) to confirm current Malaysia labeling
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Amaran label TFDA/NPRA dan kontraindikasi (menyelesaikan DG001, menghalang)
+- Dokumentasi mekanisme tindakan yang disahkan (menyelesaikan DG002)
+- Data interaksi ubat khusus untuk penggunaan diuretik gabungan (diuretik gelung, ejen penjimatan kalium) dalam populasi HF
+- Penjelasan saluran pemarkahan TxGNN, kerana semua lima petunjuk calon mengembalikan skor 0.0
+- Data pendaftaran NPRA pada peringkat produk (nombor lesen, teks petunjuk yang diluluskan) untuk mengesahkan pelabelan Malaysia semasa
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

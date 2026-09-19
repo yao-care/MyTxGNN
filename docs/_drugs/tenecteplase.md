@@ -29,64 +29,65 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Tenecteplase: From ST-Elevation Myocardial Infarction to Posterolateral Myocardial Infarction
+# Tenecteplase: Dari Infark Miokardium Elevasi ST kepada Infark Miokardium Posterolateral
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-> Tenecteplase is a fibrin-specific thrombolytic agent with an approved indication in ST-elevation myocardial infarction (STEMI). The TxGNN model predicts it may also be effective for **Posterolateral Myocardial Infarction**, an anatomical subtype of MI, but this direction is currently supported by **0 clinical trials** and **0 publications** — the prediction rests on model score alone.
+> Tenecteplase ialah agen trombolisis yang spesifik fibrin dengan indikasi yang diluluskan dalam infark miokardium elevasi ST (STEMI). Model TxGNN meramalkan ia juga mungkin berkesan untuk **Infark Miokardium Posterolateral**, iaitu subtaip anatomi MI, tetapi arah ini pada masa ini disokong oleh **0 ujian klinikal** dan **0 penerbitan** — ramalan bergantung pada skor model semata-mata.
 
-## Quick Overview
+## Gambaran Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | ST-elevation myocardial infarction (STEMI) — inferred from evidence-pack rationale; not independently confirmed by registration text (see below) |
-| Predicted New Indication | Posterolateral Myocardial Infarction |
-| TxGNN Prediction Score | 99.87% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
-| Recommended Decision | Hold |
+| Perkara | Kandungan |
+|---------|----------|
+| Indikasi Asal | Infark miokardium elevasi ST (STEMI) — disimpulkan daripada rasional pakej bukti; tidak disahkan secara bebas oleh teks pendaftaran (lihat di bawah) |
+| Indikasi Baru Yang Diramalkan | Infark Miokardium Posterolateral |
+| Skor Ramalan TxGNN | 99.87% |
+| Paras Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 2 |
+| Keputusan yang Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed mechanism of action data for tenecteplase is not yet available in this evidence pack (flagged as a High-severity data gap, DG002 — pending DrugBank API lookup). Based on the model's own repurposing rationale, tenecteplase's approved use is consistent with **STEMI**, where it acts by dissolving coronary artery thrombi (fibrinolysis).
+Data mekanisme tindakan terperinci untuk tenecteplase belum tersedia dalam pakej bukti ini (ditandai sebagai jurang data Keterukan Tinggi, DG002 — menunggu carian API DrugBank). Berdasarkan rasional pengubahan tujuan model sendiri, penggunaan yang diluluskan tenecteplase adalah konsisten dengan **STEMI**, di mana ia bertindak dengan melarutkan trombi arteri koroner (trombolisis).
 
-Posterolateral myocardial infarction is not a distinct disease — it is an anatomical subtype of myocardial infarction, defined by the location of the culprit coronary lesion rather than a different pathophysiology. Mechanistically, thrombolysis should apply equally regardless of infarct territory, which is why the model's rationale describes the score as reflecting "the same mechanism as the already-approved STEMI indication, only subdivided by infarct location."
+Infark miokardium posterolateral bukanlah penyakit yang berbeza — ia adalah subtaip anatomi infark miokardium, ditentukan oleh lokasi lesi koroner penyebab dan bukannya patofisiologi yang berlainan. Secara mekanistik, trombolisis harus digunakan secara sama rata tanpa mengira wilayah infark, itulah sebabnya rasional model menggambarkan skor sebagai mencerminkan "mekanisme yang sama seperti indikasi STEMI yang telah diluluskan, hanya dibahagikan mengikut lokasi infark."
 
-However, the rationale also cautions that this high score likely reflects the knowledge graph's general association with the broad "myocardial infarction" concept rather than independent evidence for this specific anatomical subtype — no clinical trial or publication in this pack targets posterolateral MI specifically.
+Walau bagaimanapun, rasional juga memberi amaran bahawa skor tinggi ini berkemungkinan mencerminkan persatuan umum graf pengetahuan dengan konsep luas "infark miokardium" dan bukannya bukti bebas untuk subtaip anatomi khusus ini — tiada ujian klinikal atau penerbitan dalam pakej ini yang menyasarkan MI posterolateral secara khusus.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-Currently no related clinical trials registered.
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-Currently no related literature available.
+Pada masa ini tiada kesusasteraan berkaitan yang tersedia.
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-The drug is registered in Malaysia (2 licenses, market status: Marketed), but detailed registration fields (license number, product name, dosage form, approved indication text) were not successfully extracted in this dataset and cannot be tabulated at this time.
+Ubat ini didaftarkan di Malaysia (2 lesen, status pasaran: Dipasarkan), tetapi medan pendaftaran terperinci (nombor lesen, nama produk, bentuk dos, teks indikasi yang diluluskan) tidak berjaya diekstrak dalam set data ini dan tidak dapat dijadualkan pada masa ini.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-*Note: TFDA-equivalent label warnings and contraindications are marked as a Blocking data gap in this evidence pack (DG001) — this prevents the candidate from entering the S1 safety pre-screening stage regardless of prediction score.*
+*Nota: Amaran label bersamaan TFDA dan kontraindikasi ditandai sebagai jurang data Penyekat dalam pakej bukti ini (DG001) — ini menghalang calon daripada memasuki peringkat pra-saring keselamatan S1 tanpa mengira skor ramalan.*
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-- The top-ranked prediction (posterolateral MI) has no clinical trial or literature support — it is a model-score-only (L5) signal that likely reflects the general "myocardial infarction" cluster in the knowledge graph rather than subtype-specific evidence. Separately, the Blocking safety data gap (missing label warnings/contraindications) means the candidate cannot yet clear S1 safety review even if evidence improved.
+**Rasional:**
+- Ramalan berkaitan tertinggi (MI posterolateral) tidak mempunyai sokongan ujian klinikal atau kesusasteraan — ia adalah isyarat skor-model semata-mata (L5) yang berkemungkinan mencerminkan kluster "infark miokardium" umum dalam graf pengetahuan dan bukannya bukti khusus subtaip. Secara berasingan, jurang data keselamatan Penyekat (amaran label/kontraindikasi yang hilang) bermakna calon belum dapat melepasi semakan keselamatan S1 walaupun bukti bertambah baik.
 
-**To proceed, the following is needed:**
-- TFDA-equivalent label warnings and contraindications (DG001, Blocking — required before any safety pre-screening)
-- Confirmed mechanism of action via DrugBank (DG002)
-- Extraction of actual Malaysia registration details (license numbers, product names, approved indication text)
-- Literature/trial search specifically targeting "posterolateral myocardial infarction" as a defined treatment population, rather than general MI/thrombolysis studies
+**Untuk meneruskan, yang berikut diperlukan:**
+- Amaran label bersamaan TFDA dan kontraindikasi (DG001, Penyekat — diperlukan sebelum sebarang pra-saring keselamatan)
+- Mekanisme tindakan yang disahkan melalui DrugBank (DG002)
+- Pengekstrakan butiran pendaftaran Malaysia sebenar (nombor lesen, nama produk, teks indikasi yang diluluskan)
+- Carian kesusasteraan/ujian yang khusus menyasarkan "infark miokardium posterolateral" sebagai populasi rawatan yang ditakrifkan, dan bukannya kajian MI/trombolisis umum
 
-**Note on other candidates in this pack:** among the 10 ranked predictions, *septal myocardial infarction* (rank 3, L4, decision stage S1, "Research Question") and *coronary stenosis* (rank 5, 1 completed Phase 2 trial + 12 PubMed hits, scoring not yet finalized) currently have materially more supporting evidence than the top-ranked candidate and may warrant separate, dedicated evaluation.
+**Nota mengenai calon lain dalam pakej ini:** di antara 10 ramalan berkaitan, *infark miokardium septal* (kaitan 3, L4, peringkat keputusan S1, "Soalan Penyelidikan") dan *stenosis koroner* (kaitan 5, 1 ujian Fasa 2 yang selesai + 12 pukulan PubMed, skor belum dimuktamadkan) pada masa ini mempunyai bukti sokongan yang lebih ketara daripada calon berkaitan tertinggi dan mungkin menjamin penilaian yang berasingan dan khusus.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,89 +29,90 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Azithromycin Dihydrate: Drug Repurposing Evaluation Report
+# Azithromycin Dihydrate: Laporan Penilaian Pengguna Semula Ubat
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Azithromycin dihydrate is a macrolide antibiotic widely used for the treatment of bacterial infections, with 39 registrations currently active in Malaysia. The TxGNN model has **not generated any predicted new indications** for this drug at this time, and critical data gaps (mechanism of action, safety profile) remain unresolved.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not available (license indication text not provided) |
-| Predicted New Indication | **None** — TxGNN returned no predictions |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 (No predictions, no supporting studies) |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 39 |
-| Recommended Decision | **Hold** |
+Azithromycin dihydrate ialah antibiotik makrolida yang digunakan secara meluas untuk rawatan jangkitan bakteria, dengan 39 pendaftaran yang sedang aktif di Malaysia. Model TxGNN telah **tidak menjana sebarang petunjuk baru yang diramalkan** untuk ubat ini pada masa ini, dan jurang data kritikal (mekanisme tindakan, profil keselamatan) tetap tidak diselesaikan.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Pantas
 
-Currently, the TxGNN model has not produced any repurposing predictions for Azithromycin Dihydrate. This may be due to one or more of the following reasons:
-
-1. **Missing DrugBank ID mapping**: The evidence pack shows `drugbank_id: null`. Without a valid DrugBank identifier, the drug cannot be properly located within the TxGNN knowledge graph, which relies on DrugBank nodes to establish drug–disease relationships. The query log indicates a DrugBank search was performed and returned 1 result, but this mapping was not successfully integrated into the evidence pack.
-
-2. **Incomplete mechanism of action data**: Detailed MOA data is not available in this evidence pack. Azithromycin is widely known as a macrolide antibiotic that inhibits bacterial protein synthesis by binding to the 50S ribosomal subunit. Beyond its antimicrobial activity, azithromycin has documented immunomodulatory and anti-inflammatory properties, which have driven investigation in conditions such as chronic obstructive pulmonary disease (COPD), cystic fibrosis, and COVID-19. However, without MOA data formally linked in the knowledge graph, the model cannot leverage these mechanistic connections.
-
-3. **Data integration gap**: The approved indication text for all 39 Malaysian registrations is empty, meaning the pipeline could not extract the original therapeutic context needed for indication-based reasoning.
-
----
-
-## Clinical Trial Evidence
-
-Currently no predicted indication is available; therefore, no targeted clinical trial search was conducted.
+| Item | Kandungan |
+|------|---------|
+| Petunjuk Asal | Tidak tersedia (teks petunjuk lesen tidak disediakan) |
+| Petunjuk Baru Diramalkan | **Tiada** — TxGNN tidak mengembalikan sebarang ramalan |
+| Skor Ramalan TxGNN | N/A |
+| Tahap Bukti | L5 (Tiada ramalan, tiada kajian sokongan) |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 39 |
+| Keputusan Disyorkan | **Tahan** |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no predicted indication is available; therefore, no targeted literature search was conducted.
+Pada masa ini, model TxGNN tidak menghasilkan sebarang ramalan pengguna semula untuk Azithromycin Dihydrate. Ini mungkin disebabkan oleh satu atau lebih daripada alasan-alasan berikut:
 
----
+1. **Pemetaan ID DrugBank yang Hilang**: Pakej bukti menunjukkan `drugbank_id: null`. Tanpa pengenalan DrugBank yang sah, ubat tidak dapat ditempatkan dengan betul dalam graf pengetahuan TxGNN, yang bergantung pada nod DrugBank untuk mewujudkan hubungan ubat–penyakit. Log pertanyaan menunjukkan pencarian DrugBank telah dilakukan dan mengembalikan 1 hasil, tetapi pemetaan ini tidak berjaya diintegrasikan ke dalam pakej bukti.
 
-## Malaysia Market Information
+2. **Data Mekanisme Tindakan yang Tidak Lengkap**: Data MOA terperinci tidak tersedia dalam pakej bukti ini. Azithromycin diketahui sebagai antibiotik makrolida yang menghalang sintesis protein bakteria dengan mengikat subunit ribosom 50S. Selain aktiviti antimikrobanya, azithromycin mempunyai sifat imunomodulatori dan anti-inflamasi yang didokumenkan, yang telah mendorong penyiasatan dalam keadaan seperti penyakit paru obstruktif kronik (COPD), fibrosis kistik, dan COVID-19. Walau bagaimanapun, tanpa data MOA yang terikat secara formal dalam graf pengetahuan, model tidak dapat memanfaatkan sambungan mekanik ini.
 
-The NPRA database returned 39 registrations for Azithromycin Dihydrate; however, detailed licence information (authorization numbers, product names, dosage forms, and approved indications) was not captured in this evidence pack.
-
-| Item | Content |
-|------|------|
-| Total Registrations | 39 |
-| Product Details | Not available — license data fields are empty |
-
-> **Note:** To complete this section, the NPRA Quest database (https://quest3plus.bpfk.gov.my/) should be re-queried to retrieve full product registration details.
+3. **Jurang Integrasi Data**: Teks petunjuk yang diluluskan untuk semua 39 pendaftaran Malaysia kosong, bermakna saluran paip tidak dapat mengeluarkan konteks terapeutik asal yang diperlukan untuk penalaran berasaskan petunjuk.
 
 ---
 
-## Safety Considerations
+## Bukti Uji Klinikal
 
-> Please refer to the package insert for safety information. Key warnings, contraindications, and drug interaction data were not available in this evidence pack.
-
----
-
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The TxGNN model did not generate any repurposing predictions for Azithromycin Dihydrate. This is primarily attributable to the missing DrugBank ID mapping and the absence of approved indication text, which together prevent the knowledge graph from establishing the drug's position in the disease–drug network. No evaluation of repurposing potential can proceed until these foundational data gaps are resolved.
-
-**To proceed, the following is needed:**
-
-1. **Resolve DrugBank mapping** — Query the DrugBank API for "Azithromycin" (DB00207) and link it to the evidence pack. The query log confirms a match exists but was not integrated.
-2. **Re-extract NPRA licence data** — Re-query the NPRA Quest database to populate authorization numbers, product names, dosage forms, and approved indication text for all 39 registrations.
-3. **Obtain MOA data** — Retrieve the mechanism of action from DrugBank (macrolide antibiotic; 50S ribosomal subunit inhibitor; immunomodulatory properties).
-4. **Obtain safety profile** — Download and parse the package insert (PIL) from NPRA to extract key warnings, contraindications, and drug interactions.
-5. **Re-run TxGNN prediction** — Once DrugBank ID and indication data are integrated, re-execute the KG and DL prediction pipeline to generate repurposing candidates.
+Pada masa ini tiada petunjuk yang diramalkan tersedia; oleh itu, tiada carian uji klinikal tertarget yang dijalankan.
 
 ---
 
-*Disclaimer: This report is for research purposes only and does not constitute medical advice. Any drug repurposing candidates require clinical validation before application.*
+## Bukti Kesusasteraan
+
+Pada masa ini tiada petunjuk yang diramalkan tersedia; oleh itu, tiada carian kesusasteraan tertarget yang dijalankan.
+
+---
+
+## Maklumat Pasaran Malaysia
+
+Pangkalan data NPRA mengembalikan 39 pendaftaran untuk Azithromycin Dihydrate; bagaimanapun, maklumat lesen terperinci (nombor kebenaran, nama produk, bentuk dos, dan petunjuk yang diluluskan) tidak ditangkap dalam pakej bukti ini.
+
+| Item | Kandungan |
+|------|---------|
+| Jumlah Pendaftaran | 39 |
+| Butiran Produk | Tidak tersedia — medan data lesen kosong |
+
+> **Catatan:** Untuk melengkapkan bahagian ini, pangkalan data NPRA Quest (https://quest3plus.bpfk.gov.my/) harus disiasat semula untuk mendapatkan butiran pendaftaran produk lengkap.
+
+---
+
+## Pertimbangan Keselamatan
+
+> Sila rujuk sisipan pakej untuk maklumat keselamatan. Data amaran utama, kontraindikasi, dan interaksi ubat tidak tersedia dalam pakej bukti ini.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Alasan:**
+Model TxGNN tidak menghasilkan sebarang ramalan pengguna semula untuk Azithromycin Dihydrate. Ini terutamanya boleh dikaitkan dengan pemetaan ID DrugBank yang hilang dan ketiadaan teks petunjuk yang diluluskan, yang bersama-sama mencegah graf pengetahuan daripada mewujudkan kedudukan ubat dalam rangkaian penyakit–ubat. Tiada penilaian potensi pengguna semula dapat diteruskan sehingga jurang data asas ini diselesaikan.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+
+1. **Selesaikan pemetaan DrugBank** — Soal API DrugBank untuk "Azithromycin" (DB00207) dan pautkannya ke pakej bukti. Log pertanyaan mengesahkan padanan wujud tetapi tidak diintegrasikan.
+2. **Keluarkan Semula Data Lesen NPRA** — Soal semula pangkalan data NPRA Quest untuk mengisi nombor kebenaran, nama produk, bentuk dos, dan teks petunjuk yang diluluskan untuk semua 39 pendaftaran.
+3. **Dapatkan Data MOA** — Dapatkan mekanisme tindakan daripada DrugBank (antibiotik makrolida; perencatan subunit ribosom 50S; sifat imunomodulatori).
+4. **Dapatkan Profil Keselamatan** — Muat turun dan analisis sisipan pakej (PIL) daripada NPRA untuk mengeluarkan amaran utama, kontraindikasi, dan interaksi ubat.
+5. **Jalankan Semula Ramalan TxGNN** — Sebaik sahaja ID DrugBank dan data petunjuk diintegrasikan, jalankan semula saluran paip ramalan KG dan DL untuk menjana calon pengguna semula.
+
+---
+
+*Penafian: Laporan ini adalah untuk tujuan penyelidikan sahaja dan tidak membentuk nasihat perubatan. Sebarang calon pengguna semula ubat memerlukan pengesahan klinikal sebelum aplikasi.*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

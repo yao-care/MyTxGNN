@@ -29,81 +29,82 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Prucalopride: From Chronic Constipation to Hypoalphalipoproteinemia
+# Prucalopride: Daripada Konstipasi Kronik kepada Hypoalphalipoproteinemia
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Prucalopride is a selective 5-HT4 receptor agonist used clinically for chronic constipation via gut prokinetic action (per mechanistic context noted elsewhere in this evidence pack). The TxGNN model's top-ranked prediction is **Hypoalphalipoproteinemia** (low HDL-cholesterol disorder), but this candidate is currently supported by **0 clinical trials** and **0 publications**, and the model's own annotation explicitly notes no known biological link between 5-HT4 agonism and lipoprotein metabolism.
+Prucalopride ialah agonis reseptor 5-HT4 selektif yang digunakan secara klinis untuk konstipasi kronik melalui tindakan prokinetik usus (mengikut konteks mekanistik yang dicatat di tempat lain dalam pakej bukti ini). Ramalan peringkat teratas model TxGNN ialah **Hypoalphalipoproteinemia** (gangguan kolesterol HDL rendah), tetapi kandidat ini pada masa kini disokong oleh **0 percubaan klinis** dan **0 publikasi**, dan anotasi model itu sendiri secara eksplisit mencatat tiada pautan biologi yang diketahui antara agonis 5-HT4 dan metabolisme lipoprotein.
 
 ---
 
-## Quick Overview
+## Gambaran Keseluruhan Cepat
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Not specified in Taiwan license text; chronic constipation noted as prucalopride's established clinical use elsewhere in this evidence pack |
-| Predicted New Indication | Hypoalphalipoproteinemia |
-| TxGNN Prediction Score | 99.82% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
-| Recommended Decision | Hold |
+| Petunjuk Asal | Tidak ditentukan dalam teks lesen Taiwan; konstipasi kronik dicatat sebagai penggunaan klinis prucalopride yang telah ditetapkan di tempat lain dalam pakej bukti ini |
+| Petunjuk Baru yang Diramalkan | Hypoalphalipoproteinemia |
+| Skor Ramalan TxGNN | 99.82% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 2 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data for prucalopride is not available (DrugBank MOA lookup is an open data gap in this pack). Based on the pharmacological context referenced elsewhere in this evidence pack, prucalopride acts as a selective 5-HT4 receptor agonist and is used clinically to promote gut motility.
+Pada masa kini, data mekanisme tindakan terperinci untuk prucalopride tidak tersedia (pencarian MOA DrugBank ialah celah data terbuka dalam pakej ini). Berdasarkan konteks farmakologi yang dirujuk di tempat lain dalam pakej bukti ini, prucalopride bertindak sebagai agonis reseptor 5-HT4 selektif dan digunakan secara klinis untuk menggalakkan motilitas usus.
 
-Hypoalphalipoproteinemia is a lipoprotein metabolism disorder characterized by low HDL-cholesterol, governed by pathways (e.g., LDL receptor, lipid transport, reverse cholesterol transport) that have no established connection to serotonergic gut motility signaling. The model's own repurposing rationale for this candidate states explicitly: *"5-HT4 受體致效劑與脂蛋白代謝、HDL 調控無已知機轉關聯，屬於缺乏生物學合理性之預測，無任何臨床或文獻證據支持"* (no known mechanistic link exists, and there is no supporting clinical or literature evidence). This is consistent with the score reflecting a graph-embedding association rather than a biologically grounded hypothesis, and with the L5 / Hold classification assigned by the scoring engine itself.
+Hypoalphalipoproteinemia ialah gangguan metabolisme lipoprotein yang dicirikan oleh kolesterol HDL rendah, yang ditadbir oleh laluan (contohnya, reseptor LDL, pengangkutan lipid, pengangkutan kolesterol terbalik) yang tidak mempunyai sambungan yang ditubuhkan kepada isyarat motilitas usus serotonergik. Rasional repurposing model itu sendiri untuk kandidat ini menyatakan secara eksplisit: *"5-HT4 受體致效劑與脂蛋白代謝、HDL 調控無已知機轉關聯，屬於缺乏生物學合理性之預測，無任何臨床或文獻證據支持"* (tiada pautan mekanistik yang diketahui, dan tiada bukti klinis atau literatur yang menyokong). Ini konsisten dengan skor yang mencerminkan persatuan embedding graf daripada hipotesis yang berasaskan biologi, dan dengan klasifikasi L5 / Tahan yang diperuntukkan oleh enjin pemarkahan itu sendiri.
 
-Two other candidates in this same prediction set — amyloidosis (rank 6) and primary amyloidosis (rank 9) — carry a more coherent mechanistic story (amyloid-related autonomic/GI dysmotility as a target for prokinetic symptom relief) and are backed by actual literature (L4, decision stage S1, "Research Question"). These may be more productive candidates for follow-up than the top-ranked but mechanistically unsupported hypoalphalipoproteinemia prediction.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+Dua calon lain dalam set ramalan yang sama ini — amyloidosis (peringkat 6) dan amyloidosis utama (peringkat 9) — membawa cerita mekanistik yang lebih koheren (disfungsi autonomi/GI berkaitan amyloid sebagai sasaran untuk penghilangan gejala prokinetik) dan disokong oleh literatur sebenar (L4, tahap keputusan S1, "Research Question"). Ini mungkin calon yang lebih produktif untuk susulan berbanding ramalan hypoalphalipoproteinemia yang peringkat teratas tetapi tidak disokong secara mekanistik.
 
 ---
 
-## Literature Evidence
+## Bukti Percubaan Klinis
 
-Currently no related literature available.
+Pada masa kini tiada percubaan klinis berkaitan yang terdaftar.
 
 ---
 
-## Malaysia Market Information
+## Bukti Literatur
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+Pada masa kini tiada literatur berkaitan yang tersedia.
+
+---
+
+## Maklumat Pasaran Malaysia
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjuk yang Diluluskan |
 |---------|------|------|-----------|
-| Not specified | Not specified | Not specified | Not specified |
-| Not specified | Not specified | Not specified | Not specified |
+| Tidak ditentukan | Tidak ditentukan | Tidak ditentukan | Tidak ditentukan |
+| Tidak ditentukan | Tidak ditentukan | Tidak ditentukan | Tidak ditentukan |
 
-Two active licenses are confirmed in the registry (total_licenses = 2, market_status = Marketed), but license number, product name, dosage form, and approved-indication text were not populated in this data pull.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-*(Note: TFDA package insert warnings/contraindications are a documented Blocking-severity data gap — see Conclusion below.)*
+Dua lesen aktif disahkan dalam daftar (total_licenses = 2, market_status = Marketed), tetapi nombor lesen, nama produk, bentuk dos, dan teks petunjuk yang diluluskan tidak diisi dalam tarikan data ini.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-**Rationale:**
-The top-ranked predicted indication (hypoalphalipoproteinemia) has no supporting clinical trials or literature (L5, evidence-model-only) and is explicitly flagged by the model's own rationale as lacking biological plausibility. Separately, TFDA label warnings/contraindications are a Blocking-severity data gap, meaning this candidate cannot even enter S1 safety screening regardless of efficacy evidence.
+*(Nota: peringatan sisipan pakej TFDA/kontraindikasi ialah celah data Blocking-severity yang terdokumen — lihat Kesimpulan di bawah.)*
 
-**To proceed, the following is needed:**
-- TFDA package insert (warnings, contraindications) — Blocking gap, required before any safety screening
-- DrugBank mechanism-of-action data — needed for mechanistic-plausibility assessment
-- Confirmed license text (product name, dosage form, approved indication) for the 2 Taiwan registrations
-- Consider redirecting evaluation effort to the amyloidosis / primary amyloidosis candidates (rank 6 and 9) in this same prediction set, which have actual literature support and a more coherent mechanistic rationale
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Petunjuk yang diramalkan peringkat teratas (hypoalphalipoproteinemia) tidak mempunyai percubaan klinis atau literatur yang menyokong (L5, evidence-model-only) dan secara eksplisit ditandai oleh rasional model itu sendiri sebagai kekurangan kredibiliti biologi. Secara berasingan, peringatan label TFDA/kontraindikasi ialah celah data Blocking-severity, yang bermaksud kandidat ini tidak boleh memasuki skrining keselamatan S1 tanpa mengira bukti keberkesanan.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisipan pakej TFDA (peringatan, kontraindikasi) — Blocking gap, diperlukan sebelum mana-mana skrining keselamatan
+- Data mekanisme tindakan DrugBank — diperlukan untuk penilaian kredibiliti mekanistik
+- Teks lesen yang disahkan (nama produk, bentuk dos, petunjuk yang diluluskan) untuk 2 pendaftaran Taiwan
+- Pertimbangkan pengalihan usaha penilaian kepada calon amyloidosis / amyloidosis utama (peringkat 6 dan 9) dalam set ramalan yang sama ini, yang mempunyai sokongan literatur sebenar dan rasional mekanistik yang lebih koheren
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

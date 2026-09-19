@@ -29,100 +29,101 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Diphenhydramine Hydrochloride: Drug Repurposing Evaluation Report
+# Diphenhydramine Hydrochloride: Laporan Penilaian Penggunaan Kembali Ubat
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Diphenhydramine hydrochloride is a first-generation antihistamine (H1 receptor antagonist) widely used for allergic conditions, motion sickness, and insomnia. The TxGNN model **has not yet generated any predicted new indications** for this drug. Currently, there are **critical data gaps** that must be resolved before a repurposing evaluation can proceed.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not available (license details pending) |
-| Predicted New Indication | **None** — no TxGNN predictions available |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | **L5** (No model prediction or supporting studies) |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 34 |
-| Recommended Decision | **Hold** |
+Diphenhydramine hydrochloride adalah antihistamin generasi pertama (antagonis reseptor H1) yang digunakan secara meluas untuk keadaan alergik, mabuk perjalanan, dan insomnia. Model TxGNN **belum menghasilkan sebarang indikasi baru yang diramalkan** untuk ubat ini. Pada masa ini, terdapat **jurang data yang kritikal** yang mesti diselesaikan sebelum penilaian penggunaan kembali dapat diteruskan.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Pantas
 
-Currently, the TxGNN model has not generated any predicted new indications for Diphenhydramine Hydrochloride, so a mechanistic plausibility assessment cannot be conducted at this time.
-
-> Detailed mechanism of action (MOA) data is not available in this evidence pack. Based on well-established pharmacology, Diphenhydramine is a first-generation H1 antihistamine that competitively blocks histamine at H1 receptors. It also has anticholinergic, antitussive, antiemetic, and mild sedative properties. These multi-receptor activities could theoretically support repurposing hypotheses, but no specific TxGNN predictions have been generated to evaluate.
-
-Before any repurposing analysis can proceed, the following must be completed:
-1. Resolution of the DrugBank ID mapping (currently `null`) to enable TxGNN knowledge graph linkage.
-2. Successful execution of the TxGNN prediction pipeline to generate candidate indications.
-3. Retrieval of MOA data from DrugBank to support mechanistic reasoning.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered — no predicted indication available to search against.
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Tidak tersedia (butiran lesen ditunggu) |
+| Indikasi Baru yang Diramalkan | **Tiada** — tiada ramalan TxGNN yang tersedia |
+| Skor Ramalan TxGNN | N/A |
+| Tahap Bukti | **L5** (Tiada ramalan model atau kajian sokongan) |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 34 |
+| Keputusan Disyorkan | **Tahan** |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available — no predicted indication available to search against.
+Pada masa ini, model TxGNN belum menghasilkan sebarang indikasi baru yang diramalkan untuk Diphenhydramine Hydrochloride, jadi penilaian kelayakan mekanistik tidak dapat dijalankan pada ketika ini.
+
+> Data mekanisme tindakan (MOA) yang terperinci tidak tersedia dalam pakej bukti ini. Berdasarkan farmakologi yang telah ditubuhkan dengan baik, Diphenhydramine adalah antihistamin H1 generasi pertama yang menghalang histamin secara kompetitif pada reseptor H1. Ia juga mempunyai sifat antikolin, antitusif, antiemetik, dan sedatif ringan. Aktiviti multi-reseptor ini secara teorinya boleh menyokong hipotesis penggunaan kembali, tetapi tiada ramalan TxGNN khusus yang telah dijana untuk dinilai.
+
+Sebelum sebarang analisis penggunaan kembali dapat diteruskan, perkara berikut mesti diselesaikan:
+1. Penyelesaian pemetaan ID DrugBank (pada masa ini `null`) untuk membolehkan pautannya dengan graf pengetahuan TxGNN.
+2. Pelaksanaan berjaya saluran ramalan TxGNN untuk menjana indikasi calon.
+3. Pemerolehan data MOA daripada DrugBank untuk menyokong penalaran mekanistik.
 
 ---
 
-## Malaysia Market Information
+## Bukti Percubaan Klinikal
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan — tiada indikasi yang diramalkan tersedia untuk dicari.
+
+---
+
+## Bukti Kesusasteraan
+
+Pada masa ini tiada kesusasteraan berkaitan tersedia — tiada indikasi yang diramalkan tersedia untuk dicari.
+
+---
+
+## Maklumat Pasaran Malaysia
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
 |---------|------|------|-----------|
-| *(Details pending)* | *(Details pending)* | *(Details pending)* | *(Details pending)* |
+| *(Butiran ditunggu)* | *(Butiran ditunggu)* | *(Butiran ditunggu)* | *(Butiran ditunggu)* |
 
-> **Note:** 34 product registrations were identified through NPRA query, but detailed license information (authorization numbers, product names, dosage forms, and approved indications) has not yet been populated in this evidence pack. Data retrieval from NPRA is required.
-
----
-
-## Safety Considerations
-
-> Please refer to the package insert for safety information. Key warnings, contraindications, and drug interaction data are not yet available in this evidence pack and must be retrieved from the NPRA database or package insert PDFs.
+> **Nota:** 34 pendaftaran produk telah dikenal pasti melalui pertanyaan NPRA, tetapi maklumat lesen terperinci (nombor kebenaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan) belum diisi dalam pakej bukti ini. Pemerolehan data daripada NPRA diperlukan.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
-
-**Rationale:**
-This evidence pack contains critical data gaps that prevent any meaningful repurposing evaluation. No TxGNN predicted indications have been generated, the DrugBank ID is unmapped, MOA data is missing, license details are empty, and safety information is unavailable. The evaluation cannot proceed until these foundational data elements are resolved.
-
-**To proceed, the following is needed:**
-
-1. **[Blocking] Resolve DrugBank ID mapping** — Query DrugBank for "Diphenhydramine Hydrochloride" (expected: DB01075) and update the evidence pack
-2. **[Blocking] Run TxGNN prediction pipeline** — Execute KG + DL prediction with the mapped DrugBank ID to generate candidate new indications
-3. **[Blocking] Retrieve NPRA license details** — Populate authorization numbers, product names, dosage forms, and approved indication text for the 34 identified registrations
-4. **[High] Retrieve MOA data** — Query DrugBank API for mechanism of action, pharmacodynamics, and target information
-5. **[High] Retrieve safety data** — Download and parse package insert PDFs from NPRA for key warnings, contraindications, and drug interactions
-6. **[Medium] Collect evidence** — Once predicted indications are available, query ClinicalTrials.gov, PubMed, and ICTRP for supporting evidence
+> Sila rujuk sisipan pakej untuk maklumat keselamatan. Data amaran utama, kontraindikasi, dan interaksi ubat tidak tersedia dalam pakej bukti ini dan mesti diambil daripada pangkalan data NPRA atau fail PDF sisipan pakej.
 
 ---
 
-### Data Gap Summary
+## Kesimpulan dan Langkah Seterusnya
 
-| ID | Category | Item | Severity | Remediation |
+**Keputusan: Tahan**
+
+**Justifikasi:**
+Pakej bukti ini mengandungi jurang data yang kritikal yang menghalang sebarang penilaian penggunaan kembali yang bermakna. Tiada ramalan indikasi TxGNN telah dijana, ID DrugBank tidak dipetakan, data MOA hilang, butiran lesen kosong, dan maklumat keselamatan tidak tersedia. Penilaian tidak dapat diteruskan sehingga elemen data asas ini diselesaikan.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+
+1. **[Menghalang] Selesaikan pemetaan ID DrugBank** — Cari DrugBank untuk "Diphenhydramine Hydrochloride" (dijangka: DB01075) dan kemas kini pakej bukti
+2. **[Menghalang] Jalankan saluran ramalan TxGNN** — Laksanakan ramalan KG + DL dengan ID DrugBank yang dipetakan untuk menjana indikasi baru yang calon
+3. **[Menghalang] Ambil butiran lesen NPRA** — Isi nombor kebenaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan untuk 34 pendaftaran yang dikenal pasti
+4. **[Tinggi] Ambil data MOA** — Cari API DrugBank untuk mekanisme tindakan, farmakoinetik, dan maklumat sasaran
+5. **[Tinggi] Ambil data keselamatan** — Muat turun dan parskan fail PDF sisipan pakej daripada NPRA untuk amaran utama, kontraindikasi, dan interaksi ubat
+6. **[Sederhana] Kumpul bukti** — Setelah indikasi yang diramalkan tersedia, cari ClinicalTrials.gov, PubMed, dan ICTRP untuk bukti sokongan
+
+---
+
+### Ringkasan Jurang Data
+
+| ID | Kategori | Item | Keseriusan | Penyelesaian |
 |----|----------|------|----------|-------------|
-| DG001 | Drug Level | NPRA Package Insert (Warnings/Contraindications) | **Blocking** | Download and parse PDF from NPRA website |
-| DG002 | Drug Level | Mechanism of Action (MOA) | **High** | Query DrugBank API |
-| — | Drug Level | DrugBank ID | **Blocking** | Query DrugBank (likely DB01075) |
-| — | Prediction | TxGNN Predicted Indications | **Blocking** | Run prediction pipeline after DrugBank mapping |
-| — | Regulatory | NPRA License Details | **High** | Re-query NPRA with full field extraction |
+| DG001 | Tahap Ubat | Sisipan Pakej NPRA (Amaran/Kontraindikasi) | **Menghalang** | Muat turun dan parskan PDF daripada laman web NPRA |
+| DG002 | Tahap Ubat | Mekanisme Tindakan (MOA) | **Tinggi** | Cari API DrugBank |
+| — | Tahap Ubat | ID DrugBank | **Menghalang** | Cari DrugBank (mungkin DB01075) |
+| — | Ramalan | Indikasi yang Diramalkan TxGNN | **Menghalang** | Jalankan saluran ramalan selepas pemetaan DrugBank |
+| — | Kawal Selia | Butiran Lesen NPRA | **Tinggi** | Cari semula NPRA dengan pengekstrakan medan penuh |
 
 ---
 
-*Disclaimer: This report is for research purposes only and does not constitute medical advice. Any drug repurposing candidates require clinical validation before application.*
+*Penafian: Laporan ini adalah untuk tujuan penyelidikan sahaja dan tidak membentuk nasihat perubatan. Sebarang calon penggunaan kembali ubat memerlukan pengesahan klinikal sebelum aplikasi.*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

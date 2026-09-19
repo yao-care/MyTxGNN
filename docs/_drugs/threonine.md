@@ -29,60 +29,61 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Threonine: From Nutritional Supplementation to Gastroparesis
+# Threonine: Daripada Suplementasi Pemakanan kepada Gastroparesis
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Threonine (DrugBank DB00156) is an essential amino acid; no specific original therapeutic indication is recorded in the current dataset, and it is typically used as a nutritional/dietary supplement component. The TxGNN model predicts a possible link to **Gastroparesis**, but this is currently supported by **0 clinical trials** and only **1 loosely related publication**, placing this candidate at the earliest, most speculative stage of evaluation.
+Threonine (DrugBank DB00156) adalah asid amino penting; tiada tunjukan terapeutik asal khusus yang tercatat dalam set data semasa, dan ia biasanya digunakan sebagai komponen suplemen pemakanan/diet. Model TxGNN meramalkan pautan yang mungkin kepada **Gastroparesis**, tetapi ini pada masa ini disokong oleh **0 percubaan klinikal** dan hanya **1 penerbitan yang longgar berkaitan**, meletakkan calon ini pada peringkat terawal, paling spekulatif bagi penilaian.
 
-## Quick Overview
+## Gambaran Keseluruhan Cepat
 
-| Item | Content |
-|------|------|
-| Original Indication | Not specified in current dataset (threonine is an essential amino acid, generally used for nutritional supplementation) |
-| Predicted New Indication | Gastroparesis |
-| TxGNN Prediction Score | 99.32% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 35 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|----------|
+| Tunjukan Asal | Tidak dinyatakan dalam set data semasa (threonine ialah asid amino penting, biasanya digunakan untuk suplementasi pemakanan) |
+| Tunjukan Baru Diramalkan | Gastroparesis |
+| Skor Ramalan TxGNN | 99.32% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 35 |
+| Keputusan yang Disyorkan | Tunggu |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data is not available for threonine. As an essential amino acid, its known biological role is as a building block for protein synthesis and gastrointestinal mucin production; no established pharmacological indication is recorded in the evidence pack, so the usual "original indication → new indication" mechanistic bridge cannot be constructed here.
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia untuk threonine. Sebagai asid amino penting, peranan biologi yang diketahui ialah sebagai batu pembangun bagi sintesis protein dan pengeluaran mucin gastrointestinal; tiada tunjukan farmakologi yang ditegakkan tercatat dalam pakej bukti, jadi jambatan mekanistik biasa "tunjukan asal → tunjukan baru" tidak dapat dibina di sini.
 
-The sole supporting publication (PMID 28627597) is a review of gastric smooth muscle cell apoptosis and PI3K-AKT-mTOR/AMPK-mTOR signaling in a rat model of *diabetic* gastroparesis. Critically, its title and summary do not mention threonine or amino acid supplementation as an intervention — it appears to have been surfaced through disease-term co-occurrence rather than a direct drug-disease relationship. As a result, the TxGNN score should be read as a graph-pattern-based prediction only, not as evidence of a plausible pharmacological mechanism linking threonine to gastroparesis treatment.
+Penerbitan tunggal yang menyokong (PMID 28627597) adalah ulasan tentang apoptosis sel otot licin gastrik dan isyarat PI3K-AKT-mTOR/AMPK-mTOR dalam model tikus *gastroparesis diabetik*. Secara kritikal, tajuk dan ringkasannya tidak menyebut threonine atau suplementasi asid amino sebagai campur tangan — ia nampaknya telah dipermukaan melalui persamaan istilah penyakit dan bukannya perhubungan ubat-penyakit yang langsung. Akibatnya, skor TxGNN harus dibaca sebagai ramalan berasaskan corak graf sahaja, bukan sebagai bukti mekanisme farmakologi yang munasabah menghubungkan threonine kepada rawatan gastroparesis.
 
-## Clinical Trial Evidence
+## Bukti Percubaan Klinikal
 
-Currently no related clinical trials registered.
+Pada masa ini tiada percubaan klinikal yang berkaitan berdaftar.
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [28627597](https://pubmed.ncbi.nlm.nih.gov/28627597/) | 2017 | Review | Molecular Medicine Reports | Describes gastric smooth muscle cell apoptosis and PI3K-AKT-mTOR/AMPK-mTOR signaling changes in a rat model of diabetic gastroparesis; does not reference threonine or amino acid intervention directly |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|------|------|--------|---------|
+| [28627597](https://pubmed.ncbi.nlm.nih.gov/28627597/) | 2017 | Ulasan | Molecular Medicine Reports | Menerangkan apoptosis sel otot licin gastrik dan perubahan isyarat PI3K-AKT-mTOR/AMPK-mTOR dalam model tikus gastroparesis diabetik; tidak merujuk threonine atau campur tangan asid amino secara langsung |
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Threonine holds 35 active registrations in the Malaysia NPRA database (market status: ✓ Marketed). Product-level details (authorization numbers, brand names, dosage forms, approved indication text) are not available in the current dataset.
+Threonine memegang 35 pendaftaran aktif dalam pangkalan data NPRA Malaysia (status pasaran: ✓ Dipasarkan). Butiran peringkat produk (nombor kebenaran, nama jenama, bentuk dos, teks tunjukan yang diluluskan) tidak tersedia dalam set data semasa.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tunggu**
 
-**Rationale:**
-The prediction rests on an L5 evidence level — a model score with no clinical trials and a single publication whose relevance to threonine is unconfirmed (likely co-occurrence rather than a direct mechanistic link). There is also a blocking data gap on TFDA/label warnings, which prevents any safety pre-screening.
+**Alasan:**
+Ramalan ini bergantung pada tahap bukti L5 — skor model tanpa percubaan klinikal dan penerbitan tunggal yang kekalifan relevannya kepada threonine tidak disahkan (berkemungkinan persamaan bersama dan bukannya pautan mekanistik langsung). Terdapat juga jurang data yang menghalang pada amaran label TFDA/setara, yang menghalang sebarang pemeriksaan keselamatan awal.
 
-**To proceed, the following is needed:**
-- TFDA-equivalent package insert data (warnings, contraindications) — currently a blocking gap
-- Confirmed mechanism of action (MOA) data for threonine
-- Literature specifically evaluating threonine (or amino acid supplementation) in gastroparesis, rather than general gastroparesis pathophysiology studies
-- Preclinical or early clinical studies directly testing threonine in a gastroparesis model/population
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data sisipan pakej bersamaan TFDA (amaran, kontraindikasi) — pada masa ini jurang yang menghalang
+- Data mekanisme tindakan yang disahkan (MOA) untuk threonine
+- Kesusasteraan yang khusus menilai threonine (atau suplementasi asid amino) dalam gastroparesis, dan bukannya kajian patofisiologi gastroparesis am
+- Kajian praklinikal atau klinikal awal yang secara langsung menguji threonine dalam model/populasi gastroparesis
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

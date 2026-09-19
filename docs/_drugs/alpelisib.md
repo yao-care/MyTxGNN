@@ -29,108 +29,107 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Alpelisib: From Breast Cancer to Pulmonary Hypertension
+# Alpelisib: Dari Kanser Payudara kepada Hipertensi Pulmonari
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Alpelisib (Piqray) is a selective PI3Kα inhibitor originally approved for PIK3CA-mutated HR+/HER2− advanced breast cancer treatment.
-The TxGNN model predicts it may be effective for **Pulmonary Hypertension**, scoring 99.03% confidence;
-however, the current evidence base consists of **1 peripherally related observational study** and **2 publications** — neither of which directly supports this repurposing direction, and significant mechanistic safety concerns are present.
+Alpelisib (Piqray) ialah penghambat PI3Kα yang selektif yang asal-mulanya telah diluluskan untuk rawatan kanser payudara lanjutan yang bermutasi PIK3CA dengan status HR+/HER2−. Model TxGNN meramalkan ia mungkin berkesan untuk **Hipertensi Pulmonari**, dengan skor keyakinan 99.03%; walau bagaimanapun, asas bukti semasa terdiri daripada **1 kajian pemerhatian yang berkaitan secara sebelah** dan **2 penerbitan** — tidak satu pun yang secara langsung menyokong arah ubah tujuan ini, dan kebimbangan keselamatan mekanistik yang ketara wujud.
 
 ---
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
-|------|---------|
-| Original Indication | PIK3CA-mutated HR+/HER2− advanced breast cancer |
-| Predicted New Indication | Pulmonary Hypertension |
-| TxGNN Prediction Score | 99.03% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
-| Recommended Decision | **Hold** |
-
----
-
-## Why is This Prediction Reasonable?
-
-Alpelisib is a highly selective oral inhibitor of PI3Kα (phosphoinositide 3-kinase alpha), a lipid kinase that sits at the hub of the PI3K/AKT/mTOR signalling cascade. In breast cancer, PIK3CA-activating mutations drive tumour proliferation; alpelisib blocks this pathway to suppress cancer cell growth. The theoretical bridge to pulmonary hypertension (PH) lies in the same PI3K/AKT/mTOR axis: dysregulated PI3Kα signalling is implicated in the pathological proliferation and migration of pulmonary artery smooth muscle cells (PASMCs) — the cellular hallmark of vascular remodelling in PH. In this sense, the mechanistic hypothesis has a logical foundation.
-
-However, the same PI3Kα pathway is essential for maintaining normal cardiac function, particularly right ventricular (RV) mass and contractility. A 2019 preclinical study demonstrated that pharmacological PI3Kα inhibition combined with doxorubicin produced biventricular atrophy and RV dysfunction in animal models — a potentially catastrophic outcome in PH patients, whose disease is already defined by RV failure. Furthermore, alpelisib carries a known risk of inducing interstitial lung disease (ILD), which could directly worsen pulmonary vascular pathology.
-
-In summary, while the mechanistic hypothesis is intellectually coherent, the on-target cardiovascular and pulmonary toxicities of alpelisib pose risks that are disproportionate to the speculative benefit in this indication. The TxGNN model's high prediction score reflects pathway proximity, not clinical safety or efficacy.
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Kanser payudara lanjutan yang bermutasi PIK3CA dengan status HR+/HER2− |
+| Petunjuk Baru yang Diramalkan | Hipertensi Pulmonari |
+| Skor Ramalan TxGNN | 99.03% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 3 |
+| Keputusan Yang Disyorkan | **Tunggu** |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Alpelisib ialah penghambat oral yang sangat selektif bagi PI3Kα (fosfoinositida 3-kinase alfa), enzim lipid yang terletak di pusat lintasan isyarat PI3K/AKT/mTOR. Dalam kanser payudara, mutasi pengaktif PIK3CA mendorong proliferasi tumor; alpelisib menyekat lintasan ini untuk menekan pertumbuhan sel kanser. Jambatan teori kepada hipertensi pulmonari (PH) terletak dalam paksi PI3K/AKT/mTOR yang sama: lintasan PI3Kα yang tidak diatur diperlibatkan dalam proliferasi dan penghijrahan patologi sel otot licin arteri pulmonari (PASMCs) — ciri seluler keubahan vaskular dalam PH. Dalam erti kata ini, hipotesis mekanistik mempunyai asas yang logik.
+
+Walau bagaimanapun, lintasan PI3Kα yang sama adalah penting untuk mengekalkan fungsi jantung normal, terutamanya jisim ventrikel kanan (RV) dan kontraktiliti. Kajian pra-klinikal 2019 menunjukkan bahawa penghambatan PI3Kα farmakologi yang digabungkan dengan doksoribisin menghasilkan atrofi biventrikel dan disfungsi RV dalam model hewan — hasil yang berpotensi bencana dalam pesakit PH, yang penyakitnya sudah ditentukan oleh kegagalan RV. Tambahan pula, alpelisib membawa risiko yang diketahui untuk mendorong penyakit paru interstisial (ILD), yang boleh secara langsung memburukkan patologi vaskular pulmonari.
+
+Ringkasnya, manakala hipotesis mekanistik adalah koheren secara intelektual, toksisiti kardiovaskular dan pulmonari yang bersasaran alpelisib menimbulkan risiko yang tidak seimbang dengan manfaat spekulatif dalam petunjuk ini. Skor ramalan TxGNN yang tinggi mencerminkan kedekatan lintasan, bukan keselamatan klinikal atau keberkesanan.
+
+---
+
+## Bukti Ujian Klinikal
+
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---|---|---|---|---|
-| [NCT06705504](https://clinicaltrials.gov/study/NCT06705504) | N/A | Completed | 435 | Real-world retrospective cohort of HR+/HER2− advanced/metastatic breast cancer patients treated with ribociclib or alpelisib (Jan 2018–Sep 2021); primary endpoints were oncological outcomes. **Not designed to evaluate pulmonary hypertension.** Any PH-relevant data would be limited to passively captured pulmonary adverse event signals only. |
+| [NCT06705504](https://clinicaltrials.gov/study/NCT06705504) | N/A | Selesai | 435 | Kohort retrospektif dunia sebenar pesakit kanser payudara lanjutan/metastatik yang bermutasi HR+/HER2− yang dirawat dengan ribociclib atau alpelisib (Jan 2018–Sep 2021); titik akhir utama ialah hasil onkologi. **Tidak dirancang untuk menilai hipertensi pulmonari.** Sebarang data yang berkaitan PH akan terhad kepada isyarat peristiwa buruk pulmonari yang ditangkap secara pasif sahaja. |
 
-> **Note:** No clinical trials directly investigating alpelisib for pulmonary hypertension were identified.
+> **Nota:** Tiada ujian klinikal yang secara langsung menyiasat alpelisib untuk hipertensi pulmonari telah dikenal pasti.
 
 ---
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |---|---|---|---|---|
-| [35730191](https://pubmed.ncbi.nlm.nih.gov/35730191/) | 2023 | Case Report | *J Oncol Pharm Pract* | Single patient case of alpelisib-induced interstitial lung disease (ILD) in advanced breast cancer. Highlights pulmonary toxicity as a known adverse event — directly relevant as a **safety signal** that could worsen PH pathology, rather than as therapeutic evidence. |
-| [31039672](https://pubmed.ncbi.nlm.nih.gov/31039672/) | 2019 | Preclinical Study | *J Am Heart Assoc* | Animal/in vitro study demonstrating that PI3Kα pathway inhibition combined with doxorubicin causes biventricular atrophy and **right ventricular dysfunction**. Mechanistically argues *against* alpelisib use in PH patients who are already at high risk of RV failure. |
+| [35730191](https://pubmed.ncbi.nlm.nih.gov/35730191/) | 2023 | Laporan Kes | *J Oncol Pharm Pract* | Kes pesakit tunggal penyakit paru interstisial (ILD) yang disebabkan alpelisib dalam kanser payudara lanjutan. Menyerlahkan toksisiti pulmonari sebagai peristiwa buruk yang diketahui — relevan secara langsung sebagai **isyarat keselamatan** yang boleh memburukkan patologi PH, bukannya sebagai bukti terapeutik. |
+| [31039672](https://pubmed.ncbi.nlm.nih.gov/31039672/) | 2019 | Kajian Pra-klinikal | *J Am Heart Assoc* | Kajian hewan/in vitro menunjukkan bahawa penghambatan lintasan PI3Kα yang digabungkan dengan doksoribisin menyebabkan atrofi biventrikel dan **disfungsi ventrikel kanan**. Mekanistiknya berhujah *terhadap* penggunaan alpelisib pada pesakit PH yang sudah berada pada risiko tinggi kegagalan RV. |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Three registrations for alpelisib have been confirmed with the Malaysian National Pharmaceutical Regulatory Agency (NPRA). Detailed authorisation numbers, product names, dosage forms, and approved indication texts were not available in the current data pack.
+Tiga pendaftaran untuk alpelisib telah disahkan dengan Agensi Kawal Selia Farmaseutikal Kebangsaan Malaysia (NPRA). Bilangan kebenaran terperinci, nama produk, bentuk dos, dan teks petunjuk yang diluluskan tidak tersedia dalam pakej data semasa.
 
-> To obtain full registration details, please query the NPRA Product Registration database directly at: [https://www.npra.gov.my](https://www.npra.gov.my)
-
----
-
-## Cytotoxicity
-
-Alpelisib is classified as an antineoplastic targeted therapy (PIK3CA inhibitor) used in cancer treatment.
-
-| Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Targeted therapy — selective PI3Kα inhibitor (not conventional cytotoxic) |
-| Myelosuppression Risk | Low to moderate (neutropenia may occur, but not a primary toxicity profile; hyperglycaemia and severe cutaneous reactions are more characteristic) |
-| Emetogenicity Classification | Low to moderate |
-| Monitoring Items | Fasting plasma glucose and HbA1c (hyperglycaemia is a class-defining toxicity), CBC with differential, liver and renal function, pulmonary function / chest imaging if respiratory symptoms develop |
-| Handling Protection | Should follow institutional cytotoxic drug handling protocols; oral formulation requires appropriate dispensing precautions |
+> Untuk mendapatkan butiran pendaftaran lengkap, sila pertanyakan pangkalan data Pendaftaran Produk NPRA secara langsung di: [https://www.npra.gov.my](https://www.npra.gov.my)
 
 ---
 
-## Safety Considerations
+## Toksisiti
 
-Detailed warnings and contraindications from the Malaysian approved prescribing information were not available in the current evidence pack.
+Alpelisib diklasifikasikan sebagai terapi tertarget antineoplastik (penghambat PIK3CA) yang digunakan dalam rawatan kanser.
 
-The available literature highlights two specific safety signals directly relevant to pulmonary hypertension repurposing:
-
-- **Pulmonary toxicity**: Alpelisib-induced ILD has been reported (PMID 35730191). In PH patients with already-compromised pulmonary vasculature, drug-induced pneumonitis may be life-threatening.
-- **Cardiovascular toxicity**: Preclinical evidence indicates PI3Kα inhibition can cause biventricular atrophy and RV dysfunction (PMID 31039672). PH patients with compensated RV failure represent a particularly vulnerable population.
-
-> For complete safety information including all warnings, contraindications, and drug interactions, please refer to the approved Malaysian package insert.
+| Item | Kandungan |
+|------|----------|
+| Klasifikasi Toksisiti | Terapi tertarget — penghambat PI3Kα yang selektif (bukan sitotoksik konvensional) |
+| Risiko Penindasan Sumsum Tulang | Rendah hingga sederhana (neutropenia boleh berlaku, tetapi bukan profil toksisiti utama; hiperglisemia dan tindak balas kulit yang teruk adalah lebih tipikal) |
+| Klasifikasi Emetogenisiti | Rendah hingga sederhana |
+| Item Pemantauan | Glukosa plasma puasa dan HbA1c (hiperglisemia ialah toksisiti yang menentukan kelas), CBC dengan pembezaan, fungsi hati dan buah pinggang, fungsi pulmonari / imejan dada jika gejala respirasi berkembang |
+| Perlindungan Pengendalian | Harus mengikuti protokol pengendalian ubat sitotoksik institusi; formulasi oral memerlukan langkah berjaga-jaga pemberian yang sesuai |
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Amaran terperinci dan kontraindikasi daripada maklumat preskripsi yang diluluskan Malaysia tidak tersedia dalam pakej bukti semasa.
 
-**Rationale:**
-Evidence for alpelisib in pulmonary hypertension is limited to model prediction only (L5), with no clinical trials or human studies directly addressing this indication. More critically, two key mechanistic safety signals — drug-induced ILD and PI3Kα-dependent right ventricular atrophy — indicate that alpelisib could *worsen* the primary disease pathology in PH patients, making the risk-benefit profile unfavourable at this stage.
+Literatur yang tersedia menyerlahkan dua isyarat keselamatan tertentu yang relevan secara langsung dengan ubah tujuan hipertensi pulmonari:
 
-**To revisit this decision, the following would be needed:**
+- **Toksisiti pulmonari**: ILD yang disebabkan alpelisib telah dilaporkan (PMID 35730191). Pada pesakit PH dengan vaskulator pulmonari yang sudah terganggu, pneumonitis yang disebabkan ubat boleh mengancam nyawa.
+- **Toksisiti kardiovaskular**: Bukti pra-klinikal menunjukkan penghambatan PI3Kα boleh menyebabkan atrofi biventrikel dan disfungsi RV (PMID 31039672). Pesakit PH dengan kegagalan RV yang dikompensasi mewakili populasi yang sangat terdedah.
 
-- **Preclinical PH-specific data**: In vitro studies in human PASMCs and in vivo PH animal models (e.g., MCT or SU5416/hypoxia rat models) using clinically relevant alpelisib concentrations, with rigorous RV function monitoring
-- **MOA clarification**: Quantitative comparison of PI3Kα inhibition concentrations required for PASMC anti-proliferative effect vs. concentrations associated with cardiomyocyte atrophy, to determine whether a therapeutic window exists
-- **Full safety data retrieval**: Download and parse the NPRA-approved package insert to obtain complete warnings and contraindications (Data Gap DG001)
-- **DrugBank MOA data**: Retrieve structured mechanism and target data to enable systematic pathway analysis (Data Gap DG002)
-- **Expert consultation**: Pulmonary hypertension specialist and clinical pharmacologist review of the preclinical cardiac safety data before any human study design is considered
+> Untuk maklumat keselamatan lengkap termasuk semua amaran, kontraindikasi, dan interaksi ubat, sila rujuk sisipan pakej yang diluluskan Malaysia.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tunggu**
+
+**Alasan:**
+Bukti untuk alpelisib dalam hipertensi pulmonari terhad kepada ramalan model sahaja (L5), tanpa ujian klinikal atau kajian manusia yang secara langsung menangani petunjuk ini. Lebih kritikal lagi, dua isyarat keselamatan mekanistik utama — ILD yang disebabkan ubat dan atrofi ventrikel kanan yang bergantung pada PI3Kα — menunjukkan bahawa alpelisib boleh *memburukkan* patologi penyakit utama dalam pesakit PH, menjadikan profil risiko-manfaat tidak menggalakkan pada peringkat ini.
+
+**Untuk meninjau semula keputusan ini, perkara berikut diperlukan:**
+
+- **Data pra-klinikal khusus PH**: Kajian in vitro dalam PASMC manusia dan model hewan PH in vivo (cth., model tikus MCT atau SU5416/hipoksia) menggunakan kepekatan alpelisib yang relevan secara klinikal, dengan pemantauan fungsi RV yang ketat
+- **Penjelasan MOA**: Perbandingan kuantitatif kepekatan penghambatan PI3Kα yang diperlukan untuk kesan anti-proliferatif PASMC vs. kepekatan yang dikaitkan dengan atrofi kardiomiosit, untuk menentukan sama ada tingkap terapeutik wujud
+- **Pemulihan data keselamatan lengkap**: Muat turun dan halusi sisipan pakej yang diluluskan NPRA untuk mendapatkan amaran dan kontraindikasi lengkap (Jurang Data DG001)
+- **Data MOA DrugBank**: Ambil mekanisme berstruktur dan data sasaran untuk membolehkan analisis lintasan yang sistematik (Jurang Data DG002)
+- **Perundingan pakar**: Ulasan pakar hipertensi pulmonari dan ahli farmakologi klinikal data keselamatan jantung pra-klinikal sebelum reka bentuk kajian manusia mana pun dipertimbangkan
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

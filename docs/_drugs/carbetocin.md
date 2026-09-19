@@ -29,74 +29,75 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Carbetocin: From Postpartum Hemorrhage Prevention to Isotretinoin-like Syndrome
+# Carbetocin: Daripada Pencegahan Pendarahan Pasca-Persalinan kepada Sindrom Serupa Isotretinoin
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Carbetocin is a long-acting oxytocin receptor agonist known clinically for preventing postpartum hemorrhage and uterine atony. The TxGNN model predicts it may be effective for **isotretinoin-like syndrome**, but this direction is currently supported by **0 clinical trials** and **0 publications** — the evidence pack itself flags this as a likely model-noise candidate rather than a credible repurposing signal.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Postpartum hemorrhage / uterine atony prevention (from known drug background; official Malaysia label indication text is not available in this dataset) |
-| Predicted New Indication | Isotretinoin-like syndrome |
-| TxGNN Prediction Score | 99.15% |
-| Evidence Level | L5 (model prediction only, no supporting studies) |
-| Malaysia Market Status | Marketed |
-| Number of Registrations | 2 |
-| Recommended Decision | Hold |
+Carbetocin adalah agonis reseptor oksitoksin jangka panjang yang dikenali secara klinis untuk mencegah pendarahan pasca-persalinan dan inersia rahim. Model TxGNN meramalkan bahawa ia mungkin berkesan untuk **sindrom serupa isotretinoin**, tetapi petunjukan baru ini kini disokong oleh **0 ujian klinis** dan **0 penerbitan** — pakej bukti itu sendiri menandakan ini sebagai calon bunyi model yang berkemungkinan daripada isyarat penyusunan semula yang boleh dipercayai.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Pantas
 
-Currently, detailed mechanism of action data is not available (`original_moa` is a data gap). Based on known information, carbetocin is a long-acting oxytocin receptor agonist whose efficacy in preventing postpartum hemorrhage and uterine atony is well established. No mechanistic pathway connects oxytocin receptor agonism to "isotretinoin-like syndrome" — this is not a standard disease term, and even under the closest plausible interpretation (retinoic acid embryopathy-type fetal malformation syndrome), there is no known pharmacological link to oxytocin signaling.
-
-The evidence pack's own rationale explicitly characterizes this as a **pure score-driven artifact (score 0.991, rank 11018)** with no mechanistic or literature support, and flags it as a likely knowledge-graph noise candidate. A second top-ranked prediction for this drug, Goodman syndrome (score 99.06%), carries the identical profile — zero trials, zero literature, no plausible mechanistic link, evidence level L5, recommendation Hold — suggesting a systemic issue with disease-node mapping for this drug rather than two independent genuine signals.
-
-Given the missing MOA data and the complete absence of corroborating evidence, this prediction should not be treated as a credible repurposing hypothesis at this time.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Pencegahan pendarahan pasca-persalinan / inersia rahim (daripada latar belakang ubat yang diketahui; teks petunjuk label Malaysia rasmi tidak tersedia dalam set data ini) |
+| Petunjuk Baru yang Diramalkan | Sindrom serupa isotretinoin |
+| Skor Ramalan TxGNN | 99.15% |
+| Tahap Bukti | L5 (ramalan model sahaja, tiada kajian sokongan) |
+| Status Pasaran Malaysia | Dipasarkan |
+| Bilangan Pendaftaran | 2 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available
+Pada masa kini, data mekanisme tindakan terperinci tidak tersedia (`original_moa` ialah jurang data). Berdasarkan maklumat yang diketahui, carbetocin adalah agonis reseptor oksitoksin jangka panjang yang terbukti berkesan dalam mencegah pendarahan pasca-persalinan dan inersia rahim. Tiada laluan mekanistik yang menghubungkan agonis reseptor oksitoksin dengan "sindrom serupa isotretinoin" — ini bukan istilah penyakit standard, dan bahkan di bawah tafsiran yang paling masuk akal (sindrom malformasi janin serupa keracunan asid retinoik), tiada pautan farmakologi yang diketahui dengan pensignalan oksitoksin.
 
----
+Pakej bukti sendiri secara jelas mencirikan ini sebagai **artefak murni berbasis skor (skor 0.991, kedudukan 11018)** tanpa sokongan mekanistik atau literatur, dan menandakannya sebagai calon bunyi graf pengetahuan yang berkemungkinan. Ramalan berpangkat teratas kedua untuk ubat ini, sindrom Goodman (skor 99.06%), membawa profil yang sama — ujian sifar, literatur sifar, tiada pautan mekanistik yang masuk akal, tahap bukti L5, saranan Tahan — mencadangkan isu sistemik dalam pemetaan nod penyakit untuk ubat ini, bukan dua isyarat penyusunan semula yang bebas dan tulen.
 
-## Malaysia Market Information
-
-Malaysia (NPRA) records show carbetocin has **2 active registrations**, but detailed authorization data (license numbers, product names, dosage forms, approved indication text) is not available in the current dataset.
+Memandangkan data MOA yang hilang dan tiada sebarang bukti menyokong, ramalan ini tidak boleh dianggap sebagai hipotesis penyusunan semula yang boleh dipercayai kini.
 
 ---
 
-## Safety Considerations
+## Bukti Ujian Klinis
 
-Please refer to the package insert for safety information.
+Kini tiada ujian klinis yang berkaitan berdaftar
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Hold**
+Kini tiada literatur yang berkaitan tersedia
 
-**Rationale:**
-Both top-ranked TxGNN predictions for carbetocin (isotretinoin-like syndrome, Goodman syndrome) lack any mechanistic rationale, clinical trial evidence, or literature support, and the source data itself assesses these as likely model noise rather than genuine repurposing signals. Original MOA and safety label data are also missing, blocking progression to safety evaluation (S1).
+---
 
-**To proceed, the following is needed:**
-- Mechanism of action data (DG002, High severity) to enable any mechanistic-relevance check
-- TFDA/NPRA label warnings and contraindications (DG001, Blocking) required before any S1 safety evaluation
-- Malaysia license detail fields (license number, product name, dosage form, approved indication text) currently empty in the registry extract
-- Clarification/validation of the disease terms "isotretinoin-like syndrome" and "Goodman syndrome" as mapped in the knowledge graph, since neither is a standard indication and both may reflect node mislabeling
+## Maklumat Pasaran Malaysia
+
+Rekod Malaysia (NPRA) menunjukkan carbetocin mempunyai **2 pendaftaran aktif**, tetapi data kebenaran terperinci (nombor lesen, nama produk, bentuk dos, teks petunjuk kelulusan) tidak tersedia dalam set data ekstrak semasa.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk ke leaflet produk untuk maklumat keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Alasan:**
+Kedua-dua ramalan TxGNN berpangkat teratas untuk carbetocin (sindrom serupa isotretinoin, sindrom Goodman) kekurangan sebarang rasional mekanistik, bukti ujian klinis, atau sokongan literatur, dan data sumber itu sendiri menilai ini sebagai bunyi model yang berkemungkinan daripada isyarat penyusunan semula tulen. Data MOA asal dan label keselamatan juga hilang, menghalang kemajuan kepada penilaian keselamatan (S1).
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Data mekanisme tindakan (DG002, Kesungguhan Tinggi) untuk membolehkan sebarang semakan kaitan mekanistik
+- Amaran label TFDA/NPRA dan kontraindikasi (DG001, Menyekat) diperlukan sebelum sebarang penilaian keselamatan S1
+- Medan butiran lesen Malaysia (nombor lesen, nama produk, bentuk dos, teks petunjuk kelulusan yang diluluskan) kini kosong dalam ekstrak pendaftaran
+- Penjelasan/pengesahan istilah penyakit "sindrom serupa isotretinoin" dan "sindrom Goodman" seperti yang dimeta dalam graf pengetahuan, kerana kedua-duanya bukan petunjuk standard dan kedua-duanya mungkin mencerminkan salah label nod
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

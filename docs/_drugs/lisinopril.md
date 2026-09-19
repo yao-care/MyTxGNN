@@ -29,176 +29,177 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Lisinopril: From Hypertension to Posterolateral Myocardial Infarction
+# Lisinopril: Daripada Hipertensi kepada Infark Miokardium Posterolateral
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Lisinopril is an angiotensin-converting enzyme (ACE) inhibitor widely used to treat hypertension and chronic heart failure by suppressing the renin-angiotensin-aldosterone system (RAAS).
-The TxGNN model assigns its highest prediction score to **Posterolateral Myocardial Infarction** (99.90%), with indirect mechanistic support from landmark ACE inhibitor trials in acute MI (GISSI-3, ISIS-4), though no direct evidence exists for this specific anatomical subtype.
-This is a **multi-indication evaluation covering 10 predicted indications**; the strongest clinical evidence overall belongs to **Chronic Pulmonary Heart Disease (Cor Pulmonale)** at Evidence Level L3 — supported by **5 clinical trials** and **8 publications** — carrying a *Proceed with Guardrails* recommendation.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Hypertension / Chronic Heart Failure |
-| Top Predicted Indication (Rank 1) | Posterolateral Myocardial Infarction |
-| TxGNN Prediction Score | 99.90% |
-| Evidence Level | L4 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 9 |
-| Recommended Decision | Research Question |
+Lisinopril adalah penghambat enzim penukar angiotensin (ACE) yang digunakan secara meluas untuk merawat hipertensi dan kegagalan jantung kronik dengan menekan sistem renin-angiotensin-aldosteron (RAAS).
+Model TxGNN memberikan skor ramalan tertingginya kepada **Infark Miokardium Posterolateral** (99.90%), dengan sokongan mekanistik tidak langsung daripada ujian pemarkah penghambat ACE dalam MI akut (GISSI-3, ISIS-4), walaupun tiada bukti langsung untuk subtipe anatomi tertentu ini.
+Ini adalah **penilaian pelbagai indikasi meliputi 10 indikasi yang diramalkan**; bukti klinikal terkuat keseluruhannya adalah untuk **Penyakit Jantung Pulmonari Kronik (Cor Pulmonale)** pada Aras Bukti L3 — disokong oleh **5 ujian klinikal** dan **8 penerbitan** — membawa cadangan *Teruskan dengan Pengawasan*.
 
 ---
 
-## Multi-Indication Summary
+## Gambaran Keseluruhan Cepat
 
-This evidence pack evaluates 10 predicted indications. The table below is sorted by evidence strength:
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Hipertensi / Kegagalan Jantung Kronik |
+| Indikasi Terprediksi Teratas (Pangkat 1) | Infark Miokardium Posterolateral |
+| Skor Ramalan TxGNN | 99.90% |
+| Aras Bukti | L4 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 9 |
+| Keputusan yang Disyorkan | Soalan Penyelidikan |
 
-| Rank | Predicted Indication | TxGNN Score | Evidence Level | Decision |
-|------|---------------------|-------------|----------------|----------|
-| 1 | Posterolateral Myocardial Infarction | 99.90% | L4 | Research Question |
-| 2 | Posteroinferior Myocardial Infarction | 99.90% | L4 | Research Question ⚠️ |
-| 3 | Pulmonary Hypertension — Lung Disease/Hypoxia (WHO Group 3) | 99.89% | L4 | Hold |
-| 4 | Pulmonary Hypertension — Multifactorial (WHO Group 5) | 99.89% | L5 | Hold |
-| 5 | Malignant Hypertensive Renal Disease | 99.89% | L4 | Proceed with Guardrails |
-| 6 | Malignant Renovascular Hypertension | 99.89% | L4 | Hold ⛔ |
-| 7 | Septal Myocardial Infarction | 99.88% | L4 | Research Question |
-| 8 | Braddock Syndrome | 99.86% | L5 | Hold |
-| **9** | **Chronic Pulmonary Heart Disease (Cor Pulmonale)** | **99.68%** | **L3** | **Proceed with Guardrails** |
-| 10 | Autosomal Dominant Familial Hematuria–Retinal Arteriolar Tortuosity–Contractures Syndrome | 99.33% | L5 | Hold |
+---
 
-> ⚠️ **Posteroinferior MI**: right ventricular infarction (RVI) context may worsen preload-dependent haemodynamics under ACE inhibition — safety review required before any further evaluation.
+## Ringkasan Pelbagai Indikasi
+
+Pakej bukti ini menilai 10 indikasi yang diramalkan. Jadual di bawah disusun mengikut kekuatan bukti:
+
+| Pangkat | Indikasi Terprediksi | Skor TxGNN | Aras Bukti | Keputusan |
+|--------|---------------------|-----------|-----------|----------|
+| 1 | Infark Miokardium Posterolateral | 99.90% | L4 | Soalan Penyelidikan |
+| 2 | Infark Miokardium Posteroinferior | 99.90% | L4 | Soalan Penyelidikan ⚠️ |
+| 3 | Hipertensi Pulmonari — Penyakit Paru-Paru/Hipoksemia (Kumpulan WHO 3) | 99.89% | L4 | Tahan |
+| 4 | Hipertensi Pulmonari — Multifaktorial (Kumpulan WHO 5) | 99.89% | L5 | Tahan |
+| 5 | Penyakit Renal Hipertensif Ganas | 99.89% | L4 | Teruskan dengan Pengawasan |
+| 6 | Hipertensi Renovaskular Ganas | 99.89% | L4 | Tahan ⛔ |
+| 7 | Infark Miokardium Septal | 99.88% | L4 | Soalan Penyelidikan |
+| 8 | Sindrom Braddock | 99.86% | L5 | Tahan |
+| **9** | **Penyakit Jantung Pulmonari Kronik (Cor Pulmonale)** | **99.68%** | **L3** | **Teruskan dengan Pengawasan** |
+| 10 | Sindrom Keturunan Autosom Dominan Hematuria Keluarga–Berkelipatan Arteriolar Retinal–Sindrom Kontraktur | 99.33% | L5 | Tahan |
+
+> ⚠️ **MI Posteroinferior**: konteks infark ventrikel kanan (RVI) mungkin memburukkan hemodinamik yang bergantung pada preload di bawah penghambatan ACE — tinjauan keselamatan diperlukan sebelum penilaian lanjutan.
 >
-> ⛔ **Malignant Renovascular Hypertension**: ACE inhibitors are **contraindicated** in bilateral renal artery stenosis — efferent arteriolar dilatation collapses glomerular perfusion pressure and may precipitate acute renal failure. This indication is blocked pending definitive exclusion of bilateral RAS.
+> ⛔ **Hipertensi Renovaskular Ganas**: Penghambat ACE **dikontraindikasikan** dalam stenosis arteri renal bilateral — pelebaran arteriola berbeza meruntuhkan tekanan perfusi glomerular dan mungkin mencetuskan kegagalan renal akut. Indikasi ini disekat sehingga pengecualian pasti stenosis RAS bilateral.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-### Posterolateral Myocardial Infarction (Top-Ranked Prediction)
+### Infark Miokardium Posterolateral (Ramalan Berpangkat Teratas)
 
-Currently, detailed mechanism of action data is not available from DrugBank for this evaluation. Based on well-established pharmacology, lisinopril is an ACE inhibitor that blocks the conversion of angiotensin I to angiotensin II, thereby inhibiting RAAS activation. This reduces cardiac afterload and, crucially, suppresses ventricular remodelling — the pathological process of progressive ventricular dilation and fibrosis following myocardial infarction that drives long-term morbidity and mortality.
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia daripada DrugBank untuk penilaian ini. Berdasarkan farmakoloji yang telah ditubuhkan dengan baik, lisinopril adalah penghambat ACE yang menghalang penukaran angiotensin I kepada angiotensin II, dengan itu menghalang pengaktifan RAAS. Ini mengurangkan beban akhir jantung dan, yang paling penting, menekan remodeling ventrikel — proses patologi pelebaran ventrikel progresif dan fibrosis yang mengikuti infark miokardium yang mendorong morbiditi dan mortaliti jangka panjang.
 
-The landmark Phase 3 RCTs GISSI-3 and ISIS-4 established that ACE inhibitors (lisinopril was directly studied in GISSI-3) significantly reduce 6-week and 5-week mortality after acute MI across general populations. However, neither trial stratified outcomes by anatomical MI subtype (posterolateral vs. anterior vs. inferior), making the TxGNN prediction for "posterolateral MI" an indirect extrapolation from this robust general evidence base rather than a targeted finding.
+Ujian RCT Fasa 3 pemarkah GISSI-3 dan ISIS-4 menetapkan bahawa penghambat ACE (lisinopril dikaji secara langsung dalam GISSI-3) mengurangkan mortaliti 6 minggu dan 5 minggu secara ketara selepas MI akut merentas populasi umum. Bagaimanapun, tiada ujian menerstratifikasi hasil mengikut subtipe MI anatomi (posterolateral vs. anterior vs. inferior), menjadikan ramalan TxGNN untuk "MI posterolateral" penghubungan tidak langsung daripada asas bukti umum yang teguh daripada penemuan yang disasarkan.
 
-The posterolateral territory is typically perfused by the left circumflex or dominant right coronary artery. While the same anti-remodelling mechanism applies regardless of infarct territory, the unique haemodynamic consequences of posterolateral involvement — including potential lateral wall motion abnormalities and mitral regurgitation — may modulate the magnitude of ACE inhibitor benefit, justifying targeted investigation.
+Wilayah posterolateral biasanya disempurnakan oleh arteri koroner sirkumfleks kiri atau dominan kanan. Walaupun mekanisme anti-remodeling yang sama berlaku tanpa mengira wilayah infark, akibat hemodinamik unik penglibatan posterolateral — termasuk kemungkinan anomali gerakan dinding lateral dan regurgitasi mitral — mungkin mengubah magnitud faedah penghambat ACE, mewajarkan penyiasatan yang disasarkan.
 
-### Chronic Pulmonary Heart Disease (Best-Evidenced Indication)
+### Penyakit Jantung Pulmonari Kronik (Indikasi Paling Terbukti)
 
-Chronic cor pulmonale — right ventricular hypertrophy and eventual failure driven by sustained pulmonary arterial hypertension — may benefit from ACE inhibition through at least three mechanisms: ① reducing systemic vascular resistance improves biventricular interdependence, offloading the already-stressed right ventricle; ② suppressing ventricular fibrosis and structural remodelling in both ventricles; ③ bradykinin pathway activation may improve pulmonary vascular endothelial function, given that ACE is highly expressed in the pulmonary vascular bed.
+Cor pulmonale kronik — hipertrofi ventrikel kanan dan kegagalan akhirnya yang didorong oleh hipertensi arteri pulmonari yang berkelanjutan — mungkin mendapat faedah daripada penghambatan ACE melalui sekurang-kurangnya tiga mekanisme: ① mengurangkan rintangan vaskular sistematik meningkatkan kebergantungan biventrikel, memunggah ventrikel kanan yang sudah tertekan; ② menekan fibrosis ventrikel dan remodeling struktur dalam kedua-dua ventrikel; ③ pengaktifan laluan bradikin mungkin meningkatkan fungsi endotelia vaskular pulmonari, memandangkan bahawa ACE sangat dinyatakan dalam katil vaskular pulmonari.
 
-Two directly relevant clinical studies support this rationale. PMID 14524095 is a clinical trial of lisinopril specifically in patients with chronic cor pulmonale. PMID 17047621 demonstrates that lisinopril 10 mg/day attenuates pulmonary hypertension, improves right ventricular systolic function and diastolic filling, and corrects vascular tone in patients with the combination of ischaemic heart disease and COPD — a pathophysiological model closely aligned with cor pulmonale. Together, these form an L3 evidence base and represent the most clinically actionable finding in this evaluation.
+Dua kajian klinikal yang relevan secara langsung menyokong rasional ini. PMID 14524095 adalah ujian klinikal lisinopril khususnya pada pesakit dengan cor pulmonale kronik. PMID 17047621 menunjukkan bahawa lisinopril 10 mg/hari mengurangkan hipertensi pulmonari, meningkatkan fungsi sistolik ventrikel kanan dan pengisian diastolik, dan membetulkan nada vaskular pada pesakit dengan kombinasi penyakit jantung iskemik dan COPD — model patofisiologi yang selaras rapat dengan cor pulmonale. Bersama-sama, ini membentuk asas bukti L3 dan mewakili penemuan yang paling boleh ditindakkan secara klinikal dalam penilaian ini.
 
 ---
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-### Chronic Pulmonary Heart Disease (Rank 9 — Best Evidence)
+### Penyakit Jantung Pulmonari Kronik (Pangkat 9 — Bukti Terbaik)
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT06697353](https://clinicaltrials.gov/study/NCT06697353) | N/A | Completed | 4,936 | Real-world retrospective cohort of vericiguat (sGC activator) in Japanese chronic HFrEF patients; provides comparative context for pharmacotherapy outcomes in chronic heart failure, though the study drug differs from lisinopril |
-| [NCT00982423](https://clinicaltrials.gov/study/NCT00982423) | Phase 1/2 | Completed | 41 | Effects of reducing furosemide dose on cardiorenal and humoral function in compensated CHF with and without renal dysfunction; useful background for understanding ACEI + diuretic interactions in the same patient population |
-| [NCT04486118](https://clinicaltrials.gov/study/NCT04486118) | Phase 2 | Active, not recruiting | 36 | Double-blind RCT of centrally acting ACE inhibition in SLE-associated cognitive impairment; demonstrates active investigation of ACE inhibitor class effects in non-traditional indications |
-| [NCT03967496](https://clinicaltrials.gov/study/NCT03967496) | N/A | Completed | 402 | Observational assessment of immediate postoperative delirium; limited direct relevance but captures cardiac complication data including MI and pulmonary events in the perioperative setting |
-| [NCT00292162](https://clinicaltrials.gov/study/NCT00292162) | N/A | Completed | 41 | Radiofrequency ablation for AF in advanced CHF; different intervention, but provides outcomes data in advanced CHF patients with significant haemodynamic compromise |
+| [NCT06697353](https://clinicaltrials.gov/study/NCT06697353) | N/A | Selesai | 4,936 | Kohort retrospektif dunia nyata vericiguat (pengaktif sGC) pada pesakit HFrEF kronik Jepun; memberikan konteks perbandingan untuk hasil farmakoterapi dalam kegagalan jantung kronik, walaupun ubat kajian berbeza daripada lisinopril |
+| [NCT00982423](https://clinicaltrials.gov/study/NCT00982423) | Fasa 1/2 | Selesai | 41 | Kesan mengurangkan dos furosemid pada fungsi kardioronal dan humoral dalam CHF terbayar dengan dan tanpa disfungsi renal; latar belakang berguna untuk memahami interaksi ACEI + diuretik dalam populasi pesakit yang sama |
+| [NCT04486118](https://clinicaltrials.gov/study/NCT04486118) | Fasa 2 | Aktif, tidak merekrut | 36 | RCT buta dua penghambatan ACE yang bertindak secara terpusat dalam kemudaratan kognitif yang berkaitan dengan SLE; menunjukkan penyiasatan aktif kesan kelas penghambat ACE dalam indikasi bukan tradisional |
+| [NCT03967496](https://clinicaltrials.gov/study/NCT03967496) | N/A | Selesai | 402 | Penilaian observasi deliriumselepas operasi segera; relevansi langsung terbatas tetapi menangkap data komplikasi jantung termasuk MI dan peristiwa pulmonari dalam tetapan perioperatif |
+| [NCT00292162](https://clinicaltrials.gov/study/NCT00292162) | N/A | Selesai | 41 | Ablasi frekuensi radio untuk AF dalam CHF lanjutan; campur tangan berbeza, tetapi memberikan data hasil pada pesakit CHF lanjutan dengan kompromi hemodinamik ketara |
 
-> None of the retrieved trials directly study lisinopril in chronic pulmonary heart disease or cor pulmonale. The most directly relevant evidence comes from the literature (PMID 14524095 and PMID 17047621).
+> Tiada ujian yang diambil mengkaji lisinopril secara langsung dalam penyakit jantung pulmonari kronik atau cor pulmonale. Bukti yang paling relevan secara langsung datang daripada kesusasteraan (PMID 14524095 dan PMID 17047621).
 
-### Posterolateral Myocardial Infarction (Rank 1)
+### Infark Miokardium Posterolateral (Pangkat 1)
 
-Currently no related clinical trials registered for this specific anatomical MI subtype.
-
----
-
-## Literature Evidence
-
-### Chronic Pulmonary Heart Disease (Rank 9 — Best Evidence)
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [14524095](https://pubmed.ncbi.nlm.nih.gov/14524095/) | 2003 | Clinical Trial | Problemy Tuberkuleza i Boleznei Legkikh | **Direct evidence**: Small clinical trial of lisinopril specifically in patients with chronic cor pulmonale — primary supporting study for this indication |
-| [17047621](https://pubmed.ncbi.nlm.nih.gov/17047621/) | 2006 | Clinical Study | Kardiologiia | **Direct evidence**: Lisinopril 10 mg/day attenuated pulmonary hypertension, improved right ventricular systolic function and diastolic ventricular filling, and corrected vascular tone in IHD+COPD patients with pulmonary hypertension and endothelial dysfunction |
-| [26895877](https://pubmed.ncbi.nlm.nih.gov/26895877/) | 2016 | Review | European Journal of Pediatrics | Reviews ACEI/ARB recommendations in paediatric chronic heart failure; highlights mechanistic rationale for tissue ACE inhibition in heart failure despite limited age-specific RCT data |
-| [20852161](https://pubmed.ncbi.nlm.nih.gov/20852161/) | 2010 | Case Report | Am J Health-System Pharmacy | Severe bradycardia and hypotension with concomitant tizanidine and lisinopril — clinically important drug interaction safety signal |
-| [11170787](https://pubmed.ncbi.nlm.nih.gov/11170787/) | 2001 | Animal Study | Experimental and Molecular Pathology | Cardiopulmonary protein synthesis changes in three chronic hypertension rat models (aortic constriction, Goldblatt, bromoethylamine); mechanistic background for cardiac remodelling in hypertensive heart disease |
-
-### Septal Myocardial Infarction (Rank 7)
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [39018146](https://pubmed.ncbi.nlm.nih.gov/39018146/) | 2024 | Case Report | JPMA — Journal of Pakistan Medical Association | ACE inhibitor + CoQ10 as adjunctive treatment for ventricular septal rupture complicating late-onset acute MI in a 74-year-old woman; demonstrates real-world ACEI use in septal complications of MI, though direct applicability to septal MI as an anatomical subtype is limited |
-
-### Posterolateral Myocardial Infarction (Rank 1)
-
-Currently no related literature available for this specific anatomical MI subtype.
+Pada masa ini tiada ujian klinikal yang berkaitan didaftarkan untuk subtipe MI anatomi tertentu ini.
 
 ---
 
-## Malaysia Market Information
+## Bukti Kesusasteraan
 
-Nine product licences for Lisinopril are registered with the National Pharmaceutical Regulatory Agency (NPRA) of Malaysia, confirming active market presence. Detailed product-level data (authorization numbers, brand names, dosage forms, and approved indication text) was not returned in the current data extract despite successful query.
+### Penyakit Jantung Pulmonari Kronik (Pangkat 9 — Bukti Terbaik)
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [14524095](https://pubmed.ncbi.nlm.nih.gov/14524095/) | 2003 | Ujian Klinikal | Problemy Tuberkuleza i Boleznei Legkikh | **Bukti langsung**: Ujian klinikal kecil lisinopril khususnya pada pesakit dengan cor pulmonale kronik — kajian sokongan utama untuk indikasi ini |
+| [17047621](https://pubmed.ncbi.nlm.nih.gov/17047621/) | 2006 | Kajian Klinikal | Kardiologiia | **Bukti langsung**: Lisinopril 10 mg/hari mengurangkan hipertensi pulmonari, meningkatkan fungsi sistolik ventrikel kanan dan pengisian ventrikel diastolik, dan membetulkan nada vaskular pada pesakit IHD+COPD dengan hipertensi pulmonari dan disfungsi endotelia |
+| [26895877](https://pubmed.ncbi.nlm.nih.gov/26895877/) | 2016 | Ulasan | European Journal of Pediatrics | Mengkaji cadangan ACEI/ARB dalam kegagalan jantung kronik pediatrik; menyerlahkan rasional mekanistik untuk penghambatan ACE tisu dalam kegagalan jantung walaupun data RCT khusus umur terbatas |
+| [20852161](https://pubmed.ncbi.nlm.nih.gov/20852161/) | 2010 | Laporan Kes | Am J Health-System Pharmacy | Bradikardia teruk dan hipotensi dengan tizanidine dan lisinopril serentak — isyarat keselamatan interaksi ubat yang penting secara klinikal |
+| [11170787](https://pubmed.ncbi.nlm.nih.gov/11170787/) | 2001 | Kajian Hewan | Experimental and Molecular Pathology | Perubahan sintesis protein kardiupulmoner dalam tiga model tikus hipertensi kronik (konstriksi aortik, Goldblatt, bromoethylamine); latar belakang mekanistik untuk remodeling jantung dalam penyakit jantung hipertensif |
+
+### Infark Miokardium Septal (Pangkat 7)
+
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [39018146](https://pubmed.ncbi.nlm.nih.gov/39018146/) | 2024 | Laporan Kes | JPMA — Journal of Pakistan Medical Association | Penghambat ACE + CoQ10 sebagai rawatan tambahan untuk ruptur septal ventrikel yang merumitkan MI akut permulaan lewat pada seorang wanita berumur 74 tahun; menunjukkan penggunaan ACEI dunia nyata dalam komplikasi septal MI, walaupun kebolehgunaan langsung kepada MI septal sebagai subtipe anatomi terbatas |
+
+### Infark Miokardium Posterolateral (Pangkat 1)
+
+Pada masa ini tiada kesusasteraan yang berkaitan tersedia untuk subtipe MI anatomi tertentu ini.
+
+---
+
+## Maklumat Pasaran Malaysia
+
+Sembilan lesen produk untuk Lisinopril didaftarkan dengan Agensi Kawal Selia Farmaseutikal Nasional (NPRA) Malaysia, mengesahkan kehadiran pasaran aktif. Data peringkat produk terperinci (nombor kebenaran, nama jenama, bentuk dos, dan teks indikasi yang diluluskan) tidak dikembalikan dalam ekstrak data semasa walaupun pertanyaan berjaya.
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
 |---------|------|------|-----------|
-| — | Not available in current data extract | — | — |
-| (9 licences confirmed via NPRA query on 2026-03-27) | | | |
+| — | Tidak tersedia dalam ekstrak data semasa | — | — |
+| (9 lesen disahkan melalui pertanyaan NPRA pada 2026-03-27) | | | |
 
-> Lisinopril is a mature generic ACE inhibitor registered internationally under brand names including Zestril® and Prinivil®, typically available as tablets (2.5 mg, 5 mg, 10 mg, 20 mg) approved for hypertension, chronic heart failure, and post-MI left ventricular dysfunction. Full product details should be retrieved directly from the NPRA eSearch portal.
-
----
-
-## Safety Considerations
-
-**Key Warning — Malignant Renovascular Hypertension (Rank 6):**
-Bilateral renal artery stenosis (or stenosis affecting a solitary functioning kidney) is a **contraindication** to lisinopril and all ACE inhibitors. In this setting, ACE inhibition dilates the efferent arteriole, catastrophically reducing glomerular filtration pressure and triggering acute renal failure. This predicted indication (Rank 6) must remain on **Hold** until bilateral RAS is definitively excluded by imaging.
-
-**Drug Interaction Signal (from literature — PMID 20852161):**
-Concomitant use of tizanidine and lisinopril has been associated with severe bradycardia and hypotension. This interaction should be flagged in any clinical use setting.
-
-For complete warnings, contraindications, and the full drug interaction profile, please refer to the approved Malaysian package insert.
+> Lisinopril adalah penghambat ACE generik matang yang didaftarkan secara antarabangsa di bawah nama jenama termasuk Zestril® dan Prinivil®, biasanya tersedia sebagai tablet (2.5 mg, 5 mg, 10 mg, 20 mg) yang diluluskan untuk hipertensi, kegagalan jantung kronik, dan disfungsi ventrikel kiri selepas MI. Butiran produk lengkap harus diambil terus daripada portal eSearch NPRA.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-### Chronic Pulmonary Heart Disease — **Decision: Proceed with Guardrails**
+**Amaran Utama — Hipertensi Renovaskular Ganas (Pangkat 6):**
+Stenosis arteri renal bilateral (atau stenosis yang menjejaskan buah pinggang berfungsi tunggal) adalah **kontraindikasi** terhadap lisinopril dan semua penghambat ACE. Dalam tetapan ini, penghambatan ACE melebarkan arteriola berbeza, mengurangkan tekanan penapisan glomerular dengan bencana dan mencetuskan kegagalan renal akut. Indikasi yang diramalkan ini (Pangkat 6) mesti kekal pada **Tahan** sehingga stenosis RAS bilateral dikecualikan secara pasti oleh pengimejan.
 
-**Rationale:**
-Two small but directly relevant clinical studies examined lisinopril specifically in cor pulmonale and COPD-related pulmonary hypertension and reported improvements in right ventricular function and pulmonary pressure. This L3 evidence base, combined with sound mechanistic plausibility via RAAS suppression and bradykinin-mediated pulmonary endothelial effects, justifies moving to the next evaluation stage.
+**Isyarat Interaksi Ubat (daripada kesusasteraan — PMID 20852161):**
+Penggunaan serentak tizanidine dan lisinopril telah dikaitkan dengan bradikardia teruk dan hipotensi. Interaksi ini harus ditandai dalam sebarang tetapan penggunaan klinikal.
 
-**To proceed, the following is needed:**
-- Full-text review of PMID 14524095 and PMID 17047621 to assess sample sizes, study design, control groups, and effect sizes
-- Safety monitoring protocol: baseline and follow-up eGFR, serum potassium, and blood pressure tracking (avoid excessive hypotension given right-heart preload dependence)
-- Mandatory exclusion of bilateral renal artery stenosis prior to initiation
-- Design of a prospective pilot RCT or well-controlled observational study in COPD-associated cor pulmonale patients on standard background therapy
+Untuk amaran lengkap, kontraindikasi, dan profil interaksi ubat lengkap, sila rujuk sisipan bungkusan Malaysia yang diluluskan.
 
 ---
 
-### Posterolateral Myocardial Infarction — **Decision: Research Question**
+## Kesimpulan dan Langkah Seterusnya
 
-**Rationale:**
-ACEI/lisinopril has Phase 3 RCT evidence for mortality reduction in general acute MI (GISSI-3, ISIS-4), but no published data exists for the posterolateral anatomical subtype specifically. Mechanistic extrapolation is reasonable but unconfirmed.
+### Penyakit Jantung Pulmonari Kronik — **Keputusan: Teruskan dengan Pengawasan**
 
-**To proceed, the following is needed:**
-- Retrospective subgroup analysis from existing large MI trial datasets (GISSI-3, ISIS-4) stratifying outcomes by MI territory
-- Prospective registry or cohort study comparing outcomes in posterolateral MI patients with vs. without ACE inhibitor therapy
-- Lisinopril DrugBank MOA data (currently a data gap — DG002)
-- NPRA package insert review for full safety and contraindication data (DG001)
+**Rasional:**
+Dua kajian klinikal kecil tetapi relevan secara langsung mengkaji lisinopril khususnya dalam cor pulmonale dan hipertensi pulmonari yang berkaitan COPD dan melaporkan peningkatan dalam fungsi ventrikel kanan dan tekanan pulmonari. Asas bukti L3 ini, digabungkan dengan kebolehkreditan mekanistik yang kukuh melalui penindasan RAAS dan kesan endotelia pulmonari yang dimediasi bradikin, mewajarkan bergerak ke peringkat penilaian seterusnya.
 
----
-
-### Malignant Renovascular Hypertension — **Decision: Hold**
-
-**Rationale:**
-Bilateral renal artery stenosis constitutes a contraindication to ACE inhibitors. This indication is blocked unless bilateral RAS exclusion is confirmed.
+**Untuk meneruskan, berikut diperlukan:**
+- Tinjauan teks lengkap PMID 14524095 dan PMID 17047621 untuk menilai saiz sampel, reka bentuk kajian, kumpulan kawalan, dan saiz kesan
+- Protokol pemantauan keselamatan: eGFR garis asas dan susulan, penjejakan kalium serum, dan tekanan darah (elakkan hipotensi berlebihan memandangkan kebergantungan preload jantung kanan)
+- Pengecualian wajib stenosis arteri renal bilateral sebelum permulaan
+- Reka bentuk kajian RCT pelopor prospektif atau kajian observasi yang dikawal dengan baik pada pesakit cor pulmonale yang berkaitan COPD pada terapi latar belakang standard
 
 ---
 
-> ⚕️ *This report is for research reference only and does not constitute medical advice. All drug repurposing candidates require clinical validation before application.*
+### Infark Miokardium Posterolateral — **Keputusan: Soalan Penyelidikan**
+
+**Rasional:**
+ACEI/lisinopril mempunyai bukti RCT Fasa 3 untuk pengurangan mortaliti dalam MI akut umum (GISSI-3, ISIS-4), tetapi tiada data yang diterbitkan wujud untuk subtipe anatomi posterolateral secara khusus. Penghubungan mekanistik adalah munasabah tetapi tidak disahkan.
+
+**Untuk meneruskan, berikut diperlukan:**
+- Analisis subkumpulan retrospektif daripada set data ujian MI besar yang sedia ada (GISSI-3, ISIS-4) menerstratifikasi hasil mengikut wilayah MI
+- Pendaftaran prospektif atau kajian kohort membandingkan hasil pada pesakit MI posterolateral dengan vs. tanpa terapi penghambat ACE
+- Data MOA Lisinopril DrugBank (pada masa ini celah data — DG002)
+- Tinjauan sisipan bungkusan NPRA untuk data keselamatan lengkap dan kontraindikasi (DG001)
+
+---
+
+### Hipertensi Renovaskular Ganas — **Keputusan: Tahan**
+
+**Rasional:**
+Stenosis arteri renal bilateral merupakan kontraindikasi kepada penghambat ACE. Indikasi ini disekat melainkan pengecualian RAS bilateral disahkan.
+
+---
+
+> ⚕️ *Laporan ini adalah untuk rujukan penyelidikan sahaja dan tidak merupakan nasihat perubatan. Semua calon repurposing ubat memerlukan pengesahan klinikal sebelum permohonan.*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

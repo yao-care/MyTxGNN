@@ -29,110 +29,111 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Trimethoprim: From Bacterial Infections to Pneumocystosis (Pneumocystis Pneumonia)
+# Trimethoprim: Daripada Jangkitan Bakteria kepada Pneumocystosis (Pneumocystis Pneumonia)
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Trimethoprim is a folate-synthesis-inhibiting antibacterial, most widely used in combination with sulfamethoxazole (TMP-SMX / co-trimoxazole) for common bacterial infections such as urinary tract infections. The TxGNN model highlights **Pneumocystosis (Pneumocystis jirovecii pneumonia, PCP)** as its top-ranked predicted indication, and the evidence pack shows this is already an extensively studied, real-world use — supported by **dozens of clinical trials (including multiple completed Phase 3 RCTs)** and **20 publications**, though key Malaysia label safety data is still missing.
+Trimethoprim adalah antibakteria yang menghambat sintesis folat, paling banyak digunakan dalam kombinasi dengan sulfamethoxazole (TMP-SMX / co-trimoxazole) untuk jangkitan bakteria biasa seperti jangkitan saluran kencing. Model TxGNN menyoroti **Pneumocystosis (Pneumocystis jirovecii pneumonia, PCP)** sebagai petunjuk ramalan berpangkat tertinggi, dan pakej bukti menunjukkan ini adalah penggunaan dunia sebenar yang sudah dikaji secara meluas — disokong oleh **berpuluh-puluh ujian klinikal (termasuk berbilang RCT Fasa 3 yang selesai)** dan **20 penerbitan**, walaupun data keselamatan label Malaysia yang utama masih hilang.
 
 ---
 
-## Quick Overview
+## Gambaran Keseluruhan Cepat
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Not specified in the NPRA license extract (all `approved_indication_text` fields are blank); literature within this evidence pack describes trimethoprim-sulfamethoxazole's classic approved uses as urinary tract infection, otitis media, shigellosis, and pneumocystosis (PMID 382841) |
-| Predicted New Indication | Pneumocystosis (Pneumocystis jirovecii pneumonia) |
-| TxGNN Prediction Score | 0.00% (as reported in the evidence pack) |
-| Evidence Level | L1 (multiple completed Phase 3 RCTs) |
-| Malaysia Market Status | Marketed (Marketed) |
-| Number of Registrations | 70 |
-| Recommended Decision | Hold |
+| Petunjuk Asal | Tidak ditentukan dalam ekstrak lesen NPRA (semua medan `approved_indication_text` adalah kosong); kesusasteraan dalam pakej bukti ini menerangkan kegunaan yang diluluskan secara klasik trimethoprim-sulfamethoxazole sebagai jangkitan saluran kencing, otitis media, shigellosis, dan pneumocystosis (PMID 382841) |
+| Petunjuk Baharu yang Direka Lihat | Pneumocystosis (Pneumocystis jirovecii pneumonia) |
+| Skor Ramalan TxGNN | 0.00% (seperti yang dilaporkan dalam pakej bukti) |
+| Tahap Bukti | L1 (berbilang RCT Fasa 3 yang selesai) |
+| Status Pasaran Malaysia | Dipasarkan (Marketed) |
+| Bilangan Pendaftaran | 70 |
+| Keputusan Disyorkan | Tunda |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed mechanism-of-action data for trimethoprim is not available in this evidence pack (flagged as a High-severity data gap, DG002). Based on the literature captured within this pack, trimethoprim is described as an "enzyme-specific inhibitor of bacterial folate synthesis" (PMID 382841), most often used as the fixed-dose combination trimethoprim-sulfamethoxazole (TMP-SMX / co-trimoxazole / Septra / Bactrim). This dual blockade of the folate pathway (trimethoprim inhibiting dihydrofolate reductase, sulfamethoxazole inhibiting dihydropteroate synthase) gives the combination broad-spectrum antimicrobial activity against bacteria and, notably, against the fungal-like organism *Pneumocystis jirovecii*.
+Data mekanisme tindakan terperinci untuk trimethoprim tidak tersedia dalam pakej bukti ini (ditandai sebagai jurang data berketua tinggi, DG002). Berdasarkan kesusasteraan yang ditangkap dalam pakej ini, trimethoprim digambarkan sebagai "perencat spesifik enzim bagi sintesis folat bakteria" (PMID 382841), paling sering digunakan sebagai kombinasi dos tetap trimethoprim-sulfamethoxazole (TMP-SMX / co-trimoxazole / Septra / Bactrim). Blokad dwi bagi laluan folat ini (trimethoprim merencat dihydrofolate reductase, sulfamethoxazole merencat dihydropteroate synthase) memberikan aktiviti antimikroba spektrum luas kombinasi terhadap bakteria dan, dengan ketara, terhadap organisma seperti kulat *Pneumocystis jirovecii*.
 
-Unlike a typical "repurposing" candidate with only mechanistic plausibility, pneumocystosis is not a novel hypothesis for this drug — TMP-SMX is already the internationally recognized first-line agent for both treatment and prophylaxis of PCP, as reflected by the volume and maturity of the clinical trial record (spanning from early AIDS-era trials in the late 1980s/1990s through active studies in 2024-2026). This strengthens confidence in the TxGNN signal but also means the primary value of this evaluation lies in confirming Malaysia-specific regulatory alignment (label indication, dosing, safety warnings) rather than establishing novel efficacy.
+Tidak seperti calon "penggunaan semula" biasa dengan hanya kebolehpercayaan mekanik, pneumocystosis bukan hipotesis novel bagi ubat ini — TMP-SMX sudah pun agen baris pertama yang diiktiraf secara antarabangsa untuk kedua-dua rawatan dan pencegahan PCP, seperti yang dicerminkan oleh isipadu dan kematangan rekod ujian klinikal (merentang daripada ujian era AIDS awal pada akhir 1980an/1990an hingga kajian aktif pada 2024-2026). Ini mengukuhkan keyakinan dalam isyarat TxGNN tetapi juga bermakna nilai utama penilaian ini terletak dalam mengesahkan penyelarasan kawal selia khusus Malaysia (petunjuk label, dos, amaran keselamatan) daripada mewujudkan keberkesanan novel.
 
 ---
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT00000727](https://clinicaltrials.gov/study/NCT00000727) | Phase 3 | Completed | 322 | SMX-TMP (oral) vs. aerosolized pentamidine for secondary PCP prophylaxis in AIDS patients on AZT |
-| [NCT00001014](https://clinicaltrials.gov/study/NCT00001014) | Phase 3 | Completed | 302 | Trimetrexate+leucovorin vs. TMP/SMX for moderately severe PCP in AIDS/HIV patients |
-| [NCT00001013](https://clinicaltrials.gov/study/NCT00001013) | Phase 3 | Completed | 364 | Trimetrexate+leucovorin vs. TMP/SMX for moderately severe PCP in AIDS/HIV patients |
-| [NCT00000748](https://clinicaltrials.gov/study/NCT00000748) | Phase 3 | Completed | 2500 | Daily vs. thrice-weekly TMP/SMX (TMS) dosing for PCP prophylaxis in HIV-infected patients |
-| [NCT00000816](https://clinicaltrials.gov/study/NCT00000816) | Phase 4 | Completed | 370 | Gradual vs. routine initiation of SMX/TMP for primary PCP prophylaxis, assessing adverse-reaction reduction |
-| [NCT00000655](https://clinicaltrials.gov/study/NCT00000655) | Phase 2 | Completed | 300 | Atovaquone vs. Septra (TMP/SMX) for mild-to-moderate PCP treatment in AIDS patients |
-| [NCT03978559](https://clinicaltrials.gov/study/NCT03978559) | Phase 4 | Unknown | 122 | Caspofungin + TMP-SMX vs. TMP-SMX alone as first-line therapy in non-HIV severe PCP |
-| [NCT00302341](https://clinicaltrials.gov/study/NCT00302341) | Phase 3 | Terminated | 48 | Pafuramidine (DB289) vs. TMP-SMX for acute PCP in HIV/AIDS (non-inferiority trial) |
-| [NCT04851015](https://clinicaltrials.gov/study/NCT04851015) | Phase 3 | Recruiting | 416 | Low-dose vs. standard-dose TMP-SMX for PCP treatment, targeting reduced adverse events |
-| [NCT06499233](https://clinicaltrials.gov/study/NCT06499233) | Phase 4 | Recruiting | 800 | Efficacy/safety of prophylactic TMP-SMX for PCP in autoimmune inflammatory rheumatic disease patients |
+| [NCT00000727](https://clinicaltrials.gov/study/NCT00000727) | Fasa 3 | Selesai | 322 | SMX-TMP (oral) vs. pentamidine yang disembur udara untuk pencegahan PCP sekunder pada pesakit AIDS pada AZT |
+| [NCT00001014](https://clinicaltrials.gov/study/NCT00001014) | Fasa 3 | Selesai | 302 | Trimetrexate+leucovorin vs. TMP/SMX untuk PCP sederhana teruk pada pesakit AIDS/HIV |
+| [NCT00001013](https://clinicaltrials.gov/study/NCT00001013) | Fasa 3 | Selesai | 364 | Trimetrexate+leucovorin vs. TMP/SMX untuk PCP sederhana teruk pada pesakit AIDS/HIV |
+| [NCT00000748](https://clinicaltrials.gov/study/NCT00000748) | Fasa 3 | Selesai | 2500 | Dos harian vs. TMP/SMX (TMS) tiga kali seminggu untuk pencegahan PCP pada pesakit jangkitan HIV |
+| [NCT00000816](https://clinicaltrials.gov/study/NCT00000816) | Fasa 4 | Selesai | 370 | Permulaan beransur-ansur vs. rutin SMX/TMP untuk pencegahan PCP primer, menilai pengurangan tindak balas buruk |
+| [NCT00000655](https://clinicaltrials.gov/study/NCT00000655) | Fasa 2 | Selesai | 300 | Atovaquone vs. Septra (TMP/SMX) untuk rawatan PCP ringan-sederhana pada pesakit AIDS |
+| [NCT03978559](https://clinicaltrials.gov/study/NCT03978559) | Fasa 4 | Tidak diketahui | 122 | Caspofungin + TMP-SMX vs. TMP-SMX sahaja sebagai terapi baris pertama dalam PCP teruk bukan-HIV |
+| [NCT00302341](https://clinicaltrials.gov/study/NCT00302341) | Fasa 3 | Ditamatkan | 48 | Pafuramidine (DB289) vs. TMP-SMX untuk PCP akut dalam HIV/AIDS (ujian tidak terikat bawah) |
+| [NCT04851015](https://clinicaltrials.gov/study/NCT04851015) | Fasa 3 | Merekrut | 416 | Dos rendah vs. dos piawai TMP-SMX untuk rawatan PCP, menyasarkan perisytian buruk yang berkurangan |
+| [NCT06499233](https://clinicaltrials.gov/study/NCT06499233) | Fasa 4 | Merekrut | 800 | Keberkesanan/keselamatan pencegahan TMP-SMX untuk PCP pada pesakit penyakit reumatik autoimun yang meradang |
 
 ---
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [37358837](https://pubmed.ncbi.nlm.nih.gov/37358837/) | 2023 | Review | JAMA | Clinical review on prophylaxis against Pneumocystis jirovecii pneumonia in adults |
-| [37574166](https://pubmed.ncbi.nlm.nih.gov/37574166/) | 2024 | Retrospective Cohort | Chest | Low-dose vs. conventional-dose TMP-SMX treatment for PCP in non-HIV patients; comparable efficacy, fewer adverse events |
-| [29092853](https://pubmed.ncbi.nlm.nih.gov/29092853/) | 2018 | Cohort | Annals of the Rheumatic Diseases | TMP-SMX as primary PCP prophylaxis in rheumatic disease patients on high-dose glucocorticoids |
-| [39389264](https://pubmed.ncbi.nlm.nih.gov/39389264/) | 2025 | Retrospective Cohort | J Infect Chemother | Low-dose vs. standard-dose sulfamethoxazole/trimethoprim for PCP prevention using a large EMR database |
-| [37797822](https://pubmed.ncbi.nlm.nih.gov/37797822/) | 2024 | Retrospective Cohort | J Infect Chemother | ST discontinuation causes and thrombocytopenia during PCP prophylaxis, single-center study |
-| [32000290](https://pubmed.ncbi.nlm.nih.gov/32000290/) | 2020 | Review | Semin Respir Crit Care Med | Overview of Pneumocystis jiroveci biology, transmission, and disease in immunocompromised hosts |
-| [15190141](https://pubmed.ncbi.nlm.nih.gov/15190141/) | 2004 | Review | New England Journal of Medicine | Comprehensive review of Pneumocystis pneumonia pathophysiology and management |
-| [21653531](https://pubmed.ncbi.nlm.nih.gov/21653531/) | 2011 | Review | Proc Am Thorac Soc | Review of HIV-associated PCP epidemiology and treatment gaps |
-| [24617414](https://pubmed.ncbi.nlm.nih.gov/24617414/) | 2014 | Review | Expert Rev Anti Infect Ther | Mini-review from Latin American/Portuguese-speaking expert meeting on Pneumocystis and pneumocystosis |
-| [6600803](https://pubmed.ncbi.nlm.nih.gov/6600803/) | 1983 | Review | Mayo Clinic Proceedings | Review of trimethoprim-sulfamethoxazole antimicrobial spectrum, including pneumocystosis use |
+| [37358837](https://pubmed.ncbi.nlm.nih.gov/37358837/) | 2023 | Ulasan | JAMA | Ulasan klinikal tentang pencegahan terhadap pneumocystis jirovecii pneumonia pada dewasa |
+| [37574166](https://pubmed.ncbi.nlm.nih.gov/37574166/) | 2024 | Kohort Retrospektif | Chest | Rawatan TMP-SMX dos rendah vs. dos konvensional untuk PCP pada pesakit bukan-HIV; keberkesanan setara, perisytian buruk lebih sedikit |
+| [29092853](https://pubmed.ncbi.nlm.nih.gov/29092853/) | 2018 | Kohort | Annals of the Rheumatic Diseases | TMP-SMX sebagai pencegahan PCP primer pada pesakit penyakit reumatik pada glukokortikoid dos tinggi |
+| [39389264](https://pubmed.ncbi.nlm.nih.gov/39389264/) | 2025 | Kohort Retrospektif | J Infect Chemother | Dos rendah vs. dos piawai sulfamethoxazole/trimethoprim untuk pencegahan PCP menggunakan pangkalan data EMR yang besar |
+| [37797822](https://pubmed.ncbi.nlm.nih.gov/37797822/) | 2024 | Kohort Retrospektif | J Infect Chemother | Penyebab penghentian ST dan thrombocytopenia semasa pencegahan PCP, kajian pusat tunggal |
+| [32000290](https://pubmed.ncbi.nlm.nih.gov/32000290/) | 2020 | Ulasan | Semin Respir Crit Care Med | Gambaran keseluruhan biologi Pneumocystis jiroveci, penghantaran, dan penyakit dalam hos tanpa kekebalan |
+| [15190141](https://pubmed.ncbi.nlm.nih.gov/15190141/) | 2004 | Ulasan | New England Journal of Medicine | Ulasan komprehensif tentang patofisiologi pneumonia Pneumocystis dan pengurusan |
+| [21653531](https://pubmed.ncbi.nlm.nih.gov/21653531/) | 2011 | Ulasan | Proc Am Thorac Soc | Ulasan epidemiologi PCP yang berkaitan dengan HIV dan jurang rawatan |
+| [24617414](https://pubmed.ncbi.nlm.nih.gov/24617414/) | 2014 | Ulasan | Expert Rev Anti Infect Ther | Ulasan mini daripada mesyuarat pakar berbahasa Amerika Latin/Portugis tentang Pneumocystis dan pneumocystosis |
+| [6600803](https://pubmed.ncbi.nlm.nih.gov/6600803/) | 1983 | Ulasan | Mayo Clinic Proceedings | Ulasan spektrum antimikroba trimethoprim-sulfamethoxazole, termasuk penggunaan pneumocystosis |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-The evidence pack confirms **70 total NPRA registrations** for trimethoprim (Market Status: Marketed), but the license-level fields (license number, product name, dosage form, manufacturer, approved indication text) are all blank in the current data extract — no individual authorizations can be listed at this time. Obtaining these details from the NPRA product register is recommended before finalizing the label-alignment assessment.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information. (Key warnings, contraindications, and drug interaction data are all currently unavailable — flagged as a Blocking-severity data gap requiring TFDA/NPRA label retrieval, DG001.)
+Pakej bukti mengesahkan **70 jumlah pendaftaran NPRA** untuk trimethoprim (Status Pasaran: Dipasarkan), tetapi medan peringkat lesen (nombor lesen, nama produk, bentuk dos, pengilang, teks petunjuk yang diluluskan) semuanya kosong dalam ekstrak data semasa — tiada otorisasi individu boleh disenaraikan pada masa ini. Mendapatkan butiran ini daripada daftar produk NPRA disyorkan sebelum memuktamadkan penilaian penyelarasan label.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
-
-**Rationale:**
-Clinical evidence for pneumocystosis is strong (L1 — multiple completed Phase 3 RCTs plus a mature 50-year literature base), and TMP-SMX is already the internationally recognized standard of care for this indication. However, the evidence pack flags a **Blocking**-severity data gap (DG001: TFDA/NPRA label warnings and contraindications) that explicitly prevents entry into the S1 safety initial-assessment stage. Efficacy evidence alone cannot support a "Proceed" decision until this safety gate is cleared.
-
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert (warnings, precautions, contraindications) — download and parse per DG001 remediation plan
-- DrugBank-sourced mechanism-of-action detail (DG002)
-- Malaysia license-level detail (product names, dosage forms, approved indication text) for the 70 registered products
-- Route-of-administration compatibility confirmation (oral vs. IV) for PCP treatment vs. prophylaxis use cases
-- Drug-drug interaction data (current DDI query returned no results)
+Sila rujuk sisipan pakej untuk maklumat keselamatan. (Data amaran utama, kontraindikasi, dan interaksi ubat semuanya tidak tersedia pada masa ini — ditandai sebagai jurang data berketua Menyekat memerlukan pengambilan label TFDA/NPRA, DG001.)
 
 ---
 
-## Other Predicted Indications (Same Evidence Pack)
+## Kesimpulan dan Langkah Seterusnya
 
-For completeness, this multi-indication evidence pack (TW-DB00440-multi) also scored four additional TxGNN-predicted indications for trimethoprim:
+**Keputusan: Tunda**
 
-| Rank | Disease | Evidence Level | Decision Stage | Recommendation |
+**Rasional:**
+Bukti klinikal untuk pneumocystosis adalah kuat (L1 — berbilang RCT Fasa 3 yang selesai serta asas kesusasteraan 50 tahun yang matang), dan TMP-SMX sudah pun piawai penjagaan yang diiktiraf secara antarabangsa untuk petunjuk ini. Walau bagaimanapun, pakej bukti menandai jurang data **Menyekat**-berketua (DG001: amaran label TFDA/NPRA dan kontraindikasi) yang secara jelas mencegah kemasukan ke dalam peringkat penilaian keselamatan awal S1. Bukti keberkesanan sahaja tidak boleh menyokong keputusan "Teruskan" sehingga pintu keselamatan ini dibuka.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisipan pakej TFDA/NPRA (amaran, tindakan berjaga, kontraindikasi) — muat turun dan huraikan mengikut rancangan pemulihan DG001
+- Butiran mekanisme tindakan bersumber DrugBank (DG002)
+- Butiran peringkat lesen Malaysia (nama produk, bentuk dos, teks petunjuk yang diluluskan) untuk 70 produk berdaftar
+- Pengesahan keserasian laluan pentadbiran (oral vs. IV) untuk kes penggunaan rawatan PCP vs. pencegahan
+- Data interaksi ubat-ubat (pertanyaan DDI semasa mengembalikan tiada hasil)
+
+---
+
+## Petunjuk Lain yang Direka Lihat (Pakej Bukti Sama)
+
+Untuk kesempurnaan, pakej bukti berbilang-petunjuk ini (TW-DB00440-multi) juga menjaringkan empat petunjuk yang direka lihat TxGNN tambahan untuk trimethoprim:
+
+| Pangkat | Penyakit | Tahap Bukti | Peringkat Keputusan | Cadangan |
 |------|---------|----------------|-----------------|-----------------|
-| 2 | Urinary tract infection | L1 | S3 | Proceed with Guardrails |
-| 3 | Infectious otitis media | L2 | S2 | Research Question |
-| 4 | Conjunctivitis | pending | pending | pending |
-| 5 | Acute contagious conjunctivitis | L5 | S0 | Hold |
+| 2 | Jangkitan saluran kencing | L1 | S3 | Teruskan dengan Pengawasan |
+| 3 | Otitis media berjangkit | L2 | S2 | Soalan Penyelidikan |
+| 4 | Conjunctivitis | tertunda | tertunda | tertunda |
+| 5 | Conjunctivitis akut menular | L5 | S0 | Tunda |
 
-Urinary tract infection (rank 2) is notable: it already carries L1 evidence and a "Proceed with Guardrails" scoring in the source data, reflecting trimethoprim's long-established classic use in UTI — a separate report may be warranted for that indication specifically.
+Jangkitan saluran kencing (pangkat 2) adalah ketara: ia sudah pun membawa bukti L1 dan skor "Teruskan dengan Pengawasan" dalam data sumber, mencerminkan penggunaan klasik trimethoprim yang lama bertapak dalam UTI — laporan berasingan mungkin wajar untuk petunjuk itu secara khusus.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

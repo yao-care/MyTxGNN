@@ -29,90 +29,91 @@ Tahap bukti: **L3** | Indikasi diramal: **1**
 
 </div>
 
-# Acetaminophen: From Pain Relief to Migraine with Brainstem Aura
+# Acetaminophen: Dari Penghilang Sakit kepada Migrain dengan Aura Batang Otak
 
-## One-Sentence Summary
+## Ringkasan Satu Kalimat
 
-Acetaminophen (paracetamol) is one of the world's most widely used over-the-counter analgesics and antipyretics, indicated for the relief of mild-to-moderate pain and reduction of fever.
-The TxGNN model predicts it may be effective for **migraine with brainstem aura**, with **0 clinical trials** and **20 publications** currently supporting this direction.
-The available evidence consists primarily of RCTs and systematic reviews on acetaminophen in general migraine — indirect support for this specific subtype — placing overall evidence at **L3**.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Pain relief and fever reduction (analgesic / antipyretic) |
-| Predicted New Indication | Migraine with Brainstem Aura |
-| TxGNN Prediction Score | 99.15% |
-| Evidence Level | L3 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 5 |
-| Recommended Decision | Proceed with Guardrails |
+Acetaminophen (paracetamol) adalah salah satu analgesik dan antipiretik tanpa resep yang paling banyak digunakan di dunia, ditunjukkan untuk menghilangkan rasa sakit ringan hingga sedang dan mengurangi demam.
+Model TxGNN memprediksi bahwa ia mungkin efektif untuk **migrain dengan aura batang otak**, dengan **0 uji klinis** dan **20 publikasi** yang kini mendukung arah ini.
+Bukti yang tersedia terutama terdiri dari RKT dan tinjauan sistematis tentang acetaminophen dalam migrain umum — dukungan tidak langsung untuk subtipe spesifik ini — menempatkan bukti keseluruhan pada **L3**.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Umum Cepat
 
-Acetaminophen's central analgesic action is primarily attributed to inhibition of COX-3 (cyclooxygenase-3), which reduces prostaglandin synthesis within the central nervous system. Beyond COX-3, it modulates descending pain control pathways — notably the periaqueductal grey (PAG) region of the brainstem — a structure critical for endogenous pain suppression. It is important to note that formal MOA data is not yet confirmed for this specific application; the mechanistic rationale presented here is based on indirect inference from its established central analgesic profile.
-
-Migraine with brainstem aura is a distinct migraine subtype in which aura symptoms originate from the brainstem itself, manifesting as dysarthria, vertigo, tinnitus, diplopia, or ataxia. The underlying pathophysiology involves aberrant activation of the trigeminal nucleus caudalis and the brainstem reticular formation. Because acetaminophen acts directly on brainstem pain circuitry via the PAG and descending modulatory pathways, there is a plausible neuroanatomical and pharmacological basis for its efficacy in this subtype.
-
-In broader clinical practice, acetaminophen is already endorsed as a first-line agent for mild-to-moderate migraine attacks — and is the preferred analgesic during pregnancy when NSAIDs and triptans are contraindicated. Extending this recommendation to the brainstem aura subtype is therefore a refinement of an existing indication rather than a wholly novel application, though direct mechanistic and clinical validation for this specific subtype is still lacking.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for acetaminophen specifically in migraine with brainstem aura.
+| Item | Konten |
+|------|--------|
+| Indikasi Asal | Penghilang rasa sakit dan pengurangan demam (analgesik / antipiretik) |
+| Indikasi Baru yang Diprediksi | Migrain dengan Aura Batang Otak |
+| Skor Prediksi TxGNN | 99.15% |
+| Tahap Bukti | L3 |
+| Status Pasar Malaysia | ✓ Dipasarkan |
+| Jumlah Pendaftaran | 5 |
+| Keputusan yang Direkomendasikan | Lanjutkan dengan Penjagaan Keselamatan |
 
 ---
 
-## Literature Evidence
+## Mengapa Prediksi Ini Masuk Akal?
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [11112243](https://pubmed.ncbi.nlm.nih.gov/11112243/) | 2000 | RCT | *Archives of Internal Medicine* | Randomised, double-blind, placebo-controlled population-based study demonstrating efficacy and safety of acetaminophen monotherapy in acute migraine treatment |
-| [9482363](https://pubmed.ncbi.nlm.nih.gov/9482363/) | 1998 | RCT | *Archives of Neurology* | Three double-blind, placebo-controlled trials confirming acetaminophen + aspirin + caffeine combination effectively relieves migraine headache pain |
-| [10321417](https://pubmed.ncbi.nlm.nih.gov/10321417/) | 1999 | RCT | *Clinical Therapeutics* | Pooled analysis of 3 randomised placebo-controlled trials showing acetaminophen + aspirin + caffeine is effective for menstruation-associated migraine |
-| [11318886](https://pubmed.ncbi.nlm.nih.gov/11318886/) | 2001 | Comparative Study | *Headache* | Head-to-head comparison of isometheptene/dichloralphenazone/acetaminophen vs sumatriptan for mild-to-moderate migraine with or without aura |
-| [25600718](https://pubmed.ncbi.nlm.nih.gov/25600718/) | 2015 | Systematic Review / Clinical Guideline | *Headache* | American Headache Society updated evidence assessment of pharmacotherapies for acute migraine; positions acetaminophen within the treatment hierarchy |
-| [39493026](https://pubmed.ncbi.nlm.nih.gov/39493026/) | 2024 | Systematic Review | *Cureus* | Review of abortive and prophylactic migraine therapies in pregnancy; highlights acetaminophen as the primary safe acute treatment option |
-| [38307660](https://pubmed.ncbi.nlm.nih.gov/38307660/) | 2024 | Narrative Review | *Handbook of Clinical Neurology* | Covers status migrainosus — a severe complication of migraine with or without aura lasting >72 hours — and current treatment approaches |
-| [30470274](https://pubmed.ncbi.nlm.nih.gov/30470274/) | 2019 | Review | *Neurologic Clinics* | Confirms acetaminophen as first-line symptomatic treatment for headache in pregnancy, including migraine; discusses safety profile across trimesters |
-| [37123778](https://pubmed.ncbi.nlm.nih.gov/37123778/) | 2023 | Review | *Cureus* | Comprehensive review of migraine management during pregnancy and breastfeeding, including safety profiles and dosing considerations for analgesics |
-| [33525313](https://pubmed.ncbi.nlm.nih.gov/33525313/) | 2021 | Review | *Neurology International* | Overview of ubrogepant for acute migraine; contextualises acetaminophen and NSAIDs as standard first-line options for mild-to-moderate migraine attacks |
+Tindakan analgesik pusat acetaminophen terutama dikaitkan dengan penghambatan COX-3 (cyclooxygenase-3), yang mengurangi sintesis prostaglandin dalam sistem saraf pusat. Di luar COX-3, ia memodulasi jalur kontrol rasa sakit menurun — terutama wilayah gray periaqueductal (PAG) di batang otak — struktur yang penting untuk penekanan rasa sakit endogen. Penting untuk dicatat bahwa data mekanisme kerja formal belum dikonfirmasi untuk aplikasi spesifik ini; alasan mekanis yang disajikan di sini didasarkan pada kesimpulan tidak langsung dari profil analgesik pusatnya yang sudah mapan.
+
+Migrain dengan aura batang otak adalah subtipe migrain yang berbeda di mana gejala aura berasal dari batang otak itu sendiri, bermanifestasi sebagai disartria, vertigo, tinitus, diplopia, atau ataksia. Patofisiologi yang mendasari melibatkan aktivasi aberan nucleus trigeminal caudalis dan formasi retikular batang otak. Karena acetaminophen bekerja langsung pada sirkuit rasa sakit batang otak melalui PAG dan jalur modulasi menurun, ada dasar neuroanatomis dan farmakologis yang masuk akal untuk keefektifannya dalam subtipe ini.
+
+Dalam praktik klinis yang lebih luas, acetaminophen sudah direkomendasikan sebagai agen lini pertama untuk serangan migrain ringan hingga sedang — dan merupakan analgesik pilihan selama kehamilan ketika NSAID dan triptan dikontraindikasikan. Memperluas rekomendasi ini ke subtipe aura batang otak karena itu adalah penyempurnaan indikasi yang ada daripada aplikasi yang benar-benar baru, meskipun validasi mekanis dan klinis langsung untuk subtipe spesifik ini masih kurang.
 
 ---
 
-## Malaysia Market Information
+## Bukti Uji Klinis
 
-Acetaminophen is confirmed as **marketed** in Malaysia with **5 registered products**. Detailed licence records (licence numbers, product names, dosage forms, and approved indication texts) are not available in the current dataset.
-
-To retrieve full registration details, please consult the [NPRA Product Registration database](https://www.npra.gov.my/).
+Saat ini tidak ada uji klinis terkait yang terdaftar untuk acetaminophen secara khusus dalam migrain dengan aura batang otak.
 
 ---
 
-## Safety Considerations
+## Bukti Literatur
 
-Please refer to the package insert for safety information.
+| PMID | Tahun | Tipe | Jurnal | Temuan Utama |
+|------|------|------|--------|-------------|
+| [11112243](https://pubmed.ncbi.nlm.nih.gov/11112243/) | 2000 | RKT | *Archives of Internal Medicine* | Studi berbasis populasi berlapis ganda buta plasebo yang menunjukkan efikasi dan keamanan monoterapi acetaminophen dalam pengobatan migrain akut |
+| [9482363](https://pubmed.ncbi.nlm.nih.gov/9482363/) | 1998 | RKT | *Archives of Neurology* | Tiga uji berlapis ganda buta plasebo yang mengkonfirmasi kombinasi acetaminophen + aspirin + kafein secara efektif menghilangkan rasa sakit migrain |
+| [10321417](https://pubmed.ncbi.nlm.nih.gov/10321417/) | 1999 | RKT | *Clinical Therapeutics* | Analisis gabungan dari 3 uji terkontrol plasebo yang menunjukkan acetaminophen + aspirin + kafein efektif untuk migrain yang berhubungan dengan menstruasi |
+| [11318886](https://pubmed.ncbi.nlm.nih.gov/11318886/) | 2001 | Studi Perbandingan | *Headache* | Perbandingan langsung isometheptene/dichloralphenazone/acetaminophen vs sumatriptan untuk migrain ringan hingga sedang dengan atau tanpa aura |
+| [25600718](https://pubmed.ncbi.nlm.nih.gov/25600718/) | 2015 | Tinjauan Sistematis / Panduan Klinis | *Headache* | Penilaian bukti American Headache Society yang diperbarui tentang farmakoterapi untuk migrain akut; memposisikan acetaminophen dalam hierarki pengobatan |
+| [39493026](https://pubmed.ncbi.nlm.nih.gov/39493026/) | 2024 | Tinjauan Sistematis | *Cureus* | Tinjauan terapi penghentian dan profilaksis migrain dalam kehamilan; menyoroti acetaminophen sebagai pilihan pengobatan akut yang aman utama |
+| [38307660](https://pubmed.ncbi.nlm.nih.gov/38307660/) | 2024 | Tinjauan Naratif | *Handbook of Clinical Neurology* | Mencakup status migrain — komplikasi berat migrain dengan atau tanpa aura berlangsung >72 jam — dan pendekatan pengobatan saat ini |
+| [30470274](https://pubmed.ncbi.nlm.nih.gov/30470274/) | 2019 | Tinjauan | *Neurologic Clinics* | Mengkonfirmasi acetaminophen sebagai pengobatan simtomatik lini pertama untuk sakit kepala dalam kehamilan, termasuk migrain; membahas profil keamanan di seluruh trimester |
+| [37123778](https://pubmed.ncbi.nlm.nih.gov/37123778/) | 2023 | Tinjauan | *Cureus* | Tinjauan komprehensif tentang manajemen migrain selama kehamilan dan menyusui, termasuk profil keamanan dan pertimbangan dosis untuk analgesik |
+| [33525313](https://pubmed.ncbi.nlm.nih.gov/33525313/) | 2021 | Tinjauan | *Neurology International* | Gambaran umum ubrogepant untuk migrain akut; memposisikan acetaminophen dan NSAID sebagai pilihan lini pertama standar untuk serangan migrain ringan hingga sedang |
 
 ---
 
-## Conclusion and Next Steps
+## Informasi Pasar Malaysia
 
-**Decision: Proceed with Guardrails**
+Acetaminophen dipastikan sebagai **dipasarkan** di Malaysia dengan **5 produk terdaftar**. Catatan lisensi terperinci (nomor lisensi, nama produk, bentuk dosis, dan teks indikasi yang disetujui) tidak tersedia dalam kumpulan data saat ini.
 
-**Rationale:**
-Acetaminophen is a well-established analgesic with robust evidence for general migraine management and a highly favourable safety profile, making its application to migraine with brainstem aura a clinically reasonable extension. However, no clinical trials have been conducted specifically for this subtype, and the mechanistic link remains indirect inference requiring formal validation.
+Untuk mengambil detail pendaftaran lengkap, silakan konsultasikan [database Pendaftaran Produk NPRA](https://www.npra.gov.my/).
 
-**To proceed, the following is needed:**
-- Identify or design a prospective observational study or pilot RCT targeting patients with migraine with brainstem aura treated with acetaminophen
-- Retrieve formal MOA data from DrugBank API (DG002) to confirm the COX-3 / brainstem PAG pathway hypothesis
-- Download and parse the NPRA package insert PDF (DG001) to identify any contraindications or warnings relevant to this use case
-- Assess drug-drug interaction profile, particularly with concurrent migraine prophylaxis agents (e.g., beta-blockers, valproate, topiramate)
-- Engage a neurologist specialising in headache disorders to review clinical feasibility and define appropriate patient selection criteria
+---
+
+## Pertimbangan Keselamatan
+
+Silakan merujuk pada sisipan paket untuk informasi keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Selanjutnya
+
+**Keputusan: Lanjutkan dengan Penjagaan Keselamatan**
+
+**Alasan:**
+Acetaminophen adalah analgesik yang sudah mapan dengan bukti yang kuat untuk manajemen migrain umum dan profil keselamatan yang sangat baik, menjadikan aplikasinya untuk migrain dengan aura batang otak perpanjangan klinis yang masuk akal. Namun, tidak ada uji klinis yang telah dilakukan khusus untuk subtipe ini, dan hubungan mekanis tetap menjadi kesimpulan tidak langsung yang memerlukan validasi formal.
+
+**Untuk melanjutkan, yang berikut diperlukan:**
+- Identifikasi atau desain studi observasional prospektif atau RKT pilot yang menargetkan pasien dengan migrain dengan aura batang otak yang diobati dengan acetaminophen
+- Ambil data mekanisme kerja formal dari API DrugBank (DG002) untuk mengkonfirmasi hipotesis jalur COX-3 / batang otak PAG
+- Unduh dan parse PDF sisipan paket NPRA (DG001) untuk mengidentifikasi kontrain atau peringatan apa pun yang relevan dengan kasus penggunaan ini
+- Nilai profil interaksi obat-obat, terutama dengan agen profilaksis migrain bersamaan (misalnya penghambat beta, valproat, topiramat)
+- Libatkan ahli saraf yang mengkhususkan diri dalam gangguan sakit kepala untuk meninjau kelayakan klinis dan menentukan kriteria seleksi pasien yang sesuai
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

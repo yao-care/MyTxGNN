@@ -29,76 +29,77 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Estradiol Valerate: From Estrogen Deficiency Therapy to Symptomatic Form of Fragile X Syndrome in Female Carrier
+# Estradiol Valerate: Daripada Terapi Kekurangan Estrogen kepada Bentuk Simptomatik Sindrom Fragile X dalam Pembawa Wanita
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Estradiol valerate is a synthetic estrogen generically used for hormone replacement and estrogen-deficiency conditions; specific NPRA-approved indication text was not captured in this data pull.
-The TxGNN model predicts a possible association with **Symptomatic Form of Fragile X Syndrome in Female Carrier**,
-but this is currently supported by **0 clinical trials** and **0 publications** — a pure computational signal with no direct clinical evidence.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not specified in NPRA license data (Estradiol valerate is generically classified as an estrogen used in hormone replacement therapy) |
-| Predicted New Indication | Symptomatic form of fragile X syndrome in female carrier |
-| TxGNN Prediction Score | 99.94% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
-| Recommended Decision | Hold |
+Estradiol valerate ialah estrogen sintetik yang digunakan secara umum untuk penggantian hormon dan keadaan kekurangan estrogen; teks petunjuk yang diluluskan NPRA yang spesifik tidak ditangkap dalam penarikan data ini.
+Model TxGNN meramalkan kemungkinan asosiasi dengan **Bentuk Simptomatik Sindrom Fragile X pada Pembawa Wanita**,
+tetapi ini pada masa ini disokong oleh **0 percubaan klinikal** dan **0 penerbitan** — isyarat pengiraan tulen tanpa bukti klinikal langsung.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Cepat
 
-Currently, detailed mechanism of action data is not available (DG002, DrugBank query pending). Based on known information, estradiol valerate is a synthetic ester of 17β-estradiol that acts as an estrogen receptor agonist, and is generically used across estrogen-deficiency conditions (e.g., menopausal hormone therapy, hypoestrogenism).
-
-The proposed link to fragile X syndrome rests on an indirect biological chain: female carriers of the FMR1 premutation can develop FXPOI (fragile X-associated primary ovarian insufficiency), a condition that — like primary ovarian failure — is treated with estrogen replacement. This gives the prediction a theoretically plausible pathway.
-
-However, this mechanistic link is inferential only. There is no clinical trial or literature evidence in this evidence pack connecting estradiol valerate directly to fragile X syndrome (symptomatic carrier form) — the prediction is driven purely by the TxGNN model's score (rank 1341 in its internal ranking) rather than by observed drug-disease association in trials or publications. It should be treated as a hypothesis-generating signal, not a validated repurposing candidate.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Perkara | Kandungan |
+|--------|----------|
+| Indikasi Asal | Tidak ditentukan dalam data lesen NPRA (Estradiol valerate diklasifikasikan secara umum sebagai estrogen yang digunakan dalam terapi penggantian hormon) |
+| Indikasi Baru yang Diramalkan | Bentuk simptomatik sindrom fragile X pada pembawa wanita |
+| Skor Ramalan TxGNN | 99.94% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 3 |
+| Keputusan yang Disyorkan | Tunggu |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Masuk Akal?
 
-Currently no related literature available.
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia (DG002, pertanyaan DrugBank sedang berlangsung). Berdasarkan maklumat yang diketahui, estradiol valerate ialah ester sintetik 17β-estradiol yang bertindak sebagai agonis reseptor estrogen, dan digunakan secara umum di seluruh keadaan kekurangan estrogen (cth., terapi penggantian hormon menopaus, hipoestrogenisme).
 
----
+Pautan yang dicadangkan kepada sindrom fragile X bergantung pada rantai biologi tidak langsung: pembawa premutasi FMR1 wanita boleh mengembangkan FXPOI (ketidakcukupan ovarium utama yang berkaitan fragile X), keadaan yang — seperti kegagalan ovarium utama — dirawat dengan penggantian estrogen. Ini memberikan ramalan satu laluan biologi yang secara teorinya munasabah.
 
-## Malaysia Market Information
-
-NPRA records confirm **3 active registrations** for Estradiol valerate, with overall market status **Marketed**. License-level details (license number, product name, dosage form, and approved indication text) were not captured in this data pull — see Data Gap DG001 (Blocking) below.
+Walau bagaimanapun, pautan mekanistik ini hanya inferensi sahaja. Tiada bukti percubaan klinikal atau literatur dalam pek bukti ini yang menghubungkan estradiol valerate secara langsung kepada sindrom fragile X (bentuk pembawa simptomatik) — ramalan didorong semata-mata oleh skor model TxGNN (pangkat 1341 dalam kedudukan dalaman) daripada oleh asosiasi ubat-penyakit yang diperhatikan dalam percubaan atau penerbitan. Ia harus dianggap sebagai isyarat penjana hipotesis, bukan calon pemindahan yang disahkan.
 
 ---
 
-## Safety Considerations
+## Bukti Percubaan Klinikal
 
-Please refer to the package insert for safety information. Note that TFDA/NPRA package insert warnings and contraindications are currently a **Blocking** data gap (DG001) — this must be resolved before any formal safety (S1) evaluation can proceed.
+Pada masa ini tiada percubaan klinikal berkaitan yang berdaftar.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Hold**
+Pada masa ini tiada literatur berkaitan yang tersedia.
 
-**Rationale:**
-The top-ranked TxGNN prediction (fragile X syndrome, symptomatic female carrier form) has zero supporting clinical trials or literature (Evidence Level L5, Decision Stage S0), and the drug's core safety data (warnings, contraindications) is blocked pending TFDA label retrieval (DG001), which prevents any safety-stage review.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert — warnings and contraindications (resolves DG001, currently Blocking)
-- Mechanism of action data from DrugBank (resolves DG002)
-- Malaysia license-level product details (license numbers, product names, dosage forms, approved indication text)
-- If pursuing a repurposing signal for this drug, consider evaluating **primary ovarian failure** (rank 2 in the prediction list) instead — it has substantially stronger supporting evidence (50 clinical trials, 20 publications identified) than the top-ranked but evidence-free candidate reported here
+## Maklumat Pasaran Malaysia
+
+Rekod NPRA mengesahkan **3 pendaftaran aktif** untuk Estradiol valerate, dengan status pasaran keseluruhan **Dipasarkan**. Butiran peringkat lesen (nombor lesen, nama produk, bentuk dos, dan teks petunjuk yang diluluskan) tidak ditangkap dalam penarikan data ini — lihat Jurang Data DG001 (Menyekat) di bawah.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan pakej untuk maklumat keselamatan. Perhatikan bahawa amaran sisipan pakej TFDA/NPRA dan kontraindikasi pada masa ini **Menyekat** jurang data (DG001) — ini mesti diselesaikan sebelum sebarang penilaian keselamatan formal (S1) dapat dilakukan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tunggu**
+
+**Alasan:**
+Ramalan TxGNN yang disusun tertinggi (sindrom fragile X, bentuk pembawa wanita simptomatik) mempunyai sifar percubaan klinikal atau literatur yang menyokong (Tahap Bukti L5, Tahap Keputusan S0), dan data keselamatan teras ubat (amaran, kontraindikasi) disekat menunggu pemulihan label TFDA (DG001), yang menghalang sebarang semakan peringkat keselamatan.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Sisipan pakej TFDA/NPRA — amaran dan kontraindikasi (menyelesaikan DG001, sedang menyekat)
+- Data mekanisme tindakan daripada DrugBank (menyelesaikan DG002)
+- Butiran produk peringkat lesen Malaysia (nombor lesen, nama produk, bentuk dos, teks petunjuk yang diluluskan)
+- Jika mengejar isyarat pemindahan untuk ubat ini, pertimbangkan untuk menilai **kegagalan ovarium utama** (pangkat 2 dalam senarai ramalan) sebaliknya — ia mempunyai bukti yang menyokong jauh lebih kuat (50 percubaan klinikal, 20 penerbitan dikenal pasti) daripada calon bertaraf tertinggi tetapi bebas bukti yang dilaporkan di sini
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

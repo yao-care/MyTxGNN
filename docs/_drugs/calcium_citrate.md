@@ -29,100 +29,95 @@ Tahap bukti: **L5** | Indikasi diramal: **4**
 
 </div>
 
-Using the **txgnn-pipeline** domain skill isn't a fit here since this is a one-off report-generation task fully specified by the v5 prompt itself (not model training/deployment work), so I'm producing the report directly per the instructions.
+# Kalsium Sitrat: Daripada Suplemen Kalsium kepada Hemoglobinopatia
 
-A few things worth flagging before the report: the Evidence Pack's `taiwan_regulatory.licenses` array contains 5 entries but **every field is an empty string** — there's no usable license number, product name, dosage form, or indication text to populate the "Original Indication" or "Malaysia Market Information" tables. I've followed the "don't fabricate" rule and stated that gap explicitly rather than inventing values. I also pulled forward the `repurposing_rationale.mechanistic_link` text (which candidly flags this as a likely knowledge-graph string-collision artifact around "citrate") since it's directly relevant to the Hold recommendation and the CLAUDE.md rule against guessing.
+## Ringkasan Satu Ayat
 
----
-
-# Calcium Citrate: From Calcium Supplementation to Hemoglobinopathy
-
-## One-Sentence Summary
-
-> Calcium Citrate (DrugBank DB11093) is a calcium mineral supplement marketed in Malaysia under 48 NPRA registrations, though no specific approved-indication text or mechanism-of-action data is currently available in this evidence pack.
-> The TxGNN model's top prediction suggests possible relevance to **Hemoglobinopathy**, with a **99.37% confidence score**, but this is currently supported by only **4 publications** (mostly involving unrelated citrate-containing drugs) and **0 clinical trials**.
-> Evidence quality is the lowest tier (L5), and the evidence review itself flags this prediction as likely a knowledge-graph artifact rather than a genuine mechanistic signal.
+> Kalsium Sitrat (DrugBank DB11093) ialah suplemen mineral kalsium yang dipasarkan di Malaysia di bawah 48 pendaftaran NPRA, walaupun tiada teks petunjuk yang diluluskan khusus atau data mekanisme tindakan yang tersedia pada masa kini dalam pakej bukti ini.
+> Ramalan model TxGNN teratas mencadangkan kemungkinan kekaitan dengan **Hemoglobinopatia**, dengan skor keyakinan **99.37%**, tetapi ini pada masa kini hanya disokong oleh **4 penerbitan** (kebanyakannya melibatkan ubat yang mengandungi sitrat yang tidak berkaitan) dan **0 percubaan klinikal**.
+> Kualiti bukti ialah peringkat terendah (L5), dan semakan bukti itu sendiri menanda ramalan ini sebagai kemungkinan artifak graf pengetahuan dan bukannya isyarat mekanik yang tulen.
 
 ---
 
-## Quick Overview
+## Gambaran Keseluruhan Cepat
 
-| Item | Content |
-|------|------|
-| Original Indication | Not specified in current NPRA registration data (all `approved_indication_text` fields are empty); Calcium Citrate is generically classified as an oral calcium supplement |
-| Predicted New Indication | Hemoglobinopathy |
-| TxGNN Prediction Score | 99.37% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 48 |
-| Recommended Decision | Hold |
-
----
-
-## Why is This Prediction Reasonable?
-
-Detailed mechanism-of-action data for Calcium Citrate is not currently available (data gap DG002, High severity). Based on general pharmacological classification, Calcium Citrate is a calcium salt formulation used as an oral calcium supplement — typically for calcium deficiency, adjunct osteoporosis prevention, or correction of hypocalcemia. Because the original approved-indication text was not populated in the current Malaysia NPRA extract (data gap, Blocking severity — see DG001 below), a direct textual comparison between the original and predicted indications cannot be made at this time.
-
-More importantly, the evidence review itself casts doubt on the mechanistic plausibility of this specific prediction. Although TxGNN assigns hemoglobinopathy a very high confidence score (99.37%), no identifiable direct pathway links calcium citrate supplementation to hemoglobinopathies such as sickle cell disease or thalassemia. Three of the four supporting publications concern structurally unrelated compounds that merely share the word "citrate" in their name — cetiedil citrate and sildenafil citrate — or describe citrate's role as an anticoagulant during erythrapheresis, not calcium citrate acting as a therapeutic agent. This pattern is consistent with a string/embedding co-occurrence artifact in the knowledge graph (multiple unrelated "citrate"-named drugs clustering near hemoglobinopathy-related nodes), rather than a biologically grounded repurposing hypothesis.
-
-The other three candidate indications in this evidence pack (myocardial infarction, thrombotic disease, and a chromosomal deletion syndrome) show a similar pattern — high TxGNN scores without a coherent, unidirectional mechanistic story (see "Other Candidate Predictions" below). Taken together, this suggests the current prediction set for Calcium Citrate should be treated as hypothesis-generating only, not as a basis for further clinical development at this time.
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Tidak dinyatakan dalam data pendaftaran NPRA semasa (semua medan `approved_indication_text` kosong); Kalsium Sitrat diklasifikasikan secara umum sebagai suplemen kalsium oral |
+| Petunjuk Baru yang Diramalkan | Hemoglobinopatia |
+| Skor Ramalan TxGNN | 99.37% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Marketed) |
+| Bilangan Pendaftaran | 48 |
+| Keputusan yang Disyorkan | Hold |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related clinical trials registered.
+Data mekanisme tindakan terperinci bagi Kalsium Sitrat tidak tersedia pada masa kini (jurang data DG002, keterukan Tinggi). Berdasarkan klasifikasi farmakologi umum, Kalsium Sitrat ialah formulasi garam kalsium yang digunakan sebagai suplemen kalsium oral — biasanya untuk kekurangan kalsium, bantuan pencegahan osteoporosis, atau pembetulan hipokalsemia. Kerana teks petunjuk yang diluluskan asal tidak diisi dalam ekstrak NPRA Malaysia semasa (jurang data, keterukan Menyekat — lihat DG001 di bawah), perbandingan tekstual langsung antara petunjuk asal dan diramalkan tidak dapat dibuat pada masa kini.
+
+Lebih penting lagi, semakan bukti itu sendiri membuang keyakinan pada kebolehplausibilan mekanik bagi ramalan khusus ini. Walaupun TxGNN memberikan hemoglobinopatia skor keyakinan yang sangat tinggi (99.37%), tiada laluan langsung yang boleh dikenal pasti yang menghubungkan suplemen kalsium sitrat kepada hemoglobinopatia seperti penyakit sel sabit atau talasemia. Tiga daripada empat penerbitan sokongan menyangkut sebatian yang tidak berkaitan secara struktur yang hanya berkongsi perkataan "sitrat" dalam nama mereka — sitrat setiedil dan sitrat sildenafil — atau menghuraikan peranan sitrat sebagai antikoagulan semasa eratferesis, bukan kalsium sitrat bertindak sebagai agen terapeutik. Corak ini konsisten dengan artifak ko-kejadian rentetan/embedding dalam graf pengetahuan (ubat pelbagai "sitrat" yang tidak berkaitan berkelompok berhampiran nod berkaitan hemoglobinopatia), dan bukannya hipotesis penjalinan ubat semula yang berasaskan biologi.
+
+Tiga petunjuk calon lain dalam pakej bukti ini (infark miokard, penyakit trombotik, dan sindrom pemadaman kromosom) menunjukkan corak yang sama — skor TxGNN tinggi tanpa cerita mekanik yang konsisten dan searah (lihat "Ramalan Calon Lain" di bawah). Diambil secara keseluruhan, ini mencadangkan set ramalan semasa bagi Kalsium Sitrat harus diperlakukan sebagai penjanaan hipotesis sahaja, bukan sebagai asas untuk pembangunan klinikal lanjut pada masa kini.
 
 ---
 
-## Literature Evidence
+## Bukti Percubaan Klinikal
 
-| PMID | Year | Type | Journal | Key Findings |
+Pada masa kini tiada percubaan klinikal terkait yang didaftarkan.
+
+---
+
+## Bukti Kesusasteraan
+
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [15820939](https://pubmed.ncbi.nlm.nih.gov/15820939/) | 2005 | Clinical study (unrelated drug: sildenafil citrate) | Haematologica | Reports sildenafil citrate (a PDE5 inhibitor, not calcium citrate) for pulmonary hypertension in thalassemia/sickle cell disease patients |
-| [18067651](https://pubmed.ncbi.nlm.nih.gov/18067651/) | 2007 | Cohort/Case series | Transfusion Medicine | Examines QTc interval changes during erythrapheresis (a citrate-anticoagulated blood-separation procedure) in sickle cell disease patients; does not test calcium citrate as a treatment |
-| [23050671](https://pubmed.ncbi.nlm.nih.gov/23050671/) | 2013 | Animal study | Drug and Chemical Toxicology | Investigates iron uptake pathways in β-thalassemic mouse cardiomyocytes; concludes uptake is not calcium-channel mediated, i.e., a negative finding for calcium-pathway relevance |
-| [3119675](https://pubmed.ncbi.nlm.nih.gov/3119675/) | 1987 | In vitro study (unrelated drug: cetiedil citrate) | Journal of Clinical Pathology | Tests cetiedil citrate (an unrelated vasoactive drug) and oxpentifylline on dehydrated sickle erythrocyte deformability in vitro |
+| [15820939](https://pubmed.ncbi.nlm.nih.gov/15820939/) | 2005 | Kajian klinikal (ubat tidak berkaitan: sitrat sildenafil) | Haematologica | Melaporkan sitrat sildenafil (penghambat PDE5, bukan kalsium sitrat) untuk hipertensi paru-paru dalam pesakit talasemia/penyakit sel sabit |
+| [18067651](https://pubmed.ncbi.nlm.nih.gov/18067651/) | 2007 | Kohort/Siri kes | Transfusion Medicine | Meneliti perubahan selang QTc semasa eratferesis (prosedur pemisahan darah antikoagulan sitrat) dalam pesakit penyakit sel sabit; tidak menguji kalsium sitrat sebagai rawatan |
+| [23050671](https://pubmed.ncbi.nlm.nih.gov/23050671/) | 2013 | Kajian haiwan | Drug and Chemical Toxicology | Menyiasat laluan pengambilan besi dalam kardiomiosit talasemia-β tikus; membuat kesimpulan bahawa pengambilan bukan diurus oleh saluran kalsium, iaitu penemuan negatif untuk kaitan laluan kalsium |
+| [3119675](https://pubmed.ncbi.nlm.nih.gov/3119675/) | 1987 | Kajian in vitro (ubat tidak berkaitan: sitrat setiedil) | Journal of Clinical Pathology | Menguji sitrat setiedil (ubat aktif vaskular yang tidak berkaitan) dan oxpentifylline pada kebolehlenturan eritrosit sel sabit yang terdehidrasi secara in vitro |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Individual product-level registration details (license numbers, product names, manufacturers, dosage forms, and approved-indication text) were not populated in the current NPRA data extract for any of the 5 sampled licenses. Only aggregate figures are available from NPRA: **48 total registrations** and a **marketed** status (see Quick Overview above). Retrieving the underlying label PDFs would be required to complete this table (see data gap DG001 in the Conclusion below).
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
+Perincian pendaftaran peringkat produk individu (nombor lesen, nama produk, pengilang, bentuk dos, dan teks petunjuk yang diluluskan) tidak diisi dalam ekstrak data NPRA semasa bagi mana-mana daripada 5 lesen sampel. Hanya angka agregat tersedia daripada NPRA: **48 jumlah pendaftaran** dan status **dipasarkan** (lihat Gambaran Keseluruhan Cepat di atas). Mendapatkan PDF label asas akan diperlukan untuk melengkapkan jadual ini (lihat jurang data DG001 dalam Kesimpulan di bawah).
 
 ---
 
-## Other Candidate Predictions
+## Pertimbangan Keselamatan
 
-For completeness, three additional TxGNN predictions were reviewed alongside hemoglobinopathy. None currently support a decision beyond Hold:
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-| Rank | Predicted Indication | TxGNN Score | Evidence Level | Recommendation | Key Caveat |
+---
+
+## Ramalan Calon Lain
+
+Untuk kesempurnaan, tiga ramalan TxGNN tambahan telah disemak bersama hemoglobinopatia. Tiada satu pun pada masa kini menyokong keputusan melainkan Hold:
+
+| Pangkat | Petunjuk Diramalkan | Skor TxGNN | Tahap Bukti | Cadangan | Kaveat Utama |
 |------|----------------------|-------------|-----------------|-----------------|------------|
-| 2 | Myocardial Infarction | 99.18% | L4 | Hold | Clinical trials involve IV calcium during cardiac surgery/dialysis, not oral calcium citrate supplementation; some cited literature raises a cardiovascular *risk* signal for calcium supplements rather than benefit |
-| 3 | Partial deletion of short arm of chromosome 16 (16p−) | 99.09% | L5 | Hold | Zero trials, zero literature; a chromosomal structural disorder with no known link to calcium metabolism — likely a knowledge-graph false positive |
-| 4 | Thrombotic Disease | 99.07% | L4 | Hold | Supporting literature concerns citrate as a regional *anticoagulant* (chelating calcium) — the opposite mechanistic direction from calcium *supplementation*, which theoretically promotes coagulation; internally contradictory signal |
+| 2 | Infark Miokard | 99.18% | L4 | Hold | Percubaan klinikal melibatkan kalsium IV semasa pembedahan jantung/dialisis, bukan suplemen kalsium sitrat oral; beberapa kesusasteraan yang dipetik membangkitkan isyarat *risiko* kardiovaskular bagi suplemen kalsium dan bukannya manfaat |
+| 3 | Pemadaman separa lengan pendek kromosom 16 (16p−) | 99.09% | L5 | Hold | Sifar percubaan, sifar kesusasteraan; gangguan struktur kromosom dengan tiada pautan yang diketahui kepada metabolisme kalsium — kemungkinan positif palsu graf pengetahuan |
+| 4 | Penyakit Trombotik | 99.07% | L4 | Hold | Kesusasteraan sokongan menyangkut sitrat sebagai *antikoagulan* serantau (mengikat kalsium) — arah mekanik bertentangan daripada *suplemen* kalsium, yang secara teori mempromosikan koagulasi; isyarat yang bercanggah secara dalaman |
 
 ---
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Berikutnya
 
-**Decision: Hold**
+**Keputusan: Hold**
 
-**Rationale:**
-The top-ranked prediction (hemoglobinopathy) sits at the lowest evidence tier (L5 — model prediction only), with zero clinical trials and literature support that traces back to unrelated "citrate"-named drugs rather than calcium citrate itself, suggesting the TxGNN score is likely an embedding/string-collision artifact rather than a genuine signal. Separately, a **Blocking**-severity data gap (missing TFDA/NPRA label warnings and contraindications, DG001) means this candidate cannot yet even complete an initial safety screen (S1), independent of the efficacy question.
+**Alasan:**
+Ramalan pangkat teratas (hemoglobinopatia) duduk pada peringkat bukti terendah (L5 — ramalan model sahaja), dengan sifar percubaan klinikal dan sokongan kesusasteraan yang dapat dikesan kembali kepada ubat "sitrat" yang tidak berkaitan dan bukannya kalsium sitrat itu sendiri, mencadangkan skor TxGNN kemungkinan artifak embedding/kolisi rentetan dan bukannya isyarat tulen. Secara berasingan, **jurang data keterukan Menyekat** (amaran label TFDA/NPRA yang hilang dan kontraindikasi, DG001) bermakna calon ini masih tidak dapat melengkapkan skrin keselamatan awal (S1), bebas daripada soalan keberkesanan.
 
-**To proceed, the following is needed:**
-- Retrieve the official product label/insert warnings and contraindications for Malaysia-registered calcium citrate products (DG001, Blocking — currently blocks S1 safety screening)
-- Obtain detailed mechanism-of-action data from DrugBank or another authoritative pharmacology source (DG002, High)
-- Confirm the original approved indication(s) by re-querying NPRA with complete field extraction (current license records returned empty indication text)
-- Run a targeted, disambiguated literature search on "calcium citrate" AND "sickle cell disease"/"thalassemia" (excluding unrelated citrate-salt drugs) to determine whether any genuine signal exists beneath the apparent knowledge-graph artifact
-- If any candidate is advanced, prioritize resolving the internally contradictory mechanistic direction seen in the thrombotic disease prediction before further investment
+**Untuk meneruskan, yang berikut diperlukan:**
+- Dapatkan peringatan dan kontraindikasi label produk rasmi/sisipan untuk produk kalsium sitrat berdaftar Malaysia (DG001, Menyekat — pada masa kini menyekat skrin keselamatan S1)
+- Dapatkan data mekanisme tindakan terperinci daripada DrugBank atau sumber farmakologi berwibawa lain (DG002, Tinggi)
+- Sahkan petunjuk yang diluluskan asal dengan membuat soal semula NPRA dengan pengekstrakan medan lengkap (rekod lesen semasa mengembalikan teks petunjuk kosong)
+- Jalankan carian kesusasteraan yang ditujui dan tidak ambil alih pada "kalsium sitrat" DAN "penyakit sel sabit"/"talasemia" (mengecualikan ubat garam sitrat yang tidak berkaitan) untuk menentukan sama ada mana-mana isyarat tulen wujud di bawah artifak graf pengetahuan yang jelas
+- Jika mana-mana calon dimajukan, utamakan penyelesaian arah mekanik yang bercanggah secara dalaman yang dilihat dalam ramalan penyakit trombotik sebelum pelaburan lanjut
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

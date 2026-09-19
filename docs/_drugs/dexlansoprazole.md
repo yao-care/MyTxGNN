@@ -29,102 +29,103 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Dexlansoprazole: From Gastroesophageal Reflux Disease to Active Peptic Ulcer Disease
+# Dexlansoprazole: Dari Penyakit Reflux Gastroesofageal ke Penyakit Ulkus Peptik Aktif
 
-## One-Sentence Summary
+## Ringkasan Satu Kalimat
 
-Dexlansoprazole is a proton pump inhibitor (PPI) with a dual delayed-release formulation, originally developed and marketed for the treatment of gastroesophageal reflux disease (GERD) and erosive esophagitis. The TxGNN model predicts it may be effective for **Active Peptic Ulcer Disease**, with **19 clinical trials** and **4 publications** currently supporting this direction. Notably, a pivotal Phase 3 trial (n=2,054) directly studied dexlansoprazole MR in acid-related gastrointestinal disease, providing strong foundational evidence.
+Dexlansoprazole adalah penghambat pompa proton (PPI) dengan formulasi pelepasan tertunda ganda, yang awalnya dikembangkan dan dipasarkan untuk pengobatan penyakit reflux gastroesofageal (GERD) dan esofagitis erosif. Model TxGNN memprediksi bahwa obat ini mungkin efektif untuk **Penyakit Ulkus Peptik Aktif**, dengan **19 uji klinis** dan **4 publikasi** yang saat ini mendukung arah ini. Secara khusus, uji Fase 3 pivotal (n=2.054) secara langsung mempelajari dexlansoprazole MR dalam penyakit gastrointestinal terkait asam, memberikan bukti dasar yang kuat.
 
-## Quick Overview
+## Ikhtisar Cepat
 
-| Item | Content |
-|------|------|
-| Original Indication | Gastroesophageal reflux disease (GERD) and erosive esophagitis |
-| Predicted New Indication | Active Peptic Ulcer Disease |
-| TxGNN Prediction Score | 99.999% |
-| Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
-| Recommended Decision | Proceed with Guardrails |
+| Item | Konten |
+|------|--------|
+| Indikasi Asli | Penyakit reflux gastroesofageal (GERD) dan esofagitis erosif |
+| Indikasi Baru yang Diprediksi | Penyakit Ulkus Peptik Aktif |
+| Skor Prediksi TxGNN | 99,999% |
+| Tingkat Bukti | L1 |
+| Status Pasar Malaysia | ✓ Dipasarkan |
+| Jumlah Pendaftaran | 2 |
+| Rekomendasi Keputusan | Lanjutkan dengan Jaminan Keamanan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Prediksi Ini Masuk Akal?
 
-Dexlansoprazole is the R-enantiomer of lansoprazole, formulated as a dual delayed-release (DDR) capsule that provides two separate releases of medication — resulting in sustained acid suppression over an extended period. It irreversibly inhibits the gastric H⁺/K⁺-ATPase (proton pump) on parietal cells, thereby reducing gastric acid secretion. This mechanism directly addresses the pathophysiology of peptic ulcer disease, where gastric acid erodes the protective mucosal barrier.
+Dexlansoprazole adalah enansiomer-R lansoprazole, diformulasikan sebagai kapsul pelepasan tertunda ganda (DDR) yang memberikan dua pelepasan obat terpisah — menghasilkan penekanan asam yang berkelanjutan selama periode yang diperpanjang. Obat ini secara ireversibel menghambat H⁺/K⁺-ATPase lambung (pompa proton) pada sel parietal, sehingga mengurangi sekresi asam lambung. Mekanisme ini secara langsung mengatasi patofisiologi penyakit ulkus peptik, di mana asam lambung mengikis sawar pelindung mukosa.
 
-The original indication (GERD/erosive esophagitis) and the predicted new indication (active peptic ulcer disease) share a fundamentally identical pathological driver: excess gastric acid causing mucosal injury. PPIs as a drug class are already the standard first-line treatment for peptic ulcer disease worldwide. Lansoprazole (the racemic parent compound of dexlansoprazole) has been extensively studied and approved for gastric and duodenal ulcers in multiple jurisdictions. Therefore, the pharmacological rationale for dexlansoprazole's efficacy in peptic ulcer disease is exceptionally strong.
+Indikasi asli (GERD/esofagitis erosif) dan indikasi baru yang diprediksi (penyakit ulkus peptik aktif) berbagi pendorong patologis yang fundamentally identik: kelebihan asam lambung yang menyebabkan cedera mukosa. PPI sebagai kelas obat sudah merupakan pengobatan lini pertama standar untuk penyakit ulkus peptik di seluruh dunia. Lansoprazole (senyawa induk rasemat dari dexlansoprazole) telah dipelajari secara ekstensif dan disetujui untuk ulkus lambung dan duodenum di berbagai yurisdiksi. Oleh karena itu, rasional farmakologis untuk efikasi dexlansoprazole dalam penyakit ulkus peptik sangat kuat.
 
-Furthermore, the dual delayed-release formulation of dexlansoprazole provides a unique pharmacokinetic advantage — potentially offering more consistent 24-hour acid suppression compared to conventional PPIs. This extended suppression profile may be particularly beneficial for ulcer healing, where sustained acid control is critical to allow mucosal repair.
+Lebih jauh lagi, formulasi pelepasan tertunda ganda dexlansoprazole memberikan keuntungan farmakokinetik yang unik — berpotensi menawarkan penekanan asam 24 jam yang lebih konsisten dibandingkan dengan PPI konvensional. Profil penekanan yang diperpanjang ini mungkin sangat bermanfaat untuk penyembuhan ulkus, di mana kontrol asam yang berkelanjutan sangat penting untuk memungkinkan perbaikan mukosa.
 
-## Clinical Trial Evidence
+## Bukti Uji Klinis
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT00251719](https://clinicaltrials.gov/study/NCT00251719) | Phase 3 | Completed | 2,054 | Direct study of dexlansoprazole MR 60 mg/90 mg QD vs lansoprazole 30 mg QD for healing erosive esophagitis over 8 weeks. The most pivotal direct evidence for this drug. |
-| [NCT00251693](https://clinicaltrials.gov/study/NCT00251693) | Phase 3 | Completed | 2,038 | Companion study assessing dexlansoprazole MR 60 mg/90 mg QD vs lansoprazole 30 mg QD in healing endoscopically proven erosive esophagitis. |
-| [NCT04784910](https://clinicaltrials.gov/study/NCT04784910) | Phase 3 | Completed | 423 | DWP14012 20 mg vs lansoprazole 15 mg for prevention of NSAID-induced peptic ulcer. Supports the role of PPI-class therapy as standard of care. |
-| [NCT02761512](https://clinicaltrials.gov/study/NCT02761512) | Phase 3 | Completed | 306 | CJ-12420 vs lansoprazole 30 mg in gastric ulcer patients. Non-inferiority design confirms lansoprazole's established efficacy baseline. |
-| [NCT07079540](https://clinicaltrials.gov/study/NCT07079540) | Phase 3 | Completed | 380 | X842 Capsules 50 mg vs lansoprazole enteric capsules for reflux esophagitis, with population PK characterization. |
-| [NCT05813561](https://clinicaltrials.gov/study/NCT05813561) | Phase 3 | Completed | 332 | DWP14012 40 mg vs esomeprazole for reflux esophagitis treatment. Cross-PPI comparative evidence. |
-| [NCT06284876](https://clinicaltrials.gov/study/NCT06284876) | Phase 3 | Recruiting | 416 | Ilaprazole 10 mg vs active control for prevention of NSAID-associated peptic ulcer. Ongoing evidence. |
-| [NCT07479056](https://clinicaltrials.gov/study/NCT07479056) | N/A | Recruiting | 400 | Fexuprazan vs PPI for prevention of upper GI bleeding in patients on dual antiplatelet therapy post-coronary intervention. |
-| [NCT03675672](https://clinicaltrials.gov/study/NCT03675672) | Phase 4 | Recruiting | 154 | Misoprostol + lansoprazole vs lansoprazole alone for prevention of recurrent idiopathic gastroduodenal ulcer bleeding. Post-marketing validation. |
-| [NCT04531475](https://clinicaltrials.gov/study/NCT04531475) | Phase 2 | Completed | 90 | X842 capsule dose-finding study vs lansoprazole in reflux esophagitis. Supports PPI class efficacy. |
+| Nomor Uji | Fase | Status | Pendaftaran | Temuan Utama |
+|---------|------|--------|-----------|---------|
+| [NCT00251719](https://clinicaltrials.gov/study/NCT00251719) | Fase 3 | Selesai | 2.054 | Studi langsung dexlansoprazole MR 60 mg/90 mg QD vs lansoprazole 30 mg QD untuk penyembuhan esofagitis erosif selama 8 minggu. Bukti langsung pivotal paling kuat untuk obat ini. |
+| [NCT00251693](https://clinicaltrials.gov/study/NCT00251693) | Fase 3 | Selesai | 2.038 | Studi teman menilai dexlansoprazole MR 60 mg/90 mg QD vs lansoprazole 30 mg QD dalam penyembuhan esofagitis erosif yang terbukti endoskopi. |
+| [NCT04784910](https://clinicaltrials.gov/study/NCT04784910) | Fase 3 | Selesai | 423 | DWP14012 20 mg vs lansoprazole 15 mg untuk pencegahan ulkus peptik yang diinduksi NSAID. Mendukung peran terapi kelas PPI sebagai standar perawatan. |
+| [NCT02761512](https://clinicaltrials.gov/study/NCT02761512) | Fase 3 | Selesai | 306 | CJ-12420 vs lansoprazole 30 mg pada pasien ulkus lambung. Desain non-inferioritas mengkonfirmasi dasar efikasi lansoprazole yang sudah ditetapkan. |
+| [NCT07079540](https://clinicaltrials.gov/study/NCT07079540) | Fase 3 | Selesai | 380 | Kapsul X842 50 mg vs kapsul enteric lansoprazole untuk esofagitis reflux, dengan karakterisasi PK populasi. |
+| [NCT05813561](https://clinicaltrials.gov/study/NCT05813561) | Fase 3 | Selesai | 332 | DWP14012 40 mg vs esomeprazole untuk pengobatan esofagitis reflux. Bukti perbandingan lintas-PPI. |
+| [NCT06284876](https://clinicaltrials.gov/study/NCT06284876) | Fase 3 | Merekrut | 416 | Ilaprazole 10 mg vs kontrol aktif untuk pencegahan ulkus peptik yang berhubungan dengan NSAID. Bukti yang sedang berlangsung. |
+| [NCT07479056](https://clinicaltrials.gov/study/NCT07479056) | N/A | Merekrut | 400 | Fexuprazan vs PPI untuk pencegahan perdarahan GI atas pada pasien dalam terapi antiplatelet ganda setelah intervensi koroner. |
+| [NCT03675672](https://clinicaltrials.gov/study/NCT03675672) | Fase 4 | Merekrut | 154 | Misoprostol + lansoprazole vs lansoprazole saja untuk pencegahan perdarahan ulkus gastroduodenal idiopatik berulang. Validasi pasca-pemasaran. |
+| [NCT04531475](https://clinicaltrials.gov/study/NCT04531475) | Fase 2 | Selesai | 90 | Studi pencarian dosis kapsul X842 vs lansoprazole dalam esofagitis reflux. Mendukung efikasi kelas PPI. |
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [38345252](https://pubmed.ncbi.nlm.nih.gov/38345252/) | 2024 | Systematic Review & Meta-Analysis | Am J Gastroenterol | Compared P-CAB vs PPIs for severe (Grade C/D) esophagitis; confirms PPIs as established standard for acid-related mucosal disease. |
-| [41809210](https://pubmed.ncbi.nlm.nih.gov/41809210/) | 2026 | Expert Consensus | World J Gastrointest Pharmacol Ther | Indian expert consensus on comprehensive management of acid peptic disorders including peptic ulcer disease; PPIs highlighted as cornerstone therapy. |
-| [18821474](https://pubmed.ncbi.nlm.nih.gov/18821474/) | 2008 | Review | Curr Opin Investig Drugs | Early review of dexlansoprazole as a controlled-release enantiomer of lansoprazole for reflux esophagitis; NDA filed with FDA for acid-related diseases. |
-| [36150104](https://pubmed.ncbi.nlm.nih.gov/36150104/) | 2022 | Basic Research | J Chin Med Assoc | Investigated PPI-mediated suppression of vacuolar-type ATPase and ER stress induction; mechanistic insights into long-term PPI effects on gastric mucosa. |
+| PMID | Tahun | Jenis | Jurnal | Temuan Utama |
+|------|------|------|--------|---------|
+| [38345252](https://pubmed.ncbi.nlm.nih.gov/38345252/) | 2024 | Ulasan Sistematis & Meta-Analisis | Am J Gastroenterol | Membandingkan P-CAB vs PPI untuk esofagitis berat (Kelas C/D); mengkonfirmasi PPI sebagai standar yang sudah ditetapkan untuk penyakit mukosa terkait asam. |
+| [41809210](https://pubmed.ncbi.nlm.nih.gov/41809210/) | 2026 | Konsensus Ahli | World J Gastrointest Pharmacol Ther | Konsensus ahli India tentang manajemen komprehensif gangguan asam peptik termasuk penyakit ulkus peptik; PPI disorot sebagai terapi batu loncatan. |
+| [18821474](https://pubmed.ncbi.nlm.nih.gov/18821474/) | 2008 | Ulasan | Curr Opin Investig Drugs | Ulasan awal dexlansoprazole sebagai enansiomer pelepasan terkontrol lansoprazole untuk esofagitis reflux; NDA diajukan ke FDA untuk penyakit terkait asam. |
+| [36150104](https://pubmed.ncbi.nlm.nih.gov/36150104/) | 2022 | Penelitian Dasar | J Chin Med Assoc | Menyelidiki penekanan ATPase tipe vakuolar yang dimediasi PPI dan induksi stres ER; wawasan mekanistik tentang efek PPI jangka panjang pada mukosa lambung. |
 
-## Malaysia Market Information
+## Informasi Pasar Malaysia
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| (Details pending) | — | — | Registration confirmed; 2 active licenses on file |
+| Nomor Otorisasi | Nama Produk | Bentuk Dosis | Indikasi yang Disetujui |
+|---------|---------|---------|-----------|
+| (Detail tertunda) | — | — | Pendaftaran dikonfirmasi; 2 lisensi aktif dalam file |
 
-> *Note: Detailed registration information (authorization numbers, product names, dosage forms, and approved indication text) was not available in the current data extract. Malaysia market status is confirmed as marketed with 2 registrations.*
+> *Catatan: Informasi pendaftaran terperinci (nomor otorisasi, nama produk, bentuk dosis, dan teks indikasi yang disetujui) tidak tersedia dalam ekstrak data saat ini. Status pasar Malaysia dikonfirmasi sebagai dipasarkan dengan 2 pendaftaran.*
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-> Please refer to the package insert for safety information. Key warnings, contraindications, and drug interaction data for dexlansoprazole were not available in this evidence pack. As a proton pump inhibitor, general PPI class concerns include: long-term use associations with hypomagnesemia, Clostridioides difficile infection, bone fracture risk, vitamin B12 deficiency, and potential CYP2C19-mediated drug interactions (notably with clopidogrel).
+> Silakan merujuk pada wawasan paket untuk informasi keselamatan. Data peringatan utama, kontraindikasi, dan interaksi obat untuk dexlansoprazole tidak tersedia dalam paket bukti ini. Sebagai penghambat pompa proton, kekhawatiran kelas PPI umum meliputi: asosiasi penggunaan jangka panjang dengan hipomagnesemia, infeksi *Clostridioides difficile*, risiko fraktur tulang, defisiensi vitamin B12, dan potensi interaksi obat yang dimediasi CYP2C19 (khususnya dengan clopidogrel).
 
-## Additional Predicted Indications Summary
+## Ringkasan Indikasi Prediksi Tambahan
 
-Beyond the primary prediction, the TxGNN model identified 9 additional candidate indications. Below is a summary of all predictions ordered by strength:
+Di luar prediksi utama, model TxGNN mengidentifikasi 9 indikasi kandidat tambahan. Di bawah ini adalah ringkasan semua prediksi yang diurutkan berdasarkan kekuatan:
 
-| Rank | Disease | TxGNN Score | Evidence Level | Recommendation | Rationale Highlight |
-|------|---------|-------------|----------------|----------------|---------------------|
-| 1 | Active Peptic Ulcer Disease | 99.999% | L1 | Proceed with Guardrails | Direct MOA — PPI is standard first-line therapy |
-| 2 | Peptic Ulcer Perforation | 99.999% | L3 | Proceed with Guardrails | PPI prevents ulcer progression to perforation; used post-surgical repair |
-| 3 | Gastrojejunal Ulcer | 99.999% | L3 | Proceed with Guardrails | PPI relevant for anastomotic ulcers; absorption after bypass surgery requires study |
-| 4 | Gastric Ulcer | 99.990% | L1 | Proceed with Guardrails | Direct MOA — H⁺/K⁺ ATPase inhibition promotes gastric mucosal healing |
-| 5 | Gastroduodenitis | 99.979% | L5 | Research Question | PPI reduces acid-mediated mucosal irritation; multifactorial etiology limits standalone role |
-| 6 | Duodenal Obstruction | 99.851% | L4 | Research Question | If obstruction is from ulcer-related edema, PPI may help; fibrotic strictures require intervention |
-| 7 | Duodenogastric Reflux | 99.807% | L5 | Hold | **Mechanism mismatch** — core problem is bile/alkaline reflux, not acid; PPI does not address bile |
-| 8 | Duodenal Ulcer | 99.791% | L1 | Proceed with Guardrails | Direct MOA — PPI + H. pylori eradication is standard duodenal ulcer treatment |
-| 9 | Achlorhydria | 99.471% | L5 | Hold | **Mechanism contradicted** — achlorhydria = absence of acid; adding acid suppression is counterproductive |
-| 10 | Leather-bottle Stomach (Linitis Plastica) | 99.359% | L5 | Hold | **No valid mechanism** — this is a diffuse gastric malignancy requiring surgery ± chemotherapy |
+| Peringkat | Penyakit | Skor TxGNN | Tingkat Bukti | Rekomendasi | Sorotan Rasional |
+|---------|---------|-------------|----------------|-------------|---------|
+| 1 | Penyakit Ulkus Peptik Aktif | 99,999% | L1 | Lanjutkan dengan Jaminan Keamanan | MOA langsung — PPI adalah terapi lini pertama standar |
+| 2 | Perforasi Ulkus Peptik | 99,999% | L3 | Lanjutkan dengan Jaminan Keamanan | PPI mencegah perkembangan ulkus ke perforasi; digunakan pasca-perbaikan bedah |
+| 3 | Ulkus Gastrojejunal | 99,999% | L3 | Lanjutkan dengan Jaminan Keamanan | PPI relevan untuk ulkus anastomotik; penyerapan setelah operasi bypass memerlukan studi |
+| 4 | Ulkus Lambung | 99,990% | L1 | Lanjutkan dengan Jaminan Keamanan | MOA langsung — penghambatan ATPase H⁺/K⁺ mempromosikan penyembuhan mukosa lambung |
+| 5 | Gastroduodenitis | 99,979% | L5 | Pertanyaan Penelitian | PPI mengurangi iritasi mukosa yang dimediasi asam; etiologi multifaktorial membatasi peran mandiri |
+| 6 | Obstruksi Duodenum | 99,851% | L4 | Pertanyaan Penelitian | Jika obstruksi berasal dari edema terkait ulkus, PPI mungkin membantu; striktur fibrosis memerlukan intervensi |
+| 7 | Refluk Gastroduodenal | 99,807% | L5 | Tahan | **Ketidaksesuaian mekanisme** — masalah inti adalah refluk empedu/alkali, bukan asam; PPI tidak mengatasi empedu |
+| 8 | Ulkus Duodenum | 99,791% | L1 | Lanjutkan dengan Jaminan Keamanan | MOA langsung — PPI + eradikasi *H. pylori* adalah pengobatan standar ulkus duodenum |
+| 9 | Achlorhydria | 99,471% | L5 | Tahan | **Mekanisme dikontradiksi** — achlorhydria = ketiadaan asam; menambah penekanan asam tidak produktif |
+| 10 | Lambung Kulit Tahan (Linitis Plastica) | 99,359% | L5 | Tahan | **Tidak ada mekanisme yang valid** — ini adalah keganasan lambung difus yang memerlukan operasi ± kemoterapi |
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Selanjutnya
 
-**Decision: Proceed with Guardrails**
+**Keputusan: Lanjutkan dengan Jaminan Keamanan**
 
-**Rationale:**
-Dexlansoprazole's mechanism of action (H⁺/K⁺-ATPase inhibition) is directly and unambiguously relevant to active peptic ulcer disease. The PPI drug class is already the global standard of care for this condition, and the parent compound lansoprazole has established efficacy in multiple Phase 3 RCTs for gastric and duodenal ulcers. While dexlansoprazole itself was developed primarily for GERD/erosive esophagitis, its pharmacological profile — particularly the dual delayed-release formulation providing extended acid suppression — provides a strong mechanistic basis for peptic ulcer healing. The key Phase 3 trial NCT00251719 (n=2,054) confirms the drug's acid-suppressive capabilities at the required therapeutic level.
+**Rasional:**
+Mekanisme kerja dexlansoprazole (penghambatan H⁺/K⁺-ATPase) secara langsung dan jelas relevan dengan penyakit ulkus peptik aktif. Kelas obat PPI sudah merupakan standar perawatan global untuk kondisi ini, dan senyawa induk lansoprazole memiliki efikasi yang sudah ditetapkan dalam beberapa RCT Fase 3 untuk ulkus lambung dan duodenum. Meskipun dexlansoprazole itu sendiri dikembangkan terutama untuk GERD/esofagitis erosif, profil farmakologisnya — khususnya formulasi pelepasan tertunda ganda yang memberikan penekanan asam yang diperpanjang — memberikan dasar mekanistik yang kuat untuk penyembuhan ulkus peptik. Uji Fase 3 kunci NCT00251719 (n=2.054) mengkonfirmasi kemampuan penekanan asam obat pada tingkat terapeutik yang diperlukan.
 
-**To proceed, the following is needed:**
-- **Mechanism of action data (MOA):** Formal documentation from DrugBank to complete the pharmacology profile
-- **Package insert safety data:** Key warnings, contraindications, and drug interaction details from the NPRA-registered product labels
-- **Malaysia-specific registration details:** Authorization numbers, product names, dosage forms, and approved indication text for the 2 registered products
-- **Drug-drug interaction assessment:** Formal DDI profiling, particularly for CYP2C19 interactions (relevant for clopidogrel co-prescription in cardiovascular patients who frequently develop stress ulcers)
-- **Route compatibility confirmation:** Verify that available oral formulations are appropriate for peptic ulcer disease treatment (IV formulation availability may be needed for acute/bleeding ulcers)
+**Untuk melanjutkan, hal berikut diperlukan:**
+- **Data mekanisme kerja (MOA):** Dokumentasi formal dari DrugBank untuk melengkapi profil farmakologi
+- **Data keamanan wawasan paket:** Peringatan utama, kontraindikasi, dan detail interaksi obat dari label produk terdaftar NPRA
+- **Detail pendaftaran khusus Malaysia:** Nomor otorisasi, nama produk, bentuk dosis, dan teks indikasi yang disetujui untuk 2 produk terdaftar
+- **Penilaian interaksi obat-obat:** Profil DDI formal, khususnya untuk interaksi CYP2C19 (relevan untuk resep clopidogrel bersama pada pasien kardiovaskular yang sering mengembangkan ulkus stres)
+- **Konfirmasi kompatibilitas rute:** Verifikasi bahwa formulasi oral yang tersedia sesuai untuk pengobatan penyakit ulkus peptik (ketersediaan formulasi IV mungkin diperlukan untuk ulkus akut/berdarah)
 
 ---
 
-*Disclaimer: This report is for research purposes only and does not constitute medical advice. Drug repurposing candidates require clinical validation before application. Data cutoff: 2026-04-09.*
+*Penafian: Laporan ini hanya untuk tujuan penelitian dan tidak merupakan nasihat medis. Kandidat penggunaan ulang obat memerlukan validasi klinis sebelum aplikasi. Cutoff data: 2026-04-09.*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

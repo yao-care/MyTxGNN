@@ -29,55 +29,55 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Ampicillin Sodium: Drug Repurposing Evaluation — Insufficient Data for Prediction
+# Ampicillin Sodium: Penilaian Ubat Lama untuk Petunjuk Baru — Data Tidak Mencukupi untuk Ramalan
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Ampicillin Sodium is a well-known broad-spectrum beta-lactam antibiotic, originally used to treat a wide range of bacterial infections. However, the current Evidence Pack contains **no TxGNN-generated repurposing predictions**, and critical data fields — including mechanism of action, approved indications, and safety information — are marked as gaps. Without predicted indications or supporting evidence, a complete repurposing evaluation **cannot be conducted at this time**.
+Ampicillin Sodium adalah antibiotik beta-laktam spektrum luas yang terkenal, awalnya digunakan untuk merawat pelbagai jangkitan bakteria. Walau bagaimanapun, Pakej Bukti semasa **tidak mengandungi sebarang ramalan ubat lama untuk petunjuk baru yang dijana oleh TxGNN**, dan medan data kritikal — termasuk mekanisme tindakan, petunjuk yang diluluskan, dan maklumat keselamatan — ditandai sebagai jurang. Tanpa petunjuk yang diramalkan atau bukti sokongan, penilaian ubat lama untuk petunjuk baru lengkap **tidak boleh dijalankan pada masa ini**.
 
 ---
 
-## Quick Overview
+## Gambaran Pantas
 
-| Item | Content |
+| Item | Kandungan |
 |------|---------|
-| Original Indication | Not available in current data |
-| Predicted New Indication | **None** — TxGNN returned no predictions |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | N/A (No predictions generated) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 8 |
-| Recommended Decision | **Hold** |
+| Petunjuk Asal | Tidak tersedia dalam data semasa |
+| Petunjuk Baru Yang Diramalkan | **Tiada** — TxGNN tidak mengembalikan sebarang ramalan |
+| Skor Ramalan TxGNN | N/A |
+| Tahap Bukti | N/A (Tiada ramalan yang dijana) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 8 |
+| Keputusan Disyorkan | **Tahan** |
 
 ---
 
-## Why Is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-No TxGNN repurposing prediction was generated for Ampicillin Sodium in this Evidence Pack. Therefore, a mechanism-based rationale for a new indication **cannot be presented**.
+Tiada ramalan ubat lama untuk petunjuk baru yang dijana untuk Ampicillin Sodium dalam Pakej Bukti ini. Oleh itu, rasional berasaskan mekanisme untuk petunjuk baru **tidak boleh dibentangkan**.
 
-From general pharmacological knowledge, Ampicillin Sodium is an aminopenicillin antibiotic that inhibits bacterial cell wall synthesis by irreversibly binding to penicillin-binding proteins (PBPs), thereby disrupting peptidoglycan cross-linking. It has broad-spectrum activity against both Gram-positive and Gram-negative organisms. Its established clinical use covers infections of the respiratory tract, urinary tract, gastrointestinal tract, and meningitis.
+Dari pengetahuan farmakologi umum, Ampicillin Sodium adalah antibiotik aminopenicillin yang menghambat sintesis dinding sel bakteria dengan mengikat secara tidak boleh balik pada protein yang mengikat penicillin (PBPs), dengan itu mengganggu sambungan silang peptidoglikan. Ia mempunyai aktiviti spektrum luas terhadap organisma Gram-positif dan Gram-negatif. Penggunaan klinikal yang telah ditubuhkan meliputi jangkitan saluran pernafasan, saluran kencing, saluran gastrointestinal, dan meningitis.
 
-Detailed mechanism of action data (MOA) is not available in the current Evidence Pack. Should TxGNN predictions become available in a future data run, this section will be updated to explain the biological plausibility of any new indication.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for a predicted new indication, as no repurposing prediction was generated.
+Data mekanisme tindakan terperinci (MOA) tidak tersedia dalam Pakej Bukti semasa. Sekiranya ramalan TxGNN tersedia dalam larian data akan datang, bahagian ini akan dikemaskini untuk menjelaskan kebolehpercayaan biologi sebarang petunjuk baru.
 
 ---
 
-## Literature Evidence
+## Bukti Ujian Klinikal
 
-Currently no related literature available for evaluation, as no repurposing prediction was generated.
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan untuk petunjuk baru yang diramalkan, kerana tiada ramalan ubat lama untuk petunjuk baru yang dijana.
 
 ---
 
-## Malaysia Market Information
+## Bukti Kesusasteraan
 
-The query log confirms **8 active registrations** with Malaysia's National Pharmaceutical Regulatory Agency (NPRA). However, the detailed license records returned in this data package contain no populated fields (product name, dosage form, and approved indication are all blank). The table below reflects the current data state:
+Pada masa ini tiada kesusasteraan berkaitan yang tersedia untuk penilaian, kerana tiada ramalan ubat lama untuk petunjuk baru yang dijana.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+---
+
+## Maklumat Pasaran Malaysia
+
+Log pertanyaan mengesahkan **8 pendaftaran aktif** dengan Badan Kawal Selia Farmaseutikal Negara (NPRA) Malaysia. Walau bagaimanapun, rekod lesen terperinci yang dikembalikan dalam pakej data ini tidak mengandungi sebarang medan yang dipenuhi (nama produk, bentuk sediaan, dan petunjuk yang diluluskan semuanya kosong). Jadual di bawah mencerminkan keadaan data semasa:
+
+| Nombor Izin Pemasaran | Nama Produk | Bentuk Sediaan | Petunjuk Yang Diluluskan |
 |---------------------|-------------|-------------|-------------------|
 | — | — | — | — |
 | — | — | — | — |
@@ -85,32 +85,33 @@ The query log confirms **8 active registrations** with Malaysia's National Pharm
 | — | — | — | — |
 | — | — | — | — |
 
-> **Note:** 8 licenses are confirmed as registered by NPRA query (2026-03-27), but granular license details were not returned in this dataset. Retrieval from the NPRA portal directly is recommended to populate this table.
+> **Nota:** 8 lesen disahkan sebagai berdaftar oleh pertanyaan NPRA (2026-03-27), tetapi butiran lesen terperinci tidak dikembalikan dalam set data ini. Pengambilan dari portal NPRA secara langsung disyorkan untuk mengisi jadual ini.
 
 ---
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-> All safety fields (key warnings, contraindications, and drug interactions) are currently unavailable in this data package. No drug-drug interaction records were found in the DDI query. Full safety review must be deferred until package insert data is obtained from the NPRA official source.
+> Semua medan keselamatan (amaran utama, kontraindikasi, dan interaksi ubat-ubat) pada masa ini tidak tersedia dalam pakej data ini. Tiada rekod interaksi ubat-ubat dijumpai dalam pertanyaan DDI. Semakan keselamatan penuh perlu ditangguhkan sehingga data sisipan pakej diperoleh dari sumber rasmi NPRA.
 
 ---
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The TxGNN prediction pipeline returned no repurposing candidates for Ampicillin Sodium in this run, and all drug-level data fields critical to evaluation — including approved indications, mechanism of action, and safety warnings — are currently data gaps. There is no actionable evidence basis to proceed with a repurposing assessment.
+**Rasional:**
+Saluran paip ramalan TxGNN tidak mengembalikan sebarang calon ubat lama untuk petunjuk baru untuk Ampicillin Sodium dalam larian ini, dan semua medan tahap ubat yang kritikal untuk penilaian — termasuk petunjuk yang diluluskan, mekanisme tindakan, dan amaran keselamatan — adalah jurang data semasa. Tiada asas bukti yang boleh ditindaklanjuti untuk meneruskan penilaian ubat lama untuk petunjuk baru.
 
-**To proceed, the following is needed:**
+**Untuk meneruskan, perkara berikut diperlukan:**
 
-- **[DG001 — Blocking]** Obtain the NPRA-approved package insert (PDF) and extract warnings, contraindications, and approved indications; this is required before any safety screening can begin
-- **[DG002 — High]** Retrieve DrugBank entry for Ampicillin Sodium (DrugBank ID currently null) to populate MOA, categories, and toxicity data
-- **Re-run TxGNN pipeline** after confirming correct INN-to-DrugBank mapping; the absence of a DrugBank ID (`drugbank_id: null`) is the most likely cause of the empty predictions list
-- **Populate NPRA license details** — retrieve full registration records including product name, dosage form, manufacturer, and approved indication text for all 8 licenses
-- Once predictions are available, re-evaluate evidence level and update the recommended decision accordingly
+- **[DG001 — Blocking]** Peroleh sisipan pakej yang diluluskan NPRA (PDF) dan ekstrak amaran, kontraindikasi, dan petunjuk yang diluluskan; ini diperlukan sebelum sebarang pemeriksaan keselamatan dapat dimulai
+- **[DG002 — High]** Ambil masukan DrugBank untuk Ampicillin Sodium (ID DrugBank pada masa ini null) untuk mengisi data MOA, kategori, dan toksisiti
+- **Jalankan semula saluran paip TxGNN** selepas mengesahkan pemetaan INN-ke-DrugBank yang betul; ketiadaan ID DrugBank (`drugbank_id: null`) adalah punca paling mungkin bagi senarai ramalan kosong
+- **Isi butiran lesen NPRA** — ambil rekod pendaftaran penuh termasuk nama produk, bentuk sediaan, pengilang, dan teks petunjuk yang diluluskan untuk semua 8 lesen
+- Selepas ramalan tersedia, nilai semula tahap bukti dan kemaskini keputusan yang disyorkan dengan sewajarnya
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

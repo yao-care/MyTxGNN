@@ -29,59 +29,60 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# MOXONIDINE: From Hypertension to Hypotrichosis Simplex of the Scalp
+# MOXONIDINE: Dari Hipertensi kepada Hypotrichosis Simplex of the Scalp
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Moxonidine is a centrally-acting antihypertensive (marketed in Malaysia in 3 registered products); its specific NPRA-approved indication text was not retrievable in this data set. The TxGNN model's top-ranked prediction is **Hypotrichosis Simplex of the Scalp**, but this candidate is currently supported by **0 clinical trials** and **0 publications**, and the model's own generated rationale flags it as lacking biological plausibility.
+Moxonidine adalah antihipertensi yang bekerja secara terpusat (dipasarkan di Malaysia dalam 3 produk berdaftar); teks indikasi yang disetujui NPRA spesifik tidak dapat diambil dalam set data ini. Prediksi pemeringkatan teratas model TxGNN adalah **Hypotrichosis Simplex of the Scalp**, tetapi calon ini kini disokong oleh **0 uji klinis** dan **0 publikasi**, dan justifikasi yang dihasilkan sendiri oleh model menandainya sebagai tidak mempunyai kelayakan biologis.
 
-## Quick Overview
+## Gambaran Keseluruhan Ringkas
 
-| Item | Content |
-|------|------|
-| Original Indication | Hypertension (specific approved-indication text not available in license records) |
-| Predicted New Indication | Hypotrichosis Simplex of the Scalp |
-| TxGNN Prediction Score | 99.95% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Hipertensi (teks indikasi yang disetujui spesifik tidak tersedia dalam rekod lesen) |
+| Indikasi Baru yang Diprediksi | Hypotrichosis Simplex of the Scalp |
+| Skor Prediksi TxGNN | 99.95% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Jumlah Pendaftaran | 3 |
+| Keputusan yang Direkomendasikan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Prediksi Ini Munasabah?
 
-Currently, detailed mechanism of action data for moxonidine is marked as a data gap in the structured record. However, the evidence pack's own repurposing-rationale notes describe moxonidine as a centrally-acting I1-imidazoline receptor / α2-adrenergic receptor agonist that suppresses sympathetic outflow via the nucleus tractus solitarius — consistent with its known use as an antihypertensive.
+Pada masa kini, data mekanisme tindakan terperinci untuk moxonidine ditandai sebagai celah data dalam rekod berstruktur. Walau bagaimanapun, nota rasional penyesuaian semula pakej bukti sendiri menggambarkan moxonidine sebagai agonis reseptor I1-imidazoline / reseptor α2-adrenergik yang bekerja secara terpusat yang menekan aliran simpatetik melalui nucleus tractus solitarius — konsisten dengan kegunaannya yang diketahui sebagai antihipertensi.
 
-For the top-ranked candidate, hypotrichosis simplex of the scalp, the pack's rationale explicitly states there is no known pharmacological link between central sympathetic inhibition and hair-follicle keratinization or growth-cycle regulation. The high TxGNN score appears to be an artifact of embedding similarity rather than a biologically grounded signal, and no clinical or literature evidence was found to support it.
+Bagi calon pemeringkatan teratas, hypotrichosis simplex of the scalp, rasional pakej menyatakan dengan jelas bahawa tiada pautan farmakologi yang diketahui antara perencatan simpatetik terpusat dan keratinisasi folikel rambut atau peraturan kitaran pertumbuhan. Skor TxGNN yang tinggi nampaknya merupakan artifak kesamaan penyisipan daripada isyarat yang berasaskan biologi, dan tiada bukti klinis atau literatur ditemui untuk menyokongnya.
 
-By contrast, two lower-ranked candidates in this same evidence pack — malignant renovascular hypertension (rank 5) and malignant hypertensive renal disease (rank 6) — carry a stronger mechanistic case: they extend moxonidine's established antihypertensive mechanism (reduced sympathetic tone and plasma renin activity) to a more severe hypertensive phenotype within the same drug class, and were scored L4 / "Research Question" rather than Hold. These may warrant more attention than the nominal top-ranked prediction.
+Sebaliknya, dua calon pemeringkatan lebih rendah dalam pakej bukti yang sama — hipertensi renovaskular ganas (pangkat 5) dan penyakit ginjal hipertensi ganas (pangkat 6) — membawa kes mekanistik yang lebih kuat: mereka melanjutkan mekanisme antihipertensi yang telah ditetapkan moxonidine (nada simpatetik berkurang dan aktiviti renin plasma) kepada fenotip hipertensi yang lebih teruk dalam kelas ubat yang sama, dan telah dinilai L4 / "Pertanyaan Penyelidikan" daripada Tahan. Ini mungkin memerlukan perhatian lebih daripada prediksi pemeringkatan teratas nominal.
 
-## Clinical Trial Evidence
+## Bukti Uji Klinis
 
-Currently no related clinical trials registered.
+Pada masa kini tiada uji klinis yang berkaitan didaftarkan.
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no related literature available.
+Pada masa kini tiada literatur yang berkaitan tersedia.
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Moxonidine has 3 active registrations in the Malaysia (NPRA) database (market status: Marketed / Marketed). License number, product name, dosage form, and approved-indication text were not returned for any of the 3 records in this data set.
+Moxonidine mempunyai 3 pendaftaran aktif dalam pangkalan data Malaysia (NPRA) (status pasaran: Dipasarkan / Dipasarkan). Nombor lesen, nama produk, bentuk dos, dan teks indikasi yang disetujui tidak dikembalikan untuk mana-mana daripada 3 rekod dalam set data ini.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk surat sisipan pakej untuk maklumat keselamatan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The top-ranked TxGNN prediction (hypotrichosis simplex of the scalp) has no clinical trial, literature, or mechanistic support — the model's own rationale text identifies it as an embedding-similarity artifact rather than a biologically plausible repurposing signal.
+**Rasional:**
+Prediksi TxGNN pemeringkatan teratas (hypotrichosis simplex of the scalp) tidak mempunyai bukti uji klinis, literatur, atau mekanistik — teks rasional model sendiri mengenalinya sebagai artifak kesamaan penyisipan daripada isyarat penyesuaian semula yang masuk akal secara biologi.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert warnings and contraindications (currently a Blocking data gap — required before any S1 safety screening)
-- Confirmed mechanism of action (MOA) from DrugBank or equivalent source
-- If pursuing this program, consider redirecting evaluation toward the mechanistically plausible candidates in this same pack — malignant renovascular hypertension and malignant hypertensive renal disease (rank 5–6, L4/"Research Question") — which still require dedicated clinical or preclinical evidence but have a coherent pharmacological rationale
+**Untuk meneruskan, berikut diperlukan:**
+- Amaran surat sisipan pakej TFDA/NPRA dan kontraindikasi (pada masa kini celah data Penghalang — diperlukan sebelum sebarang saringan keselamatan S1)
+- Mekanisme tindakan (MOA) yang disahkan daripada DrugBank atau sumber yang setara
+- Jika mengejar program ini, pertimbangkan mengubah arah penilaian ke arah calon yang masuk akal secara mekanistik dalam pakej yang sama — hipertensi renovaskular ganas dan penyakit ginjal hipertensi ganas (pangkat 5–6, L4/"Pertanyaan Penyelidikan") — yang masih memerlukan bukti klinis atau preklinik khusus tetapi mempunyai rasional farmakologi yang koheren
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

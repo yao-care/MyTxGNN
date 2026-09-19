@@ -29,78 +29,79 @@ Tahap bukti: **L5** | Indikasi diramal: **6**
 
 </div>
 
-# Evolocumab: From Hypercholesterolemia to Symptomatic Form of Hemophilia in Female Carriers
+# Evolocumab: Dari Hiperkolesterolemia kepada Bentuk Simptomatik Hemofilia dalam Pembawa Wanita
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Evolocumab (Repatha) is a PCSK9-inhibiting monoclonal antibody originally used to lower LDL-cholesterol and reduce cardiovascular risk in hypercholesterolemia. The TxGNN model predicts it may be effective for **symptomatic form of hemophilia in female carriers**, but this prediction is currently supported by **0 clinical trials** and **0 publications**, and no known biological mechanism links the two conditions.
+Evolocumab (Repatha) ialah antibodi monoklonal perencat PCSK9 yang asalnya digunakan untuk menurunkan kolesterol LDL dan mengurangkan risiko kardiovaskular dalam hiperkolesterolemia. Model TxGNN meramalkan ia mungkin berkesan untuk **bentuk simptomatik hemofilia dalam pembawa wanita**, namun ramalan ini pada masa kini disokong oleh **0 uji klinikal** dan **0 penerbitan**, dan tiada mekanisme biologi yang diketahui menghubungkan kedua-dua keadaan tersebut.
 
-*Note: This evidence pack contains 6 TxGNN-predicted candidate indications for evolocumab (ranks 1–6, scores 99.08–99.82%), all rated L5 evidence / Hold. This report focuses on the top-ranked candidate; the other five (familial apolipoprotein C-II deficiency, thrombocytopenic purpura, factor XI deficiency, hemophilia A with vascular abnormality, and a non-specific ontology node "disease of catalytic activity") carry the same evidence status.*
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not present in the current TFDA/NPRA license extract (fields blank in Evidence Pack). Publicly available labeling identifies evolocumab as indicated to reduce LDL-C and cardiovascular risk in adults/adolescents with hypercholesterolemia (including HeFH/HoFH) and to reduce major adverse cardiovascular events in at-risk adults. |
-| Predicted New Indication | Symptomatic form of hemophilia in female carriers |
-| TxGNN Prediction Score | 99.82% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
-| Recommended Decision | Hold |
+*Nota: Pakej bukti ini mengandungi 6 petunjuk calon indikasi yang diramalkan TxGNN untuk evolocumab (pangkat 1–6, skor 99.08–99.82%), semuanya dinilai bukti L5 / Tahan. Laporan ini memberi tumpuan kepada calon berpangkat teratas; lima lainnya (kekurangan apolipoprotein C-II keluarga, purpura trombositopenik, kekurangan faktor XI, hemofilia A dengan kelainan vaskular, dan nod ontologi tidak spesifik "penyakit aktiviti katalitik") membawa status bukti yang sama.*
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Cepat
 
-Evolocumab is a fully human IgG2 monoclonal antibody against PCSK9. It binds circulating PCSK9 and prevents it from binding the LDL receptor (LDLR), blocking PCSK9-mediated LDLR degradation. This allows more LDLR to recycle to the hepatocyte surface, increasing LDL-C clearance from the blood.
-
-Symptomatic hemophilia in female carriers is a coagulation-factor disorder (reduced Factor VIII or IX activity due to skewed X-inactivation), governed by an entirely different biological pathway than lipid metabolism. The evidence pack's own rationale explicitly flags this: *"血友病屬凝血因子路徑疾病，與 PCSK9/LDL 受體路徑無已知機轉關聯，未查得任何生物學合理性佐證"* (hemophilia is a coagulation-pathway disease with no known mechanistic link to the PCSK9/LDLR pathway, and no biological plausibility evidence was found).
-
-In other words, this candidate arises purely from the knowledge-graph's statistical association (TxGNN embedding similarity), not from a pharmacologically grounded rationale. Unlike cases where a shared organ system or pathway justifies a repurposing hypothesis, PCSK9 inhibition and coagulation-factor deficiency have no established biological connection.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Tidak hadir dalam ekstrak lesen TFDA/NPRA semasa (medan kosong dalam Pakej Bukti). Pelabelan yang tersedia untuk umum mengenalpasti evolocumab sebagai ditunjukkan untuk mengurangkan LDL-K dan risiko kardiovaskular dalam dewasa/remaja dengan hiperkolesterolemia (termasuk HeFH/HoFH) dan untuk mengurangkan peristiwa kardiovaskular buruk utama dalam dewasa berisiko. |
+| Indikasi Baru yang Diramalkan | Bentuk simptomatik hemofilia dalam pembawa wanita |
+| Skor Ramalan TxGNN | 99.82% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 2 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Adalah Munasabah?
 
-Currently no related literature available.
+Evolocumab ialah antibodi monoklonal IgG2 manusia sepenuhnya terhadap PCSK9. Ia mengikat PCSK9 yang beredar dan menghalangnya daripada mengikat reseptor LDL (LDLR), menghalang degradasi LDLR yang dimediasi PCSK9. Ini membenarkan lebih banyak LDLR untuk bersepadu semula ke permukaan hepatosit, meningkatkan pembersihan LDL-K dari darah.
 
----
+Hemofilia yang simptomatik dalam pembawa wanita ialah gangguan faktor pembekuan (aktiviti Faktor VIII atau IX yang berkurangan disebabkan oleh inaktivasi X yang miring), dikawal oleh laluan biologi yang sama sekali berbeza daripada metabolisme lipid. Rasional pakej bukti itu sendiri secara jelas menandakan ini: *"血友病屬凝血因子路徑疾病，與 PCSK9/LDL 受體路徑無已知機轉關聯，未查得任何生物學合理性佐證"* (hemofilia ialah penyakit laluan pembekuan dengan tiada pautan mekanis yang diketahui kepada laluan PCSK9/LDLR, dan tiada bukti kebolehpercayaan biologi ditemui).
 
-## Malaysia Market Information
-
-Evolocumab holds 2 active registrations in Malaysia (market status: ✓ Marketed). The Evidence Pack's license records for authorization number, product name, dosage form, and approved indication text are currently blank — this is a data-collection gap (see DG001, listed as Blocking severity), not an absence of registration.
+Dengan kata lain, calon ini timbul semata-mata dari perkaitan statistik graf pengetahuan (kesamaan pembenaman TxGNN), bukan dari rasional yang berasaskan farmakologi. Tidak seperti kes-kes di mana sistem organ bersama atau laluan membenarkan hipotesis penggunaan semula, perencatan PCSK9 dan kekurangan faktor pembekuan tidak mempunyai sambungan biologi yang telah ditetapkan.
 
 ---
 
-## Safety Considerations
+## Bukti Uji Klinikal
 
-Please refer to the package insert for safety information.
-
-*(DG001 flags that TFDA/NPRA label warnings and contraindications have not yet been retrieved — this is a Blocking-severity gap for any S1 safety review of this candidate.)*
+Pada masa kini tiada uji klinikal berkaitan yang berdaftar.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Hold**
+Pada masa kini tiada literatur berkaitan yang tersedia.
 
-**Rationale:**
-The prediction rests solely on a TxGNN model score (L5, decision stage S0) with zero supporting clinical trials or literature, and the documented mechanistic rationale itself states there is no known biological link between PCSK9/LDLR pathway modulation and coagulation-factor pathway disorders. Evidence is insufficient to advance this candidate.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA label PDF (warnings, contraindications) — currently a Blocking data gap (DG001)
-- Formal DrugBank-sourced MOA confirmation for the regulatory file (currently only externally verified, not in the pack)
-- Any preclinical or mechanistic literature specifically testing PCSK9 pathway involvement in coagulation/hemophilia biology
-- If no such mechanistic or clinical signal emerges, this candidate should remain closed rather than progress to evidence collection
+## Maklumat Pasaran Malaysia
+
+Evolocumab memegang 2 pendaftaran aktif di Malaysia (status pasaran: ✓ Dipasarkan). Rekod lesen Pakej Bukti untuk nombor kebenaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan kini kosong — ini adalah jurang pengumpulan data (lihat DG001, tersenarai sebagai keterukan Penyekat), bukan ketiadaan pendaftaran.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk lembaran paket untuk maklumat keselamatan.
+
+*(DG001 menandakan bahawa amaran label TFDA/NPRA dan kontraindikasi belum lagi diambil — ini adalah jurang keterukan Penyekat untuk sebarang kajian semula keselamatan S1 calon ini.)*
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Ramalan itu bergantung sepenuhnya pada skor model TxGNN (L5, peringkat keputusan S0) dengan sifar uji klinikal atau literatur yang menyokong, dan rasional mekanis yang didokumenkan itu sendiri menyatakan tiada pautan biologi yang diketahui antara modulasi laluan PCSK9/LDLR dan gangguan laluan faktor pembekuan. Bukti tidak mencukupi untuk memajukan calon ini.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- PDF label TFDA/NPRA (amaran, kontraindikasi) — pada masa kini jurang data Penyekat (DG001)
+- Pengesahan MOA yang bersumber secara formal dari DrugBank untuk fail kawal selia (pada masa kini hanya disahkan secara luaran, tidak dalam pakej)
+- Sebarang literatur pra-klinikal atau mekanis yang secara khusus menguji penglibatan laluan PCSK9 dalam biologi pembekuan/hemofilia
+- Jika tiada isyarat mekanis atau klinikal sedemikian timbul, calon ini harus tetap tertutup daripada maju ke pengumpulan bukti
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

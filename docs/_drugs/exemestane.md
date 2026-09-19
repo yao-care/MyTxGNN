@@ -29,89 +29,90 @@ Tahap bukti: **L5** | Indikasi diramal: **7**
 
 </div>
 
-# Exemestane: From Postmenopausal ER+ Breast Cancer to Antithrombin Deficiency Type 2
+# Exemestane: Daripada Kanser Payudara ER+ Selepas Menopaus kepada Kekurangan Antitrombin Jenis 2
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Exemestane is a steroidal aromatase inhibitor whose established use — noted within this evidence pack's own analysis — is postmenopausal ER-positive breast cancer (the formal Malaysian label text was not retrievable; see Data Gaps below). The TxGNN model's top-ranked prediction for this drug is **Antithrombin Deficiency Type 2**, but this candidate currently has **0 clinical trials** and **0 publications** supporting it, and the evidence pack's own rationale flags the signal as likely knowledge-graph noise rather than a genuine mechanistic link.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Postmenopausal ER+ breast cancer (per evidence-pack narrative; formal license indication text is a Blocking data gap — see DG001) |
-| Predicted New Indication | Antithrombin Deficiency Type 2 |
-| TxGNN Prediction Score | 99.83% |
-| Evidence Level | L5 (model prediction only, no supporting studies) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
-| Recommended Decision | Hold |
+Exemestane adalah perencat aromatase steroidal dengan kegunaan yang disahkan — seperti yang dinyatakan dalam analisis pakej bukti itu — untuk kanser payudara ER-positif selepas menopaus (teks label Malaysia rasmi tidak dapat diperolehi; lihat Jurang Data di bawah). Ramalan teratas model TxGNN untuk ubat ini ialah **Kekurangan Antitrombin Jenis 2**, namun calon ini pada masa kini mempunyai **0 ujian klinikal** dan **0 penerbitan** yang menyokongnya, dan alasan pakej bukti itu sendiri menandakan isyarat ini sebagai gangguan graf pengetahuan yang berkemungkinan besar, dan bukannya suatu pautan mekanistik yang sebenar.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Pantas
 
-Detailed mechanism-of-action data for exemestane is not available in this evidence pack (`original_moa` is a data gap). Background information embedded in the pack's own rationale text describes exemestane as an irreversible steroidal aromatase inhibitor that lowers estrogen synthesis, used to treat postmenopausal ER-positive breast cancer.
-
-Antithrombin Deficiency Type 2, however, is a hereditary *SERPINC1* gene defect affecting coagulation regulation. The evidence pack's own mechanistic assessment finds **no known pathway connecting aromatase/estrogen signaling to this coagulation disorder**, and notes the high TxGNN score most likely reflects the drug and disease co-occurring near other coagulation-disorder nodes in the knowledge graph, rather than a real pharmacological relationship.
-
-In short: this is a case where a numerically high model score is not accompanied by mechanistic plausibility or any real-world evidence — exactly the profile the evidence pack itself labels as probable graph noise.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Item | Kandungan |
+|------|---------|
+| Petunjuk Asal | Kanser payudara ER+ selepas menopaus (mengikut naratif pakej bukti; teks petunjuk lesen rasmi adalah jurang data Pemblokiran — lihat DG001) |
+| Petunjuk Baru yang Diramal | Kekurangan Antitrombin Jenis 2 |
+| Skor Ramalan TxGNN | 99.83% |
+| Tahap Bukti | L5 (ramalan model sahaja, tiada kajian sokongan) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 2 |
+| Keputusan yang Disyorkan | Tunggu |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available.
+Data mekanisme kerja yang terperinci untuk exemestane tidak tersedia dalam pakej bukti ini (`original_moa` adalah jurang data). Maklumat latar belakang yang tertanam dalam teks justifikasi pakej itu menghuraikan exemestane sebagai perencat aromatase steroidal yang tidak boleh dikembalikan yang menurunkan sintesis estrogen, digunakan untuk merawat kanser payudara ER-positif selepas menopaus.
 
----
+Kekurangan Antitrombin Jenis 2, bagaimanapun, adalah cacat gen *SERPINC1* yang bersifat keturunan yang mempengaruhi pengaturan pembekuan. Penilaian mekanistik pakej bukti itu sendiri mendapati tiada laluan yang diketahui menghubungkan isyarat aromatase/estrogen ke gangguan pembekuan ini, dan mencatat skor TxGNN yang tinggi berkemungkinan besar mencerminkan ubat dan penyakit yang terjadi bersama-sama berdekatan dengan nod gangguan pembekuan lain dalam graf pengetahuan, dan bukannya suatu hubungan farmakologi yang sebenar.
 
-## Malaysia Market Information
-
-Exemestane has **2 registered products** in Malaysia (`market_status`: Marketed / Marketed), but the underlying license records in this evidence pack (license number, product name, dosage form, manufacturer, approved indication text) are all empty — this detail is not currently available from the data source and would need to be pulled directly from NPRA.
+Ringkasnya: ini adalah kes di mana skor model yang tinggi secara numerik tidak disertai dengan kemasukkan akal mekanistik atau sebarang bukti dunia nyata — tepat profil yang pakej bukti itu sendiri menandai sebagai gangguan graf pengetahuan yang berkemungkinan besar.
 
 ---
 
-## Cytotoxicity
+## Bukti Ujian Klinikal
 
-Exemestane's original indication involves breast cancer treatment, so this section applies.
-
-| Item | Content |
-|------|------|
-| Cytotoxicity Classification | Hormonal/endocrine therapy (steroidal aromatase inhibitor) — non-cytotoxic, per the evidence pack's own background text |
-| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
-| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | Please refer to the package insert warnings and precautions |
-| Handling Protection | Please refer to the package insert warnings and precautions |
+Pada masa kini tiada ujian klinikal yang berkaitan didaftarkan.
 
 ---
 
-## Safety Considerations
+## Bukti Kesusasteraan
 
-Please refer to the package insert for safety information.
+Pada masa kini tiada kesusasteraan yang berkaitan tersedia.
 
 ---
 
-## Conclusion and Next Steps
+## Maklumat Pasaran Malaysia
 
-**Decision: Hold**
+Exemestane mempunyai **2 produk berdaftar** di Malaysia (`market_status`: Dipasarkan / Dipasarkan), tetapi rekod lesen asas dalam pakej bukti ini (nombor lesen, nama produk, bentuk dos, pengeluar, teks petunjuk yang disahkan) semuanya kosong — butiran ini tidak tersedia pada masa kini daripada sumber data dan perlu diperoleh terus daripada NPRA.
 
-**Rationale:**
-- The predicted indication (Antithrombin Deficiency Type 2) has zero clinical trials and zero literature support, and the evidence pack's own mechanistic review judges the TxGNN signal to be likely graph noise rather than a real drug-disease relationship.
-- A Blocking data gap (DG001: TFDA/NPRA label warnings and contraindications) means this candidate cannot even proceed to the S1 safety pre-screen yet.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA label PDF (warnings, contraindications) — resolves DG001 (Blocking)
-- DrugBank MOA data via API — resolves DG002 (High)
-- Full Malaysia license records (license number, product name, dosage form, approved indication text) for the 2 registered products
-- If continued repurposing evaluation is desired, note that rank 2 in this pack (amenorrhea, L4 evidence, 5 supporting publications) has more literature volume than rank 1 — though that literature describes amenorrhea as a *side effect* observed during ovarian-suppression therapy, not a treatment target, so it would need the same "is this causal or coincidental" scrutiny before advancing.
+## Sitotoksisiti
+
+Kegunaan asal exemestane melibatkan rawatan kanser payudara, oleh itu bahagian ini berkaitan.
+
+| Item | Kandungan |
+|------|---------|
+| Pengelasan Sitotoksisiti | Terapi hormonal/endokrin (perencat aromatase steroidal) — bukan sitotoksik, mengikut teks latar belakang pakej bukti itu sendiri |
+| Risiko Supresi Sumsum Tulang | Sila rujuk amaran dan tindakan pencegahan dalam risalah produk |
+| Pengelasan Emetogenisiti | Sila rujuk amaran dan tindakan pencegahan dalam risalah produk |
+| Item Pemantauan | Sila rujuk amaran dan tindakan pencegahan dalam risalah produk |
+| Perlindungan Pengendalian | Sila rujuk amaran dan tindakan pencegahan dalam risalah produk |
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk risalah produk untuk maklumat keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tunggu**
+
+**Alasan:**
+- Petunjuk yang diramal (Kekurangan Antitrombin Jenis 2) tiada ujian klinikal dan tiada sokongan kesusasteraan, dan semakan mekanistik pakej bukti itu sendiri menilai isyarat TxGNN sebagai gangguan graf pengetahuan yang berkemungkinan besar dan bukannya suatu hubungan ubat-penyakit yang sebenar.
+- Jurang data Pemblokiran (DG001: amaran label TFDA/NPRA dan kontraindikasi) bermaksud calon ini tidak dapat terus ke saringan pra-keselamatan S1 lagi.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- PDF label TFDA/NPRA (amaran, kontraindikasi) — menyelesaikan DG001 (Pemblokiran)
+- Data MOA DrugBank melalui API — menyelesaikan DG002 (Tinggi)
+- Rekod lesen Malaysia lengkap (nombor lesen, nama produk, bentuk dos, teks petunjuk yang disahkan) untuk 2 produk berdaftar
+- Jika penilaian penggunaan semula yang berterusan diingini, ambil perhatian bahawa peringkat 2 dalam pakej ini (amenorrhea, bukti L4, 5 penerbitan sokongan) mempunyai jumlah kesusasteraan yang lebih banyak daripada peringkat 1 — walaupun kesusasteraan itu menghuraikan amenorrhea sebagai kesan sampingan yang diperhatikan semasa terapi supresi ovari, bukan sasaran rawatan, oleh itu ia memerlukan penelitian "adakah ini hubung-sebab atau kebetulan" yang sama sebelum maju.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

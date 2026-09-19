@@ -29,62 +29,63 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Linagliptin: From Type 2 Diabetes Mellitus — No Repurposing Prediction Available
+# Linagliptin: Dari Diabetes Mellitus Jenis 2 — Tiada Ramalan Tujuan Baru Tersedia
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Linagliptin is a DPP-4 (dipeptidyl peptidase-4) inhibitor approved for the management of Type 2 Diabetes Mellitus.
-This Evidence Pack contains **no TxGNN repurposing predictions** — the `predicted_indications` field is empty, indicating the prediction pipeline has not yet run or returned results.
-Two blocking data gaps (MOA and package insert) must be resolved before a repurposing evaluation can proceed.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Type 2 Diabetes Mellitus |
-| Predicted New Indication | Not available — `predicted_indications` is empty |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | N/A — no predictions to evaluate |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 9 |
-| Recommended Decision | **Hold** |
+Linagliptin ialah inhibitor DPP-4 (dipeptidyl peptidase-4) yang telah diluluskan untuk pengurusan Diabetes Mellitus Jenis 2.
+Evidence Pack ini mengandungi **tiada ramalan tujuan baru TxGNN** — medan `predicted_indications` adalah kosong, menunjukkan saluran ramalan belum dijalankan atau mengembalikan hasil.
+Dua jurang data yang menghalang (MOA dan sisipan pakej) mesti diselesaikan sebelum penilaian tujuan baru boleh diteruskan.
 
 ---
 
-## Malaysia Market Information
+## Gambaran Ringkas
 
-The 9 NPRA registrations are confirmed, but all individual licence records in this Evidence Pack are unpopulated (empty strings). Detailed product-level information is unavailable until licence data is retrieved from the NPRA database.
+| Item | Kandungan |
+|------|-----------|
+| Petunjuk Asal | Diabetes Mellitus Jenis 2 |
+| Petunjuk Baru yang Diramalkan | Tidak tersedia — `predicted_indications` adalah kosong |
+| Skor Ramalan TxGNN | N/A |
+| Tahap Bukti | N/A — tiada ramalan untuk dinilai |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 9 |
+| Keputusan Disyorkan | **Tahan** |
+
+---
+
+## Maklumat Pasaran Malaysia
+
+9 pendaftaran NPRA telah disahkan, tetapi semua rekod lesen individu dalam Evidence Pack ini tidak dipenuhi (rentetan kosong). Maklumat peringkat produk yang terperinci tidak tersedia sehingga data lesen diambil dari pangkalan data NPRA.
 
 | Item | Status |
 |------|--------|
-| Total registrations (NPRA) | 9 |
-| Licence details | Not available in this Evidence Pack |
+| Jumlah pendaftaran (NPRA) | 9 |
+| Butiran lesen | Tidak tersedia dalam Evidence Pack ini |
 
 ---
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-> **Note:** Both key warnings and contraindications are flagged as data gaps (DG001, severity: Blocking). No drug–drug interaction records were returned by the DDI query. Safety evaluation cannot proceed until the package insert is obtained.
+> **Nota:** Kedua-dua amaran utama dan kontraindikasi ditandai sebagai jurang data (DG001, keterukan: Menghalang). Tiada rekod interaksi ubat-ubatan dikembalikan oleh pertanyaan DDI. Penilaian keselamatan tidak boleh diteruskan sehingga sisipan pakej diperoleh.
 
 ---
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The `predicted_indications` array is empty, meaning no repurposing candidate has been identified by TxGNN for this drug. Combined with two unresolved data gaps covering MOA and package insert safety information, there is currently no basis on which to conduct a repurposing evaluation.
+**Rasional:**
+Tatasusunan `predicted_indications` adalah kosong, bermakna tiada calon tujuan baru telah dikenal pasti oleh TxGNN untuk ubat ini. Digabungkan dengan dua jurang data yang tidak diselesaikan meliputi maklumat keselamatan MOA dan sisipan pakej, pada masa ini tidak ada asas untuk menjalankan penilaian tujuan baru.
 
-**To proceed, the following is needed:**
+**Untuk meneruskan, yang berikut diperlukan:**
 
-1. **Resolve DG001 (Blocking)** — Download and parse the TFDA/NPRA package insert PDF to extract approved indications, warnings, and contraindications; this is prerequisite for the safety screening step.
-2. **Resolve DG002 (High)** — Query the DrugBank API for Linagliptin's mechanism of action (DB08882); MOA data is required by the TxGNN pipeline for mechanistic similarity scoring.
-3. **Re-run the TxGNN prediction pipeline** with complete inputs to populate `predicted_indications`; only then can a disease target and evidence level be assigned.
-4. **Retrieve NPRA licence details** for the 9 registered products (product names, dosage forms, approved indication text) to complete the Malaysia Market Information section.
+1. **Selesaikan DG001 (Menghalang)** — Muat turun dan hurai PDF sisipan pakej TFDA/NPRA untuk mengekstrak petunjuk yang diluluskan, amaran, dan kontraindikasi; ini adalah prasyarat untuk langkah penyaringan keselamatan.
+2. **Selesaikan DG002 (Tinggi)** — Pertanyaan API DrugBank untuk mekanisme tindakan Linagliptin (DB08882); data MOA diperlukan oleh saluran TxGNN untuk pemarkahan kesamaan mekanik.
+3. **Jalankan semula saluran ramalan TxGNN** dengan input lengkap untuk mengisi `predicted_indications`; hanya kemudian boleh sasaran penyakit dan tahap bukti diberikan.
+4. **Ambil butiran lesen NPRA** untuk 9 produk berdaftar (nama produk, bentuk dos, teks petunjuk yang diluluskan) untuk melengkapkan bahagian Maklumat Pasaran Malaysia.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

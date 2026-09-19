@@ -29,66 +29,67 @@ Tahap bukti: **L5** | Indikasi diramal: **6**
 
 </div>
 
-# Sennosides: From Constipation to Hypotrichosis Simplex of the Scalp
+# Sennosides: Daripada Sembelit kepada Hypotrichosis Simplex Kulit Kepala
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Sennosides is a stimulant (anthraquinone-glycoside) laxative pharmacologically associated with constipation treatment, though a fully documented original indication is not available in the current Malaysia registry data. The TxGNN model's top-ranked prediction suggests a possible link to **Hypotrichosis Simplex of the Scalp**, but this is currently supported by **0 clinical trials** and **0 publications**, and the model's own mechanistic rationale states there is no known biological connection between sennosides' laxative action and hair follicle biology.
+Sennosides adalah laksatif perangsang (anthraquinon-glikosida) yang secara farmakologi berkaitan dengan pengobatan sembelit, meskipun indikasi asal yang didokumentasikan sepenuhnya tidak tersedia dalam data daftar Malaysia semasa. Ramalan model TxGNN dengan peringkat teratas menunjukkan kemungkinan kaitan ke **Hypotrichosis Simplex Kulit Kepala**, namun pada masa ini disokong oleh **0 ujian klinis** dan **0 penerbitan**, dan rasionalisasi mekanisme model itu sendiri menyatakan tidak ada hubungan biologi yang diketahui antara tindakan laksatif sennosides dan biologi folikel rambut.
 
-## Quick Overview
+## Gambaran Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | Not specified in current dataset (pharmacologically a stimulant/anthraquinone laxative, per mechanism described in the evidence pack) |
-| Predicted New Indication | Hypotrichosis Simplex of the Scalp |
-| TxGNN Prediction Score | 99.29% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Tidak dinyatakan dalam set data semasa (secara farmakologi laksatif perangsang/anthraquinon, menurut mekanisme yang dijelaskan dalam bungkus bukti) |
+| Indikasi Baru yang Diramalkan | Hypotrichosis Simplex Kulit Kepala |
+| Skor Ramalan TxGNN | 99.29% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | Tangguh |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data is not available (marked as a data gap). Based on the information available in this evidence pack, sennosides are anthraquinone glycosides that are hydrolyzed by gut flora into rhein anthrone, which acts on the enteric nervous system to stimulate colonic motility and modulate water/electrolyte absorption — i.e., a classic stimulant laxative mechanism.
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia (ditanda sebagai jurang data). Berdasarkan maklumat yang tersedia dalam bungkus bukti ini, sennosides adalah glikosida anthraquinon yang dihidrolisis oleh flora usus menjadi rhein anthrone, yang bertindak pada sistem saraf enterik untuk merangsang motilitas kolon dan mengatur penyerapan air/elektrolit — iaitu, mekanisme laksatif perangsang klasik.
 
-This mechanism has no established biological link to hypotrichosis simplex of the scalp, which is a congenital, genetically driven hair follicle developmental disorder. The repurposing rationale attached to this prediction explicitly states there is "no biological connection" and "no literature or trial support" — the high TxGNN score reflects graph-embedding similarity rather than a mechanistically grounded hypothesis.
+Mekanisme ini tidak mempunyai pautan biologi yang ditetapkan kepada hypotrichosis simplex kulit kepala, yang merupakan gangguan perkembangan folikel rambut bawaan yang didorong secara genetik. Rasionalisasi repurposing yang dilampirkan kepada ramalan ini secara eksplisit menyatakan tiada "hubungan biologi" dan "tiada sokongan literatur atau ujian" — skor TxGNN yang tinggi mencerminkan kesamaan embedding graf daripada hipotesis yang didorong oleh mekanisme.
 
-This pattern is not isolated: the other top-ranked predictions for this drug (congenital hypotrichosis milia, diffuse alopecia areata, open-angle glaucoma, primary hereditary glaucoma, alopecia) carry the same caveat — each rationale independently concludes there is no known pharmacological pathway connecting a stimulant laxative to hair-follicle or ocular pressure disorders. This suggests the current prediction cluster for sennosides is not biologically actionable without further target validation.
+Corak ini bukan terpencil: ramalan teratas yang lain untuk ubat ini (hypotrichosis milia bawaan, alopecia tersebar areata, glaukoma sudut terbuka, glaukoma herediter utama, alopecia) membawa kaveat yang sama — setiap rasionalisasi secara bebas membuat kesimpulan tiada laluan farmakologi yang diketahui menghubungkan laksatif perangsang kepada gangguan folikel rambut atau tekanan okular. Ini mencadangkan gugusan ramalan semasa untuk sennosides tidak boleh diambil tindakan secara biologi tanpa pengesahan sasaran lanjut.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinis
 
-Currently no related clinical trials registered.
+Pada masa ini tiada ujian klinis berkaitan yang didaftar.
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no related literature available.
+Pada masa ini tiada literatur berkaitan yang tersedia.
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
 |---------|------|------|-----------|
-| Not specified in dataset | Not specified in dataset | Not specified in dataset | Not specified in dataset |
+| Tidak dinyatakan dalam set data | Tidak dinyatakan dalam set data | Tidak dinyatakan dalam set data | Tidak dinyatakan dalam set data |
 
-Malaysia registry confirms **1 marketed license** (market status: Marketed), but license number, product name, dosage form, and indication text fields are not populated in the current dataset.
+Daftar Malaysia mengesahkan **1 lesen yang dipasarkan** (status pasaran: Dipasarkan), tetapi nombor lesen, nama produk, bentuk dos, dan medan teks indikasi tidak diisi dalam set data semasa.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-*(Note: label-level warnings/contraindications data is currently a blocking data gap — see Conclusion below.)*
+*(Nota: data amaran dan kontraindikasi peringkat label pada masa ini merupakan jurang data Penyekat — lihat Kesimpulan di bawah.)*
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tangguh**
 
-**Rationale:**
-The TxGNN score is high, but there is no supporting clinical trial or literature evidence, and the model's own mechanistic rationale states the predicted indication has no plausible biological connection to sennosides' known laxative action. In addition, a Blocking-severity data gap on TFDA/NPRA label warnings and contraindications means the candidate cannot yet enter even a preliminary (S1) safety review.
+**Rasionalisasi:**
+Skor TxGNN tinggi, tetapi tiada bukti ujian klinis atau literatur sokongan, dan rasionalisasi mekanisme model itu sendiri menyatakan indikasi yang diramalkan tiada hubungan biologi yang munasabah kepada tindakan laksatif sennosides yang diketahui. Di samping itu, jurang data Penyekat pada amaran dan kontraindikasi label TFDA/NPRA bermakna calon ini belum lagi dapat memasuki bahkan tinjauan keselamatan awal (S1).
 
-**To proceed, the following is needed:**
-- TFDA/NPRA label PDF for warnings and contraindications (Blocking gap, DG001)
-- Detailed mechanism of action data from DrugBank (High-priority gap, DG002)
-- Formal Malaysia-approved indication text for this product
-- Independent preclinical/mechanistic evidence establishing a plausible pathway between sennosides and hair-follicle biology before any further investment in this candidate
+**Untuk melanjutkan, perkara berikut diperlukan:**
+- PDF label TFDA/NPRA untuk amaran dan kontraindikasi (Jurang data Penyekat, DG001)
+- Data mekanisme tindakan terperinci daripada DrugBank (Jurang data keutamaan tinggi, DG002)
+- Teks indikasi yang diluluskan Malaysia secara rasmi untuk produk ini
+- Bukti praklinis/mekanisme bebas yang menetapkan laluan yang munasabah antara sennosides dan biologi folikel rambut sebelum sebarang pelaburan lanjut dalam calon ini
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

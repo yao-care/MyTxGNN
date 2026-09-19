@@ -29,74 +29,75 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Doxofylline: From Asthma/COPD to Pierre Robin Syndrome (Chromosomal Anomaly)
+# Doxofylline: Daripada Asma/COPD kepada Sindrom Pierre Robin (Anomali Kromosom)
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Doxofylline is a methylxanthine-class bronchodilator used clinically for asthma and chronic obstructive pulmonary disease (COPD). The TxGNN model's top prediction is **Pierre Robin syndrome associated with a chromosomal anomaly**, but this is supported by **0 clinical trials** and **0 publications**, and the evidence pack itself flags it as a likely score artifact rather than a genuine signal.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not populated in the Malaysia regulatory record (license fields empty); per literature in this evidence pack, doxofylline is used as a bronchodilator for asthma and COPD |
-| Predicted New Indication | Pierre Robin syndrome associated with a chromosomal anomaly |
-| TxGNN Prediction Score | 99.54% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+Doxofylline adalah bronkodilator kelas methylxanthine yang digunakan secara klinis untuk asma dan penyakit paru obstruktif kronik (COPD). Ramalan teratas model TxGNN ialah **sindrom Pierre Robin yang berkaitan dengan anomali kromosom**, tetapi ini disokong oleh **0 uji klinis** dan **0 penerbitan**, dan paket bukti itu sendiri menandainya sebagai kemungkinan artifak skor dan bukannya isyarat sebenar.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Pantas
 
-Currently, detailed mechanism of action data is not available (data gap, high severity). Based on the literature entries present elsewhere in this evidence pack, doxofylline is a methylxanthine derivative — mechanistically related to theophylline — with bronchodilator and anti-inflammatory activity via phosphodiesterase (PDE) inhibition and (unlike theophylline) minimal adenosine-receptor blockade, which gives it a more favorable cardiovascular safety profile. Its established use is in asthma and COPD.
-
-Pierre Robin syndrome associated with a chromosomal anomaly is a craniofacial developmental disorder, not a smooth-muscle-tone or airway-inflammation condition. The evidence pack's own rationale for this candidate is explicit: **"無機轉關聯"** — no known mechanistic link between the PDE4/cAMP pathway and this chromosomal/developmental disorder, with the entry supported by zero trials and zero literature. This pattern (high TxGNN score, no supporting evidence, no biological plausibility) is consistent with a model score artifact rather than a real repurposing signal.
-
-It is worth noting that none of the top 10 TxGNN candidates in this evidence pack have genuine therapeutic support: most are structural/genetic disorders with no mechanistic rationale, and the one candidate with meaningful literature ("heart disease," rank 9, L4) is supported only by cardiovascular *safety/tolerability* studies (doxofylline vs. theophylline not inducing cardiostimulant effects) — not by any trial or publication evaluating efficacy against heart disease itself.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered
+| Perkara | Kandungan |
+|---------|-----------|
+| Indikasi Asal | Tidak diisi dalam rekod kawal selia Malaysia (medan lesen kosong); menurut literatur dalam paket bukti ini, doxofylline digunakan sebagai bronkodilator untuk asma dan COPD |
+| Indikasi Baharu yang Diramalkan | Sindrom Pierre Robin yang berkaitan dengan anomali kromosom |
+| Skor Ramalan TxGNN | 99.54% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available
+Pada masa kini, data mekanisme tindakan terperinci tidak tersedia (jurang data, keterukan tinggi). Berdasarkan entri literatur yang terdapat di tempat lain dalam paket bukti ini, doxofylline adalah derivatif methylxanthine — berkaitan dari segi mekanisme dengan theophylline — dengan aktiviti bronkodilator dan anti-radang melalui perencatan phosphodiesterase (PDE) dan (tidak seperti theophylline) penyekatan reseptor adenosin yang minimum, yang memberikannya profil keselamatan kardiovaskular yang lebih baik. Kegunaannya yang sudah mantap adalah dalam asma dan COPD.
 
----
+Sindrom Pierre Robin yang berkaitan dengan anomali kromosom adalah gangguan perkembangan kraniofasial, bukan keadaan tonus otot halus atau radang saluran udara. Rasional paket bukti itu sendiri untuk calon ini adalah jelas: **"無機轉關聯"** — tiada pautan mekanik yang diketahui antara laluan PDE4/cAMP dan gangguan kromosom/perkembangan ini, dengan entri disokong oleh sifar percubaan dan sifar literatur. Pola ini (skor TxGNN tinggi, tiada bukti sokongan, tiada kebolehpercayaan biologi) konsisten dengan artifak skor model dan bukannya isyarat penyusunan semula sebenar.
 
-## Malaysia Market Information
-
-The evidence pack records the drug as marketed in Malaysia with 1 registration on file, but structured license details (registration number, product name, dosage form, approved indication text) are not populated in this evidence pack and could not be extracted.
+Perlu diingat bahawa tiada satu pun daripada 10 calon TxGNN teratas dalam paket bukti ini mempunyai sokongan terapeutik sebenar: kebanyakannya ialah gangguan struktur/genetik tanpa rasional mekanik, dan satu-satunya calon dengan literatur bermakna ("penyakit jantung," kedudukan 9, L4) disokong hanya oleh kajian keselamatan/tolerabiliti kardiovaskular (doxofylline vs. theophylline tidak mendorong kesan rangsangan jantung) — bukan oleh mana-mana uji atau penerbitan yang menilai keberkesanan terhadap penyakit jantung itu sendiri.
 
 ---
 
-## Safety Considerations
+## Bukti Uji Klinis
 
-Please refer to the package insert for safety information.
+Pada masa kini tiada uji klinis berkaitan yang didaftarkan
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Hold**
+Pada masa kini tiada literatur berkaitan yang tersedia
 
-**Rationale:**
-The top-ranked predicted indication (Pierre Robin syndrome associated with a chromosomal anomaly) has no clinical trials, no literature, and no plausible mechanistic link per the evidence pack's own analysis — it does not meet even a minimal bar for further evaluation. No other candidate in the top 10 shows genuine therapeutic evidence either.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA label PDF with warnings and contraindications (blocking data gap — required before any S1 safety screening)
-- Confirmed mechanism of action from DrugBank (high-severity data gap — needed to assess mechanistic plausibility of any candidate)
-- Complete Malaysia license/product details (registration number, dosage form, approved indication text)
-- If further TxGNN-based repurposing candidates are needed for doxofylline, re-run prediction with tighter mechanistic filtering, since the current top-10 output is dominated by structural/genetic disorders with no biological rationale
+## Maklumat Pasaran Malaysia
+
+Paket bukti merekodkan ubat sebagai dipasarkan di Malaysia dengan 1 pendaftaran pada fail, tetapi butiran lesen berstruktur (nombor pendaftaran, nama produk, bentuk dos, teks indikasi yang diluluskan) tidak diisi dalam paket bukti ini dan tidak dapat diekstrak.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk lembaran maklumat ubat untuk maklumat keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Indikasi yang diramalkan berkedudukan teratas (sindrom Pierre Robin yang berkaitan dengan anomali kromosom) tidak mempunyai uji klinis, tiada literatur, dan tiada pautan mekanik yang boleh dipercayai mengikut analisis paket bukti itu sendiri — ia tidak memenuhi walaupun bar minimal untuk penilaian lanjutan. Tiada calon lain dalam 10 teratas yang menunjukkan bukti terapeutik sebenar juga.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- PDF label TFDA/NPRA dengan amaran dan kontraindikasi (jurang data penghalang — diperlukan sebelum sebarang pemeriksaan keselamatan S1)
+- Mekanisme tindakan yang disahkan daripada DrugBank (jurang data keterukan tinggi — diperlukan untuk menilai kebolehpercayaan mekanik mana-mana calon)
+- Butiran lesen/produk Malaysia yang lengkap (nombor pendaftaran, bentuk dos, teks indikasi yang diluluskan)
+- Jika calon penyusunan semula berdasarkan TxGNN selanjutnya diperlukan untuk doxofylline, jalankan semula ramalan dengan penapis mekanik yang lebih ketat, kerana output 10 teratas semasa didominasi oleh gangguan struktur/genetik tanpa rasional biologi
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

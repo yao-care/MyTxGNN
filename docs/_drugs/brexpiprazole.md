@@ -29,72 +29,73 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Brexpiprazole: Drug Repurposing Evaluation Report (Pending Prediction)
+# Brexpiprazole: Laporan Penilaian Penggunaan Semula Ubat (Pending Prediction)
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Brexpiprazole is a marketed atypical antipsychotic (DrugBank ID: DB09128) with 6 registered licenses in Malaysia. Currently, the TxGNN model has **no predicted new indications** for this drug, and key data gaps in mechanism of action and safety information need to be addressed before further evaluation can proceed.
+Brexpiprazole adalah antipsikotik atipik yang dipasarkan (ID DrugBank: DB09128) dengan 6 lesen terdaftar di Malaysia. Pada masa ini, model TxGNN **tidak mempunyai indikasi penggunaan baru yang diramalkan** untuk ubat ini, dan jurang data utama dalam mekanisme tindakan dan maklumat keselamatan perlu ditangani sebelum penilaian lanjutan dapat diteruskan.
 
-## Quick Overview
+## Tinjauan Cepat
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | *(Data not available in current license records)* |
-| Predicted New Indication | **None** — No TxGNN predictions available |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | N/A |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 6 |
-| Recommended Decision | **Hold** |
+| Indikasi Asal | *(Data tidak tersedia dalam rekod lesen semasa)* |
+| Indikasi Penggunaan Baru yang Diramalkan | **Tiada** — Tiada ramalan TxGNN tersedia |
+| Skor Ramalan TxGNN | N/A |
+| Tahap Bukti | N/A |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Marketed) |
+| Bilangan Pendaftaran | 6 |
+| Keputusan yang Disyorkan | **Tahan** |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, **no TxGNN prediction has been generated** for Brexpiprazole, so there is no new indication to evaluate at this time.
+Pada masa ini, **tiada ramalan TxGNN telah dijana** untuk Brexpiprazole, jadi tiada indikasi penggunaan baru untuk dinilai pada masa ini.
 
-Brexpiprazole is known to be a serotonin-dopamine activity modulator (SDAM), acting as a partial agonist at 5-HT₁A and dopamine D₂ receptors and an antagonist at 5-HT₂A receptors. It is approved internationally for the treatment of schizophrenia and as adjunctive therapy for major depressive disorder (MDD). However, the Evidence Pack lists the mechanism of action as a data gap, and no original indications are recorded in the current dataset.
+Brexpiprazole diketahui sebagai pemodulator aktiviti serotonin-dopamin (SDAM), bertindak sebagai agonis separa pada reseptor 5-HT₁A dan dopamin D₂ dan antagonis pada reseptor 5-HT₂A. Ia diluluskan secara antarabangsa untuk rawatan skizofrenia dan sebagai terapi tambahan untuk gangguan depresi utama (MDD). Bagaimanapun, Pakej Bukti menyenaraikan mekanisme tindakan sebagai jurang data, dan tiada indikasi asal dicatat dalam dataset semasa.
 
-Before a meaningful repurposing evaluation can be conducted, the following foundational data must be populated: (1) the detailed mechanism of action from DrugBank, (2) original approved indications from the Malaysian NPRA registry, and (3) TxGNN model predictions. Without these, it is not possible to assess mechanistic plausibility for any new therapeutic direction.
+Sebelum penilaian penggunaan semula ubat yang bermakna dapat dijalankan, data asas berikut mesti diisi: (1) mekanisme tindakan terperinci daripada DrugBank, (2) indikasi penggunaan yang diluluskan asal daripada daftar NPRA Malaysia, dan (3) ramalan model TxGNN. Tanpa ini, adalah mustahil untuk menilai kemungkinan mekanistik untuk sebarang arah terapeutik baru.
 
-## Clinical Trial Evidence
+## Bukti Uji Klinik
 
-Currently no related clinical trials registered (no predicted indication to query against).
+Pada masa ini tiada uji klinik berkaitan terdaftar (tiada indikasi penggunaan yang diramalkan untuk pertanyaan terhadap).
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no related literature available (no predicted indication to query against).
+Pada masa ini tiada literatur berkaitan tersedia (tiada indikasi penggunaan yang diramalkan untuk pertanyaan terhadap).
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Penggunaan yang Diluluskan |
 |------|------|------|------|
-| *(Not recorded)* | *(Not recorded)* | *(Not recorded)* | *(Not recorded)* |
+| *(Tidak dicatat)* | *(Tidak dicatat)* | *(Tidak dicatat)* | *(Tidak dicatat)* |
 
-> **Note:** 6 licenses are reported as registered, but detailed license information (authorization numbers, product names, dosage forms, and approved indications) is not available in the current dataset. The NPRA registry should be re-queried to populate these fields.
+> **Nota:** 6 lesen dilaporkan sebagai terdaftar, tetapi maklumat lesen terperinci (nombor kebenaran, nama produk, bentuk dos, dan indikasi penggunaan yang diluluskan) tidak tersedia dalam dataset semasa. Daftar NPRA harus diminta semula untuk mengisi bidang-bidang ini.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-> Please refer to the package insert for safety information.
+> Sila rujuk sisipan pakej untuk maklumat keselamatan.
 >
-> All safety data fields (key warnings, contraindications, drug-drug interactions) are currently unavailable. This is classified as a **Blocking** data gap — safety assessment cannot proceed until the package insert (PI) is obtained and parsed.
+> Semua bidang data keselamatan (amaran utama, kontraindikasi, interaksi ubat-ubat) tidak tersedia pada masa ini. Ini diklasifikasikan sebagai jurang data **Pemblokir** — penilaian keselamatan tidak dapat diteruskan sehingga sisipan pakej (PI) diperoleh dan dianalisis.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Berikutnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-No TxGNN predicted indications are available for Brexpiprazole, and critical data gaps exist in mechanism of action, approved indication text, and safety information. The evaluation cannot proceed until foundational data is populated.
+**Alasan:**
+Tiada ramalan indikasi penggunaan TxGNN tersedia untuk Brexpiprazole, dan jurang data kritikal wujud dalam mekanisme tindakan, teks indikasi penggunaan yang diluluskan, dan maklumat keselamatan. Penilaian tidak dapat diteruskan sehingga data asas diisi.
 
-**To proceed, the following is needed:**
+**Untuk meneruskan, yang berikut diperlukan:**
 
-1. **Populate TxGNN predictions** — Run the TxGNN model for Brexpiprazole (DB09128) to generate candidate repurposing indications
-2. **Resolve MOA data gap (DG002)** — Query DrugBank API for detailed mechanism of action (partial agonist at 5-HT₁A/D₂, antagonist at 5-HT₂A)
-3. **Resolve safety data gap (DG001, Blocking)** — Download and parse the package insert PDF from the NPRA website to extract warnings, contraindications, and DDI information
-4. **Complete license records** — Re-query NPRA for full license details (authorization numbers, product names, dosage forms, approved indications) for all 6 registrations
-5. **Populate original indications** — Confirm approved indications in Malaysia (expected: schizophrenia, adjunctive MDD treatment)
+1. **Isi ramalan TxGNN** — Jalankan model TxGNN untuk Brexpiprazole (DB09128) untuk menjana calon indikasi penggunaan semula ubat
+2. **Selesaikan jurang data MOA (DG002)** — Pertanyaan API DrugBank untuk mekanisme tindakan terperinci (agonis separa pada 5-HT₁A/D₂, antagonis pada 5-HT₂A)
+3. **Selesaikan jurang data keselamatan (DG001, Pemblokir)** — Muat turun dan analisis PDF sisipan pakej daripada laman web NPRA untuk mengekstrak amaran, kontraindikasi, dan maklumat DDI
+4. **Lengkapkan rekod lesen** — Pertanyaan semula NPRA untuk butiran lesen penuh (nombor kebenaran, nama produk, bentuk dos, indikasi penggunaan yang diluluskan) untuk kesemua 6 pendaftaran
+5. **Isi indikasi penggunaan asal** — Sahkan indikasi penggunaan yang diluluskan di Malaysia (dijangka: skizofrenia, rawatan MDD tambahan)
 
 ---
 
-*This report is for research purposes only and does not constitute medical advice. Drug repurposing candidates require clinical validation before application.*
+*Laporan ini untuk tujuan penyelidikan sahaja dan tidak merupakan nasihat perubatan. Calon penggunaan semula ubat memerlukan pengesahan klinikal sebelum aplikasi.*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

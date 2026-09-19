@@ -29,90 +29,91 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Atosiban: From Preterm Labour to Primary Hereditary Glaucoma
+# Atosiban: Dari Persalinan Praterm ke Glaukoma Herediter Primer
 
-## One-Sentence Summary
+## Ringkasan Satu Kalimat
 
-Atosiban is an oxytocin receptor antagonist registered in Malaysia as a tocolytic agent for inhibiting preterm labour. The TxGNN model places **Primary Hereditary Glaucoma** as its top predicted new indication, with a prediction score of 99.92%. However, this prediction is supported by **no clinical trials and no published literature**, and the proposed mechanism is directionally contradictory to the therapeutic goal.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Inhibition of preterm labour (tocolysis) |
-| Predicted New Indication | Primary Hereditary Glaucoma |
-| TxGNN Prediction Score | 99.92% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
-| Recommended Decision | Hold |
+Atosiban adalah penghambat reseptor oksitosin yang terdaftar di Malaysia sebagai agen tokolitis untuk menghambat persalinan praterm. Model TxGNN menempatkan **Glaukoma Herediter Primer** sebagai indikasi baru yang diprediksi teratas, dengan skor prediksi 99.92%. Namun, prediksi ini didukung oleh **tidak ada uji klinis dan tidak ada literatur yang dipublikasikan**, dan mekanisme yang diusulkan berlawanan arah dengan tujuan terapeutik.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Tinjauan Cepat
 
-Atosiban is a competitive antagonist of the oxytocin (OT) receptor and the vasopressin V1b receptor. Clinically, it suppresses uterine contractions by blocking OT receptors in the myometrium, making it the standard pharmacological option for threatened preterm labour. Detailed mechanism of action data from DrugBank was not retrieved in this evidence pack (DrugBank ID unavailable), but its pharmacological class is well-established in clinical practice.
-
-The TxGNN prediction for primary hereditary glaucoma most likely derives from the known presence of OT receptors in the trabecular meshwork of the anterior eye. Some basic research suggests that endogenous OT may facilitate aqueous humour outflow, potentially contributing to intraocular pressure (IOP) regulation. Primary hereditary glaucoma — driven by mutations in genes such as MYOC and CYP1B1 — involves progressive optic nerve damage caused by chronically elevated IOP.
-
-**However, a critical mechanistic contradiction undermines this prediction.** Atosiban *blocks* OT/OTR signalling, which would theoretically *impair* aqueous outflow and *raise* IOP — the exact opposite of what glaucoma treatment requires. Furthermore, hereditary glaucoma is a monogenic, structurally driven disease with no established direct link to OT signalling pathways. This prediction most likely reflects a graph-proximity artefact within the TxGNN knowledge graph (shared OTR-network nodes), rather than a genuine therapeutic opportunity.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for Atosiban in primary hereditary glaucoma.
+| Item | Konten |
+|------|--------|
+| Indikasi Asli | Penghambatan persalinan praterm (tokolisis) |
+| Indikasi Baru yang Diprediksi | Glaukoma Herediter Primer |
+| Skor Prediksi TxGNN | 99.92% |
+| Tingkat Bukti | L5 |
+| Status Pasar Malaysia | ✓ Dipasarkan |
+| Jumlah Pendaftaran | 2 |
+| Keputusan yang Direkomendasikan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Prediksi Ini Masuk Akal?
 
-Currently no related literature available for Atosiban in primary hereditary glaucoma.
+Atosiban adalah penghambat kompetitif reseptor oksitosin (OT) dan reseptor V1b vasopresin. Secara klinis, ia menekan kontraksi uterus dengan memblokir reseptor OT di miometrium, menjadikannya pilihan farmakologi standar untuk persalinan praterm yang terancam. Data mekanisme aksi terperinci dari DrugBank tidak diambil dalam paket bukti ini (DrugBank ID tidak tersedia), namun kelas farmakologinya sudah mapan dalam praktik klinis.
 
----
+Prediksi TxGNN untuk glaukoma herediter primer kemungkinan besar berasal dari kehadiran reseptor OT yang diketahui di jala trabekula mata anterior. Beberapa penelitian dasar menyarankan bahwa OT endogen dapat memfasilitasi aliran humor akuos, berpotensi berkontribusi pada regulasi tekanan intraokular (IOP). Glaukoma herediter primer — didorong oleh mutasi pada gen seperti MYOC dan CYP1B1 — melibatkan kerusakan saraf optik progresif yang disebabkan oleh IOP yang kronis meningkat.
 
-## Malaysia Market Information
-
-Atosiban holds **2 registrations** in Malaysia with a current market status of **Marketed**. Registration details — including authorization numbers, product names, dosage forms, and approved indication texts — were not retrieved in this data pack. These should be verified directly through the National Pharmaceutical Regulatory Agency (NPRA) database before any further regulatory assessment.
+**Namun, kontradiksi mekanistik yang kritis melemahkan prediksi ini.** Atosiban *memblokir* pensinyalan OT/OTR, yang secara teoretis akan *mengganggu* aliran keluar akuos dan *meningkatkan* IOP — kebalikan dari yang dibutuhkan pengobatan glaukoma. Lebih lanjut, glaukoma herediter adalah penyakit monogenik yang didorong struktur tanpa hubungan langsung yang terbentuk dengan jalur pensinyalan OT. Prediksi ini kemungkinan besar mencerminkan artefak kedekatan grafik dalam grafik pengetahuan TxGNN (simpul jaringan OTR bersama), bukan peluang terapeutik yang nyata.
 
 ---
 
-## Safety Considerations
+## Bukti Uji Klinis
 
-Please refer to the package insert for safety information.
-
-> ⚠️ **Note:** Both key warnings and contraindications are currently flagged as blocking-level data gaps in this evidence pack. NPRA/TFDA package insert retrieval is required before any safety assessment can proceed.
+Saat ini tidak ada uji klinis terkait yang terdaftar untuk Atosiban dalam glaukoma herediter primer.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Hold**
+Saat ini tidak ada literatur terkait yang tersedia untuk Atosiban dalam glaukoma herediter primer.
 
-**Rationale:**
-Evidence for this indication is at L5 (model prediction only), with zero supporting clinical trials or peer-reviewed literature. More critically, Atosiban's core mechanism — OT receptor *antagonism* — is directionally opposed to the therapeutic goal in primary hereditary glaucoma, where OT *agonism* would be needed to promote aqueous outflow and reduce IOP. This same mechanistic contradiction was identified across **all 10 of the top predicted indications** reviewed in this pack:
+---
 
-| Indication | Contradiction |
+## Informasi Pasar Malaysia
+
+Atosiban memiliki **2 pendaftaran** di Malaysia dengan status pasar saat ini **Dipasarkan**. Detail pendaftaran — termasuk nomor otorisasi, nama produk, bentuk dosis, dan teks indikasi yang disetujui — tidak diambil dalam paket data ini. Ini harus diverifikasi langsung melalui basis data Badan Regulasi Farmasi Nasional (NPRA) sebelum penilaian regulasi lebih lanjut.
+
+---
+
+## Pertimbangan Keselamatan
+
+Silakan lihat sisipan kemasan untuk informasi keselamatan.
+
+> ⚠️ **Catatan:** Baik peringatan kunci maupun kontraindikasi saat ini ditandai sebagai celah data level pemblokiran dalam paket bukti ini. Pengambilan sisipan kemasan NPRA/TFDA diperlukan sebelum penilaian keselamatan apa pun dapat dilanjutkan.
+
+---
+
+## Kesimpulan dan Langkah Selanjutnya
+
+**Keputusan: Tahan**
+
+**Alasan:**
+Bukti untuk indikasi ini berada pada L5 (prediksi model saja), tanpa uji klinis pendukung atau literatur peer-review. Lebih kritis, mekanisme inti Atosiban — *antagonisme* reseptor OT — berlawanan arah dengan tujuan terapeutik dalam glaukoma herediter primer, di mana *agonis* OT akan diperlukan untuk mempromosikan aliran akuos keluar dan mengurangi IOP. Kontradiksi mekanistik yang sama ini diidentifikasi di seluruh **semua 10 indikasi teratas yang diprediksi** yang ditinjau dalam paket ini:
+
+| Indikasi | Kontradiksi |
 |---|---|
-| Primary hereditary glaucoma | OT blocks outflow → raises IOP |
-| Open-angle glaucoma | Same as above |
-| Alopecia / Hypotrichosis variants | OT promotes hair follicle growth cycle; antagonist may worsen |
-| Diffuse alopecia areata | OT has anti-inflammatory/immune-modulatory role; antagonist is counterproductive |
-| Vascular disease | All 17 retrieved literature papers document OT *agonist* cardioprotection; Atosiban blocks this pathway |
-| Thoracic outlet syndromes (venous/arterial) | Anatomical/structural disease; no OT pathway relevance |
-| Visceral calciphylaxis | Calcium-phosphate vascular disease; no OT pathway relevance |
+| Glaukoma herediter primer | OT memblokir aliran keluar → meningkatkan IOP |
+| Glaukoma sudut terbuka | Sama seperti di atas |
+| Alopecia / Varian hipotrikosis | OT mempromosikan siklus pertumbuhan folikel rambut; antagonis mungkin memperburuk |
+| Alopecia areata yang tersebar | OT memiliki peran anti-inflamasi/imunomodulator; antagonis tidak produktif |
+| Penyakit vaskular | Semua 17 makalah literatur yang diambil mendokumentasikan kardioproteksi *agonis* OT; Atosiban memblokir jalur ini |
+| Sindrom outlet toraks (vena/arteri) | Penyakit anatomis/struktural; tidak ada relevansi jalur OT |
+| Kalsifiaksi vaskular | Penyakit kalsium-fosfat vaskular; tidak ada relevansi jalur OT |
 
-The single clinical trial retrieved (NCT03570294, linked to venous thoracic outlet syndrome) was correctly identified as a data-mapping error — it is an Atosiban tocolysis safety study with no relevance to the listed indication.
+Uji klinis tunggal yang diambil (NCT03570294, terkait dengan sindrom outlet toraks vena) dengan benar diidentifikasi sebagai kesalahan pemetaan data — ini adalah studi keselamatan tokolisis Atosiban tanpa relevansi dengan indikasi yang terdaftar.
 
-**To proceed, the following is needed:**
+**Untuk melanjutkan, berikut yang diperlukan:**
 
-- Retrieve NPRA registration details for Atosiban (authorization numbers, product names, dosage forms, and approved indications) from the NPRA database
-- Obtain full mechanism of action and safety profile from DrugBank (DrugBank ID is currently unavailable)
-- Download and parse the TFDA/NPRA package insert to address the blocking-level safety data gap (warnings and contraindications)
-- Conduct a hypothesis-driven literature search specifically investigating whether OT receptor *antagonism* — not agonism — could have any IOP-lowering or neuroprotective effect in glaucoma models
-- Consider evaluating OT *agonists* (rather than Atosiban) as more mechanistically rational repurposing candidates for glaucoma, cardioprotection, or alopecia indications, where the existing evidence base points in that direction
+- Ambil detail pendaftaran NPRA untuk Atosiban (nomor otorisasi, nama produk, bentuk dosis, dan indikasi yang disetujui) dari basis data NPRA
+- Dapatkan profil mekanisme aksi lengkap dan keselamatan dari DrugBank (DrugBank ID saat ini tidak tersedia)
+- Unduh dan analisis sisipan kemasan TFDA/NPRA untuk mengatasi celah data level pemblokiran keselamatan (peringatan dan kontraindikasi)
+- Lakukan pencarian literatur yang didorong hipotesis secara khusus menyelidiki apakah *antagonisme* reseptor OT — bukan agonis — dapat memiliki efek penurun IOP atau neuroprotektif dalam model glaukoma
+- Pertimbangkan untuk mengevaluasi *agonis* OT (bukan Atosiban) sebagai kandidat repurposing yang lebih rasional secara mekanistik untuk indikasi glaukoma, kardioproteksi, atau alopecia, di mana basis bukti yang ada menunjuk ke arah itu
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

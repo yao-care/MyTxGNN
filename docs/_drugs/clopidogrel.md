@@ -29,79 +29,80 @@ Tahap bukti: **L5** | Indikasi diramal: **8**
 
 </div>
 
-# Clopidogrel: From Antiplatelet Therapy to Migraine with Brainstem Aura
+# Clopidogrel: Dari Terapi Antiplatelet kepada Migrain dengan Aura Batang Otak
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-> Clopidogrel is a P2Y12 receptor antagonist used as an antiplatelet agent; its specific TFDA-approved indication text was not captured in this evidence pack.
-> The TxGNN model predicts it may be effective for **Migraine with Brainstem Aura**,
-> but currently **0 clinical trials** and **0 publications** support this direction — the prediction rests on model score alone.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not captured in this evidence pack — all TFDA licence indication texts were blank (structured extraction still pending) |
-| Predicted New Indication | Migraine with brainstem aura |
-| TxGNN Prediction Score | 99.44% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 23 |
-| Recommended Decision | Hold |
+> Clopidogrel ialah antagonis reseptor P2Y12 yang digunakan sebagai agen antiplatelet; teks indikasi yang diluluskan TFDA khusus tidak ditangkap dalam pakej bukti ini.
+> Model TxGNN meramalkan ia mungkin berkesan untuk **Migrain dengan Aura Batang Otak**,
+> tetapi pada masa kini **0 ujian klinikal** dan **0 penerbitan** menyokong arah ini — ramalan terletak pada skor model sahaja.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Tinjauan Pantas
 
-Detailed structured mechanism-of-action data (DrugBank) was not available in this pack. Based on the mechanistic rationale accompanying the TxGNN prediction, clopidogrel is a P2Y12 receptor antagonist that inhibits platelet activation and aggregation — its established pharmacology is antiplatelet/antithrombotic action.
-
-Migraine pathophysiology, particularly the aura component, involves cortical spreading depression and hypotheses around vascular endothelial and platelet activation. On this basis, there is a theoretical rationale for antiplatelet agents to influence attack frequency (e.g., prior observational interest in antiplatelet therapy for PFO-associated migraine). However, this link is indirect and non-causal — the evidence pack's own rationale explicitly notes it is "a theoretical inference without direct mechanistic evidence" specific to the brainstem-aura subtype.
-
-Given the high TxGNN score (99.44%) but complete absence of clinical trial or literature support, the mechanistic plausibility should be treated as a hypothesis-generating signal only, not as validated pharmacological rationale.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Butiran | Kandungan |
+|--------|----------|
+| Indikasi Asal | Tidak ditangkap dalam pakej bukti ini — semua teks indikasi lesen TFDA adalah kosong (pengekstrakan tersusun masih menunggu) |
+| Indikasi Baru yang Diramalkan | Migrain dengan aura batang otak |
+| Skor Ramalan TxGNN | 99.44% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 23 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available.
+Data mekanisme tindakan tersusun terperinci (DrugBank) tidak tersedia dalam pakej ini. Berdasarkan rasional mekanistik yang mengiringi ramalan TxGNN, clopidogrel ialah antagonis reseptor P2Y12 yang menghalang pengaktifan dan pengumpulan platelet — farmakolojinya yang terkenal ialah tindakan antiplatelet/antitrombolik.
 
----
+Patofisiologi migrain, khususnya komponen aura, melibatkan penyebaran kemuluran korteks dan hipotesis di sekitar pengaktifan endotel vaskular dan platelet. Atas dasar ini, terdapat rasional teori bagi agen antiplatelet untuk mempengaruhi frekuensi serangan (cth., minat pemerhatian sebelumnya dalam terapi antiplatelet untuk migrain yang berkaitan PFO). Bagaimanapun, pautan ini tidak langsung dan bukan kausal — rasional pakej bukti sendiri secara jelas menyatakan ia adalah "kesimpulan teori tanpa bukti mekanistik langsung" khusus untuk subtip aura batang otak.
 
-## Malaysia Market Information
-
-Clopidogrel is registered in Malaysia with 23 total licences and an active ("Marketed") market status. However, licence-level details (registration number, product name, dosage form, approved indication text) were not populated in this evidence pack extract and require follow-up retrieval from the NPRA source.
+Memandangkan skor TxGNN yang tinggi (99.44%) tetapi ketiadaan lengkap sokongan ujian klinikal atau literatur, kebolehterangani mekanistik harus diperlakukan sebagai isyarat penjanaan hipotesis sahaja, bukan sebagai rasional farmakolojikal yang disahkan.
 
 ---
 
-## Safety Considerations
+## Bukti Ujian Klinikal
 
-Please refer to the package insert for safety information.
-
-*(A blocking data gap — TFDA label warnings/contraindications not yet retrieved — prevents a full safety assessment; see Next Steps.)*
+Pada masa kini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Hold**
+Pada masa kini tiada literatur berkaitan yang tersedia.
 
-**Rationale:**
-All 8 TxGNN-predicted indications for clopidogrel (including the top-ranked migraine with brainstem aura, score 99.44%) are Evidence Level L5 with zero supporting clinical trials or literature — the signal is model-prediction-only. In addition, a **blocking** data gap on TFDA label warnings/contraindications (DG001) prevents any safety pre-assessment (S1 stage), so no repurposing decision can proceed regardless of prediction strength.
+---
 
-**To proceed, the following is needed:**
-- Retrieve and parse the TFDA package insert (warnings, contraindications) — DG001, blocking
-- Retrieve structured DrugBank MOA data — DG002
-- Populate licence-level product/indication details for the 23 Malaysia registrations (currently all blank)
-- Re-run clinical trial / literature searches periodically — current searches (as of 2026-03-27) returned zero hits across all 8 predicted indications
-- If pursuing further, prioritize rheumatoid arthritis (rank 7) for mechanistic follow-up, as its rationale (platelet involvement in synovial inflammation) is comparatively stronger than the other candidates, despite currently having no trial or literature support
+## Maklumat Pasaran Malaysia
+
+Clopidogrel didaftarkan di Malaysia dengan 23 jumlah lesen keseluruhan dan status pasaran aktif ("Dipasarkan"). Bagaimanapun, perincian peringkat lesen (nombor pendaftaran, nama produk, bentuk dos, teks indikasi yang diluluskan) tidak diisi dalam ekstrak pakej bukti ini dan memerlukan pengambilan susulan daripada sumber NPRA.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk risalah produk untuk maklumat keselamatan.
+
+*(Jurang data **penghalang** — amaran label TFDA/kontraindikasi tidak lagi diambil — menghalang penilaian keselamatan penuh; lihat Langkah Seterusnya.)*
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Semua 8 indikasi yang diramalkan TxGNN untuk clopidogrel (termasuk migrain berpangkat tertinggi dengan aura batang otak, skor 99.44%) adalah Tahap Bukti L5 dengan sokongan ujian klinikal atau literatur sifar — isyarat adalah ramalan model sahaja. Selain itu, sebuah jurang data **penghalang** pada amaran dan kontraindikasi label TFDA (DG001) menghalang sebarang pra-penilaian keselamatan (peringkat S1), jadi tiada keputusan penjalinan semula ubat dapat diteruskan tanpa mengira kekuatan ramalan.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Ambil dan analisis risalah produk TFDA (amaran, kontraindikasi) — DG001, **penghalang**
+- Ambil data MOA DrugBank tersusun — DG002
+- Isi perincian produk/indikasi peringkat lesen untuk 23 pendaftaran Malaysia (pada masa kini semua kosong)
+- Jalankan semula carian ujian klinikal / literatur secara berkala — carian semasa (selepas 2026-03-27) mengembalikan sifar hit merentas semua 8 indikasi yang diramalkan
+- Jika meneruskan lebih lanjut, utamakan artritis reumatoid (peringkat 7) untuk susulan dari segi mekanisme, kerana rasionalnya (penglibatan platelet dalam keradangan sinovial) adalah relatifnya lebih kuat berbanding dengan calon lain, walaupun pada masa kini tiada ujian atau sokongan literatur
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

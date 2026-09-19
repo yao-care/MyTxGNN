@@ -29,110 +29,111 @@ Tahap bukti: **L2** | Indikasi diramal: **4**
 
 </div>
 
-# Epinephrine: From Anaphylaxis and Emergency Use to Obstructive Lung Disease
+# Epinephrine: Daripada Anafilaksis dan Penggunaan Kecemasan kepada Penyakit Paru Obstruktif
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Epinephrine already holds approved emergency-use indications, including anaphylaxis (per the evidence pack's repurposing rationale; formal NPRA license indication text is a data gap in this dataset). The TxGNN model predicts it may also be effective for **Obstructive Lung Disease**, with **50 clinical trials** and **20 publications** currently associated with this direction — though only a small subset directly test epinephrine itself, mostly in pediatric acute bronchospasm/bronchiolitis rather than chronic COPD maintenance.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not specified in current NPRA license data (Blocking Data Gap DG001); evidence pack references approved use in anaphylaxis and other emergency indications |
-| Predicted New Indication | Obstructive Lung Disease |
-| TxGNN Prediction Score | 99.71% |
-| Evidence Level | L2 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 11 |
-| Recommended Decision | Proceed with Guardrails |
+Epinephrine sudah mempunyai petunjuk penggunaan kecemasan yang diluluskan, termasuk anafilaksis (mengikut rasional penyusunan semula penggunaan dalam bungkus bukti; teks petunjuk lesen NPRA formal adalah jurang data dalam dataset ini). Model TxGNN meramalkan ia juga mungkin berkesan untuk **Penyakit Paru Obstruktif**, dengan **50 percubaan klinikal** dan **20 publikasi** yang sedang dikaitkan dengan arah ini — walaupun hanya subset kecil yang secara langsung menguji epinephrine itu sendiri, kebanyakannya dalam bronkospasma akut pediatrik/bronkiolitis daripada penyelenggaraan COPD kronik.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Pantas
 
-Currently, detailed mechanism of action data for this candidate is not available (High-severity Data Gap DG002). Based on the mechanistic rationale captured in the evidence pack itself, epinephrine's **β2-adrenergic agonism produces bronchodilation**, while its **α1-adrenergic agonism reduces mucosal/airway edema** — mechanisms that already underpin its standard emergency use in croup, bronchiolitis, and acute airway obstruction.
-
-The evidence pack notes that epinephrine already carries approved indications for anaphylaxis and related emergencies. Obstructive lung disease — as represented in the collected evidence, largely acute bronchospasm, bronchiolitis, and croup-related airway obstruction in infants/children — shares overlapping emergency pathophysiology with anaphylaxis: both involve rapid catecholamine-mediated reversal of airway compromise.
-
-However, the evidence base is uneven. Most trials returned under this disease label test **other drug classes** (corticosteroids, benralizumab, magnesium sulfate) in the same disease area rather than epinephrine itself, and none directly address chronic COPD or asthma maintenance therapy. Only a handful of trials — mostly Phase 1–4 studies of inhaled epinephrine (E004/HFA-MDI) or nebulized/IM epinephrine in pediatric bronchiolitis and acute asthma exacerbation — directly test the drug.
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Tidak dinyatakan dalam data lesen NPRA semasa (Jurang Data Penghalang DG001); bungkus bukti merujuk penggunaan diluluskan dalam anafilaksis dan petunjuk kecemasan lain |
+| Petunjuk Baru yang Diramalkan | Penyakit Paru Obstruktif |
+| Skor Ramalan TxGNN | 99.71% |
+| Tahap Bukti | L2 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 11 |
+| Keputusan yang Disyorkan | Teruskan dengan Perlindungan |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Pada masa ini, data mekanisme tindakan terperinci untuk calon ini tidak tersedia (Jurang Data Keterukan Tinggi DG002). Berdasarkan rasional mekanistik yang ditangkap dalam bungkus bukti itu sendiri, **agonisme β2-adrenergik** epinephrine menghasilkan pelebaran bronkus, manakala **agonisme α1-adrenergik** mengurangkan edema mukosa/saluran udara — mekanisme yang sudah mendasari penggunaan kecemasnnya yang piawai dalam croup, bronkiolitis, dan penyumbatan saluran udara akut.
+
+Bungkus bukti mencatatkan bahawa epinephrine sudah membawa petunjuk yang diluluskan untuk anafilaksis dan kecemasan berkaitan. Penyakit paru obstruktif — seperti yang diwakili dalam bukti yang dikumpul, kebanyakannya bronkospasma akut, bronkiolitis, dan penyumbatan saluran udara berkaitan croup pada bayi/anak-anak — berkongsi patofisiologi kecemasan yang bertindih dengan anafilaksis: kedua-duanya melibatkan pembalikan cepat yang dimediasi katekolamin terhadap kompromi saluran udara.
+
+Walau bagaimanapun, asas bukti tidak sekata. Kebanyakan percubaan yang dikembalikan di bawah label penyakit ini menguji **kelas ubat lain** (kortikosteroid, benralizumab, magnesium sulfat) di kawasan penyakit yang sama daripada epinephrine itu sendiri, dan tidak ada yang secara langsung menangani penyelenggaraan COPD kronik atau asma. Hanya segelintir percubaan — kebanyakannya kajian Fasa 1–4 epinephrine terhembus (E004/HFA-MDI) atau epinephrine bercapur/IM dalam bronkiolitis pediatrik dan ketajaman asma akut — yang secara langsung menguji ubat itu.
+
+---
+
+## Bukti Percubaan Klinikal
+
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT01143051](https://clinicaltrials.gov/study/NCT01143051) | Phase 1/2 | Completed | 24 | Pharmacokinetics/safety of Epinephrine Inhalation Aerosol USP (E004, HFA-MDI) in healthy adults |
-| [NCT01737892](https://clinicaltrials.gov/study/NCT01737892) | Phase 1/2 | Terminated | 21 | PK study of E004 using deuterium-labeled epinephrine-d3 to distinguish drug from endogenous epinephrine |
-| [NCT01737905](https://clinicaltrials.gov/study/NCT01737905) | Phase 3 | Completed | 28 | Randomized, double-blind, placebo-controlled, crossover single-dose study of E004 in children 4–11 with asthma |
-| [NCT04207840](https://clinicaltrials.gov/study/NCT04207840) | Phase 4 | Completed | 28 | Compared systemic drug exposure: Primatene Mist (inhaled) vs. IM epinephrine injection vs. ProAir HFA (inhaled) in healthy adults |
-| [NCT01705964](https://clinicaltrials.gov/study/NCT01705964) | Phase 4 | Completed | 49 | IM epinephrine as adjunct to inhaled β2-agonist bronchodilators for severe pediatric asthma exacerbation |
-| [NCT02586961](https://clinicaltrials.gov/study/NCT02586961) | Phase 2/3 | Terminated | 195 | Nebulized adrenaline + oral betamethasone vs. standard care for acute bronchiolitis in the ED |
-| [NCT02585531](https://clinicaltrials.gov/study/NCT02585531) | Phase 2 | Unknown | 100 | Epinephrine, dexamethasone, and hypertonic saline combinations in children with bronchiolitis |
-| [NCT00114478](https://clinicaltrials.gov/study/NCT00114478) | N/A | Unknown | 600 | RCT comparing epinephrine vs. albuterol nebulization for bronchiolitis |
-| [NCT00817466](https://clinicaltrials.gov/study/NCT00817466) | Phase 4 | Unknown | 500 | Optimal inhalation treatment (racemic epinephrine as one comparator) for infants 0–12 months with acute bronchiolitis |
-| [NCT00435994](https://clinicaltrials.gov/study/NCT00435994) | N/A | Completed | 59 | Compared aerosol medications (including epinephrine) for airway obstruction in infants with lower respiratory infection |
+| [NCT01143051](https://clinicaltrials.gov/study/NCT01143051) | Fasa 1/2 | Selesai | 24 | Farmakokinetik/keselamatan Epinephrine Inhalation Aerosol USP (E004, HFA-MDI) pada orang dewasa sihat |
+| [NCT01737892](https://clinicaltrials.gov/study/NCT01737892) | Fasa 1/2 | Ditamatkan | 21 | Kajian PK E004 menggunakan epinephrine-d3 berlabel deuterium untuk membezakan ubat daripada epinephrine endogen |
+| [NCT01737905](https://clinicaltrials.gov/study/NCT01737905) | Fasa 3 | Selesai | 28 | Rawak, buta ganda, dikawal plasebo, kajian satu dos silang E004 pada anak-anak 4–11 dengan asma |
+| [NCT04207840](https://clinicaltrials.gov/study/NCT04207840) | Fasa 4 | Selesai | 28 | Membandingkan pendedahan ubat sistematik: Primatene Mist (terhembus) vs. injeksi epinephrine IM vs. ProAir HFA (terhembus) pada orang dewasa sihat |
+| [NCT01705964](https://clinicaltrials.gov/study/NCT01705964) | Fasa 4 | Selesai | 49 | Epinephrine IM sebagai tambahan kepada bronkodilator β2-agonis terhembus untuk ketajaman asma pediatrik teruk |
+| [NCT02586961](https://clinicaltrials.gov/study/NCT02586961) | Fasa 2/3 | Ditamatkan | 195 | Adrenalin bercapur + betametasone oral vs. penjagaan piawai untuk bronkiolitis akut di ED |
+| [NCT02585531](https://clinicaltrials.gov/study/NCT02585531) | Fasa 2 | Tidak diketahui | 100 | Kombinasi epinephrine, deksametasone, dan larutan garam hipertonik pada anak-anak dengan bronkiolitis |
+| [NCT00114478](https://clinicaltrials.gov/study/NCT00114478) | T/A | Tidak diketahui | 600 | RCT membandingkan nebulisasi epinephrine vs. albuterol untuk bronkiolitis |
+| [NCT00817466](https://clinicaltrials.gov/study/NCT00817466) | Fasa 4 | Tidak diketahui | 500 | Rawatan inhalasi optimum (adrenalin rasemik sebagai satu pembanding) untuk bayi 0–12 bulan dengan bronkiolitis akut |
+| [NCT00435994](https://clinicaltrials.gov/study/NCT00435994) | T/A | Selesai | 59 | Membandingkan ubat aerosol (termasuk epinephrine) untuk penyumbatan saluran udara pada bayi dengan jangkitan saluran pernafasan bawah |
 
-*40 additional trials in the dataset were graded as low-relevance (different drug classes) or ungraded/pending and are omitted here for focus.*
+*40 percubaan tambahan dalam dataset telah dinilai sebagai relevan rendah (kelas ubat berbeza) atau tidak dinilai/tertangguh dan diabaikan di sini untuk fokus.*
 
 ---
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [34593615](https://pubmed.ncbi.nlm.nih.gov/34593615/) | 2022 | Systematic Review | Thorax | Guidelines generally recommend against epinephrine in acute asthma except for anaphylaxis/angioedema, though IM epinephrine plus nebulized β2-agonist is used in many prehospital severe-asthma protocols |
-| [21678340](https://pubmed.ncbi.nlm.nih.gov/21678340/) | 2011 | Cochrane Review | Cochrane Database Syst Rev | Systematic review of bronchodilators, including epinephrine, for acute bronchiolitis; overall effectiveness remains uncertain |
-| [14974006](https://pubmed.ncbi.nlm.nih.gov/14974006/) | 2004 | Cochrane Review | Cochrane Database Syst Rev | Earlier Cochrane review of epinephrine for bronchiolitis; modest short-term benefit noted in mild-moderate cases |
-| [30488718](https://pubmed.ncbi.nlm.nih.gov/30488718/) | 2019 | Review | Expert Rev Respir Med | Reviews role of racemic epinephrine, corticosteroids, hypertonic saline, and high-flow oxygen in pediatric bronchiolitis |
-| [19135584](https://pubmed.ncbi.nlm.nih.gov/19135584/) | 2009 | Review | Pediatr Clin North Am | Nebulized adrenaline provides temporary symptomatic benefit in croup and acute bronchiolitis |
-| [21486501](https://pubmed.ncbi.nlm.nih.gov/21486501/) | 2011 | Review | BMJ Clin Evid | Overview of bronchiolitis, the most common lower respiratory tract infection in infants |
-| [4606289](https://pubmed.ncbi.nlm.nih.gov/4606289/) | 1974 | Pharmacology Study | Clin Pharmacol Ther | Directly compares bronchodilator effects of terbutaline and epinephrine in obstructive lung disease |
-| [6777857](https://pubmed.ncbi.nlm.nih.gov/6777857/) | 1980 | Cohort (mechanistic) | Scand J Clin Lab Invest | Elevated plasma noradrenaline in chronic obstructive lung disease patients, inversely correlated with arterial oxygen saturation |
-| [19450362](https://pubmed.ncbi.nlm.nih.gov/19450362/) | 2007 | Review | BMJ Clin Evid | Earlier review edition on management of infant bronchiolitis |
-| [6417212](https://pubmed.ncbi.nlm.nih.gov/6417212/) | 1983 | Review | J Allergy Clin Immunol | Overview of childhood asthma pathophysiology and airway hyperresponsiveness mechanisms |
+| [34593615](https://pubmed.ncbi.nlm.nih.gov/34593615/) | 2022 | Tinjauan Sistematik | Thorax | Garis panduan secara amnya tidak mengesyorkan epinephrine dalam asma akut kecuali untuk anafilaksis/angioedema, walaupun epinephrine IM ditambah agonis β2 terhembus digunakan dalam banyak protokol asma teruk prapospital |
+| [21678340](https://pubmed.ncbi.nlm.nih.gov/21678340/) | 2011 | Tinjauan Cochrane | Cochrane Database Syst Rev | Tinjauan sistematik bronkodilator, termasuk epinephrine, untuk bronkiolitis akut; keberkesanan keseluruhan kekal tidak pasti |
+| [14974006](https://pubmed.ncbi.nlm.nih.gov/14974006/) | 2004 | Tinjauan Cochrane | Cochrane Database Syst Rev | Tinjauan Cochrane terdahulu epinephrine untuk bronkiolitis; manfaat jangka pendek sederhana diperhatikan dalam kes ringan-sederhana |
+| [30488718](https://pubmed.ncbi.nlm.nih.gov/30488718/) | 2019 | Ulasan | Expert Rev Respir Med | Mengulas peranan adrenalin rasemik, kortikosteroid, larutan garam hipertonik, dan oksigen aliran tinggi dalam bronkiolitis pediatrik |
+| [19135584](https://pubmed.ncbi.nlm.nih.gov/19135584/) | 2009 | Ulasan | Pediatr Clin North Am | Adrenalin bercapur memberikan manfaat gejala sementara dalam croup dan bronkiolitis akut |
+| [21486501](https://pubmed.ncbi.nlm.nih.gov/21486501/) | 2011 | Ulasan | BMJ Clin Evid | Gambaran keseluruhan bronkiolitis, jangkitan saluran pernafasan bawah yang paling biasa pada bayi |
+| [4606289](https://pubmed.ncbi.nlm.nih.gov/4606289/) | 1974 | Kajian Farmakoloji | Clin Pharmacol Ther | Membandingkan secara langsung kesan bronkodilator terbutalin dan epinephrine dalam penyakit paru obstruktif |
+| [6777857](https://pubmed.ncbi.nlm.nih.gov/6777857/) | 1980 | Kohort (mekanistik) | Scand J Clin Lab Invest | Noradrenalin plasma yang dinaikkan pada pesakit penyakit paru obstruktif kronik, berkorelasi songsang dengan ketepuan oksigen arteri |
+| [19450362](https://pubmed.ncbi.nlm.nih.gov/19450362/) | 2007 | Ulasan | BMJ Clin Evid | Edisi tinjauan terdahulu mengenai pengurusan bronkiolitis bayi |
+| [6417212](https://pubmed.ncbi.nlm.nih.gov/6417212/) | 1983 | Ulasan | J Allergy Clin Immunol | Gambaran keseluruhan patofisiologi asma kanak-kanak dan mekanisme hipereresponsiviti saluran udara |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-NPRA registration confirms **marketed status** with **11 active licenses** for epinephrine in Malaysia. Detailed license-level data (authorization numbers, product names, dosage forms, and approved indication text) was not returned in this data pull — this is tracked as Blocking Data Gap **DG001** and needs to be remediated by downloading and parsing the product inserts from the NPRA website before this candidate can proceed to safety evaluation (S1).
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information. Key warnings, contraindications, and drug-drug interaction data were not available in this evidence pack (query status: not found).
+Pendaftaran NPRA mengesahkan **status dipasarkan** dengan **11 lesen aktif** untuk epinephrine di Malaysia. Data tahap lesen terperinci (nombor kebenaran, nama produk, bentuk dos, dan teks petunjuk yang diluluskan) tidak dikembalikan dalam seni tarik data ini — ini dijejak sebagai **Jurang Data Penghalang DG001** dan perlu diperbaharui dengan memuat turun dan menguraikan sisipan produk dari laman web NPRA sebelum calon ini dapat meneruskan ke penilaian keselamatan (S1).
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Proceed with Guardrails**
-
-**Rationale:**
-The evidence level is L2, anchored by a completed Phase 3 crossover trial of inhaled epinephrine (E004) in pediatric asthma plus multiple systematic/Cochrane reviews, but the supporting evidence predominantly covers **acute pediatric bronchospasm and bronchiolitis**, not chronic COPD/asthma maintenance — a mismatch with the broad "obstructive lung disease" label that warrants clinical scoping before advancing further.
-
-**To proceed, the following is needed:**
-- NPRA product insert warnings/contraindications (Blocking Data Gap DG001)
-- Mechanism of action confirmation from DrugBank (High Data Gap DG002)
-- Clarification of the target population/route (acute pediatric bronchiolitis vs. adult chronic obstructive disease) before defining a specific repurposing claim
-- Malaysia license-level detail (product names, dosage forms, approved indication text) currently missing from the registry pull
+Sila rujuk sisipan pakej untuk maklumat keselamatan. Data amaran utama, kontraindikasi, dan interaksi ubat-ubat tidak tersedia dalam bungkus bukti ini (status pertanyaan: tidak ditemui).
 
 ---
 
-## Other Candidate Indications in This Evidence Pack
+## Kesimpulan dan Langkah Seterusnya
 
-This evidence pack (`TW-DB00668-multi`) contains three additional TxGNN-predicted indications for epinephrine, summarized here for completeness rather than as full reports:
+**Keputusan: Teruskan dengan Perlindungan**
 
-| Disease | TxGNN Score | Evidence Level | Decision | Note |
+**Rasional:**
+Tahap bukti adalah L2, dilabuhkan oleh percubaan silang fasa 3 yang selesai epinephrine terhembus (E004) dalam asma pediatrik ditambah beberapa tinjauan sistematik/Cochrane, tetapi bukti sokongan kebanyakannya meliputi **bronkospasma akut pediatrik dan bronkiolitis**, bukan penyelenggaraan COPD/asma kronik — ketidakpadanan dengan label "penyakit paru obstruktif" yang luas yang memerlukan skop klinikal sebelum maju lebih jauh.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Amaran sisipan produk NPRA/kontraindikasi (Jurang Data Penghalang DG001)
+- Pengesahan mekanisme tindakan daripada DrugBank (Jurang Data Tinggi DG002)
+- Penjelasan populasi sasaran/laluan (bronkiolitis akut pediatrik vs. penyakit obstruktif kronik dewasa) sebelum menentukan tuntutan penyusunan semula penggunaan khusus
+- Perincian tahap lesen Malaysia (nama produk, bentuk dos, teks petunjuk yang diluluskan) kini hilang daripada seni tarik pendaftaran
+
+---
+
+## Petunjuk Calon Lain dalam Bungkus Bukti Ini
+
+Bungkus bukti ini (`TW-DB00668-multi`) mengandungi tiga petunjuk yang diramalkan TxGNN tambahan untuk epinephrine, diringkaskan di sini untuk kelengkapan daripada sebagai laporan penuh:
+
+| Penyakit | Skor TxGNN | Tahap Bukti | Keputusan | Catatan |
 |---------|------------|-----------------|----------|------|
-| Food-dependent exercise-induced anaphylaxis | 99.57% | L3 | Proceed with Guardrails | Extension of epinephrine's existing anaphylaxis indication to a specific trigger subtype (physical exertion + food); 20 supporting publications but no dedicated clinical trials |
-| Rienhoff syndrome | 99.57% | L5 | Hold | No clinical trials or literature identified; a rare TGFBR2-related connective tissue disorder with no known mechanistic link to adrenergic agonism — likely a knowledge-graph false positive |
-| Respiratory malformation | 99.56% | L4 | Hold | Evidence mismatch: retrieved literature concerns croup/upper-airway obstruction, not structural malformation, and most trials are irrelevant noise; requires manual disease-label review before further scoring |
+| Anafilaksis yang diinduksi latihan bergantung makanan | 99.57% | L3 | Teruskan dengan Perlindungan | Sambungan petunjuk anafilaksis epinephrine yang sedia ada kepada subtip pencetus khusus (usaha fizikal + makanan); 20 publikasi sokongan tetapi tiada percubaan klinikal khusus |
+| Sindrom Rienhoff | 99.57% | L5 | Tahan | Tiada percubaan klinikal atau literatur yang dikenalpasti; gangguan jaringan penghubung terkait TGFBR2 yang jarang dengan tiada pautan mekanistik yang diketahui kepada agonisme adrenergik — kemungkinan positif palsu graf pengetahuan |
+| Malformasi Pernafasan | 99.56% | L4 | Tahan | Ketidakpadanan bukti: literatur yang diambil menyangkut croup/penyumbatan saluran udara atas, bukan malformasi struktur, dan kebanyakan percubaan adalah bunyi bising tidak relevan; memerlukan tinjauan label penyakit manual sebelum pemarkahan selanjutnya |
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

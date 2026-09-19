@@ -29,72 +29,73 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Lisinopril Dihydrate: Drug Repurposing Evaluation — Awaiting Complete Data
+# Lisinopril Dihydrate: Penilaian Ubat Baru dari Ubat Lama — Menunggu Data Lengkap
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Lisinopril dihydrate is a registered pharmaceutical product in Malaysia with 3 active market authorizations, confirmed by NPRA records.
-However, the current Evidence Pack is **critically incomplete**: no TxGNN repurposing predictions have been generated, and both the mechanism of action and approved indication details are absent.
-This report documents the current data state and outlines the mandatory steps before a full repurposing evaluation can proceed.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Not retrieved from current data |
-| Predicted New Indication | No predictions generated |
-| TxGNN Prediction Score | — |
-| Evidence Level | L5 (No predictions yet — model pipeline not yet run) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
-| Recommended Decision | **Hold** |
+Lisinopril dihydrate adalah produk farmaseutikal berdaftar di Malaysia dengan 3 kebenaran pemasaran aktif, disahkan oleh rekod NPRA.
+Walau bagaimanapun, Evidence Pack semasa adalah **amat tidak lengkap**: tiada ramalan ubat baru dari ubat lama TxGNN telah dijana, dan kedua-dua mekanisme tindakan dan butiran indikasi yang diluluskan tidak ada.
+Laporan ini mendokumentasikan keadaan data semasa dan menggariskan langkah-langkah wajib sebelum penilaian ubat baru dari ubat lama yang lengkap dapat diteruskan.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Ikhtisar Cepat
 
-No TxGNN repurposing predictions are currently available for lisinopril dihydrate. The query log confirms that DrugBank was queried successfully and returned 1 result, but the DrugBank ID was not populated in the dataset. Without a valid DrugBank ID, the knowledge graph (KG) and deep learning (DL) prediction pipelines cannot identify candidate new indications — this is the root cause of the empty `predicted_indications` field.
-
-The mechanism of action (MOA) is likewise flagged as a high-severity data gap. Without MOA information, it is impossible to assess whether lisinopril's pharmacological pathway is mechanistically relevant to any candidate indication, which is a prerequisite for any scientifically defensible repurposing claim.
-
-In addition, the 3 NPRA license records were retrieved in terms of count, but all structured fields (authorization numbers, product names, dosage forms, approved indications) are unpopulated, making it impossible to establish even the currently approved therapeutic scope in Malaysia. All substantive analysis is therefore deferred until these gaps are resolved.
-
----
-
-## Malaysia Market Information
-
-NPRA records confirm 3 active registrations for lisinopril dihydrate in Malaysia. Detailed license information was not captured in the current data pull and must be retrieved in the next cycle.
-
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|----------------------|--------------|-------------|---------------------|
-| Not retrieved | Not retrieved | Not retrieved | Not retrieved |
-| Not retrieved | Not retrieved | Not retrieved | Not retrieved |
-| Not retrieved | Not retrieved | Not retrieved | Not retrieved |
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Tidak diambil daripada data semasa |
+| Indikasi Baru yang Diramalkan | Tiada ramalan yang dijana |
+| Skor Ramalan TxGNN | — |
+| Tahap Bukti | L5 (Tiada ramalan lagi — saluran paip model belum dijalankan) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Jumlah Pendaftaran | 3 |
+| Keputusan yang Disyorkan | **Tahan** |
 
 ---
 
-## Safety Considerations
+## Mengapa Ramalan Ini Masuk Akal?
 
-Please refer to the package insert for complete safety information. Package insert warnings, contraindications, and drug interaction data were not retrieved in this cycle and are required before any safety screening can be performed.
+Tiada ramalan ubat baru dari ubat lama TxGNN yang tersedia bagi lisinopril dihydrate. Log pertanyaan mengesahkan bahawa DrugBank telah dipertanyakan dengan berjaya dan mengembalikan 1 hasil, tetapi ID DrugBank tidak diisi dalam set data. Tanpa ID DrugBank yang sah, saluran paip ramalan graf pengetahuan (KG) dan pembelajaran mendalam (DL) tidak dapat mengenal pasti calon indikasi baru — ini adalah punca utama medan `predicted_indications` yang kosong.
+
+Mekanisme tindakan (MOA) juga ditandai sebagai jurang data berat sebelah. Tanpa maklumat MOA, mustahil untuk menilai sama ada laluan farmakologi lisinopril relevan secara mekanis dengan sebarang indikasi calon, yang merupakan prasyarat untuk sebarang tuntutan ubat baru dari ubat lama yang dapat dipertahankan secara saintifik.
+
+Selain itu, 3 rekod lesen NPRA telah diambil dari segi jumlah, tetapi semua medan berstruktur (nombor kebenaran, nama produk, bentuk dos, indikasi yang diluluskan) tidak diisi, menjadikan mustahil untuk mewujudkan bahkan skop terapeutik yang diluluskan semasa di Malaysia. Semua analisis yang lebih penting ditangguhkan sehingga jurang-jurang ini diselesaikan.
 
 ---
 
-## Conclusion and Next Steps
+## Maklumat Pasaran Malaysia
 
-**Decision: Hold**
+Rekod NPRA mengesahkan 3 pendaftaran aktif untuk lisinopril dihydrate di Malaysia. Maklumat lesen terperinci tidak ditangkap dalam tarik data semasa dan mesti diambil dalam kitaran berikutnya.
 
-**Rationale:**
-The Evidence Pack is missing the two most critical inputs for a repurposing evaluation — TxGNN predictions and approved indication details — making it impossible to assess either the scientific plausibility or the regulatory landscape for any new indication at this time.
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
+|------------------|------------|-----------|------------------------|
+| Tidak diambil | Tidak diambil | Tidak diambil | Tidak diambil |
+| Tidak diambil | Tidak diambil | Tidak diambil | Tidak diambil |
+| Tidak diambil | Tidak diambil | Tidak diambil | Tidak diambil |
 
-**To proceed, the following is needed:**
+---
 
-- **[Blocking — DG001]** Retrieve the NPRA/TFDA package insert for lisinopril dihydrate: download the product monograph PDF and extract warnings and contraindications to enable safety pre-screening
-- **[High — DG002]** Map the confirmed DrugBank query result to a DrugBank ID in the dataset, then retrieve the full MOA entry to support mechanistic plausibility analysis
-- **[Required]** Re-run the TxGNN KG and DL prediction pipelines with the correct DrugBank ID to populate `predicted_indications`
-- **[Required]** Retrieve complete NPRA registration details for all 3 licenses — authorization numbers, product names, dosage forms, and approved indications
-- **[Final step]** Regenerate the Evidence Pack (v5+) and re-issue this evaluation report once all the above data gaps are resolved
+## Pertimbangan Keselamatan
+
+Sila rujuk risalah pakej untuk maklumat keselamatan yang lengkap. Data amaran risalah pakej, kontraindikasi, dan interaksi ubat tidak diambil dalam kitaran ini dan diperlukan sebelum sebarang saringan keselamatan pra dapat dilakukan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Evidence Pack kehilangan dua masukan paling penting untuk penilaian ubat baru dari ubat lama — ramalan TxGNN dan butiran indikasi yang diluluskan — menjadikan mustahil untuk menilai sama ada kebolehplausibilitasan saintifik mahupun landskap kawal selia untuk sebarang indikasi baru pada masa ini.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+
+- **[Menyekat — DG001]** Ambil risalah pakej NPRA/TFDA untuk lisinopril dihydrate: muat turun PDF monografi produk dan ekstrak amaran dan kontraindikasi untuk membolehkan saringan keselamatan pra
+- **[Tinggi — DG002]** Petakan hasil pertanyaan DrugBank yang disahkan ke ID DrugBank dalam set data, kemudian ambil catatan MOA yang lengkap untuk menyokong analisis kebolehplausibilitasan mekanis
+- **[Diperlukan]** Jalankan semula saluran paip ramalan KG dan DL TxGNN dengan ID DrugBank yang betul untuk mengisi `predicted_indications`
+- **[Diperlukan]** Ambil butiran pendaftaran NPRA yang lengkap untuk semua 3 lesen — nombor kebenaran, nama produk, bentuk dos, dan indikasi yang diluluskan
+- **[Langkah akhir]** Janakan semula Evidence Pack (v5+) dan keluarkan semula laporan penilaian ini setelah semua jurang data di atas diselesaikan
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

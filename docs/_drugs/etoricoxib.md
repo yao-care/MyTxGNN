@@ -29,72 +29,73 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Etoricoxib: From Inflammatory Pain Conditions to Migraine Disorder
+# Etoricoxib: Dari Keadaan Nyeri Inflamasi kepada Gangguan Migrain
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Etoricoxib is a selective COX-2 inhibitor NSAID, generally used for osteoarthritis, rheumatoid arthritis, ankylosing spondylitis, acute gout and other inflammatory pain conditions (exact NPRA-approved indication text is not available in the current data extract).
-The TxGNN model predicts it may be effective for **Migraine Disorder**, but this is currently a **pure model prediction with 0 clinical trials and 0 publications** directly supporting it.
+Etoricoxib ialah inhibitor COX-2 selektif NSAID, yang biasanya digunakan untuk osteoartritis, artritis reumatoid, spondilitis ankilosa, pirai akut dan keadaan nyeri inflamasi lain (teks indikasi lesen NPRA tidak tersedia dalam ekstrak data semasa).
+Model TxGNN meramalkan bahawa ia mungkin berkesan untuk **Gangguan Migrain**, tetapi ini pada masa ini adalah **ramalan model tulen dengan sifar ujian klinis dan sifar penerbitan** yang menyokongnya secara langsung.
 
 ---
 
-## Quick Overview
+## Gambaran Pantas
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Not available from source data (NPRA license indication text is empty; see Data Gap DG001/DG002) |
-| Predicted New Indication | Migraine Disorder |
-| TxGNN Prediction Score | 99.90% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 79 |
-| Recommended Decision | Hold |
+| Indikasi Asal | Tidak tersedia daripada data sumber (teks indikasi lesen NPRA kosong; lihat Data Gap DG001/DG002) |
+| Indikasi Baru yang Diramalkan | Gangguan Migrain |
+| Skor Ramalan TxGNN | 99.90% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 79 |
+| Keputusan Disyorkan | Tunggu |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Masuk Akal?
 
-Currently, detailed mechanism of action data is not available (Data Gap DG002). Based on known pharmacology, etoricoxib is a selective cyclooxygenase-2 (COX-2) inhibitor that reduces prostaglandin synthesis, and it is marketed for inflammatory and pain-related conditions. This is class-level, not drug-specific, background information — it is not extracted from the NPRA license data in this Evidence Pack, which currently contains no indication text.
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia (Data Gap DG002). Berdasarkan farmakologi yang diketahui, etoricoxib ialah inhibitor siklooksigenase-2 (COX-2) selektif yang mengurangkan sintesis prostaglandin, dan ia dipasarkan untuk keadaan inflamasi dan nyeri. Ini adalah maklumat latar belakang peringkat kelas, bukan khusus ubat — ia tidak diambil daripada data lesen NPRA dalam Pak Bukti ini, yang pada masa ini tidak mengandungi teks indikasi.
 
-NSAID/COX-2 inhibition is a recognized pharmacological class effect in acute migraine treatment, since prostaglandin-mediated neurovascular inflammation contributes to migraine pathophysiology. This is the basis for the TxGNN model's high similarity score (99.90%) between etoricoxib and migraine disorder.
+Penghambatan NSAID/COX-2 ialah kesan farmakologi kelas yang diiktiraf dalam rawatan migrain akut, kerana peradangan neurovaskular yang dimediasi prostaglandin menyumbang kepada patofisiologi migrain. Ini adalah asas bagi skor kesamaan tinggi model TxGNN (99.90%) antara etoricoxib dan gangguan migrain.
 
-However, this mechanistic link is purely inferred from knowledge-graph pharmacological-class similarity — there is **no etoricoxib-specific clinical trial or publication** supporting its use in migraine. Among the model's other predictions for related headache conditions, only "headache disorder" (rank 9) and "trigeminal autonomic cephalalgia" (rank 10) are backed by actual case-level literature (indomethacin-responsive headache syndromes where etoricoxib was used as an indomethacin substitute), and even that evidence does not extend to migraine disorder specifically. The top-ranked prediction in this pack — migraine disorder — has zero direct evidence and should be read as the weakest-supported of the migraine-related candidates.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered
+Walau bagaimanapun, pautan mekanistik ini adalah semata-mata disimpulkan daripada kesamaan kelas farmakologi dalam graf pengetahuan — tidak ada **ujian klinis atau penerbitan khusus etoricoxib** yang menyokongnya dalam migrain. Antara ramalan model yang lain untuk keadaan sakit kepala yang berkaitan, hanya "keadaan sakit kepala" (pangkat 9) dan "sefalgia autonomik trigeminal" (pangkat 10) disokong oleh literatur peringkat kes yang sebenar (keadaan sakit kepala yang responsif terhadap indometasin di mana etoricoxib digunakan sebagai pengganti indometasin), dan malah bukti itu tidak meluas kepada gangguan migrain secara khusus. Ramalan bertaraf paling tinggi dalam pak ini — gangguan migrain — mempunyai sifar bukti langsung dan harus dibaca sebagai yang paling sedikit disokong antara calon berkaitan migrain.
 
 ---
 
-## Literature Evidence
+## Bukti Ujian Klinis
 
-Currently no related literature available
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-*(Note: TFDA/NPRA package insert warnings and contraindications are flagged as a Blocking data gap (DG001) — this data must be obtained before any safety pre-assessment (S1) can proceed.)*
+Pada masa ini tiada ujian klinis yang berkaitan didaftarkan
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Hold**
+Pada masa ini tiada literatur yang berkaitan tersedia
 
-**Rationale:**
-The prediction score is high, but evidence level is L5 — a pure TxGNN model prediction with no supporting clinical trials or literature specific to etoricoxib in migraine. There is no basis to advance this candidate beyond a research hypothesis at this stage.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert (warnings, contraindications) — currently a Blocking data gap (DG001)
-- Confirmed mechanism of action (MOA) data from DrugBank (DG002)
-- Etoricoxib-specific migraine trial or publication search, or a formal literature review of NSAID/COX-2 inhibitors in migraine treatment
-- If pursuing headache-spectrum indications instead, consider re-scoring "headache disorder" and "trigeminal autonomic cephalalgia" (ranks 9–10), which have case-level literature support that migraine disorder itself lacks
-- Original (approved) indication text from NPRA licensing data, currently blank in the source extract
+## Pertimbangan Keselamatan
+
+Sila rujuk risalah produk untuk maklumat keselamatan.
+
+*(Nota: Amaran/kontraindikasi risalah produk TFDA/NPRA ditandai sebagai jurang data yang menghalang (DG001) — data ini mesti diperoleh sebelum sebarang pra-penilaian keselamatan (S1) boleh diteruskan.)*
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tunggu**
+
+**Alasan:**
+Skor ramalan tinggi, tetapi tahap bukti ialah L5 — ramalan model TxGNN tulen tanpa ujian klinis atau literatur yang menyokong khusus kepada etoricoxib dalam migrain. Tidak ada asas untuk memajukan calon ini melampaui hipotesis penyelidikan pada peringkat ini.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Risalah produk TFDA/NPRA (amaran, kontraindikasi) — pada masa ini jurang data yang menghalang (DG001)
+- Data mekanisme tindakan yang disahkan daripada DrugBank (DG002)
+- Pencarian ujian atau penerbitan migrain khusus etoricoxib, atau ulasan literatur formal bagi NSAID/inhibitor COX-2 dalam rawatan migrain
+- Jika mengejar indikasi spektrum sakit kepala sebaliknya, pertimbangkan penilaian semula "keadaan sakit kepala" dan "sefalgia autonomik trigeminal" (pangkat 9–10), yang mempunyai sokongan literatur peringkat kes yang tidak ada pada gangguan migrain itu sendiri
+- Teks indikasi asal (yang diluluskan) daripada data pelesenan NPRA, pada masa ini kosong dalam ekstrak sumber
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

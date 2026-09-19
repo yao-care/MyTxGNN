@@ -29,72 +29,73 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Etoposide: From Established Oncology Indications to Well-Differentiated Fetal Adenocarcinoma of the Lung
+# Etoposide: Daripada Indikasi Onkologi yang Mapan kepada Adenokarsinoma Fetal Berdiferensiasi Baik dari Paru-paru
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Etoposide is a long-marketed cytotoxic chemotherapy agent in Malaysia (2 NPRA registrations); the specific original approved indication text is not available in the current data pack. The TxGNN model's top-ranked prediction is **well-differentiated fetal adenocarcinoma of the lung**, but this is currently supported by only **1 indirect case-report/review** and **no clinical trials**.
+Etoposide adalah agen kemoterapi sitotoksik yang telah lama dipasarkan di Malaysia (2 pendaftaran NPRA); teks indikasi asli yang diluluskan khusus tidak tersedia dalam paket data semasa. Ramalan model TxGNN tertinggi ialah **adenokarsinoma fetal berdiferensiasi baik dari paru-paru**, namun ini kini disokong hanya oleh **1 laporan kes/ulasan tidak langsung** dan **tiada percubaan klinikal**.
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | Not available in current Malaysia registration data (see Data Gap DG001) |
-| Predicted New Indication | Well-differentiated fetal adenocarcinoma of the lung |
-| TxGNN Prediction Score | 99.94% |
-| Evidence Level | L4 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Tidak tersedia dalam data pendaftaran Malaysia semasa (lihat Jurang Data DG001) |
+| Indikasi Baru yang Diramalkan | Adenokarsinoma fetal berdiferensiasi baik dari paru-paru |
+| Skor Ramalan TxGNN | 99.94% |
+| Tahap Bukti | L4 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 2 |
+| Keputusan yang Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data is not available (DG002, DrugBank query pending). Based on information embedded in this evidence pack's own rationale entries, Etoposide is consistently identified as a **topoisomerase II inhibitor** used as a component of standard cytotoxic combination regimens (e.g., platinum-etoposide for small cell lung cancer, ifosfamide-etoposide for Ewing sarcoma and rhabdomyosarcoma). This confirms it belongs to the conventional cytotoxic chemotherapy class, even though a formal DrugBank MOA record has not yet been retrieved.
+Pada masa kini, data mekanisme tindakan terperinci tidak tersedia (DG002, pertanyaan DrugBank dalam tunggakan). Berdasarkan maklumat tertanam dalam entri nisbah paket bukti ini sendiri, etoposide secara konsisten dikenal pasti sebagai **perencatan topoisomerase II** yang digunakan sebagai komponen rejimen kombinasi sitotoksik piawai (cth., platinum-etoposide untuk kanser paru-paru sel kecil, ifosfamid-etoposide untuk sarcoma Ewing dan rabdomiosarcoma). Ini mengesahkan ia tergolong dalam kelas kemoterapi sitotoksik konvensional, walaupun rekod MOA DrugBank formal belum diperolehi.
 
-Well-differentiated fetal adenocarcinoma (WDFA) is a rare histologic subtype within the pulmonary blastoma family of lung tumors. Mechanistically, a topoisomerase II inhibitor could plausibly be applied to this tumor type by analogy with other pulmonary blastoma-family cases, where platinum-etoposide-class regimens have been used as adjuvant chemotherapy.
+Adenokarsinoma fetal berdiferensiasi baik (WDFA) adalah subtipe histologi jarang dalam keluarga blastoma pulmonari dari tumor paru-paru. Secara mekanistik, perencatan topoisomerase II boleh dipohon kepada jenis tumor ini dengan analogi kepada kes keluarga blastoma pulmonari lain, di mana rejimen kelas platinum-etoposide telah digunakan sebagai kemoterapi tambahan.
 
-However, the single supporting literature reference is a case report of **classic biphasic pulmonary blastoma** — a related but histologically distinct entity — rather than WDFA itself, and the treatment described in that case used nedaplatin plus paclitaxel, not etoposide. The evidence pack's own rationale flags this explicitly: the title match is imprecise and the support is indirect, with no WDFA-specific clinical data. This is a case where TxGNN's high prediction score reflects a structural/mechanistic inference rather than an evidence-backed clinical signal.
+Bagaimanapun, rujukan literatur sokongan tunggal ialah laporan kes **blastoma pulmonari biphasik klasik** — entiti histologi berkaitan tetapi berbeza — daripada WDFA itu sendiri, dan rawatan yang diterangkan dalam kes itu menggunakan nedaplatin ditambah paclitaxel, bukan etoposide. Paket bukti sendiri bendera ini secara eksplisit: padanan tajuk tidak tepat dan sokongan tidak langsung, tanpa data khusus WDFA. Ini adalah kes di mana skor ramalan TxGNN yang tinggi mencerminkan inferensi struktur/mekanistik daripada isyarat klinikal yang disokong bukti.
 
-## Clinical Trial Evidence
+## Bukti Percubaan Klinikal
 
-Currently no related clinical trials registered.
+Pada masa kini tiada percubaan klinikal berkaitan yang didaftarkan.
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [33107372](https://pubmed.ncbi.nlm.nih.gov/33107372/) | 2020 | Case report/Review | The Journal of International Medical Research | Case report of classic biphasic pulmonary blastoma (a related pulmonary blastoma-family tumor, not WDFA itself); patient treated with nedaplatin plus paclitaxel as adjuvant chemotherapy, not etoposide. Notes no standard treatment guidelines exist for pulmonary blastoma due to rarity. |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|--------|------|--------|--------|
+| [33107372](https://pubmed.ncbi.nlm.nih.gov/33107372/) | 2020 | Laporan kes/Ulasan | The Journal of International Medical Research | Laporan kes blastoma pulmonari biphasik klasik (tumor keluarga blastoma pulmonari berkaitan, bukan WDFA itu sendiri); pesakit dirawat dengan nedaplatin ditambah paclitaxel sebagai kemoterapi tambahan, bukan etoposide. Nota tiada garis panduan rawatan piawai wujud untuk blastoma pulmonari kerana kelangkaan. |
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Etoposide is recorded as marketed in Malaysia with 2 total registrations; however, specific authorization numbers, product names, dosage forms, and approved indication text are not available in the current data pack (all fields blank in the source query). Remediation requires pulling full NPRA product listings.
+Etoposide dicatat sebagai dipasarkan di Malaysia dengan jumlah 2 pendaftaran; bagaimanapun, nombor kebenaran khusus, nama produk, bentuk dos, dan teks indikasi yang diluluskan tidak tersedia dalam paket data semasa (semua medan kosong dalam pertanyaan sumber). Pemulihan memerlukan penarikan senarai produk NPRA lengkap.
 
-## Cytotoxicity
+## Sitotoksisiti
 
-| Item | Content |
-|------|------|
-| Cytotoxicity Classification | Conventional cytotoxic (topoisomerase II inhibitor / epipodophyllotoxin class) |
-| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
-| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | Please refer to the package insert warnings and precautions |
-| Handling Protection | Please refer to the package insert warnings and precautions |
+| Item | Kandungan |
+|------|----------|
+| Pengelasan Sitotoksisiti | Sitotoksik konvensional (perencatan topoisomerase II / kelas epipodofiltotoksin) |
+| Risiko Supresi Sumsum Tulang | Sila rujuk amaran dan perhatian sisipan bungkus |
+| Pengelasan Emitogenisiti | Sila rujuk amaran dan perhatian sisipan bungkus |
+| Item Pemantauan | Sila rujuk amaran dan perhatian sisipan bungkus |
+| Perlindungan Pengendalian | Sila rujuk amaran dan perhatian sisipan bungkus |
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisipan bungkus untuk maklumat keselamatan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-WDFA is an exceptionally rare tumor subtype, and the sole supporting literature item is an indirect case report of a related but distinct entity (classic biphasic pulmonary blastoma) that did not even use etoposide-based treatment. With no clinical trials and no WDFA-specific data, evidence is insufficient to move this candidate past a research hypothesis.
+**Nisbah:**
+WDFA adalah subtipe tumor yang amat jarang, dan satu-satunya item literatur sokongan ialah laporan kes tidak langsung entiti berkaitan tetapi berbeza (blastoma pulmonari biphasik klasik) yang tidak pun menggunakan rawatan berasaskan etoposide. Tanpa percubaan klinikal dan data khusus WDFA, bukti tidak mencukupi untuk menggerakkan calon ini melepasi hipotesis penyelidikan.
 
-**To proceed, the following is needed:**
-- WDFA-specific case series, registry data, or trial evidence involving etoposide-based regimens
-- Completion of Data Gap DG001 (TFDA/NPRA label warnings and contraindications) and DG002 (confirmed DrugBank MOA)
-- Full Malaysia license and approved-indication text for the 2 existing registrations
-- Formal DDI and toxicity data to support a safety pre-screen (S1)
+**Untuk meneruskan, yang berikut diperlukan:**
+- Siri kes WDFA, data pendaftaran, atau bukti percubaan melibatkan rejimen berasaskan etoposide
+- Penyiapan Jurang Data DG001 (amaran/kontraindikasi label TFDA/NPRA) dan DG002 (MOA DrugBank yang disahkan)
+- Teks lesen Malaysia lengkap dan indikasi yang diluluskan untuk 2 pendaftaran sedia ada
+- Data DDI dan ketoksikan rasmi untuk menyokong pra-saringan keselamatan (S1)
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

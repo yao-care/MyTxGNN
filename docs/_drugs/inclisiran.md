@@ -29,74 +29,75 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Inclisiran: Original Indication Not Available — Predicted Association with Potassium Deficiency Disease (Low Confidence)
+# Inclisiran: Petunjuk Asal Tidak Tersedia — Perkaitan Ramalan dengan Penyakit Kekurangan Kalium (Keyakinan Rendah)
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Inclisiran (DrugBank DB14901) is a PCSK9-targeting siRNA therapeutic; its original approved indication is not recorded in this evidence pack (data gap). The TxGNN model's top-ranked candidate is **Potassium Deficiency Disease** (score 99.93%), but the evidence pack's own review flags this link as a likely **false positive** of the TxGNN embedding space, with **no clinical trials and no literature** identified to support it.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not available in this evidence pack (data gap — `drug.original_indications` empty, license text empty) |
-| Predicted New Indication | Potassium Deficiency Disease |
-| TxGNN Prediction Score | 99.93% |
-| Evidence Level | L5 (model prediction only, no supporting studies) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+Inclisiran (DrugBank DB14901) ialah terapi siRNA penyasaran PCSK9; petunjuk persetujuannya yang asal tidak dicatat dalam pakej bukti ini (jurang data). Calon pangkat teratas model TxGNN ialah **Penyakit Kekurangan Kalium** (skor 99.93%), tetapi ulasan pakej bukti sendiri menandai pautan ini sebagai kemungkinan **positif palsu** ruang tersapu TxGNN, tanpa **percubaan klinikal dan kesusasteraan** dikenalpasti untuk menyokongnya.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Pantas
 
-Detailed mechanism of action data for Inclisiran is marked as a data gap (DG002) in this pack. The only mechanistic information available comes from the model's own rationale text, which identifies Inclisiran as acting through the **PCSK9 pathway** (consistent with its known role as an LDL-cholesterol–lowering siRNA).
-
-For the top-ranked candidate, however, the evidence pack's rationale is explicit that **no plausible mechanistic connection exists**: *"PCSK9 通路與鉀離子代謝無已知關聯，判斷為 TxGNN 嵌入空間之偽陽性關聯"* (no known relationship between the PCSK9 pathway and potassium metabolism; assessed as a false-positive artifact of the TxGNN embedding space). No clinical trials, ICTRP records, or PubMed literature were found linking Inclisiran to potassium deficiency disease.
-
-It is also worth noting this is not an isolated case within this candidate set — ranks 2–10 in the same pack (esophageal disease, aortic malformation, migraine variants, esophageal ulcer, Raynaud disease, etc.) were each independently assessed as lacking a credible mechanistic basis, and where evidence was returned (migraine-susceptibility literature, aortic-malformation trials), it was found on review to be either off-topic (epilepsy/migraine genetics unrelated to PCSK9) or mismatched (the "aortic malformation" trials were verified to actually be pediatric familial hypercholesterolemia studies — a disease-label mapping error, not real supporting evidence).
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Perkara | Kandungan |
+|--------|----------|
+| Petunjuk Asal | Tidak tersedia dalam pakej bukti ini (jurang data — `drug.original_indications` kosong, teks lesen kosong) |
+| Petunjuk Baru Ramalan | Penyakit Kekurangan Kalium |
+| Skor Ramalan TxGNN | 99.93% |
+| Paras Bukti | L5 (ramalan model sahaja, tanpa kajian sokongan) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available.
+Data mekanisme tindakan terperinci untuk Inclisiran ditandai sebagai jurang data (DG002) dalam pakej ini. Satu-satunya maklumat mekanistik yang tersedia datang daripada teks rasional model itu sendiri, yang mengenal pasti Inclisiran bertindak melalui **laluan PCSK9** (konsisten dengan peranan yang diketahuinya sebagai siRNA penurun kolesterol-LDL).
 
----
+Untuk calon pangkat teratas, bagaimanapun, rasional pakej bukti adalah jelas bahawa **tiada sambungan mekanistik yang munasabah wujud**: *"PCSK9 通路與鉀離子代謝無已知關聯，判斷為 TxGNN 嵌入空間之偽陽性關聯"* (tiada hubungan yang diketahui antara laluan PCSK9 dan metabolisme kalium; dinilai sebagai artifak positif-palsu ruang tersapu TxGNN). Tiada percubaan klinikal, rekod ICTRP, atau kesusasteraan PubMed ditemui yang menghubungkan Inclisiran dengan penyakit kekurangan kalium.
 
-## Malaysia Market Information
-
-One registration record exists (`total_licenses = 1`), but the license number, product name, dosage form, and approved indication text are all empty in this evidence pack — no usable licensing detail is currently available.
+Ia juga bernilai untuk diingat bahawa ini bukan kes terpencil dalam set calon ini — pangkat 2–10 dalam pakej yang sama (penyakit esofagus, malformasi aorta, varian migrain, ulser esofagus, penyakit Raynaud, dsb.) masing-masing dinilai secara bebas sebagai kekurangan asas mekanistik yang dapat dipercayai, dan di mana bukti dikembalikan (kesusasteraan kerentanan migrain, percubaan malformasi aorta), didapati semasa ulasan sama ada tidak sesuai topik (genetik epilepsi/migrain tidak berkaitan dengan PCSK9) atau tidak sepadan (percubaan "malformasi aorta" itu disahkan sebenarnya adalah kajian hiperkolesterolemia familial pediatrik — ralat pemetaan label penyakit, bukan bukti sokongan sebenar).
 
 ---
 
-## Safety Considerations
+## Bukti Percubaan Klinikal
 
-Please refer to the package insert for safety information. (Key warnings, contraindications, and drug interaction data are all marked as data gaps in this evidence pack; DG001 — TFDA label warnings/contraindications — is flagged as a **Blocking** gap that prevents safety pre-screening.)
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Kesusasteraan
 
-**Decision: Hold**
+Pada masa ini tiada kesusasteraan berkaitan yang tersedia.
 
-**Rationale:**
-The top-ranked predicted indication (Potassium Deficiency Disease) has no clinical trial or literature support, and the evidence pack's own mechanistic review labels it a likely false positive from the TxGNN embedding space. No candidate among the top 10 predictions in this batch has both a plausible mechanistic link and corroborating real-world evidence. Combined with a **blocking** safety data gap (DG001), this candidate is not ready to advance beyond model prediction.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA label PDF (warnings, contraindications) — resolves DG001 (blocking)
-- Confirmed original approved indication(s) and detailed MOA — resolves DG002 and the missing title/overview fields
-- Complete drug license details (product name, dosage form, indication text) for the existing registration
-- If pursuing repurposing further, re-run KG/literature search against alternative candidate diseases with clearer PCSK9-pathway biological plausibility, since ranks 1–10 in this batch do not meet that bar
+## Maklumat Pasaran Malaysia
+
+Satu rekod pendaftaran wujud (`total_licenses = 1`), tetapi nombor lesen, nama produk, bentuk dos, dan teks petunjuk yang diluluskan semuanya kosong dalam pakej bukti ini — tiada butiran lesen yang boleh digunakan pada masa ini.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan pakej untuk maklumat keselamatan. (Amaran utama, kontraindikasi, dan data interaksi ubat semuanya ditandai sebagai jurang data dalam pakej bukti ini; DG001 — amaran label TFDA/kontraindikasi — ditandai sebagai jurang **Pemblokiran** yang menghalang pra-saringan keselamatan.)
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Petunjuk ramalan pangkat teratas (Penyakit Kekurangan Kalium) tidak mempunyai sokongan percubaan klinikal atau kesusasteraan, dan ulasan mekanistik pakej bukti itu sendiri melabelnya sebagai kemungkinan positif palsu daripada ruang tersapu TxGNN. Tiada calon dalam 10 ramalan teratas dalam kelompok ini mempunyai kedua-dua pautan mekanistik yang munasabah dan bukti dunia nyata yang menyokong. Digabungkan dengan jurang data keselamatan **pemblokiran** (DG001), calon ini tidak bersedia untuk maju melampaui ramalan model.
+
+**Untuk melanjutkan, perkara berikut diperlukan:**
+- PDF label TFDA/NPRA (amaran, kontraindikasi) — menyelesaikan DG001 (pemblokiran)
+- Petunjuk persetujuan asal yang disahkan dan MOA terperinci — menyelesaikan DG002 dan medan tajuk/gambaran keseluruhan yang hilang
+- Butiran lesen ubat lengkap (nama produk, bentuk dos, teks petunjuk) untuk pendaftaran yang sedia ada
+- Jika meneruskan ubat baru lagi, jalankan semula carian KG/kesusasteraan terhadap penyakit calon alternatif dengan kebolehpercayaan laluan PCSK9 biologi yang lebih jelas, memandangkan pangkat 1–10 dalam kelompok ini tidak memenuhi bar itu
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

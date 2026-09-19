@@ -29,109 +29,110 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-# Calcium Chloride: From Electrolyte/Emergency Therapy to Hypercalcemia — A Contradictory Signal
+# Calcium Chloride: Dari Terapi Elektrolit/Kecemasan ke Hiperkalsemia — Satu Isyarat Kontradiktori
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Calcium Chloride is a marketed injectable electrolyte with 90 product registrations in Malaysia, but the evidence pack does not contain a validated original-indication text or mechanism-of-action data (both flagged as data gaps). The TxGNN model's top-ranked prediction is **Hypercalcemia disease** — however, this is pharmacologically implausible, since administering calcium chloride *raises* serum calcium and would be expected to worsen, not treat, hypercalcemia. Across all 5 predicted indications in this pack, none reach a "Go" level of evidence; the strongest genuine signal is for **cardiac arrest** (Rank 2), supported by a completed Phase 2 RCT (the COCA trial), though that trial showed no benefit and a possible harm signal in unselected patients.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not available — no approved indication text found in current Malaysia licensing data (Data Gap DG001) |
-| Predicted New Indication | Hypercalcemia disease (Rank 1) — flagged as mechanistically contradictory |
-| TxGNN Prediction Score | 0.00% (Note: all 5 predicted indications in this pack show a score of 0.0, which likely reflects a scoring/normalization artifact rather than true near-zero confidence) |
-| Evidence Level | L4 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 90 |
-| Recommended Decision | **Hold** |
+Calcium Chloride ialah elektrolit suntikan yang dipasarkan dengan 90 pendaftaran produk di Malaysia, tetapi paket bukti tidak mengandungi teks indikasi asal yang disahkan atau data mekanisme tindakan (kedua-duanya ditandakan sebagai jurang data). Ramalan kedudukan teratas model TxGNN ialah **penyakit hiperkalsemia** — bagaimanapun, ini tidak dapat diketahui secara farmakologi, kerana memberikan calcium chloride *meningkatkan* kalsium serum dan dijangka akan memburuk, bukan merawat, hiperkalsemia. Di seluruh 5 indikasi yang diramalkan dalam paket ini, tiada yang mencapai tahap bukti "Lanjut"; isyarat asli terkuat ialah untuk **henti jantung** (Kedudukan 2), disokong oleh RCT Fasa 2 yang selesai (ujian COCA), walaupun ujian itu menunjukkan tiada manfaat dan isyarat kemungkinan kemudaratan dalam pesakit yang tidak dipilih.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Pantas
 
-Currently, detailed mechanism of action data is not available for Calcium Chloride in this evidence pack (Data Gap DG002). Based on the clinical trial and literature evidence collected, however, the *direction* of the proposed relationship can still be evaluated — and it does not support repurposing.
-
-Calcium Chloride is a source of ionized calcium, used clinically to *raise* serum calcium and support myocardial contractility. Hypercalcemia is, by definition, a state of *excess* serum calcium. Pharmacologically, administering calcium chloride to a patient with hypercalcemia would be expected to aggravate the condition, not treat it — calcium salts are in fact **contraindicated** in the setting of hypercalcemia. The clinical trials and literature returned by the search largely reflect this: they describe hypercalcemia as a background diagnosis, monitored adverse event, or differential-diagnosis topic (e.g., in multiple myeloma, primary hyperparathyroidism, or paricalcitol safety monitoring), rather than testing Calcium Chloride as a treatment for it.
-
-The most plausible explanation is that the TxGNN knowledge graph captured a **co-occurrence or comorbidity association** (e.g., calcium chloride appearing in records alongside hypercalcemia as a lab abnormality or contraindication) rather than a true therapeutic relationship. This candidate should therefore be interpreted as a **potential safety signal** — reinforcing that hypercalcemia is a risk to monitor during calcium chloride therapy — rather than as a genuine drug-repurposing opportunity.
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Tidak tersedia — teks indikasi yang diluluskan tidak ditemui dalam data lesen Malaysia semasa (Jurang Data DG001) |
+| Indikasi Baru yang Diramalkan | Penyakit hiperkalsemia (Kedudukan 1) — ditandakan sebagai kontradiktori secara mekanistik |
+| Skor Ramalan TxGNN | 0.00% (Nota: semua 5 indikasi yang diramalkan dalam paket ini menunjukkan skor 0.0, yang berkemungkinan mencerminkan artifak normalisasi/pemarkahan daripada keyakinan benar-benar hampir sifar) |
+| Tahap Bukti | L4 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 90 |
+| Keputusan yang Disyorkan | **Tahan** |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Of the 26 clinical trials returned for "Calcium Chloride + hypercalcemia," none directly test Calcium Chloride as a treatment for hypercalcemia. Three trials were assessed as tangentially relevant (Grade C); the remaining ~23 (e.g., multiple myeloma chemotherapy protocols, HIV PrEP studies, thyroidectomy studies) were unrelated background trials returned via knowledge-graph association and are not reproduced here.
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia untuk Calcium Chloride dalam paket bukti ini (Jurang Data DG002). Berdasarkan bukti ujian klinikal dan kesusasteraan yang dikumpul, bagaimanapun, *arah* hubungan yang dicadangkan masih boleh dinilai — dan ia tidak menyokong penggunaan semula ubat.
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Calcium Chloride ialah sumber kalsium terionisasi, digunakan secara klinikal untuk *meningkatkan* kalsium serum dan menyokong kontraktiliti miokardium. Hiperkalsemia adalah, mengikut definisi, keadaan *lebih* kalsium serum. Secara farmakologi, memberikan calcium chloride kepada pesakit dengan hiperkalsemia dijangka akan memburuk keadaan, bukan merawatnya — garam kalsium sebenarnya **dikontraindikasikan** dalam keadaan hiperkalsemia. Ujian klinikal dan kesusasteraan yang dikembalikan oleh carian sebahagian besarnya mencerminkan ini: ia menerangkan hiperkalsemia sebagai diagnosis latar belakang, peristiwa merugikan yang dipantau, atau topik diagnosis pembeza (contohnya, dalam mieloma berbilang, hiperparatiroidisme primer, atau pemantauan keselamatan paricalcitol), bukan menguji Calcium Chloride sebagai rawatan untuknya.
+
+Penjelasan yang paling munasabah ialah graf pengetahuan TxGNN menangkap **persatuan bersama atau komorbiditi** (contohnya, calcium chloride muncul dalam rekod bersama hiperkalsemia sebagai ketidaknormalan lab atau kontraindikasi) daripada hubungan terapeutik yang sebenar. Calon ini harus ditafsirkan sebagai **isyarat keselamatan yang berpotensi** — mengukuhkan bahawa hiperkalsemia ialah risiko untuk dipantau semasa terapi calcium chloride — bukan sebagai peluang ubat-ubatan penggunaan semula yang tulen.
+
+---
+
+## Bukti Ujian Klinikal
+
+Daripada 26 ujian klinikal yang dikembalikan untuk "Calcium Chloride + hiperkalsemia," tiada yang secara langsung menguji Calcium Chloride sebagai rawatan untuk hiperkalsemia. Tiga ujian dinilai sebagai berkaitan secara tangensial (Gred C); baki ~23 (contohnya, protokol kemoterapi mieloma berbilang, kajian PrEP HIV, kajian tiroidektomi) ialah ujian latar belakang yang tidak berkaitan yang dikembalikan melalui persatuan graf pengetahuan dan tidak dihasilkan di sini.
+
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT03772990](https://clinicaltrials.gov/study/NCT03772990) | Phase 4 | Completed | 818 | ICARUS trial: calcium administration during cardiac surgery/CPB weaning to *maintain* normal calcium — opposite clinical intent (avoiding hypocalcemia, not treating hypercalcemia) |
-| [NCT06859580](https://clinicaltrials.gov/study/NCT06859580) | Phase 4 | Recruiting | 140 | Bisphosphonate (zoledronic acid) vs. placebo before parathyroidectomy for primary hyperparathyroidism-related hypercalcemia — treatment tested is a bisphosphonate, not Calcium Chloride |
-| [NCT01134315](https://clinicaltrials.gov/study/NCT01134315) | N/A | Terminated | 61 | Paricalcitol safety study in pediatric CKD; hypercalcemia monitored as an adverse event, not a treatment target |
+| [NCT03772990](https://clinicaltrials.gov/study/NCT03772990) | Fasa 4 | Selesai | 818 | Ujian ICARUS: pemberian kalsium semasa pembedahan jantung/penanggalan CPB untuk *mengekalkan* kalsium normal — maksud klinikal bertentangan (mengelakkan hipokalsemia, bukan merawat hiperkalsemia) |
+| [NCT06859580](https://clinicaltrials.gov/study/NCT06859580) | Fasa 4 | Merekrut | 140 | Bifosfonat (asid zolendronik) vs. plasebo sebelum paratiroidektomi untuk hiperkalsemia yang berkaitan dengan hiperparatiroidisme primer — rawatan yang diuji ialah bifosfonat, bukan Calcium Chloride |
+| [NCT01134315](https://clinicaltrials.gov/study/NCT01134315) | N/A | Ditamatkan | 61 | Kajian keselamatan paricalcitol dalam CKD pediatrik; hiperkalsemia dipantau sebagai peristiwa merugikan, bukan sasaran rawatan |
 
-**No trials were found testing Calcium Chloride as a therapeutic intervention for hypercalcemia.**
+**Tiada ujian ditemui menguji Calcium Chloride sebagai campur tangan terapeutik untuk hiperkalsemia.**
 
 ---
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-The 20 literature results are predominantly general reviews on the causes, diagnosis, and differential diagnosis of hypercalcemia. None discuss Calcium Chloride as a treatment option — consistent with the mechanistic contradiction noted above.
+Keputusan kesusasteraan 20 adalah terutamanya semakan umum mengenai punca, diagnosis, dan diagnosis pembeza hiperkalsemia. Tiada yang membincangkan calcium chloride sebagai pilihan rawatan — konsisten dengan percanggahan mekanistik yang dinyatakan di atas.
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [36282253](https://pubmed.ncbi.nlm.nih.gov/36282253/) | 2022 | Review | JAMA | Comprehensive review of hypercalcemia epidemiology, severity thresholds, and management; does not reference calcium chloride as therapy |
-| [28806048](https://pubmed.ncbi.nlm.nih.gov/28806048/) | 2017 | Review | FP Essentials | Overview of calcium electrolyte disorders; treatment of hypercalcemia centers on hydration and antiresorptive agents, not calcium salts |
-| [15698586](https://pubmed.ncbi.nlm.nih.gov/15698586/) | 2005 | Review | Clinica Chimica Acta | Laboratory screening approach to hyperparathyroidism-associated hypercalcemia |
-| [482179](https://pubmed.ncbi.nlm.nih.gov/482179/) | 1979 | Review | Postgraduate Medicine | Causes of hypercalcemia, including drug-induced causes (vitamin D, thiazides) |
-| [1763670](https://pubmed.ncbi.nlm.nih.gov/1763670/) | 1991 | Pending classification | J Bone Miner Res | Differential diagnosis of hypercalcemia (hyperparathyroidism vs. malignancy) |
-| [6386333](https://pubmed.ncbi.nlm.nih.gov/6386333/) | 1984 | Pending classification | Crit Rev Clin Lab Sci | Differential laboratory diagnosis of hypercalcemia |
-| [25158579](https://pubmed.ncbi.nlm.nih.gov/25158579/) | 2014 | Pending classification | Duodecim | Diagnostic workup of hypercalcemia |
-| [8029686](https://pubmed.ncbi.nlm.nih.gov/8029686/) | 1994 | Pending classification | Schweiz Med Wochenschr | Pathophysiology of severe hypercalcemia |
+| [36282253](https://pubmed.ncbi.nlm.nih.gov/36282253/) | 2022 | Semakan | JAMA | Semakan komprehensif epidemiologi hiperkalsemia, ambang keterukan, dan pengurusan; tidak merujuk calcium chloride sebagai terapi |
+| [28806048](https://pubmed.ncbi.nlm.nih.gov/28806048/) | 2017 | Semakan | FP Essentials | Gambaran keseluruhan gangguan elektrolit kalsium; rawatan hiperkalsemia tertumpu pada hidratasi dan agen antiresorptif, bukan garam kalsium |
+| [15698586](https://pubmed.ncbi.nlm.nih.gov/15698586/) | 2005 | Semakan | Clinica Chimica Acta | Pendekatan penapisan makmal untuk hiperkalsemia yang berkaitan dengan hiperparatiroidisme |
+| [482179](https://pubmed.ncbi.nlm.nih.gov/482179/) | 1979 | Semakan | Postgraduate Medicine | Punca hiperkalsemia, termasuk punca yang disebabkan ubat-ubatan (vitamin D, tiazid) |
+| [1763670](https://pubmed.ncbi.nlm.nih.gov/1763670/) | 1991 | Pengelasan Tertangguh | J Bone Miner Res | Diagnosis pembeza hiperkalsemia (hiperparatiroidisme vs. keganasan) |
+| [6386333](https://pubmed.ncbi.nlm.nih.gov/6386333/) | 1984 | Pengelasan Tertangguh | Crit Rev Clin Lab Sci | Diagnosis makmal pembeza hiperkalsemia |
+| [25158579](https://pubmed.ncbi.nlm.nih.gov/25158579/) | 2014 | Pengelasan Tertangguh | Duodecim | Penyiasatan diagnostik hiperkalsemia |
+| [8029686](https://pubmed.ncbi.nlm.nih.gov/8029686/) | 1994 | Pengelasan Tertangguh | Schweiz Med Wochenschr | Patofisiologi hiperkalsemia yang teruk |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Calcium Chloride is confirmed as **Marketed (Marketed)** in Malaysia with **90 total registrations**. However, the current data pull did not populate license-level details (authorization number, product name, dosage form, manufacturer, or approved indication text) — all fields were returned empty. Detailed registration information should be re-queried from the source registry before this is used for regulatory decision-making.
-
----
-
-## Safety Considerations
-
-Safety data for this candidate is currently incomplete. Both `key_warnings` and `contraindications` are marked as data gaps, and no drug–drug interaction records were found (`query_status: not_found`). Notably, this gap is flagged in the evidence pack as **Blocking** (DG001 — "NPRA package insert warnings/contraindications"), meaning it prevents this candidate from proceeding to the S1 safety pre-screening stage.
-
-> Please refer to the package insert for safety information. Obtaining the official product label (warnings, contraindications, DDI) is a prerequisite before any further evaluation of this candidate.
+Calcium Chloride disahkan sebagai **Dipasarkan (Dipasarkan)** di Malaysia dengan **90 jumlah pendaftaran**. Bagaimanapun, tarik data semasa tidak mengisi butiran peringkat lesen (nombor kebenaran, nama produk, bentuk dos, pengilang, atau teks indikasi yang diluluskan) — semua medan dikembalikan kosong. Maklumat pendaftaran terperinci harus ditanya semula daripada daftar sumber sebelum ini digunakan untuk pengambilan keputusan kawal selia.
 
 ---
 
-## Additional Predicted Indications (Ranks 2–5)
+## Pertimbangan Keselamatan
 
-This evidence pack includes 5 TxGNN-predicted indications for Calcium Chloride. For completeness and transparency, the other four are summarized below:
+Data keselamatan untuk calon ini pada masa ini tidak lengkap. Kedua-dua `key_warnings` dan `contraindications` ditandakan sebagai jurang data, dan tiada rekod interaksi ubat-ubatan ditemui (`query_status: not_found`). Dengan ketara, jurang ini ditandakan dalam paket bukti sebagai **Menyekat** (DG001 — "amaran/kontraindikasi paket NPRA"), bermakna ia menghalang calon ini daripada meneruskan ke peringkat pra-penapisan keselamatan S1.
 
-| Rank | Disease | Evidence Level | Decision Stage | Recommendation | Key Note |
+> Sila rujuk sisipan paket untuk maklumat keselamatan. Mendapatkan label produk rasmi (amaran, kontraindikasi, DDI) ialah prasyarat sebelum sebarang penilaian lanjut calon ini.
+
+---
+
+## Indikasi yang Diramalkan Tambahan (Kedudukan 2–5)
+
+Paket bukti ini merangkumi 5 indikasi yang diramalkan TxGNN untuk Calcium Chloride. Untuk kesempurnaan dan ketelusan, empat yang lain diringkaskan di bawah:
+
+| Kedudukan | Penyakit | Tahap Bukti | Peringkat Keputusan | Syor | Nota Utama |
 |------|---------|----------------|-----------------|-----------------|----------|
-| 2 | Cardiac arrest | L2 | S1 | Research Question | Genuine RCT evidence exists (COCA trial, [NCT04153435](https://clinicaltrials.gov/study/NCT04153435), n=397; [PMID 34847226](https://pubmed.ncbi.nlm.nih.gov/34847226/)), but showed **no improvement** in ROSC/survival for unselected out-of-hospital cardiac arrest, with a possible harm signal. Calcium chloride remains standard-of-care only for arrest caused by hyperkalemia, calcium-channel-blocker toxicity, or hypocalcemia — not for cardiac arrest broadly. |
-| 3 | Phosphorus metabolism disease | L3 | S1 | Research Question | Mechanistically plausible (calcium salts can bind intestinal phosphate), but direct evidence is limited to one 1994 veterinary/dietary comparison study ([PMID 7871700](https://pubmed.ncbi.nlm.nih.gov/7871700/)); no human RCTs identified. |
-| 4 | Potassium deficiency disease | L5 | S0 | Hold | No mechanistic link identified; zero supporting literature; clinical trials returned are unrelated (HIV, oncology, PK studies). Likely a knowledge-graph false positive. |
-| 5 | Nephrocalcinosis | L5 | S0 | Hold | Literature points in the **opposite** direction — chloride/calcium loading is associated with *increased* nephrocalcinosis risk, not treatment benefit. Should be tracked as a safety signal, not a repurposing candidate. |
+| 2 | Henti jantung | L2 | S1 | Soalan Penyelidikan | Bukti RCT yang tulen wujud (ujian COCA, [NCT04153435](https://clinicaltrials.gov/study/NCT04153435), n=397; [PMID 34847226](https://pubmed.ncbi.nlm.nih.gov/34847226/)), tetapi menunjukkan **tiada peningkatan** dalam ROSC/kemandirian untuk henti jantung di luar hospital yang tidak dipilih, dengan isyarat kemungkinan kemudaratan. Calcium chloride kekal sebagai penjagaan standard hanya untuk henti yang disebabkan oleh hiperkalemia, toksisiti pehalang saluran kalsium, atau hipokalsemia — bukan untuk henti jantung secara meluas. |
+| 3 | Penyakit metabolisme fosfor | L3 | S1 | Soalan Penyelidikan | Secara mekanistik munasabah (garam kalsium boleh mengikat fosfat usus), tetapi bukti langsung terhad kepada satu kajian veterinar/perbandingan diet 1994 ([PMID 7871700](https://pubmed.ncbi.nlm.nih.gov/7871700/)); tiada RCT manusia dikenalpasti. |
+| 4 | Penyakit kekurangan kalium | L5 | S0 | Tahan | Tiada pautan mekanistik dikenalpasti; kesusasteraan sokongan sifar; ujian klinikal yang dikembalikan tidak berkaitan (HIV, onkologi, kajian PK). Berkemungkinan positif palsu graf pengetahuan. |
+| 5 | Nefrorkalsifikasi | L5 | S0 | Tahan | Kesusasteraan menunjuk dalam arah yang **bertentangan** — pemuatan klorida/kalsium dikaitkan dengan risiko *meningkat* nefrorkalsifikasi, bukan manfaat rawatan. Harus dijejaki sebagai isyarat keselamatan, bukan calon penggunaan semula ubat-ubatan. |
 
 ---
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The top-ranked prediction (hypercalcemia) is mechanistically contradictory — Calcium Chloride would be expected to worsen, not treat, hypercalcemia — and no clinical trial or literature evidence supports a therapeutic relationship. Combined with a **Blocking** data gap on TFDA safety labeling (warnings/contraindications unavailable), this candidate cannot proceed to S1 safety screening. Of the remaining four predictions, none reach a "Go" threshold; cardiac arrest (Rank 2) has the most substantive evidence but a completed Phase 2 RCT showed no net benefit in the general population.
+**Alasan:**
+Ramalan kedudukan teratas (hiperkalsemia) adalah kontradiktori secara mekanistik — Calcium Chloride dijangka akan memburuk, bukan merawat, hiperkalsemia — dan tiada bukti ujian klinikal atau kesusasteraan menyokong hubungan terapeutik. Digabungkan dengan jurang data **Menyekat** mengenai pelabelan keselamatan TFDA (amaran/kontraindikasi tidak tersedia), calon ini tidak boleh meneruskan ke penapisan keselamatan S1. Daripada empat ramalan yang tinggal, tiada yang mencapai ambang "Lanjut"; henti jantung (Kedudukan 2) mempunyai bukti yang paling substantif tetapi RCT Fasa 2 yang selesai menunjukkan tiada manfaat bersih dalam populasi umum.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert (warnings, contraindications) — currently a Blocking data gap (DG001)
-- DrugBank mechanism-of-action data — currently a High-severity data gap (DG002)
-- Re-verification of Malaysia license-level data (product names, dosage forms, approved indication text), all of which were empty in this pull
-- If pursuing further research, reframe the cardiac-arrest signal as a **defined research question** (e.g., subgroup analysis by etiology — hyperkalemia/CCB-toxicity vs. undifferentiated arrest) rather than a general indication-expansion request
-- Flag hypercalcemia and nephrocalcinosis findings internally as **pharmacovigilance/safety signals** rather than repurposing leads
+**Untuk meneruskan, yang berikut diperlukan:**
+- Sisipan paket TFDA/NPRA (amaran, kontraindikasi) — pada masa ini jurang data Menyekat (DG001)
+- Data mekanisme tindakan DrugBank — pada masa ini jurang data berketulekan Tinggi (DG002)
+- Re-pengesahan data lesen Malaysia (nama produk, bentuk dos, teks indikasi yang diluluskan), semua kosong dalam tarik ini
+- Jika meneruskan penyelidikan lanjutan, kerangka semula isyarat henti jantung sebagai **soalan penyelidikan yang ditentukan** (contohnya, analisis subkumpulan mengikut etiologi — hiperkalemia/toksisiti CCB vs. henti yang tidak dibezakan) daripada permintaan pengembangan indikasi umum
+- Bendera penemuan hiperkalsemia dan nefrorkalsifikasi secara dalaman sebagai **isyarat farmakovegilans/keselamatan** daripada petunjuk penggunaan semula ubat-ubatan
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

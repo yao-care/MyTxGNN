@@ -29,77 +29,78 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Peppermint Oil: From Unspecified Indication to Leprosy
+# Minyak Peppermint: Daripada Petunjuk Tidak Ditentukan kepada Kusta
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Peppermint oil is currently marketed in Malaysia under 46 NPRA registrations, but the evidence pack does not contain the approved indication text for any of these products. The TxGNN model's top-ranked prediction is that peppermint oil may be effective for **Leprosy**, with a graph-embedding score of **99.80%** — but this prediction is supported by **zero clinical trials** and **zero publications**, and the model's own rationale states there is no known or plausible antimycobacterial mechanism for this drug. This candidate should be treated as a speculative, model-only signal, not an evidence-based lead.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not specified — no approved indication text available in the NPRA records supplied |
-| Predicted New Indication | Leprosy |
-| TxGNN Prediction Score | 99.80% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 46 |
-| Recommended Decision | Hold |
+Minyak peppermint sedang dipasarkan di Malaysia di bawah 46 pendaftaran NPRA, tetapi paket bukti tidak mengandungi teks petunjuk yang diluluskan untuk mana-mana produk ini. Ramalan model TxGNN tertinggi ialah minyak peppermint mungkin berkesan untuk **Kusta**, dengan skor pembenaman graf sebanyak **99.80%** — tetapi ramalan ini disokong oleh **sifar percubaan klinikal** dan **sifar penerbitan**, dan rasional model sendiri menyatakan tidak ada mekanisme antimikobakteria yang diketahui atau munasabah untuk ubat ini. Calon ini harus dianggap sebagai isyarat model-spekulatif sahaja, bukan peneraju berasaskan bukti.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Tinjauan Cepat
 
-Detailed mechanism of action (MOA) data is not currently available for peppermint oil in this evidence pack (flagged as a High-severity data gap). Peppermint oil's principal active constituent, menthol, is generally known for smooth-muscle relaxant, local anaesthetic, and topical/in-vitro antimicrobial effects — none of which correspond to an established mechanism against *Mycobacterium leprae*.
-
-The evidence pack's own repurposing rationale for this candidate is explicit on this point: there is "no known or plausible antimycobacterial mechanism," and the association exists purely because of the TxGNN model's graph-embedding score, with no clinical or literature support behind it. In other words, this is a case where a high model score does not correspond to biological plausibility.
-
-For context, among the 10 predicted indications returned for peppermint oil, only one — **cardiovascular disease** (rank 9, evidence level L3) — has any real clinical trial or literature backing, including two completed trials on oral peppermint and cardiometabolic outcomes and a 2025 RCT on hypertension. Leprosy, by contrast, sits at the opposite end of the evidence spectrum despite having the single highest raw prediction score.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Item | Kandungan |
+|------|--------|
+| Petunjuk Asal | Tidak ditentukan — tiada teks petunjuk yang diluluskan tersedia dalam rekod NPRA yang dibekalkan |
+| Petunjuk Baru yang Diramalkan | Kusta |
+| Skor Ramalan TxGNN | 99.80% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 46 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available.
+Data mekanisme tindakan (MOA) terperinci kini tidak tersedia untuk minyak peppermint dalam paket bukti ini (ditandakan sebagai jurang data Keseriusan Tinggi). Konstituent aktif utama minyak peppermint, menthol, umumnya dikenali kerana kesan pelemas otot licin, anesteti tempatan, dan sifat antimikrob topik/in-vitro — tiada satupun yang sepadan dengan mekanisme yang ditegaskan terhadap *Mycobacterium leprae*.
 
----
+Rasional penggunaan semula paket bukti untuk calon ini adalah jelas mengenai perkara ini: tidak ada "mekanisme antimikobakteria yang diketahui atau munasabah," dan hubungan itu wujud semata-mata kerana skor pembenaman graf model TxGNN, tanpa sokongan klinikal atau kesusasteraan di belakangnya. Dalam erti kata lain, ini adalah kes di mana skor model yang tinggi tidak sepadan dengan kebolehpadanan biologi.
 
-## Malaysia Market Information
-
-The evidence pack confirms 46 active NPRA registrations for peppermint oil in Malaysia (market status: Marketed), but the license records supplied contain no product name, dosage form, manufacturer, or approved indication text — these fields were not populated in the source extraction. Authorization-level detail cannot be reported until this data gap is resolved.
+Untuk konteks, di antara 10 petunjuk yang diramalkan untuk minyak peppermint, hanya satu — **penyakit kardiovaskular** (pangkat 9, tahap bukti L3) — mempunyai sebarang sokongan percubaan klinikal atau kesusasteraan sebenar, termasuk dua percubaan yang telah selesai mengenai peppermint oral dan hasil kardiometabolik dan satu RCT 2025 mengenai hipertensi. Kusta, sebaliknya, berada di hujung spektrum bukti yang berlawanan walaupun mempunyai skor ramalan mentah tertinggi.
 
 ---
 
-## Safety Considerations
+## Bukti Percubaan Klinikal
 
-Please refer to the package insert for safety information.
-
-*(Note: NPRA label warnings/contraindications are flagged as a Blocking data gap — this prevents the candidate from entering initial safety screening (S1) regardless of the strength of the efficacy signal.)*
+Kini tidak ada percubaan klinikal yang berkaitan yang terdaftar.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Kesusasteraan
 
-**Decision: Hold**
+Kini tiada kesusasteraan yang berkaitan tersedia.
 
-**Rationale:**
-The leprosy prediction has no clinical trial or literature support, and the mechanistic rationale is assessed as implausible even by the pipeline's own analysis. Combined with a Blocking gap on label warnings/contraindications, there is no basis to advance this candidate past a model-prediction-only status.
+---
 
-**To proceed, the following is needed:**
-- NPRA label warnings and contraindications (Blocking gap — required before any safety screening)
-- Mechanism of action (MOA) data for peppermint oil (via DrugBank)
-- Completed NPRA license/product details (name, dosage form, manufacturer, approved indication text)
-- Independent mechanistic or preclinical evidence linking peppermint oil to *M. leprae* or leprosy pathophysiology before this candidate is reconsidered
-- If cardiovascular disease is of interest instead, that candidate (rank 9, L3, "Research Question") already has trial and literature support worth a separate evaluation
+## Maklumat Pasaran Malaysia
+
+Paket bukti mengesahkan 46 pendaftaran NPRA aktif untuk minyak peppermint di Malaysia (status pasaran: Dipasarkan), tetapi rekod lesen yang dibekalkan tidak mengandungi nama produk, bentuk dos, pengilang, atau teks petunjuk yang diluluskan — bidang-bidang ini tidak diisi dalam pengekstrakan sumber. Butiran peringkat kebenaran tidak boleh dilaporkan sehingga jurang data ini diselesaikan.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan pembungkus untuk maklumat keselamatan.
+
+*(Nota: Amaran label NPRA/kontraindikasi ditandakan sebagai jurang data Menyekat — ini menghalang calon daripada memasuki saringan keselamatan awal (S1) tanpa mengira kekuatan isyarat keberkesanan.)*
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Ramalan kusta tidak mempunyai sokongan percubaan klinikal atau kesusasteraan, dan rasional mekanistik dinilai sebagai tidak munasabah malah oleh analisis saluran paip sendiri. Digabungkan dengan jurang Menyekat mengenai amaran label/kontraindikasi, tidak ada asas untuk memajukan calon ini melampaui status ramalan-model-sahaja.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Amaran label NPRA dan kontraindikasi (jurang Menyekat — diperlukan sebelum sebarang saringan keselamatan)
+- Data mekanisme tindakan (MOA) untuk minyak peppermint (melalui DrugBank)
+- Butiran lesen/produk NPRA yang disiapkan (nama, bentuk dos, pengilang, teks petunjuk yang diluluskan)
+- Bukti mekanistik atau pra-klinikal bebas yang menghubungkan minyak peppermint kepada *M. leprae* atau patofisiologi kusta sebelum calon ini dipertimbangkan semula
+- Jika penyakit kardiovaskular adalah minat sebaliknya, calon itu (pangkat 9, L3, "Soalan Penyelidikan") telah mempunyai sokongan percubaan dan kesusasteraan yang bernilai untuk penilaian berasingan
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

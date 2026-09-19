@@ -29,96 +29,97 @@ Tahap bukti: **L4** | Indikasi diramal: **1**
 
 </div>
 
-# Arginine: From Nutritional Amino Acid to Gastroparesis
+# Arginine: Dari Asid Amino Pemakanan kepada Gastroparesis
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-L-Arginine is a semi-essential amino acid widely used as a nutritional supplement and in metabolic support therapies, including urea cycle disorder management. The TxGNN model predicts it may be effective for **Gastroparesis**, with **1 registered clinical trial** (indirect relevance only) and **10 preclinical publications** currently supporting this direction. Overall, the mechanistic rationale is scientifically compelling, but human clinical evidence remains absent.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Nutritional supplementation; amino acid/metabolic support (regulatory label data unavailable) |
-| Predicted New Indication | Gastroparesis |
-| TxGNN Prediction Score | 99.42% |
-| Evidence Level | L4 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 138 |
-| Recommended Decision | Hold |
+L-Arginine adalah asid amino semi-asasi yang digunakan secara meluas sebagai suplemen pemakanan dan dalam terapi sokongan metabolik, termasuk pengurusan gangguan kitaran urea. Model TxGNN meramalkan ia mungkin berkesan untuk **Gastroparesis**, dengan **1 percubaan klinikal berdaftar** (relevansi tidak langsung sahaja) dan **10 penerbitan praklinical** pada masa ini menyokong arah ini. Secara keseluruhan, rasional mekanistik sangat menarik dari segi sains, tetapi bukti klinikal manusia masih tidak ada.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Pantas
 
-L-Arginine is the obligate endogenous substrate for all three isoforms of nitric oxide synthase (NOS). In the gastrointestinal tract, the neuronal isoform (nNOS) resides in the inhibitory motor neurons of the myenteric plexus and uses L-Arginine to synthesise nitric oxide (NO). This NO signal drives two critical motor events that are disrupted in gastroparesis: pyloric sphincter relaxation and fundic (gastric accommodation) relaxation. When either L-Arginine availability or nNOS activity is reduced, gastric outflow is impaired — the defining pathophysiology of gastroparesis.
-
-Direct preclinical support for this mechanism was provided by Reichardt et al. (PMID: 25057793), who demonstrated that glucocorticoid-induced gastroparesis in mice is mechanistically mediated by tissue depletion of L-Arginine; replenishing L-Arginine restored NO production and normalised gastric emptying. A parallel line of evidence from Welsh et al. (PMID: 23639814) showed that tetrahydrobiopterin (BH4) deficiency — which incapacitates NOS without touching its substrate — also causes gastroparesis in newborn mice, pointing to the Arginine → NOS → NO axis as a shared bottleneck across multiple gastroparesis aetiologies.
-
-Although L-Arginine itself has no formally approved gastric motility indication, its role as the rate-limiting substrate for nitrergic neurotransmission in the gut places it at the mechanistic centre of gastroparesis pathology. The TxGNN knowledge-graph model appears to have captured this Arginine–NO–gastroparesis axis through its network topology, producing a high prediction score of 99.42%. The prediction is biologically coherent, even though human clinical validation is still required.
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Suplemen pemakanan; sokongan asid amino/metabolik (data label kawal selia tidak tersedia) |
+| Petunjuk Baharu yang Diramalkan | Gastroparesis |
+| Skor Ramalan TxGNN | 99.42% |
+| Tahap Bukti | L4 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 138 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+L-Arginine adalah substrat endogen yang wajib untuk ketiga-tiga isoform sintase oksida nitrik (NOS). Dalam saluran gastrointestinal, isoform neuronal (nNOS) terletak dalam neuron motor penghambat pleksus mienterik dan menggunakan L-Arginine untuk mensintesis oksida nitrik (NO). Isyarat NO ini mendorong dua peristiwa motor kritikal yang terganggu dalam gastroparesis: relaksasi sfingter pilorus dan relaksasi fundik (penampungan gastrik). Apabila ketersediaan L-Arginine atau aktiviti nNOS berkurangan, aliran keluar gastrik terganggu — patofisiologi yang menentukan gastroparesis.
+
+Sokongan praklinical langsung untuk mekanisme ini disediakan oleh Reichardt et al. (PMID: 25057793), yang menunjukkan bahawa gastroparesis yang diinduksi glukokortikoid pada tikus secara mekanistik dimediasikan oleh penyusutan jaringan L-Arginine; menambah semula L-Arginine memulihkan pengeluaran NO dan menormalkan pengosongan gastrik. Garis bukti selari daripada Welsh et al. (PMID: 23639814) menunjukkan bahawa kekurangan tetrahidrobiopteri (BH4) — yang melumpuhkan NOS tanpa menyentuh substratnya — juga menyebabkan gastroparesis pada tikus baru lahir, menunjukkan paksi Arginine → NOS → NO sebagai kemacetan bersama dalam pelbagai aetiologi gastroparesis.
+
+Walaupun L-Arginine itu sendiri tidak mempunyai petunjuk motiliti gastrik yang diluluskan secara formal, peranannya sebagai substrat yang membatasi kadar untuk neurotransmisi nitrergik dalam usus meletakkannya di pusat mekanistik patologi gastroparesis. Model graf pengetahuan TxGNN nampaknya telah menangkap paksi Arginine–NO–gastroparesis ini melalui topologi rangkaiannya, menghasilkan skor ramalan tinggi sebanyak 99.42%. Ramalan ini koheren secara biologi, walaupun pengesahan klinikal manusia masih diperlukan.
+
+---
+
+## Bukti Percubaan Klinikal
+
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |-------------|-------|--------|-----------|--------------|
-| [NCT01702051](https://clinicaltrials.gov/study/NCT01702051) | N/A | Unknown | 150 | Observational study of autologous pancreatic islet cell transplantation after pancreatectomy for glycaemic control. Arginine stimulation test is used as an islet function assessment tool; gastroparesis is not a primary or secondary endpoint. Relevance to Arginine treatment of gastroparesis is indirect (Grade C). |
+| [NCT01702051](https://clinicaltrials.gov/study/NCT01702051) | N/A | Tidak diketahui | 150 | Kajian pemerhatian pemindahan sel islet pankreas autologus selepas pankreatektomi untuk kawalan glisemik. Ujian rangsangan arginine digunakan sebagai alat penilaian fungsi islet; gastroparesis bukan titik akhir primer atau sekunder. Relevansi terhadap rawatan gastroparesis Arginine adalah tidak langsung (Gred C). |
 
-> **Note:** No clinical trials directly testing L-Arginine supplementation as a treatment for gastroparesis are currently registered. The single trial identified above uses an arginine stimulation test as a functional assay, not as a therapeutic intervention.
+> **Catatan:** Tiada percubaan klinikal yang secara langsung menguji suplemen L-Arginine sebagai rawatan untuk gastroparesis sedang didaftarkan. Percubaan tunggal yang dikenal pasti di atas menggunakan ujian rangsangan arginine sebagai asai fungsi, bukan sebagai campur tangan terapeutik.
 
 ---
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|------|------|---------|--------------|
-| [25057793](https://pubmed.ncbi.nlm.nih.gov/25057793/) | 2014 | Animal Study | *Endocrinology* | Dexamethasone induced gastroparesis in mice through depletion of tissue L-Arginine; effect was abolished in GR(dim) mutant mice. Directly demonstrates the Arginine–NO–gastroparesis mechanistic link. |
-| [23639814](https://pubmed.ncbi.nlm.nih.gov/23639814/) | 2013 | Animal Study | *Am J Physiol Gastrointest Liver Physiol* | BH4 deficiency (NOS cofactor) caused gastroparesis in newborn mice. Converges on the Arginine → NOS → NO axis as the critical pathway for pyloric relaxation. |
-| [35380456](https://pubmed.ncbi.nlm.nih.gov/35380456/) | 2022 | Animal Study | *Am J Physiol Gastrointest Liver Physiol* | 6-OHDA Parkinson's disease rat model exhibited impaired nitrergic relaxation of the pyloric sphincter, with altered nNOS expression causing delayed gastric emptying. Supports nitrergic pathway as a target. |
-| [18312542](https://pubmed.ncbi.nlm.nih.gov/18312542/) | 2008 | Animal Study | *Neurogastroenterol Motil* | Diabetic BB-rats showed decreased nNOS expression and impaired inhibitory neurotransmission in the jejunum, identifying nNOS downregulation as a mechanism of diabetic gastroparesis. |
-| [18322959](https://pubmed.ncbi.nlm.nih.gov/18322959/) | 2008 | Animal Study | *World J Gastroenterol* | Ghrelin and GHRP-6 improved gastric motility in diabetic mice with gastroparesis, providing therapeutic context for gastric motility modulation. |
-| [19023028](https://pubmed.ncbi.nlm.nih.gov/19023028/) | 2009 | Animal Study | *Am J Physiol Gastrointest Liver Physiol* | Synchronized gastric electrical stimulation improved impaired gastric accommodation via the nitrergic pathway in dogs; further implicates the NO system in gastric relaxation. |
-| [21193530](https://pubmed.ncbi.nlm.nih.gov/21193530/) | 2011 | Animal Study | *Am J Physiol Gastrointest Liver Physiol* | Hyperglycaemia-induced inhibition of gastric motility was mediated by vagal nodose ganglia K(ATP) channels; provides mechanistic context for diabetic gastroparesis. |
-| [31984783](https://pubmed.ncbi.nlm.nih.gov/31984783/) | 2020 | Animal Study | *Am J Physiol Gastrointest Liver Physiol* | Sacral nerve stimulation improved impaired gastric accommodation in rats via spinal afferent and vagal efferent pathways. Demonstrates modifiability of NO-mediated gastric accommodation. |
-| [33867519](https://pubmed.ncbi.nlm.nih.gov/33867519/) | 2021 | Case Report | *Am J Case Rep* | MELAS patient (m.3243A>G) with gastroparesis; lifestyle changes normalised lactate. L-Arginine is a known adjunct therapy in MELAS, providing a real-world human precedent for Arginine use in a gastroparesis-associated mitochondrial condition. |
-| [8194696](https://pubmed.ncbi.nlm.nih.gov/8194696/) | 1994 | Animal Study | *Gastroenterology* | Antigen challenge in sensitised rats caused delayed gastric emptying; mechanism (gastroparesis vs. prolonged trituration) and mediators under investigation. Background context for gastroparesis pathophysiology. |
+| [25057793](https://pubmed.ncbi.nlm.nih.gov/25057793/) | 2014 | Kajian Haiwan | *Endocrinology* | Deksametason mendorong gastroparesis pada tikus melalui penyusutan L-Arginine dalam jaringan; kesan telah dimansuhkan dalam tikus mutasi GR(dim). Secara langsung menunjukkan pautan mekanistik Arginine–NO–gastroparesis. |
+| [23639814](https://pubmed.ncbi.nlm.nih.gov/23639814/) | 2013 | Kajian Haiwan | *Am J Physiol Gastrointest Liver Physiol* | Kekurangan BH4 (kofaktor NOS) menyebabkan gastroparesis pada tikus baru lahir. Menumpu pada paksi Arginine → NOS → NO sebagai laluan kritikal untuk relaksasi pilorus. |
+| [35380456](https://pubmed.ncbi.nlm.nih.gov/35380456/) | 2022 | Kajian Haiwan | *Am J Physiol Gastrointest Liver Physiol* | Model tikus penyakit Parkinson 6-OHDA menunjukkan relaksasi nitrergik sfingter pilorus yang terganggu, dengan ekspresi nNOS yang berubah menyebabkan pengosongan gastrik yang tertangguh. Menyokong laluan nitrergik sebagai sasaran. |
+| [18312542](https://pubmed.ncbi.nlm.nih.gov/18312542/) | 2008 | Kajian Haiwan | *Neurogastroenterol Motil* | Tikus BB berdiabetes menunjukkan ekspresi nNOS yang menurun dan neurotransmisi penghambatan yang terganggu dalam jejunum, mengenal pasti penurunan nNOS sebagai mekanisme gastroparesis berdiabetes. |
+| [18322959](https://pubmed.ncbi.nlm.nih.gov/18322959/) | 2008 | Kajian Haiwan | *World J Gastroenterol* | Ghrelin dan GHRP-6 meningkatkan motiliti gastrik pada tikus berdiabetes dengan gastroparesis, memberikan konteks terapeutik untuk modulasi motiliti gastrik. |
+| [19023028](https://pubmed.ncbi.nlm.nih.gov/19023028/) | 2009 | Kajian Haiwan | *Am J Physiol Gastrointest Liver Physiol* | Rangsangan elektrik gastrik tersegerak meningkatkan penampungan gastrik yang terganggu melalui laluan nitrergik dalam anjing; seterusnya membayangkan sistem NO dalam relaksasi gastrik. |
+| [21193530](https://pubmed.ncbi.nlm.nih.gov/21193530/) | 2011 | Kajian Haiwan | *Am J Physiol Gastrointest Liver Physiol* | Kesan hiperglisemia pada motiliti gastrik dimediasikan oleh saluran K(ATP) ganglion nodosus vagal; memberikan konteks mekanistik untuk gastroparesis berdiabetes. |
+| [31984783](https://pubmed.ncbi.nlm.nih.gov/31984783/) | 2020 | Kajian Haiwan | *Am J Physiol Gastrointest Liver Physiol* | Rangsangan saraf sakral meningkatkan penampungan gastrik yang terganggu dalam tikus melalui laluan aferan spinal dan eferen vagal. Menunjukkan kebolehan ubahan penampungan gastrik yang dimediasikan NO. |
+| [33867519](https://pubmed.ncbi.nlm.nih.gov/33867519/) | 2021 | Laporan Kes | *Am J Case Rep* | Pesakit MELAS (m.3243A>G) dengan gastroparesis; perubahan gaya hidup menormalkan laktat. L-Arginine adalah terapi adjunksyon yang diketahui dalam MELAS, memberikan preseden dunia nyata manusia untuk penggunaan Arginine dalam keadaan gastroparesis yang berkaitan dengan mitokondria. |
+| [8194696](https://pubmed.ncbi.nlm.nih.gov/8194696/) | 1994 | Kajian Haiwan | *Gastroenterology* | Cabaran antigen dalam tikus tersensitif menyebabkan pengosongan gastrik yang tertangguh; mekanisme (gastroparesis vs. trituration yang berpanjangan) dan perantara di bawah penyiasatan. Konteks latar belakang untuk patofisiologi gastroparesis. |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-> Detailed product-level registration data (product name, dosage form, approved indication) is not available in the current dataset. The NPRA query confirmed **138 active registrations** for Arginine-containing products in Malaysia as of 2026-03-27. Full registration details can be retrieved from the [NPRA product search portal](https://www.npra.gov.my/).
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information. No drug interaction records were identified in the current query (DDI query status: not found). Formal warnings and contraindications data require retrieval from the NPRA package insert PDF (Data Gap DG001).
+> Data daftar peringkat produk yang terperinci (nama produk, bentuk dos, petunjuk yang diluluskan) tidak tersedia dalam dataset semasa. Pertanyaan NPRA mengesahkan **138 pendaftaran aktif** untuk produk yang mengandungi Arginine di Malaysia setakat 2026-03-27. Butir-butir pendaftaran penuh boleh diambil daripada [portal carian produk NPRA](https://www.npra.gov.my/).
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
-
-**Rationale:**
-All available evidence is preclinical (animal studies, Tier 3); no human clinical trials have directly evaluated L-Arginine supplementation as a treatment for gastroparesis. Despite a high TxGNN prediction score and a well-defined mechanistic pathway (Arginine → nNOS → NO → pyloric/fundic relaxation), the absence of Phase 1/2 human data prevents advancement beyond a research question at this stage.
-
-**To proceed, the following is needed:**
-
-- **Human pharmacodynamic proof-of-concept study**: A small-scale pilot trial measuring gastric emptying time (e.g., scintigraphy or breath test) before and after oral/IV L-Arginine supplementation in gastroparesis patients.
-- **Optimal dose and route characterisation**: Identify the dose required to meaningfully restore gastric mucosal and myenteric NO levels in humans (oral vs. IV; acute vs. chronic supplementation).
-- **Safety and contraindication review**: Retrieve and parse NPRA/manufacturer package insert to identify relevant warnings (Data Gap DG001), particularly for patients with renal impairment, sepsis, or herpes simplex infection where Arginine use may be restricted.
-- **MOA documentation**: Formal DrugBank API query to complete Arginine's mechanism of action record (Data Gap DG002).
-- **NPRA license detail extraction**: Retrieve the 138 Malaysian product registrations to confirm available dosage forms and any existing approved indications that could inform labelling strategy.
-- **Subgroup hypothesis**: Define whether the primary target population is diabetic gastroparesis, post-surgical gastroparesis, or idiopathic gastroparesis, as the mechanistic evidence (PMID: 25057793; 18312542) is strongest in glucocorticoid- and diabetes-associated subtypes.
+Sila rujuk sisipan pakej untuk maklumat keselamatan. Tiada rekod interaksi ubat telah dikenal pasti dalam pertanyaan semasa (status pertanyaan DDI: tidak ditemui). Data rasmi amaran dan kontindikasi memerlukan pengambilan daripada PDF sisipan pakej NPRA (Jurang Data DG001).
 
 ---
 
-> ⚠️ **Disclaimer**: This report is for research reference only and does not constitute medical advice. Drug repurposing candidates require clinical validation before any therapeutic application.
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Semua bukti yang tersedia adalah praklinical (kajian haiwan, Tier 3); tiada percubaan klinikal manusia yang secara langsung telah menilai suplemen L-Arginine sebagai rawatan untuk gastroparesis. Walaupun skor ramalan TxGNN yang tinggi dan laluan mekanistik yang jelas (Arginine → nNOS → NO → relaksasi pilorus/fundik), ketiadaan data manusia Fasa 1/2 mencegah kemajuan melampaui soalan penyelidikan pada peringkat ini.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+
+- **Kajian bukti-konsep farmakodinamik manusia**: Percubaan lolos skala kecil yang mengukur masa pengosongan gastrik (cth. skintigrafi atau ujian nafas) sebelum dan selepas suplemen L-Arginine lisan/IV dalam pesakit gastroparesis.
+- **Pencirian dos dan laluan optimum**: Kenal pasti dos yang diperlukan untuk memulihkan dengan bermakna tahap NO mukosal gastrik dan mienterik dalam manusia (lisan vs. IV; suplemen akut vs. kronik).
+- **Tinjauan keselamatan dan kontindikasi**: Ambil dan huraikan sisipan pakej NPRA/pembuat untuk mengenal pasti amaran yang relevan (Jurang Data DG001), terutamanya untuk pesakit dengan kerosakan buah pinggang, sepsis, atau jangkitan herpes simpleks di mana penggunaan Arginine mungkin dihadkan.
+- **Dokumentasi MOA**: Pertanyaan API DrugBank formal untuk melengkapkan rekod mekanisme tindakan Arginine (Jurang Data DG002).
+- **Ekstraksi butir lesen NPRA**: Ambil 138 pendaftaran produk Malaysia untuk mengesahkan bentuk dos yang tersedia dan sebarang petunjuk yang diluluskan sedia ada yang boleh memaklumi strategi pelabelan.
+- **Hipotesis subkumpulan**: Takrifkan sama ada populasi sasaran utama adalah gastroparesis berdiabetes, gastroparesis pascaoperasi, atau gastroparesis idiopatik, kerana bukti mekanistik (PMID: 25057793; 18312542) paling kuat dalam subtip yang berkaitan glukokortikoid dan diabetes.
+
+---
+
+> ⚠️ **Penafian**: Laporan ini adalah untuk rujukan penyelidikan sahaja dan tidak merupakan nasihat perubatan. Calon penggunaan semula ubat memerlukan pengesahan klinikal sebelum sebarang aplikasi terapeutik.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

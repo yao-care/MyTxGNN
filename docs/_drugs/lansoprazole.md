@@ -29,59 +29,60 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Lansoprazole: From Peptic Ulcer Disease/GERD to Duodenogastric Reflux
+# Lansoprazole: Daripada Penyakit Ulkus Peptik/GERD kepada Refluks Duodenogastrik
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Lansoprazole is a proton pump inhibitor (PPI), a drug class established for peptic ulcer disease, GERD, and acid-related gastrointestinal conditions. The TxGNN model predicts potential relevance to **Duodenogastric Reflux**, but this direction is currently supported by **0 clinical trials** and only **2 publications** — and one of those publications actually points to a safety risk rather than a therapeutic benefit.
+Lansoprazole adalah perencat pompa proton (PPI), kelas ubatan yang telah ditubuhkan untuk penyakit ulkus peptik, GERD, dan keadaan gastroenterologi berkaitan asid. Model TxGNN meramalkan potensi kekaitan kepada **Refluks Duodenogastrik**, tetapi arah ini kini disokong oleh **0 ujian klinikal** dan hanya **2 penerbitan** — dan salah satu penerbitan itu sebenarnya menunjukkan risiko keselamatan dan bukannya manfaat terapeutik.
 
-## Quick Overview
+## Gambaran Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | Not available in the current registration data. (Lansoprazole is a proton pump inhibitor generally indicated for peptic ulcer disease, GERD, and H. pylori eradication.) |
-| Predicted New Indication | Duodenogastric Reflux |
-| TxGNN Prediction Score | 99.69% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 6 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Tidak tersedia dalam data pendaftaran semasa. (Lansoprazole ialah perencat pompa proton yang secara umum ditunjukkan untuk penyakit ulkus peptik, GERD, dan penyingkiran H. pylori.) |
+| Petunjuk Baru yang Diramalkan | Refluks Duodenogastrik |
+| Skor Ramalan TxGNN | 99.69% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 6 |
+| Keputusan yang Disyorkan | Tahan |
 
-*Note: A second candidate, duodenal obstruction (Evidence Level L4, also recommended Hold), was evaluated in the same pack but is not the primary focus of this report.*
+*Nota: Calon kedua, obstruksi duodenal (Tahap Bukti L4, juga disyorkan Tahan), telah dinilai dalam pek yang sama tetapi bukan fokus utama laporan ini.*
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Masuk Akal?
 
-Currently, detailed mechanism of action data is not available. Based on known information, Lansoprazole is part of the proton pump inhibitor (PPI) class, and its efficacy in acid-related gastrointestinal indications has been proven. Mechanistically, PPIs suppress gastric acid secretion, which could theoretically reduce the acid-related mucosal irritation caused by reflux of duodenal contents (bile, pancreatic enzymes) into the stomach — the basis for TxGNN's prediction.
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia. Berdasarkan maklumat yang diketahui, Lansoprazole ialah sebahagian daripada kelas perencat pompa proton (PPI), dan kecekapannya dalam petunjuk gastroenterologi berkaitan asid telah terbukti. Secara mekanismi, PPI menekan sekresi asid gaster, yang secara teorinya boleh mengurangkan iritasi mukosa berkaitan asid yang disebabkan oleh refluks kandungan duodenal (empedu, enzim pankreas) ke dalam perut — asas bagi ramalan TxGNN.
 
-However, the only directly relevant literature identified (a rat model study, PMID 15052437) found the opposite effect: Lansoprazole *promoted* gastric carcinogenesis associated with duodenogastric reflux, rather than mitigating it. This is a potential risk signal, not a therapeutic signal, and directly contradicts the mechanistic hypothesis. No clinical trials currently exist to test efficacy in this indication.
+Walau bagaimanapun, satu-satunya kesusasteraan yang berkaitan secara langsung yang dikenal pasti (satu kajian model tikus, PMID 15052437) mendapati kesan sebaliknya: Lansoprazole *mempromosikan* karsinogenesis gaster yang berkaitan dengan refluks duodenogastrik, bukan memperingan. Ini adalah isyarat risiko yang berpotensi, bukan isyarat terapeutik, dan secara langsung bercanggah dengan hipotesis mekanismi. Tiada ujian klinikal kini ada untuk menguji kecekapan dalam petunjuk ini.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-Currently no related clinical trials registered
+Kini tiada ujian klinikal berkaitan yang didaftarkan
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [15052437](https://pubmed.ncbi.nlm.nih.gov/15052437/) | 2004 | Preclinical (rat model) | Gastric Cancer | Lansoprazole promoted gastric carcinogenesis in rats with duodenogastric reflux — a risk signal, opposite to the therapeutic hypothesis |
-| [18679668](https://pubmed.ncbi.nlm.nih.gov/18679668/) | 2008 | Review | Eur J Clin Pharmacol | General review of PPI clinical use and pharmacokinetics (peptic ulcer, H. pylori, GERD, NSAID-induced GI lesions, Zollinger-Ellison syndrome); not specific to duodenogastric reflux |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|------|------|--------|---------|
+| [15052437](https://pubmed.ncbi.nlm.nih.gov/15052437/) | 2004 | Pra-klinikal (model tikus) | Gastric Cancer | Lansoprazole mempromosikan karsinogenesis gaster dalam tikus dengan refluks duodenogastrik — isyarat risiko, bertentangan dengan hipotesis terapeutik |
+| [18679668](https://pubmed.ncbi.nlm.nih.gov/18679668/) | 2008 | Ulasan | Eur J Clin Pharmacol | Ulasan umum penggunaan klinikal PPI dan farmakokinetik (ulkus peptik, H. pylori, GERD, lesi GI berinduksi NSAID, sindrom Zollinger-Ellison); bukan khusus untuk refluks duodenogastrik |
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisipan paket untuk maklumat keselamatan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The TxGNN score is high, but the only mechanistically direct evidence (a rat carcinogenesis study) suggests risk rather than benefit, and there are zero clinical trials in this indication. Evidence Level L5 (model prediction only) does not support moving forward.
+**Alasan:**
+Skor TxGNN tinggi, tetapi satu-satunya bukti yang berkaitan secara mekanismi langsung (kajian karsinogenesis tikus) mencadangkan risiko dan bukannya manfaat, dan terdapat sifar ujian klinikal dalam petunjuk ini. Tahap Bukti L5 (ramalan model sahaja) tidak menyokong untuk bergerak ke hadapan.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert warnings and contraindications (currently a Blocking data gap — required before any S1 safety review)
-- Confirmed mechanism of action from DrugBank (currently a High-severity data gap)
-- Preclinical or clinical data resolving the conflicting signal from the rat carcinogenesis study before further development is considered
-- If pursued, dedicated clinical studies specifically evaluating Lansoprazole in duodenogastric reflux (none currently exist)
+**Untuk meneruskan, yang berikut diperlukan:**
+- Amaran sisipan paket TFDA/NPRA dan kontraindikasi (pada masa ini Jurang Data Penyekat — diperlukan sebelum sebarang ulasan keselamatan S1)
+- Mekanisme tindakan yang disahkan daripada DrugBank (pada masa ini Jurang Data Keterukan Tinggi)
+- Data pra-klinikal atau klinikal menyelesaikan isyarat yang bercanggah daripada kajian karsinogenesis tikus sebelum perkembangan lanjutan dipertimbangkan
+- Jika diteruskan, kajian klinikal khusus yang menilai Lansoprazole dalam refluks duodenogastrik (tiada yang kini ada)
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

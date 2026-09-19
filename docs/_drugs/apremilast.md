@@ -29,75 +29,76 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Apremilast: Drug Repurposing Evaluation — TxGNN Predictions Pending
+# Apremilast: Penilaian Penggunaan Semula Ubat — Ramalan TxGNN Ditangguhkan
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Apremilast (DrugBank: DB05676) is a selective phosphodiesterase 4 (PDE4) inhibitor with established use in inflammatory conditions such as psoriatic arthritis and plaque psoriasis, and is confirmed as marketed in Malaysia with 3 registered products. However, the current Evidence Pack contains **no TxGNN-generated new indication predictions**, and critical data — including regulatory label details, safety warnings, and mechanism of action — were not retrieved in this collection cycle. A complete drug repurposing evaluation cannot be issued until these gaps are resolved; a **Hold** decision is recommended pending re-collection.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Not retrieved — regulatory label text absent from this Evidence Pack |
-| Predicted New Indication | **Pending** — no TxGNN predictions present in this Evidence Pack |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | N/A |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
-| Recommended Decision | **Hold** |
+Apremilast (DrugBank: DB05676) ialah penghambat fosfodiestaraz 4 (PDE4) yang selektif dengan kegunaan yang telah terbukti dalam keadaan radang seperti artritis psoriatik dan psoriasis plak, dan disahkan dipasarkan di Malaysia dengan 3 produk berdaftar. Walau bagaimanapun, Pakej Bukti semasa tidak mengandungi **ramalan indikasi baru yang dijana oleh TxGNN**, dan data kritikal — termasuk butiran label kawal selia, amaran keselamatan, dan mekanisme tindakan — tidak diambil dalam kitaran pengumpulan ini. Penilaian ubat penggunaan semula yang lengkap tidak boleh dikeluarkan sehingga jurang-jurang ini diselesaikan; keputusan **Tunda** disyorkan sambil menunggu pengumpulan semula.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Pantas
 
-This section cannot be completed in the standard form because no TxGNN-predicted target indication is available in the current Evidence Pack (`predicted_indications: []`).
-
-From publicly available pharmacological knowledge, Apremilast is a small-molecule PDE4 inhibitor that raises intracellular cyclic AMP (cAMP) levels, broadly modulating the production of inflammatory and anti-inflammatory mediators (e.g., reducing TNF-α, IL-17, IL-23 while increasing IL-10). This mechanism of action has potential relevance across a wide spectrum of chronic inflammatory diseases beyond its currently approved uses.
-
-Once TxGNN predictions are generated, this section will assess the mechanistic plausibility of the top-ranked candidate indication(s) and their relationship to the approved inflammatory indication cluster.
-
----
-
-## Malaysia Market Information
-
-The Evidence Pack records **3 registered products** in Malaysia (NPRA query status: success), but all product-level fields — authorisation number, product name, dosage form, manufacturer, and approved indication text — were returned as empty in this collection run. The table below cannot be populated until NPRA registration details are re-queried.
-
-| Authorisation Number | Product Name | Dosage Form | Approved Indication |
-|----------------------|--------------|-------------|---------------------|
-| *(not retrieved)* | *(not retrieved)* | *(not retrieved)* | *(not retrieved)* |
-
-**Action required:** Re-query NPRA with drug name "APREMILAST" and retrieve full product detail records for all 3 licences.
+| Item | Kandungan |
+|------|-----------|
+| Indikasi Asal | Tidak diambil — teks label kawal selia tidak hadir dalam Pakej Bukti ini |
+| Indikasi Baru Diramalkan | **Ditangguhkan** — tiada ramalan TxGNN yang hadir dalam Pakej Bukti ini |
+| Skor Ramalan TxGNN | T/A |
+| Tahap Bukti | T/A |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 3 |
+| Keputusan yang Disyorkan | **Tunda** |
 
 ---
 
-## Safety Considerations
+## Mengapa Ramalan Ini Munasabah?
 
-Please refer to the package insert for safety information. Key warnings and contraindications were identified as a **Blocking** data gap (DG001) and were not retrieved in this evaluation cycle. No drug-drug interaction records were found in the DDI query (result: `not_found`, 0 interactions).
+Bahagian ini tidak dapat diselesaikan dalam bentuk piawai kerana tiada indikasi sasaran yang diramalkan oleh TxGNN yang tersedia dalam Pakej Bukti semasa (`predicted_indications: []`).
 
----
+Daripada pengetahuan farmakologi yang tersedia secara umum, Apremilast ialah penghambat PDE4 molekul kecil yang meningkatkan tahap cAMP intrasel, secara meluas mengawal pengeluaran pengantara radang dan anti-radang (contohnya, mengurangkan TNF-α, IL-17, IL-23 sambil meningkatkan IL-10). Mekanisme tindakan ini mempunyai potensi kaitan merentas spektrum luas penyakit radang kronik di luar kegunaannya yang diluluskan semasa.
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The Evidence Pack is missing the three minimum requirements for a repurposing evaluation — TxGNN target indication predictions, populated regulatory label data, and safety information — making it impossible to assess therapeutic potential, mechanistic plausibility, or risk profile at this time.
-
-**To proceed, the following is needed:**
-
-- **[Blocking — DG001]** Download and parse the NPRA / TFDA package insert PDF for Apremilast to extract key warnings and contraindications; this must be resolved before any safety assessment can begin
-- **[High — DG002]** Query the DrugBank API for DB05676 to retrieve the full mechanism of action (MOA) description
-- **[Required]** Run the TxGNN model pipeline for Apremilast (DB05676) to generate ranked new-indication predictions; without predictions, no repurposing target exists to evaluate
-- **[Required]** Re-query NPRA registration database to retrieve complete product details (authorisation numbers, product names, dosage forms, approved indications) for all 3 Malaysian licences
-- **[Follow-up]** Once a target indication is identified, run ClinicalTrials.gov and PubMed evidence collectors against the drug–disease pair to populate the clinical trial and literature evidence sections
-- **[Follow-up]** Reassign Evidence Level (L1–L5) and upgrade the decision recommendation (Go / Proceed with Guardrails) after all gaps above are closed
+Setelah ramalan TxGNN dijana, bahagian ini akan menilai kesetaraan mekanik dari indikasi calon teratas yang disenaraikan dan hubungannya dengan kelompok indikasi radang yang diluluskan.
 
 ---
 
-> ⚠️ **Disclaimer:** This report is for research reference only and does not constitute medical advice. Drug repurposing candidates require clinical validation before any therapeutic application.
+## Maklumat Pasaran Malaysia
+
+Pakej Bukti merekodkan **3 produk berdaftar** di Malaysia (status pertanyaan NPRA: berjaya), tetapi semua medan peringkat produk — nombor kebenaran, nama produk, bentuk dos, pengilang, dan teks indikasi yang diluluskan — dikembalikan sebagai kosong dalam larian pengumpulan ini. Jadual di bawah tidak dapat diisi sehingga butiran pendaftaran NPRA dipertanyakan semula.
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
+|------------------|-------------|-----------|--------------------------|
+| *(tidak diambil)* | *(tidak diambil)* | *(tidak diambil)* | *(tidak diambil)* |
+
+**Tindakan diperlukan:** Pertanyaan semula NPRA dengan nama ubat "APREMILAST" dan ambil rekod butiran produk penuh untuk semua 3 lesen.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan pakej untuk maklumat keselamatan. Amaran utama dan kontraindikasi telah dikenal pasti sebagai jurang data **Menyekat** (DG001) dan tidak diambil dalam kitaran penilaian ini. Tiada rekod interaksi ubat-ubat yang ditemui dalam pertanyaan DDI (hasil: `not_found`, 0 interaksi).
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tunda**
+
+**Rasional:**
+Pakej Bukti kehilangan tiga keperluan minimum untuk penilaian penggunaan semula — ramalan indikasi sasaran TxGNN, data label kawal selia yang diisi, dan maklumat keselamatan — menjadikan mustahil untuk menilai potensi terapeutik, kesetaraan mekanik, atau profil risiko pada masa ini.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+
+- **[Menyekat — DG001]** Muat turun dan analisis PDF sisipan pakej NPRA / TFDA untuk Apremilast untuk mengekstrak amaran utama dan kontraindikasi; ini mesti diselesaikan sebelum sebarang penilaian keselamatan dapat dimulai
+- **[Tinggi — DG002]** Pertanyaan API DrugBank untuk DB05676 untuk mengambil penerangan mekanisme tindakan (MOA) penuh
+- **[Diperlukan]** Jalankan saluran paip model TxGNN untuk Apremilast (DB05676) untuk menjana ramalan indikasi baru yang beringkat; tanpa ramalan, tiada sasaran penggunaan semula yang wujud untuk dinilai
+- **[Diperlukan]** Pertanyaan semula pangkalan data pendaftaran NPRA untuk mengambil butiran produk lengkap (nombor kebenaran, nama produk, bentuk dos, indikasi yang diluluskan) untuk semua 3 lesen Malaysia
+- **[Susulan]** Setelah indikasi sasaran dikenal pasti, jalankan pengumpul bukti ClinicalTrials.gov dan PubMed terhadap pasangan ubat–penyakit untuk mengisi bahagian bukti ujian klinikal dan sastera
+- **[Susulan]** Tetapkan semula Tahap Bukti (L1–L5) dan naik taraf cadangan keputusan (Pergi / Teruskan dengan Perlindungan) setelah semua jurang di atas ditutup
+
+---
+
+> ⚠️ **Penafian:** Laporan ini hanya untuk rujukan penyelidikan dan bukan merupakan nasihat perubatan. Calon penggunaan semula ubat memerlukan pengesahan klinikal sebelum sebarang aplikasi terapeutik.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,60 +29,61 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Pegfilgrastim: From Febrile Neutropenia Prophylaxis to Diabetic Retinopathy
+# Pegfilgrastim: Daripada Profilaksis Neutropenia Demam kepada Retinopati Diabetik
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Pegfilgrastim is a PEGylated G-CSF analog, generally used to reduce the risk of infection (febrile neutropenia) in patients receiving myelosuppressive chemotherapy. The TxGNN model predicts it may be effective for **severe nonproliferative diabetic retinopathy**, but currently **no clinical trials and no literature** support this direction — the prediction rests on the model score alone.
+Pegfilgrastim ialah analog G-CSF yang dipegililasi, umumnya digunakan untuk mengurangkan risiko jangkitan (neutropenia demam) pada pesakit yang menerima kemoterapi penindas sumsum tulang. Model TxGNN meramalkan ia mungkin berkesan untuk **retinopati diabetik tak berproliferasi yang teruk**, tetapi pada masa ini **tiada percubaan klinikal dan tiada literatur** menyokong arah ini — ramalan bergantung pada skor model sahaja.
 
-## Quick Overview
+## Gambaran Pantas
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Prevention of chemotherapy-induced febrile neutropenia (general drug knowledge; Malaysia-specific label indication text is not available in this evidence pack) |
-| Predicted New Indication | Severe nonproliferative diabetic retinopathy |
-| TxGNN Prediction Score | 99.89% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 4 |
-| Recommended Decision | Hold |
+| Petunjuk Asal | Pencegahan neutropenia demam yang disebabkan kemoterapi (pengetahuan ubat umum; teks petunjuk label khusus Malaysia tidak tersedia dalam pakej bukti ini) |
+| Petunjuk Baharu yang Diramalkan | Retinopati diabetik tak berproliferasi yang teruk |
+| Skor Ramalan TxGNN | 99.89% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 4 |
+| Keputusan yang Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data is not available for pegfilgrastim in this evidence pack. Based on known pharmacology, pegfilgrastim is a PEGylated granulocyte colony-stimulating factor (G-CSF) analog that stimulates proliferation and differentiation of bone marrow granulocyte precursors and mobilizes neutrophils, and its efficacy in preventing chemotherapy-induced neutropenia is well established.
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia untuk pegfilgrastim dalam pakej bukti ini. Berdasarkan farmakologi yang diketahui, pegfilgrastim ialah analog granulosit pemuzik-koloni (G-CSF) yang dipegililasi yang merangsang proliferasi dan pembezaan pelopor granulosit sumsum tulang dan memobilisasi neutrofil, dan keberkesan dalam mencegah neutropenia yang disebabkan kemoterapi sudah mantap.
 
-The proposed link to diabetic retinopathy is indirect and speculative. Diabetic retinopathy's core pathology is chronic hyperglycemia-driven retinal microvascular injury, with ischemia-induced VEGF elevation driving neovascularization. There is no known direct pharmacological overlap with G-CSF signaling. G-CSF is known to mobilize endothelial progenitor cells (EPCs), which offers a theoretical, indirect connection to vascular repair/neovascularization in ischemic tissue — but the direction of this effect (protective vs. potentially worsening neovascularization) is unclear, and this link is not a validated mechanism.
+Pautan yang dicadangkan kepada retinopati diabetik adalah tidak langsung dan spekulatif. Patologi teras retinopati diabetik ialah kecederaan mikrovaskular retina yang didorong hiperglikemia kronik, dengan peningkatan VEGF yang didorong iskemia memacu neovaskularisasi. Tiada pertindihan farmakologi langsung yang diketahui dengan isyarat G-CSF. G-CSF diketahui memobilisasi sel pelopor endotel (EPCs), yang menawarkan sambungan teori tidak langsung kepada pembaikan vaskular/neovaskularisasi dalam tisu iskemik — tetapi arah kesan ini (perlindungan berbanding berpotensi memburukkan neovaskularisasi) tidak jelas, dan pautan ini bukan mekanisme yang disahkan.
 
-Because the original MOA data field itself is a data gap and no clinical or literature evidence exists, this prediction should be treated as a TxGNN model score only (>0.99), not as a mechanistically or clinically substantiated hypothesis.
+Kerana medan data MOA asal itu sendiri adalah jurang data dan tiada bukti klinikal atau literatur wujud, ramalan ini harus dianggap sebagai skor model TxGNN sahaja (>0.99), bukan sebagai hipotesis yang disokong mekanisme atau klinikal.
 
-## Clinical Trial Evidence
+## Bukti Percubaan Klinikal
 
-Currently no related clinical trials registered
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no related literature available
+Pada masa ini tiada literatur berkaitan tersedia
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Malaysia has 4 registered pegfilgrastim products (market status: Marketed), but detailed license information (registration number, product name, dosage form, approved indication text) is not available in the current evidence pack.
+Malaysia mempunyai 4 produk pegfilgrastim berdaftar (status pasaran: Dipasarkan), tetapi maklumat lesen terperinci (nombor pendaftaran, nama produk, bentuk dos, teks petunjuk yang diluluskan) tidak tersedia dalam pakej bukti semasa.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The predicted indication (severe nonproliferative diabetic retinopathy) has no supporting clinical trials or literature, and the proposed mechanistic link (G-CSF-mediated endothelial progenitor cell mobilization) is speculative with uncertain directionality. This is an L5, model-score-only prediction and does not meet the threshold for further evaluation.
+**Alasan:**
+Petunjuk yang diramalkan (retinopati diabetik tak berproliferasi yang teruk) tiada bukti percubaan klinikal atau literatur yang menyokong, dan pautan mekanisme yang dicadangkan (pemobilisasi sel pelopor endotel yang dimediasi G-CSF) adalah spekulatif dengan arah ketidakpastian. Ini ialah ramalan L5, skor-model-sahaja dan tidak memenuhi ambang untuk penilaian lanjut.
 
-**To proceed, the following is needed:**
-- Original mechanism of action (MOA) data for pegfilgrastim (currently a data gap)
-- TFDA/NPRA label warnings and contraindications (currently a data gap, flagged as Blocking)
-- Detailed Malaysia license information (product names, dosage forms, approved indication text)
-- Preclinical or mechanistic studies specifically linking G-CSF pathway activity to diabetic retinopathy progression or regression, to justify moving beyond model prediction alone
+**Untuk meneruskan, yang berikut diperlukan:**
+- Data mekanisme tindakan asal (MOA) untuk pegfilgrastim (pada masa ini jurang data)
+- Amaran label TFDA/NPRA dan kontraindikasi (pada masa ini jurang data, ditandai sebagai Menyekat)
+- Maklumat lesen Malaysia terperinci (nama produk, bentuk dos, teks petunjuk yang diluluskan)
+- Kajian praklinikal atau mekanisme yang khusus menghubungkan aktiviti laluan G-CSF kepada perkembangan atau regresi retinopati diabetik, untuk membenarkan bergerak melampaui ramalan model sahaja
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,99 +29,100 @@ Tahap bukti: **L1** | Indikasi diramal: **9**
 
 </div>
 
-# Iloprost: From Pulmonary Arterial Hypertension to HIV-Associated Pulmonary Arterial Hypertension
+# Iloprost: Daripada Hipertansi Arterial Pulmonari kepada Hipertansi Arterial Pulmonari Berkaitan HIV
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-> Iloprost is a synthetic prostacyclin (PGI2) analog already established as a treatment for pulmonary arterial hypertension (PAH). Among nine TxGNN-predicted indications for this drug, the strongest evidence supports **PAH associated with HIV infection** — a recognized WHO Group 1 PAH subtype — backed by **1 completed Phase 3 RCT** and **4 supporting publications**. Several top-ranked predictions by raw model score (e.g., scalp hypotrichosis, alopecia areata) have no mechanistic plausibility or supporting evidence and are flagged in the pack itself as likely knowledge-graph embedding noise.
+> Iloprost adalah analog prostasiklin (PGI2) sintetik yang telah ditubuhkan sebagai rawatan untuk hipertansi arterial pulmonari (HAP). Dalam kalangan sembilan petunjuk indikasi ramalan TxGNN untuk ubat ini, bukti terkuat menyokong **HAP yang berkaitan dengan infeksi HIV** — suatu subtip HAP Kumpulan 1 WHO yang diiktiraf — disokong oleh **1 ujian klinis Fasa 3 terkawal rawak yang telah selesai** dan **4 penerbitan sokongan**. Beberapa ramalan berperingkat tertinggi mengikut skor model mentah (cth., hipotrikosis kulit kepala, alopecia areata) tidak mempunyai kemungkinan mekanik atau bukti sokongan dan ditandai dalam pek itu sendiri sebagai kemungkinan hingar pembenaman graf pengetahuan.
 
 ---
 
-## Quick Overview
+## Gambaran Lintasan Pantas
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Pulmonary Arterial Hypertension (per repurposing rationale references to "existing PAH indication"; official TFDA/NPRA label text itself is a data gap) |
-| Predicted New Indication | Pulmonary Arterial Hypertension associated with HIV infection |
-| TxGNN Prediction Score | 99.21% |
-| Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Proceed with Guardrails |
+| Petunjuk Asal | Hipertansi Arterial Pulmonari (mengikut rujukan rasional penggunaan semula ubat kepada "petunjuk HAP sedia ada"; teks label rasmi TFDA/NPRA itu sendiri adalah jurang data) |
+| Petunjuk Ramalan Baru | Hipertansi Arterial Pulmonari yang berkaitan dengan infeksi HIV |
+| Skor Ramalan TxGNN | 99.21% |
+| Tahap Bukti | L1 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Cadangan Keputusan | Teruskan dengan Langkah Keselamatan |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed DrugBank mechanism-of-action data is a flagged gap in this pack (DG002). However, the evidence pack's own repurposing rationale consistently describes iloprost as a **synthetic prostacyclin (PGI2) analog** with pulmonary vasodilator and antiplatelet/antithrombotic activity — the core pharmacological class used to treat WHO Group 1 PAH.
+Data mekanisme tindakan DrugBank yang terperinci adalah jurang yang ditandai dalam pek ini (DG002). Bagaimanapun, rasional penggunaan semula ubat pek bukti itu sendiri secara konsisten menggambarkan iloprost sebagai **analog prostasiklin (PGI2) sintetik** dengan aktiviti vasodilator pulmonari dan antiplatelet/antitrombotik — kelas farmakologi teras yang digunakan untuk merawat HAP Kumpulan 1 WHO.
 
-HIV-associated PAH is formally classified as a Group 1 PAH subtype under current pulmonary hypertension nosology, sharing the same underlying pulmonary vascular pathology (endothelial dysfunction, vasoconstriction, vascular remodeling) as the drug's existing PAH indication. Because of this, the rationale text explicitly notes this is **not** a cross-indication extrapolation but a direct application of iloprost's established mechanism to a specific etiological subgroup that may not be explicitly named on the current label.
+HAP berkaitan HIV secara rasmi diklasifikasikan sebagai subtip HAP Kumpulan 1 di bawah nosologi hipertansi pulmonari semasa, berkongsi patologi vaskular pulmonari asas yang sama (disfungsi endotel, vasokonstriksi, pemodelan semula vaskular) dengan petunjuk HAP sedia ada ubat. Oleh itu, teks rasional dengan jelas mencatat bahawa ini **bukan** pengekstrapolasian petunjuk merentas tetapi aplikasi langsung mekanisme iloprost yang ditubuhkan kepada subkumpulan etiologi khusus yang mungkin tidak dinamakan secara jelas pada label semasa.
 
-This also explains the pattern across the other predicted candidates: PAH subtypes associated with congenital heart disease, connective tissue disease, chronic hemolytic anemia, and schistosomiasis all score highly for the same mechanistic reason (all are Group 1 PAH). By contrast, the two highest raw-score predictions — scalp hypotrichosis and alopecia areata — involve hair-follicle/immune pathology with no known connection to prostacyclin pharmacology, and both are explicitly flagged in the pack as suspected model noise with zero supporting trials or literature.
+Ini juga menjelaskan corak di seluruh calon ramalan lain: subtip HAP yang berkaitan dengan penyakit jantung bawaan, penyakit tisu penghubung, anemia hemolitik kronik, dan schistosomiasis semuanya mendapat markah tinggi untuk alasan mekanik yang sama (semuanya adalah HAP Kumpulan 1). Sebaliknya, dua ramalan skor model mentah tertinggi — hipotrikosis kulit kepala dan alopecia areata — melibatkan patologi folikel rambut/imun tanpa koneksi yang diketahui kepada farmakologi prostasiklin, dan kedua-duanya secara jelas ditandai dalam pek sebagai kemungkinan hingar model dengan sifar ujian sokongan atau kesusasteraan.
 
 ---
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinis
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT00709956](https://clinicaltrials.gov/study/NCT00709956) | Phase 3 | Completed | 64 | Multicenter, double-blind, randomized, placebo-controlled crossover study of a single dose of Iloprost Power 15 on exercise capacity in symptomatic PAH patients, including HIV-associated PAH; graded "A" relevance — direct, completed Phase 3 evidence for this subgroup. |
+| [NCT00709956](https://clinicaltrials.gov/study/NCT00709956) | Fasa 3 | Selesai | 64 | Kajian berbilang pusat, tersamar berganda, rawak dan terkawal plasebo dengan pertukaran bagi dos tunggal Iloprost Power 15 pada keupayaan senaman dalam pesakit HAP simptomatik, termasuk HAP berkaitan HIV; berperingkat relevan "A" — bukti Fasa 3 langsung yang selesai untuk subkumpulan ini. |
 
 ---
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [31090367](https://pubmed.ncbi.nlm.nih.gov/31090367/) | 2019 | Cohort/Registry | Terapevticheskii arkhiv | National PAH registry analysis (6-year observation) covering prevalence, clinical course, therapy, and mortality. |
-| [17195895](https://pubmed.ncbi.nlm.nih.gov/17195895/) | 2006 | Review | Mt Sinai J Med | Overview of HIV-related pulmonary arterial hypertension pathogenesis and presentation. |
-| [14720012](https://pubmed.ncbi.nlm.nih.gov/14720012/) | 2003 | Review | Am J Respir Med | Review of prostanoid therapy across PAH etiologies, including HIV infection. |
-| [18260882](https://pubmed.ncbi.nlm.nih.gov/18260882/) | 2007 | Review | Kardiologiia | Review of prostacyclin/prostanoid controlled trials across PAH subtypes including HIV infection. |
+| [31090367](https://pubmed.ncbi.nlm.nih.gov/31090367/) | 2019 | Kohort/Pendaftaran | Terapevticheskii arkhiv | Analisis pendaftaran HAP nasional (pemerhatian 6 tahun) yang meliputi prevalans, perjalanan klinis, terapi, dan kematian. |
+| [17195895](https://pubmed.ncbi.nlm.nih.gov/17195895/) | 2006 | Ulasan | Mt Sinai J Med | Gambaran keseluruhan patogenesis hipertansi arterial pulmonari berkaitan HIV dan persembahan. |
+| [14720012](https://pubmed.ncbi.nlm.nih.gov/14720012/) | 2003 | Ulasan | Am J Respir Med | Ulasan terapi prostanoid di seluruh etiologi HAP, termasuk infeksi HIV. |
+| [18260882](https://pubmed.ncbi.nlm.nih.gov/18260882/) | 2007 | Ulasan | Kardiologiia | Ulasan ujian terkawal prostasiklin/prostanoid di seluruh subtip HAP termasuk infeksi HIV. |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Iloprost is currently marketed in Malaysia with 1 active registration, but the license number, product name, dosage form, manufacturer, and approved indication text are not available in this evidence pack (data gap DG001 — TFDA/NPRA label details not yet retrieved).
+Iloprost sedang dipasarkan di Malaysia dengan 1 pendaftaran aktif, tetapi nombor lesen, nama produk, bentuk dos, pengeluar, dan teks petunjuk yang diluluskan tidak tersedia dalam pek bukti ini (jurang data DG001 — butiran label TFDA/NPRA belum diambil).
 
 ---
 
-## Other Predicted Indications (Same Drug)
+## Petunjuk Ramalan Lain (Ubat yang Sama)
 
-For context, the full evidence pack evaluates 9 TxGNN-predicted indications for iloprost. Ranked by evidence strength rather than raw model score:
+Untuk konteks, pek bukti lengkap menilai 9 petunjuk ramalan TxGNN untuk iloprost. Disusun mengikut kekuatan bukti dan bukannya skor model mentah:
 
-| Predicted Indication | Evidence Level | Recommendation |
+| Petunjuk Ramalan | Tahap Bukti | Cadangan |
 |---|---|---|
-| PAH associated with HIV infection | L1 | Proceed with Guardrails |
-| PAH associated with connective tissue disease | L2 | Proceed with Guardrails |
-| PAH associated with congenital heart disease | L2 | Research Question |
-| PAH associated with schistosomiasis | L4 | Research Question |
-| Pulmonary arteriovenous malformation | L4 | Hold |
-| PAH associated with chronic hemolytic anemia | L5 | Hold |
-| Hypotrichosis simplex of the scalp | L5 | Hold (suspected embedding noise) |
-| Congenital hypotrichosis milia | L5 | Hold (suspected embedding noise) |
-| Diffuse alopecia areata | L5 | Hold |
+| HAP yang berkaitan dengan infeksi HIV | L1 | Teruskan dengan Langkah Keselamatan |
+| HAP yang berkaitan dengan penyakit tisu penghubung | L2 | Teruskan dengan Langkah Keselamatan |
+| HAP yang berkaitan dengan penyakit jantung bawaan | L2 | Soalan Penyelidikan |
+| HAP yang berkaitan dengan schistosomiasis | L4 | Soalan Penyelidikan |
+| Malformasi arteriovena pulmonari | L4 | Tahan |
+| HAP yang berkaitan dengan anemia hemolitik kronik | L5 | Tahan |
+| Hipotrikosis mudah kulit kepala | L5 | Tahan (kemungkinan hingar pembenaman yang disyaki) |
+| Hipotrikosis bawaan milia | L5 | Tahan (kemungkinan hingar pembenaman yang disyaki) |
+| Alopecia areata difus | L5 | Tahan |
 
 ---
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information. (All safety fields in this evidence pack — key warnings, contraindications, and drug interactions — are unresolved data gaps; DG001 flags TFDA label warnings/contraindications as a **Blocking** gap that must be closed before a formal S1 safety review.)
+Sila rujuk kemasukan pek untuk maklumat keselamatan. (Semua medan keselamatan dalam pek bukti ini — amaran utama, kontraindikasi, dan interaksi ubat — adalah jurang data yang tidak diselesaikan; bendera DG001 amaran/kontraindikasi label TFDA sebagai jurang **Pemblokiran** yang mesti ditutup sebelum semakan keselamatan rasmi S1.)
 
 ---
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Proceed with Guardrails**
+**Keputusan: Teruskan dengan Langkah Keselamatan**
 
-**Rationale:**
-HIV-associated PAH has the strongest evidentiary support among the predicted candidates — a completed Phase 3 RCT plus corroborating literature — and represents a mechanistically direct extension of iloprost's existing PAH indication rather than a novel repurposing hypothesis. Other PAH-subtype candidates (connective tissue disease, congenital heart disease) are directionally supportive but lower-powered (L2), while the top raw-score candidates (hypotrichosis, alopecia) lack any mechanistic or evidentiary basis and should be held.
+**Rasional:**
+HAP berkaitan HIV mempunyai sokongan bukti terkuat dalam kalangan calon ramalan — ujian klinis Fasa 3 terkawal rawak yang selesai ditambah kesusasteraan yang menyokong — dan mewakili sambungan mekanik langsung petunjuk HAP sedia ada iloprost dan bukan hipotesis penggunaan semula ubat yang baru. Calon subtip HAP lain (penyakit tisu penghubung, penyakit jantung bawaan) menyokong arah tetapi berdaya rendah (L2), manakala calon skor model mentah tertinggi (hipotrikosis, alopecia) tidak mempunyai asas mekanik atau bukti dan harus ditahan.
 
-**To proceed, the following is needed:**
-- Resolve DG001 (blocking): retrieve TFDA/NPRA label warnings, contraindications, and full registration details
-- Resolve DG002: obtain formal DrugBank MOA record to confirm the mechanistic linkage used above
-- Confirm whether the current Malaysia label already covers HIV-associated PAH explicitly, or whether this represents a labeling gap rather than a new indication
-- Classify remaining relevance="pending" literature entries to firm up the evidence tier for lower-ranked candidates before further investment
+**Untuk meneruskan, yang berikut diperlukan:**
+- Selesaikan DG001 (pemblokiran): ambil amaran label TFDA/NPRA, kontraindikasi, dan butiran pendaftaran lengkap
+- Selesaikan DG002: dapatkan rekod mekanisme tindakan DrugBank rasmi untuk mengesahkan sambungan mekanik yang digunakan di atas
+- Sahkan sama ada label Malaysia semasa telah pun meliputi HAP berkaitan HIV secara jelas, atau sama ada ini mewakili jurang pelabelan dan bukannya petunjuk baru
+- Klasifikasikan entri kesusasteraan relevansi="tertunda" yang tinggal untuk menyatakan semula tahap bukti untuk calon berperingkat lebih rendah sebelum pelaburan lanjut
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

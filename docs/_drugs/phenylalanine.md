@@ -29,65 +29,66 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Phenylalanine: From Unspecified Indication to Sclerosing Cholangitis
+# Fenilalanin: Dari Petunjuk Penggunaan Tidak Tertantu kepada Kolangitis Sklerotik
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Phenylalanine (DrugBank DB00120) is an essential amino acid marketed in Malaysia under 35 registrations, but its approved indication text was not captured in the available registry data.
-The TxGNN model predicts it may be effective for **Sclerosing Cholangitis**, with **no clinical trials** and only **4 tangentially related publications** currently identified — none of which studied phenylalanine as a therapeutic intervention for this disease.
+Fenilalanin (DrugBank DB00120) ialah asid amino penting yang dipasarkan di Malaysia di bawah 35 pendaftaran, namun teks petunjuk penggunaan yang diluluskan tidak tertangkap dalam data daftar yang tersedia.
+Model TxGNN meramal bahawa ia mungkin berkesan untuk **Kolangitis Sklerotik**, dengan **tiada percubaan klinikal** dan hanya **4 publikasi yang berkaitan secara tidak langsung** yang dikenal pasti pada masa kini — tiada satu pun dari publikasi tersebut mengkaji fenilalanin sebagai campur tangan terapeutik untuk penyakit ini.
 
-## Quick Overview
+## Gambaran Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | Not available in registry data (all 5 extracted license records have blank indication text) |
-| Predicted New Indication | Sclerosing Cholangitis |
-| TxGNN Prediction Score | 99.43% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 35 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|---------|
+| Petunjuk Penggunaan Asal | Tidak tersedia dalam data daftar (kesemua 5 rekod lesen yang diekstrak mempunyai teks petunjuk penggunaan kosong) |
+| Petunjuk Penggunaan Baharu yang Diramalkan | Kolangitis Sklerotik |
+| Skor Ramalan TxGNN | 99.43% |
+| Aras Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 35 |
+| Keputusan Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed mechanism of action data is not currently available for phenylalanine in this evidence pack. What is known is that phenylalanine is an essential amino acid and metabolic precursor of tyrosine — it is not a drug with a defined pharmacological mechanism targeting a specific disease pathway.
+Data mekanisme tindakan terperinci tidak tersedia pada masa kini untuk fenilalanin dalam pakej bukti ini. Apa yang diketahui ialah bahawa fenilalanin ialah asid amino penting dan pelopor metabolik tirosin — ia bukan ubat dengan mekanisme farmakologi yang tertakrif menyasarkan laluan penyakit khusus.
 
-There is no established causal or mechanistic link between phenylalanine and the immune/fibrotic pathology underlying sclerosing cholangitis. The identified literature is incidental rather than supportive: one study (PMID 15790420) measured plasma tyrosine as a fatigue biomarker in cholangitis patients (an association, not an intervention); another (PMID 32025163) profiled serum metabolomics in cholangiocarcinoma for biomarker discovery; and two older papers (PMID 8000512, PMID 2103382) concern *formyl-methionyl-leucyl-phenylalanine (fMLP)*, a bacterial chemotactic peptide that merely contains a phenylalanine residue — structurally related but pharmacologically unrelated to phenylalanine itself.
+Tidak terdapat hubung sebab akibat atau mekanistik yang telah ditentukan antara fenilalanin dan patologi imun/fibrosis yang mendasari kolangitis sklerotik. Kesusasteraan yang dikenal pasti adalah kebetulan daripada sokongan: satu kajian (PMID 15790420) mengukur tirosin plasma sebagai biopenanda keletihan pada pesakit kolangitis (suatu persatuan, bukan campur tangan); yang lain (PMID 32025163) mengprofilkan metabolomik serum dalam kolangiokarsinom untuk penemuan biopenanda; dan dua kertas kerja lebih lama (PMID 8000512, PMID 2103382) berkenaan dengan *formil-metionil-leusil-fenilalanin (fMLP)*, suatu peptida kemotaktis bakteria yang hanya mengandungi sisa fenilalanin — berkaitan secara struktur tetapi tidak berkaitan secara farmakologi dengan fenilalanin itu sendiri.
 
-The high TxGNN score (0.994) reflects topological similarity within the knowledge graph rather than mechanistic or clinical evidence. Given the absence of any direct study of phenylalanine in sclerosing cholangitis, this prediction should be treated as a hypothesis-generation signal only, not a repurposing candidate with supporting evidence.
+Skor TxGNN yang tinggi (0.994) mencerminkan kesamaan topologi dalam graf pengetahuan daripada bukti mekanistik atau klinikal. Memandangkan ketiadaan sebarang kajian langsung tentang fenilalanin dalam kolangitis sklerotik, ramalan ini harus dianggap sebagai isyarat penjanaan hipotesis sahaja, bukan calon tujuan baru dengan bukti sokongan.
 
-## Clinical Trial Evidence
+## Bukti Percubaan Klinikal
 
-Currently no related clinical trials registered.
+Pada masa kini tiada percubaan klinikal berkaitan yang didaftarkan.
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [15790420](https://pubmed.ncbi.nlm.nih.gov/15790420/) | 2005 | Cohort | BMC Gastroenterology | Examined plasma tyrosine levels and their association with fatigue in primary biliary cirrhosis and primary sclerosing cholangitis; identifies an amino-acid/fatigue association, not a phenylalanine intervention |
-| [32025163](https://pubmed.ncbi.nlm.nih.gov/32025163/) | 2020 | Cohort | Journal of Clinical and Experimental Hepatology | Serum metabolomic/mass-spectrometry profiling to find biomarkers for cholangiocarcinoma vs. benign hepatobiliary disease; no phenylalanine treatment involved |
-| [8000512](https://pubmed.ncbi.nlm.nih.gov/8000512/) | 1994 | Animal model | Journal of Gastroenterology | Rat colitis model: rectal administration of the bacterial peptide fMLT (which contains a phenylalanine residue) induced small duct cholangitis — a mechanistic curiosity, not evidence for phenylalanine as a treatment |
-| [2103382](https://pubmed.ncbi.nlm.nih.gov/2103382/) | 1990 | Other | Journal of Gastroenterology and Hepatology | Describes enterohepatic circulation of bacterial chemotactic F-met-oligopeptides in humans; unrelated to therapeutic use of phenylalanine |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|------|------|------|--------|
+| [15790420](https://pubmed.ncbi.nlm.nih.gov/15790420/) | 2005 | Kohort | BMC Gastroenterology | Memeriksa tahap tirosin plasma dan persatuan mereka dengan keletihan dalam sirosis bilidaris utama dan kolangitis sklerotik utama; mengenal pasti persatuan asid amino/keletihan, bukan campur tangan fenilalanin |
+| [32025163](https://pubmed.ncbi.nlm.nih.gov/32025163/) | 2020 | Kohort | Journal of Clinical and Experimental Hepatology | Pemprofilan metabolomik serum/spekrometri jisim untuk mencari biopenanda untuk kolangiokarsinom berbanding penyakit hepatobiliari jinak; tiada rawatan fenilalanin yang terlibat |
+| [8000512](https://pubmed.ncbi.nlm.nih.gov/8000512/) | 1994 | Model hewan | Journal of Gastroenterology | Model kolitis tikus: pemberian rektal peptida bakteria fMLT (yang mengandungi sisa fenilalanin) mengaruh kolangitis saluran kecil — satu keingintahuan mekanistik, bukan bukti untuk fenilalanin sebagai rawatan |
+| [2103382](https://pubmed.ncbi.nlm.nih.gov/2103382/) | 1990 | Lain-lain | Journal of Gastroenterology and Hepatology | Menerangkan peredaran enterohepati peptida kemotaktis bakteria F-met-oligo dalam manusia; tidak berkaitan dengan penggunaan terapeutik fenilalanin |
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-35 product registrations are on record, but the extracted regulatory dataset did not include license numbers, product names, dosage forms, or indication text for any of the 5 sampled entries — this section cannot be populated from the current evidence pack and requires re-extraction from the source registry.
+35 pendaftaran produk berada dalam rekod, namun set data kawal selia yang diekstrak tidak memasukkan nombor lesen, nama produk, bentuk dos, atau teks petunjuk penggunaan bagi mana-mana 5 entri yang diambil sampel — bahagian ini tidak dapat dipenuhi daripada pakej bukti semasa dan memerlukan pencucian semula daripada daftar sumber.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk kepada risalah pembungkus untuk maklumat keselamatan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The prediction rests solely on a TxGNN topological score (L5 evidence) with no supporting clinical trials and no literature that directly studies phenylalanine as a treatment for sclerosing cholangitis; the identified publications are biomarker or unrelated-peptide studies. There is currently no mechanistic or clinical rationale to advance this candidate.
+**Rasional:**
+Ramalan bergantung sepenuhnya pada skor topologi TxGNN (bukti L5) tanpa percubaan klinikal sokongan dan tiada kesusasteraan yang mengkaji fenilalanin secara langsung sebagai rawatan untuk kolangitis sklerotik; publikasi yang dikenal pasti ialah biopenanda atau kajian peptida yang tidak berkaitan. Pada masa kini tiada rasional mekanistik atau klinikal untuk memajukan calon ini.
 
-**To proceed, the following is needed:**
-- Mechanism of action (MOA) data for phenylalanine from DrugBank
-- TFDA/NPRA label warnings, contraindications, and approved indication text (currently blocking, per data gap DG001)
-- Any preclinical or mechanistic study directly linking phenylalanine metabolism to cholangitis/biliary fibrosis before further evaluation is warranted
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) untuk fenilalanin daripada DrugBank
+- Amaran label TFDA/NPRA, kontraindikasi, dan teks petunjuk penggunaan yang diluluskan (pada masa kini menghalang, mengikut jurang data DG001)
+- Sebarang kajian praklinikal atau mekanistik yang menghubungkan secara langsung metabolisme fenilalanin kepada kolangitis/fibrosis biliari sebelum penilaian lanjutan adalah berwaran
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

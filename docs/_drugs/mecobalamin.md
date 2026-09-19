@@ -29,77 +29,78 @@ Tahap bukti: **L5** | Indikasi diramal: **3**
 
 </div>
 
-# Mecobalamin: From Unspecified Original Indication to Sclerosing Cholangitis
+# Mecobalamin: Dari Petunjuk Asli yang Tidak Ditetapkan kepada Kolangitis Sklerosis
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Mecobalamin (DrugBank DB03614) is a vitamin B12 coenzyme analogue marketed in Malaysia under 16 registrations, but its approved indication text was not captured in the current data extraction.
-The TxGNN model predicts it may be effective for **Sclerosing Cholangitis**, but this prediction is currently supported by **0 clinical trials** and **0 publications**, and the model's own rationale flags no known biological link to the proposed mechanism.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not available in current dataset (no non-empty approved indication text on record) |
-| Predicted New Indication | Sclerosing Cholangitis |
-| TxGNN Prediction Score | 99.50% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 16 |
-| Recommended Decision | Hold |
+Mecobalamin (DrugBank DB03614) ialah analog koenzim vitamin B12 yang dipasarkan di Malaysia di bawah 16 pendaftaran, tetapi teks petunjuk yang diluluskan tidak ditangkap dalam pengekstrakan data semasa.
+Model TxGNN meramalkan ia mungkin berkesan untuk **Kolangitis Sklerosis**, tetapi ramalan ini kini disokong oleh **0 ujian klinikal** dan **0 publikasi**, dan rasional model itu sendiri tidak menandakan pautan biologi yang diketahui kepada mekanisme yang dicadangkan.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Pantas
 
-Currently, detailed mechanism of action data is not available for mecobalamin (Data Gap). Based on general pharmacology, mecobalamin is the active coenzyme form of vitamin B12, primarily involved in the methionine synthase reaction, homocysteine metabolism, and myelin/nerve repair.
-
-There is no established mechanistic link between vitamin B12 metabolism and sclerosing cholangitis, which is pathologically driven by immune-mediated bile duct fibrosis (IgG4-related disease, autoimmune, or cholestatic processes). The model's own rationale for this candidate explicitly states that the association is a data-driven statistical signal from the knowledge graph rather than one supported by a biological hypothesis, and that the missing original MOA data further limits confidence in this link.
-
-The two lower-ranked candidates (multiple endocrine neoplasia and bone Paget disease) show a similar pattern: no established pathway overlap with B12/homocysteine metabolism, and the model rationale for each states the connection is inferred rather than mechanistically supported.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asli | Tidak tersedia dalam set data semasa (tiada teks petunjuk yang diluluskan pada rekod) |
+| Petunjuk Baru yang Diramalkan | Kolangitis Sklerosis |
+| Skor Ramalan TxGNN | 99.50% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 16 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available.
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia untuk mecobalamin (Jurang Data). Berdasarkan farmakologi umum, mecobalamin ialah bentuk koenzim aktif vitamin B12, terutamanya terlibat dalam tindak balas sintesis metionin, metabolisme homosisteine, dan pembaikan mielin/saraf.
 
----
+Tiada pautan mekanistik yang ditetapkan antara metabolisme vitamin B12 dan kolangitis sklerosis, yang didorong secara patologi oleh fibrosis saluran hempedu yang dimediasi imun (penyakit berkaitan IgG4, autoimun, atau proses kolestasis). Rasional model itu sendiri untuk calon ini secara eksplisit menyatakan bahawa perkaitan itu adalah isyarat statistik yang didorong data daripada graf pengetahuan dan bukannya yang disokong oleh hipotesis biologi, dan bahawa data MOA asli yang hilang seterusnya mengehadkan keyakinan dalam pautan ini.
 
-## Malaysia Market Information
-
-Detailed authorization records (license numbers, product names, dosage forms, approved indication text) for the 16 registered mecobalamin products are not available in the current dataset — all license fields returned empty on extraction.
+Dua calon berpangkat lebih rendah (neoplasia endokrin berganda dan penyakit Paget tulang) menunjukkan corak yang sama: tiada pertindihan laluan yang ditetapkan dengan metabolisme B12/homosisteine, dan rasional model bagi setiap menyatakan perkaitan itu disimpulkan daripada mekanistik yang disokong.
 
 ---
 
-## Safety Considerations
+## Bukti Ujian Klinikal
 
-Please refer to the package insert for safety information.
-
-*(Note: TFDA/NPRA label warnings and contraindications are flagged as a Blocking data gap (DG001) — this prevents a full S1 safety pre-assessment.)*
+Pada masa ini tiada ujian klinikal yang berkaitan didaftarkan.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Kesusasteraan
 
-**Decision: Hold**
+Pada masa ini tiada kesusasteraan yang berkaitan tersedia.
 
-**Rationale:**
-The top-ranked prediction (sclerosing cholangitis) is evidence level L5 — a model-only prediction with zero supporting clinical trials or literature, and the model's own rationale notes no known biological plausibility. Combined with a Blocking safety data gap (missing TFDA label/warnings) and missing MOA data, there is insufficient basis to advance this candidate.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA label PDF with warnings and contraindications (DG001, Blocking)
-- DrugBank-sourced mechanism of action data (DG002, High)
-- Confirmed original approved indication text (current license records are empty)
-- Literature or trial evidence specifically linking B12/homocysteine metabolism to bile duct fibrosis, if this candidate is to be re-evaluated
+## Maklumat Pasaran Malaysia
+
+Rekod kebenaran terperinci (nombor lesen, nama produk, bentuk dos, teks petunjuk yang diluluskan) untuk 16 produk mecobalamin yang didaftarkan tidak tersedia dalam set data semasa — semua medan lesen dipulangkan kosong pada pengekstrakan.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk kepada risalah pakej untuk maklumat keselamatan.
+
+*(Catatan: Amaran label TFDA/NPRA dan kontraindikasi ditandakan sebagai jurang data Menyekat (DG001) — ini menghalang penilaian keselamatan S1 penuh.)*
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Ramalan berpangkat teratas (kolangitis sklerosis) ialah tahap bukti L5 — ramalan model sahaja tanpa sifar ujian klinikal atau kesusasteraan yang menyokong, dan rasional model itu sendiri mencatat tiada kebolehpercayaan biologi yang diketahui. Digabungkan dengan jurang data keselamatan Menyekat (label TFDA/NPRA dan amaran yang hilang) dan data MOA yang hilang, tiada asas yang mencukupi untuk memajukan calon ini.
+
+**Untuk diteruskan, perkara berikut diperlukan:**
+- PDF label TFDA/NPRA dengan amaran dan kontraindikasi (DG001, Menyekat)
+- Data mekanisme tindakan bersumber DrugBank (DG002, Tinggi)
+- Teks petunjuk yang diluluskan asli yang disahkan (rekod lesen semasa kosong)
+- Kesusasteraan atau bukti ujian yang khusus mengaitkan metabolisme B12/homosisteine kepada fibrosis saluran hempedu, jika calon ini akan dinilai semula
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

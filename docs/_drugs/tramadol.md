@@ -29,99 +29,100 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Tramadol: From Moderate-to-Severe Pain to Osteoarthritis
+# Tramadol: Dari Kesakitan Sederhana hingga Berat kepada Osteoartritis
 
-> **Note on ranking**: TxGNN's single highest-scored candidate is *"osteoarthritis susceptibility"* (rank #1, 99.9985%) — this KG node represents a genetic susceptibility locus, not a treatable clinical indication, and carries no supporting efficacy evidence (only one unrelated mortality-safety paper). This report therefore evaluates the top **clinically actionable** candidate, **osteoarthritis** (rank #2, 99.9945%), which is where essentially all the clinical trial and literature evidence in this pack actually concentrates.
+> **Nota tentang kedudukan**: Calon skor tertinggi tunggal TxGNN ialah *"kerentanan osteoartritis"* (kedudukan #1, 99.9985%) — nod KG ini mewakili lokus kerentanan genetik, bukan petunjuk klinis yang boleh dirawat, dan tidak mempunyai bukti keberkesanan yang menyokong (hanya satu kertas keselamatan-mortaliti yang tidak berkaitan). Laporan ini oleh itu menilai calon teratas **yang boleh diambil tindakan secara klinis**, **osteoartritis** (kedudukan #2, 99.9945%), iaitu di mana pada dasarnya semua bukti ujian klinis dan literatur dalam pakej ini tertumpu.
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Tramadol is a centrally-acting opioid analgesic long used for moderate to severe pain. The TxGNN model additionally scores **Osteoarthritis** very highly among candidate indications, and this direction is already backed by **50 clinical trials** and **20 publications** in the evidence pack — including multiple completed Phase 3 RCTs of tramadol itself in knee/hip OA and Cochrane-level systematic reviews.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Moderate to severe pain (opioid analgesic) — Malaysia-specific licensed indication text not available in this data set |
-| Predicted New Indication | Osteoarthritis |
-| TxGNN Prediction Score | 99.99% |
-| Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 34 |
-| Recommended Decision | Proceed with Guardrails |
+Tramadol ialah analgesia opioid yang bertindak secara pusat yang telah lama digunakan untuk kesakitan sederhana hingga berat. Model TxGNN juga memberi skor **osteoartritis** yang sangat tinggi di kalangan petunjuk calon, dan arah ini sudah disokong oleh **50 ujian klinis** dan **20 penerbitan** dalam pakej bukti — termasuk pelbagai RCT Fasa 3 tramadol itu sendiri dalam OA lutut/pinggul dan ulasan sistematik peringkat Cochrane.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Pantas
 
-Currently, detailed formal mechanism-of-action documentation is not available in the regulatory data supplied. Based on well-established pharmacology, tramadol is a weak mu-opioid receptor agonist that also inhibits serotonin and norepinephrine reuptake (an SNRI-like effect), giving it a dual mechanism: opioid-receptor-mediated analgesia plus activation of descending monoaminergic pain-inhibition pathways.
-
-Tramadol's original use is analgesia for moderate-to-severe pain of varied etiology, and osteoarthritis (OA) pain is one of the most common chronic pain conditions this mechanism is already applied to clinically. The proposed "new" indication is therefore not a mechanistic leap — it is a direct extension of tramadol's core pharmacology to a specific, high-prevalence pain population.
-
-This is corroborated by external evidence: both the American Academy of Orthopaedic Surgeons and the American College of Rheumatology/Arthritis Foundation guidelines already list tramadol as a treatment option for knee OA, and multiple completed Phase 3 RCTs (several with >500–1900 enrolled patients) and Cochrane systematic reviews have directly evaluated tramadol's efficacy and safety in OA. In effect, TxGNN has re-discovered a use that is already substantially validated in the literature — which strengthens confidence in the model's signal but also means the "novelty" of this repurposing candidate is limited; the value here is closer to formal indication expansion / evidence consolidation than genuine off-label discovery.
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Kesakitan sederhana hingga berat (analgesia opioid) — teks petunjuk berlesen khusus Malaysia tidak tersedia dalam set data ini |
+| Petunjuk Baru yang Diramalkan | Osteoartritis |
+| Skor Ramalan TxGNN | 99.99% |
+| Paras Bukti | L1 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 34 |
+| Keputusan yang Disyorkan | Teruskan dengan Penjaga Keselamatan |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Pada masa ini, dokumentasi mekanisme kerja formal yang terperinci tidak tersedia dalam data kawal selia yang dibekalkan. Berdasarkan farmakologi yang mantap, tramadol ialah agonis reseptor mu-opioid yang lemah yang juga menghalang pengambilan semula serotonin dan norepinefrin (kesan seperti SNRI), memberikannya mekanisme dwi: analgesia yang dimediasi reseptor opioid ditambah pengaktifan laluan penghambatan kesakitan monoaminergik yang menurun.
+
+Penggunaan asal tramadol ialah analgesia untuk kesakitan sederhana hingga berat dari etiologi yang berlainan, dan kesakitan osteoartritis (OA) ialah salah satu keadaan kesakitan kronik yang paling biasa mekanisme ini sudah digunakan secara klinis. Petunjuk "baru" yang dicadangkan oleh itu bukan lompatan mekanis — ia adalah lanjutan langsung farmakologi teras tramadol ke populasi kesakitan yang mempunyai prevalensi tinggi.
+
+Ini disokong oleh bukti luaran: panduan American Academy of Orthopaedic Surgeons dan American College of Rheumatology/Arthritis Foundation sudah menyenaraikan tramadol sebagai pilihan rawatan untuk OA lutut, dan RCT Fasa 3 yang telah selesai berbilang-bilang (beberapa dengan >500–1900 pesakit yang terdaftar) dan ulasan sistematik Cochrane telah menilai secara langsung keberkesanan dan keselamatan tramadol dalam OA. Secara berkesan, TxGNN telah menemui semula penggunaan yang sudah disahkan secara meluas dalam literatur — yang mengukuhkan keyakinan terhadap isyarat model tetapi juga bermakna "kebaruan" calon pengubahan tujuan ini terhad; nilai di sini lebih hampir kepada pengembangan petunjuk formal/penyatupaduan bukti daripada penemuan luar label yang sebenar.
+
+---
+
+## Bukti Ujian Klinis
+
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT04504812](https://clinicaltrials.gov/study/NCT04504812) | Phase 3 | Completed | 1,937 | Large effectiveness trial of sequenced pain-management strategies (including opioid pathway) for knee OA pain |
-| [NCT00833794](https://clinicaltrials.gov/study/NCT00833794) | Phase 3 | Completed | 1,028 | Tramadol HCl Once-a-Day vs placebo: analgesic efficacy, safety, and clinical benefit in OA |
-| [NCT00348452](https://clinicaltrials.gov/study/NCT00348452) | Phase 3 | Completed | 1,000 | Dose-ranging RCT of tramadol HCl ER (100/200/300mg) vs celecoxib vs placebo in knee/hip OA |
-| [NCT00832416](https://clinicaltrials.gov/study/NCT00832416) | Phase 3 | Completed | 565 | Four-arm dose-response RCT: tramadol OAD 100/200/300mg vs placebo for knee OA pain |
-| [NCT00852917](https://clinicaltrials.gov/study/NCT00852917) | Phase 3 | Completed | 552 | Same dose-response design with 7-day follow-up extension |
-| [NCT00950651](https://clinicaltrials.gov/study/NCT00950651) | Phase 3 | Completed | 431 | Double-blind, double-dummy RCT comparing tramadol HCl/Contramid® once-daily vs tramadol HCl SR twice-daily in knee OA |
-| [NCT00833911](https://clinicaltrials.gov/study/NCT00833911) | Phase 3 | Completed | 392 | Open-label long-term (6–12 month) safety study of tramadol HCl OAD 300mg in knee OA |
-| [NCT00912015](https://clinicaltrials.gov/study/NCT00912015) | Phase 3 | Completed | 238 | Extension protocol + open-label long-term safety follow-up of tramadol OAD (up to 400mg) |
-| [NCT01063842](https://clinicaltrials.gov/study/NCT01063842) | Phase 4 | Completed | 250 | Titration vs fixed-dose tramadol/acetaminophen (Ultracet) tolerability in Korean OA patients |
-| [NCT01019265](https://clinicaltrials.gov/study/NCT01019265) | Phase 4 | Completed | 170 | Head-to-head RCT: buprenorphine transdermal patch vs oral tramadol SR in moderate-severe OA pain |
+| [NCT04504812](https://clinicaltrials.gov/study/NCT04504812) | Fasa 3 | Selesai | 1,937 | Ujian keberkesanan besar strategi pengurusan kesakitan berjujukan (termasuk laluan opioid) untuk kesakitan OA lutut |
+| [NCT00833794](https://clinicaltrials.gov/study/NCT00833794) | Fasa 3 | Selesai | 1,028 | Tramadol HCl Sekali Sehari vs plasebo: keberkesanan analgesia, keselamatan, dan manfaat klinis dalam OA |
+| [NCT00348452](https://clinicaltrials.gov/study/NCT00348452) | Fasa 3 | Selesai | 1,000 | RCT julat dos tramadol HCl ER (100/200/300mg) vs celecoxib vs plasebo dalam OA lutut/pinggul |
+| [NCT00832416](https://clinicaltrials.gov/study/NCT00832416) | Fasa 3 | Selesai | 565 | RCT respons dos empat lengan: tramadol OAD 100/200/300mg vs plasebo untuk kesakitan OA lutut |
+| [NCT00852917](https://clinicaltrials.gov/study/NCT00852917) | Fasa 3 | Selesai | 552 | Reka bentuk respons dos yang sama dengan lanjutan susulan 7 hari |
+| [NCT00950651](https://clinicaltrials.gov/study/NCT00950651) | Fasa 3 | Selesai | 431 | RCT buta-berganda, ujian-kembar-buta membandingkan tramadol HCl/Contramid® sekali sehari vs tramadol HCl SR dua kali sehari dalam OA lutut |
+| [NCT00833911](https://clinicaltrials.gov/study/NCT00833911) | Fasa 3 | Selesai | 392 | Kajian keselamatan jangka panjang label-terbuka (6–12 bulan) tramadol HCl OAD 300mg dalam OA lutut |
+| [NCT00912015](https://clinicaltrials.gov/study/NCT00912015) | Fasa 3 | Selesai | 238 | Protokol lanjutan + susulan keselamatan jangka panjang label-terbuka tramadol OAD (sehingga 400mg) |
+| [NCT01063842](https://clinicaltrials.gov/study/NCT01063842) | Fasa 4 | Selesai | 250 | Titration vs tramadol/acetaminophen dos tetap (Ultracet) kebolehtoleranan dalam pesakit OA Korea |
+| [NCT01019265](https://clinicaltrials.gov/study/NCT01019265) | Fasa 4 | Selesai | 170 | RCT kepala-ke-kepala: korek transdermis buprenorfin vs tramadol oral SR dalam kesakitan OA sederhana-berat |
 
 ---
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [31132298](https://pubmed.ncbi.nlm.nih.gov/31132298/) | 2019 | Cochrane Review | Cochrane Database Syst Rev | Updated Cochrane review of tramadol for OA pain and disability |
-| [34251756](https://pubmed.ncbi.nlm.nih.gov/34251756/) | 2023 | Systematic Review / Network Meta-Analysis | Arthritis Care & Research | Efficacy and safety of tramadol for knee/hip OA across RCTs |
-| [17343302](https://pubmed.ncbi.nlm.nih.gov/17343302/) | 2007 | Meta-Analysis | J Rheumatology | Tramadol for OA: systematic review and meta-analysis of analgesic effectiveness and safety |
-| [16856101](https://pubmed.ncbi.nlm.nih.gov/16856101/) | 2006 | Cochrane Review | Cochrane Database Syst Rev | Original Cochrane review establishing tramadol's OA evidence base |
-| [31908149](https://pubmed.ncbi.nlm.nih.gov/31908149/) | 2020 | Guideline | Arthritis Care & Research | 2019 ACR/Arthritis Foundation guideline for OA management (hand, hip, knee) |
-| [22563589](https://pubmed.ncbi.nlm.nih.gov/22563589/) | 2012 | Guideline | Arthritis Care & Research | ACR 2012 recommendations for pharmacologic/non-pharmacologic OA therapy |
-| [30860559](https://pubmed.ncbi.nlm.nih.gov/30860559/) | 2019 | Cohort (safety/mortality) | JAMA | Association of tramadol with all-cause mortality among OA patients — safety signal requiring caution |
-| [39420382](https://pubmed.ncbi.nlm.nih.gov/39420382/) | 2024 | Systematic Review / Meta-Analysis | Advances in Rheumatology | Tramadol vs codeine: all-cause mortality and cardiovascular risk in OA, propensity-matched cohorts |
-| [38103456](https://pubmed.ncbi.nlm.nih.gov/38103456/) | 2024 | Systematic Review / Meta-Analysis | Int J Orthopaedic and Trauma Nursing | Tramadol use and hip fracture risk in OA patients |
-| [40095377](https://pubmed.ncbi.nlm.nih.gov/40095377/) | 2025 | Systematic Review (post-marketing safety) | Drugs | Post-marketing surveillance safety review of anti-OA medications including tramadol |
+| [31132298](https://pubmed.ncbi.nlm.nih.gov/31132298/) | 2019 | Ulasan Cochrane | Cochrane Database Syst Rev | Ulasan Cochrane terkini tramadol untuk kesakitan dan ketidakupayaan OA |
+| [34251756](https://pubmed.ncbi.nlm.nih.gov/34251756/) | 2023 | Ulasan Sistematik / Meta-Analisis | Arthritis Care & Research | Keberkesanan dan keselamatan tramadol untuk OA lutut/pinggul merentasi RCT |
+| [17343302](https://pubmed.ncbi.nlm.nih.gov/17343302/) | 2007 | Meta-Analisis | J Rheumatology | Tramadol untuk OA: ulasan sistematik dan meta-analisis keberkesanan dan keselamatan analgesia |
+| [16856101](https://pubmed.ncbi.nlm.nih.gov/16856101/) | 2006 | Ulasan Cochrane | Cochrane Database Syst Rev | Ulasan Cochrane asal yang mewujudkan asas bukti OA tramadol |
+| [31908149](https://pubmed.ncbi.nlm.nih.gov/31908149/) | 2020 | Panduan | Arthritis Care & Research | Panduan 2019 ACR/Arthritis Foundation untuk pengurusan OA (tangan, pinggul, lutut) |
+| [22563589](https://pubmed.ncbi.nlm.nih.gov/22563589/) | 2012 | Panduan | Arthritis Care & Research | Cadangan ACR 2012 untuk terapi OA farmakologi/bukan farmakologi |
+| [30860559](https://pubmed.ncbi.nlm.nih.gov/30860559/) | 2019 | Kohort (keselamatan/mortaliti) | JAMA | Perkaitan tramadol dengan mortaliti semua sebab di kalangan pesakit OA — isyarat keselamatan memerlukan kehati-hatian |
+| [39420382](https://pubmed.ncbi.nlm.nih.gov/39420382/) | 2024 | Ulasan Sistematik / Meta-Analisis | Advances in Rheumatology | Tramadol vs kodein: mortaliti semua sebab dan risiko kardiovaskular dalam OA, kohort yang dipadan dengan kecenderungan |
+| [38103456](https://pubmed.ncbi.nlm.nih.gov/38103456/) | 2024 | Ulasan Sistematik / Meta-Analisis | Int J Orthopaedic and Trauma Nursing | Penggunaan tramadol dan risiko patah pinggul dalam pesakit OA |
+| [40095377](https://pubmed.ncbi.nlm.nih.gov/40095377/) | 2025 | Ulasan Sistematik (keselamatan pasca-pemasaran) | Drugs | Ulasan keselamatan pengawasan pasca-pemasaran ubat anti-OA termasuk tramadol |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Malaysia (NPRA) records show Tramadol as **marketed** with **34 total registrations**, but license-level detail (registration numbers, product names, dosage forms, manufacturers, approved indication text) was not returned by the source query in this evidence pack — all fields were blank. This is a data gap that needs to be closed via a direct NPRA registration lookup before finalizing formulation/route assumptions.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information. No usable warnings, contraindications, or drug-drug interaction data were returned in this evidence pack (DDI query status: not found, 0 interactions). Note this overlaps with **DG001** (TFDA/NPRA package insert warnings/contraindications, severity: Blocking) — this gap currently blocks formal S1 safety screening and must be resolved before any clinical guardrails can be specified. Independently of this data gap, published literature above already flags tramadol-specific safety signals in OA populations (all-cause mortality, hip fracture risk, cardiovascular risk vs codeine) that should inform any monitoring plan.
+Rekod Malaysia (NPRA) menunjukkan Tramadol sebagai **dipasarkan** dengan **34 pendaftaran keseluruhan**, tetapi butiran peringkat lesen (nombor pendaftaran, nama produk, bentuk dos, pengilang, teks petunjuk yang diluluskan) tidak dikembalikan oleh pertanyaan sumber dalam pakej bukti ini — semua medan kosong. Ini ialah jurang data yang perlu ditutup melalui pencarian pendaftaran NPRA langsung sebelum memuktamadkan andaian perumusan/laluan.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Proceed with Guardrails**
+Sila rujuk sisipan pakej untuk maklumat keselamatan. Tiada peringatan, kontraindikasi, atau data interaksi ubat-ubat yang berguna dikembalikan dalam pakej bukti ini (status pertanyaan DDI: tidak ditemui, 0 interaksi). Ini bertindih dengan **DG001** (amaran sisipan pakej TFDA/NPRA/kontraindikasi, keterukan: Menyekat) — jurang ini kini menghalang pemeriksaan keselamatan S1 formal dan mesti diselesaikan sebelum mana-mana penjaga keselamatan klinis boleh ditetapkan. Secara bebas dari jurang data ini, literatur terbitan di atas sudah menandai isyarat keselamatan khusus tramadol dalam populasi OA (mortaliti semua sebab, risiko patah pinggul, risiko kardiovaskular vs kodein) yang harus diambil kira dalam mana-mana pelan pemantauan.
 
-**Rationale:**
-Osteoarthritis is supported by evidence level L1 — multiple large, completed Phase 3 RCTs directly testing tramadol in knee/hip OA, plus Cochrane systematic reviews and ACR/AAOS clinical guidelines that already recommend tramadol as an OA treatment option. However, a Blocking-severity data gap (TFDA/NPRA warnings and contraindications, DG001) prevents completion of the safety pre-screen, and published safety literature (mortality, fracture risk) warrants guardrails rather than an unconditional Go.
+---
 
-**To proceed, the following is needed:**
-- Resolve DG001: retrieve and parse the Malaysia (NPRA) package insert PDF for warnings/contraindications
-- Resolve DG002: confirm mechanism of action via DrugBank API query
-- Obtain complete NPRA license-level detail (product names, dosage forms, manufacturers, approved indication text) — currently blank
-- Formal DDI query against a validated interaction database (current query returned no results)
-- Given the extensive existing RCT/guideline base, prioritize a rapid evidence-synthesis (rather than new trials) plus local regulatory/safety confirmation as the fastest path to decision
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Teruskan dengan Penjaga Keselamatan**
+
+**Alasan:**
+Osteoartritis disokong oleh paras bukti L1 — pelbagai RCT Fasa 3 besar yang telah selesai secara langsung menguji tramadol dalam OA lutut/pinggul, ditambah ulasan sistematik Cochrane dan panduan klinis ACR/AAOS yang sudah mengesyorkan tramadol sebagai pilihan rawatan OA. Bagaimanapun, jurang data berkadar Pemblokiran (amaran dan kontraindikasi TFDA/NPRA, DG001) menghalang penyiapan pemeriksaan keselamatan awal, dan literatur keselamatan terbitan (mortaliti, risiko patah) memerlukan penjaga keselamatan dan bukannya keputusan Go tanpa syarat.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Selesaikan DG001: dapatkan dan analisis PDF sisipan pakej Malaysia (NPRA) untuk amaran/kontraindikasi
+- Selesaikan DG002: sahkan mekanisme kerja melalui pertanyaan API DrugBank
+- Dapatkan butiran peringkat lesen NPRA lengkap (nama produk, bentuk dos, pengilang, teks petunjuk yang diluluskan) — kini kosong
+- Pertanyaan DDI formal terhadap pangkalan data interaksi yang disahkan (pertanyaan semasa tidak mengembalikan hasil)
+- Memandangkan asas RCT/panduan yang wujud luas, keutamakan sintesis bukti pantas (dan bukannya ujian baru) ditambah pengesahan kawal selia/keselamatan tempatan sebagai laluan pantas kepada keputusan
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

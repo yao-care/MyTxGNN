@@ -29,62 +29,63 @@ Tahap bukti: **L5** | Indikasi diramal: **6**
 
 </div>
 
-# Resorcinol: From Topical Dermatological Use to Acne Keloid
+# Resorcinol: Dari Penggunaan Dermatologi Topikal kepada Acne Keloid
 
-## One-Sentence Summary
+## Ringkasan Satu Kalimat
 
-Resorcinol is a long-established topical keratolytic and mild antiseptic agent, already used in topical acne-related preparations. The TxGNN model predicts it may be relevant for **Acne Keloid** (acne keloidalis nuchae), but this prediction currently has **no supporting clinical trials or published literature** — it rests on model-graph inference alone.
+Resorcinol adalah agen keratolitik topikal yang telah lama dikenal dan agen antiseptik ringan, yang sudah digunakan dalam persiapan topikal terkait jerawat. Model TxGNN memprediksi bahwa ia mungkin relevan untuk **Acne Keloid** (acne keloidalis nuchae), tetapi prediksi ini saat ini tidak memiliki **uji klinis pendukung atau literatur yang dipublikasikan** — hal ini berlandaskan pada inferensi model-graf semata.
 
-## Quick Overview
+## Gambaran Umum Cepat
 
-| Item | Content |
-|------|------|
-| Original Indication | Not specified in NPRA license records (registry entries contain no indication text); pharmacologically classified as a topical keratolytic/antiseptic used in acne-related products |
-| Predicted New Indication | Acne Keloid |
-| TxGNN Prediction Score | 99.83% |
-| Evidence Level | L5 (model prediction only — no clinical trials or literature identified) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 6 |
-| Recommended Decision | Hold |
+| Item | Konten |
+|------|--------|
+| Indikasi Awal | Tidak ditentukan dalam catatan lisensi NPRA (entri daftar tidak mengandung teks indikasi); diklasifikasikan secara farmakologis sebagai agen keratolitik topikal/antiseptik yang digunakan dalam produk terkait jerawat |
+| Indikasi Baru yang Diprediksi | Acne Keloid |
+| Skor Prediksi TxGNN | 99.83% |
+| Tingkat Bukti | L5 (prediksi model saja — tidak ada uji klinis atau literatur yang teridentifikasi) |
+| Status Pasar Malaysia | ✓ Dipasarkan |
+| Jumlah Pendaftaran | 6 |
+| Keputusan yang Direkomendasikan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Prediksi Ini Masuk Akal?
 
-Currently, detailed mechanism of action data for resorcinol is not available (DrugBank query returned no MOA entry). Based on known pharmacological classification, resorcinol acts as a topical keratolytic and mild antibacterial agent and has established use in acne-related topical formulations.
+Saat ini, data mekanisme tindakan terperinci untuk resorcinol tidak tersedia (kueri DrugBank mengembalikan entri MOA kosong). Berdasarkan klasifikasi farmakologis yang diketahui, resorcinol bertindak sebagai agen keratolitik topikal dan agen antibakteri ringan dan memiliki penggunaan yang terbukti dalam formulasi topikal terkait jerawat.
 
-Acne keloidalis nuchae involves follicular inflammation and excess keratin production leading to scarring (keloid-like) papules, typically on the posterior scalp/neck. Since resorcinol's keratolytic and mild antimicrobial action is already applied to acne, there is a superficial mechanistic overlap with acne keloid's keratinization/follicular-inflammation pathway.
+Acne keloidalis nuchae melibatkan peradangan folikel dan produksi keratin berlebih yang menyebabkan papula seperti keloid berbekas, biasanya di kulit kepala/leher posterior. Karena tindakan keratolitik dan antimikroba ringan resorcinol sudah diterapkan pada jerawat, terdapat tumpang tindih mekanistik yang permukaan dengan jalur keratinisasi/peradangan folikel keloid jerawat.
 
-However, the evidence pack itself flags this link as a **pharmacological analogy rather than direct evidence** — no trial or case-level data ties resorcinol specifically to acne keloidalis nuchae. The prediction should be read as hypothesis-generating, not as confirmed efficacy.
+Namun, paket bukti itu sendiri menandai tautan ini sebagai **analogi farmakologis daripada bukti langsung** — tidak ada data uji coba atau tingkat kasus yang menghubungkan resorcinol secara khusus ke acne keloidalis nuchae. Prediksi harus dibaca sebagai menghasilkan hipotesis, bukan sebagai efikasi yang dikonfirmasi.
 
-## Clinical Trial Evidence
+## Bukti Uji Klinis
 
-Currently no related clinical trials registered
+Saat ini tidak ada uji klinis terkait yang terdaftar
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no related literature available
+Saat ini tidak ada literatur terkait yang tersedia
 
-## Malaysia Market Information
+## Informasi Pasar Malaysia
 
-NPRA records show resorcinol as **marketed** in Malaysia with **6 registered licenses**. However, this evidence pack does not include product-level details (license numbers, product names, dosage forms, or approved indication text) — all fields returned empty from the source query and would need to be re-pulled from NPRA directly.
+Catatan NPRA menunjukkan resorcinol sebagai **dipasarkan** di Malaysia dengan **6 lisensi terdaftar**. Namun, paket bukti ini tidak mencakup detail tingkat produk (nomor lisensi, nama produk, bentuk dosis, atau teks indikasi yang disetujui) — semua bidang mengembalikan kosong dari kueri sumber dan perlu ditarik ulang dari NPRA secara langsung.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Silakan merujuk pada kemasan produk untuk informasi keselamatan.
 
-*(Note: key warnings, contraindications, and drug-interaction data were not returned by the current query — DG001 flags this as a **Blocking** gap that prevents initial safety review (S1) until NPRA/TFDA package-insert data is obtained.)*
+*(Catatan: data peringatan utama, kontraindikasi, dan interaksi obat tidak dikembalikan oleh kueri saat ini — DG001 menandai ini sebagai celah **Pemblokiran** yang mencegah tinjauan keselamatan awal (S1) hingga data kemasan NPRA/TFDA diperoleh.)*
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Selanjutnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The prediction is supported only by TxGNN model score (L5, no clinical trials or literature), and a Blocking data gap (missing package-insert warnings/contraindications) prevents any safety evaluation. There is insufficient evidence to advance this candidate at this time.
+**Rasionalisasi:**
+Prediksi hanya didukung oleh skor model TxGNN (L5, tidak ada uji klinis atau literatur), dan celah data Pemblokiran (kemasan—peringatan/kontraindikasi yang hilang) mencegah evaluasi keselamatan apa pun. Tidak ada bukti yang cukup untuk memajukan kandidat ini pada saat ini.
 
-**To proceed, the following is needed:**
-- NPRA/TFDA package insert (warnings, contraindications) — required to clear the S1 safety gate
-- Confirmed mechanism of action from DrugBank or primary literature
-- Any preclinical, case-report, or observational evidence specific to acne keloidalis nuchae
-- Malaysia license-level product details (license numbers, dosage forms, approved indication text)
+**Untuk melanjutkan, hal berikut diperlukan:**
+- Kemasan NPRA/TFDA (peringatan, kontraindikasi) — diperlukan untuk menghapus gerbang keselamatan S1
+- Mekanisme tindakan yang dikonfirmasi dari DrugBank atau literatur primer
+- Bukti preklinis, laporan kasus, atau pengamatan apa pun yang spesifik untuk acne keloidalis nuchae
+- Detail produk tingkat lisensi Malaysia (nomor lisensi, bentuk dosis, teks indikasi yang disetujui)
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

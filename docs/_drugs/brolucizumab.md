@@ -29,84 +29,85 @@ Tahap bukti: **L5** | Indikasi diramal: **4**
 
 </div>
 
-# Brolucizumab: From Neovascular Age-Related Macular Degeneration to Mitochondrial Oxidative Phosphorylation Disorder
+# Brolucizumab: Dari Degenerasi Makula Berkaitan Usia Neovaskular ke Gangguan Fosforilasi Oksidatif Mitokondria
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Brolucizumab is an anti-VEGF-A single-chain antibody fragment (scFv) administered via intravitreal injection, originally approved for the treatment of neovascular (wet) age-related macular degeneration (AMD) and diabetic macular edema (DME). The TxGNN model predicts it may be effective for **Mitochondrial Oxidative Phosphorylation Disorder due to Nuclear DNA Anomalies**, however there are currently **no clinical trials** and **no publications** supporting this direction, and mechanistic analysis indicates no plausible link.
+Brolucizumab adalah fragmen rantai tunggal antibodi anti-VEGF-A (scFv) yang diberikan melalui suntikan intravitreus, pada asalnya diluluskan untuk rawatan degenerasi makula berkaitan usia neovaskular (basah) (AMD) dan edem makula diabetik (DME). Model TxGNN meramalkan ia mungkin berkesan untuk **Gangguan Fosforilasi Oksidatif Mitokondria akibat Anomali DNA Nuklear**, namun pada masa kini **tiada ujian klinikal** dan **tiada penerbitan** menyokong arah ini, dan analisis mekanik menunjukkan tiada kaitan yang munasabah.
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | Neovascular age-related macular degeneration (wet AMD), diabetic macular edema (DME) |
-| Predicted New Indication | Mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies |
-| TxGNN Prediction Score | 99.67% |
-| Evidence Level | L5 (Model prediction only, no actual studies) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Degenerasi makula berkaitan usia neovaskular (AMD basah), edem makula diabetik (DME) |
+| Indikasi Baru Diramalkan | Gangguan fosforilasi oksidatif mitokondria akibat anomali DNA nuklear |
+| Skor Ramalan TxGNN | 99.67% |
+| Tahap Bukti | L5 (Ramalan model sahaja, tiada kajian sebenar) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan Cadangan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Brolucizumab (marketed as Beovu by Novartis) is a humanized single-chain variable fragment (scFv, ~26 kDa) that selectively binds and inhibits vascular endothelial growth factor A (VEGF-A). By blocking VEGF-A, it suppresses pathological angiogenesis and vascular permeability, which are hallmarks of neovascular AMD and diabetic macular edema. It is administered exclusively via intravitreal injection, resulting in minimal systemic exposure.
+Brolucizumab (dipasarkan sebagai Beovu oleh Novartis) adalah fragmen pembolehubah rantai tunggal (scFv, ~26 kDa) berkemanusiaan yang secara selektif mengikat dan menghalang faktor pertumbuhan endotel vaskular A (VEGF-A). Dengan menghalang VEGF-A, ia menghalang angiogenesis patologi dan kebolehtelapan vaskular, yang merupakan ciri-ciri AMD neovaskular dan edem makula diabetik. Ia diberikan secara eksklusif melalui suntikan intravitreus, mengakibatkan pendedahan sistemik yang minimal.
 
-Mitochondrial oxidative phosphorylation disorders due to nuclear DNA anomalies are a group of inherited metabolic diseases caused by mutations in nuclear genes encoding components of the mitochondrial electron transport chain complexes I–V. These disorders result in impaired cellular energy production and primarily affect high-energy-demand tissues such as the brain, muscles, and heart. The pathophysiology is fundamentally distinct from VEGF-driven angiogenesis.
+Gangguan fosforilasi oksidatif mitokondria akibat anomali DNA nuklear adalah sekumpulan penyakit metabolik yang diwarisi disebabkan oleh mutasi dalam gen nuklear yang mengekod komponen kompleks rantai pengangkutan elektron mitokondria I–V. Gangguan ini menghasilkan penghasilan tenaga sel yang terjejas dan terutamanya mempengaruhi tisu yang menuntut tenaga tinggi seperti otak, otot, dan jantung. Patofisiologi ini pada asasnya berbeza daripada angiogenesis yang didorong VEGF.
 
-**This prediction lacks mechanistic plausibility.** There is no established direct regulatory relationship between VEGF signalling and mitochondrial respiratory chain function. Furthermore, brolucizumab is a large biologic molecule that, even if administered systemically, would be unable to penetrate the mitochondrial double membrane to reach the site of pathology. The mechanistic rationale provided in the evidence pack explicitly identifies this as a likely false positive from the knowledge graph. All four predicted indications for this drug share a similar pattern of weak or absent mechanistic rationale, suggesting these predictions represent noise rather than genuine repurposing opportunities.
+**Ramalan ini tidak mempunyai kebolehupayaan mekanik.** Tiada hubungan kawal selia langsung yang terbukti antara isyarat VEGF dan fungsi rantai respiratori mitokondria. Tambahan pula, brolucizumab adalah molekul biologi besar yang, walaupun diberikan secara sistemik, tidak akan dapat menembusi membran dwi mitokondria untuk mencapai tapak patologi. Rasional mekanik yang disediakan dalam pakej bukti secara eksplisit mengenal pasti ini sebagai kemungkinan positif palsu daripada graf pengetahuan. Keempat-empat indikasi yang diramalkan untuk ubat ini berkongsi corak yang serupa dengan rasional mekanik yang lemah atau tidak wujud, mencadangkan ramalan ini mewakili bunyi yang tidak berguna daripada peluang penyimpanan semula yang tulen.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-Currently no related clinical trials registered for brolucizumab in mitochondrial oxidative phosphorylation disorders, esophageal varices, or exocrine pancreatic insufficiency.
+Pada masa kini tiada ujian klinikal yang berkaitan didaftarkan untuk brolucizumab dalam gangguan fosforilasi oksidatif mitokondria, varises esofagus, atau ketidakcukupan pankreas eksokrin.
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-Currently no related literature available for brolucizumab in any of the four predicted indications.
+Pada masa kini tiada kesusasteraan yang berkaitan tersedia untuk brolucizumab dalam mana-mana daripada keempat-empat indikasi yang diramalkan.
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
 |---------|------|------|-----------|
-| *(Registration number not available in data)* | Brolucizumab (Beovu) | Intravitreal injection | Neovascular (wet) age-related macular degeneration, diabetic macular edema |
+| *(Nombor pendaftaran tidak tersedia dalam data)* | Brolucizumab (Beovu) | Suntikan intravitreus | Degenerasi makula berkaitan usia neovaskular (basah), edem makula diabetik |
 
-> Note: License details (authorization number, local product name, dosage form text) were not populated in the source data. The information above is supplemented from publicly known registration data.
+> Nota: Perincian lesen (nombor kebenaran, nama produk tempatan, teks bentuk dos) tidak diisi dalam data sumber. Maklumat di atas dilengkapi daripada data pendaftaran yang diketahui umum.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-> Please refer to the package insert for safety information. Key warnings, contraindications, and drug interaction data were not available in the current evidence pack.
+> Sila rujuk sisipan paket untuk maklumat keselamatan. Data amaran utama, kontraindikasi, dan interaksi ubat tidak tersedia dalam pakej bukti semasa.
 
-**Known class-level safety signals for anti-VEGF intravitreal agents (for clinical reference):**
-- Intraocular inflammation, including retinal vasculitis and retinal vascular occlusion (specific post-marketing signal for brolucizumab)
-- Endophthalmitis (injection-related)
-- Increased intraocular pressure
-- Thromboembolic events (theoretical systemic risk)
+**Isyarat keselamatan peringkat kelas yang diketahui untuk ejen anti-VEGF intravitreus (untuk rujukan klinikal):**
+- Peradangan intraokular, termasuk vasitis retina dan oklusi vaskular retina (isyarat pasca-pemasaran khusus untuk brolucizumab)
+- Endoftalmitis (berkaitan suntikan)
+- Tekanan intraokular yang meningkat
+- Peristiwa tromboembolik (risiko sistemik teoritis)
 
-## Additional Predicted Indications (Summary)
+## Indikasi Diramalkan Tambahan (Ringkasan)
 
-Since all four TxGNN predictions for brolucizumab share L5 evidence status and Hold recommendations, they are summarized below for completeness:
+Oleh kerana keempat-empat ramalan TxGNN untuk brolucizumab berkongsi status bukti L5 dan cadangan Tahan, ia diringkaskan di bawah untuk kelengkapan:
 
-| Rank | Predicted Indication | TxGNN Score | Evidence Level | Mechanistic Plausibility | Recommendation |
+| Pangkat | Indikasi Diramalkan | Skor TxGNN | Tahap Bukti | Kebolehupayaan Mekanik | Cadangan |
 |------|---------------------|-------------|---------------|------------------------|----------------|
-| 1 | Mitochondrial oxidative phosphorylation disorder (nuclear DNA) | 99.67% | L5 | None — no link between VEGF and mitochondrial respiratory chain | Hold |
-| 2 | Esophageal varices without bleeding | 99.12% | L5 | Weak indirect — VEGF plays a role in portal hypertension, but intravitreal formulation cannot achieve systemic anti-VEGF levels | Hold |
-| 3 | Esophageal varices with bleeding | 99.12% | L5 | Weak indirect — same as above, with additional safety concern that anti-VEGF impairs vascular repair during active bleeding | Hold |
-| 4 | Exocrine pancreatic insufficiency | 99.07% | L5 | None — VEGF inhibition has no known relationship with pancreatic exocrine function; may theoretically worsen pancreatic perfusion | Hold |
+| 1 | Gangguan fosforilasi oksidatif mitokondria (DNA nuklear) | 99.67% | L5 | Tiada — tiada kaitan antara VEGF dan rantai respiratori mitokondria | Tahan |
+| 2 | Varises esofagus tanpa pendarahan | 99.12% | L5 | Kaitan tidak langsung yang lemah — VEGF memainkan peranan dalam hipertensi portal, tetapi formulasi intravitreus tidak dapat mencapai tahap anti-VEGF sistemik | Tahan |
+| 3 | Varises esofagus dengan pendarahan | 99.12% | L5 | Kaitan tidak langsung yang lemah — sama seperti di atas, dengan kebimbangan keselamatan tambahan bahawa anti-VEGF menghalang pembaikan vaskular semasa pendarahan aktif | Tahan |
+| 4 | Ketidakcukupan pankreas eksokrin | 99.07% | L5 | Tiada — penyerahan VEGF tidak mempunyai hubungan yang diketahui dengan fungsi eksokrin pankreas; mungkin secara teoritis memburukkan perfusi pankreas | Tahan |
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-All four TxGNN-predicted indications for brolucizumab lack clinical trial evidence, literature support, and — critically — mechanistic plausibility. Brolucizumab is a large biologic molecule formulated exclusively for intravitreal injection with minimal systemic bioavailability, making repurposing for systemic diseases fundamentally impractical without reformulation. The mechanistic analyses uniformly conclude that these predictions are likely false positives from the knowledge graph, with the strongest candidate (esophageal varices) still presenting insurmountable route-of-administration and safety barriers.
+**Rasional:**
+Keempat-empat indikasi yang diramalkan TxGNN untuk brolucizumab tidak mempunyai bukti ujian klinikal, sokongan kesusasteraan, dan — kritikal — kebolehupayaan mekanik. Brolucizumab adalah molekul biologi besar yang diformulasikan secara eksklusif untuk suntikan intravitreus dengan bioketersediaan sistemik yang minimal, menjadikan penyimpanan semula untuk penyakit sistemik pada asasnya tidak praktikal tanpa penyusunan semula. Analisis mekanik secara seragam membuat kesimpulan bahawa ramalan ini adalah kemungkinan positif palsu daripada graf pengetahuan, dengan calon terkuat (varises esofagus) masih memberikan halangan laluan pemberian dan keselamatan yang tidak dapat diatasi.
 
-**To proceed, the following would be needed:**
-- Independent validation of any mechanistic link between VEGF-A inhibition and mitochondrial oxidative phosphorylation (currently no evidence exists)
-- Preclinical proof-of-concept studies demonstrating efficacy in relevant disease models
-- Development of a systemic formulation with acceptable pharmacokinetics (for any non-ophthalmic indication)
-- Comprehensive safety assessment, particularly regarding bleeding risk (for esophageal varices indications)
-- Resolution of data gaps: detailed MOA documentation, package insert warnings and contraindications from NPRA
+**Untuk meneruskan, perkara berikut akan diperlukan:**
+- Pengesahan bebas hubungan mekanik apa pun antara perencatan VEGF-A dan fosforilasi oksidatif mitokondria (pada masa kini tiada bukti wujud)
+- Kajian bukti konsep pra-klinikal menunjukkan keberkesanan dalam model penyakit yang relevan
+- Pembangunan formulasi sistemik dengan farmakokinetik yang boleh diterima (untuk mana-mana indikasi bukan oftalmologi)
+- Penilaian keselamatan yang komprehensif, terutamanya berkenaan risiko pendarahan (untuk indikasi varises esofagus)
+- Resolusi jurang data: dokumentasi MOA terperinci, amaran sisipan paket dan kontraindikasi daripada NPRA
 
-> **Disclaimer:** This report is for research reference only and does not constitute medical advice. Drug repurposing candidates require clinical validation before any therapeutic application.
+> **Penafian:** Laporan ini adalah untuk rujukan penyelidikan sahaja dan tidak merupakan nasihat perubatan. Calon penyimpanan semula ubat memerlukan pengesahan klinikal sebelum sebarang aplikasi terapeutik.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

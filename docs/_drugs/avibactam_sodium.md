@@ -29,72 +29,73 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Avibactam Sodium: From Bacterial Infections – No Repurposing Prediction Available
+# Avibactam Sodium: Daripada Jangkitan Bakterial – Tiada Ramalan Penyetempatan Semula Tersedia
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Avibactam Sodium is a non-beta-lactam beta-lactamase inhibitor, used in combination with ceftazidime (Ceftazidime-avibactam) for the treatment of serious gram-negative bacterial infections, including carbapenem-resistant organisms.
-The TxGNN model has **not generated any predicted repurposing indications** for this drug in the current analysis run.
-Due to multiple data gaps — including missing mechanism of action data, empty licence details, and absent safety information — this candidate **cannot proceed to full repurposing evaluation** at this time.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Serious gram-negative bacterial infections (combination product with ceftazidime) |
-| Predicted New Indication | No prediction available |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 – Model prediction absent; no supporting studies identified |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | **Hold** |
+Avibactam Sodium ialah penghambat beta-laktamase bukan beta-laktam, digunakan dalam kombinasi dengan ceftazidime (Ceftazidime-avibactam) untuk rawatan jangkitan bakterial gram-negatif yang serius, termasuk organisma yang tahan terhadap karbapenem.
+Model TxGNN **tidak telah menjana sebarang indikasi penyetempatan semula yang diramalkan** untuk ubat ini dalam larian analisis semasa.
+Disebabkan oleh jurang data yang pelbagai — termasuk data mekanisme tindakan yang hilang, butiran lesen yang kosong, dan maklumat keselamatan yang tidak ada — calon ini **tidak dapat meneruskan kepada penilaian penyetempatan semula penuh** pada masa ini.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Tinjauan Pantas
 
-No TxGNN repurposing prediction was returned for Avibactam Sodium in the current evidence pack. As a result, there is no predicted new indication to evaluate for mechanistic plausibility.
-
-Currently, detailed mechanism of action data is not available in the evidence pack. Based on known pharmacological class, Avibactam Sodium is a diazabicyclooctane (DBO) beta-lactamase inhibitor administered exclusively in combination with ceftazidime. Its activity lies in protecting the co-administered beta-lactam antibiotic from enzymatic degradation by class A, class C, and some class D beta-lactamases — including KPC and OXA-48 — in resistant gram-negative pathogens such as *Klebsiella pneumoniae* and *Pseudomonas aeruginosa*.
-
-Given that the drug's pharmacological activity is inherently tied to a partner molecule (ceftazidime) and acts via an inhibitory mechanism rather than direct cytotoxic or receptor-mediated effect, any meaningful repurposing hypothesis would require the full combination to be evaluated. Until a TxGNN prediction is generated and regulatory/MOA data gaps are resolved, repurposing evaluation cannot be meaningfully conducted.
-
----
-
-## Malaysia Market Information
-
-One registration was identified in the Malaysian NPRA database. However, product-level details (product name, dosage form, manufacturer, and approved indication text) were not returned in the current data pull and require a supplementary query.
-
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------------------|-------------|-------------|-------------------|
-| — | — | — | Details not returned in current data pull; supplementary NPRA query required |
+| Perkara | Kandungan |
+|--------|----------|
+| Indikasi Asal | Jangkitan bakterial gram-negatif yang serius (produk kombinasi dengan ceftazidime) |
+| Indikasi Baru yang Diramalkan | Tiada ramalan tersedia |
+| Skor Ramalan TxGNN | N/A |
+| Tahap Bukti | L5 – Ramalan model tidak ada; tiada kajian sokongan dikenalpasti |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | **Tahan** |
 
 ---
 
-## Safety Considerations
+## Mengapa Ramalan Ini Munasabah?
 
-Please refer to the package insert for safety information. No warnings, contraindications, or drug–drug interaction data were available in this evidence pack.
+Tiada ramalan penyetempatan semula TxGNN telah dikembalikan untuk Avibactam Sodium dalam paket bukti semasa. Akibatnya, tiada indikasi baru yang diramalkan untuk dinilai bagi ketepatan mekanistik.
+
+Pada masa kini, data mekanisme tindakan yang terperinci tidak tersedia dalam paket bukti. Berdasarkan kelas farmakoloji yang diketahui, Avibactam Sodium ialah penghambat beta-laktamase diazabisiklooctane (DBO) yang diberikan secara eksklusif dalam kombinasi dengan ceftazidime. Aktivitasnya terletak dalam melindungi antibiotik beta-laktam yang diberikan bersama daripada degradasi enzimatik oleh beta-laktamase kelas A, kelas C, dan beberapa kelas D — termasuk KPC dan OXA-48 — dalam patogen gram-negatif yang tahan seperti *Klebsiella pneumoniae* dan *Pseudomonas aeruginosa*.
+
+Memandangkan aktiviti farmakoloji ubat itu secara bawaan terikat pada molekul mitra (ceftazidime) dan bertindak melalui mekanisme penghambatan daripada kesan sitotoksik langsung atau yang dimediasi oleh reseptor, sebarang hipotesis penyetempatan semula yang bermakna memerlukan kombinasi penuh untuk dinilai. Sehingga satu ramalan TxGNN dijana dan jurang data kawal selia/MOA diselesaikan, penilaian penyetempatan semula tidak boleh dijalankan secara bermakna.
 
 ---
 
-## Conclusion and Next Steps
+## Maklumat Pasaran Malaysia
 
-**Decision: Hold**
+Satu pendaftaran telah dikenalpasti dalam pangkalan data NPRA Malaysia. Bagaimanapun, butiran peringkat produk (nama produk, bentuk dos, pengilang, dan teks indikasi yang diluluskan) tidak dikembalikan dalam tarikan data semasa dan memerlukan pertanyaan tambahan.
 
-**Rationale:**
-This candidate has no TxGNN repurposing prediction output and carries multiple blocking data gaps (missing MOA, empty licence details, absent safety data), making it impossible to conduct a meaningful repurposing evaluation or safety pre-screen at this stage.
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
+|-----------------|-------------|-----------|----------------------|
+| — | — | — | Butiran tidak dikembalikan dalam tarikan data semasa; pertanyaan NPRA tambahan diperlukan |
 
-**To proceed, the following is needed:**
+---
 
-- **Re-run TxGNN prediction pipeline** to determine whether a repurposing candidate score exists for Avibactam Sodium; confirm whether the drug's DrugBank ID can be resolved (currently null) to enable knowledge-graph traversal
-- **Resolve DrugBank ID** via DrugBank API lookup to unlock MOA data, drug category, and toxicity profile (Data Gap DG002)
-- **Download and parse the NPRA/TFDA package insert PDF** to populate approved indication text, key warnings, and contraindications (Data Gap DG001)
-- **Supplementary NPRA query** to retrieve complete product-level registration details (product name, dosage form, manufacturer)
-- Once the above are resolved, re-generate the evidence pack and re-evaluate under the standard L1–L5 evidence framework
+## Pertimbangan Keselamatan
 
-> ⚠️ *This report is for research reference only and does not constitute medical advice. All drug repurposing candidates require clinical validation before any application.*
+Sila rujuk sisipan pakej untuk maklumat keselamatan. Tiada data amaran, kontraindikasi, atau interaksi ubat–ubat tersedia dalam paket bukti ini.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Calon ini tidak mempunyai keluaran ramalan penyetempatan semula TxGNN dan membawa jurang data yang sering menyekat (MOA hilang, butiran lesen kosong, data keselamatan tidak ada), menjadikannya mustahil untuk menjalankan penilaian penyetempatan semula yang bermakna atau pra-saringan keselamatan pada peringkat ini.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+
+- **Jalankan semula saluran paip ramalan TxGNN** untuk menentukan sama ada skor calon penyetempatan semula wujud untuk Avibactam Sodium; sahkan sama ada ID DrugBank ubat itu boleh diselesaikan (kini nol) untuk membolehkan traversal graf pengetahuan
+- **Selesaikan ID DrugBank** melalui pencarian API DrugBank untuk membuka kunci data MOA, kategori ubat, dan profil ketoksikan (Jurang Data DG002)
+- **Muat turun dan analisis PDF sisipan pakej NPRA/TFDA** untuk mengisi teks indikasi yang diluluskan, amaran utama, dan kontraindikasi (Jurang Data DG001)
+- **Pertanyaan NPRA tambahan** untuk mendapatkan butiran pendaftaran peringkat produk yang lengkap (nama produk, bentuk dos, pengilang)
+- Apabila perkara-perkara di atas diselesaikan, janakan semula paket bukti dan nilai semula di bawah rangka kerja bukti L1–L5 standard
+
+> ⚠️ *Laporan ini adalah untuk rujukan penyelidikan sahaja dan tidak merupakan nasihat perubatan. Semua calon penyetempatan semula ubat memerlukan pengesahan klinikal sebelum sebarang aplikasi.*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

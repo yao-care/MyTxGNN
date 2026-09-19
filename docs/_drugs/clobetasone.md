@@ -29,62 +29,63 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Clobetasone: From Topical Corticosteroid Use to Primary Cutaneous T-Cell Lymphoma
+# Clobetasone: Dari Penggunaan Kortikosteroid Topikal kepada Limfoma Sel T Kutaneus Primer
 
-## One-Sentence Summary
+## Ringkasan Satu Kalimat
 
-Clobetasone is a topical corticosteroid (glucocorticoid receptor agonist) used for inflammatory skin conditions.
-The TxGNN model predicts it may be effective for **Primary Cutaneous T-Cell Lymphoma**,
-but this direction is currently supported only by mechanistic reasoning — **no clinical trials and no literature** specific to Clobetasone in this indication have been found.
+Clobetasone adalah kortikosteroid topikal (agonis reseptor glukokortikoid) yang digunakan untuk kondisi kulit inflamasi.
+Model TxGNN memprediksi bahwa obat ini mungkin efektif untuk **Limfoma Sel T Kutaneus Primer**,
+namun arah ini saat ini didukung hanya oleh pertimbangan mekanis — **tidak ada uji klinis dan tidak ada literatur** spesifik untuk Clobetasone dalam indikasi ini yang telah ditemukan.
 
-## Quick Overview
+## Ikhtisar Cepat
 
-| Item | Content |
-|------|------|
-| Original Indication | Not specified in current Malaysia registration data; drug class is topical corticosteroid (glucocorticoid receptor agonist) |
-| Predicted New Indication | Primary Cutaneous T-Cell Lymphoma |
-| TxGNN Prediction Score | 99.97% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
-| Recommended Decision | Hold |
+| Item | Konten |
+|------|--------|
+| Indikasi Asli | Tidak ditentukan dalam data pendaftaran Malaysia saat ini; kelas obat adalah kortikosteroid topikal (agonis reseptor glukokortikoid) |
+| Indikasi Baru yang Diprediksi | Limfoma Sel T Kutaneus Primer |
+| Skor Prediksi TxGNN | 99.97% |
+| Tahap Bukti | L5 |
+| Status Pasar Malaysia | ✓ Beredar |
+| Jumlah Pendaftaran | 3 |
+| Keputusan yang Disarankan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Prediksi Ini Masuk Akal?
 
-Currently, detailed mechanism of action data for Clobetasone is not available. Based on known information, Clobetasone is a topical glucocorticoid receptor agonist — a class whose efficacy in inflammatory skin conditions is well established.
+Saat ini, data mekanisme aksi terperinci untuk Clobetasone tidak tersedia. Berdasarkan informasi yang diketahui, Clobetasone adalah agonis reseptor glukokortikoid topikal — kelas yang keefektifannya dalam kondisi kulit inflamasi telah terbukti.
 
-Mechanistically, topical corticosteroids suppress local inflammation and can induce T-cell apoptosis. This is directly relevant to primary cutaneous T-cell lymphoma (CTCL): a chemically related topical steroid, clobetasol propionate, is an established standard treatment for early-stage CTCL/mycosis fungoides. Since both the original use (inflammatory dermatoses) and the predicted new indication (a cutaneous lymphoma) are treated at the skin surface, the route of administration is plausibly compatible — unlike several of TxGNN's other top-ranked predictions for this drug (e.g. Crohn's colitis, nephrotic syndrome, adrenocortical insufficiency), which would require systemic/oral corticosteroid activity that a topical formulation cannot provide.
+Secara mekanis, kortikosteroid topikal menekan peradangan lokal dan dapat menginduksi apoptosis sel T. Hal ini sangat relevan dengan limfoma sel T kutaneus primer (CTCL): steroid topikal yang berkaitan kimia, clobetasol propionate, adalah pengobatan standar yang terbukti untuk CTCL/mycosis fungoides tahap awal. Karena penggunaan asli (dermatosis inflamasi) dan indikasi baru yang diprediksi (limfoma kutaneus) keduanya diobati pada permukaan kulit, rute pemberian tampak cocok secara mekanis — tidak seperti beberapa prediksi TxGNN peringkat teratas lainnya untuk obat ini (misalnya kolitis Crohn, sindrom nefrotik, insufisiensi adrenokortik), yang akan memerlukan aktivitas kortikosteroid sistemik/oral yang tidak dapat diberikan formulasi topikal.
 
-However, this mechanistic plausibility has not yet been tested for Clobetasone specifically — no drug-disease-specific trials or publications currently exist to confirm it.
+Namun, kelogisan mekanis ini belum diuji untuk Clobetasone secara khusus — tidak ada uji klinis khusus obat-penyakit atau publikasi yang ada saat ini untuk mengkonfirmasi hal tersebut.
 
-## Clinical Trial Evidence
+## Bukti Uji Klinis
 
-Currently no related clinical trials registered.
+Saat ini tidak ada uji klinis terkait yang terdaftar.
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no related literature available.
+Saat ini tidak ada literatur terkait yang tersedia.
 
-## Malaysia Market Information
+## Informasi Pasar Malaysia
 
-Clobetasone has 3 active registrations in Malaysia (market status: ✓ Marketed). Detailed license-level information (registration numbers, product names, dosage forms, approved indication text) was not returned in the current NPRA data pull, so individual license entries cannot be listed here.
+Clobetasone memiliki 3 pendaftaran aktif di Malaysia (status pasar: ✓ Beredar). Informasi terperinci tingkat lisensi (nomor pendaftaran, nama produk, bentuk sediaan, teks indikasi yang disetujui) tidak dikembalikan dalam pengambilan data NPRA saat ini, sehingga entri lisensi individual tidak dapat ditampilkan di sini.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Silakan merujuk pada leaflet produk untuk informasi keselamatan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Berikutnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The prediction is evidence level L5 (model prediction only) — searches of ClinicalTrials.gov, ICTRP, and PubMed returned zero results for Clobetasone in primary cutaneous T-cell lymphoma. In addition, a Blocking data gap exists: NPRA package insert warnings and contraindications are unavailable, which prevents even an initial (S1) safety assessment.
+**Alasan:**
+Prediksi adalah tahap bukti L5 (prediksi model saja) — pencarian di ClinicalTrials.gov, ICTRP, dan PubMed mengembalikan nol hasil untuk Clobetasone dalam limfoma sel T kutaneus primer. Selain itu, ada kesenjangan data penghalang: peringatan dan kontraindikasi leaflet produk NPRA tidak tersedia, yang mencegah bahkan penilaian keselamatan awal (S1).
 
-**To proceed, the following is needed:**
-- NPRA package insert — warnings/precautions and contraindications (Blocking gap, DG001)
-- Confirmed mechanism of action from DrugBank (DG002)
-- Complete license-level registration details (product names, dosage forms, approved indication text) for the 3 Malaysia registrations
-- Preclinical or case-report-level evidence specifically for Clobetasone in CTCL/mycosis fungoides, given the absence of registered trials or publications
+**Untuk melanjutkan, diperlukan hal-hal berikut:**
+- Leaflet produk NPRA — peringatan/tindakan pencegahan dan kontraindikasi (Kesenjangan Penghalang, DG001)
+- Mekanisme aksi yang dikonfirmasi dari DrugBank (DG002)
+- Detail pendaftaran lengkap tingkat lisensi (nama produk, bentuk sediaan, teks indikasi yang disetujui) untuk 3 pendaftaran Malaysia
+- Bukti tingkat preklinik atau laporan kasus khusus untuk Clobetasone dalam CTCL/mycosis fungoides, mengingat ketiadaan uji klinis terdaftar atau publikasi
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

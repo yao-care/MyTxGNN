@@ -29,83 +29,84 @@ Tahap bukti: **L4** | Indikasi diramal: **8**
 
 </div>
 
-# Moroctocog Alfa: From Hemophilia A to Primary Release Disorder of Platelets
+# Moroctocog Alfa: Dari Hemofilia A kepada Gangguan Pelepasan Primer Trombosit
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Moroctocog alfa is a recombinant, B-domain deleted Factor VIII (rFVIII) replacement therapy, used in the treatment of Hemophilia A (Factor VIII deficiency). The TxGNN model predicts it may be effective for **primary release disorder of platelets**, but this direction is currently supported by only **7 clinical trials — most graded as low relevance (Grade C) or unrelated patient populations** — and **no supporting literature**, suggesting the high TxGNN score may reflect a knowledge-graph co-occurrence artifact rather than a genuine mechanistic signal.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Hemophilia A / Factor VIII deficiency (inferred from FVIII-replacement context across the evidence pack; Malaysia license text does not specify an indication) |
-| Predicted New Indication | Primary release disorder of platelets |
-| TxGNN Prediction Score | 99.97% |
-| Evidence Level | L4 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 4 |
-| Recommended Decision | Hold |
+Moroctocog alfa adalah terapi penggantian Faktor VIII rekombinan dengan domain-B yang dihapus (rFVIII), digunakan dalam rawatan Hemofilia A (kekurangan Faktor VIII). Model TxGNN meramalkan bahawa ia mungkin berkesan untuk **gangguan pelepasan primer trombosit**, tetapi arah ini pada masa ini didukung oleh hanya **7 percubaan klinikal — kebanyakan dinilai dengan relevansi rendah (Gred C) atau melibatkan populasi pesakit yang tidak berkaitan** — dan **tiada bukti literatur yang menyokong**, mencadangkan bahawa skor TxGNN yang tinggi mungkin mencerminkan artifak kemunculan bersama dalam graf pengetahuan daripada isyarat farmakologi yang sebenar.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Pantas
 
-Detailed mechanism-of-action data for moroctocog alfa is not available in this evidence pack (flagged as a High-severity data gap). However, contextual information embedded in the trial and rationale data confirms moroctocog alfa is a recombinant, B-domain deleted Factor VIII (rFVIII) molecule, whose pharmacological action is exogenous replacement of coagulation Factor VIII in patients with Hemophilia A.
-
-Primary release disorder of platelets, however, is a platelet-granule secretion defect — a qualitative platelet function disorder, not a coagulation factor deficiency. The evidence pack's own mechanistic assessment for this candidate states the link is weak: supplementing Factor VIII does not correct defective platelet granule release, and the high TxGNN score is more likely explained by shared "bleeding tendency" nodes in the knowledge graph than by a true pharmacological relationship. This candidate should therefore be treated as a **potential false positive** pending stronger mechanistic or clinical evidence.
-
-By contrast, a lower-ranked candidate in the same evidence pack — *acquired coagulation factor deficiency* (rank 4, TxGNN score 99.88%, evidence level L2, decision stage S2, recommendation "Proceed with Guardrails") — has a directly plausible mechanistic link (FVIII replacement for non-inhibitor acquired FVIII deficiency) and stronger supporting evidence, including a Phase 2/3 trial of a structurally analogous B-domain-deleted rFVIII product. This may be a more promising direction for follow-up than the top-ranked candidate discussed here.
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Hemofilia A / kekurangan Faktor VIII (disimpulkan daripada konteks penggantian FVIII merentasi pakej bukti; teks lesen Malaysia tidak menyatakan indikasi secara khusus) |
+| Indikasi Baru yang Diramalkan | Gangguan pelepasan primer trombosit |
+| Skor Ramalan TxGNN | 99.97% |
+| Tahap Bukti | L4 |
+| Status Pasaran Malaysia | ✓ Telah diisytiharkan di pasaran |
+| Bilangan Pendaftaran | 4 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Data mekanisme tindakan terperinci untuk moroctocog alfa tidak tersedia dalam pakej bukti ini (ditandakan sebagai jurang data dengan Keterukan Tinggi). Namun, maklumat konteks yang tertanam dalam data percubaan dan justifikasi mengesahkan bahawa moroctocog alfa adalah molekul Faktor VIII rekombinan dengan domain-B yang dihapus (rFVIII), yang tindakan farmakologinya adalah penggantian eksogen Faktor VIII koagulasi pada pesakit dengan Hemofilia A.
+
+Gangguan pelepasan primer trombosit, sebaliknya, adalah kecacatan pelepasan granul trombosit — kelainan fungsi trombosit yang kualitatif, bukan kekurangan faktor koagulasi. Penilaian mekanisme pakej bukti sendiri untuk calon ini menyatakan bahawa pautan tersebut lemah: penambahan Faktor VIII tidak membaiki pelepasan granul trombosit yang cacat, dan skor TxGNN yang tinggi lebih mungkin dijelaskan oleh nod "kecenderungan pendarahan" bersama dalam graf pengetahuan daripada oleh hubungan farmakologi yang sebenar. Oleh itu, calon ini harus dianggap sebagai **kemungkinan positif palsu** sehingga bukti mekanisme atau klinikal yang lebih kuat diperoleh.
+
+Sebaliknya, calon yang disenaraikan lebih rendah dalam pakej bukti yang sama — *kekurangan faktor koagulasi yang diperoleh* (kedudukan 4, skor TxGNN 99.88%, tahap bukti L2, tahap keputusan S2, saranan "Teruskan dengan Penjaga") — mempunyai pautan mekanisme yang secara langsung munasabah (penggantian FVIII untuk kekurangan FVIII yang diperoleh bukan penghambat) dan bukti sokongan yang lebih kuat, termasuk percubaan Fasa 2/3 produk rFVIII dengan domain-B yang dihapus dan struktur yang serupa. Ini mungkin arah yang lebih menjanjikan untuk susulan berbanding calon yang disenaraikan tertinggi yang dibincangkan di sini.
+
+---
+
+## Bukti Percubaan Klinikal
+
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT07400848](https://clinicaltrials.gov/study/NCT07400848) | N/A | Recruiting | 200 | Evaluates persistent post-COVID-19-vaccination syndrome symptoms; not a treatment trial for platelet release disorder (Grade C relevance). |
-| [NCT07343687](https://clinicaltrials.gov/study/NCT07343687) | N/A | Not yet recruiting | 80 | Observational coagulation/haematology profiling in acute myeloid leukemia patients; unrelated to moroctocog alfa (Grade C). |
-| [NCT01913405](https://clinicaltrials.gov/study/NCT01913405) | Phase 3 | Completed | 30 | Efficacy/safety of PEGylated rFVIII (BAX 855) in severe Hemophilia A patients undergoing surgery; wrong patient population for this indication (Grade C). |
-| [NCT07329036](https://clinicaltrials.gov/study/NCT07329036) | N/A | Recruiting | 25 | Artificial liver support system effects on coagulation in acute-on-chronic liver failure; relevance not yet assessed. |
-| [NCT04161495](https://clinicaltrials.gov/study/NCT04161495) | Phase 3 | Completed | 159 | BIVV001 (rFVIIIFc-VWF-XTEN) prophylaxis trial in severe Hemophilia A (≥12 years); same drug class but studied in the original indication, not the predicted one (Grade C). |
-| [NCT04759131](https://clinicaltrials.gov/study/NCT04759131) | Phase 3 | Completed | 74 | Pediatric BIVV001 safety/efficacy trial in severe Hemophilia A; same limitation as above (Grade C). |
-| [NCT07439939](https://clinicaltrials.gov/study/NCT07439939) | N/A | Recruiting | 45 | Systemic/portal hemostasis study in patients undergoing TIPS placement; relevance not yet assessed. |
+| [NCT07400848](https://clinicaltrials.gov/study/NCT07400848) | N/A | Merekrut | 200 | Menilai simptom sindrom pasca-vaksinasi COVID-19 yang berterusan; bukan percubaan rawatan untuk gangguan pelepasan trombosit (Relevansi Gred C). |
+| [NCT07343687](https://clinicaltrials.gov/study/NCT07343687) | N/A | Belum mula merekrut | 80 | Profil koagulasi/hematologi pemerhatian pada pesakit leukemia mieloid akut; tidak berkaitan dengan moroctocog alfa (Gred C). |
+| [NCT01913405](https://clinicaltrials.gov/study/NCT01913405) | Fasa 3 | Selesai | 30 | Keberkesanan/keselamatan rFVIII terpegielasi (BAX 855) pada pesakit Hemofilia A yang teruk menjalani pembedahan; populasi pesakit yang salah untuk indikasi ini (Gred C). |
+| [NCT07329036](https://clinicaltrials.gov/study/NCT07329036) | N/A | Merekrut | 25 | Kesan sistem sokongan hati tiruan ke atas koagulasi dalam kegagalan hati akut-kronik; relevansi belum dinilai. |
+| [NCT04161495](https://clinicaltrials.gov/study/NCT04161495) | Fasa 3 | Selesai | 159 | Percubaan profilaksis BIVV001 (rFVIIIFc-VWF-XTEN) pada Hemofilia A yang teruk (≥12 tahun); kelas ubat yang sama tetapi dikaji dalam indikasi asal, bukan yang diramalkan (Gred C). |
+| [NCT04759131](https://clinicaltrials.gov/study/NCT04759131) | Fasa 3 | Selesai | 74 | Percubaan keselamatan/keberkesanan BIVV001 pediatrik pada Hemofilia A yang teruk; batasan yang sama seperti di atas (Gred C). |
+| [NCT07439939](https://clinicaltrials.gov/study/NCT07439939) | N/A | Merekrut | 45 | Kajian hemostasis sistemik/portal pada pesakit menjalani penempatan TIPS; relevansi belum dinilai. |
 
 ---
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no related literature available.
-
----
-
-## Malaysia Market Information
-
-Moroctocog alfa has 4 active registrations in Malaysia (market status: Marketed), but authorization numbers, product names, dosage forms, and approved indication text are not populated in the current data extract.
+Pada masa ini tiada literatur berkaitan yang tersedia.
 
 ---
 
-## Safety Considerations
+## Maklumat Pasaran Malaysia
 
-Please refer to the package insert for safety information. (Note: TFDA/NPRA label warnings and contraindications are flagged as a **Blocking** data gap — required before any safety evaluation can proceed.)
+Moroctocog alfa mempunyai 4 pendaftaran aktif di Malaysia (status pasaran: Telah diisytiharkan di pasaran), tetapi nombor izin pemasaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan tidak diisi dalam ekstrak data semasa.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila rujuk risalah pakej untuk maklumat keselamatan. (Nota: Amaran label TFDA/NPRA dan kontraindikasi ditandakan sebagai jurang data **yang menyekat** — diperlukan sebelum sebarang penilaian keselamatan dapat diteruskan.)
 
-**Rationale:**
-The mechanistic link between Factor VIII replacement and primary platelet release disorder is weak, nearly all supporting trials are low-relevance or study unrelated populations, and no literature evidence exists. The high TxGNN score likely reflects graph co-occurrence around bleeding-related nodes rather than a genuine pharmacological signal.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA label warnings and contraindications (Blocking gap — required for safety evaluation)
-- Confirmed mechanism-of-action documentation for moroctocog alfa (High-priority gap)
-- Complete Malaysia authorization details (product names, dosage forms, approved indication text)
-- Preclinical or mechanistic evidence directly linking FVIII replacement to platelet granule release function, if this candidate is to be pursued further
-- Consider prioritizing the *acquired coagulation factor deficiency* candidate (rank 4) instead, given its stronger mechanistic plausibility and L2 evidence level
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Nisbah:**
+Pautan mekanisme antara penggantian Faktor VIII dan gangguan pelepasan primer trombosit adalah lemah, hampir semua percubaan sokongan mempunyai relevansi rendah atau mengkaji populasi yang tidak berkaitan, dan tiada bukti literatur yang wujud. Skor TxGNN yang tinggi mungkin mencerminkan kemunculan bersama dalam graf di sekitar nod berkaitan pendarahan daripada isyarat farmakologi yang sebenar.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Amaran label TFDA/NPRA dan kontraindikasi (Jurang yang menyekat — diperlukan untuk penilaian keselamatan)
+- Dokumentasi mekanisme tindakan yang disahkan untuk moroctocog alfa (Jurang prioritas Tinggi)
+- Butiran pendaftaran Malaysia yang lengkap (nama produk, bentuk dos, teks indikasi yang diluluskan)
+- Bukti praklinikal atau mekanisme yang secara langsung menghubungkan penggantian FVIII ke fungsi pelepasan granul trombosit, sekiranya calon ini hendak diikuti lebih jauh
+- Pertimbangkan mengutamakan calon *kekurangan faktor koagulasi yang diperoleh* (kedudukan 4), memandangkan kebolehpercayaan mekanisme yang lebih kuat dan tahap bukti L2
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

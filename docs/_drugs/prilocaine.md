@@ -29,85 +29,86 @@ Tahap bukti: **L2** | Indikasi diramal: **10**
 
 </div>
 
-# Prilocaine: From Local Anesthesia to Neuralgia (Postherpetic Neuralgia)
+# Prilocaine: Dari Anestesia Lokal kepada Neuralgia (Neuralgia Postherpetik)
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Prilocaine is an amide-type local anesthetic, used for injectable/topical local anesthesia and, in combination with lidocaine (EMLA cream), for surface analgesia prior to minor procedures. The TxGNN model predicts it may be effective for **Neuralgia** — specifically postherpetic neuralgia (PHN) via the lidocaine-prilocaine (EMLA) combination — with **12 clinical trials** and **20 publications** currently associated with this direction, making it the strongest-supported candidate among the 10 indications TxGNN predicted for this drug (the other 9 remain at evidence level L4–L5 with a "Hold" recommendation).
+Prilocaine ialah anestesia lokal jenis amida, digunakan untuk anestesia lokal suntikan/topikal dan, dalam kombinasi dengan lidocaine (krim EMLA), untuk analgesik permukaan sebelum prosedur minor. Model TxGNN meramalkan ia mungkin berkesan untuk **Neuralgia** — khususnya neuralgia postherpetik (PHN) melalui kombinasi lidocaine-prilocaine (EMLA) — dengan **12 ujian klinis** dan **20 publikasi** yang kini dikaitkan dengan arah ini, menjadikannya calon yang paling disokong di antara 10 petunjuk TxGNN yang diramalkan untuk ubat ini (9 lainnya kekal pada tahap bukti L4–L5 dengan cadangan "Hold").
 
-## Quick Overview
+## Gambaran Pantas
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Local anesthesia (injectable regional/local block; topical use as lidocaine-prilocaine cream). *Malaysia (NPRA) license-level indication text is not yet available in the current dataset — see Market Information section.* |
-| Predicted New Indication | Neuralgia (notably postherpetic neuralgia) |
-| TxGNN Prediction Score | 99.34% |
-| Evidence Level | L2 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 4 |
-| Recommended Decision | Proceed with Guardrails |
+| Petunjuk Asal | Anestesia lokal (blok serantau/lokal suntikan; penggunaan topikal sebagai krim lidocaine-prilocaine). *Teks petunjuk peringkat lesen Malaysia (NPRA) belum lagi tersedia dalam set data semasa — lihat bahagian Maklumat Pasaran.* |
+| Petunjuk Baru Diramalkan | Neuralgia (khususnya neuralgia postherpetik) |
+| Skor Ramalan TxGNN | 99.34% |
+| Tahap Bukti | L2 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 4 |
+| Keputusan Disyorkan | Teruskan dengan Pengawal |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism-of-action data is not available in the evidence pack. Based on known pharmacology, prilocaine is an amide-class local anesthetic that reversibly blocks voltage-gated sodium channels on neuronal membranes, inhibiting the initiation and propagation of nerve impulses. It is most commonly used clinically as the lidocaine-prilocaine eutectic mixture (EMLA cream) for topical anesthesia.
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia dalam pak bukti. Berdasarkan farmakologi yang diketahui, prilocaine ialah anestesia lokal kelas amida yang memblok secara terbalik saluran natrium berkomponen voltan pada membran neuronal, menghalang permulaan dan penyebaran denyutan saraf. Ia paling lazim digunakan secara klinis sebagai campuran eutektik lidocaine-prilocaine (krim EMLA) untuk anestesia topikal.
 
-The original indication (local/regional anesthesia) and the predicted new indication (neuralgia, particularly postherpetic neuralgia) share the same underlying pharmacological target: peripheral nociceptive nerve fiber conduction. Where local anesthesia uses sodium-channel blockade to prevent acute procedural pain, the same mechanism can, in principle, reduce the abnormal peripheral pain signaling seen in neuralgia.
+Petunjuk asal (anestesia lokal/serantau) dan petunjuk baru yang diramalkan (neuralgia, khususnya neuralgia postherpetik) berkongsi sasaran farmakologi asas yang sama: pengaliran serat saraf nosiseptif periferal. Di mana anestesia lokal menggunakan blokad saluran natrium untuk mencegah kesakitan prosedur akut, mekanisme yang sama boleh, pada prinsipnya, mengurangkan isyarat kesakitan periferal yang tidak normal yang dilihat dalam neuralgia.
 
-This mechanistic plausibility is supported by a body of clinical literature: EMLA cream (lidocaine 2.5%/prilocaine 2.5%) has been directly studied — not just as a class-level analogy — in patients with postherpetic neuralgia, showing measurable reductions in both spontaneous and evoked pain. Several trials also use topical prilocaine formulations as pretreatment for other neuropathic pain procedures (e.g., capsaicin patch application), reinforcing that prilocaine-containing preparations are already integrated into neuropathic pain management pathways, even though a dedicated prilocaine-monotherapy trial for neuralgia has not been identified.
+Kebolehbolaran mekanik ini disokong oleh badan kesusasteraan klinis: krim EMLA (lidocaine 2.5%/prilocaine 2.5%) telah dikaji secara langsung — bukan hanya sebagai analogi peringkat kelas — pada pesakit dengan neuralgia postherpetik, menunjukkan pengurangan yang dapat diukur dalam kesakitan spontan dan terangsang. Beberapa ujian juga menggunakan formulasi prilocaine topikal sebagai praperlakuan untuk prosedur kesakitan neuropati lain (cth, aplikasi tampalan kapsaicin), memperkuat bahawa persediaan yang mengandungi prilocaine sudah menjadi sebahagian daripada laluan pengurusan kesakitan neuropati, walaupun ujian prilocaine-monotherapi khusus untuk neuralgia belum dikenal pasti.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinis
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Ujian | Fasa | Keadaan | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT00916942](https://clinicaltrials.gov/study/NCT00916942) | Phase 2 | Completed | 20 | Open-label study of topical lidocaine 2.5%/prilocaine 2.5% cream as pre-treatment before NGX-4010 (capsaicin 8% patch) in postherpetic neuralgia patients, evaluating tolerability. |
-| [NCT06899438](https://clinicaltrials.gov/study/NCT06899438) | NA | Completed | 38 | Prospectively compared prilocaine injection vs. botulinum toxin A for myofascial pain syndrome relief. |
-| [NCT01540877](https://clinicaltrials.gov/study/NCT01540877) | NA | Completed | 28 | Human experimental model combining capsaicin and local anesthetics to study C-fiber block and sensitization in neuropathic pain. |
-| [NCT06247592](https://clinicaltrials.gov/study/NCT06247592) | NA | Unknown | 70 | Occipital nerve blockade using 5cc of 2% prilocaine per side, compared with pulsed radiofrequency, in chronic migraine (neuralgia-adjacent peripheral nerve pain). |
-| [NCT03220113](https://clinicaltrials.gov/study/NCT03220113) | Phase 1/2 | Unknown | 100 | Open-label combination of dexamethasone, lidocaine, and thiamine injected into trigeminal and occipital nerve branches for craniofacial neuralgia/chronic migraine. |
-| [NCT07021365](https://clinicaltrials.gov/study/NCT07021365) | NA | Not yet recruiting | 30 | Compares ganglion impar radiofrequency ablation vs. phenol neurolysis for chronic coccydynia (neuralgia-related nerve block techniques). |
-| [NCT05411900](https://clinicaltrials.gov/study/NCT05411900) | Phase 2 | Unknown | 164 | RCT of botulinum toxin A (not prilocaine) for peripheral neuropathic pain in carpal tunnel syndrome — comparator evidence for the same indication space. |
-| [NCT01911377](https://clinicaltrials.gov/study/NCT01911377) | Phase 2 | Terminated | 12 | Botulinum toxin A for allodynic-type neuropathic pain in spinal cord injury/multiple sclerosis; mechanism differs from prilocaine. |
-| [NCT02736890](https://clinicaltrials.gov/study/NCT02736890) | Phase 2 | Terminated | 8 | Subcutaneous botulinum toxin A for at-level back pain after spinal cord injury; comparator mechanism. |
-| [NCT03587220](https://clinicaltrials.gov/study/NCT03587220) | NA | Completed | 44 | Studied whether topical local anesthetic (lidocaine) pretreatment alters capsaicin-induced nociceptive desensitization. |
+| [NCT00916942](https://clinicaltrials.gov/study/NCT00916942) | Fasa 2 | Selesai | 20 | Kajian label terbuka krim lidocaine 2.5%/prilocaine 2.5% topikal sebagai praperlakuan sebelum NGX-4010 (tampalan kapsaicin 8%) pada pesakit neuralgia postherpetik, menilai kebolehtoleranan. |
+| [NCT06899438](https://clinicaltrials.gov/study/NCT06899438) | NA | Selesai | 38 | Perbandingan prospektif suntikan prilocaine berbanding toksina botulinum A untuk bantuan sindrom kesakitan miofascial. |
+| [NCT01540877](https://clinicaltrials.gov/study/NCT01540877) | NA | Selesai | 28 | Model eksperimen manusia menggabungkan kapsaicin dan anestesia lokal untuk mengkaji blok serat C dan sensitisasi dalam kesakitan neuropati. |
+| [NCT06247592](https://clinicaltrials.gov/study/NCT06247592) | NA | Tidak diketahui | 70 | Blokad saraf occipital menggunakan 5cc prilocaine 2% setiap sisi, dibandingkan dengan frekuensi radio berdenyut, dalam migrain kronik (kesakitan saraf periferal bersebelahan neuralgia). |
+| [NCT03220113](https://clinicaltrials.gov/study/NCT03220113) | Fasa 1/2 | Tidak diketahui | 100 | Kombinasi label terbuka deksamethason, lidocaine, dan thiamine yang disuntik ke dalam cabang saraf trigeminal dan occipital untuk neuralgia kraniofasial/migrain kronik. |
+| [NCT07021365](https://clinicaltrials.gov/study/NCT07021365) | NA | Belum merekrut | 30 | Membandingkan ablasi frekuensi radio ganglion impar berbanding neurolisis fenol untuk coccydynia kronik (teknik blok saraf berkaitan neuralgia). |
+| [NCT05411900](https://clinicaltrials.gov/study/NCT05411900) | Fasa 2 | Tidak diketahui | 164 | RCT toksina botulinum A (bukan prilocaine) untuk kesakitan neuropati periferal dalam sindrom terowong karpus — bukti pembanding untuk ruang petunjuk yang sama. |
+| [NCT01911377](https://clinicaltrials.gov/study/NCT01911377) | Fasa 2 | Ditamatkan | 12 | Toksina botulinum A untuk kesakitan neuropati jenis allodynic dalam kecederaan sumsum tulang belakang/multiple sclerosis; mekanisme berbeza daripada prilocaine. |
+| [NCT02736890](https://clinicaltrials.gov/study/NCT02736890) | Fasa 2 | Ditamatkan | 8 | Toksina botulinum A subkutan untuk kesakitan belakang di peringkat selepas kecederaan sumsum tulang belakang; mekanisme pembanding. |
+| [NCT03587220](https://clinicaltrials.gov/study/NCT03587220) | NA | Selesai | 44 | Mengkaji sama ada praperlakuan anestesia lokal topikal (lidocaine) mengubah desensitisasi nosiseptif teraruh kapsaicin. |
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [2493878](https://pubmed.ncbi.nlm.nih.gov/2493878/) | 1989 | Cohort/Clinical Study | BMJ | Lignocaine-prilocaine (EMLA) cream evaluated directly in postherpetic neuralgia patients. |
-| [2616182](https://pubmed.ncbi.nlm.nih.gov/2616182/) | 1989 | Cohort/Clinical Study | Pain | EMLA cream (5-10g, 24h application) significantly improved pain intensity scores in refractory PHN patients, with pharmacokinetic profiling. |
-| [10353509](https://pubmed.ncbi.nlm.nih.gov/10353509/) | 1999 | Cohort/Clinical Study | Pain | Single and repeated EMLA applications reduced both spontaneous and evoked pain in 11 PHN patients. |
-| [22182397](https://pubmed.ncbi.nlm.nih.gov/22182397/) | 2011 | Cohort/Clinical Study | BMC Anesthesiology | Lidocaine 2.5%/prilocaine 2.5% cream pretreatment improved tolerability of capsaicin 8% patch (NGX-4010) in PHN patients. |
-| [8695081](https://pubmed.ncbi.nlm.nih.gov/8695081/) | 1996 | Case Report | J Clin Anesthesia | Case of EMLA cream successfully treating PHN resistant to other therapies. |
-| [1430539](https://pubmed.ncbi.nlm.nih.gov/1430539/) | 1992 | Review | J Dermatol Surg Oncol | Review of EMLA (2.5% lidocaine/2.5% prilocaine) as an effective topical anesthetic, noting use in postherpetic neuralgia among other indications. |
-| [12378018](https://pubmed.ncbi.nlm.nih.gov/12378018/) | 2002 | Cohort (prognostic factors) | J Korean Med Sci | Identified age, surface area, and pain duration as prognostic factors for PHN development, relevant to treatment timing. |
-| [24310458](https://pubmed.ncbi.nlm.nih.gov/24310458/) | 2013 | Review | Turkish Neurosurgery | Review of invasive procedures (including nerve blocks) for medically intractable genitofemoral/ilioinguinal neuralgia. |
-| [23314014](https://pubmed.ncbi.nlm.nih.gov/23314014/) | 2013 | Review | Curr Opin Support Palliat Care | Evidence-based approach to managing persistent wound-related pain, referencing topical anesthetic strategies. |
-| [2046584](https://pubmed.ncbi.nlm.nih.gov/2046584/) | 1991 | Case Report/Letter | Med J Australia | Case correspondence on EMLA cream use in herpetic neuralgia. |
+| [2493878](https://pubmed.ncbi.nlm.nih.gov/2493878/) | 1989 | Kajian Kohort/Klinis | BMJ | Krim lignocaine-prilocaine (EMLA) dinilai secara langsung pada pesakit neuralgia postherpetik. |
+| [2616182](https://pubmed.ncbi.nlm.nih.gov/2616182/) | 1989 | Kajian Kohort/Klinis | Pain | Krim EMLA (5-10g, aplikasi 24j) meningkatkan skor intensiti kesakitan dengan ketara pada pesakit PHN refrakter, dengan pemprofilan farmakokinetik. |
+| [10353509](https://pubmed.ncbi.nlm.nih.gov/10353509/) | 1999 | Kajian Kohort/Klinis | Pain | Aplikasi EMLA tunggal dan berulang mengurangkan kesakitan spontan dan terangsang dalam 11 pesakit PHN. |
+| [22182397](https://pubmed.ncbi.nlm.nih.gov/22182397/) | 2011 | Kajian Kohort/Klinis | BMC Anesthesiology | Praperlakuan krim lidocaine 2.5%/prilocaine 2.5% meningkatkan kebolehtoleranan tampalan kapsaicin 8% (NGX-4010) pada pesakit PHN. |
+| [8695081](https://pubmed.ncbi.nlm.nih.gov/8695081/) | 1996 | Laporan Kes | J Clin Anesthesia | Kes krim EMLA berjaya merawat PHN yang tahan terhadap terapi lain. |
+| [1430539](https://pubmed.ncbi.nlm.nih.gov/1430539/) | 1992 | Ulasan | J Dermatol Surg Oncol | Ulasan EMLA (lidocaine 2.5%/prilocaine 2.5%) sebagai anestesia topikal yang berkesan, mencatat penggunaan dalam neuralgia postherpetik di antara petunjuk lain. |
+| [12378018](https://pubmed.ncbi.nlm.nih.gov/12378018/) | 2002 | Kohort (faktor prognostik) | J Korean Med Sci | Mengenal pasti umur, luas permukaan, dan tempoh kesakitan sebagai faktor prognostik untuk perkembangan PHN, relevan dengan masa rawatan. |
+| [24310458](https://pubmed.ncbi.nlm.nih.gov/24310458/) | 2013 | Ulasan | Turkish Neurosurgery | Ulasan prosedur invasif (termasuk blok saraf) untuk neuralgia genitofemoral/ilioinguinal yang tidak dapat dirawat secara perubatan. |
+| [23314014](https://pubmed.ncbi.nlm.nih.gov/23314014/) | 2013 | Ulasan | Curr Opin Support Palliat Care | Pendekatan berasaskan bukti untuk menguruskan kesakitan berkaitan luka yang berterusan, merujuk strategi anestesia topikal. |
+| [2046584](https://pubmed.ncbi.nlm.nih.gov/2046584/) | 1991 | Laporan Kes/Surat | Med J Australia | Korespondensi kes mengenai penggunaan krim EMLA dalam neuralgia herpetik. |
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-The dataset confirms **4 active NPRA registrations** for prilocaine-containing products (market status: Marketed/Marketed), but the current evidence pack does not yet include the underlying license numbers, product names, dosage forms, or approved indication text for these registrations — these fields are present in the schema but blank in this pull. This data should be retrieved from the NPRA product registry before finalizing the market-access assessment.
+Set data mengesahkan **4 pendaftaran NPRA aktif** untuk produk yang mengandungi prilocaine (status pasaran: Dipasarkan/Dipasarkan), tetapi pak bukti semasa belum lagi merangkumi nombor lesen asas, nama produk, bentuk dos, atau teks petunjuk yang diluluskan untuk pendaftaran ini — bidang-bidang ini hadir dalam skema tetapi kosong dalam cabutan ini. Data ini harus diambil daripada pendaftaran produk NPRA sebelum memuktamadkan penilaian akses pasaran.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information. (No TFDA/NPRA warnings, contraindications, or drug-drug interaction data are currently available in the evidence pack — this is flagged as a **Blocking** data gap, DG001, since it prevents a full S1 safety review.)
+Sila rujuk sisipan paket untuk maklumat keselamatan. (Tiada amaran TFDA/NPRA, kontraindikasi, atau data interaksi ubat-ubat yang kini tersedia dalam pak bukti — ini ditandai sebagai jurang data **Menyekat**, DG001, kerana ia mencegah ulasan keselamatan S1 penuh.)
 
-Note from the broader evidence set: literature associated with other predicted indications (e.g., atopic eczema, rank 7) documents known class-level risks of lidocaine-prilocaine (EMLA) preparations, including methemoglobinemia and seizures in pediatric patients with compromised skin barrier, and contact allergy — these should be incorporated once formal label data is obtained.
+Nota daripada set bukti yang lebih luas: kesusasteraan yang dikaitkan dengan petunjuk lain yang diramalkan (cth, eksim atopik, pangkat 7) mendokumentasikan risiko peringkat kelas yang diketahui bagi persediaan lidocaine-prilocaine (EMLA), termasuk methemoglobinaemia dan kejang dalam pesakit pediatrik dengan halangan kulit yang terjejas, dan alergi sentuhan — ini harus dimasukkan apabila data label formal diperoleh.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Proceed with Guardrails**
+**Keputusan: Teruskan dengan Pengawal**
 
-**Rationale:**
-Neuralgia (postherpetic neuralgia) is the only one of TxGNN's 10 predicted indications for prilocaine to reach decision stage S2/evidence level L2, backed by multiple cohort/clinical studies and a coherent sodium-channel-blockade mechanism directly tied to the drug's approved use. However, no dedicated prilocaine-monotherapy RCT for neuralgia was identified, so this should proceed as a guarded, evidence-gathering pathway rather than a full "Go."
+**Rasional:**
+Neuralgia (neuralgia postherpetik) ialah satu-satunya daripada 10 petunjuk yang diramalkan TxGNN untuk prilocaine mencapai peringkat keputusan S2/tahap bukti L2, disokong oleh kajian kohort/klinis berganda dan mekanisme blokad saluran natrium yang koheren yang terikat secara langsung dengan penggunaan ubat yang diluluskan. Walau bagaimanapun, tiada RCT prilocaine-monotherapi khusus untuk neuralgia telah dikenal pasti, jadi ini harus diteruskan sebagai laluan pengumpulan bukti yang berjaga-jaga daripada "Go" penuh.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert data: warnings, contraindications (DG001, Blocking)
-- Formal DrugBank/product MOA documentation (DG002, High)
-- NPRA license-level detail (product names, dosage forms, approved indication text) for the 4 registered products
-- Confirmation of methemoglobinemia and allergic-reaction risk data specific to the registered Malaysia formulations, given known class-level safety signals
-- A dedicated prilocaine (or lidocaine-prilocaine) RCT in postherpetic neuralgia to close the current L2 evidence gap
+**Untuk meneruskan, berikut diperlukan:**
+- Data sisipan paket TFDA/NPRA: amaran, kontraindikasi (DG001, Menyekat)
+- Dokumentasi MOA DrugBank/produk formal (DG002, Tinggi)
+- Perincian peringkat lesen NPRA (nama produk, bentuk dos, teks petunjuk yang diluluskan) untuk 4 produk terdaftar
+- Pengesahan data risiko methemoglobinaemia dan tindak balas alergi khusus bagi formulasi Malaysia yang terdaftar, memandangkan isyarat keselamatan peringkat kelas yang diketahui
+- RCT prilocaine khusus (atau lidocaine-prilocaine) dalam neuralgia postherpetik untuk menutup jurang bukti L2 semasa
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,103 +29,104 @@ Tahap bukti: **L2** | Indikasi diramal: **10**
 
 </div>
 
-# Cabazitaxel: From Metastatic Castration-Resistant Prostate Cancer to Female Breast Carcinoma
+# Cabazitaxel: Dari Kanser Prostat Tahan Kastrasi Metastatik Kepada Karsinoma Payudara Wanita
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-> Cabazitaxel is a next-generation taxane chemotherapy agent, originally approved (in combination with prednisone) for docetaxel-refractory metastatic castration-resistant prostate cancer.
-> The TxGNN model predicts it may be effective for **Female Breast Carcinoma**, and this direction is already supported by **1 completed randomized Phase II trial, 2 additional early-phase clinical trials, and 20 publications** identified in this evidence pack — though no entries were found in the structured ClinicalTrials.gov/ICTRP registries.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Metastatic castration-resistant (hormone-refractory) prostate cancer, in combination with prednisone (per literature evidence, e.g. PMID [26651178](https://pubmed.ncbi.nlm.nih.gov/26651178/), [28567478](https://pubmed.ncbi.nlm.nih.gov/28567478/); TFDA/NPRA structured indication text not available in this pack) |
-| Predicted New Indication | Female Breast Carcinoma |
-| TxGNN Prediction Score | 99.92% (rank 1,590) |
-| Evidence Level | L2 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 4 |
-| Recommended Decision | Proceed with Guardrails |
+> Cabazitaxel ialah agen kemoterapi taksan generasi seterusnya yang asal-muula diluluskan (dalam gabungan dengan prednison) untuk kanser prostat tahan kastrasi metastatik yang resistan terhadap docetaxel.
+> Model TxGNN meramalkan ia mungkin berkesan untuk **Karsinoma Payudara Wanita**, dan arah ini sudah disokong oleh **1 ujian rawak Fasa II yang telah selesai, 2 ujian klinikal fasa awal tambahan, dan 20 penerbitan** yang dikenal pasti dalam pakej bukti ini — walaupun tiada entri ditemui dalam pendaftaran berstruktur ClinicalTrials.gov/ICTRP.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Pantas
 
-Currently, detailed structured mechanism-of-action data is not available in this evidence pack (`original_moa: [Data Gap]`, DG002). Based on the literature evidence collected here, cabazitaxel is a **taxane-class anti-microtubule agent** (PMID [28567478](https://pubmed.ncbi.nlm.nih.gov/28567478/), [21076710](https://pubmed.ncbi.nlm.nih.gov/21076710/)) developed as a next-generation taxane specifically to overcome P-glycoprotein-mediated resistance seen with docetaxel and paclitaxel (PMID [26651178](https://pubmed.ncbi.nlm.nih.gov/26651178/), [21152241](https://pubmed.ncbi.nlm.nih.gov/21152241/)). Its established use is in docetaxel-pretreated metastatic castration-resistant prostate cancer.
-
-Taxanes as a class (paclitaxel, docetaxel) are already standard-of-care cytotoxic chemotherapy in breast cancer, so the mechanistic link between the original indication and the predicted indication is strong: both are solid tumors in which microtubule-stabilizing agents disrupt mitotic spindle function to induce cell death. Cabazitaxel's reduced susceptibility to Pgp-mediated efflux resistance is particularly relevant for breast cancer patients who have progressed on prior taxane therapy.
-
-This mechanistic plausibility is not purely theoretical — it is already being tested clinically. The GENEVIEVE trial (PMID [28768217](https://pubmed.ncbi.nlm.nih.gov/28768217/)) directly compared neoadjuvant cabazitaxel against weekly paclitaxel in operable HER2-negative breast cancer, and separate trials have evaluated cabazitaxel in taxane/anthracycline-pretreated metastatic breast cancer (PMID [21339064](https://pubmed.ncbi.nlm.nih.gov/21339064/)) and in HER2-positive breast cancer with CNS metastases, leveraging cabazitaxel's blood-brain barrier penetration (PMID [29678476](https://pubmed.ncbi.nlm.nih.gov/29678476/)). These findings substantially strengthen the credibility of the TxGNN prediction beyond model-score alone.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered (ClinicalTrials.gov and ICTRP queries for "Cabazitaxel" + "female breast carcinoma" both returned 0 results as of 2026-03-26). Note: several relevant clinical-phase studies were identified via PubMed literature instead — see Literature Evidence below.
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Kanser prostat tahan kastrasi (tahan hormon) metastatik, dalam gabungan dengan prednison (menurut bukti literatur, cth. PMID [26651178](https://pubmed.ncbi.nlm.nih.gov/26651178/), [28567478](https://pubmed.ncbi.nlm.nih.gov/28567478/); teks petunjuk berstruktur TFDA/NPRA tidak tersedia dalam pakej ini) |
+| Petunjuk Baharu yang Diramalkan | Karsinoma Payudara Wanita |
+| Skor Ramalan TxGNN | 99.92% (pangkat 1,590) |
+| Tahap Bukti | L2 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 4 |
+| Keputusan yang Disyorkan | Lanjutkan dengan Pengawasan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [28768217](https://pubmed.ncbi.nlm.nih.gov/28768217/) | 2017 | Phase II RCT | European Journal of Cancer | GENEVIEVE trial: randomized, open-label Phase II comparing neoadjuvant cabazitaxel vs. weekly paclitaxel in operable triple-negative or luminal B/HER2-negative breast cancer, evaluating pathological complete response rate. |
-| [29678476](https://pubmed.ncbi.nlm.nih.gov/29678476/) | 2018 | Phase II Trial | Clinical Breast Cancer | Dose-finding study of cabazitaxel plus lapatinib (NCT01934894) for HER2+ metastatic breast cancer with intracranial metastases, exploiting cabazitaxel's blood-brain barrier penetration. |
-| [21339064](https://pubmed.ncbi.nlm.nih.gov/21339064/) | 2011 | Phase I/II Trial | European Journal of Cancer | Multicentre dose-escalation study of cabazitaxel + capecitabine in metastatic breast cancer previously treated with anthracyclines and taxanes; established MTD, safety, PK and activity. |
-| [26651178](https://pubmed.ncbi.nlm.nih.gov/26651178/) | 2016 | Review | Expert Opinion on Therapeutic Patents | Taxane anticancer agent patent review, including cabazitaxel's approval history and use across cancer types. |
-| [33247980](https://pubmed.ncbi.nlm.nih.gov/33247980/) | 2021 | Review | British Journal of Clinical Pharmacology | Review of therapeutic drug monitoring-based dose adjustment for taxanes, including cabazitaxel pharmacokinetics. |
-| [21076710](https://pubmed.ncbi.nlm.nih.gov/21076710/) | 2010 | Review | Drugs of Today | Overview of cabazitaxel's pharmacokinetic and safety profile; notes neutropenia and neuropathy as principal toxicities from Phase I data. |
-| [27215440](https://pubmed.ncbi.nlm.nih.gov/27215440/) | 2016 | Review | Current Pharmaceutical Design | Review of colloidal drug delivery carriers for taxanes (paclitaxel, docetaxel, cabazitaxel) in breast, prostate, lung and ovarian cancer. |
-| [36080414](https://pubmed.ncbi.nlm.nih.gov/36080414/) | 2022 | Review | Molecules | Historical/mechanistic review of microtubule-targeting agents, including the taxane class. |
-| [25416788](https://pubmed.ncbi.nlm.nih.gov/25416788/) | 2015 | Preclinical | Molecular Cancer Therapeutics | Mechanisms of cabazitaxel resistance studied using cabazitaxel-resistant variants derived from MCF-7 breast cancer cells. |
-| [30529259](https://pubmed.ncbi.nlm.nih.gov/30529259/) | 2019 | Preclinical | Journal of Controlled Release | Cabazitaxel-loaded nanoparticles showed improved efficacy over free drug in a basal-like patient-derived breast cancer xenograft model. |
+Pada masa ini, data mekanisme tindakan terperinci yang berstruktur tidak tersedia dalam pakej bukti ini (`original_moa: [Data Gap]`, DG002). Berdasarkan bukti literatur yang dikumpul di sini, cabazitaxel ialah **agen anti-mikrotubul kelas taksan** (PMID [28567478](https://pubmed.ncbi.nlm.nih.gov/28567478/), [21076710](https://pubmed.ncbi.nlm.nih.gov/21076710/)) yang dikembangkan sebagai taksan generasi seterusnya khususnya untuk mengatasi rintangan yang dimediasi oleh P-glikoprotein yang dilihat dengan docetaxel dan paclitaxel (PMID [26651178](https://pubmed.ncbi.nlm.nih.gov/26651178/), [21152241](https://pubmed.ncbi.nlm.nih.gov/21152241/)). Penggunaannya yang telah ditetapkan ialah dalam kanser prostat tahan kastrasi metastatik yang pra-dirawat dengan docetaxel.
+
+Taksan sebagai kelas (paclitaxel, docetaxel) sudah merupakan kemoterapi sitotoksik standard-of-care dalam kanser payudara, jadi pautan mekanistik antara petunjuk asal dan petunjuk yang diramalkan adalah kuat: kedua-duanya adalah tumor pepejal di mana agen yang menstabilkan mikrotubul mengganggu fungsi gelendong mitosis untuk mendorong kematian sel. Kerentanan cabazitaxel yang berkurangan terhadap rintangan efluks yang dimediasi oleh Pgp amat relevan untuk pesakit kanser payudara yang telah berkembang pada terapi taksan sebelumnya.
+
+Rasional mekanistik ini bukan semata-mata teoretikal — ia sudah sedang diuji secara klinikal. Ujian GENEVIEVE (PMID [28768217](https://pubmed.ncbi.nlm.nih.gov/28768217/)) secara langsung membandingkan cabazitaxel neoadjuvan terhadap paclitaxel mingguan dalam kanser payudara HER2-negatif yang boleh dioperasi, dan ujian terasing telah menilai cabazitaxel dalam kanser payudara metastatik yang pra-dirawat dengan taksan/antrasiklinê (PMID [21339064](https://pubmed.ncbi.nlm.nih.gov/21339064/)) dan dalam kanser payudara HER2-positif dengan metastasis CNS, memanfaatkan penembusan penghalang darah-otak cabazitaxel (PMID [29678476](https://pubmed.ncbi.nlm.nih.gov/29678476/)). Penemuan ini dengan ketara memperkuat kredibiliti ramalan TxGNN melampaui skor model semata.
 
 ---
 
-## Malaysia Market Information
+## Bukti Ujian Klinikal
 
-The evidence pack confirms cabazitaxel is **marketed in Malaysia with 4 active registrations** (`market_status: Marketed`), but individual license details (registration number, product name, dosage form, approved indication text) were not populated in this data pull. This should be treated as a data gap requiring a follow-up query to the NPRA QUEST3+ registration system before Malaysia-specific labelling can be confirmed.
-
----
-
-## Cytotoxicity
-
-Cabazitaxel is a cytotoxic chemotherapy agent (taxane class), so this section applies.
-
-| Item | Content |
-|------|------|
-| Cytotoxicity Classification | Conventional cytotoxic — taxane-class microtubule inhibitor |
-| Myelosuppression Risk | High — neutropenia is reported as a principal dose-limiting toxicity in Phase I data (PMID [21076710](https://pubmed.ncbi.nlm.nih.gov/21076710/)); consistent with known taxane class effects |
-| Emetogenicity Classification | Low to Moderate (consistent with taxane class) |
-| Monitoring Items | CBC with differential (absolute neutrophil count), peripheral neuropathy assessment, liver and renal function |
-| Handling Protection | Requires cytotoxic drug handling precautions (hazardous drug PPE, closed-system transfer where applicable) per standard chemotherapy handling protocols |
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan (pertanyaan ClinicalTrials.gov dan ICTRP untuk "Cabazitaxel" + "kanser payudara wanita" kedua-duanya mengembalikan 0 hasil pada 2026-03-26). Nota: beberapa penemuan kajian fasa klinikal yang relevan telah dikenal pasti melalui literatur PubMed sebaliknya — lihat Bukti Literatur di bawah.
 
 ---
 
-## Safety Considerations
+## Bukti Literatur
 
-Please refer to the package insert for safety information. Structured warnings, contraindications, and drug interaction data were not available in this evidence pack (DG001, Blocking severity — TFDA/NPRA package insert not yet parsed; DDI query status: not found).
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|------|------|--------|----------|
+| [28768217](https://pubmed.ncbi.nlm.nih.gov/28768217/) | 2017 | RCT Fasa II | European Journal of Cancer | Ujian GENEVIEVE: rawak, terbuka Fasa II membandingkan cabazitaxel neoadjuvan lwn. paclitaxel mingguan dalam kanser payudara yang boleh dioperasi triple-negatif atau luminal B/HER2-negatif, menilai kadar respons patologi lengkap. |
+| [29678476](https://pubmed.ncbi.nlm.nih.gov/29678476/) | 2018 | Ujian Fasa II | Clinical Breast Cancer | Kajian penentuan dos cabazitaxel tambah lapatinib (NCT01934894) untuk kanser payudara metastatik HER2+ dengan metastasis intrakranial, memanfaatkan penembusan penghalang darah-otak cabazitaxel. |
+| [21339064](https://pubmed.ncbi.nlm.nih.gov/21339064/) | 2011 | Ujian Fasa I/II | European Journal of Cancer | Kajian eskalasi dos berbilang pusat cabazitaxel + capecitabine dalam kanser payudara metastatik yang pra-dirawat dengan antrasiklinê dan taksan; menetapkan DMM, keselamatan, PK dan aktiviti. |
+| [26651178](https://pubmed.ncbi.nlm.nih.gov/26651178/) | 2016 | Ulasan | Expert Opinion on Therapeutic Patents | Ulasan paten agen antikanser taksan, termasuk sejarah kelulusan dan penggunaan cabazitaxel merentasi jenis kanser. |
+| [33247980](https://pubmed.ncbi.nlm.nih.gov/33247980/) | 2021 | Ulasan | British Journal of Clinical Pharmacology | Ulasan pemantauan ubat terapeutik berdasarkan penyesuaian dos untuk taksan, termasuk farmakokinetik cabazitaxel. |
+| [21076710](https://pubmed.ncbi.nlm.nih.gov/21076710/) | 2010 | Ulasan | Drugs of Today | Gambaran profil farmakokinetik dan keselamatan cabazitaxel; mencatat neutropenia dan neuropati sebagai toksisiti utama dari data Fasa I. |
+| [27215440](https://pubmed.ncbi.nlm.nih.gov/27215440/) | 2016 | Ulasan | Current Pharmaceutical Design | Ulasan pembawa penyampaian ubat koloidal untuk taksan (paclitaxel, docetaxel, cabazitaxel) dalam kanser payudara, prostat, paru dan ovari. |
+| [36080414](https://pubmed.ncbi.nlm.nih.gov/36080414/) | 2022 | Ulasan | Molecules | Ulasan sejarah/mekanistik agen penyasaran mikrotubul, termasuk kelas taksan. |
+| [25416788](https://pubmed.ncbi.nlm.nih.gov/25416788/) | 2015 | Pra-klinikal | Molecular Cancer Therapeutics | Mekanisme rintangan cabazitaxel yang dikaji menggunakan varian tahan cabazitaxel yang diterbitkan daripada sel kanser payudara MCF-7. |
+| [30529259](https://pubmed.ncbi.nlm.nih.gov/30529259/) | 2019 | Pra-klinikal | Journal of Controlled Release | Nanozarah dimuat cabazitaxel menunjukkan keberkesanan yang ditingkatkan berbanding ubat bebas dalam model xenograft kanser payudara jenis basaloid terima pasien. |
 
 ---
 
-## Conclusion and Next Steps
+## Maklumat Pasaran Malaysia
 
-**Decision: Proceed with Guardrails**
+Pakej bukti mengesahkan bahawa cabazitaxel **dipasarkan di Malaysia dengan 4 pendaftaran aktif** (`market_status: Marketed`), tetapi butiran lesen individu (nombor pendaftaran, nama produk, bentuk dos, teks petunjuk yang diluluskan) tidak diisi dalam cabutan data ini. Ini harus dianggap sebagai jurang data yang memerlukan pertanyaan susulan kepada sistem pendaftaran NPRA QUEST3+ sebelum pelabelan khusus Malaysia dapat disahkan.
 
-**Rationale:**
-- Evidence Level L2 is supported by a completed randomized Phase II trial (GENEVIEVE) directly comparing cabazitaxel to a standard taxane in breast cancer, plus two additional early-phase clinical trials showing activity in pretreated and CNS-involved metastatic breast cancer. The mechanistic rationale (taxane-class agent in a cancer type where taxanes are standard of care) is strong, and the drug is already marketed in Malaysia. However, the **Blocking** safety data gap (DG001) prevents this candidate from formally entering the S1 safety pre-screen until resolved.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert PDF retrieval and parsing for warnings/contraindications (DG001 — Blocking)
-- DrugBank MOA confirmation (DG002)
-- Malaysia-specific license record details (registration number, dosage form, approved indication text) — currently blank in this evidence pack
-- Formal drug-drug interaction database query (current status: not found)
-- Clarify whether the 3 clinical-phase literature findings (GENEVIEVE, dose-finding, dose-escalation) should be manually cross-registered into the structured clinical trial evidence store, since they did not surface via the ClinicalTrials.gov/ICTRP search
+## Sitotoksisiti
 
-*Note: Ranks 2–10 in this evidence pack (a cluster of near-identical scores ~0.9989 for sickle cell disease variants, plus HIV, hyperthyroidism, neuroblastoma, and rheumatoid arthritis) show no supporting clinical trial or literature evidence, and reviewer annotations already flag several of these as likely TxGNN embedding-space noise (L5/S0/Hold). These are not carried forward in this report and are recommended for no further individual investigation unless new evidence emerges.*
+Cabazitaxel ialah agen kemoterapi sitotoksik (kelas taksan), jadi bahagian ini terpakai.
+
+| Item | Kandungan |
+|------|----------|
+| Klasifikasi Sitotoksisiti | Sitotoksik konvensional — perencatan mikrotubul kelas taksan |
+| Risiko Supresi Sumsum Tulang | Tinggi — neutropenia dilaporkan sebagai toksisiti pembatas dos utama dalam data Fasa I (PMID [21076710](https://pubmed.ncbi.nlm.nih.gov/21076710/)); konsisten dengan kesan kelas taksan yang diketahui |
+| Klasifikasi Emetogenisiti | Rendah hingga Sederhana (konsisten dengan kelas taksan) |
+| Item Pemantauan | Kiraan sel darah putih (CBC) dengan pembezaan (kiraan neutrofil mutlak), penilaian neuropati perifer, fungsi hati dan buah pinggang |
+| Perlindungan Pengendalian | Memerlukan langkah-langkah perlindungan pengendalian ubat sitotoksik (PPE ubat berbahaya, pemindahan sistem tertutup di mana berkenaan) mengikut protokol pengendalian kemoterapi standard |
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk risalah produk untuk maklumat keselamatan. Data peringatan berstruktur, kontraindikasi, dan interaksi ubat tidak tersedia dalam pakej bukti ini (DG001, Severity Blocking — risalah produk TFDA/NPRA belum dianalisis; status pertanyaan DDI: tidak dijumpai).
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Lanjutkan dengan Pengawasan**
+
+**Rasional:**
+- Tahap Bukti L2 disokong oleh ujian rawak Fasa II yang telah selesai (GENEVIEVE) yang secara langsung membandingkan cabazitaxel dengan taksan standard dalam kanser payudara, ditambah dua ujian klinikal fasa awal tambahan yang menunjukkan aktiviti dalam kanser payudara metastatik yang pra-dirawat dan yang melibatkan CNS. Rasional mekanistik (agen kelas taksan dalam jenis kanser di mana taksan adalah standard of care) adalah kuat, dan ubat sudah dipasarkan di Malaysia. Walau bagaimanapun, jurang data keselamatan **Blocking** (DG001) mencegah calon ini daripada secara formal memasuki pra-skrin keselamatan S1 sehingga ia diselesaikan.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Pengambilan dan analisis risalah produk PDF TFDA/NPRA untuk peringatan/kontraindikasi (DG001 — Blocking)
+- Pengesahan MOA DrugBank (DG002)
+- Butiran rekod lesen khusus Malaysia (nombor pendaftaran, bentuk dos, teks petunjuk yang diluluskan) — pada masa ini kosong dalam pakej bukti ini
+- Pertanyaan data pangkalan interaksi ubat-ubat formal (status semasa: tidak dijumpai)
+- Jelaskan sama ada 3 penemuan fasa klinikal literatur (GENEVIEVE, penentuan dos, eskalasi dos) perlu dilintasdaftarkan secara manual ke dalam simpanan bukti ujian klinikal berstruktur, kerana ia tidak timbul melalui carian ClinicalTrials.gov/ICTRP
+
+*Nota: Pangkat 2–10 dalam pakej bukti ini (kelompok skor hampir serupa ~0.9989 untuk varian penyakit sel sabit, ditambah HIV, hipertiroidisme, neuroblastoma, dan artritis reumatoid) menunjukkan tiada bukti ujian klinikal atau literatur yang menyokong, dan anotasi pengkaji sudah menandai beberapa daripada ini sebagai kemungkinan bunyi ruang terapan TxGNN (L5/S0/Hold). Ini tidak dibawa ke hadapan dalam laporan ini dan disyorkan untuk tiada penyiasatan individu lebih lanjut melainkan bukti baharu muncul.*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

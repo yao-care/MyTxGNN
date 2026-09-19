@@ -29,70 +29,71 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Benserazide Hydrochloride: Drug Repurposing Evaluation Report
+# Benserazide Hydrochloride: Laporan Penilaian Repurposing Ubat
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Benserazide hydrochloride is a peripheral DOPA decarboxylase inhibitor, commonly used in combination with levodopa for the treatment of Parkinson's disease. The TxGNN model **has not generated any predicted new indications** for this compound, and the evidence pack contains significant data gaps across multiple categories, preventing a meaningful repurposing assessment at this time.
+Benserazide hydrochloride ialah perencat dekarboxilase DOPA periferal, biasanya digunakan dalam kombinasi dengan levodopa untuk rawatan penyakit Parkinson. Model TxGNN **belum menghasilkan sebarang petunjuk baru yang diramalkan** untuk sebatian ini, dan pakej bukti mengandungi jurang data yang ketara merentas pelbagai kategori, menghalang penilaian repurposing yang bermakna pada masa ini.
 
-## Quick Overview
+## Gambaran Keseluruhan Cepat
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Parkinson's disease (combination with levodopa) |
-| Predicted New Indication | — (No prediction generated) |
-| TxGNN Prediction Score | — |
-| Evidence Level | L5 (No studies; no model prediction available) |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 3 |
-| Recommended Decision | **Hold** |
+| Petunjuk Asal | Penyakit Parkinson (kombinasi dengan levodopa) |
+| Petunjuk Baru yang Diramalkan | — (Tiada ramalan dijana) |
+| Skor Ramalan TxGNN | — |
+| Tahap Bukti | L5 (Tiada kajian; tiada ramalan model tersedia) |
+| Status Pasaran Malaysia | ✓ Tersedia di pasaran (Tersedia di pasaran) |
+| Bilangan Pendaftaran | 3 |
+| Keputusan Disyorkan | **Tunggu** |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-No TxGNN prediction was generated for benserazide hydrochloride. The `predicted_indications` array is empty, meaning the model did not identify any repurposing candidates that met the scoring threshold.
+Tiada ramalan TxGNN yang dijana untuk benserazide hydrochloride. Susunan `predicted_indications` adalah kosong, bermaksud model tidak mengenal pasti sebarang calon repurposing yang memenuhi ambang pemarkahan.
 
-Benserazide is a peripheral aromatic L-amino acid decarboxylase (AADC) inhibitor. It does not cross the blood–brain barrier and acts by blocking the peripheral conversion of levodopa to dopamine, thereby increasing the bioavailability of levodopa in the central nervous system. It is always used as a combination product (levodopa/benserazide, marketed as Madopar®) and has limited standalone pharmacological activity.
+Benserazide ialah perencat aromatic L-amino acid decarboxylase (AADC) periferal. Ia tidak melintas penghalang darah-otak dan bertindak dengan menyekat penukaran levodopa ke dopamin yang bersifat periferal, dengan itu meningkatkan ketersediaan hayati levodopa dalam sistem saraf pusat. Ia sentiasa digunakan sebagai produk kombinasi (levodopa/benserazide, dipasarkan sebagai Madopar®) dan mempunyai aktiviti farmakoloji mandiri yang terbatas.
 
-The absence of a prediction may be attributable to several factors: (1) benserazide functions primarily as a pharmacokinetic enhancer rather than a direct therapeutic agent, making its standalone repurposing potential limited; (2) the DrugBank ID was not resolved (`drugbank_id: null`), which may have prevented proper mapping into the TxGNN knowledge graph; and (3) the mechanism of action data was not available in the evidence pack, further limiting the model's ability to draw mechanistic associations.
+Ketiadaan ramalan mungkin boleh dikaitkan dengan beberapa faktor: (1) benserazide berfungsi terutamanya sebagai penambah farmakokinetik dan bukannya agen terapeutik langsung, menjadikan potensi repurposing mandirinya terbatas; (2) ID DrugBank tidak diselesaikan (`drugbank_id: null`), yang mungkin telah menghalang pemetaan yang sepatutnya ke dalam graf pengetahuan TxGNN; dan (3) data mekanisme tindakan tidak tersedia dalam pakej bukti, seterusnya mengehadkan keupayaan model untuk membuat kaitan mekanik.
 
-## Clinical Trial Evidence
+## Bukti Percubaan Klinikal
 
-Currently no predicted indication was generated, therefore no targeted clinical trial search was performed.
+Pada masa ini tiada petunjuk yang diramalkan telah dijana, oleh itu tiada carian percubaan klinikal yang disasarkan telah dilakukan.
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-Currently no predicted indication was generated, therefore no targeted literature search was performed.
+Pada masa ini tiada petunjuk yang diramalkan telah dijana, oleh itu tiada carian kesusasteraan yang disasarkan telah dilakukan.
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjuk yang Diluluskan |
 |---------|------|------|-----------|
-| *(Not available)* | *(Not available)* | *(Not available)* | *(Not available)* |
+| *(Tidak tersedia)* | *(Tidak tersedia)* | *(Tidak tersedia)* | *(Tidak tersedia)* |
 
-> **Note:** Three registrations were identified in the NPRA database, but the detailed license information (authorization number, product name, dosage form, and approved indication text) was not populated in the evidence pack. This represents a data gap that should be remediated by querying the NPRA database directly.
+> **Nota:** Tiga pendaftaran telah dikenalpasti dalam pangkalan data NPRA, tetapi maklumat lesen terperinci (nombor kebenaran, nama produk, bentuk dos, dan teks petunjuk yang diluluskan) tidak diisi dalam pakej bukti. Ini mewakili jurang data yang perlu diperbetulkan dengan membuat pertanyaan ke pangkalan data NPRA secara langsung.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-> Please refer to the package insert for safety information. All safety fields (key warnings, contraindications, and drug–drug interactions) are currently unavailable in this evidence pack.
+> Sila rujuk risalah produk untuk maklumat keselamatan. Semua medan keselamatan (amaran utama, kontraindikasi, dan interaksi ubat–ubat) pada masa ini tidak tersedia dalam pakej bukti ini.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tunggu**
 
-**Rationale:**
-No repurposing candidates were predicted by TxGNN for benserazide hydrochloride. Additionally, critical data gaps exist across DrugBank mapping, mechanism of action, regulatory license details, and safety information, making any repurposing assessment premature.
+**Alasan:**
+Tiada calon repurposing yang diramalkan oleh TxGNN untuk benserazide hydrochloride. Sebagai tambahan, jurang data kritikal wujud merentas pemetaan DrugBank, mekanisme tindakan, butiran lesen pengawalan, dan maklumat keselamatan, menjadikan sebarang penilaian repurposing prematur.
 
-**To proceed, the following is needed:**
-- **Resolve DrugBank ID mapping** — Query DrugBank for "benserazide" (DB00190) to enable proper knowledge graph integration
-- **Populate NPRA license details** — Retrieve full registration records (authorization numbers, product names, dosage forms, approved indications) from the NPRA database
-- **Obtain mechanism of action data** — Retrieve MOA from DrugBank to support mechanistic reasoning
-- **Obtain safety data** — Download and parse the package insert (PIL) for key warnings, contraindications, and drug interactions
-- **Re-run TxGNN prediction** — Once the DrugBank ID is resolved and the drug is properly mapped into the knowledge graph, re-execute the prediction pipeline to determine if any repurposing candidates emerge
-- **Consider combination context** — Since benserazide is almost exclusively used in combination with levodopa, evaluate whether the prediction model should assess the levodopa/benserazide combination rather than benserazide alone
+**Untuk meneruskan, yang berikut diperlukan:**
+- **Selesaikan pemetaan ID DrugBank** — Soal DrugBank untuk "benserazide" (DB00190) bagi membolehkan integrasi graf pengetahuan yang sepatutnya
+- **Isi butiran lesen NPRA** — Ambil rekod pendaftaran lengkap (nombor kebenaran, nama produk, bentuk dos, petunjuk yang diluluskan) dari pangkalan data NPRA
+- **Dapatkan data mekanisme tindakan** — Ambil MOA dari DrugBank untuk menyokong penaakulan mekanik
+- **Dapatkan data keselamatan** — Muat turun dan analisis risalah produk (PIL) untuk amaran utama, kontraindikasi, dan interaksi ubat
+- **Jalankan semula ramalan TxGNN** — Sebaik sahaja ID DrugBank diselesaikan dan ubat itu dipetakan dengan sepatutnya ke dalam graf pengetahuan, laksanakan semula saluran ramalan untuk menentukan sama ada sebarang calon repurposing muncul
+- **Pertimbangkan konteks kombinasi** — Memandangkan benserazide hampir eksklusif digunakan dalam kombinasi dengan levodopa, nilaikan sama ada model ramalan perlu menilai kombinasi levodopa/benserazide dan bukannya benserazide sahaja
 
 ---
 
-*This report is for research purposes only and does not constitute medical advice. Any drug repurposing candidates require clinical validation before application.*
+*Laporan ini adalah untuk tujuan penyelidikan sahaja dan tidak merupakan nasihat perubatan. Sebarang calon repurposing ubat memerlukan pengesahan klinikal sebelum aplikasi.*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

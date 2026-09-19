@@ -29,91 +29,92 @@ Tahap bukti: **L4** | Indikasi diramal: **3**
 
 </div>
 
-# Carbimazole: From Hyperthyroidism to Resistance to Thyroid Hormone Beta (RTHβ)
+# Carbimazole: Dari Hipertiroidisme kepada Rintangan terhadap Hormon Tiroid Beta (RTHβ)
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Carbimazole is a thionamide antithyroid agent, originally used to treat hyperthyroidism/thyrotoxicosis (e.g. Graves' disease) by inhibiting thyroid peroxidase (TPO).
-The TxGNN model predicts it may be effective for **Resistance to Thyroid Hormone due to a Mutation in Thyroid Hormone Receptor Beta (RTHβ)**,
-but this direction is currently supported by **0 clinical trials** and only **1 case report**, so it remains an early-stage research signal rather than a validated indication.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Hyperthyroidism / thyrotoxicosis (inferred from drug class and mechanism; TFDA/NPRA licence indication text was not returned in this data pull — see Malaysia Market Information) |
-| Predicted New Indication | Resistance to Thyroid Hormone due to a Mutation in Thyroid Hormone Receptor Beta (RTHβ) |
-| TxGNN Prediction Score | 99.71% |
-| Evidence Level | L4 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 4 |
-| Recommended Decision | Hold |
+Carbimazole ialah agen antitirois thionamid, yang awalnya digunakan untuk merawat hipertiroidisme/tirotoksisosis (contohnya penyakit Graves) dengan menghalang peroksidase tiroid (TPO).
+Model TxGNN meramalkan ia mungkin berkesan untuk **Rintangan terhadap Hormon Tiroid disebabkan Mutasi dalam Reseptor Hormon Tiroid Beta (RTHβ)**,
+tetapi arah ini kini disokong oleh **0 ujian klinikal** dan hanya **1 laporan kes**, jadi ia kekal sebagai isyarat penyelidikan tahap awal dan bukannya indikasi yang disahkan.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Pantas
 
-Detailed mechanism of action data for Carbimazole is not available in this evidence pack (data gap). Based on known pharmacology reflected in the evidence, Carbimazole is a prodrug of methimazole belonging to the thionamide/antithyroid drug class; it inhibits thyroid peroxidase (TPO), blocking synthesis of thyroid hormone. Its efficacy in hyperthyroidism is well established clinically.
-
-In RTHβ, a mutation in the thyroid hormone receptor beta makes the pituitary insensitive to thyroid hormone negative feedback. As a result, TSH is not appropriately suppressed and continues to stimulate the thyroid gland; some patients present with peripheral hyperthyroid symptoms such as palpitations and weight loss despite a structurally normal thyroid axis.
-
-Mechanistically, Carbimazole's TPO inhibition could reduce the amount of thyroid hormone synthesized and thereby relieve these peripheral hyperthyroid symptoms. However, it does not correct the underlying receptor defect — it would function only as symptomatic adjunct therapy, not disease-modifying treatment. This is a plausible but unproven extension of an established mechanism, consistent with the "Research Question" stage this candidate is currently scored at.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Hipertiroidisme / tirotoksisosis (disimpulkan daripada kelas ubat dan mekanisme; teks indikasi lesen TFDA/NPRA tidak dikembalikan dalam penarikan data ini — lihat Maklumat Pasaran Malaysia) |
+| Indikasi Baru yang Diramalkan | Rintangan terhadap Hormon Tiroid disebabkan Mutasi dalam Reseptor Hormon Tiroid Beta (RTHβ) |
+| Skor Ramalan TxGNN | 99.71% |
+| Tahap Bukti | L4 |
+| Status Pasaran Malaysia | ✓ Telah Dipasarkan |
+| Bilangan Pendaftaran | 4 |
+| Keputusan Disyorkan | Tunggu |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| PMID | Year | Type | Journal | Key Findings |
+Data mekanisme tindakan terperinci untuk Carbimazole tidak tersedia dalam paket bukti ini (jurang data). Berdasarkan farmakologi yang diketahui seperti yang dicerminkan dalam bukti, Carbimazole ialah prodrug methimazole yang tergolong dalam kelas ubat thionamid/antitirois; ia menghalang peroksidase tiroid (TPO), menyekat sintesis hormon tiroid. Keefikaannya dalam hipertiroidisme telah ditubuhkan dengan baik secara klinikal.
+
+Dalam RTHβ, mutasi dalam reseptor hormon tiroid beta menjadikan hipofisis tidak sensitif kepada maklum balas negatif hormon tiroid. Akibatnya, TSH tidak sesuai ditindas dan terus merangsang kelenjar tiroid; sesetengah pesakit mempersembahkan dengan simptom hipertiroid periferal seperti palpitasi dan penurunan berat badan walaupun paksi tiroid yang tersusun normal secara struktur.
+
+Secara mekanistik, perencatan TPO Carbimazole boleh mengurangkan jumlah hormon tiroid yang disintesis dan dengan itu menghilangkan simptom hipertiroid periferal ini. Bagaimanapun, ia tidak membetulkan kecacatan reseptor asas — ia hanya berfungsi sebagai terapi adjuvant simptomatik, bukan rawatan yang mengubah penyakit. Ini adalah lanjutan yang munasabah tetapi tidak terbukti daripada mekanisme yang ditubuhkan, konsisten dengan tahap "Soalan Penyelidikan" calon ini kini diskor pada.
+
+---
+
+## Bukti Ujian Klinikal
+
+Pada masa ini tiada ujian klinikal berkaitan terdaftar.
+
+---
+
+## Bukti Kesusasteraan
+
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [24165508](https://pubmed.ncbi.nlm.nih.gov/24165508/) | 2013 | Case Report | BMJ Case Reports | Young man with persistently elevated free T4 (25–35.7 pmol/L) and non-suppressed TSH (6.78–22.1 mIU/L) over 10 years, treated intermittently with carbimazole; presentation consistent with a thyroid hormone resistance-type picture rather than classic Graves' disease. |
+| [24165508](https://pubmed.ncbi.nlm.nih.gov/24165508/) | 2013 | Laporan Kes | BMJ Case Reports | Lelaki muda dengan T4 bebas yang terus meningkat (25–35.7 pmol/L) dan TSH yang tidak tertindas (6.78–22.1 mIU/L) selama 10 tahun, dirawat bersela-sela dengan carbimazole; persembahan konsisten dengan gambaran jenis rintangan hormon tiroid dan bukannya penyakit Graves yang klasik. |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Malaysia (NPRA) market status confirms Carbimazole is marketed with **4 registered licences**. However, the licence numbers, product names, dosage forms, manufacturers, and approved indication texts were not populated in this data pull — this is a gap in the source query, not an absence of registration. These details should be pulled directly from the NPRA product registry before this evaluation proceeds further.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information. (Key warnings, contraindications, and drug interaction data were not returned in this data pull — this is flagged as a **Blocking** data gap, DG001, which prevents a full S1 safety pre-assessment.)
+Status pasaran Malaysia (NPRA) mengesahkan Carbimazole telah dipasarkan dengan **4 lesen terdaftar**. Bagaimanapun, nombor lesen, nama produk, bentuk dos, pengilang, dan teks indikasi yang diluluskan tidak diisi dalam penarikan data ini — ini ialah jurang dalam pertanyaan sumber, bukan ketiadaan pendaftaran. Butir-butir ini harus ditarik terus daripada daftar produk NPRA sebelum penilaian ini meneruskan lebih jauh.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
-
-**Rationale:**
-The RTHβ indication is supported only by a plausible mechanistic rationale and a single case report (L4, decision stage S1, model-scored "Research Question") — there are no clinical trials and no controlled studies. Combined with a blocking safety data gap (TFDA/NPRA label warnings and contraindications unavailable), this candidate does not yet meet the bar to proceed.
-
-**To proceed, the following is needed:**
-- Resolve DG001 (Blocking): retrieve and parse the TFDA/NPRA package insert for warnings, contraindications, and DDI data
-- Resolve DG002 (High): obtain formal MOA data from DrugBank to confirm/refine the mechanistic rationale
-- Full-text review of the single available RTHβ case report (PMID 24165508) and a broader literature search, since only 1 publication currently supports this specific indication
-- Complete the NPRA licence detail fields (licence number, product name, dosage form, approved indication text) for the 4 registered products
+Sila rujuk sisitin pek untuk maklumat keselamatan. (Data amaran utama, kontraindikasi, dan interaksi ubat tidak dikembalikan dalam penarikan data ini — ini ditandai sebagai jurang data **Menyekat**, DG001, yang menghalang penilaian keselamatan pra-S1 yang lengkap.)
 
 ---
 
-## Other TxGNN-Predicted Indications for Carbimazole (Not Covered in Detail Above)
+## Kesimpulan dan Langkah Seterusnya
 
-This evidence pack contained two additional predicted indications with notably different evidence strength, worth flagging for separate evaluation:
+**Keputusan: Tunggu**
 
-| Rank | Disease | Score | Evidence Level | Recommendation |
+**Rasional:**
+Indikasi RTHβ disokong hanya oleh rasional mekanistik yang munasabah dan laporan kes tunggal (L4, tahap keputusan S1, model berskor "Soalan Penyelidikan") — tiada ujian klinikal dan tiada kajian terkawal. Digabungkan dengan jurang data keselamatan yang menyekat (amaran/kontraindikasi label TFDA/NPRA tidak tersedia), calon ini belum memenuhi tahap untuk meneruskan.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Selesaikan DG001 (Menyekat): ambil dan asingkan sisitin pek TFDA/NPRA untuk data amaran, kontraindikasi, dan DDI
+- Selesaikan DG002 (Tinggi): dapatkan data MOA rasmi daripada DrugBank untuk mengesahkan/menapis rasional mekanistik
+- Semakan teks penuh laporan kes RTHβ tunggal yang tersedia (PMID 24165508) dan carian kesusasteraan yang lebih luas, kerana hanya 1 penerbitan kini menyokong indikasi khusus ini
+- Selesaikan butir-butir medan lesen NPRA (nombor lesen, nama produk, bentuk dos, teks indikasi yang diluluskan) untuk 4 produk berdaftar
+
+---
+
+## Indikasi TxGNN-Diramalkan Lain untuk Carbimazole (Tidak Diliputi Secara Terperinci di Atas)
+
+Paket bukti ini mengandungi dua indikasi diramalkan tambahan dengan kekuatan bukti yang ketara berbeza, bernilai untuk penilaian berasingan:
+
+| Pangkat | Penyakit | Skor | Tahap Bukti | Syor |
 |------|---------|-------|-----------------|-----------------|
-| 2 | Neonatal thyrotoxicosis | 99.41% | L3 | Proceed with Guardrails |
-| 3 | Hyperthyroxinemia | 99.21% | L4 | Hold |
+| 2 | Tirotoksisosis neonat | 99.41% | L3 | Teruskan dengan Pagar |
+| 3 | Hipertiroksinemia | 99.21% | L4 | Tunggu |
 
-Rank 2 (neonatal thyrotoxicosis) is backed by 20 publications, including cohort studies, and reflects an already-established clinical practice (transplacental maternal Graves' antibodies causing neonatal thyrotoxicosis, treated with antithyroid drugs per ATA/ESPE guidance) — its evidence base is materially stronger than the RTHβ candidate featured above and may warrant prioritization if this evaluation is intended to identify the most actionable repurposing opportunity for Carbimazole.
+Pangkat 2 (tirotoksisosis neonat) disokong oleh 20 penerbitan, termasuk kajian kohort, dan mencerminkan amalan klinikal yang telah ditubuhkan (antibodi Graves ibu transplasentar menyebabkan tirotoksisosis neonat, dirawat dengan ubat antitirois menurut panduan ATA/ESPE) — pangkalan bukti L3 nya secara material lebih kuat daripada calon RTHβ yang ditampilkan di atas dan mungkin wajar diprioritaskan jika penilaian ini bertujuan mengenal pasti peluang penusulan ubat yang paling boleh tindakan untuk Carbimazole.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

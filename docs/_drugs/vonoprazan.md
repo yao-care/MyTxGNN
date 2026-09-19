@@ -29,104 +29,103 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-Using the drug-repurposing evaluation report template to generate the requested report directly from the Evidence Pack JSON.
+# Vonoprazan: Daripada GERD/Pemberantasan H. Pylori kepada Ulser Gastrik
 
-# Vonoprazan: From GERD/H. Pylori Eradication to Gastric Ulcer
+## Ringkasan Satu Ayat
 
-## One-Sentence Summary
-
-> Vonoprazan is a potassium-competitive acid blocker (P-CAB) with well-established global use in acid-related gastrointestinal disease (GERD/erosive esophagitis, *H. pylori* eradication). The TxGNN model predicts it may also be effective for **Gastric Ulcer**, with **28 clinical trials** and **20 publications** currently supporting this direction — including two completed Phase 3 RCTs directly in ulcer populations.
+> Vonoprazan ialah penyekat asid yang bersaing dengan kalium (P-CAB) dengan penggunaan global yang telah ditetapkan dalam penyakit gastrointestinal yang berkaitan dengan asid (GERD/esofagitis erosif, pemberantasan *H. pylori*). Model TxGNN meramalkan bahawa ia mungkin juga berkesan untuk **Ulser Gastrik**, dengan **28 percubaan klinikal** dan **20 penerbitan** kini menyokong arah ini — termasuk dua RCT Fasa 3 yang telah selesai secara langsung dalam populasi ulser.
 
 ---
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | Not recorded in current Taiwan license data (Data Gap DG001); internationally established for GERD/erosive esophagitis and *H. pylori* eradication |
-| Predicted New Indication | Gastric Ulcer |
-| TxGNN Prediction Score | 99.99% |
-| Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 4 |
-| Recommended Decision | Proceed with Guardrails |
-
----
-
-## Why is This Prediction Reasonable?
-
-Vonoprazan is a potassium-competitive acid blocker (P-CAB) that reversibly inhibits gastric parietal cell H⁺/K⁺-ATPase, producing rapid, potent, and stable suppression of gastric acid secretion — a faster onset and more acid-stable profile than conventional proton pump inhibitors (PPIs).
-
-Because acid suppression is the direct mechanistic requirement for peptic ulcer healing, the "predicted new indication" of gastric ulcer is not really a distant cross-indication inference — it maps directly onto the drug's core pharmacology. The evidence pack itself flags this explicitly: *"此為藥物核心作用，非跨適應症推論"* (this is the drug's core action, not a cross-indication inference). Consistent with this, multiple trials in the evidence (e.g., NCT03214952, a large post-marketing surveillance of "Takecab Tablets" in Japan) already cover gastric ulcer, duodenal ulcer, and reflux esophagitis together, indicating the drug's established acid-suppressant activity naturally extends across this disease family.
-
-In short: the TxGNN prediction largely corroborates a mechanistically expected — and in several markets already realized — indication, rather than identifying a truly novel biological pathway. The key open question for Taiwan/Malaysia is whether the *locally approved* label text already includes gastric ulcer, which cannot be confirmed because the current license records lack indication text (see Data Gaps below).
+| Item | Kandungan |
+|------|---------|
+| Indikasi Asal | Tidak direkodkan dalam data lesen Taiwan semasa (Jurang Data DG001); ditetapkan secara antarabangsa untuk GERD/esofagitis erosif dan pemberantasan *H. pylori* |
+| Indikasi Baru yang Diramalkan | Ulser Gastrik |
+| Skor Ramalan TxGNN | 99.99% |
+| Tahap Bukti | L1 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 4 |
+| Keputusan yang Disyorkan | Teruskan dengan Penjaga |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Vonoprazan ialah penyekat asid yang bersaing dengan kalium (P-CAB) yang secara bertukar-tukar menghalang pompa H⁺/K⁺-ATPase sel parietal gastrik, menghasilkan penindasan asid gastrik yang cepat, kuat, dan stabil — profil permulaan yang lebih cepat dan lebih stabil asid daripada perencat pompa proton konvensional (PPI).
+
+Oleh kerana penindasan asid ialah keperluan mekanistik langsung untuk penyembuhan ulser peptik, "indikasi baru yang diramalkan" ulser gastrik bukanlah benar-benar inferens lintas-indikasi yang jauh — ia dipetakan secara langsung ke farmakologi teras ubat. Pakej bukti itu sendiri menandakan ini secara eksplisit: *"此為藥物核心作用，非跨適應症推論"* (ini ialah tindakan teras ubat, bukan inferens lintas-indikasi). Konsisten dengan ini, beberapa percubaan dalam bukti (cth., NCT03214952, pengawasan pasca-pemasaran besar-besaran "Takecab Tablets" di Jepun) sudah meliputi ulser gastrik, ulser duodenum, dan esofagitis refluks bersama-sama, menunjukkan aktiviti penekan asid ubat yang ditetapkan secara semula jadi meluas merentasi keluarga penyakit ini.
+
+Ringkasnya: ramalan TxGNN sebahagian besarnya mengesahkan indikasi yang diharapkan secara mekanistik — dan dalam beberapa pasaran sudah pun direalisasikan — daripada mengenal pasti laluan biologi yang benar-benar baru. Soalan utama yang terbuka untuk Taiwan/Malaysia ialah sama ada teks label yang *diluluskan secara setempat* sudah pun merangkumi ulser gastrik, yang tidak dapat disahkan kerana rekod lesen semasa kekurangan teks indikasi (lihat Jurang Data di bawah).
+
+---
+
+## Bukti Percubaan Klinikal
+
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT03050307](https://clinicaltrials.gov/study/NCT03050307) | Phase 3 | Completed | 234 | TAK-438 (vonoprazan) 20mg vs lansoprazole 30mg in endoscopically confirmed gastric ulcer, non-inferiority design |
-| [NCT03050359](https://clinicaltrials.gov/study/NCT03050359) | Phase 3 | Completed | 533 | TAK-438 vs lansoprazole in endoscopically confirmed duodenal ulcer, with/without *H. pylori* infection |
-| [NCT06168084](https://clinicaltrials.gov/study/NCT06168084) | Phase 4 | Completed | 688 | Vonoprazan + amoxicillin dual therapy vs bismuth quadruple therapy for *H. pylori* rescue eradication |
-| [NCT03214081](https://clinicaltrials.gov/study/NCT03214081) | N/A | Completed | 1,237 | Post-marketing surveillance of long-term vonoprazan maintenance therapy for reflux esophagitis |
-| [NCT03214952](https://clinicaltrials.gov/study/NCT03214952) | N/A | Completed | 3,183 | Large drug-use surveillance covering gastric ulcer, duodenal ulcer, and reflux esophagitis in routine practice |
-| [NCT03214198](https://clinicaltrials.gov/study/NCT03214198) | N/A | Completed | 1,304 | Long-term surveillance for prevention of gastric/duodenal ulcer recurrence in NSAID users |
-| [NCT03214094](https://clinicaltrials.gov/study/NCT03214094) | N/A | Completed | 1,119 | Long-term surveillance for prevention of gastric/duodenal ulcer recurrence in low-dose aspirin users |
-| [NCT05719831](https://clinicaltrials.gov/study/NCT05719831) | Phase 3 | Completed | 516 | Multicenter RCT optimizing vonoprazan-amoxicillin dual therapy for *H. pylori* eradication |
-| [NCT06156085](https://clinicaltrials.gov/study/NCT06156085) | Phase 4 | Completed | 337 | Taiwan-based RCT: 14-day vonoprazan dual therapy vs extended sequential therapy as first-line *H. pylori* treatment |
-| [NCT05582174](https://clinicaltrials.gov/study/NCT05582174) | Phase 4 | Recruiting | 594 | IV high-dose PPI vs oral acid suppressants (including vonoprazan) after endoscopic hemostasis for bleeding peptic ulcers |
+| [NCT03050307](https://clinicaltrials.gov/study/NCT03050307) | Fasa 3 | Selesai | 234 | TAK-438 (vonoprazan) 20mg vs lansoprazole 30mg dalam ulser gastrik yang disahkan endoskopi, reka bentuk kesetaraan bukan-inferioriti |
+| [NCT03050359](https://clinicaltrials.gov/study/NCT03050359) | Fasa 3 | Selesai | 533 | TAK-438 vs lansoprazole dalam ulser duodenum yang disahkan endoskopi, dengan/tanpa jangkitan *H. pylori* |
+| [NCT06168084](https://clinicaltrials.gov/study/NCT06168084) | Fasa 4 | Selesai | 688 | Terapi dwi vonoprazan + amoksisilin vs terapi kuad bismut untuk penyelamat pembasmian *H. pylori* |
+| [NCT03214081](https://clinicaltrials.gov/study/NCT03214081) | N/A | Selesai | 1,237 | Pengawasan pasca-pemasaran terapi pemeliharaan vonoprazan jangka panjang untuk esofagitis refluks |
+| [NCT03214952](https://clinicaltrials.gov/study/NCT03214952) | N/A | Selesai | 3,183 | Pengawasan penggunaan ubat berskala besar yang meliputi ulser gastrik, ulser duodenum, dan esofagitis refluks dalam amalan rutin |
+| [NCT03214198](https://clinicaltrials.gov/study/NCT03214198) | N/A | Selesai | 1,304 | Pengawasan jangka panjang untuk pencegahan berulangnya ulser gastrik/duodenum pada pengguna NSAID |
+| [NCT03214094](https://clinicaltrials.gov/study/NCT03214094) | N/A | Selesai | 1,119 | Pengawasan jangka panjang untuk pencegahan berulangnya ulser gastrik/duodenum pada pengguna aspirin dos rendah |
+| [NCT05719831](https://clinicaltrials.gov/study/NCT05719831) | Fasa 3 | Selesai | 516 | Uji kaji RCT multipusat mengoptimalkan terapi dwi vonoprazan-amoksisilin untuk pembasmian *H. pylori* |
+| [NCT06156085](https://clinicaltrials.gov/study/NCT06156085) | Fasa 4 | Selesai | 337 | Uji kaji berasaskan Taiwan: terapi dwi vonoprazan 14 hari vs terapi berjujukan dilanjutkan sebagai rawatan baris pertama *H. pylori* |
+| [NCT05582174](https://clinicaltrials.gov/study/NCT05582174) | Fasa 4 | Merekrut | 594 | IV PPI dos tinggi vs penindas asid oral (termasuk vonoprazan) selepas hemostasis endoskopi untuk perdarahan ulser peptik |
 
-*18 additional trials are on file in the Evidence Pack but not shown here for brevity (e.g., NCT03908619, NCT05196945, NCT07068607, NCT07352098, bioequivalence and pregnancy-registry studies).*
+*18 percubaan tambahan ada dalam fail dalam Pakej Bukti tetapi tidak ditunjukkan di sini untuk kesederhanaan (cth., NCT03908619, NCT05196945, NCT07068607, NCT07352098, bioekeivalen dan kajian daftar kehamilan).*
 
 ---
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [33620586](https://pubmed.ncbi.nlm.nih.gov/33620586/) | 2021 | Guideline | Journal of Gastroenterology | JSGE evidence-based clinical practice guideline for peptic ulcer disease, covering *H. pylori* eradication and NSAID-induced ulcers |
-| [39294424](https://pubmed.ncbi.nlm.nih.gov/39294424/) | 2024 | Meta-analysis | Digestive Diseases and Sciences | Systematic review/meta-analysis of vonoprazan vs PPIs for treatment and prevention of gastric/duodenal ulcers |
-| [35899702](https://pubmed.ncbi.nlm.nih.gov/35899702/) | 2023 | Meta-analysis | Rev Esp Enferm Dig | Vonoprazan vs lansoprazole for ESD-induced gastric ulcer healing/shrinking rate |
-| [30210115](https://pubmed.ncbi.nlm.nih.gov/30210115/) | 2019 | RCT | Internal Medicine (Tokyo) | RCT: vonoprazan+rebamipide vs esomeprazole+rebamipide for post-ESD gastric ulcer healing |
-| [38491413](https://pubmed.ncbi.nlm.nih.gov/38491413/) | 2024 | Meta-analysis | BMC Gastroenterology | Updated meta-analysis of vonoprazan vs PPI for post-ESD gastric ulcer |
-| [29985791](https://pubmed.ncbi.nlm.nih.gov/29985791/) | 2018 | Meta-analysis | Eur J Gastroenterol Hepatol | Vonoprazan vs PPI for ESD-induced ulcer healing |
-| [30167955](https://pubmed.ncbi.nlm.nih.gov/30167955/) | 2019 | Network Meta-analysis | Surgical Endoscopy | Comparative efficacy of anti-ulcer medications after gastric ESD |
-| [39156336](https://pubmed.ncbi.nlm.nih.gov/39156336/) | 2024 | Review | Cureus | Comprehensive review of vonoprazan efficacy and safety across gastric acid-related diseases (GERD, PUD, *H. pylori*) |
-| [38388872](https://pubmed.ncbi.nlm.nih.gov/38388872/) | 2024 | Review | Drugs | Vonoprazan review focused on *H. pylori* eradication |
-| [41415806](https://pubmed.ncbi.nlm.nih.gov/41415806/) | 2025 | Review | Frontiers in Microbiology | Therapeutic advances in *H. pylori* eradication, including P-CAB-based regimens |
+| [33620586](https://pubmed.ncbi.nlm.nih.gov/33620586/) | 2021 | Garis Panduan | Journal of Gastroenterology | Garis panduan amalan klinikal berasaskan bukti JSGE untuk penyakit ulser peptik, meliputi pembasmian *H. pylori* dan ulser teraruh NSAID |
+| [39294424](https://pubmed.ncbi.nlm.nih.gov/39294424/) | 2024 | Meta-analisis | Digestive Diseases and Sciences | Tinjauan sistematik/meta-analisis vonoprazan vs PPI untuk rawatan dan pencegahan ulser gastrik/duodenum |
+| [35899702](https://pubmed.ncbi.nlm.nih.gov/35899702/) | 2023 | Meta-analisis | Rev Esp Enferm Dig | Vonoprazan vs lansoprazole untuk kadar penyembuhan/pengecilan ulser gastrik teraruh ESD |
+| [30210115](https://pubmed.ncbi.nlm.nih.gov/30210115/) | 2019 | RCT | Internal Medicine (Tokyo) | RCT: vonoprazan+rebamipida vs esomeprazole+rebamipida untuk penyembuhan ulser gastrik pasca-ESD |
+| [38491413](https://pubmed.ncbi.nlm.nih.gov/38491413/) | 2024 | Meta-analisis | BMC Gastroenterology | Meta-analisis terkini vonoprazan vs PPI untuk ulser gastrik pasca-ESD |
+| [29985791](https://pubmed.ncbi.nlm.nih.gov/29985791/) | 2018 | Meta-analisis | Eur J Gastroenterol Hepatol | Vonoprazan vs PPI untuk penyembuhan ulser teraruh ESD |
+| [30167955](https://pubmed.ncbi.nlm.nih.gov/30167955/) | 2019 | Meta-analisis Rangkaian | Surgical Endoscopy | Keberkesanan perbandingan ubat anti-ulser selepas ESD gastrik |
+| [39156336](https://pubmed.ncbi.nlm.nih.gov/39156336/) | 2024 | Ulasan | Cureus | Ulasan komprehensif keberkesanan dan keselamatan vonoprazan merentasi penyakit berkaitan asid gastrik (GERD, PUD, *H. pylori*) |
+| [38388872](https://pubmed.ncbi.nlm.nih.gov/38388872/) | 2024 | Ulasan | Drugs | Ulasan vonoprazan tertumpu pada pembasmian *H. pylori* |
+| [41415806](https://pubmed.ncbi.nlm.nih.gov/41415806/) | 2025 | Ulasan | Frontiers in Microbiology | Kemajuan terapeutik dalam pembasmian *H. pylori*, termasuk rejimen berasaskan P-CAB |
 
-*10 additional publications are on file (e.g., 36660052, 40923937, 38916840, 38767885, 39507107, 38483115, 39412166, 40062336, 29282636).*
-
----
-
-## Malaysia Market Information
-
-Market status confirms the product is marketed (✓ Marketed) with **4 registered authorizations**. However, detailed license fields (authorization number, product name, dosage form, approved indication text) are currently blank in the source dataset and cannot be reported. This is a data gap that also blocks confirmation of whether "gastric ulcer" is already within the locally approved label.
+*10 penerbitan tambahan ada dalam fail (cth., 36660052, 40923937, 38916840, 38767885, 39507107, 38483115, 39412166, 40062336, 29282636).*
 
 ---
 
-## Safety Considerations
+## Maklumat Pasaran Malaysia
 
-Please refer to the package insert for safety information.
-
-*(Key warnings, contraindications, and DDI data are all flagged as Data Gaps or not found in the current Evidence Pack — see DG001 below.)*
+Status pasaran mengesahkan bahawa produk tersebut dipasarkan (✓ Dipasarkan) dengan **4 kebenaran pendaftaran**. Walau bagaimanapun, medan lesen terperinci (nombor kebenaran, nama produk, bentuk dos, teks indikasi yang diluluskan) kini kosong dalam dataset sumber dan tidak dapat dilaporkan. Ini ialah jurang data yang juga menghalang pengesahan sama ada "ulser gastrik" sudah pun berada dalam label yang diluluskan secara setempat.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Proceed with Guardrails**
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-**Rationale:**
-The gastric ulcer prediction is backed by L1-level evidence — two completed Phase 3 RCTs (NCT03050307, NCT03050359) plus multiple large post-marketing surveillance studies and meta-analyses — and is mechanistically direct rather than a stretch inference, since acid suppression is the core action required for ulcer healing. However, a **Blocking** data gap (DG001: missing TFDA/local warnings and contraindications) prevents completion of the mandatory S1 safety pre-screen, so this cannot yet advance to unconditional "Go."
+*(Data amaran utama, kontraindikasi, dan DDI semuanya ditandakan sebagai Jurang Data atau tidak ditemui dalam Pakej Bukti semasa — lihat DG001 di bawah.)*
 
-**To proceed, the following is needed:**
-- TFDA/local package insert — warnings and contraindications (DG001, Blocking) — required before S1 safety pre-screen can be completed
-- DrugBank-sourced mechanism-of-action confirmation (DG002, High)
-- Complete license-level indication text to verify whether gastric ulcer is already within the currently approved local label (avoids treating an existing indication as "new")
-- Drug-drug interaction data (current query status: not found)
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Teruskan dengan Penjaga**
+
+**Rasional:**
+Ramalan ulser gastrik disokong oleh bukti tahap L1 — dua RCT Fasa 3 yang telah selesai (NCT03050307, NCT03050359) ditambah beberapa kajian pengawasan pasca-pemasaran berskala besar dan meta-analisis — dan merupakan langsung mekanistik daripada inferens regangan, kerana penindasan asid ialah tindakan teras yang diperlukan untuk penyembuhan ulser. Walau bagaimanapun, **jurang data Pemblokiran** (DG001: amaran dan kontraindikasi TFDA/setempat yang hilang) menghalang penyiapan pra-skrin keselamatan S1 yang wajib, jadi ini belum lagi boleh maju ke "Go" tanpa syarat.
+
+**Untuk terus, yang berikut diperlukan:**
+- Sisipan pakej TFDA/setempat — amaran dan kontraindikasi (DG001, Pemblokiran) — diperlukan sebelum pra-skrin keselamatan S1 dapat diselesaikan
+- Pengesahan mekanisme-tindakan bersumber DrugBank (DG002, Tinggi)
+- Teks indikasi tahap lesen lengkap untuk mengesahkan sama ada ulser gastrik sudah pun berada dalam label yang diluluskan secara setempat kini (mengelak memperlakukan indikasi sedia ada sebagai "baru")
+- Data interaksi ubat-ubat (status pertanyaan semasa: tidak ditemui)
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,105 +29,106 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# ALANINE: From Amino Acid Supplement to Gastroparesis
+# ALANINE: Daripada Suplemen Asid Amino kepada Gastroparesis
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Alanine (DB00160) is a non-essential amino acid involved in gluconeogenesis and energy metabolism, commonly used as a nutritional supplement component rather than a standalone therapeutic agent.
-The TxGNN model predicts it may have relevance for **Gastroparesis**, with **9 clinical trials** and **3 publications** identified — however, none of the clinical trials directly investigate Alanine as an intervention for this condition.
-The overall evidence base for this repurposing direction remains at a preliminary stage, warranting a **Hold** decision pending mechanistic clarification.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Not established (amino acid nutritional component; no approved therapeutic indication on record) |
-| Predicted New Indication | Gastroparesis |
-| TxGNN Prediction Score | 99.37% |
-| Evidence Level | L5 — Model prediction only; no studies directly investigating Alanine in gastroparesis |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 36 |
-| Recommended Decision | Hold |
+Alanine (DB00160) ialah asid amino bukan penting yang terlibat dalam glukoneogenesis dan metabolisme energi, biasanya digunakan sebagai komponen suplemen nutrisi daripada agen terapeutik tunggal.
+Model TxGNN meramalkan ia mungkin mempunyai kaitan untuk **Gastroparesis**, dengan **9 uji klinis** dan **3 penerbitan** dikenalpasti — namun, tiada satu pun uji klinis langsung menyiasat Alanine sebagai intervensi untuk keadaan ini.
+Pangkalan bukti keseluruhan untuk arah penggandaan ubat ini tetap berada di peringkat awal, memerlukan keputusan **Hold** sambil menanti penjelasan mekanistik.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Pantas
 
-Currently, detailed mechanism of action data is not available for Alanine in this context. Based on known biochemistry, Alanine is a non-essential amino acid that plays a central role in the **Glucose-Alanine Cycle** — a metabolic shuttle between muscle and liver that maintains glucose homeostasis during fasting or physiological stress. It also participates in transamination reactions and serves as a gluconeogenic precursor.
-
-The theoretical link to gastroparesis is indirect. Delayed gastric emptying involves dysfunction of autonomic innervation of the enteric nervous system, interstitial cells of Cajal, and enteroendocrine signalling (e.g., GLP-1, motilin). Amino acids including alanine are known to stimulate enteroendocrine cells in the gut and may influence gastric motility through nutrient-sensing mechanisms. There is also a metabolic rationale in diabetic gastroparesis, where impaired gluconeogenesis and autonomic neuropathy coexist — conditions where alanine metabolism is relevant.
-
-However, these mechanistic links remain at the level of **biological plausibility**, not established pharmacology. No direct preclinical or clinical data supports Alanine as a gastroparesis therapeutic. The TxGNN high-confidence prediction (99.37%) likely reflects network proximity in the knowledge graph rather than a validated therapeutic relationship. Until mechanistic and in vivo data are available, this prediction should be treated as hypothesis-generating only.
-
----
-
-## Clinical Trial Evidence
-
-All 9 trials identified study **other drugs** in gastroparesis; none involve Alanine as a primary intervention. They are listed here as contextual evidence of the therapeutic landscape.
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|-------------|-------|--------|------------|--------------|
-| [NCT03587142](https://clinicaltrials.gov/study/NCT03587142) | Phase 2 | Completed | 96 | Buspirone (anxiolytic) vs. placebo for early satiety and gastroparesis symptoms — not Alanine |
-| [NCT03941288](https://clinicaltrials.gov/study/NCT03941288) | Phase 2 | Completed | 92 | Cannabidiol (CBD) effects on gastric function in gastroparesis and functional dyspepsia — not Alanine |
-| [NCT07270939](https://clinicaltrials.gov/study/NCT07270939) | Not Applicable | Not Yet Recruiting | 150 | Comparative study of 18h, 20h, and 24h enteral feeding cycles in critically ill ICU patients; Alanine may appear as a formula component but is not the focus |
-| [NCT01934192](https://clinicaltrials.gov/study/NCT01934192) | Phase 2 | Terminated | 91 | GSK962040 (motilin receptor agonist) for enteral nutrition adequacy in critical illness — terminated early |
-| [NCT01262898](https://clinicaltrials.gov/study/NCT01262898) | Phase 2 | Completed | 79 | Oral motilin receptor agonist GSK962040 in diabetic gastroparesis (Types I and II) — not Alanine |
-| [NCT01149369](https://clinicaltrials.gov/study/NCT01149369) | Phase 2 | Completed | 126 | Aprepitant (NK1 antagonist) for chronic nausea and vomiting of gastric origin — not Alanine |
-| [NCT01602549](https://clinicaltrials.gov/study/NCT01602549) | Phase 2 | Completed | 58 | Motilin receptor agonist effects on L-DOPA pharmacokinetics in Parkinson's patients with delayed gastric emptying — not Alanine |
-| [NCT06452966](https://clinicaltrials.gov/study/NCT06452966) | Not Applicable | Recruiting | 350 | Traditional Chinese medicine interventions for organ failure in ICU patients — multi-component intervention, no relation to Alanine |
-| [NCT02793154](https://clinicaltrials.gov/study/NCT02793154) | Phase 4 | Terminated | 4 | Albiglutide vs. exenatide on gastric motility in Type 2 diabetes — terminated very early (n=4 only), no usable conclusions |
-
-> ⚠️ **Important Note:** None of the above trials test Alanine as a therapeutic agent. All are graded Relevance C. The trials confirm that gastroparesis is an active area of clinical research with significant unmet need, but they provide no direct evidence for Alanine repurposing.
+| Item | Kandungan |
+|------|-----------|
+| Indikasi Asal | Tidak ditetapkan (komponen nutrisi asid amino; tiada indikasi terapeutik diluluskan dalam rekod) |
+| Indikasi Baru yang Diramalkan | Gastroparesis |
+| Skor Ramalan TxGNN | 99.37% |
+| Tahap Bukti | L5 — Ramalan model sahaja; tiada kajian langsung menyiasat Alanine dalam gastroparesis |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 36 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|--------------|
-| [10926110](https://pubmed.ncbi.nlm.nih.gov/10926110/) | 2000 | Review | Advances in Renal Replacement Therapy | Reviews GI and hepatic disorders in end-stage renal disease; notes gastroparesis is more prevalent in chronic renal failure — contextual background only, not about Alanine |
-| [26315331](https://pubmed.ncbi.nlm.nih.gov/26315331/) | 2016 | Case Series / Observational | Diabetic Medicine | Describes diabetic hepatosclerosis as a microvascular complication; gastroparesis mentioned as a co-morbidity — tangential reference |
-| [33763324](https://pubmed.ncbi.nlm.nih.gov/33763324/) | 2021 | Case Report | Cureus | Case of glycogen hepatopathy in Type 1 diabetes with gastroparesis as a complication — Alanine not discussed |
+Pada masa ini, data mekanisme tindakan yang terperinci tidak tersedia untuk Alanine dalam konteks ini. Berdasarkan biokimia yang diketahui, Alanine ialah asid amino bukan penting yang memainkan peranan pusat dalam **Kitaran Glukosa-Alanin** — alur pengangkutan metabolik antara otot dan hati yang mengekalkan homeostasis glukosa semasa puasa atau tekanan fisiologi. Ia juga turut serta dalam tindak balas transaminasi dan berfungsi sebagai pendahulu glukoneogenik.
 
-> ⚠️ **Important Note:** None of the 3 publications directly investigate Alanine in gastroparesis. All are tier-3 evidence (reviews or case reports) with only tangential relevance. No RCTs, meta-analyses, or mechanistic studies linking Alanine to gastroparesis were identified.
+Pautan teoritikal kepada gastroparesis adalah tidak langsung. Pengosongan lambung tertunda melibatkan disfungsi persarafan autonomi sistem saraf entrik, sel interstitial Cajal, dan sinyal enteroendokrin (cth., GLP-1, motilin). Asid amino termasuk alanine diketahui merangsang sel enteroendokrin dalam usus dan mungkin mempengaruhi motilitas lambung melalui mekanisme penginderaan nutrien. Terdapat juga alasan metabolik dalam gastroparesis diabetik, di mana glukoneogenesis yang terganggu dan neuropati autonomi wujud bersama — keadaan di mana metabolisme alanine relevan.
+
+Walau bagaimanapun, pautan mekanistik ini tetap berada pada tahap **kepercayaan biologis**, bukan farmakologi yang ditubuhkan. Tiada data preklinik atau klinis langsung menyokong Alanine sebagai terapeutik gastroparesis. Ramalan keyakinan TxGNN yang tinggi (99.37%) mungkin mencerminkan kedekatan rangkaian dalam grafik pengetahuan daripada hubungan terapeutik yang disahkan. Sehingga data mekanistik dan in vivo tersedia, ramalan ini harus dianggap sebagai pembangkit hipotesis sahaja.
 
 ---
 
-## Malaysia Market Information
+## Bukti Uji Klinis
 
-While 36 product registrations are recorded for Alanine in Malaysia (NPRA), the detailed product-level information (authorization numbers, product names, dosage forms, and approved indications) was not retrieved in the current data pack. Please refer to the NPRA official database for complete registration details.
+Kesemua 9 uji klinis yang dikenalpasti mengkaji **ubat-ubatan lain** dalam gastroparesis; tiada satu pun melibatkan Alanine sebagai intervensi utama. Ia disenaraikan di sini sebagai bukti kontekstual landskap terapeutik.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------------------|-------------|-------------|---------------------|
+| Nombor Uji | Fasa | Status | Pendaftaran | Penemuan Utama |
+|------------|------|--------|------------|-----------------|
+| [NCT03587142](https://clinicaltrials.gov/study/NCT03587142) | Fasa 2 | Selesai | 96 | Buspirone (anxiolytic) vs. plasebo untuk awal kepuasan dan gejala gastroparesis — bukan Alanine |
+| [NCT03941288](https://clinicaltrials.gov/study/NCT03941288) | Fasa 2 | Selesai | 92 | Kesan cannabidiol (CBD) pada fungsi lambung dalam gastroparesis dan dispepsia fungsional — bukan Alanine |
+| [NCT07270939](https://clinicaltrials.gov/study/NCT07270939) | Tidak Berkenaan | Belum Merekrut | 150 | Kajian perbandingan kitaran pemberian nutrien enteral 18 jam, 20 jam, dan 24 jam pada pesakit kritikal ICU; Alanine mungkin muncul sebagai komponen formula tetapi bukan fokus |
+| [NCT01934192](https://clinicaltrials.gov/study/NCT01934192) | Fasa 2 | Ditamatkan | 91 | GSK962040 (agonis reseptor motilin) untuk kecukupan nutrien enteral dalam penyakit kritikal — ditamatkan awal |
+| [NCT01262898](https://clinicaltrials.gov/study/NCT01262898) | Fasa 2 | Selesai | 79 | Agonis reseptor motilin lisan GSK962040 dalam gastroparesis diabetik (Jenis I dan II) — bukan Alanine |
+| [NCT01149369](https://clinicaltrials.gov/study/NCT01149369) | Fasa 2 | Selesai | 126 | Aprepitant (antagonis NK1) untuk mual kronis dan muntah asal gastrik — bukan Alanine |
+| [NCT01602549](https://clinicaltrials.gov/study/NCT01602549) | Fasa 2 | Selesai | 58 | Kesan agonis reseptor motilin pada farmakokinetik L-DOPA dalam pesakit Parkinson dengan pengosongan lambung tertunda — bukan Alanine |
+| [NCT06452966](https://clinicaltrials.gov/study/NCT06452966) | Tidak Berkenaan | Merekrut | 350 | Intervensi ubat tradisional Cina untuk kegagalan organ pada pesakit ICU — intervensi pelbagai komponen, tiada kaitan dengan Alanine |
+| [NCT02793154](https://clinicaltrials.gov/study/NCT02793154) | Fasa 4 | Ditamatkan | 4 | Albiglutide vs. exenatide pada motilitas lambung dalam diabetes Jenis 2 — ditamatkan sangat awal (n=4 sahaja), tiada kesimpulan yang boleh digunakan |
+
+> ⚠️ **Nota Penting:** Tiada satu pun uji klinis di atas menguji Alanine sebagai agen terapeutik. Semua dinilai Relevansi C. Uji klinis mengesahkan bahawa gastroparesis adalah kawasan aktif penyelidikan klinis dengan kebutuhan yang belum terpenuhi yang ketara, tetapi ia tidak memberikan bukti langsung untuk penggandaan ubat Alanine.
+
+---
+
+## Bukti Literatur
+
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|------|------|--------|-----------------|
+| [10926110](https://pubmed.ncbi.nlm.nih.gov/10926110/) | 2000 | Ulasan | Advances in Renal Replacement Therapy | Mengulas gangguan GI dan hepatik dalam penyakit ginjal tahap akhir; mencatat gastroparesis lebih kerap dalam kegagalan ginjal kronik — latar belakang kontekstual sahaja, bukan tentang Alanine |
+| [26315331](https://pubmed.ncbi.nlm.nih.gov/26315331/) | 2016 | Siri Kes / Pemerhatian | Diabetic Medicine | Menerangkan hepatosklerosis diabetik sebagai komplikasi mikrovaskular; gastroparesis disebut sebagai komorbiditi — rujukan bersampingan |
+| [33763324](https://pubmed.ncbi.nlm.nih.gov/33763324/) | 2021 | Laporan Kes | Cureus | Kes hepatopatologi glikogen dalam diabetes Jenis 1 dengan gastroparesis sebagai komplikasi — Alanine tidak dibincangkan |
+
+> ⚠️ **Nota Penting:** Tiada satu pun daripada 3 penerbitan langsung menyiasat Alanine dalam gastroparesis. Semua adalah bukti peringkat-3 (ulasan atau laporan kes) dengan relevansi bersampingan sahaja. Tiada RCT, meta-analisis, atau kajian mekanistik menghubungkan Alanine kepada gastroparesis telah dikenalpasti.
+
+---
+
+## Maklumat Pasaran Malaysia
+
+Walaupun 36 pendaftaran produk dicatat untuk Alanine di Malaysia (NPRA), maklumat aras produk yang terperinci (nombor kelulusan, nama produk, bentuk dos, dan indikasi yang diluluskan) tidak diambil dalam pakej data semasa. Sila rujuk pangkalan data rasmi NPRA untuk butiran pendaftaran lengkap.
+
+| Nombor Kelulusan | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
+|------------------|------------|-----------|------------------------|
 | — | — | — | — |
 
-> 36 registrations confirmed via NPRA query (2026-03-27). Product details pending retrieval.
+> 36 pendaftaran disahkan melalui pertanyaan NPRA (2026-03-27). Butiran produk menunggu pengambilan.
 
 ---
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information. No key warnings, contraindications, or drug interaction data were available in this evidence pack.
+Sila rujuk risalah pengguna untuk maklumat keselamatan. Tiada data peringatan utama, kontraindikasi, atau interaksi ubat yang tersedia dalam pakej bukti ini.
 
 ---
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Hold**
 
-**Rationale:**
-The TxGNN model assigns a high prediction score (99.37%) to Alanine for gastroparesis, but this confidence is not supported by any direct clinical or preclinical evidence — all 9 identified trials involve other drugs, and the 3 literature references are tangential. The mechanistic hypothesis (enteroendocrine signalling, Glucose-Alanine Cycle) is biologically plausible but entirely speculative at this stage (Evidence Level L5). Additionally, Alanine lacks an established approved therapeutic indication, making repurposing context-setting particularly difficult.
+**Alasan:**
+Model TxGNN memberikan skor ramalan tinggi (99.37%) kepada Alanine untuk gastroparesis, tetapi keyakinan ini tidak disokong oleh mana-mana bukti klinis atau preklinik langsung — kesemua 9 uji yang dikenalpasti melibatkan ubat lain, dan 3 rujukan literatur adalah bersampingan. Hipotesis mekanistik (sinyal enteroendokrin, Kitaran Glukosa-Alanin) adalah biologi munasabah tetapi sepenuhnya spekulatif pada peringkat ini (Tahap Bukti L5). Tambahan pula, Alanine tidak mempunyai indikasi terapeutik yang ditetapkan, menjadikan penetapan konteks penggandaan ubat amat sukar.
 
-**To proceed, the following is needed:**
+**Untuk meneruskan, yang berikut diperlukan:**
 
-- **Mechanism of Action data**: Confirm whether Alanine has any documented direct or indirect effects on gastric motility, enteroendocrine signalling (GLP-1, motilin, ghrelin), or the enteric nervous system
-- **Preclinical evidence**: In vitro or animal model studies demonstrating Alanine's effect on gastric emptying are prerequisite before any clinical hypothesis can be formed
-- **NPRA package insert review**: Download and parse product insert PDFs to identify any existing safety warnings and contraindications (currently a Blocking data gap)
-- **DrugBank MOA retrieval**: Query DrugBank API for DB00160 to populate pharmacological classification and mechanism detail (currently a High-severity data gap)
-- **Dose and formulation assessment**: Determine what dose, route, and formulation would be pharmacologically relevant for a gastroparesis indication, distinct from its nutritional use
-- **Patient population definition**: Clarify whether the target population is diabetic gastroparesis, post-surgical gastroparesis, or idiopathic — as mechanistic relevance may differ
+- **Data mekanisme tindakan**: Sahkan sama ada Alanine mempunyai kesan langsung atau tidak langsung yang didokumenkan pada motilitas lambung, sinyal enteroendokrin (GLP-1, motilin, ghrelin), atau sistem saraf entrik
+- **Bukti preklinik**: Kajian in vitro atau model haiwan yang menunjukkan kesan Alanine pada pengosongan lambung adalah prasyarat sebelum sebarang hipotesis klinis dapat dibentuk
+- **Semakan risalah pengguna NPRA**: Muat turun dan huraikan PDF risalah pengguna produk untuk mengenal pasti sebarang amaran keselamatan dan kontraindikasi sedia ada (kini jurang data memblokir)
+- **Pengambilan MOA DrugBank**: Pertanyaan API DrugBank untuk DB00160 untuk melengkapkan pengelasan farmakologi dan butiran mekanisme (kini jurang data keterukan tinggi)
+- **Penilaian dos dan formulasi**: Tentukan dos, rute, dan formulasi apa yang relevan secara farmakologi untuk indikasi gastroparesis, berbeza daripada penggunaannya sebagai nutrisi
+- **Takrifan populasi pesakit**: Jelaskan sama ada populasi sasaran ialah gastroparesis diabetik, gastroparesis pasca-pembedahan, atau idiopatik — kerana relevansi mekanistik mungkin berbeza
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

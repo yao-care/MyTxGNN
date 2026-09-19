@@ -29,128 +29,129 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Benralizumab: From Severe Eosinophilic Asthma to Dermatitis
+# Benralizumab: Daripada Asma Eosinofilik Teruk kepada Dermatitis
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Benralizumab is an anti-IL-5 receptor alpha (IL-5Rα) monoclonal antibody, originally approved for the add-on maintenance treatment of severe eosinophilic asthma. The TxGNN model predicts it may be effective for **Dermatitis** (ranked 2nd among 5 predicted indications), with **6 clinical trials** and **20 publications** available — however, the pivotal Phase 2 HILLIER trial demonstrated a **lack of clinical effect**, making this a cautionary example of model prediction contradicted by clinical evidence.
+Benralizumab ialah antibodi monoklonal anti-IL-5Rα yang asalnya diluluskan untuk rawatan penyelenggaraan tambahan bagi asma eosinofilik teruk. Model TxGNN meramalkan ia mungkin berkesan untuk **Dermatitis** (berpangkat ke-2 daripada 5 ramalan), dengan **6 percubaan klinikal** dan **20 penerbitan** tersedia — bagaimanapun, percubaan HILLIER Fasa 2 yang utama menunjukkan **kekurangan kesan klinikal**, menjadikan ini contoh berhati-hati bagi ramalan model yang bertentangan dengan bukti klinikal.
 
 ---
 
-## Quick Overview
+## Gambaran Pantas
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Severe eosinophilic asthma (add-on maintenance treatment) |
-| Predicted New Indication | Dermatitis (Rank 2); Thrombocytopenia due to immune destruction (Rank 1) |
-| TxGNN Prediction Score (Rank 1) | 99.34% (thrombocytopenia — no supporting evidence) |
-| TxGNN Prediction Score (Rank 2) | 99.16% (dermatitis — negative Phase 2 RCT) |
-| Evidence Level | **L2** (dermatitis: 1 completed Phase 2 RCT); **L5** (all other indications) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | **Hold** — Primary Phase 2 RCT produced definitive negative results |
+| Petunjuk Asal | Asma eosinofilik teruk (rawatan penyelenggaraan tambahan) |
+| Petunjuk Ramalan Baru | Dermatitis (Pangkat 2); Trombositopenia disebabkan oleh kemusnahan imun (Pangkat 1) |
+| Skor Ramalan TxGNN (Pangkat 1) | 99.34% (trombositopenia — tiada bukti sokongan) |
+| Skor Ramalan TxGNN (Pangkat 2) | 99.16% (dermatitis — RCT Fasa 2 negatif) |
+| Tahap Bukti | **L2** (dermatitis: 1 RCT Fasa 2 selesai); **L5** (semua petunjuk lain) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Cadangan Keputusan | **Tahan** — RCT Fasa 2 utama menghasilkan keputusan negatif yang pasti |
 
 ---
 
-## All Predicted Indications Overview
+## Gambaran Keseluruhan Semua Petunjuk Ramalan
 
-| Rank | Predicted Indication | TxGNN Score | Evidence Level | Recommendation |
+| Pangkat | Petunjuk Ramalan | Skor TxGNN | Tahap Bukti | Cadangan |
 |------|---------------------|-------------|---------------|---------------|
-| 1 | Thrombocytopenia due to immune destruction | 99.34% | L5 | Hold |
-| 2 | Dermatitis | 99.16% | L2 | Hold (negative RCT) |
-| 3 | Acne keloid | 99.13% | L5 | Hold |
-| 4 | Neonatal dermatomyositis | 99.05% | L5 | Hold |
-| 5 | Amyopathic dermatomyositis | 99.03% | L5 | Hold |
+| 1 | Trombositopenia disebabkan oleh kemusnahan imun | 99.34% | L5 | Tahan |
+| 2 | Dermatitis | 99.16% | L2 | Tahan (RCT negatif) |
+| 3 | Acne keloid | 99.13% | L5 | Tahan |
+| 4 | Dermatomyositis neonatal | 99.05% | L5 | Tahan |
+| 5 | Dermatomyositis amyopatik | 99.03% | L5 | Tahan |
 
-> **Note:** Among the 5 TxGNN predictions, only **dermatitis** (Rank 2) has any clinical or literature evidence. The remaining 4 predictions rely solely on the model with zero supporting studies. This report focuses on dermatitis as the most informative indication for evaluation.
-
----
-
-## Why is This Prediction Reasonable?
-
-Benralizumab is a humanised anti-IL-5Rα monoclonal antibody that depletes eosinophils and basophils through antibody-dependent cell-mediated cytotoxicity (ADCC). It was originally developed and approved for severe eosinophilic asthma, where eosinophil-driven inflammation plays a central pathogenic role. The TxGNN model assigned high scores to multiple immune-mediated conditions, likely reflecting the graph proximity between eosinophil-related disease nodes in the knowledge graph.
-
-For **dermatitis** (specifically atopic dermatitis, AD), the mechanistic rationale is moderate but ultimately insufficient. Eosinophils are indeed present in AD skin lesions, and benralizumab has been shown to effectively deplete IL-5Rα-bearing cells in the skin of AD patients (PMID 40781582). However, the core driver of AD is the Th2-polarised IL-4/IL-13 axis, which leads to epidermal barrier disruption and the itch-scratch cycle. Eosinophil depletion alone does not interrupt this central pathogenic loop — a conclusion confirmed by the HILLIER trial's negative results.
-
-For **thrombocytopenia due to immune destruction** (Rank 1, highest TxGNN score), the mechanistic link is weak. ITP is driven by anti-platelet autoantibodies (anti-GPIIb/IIIa, anti-GPIb/IX) and T-cell-mediated platelet destruction. Eosinophils are not key players in ITP pathogenesis. The high TxGNN score likely reflects proximity of immune disease nodes in the knowledge graph rather than genuine therapeutic potential. The remaining predictions (acne keloid, neonatal dermatomyositis, amyopathic dermatomyositis) share similarly weak mechanistic rationales — the pathogenic drivers (fibroblast activation/TGF-β for keloids; type I interferon/complement for dermatomyositis) are unrelated to eosinophil biology.
+> **Nota:** Daripada 5 ramalan TxGNN, hanya **dermatitis** (Pangkat 2) mempunyai bukti klinikal atau kesusasteraan. 4 ramalan yang tinggal bergantung semata-mata pada model tanpa kajian sokongan. Laporan ini memfokus pada dermatitis sebagai petunjuk paling bermaklumat untuk penilaian.
 
 ---
 
-## Clinical Trial Evidence (Dermatitis)
+## Mengapa Ramalan Ini Munasabah?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Benralizumab ialah antibodi monoklonal anti-IL-5Rα yang dimanusiakan yang menghapuskan eosinofil dan sel bakul melalui sitotoksisitas dimediasi sel bergantung pada antibodi (ADCC). Ia asalnya dibangunkan dan diluluskan untuk asma eosinofilik teruk, di mana inflamasi didorong oleh eosinofil memainkan peranan patogenik pusat. Model TxGNN memberikan skor tinggi kepada pelbagai keadaan dimediasi imun, kemungkinan mencerminkan kedekatan graf antara nod penyakit berkaitan eosinofil dalam graf pengetahuan.
+
+Untuk **dermatitis** (khususnya dermatitis atopik, AD), alasan mekanik adalah sederhana tetapi akhirnya tidak mencukupi. Eosinofil memang terdapat dalam lesi kulit AD, dan benralizumab telah terbukti berkesan menghapuskan sel pembawa IL-5Rα dalam kulit pesakit AD (PMID 40781582). Bagaimanapun, pemacu teras AD ialah paksi Th2-terpolarisasi IL-4/IL-13, yang membawa kepada gangguan halangan epidermal dan kitaran gatal-calar. Penyingkiran eosinofil sahaja tidak mengganggu gelung patogenik pusat ini — kesimpulan yang disahkan oleh keputusan negatif percubaan HILLIER.
+
+Untuk **trombositopenia disebabkan oleh kemusnahan imun** (Pangkat 1, skor TxGNN tertinggi), pautan mekanik adalah lemah. ITP didorong oleh autoantibodi anti-platelet (anti-GPIIb/IIIa, anti-GPIb/IX) dan kemusnahan platelet dimediasi sel T. Eosinofil bukan pemain utama dalam patogenesis ITP. Skor TxGNN yang tinggi kemungkinan mencerminkan kedekatan nod penyakit imun dalam graf pengetahuan dan bukannya potensi terapeutik tulin. Ramalan yang tinggal (acne keloid, dermatomyositis neonatal, dermatomyositis amyopatik) berkongsi alasan mekanik yang sama lemah — pemacu patogenik (pengaktifan fibroblast/TGF-β untuk keloid; interferon jenis I/komplemen untuk dermatomyositis) tidak berkaitan dengan biologi eosinofil.
+
+---
+
+## Bukti Percubaan Klinikal (Dermatitis)
+
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT04605094](https://clinicaltrials.gov/study/NCT04605094) | Phase 2 | **Terminated** | 194 | **HILLIER Study**: Multinational, randomised, double-blind, placebo-controlled trial in moderate-to-severe AD. **Terminated due to lack of efficacy.** Published results (PMID 37178404) explicitly report "Lack of effect" of benralizumab on signs and symptoms of AD. |
-| [NCT03563066](https://clinicaltrials.gov/study/NCT03563066) | Phase 2 | Completed | 20 | Mechanistic study: Benralizumab successfully depleted IL-5Rα-bearing cells (eosinophils, basophils, ILC2s) in AD skin lesions, but this biological effect **did not translate into clinical improvement**. |
-| [NCT06734884](https://clinicaltrials.gov/study/NCT06734884) | Phase 2 | Not yet recruiting | 96 | Targets DRESS (Drug Reaction with Eosinophilia and Systemic Symptoms), a distinct entity from typical AD. Eosinophils play a more prominent role in DRESS. Worth monitoring but not directly applicable to AD. |
-| [NCT06477653](https://clinicaltrials.gov/study/NCT06477653) | Phase 2 | Recruiting | 30 | Studies **dupilumab** (not benralizumab) as add-on for HES. Indirect relevance only. |
-| [NCT04126499](https://clinicaltrials.gov/study/NCT04126499) | N/A | Completed | 28 | Observational retrospective study of benralizumab in severe eosinophilic asthma patients in Spain. Not designed for dermatitis evaluation. |
-| [NCT04763447](https://clinicaltrials.gov/study/NCT04763447) | Phase 4 | Recruiting | 234 | Studies **omalizumab** withdrawal in asthma. No direct relevance to benralizumab or dermatitis. |
+| [NCT04605094](https://clinicaltrials.gov/study/NCT04605094) | Fasa 2 | **Ditamatkan** | 194 | **Kajian HILLIER**: Percubaan multinasional, rawak, buta ganda, terkawal plasebo dalam AD sederhana hingga teruk. **Ditamatkan disebabkan kekurangan keberkesanan.** Keputusan yang diterbitkan (PMID 37178404) secara eksplisit melaporkan "Kekurangan kesan" benralizumab pada tanda dan gejala AD. |
+| [NCT03563066](https://clinicaltrials.gov/study/NCT03563066) | Fasa 2 | Selesai | 20 | Kajian mekanik: Benralizumab berjaya menghapuskan sel pembawa IL-5Rα (eosinofil, sel bakul, ILC2s) dalam lesi kulit AD, tetapi kesan biologi ini **tidak diterjemahkan ke dalam peningkatan klinikal**. |
+| [NCT06734884](https://clinicaltrials.gov/study/NCT06734884) | Fasa 2 | Belum lagi merekrut | 96 | Sasaran DRESS (Drug Reaction with Eosinophilia and Systemic Symptoms), entiti yang berbeza daripada AD biasa. Eosinofil memainkan peranan yang lebih menonjol dalam DRESS. Patut dipantau tetapi tidak secara langsung terpakai pada AD. |
+| [NCT06477653](https://clinicaltrials.gov/study/NCT06477653) | Fasa 2 | Merekrut | 30 | Mengkaji **dupilumab** (bukan benralizumab) sebagai tambahan untuk HES. Kaitan tidak langsung sahaja. |
+| [NCT04126499](https://clinicaltrials.gov/study/NCT04126499) | T/A | Selesai | 28 | Kajian retrospektif pemerhatian benralizumab dalam pesakit asma eosinofilik teruk di Sepanyol. Tidak dirancang untuk penilaian dermatitis. |
+| [NCT04763447](https://clinicaltrials.gov/study/NCT04763447) | Fasa 4 | Merekrut | 234 | Mengkaji penarikan balik **omalizumab** dalam asma. Tiada kaitan langsung pada benralizumab atau dermatitis. |
 
-> ⚠️ **Critical finding:** The only two directly relevant trials (HILLIER and NCT03563066) both demonstrate that while benralizumab achieves its biological target (eosinophil depletion in skin), this does **not** result in clinical benefit for atopic dermatitis.
+> ⚠️ **Penemuan kritikal:** Dua-dua percubaan yang secara langsung relevan (HILLIER dan NCT03563066) menunjukkan bahawa walaupun benralizumab mencapai sasaran biologinya (penyingkiran eosinofil dalam kulit), ini **tidak** menghasilkan faedah klinikal untuk dermatitis atopik.
 
 ---
 
-## Clinical Trial Evidence (Other Predicted Indications)
+## Bukti Percubaan Klinikal (Petunjuk Ramalan Lain)
 
-Currently no related clinical trials registered for:
-- Thrombocytopenia due to immune destruction
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan untuk:
+- Trombositopenia disebabkan oleh kemusnahan imun
 - Acne keloid
-- Neonatal dermatomyositis
-- Amyopathic dermatomyositis
+- Dermatomyositis neonatal
+- Dermatomyositis amyopatik
 
 ---
 
-## Literature Evidence (Dermatitis)
+## Bukti Kesusasteraan (Dermatitis)
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [37178404](https://pubmed.ncbi.nlm.nih.gov/37178404/) | 2023 | **Phase 2 RCT** | JEADV | **HILLIER trial results: "Lack of effect of benralizumab on signs and symptoms of moderate-to-severe atopic dermatitis."** Definitive negative evidence. |
-| [38695680](https://pubmed.ncbi.nlm.nih.gov/38695680/) | 2024 | Phase 2 RCT (secondary) | Immunotherapy | Plain language summary of HILLIER trial, confirming benralizumab did not improve AD outcomes. |
-| [40781582](https://pubmed.ncbi.nlm.nih.gov/40781582/) | 2025 | Translational study | Clin Transl Allergy | Benralizumab depletes IL-5Rα-bearing cells in AD skin lesions, but biological effect does not correlate with clinical improvement. |
-| [39234416](https://pubmed.ncbi.nlm.nih.gov/39234416/) | 2024 | Translational study | JACI Global | Evaluated effect of benralizumab on skin inflammation after intradermal allergen challenge in AD patients. |
-| [39600395](https://pubmed.ncbi.nlm.nih.gov/39600395/) | 2024 | Review | Allergologie select | Comprehensive update on biologics for atopic diseases; contextualises benralizumab among other IL-5-targeting agents. |
-| [37201737](https://pubmed.ncbi.nlm.nih.gov/37201737/) | 2023 | Basic science review | Pharmacol Ther | Reviews pathogenic Th2 cells as therapeutic targets; explains why IL-4/IL-13 blockade (not IL-5Rα) is the effective pathway for AD. |
-| [36355314](https://pubmed.ncbi.nlm.nih.gov/36355314/) | 2023 | Review | Dermatol Ther | Discusses combination of dupilumab with other biologics; benralizumab mentioned in context of atopic comorbidities. |
-| [36270814](https://pubmed.ncbi.nlm.nih.gov/36270814/) | 2023 | Case report (AE) | Therapie | **Adverse event report**: Benralizumab-induced interstitial granulomatous dermatitis — a paradoxical skin reaction. |
-| [35987486](https://pubmed.ncbi.nlm.nih.gov/35987486/) | 2022 | Safety review | JACI In Practice | Safety of biologics (including benralizumab) for atopic diseases during pregnancy. |
-| [36411004](https://pubmed.ncbi.nlm.nih.gov/36411004/) | 2023 | Safety review | Immunol Allergy Clin N Am | Biologics for allergic rhinitis, asthma, and AD during pregnancy and lactation. |
+| [37178404](https://pubmed.ncbi.nlm.nih.gov/37178404/) | 2023 | **RCT Fasa 2** | JEADV | **Keputusan percubaan HILLIER: "Kekurangan kesan benralizumab pada tanda dan gejala dermatitis atopik sederhana hingga teruk."** Bukti negatif pasti. |
+| [38695680](https://pubmed.ncbi.nlm.nih.gov/38695680/) | 2024 | RCT Fasa 2 (sekunder) | Immunotherapy | Ringkasan bahasa biasa kajian HILLIER, mengesahkan benralizumab tidak meningkatkan hasil AD. |
+| [40781582](https://pubmed.ncbi.nlm.nih.gov/40781582/) | 2025 | Kajian translasi | Clin Transl Allergy | Benralizumab menghapuskan sel pembawa IL-5Rα dalam lesi kulit AD, tetapi kesan biologi tidak berkorelasi dengan peningkatan klinikal. |
+| [39234416](https://pubmed.ncbi.nlm.nih.gov/39234416/) | 2024 | Kajian translasi | JACI Global | Menilai kesan benralizumab pada inflamasi kulit selepas cabaran alergen intraderma dalam pesakit AD. |
+| [39600395](https://pubmed.ncbi.nlm.nih.gov/39600395/) | 2024 | Ulasan | Allergologie select | Kemas kini komprehensif tentang biologi untuk penyakit atopik; meletakkan benralizumab antara agen penyasaran IL-5 yang lain. |
+| [37201737](https://pubmed.ncbi.nlm.nih.gov/37201737/) | 2023 | Ulasan sains asas | Pharmacol Ther | Mengulas sel Th2 patogenik sebagai sasaran terapeutik; menerangkan mengapa penyekat IL-4/IL-13 (bukan IL-5Rα) ialah laluan berkesan untuk AD. |
+| [36355314](https://pubmed.ncbi.nlm.nih.gov/36355314/) | 2023 | Ulasan | Dermatol Ther | Membincangkan gabungan dupilumab dengan biologi lain; benralizumab disebut dalam konteks komorbidit atopik. |
+| [36270814](https://pubmed.ncbi.nlm.nih.gov/36270814/) | 2023 | Laporan kes (AE) | Therapie | **Laporan peristiwa buruk**: Dermatitis granulomatosa antargranular teraruh benralizumab — reaksi kulit paradoks. |
+| [35987486](https://pubmed.ncbi.nlm.nih.gov/35987486/) | 2022 | Ulasan keselamatan | JACI In Practice | Keselamatan biologi (termasuk benralizumab) untuk penyakit atopik semasa kehamilan. |
+| [36411004](https://pubmed.ncbi.nlm.nih.gov/36411004/) | 2023 | Ulasan keselamatan | Immunol Allergy Clin N Am | Biologi untuk rinitis alergik, asma, dan AD semasa kehamilan dan laktasi. |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjuk Diluluskan |
 |---------|------|------|-----------|
-| (Registration details pending) | Benralizumab | — | Severe eosinophilic asthma |
+| (Butiran pendaftaran belum selesai) | Benralizumab | — | Asma eosinofilik teruk |
 
-> The NPRA registry confirms 1 active registration. Detailed licence information (product name, dosage form, full indication text) was not available in the evidence pack at the time of this report.
+> Pendaftaran NPRA mengesahkan 1 pendaftaran aktif. Maklumat lesen terperinci (nama produk, bentuk dos, teks petunjuk penuh) tidak tersedia dalam pakej bukti pada masa laporan ini.
 
 ---
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-> Please refer to the package insert for safety information.
+> Sila rujuk sisipan pakej untuk maklumat keselamatan.
 >
-> **Note:** Key warnings, contraindications, and drug interaction data were not available in the current evidence pack (Data Gap DG001). To proceed to safety evaluation (Stage S1), the package insert PDF should be obtained from the NPRA website and parsed for warnings, contraindications, and precautions.
+> **Nota:** Data amaran utama, kontraindikasi, dan interaksi ubat tidak tersedia dalam pakej bukti semasa (Jurang Data DG001). Untuk terus ke penilaian keselamatan (Tahap S1), PDF sisipan pakej harus diperolehi daripada laman web NPRA dan dianalisis untuk amaran, kontraindikasi, dan tindakan berjaga-jaga.
 
 ---
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-Despite high TxGNN prediction scores (>99%) across all 5 predicted indications, the clinical evidence directly contradicts the most evidence-supported prediction. The HILLIER trial (Phase 2, n=194, randomised, double-blind, placebo-controlled) definitively showed **lack of effect** of benralizumab in moderate-to-severe atopic dermatitis. Translational studies confirmed that while benralizumab achieves its biological target (eosinophil depletion in skin), this does not translate into clinical improvement — demonstrating that eosinophils are not the rate-limiting pathogenic factor in AD. The remaining 4 predictions (thrombocytopenia, acne keloid, neonatal/amyopathic dermatomyositis) have zero supporting evidence and weak mechanistic rationale.
+**Alasan:**
+Walaupun skor ramalan TxGNN yang tinggi (>99%) merentasi semua 5 petunjuk ramalan, bukti klinikal secara langsung bercanggah dengan ramalan yang paling tersokong bukti. Percubaan HILLIER (Fasa 2, n=194, rawak, buta ganda, terkawal plasebo) secara pasti menunjukkan **kekurangan kesan** benralizumab dalam dermatitis atopik sederhana hingga teruk. Kajian translasi mengesahkan bahawa walaupun benralizumab mencapai sasaran biologinya (penyingkiran eosinofil dalam kulit), ini tidak diterjemahkan ke dalam peningkatan klinikal — menunjukkan bahawa eosinofil bukan faktor patogenik penghad kadar dalam AD. 4 ramalan yang tinggal (trombositopenia, acne keloid, dermatomyositis neonatal/amyopatik) tidak mempunyai bukti sokongan dan alasan mekanik lemah.
 
-**This case serves as an important validation example:** a high TxGNN graph-proximity score does not guarantee therapeutic efficacy. The model likely assigned high scores based on the clustering of immune-mediated disease nodes, rather than capturing the specific mechanistic requirements of each disease.
+**Kes ini berfungsi sebagai contoh pengesahan penting:** skor berdekatan graf TxGNN yang tinggi tidak menjamin keberkesanan terapeutik. Model mungkin memberikan skor tinggi berdasarkan pengelompokan nod penyakit dimediasi imun, dan bukannya menangkap keperluan mekanik tertentu bagi setiap penyakit.
 
-**To proceed, the following is needed:**
-- ❌ **Dermatitis**: No further development warranted — definitive negative Phase 2 evidence
-- ⏸️ **Thrombocytopenia (ITP)**: Requires preclinical evidence of eosinophil involvement in ITP pathogenesis before any clinical exploration can be justified
-- ⏸️ **Acne keloid / Dermatomyositis**: Requires basic science establishing eosinophil/IL-5Rα role in pathogenesis
-- 📋 **General**: Obtain NPRA package insert for complete safety profile (Data Gap DG001); obtain detailed MOA data from DrugBank (Data Gap DG002)
-- 👁️ **Monitor**: NCT06734884 (benralizumab in DRESS) — if positive, may reopen discussion for eosinophil-driven dermatological conditions distinct from AD
+**Untuk terus, yang berikut diperlukan:**
+- ❌ **Dermatitis**: Tiada pembangunan lanjut dijustifikasi — bukti Fasa 2 negatif pasti
+- ⏸️ **Trombositopenia (ITP)**: Memerlukan bukti pra-klinikal bagi penglibatan eosinofil dalam patogenesis ITP sebelum sebarang penerokaan klinikal dapat dijustifikasi
+- ⏸️ **Acne keloid / Dermatomyositis**: Memerlukan sains asas menetapkan peranan eosinofil/IL-5Rα dalam patogenesis
+- 📋 **Umum**: Perolehi sisipan pakej NPRA untuk profil keselamatan lengkap (Jurang Data DG001); perolehi data MOA terperinci daripada DrugBank (Jurang Data DG002)
+- 👁️ **Pantau**: NCT06734884 (benralizumab dalam DRESS) — jika positif, mungkin buka semula perbincangan bagi keadaan dermatologi didorong eosinofil yang berbeza daripada AD
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

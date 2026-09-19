@@ -29,62 +29,63 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Griseofulvin: From Dermatophytosis to Myiasis
+# Griseofulvin: Dari Dermatomikosis ke Myiasis
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Griseofulvin is a long-established antifungal agent used to treat dermatophyte infections (fungal infections of skin, hair, and nails). The TxGNN model predicts it may be effective for **Myiasis** (fly larvae infestation of tissue), but this direction is currently supported by **0 clinical trials** and only **1 loosely related veterinary literature article**.
+Griseofulvin adalah agen antijamur yang sudah lama digunakan untuk merawat infeksi dermatomikosis (infeksi jamur pada kulit, rambut, dan kuku). Model TxGNN meramalkan ia mungkin berkesan untuk **Myiasis** (infestasi larva lalat pada tisu), namun arah ini kini disokong oleh **0 uji klinik** dan hanya **1 artikel literatur veterinar yang longgar berkait**.
 
-## Quick Overview
+## Gambaran Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | Dermatophytosis (fungal skin/hair/nail infections) — specific TFDA-approved indication text not available in current evidence pack |
-| Predicted New Indication | Myiasis |
-| TxGNN Prediction Score | 99.41% |
-| Evidence Level | L5 |
-| Taiwan Market Status | ✓ Marketed |
-| Number of Registrations | 6 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Dermatomikosis (infeksi jamur kulit/rambut/kuku) — teks indikasi yang diluluskan TFDA tidak tersedia dalam pakej bukti semasa |
+| Indikasi Baru Dijangka | Myiasis |
+| Skor Ramalan TxGNN | 99.41% |
+| Tahap Bukti | L5 |
+| Status Pasaran Taiwan | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 6 |
+| Keputusan Disarankan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed mechanism-of-action data from DrugBank is not yet available for this candidate. Based on known pharmacology, griseofulvin binds fungal microtubulin and disrupts the mitotic spindle during fungal cell division — an antifungal mechanism with no documented antiparasitic or insecticidal activity.
+Data mekanisme tindakan terperinci daripada DrugBank tidak tersedia lagi untuk calon ini. Berdasarkan farmakoloji yang diketahui, griseofulvin mengikat mikrotubul jamur dan mengganggu gelendong mitotik semasa pembahagian sel jamur — mekanisme antijamur tanpa aktiviti antiparasit atau insektisid yang didokumenkan.
 
-Myiasis is caused by fly larvae infesting living tissue; standard management is mechanical/surgical larval removal, with antiparasitic agents such as ivermectin used adjunctively. There is no known biological pathway connecting griseofulvin's antifungal action to killing or expelling fly larvae.
+Myiasis disebabkan oleh larva lalat yang menginfiltrasi tisu hidup; pengurusan standard adalah penyingkiran larva mekanik/bedah, dengan agen antiparasit seperti ivermektin digunakan secara tambahan. Tiada laluan biologi yang diketahui menghubungkan tindakan antijamur griseofulvin kepada pembunuhan atau pengusiran larva lalat.
 
-The TxGNN score of 99.41% is therefore most likely driven by an indirect knowledge-graph association — griseofulvin and myiasis may co-occur under a shared "skin/parasitic skin disease" node cluster — rather than a genuine pharmacological relationship. The same pattern holds for the other top-ranked candidates in this evidence pack (creeping myiasis, furuncular myiasis, wound myiasis, and echinococcosis), none of which have a plausible mechanistic link to griseofulvin.
+Skor TxGNN 99.41% oleh itu kemungkinan besar didorong oleh persatuan graf pengetahuan tidak langsung — griseofulvin dan myiasis mungkin berlaku bersama di bawah nod kluster "penyakit kulit/parasit kulit" yang dikongsi — dan bukan hubungan farmakoloji yang tulin. Corak yang sama berlaku untuk calon berperingkat teratas yang lain dalam pakej bukti ini (myiasis merayap, myiasis furunkuler, myiasis luka, dan echinococcosis), tiada satupun mempunyai pautan mekanistik yang munasabah kepada griseofulvin.
 
-## Clinical Trial Evidence
+## Bukti Uji Klinik
 
-Currently no related clinical trials registered.
+Tiada uji klinik berkaitan yang didaftarkan pada masa kini.
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [4098614](https://pubmed.ncbi.nlm.nih.gov/4098614/) | 1970 | Review | The Veterinary record | Veterinary review of parasitic skin diseases in dogs and cats; no abstract available, and does not specifically address griseofulvin use in myiasis |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|------|------|------|---------|
+| [4098614](https://pubmed.ncbi.nlm.nih.gov/4098614/) | 1970 | Ulasan | The Veterinary record | Ulasan veterinar tentang penyakit kulit parasit dalam anjing dan kucing; tiada abstrak tersedia, dan tidak secara khusus menangani penggunaan griseofulvin dalam myiasis |
 
-## Taiwan Market Information
+## Maklumat Pasaran Taiwan
 
-6 marketed licenses are on record (market status: Marketed), but license-level details (authorization numbers, product names, dosage forms, approved indication text) are not populated in the current evidence pack and cannot be listed here.
+6 lesen yang dipasarkan ada dalam rekod (status pasaran: Dipasarkan), namun butiran peringkat lesen (nombor kebenaran, nama produk, bentuk dos, teks indikasi yang diluluskan) tidak diisi dalam pakej bukti semasa dan tidak dapat disenaraikan di sini.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information. (Note: TFDA label warnings/contraindications retrieval is flagged as a blocking data gap — see Next Steps.)
+Sila rujuk surat pelepasan produk untuk maklumat keselamatan. (Nota: Pengambilan amaran/percanggahan label TFDA ditandakan sebagai jurang data yang menghalang — lihat Langkah Seterusnya.)
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The prediction rests solely on a TxGNN model score with no clinical trials and no mechanistically or clinically relevant literature — evidence level L5. The proposed mechanism (antifungal microtubule inhibition) has no known relevance to fly larvae infestation, so the association is more likely a knowledge-graph artifact than a true repurposing signal.
+**Alasan:**
+Ramalan bergantung semata-mata kepada skor model TxGNN tanpa uji klinik dan tanpa literatur yang relevan dari segi mekanisme atau klinik — tahap bukti L5. Mekanisme yang dicadangkan (perencatan mikrotubul antijamur) tiada kaitan yang diketahui dengan infestasi larva lalat, jadi persatuan kemungkinan besar adalah artifak graf pengetahuan dan bukan isyarat pemuatan semula yang tulin.
 
-**To proceed, the following is needed:**
-- TFDA label warnings/contraindications (blocking gap — required before any S1 safety review)
-- Confirmed mechanism of action via DrugBank API
-- Any in vitro/in vivo evidence of antiparasitic or larvicidal activity for griseofulvin
-- Human clinical or case-report evidence specific to myiasis, since the only literature hit is a veterinary review unrelated to this drug
+**Untuk meneruskan, yang berikut diperlukan:**
+- Amaran/percanggahan label TFDA (jurang penghalang — diperlukan sebelum sebarang ulasan keselamatan S1)
+- Mekanisme tindakan yang disahkan melalui API DrugBank
+- Sebarang bukti in vitro/in vivo aktiviti antiparasit atau larvacid untuk griseofulvin
+- Bukti klinik manusia atau laporan kes khusus untuk myiasis, kerana satu-satunya pukulan literatur adalah ulasan veterinar yang tidak berkaitan dengan ubat ini
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

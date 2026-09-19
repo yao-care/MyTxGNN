@@ -29,76 +29,77 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Risdiplam: From Spinal Muscular Atrophy to Acne
+# Risdiplam: Daripada Atrofi Otot Tulang Belakang kepada Jerawat
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Risdiplam is an SMN2 pre-mRNA splicing modifier used to treat spinal muscular atrophy (SMA) by increasing production of functional SMN protein. The TxGNN model predicts a possible association with **Acne (disease)** based purely on knowledge-graph embedding similarity (score **99.45%**), but this direction currently has **no supporting clinical trials, no literature, and no established mechanistic link**.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not recorded in the license data provided (all license text fields are empty); publicly known indication is Spinal Muscular Atrophy (SMA) |
-| Predicted New Indication | Acne (disease) |
-| TxGNN Prediction Score | 99.45% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 2 |
-| Recommended Decision | Hold |
+Risdiplam ialah pengubahsuai penyampaian pra-ARNm SMN2 yang digunakan untuk merawat atrofi otot tulang belakang (SMA) dengan meningkatkan pengeluaran protein SMN berfungsi. Model TxGNN meramalkan kemungkinan perkaitan dengan **Jerawat (penyakit)** berdasarkan semata-mata pada persamaan pembenaman graf pengetahuan (skor **99.45%**), tetapi arah ini pada masa kini tidak mempunyai **ujian klinikal yang menyokong, kesusasteraan, mahupun pautan mekanisme yang ditetapkan**.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Cepat
 
-Detailed mechanism-of-action data was not returned by the DrugBank query for this candidate. Based on the information available in this evidence pack, risdiplam is known to act as an **SMN2 pre-mRNA splicing modifier** — it shifts exon 7 splicing of the SMN2 gene to increase production of full-length, functional SMN protein, and is used clinically for spinal muscular atrophy.
-
-There is no known or published pharmacological connection between SMN2 splicing modulation and the pathophysiology of acne (follicular hyperkeratinization, sebaceous gland androgen response, or *C. acnes* colonization). The model's own rationale confirms this: the acne prediction is generated solely from knowledge-graph embedding similarity, with no independent mechanistic hypothesis, preclinical data, clinical trial, or literature offered in support.
-
-Given the absence of biological plausibility and corroborating evidence, this prediction should be treated as a low-confidence, exploratory signal only — not as a basis for further clinical consideration at this time.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Butir | Kandungan |
+|------|----------|
+| Indikasi Asal | Tidak direkodkan dalam data lesen yang disediakan (semua medan teks lesen kosong); indikasi yang diketahui umum ialah Atrofi Otot Tulang Belakang (SMA) |
+| Indikasi Baru Diramalkan | Jerawat (penyakit) |
+| Skor Ramalan TxGNN | 99.45% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 2 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Wajar?
 
-Currently no related literature available.
+Data mekanisme tindakan terperinci tidak dikembalikan oleh pertanyaan DrugBank untuk calon ini. Berdasarkan maklumat yang tersedia dalam pakej bukti ini, risdiplam diketahui bertindak sebagai **pengubahsuai penyampaian pra-ARNm SMN2** — ia mengubah penyampaian ekson 7 gen SMN2 untuk meningkatkan pengeluaran protein SMN berfungsi panjang penuh, dan digunakan secara klinikal untuk atrofi otot tulang belakang.
 
----
+Tiada sambungan farmakologi yang diketahui atau diterbitkan antara pengubahsuaian penyampaian SMN2 dan patofisiologi jerawat (hiperkeratinisasi folikel, tindak balas androgen kelenjar sebum, atau penjajahan *C. acnes*). Rasional model itu sendiri mengesahkan ini: ramalan jerawat dijana semata-mata daripada persamaan pembenaman graf pengetahuan, tanpa hipotesis mekanisme bebas, data pra-klinikal, ujian klinikal, mahupun kesusasteraan yang ditawarkan sebagai sokongan.
 
-## Malaysia Market Information
-
-Risdiplam has 2 active registrations, but license number, product name, dosage form, and approved indication text were not populated in the source data for either entry — no further detail is currently available to report.
+Memandangkan ketiadaan kelayakan biologi dan bukti yang mengesahkan, ramalan ini harus dianggap sebagai isyarat penerokaan keyakinan rendah sahaja — bukan sebagai asas untuk pertimbangan klinikal selanjutnya pada masa ini.
 
 ---
 
-## Safety Considerations
+## Bukti Ujian Klinikal
 
-Please refer to the package insert for safety information.
-
-*(Note: warning/contraindication data for this drug is flagged as a blocking data gap — this must be resolved before any safety evaluation can proceed.)*
+Pada masa kini tiada ujian klinikal yang berkaitan didaftarkan.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Kesusasteraan
 
-**Decision: Hold**
+Pada masa kini tiada kesusasteraan yang berkaitan tersedia.
 
-**Rationale:**
-The prediction is supported only by TxGNN embedding similarity (L5, decision stage S0) with no clinical trials, no literature, and no plausible mechanistic link between SMN2 splicing modulation and acne. In addition, a blocking data gap on package insert warnings/contraindications prevents even an initial safety review.
+---
 
-**To proceed, the following is needed:**
-- TFDA/product label warnings and contraindications (currently blocking)
-- Confirmed mechanism of action from DrugBank or primary literature
-- An independent mechanistic hypothesis or preclinical evidence linking SMN2 splicing modulation to dermatologic/sebaceous pathways
-- At least preliminary case reports, observational data, or trial registration before advancing past L5
+## Maklumat Pasaran Malaysia
+
+Risdiplam mempunyai 2 pendaftaran aktif, tetapi nombor lesen, nama produk, bentuk dos, dan teks indikasi yang diluluskan tidak dipenuhi dalam data sumber bagi mana-mana entri — tiada perincian lanjut yang tersedia untuk dilaporkan pada masa ini.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
+
+*(Nota: data amaran/kontraindikasi bagi ubat ini ditandai sebagai jurang data penghalang — ini mesti diselesaikan sebelum sebarang penilaian keselamatan dapat diteruskan.)*
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Ramalan hanya disokong oleh persamaan pembenaman TxGNN (L5, tahap keputusan S0) tanpa ujian klinikal, tanpa kesusasteraan, dan tiada pautan mekanisme yang munasabah antara pengubahsuaian penyampaian SMN2 dan jerawat. Selain itu, jurang data penghalang pada amaran/kontraindikasi sisipan pakej menghalang malah penilaian keselamatan awal.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Amaran label produk TFDA/keselamatan dan kontraindikasi (pada masa ini penghalang)
+- Mekanisme tindakan yang disahkan daripada DrugBank atau kesusasteraan utama
+- Hipotesis mekanisme bebas atau bukti pra-klinikal yang menghubungkan pengubahsuaian penyampaian SMN2 kepada laluan dermatologi/kelenjar sebum
+- Sekurang-kurangnya laporan kes awal, data pemerhatian, atau pendaftaran percubaan sebelum memajukan melepasi L5
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

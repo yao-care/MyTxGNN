@@ -29,80 +29,81 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-# Palonosetron: From Antiemetic (CINV/PONV) to Migraine Disorder
+# Palonosetron: Dari Antiemetik (CINV/PONV) kepada Gangguan Migrain
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Palonosetron is a selective 5-HT3 receptor antagonist originally used as an antiemetic for chemotherapy-induced and postoperative nausea and vomiting (CINV/PONV). The TxGNN model predicts it may be effective for **Migraine Disorder**, but the only literature currently available is a case report describing palonosetron *inducing* migraine-type headache as an adverse reaction — evidence that points against, not toward, the treatment hypothesis.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Chemotherapy-induced and postoperative nausea/vomiting (CINV/PONV) — based on known drug class; NPRA label text not available in current dataset |
-| Predicted New Indication | Migraine Disorder |
-| TxGNN Prediction Score | 99.74% |
-| Evidence Level | L4 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 8 |
-| Recommended Decision | Hold |
+Palonosetron adalah antagonis reseptor 5-HT3 yang selektif yang pada asalnya digunakan sebagai antiemetik untuk mual dan muntah yang diinduksi kemoterapi dan pasca pembedahan (CINV/PONV). Model TxGNN meramalkan ia mungkin berkesan untuk **Gangguan Migrain**, tetapi satu-satunya literatur yang tersedia pada masa ini ialah laporan kes yang menggambarkan palonosetron *menginduksi* sakit kepala jenis migrain sebagai tindak balas yang merugikan — bukti yang menunjuk terhadap, bukan ke arah, hipotesis rawatan.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Pantas
 
-Detailed mechanism-of-action data from DrugBank is currently a data gap. Based on known pharmacology, palonosetron is a potent, long-acting selective 5-HT3 (serotonin) receptor antagonist, clinically established for preventing chemotherapy- and surgery-induced nausea and vomiting.
-
-The TxGNN link to migraine plausibly reflects the fact that 5-HT3 receptors participate in pain signaling and trigeminovascular system activation — a pathway also implicated in migraine pathophysiology. In theory, this could support a bidirectional relationship (i.e., 5-HT3 blockade modulating migraine).
-
-However, the only retrievable literature (PMID 21132477) points in the opposite direction: it is a case report of palonosetron **inducing** migraine-type headache as an adverse drug reaction, not evidence of therapeutic benefit. So while the mechanistic rationale has theoretical grounding, the sole piece of real-world evidence contradicts the repurposing hypothesis rather than supporting it.
-
-*Note on other candidates:* Four additional TxGNN-ranked indications were reviewed (migraine with brainstem aura, migraine susceptibility, atrophoderma vermiculata, ulerythema ophryogenesis). None have any supporting clinical or case-level evidence, and the 20 "supporting" papers retrieved for the migraine-susceptibility candidate were found on review to be about epilepsy genetics/epileptogenesis — an apparent text-matching artifact, not real drug-disease evidence. All are scored Hold at evidence level L5.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Mual dan muntah yang diinduksi kemoterapi dan pasca pembedahan (CINV/PONV) — berdasarkan kelas ubat yang diketahui; teks label NPRA tidak tersedia dalam set data semasa |
+| Indikasi Baharu yang Diramalkan | Gangguan Migrain |
+| Skor Ramalan TxGNN | 99.74% |
+| Tahap Bukti | L4 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 8 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [21132477](https://pubmed.ncbi.nlm.nih.gov/21132477/) | 2011 | Case Report | Canadian Journal of Anaesthesia | Case report of palonosetron-induced migraine-type headache — an adverse reaction, not a therapeutic effect |
+Data mekanisme tindakan terperinci daripada DrugBank adalah jurang data yang ada pada masa ini. Berdasarkan farmakologi yang diketahui, palonosetron adalah antagonis reseptor 5-HT3 (serotonin) yang berkuasa dan bertahan lama secara selektif, yang telah terbukti secara klinikal untuk mencegah mual dan muntah yang diinduksi kemoterapi dan pembedahan.
 
----
+Pautan TxGNN kepada migrain secara munasabah mencerminkan fakta bahawa reseptor 5-HT3 mengambil bahagian dalam isyarat kesakitan dan pengaktifan sistem trigeminovaskular — laluan yang turut terlibat dalam patofisiologi migrain. Secara teorinya, ini boleh menyokong hubungan dwiarah (iaitu, pemblokadan 5-HT3 mengubahsuai migrain).
 
-## Malaysia Market Information
+Walau bagaimanapun, satu-satunya literatur yang boleh diambil (PMID 21132477) menunjuk ke arah yang bertentangan: ia ialah laporan kes palonosetron **menginduksi** sakit kepala jenis migrain sebagai tindak balas ubat yang merugikan, bukan bukti manfaat terapeutik. Jadi walaupun rasional mekanisme mempunyai asas teori, satu-satunya sekeping bukti dunia nyata bertentangan dengan hipotesis penggunaan semula ubat daripada menyokongnya.
 
-NPRA registration data confirms palonosetron is marketed in Malaysia with **8 active registrations**, but detailed fields (license number, product name, dosage form, approved indication text) are not populated in the current dataset and require direct retrieval from NPRA product listings.
+*Nota tentang calon lain:* Lima indikasi yang disenaraikan TxGNN telah dikaji semula (migrain dengan aura batang otak, kerentanan migrain, atrofoderma vermiculata, ulerythema ophryogenesis). Tiada yang mempunyai sebarang bukti klinikal atau peringkat kes yang menyokong, dan 20 kertas "menyokong" yang diambil untuk calon kerentanan migrain didapati pada semakan menjadi tentang genetik epilepsi/epileptogenesis — artifak padanan teks yang jelas, bukan bukti ubat-penyakit yang sebenarnya. Semua mendapat skor Tahan pada tahap bukti L5.
 
 ---
 
-## Safety Considerations
+## Bukti Ujian Klinis
 
-Please refer to the package insert for safety information.
-
-*(Key warnings, contraindications, and drug interaction data are currently unavailable — retrieving the NPRA product label is flagged as a Blocking data gap that must be resolved before any safety evaluation can proceed.)*
+Pada masa ini tiada ujian klinis berkaitan yang didaftarkan.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Hold**
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|------|------|------|---------|
+| [21132477](https://pubmed.ncbi.nlm.nih.gov/21132477/) | 2011 | Laporan Kes | Canadian Journal of Anaesthesia | Laporan kes sakit kepala jenis migrain yang diinduksi palonosetron — tindak balas yang merugikan, bukan kesan terapeutik |
 
-**Rationale:**
-The only direct evidence for this indication is a single case report describing palonosetron *causing* migraine-type headache — the opposite of the predicted therapeutic effect. Combined with the absence of any clinical trials and a Blocking gap in core safety data (warnings/contraindications), there is currently no basis to advance this candidate.
+---
 
-**To proceed, the following is needed:**
-- NPRA product label (warnings, contraindications) — resolves DG001 (Blocking)
-- DrugBank-confirmed mechanism of action — resolves DG002
-- Complete Malaysia license/product detail (name, dosage form, approved indication text)
-- Any mechanistic or preclinical study directly testing 5-HT3 antagonism in migraine models, to determine whether the case-report signal is an outlier or a real class effect
+## Maklumat Pasaran Malaysia
+
+Data pendaftaran NPRA mengesahkan palonosetron dipasarkan di Malaysia dengan **8 pendaftaran aktif**, tetapi medan terperinci (nombor lesen, nama produk, bentuk dos, teks indikasi yang diluluskan) tidak dipenuhi dalam set data semasa dan memerlukan pengambilan langsung daripada penyenaraian produk NPRA.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk risalah pembungkus untuk maklumat keselamatan.
+
+*(Data amaran utama, kontraindikasi, dan interaksi ubat ada pada masa ini tidak tersedia — pengambilan label produk NPRA ditandai sebagai jurang data Menyekat yang mesti diselesaikan sebelum sebarang penilaian keselamatan boleh diteruskan.)*
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Satu-satunya bukti langsung untuk indikasi ini ialah satu laporan kes yang menggambarkan palonosetron *menyebabkan* sakit kepala jenis migrain — bertentangan dengan kesan terapeutik yang diramalkan. Digabungkan dengan ketiadaan sebarang ujian klinis dan jurang data Menyekat dalam data keselamatan teras (amaran/kontraindikasi), pada masa ini tiada asas untuk memajukan calon ini.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Label produk NPRA (amaran, kontraindikasi) — menyelesaikan DG001 (Menyekat)
+- Mekanisme tindakan yang disahkan DrugBank — menyelesaikan DG002
+- Maklumat lesen/produk Malaysia yang lengkap (nama, bentuk dos, teks indikasi yang diluluskan)
+- Sebarang kajian mekanisme atau praklinikal yang secara langsung menguji antagonisme 5-HT3 dalam model migrain, untuk menentukan sama ada isyarat laporan kes itu adalah outlier atau kesan kelas yang sebenarnya
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,84 +29,85 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Alfuzosin: From Benign Prostatic Hyperplasia to Ambras Type Hypertrichosis Universalis Congenita
+# Alfuzosin: Dari Hiperplasi Prostat Jinak kepada Hipertrikosis Universalis Kongenita Jenis Ambras
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Alfuzosin is a selective alpha-1 adrenergic receptor blocker primarily used for treating benign prostatic hyperplasia (BPH) by relaxing smooth muscle in the prostate and bladder neck.
-The TxGNN model predicts it may have activity against **Ambras Type Hypertrichosis Universalis Congenita**, a rare genetic disorder causing excessive whole-body hair growth.
-Currently, **0 clinical trials** and **0 publications** directly support this repurposing direction — this is a model-only prediction (Level L5).
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Benign Prostatic Hyperplasia (BPH) *(NPRA indication text not available in current data pack)* |
-| Predicted New Indication | Ambras Type Hypertrichosis Universalis Congenita |
-| TxGNN Prediction Score | 99.999% |
-| Evidence Level | L5 — Model prediction only, no supporting studies |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 5 |
-| Recommended Decision | **Hold** |
+Alfuzosin ialah antagonis reseptor adrenergik alfa-1 selektif yang digunakan terutamanya untuk merawat hiperplasi prostat jinak (BPH) dengan melonggarkan otot licin dalam prostat dan leher lekuk kencing.
+Model TxGNN meramalkan ia mungkin mempunyai aktiviti terhadap **Hipertrikosis Universalis Kongenita Jenis Ambras**, gangguan genetik jarang penyebab pertumbuhan rambut berlebihan di seluruh tubuh.
+Pada masa ini, **0 ujian klinikal** dan **0 penerbitan** secara langsung menyokong ramalan indikasi baharu ini — ini adalah ramalan model sahaja (Tahap L5).
 
 ---
 
-## Why Is This Prediction Reasonable?
+## Tinjauan Pantas
 
-Detailed mechanism of action (MOA) data is not currently available in this evidence pack. Based on established pharmacology, alfuzosin is a selective alpha-1 adrenergic receptor antagonist that competitively blocks post-synaptic alpha-1 receptors in the smooth muscle of the prostate gland and bladder neck. This relaxation facilitates urine outflow, making it effective in BPH. Alpha-1 receptors are also expressed in hair follicle dermal papilla cells — this shared receptor biology represents the likely node connection that TxGNN exploited to generate this prediction.
-
-However, a critical directional contradiction undermines the biological plausibility of this prediction. Hypertrichosis universalis congenita (Ambras type) is a condition of *excessive* hair growth, associated with mutations in the TRPS1 gene or chromosomal rearrangements at 8q22. If alpha-1 receptor activation were to stimulate hair growth, then *blocking* this receptor with alfuzosin would be expected to *suppress* hair growth — the opposite of a treatment for excessive hair growth. The mechanistic direction is therefore contradictory, not supportive.
-
-A notable pattern emerges across the full top-10 prediction list: 6 of the 10 highest-ranked indications are hair or hair follicle-related conditions (Ambras hypertrichosis, hypertrichosis, isolated hair shaft abnormality, familial trichomegaly, hypotrichosis simplex, congenital hypotrichosis milia). This clustering strongly suggests a systematic knowledge-graph artefact — TxGNN appears to be over-representing the adrenergic–hair follicle node neighbourhood rather than capturing genuine therapeutic signals.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Perkara | Kandungan |
+|--------|-----------|
+| Indikasi Asal | Hiperplasi Prostat Jinak (BPH) *(teks indikasi NPRA tidak tersedia dalam pakej data semasa)* |
+| Indikasi Baharu yang Diprediksi | Hipertrikosis Universalis Kongenita Jenis Ambras |
+| Skor Ramalan TxGNN | 99.999% |
+| Tahap Bukti | L5 — Ramalan model sahaja, tiada kajian penyokong |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 5 |
+| Keputusan yang Disyorkan | **Tunggu** |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available.
+Data mekanisme tindakan terperinci (MOA) tidak tersedia pada masa ini dalam pakej bukti ini. Berdasarkan farmakoloji yang telah ditetapkan, alfuzosin ialah antagonis reseptor adrenergik alfa-1 selektif yang secara kompetitif menyekat reseptor alfa-1 pasca-sinaptik dalam otot licin kelenjar prostat dan leher lekuk kencing. Pelonggaran ini memudahkan aliran air kencing, menjadikannya berkesan dalam BPH. Reseptor alfa-1 juga diekspresikan dalam sel papila derma folikel rambut — biologi reseptor bersama ini mewakili kemungkinan sambungan nod yang TxGNN manfaatkan untuk menjana ramalan ini.
 
-> **Note on Rank 3 prediction (periodontal syndrome):** The evidence pack includes 20 PubMed references retrieved against the search query for "malformation syndrome with odontal and/or periodontal component." These are all general periodontology publications (scaling/root planing, guideline documents, microbiome studies) with no connection to alfuzosin whatsoever. This is a confirmed false-positive match based on disease-name string overlap in the retrieval pipeline, not evidence of pharmacological relevance.
+Walau bagaimanapun, percanggahan arah yang kritikal memperlemahkan kredibiliti biologi ramalan ini. Hipertrikosis universalis kongenita (jenis Ambras) ialah keadaan *pertumbuhan rambut berlebihan*, dikaitkan dengan mutasi dalam gen TRPS1 atau penyusunan semula kromosom pada 8q22. Sekiranya pengaktifan reseptor alfa-1 merangsang pertumbuhan rambut, maka *penyekatan* reseptor ini dengan alfuzosin dijangka akan *menekan* pertumbuhan rambut — bertentangan dengan rawatan untuk pertumbuhan rambut berlebihan. Arah mekanistik adalah oleh itu bercanggah, bukan menyokong.
 
----
-
-## Malaysia Market Information
-
-Five drug registrations for alfuzosin are on record with the Malaysian National Pharmaceutical Regulatory Agency (NPRA), and the product is confirmed as **Marketed**. Individual registration details (authorization numbers, product names, dosage forms, and approved indication texts) were not returned in the current data pack.
-
-For full registration details, please consult the NPRA product register directly: [https://www.npra.gov.my](https://www.npra.gov.my)
+Corak yang ketara muncul merentasi senarai sepuluh pertama ramalan: 6 daripada 10 indikasi berbangkit tertinggi adalah keadaan berkaitan rambut atau folikel rambut (hipertrikosis Ambras, hipertrikosis, kelainan batang rambut terpencil, trikomegali keluarga, hipotrikosis simplex, hipotrikosis kongenita milium). Pengelompokan ini dengan kuat mencadangkan artefak graf pengetahuan yang sistematik — TxGNN nampaknya merepresentasi berlebihan kejiranan nod adrenergik–folikel rambut daripada menangkap isyarat terapeutik tulen.
 
 ---
 
-## Safety Considerations
+## Bukti Ujian Klinikal
 
-Please refer to the package insert for safety information.
-
-> **Data Gap Notice:** Detailed warnings, contraindications, and drug–drug interaction data were not available in this evidence pack (classified as Blocking data gap DG001). Retrieval and parsing of the full NPRA prescribing information PDF is required before any clinical or research use assessment can proceed.
+Pada masa ini tiada ujian klinikal berkaitan berdaftar.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Kesusasteraan
 
-**Decision: Hold**
+Pada masa ini tiada kesusasteraan berkaitan tersedia.
 
-**Rationale:**
-The TxGNN prediction score is extremely high (99.999%), but this reflects proximity within the knowledge graph's adrenergic receptor neighbourhood rather than any genuine therapeutic signal. The mechanistic direction is directly contradictory to treating the predicted condition, no supporting clinical or preclinical studies exist, and a systematic model bias toward hair follicle diseases is evident across the top-10 list.
+> **Nota mengenai Ramalan Kedudukan 3 (Sindrom Periodontal):** Pakej bukti termasuk 20 rujukan PubMed yang dipulihkan menentang pertanyaan carian untuk "sindrom malformasi dengan komponen odontik dan/atau periodontal." Ini adalah semua penerbitan periodontologi umum (penskalaan/perjalanan punca, dokumen garis panduan, kajian mikrobiom) tanpa hubungan langsung dengan alfuzosin. Ini adalah padanan positif palsu yang disahkan berdasarkan pertindihan rentetan nama penyakit dalam proses pengambilan data, bukan bukti kekaitan farmakoloji.
 
-**To proceed, the following is needed:**
+---
 
-- **Resolve Blocking Data Gap (DG001):** Download and parse the NPRA package insert PDF to obtain approved indications, warnings, and contraindications before any safety screening can begin
-- **Resolve High Data Gap (DG002):** Query the DrugBank API for alfuzosin's complete MOA, pharmacodynamics, and toxicity profile
-- **Retrieve NPRA registration details:** Obtain full product list (authorization numbers, dosage forms, approved indication texts) from the NPRA database
-- **Investigate model artefact:** Assess whether TxGNN systematically over-predicts hair follicle diseases for all alpha-1 blocker class drugs — if confirmed, this cluster of predictions should be filtered at the pipeline level rather than evaluated individually
-- **Mechanistic direction audit:** For any future re-evaluation of alfuzosin candidates, prioritise indications where alpha-1 *blockade* (vasodilation, smooth muscle relaxation) has a logically consistent therapeutic direction — such as **Rank 8: Persistent Fetal Circulation Syndrome (PPHN)**, where pulmonary vascular smooth muscle relaxation is the desired effect, although neonatal safety data remain absent
+## Maklumat Pasaran Malaysia
+
+Lima pendaftaran ubat untuk alfuzosin ada dalam rekod dengan Agensi Kawal Selia Farmaseutikal Kebangsaan (NPRA) Malaysia, dan produk disahkan sebagai **Dipasarkan**. Butiran pendaftaran individu (nombor kebenaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan) tidak dikembalikan dalam pakej data semasa.
+
+Untuk butiran pendaftaran penuh, sila rujuk daftar produk NPRA secara langsung: [https://www.npra.gov.my](https://www.npra.gov.my)
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk surat sisipan paket untuk maklumat keselamatan.
+
+> **Notis Jurang Data:** Data amaran terperinci, kontraindikasi, dan data interaksi ubat–ubat tidak tersedia dalam pakej bukti ini (diklasifikasikan sebagai jurang data pemblokiran DG001). Maklumat preskripsi PDF NPRA lengkap perlu diambil dan dianalisis sebelum sebarang penilaian penggunaan klinikal atau penyelidikan dapat diteruskan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tunggu**
+
+**Alasan:**
+Skor ramalan TxGNN amat tinggi (99.999%), tetapi ini mencerminkan kehampiran dalam kejiranan nod reseptor adrenergik dalam graf pengetahuan daripada sebarang isyarat terapeutik tulen. Arah mekanistik bercanggah secara langsung dengan rawatan keadaan yang diprediksi, tiada kajian penyokong klinikal atau praklinikal wujud, dan bias model yang sistematik terhadap penyakit folikel rambut terbukti merentasi senarai sepuluh pertama.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+
+- **Selesaikan Jurang Data Pemblokiran (DG001):** Muat turun dan analisis surat sisipan paket PDF NPRA untuk memperoleh indikasi yang diluluskan, amaran, dan kontraindikasi sebelum sebarang pemeriksaan keselamatan dapat bermula
+- **Selesaikan Jurang Data Tinggi (DG002):** Pertanyaan API DrugBank untuk profil MOA, farmakodinamik, dan toksisiti alfuzosin yang lengkap
+- **Pulihkan butiran pendaftaran NPRA:** Perolehi senarai produk penuh (nombor kebenaran, bentuk dos, teks indikasi yang diluluskan) daripada pangkalan data NPRA
+- **Siasat artefak model:** Tentukan sama ada TxGNN secara sistematik melebihi ramalan penyakit folikel rambut untuk semua ubat kelas pemblok alfa-1 — jika disahkan, kelompok ramalan ini harus ditapis di peringkat proses daripada dinilai secara individu
+- **Audit arah mekanistik:** Untuk sebarang penilaian semula calon alfuzosin di masa hadapan, utamakan indikasi di mana *penyekatan* alfa-1 (pelebaran saluran darah, pelonggaran otot licin) mempunyai arah terapeutik yang konsisten logik — seperti **Kedudukan 8: Sindrom Peredaran Fetal Berterusan (PPHN)**, di mana pelonggaran otot licin saluran darah pulmonari adalah kesan yang dikehendaki, walaupun data keselamatan neonatus tetap tiada
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

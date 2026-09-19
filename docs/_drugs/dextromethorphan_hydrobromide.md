@@ -29,107 +29,108 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Dextromethorphan Hydrobromide: Drug Repurposing Evaluation Report
+# Dextromethorphan Hydrobromide: Laporan Penilaian Penurunan Ubatan Tujuan
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Dextromethorphan hydrobromide is a widely used antitussive (cough suppressant) with 35 registrations in Malaysia.
-However, the TxGNN model **did not generate any predicted new indications** for this drug in the current analysis cycle,
-and critical data gaps (MOA, safety labelling, DrugBank mapping) remain unresolved.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Antitussive (cough suppressant) — *licence-level indication text not yet captured* |
-| Predicted New Indication | **None** (no TxGNN prediction available) |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | N/A |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 35 |
-| Recommended Decision | **Hold** |
+Dextromethorphan hydrobromide ialah ubatan penekan batuk (antitussive) yang digunakan secara meluas dengan 35 pendaftaran di Malaysia.
+Walau bagaimanapun, model TxGNN **tidak menghasilkan sebarang ramalan petunjuk baru** untuk ubatan ini dalam kitaran analisis semasa,
+dan jurang data penting (MOA, pelabelan keselamatan, pemetaan DrugBank) kekal tidak diselesaikan.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Pantas
 
-### No Prediction Was Generated
-
-The TxGNN model did not return any repurposing candidates for dextromethorphan hydrobromide. This may be due to one or more of the following reasons:
-
-1. **Missing DrugBank ID mapping** — The evidence pack shows `drugbank_id: null`. Without a valid DrugBank identifier (the expected ID is DB00514), the drug cannot be located in the TxGNN knowledge graph, and therefore no drug–disease edge predictions can be computed.
-
-2. **Incomplete upstream data** — The original indications array is empty and the mechanism of action is listed as a data gap. These missing inputs may have prevented the prediction pipeline from executing for this compound.
-
-### Known Pharmacology (General Knowledge)
-
-Dextromethorphan is a synthetic morphinan derivative that acts primarily as an **NMDA receptor antagonist** and **sigma-1 receptor agonist**. It is the d-isomer of levorphanol's methyl ether and, unlike its l-isomer, has no opioid analgesic activity at therapeutic doses. Its primary approved use worldwide is as a non-narcotic antitussive for the temporary relief of cough. More recently, dextromethorphan (in combination with quinidine as Nuedexta®) has been approved for **pseudobulbar affect (PBA)**, demonstrating that this molecule does have proven CNS activity beyond cough suppression — a fact that could, in principle, support future repurposing hypotheses in neurological or psychiatric indications.
+| Item | Kandungan |
+|------|-------|
+| Petunjuk Asal | Antitussive (penekan batuk) — *teks petunjuk peringkat lesen belum ditangkap* |
+| Ramalan Petunjuk Baru | **Tiada** (tiada ramalan TxGNN tersedia) |
+| Skor Ramalan TxGNN | N/A |
+| Tahap Bukti | N/A |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 35 |
+| Keputusan yang Disyorkan | **Tahan** |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-No predicted indication was generated; therefore, no targeted clinical trial search was performed.
+### Tiada Ramalan yang Dijana
 
-> Currently no related clinical trials to display.
+Model TxGNN tidak mengembalikan sebarang calon penurunan tujuan untuk dextromethorphan hydrobromide. Ini mungkin disebabkan oleh satu atau lebih sebab berikut:
+
+1. **Pemetaan ID DrugBank yang hilang** — Pakej bukti menunjukkan `drugbank_id: null`. Tanpa pengenalpasti DrugBank yang sah (ID yang dijangka ialah DB00514), ubatan tidak dapat ditemukan dalam graf pengetahuan TxGNN, dan oleh itu tiada ramalan tepi ubatan-penyakit dapat dikira.
+
+2. **Data huluan yang tidak lengkap** — Tatasusunan petunjuk asal kosong dan mekanisme tindakan disenaraikan sebagai jurang data. Input yang hilang ini mungkin telah menghalang saluran paip ramalan daripada dilaksanakan untuk sebatian ini.
+
+### Farmakologi Terkenal (Pengetahuan Umum)
+
+Dextromethorphan ialah terbitan morphinan sintetik yang bertindak terutamanya sebagai **antagonis reseptor NMDA** dan **agonis reseptor sigma-1**. Ia adalah isomer-d bagi metil eter levorphanol dan, tidak seperti isomer-l, tidak mempunyai aktiviti analgesik opioid pada dos terapeutik. Penggunaannya yang diluluskan terutamanya di seluruh dunia ialah sebagai antitussive bukan narkotik untuk pelepasan batuk sementara. Baru-baru ini, dextromethorphan (dalam kombinasi dengan quinidine sebagai Nuedexta®) telah diluluskan untuk **pseudobulbar affect (PBA)**, menunjukkan bahawa molekul ini mempunyai aktiviti CNS yang terbukti di luar penindasan batuk — satu fakta yang boleh, pada dasarnya, menyokong hipotesis penurunan tujuan masa depan dalam petunjuk neurologi atau psikiatri.
 
 ---
 
-## Literature Evidence
+## Bukti Percubaan Klinis
 
-No predicted indication was generated; therefore, no targeted literature search was performed.
+Tiada ramalan petunjuk yang dijana; oleh itu, tiada carian percubaan klinis yang disasarkan telah dilakukan.
 
-> Currently no related literature available.
+> Pada masa ini tiada percubaan klinis yang berkaitan untuk dipaparkan.
 
 ---
 
-## Malaysia Market Information
+## Bukti Kesusasteraan
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+Tiada ramalan petunjuk yang dijana; oleh itu, tiada carian kesusasteraan yang disasarkan telah dilakukan.
+
+> Pada masa ini tiada kesusasteraan yang berkaitan tersedia.
+
+---
+
+## Maklumat Pasaran Malaysia
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjuk yang Diluluskan |
 |---------|------|------|-----------|
-| *(not captured)* | *(not captured)* | *(not captured)* | *(not captured)* |
+| *(tidak ditangkap)* | *(tidak ditangkap)* | *(tidak ditangkap)* | *(tidak ditangkap)* |
 
-> **Note:** 35 product registrations were identified in the NPRA database, but the detailed licence-level data (authorization numbers, product names, dosage forms, and approved indication text) has not yet been captured into the evidence pack. All five licence slots are currently empty.
+> **Nota:** 35 pendaftaran produk telah dikenal pasti dalam pangkalan data NPRA, tetapi data peringkat lesen yang terperinci (nombor kebenaran, nama produk, bentuk dos, dan teks petunjuk yang diluluskan) belum ditangkap ke dalam pakej bukti. Semua lima slot lesen pada masa ini kosong.
 
 ---
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-> Please refer to the package insert for safety information.
+> Sila rujuk sisipan pakej untuk maklumat keselamatan.
 >
-> Key safety data (warnings, contraindications, and drug interactions) could not be retrieved in this evidence collection cycle. This is classified as a **Blocking** data gap (DG001) that must be resolved before proceeding to Stage 1 safety evaluation.
+> Data keselamatan utama (amaran, kontraindikasi, dan interaksi ubat) tidak dapat diperolehi dalam kitaran pengumpulan bukti ini. Ini diklasifikasikan sebagai jurang data **Menyekat** (DG001) yang mesti diselesaikan sebelum meneruskan ke penilaian keselamatan Peringkat 1.
 
 ---
 
-## Data Gaps Summary
+## Ringkasan Jurang Data
 
-The following unresolved data gaps were identified and must be addressed before this candidate can be re-evaluated:
+Jurang data yang tidak diselesaikan berikut telah dikenal pasti dan mesti ditangani sebelum calon ini dapat dinilai semula:
 
-| Gap ID | Category | Item | Severity | Remediation |
+| ID Jurang | Kategori | Item | Keterukan | Pemulihan |
 |--------|----------|------|----------|-------------|
-| DG001 | Drug Level | Package insert warnings & contraindications | **Blocking** | Download and parse package insert PDF from TFDA website |
-| DG002 | Drug Level | Mechanism of action (MOA) | High | Query DrugBank API (expected ID: DB00514) |
-| — | Drug Level | DrugBank ID mapping | High | Confirm mapping to DB00514 and re-run prediction pipeline |
-| — | Drug Level | Original indication text | Medium | Extract from licence records |
-| — | Regulatory | Licence details (all 35 records) | Medium | Re-query NPRA database with full field extraction |
+| DG001 | Tahap Ubatan | Amaran sisipan pakej & kontraindikasi | **Menyekat** | Muat turun dan susuli PDF sisipan pakej dari laman web TFDA |
+| DG002 | Tahap Ubatan | Mekanisme tindakan (MOA) | Tinggi | Pertanyaan API DrugBank (ID yang dijangka: DB00514) |
+| — | Tahap Ubatan | Pemetaan ID DrugBank | Tinggi | Sahkan pemetaan ke DB00514 dan jalankan semula saluran paip ramalan |
+| — | Tahap Ubatan | Teks petunjuk asal | Sederhana | Ekstrak daripada rekod lesen |
+| — | Kawal Selia | Butiran lesen (semua 35 rekod) | Sederhana | Pertanyaan semula pangkalan data NPRA dengan pengekstrakan medan penuh |
 
 ---
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-No repurposing prediction was generated by TxGNN, most likely because the DrugBank ID mapping is missing (`null`), which prevents the drug from being located in the knowledge graph. Additionally, blocking data gaps in safety labelling make it impossible to proceed to safety evaluation. This candidate cannot be evaluated until upstream data issues are resolved.
+**Alasan:**
+Tiada ramalan penurunan tujuan yang dijana oleh TxGNN, kemungkinan besar kerana pemetaan ID DrugBank hilang (`null`), yang menghalang ubatan daripada ditemukan dalam graf pengetahuan. Selain itu, jurang data penyekat dalam pelabelan keselamatan menjadikan mustahil untuk meneruskan ke penilaian keselamatan. Calon ini tidak dapat dinilai sehingga isu data huluan diselesaikan.
 
-**To proceed, the following is needed:**
-- **Resolve DrugBank ID mapping** — Confirm that dextromethorphan hydrobromide maps to DrugBank ID `DB00514` and re-inject into the prediction pipeline
-- **Re-run TxGNN prediction** — Once the DrugBank ID is mapped, re-execute both KG and DL prediction methods
-- **Retrieve package insert safety data** (DG001) — Download the Malaysian/Taiwan package insert PDF and extract warnings, contraindications, and interaction data
-- **Query DrugBank API for MOA** (DG002) — Populate the mechanism of action field to enable mechanistic plausibility analysis
-- **Complete licence-level data extraction** — Capture authorization numbers, product names, dosage forms, and approved indications for the 35 registered products
+**Untuk meneruskan, perkara berikut diperlukan:**
+- **Selesaikan pemetaan ID DrugBank** — Sahkan bahawa dextromethorphan hydrobromide memetakan ke ID DrugBank `DB00514` dan suntik semula ke dalam saluran paip ramalan
+- **Jalankan semula ramalan TxGNN** — Apabila ID DrugBank dipetakan, jalankan semula kedua-dua kaedah ramalan KG dan DL
+- **Ambil data keselamatan sisipan pakej** (DG001) — Muat turun PDF sisipan pakej Malaysia/Taiwan dan ekstrak amaran, kontraindikasi, dan data interaksi
+- **Pertanyaan API DrugBank untuk MOA** (DG002) — Isi medan mekanisme tindakan untuk membolehkan analisis kebolehpercayaan mekanik
+- **Selesaikan pengekstrakan data peringkat lesen** — Tangkap nombor kebenaran, nama produk, bentuk dos, dan petunjuk yang diluluskan untuk 35 produk berdaftar
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,102 +29,101 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Abemaciclib (DB12001): Drug Repurposing Evaluation — TxGNN Predictions Pending
+# Abemaciclib (DB12001): Penilaian Repurposing Ubat — Ramalan TxGNN Tertunda
 
 ---
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Abemaciclib is a selective CDK4/6 inhibitor currently marketed in Malaysia for breast cancer treatment.
-The current Evidence Pack contains **no TxGNN-predicted new indications**, and critical data including mechanism of action, approved indication text, and safety warnings are all listed as unresolved data gaps.
-A complete repurposing evaluation **cannot be performed** until these gaps are resolved.
+Abemaciclib adalah penghambat CDK4/6 selektif yang sedang dipasarkan di Malaysia untuk rawatan kanser payudara. Evidence Pack semasa mengandungi **tiada petunjukan baru yang diramalkan oleh TxGNN**, dan data kritikal termasuk mekanisme tindakan, teks petunjuk yang diluluskan, dan amaran keselamatan semuanya disenaraikan sebagai jurang data yang belum diselesaikan. Penilaian repurposing lengkap **tidak dapat dilakukan** sehingga jurang ini diselesaikan.
 
 ---
 
-## Quick Overview
+## Gambaran Ringkas
 
-| Item | Content |
-|------|---------|
-| Original Indication | Details pending (license text not returned in current data pull) |
-| Predicted New Indication | No predictions available |
-| TxGNN Prediction Score | — |
-| Evidence Level | L5 (model predictions not yet generated) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
-| Recommended Decision | **Hold** |
-
----
-
-## Why Is This Prediction Reasonable?
-
-There are currently **no TxGNN-predicted new indications** for Abemaciclib in this Evidence Pack. Without a target indication, a mechanistic rationale for repurposing cannot be constructed.
-
-Abemaciclib is known to function as a selective inhibitor of cyclin-dependent kinases 4 and 6 (CDK4/6), which are key regulators of the G1-to-S cell cycle transition. CDK4/6 inhibition results in cell cycle arrest in cancer cells that retain an intact Rb (retinoblastoma protein) pathway. However, detailed MOA data has been flagged as a data gap (DG002) in the current pack, and without a predicted target indication, no mechanistic bridge analysis can be performed.
-
-Once TxGNN predictions are generated, the shared pathway biology between the original breast cancer indication and any new predicted indication can be systematically assessed. Given CDK4/6's broad involvement in proliferative signalling across multiple tumour types, repurposing opportunities across other solid tumours or haematological malignancies are plausible hypotheses to explore.
+| Perkara | Kandungan |
+|------|----------|
+| Petunjuk Asal | Butiran menunggu (teks lesen tidak dikembalikan dalam cabutan data semasa) |
+| Petunjukan Baru yang Diramalkan | Tiada ramalan tersedia |
+| Skor Ramalan TxGNN | — |
+| Paras Bukti | L5 (ramalan model belum dijana) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 3 |
+| Keputusan yang Disyorkan | **Tahan** |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-No predicted indication is available in the current Evidence Pack. Indication-specific clinical trial evidence cannot be presented at this stage.
+Pada masa ini **tiada petunjukan baru yang diramalkan oleh TxGNN** untuk Abemaciclib dalam Evidence Pack ini. Tanpa petunjukan sasaran, alasan mekanik untuk repurposing tidak dapat dibina.
 
----
+Abemaciclib diketahui berfungsi sebagai penghambat selektif kinase bergantung siklin 4 dan 6 (CDK4/6), yang merupakan pengawal utama transisi kitaran sel G1-to-S. Perencatan CDK4/6 menghasilkan penghentian kitaran sel dalam sel kanser yang mengekalkan laluan Rb (protein retinoblastoma) yang utuh. Walau bagaimanapun, data MOA terperinci telah ditandai sebagai jurang data (DG002) dalam bungkusan semasa, dan tanpa petunjukan sasaran yang diramalkan, tiada analisis jambatan mekanik yang dapat dilakukan.
 
-## Literature Evidence
-
-No predicted indication is available in the current Evidence Pack. Indication-specific literature evidence cannot be presented at this stage.
+Apabila ramalan TxGNN dijana, biologi laluan yang dikongsi antara petunjukan kanser payudara asal dan mana-mana petunjukan baru yang diramalkan boleh dinilai secara sistematik. Memandangkan penglibatan CDK4/6 yang luas dalam isyarat proliferatif merentasi pelbagai jenis tumor, peluang repurposing merentasi tumor pepejal lain atau keganasan hematologi adalah hipotesis yang munasabah untuk diterokai.
 
 ---
 
-## Malaysia Market Information
+## Bukti Ujian Klinikal
 
-The NPRA query (2026-03-27) confirmed **3 active registrations**. However, the current data pull did not return detailed product records (authorization numbers, product names, dosage forms, or approved indication text). A supplementary NPRA data pull is required.
-
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|----------------------|--------------|-------------|---------------------|
-| — | — | — | Details pending |
-
-> **Note:** 3 registrations confirmed via NPRA query. Full details require re-query or manual retrieval from the NPRA portal.
+Tiada petunjukan yang diramalkan tersedia dalam Evidence Pack semasa. Bukti ujian klinikal khusus petunjukan tidak dapat dibentangkan pada peringkat ini.
 
 ---
 
-## Cytotoxicity
+## Bukti Literatur
 
-Abemaciclib is an antineoplastic targeted therapy (CDK4/6 inhibitor class), and the following summarises its cytotoxicity profile based on drug class characteristics.
-
-| Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Targeted therapy — selective CDK4/6 inhibitor (not conventional cytotoxic) |
-| Myelosuppression Risk | Moderate — neutropenia is the most commonly reported haematological adverse event for this drug class |
-| Emetogenicity Classification | Low |
-| Monitoring Items | CBC with differential count, liver function tests (ALT/AST), renal function, serum creatinine; monitor for diarrhoea and venous thromboembolism |
-| Handling Protection | Follow institutional guidelines for targeted oral oncology agents; standard precautions apply |
+Tiada petunjukan yang diramalkan tersedia dalam Evidence Pack semasa. Bukti literatur khusus petunjukan tidak dapat dibentangkan pada peringkat ini.
 
 ---
 
-## Safety Considerations
+## Maklumat Pasaran Malaysia
 
-Safety data (key warnings and contraindications) were not available in the current Evidence Pack and are flagged as a blocking data gap (DG001). No drug-drug interactions were identified in the DDI query.
+Pertanyaan NPRA (2026-03-27) mengesahkan **3 pendaftaran aktif**. Walau bagaimanapun, cabutan data semasa tidak mengembalikan rekod produk terperinci (nombor kebenaran, nama produk, bentuk dos, atau teks petunjukan yang diluluskan). Cabutan data NPRA susulan diperlukan.
 
-> Please refer to the approved NPRA package insert for complete safety information.
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjukan yang Diluluskan |
+|-----------------|------------|-----------|--------------------------|
+| — | — | — | Butiran menunggu |
+
+> **Catatan:** 3 pendaftaran disahkan melalui pertanyaan NPRA. Butiran penuh memerlukan re-pertanyaan atau pengambilan manual dari portal NPRA.
 
 ---
 
-## Conclusion and Next Steps
+## Sitotoksisiti
 
-**Decision: Hold**
+Abemaciclib adalah terapi antineoplastik yang disasarkan (kelas penghambat CDK4/6), dan berikut merangkum profil sitotoksisiti berdasarkan ciri-ciri kelas ubat.
 
-**Rationale:**
-The Evidence Pack for Abemaciclib (DB12001) is critically incomplete — TxGNN predictions have not yet been generated, and two unresolved data gaps (DG001: NPRA package insert warnings/contraindications; DG002: mechanism of action) block both the safety pre-screening and the mechanistic plausibility analysis. No repurposing evaluation can be completed in this state.
+| Perkara | Kandungan |
+|------|----------|
+| Klasifikasi Sitotoksisiti | Terapi yang disasarkan — penghambat CDK4/6 selektif (bukan sitotoksik konvensional) |
+| Risiko Myelosuppression | Sederhana — neutropenia adalah peristiwa keburukan hematologi yang paling biasa dilaporkan untuk kelas ubat ini |
+| Klasifikasi Emetogenisiti | Rendah |
+| Item Pemantauan | CBC dengan kiraan pembezaan, ujian fungsi hati (ALT/AST), fungsi buah pinggang, kreatinin serum; pantau untuk diare dan tromboembolisme vena |
+| Perlindungan Pengendalian | Ikuti garis panduan institusional untuk agen onkologi lisan yang disasarkan; amalan piawai berlaku |
 
-**To proceed, the following is needed:**
+---
 
-- **[DG001 — Blocking]** Download and parse the NPRA package insert PDF to extract approved indication text, key warnings, and contraindications
-- **[DG002 — High]** Query the DrugBank API (DB12001) to retrieve detailed mechanism of action data
-- **[TxGNN Predictions]** Complete the TxGNN prediction run for Abemaciclib and populate `predicted_indications`
-- **[License Details]** Re-run the NPRA data pull to retrieve full product names, dosage forms, and authorization numbers for all 3 registered products
-- **Re-issue Evidence Pack** after resolving DG001 and DG002 to enable full evaluation
+## Pertimbangan Keselamatan
+
+Data keselamatan (amaran utama dan kontraindikasi) tidak tersedia dalam Evidence Pack semasa dan ditandai sebagai jurang data yang menghalang (DG001). Tiada interaksi ubat-ubat dikenal pasti dalam pertanyaan DDI.
+
+> Sila rujuk sisipan bungkus NPRA yang diluluskan untuk maklumat keselamatan lengkap.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Evidence Pack untuk Abemaciclib (DB12001) sangat tidak lengkap — ramalan TxGNN belum dijana, dan dua jurang data yang belum diselesaikan (DG001: amaran/kontraindikasi bungkus NPRA; DG002: mekanisme tindakan) menghalang kedua-dua pra-saringan keselamatan dan analisis kebolehpercayaan mekanik. Tiada penilaian repurposing boleh diselesaikan dalam keadaan ini.
+
+**Untuk meneruskan, berikut diperlukan:**
+
+- **[DG001 — Menghalang]** Muat turun dan analisis PDF sisipan bungkus NPRA untuk mengekstrak teks petunjukan yang diluluskan, amaran utama, dan kontraindikasi
+- **[DG002 — Tinggi]** Pertanyaan API DrugBank (DB12001) untuk mendapatkan data mekanisme tindakan terperinci
+- **[Ramalan TxGNN]** Jalankan ramalan TxGNN untuk Abemaciclib dan isikan `predicted_indications`
+- **[Butiran Lesen]** Jalankan semula cabutan data NPRA untuk mendapatkan nama produk penuh, bentuk dos, dan nombor kebenaran untuk semua 3 produk yang didaftarkan
+- **Re-isu Evidence Pack** selepas menyelesaikan DG001 dan DG002 untuk membolehkan penilaian penuh
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

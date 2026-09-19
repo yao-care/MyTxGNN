@@ -29,93 +29,94 @@ Tahap bukti: **L2** | Indikasi diramal: **10**
 
 </div>
 
-# Imatinib: From Chronic Myeloid Leukemia/GIST to Dermatofibrosarcoma Protuberans
+# Imatinib: Dari Leukemia Mieloid Kronik/GIST ke Dermatofibrosarcoma Protuberans
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Imatinib is a BCR-ABL/KIT/PDGFR tyrosine kinase inhibitor originally developed for chronic myeloid leukemia and gastrointestinal stromal tumors (GIST), as referenced in the evidence pack's trial records. The TxGNN model predicts it may be effective for **Dermatofibrosarcoma Protuberans (DFSP)**, with **9 clinical trials** and **20 publications** currently supporting this direction — notably, this is already an FDA/EMA-approved use of imatinib in other jurisdictions.
+Imatinib adalah penghambat kinase tirosin BCR-ABL/KIT/PDGFR yang awalnya dikembangkan untuk leukemia mieloid kronik dan tumor stromal gastrointestinal (GIST), sebagaimana dirujuk dalam rekam jejak uji coba dalam paket bukti. Model TxGNN memprediksi bahwa imatinib mungkin efektif untuk **Dermatofibrosarcoma Protuberans (DFSP)**, dengan **9 uji klinis** dan **20 publikasi** saat ini mendukung arah ini — terutama, ini sudah merupakan penggunaan imatinib yang disetujui FDA/EMA di yurisdiksi lain.
 
-## Quick Overview
+## Ikhtisar Cepat
 
-| Item | Content |
-|------|------|
-| Original Indication | Not specified in TFDA license data (Data Gap DG001); imatinib's globally-approved indications include CML and GIST, per trial documentation in this evidence pack |
-| Predicted New Indication | Dermatofibrosarcoma Protuberans |
-| TxGNN Prediction Score | 99.99% |
-| Evidence Level | L2 |
-| Market Status (Taiwan, TFDA) | ✓ Marketed |
-| Number of Registrations | 22 |
-| Recommended Decision | Proceed with Guardrails |
+| Item | Isi |
+|------|-----|
+| Indikasi Asli | Tidak ditentukan dalam data lisensi TFDA (Kesenjangan Data DG001); indikasi yang disetujui imatinib secara global meliputi leukemia mieloid kronik dan GIST, menurut dokumentasi uji coba dalam paket bukti ini |
+| Indikasi Baru yang Diprediksi | Dermatofibrosarcoma Protuberans |
+| Skor Prediksi TxGNN | 99.99% |
+| Tingkat Bukti | L2 |
+| Status Pasar (Taiwan, TFDA) | ✓ Dipasarkan |
+| Jumlah Pendaftaran | 22 |
+| Keputusan yang Direkomendasikan | Lanjutkan dengan Pembatas |
 
-## Why is This Prediction Reasonable?
+## Mengapa Prediksi Ini Masuk Akal?
 
-Detailed mechanism-of-action data for this drug record is not available (Data Gap DG002). However, the evidence pack's own repurposing rationale documents that imatinib is a small-molecule tyrosine kinase inhibitor targeting BCR-ABL, KIT, and PDGFR (α/β).
+Data mekanisme kerja terperinci untuk catatan obat ini tidak tersedia (Kesenjangan Data DG002). Namun, paket bukti itu sendiri mendokumentasikan rasio penjualan ulang bahwa imatinib adalah penghambat kinase tirosin molekul kecil yang menargetkan BCR-ABL, KIT, dan PDGFR (α/β).
 
-DFSP is driven by the t(17;22)(q22;q13) translocation, producing a COL1A1-PDGFB fusion gene that causes constitutive activation of PDGFRB signaling. Because imatinib directly inhibits PDGFRB, it blocks the core oncogenic driver of this tumor — a mechanistic fit that is unusually direct for a repurposing candidate.
+DFSP didorong oleh translokasi t(17;22)(q22;q13), menghasilkan gen fusi COL1A1-PDGFB yang menyebabkan aktivasi konstitutif signaling PDGFRB. Karena imatinib secara langsung menghambat PDGFRB, ini memblokir pendorong onkogenik inti dari tumor ini — kecocokan mekanistik yang sangat langsung untuk kandidat penjualan ulang.
 
-This is not a purely theoretical extrapolation: imatinib already holds regulatory approval in the US and EU for unresectable, metastatic, or recurrent DFSP, based on multiple single-arm Phase 1/2 trials rather than a large Phase 3 RCT. That is why the evidence is scored L2 (strong clinical support, but not the L1 bar of ≥2 completed Phase 3 RCTs) — in clinical practice, the strength of this evidence is generally regarded as close to definitive for this rare tumor type.
+Ini bukan ekstrapolasi murni teoritis: imatinib sudah memegang persetujuan regulasi di AS dan UE untuk DFSP yang tidak dapat direseksi, metastasis, atau berulang, berdasarkan beberapa uji klinis Fase 1/2 lengan tunggal daripada uji coba Fase 3 RCT besar. Itulah mengapa bukti ini dinilai L2 bukan L1 hanya karena persetujuan bergantung pada uji coba Fase 1/2 lengan tunggal, bukan RCT Fase 3 head-to-head — pembatas ini mencerminkan kesenjangan tersebut, bukan keraguan tentang mekanisme.
 
-## Clinical Trial Evidence
+## Bukti Uji Klinis
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nomor Uji Coba | Fase | Status | Pendaftaran | Temuan Utama |
 |---------|------|------|------|---------|
-| [NCT00084630](https://clinicaltrials.gov/study/NCT00084630) | Phase 2 | Completed | 40 | Imatinib in locally advanced/metastatic DFSP, including transformed fibrosarcomatous DFSP; DFSP-specific pivotal trial (Grade A) |
-| [NCT00122473](https://clinicaltrials.gov/study/NCT00122473) | Phase 1/2 | Completed | 30 | Open-label Glivec® in primary or recurrent DFSP; directly relevant (Grade A) |
-| [NCT00555581](https://clinicaltrials.gov/study/NCT00555581) | Phase 2A | Completed | 30 | Safety/tolerability study; notes imatinib is FDA-approved for CML, GIST, DFSP, Ph+ ALL, hypereosinophilic syndrome, and systemic mastocytosis (Grade A) |
-| [NCT00243191](https://clinicaltrials.gov/study/NCT00243191) | Phase 2 | Completed | 18 | Short-course neoadjuvant Gleevec in DFSP (Grade A) |
-| [NCT00154388](https://clinicaltrials.gov/study/NCT00154388) | Phase 2 | Completed | 185 | Broad rare-tumor basket trial including DFSP; not DFSP-specific but large cohort (Grade B) |
-| [NCT01046487](https://clinicaltrials.gov/study/NCT01046487) | Phase 1 | Completed | 26 | Imatinib + metronomic cyclophosphamide dose-escalation in rare tumors incl. soft tissue sarcoma/DFSP (Grade B) |
-| [NCT00171912](https://clinicaltrials.gov/study/NCT00171912) | Phase 2 | Completed | 38 | Imatinib across malignancies with activated tyrosine kinases; DFSP as subgroup (Grade B) |
-| [NCT00085475](https://clinicaltrials.gov/study/NCT00085475) | Phase 2 | Completed | 17 | Glivec in soft tissue sarcomas expressing COL1A1/PDGF-β fusion (DFSP and giant cell fibroblastoma) (Grade B) |
-| [NCT01059656](https://clinicaltrials.gov/study/NCT01059656) | Phase 2a | Terminated | 23 | Pazopanib (not imatinib) in unresectable DFSP; mechanistic analogy only (Grade C) |
+| [NCT00084630](https://clinicaltrials.gov/study/NCT00084630) | Fase 2 | Selesai | 40 | Imatinib dalam DFSP tersebar lokal/metastasis, termasuk DFSP yang berubah menjadi fibrosarkoma; uji coba penting spesifik DFSP (Grade A) |
+| [NCT00122473](https://clinicaltrials.gov/study/NCT00122473) | Fase 1/2 | Selesai | 30 | Imatinib dosis terbuka dalam DFSP primer atau berulang; langsung relevan (Grade A) |
+| [NCT00555581](https://clinicaltrials.gov/study/NCT00555581) | Fase 2A | Selesai | 30 | Studi keamanan/tolerabilitas; mencatat bahwa imatinib disetujui FDA untuk leukemia mieloid kronik, GIST, DFSP, Ph+ ALL, sindrom hipereosinofil, dan mastositosis sistemik (Grade A) |
+| [NCT00243191](https://clinicaltrials.gov/study/NCT00243191) | Fase 2 | Selesai | 18 | Imatinib neoadjuvan kursus pendek dalam DFSP (Grade A) |
+| [NCT00154388](https://clinicaltrials.gov/study/NCT00154388) | Fase 2 | Selesai | 185 | Uji coba keranjang tumor langka luas termasuk DFSP; bukan spesifik DFSP tetapi kohort besar (Grade B) |
+| [NCT01046487](https://clinicaltrials.gov/study/NCT01046487) | Fase 1 | Selesai | 26 | Eskalasi dosis imatinib + siklofosfamid metronomik dalam tumor langka termasuk sarkoma jaringan lunak/DFSP (Grade B) |
+| [NCT00171912](https://clinicaltrials.gov/study/NCT00171912) | Fase 2 | Selesai | 38 | Imatinib di seluruh keganasan dengan kinase tirosin teraktivasi; DFSP sebagai subgrup (Grade B) |
+| [NCT00085475](https://clinicaltrials.gov/study/NCT00085475) | Fase 2 | Selesai | 17 | Imatinib dalam sarkoma jaringan lunak yang mengekspresikan fusi COL1A1/PDGF-β (DFSP dan fibrobastoma sel raksasa) (Grade B) |
+| [NCT01059656](https://clinicaltrials.gov/study/NCT01059656) | Fase 2a | Dihentikan | 23 | Pazopanib (bukan imatinib) dalam DFSP yang tidak dapat direseksi; hanya analogi mekanistik (Grade C) |
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Tipe | Jurnal | Temuan Utama |
 |------|-----|------|------|---------|
-| [30601909](https://pubmed.ncbi.nlm.nih.gov/30601909/) | 2019 | Systematic Review | JAMA Dermatology | Systematic review of imatinib treatment for locally advanced/metastatic DFSP |
-| [39904126](https://pubmed.ncbi.nlm.nih.gov/39904126/) | 2025 | Guideline | European Journal of Cancer | European multidisciplinary (EADO/EDF/UEMS/EADV) interdisciplinary guideline update on DFSP diagnosis and treatment |
-| [41042442](https://pubmed.ncbi.nlm.nih.gov/41042442/) | 2025 | Review | Current Treatment Options in Oncology | Current treatments and clinical trials for DFSP, including imatinib's role |
-| [27608549](https://pubmed.ncbi.nlm.nih.gov/27608549/) | 2017 | Translational Study | Journal of Investigative Dermatology | Gene expression/immunohistochemistry study of imatinib-induced senescence in fibrosarcomatous DFSP |
-| [33449152](https://pubmed.ncbi.nlm.nih.gov/33449152/) | 2021 | Review | Cellular and Molecular Life Sciences | PDGFRB mutations as oncogenic drivers relevant to DFSP and related disorders |
-| [28988501](https://pubmed.ncbi.nlm.nih.gov/28988501/) | 2017 | Expert Review | Expert Review of Anticancer Therapy | DFSP and GIST as models for targeted therapy in soft tissue sarcomas |
-| [31466588](https://pubmed.ncbi.nlm.nih.gov/31466588/) | 2019 | Review | Dermatologic Clinics | Overview of DFSP clinical features, histology, and systemic therapy options |
-| [28795284](https://pubmed.ncbi.nlm.nih.gov/28795284/) | 2017 | Review | Current Treatment Options in Oncology | Multidisciplinary approach to DFSP management |
-| [22285046](https://pubmed.ncbi.nlm.nih.gov/22285046/) | 2012 | Review | Actas Dermo-Sifiliográficas | COL1A1-PDGFB translocation and its diagnostic/therapeutic implications |
-| [41032154](https://pubmed.ncbi.nlm.nih.gov/41032154/) | 2025 | Review | Current Treatment Options in Oncology | Diagnostics and molecular pathology of DFSP |
+| [30601909](https://pubmed.ncbi.nlm.nih.gov/30601909/) | 2019 | Tinjauan Sistemik | JAMA Dermatology | Tinjauan sistemik pengobatan imatinib untuk DFSP tersebar lokal/metastasis |
+| [39904126](https://pubmed.ncbi.nlm.nih.gov/39904126/) | 2025 | Pedoman | European Journal of Cancer | Pembaruan pedoman multidisiplin Eropa (EADO/EDF/UEMS/EADV) interdisiplin tentang diagnosis dan pengobatan DFSP |
+| [41042442](https://pubmed.ncbi.nlm.nih.gov/41042442/) | 2025 | Tinjauan | Current Treatment Options in Oncology | Perawatan saat ini dan uji klinis untuk DFSP, termasuk peran imatinib |
+| [27608549](https://pubmed.ncbi.nlm.nih.gov/27608549/) | 2017 | Studi Translasional | Journal of Investigative Dermatology | Studi ekspresi gen/imunohistokimia senescence yang diinduksi imatinib dalam DFSP fibrosarkomatosa |
+| [33449152](https://pubmed.ncbi.nlm.nih.gov/33449152/) | 2021 | Tinjauan | Cellular and Molecular Life Sciences | Mutasi PDGFRB sebagai pendorong onkogenik yang relevan untuk DFSP dan gangguan terkait |
+| [28988501](https://pubmed.ncbi.nlm.nih.gov/28988501/) | 2017 | Ulasan Ahli | Expert Review of Anticancer Therapy | DFSP dan GIST sebagai model untuk terapi bertarget dalam sarkoma jaringan lunak |
+| [31466588](https://pubmed.ncbi.nlm.nih.gov/31466588/) | 2019 | Tinjauan | Dermatologic Clinics | Ikhtisar fitur klinis DFSP, histologi, dan pilihan terapi sistemik |
+| [28795284](https://pubmed.ncbi.nlm.nih.gov/28795284/) | 2017 | Tinjauan | Current Treatment Options in Oncology | Pendekatan multidisiplin untuk penatalaksanaan DFSP |
+| [22285046](https://pubmed.ncbi.nlm.nih.gov/22285046/) | 2012 | Tinjauan | Actas Dermo-Sifiliográficas | Translokasi COL1A1-PDGFB dan implikasinya untuk diagnostik/terapi |
+| [41032154](https://pubmed.ncbi.nlm.nih.gov/41032154/) | 2025 | Tinjauan | Current Treatment Options in Oncology | Diagnostik dan patologi molekuler DFSP |
 
-## Market Information
+## Informasi Pasar
 
-TFDA/NPRA regulatory data confirms **22 registered licenses** with market status "Marketed" (Marketed), but individual license fields (license number, product name, manufacturer, approved indication text) are blank in this data pack — this is tracked as Blocking Data Gap **DG001** (TFDA label/warnings not yet retrieved). A full license-level breakdown cannot be presented until this gap is remediated.
+Data regulasi TFDA/NPRA mengkonfirmasi **22 lisensi terdaftar** dengan status pasar "Dipasarkan", tetapi bidang lisensi individual (nomor lisensi, nama produk, manufaktur, teks indikasi yang disetujui) kosong dalam paket data ini — ini dilacak sebagai Kesenjangan Data Pemblokir **DG001** (label/peringatan TFDA belum diambil). Rincian tingkat lisensi lengkap tidak dapat disajikan sampai kesenjangan ini diperbaiki.
 
-## Cytotoxicity
+## Sitotoksisitas
 
-Imatinib is an antineoplastic agent (targeted small-molecule kinase inhibitor), so this section applies.
+Imatinib adalah agen antineoplastik (penghambat kinase tirosin molekul kecil yang ditargetkan), jadi bagian ini berlaku.
 
-| Item | Content |
+| Item | Isi |
 |------|------|
-| Cytotoxicity Classification | Targeted therapy (tyrosine kinase inhibitor targeting BCR-ABL/KIT/PDGFR) |
-| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
-| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | Please refer to the package insert warnings and precautions |
-| Handling Protection | Please refer to the package insert warnings and precautions |
+| Klasifikasi Sitotoksisitas | Terapi bertarget (penghambat kinase tirosin menargetkan BCR-ABL/KIT/PDGFR) |
+| Risiko Supresi Sumsum Tulang | Silakan lihat peringatan dan tindakan pencegahan kemasan insert |
+| Klasifikasi Emetogenisitas | Silakan lihat peringatan dan tindakan pencegahan kemasan insert |
+| Item Pemantauan | Silakan lihat peringatan dan tindakan pencegahan kemasan insert |
+| Perlindungan Penanganan | Silakan lihat peringatan dan tindakan pencegahan kemasan insert |
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Silakan lihat kemasan insert untuk informasi keselamatan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Berikutnya
 
-**Decision: Proceed with Guardrails**
+**Keputusan: Lanjutkan dengan Pembatas**
 
-**Rationale:**
-Four Grade-A, DFSP-specific completed trials (NCT00084630, NCT00122473, NCT00555581, NCT00243191) plus a dedicated systematic review and a 2025 international guideline directly support imatinib's activity in DFSP, and this indication is already regulatory-approved elsewhere. Evidence level is L2 rather than L1 only because approval rested on single-arm Phase 1/2 trials, not head-to-head Phase 3 RCTs — the guardrail reflects that gap, not doubt about the mechanism.
+**Rasio:**
+Empat uji coba lengkap Grade-A spesifik DFSP (NCT00084630, NCT00122473, NCT00555581, NCT00243191) ditambah tinjauan sistemik khusus dan pedoman internasional 2025 secara langsung mendukung aktivitas imatinib dalam DFSP, dan indikasi ini sudah disetujui secara regulasi di tempat lain. Tingkat bukti adalah L2 bukan L1 hanya karena persetujuan bergantung pada uji coba Fase 1/2 lengan tunggal, bukan RCT Fase 3 head-to-head — pembatas mencerminkan kesenjangan itu, bukan keraguan tentang mekanisme.
 
-**To proceed, the following is needed:**
-- TFDA package insert (warnings/contraindications) — Blocking gap DG001
-- DrugBank-sourced MOA and full safety/DDI profile — High-priority gap DG002
-- Taiwan-specific license and approved-indication text (currently blank in this pack)
-- Confirmation of whether DFSP is within imatinib's currently approved Taiwan label, or would require off-label/expanded-access pathway
+**Untuk melanjutkan, berikut diperlukan:**
+- Kemasan insert TFDA (peringatan/kontraindikasi) — Kesenjangan pemblokir DG001
+- Profil MOA bersumber DrugBank dan keamanan penuh/DDI — Kesenjangan prioritas tinggi DG002
+- Lisensi Taiwan spesifik dan teks indikasi yang disetujui (saat ini kosong dalam paket ini)
+- Konfirmasi apakah DFSP berada dalam label Taiwan yang saat ini disetujui imatinib, atau akan memerlukan jalur penggunaan di luar label/akses yang diperluas
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

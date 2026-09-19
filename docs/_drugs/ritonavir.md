@@ -29,71 +29,72 @@ Tahap bukti: **L4** | Indikasi diramal: **3**
 
 </div>
 
-# Ritonavir: From HIV-1 Infection to Feline Acquired Immunodeficiency Syndrome
+# Ritonavir: Daripada Jangkitan HIV-1 kepada Sindrom Kekurangan Imuniti yang Diperolehi dalam Kucing
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Ritonavir is a well-established HIV-1 protease inhibitor, most often used today as a pharmacokinetic booster in combination antiretroviral regimens. TxGNN's top-ranked prediction — **feline acquired immunodeficiency syndrome (FIV)** — appears to be a disease-ontology string-matching artifact ("...immunodeficiency syndrome") rather than a genuine mechanistic signal, and its only linked clinical trial is unrelated (human HIV-1 patients, not cats). None of the three candidates in this evidence pack currently support moving forward.
+Ritonavir adalah perencat protease HIV-1 yang telah ditubuhkan dengan baik, paling sering digunakan hari ini sebagai pemerkuat farmakokinetik dalam rejimen antiretroviral gabungan. Ramalan kedudukan teratas TxGNN — **sindrom kekurangan imuniti yang diperolehi dalam kucing (FIV)** — nampaknya merupakan artifak padanan rentetan ontologi penyakit ("...sindrom kekurangan imuniti") daripada isyarat mekanik yang tulin, dan satu-satunya ujian klinikal yang dipautkan adalah tidak relevan (pesakit HIV-1 manusia, bukan kucing). Tiada satu pun daripada tiga calon dalam pakej bukti ini yang kini menyokong untuk bergerak ke hadapan.
 
-## Quick Overview
+## Ringkasan Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | Not available in current dataset (TFDA label pending — see Data Gap DG001) |
-| Predicted New Indication | Feline acquired immunodeficiency syndrome |
-| TxGNN Prediction Score | 99.92% |
-| Evidence Level | L4 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 12 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Tidak tersedia dalam set data semasa (label TFDA tergantung — lihat Jurang Data DG001) |
+| Ramalan Indikasi Baru | Sindrom kekurangan imuniti yang diperolehi dalam kucing |
+| Skor Ramalan TxGNN | 99.92% |
+| Tahap Bukti | L4 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 12 |
+| Keputusan Yang Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data is not available for this candidate (MOA field flagged as a High-severity data gap). Based on the supporting evidence in this pack, ritonavir is known as an HIV-1 protease inhibitor and CYP3A4 inhibitor; its efficacy in HIV-1 infection is well established, and mechanistically a related lentiviral protease target (feline immunodeficiency virus, FIV) could in principle be plausible.
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia untuk calon ini (medan MOA ditandakan sebagai jurang data tahap keterdesakan tinggi). Berdasarkan bukti sokongan dalam pakej ini, ritonavir diketahui sebagai perencat protease HIV-1 dan perencat CYP3A4; kebekalannya dalam jangkitan HIV-1 ditubuhkan dengan baik, dan secara mekanik sasaran protease lentivirus yang berkaitan (virus kekurangan imuniti kucing, FIV) pada dasarnya boleh dianggap munasabah.
 
-However, the evidence attached to this specific prediction does not support that link. The single linked clinical trial (NCT02770508) enrolled human HIV-1 patients on a boosted darunavir/lamivudine regimen — it has no connection to feline disease. The rationale notes explicitly that FIV and HIV-1 proteases are not structurally homologous, and there is no direct evidence that ritonavir inhibits FIV protease. This strongly suggests the prediction is driven by disease-label string overlap ("acquired immunodeficiency syndrome") in the knowledge graph rather than a real biological signal.
+Bagaimanapun, bukti yang dilampirkan pada ramalan khusus ini tidak menyokong pautan itu. Ujian klinikal tunggal yang dipautkan (NCT02770508) melibatkan pesakit HIV-1 **manusia** pada rejimen darunavir/lamivudina yang diperkuat — ia tidak mempunyai kaitan dengan penyakit kucing. Nota rasional secara eksplisit bahawa protease FIV dan HIV-1 tidak homolog secara struktur, dan tiada bukti langsung bahawa ritonavir menghambat protease FIV. Ini dengan kuat menunjukkan ramalan didorong oleh pertindihan label penyakit ("sindrom kekurangan imuniti yang diperolehi") dalam graf pengetahuan daripada isyarat biologi yang sebenar.
 
-A more mechanistically coherent (but still not human-relevant) candidate exists at rank 2: **simian immunodeficiency virus (SIV) infection**, where in vitro and animal-model literature confirms ritonavir has cross-reactive protease-inhibitory activity against SIV, consistent with its known HIV-1 mechanism. This is a re-confirmation of an already-known pharmacological effect in a non-human primate infection model, not a new human indication.
+Calon yang lebih koheren secara mekanik (tetapi masih tidak relevan dengan manusia) wujud di peringkat 2: **jangkitan virus kekurangan imuniti simian (SIV)**, di mana literatur in vitro dan model hewan mengesahkan ritonavir mempunyai aktiviti perencatan protease reaktif silang terhadap SIV, konsisten dengan mekanisme HIV-1 yang diketahuinya. Ini adalah pengesahan semula kesan farmakologi yang sudah diketahui dalam model jangkitan primata bukan manusia, bukan indikasi manusia yang baru.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT02770508](https://clinicaltrials.gov/study/NCT02770508) | Phase 4 | Completed | 145 | Compared ritonavir-boosted darunavir + lamivudine vs. boosted darunavir + FTC/TDF or 3TC/TDF in treatment-naïve **human** HIV-1 patients. Not relevant to feline disease — flagged as a likely disease-mapping artifact rather than supporting evidence. |
+| [NCT02770508](https://clinicaltrials.gov/study/NCT02770508) | Fasa 4 | Selesai | 145 | Membandingkan darunavir yang diperkuat ritonavir + lamivudina vs. darunavir yang diperkuat + FTC/TDF atau 3TC/TDF dalam pesakit HIV-1 yang naif terhadap rawatan. Tidak relevan dengan penyakit kucing — ditandakan sebagai artifak pemetaan penyakit yang mungkin daripada bukti sokongan. |
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-Currently no related literature available for this indication.
+Pada masa ini tiada kesusasteraan berkaitan yang tersedia untuk indikasi ini.
 
-## Additional Predicted Indications (Context, Not Primary)
+## Ramalan Indikasi Tambahan (Konteks, Bukan Utama)
 
-Two lower-priority TxGNN candidates were also returned and are worth noting for completeness, though both are also recommended **Hold**:
+Dua calon TxGNN kedudukan lebih rendah juga dikembalikan dan patut diperhatikan untuk kelengkapan, walaupun kedua-duanya juga disyorkan **Tahan**:
 
-- **Simian immunodeficiency virus infection** (rank 2, score 99.92%, L3/S1): 12 PubMed records support ritonavir's known cross-reactive anti-protease activity against SIV in vitro and in macaque ART-combination models. This confirms existing pharmacology in an animal infection model — it is not a novel human indication.
-- **Neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter** (rank 3, score 99.92%, L5/S0): a rare genetic white-matter disorder with no clinical, literature, or mechanistic link to ritonavir's known pharmacology — pure embedding-similarity output.
+- **Jangkitan virus kekurangan imuniti simian** (peringkat 2, skor 99.92%, L3/S1): 12 rekod PubMed menyokong aktiviti anti-protease reaktif silang yang diketahui ritonavir terhadap SIV secara in vitro dan dalam model kombinasi ART macaque. Ini mengesahkan farmakologi sedia ada dalam model jangkitan hewan — ia bukan indikasi manusia yang baru.
+- **Gangguan neurodevelopmental dengan ataxic gait, tiada pertuturan, dan penurunan substans putih kortikal** (peringkat 3, skor 99.92%, L5/S0): gangguan substans putih yang jarang dengan tiada kaitan klinikal, kesusasteraan, atau mekanik kepada farmakologi ritonavir yang diketahui — keluaran kesamaan pembenaman semata-mata.
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Ritonavir is registered in Malaysia with 12 active licenses (market status: ✓ Marketed), but individual license details (product name, dosage form, approved indication text) are not populated in the current dataset. This needs to be sourced from NPRA product listings before market-context claims can be made.
+Ritonavir didaftarkan di Malaysia dengan 12 lesen aktif (status pasaran: ✓ Dipasarkan), tetapi butiran lesen individu (nama produk, bentuk dos, teks indikasi yang diluluskan) tidak diisi dalam set data semasa. Ini perlu bersumber daripada penyenaraian produk NPRA sebelum tuntutan konteks pasaran dapat dibuat.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information. (TFDA warnings, contraindications, and drug interaction data are currently missing from this evidence pack — see Data Gap DG001, which is flagged as Blocking.)
+Sila rujuk sisipan pakej untuk maklumat keselamatan. (Amaran TFDA, kontraindikasi, dan data interaksi ubat kini tidak tersedia dalam pakej bukti ini — lihat Jurang Data DG001, yang ditandakan sebagai Penyekat.)
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-- The top-ranked prediction (feline AIDS) is most likely a disease-ontology mismatch, not a genuine repurposing signal, and its only clinical trial evidence is irrelevant.
-- The mechanistically credible candidate (SIV infection) only reconfirms ritonavir's known antiretroviral activity in a non-human animal model — it is not a new human indication.
-- Data Gap DG001 (TFDA label warnings/contraindications) is Blocking and prevents any Stage 1 safety evaluation regardless of indication.
+**Rasional:**
+- Ramalan kedudukan teratas (AIDS kucing) kemungkinan besar ialah ketidakpadanan ontologi penyakit, bukan isyarat penggunaan semula yang tulin, dan satu-satunya bukti ujian klinikal adalah tidak relevan.
+- Calon yang koheren secara mekanik (jangkitan SIV) hanya mengesahkan semula aktiviti antiretroviral ritonavir yang diketahui dalam model hewan bukan manusia — ia bukan indikasi manusia yang baru.
+- Jurang Data DG001 (amaran label TFDA/kontraindikasi) adalah Penyekat dan menghalang sebarang penilaian keselamatan Peringkat 1 tanpa mengira indikasi.
 
-**To proceed, the following is needed:**
-- Resolve DG001: obtain and parse the TFDA/NPRA package insert for warnings, contraindications, and DDI data
-- Resolve DG002: confirm ritonavir's MOA and CYP3A4 interaction profile via DrugBank
-- Correct the underlying disease-ontology mapping for "feline acquired immunodeficiency syndrome" in the TxGNN pipeline to prevent recurrence of this artifact
-- If pursuing any lentivirus-related angle, reassess against a genuine human indication rather than an animal infection model
+**Untuk bergerak ke hadapan, yang berikut diperlukan:**
+- Selesaikan DG001: perolehi dan analisis sisipan pakej TFDA/NPRA untuk amaran, kontraindikasi, dan data DDI
+- Selesaikan DG002: sahkan profil MOA ritonavir dan interaksi CYP3A4 melalui DrugBank
+- Betulkan pemetaan ontologi penyakit asas untuk "sindrom kekurangan imuniti yang diperolehi dalam kucing" dalam saluran TxGNN untuk menghalang pengulangan artifak ini
+- Jika mengejar sebarang sudut lentivirus yang berkaitan, nilai semula terhadap indikasi manusia yang tulin daripada model jangkitan hewan
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

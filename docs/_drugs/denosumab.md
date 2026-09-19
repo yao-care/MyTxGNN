@@ -29,56 +29,57 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Denosumab: From Osteoporosis to Severe Nonproliferative Diabetic Retinopathy
+# Denosumab: Daripada Osteoporosis kepada Retinopati Diabetes Nonproliferatif Teruk
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Denosumab is a RANKL-targeting monoclonal antibody originally used for osteoporosis and the prevention of skeletal-related events (e.g., in bone metastases). The TxGNN model predicts it may be effective for **Severe Nonproliferative Diabetic Retinopathy**, but this is currently a **pure model prediction (score 99.63%) with no supporting clinical trials or literature** identified to date.
+Denosumab adalah antibodi monoklonal yang menargetkan RANKL yang digunakan awalnya untuk osteoporosis dan pencegahan acara berkaitan kerangka (cth, dalam metastasis tulang). Model TxGNN meramalkan ia mungkin berkesan untuk **Retinopati Diabetes Nonproliferatif Teruk**, tetapi ini pada masa kini adalah **ramalan model tulen (skor 99.63%) tanpa ujian klinikal atau kesusasteraan sokongan** yang dikenalpasti setakat kini.
 
-## Quick Overview
+## Ikhtisar Pantas
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Osteoporosis / skeletal-related events (globally known use — local license text not available in this data pack) |
-| Predicted New Indication | Severe Nonproliferative Diabetic Retinopathy |
-| TxGNN Prediction Score | 99.63% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 6 |
-| Recommended Decision | Hold |
+| Petunjuk Asal | Osteoporosis / acara berkaitan kerangka (penggunaan yang diketahui secara global — teks lesen setempat tidak tersedia dalam pakej data ini) |
+| Petunjuk Baharu Diramalkan | Retinopati Diabetes Nonproliferatif Teruk |
+| Skor Ramalan TxGNN | 99.63% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 6 |
+| Keputusan yang Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on known information, denosumab is a fully human monoclonal antibody that inhibits RANKL (RANK ligand), thereby blocking osteoclast formation and activity; its efficacy in osteoporosis and prevention of skeletal-related events is well established and widely approved.
+Pada masa kini, data mekanisme tindakan terperinci tidak tersedia dalam pakej bukti ini. Berdasarkan maklumat yang diketahui, denosumab adalah antibodi monoklonal sepenuhnya manusia yang menghalang RANKL (RANK ligand), dengan itu menyekat pembentukan dan aktiviti osteoklas; keberkesan dalam osteoporosis dan pencegahan acara berkaitan kerangka adalah terbukti dengan baik dan diluluskan secara meluas.
 
-The link between denosumab and diabetic retinopathy rests on the RANK/RANKL/OPG signaling axis, which has been studied observationally as a biomarker pathway in diabetic vascular complications — elevated serum osteoprotegerin (OPG) has been associated with microvascular disease including retinopathy in some cohort studies. This is a **correlative biomarker association**, not an established causal or interventional mechanism, and the original indication (bone metabolism) and the predicted indication (retinal microvascular disease) are mechanistically distant beyond this shared signaling pathway.
+Pautan antara denosumab dan retinopati diabetes terletak pada paksi isyarat RANK/RANKL/OPG, yang telah dikaji secara pemerhatian sebagai laluan biopenanda dalam komplikasi vaskular diabetes — osteoprotegerin (OPG) serum yang meningkat telah dikaitkan dengan penyakit mikrovaskuler termasuk retinopati dalam beberapa kajian kohort. Ini adalah **perkaitan biopenanda korelatif**, bukan mekanisme kausal atau intervensi yang terbukti, dan petunjuk asal (metabolisme tulang) dan petunjuk yang diramalkan (penyakit mikrovaskuler retina) adalah jauh secara mekanistik di luar laluan isyarat bersama ini.
 
-Critically, this rationale applies to the broader category "diabetic retinopathy" (a related, lower-ranked prediction with score 99.23%, which has one real-world cohort/meta-analysis publication and one cross-sectional study, though relevance to this specific indication is still unverified). For the specific predicted indication reported here — **severe nonproliferative diabetic retinopathy** — there is no direct clinical trial or literature evidence at all; the prediction is derived purely from the TxGNN knowledge graph.
+Kritikalnya, rasional ini terpakai kepada kategori lebih luas "retinopati diabetes" (ramalan berkaitan, bertaraf lebih rendah dengan skor 99.23%, yang mempunyai satu publikasi kohort/meta-analisis dunia nyata dan satu kajian rentasan, walaupun kaitannya dengan petunjuk khusus ini masih belum disahkan). Untuk petunjuk khusus yang diramalkan yang dilaporkan di sini — **retinopati diabetes nonproliferatif teruk** — tidak ada bukti ujian klinikal atau kesusasteraan langsung sekalipun; ramalan ini berasal tulen daripada graf pengetahuan TxGNN.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-Currently no related clinical trials registered.
+Pada masa kini tiada ujian klinikal berkaitan yang didaftarkan.
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-Currently no related literature available.
+Pada masa kini tiada kesusasteraan berkaitan yang tersedia.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk risalah pembungkus untuk maklumat keselamatan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The prediction for severe nonproliferative diabetic retinopathy is supported only by a TxGNN knowledge-graph score (L5) with zero clinical trials or literature directly addressing this indication. In addition, a **blocking data gap** exists on local (NPRA) label warnings/contraindications, which prevents even a preliminary safety (S1) assessment.
+**Rasional:**
+Ramalan untuk retinopati diabetes nonproliferatif teruk disokong hanya oleh skor graf-pengetahuan TxGNN (L5) dengan sifar ujian klinikal atau kesusasteraan yang menangani petunjuk ini secara langsung. Sebagai tambahan, **kekosongan data penyekat** wujud pada amaran label setempat (NPRA)/kontraindikasi, yang menghalang walaupun penilaian keselamatan (S1) awal.
 
-**To proceed, the following is needed:**
-- NPRA-approved package insert (warnings, contraindications) — currently a blocking data gap (DG001)
-- Verified mechanism-of-action documentation from DrugBank or equivalent (DG002)
-- Targeted literature/clinical trial search for RANKL inhibition and retinal microvascular outcomes, ideally interventional rather than biomarker-association studies
-- Further evaluation of the related broader indication "diabetic retinopathy" (TxGNN score 99.23%), whose existing real-world cohort data has not yet been assessed for relevance
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Risalah pembungkus yang diluluskan NPRA (amaran, kontraindikasi) — pada masa kini kekosongan data penyekat (DG001)
+- Dokumentasi mekanisme-tindakan yang disahkan daripada DrugBank atau setara (DG002)
+- Carian kesusasteraan/ujian klinikal yang disasarkan untuk perencatan RANKL dan hasil mikrovaskuler retina, sebaiknya intervensi daripada kajian perkaitan-biopenanda
+- Penilaian selanjutnya bagi petunjuk lebih luas berkaitan "retinopati diabetes" (skor TxGNN 99.23%), yang data kohort dunia nyata yang sedia ada masih belum dinilai untuk kaitannya
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,64 +29,61 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-Using the general drug-repurposing evidence pack you provided (no specialized skill applies to this pure report-authoring task — it's a direct template-fill job), here is the evaluation report generated strictly from the fields present in the Evidence Pack, with clearly labeled data gaps where the pack is empty (per the "no [Data Gap] literal, no fabrication" rules).
+# Dutasteride: Daripada Hiperplasia Prostat Jinak hingga Hipertrikosis Universalis Kongenita Jenis Ambras
 
----
+## Ringkasan Satu Ayat
 
-# Dutasteride: From Benign Prostatic Hyperplasia to Ambras Type Hypertrichosis Universalis Congenita
+Dutasteride ialah penghambat 5α-reduktase ganda yang secara amnya diketahui digunakan untuk hiperplasia prostat jinak (BPH); teks indikasi yang diluluskan khusus Malaysia tidak tersedia dalam pakej bukti ini. Ramalan model TxGNN yang paling tinggi ialah **Hipertrikosis universalis kongenita jenis Ambras**, tetapi arah ini pada masa ini disokong oleh **0 uji klinikal** dan **0 penerbitan**, dan analisis mekanistik pakej itu sendiri menandakan arah biologi sebagai tidak konsisten dengan farmakoloji yang diketahui ubat.
 
-## One-Sentence Summary
+## Tinjauan Pantas
 
-Dutasteride is a dual 5α-reductase inhibitor generally known to be used for benign prostatic hyperplasia (BPH); the Malaysia-specific approved indication text was not available in this evidence pack. The TxGNN model's top-ranked prediction is **Ambras type hypertrichosis universalis congenita**, but this direction is currently supported by **0 clinical trials** and **0 publications**, and the pack's own mechanistic analysis flags the biological direction as inconsistent with the drug's known pharmacology.
+| Perkara | Kandungan |
+|--------|-----------|
+| Indikasi Asal | Hiperplasia Prostat Jinak (BPH) — berdasarkan pengetahuan farmakoloji umum; bukan bersumber dari pakej ini (teks indikasi lesen Malaysia kosong untuk semua penyertaan) |
+| Indikasi Baru yang Diramalkan | Hipertrikosis universalis kongenita jenis Ambras |
+| Skor Ramalan TxGNN | 99.99% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 14 |
+| Cadangan Keputusan | Tunggu |
 
-## Quick Overview
+## Mengapa Ramalan Ini Masuk Akal?
 
-| Item | Content |
-|------|------|
-| Original Indication | Benign Prostatic Hyperplasia (BPH) — based on general pharmacological knowledge; not sourced from this pack (Malaysia license indication text was empty for all entries) |
-| Predicted New Indication | Ambras type hypertrichosis universalis congenita |
-| TxGNN Prediction Score | 99.99% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 14 |
-| Recommended Decision | Hold |
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia (DG002, Keterukan Tinggi). Berdasarkan pengetahuan farmakoloji umum, dutasteride ialah penghambat ganda kedua-dua 5α-reduktase Jenis 1 dan Jenis 2, enzim yang menukar testosteron kepada dihidrotestosteron (DHT). Dengan menurunkan DHT, ia mengecilkan tisu prostat yang didorong androgen — asas penggunaannya yang telah ditetapkan dalam BPH — dan, melalui mekanisme yang sama, mengurangkan pertumbuhan rambut dalam folikel yang sensitif terhadap androgen (rasional di sebalik penggunaan off-label/serantau yang diketahui untuk alopecia androgenetik).
 
-## Why is This Prediction Reasonable?
+Hipertrikosis universalis kongenita jenis Ambras ialah keadaan langka, kongenital, autosomal-dominan (berkaitan dengan penyusunan semula di kromosom 8q) yang dicirikan oleh pertumbuhan rambut yang berlebihan secara umum. Secara kritikal, patofisiologinya **bukan bergantung androgen** — ia adalah gangguan struktur/pembangunan pola folikel rambut, bukan proses yang didorong hormon.
 
-Currently, detailed mechanism of action data is not available (DG002, High severity). Based on general pharmacological knowledge, dutasteride is a dual inhibitor of both Type 1 and Type 2 5α-reductase, the enzyme that converts testosterone to dihydrotestosterone (DHT). By lowering DHT, it shrinks androgen-driven prostate tissue — the basis of its established use in BPH — and, through the same mechanism, reduces hair growth in androgen-sensitive follicles (the rationale behind its known off-label/regional use for androgenetic alopecia).
+Ini bermakna arah mekanistik tidak konsisten pada dua aras: (1) dutasteride *mengurangkan* pertumbuhan rambut dalam folikel yang sensitif terhadap androgen, manakala hipertrikosis akan memerlukan *meningkatkan atau membetulkan* pengedaran rambut, dan (2) keadaan sasaran adalah kongenital/struktur bukannya dimediasi DHT, jadi menurunkan DHT tidak dijangka mempunyai kesan apa pun ke atasnya. Rasional pakej bukti sendiri untuk calon ini secara jelas menyatakan tiada sokongan uji klinikal atau kesusasteraan, dan mencirikan ramalan sebagai berasal daripada kesamaan penyematan graf pengetahuan, bukan pautan biologi yang dapat dibuktikan.
 
-Ambras type hypertrichosis universalis congenita is a rare, congenital, autosomal-dominant condition (associated with rearrangements at chromosome 8q) characterized by excessive generalized hair growth. Critically, its pathophysiology is **not androgen-dependent** — it is a structural/developmental disorder of hair follicle patterning, not a hormone-driven process.
+## Bukti Uji Klinikal
 
-This means the mechanistic direction is inconsistent on two levels: (1) dutasteride *reduces* hair growth in androgen-sensitive follicles, whereas hypertrichosis would require *increasing or correcting* hair distribution, and (2) the target condition is congenital/structural rather than DHT-mediated, so lowering DHT would not be expected to have any effect on it. The evidence pack's own rationale for this candidate explicitly notes there is no clinical trial or literature support, and characterizes the prediction as arising from knowledge-graph embedding similarity rather than a substantiated biological link.
+Pada masa ini tiada uji klinikal berkaitan terdaftar.
 
-## Clinical Trial Evidence
+## Bukti Kesusasteraan
 
-Currently no related clinical trials registered.
+Pada masa ini tiada kesusasteraan berkaitan tersedia.
 
-## Literature Evidence
+## Maklumat Pasaran Malaysia
 
-Currently no related literature available.
+Rekod NPRA Malaysia menunjukkan dutasteride sebagai **✓ Dipasarkan** dengan **14 pendaftaran aktif**. Walau bagaimanapun, butiran aras lesen individu (nombor pendaftaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan) tidak dikembalikan dalam pakej bukti semasa untuk mana-mana penyertaan sampel — ini adalah jurang data yang memerlukan carian NPRA langsung sebelum tuntutan perlesenan/pelabelan dapat dibuat.
 
-## Malaysia Market Information
+## Pertimbangan Keselamatan
 
-Malaysia's NPRA records show dutasteride as **✓ Marketed** with **14 active registrations**. However, individual license-level details (registration number, product name, dosage form, and approved indication text) were not returned in the current evidence pack for any of the sampled entries — this is a data gap requiring direct NPRA lookup before licensing/labeling claims can be made.
+Sila rujuk sisipan pakej untuk maklumat keselamatan. (Data amaran utama, kontraindikasi, dan interaksi ubat tidak tersedia dalam pakej bukti ini — DG001, Keterukan Menghalang: jurang ini menghalang calon daripada memasuki peringkat pra-skrin keselamatan S1.)
 
-## Safety Considerations
+## Kesimpulan dan Langkah Seterusnya
 
-Please refer to the package insert for safety information. (Key warnings, contraindications, and drug interaction data were not available in this evidence pack — DG001, Blocking severity: this gap prevents the candidate from entering the S1 safety pre-screen stage.)
+**Keputusan: Tunggu**
 
-## Conclusion and Next Steps
+**Rasional:**
+Ramalan TxGNN yang paling tinggi tidak mempunyai sokongan uji klinikal atau kesusasteraan (L5, ramalan model sahaja) dan rasional mekanistik tersendirinya menerangkan ketakpadanan arah antara farmakoloji yang diketahui dutasteride dan biologi keadaan sasaran — konsisten dengan artifak graf pengetahuan, bukannya petunjuk penyusunan semula yang masuk akal. Sebagai tambahan, data pelabelan keselamatan setara TFDA/NPRA sepenuhnya hilang (DG001, Keterukan Menghalang), yang dengan sendirinya menghalang mana-mana calon bagi ubat ini daripada meneruskan penilaian keselamatan tanpa mengira indikasi.
 
-**Decision: Hold**
+**Untuk meneruskan, yang berikut diperlukan:**
+- Perolehi amaran sisipan pakej Malaysia dan kontraindikasi (DG001, Keterukan Menghalang — diperlukan sebelum mana-mana skrin keselamatan S1)
+- Perolehi butiran DrugBank/MOA yang berwibawa (DG002)
+- Isi data pasaran Malaysia aras lesen (nombor pendaftaran, nama produk, bentuk dos, teks indikasi yang diluluskan) untuk 14 pendaftaran sedia ada
+- Jika penilaian penyusunan semula terus untuk ubat ini, pertimbangkan untuk mengubah haluan perhatian kepada calon yang mekanistik koheren, bukannya yang paling tinggi — contohnya, "alopecia difus areata" (pangkat 8, L3/S1, 1 ulasan sokongan) — walau bagaimanapun ambil perhatian pakej itu sendiri menandakan ini sebagai kemungkinan mengelirukan alopecia androgenetik (mekanistik disokong dengan baik untuk dutasteride) dengan alopecia areata (autoimun, mekanistik tidak berkaitan); kekaburan ontologi penyakit ini harus diselesaikan sebelum lebih banyak pengumpulan bukti dilaburkan di sana
 
-**Rationale:**
-The top-ranked TxGNN prediction has no clinical trial or literature support (L5, model-prediction-only) and its own mechanistic rationale describes a directional mismatch between dutasteride's known pharmacology and the biology of the target condition — consistent with a knowledge-graph artifact rather than a plausible repurposing lead. In addition, TFDA/NPRA-equivalent safety labeling data is entirely missing (DG001, Blocking), which by itself prevents any candidate for this drug from proceeding to safety evaluation regardless of indication.
-
-**To proceed, the following is needed:**
-- Retrieve Malaysia package insert warnings and contraindications (DG001, Blocking — required before any S1 safety screen)
-- Retrieve DrugBank/authoritative MOA detail (DG002)
-- Populate license-level Malaysia market data (registration numbers, product names, dosage forms, approved indication text) for the 14 existing registrations
-- If repurposing evaluation continues for this drug, consider redirecting attention to a mechanistically coherent candidate rather than the top-ranked one — e.g., "diffuse alopecia areata" (rank 8, L3/S1, 1 supporting review) — though note the pack itself flags this as likely conflating androgenetic alopecia (mechanistically well-supported for dutasteride) with alopecia areata (autoimmune, mechanistically unrelated); this disease-ontology ambiguity should be resolved before further evidence collection is invested there
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

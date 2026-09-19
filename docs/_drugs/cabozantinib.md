@@ -29,97 +29,96 @@ Tahap bukti: **L2** | Indikasi diramal: **10**
 
 </div>
 
-Using the Evidence Pack, I found an important interpretive nuance in the data itself: `predicted_indications[0]` (liposarcoma) is the highest TxGNN-scored *new* signal, but the evidence for `rank 2` (clear cell renal carcinoma) explicitly notes in its own `repurposing_rationale` that this is very likely cabozantinib's **already-approved indication** (confirmed by a post-marketing surveillance trial, NCT04804813), not a genuine new repurposing discovery. I built the report around the template-mandated `predicted_indications[0]` (Liposarcoma) as instructed, and flagged this distinction where it matters for correct interpretation, without fabricating any data not present in the pack (drug MOA, license details, and safety fields are genuine gaps per `meta.data_gaps` DG001/DG002).
+# Cabozantinib: Daripada Karsinoma Sel Renal kepada Liposarkoma
 
-# Cabozantinib: From Renal Cell Carcinoma to Liposarcoma
+## Ringkasan Satu Ayat
 
-## One-Sentence Summary
-
-Cabozantinib is a multi-target tyrosine kinase inhibitor (VEGFR2/MET/AXL/RET) already marketed and used for advanced **renal cell carcinoma** — confirmed within this evidence pack by a completed post-marketing drug-use surveillance study (NCT04804813). The TxGNN model's top-ranked *new* signal predicts potential efficacy in **Liposarcoma**, currently supported by **1 clinical trial** and **1 publication**, representing an early, hypothesis-generating stage of evidence rather than a validated indication.
+Cabozantinib ialah inhibitor tirosin kinase multi-sasaran (VEGFR2/MET/AXL/RET) yang sudah dipasarkan dan digunakan untuk karsinoma sel renal lanjutan — disahkan dalam pakej bukti ini oleh kajian keawasan penggunaan ubat pasca-pemasaran yang telah selesai (NCT04804813). Isyarat *baru* berperingkat teratas model TxGNN meramalkan potensi keberkesanan dalam **Liposarkoma**, kini disokong oleh **1 ujian klinikal** dan **1 penerbitan**, mewakili peringkat awal bukti yang menjana hipotesis berbanding petunjuk yang disahkan.
 
 ---
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Renal Cell Carcinoma (inferred from marketed-drug surveillance data within this evidence pack; TFDA/NPRA label indication text itself is a data gap — see DG001) |
-| Predicted New Indication | Liposarcoma |
-| TxGNN Prediction Score | 99.83% |
-| Evidence Level | L2 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
-| Recommended Decision | Research Question |
+| Petunjuk Asal | Karsinoma Sel Renal (disimpulkan daripada data keawasan ubat dipasarkan dalam pakej bukti ini; teks petunjuk label TFDA/NPRA itu sendiri ialah jurang data — lihat DG001) |
+| Petunjuk Baru yang Diramalkan | Liposarkoma |
+| Skor Ramalan TxGNN | 99.83% |
+| Tahap Bukti | L2 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 3 |
+| Keputusan yang Disyorkan | Soalan Penyelidikan |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed, drug-label-sourced mechanism of action data is not available for cabozantinib in this evidence pack (flagged as data gap DG002, High severity). However, the evidence pack's own repurposing rationale fields describe cabozantinib as a multi-target tyrosine kinase inhibitor acting on **VEGFR2, MET, AXL, and RET** — a mechanism consistent with its established, marketed use in renal cell carcinoma (supported here by the completed Japanese post-marketing surveillance study NCT04804813, "Drug Use Surveillance for Cabometyx Tablets 'Renal Cell Carcinoma'").
+Data mekanisme tindakan bersumber daripada label ubat yang terperinci tidak tersedia untuk cabozantinib dalam pakej bukti ini (ditandai sebagai jurang data DG002, keterukan Tinggi). Walau bagaimanapun, bidang nisbah penggunaan semula pakej bukti itu sendiri menerangkan cabozantinib sebagai inhibitor tirosin kinase multi-sasaran yang bertindak pada **VEGFR2, MET, AXL, dan RET** — satu mekanisme yang konsisten dengan kegunaan yang telah ditetapkan dan dipasarkan dalam karsinoma sel renal (disokong di sini oleh kajian keawasan pasca-pemasaran Jepun yang telah selesai NCT04804813, "Drug Use Surveillance for Cabometyx Tablets 'Renal Cell Carcinoma'").
 
-The link to liposarcoma follows from tumor biology shared across renal cell carcinoma and soft tissue sarcomas: both are angiogenesis-dependent tumor types, and VEGFR-targeted TKIs (e.g., pazopanib) are already approved for soft tissue sarcoma (STS). Cabozantinib's additional MET/AXL inhibition is proposed to potentially overcome the VEGFR-TKI resistance mechanisms seen in sarcomas (MET/AXL upregulation is a known escape pathway).
+Pautan kepada liposarkoma mengikuti daripada biologi tumor yang dikongsi antara karsinoma sel renal dan sarkoma tisu lembut: kedua-duanya ialah jenis tumor yang bergantung angiogenesis, dan TKI bertarget VEGFR (cth., pazopanib) sudah diluluskan untuk sarkoma tisu lembut (STS). Perencat MET/AXL tambahan cabozantinib dicadangkan untuk berpotensi mengatasi mekanisme rintangan VEGFR-TKI yang dilihat dalam sarkoma (upregulation MET/AXL ialah laluan pengelakan yang diketahui).
 
-Importantly, the current supporting trial (NCT05836571) is a **broad "soft tissue sarcoma" umbrella study**, not a liposarcoma-specific design, and no liposarcoma subgroup results have been published yet. This means the mechanistic rationale is biologically plausible but has not yet been demonstrated specifically in liposarcoma patients — consistent with the L2 evidence level and "Research Question" recommendation assigned to this prediction.
+Penting sekali, ujian sokongan semasa (NCT05836571) ialah **kajian payung "sarkoma tisu lembut" yang luas**, bukan reka bentuk khusus liposarkoma, dan tiada hasil subkumpulan liposarkoma telah diterbitkan lagi. Ini bermakna nisbah mekanis ialah munasabah secara biologi tetapi belum ditunjukkan secara khusus dalam pesakit liposarkoma — konsisten dengan tahap bukti L2 dan syor "Soalan Penyelidikan" yang diberikan kepada ramalan ini.
 
-**Note on Interpretation:** This evidence pack's rank-2 prediction, "clear cell renal carcinoma" (score 99.80%), is explicitly annotated in its own rationale as almost certainly cabozantinib's *existing approved indication* rather than a new repurposing signal (supported by 48 trials, 20 publications, multiple completed Phase 3 RCTs including METEOR and CheckMate 9ER, and post-approval surveillance data). It should not be read as a novel repurposing opportunity — Liposarcoma (rank 1) is the more genuinely novel signal, albeit with much thinner evidence.
+**Nota tentang Tafsiran:** Ramalan berperingkat-2 pakej bukti ini, "karsinoma sel renal sel jernih" (skor 99.80%), dijelaskan secara eksplisit dalam nisbahnya sendiri sebagai hampir pasti *petunjuk yang sudah diluluskan sedia ada* cabozantinib berbanding isyarat penggunaan semula baharu (disokong oleh 48 ujian, 20 penerbitan, pelbagai RCT Fasa 3 yang telah selesai termasuk METEOR dan CheckMate 9ER, dan data keawasan pasca-kelulusan). Ia tidak sepatutnya dibaca sebagai peluang penggunaan semula baru — Liposarkoma (peringkat 1) ialah isyarat yang lebih benar-benar baru, meskipun dengan bukti yang jauh lebih nipis.
 
 ---
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Ujian | Fasa | Status | Enrolmen | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT05836571](https://clinicaltrials.gov/study/NCT05836571) | Phase 2 | Active, not recruiting | 66 | Randomized Phase 2 trial comparing immunotherapy (ipilimumab + nivolumab) alone vs. in combination with cabozantinib in advanced soft tissue sarcoma (liposarcoma is one of the eligible histologies, not a dedicated cohort); tests whether adding a multi-kinase TKI improves immune-mediated tumor control. |
+| [NCT05836571](https://clinicaltrials.gov/study/NCT05836571) | Fasa 2 | Aktif, tidak merekrut | 66 | Ujian Fasa 2 rawak membandingkan imunoterapi (ipilimumab + nivolumab) sahaja berbanding kombinasi dengan cabozantinib dalam sarkoma tisu lembut lanjutan (liposarkoma ialah salah satu daripada histologi yang layak, bukan kohort berdedikasi); menguji sama ada menambah TKI multi-kinase meningkatkan kawalan tumor yang dimediasi imun. |
 
 ---
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [41770651](https://pubmed.ncbi.nlm.nih.gov/41770651/) | 2026 | Phase 1 | American Journal of Clinical Oncology | Phase 1 study of neoadjuvant cabozantinib combined with radiation therapy in extremity soft tissue sarcomas; establishes preliminary safety of concurrent cabozantinib + RT, an approach previously limited by concerns over fistula/perforation risk. |
+| [41770651](https://pubmed.ncbi.nlm.nih.gov/41770651/) | 2026 | Fasa 1 | American Journal of Clinical Oncology | Kajian Fasa 1 cabozantinib neoadjuvan digabungkan dengan terapi radiasi dalam sarkoma tisu lembut ekstremiti; menetapkan keselamatan awal gabungan cabozantinib + RT, pendekatan yang sebelum ini terhad oleh kebimbangan risiko fistula/perforasi. |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Cabozantinib is currently marketed in Malaysia with **3 registered product licenses**. However, license numbers, product names, dosage forms, manufacturers, and approved indication text for these registrations are not yet populated in this evidence pack — this is tracked as data gap **DG001** (Blocking severity), pending retrieval and parsing of the NPRA/TFDA product label (PDF).
+Cabozantinib kini dipasarkan di Malaysia dengan **3 lesen produk berdaftar**. Walau bagaimanapun, nombor lesen, nama produk, bentuk dos, pengilang, dan teks petunjuk yang diluluskan untuk pendaftaran ini belum diisi dalam pakej bukti ini — ini dijejaki sebagai jurang data **DG001** (keterukan Sekat), menunggu pengambilan dan penghuraian label produk NPRA/TFDA (PDF).
 
 ---
 
-## Cytotoxicity
+## Sitotoksisiti
 
-*(Included because cabozantinib is an antineoplastic agent — it is used for renal cell carcinoma and belongs to the targeted multi-kinase inhibitor class.)*
+*(Disertakan kerana cabozantinib ialah agen antineoplastik — ia digunakan untuk karsinoma sel renal dan termasuk dalam kelas inhibitor multi-kinase bertarget.)*
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Cytotoxicity Classification | Targeted therapy (VEGFR2 / MET / AXL / RET multi-kinase inhibitor) |
-| Myelosuppression Risk | Not specified in current evidence pack — please refer to the package insert warnings and precautions |
-| Emetogenicity Classification | Not specified in current evidence pack — please refer to the package insert warnings and precautions |
-| Monitoring Items | Not specified in current evidence pack — please refer to the package insert warnings and precautions |
-| Handling Protection | Not specified in current evidence pack — please refer to the package insert warnings and precautions |
+| Klasifikasi Sitotoksisiti | Terapi bertarget (inhibitor multi-kinase VEGFR2 / MET / AXL / RET) |
+| Risiko Supresi Sumsum Tulang | Tidak dinyatakan dalam pakej bukti semasa — sila rujuk leaflet ubat untuk amaran dan langkah pencegahan |
+| Klasifikasi Emetogenisiti | Tidak dinyatakan dalam pakej bukti semasa — sila rujuk leaflet ubat untuk amaran dan langkah pencegahan |
+| Item Pemantauan | Tidak dinyatakan dalam pakej bukti semasa — sila rujuk leaflet ubat untuk amaran dan langkah pencegahan |
+| Perlindungan Pengendalian | Tidak dinyatakan dalam pakej bukti semasa — sila rujuk leaflet ubat untuk amaran dan langkah pencegahan |
 
 ---
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information. (All key warnings, contraindications, and drug-interaction data are currently unavailable in this evidence pack — this is tracked as data gap **DG001**, Blocking severity, meaning safety review cannot yet proceed past initial screening.)
+Sila rujuk leaflet ubat untuk maklumat keselamatan. (Semua amaran utama, kontraindikasi, dan data interaksi ubat kini tidak tersedia dalam pakej bukti ini — ini dijejaki sebagai jurang data **DG001**, keterukan Sekat, bermakna ulasan keselamatan belum dapat meneruskan melepasi penyaringan awal.)
 
 ---
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Research Question (Hold for further evidence generation)**
+**Keputusan: Soalan Penyelidikan (Tahan untuk penjanaan bukti lanjutan)**
 
-**Rationale:**
-The liposarcoma signal rests on a single, still-ongoing, non-liposarcoma-specific Phase 2 trial and one Phase 1 safety-focused publication — insufficient to support clinical action. This is compounded by a Blocking-severity gap in TFDA/NPRA safety labeling (DG001), which by itself prevents the candidate from entering initial safety assessment (S1) regardless of efficacy evidence maturity.
+**Nisbah:**
+Isyarat liposarkoma bergantung pada satu ujian Fasa 2 yang berterusan dan bukan khusus liposarkoma serta satu penerbitan yang fokus keselamatan Fasa 1 — tidak mencukupi untuk menyokong tindakan klinikal. Ini diburukkan lagi oleh jurang keterukan Sekat dalam pelabelan keselamatan TFDA/NPRA (DG001), yang dengan sendirinya menghalang calon daripada memasuki penilaian keselamatan awal (S1) tanpa mengira kematangan bukti keberkesanan.
 
-**To proceed, the following is needed:**
-- NPRA/TFDA package insert data (warnings, contraindications) — currently a Blocking gap (DG001)
-- DrugBank-confirmed mechanism of action — currently a High-severity gap (DG002)
-- Liposarcoma-specific subgroup results from NCT05836571 (active, not recruiting; expected completion 2026-05-15)
-- Complete Malaysia license-level details (product names, dosage forms, approved indication text) for the 3 existing registrations
-- Clarification that the "clear cell renal carcinoma" signal in this same evidence pack reflects an already-approved use, so it is not mistaken for a second repurposing opportunity in downstream decision-making
+**Untuk meneruskan, yang berikut diperlukan:**
+- Data leaflet ubat NPRA/TFDA (amaran, kontraindikasi) — kini jurang Sekat (DG001)
+- Mekanisme tindakan yang disahkan DrugBank — kini jurang keterukan Tinggi (DG002)
+- Hasil subkumpulan khusus liposarkoma daripada NCT05836571 (aktif, tidak merekrut; penyelesaian dijangka 2026-05-15)
+- Butiran lengkap peringkat lesen Malaysia (nama produk, bentuk dos, teks petunjuk yang diluluskan) untuk 3 pendaftaran sedia ada
+- Penjelasan bahawa isyarat "karsinoma sel renal sel jernih" dalam pakej bukti yang sama mencerminkan penggunaan yang sudah diluluskan, jadi ia tidak disalah anggap sebagai peluang penggunaan semula kedua dalam pengambilan keputusan hiliran
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

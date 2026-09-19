@@ -29,102 +29,99 @@ Tahap bukti: **L2** | Indikasi diramal: **7**
 
 </div>
 
-Using the provided Evidence Pack, I selected the strongest, most actionable predicted indication for the headline analysis. A quick note on that judgment call before the report: the JSON contains 7 TxGNN-predicted indications for calcitriol, ranked by raw model score — but rank #1 ("obsolete vitamin D deficiency") is explicitly flagged in its own rationale as an ontology artifact with **no supporting trials/literature and Hold status (L5/S0)**. The strongest evidence-backed candidate is actually **rank #7, "hereditary hypophosphatemic rickets"** (L2, decision stage S2, "Proceed with Guardrails," with a Phase 4 trial and a Grade-A direct-evidence Phase 1 calcitriol monotherapy trial). I built the report around that candidate rather than blindly following list order, since a score-ranked #1 with zero evidence would produce a misleading report.
+# Calcitriol: Daripada Hipokalsemia/Hiperparatiroidisme Sekunder kepada Rickets Hipofosfaremia Herediter
+
+## Ringkasan Satu Ayat
+
+> Calcitriol (vitamin D3 aktif, DrugBank DB00136) ialah terapi yang telah ditegakkan untuk gangguan homeostasis kalsium/fosfat seperti hipokalsemia dan hiperparatiroidisme sekunder.
+> Antara beberapa petunjuk yang diramalkan oleh TxGNN dalam pakej bukti ini, **Rickets Hipofosfaremia Herediter** menonjol sebagai calon yang paling boleh ditindaklanjuti,
+> disokong oleh **7 ujian klinikal** (termasuk Fasa 4 langsung dan ujian Fasa 1 awal kalsitriol-spesifik) dan **20 penerbitan**, beberapa daripadanya melaporkan pengalaman klinikal langsung selama puluhan tahun menggunakan calcitriol dalam penyakit yang sama ini.
 
 ---
 
-# Calcitriol: From Hypocalcemia/Secondary Hyperparathyroidism to Hereditary Hypophosphatemic Rickets
+## Tinjauan Pantas
 
-## One-Sentence Summary
-
-> Calcitriol (active vitamin D3, DrugBank DB00136) is an established therapy for disorders of calcium/phosphate homeostasis such as hypocalcemia and secondary hyperparathyroidism.
-> Among several TxGNN-predicted indications in this evidence pack, **Hereditary Hypophosphatemic Rickets** stands out as the most actionable candidate,
-> supported by **7 clinical trials** (including a direct Phase 4 and an Early Phase 1 calcitriol-specific trial) and **20 publications**, several of which report decades of direct clinical experience using calcitriol in this exact disease.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not captured in NPRA registration text in this evidence pack (all `approved_indication_text` fields were empty). Based on general pharmacological knowledge, calcitriol is used for hypocalcemia and secondary hyperparathyroidism of chronic kidney disease, and for hypoparathyroidism. |
-| Predicted New Indication | Hereditary Hypophosphatemic Rickets (incl. X-linked hypophosphatemia, XLH) |
-| TxGNN Prediction Score | 99.28% |
-| Evidence Level | L2 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 7 |
-| Recommended Decision | Proceed with Guardrails |
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Tidak didapati dalam teks pendaftaran NPRA dalam pakej bukti ini (semua medan `approved_indication_text` kosong). Berdasarkan pengetahuan farmakologi umum, calcitriol digunakan untuk hipokalsemia dan hiperparatiroidisme sekunder penyakit buah pinggang kronik, serta untuk hipoparatiroidisme. |
+| Petunjuk Baru yang Diramal | Rickets Hipofosfaremia Herediter (termasuk hipofosfaremia X-terpaut, XLH) |
+| Skor Ramalan TxGNN | 99.28% |
+| Tahap Bukti | L2 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 7 |
+| Keputusan Yang Disyorkan | Teruskan dengan Penjaga |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data (`original_moa`) is not available in this evidence pack. Based on known pharmacology, calcitriol is the biologically active metabolite of vitamin D3 (1,25-dihydroxyvitamin D3), and it acts by binding the vitamin D receptor (VDR) to increase intestinal calcium/phosphate absorption and regulate renal tubular calcium handling. Its efficacy in managing hypocalcemia and secondary hyperparathyroidism is well established, and mechanistically it is directly applicable to disorders of impaired endogenous calcitriol synthesis.
+Pada masa ini, data mekanisme tindakan yang terperinci (`original_moa`) tidak tersedia dalam pakej bukti ini. Berdasarkan farmakologi yang diketahui, calcitriol ialah metabolit biologi aktif vitamin D3 (1,25-dihidroksivitamin D3), dan ia bertindak dengan mengikat reseptor vitamin D (VDR) untuk meningkatkan penyerapan kalsium/fosfat usus dan mengawal pemindahan kalsium tubulus ginjal. Keberkesanannya dalam menguruskan hipokalsemia dan hiperparatiroidisme sekunder telah ditegakkan dengan baik, dan secara mekanistik ia boleh digunakan terus untuk gangguan sintesis kalsitriol endogen yang lemah.
 
-Hereditary hypophosphatemic rickets — most commonly X-linked hypophosphatemia (XLH) caused by PHEX gene mutations — leads to excess circulating FGF23, which suppresses renal 1α-hydroxylase activity and renal phosphate reabsorption. The net effect is chronic hypophosphatemia **combined with inappropriately low or normal (rather than compensatorily elevated) endogenous calcitriol levels**. This is not a peripheral or coincidental link: exogenous calcitriol replacement, together with phosphate supplementation, was the international standard of care for XLH for decades before the FGF23-targeting biologic burosumab became available. The mechanistic rationale is therefore direct — calcitriol replaces a metabolite whose endogenous synthesis is pathologically suppressed in this exact disease — rather than a speculative cross-disease inference.
+Rickets hipofosfaremia herediter — paling lazimnya hipofosfaremia X-terpaut (XLH) yang disebabkan oleh mutasi gen PHEX — menyebabkan FGF23 bersirkulasi berlebihan, yang menekan aktiviti 1α-hidroksilase ginjal dan penyerapan semula fosfat ginjal. Kesan bersih ialah hipofosfaremia kronik **digabungkan dengan tahap kalsitriol endogen yang tidak sesuai rendah atau normal (daripada meningkat pampasan)**. Ini bukan pautan tepi atau kebetulan: penggantian calcitriol eksogen, bersama-sama dengan suplementasi fosfat, adalah standar penjagaan antarabangsa untuk XLH selama beberapa dekad sebelum biolojik yang menyasarkan FGF23 burosumab menjadi tersedia. Nisbah mekanistik adalah oleh itu langsung — calcitriol menggantikan metabolit yang sintetisnya endogen ditindas secara patologi dalam penyakit yang sama ini — daripada inferens lintas penyakit yang spekulatif.
 
-Several other TxGNN-predicted indications in this pack (e.g., familial isolated hypoparathyroidism, Dahlberg-Borer-Newcomer syndrome/pseudohypoparathyroidism) share the same underlying logic — restoring active vitamin D signaling downstream of a PTH- or FGF23-driven synthesis defect — reinforcing that this is a coherent pharmacological class of repurposing candidates rather than a single outlier prediction.
+Beberapa petunjuk yang diramal TxGNN lain dalam pakej ini (contoh, hipoparatiroidisme terpencil keluarga, sindrom Dahlberg-Borer-Newcomer/pseudohipoparatiroidisme) berkongsi logik asas yang sama — memulihkan isyarat vitamin D aktif hiliran bagi defek sintesis yang didorong oleh PTH atau FGF23 — memperkuat bahawa ini adalah kelas farmakologi yang koheren bagi calon repurposing ubat daripada ramalan kesendirian yang tunggal.
 
 ---
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT03748966](https://clinicaltrials.gov/study/NCT03748966) | Early Phase 1 | Active, not recruiting | 20 | **[Direct evidence]** Calcitriol monotherapy (without phosphate) in children/adults with XLH; evaluates effect on serum phosphate, skeletal mineralization, kidney calcification risk, and growth. |
-| [NCT03820518](https://clinicaltrials.gov/study/NCT03820518) | Phase 4 | Unknown | 100 | **[Direct evidence]** Compares high- vs low-dose active vitamin D (calcitriol) combined with neutral phosphate in children with XLH; aims to establish optimal weight-based calcitriol dosing. |
-| [NCT06046820](https://clinicaltrials.gov/study/NCT06046820) | Phase 3 | Active, not recruiting | 27 | Evaluates INZ-701 (a novel agent, not calcitriol) in ENPP1 deficiency; included as indirect background on the broader hypophosphatemic-rickets treatment landscape. |
-| [NCT04846647](https://clinicaltrials.gov/study/NCT04846647) | N/A | Completed | 260 | Observational cohort characterizing inappropriate FGF23 secretion in hospitalized hypophosphatemia patients; natural-history/background data, not an interventional calcitriol trial. |
-| [NCT00844740](https://clinicaltrials.gov/study/NCT00844740) | N/A | Withdrawn (enrollment 0) | 0 | Intended to study cinacalcet (not calcitriol) as add-on therapy for familial hypophosphatemic rickets; explicitly notes that high-dose phosphate + calcitriol is the current standard treatment. Background reference only. |
-| [NCT01526304](https://clinicaltrials.gov/study/NCT01526304) | N/A | Unknown | 150 | Cross-sectional study of FGF23, Klotho, and sclerostin in kidney stone formers; disease-mechanism background, not an interventional trial. |
-| [NCT06921720](https://clinicaltrials.gov/study/NCT06921720) | N/A | Not yet recruiting | 65 | ³¹P-MRS methodology study measuring ATP concentration in phosphate diabetes (including XLH); imaging/biomarker methodology, not a drug trial. |
+| [NCT03748966](https://clinicaltrials.gov/study/NCT03748966) | Fasa 1 Awal | Aktif, tidak merekrut | 20 | **[Bukti langsung]** Monoterapi calcitriol (tanpa fosfat) pada kanak-kanak/dewasa dengan XLH; menilai kesan pada fosfat serum, mineralisasi rangka, risiko batu buah pinggang, dan pertumbuhan. |
+| [NCT03820518](https://clinicaltrials.gov/study/NCT03820518) | Fasa 4 | Tidak diketahui | 100 | **[Bukti langsung]** Membandingkan dos vitamin D aktif tinggi vs rendah (calcitriol) digabung dengan fosfat neutral pada kanak-kanak dengan XLH; bertujuan untuk menetapkan dos calcitriol berat badan optimal. |
+| [NCT06046820](https://clinicaltrials.gov/study/NCT06046820) | Fasa 3 | Aktif, tidak merekrut | 27 | Menilai INZ-701 (agen baru, bukan calcitriol) dalam kekurangan ENPP1; disertakan sebagai latar belakang tidak langsung pada landskap rawatan rickets hipofosfaremia yang lebih luas. |
+| [NCT04846647](https://clinicaltrials.gov/study/NCT04846647) | Tiada | Selesai | 260 | Kohort pemerhatian mencirikan sekresi FGF23 yang tidak sesuai pada pesakit hipofosfaremia yang dirawat di hospital; data sejarah semula jadi/latar belakang, bukan ujian calcitriol intervensi. |
+| [NCT00844740](https://clinicaltrials.gov/study/NCT00844740) | Tiada | Ditarik balik (pendaftaran 0) | 0 | Bertujuan untuk mengkaji cinacalcet (bukan calcitriol) sebagai terapi tambahan untuk rickets hipofosfaremia keluarga; secara eksplisit mencatat bahawa fosfat dos tinggi + calcitriol ialah rawatan piawai semasa. Hanya rujukan latar belakang. |
+| [NCT01526304](https://clinicaltrials.gov/study/NCT01526304) | Tiada | Tidak diketahui | 150 | Kajian rentas lintang FGF23, Klotho, dan skeriotin pada pembentuk batu buah pinggang; latar belakang mekanisme penyakit, bukan ujian intervensi. |
+| [NCT06921720](https://clinicaltrials.gov/study/NCT06921720) | Tiada | Belum merekrut | 65 | Kajian metodologi ³¹P-MRS yang mengukur kepekatan ATP dalam diabetes fosfat (termasuk XLH); metodologi imej/biopenanda, bukan ujian ubat. |
 
 ---
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [6252463](https://pubmed.ncbi.nlm.nih.gov/6252463/) | 1980 | Clinical study | The New England Journal of Medicine | In 11 children with vitamin D-resistant rickets, calcitriol (0.25–1 µg/day) raised serum calcitriol above normal, increased intestinal phosphate absorption, and reduced phosphate supplementation needs versus phosphate or ergocalciferol alone. |
-| [3839245](https://pubmed.ncbi.nlm.nih.gov/3839245/) | 1985 | Clinical study | The Journal of Clinical Investigation | High-dose calcitriol (68.2±10 ng/kg/day) plus phosphorus healed coexistent osteomalacia in X-linked hypophosphatemic rickets, which conventional vitamin D + phosphate therapy alone failed to resolve. |
-| [2492895](https://pubmed.ncbi.nlm.nih.gov/2492895/) | 1989 | Cohort | Calcified Tissue International | Bone mineral measurements in 17 children with familial hypophosphatemic rickets following calcitriol + phosphate therapy, tracking axial/appendicular bone mineral density over time. |
-| [29292875](https://pubmed.ncbi.nlm.nih.gov/29292875/) | 2017 | Cohort | Pediatric Endocrinology Reviews | Height data from 127 XLH patients across 49 centers; discusses spontaneous growth and the effect of early calcitriol + phosphate therapy versus untreated natural history. |
-| [39181153](https://pubmed.ncbi.nlm.nih.gov/39181153/) | 2024 | Review | The Lancet | Comprehensive review of XLH pathophysiology (PHEX/FGF23 axis) and management, noting decreased calcitriol synthesis as a core driver of disease and a rationale for active vitamin D replacement. |
-| [40295317](https://pubmed.ncbi.nlm.nih.gov/40295317/) | 2025 | Review | Calcified Tissue International | Updated review of XLH diagnosis and therapy, covering conventional calcitriol/phosphate treatment alongside newer FGF23-targeted biologics. |
-| [36446330](https://pubmed.ncbi.nlm.nih.gov/36446330/) | 2022 | Review | Hormone Research in Paediatrics | Historical and mechanistic review of rickets, vitamin D, and calcium/phosphate metabolism, including active vitamin D metabolite therapy. |
-| [17117305](https://pubmed.ncbi.nlm.nih.gov/17117305/) | 2006 | Review | Arquivos Brasileiros de Endocrinologia & Metabologia | Reviews hereditary/acquired hypophosphatemic conditions sharing impaired renal phosphate reabsorption and inappropriately low/normal calcitriol, causing rickets/osteomalacia. |
-| [31392510](https://pubmed.ncbi.nlm.nih.gov/31392510/) | 2020 | Review | Pediatric Nephrology | Reviews mineralization defects in hypophosphatemic rickets driven by FGF23 excess and reduced renal phosphate reabsorption. |
-| [38988138](https://pubmed.ncbi.nlm.nih.gov/38988138/) | 2024 | Cohort/Case report | Journal of Bone and Mineral Research | Case of an infant with hypophosphatemic rickets and short stature, illustrating diagnostic work-up (TmP/GFR, FGF23) and clinical presentation. |
+| [6252463](https://pubmed.ncbi.nlm.nih.gov/6252463/) | 1980 | Kajian klinikal | The New England Journal of Medicine | Pada 11 kanak-kanak dengan rickets tahan vitamin D, calcitriol (0.25–1 µg/hari) meningkatkan kalsitriol serum di atas normal, meningkatkan penyerapan fosfat usus, dan mengurangkan keperluan suplementasi fosfat berbanding fosfat atau ergocalciferol sahaja. |
+| [3839245](https://pubmed.ncbi.nlm.nih.gov/3839245/) | 1985 | Kajian klinikal | The Journal of Clinical Investigation | Calcitriol dos tinggi (68.2±10 ng/kg/hari) plus fosforus menyembuhkan osteomalasia bersama dalam rickets hipofosfaremia X-terpaut, yang gagal dirawat terapi vitamin D konvensional + fosfat sahaja. |
+| [2492895](https://pubmed.ncbi.nlm.nih.gov/2492895/) | 1989 | Kohort | Calcified Tissue International | Pengukuran ketumpatan mineral tulang pada 17 kanak-kanak dengan rickets hipofosfaremia keluarga selepas terapi calcitriol + fosfat, menenjejak ketumpatan mineral tulang paksi/apendikular sepanjang masa. |
+| [29292875](https://pubmed.ncbi.nlm.nih.gov/29292875/) | 2017 | Kohort | Pediatric Endocrinology Reviews | Data ketinggian daripada 127 pesakit XLH merentasi 49 pusat; membincangkan pertumbuhan spontan dan kesan terapi calcitriol + fosfat awal berbanding sejarah semula jadi tanpa rawatan. |
+| [39181153](https://pubmed.ncbi.nlm.nih.gov/39181153/) | 2024 | Ulasan | The Lancet | Ulasan komprehensif patofisiologi XLH (paksi PHEX/FGF23) dan pengurusan, mencatat sintesis kalsitriol yang berkurangan sebagai pemacu teras penyakit dan rasional untuk penggantian vitamin D aktif. |
+| [40295317](https://pubmed.ncbi.nlm.nih.gov/40295317/) | 2025 | Ulasan | Calcified Tissue International | Ulasan terkini diagnosa XLH dan terapi, merangkumi rawatan kalsitriol/fosfat konvensional bersama biologi yang menyasarkan FGF23 yang lebih baru. |
+| [36446330](https://pubmed.ncbi.nlm.nih.gov/36446330/) | 2022 | Ulasan | Hormone Research in Paediatrics | Ulasan sejarah dan mekanistik rickets, vitamin D, dan metabolisme kalsium/fosfat, termasuk terapi metabolit vitamin D aktif. |
+| [17117305](https://pubmed.ncbi.nlm.nih.gov/17117305/) | 2006 | Ulasan | Arquivos Brasileiros de Endocrinologia & Metabologia | Ulasan keadaan hipofosfaremia herediter/diperoleh berkongsi penyerapan semula fosfat ginjal lemah dan kalsitriol yang tidak sesuai rendah/normal, menyebabkan rickets/osteomalasia. |
+| [31392510](https://pubmed.ncbi.nlm.nih.gov/31392510/) | 2020 | Ulasan | Pediatric Nephrology | Ulasan kecacatan mineralisasi dalam rickets hipofosfaremia yang didorong oleh lebihan FGF23 dan penyerapan semula fosfat ginjal berkurangan. |
+| [38988138](https://pubmed.ncbi.nlm.nih.gov/38988138/) | 2024 | Kohort/Laporan kes | Journal of Bone and Mineral Research | Kes bayi dengan rickets hipofosfaremia dan ketinggian pendek, menggambarkan pekerja diagnostik (TmP/GFR, FGF23) dan persembahan klinikal. |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Calcitriol holds **7 active NPRA registrations** in Malaysia with overall market status **✓ Marketed**. However, the evidence pack's `taiwan_regulatory.licenses` array did not contain populated authorization numbers, product names, dosage forms, or approved-indication text for any of the 7 entries — this data was not captured during collection and should be pulled directly from the NPRA product registration database (QUEST3+) before finalizing any regulatory submission.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-*(Note: `safety.key_warnings` and `safety.contraindications` were both returned as data gaps, and the DDI query returned no results. This is flagged as a **Blocking** data gap — see Conclusion below — because calcitriol carries well-known class risks such as hypercalcemia/hypercalciuria that require monitoring, and this evidence pack does not yet contain the source data to substantiate that.)*
+Calcitriol memegang **7 pendaftaran NPRA aktif** di Malaysia dengan status pasaran keseluruhan **✓ Dipasarkan**. Walau bagaimanapun, tatasusunan `taiwan_regulatory.licenses` pakej bukti tidak mengandungi nombor kebenaran yang dipenuhi, nama produk, bentuk dos, atau teks petunjuk yang diluluskan bagi mana-mana 7 kemasukan — data ini tidak ditangkap semasa pengumpulan dan harus diambil terus dari pangkalan data pendaftaran produk NPRA (QUEST3+) sebelum memuktamadkan sebarang penyerahan kawal selia.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Proceed with Guardrails**
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-**Rationale:**
-- The mechanistic link is strong and non-speculative: hereditary hypophosphatemic rickets (XLH) involves FGF23-driven suppression of endogenous calcitriol synthesis, and exogenous calcitriol + phosphate was the long-standing standard of care before biologic therapies existed. This is corroborated by a direct Phase 4 dosing trial (NCT03820518) and a Grade-A Early Phase 1 monotherapy trial (NCT03748966), plus multiple decades-old clinical studies directly using calcitriol in this disease.
-- However, the drug-level safety dossier (key warnings, contraindications) is currently marked as a **Blocking** data gap in this pack, and NPRA licensing details (indication text, dosage forms) are also incomplete. Neither prevents moving forward with guardrails, but both must be resolved before any safety sign-off (S1 stage).
+*(Catatan: `safety.key_warnings` dan `safety.contraindications` kedua-duanya dikembalikan sebagai jurang data, dan pertanyaan DDI tidak mengembalikan hasil. Ini ditandai sebagai **Pemblokan** jurang data — lihat Kesimpulan di bawah — kerana calcitriol membawa risiko kelas yang diketahui dengan baik seperti hiperkalsemia/hiperkalsuria yang memerlukan pemantauan, dan pakej bukti ini belum mengandungi data sumber untuk mengesahkan itu.)*
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert warnings and contraindications (Blocking gap, DG001) — required before this candidate can pass initial safety screening (S1).
-- Detailed mechanism of action (MOA) data from DrugBank (High-priority gap, DG002) — needed to formalize the mechanistic-relevance write-up beyond general pharmacological knowledge.
-- Complete NPRA license records (authorization numbers, product names, approved indication text, dosage forms) for the 7 registered products.
-- A dedicated literature/trial reconciliation for the other TxGNN candidates flagged as "Research Question" (renal tubular acidosis, familial isolated hypoparathyroidism) — these share the same mechanistic class and may be worth a manual literature search given the apparent evidence-collection gap noted in their rationales.
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Teruskan dengan Penjaga**
+
+**Rasional:**
+- Pautan mekanistik adalah kuat dan bukan spekulatif: rickets hipofosfaremia herediter (XLH) melibatkan penindasan sintesis kalsitriol endogen yang didorong FGF23, dan calcitriol eksogen + fosfat adalah pengurusan piawai jangka panjang sebelum terapi biolojik wujud. Ini disokong oleh ujian dos Fasa 4 langsung (NCT03820518) dan ujian monoterapi Fasa 1 awal Gred-A (NCT03748966), serta kajian klinikal berbilang dekad-lama yang menggunakan calcitriol dalam penyakit ini.
+- Walau bagaimanapun, dossier keselamatan tahap ubat (amaran utama, kontraindikasi) pada masa ini ditandai sebagai **Pemblokan** jurang data dalam pakej ini, dan butiran pelesenan NPRA (teks petunjuk, bentuk dos) juga tidak lengkap. Tidak satu pun menghalang untuk bergerak maju dengan penjaga, tetapi kedua-duanya mesti diselesaikan sebelum sebarang kelulusan keselamatan (tahap S1).
+
+**Untuk diteruskan, yang berikut diperlukan:**
+- Amaran dan kontraindikasi sisipan TFDA/NPRA (Jurang pemblokan, DG001) — diperlukan sebelum calon ini boleh lulus pemeriksaan keselamatan awal (S1).
+- Data mekanisme tindakan terperinci (MOA) daripada DrugBank (Jurang keutamaan tinggi, DG002) — diperlukan untuk merasminya penulisan relevan mekanistik di luar pengetahuan farmakologi umum.
+- Rekod lesen NPRA lengkap (nombor kebenaran, nama produk, teks petunjuk yang diluluskan, bentuk dos) bagi 7 produk berdaftar.
+- Penyelarasan kesusasteraan/ujian khusus bagi calon TxGNN lain yang ditandai sebagai "Soalan Penyelidikan" (asidosis tubulus ginjal, hipoparatiroidisme terpencil keluarga) — ini berkongsi kelas mekanistik yang sama dan mungkin bernilai carian kesusasteraan manual diberi jurang pengumpulan bukti yang nampak diperhatikan dalam rasional mereka.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

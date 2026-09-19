@@ -29,74 +29,75 @@ Tahap bukti: **L3** | Indikasi diramal: **10**
 
 </div>
 
-# Cefuroxime: From Bacterial Infections to Bacterial Arthritis
+# Cefuroxime: Daripada Jangkitan Bakterial kepada Artritis Bakterial
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Cefuroxime is a second-generation cephalosporin antibiotic broadly used to treat bacterial infections; the specific TFDA-approved indication wording is not available in this dataset.
-The TxGNN model predicts it may be effective for **Bacterial Arthritis**,
-with **0 registered clinical trials** and **20 retrieved publications** currently supporting this direction, including a case series and a synovial fluid pharmacokinetic study.
+Cefuroxime ialah antibiotik sefalosporin generasi kedua yang digunakan secara meluas untuk merawat jangkitan bakterial; teks petunjuk yang diluluskan TFDA tidak tersedia dalam set data ini.
+Model TxGNN meramalkan ia mungkin berkesan untuk **Artritis Bakterial**,
+dengan **0 percubaan klinikal berdaftar** dan **20 penerbitan yang diambil** yang kini menyokong arah ini, termasuk siri kes dan kajian farmakokinetik cecair sinovial.
 
-## Quick Overview
+## Gambaran Keseluruhan Cepat
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Not specified in the TFDA licensing records provided (all license `approved_indication_text` fields are blank in this evidence pack); clinically known as a broad-spectrum antibacterial |
-| Predicted New Indication | Bacterial Arthritis |
-| TxGNN Prediction Score | 99.87% |
-| Evidence Level | L3 |
-| Malaysia Market Status | Marketed (Marketed) |
-| Number of Registrations | 39 |
-| Recommended Decision | Proceed with Guardrails |
+| Petunjuk Asal | Tidak ditentukan dalam rekod pelesenan TFDA yang disediakan (semua medan `approved_indication_text` lesen kosong dalam paket bukti ini); diketahui secara klinikal sebagai antibakteria spektrum luas |
+| Petunjuk Baharu yang Diramalkan | Artritis Bakterial |
+| Skor Ramalan TxGNN | 99.87% |
+| Tahap Bukti | L3 |
+| Status Pasaran Malaysia | Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 39 |
+| Keputusan yang Disyorkan | Teruskan dengan Penjagaan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed DrugBank mechanism-of-action data is not available for this evidence pack. Based on known pharmacology, Cefuroxime is a second-generation cephalosporin that inhibits bacterial cell wall synthesis by binding penicillin-binding proteins (PBPs), producing bactericidal activity against a broad range of Gram-positive and Gram-negative organisms — this is consistent with the mechanistic rationale noted in the evidence pack.
+Data mekanisme tindakan DrugBank yang terperinci tidak tersedia untuk paket bukti ini. Berdasarkan farmakologi yang diketahui, Cefuroxime ialah sefalosporin generasi kedua yang menghalang sintesis dinding sel bakterial dengan mengikat protein pengikat penisilin (PBPs), menghasilkan aktiviti bakterisidal terhadap pelbagai organisma Gram-positif dan Gram-negatif — ini konsisten dengan nisbah mekanik yang dicatat dalam paket bukti.
 
-Bacterial arthritis (septic arthritis) is caused by many of the same pathogens Cefuroxime already treats elsewhere in the body (notably *Staphylococcus aureus* and streptococci), so extending its use to joint infections is a direct extension of its existing antibacterial spectrum rather than a novel mechanism. A dedicated pharmacokinetic study (PMID 28784675) confirms that Cefuroxime penetrates synovial fluid at concentrations adequate for antimicrobial activity, which mechanistically supports its use in joint-space infections.
+Artritis bakterial (artritis septik) disebabkan oleh banyak patogen yang sama yang Cefuroxime sudah merawat di tempat lain dalam badan (terutamanya *Staphylococcus aureus* dan streptokokus), jadi memperluas penggunaannya kepada jangkitan sendi adalah lanjutan langsung spektrum antibakterinya yang sedia ada daripada mekanisme baru. Kajian farmakokinetik yang berdedikasi (PMID 28784675) mengesahkan bahawa Cefuroxime menembusi cecair sinovial pada kepekatan yang mencukupi untuk aktiviti antimikrob, yang secara mekanik menyokong penggunaannya dalam jangkitan ruang sendi.
 
-One important caveat: several retrieved publications concern Lyme borreliosis/Lyme arthritis rather than typical pyogenic bacterial arthritis. Lyme arthritis is a distinct entity for which doxycycline, amoxicillin, or ceftriaxone are the standard first-line agents — oral cefuroxime axetil is an approved *alternative* in early Lyme disease, but this should not be conflated with general bacterial (septic) arthritis evidence. This distinction should be preserved in any downstream clinical use case.
+Satu kaveat penting: beberapa penerbitan yang diambil berkaitan dengan borreliosis Lyme/artritis Lyme daripada artritis bakterial piogenik biasa. Artritis Lyme ialah entiti yang berbeza yang mana doksisiklina, amoksisilin, atau seftriakson adalah ejen lini pertama standard — aksetil cefuroxime oral ialah *alternatif* yang diluluskan dalam penyakit Lyme awal, tetapi ini tidak boleh dikelirukan dengan bukti artritis bakterial umum (septik). Pembezaan ini harus dikekalkan dalam sebarang kes penggunaan klinikal hiliran.
 
-## Clinical Trial Evidence
+## Bukti Percubaan Klinikal
 
-Currently no related clinical trials registered
+Pada masa ini tiada percubaan klinikal berkaitan yang berdaftar
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [6695158](https://pubmed.ncbi.nlm.nih.gov/6695158/) | 1984 | Case series/Cohort | Scandinavian Journal of Infectious Diseases | Cefuroxime used in 17 patients with acute septic arthritis (mostly *S. aureus*), compared against cloxacillin/ampicillin; serum and joint fluid concentrations evaluated |
-| [28784675](https://pubmed.ncbi.nlm.nih.gov/28784675/) | 2017 | PK study | Antimicrobial Agents and Chemotherapy | Confirms adequate Cefuroxime penetration into synovial fluid after a single 1,500 mg IV dose in patients undergoing knee arthroscopy |
-| [34756070](https://pubmed.ncbi.nlm.nih.gov/34756070/) | 2021 | Network meta-analysis | Microbiology Spectrum | 40-year evidence review comparing oral/injectable antibiotics (incl. cefuroxime axetil) for Lyme disease, including Lyme arthritis |
-| [24924733](https://pubmed.ncbi.nlm.nih.gov/24924733/) | 2014 | Guideline | Zeitschrift für Rheumatologie | German Society for Rheumatology recommendations for diagnosis and treatment of Lyme arthritis |
-| [21393124](https://pubmed.ncbi.nlm.nih.gov/21393124/) | 2011 | Review | Journal of Antimicrobial Chemotherapy | 10-year review of adult native septic arthritis epidemiology, informing empirical antibiotic stewardship choices |
-| [29290233](https://pubmed.ncbi.nlm.nih.gov/29290233/) | 2017 | Guideline | Archives de Pédiatrie | French Pediatric Infectious Disease Group proposals for antibiotic therapy of bone and joint infections in children |
-| [23599360](https://pubmed.ncbi.nlm.nih.gov/23599360/) | 2013 | Cohort | Journal of Antimicrobial Chemotherapy | Retrospective comparison of penicillin, dicloxacillin, and cefuroxime as definitive therapy for penicillin-susceptible *S. aureus* bacteraemia |
-| [17956820](https://pubmed.ncbi.nlm.nih.gov/17956820/) | 2007 | Review | Archives de Pédiatrie | PK/PD parameters predicting antibiotic efficacy in pediatric osteoarticular infections |
-| [17113969](https://pubmed.ncbi.nlm.nih.gov/17113969/) | 2006 | Review | Clinics in Dermatology | Diagnosis, treatment, and prognosis of erythema migrans and Lyme arthritis |
-| [28482848](https://pubmed.ncbi.nlm.nih.gov/28482848/) | 2017 | Review | Pediatric Rheumatology Online Journal | Review of Lyme arthritis in children, differential diagnosis from juvenile idiopathic arthritis |
+| [6695158](https://pubmed.ncbi.nlm.nih.gov/6695158/) | 1984 | Siri kes/Kohort | Scandinavian Journal of Infectious Diseases | Cefuroxime digunakan pada 17 pesakit dengan artritis septik akut (kebanyakannya *S. aureus*), dibandingkan dengan kloksasilin/ampisilin; kepekatan serum dan cecair sendi dinilai |
+| [28784675](https://pubmed.ncbi.nlm.nih.gov/28784675/) | 2017 | Kajian PK | Antimicrobial Agents and Chemotherapy | Mengesahkan penembusan Cefuroxime yang mencukupi ke dalam cecair sinovial selepas dos IV tunggal 1,500 mg dalam pesakit yang menjalani artoskopi lutut |
+| [34756070](https://pubmed.ncbi.nlm.nih.gov/34756070/) | 2021 | Meta-analisis rangkaian | Microbiology Spectrum | Ulasan bukti 40 tahun membandingkan antibiotik oral/boleh suntik (termasuk aksetil cefuroxime) untuk penyakit Lyme, termasuk artritis Lyme |
+| [24924733](https://pubmed.ncbi.nlm.nih.gov/24924733/) | 2014 | Garis panduan | Zeitschrift für Rheumatologie | Cadangan Persatuan Reumatologi Jerman untuk diagnosis dan rawatan artritis Lyme |
+| [21393124](https://pubmed.ncbi.nlm.nih.gov/21393124/) | 2011 | Tinjauan | Journal of Antimicrobial Chemotherapy | Ulasan 10 tahun epidemiologi artritis septik asli dewasa, memberikan maklumat pilihan stewardship antibiotik empiris |
+| [29290233](https://pubmed.ncbi.nlm.nih.gov/29290233/) | 2017 | Garis panduan | Archives de Pédiatrie | Cadangan Kumpulan Penyakit Jangkitan Kanak-kanak Perancis untuk terapi antibiotik jangkitan tulang dan sendi pada kanak-kanak |
+| [23599360](https://pubmed.ncbi.nlm.nih.gov/23599360/) | 2013 | Kohort | Journal of Antimicrobial Chemotherapy | Perbandingan retrospektif penisilin, dikloaksasilin, dan cefuroxime sebagai terapi definitif untuk bakteremia *S. aureus* sensitif penisilin |
+| [17956820](https://pubmed.ncbi.nlm.nih.gov/17956820/) | 2007 | Tinjauan | Archives de Pédiatrie | Parameter PK/PD yang meramalkan keberkesanan antibiotik dalam jangkitan osteoartikular kanak-kanak |
+| [17113969](https://pubmed.ncbi.nlm.nih.gov/17113969/) | 2006 | Tinjauan | Clinics in Dermatology | Diagnosis, rawatan, dan prognosis eritema migran dan artritis Lyme |
+| [28482848](https://pubmed.ncbi.nlm.nih.gov/28482848/) | 2017 | Tinjauan | Pediatric Rheumatology Online Journal | Tinjauan artritis Lyme pada kanak-kanak, diagnosis pembeza daripada artritis idiopatik remaja |
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-39 Cefuroxime registrations are recorded as marketed (Marketed) in this dataset, but individual license number, product name, dosage form, and approved indication text fields were not populated in this data pull, so a per-product table cannot be presented without guessing.
+39 pendaftaran Cefuroxime direkodkan sebagai dipasarkan (Dipasarkan) dalam set data ini, tetapi nombor lesen individu, nama produk, bentuk dos, dan medan teks petunjuk yang diluluskan tidak diisi dalam cabutan data ini, jadi jadual setiap produk tidak dapat dibentangkan tanpa meneka.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk risalah paket untuk maklumat keselamatan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Proceed with Guardrails**
+**Keputusan: Teruskan dengan Penjagaan**
 
-**Rationale:**
-Evidence for Cefuroxime in bacterial arthritis is L3 (case series, cohort, PK data, and guideline-level support) rather than RCT-confirmed, but the mechanistic and pharmacokinetic basis is sound and consistent with an already-established off-label use pattern. No TFDA safety data was available to complete a formal safety gate review.
+**Nisbah:**
+Bukti untuk Cefuroxime dalam artritis bakterial ialah L3 (siri kes, kohort, data PK, dan sokongan peringkat garis panduan) daripada yang disahkan RCT, tetapi asas mekanik dan farmakokinetik adalah kukuh dan konsisten dengan corak penggunaan luar label yang sudah ditetapkan. Tiada data keselamatan TFDA tersedia untuk menyelesaikan ulasan pintu keselamatan formal.
 
-**To proceed, the following is needed:**
-- TFDA package insert (warnings, contraindications) — currently blocking (DG001)
-- DrugBank mechanism-of-action record (DG002)
-- Dedicated clinical outcome data for bacterial (non-Lyme) septic arthritis specifically, ideally comparative/RCT-level
-- Clear separation of Lyme arthritis literature from general bacterial/septic arthritis literature before any clinical guardrail is finalized
-- Verified TFDA-approved indication text per license number to establish the true "original indication" baseline
+**Untuk meneruskan, yang berikut diperlukan:**
+- Risalah paket TFDA (amaran, kontraindikasi) — kini menghalang (DG001)
+- Rekod mekanisme tindakan DrugBank (DG002)
+- Data hasil klinikal yang berdedikasi untuk artritis bakterial (bukan Lyme) septik khususnya, sebaik-baiknya peringkat perbandingan/RCT
+- Pemisahan yang jelas kesusasteraan artritis Lyme daripada kesusasteraan artritis bakterial/septik umum sebelum mana-mana penjagaan klinikal dimuktamadkan
+- Teks petunjuk yang diluluskan TFDA yang disahkan setiap nombor lesen untuk menetapkan garis dasar petunjuk "asal" yang benar
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

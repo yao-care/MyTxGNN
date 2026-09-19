@@ -29,94 +29,95 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Piribedil: From Parkinson's Disease to Retinal Dystrophy with or Without Extraocular Anomalies
+# Piribedil: Dari Penyakit Parkinson ke Distrofi Retina dengan atau Tanpa Anomali Ekstrakular
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Piribedil is a dopamine D2/D3 receptor agonist approved for Parkinson's disease in France and several Asian markets, with one active registration in Malaysia.
-The TxGNN model predicts it may be effective for **Retinal Dystrophy with or Without Extraocular Anomalies**, supported by **0 clinical trials** and **15 retrieved publications** — none of which appear to directly investigate this drug-disease combination.
-The mechanistic link is very weak, and the high prediction score likely reflects a knowledge graph artefact rather than genuine biological plausibility.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Not available in Malaysia regulatory data (internationally known indication: Parkinson's disease) |
-| Predicted New Indication | Retinal Dystrophy with or Without Extraocular Anomalies |
-| TxGNN Prediction Score | 99.34% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+Piribedil adalah agonis reseptor dopamin D2/D3 yang diluluskan untuk penyakit Parkinson di Perancis dan beberapa pasaran Asia, dengan satu pendaftaran aktif di Malaysia.
+Model TxGNN meramalkan bahawa ubat ini mungkin berkesan untuk **Distrofi Retina dengan atau Tanpa Anomali Ekstrakular**, disokong oleh **0 percubaan klinis** dan **15 penerbitan yang diambil** — tiada satupun yang nampaknya secara langsung menyiasat kombinasi ubat-penyakit ini.
+Pautan mekanik sangat lemah, dan skor ramalan yang tinggi berkemungkinan mencerminkan artefak graf pengetahuan daripada kebolehkesahan biologi yang sebenar.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Ringkas
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on known information, Piribedil is a dopamine D2/D3 receptor agonist (with additional alpha-2 adrenoceptor antagonist properties), whose efficacy in Parkinson's disease has been clinically established through direct stimulation of dopaminergic pathways in the nigrostriatal system. It is approved in France and several Asian countries as a first- or adjunct-line agent for Parkinson's motor symptoms.
-
-The mechanistic link to retinal dystrophy with or without extraocular anomalies is theoretically very weak. Hereditary retinal dystrophies are caused by mutations affecting ciliary function, photoreceptor structure, or retinal pigment epithelium biology — pathways entirely unrelated to dopaminergic signalling. While the retina does contain dopaminergic amacrine cells that modulate light adaptation, their involvement does not translate into a plausible therapeutic pathway for progressive photoreceptor degeneration.
-
-The high TxGNN score (99.34%) is most likely an artefact of knowledge graph over-generalization: the "dopaminergic → neurodegeneration" connectivity in the graph is broad enough to span structurally unrelated diseases such as hereditary retinopathy. This interpretation is supported by the fact that the 15 retrieved publications describe orbital anatomy, extraocular muscle disorders, and congenital ocular anomalies — none of which directly investigate Piribedil in the context of retinal dystrophy. By contrast, the Rank 2 and Rank 4–5 predictions (juvenile-onset Parkinson syndromes and PLA2G6-associated neurodegeneration with parkinsonism) carry substantially stronger mechanistic rationale and warrant prioritization over this indication.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Item | Kandungan |
+|------|-----------|
+| Petunjuk Asal | Tidak tersedia dalam data kawal selia Malaysia (petunjuk yang diketahui secara antarabangsa: penyakit Parkinson) |
+| Petunjuk Baru yang Diramalkan | Distrofi Retina dengan atau Tanpa Anomali Ekstrakular |
+| Skor Ramalan TxGNN | 99.34% |
+| Paras Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-> ⚠️ **Relevance Notice**: The following 15 publications were retrieved by keyword matching on "retinal dystrophy with or without extraocular anomalies." After review, **none of the papers directly investigate Piribedil** in this condition. All relevance assessments remain pending. The publications primarily address orbital pathology, congenital extraocular muscle disorders, and developmental ocular anomalies that are unrelated to this drug-disease pairing.
+Pada masa ini, data mekanisme tindakan yang terperinci tidak tersedia dalam pakej bukti ini. Berdasarkan maklumat yang diketahui, Piribedil adalah agonis reseptor dopamin D2/D3 (dengan sifat antagonis reseptor alfa-2 adrenergik tambahan), yang keberkesanannya dalam penyakit Parkinson telah ditetapkan secara klinis melalui rangsangan langsung laluan dopaminergik dalam sistem nigrostriatal. Ubat ini diluluskan di Perancis dan beberapa negara Asia sebagai agen pilihan pertama atau tambahan untuk gejala motor Parkinson.
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|--------------|
-| [38321238](https://pubmed.ncbi.nlm.nih.gov/38321238/) | 2024 | Review | Pediatric Radiology | Differential diagnosis of pediatric orbital lesions, covering congenital and developmental ocular pathologies including microphthalmos, coloboma, and Coats disease |
-| [38249493](https://pubmed.ncbi.nlm.nih.gov/38249493/) | 2023 | Review | Taiwan Journal of Ophthalmology | Congenital lens shape anomalies; discusses structural and developmental defects with potential association to anterior segment dysgenesis |
-| [37408430](https://pubmed.ncbi.nlm.nih.gov/37408430/) | 2023 | Review | Chinese Journal of Ophthalmology | Structure and innervation of extraocular muscles; pulley tissue abnormalities and their role in strabismus |
-| [33806565](https://pubmed.ncbi.nlm.nih.gov/33806565/) | 2021 | Research Article | International Journal of Molecular Sciences | Optic nerve and retinal abnormalities in congenital fibrosis of extraocular muscles (CFEOM); explores whether KIF21A/TUBB3 mutations extend beyond the oculomotor system |
-| [30196776](https://pubmed.ncbi.nlm.nih.gov/30196776/) | 2018 | Review | Journal of Binocular Vision and Ocular Motility | Classification of congenital cranial dysinnervation disorders (CCDDs); ophthalmoplegia subtypes and diagnostic confirmation strategies |
-| [27930425](https://pubmed.ncbi.nlm.nih.gov/27930425/) | 2017 | Anatomical Study | Ophthalmic Plastic and Reconstructive Surgery | Description of the anomalous gracillimus orbitis accessory extraocular muscle found in cadaver dissections |
-| [22241537](https://pubmed.ncbi.nlm.nih.gov/22241537/) | 2012 | Review | Klinische Monatsblätter für Augenheilkunde | Congenital ptosis: levator muscle fatty dystrophy, fibrosis, and association with refractive errors and binocular vision disturbance |
-| [20127583](https://pubmed.ncbi.nlm.nih.gov/20127583/) | 2010 | Clinical Guide | Seminars in Neurology | Systematic history-taking and examination approach to diplopia; differential diagnosis of ocular, neurologic, and extraocular muscle disorders |
-| [9416661](https://pubmed.ncbi.nlm.nih.gov/9416661/) | 1997 | Review/Case Series | Seminars in Ultrasound, CT, and MR | Orbital infections: five-stage classification of periorbital cellulitis secondary to sinusitis; systemic predisposing conditions |
-| [7035111](https://pubmed.ncbi.nlm.nih.gov/7035111/) | 1981 | Case Series | Documenta Ophthalmologica | Wagner-Stickler syndrome complex: vitreoretinal degeneration, myopia, and extraocular manifestations including sensorineural deafness and skeletal dysplasia |
+Pautan mekanik ke distrofi retina dengan atau tanpa anomali ekstrakular sangat lemah secara teori. Distrofi retina warisan disebabkan oleh mutasi yang mempengaruhi fungsi silia, struktur fotoreseptor, atau biologi epitel pigmen retina — laluan yang sepenuhnya tidak berkaitan dengan isyarat dopaminergik. Walaupun retina memang mengandungi sel amakrin dopaminergik yang memodulasi adaptasi cahaya, penglibatan mereka tidak diterjemahkan ke dalam laluan terapeutik yang munasabah untuk kemerosotan fotoreseptor progresif.
+
+Skor TxGNN yang tinggi (99.34%) berkemungkinan besar adalah artefak daripada pergeneralisasian berlebihan graf pengetahuan: ketersambungan "dopaminergik → neurodegenerasi" dalam graf cukup luas untuk merangkumi penyakit yang tidak berkaitan secara struktur seperti retinopati warisan. Interpretasi ini disokong oleh fakta bahawa 15 penerbitan yang diambil menerangkan anatomi orbital, gangguan otot ekstrakular, dan anomali okular bawaan — tiada satupun yang secara terus menyiasat Piribedil dalam konteks distrofi retina. Sebaliknya, ramalan Kedudukan 2 dan Kedudukan 4–5 (sindrom Parkinson awal Hunt dan neurodegenerasi berkaitan PLA2G6 dengan parkinsonisme) membawa rasional mekanik yang jauh lebih kuat dan patut diutamakan daripada petunjuk ini.
 
 ---
 
-## Malaysia Market Information
+## Bukti Percubaan Klinis
 
-The regulatory data confirms 1 active registration for Piribedil in Malaysia (NPRA status: Marketed). However, specific authorization details — including authorization number, product name, dosage form, and approved indication text — are not available in the current evidence pack.
-
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------------------|-------------|-------------|---------------------|
-| — | — | — | Details not available in current evidence pack; please verify via NPRA official portal |
+Pada masa ini tiada percubaan klinis berkaitan yang didaftarkan.
 
 ---
 
-## Safety Considerations
+## Bukti Kesusasteraan
 
-Please refer to the package insert for safety information.
+> ⚠️ **Notis Relevansi**: Penerbitan 15 berikut diambil melalui padanan kata kunci pada "distrofi retina dengan atau tanpa anomali ekstrakular." Selepas semakan, **tiada satu penerbitan pun secara terus menyiasat Piribedil** dalam keadaan ini. Semua penilaian relevansi tetap tertangguh. Penerbitan terutamanya menangani patologi orbital, gangguan otot ekstrakular bawaan, dan anomali okular perkembangan yang tidak berkaitan dengan pasangan ubat-penyakit ini.
+
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|------|------|--------|----------------|
+| [38321238](https://pubmed.ncbi.nlm.nih.gov/38321238/) | 2024 | Ulasan | Pediatric Radiology | Diagnosis pembezaan lesi orbital pediatrik, merangkumi patologi okular kongenital dan perkembangan termasuk mikroftalmos, koloboma, dan penyakit Coats |
+| [38249493](https://pubmed.ncbi.nlm.nih.gov/38249493/) | 2023 | Ulasan | Taiwan Journal of Ophthalmology | Anomali bentuk lensa bawaan; membincangkan kecacatan struktur dan perkembangan dengan potensi kaitan kepada displasia segmen anterior |
+| [37408430](https://pubmed.ncbi.nlm.nih.gov/37408430/) | 2023 | Ulasan | Chinese Journal of Ophthalmology | Struktur dan innervasi otot ekstrakular; anomali tisu takal dan peranan mereka dalam strabismus |
+| [33806565](https://pubmed.ncbi.nlm.nih.gov/33806565/) | 2021 | Artikel Penyelidikan | International Journal of Molecular Sciences | Ketidaknormalan saraf optik dan retina dalam fibrosis kongenital otot ekstrakular (CFEOM); meneroka sama ada mutasi KIF21A/TUBB3 melampaui sistem okulomotor |
+| [30196776](https://pubmed.ncbi.nlm.nih.gov/30196776/) | 2018 | Ulasan | Journal of Binocular Vision and Ocular Motility | Pengelasan gangguan disinnervasi kranial bawaan (CCDDs); subtip oftalmoplejia dan strategi pengesahan diagnostik |
+| [27930425](https://pubmed.ncbi.nlm.nih.gov/27930425/) | 2017 | Kajian Anatomi | Ophthalmic Plastic and Reconstructive Surgery | Penerangan otot ekstrakular aksesori gracillimus orbitis anomal yang ditemui dalam diseksian mayat |
+| [22241537](https://pubmed.ncbi.nlm.nih.gov/22241537/) | 2012 | Ulasan | Klinische Monatsblätter für Augenheilkunde | Ptosis bawaan: distrofi lemak otot levator, fibrosis, dan kaitan dengan kesilapan refraksi dan gangguan penglihatan binokular |
+| [20127583](https://pubmed.ncbi.nlm.nih.gov/20127583/) | 2010 | Panduan Klinis | Seminars in Neurology | Pendekatan sistematis pengambilan sejarah dan pemeriksaan untuk diplopia; diagnosis pembezaan gangguan okular, neurologis, dan otot ekstrakular |
+| [9416661](https://pubmed.ncbi.nlm.nih.gov/9416661/) | 1997 | Ulasan/Siri Kes | Seminars in Ultrasound, CT, and MR | Jangkitan orbital: pengelasan lima peringkat selulitis periorbital sekunder kepada sinusitis; keadaan predisposisi sistemik |
+| [7035111](https://pubmed.ncbi.nlm.nih.gov/7035111/) | 1981 | Siri Kes | Documenta Ophthalmologica | Kompleks sindrom Wagner-Stickler: kemerosotan vitreoretina, miopia, dan manifestasi ekstrakular termasuk ketulian sensorineural dan displasia skeletal |
 
 ---
 
-## Conclusion and Next Steps
+## Maklumat Pasaran Malaysia
 
-**Decision: Hold**
+Data kawal selia mengesahkan 1 pendaftaran aktif untuk Piribedil di Malaysia (status NPRA: Dipasarkan). Walau bagaimanapun, butiran spesifik otorisasi — termasuk nombor otorisasi, nama produk, bentuk dos, dan teks petunjuk yang diluluskan — tidak tersedia dalam pakej bukti semasa.
 
-**Rationale:**
-Despite a TxGNN score of 99.34%, there is no clinical trial evidence and no directly relevant literature supporting Piribedil use in hereditary retinal dystrophies. The dopamine D2/D3 agonist mechanism of Piribedil does not address the ciliary dysfunction or photoreceptor degeneration underlying this condition, and the high score most likely reflects over-generalization within the knowledge graph's neurodegeneration node cluster.
+| Nombor Otorisasi | Nama Produk | Bentuk Dos | Petunjuk yang Diluluskan |
+|-----------------|-------------|-----------|-------------------------|
+| — | — | — | Butiran tidak tersedia dalam pakej bukti semasa; sila sahkan melalui portal rasmi NPRA |
 
-**To proceed, the following is needed:**
-- Retrieve the Malaysia NPRA package insert to confirm the approved indication text and complete safety profile (key warnings, contraindications)
-- Obtain full MOA data from DrugBank (DB12478) to enable proper mechanistic analysis
-- Conduct a targeted literature search specifically combining "piribedil" AND ("retinal dystrophy" OR "photoreceptor" OR "retinitis pigmentosa") to exclude any overlooked direct evidence
-- Re-examine the TxGNN graph topology to determine whether the prediction arises from an overgeneralized "dopaminergic → neurodegeneration" pathway, and consider down-weighting this edge type for ophthalmological indications
-- **Prioritize the higher-plausibility predictions instead**: Rank 2 (Hunt's juvenile paralysis agitans), Rank 4 (PLA2G6-associated neurodegeneration/PARK14), and Rank 5 (juvenile onset Parkinson disease 19A) all involve dopaminergic pathway dysfunction and carry meaningfully stronger mechanistic rationale for Piribedil repurposing — these should be advanced to the next evaluation stage ahead of the retinal dystrophy indication
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Alasan:**
+Walaupun skor TxGNN 99.34%, tiada bukti percubaan klinis dan tiada kesusasteraan yang secara terus relevan menyokong penggunaan Piribedil dalam distrofi retina warisan. Mekanisme agonis dopamin D2/D3 Piribedil tidak menangani disfungsi silia atau kemerosotan fotoreseptor yang mendasari keadaan ini, dan skor yang tinggi berkemungkinan besar mencerminkan pergeneralisasian berlebihan dalam kelompok nod neurodegenerasi graf pengetahuan.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Peroleh sisipan pakej NPRA Malaysia untuk mengesahkan teks petunjuk yang diluluskan dan profil keselamatan lengkap (amaran utama, kontraindikasi)
+- Dapatkan data MOA lengkap daripada DrugBank (DB12478) untuk membolehkan analisis mekanik yang sesuai
+- Lakukan pencarian kesusasteraan yang bertarget khusus menggabungkan "piribedil" AND ("distrofi retina" OR "fotoreseptor" OR "retinitis pigmentosa") untuk mengecualikan sebarang bukti langsung yang terlepas pandang
+- Periksa semula topologi graf TxGNN untuk menentukan sama ada ramalan berpunca daripada laluan "dopaminergik → neurodegenerasi" yang bergeneralisasi berlebihan, dan pertimbangkan untuk melemahkan jenis tepi ini untuk petunjuk oftalmologi
+- **Utamakan ramalan yang lebih munasabah**: Kedudukan 2 (paralisis agitans juvenil Hunt), Kedudukan 4 (neurodegenerasi berkaitan PLA2G6/PARK14), dan Kedudukan 5 (penyakit Parkinson awal 19A) semuanya melibatkan disfungsi laluan dopaminergik dan membawa rasional mekanik yang bermakna lebih kuat untuk pengguna semula Piribedil — ini harus dimajukan ke peringkat penilaian seterusnya sebelum petunjuk distrofi retina
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

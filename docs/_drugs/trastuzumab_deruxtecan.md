@@ -29,88 +29,89 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Trastuzumab Deruxtecan: From HER2-Positive Breast/Gastric Cancer to Drug-Induced Osteoporosis
+# Trastuzumab Deruxtecan: Daripada Kanser Payudara/Gastrik Positif HER2 kepada Osteoporosis Teraruh Ubat
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Trastuzumab deruxtecan is a HER2-targeted antibody-drug conjugate (ADC) whose cytotoxic payload is used to treat HER2-positive breast and gastric cancer. The TxGNN model predicts a possible link to **drug-induced osteoporosis**, but this prediction is supported by **0 clinical trials** and **0 publications**, and the drug's own evidence pack flags the mechanistic direction as likely reversed (i.e., the model may be detecting a known adverse-effect association rather than a therapeutic one).
+Trastuzumab deruxtecan adalah konjugat antibodi-ubat (ADC) yang disasarkan HER2, di mana muatan sitotoksiknya digunakan untuk merawat kanser payudara dan gastrik positif HER2. Model TxGNN meramalkan kemungkinan hubungan dengan **osteoporosis teraruh ubat**, tetapi ramalan ini disokong oleh **0 ujian klinikal** dan **0 penerbitan**, dan pakej bukti ubat itu sendiri menandai arah mekanik sebagai berkemungkinan terbalik (iaitu, model mungkin mengesan perkaitan kesan sampingan yang diketahui dan bukannya hubungan terapeutik).
 
 ---
 
-## Quick Overview
+## Gambaran Keseluruhan Cepat
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | HER2-positive breast cancer / gastric cancer (per known drug profile — TFDA approved-indication text is not available in this dataset) |
-| Predicted New Indication | Drug-induced osteoporosis |
-| TxGNN Prediction Score | 99.31% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+| Petunjuk Asal | Kanser payudara positif HER2 / kanser gastrik (mengikut profil ubat yang diketahui — teks petunjuk yang diluluskan TFDA tidak tersedia dalam set data ini) |
+| Petunjuk Baharu yang Diramalkan | Osteoporosis teraruh ubat |
+| Skor Ramalan TxGNN | 99.31% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data from DrugBank is not available (data gap DG002). Based on the known drug profile, trastuzumab deruxtecan is an ADC combining a HER2-targeting antibody with a topoisomerase I inhibitor payload (DXd), and its clinical use is as cytotoxic chemotherapy for HER2-positive solid tumours.
+Pada masa ini, data mekanisme tindakan terperinci dari DrugBank tidak tersedia (jurang data DG002). Berdasarkan profil ubat yang diketahui, trastuzumab deruxtecan adalah ADC yang menggabungkan antibodi yang menyasarkan HER2 dengan muatan perencat topoisomerase I (DXd), dan penggunaan klinikalnya adalah kemoterapi sitotoksik untuk tumor pepejal positif HER2.
 
-This mechanism does not point toward a bone-protective effect. On the contrary, cytotoxic chemotherapy, chemotherapy-induced menopause/hypogonadism, and related supportive therapies are well-established **causes** of drug-induced osteoporosis in clinical practice — not treatments for it. The TxGNN score of 99.31% is very high, but the evidence pack's own rationale assesses this as a likely case of the knowledge graph confusing a "drug → adverse effect → disease" proximity with a genuine "drug → treats → disease" relationship. In other words, the predicted direction of causality may be inverted.
+Mekanisme ini tidak menunjuk ke arah kesan perlindungan tulang. Sebaliknya, kemoterapi sitotoksik, menopaus/hipogonadisme teraruh kemoterapi, dan terapi sokongan yang berkaitan adalah **punca yang mapan** bagi **osteoporosis teraruh ubat** dalam amalan klinikal — bukan rawatannya. Skor TxGNN sebanyak 99.31% sangat tinggi, tetapi penilaian nisbah pakej bukti itu sendiri menilai ini sebagai kes yang berkemungkinan di mana graf pengetahuan mengelirukan kedekatannya dalam "ubat → kesan sampingan → penyakit" dengan hubungan tulin "ubat → merawat → penyakit". Dengan kata lain, arah kausaliti yang diramalkan mungkin terbalik.
 
-Given this, the prediction should be treated as mechanistically implausible until independently corroborated, rather than as a promising repurposing candidate.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered
+Memandangkan perkara ini, ramalan harus diperlakukan sebagai tidak munasabah secara mekanik sehingga disokong oleh bukti bebas, dan bukannya sebagai calon ubat semula guna yang menjanjikan.
 
 ---
 
-## Literature Evidence
+## Bukti Ujian Klinikal
 
-Currently no related literature available
-
----
-
-## Malaysia Market Information
-
-The product is marketed in Malaysia with 1 registered license, but the license number, product name, dosage form, and approved-indication text are not populated in the current dataset. This detail needs to be pulled directly from the NPRA registry before further evaluation.
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan
 
 ---
 
-## Cytotoxicity
+## Bukti Literatur
 
-This drug qualifies as antineoplastic (HER2-targeted ADC with a cytotoxic topoisomerase I inhibitor payload, used for breast/gastric cancer).
+Pada masa ini tiada literatur berkaitan yang tersedia
 
-| Item | Content |
+---
+
+## Maklumat Pasaran Malaysia
+
+Produk ini dipasarkan di Malaysia dengan 1 lesen berdaftar, tetapi nombor lesen, nama produk, bentuk dos, dan teks petunjuk yang diluluskan tidak diisi dalam set data semasa. Perincian ini perlu diambil terus dari pendaftaran NPRA sebelum penilaian lanjutan.
+
+---
+
+## Sitotoksisiti
+
+Ubat ini layak sebagai sitostatik (ADC yang disasarkan HER2 dengan muatan perencat topoisomerase I sitotoksik konvensional, digunakan untuk kanser payudara/gastrik).
+
+| Item | Kandungan |
 |------|------|
-| Cytotoxicity Classification | Targeted therapy (antibody-drug conjugate) with a conventional cytotoxic payload (topoisomerase I inhibitor) |
-| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
-| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | Please refer to the package insert warnings and precautions |
-| Handling Protection | Please refer to the package insert warnings and precautions |
+| Klasifikasi Sitotoksisiti | Terapi yang disasarkan (konjugat antibodi-ubat) dengan muatan sitotoksik konvensional (perencat topoisomerase I) |
+| Risiko Supresi Sum Tulang | Sila rujuk amaran dan langkah berhati-hati dalam sisipan paket |
+| Klasifikasi Emetogenisiti | Sila rujuk amaran dan langkah berhati-hati dalam sisipan paket |
+| Item Pemantauan | Sila rujuk amaran dan langkah berhati-hati dalam sisipan paket |
+| Perlindungan Pengendalian | Sila rujuk amaran dan langkah berhati-hati dalam sisipan paket |
 
 ---
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisipan paket untuk maklumat keselamatan.
 
 ---
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The prediction has no clinical trial or literature support (L5, model-only), and the drug's own repurposing rationale indicates the mechanistic direction is likely inverted — trastuzumab deruxtecan's cytotoxic mechanism is a plausible cause of drug-induced osteoporosis, not a treatment for it.
+**Nisbah:**
+Ramalan ini tidak mempunyai sokongan ujian klinikal atau literatur (L5, model sahaja), dan nisbah ubat semula guna ubat itu sendiri menunjukkan arah mekanik berkemungkinan terbalik — mekanisme sitotoksik trastuzumab deruxtecan adalah penyebab yang munasabah bagi osteoporosis teraruh ubat, bukan rawatannya.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA label PDF with full warnings and contraindications (blocking data gap DG001; required before any S1 safety review)
-- Confirmed mechanism of action via DrugBank API (DG002)
-- Complete Malaysia license details (license number, product name, dosage form, approved indication text)
-- Independent mechanistic review to confirm/rule out reversed causality before any further evidence collection is commissioned
+**Untuk meneruskan, perkara berikut diperlukan:**
+- PDF label TFDA/NPRA dengan amaran dan kontraindikasi lengkap (menghalang jurang data DG001; diperlukan sebelum sebarang semakan keselamatan S1)
+- Mekanisme tindakan yang disahkan melalui API DrugBank (DG002)
+- Perincian lesen Malaysia yang lengkap (nombor lesen, nama produk, bentuk dos, teks petunjuk yang diluluskan)
+- Semakan mekanik bebas untuk mengesahkan/menolak kausaliti terbalik sebelum sebarang pengumpulan bukti lanjut dimulakan
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

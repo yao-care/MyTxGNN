@@ -29,90 +29,91 @@ Tahap bukti: **L5** | Indikasi diramal: **6**
 
 </div>
 
-# Digoxin: From Heart Failure/Atrial Fibrillation to Prinzmetal Angina
+# Digoxin: Daripada Kegagalan Jantung/Fibrilasi Atrium kepada Angina Prinzmetal
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Digoxin is a cardiac glycoside historically used for heart failure and atrial fibrillation/flutter, acting by inhibiting the Na⁺/K⁺-ATPase pump to increase cardiac contractility and slow AV nodal conduction. The TxGNN model predicts it may be effective for **Prinzmetal Angina** (vasospastic angina), but mechanistic analysis suggests this represents a **reverse association** — digoxin may actually worsen coronary vasospasm. Currently, **0 clinical trials** and only **2 tangentially related publications** exist, providing essentially no supportive evidence.
+Digoxin ialah glikosida jantung yang digunakan secara bersejarah untuk kegagalan jantung dan fibrilasi/flutter atrium, bertindak dengan menghambat pam Na⁺/K⁺-ATPase untuk meningkatkan kontraktiliti jantung dan memperlahankan penghantaran nod AV. Model TxGNN meramalkan ia mungkin berkesan untuk **Angina Prinzmetal** (angina vasospastik), tetapi analisis mekanistik mencadangkan ini mewakili **hubungan terbalik** — digoxin sebenarnya mungkin memburukkan vasospasma koroner. Pada masa ini, **0 uji klinikal** dan hanya **2 penerbitan yang terhubung secara tangensial** wujud, memberikan pada dasarnya tiada bukti sokongan.
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | Heart failure, atrial fibrillation/flutter (licence details pending) |
-| Predicted New Indication | Prinzmetal Angina |
-| TxGNN Prediction Score | 99.81% |
-| Evidence Level | L4 (Mechanistic analysis only — notably contra-indicative) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 4 |
-| Recommended Decision | **Hold** |
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Kegagalan jantung, fibrilasi/flutter atrium (butiran lesen masih belum ada) |
+| Indikasi Baru Diprediksi | Angina Prinzmetal |
+| Skor Ramalan TxGNN | 99.81% |
+| Tahap Bukti | L4 (Hanya analisis mekanistik — terang kontra-indikatif) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 4 |
+| Keputusan yang Disyorkan | **Tahan** |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Digoxin is a cardiac glycoside that inhibits the Na⁺/K⁺-ATPase on myocardial and vascular smooth muscle cells, leading to increased intracellular calcium via the Na⁺/Ca²⁺ exchanger. In heart failure, this enhanced calcium availability augments cardiac contractility (positive inotropic effect). In atrial fibrillation, digoxin's vagotonic actions slow AV nodal conduction, controlling ventricular rate.
+Digoxin ialah glikosida jantung yang menghambat Na⁺/K⁺-ATPase pada sel miokard dan sel otot polos vaskular, membawa kepada peningkatan kalsium intrasel melalui pertukaran Na⁺/Ca²⁺. Dalam kegagalan jantung, ketersediaan kalsium yang ditingkatkan ini meningkatkan kontraktiliti jantung (kesan inotropik positif). Dalam fibrilasi atrium, tindakan vagotonik digoxin memperlahankan penghantaran nod AV, mengawal laju ventrikel.
 
-Prinzmetal angina (variant angina) is caused by transient coronary artery vasospasm, leading to ST-elevation and chest pain typically at rest. The standard treatments — calcium channel blockers and nitrates — work by relaxing vascular smooth muscle and reducing intracellular calcium. **Digoxin's mechanism acts in the opposite direction**: by inhibiting Na⁺/K⁺-ATPase in vascular smooth muscle, digoxin increases intracellular Ca²⁺, which would theoretically **promote** coronary vasospasm rather than relieve it. Clinically, digoxin use in patients with coronary vasospasm is considered a relative contraindication.
+Angina Prinzmetal (angina varian) disebabkan oleh vasospasma arteri koroner sementara, membawa kepada peningkatan ST dan nyeri dada biasanya semasa rehat. Rawatan standard — penyekat saluran kalsium dan nitrat — berfungsi dengan melonggarkan otot polos vaskular dan mengurangkan kalsium intrasel. **Mekanisme digoxin bertindak dalam arah bertentangan**: dengan menghambat Na⁺/K⁺-ATPase dalam otot polos vaskular, digoxin meningkatkan Ca²⁺ intrasel, yang secara teorinya akan **menggalakkan** vasospasma koroner daripada melegakan ia. Secara klinikal, penggunaan digoxin pada pesakit dengan vasospasma koroner dianggap kontraindikasi relatif.
 
-The high TxGNN score (99.81%) likely reflects the strong graph-level proximity between digoxin and cardiovascular diseases in the knowledge graph, rather than a genuine therapeutic relationship. This is a well-known limitation of graph-based drug repurposing models: high connectivity within a disease domain can produce spurious "treatment" predictions that are actually harmful associations. **This prediction should be treated as a cautionary example of model output requiring expert pharmacological review.**
+Skor TxGNN yang tinggi (99.81%) mungkin mencerminkan proksimiti tahap graf yang kuat antara digoxin dan penyakit kardiovaskular dalam graf pengetahuan, daripada hubungan terapeutik tulen. Ini adalah batasan terkenal bagi model repurposing ubat berasaskan graf: ketersambungan tinggi dalam domain penyakit dapat menghasilkan ramalan 'rawatan' palsu yang sebenarnya adalah hubungan yang berbahaya. **Ramalan ini harus diperlakukan sebagai contoh peringatan terhadap keluaran model yang memerlukan semakan farmakologi pakar.**
 
-## Clinical Trial Evidence
+## Bukti Uji Klinikal
 
-Currently no related clinical trials registered for digoxin in Prinzmetal angina.
+Pada masa ini tiada uji klinikal berkaitan yang terdaftar untuk digoxin dalam angina Prinzmetal.
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [10736610](https://pubmed.ncbi.nlm.nih.gov/10736610/) | 1999 | Review | Acta Physiol Pharmacol Bulg | Review of chronopharmacology and circadian rhythms in antihypertensive treatment; does not directly address digoxin for vasospastic angina |
-| [9206110](https://pubmed.ncbi.nlm.nih.gov/9206110/) | 1996 | Review | Chin Med Sci J | Re-evaluation of angina decubitus mechanism in 30 patients; discusses hemodynamic monitoring but does not support digoxin as treatment for vasospastic angina |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|------|------|--------|----------|
+| [10736610](https://pubmed.ncbi.nlm.nih.gov/10736610/) | 1999 | Ulasan | Acta Physiol Pharmacol Bulg | Ulasan farmakologi kronologi dan ritma sirkadian dalam rawatan antihipertensi; tidak mempertimbangkan digoxin untuk angina vasospastik secara langsung |
+| [9206110](https://pubmed.ncbi.nlm.nih.gov/9206110/) | 1996 | Ulasan | Chin Med Sci J | Penilaian semula mekanisme angina decubitus pada 30 pesakit; membincangkan pemantauan hemodinamik tetapi tidak menyokong digoxin sebagai rawatan untuk angina vasospastik |
 
-> **Note:** Neither publication provides direct evidence for the use of digoxin in Prinzmetal angina. The literature is tangentially related to cardiovascular pharmacology but does not support repurposing.
+> **Nota:** Tiada penerbitan memberikan bukti langsung untuk penggunaan digoxin dalam angina Prinzmetal. Kesusasteraan terhubung secara tangensial dengan farmakologi kardiovaskular tetapi tidak menyokong ubat indikasi baru.
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
 |---------|------|------|-----------|
-| (Details pending) | — | — | — |
-| (Details pending) | — | — | — |
-| (Details pending) | — | — | — |
-| (Details pending) | — | — | — |
+| (Butiran masih belum ada) | — | — | — |
+| (Butiran masih belum ada) | — | — | — |
+| (Butiran masih belum ada) | — | — | — |
+| (Butiran masih belum ada) | — | — | — |
 
-> 4 registrations are on record in Malaysia, but detailed licence information (product names, dosage forms, approved indications) was not available at data cutoff. Please consult the NPRA database for complete registration details.
+> 4 pendaftaran terdapat dalam rekod di Malaysia, tetapi maklumat lesen terperinci (nama produk, bentuk dos, indikasi yang diluluskan) tidak tersedia pada potong data. Sila rujuk pangkalan data NPRA untuk butiran pendaftaran lengkap.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-> Please refer to the package insert for safety information. Key warnings, contraindications, and drug interaction data were not available in this evidence pack.
+> Sila rujuk risalah ubat untuk maklumat keselamatan. Data amaran utama, kontraindikasi, dan interaksi ubat tidak tersedia dalam pakej bukti ini.
 >
-> **Important pharmacovigilance note for this specific repurposing candidate:** Digoxin is known to have a narrow therapeutic index. In the context of Prinzmetal angina, digoxin's mechanism of increasing intracellular Ca²⁺ in vascular smooth muscle poses a **potential risk of exacerbating coronary vasospasm**. This represents a safety signal against, rather than in favour of, this repurposing direction.
+> **Nota farmakovigilans penting untuk calon ubat indikasi baru khusus ini:** Digoxin diketahui mempunyai indeks terapeutik yang sempit. Dalam konteks angina Prinzmetal, mekanisme digoxin yang meningkatkan Ca²⁺ intrasel dalam otot polos vaskular menimbulkan **risiko berpotensi memperburukkan vasospasma koroner**. Ini mewakili isyarat keselamatan terhadap, bukannya memihak, arah ubat indikasi baru ini.
 
-## Additional Predicted Indications (Ranked 2–6)
+## Indikasi Diprediksi Tambahan (Kedudukan 2–6)
 
-All additional TxGNN predictions for digoxin were assessed and received **Hold** recommendations due to lack of mechanistic rationale and absence of clinical evidence:
+Semua ramalan TxGNN tambahan untuk digoxin telah dinilai dan menerima cadangan **Tahan** kerana kekurangan rasional mekanistik dan ketiadaan bukti klinikal:
 
-| Rank | Predicted Indication | TxGNN Score | Evidence Level | Key Concern |
-|------|---------------------|-------------|----------------|-------------|
-| 2 | Duodenal obstruction | 99.70% | L5 | Mechanical pathology; no pharmacological rationale. Only 1 unrelated case report. |
-| 3 | Duodenal ulcer | 99.59% | L5 | Acid/H. pylori-mediated disease; digoxin GI toxicity may worsen symptoms. Literature describes drug interactions/toxicity, not therapeutic use. |
-| 4 | Duodenogastric reflux | 99.53% | L5 | GI motility disorder; digoxin's vagotonic GI effects are adverse, not therapeutic. No literature. |
-| 5 | Susceptibility to ischaemic stroke (obsolete term) | 99.29% | L5 | Obsolete ontology term; evidence suggests digoxin **increases** stroke risk (OR 1.2–1.6). |
-| 6 | Hypoalphalipoproteinaemia | 99.20% | L5 | Lipid metabolism disorder; no known intersection with Na⁺/K⁺-ATPase inhibition. No evidence. |
+| Kedudukan | Indikasi Diprediksi | Skor TxGNN | Tahap Bukti | Kebimbangan Utama |
+|------|--------|----------|--------|---------|
+| 2 | Halangan duodenum | 99.70% | L5 | Patalogi mekanikal; tiada rasional farmakoloji. Hanya 1 laporan kes yang tidak berkaitan. |
+| 3 | Ulser duodenum | 99.59% | L5 | Penyakit berasaskan asid/H. pylori; toksisiti GI digoxin mungkin memburukkan simptom. Kesusasteraan menerangkan interaksi ubat/toksisiti, bukan penggunaan terapeutik. |
+| 4 | Refluk duodenogastrik | 99.53% | L5 | Gangguan motiliti GI; kesan GI vagotonik digoxin adalah buruk, bukan terapeutik. Tiada kesusasteraan. |
+| 5 | Kerentanan kepada strok iskemik (istilah usang) | 99.29% | L5 | Istilah ontologi usang; bukti mencadangkan digoxin **meningkatkan** risiko strok (OR 1.2–1.6). |
+| 6 | Hipoalfalipoproteinemia | 99.20% | L5 | Gangguan metabolisme lipid; tiada persilangan terkenal dengan perencatan Na⁺/K⁺-ATPase. Tiada bukti. |
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Berikutnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The top-ranked prediction (Prinzmetal angina) represents a **pharmacological contra-indication** rather than a therapeutic opportunity — digoxin's mechanism of increasing intracellular calcium in vascular smooth muscle would theoretically exacerbate coronary vasospasm. All six predicted indications lack clinical trial support, and the existing literature does not substantiate any therapeutic application. The uniformly high TxGNN scores across unrelated disease domains (cardiac, GI, cerebrovascular, metabolic) suggest the model is capturing digoxin's broad pharmacological footprint in the knowledge graph rather than identifying genuine repurposing candidates.
+**Rasional:**
+Ramalan teratas (angina Prinzmetal) mewakili **kontraindikasi farmakologi** daripada peluang terapeutik — mekanisme digoxin yang meningkatkan kalsium intrasel dalam otot polos vaskular secara teorinya akan memperburukkan vasospasma koroner. Kesemua enam indikasi yang diprediksi tidak mempunyai sokongan uji klinikal, dan kesusasteraan sedia ada tidak mengesahkan sebarang aplikasi terapeutik. Skor TxGNN yang seragam tinggi merentasi domain penyakit yang tidak berkaitan (jantung, GI, serebrovaskular, metabolik) mencadangkan model menangkap jejak farmakologi digoxin yang luas dalam graf pengetahuan daripada mengenal pasti calon ubat indikasi baru tulen.
 
-**To proceed, the following would be needed:**
-- Detailed mechanism of action review from DrugBank to confirm or refute any off-target effects that could be therapeutically relevant
-- Package insert safety data (key warnings, contraindications, DDIs) for comprehensive risk assessment
-- Complete Malaysia registration details (NPRA licence data)
-- If any indication were to advance, preclinical evidence of a plausible therapeutic mechanism would be required before clinical consideration
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Kajian mekanisme tindakan terperinci daripada DrugBank untuk mengesahkan atau menyangkal sebarang kesan sasaran luar yang boleh relevan secara terapeutik
+- Data keselamatan risalah ubat (amaran utama, kontraindikasi, DDI) untuk penilaian risiko komprehensif
+- Butiran pendaftaran Malaysia lengkap (data lesen NPRA)
+- Jika sebarang indikasi maju, bukti praklinik mekanisme terapeutik yang munasabah diperlukan sebelum pertimbangan klinikal
 
 ---
 
-> *Disclaimer: This report is for research reference only and does not constitute medical advice. Drug repurposing candidates require rigorous clinical validation before any therapeutic application. TxGNN model predictions should be interpreted in conjunction with expert pharmacological and clinical review.*
+> *Penafian: Laporan ini hanya untuk rujukan penyelidikan dan tidak merupakan nasihat perubatan. Calon ubat indikasi baru memerlukan pengesahan klinikal yang ketat sebelum sebarang aplikasi terapeutik. Ramalan model TxGNN harus ditafsirkan bersama-sama dengan ulasan pakar farmakologi dan klinikal.*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

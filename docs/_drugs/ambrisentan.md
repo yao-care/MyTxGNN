@@ -29,104 +29,105 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Ambrisentan: From Pulmonary Arterial Hypertension to Pulmonary Arteriovenous Malformation
+# Ambrisentan: Dari Hipertensi Arteri Paru ke Malformasi Arteriovenosa Paru
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Ambrisentan is a selective endothelin type A (ETA) receptor antagonist, approved for the treatment of pulmonary arterial hypertension (PAH) and currently marketed in Malaysia under 2 registered products.
-The TxGNN model's top-ranked prediction suggests it may be relevant to **Pulmonary Arteriovenous Malformation (PAVM)**, through an indirect mechanistic pathway involving HHT-associated PAH and ETA receptor cross-talk with the BMP/ALK1 signalling axis.
-This direction is currently supported by **0 clinical trials** and **1 case report**, placing it at an early exploratory stage only — while separately, evidence for several PAH subtypes (CHD-PAH, CTD-PAH, HIV-PAH) in this same pack reaches L1–L2 and warrants independent evaluation.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Pulmonary arterial hypertension (PAH) |
-| Predicted New Indication | Pulmonary Arteriovenous Malformation (PAVM) |
-| TxGNN Prediction Score | 99.41% |
-| Evidence Level | L4 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
-| Recommended Decision | Hold |
+Ambrisentan ialah penghambat reseptor endotelin tipe A (ETA) yang selektif, yang diluluskan untuk rawatan hipertensi arteri paru (PAH) dan sedang dipasarkan di Malaysia di bawah 2 produk berdaftar.
+Ramalan model TxGNN yang mendapat kedudukan tertinggi menunjukkan ia mungkin relevan dengan **Malformasi Arteriovenosa Paru (PAVM)**, melalui laluan mekanik tidak langsung yang melibatkan PAH berkaitan HHT dan keselarasan silang reseptor ETA dengan paksi isyarat BMP/ALK1.
+Arah ini kini disokong oleh **0 ujian klinikal** dan **1 laporan kes**, meletakkannya pada peringkat penerokaan awal sahaja — sementara itu, bukti untuk beberapa subtip PAH (CHD-PAH, CTD-PAH, HIV-PAH) dalam pakej yang sama mencapai L1–L2 dan patut dinilai secara berasingan.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Ikhtisar Cepat
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on established pharmacological knowledge, Ambrisentan is a selective ETA receptor antagonist that inhibits endothelin-1 (ET-1)-mediated pulmonary vasoconstriction and vascular smooth muscle proliferation. Its selectivity for ETA over ETB receptors is considered pharmacologically advantageous, as ETB mediates vasodilatory and natriuretic effects that may be preserved during treatment.
-
-Pulmonary arteriovenous malformations (PAVMs) are structural arteriovenous communications within the lung, most commonly (>70%) occurring as a manifestation of hereditary haemorrhagic telangiectasia (HHT) — an autosomal dominant disorder caused by loss-of-function mutations in *ALK1* (*ACVRL1*) or *ENG*. A clinically important minority of HHT patients develops concurrent pulmonary arterial hypertension, creating an overlap syndrome. Research has demonstrated that ET-1 can suppress BMP/ALK1 pathway signalling and drive vascular remodelling, suggesting that ETA blockade might theoretically attenuate this suppression in HHT-associated vascular dysregulation.
-
-However, the mechanistic link is indirect. PAVM itself is a structural defect arising from impaired BMP/ALK1-driven vascular development — its formation is not primarily ET-1-driven. Any potential benefit of Ambrisentan would be confined to managing the PAH component in HHT patients who develop both conditions simultaneously, and would not be expected to prevent, regress, or structurally modify the arteriovenous malformation itself. The TxGNN high score most likely reflects ontological proximity between PAVM (as an HHT feature) and PAH-related nodes in the knowledge graph, rather than a direct drug–disease mechanistic relationship.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for Ambrisentan in pulmonary arteriovenous malformation.
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Hipertensi arteri paru (PAH) |
+| Petunjuk Baru yang Diramalkan | Malformasi Arteriovenosa Paru (PAVM) |
+| Skor Ramalan TxGNN | 99.41% |
+| Tahap Bukti | L4 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 2 |
+| Keputusan yang Disyorkan | Tangguh |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Masuk Akal?
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|--------------|
-| [33969094](https://pubmed.ncbi.nlm.nih.gov/33969094/) | 2021 | Case Report | World Journal of Clinical Cases | Reports a rare case of HHT complicated by PAH; describes clinical presentation, management strategy, and family genetic analysis. Highlights the diagnostic and therapeutic challenge of this co-occurrence. No direct Ambrisentan efficacy data for PAVM are provided. |
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia dalam pakej bukti ini. Berdasarkan pengetahuan farmakologi yang telah ditetapkan, ambrisentan ialah penghambat reseptor ETA yang selektif yang menghalang vasokonstriksi paru yang dimediasi oleh endotelin-1 (ET-1) dan proliferasi otot licin vaskular. Keselektifannya terhadap reseptor ETA berbanding ETB dianggap berfaedah dari segi farmakologi, kerana ETB menengahkan kesan vasodilatasi dan natriuretik yang mungkin dikekalkan semasa rawatan.
 
----
+Malformasi arteriovenosa paru (PAVM) ialah komunikasi arteriovenosa struktur dalam paru, yang paling lazim (>70%) berlaku sebagai manifestasi telangiektasia hemoragik herediter (HHT) — kelainan autosom dominan yang disebabkan oleh mutasi kehilangan fungsi dalam *ALK1* (*ACVRL1*) atau *ENG*. Minoriti pesakit HHT yang menarik secara klinikal mengembangkan hipertensi arteri paru serentak, mewujudkan sindrom pertindihan. Penyelidikan telah menunjukkan bahawa ET-1 boleh menekan isyarat laluan BMP/ALK1 dan memacu pembentukan semula vaskular, menunjukkan bahawa penyekat ETA mungkin secara teori dapat mengurangkan penindasan ini dalam disregulasi vaskular berkaitan HHT.
 
-## Malaysia Market Information
-
-Malaysia NPRA records confirm **2 registered products** for Ambrisentan (market status: Marketed). Detailed registration data — including license numbers, product names, dosage forms, manufacturers, and approved indication text — are not available in the current dataset.
-
-> For complete registration details, please consult the NPRA Product Registration database directly.
+Walau bagaimanapun, pautan mekanik adalah tidak langsung. PAVM itu sendiri ialah kecacatan struktur yang timbul daripada pembangunan vaskular yang dipacu BMP/ALK1 yang tidak sempurna — pembentukannya tidak didorong terutama oleh ET-1. Sebarang manfaat potensi ambrisentan akan terhad kepada pengurusan komponen PAH pada pesakit HHT yang mengembangkan kedua-dua keadaan serentak, dan tidak dijangka dapat mencegah, meregres, atau mengubah struktur malformasi arteriovenosa itu sendiri. Skor TxGNN yang tinggi kemungkinan besar mencerminkan jarak ontologi antara nod PAVM (sebagai ciri HHT) dan nod berkaitan PAH dalam graf pengetahuan, bukannya hubungan mekanik ubat–penyakit yang langsung.
 
 ---
 
-## Safety Considerations
+## Bukti Ujian Klinikal
 
-> Please refer to the NPRA-approved package insert for full safety information. Detailed warning and contraindication data are not available in the current evidence pack and must be obtained from the prescribing information before any clinical use.
-
----
-
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The TxGNN prediction score for PAVM (99.41%) most likely reflects knowledge graph artefact — specifically, the topological proximity between PAVM/HHT disease nodes and PAH-related nodes — rather than a clinically actionable drug–disease relationship. PAVM is a structural lesion not driven by ET-1 signalling, and the available evidence is limited to a single indirect case report with no Ambrisentan-specific data.
-
-**To proceed, the following is needed:**
-- **Mechanistic validation:** Preclinical studies in HHT animal models (e.g., *ALK1*/*ENG* heterozygous knockout mice) to evaluate whether ETA antagonism modifies PAH severity or PAVM progression
-- **Refine the research question:** Redirect focus to the specific sub-population of HHT patients with concurrent PAH (not PAVM alone), where the mechanistic rationale is more direct
-- **Obtain complete safety data:** Retrieve NPRA package insert to address the blocking data gap (DG001: warnings and contraindications)
-- **Obtain MOA data:** Query DrugBank API to address DG002 and enable full mechanistic analysis
-- **Confirm registration details:** Retrieve approved indication text from NPRA to characterise the licensed scope in Malaysia
+Pada masa ini tiada ujian klinikal berkaitan berdaftar untuk ambrisentan dalam malformasi arteriovenosa paru.
 
 ---
 
-## Supplementary: Additional High-Evidence Predicted Indications
+## Bukti Kesusasteraan
 
-> The evidence pack covers 10 TxGNN-predicted indications. The top-ranked prediction (PAVM, L4) has limited evidence. The following indications in the same pack carry substantially stronger evidence and merit independent evaluation.
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-------|------|--------|----------------|
+| [33969094](https://pubmed.ncbi.nlm.nih.gov/33969094/) | 2021 | Laporan Kes | World Journal of Clinical Cases | Melaporkan kes jarang HHT yang disertai oleh PAH; menerangkan persembahan klinikal, strategi pengurusan, dan analisis genetik keluarga. Menekankan cabaran diagnostik dan terapeutik daripada keadaan bersama ini. Tiada data keberkesanan ambrisentan langsung untuk PAVM disediakan. |
 
-| Rank | Indication | TxGNN Score | Evidence Level | Clinical Trials | Literature | Recommendation |
-|------|-----------|-------------|---------------|-----------------|------------|----------------|
-| 2 | PAH associated with Congenital Heart Disease (CHD-PAH) | 99.37% | **L2** | 9 trials (1 completed Phase 3b, 2 Phase 2) | 18 publications | **Proceed with Guardrails** |
-| 3 | PAH associated with Connective Tissue Disease (CTD-PAH) | 99.30% | **L2** | 3 trials (2 completed Phase 2/4) | 19 publications (incl. 2 meta-analyses) | **Proceed with Guardrails** |
-| 4 | PAH associated with HIV infection (HIV-PAH) | 99.30% | **L1** | 1 completed Phase 3 RCT (HIV-PAH population) | 4 publications | **Proceed with Guardrails** |
-| 5 | PAH associated with Chronic Haemolytic Anaemia | 99.30% | L4 | None | None | Hold |
-| 6 | PAH associated with Schistosomiasis | 99.30% | L4 | None | None | Hold |
-| 7–10 | Periodontal syndrome / Hypotrichosis / Hypertrichosis / Dandy-Walker syndrome | 99.1–99.2% | L5 | None | Unrelated literature | Hold — likely KG artefacts |
+---
 
-**Key observation for CHD-PAH (Rank 2):** The mechanistic pathway is the most directly supported — chronic left-to-right shunting → persistent pulmonary endothelial shear stress → ET-1 upregulation → ETA-mediated vascular remodelling (Eisenmenger physiology). This is the most biologically direct alignment with Ambrisentan's ETA antagonism. A Phase 3b study in 134 Chinese PAH patients (NCT01808313, including CHD-PAH subgroup) has been completed.
+## Maklumat Pasaran Malaysia
 
-**Key observation for CTD-PAH (Rank 3):** Ambrisentan is already included in international guidelines (ESC/ERS) and licensed in several jurisdictions for CTD-PAH, particularly systemic sclerosis-associated PAH. The AMBITION trial CTD-PAH subgroup analysis and multiple Phase 2/4 studies provide L2-level evidence for initial combination therapy (Ambrisentan + Tadalafil). This may represent a label-extension opportunity in Malaysia rather than a novel repurposing.
+Rekod NPRA Malaysia mengesahkan **2 produk berdaftar** untuk ambrisentan (status pasaran: Dipasarkan). Data pendaftaran terperinci — termasuk nombor lesen, nama produk, bentuk dos, pengilang, dan teks petunjuk yang diluluskan — tidak tersedia dalam set data semasa.
 
-**Key observation for HIV-PAH (Rank 4):** A completed Phase 3, multicentre, double-blind, placebo-controlled crossover RCT (NCT00709956) enrolled 64 HIV-PAH patients. While this trial evaluated iloprost as the primary intervention, it represents the highest-quality trial evidence available for this patient population and validates the feasibility of controlled studies in HIV-PAH. ERA-specific data (including Ambrisentan background therapy) are available within this dataset.
+> Untuk maklumat pendaftaran lengkap, sila rujuk pangkalan data Pendaftaran Produk NPRA secara langsung.
 
-> ⚠️ **Disclaimer:** All findings are for research reference only and do not constitute medical advice. Drug repurposing candidates require clinical validation before any therapeutic application. All clinical use should refer to the NPRA-approved prescribing information and applicable Malaysia regulatory requirements.
+---
+
+## Pertimbangan Keselamatan
+
+> Sila rujuk lembaran maklumat pakej yang diluluskan NPRA untuk maklumat keselamatan lengkap. Data amaran dan kontraindikasi terperinci tidak tersedia dalam pakej bukti semasa dan mesti diperolehi daripada maklumat preskripsi sebelum sebarang penggunaan klinikal.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tangguh**
+
+**Rasional:**
+Skor ramalan TxGNN untuk PAVM (99.41%) kemungkinan besar mencerminkan artifak graf pengetahuan — khususnya, jarak topologi antara nod penyakit PAVM/HHT dan nod berkaitan PAH — bukannya hubungan ubat–penyakit yang boleh diambil tindakan secara klinikal. PAVM ialah lesi struktur yang tidak didorong oleh isyarat ET-1, dan bukti yang ada terhad kepada laporan kes tidak langsung tunggal tanpa data spesifik ambrisentan.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- **Pengesahan mekanik:** Kajian praklinikal dalam model hewan HHT (*ALK1*/*ENG* tikus heterozigot knockout) untuk menilai sama ada antagonisme ETA mengubah keterukan PAH atau perkembangan PAVM
+- **Perhalusi soalan penyelidikan:** Ubahsuai fokus kepada subpopulasi spesifik pesakit HHT dengan PAH serentak (bukan PAVM sahaja), di mana rasional mekanik lebih langsung
+- **Perolehi data keselamatan lengkap:** Ambil lembaran maklumat pakej NPRA untuk menangani jurang data penyekat (DG001: amaran dan kontraindikasi)
+- **Perolehi data MOA:** Soal API DrugBank untuk menangani DG002 dan membolehkan analisis mekanik penuh
+- **Sahkan butiran pendaftaran:** Ambil teks petunjuk yang diluluskan daripada NPRA untuk mencirikan skop berdaftar di Malaysia
+
+---
+
+## Tambahan: Petunjuk Ramalan Bukt Tinggi Tambahan
+
+> Pakej bukti meliputi 10 petunjuk yang diramalkan TxGNN. Ramalan kedudukan tertinggi (PAVM, L4) mempunyai bukti terhad. Petunjuk berikut dalam pakej yang sama membawa bukti yang jauh lebih kuat dan patut dinilai secara berasingan.
+
+| Kedudukan | Petunjuk | Skor TxGNN | Tahap Bukti | Ujian Klinikal | Kesusasteraan | Cadangan |
+|-----------|---------|-----------|-----------|-----------------|------------|---------|
+| 2 | PAH berkaitan dengan Penyakit Jantung Kongenital (CHD-PAH) | 99.37% | **L2** | 9 ujian (1 selesai Fasa 3b, 2 Fasa 2) | 18 penerbitan | **Teruskan dengan Penjaga** |
+| 3 | PAH berkaitan dengan Penyakit Tisu Ikat (CTD-PAH) | 99.30% | **L2** | 3 ujian (2 selesai Fasa 2/4) | 19 penerbitan (inkl. 2 meta-analisis) | **Teruskan dengan Penjaga** |
+| 4 | PAH berkaitan dengan jangkitan HIV (HIV-PAH) | 99.30% | **L1** | 1 RCT Fasa 3 selesai (populasi HIV-PAH) | 4 penerbitan | **Teruskan dengan Penjaga** |
+| 5 | PAH berkaitan dengan Anemia Hemolitik Kronik | 99.30% | L4 | Tiada | Tiada | Tangguh |
+| 6 | PAH berkaitan dengan Schistosomiasis | 99.30% | L4 | Tiada | Tiada | Tangguh |
+| 7–10 | Sindrom Periodontal / Hipotrikosis / Hipertrikosis / Sindrom Dandy-Walker | 99.1–99.2% | L5 | Tiada | Kesusasteraan Tidak Berkaitan | Tangguh — kemungkinan artifak KG |
+
+**Pemerhatian kunci untuk CHD-PAH (Kedudukan 2):** Laluan mekanik ialah yang paling disokong secara langsung — pintasan kiri-ke-kanan kronik → tegasan endotel paru yang berterusan → peningkatan ET-1 → pembentukan semula vaskular yang dimediasi ETA (fisiologi Eisenmenger). Ini ialah penjajaran langsung yang paling bersifat biologi dengan antagonisme ETA ambrisentan. Kajian Fasa 3b dalam 134 pesakit PAH China (NCT01808313, termasuk subkumpulan CHD-PAH) telah selesai.
+
+**Pemerhatian kunci untuk CTD-PAH (Kedudukan 3):** Ambrisentan sudah disertakan dalam garis panduan antarabangsa (ESC/ERS) dan dilesenkan di beberapa bidang kuasa untuk CTD-PAH, terutamanya PAH berkaitan sklerosis sistemik. Analisis subkumpulan ujian AMBITION CTD-PAH dan beberapa kajian Fasa 2/4 memberikan bukti tahap L2 untuk terapi gabungan permulaan (Ambrisentan + Tadalafil). Ini mungkin mewakili peluang lanjutan label di Malaysia bukannya penemuan semula novel.
+
+**Pemerhatian kunci untuk HIV-PAH (Kedudukan 4):** RCT silang terkunci ganda pelbagai pusat Fasa 3 yang selesai (NCT00709956) mendaftarkan 64 pesakit HIV-PAH. Walaupun ujian ini menilai iloprost sebagai intervensi utama, ia mewakili bukti ujian kualiti tertinggi yang tersedia untuk populasi pesakit ini dan mengesahkan kebolehlaksanaan kajian terkawal dalam HIV-PAH. Data spesifik ERA (termasuk terapi latar belakang ambrisentan) tersedia dalam set data ini.
+
+> ⚠️ **Penafian:** Semua penemuan adalah untuk rujukan penyelidikan sahaja dan tidak membentuk nasihat perubatan. Calon penemuan semula ubat memerlukan pengesahan klinikal sebelum sebarang aplikasi terapeutik. Semua penggunaan klinikal harus merujuk kepada maklumat preskripsi yang diluluskan NPRA dan keperluan kawal selia Malaysia yang berkenaan.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

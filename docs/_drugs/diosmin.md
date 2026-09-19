@@ -29,68 +29,69 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Diosmin: From Venous Insufficiency to Amenorrhea
+# Diosmin: Dari Ketidakcukupan Vena kepada Amenorrhea
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Diosmin is a flavonoid-based venotonic and vascular protectant, widely used for the management of chronic venous insufficiency and haemorrhoids. The TxGNN model predicts it may be effective for **Amenorrhea**, however there are currently **no clinical trials** and **no publications** supporting this specific repurposing direction. The mechanistic link between Diosmin's vascular activity and the hormonal pathophysiology of amenorrhea is considered extremely weak.
+Diosmin ialah agen venotonik berasaskan flavonoid dan perlindung vaskular, yang banyak digunakan untuk pengurusan ketidakcukupan vena kronik dan hemorrhoid. Model TxGNN meramalkan ia mungkin berkesan untuk **Amenorrhea**, bagaimanapun pada masa ini **tiada ujian klinikal** dan **tiada penerbitan** yang menyokong arah penggandaan tujuan spesifik ini. Hubungan mekanistik antara aktiviti vaskular Diosmin dan patofisiologi hormonal amenorrhea dianggap sangat lemah.
 
-## Quick Overview
+## Ikhtisar Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | Chronic venous insufficiency, haemorrhoids (venotonic/vascular protectant) |
-| Predicted New Indication | Amenorrhea (disease) |
-| TxGNN Prediction Score | 99.42% |
-| Evidence Level | L5 — Model prediction only, no actual studies |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 20 |
-| Recommended Decision | **Hold** |
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asli | Ketidakcukupan vena kronik, hemorrhoid (venotonik/perlindung vaskular) |
+| Indikasi Baru yang Diramalkan | Amenorrhea (penyakit) |
+| Skor Ramalan TxGNN | 99.42% |
+| Tahap Bukti | L5 — Ramalan model sahaja, tiada kajian sebenar |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 20 |
+| Keputusan Disyorkan | **Tahan** |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data is not available in the evidence pack. Based on known pharmacological literature, Diosmin is a semi-synthetic flavonoid glycoside derived from hesperidin. It acts primarily as a venotonic agent — enhancing venous wall tone, reducing venous distensibility, and decreasing capillary permeability. It also possesses anti-inflammatory and lymphatonic properties. Its established clinical use centres on chronic venous disease (leg heaviness, oedema, varicose veins) and acute haemorrhoidal episodes.
+Pada masa ini, data mekanisme tindakan (MOA) terperinci tidak tersedia dalam pakej bukti. Berdasarkan literatur farmakologi yang diketahui, Diosmin ialah glikosida flavonoid separa sintetik yang berasal daripada hesperidin. Ia bertindak terutamanya sebagai agen venotonik — meningkatkan tonus dinding vena, mengurangkan kebolehrenyutan vena, dan mengurangkan kebolehtelapan kapilari. Ia juga mempunyai sifat anti-radang dan limfatik. Penggunaan klinikal yang ditetapkan berpusat pada penyakit vena kronik (perasaan berat pada kaki, edema, varises) dan episod hemorrhoidal akut.
 
-The predicted new indication — amenorrhea — is fundamentally a disorder of the hypothalamic-pituitary-ovarian (HPO) axis, involving disruptions in gonadotropin-releasing hormone, FSH/LH signalling, or end-organ (ovarian/uterine) responsiveness. The pathophysiological basis of amenorrhea is hormonal, not vascular, and the molecular targets of Diosmin (venous smooth muscle tone, capillary permeability mediators) have no established overlap with HPO axis regulation.
+Indikasi baru yang diramalkan — amenorrhea — pada asasnya ialah gangguan paksi hipotalamik-pituitari-ovarial (HPO), yang melibatkan gangguan dalam hormon melepaskan gonadotropin, isyarat FSH/LH, atau responsiviti organ hujung (ovari/rahim). Asas patofisiologi amenorrhea adalah hormonal, bukan vaskular, dan sasaran molekul Diosmin (tonus otot licin vena, penyampai kebolehtelapan kapilari) tidak mempunyai pertindihan yang diketahui dengan regulasi paksi HPO.
 
-While some flavonoids are reported to exhibit weak phytoestrogenic activity through interaction with oestrogen receptors, there is no published evidence that Diosmin specifically possesses clinically meaningful oestrogenic or progestogenic effects. The high TxGNN prediction score (99.42%) likely reflects structural proximity between drug and disease nodes within the knowledge graph — a topological artefact rather than a genuine biological causal relationship. This interpretation is consistent with the complete absence of any clinical or preclinical evidence linking Diosmin to amenorrhea.
+Walaupun beberapa flavonoid dilaporkan menunjukkan aktiviti phytoestrogenik yang lemah melalui interaksi dengan reseptor estrogen, tiada bukti yang diterbitkan bahawa Diosmin khususnya mempunyai kesan estrogenik atau progestogenik yang bermakna secara klinikal. Skor ramalan TxGNN yang tinggi (99.42%) mungkin mencerminkan kedekatan struktur antara nod ubat dan penyakit dalam graf pengetahuan — artifak topologi, bukan hubungan kausal biologi yang tulen. Tafsiran ini konsisten dengan ketiadaan lengkap sebarang bukti klinikal atau praklinikal yang menghubungkan Diosmin kepada amenorrhea.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-Currently no related clinical trials registered for the Diosmin–Amenorrhea combination on ClinicalTrials.gov or ICTRP.
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan untuk kombinasi Diosmin–Amenorrhea di atas ClinicalTrials.gov atau ICTRP.
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no related literature available on PubMed for the Diosmin–Amenorrhea combination.
+Pada masa ini tiada literatur berkaitan yang tersedia di atas PubMed untuk kombinasi Diosmin–Amenorrhea.
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-There are **20 registered products** containing Diosmin with the National Pharmaceutical Regulatory Agency (NPRA) of Malaysia. However, detailed registration data (authorization numbers, product names, dosage forms, and approved indications) was not available in the current evidence pack.
+Terdapat **20 produk berdaftar** yang mengandungi Diosmin dengan Agensi Peraturan Farmasi Kebangsaan (NPRA) Malaysia. Bagaimanapun, data pendaftaran terperinci (nombor kebenaran, nama produk, bentuk dos, dan indikasi yang diluluskan) tidak tersedia dalam pakej bukti semasa.
 
-| Item | Content |
-|------|------|
-| Total Registrations | 20 |
-| Product Details | Pending retrieval from NPRA database |
+| Item | Kandungan |
+|------|----------|
+| Jumlah Pendaftaran | 20 |
+| Butiran Produk | Menunggu pengambilan daripada pangkalan data NPRA |
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information. Key warnings, contraindications, and drug–drug interaction data were not available in the current evidence pack. No drug interactions were identified in the DrugBank query.
+Sila rujuk sisipan pakej untuk maklumat keselamatan. Data amaran utama, kontraindikasi, dan interaksi ubat-ubat tidak tersedia dalam pakej bukti semasa. Tiada interaksi ubat yang dikenal pasti dalam pertanyaan DrugBank.
 
-> **Note:** Safety data gaps are classified as **Blocking** (DG001) — a full safety assessment cannot proceed until package insert warnings and contraindications are retrieved from the NPRA or equivalent regulatory source.
+> **Nota:** Jurang data keselamatan diklasifikasikan sebagai **Menyekat** (DG001) — penilaian keselamatan lengkap tidak dapat diteruskan sehingga amaran sisipan pakej dan kontraindikasi diambil daripada NPRA atau sumber peraturan yang setara.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The mechanistic link between Diosmin (a venotonic/vascular protectant) and amenorrhea (a hormonal/endocrine disorder) is extremely weak, with no shared molecular targets identified. Despite a high TxGNN prediction score, there is a complete absence of supporting evidence — zero clinical trials, zero publications, and zero preclinical studies. The high score likely reflects knowledge graph structural proximity rather than biological plausibility.
+**Alasan:**
+Hubungan mekanistik antara Diosmin (agen venotonik/perlindung vaskular) dan amenorrhea (gangguan hormonal/endokrin) sangat lemah, tanpa sasaran molekul yang dikongsi dikenal pasti. Walaupun skor ramalan TxGNN yang tinggi, tiada bukti penyokong lengkap — sifar ujian klinikal, sifar penerbitan, dan sifar kajian praklinikal. Skor tinggi kemungkinan mencerminkan kedekatan struktur graf pengetahuan, bukan kredibilitas biologi.
 
-**To proceed, the following is needed:**
-- Mechanism of action (MOA) data to evaluate any potential hormonal or endocrine activity of Diosmin
-- Package insert safety data (warnings, contraindications) from NPRA — currently a **blocking** data gap
-- Preclinical evidence of any oestrogenic, progestogenic, or HPO-axis modulating effects of Diosmin or related flavonoids
-- At minimum one observational or mechanistic study suggesting biological plausibility before advancing from Hold status
-- Detailed NPRA registration records (authorization numbers, product names, approved indications)
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) untuk menilai sebarang aktiviti hormonal atau endokrin yang berpotensi bagi Diosmin
+- Data keselamatan sisipan pakej (amaran, kontraindikasi) daripada NPRA — pada masa ini jurang data **menyekat**
+- Bukti praklinikal sebarang kesan estrogenik, progestogenik, atau pemulihan paksi HPO bagi Diosmin atau flavonoid berkaitan
+- Sekurang-kurangnya satu kajian celik mata atau mekanistik yang mencadangkan kredibilitas biologi sebelum maju daripada status Tahan
+- Rekod pendaftaran NPRA terperinci (nombor kebenaran, nama produk, indikasi yang diluluskan)
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

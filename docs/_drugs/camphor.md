@@ -29,81 +29,82 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Camphor: From Topical Analgesic (Rubefacient) Use to Migraine Disorder
+# Kamper: Dari Penggunaan Analgesik Topikal (Rubefacient) hingga Gangguan Migrain
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Camphor is a widely marketed OTC ingredient traditionally used as a topical rubefacient/counter-irritant (e.g., balms and liniments applied for muscular aches and headache relief). The TxGNN model predicts it may be effective for **Migraine Disorder**, but this direction is currently supported only by **0 clinical trials** and **5 loosely related publications** — most of which describe adverse effects or unrelated drugs rather than efficacy.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Topical analgesic / rubefacient (OTC liniments and balms); no TFDA/NPRA-registered indication text was returned in this data extract |
-| Predicted New Indication | Migraine Disorder |
-| TxGNN Prediction Score | 99.85% |
-| Evidence Level | L4 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 297 |
-| Recommended Decision | Hold |
+Kamper adalah ramuan OTC yang dipasarkan secara meluas yang secara tradisional digunakan sebagai rubefacient/counter-irritant topikal (contohnya dalam balsam dan linimen yang diaplikasikan untuk melegakan sakit otot dan kepala). Model TxGNN meramalkan ia mungkin berkesan untuk **Gangguan Migrain**, tetapi arah ini kini disokong hanya oleh **0 ujian klinikal** dan **5 penerbitan yang longgar berkait** — kebanyakannya menghuraikan kesan buruk atau ubat yang tidak berkaitan daripada keberkesanan.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Pantas
 
-Currently, detailed mechanism of action (MOA) data for Camphor is not available in DrugBank. Based on available information, Camphor is a monoterpene ketone widely used as a topical rubefacient/counter-irritant in OTC liniments and balms (e.g., Tiger Balm–type products), where it is understood to activate and modulate TRP channels (TRPV1, TRPA1, TRPM8), producing a warming/cooling sensory effect similar to menthol.
-
-This sensory mechanism plausibly explains the TxGNN association: camphor-menthol balms are commonly applied to the temples in folk and OTC self-care practice for symptomatic headache/migraine relief, which likely created a strong co-occurrence signal in the underlying knowledge graph.
-
-However, this is a local, symptomatic counter-irritant mechanism — it does not engage the disease-modifying pathways targeted by modern migraine therapeutics (e.g., the CGRP receptor pathway). Furthermore, the supporting literature (below) contains signals suggesting camphor-containing products may *trigger or worsen* headache in some individuals, which weakens rather than strengthens the repurposing hypothesis.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered
+| Item | Kandungan |
+|------|---------|
+| Indikasi Asal | Analgesik topikal / rubefacient (linimen dan balsam OTC); tiada teks indikasi berdaftar TFDA/NPRA dikembalikan dalam ekstrak data ini |
+| Indikasi Baharu Yang Diramalkan | Gangguan Migrain |
+| Skor Ramalan TxGNN | 99.85% |
+| Tahap Bukti | L4 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Marketed) |
+| Bilangan Pendaftaran | 297 |
+| Cadangan Keputusan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [36404301](https://pubmed.ncbi.nlm.nih.gov/36404301/) | 2022 | RCT | The Journal of Headache and Pain | Phase 3 RCT of erenumab (a CGRP-receptor monoclonal antibody, unrelated to Camphor) for chronic migraine prevention in Asian patients; surfaced by keyword overlap on "migraine," not Camphor-specific evidence |
-| [27058833](https://pubmed.ncbi.nlm.nih.gov/27058833/) | 2016 | Review/Historical | Zeitschrift für Kinder- und Jugendpsychiatrie und Psychotherapie | Historical review of 1940s–50s neuropsychopharmacology; does not provide Camphor-specific efficacy data for migraine |
-| [35856604](https://pubmed.ncbi.nlm.nih.gov/35856604/) | 2022 | Case Series | Headache | 5 cases of cluster headache linked to toothpastes containing pro-convulsant essential oils; a safety/triggering signal, not efficacy evidence |
-| [34373243](https://pubmed.ncbi.nlm.nih.gov/34373243/) | 2021 | Case Report | BMJ Case Reports | 2 cases of cluster headache temporally associated with toothpaste containing camphor and eucalyptus oils; supports an adverse/triggering association rather than therapeutic benefit |
-| [593588](https://pubmed.ncbi.nlm.nih.gov/593588/) | 1977 | Case Report/Historical | Minerva Medica | Historical Italian-language report on therapy for "essential hemicrania"; abstract unavailable, content unverified |
+Pada masa kini, data mekanisme tindakan terperinci (MOA) untuk Kamper tidak tersedia di DrugBank. Berdasarkan maklumat yang ada, Kamper ialah monoterpen keton yang digunakan secara meluas sebagai rubefacient/counter-irritant topikal dalam linimen dan balsam OTC (contohnya produk jenis Tiger Balm), di mana ia difahami mengaktif dan memodulasi saluran TRP (TRPV1, TRPA1, TRPM8), menghasilkan kesan sensori pemanasan/penyejukan yang serupa dengan mentol.
+
+Mekanisme sensori ini munasabah menjelaskan perkaitan TxGNN: balsam kamper-mentol biasanya diaplikasikan di pelipis dalam praktik penjagaan diri tradisional dan OTC untuk melegakan sakit kepala/migrain secara simptomatik, yang mungkin telah mencipta isyarat co-occurrence yang kuat dalam graf pengetahuan asas.
+
+Walau bagaimanapun, ini adalah mekanisme counter-irritant tempatan dan simptomatik — ia tidak melibatkan laluan pengubah penyakit yang disasarkan oleh terapi migrain moden (contohnya laluan reseptor CGRP). Tambahan pula, literatur sokongan (di bawah) mengandungi isyarat yang mencadangkan produk yang mengandungi kamper mungkin *mencetuskan atau memburukkan* sakit kepala dalam sesetengah individu, yang memperlemahkan daripada memperkuat hipotesis penyusunan semula guna.
 
 ---
 
-## Safety Considerations
+## Bukti Ujian Klinikal
 
-No structured TFDA/NPRA warning, contraindication, or drug-interaction data is currently available for Camphor (DDI query status: not found). Please refer to the package insert for safety information.
-
-**Additional signals from literature (not part of the structured safety dataset, but relevant to this repurposing hypothesis):**
-- An oral toxicology study in rats reported dose-dependent oxidative stress and histopathological tissue damage with edible camphor administration ([PMID 27955803](https://pubmed.ncbi.nlm.nih.gov/27955803/)).
-- Multiple case reports describe camphor-containing topical/oral products triggering or worsening cluster headache and migraine-type symptoms ([PMID 35856604](https://pubmed.ncbi.nlm.nih.gov/35856604/), [PMID 34373243](https://pubmed.ncbi.nlm.nih.gov/34373243/)), consistent with camphor's known pro-convulsant potential at high exposure.
-
-These findings should be treated as caution signals, not confirmatory safety data, until the formal TFDA label (warnings/contraindications) is obtained.
+Tiada ujian klinikal yang berkaitan berdaftar pada masa ini
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Hold**
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-------|-------|--------|---------|
+| [36404301](https://pubmed.ncbi.nlm.nih.gov/36404301/) | 2022 | RCT | The Journal of Headache and Pain | RCT Fasa 3 erenumab (antibodi monoklonal reseptor CGRP, tidak berkaitan dengan Kamper) untuk pencegahan migrain kronik pada pesakit Asia; diambil melalui tindanan kata kunci pada "migrain," bukan bukti khusus Kamper |
+| [27058833](https://pubmed.ncbi.nlm.nih.gov/27058833/) | 2016 | Ulasan/Bersejarah | Zeitschrift für Kinder- und Jugendpsychiatrie und Psychotherapie | Ulasan bersejarah neurofarmakologi 1940-50an; tidak memberikan data keberkesanan khusus Kamper untuk migrain |
+| [35856604](https://pubmed.ncbi.nlm.nih.gov/35856604/) | 2022 | Siri Kes | Headache | 5 kes sakit kepala kelompok yang dikaitkan dengan ubat gigi yang mengandungi minyak penting pro-convulsant; isyarat keselamatan/pencetus, bukan bukti keberkesanan |
+| [34373243](https://pubmed.ncbi.nlm.nih.gov/34373243/) | 2021 | Laporan Kes | BMJ Case Reports | 2 kes sakit kepala kelompok yang berkaitan dari segi masa dengan ubat gigi yang mengandungi minyak kamper dan eucalyptus; menyokong perkaitan buruk/pencetus daripada manfaat terapeutik |
+| [593588](https://pubmed.ncbi.nlm.nih.gov/593588/) | 1977 | Laporan Kes/Bersejarah | Minerva Medica | Laporan Italia bersejarah tentang terapi untuk "essential hemicrania"; abstrak tidak tersedia, kandungan belum disahkan |
 
-**Rationale:**
-Evidence is limited to L4 (case reports/series and one unrelated-drug RCT pulled in by keyword overlap); no Camphor-specific clinical trial or controlled study supports migraine efficacy. Critically, a **Blocking** data gap (TFDA warnings/contraindications not yet obtained) prevents the mandatory S1 safety screening, and the available literature leans toward a headache-triggering risk signal rather than therapeutic benefit — undermining rather than supporting the repurposing hypothesis at this stage.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert data (warnings, contraindications) — currently a Blocking gap (DG001)
-- DrugBank MOA and DDI profile — currently a High-priority gap (DG002)
-- Camphor-specific preclinical or clinical data testing a plausible anti-migraine mechanism (e.g., CGRP pathway or validated TRP-channel modulation with headache outcome measures)
-- Re-curation of the literature evidence base to exclude keyword-collision results (e.g., the erenumab RCT) and to correctly classify adverse-effect case reports as safety signals rather than efficacy support
-- Malaysia licence-level detail (product names, dosage forms, approved indication text) for the 297 registered products, which was not returned in this data extract
+## Pertimbangan Keselamatan
+
+Tiada amaran TFDA/NPRA berstruktur, kontraindikasi, atau data interaksi ubat tersedia pada masa kini untuk Kamper (status pertanyaan DDI: tidak ditemui). Sila rujuk sisipan pembungkus untuk maklumat keselamatan.
+
+**Isyarat tambahan daripada literatur (bukan sebahagian daripada set data keselamatan berstruktur, tetapi relevan dengan hipotesis penyusunan semula guna ini):**
+- Satu kajian toksikologi oral pada tikus melaporkan tekanan oksidatif yang bergantung kepada dos dan kerosakan histopatologi tisu dengan pentadbiran kamper yang boleh dimakan ([PMID 27955803](https://pubmed.ncbi.nlm.nih.gov/27955803/)).
+- Beberapa laporan kes menerangkan produk topikal/oral yang mengandungi kamper mencetuskan atau memburukkan migrain jenis sakit kepala kelompok dan simptom ([PMID 35856604](https://pubmed.ncbi.nlm.nih.gov/35856604/), [PMID 34373243](https://pubmed.ncbi.nlm.nih.gov/34373243/)), konsisten dengan potensi pro-convulsant kamper yang diketahui pada pendedahan tinggi.
+
+Penemuan ini harus dianggap sebagai isyarat berhati-hati, bukan data keselamatan pengesahan, sehingga label TFDA rasmi (amaran/kontraindikasi) diperoleh.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Alasan:**
+Bukti terhad kepada L4 (laporan/siri kes dan satu RCT ubat tidak berkaitan ditarik dalam tindanan kata kunci); tiada ujian klinikal khusus Kamper atau kajian terkawal menyokong keberkesanan migrain. Dengan kritikal, **Penghalang** jurang data (label TFDA/amaran kontraindikasi belum diperoleh) menghalang pemeriksaan keselamatan S1 wajib, dan literatur yang tersedia condong kepada isyarat risiko pencetus sakit kepala daripada manfaat terapeutik — melemahkan daripada menyokong hipotesis penyusunan semula guna pada peringkat ini.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data sisipan pembungkus TFDA/NPRA (amaran, kontraindikasi) — kini jurang halangan (DG001)
+- Profil MOA dan DDI DrugBank — kini jurang keutamaan tinggi (DG002)
+- Data pra-klinikal atau klinikal khusus Kamper menguji mekanisme anti-migrain yang munasabah (contohnya laluan CGRP atau modulasi saluran TRP yang disahkan dengan ukuran hasil sakit kepala)
+- Kurasi semula pangkalan bukti literatur untuk mengecualikan hasil tindanan kata kunci (contohnya RCT erenumab) dan untuk mengklasifikasikan laporan kes kesan buruk dengan betul sebagai isyarat keselamatan daripada sokongan keberkesanan
+- Butiran tahap lesen Malaysia (nama produk, bentuk dos, teks indikasi yang diluluskan) untuk 297 produk berdaftar, yang tidak dikembalikan dalam ekstrak data ini
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

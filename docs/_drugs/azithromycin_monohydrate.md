@@ -29,87 +29,88 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Azithromycin Monohydrate: Drug Repurposing Evaluation Report
+# Azithromycin Monohydrate: Laporan Penilaian Penggunaan Semula Ubat
 
-## One-Sentence Summary
+## Ringkasan Satu-Ayat
 
-Azithromycin is a widely-used macrolide antibiotic registered in Malaysia for the treatment of bacterial infections. The TxGNN model **did not generate any predicted new indications** for this drug in the current analysis run. As a result, there is **no repurposing candidate to evaluate** at this time, and significant data gaps remain in the evidence pack.
+Azithromycin ialah antibiotik makrolida yang digunakan secara meluas dan terdaftar di Malaysia untuk rawatan jangkitan bakteria. Model TxGNN **tidak menghasilkan sebarang ramalan petunjuk baru** untuk ubat ini dalam perlaksanaan analisis semasa. Oleh itu, **tiada calon penggunaan semula untuk dinilai** pada masa ini, dan jurang data yang ketara tetap wujud dalam pakej bukti.
 
 ---
 
-## Quick Overview
+## Gambaran Pantas
 
-| Item | Content |
+| Perkara | Kandungan |
 |------|------|
-| Original Indication | Not available in evidence pack (license details missing) |
-| Predicted New Indication | **None** — no predictions generated |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 (No predictions or supporting studies) |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 4 |
-| Recommended Decision | **Hold** |
+| Petunjuk Asal | Tidak tersedia dalam pakej bukti (perincian lesen hilang) |
+| Petunjuk Baru Dijangka | **Tiada** — tiada ramalan dihasilkan |
+| Skor Ramalan TxGNN | N/A |
+| Tahap Bukti | L5 (Tiada ramalan atau kajian sokongan) |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 4 |
+| Keputusan Disyorkan | **Tahan** |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Masuk Akal?
 
-There is **no TxGNN prediction to evaluate** for Azithromycin Monohydrate. The `predicted_indications` array in the evidence pack is empty, meaning the model either did not find high-confidence repurposing candidates or the drug was not successfully mapped into the knowledge graph.
+**Tiada ramalan TxGNN untuk dinilai** bagi Azithromycin Monohydrate. Tatasusunan `predicted_indications` dalam pakej bukti adalah kosong, bermakna model sama ada tidak menemui calon penggunaan semula keyakinan tinggi atau ubat itu tidak berjaya dipetakan ke dalam graf pengetahuan.
 
-Azithromycin is a well-known macrolide antibiotic that inhibits bacterial protein synthesis by binding to the 50S ribosomal subunit. It is commonly prescribed for respiratory tract infections, skin and soft tissue infections, sexually transmitted infections, and otitis media. However, this mechanism of action information was not included in the evidence pack (listed as a data gap), and no DrugBank ID was provided, which may have contributed to the lack of predictions.
+Azithromycin ialah antibiotik makrolida yang terkenal yang menghalang sintesis protein bakteria dengan mengikat unit ribosom 50S. Ia biasanya ditetapkan untuk jangkitan saluran pernafasan, jangkitan kulit dan tisu lembut, jangkitan berpindah seks, dan otitis media. Bagaimanapun, maklumat mekanisme tindakan ini tidak disertakan dalam pakej bukti (disenaraikan sebagai jurang data), dan tiada ID DrugBank yang disediakan, yang mungkin telah menyumbang kepada kekurangan ramalan.
 
-Without a successful DrugBank mapping (drugbank_id is null), the TxGNN knowledge graph cannot link this drug to its known pharmacological targets and disease associations, making it impossible to generate repurposing predictions. **Resolving the DrugBank mapping is a prerequisite** before re-running the prediction pipeline.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials to report, as no new indication was predicted.
+Tanpa pemetaan DrugBank yang berjaya (drugbank_id ialah null), graf pengetahuan TxGNN tidak dapat menghubungkan ubat ini ke sasaran farmakologi yang dikenali dan persatuan penyakit, menjadikan ia mustahil untuk menghasilkan ramalan penggunaan semula. **Menyelesaikan pemetaan DrugBank adalah prasyarat** sebelum menjalankan semula saluran ramalan.
 
 ---
 
-## Literature Evidence
+## Bukti Ujian Klinikal
 
-Currently no related literature to report, as no new indication was predicted.
+Pada masa ini tiada ujian klinikal yang berkaitan untuk dilaporkan, kerana tiada petunjuk baru dijangka.
 
 ---
 
-## Malaysia Market Information
+## Bukti Kesusasteraan
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+Pada masa ini tiada kesusasteraan yang berkaitan untuk dilaporkan, kerana tiada petunjuk baru dijangka.
+
+---
+
+## Maklumat Pasaran Malaysia
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjuk Diluluskan |
 |------|------|------|------|
-| (Not provided) | (Not provided) | (Not provided) | (Not provided) |
-| (Not provided) | (Not provided) | (Not provided) | (Not provided) |
-| (Not provided) | (Not provided) | (Not provided) | (Not provided) |
-| (Not provided) | (Not provided) | (Not provided) | (Not provided) |
+| (Tidak disediakan) | (Tidak disediakan) | (Tidak disediakan) | (Tidak disediakan) |
+| (Tidak disediakan) | (Tidak disediakan) | (Tidak disediakan) | (Tidak disediakan) |
+| (Tidak disediakan) | (Tidak disediakan) | (Tidak disediakan) | (Tidak disediakan) |
+| (Tidak disediakan) | (Tidak disediakan) | (Tidak disediakan) | (Tidak disediakan) |
 
-> **Note:** 4 registrations were found via NPRA query (query date: 2026-03-27), but the license detail fields (authorization number, product name, dosage form, approved indication) were not populated in the evidence pack. This data gap needs to be resolved by re-querying the NPRA database.
-
----
-
-## Safety Considerations
-
-> Please refer to the package insert for safety information. All safety fields (key warnings, contraindications, and drug interactions) are currently missing from the evidence pack.
+> **Nota:** 4 pendaftaran ditemui melalui pertanyaan NPRA (tarikh pertanyaan: 2026-03-27), tetapi medan perincian lesen (nombor kebenaran, nama produk, bentuk dos, petunjuk diluluskan) tidak diisi dalam pakej bukti. Jurang data ini perlu diselesaikan dengan pertanyaan semula pangkalan data NPRA.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
-
-**Rationale:**
-No repurposing candidates were generated by TxGNN for Azithromycin Monohydrate. The evidence pack contains critical data gaps — most importantly, the missing DrugBank ID (which prevents knowledge graph integration) and empty license/indication details from NPRA. Without these foundational data, it is not possible to conduct a meaningful repurposing evaluation.
-
-**To proceed, the following is needed:**
-
-1. **DrugBank ID mapping** — Azithromycin's DrugBank ID is likely `DB00207`. This must be confirmed and populated so the drug can be linked into the TxGNN knowledge graph.
-2. **NPRA license details** — Re-query the NPRA database to retrieve full registration details (authorization numbers, product names, dosage forms, approved indications) for all 4 registrations.
-3. **Mechanism of action (MOA)** — Retrieve from DrugBank once the ID is mapped (macrolide antibiotic, 50S ribosomal subunit inhibitor).
-4. **Safety data** — Download and parse the package insert(s) to extract key warnings, contraindications, and drug interaction information.
-5. **Re-run TxGNN prediction** — After resolving the DrugBank mapping, re-execute the knowledge graph and deep learning prediction pipeline to generate repurposing candidates.
+> Sila rujuk sisipan pakej untuk maklumat keselamatan. Semua medan keselamatan (amaran utama, kontraindikasi, dan interaksi ubat) kini tiada dari pakej bukti.
 
 ---
 
-*This report is for research reference only and does not constitute medical advice. Any drug repurposing candidates require clinical validation before application.*
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Alasan Rasional:**
+Tiada calon penggunaan semula yang dihasilkan oleh TxGNN untuk Azithromycin Monohydrate. Pakej bukti mengandungi jurang data kritikal — yang paling penting, DrugBank ID yang hilang (yang menghalang penyepaduan graf pengetahuan) dan perincian lesen/petunjuk kosong dari NPRA. Tanpa data asas ini, tidak mungkin untuk menjalankan penilaian penggunaan semula yang bermakna.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+
+1. **Pemetaan DrugBank ID** — ID DrugBank Azithromycin berkemungkinan `DB00207`. Ini mesti disahkan dan diisi supaya ubat dapat dipautkan ke dalam graf pengetahuan TxGNN.
+2. **Perincian lesen NPRA** — Pertanyaan semula pangkalan data NPRA untuk mendapatkan perincian pendaftaran penuh (nombor kebenaran, nama produk, bentuk dos, petunjuk diluluskan) untuk semua 4 pendaftaran.
+3. **Mekanisme tindakan (MOA)** — Ambil dari DrugBank sebaik sahaja ID dipetakan (antibiotik makrolida, inhibitor unit ribosom 50S).
+4. **Data keselamatan** — Muat turun dan analisis sisipan pakej untuk mengeluarkan amaran utama, kontraindikasi, dan maklumat interaksi ubat.
+5. **Jalankan semula ramalan TxGNN** — Selepas menyelesaikan pemetaan DrugBank, jalankan semula saluran pemetaan graf pengetahuan dan ramalan pembelajaran mendalam untuk menghasilkan calon penggunaan semula.
+
+---
+
+*Laporan ini adalah untuk rujukan penyelidikan sahaja dan tidak membentuk nasihat perubatan. Sebarang calon penggunaan semula ubat memerlukan pengesahan klinikal sebelum aplikasi.*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

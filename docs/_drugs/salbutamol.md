@@ -29,107 +29,108 @@ Tahap bukti: **L2** | Indikasi diramal: **10**
 
 </div>
 
-# Salbutamol: From Bronchodilator Therapy (Asthma/COPD) to Bronchitis
+# Salbutamol: Dari Terapi Bronkodilator (Asma/PPOK) ke Bronkitis
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-> Salbutamol is a short-acting β2-adrenergic agonist (SABA) bronchodilator, globally established for relieving bronchospasm in asthma and COPD.
-> Among 10 TxGNN-predicted new indications for this drug, **Bronchitis** stands out as the most credibly supported candidate,
-> with **evidence level L2** drawn from dozens of salbutamol/albuterol clinical trials in bronchitis/bronchiolitis populations, though dedicated peer-reviewed literature specific to this indication is currently absent.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Asthma and COPD (bronchospasm relief) — established SABA class use; Malaysia label text not extracted in current dataset |
-| Predicted New Indication | Bronchitis |
-| TxGNN Prediction Score | 99.99% |
-| Evidence Level | L2 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 67 |
-| Recommended Decision | Proceed with Guardrails |
-
-**Note:** This Evidence Pack bundles 10 TxGNN-predicted indications for Salbutamol. The top-ranked prediction by raw model score, *papillary conjunctivitis*, is explicitly flagged in the pack's own rationale as likely model noise (no supporting evidence, Hold). Bronchitis was selected as the headline candidate for this report because it has the strongest combination of TxGNN score, mechanistic plausibility, and trial-level evidence among the true "new indication" candidates. See the full ranking below.
-
-### Full Prediction Ranking (for context)
-
-| Rank | Disease | TxGNN Score | Evidence Level | Recommendation |
-|------|---------|-------------|-----------------|-----------------|
-| 1 | Papillary conjunctivitis | 99.996% | L5 | Hold (model noise) |
-| 2 | Nasal cavity disease | 99.994% | L4 | Hold |
-| 3 | Pharyngitis | 99.994% | L4 | Hold |
-| **4** | **Bronchitis** | **99.99%** | **L2** | **Proceed with Guardrails** |
-| 5 | Acute laryngopharyngitis | 99.991% | L5 | Hold |
-| 6 | Anaphylaxis | 99.96% | L3 | Research Question |
-| 7 | Common cold | 99.95% | L3 | Research Question |
-| 8 | Atopic conjunctivitis | 99.95% | L4 | Hold |
-| 9 | Anorectal stricture | 99.94% | L5 | Hold |
-| 10 | Obstructive lung disease | 99.94% | L1 | Proceed with Guardrails (largely overlaps original indication, not a novel use) |
+> Salbutamol ialah agonis β2-adrenergik jangka pendek (SABA) bronkodilator, yang ditegakkan secara global untuk meredakan bronkospasme dalam asma dan PPOK.
+> Antara 10 petunjukan baru yang diramalkan oleh TxGNN untuk ubat ini, **Bronkitis** menonjol sebagai calon yang paling dipercayai disokong,
+> dengan **tahap bukti L2** yang diambil daripada berpuluh-puluh percubaan klinikal salbutamol/albuterol dalam populasi bronkitis/bronkiolitis, walaupun kesusasteraan berkali-kali ganda yang khusus untuk petunjukan ini kini tidak wujud.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Pantas
 
-Currently, detailed mechanism of action data for Salbutamol is not available in this dataset (DrugBank query pending). Based on well-established pharmacological knowledge, Salbutamol is a short-acting β2-adrenergic receptor agonist (SABA) that relaxes bronchial smooth muscle, and its efficacy in relieving reversible airway obstruction in asthma and COPD is well proven.
+| Item | Kandungan |
+|------|----------|
+| Petunjukan Asal | Asma dan PPOK (pelepasan bronkospasme) — penggunaan kelas SABA yang ditegakkan; teks label Malaysia tidak diekstrak dalam set data semasa |
+| Petunjukan Baru yang Diramalkan | Bronkitis |
+| Skor Ramalan TxGNN | 99.99% |
+| Tahap Bukti | L2 |
+| Status Pasaran Malaysia | ✓ Dimasarkan (Dimasarkan) |
+| Bilangan Pendaftaran | 67 |
+| Cadangan Keputusan | Teruskan dengan Pengawal Keselamatan |
 
-Bronchitis frequently presents with airway inflammation accompanied by reversible bronchospasm and airflow obstruction, particularly in acute and pediatric (bronchiolitis-associated) presentations. Because Salbutamol's core mechanism directly targets bronchial smooth muscle relaxation, its extension to bronchitis represents a mechanistically coherent, low-novelty repurposing case — largely reflecting existing off-label/supportive-care practice rather than a genuinely new pharmacological hypothesis.
+**Nota:** Pek Bukti ini menggabungkan 10 petunjukan yang diramalkan oleh TxGNN untuk Salbutamol. Ramalan berkedudukan teratas mengikut skor model mentah, *konjunktivitis papillari*, secara eksplisit ditandai dalam rasional pek sendiri sebagai kemungkinan kebisingan model (tiada bukti sokongan, Pegang). Bronkitis dipilih sebagai calon tajuk untuk laporan ini kerana ia mempunyai kombinasi paling kuat bagi skor TxGNN, kebolehpercayaan mekanik, dan bukti peringkat percubaan dalam kalangan calon "petunjukan baru" yang sebenar. Lihat kedudukan lengkap di bawah.
 
-The clinical trial evidence base (below) consists mainly of salbutamol/albuterol used in bronchiolitis and bronchodilator-responsiveness studies rather than trials formally labeled "bronchitis," so while mechanistic plausibility is high, indication-specific confirmatory evidence remains indirect.
+### Kedudukan Ramalan Lengkap (untuk konteks)
+
+| Kedudukan | Penyakit | Skor TxGNN | Tahap Bukti | Cadangan |
+|------|---------|-------------|-----------------|---------|
+| 1 | Konjunktivitis papillari | 99.996% | L5 | Pegang (kebisingan model) |
+| 2 | Penyakit rongga hidung | 99.994% | L4 | Pegang |
+| 3 | Faringitis | 99.994% | L4 | Pegang |
+| **4** | **Bronkitis** | **99.99%** | **L2** | **Teruskan dengan Pengawal Keselamatan** |
+| 5 | Laringofaring akut | 99.991% | L5 | Pegang |
+| 6 | Anafilaksis | 99.96% | L3 | Soalan Penyelidikan |
+| 7 | Selesema biasa | 99.95% | L3 | Soalan Penyelidikan |
+| 8 | Konjunktivitis atopik | 99.95% | L4 | Pegang |
+| 9 | Striktur anorektum | 99.94% | L5 | Pegang |
+| 10 | Penyakit paru obstruktif | 99.94% | L1 | Teruskan dengan Pengawal Keselamatan (sebahagian besarnya bertindih dengan petunjukan asal, bukan penggunaan novel) |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Pada masa ini, data mekanisme tindakan terperinci untuk Salbutamol tidak tersedia dalam set data ini (pertanyaan DrugBank tertangguh). Berdasarkan pengetahuan farmakologi yang ditegakkan dengan baik, Salbutamol ialah agonis penerima β2-adrenergik jangka pendek (SABA) yang melonggarkan otot halus bronkial, dan keberkesan ubat ini dalam meredakan halangan saluran udara yang boleh balik dalam asma dan PPOK telah terbukti dengan baik.
+
+Bronkitis kerap membentangkan dengan keradangan saluran udara yang disertai oleh bronkospasme boleh balik dan penyumbatan aliran udara, terutama dalam persembahan akut dan pediatrik (berkaitan bronkiolitis). Kerana mekanisme teras Salbutamol secara langsung menyasarkan pelonggaran otot halus bronkial, peluasannya kepada bronkitis mewakili kes penggunaan semula mekanik yang koheren dan berkusam rendah — sebahagian besar mencerminkan amalan luar label/penjagaan sokongan sedia ada dan bukannya hipotesis farmakologi yang benar-benar baru.
+
+Asas bukti percubaan klinikal (di bawah) terdiri terutamanya daripada salbutamol/albuterol yang digunakan dalam bronkiolitis dan kajian keresponsifan bronkodilator dan bukannya percubaan yang secara rasmi dilabel "bronkitis," jadi sementara kebolehpercayaan mekanik tinggi, bukti pengesahan khusus petunjukan kekal tidak langsung.
+
+---
+
+## Bukti Percubaan Klinikal
+
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT02233985](https://clinicaltrials.gov/study/NCT02233985) | Phase 4 | Completed | 64 | RCT of nebulized salbutamol + 3% hypertonic saline vs. standard care in acute bronchiolitis; direct salbutamol efficacy test |
-| [NCT01112241](https://clinicaltrials.gov/study/NCT01112241) | Phase 4 | Completed | 17 | Acute bronchodilator responsiveness (albuterol + tiotropium) in obliterative bronchiolitis post-HSCT |
-| [NCT01054170](https://clinicaltrials.gov/study/NCT01054170) | Phase 2 | Completed | 52 | Airway structural changes by CT in COPD/bronchiolitis-related obstruction |
-| [NCT00114478](https://clinicaltrials.gov/study/NCT00114478) | N/A | Unknown | 600 | RCT comparing epinephrine vs. albuterol in bronchiolitis |
-| [NCT02760719](https://clinicaltrials.gov/study/NCT02760719) | Phase 2 | Terminated | 100 | Nebulized 3% hypertonic saline with salbutamol vs. standard care in hospitalized children with acute bronchiolitis |
-| [NCT01065272](https://clinicaltrials.gov/study/NCT01065272) | Phase 1 | Completed | 200 | Oral dexamethasone + nebulized salbutamol (Ventolin) in viral bronchiolitis |
-| [NCT00696540](https://clinicaltrials.gov/study/NCT00696540) | Phase 2 | Unknown | 74 | Salbutamol nebulized in hypertonic vs. normal saline diluent for bronchiolitis during RSV epidemic |
-| [NCT01238445](https://clinicaltrials.gov/study/NCT01238445) | N/A | Completed | 29 | Assessing clinical response to albuterol in bronchiolitis |
-| [NCT03900494](https://clinicaltrials.gov/study/NCT03900494) | N/A | Completed | 80 | Comparison of valved holding chambers for bronchodilator (primarily salbutamol) delivery in acute wheezing/bronchitis |
-| [NCT00798616](https://clinicaltrials.gov/study/NCT00798616) | N/A | Withdrawn | 0 | Steroid benefit in bronchiolitis patients responsive to albuterol |
+| [NCT02233985](https://clinicaltrials.gov/study/NCT02233985) | Fasa 4 | Selesai | 64 | RCT nebulum salbutamol + larutan hipertonik 3% lawan penjagaan standard dalam bronkiolitis akut; ujian keberkesan salbutamol langsung |
+| [NCT01112241](https://clinicaltrials.gov/study/NCT01112241) | Fasa 4 | Selesai | 17 | Keresponsifan bronkodilator akut (albuterol + tiotropium) dalam bronkiolitis obliteratif pasca-HSCT |
+| [NCT01054170](https://clinicaltrials.gov/study/NCT01054170) | Fasa 2 | Selesai | 52 | Perubahan struktur saluran udara oleh CT dalam penyumbatan berkaitan PPOK/bronkiolitis |
+| [NCT00114478](https://clinicaltrials.gov/study/NCT00114478) | T/A | Tidak diketahui | 600 | RCT membandingkan epinefrin lawan albuterol dalam bronkiolitis |
+| [NCT02760719](https://clinicaltrials.gov/study/NCT02760719) | Fasa 2 | Dihentikan | 100 | Nebulum larutan hipertonik 3% dengan salbutamol lawan penjagaan standard dalam bronkiolitis akut yang dirawat di hospital pada kanak-kanak |
+| [NCT01065272](https://clinicaltrials.gov/study/NCT01065272) | Fasa 1 | Selesai | 200 | Deksametason oral + salbutamol nebulum (Ventolin) dalam bronkiolitis viral |
+| [NCT00696540](https://clinicaltrials.gov/study/NCT00696540) | Fasa 2 | Tidak diketahui | 74 | Salbutamol nebulum dalam diluent larutan hipertonik lawan larutan normal untuk bronkiolitis semasa wabak RSV |
+| [NCT01238445](https://clinicaltrials.gov/study/NCT01238445) | T/A | Selesai | 29 | Menilai tindak balas klinikal terhadap albuterol dalam bronkiolitis |
+| [NCT03900494](https://clinicaltrials.gov/study/NCT03900494) | T/A | Selesai | 80 | Perbandingan ruang pemegang bergerak untuk penyampaian bronkodilator (terutama salbutamol) dalam syak penyakit/bronkitis akut |
+| [NCT00798616](https://clinicaltrials.gov/study/NCT00798616) | T/A | Ditarik balik | 0 | Manfaat steroid dalam pesakit bronkiolitis yang responsif terhadap albuterol |
 
 ---
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-Currently no related literature available.
-
----
-
-## Malaysia Market Information
-
-Salbutamol currently holds **67 active registrations** with NPRA (Malaysia), and the drug is confirmed as marketed (Marketed). Detailed license-level data (registration numbers, product names, dosage forms, approved indication text) was not returned in the current data extraction and requires a follow-up NPRA registry query.
+Pada masa ini tiada kesusasteraan berkaitan tersedia.
 
 ---
 
-## Safety Considerations
+## Maklumat Pasaran Malaysia
 
-Please refer to the package insert for safety information.
-
-*(Note: TFDA/NPRA label warnings and contraindications, and DDI data, are currently unextracted — see "To proceed" below; this is flagged as a Blocking gap for safety review.)*
+Salbutamol kini memegang **67 pendaftaran aktif** dengan NPRA (Malaysia), dan ubat ini disahkan sebagai dimasarkan (Dimasarkan). Data peringkat lesen terperinci (nombor pendaftaran, nama produk, bentuk dos, teks petunjukan yang diluluskan) tidak dikembalikan dalam pengekstrakan data semasa dan memerlukan pertanyaan pendaftaran NPRA susulan.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Proceed with Guardrails**
+Sila rujuk kepada sisipan pakej untuk maklumat keselamatan.
 
-**Rationale:**
-Bronchitis involves reversible bronchospasm that is mechanistically consistent with Salbutamol's established SABA action, and this is supported by numerous completed bronchodilator-responsiveness and bronchiolitis trials (evidence level L2). However, no indication-specific published literature exists, and safety documentation for formal review is currently missing.
+*(Nota: amaran label BPFK/NPRA dan kontraindikasi, dan data DAK, kini tidak diekstrak — lihat "Untuk teruskan" di bawah; ini ditandai sebagai jurang pemblokiran untuk semakan keselamatan.)*
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert warnings and contraindications (Blocking gap — required before any S1 safety evaluation)
-- DrugBank-sourced mechanism of action confirmation
-- Malaysia-specific license and approved-indication text (currently blank in registry extract)
-- Indication-specific (bronchitis, not solely bronchiolitis) peer-reviewed literature search
-- Formal drug-drug interaction (DDI) review, given current query returned no results
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Teruskan dengan Pengawal Keselamatan**
+
+**Rasional:**
+Bronkitis melibatkan bronkospasme boleh balik yang konsisten secara mekanik dengan tindakan SABA Salbutamol yang ditegakkan, dan ini disokong oleh banyak percubaan keresponsifan bronkodilator dan bronkiolitis yang selesai (tahap bukti L2). Walau bagaimanapun, kesusasteraan yang diterbitkan khusus petunjukan tidak wujud, dan dokumentasi keselamatan untuk semakan rasmi kini hilang.
+
+**Untuk teruskan, perkara berikut diperlukan:**
+- Amaran sisipan pakej BPFK/NPRA dan kontraindikasi (jurang pemblokiran — diperlukan sebelum sebarang penilaian keselamatan S1)
+- Pengesahan mekanisme tindakan bersumber DrugBank
+- Teks lesen Malaysia dan petunjukan yang diluluskan (kini kosong dalam pengekstrakan pendaftaran)
+- Carian kesusasteraan yang disemak sejawat khusus petunjukan (bronkitis, bukan semata-mata bronkiolitis)
+- Semakan interaksi ubat-ubat formal (DAK), memandangkan pertanyaan semasa mengembalikan tiada hasil
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

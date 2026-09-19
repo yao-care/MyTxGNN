@@ -29,101 +29,102 @@ Tahap bukti: **L3** | Indikasi diramal: **10**
 
 </div>
 
-# Hydroxyurea: From Hematologic/Myeloproliferative Disorders to Female Breast Carcinoma
+# Hydroxyurea: Daripada Gangguan Hematologi/Mieloproliferatif kepada Karsinoma Payudara Wanita
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Hydroxyurea is a ribonucleotide reductase inhibitor whose approved indications in Malaysia are not captured in the current NPRA extract (see note below), but which is internationally established for myeloproliferative and sickle-cell hemoglobinopathies. The TxGNN model predicts it may be effective for **Female Breast Carcinoma**, with **20 publications** but **no registered clinical trials** currently supporting this specific direction.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not specified in the available NPRA license text (both license records are blank in this extract) |
-| Predicted New Indication | Female Breast Carcinoma |
-| TxGNN Prediction Score | 99.97% |
-| Evidence Level | L3 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
-| Recommended Decision | Hold |
+Hydroxyurea ialah perencat ribonukleotida reduktase yang keadaan yang diluluskan di Malaysia tidak diambil dalam ekstrak NPRA semasa (lihat nota di bawah), tetapi yang ditetapkan secara antarabangsa untuk mieloproliferatif dan hemoglobinopati sel sabit. Model TxGNN meramalkan ia mungkin berkesan untuk **Karsinoma Payudara Wanita**, dengan **20 penerbitan** tetapi **tiada ujian klinis berdaftar** yang pada masa ini menyokong arah khusus ini.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Tinjauan Cepat
 
-Detailed DrugBank mechanism-of-action data is currently a data gap (DG002). Based on established pharmacology, hydroxyurea inhibits ribonucleotide reductase, blocking conversion of ribonucleotides to deoxyribonucleotides and inducing S-phase arrest and replication stress. It is a long-standing antineoplastic/cytoreductive agent used in myeloproliferative neoplasms (e.g., CML, essential thrombocythemia) and in sickle cell disease (via fetal hemoglobin induction) — though the specific Malaysian-approved indication text was not retrievable in this data pull.
-
-The repurposing rationale for breast carcinoma is mechanistic rather than clinical: hydroxyurea-induced replication stress can sensitize tumor cells to DNA-damage-response inhibitors (e.g., ATR inhibitors), and this pathway overlaps with replication-stress-avoidance mechanisms implicated in breast cancer progression (e.g., EYA4). Several preclinical studies also show hydroxyurea combined with sensitizing agents (valproic acid, novel RNR/ATR inhibitors) enhances DNA-repair inhibition in breast cancer cell lines, including BRCA1-deficient models.
-
-However, this mechanistic plausibility has not been tested in a prospective breast-cancer-specific clinical trial. The strongest human-use evidence (a 1991 Phase I combination study and a 1994 high-dose consolidation cohort) predates modern breast cancer treatment standards and does not isolate hydroxyurea's independent efficacy.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered
+| Perkara | Kandungan |
+|--------|----------|
+| Keadaan Asal | Tidak dinyatakan dalam teks lesen NPRA yang tersedia (kedua-dua rekod lesen adalah kosong dalam ekstrak ini) |
+| Keadaan Baru yang Diramalkan | Karsinoma Payudara Wanita |
+| Skor Ramalan TxGNN | 99.97% |
+| Tahap Bukti | L3 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 2 |
+| Cadangan Keputusan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [1957839](https://pubmed.ncbi.nlm.nih.gov/1957839/) | 1991 | RCT (Phase I) | American Journal of Clinical Oncology | Sequential 5-FU/leucovorin followed by hydroxyurea (HALF regimen) tested in advanced GI and breast cancer patients |
-| [7914447](https://pubmed.ncbi.nlm.nih.gov/7914447/) | 1994 | Cohort | Bone Marrow Transplantation | High-dose hydroxyurea added to cyclophosphamide/thiotepa consolidation with stem cell rescue in metastatic breast cancer |
-| [28837865](https://pubmed.ncbi.nlm.nih.gov/28837865/) | 2017 | Preclinical | DNA Repair | Valproic acid sensitizes breast cancer cells to hydroxyurea by inhibiting RPA2-mediated DNA repair |
-| [32795962](https://pubmed.ncbi.nlm.nih.gov/32795962/) | 2020 | Preclinical | DNA Repair | Novel compound enhances hydroxyurea sensitization in breast carcinoma via RPA2 hyperphosphorylation pathway |
-| [25814515](https://pubmed.ncbi.nlm.nih.gov/25814515/) | 2015 | Preclinical | Molecular Pharmacology | Novel ribonucleotide reductase inhibitor (class shared with hydroxyurea) inhibits DNA repair in BRCA1-defective breast cancer cells |
-| [21730979](https://pubmed.ncbi.nlm.nih.gov/21730979/) | 2011 | Preclinical | British Journal of Cancer | ATR inhibitor (mechanistically linked to hydroxyurea-induced replication stress) evaluated in breast and ovarian cancer cell lines |
-| [38211596](https://pubmed.ncbi.nlm.nih.gov/38211596/) | 2024 | Preclinical | Drug Research | Hydroxyurea-lipid conjugates designed to improve delivery and efficacy in breast cancer via PI3K/AKT/mTOR pathway targeting |
-| [30159181](https://pubmed.ncbi.nlm.nih.gov/30159181/) | 2018 | Case Report | Case Reports in Hematology | Coexistent breast cancer and essential thrombocythemia (hydroxyurea-treated) — therapeutic management challenges |
-| [28585003](https://pubmed.ncbi.nlm.nih.gov/28585003/) | 2017 | Case Report | Breast Cancer (Tokyo, Japan) | Secondary breast carcinoma arising after CML in complete remission on hydroxyurea + imatinib therapy |
-| [26844848](https://pubmed.ncbi.nlm.nih.gov/26844848/) | 2016 | Preclinical | Cancer Biotherapy & Radiopharmaceuticals | Radiolabeling of hydroxyurea for potential in vitro/in vivo tumor imaging applications |
+Data mekanisme tindakan DrugBank yang terperinci pada masa ini adalah jurang data (DG002). Berdasarkan farmakologi yang ditetapkan, hydroxyurea menghalang ribonukleotida reduktase, menghalang penukaran ribonukleotida kepada deoksiribonukleotida dan mendorong pemberhentian fasa-S dan tekanan replikasi. Ia adalah agen sitostatik/sitoreduktif jangka panjang yang digunakan dalam neoplasma mieloproliferatif (cth., CML, trombositemia penting) dan dalam penyakit sel sabit (melalui aruhan hemoglobin janin) — walaupun teks keadaan yang diluluskan Malaysia khusus tidak dapat diperolehi dalam seni tarik data ini.
+
+Rasionalisasi penggunaan semula untuk karsinoma payudara adalah mekanistik dan bukannya klinis: tekanan replikasi yang didorong oleh hydroxyurea boleh menjadikan sel tumor sensitif terhadap perencat tindak balas kerosakan DNA (cth., perencat ATR), dan laluan ini bertindih dengan mekanisme pengelakan tekanan replikasi yang terlibat dalam perkembangan kanser payudara (cth., EYA4). Beberapa kajian praklinik juga menunjukkan hydroxyurea digabungkan dengan ejen sensitisasi (asid valproik, perencat RNR/ATR baru) meningkatkan perencatan pembaikan DNA dalam garis sel kanser payudara, termasuk model kekurangan BRCA1.
+
+Walau bagaimanapun, kelayakan mekanistik ini belum diuji dalam ujian klinis prospektif khusus karsinoma payudara. Bukti penggunaan manusia terkuat (kajian kombinasi Fasa I 1991 dan kohort penyatuan dos tinggi 1994) mendahului piawaian penjagaan kanser payudara moden dan tidak mengasingkan keberkesanan hydroxyurea yang bebas.
 
 ---
 
-## Malaysia Market Information
+## Bukti Ujian Klinis
 
-License-level detail (product name, dosage form, manufacturer, indication text) is not available in the current NPRA data extract — both registered licenses have blank fields. Only the summary status is known: **2 licenses, market status "Marketed."**
-
----
-
-## Cytotoxicity
-
-Hydroxyurea is a conventional cytotoxic antineoplastic agent (ribonucleotide reductase inhibitor).
-
-| Item | Content |
-|------|------|
-| Cytotoxicity Classification | Conventional cytotoxic (ribonucleotide reductase inhibitor) |
-| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
-| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | CBC with differential; renal and hepatic function (standard for RNR-inhibitor class agents) |
-| Handling Protection | Cytotoxic drug handling precautions required per institutional/regulatory protocol |
+Pada masa ini tiada ujian klinis yang berkaitan didaftarkan
 
 ---
 
-## Safety Considerations
+## Bukti Literatur
 
-Please refer to the package insert for safety information. Note: TFDA/NPRA warnings and contraindications are currently a **Blocking** data gap (DG001) — this must be resolved before any S1 safety evaluation can proceed.
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|------|------|--------|----------------|
+| [1957839](https://pubmed.ncbi.nlm.nih.gov/1957839/) | 1991 | RCT (Fasa I) | American Journal of Clinical Oncology | 5-FU/leukofarin berturutan diikuti oleh hydroxyurea (rejimen HALF) diuji dalam pesakit kanser GI dan payudara lanjutan |
+| [7914447](https://pubmed.ncbi.nlm.nih.gov/7914447/) | 1994 | Kohort | Bone Marrow Transplantation | Hydroxyurea dos tinggi ditambah kepada penyatuan siklofosfamid/tioteta dengan penyelamatan sel stem dalam kanser payudara metastatik |
+| [28837865](https://pubmed.ncbi.nlm.nih.gov/28837865/) | 2017 | Praklinik | DNA Repair | Asid valproik membuat sel kanser payudara sensitif terhadap hydroxyurea dengan menghalang pembaikan DNA yang diselenggarakan RPA2 |
+| [32795962](https://pubmed.ncbi.nlm.nih.gov/32795962/) | 2020 | Praklinik | DNA Repair | Sebatian baru meningkatkan sensitisasi hydroxyurea dalam karsinoma payudara melalui laluan hiperfosfat RPA2 |
+| [25814515](https://pubmed.ncbi.nlm.nih.gov/25814515/) | 2015 | Praklinik | Molecular Pharmacology | Perencat ribonukleotida reduktase baru (kelas yang dikongsi dengan hydroxyurea) menghalang pembaikan DNA dalam sel kanser payudara kekurangan BRCA1 |
+| [21730979](https://pubmed.ncbi.nlm.nih.gov/21730979/) | 2011 | Praklinik | British Journal of Cancer | Perencat ATR (berkaitan mekanistik dengan tekanan replikasi yang didorong hydroxyurea) dinilai dalam garis sel kanser payudara dan ovari |
+| [38211596](https://pubmed.ncbi.nlm.nih.gov/38211596/) | 2024 | Praklinik | Drug Research | Konjugat lipid hydroxyurea direka untuk meningkatkan penghantaran dan keberkesanan dalam karsinoma payudara melalui penyasaran laluan PI3K/AKT/mTOR |
+| [30159181](https://pubmed.ncbi.nlm.nih.gov/30159181/) | 2018 | Laporan Kes | Case Reports in Hematology | Kanser payudara serentak dan trombositemia penting (dirawat hydroxyurea) — cabaran pengurusan terapeutik |
+| [28585003](https://pubmed.ncbi.nlm.nih.gov/28585003/) | 2017 | Laporan Kes | Breast Cancer (Tokyo, Japan) | Karsinoma payudara sekunder timbul selepas CML dalam remisi lengkap pada terapi hydroxyurea + imatinib |
+| [26844848](https://pubmed.ncbi.nlm.nih.gov/26844848/) | 2016 | Praklinik | Cancer Biotherapy & Radiopharmaceuticals | Pelabelan radioaktif hydroxyurea untuk aplikasi pencitraan tumor secara in vitro/in vivo yang berpotensi |
 
 ---
 
-## Conclusion and Next Steps
+## Maklumat Pasaran Malaysia
 
-**Decision: Hold**
+Butiran peringkat lesen (nama produk, bentuk dos, pengilang, teks keadaan) tidak tersedia dalam ekstrak data NPRA semasa — kedua-dua lesen berdaftar mempunyai medan kosong. Hanya status ringkasan yang diketahui: **2 lesen, status pasaran "Dipasarkan."**
 
-**Rationale:**
-No clinical trials have tested hydroxyurea specifically in breast carcinoma; existing human-use evidence is a 1991 Phase I combination study and a 1994 consolidation cohort, both outside modern treatment context. Remaining support is preclinical/mechanistic (replication stress, DNA repair sensitization). Combined with a Blocking safety data gap (DG001), evidence is insufficient to advance past a research question.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA product label — warnings, contraindications, myelosuppression/emetogenicity data (DG001, Blocking)
-- DrugBank-confirmed mechanism of action (DG002)
-- Malaysia license detail (product name, dosage form, approved indication text) — currently blank in source data
-- If pursued, a prospective study design validating the PI3K/AKT/mTOR or RPA2/ATR-pathway sensitization signal in breast cancer
+## Sitotoksisiti
 
-*Note: This evidence pack's own predictions include a stronger candidate — "sickle cell-hemoglobin C disease syndrome" (rank 3, evidence level L1, decision stage S3, "Proceed with Guardrails," 11 trials + 19 publications) — which may warrant its own dedicated evaluation report.*
+Hydroxyurea ialah agen antineoplastik sitotoksik konvensional (perencat ribonukleotida reduktase).
+
+| Perkara | Kandungan |
+|--------|----------|
+| Klasifikasi Sitotoksisiti | Sitotoksik konvensional (perencat ribonukleotida reduktase) |
+| Risiko Mielo Supresi | Sila rujuk peringatan dan langkah-langkah pencegahan dalam risalah bungkusan |
+| Klasifikasi Emetogenisiti | Sila rujuk peringatan dan langkah-langkah pencegahan dalam risalah bungkusan |
+| Item Pemantauan | CBC dengan pembezaan; fungsi ginjal dan hepatik (piawaian untuk ejen kelas perencat RNR) |
+| Perlindungan Pengendalian | Langkah-langkah pencegahan pengendalian ubat sitotoksik diperlukan mengikut protokol institusi/peraturan |
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk risalah bungkusan untuk maklumat keselamatan. Nota: Peringatan TFDA/NPRA dan kontraindikasi pada masa ini ialah jurang data yang **Menyekat** (DG001) — ini mesti diselesaikan sebelum sebarang penilaian keselamatan S1 dapat diteruskan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasionalisasi:**
+Tiada ujian klinis telah menguji hydroxyurea secara khusus dalam karsinoma payudara; bukti penggunaan manusia yang sedia ada ialah kajian kombinasi Fasa I 1991 dan kohort penyatuan 1994, kedua-duanya di luar konteks penjagaan moden. Sokongan selebihnya ialah praklinik/mekanistik (tekanan replikasi, sensitisasi pembaikan DNA). Digabungkan dengan jurang data keselamatan yang Menyekat (DG001), bukti tidak mencukupi untuk maju melampaui soalan penyelidikan.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Label produk TFDA/NPRA — peringatan, kontraindikasi, data mielo supresi/emetogenisiti (DG001, Menyekat)
+- Mekanisme tindakan yang disahkan DrugBank (DG002)
+- Butiran lesen Malaysia (nama produk, bentuk dos, teks keadaan yang diluluskan) — pada masa ini kosong dalam data sumber
+- Jika diteruskan, reka bentuk kajian prospektif memvalidasi isyarat sensitisasi laluan PI3K/AKT/mTOR atau RPA2/ATR dalam karsinoma payudara
+
+*Nota: Ramalan paket bukti sendiri termasuk kandidat yang lebih kuat — "sindrom penyakit hemoglobin C sel sabit" (pangkat 3, tahap bukti L1, tahap keputusan S3, "Teruskan dengan Penjaga," 11 ujian + 19 penerbitan) — yang mungkin patut laporan penilaian khusus tersendiri.*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

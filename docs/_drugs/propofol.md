@@ -29,90 +29,91 @@ Tahap bukti: **L2** | Indikasi diramal: **5**
 
 </div>
 
-# Propofol: From General Anesthesia/Sedation to Migraine Disorder
+# Propofol: Dari Anestesi Umum/Sedasi ke Gangguan Migrain
 
-## One-Sentence Summary
+## Ringkasan Satu Kalimat
 
-Propofol is a widely used intravenous general anesthetic and sedative agent, established for induction/maintenance of anesthesia and procedural sedation. The TxGNN model predicts it may be effective for **Migraine Disorder**, with **5 clinical trials** and **20 publications** currently supporting this direction, including at least one completed Phase 2/3 pediatric RCT specifically testing propofol for migraine.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | General anesthesia (induction/maintenance) and procedural sedation *(well-established use; Malaysia-specific label indication text was not available in this evidence pack — see Market Information section)* |
-| Predicted New Indication | Migraine disorder |
-| TxGNN Prediction Score | 99.69% |
-| Evidence Level | L2 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 8 |
-| Recommended Decision | Proceed with Guardrails |
+Propofol adalah agen anestesi intravena umum dan sedatif yang banyak digunakan, ditetapkan untuk induksi/pemeliharaan anestesi dan sedasi prosedur. Model TxGNN memprediksi bahwa ia mungkin efektif untuk **Gangguan Migrain**, dengan **5 uji klinis** dan **20 publikasi** yang saat ini mendukung arahan ini, termasuk setidaknya satu uji coba RCT pediatrik Fase 2/3 yang telah selesai khusus menguji propofol untuk migrain.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Tinjauan Cepat
 
-Detailed mechanism-of-action data was not retrieved at the drug level for this evidence pack. However, the evidence base collected for this candidate indication converges on a specific mechanistic hypothesis: propofol is a potent GABA-A receptor agonist with sedative and anticonvulsant-like properties. This pharmacology is hypothesized to suppress **cortical spreading depression (CSD)** — the neuronal event underlying migraine aura — and to dampen central pain sensitization pathways. Preclinical work (PMID 22390898) directly demonstrated that propofol suppresses cortical spreading depression, providing a mechanistic bridge between an anesthetic/sedative agent and migraine pathophysiology.
-
-Clinically, this is not a purely theoretical link — subanesthetic ("low-dose") propofol infusion has already been used in emergency department settings as a rescue/abortive therapy for refractory migraine, in both adult and pediatric populations, for over two decades (earliest report PMID 10759925, 2000). Because propofol's sedative use is already well characterized in routine anesthesia practice, the safety and dosing behavior of the drug itself is familiar to clinicians, even though its use as a migraine-specific abortive agent (at subanesthetic doses) remains an off-label, emerging application supported by a growing but still modest RCT base.
-
----
-
-## Clinical Trial Evidence
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT01604785](https://clinicaltrials.gov/study/NCT01604785) | Phase 2/3 | Completed | 74 | Low-dose propofol evaluated as abortive therapy for pediatric migraine in the ED; prior retrospective data suggested safety and possible superiority over standard treatment |
-| [NCT02485418](https://clinicaltrials.gov/study/NCT02485418) | NA | Completed | 40 | Low-dose propofol infusion as abortive treatment for pediatric migraine; evaluated efficacy, safe dosing limits, and duration of effect |
-| [NCT02492295](https://clinicaltrials.gov/study/NCT02492295) | NA | Terminated | 12 | Low-dose propofol for severe refractory adult migraine in the ED; study stopped early, limiting evidence strength |
-| [NCT03789370](https://clinicaltrials.gov/study/NCT03789370) | NA | Unknown | 130 | Compared sevoflurane vs. propofol anesthesia maintenance for postoperative headache occurrence; propofol hypothesized to have protective effect on migraine patients |
-| [NCT02443220](https://clinicaltrials.gov/study/NCT02443220) | NA | Completed | 315 | Electroacupuncture analgesia study in cardiac surgery patients; overlaps only on the migraine topic, not on propofol's therapeutic mechanism (low relevance) |
+| Item | Konten |
+|------|--------|
+| Indikasi Asli | Anestesi umum (induksi/pemeliharaan) dan sedasi prosedur *(penggunaan yang terbukti; teks indikasi label khusus Malaysia tidak tersedia dalam paket bukti ini — lihat bagian Informasi Pasar)* |
+| Indikasi Baru yang Diprediksi | Gangguan migrain |
+| Skor Prediksi TxGNN | 99.69% |
+| Tingkat Bukti | L2 |
+| Status Pasar Malaysia | ✓ Dipasarkan |
+| Jumlah Registrasi | 8 |
+| Rekomendasi Keputusan | Lanjutkan dengan Pembatasan |
 
 ---
 
-## Literature Evidence
+## Mengapa Prediksi Ini Masuk Akal?
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [35402989](https://pubmed.ncbi.nlm.nih.gov/35402989/) | 2022 | RCT | Archives of Academic Emergency Medicine | Double-blind RCT comparing propofol+granisetron vs. propofol+metoclopramide for acute migraine symptom management |
-| [29456086](https://pubmed.ncbi.nlm.nih.gov/29456086/) | 2018 | RCT | The Journal of Emergency Medicine | Prospective RCT on low-dose propofol for pediatric migraine, suggesting efficacy with favorable side-effect profile and shorter ED length of stay |
-| [35573713](https://pubmed.ncbi.nlm.nih.gov/35573713/) | 2022 | RCT | Archives of Academic Emergency Medicine | RCT comparing sumatriptan+propofol combination vs. sumatriptan alone for acute migraine |
-| [32705801](https://pubmed.ncbi.nlm.nih.gov/32705801/) | 2020 | RCT (pilot) | Emergency Medicine Australasia | Pilot RCT testing procedural-sedation-dose IV propofol vs. standard therapy for initial ED migraine management |
-| [31621134](https://pubmed.ncbi.nlm.nih.gov/31621134/) | 2020 | Systematic Review | Academic Emergency Medicine | Systematic review of safety and efficacy evidence for propofol as an acute migraine therapy in the ED |
-| [39364614](https://pubmed.ncbi.nlm.nih.gov/39364614/) | 2024 | Systematic Review / Network Analysis | Headache | Network analysis comparing parenteral agents (including propofol) for reducing relapse after acute migraine treatment |
-| [26790849](https://pubmed.ncbi.nlm.nih.gov/26790849/) | 2016 | Systematic Review | Headache | Qualitative systematic review of acute treatment therapies, including propofol, for pediatric migraine |
-| [24875925](https://pubmed.ncbi.nlm.nih.gov/24875925/) | 2015 | Systematic Review | Cephalalgia | Canadian Headache Society systematic review and recommendations on treating migraine pain in emergency settings |
-| [41321235](https://pubmed.ncbi.nlm.nih.gov/41321235/) | 2026 | Review/Guideline | Headache | 2025 American Headache Society update on parenteral pharmacotherapies for acute migraine in the ED |
-| [27454834](https://pubmed.ncbi.nlm.nih.gov/27454834/) | 2016 | Cohort/Case Series | Expert Review of Neurotherapeutics | Drug-profile review describing subanesthetic-dose propofol's benefit in refractory/super-refractory migraine |
+Data mekanisme kerja yang terperinci tidak diambil pada tingkat obat untuk paket bukti ini. Namun, basis bukti yang dikumpulkan untuk indikasi kandidat ini bertemu pada hipotesis mekanis spesifik: propofol adalah agonis reseptor GABA-A yang kuat dengan sifat sedatif dan seperti antikonvulsan. Farmakologi ini dihipotesiskan menekan **penyebaran korteks depresi (CSD)** — peristiwa neuron yang mendasari aura migrain — dan untuk meredam jalur sensitisasi nyeri pusat. Penelitian praklinisnya (PMID 22390898) secara langsung menunjukkan bahwa propofol menekan penyebaran korteks depresi, menyediakan jembatan mekanis antara agen anestesi/sedatif dan patofisiologi migrain.
+
+Secara klinis, ini bukan sekadar hubungan teoritis — infusi propofol subanestik ("dosis rendah") telah digunakan di ruang gawat darurat sebagai terapi penyelamat/abortif untuk migrain yang refraktori, pada populasi dewasa dan pediatrik, selama lebih dari dua dekade (laporan paling awal PMID 10759925, 2000). Karena penggunaan sedatif propofol telah terkarakterisasi dengan baik dalam praktik anestesi rutin, profil keselamatan dan perilaku dosis obat tersebut sudah akrab bagi klinisi, meskipun penggunaannya sebagai agen abortif khusus migrain (pada dosis subanestik) tetap menjadi aplikasi off-label yang berkembang yang didukung oleh basis RCT yang sedang berkembang tetapi masih sederhana.
 
 ---
 
-## Malaysia Market Information
+## Bukti Uji Klinis
 
-Aggregate NPRA registration status confirms propofol is **marketed in Malaysia with 8 active registrations**. However, the individual authorization records (license number, product name, dosage form, approved indication text) returned by this query were empty and are not yet available in this evidence pack (see data gap DG001). Detailed registration data should be pulled from NPRA/product label sources before this candidate advances further.
+| Nomor Uji | Fase | Status | Pendaftaran | Temuan Utama |
+|---------|------|--------|---------|---------|
+| [NCT01604785](https://clinicaltrials.gov/study/NCT01604785) | Fase 2/3 | Selesai | 74 | Propofol dosis rendah dievaluasi sebagai terapi abortif untuk migrain pediatrik di ED; data retrospektif sebelumnya menunjukkan keamanan dan kemungkinan keunggulan dibandingkan pengobatan standar |
+| [NCT02485418](https://clinicaltrials.gov/study/NCT02485418) | NA | Selesai | 40 | Infusi propofol dosis rendah sebagai pengobatan abortif untuk migrain pediatrik; mengevaluasi efikasi, batas penghitungan dosis yang aman, dan durasi efek |
+| [NCT02492295](https://clinicaltrials.gov/study/NCT02492295) | NA | Dihentikan | 12 | Propofol dosis rendah untuk migrain refraktori berat dewasa di ED; studi dihentikan lebih awal, membatasi kekuatan bukti |
+| [NCT03789370](https://clinicaltrials.gov/study/NCT03789370) | NA | Tidak Diketahui | 130 | Dibandingkan pemeliharaan anestesia sevofluran vs. propofol untuk terjadinya sakit kepala pasca operasi; propofol dihipotesiskan memiliki efek protektif pada pasien migrain |
+| [NCT02443220](https://clinicaltrials.gov/study/NCT02443220) | NA | Selesai | 315 | Studi analgesia elektroakupunktur pada pasien operasi jantung; tumpang tindih hanya pada topik migrain, bukan pada mekanisme terapeutik propofol (relevansi rendah) |
 
 ---
 
-## Safety Considerations
+## Bukti Literatur
 
-Please refer to the package insert for safety information. (Key warnings, contraindications, and drug interaction data were not returned in this evidence pack — see data gap DG001, flagged as **Blocking** for safety pre-screening.)
+| PMID | Tahun | Jenis | Jurnal | Temuan Utama |
+|------|------|------|--------|---------|
+| [35402989](https://pubmed.ncbi.nlm.nih.gov/35402989/) | 2022 | RCT | Archives of Academic Emergency Medicine | RCT terikat ganda membandingkan propofol+granisetron vs. propofol+metoklopramida untuk manajemen gejala migrain akut |
+| [29456086](https://pubmed.ncbi.nlm.nih.gov/29456086/) | 2018 | RCT | The Journal of Emergency Medicine | RCT prospektif tentang propofol dosis rendah untuk migrain pediatrik, menunjukkan efikasi dengan profil efek samping yang menguntungkan dan lama rawat di ED yang lebih pendek |
+| [35573713](https://pubmed.ncbi.nlm.nih.gov/35573713/) | 2022 | RCT | Archives of Academic Emergency Medicine | RCT membandingkan kombinasi sumatriptan+propofol vs. sumatriptan saja untuk migrain akut |
+| [32705801](https://pubmed.ncbi.nlm.nih.gov/32705801/) | 2020 | RCT (pilot) | Emergency Medicine Australasia | Pilot RCT menguji propofol IV dosis sedasi prosedur vs. terapi standar untuk manajemen migrain ED awal |
+| [31621134](https://pubmed.ncbi.nlm.nih.gov/31621134/) | 2020 | Tinjauan Sistematis | Academic Emergency Medicine | Tinjauan sistematis bukti keselamatan dan efikasi untuk propofol sebagai terapi migrain akut di ED |
+| [39364614](https://pubmed.ncbi.nlm.nih.gov/39364614/) | 2024 | Tinjauan Sistematis / Analisis Jaringan | Headache | Analisis jaringan membandingkan agen parenteral (termasuk propofol) untuk mengurangi kekambuhan setelah pengobatan migrain akut |
+| [26790849](https://pubmed.ncbi.nlm.nih.gov/26790849/) | 2016 | Tinjauan Sistematis | Headache | Tinjauan sistematis kualitatif terapi pengobatan akut, termasuk propofol, untuk migrain pediatrik |
+| [24875925](https://pubmed.ncbi.nlm.nih.gov/24875925/) | 2015 | Tinjauan Sistematis | Cephalalgia | Tinjauan sistematis Canadian Headache Society dan rekomendasi tentang pengobatan nyeri migrain di pengaturan gawat darurat |
+| [41321235](https://pubmed.ncbi.nlm.nih.gov/41321235/) | 2026 | Tinjauan/Pedoman | Headache | Pembaruan American Headache Society 2025 tentang farmakoterapi parenteral untuk migrain akut di ED |
+| [27454834](https://pubmed.ncbi.nlm.nih.gov/27454834/) | 2016 | Kohort/Seri Kasus | Expert Review of Neurotherapeutics | Tinjauan profil obat yang menggambarkan manfaat propofol dosis subanestik dalam migrain refraktori/super-refraktori |
 
 ---
 
-## Conclusion and Next Steps
+## Informasi Pasar Malaysia
 
-**Decision: Proceed with Guardrails**
+Status registrasi NPRA agregat mengkonfirmasi propofol **dipasarkan di Malaysia dengan 8 registrasi aktif**. Namun, catatan otorisasi individual (nomor lisensi, nama produk, bentuk dosis, teks indikasi yang disetujui) yang dikembalikan oleh kueri ini kosong dan belum tersedia dalam paket bukti ini (lihat kesenjangan data DG001). Data registrasi terperinci harus diambil dari sumber NPRA/label produk sebelum kandidat ini maju lebih jauh.
 
-**Rationale:**
-The evidence level (L2) is anchored by a completed Phase 2/3 pediatric RCT (NCT01604785) plus several adult and pediatric RCTs and systematic reviews (2018–2026) supporting subanesthetic propofol as an ED abortive therapy for migraine, with a plausible mechanistic basis (suppression of cortical spreading depression). However, one directly relevant adult trial (NCT02492295) was terminated early, and a critical safety data gap (DG001: TFDA/NPRA label warnings and contraindications) blocks a full safety pre-screening.
+---
 
-**To proceed, the following is needed:**
-- Resolve DG001: obtain NPRA-approved package insert (warnings, contraindications, DDI) before safety pre-screening (S1)
-- Resolve DG002: confirm drug-level MOA documentation to formally support the mechanistic rationale
-- Malaysia-specific license and approved-indication text (current records are blank)
-- Clarification on why NCT02492295 (adult refractory migraine) was terminated, to assess whether this reflects a safety or feasibility signal
-- Consideration of a confirmatory adult RCT, given existing adult evidence is smaller in scale than the pediatric dataset
+## Pertimbangan Keselamatan
+
+Silakan lihat sisipan paket untuk informasi keselamatan. (Data peringatan utama, kontraindikasi, dan interaksi obat tidak dikembalikan dalam paket bukti ini — lihat kesenjangan data DG001, ditandai sebagai **Pemblokiran** untuk penyaringan keselamatan awal.)
+
+---
+
+## Kesimpulan dan Langkah Berikutnya
+
+**Keputusan: Lanjutkan dengan Pembatasan**
+
+**Alasan:**
+Tingkat bukti (L2) ditambatkan oleh uji coba RCT pediatrik Fase 2/3 yang telah selesai (NCT01604785) ditambah beberapa RCT dewasa dan pediatrik serta tinjauan sistematis (2018–2026) yang mendukung propofol subanestik sebagai terapi abortif ED untuk migrain, dengan dasar mekanis yang masuk akal (penekanan penyebaran korteks depresi). Namun, satu uji coba dewasa yang langsung relevan (NCT02492295) dihentikan lebih awal, dan kesenjangan data keselamatan kritis (DG001: peringatan/kontraindikasi label NPRA/TFDA) memblokir penyaringan keselamatan awal yang lengkap.
+
+**Untuk melanjutkan, yang berikut ini diperlukan:**
+- Selesaikan DG001: peroleh informasi keselamatan dari sisipan paket yang disetujui NPRA (peringatan, kontraindikasi, interaksi obat) sebelum penyaringan keselamatan awal (S1)
+- Selesaikan DG002: konfirmasi dokumentasi MOA tingkat obat untuk mendukung secara formal dasar mekanis
+- Lisensi Malaysia yang spesifik dan teks indikasi yang disetujui (catatan saat ini kosong)
+- Klarifikasi tentang mengapa NCT02492295 (migrain refraktori dewasa) dihentikan, untuk menilai apakah ini mencerminkan sinyal keselamatan atau kelayakan
+- Pertimbangan uji coba RCT dewasa yang pasti, mengingat bukti dewasa yang ada lebih kecil dalam skala daripada kumpulan data pediatrik
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

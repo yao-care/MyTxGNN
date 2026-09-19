@@ -29,71 +29,72 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Azelastine Hydrochloride: Drug Repurposing Evaluation — No Predicted Indication Available
+# Azelastina Hidroklorida: Penilaian Penghematan Ubat — Tiada Indikasi yang Diprediksi Tersedia
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Azelastine hydrochloride is a second-generation antihistamine currently marketed in Malaysia with 2 registered products. The TxGNN model has **not generated any predicted new indications** for this drug, and significant data gaps remain in drug-level information including mechanism of action, safety warnings, and approved indication text.
+Azelastina hidroklorida adalah antihistamin generasi kedua yang kini dipasarkan di Malaysia dengan 2 produk berdaftar. Model TxGNN **tidak menghasilkan sebarang indikasi baru yang diprediksi** untuk ubat ini, dan jurang data yang ketara masih wujud dalam maklumat peringkat ubat termasuk mekanisme tindakan, amaran keselamatan, dan teks indikasi yang diluluskan.
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | *(Data unavailable — license indication text not retrieved)* |
-| Predicted New Indication | None (no TxGNN prediction available) |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | N/A |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 2 |
-| Recommended Decision | **Hold** |
+| Item | Kandungan |
+|------|---------|
+| Indikasi Asal | *(Maklumat tidak tersedia — teks indikasi lesen tidak diambil)* |
+| Indikasi Baru yang Diprediksi | Tiada (tiada ramalan TxGNN tersedia) |
+| Skor Ramalan TxGNN | N/A |
+| Tahap Bukti | N/A |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 2 |
+| Keputusan yang Disyorkan | **Tahan** |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-No TxGNN prediction has been generated for Azelastine Hydrochloride. This section cannot be evaluated at this time.
+Tiada ramalan TxGNN telah dijana untuk Azelastina Hidroklorida. Bahagian ini tidak dapat dinilai pada masa ini.
 
-Currently, detailed mechanism of action data is not available in the evidence pack. Based on publicly known information, azelastine is a second-generation phthalazinone-derivative antihistamine with mast cell stabilising properties. It is commonly used for the symptomatic relief of allergic rhinitis (nasal spray) and allergic conjunctivitis (eye drops). It acts primarily as a selective H1-receptor antagonist and also inhibits the release of histamine and other inflammatory mediators from mast cells.
+Pada masa ini, maklumat mekanisme tindakan yang terperinci tidak tersedia dalam paket bukti. Berdasarkan maklumat yang diketahui umum, azelastina adalah antihistamin derivatif ftalazinon generasi kedua dengan sifat menstabilkan sel mast. Ia biasanya digunakan untuk pelepasan simptomatik rinitis alergik (semburan hidung) dan konjunktivitis alergik (titisan mata). Ia bertindak terutamanya sebagai antagonis reseptor H1 yang selektif dan juga menghalang pelepasan histamin dan perantara inflamasi lain daripada sel mast.
 
-Without a predicted indication from TxGNN, no mechanistic plausibility analysis can be conducted. The absence of a prediction may be due to the drug lacking a mapped DrugBank ID (`drugbank_id: null`) in the evidence pack, which would prevent the knowledge graph from establishing the necessary linkages for repurposing candidate generation.
+Tanpa ramalan indikasi daripada TxGNN, analisis kebolehimplementasian mekanistik tidak dapat dijalankan. Ketiadaan ramalan mungkin disebabkan oleh ubat yang kekurangan ID DrugBank yang dipetakan (`drugbank_id: null`) dalam paket bukti, yang akan menghalang graf pengetahuan daripada mewujudkan pautan yang diperlukan untuk penjanaan calon penghematan ubat.
 
-## Clinical Trial Evidence
+## Bukti Percubaan Klinikal
 
-Currently no related clinical trials registered — no predicted indication to query against.
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan — tiada indikasi yang diprediksi untuk ditanyakan.
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-Currently no related literature available — no predicted indication to query against.
+Pada masa ini tiada kesusasteraan berkaitan yang tersedia — tiada indikasi yang diprediksi untuk ditanyakan.
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+| Nombor Kebenaran | Nama Produk | Bentuk Ubat | Indikasi yang Diluluskan |
 |------|------|------|------|
-| *(Not retrieved)* | *(Not retrieved)* | *(Not retrieved)* | *(Not retrieved)* |
-| *(Not retrieved)* | *(Not retrieved)* | *(Not retrieved)* | *(Not retrieved)* |
+| *(Tidak diambil)* | *(Tidak diambil)* | *(Tidak diambil)* | *(Tidak diambil)* |
+| *(Tidak diambil)* | *(Tidak diambil)* | *(Tidak diambil)* | *(Tidak diambil)* |
 
-> **Note:** Two registrations were identified by the NPRA query (query date: 2026-03-27), but the detailed license fields (authorization number, product name, dosage form, approved indication) were not populated in the evidence pack. A follow-up NPRA data retrieval is required.
+> **Nota:** Dua pendaftaran telah dikenalpasti oleh pertanyaan NPRA (tarikh pertanyaan: 2026-03-27), tetapi medan lesen yang terperinci (nombor kebenaran, nama produk, bentuk ubat, indikasi yang diluluskan) tidak diisi dalam paket bukti. Pengambilan semula data NPRA diperlukan.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-> Please refer to the package insert for safety information. All safety fields (key warnings, contraindications, drug interactions) are currently unavailable in the evidence pack.
+> Sila rujuk risalah paket untuk maklumat keselamatan. Semua medan keselamatan (amaran utama, kontraindikasi, interaksi ubat) pada masa ini tidak tersedia dalam paket bukti.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-No repurposing candidate has been predicted by TxGNN for Azelastine Hydrochloride. Additionally, critical data gaps — including the DrugBank ID mapping, approved indication text, mechanism of action, and safety profile — prevent any meaningful evaluation. The drug cannot proceed through the repurposing pipeline until these foundational data elements are resolved.
+**Rasional:**
+Tiada calon penghematan ubat telah diprediksi oleh TxGNN untuk Azelastina Hidroklorida. Selain itu, jurang data yang kritikal — termasuk pemetaan ID DrugBank, teks indikasi yang diluluskan, mekanisme tindakan, dan profil keselamatan — menghalang sebarang penilaian yang bermakna. Ubat tidak boleh meneruskan saluran penghematan ubat sehingga elemen data asas ini diselesaikan.
 
-**To proceed, the following is needed:**
+**Untuk meneruskan, perkara berikut diperlukan:**
 
-1. **DrugBank ID Resolution** — Map Azelastine Hydrochloride to its DrugBank ID (expected: DB00972) to enable knowledge graph linkage and TxGNN prediction
-2. **NPRA License Detail Retrieval** — Re-query NPRA to populate authorization numbers, product names, dosage forms, and approved indication text for the 2 registered products
-3. **Mechanism of Action (MOA)** — Retrieve MOA data from DrugBank API (Severity: High, per DG002)
-4. **Safety Profile (Package Insert)** — Download and parse the package insert to extract warnings and contraindications (Severity: Blocking, per DG001)
-5. **Re-run TxGNN Prediction** — After DrugBank ID is mapped, re-execute the KG and DL prediction pipeline to generate repurposing candidates
+1. **Penyelesaian ID DrugBank** — Petakan Azelastina Hidroklorida kepada ID DrugBanknya (dijangka: DB00972) untuk membolehkan pautan graf pengetahuan dan ramalan TxGNN
+2. **Pengambilan Butiran Lesen NPRA** — Tanyakan semula NPRA untuk mengisi nombor kebenaran, nama produk, bentuk ubat, dan teks indikasi yang diluluskan untuk 2 produk berdaftar
+3. **Mekanisme Tindakan (MOA)** — Ambil data MOA daripada API DrugBank (Keterukan: Tinggi, per DG002)
+4. **Profil Keselamatan (Risalah Paket)** — Muat turun dan analisis risalah paket untuk mengekstrak amaran dan kontraindikasi (Keterukan: Menghalang, per DG001)
+5. **Jalankan Semula Ramalan TxGNN** — Selepas ID DrugBank dipetakan, jalankan semula saluran ramalan KG dan DL untuk menjana calon penghematan ubat
 
 ---
 
-*This report is for research reference only and does not constitute medical advice. All drug repurposing candidates require clinical validation before application.*
+*Laporan ini adalah untuk rujukan penyelidikan sahaja dan tidak membentuk nasihat perubatan. Semua calon penghematan ubat memerlukan pengesahan klinikal sebelum aplikasi.*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

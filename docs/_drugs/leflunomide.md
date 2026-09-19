@@ -29,60 +29,61 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Leflunomide: From Rheumatoid Arthritis to Brachydactyly-Syndactyly Syndrome
+# Leflunomide: Dari Artritis Reumatoid kepada Sindrom Brachydactyly-Syndactyly
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-> Leflunomide is a DHODH inhibitor / immunomodulator clinically established for rheumatoid arthritis (this original-indication detail is general pharmacological knowledge, not present in the source evidence pack — TFDA license text was returned blank).
-> The TxGNN model predicts it may be effective for **brachydactyly-syndactyly syndrome**, a rare congenital skeletal developmental disorder,
-> but this prediction is currently supported by **0 clinical trials** and **0 publications**, and the evidence pack's own mechanistic review found no known biological link between the drug's mechanism and this indication.
+> Leflunomide adalah penghambat DHODH / imunomodulator yang telah ditubuhkan secara klinikal untuk artritis reumatoid (butiran petunjuk asal ini adalah pengetahuan farmakologi umum, tidak hadir dalam pakej bukti sumber — teks lesen TFDA dikembalikan kosong).
+> Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom brachydactyly-syndactyly**, keadaan kecacatan perkembangan rangka tulang kongenital yang jarang,
+> tetapi ramalan ini pada masa kini disokong oleh **0 percubaan klinikal** dan **0 penerbitan**, dan semakan mekanistik sendiri pakej bukti mendapati tiada pautan biologi yang diketahui antara mekanisme ubat dan petunjuk ini.
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | Not available from TFDA license records in this evidence pack (all 5 registrations returned blank indication text); clinically known for rheumatoid arthritis (general knowledge, unverified against local label) |
-| Predicted New Indication | Brachydactyly-syndactyly syndrome |
-| TxGNN Prediction Score | 99.93% (rank 1531 of full candidate list) |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 5 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|-----------|
+| Petunjuk Asal | Tidak tersedia daripada rekod lesen TFDA dalam pakej bukti ini (kesemua 5 pendaftaran mengembalikan teks petunjuk kosong); diketahui secara klinikal untuk artritis reumatoid (pengetahuan umum, tidak disahkan terhadap label tempatan) |
+| Petunjuk Baru Diramalkan | Sindrom brachydactyly-syndactyly |
+| Skor Ramalan TxGNN | 99.93% (kedudukan 1531 daripada senarai calon lengkap) |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 5 |
+| Keputusan Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data is not available (flagged as a High-severity data gap, DG002). Based on known pharmacology, leflunomide is a dihydroorotate dehydrogenase (DHODH) inhibitor that blocks pyrimidine synthesis, producing an immunomodulatory effect used clinically in autoimmune conditions such as rheumatoid arthritis.
+Pada masa kini, data mekanisme tindakan terperinci tidak tersedia (ditandai sebagai jurang data Kesukaran Tinggi, DG002). Berdasarkan farmakologi yang diketahui, leflunomide adalah penghambat dehidroorotat dehidrogenase (DHODH) yang menyekat sintesis pirimidin, menghasilkan kesan imunomodulatori yang digunakan secara klinikal dalam keadaan autoimun seperti artritis reumatoid.
 
-Brachydactyly-syndactyly syndrome is a congenital skeletal malformation syndrome, driven by developmental/structural gene defects rather than autoimmune or inflammatory processes. The evidence pack's own repurposing rationale is explicit that there is **no known mechanistic overlap** between leflunomide's DHODH-inhibition/immunomodulatory action and the developmental pathology underlying this syndrome — the score reflects a graph-topology association from the TxGNN model, not a pharmacologically grounded hypothesis. The same caveat applies to the second-ranked candidate (colobomatous microphthalmia-rhizomelic dysplasia syndrome, score 99.93%, rank 1568), which is likewise a congenital structural syndrome with no identified mechanistic link.
+Sindrom brachydactyly-syndactyly adalah sindrom malformasi rangka tulang kongenital, didorong oleh kecacatan gen perkembangan/struktural bukan oleh proses autoimun atau keradangan. Hak milik semula sendiri pakej bukti jelas bahawa terdapat **tiada pertindihan mekanistik yang diketahui** antara tindakan penghambatan DHODH/imunomodulatori leflunomide dan patologi perkembangan yang mendasari sindrom ini — skor mencerminkan perkaitan topologi graf daripada model TxGNN, bukan hipotesis yang berdasarkan farmakologi. Kaveat yang sama terpakai kepada calon peringkat kedua (sindrom colobomatous microphthalmia-rhizomelic dysplasia, skor 99.93%, peringkat 1568), yang juga merupakan sindrom struktural kongenital tanpa pautan mekanistik yang dikenal pasti.
 
-## Clinical Trial Evidence
+## Bukti Percubaan Klinikal
 
-Currently no related clinical trials registered
+Pada masa kini tiada percubaan klinikal yang berkaitan berdaftar
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-Currently no related literature available
+Pada masa kini tiada kesusasteraan yang berkaitan tersedia
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-5 registrations exist for leflunomide in the source registry, but license-level detail (authorization number, product name, dosage form, approved indication text) was not returned in this evidence pack — all fields came back blank. This must be re-queried before it can be reported.
+5 pendaftaran wujud untuk leflunomide dalam daftar sumber, tetapi terperinci peringkat lesen (nombor kebenaran, nama produk, bentuk dos, teks petunjuk yang diluluskan) tidak dikembalikan dalam pakej bukti ini — semua medan datang balik kosong. Ini mesti disiasat semula sebelum ia boleh dilaporkan.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information. Note: TFDA warning/contraindication data is flagged as a **Blocking** data gap (DG001) — it must be resolved before this candidate can proceed to safety screening (S1).
+Sila rujuk risalah pembungkus untuk maklumat keselamatan. Nota: data amaran/kontraindikasi TFDA ditandai sebagai jurang data **Pemblokan** (DG001) — ia mesti diselesaikan sebelum calon ini boleh meneruskan ke saringan keselamatan S1.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The prediction rests solely on TxGNN model output (L5) with zero supporting clinical trials or literature, and the evidence pack's own mechanistic assessment finds no known biological plausibility linking leflunomide's mechanism to this developmental/skeletal syndrome. A blocking safety data gap also prevents any initial safety evaluation.
+**Hujah:**
+Ramalan itu hanya bersandar pada keluaran model TxGNN (L5) tanpa sebarang percubaan klinikal atau kesusasteraan yang menyokong, dan penilaian mekanistik sendiri pakej bukti mendapati tiada keboleh dipercayaan biologi yang diketahui menghubungkan mekanisme leflunomide dengan sindrom perkembangan/skeletal ini. Jurang data keselamatan pemblokan juga menghalang sebarang penilaian keselamatan awal.
 
-**To proceed, the following is needed:**
-- TFDA package insert (warnings, contraindications) — resolve DG001 before any S1 safety screening
-- Confirmed mechanism of action from DrugBank — resolve DG002
-- Complete TFDA license records (authorization numbers, approved indication text) for the 5 existing registrations
-- Preclinical or mechanistic evidence establishing a plausible biological rationale for this indication, given the current rationale finds none
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Risalah pembungkus TFDA (amaran, kontraindikasi) — selesaikan DG001 sebelum saringan keselamatan S1
+- Mekanisme tindakan yang disahkan daripada DrugBank — selesaikan DG002
+- Rekod lesen TFDA lengkap (nombor kebenaran, teks petunjuk yang diluluskan) untuk 5 pendaftaran sedia ada
+- Bukti pra-klinikal atau mekanistik yang menetapkan hujah biologi yang munasabah untuk petunjuk ini, memandangkan hujah semasa mendapati tiada
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

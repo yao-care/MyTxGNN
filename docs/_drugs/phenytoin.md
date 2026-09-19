@@ -29,83 +29,84 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Phenytoin: From Epilepsy to Trigeminal Nerve Neoplasm
+# Fenitoin: Dari Epilepsi ke Neoplasma Saraf Trigeminal
 
-## One-Sentence Summary
+## Ringkasan Satu Kalimat
 
-Phenytoin is a classic sodium-channel-blocking antiepileptic drug; the specific NPRA-approved indication text was not returned in this data pull. The TxGNN model's top-ranked prediction is **Trigeminal Nerve Neoplasm** (score 99.99%), but the only supporting literature (**5 publications, 0 clinical trials**) discusses trigeminal *neuralgia* and Sturge-Weber syndrome rather than nerve tumors — the evidence pack itself flags this as a likely disease-ontology mapping error and recommends manual review before proceeding.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not specified in the available NPRA license extract (all license fields blank); Phenytoin is globally established as an antiepileptic/anticonvulsant agent |
-| Predicted New Indication | Trigeminal Nerve Neoplasm |
-| TxGNN Prediction Score | 99.99% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 5 |
-| Recommended Decision | Hold |
+Fenitoin adalah agen antiepilepsi klasik yang memblokir saluran natrium; teks indikasi yang disetujui NPRA yang spesifik tidak dikembalikan dalam tarik data ini. Prediksi model TxGNN yang berpangkat teratas adalah **Neoplasma Saraf Trigeminal** (skor 99,99%), tetapi satu-satunya literatur yang mendukung (**5 publikasi, 0 uji klinis**) membahas neuralgia *trigeminal* dan sindrom Sturge-Weber daripada tumor saraf — paket bukti itu sendiri menandai ini sebagai kemungkinan kesalahan pemetaan ontologi penyakit dan merekomendasikan tinjauan manual sebelum melanjutkan.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Tinjauan Cepat
 
-Currently, detailed mechanism of action data is not available (DrugBank query returned a blocking gap on this field). Based on generally established pharmacology, phenytoin is a voltage-gated sodium channel blocker classically used to suppress abnormal, high-frequency neuronal firing in epilepsy; this same mechanism underlies its long-standing off-label use in neuropathic pain syndromes involving neuronal hyperexcitability.
-
-However, the specific rank-1 prediction — trigeminal nerve **neoplasm** — is not well supported by the retrieved evidence. All five associated publications concern trigeminal **neuralgia** (a pain/hyperexcitability disorder) or Sturge-Weber syndrome case reports, none of which describe nerve tumors. This mismatch strongly suggests a TxGNN disease-ontology mapping artifact (neuralgia mislabeled as neoplasm) rather than a genuine mechanistic signal for an oncologic indication, and it should be manually reconciled before any further evaluation.
-
-Notably, this same evidence pack separately lists **trigeminal neuralgia** (rank 10, TxGNN score 99.97%) as a distinct predicted indication with markedly stronger support: a completed prospective clinical trial (NCT03712254) and an EAN clinical practice guideline. Sodium-channel blockade is the accepted therapeutic mechanism for trigeminal neuralgia (shared with carbamazepine), making that candidate mechanistically coherent in a way the neoplasm label is not.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for "trigeminal nerve neoplasm."
+| Item | Konten |
+|------|--------|
+| Indikasi Asal | Tidak ditentukan dalam ekstrak lisensi NPRA yang tersedia (semua bidang lisensi kosong); Fenitoin ditetapkan secara global sebagai agen antiepilepsi/antikonvulsan |
+| Indikasi Baru yang Diprediksi | Neoplasma Saraf Trigeminal |
+| Skor Prediksi TxGNN | 99,99% |
+| Tingkat Bukti | L5 |
+| Status Pasar Malaysia | ✓ Dipasarkan (Marketed) |
+| Jumlah Pendaftaran | 5 |
+| Keputusan yang Direkomendasikan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Prediksi Ini Masuk Akal?
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [17997704](https://pubmed.ncbi.nlm.nih.gov/17997704/) | 2007 | Review | Expert Rev Neurotherapeutics | Overview of trigeminal neuralgia treatments (medical and surgical); likely vascular compression etiology — concerns neuralgia, not neoplasm |
-| [21751615](https://pubmed.ncbi.nlm.nih.gov/21751615/) | 2011 | Review/Case report | J Assoc Physicians India | Sturge-Weber syndrome case with facial/orbital vascular malformation and seizures |
-| [9157801](https://pubmed.ncbi.nlm.nih.gov/9157801/) | 1997 | Case series | Anales Españoles de Pediatría | 14-case series of Sturge-Weber syndrome, clinical course and treatment response |
-| [4155965](https://pubmed.ncbi.nlm.nih.gov/4155965/) | 1971 | Not classified | Birth Defects Orig Article Series | Review of dermatologic disorders in institutionalized patients; only tangentially related |
-| [5514358](https://pubmed.ncbi.nlm.nih.gov/5514358/) | 1970 | Not classified | Trans Am Neurol Assoc | Fiber-size/conduction study relating to trigeminal root pain treatment; no abstract available |
+Saat ini, data mekanisme aksi terperinci tidak tersedia (kueri DrugBank mengembalikan celah pemblokiran pada bidang ini). Berdasarkan farmakologi yang umumnya ditetapkan, fenitoin adalah pemblokir saluran natrium yang diatur tegangan yang secara klasik digunakan untuk menekan penembakan neuronal yang abnormal dan frekuensi tinggi dalam epilepsi; mekanisme yang sama mendasari penggunaan off-label jangka panjangnya dalam sindrom nyeri neuropatik yang melibatkan hiperekskitabilitas neuronal.
 
-None of these publications address trigeminal nerve neoplasm specifically.
+Namun, prediksi peringkat-1 yang spesifik — neoplasma saraf **trigeminal** — tidak didukung dengan baik oleh bukti yang diambil. Kelima publikasi terkait berhubungan dengan neuralgia **trigeminal** (gangguan nyeri/hiperekskitabilitas) atau laporan kasus sindrom Sturge-Weber, tidak ada yang menggambarkan tumor saraf. Ketidakcocokan ini sangat menunjukkan artefak pemetaan ontologi penyakit TxGNN (neuralgia salah diberi label sebagai neoplasma) daripada sinyal mekanistik sejati untuk indikasi onkologi, dan harus direkonsiliasi secara manual sebelum evaluasi lebih lanjut.
+
+Penting untuk dicatat, paket bukti yang sama ini secara terpisah mencantumkan **neuralgia trigeminal** (peringkat 10, skor TxGNN 99,97%) sebagai indikasi prediksi yang berbeda dengan dukungan yang jauh lebih kuat: uji klinis prospektif yang selesai (NCT03712254) dan pedoman praktik klinis EAN. Pemblokiran saluran natrium adalah mekanisme terapeutik yang diterima untuk neuralgia trigeminal (dibagikan dengan karbamazepin), membuat kandidat itu koheren secara mekanis dengan cara label neoplasma tidak.
 
 ---
 
-## Malaysia Market Information
+## Bukti Uji Klinis
 
-The regulatory extract indicates 5 active product registrations (`total_licenses = 5`) with market status **Marketed (Marketed)**, but individual license details — authorization numbers, product names, dosage forms, and approved indication text — were not returned in this data pull and cannot be reported here.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information. (Key warnings, contraindications, and DDI queries all returned no data in this evidence pack — DG001 is flagged as a Blocking gap for safety review.)
+Saat ini tidak ada uji klinis terkait yang terdaftar untuk "neoplasma saraf trigeminal."
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Hold**
+| PMID | Tahun | Jenis | Jurnal | Temuan Kunci |
+|------|-------|-------|--------|-----------|
+| [17997704](https://pubmed.ncbi.nlm.nih.gov/17997704/) | 2007 | Tinjauan | Expert Rev Neurotherapeutics | Tinjauan pengobatan neuralgia trigeminal (medis dan bedah); kemungkinan etiologi kompresi vaskular — menyangkut neuralgia, bukan neoplasma |
+| [21751615](https://pubmed.ncbi.nlm.nih.gov/21751615/) | 2011 | Tinjauan/Laporan kasus | J Assoc Physicians India | Kasus sindrom Sturge-Weber dengan malformasi vaskular wajah/orbital dan kejang |
+| [9157801](https://pubmed.ncbi.nlm.nih.gov/9157801/) | 1997 | Seri kasus | Anales Españoles de Pediatría | Seri 14 kasus sindrom Sturge-Weber, perjalanan klinis dan respons pengobatan |
+| [4155965](https://pubmed.ncbi.nlm.nih.gov/4155965/) | 1971 | Tidak diklasifikasi | Birth Defects Orig Article Series | Tinjauan gangguan dermatologi pada pasien yang dirawat di institusi; hanya terkait secara tangensial |
+| [5514358](https://pubmed.ncbi.nlm.nih.gov/5514358/) | 1970 | Tidak diklasifikasi | Trans Am Neurol Assoc | Studi ukuran serat/konduksi terkait dengan pengobatan nyeri akar trigeminal; tidak ada abstrak yang tersedia |
 
-**Rationale:**
-The rank-1 prediction (trigeminal nerve neoplasm) has no clinical trial support and its literature base appears to reflect a disease-ontology mapping error rather than genuine evidence (L5/S0). Core inputs needed for even an initial safety screen — TFDA/NPRA package insert warnings (DG001, Blocking) and MOA data (DG002) — are also missing.
+Tidak ada publikasi ini yang mengatasi neoplasma saraf trigeminal secara khusus.
 
-**To proceed, the following is needed:**
-- Manual reconciliation of the "trigeminal nerve neoplasm" vs. "trigeminal neuralgia" disease-ontology mapping before re-scoring this candidate
-- Retrieval of the TFDA/NPRA package insert (warnings, contraindications) — currently blocking
-- Retrieval of DrugBank MOA and drug category data
-- Retrieval of actual NPRA license register details (product names, dosage forms, approved indication text)
-- Consider evaluating **trigeminal neuralgia** (rank 10 in this same pack, L3/S2, "Proceed with Guardrails," backed by a completed clinical trial and an EAN guideline) as the more substantively supported repurposing candidate for this drug
+---
+
+## Informasi Pasar Malaysia
+
+Ekstrak regulasi menunjukkan 5 pendaftaran produk aktif (`total_licenses = 5`) dengan status pasar **Dipasarkan (Marketed)**, tetapi detail lisensi individual — nomor otorisasi, nama produk, bentuk dosis, dan teks indikasi yang disetujui — tidak dikembalikan dalam tarik data ini dan tidak dapat dilaporkan di sini.
+
+---
+
+## Pertimbangan Keamanan
+
+Silakan merujuk ke sisipan kemasan untuk informasi keamanan. (Peringatan kunci, kontraindikasi, dan kueri DDI semua mengembalikan tidak ada data dalam paket bukti ini — DG001 ditandai sebagai celah pemblokiran untuk tinjauan keamanan.)
+
+---
+
+## Kesimpulan dan Langkah Selanjutnya
+
+**Keputusan: Tahan**
+
+**Alasan:**
+Prediksi peringkat-1 (neoplasma saraf trigeminal) tidak memiliki dukungan uji klinis dan basis literaturnya tampaknya mencerminkan kesalahan pemetaan ontologi penyakit daripada bukti asli (L5/S0). Input inti yang diperlukan bahkan untuk pemeriksaan keamanan awal — peringatan sisipan kemasan TFDA/NPRA (DG001, Pemblokiran) dan data MOA (DG002) — juga hilang.
+
+**Untuk melanjutkan, hal berikut diperlukan:**
+- Rekonsiliasi manual dari pemetaan ontologi penyakit "neoplasma saraf trigeminal" versus "neuralgia trigeminal" sebelum mencetak ulang kandidat ini
+- Pengambilan sisipan kemasan TFDA/NPRA (peringatan, kontraindikasi) — saat ini memblokir
+- Pengambilan data kategori DrugBank MOA dan obat
+- Pengambilan detail register lisensi NPRA aktual (nama produk, bentuk dosis, teks indikasi yang disetujui)
+- Pertimbangkan untuk mengevaluasi **neuralgia trigeminal** (peringkat 10 dalam paket yang sama ini, L3/S2, "Lanjutkan dengan Pengawasan," didukung oleh uji klinis yang selesai dan pedoman EAN) sebagai kandidat repurposing obat yang lebih didukung secara substansial untuk obat ini
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

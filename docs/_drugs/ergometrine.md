@@ -29,77 +29,78 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Ergometrine: From Uterotonic Use to Hypertrichosis (Disease)
+# Ergometrin: Dari Kegunaan Uterotonik ke Hipertrikosis (Penyakit)
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Ergometrine is a classic ergot alkaloid, pharmacologically documented in this evidence pack as a uterotonic/oxytocic agent used in obstetrics (postpartum hemorrhage control) via 5‑HT and α‑adrenergic receptor activity. The TxGNN model's top-ranked prediction is **Hypertrichosis (disease)**, but this candidate is currently supported by **0 clinical trials** and **0 publications** — it is a pure model-score prediction with no identifiable mechanistic rationale.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not documented in the current NPRA license extraction (approved indication text unavailable for both registrations) |
-| Predicted New Indication | Hypertrichosis (disease) |
-| TxGNN Prediction Score | 99.96% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
-| Recommended Decision | Hold |
+Ergometrin adalah alkaloida ergot klasik yang didokumentasikan dalam paket bukti ini secara farmakologi sebagai agen uterotonik/oksitosik yang digunakan dalam obstetrik (pengendalian perdarahan postpartum) melalui aktiviti reseptor 5‑HT dan α‑adrenergik. Prediksi teratas model TxGNN adalah **Hipertrikosis (penyakit)**, tetapi kandidat ini didukung oleh **0 ujian klinis** dan **0 publikasi** — ia adalah prediksi skor model murni tanpa sebarang rasional mekanik yang dapat diidentifikasi.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Tinjauan Cepat
 
-Detailed mechanism of action data for Ergometrine is not available in this evidence pack (flagged as a High-severity data gap). Based on information embedded in the pack's own rationale text for other predicted indications, Ergometrine is characterized as an ergot alkaloid acting on 5‑HT1/5‑HT2 serotonin receptors and α‑adrenergic receptors, consistent with its known role as a uterotonic/oxytocic agent for postpartum hemorrhage — this is corroborated indirectly by references to "oxytocic drugs" and pregnancy/cardiac-disease safety literature elsewhere in the evidence set.
-
-For the top-ranked prediction, Hypertrichosis (disease), the evidence pack explicitly states there is **no known mechanistic link** between Ergometrine's serotonergic/α‑adrenergic vasoactive pharmacology and hair follicle growth pathways. No clinical trials, observational studies, or case reports connect the drug to this indication. This candidate therefore reflects a TxGNN knowledge-graph embedding similarity rather than a pharmacologically grounded hypothesis, and should be treated as exploratory only.
-
-It is worth noting for context that the same evidence pack contains a substantially stronger candidate further down the ranking — **migraine disorder** (rank 7, L3/S2, "Research Question") — supported by mechanistic continuity with related ergot alkaloids (ergotamine, methysergide, methylergonovine) and several cohort-level publications. This is flagged here for completeness but is outside the scope of the rank-1 candidate this report evaluates.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Tidak didokumentasikan dalam ekstraksi lisensi NPRA semasa (teks indikasi yang disetujui tidak tersedia untuk kedua-dua pendaftaran) |
+| Indikasi Baru yang Diprediksi | Hipertrikosis (penyakit) |
+| Skor Prediksi TxGNN | 99.96% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 2 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Prediksi Ini Munasabah?
 
-Currently no related literature available.
+Data mekanisme tindakan terperinci untuk Ergometrin tidak tersedia dalam paket bukti ini (ditandai sebagai jurang data yang teruk). Berdasarkan maklumat yang tertanam dalam teks rasional paket sendiri untuk prediksi indikasi lain, Ergometrin dicirikan sebagai alkaloida ergot yang bertindak pada reseptor serotonin 5‑HT1/5‑HT2 dan reseptor α‑adrenergik, konsisten dengan peranannya yang diketahui sebagai agen uterotonik/oksitosik untuk perdarahan postpartum — ini disokong secara tidak langsung oleh rujukan kepada "ubat oksitosik" dan literatur keselamatan berkaitan kehamilan dan penyakit jantung di tempat lain dalam set bukti.
 
----
+Untuk prediksi berkedudukan teratas, Hipertrikosis (penyakit), paket bukti secara eksplisit menyatakan bahawa terdapat **tiada pautan mekanistik yang diketahui** antara farmakologi serotonergik/α‑adrenergik vasoaktif Ergometrin dan laluan pertumbuhan folikel rambut. Tiada ujian klinis, kajian pemerhatian, atau laporan kes yang menghubungkan ubat ini dengan indikasi ini. Kandidat ini oleh itu mencerminkan kesamaan embedding graf pengetahuan TxGNN dan bukannya hipotesis yang berlandaskan farmakologi, dan hanya boleh dipandang sebagai eksplorasi.
 
-## Malaysia Market Information
-
-2 NPRA authorizations are on record for Ergometrine, but license-level details (authorization number, product name, dosage form, approved indication text) are not populated in the current data extraction and require follow-up retrieval from NPRA.
+Adalah penting untuk diperhatikan bagi konteks bahawa paket bukti yang sama mengandungi kandidat yang jauh lebih kuat yang berkedudukan lebih rendah — **gangguan migrain** (pangkat 7, L3/S2, "Soalan Penyelidikan") — disokong oleh kesinambungan mekanik dengan alkaloida ergot yang berkaitan (ergotamin, metisergid, metilergonovin) dan beberapa publikasi peringkat kohort. Ini ditandai di sini untuk kesempurnaan tetapi berada di luar skop penilaian laporan ini terhadap kandidat pangkat-1.
 
 ---
 
-## Safety Considerations
+## Bukti Ujian Klinis
 
-Please refer to the package insert for safety information.
-
-*Supplementary note (derived from evidence-pack rationale text, not from structured safety fields):* elsewhere in this evidence pack, ergot alkaloids in this class are flagged as contraindicated in brainstem/basilar-type migraine due to vasoconstrictive risk, and as capable of provoking or worsening pulmonary hypertension and coronary vasospasm in susceptible patients. These signals are not linked to the Hypertrichosis candidate but should inform any future safety workup for this drug.
+Pada masa ini tiada ujian klinis yang berkaitan berdaftar.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Hold**
+Pada masa ini tiada literatur yang berkaitan tersedia.
 
-**Rationale:**
-The Hypertrichosis prediction is supported only by a TxGNN embedding score (L5, S0) with no mechanistic, clinical, or literature evidence. Combined with missing MOA and labeling data (DG001/DG002), there is currently no basis to advance this candidate.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert (warnings, contraindications) — currently blocking (DG001)
-- DrugBank mechanism-of-action data (DG002)
-- Preclinical or mechanistic studies linking ergot alkaloid pharmacology to hair follicle biology, if this candidate is to be pursued further
-- Complete NPRA license details (product name, dosage form, approved indication text) for the 2 existing registrations
-- Consider re-scoping evaluation toward the migraine disorder candidate (rank 7), which has materially stronger mechanistic and literature support within this same evidence pack
+## Maklumat Pasaran Malaysia
+
+2 kebenaran NPRA berada dalam rekod untuk Ergometrin, tetapi butiran peringkat lesen (nombor kebenaran, nama produk, bentuk dos, teks indikasi yang diluluskan) tidak diisi dalam ekstraksi data semasa dan memerlukan pengambilan susulan dari NPRA.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
+
+*Nota tambahan (diperolehi daripada teks rasional paket bukti, bukan daripada medan keselamatan berstruktur):* di tempat lain dalam paket bukti ini, alkaloida ergot dalam kelas ini ditandai sebagai dikontraindikasikan dalam migrain batang otak/basilar kerana risiko vasokonstruktif, dan mampu mencetuskan atau memburukkan hipertensi paru-paru dan vasospasma koroner pada pesakit yang terdedah. Isyarat ini tidak dipaut dengan kandidat Hipertrikosis tetapi harus memaklumkan sebarang kerja keselamatan masa depan untuk ubat ini.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Prediksi Hipertrikosis disokong hanya oleh skor embedding TxGNN (L5, S0) tanpa bukti mekanik, klinis, atau literatur. Digabungkan dengan data MOA dan pelabelan yang hilang (DG001/DG002), pada masa ini tiada asas untuk memajukan kandidat ini.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisipan pakej TFDA/NPRA (amaran, kontraindikasi) — pada masa ini menyekat (DG001)
+- Data mekanisme tindakan DrugBank (DG002)
+- Kajian praklinik atau mekanik yang menghubungkan farmakologi alkaloida ergot dengan biologi folikel rambut, jika kandidat ini akan diusahakan lebih lanjut
+- Butiran lesen NPRA lengkap (nama produk, bentuk dos, teks indikasi yang diluluskan) untuk 2 pendaftaran yang ada
+- Pertimbangkan untuk menentukan semula skop penilaian ke arah kandidat gangguan migrain (pangkat 7), yang mempunyai sokongan mekanik dan literatur yang jauh lebih kuat dalam paket bukti yang sama ini
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

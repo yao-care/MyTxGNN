@@ -29,142 +29,143 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Pitavastatin: From Hyperlipidemia to HIV-Associated Cardiovascular Disease Prevention
+# Pitavastatin: Dari Hiperlipidemik kepada Pencegahan Penyakit Kardiovaskular yang Berkaitan dengan HIV
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Pitavastatin is a fully synthetic HMG-CoA reductase inhibitor (statin) registered in Malaysia and approved globally for the management of dyslipidemia and elevated LDL-cholesterol.
-The TxGNN model generated 10 predicted new indications; the most clinically impactful novel finding is cardiovascular event prevention in people living with **HIV infectious disease**, currently supported by **2 Phase 3 clinical trials** (including the landmark REPRIEVE trial, n=7,769) and **20 publications** — an application the FDA approved in 2023, making pitavastatin the first statin with a dedicated HIV cardiovascular prevention indication.
-Evidence strength across all 10 predictions ranges from L1 (HIV, hyperlipoproteinemia) to L5 (model-only predictions with no clinical data).
+Pitavastatin ialah inhibitor HMG-CoA reduktase (statin) yang disintesis sepenuhnya dan didaftar di Malaysia serta diluluskan di seluruh dunia untuk pengurusan dislipidemia dan kolesterol LDL yang meningkat.
+Model TxGNN menjana 10 petunjuk baru yang diramalkan; penemuan novel yang paling berdampak secara klinikal ialah pencegahan peristiwa kardiovaskular pada orang yang hidup dengan **penyakit berjangkit HIV**, kini disokong oleh **2 ujian klinikal Fasa 3** (termasuk ujian puncak REPRIEVE, n=7,769) dan **20 penerbitan** — aplikasi yang diluluskan FDA pada 2023, menjadikan pitavastatin statin pertama dengan petunjuk pencegahan kardiovaskular HIV yang berdedikasi.
+Kekuatan bukti merentas semua 10 ramalan berkisar dari L1 (HIV, hiperlipoproteinemia) hingga L5 (ramalan model sahaja tanpa data klinikal).
 
 ---
 
-## Quick Overview
+## Gambaran Keseluruhan Cepat
 
-| Item | Content |
+| Item | Kandungan |
 |------|---------|
-| Original Indication | Dyslipidemia / hypercholesterolemia (specific text not available in dataset) |
-| Predicted New Indication | HIV Infectious Disease — cardiovascular event prevention |
-| TxGNN Prediction Score | 99.97% (rank 9/10) |
-| Evidence Level | L1 (≥2 completed Phase 3 RCTs; REPRIEVE n=7,769) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
-| Recommended Decision | Proceed with Guardrails |
+| Petunjuk Asal | Dislipidemia / hiperkolesterolemia (teks khusus tidak tersedia dalam dataset) |
+| Petunjuk Baru Diramalkan | Penyakit Berjangkit HIV — pencegahan peristiwa kardiovaskular |
+| Skor Ramalan TxGNN | 99.97% (kedudukan 9/10) |
+| Tahap Bukti | L1 (≥2 RCT Fasa 3 yang telah selesai; REPRIEVE n=7,769) |
+| Status Pasaran Malaysia | ✓ Telah dipasarkan |
+| Bilangan Pendaftaran | 3 |
+| Keputusan yang Disyorkan | Teruskan dengan Penjaga |
 
-> **Note on TxGNN rankings:** The top-ranked TxGNN prediction (rank 1, score 99.9978%) maps to "obsolete familial combined hyperlipidemia" — a deprecated disease ontology term no longer in active clinical use, carrying zero supporting evidence (L5, Hold). The HIV infectious disease prediction (rank 9) represents the most clinically meaningful novel application with the strongest external evidence base, and is therefore featured as the primary repurposing candidate throughout this report.
+> **Nota mengenai kedudukan TxGNN:** Ramalan TxGNN yang mempunyai kedudukan teratas (kedudukan 1, skor 99.9978%) memetakan kepada "hiperlipidemik gabungan keluarga yang sudah usang" — istilah ontologi penyakit yang tidak digunakan lagi dalam penggunaan klinikal aktif, membawa sifar bukti sokongan (L5, Tahan). Ramalan penyakit berjangkit HIV (kedudukan 9) mewakili aplikasi novel yang paling bermakna secara klinikal dengan asas bukti luaran yang paling kuat, dan oleh itu ditampilkan sebagai calon perepurposaan utama sepanjang laporan ini.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Pitavastatin inhibits HMG-CoA reductase, the rate-limiting enzyme in the mevalonate/cholesterol biosynthetic pathway. This reduces hepatic cholesterol production, triggering compensatory upregulation of hepatocyte LDL receptors (LDLR), which markedly increases LDL-C clearance from the circulation — achieving LDL-C reductions of 39–45% at standard therapeutic doses. Beyond lipid-lowering, pitavastatin exerts well-documented pleiotropic effects through cholesterol-independent mechanisms involving Rho GTPase and isoprenoid pathway inhibition, including clinically meaningful reductions in IL-6, hsCRP, and soluble CD14 (sCD14) — a monocyte activation marker chronically elevated in HIV infection.
+Pitavastatin menghambat HMG-CoA reduktase, enzim had kadar dalam laluan biosintesis mevalonate/kolesterol. Ini mengurangkan pengeluaran kolesterol hepatik, mencetuskan peningkatan pampasan reseptor LDL hepatosit (LDLR), yang meningkatkan penjelasan LDL-C daripada peredaran secara ketara — mencapai pengurangan LDL-C sebanyak 39–45% pada dos terapeutik standard. Melampaui penurunan lipid, pitavastatin mengerahkan kesan pleiotropik yang terdokumentasi dengan baik melalui mekanisme bebas kolesterol yang melibatkan perencatan laluan Rho GTPase dan isoprenoid, termasuk pengurangan bermakna secara klinikal dalam IL-6, hsCRP, dan soluble CD14 (sCD14) — penanda pengaktifan monosit yang meningkat secara kronik dalam jangkitan HIV.
 
-People living with HIV (PLWH) on antiretroviral therapy (ART) face approximately 50% excess cardiovascular risk compared to HIV-negative adults. This elevated risk is driven by persistent immune activation, chronic low-grade inflammation, and direct arterial injury — even when viral load is fully suppressed. Pitavastatin offers a pharmacokinetic advantage uniquely suited to this population: it undergoes primary metabolism via CYP2C9 with minimal CYP3A4 involvement. This circumvents the major interaction pathway of protease inhibitors (PIs) and NNRTIs, which are potent CYP3A4 inhibitors or inducers, making pitavastatin the statin with the lowest drug-drug interaction burden among PLWH compared to atorvastatin, simvastatin, or lovastatin.
+Orang yang hidup dengan HIV (PLWH) dalam terapi antiretroviral (ART) menghadapi kira-kira risiko kardiovaskular 50% berlebihan berbanding dengan dewasa HIV-negatif. Risiko meningkat ini didorong oleh pengaktifan imun yang berterusan, keradangan gred rendah yang kronik, dan kecederaan arteri langsung — walaupun beban viral sepenuhnya terkawal. Pitavastatin menawarkan kelebihan farmakokinetik yang unik sesuai untuk populasi ini: ia mengalami metabolisme primer melalui CYP2C9 dengan penglibatan CYP3A4 yang minimal. Ini mengatasi laluan interaksi utama perencat protease (PI) dan NNRTI, yang merupakan perencat atau penginduksi CYP3A4 yang kuat, menjadikan pitavastatin statin dengan beban interaksi ubat-ubatan terendah di kalangan PLWH berbanding dengan atorvastatin, simvastatin, atau lovastatin.
 
-The REPRIEVE Phase 3 trial (NCT02344290; n=7,769; 49 countries; median follow-up 5.1 years) directly tested pitavastatin 2 mg/day versus placebo in PLWH with low-to-moderate ASCVD risk on stable ART, demonstrating a 35% relative reduction in major adverse cardiovascular events (MACE; HR 0.65, 95% CI 0.48–0.90), published in *The New England Journal of Medicine* (2023). Mechanistic substudies confirmed reductions in noncalcified coronary plaque volume, lowered inflammatory biomarkers, and procollagen pathway modulation consistent with plaque stabilisation. The FDA approved pitavastatin specifically for cardiovascular risk reduction in PLWH in 2023. Together, these data provide a compelling mechanistic and clinical rationale fully consistent with the TxGNN prediction.
+Ujian Fasa 3 REPRIEVE (NCT02344290; n=7,769; 49 negara; tempoh susulan median 5.1 tahun) secara langsung menguji pitavastatin 2 mg/hari berbanding plasebo dalam PLWH dengan risiko ASCVD rendah-sederhana pada ART yang stabil, menunjukkan pengurangan relatif 35% dalam peristiwa kardiovaskular buruk utama (MACE; HR 0.65, 95% CI 0.48–0.90), diterbitkan dalam *The New England Journal of Medicine* (2023). Substudi mekanik mengesahkan pengurangan dalam volum plak koroner tidak terkalsium, biopenanda keradangan yang lebih rendah, dan modulasi laluan prokolagen konsisten dengan penstabilan plak. FDA meluluskan pitavastatin khusus untuk pengurangan risiko kardiovaskular dalam PLWH pada 2023. Bersama-sama, data ini menyediakan rasional mekanik dan klinikal yang menarik sepenuhnya konsisten dengan ramalan TxGNN.
 
-**Overview of all 10 TxGNN predicted indications:**
+**Gambaran keseluruhan semua 10 petunjuk diramalkan TxGNN:**
 
-| Rank | Predicted Indication | TxGNN Score | Evidence Level | Decision |
+| Kedudukan | Petunjuk Diramalkan | Skor TxGNN | Tahap Bukti | Keputusan |
 |------|---------------------|------------|---------------|----------|
-| 1 | Obsolete familial combined hyperlipidemia *(deprecated term)* | 99.9978% | L5 | Hold |
-| 2 | Homozygous familial hypercholesterolemia | 99.9960% | L4 | Hold |
-| 3 | Hyperlipoproteinemia | 99.9952% | L1 | Proceed with Guardrails |
-| 4 | Hyperlipidemia, familial combined, LPL-related | 99.9944% | L5 | Hold |
-| 5 | Familial hypercholesterolemia | 99.9882% | L2 | Proceed with Guardrails |
-| 6 | Cholesterol-ester transfer protein deficiency | 99.9783% | L5 | Hold |
-| 7 | Hypercholesterolemia, autosomal dominant | 99.9749% | L2 | Proceed with Guardrails |
-| 8 | Hypercholesterolemia due to CYP7A1 deficiency *(ultra-rare, <50 global cases)* | 99.9748% | L5 | Hold |
-| **9** | **HIV infectious disease** *(FDA-approved 2023)* | **99.9669%** | **L1** | **Proceed with Guardrails** |
-| 10 | Neurodevelopmental disorder with ataxic gait and absent speech | 99.9539% | L5 | Hold |
+| 1 | Hiperlipidemik gabungan keluarga yang sudah usang *(istilah tidak digunakan lagi)* | 99.9978% | L5 | Tahan |
+| 2 | Hiperkolesterolemia familial homozigot | 99.9960% | L4 | Tahan |
+| 3 | Hiperlipoproteinemia | 99.9952% | L1 | Teruskan dengan Penjaga |
+| 4 | Hiperlipidemik, gabungan keluarga, yang berkaitan dengan LPL | 99.9944% | L5 | Tahan |
+| 5 | Hiperkolesterolemia familial | 99.9882% | L2 | Teruskan dengan Penjaga |
+| 6 | Kekurangan protein pemindah ester kolesterol | 99.9783% | L5 | Tahan |
+| 7 | Hiperkolesterolemia, autosomal dominan | 99.9749% | L2 | Teruskan dengan Penjaga |
+| 8 | Hiperkolesterolemia disebabkan kekurangan CYP7A1 *(ultra-jarang, <50 kes global)* | 99.9748% | L5 | Tahan |
+| **9** | **Penyakit berjangkit HIV** *(Diluluskan FDA 2023)* | **99.9669%** | **L1** | **Teruskan dengan Penjaga** |
+| 10 | Gangguan neurodevelopmental dengan gait ataksik dan ketiadaan pertuturan | 99.9539% | L5 | Tahan |
 
 ---
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-**HIV Infectious Disease (rank 9 — primary novel indication):**
+**Penyakit Berjangkit HIV (kedudukan 9 — petunjuk baru novel utama):**
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Ujian | Fasa | Status | Kemasukan | Penemuan Utama |
 |-------------|-------|--------|------------|--------------|
-| [NCT02344290](https://clinicaltrials.gov/study/NCT02344290) | Phase 3 | Completed | 7,769 | **REPRIEVE:** Pitavastatin 2 mg/day vs placebo in PLWH on ART across 49 countries; median follow-up 5.1 years. Primary endpoint MACE: HR 0.65 (95% CI 0.48–0.90), 35% relative risk reduction. Published NEJM 2023. Formed the basis for 2023 FDA approval of pitavastatin for HIV cardiovascular prevention. |
-| [NCT06317051](https://clinicaltrials.gov/study/NCT06317051) | Phase 3/4 | Active, not recruiting | 300 | Factorial double-blind RCT in INSTI-based ART patients with elevated metabolic risk: pitavastatin vs rosuvastatin/ezetimibe and dapagliflozin vs placebo. Confirms pitavastatin's status as standard comparator in HIV cardiometabolic research (completion expected December 2026). |
+| [NCT02344290](https://clinicaltrials.gov/study/NCT02344290) | Fasa 3 | Selesai | 7,769 | **REPRIEVE:** Pitavastatin 2 mg/hari vs plasebo dalam PLWH pada ART merentasi 49 negara; tempoh susulan median 5.1 tahun. Titik akhir utama MACE: HR 0.65 (95% CI 0.48–0.90), pengurangan risiko relatif 35%. Diterbitkan NEJM 2023. Membentuk asas untuk kelulusan FDA 2023 pitavastatin untuk pencegahan kardiovaskular HIV. |
+| [NCT06317051](https://clinicaltrials.gov/study/NCT06317051) | Fasa 3/4 | Aktif, tidak merekrut | 300 | RCT berkecepatan dua arah dalam pesakit berbasis ART INSTI dengan risiko metabolik meningkat: pitavastatin vs rosuvastatin/ezetimib dan dapagliflozin vs plasebo. Mengesahkan status pitavastatin sebagai perbandingan standard dalam penyelidikan kardiometabolik HIV (selesai dijangka Disember 2026). |
 
-**Hyperlipoproteinemia (rank 3 — L1 lipid disorder evidence):**
+**Hiperlipoproteinemia (kedudukan 3 — bukti gangguan lipid L1):**
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Ujian | Fasa | Status | Kemasukan | Penemuan Utama |
 |-------------|-------|--------|------------|--------------|
-| [NCT01256476](https://clinicaltrials.gov/study/NCT01256476) | Phase 4 | Completed | 328 | Randomised double-blind 12-week active-controlled study: pitavastatin 4 mg vs pravastatin 40 mg daily in primary hyperlipidemia or mixed dyslipidemia. Direct head-to-head superiority data. |
-| [NCT02056847](https://clinicaltrials.gov/study/NCT02056847) | Phase 4 | Completed | 313 | Pitavastatin 2 mg vs 4 mg in hyperlipidemic patients with impaired fasting glucose (IFG); evaluated HbA1c impact of intensive vs standard lipid-lowering over approximately 4 years. |
-| [NCT01166633](https://clinicaltrials.gov/study/NCT01166633) | Phase 4 | Completed | 200 | Randomised dose-titration open-label study: pitavastatin vs atorvastatin in hypercholesterolemia with mild-to-moderate hepatic impairment; demonstrates hepatic safety profile for a particularly relevant subgroup. |
-| [NCT04608474](https://clinicaltrials.gov/study/NCT04608474) | Phase 4 | Unknown | 120 | Renal transplant recipients: pitavastatin-based regimen vs evolocumab (PCSK9 inhibitor) for post-transplant dyslipidemia management; addresses a drug-interaction-constrained population relevant to Malaysian clinical practice. |
-| [NCT01386853](https://clinicaltrials.gov/study/NCT01386853) | Phase 3 | Unknown | 200 | 12-week randomised double-blind active-controlled non-inferiority study: pitavastatin (Livalo®) vs atorvastatin (Lipitor®) in high-risk hypercholesterolemic patients. |
-| [NCT00711919](https://clinicaltrials.gov/study/NCT00711919) | Not applicable | Unknown | 300 | PEARL study: pitavastatin aggressive vs conventional lipid-lowering and effect on carotid intima-media thickness (IMT) regression in hyperlipidemia; cardiovascular structural surrogate endpoint. |
+| [NCT01256476](https://clinicaltrials.gov/study/NCT01256476) | Fasa 4 | Selesai | 328 | Ujian rawatan aktif 12 minggu terkontrol secara rawak dan buta: pitavastatin 4 mg vs pravastatin 40 mg harian dalam hiperlipidemik utama atau dislipidemia campuran. Data keunggulan perbandingan kepala-ke-kepala langsung. |
+| [NCT02056847](https://clinicaltrials.gov/study/NCT02056847) | Fasa 4 | Selesai | 313 | Pitavastatin 2 mg vs 4 mg dalam pesakit hiperlipidemik dengan glukosa puasa yang berkurangan (IFG); menilai kesan HbA1c penurunan lipid intensif vs standard selama kira-kira 4 tahun. |
+| [NCT01166633](https://clinicaltrials.gov/study/NCT01166633) | Fasa 4 | Selesai | 200 | Ujian terbuka titik titaran dos rawak: pitavastatin vs atorvastatin dalam hiperkolesterolemia dengan kemerosotan hepatik ringan-sederhana; menunjukkan profil keselamatan hepatik untuk subkumpulan yang sangat relevan. |
+| [NCT04608474](https://clinicaltrials.gov/study/NCT04608474) | Fasa 4 | Tidak diketahui | 120 | Penerima pemindahan ginjal: rejimen berasaskan pitavastatin vs evolocumab (perencat PCSK9) untuk pengurusan dislipidemia pasca-pemindahan; menangani populasi terkurung interaksi ubat-ubatan yang relevan dengan amalan klinikal Malaysia. |
+| [NCT01386853](https://clinicaltrials.gov/study/NCT01386853) | Fasa 3 | Tidak diketahui | 200 | Ujian terkontrol tidak buta aktif 12 minggu rawak: pitavastatin (Livalo®) vs atorvastatin (Lipitor®) dalam pesakit hiperkolesterolemia berisiko tinggi. |
+| [NCT00711919](https://clinicaltrials.gov/study/NCT00711919) | Tidak berkenaan | Tidak diketahui | 300 | Kajian PEARL: pitavastatin penurunan lipid agresif vs konvensional dan kesan pada regresi ketebalan intima-media karotid (IMT) dalam hiperlipidemik; titik akhir pengganti struktur kardiovaskular. |
 
 ---
 
-## Literature Evidence
+## Bukti Literatur
 
-**HIV Infectious Disease (rank 9):**
+**Penyakit Berjangkit HIV (kedudukan 9):**
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|------|------|---------|--------------|
-| [37486775](https://pubmed.ncbi.nlm.nih.gov/37486775/) | 2023 | RCT — primary outcome (REPRIEVE) | N Engl J Med | Pitavastatin 2 mg/day reduced MACE by 35% (HR 0.65) vs placebo in 7,769 PLWH on ART over median 5.1 years. Established the HIV cardiovascular prevention indication; basis for 2023 FDA approval. |
-| [38381407](https://pubmed.ncbi.nlm.nih.gov/38381407/) | 2024 | Mechanistic sub-study (RCT) | JAMA Cardiology | REPRIEVE mechanistic substudy: pitavastatin significantly reduced noncalcified coronary plaque volume and systemic inflammatory biomarkers (IL-6, hsCRP), confirming pleiotropic anti-atherosclerotic activity in PLWH independent of LDL-C lowering. |
-| [39661372](https://pubmed.ncbi.nlm.nih.gov/39661372/) | 2025 | Secondary analysis (RCT) | JAMA Cardiology | Pitavastatin modulated procollagen pathway activity and stabilised coronary plaque in REPRIEVE; provides mechanistic explanation for MACE reduction beyond LDL-C lowering alone. |
-| [39374532](https://pubmed.ncbi.nlm.nih.gov/39374532/) | 2024 | Secondary analysis (RCT) — diabetes risk | Ann Intern Med | REPRIEVE diabetes substudy: pitavastatin did not significantly increase new-onset diabetes risk in PLWH with low-to-moderate ASCVD risk, contrasting with reported diabetogenic risk of other statins in the general population. |
-| [28416195](https://pubmed.ncbi.nlm.nih.gov/28416195/) | 2017 | RCT | Lancet HIV | INTREPID Phase 4 trial (n=252): pitavastatin superior to pravastatin in LDL-C reduction in HIV adults with dyslipidemia on ART; confirmed favourable DDI profile vs antiretrovirals over 12 and 52 weeks. |
-| [36849967](https://pubmed.ncbi.nlm.nih.gov/36849967/) | 2023 | Randomised crossover | AIDS Res Ther | Pitavastatin reduced atherosclerotic inflammatory biomarkers in PLWH on ritonavir-boosted atazanavir, confirming clinical anti-inflammatory efficacy with PI-based ART commonly used in Asia. |
-| [40482662](https://pubmed.ncbi.nlm.nih.gov/40482662/) | 2025 | Longitudinal cohort analysis (RCT) | Lancet HIV | REPRIEVE follow-up: pitavastatin efficacy in reducing MACE was consistent across different ART regimens, including INSTI-based therapy now predominant in Malaysia. |
-| [38294226](https://pubmed.ncbi.nlm.nih.gov/38294226/) | 2025 | Review | Cardiology in Review | Comprehensive review of pitavastatin's role in HIV cardiovascular prevention: DDI advantages (CYP2C9 pathway), pleiotropic anti-inflammatory mechanisms, and full analysis of REPRIEVE outcomes. |
-| [38198667](https://pubmed.ncbi.nlm.nih.gov/38198667/) | 2023 | Clinical review | Topics Antivir Med | Post-REPRIEVE practical guidance: pitavastatin is now the preferred statin for PLWH with low-to-moderate ASCVD risk; prescribing recommendations across ART regimen types. |
-| [39435321](https://pubmed.ncbi.nlm.nih.gov/39435321/) | 2024 | Secondary analysis (RCT) | Open Forum Infect Dis | REPRIEVE COVID-19 substudy: pitavastatin did not significantly reduce COVID-19 incidence or severity in PLWH, clarifying the boundaries of its pleiotropic anti-infectious scope. |
+| [37486775](https://pubmed.ncbi.nlm.nih.gov/37486775/) | 2023 | RCT — hasil utama (REPRIEVE) | N Engl J Med | Pitavastatin 2 mg/hari mengurangkan MACE sebanyak 35% (HR 0.65) vs plasebo dalam 7,769 PLWH pada ART sepanjang median 5.1 tahun. Menetapkan petunjuk pencegahan kardiovaskular HIV; asas untuk kelulusan FDA 2023. |
+| [38381407](https://pubmed.ncbi.nlm.nih.gov/38381407/) | 2024 | Substudi mekanik (RCT) | JAMA Cardiology | Substudi mekanik REPRIEVE: pitavastatin secara signifikan mengurangkan volum plak koroner tidak terkalsium dan biopenanda keradangan sistemik (IL-6, hsCRP), mengesahkan aktiviti anti-atherosclerotic pleiotropik dalam PLWH bebas daripada penurunan LDL-C sahaja. |
+| [39661372](https://pubmed.ncbi.nlm.nih.gov/39661372/) | 2025 | Analisis sekunder (RCT) | JAMA Cardiology | Pitavastatin menyesuaikan aktiviti laluan prokolagen dan menstabilkan plak koroner dalam REPRIEVE; menyediakan penjelasan mekanik untuk pengurangan MACE melampaui penurunan LDL-C sahaja. |
+| [39374532](https://pubmed.ncbi.nlm.nih.gov/39374532/) | 2024 | Analisis sekunder (RCT) — risiko diabetes | Ann Intern Med | Substudi diabetes REPRIEVE: pitavastatin tidak secara signifikan meningkatkan risiko diabetes yang baru timbul dalam PLWH dengan risiko ASCVD rendah-sederhana, berbeza dengan risiko diabetogenik yang dilaporkan bagi statin lain dalam populasi umum. |
+| [28416195](https://pubmed.ncbi.nlm.nih.gov/28416195/) | 2017 | RCT | Lancet HIV | Ujian Fasa 4 INTREPID (n=252): pitavastatin lebih unggul daripada pravastatin dalam pengurangan LDL-C dalam dewasa HIV dengan dislipidemia pada ART; mengesahkan profil DDI yang menggalakkan vs antiretroviral sepanjang 12 dan 52 minggu. |
+| [36849967](https://pubmed.ncbi.nlm.nih.gov/36849967/) | 2023 | Persimpangan rawak | AIDS Res Ther | Pitavastatin mengurangkan biopenanda keradangan atherosclerotic dalam PLWH pada atazanavir bertenggung ritonavir, mengesahkan keberkesanan anti-keradangan klinikal dengan ART berasaskan PI yang biasa digunakan di Asia. |
+| [40482662](https://pubmed.ncbi.nlm.nih.gov/40482662/) | 2025 | Analisis kohort membujur (RCT) | Lancet HIV | Susulan REPRIEVE: keberkesanan pitavastatin dalam pengurangan MACE adalah konsisten merentasi rejimen ART yang berbeza, termasuk terapi berasaskan INSTI kini mendominasi di Malaysia. |
+| [38294226](https://pubmed.ncbi.nlm.nih.gov/38294226/) | 2025 | Ulasan | Cardiology in Review | Ulasan komprehensif peranan pitavastatin dalam pencegahan kardiovaskular HIV: kelebihan DDI (laluan CYP2C9), mekanisme anti-keradangan pleiotropik, dan analisis penuh hasil REPRIEVE. |
+| [38198667](https://pubmed.ncbi.nlm.nih.gov/38198667/) | 2023 | Ulasan klinikal | Topics Antivir Med | Panduan praktis pasca-REPRIEVE: pitavastatin kini statin pilihan untuk PLWH dengan risiko ASCVD rendah-sederhana; cadangan preskripsi merentasi jenis rejimen ART. |
+| [39435321](https://pubmed.ncbi.nlm.nih.gov/39435321/) | 2024 | Analisis sekunder (RCT) | Open Forum Infect Dis | Substudi COVID-19 REPRIEVE: pitavastatin tidak secara signifikan mengurangkan insiden COVID-19 atau keparahan dalam PLWH, menjelaskan sempadan skop anti-berjangkit pleiotropik. |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-The NPRA (National Pharmaceutical Regulatory Agency) database confirms **3 registered products** for Pitavastatin with market status **Marketed**. However, licence-level details — including registration numbers, product names, dosage forms, manufacturer information, and approved indication text — were not populated in this dataset.
+Pangkalan data NPRA (Agensi Kawal Selia Farmasi Kebangsaan) mengesahkan **3 produk didaftar** untuk Pitavastatin dengan status pasaran **Telah dipasarkan**. Walau bagaimanapun, butiran peringkat lesen — termasuk nombor pendaftaran, nama produk, bentuk dos, maklumat pengilang, dan teks petunjuk yang diluluskan — tidak diisi dalam dataset ini.
 
-| Item | Details |
+| Item | Butiran |
 |------|---------|
-| Total registrations | 3 products |
-| Market status | ✓ Marketed |
-| Licence numbers | Not available in dataset |
-| Product names | Not available in dataset |
-| Dosage forms | Not available in dataset |
-| Approved indication text | Not available in dataset |
+| Jumlah pendaftaran | 3 produk |
+| Status pasaran | ✓ Telah dipasarkan |
+| Nombor lesen | Tidak tersedia dalam dataset |
+| Nama produk | Tidak tersedia dalam dataset |
+| Bentuk dos | Tidak tersedia dalam dataset |
+| Teks petunjuk yang diluluskan | Tidak tersedia dalam dataset |
 
-Full registration details can be retrieved from the NPRA product search portal: [https://www.npra.gov.my/](https://www.npra.gov.my/)
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-**Unresolved data gaps affecting safety assessment:**
-- Package insert warnings and contraindications were not retrieved for this report (Blocking data gap — required before any clinical decision or formulary review can proceed).
-- DrugBank MOA and toxicity data were not retrieved (High severity gap), though publicly available pharmacology has been drawn upon in the mechanistic sections above.
-
-**Drug interaction context relevant to HIV use:**
-Pitavastatin's primary metabolic route is CYP2C9 with minimal CYP3A4 involvement. This pharmacokinetic profile confers a substantially lower DDI burden compared to atorvastatin or simvastatin when co-administered with PI-class antiretrovirals (e.g., ritonavir, cobicistat-boosted regimens) or NNRTIs that strongly modulate CYP3A4. Nonetheless, a formal DDI review against the individual patient's specific ART regimen remains essential before prescribing.
+Butiran pendaftaran lengkap boleh diambil daripada portal carian produk NPRA: [https://www.npra.gov.my/](https://www.npra.gov.my/)
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Proceed with Guardrails**
+Sila rujuk kemasukan pakej untuk maklumat keselamatan.
 
-**Rationale:**
-For the HIV cardiovascular prevention indication, the evidence base is exceptionally strong: the REPRIEVE Phase 3 RCT (n=7,769, 49 countries, NEJM 2023) demonstrated a 35% reduction in MACE with pitavastatin versus placebo in PLWH on ART, leading to FDA approval in 2023. Pitavastatin is already marketed in Malaysia with 3 registered products, providing a regulatory and supply foundation. Its minimal CYP3A4 metabolism makes it particularly well-suited to PLWH receiving ART in Malaysian clinical settings where PI- and INSTI-based regimens are common, reducing clinically significant DDI risk compared to other statins.
+**Jurang data yang belum diselesaikan yang mempengaruhi penilaian keselamatan:**
+- Amaran kemasukan pakej dan kontraindikasi tidak diambil untuk laporan ini (Jurang data penyekat — diperlukan sebelum sebarang keputusan klinikal atau semakan formulari boleh diteruskan).
+- Data MOA dan ketoksikan DrugBank tidak diambil (Jurang keparahan tinggi), walaupun farmakologi yang tersedia secara awam telah diambil dalam bahagian mekanik di atas.
 
-**To proceed, the following is needed:**
-- Retrieve and review the Malaysian product monograph (package insert) for locally approved indication, black-box warnings, contraindications, and dosing recommendations — this is a **Blocking** prerequisite before any clinical application
-- Confirm approved indication text for all 3 registered pitavastatin products in Malaysia via the NPRA portal and assess whether HIV cardiovascular prevention is included or requires a label variation
-- Evaluate the size and ART profile of the HIV patient population in Malaysia, and map current cardiovascular risk management practices against post-REPRIEVE international guidelines
-- Conduct a structured DDI review against ART regimens currently used in Malaysian HIV clinics (particularly INSTI-based and PI/r-based combinations)
-- Establish a monitoring protocol (fasting lipid panel, LFTs, CPK, HbA1c) appropriate for Malaysian PLWH at baseline and follow-up intervals
-- Assess whether the REPRIEVE cohort (predominantly non-Asian populations) provides sufficient generalisability to the Malaysian HIV demographic, or whether regional real-world evidence is required to support local clinical guideline adoption
+**Konteks interaksi ubat-ubatan yang berkaitan dengan penggunaan HIV:**
+Laluan metabolisme primer pitavastatin ialah CYP2C9 dengan penglibatan CYP3A4 yang minimal. Profil farmakokinetik ini memberi beban DDI yang jauh lebih rendah berbanding dengan atorvastatin atau simvastatin apabila diberikan bersama antiretroviral kelas PI (cth., ritonavir, rejimen bertenggung kobisistat) atau NNRTI yang kuat memodulasi CYP3A4. Walau bagaimanapun, semakan DDI formal terhadap rejimen ART khusus pesakit individu tetap penting sebelum meresepkan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Teruskan dengan Penjaga**
+
+**Rasional:**
+Untuk petunjuk pencegahan kardiovaskular HIV, asas bukti adalah luar biasa kuat: RCT Fasa 3 REPRIEVE (n=7,769, 49 negara, NEJM 2023) menunjukkan pengurangan 35% dalam MACE dengan pitavastatin versus plasebo dalam PLWH pada ART, membawa kepada kelulusan FDA pada 2023. Pitavastatin sudah dipasarkan di Malaysia dengan 3 produk yang terdaftar, menyediakan asas kawal selia dan bekalan. Metabolisme CYP3A4 minimalnya menjadikannya khususnya sesuai untuk PLWH menerima ART dalam tetapan klinikal Malaysia di mana rejimen berasaskan PI dan INSTI adalah umum, mengurangkan risiko DDI secara klinikal signifikan berbanding dengan statin lain.
+
+**Untuk meneruskan, berikut diperlukan:**
+- Ambil dan semak monografi produk Malaysia (kemasukan pakej) untuk petunjuk yang diluluskan tempatan, amaran kotak hitam, kontraindikasi, dan cadangan dos — ini ialah prasyarat **Penyekat** sebelum sebarang aplikasi klinikal
+- Sahkan teks petunjuk yang diluluskan untuk semua 3 produk pitavastatin yang terdaftar di Malaysia melalui portal NPRA dan nilaikan sama ada pencegahan kardiovaskular HIV disertakan atau memerlukan variasi label
+- Nilaikan saiz dan profil ART populasi pesakit HIV di Malaysia, dan petakan amalan pengurusan risiko kardiovaskular semasa terhadap garis panduan antarabangsa pasca-REPRIEVE
+- Lakukan semakan DDI berstruktur terhadap rejimen ART yang digunakan pada masa ini dalam klinik HIV Malaysia (khususnya kombinasi berasaskan INSTI dan PI/r)
+- Sediakan protokol pemantauan (panel lipid puasa, LFT, CPK, HbA1c) yang sesuai untuk PLWH Malaysia pada asas dan selang waktu susulan
+- Nilaikan sama ada kohort REPRIEVE (terutamanya populasi bukan Asia) menyediakan kebolehterasaan yang mencukupi kepada demografi HIV Malaysia, atau sama ada bukti dunia nyata serantau diperlukan untuk menyokong adopsi garis panduan klinikal tempatan
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

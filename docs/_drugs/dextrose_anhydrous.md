@@ -29,78 +29,79 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Dextrose Anhydrous: Drug Repurposing Evaluation — No Predicted Indications Available
+# Dekstrosa Anhidrat: Penilaian Penggunaan Semula Dadah — Tiada Petunjuk Terapeutik Ramalan
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Dextrose Anhydrous (anhydrous glucose) is a fundamental nutritional and metabolic agent widely used for caloric supplementation, fluid replacement, and the treatment of hypoglycaemia. The TxGNN model has **not generated any repurposing predictions** for this compound, and critical data gaps (DrugBank ID, mechanism of action, approved indication text) remain unresolved.
+Dekstrosa Anhidrat (glukosa anhidrat) ialah agen nutrisi dan metabolik asas yang digunakan secara meluas untuk suplemen kalori, penggantian cecair, dan rawatan hipoglikemia. Model TxGNN telah **tidak menghasilkan sebarang ramalan penggunaan semula** untuk sebatian ini, dan jurang data kritikal (DrugBank ID, mekanisme tindakan, teks petunjuk yang diluluskan) tetap belum diselesaikan.
 
-## Quick Overview
+## Gambaran Pantas
 
-| Item | Content |
-|------|---------|
-| Original Indication | Not available (licence indication text not provided) |
-| Predicted New Indication | **None** — TxGNN returned no predictions |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 (No predictions, no studies) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 15 |
-| Recommended Decision | **Hold** |
-
----
-
-## Why Is There No Prediction?
-
-Dextrose Anhydrous is the anhydrous form of D-glucose, the body's primary energy substrate. It is classified as a nutritional agent rather than a pharmacologically active therapeutic drug. Its principal clinical roles — intravenous fluid therapy, caloric supplementation, hypoglycaemia correction, and use as an excipient or vehicle — do not involve a disease-specific pharmacological mechanism that the TxGNN knowledge graph can leverage for repurposing predictions.
-
-Furthermore, the DrugBank ID for this compound was not resolved in the current pipeline (`drugbank_id: null`). Without a valid DrugBank node, the compound cannot be mapped into the TxGNN knowledge graph (which relies on DrugBank–disease edges from `kg.csv`), and therefore no drug–disease prediction scores can be computed.
-
-Additionally, the mechanism of action (MOA) data is unavailable. Dextrose acts as a caloric source metabolised via glycolysis and the citric acid cycle; it does not possess a targeted pharmacological MOA in the conventional sense (e.g., receptor binding, enzyme inhibition), which further limits its candidacy for indication-based repurposing.
+| Item | Kandungan |
+|------|-----------|
+| Petunjuk Asal | Tidak tersedia (teks petunjuk lesen tidak disediakan) |
+| Petunjuk Terapeutik Ramalan | **Tiada** — TxGNN tidak mengembalikan sebarang ramalan |
+| Skor Ramalan TxGNN | N/A |
+| Tahap Bukti | L5 (Tiada ramalan, tiada kajian) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 15 |
+| Keputusan Yang Disyorkan | **Tahan** |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Tiada Ramalan?
 
-Currently no related clinical trials to display, as no new indication was predicted by TxGNN.
+Dekstrosa Anhidrat ialah bentuk anhidrat bagi D-glukosa, substrat tenaga utama tubuh. Ia dikelaskan sebagai agen nutrisi bukannya ubat terapeutik yang aktif secara farmakoloji. Peranan klinikal utamanya — terapi cecair intravena, suplemen kalori, pembetulan hipoglikemia, dan penggunaan sebagai bahan tambahan atau kenderaan — tidak melibatkan mekanisme farmakoloji khusus penyakit yang boleh dieksploitasi oleh grafik pengetahuan TxGNN untuk ramalan penggunaan semula.
 
----
+Selain itu, DrugBank ID untuk sebatian ini tidak diselesaikan dalam saluran paip semasa (`drugbank_id: null`). Tanpa nod DrugBank yang sah, sebatian tidak dapat dipetakan ke dalam grafik pengetahuan TxGNN (yang bergantung pada tepi DrugBank–penyakit daripada `kg.csv`), dan oleh itu tiada skor ramalan dadah–penyakit boleh dikira.
 
-## Literature Evidence
-
-Currently no related literature to display, as no new indication was predicted by TxGNN.
+Selain itu, data mekanisme tindakan (MOA) tidak tersedia. Dekstrosa bertindak sebagai sumber kalori yang dimetaboliskan melalui glikolisis dan kitaran asid sitrik; ia tidak memiliki MOA farmakoloji yang disasarkan dalam pengertian konvensional (cth., ikatan reseptor, perencatan enzim), yang seterusnya mengehadkan kecalonnya untuk penggunaan semula berasaskan petunjuk.
 
 ---
 
-## Malaysia Market Information
+## Bukti Ujian Klinikal
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|----------------------|-------------|-------------|---------------------|
-| (Not provided) | (Not provided) | (Not provided) | (Not provided) |
-
-> **Note:** 15 registrations were identified in the NPRA database for Dextrose Anhydrous, but the detailed licence records (authorization number, product name, dosage form, and approved indication text) were not populated in the evidence pack. This data gap should be remediated by re-querying the NPRA database.
+Pada masa ini tiada ujian klinikal berkaitan untuk dipaparkan, kerana tiada petunjuk terapeutik baru yang diramalkan oleh TxGNN.
 
 ---
 
-## Safety Considerations
+## Bukti Kesusasteraan
 
-> Please refer to the package insert for safety information. All safety fields (key warnings, contraindications, and drug interactions) returned as data gaps in the current evidence pack.
+Pada masa ini tiada bukti kesusasteraan berkaitan untuk dipaparkan, kerana tiada petunjuk terapeutik baru yang diramalkan oleh TxGNN.
 
 ---
 
-## Conclusion and Next Steps
+## Maklumat Pasaran Malaysia
 
-**Decision: Hold**
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjuk Yang Diluluskan |
+|------------------|-------------|-----------|------------------------|
+| (Tidak disediakan) | (Tidak disediakan) | (Tidak disediakan) | (Tidak disediakan) |
 
-**Rationale:**
-Dextrose Anhydrous is a basic nutritional/metabolic compound with no targeted pharmacological mechanism. The TxGNN model produced zero repurposing predictions, and multiple critical data gaps (DrugBank ID, MOA, licence indication text, safety data) remain unresolved. This compound is not a viable candidate for drug repurposing evaluation at this time.
+> **Nota:** 15 pendaftaran telah dikenal pasti dalam pangkalan data NPRA untuk Dekstrosa Anhidrat, tetapi rekod lesen terperinci (nombor kebenaran, nama produk, bentuk dos, dan teks petunjuk yang diluluskan) tidak diisi dalam bungkus bukti. Jurang data ini harus diperbetulkan dengan membuat pertanyaan semula kepada pangkalan data NPRA.
 
-**To proceed, the following is needed:**
-- **Resolve DrugBank mapping**: Verify whether Dextrose Anhydrous maps to DrugBank ID [DB09341](https://go.drugbank.com/drugs/DB09341) (Glucose) or a related entry, and re-run the KG prediction pipeline with the correct node
-- **Populate NPRA licence details**: Re-query the NPRA database to retrieve full registration records (authorization numbers, product names, dosage forms, approved indications)
-- **Retrieve safety data**: Download and parse the relevant package inserts for warnings, contraindications, and drug interaction information
-- **Re-evaluate candidacy**: If the DrugBank mapping is successfully resolved and the compound is re-integrated into the knowledge graph, re-run TxGNN predictions to determine whether any indication scores emerge
+---
 
-> ⚠️ *This report is for research reference only and does not constitute medical advice. Any drug repurposing candidates require clinical validation before application.*
+## Pertimbangan Keselamatan
+
+> Sila rujuk sisipan pakej untuk maklumat keselamatan. Semua medan keselamatan (amaran utama, kontraindikasi, dan interaksi ubat) dikembalikan sebagai jurang data dalam bungkus bukti semasa.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Dekstrosa Anhidrat ialah sebatian nutrisi/metabolik asas tanpa mekanisme farmakoloji yang disasarkan. Model TxGNN menghasilkan sifar ramalan penggunaan semula, dan berbilang jurang data kritikal (DrugBank ID, MOA, teks petunjuk lesen, data keselamatan) tetap belum diselesaikan. Sebatian ini bukan calon yang berdaya maju untuk penilaian penggunaan semula ubat pada masa ini.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- **Selesaikan pemetaan DrugBank**: Sahkan sama ada Dekstrosa Anhidrat dipetakan kepada DrugBank ID [DB09341](https://go.drugbank.com/drugs/DB09341) (Glukosa) atau catatan berkaitan, dan jalankan semula saluran paip ramalan KG dengan nod yang betul
+- **Isi butiran lesen NPRA**: Buat pertanyaan semula kepada pangkalan data NPRA untuk mendapatkan rekod pendaftaran lengkap (nombor kebenaran, nama produk, bentuk dos, petunjuk yang diluluskan)
+- **Ambil data keselamatan**: Muat turun dan huraikan sisipan pakej yang berkaitan untuk amaran, kontraindikasi, dan maklumat interaksi ubat
+- **Nilai semula kecalonnya**: Jika pemetaan DrugBank berjaya diselesaikan dan sebatian diintegrasikan semula ke dalam grafik pengetahuan, jalankan semula ramalan TxGNN untuk menentukan sama ada sebarang skor petunjuk muncul
+
+> ⚠️ *Laporan ini untuk rujukan penyelidikan sahaja dan tidak membentuk nasihat perubatan. Sebarang calon penggunaan semula ubat memerlukan pengesahan klinikal sebelum aplikasi.*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

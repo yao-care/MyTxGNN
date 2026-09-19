@@ -29,86 +29,87 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Atracurium Besylate: From Neuromuscular Blockade to Preeclampsia
+# Atracurium Besylate: Dari Penyekatan Neuromuskuler kepada Preeklampsia
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Atracurium besylate is a non-depolarizing neuromuscular blocking agent (NMBA) used in anesthesia practice to facilitate endotracheal intubation and maintain skeletal muscle relaxation during surgery and mechanical ventilation.
-The TxGNN model predicts it may be effective for **Preeclampsia**, with **0 clinical trials** and **4 publications** associated with this pairing — however, critical review indicates the literature reflects atracurium's role as an *anesthetic adjunct* in preeclamptic patients undergoing cesarean section, not as a treatment for preeclampsia itself.
-Across all 10 predicted indications, the overall recommendation is **Hold**.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Neuromuscular blockade during general anesthesia and mechanical ventilation |
-| Predicted New Indication | Preeclampsia |
-| TxGNN Prediction Score | 99.97% |
-| Evidence Level | L4 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 10 |
-| Recommended Decision | Hold |
+Atracurium besylate adalah agen penyekatan neuromuskular bukan depolarisasi (NMBA) yang digunakan dalam amalan anestesia untuk memudahkan intubasi endotrakeal dan mengekalkan relaksasi otot rangka semasa pembedahan dan ventilasi mekanikal.
+Model TxGNN meramalkan bahawa ia mungkin berkesan untuk **Preeklampsia**, dengan **0 ujian klinikal** dan **4 penerbitan** yang berkaitan dengan pasangan ini — namun semakan kritikal menunjukkan bahawa literatur mencerminkan peranan atracurium sebagai *adjuvan anestesi* pada pesakit preeklampsia yang menjalani pembedahan cesarian, bukan sebagai rawatan untuk preeklampsia itu sendiri.
+Merentasi kesemua 10 petunjukan ramalan, cadangan keseluruhan ialah **Tahan**.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Pantas
 
-Currently, detailed mechanism of action data is not available from this Evidence Pack. Based on established pharmacology, Atracurium besylate is a competitive (non-depolarizing) NMBA that antagonises nicotinic acetylcholine receptors (nAChR) at the neuromuscular junction (NMJ), blocking acetylcholine binding and causing reversible skeletal muscle paralysis. Its clearance is unique among NMBAs: it undergoes spontaneous Hofmann elimination and ester hydrolysis, making it independent of hepatic or renal function — a property that renders it particularly attractive in high-risk obstetric settings.
-
-Preeclampsia is a pregnancy-specific disorder driven by placental ischaemia → endothelial dysfunction → systemic hypertension and proteinuria, involving sFlt-1/PlGF imbalance, oxidative stress, and vascular inflammation. Atracurium possesses no antihypertensive, anti-angiogenic, anti-inflammatory, or endothelial-protective mechanism, and therefore has no plausible therapeutic action against preeclampsia pathophysiology.
-
-The literature signal arises from clinical co-occurrence rather than therapeutic relevance: atracurium is routinely used during cesarean section for preeclamptic patients as part of the anaesthetic protocol. A critical safety interaction further explains the co-appearance in literature — concurrent magnesium sulfate (MgSO₄), the first-line treatment for eclamptic seizures, potentiates neuromuscular blockade at the NMJ, necessitating careful dose reduction of atracurium. This pharmacokinetic interaction generates published safety assessments, but the causal direction is opposite to drug repurposing: atracurium requires *management because of* preeclampsia treatment, it does not *treat* preeclampsia.
-
----
-
-## Clinical Trial Evidence
-
-No clinical trials studying Atracurium besylate as a treatment for preeclampsia are currently registered.
+| Item | Kandungan |
+|------|----------|
+| Petunjukan Asal | Penyekatan neuromuskuler semasa anestesia umum dan ventilasi mekanikal |
+| Petunjukan Baru Ramalan | Preeklampsia |
+| Skor Ramalan TxGNN | 99.97% |
+| Paras Bukti | L4 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 10 |
+| Cadangan Keputusan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| PMID | Year | Type | Journal | Key Findings |
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia daripada Paket Bukti ini. Berdasarkan farmakologi yang mantap, atracurium besylate adalah NMBA kompetitif (bukan depolarisasi) yang menentang reseptor asetilkolin nikotinik (nAChR) di persimpangan neuromuskuler (NMJ), menghalang ikatan asetilkolin dan menyebabkan paralisis otot rangka yang boleh balik. Penjelasannya unik di antara NMBA: ia mengalami penghapusan Hofmann spontan dan hidrolisis ester, menjadikannya tidak bergantung pada fungsi hepatik atau renal — sifat yang menjadikannya sangat menarik dalam tetapan obstetrik berisiko tinggi.
+
+Preeklampsia adalah gangguan khusus kehamilan yang didorong oleh iskemia plasenta → disfungsi endotel → hipertensi sistemik dan proteinuria, melibatkan ketidakseimbangan sFlt-1/PlGF, tekanan oksidatif, dan keradangan vaskular. Atracurium tidak memiliki mekanisme antihipertensi, anti-angiogenik, anti-radang, atau pelindung endotel, dan oleh itu tidak mempunyai tindakan terapeutik yang munasabah terhadap patofisiologi preeklampsia.
+
+Isyarat literatur timbul daripada ko-kejadian klinikal dan bukannya perkaitan terapeutik: atracurium rutin digunakan semasa pembedahan cesarian bagi pesakit preeklampsia sebagai sebahagian daripada protokol anestesi. Interaksi keselamatan kritikal lebih lanjut menjelaskan ko-penampilan dalam literatur — magnesium sulfat serentak (MgSO₄), rawatan lini pertama untuk kejang eklampsia, meningkatkan penyekatan neuromuskuler di NMJ, memerlukan pengurangan dos atracurium yang berhati-hati. Interaksi farmakokinetik ini menghasilkan penilaian keselamatan yang diterbitkan, tetapi arah kausal bertentangan dengan pengubahan ubatan tujuan: atracurium memerlukan *pengurusan kerana* rawatan preeklampsia, ia tidak *merawat* preeklampsia.
+
+---
+
+## Bukti Ujian Klinikal
+
+Tiada ujian klinikal yang mengkaji atracurium besylate sebagai rawatan untuk preeklampsia yang didaftarkan pada masa ini.
+
+---
+
+## Bukti Literatur
+
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|------|------|---------|-------------|
-| [41103680](https://pubmed.ncbi.nlm.nih.gov/41103680/) | 2025 | RCT | Anesthesiology and Pain Medicine | Compared serum IL-6, leptin, and adiponectin after cesarean section under general vs. spinal anaesthesia; atracurium used as part of general anaesthesia protocol — not investigating preeclampsia treatment |
-| [9646009](https://pubmed.ncbi.nlm.nih.gov/9646009/) | 1998 | PK Study | Clinical Pharmacokinetics | Pharmacokinetics of atracurium, vecuronium, and pancuronium during pregnancy; atracurium Vss and clearance found unchanged despite 45% plasma volume expansion in pregnancy |
-| [3778800](https://pubmed.ncbi.nlm.nih.gov/3778800/) | 1986 | Observational Study | British Journal of Anaesthesia | Direct observational study of atracurium use in pre-eclamptic patients; addresses safety and the MgSO₄–NMJ potentiation interaction, not efficacy in treating preeclampsia |
-| [18383970](https://pubmed.ncbi.nlm.nih.gov/18383970/) | 2008 | Case Series | Rev Esp Anestesiol Reanim | Remifentanil bolus for haemodynamic control during cesarean in 12 high-risk patients ineligible for spinal anaesthesia; atracurium included as anaesthetic component |
+| [41103680](https://pubmed.ncbi.nlm.nih.gov/41103680/) | 2025 | RCT | Anesthesiology and Pain Medicine | Membandingkan serum IL-6, leptin, dan adiponektin selepas pembedahan cesarian di bawah anestesia umum vs. tulang belakang; atracurium digunakan sebagai sebahagian daripada protokol anestesia umum — tidak menyiasat rawatan preeklampsia |
+| [9646009](https://pubmed.ncbi.nlm.nih.gov/9646009/) | 1998 | Kajian PK | Clinical Pharmacokinetics | Farmakokinetik atracurium, vecuronium, dan pancuronium semasa kehamilan; atracurium Vss dan pembersihan didapati tidak berubah walaupun 45% pengembangan isipadu plasma dalam kehamilan |
+| [3778800](https://pubmed.ncbi.nlm.nih.gov/3778800/) | 1986 | Kajian Pemerhatian | British Journal of Anaesthesia | Kajian pemerhatian langsung penggunaan atracurium pada pesakit pra-eklampsia; menangani keselamatan dan interaksi potentiasi MgSO₄–NMJ, bukan keberkesanan dalam merawat preeklampsia |
+| [18383970](https://pubmed.ncbi.nlm.nih.gov/18383970/) | 2008 | Siri Kes | Rev Esp Anestesiol Reanim | Bolus remifentanil untuk kawalan hemodinamik semasa cesarian dalam 12 pesakit berisiko tinggi yang tidak layak untuk anestesia tulang belakang; atracurium disertakan sebagai komponen anestesi |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Atracurium besylate has **10 registered products** in Malaysia. Detailed product-level data (authorization numbers, product names, dosage forms, approved indication text) was not available in this Evidence Pack. Please refer directly to the [NPRA database](https://www.pharmacy.gov.my) for complete registration details.
-
----
-
-## Safety Considerations
-
-Detailed warnings and contraindications were not available in this Evidence Pack. Please refer to the approved package insert for comprehensive safety information.
-
-**Clinically critical interaction for this predicted indication:** Concurrent magnesium sulfate (MgSO₄) — the standard seizure prophylaxis in preeclampsia — significantly potentiates neuromuscular blockade. When atracurium is administered to patients receiving MgSO₄, the dose should be reduced and neuromuscular function closely monitored to avoid prolonged paralysis and respiratory failure.
+Atracurium besylate mempunyai **10 produk berdaftar** di Malaysia. Data peringkat produk yang terperinci (nombor kebenaran, nama produk, bentuk dos, teks petunjukan yang diluluskan) tidak tersedia dalam Paket Bukti ini. Sila rujuk terus kepada [pangkalan data NPRA](https://www.pharmacy.gov.my) untuk butiran pendaftaran lengkap.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Amaran dan kontraindikasi terperinci tidak tersedia dalam Paket Bukti ini. Sila rujuk kepada risalah paket yang diluluskan untuk maklumat keselamatan yang komprehensif.
 
-**Rationale:**
-Despite a high TxGNN prediction score (99.97%), pharmacological analysis identifies this as a false positive: the prediction is driven by clinical co-occurrence in obstetric anaesthesia settings rather than any mechanistic link between atracurium and preeclampsia. All 10 predicted indications in this Evidence Pack received a **Hold** recommendation, reflecting a consistent pattern — atracurium's role as an intraoperative muscle relaxant places it in many clinical contexts without any therapeutic relationship to the associated diseases.
+**Interaksi klinikal yang sangat penting untuk petunjukan ramalan ini:** Magnesium sulfat serentak (MgSO₄) — profilaksis sawan standard dalam preeklampsia — dengan ketara meningkatkan penyekatan neuromuskuler. Apabila atracurium diberikan kepada pesakit yang menerima MgSO₄, dos harus dikurangkan dan fungsi neuromuskuler dipantau dengan teliti untuk mengelakkan paralisis yang berpanjangan dan kegagalan pernafasan.
 
-**To support a reassessment, the following would be required:**
+---
 
-- Identification of a plausible therapeutic mechanism relevant to preeclampsia (e.g., endothelial protection, antihypertensive effect, anti-inflammatory activity) — none currently exists in the literature
-- At least one prospective study demonstrating clinical benefit on preeclampsia endpoints (blood pressure control, proteinuria reduction, maternal or fetal outcomes)
-- Complete NPRA product registration details for accurate market assessment
-- Package insert data (warnings, contraindications, full DDI profile) to support S1 safety screening
+## Kesimpulan dan Langkah Seterusnya
 
-> ⚠️ **Disclaimer**: This report is intended for research reference only and does not constitute medical advice. Drug repurposing candidates require clinical validation before any therapeutic application.
+**Keputusan: Tahan**
+
+**Alasan:**
+Walaupun skor ramalan TxGNN tinggi (99.97%), analisis farmakologi mengenal pasti ini sebagai positif palsu: ramalan didorong oleh ko-kejadian klinikal dalam tetapan anestesia obstetrik daripada sebarang pautan mekanik antara atracurium dan preeklampsia. Kesemua 10 petunjukan yang diramalkan dalam Paket Bukti ini menerima cadangan **Tahan**, mencerminkan corak yang konsisten — peranan atracurium sebagai perelaks otot intraoperatif menempatkannya dalam banyak konteks klinikal tanpa sebarang perhubungan terapeutik kepada penyakit yang berkaitan.
+
+**Untuk menyokong penilaian semula, perkara berikut diperlukan:**
+
+- Pengenalan mekanisme terapeutik yang munasabah relevan kepada preeklampsia (cth., perlindungan endotel, kesan antihipertensi, aktiviti anti-radang) — tiada yang wujud pada masa ini dalam literatur
+- Sekurang-kurangnya satu kajian prospektif menunjukkan manfaat klinikal pada titik akhir preeklampsia (kawalan tekanan darah, pengurangan proteinuria, hasil ibu atau janin)
+- Butiran pendaftaran produk NPRA lengkap untuk penilaian pasaran yang tepat
+- Data risalah paket (amaran, kontraindikasi, profil DDI penuh) untuk menyokong pemeriksaan keselamatan S1
+
+> ⚠️ **Penafian**: Laporan ini dimaksudkan untuk rujukan penyelidikan sahaja dan tidak merupakan nasihat perubatan. Calon pengubahan ubatan tujuan memerlukan pengesahan klinikal sebelum sebarang aplikasi terapeutik.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

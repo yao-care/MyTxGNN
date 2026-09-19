@@ -29,85 +29,86 @@ Tahap bukti: **L1** | Indikasi diramal: **1**
 
 </div>
 
-# Triazolam: From Insomnia to Insomnia — A Confirmatory Signal
+# Triazolam: Dari Insomnia ke Insomnia — Sinyal Konfirmatori
 
-## One-Sentence Summary
+## Ringkasan Satu Kalimat
 
-Triazolam is a short-acting triazolobenzodiazepine long used clinically as a hypnotic for insomnia. The TxGNN model predicts it is effective for **Insomnia (Sleep Disorder, Initiating and Maintaining Sleep)** — a signal that, per the underlying rationale, reflects the drug's *existing* approved use rather than a genuinely novel repurposing hypothesis. The prediction is backed by **20 publications** (including a major clinical practice guideline and two systematic reviews/meta-analyses), though **no dedicated clinical trials** for this specific prediction are currently registered.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Insomnia (per repurposing rationale — described as the drug's existing, long-established approved use; not separately confirmed in the registry record) |
-| Predicted New Indication | Insomnia (Sleep Disorder, Initiating and Maintaining Sleep) |
-| TxGNN Prediction Score | 99.72% |
-| Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Proceed with Guardrails |
+Triazolam adalah suatu triazolobenzodiazepine dengan aksi pendek yang telah lama digunakan secara klinis sebagai hipnotik untuk insomnia. Model TxGNN memprediksi bahwa obat ini efektif untuk **Insomnia (Gangguan Tidur, Memulai dan Mempertahankan Tidur)** — sebuah sinyal yang, sesuai dengan rasionalisasi yang mendasarinya, mencerminkan penggunaan klinis yang *sudah ada* dari obat ini daripada hipotesis penjadwalan ulang yang benar-benar baru. Prediksi ini didukung oleh **20 publikasi** (termasuk pedoman praktik klinis utama dan dua tinjauan sistematis/meta-analisis), meskipun **tidak ada uji klinis khusus** untuk prediksi spesifik ini yang saat ini terdaftar.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Ikhtisar Cepat
 
-Triazolam is a triazolobenzodiazepine that acts at the benzodiazepine binding site on the GABA-A receptor, positively and allosterically enhancing inhibitory GABAergic neurotransmission to produce sedative/hypnotic effects. This mechanism directly underlies its established clinical use for insomnia (difficulty initiating and maintaining sleep).
-
-Because the predicted indication and the drug's real-world therapeutic use are the same condition, this case is best understood not as a novel drug-repurposing hypothesis but as a **model-confirmed validation** of triazolam's known clinical role. The evidence pack explicitly frames this as a compilation of existing clinical practice evidence rather than a new mechanistic leap.
-
-Note: a structured mechanism-of-action (MOA) field for the drug record itself is currently unavailable (data gap); the mechanistic description above is drawn from the repurposing rationale rather than a dedicated MOA source.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Item | Konten |
+|------|--------|
+| Indikasi Asal | Insomnia (menurut rasionalisasi penjadwalan ulang — digambarkan sebagai penggunaan yang sudah disetujui dan telah lama ditetapkan dari obat ini; tidak secara terpisah dikonfirmasi dalam catatan pendaftaran) |
+| Indikasi Baru yang Diprediksi | Insomnia (Gangguan Tidur, Memulai dan Mempertahankan Tidur) |
+| Skor Prediksi TxGNN | 99.72% |
+| Tingkat Bukti | L1 |
+| Status Pasar Malaysia | ✓ Dipasarkan |
+| Jumlah Registrasi | 1 |
+| Keputusan yang Direkomendasikan | Lanjutkan dengan Penjaga |
 
 ---
 
-## Literature Evidence
+## Mengapa Prediksi Ini Masuk Akal?
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [27998379](https://pubmed.ncbi.nlm.nih.gov/27998379/) | 2017 | Clinical Practice Guideline | J Clin Sleep Med | AASM guideline on pharmacologic treatment of chronic insomnia in adults, evaluating individual hypnotic drugs including benzodiazepines |
-| [40110890](https://pubmed.ncbi.nlm.nih.gov/40110890/) | 2025 | Systematic Review/Meta-analysis | Psychiatry Clin Neurosci | Efficacy/safety of sleep medication classes (incl. benzodiazepines) as add-on therapy for MDD with insomnia symptoms |
-| [33249496](https://pubmed.ncbi.nlm.nih.gov/33249496/) | 2021 | Systematic Review/Network Meta-analysis | Sleep | Comparative efficacy and safety of hypnotics for insomnia in older adults |
-| [30058034](https://pubmed.ncbi.nlm.nih.gov/30058034/) | 2018 | Review | Drugs & Aging | Recommendations for pharmacological management of insomnia in elderly patients |
-| [39932761](https://pubmed.ncbi.nlm.nih.gov/39932761/) | 2025 | Review | Minerva Medica | Overview of insomnia disorder diagnosis and management |
-| [27751669](https://pubmed.ncbi.nlm.nih.gov/27751669/) | 2016 | Review | Clinical Therapeutics | Safety and efficacy of sleep medicines in older adults |
-| [9161660](https://pubmed.ncbi.nlm.nih.gov/9161660/) | 1997 | Comparative Review | Ann Pharmacother | Comparison of zolpidem vs. triazolam on efficacy and safety |
-| [10533351](https://pubmed.ncbi.nlm.nih.gov/10533351/) | 1999 | Review | J Am Pharm Assoc | Overview of pharmacologic and nonpharmacologic management of insomnia |
-| [1679317](https://pubmed.ncbi.nlm.nih.gov/1679317/) | 1991 | Review | Ann Acad Med Singap | Review of hypnotic drug treatment for insomnia, including benzodiazepines |
-| [1319429](https://pubmed.ncbi.nlm.nih.gov/1319429/) | 1992 | Review | J Clin Psychiatry | Pharmacology of benzodiazepine hypnotics, including triazolam's historical role |
+Triazolam adalah suatu triazolobenzodiazepine yang bekerja pada situs pengikatan benzodiazepine pada reseptor GABA-A, meningkatkan neurotransmisi GABAergik penghambat secara positif dan alosterik untuk menghasilkan efek sedatif/hipnotik. Mekanisme ini secara langsung mendasari penggunaan klinis yang mapan untuk insomnia (kesulitan memulai dan mempertahankan tidur).
+
+Karena indikasi yang diprediksi dan penggunaan terapeutik obat di dunia nyata adalah kondisi yang sama, kasus ini paling baik dipahami bukan sebagai hipotesis penjadwalan ulang obat yang baru tetapi sebagai **validasi yang dikonfirmasi oleh model** dari peran klinis triazolam yang dikenal. Paket bukti secara eksplisit membingkai ini sebagai kompilasi bukti praktik klinis yang ada daripada lompatan mekanis yang baru.
+
+Catatan: bidang mekanisme kerja (MOA) yang terstruktur untuk catatan obat itu sendiri saat ini tidak tersedia (kesenjangan data); deskripsi mekanis di atas diambil dari rasionalisasi penjadwalan ulang daripada sumber MOA khusus.
 
 ---
 
-## Malaysia Market Information
+## Bukti Uji Klinis
 
-Malaysia registration is confirmed (1 license on file), but detailed product-level information (license number, product name, dosage form, approved indication text) is not currently populated in the dataset.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
+Saat ini tidak ada uji klinis terkait yang terdaftar.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Proceed with Guardrails**
+| PMID | Tahun | Jenis | Jurnal | Temuan Utama |
+|------|------|------|--------|-------------|
+| [27998379](https://pubmed.ncbi.nlm.nih.gov/27998379/) | 2017 | Pedoman Praktik Klinis | J Clin Sleep Med | Pedoman AASM tentang pengobatan farmakologis insomnia kronis pada orang dewasa, mengevaluasi obat hipnotik individual termasuk benzodiazepine |
+| [40110890](https://pubmed.ncbi.nlm.nih.gov/40110890/) | 2025 | Tinjauan Sistematis/Meta-analisis | Psychiatry Clin Neurosci | Efikasi/keamanan kelas obat tidur (termasuk benzodiazepine) sebagai terapi tambahan untuk MDD dengan gejala insomnia |
+| [33249496](https://pubmed.ncbi.nlm.nih.gov/33249496/) | 2021 | Tinjauan Sistematis/Meta-analisis Jaringan | Sleep | Efikasi komparatif dan keamanan hipnotik untuk insomnia pada orang tua |
+| [30058034](https://pubmed.ncbi.nlm.nih.gov/30058034/) | 2018 | Tinjauan | Drugs & Aging | Rekomendasi untuk manajemen farmakologis insomnia pada pasien lansia |
+| [39932761](https://pubmed.ncbi.nlm.nih.gov/39932761/) | 2025 | Tinjauan | Minerva Medica | Tinjauan umum diagnosis dan manajemen gangguan insomnia |
+| [27751669](https://pubmed.ncbi.nlm.nih.gov/27751669/) | 2016 | Tinjauan | Clinical Therapeutics | Keamanan dan efikasi obat tidur pada orang tua |
+| [9161660](https://pubmed.ncbi.nlm.nih.gov/9161660/) | 1997 | Tinjauan Komparatif | Ann Pharmacother | Perbandingan zolpidem vs. triazolam pada efikasi dan keamanan |
+| [10533351](https://pubmed.ncbi.nlm.nih.gov/10533351/) | 1999 | Tinjauan | J Am Pharm Assoc | Tinjauan umum pengelolaan farmakologis dan nonfarmakologis insomnia |
+| [1679317](https://pubmed.ncbi.nlm.nih.gov/1679317/) | 1991 | Tinjauan | Ann Acad Med Singap | Tinjauan pengobatan obat hipnotik untuk insomnia, termasuk benzodiazepine |
+| [1319429](https://pubmed.ncbi.nlm.nih.gov/1319429/) | 1992 | Tinjauan | J Clin Psychiatry | Farmakologi hipnotik benzodiazepine, termasuk peran historis triazolam |
 
-**Rationale:**
-Literature evidence is strong and consistent (a clinical practice guideline plus two systematic reviews/meta-analyses supporting benzodiazepine hypnotics, including triazolam, for insomnia), but this reflects confirmation of an existing use rather than a novel indication, and a blocking safety data gap (product leaflet warnings/contraindications) prevents completion of the initial safety screen.
+---
 
-**To proceed, the following is needed:**
-- TFDA/regulatory leaflet data — warnings and contraindications (blocking; source: official regulatory site, method: retrieve and parse product leaflet PDF)
-- Mechanism-of-action data for the drug record itself (source: DrugBank API query)
-- Malaysia product-level registration details (license number, product name, dosage form, approved indication text)
-- Clarification of whether this candidate should be scoped as "confirmatory evidence review" rather than a standard repurposing pipeline, given the predicted and existing indications overlap
+## Informasi Pasar Malaysia
+
+Pendaftaran Malaysia dikonfirmasi (1 lisensi dalam file), tetapi informasi tingkat produk terperinci (nomor lisensi, nama produk, bentuk dosis, teks indikasi yang disetujui) saat ini tidak diisi dalam dataset.
+
+---
+
+## Pertimbangan Keselamatan
+
+Silakan lihat brosur produk untuk informasi keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Selanjutnya
+
+**Keputusan: Lanjutkan dengan Penjaga**
+
+**Rasionalisasi:**
+Bukti literatur kuat dan konsisten (pedoman praktik klinis ditambah dua tinjauan sistematis/meta-analisis mendukung hipnotik benzodiazepine, termasuk triazolam, untuk insomnia), tetapi ini mencerminkan konfirmasi penggunaan yang sudah ada daripada indikasi baru, dan kesenjangan data keamanan yang memblokir (peringatan dan kontraindikasi brosur produk) mencegah penyelesaian penyaringan keamanan awal.
+
+**Untuk melanjutkan, hal berikut diperlukan:**
+- Data brosur TFDA/regulasi — peringatan dan kontraindikasi (memblokir; sumber: situs peraturan resmi, metode: ambil dan urai PDF brosur produk)
+- Data mekanisme kerja untuk catatan obat itu sendiri (sumber: kueri API DrugBank)
+- Detail registrasi tingkat produk Malaysia (nomor lisensi, nama produk, bentuk dosis, teks indikasi yang disetujui)
+- Klarifikasi tentang apakah kandidat ini harus dicakup sebagai "tinjauan bukti konfirmatori" daripada saluran penjadwalan ulang standar, mengingat prediksi dan indikasi yang ada tumpang tindih
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

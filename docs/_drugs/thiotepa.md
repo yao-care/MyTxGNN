@@ -29,127 +29,128 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Thiotepa: From Established Antineoplastic Use to Non-Papillary Transitional Cell Carcinoma of the Bladder
+# Thiotepa: Daripada Penggunaan Antineoplastik yang Mapan kepada Karsinoma Sel Transisional Bukan Papiler Kandung Kencing
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Thiotepa is a classic aziridine-class alkylating antineoplastic agent; the current evidence pack does not capture its original indication text or detailed mechanism of action (both flagged as data gaps). TxGNN's top-ranked prediction is **non-papillary transitional cell carcinoma of the bladder**, but this candidate currently has **zero supporting clinical trials or publications** in the dataset. By contrast, two lower-ranked candidates — **Hodgkin's lymphoma** and **non-Hodgkin lymphoma** — are backed by **50 clinical trials and 20 publications each**, reflecting thiotepa's well-established role in high-dose stem-cell-transplant conditioning regimens.
+Thiotepa ialah ejen pengalkilasi kelas aziraidin klasik; pakej bukti semasa tidak menangkap teks petunjukan asal atau mekanisme tindakan terperinci (kedua-duanya ditandai sebagai jurang data). Ramalan berpangkat teratas TxGNN ialah **karsinoma sel transisional bukan papiler kandung kencing**, tetapi calon ini pada masa kini mempunyai **sifar ujian klinikal atau penerbitan sokongan** dalam set data. Sebaliknya, dua calon berpangkat lebih rendah — **limfoma Hodgkin** dan **limfoma bukan-Hodgkin** — disokong oleh **50 ujian klinikal dan 20 penerbitan masing-masing**, mencerminkan peranan thiotepa yang mapan dalam rejimen pengkondisian pemindahan sel stem dos tinggi.
 
-## Quick Overview
+## Gambaran Pantas
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Not captured in current dataset (TFDA/NPRA indication text not extracted) |
-| Predicted New Indication | Non-papillary transitional cell carcinoma of the bladder (TxGNN rank 1) |
-| TxGNN Prediction Score | 0.00% |
-| Evidence Level | L5 (model prediction only, no supporting trials/literature) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
-| Recommended Decision | Hold |
+| Petunjukan Asal | Tidak ditangkap dalam set data semasa (teks petunjukan TFDA/NPRA tidak diekstrak) |
+| Petunjukan Baharu Diramalkan | Karsinoma sel transisional bukan papiler kandung kencing (pangkat 1 TxGNN) |
+| Skor Ramalan TxGNN | 0.00% |
+| Tahap Bukti | L5 (ramalan model sahaja, tiada ujian/literatur sokongan) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 3 |
+| Cadangan Keputusan | Tahan |
 
-### Other Candidate Indications in This Evidence Pack
+### Petunjukan Calon Lain dalam Pakej Bukti Ini
 
-Because this pack evaluates five TxGNN-predicted indications simultaneously, the top-ranked candidate above should be read alongside the others:
+Kerana pakej ini menilai lima petunjukan diramalkan TxGNN serentak, calon berpangkat teratas di atas harus dibaca bersama yang lain:
 
-| Rank | Disease | TxGNN Score | Evidence Level | Decision Stage | Recommendation |
+| Pangkat | Penyakit | Skor TxGNN | Tahap Bukti | Peringkat Keputusan | Cadangan |
 |------|---------|------|------|------|------|
-| 1 | Non-papillary transitional cell carcinoma of the bladder | 0.00% | L5 | S0 | Hold |
-| 2 | Ovarian clear cell adenocarcinoma | 0.00% | L3 | S1 | Research Question |
-| 3 | Hodgkin's lymphoma | 0.00% | L2 | S2 | Proceed with Guardrails |
-| 4 | Non-Hodgkin lymphoma | 0.00% | L2 | S2 | Proceed with Guardrails |
-| 5 | Lymphosarcoma | 0.00% | L2 | S1 | Research Question |
+| 1 | Karsinoma sel transisional bukan papiler kandung kencing | 0.00% | L5 | S0 | Tahan |
+| 2 | Adenokarsinoma sel jernih ovarium | 0.00% | L3 | S1 | Soalan Penyelidikan |
+| 3 | Limfoma Hodgkin | 0.00% | L2 | S2 | Teruskan dengan Pengawal |
+| 4 | Limfoma bukan-Hodgkin | 0.00% | L2 | S2 | Teruskan dengan Pengawal |
+| 5 | Limfosarkoma | 0.00% | L2 | S1 | Soalan Penyelidikan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data is not available (TFDA/DrugBank MOA extraction is flagged as a High-severity data gap, DG002). Based on known pharmacology captured in the repurposing rationale fields, thiotepa is a cell-cycle non-specific alkylating agent that produces DNA cross-links; historically its label already included superficial bladder tumours (intravesical instillation), which is mechanistically consistent with the TxGNN top prediction of non-papillary transitional cell carcinoma of the bladder. However, no clinical trials, ICTRP registrations, or PubMed literature in this dataset currently substantiate that specific prediction — the mechanistic plausibility is not yet matched by real-world evidence.
+Pada masa kini, data mekanisme tindakan terperinci tidak tersedia (pengekstrakan MOA TFDA/DrugBank ditandai sebagai jurang data keterukan tinggi, DG002). Berdasarkan farmakologi yang diketahui ditangkap dalam bidang rasional pemeravuan, thiotepa ialah ejen pengalkilasi yang tidak bergantung pada kitaran sel yang menghasilkan pautan silang DNA; dari segi sejarah, labelnya sudah termasuk tumor kandung kencing permukaan (pemberian intravezikal), yang secara mekanik konsisten dengan ramalan TxGNN teratas bagi karsinoma sel transisional bukan papiler kandung kencing. Walau bagaimanapun, tiada ujian klinikal, pendaftaran ICTRP, atau literatur PubMed dalam set data ini pada masa kini yang mengesahkan ramalan khusus itu — kemukinan mekanik itu tidak lagi dipadankan dengan bukti dunia nyata.
 
-The other four candidates cluster around two very different biological rationales. Ovarian clear cell adenocarcinoma is supported only by trials/literature conducted in unselected epithelial ovarian cancer populations, not the clear-cell subtype specifically — this subtype is relatively chemoresistant to platinum agents, so extrapolation from general ovarian cancer data should be treated cautiously. Hodgkin's lymphoma, non-Hodgkin lymphoma, and lymphosarcoma, on the other hand, reflect an already-mainstream clinical practice: thiotepa is a standard component of high-dose conditioning regimens (e.g., TBC: thiotepa-busulfan-cyclophosphamide; MATRix: methotrexate-cytarabine-thiotepa-rituximab) prior to autologous or allogeneic stem cell transplantation, valued particularly for its blood-brain-barrier penetration in CNS-involved lymphoma. Note that "lymphosarcoma" is an obsolete diagnostic term now largely subsumed under non-Hodgkin lymphoma, so its evidence base substantially overlaps with, rather than adds to, the NHL candidate.
+Empat calon yang lain berkumpul sekitar dua rasional biologi yang sangat berlainan. Adenokarsinoma sel jernih ovarium hanya disokong oleh ujian/literatur yang dijalankan dalam populasi kanser ovarium epitelial yang tidak terpilih, bukan subkelas sel jernih khususnya — subkelas ini agak tahan terhadap ejen platinum, jadi ekstrapolasi daripada data kanser ovarium umum harus diperlakukan dengan berhati-hati. Limfoma Hodgkin, limfoma bukan-Hodgkin, dan limfosarkoma, sebaliknya, mencerminkan amalan klinikal yang sudah berada dalam arus perdana: thiotepa ialah komponen standard rejimen pengkondisian dos tinggi (contohnya, TBC: thiotepa-busulfan-siklofosfamid; MATRix: metotreksat-sitarabin-thiotepa-rituximab) sebelum pemindahan sel stem autolog atau alogenik, dihargai khususnya kerana penembusan penghalang darah-otak dalam limfoma melibatkan CNS. Ambil perhatian bahawa "limfosarkoma" ialah istilah diagnostik usang yang kini sebahagian besar diserapkan di bawah limfoma bukan-Hodgkin, jadi asas buktinya sebahagian besar bertindih dengan, daripada menambah kepada, calon NHL.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-### Non-Papillary Transitional Cell Carcinoma of the Bladder (Rank 1)
+### Karsinoma Sel Transisional Bukan Papiler Kandung Kencing (Pangkat 1)
 
-Currently no related clinical trials registered
+Pada masa kini tiada ujian klinikal berkaitan terdaftar
 
-### Ovarian Clear Cell Adenocarcinoma (Rank 2)
+### Adenokarsinoma Sel Jernih Ovarium (Pangkat 2)
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Kunci |
 |---------|------|------|------|---------|
-| [NCT00002977](https://clinicaltrials.gov/study/NCT00002977) | Phase 1 | Completed | 45 | Melphalan + thiotepa followed by autologous/syngeneic PBSC rescue in Stage III/IV epithelial ovarian cancer in complete remission; not clear-cell-specific, endpoint was transplant feasibility/toxicity rather than subtype efficacy |
+| [NCT00002977](https://clinicaltrials.gov/study/NCT00002977) | Fasa 1 | Selesai | 45 | Melfalan + thiotepa diikuti dengan penyelamat PBSC autolog/singeik dalam kanser ovarium epitelial Peringkat III/IV dalam remisi lengkap; bukan khusus sel jernih, titik akhir ialah kebolehlaksanaan pemindahan dan ketoksikan daripada respons bukan keberkesanan subkelas |
 
-### Hodgkin's Lymphoma / Non-Hodgkin Lymphoma / Lymphosarcoma (Ranks 3–5, evidence bases overlap substantially)
+### Limfoma Hodgkin / Limfoma Bukan-Hodgkin / Limfosarkoma (Pangkat 3–5, asas bukti bertindih sebahagian besar)
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Kunci |
 |---------|------|------|------|---------|
-| [NCT01182415](https://clinicaltrials.gov/study/NCT01182415) | Phase 2 | Completed | 30 | High-dose thiotepa, busulfan, cyclophosphamide, rituximab + autologous SCT for CNS involvement by NHL or primary CNS lymphoma |
-| [NCT06625359](https://clinicaltrials.gov/study/NCT06625359) | Phase 2 | Terminated | 17 | Thiotepa-busulfan-cyclophosphamide high-dose chemotherapy before autologous SCT for primary/secondary CNS lymphoma |
-| [NCT00801216](https://clinicaltrials.gov/study/NCT00801216) | Phase 2 | Completed | 40 | High-dose sequential chemotherapy with rituximab (R-HDS), including thiotepa, for systemic B-cell lymphoma with CNS involvement |
-| [NCT00143559](https://clinicaltrials.gov/study/NCT00143559) | Phase 2 | Completed | 17 | Haploidentical HSCT with partial T-cell depletion for hematologic malignancies; thiotepa part of conditioning |
-| [NCT02790515](https://clinicaltrials.gov/study/NCT02790515) | Phase 2 | Active, not recruiting | 170 | Naive T-cell depleted haploidentical HCT for relapsed/refractory hematologic malignancies; thiotepa-containing reduced-intensity conditioning |
-| [NCT00186823](https://clinicaltrials.gov/study/NCT00186823) | Phase 3 | Completed | 57 | Haploidentical SCT with purified CD34+ cells for hematologic malignancies; thiotepa as conditioning component |
-| [NCT03509961](https://clinicaltrials.gov/study/NCT03509961) | Phase 2 | Recruiting | 95 | Non-TBI-based conditioning for MRD-negative B-ALL pre-allogeneic HCT; thiotepa-containing regimen |
+| [NCT01182415](https://clinicaltrials.gov/study/NCT01182415) | Fasa 2 | Selesai | 30 | Thiotepa dos tinggi, busulfan, siklofosfamid, rituximab + PCS autolog untuk penglibatan CNS oleh NHL atau limfoma CNS primer |
+| [NCT06625359](https://clinicaltrials.gov/study/NCT06625359) | Fasa 2 | Ditamatkan | 17 | Kemoterapia dos tinggi thiotepa-busulfan-siklofosfamid sebelum PCS autolog untuk limfoma CNS primer/sekunder |
+| [NCT00801216](https://clinicaltrials.gov/study/NCT00801216) | Fasa 2 | Selesai | 40 | Kemoterapia berjujukan dos tinggi dengan rituximab (R-HDS), termasuk thiotepa, untuk limfoma sel-B sistemik dengan penglibatan CNS |
+| [NCT00143559](https://clinicaltrials.gov/study/NCT00143559) | Fasa 2 | Selesai | 17 | HSCT haplo-identik dengan penyingkiran sel-T separa untuk keganasan hematologi; thiotepa sebahagian daripada pengkondisian |
+| [NCT02790515](https://clinicaltrials.gov/study/NCT02790515) | Fasa 2 | Aktif, bukan merekrut | 170 | HCT haplo-identik dengan sel-T naif yang dikurangkan untuk keganasan hematologi yang kambuh/tahan rawatan; pengkondisian pengurangan keamatan yang mengandungi thiotepa |
+| [NCT00186823](https://clinicaltrials.gov/study/NCT00186823) | Fasa 3 | Selesai | 57 | PCS haplo-identik dengan sel CD34+ yang ditulen untuk keganasan hematologi; thiotepa sebagai komponen pengkondisian |
+| [NCT03509961](https://clinicaltrials.gov/study/NCT03509961) | Fasa 2 | Merekrut | 95 | Pengkondisian berasaskan bukan-TBI untuk B-ALL MRD-negatif pra-HCT alogenik; rejimen yang mengandungi thiotepa |
 
-## Literature Evidence
+## Bukti Literatur
 
-### Non-Papillary Transitional Cell Carcinoma of the Bladder (Rank 1)
+### Karsinoma Sel Transisional Bukan Papiler Kandung Kencing (Pangkat 1)
 
-Currently no related literature available
+Pada masa kini tiada literatur berkaitan tersedia
 
-### Ovarian Clear Cell Adenocarcinoma (Rank 2)
+### Adenokarsinoma Sel Jernih Ovarium (Pangkat 2)
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Kunci |
 |------|-----|------|------|---------|
-| [19395997](https://pubmed.ncbi.nlm.nih.gov/19395997/) | 2009 | Cohort | Int J Gynecol Cancer | Survival after second-line intraperitoneal therapy for epithelial ovarian cancer; GOG experience, not subtype-specific |
-| [9072220](https://pubmed.ncbi.nlm.nih.gov/9072220/) | 1996 | Cohort (older, non-English) | Likars'ka sprava | Morphological chemotherapy response study in ovarian carcinoma by histological type |
+| [19395997](https://pubmed.ncbi.nlm.nih.gov/19395997/) | 2009 | Kohort | Int J Gynecol Cancer | Survival selepas terapi intraperitoneal barisan kedua untuk kanser ovarium epitelial; pengalaman GOG, bukan khusus subkelas |
+| [9072220](https://pubmed.ncbi.nlm.nih.gov/9072220/) | 1996 | Kohort (lebih lama, bukan Inggeris) | Likars'ka sprava | Kajian respons morfologi kemoterapia dalam karsinoma ovarium mengikut jenis histologi |
 
-### Hodgkin's Lymphoma / Non-Hodgkin Lymphoma / Lymphosarcoma (Ranks 3–5)
+### Limfoma Hodgkin / Limfoma Bukan-Hodgkin / Limfosarkoma (Pangkat 3–5)
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Kunci |
 |------|-----|------|------|---------|
-| [27132696](https://pubmed.ncbi.nlm.nih.gov/27132696/) | 2016 | Phase 2 RCT (IELSG-32) | Lancet Haematology | MATRix regimen (methotrexate, cytarabine, thiotepa, rituximab) in primary CNS lymphoma; first randomisation results |
-| [33513372](https://pubmed.ncbi.nlm.nih.gov/33513372/) | 2021 | Phase 2 trial (MARIETTA) | Lancet Haematology | MATRix-RICE + autologous HSCT in DLBCL with secondary CNS involvement |
-| [38301670](https://pubmed.ncbi.nlm.nih.gov/38301670/) | 2024 | Phase 2 trial (MARTA) | Lancet Haematology | High-dose chemotherapy + autologous HSCT in older, fit patients with primary CNS DLBCL |
-| [29035395](https://pubmed.ncbi.nlm.nih.gov/29035395/) | 2018 | Cohort | Bone Marrow Transplant | TECAM (thiotepa-based) vs. conventional BEAM conditioning in B-cell lymphoma ASCT, n=125 |
-| [39937333](https://pubmed.ncbi.nlm.nih.gov/39937333/) | 2025 | Cohort | Int J Hematol | Thiotepa-busulfan conditioning vs. other regimens for relapsed/refractory systemic DLBCL ASCT |
-| [23697844](https://pubmed.ncbi.nlm.nih.gov/23697844/) | 2014 | Cohort | Leuk Lymphoma | Busulfan-melphalan-thiotepa conditioning improves outcomes in relapsed/refractory Hodgkin lymphoma autoSCT (n=100) |
-| [35459424](https://pubmed.ncbi.nlm.nih.gov/35459424/) | 2022 | Cohort | Leuk Lymphoma | High-dose thiotepa-busulfan-melphalan-rituximab conditioning improves outcomes in secondary CNS lymphoma (n=62) |
-| [21928053](https://pubmed.ncbi.nlm.nih.gov/21928053/) | 2012 | Phase 1/2 report | Clin Exp Med | High-dose thiotepa-etoposide-carboplatin conditioning for autologous SCT in high-risk NHL |
-| [37702537](https://pubmed.ncbi.nlm.nih.gov/37702537/) | 2023 | Review | Blood | "How I treat" secondary CNS involvement by aggressive lymphomas |
-| [34271311](https://pubmed.ncbi.nlm.nih.gov/34271311/) | 2021 | Review | ESMO Open | "How we treat" primary CNS lymphoma |
+| [27132696](https://pubmed.ncbi.nlm.nih.gov/27132696/) | 2016 | RCT Fasa 2 (IELSG-32) | Lancet Haematology | Rejimen MATRix (metotreksat, sitarabin, thiotepa, rituximab) dalam limfoma CNS primer; hasil rawak pertama |
+| [33513372](https://pubmed.ncbi.nlm.nih.gov/33513372/) | 2021 | Ujian Fasa 2 (MARIETTA) | Lancet Haematology | MATRix-RICE + HSCT autolog dalam DLBCL dengan penglibatan CNS sekunder |
+| [38301670](https://pubmed.ncbi.nlm.nih.gov/38301670/) | 2024 | Ujian Fasa 2 (MARTA) | Lancet Haematology | Kemoterapia dos tinggi + HSCT autolog dalam pesakit DLBCL CNS primer yang lebih tua, sesuai |
+| [29035395](https://pubmed.ncbi.nlm.nih.gov/29035395/) | 2018 | Kohort | Bone Marrow Transplant | Pengkondisian TECAM (berasaskan thiotepa) vs. BEAM konvensional dalam B-sel ASCT limfoma, n=125 |
+| [39937333](https://pubmed.ncbi.nlm.nih.gov/39937333/) | 2025 | Kohort | Int J Hematol | Pengkondisian thiotepa-busulfan vs. rejimen lain untuk DLBCL sistemik yang kambuh/tahan ASCT |
+| [23697844](https://pubmed.ncbi.nlm.nih.gov/23697844/) | 2014 | Kohort | Leuk Lymphoma | Pengkondisian busulfan-melfalan-thiotepa meningkatkan hasil dalam autoSCT limfoma Hodgkin yang kambuh/tahan (n=100) |
+| [35459424](https://pubmed.ncbi.nlm.nih.gov/35459424/) | 2022 | Kohort | Leuk Lymphoma | Pengkondisian thiotepa-busulfan-melfalan-rituximab dos tinggi meningkatkan hasil dalam limfoma CNS sekunder (n=62) |
+| [21928053](https://pubmed.ncbi.nlm.nih.gov/21928053/) | 2012 | Laporan Fasa 1/2 | Clin Exp Med | Pengkondisian thiotepa-etopozid-karboplatin dos tinggi untuk PCS autolog dalam NHL berisiko tinggi |
+| [37702537](https://pubmed.ncbi.nlm.nih.gov/37702537/) | 2023 | Ulasan | Blood | "Bagaimana saya rawat" penglibatan CNS sekunder oleh limfoma agresif |
+| [34271311](https://pubmed.ncbi.nlm.nih.gov/34271311/) | 2021 | Ulasan | ESMO Open | "Bagaimana kami rawat" limfoma CNS primer |
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-NPRA records confirm **3 active registrations** for Thiotepa (market status: Marketed), but the evidence pack does not include the individual license numbers, product names, dosage forms, or approved indication text for these registrations — this level of detail was not captured during data collection and needs to be sourced directly from NPRA/product package inserts before further use.
+Rekod NPRA mengesahkan **3 pendaftaran aktif** untuk Thiotepa (status pasaran: Dipasarkan), tetapi pakej bukti tidak termasuk nombor lesen individu, nama produk, bentuk dos, atau teks petunjukan yang diluluskan untuk pendaftaran ini — tahap perincian ini tidak ditangkap semasa pengumpulan data dan perlu bersumber terus daripada NPRA/sisipan paket produk sebelum penggunaan lanjutan.
 
-## Cytotoxicity
+## Sitotoksisiti
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Cytotoxicity Classification | Conventional cytotoxic (alkylating agent, aziridine/ethylenimine class) |
-| Myelosuppression Risk | High — inferred from trial design: essentially every conditioning-regimen trial in this pack requires autologous or allogeneic stem cell rescue after thiotepa-based high-dose chemotherapy, indicating severe expected myeloablation |
-| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | CBC with differential, viral/fungal/bacterial infection surveillance (elevated infection risk reported after thiotepa-busulfan-cyclophosphamide conditioning), liver and renal function |
-| Handling Protection | Yes — standard cytotoxic drug handling precautions apply as this is an alkylating antineoplastic agent |
+| Klasifikasi Sitotoksisiti | Sitotoksik konvensional (ejen pengalkilasi, kelas aziraidin/etileniamina) |
+| Risiko Supresi Sumsum Tulang | Tinggi — disimpulkan daripada reka bentuk ujian: pada dasarnya setiap ujian rejimen pengkondisian dalam pakej ini memerlukan penyelamat pemindahan sel stem autolog atau alogenik selepas kemoterapia dos tinggi berasaskan thiotepa, menunjukkan kemusnahan sumsum tulang yang dijangka parah |
+| Klasifikasi Emetogenisiti | Sila rujuk amaran dan berjaga-jaga sisipan paket |
+| Item Pemantauan | CBC dengan pembezaan, pengawasan jangkitan virus/kulat/bakteria (risiko jangkitan tinggi dilaporkan selepas pengkondisian thiotepa-busulfan-siklofosfamid), fungsi hati dan ginjal |
+| Perlindungan Pengendalian | Ya — berjaga-jaga pengendalian ubat sitotoksik standard terpakai kerana ini ialah ejen antineoplastik pengalkilasi |
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information. Note: TFDA/NPRA package-insert warnings and contraindications are a **Blocking** data gap (DG001) — this must be resolved before any Stage 1 (S1) safety pre-assessment can proceed for the candidates currently at S1 or beyond (ovarian clear cell adenocarcinoma, Hodgkin's/non-Hodgkin lymphoma, lymphosarcoma).
+Sila rujuk sisipan paket untuk maklumat keselamatan. Ambil perhatian: amaran/kontraindikasi sisipan paket TFDA/NPRA ialah jurang data **Penyekat** (DG001) — ini mesti diselesaikan sebelum penilaian pra-keselamatan Peringkat 1 (S1) mana-mana boleh diteruskan untuk calon yang pada masa kini berada pada S1 atau seterusnya (adenokarsinoma sel jernih ovarium, limfoma Hodgkin/bukan-Hodgkin, limfosarkoma).
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold** (for the TxGNN top-ranked candidate, bladder cancer) — **Proceed with Guardrails** (for the lymphoma-conditioning candidates, as a secondary track)
+**Keputusan: Tahan** (untuk calon berpangkat teratas model, kanser kandung kencing) — **Teruskan dengan Pengawal** (untuk calon pengkondisian limfoma, sebagai jejak sekunder)
 
-**Rationale:**
-- The model's top prediction (non-papillary bladder carcinoma) has no supporting trials or literature in this pack — mechanistically plausible but currently unverifiable, so it stays at Hold per the L5 evidence rule.
-- The lymphoma candidates (Hodgkin's, non-Hodgkin) are supported by numerous completed Phase 2 trials and RCT-level literature (MATRix, MARIETTA, MARTA), but this reflects an already-established clinical use (transplant conditioning) rather than a novel repurposing signal — still useful for guardrail-based monitoring rather than a new-indication filing.
-- Lymphosarcoma's evidence set duplicates the non-Hodgkin lymphoma results almost entirely due to obsolete-term mapping and should not be counted as independent corroboration.
+**Rasional:**
+- Ramalan teratas model (karsinoma sel transisional bukan papiler kandung kencing) tiada ujian sokongan atau literatur dalam pakej ini — munasabah dari segi mekanik tetapi pada masa kini tidak dapat disahkan, jadi ia tetap pada Tahan bagi peraturan bukti L5.
+- Calon limfoma (Hodgkin, bukan-Hodgkin) disokong oleh banyak ujian Fasa 2 yang selesai dan literatur peringkat RCT (MATRix, MARIETTA, MARTA), tetapi ini mencerminkan penggunaan klinikal yang sudah dikenal pasti (pengkondisian pemindahan) daripada isyarat pemeravuan novel — masih berguna untuk pemantauan berasaskan pengawal daripada pemfailan petunjukan baru.
+- Bukti limfosarkoma yang ditetapkan menduplikat hasil limfoma bukan-Hodgkin hampir sepenuhnya disebabkan oleh pemetaan istilah usang dan tidak boleh dikira sebagai pengesahan bebas.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert warnings, contraindications, and DDI data (Blocking gap, DG001)
-- Confirmed mechanism of action from DrugBank (High-severity gap, DG002)
-- Subtype-specific evidence for ovarian clear cell adenocarcinoma (current data is drawn from unselected epithelial ovarian cancer populations)
-- De-duplication of the Hodgkin's/non-Hodgkin lymphoma/lymphosarcoma evidence sets before any formal evidence-level upgrade
-- Original (pre-repurposing) indication text from NPRA licensing records, currently missing from this dataset
+**Untuk meneruskan, yang berikut diperlukan:**
+- Amaran sisipan paket TFDA/NPRA, kontraindikasi, dan data DDI (Jurang Penyekat, DG001)
+- Mekanisme tindakan yang disahkan daripada DrugBank (Jurang keterukan tinggi, DG002)
+- Bukti khusus subkelas untuk adenokarsinoma sel jernih ovarium (data semasa diambil daripada populasi kanser ovarium epitelial yang tidak terpilih)
+- Pengurangan pendua set bukti Hodgkin/limfoma bukan-Hodgkin/limfosarkoma sebelum mana-mana naik taraf tahap bukti formal
+- Teks petunjukan asal (pra-pemeravuan) daripada rekod pelesenan NPRA, pada masa kini hilang daripada set data ini
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

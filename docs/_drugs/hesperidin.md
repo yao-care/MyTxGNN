@@ -29,63 +29,64 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-# Hesperidin: From Unspecified Original Indication to Myeloproliferative Neoplasm
+# Hesperidin: Daripada Petunjuk Asal Yang Tidak Ditakrifkan kepada Neoplasma Mieloproliferatif
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Hesperidin is a citrus-derived bioflavonoid marketed in Malaysia under 53 NPRA registrations; the specific approved indication text was not captured in this data pull, though bioflavonoids of this class are typically marketed for capillary fragility/vascular support. The TxGNN model predicts potential relevance to **myeloproliferative neoplasm**, but this is currently supported only by **0 clinical trials** and **2 preclinical (in silico/in vitro) publications**, with the mechanistic link explicitly noted as non-specific to known MPN pathophysiology (JAK2/CALR/MPL pathways).
+Hesperidin adalah bioflavonoid yang berasal daripada sitrus dan dipasarkan di Malaysia di bawah 53 pendaftaran NPRA; teks petunjuk kelulusan khusus tidak ditangkap dalam tarikan data ini, walaupun bioflavonoid daripada kelas ini biasanya dipasarkan untuk kerapuhan kapilari/sokongan vaskular. Model TxGNN meramalkan potensi relevan kepada **neoplasma mieloproliferatif**, tetapi ini pada masa ini disokong hanya oleh **0 ujian klinikal** dan **2 penerbitan praklinical (in silico/in vitro)**, dengan pautan mekanistik dengan jelas dicatat sebagai bukan spesifik kepada patofisiologi MPN yang diketahui (laluan JAK2/CALR/MPL).
 
-## Quick Overview
+## Tinjauan Singkat
 
-| Item | Content |
-|------|------|
-| Original Indication | Not disclosed in NPRA registration records pulled (Hesperidin is a bioflavonoid commonly marketed OTC for capillary fragility/chronic venous insufficiency) |
-| Predicted New Indication | Myeloproliferative Neoplasm |
-| TxGNN Prediction Score | 99.47% |
-| Evidence Level | L4 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 53 |
-| Recommended Decision | Hold |
+| Perkara | Kandungan |
+|------|----------|
+| Petunjuk Asal | Tidak didedahkan dalam rekod pendaftaran NPRA yang ditarik (Hesperidin adalah bioflavonoid sitrus yang biasanya dipasarkan tanpa preskripsi untuk kerapuhan kapilari/ketidakcukupan vena kronik) |
+| Petunjuk Baru yang Diramalkan | Neoplasma Mieloproliferatif |
+| Skor Ramalan TxGNN | 99.47% |
+| Tahap Bukti | L4 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 53 |
+| Keputusan yang Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Masuk Akal?
 
-Currently, detailed mechanism of action data is not available for Hesperidin in this evidence pack. Based on known information, Hesperidin is a citrus flavonoid glycoside (aglycone: hesperetin), commonly used in vascular-health and antioxidant supplement formulations; its efficacy in its typical use context is not itself supported by data in this pack, so the connection to a new oncologic/hematologic indication cannot be evaluated against a confirmed original indication.
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia untuk Hesperidin dalam pakej bukti ini. Berdasarkan maklumat yang diketahui, Hesperidin adalah flavonoid glikosida sitrus (aglikon: hesperetin), biasanya digunakan dalam formulasi suplemen kesihatan vaskular dan antioksidan; keberkesanannya dalam konteks penggunaan tipikal tidak disokong oleh data dalam pakej ini, jadi sambungan kepada petunjuk onkologi/hematologi yang baru tidak dapat dinilai terhadap petunjuk asal yang disahkan.
 
-The supporting literature for myeloproliferative neoplasm is indirect: one in silico study explores hesperetin-related scaffolds against the BCR kinase domain in chronic myeloid leukemia drug-resistance screening, and one 2025 in vitro study shows hesperetin (the aglycone, not hesperidin itself) modulates membrane progesterone receptor expression and reduces ROS in myeloid leukemia cell lines. Neither study addresses MPN-defining drivers (JAK2 V617F, CALR, MPL mutations), so the biological rationale is a generic antiproliferative/antioxidant extrapolation rather than a disease-specific mechanistic hypothesis.
+Kesusasteraan sokongan untuk neoplasma mieloproliferatif adalah tidak langsung: satu kajian in silico meneroka perancah berkaitan hesperetin terhadap domain kinase BCR dalam penyaringan rintangan ubat leukemia mieloid kronik, dan satu kajian in vitro 2025 menunjukkan hesperetin (aglikon, bukan hesperidin itu sendiri) mengubahsuai ekspresi reseptor progesteron membran dan mengurangkan ROS dalam garis sel leukemia mieloid. Tiada kajian menangani pemandu penentu MPN (mutasi JAK2 V617F, CALR, MPL), jadi asas biologi adalah ekstrapolasi antiproliferatif/antioksidan generik daripada hipotesis mekanistik spesifik penyakit.
 
-Notably, a separate literature signal (PMID 14505793, rank 2 candidate) reports that rutinoside glycosylation at the C7 position — the exact structural feature that distinguishes hesperidin from its more active aglycone hesperetin — *attenuates* apoptosis-inducing activity in leukemia cells. This is a cautionary signal rather than supportive evidence, and it should temper enthusiasm for hesperidin (as opposed to hesperetin) specifically.
+Terutama, isyarat kesusasteraan berasingan (PMID 14505793, calon peringkat 2) melaporkan bahawa glikosidasi rutinosida pada kedudukan C7 — ciri struktur tepat yang membezakan hesperidin daripada aglikon hesperetin yang lebih aktif — *melemahkan* aktiviti pemicu apoptosis dalam sel leukemia. Ini adalah isyarat berhati-hati dan bukannya bukti sokongan, dan ia harus melembapkan antusiasme untuk hesperidin (bertentangan dengan hesperetin) khususnya.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-Currently no related clinical trials registered.
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [40751800](https://pubmed.ncbi.nlm.nih.gov/40751800/) | 2025 | In Vitro | Medical Oncology (Northwood, London, England) | Hesperetin increased membrane progesterone receptor expression and reduced ROS in human myeloid leukemia cells |
-| [31759365](https://pubmed.ncbi.nlm.nih.gov/31759365/) | 2019 | In Silico | Asian Pacific Journal of Cancer Prevention (APJCP) | In silico drug-repurposing screen targeting the BCR kinase domain / Grb-2 interaction in chronic myeloid leukemia to address TKI resistance |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-------|-------|--------|-----------|
+| [40751800](https://pubmed.ncbi.nlm.nih.gov/40751800/) | 2025 | In Vitro | Medical Oncology (Northwood, London, England) | Hesperetin meningkatkan ekspresi reseptor progesteron membran dan mengurangkan ROS dalam sel leukemia mieloid manusia |
+| [31759365](https://pubmed.ncbi.nlm.nih.gov/31759365/) | 2019 | In Silico | Asian Pacific Journal of Cancer Prevention (APJCP) | Penyaringan ubat-ubatan yang dirancang semula in silico yang menargetkan domain kinase BCR / interaksi Grb-2 dalam leukemia mieloid kronik untuk menangani rintangan TKI |
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-License-level details (product names, dosage forms, manufacturers, and approved indication text) were not captured for the 53 NPRA registrations in this data pull. Market status is confirmed as **Marketed (Marketed)** with a total of **53 registrations**, but no individual license records are available to tabulate.
+Butiran tahap lesen (nama produk, bentuk dos, pengeluar, dan teks petunjuk yang diluluskan) tidak ditangkap untuk 53 pendaftaran NPRA dalam tarikan data ini. Status pasaran disahkan sebagai **Dipasarkan (Dipasarkan)** dengan jumlah keseluruhan **53 pendaftaran**, tetapi tiada rekod lesen individu tersedia untuk dijadualkan.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information. Note: this data pack flags a **Blocking** data gap for TFDA/NPRA label warnings and contraindications — this must be resolved before any safety assessment (S1 stage) can proceed.
+Sila rujuk prospektus ubat untuk maklumat keselamatan. Catatan: pakej data ini menandai jurang data **Penghalang** untuk amaran label TFDA/NPRA dan kontraindikasi — ini mesti diselesaikan sebelum sebarang penilaian keselamatan (peringkat S1) dapat diteruskan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-Evidence is limited to two preclinical studies on the aglycone (hesperetin), not hesperidin itself, with no clinical trials and no mechanistic link specific to MPN pathophysiology. One available structure-activity study suggests hesperidin's glycosylation may actually *reduce* the relevant bioactivity compared to its aglycone, which weakens rather than supports the case for further investment at this time.
+**Rasional:**
+Bukti terbatas kepada dua kajian praklinical pada aglikon (hesperetin), bukan hesperidin itu sendiri, tanpa ujian klinikal dan tiada pautan mekanistik spesifik kepada patofisiologi MPN. Satu kajian aktiviti struktur tersedia menunjukkan glikosidasi hesperidin mungkin sebenarnya *kurangkan* bioaktiviti yang relevan dibandingkan dengan aglikon itu, yang melemahkan daripada menyokong kes untuk pelaburan lebih lanjut pada masa ini.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert (warnings, contraindications) — currently a Blocking data gap
-- Confirmed original indication and DrugBank MOA data for Hesperidin
-- Preclinical studies evaluating hesperidin (not just hesperetin) against MPN-relevant models (JAK2/CALR/MPL pathways)
-- Clarification of whether the hesperidin formulations marketed in Malaysia are dosed/bioavailable at levels relevant to any oncologic effect
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Prospektus ubat TFDA/NPRA (amaran, kontraindikasi) — pada masa ini jurang data Penghalang
+- Petunjuk asal yang disahkan dan data MOA DrugBank untuk Hesperidin
+- Kajian praklinical menilai hesperidin (bukan hanya hesperetin) terhadap model berkaitan MPN (laluan JAK2/CALR/MPL)
+- Penjelasan sama ada formulasi hesperidin yang dipasarkan di Malaysia adalah didoskan/bioavailable pada tahap yang relevan kepada sebarang kesan onkologi
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

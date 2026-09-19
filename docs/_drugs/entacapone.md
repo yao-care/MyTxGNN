@@ -29,74 +29,75 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Entacapone: From Parkinson's Disease to Juvenile Onset Parkinson Disease 19A
+# Entakapone: Daripada Penyakit Parkinson kepada Penyakit Parkinson Bermula Pada Usia Muda 19A
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Entacapone is a peripheral COMT inhibitor used as an adjunct to levodopa/carbidopa in Parkinson's disease, marketed in Malaysia across 11 registrations. The TxGNN model's top-ranked prediction for this candidate points to **Juvenile Onset Parkinson Disease 19A (PARK19A)**, a rare genetic Parkinsonism subtype, but this direction is currently supported by **0 clinical trials** and **0 publications** — the rationale is a mechanistic extrapolation only.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Parkinson's disease, as adjunct to levodopa/carbidopa (per evidence-pack rationale; NPRA label indication text was not populated in this data pull — see Malaysia Market Information) |
-| Predicted New Indication | Juvenile Onset Parkinson Disease 19A (PARK19A) |
-| TxGNN Prediction Score | 0.00% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 11 |
-| Recommended Decision | Hold |
+Entakapone adalah perencat COMT periferi yang digunakan sebagai agen tambahan kepada levodopa/carbidopa dalam penyakit Parkinson, dipasarkan di Malaysia melalui 11 pendaftaran. Model TxGNN yang menduduki kedudukan tertinggi untuk calon ini menunjukkan kepada **Penyakit Parkinson Bermula Pada Usia Muda 19A (PARK19A)**, sejenis sub-jenis Parkinsonisme genetik yang jarang, tetapi arah ini kini disokong oleh **0 ujian klinis** dan **0 penerbitan** — rasional ialah ekstrapolasi mekanistik sahaja.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Cepat
 
-The drug-level MOA field in this evidence pack is marked as a data gap (DG002), so DrugBank-verified mechanism data is not yet available. However, the evidence pack's own repurposing rationale (attached to the "Parkinson disease" candidate in this bundle) describes entacapone as a peripherally-acting, selective COMT (catechol-O-methyltransferase) inhibitor: it blocks the conversion of levodopa to 3-O-methyldopa in the gut/plasma, prolonging levodopa's plasma half-life and central availability when co-administered with levodopa/carbidopa.
-
-PARK19A is a rare, early-onset hereditary parkinsonism caused by *DNAJC6* mutations. The mechanistic link proposed for this candidate is that patients with this genetic subtype who are treated with levodopa and who develop motor fluctuations ("wearing-off") could theoretically benefit from entacapone's levodopa-sparing effect, by the same general pharmacological logic used in idiopathic Parkinson's disease.
-
-This is explicitly flagged in the evidence pack as an extrapolation from general PD pharmacology rather than a finding specific to PARK19A — there is no disease-specific mechanistic or pharmacological study behind it, which is why the evidence level is rated L5 (model prediction only, no actual studies).
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Penyakit Parkinson, sebagai agen tambahan kepada levodopa/carbidopa (mengikut rasional paket bukti; teks petunjuk label NPRA tidak diisi dalam pengumpulan data ini — lihat Maklumat Pasaran Malaysia) |
+| Petunjuk Baru yang Diramalkan | Penyakit Parkinson Bermula Pada Usia Muda 19A (PARK19A) |
+| Skor Ramalan TxGNN | 0.00% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Marketed) |
+| Bilangan Pendaftaran | 11 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available.
+Medan MOA peringkat ubat dalam paket bukti ini ditandai sebagai jurang data (DG002), jadi data mekanisme yang disahkan DrugBank belum tersedia. Walau bagaimanapun, rasional peubahan tujuan paket bukti sendiri (yang dilampirkan pada calon "penyakit Parkinson" dalam ikatan ini) menggambarkan entakapone sebagai perencat COMT (catechol-O-methyltransferase) periferi yang bertindak selektif: ia menyekat penukaran levodopa kepada 3-O-methyldopa dalam usus/plasma, memanjangkan separuh hayat plasma levodopa dan ketersediaan pusat apabila co-pentadbiran dengan levodopa/carbidopa.
 
----
+PARK19A adalah parkinsonisme warisan peringkat awal yang jarang disebabkan oleh mutasi *DNAJC6*. Pautan mekanistik yang dicadangkan untuk calon ini ialah bahawa pesakit dengan sub-jenis genetik ini yang dirawat dengan levodopa dan yang mengalami turun naik motor ("haus keluar") secara teorinya boleh mendapat manfaat daripada kesan penyelamatan levodopa entakapone, dengan logik farmakologi umum yang sama yang digunakan dalam penyakit Parkinson idiopatik.
 
-## Malaysia Market Information
-
-Entacapone holds **11 NPRA registrations** and is currently **Marketed** in Malaysia. Detailed license-level records (authorization numbers, product names, dosage forms, approved indication text) were not populated in this data pull, so a per-license table cannot be produced without guessing values.
+Ini secara eksplisit ditandai dalam paket bukti sebagai ekstrapolasi daripada farmakologi PD umum dan bukannya penemuan khusus untuk PARK19A — tidak ada kajian mekanistik atau farmakologi khusus penyakit di belakangnya, itulah sebabnya tahap bukti dinilai L5 (ramalan model sahaja, tiada kajian sebenar).
 
 ---
 
-## Safety Considerations
+## Bukti Ujian Klinis
 
-Please refer to the package insert for safety information. (Key warnings, contraindications, and drug-interaction data were not available in this data pull — obtaining the NPRA/TFDA package insert is flagged as a Blocking data gap, DG001, required before any safety pre-screening can proceed.)
+Kini tiada ujian klinis terkait yang didaftarkan.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Kesusasteraan
 
-**Decision: Hold**
+Kini tiada kesusasteraan terkait tersedia.
 
-**Rationale:**
-No clinical trials or published literature currently support entacapone use in PARK19A specifically; the only basis is a general mechanistic extrapolation from standard levodopa-adjunct therapy in idiopathic Parkinson's disease, applied to an ultra-rare genetic subtype with a fundamentally different, structurally-driven disease process.
+---
 
-**To proceed, the following is needed:**
-- NPRA/TFDA package insert (warnings, contraindications) — currently a Blocking gap (DG001)
-- Verified mechanism-of-action data from DrugBank (DG002)
-- Any case reports, registries, or genetic-subtype-specific pharmacological data on levodopa/COMT-inhibitor response in PARK19A patients
-- Note for context: within this same candidate bundle, the "Parkinson disease" prediction (rank 3) carries strong L1 evidence (multiple completed Phase 3/4 RCTs), but that reflects entacapone's already-approved indication rather than a novel repurposing opportunity — it should not be conflated with the PARK19A hypothesis addressed in this report.
+## Maklumat Pasaran Malaysia
+
+Entakapone memegang **11 pendaftaran NPRA** dan kini **Dipasarkan** di Malaysia. Rekod tahap lesen terperinci (nombor kebenaran, nama produk, bentuk dos, teks petunjuk yang diluluskan) tidak diisi dalam pengumpulan data ini, jadi jadual peringkat lesen tidak dapat dihasilkan tanpa meneka nilai.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan paket untuk maklumat keselamatan. (Data amaran utama, kontraindikasi, dan interaksi ubat tidak tersedia dalam pengumpulan data ini — mendapatkan sisipan paket NPRA/TFDA ditandai sebagai jurang data Menyekat, DG001, diperlukan sebelum sebarang pemeriksaan pra-keselamatan boleh diteruskan.)
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Tiada ujian klinis atau kesusasteraan yang diterbitkan kini menyokong penggunaan entakapone dalam PARK19A khususnya; satu-satunya asas ialah ekstrapolasi mekanistik umum daripada terapi agen tambahan levodopa piawai dalam penyakit Parkinson idiopatik, digunakan pada sub-jenis genetik ultra-jarang dengan proses penyakit yang pada asasnya berbeza, didorong oleh struktur.
+
+**Untuk meneruskan, berikut diperlukan:**
+- Sisipan paket NPRA/TFDA (amaran, kontraindikasi) — kini jurang yang Menyekat (DG001)
+- Data mekanisme tindakan yang disahkan daripada DrugBank (DG002)
+- Sebarang laporan kes, pendaftar, atau data farmakologi khusus sub-jenis genetik tentang tindak balas levodopa/perencat COMT dalam pesakit PARK19A
+- Nota untuk konteks: dalam ikatan calon yang sama ini, ramalan "penyakit Parkinson" (kedudukan 3) membawa bukti L1 yang kuat (berbilang ujian RCT Fasa 3/4 yang selesai), tetapi itu mencerminkan petunjuk yang sudah diluluskan entakapone dan bukannya peluang peubahan tujuan novel — ia tidak boleh diruwetkan dengan hipotesis PARK19A yang dialamatkan dalam laporan ini.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

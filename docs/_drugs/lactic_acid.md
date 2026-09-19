@@ -29,62 +29,63 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Lactic Acid: From Undocumented Original Indication to Atypical Coarctation of Aorta
+# Asid Laktik: Dari Indikasi Asal yang Tidak Terdokumen kepada Koarktasi Aorta Atipik
 
-## One-Sentence Summary
+## Ringkasan Satu Kalimat
 
-Lactic Acid (DrugBank DB04398) is marketed in Malaysia under 7 registrations, but no original approved indication text was returned in this data pull. The TxGNN model's top-ranked prediction is **Atypical Coarctation of Aorta** (score 99.59%), but this specific prediction has **zero supporting clinical trials and zero literature**, and the model's own rationale states there is no known biological mechanism by which lactic acid could affect this congenital structural defect.
+Asid Laktik (DrugBank DB04398) dipasarkan di Malaysia di bawah 7 pendaftaran, tetapi tiada teks indikasi asal yang diluluskan dikembalikan dalam pengambilan data ini. Ramalan model TxGNN yang berada di tempat teratas ialah **Koarktasi Aorta Atipik** (skor 99.59%), tetapi ramalan spesifik ini mempunyai **sifar ujian klinikal yang menyokong dan sifar literatur**, dan rasional model itu sendiri menyatakan tiada mekanisme biologi yang diketahui dengan mana asid laktik boleh mempengaruhi kecacatan struktur bawaan ini.
 
-## Quick Overview
+## Gambaran Ringkas
 
-| Item | Content |
-|------|------|
-| Original Indication | Not available — no approved indication text on file for any of the 7 NPRA registrations |
-| Predicted New Indication | Atypical Coarctation of Aorta |
-| TxGNN Prediction Score | 99.59% |
-| Evidence Level | L5 (model prediction only, no supporting studies) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 7 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Tidak tersedia — tiada teks indikasi yang diluluskan pada fail untuk mana-mana daripada 7 pendaftaran NPRA |
+| Indikasi Baru yang Diramalkan | Koarktasi Aorta Atipik |
+| Skor Ramalan TxGNN | 99.59% |
+| Tahap Bukti | L5 (ramalan model sahaja, tiada kajian yang menyokong) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 7 |
+| Keputusan yang Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Mechanism of action data is not available for lactic acid in this evidence pack.
+Data mekanisme tindakan tidak tersedia untuk asid laktik dalam pakej bukti ini.
 
-For this specific candidate, the evidence pack itself concludes the prediction is **not** mechanistically reasonable: atypical coarctation of the aorta is a structural congenital malformation, and lactic acid — a small-molecule metabolite — has no known mechanism to repair or remodel anatomical structure. The high TxGNN score (99.59%) appears to reflect a graph-level association (e.g. shared nodes/co-occurrence in the knowledge graph) rather than a genuine pharmacological or clinical relationship. No clinical trials or literature were found to support this specific drug–disease pairing.
+Untuk calon spesifik ini, pakej bukti itu sendiri membuat kesimpulan bahawa ramalan **bukan** munasabah dari segi mekanisme: koarktasi aorta atipik ialah kecacatan struktur bawaan, dan asid laktik — suatu metabolit molekul kecil — tidak mempunyai mekanisme yang diketahui untuk memperbaiki atau membentuk semula struktur anatomi. Skor TxGNN yang tinggi (99.59%) nampaknya mencerminkan persatuan tahap graf (cth. nod bersama/ko-kejadian dalam graf pengetahuan) dan bukannya hubungan farmakologi atau klinikal yang tulen. Tiada ujian klinikal atau literatur dijumpai untuk menyokong pasangan ubat–penyakit spesifik ini.
 
-Note that lower-ranked predictions in this pack fared somewhat better on evidence: rank 2 ("aortic malformation") surfaced 9 trials and 20 publications, but reviewers judged all of them as node co-occurrence rather than genuine mechanistic support (lactate appears there only as a perfusion/ischemia biomarker, not a treatment). Rank 5 ("dry eye syndrome") reached decision stage S1 ("Research Question") — lactic acid has plausible relevance there as a humectant excipient in some artificial tear formulations, though literature also shows lactate signaling can *promote* inflammation in Sjögren's-type dry eye, so the mechanistic direction is unresolved.
+Ambil perhatian bahawa ramalan berperingkat lebih rendah dalam pakej ini mencapai hasil yang agak lebih baik dalam bukti: peringkat 2 ("ketaksamaan aortik") mengubah 9 ujian dan 20 penerbitan, tetapi penilai menilai semua daripada mereka sebagai ko-kejadian nod dan bukannya sokongan mekanisme tulen (laktik muncul di sana hanya sebagai biopenanda perfusi/iskemia, bukan rawatan). Peringkat 5 ("sindrom mata kering") mencapai tahap keputusan S1 ("Soalan Penyelidikan") — asid laktik mempunyai kaitan yang munasabah di sana sebagai bahan pelembab tambahan dalam beberapa formulasi air mata tiruan, walaupun literatur juga menunjukkan isyarat laktate boleh *mempromosikan* keradangan dalam mata kering jenis Sjögren, jadi arah mekanisme tidak dapat diselesaikan.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-Currently no related clinical trials registered.
+Pada masa ini tiada ujian klinikal terdaftar yang berkaitan.
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no related literature available.
+Pada masa ini tiada literatur yang berkaitan tersedia.
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-NPRA records show 7 active registrations for Lactic Acid (market status: Marketed / Marketed), but license-level details (license number, product name, dosage form, manufacturer, approved indication text) were not returned in this data pull — all fields came back empty. This needs to be re-queried from the NPRA source before any regulatory comparison can be made.
+Rekod NPRA menunjukkan 7 pendaftaran aktif untuk Asid Laktik (status pasaran: Dipasarkan / Dipasarkan), tetapi maklumat peringkat lesen (nombor lesen, nama produk, bentuk dos, pengilang, teks indikasi yang diluluskan) tidak dikembalikan dalam pengambilan data ini — semua medan datang kembali kosong. Ini perlu disiasat semula daripada sumber NPRA sebelum sebarang perbandingan regulasi boleh dibuat.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk lembaran maklumat produk untuk maklumat keselamatan.
 
-*(Note: TFDA/NPRA label warnings and contraindications are flagged as a Blocking data gap (DG001) — this must be resolved before any safety screening (S1) can proceed for this drug, regardless of which indication is pursued.)*
+*(Nota: Amaran label TFDA/NPRA dan kontraindikasi ditandakan sebagai jurang data yang menghalang (DG001) — ini mesti diselesaikan sebelum sebarang pemeriksaan keselamatan (S1) boleh diteruskan untuk ubat ini, tanpa mengira indikasi mana yang diikuti.)*
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The top-ranked predicted indication (Atypical Coarctation of Aorta) has no clinical trials, no literature, and an explicitly acknowledged lack of mechanistic plausibility — it is an L5, model-prediction-only signal that should not advance. Regulatory safety data is also a Blocking gap, so this candidate cannot yet clear even an initial safety screen.
+**Rasional:**
+Indikasi yang diramalkan berperingkat teratas (Koarktasi Aorta Atipik) tiada ujian klinikal, tiada literatur, dan kekurangan kejelasan mekanisme yang diakui dengan jelas — ia adalah isyarat L5, ramalan model sahaja yang tidak seharusnya maju. Data keselamatan regulasi juga merupakan jurang yang menghalang, jadi calon ini belum boleh membersihkan pemeriksaan keselamatan awal (S1).
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert (warnings, contraindications) — Blocking gap (DG001)
-- Drug mechanism of action (MOA) data via DrugBank — High-priority gap (DG002)
-- NPRA license-level details (product names, dosage forms, approved indications) for the 7 existing registrations
-- If a repurposing signal is still wanted for this drug, re-evaluate rank 5 (dry eye syndrome) instead, which reached S1/"Research Question" status with some biological rationale, rather than the top-ranked but mechanistically unsupported aortic prediction
+**Untuk meneruskan, yang berikut diperlukan:**
+- Lembaran maklumat produk TFDA/NPRA (amaran, kontraindikasi) — Jurang yang menghalang (DG001)
+- Data mekanisme tindakan ubat (MOA) melalui DrugBank — Jurang keutamaan tinggi (DG002)
+- Maklumat peringkat lesen NPRA (nama produk, bentuk dos, indikasi yang diluluskan) untuk 7 pendaftaran sedia ada
+- Jika isyarat penyalahgunaan semula masih dikehendaki untuk ubat ini, nilaikan semula peringkat 5 (sindrom mata kering) sebagai gantinya, yang mencapai status S1/"Soalan Penyelidikan" dengan beberapa rasional biologi, dan bukannya ramalan berperingkat teratas tetapi mekanisme aorta yang tidak disokong
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

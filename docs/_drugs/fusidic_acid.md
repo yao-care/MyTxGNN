@@ -29,62 +29,69 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Fusidic Acid: From Staphylococcal Infection to Ornithosis
+# Fusidic Acid: Daripada Jangkitan Stafilokokus hingga Ornithosis
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Fusidic Acid (DrugBank DB02703) is a long-established antistaphylococcal antibiotic marketed in Malaysia under 38 registrations. The TxGNN model's top-ranked new indication, **Ornithosis** (psittacosis), carries a **prediction score of 0%** and is supported by **0 clinical trials** and **0 publications** — the model output itself flags this as a weak, unsupported association rather than a promising repurposing lead.
+Fusidic Acid (DrugBank DB02703) adalah antibiotik anti-stafilokokus mapan yang dipasarkan di Malaysia di bawah 38 pendaftaran. Indikasi baru berperingkat teratas daripada model TxGNN, **Ornithosis** (psittacosis), mempunyai **skor ramalan 0%** dan disokong oleh **0 ujian klinis** serta **0 penerbitan** — keluaran model itu sendiri menandai ini sebagai perhubungan yang lemah dan tanpa sokongan, bukan sebagai calon penemuan semula ubat yang menjanjikan.
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | Not specified in evidence pack (no non-empty `approved_indication_text` in the 5 license records provided) |
-| Predicted New Indication | Ornithosis |
-| TxGNN Prediction Score | 0% |
-| Evidence Level | L5 (model prediction only, no supporting studies) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 38 |
-| Recommended Decision | Hold |
+| Perkara | Kandungan |
+|--------|-----------|
+| Indikasi Asal | Tidak dinyatakan dalam bungkusan bukti (tiada `approved_indication_text` yang tidak kosong dalam 5 rekod lesen yang disediakan) |
+| Indikasi Baru yang Diramalkan | Ornithosis |
+| Skor Ramalan TxGNN | 0% |
+| Tahap Bukti | L5 (ramalan model sahaja, tiada kajian sokongan) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 38 |
+| Keputusan Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Masuk Akal?
 
-Currently, detailed mechanism of action data is not available (flagged in the evidence pack as a High-severity data gap). Based on general pharmacological knowledge, fusidic acid inhibits bacterial protein synthesis by blocking elongation factor G (EF-G)-mediated ribosomal translocation, and its established antibacterial activity is concentrated against Gram-positive organisms, particularly *Staphylococcus aureus*.
+Pada masa ini, data mekanisme tindakan yang terperinci tidak tersedia (ditandai dalam bungkusan bukti sebagai jurang data keparahan tinggi).
 
-Ornithosis (psittacosis) is caused by *Chlamydia psittaci*, an obligate intracellular pathogen structurally and mechanistically distant from the Gram-positive bacteria fusidic acid is known to target. The standard treatment class for this pathogen is tetracyclines, not fusidic acid. The evidence pack's own mechanistic rationale for this candidate explicitly states the link is weak, with no clinical or literature support identified.
+Berdasarkan pengetahuan farmakologi umum, fusidic acid menghambat sintesis protein bakteria dengan menyekat translokasi ribosom yang dimediasi oleh faktor pemanjangan G (EF-G), dan aktiviti antibakteria yang diketahuinya tertumpu pada organisma Gram-positif, terutamanya *Staphylococcus aureus*.
 
-Across all five TxGNN-ranked candidates in this pack (ornithosis, superior limbic keratoconjunctivitis, cholera, gastrointestinal anthrax, typhus), every prediction score is 0%, every evidence level is L5, and every recommendation is Hold. Only "gastrointestinal anthrax" (rank 4) has a plausible mechanistic rationale (Gram-positive *Bacillus anthracis* falls within fusidic acid's known spectrum), but even that candidate has zero supporting trials or literature. This pattern indicates the model output for this drug is currently exploratory only, not evidence-backed.
+Ornithosis (psittacosis) disebabkan oleh *Chlamydia psittaci*, patogen intraseluler wajib yang secara struktur dan mekanisme jauh berbeza daripada bakteria Gram-positif yang merupakan sasaran fusidic acid. Kelas rawatan piawai untuk patogen ini adalah tetrasiklin, bukan fusidic acid. Rasional mekanistik bungkusan bukti itu sendiri untuk calon ini secara jelas menyatakan perhubungan itu lemah, tanpa sokongan klinis atau kesusasteraan yang dikenal pasti.
 
-## Clinical Trial Evidence
+Melintasi kesemua lima calon berperingkat TxGNN dalam bungkusan ini (ornithosis, superior limbic keratoconjunctivitis, cholera, gastrointestinal anthrax, typhus), setiap skor ramalan ialah 0%, setiap tahap bukti ialah L5, dan setiap cadangan ialah Tahan. Hanya "gastrointestinal anthrax" (peringkat 4) yang mempunyai rasional mekanistik yang munasabah (*Bacillus anthracis* Gram-positif jatuh dalam spektrum aktiviti diketahui fusidic acid), tetapi calon itu pun tidak mempunyai ujian atau kesusasteraan sokongan. Corak ini menunjukkan bahawa keluaran model untuk ubat ini pada masa ini hanyalah penerokaan, tanpa sokongan bukti.
 
-Currently no related clinical trials registered.
+## Bukti Ujian Klinis
 
-## Literature Evidence
+Pada masa ini tiada ujian klinis berkaitan yang didaftar.
 
-Currently no related literature available for the top-ranked indication (Ornithosis).
+## Bukti Kesusasteraan
 
-*Note: two PubMed records were retrieved for the lower-ranked "cholera" candidate (PMID [31762145](https://pubmed.ncbi.nlm.nih.gov/31762145/), a structural/basic-science study of chloramphenicol acetyltransferases in *Vibrio*, and PMID [15950082](https://pubmed.ncbi.nlm.nih.gov/15950082/), a molecular epidemiology study of *Shigella dysenteriae*), but neither directly studies fusidic acid treatment of cholera, and both are Tier 3 (basic science/epidemiology, not clinical efficacy) evidence.*
+Pada masa ini tiada kesusasteraan berkaitan tersedia untuk indikasi berperingkat teratas (Ornithosis).
 
-## Malaysia Market Information
+*Nota: Dua rekod PubMed telah diperoleh untuk calon "cholera" berperingkat lebih rendah (PMID [31762145](https://pubmed.ncbi.nlm.nih.gov/31762145/), kajian sains struktur/asas tentang chloramphenicol acetyltransferases dalam *Vibrio*, dan PMID [15950082](https://pubmed.ncbi.nlm.nih.gov/15950082/), kajian epidemiologi molekul *Shigella dysenteriae*), tetapi kedua-duanya tidak secara langsung mengkaji rawatan cholera dengan fusidic acid, dan kedua-duanya merupakan bukti Tier 3 (sains asas/epidemiologi, bukan keberkesanan klinis).*
 
-NPRA records show 38 total registrations with active marketed status, but individual authorisation details (registration number, product name, dosage form, approved indication text) were not populated in this evidence pack — all 5 sampled license records contain empty fields. This should be resolved before any regulatory-facing use of this report.
+## Maklumat Pasaran Malaysia
 
-## Safety Considerations
+Rekod NPRA menunjukkan 38 jumlah pendaftaran dengan status pasaran aktif, tetapi butiran kebenaran individu (nombor pendaftaran, nama produk, bentuk dos, teks indikasi yang diluluskan) tidak diisikan dalam bungkusan bukti ini — kesemua 5 rekod lesen sampel mengandungi medan kosong.
 
-Please refer to the package insert for safety information. (Key warnings, contraindications, and drug interaction data are flagged as data gaps in this evidence pack — notably DG001, a Blocking-severity gap on TFDA/NPRA label warnings and contraindications, which prevents safety pre-screening.)
+Ini perlu diselesaikan sebelum laporan ini digunakan untuk tujuan kawal selia.
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila rujuk sisipan bungkusan untuk maklumat keselamatan. (Amaran kunci, kontraindikasi, dan data interaksi ubat ditandai sebagai jurang data dalam bungkusan bukti ini — terutamanya DG001, jurang pemblokiran pada amaran dan kontraindikasi label TFDA/NPRA, yang menghalang penyaringan keselamatan awal.)
 
-**Rationale:**
-The top-ranked predicted indication (Ornithosis) has a 0% TxGNN score, L5 evidence (model prediction only), no clinical trials, no literature, and an explicitly weak mechanistic rationale. All four other ranked candidates in this pack share the same pattern. There is currently no basis to advance this candidate past initial screening.
+## Kesimpulan dan Langkah Seterusnya
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert data (warnings, contraindications) — currently a Blocking data gap (DG001)
-- Confirmed mechanism of action from DrugBank — currently a High-severity data gap (DG002)
-- Complete license/indication text for the 38 Malaysia registrations (all 5 sampled records were empty)
-- If this candidate is to be pursued further, targeted literature/preclinical search specifically on fusidic acid activity against *Chlamydia psittaci* (none found to date)
+**Keputusan: Tahan**
+
+**Rasional:**
+
+Indikasi berperingkat teratas yang diramalkan (Ornithosis) mempunyai skor TxGNN 0%, bukti L5 (ramalan model sahaja), tiada ujian klinis, tiada kesusasteraan, dan rasional mekanistik yang lemah. Kesemua empat calon berperingkat lain dalam bungkusan ini menunjukkan corak yang sama. Pada masa ini tiada asas untuk memajukan calon ini melepasi penyaringan awal.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+
+- Data sisipan bungkusan TFDA/NPRA (amaran, kontraindikasi) — pada masa ini jurang pemblokiran (DG001)
+- Mekanisme tindakan yang disahkan daripada DrugBank — pada masa ini jurang data keparahan tinggi (DG002)
+- Teks lesen/indikasi lengkap untuk 38 pendaftaran Malaysia (kesemua 5 rekod sampel kosong)
+- Jika calon ini akan diusul lebih lanjut, carian kesusasteraan/praklinis yang ditargetkan khususnya mengenai aktiviti fusidic acid terhadap *Chlamydia psittaci* (belum ada yang ditemui sejauh ini)
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

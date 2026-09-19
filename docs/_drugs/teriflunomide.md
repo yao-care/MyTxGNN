@@ -29,95 +29,96 @@ Tahap bukti: **L1** | Indikasi diramal: **1**
 
 </div>
 
-# Teriflunomide: From Multiple Sclerosis to Relapsing-Remitting Multiple Sclerosis (Established Indication, TxGNN-Confirmed)
+# Teriflunomide: Daripada Multiple Sclerosis kepada Relapsing-Remitting Multiple Sclerosis (Indikasi Terbukti, Disahkan oleh TxGNN)
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-> Teriflunomide is an oral immunomodulator already marketed globally (as Aubagio®) for multiple sclerosis. The TxGNN model predicts efficacy specifically for **Relapsing-Remitting Multiple Sclerosis (RRMS)**, and the evidence pack itself confirms this is not a novel hypothesis but the drug's own well-established indication, supported by **28 clinical trials** (including multiple completed Phase 3 RCTs) and **19 publications**.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not captured in Malaysia (NPRA) registration data in this pack; literature evidence (PMID 26758290, 31098896) confirms teriflunomide's globally licensed indication is multiple sclerosis |
-| Predicted New Indication | Relapsing-Remitting Multiple Sclerosis |
-| TxGNN Prediction Score | 99.24% |
-| Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
-| Recommended Decision | Hold |
+> Teriflunomide ialah imunomodulator oral yang telah dipasarkan di seluruh dunia (sebagai Aubagio®) untuk multiple sclerosis. Model TxGNN meramalkan keberkesanan khusus untuk **Relapsing-Remitting Multiple Sclerosis (RRMS)**, dan bungkus bukti itu sendiri mengesahkan ini bukan hipotesis novel tetapi indikasi yang telah ditetapkan dengan baik bagi ubat ini, disokong oleh **28 percubaan klinikal** (termasuk berbilang RCT Fasa 3 yang selesai) dan **19 penerbitan**.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Cepat
 
-Detailed structured mechanism-of-action data is flagged as a data gap (DG002) in this evidence pack. However, literature evidence contained in this same pack describes the mechanism directly: teriflunomide is a selective, reversible inhibitor of the mitochondrial enzyme dihydro-orotate dehydrogenase (DHODH), which blocks de novo pyrimidine synthesis and reduces proliferation of activated T- and B-lymphocytes (PMID 31098896, PMID 32757523).
-
-Multiple sclerosis and relapsing-remitting multiple sclerosis are not mechanistically distinct diseases — RRMS is the most common clinical subtype of MS (affecting roughly 85% of MS patients per PMID 06663189 trial description), and teriflunomide's immunomodulatory action on lymphocyte proliferation directly addresses the autoimmune, relapsing inflammatory activity that defines RRMS.
-
-Importantly, this prediction should be interpreted with caution as a genuine "repurposing" signal: several trials in the evidence pack (e.g., NCT06039007) explicitly describe teriflunomide as one of the "first line therapies" already used to treat RRMS patients in routine practice, and multiple publications (PMID 26758290) state teriflunomide has been licensed in the EU since 2013 specifically for RRMS. This indicates the TxGNN model is confirming an already-established, marketed indication rather than surfacing a novel therapeutic hypothesis.
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Tidak ditangkap dalam data pendaftaran Malaysia (NPRA) dalam bungkus ini; bukti literatur (PMID 26758290, 31098896) mengesahkan bahawa indikasi yang berlesen secara global bagi teriflunomide ialah multiple sclerosis |
+| Indikasi Baharu yang Diramalkan | Relapsing-Remitting Multiple Sclerosis |
+| Skor Ramalan TxGNN | 99.24% |
+| Tahap Bukti | L1 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 2 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Data mekanisme tindakan terstruktur yang terperinci ditandai sebagai jurang data (DG002) dalam bungkus bukti ini. Walau bagaimanapun, bukti literatur yang terkandung dalam bungkus yang sama ini menerangkan mekanisme secara langsung: teriflunomide ialah perencat yang selektif dan boleh balik bagi enzim mitokondria dihydro-orotate dehydrogenase (DHODH), yang menghalang sintesis pyrimidine de novo dan mengurangkan proliferasi T dan sel-sel B yang teraktif (PMID 31098896, PMID 32757523).
+
+Multiple sclerosis dan relapsing-remitting multiple sclerosis bukan penyakit yang berbeza secara mekanistik — RRMS ialah subjenis klinikal yang paling biasa bagi MS (menjejaskan kira-kira 85% daripada pesakit MS mengikut perihalan percubaan PMID 06663189), dan tindakan imunomodulatori teriflunomide pada proliferasi limfosit secara langsung menangani aktiviti keradangan autoimun dan berulang yang mentakrifkan RRMS.
+
+Yang penting, ramalan ini harus ditafsirkan dengan berhati-hati sebagai isyarat "repurposing" yang tulen: beberapa percubaan dalam bungkus bukti (contohnya, NCT06039007) secara jelas menggambarkan teriflunomide sebagai salah satu "terapi laris pertama" yang sudah digunakan untuk merawat pesakit RRMS dalam amalan rutin, dan beberapa penerbitan (PMID 26758290) menyatakan teriflunomide telah berlesen di EU sejak 2013 khusus untuk RRMS. Ini menunjukkan model TxGNN mengesahkan indikasi yang sudah ditetapkan dan dipasarkan daripada menonjolkan hipotesis terapeutik yang novel.
+
+---
+
+## Bukti Percubaan Klinikal
+
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT00134563](https://clinicaltrials.gov/study/NCT00134563) | Phase 3 | Completed | 1088 | Pivotal RCT (TEMSO): teriflunomide reduced relapse frequency and delayed disability accumulation vs. placebo in relapsing MS |
-| [NCT00803049](https://clinicaltrials.gov/study/NCT00803049) | Phase 3 | Completed | 742 | Long-term extension of EFC6049: documented long-term safety of teriflunomide 7mg/14mg and efficacy on disability, relapse rate, MRI |
-| [NCT00883337](https://clinicaltrials.gov/study/NCT00883337) | Phase 3 | Completed | 324 | TENERE trial: compared effectiveness/safety of teriflunomide vs. interferon beta-1a in relapsing MS |
-| [NCT04788615](https://clinicaltrials.gov/study/NCT04788615) | Phase 3 | Completed | 185 | Ofatumumab vs. first-line DMT (including teriflunomide) in newly diagnosed relapsing MS |
-| [NCT07189325](https://clinicaltrials.gov/study/NCT07189325) | Phase 3 | Not yet recruiting | 250 | Anti-CD20 maintenance vs. de-escalation strategy in RRMS |
-| [NCT00273364](https://clinicaltrials.gov/study/NCT00273364) | Phase 2 | Completed | 110 | Hematopoietic stem cell therapy for inflammatory MS failing approved therapy (incl. teriflunomide) |
-| [NCT00228163](https://clinicaltrials.gov/study/NCT00228163) | Phase 2 | Completed | 147 | Extension study: long-term safety and efficacy of teriflunomide in MS with relapses |
-| [NCT04129736](https://clinicaltrials.gov/study/NCT04129736) | Phase 4 | Completed | 12 | Measured teriflunomide concentration in serum and CSF in RRMS patients on 14mg daily dosing |
-| [NCT03535298](https://clinicaltrials.gov/study/NCT03535298) | Phase 4 | Active, not recruiting | 800 | DELIVER-MS: early intensive vs. escalation treatment approaches in RRMS |
-| [NCT02490982](https://clinicaltrials.gov/study/NCT02490982) | N/A (Observational) | Completed | 106 | Real-world observational effectiveness study of teriflunomide in RRMS |
+| [NCT00134563](https://clinicaltrials.gov/study/NCT00134563) | Fasa 3 | Selesai | 1088 | RCT Pivotal (TEMSO): teriflunomide mengurangkan kekerapan relaps dan menangguhkan pengumpulan ketidakupayaan vs. plasebo dalam MS berulang |
+| [NCT00803049](https://clinicaltrials.gov/study/NCT00803049) | Fasa 3 | Selesai | 742 | Lanjutan jangka panjang EFC6049: mendokumentasikan keselamatan jangka panjang teriflunomide 7mg/14mg dan keberkesanan pada ketidakupayaan, kadar relaps, MRI |
+| [NCT00883337](https://clinicaltrials.gov/study/NCT00883337) | Fasa 3 | Selesai | 324 | Percubaan TENERE: membandingkan keberkesanan/keselamatan teriflunomide vs. interferon beta-1a dalam MS berulang |
+| [NCT04788615](https://clinicaltrials.gov/study/NCT04788615) | Fasa 3 | Selesai | 185 | Ofatumumab vs. DMT laris pertama (termasuk teriflunomide) dalam MS berulang yang baru didiagnosis |
+| [NCT07189325](https://clinicaltrials.gov/study/NCT07189325) | Fasa 3 | Belum merekrut | 250 | Penyelenggaraan anti-CD20 vs. strategi de-eskalasi dalam RRMS |
+| [NCT00273364](https://clinicaltrials.gov/study/NCT00273364) | Fasa 2 | Selesai | 110 | Terapi sel stem hematopoietik untuk MS radang yang tidak responsif kepada terapi yang disahkan (termasuk teriflunomide) |
+| [NCT00228163](https://clinicaltrials.gov/study/NCT00228163) | Fasa 2 | Selesai | 147 | Kajian lanjutan: keselamatan dan keberkesanan jangka panjang teriflunomide dalam MS dengan relaps |
+| [NCT04129736](https://clinicaltrials.gov/study/NCT04129736) | Fasa 4 | Selesai | 12 | Mengukur kepekatan teriflunomide dalam serum dan CSF dalam pesakit RRMS pada dos 14mg harian |
+| [NCT03535298](https://clinicaltrials.gov/study/NCT03535298) | Fasa 4 | Aktif, tidak merekrut | 800 | DELIVER-MS: pendekat rawatan intensif awal vs. eskalasi dalam RRMS |
+| [NCT02490982](https://clinicaltrials.gov/study/NCT02490982) | N/A (Pemerhatian) | Selesai | 106 | Kajian keberkesanan dunia sebenar teriflunomide dalam RRMS |
 
 ---
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [32757523](https://pubmed.ncbi.nlm.nih.gov/32757523/) | 2020 | RCT | N Engl J Med | ASCLEPIOS trial: ofatumumab vs. teriflunomide in relapsing MS |
-| [36001711](https://pubmed.ncbi.nlm.nih.gov/36001711/) | 2022 | RCT | N Engl J Med | Ublituximab vs. teriflunomide in relapsing MS |
-| [40202623](https://pubmed.ncbi.nlm.nih.gov/40202623/) | 2025 | RCT | N Engl J Med | Tolebrutinib (BTK inhibitor) vs. teriflunomide in relapsing MS |
-| [39307151](https://pubmed.ncbi.nlm.nih.gov/39307151/) | 2024 | RCT | Lancet Neurol | evolutionRMS1/2: evobrutinib vs. teriflunomide, two phase 3 trials |
-| [33779698](https://pubmed.ncbi.nlm.nih.gov/33779698/) | 2021 | RCT | JAMA Neurol | OPTIMUM trial: ponesimod vs. teriflunomide in relapsing MS |
-| [38174776](https://pubmed.ncbi.nlm.nih.gov/38174776/) | 2024 | Systematic Review/Meta-analysis | Cochrane Database Syst Rev | Network meta-analysis of immunomodulators/immunosuppressants for RRMS |
-| [31098896](https://pubmed.ncbi.nlm.nih.gov/31098896/) | 2019 | Review | Drugs | Comprehensive review of teriflunomide's efficacy and tolerability in RRMS |
-| [33620411](https://pubmed.ncbi.nlm.nih.gov/33620411/) | 2021 | Review | JAMA | Diagnosis and treatment of multiple sclerosis, general overview |
-| [26758290](https://pubmed.ncbi.nlm.nih.gov/26758290/) | 2016 | Review | CNS Drugs | Review of teriflunomide EU SmPC, clinical and safety outcomes |
-| [31898276](https://pubmed.ncbi.nlm.nih.gov/31898276/) | 2020 | Review | CNS Drugs | Narrative review of oral therapies (incl. teriflunomide) for RRMS |
+| [32757523](https://pubmed.ncbi.nlm.nih.gov/32757523/) | 2020 | RCT | N Engl J Med | Percubaan ASCLEPIOS: ofatumumab vs. teriflunomide dalam MS berulang |
+| [36001711](https://pubmed.ncbi.nlm.nih.gov/36001711/) | 2022 | RCT | N Engl J Med | Ublituximab vs. teriflunomide dalam MS berulang |
+| [40202623](https://pubmed.ncbi.nlm.nih.gov/40202623/) | 2025 | RCT | N Engl J Med | Tolebrutinib (perencat BTK) vs. teriflunomide dalam MS berulang |
+| [39307151](https://pubmed.ncbi.nlm.nih.gov/39307151/) | 2024 | RCT | Lancet Neurol | evolutionRMS1/2: evobrutinib vs. teriflunomide, dua percubaan fasa 3 |
+| [33779698](https://pubmed.ncbi.nlm.nih.gov/33779698/) | 2021 | RCT | JAMA Neurol | Percubaan OPTIMUM: ponesimod vs. teriflunomide dalam MS berulang |
+| [38174776](https://pubmed.ncbi.nlm.nih.gov/38174776/) | 2024 | Ulasan Sistematik/Meta-analisis | Cochrane Database Syst Rev | Meta-analisis rangkaian imunomodulator/imunopenekan untuk RRMS |
+| [31098896](https://pubmed.ncbi.nlm.nih.gov/31098896/) | 2019 | Ulasan | Drugs | Ulasan komprehensif keberkesanan dan kebolehtriman teriflunomide dalam RRMS |
+| [33620411](https://pubmed.ncbi.nlm.nih.gov/33620411/) | 2021 | Ulasan | JAMA | Diagnosis dan rawatan multiple sclerosis, gambaran keseluruhan umum |
+| [26758290](https://pubmed.ncbi.nlm.nih.gov/26758290/) | 2016 | Ulasan | CNS Drugs | Ulasan SmPC teriflunomide EU, hasil klinikal dan keselamatan |
+| [31898276](https://pubmed.ncbi.nlm.nih.gov/31898276/) | 2020 | Ulasan | CNS Drugs | Ulasan naratif terapi oral (termasuk teriflunomide) untuk RRMS |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-The evidence pack confirms 2 marketed teriflunomide registrations in Malaysia (NPRA), but license number, product name, dosage form, and approved indication text were not captured in the current data extraction — this is linked to DG001 (blocking data gap on TFDA/NPRA product labeling).
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information. No structured warnings, contraindications, or drug-interaction data are available in this evidence pack (DG001, blocking severity), and DDI lookup returned no results.
+Bungkus bukti mengesahkan 2 pendaftaran teriflunomide dipasarkan di Malaysia (NPRA), tetapi nombor lesen, nama produk, bentuk dos, dan teks indikasi yang diluluskan tidak ditangkap dalam pengekstrakan data semasa — ini dikaitkan dengan DG001 (jurang data penghalang pada label produk TFDA/NPRA).
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila rujuk sisipan bungkus untuk maklumat keselamatan. Tiada data amaran terstruktur, kontraindikasi, atau interaksi ubat tersedia dalam bungkus bukti ini (DG001, keterukan penghalang), dan pencarian DDI tidak mengembalikan hasil.
 
-**Rationale:**
-Efficacy evidence is strong (L1: multiple completed Phase 3 RCTs, including several head-to-head trials against newer MS therapies), but the blocking data gap on package-insert warnings/contraindications (DG001) prevents any safety evaluation, and this predicted indication already appears to overlap with teriflunomide's existing marketed use rather than representing a novel repurposing opportunity.
+---
 
-**To proceed, the following is needed:**
-- Retrieve NPRA product label / package insert for the 2 marketed Malaysia licenses to resolve DG001 (warnings, contraindications, DDI)
-- Confirm whether the existing Malaysia approved indication text already covers RRMS, to clarify whether this is a true "new indication" case or a data-completeness gap
-- Obtain structured mechanism-of-action data from DrugBank to resolve DG002
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Bukti keberkesanan kuat (L1: berbilang RCT Fasa 3 yang selesai, termasuk beberapa percubaan head-to-head terhadap terapi MS yang lebih baru), tetapi jurang data penghalang pada amaran sisipan bungkus/kontraindikasi (DG001) menghalang sebarang penilaian keselamatan, dan indikasi yang diramalkan ini nampaknya sudah bertindih dengan penggunaan dipasarkan teriflunomide yang sedia ada daripada mewakili peluang repurposing yang novel.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Ambil label produk NPRA / sisipan bungkus untuk 2 lesen pasaran Malaysia untuk menyelesaikan DG001 (amaran, kontraindikasi, DDI)
+- Sahkan sama ada teks indikasi yang diluluskan Malaysia yang sedia ada sudah meliputi RRMS, untuk menjelaskan sama ada ini kes indikasi "baru" yang benar atau jurang kesempurnaan data
+- Dapatkan data mekanisme tindakan terstruktur daripada DrugBank untuk menyelesaikan DG002
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

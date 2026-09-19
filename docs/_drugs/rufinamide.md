@@ -29,59 +29,60 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Rufinamide: From Lennox-Gastaut Syndrome to Febrile Infection-Related Epilepsy Syndrome
+# Rufinamide: Daripada Sindrom Lennox-Gastaut kepada Sindrom Epilepsi Berkaitan Jangkitan Demam
 
-## One-Sentence Summary
+## Ringkasan dalam Satu Ayat
 
-Rufinamide is a triazole-derivative antiepileptic drug, primarily used for the treatment-resistant epileptic encephalopathy Lennox-Gastaut Syndrome (LGS). The TxGNN model predicts it may be effective for **Febrile Infection-Related Epilepsy Syndrome (FIRES)**, but this is currently a pure knowledge-graph inference with **no clinical trials** and **no published literature** supporting it.
+Rufinamide ialah ubat anti-epilepsi terbitan triazol, digunakan terutamanya untuk merawat ensefalopatı epilepsi yang tahan rawatan Sindrom Lennox-Gastaut (LGS). Model TxGNN meramalkan ia mungkin berkesan untuk **Sindrom Epilepsi Berkaitan Jangkitan Demam (FIRES)**, tetapi ini adalah penyimpulan graf pengetahuan tulen sahaja dengan **tiada ujian klinikal** dan **tiada kesusasteraan terbitan** yang menyokongnya.
 
-## Quick Overview
+## Tinjauan Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | Lennox-Gastaut Syndrome (per mechanistic rationale; Malaysia-specific label text not available in this data source) |
-| Predicted New Indication | Febrile infection-related epilepsy syndrome (FIRES) |
-| TxGNN Prediction Score | 99.57% |
-| Evidence Level | L5 (model prediction only, no clinical or literature support) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Sindrom Lennox-Gastaut (mengikut asas mekanik; teks label khusus Malaysia tidak tersedia dalam sumber data ini) |
+| Petunjuk Baru yang Diramalkan | Sindrom epilepsi berkaitan jangkitan demam (FIRES) |
+| Skor Ramalan TxGNN | 99.57% |
+| Tahap Bukti | L5 (ramalan model sahaja, tiada sokongan klinikal atau kesusasteraan) |
+| Status Pasaran Malaysia | ✓ Telah dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed mechanism-of-action data was not returned from the structured drug record (original_moa: Data Gap). However, the evidence pack's rationale notes that rufinamide is a triazole derivative that acts on voltage-gated sodium channels, prolonging their inactivated state to suppress excessive neuronal firing. It is an approved antiepileptic for Lennox-Gastaut Syndrome, a treatment-resistant epileptic encephalopathy characterized by multiple seizure types.
+Data mekanisme tindakan terperinci tidak dikembalikan daripada rekod ubat berstruktur (original_moa: Jurang Data). Walau bagaimanapun, pakej bukti mencatatkan bahawa rufinamide ialah terbitan triazol yang bertindak pada saluran natrium yang dibuka oleh voltan, memanjangkan keadaan tidak aktif mereka untuk menindas perapalan neuron yang berlebihan. Ia adalah ubat anti-epilepsi yang diluluskan untuk Sindrom Lennox-Gastaut, ensefalopatı epilepsi yang tahan rawatan, dicirikan oleh pelbagai jenis sawan.
 
-FIRES is also a refractory, treatment-resistant epilepsy syndrome (presenting as super-refractory status epilepticus following a febrile illness), placing it in the same broad "drug-resistant epileptic encephalopathy" category as LGS. This shared clinical profile is the basis for the TxGNN model's mechanistic-similarity prediction — sodium-channel modulation could theoretically reduce cortical hyperexcitability in FIRES as it does in LGS.
+FIRES juga adalah sindrom epilepsi tahan rawatan (mempersembahkan sebagai status epileptikus super-tahan rawatan berikutan penyakit demam), meletakkannya dalam kategori yang sama luas "ensefalopatı epilepsi yang tahan rawatan" seperti LGS. Profil klinikal bersama ini adalah asas bagi ramalan kesamaan mekanik model TxGNN — penggubalan saluran natrium secara teorinya boleh mengurangkan kegelisahan kortikal berlebihan dalam FIRES seperti yang berlaku dalam LGS.
 
-That said, FIRES pathophysiology is thought to involve a significant neuroinflammatory component, for which rufinamide has no established or studied activity. The mechanistic link is therefore plausible but unproven, and should be treated as a research hypothesis rather than a validated repurposing signal.
+Walau bagaimanapun, patofisiologi FIRES dipercayai melibatkan komponen neuroinflammasi yang signifikan, untuk mana rufinamide tidak mempunyai aktiviti yang ditubuhkan atau dikaji. Oleh itu, pautan mekanik adalah munasabah tetapi belum terbukti, dan harus diperlakukan sebagai hipotesis penyelidikan dan bukannya isyarat ubatan ubat baru yang disahkan.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-Currently no related clinical trials registered.
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-Currently no related literature available.
+Pada masa ini tiada kesusasteraan berkaitan yang tersedia.
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Rufinamide has 1 registered product in Malaysia (market status: Marketed). Detailed registration information (authorization number, product name, dosage form, approved indication text) was not returned by the data source for this record and cannot be tabulated at this time.
+Rufinamide mempunyai 1 produk berdaftar di Malaysia (status pasaran: Telah dipasarkan). Maklumat pendaftaran terperinci (nombor kebenaran, nama produk, bentuk dos, teks petunjuk yang diluluskan) tidak dikembalikan oleh sumber data untuk rekod ini dan tidak dapat diubah menjadi jadual pada masa ini.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information. (No structured warnings, contraindications, or drug-interaction data are currently available; NPRA label warnings/contraindications retrieval is a blocking data gap — see Next Steps.)
+Sila rujuk risalah pembungkus untuk maklumat keselamatan. (Tiada data amaran berstruktur, kontraindikasi, atau interaksi ubatan tersedia pada masa ini; pengambilan amaran/kontraindikasi label NPRA adalah jurang data yang menghalang — lihat Langkah Seterusnya.)
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The prediction score is high, but the evidence level is L5 — supported only by mechanistic knowledge-graph inference, with zero clinical trials or literature for FIRES. In addition, a blocking data gap on the NPRA product label (warnings/contraindications) prevents even an initial safety screen (S1).
+**Alasan:**
+Skor ramalan tinggi, tetapi tahap bukti adalah L5 — disokong hanya oleh penyimpulan mekanik graf pengetahuan, dengan sifar ujian klinikal atau kesusasteraan untuk FIRES. Sebagai tambahan, jurang data yang menghalang pada label produk NPRA (amaran/kontraindikasi) menghalang bahkan pemeriksaan keselamatan awal (S1).
 
-**To proceed, the following is needed:**
-- Retrieve the NPRA product label (indication text, warnings, contraindications) to resolve the blocking data gap and enable an S1 safety assessment
-- Obtain confirmed original MOA and indication documentation from DrugBank
-- Monitor for emerging case reports, preclinical studies, or off-label use data specifically evaluating sodium-channel antiepileptics (including rufinamide) in FIRES before advancing this candidate beyond the research-hypothesis stage
+**Untuk meneruskan, yang berikut diperlukan:**
+- Ambil label produk NPRA (teks petunjuk, amaran, kontraindikasi) untuk menyelesaikan jurang data yang menghalang dan membolehkan penilaian keselamatan S1
+- Dapatkan dokumentasi MOA asal yang disahkan dan petunjuk daripada DrugBank
+- Pantau bagi laporan kes yang muncul, kajian praklinikal, atau data penggunaan di luar label yang khusus menilai ubat-ubatan anti-epilepsi penggubalan saluran natrium (termasuk rufinamide) dalam FIRES sebelum memajukan calon ini di luar tahap hipotesis penyelidikan
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,93 +29,94 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Pitolisant Hydrochloride: Narcolepsy Treatment — Repurposing Analysis Pending
+# Pitolisant Hydrochloride: Rawatan Narkolepsi — Analisis Penyesuaian Penggunaan Tertangguh
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Pitolisant Hydrochloride is a histamine H3 receptor antagonist/inverse agonist approved for narcolepsy (with or without cataplexy), promoting wakefulness by enhancing endogenous histamine neurotransmission. This Evidence Pack contains **no TxGNN-predicted new indications**, as the prediction pipeline did not return candidates for this drug. With critical data gaps in MOA documentation, safety warnings, and licence details, **a full repurposing evaluation cannot be completed at this time**.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Narcolepsy (excessive daytime sleepiness / cataplexy) |
-| Predicted New Indication | — (No predictions returned) |
-| TxGNN Prediction Score | — |
-| Evidence Level | L5 — Model prediction only (no output generated) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
-| Recommended Decision | **Hold** |
+Pitolisant Hydrochloride adalah antagonis reseptor histamin H3/antagonis songsang yang diluluskan untuk narkolepsi (dengan atau tanpa katalepsi), menggalakkan kesedaran dengan meningkatkan neurotransmisi histamin endogen. Pakej Bukti ini mengandungi **tiada indikasi baru yang diramalkan TxGNN**, kerana saluran paip ramalan tidak mengembalikan calon. Dengan jurang data kritikal dalam dokumentasi mekanisme tindakan, amaran keselamatan, dan butir lesen, **penilaian penyesuaian penggunaan penuh tidak dapat diselesaikan pada masa ini**.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Umum Pantas
 
-No TxGNN repurposing prediction is available in this Evidence Pack; therefore, a mechanism-based bridge to a new indication cannot be formally constructed at this stage.
-
-From published pharmacological knowledge, pitolisant acts as an inverse agonist at presynaptic histamine H3 auto-receptors, relieving tonic inhibition and increasing cortical histamine release. This wake-promoting mechanism is mechanistically distinct from amphetamine-class stimulants, making it a candidate of interest for other CNS disorders characterised by hypersomnia, cognitive impairment, or attentional deficits (e.g., idiopathic hypersomnia, ADHD, Parkinson's disease fatigue).
-
-Currently, detailed MOA documentation and DrugBank linkage are absent from this Evidence Pack (DG002). Retrieval of the DrugBank record (expected ID: DB11909) and the full NPRA/TFDA package insert is required before mechanism-based applicability to any new indication can be formally assessed.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials are registered in this Evidence Pack.
-
-> **Note**: ClinicalTrials.gov and ICTRP queries were not executed as part of this pipeline run (no predicted indication to query against). Manual searches for pitolisant in indications such as idiopathic hypersomnia, obstructive sleep apnea, and ADHD are recommended as a next step.
+| Item | Kandungan |
+|------|-----------|
+| Indikasi Asal | Narkolepsi (mengantuk pada siang hari yang berlebihan / katalepsi) |
+| Indikasi Baru yang Diramalkan | — (Tiada ramalan dikembalikan) |
+| Skor Ramalan TxGNN | — |
+| Tahap Bukti | L5 — Ramalan model sahaja (tiada keluaran dijana) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 2 |
+| Keputusan yang Disyorkan | **Tahan** |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature is available in this Evidence Pack.
+Tiada ramalan penyesuaian penggunaan TxGNN tersedia dalam Pakej Bukti ini; oleh itu, jambatan berasaskan mekanisme kepada indikasi baru tidak dapat dibina secara rasmi pada peringkat ini.
 
-> **Note**: PubMed evidence collection requires a predicted indication target. Once a repurposing candidate is identified, the evidence collector should be re-run.
+Daripada pengetahuan farmakologi yang diterbitkan, pitolisant bertindak sebagai antagonis songsang pada reseptor auto H3 histamin prasinaptik, menghilangkan perencatan tonik dan meningkatkan pelepasan histamin korteks. Mekanisme penggalakan kesedaran ini adalah tersendiri dari mekanisme perangsang kelas amfetamin, menjadikannya calon yang menarik untuk gangguan SSP lain yang dicirikan oleh hipersomnia, gangguan kognitif, atau gangguan perhatian (cth., hipersomnia idiopatik, ADHD, keletihan penyakit Parkinson).
+
+Pada masa ini, dokumentasi mekanisme tindakan terperinci dan pautan DrugBank tiada dalam Pakej Bukti ini (DG002). Pengambilan rekod DrugBank (ID yang dijangka: DB11909) dan pakej sisipan penuh NPRA/TFDA diperlukan sebelum kebolehgunaan berasaskan mekanisme kepada mana-mana indikasi baru dapat dinilai secara rasmi.
 
 ---
 
-## Malaysia Market Information
+## Bukti Ujian Klinik
 
-Two registrations are recorded in the Malaysia NPRA database; however, **all licence detail fields are empty in the current Evidence Pack**. The table below reflects the available (null) data.
+Pada masa ini tiada ujian klinik yang berkaitan didaftarkan dalam Pakej Bukti ini.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|----------------------|-------------|-------------|---------------------|
+> **Nota**: Pertanyaan ClinicalTrials.gov dan ICTRP tidak dilaksanakan sebagai sebahagian daripada jalan saluran ini (tiada indikasi yang diramalkan untuk pertanyaan). Carian manual untuk pitolisant dalam indikasi seperti hipersomnia idiopatik, apnea tidur obstruktif, dan ADHD disyorkan sebagai langkah seterusnya.
+
+---
+
+## Bukti Literatur
+
+Pada masa ini tiada literatur yang berkaitan tersedia dalam Pakej Bukti ini.
+
+> **Nota**: Pengumpulan bukti PubMed memerlukan sasaran indikasi yang diramalkan. Setelah calon penyesuaian penggunaan dikenal pasti, pengumpul bukti harus dijalankan semula.
+
+---
+
+## Maklumat Pasaran Malaysia
+
+Dua pendaftaran direkodkan dalam pangkalan data NPRA Malaysia; bagaimanapun, **semua medan butir lesen kosong dalam Pakej Bukti semasa**. Jadual di bawah mencerminkan data yang tersedia (nol).
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
+|------------------|------------|-----------|------------------------|
 | — | — | — | — |
 | — | — | — | — |
 
-> **Action Required**: Download the NPRA licence records directly from the NPRA ePortal to obtain the MAL numbers, product names (expected: Wakix®), dosage forms (film-coated tablet, 4.5 mg / 18 mg), and approved indication texts.
+> **Tindakan Diperlukan**: Muat turun rekod lesen NPRA terus dari e-Portal NPRA untuk mendapatkan nombor MAL, nama produk (dijangka: Wakix®), bentuk dos (tablet bersalut filem, 4.5 mg / 18 mg), dan teks indikasi yang diluluskan.
 
 ---
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-> All safety fields in this Evidence Pack are flagged as data gaps (DG001 — Severity: **Blocking**). Key warnings and contraindications could not be assessed. Known safety signals from the international label (QTc prolongation, foetal risk in pregnancy, CYP2D6-dependent exposure variability, interactions with MAOIs and CNS depressants) should be reviewed manually from the NPRA-approved SmPC or TFDA package insert before any repurposing evaluation proceeds.
-
----
-
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-This Evidence Pack is incomplete — no TxGNN repurposing predictions were generated, and two blocking or high-severity data gaps (DG001, DG002) prevent both safety pre-screening and mechanism-of-action analysis. A repurposing evaluation cannot be responsibly issued without this foundational data.
-
-**To proceed, the following is needed:**
-
-- [ ] **DG001 (Blocking)** — Download and parse the NPRA/TFDA package insert PDF to extract key warnings and contraindications; this must be resolved before any Safety Stage S1 assessment
-- [ ] **DG002 (High)** — Query DrugBank API for pitolisant (expected: DB11909) to retrieve MOA, drug categories, and toxicity data
-- [ ] **Re-run TxGNN prediction pipeline** — With a valid DrugBank ID and mapped indications, generate repurposing candidates so that clinical trial and literature evidence collection can proceed
-- [ ] **Populate NPRA licence details** — Retrieve MAL registration numbers, product names, dosage forms, and approved indication texts from the NPRA ePortal
-- [ ] **Confirm INN alignment** — The Evidence Pack uses "PITOLISANT HYDROCHLORIDE" (salt form); ensure the prediction pipeline correctly maps this to the free-base INN "pitolisant" in the TxGNN knowledge graph
+> Semua medan keselamatan dalam Pakej Bukti ini ditandai sebagai jurang data (DG001 — Keterukan: **Menyekat**). Amaran utama dan kontraindikasi tidak dapat dinilai. Isyarat keselamatan yang diketahui daripada label antarabangsa (pemanjangan QTc, risiko janin dalam kehamilan, kebolehubahan pendedahan yang bergantung CYP2D6, interaksi dengan MAOI dan perencat SSP) harus dikaji semula secara manual daripada SmPC yang diluluskan NPRA atau sisipan pakej TFDA sebelum sebarang penilaian penyesuaian penggunaan diteruskan.
 
 ---
 
-*⚠️ Disclaimer: This report is for research reference only and does not constitute medical advice. All repurposing candidates require clinical validation before application.*
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Alasan:**
+Pakej Bukti ini tidak lengkap — tiada ramalan penyesuaian penggunaan TxGNN dijana, dan dua jurang data yang menyekat atau keterukan tinggi (DG001, DG002) menghalang kedua-dua pra-penyaringan keselamatan dan analisis mekanisme tindakan. Penilaian penyesuaian penggunaan tidak dapat dikeluarkan dengan bertanggungjawab tanpa data asas ini.
+
+**Untuk diteruskan, perkara berikut diperlukan:**
+
+- [ ] **DG001 (Menyekat)** — Muat turun dan huraikan PDF sisipan pakej NPRA/TFDA untuk mengekstrak amaran utama dan kontraindikasi; ini mesti diselesaikan sebelum sebarang penilaian Peringkat Keselamatan S1
+- [ ] **DG002 (Tinggi)** — Soal API DrugBank untuk pitolisant (dijangka: DB11909) untuk mendapatkan MOA, kategori ubat, dan data toksisiti
+- [ ] **Jalankan saluran paip ramalan TxGNN semula** — Dengan ID DrugBank yang sah dan indikasi yang dipetakan, hasilkan calon penyesuaian penggunaan supaya pengumpulan bukti ujian klinik dan literatur dapat diteruskan
+- [ ] **Isikan butir lesen NPRA** — Ambil nombor pendaftaran MAL, nama produk, bentuk dos, dan teks indikasi yang diluluskan daripada e-Portal NPRA
+- [ ] **Sahkan penjajaran INN** — Pakej Bukti menggunakan "PITOLISANT HYDROCHLORIDE" (bentuk garam); pastikan saluran paip ramalan memetakan ini dengan betul kepada INN asas bebas "pitolisant" dalam graf pengetahuan TxGNN
+
+---
+
+*⚠️ Penafian: Laporan ini adalah untuk rujukan penyelidikan sahaja dan tidak membentuk nasihat perubatan. Semua calon penyesuaian penggunaan memerlukan pengesahan klinik sebelum aplikasi.*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,82 +29,81 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Adapalene: From Acne Vulgaris to Zinc, Elevated Plasma
+# Adapalene: Daripada Jerawat Vulgaris kepada Zink, Plasma Meningkat
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Adapalene is a third-generation synthetic retinoid, originally approved for the topical treatment of acne vulgaris.
-The TxGNN model predicts it may have potential relevance to **Zinc, Elevated Plasma (hyperзincaemia)**,
-with a high model prediction score of **99.51%**; however, **no clinical trials and no published literature** currently support this direction — making this a purely computational signal requiring substantial further investigation.
+Adapalene ialah retinoid sintetik generasi ketiga, yang pada asalnya telah diluluskan untuk rawatan topikal jerawat vulgaris. Model TxGNN meramalkan ia mungkin mempunyai relevansi kepada **Zink, Plasma Meningkat (hyperзincaemia)**, dengan skor ramalan model yang tinggi iaitu **99.51%**; bagaimanapun, **tiada percubaan klinikal dan tiada kesusastraan yang diterbitkan** yang pada masa ini menyokong arah ini — menjadikan ini sinyal pengiraan murni yang memerlukan penyiasatan lanjutan yang besar.
 
 ---
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
-|------|---------|
-| Original Indication | Acne vulgaris (topical retinoid) |
-| Predicted New Indication | Zinc, Elevated Plasma |
-| TxGNN Prediction Score | 99.51% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 5 |
-| Recommended Decision | **Hold** |
-
----
-
-## Why is This Prediction Reasonable?
-
-Adapalene is a third-generation naphthoic acid-derived retinoid that selectively binds to retinoic acid receptors RAR-β and RAR-γ. In acne treatment, it exerts its effects by normalising keratinocyte differentiation, reducing follicular hyperkeratinisation, and suppressing inflammatory mediators. Importantly, retinoids and zinc metabolism are known to interact at a biological level: zinc is an essential cofactor for the synthesis of retinol-binding protein (RBP), which is responsible for transporting vitamin A in the blood; conversely, retinoic acid receptors (RARs) may regulate the expression of zinc transporter family genes (ZnT/ZIP family), theoretically influencing systemic zinc homeostasis.
-
-The TxGNN prediction score of 0.995 is remarkably high. However, this most likely reflects the topological proximity of "retinoids" and "zinc metabolism" nodes within the knowledge graph, rather than a true therapeutic signal. The knowledge graph encodes known biological associations — in this case, the well-documented retinol–zinc axis — which the model interprets as a potential therapeutic link. This is a known limitation of graph-based prediction: mechanistic adjacency does not equate to therapeutic efficacy.
-
-Currently, detailed mechanism of action data for Adapalene is not available in this Evidence Pack. Based on known pharmacology, Adapalene is a selective RAR-β/γ agonist. While a theoretical mechanistic link to zinc homeostasis can be constructed via the retinoid–RBP–zinc axis, this connection is highly speculative and has not been tested clinically. No evidence currently supports Adapalene as a treatment for elevated plasma zinc.
+| Perkara | Kandungan |
+|---------|----------|
+| Indikasi Asal | Jerawat vulgaris (retinoid topikal) |
+| Indikasi Baru yang Diramalkan | Zink, Plasma Meningkat |
+| Skor Ramalan TxGNN | 99.51% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 5 |
+| Keputusan Disyorkan | **Tungu** |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related clinical trials registered.
+Adapalene adalah retinoid bercetusan asid naftoik generasi ketiga yang terikat secara selektif kepada reseptor asid retinoid RAR-β dan RAR-γ. Dalam rawatan jerawat, ia menghasilkan kesannya dengan menormalkan pembezaan keratinosit, mengurangkan hiperkeratinisasi folikel, dan menindas mediator inflamasi. Adalah penting, retinoid dan metabolisme zink diketahui berinteraksi pada tahap biologi: zink adalah kofaktor penting untuk sintesis protein pengikatan retinol (RBP), yang bertanggungjawab untuk mengangkut vitamin A dalam darah; sebaliknya, reseptor asid retinoid (RAR) boleh mengawal ungkapan gen keluarga pengangkut zink (keluarga ZnT/ZIP), secara teori mempengaruhi homeostasis zink sistemik.
 
----
+Skor ramalan TxGNN sebesar 0.995 sangat tinggi. Bagaimanapun, ini kemungkinan besar mencerminkan kedekatan topologi nod "retinoid" dan "metabolisme zink" dalam graf pengetahuan, dan bukannya sinyal terapeutik yang benar. Graf pengetahuan mengkodkan persatuan biologi yang diketahui — dalam kes ini, paksi retinol-zink yang terdokumentasikan dengan baik — yang ditafsirkan oleh model sebagai pautan terapeutik yang berpotensi. Ini adalah batasan yang diketahui bagi ramalan berasaskan graf: kesebelahan mekanik tidak sama dengan keberkesanan terapeutik.
 
-## Literature Evidence
-
-Currently no related literature available.
+Pada masa ini, data mekanisme tindakan terperinci untuk adapalene tidak tersedia dalam Pakej Bukti ini. Berdasarkan farmakologi yang diketahui, adapalene adalah agonis RAR-β/γ yang selektif. Sementara pautan mekanik teori kepada homeostasis zink boleh dibina melalui paksi retinoid–RBP–zink, sambungan ini sangat spekulatif dan tidak telah diuji secara klinikal. Tiada bukti pada masa ini menyokong adapalene sebagai rawatan untuk zink plasma yang meningkat.
 
 ---
 
-## Malaysia Market Information
+## Bukti Percubaan Klinikal
 
-5 product registrations are confirmed via NPRA (Malaysia National Pharmaceutical Regulatory Agency) as of 2026-03-27. However, detailed product-level information (authorization numbers, product names, dosage forms, and approved indication text) was not retrievable in the current dataset pull.
-
-> **Note:** Adapalene is globally well-established as a topical gel/cream (0.1% and 0.3%) for acne vulgaris. Malaysia-registered products are expected to follow this profile. Please consult the NPRA Product Registration database directly for full authorisation details.
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftar.
 
 ---
 
-## Safety Considerations
+## Bukti Kesusastraan
 
-Please refer to the package insert for safety information.
-
-> Safety data (key warnings, contraindications, and drug interactions) were not available in this Evidence Pack. Given that Adapalene is a topical retinoid, prescribers should be aware of the general retinoid class precautions, including avoidance in pregnancy (teratogenicity risk class), sensitivity to sunlight, and potential for local skin irritation.
+Pada masa ini tiada kesusastraan berkaitan yang tersedia.
 
 ---
 
-## Conclusion and Next Steps
+## Maklumat Pasaran Malaysia
 
-**Decision: Hold**
+5 pendaftaran produk disahkan melalui NPRA (Badan Kawal Selia Farmaseutikal Kebangsaan Malaysia) setakat 2026-03-27. Bagaimanapun, maklumat terperinci peringkat produk (nombor kebenaran, nama produk, bentuk dos, dan teks petunjuk yang diluluskan) tidak dapat diambil dalam tarikan set data semasa.
 
-**Rationale:**
-The TxGNN model assigns Adapalene an unusually high prediction score (99.51%) for elevated plasma zinc; however, this is an **L5 evidence finding** — supported solely by a computational model with zero corroborating clinical trials or published literature. The predicted indication ("zinc, elevated plasma") is a laboratory finding rather than a primary disease entity, and no plausible clinical development pathway currently exists for this application.
+> **Nota:** Adapalene telah ditubuhkan secara global sebagai gel/krim topikal (0.1% dan 0.3%) untuk jerawat vulgaris. Produk yang berdaftar di Malaysia dijangka mengikuti profil ini. Sila rujuk pangkalan data Pendaftaran Produk NPRA secara langsung untuk maklumat kebenaran penuh.
 
-**To proceed, the following would be needed:**
+---
 
-- **Mechanistic validation**: Preclinical (in vitro / in vivo) studies directly assessing Adapalene's effect on plasma zinc levels or zinc transporter expression
-- **Safety data retrieval**: Download and parse the TFDA/NPRA package insert PDFs to populate key warnings and contraindications (currently a Blocking data gap)
-- **MOA data**: Query DrugBank API for full pharmacodynamic and pharmacokinetic profile (currently a High-severity data gap)
-- **Disease re-assessment**: Evaluate whether "zinc, elevated plasma" represents a clinically actionable condition amenable to pharmacological intervention with a retinoid
-- **Expert review**: Consult a pharmacologist or endocrinologist to assess biological plausibility before any resource investment in this indication
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
+
+> Data keselamatan (amaran utama, kontraindikasi, dan interaksi ubat) tidak tersedia dalam Pakej Bukti ini. Memandangkan adapalene adalah retinoid topikal, pengamal perlu sedar tentang tindakan pencegahan kelas retinoid umum, termasuk penghindaran dalam kehamilan (kelas risiko teratogenisiti), sensitiviti kepada cahaya matahari, dan potensi untuk iritasi kulit tempatan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tungu**
+
+**Rasional:**
+Model TxGNN memberikan adapalene skor ramalan yang sangat tinggi (99.51%) untuk zink plasma yang meningkat; bagaimanapun, ini adalah **penemuan bukti L5** — disokong semata-mata oleh model pengiraan dengan percubaan klinikal penyokong sifar atau kesusastraan yang diterbitkan. Petunjuk yang diramalkan ("zink, plasma meningkat") adalah penemuan makmal dan bukannya entiti penyakit utama, dan tiada jalan perkembangan klinikal yang munasabah pada masa ini wujud untuk aplikasi ini.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+
+- **Pengesahan mekanik**: Kajian pra-klinikal (in vitro / in vivo) yang secara langsung menilai kesan adapalene pada tahap zink plasma atau ungkapan pengangkut zink
+- **Pengambilan data keselamatan**: Muat turun dan huraikan PDF sisipan pakej TFDA/NPRA untuk mengisi amaran utama dan kontraindikasi (pada masa ini jurang data yang menghalang)
+- **Data MOA**: Pertanyaan API DrugBank untuk profil farmakodinamik dan farmakokinetik penuh (pada masa ini jurang data dengan keparahan tinggi)
+- **Penilaian semula penyakit**: Menilai sama ada "zink, plasma meningkat" mewakili keadaan yang boleh diambil tindakan secara klinikal yang boleh diterima untuk campur tangan farmakologi dengan retinoid
+- **Semakan pakar**: Berunding dengan pakar farmakologi atau endokrinologi untuk menilai kemungkinan biologi sebelum sebarang pelaburan sumber dalam petunjuk ini
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

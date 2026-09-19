@@ -29,60 +29,61 @@ Tahap bukti: **L5** | Indikasi diramal: **4**
 
 </div>
 
-# Fluocinolone Acetonide: From Topical Corticosteroid Therapy to Lichen Planus Pigmentosus
+# Fluocinolone Acetonide: Dari Terapi Kortikosteroid Topikal kepada Lichen Planus Pigmentosus
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Fluocinolone acetonide is a high-potency topical corticosteroid; the specific original approved indication text was not available in this evidence pack, though its class-level use covers corticosteroid-responsive dermatoses. The TxGNN model predicts it may be effective for **Lichen Planus Pigmentosus**, but this direction currently has **0 clinical trials** and **0 publications** supporting it — the prediction rests solely on the TxGNN algorithm score.
+Fluocinolone acetonide adalah kortikosteroid topikal berkuasa tinggi; teks petunjuk asal yang diluluskan khusus tidak tersedia dalam pakej bukti ini, meskipun penggunaan peringkat kelasnya meliputi dermatosis responsif kortikosteroid. Model TxGNN meramalkan ia mungkin berkesan untuk **Lichen Planus Pigmentosus**, tetapi arah ini pada masa ini mempunyai **0 ujian klinikal** dan **0 publikasi** yang menyokongnya — ramalan bergantung sepenuhnya pada skor algoritma TxGNN.
 
-## Quick Overview
+## Gambaran Ringkas
 
-| Item | Content |
-|------|------|
-| Original Indication | Not specified in available NPRA registration data (drug class: topical corticosteroid) |
-| Predicted New Indication | Lichen Planus Pigmentosus |
-| TxGNN Prediction Score | 99.42% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
-| Recommended Decision | Hold |
+| Perkara | Kandungan |
+|--------|----------|
+| Petunjuk Asal | Tidak dinyatakan dalam data pendaftaran NPRA yang tersedia (kelas ubat: kortikosteroid topikal) |
+| Petunjuk Ramalan Baru | Lichen Planus Pigmentosus |
+| Skor Ramalan TxGNN | 99.42% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Telah dipasarkan |
+| Bilangan Pendaftaran | 3 |
+| Keputusan yang Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data for fluocinolone acetonide is not available in this evidence pack. Based on known pharmacological classification, fluocinolone acetonide is part of the topical corticosteroid class, and its efficacy across corticosteroid-responsive dermatoses is well established as a class-level effect.
+Pada masa ini, data mekanisme tindakan yang terperinci untuk fluocinolone acetonide tidak tersedia dalam pakej bukti ini. Berdasarkan klasifikasi farmakologi yang diketahui, fluocinolone acetonide adalah bahagian daripada kelas kortikosteroid topikal, dan keberkesanannya merentasi dermatosis responsif kortikosteroid telah terbukti dengan baik sebagai kesan pada peringkat kelas.
 
-The proposed link to lichen planus pigmentosus shares this class-level mechanistic plausibility — corticosteroids' anti-inflammatory action is broadly relevant to lichenoid inflammatory skin conditions. However, this connection is not supported by any clinical trials or literature specific to fluocinolone acetonide; it rests solely on the TxGNN algorithmic prediction score (0.9942). Notably, published treatment approaches for lichen planus pigmentosus focus mainly on management of residual pigment deposition rather than the acute inflammatory phase, making the mechanistic relevance of a corticosteroid's anti-inflammatory action comparatively indirect for this specific subtype.
+Pautan yang dicadangkan kepada lichen planus pigmentosus berkongsi kebolehpakaian mekanistik pada peringkat kelas ini — tindakan anti-radang kortikosteroid secara meluas berkaitan dengan keadaan kulit radang lichenoid. Walau bagaimanapun, hubungan ini tidak disokong oleh sebarang ujian klinikal atau kesusasteraan khusus kepada fluocinolone acetonide; ia bergantung sepenuhnya pada skor ramalan algoritma TxGNN (0.9942). Perlu diketahui bahawa pendekatan rawatan terbitan untuk lichen planus pigmentosus memberi tumpuan terutamanya kepada pengurusan pengendapan pigmen sisa daripada fasa radang akut, menjadikan kaitan mekanistik tindakan anti-radang kortikosteroid secara relatifnya tidak langsung untuk subtip khusus ini.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-Currently no related clinical trials registered.
+Pada masa ini tiada ujian klinikal berkaitan yang didaftar.
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-Currently no related literature available.
+Pada masa ini tiada kesusasteraan berkaitan yang tersedia.
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-NPRA registration data confirms fluocinolone acetonide is marketed in Malaysia under **3 licenses**. However, individual license numbers, product names, dosage forms, and approved indication text were not returned in this evidence pack.
+Data pendaftaran NPRA mengesahkan fluocinolone acetonide dipasarkan di Malaysia di bawah **3 lesen**. Walau bagaimanapun, nombor lesen individu, nama produk, bentuk dos, dan teks petunjuk yang diluluskan tidak dikembalikan dalam pakej bukti ini.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk risalah ubat untuk maklumat keselamatan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The prediction for lichen planus pigmentosus is supported only by the TxGNN model score, with no clinical trials or published literature confirming clinical relevance. A blocking data gap on TFDA/NPRA label warnings and contraindications also prevents any safety pre-assessment (S1) for this candidate.
+**Alasan:**
+Ramalan untuk lichen planus pigmentosus hanya disokong oleh skor model TxGNN, tanpa ujian klinikal atau kesusasteraan terbitan yang mengesahkan kaitan klinikal yang relevan. Jurang data pemblokiran pada amaran dan kontraindikasi label TFDA/NPRA juga menghalang sebarang penilaian keselamatan awal (S1) untuk calon ini.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA label PDF with warnings and contraindications (blocking gap, required before S1 safety review)
-- Mechanism of action data from DrugBank
-- Malaysia license details (product names, dosage forms, approved indication text) for the 3 existing registrations
-- At least preliminary case-series or mechanistic literature specific to lichen planus pigmentosus before advancing past Hold
+**Untuk meneruskan, yang berikut diperlukan:**
+- PDF label TFDA/NPRA dengan amaran dan kontraindikasi (jurang pemblokiran, diperlukan sebelum semakan keselamatan S1)
+- Data mekanisme tindakan daripada DrugBank
+- Butiran lesen Malaysia (nama produk, bentuk dos, teks petunjuk yang diluluskan) untuk 3 pendaftaran sedia ada
+- Sekurang-kurangnya kesusasteraan siri kes awal atau mekanistik khusus kepada lichen planus pigmentosus sebelum maju melampaui tahap Tahan
 
-*Note: among the related lichen planus subtype predictions in this evidence pack, "lichen planus pemphigoides" (rank 4, score 99.34%) has stronger supporting evidence — 3 literature citations including one RCT (PMID 8065723) — and is already at decision stage S1 ("Research Question"). This subtype may warrant separate evaluation.*
+*Catatan: dalam kalangan ramalan subtip lichen planus berkaitan dalam pakej bukti ini, "lichen planus pemphigoides" (kedudukan 4, skor 99.34%) mempunyai bukti penyokong yang lebih kuat — 3 sitasi kesusasteraan termasuk satu RCT (PMID 8065723) — dan sudah berada pada peringkat keputusan S1 ("Pertanyaan Penyelidikan"). Subtip ini mungkin memerlukan penilaian berasingan.*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

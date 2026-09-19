@@ -29,96 +29,97 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Liraglutide: From Type 2 Diabetes / Obesity — Repurposing Target TBD
+# Liraglutide: Daripada Diabetes Jenis 2 / Obesiti — Sasaran Pembentukan Semula TBD
 
 ---
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Liraglutide is a GLP-1 receptor agonist, approved in multiple markets for the management of Type 2 Diabetes mellitus and chronic weight management.
-This Evidence Pack currently contains **no TxGNN repurposing predictions**, as two critical data gaps — missing mechanism of action (MOA) data and absent safety/contraindication records — are blocking the prediction pipeline from completing.
-With **0 predicted indications** generated, a full repurposing evaluation **cannot proceed** until these gaps are resolved.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Type 2 Diabetes / Chronic Weight Management *(based on known drug profile; not populated in this Evidence Pack)* |
-| Predicted New Indication | No predictions generated |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 — Prediction pending; no supporting studies retrievable at this stage |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 4 |
-| Recommended Decision | **Hold** |
+Liraglutide adalah agonis reseptor GLP-1, diluluskan dalam pelbagai pasaran untuk pengurusan diabetes mellitus jenis 2 dan pengurusan berat badan kronik.
+Pakej Bukti ini pada masa ini mengandungi **tiada ramalan pembentukan semula TxGNN**, kerana dua jurang data kritikal — data mekanisme tindakan (MOA) yang hilang dan rekod keselamatan/kontraindikasi yang tiada — menghalang saluran ramalan daripada menyelesaikan.
+Dengan **0 petunjuk yang diramalkan** dijana, penilaian pembentukan semula penuh **tidak dapat diteruskan** sehingga jurang ini diselesaikan.
 
 ---
 
-## Why Are Predictions Pending?
+## Gambaran Keseluruhan Cepat
 
-Liraglutide (DrugBank ID: DB06655) is a well-established glucagon-like peptide-1 (GLP-1) receptor agonist. In clinical practice it is marketed as **Victoza** (Type 2 Diabetes) and **Saxenda** (chronic weight management), and has demonstrated cardiovascular risk reduction benefits in landmark trials such as LEADER. GLP-1 receptor agonists generally work by stimulating glucose-dependent insulin secretion, suppressing glucagon release, slowing gastric emptying, and inducing satiety — a multi-target profile that has attracted considerable interest for repurposing into metabolic liver disease (MASH/NAFLD), neurodegenerative conditions, and polycystic ovary syndrome (PCOS), among others.
-
-However, **the TxGNN model has not generated any repurposing candidates** for this drug in the current Evidence Pack. Two identified data gaps are directly responsible:
-
-1. **DG002 — Mechanism of Action (High severity):** The MOA field is unpopulated. The TxGNN knowledge graph relies on confirmed target-pathway annotations to compute cross-indication similarity scores. Without this anchor, mechanistic-linkage analysis cannot be executed.
-
-2. **DG001 — Safety Warnings & Contraindications (Blocking severity):** Package insert data has not been retrieved. The S1 safety pre-screening gate — which checks for known absolute contraindications before a repurposing candidate advances — cannot be cleared without this information.
-
-Until both gaps are remediated and the pipeline is re-run, no repurposing direction can be formally scored or ranked.
-
----
-
-## Malaysia Market Information
-
-The Evidence Pack confirms **4 active product registrations** with Malaysia's NPRA, but detailed license records (authorization numbers, product names, dosage forms, and approved indication text) were not retrieved in this Evidence Pack version.
-
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|----------------------|--------------|-------------|---------------------|
-| — | — | — | *(Details not retrieved — NPRA registry query required)* |
-| — | — | — | *(Details not retrieved — NPRA registry query required)* |
-| — | — | — | *(Details not retrieved — NPRA registry query required)* |
-| — | — | — | *(Details not retrieved — NPRA registry query required)* |
-
-> **Note:** 4 registrations are confirmed as active. Full license details must be pulled from the NPRA portal to complete this table before the Malaysia section can contribute to the evaluation.
+| Item | Kandungan |
+|------|-----------|
+| Petunjuk Asal | Diabetes Jenis 2 / Pengurusan Berat Badan Kronik *(berdasarkan profil ubat yang diketahui; tidak diisi dalam Pakej Bukti ini)* |
+| Petunjuk Baharu yang Diramalkan | Tiada ramalan dijana |
+| Skor Ramalan TxGNN | N/A |
+| Tahap Bukti | L5 — Ramalan belum selesai; tiada kajian sokongan boleh diambil pada peringkat ini |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 4 |
+| Keputusan Disyorkan | **Tahan** |
 
 ---
 
-## Safety Considerations
+## Mengapa Ramalan Masih Tertangguh?
 
-All safety fields in this Evidence Pack carry a data gap status:
+Liraglutide (ID DrugBank: DB06655) adalah agonis reseptor glucagon-seperti peptida-1 (GLP-1) yang telah mapan. Dalam amalan klinikal ia dipasarkan sebagai **Victoza** (Diabetes Jenis 2) dan **Saxenda** (pengurusan berat badan kronik), dan telah menunjukkan faedah pengurangan risiko kardiovaskular dalam ujian mercu seperti LEADER. Agonis reseptor GLP-1 secara umumnya berfungsi dengan merangsang sekresi insulin yang bergantung glukosa, menekan pelepasan glukagon, memperlahankan pengosongan lambung, dan merangsang rasa kenyang — profil pelbagai sasaran yang telah menarik minat besar untuk pembentukan semula ke dalam penyakit hati metabolik (MASH/NAFLD), keadaan neurodegeneratif, dan sindrom ovari polikistik (PCOS), antara lain.
 
-- **Key Warnings:** Not retrieved — package insert PDF from the official source must be parsed *(Blocking: DG001)*
-- **Contraindications:** Not retrieved — same remediation as above *(Blocking: DG001)*
-- **Drug-Drug Interactions:** Query returned no results (0 interactions identified in current data sources)
+Walau bagaimanapun, **model TxGNN tidak telah menjana sebarang calon pembentukan semula** untuk ubat ini dalam Pakej Bukti semasa. Dua jurang data yang dikenal pasti adalah bertanggungjawab secara langsung:
 
-> Please refer to the approved package insert for complete safety information. The absence of warnings and contraindication data is a **Blocking** issue that prevents the mandatory S1 safety pre-screening step from being completed.
+1. **DG002 — Mekanisme Tindakan (Keterukan tinggi):** Medan MOA tidak diisi. Graf pengetahuan TxGNN bergantung pada anotasi sasaran-laluan yang disahkan untuk mengira skor kesamaan petunjuk silang. Tanpa penambat ini, analisis pautan mekanik tidak dapat dilaksanakan.
+
+2. **DG001 — Amaran Keselamatan & Kontraindikasi (Keterukan Menghalang):** Data risalah produk tidak telah diambil. Pintu pra-saringan keselamatan S1 — yang menyemak kontraindikasi mutlak yang diketahui sebelum calon pembentukan semula maju — tidak dapat dibersihkan tanpa maklumat ini.
+
+Sehingga kedua-dua jurang diselesaikan dan saluran dilaksanakan semula, tiada arah pembentukan semula dapat dinilai atau disenaraikan secara rasmi.
 
 ---
 
-## Conclusion and Next Steps
+## Maklumat Pasaran Malaysia
 
-**Decision: Hold**
+Pakej Bukti mengesahkan **4 pendaftaran produk aktif** dengan NPRA Malaysia, tetapi rekod lesen terperinci (nombor kebenaran, nama produk, bentuk dos, dan teks petunjuk yang diluluskan) tidak telah diambil dalam versi Pakej Bukti ini.
 
-**Rationale:**
-This Evidence Pack is critically incomplete — no TxGNN repurposing predictions have been generated, all safety data is absent at Blocking severity, and product license details were not retrieved. There is no evaluable candidate indication at this time, and advancing any repurposing hypothesis without a cleared safety screen would be premature.
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjuk yang Diluluskan |
+|-------------------|-------------|-----------|--------------------------|
+| — | — | — | *(Butiran tidak diambil — pertanyaan daftar NPRA diperlukan)* |
+| — | — | — | *(Butiran tidak diambil — pertanyaan daftar NPRA diperlukan)* |
+| — | — | — | *(Butiran tidak diambil — pertanyaan daftar NPRA diperlukan)* |
+| — | — | — | *(Butiran tidak diambil — pertanyaan daftar NPRA diperlukan)* |
 
-**To proceed, the following is needed:**
+> **Nota:** 4 pendaftaran disahkan sebagai aktif. Butiran lesen penuh mesti diambil dari portal NPRA untuk melengkapkan jadual ini sebelum bahagian Malaysia dapat menyumbang kepada penilaian.
 
-1. **Resolve DG001 (Blocking) — Retrieve package insert:**
-   Download the NPRA-approved package insert PDF for all 4 registered liraglutide products and extract key warnings, contraindications, and special population precautions.
+---
 
-2. **Resolve DG002 (High) — Populate MOA:**
-   Query the DrugBank API for DB06655 to retrieve confirmed pharmacological targets, mechanism description, and pathway annotations. This data is essential for TxGNN's mechanistic graph traversal.
+## Pertimbangan Keselamatan
 
-3. **Re-run TxGNN prediction pipeline:**
-   Once MOA and safety data are populated, re-execute both the knowledge-graph (KG) and deep-learning (DL) prediction models to generate a ranked `predicted_indications` list.
+Semua medan keselamatan dalam Pakej Bukti ini membawa status jurang data:
 
-4. **Retrieve full NPRA license details:**
-   Query the NPRA registry for all 4 registrations to populate authorization numbers, product names, dosage forms, and approved indication texts.
+- **Amaran Utama:** Tidak diambil — risalah produk PDF daripada sumber rasmi mesti dianalisis *(Menghalang: DG001)*
+- **Kontraindikasi:** Tidak diambil — pemulihan yang sama seperti di atas *(Menghalang: DG001)*
+- **Interaksi Ubat-Ubat:** Pertanyaan kembali tanpa hasil (0 interaksi dikenal pasti dalam sumber data semasa)
 
-5. **Re-generate and re-submit the Evidence Pack:**
-   After the above steps, regenerate the Evidence Pack (targeting version v5) and resubmit for a full repurposing evaluation.
+> Sila rujuk risalah produk yang diluluskan untuk maklumat keselamatan lengkap. Ketiadaan data amaran dan kontraindikasi adalah isu **Menghalang** yang menghalang langkah pra-saringan keselamatan S1 wajib daripada diselesaikan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Pakej Bukti ini sangat tidak lengkap — tiada ramalan pembentukan semula TxGNN telah dijana, semua data keselamatan tiada pada keterukan Menghalang, dan butiran lesen produk tidak telah diambil. Tiada petunjuk calon yang boleh dinilai pada masa ini, dan memajukan sebarang hipotesis pembentukan semula tanpa pra-saringan keselamatan yang telah dibersihkan akan menjadi prematur.
+
+**Untuk diteruskan, yang berikut diperlukan:**
+
+1. **Selesaikan DG001 (Menghalang) — Dapatkan risalah produk:**
+   Muat turun risalah produk PDF yang diluluskan NPRA untuk semua 4 produk liraglutide terdaftar dan ekstrak amaran utama, kontraindikasi, dan langkah pencegahan untuk populasi khusus.
+
+2. **Selesaikan DG002 (Tinggi) — Isi MOA:**
+   Pertanyaan API DrugBank untuk DB06655 untuk mendapatkan sasaran farmakologi yang disahkan, penerangan mekanisme, dan anotasi laluan. Data ini penting untuk traversal graf mekanik TxGNN.
+
+3. **Jalankan semula saluran ramalan TxGNN:**
+   Sebaik sahaja data MOA dan keselamatan diisi, jalankan semula kedua-dua model ramalan graf pengetahuan (KG) dan pembelajaran mendalam (DL) untuk menjana senarai `predicted_indications` yang disusun.
+
+4. **Ambil butiran lesen NPRA penuh:**
+   Pertanyaan daftar NPRA untuk semua 4 pendaftaran untuk mengisi nombor kebenaran, nama produk, bentuk dos, dan teks petunjuk yang diluluskan.
+
+5. **Jana semula dan hantar semula Pakej Bukti:**
+   Selepas langkah-langkah di atas, jana semula Pakej Bukti (menyasarkan versi v5) dan hantar semula untuk penilaian pembentukan semula penuh.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

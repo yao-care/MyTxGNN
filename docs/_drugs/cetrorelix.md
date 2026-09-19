@@ -29,74 +29,75 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Cetrorelix: From Controlled Ovarian Stimulation to Hypertrichosis (disease)
+# Cetrorelix: Daripada Rangsangan Ovarium Terkontrol kepada Hipertrikosis (penyakit)
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Cetrorelix is a GnRH receptor antagonist established for preventing premature LH surges during controlled ovarian stimulation in assisted reproductive technology (ART). The TxGNN model predicts it may be effective for **Hypertrichosis (disease)**, but currently **0 clinical trials** and **0 publications** support this direction — this is a pure model-prediction signal with no external validation.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not documented in Malaysia NPRA license text (all indication fields blank in source data); per established pharmacology, cetrorelix is used to prevent premature LH surge during controlled ovarian stimulation (ART) |
-| Predicted New Indication | Hypertrichosis (disease) |
-| TxGNN Prediction Score | 99.98% (rank 666) |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
-| Recommended Decision | Hold |
+Cetrorelix ialah antagonis reseptor GnRH yang ditubuhkan untuk mencegah lonjakan LH prematur semasa rangsangan ovarium terkontrol dalam teknologi reproduktif berbantuan (ART). Model TxGNN meramalkan ia mungkin berkesan untuk **Hipertrikosis (penyakit)**, tetapi pada masa kini **0 percubaan klinikal** dan **0 penerbitan** menyokong arah ini — ini adalah isyarat ramalan model tulen tanpa pengesahan luaran.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Pantas
 
-Currently, detailed mechanism of action data is not available in the evidence pack. Based on known pharmacology, cetrorelix is a GnRH (gonadotropin-releasing hormone) receptor antagonist that suppresses pituitary LH/FSH release, and its established efficacy in blocking the premature LH surge during ovarian stimulation is well documented.
-
-The proposed link to hypertrichosis rests on the idea that some forms of excess hair growth are androgen-driven, and that suppressing gonadotropin-driven gonadal steroidogenesis could theoretically reduce androgen output. However, this mechanistic path is weak and non-specific: the clinically established approach for androgen-related hirsutism/hypertrichosis uses a **GnRH agonist combined with an antiandrogen**, not a GnRH antagonist alone. No mechanistic, preclinical, or clinical evidence in this evidence pack supports antagonist monotherapy for this indication.
-
-Given the complete absence of clinical trials or literature, this prediction should be treated as a model-generated hypothesis rather than an evidence-backed signal.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Item | Kandungan |
+|------|-----------|
+| Petunjuk Asal | Tidak didokumenkan dalam teks lesen NPRA Malaysia (semua medan petunjuk kosong dalam data sumber); mengikut farmakologi yang ditubuhkan, cetrorelix digunakan untuk mencegah lonjakan LH prematur semasa rangsangan ovarium terkontrol (ART) |
+| Petunjuk Baru yang Diramalkan | Hipertrikosis (penyakit) |
+| Skor Ramalan TxGNN | 99.98% (kedudukan 666) |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 3 |
+| Keputusan Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available.
+Pada masa kini, data mekanisme tindakan terperinci tidak tersedia dalam pakej bukti. Berdasarkan farmakologi yang diketahui, cetrorelix ialah antagonis reseptor GnRH (hormon pelepas gonadotropin) yang menekan pelepasan LH/FSH hipofisis, dan keberkesanannya yang ditubuhkan dalam menyekat lonjakan LH prematur semasa rangsangan ovarium didokumenkan dengan baik.
 
----
+Pautan yang dicadangkan kepada hipertrikosis bergantung pada idea bahawa beberapa bentuk pertumbuhan rambut berlebihan didorong androgen, dan bahawa menekan steroidogenesis gonadal yang didorong gonadotropin boleh secara teorinya mengurangkan keluaran androgen. Walau bagaimanapun, laluan mekanistik ini lemah dan tidak spesifik: pendekatan klinikal yang ditubuhkan untuk hirsutime/hipertrikosis berkaitan androgen menggunakan **agonis GnRH digabungkan dengan antiandrogen**, bukan antagonis GnRH sahaja. Tiada bukti mekanistik, pra-klinikal, atau klinikal dalam pakej bukti ini menyokong monoterapi antagonis untuk petunjuk ini.
 
-## Malaysia Market Information
-
-Cetrorelix holds 3 active registrations in the Malaysia NPRA database (market status: marketed), but the evidence pack does not contain license numbers, product names, dosage forms, or approved-indication text for these registrations — this product-level detail was not returned by the data source and requires direct NPRA lookup.
+Memandangkan ketiadaan lengkap percubaan klinikal atau literatur, ramalan ini harus dianggap sebagai hipotesis yang dijana model daripada isyarat yang disokong bukti.
 
 ---
 
-## Safety Considerations
+## Bukti Percubaan Klinikal
 
-Please refer to the package insert for safety information.
+Pada masa kini tiada percubaan klinikal berkaitan yang berdaftar.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Hold**
+Pada masa kini tiada literatur berkaitan yang tersedia.
 
-**Rationale:**
-The prediction has no supporting clinical trials or literature, and the proposed mechanism (GnRH antagonism alone) diverges from the clinically established antiandrogen + GnRH agonist approach for androgen-driven hypertrichosis. Evidence level L5 (model prediction only) does not meet the bar to advance to safety review.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert (warnings, contraindications) — currently a **Blocking** data gap (DG001)
-- Confirmed mechanism of action data from DrugBank — currently a **High** severity gap (DG002)
-- Preclinical or mechanistic studies specifically testing GnRH antagonism in androgen-driven hair growth
-- Any clinical case reports or trials in hypertrichosis/hirsutism populations before further evaluation
+## Maklumat Pasaran Malaysia
+
+Cetrorelix mempunyai 3 pendaftaran aktif dalam pangkalan data NPRA Malaysia (status pasaran: dipasarkan), tetapi pakej bukti tidak mengandungi nombor lesen, nama produk, bentuk dos, atau teks petunjuk yang diluluskan untuk pendaftaran ini — butiran tahap produk ini tidak dikembalikan oleh sumber data dan memerlukan pencarian langsung NPRA.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Alasan:**
+Ramalan tidak mempunyai percubaan klinikal atau literatur yang menyokong, dan mekanisme yang dicadangkan (antagonis GnRH sahaja) menyimpang daripada pendekatan antiandrogen + agonis GnRH yang ditubuhkan secara klinikal untuk hipertrikosis didorong androgen. Tahap bukti L5 (ramalan model sahaja) tidak memenuhi bar untuk maju ke semakan keselamatan.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisipan pakej TFDA/NPRA (amaran, kontraindikasi) — pada masa kini sebuah jurang data **Sekatan** (DG001)
+- Data mekanisme tindakan yang disahkan daripada DrugBank — pada masa kini sebuah jurang **Keterukan Tinggi** (DG002)
+- Kajian pra-klinikal atau mekanistik yang secara khusus menguji antagonis GnRH dalam pertumbuhan rambut didorong androgen
+- Mana-mana laporan kes klinikal atau percubaan dalam populasi hipertrikosis/hirsutime sebelum penilaian lanjut
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,62 +29,63 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Degarelix: From Advanced Prostate Cancer to Hypertrichosis
+# Degarelix: Dari Kanser Prostat Lanjutan hingga Hipertrikosis
 
-> **Note on data provenance**: The evidence pack's `original_indications` field and TFDA/NPRA license `approved_indication_text` fields are both empty (data gap DG001, Blocking). "Advanced Prostate Cancer" below reflects Degarelix's publicly known global indication (GnRH receptor antagonist, marketed as Firmagon), not data confirmed within this evidence pack.
+> **Nota mengenai sumber data**: Medan `original_indications` dalam pakej bukti dan medan `approved_indication_text` dalam lesen TFDA/NPRA kedua-duanya kosong (jurang data DG001, Pemblokiran). "Kanser Prostat Lanjutan" di bawah mencerminkan petunjuk global Degarelix yang diketahui umum (antagonis reseptor GnRH, dipasarkan sebagai Firmagon), bukan data yang disahkan dalam pakej bukti ini.
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Degarelix is a GnRH (gonadotropin-releasing hormone) receptor antagonist, publicly known for use in advanced prostate cancer — though the evidence pack itself carries no confirmed original indication or MOA data (Blocking gap). The TxGNN model's top-ranked prediction is **Hypertrichosis**, but **no clinical trials or literature currently support this direction**, and the model's own rationale flags the mechanistic link as speculative.
+Degarelix adalah antagonis reseptor GnRH (hormon pelepas gonadotropin), yang diketahui umum digunakan untuk kanser prostat lanjutan — walaupun pakej bukti itu sendiri tidak membawa petunjuk asal atau data mekanisme tindakan yang disahkan (jurang pemblokiran DG001). Ramalan model TxGNN berpangkat teratas ialah **Hipertrikosis**, tetapi **tiada uji klinis atau kesusasteraan yang kini menyokong arahan ini**, dan rasional model itu sendiri menandai pautan mekanistik sebagai spekulatif.
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | Not available in source data (publicly known: advanced prostate cancer) |
-| Predicted New Indication | Hypertrichosis (disease) |
-| TxGNN Prediction Score | 99.99% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 2 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|-----------|
+| Petunjuk Asal | Tidak tersedia dalam data sumber (diketahui umum: kanser prostat lanjutan) |
+| Petunjuk Baru yang Diramalkan | Hipertrikosis (penyakit) |
+| Skor Ramalan TxGNN | 99.99% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (status Dipasarkan) |
+| Bilangan Pendaftaran | 2 |
+| Keputusan Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Wajar?
 
-Detailed mechanism of action data is not available in this evidence pack (Blocking/High-severity data gaps DG001, DG002). Based on general pharmacological knowledge, Degarelix is a GnRH receptor antagonist that suppresses the hypothalamic-pituitary-gonadal axis, lowering testosterone and estrogen levels — a mechanism used therapeutically in advanced prostate cancer.
+Data mekanisme tindakan terperinci tidak tersedia dalam pakej bukti ini (jurang pemblokiran/berat DG001, DG002). Berdasarkan pengetahuan farmakologi umum, Degarelix adalah antagonis reseptor GnRH yang menekan paksi hipotalamik-hipofisis-gonad, menurunkan paras testosteron dan estrogen — mekanisme yang digunakan secara terapeutik dalam kanser prostat lanjutan.
 
-The pack's own repurposing rationale for this top-ranked candidate is skeptical rather than supportive: it notes that hypertrichosis broadly refers to non-androgen-dependent, generalized excess hair growth, whereas Degarelix's action is specifically androgen/estrogen suppression. The rationale explicitly states this connection is "weak" and "speculative" (機轉與雄性素軸關聯薄弱，屬推測性連結). In other words, the high TxGNN score does not correspond to a well-supported biological hypothesis for this particular indication.
+Alasan yang diberikan pakej bukti itu sendiri untuk calon berpangkat teratas adalah ragu-ragu daripada menyokong: ia mencatat bahawa hipertrikosis secara umumnya merujuk kepada pertumbuhan rambut yang tidak bergantung androgen dan meluas, sementara tindakan Degarelix secara khusus adalah penindasan androgen/estrogen. Rasional itu secara jelas menyatakan sambungan ini adalah "lemah" dan "spekulatif" (機轉與雄性素軸關聯薄弱，屬推測性連結). Dengan kata lain, skor TxGNN yang tinggi tidak sepadan dengan hipotesis biologi yang disokong dengan baik untuk petunjuk khusus ini.
 
-Worth flagging: within the same evidence pack, rank 9 ("central precocious puberty 1") has a substantially stronger, direct mechanistic rationale — Degarelix's GnRH-antagonism directly targets the GnRH-dependent pathology of central precocious puberty — but scores lower and is marked "Research Question" rather than the top prediction. This suggests the rank-1 candidate (hypertrichosis) reflects knowledge-graph embedding similarity more than a validated pharmacological hypothesis.
+Patut dicatat: dalam pakej bukti yang sama, pangkat 9 ("pubertas dini pusat 1") mempunyai rasional mekanistik yang jauh lebih kuat dan langsung — antagonisme GnRH Degarelix secara langsung menyasarkan patologi pubertas dini pusat yang bergantung GnRH — tetapi mencetak lebih rendah dan ditandai "Soalan Penyelidikan" daripada ramalan berpangkat teratas. Ini menunjukkan bahawa calon berpangkat pertama (hipertrikosis) mencerminkan kesamaan pembenaman graf pengetahuan lebih daripada hipotesis farmakologi yang disahkan.
 
-## Clinical Trial Evidence
+## Bukti Uji Klinis
 
-Currently no related clinical trials registered.
+Pada masa ini tiada uji klinis berkaitan yang didaftarkan.
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-Currently no related literature available.
+Pada masa ini tiada kesusasteraan berkaitan yang tersedia.
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Degarelix is registered under 2 active licenses ("Marketed" / Marketed status), but the evidence pack contains no populated license numbers, product names, dosage forms, manufacturers, or approved indication text for either entry — these fields are all blank in the source data and require direct NPRA lookup to complete.
+Degarelix didaftarkan di bawah 2 lesen aktif ("Dipasarkan" / status Dipasarkan), tetapi pakej bukti tidak mengandungi nombor lesen yang dipopulasikan, nama produk, bentuk dosage, pengilang, atau teks petunjuk yang diluluskan untuk kedua-dua entri — medan ini semuanya kosong dalam data sumber dan memerlukan carian langsung NPRA untuk diselesaikan.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The candidate has L5 evidence (model prediction only, no clinical trials or literature), and the evidence pack's own mechanistic rationale characterizes the drug-disease link as speculative and weak. There is no empirical or strong mechanistic basis to advance this candidate.
+**Rasional:**
+Calon mempunyai bukti L5 (ramalan model sahaja, tiada uji klinis atau kesusasteraan), dan rasional mekanistik pakej bukti itu sendiri mencirikan pautan ubat-penyakit sebagai spekulatif dan lemah. Tiada asas empirikal atau mekanistik yang kuat untuk memajukan calon ini.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert data — key warnings, contraindications, DDI (Blocking gap, DG001)
-- Confirmed mechanism of action and original approved indication (High gap, DG002)
-- NPRA license details (license numbers, approved indication text, dosage forms) for the 2 registered products
-- If pursuing further repurposing analysis, consider re-scoping toward rank 9 (central precocious puberty), which has a stronger direct mechanistic rationale despite its lower TxGNN score and current "Research Question" status
+**Untuk meneruskan, yang berikut diperlukan:**
+- Data sisipan pakej TFDA/NPRA — amaran utama, kontraindikasi, DDI (jurang pemblokiran, DG001)
+- Petunjuk asal yang disahkan dan mekanisme tindakan (jurang berat, DG002)
+- Butiran lesen NPRA (nombor lesen, teks petunjuk yang diluluskan, bentuk dosage) untuk 2 produk berdaftar
+- Jika meneruskan analisis penggunaan semula ubat lebih jauh, pertimbangkan untuk mengalihkan fokus ke pangkat 9 ("pubertas dini pusat 1"), yang mempunyai rasional mekanistik langsung yang lebih kuat walaupun skor TxGNN lebih rendah dan status "Soalan Penyelidikan" semasa
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

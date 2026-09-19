@@ -29,88 +29,89 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Amlodipine Besylate: From Hypertension/Angina — Repurposing Predictions Not Yet Available
+# Amlodipine Besylate: Dari Hipertensi/Angina — Ramalan Pengubahgunaan Ubat Belum Tersedia
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Amlodipine Besylate is a well-established dihydropyridine calcium channel blocker widely prescribed for hypertension and angina pectoris, with 50 registered product licences in Malaysia. The current Evidence Pack contains **no TxGNN-generated repurposing predictions** for this compound, as the DrugBank ID linkage and mechanism of action data are both unresolved data gaps. This report summarises available information and recommends a **Hold** decision until the pipeline is completed.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Not populated in this Evidence Pack |
-| Predicted New Indication | None — no TxGNN predictions generated |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | N/A |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 50 |
-| Recommended Decision | **Hold** |
+Amlodipine Besylate ialah penghambat saluran kalsium dihidropiridin yang telah ditetapkan dengan baik dan diresepkan secara meluas untuk hipertensi dan angina pectoris, dengan 50 lesen produk berdaftar di Malaysia. Pakej Bukti semasa mengandungi **tiada ramalan pengubahgunaan ubat yang dihasilkan oleh TxGNN** untuk sebatian ini, kerana pautan ID DrugBank dan data mekanisme tindakan kedua-duanya merupakan jurang data yang belum diselesaikan. Laporan ini meringkaskan maklumat yang tersedia dan mengesyorkan keputusan **Tahan** sehingga saluran paip selesai.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Pantas
 
-No repurposing prediction was generated for Amlodipine Besylate in this Evidence Pack. The `predicted_indications` array is empty, which typically indicates that the compound could not be successfully linked to a node in the TxGNN knowledge graph — most likely because the DrugBank ID was not resolved (recorded as `null` despite a successful DrugBank API query on 2026-03-27).
-
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on general pharmacological knowledge, Amlodipine Besylate is a long-acting dihydropyridine-class calcium channel blocker. It selectively inhibits the voltage-gated L-type calcium channel in vascular smooth muscle and cardiac myocytes, reducing peripheral vascular resistance and myocardial oxygen demand. This mechanism underpins its established use in hypertension and chronic stable or vasospastic angina. Calcium channel blockade has also been explored in adjacent therapeutic areas — including Raynaud's phenomenon, pulmonary arterial hypertension, and subarachnoid haemorrhage-associated vasospasm — though none of these appear as predictions in the present pack.
-
-To generate valid repurposing candidates, the data pipeline must first confirm the DrugBank ID (expected: **DB00381**), link the compound to the TxGNN knowledge graph node, and re-execute the prediction run.
-
----
-
-## Clinical Trial Evidence
-
-No TxGNN-predicted indication is available for this compound. Disease-specific clinical trial evidence cannot be presented until a target indication is identified by the prediction model.
-
-Currently no related clinical trials registered under a repurposing context.
+| Item | Kandungan |
+|------|-----------|
+| Petunjuk Asal | Tidak diisi dalam Pakej Bukti ini |
+| Petunjuk Baru yang Diramalkan | Tiada — tiada ramalan pengubahgunaan ubat TxGNN yang dihasilkan |
+| Skor Ramalan TxGNN | N/A |
+| Tahap Bukti | N/A |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 50 |
+| Keputusan yang Disyorkan | **Tahan** |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Masuk Akal?
 
-No TxGNN-predicted indication is available for this compound. Disease-specific literature evidence cannot be presented until a target indication is identified by the prediction model.
+Tiada ramalan pengubahgunaan ubat yang dihasilkan untuk Amlodipine Besylate dalam Pakej Bukti ini. Tatasusunan `predicted_indications` adalah kosong, yang biasanya menunjukkan bahawa sebatian itu tidak dapat berjaya dipautkan ke nod dalam graf pengetahuan TxGNN — kemungkinan besar kerana ID DrugBank tidak diselesaikan (dicatat sebagai `null` walaupun terdapat pertanyaan API DrugBank yang berjaya pada 2026-03-27).
 
-Currently no related literature available under a repurposing context.
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia dalam Pakej Bukti ini. Berdasarkan pengetahuan farmakoloji umum, Amlodipine Besylate ialah penghambat saluran kalsium L-jenis berdaya voltan yang selektif dalam otot polos vaskular dan miokardium jantung kelas dihidropiridin jangka panjang. Ia mengurangkan rintangan vaskular persifer dan keperluan oksigen miokardium. Mekanisme ini mendasari penggunaannya yang telah ditetapkan dalam hipertensi dan angina stabil kronik atau vasospastik. Pemblokiran saluran kalsium juga telah diterokai dalam kawasan terapeutik yang bersebelahan — termasuk fenomena Raynaud, hipertensi arteri pulmonari, dan vasospasma berkaitan pendarahan subaraknoid — tetapi tiada satu pun daripada ini muncul sebagai ramalan dalam pakej semasa.
 
----
-
-## Malaysia Market Information
-
-Amlodipine Besylate holds **50 registered product licences** with the Malaysian National Pharmaceutical Regulatory Agency (NPRA), confirmed by query on 2026-03-27. However, individual product-level details (licence numbers, product names, dosage forms, approved indication text) were not returned in this Evidence Pack.
-
-| Authorisation Number | Product Name | Dosage Form | Approved Indication |
-|---------------------|--------------|-------------|---------------------|
-| — | Details not populated in this Evidence Pack | — | — |
-
-> **Note**: 50 active licences confirmed via NPRA. Full product-level records should be retrieved directly from the NPRA portal to populate the table above before proceeding.
+Untuk menjana calon pengubahgunaan ubat yang sah, saluran paip data mesti terlebih dahulu mengesahkan ID DrugBank (dijangka: **DB00381**), pautkan sebatian itu ke nod graf pengetahuan TxGNN, dan jalankan semula larian ramalan.
 
 ---
 
-## Safety Considerations
+## Bukti Ujian Klinikal
 
-Please refer to the package insert for safety information.
+Tiada petunjuk yang diramalkan oleh TxGNN tersedia untuk sebatian ini. Bukti ujian klinikal khusus penyakit tidak dapat dibentangkan sehingga petunjuk sasaran dikenal pasti oleh model ramalan.
 
-> All safety fields (key warnings, contraindications, drug interactions) are flagged as data gaps in this Evidence Pack. No interactions were returned by the DDI query. This is likely due to the unresolved DrugBank ID rather than a true absence of interactions — Amlodipine is known to have clinically relevant interactions with CYP3A4 inhibitors/inducers.
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan dalam konteks pengubahgunaan ubat.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Kesusasteraan
 
-**Decision: Hold**
+Tiada petunjuk yang diramalkan oleh TxGNN tersedia untuk sebatian ini. Bukti kesusasteraan khusus penyakit tidak dapat dibentangkan sehingga petunjuk sasaran dikenal pasti oleh model ramalan.
 
-**Rationale:**
-This Evidence Pack is structurally incomplete — the TxGNN prediction pipeline was not able to generate any repurposing candidates because the DrugBank ID linkage failed, and all safety and indication fields are unresolved data gaps. A meaningful repurposing evaluation cannot proceed in this state.
+Pada masa ini tiada kesusasteraan berkaitan yang tersedia dalam konteks pengubahgunaan ubat.
 
-**To proceed, the following is needed:**
+---
 
-- **[Blocking — DG001]** Retrieve approved indication text and full safety warnings (contraindications, black-box warnings) from the Malaysia NPRA-registered product inserts; these are required before any safety screening can occur.
-- **[High — DG002]** Confirm and record the DrugBank ID for Amlodipine Besylate (expected: **DB00381**) via the DrugBank API, and extract the full mechanism of action entry to support mechanistic plausibility analysis.
-- **Re-run TxGNN prediction pipeline** with the confirmed DrugBank ID to generate repurposing candidates; this will unlock all downstream sections (predicted indications, clinical trial evidence, literature evidence).
-- **Populate all 50 NPRA licence records** with complete product details (product name, dosage form, approved indication text) to enable a proper Malaysia market summary.
-- Once all gaps are resolved, **re-generate this report** using the completed Evidence Pack.
+## Maklumat Pasaran Malaysia
+
+Amlodipine Besylate memegang **50 lesen produk berdaftar** dengan Agensi Kawal Selia Farmaseutikal Kebangsaan Malaysia (NPRA), disahkan melalui pertanyaan pada 2026-03-27. Walau bagaimanapun, butiran peringkat produk individu (nombor lesen, nama produk, bentuk dos, teks petunjuk yang diluluskan) tidak dikembalikan dalam Pakej Bukti ini.
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjuk yang Diluluskan |
+|------------------|--------------|-----------|-----------------------|
+| — | Butiran tidak diisi dalam Pakej Bukti ini | — | — |
+
+> **Nota**: 50 lesen aktif disahkan melalui NPRA. Rekod peringkat produk penuh harus diambil terus daripada portal NPRA untuk mengisi jadual di atas sebelum meneruskan.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk nota pengguna untuk maklumat keselamatan.
+
+> Semua medan keselamatan (amaran utama, kontraindikasi, interaksi ubat) ditandakan sebagai jurang data dalam Pakej Bukti ini. Tiada interaksi dikembalikan oleh pertanyaan DDI. Ini berkemungkinan disebabkan oleh ID DrugBank yang belum diselesaikan dan bukannya ketiadaan interaksi yang sebenar — Amlodipine diketahui mempunyai interaksi yang relevan secara klinikal dengan perencat/penginduksi CYP3A4.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Alasan:**
+Pakej Bukti ini secara struktur tidak lengkap — saluran paip ramalan TxGNN tidak dapat menjana calon pengubahgunaan ubat kerana pautan ID DrugBank gagal, dan semua medan petunjuk dan keselamatan adalah jurang data yang belum diselesaikan. Penilaian pengubahgunaan ubat yang bermakna tidak dapat diteruskan dalam keadaan ini.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+
+- **[Menghalang — DG001]** Ambil teks petunjuk yang diluluskan dan amaran keselamatan penuh (kontraindikasi, amaran kotak hitam) daripada nota pengguna produk NPRA-berdaftar Malaysia; ini diperlukan sebelum sebarang saringan keselamatan dapat dilakukan.
+- **[Tinggi — DG002]** Sahkan dan rekodkan ID DrugBank untuk Amlodipine Besylate (dijangka: **DB00381**) melalui API DrugBank, dan ekstrak entri mekanisme tindakan penuh untuk menyokong analisis kebolehpercayaan mekanik.
+- **Jalankan semula saluran paip ramalan TxGNN** dengan ID DrugBank yang disahkan untuk menjana calon pengubahgunaan ubat; ini akan membuka kunci semua bahagian hiliran (petunjuk yang diramalkan, bukti ujian klinikal, bukti kesusasteraan).
+- **Isi semua 50 rekod lesen NPRA** dengan butiran produk lengkap (nama produk, bentuk dos, teks petunjuk yang diluluskan) untuk memungkinkan ringkasan pasaran Malaysia yang betul.
+- Setelah semua jurang diselesaikan, **jana semula laporan ini** menggunakan Pakej Bukti yang selesai.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,63 +29,64 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Turoctocog Alfa Pegol: From Hemophilia A to Primary Release Disorder of Platelets
+# Turoctocog Alfa Pegol: Daripada Hemofilia A kepada Gangguan Pelepasan Primer Plat
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Turoctocog alfa pegol (DrugBank DB14738) is a PEGylated recombinant Factor VIII replacement product, referenced in the evidence pack as approved for congenital Factor VIII deficiency (Hemophilia A). The TxGNN model predicts it may be effective for **Primary Release Disorder of Platelets**, but this direction is currently supported by **0 clinical trials** and **0 publications**, and the model's own mechanistic annotation flags no direct pharmacological link between the two conditions.
+Turoctocog alfa pegol (DrugBank DB14738) ialah produk penggantian Faktor VIII yang tersusun semula dan dipegil, dirujuk dalam pakej bukti sebagai diluluskan untuk kekurangan Faktor VIII bawaan (Hemofilia A). Model TxGNN meramalkan bahawa ia mungkin berkesan untuk **Gangguan Pelepasan Primer Plat**, tetapi arah ini pada masa ini disokong oleh **0 percubaan klinikal** dan **0 penerbitan**, dan anotasi mekanik model itu sendiri menandakan tiada pautan farmakologi langsung antara dua keadaan tersebut.
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | Not formally recorded in this dataset (`original_indications` is empty; NPRA license indication text is also blank). Rationale text elsewhere in the pack identifies the drug class as congenital Factor VIII deficiency (Hemophilia A) replacement therapy. |
-| Predicted New Indication | Primary release disorder of platelets |
-| TxGNN Prediction Score | 99.9966% |
-| Evidence Level | L5 (model prediction only, no clinical or literature support) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 4 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Tidak direkodkan secara rasmi dalam dataset ini (`original_indications` kosong; teks petunjuk lesen NPRA juga kosong). Teks rasional di tempat lain dalam pakej mengenal pasti kelas ubat sebagai terapi penggantian kekurangan Faktor VIII bawaan (Hemofilia A). |
+| Petunjuk Baru yang Diramalkan | Gangguan pelepasan primer plat |
+| Skor Ramalan TxGNN | 99.9966% |
+| Tahap Bukti | L5 (ramalan model sahaja, tiada sokongan klinikal atau literatur) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 4 |
+| Keputusan yang Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed mechanism-of-action data for turoctocog alfa pegol is flagged as a data gap in this evidence pack (DG002, High severity). Based on the information that is available, several of the model's own rationale annotations describe the drug as a PEGylated recombinant Factor VIII replacement therapy, indicated for congenital Factor VIII deficiency (Hemophilia A) — a coagulation-cascade disorder corrected by exogenous clotting-factor replacement.
+Data mekanisme tindakan terperinci untuk turoctocog alfa pegol ditandai sebagai jurang data dalam pakej bukti ini (DG002, keterukan tinggi). Berdasarkan maklumat yang tersedia, beberapa anotasi rasional model itu sendiri menggambarkan ubat ini sebagai terapi penggantian Faktor VIII yang tersusun semula dan dipegil, ditunjukkan untuk kekurangan Faktor VIII bawaan (Hemofilia A) — gangguan lata pembekuan yang diperbetulkan oleh penggantian faktor pembekuan eksogen.
 
-Primary release disorder of platelets, however, is a platelet **function** defect (impaired granule release, e.g. delta/alpha storage pool disease), not a coagulation-factor deficiency. The evidence pack's own mechanistic annotation for this candidate states explicitly that there is "no direct mechanistic association" between platelet granule-release pathology and Factor VIII replacement. This suggests the very high TxGNN score most likely reflects graph-topology proximity between platelet disorders and coagulation disorders in the knowledge graph, rather than a substantiated pharmacological rationale.
+Gangguan pelepasan primer plat, bagaimanapun, ialah kerosakan **fungsi** plat (pelepasan granula terganggu, contohnya penyakit kolam penyimpanan delta/alfa), bukan kekurangan faktor pembekuan. Anotasi mekanik pakej bukti sendiri untuk calon ini menyatakan dengan jelas bahawa terdapat "tiada persatuan mekanik langsung" antara patologi pelepasan granula plat dan penggantian Faktor VIII. Ini mencadangkan bahawa skor TxGNN yang sangat tinggi kemungkinan besar mencerminkan kedekatan topologi graf antara gangguan plat dan gangguan pembekuan dalam graf pengetahuan, dan bukannya rasional farmakologi yang terbukti.
 
-Given this, the prediction should be read as a hypothesis-generation signal rather than a mechanistically grounded candidate, consistent with the L5 evidence level and Hold recommendation already assigned in the source data.
+Memandangkan ini, ramalan harus dibaca sebagai isyarat penjanaan hipotesis daripada calon yang berasaskan mekanik, selaras dengan tahap bukti L5 dan cadangan Tahan yang telah diperuntukkan dalam data sumber.
 
-## Clinical Trial Evidence
+## Bukti Percubaan Klinikal
 
-Currently no related clinical trials registered.
+Pada masa ini tiada percubaan klinikal terkait yang didaftarkan.
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no related literature available.
+Pada masa ini tiada literatur terkait yang tersedia.
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-NPRA records show turoctocog alfa pegol as marketed in Malaysia with **4 active registrations**. However, individual license details (authorization numbers, product names, dosage forms, approved indication text) are not populated in the current dataset and cannot be tabulated.
+Rekod NPRA menunjukkan turoctocog alfa pegol sebagai dipasarkan di Malaysia dengan **4 pendaftaran aktif**. Namun, butiran lesen individu (nombor kelulusan, nama produk, bentuk dos, teks petunjuk yang diluluskan) tidak diisi dalam dataset semasa dan tidak dapat ditabelkan.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk risalah bungkusan untuk maklumat keselamatan.
 
-*(Note: `key_warnings`, `contraindications`, and DDI data are all unavailable in this evidence pack — DG001, Blocking severity — which by itself prevents progression to the S1 safety pre-assessment stage.)*
+*(Nota: Data `key_warnings`, `contraindications`, dan DDI semuanya tidak tersedia dalam pakej bukti ini — DG001, Keterukan Sekatan — yang dengan sendirinya menghalang kemajuan ke peringkat pra-penilaian keselamatan S1.)*
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The prediction is supported only by the TxGNN model score (L5, no clinical trials or literature), and the evidence pack's own mechanistic annotation indicates no direct pharmacological link between Factor VIII replacement and platelet granule-release disorders. A Blocking-severity data gap (TFDA/NPRA label warnings and contraindications) also prevents any safety pre-assessment at this time.
+**Rasional:**
+Ramalan disokong hanya oleh skor model TxGNN (L5, tiada percubaan klinikal atau literatur), dan anotasi mekanik pakej bukti itu sendiri menunjukkan tiada pautan farmakologi langsung antara penggantian Faktor VIII dan gangguan pelepasan granula plat. Jurang data berkadar keterukan Sekatan (amaran label TFDA/NPRA dan kontraindikasi) juga menghalang sebarang pra-penilaian keselamatan pada masa ini.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert (warnings, contraindications) — required before any safety pre-assessment (DG001, Blocking)
-- Confirmed mechanism of action from DrugBank or primary literature (DG002, High)
-- Confirmed original indication text (currently missing from both `original_indications` and NPRA license records)
-- Complete Malaysia license details (authorization numbers, product names, dosage forms)
-- Independent preclinical or mechanistic evidence specifically linking Factor VIII pathway activity to platelet granule-release physiology, before any clinical exploration is considered
+**Untuk meneruskan, yang berikut diperlukan:**
+- Risalah bungkusan TFDA/NPRA (amaran, kontraindikasi) — diperlukan sebelum sebarang pra-penilaian keselamatan (DG001, Sekatan)
+- Mekanisme tindakan yang disahkan daripada DrugBank atau literatur utama (DG002, Tinggi)
+- Teks petunjuk asal yang disahkan (pada masa ini hilang daripada kedua-dua `original_indications` dan rekod lesen NPRA)
+- Butiran lesen Malaysia yang lengkap (nombor kelulusan, nama produk, bentuk dos)
+- Bukti praklinikal atau mekanik bebas yang secara khusus menghubungkan aktiviti laluan Faktor VIII kepada fisiologi pelepasan granula plat, sebelum sebarang penerokaan klinikal dipertimbangkan
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

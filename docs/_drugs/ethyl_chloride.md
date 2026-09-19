@@ -29,60 +29,61 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Ethyl Chloride: From Topical Anesthesia to Craniostenosis Cataract
+# Etil Klorida: Dari Anestesi Topikal ke Katarak Craniostenosis
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Ethyl chloride is a volatile halogenated hydrocarbon traditionally used as a topical vapocoolant/local anesthetic (and historically as an inhalation general anesthetic); no structured original-indication text is available in the current Malaysia NPRA registration record. The TxGNN model's top-ranked prediction is **Craniostenosis Cataract**, with a score of **99.77%**, but this is supported by **0 clinical trials** and **0 publications**, and the model's own rationale explicitly flags the signal as likely reflecting graph co-occurrence with cataract-surgery anesthesia rather than a genuine treatment relationship.
+Etil klorida adalah hidrokarbon berhalogen yang mudah menguap yang secara tradisional digunakan sebagai agen pendingin/anestetik lokal topikal (dan secara historis sebagai anestetik umum inhalasi); teks indikasi asli yang tersusun tidak tersedia dalam rekod pendaftaran Malaysia NPRA semasa. Ramalan model TxGNN berperingkat teratas adalah **Katarak Craniostenosis**, dengan skor **99.77%**, tetapi ini disokong oleh **0 ujian klinikal** dan **0 penerbitan**, dan rasional model sendiri secara eksplisit menandai isyarat ini sebagai kemungkinan besar mencerminkan kehadiran bersama graf dengan anestetik pembedahan katarak daripada hubungan rawatan yang tulin.
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | Not available in current data extract (topical/local anesthesia is the drug's general known use) |
-| Predicted New Indication | Craniostenosis Cataract |
-| TxGNN Prediction Score | 99.77% |
-| Evidence Level | L5 (model prediction only; no clinical trials or literature) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asli | Tidak tersedia dalam ekstrak data semasa (anestesia topikal/lokal adalah penggunaan umum yang diketahui ubat) |
+| Indikasi Baru Diramal | Katarak Craniostenosis |
+| Skor Ramalan TxGNN | 99.77% |
+| Tahap Bukti | L5 (ramalan model sahaja; tiada ujian klinikal atau kesusasteraan) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan Disyorkan | Tangguh |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data is not available. Based on known general pharmacology, ethyl chloride is a short-acting volatile agent applied topically as a vapocoolant/local anesthetic and used historically by inhalation as a general anesthetic. Its efficacy in producing rapid, transient local or general anesthesia is well established, but there is no known mechanism by which it would act on lens protein aggregation, oxidative stress, osmotic/sorbitol pathways, or other processes implicated in cataract formation.
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia. Berdasarkan farmakologi umum yang diketahui, etil klorida adalah agen mudah menguap bertindak pendek yang digunakan topikal sebagai agen pendingin/anestetik lokal dan digunakan secara historis melalui inhalasi sebagai anestetik umum. Keberhasilannya dalam menghasilkan anestetik lokal atau umum yang cepat dan sementara telah ditentukan dengan baik, tetapi tidak ada mekanisme yang diketahui di mana ia akan bertindak pada pengumpulan protein lensa, tekanan oksidatif, laluan osmotik/sorbitol, atau proses lain yang terlibat dalam pembentukan katarak.
 
-The evidence pack's own repurposing rationale for this and the surrounding candidates (9 of the top 10 predictions are cataract subtypes) is explicit that the high TxGNN score most likely arises from ethyl chloride's co-occurrence with cataract *surgery* nodes in the knowledge graph — i.e., it is commonly used as a topical anesthetic during minor ophthalmic/surgical procedures — rather than any disease-modifying effect on the cataract itself. This is a drug–procedure confusion pattern rather than a drug–disease treatment signal, and the same caveat is repeated independently across the craniostenosis, tetanic, diabetic, mature, immature, cortical, nuclear senile, and senile cataract entries.
+Pakej bukti rasional repurposing sendiri untuk calon ini dan yang sekitarnya (9 daripada 10 ramalan teratas adalah subtipe katarak) adalah jelas bahawa skor TxGNN yang tinggi kemungkinan besar timbul daripada kehadiran bersama etil klorida dengan nod pembedahan katarak dalam graf pengetahuan — iaitu, ia sering digunakan sebagai anestetik topikal semasa prosedur ophtalmik/pembedahan kecil — daripada sebarang kesan pengubahan penyakit pada katarak itu sendiri. Ini adalah corak kekeliruan ubat–prosedur daripada isyarat rawatan ubat–penyakit yang tulin, dan kaveat yang sama diulangi secara bebas merentasi entri katarak craniostenosis, tetanik, diabetik, matang, belum matang, korteks, nuklear senilis, dan senilis.
 
-The 10th candidate, acne, is rationalized only through the drug's local cooling/analgesic effect during comedone extraction — again a procedural-adjunct use, not a disease-modifying mechanism, with no antimicrobial or anti-inflammatory activity cited.
+Calon ke-10, jerawat, dirationalkan hanya melalui kesan pendinginan/analgesik lokal ubat semasa pengekstrakan komedo — sekali lagi penggunaan bantuan prosedur, bukan mekanisme pengubahan penyakit, tanpa aktiviti antimikrob atau anti-radang yang disebut.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-Currently no related clinical trials registered.
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-Currently no related literature available.
+Pada masa ini tiada kesusasteraan berkaitan yang tersedia.
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-The NPRA record indicates 1 registered license for ethyl chloride with market status "Marketed," but the authorization number, product name, dosage form, and approved indication text are not populated in the current data extract, so no license-level table can be produced.
+Rekod NPRA menunjukkan 1 lesen berdaftar untuk etil klorida dengan status pasaran "Dipasarkan," tetapi nombor kebenaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan tidak diisi dalam ekstrak data semasa, jadi tiada jadual peringkat lesen boleh dihasilkan.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tangguh**
 
-**Rationale:**
-The prediction rests entirely on a high TxGNN score with zero clinical trial or literature support (L5), and the evidence pack's own mechanistic analysis attributes the score to a co-occurrence artifact (ethyl chloride as a peri-procedural anesthetic for cataract surgery) rather than a real disease-modifying pathway. Combined with a Blocking data gap on TFDA/NPRA label warnings, this candidate does not meet the minimum bar to advance.
+**Rasional:**
+Ramalan bergantung sepenuhnya pada skor TxGNN yang tinggi tanpa sokongan ujian klinikal atau kesusasteraan (L5), dan analisis mekanik pakej bukti sendiri mengaitkan skor itu kepada artifak kehadiran bersama (etil klorida sebagai anestetik peri-prosedur untuk pembedahan katarak) daripada laluan pengubahan penyakit yang nyata. Digabungkan dengan jurang data Menyekat pada amaran label TFDA/NPRA, calon ini tidak memenuhi bar minimum untuk maju.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert (warnings, contraindications) — currently a Blocking gap (DG001)
-- DrugBank-confirmed mechanism of action (DG002)
-- An independent mechanistic hypothesis that distinguishes a genuine drug–disease signal from the suspected anesthesia-procedure co-occurrence artifact
-- Any preclinical/in vitro data linking ethyl chloride to lens or cataract-relevant pathways before further evaluation is warranted
+**Untuk meneruskan, yang berikut diperlukan:**
+- Sisipan pakej TFDA/NPRA (amaran, kontraindikasi) — pada masa ini jurang Menyekat (DG001)
+- Mekanisme tindakan yang disahkan DrugBank (DG002)
+- Hipotesis mekanik bebas yang membezakan isyarat ubat–penyakit tulin daripada artefak kehadiran bersama prosedur anestetik yang disyaki
+- Sebarang data praklinical/in vitro yang menghubungkan etil klorida kepada laluan lensa atau katarak yang relevan sebelum penilaian lanjut adalah wajar
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

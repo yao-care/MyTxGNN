@@ -29,74 +29,75 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Pyrazinamide: From Pulmonary Tuberculosis to Infectious Otitis Media
+# Pyrazinamide: Daripada Tuberkulosis Paru-paru kepada Otitis Media Berjangkit
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Pyrazinamide is a first-line anti-tuberculosis agent, used as part of standard combination therapy (with isoniazid, rifampicin, ± ethambutol) for pulmonary tuberculosis. The TxGNN model predicts it may be effective for **Infectious Otitis Media**, but this specific candidate currently has **0 clinical trials** and **0 publications** supporting it directly — the model's high score appears to reflect embedding proximity to a related, better-documented entity (tuberculous otitis media) rather than direct evidence.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Pulmonary tuberculosis (component of first-line anti-TB combination regimen; NPRA license-level indication text not available in source data) |
-| Predicted New Indication | Infectious Otitis Media |
-| TxGNN Prediction Score | 99.96% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 5 |
-| Recommended Decision | Hold |
+Pyrazinamide ialah ejen anti-tuberkulosis garis pertama, digunakan sebagai sebahagian daripada terapi kombinasi piawai (bersama-sama isoniazid, rifampicin, ± ethambutol) untuk tuberkulosis paru-paru. Model TxGNN meramalkan ia mungkin berkesan untuk **Otitis Media Berjangkit**, namun calon khusus ini pada masa kini mempunyai **0 ujian klinikal** dan **0 penerbitan** yang menyokongnya secara langsung — skor tinggi model nampaknya mencerminkan kesamaan penyisipan kepada entiti berkaitan yang lebih terdokumen (otitis media tuberkulosis) daripada bukti langsung.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Pantas
 
-Currently, detailed mechanism of action data is not available (marked as a data gap in the source pack). Based on known pharmacology, pyrazinamide is a prodrug converted by mycobacterial pyrazinamidase to pyrazinoic acid, which disrupts membrane potential and energy metabolism of *Mycobacterium tuberculosis* in the acidic, necrotic environment of TB lesions. It is a core component of the standard first-line four-drug regimen for pulmonary tuberculosis, and its efficacy in that indication is well established.
-
-For the top-ranked candidate itself — infectious otitis media — no clinical trial or literature evidence was returned in this evidence pack. Per the model's own rationale, the high TxGNN score (rank 1030 internally) most likely reflects knowledge-graph embedding similarity to a neighboring, more specific disease node — "tuberculous otitis media" — rather than a genuinely novel, evidence-backed signal.
-
-Notably, several closely related candidates in the same prediction set (middle ear disease, chronic otitis media, suppurative otitis media — ranks 2, 4, 5) **are** each backed by 5–8 case reports/reviews. All of that literature describes **tuberculous otitis media** — a rare extrapulmonary manifestation of TB affecting the middle ear — successfully treated with standard anti-TB regimens that include pyrazinamide. This suggests the pharmacologically justifiable indication is narrower than "infectious otitis media" in general: it is otitis media **secondary to confirmed tuberculosis infection**, not otitis media of other (e.g., typical bacterial) etiology, since pyrazinamide's antimicrobial spectrum is essentially limited to mycobacteria.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Item | Kandungan |
+|------|---------|
+| Indikasi Asal | Tuberkulosis paru-paru (komponen rejimen kombinasi anti-TB garis pertama; teks indikasi peringkat lesen NPRA tidak tersedia dalam data sumber) |
+| Indikasi Baru yang Dijangka | Otitis Media Berjangkit |
+| Skor Ramalan TxGNN | 99.96% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 5 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Masuk Akal?
 
-Currently no related literature available.
+Pada masa kini, data mekanisme tindakan terperinci tidak tersedia (ditandakan sebagai jurang data dalam pakej sumber). Berdasarkan farmakologi yang diketahui, pyrazinamide ialah ubat prodrug yang diubah oleh pyrazinamidase mikoakteri kepada asid pyrazinoik, yang mengganggu potensi membran dan metabolisme tenaga *Mycobacterium tuberculosis* dalam persekitaran asid dan nekrotik lesi TB. Ia adalah komponen utama rejimen kombinasi empat ubat garis pertama piawai untuk tuberkulosis paru-paru, dan keberkesanannya dalam indikasi itu sudah terbukti.
 
----
+Untuk calon puncak itu sendiri — otitis media berjangkit — tiada bukti ujian klinikal atau kesusasteraan yang dikembalikan dalam pakej bukti ini. Menurut rasionalisasi model itu sendiri, skor TxGNN yang tinggi (pangkat 1030 secara dalaman) berkemungkinan besar mencerminkan kesamaan penyisipan graf pengetahuan kepada nod penyakit jiran yang lebih spesifik — "otitis media tuberkulosis" — daripada suatu isyarat baru yang tulen dan disokong bukti.
 
-## Malaysia Market Information
-
-5 product authorizations are registered with NPRA (market status: Marketed), but license-level details (license number, product name, dosage form, approved indication text) were not returned in the source data pack and could not be populated here.
+Terutamanya, beberapa calon yang berkaitan rapat dalam set ramalan yang sama (penyakit telinga tengah, otitis media kronik, otitis media bernanah — pangkat 2, 4, 5) **adalah** masing-masing disokong oleh 5–8 laporan kes/tinjauan. Semua kesusasteraan itu menerangkan **otitis media tuberkulosis** — manifestasi ekstrapulmoner TB yang jarang mempengaruhi telinga tengah — berjaya dirawat dengan rejimen anti-TB piawai yang merangkumi pyrazinamide. Ini mencadangkan bahawa indikasi yang boleh dipertahankan secara farmakologi adalah lebih sempit daripada "otitis media berjangkit" secara umum: ia adalah otitis media **sekunder kepada jangkitan tuberkulosis yang disahkan**, bukan otitis media dengan etiologi lain (seperti bakteri tipikal), kerana spektrum antimikrobial pyrazinamide pada asasnya terhad kepada mikoakteri.
 
 ---
 
-## Safety Considerations
+## Bukti Ujian Klinikal
 
-Please refer to the package insert for safety information.
+Pada masa kini tiada ujian klinikal yang berkaitan didaftarkan.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Kesusasteraan
 
-**Decision: Hold**
+Pada masa kini tiada kesusasteraan yang berkaitan tersedia.
 
-**Rationale:**
-Despite a high TxGNN confidence score, "infectious otitis media" has zero direct clinical trial or literature support, meeting only the model-prediction-only evidence tier (L5). The actual supporting evidence in this dataset concentrates on tuberculous otitis media specifically, which is arguably an extension of pyrazinamide's existing TB indication rather than a genuinely new one.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert (warnings, contraindications) — currently a blocking data gap preventing safety pre-screening
-- DrugBank mechanism-of-action data via API — needed to formally assess mechanistic plausibility
-- Consider re-scoping the candidate from "infectious otitis media" to "tuberculous otitis media" and gather diagnosis-linked clinical evidence for that narrower indication
-- Malaysia license-level product data (license numbers, product names, dosage forms, approved indication text) to complete the market information section
+## Maklumat Pasaran Malaysia
+
+5 kebenaran produk didaftarkan dengan NPRA (status pasaran: Dipasarkan), namun butiran peringkat lesen (nombor lesen, nama produk, bentuk dos, teks indikasi yang diluluskan) tidak dikembalikan dalam pakej data sumber dan tidak dapat dilengkapkan di sini.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Alasan:**
+Walaupun skor keyakinan TxGNN yang tinggi, "otitis media berjangkit" mempunyai sokongan ujian klinikal atau kesusasteraan langsung yang sifar, memenuhi hanya tahap bukti ramalan model sahaja (L5). Bukti sokongan sebenarnya dalam set data ini tertumpu pada otitis media tuberkulosis khususnya, yang boleh dikatakan sebagai lanjutan indikasi TB pyrazinamide yang sudah ada daripada satu yang benar-benar baru.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisipan pakej TFDA/NPRA (amaran, kontraindikasi) — pada masa kini merupakan jurang data yang menghalang penyaringan keselamatan awal
+- Data mekanisme tindakan DrugBank melalui API — diperlukan untuk menilai secara formal kerasionalan mekanik
+- Pertimbangkan untuk mengubah semula skop calon daripada "otitis media berjangkit" kepada "otitis media tuberkulosis" dan kumpulkan bukti klinikal yang dikaitkan dengan diagnosis untuk indikasi yang lebih sempit itu
+- Data produk lesen Malaysia (nombor lesen, nama produk, bentuk dos, teks indikasi yang diluluskan) untuk melengkapkan bahagian maklumat pasaran
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

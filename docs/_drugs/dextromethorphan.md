@@ -29,101 +29,102 @@ Tahap bukti: **L2** | Indikasi diramal: **6**
 
 </div>
 
-# Dextromethorphan: From Cough Suppression to Nasal Cavity Disease
+# Dextromethorphan: Daripada Penindasan Batuk kepada Penyakit Rongga Hidung
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Dextromethorphan (DXM) is a widely used antitussive (cough suppressant) with NMDA receptor antagonist and sigma-1 receptor agonist properties. The TxGNN model predicts it may be effective for **Nasal Cavity Disease**, with **1 clinical trial** currently listed, though direct evidence for this specific indication remains limited. No relevant publications were identified at the time of data cutoff.
+Dextromethorphan (DXM) ialah antitusif (penekan batuk) yang digunakan secara luas dengan sifat antagonis reseptor NMDA dan agonis reseptor sigma-1. Model TxGNN meramalkan bahawa ia mungkin berkesan untuk **Penyakit Rongga Hidung**, dengan **1 ujian klinis** yang kini tersenarai, walaupun bukti langsung untuk indikasi spesifik ini masih terbatas. Tiada penerbitan berkaitan yang dikenal pasti pada masa pemotongan data.
 
 ---
 
-## Quick Overview
+## Gambaran Pantas
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Cough suppression (antitussive) |
-| Predicted New Indication | Nasal Cavity Disease |
-| TxGNN Prediction Score | 99.98% |
-| Evidence Level | L2 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 45 |
-| Recommended Decision | Proceed with Guardrails |
+| Indikasi Asal | Penindasan batuk (antitusif) |
+| Indikasi Baru yang Diramalkan | Penyakit Rongga Hidung |
+| Skor Ramalan TxGNN | 99.98% |
+| Tahap Bukti | L2 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 45 |
+| Cadangan Keputusan | Teruskan dengan Penjaga |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data is not available in the evidence pack. Based on established pharmacology, dextromethorphan is a multitarget drug primarily used as a cough suppressant. Its key pharmacological actions include **NMDA receptor antagonism**, **sigma-1 receptor agonism**, and **serotonin reuptake inhibition**. These diverse receptor activities give DXM a broader pharmacological profile than a typical antitussive agent.
+Pada masa kini, data mekanisme aksi terperinci tidak tersedia dalam pakej bukti. Berdasarkan farmakologi yang telah ditubuhkan, dextromethorphan ialah ubat berbilang sasaran yang digunakan terutamanya sebagai penekan batuk. Aktiviti farmakologi utamanya termasuk **antagonisme reseptor NMDA**, **agonisme reseptor sigma-1**, dan **pemblokiran pengambilan semula serotonin**. Aktiviti reseptor yang pelbagai ini memberikan DXM profil farmakologi yang lebih luas daripada agen antitusif biasa.
 
-DXM has been widely used for upper respiratory symptom relief, particularly cough suppression associated with colds and upper airway irritation. Nasal cavity disease—encompassing conditions affecting the nasal passages such as mucosal inflammation and congestion—shares anatomical and pathophysiological overlap with upper respiratory conditions where DXM is already clinically employed. The sigma-1 receptor agonist activity of DXM may confer anti-inflammatory effects that could help modulate nasal mucosal inflammation. Additionally, NMDA receptor antagonism may regulate neurogenic inflammation in the nasal cavity, a mechanism implicated in chronic rhinosinusitis and other nasal inflammatory conditions.
+DXM telah digunakan secara meluas untuk pelepasan gejala pernafasan atas, terutamanya penindasan batuk yang berkaitan dengan selesema dan iritasi jalan udara atas. Penyakit rongga hidung—merangkumi keadaan yang menjejaskan saluran hidung seperti keradangan mukosa dan kesesakan—berkongsi pertindihan anatomi dan patofisiologi dengan keadaan pernafasan atas di mana DXM sudah digunakan secara klinis. Aktiviti agonis reseptor sigma-1 DXM mungkin memberikan kesan anti-radang yang boleh membantu mengubah suaikan keradangan mukosa hidung. Selain itu, antagonisme reseptor NMDA mungkin mengawal keradangan neurogenik dalam rongga hidung, satu mekanisme yang terlibat dalam sinusitis rino kronik dan keadaan keradangan hidung lain.
 
-The prediction is mechanistically plausible given DXM's established role in upper respiratory care, its potential anti-inflammatory properties through sigma-1 receptors, and the anatomical proximity of its traditional therapeutic targets to the nasal cavity. Furthermore, DXM is increasingly being investigated for indications beyond cough suppression (e.g., the DXM/bupropion combination for major depressive disorder), demonstrating that its pharmacological versatility extends well beyond its original antitussive use.
+Ramalan ini munasabah dari segi mekanisme memandangkan peranan DXM yang telah ditubuhkan dalam penjagaan pernafasan atas, sifat anti-radang yang berpotensi melalui reseptor sigma-1, dan kedekatan anatomi sasaran terapeutik tradisionalnya kepada rongga hidung. Tambahan pula, DXM semakin dikajidengan pelbagai indikasi di luar penindasan batuk (contohnya, kombinasi DXM/bupropion untuk gangguan depresif utama), menunjukkan bahawa kepelbagaian farmakologinya melampaui penggunaan antitusif asal.
 
 ---
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinis
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Ujian | Fasa | Status | Kemasukan | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT06958692](https://clinicaltrials.gov/study/NCT06958692) | Phase 3 | Recruiting | 388 | Multicenter, randomized, double-blind, placebo-controlled trial evaluating DXM/bupropion sustained-release tablets in Chinese adult patients with major depressive disorder (MDD). |
+| [NCT06958692](https://clinicaltrials.gov/study/NCT06958692) | Fasa 3 | Mencari Peserta | 388 | Ujian berbilang pusat, rawak, buta dua, terkawal plasebo yang menilai tablet bersambung DXM/bupropion pada pesakit dewasa China dengan gangguan depresif utama (MDD). |
 
-> **Note:** The listed clinical trial investigates dextromethorphan in combination with bupropion for major depressive disorder, not nasal cavity disease directly. Its relevance to the predicted indication is indirect—it reflects the expanding clinical investigation of DXM beyond its traditional antitussive role, but does not constitute direct evidence for nasal cavity disease.
-
----
-
-## Literature Evidence
-
-Currently no related literature available.
+> **Catatan:** Ujian klinis yang tersenarai menyelidiki dextromethorphan dalam kombinasi dengan bupropion untuk gangguan depresif utama, bukan penyakit rongga hidung secara langsung. Kaitannya dengan indikasi yang diramalkan adalah tidak langsung—ia mencerminkan penyiasatan klinis yang berkembang pesat untuk DXM di luar peranannya yang biasa sebagai antitusif, tetapi tidak merupakan bukti langsung untuk penyakit rongga hidung.
 
 ---
 
-## Malaysia Market Information
+## Bukti Literatur
 
-Dextromethorphan has **45 registered products** in Malaysia with a market status of **Marketed**. Detailed individual license information (authorization numbers, product names, dosage forms, and approved indications) was not available in the evidence pack at the time of this report.
-
-> Detailed registration records should be obtained from NPRA (National Pharmaceutical Regulatory Agency) for a complete regulatory assessment.
+Pada masa kini tiada literatur yang berkaitan tersedia.
 
 ---
 
-## Safety Considerations
+## Maklumat Pasaran Malaysia
 
-> Please refer to the package insert for safety information.
+Dextromethorphan mempunyai **45 produk berdaftar** di Malaysia dengan status pasaran **Dipasarkan**. Maklumat pendaftaran individu terperinci (nombor kebenaran, nama produk, bentuk dos, dan indikasi yang diluluskan) tidak tersedia dalam pakej bukti pada masa laporan ini.
+
+> Rekod pendaftaran terperinci harus diperoleh daripada NPRA (Agensi Kawal Selia Farmaseutikal Kebangsaan) untuk penilaian kawal selia yang lengkap.
 
 ---
 
-## Additional Predicted Indications
+## Pertimbangan Keselamatan
 
-Beyond the primary prediction, the TxGNN model also identified the following candidate indications for dextromethorphan:
+> Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-| Rank | Predicted Indication | TxGNN Score | Evidence Level | Recommendation |
+---
+
+## Indikasi Ramalan Tambahan
+
+Di luar ramalan utama, model TxGNN juga mengenal pasti indikasi calon berikut untuk dextromethorphan:
+
+| Kedudukan | Indikasi Diramalkan | Skor TxGNN | Tahap Bukti | Cadangan |
 |------|---------------------|-------------|----------------|----------------|
-| 2 | Acute Laryngopharyngitis | 99.98% | L4 | Hold |
-| 3 | Faucial Diphtheria | 99.36% | L5 | Hold |
-| 4 | Trigeminal Autonomic Cephalalgia | 99.32% | L5 | Research Question |
-| 5 | Cervical Disc Degenerative Disorder | 99.30% | L5 | Research Question |
-| 6 | Allergic Urticaria | 99.25% | L5 | Hold |
+| 2 | Laringofaring Akut | 99.98% | L4 | Tahan |
+| 3 | Difteri Fauskial | 99.36% | L5 | Tahan |
+| 4 | Sefalgia Autonomik Trigeminal | 99.32% | L5 | Soalan Penyelidikan |
+| 5 | Penyakit Degeneratif Cakera Serviks | 99.30% | L5 | Soalan Penyelidikan |
+| 6 | Urtikar Alergi | 99.25% | L5 | Tahan |
 
-**Key observations:**
-- **Acute laryngopharyngitis** (Rank 2) is closely related to DXM's established upper respiratory use, though no clinical trials or literature were found for this specific indication.
-- **Trigeminal autonomic cephalalgia** and **cervical disc degenerative disorder** (Ranks 4–5) represent pain-related indications where DXM's NMDA antagonism may have mechanistic relevance. NMDA receptor antagonists (e.g., ketamine) have documented roles in chronic pain and headache management.
-- **Faucial diphtheria** (Rank 3) and **allergic urticaria** (Rank 6) have weak mechanistic links to DXM's known pharmacological targets and are recommended for hold.
+**Pemerhatian utama:**
+- **Laringofaring akut** (Kedudukan 2) berkait rapat dengan penggunaan pernafasan atas yang telah ditubuhkan oleh DXM, walaupun tiada ujian klinis atau literatur ditemui untuk indikasi spesifik ini.
+- **Sefalgia autonomik trigeminal** dan **penyakit degeneratif cakera serviks** (Kedudukan 4–5) mewakili indikasi berkaitan kesakitan di mana antagonisme NMDA DXM mungkin mempunyai kaitan mekanisme. Antagonis reseptor NMDA (contohnya, ketamine) mempunyai peranan terdokumen dalam pengurusan kesakitan kronik dan sakit kepala.
+- **Difteri fauskial** (Kedudukan 3) dan **urtikar alergi** (Kedudukan 6) mempunyai pautan mekanisme yang lemah kepada sasaran farmakologi yang dikenali DXM dan disyorkan untuk ditahan.
 
 ---
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Proceed with Guardrails**
+**Keputusan: Teruskan dengan Penjaga**
 
-**Rationale:**
-Dextromethorphan has a well-established safety profile with extensive market availability (45 registrations in Malaysia). The mechanistic rationale linking its sigma-1 and NMDA receptor activities to nasal mucosal inflammation is plausible, and its longstanding use in upper respiratory symptom management provides a clinical foundation. However, direct clinical evidence for nasal cavity disease is absent, warranting a cautious approach.
+**Nisbah:**
+Dextromethorphan mempunyai profil keselamatan yang telah ditubuhkan dengan baik dengan ketersediaan pasaran yang luas (45 pendaftaran di Malaysia). Nisbah mekanisme yang menghubungkan aktiviti sigma-1 dan antagonis reseptor NMDA-nya kepada keradangan mukosa hidung adalah munasabah, dan penggunaannya yang berlangsung lama dalam pengurusan gejala pernafasan atas menyediakan asas klinis. Bagaimanapun, bukti klinis langsung untuk penyakit rongga hidung tidak ada, yang memerlukan pendekatan berhati-hati.
 
-**To proceed, the following is needed:**
-- Detailed mechanism of action (MOA) data from DrugBank (current data gap DG002)
-- NPRA package insert review for safety warnings and contraindications (current data gap DG001)
-- Expanded literature search using related terms (rhinitis, nasal inflammation, sinonasal disease, chronic rhinosinusitis)
-- Identification of preclinical or pilot studies targeting nasal cavity inflammatory conditions with NMDA antagonists or sigma-1 agonists
-- Drug-drug interaction profiling for commonly co-administered nasal/respiratory medications (e.g., intranasal corticosteroids, antihistamines)
-- Assessment of appropriate dosage form and route of administration for nasal cavity disease (oral vs. topical nasal delivery)
+**Untuk meneruskan, yang berikut diperlukan:**
+- Data mekanisme aksi terperinci (MOA) daripada DrugBank (celah data semasa DG002)
+- Semakan sisipan pakej NPRA untuk amaran keselamatan dan kontraindikasi (celah data semasa DG001)
+- Carian literatur yang diperluas menggunakan istilah yang berkaitan (rhinitis, keradangan hidung, penyakit sinonasal, sinusitis rino kronik)
+- Pengenalan kajian praklinikal atau kajian pilot yang menyasarkan keadaan keradangan rongga hidung dengan antagonis NMDA atau agonis sigma-1
+- Profiling interaksi ubat-ubatan untuk ubat yang biasa diberikan bersama pernafasan/hidung (contohnya, kortikosteroid intranasal, antihistamin)
+- Penilaian bentuk dos dan laluan pemberian yang sesuai untuk penyakit rongga hidung (oral lwn penghantaran hidung topikal)
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

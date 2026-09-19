@@ -29,211 +29,212 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Tadalafil: From Established PDE5-Inhibitor Uses to Premature Ejaculation as a New Indication
+# Tadalafil: Dari Penggunaan Inhibitor PDE5 yang Telah Terbukti kepada Ejakulasi Dini sebagai Indikasi Baru
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Tadalafil is a PDE5 inhibitor already marketed in Malaysia (23 NPRA registrations) whose best-known uses — erectile dysfunction, pulmonary arterial hypertension, and benign prostatic hyperplasia — are picked up by the TxGNN model with the strongest evidence (L1, dozens of completed Phase 3 trials each), confirming the model is recovering **known, already-approved pharmacology** rather than flagging something new. The one genuinely novel repurposing signal in this pack is **Premature Ejaculation**, supported by **6 clinical trials** and **20 publications**, mostly evaluating tadalafil in combination with SSRIs (dapoxetine/paroxetine) rather than as monotherapy. A fifth candidate, psychologic dyspareunia, has only 2 small/indirect publications and no clinical trials, and should be put on hold.
+Tadalafil adalah inhibitor PDE5 yang telah dipasarkan di Malaysia (23 pendaftaran NPRA) yang penggunaan terkenalnya — disfungsi ereksi, hipertensi arteri pulmonal, dan hiperplasia prostat jinak — diambil oleh model TxGNN dengan bukti terkuat (L1, puluhan uji coba Fasa 3 yang telah selesai masing-masing), mengesahkan bahwa model itu memulihkan **farmakologi yang diketahui, sudah disetujui** daripada membenderai sesuatu yang baru. Satu sinyal repurposing yang benar-benar baru dalam paket ini adalah **Ejakulasi Dini**, didukung oleh **6 uji coba klinis** dan **20 publikasi**, kebanyakannya mengevaluasi tadalafil dalam kombinasi dengan SSRI (dapoksetin/paroksatin) daripada sebagai monoterapi. Kandidat kelima, dispareunia psikologis, hanya memiliki 2 publikasi kecil/tidak langsung dan tidak ada uji coba klinis, dan harus ditahan.
 
 ---
 
-## Quick Overview
+## Gambaran Singkat
 
-| Item | Content |
+| Item | Isi |
 |------|------|
-| Original Indication | Erectile dysfunction (Tadalafil's globally established original approval; Malaysia-specific NPRA label wording is not available in this evidence pack) |
-| Predicted New Indication (headline) | 5 candidates evaluated — see breakdown below; genuine novel signal is **Premature Ejaculation** |
-| TxGNN Prediction Score | Recorded as 0.0 for all 5 candidates in this pack — score field appears unpopulated/not meaningful for differentiation; ranking below uses evidence level and clinical relevance instead |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 23 |
-| Recommended Decision | Mixed — see per-indication table below |
+| Indikasi Asli | Disfungsi ereksi (persetujuan asli global tadalafil; kata-kata label khusus NPRA Malaysia tidak tersedia dalam paket bukti ini) |
+| Indikasi Baru yang Diprediksi (tajuk utama) | 5 kandidat dievaluasi — lihat rincian di bawah; sinyal baru yang asli adalah **Ejakulasi Dini** |
+| Skor Prediksi TxGNN | Dicatat sebagai 0.0 untuk semua 5 kandidat dalam paket ini — bidang skor tampaknya tidak diisi/tidak bermakna untuk diferensiasi; peringkat di bawah menggunakan tingkat bukti dan relevansi klinis sebagai gantinya |
+| Status Pasar Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Jumlah Pendaftaran | 23 |
+| Rekomendasi Keputusan | Campuran — lihat tabel per-indikasi di bawah |
 
-### Per-Indication Breakdown
+### Rincian Per-Indikasi
 
-| Rank | Disease | Evidence Level | Decision Stage | Recommendation |
+| Peringkat | Penyakit | Tingkat Bukti | Tahap Keputusan | Rekomendasi |
 |------|---------|-----------------|-----------------|-----------------|
-| 1 | Erectile Dysfunction | L1 | S3 | Proceed with Guardrails *(already an approved use elsewhere — confirmatory signal)* |
-| 2 | Premature Ejaculation | L2 | S2 | Research Question *(genuine new-indication candidate)* |
-| 3 | Psychologic Dyspareunia | L4 | S0 | Hold *(insufficient, indirect evidence)* |
-| 4 | Pulmonary Hypertension | L1 | S3 | Proceed with Guardrails *(already approved as Adcirca elsewhere — confirmatory signal)* |
-| 5 | Benign Prostatic Hyperplasia | L1 | S3 | Proceed with Guardrails *(already approved elsewhere — confirmatory signal)* |
+| 1 | Disfungsi Ereksi | L1 | S3 | Lanjutkan dengan Safeguard *(sudah penggunaan yang disetujui di tempat lain — sinyal konfirmasi)* |
+| 2 | Ejakulasi Dini | L2 | S2 | Pertanyaan Penelitian *(kandidat indikasi baru yang asli)* |
+| 3 | Dispareunia Psikologis | L4 | S0 | Tahan *(bukti yang tidak cukup, tidak langsung)* |
+| 4 | Hipertensi Pulmonal | L1 | S3 | Lanjutkan dengan Safeguard *(sudah disetujui sebagai Adcirca di tempat lain — sinyal konfirmasi)* |
+| 5 | Hiperplasia Prostat Jinak | L1 | S3 | Lanjutkan dengan Safeguard *(sudah disetujui di tempat lain — sinyal konfirmasi)* |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Prediksi Ini Masuk Akal?
 
-Tadalafil is a selective phosphodiesterase type-5 (PDE5) inhibitor. It blocks the breakdown of cGMP, which relaxes vascular and other smooth muscle. This single mechanism explains all five predictions in this pack, though it applies to each with very different strength:
+Tadalafil adalah inhibitor phosphodiesterase tipe-5 (PDE5) yang selektif. Ia memblokir pemecahan cGMP, yang memrelaksasi otot halus vaskular dan lainnya. Mekanisme tunggal ini menjelaskan semua lima prediksi dalam paket ini, meskipun ia berlaku untuk masing-masing dengan kekuatan yang sangat berbeda:
 
-**Erectile dysfunction, pulmonary hypertension, and benign prostatic hyperplasia** are not new pharmacology for tadalafil — they are its existing, globally approved indications (branded as Cialis for ED/BPH and Adcirca for PAH). PDE5 inhibition relaxes corpus cavernosum smooth muscle (ED), pulmonary vascular smooth muscle (PAH), and prostate/bladder-neck smooth muscle while improving pelvic blood flow (BPH). The evidence pack itself labels these three as "已核准適應症（非老藥新用）" — approved indications, not true drug repurposing. Their appearance here mainly validates that the model correctly recovers tadalafil's real pharmacology; on their own they don't represent an actionable *new* opportunity unless the specific indication is missing from the current Malaysia NPRA label (which cannot be confirmed from this pack — see Data Gaps below).
+**Disfungsi ereksi, hipertensi pulmonal, dan hiperplasia prostat jinak** bukan farmakologi baru untuk tadalafil — ini adalah indikasi yang sudah ada dan disetujui secara global (bermerek sebagai Cialis untuk ED/BPH dan Adcirca untuk PAH). Penghambatan PDE5 memrelaksasi otot halus corpus cavernosum (ED), otot halus vaskular pulmonal (PAH), dan otot halus prostat/leher kandung kemih sambil meningkatkan aliran darah panggul (BPH). Paket bukti itu sendiri melabel ketiga ini sebagai "已核准適應症（非老藥新用）" — indikasi yang disetujui, bukan repurposing obat yang sebenarnya. Penampilan mereka di sini terutama memvalidasi bahwa model dengan benar memulihkan farmakologi nyata tadalafil; dengan sendirinya mereka tidak mewakili peluang *baru* yang dapat ditindaklanjuti kecuali indikasi tertentu hilang dari label NPRA Malaysia saat ini (yang tidak dapat dikonfirmasi dari paket ini — lihat Kesenjangan Data di bawah).
 
-**Premature ejaculation (PE)** is the more interesting candidate. The mechanistic story is indirect: PDE5 inhibition prolongs erectile rigidity and may improve sexual confidence, which can secondarily delay ejaculatory latency, but the bulk of supportive evidence comes from tadalafil used **in combination with SSRIs** (dapoxetine, paroxetine, fluoxetine) that act on serotonin reuptake — the primary PE mechanism. Tadalafil monotherapy data for PE exists but is less robust than the combination data.
+**Ejakulasi dini (PE)** adalah kandidat yang lebih menarik. Cerita mekanik tidak langsung: penghambatan PDE5 memanjangkan kekakuan ereksi dan dapat meningkatkan kepercayaan diri seksual, yang dapat menunda latensi ejakulasi secara sekunder, tetapi sebagian besar bukti pendukung berasal dari tadalafil yang digunakan **dalam kombinasi dengan SSRI** (dapoksetin, paroksatin, fluoksetin) yang bertindak pada pelepasan ulang serotonin — mekanisme PE primer. Data monoterapi tadalafil untuk PE ada tetapi kurang kuat daripada data kombinasi.
 
-**Psychologic dyspareunia** relies on an extrapolated mechanism (increased genital blood flow/engorgement improving arousal-related intercourse pain) supported only by a systematic review of an unrelated condition (unconsummated marriage) and one small, uncontrolled study in diabetic women with genital arousal disorder — not psychogenic dyspareunia itself. This is a much weaker, purely theoretical link.
+**Dispareunia psikologis** bergantung pada mekanisme yang diekstrapolasi (peningkatan aliran darah genital/pembengkakan yang meningkatkan rasa sakit terkait gairah saat hubungan seksual) yang didukung hanya oleh tinjauan sistematis dari kondisi yang tidak terkait (pernikahan yang tidak dikonsumsi) dan satu studi kecil, tidak terkontrol pada wanita diabetik dengan gangguan gairah genital — bukan dispareunia psikogenik itu sendiri. Ini adalah hubungan yang jauh lebih lemah, murni teoretis.
 
 ---
 
-## Clinical Trial Evidence
+## Bukti Uji Coba Klinis
 
-### Erectile Dysfunction (top 10 of 50 retrieved)
+### Disfungsi Ereksi (10 teratas dari 50 yang diambil)
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nomor Uji Coba | Fasa | Status | Pendaftaran | Temuan Kunci |
 |---------|------|------|------|---------|
-| [NCT00547287](https://clinicaltrials.gov/study/NCT00547287) | Phase 3 | Completed | 2760 | Multinational preference study, sildenafil vs. tadalafil switching |
-| [NCT01937871](https://clinicaltrials.gov/study/NCT01937871) | Phase 3 | Completed | 909 | Once-daily tadalafil for ED + BPH-LUTS signs/symptoms |
-| [NCT01122264](https://clinicaltrials.gov/study/NCT01122264) | Phase 4 | Completed | 770 | Once-daily vs. on-demand tadalafil vs. on-demand sildenafil, treatment adherence |
-| [NCT00547599](https://clinicaltrials.gov/study/NCT00547599) | Phase 4 | Completed | 659 | Effect of ED-related distress on tadalafil treatment response |
-| [NCT02224846](https://clinicaltrials.gov/study/NCT02224846) | Phase 4 | Completed | 635 | Postmarketing surveillance, tadalafil 2.5/5 mg once daily in Chinese men |
-| [NCT00547417](https://clinicaltrials.gov/study/NCT00547417) | Phase 3 | Completed | 1933 | On-demand tadalafil efficacy/safety across diverse populations incl. diabetes, depression *(graded A)* |
-| [NCT00734604](https://clinicaltrials.gov/study/NCT00734604) | Phase 3 | Completed | 378 | Psychosocial outcomes: once-daily tadalafil vs. as-needed PDE5i |
-| [NCT00422734](https://clinicaltrials.gov/study/NCT00422734) | Phase 3 | Completed | 342 | Tadalafil 5 mg daily vs. placebo, sexual quality of life |
-| [NCT00547183](https://clinicaltrials.gov/study/NCT00547183) | Phase 3 | Completed | 298 | Tadalafil 2.5/5 mg once daily in men with diabetes and ED |
-| [NCT06805513](https://clinicaltrials.gov/study/NCT06805513) | Phase 3 | Recruiting | 2250 | Actual-use trial for prescription-to-OTC switch of tadalafil 5 mg *(graded B)* |
+| [NCT00547287](https://clinicaltrials.gov/study/NCT00547287) | Fasa 3 | Selesai | 2760 | Studi preferensi multinasional, perpindahan sildenafil vs. tadalafil |
+| [NCT01937871](https://clinicaltrials.gov/study/NCT01937871) | Fasa 3 | Selesai | 909 | Tadalafil setiap hari sekali untuk ED + tanda/gejala BPH-LUTS |
+| [NCT01122264](https://clinicaltrials.gov/study/NCT01122264) | Fasa 4 | Selesai | 770 | Tadalafil setiap hari sekali vs. sesuai permintaan vs. sildenafil sesuai permintaan, kepatuhan pengobatan |
+| [NCT00547599](https://clinicaltrials.gov/study/NCT00547599) | Fasa 4 | Selesai | 659 | Efek kesusahan yang berhubungan dengan ED pada respons pengobatan tadalafil |
+| [NCT02224846](https://clinicaltrials.gov/study/NCT02224846) | Fasa 4 | Selesai | 635 | Pengawasan pasca-pemasaran, tadalafil 2.5/5 mg setiap hari sekali pada pria Tiongkok |
+| [NCT00547417](https://clinicaltrials.gov/study/NCT00547417) | Fasa 3 | Selesai | 1933 | Efikasi/keamanan tadalafil sesuai permintaan di berbagai populasi termasuk diabetes, depresi *(nilai A)* |
+| [NCT00734604](https://clinicaltrials.gov/study/NCT00734604) | Fasa 3 | Selesai | 378 | Hasil psikososial: tadalafil setiap hari sekali vs. PDE5i sesuai kebutuhan |
+| [NCT00422734](https://clinicaltrials.gov/study/NCT00422734) | Fasa 3 | Selesai | 342 | Tadalafil 5 mg harian vs. plasebo, kualitas hidup seksual |
+| [NCT00547183](https://clinicaltrials.gov/study/NCT00547183) | Fasa 3 | Selesai | 298 | Tadalafil 2.5/5 mg setiap hari sekali pada pria dengan diabetes dan ED |
+| [NCT06805513](https://clinicaltrials.gov/study/NCT06805513) | Fasa 3 | Merekrut | 2250 | Uji coba penggunaan aktual untuk perpindahan resep-ke-OTC tadalafil 5 mg *(nilai B)* |
 
-### Premature Ejaculation (all 6 retrieved)
+### Ejakulasi Dini (semua 6 yang diambil)
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nomor Uji Coba | Fasa | Status | Pendaftaran | Temuan Kunci |
 |---------|------|------|------|---------|
-| [NCT01063855](https://clinicaltrials.gov/study/NCT01063855) | Phase 3 | Completed | 495 | RCT, dapoxetine vs. placebo in men with PE + ED already on a PDE5i (incl. tadalafil) *(graded A)* |
-| [NCT03177746](https://clinicaltrials.gov/study/NCT03177746) | Phase 4 | Unknown | 40 | Safety of dapoxetine/tadalafil 30/20 mg combination for PE + ED *(graded B)* |
-| [NCT04361305](https://clinicaltrials.gov/study/NCT04361305) | Phase 3 | Unknown | 150 | Multicenter efficacy/safety of dapoxetine + tadalafil for PE with concomitant ED *(graded B)* |
-| [NCT05052879](https://clinicaltrials.gov/study/NCT05052879) | Phase 3 | Not yet recruiting | 232 | Combination product for both ED and PE *(graded C — no results yet)* |
-| [NCT04703127](https://clinicaltrials.gov/study/NCT04703127) | Phase 3 | Unknown | 60 | On-demand dapoxetine+tadalafil vs. dapoxetine+lidocaine spray for lifelong PE non-responders |
-| [NCT05749354](https://clinicaltrials.gov/study/NCT05749354) | NA | Unknown | 159 | TCM ("Liver Meridian") study touching on male impotence, tangential to PE |
+| [NCT01063855](https://clinicaltrials.gov/study/NCT01063855) | Fasa 3 | Selesai | 495 | RCT, dapoksetin vs. plasebo pada pria dengan PE + ED sudah menjalani PDE5i (termasuk tadalafil) *(nilai A)* |
+| [NCT03177746](https://clinicaltrials.gov/study/NCT03177746) | Fasa 4 | Tidak diketahui | 40 | Keamanan kombinasi dapoksetin/tadalafil 30/20 mg untuk PE + ED *(nilai B)* |
+| [NCT04361305](https://clinicaltrials.gov/study/NCT04361305) | Fasa 3 | Tidak diketahui | 150 | Efikasi/keamanan multisenter dapoksetin + tadalafil untuk PE dengan ED bersamaan *(nilai B)* |
+| [NCT05052879](https://clinicaltrials.gov/study/NCT05052879) | Fasa 3 | Belum merekrut | 232 | Produk kombinasi untuk ED dan PE *(nilai C — belum ada hasil)* |
+| [NCT04703127](https://clinicaltrials.gov/study/NCT04703127) | Fasa 3 | Tidak diketahui | 60 | Dapoksetin+tadalafil sesuai permintaan vs. dapoksetin+semprotan lidokain untuk nonresponder PE seumur hidup |
+| [NCT05749354](https://clinicaltrials.gov/study/NCT05749354) | NA | Tidak diketahui | 159 | Studi TCM ("Liver Meridian") menyentuh impotensi pria, tangensial terhadap PE |
 
-### Psychologic Dyspareunia
+### Dispareunia Psikologis
 
-Currently no related clinical trials registered.
+Saat ini tidak ada uji coba klinis yang terkait.
 
-### Pulmonary Hypertension (top 10 of 50 retrieved)
+### Hipertensi Pulmonal (10 teratas dari 50 yang diambil)
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nomor Uji Coba | Fasa | Status | Pendaftaran | Temuan Kunci |
 |---------|------|------|------|---------|
-| [NCT01178073](https://clinicaltrials.gov/study/NCT01178073) | Phase 3 | Completed | 610 | AMBITION trial — first-line ambrisentan+tadalafil combination vs. monotherapy in PAH *(graded A)* |
-| [NCT01066845](https://clinicaltrials.gov/study/NCT01066845) | Phase 4 | Completed | 1809 | Long-term safety/effectiveness of Adcirca (tadalafil) in Japanese PAH patients *(graded A)* |
-| [NCT03904693](https://clinicaltrials.gov/study/NCT03904693) | Phase 3 | Completed | 187 | Macitentan+tadalafil monotherapies vs. fixed-dose combination in PAH |
-| [NCT02558231](https://clinicaltrials.gov/study/NCT02558231) | Phase 3 | Completed | 247 | Initial triple (macitentan+tadalafil+selexipag) vs. dual oral therapy in newly diagnosed PAH |
-| [NCT00549302](https://clinicaltrials.gov/study/NCT00549302) | Phase 3 | Completed | 357 | Long-term safety/efficacy extension study of tadalafil in PAH |
-| [NCT02891850](https://clinicaltrials.gov/study/NCT02891850) | Phase 4 | Completed | 225 | Riociguat as replacement for PDE5i therapy in PAH not at treatment goal |
-| [NCT01824290](https://clinicaltrials.gov/study/NCT01824290) | Phase 3 | Completed | 35 | Double-blind efficacy/safety of tadalafil in pediatric PAH *(graded B)* |
-| [NCT01042158](https://clinicaltrials.gov/study/NCT01042158) | Phase 4 | Completed | 25 | Ambrisentan+tadalafil in PAH associated with systemic sclerosis |
-| [NCT01305252](https://clinicaltrials.gov/study/NCT01305252) | Phase 4 | Completed | 21 | Upfront dual therapy (inhaled treprostinil + tadalafil) in treatment-naïve PAH |
-| [NCT05937854](https://clinicaltrials.gov/study/NCT05937854) | Phase 2 | Recruiting | 126 | Tadalafil for respiratory symptoms in COPD complicated by pulmonary hypertension |
+| [NCT01178073](https://clinicaltrials.gov/study/NCT01178073) | Fasa 3 | Selesai | 610 | Uji coba AMBITION — kombinasi first-line ambrisenan+tadalafil vs. monoterapi dalam PAH *(nilai A)* |
+| [NCT01066845](https://clinicaltrials.gov/study/NCT01066845) | Fasa 4 | Selesai | 1809 | Keamanan/efektivitas jangka panjang Adcirca (tadalafil) pada pasien PAH Jepang *(nilai A)* |
+| [NCT03904693](https://clinicaltrials.gov/study/NCT03904693) | Fasa 3 | Selesai | 187 | Monoterapi makitentan+tadalafil vs. kombinasi dosis tetap dalam PAH |
+| [NCT02558231](https://clinicaltrials.gov/study/NCT02558231) | Fasa 3 | Selesai | 247 | Triple awal (makitentan+tadalafil+seleksipag) vs. terapi oral dual dalam PAH yang baru didiagnosis |
+| [NCT00549302](https://clinicaltrials.gov/study/NCT00549302) | Fasa 3 | Selesai | 357 | Studi perpanjangan keamanan/efikasi jangka panjang tadalafil dalam PAH |
+| [NCT02891850](https://clinicaltrials.gov/study/NCT02891850) | Fasa 4 | Selesai | 225 | Riociguat sebagai pengganti terapi PDE5i dalam PAH tidak mencapai tujuan pengobatan |
+| [NCT01824290](https://clinicaltrials.gov/study/NCT01824290) | Fasa 3 | Selesai | 35 | Efikasi/keamanan tadalafil buta ganda dalam PAH pediatrik *(nilai B)* |
+| [NCT01042158](https://clinicaltrials.gov/study/NCT01042158) | Fasa 4 | Selesai | 25 | Ambrisenan+tadalafil dalam PAH yang terkait dengan sklerosis sistemik |
+| [NCT01305252](https://clinicaltrials.gov/study/NCT01305252) | Fasa 4 | Selesai | 21 | Terapi dual awal (treprostenil inhalasi + tadalafil) dalam PAH yang naif pengobatan |
+| [NCT05937854](https://clinicaltrials.gov/study/NCT05937854) | Fasa 2 | Merekrut | 126 | Tadalafil untuk gejala pernapasan dalam COPD yang dikomplikasi oleh hipertensi pulmonal |
 
-### Benign Prostatic Hyperplasia (top 10 of 38 retrieved)
+### Hiperplasia Prostat Jinak (10 teratas dari 38 yang diambil)
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nomor Uji Coba | Fasa | Status | Pendaftaran | Temuan Kunci |
 |---------|------|------|------|---------|
-| [NCT00384930](https://clinicaltrials.gov/study/NCT00384930) | Phase 2/3 | Completed | 1058 | Multinational dose-response study of once-daily tadalafil for BPH signs/symptoms *(graded A)* |
-| [NCT01139762](https://clinicaltrials.gov/study/NCT01139762) | Phase 3 | Completed | 696 | Tadalafil co-administered with finasteride for LUTS + prostatic enlargement |
-| [NCT04947631](https://clinicaltrials.gov/study/NCT04947631) | Phase 3 | Completed | 667 | Dutasteride+tadalafil (DKF-313) combination for BPH |
-| [NCT00861757](https://clinicaltrials.gov/study/NCT00861757) | Phase 3 | Completed | 612 | Placebo- and tamsulosin-controlled study of tadalafil once daily in Asian men with BPH |
-| [NCT01460342](https://clinicaltrials.gov/study/NCT01460342) | Phase 3 | Completed | 610 | Once-daily tadalafil for 12 weeks in Asian men with BPH |
-| [NCT00855582](https://clinicaltrials.gov/study/NCT00855582) | Phase 3 | Completed | 606 | Tadalafil 2.5/5 mg for concurrent ED and BPH signs/symptoms |
-| [NCT00970632](https://clinicaltrials.gov/study/NCT00970632) | Phase 3 | Completed | 511 | Global multicenter study of once-daily tadalafil for BPH |
-| [NCT00848081](https://clinicaltrials.gov/study/NCT00848081) | Phase 3 | Completed | 318 | Tadalafil added to concomitant alpha1-blocker therapy for BPH *(graded A)* |
-| [NCT00827242](https://clinicaltrials.gov/study/NCT00827242) | Phase 3 | Completed | 325 | Multinational placebo-controlled study of daily tadalafil for BPH |
-| [NCT06466369](https://clinicaltrials.gov/study/NCT06466369) | Phase 3 | Completed | 306 | Once-daily tadalafil, anti-inflammatory/antiproliferative/relaxant effects in ED+BPH *(graded A)* |
+| [NCT00384930](https://clinicaltrials.gov/study/NCT00384930) | Fasa 2/3 | Selesai | 1058 | Studi respons dosis multinasional tadalafil setiap hari sekali untuk tanda/gejala BPH *(nilai A)* |
+| [NCT01139762](https://clinicaltrials.gov/study/NCT01139762) | Fasa 3 | Selesai | 696 | Tadalafil co-administered dengan finasterida untuk LUTS + pembesaran prostat |
+| [NCT04947631](https://clinicaltrials.gov/study/NCT04947631) | Fasa 3 | Selesai | 667 | Kombinasi dutasterida+tadalafil (DKF-313) untuk BPH |
+| [NCT00861757](https://clinicaltrials.gov/study/NCT00861757) | Fasa 3 | Selesai | 612 | Studi terkontrol plasebo dan tamsulosin tadalafil setiap hari pada pria Asia dengan BPH |
+| [NCT01460342](https://clinicaltrials.gov/study/NCT01460342) | Fasa 3 | Selesai | 610 | Tadalafil setiap hari sekali selama 12 minggu pada pria Asia dengan BPH |
+| [NCT00855582](https://clinicaltrials.gov/study/NCT00855582) | Fasa 3 | Selesai | 606 | Tadalafil 2.5/5 mg untuk ED dan tanda/gejala BPH bersamaan |
+| [NCT00970632](https://clinicaltrials.gov/study/NCT00970632) | Fasa 3 | Selesai | 511 | Studi multisenter global tadalafil setiap hari sekali untuk BPH |
+| [NCT00848081](https://clinicaltrials.gov/study/NCT00848081) | Fasa 3 | Selesai | 318 | Tadalafil ditambahkan ke terapi alpha1-blocker bersamaan untuk BPH *(nilai A)* |
+| [NCT00827242](https://clinicaltrials.gov/study/NCT00827242) | Fasa 3 | Selesai | 325 | Studi terkontrol plasebo multinasional tadalafil harian untuk BPH |
+| [NCT06466369](https://clinicaltrials.gov/study/NCT06466369) | Fasa 3 | Selesai | 306 | Tadalafil setiap hari sekali, efek antiinflamasi/antiproliferatif/relaksasi dalam ED+BPH *(nilai A)* |
 
 ---
 
-## Literature Evidence
+## Bukti Literatur
 
-### Erectile Dysfunction (top 10 of 20 retrieved)
+### Disfungsi Ereksi (10 teratas dari 20 yang diambil)
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Temuan Kunci |
 |------|-----|------|------|---------|
-| [28741090](https://pubmed.ncbi.nlm.nih.gov/28741090/) | 2017 | Systematic Review | Int Urol Nephrol | Direct comparison of tadalafil vs. sildenafil for ED |
-| [21711956](https://pubmed.ncbi.nlm.nih.gov/21711956/) | 2011 | Review | BMJ Clinical Evidence | ED overview: prevalence, risk factors, treatment options |
-| [39532245](https://pubmed.ncbi.nlm.nih.gov/39532245/) | 2025 | Cohort | Am J Med | Tadalafil/sildenafil effects on mortality, cardiovascular disease, dementia |
-| [28882778](https://pubmed.ncbi.nlm.nih.gov/28882778/) | 2018 | Systematic Review/Meta-analysis | Urology | Tadalafil daily vs. on-demand for ED |
-| [29341503](https://pubmed.ncbi.nlm.nih.gov/29341503/) | 2018 | Systematic Review/Meta-analysis | Lower Urin Tract Symptoms | Tadalafil 5 mg once daily for LUTS and ED |
-| [28628914](https://pubmed.ncbi.nlm.nih.gov/28628914/) | 2017 | Systematic Review/Meta-analysis | Urol Int | Once-a-day vs. on-demand tadalafil efficacy/safety |
-| [20856843](https://pubmed.ncbi.nlm.nih.gov/20856843/) | 2010 | Review | Drug Des Devel Ther | Once-daily tadalafil: compliance and efficacy |
-| [17183346](https://pubmed.ncbi.nlm.nih.gov/17183346/) | 2007 | Review | Int J Impot Res | Do vardenafil/tadalafil have advantages over sildenafil? |
-| [15709885](https://pubmed.ncbi.nlm.nih.gov/15709885/) | 2005 | Review | Expert Opin Pharmacother | Comparison of sildenafil, vardenafil, tadalafil trials |
-| [12435622](https://pubmed.ncbi.nlm.nih.gov/12435622/) | 2002 | Review | Eur J Med Res | Comparative efficacy/side effects of PDE5 inhibitors |
+| [28741090](https://pubmed.ncbi.nlm.nih.gov/28741090/) | 2017 | Tinjauan Sistematis | Int Urol Nephrol | Perbandingan langsung tadalafil vs. sildenafil untuk ED |
+| [21711956](https://pubmed.ncbi.nlm.nih.gov/21711956/) | 2011 | Ulasan | BMJ Clinical Evidence | Gambaran ED: prevalensi, faktor risiko, pilihan pengobatan |
+| [39532245](https://pubmed.ncbi.nlm.nih.gov/39532245/) | 2025 | Kohort | Am J Med | Efek tadalafil/sildenafil pada mortalitas, penyakit kardiovaskular, demensia |
+| [28882778](https://pubmed.ncbi.nlm.nih.gov/28882778/) | 2018 | Tinjauan Sistematis/Meta-analisis | Urology | Tadalafil harian vs. sesuai permintaan untuk ED |
+| [29341503](https://pubmed.ncbi.nlm.nih.gov/29341503/) | 2018 | Tinjauan Sistematis/Meta-analisis | Lower Urin Tract Symptoms | Tadalafil 5 mg setiap hari sekali untuk LUTS dan ED |
+| [28628914](https://pubmed.ncbi.nlm.nih.gov/28628914/) | 2017 | Tinjauan Sistematis/Meta-analisis | Urol Int | Tadalafil setiap hari sekali vs. sesuai permintaan efikasi/keamanan |
+| [20856843](https://pubmed.ncbi.nlm.nih.gov/20856843/) | 2010 | Ulasan | Drug Des Devel Ther | Tadalafil setiap hari: kepatuhan dan efikasi |
+| [17183346](https://pubmed.ncbi.nlm.nih.gov/17183346/) | 2007 | Ulasan | Int J Impot Res | Apakah vardenafil/tadalafil memiliki keuntungan atas sildenafil? |
+| [15709885](https://pubmed.ncbi.nlm.nih.gov/15709885/) | 2005 | Ulasan | Expert Opin Pharmacother | Perbandingan uji coba sildenafil, vardenafil, tadalafil |
+| [12435622](https://pubmed.ncbi.nlm.nih.gov/12435622/) | 2002 | Ulasan | Eur J Med Res | Efikasi komparatif/efek samping inhibitor PDE5 |
 
-### Premature Ejaculation (top 10 of 20 retrieved)
+### Ejakulasi Dini (10 teratas dari 20 yang diambil)
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Temuan Kunci |
 |------|-----|------|------|---------|
-| [38481411](https://pubmed.ncbi.nlm.nih.gov/38481411/) | 2024 | RCT | Arab J Urol | Head-to-head: tadalafil alone vs. dapoxetine alone vs. combination for PE |
-| [18362486](https://pubmed.ncbi.nlm.nih.gov/18362486/) | 2008 | RCT | Urol Int | Tadalafil + fluoxetine, randomized double-blind placebo-controlled |
-| [26981497](https://pubmed.ncbi.nlm.nih.gov/26981497/) | 2016 | RCT | Nephrourol Mon | Tadalafil + paroxetine vs. paroxetine alone for PE |
-| [34773634](https://pubmed.ncbi.nlm.nih.gov/34773634/) | 2021 | RCT | Urol J | Dapoxetine/tadalafil vs. paroxetine/tadalafil combination therapies |
-| [30544399](https://pubmed.ncbi.nlm.nih.gov/30544399/) | 2018 | Bayesian Network Meta-analysis | Medicine | PDE5 inhibitors vs. SSRIs for PE — comparative efficacy/safety |
-| [37203851](https://pubmed.ncbi.nlm.nih.gov/37203851/) | 2023 | Retrospective Cohort | Eur Rev Med Pharmacol Sci | Daily paroxetine/tadalafil combination in PE + ED |
-| [25768099](https://pubmed.ncbi.nlm.nih.gov/25768099/) | 2015 | Systematic Review (HTA) | Health Technol Assess | Interventions to treat PE, short report |
-| [20189712](https://pubmed.ncbi.nlm.nih.gov/20189712/) | 2010 | Guideline | Eur Urol | EAU guidelines on ED and PE |
-| [39034106](https://pubmed.ncbi.nlm.nih.gov/39034106/) | 2024 | Scoping Review | Sex Med Rev | Neurotransmitter systems in lifelong PE |
-| [29527702](https://pubmed.ncbi.nlm.nih.gov/29527702/) | 2018 | RCT (placebo-controlled) | Andrologia | Daily tadalafil 5 mg monotherapy for PE |
+| [38481411](https://pubmed.ncbi.nlm.nih.gov/38481411/) | 2024 | RCT | Arab J Urol | Head-to-head: tadalafil sendiri vs. dapoksetin sendiri vs. kombinasi untuk PE |
+| [18362486](https://pubmed.ncbi.nlm.nih.gov/18362486/) | 2008 | RCT | Urol Int | Tadalafil + fluoksetin, terkontrol plasebo buta ganda acak |
+| [26981497](https://pubmed.ncbi.nlm.nih.gov/26981497/) | 2016 | RCT | Nephrourol Mon | Tadalafil + paroksatin vs. paroksatin sendiri untuk PE |
+| [34773634](https://pubmed.ncbi.nlm.nih.gov/34773634/) | 2021 | RCT | Urol J | Terapi kombinasi dapoksetin/tadalafil vs. paroksatin/tadalafil |
+| [30544399](https://pubmed.ncbi.nlm.nih.gov/30544399/) | 2018 | Meta-analisis Jaringan Bayesian | Medicine | Inhibitor PDE5 vs. SSRI untuk PE — efikasi komparatif/keamanan |
+| [37203851](https://pubmed.ncbi.nlm.nih.gov/37203851/) | 2023 | Kohort Retrospektif | Eur Rev Med Pharmacol Sci | Kombinasi paroksatin/tadalafil harian dalam PE + ED |
+| [25768099](https://pubmed.ncbi.nlm.nih.gov/25768099/) | 2015 | Tinjauan Sistematis (HTA) | Health Technol Assess | Intervensi untuk mengobati PE, laporan singkat |
+| [20189712](https://pubmed.ncbi.nlm.nih.gov/20189712/) | 2010 | Panduan | Eur Urol | Panduan EAU tentang ED dan PE |
+| [39034106](https://pubmed.ncbi.nlm.nih.gov/39034106/) | 2024 | Tinjauan Ruang Lingkup | Sex Med Rev | Sistem neurotransmiter dalam PE seumur hidup |
+| [29527702](https://pubmed.ncbi.nlm.nih.gov/29527702/) | 2018 | RCT (terkontrol plasebo) | Andrologia | Monoterapi tadalafil 5 mg harian untuk PE |
 
-### Psychologic Dyspareunia (both retrieved)
+### Dispareunia Psikologis (kedua yang diambil)
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Temuan Kunci |
 |------|-----|------|------|---------|
-| [37952223](https://pubmed.ncbi.nlm.nih.gov/37952223/) | 2023 | Systematic Review | J Sex Med | Unconsummated marriage: etiology and management (indirect relevance) |
-| [22612985](https://pubmed.ncbi.nlm.nih.gov/22612985/) | 2012 | Small uncontrolled study | J Sex Med | Tadalafil 5 mg daily in type 1 diabetic women with genital arousal disorder |
+| [37952223](https://pubmed.ncbi.nlm.nih.gov/37952223/) | 2023 | Tinjauan Sistematis | J Sex Med | Pernikahan yang tidak dikonsumsi: etiologi dan manajemen (relevansi tidak langsung) |
+| [22612985](https://pubmed.ncbi.nlm.nih.gov/22612985/) | 2012 | Studi tidak terkontrol kecil | J Sex Med | Tadalafil 5 mg harian pada wanita diabetik tipe 1 dengan gangguan gairah genital |
 
-### Pulmonary Hypertension (top 10 of 18 retrieved)
+### Hipertensi Pulmonal (10 teratas dari 18 yang diambil)
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Temuan Kunci |
 |------|-----|------|------|---------|
-| [26308684](https://pubmed.ncbi.nlm.nih.gov/26308684/) | 2015 | RCT | N Engl J Med | AMBITION trial: initial ambrisentan+tadalafil in PAH |
-| [38267108](https://pubmed.ncbi.nlm.nih.gov/38267108/) | 2024 | RCT | J Am Coll Cardiol | Macitentan/tadalafil single-tablet combination for PAH |
-| [35412560](https://pubmed.ncbi.nlm.nih.gov/35412560/) | 2022 | Review | JAMA | Diagnosis and treatment of PAH |
-| [19470885](https://pubmed.ncbi.nlm.nih.gov/19470885/) | 2009 | Pivotal trial | Circulation | Original tadalafil therapy trial for PAH |
-| [38939948](https://pubmed.ncbi.nlm.nih.gov/38939948/) | 2024 | Phase 3 RCT | Circulation | Tadalafil for combined post-/pre-capillary PH in HFpEF |
-| [34593120](https://pubmed.ncbi.nlm.nih.gov/34593120/) | 2021 | Trial report | J Am Coll Cardiol | Three- vs. two-drug therapy in newly diagnosed PAH |
-| [39316293](https://pubmed.ncbi.nlm.nih.gov/39316293/) | 2024 | Real-world evidence | Adv Ther | Macitentan+tadalafil in incident/prevalent PAH (OPUS/OrPHeUS) |
-| [33472458](https://pubmed.ncbi.nlm.nih.gov/33472458/) | 2021 | Review | Expert Rev Respir Med | Lessons from upfront ambrisentan+tadalafil combination |
-| [23129569](https://pubmed.ncbi.nlm.nih.gov/23129569/) | 2013 | Review | Ther Adv Respir Dis | Tadalafil as monotherapy and in combination regimens for PAH |
-| [40934467](https://pubmed.ncbi.nlm.nih.gov/40934467/) | 2025 | Review | Cardiol Rev | Mechanisms, evidence, and emerging perspectives for tadalafil in PH |
+| [26308684](https://pubmed.ncbi.nlm.nih.gov/26308684/) | 2015 | RCT | N Engl J Med | Uji coba AMBITION: ambrisenan+tadalafil awal dalam PAH |
+| [38267108](https://pubmed.ncbi.nlm.nih.gov/38267108/) | 2024 | RCT | J Am Coll Cardiol | Kombinasi tablet tunggal makitentan/tadalafil untuk PAH |
+| [35412560](https://pubmed.ncbi.nlm.nih.gov/35412560/) | 2022 | Ulasan | JAMA | Diagnosis dan pengobatan PAH |
+| [19470885](https://pubmed.ncbi.nlm.nih.gov/19470885/) | 2009 | Uji coba penting | Circulation | Uji coba terapi tadalafil asli untuk PAH |
+| [38939948](https://pubmed.ncbi.nlm.nih.gov/38939948/) | 2024 | RCT Fasa 3 | Circulation | Tadalafil untuk PH pasca-/pra-kapiler yang dikombinasikan dalam HFpEF |
+| [34593120](https://pubmed.ncbi.nlm.nih.gov/34593120/) | 2021 | Laporan uji coba | J Am Coll Cardiol | Terapi tiga obat vs. dua obat dalam PAH yang baru didiagnosis |
+| [39316293](https://pubmed.ncbi.nlm.nih.gov/39316293/) | 2024 | Bukti dunia nyata | Adv Ther | Makitentan+tadalafil dalam PAH insiden/prevalens (OPUS/OrPHeUS) |
+| [33472458](https://pubmed.ncbi.nlm.nih.gov/33472458/) | 2021 | Ulasan | Expert Rev Respir Med | Pelajaran dari kombinasi ambrisenan+tadalafil awal |
+| [23129569](https://pubmed.ncbi.nlm.nih.gov/23129569/) | 2013 | Ulasan | Ther Adv Respir Dis | Tadalafil sebagai monoterapi dan dalam regimen kombinasi untuk PAH |
+| [40934467](https://pubmed.ncbi.nlm.nih.gov/40934467/) | 2025 | Ulasan | Cardiol Rev | Mekanisme, bukti, dan perspektif yang muncul untuk tadalafil dalam PH |
 
-### Benign Prostatic Hyperplasia (top 10 of 19 retrieved)
+### Hiperplasia Prostat Jinak (10 teratas dari 19 yang diambil)
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Temuan Kunci |
 |------|-----|------|------|---------|
-| [30901259](https://pubmed.ncbi.nlm.nih.gov/30901259/) | 2019 | Review | Expert Opin Pharmacother | Tadalafil for treatment of BPH — mechanism and clinical data |
-| [31625449](https://pubmed.ncbi.nlm.nih.gov/31625449/) | 2019 | Meta-analysis | Am J Mens Health | Tadalafil + tamsulosin vs. tadalafil alone in BPH+ED |
-| [34712682](https://pubmed.ncbi.nlm.nih.gov/34712682/) | 2021 | Evidence-based Analysis (13 studies) | Front Med | 12-week tadalafil 5 mg monotherapy for LUTS/BPH |
-| [24459652](https://pubmed.ncbi.nlm.nih.gov/24459652/) | 2013 | Systematic Review | World J Mens Health | LUTS/BPH and BPH+ED in Asian men, focus on tadalafil |
-| [23816815](https://pubmed.ncbi.nlm.nih.gov/23816815/) | 2013 | Meta-analysis | Urol Int | Efficacy/safety of tadalafil monotherapy for LUTS/BPH |
-| [26425140](https://pubmed.ncbi.nlm.nih.gov/26425140/) | 2015 | Review | Ther Adv Urol | Tadalafil for LUTS/BPH in Asian men, mechanism update |
-| [21284024](https://pubmed.ncbi.nlm.nih.gov/21284024/) | 2011 | Review | Neurourol Urodyn | Pathophysiology/mechanism of tadalafil for LUTS/BPH |
-| [39287476](https://pubmed.ncbi.nlm.nih.gov/39287476/) | 2024 | Cohort | J Intern Med | Tadalafil use and lower incidence of type 2 diabetes in men with BPH |
-| [25083163](https://pubmed.ncbi.nlm.nih.gov/25083163/) | 2014 | Review | Ther Adv Urol | Tadalafil for BPH with and without ED |
-| [23018613](https://pubmed.ncbi.nlm.nih.gov/23018613/) | 2012 | Review | Drugs Aging | Tadalafil in signs/symptoms of BPH with or without ED |
+| [30901259](https://pubmed.ncbi.nlm.nih.gov/30901259/) | 2019 | Ulasan | Expert Opin Pharmacother | Tadalafil untuk pengobatan BPH — mekanisme dan data klinis |
+| [31625449](https://pubmed.ncbi.nlm.nih.gov/31625449/) | 2019 | Meta-analisis | Am J Mens Health | Tadalafil + tamsulosin vs. tadalafil sendiri dalam BPH+ED |
+| [34712682](https://pubmed.ncbi.nlm.nih.gov/34712682/) | 2021 | Analisis Berbasis Bukti (13 studi) | Front Med | Monoterapi tadalafil 5 mg selama 12 minggu untuk LUTS/BPH |
+| [24459652](https://pubmed.ncbi.nlm.nih.gov/24459652/) | 2013 | Tinjauan Sistematis | World J Mens Health | LUTS/BPH dan BPH+ED pada pria Asia, fokus pada tadalafil |
+| [23816815](https://pubmed.ncbi.nlm.nih.gov/23816815/) | 2013 | Meta-analisis | Urol Int | Efikasi/keamanan monoterapi tadalafil untuk LUTS/BPH |
+| [26425140](https://pubmed.ncbi.nlm.nih.gov/26425140/) | 2015 | Ulasan | Ther Adv Urol | Tadalafil untuk LUTS/BPH pada pria Asia, pembaruan mekanisme |
+| [21284024](https://pubmed.ncbi.nlm.nih.gov/21284024/) | 2011 | Ulasan | Neurourol Urodyn | Patofisiologi/mekanisme tadalafil untuk LUTS/BPH |
+| [39287476](https://pubmed.ncbi.nlm.nih.gov/39287476/) | 2024 | Kohort | J Intern Med | Penggunaan tadalafil dan insiden diabetes tipe 2 yang lebih rendah pada pria dengan BPH |
+| [25083163](https://pubmed.ncbi.nlm.nih.gov/25083163/) | 2014 | Ulasan | Ther Adv Urol | Tadalafil untuk BPH dengan dan tanpa ED |
+| [23018613](https://pubmed.ncbi.nlm.nih.gov/23018613/) | 2012 | Ulasan | Drugs Aging | Tadalafil dalam tanda/gejala BPH dengan atau tanpa ED |
 
 ---
 
-## Malaysia Market Information
+## Informasi Pasar Malaysia
 
-Tadalafil is confirmed as **already marketed in Malaysia** with **23 NPRA registrations**. However, this evidence pack does not contain the underlying license-level detail (registration numbers, product names, dosage forms, manufacturers, or approved indication text) — all license fields in the source data are empty. This is a listed Blocking data gap (see Conclusion) and needs to be pulled directly from the NPRA product registry before a market-position or label-gap analysis can be completed.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information. No warnings, contraindications, or drug-interaction data were available in this evidence pack (DDI query returned no results).
+Tadalafil dikonfirmasi sebagai **sudah dipasarkan di Malaysia** dengan **23 pendaftaran NPRA**. Namun, paket bukti ini tidak mengandung detail tingkat lisensi yang mendasar (nomor pendaftaran, nama produk, bentuk dosis, produsen, atau teks indikasi yang disetujui) — semua bidang lisensi dalam data sumber kosong. Ini adalah kesenjangan data Blocking yang terdaftar (lihat Kesimpulan) dan perlu ditarik langsung dari daftar produk NPRA sebelum analisis posisi pasar atau kesenjangan label dapat diselesaikan.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keamanan
 
-**Decision: Mixed — Proceed with Guardrails (ED / PAH / BPH, confirmatory) · Research Question (Premature Ejaculation) · Hold (Psychologic Dyspareunia)**
+Silakan lihat brosur paket untuk informasi keamanan. Tidak ada data peringatan, kontraindikasi, atau interaksi obat yang tersedia dalam paket bukti ini (query DDI tidak mengembalikan hasil).
 
-**Rationale:**
-- ED, PAH, and BPH each have L1 evidence (multiple completed Phase 3 RCTs, including pivotal trials like AMBITION for PAH), but the evidence pack itself flags these as already-approved uses elsewhere rather than novel repurposing — their value here is confirming model validity and checking whether the Malaysia label already covers them.
-- Premature ejaculation has L2 evidence (one large completed Phase 3 RCT plus supportive combination-therapy literature) but the mechanistic case rests mainly on tadalafil-plus-SSRI combinations rather than tadalafil monotherapy, so it merits further research before any label or clinical guidance decision.
-- Psychologic dyspareunia has only L4, indirect evidence (no clinical trials, 2 tangential publications) and should not proceed further without new, disease-specific data.
+---
 
-**To proceed, the following is needed:**
-- Malaysia NPRA package insert / label text (Blocking gap — currently blocks the safety (S1) review stage entirely; this must be resolved before any of the five candidates can move forward on safety grounds)
-- Formal DrugBank/labeled MOA reference to replace the currently inferred mechanistic narrative
-- License-level NPRA registration detail (product names, dosage forms, current approved indications) to determine whether ED/PAH/BPH indications are already on the Malaysia label or represent a genuine label-expansion opportunity
-- For premature ejaculation: dedicated tadalafil-monotherapy trial data (separate from SSRI-combination trials) to strengthen the causal case
-- Drug-drug interaction data (current query returned no results) before any clinical recommendation, especially given known nitrate/alpha-blocker interaction concerns for PDE5 inhibitors
+## Kesimpulan dan Langkah Berikutnya
+
+**Keputusan: Campuran — Lanjutkan dengan Safeguard (ED / PAH / BPH, konfirmasi) · Pertanyaan Penelitian (Ejakulasi Dini) · Tahan (Dispareunia Psikologis)**
+
+**Alasan:**
+- ED, PAH, dan BPH masing-masing memiliki bukti L1 (beberapa RCT Fasa 3 yang telah selesai, termasuk uji coba penting seperti AMBITION untuk PAH), tetapi paket bukti itu sendiri menandai ini sebagai penggunaan yang sudah disetujui di tempat lain daripada repurposing baru — nilainya di sini adalah memvalidasi kesahihan model dan memeriksa apakah label Malaysia sudah mencakupnya.
+- Ejakulasi dini memiliki bukti L2 (satu RCT Fasa 3 yang selesai besar ditambah literatur kombinasi terapi pendukung) tetapi kasus mekanik bergantung terutama pada kombinasi tadalafil-plus-SSRI daripada monoterapi tadalafil, jadi ini layak untuk penelitian lebih lanjut sebelum keputusan label atau panduan klinis apa pun.
+- Dispareunia psikologis hanya memiliki bukti L4, tidak langsung (tidak ada uji coba klinis, 2 publikasi singgung) dan tidak boleh melanjutkan lebih jauh tanpa data baru, spesifik penyakit.
+
+**Untuk melanjutkan, berikut ini diperlukan:**
+- Brosur/teks label NPRA Malaysia (kesenjangan Blocking — saat ini sepenuhnya memblokir tahap tinjauan keamanan (S1); ini harus diselesaikan sebelum salah satu dari lima kandidat dapat maju atas dasar keamanan)
+- Referensi MOA formal DrugBank/berlabel untuk menggantikan narasi mekanis yang saat ini disimpulkan
+- Detail pendaftaran NPRA tingkat lisensi (nama produk, bentuk dosis, indikasi yang disetujui saat ini) untuk menentukan apakah indikasi ED/PAH/BPH sudah pada label Malaysia atau mewakili peluang perluasan label yang asli
+- Untuk ejakulasi dini: data uji coba monoterapi tadalafil khusus (terpisah dari uji coba kombinasi SSRI) untuk memperkuat kasus kausal
+- Data interaksi obat-obat (query saat ini tidak mengembalikan hasil) sebelum rekomendasi klinis apa pun, terutama mengingat kekhawatiran interaksi nitrat/alpha-blocker yang dikenal untuk inhibitor PDE5
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

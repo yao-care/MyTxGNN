@@ -29,86 +29,87 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Nitric Oxide: From Unrecorded Original Indication to Pulmonary Arterial Hypertension
+# Oksida Nitrik: Dari Indikasi Asal Tidak Tercatat kepada Hipertensi Arteri Pulmonari
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Nitric oxide (DrugBank DB00435) is already marketed in Malaysia, but its originally approved indication and mechanism of action are not captured in the regulatory data pulled for this evaluation. Among ten TxGNN-predicted indications in this pack, **Pulmonary Arterial Hypertension (PAH)** stands out with by far the strongest supporting evidence — **50 clinical trials** and **20 publications** retrieved — while five of the other top-scoring predictions (e.g., periodontal malformation syndrome, hypertrichosis) are explicitly flagged in the evidence review as knowledge-graph co-occurrence noise rather than real mechanistic signals. This report focuses on PAH as the credible repurposing candidate.
+Oksida nitrik (DrugBank DB00435) sudah dipasarkan di Malaysia, tetapi indikasi yang diluluskan pada asalnya dan mekanisme tindakannya tidak ditangkap dalam data kawal selia yang ditarik untuk penilaian ini. Di antara sepuluh indikasi yang diramalkan TxGNN dalam pakej ini, **Hipertensi Arteri Pulmonari (HAP)** menonjol dengan bukti penyokong yang jauh paling kuat — **50 percubaan klinikal** dan **20 penerbitan** yang diperoleh semula — manakala lima daripada ramalan berjubilah teratas yang lain (contohnya, sindrom malformasi periodontal, hipertrikosis) secara jelas ditandai dalam ulasan bukti sebagai bunyi kebetulan bersama-sama graf pengetahuan dan bukannya isyarat mekanik sebenar. Laporan ini memberi tumpuan kepada HAP sebagai calon ubatan penggunaan semula yang boleh dipercayai.
 
-*Note: predicted_indications is ranked by raw TxGNN score, under which rank 1–5 are algorithmic noise (Evidence Level L5, recommendation "Hold"). PAH (rank 7) is presented here instead because it is the highest-quality candidate (L1 evidence) in the pack.*
+*Nota: predicted_indications disusun mengikut skor TxGNN mentah, di mana pangkat 1–5 adalah bunyi algoritma (Tahap Bukti L5, cadangan "Tahan"). HAP (pangkat 7) dibentangkan di sini sebaliknya kerana ia adalah calon berkualiti tertinggi (bukti L1) dalam pakej.*
 
-## Quick Overview
+## Ikhtisar Cepat
 
-| Item | Content |
-|------|------|
-| Original Indication | Not available — no original indication or license text is present in the current regulatory data |
-| Predicted New Indication | Pulmonary Arterial Hypertension |
-| TxGNN Prediction Score | 99.41% (rank 8214 among candidate diseases) |
-| Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 1 |
-| Recommended Decision | Proceed with Guardrails |
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Tidak tersedia — tiada indikasi asal atau teks lesen yang hadir dalam data kawal selia semasa |
+| Indikasi Baru yang Diramalkan | Hipertensi Arteri Pulmonari |
+| Skor Ramalan TxGNN | 99.41% (pangkat 8214 di antara penyakit calon) |
+| Tahap Bukti | L1 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | Teruskan dengan Pengawal Selia |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed mechanism-of-action data for this product is not available in the current data pull (DG002, High severity), and no original indication is on file either — this is itself a data gap that needs resolving before final sign-off.
+Data mekanisme tindakan terperinci untuk produk ini tidak tersedia dalam cabutan data semasa (DG002, Keterukan Tinggi), dan tiada indikasi asal pada fail sama ada — ini sendiri adalah jurang data yang perlu diselesaikan sebelum persetujuan akhir.
 
-That said, the mechanistic rationale for nitric oxide in PAH does not depend on this specific product's label — it is grounded in well-established pharmacology. Nitric oxide is an endogenous vasodilator, and PAH's core pathophysiology involves deficient endothelial NO synthesis/utilization. Current standard-of-care PAH therapies (PDE5 inhibitors such as sildenafil, and soluble guanylate cyclase stimulators such as riociguat) act downstream of exactly this NO–cGMP pathway. Inhaled NO is already used clinically for acute pulmonary vasoreactivity testing and for persistent pulmonary hypertension of the newborn, so this is a direct, clinically precedented mechanistic link rather than a speculative one.
+Walau bagaimanapun, nisbah mekanik untuk oksida nitrik dalam HAP tidak bergantung pada label produk khusus ini — ia diasaskan pada farmakologi yang telah diperkukuh dengan baik. Oksida nitrik ialah vasodilator endogen, dan patofisiologi teras HAP melibatkan sintesis/penggunaan NO endotelial yang tidak mencukupi. Terapi HAP standard-of-care semasa (perencat PDE5 seperti sildenafil, dan perangsang guanilat siklas larut seperti riociguat) bertindak hiliran daripada jalan NO–cGMP yang sama. NO yang dihirup sudah digunakan secara klinikal untuk ujian reaktiviti vaskular paru akut dan untuk hipertensi paru yang berterusan pada bayi baru lahir, jadi ini adalah pautan mekanik langsung, didahului secara klinikal dan bukannya spekulatif.
 
-Two related PAH subtypes in this evidence pack — PAH associated with congenital heart disease (rank 8, L2) and PAH associated with connective tissue disease (rank 9, L3) — share the same NO-pathway rationale and are reasonable secondary research questions, though with thinner direct-intervention evidence.
+Dua subtip HAP yang berkaitan dalam pakej bukti ini — HAP bersekutu dengan penyakit jantung bawaan (pangkat 8, L2) dan HAP bersekutu dengan penyakit tisu penyambung (pangkat 9, L3) — berkongsi nisbah jalan NO yang sama dan merupakan persoalan penyelidikan sekunder yang munasabah, walaupun dengan bukti campur tangan langsung yang lebih nipis.
 
-## Clinical Trial Evidence
+## Bukti Percubaan Klinikal
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT02725372](https://clinicaltrials.gov/study/NCT02725372) | Phase 3 | Terminated | 207 | Placebo-controlled RCT of pulsed inhaled NO vs. placebo in symptomatic PAH |
-| [NCT01165047](https://clinicaltrials.gov/study/NCT01165047) | Phase 2 | Completed | 10 | GeNO Nitrosyl NO-delivery system; confirmed iNO reduces PVR in reversible PH |
-| [NCT05757557](https://clinicaltrials.gov/study/NCT05757557) | Phase 1/2 | Completed | 136 | Perioperative NO-conditioning via plasma-chemical synthesis; selective pulmonary vasodilation, improved oxygenation |
-| [NCT02436512](https://clinicaltrials.gov/study/NCT02436512) | Phase 3 | Withdrawn | 0 | EAGLE study: iNO-induced vasodilation as predictor of weaning from parenteral prostacyclin in WHO Group 1 PAH |
-| [NCT02734953](https://clinicaltrials.gov/study/NCT02734953) | Phase 2 | Completed | 10 | Effects of iNO on invasively-derived pulmonary vascular resistance parameters in PAH |
-| [NCT01728220](https://clinicaltrials.gov/study/NCT01728220) | Phase 2 | Completed | 159 | INHALE 1: dose-confirming RCT of pulsed iNO in WHO Group 3 PH associated with COPD |
-| [NCT03267108](https://clinicaltrials.gov/study/NCT03267108) | Phase 3 | Terminated | 145 | REBUILD: dose-escalation RCT of pulsed iNO for PH associated with pulmonary fibrosis |
-| [NCT02000856](https://clinicaltrials.gov/study/NCT02000856) | N/A | Completed | 15 | BEET PAH: crossover RCT of dietary nitrate (beetroot juice, NO donor pathway) in PAH |
-| [NCT00527163](https://clinicaltrials.gov/study/NCT00527163) | N/A | Completed | 103 | NIH/Mali study on NO scavenging by plasma hemoglobin and hemolysis-associated PH in malaria |
-| [NCT01185925](https://clinicaltrials.gov/study/NCT01185925) | Phase 2 | Completed | 32 | PDE5 inhibition (downstream of NO pathway) reverses exercise oscillatory breathing in chronic heart failure |
+| [NCT02725372](https://clinicaltrials.gov/study/NCT02725372) | Fasa 3 | Ditamatkan | 207 | Percubaan RCT terkawal plasebo oksida nitrik hirupan berdenyut vs. plasebo dalam HAP simptomatik |
+| [NCT01165047](https://clinicaltrials.gov/study/NCT01165047) | Fasa 2 | Selesai | 10 | Sistem penghantaran NO GeNO Nitrosyl; mengesahkan iNO mengurangkan PVR dalam PH boleh balik |
+| [NCT05757557](https://clinicaltrials.gov/study/NCT05757557) | Fasa 1/2 | Selesai | 136 | Pengkondisian NO perioperatif melalui sintesis kimia plasma; vasodilasi paru selektif, peningkatan oksigenasi |
+| [NCT02436512](https://clinicaltrials.gov/study/NCT02436512) | Fasa 3 | Ditarik balik | 0 | Kajian EAGLE: vasodilasi teraruh iNO sebagai peramal pelepasan dari prostasiklin ibu jari dalam HAP Kumpulan WHO 1 |
+| [NCT02734953](https://clinicaltrials.gov/study/NCT02734953) | Fasa 2 | Selesai | 10 | Kesan iNO ke atas parameter rintangan vaskular paru yang diperoleh secara invasif dalam HAP |
+| [NCT01728220](https://clinicaltrials.gov/study/NCT01728220) | Fasa 2 | Selesai | 159 | INHALE 1: percubaan RCT pengesahan dos iNO berdenyut dalam PH Kumpulan WHO 3 bersekutu dengan COPD |
+| [NCT03267108](https://clinicaltrials.gov/study/NCT03267108) | Fasa 3 | Ditamatkan | 145 | REBUILD: percubaan RCT peningkatan dos iNO berdenyut untuk PH bersekutu dengan fibrosis paru |
+| [NCT02000856](https://clinicaltrials.gov/study/NCT02000856) | N/A | Selesai | 15 | BEET PAH: percubaan RCT silang ubat nitrat diet (jus bit, jalan penderma NO) dalam HAP |
+| [NCT00527163](https://clinicaltrials.gov/study/NCT00527163) | N/A | Selesai | 103 | Kajian NIH/Mali ke atas penjerat NO oleh hemoglobin plasma dan PH bersekutu hemolisis dalam malaria |
+| [NCT01185925](https://clinicaltrials.gov/study/NCT01185925) | Fasa 2 | Selesai | 32 | Perencatan PDE5 (hiliran jalan NO) membalikkan pernafasan berayun senaman dalam kegagalan jantung kronik |
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [35412560](https://pubmed.ncbi.nlm.nih.gov/35412560/) | 2022 | Review | JAMA | Overview of PAH diagnosis and treatment landscape |
-| [33836637](https://pubmed.ncbi.nlm.nih.gov/33836637/) | 2021 | Review | J Cardiovasc Pharmacol Ther | Combination therapy in PAH targeting NO and prostacyclin pathways |
-| [32442078](https://pubmed.ncbi.nlm.nih.gov/32442078/) | 2020 | Review | Curr Med Chem | NO pathway in PAH: pathomechanism, biomarkers, and drug targets |
-| [23822809](https://pubmed.ncbi.nlm.nih.gov/23822809/) | 2013 | Review | Am J Respir Crit Care Med | NO deficiency and endothelial dysfunction as a driver of PAH pathogenesis |
-| [20051913](https://pubmed.ncbi.nlm.nih.gov/20051913/) | 2010 | Review | J Hypertens | NO, oxidative stress, and inflammation in PAH |
-| [40341051](https://pubmed.ncbi.nlm.nih.gov/40341051/) | 2025 | Review | Eur Respir J | Drugs targeting novel pathways (including NO) in PAH |
-| [38054614](https://pubmed.ncbi.nlm.nih.gov/38054614/) | 2024 | Basic/Delivery | Small | Inhalable NO-releasing microsphere delivery systems for PAH treatment |
-| [33773120](https://pubmed.ncbi.nlm.nih.gov/33773120/) | 2021 | RCT | Lancet Respir Med | REPLACE trial: switching to riociguat (NO-pathway) vs. PDE5i maintenance in PAH |
-| [15194181](https://pubmed.ncbi.nlm.nih.gov/15194181/) | 2004 | Review | J Am Coll Cardiol | NO pathway and phosphodiesterase inhibitors in PAH |
-| [39580019](https://pubmed.ncbi.nlm.nih.gov/39580019/) | 2025 | Meta-analysis | Nitric Oxide | NOS3 gene polymorphism and PAH risk — systematic review and meta-analysis |
+| [35412560](https://pubmed.ncbi.nlm.nih.gov/35412560/) | 2022 | Ulasan | JAMA | Tinjauan umum diagnosis HAP dan landskap rawatan |
+| [33836637](https://pubmed.ncbi.nlm.nih.gov/33836637/) | 2021 | Ulasan | J Cardiovasc Pharmacol Ther | Terapi kombinasi dalam HAP menyasarkan jalan NO dan prostasiklin |
+| [32442078](https://pubmed.ncbi.nlm.nih.gov/32442078/) | 2020 | Ulasan | Curr Med Chem | Jalan NO dalam HAP: patomekanisme, biopenanda, dan sasaran ubat |
+| [23822809](https://pubmed.ncbi.nlm.nih.gov/23822809/) | 2013 | Ulasan | Am J Respir Crit Care Med | Kekurangan NO dan disfungsi endotelial sebagai pendorong patogenesis HAP |
+| [20051913](https://pubmed.ncbi.nlm.nih.gov/20051913/) | 2010 | Ulasan | J Hypertens | NO, tekanan oksidatif, dan keradangan dalam HAP |
+| [40341051](https://pubmed.ncbi.nlm.nih.gov/40341051/) | 2025 | Ulasan | Eur Respir J | Ubat menyasarkan jalan baru (termasuk NO) dalam HAP |
+| [38054614](https://pubmed.ncbi.nlm.nih.gov/38054614/) | 2024 | Asas/Penghantaran | Small | Sistem penghantaran sfera mikro pelepas NO yang boleh dihirup untuk rawatan HAP |
+| [33773120](https://pubmed.ncbi.nlm.nih.gov/33773120/) | 2021 | RCT | Lancet Respir Med | Percubaan REPLACE: beralih ke riociguat (jalan NO) vs. penyelenggaraan PDE5i dalam HAP |
+| [15194181](https://pubmed.ncbi.nlm.nih.gov/15194181/) | 2004 | Ulasan | J Am Coll Cardiol | Jalan NO dan perencat fosfodiesterase dalam HAP |
+| [39580019](https://pubmed.ncbi.nlm.nih.gov/39580019/) | 2025 | Meta-analisis | Nitric Oxide | Polimorfisme gen NOS3 dan risiko HAP — ulasan sistematik dan meta-analisis |
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-The evidence pack confirms the product is registered and marketed in Malaysia (`market_status: Marketed`, 1 license on file), but the license record itself contains no populated fields (license number, product name, dosage form, manufacturer, and approved indication text are all blank). No usable registration detail can be reported at this time — this should be pulled directly from the NPRA registry before the report is finalized.
+Pakej bukti mengesahkan produk didaftarkan dan dipasarkan di Malaysia (`market_status: Marketed`, 1 lesen pada fail), tetapi rekod lesen itu sendiri tidak mengandungi medan berpopulasi (nombor lesen, nama produk, bentuk dos, pengilang, dan teks indikasi yang diluluskan semuanya kosong). Tiada butiran pendaftaran yang boleh digunakan boleh dilaporkan pada masa ini — ini harus ditarik terus dari daftar NPRA sebelum laporan dimuktamadkan.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information. Key warnings, contraindications, and DDI data are not available in the current data pull — notably, the label warnings/contraindications gap (DG001) is flagged as **Blocking severity**, meaning the candidate cannot yet be advanced to a formal safety assessment stage (S1).
+Sila rujuk sisipan pakej untuk maklumat keselamatan. Data amaran utama, kontraindikasi, dan DDI tidak tersedia dalam cabutan data semasa — terutamanya, jurang amaran/kontraindikasi label (DG001) ditandai sebagai **Keterukan Menyekat**, bermakna calon tidak dapat dimajukan ke peringkat penilaian keselamatan formal (S1).
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Proceed with Guardrails**
+**Keputusan: Teruskan dengan Pengawal Selia**
 
-**Rationale:**
-The PAH indication has strong (L1) mechanistic and clinical-trial support — including a completed Phase 1/2 study and a Phase 3 RCT — and reflects well-established NO-cGMP pathway pharmacology already used in related PH conditions. However, a Blocking-severity gap in TFDA/NPRA label safety data means this cannot be greenlit until basic safety information is confirmed.
+**Nisbah:**
+Indikasi HAP mempunyai sokongan mekanik dan ujian klinikal yang kuat (L1) — termasuk kajian Fasa 1/2 yang selesai dan RCT Fasa 3 — dan mencerminkan farmakologi jalan NO-cGMP yang sudah terbukti digunakan dalam keadaan PH yang berkaitan. Walau bagaimanapun, jurang Menyekat dalam data keselamatan label NPRA bermakna ini tidak dapat diberikan kelulusan sehingga maklumat keselamatan asas disahkan.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA product label — warnings and contraindications (Blocking gap, DG001)
-- DrugBank mechanism-of-action detail (High priority gap, DG002)
-- Complete Malaysia registration record (license number, product name, dosage form, approved indication text)
-- Confirmation of this product's original approved indication(s), currently unrecorded
-- Route-of-administration/delivery-system compatibility assessment for the inhaled formulation
-- Secondary review of PAH-CHD (L2) and PAH-CTD (L3) as related research questions, and formal disposition (e.g., closure as noise) of the five L5 "Hold" predictions in this pack
+**Untuk meneruskan, yang berikut diperlukan:**
+- Label produk NPRA — amaran dan kontraindikasi (Jurang Menyekat, DG001)
+- Detail mekanisme tindakan DrugBank (Jurang keutamaan Tinggi, DG002)
+- Rekod pendaftaran Malaysia yang lengkap (nombor lesen, nama produk, bentuk dos, teks indikasi yang diluluskan)
+- Pengesahan indikasi asal yang diluluskan produk ini, tidak tercatat pada masa ini
+- Penilaian keselamatan jalan pemberian/sistem penghantaran untuk rumusan yang dihirup
+- Ulasan sekunder HAP-CHD (L2) dan HAP-CTD (L3) sebagai persoalan penyelidikan yang berkaitan, dan pelupusan formal (contohnya, penutupan sebagai bunyi) daripada lima ramalan "Tahan" L5 dalam pakej ini
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

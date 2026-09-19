@@ -29,88 +29,89 @@ Tahap bukti: **L2** | Indikasi diramal: **2**
 
 </div>
 
-# Moclobemide: From Depression to Agoraphobia
+# Moclobemide: Daripada Kemurungan kepada Agorafobia
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Moclobemide is a reversible, selective MAO-A inhibitor (RIMA) established for the treatment of depression and social anxiety disorder. The TxGNN model predicts it may be effective for **Agoraphobia** (typically presenting as panic disorder with agoraphobia), with **12 publications** — including two randomized controlled trials — currently supporting this direction, though no clinical trials are registered for this specific indication.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Depression / Social Anxiety Disorder (based on drug class literature; TFDA registered indication text not available in this evidence pack) |
-| Predicted New Indication | Agoraphobia |
-| TxGNN Prediction Score | 99.43% |
-| Evidence Level | L2 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 1 |
-| Recommended Decision | Proceed with Guardrails |
+Moclobemide adalah perencat monoamin oksidase-A yang dapat dipulihkan dan selektif (RIMA) yang telah ditetapkan untuk rawatan kemurungan dan gangguan kebimbangan sosial. Model TxGNN meramalkan ia mungkin berkesan untuk **Agorafobia** (biasanya muncul sebagai gangguan panik dengan agorafobia), dengan **12 penerbitan** — termasuk dua ujian terkawal rawak — kini menyokong arah ini, walaupun tiada ujian klinikal yang berdaftar untuk petunjuk khusus ini.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Cepat
 
-Detailed mechanism of action data is not available in this evidence pack (data gap). Based on known pharmacological classification, moclobemide is a reversible inhibitor of monoamine oxidase A (RIMA), which increases synaptic concentrations of serotonin, norepinephrine, and dopamine — the accepted pharmacological basis for treating anxiety and panic-related disorders.
-
-Agoraphobia is clinically and diagnostically closely linked to panic disorder, frequently co-occurring or classified jointly (panic disorder with agoraphobia). Most available literature studies moclobemide specifically in "panic disorder" rather than agoraphobia as an isolated diagnosis, making this an indirect but mechanistically coherent extension of its known anxiolytic/antidepressant activity rather than a novel therapeutic mechanism.
-
-Two double-blind RCTs directly support efficacy in panic disorder with agoraphobia (comparing moclobemide against CBT and against clomipramine), reinforcing the plausibility of the TxGNN prediction even though no trial has targeted agoraphobia as a standalone endpoint.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Perkara | Kandungan |
+|------|----------|
+| Petunjuk Asal | Kemurungan / Gangguan Kebimbangan Sosial (berdasarkan kesusasteraan kelas ubat; teks petunjuk yang didaftar TFDA tidak tersedia dalam pakej bukti ini) |
+| Petunjuk Baru Diramal | Agorafobia |
+| Skor Ramalan TxGNN | 99.43% |
+| Aras Bukti | L2 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | Teruskan dengan Jaga-jaga |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [10448444](https://pubmed.ncbi.nlm.nih.gov/10448444/) | 1999 | RCT | The British Journal of Psychiatry | Randomised placebo-controlled trial of moclobemide, CBT, and their combination in panic disorder with agoraphobia |
-| [10361962](https://pubmed.ncbi.nlm.nih.gov/10361962/) | 1999 | RCT | European Archives of Psychiatry and Clinical Neuroscience | Multicenter double-blind RCT: moclobemide 450mg/day vs clomipramine 150mg/day in panic disorder with/without agoraphobia (n=135) |
-| [16850261](https://pubmed.ncbi.nlm.nih.gov/16850261/) | 2006 | Cohort/RCT | Metabolic Brain Disease | SPECT comparison of citalopram vs moclobemide on resting brain perfusion in social anxiety disorder |
-| [8313401](https://pubmed.ncbi.nlm.nih.gov/8313401/) | 1993 | Review | Clinical Neuropharmacology | Reversible MAO-A inhibitors (brofaromine, moclobemide) effective in panic disorder with fewer interactions than older MAOIs |
-| [1498904](https://pubmed.ncbi.nlm.nih.gov/1498904/) | 1992 | Review | Clinical Neuropharmacology | Reversible MAO-A inhibitors in panic disorder |
-| [28867934](https://pubmed.ncbi.nlm.nih.gov/28867934/) | 2017 | Review | Dialogues in Clinical Neuroscience | Treatment guidelines for anxiety disorders including panic disorder/agoraphobia |
-| [32002937](https://pubmed.ncbi.nlm.nih.gov/32002937/) | 2020 | Review | Advances in Experimental Medicine and Biology | Current and novel psychopharmacological drugs for anxiety disorders including panic disorder/agoraphobia |
-| [7717094](https://pubmed.ncbi.nlm.nih.gov/7717094/) | 1995 | Review | Acta Psychiatrica Scandinavica Suppl. | Moclobemide shown effective vs multiple comparators (amitriptyline, imipramine, fluoxetine, etc.) across 4 placebo-controlled trials |
-| [2248064](https://pubmed.ncbi.nlm.nih.gov/2248064/) | 1990 | Review | Acta Psychiatrica Scandinavica Suppl. | MAOIs effective in controlled studies of panic disorder with agoraphobia, social phobia, and related conditions |
-| [7892341](https://pubmed.ncbi.nlm.nih.gov/7892341/) | 1995 | Case Report | Psychiatrische Praxis | Treatment-refractory panic disorder with agoraphobia responded to combined imipramine + moclobemide + behavior therapy |
+Data mekanisme tindakan terperinci tidak tersedia dalam pakej bukti ini (jurang data). Berdasarkan klasifikasi farmakoloji yang diketahui, moclobemide adalah perencat yang dapat dipulihkan bagi monoamin oksidase A (RIMA), yang meningkatkan kepekatan sinapsis serotonin, norepinefrin, dan dopamin — asas farmakoloji yang diterima untuk merawat gangguan berkaitan kebimbangan dan panik.
+
+Agorafobia secara klinikal dan diagnostik berkait rapat dengan gangguan panik, sering berlaku bersama atau diklasifikasikan bersama (gangguan panik dengan agorafobia). Kebanyakan kesusasteraan yang tersedia mengkaji moclobemide khususnya dalam "gangguan panik" daripada agorafobia sebagai diagnosis terpencil, menjadikan ini lanjutan yang tidak langsung tetapi koheren secara mekanisme bagi aktiviti ansiolitik/antidepresan yang diketahuinya daripada mekanisme terapeutik yang baru.
+
+Dua ujian RCT dua buta secara langsung menyokong keberkesanan dalam gangguan panik dengan agorafobia (membandingkan moclobemide terhadap CBT dan terhadap klomipramin), mengukuhkan kemukinan ramalan TxGNN walaupun tiada ujian telah menyasarkan agorafobia sebagai titik akhir yang berdiri sendiri.
 
 ---
 
-## Malaysia Market Information
+## Bukti Ujian Klinikal
 
-Moclobemide is registered and marketed in Malaysia (1 active registration), but detailed license number, product name, dosage form, manufacturer, and approved indication text are not available in this evidence pack (data gap — requires NPRA product lookup).
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information. (TFDA/NPRA warnings, contraindications, and drug interaction data are marked as data gaps in this evidence pack — see below.)
+Pada masa ini tiada ujian klinikal berkaitan yang berdaftar.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Kesusasteraan
 
-**Decision: Proceed with Guardrails**
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|------|------|------|---------|
+| [10448444](https://pubmed.ncbi.nlm.nih.gov/10448444/) | 1999 | RCT | The British Journal of Psychiatry | Ujian plasebo kawalan rawak berkaitan moclobemide, CBT, dan kombinasi mereka dalam gangguan panik dengan agorafobia |
+| [10361962](https://pubmed.ncbi.nlm.nih.gov/10361962/) | 1999 | RCT | European Archives of Psychiatry and Clinical Neuroscience | Ujian RCT dua buta pelbagai pusat: moclobemide 450mg/hari vs klomipramin 150mg/hari dalam gangguan panik dengan/tanpa agorafobia (n=135) |
+| [16850261](https://pubmed.ncbi.nlm.nih.gov/16850261/) | 2006 | Kohort/RCT | Metabolic Brain Disease | Perbandingan SPECT sitalopramin vs moclobemide pada aliran darah otak semasa beristirahat dalam gangguan kebimbangan sosial |
+| [8313401](https://pubmed.ncbi.nlm.nih.gov/8313401/) | 1993 | Ulasan | Clinical Neuropharmacology | Perencat MAO-A yang dapat dipulihkan (brofaromin, moclobemide) berkesan dalam gangguan panik dengan interaksi lebih sedikit daripada MAOI lama |
+| [1498904](https://pubmed.ncbi.nlm.nih.gov/1498904/) | 1992 | Ulasan | Clinical Neuropharmacology | Perencat MAO-A yang dapat dipulihkan dalam gangguan panik |
+| [28867934](https://pubmed.ncbi.nlm.nih.gov/28867934/) | 2017 | Ulasan | Dialogues in Clinical Neuroscience | Garis panduan rawatan untuk gangguan kebimbangan termasuk gangguan panik/agorafobia |
+| [32002937](https://pubmed.ncbi.nlm.nih.gov/32002937/) | 2020 | Ulasan | Advances in Experimental Medicine and Biology | Ubat psikofarmakoloji semasa dan baru untuk gangguan kebimbangan termasuk gangguan panik/agorafobia |
+| [7717094](https://pubmed.ncbi.nlm.nih.gov/7717094/) | 1995 | Ulasan | Acta Psychiatrica Scandinavica Suppl. | Moclobemide ditunjukkan berkesan vs pembanding pelbagai (amitriptilina, imipramin, fluoksatin, dll.) merentasi 4 ujian kawalan plasebo |
+| [2248064](https://pubmed.ncbi.nlm.nih.gov/2248064/) | 1990 | Ulasan | Acta Psychiatrica Scandinavica Suppl. | MAOI berkesan dalam kajian kawalan gangguan panik dengan agorafobia, fobia sosial, dan keadaan berkaitan |
+| [7892341](https://pubmed.ncbi.nlm.nih.gov/7892341/) | 1995 | Laporan Kes | Psychiatrische Praxis | Gangguan panik dengan agorafobia yang tahan rawatan bertindak balas kepada imipramin + moclobemide + terapi tingkah laku gabungan |
 
-**Rationale:**
-Two RCTs and a body of supporting review literature establish a mechanistically coherent link between moclobemide's MAO-A inhibition and panic disorder/agoraphobia, but no dedicated agoraphobia trial exists and safety documentation is currently missing — insufficient for an unconditional "Go" but too well-supported for "Hold."
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert warnings and contraindications (Blocking gap — required before S1 safety assessment)
-- Detailed mechanism of action (MOA) documentation from DrugBank
-- Confirmed regulatory approved indication text and product details for the Malaysia registration
-- Drug-drug interaction (DDI) data (currently not found)
-- A prospective or retrospective study specifically targeting agoraphobia (rather than panic disorder broadly) as the primary endpoint
+## Maklumat Pasaran Malaysia
 
-*Note: The second candidate indication, "benign paroxysmal torticollis of infancy" (TxGNN score 99.30%), has no literature or clinical trial support and no plausible mechanistic link — recommend Hold, likely a false-positive knowledge-graph prediction.*
+Moclobemide didaftar dan dipasarkan di Malaysia (1 pendaftaran aktif), tetapi nombor lesen terperinci, nama produk, bentuk dos, pengilang, dan teks petunjuk yang diluluskan tidak tersedia dalam pakej bukti ini (jurang data — memerlukan carian produk NPRA).
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan bungkusan untuk maklumat keselamatan. (Amaran TFDA/NPRA, kontraindikasi, dan data interaksi ubat ditandakan sebagai jurang data dalam pakej bukti ini — lihat di bawah.)
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Teruskan dengan Jaga-jaga**
+
+**Alasan:**
+Dua ujian RCT dan badan kesusasteraan ulasan yang menyokong menjalin sambungan yang koheren secara mekanis antara perencatan MAO-A moclobemide dan gangguan panik/agorafobia, tetapi tiada ujian agorafobia khusus yang wujud dan dokumentasi keselamatan kini hilang — tidak mencukupi untuk "Go" tanpa syarat tetapi terlalu didukung dengan baik untuk "Tahan."
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Amaran sisipan bungkusan TFDA/NPRA dan kontraindikasi (Jurang Pemblokiran — diperlukan sebelum penilaian keselamatan S1)
+- Dokumentasi mekanisme tindakan terperinci (MOA) daripada DrugBank
+- Teks petunjuk yang diluluskan kawal selia yang disahkan dan butir produk untuk pendaftaran Malaysia
+- Data interaksi ubat-ubat (DDI) (kini tidak dijumpai)
+- Kajian prospektif atau retrospektif yang khususnya menyasarkan agorafobia (daripada gangguan panik secara luas) sebagai titik akhir utama
+
+*Nota: Petunjuk calon kedua, "tortikollis paroksikal jinak ketika zaman bayi" (skor TxGNN 99.30%), tidak mempunyai sokongan kesusasteraan atau ujian klinikal dan tiada pautan mekanik yang munasabah — syorkan Tahan, mungkin ramalan graf pengetahuan positif palsu.*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

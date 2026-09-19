@@ -29,91 +29,92 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Brinzolamide: From Ocular Hypertension to Primary Hereditary Glaucoma
+# Brinzolamide: Dari Hipertensi Okular hingga Glaukoma Herediter Primer
 
-## One-Sentence Summary
+## Ringkasan Satu Kalimat
 
-Brinzolamide is a carbonic anhydrase II (CA-II) inhibitor, originally used for reducing elevated intraocular pressure (IOP) in patients with open-angle glaucoma or ocular hypertension. The TxGNN model predicts it may be effective for **Primary Hereditary Glaucoma**, though currently **no dedicated clinical trials** or **publications** have been identified for this specific hereditary subtype. This prediction essentially represents a **label extension** rather than a classic drug repurposing scenario, as the core pharmacological mechanism directly addresses the primary pathology of hereditary glaucoma.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Elevated intraocular pressure (open-angle glaucoma / ocular hypertension) |
-| Predicted New Indication | Primary Hereditary Glaucoma |
-| TxGNN Prediction Score | 99.48% |
-| Evidence Level | L4 — Mechanistic rationale strongly supports applicability |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
-| Recommended Decision | Proceed with Guardrails |
+Brinzolamide adalah penghambat karbonik anhidrase II (CA-II), yang awalnya digunakan untuk mengurangi tekanan intraokular (IOP) yang meningkat pada pesakit dengan glaukoma sudut terbuka atau hipertensi okular. Model TxGNN meramalkan bahawa ia mungkin berkesan untuk **Glaukoma Herediter Primer**, walaupun pada masa ini **tiada ujian klinis khusus** atau **penerbitan** telah dikenal pasti untuk subtipe herediter spesifik ini. Ramalan ini pada asasnya mewakili **perluasan label** dan bukannya satu senario repositioning ubat klasik, kerana mekanisme farmakologi teras secara langsung menangani patologi utama glaukoma herediter.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Pantas
 
-Brinzolamide is a potent carbonic anhydrase II (CA-II) inhibitor that reduces intraocular pressure (IOP) by suppressing aqueous humor production in the ciliary body. It is well-established as a topical ophthalmic agent for the management of elevated IOP in open-angle glaucoma and ocular hypertension, and has been marketed globally for over two decades.
-
-Primary hereditary glaucoma — encompassing subtypes such as primary congenital glaucoma (PCG), juvenile open-angle glaucoma (JOAG), and related developmental glaucomas — shares the same core pathological endpoint: elevated IOP leading to progressive optic nerve damage. While the underlying etiology involves genetic mutations (e.g., *CYP1B1*, *MYOC*, *LTBP2*) that cause developmental abnormalities in the trabecular meshwork and anterior chamber angle, **IOP reduction remains the primary therapeutic goal** across all hereditary subtypes.
-
-Because Brinzolamide's mechanism of action — inhibiting CA-II to reduce aqueous humor production — directly addresses the IOP elevation common to all forms of glaucoma, this prediction is pharmacologically sound. In clinical practice, topical CA-II inhibitors are already used as adjunctive therapy in paediatric and juvenile glaucoma cases. The TxGNN prediction therefore represents a logical **label extension** (expanding the formally approved indication to hereditary glaucoma subtypes) rather than a traditional drug repurposing across unrelated disease areas.
-
----
-
-## Clinical Trial Evidence
-
-Currently no clinical trials specifically registered for Brinzolamide in primary hereditary glaucoma.
-
-> **Note:** While no trials were found for this exact indication term, Brinzolamide has extensive clinical trial data for open-angle glaucoma and ocular hypertension. Future searches using broader terms (e.g., "congenital glaucoma," "juvenile glaucoma," "paediatric glaucoma") may yield relevant results.
+| Item | Kandungan |
+|------|-----------|
+| Petunjuk Asal | Tekanan intraokular yang meningkat (glaukoma sudut terbuka / hipertensi okular) |
+| Petunjuk Baru yang Diramalkan | Glaukoma Herediter Primer |
+| Skor Ramalan TxGNN | 99.48% |
+| Tahap Bukti | L4 — Nisbah mekanis kuat menyokong kebolehgunaan |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 3 |
+| Keputusan yang Disyorkan | Teruskan dengan Penjaga |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Masuk Akal?
 
-Currently no literature specifically identified for Brinzolamide in primary hereditary glaucoma.
+Brinzolamide adalah penghambat karbonik anhidrase II (CA-II) yang kuat yang mengurangkan tekanan intraokular (IOP) dengan menekan pengeluaran humor akua dalam badan siliar. Ia sudah mapan sebagai agen oftalmik topikal untuk pengurusan IOP yang meningkat pada glaukoma sudut terbuka dan hipertensi okular, dan telah dipasarkan secara global selama lebih dua dekade.
 
-> **Note:** The absence of literature for this precise disease term does not reflect a lack of clinical experience. Brinzolamide is routinely discussed in paediatric ophthalmology literature as part of medical management for congenital and juvenile glaucoma. A broader literature search with alternative disease terminology is recommended.
+Glaukoma herediter primer — merangkumi subtipe seperti glaukoma bawaan primer (PCG), glaukoma sudut terbuka remaja (JOAG), dan glaukoma perkembangan berkaitan lain — berkongsi titik akhir patologi teras yang sama: IOP yang meningkat yang membawa kepada kerosakan saraf optik yang progresif. Walaupun etiologi yang mendasar melibatkan mutasi genetik (contohnya, *CYP1B1*, *MYOC*, *LTBP2*) yang menyebabkan kelainan perkembangan dalam jalinan trabekular dan sudut ruang anterior, **pengurangan IOP tetap menjadi objektif terapeutik utama** merentasi semua subtipe glaukoma herediter.
+
+Oleh kerana mekanisme tindakan Brinzolamide — menghalang CA-II untuk mengurangkan pengeluaran humor akua — secara langsung menangani peningkatan IOP yang lazim dalam semua bentuk glaukoma, ramalan ini secara farmakologi masuk akal. Dalam praktik klinis, penghambat CA-II topikal sudah digunakan sebagai terapi adjuvans dalam kes glaukoma pediatrik dan remaja. Ramalan TxGNN oleh itu mewakili **perluasan label** logis (meluaskan petunjuk yang diluluskan secara formal ke subtipe glaukoma herediter) dan bukannya repositioning ubat tradisional merentasi bidang penyakit yang tidak berkaitan.
 
 ---
 
-## Malaysia Market Information
+## Bukti Ujian Klinis
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+Pada masa ini tiada ujian klinis yang secara khusus didaftarkan untuk Brinzolamide dalam glaukoma herediter primer.
+
+> **Nota:** Walaupun tiada ujian ditemui untuk istilah petunjuk yang tepat ini, Brinzolamide mempunyai data ujian klinis yang luas untuk glaukoma sudut terbuka dan hipertensi okular. Carian masa depan menggunakan istilah yang lebih luas (contohnya, "glaukoma bawaan," "glaukoma remaja," "glaukoma pediatrik") mungkin menghasilkan hasil yang relevan.
+
+---
+
+## Bukti Literatur
+
+Pada masa ini tiada literatur yang secara khusus dikenal pasti untuk Brinzolamide dalam glaukoma herediter primer.
+
+> **Nota:** Ketiadaan literatur untuk istilah penyakit yang tepat ini tidak mencerminkan ketiadaan pengalaman klinis. Brinzolamide secara rutin dibincangkan dalam literatur oftalmologi pediatrik sebagai sebahagian daripada pengurusan perubatan untuk glaukoma bawaan dan remaja. Carian literatur yang lebih luas dengan terminologi penyakit alternatif disyorkan.
+
+---
+
+## Maklumat Pasaran Malaysia
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjuk yang Diluluskan |
 |------|------|------|------|
-| (Registration 1) | Brinzolamide product | Ophthalmic suspension | Elevated intraocular pressure |
-| (Registration 2) | Brinzolamide product | Ophthalmic suspension | Elevated intraocular pressure |
-| (Registration 3) | Brinzolamide product | Ophthalmic suspension | Elevated intraocular pressure |
+| (Pendaftaran 1) | Produk Brinzolamide | Suspensі oftalmik | Tekanan intraokular yang meningkat |
+| (Pendaftaran 2) | Produk Brinzolamide | Suspensі oftalmik | Tekanan intraokular yang meningkat |
+| (Pendaftaran 3) | Produk Brinzolamide | Suspensі oftalmik | Tekanan intraokular yang meningkat |
 
-> **Note:** Detailed registration information (authorization numbers, exact product names, dosage forms) was not available in the current data extract. Three active registrations are confirmed by NPRA query.
+> **Nota:** Maklumat pendaftaran terperinci (nombor kebenaran, nama produk yang tepat, bentuk dos) tidak tersedia dalam ekstrak data semasa. Tiga pendaftaran aktif disahkan oleh pertanyaan NPRA.
 
 ---
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-> Please refer to the package insert for safety information. Key warnings, contraindications, and drug interaction data were not available in the current evidence pack.
+> Sila rujuk risalah paket untuk maklumat keselamatan. Data amaran kunci, kontraindikasi, dan data interaksi ubat tidak tersedia dalam paket bukti semasa.
 >
-> **Known class-level considerations for topical CA-II inhibitors:**
-> - Sulfonamide hypersensitivity (Brinzolamide is a sulfonamide derivative)
-> - Corneal endothelial cell effects with prolonged use
-> - Caution in patients with severe renal impairment (systemic absorption, though minimal, involves renal elimination)
-> - Transient blurred vision and ocular discomfort are common local adverse effects
+> **Pertimbangan tahap kelas yang diketahui untuk penghambat CA-II topikal:**
+> - Hipersensitiviti sulfonamida (Brinzolamide adalah terbitan sulfonamida)
+> - Kesan sel endotel kornea dengan penggunaan berpanjangan
+> - Berhati-hati pada pesakit dengan kemudaratan ginjal yang teruk (penyerapan sistemik, walaupun minimal, melibatkan penyingkiran ginjal)
+> - Penglihatan kabur sementara dan ketidakselesaan mata adalah kesan sampingan tempatan yang lazim
 
 ---
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Proceed with Guardrails**
+**Keputusan: Teruskan dengan Penjaga**
 
-**Rationale:**
-Brinzolamide's mechanism of action (CA-II inhibition → IOP reduction) directly addresses the central pathology of primary hereditary glaucoma. This prediction is essentially a label extension with strong pharmacological plausibility, even though formal clinical trial evidence specific to the hereditary subtype is lacking. The drug is already marketed in Malaysia and has an extensive global safety track record.
+**Nisbah:**
+Mekanisme tindakan Brinzolamide (penghalang CA-II → pengurangan IOP) secara langsung menangani patologi pusat glaukoma herediter primer. Ramalan ini pada asasnya adalah perluasan label dengan kredibiliti farmakologi yang kuat, walaupun bukti ujian klinis formal yang khusus untuk subtipe herediter hilang. Ubat ini sudah dipasarkan di Malaysia dan mempunyai rekod keselamatan global yang meluas.
 
-**To proceed, the following is needed:**
-- **Literature search expansion**: Search for Brinzolamide use in congenital glaucoma, juvenile glaucoma, and paediatric glaucoma using broader MeSH terms and synonyms
-- **Package insert review**: Obtain full prescribing information from NPRA-registered products to complete safety assessment (key warnings, contraindications, DDI)
-- **Mechanism of action data**: Retrieve complete MOA details from DrugBank API to support formal documentation
-- **Paediatric dosing data**: If the target population includes young children (as in primary congenital glaucoma), paediatric pharmacokinetic and safety data should be compiled
-- **Regulatory gap analysis**: Confirm whether any jurisdiction has already approved Brinzolamide specifically for hereditary glaucoma subtypes, which would further de-risk the label extension pathway
+**Untuk meneruskan, perkara berikut diperlukan:**
+- **Perluasan carian literatur**: Cari penggunaan Brinzolamide dalam glaukoma bawaan, glaukoma remaja, dan glaukoma pediatrik menggunakan istilah MeSH yang lebih luas dan sinonim
+- **Semakan risalah paket**: Dapatkan maklumat preskripsi lengkap daripada produk yang terdaftar NPRA untuk melengkapkan penilaian keselamatan (amaran kunci, kontraindikasi, interaksi ubat)
+- **Data mekanisme tindakan**: Ambil butiran MOA lengkap daripada API DrugBank untuk menyokong dokumentasi formal
+- **Data pemodesan pediatrik**: Jika populasi sasaran merangkumi kanak-kanak muda (seperti dalam glaukoma bawaan herediter primer), data farmakokinetik pediatrik dan keselamatan harus dikumpulkan
+- **Analisis jurang peraturan**: Sahkan sama ada mana-mana bidang kuasa telah meluluskan Brinzolamide secara khusus untuk subtipe glaukoma herediter, yang akan mendeskripsikan lagi laluan perluasan label
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

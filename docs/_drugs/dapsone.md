@@ -29,64 +29,65 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Dapsone: From Leprosy / Dermatitis Herpetiformis to Pneumocystosis
+# Dapsone: Daripada Penyakit Kusta / Dermatitis Herpetiformis kepada Pneumokistosis
 
-*Note: The evidence pack's Taiwan/Malaysia regulatory license records contain no populated original-indication text (data gap DG001), so "Leprosy / Dermatitis Herpetiformis" above reflects Dapsone's well-established general indications rather than a value extracted from this pack.*
+*Catatan: Rekod lesen kawal selia Taiwan/Malaysia dalam pakej bukti tidak mengandungi teks petunjuk asal yang diisi (jurang data DG001), jadi "Penyakit Kusta / Dermatitis Herpetiformis" di atas mencerminkan petunjuk yang telah terbina dengan baik secara amnya untuk Dapsone dan bukannya nilai yang diekstrak daripada pakej ini.*
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Dapsone is a sulfone-class antibacterial classically indicated for leprosy (Hansen's disease) and dermatitis herpetiformis; the TFDA label detail needed to confirm this locally is currently missing from the evidence pack (data gap DG001). The TxGNN model predicts it may be effective for **Pneumocystosis (Pneumocystis pneumonia)**, a prediction that aligns with dapsone's established off-label/guideline-based use as PCP prophylaxis — but the pack currently contains **0 matched clinical trials** and **0 matched publications** for this specific pairing.
+Dapsone ialah antibakteri kelas sulfon yang pada asalnya ditunjukkan untuk penyakit kusta (penyakit Hansen) dan dermatitis herpetiformis; butiran label TFDA yang diperlukan untuk mengesahkan ini secara tempatan kini tiada dalam pakej bukti (jurang data DG001). Model TxGNN meramalkan ia mungkin berkesan untuk **Pneumokistosis (pneumonia Pneumocystis)**, satu ramalan yang selaras dengan penggunaan luar label/berasaskan garis panduan Dapsone yang terbina dengan baik sebagai profilaksis PCP — tetapi pakej kini mengandungi **0 ujian klinikal yang sepadan** dan **0 penerbitan yang sepadan** untuk pasangan khusus ini.
 
-## Quick Overview
+## Gambaran Keseluruhan Cepat
 
-| Item | Content |
-|------|------|
-| Original Indication | Not populated in evidence pack (TFDA license text blank — see DG001); generally known as leprosy / dermatitis herpetiformis |
-| Predicted New Indication | Pneumocystosis (Pneumocystis pneumonia) |
-| TxGNN Prediction Score | 99.73% |
-| Evidence Level | L2 (per source scoring — see rationale below; note zero trials/literature were indexed in this pack) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|---------|
+| Petunjuk Asal | Tidak diisi dalam pakej bukti (teks lesen TFDA kosong — lihat DG001); secara amnya dikenali sebagai penyakit kusta / dermatitis herpetiformis |
+| Petunjuk Baru yang Diramalkan | Pneumokistosis (pneumonia Pneumocystis) |
+| Skor Ramalan TxGNN | 99.73% |
+| Paras Bukti | L2 (mengikut penilaian sumber — lihat rasional di bawah; nota sifar ujian/literatur diindeks dalam pakej ini) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 2 |
+| Keputusan yang Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Berdasar?
 
-Currently, detailed mechanism of action data is not available (DG002 — High severity gap). Based on known pharmacology, Dapsone is a sulfonamide analog that inhibits dihydropteroate synthase in *Pneumocystis jirovecii*, the same mechanistic target as sulfamethoxazole. This places dapsone squarely in the established antifolate pathway used against this organism.
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia (DG002 — Jurang keterukan tinggi). Berdasarkan farmakologi yang diketahui, Dapsone ialah analog sulfonamida yang menghalang sintesis dihidroptoroat dalam *Pneumocystis jirovecii*, sasaran mekanistik yang sama dengan sulfametoksazol. Ini meletakkan dapsone dengan jelas dalam laluan antifolat yang terbina dengan baik yang digunakan terhadap organisma ini.
 
-Clinically, dapsone (alone or combined with pyrimethamine) is already a recognized alternative for Pneumocystis pneumonia (PCP) prophylaxis and treatment in patients who cannot tolerate trimethoprim-sulfamethoxazole (TMP-SMX), and is included in CDC/NIH/IDSA opportunistic infection guidelines. In other words, this is not a novel repurposing hypothesis generated purely from graph inference — it reflects existing clinical practice that the TxGNN model has independently recovered, which is a strong internal-consistency signal for the prediction.
+Secara klinikal, dapsone (sahaja atau digabungkan dengan pirimethamine) adalah alternatif yang diiktiraf untuk profilaksis dan rawatan pneumonia Pneumocystis (PCP) dalam pesakit yang tidak dapat menoleransi TMP-SMX, dan disertakan dalam garis panduan jangkitan oportunistik CDC/NIH/IDSA. Dalam erti kata lain, ini bukan hipotesis repurposing novel yang dijana semata-mata daripada inferens graf — ia mencerminkan amalan klinikal sedia ada yang model TxGNN telah pulih secara bebas, yang merupakan isyarat konsistensi dalaman yang kuat untuk ramalan.
 
-The high TxGNN score (99.73%) is therefore consistent with prior mechanistic and guideline evidence, even though this specific evidence pack did not return matching entries from ClinicalTrials.gov, ICTRP, or PubMed for the dapsone–pneumocystosis pairing (see Clinical Trial and Literature sections below).
+Skor TxGNN yang tinggi (99.73%) oleh itu konsisten dengan bukti mekanistik dan garis panduan sebelumnya, walaupun pakej bukti khusus ini tidak mengembalikan entri yang sepadan daripada ClinicalTrials.gov, ICTRP, atau PubMed untuk pasangan dapsone–pneumokistosis (lihat bahagian Ujian Klinikal dan Literatur di bawah).
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-Currently no related clinical trials registered.
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no related literature available.
+Pada masa ini tiada literatur berkaitan tersedia.
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Dapsone holds **2 registrations** with market status "Marketed," but the evidence pack's license records (authorization number, product name, dosage form, approved indication) are blank for both entries — this is consistent with data gap DG001 (TFDA label/warning extraction not yet completed). Populated license details are needed before this table can be produced.
+Dapsone memegang **2 pendaftaran** dengan status pasaran "Dipasarkan," tetapi rekod lesen pakej bukti (nombor kebenaran, nama produk, bentuk dos, petunjuk yang diluluskan) kosong untuk kedua-dua entri — ini konsisten dengan jurang data DG001 (ekstraksi label/amaran TFDA belum selesai). Butiran lesen yang diisi diperlukan sebelum jadual ini boleh dihasilkan.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk risalah maklumat ubat untuk maklumat keselamatan.
 
-Note: Key warnings, contraindications, and drug-interaction data are all currently unavailable in this evidence pack (DG001, severity: Blocking — "cannot proceed to S1 safety screening"). This is a hard blocker for any safety-based go/no-go assessment, independent of the efficacy evidence above.
+Nota: Data amaran utama, kontraindikasi, dan interaksi ubat semuanya kini tidak tersedia dalam pakej bukti ini (DG001, keterukan: Blocking — "tidak boleh meneruskan ke pemeriksaan keselamatan S1"). Ini adalah penghalang keras untuk sebarang penilaian berasaskan keselamatan pergi/tanpa pergi, bebas daripada bukti keberkesanan di atas.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The mechanistic and guideline-based rationale for dapsone in pneumocystosis is sound and reflects existing clinical practice, but a Blocking data gap (TFDA label warnings/contraindications, DG001) prevents any safety screening, and this pack independently indexed zero clinical trials or publications for the specific pairing.
+**Rasional:**
+Rasional mekanistik dan berasaskan garis panduan untuk dapsone dalam pneumokistosis adalah kukuh dan mencerminkan amalan klinikal sedia ada, tetapi jurang data Blocking (amaran label TFDA/kontraindikasi, DG001) menghalang sebarang pemeriksaan keselamatan, dan pakej ini secara bebas mengindeks sifar ujian klinikal atau penerbitan untuk pasangan khusus.
 
-**To proceed, the following is needed:**
-- TFDA product label (warnings/contraindications) to close DG001 and unblock S1 safety review
-- Mechanism of action documentation from DrugBank to close DG002
-- Populated Malaysia license details (product name, dosage form, approved indication text)
-- Targeted literature search for dapsone PCP-prophylaxis guideline citations (CDC/NIH/IDSA) to substantiate the L2 evidence rating with primary sources
+**Untuk meneruskan, yang berikut diperlukan:**
+- Label produk TFDA (amaran/kontraindikasi) untuk menutup DG001 dan membuka kunci ulasan keselamatan S1
+- Dokumentasi mekanisme tindakan daripada DrugBank untuk menutup DG002
+- Butiran lesen Malaysia yang diisi (nama produk, bentuk dos, teks petunjuk yang diluluskan)
+- Carian literatur disasarkan untuk petikan garis panduan profilaksis PCP dapsone (CDC/NIH/IDSA) untuk mengesahkan penilaian bukti L2 dengan sumber utama
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

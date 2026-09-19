@@ -29,63 +29,64 @@ Tahap bukti: **L5** | Indikasi diramal: **9**
 
 </div>
 
-# Insulin Lispro: From Diabetes Mellitus to Autoimmune Oophoritis
+# Insulin Lispro: Daripada Diabetes Mellitus kepada Oophoritis Autoimun
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-> Insulin lispro is a rapid-acting insulin analog used for glycemic control in diabetes mellitus.
-> The TxGNN model predicts a possible link to **Autoimmune Oophoritis**, but currently **no clinical trials** and **no literature** support this specific pairing, and the model's own rationale flags the association as likely driven by semantic proximity rather than a real biological mechanism.
+> Insulin lispro ialah analog insulin bertindak cepat yang digunakan untuk kawalan glisemik dalam diabetes mellitus.
+> Model TxGNN meramalkan kemungkinan kaitan dengan **Oophoritis Autoimun**, tetapi pada masa ini **tiada uji klinikal** dan **tiada literatur** yang menyokong pasangan khusus ini, dan rasional model itu sendiri menandai kaitan itu sebagai berkemungkinan didorong oleh kesamaan semantik dan bukannya mekanisme biologi yang sebenar.
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | Not captured in current data extract (drug is a known insulin therapy for diabetes mellitus; TFDA-specific label text is a data gap — see below) |
-| Predicted New Indication | Autoimmune oophoritis |
-| TxGNN Prediction Score | 99.78% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 3 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Tidak ditangkap dalam ekstrak data semasa (ubat ialah terapi insulin yang diketahui untuk diabetes mellitus; teks label khusus TFDA ialah jurang data — lihat di bawah) |
+| Indikasi Baru yang Diramal | Oophoritis autoimun |
+| Skor Ramalan TxGNN | 99.78% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 3 |
+| Keputusan yang Disyorkan | Tunggu |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data is not available for insulin lispro in this evidence pack. Based on known information, insulin lispro is a rapid-acting insulin analog used to control blood glucose in diabetes mellitus, acting via the insulin receptor to regulate glucose uptake and metabolism.
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia untuk insulin lispro dalam pakej bukti ini. Berdasarkan maklumat yang diketahui, insulin lispro ialah analog insulin bertindak cepat yang digunakan untuk mengawal glukosa darah dalam diabetes mellitus, bertindak melalui reseptor insulin untuk meregulasi pengambilan glukosa dan metabolisme.
 
-Autoimmune oophoritis is an autoimmune condition causing premature ovarian failure. It has no established direct mechanistic connection to insulin signaling. According to the evidence pack's own rationale, the high TxGNN score most likely reflects semantic clustering around "autoimmune" disease nodes in the knowledge graph — for example, autoimmune oophoritis can co-occur with Type 1 diabetes as part of autoimmune polyglandular syndrome (APS) — rather than a causal pharmacological relationship. There is no specific biological pathway connecting insulin signaling to autoimmune destruction of ovarian tissue.
+Oophoritis autoimun ialah keadaan autoimun yang menyebabkan kegagalan ovari prematur. Ia tidak mempunyai sambungan mekanistik langsung yang ditetapkan dengan isyarat insulin. Menurut rasional pakej bukti itu sendiri, skor TxGNN yang tinggi kemungkinan besar mencerminkan pengelompokan semantik di sekitar nod penyakit "autoimun" dalam graf pengetahuan — contohnya, oophoritis autoimun boleh berlaku serentak dengan diabetes Jenis 1 sebagai sebahagian daripada Sindrom Poliglandular Autoimun (APS) — dan bukannya hubungan farmakologi sebab-akibat. Tiada laluan biologi khusus yang menghubungkan isyarat insulin dengan kemusnahan autoimun tisu ovari.
 
-Given this, the prediction should be treated as a knowledge-graph association signal rather than a mechanistically grounded repurposing hypothesis.
+Memandangkan hal ini, ramalan sepatutnya diperlakukan sebagai isyarat kaitan graf-pengetahuan dan bukannya hipotesis penyusunan semula ubat yang berdasarkan pada mekanisme.
 
-## Clinical Trial Evidence
+## Bukti Uji Klinikal
 
-Currently no related clinical trials registered
+Pada masa ini tiada uji klinikal berkaitan yang didaftarkan
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no related literature available
+Pada masa ini tiada literatur berkaitan yang tersedia
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-3 registrations are on file and the product's market status is Marketed, but the current data extract does not include license numbers, product names, dosage forms, manufacturers, or approved-indication text for these registrations — this information will need to be pulled directly from source records before market details can be reported.
+3 pendaftaran ada dalam fail dan status pasaran produk ialah Dipasarkan, tetapi ekstrak data semasa tidak termasuk nombor lesen, nama produk, bentuk dos, pengilang, atau teks indikasi yang diluluskan untuk pendaftaran ini — maklumat ini perlu diambil terus daripada rekod sumber sebelum butiran pasaran boleh dilaporkan.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-*(Note: TFDA/NPRA label warnings and contraindications are marked as a Blocking data gap — DG001 — meaning this candidate cannot yet enter the S1 safety pre-assessment stage until that data is retrieved.)*
+*(Nota: Amaran label TFDA/NPRA dan kontraindikasi ditandai sebagai jurang data pemblokiran — DG001 — bermakna calon ini belum boleh memasuki peringkat pra-penilaian keselamatan S1 sehingga data itu diambil.)*
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Berikutnya
 
-**Decision: Hold**
+**Keputusan: Tunggu**
 
-**Rationale:**
-The predicted indication has no supporting clinical trials or literature, sits at evidence level L5 (model prediction only), and the mechanistic rationale itself indicates the association is likely a knowledge-graph artifact rather than a genuine pharmacological link.
+**Rasional:**
+Indikasi yang diramal tidak mempunyai uji klinikal atau literatur yang menyokong, berada pada tahap bukti L5 (ramalan model sahaja), dan rasional mekanistik itu sendiri menunjukkan bahawa kaitan itu kemungkinan besar merupakan artifak graf-pengetahuan dan bukannya sambungan farmakologi yang tulen.
 
-**To proceed, the following is needed:**
-- Insulin lispro's mechanism of action (MOA) data (DG002)
-- TFDA/NPRA package insert warnings and contraindications, required to clear the S1 safety pre-assessment gate (DG001, Blocking)
-- Complete license/product details (product name, dosage form, manufacturer, approved indication text) for the 3 existing registrations
-- Any preclinical or mechanistic study specifically linking insulin signaling to autoimmune oophoritis, to validate or refute the current TxGNN association
+**Untuk meneruskan, yang berikut diperlukan:**
+- Data mekanisme tindakan (MOA) insulin lispro (DG002)
+- Amaran sisipan pakej TFDA/NPRA dan kontraindikasi, diperlukan untuk melewati gerbang pra-penilaian keselamatan S1 (DG001, Pemblokiran)
+- Butiran lesen/produk lengkap (nama produk, bentuk dos, pengilang, teks indikasi yang diluluskan) untuk 3 pendaftaran sedia ada
+- Sebarang kajian pra-klinikal atau mekanistik yang secara khusus menghubungkan isyarat insulin dengan oophoritis autoimun, untuk mengesahkan atau menolak kaitan TxGNN semasa
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

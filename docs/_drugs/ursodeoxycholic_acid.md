@@ -29,58 +29,59 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Ursodeoxycholic Acid: From Gallstone Dissolution/PBC to Homozygous Familial Hypercholesterolemia
+# Asid Ursodeoksikolis: Daripada Pelarutan Batu Hempedu/PBC kepada Hiperkolesterolemia Familiar Homozigot
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Ursodeoxycholic acid (UDCA) is a hydrophilic bile acid used to dissolve gallstones and treat primary biliary cholangitis (PBC) through cytoprotective and choleretic effects. The TxGNN model predicts it may be effective for **Homozygous Familial Hypercholesterolemia (HoFH)**, but this prediction is currently supported by **0 clinical trials** and **0 publications** — it is a pure knowledge-graph association with no direct evidence.
+Asid ursodeoksikolis (UDCA) ialah asid empedu hidrofil yang digunakan untuk melarutkan batu hempedu dan merawat kolangitis bilier primer (PBC) melalui kesan sitoprotektif dan koleresis. Model TxGNN meramalkan ia mungkin berkesan untuk **Hiperkolesterolemia Familiar Homozigot (HoFH)**, tetapi ramalan ini kini disokong oleh **0 ujian klinikal** dan **0 penerbitan** — ia adalah persatuan graf-pengetahuan semata-mata tanpa bukti langsung.
 
-## Quick Overview
+## Gambaran Keseluruhan Cepat
 
-| Item | Content |
-|------|------|
-| Original Indication | Gallstone dissolution; Primary Biliary Cholangitis (PBC) |
-| Predicted New Indication | Homozygous Familial Hypercholesterolemia (HoFH) |
-| TxGNN Prediction Score | 99.86% (rank 2731) |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|-----------|
+| Indikasi Asal | Pelarutan batu hempedu; Kolangitis Bilier Primer (PBC) |
+| Indikasi Baru yang Diramalkan | Hiperkolesterolemia Familiar Homozigot (HoFH) |
+| Skor Ramalan TxGNN | 99.86% (pangkat 2731) |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 3 |
+| Keputusan yang Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-UDCA's known pharmacology involves three mechanisms: (1) reducing bile cholesterol saturation to promote gallstone dissolution, (2) cytoprotective/anti-apoptotic effects on hepatocytes (the basis for its PBC use), and (3) partial modulation of bile acid receptor signaling (FXR/TGR5). HoFH, by contrast, results from loss-of-function defects in the LDL receptor pathway (LDLR, APOB, PCSK9, or LDLRAP1), and effective therapies must work through LDLR-independent routes — PCSK9 inhibition, ANGPTL3 inhibition, MTP inhibition, or LDL apheresis.
+Farmakologi UDCA yang diketahui melibatkan tiga mekanisme: (1) mengurangkan ketepuan kolesterol empedu untuk menggalakkan pelarutan batu hempedu, (2) kesan sitoprotektif/anti-apoptosis pada hepatosit (asas untuk penggunaannya bagi PBC), dan (3) modulasi separa isyarat reseptor asid empedu (FXR/TGR5). HoFH, sebaliknya, terhasil daripada kecacatan kehilangan fungsi dalam laluan reseptor LDL (LDLR, APOB, PCSK9, atau LDLRAP1), dan terapi berkesan mesti berfungsi melalui laluan bebas LDLR — perencatan PCSK9, perencatan ANGPTL3, perencatan MTP, atau aferesis LDL.
 
-While bile acid synthesis (via CYP7A1) intersects biochemically with cholesterol metabolism, UDCA is not a potent FXR agonist (unlike obeticholic acid), and there is currently no biochemical evidence that it can bypass or compensate for LDL receptor deficiency. The TxGNN score of 99.86% is very high, but it reflects a graph-topology association rather than a validated pharmacological pathway — the mechanistic link to HoFH should be considered speculative at this stage.
+Walaupun sintesis asid empedu (melalui CYP7A1) bersilang secara biokimia dengan metabolisme kolesterol, UDCA bukanlah agonis FXR yang berkuasa (tidak seperti asid obetikolik), dan pada masa ini tiada bukti biokimia bahawa ia dapat memintas atau memberi pampasan untuk kekurangan reseptor LDL. Skor TxGNN sebanyak 99.86% adalah sangat tinggi, tetapi ia mencerminkan persatuan topologi graf dan bukannya laluan farmakologi yang disahkan — sambungan mekanistik ke HoFH harus dianggap spekulatif pada peringkat ini.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-Currently no related clinical trials registered.
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no related literature available.
+Pada masa ini tiada literatur berkaitan yang tersedia.
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Ursodeoxycholic acid holds 3 active NPRA registrations in Malaysia (market status: marketed). However, the current data pull did not return license numbers, product names, dosage forms, or approved indication text for these registrations (see Data Gap DG001 — blocking). These details need to be retrieved from the NPRA product registry or package insert before a full market summary can be produced.
+Asid ursodeoksikolis memiliki 3 pendaftaran NPRA aktif di Malaysia (status pasaran: dipasarkan). Walau bagaimanapun, tarikan data semasa tidak mengembalikan nombor lesen, nama produk, bentuk dos, atau teks indikasi yang diluluskan bagi pendaftaran ini (lihat Jurang Data DG001 — menghalang). Butiran ini perlu diambil daripada daftar produk NPRA atau leaflet pakej sebelum ringkasan pasaran lengkap dapat dihasilkan.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information. A dedicated data pull for key warnings, contraindications, and drug interactions returned no results (DDI query status: not found), and this gap is flagged as **blocking** for safety evaluation (DG001) — it must be resolved before this candidate can proceed to any clinical assessment stage.
+Sila rujuk leaflet pakej untuk maklumat keselamatan. Tarikan data khusus untuk amaran utama, kontraindikasi, dan interaksi ubat tidak mengembalikan sebarang hasil (status soalan DDI: tidak ditemui), dan jurang ini ditandai sebagai **menghalang** untuk penilaian keselamatan (DG001) — ia mesti diselesaikan sebelum calon ini dapat maju ke mana-mana peringkat penilaian klinikal.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The prediction sits at Evidence Level L5 (model prediction only) with zero supporting clinical trials or literature, and the proposed mechanism does not plausibly address the LDL-receptor defect underlying HoFH. Combined with a blocking safety data gap (DG001), this candidate is not ready to advance.
+**Alasan:**
+Ramalan duduk pada Tahap Bukti L5 (ramalan model sahaja) dengan sifar ujian klinikal atau literatur yang menyokong, dan mekanisme yang dicadangkan tidak munasabah mengatasi kecacatan reseptor LDL yang mendasari HoFH. Dikombinasikan dengan jurang data keselamatan yang menghalang (DG001), calon ini tidak bersedia untuk maju.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert with warnings and contraindications (DG001, blocking)
-- Confirmed mechanism of action data from DrugBank or primary literature (DG002)
-- Targeted literature/trial search for UDCA in familial hypercholesterolemia or related lipid disorders, since the current pull returned zero hits
-- Complete Malaysia license details (license numbers, product names, dosage forms, approved indication text)
+**Untuk meneruskan, yang berikut diperlukan:**
+- Leaflet pakej TFDA/NPRA dengan amaran dan kontraindikasi (DG001, menghalang)
+- Data mekanisme tindakan yang disahkan daripada DrugBank atau literatur utama (DG002)
+- Carian literatur/ujian yang disasarkan untuk UDCA dalam hiperkolesterolemia familiar atau gangguan lipid berkaitan, kerana tarikan semasa mengembalikan sifar hasil
+- Butiran lesen Malaysia yang lengkap (nombor lesen, nama produk, bentuk dos, teks indikasi yang diluluskan)
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

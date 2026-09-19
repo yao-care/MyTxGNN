@@ -29,76 +29,77 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Nonivamide: From Topical Analgesic Use to Pulmonary Hypertension
+# Nonivamide: Daripada Penggunaan Analgesik Topikal kepada Hipertension Paru
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Nonivamide (DrugBank DB11324) is a synthetic capsaicin analog currently marketed in Malaysia, known primarily as a topical analgesic/rubefacient. The TxGNN model's top prediction is **Pulmonary Hypertension**, but this candidate — along with 9 similarly-scored alternatives — currently has **zero supporting clinical trials and zero literature**, placing it at the earliest possible evidence stage.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not available — TFDA/NPRA license text not populated in this data pull; known use is as a topical analgesic/rubefacient (capsaicin-class agent) |
-| Predicted New Indication | Pulmonary Hypertension |
-| TxGNN Prediction Score | 99.81% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 5 |
-| Recommended Decision | Hold |
+Nonivamide (DrugBank DB11324) ialah analog kapsaisin sintetik yang kini dipasarkan di Malaysia, dikenali terutamanya sebagai ubat analgesik topikal/rubefasien. Ramalan teratas model TxGNN ialah **Hipertension Paru**, tetapi calon ini — bersama-sama dengan 9 alternatif yang berskor serupa — pada masa ini tidak mempunyai **sebarang ujian klinikal yang menyokong dan tiada literatur**, meletakkannya di peringkat bukti paling awal yang mungkin.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Pantas
 
-Currently, detailed mechanism of action data is not available (DrugBank query returned a gap). Based on known information, Nonivamide is a synthetic capsaicin analog and TRPV1 receptor agonist, marketed as a topical analgesic/rubefacient. Its efficacy in local pain relief is established, but this is exclusively a **topical, non-systemic** use.
-
-TRPV1 receptors are expressed in pulmonary vascular smooth muscle and sensory nerve endings, and animal studies suggest TRPV1 activation can influence pulmonary vascular tone — the theoretical basis for this prediction. However, this is a highly indirect mechanistic inference: Nonivamide has no approved systemic formulation, no systemic-exposure pharmacology or safety data, and no evidence base supporting extrapolation from topical use to treatment of a systemic vascular disease like pulmonary hypertension.
-
-It is also worth noting that TxGNN generated 10 candidates for this drug within a narrow score band (99.65%–99.81%), most clustered around vascular/cardiac themes (pulmonary hypertension, peripheral arterial disease, peripheral vascular disease, intermittent claudication) plus several cardiac arrhythmia and hypersensitivity-related diseases. Some of these (ventricular tachycardia, anaphylaxis, catecholaminergic polymorphic ventricular tachycardia) plausibly represent **safety signals rather than repurposing opportunities** — the pack's own rationale notes capsaicinoid systemic exposure has been associated with sympathetic activation and arrhythmia risk, and topical Nonivamide can itself provoke local hypersensitivity/allergic reactions. The relatively more plausible candidate mechanistically is migraine (TRPV1-mediated sensory desensitization, as explored with intranasal civamide), though no Nonivamide-specific evidence exists for that either.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Perkara | Kandungan |
+|--------|-----------|
+| Petunjuk Asal | Tidak tersedia — teks lesen TFDA/NPRA tidak diisi dalam penarikan data ini; kegunaan yang diketahui ialah sebagai ubat analgesik topikal/rubefasien (agen kelas kapsaisin) |
+| Petunjuk Baru Diramalkan | Hipertension Paru |
+| Skor Ramalan TxGNN | 99.81% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 5 |
+| Keputusan Disyorkan | Tunggu |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available.
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia (kueri DrugBank menunjukkan kekosongan). Berdasarkan maklumat yang diketahui, Nonivamide ialah analog kapsaisin sintetik dan agonis reseptor TRPV1, dipasarkan sebagai ubat analgesik topikal/rubefasien. Keberkesanannya dalam pelepasan kesakitan tempatan telah ditubuhkan, tetapi ini adalah penggunaan eksklusif **topikal, bukan sistemik**.
 
----
+Reseptor TRPV1 diekspresikan dalam otot licin pembuluh paru-paru dan hujung saraf sensori, dan kajian hewan menunjukkan pengaktifan TRPV1 dapat mempengaruhi nada pembuluh paru-paru — asas teori untuk ramalan ini. Walau bagaimanapun, ini adalah inferensi mekanistik yang sangat tidak langsung: Nonivamide tidak mempunyai formulasi sistemik yang diluluskan, tiada data farmakoloji dan keselamatan pembukaan sistemik, dan tiada asas bukti yang menyokong ekstrapolasi daripada penggunaan topikal kepada rawatan penyakit pembuluh darah sistemik seperti hipertension paru.
 
-## Malaysia Market Information
-
-NPRA records confirm the product is Marketed with **5 active registrations**, but individual license numbers, product names, dosage forms, manufacturers, and approved-indication text were not returned in this data pull (all fields blank in the source record).
+Juga perlu diperhatikan bahawa TxGNN menghasilkan 10 calon untuk ubat ini dalam julat skor sempit (99.65%–99.81%), kebanyakannya berkumpul di sekitar tema pembuluh darah/jantung (hipertension paru, penyakit arteri perifer, penyakit pembuluh darah perifer, claudicatio intermitens) ditambah beberapa penyakit aritmia jantung dan berkaitan dengan hipersensitiviti. Sesetengah daripada ini (takikardi ventrikuler, anafilaksis, takikardi polimorfik ventrikuler katekolomin) secara munasabah mewakili **isyarat keselamatan dan bukannya peluang penggunaan semula** — justifikasi pakej itu sendiri menyatakan pembukaan sistemik kapsaisinoid telah dikaitkan dengan pengaktifan simpatis dan risiko aritmia, dan Nonivamide topikal itu sendiri boleh mencetuskan tindak balas hipersensitiviti/alergi tempatan. Calon yang secara mekanistik lebih munasabah ialah migrain (desensitisasi sensori yang dimediasi TRPV1, seperti yang diterokai dengan civamide intranasal), walaupun tiada bukti khusus Nonivamide yang wujud untuk itu juga.
 
 ---
 
-## Safety Considerations
+## Bukti Ujian Klinikal
 
-Please refer to the package insert for safety information.
-
-*(Note: this is a Blocking data gap — TFDA/NPRA label warnings and contraindications have not yet been retrieved, and safety review cannot proceed to stage S1 without them.)*
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Hold**
+Pada masa ini tiada literatur berkaitan yang tersedia.
 
-**Rationale:**
-This is a pure model prediction (L5) with no clinical trials, no literature, and no drug-specific mechanistic data — the lowest evidence tier. Several sibling candidates in the same prediction set point toward safety concerns (arrhythmia, hypersensitivity) rather than therapeutic opportunity, which argues for caution rather than acceleration on this drug generally.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA label warnings and contraindications (DG001, Blocking) — required before any S1 safety screening
-- DrugBank mechanism of action data (DG002, High) — required to assess mechanistic plausibility of the vascular/pulmonary hypothesis
-- Confirmation of Nonivamide's approved route(s)/formulation(s) in Malaysia, since the pulmonary hypertension hypothesis presumes systemic exposure not currently supported by any approved formulation
-- Any preclinical or case-level evidence specific to Nonivamide (not just the TRPV1 drug class) before moving beyond S0
+## Maklumat Pasaran Malaysia
+
+Rekod NPRA mengesahkan produk ini ialah Dipasarkan dengan **5 pendaftaran aktif**, tetapi nombor lesen individu, nama produk, bentuk dos, pengilang, dan teks petunjuk yang diluluskan tidak dikembalikan dalam penarikan data ini (semua medan kosong dalam rekod sumber).
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk kepada sisipan pakej untuk maklumat keselamatan.
+
+*(Nota: ini adalah kekosongan data Menyekat — amaran label TFDA/NPRA dan kontraindikasi belum diambil, dan penilaian keselamatan tidak dapat meneruskan ke peringkat S1 tanpanya.)*
+
+---
+
+## Kesimpulan dan Langkah-Langkah Seterusnya
+
+**Keputusan: Tunggu**
+
+**Justifikasi:**
+Ini adalah ramalan model tulen (L5) tanpa ujian klinikal, tiada literatur, dan tiada data mekanistik khusus ubat — peringkat bukti terendah. Beberapa calon saudara dalam set ramalan yang sama menunjukkan kebimbangan keselamatan (aritmia, hipersensitiviti) dan bukannya peluang terapeutik, yang menunjukkan kehati-hatian dan bukannya percepatan untuk ubat ini secara keseluruhan.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Amaran label TFDA/NPRA dan kontraindikasi (DG001, Menyekat) — diperlukan sebelum sebarang penilaian keselamatan S1
+- Data mekanisme tindakan DrugBank (DG002, Tinggi) — diperlukan untuk menilai kemungkinan mekanistik hipotesis pembuluh darah/paru-paru
+- Pengesahan rute(s)/formulasi yang diluluskan Nonivamide di Malaysia, kerana hipotesis hipertension paru mengandaikan pembukaan sistemik yang kini tidak disokong oleh sebarang formulasi yang diluluskan
+- Sebarang bukti praklinikal atau peringkat kes khusus Nonivamide (bukan hanya kelas ubat TRPV1) sebelum bergerak melampaui S0
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

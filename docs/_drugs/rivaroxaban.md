@@ -29,80 +29,81 @@ Tahap bukti: **L5** | Indikasi diramal: **4**
 
 </div>
 
-# Rivaroxaban: From Anticoagulation Therapy to Rheumatoid Arthritis
+# Rivaroxaban: Dari Terapi Antikoagulasi kepada Artritis Reumatoid
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-> Rivaroxaban is a direct oral Factor Xa inhibitor established for venous thromboembolism (VTE) prevention/treatment and stroke prevention in atrial fibrillation.
-> The TxGNN model predicts it may be effective for **Rheumatoid Arthritis**,
-> but currently **0 clinical trials** and only **3 loosely related publications** support this direction — none of which studied rivaroxaban's effect on RA disease activity itself.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Anticoagulation — VTE prevention/treatment, stroke prevention in non-valvular AF (established prescribing knowledge; not captured in this NPRA data extract) |
-| Predicted New Indication | Rheumatoid Arthritis |
-| TxGNN Prediction Score | 99.57% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 47 |
-| Recommended Decision | Hold |
+> Rivaroxaban adalah penghambat Faktor Xa oral langsung yang telah ditubuhkan untuk pencegahan/rawatan tromboembolisme vena (VTE) dan pencegahan strok dalam fibrilasi atrium.
+> Model TxGNN meramalkan ia mungkin berkesan untuk **Artritis Reumatoid**,
+> tetapi kini **0 ujian klinikal** dan hanya **3 penerbitan yang berkaitan secara longgar** menyokong arah ini — tiada satupun yang mengkaji kesan rivaroxaban pada aktiviti penyakit RA sendiri.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Ringkas
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on established prescribing knowledge, rivaroxaban is a direct Factor Xa inhibitor used for anticoagulation — its efficacy in VTE prevention/treatment and AF-related stroke prevention is well proven, but it has no known immunomodulatory or anti-inflammatory mechanism relevant to RA disease activity.
-
-The rationale linking rivaroxaban to RA is indirect: chronic inflammation in RA patients activates the coagulation cascade (elevated thrombin generation), which raises their VTE risk above the general population. This means rivaroxaban could plausibly be used clinically to treat **thrombotic complications in RA patients**, not to treat RA itself.
-
-The three supporting publications confirm this limitation — they cover VTE diagnosis/treatment, thrombin generation assays in autoimmune disease, and rivaroxaban adherence in atrial fibrillation. None examine RA disease activity, joint symptoms, or inflammatory outcomes. The TxGNN score most likely reflects a knowledge-graph path through shared "coagulation/inflammation" nodes rather than a genuine disease-modifying mechanism.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Antikoagulasi — pencegahan/rawatan VTE, pencegahan strok dalam AF bukan valvular (pengetahuan preskripsi yang ditubuhkan; tidak ditangkap dalam ekstrak data NPRA ini) |
+| Petunjuk Baru yang Diramalkan | Artritis Reumatoid |
+| Skor Ramalan TxGNN | 99.57% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 47 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [33141212](https://pubmed.ncbi.nlm.nih.gov/33141212/) | 2020 | Review | JAMA | General review of lower-extremity DVT diagnosis and treatment; does not address RA |
-| [34175144](https://pubmed.ncbi.nlm.nih.gov/34175144/) | 2021 | Review | La Revue de médecine interne | Discusses thrombin generation assay for assessing hypercoagulability in autoimmune disease (e.g., antiphospholipid syndrome); no RA treatment data |
-| [29621248](https://pubmed.ncbi.nlm.nih.gov/29621248/) | 2018 | Cohort | PLoS One | Compares medication adherence to rivaroxaban vs. apixaban in atrial fibrillation patients; unrelated to RA |
+Pada masa kini, data mekanisme tindakan yang terperinci tidak tersedia dalam pakej bukti ini. Berdasarkan pengetahuan preskripsi yang ditubuhkan, rivaroxaban adalah penghambat Faktor Xa oral langsung yang digunakan untuk antikoagulasi — kecekapannya dalam pencegahan/rawatan VTE dan pencegahan strok berkaitan AF telah dibuktikan dengan baik, tetapi ia tidak mempunyai mekanisme imunomodulator atau anti-inflamasi yang diketahui yang relevan dengan aktiviti penyakit RA.
 
----
+Alasan yang menghubungkan rivaroxaban dengan RA adalah tidak langsung: keradangan kronik dalam pesakit RA mengaktifkan lata penggumpalan darah (peningkatan penjanaan trombin), yang meningkatkan risiko VTE mereka melebihi populasi umum. Ini bermakna rivaroxaban boleh digunakan secara klinikal untuk merawat **komplikasi trombotik dalam pesakit RA**, bukan untuk merawat RA sendiri.
 
-## Malaysia Market Information
-
-NPRA records confirm rivaroxaban is marketed in Malaysia with **47 registered authorizations**, but license-level details (authorization numbers, product names, dosage forms, approved indication text) were not captured in this data extract.
+Tiga penerbitan sokongan mengesahkan batasan ini — ia meliputi diagnosis/rawatan VTE, asai penjanaan trombin untuk menilai hiperkoagulabiliti dalam penyakit autoimun, dan kesetiaan rivaroxaban dalam fibrilasi atrium. Tiada seorang pun memeriksa aktiviti penyakit RA, simptom sendi, atau hasil keradangan. Skor TxGNN kemungkinan besar mencerminkan laluan graf pengetahuan melalui nod "penggumpalan darah/keradangan" yang dikongsi bukannya mekanisme penjodoh penyakit yang tulen.
 
 ---
 
-## Safety Considerations
+## Bukti Ujian Klinikal
 
-Please refer to the package insert for safety information.
+Kini tiada ujian klinikal yang berkaitan berdaftar.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Hold**
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|------|------|--------|--------|
+| [33141212](https://pubmed.ncbi.nlm.nih.gov/33141212/) | 2020 | Ulasan | JAMA | Ulasan umum tentang diagnosis dan rawatan DVT tungkai bawah; tidak membincangkan RA |
+| [34175144](https://pubmed.ncbi.nlm.nih.gov/34175144/) | 2021 | Ulasan | La Revue de médecine interne | Membincangkan asai penjanaan trombin untuk menilai hiperkoagulabiliti dalam penyakit autoimun (cth. sindrom antifosfolipid); tiada data rawatan RA |
+| [29621248](https://pubmed.ncbi.nlm.nih.gov/29621248/) | 2018 | Kohort | PLoS One | Membandingkan kesetiaan ubat rivaroxaban vs. apixaban dalam pesakit fibrilasi atrium; tidak berkaitan dengan RA |
 
-**Rationale:**
-No clinical trials and no literature directly evaluate rivaroxaban's effect on RA disease activity — the available publications relate only to thrombotic risk management in RA/autoimmune patients, which is a distinct clinical use case from treating RA itself. Combined with the absence of MOA and NPRA safety-label data, the evidence does not support advancing this candidate.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert (warnings, contraindications) — currently blocking safety evaluation (S1)
-- Confirmed mechanism of action data from DrugBank
-- Any preclinical or mechanistic studies directly linking Factor Xa inhibition to RA inflammatory pathways (distinct from comorbid VTE management)
-- Complete Malaysia license-level data (authorization numbers, approved indication text) for market registration verification
+## Maklumat Pasaran Malaysia
+
+Rekod NPRA mengesahkan rivaroxaban dipasarkan di Malaysia dengan **47 kebenaran pendaftaran**, tetapi butiran peringkat lesen (nombor kebenaran, nama produk, bentuk dos, teks petunjuk yang diluluskan) tidak ditangkap dalam ekstrak data ini.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Alasan:**
+Tiada ujian klinikal dan tiada literatur yang secara langsung menilai kesan rivaroxaban pada aktiviti penyakit RA — penerbitan yang tersedia hanya berkaitan dengan pengurusan risiko trombotik dalam pesakit RA/autoimun, yang merupakan kes penggunaan klinikal yang berlainan daripada merawat RA sendiri. Digabungkan dengan ketiadaan data MOA dan label keselamatan NPRA, bukti tidak menyokong memajukan calon ini.
+
+**Untuk meneruskan, perkara-perkara berikut diperlukan:**
+- Sisipan pakej TFDA/NPRA (amaran, kontraindikasi) — kini menghalang penilaian keselamatan (S1)
+- Data mekanisme tindakan yang disahkan daripada DrugBank
+- Sebarang kajian preklinik atau mekanik yang secara langsung menghubungkan perencatan Faktor Xa dengan laluan keradangan RA (berlainan daripada pengurusan VTE komorbid)
+- Data Malaysia peringkat lesen yang lengkap (nombor kebenaran, teks petunjuk yang diluluskan) untuk pengesahan pendaftaran pasaran
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,104 +29,105 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-# Atenolol: From Cardiovascular Disease to Hypertension
+# Atenolol: Daripada Penyakit Kardiovaskular kepada Hipertensi
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Atenolol is a selective β1-adrenergic receptor blocker belonging to the beta-blocker class; detailed original indication records were not returned from the Malaysian NPRA registry in the current dataset, though it is broadly recognized as a core cardiovascular agent.
-The TxGNN model ranks **Hypertension** as its top predicted indication, supported by **10+ relevant clinical trials** and **20 supporting publications** in the current evidence pack.
-This is an exceptionally well-evidenced drug-indication pair at Evidence Level **L1**, representing both a strong TxGNN validation and a cornerstone of evidence-based antihypertensive therapy.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Not available in current NPRA registry data |
-| Predicted New Indication | Hypertension |
-| TxGNN Prediction Score | N/A (score data pending in current dataset) |
-| Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 30 |
-| Recommended Decision | Proceed with Guardrails |
+Atenolol adalah penyekat reseptor adrenergik β1 yang selektif daripada kelas penyekat beta; rekod indikasi asal yang terperinci tidak dipulangkan daripada daftar NPRA Malaysia dalam set data semasa, walaupun ia diiktiraf secara meluas sebagai ejen kardiovaskular utama.
+Model TxGNN meletakkan **Hipertensi** sebagai indikasi ramalan teratasnya, disokong oleh **10+ percubaan klinikal yang relevan** dan **20 penerbitan sokongan** dalam rangkaian bukti semasa.
+Ini adalah pasangan ubat-indikasi yang sangat terbukti pada Tahap Bukti **L1**, mewakili kedua-dua pengesahan TxGNN yang kuat dan tiang penyanggah terapi antihipertensi berasaskan bukti.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Tinjauan Pantas
 
-Atenolol is a selective β1-adrenergic receptor antagonist. By blocking β1 receptors in the heart, it reduces heart rate and cardiac output, leading to a sustained fall in both systolic and diastolic blood pressure. This is a direct pharmacodynamic mechanism — not a distant inference — and the mechanistic link between β1 blockade and blood pressure reduction is one of the most thoroughly characterized relationships in clinical pharmacology.
-
-Hypertension is a condition driven in large part by elevated sympathetic tone and excessive catecholamine stimulation of the heart and vasculature. Atenolol's cardioselectivity (minimal β2 activity at therapeutic doses) means it attenuates sympathetically-mediated blood pressure elevation while reducing the risk of bronchospasm associated with non-selective beta-blockers. This selectivity profile makes it particularly suitable for hypertensive patients with comorbid cardiac conditions such as coronary artery disease or post-myocardial infarction — further expanding its clinical applicability.
-
-Landmark cardiovascular outcome trials have firmly established atenolol's antihypertensive role. The INVEST trial (n=22,000) used atenolol as the comparator arm for hypertension with coronary artery disease, and the ASCOT trial (n=19,257) evaluated atenolol-based versus amlodipine-based strategies, both generating high-quality long-term evidence. While more recent guidelines have debated the relative merits of atenolol versus newer agents (particularly ARBs and CCBs), its role in blood pressure management remains well-supported and clinically relevant.
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Tidak tersedia dalam data daftar NPRA semasa |
+| Indikasi Baru Yang Diramalkan | Hipertensi |
+| Skor Ramalan TxGNN | N/A (data skor sedang ditunggu dalam set data semasa) |
+| Tahap Bukti | L1 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 30 |
+| Keputusan Disyorkan | Teruskan dengan Penjagaan |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Atenolol adalah antagonis reseptor adrenergik β1 yang selektif. Dengan menyekat reseptor β1 di jantung, ia mengurangkan kadar jantung dan output jantung, membawa kepada penurunan yang berterusan dalam tekanan darah sistolik dan diastolik. Ini adalah mekanisme farmakodinamik langsung — bukan inferensi yang jauh — dan hubungan mekanik antara penyekatan β1 dan pengurangan tekanan darah adalah salah satu hubungan yang paling terperinci dicirikan dalam farmakologi klinikal.
+
+Hipertensi adalah keadaan yang didorong sebahagian besarnya oleh nada simpatis yang meningkat dan rangsangan katekolamin yang berlebihan terhadap jantung dan vaskulatur. Keseselektifan jantung atenolol (aktiviti β2 minimal pada dos terapeutik) bermakna ia melemahkan kenaikan tekanan darah yang dimulakan secara simpatis sambil mengurangkan risiko bronkospasma yang berkaitan dengan penyekat beta yang tidak selektif. Profil keseselektifan ini menjadikannya sangat sesuai untuk pesakit hipertensi dengan keadaan komorbid seperti penyakit arteri koronari atau pasca-infark miokard — selanjutnya memperluas kebolehgunaannya secara klinikal.
+
+Percubaan hasil kardiovaskular mercu tanda telah dengan tegasnya menetapkan peranan antihipertensi atenolol. Percubaan INVEST (n=22,000) menggunakan atenolol sebagai lengan pembanding untuk hipertensi dengan penyakit arteri koronari, dan percubaan ASCOT (n=19,257) menilai strategi berasaskan atenolol berbanding berasaskan amlodipina, kedua-duanya menghasilkan bukti jangka panjang berkualiti tinggi. Walaupun garis panduan yang lebih baru telah membahaskan kelebihan relatif atenolol berbanding ejen yang lebih baru (khususnya ARB dan CCB), peranannya dalam pengurusan tekanan darah tetap disokong dengan baik dan relevan secara klinikal.
+
+---
+
+## Bukti Percubaan Klinikal
+
+| Nombor Percubaan | Fasa | Status | Kemasukan | Penemuan Utama |
 |---|---|---|---|---|
-| [NCT00133692](https://clinicaltrials.gov/study/NCT00133692) | Phase 4 | Completed | 22,000 | INVEST trial: large-scale RCT comparing verapamil SR/trandolapril vs atenolol-based strategy in hypertensive patients with coronary artery disease; provides major long-term cardiovascular outcome data for atenolol |
-| [NCT01499511](https://clinicaltrials.gov/study/NCT01499511) | N/A | Completed | 1,718 | ASCOT-10: 10-year post-trial follow-up of ASCOT UK survivors; tested whether benefits from amlodipine-based vs atenolol-based antihypertensive strategies persist beyond the original trial period |
-| [NCT00262236](https://clinicaltrials.gov/study/NCT00262236) | Phase 3 | Completed | 693 | 12-week Phase 3 RCT comparing aliskiren alone and combined with atenolol in essential hypertension; directly evaluated atenolol's antihypertensive efficacy in a robust controlled setting |
-| [NCT00389168](https://clinicaltrials.gov/study/NCT00389168) | Phase 2/3 | Completed | 115 | Randomized comparison of irbesartan vs atenolol on cardiac and vascular structural changes (LV dimensions) in hypertensive patients with LVH; evaluated organ-protective effects |
-| [NCT00246519](https://clinicaltrials.gov/study/NCT00246519) | Phase 4 | Completed | 1,701 | PEAR pharmacogenomic study: identified genetic determinants of antihypertensive response to atenolol vs hydrochlorothiazide; foundational precision medicine data for atenolol |
-| [NCT01251146](https://clinicaltrials.gov/study/NCT01251146) | Phase 4 | Completed | 177 | Multicentric RCT comparing bisoprolol vs atenolol effects on resting heart rate and sympathetic nervous system activity in essential hypertension |
-| [NCT01762436](https://clinicaltrials.gov/study/NCT01762436) | Phase 4 | Completed | 109 | Compared bisoprolol vs atenolol on sympathetic nervous activity and central aortic pressure in essential hypertension; differential hemodynamic profiles characterized |
-| [NCT01939509](https://clinicaltrials.gov/study/NCT01939509) | Phase 4 | Completed | 80 | Head-to-head comparison of bisoprolol vs atenolol hemodynamics and arterial stiffness in hypertension with metabolic syndrome |
-| [NCT00529750](https://clinicaltrials.gov/study/NCT00529750) | Phase 4 | Completed | 108 | Compared irbesartan vs atenolol on endothelial function and oxidative stress in hypertensive patients with metabolic syndrome |
-| [NCT00147563](https://clinicaltrials.gov/study/NCT00147563) | Phase 4 | Completed | 34 | Compared eplerenone vs atenolol on resistance artery remodeling in mild-to-moderate primary hypertension; assessed vascular structural changes as a surrogate endpoint |
+| [NCT00133692](https://clinicaltrials.gov/study/NCT00133692) | Fasa 4 | Selesai | 22,000 | Percubaan INVEST: ujian terkontrol rawak skala besar membandingkan strategi berasaskan verapamil SR/trandolapril lawan atenolol dalam pesakit hipertensi dengan penyakit arteri koronari; menyediakan data hasil kardiovaskular jangka panjang utama untuk atenolol |
+| [NCT01499511](https://clinicaltrials.gov/study/NCT01499511) | N/A | Selesai | 1,718 | ASCOT-10: susulan pasca-percubaan 10 tahun daripada peserta terselamat ASCOT UK; menguji sama ada manfaat daripada strategi antihipertensi berasaskan amlodipina berbanding berasaskan atenolol berterusan melampaui tempoh percubaan asal |
+| [NCT00262236](https://clinicaltrials.gov/study/NCT00262236) | Fasa 3 | Selesai | 693 | Ujian terkontrol rawak Fasa 3 selama 12 minggu membandingkan aliskiren sahaja dan digabungkan dengan atenolol dalam hipertensi esensial; secara langsung menilai keberkesanan antihipertensi atenolol dalam tetapan terkontrol yang teguh |
+| [NCT00389168](https://clinicaltrials.gov/study/NCT00389168) | Fasa 2/3 | Selesai | 115 | Perbandingan rawak irbesartan lawan atenolol pada perubahan struktur jantung dan vaskular (dimensi LV) dalam pesakit hipertensi dengan LVH; menilai kesan pelindung organ |
+| [NCT00246519](https://clinicaltrials.gov/study/NCT00246519) | Fasa 4 | Selesai | 1,701 | Kajian farmakogenomik PEAR: mengenal pasti penentu genetik tindak balas antihipertensi terhadap atenolol lawan hidroklorotiazida; data perubatan ketepatan asas untuk atenolol |
+| [NCT01251146](https://clinicaltrials.gov/study/NCT01251146) | Fasa 4 | Selesai | 177 | Ujian terkontrol rawak multisenter membandingkan kesan bisoprolol lawan atenolol pada kadar jantung rehat dan aktiviti sistem saraf simpatis dalam hipertensi esensial |
+| [NCT01762436](https://clinicaltrials.gov/study/NCT01762436) | Fasa 4 | Selesai | 109 | Membandingkan bisoprolol lawan atenolol pada aktiviti saraf simpatis dan tekanan aorta pusat dalam hipertensi esensial; profil hemodinamik pembezaan dicirikan |
+| [NCT01939509](https://clinicaltrials.gov/study/NCT01939509) | Fasa 4 | Selesai | 80 | Perbandingan kepala-ke-kepala bisoprolol lawan atenolol hemodinamik dan kekakuan arteri dalam hipertensi dengan sindrom metabolik |
+| [NCT00529750](https://clinicaltrials.gov/study/NCT00529750) | Fasa 4 | Selesai | 108 | Membandingkan irbesartan lawan atenolol pada fungsi endotel dan tekanan oksidatif dalam pesakit hipertensi dengan sindrom metabolik |
+| [NCT00147563](https://clinicaltrials.gov/study/NCT00147563) | Fasa 4 | Selesai | 34 | Membandingkan eplerenom lawan atenolol pada pemodelan arteri rintangan dalam hipertensi primer ringan hingga sederhana; menilai perubahan struktur vaskular sebagai titik akhir proksi |
 
 ---
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|------|------|---------|-------------|
-| [15530629](https://pubmed.ncbi.nlm.nih.gov/15530629/) | 2004 | Review/Meta-analysis | *Lancet* | Systematic review of atenolol as reference drug in hypertension RCTs; assessed cardiovascular morbidity and mortality data — key reference for contextualizing atenolol's comparative efficacy |
-| [31259](https://pubmed.ncbi.nlm.nih.gov/31259/) | 1979 | RCT | *Clin Pharmacol Ther* | Crossover trial of atenolol vs three nonselective beta-blockers (propranolol, oxprenolol, pindolol) in established hypertension; demonstrated advantages of cardioselectivity |
-| [6805588](https://pubmed.ncbi.nlm.nih.gov/6805588/) | 1982 | RCT | *BMJ* | Once-daily atenolol (50 mg/100 mg) vs metoprolol SR in 9 hypertensive outpatients; blood pressure and heart rate measured after 3 weeks per treatment arm |
-| [1104047](https://pubmed.ncbi.nlm.nih.gov/1104047/) | 1975 | RCT | *BMJ* | Double-blind crossover trial of atenolol alone (200/400 mg) and combined with bendrofluazide in 24 hypertensive patients; atenolol produced significantly greater BP reduction than diuretic alone |
-| [9759992](https://pubmed.ncbi.nlm.nih.gov/9759992/) | 1998 | RCT | *J Hum Hypertens* | Valsartan 160 mg vs atenolol 100 mg once daily in 103 severe primary hypertension patients over 6 weeks; both drugs reduced DBP with comparable efficacy |
-| [2216994](https://pubmed.ncbi.nlm.nih.gov/2216994/) | 1990 | RCT | *Postgrad Med J* | Enalapril vs atenolol in 67 essential hypertension patients (single-blind crossover); atenolol normalized BP in a substantial proportion across severity grades |
-| [7340890](https://pubmed.ncbi.nlm.nih.gov/7340890/) | 1981 | RCT | *Br J Clin Pharmacol* | Open randomized crossover of atenolol vs metoprolol at 50, 100, and 200 mg once daily; measured BP and heart rate at rest and during exercise in mild-to-moderate essential hypertension |
-| [26425837](https://pubmed.ncbi.nlm.nih.gov/26425837/) | 2015 | Pharmacogenomics | *J Hypertens* | GWAS identified PTPRD gene SNPs significantly associated with systolic BP response to atenolol and with resistant hypertension; supports precision prescribing |
-| [7903118](https://pubmed.ncbi.nlm.nih.gov/7903118/) | 1993 | Clinical Study | *Minerva Cardioangiol* | Review of fixed-combination slow-release nifedipine/atenolol (Niften) for hypertension and angina; demonstrated superior efficacy of the combination vs either agent alone |
-| [3602015](https://pubmed.ncbi.nlm.nih.gov/3602015/) | 1986 | RCT | *Pharmatherapeutica* | Prospective double-blind study comparing atenolol+nifedipine vs atenolol+diuretic (amiloride/HCTZ) in 98 patients inadequately controlled on atenolol alone; evaluated BP control at 8 weeks |
+| [15530629](https://pubmed.ncbi.nlm.nih.gov/15530629/) | 2004 | Ulasan/Meta-analisis | *Lancet* | Ulasan sistematik atenolol sebagai ubat rujukan dalam ujian terkontrol rawak hipertensi; menilai data morbiditi dan mortaliti kardiovaskular — rujukan utama untuk mengkontekstualisasikan keberkesanan perbandingan atenolol |
+| [31259](https://pubmed.ncbi.nlm.nih.gov/31259/) | 1979 | UKR | *Clin Pharmacol Ther* | Percubaan silang atenolol lawan tiga penyekat beta tidak selektif (propranolol, oksprenolol, pindolol) dalam hipertensi yang sudah ditetapkan; menunjukkan kelebihan keseselektifan jantung |
+| [6805588](https://pubmed.ncbi.nlm.nih.gov/6805588/) | 1982 | UKR | *BMJ* | Atenolol sekali sehari (50 mg/100 mg) lawan metoprolol SR dalam 9 pesakit hipertensi luar; tekanan darah dan kadar jantung diukur selepas 3 minggu setiap lengan rawatan |
+| [1104047](https://pubmed.ncbi.nlm.nih.gov/1104047/) | 1975 | UKR | *BMJ* | Percubaan silang buta berganda atenolol sahaja (200/400 mg) dan digabungkan dengan bendrofluazida dalam 24 pesakit hipertensi; atenolol menghasilkan pengurangan tekanan darah yang jauh lebih besar daripada diuretik sahaja |
+| [9759992](https://pubmed.ncbi.nlm.nih.gov/9759992/) | 1998 | UKR | *J Hum Hypertens* | Valsartan 160 mg lawan atenolol 100 mg sekali sehari dalam 103 pesakit hipertensi primer teruk selama 6 minggu; kedua-dua ubat mengurangkan DBP dengan keberkesanan yang setanding |
+| [2216994](https://pubmed.ncbi.nlm.nih.gov/2216994/) | 1990 | UKR | *Postgrad Med J* | Enalapril lawan atenolol dalam 67 pesakit hipertensi esensial (silang buta tunggal); atenolol menormalkan tekanan darah dalam bahagian besar merentas gred keterukan |
+| [7340890](https://pubmed.ncbi.nlm.nih.gov/7340890/) | 1981 | UKR | *Br J Clin Pharmacol* | Silang rawak terbuka atenolol lawan metoprolol pada 50, 100, dan 200 mg sekali sehari; tekanan darah dan kadar jantung diukur semasa rehat dan semasa latihan dalam hipertensi esensial ringan hingga sederhana |
+| [26425837](https://pubmed.ncbi.nlm.nih.gov/26425837/) | 2015 | Farmakogenomik | *J Hypertens* | GWAS mengenal pasti SNP gen PTPRD yang dikaitkan secara signifikan dengan tindak balas tekanan darah sistolik terhadap atenolol dan dengan hipertensi rintangan; menyokong preskripsi ketepatan |
+| [7903118](https://pubmed.ncbi.nlm.nih.gov/7903118/) | 1993 | Kajian Klinikal | *Minerva Cardioangiol* | Ulasan gabungan tetap lepas cepat nifedipin/atenolol (Niften) untuk hipertensi dan angina; menunjukkan keberkesanan gabungan yang lebih tinggi berbanding mana-mana ubat sahaja |
+| [3602015](https://pubmed.ncbi.nlm.nih.gov/3602015/) | 1986 | UKR | *Pharmatherapeutica* | Kajian prospektif buta berganda membandingkan atenolol+nifedipin lawan atenolol+diuretik (amilorida/HCTZ) dalam 98 pesakit yang tidak dikawal memadai pada atenolol sahaja; menilai kawalan tekanan darah pada 8 minggu |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-The NPRA registry query confirmed **30 registered products** for Atenolol in Malaysia with market status **Marketed (Marketed)**. However, detailed product-level information — including license numbers, product names, dosage forms, and approved indication text — was not returned in the current dataset.
+Pertanyaan daftar NPRA mengesahkan **30 produk berdaftar** untuk atenolol di Malaysia dengan status pasaran **Dipasarkan (Dipasarkan)**. Walau bagaimanapun, maklumat terperinci peringkat produk — termasuk nombor lesen, nama produk, bentuk dos, dan teks indikasi yang diluluskan — tidak dipulangkan dalam set data semasa.
 
-Please consult the official NPRA registry at [https://www.npra.gov.my](https://www.npra.gov.my) for complete registration details of individual atenolol-containing products.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-> **Note:** The current Evidence Pack flagged two blocking data gaps: (1) NPRA package insert warnings and contraindications (DG001 — Blocking severity), and (2) DrugBank mechanism of action data (DG002 — High severity). Both should be resolved before proceeding to clinical implementation review.
+Sila rujuk daftar rasmi NPRA di [https://www.npra.gov.my](https://www.npra.gov.my) untuk butiran pendaftaran lengkap produk yang mengandungi atenolol individu.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Proceed with Guardrails**
+Sila rujuk sisipan paket untuk maklumat keselamatan.
 
-**Rationale:**
-Multiple completed Phase 3/4 RCTs with large sample sizes — including INVEST (n=22,000), PEAR (n=1,701), and the aliskiren combination trial (n=693) — confirm atenolol's antihypertensive efficacy at L1 evidence level. Thirty active NPRA registrations confirm market availability in Malaysia.
+> **Nota:** Rangkaian bukti semasa telah menandai dua jurang data pemblokiran: (1) amaran sisipan paket NPRA dan kontraindikasi (DG001 — Keterukan Pemblokiran), dan (2) data mekanisme tindakan DrugBank (DG002 — Keterukan Tinggi). Kedua-duanya harus diselesaikan sebelum meneruskan ke tinjauan pelaksanaan klinikal.
 
-**To proceed, the following is needed:**
+---
 
-- **Safety data (Blocking):** Download and parse the NPRA package insert PDF to extract key warnings, contraindications, and drug interaction information (DG001)
-- **MOA data (High):** Query the DrugBank API for complete mechanism of action, pharmacodynamics, and pharmacokinetic profile for Atenolol (DB00335) (DG002)
-- **NPRA registration details:** Retrieve license numbers, approved indication text, and dosage forms for all 30 registered products from the NPRA registry
-- **Metabolic risk assessment:** Given existing literature evidence of atenolol's impact on glucose/insulin sensitivity and lipid profile (PMID 9140673, PMID 00607347), include a metabolic monitoring protocol for high-risk patient populations (diabetic, obese, metabolic syndrome)
-- **Comparator positioning:** Given the ASCOT and LIFE trial data showing atenolol's inferiority to newer agents (amlodipine, ARBs) in certain endpoints, clarify the clinical positioning of atenolol within current Malaysian hypertension treatment guidelines (e.g., as a first-line option or in specific subgroups)
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Teruskan dengan Penjagaan**
+
+**Alasan:**
+Berbilang ujian terkontrol rawak Fasa 3/4 yang selesai dengan saiz sampel besar — termasuk INVEST (n=22,000), PEAR (n=1,701), dan percubaan gabungan aliskiren (n=693) — mengesahkan keberkesanan antihipertensi atenolol pada tahap bukti L1. Tiga puluh pendaftaran NPRA aktif mengesahkan ketersediaan pasaran di Malaysia.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+
+- **Data keselamatan (Pemblokiran):** Muat turun dan susun atur sisipan paket NPRA PDF untuk mengekstrak amaran utama, kontraindikasi, dan maklumat interaksi ubat (DG001)
+- **Data MOA (Tinggi):** Pertanyaan API DrugBank untuk profil mekanisme tindakan lengkap, farmakodinamik, dan farmakokinetik untuk atenolol (DB00335) (DG002)
+- **Butiran pendaftaran NPRA:** Ambil nombor lesen, teks indikasi yang diluluskan, dan bentuk dos untuk semua 30 produk berdaftar daripada daftar NPRA
+- **Penilaian risiko metabolik:** Memandangkan bukti kesusasteraan yang ada tentang kesan atenolol pada sensitiviti glukosa/insulin dan profil lipid (PMID 9140673, PMID 00607347), sertakan protokol pemantauan metabolik untuk populasi pesakit berisiko tinggi (diabetes, obes, sindrom metabolik)
+- **Peletakan pembanding:** Memandangkan data percubaan ASCOT dan LIFE menunjukkan kerendahan atenolol terhadap ejen yang lebih baru (amlodipina, ARB) dalam titik akhir tertentu, jelaskan peletakan klinikal atenolol dalam garis panduan rawatan hipertensi Malaysia semasa (cth., sebagai pilihan baris pertama atau dalam subkumpulan spesifik)
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

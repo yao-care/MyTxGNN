@@ -29,73 +29,74 @@ Tahap bukti: **L2** | Indikasi diramal: **5**
 
 </div>
 
-# Clavulanic Acid: From Beta-Lactamase Inhibitor Combination Therapy to Streptococcal Pneumonia
+# Asid Klavulanat: Daripada Terapi Kombinasi Perencat Beta-Laktamase kepada Pneumonia Streptokok
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Clavulanic acid has negligible antibacterial activity on its own; it is used exclusively as a fixed-dose combination partner (most commonly with amoxicillin, as in Augmentin) to protect penicillins from bacterial beta-lactamase enzymes.
-The TxGNN model's top-ranked prediction is **Streptococcal Pneumonia**, but the mechanistic case is weak since *S. pneumoniae* itself rarely produces beta-lactamase.
-No clinical trials specific to this pairing were retrieved; support comes from **20 publications**, mostly indirect literature on amoxicillin/clavulanate use in respiratory infections.
+Asid klavulanat mempunyai aktiviti antibakteria yang boleh diabaikan pada dirinya sendiri; ia digunakan semata-mata sebagai rakan kombinasi dos tetap (paling lazim dengan amoksisilin, seperti dalam Augmentin) untuk melindungi penisilin daripada enzim beta-laktamase bakteria.
+Ramalan tertinggi model TxGNN ialah **Pneumonia Streptokok**, tetapi kes mekanistik adalah lemah kerana *S. pneumoniae* sendiri jarang menghasilkan beta-laktamase.
+Tiada ujian klinikal khusus untuk pasangan ini yang diperoleh; sokongan datang daripada **20 penerbitan**, kebanyakannya kesusasteraan tidak langsung tentang penggunaan amoksisilin/klavulanat dalam jangkitan pernafasan.
 
-## Quick Overview
+## Gambaran Ringkas
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Not specified in NPRA registration records retrieved; clavulanic acid is marketed only as a combination product (e.g., with amoxicillin) for bacterial infections |
-| Predicted New Indication | Streptococcal Pneumonia |
-| TxGNN Prediction Score | 0.00% |
-| Evidence Level | L2 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 20 |
-| Recommended Decision | Proceed with Guardrails |
+| Petunjuk Asal | Tidak dinyatakan dalam rekod pendaftaran NPRA yang diperoleh; asid klavulanat dipasarkan hanya sebagai produk kombinasi (contohnya, dengan amoksisilin) untuk jangkitan bakteria |
+| Petunjuk Baru Diramal | Pneumonia Streptokok |
+| Skor Ramalan TxGNN | 0.00% |
+| Tahap Bukti | L2 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 20 |
+| Keputusan Disyorkan | Teruskan dengan Penjagaan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data is not available. Based on known information, clavulanic acid is a beta-lactam-derived, irreversible inhibitor of bacterial beta-lactamases (particularly TEM-1). It has little intrinsic antibacterial activity itself; its clinical role is to restore the activity of co-administered penicillins (typically amoxicillin, sometimes ticarcillin) against beta-lactamase-producing strains. It is never marketed as a standalone antibiotic.
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia. Berdasarkan maklumat yang diketahui, asid klavulanat ialah perencat tidak boleh balik beta-laktamase bakteria yang berasal daripada beta-laktam (terutamanya TEM-1). Ia mempunyai sedikit aktiviti antibakteria intrinsik pada dirinya sendiri; peranannya yang klinikal ialah memulihkan aktiviti penisilin yang diberikan bersama (biasanya amoksisilin, kadang-kadang tikarsilina) terhadap strain pengeluar beta-laktamase. Ia tidak pernah dipasarkan sebagai antibiotik tunggal.
 
-For the top-ranked prediction, streptococcal pneumonia, the evidence pack itself flags a caveat: *S. pneumoniae* is not typically a beta-lactamase producer, so clavulanic acid's contribution here is largely indirect — it broadens amoxicillin/clavulanate's coverage against beta-lactamase-producing co-pathogens (e.g., *H. influenzae*) commonly found alongside *S. pneumoniae* in community-acquired pneumonia (CAP), rather than acting on the pneumococcus directly. Amoxicillin/clavulanate is nonetheless an established first-line empirical option for CAP, which is why the combination shows up repeatedly in the literature even though the mechanistic link for clavulanic acid specifically is indirect.
+Untuk ramalan tertinggi, pneumonia streptokok, pakej bukti sendiri menandakan amaran: *S. pneumoniae* biasanya bukan pengeluar beta-laktamase, jadi sumbangan asid klavulanat di sini sebahagian besarnya tidak langsung — ia meluaskan liputan amoksisilin/klavulanat terhadap patogen bersama pengeluar beta-laktamase (contohnya, *H. influenzae*) yang biasa ditemui bersama *S. pneumoniae* dalam pneumonia yang diperoleh masyarakat (CAP), sebaliknya bertindak terhadap pneumokok secara langsung. Amoksisilin/klavulanat bagaimanapun ialah pilihan empirik garis pertama yang ditubuhkan untuk CAP, oleh itu kombinasi muncul berulang kali dalam kesusasteraan walaupun pautan mekanistik untuk asid klavulanat khususnya adalah tidak langsung.
 
-Worth noting: among the other candidate indications in this evidence pack, urinary tract infection (rank 3) has a substantially stronger and more direct mechanistic rationale — clavulanic acid's beta-lactamase inhibition directly restores amoxicillin activity against beta-lactamase-producing uropathogens — and carries the highest evidence level (L1) of the five candidates.
+Patut diperhatikan: dalam kalangan petunjuk calon lain dalam pakej bukti ini, jangkitan saluran kencing (pangkat 3) mempunyai rasional mekanistik yang jauh lebih kuat dan langsung — perencat beta-laktamase asid klavulanat secara langsung memulihkan aktiviti amoksisilin terhadap uropatogen pengeluar beta-laktamase — dan membawa tahap bukti tertinggi (L1) daripada lima calon.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-Currently no related clinical trials registered.
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [1854164](https://pubmed.ncbi.nlm.nih.gov/1854164/) | 1991 | RCT | Antimicrobial Agents and Chemotherapy | Amoxicillin-clavulanic acid effective against experimental *S. pneumoniae* respiratory infection in mice; ciprofloxacin failed to clear infection |
-| [15303634](https://pubmed.ncbi.nlm.nih.gov/15303634/) | 2004 | RCT | Respiratory Medicine | Gemifloxacin (7-day) vs. amoxicillin/clavulanic acid (10-day) for CAP of suspected pneumococcal origin |
-| [10501315](https://pubmed.ncbi.nlm.nih.gov/10501315/) | 1999 | Review | Seminars in Respiratory Infections | Treatment of pneumococcal pneumonia amid rising penicillin and macrolide resistance |
-| [9711451](https://pubmed.ncbi.nlm.nih.gov/9711451/) | 1998 | Review | Drugs | Review of azithromycin in pediatric respiratory infections, contextualizing beta-lactam alternatives |
-| [15212560](https://pubmed.ncbi.nlm.nih.gov/15212560/) | 2004 | Review | Drugs | Cefdinir review; covers activity against penicillin-susceptible *S. pneumoniae* |
-| [16137193](https://pubmed.ncbi.nlm.nih.gov/16137193/) | 2005 | Review | Treatments in Respiratory Medicine | Amoxicillin/clavulanic acid extended-release formulation for respiratory infections, including reduced-susceptibility pneumococcal strains |
-| [14979735](https://pubmed.ncbi.nlm.nih.gov/14979735/) | 2004 | Review | Drugs & Aging | Antibacterial choice for lower respiratory tract infections in elderly patients; *S. pneumoniae* most common isolate |
-| [9793046](https://pubmed.ncbi.nlm.nih.gov/9793046/) | 1998 | Review | Presse Médicale | Commentary on whether ampicillin monotherapy suffices for community-acquired pneumonia |
-| [2227080](https://pubmed.ncbi.nlm.nih.gov/2227080/) | 1990 | Cohort | J International Medical Research | Open study of amoxicillin+clavulanic acid in children with respiratory tract infections, including bronchopneumonia |
-| [36086715](https://pubmed.ncbi.nlm.nih.gov/36086715/) | 2022 | Cohort | Medicine | Cross-sectional study of CAP-causing bacteria and antibiotic resistance in Vietnamese patients |
+| [1854164](https://pubmed.ncbi.nlm.nih.gov/1854164/) | 1991 | Ujian Terkawal Rawak | Antimicrobial Agents and Chemotherapy | Amoksisilin-asid klavulanat berkesan terhadap jangkitan pernafasan *S. pneumoniae* eksperimental pada tikus; siprofloksasin gagal membersihkan jangkitan |
+| [15303634](https://pubmed.ncbi.nlm.nih.gov/15303634/) | 2004 | Ujian Terkawal Rawak | Respiratory Medicine | Gemifloksasin (7 hari) vs. amoksisilin/asid klavulanat (10 hari) untuk CAP asal pneumokok yang disyaki |
+| [10501315](https://pubmed.ncbi.nlm.nih.gov/10501315/) | 1999 | Ulasan | Seminars in Respiratory Infections | Rawatan pneumonia pneumokok di tengah peningkatan rintangan penisilin dan makrolid |
+| [9711451](https://pubmed.ncbi.nlm.nih.gov/9711451/) | 1998 | Ulasan | Drugs | Ulasan azitromisina dalam jangkitan pernafasan pediatrik, mengkontekstualisasikan alternatif beta-laktam |
+| [15212560](https://pubmed.ncbi.nlm.nih.gov/15212560/) | 2004 | Ulasan | Drugs | Ulasan sefalinir; menutup aktiviti terhadap *S. pneumoniae* yang terdedah kepada penisilin |
+| [16137193](https://pubmed.ncbi.nlm.nih.gov/16137193/) | 2005 | Ulasan | Treatments in Respiratory Medicine | Formulasi pelepasan lanjutan amoksisilin/asid klavulanat untuk jangkitan pernafasan, termasuk strain pneumokok yang terdedah berkurang |
+| [14979735](https://pubmed.ncbi.nlm.nih.gov/14979735/) | 2004 | Ulasan | Drugs & Aging | Pilihan antibakteria untuk jangkitan saluran pernafasan bawah pada pesakit warga tua; *S. pneumoniae* isolat paling biasa |
+| [9793046](https://pubmed.ncbi.nlm.nih.gov/9793046/) | 1998 | Ulasan | Presse Médicale | Ulasan sama ada monoterapi ampisilina mencukupi untuk pneumonia yang diperoleh masyarakat |
+| [2227080](https://pubmed.ncbi.nlm.nih.gov/2227080/) | 1990 | Kohort | J International Medical Research | Kajian terbuka amoksisilin+asid klavulanat pada kanak-kanak dengan jangkitan saluran pernafasan, termasuk bronkopneumonia |
+| [36086715](https://pubmed.ncbi.nlm.nih.gov/36086715/) | 2022 | Kohort | Medicine | Kajian keratan rentas bakteria penyebab CAP dan rintangan antibiotik pada pesakit Vietnam |
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-20 products containing clavulanic acid (as combination therapy) are registered as Marketed with NPRA. License numbers, product names, dosage forms, and approved indication text were not returned in this dataset and cannot be listed here.
+20 produk yang mengandungi asid klavulanat (sebagai terapi kombinasi) didaftarkan sebagai Dipasarkan dengan NPRA. Nombor lesen, nama produk, bentuk dos, dan teks petunjuk yang diluluskan tidak dikembalikan dalam set data ini dan tidak boleh disenaraikan di sini.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisipan bungkusan untuk maklumat keselamatan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Proceed with Guardrails**
+**Keputusan: Teruskan dengan Penjagaan**
 
-**Rationale:**
-Amoxicillin/clavulanate is a well-established CAP treatment, but for streptococcal pneumonia specifically, clavulanic acid's mechanistic contribution is indirect (covering co-pathogens rather than the pneumococcus itself), and no clinical trials directly targeting this pairing were found — evidence rests on L2-level literature only.
+**Rasional:**
+Amoksisilin/asid klavulanat ialah rawatan CAP yang mapan, tetapi khususnya untuk pneumonia streptokok, sumbangan mekanistik asid klavulanat adalah tidak langsung (menutup patogen bersama daripada pneumokok sendiri), dan tiada ujian klinikal yang secara langsung menyasarkan pasangan ini ditemui — bukti bergantung pada kesusasteraan tahap L2 sahaja.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert warnings and contraindications (flagged as a **blocking** data gap — safety pre-evaluation cannot proceed without this)
-- Mechanism of action documentation from DrugBank
-- NPRA license-level detail (product names, dosage forms, approved indication text) to confirm which registered products and formulations are relevant
-- Consider prioritizing the urinary tract infection candidate (L1 evidence, direct mechanistic link) alongside this indication for further evaluation
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Amaran sisipan bungkusan TFDA/NPRA dan kontraindikasi (ditandakan sebagai jurang data **penyekat** — pra-penilaian keselamatan tidak dapat diteruskan tanpanya)
+- Dokumentasi mekanisme tindakan daripada DrugBank
+- Perincian tahap lesen NPRA (nama produk, bentuk dos, teks petunjuk yang diluluskan) untuk mengesahkan produk dan formulasi didaftarkan yang relevan
+- Pertimbangkan untuk mengutamakan calon jangkitan saluran kencing (bukti L1, pautan mekanistik langsung) bersama petunjuk ini untuk penilaian lanjut
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

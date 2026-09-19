@@ -29,103 +29,104 @@ Tahap bukti: **L3** | Indikasi diramal: **8**
 
 </div>
 
-# Sofosbuvir: From Chronic Hepatitis C Virus (HCV) Infection to Hepatitis B Virus Infection
+# Sofosbuvir: Daripada Jangkitan Virus Hepatitis C Kronik (HCV) ke Jangkitan Virus Hepatitis B
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Sofosbuvir is a nucleotide analog NS5B polymerase inhibitor developed for chronic hepatitis C virus (HCV) infection. The TxGNN model predicts it may also be effective for **Hepatitis B Virus Infection**, with **50 clinical trials** and **19 publications** currently retrieved as supporting context — though on closer review, only a small number of these directly test sofosbuvir (or its fixed-dose combinations) against HBV itself, and the underlying mechanism is biologically debatable.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Chronic Hepatitis C Virus (HCV) infection (based on established pharmacology cited throughout the evidence pack; NPRA registry text itself is not populated — see Malaysia Market Information) |
-| Predicted New Indication | Hepatitis B Virus Infection |
-| TxGNN Prediction Score | 99.77% |
-| Evidence Level | L3 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 6 |
-| Recommended Decision | Hold |
+Sofosbuvir ialah inhibitor polimerase NS5B analog nukleotida yang dibangunkan untuk jangkitan virus hepatitis C kronik (HCV). Model TxGNN meramalkan bahawa ia mungkin juga berkesan untuk **Jangkitan Virus Hepatitis B**, dengan **50 percubaan klinikal** dan **19 penerbitan** kini diambil sebagai konteks sokongan — bagaimanapun, selepas semakan lebih dekat, hanya sebilangan kecil daripada ini secara langsung menguji sofosbuvir (atau kombinasi dos tetapnya) terhadap HBV itu sendiri, dan mekanisme asas adalah terbuka kepada keraguan biologi.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Pantas
 
-Sofosbuvir is a prodrug that is metabolized intracellularly to its active triphosphate, GS-461203, which is misincorporated by the HCV NS5B RNA-dependent RNA polymerase (RdRp), causing chain termination of the viral RNA. This mechanism is well validated for HCV, where sofosbuvir-based regimens (often combined with ledipasvir, velpatasvir, or daclatasvir) are the current standard of care.
-
-HBV, however, is a DNA virus that replicates via reverse transcriptase (RT), not RdRp. Structurally, sofosbuvir's known target has no direct counterpart in the HBV replication cycle, so a straightforward "same enzyme, same drug" rationale does not hold the way it does for other RdRp-dependent RNA viruses (e.g., HEV or flaviviruses, seen elsewhere in this evidence pack). The TxGNN association more likely reflects the frequent clinical co-occurrence of HCV and HBV (shared risk factors, common coinfection, shared trial populations) rather than a validated shared molecular target.
-
-That said, this is not purely a false-positive knowledge-graph link: one dedicated Phase 2 open-label study (NCT03312023, matched to publication PMID 36045503) tested ledipasvir/sofosbuvir for 12 weeks in **HBV-monoinfected** subjects and reported a modest decline in HBsAg — a real, if preliminary, empirical signal. The proposed rationale for that effect is retrospective observation of HBsAg reduction in HBV/HCV-coinfected patients treated with LDV/SOF, hypothesized to extend to HBV-monoinfected patients; the exact mechanism (host immune modulation vs. any off-target antiviral effect) is not established. Given this ambiguity, mechanistic plausibility for this indication should be regarded as unconfirmed rather than strong.
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Jangkitan virus hepatitis C kronik (HCV) (berdasarkan farmakologi yang ditubuhkan yang disebut di seluruh pakej bukti; teks daftar NPRA itu sendiri tidak dipenuhi — lihat Maklumat Pasaran Malaysia) |
+| Petunjuk Baru Yang Diramalkan | Jangkitan Virus Hepatitis B |
+| Skor Ramalan TxGNN | 99.77% |
+| Tahap Bukti | L3 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 6 |
+| Keputusan Yang Disyorkan | Tahan |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Sofosbuvir ialah prodrug yang dimetaboliskan secara intraseluler kepada triphosphate aktifnya, GS-461203, yang salah dimasukkan oleh polimerase bergantung RNA NS5B HCV (RdRp), menyebabkan penamatan rantai RNA virus. Mekanisme ini telah disahkan dengan baik untuk HCV, di mana rejim berasaskan sofosbuvir (sering digabungkan dengan ledipasvir, velpatasvir, atau daclatasvir) adalah penjagaan standard semasa.
+
+HBV, bagaimanapun, ialah virus DNA yang mereplikasi melalui reverse transcriptase (RT), bukan RdRp. Secara struktur, sasaran yang diketahui sofosbuvir tidak mempunyai rakan sejawatan langsung dalam kitaran replikasi HBV, jadi alasan "enjin yang sama, ubat yang sama" tidak berlaku dengan cara ia melakukan untuk virus RNA bergantung RdRp yang lain (cth., HEV atau flavivirus, dilihat di tempat lain dalam pakej bukti ini). Persatuan TxGNN lebih berkemungkinan mencerminkan kehadiran klinikal yang kerap bagi HCV dan HBV (faktor risiko bersama, jangkitan bersama yang biasa, populasi percubaan bersama) daripada sasaran molekul bersama yang disahkan.
+
+Bagaimanapun, ini bukan semata-mata pautan graf pengetahuan positif palsu: satu kajian terapis fasa 2 terbuka terdedikasi (NCT03312023, dipadankan dengan penerbitan PMID 36045503) telah menguji ledipasvir/sofosbuvir selama 12 minggu dalam subjek **HBV-monoinfected** dan melaporkan penurunan sederhana dalam HBsAg — isyarat empirik sebenar, jika awal. Alasan yang dicadangkan untuk kesan itu ialah pemerhatian retroaktif pengurangan HBsAg dalam pesakit yang dijangkiti HBV/HCV-coinfected diperlakukan dengan LDV/SOF, yang diandaikan berkembang ke pesakit HBV-monoinfected; mekanisme yang tepat (modulasi imun inang vs. apa-apa kesan antiviral di luar sasaran) tidak ditubuhkan. Memandangkan keambiguan ini, kebolehwujudan mekanis untuk petunjuk ini harus dianggap sebagai tidak disahkan dan bukannya kuat.
+
+---
+
+## Bukti Percubaan Klinikal
+
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT03312023](https://clinicaltrials.gov/study/NCT03312023) | Phase 2 | Completed | 21 | Open-label study of ledipasvir/sofosbuvir for 12 weeks in HBV-monoinfected subjects; primary/secondary endpoints were decline in HBsAg and HBV DNA from baseline — the most directly relevant trial for this indication. |
-| [NCT02555943](https://clinicaltrials.gov/study/NCT02555943) | Phase 2, Phase 3 | Completed | 23 | Prospective study of incidence, morbidity, and predisposing factors for HBV reactivation during direct-acting antiviral treatment of HCV/HBV coinfected patients. |
-| [NCT02613871](https://clinicaltrials.gov/study/NCT02613871) | Phase 3 | Completed | 111 | Ledipasvir/sofosbuvir FDC for 12 weeks in genotype 1/2 HCV patients coinfected with HBV (Taiwan); primary aim is HCV efficacy/safety, HBV status monitored as coinfection. |
-| [NCT04997564](https://clinicaltrials.gov/study/NCT04997564) | Phase 4 | Unknown | 120 | SOF/VEL regimen combined with prophylactic TAF for HCV/HBV coinfected patients in China, evaluating prevention of HBV reactivation during HCV treatment. |
-| [NCT02010255](https://clinicaltrials.gov/study/NCT02010255) | Phase 2 | Completed | 334 | Ledipasvir/sofosbuvir FDC + ribavirin in HCV patients with advanced liver disease or post-liver transplant; HBV not a specific study focus (background HCV trial). |
-| [NCT01858766](https://clinicaltrials.gov/study/NCT01858766) | Phase 2 | Completed | 379 | Sofosbuvir + velpatasvir in treatment-naive chronic HCV; included for background only, no HBV-specific endpoint. |
-| [NCT02640157](https://clinicaltrials.gov/study/NCT02640157) | Phase 3 | Completed | 506 | Comparison of ABT-493/ABT-530 vs. sofosbuvir+daclatasvir in genotype 3 HCV; drug-overlap match only, not HBV-related. |
-| [NCT01826981](https://clinicaltrials.gov/study/NCT01826981) | Phase 2 | Completed | 359 | Sofosbuvir-containing regimens for chronic HCV; drug-overlap match only, not HBV-related. |
+| [NCT03312023](https://clinicaltrials.gov/study/NCT03312023) | Fasa 2 | Selesai | 21 | Kajian label terbuka ledipasvir/sofosbuvir selama 12 minggu dalam subjek HBV-monoinfected; titik akhir utama/sekunder ialah penurunan HBsAg dan HBV DNA daripada garis asas — percubaan yang paling berkaitan secara langsung untuk petunjuk ini. |
+| [NCT02555943](https://clinicaltrials.gov/study/NCT02555943) | Fasa 2, Fasa 3 | Selesai | 23 | Kajian prospektif insiden, morbiditi, dan faktor predisposisi untuk pengaktifan semula HBV semasa rawatan antiviral langsung bertindak bagi pesakit HCV/HBV yang dijangkiti bersama. |
+| [NCT02613871](https://clinicaltrials.gov/study/NCT02613871) | Fasa 3 | Selesai | 111 | FDC ledipasvir/sofosbuvir selama 12 minggu dalam pesakit HCV genotip 1/2 yang dijangkiti bersama dengan HBV (Taiwan); tujuan utama ialah keberkesanan/keselamatan HCV, status HBV dipantau sebagai jangkitan bersama. |
+| [NCT04997564](https://clinicaltrials.gov/study/NCT04997564) | Fasa 4 | Tidak diketahui | 120 | Rejimen SOF/VEL digabungkan dengan TAF profilaksis untuk pesakit HCV/HBV yang dijangkiti bersama di China, menilai pencegahan pengaktifan semula HBV semasa rawatan HCV. |
+| [NCT02010255](https://clinicaltrials.gov/study/NCT02010255) | Fasa 2 | Selesai | 334 | FDC ledipasvir/sofosbuvir + ribavirin dalam pesakit HCV dengan penyakit hati lanjutan atau selepas transplantasi hati; HBV bukan fokus kajian spesifik (percubaan latar belakang HCV). |
+| [NCT01858766](https://clinicaltrials.gov/study/NCT01858766) | Fasa 2 | Selesai | 379 | Sofosbuvir + velpatasvir dalam HCV kronik yang belum dirawat; disertakan untuk latar belakang sahaja, tiada titik akhir spesifik HBV. |
+| [NCT02640157](https://clinicaltrials.gov/study/NCT02640157) | Fasa 3 | Selesai | 506 | Perbandingan ABT-493/ABT-530 vs. sofosbuvir+daclatasvir dalam HCV genotip 3; padanan tindanan ubat sahaja, bukan berkaitan HBV. |
+| [NCT01826981](https://clinicaltrials.gov/study/NCT01826981) | Fasa 2 | Selesai | 359 | Rejimen yang mengandungi sofosbuvir untuk HCV kronik; padanan tindanan ubat sahaja, bukan berkaitan HBV. |
 
-*Note: Of the 50 trials retrieved for this indication, the large majority are HCV treatment trials matched only because sofosbuvir was a study drug; they are not designed to test efficacy against HBV. The table above prioritizes the studies with genuine HBV relevance.*
+*Nota: Daripada 50 percubaan yang diambil untuk petunjuk ini, sebahagian besar adalah percubaan rawatan HCV yang dipadankan hanya kerana sofosbuvir adalah ubat kajian; ia tidak direka untuk menguji keberkesanan terhadap HBV. Jadual di atas mengutamakan kajian dengan relevansi HBV yang tulen.*
 
 ---
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [36045503](https://pubmed.ncbi.nlm.nih.gov/36045503/) | 2023 | RCT (Phase 2) | Journal of Medical Virology | Open-label Phase 2 pilot of ledipasvir/sofosbuvir for 12 weeks in HBV-monoinfected subjects; reported modest HBsAg decline, hypothesis-generating rather than confirmatory. |
-| [31722032](https://pubmed.ncbi.nlm.nih.gov/31722032/) | 2020 | Cohort | Trans. Royal Soc. Tropical Med. Hyg. | Sofosbuvir/daclatasvir-based therapy in chronic HCV and HCV/HBV coinfected patients in Egypt; treatment target is HCV. |
-| [34864948](https://pubmed.ncbi.nlm.nih.gov/34864948/) | 2022 | Cohort (108-week follow-up) | Clinical Infectious Diseases | Ledipasvir/sofosbuvir in HCV/HBV coinfected patients in Taiwan; tracked HBV reactivation through 108 weeks post-treatment. |
-| [29334502](https://pubmed.ncbi.nlm.nih.gov/29334502/) | 2018 | Cohort | Journal of Clinical Gastroenterology | Risk of HBV reactivation among patients treated with ledipasvir-sofosbuvir for HCV — a safety signal, not an efficacy signal. |
-| [33523503](https://pubmed.ncbi.nlm.nih.gov/33523503/) | 2021 | Cohort | Journal of Viral Hepatitis | HBV reactivation in cancer patients receiving DAAs for HCV in HBV/HCV coinfection — safety signal. |
-| [33031326](https://pubmed.ncbi.nlm.nih.gov/33031326/) | 2020 | Case report | Medicine | HBV reactivation after successful HCV treatment with sofosbuvir and ribavirin — safety signal. |
-| [31632097](https://pubmed.ncbi.nlm.nih.gov/31632097/) | 2019 | Cohort | Infection and Drug Resistance | Management of HBV reactivation post-DAA treatment in HCV-HBV coinfected patients. |
-| [37517414](https://pubmed.ncbi.nlm.nih.gov/37517414/) | 2023 | Review / epidemiological modeling | Lancet Gastroenterology & Hepatology | Global prevalence and care cascade of HBV — background epidemiology, not drug-specific. |
-| [25027705](https://pubmed.ncbi.nlm.nih.gov/25027705/) | 2014 | Review | Minerva Gastroenterologica e Dietologica | Antiviral medications for HBV and HCV and their effects on kidney function — general background. |
-| [25253190](https://pubmed.ncbi.nlm.nih.gov/25253190/) | 2014 | Review | Minerva Pediatrica | Treatment of hepatitis B and C in children — general background. |
+| [36045503](https://pubmed.ncbi.nlm.nih.gov/36045503/) | 2023 | RCT (Fasa 2) | Journal of Medical Virology | Fasa 2 pilot label terbuka ledipasvir/sofosbuvir selama 12 minggu dalam subjek HBV-monoinfected; melaporkan penurunan HBsAg sederhana, hipotesis-menjana dan bukannya pengesahan. |
+| [31722032](https://pubmed.ncbi.nlm.nih.gov/31722032/) | 2020 | Kohort | Trans. Royal Soc. Tropical Med. Hyg. | Terapi berasaskan sofosbuvir/daclatasvir dalam HCV kronik dan pesakit yang dijangkiti HCV/HBV bersama di Mesir; sasaran rawatan ialah HCV. |
+| [34864948](https://pubmed.ncbi.nlm.nih.gov/34864948/) | 2022 | Kohort (susulan 108 minggu) | Clinical Infectious Diseases | Ledipasvir/sofosbuvir dalam pesakit HCV/HBV yang dijangkiti bersama di Taiwan; menjejaki pengaktifan semula HBV sehingga 108 minggu selepas rawatan. |
+| [29334502](https://pubmed.ncbi.nlm.nih.gov/29334502/) | 2018 | Kohort | Journal of Clinical Gastroenterology | Risiko pengaktifan semula HBV dalam kalangan pesakit yang dirawat dengan ledipasvir-sofosbuvir untuk HCV — isyarat keselamatan, bukan isyarat keberkesanan. |
+| [33523503](https://pubmed.ncbi.nlm.nih.gov/33523503/) | 2021 | Kohort | Journal of Viral Hepatitis | Pengaktifan semula HBV dalam pesakit kanser yang menerima DAA untuk HCV dalam jangkitan HBV/HCV — isyarat keselamatan. |
+| [33031326](https://pubmed.ncbi.nlm.nih.gov/33031326/) | 2020 | Laporan kes | Medicine | Pengaktifan semula HBV selepas rawatan HCV yang berjaya dengan sofosbuvir dan ribavirin — isyarat keselamatan. |
+| [31632097](https://pubmed.ncbi.nlm.nih.gov/31632097/) | 2019 | Kohort | Infection and Drug Resistance | Pengurusan pengaktifan semula HBV selepas rawatan DAA dalam pesakit yang dijangkiti HCV-HBV bersama. |
+| [37517414](https://pubmed.ncbi.nlm.nih.gov/37517414/) | 2023 | Semakan / pemodelan epidemiologi | Lancet Gastroenterology & Hepatology | Prevalensi global dan kasad penjagaan HBV — epidemiologi latar belakang, bukan spesifik ubat. |
+| [25027705](https://pubmed.ncbi.nlm.nih.gov/25027705/) | 2014 | Semakan | Minerva Gastroenterologica e Dietologica | Ubat antiviral untuk HBV dan HCV dan kesannya terhadap fungsi ginjal — latar belakang umum. |
+| [25253190](https://pubmed.ncbi.nlm.nih.gov/25253190/) | 2014 | Semakan | Minerva Pediatrica | Rawatan hepatitis B dan C pada anak-anak — latar belakang umum. |
 
-*Note: The majority of the retrieved literature discusses HBV reactivation risk during sofosbuvir-based HCV treatment in coinfected patients — this is a safety concern in the opposite clinical direction from the repurposing hypothesis, and is reflected in Safety Considerations below.*
-
----
-
-## Malaysia Market Information
-
-NPRA registration records list 6 active licenses under "Marketed" status, but the license number, product name, dosage form, manufacturer, and approved indication text fields are not populated in the current data source. A detailed authorization table cannot be produced until this registry data gap is resolved (see Conclusion and Next Steps).
+*Nota: Majoriti literatur yang diambil membincangkan risiko pengaktifan semula HBV semasa rawatan HCV berasaskan sofosbuvir dalam pesakit yang dijangkiti bersama — ini adalah kebimbangan keselamatan dalam arah klinikal yang bertentangan dengan hipotesis penyusunan semula, dan tercermin dalam Pertimbangan Keselamatan di bawah.*
 
 ---
 
-## Safety Considerations
+## Maklumat Pasaran Malaysia
 
-Official TFDA/NPRA key warnings, contraindications, and drug interaction data are not available in the current data source (flagged as a **Blocking** data gap — see Conclusion). Please refer to the package insert for official safety information.
-
-**Literature-derived safety signal (not from official labeling):** Multiple cohort studies and case reports in the evidence pack (PMID 29334502, 33523503, 33031326, 31632097, 34864948) independently describe **HBV reactivation** occurring in HBV/HCV-coinfected patients during or after sofosbuvir-based DAA treatment for HCV. This is a clinically important consideration precisely because the repurposing candidate under evaluation is HBV infection itself — any protocol exploring sofosbuvir for HBV should explicitly account for this reactivation literature rather than treat it as unrelated background.
+Rekod pendaftaran NPRA menyenaraikan 6 lesen aktif di bawah status "Dipasarkan", tetapi nombor lesen, nama produk, bentuk dos, pengilang, dan teks petunjuk yang diluluskan bidang tidak dipenuhi dalam sumber data semasa. Jadual otorisasi terperinci tidak boleh dihasilkan sehingga jurang data daftar ini diselesaikan (lihat Kesimpulan dan Langkah Seterusnya).
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Data amaran utama TFDA/NPRA, kontraindikasi, dan interaksi ubat rasmi tidak tersedia dalam sumber data semasa (ditandakan sebagai jurang data **Menghalang** — lihat Kesimpulan). Sila rujuk sisipan pakej untuk maklumat keselamatan rasmi.
 
-**Rationale:**
-- The proposed mechanism is not well supported — HBV replicates via reverse transcriptase, not the RdRp that sofosbuvir targets in HCV — and only one small (n=21), non-randomized Phase 2 pilot (NCT03312023 / PMID 36045503) directly tests sofosbuvir-based therapy against HBV, showing a modest, non-confirmatory HBsAg decline.
-- A **Blocking** data gap exists: TFDA/NPRA label warnings and contraindications are unavailable, which prevents this candidate from entering the S1 safety pre-assessment stage at all.
-- Literature otherwise associated with this indication predominantly documents HBV *reactivation* risk during sofosbuvir-based HCV treatment — a safety signal running counter to the repurposing hypothesis that should be resolved before further evaluation.
+**Isyarat keselamatan yang diperoleh literatur (bukan daripada pelabelan rasmi):** Pelbagai kajian kohort dan laporan kes dalam pakej bukti (PMID 29334502, 33523503, 33031326, 31632097, 34864948) secara bebas menerangkan **pengaktifan semula HBV** yang berlaku dalam pesakit HBV/HCV-coinfected semasa atau selepas rawatan DAA berasaskan sofosbuvir untuk HCV. Ini ialah pertimbangan klinikal yang penting dengan tepat kerana calon penyusunan semula di bawah penilaian ialah jangkitan HBV itu sendiri — apa-apa protokol yang meneroka sofosbuvir untuk HBV harus secara eksplisit mengambil kira literatur pengaktifan semula ini dan bukannya menganggapnya sebagai latar belakang yang tidak berkaitan.
 
-**To proceed, the following is needed:**
-- Retrieve TFDA/NPRA package insert warnings and contraindications (resolves the Blocking data gap, DG001)
-- Obtain confirmed DrugBank/original manufacturer MOA data (DG002)
-- Confirm or refute the mechanistic basis for anti-HBV activity (e.g., is the reported HBsAg effect host-immune-mediated rather than direct antiviral?)
-- Monitor for publication of full results from NCT03312023 (currently only pilot-stage data available)
-- Formally assess the HBV reactivation safety literature as part of any future benefit-risk review for this indication
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Alasan:**
+- Mekanisme yang dicadangkan tidak disokong dengan baik — HBV mereplikasi melalui reverse transcriptase, bukan RdRp yang disasarkan sofosbuvir dalam HCV — dan hanya satu Fasa 2 pilot kecil (n=21), bukan rawak (NCT03312023 / PMID 36045503) secara langsung menguji terapi berasaskan sofosbuvir terhadap HBV, menunjukkan penurunan HBsAg yang sederhana dan tidak pengesahan.
+- Jurang data **Menghalang** wujud: amaran label TFDA/NPRA dan kontraindikasi tidak tersedia, yang menghalang calon ini daripada memasuki peringkat pra-penilaian keselamatan S1 sama sekali.
+- Literatur sebaliknya dikaitkan dengan petunjuk ini kebanyakannya mendokumenkan risiko *pengaktifan semula* HBV semasa rawatan HCV berasaskan sofosbuvir — isyarat keselamatan yang berjalan bertentangan dengan hipotesis penyusunan semula yang harus diselesaikan sebelum penilaian lanjutan.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Ambil amaran sisipan pakej TFDA/NPRA dan kontraindikasi (menyelesaikan jurang data Menghalang, DG001)
+- Dapatkan data MOA DrugBank/pengilang asal yang disahkan (DG002)
+- Sahkan atau tandingi asas mekanis untuk aktiviti anti-HBV (cth., adakah kesan HBsAg yang dilaporkan adalah modulasi imun inang dan bukannya kesan antiviral langsung?)
+- Pantau penerbitan hasil penuh daripada NCT03312023 (kini hanya data peringkat pilot tersedia)
+- Menilai secara formal literatur keselamatan pengaktifan semula HBV sebagai bahagian daripada sebarang semakan manfaat-risiko masa depan untuk petunjuk ini
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

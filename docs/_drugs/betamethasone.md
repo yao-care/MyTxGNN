@@ -29,111 +29,112 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Betamethasone: From Inflammatory Conditions to Erythema Multiforme
+# Betamethasone: Daripada Keadaan Radang kepada Eritema Multiformis
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Betamethasone is a potent synthetic glucocorticoid widely used for various inflammatory, allergic, and autoimmune conditions across 97 registered products in Malaysia. The TxGNN model predicts it may be effective for **Erythema Multiforme (EM)**, with **17 clinical trials** and **20 publications** currently providing supporting or related evidence for this direction.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Anti-inflammatory / immunosuppressive corticosteroid (broad dermatological, rheumatic, and allergic indications) |
-| Predicted New Indication | Erythema Multiforme |
-| TxGNN Prediction Score | 0.00% (rank 1) |
-| Evidence Level | L3 — Observational studies and case series available |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 97 |
-| Recommended Decision | Proceed with Guardrails |
+Betamethasone adalah glukokortikoid sintetik yang kuat digunakan secara meluas untuk pelbagai keadaan radang, alergik, dan autoimun di seluruh 97 produk berdaftar di Malaysia. Model TxGNN meramalkan bahawa ia mungkin berkesan untuk **Eritema Multiformis (EM)**, dengan **17 percubaan klinikal** dan **20 penerbitan** yang pada masa ini memberikan bukti sokongan atau berkaitan untuk arah ini.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Pantas
 
-Erythema multiforme (EM) is an acute, immune-mediated hypersensitivity reaction affecting the skin and mucous membranes, primarily driven by CD8+ cytotoxic T-cell attack on keratinocytes. The condition exists on a clinical spectrum that includes mild cutaneous EM minor at one end and the severe, life-threatening Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN) at the other. The underlying immunopathology — T-cell activation, pro-inflammatory cytokine release, and keratinocyte apoptosis — is well-characterized.
-
-Betamethasone, as a high-potency synthetic glucocorticoid, exerts its effects by suppressing T-cell activation, inhibiting the release of pro-inflammatory cytokines (IL-1, IL-6, TNF-α), and reducing keratinocyte apoptotic signalling. These mechanisms directly oppose the key pathological processes driving EM. In severe EM variants (SJS/TEN), topical betamethasone has already been reported in clinical use, particularly for ocular complications (PMID 37182731), lending real-world support to this mechanistic rationale.
-
-However, a critical caveat exists: EM itself has been reported as an adverse reaction to betamethasone treatment (PMID 14206262), suggesting a paradoxical relationship. This bidirectional association — where the drug may both treat and occasionally trigger the condition — necessitates careful patient selection and monitoring. The mechanistic link is rated as moderate-to-strong, but the paradoxical induction risk must be factored into any clinical translation.
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Glukokortikoid anti-radang / imunosupresan yang luas (petunjuk dermatologi, reumatik, dan alergik yang luas) |
+| Petunjuk Baru yang Diramalkan | Eritema Multiformis |
+| Skor Ramalan TxGNN | 0.00% (kedudukan 1) |
+| Tahap Bukti | L3 — Kajian pemerhatian dan siri kes tersedia |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 97 |
+| Keputusan yang Disyorkan | Teruskan dengan Pengawal Selia |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-> **Note:** No clinical trials directly studying betamethasone for erythema multiforme were identified. The trials below involve betamethasone or related potent corticosteroids in dermatological or EM-spectrum conditions (SJS/TEN), providing indirect supportive evidence.
+Eritema multiformis (EM) adalah tindak balas hipersensitiviti imun-dipengantarakan yang akut yang menjejaskan kulit dan membran lendir, didorong terutamanya oleh serangan sel T sitotoksik CD8+ pada keratinosit. Keadaan ini wujud pada spektrum klinikal yang merangkumi EM kecil kutaneus yang ringan di satu hujung dan sindrom Stevens-Johnson (SJS) dan nekrolisis epidermal toksik (TEN) yang teruk dan mengancam nyawa di hujung yang lain. Imunopathologi asas — pengaktifan sel T, pelepasan sitokin pro-radang, dan apoptosis keratinosit — telah dicirikan dengan baik.
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Betamethasone, sebagai glukokortikoid sintetik berpotensi tinggi, melaksanakan kesannya dengan menekan pengaktifan sel T, menghalang pelepasan sitokin pro-radang (IL-1, IL-6, TNF-α), dan mengurangkan isyarat apoptosis keratinosit. Mekanisme ini secara langsung menentang proses patologi utama yang mendorong EM. Dalam varian EM yang teruk (SJS/TEN), betamethasone topikal telah dilaporkan dalam penggunaan klinikal, khususnya untuk komplikasi okular (PMID 37182731), memberikan sokongan dunia nyata kepada rasional mekanik ini.
+
+Walau bagaimanapun, kaveat kritikal wujud: EM sendiri telah dilaporkan sebagai tindak balas buruk terhadap rawatan betamethasone (PMID 14206262), yang mencadangkan hubungan paradoks. Perkaitan arah dua ini — di mana ubat boleh merawat dan kadangkala mencetuskan keadaan — memerlukan pemilihan dan pemantauan pesakit yang teliti. Pautan mekanik dinilai sebagai sederhana hingga kuat, tetapi risiko aruhan paradoks mesti difaktorkan ke dalam sebarang penterjemahan klinikal.
+
+---
+
+## Bukti Percubaan Klinikal
+
+> **Nota:** Tiada percubaan klinikal langsung mengkaji betamethasone untuk eritema multiformis telah dikenalpasti. Percubaan di bawah melibatkan betamethasone atau kortikosteroid berpotensi tinggi berkaitan dalam keadaan dermatologi atau spektrum EM (SJS/TEN), memberikan bukti sokongan tidak langsung.
+
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---|---|---|---|---|
-| [NCT03331523](https://clinicaltrials.gov/study/NCT03331523) | Phase 3 | Completed | 643 | Generic calcipotriene/betamethasone dipropionate topical suspension vs Taclonex® for scalp psoriasis. Demonstrates large-scale safety of topical betamethasone in inflammatory skin disease. |
-| [NCT03731091](https://clinicaltrials.gov/study/NCT03731091) | Phase 3 | Completed | 494 | Generic calcipotriene/betamethasone dipropionate foam vs Enstilar® for plaque psoriasis. Confirms topical betamethasone efficacy and tolerability. |
-| [NCT01422434](https://clinicaltrials.gov/study/NCT01422434) | Phase 3 | Completed | 676 | LEO 90105 ointment (calcipotriol + betamethasone dipropionate) vs monotherapy in Japanese psoriasis vulgaris patients. Large-scale safety data in Asian population. |
-| [NCT02319616](https://clinicaltrials.gov/study/NCT02319616) | Phase 1/2 | Withdrawn | 0 | Clobetasol 0.05% ointment for TEN — directly on the EM/SJS/TEN spectrum. Unfortunately withdrawn with no data generated. |
-| [NCT05185258](https://clinicaltrials.gov/study/NCT05185258) | Phase 4 | Active, not recruiting | 12 | Enstilar® (calcipotriol/betamethasone) and NB-UVB therapy investigating residual disease memory in psoriatic skin. Explores corticosteroid effects on immune memory. |
-| [NCT00820950](https://clinicaltrials.gov/study/NCT00820950) | Phase 2 | Completed | 29 | Ruxolitinib phosphate cream dose-escalation study in plaque psoriasis. Provides comparative context for topical anti-inflammatory agents. |
-| [NCT03880357](https://clinicaltrials.gov/study/NCT03880357) | Phase 1 | Completed | 485 | Bioequivalence study of betamethasone-containing product for scalp psoriasis. Large-scale tolerability data. |
-| [NCT03395132](https://clinicaltrials.gov/study/NCT03395132) | Phase 3 | Terminated | 68 | Fusidic acid/betamethasone cream (Fucicort®) in clinically infected atopic dermatitis/eczema. Terminated early but relevant to infected inflammatory skin conditions. |
+| [NCT03331523](https://clinicaltrials.gov/study/NCT03331523) | Fasa 3 | Selesai | 643 | Suspensyen topikal kalsipotriol/betamethasone dipropionat generik berbanding Taclonex® untuk psoriasis kulit kepala. Menunjukkan keselamatan berskala besar betamethasone topikal dalam penyakit kulit radang. |
+| [NCT03731091](https://clinicaltrials.gov/study/NCT03731091) | Fasa 3 | Selesai | 494 | Buih kalsipotriol/betamethasone dipropionat generik berbanding Enstilar® untuk psoriasis plak. Mengesahkan keberkesanan dan tolerabiliti betamethasone topikal. |
+| [NCT01422434](https://clinicaltrials.gov/study/NCT01422434) | Fasa 3 | Selesai | 676 | Salap LEO 90105 (kalsipotriol + betamethasone dipropionat) berbanding monoterapi pada pesakit psoriasis vulgaris Jepun. Data keselamatan berskala besar dalam populasi Asia. |
+| [NCT02319616](https://clinicaltrials.gov/study/NCT02319616) | Fasa 1/2 | Ditarik balik | 0 | Salap klobetasol 0.05% untuk TEN — secara langsung pada spektrum EM/SJS/TEN. Malangnya ditarik balik tanpa data yang dijana. |
+| [NCT05185258](https://clinicaltrials.gov/study/NCT05185258) | Fasa 4 | Aktif, tidak merekrut | 12 | Enstilar® (kalsipotriol/betamethasone) dan terapi NB-UVB menyiasat ingatan penyakit sisa dalam kulit psoriasis. Meneroka kesan kortikosteroid pada ingatan imun. |
+| [NCT00820950](https://clinicaltrials.gov/study/NCT00820950) | Fasa 2 | Selesai | 29 | Kajian eskalasi dos krim fosfat ruksolitinib dalam psoriasis plak. Memberikan konteks perbandingan untuk agen anti-radang topikal. |
+| [NCT03880357](https://clinicaltrials.gov/study/NCT03880357) | Fasa 1 | Selesai | 485 | Kajian biokesetaraan produk yang mengandungi betamethasone untuk psoriasis kulit kepala. Data tolerabiliti berskala besar. |
+| [NCT03395132](https://clinicaltrials.gov/study/NCT03395132) | Fasa 3 | Ditamatkan | 68 | Krim asid fusidik/betamethasone (Fucicort®) dalam dermatitis atopik/ekzema yang dijangkiti secara klinikal. Ditamatkan awal tetapi relevan dengan keadaan kulit radang yang dijangkiti. |
 
 ---
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |---|---|---|---|---|
-| [37182731](https://pubmed.ncbi.nlm.nih.gov/37182731/) | 2023 | Clinical Study / Case Series | Am J Ophthalmol | Topical betamethasone treatment of SJS/TEN with ocular involvement in the acute phase. Demonstrates direct clinical use of betamethasone in the EM-spectrum. |
-| [40500649](https://pubmed.ncbi.nlm.nih.gov/40500649/) | 2025 | Review | Allergol Int | Updates on ocular manifestations and treatment of SJS/TEN. Confirms importance of early topical steroid intervention for ocular complications. |
-| [38795750](https://pubmed.ncbi.nlm.nih.gov/38795750/) | 2024 | Cohort / National Study | Am J Ophthalmol | National survey in Japan on SJS/TEN ocular sequelae incidence and prognostic factors (2016–2018 vs 2005–2007). Evidence of improving prognosis with treatment advances. |
-| [14206262](https://pubmed.ncbi.nlm.nih.gov/14206262/) | 1964 | Case Report (Adverse Event) | Br J Clin Pract | **Critical safety signal:** EM occurring *during* betamethasone treatment for pruritus vulvae and neurodermatitis. Documents paradoxical EM induction. |
-| [1068978](https://pubmed.ncbi.nlm.nih.gov/1068978/) | 1976 | Review | Int Dent J | Corticosteroids in oral mucosal diseases, including betamethasone valerate 0.1 mg for oral EM. Reports efficacy when administered during prodromal phase. |
-| [26297574](https://pubmed.ncbi.nlm.nih.gov/26297574/) | 2015 | Protocol | Trials | RCT protocol for topical clobetasol in TEN treatment. Supports rationale for potent topical corticosteroids in the EM-SJS-TEN spectrum. |
-| [2011350](https://pubmed.ncbi.nlm.nih.gov/2011350/) | 1991 | Open Trial | Oral Surg Oral Med Oral Pathol | Clobetasol propionate in adhesive paste for chronic oral vesiculoerosive diseases, including EM patients. 4 chronic EM patients showed improvement. |
-| [32105227](https://pubmed.ncbi.nlm.nih.gov/32105227/) | 2020 | Case Report | Gen Dent | Fluconazole-induced EM in immunocompetent patient. Provides pathophysiology context and treatment approach for drug-induced EM. |
-| [37854261](https://pubmed.ncbi.nlm.nih.gov/37854261/) | 2023 | Case Report | Clin Case Rep | EM provoked by radiotherapy in a 63-year-old patient. Disseminated erythematous lesions treated with corticosteroid-based approach. |
-| [22082897](https://pubmed.ncbi.nlm.nih.gov/22082897/) | 2011 | Case Report | Intern Med (Tokyo) | Severe obliterative bronchitis associated with SJS. Betamethasone was directly administered as primary treatment for SJS. |
+| [37182731](https://pubmed.ncbi.nlm.nih.gov/37182731/) | 2023 | Kajian Klinikal / Siri Kes | Am J Ophthalmol | Rawatan betamethasone topikal SJS/TEN dengan keterlibatan okular dalam fasa akut. Menunjukkan penggunaan klinikal langsung betamethasone dalam spektrum EM. |
+| [40500649](https://pubmed.ncbi.nlm.nih.gov/40500649/) | 2025 | Ulasan | Allergol Int | Kemas kini tentang manifestasi okular dan rawatan SJS/TEN. Mengesahkan kepentingan intervensi steroid topikal awal untuk komplikasi okular. |
+| [38795750](https://pubmed.ncbi.nlm.nih.gov/38795750/) | 2024 | Kohort / Kajian Nasional | Am J Ophthalmol | Tinjauan nasional di Jepun tentang insiden sekuel okular SJS/TEN dan faktor prognostik (2016–2018 berbanding 2005–2007). Bukti prognosis yang bertambah baik dengan kemajuan rawatan. |
+| [14206262](https://pubmed.ncbi.nlm.nih.gov/14206262/) | 1964 | Laporan Kes (Peristiwa Buruk) | Br J Clin Pract | **Isyarat keselamatan kritikal:** EM berlaku *semasa* rawatan betamethasone untuk pruritus vulvae dan neurodermatitis. Mendokumenkan aruhan EM paradoks. |
+| [1068978](https://pubmed.ncbi.nlm.nih.gov/1068978/) | 1976 | Ulasan | Int Dent J | Kortikosteroid dalam penyakit mukosa mulut, termasuk valerat betamethasone 0.1 mg untuk EM lisan. Melaporkan keberkesanan apabila diberikan semasa fasa prodromal. |
+| [26297574](https://pubmed.ncbi.nlm.nih.gov/26297574/) | 2015 | Protokol | Trials | Protokol RCT untuk klobetasol topikal dalam rawatan TEN. Menyokong rasional untuk kortikosteroid topikal berpotensi dalam spektrum EM-SJS-TEN. |
+| [2011350](https://pubmed.ncbi.nlm.nih.gov/2011350/) | 1991 | Percubaan Terbuka | Oral Surg Oral Med Oral Pathol | Propionat klobetasol dalam pelekat perekat untuk penyakit vesikulerosif mulut kronik, termasuk pesakit EM. 4 pesakit EM kronik menunjukkan peningkatan. |
+| [32105227](https://pubmed.ncbi.nlm.nih.gov/32105227/) | 2020 | Laporan Kes | Gen Dent | EM yang disebabkan flukonazol dalam pesakit imunokompeten. Memberikan konteks patofisiologi dan pendekatan rawatan untuk EM yang disebabkan ubat. |
+| [37854261](https://pubmed.ncbi.nlm.nih.gov/37854261/) | 2023 | Laporan Kes | Clin Case Rep | EM yang dicetuskan oleh radioterapi pada pesakit berusia 63 tahun. Lesi eritematous yang tersebar dirawat dengan pendekatan berasaskan kortikosteroid. |
+| [22082897](https://pubmed.ncbi.nlm.nih.gov/22082897/) | 2011 | Laporan Kes | Intern Med (Tokyo) | Bronkitis obliteratif yang teruk berkaitan dengan SJS. Betamethasone telah ditadbir secara langsung sebagai rawatan utama untuk SJS. |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-> Betamethasone has **97 registered products** and is actively marketed in Malaysia. Detailed license-level data (authorization numbers, product names, dosage forms, and approved indications) was not available in the current data extract. Below is a summary of known status:
+> Betamethasone mempunyai **97 produk berdaftar** dan dipasarkan secara aktif di Malaysia. Data peringkat lesen terperinci (nombor kebenaran, nama produk, bentuk dos, dan petunjuk yang diluluskan) tidak tersedia dalam ekstrak data semasa. Di bawah ialah ringkasan status yang diketahui:
 
-| Item | Content |
+| Item | Kandungan |
 |------|---------|
-| Total Registrations | 97 |
-| Market Status | Marketed |
-| Common Dosage Forms | Topical cream/ointment, injection, oral tablet, eye drops (based on global betamethasone formulations) |
-| Primary Approved Indications | Anti-inflammatory and immunosuppressive conditions (dermatological, rheumatic, allergic, and ophthalmic indications) |
+| Jumlah Pendaftaran | 97 |
+| Status Pasaran | Dipasarkan |
+| Bentuk Dos Biasa | Krim/salap topikal, suntikan, tablet lisan, titisan mata (berdasarkan formulasi betamethasone global) |
+| Petunjuk Diluluskan Utama | Keadaan anti-radang dan imunosupresan (petunjuk dermatologi, reumatik, alergik, dan oftalmik) |
 
 ---
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-> Detailed safety data (key warnings, contraindications, and drug interactions) was not available in the current data extract. Please refer to the package insert for comprehensive safety information.
+> Data keselamatan terperinci (amaran utama, kontraindikasi, dan interaksi ubat) tidak tersedia dalam ekstrak data semasa. Sila rujuk sisipan pakej untuk maklumat keselamatan yang komprehensif.
 
-**Known class-level considerations for potent glucocorticoids:**
-- Prolonged use may cause skin atrophy, striae, telangiectasia (topical), and adrenal suppression (systemic)
-- Immunosuppression increases infection risk
-- **Paradoxical EM induction** has been documented during betamethasone treatment (PMID 14206262) — requires vigilant monitoring
-- Systemic absorption from extensive topical application or occlusive dressings may cause hypothalamic-pituitary-adrenal (HPA) axis suppression
+**Pertimbangan peringkat kelas yang diketahui untuk glukokortikoid berpotensi tinggi:**
+- Penggunaan jangka panjang mungkin menyebabkan atrofi kulit, stria, telangiektasia (topikal), dan penindasan adrenal (sistemik)
+- Imunosupresi meningkatkan risiko jangkitan
+- **Aruhan EM paradoks** telah didokumenkan semasa rawatan betamethasone (PMID 14206262) — memerlukan pemantauan yang teliti
+- Penyerapan sistemik daripada aplikasi topikal yang luas atau pembalut oklusi mungkin menyebabkan penindasan paksi hipotalamus-pituitari-adrenal (HPA)
 
 ---
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Proceed with Guardrails**
+**Keputusan: Teruskan dengan Pengawal Selia**
 
-**Rationale:**
-The mechanistic link between betamethasone's immunosuppressive properties and EM's immune-mediated pathology is moderate-to-strong. Literature evidence directly supports use of betamethasone in the SJS/TEN spectrum (severe EM variants), and corticosteroids are already used off-label for oral and ocular EM manifestations. However, the absence of EM-specific clinical trials and the documented paradoxical EM induction by betamethasone warrant a cautious approach.
+**Rasional:**
+Pautan mekanik antara sifat imunosupresan betamethasone dan patologi EM yang dipengantarakan imun adalah sederhana hingga kuat. Bukti literatur secara langsung menyokong penggunaan betamethasone dalam spektrum SJS/TEN (varian EM yang teruk), dan kortikosteroid sudah digunakan di luar label untuk manifestasi EM lisan dan okular. Walau bagaimanapun, ketiadaan percubaan klinikal khusus EM dan aruhan EM paradoks yang didokumenkan oleh betamethasone memerlukan pendekatan yang berhati-hati.
 
-**To proceed, the following is needed:**
-- **Mechanism of action (MOA) data**: Obtain detailed betamethasone MOA from DrugBank to strengthen mechanistic rationale
-- **Package insert safety data**: Download and parse the full prescribing information from NPRA for key warnings, contraindications, and drug interactions
-- **Targeted literature review**: Systematic review of corticosteroid use specifically in EM minor (non-SJS/TEN) to distinguish evidence from the broader EM-SJS-TEN spectrum
-- **Paradoxical risk assessment**: Formal evaluation of the incidence and risk factors for corticosteroid-induced EM, to develop patient exclusion criteria
-- **Route-of-administration analysis**: Determine which betamethasone formulations (topical, oral, injectable, ophthalmic) are most appropriate for different EM presentations
-- **Prospective observational study design**: Plan a pilot observational study or case registry for betamethasone in moderate-to-severe EM to generate direct clinical evidence
+**Untuk meneruskan, yang berikut diperlukan:**
+- **Data mekanisme tindakan (MOA)**: Peroleh data MOA betamethasone terperinci daripada DrugBank untuk memperkuat rasional mekanik
+- **Data keselamatan sisipan pakej**: Muat turun dan huraikan maklumat preskripsi penuh daripada NPRA untuk amaran utama, kontraindikasi, dan interaksi ubat
+- **Ulasan literatur yang disasarkan**: Ulasan sistematik tentang penggunaan kortikosteroid khususnya dalam EM kecil (bukan SJS/TEN) untuk membezakan bukti daripada spektrum EM-SJS-TEN yang lebih luas
+- **Penilaian risiko paradoks**: Penilaian formal tentang kejadian dan faktor risiko untuk EM yang disebabkan kortikosteroid, untuk membangunkan kriteria pengecualian pesakit
+- **Analisis rute pentadbiran**: Tentukan formulasi betamethasone mana (topikal, lisan, suntikan, oftalmik) yang paling sesuai untuk persembahan EM yang berbeza
+- **Reka bentuk kajian pemerhatian prospektif**: Rancang kajian pemerhatian pelopor atau pendaftaran kes untuk betamethasone dalam EM sederhana hingga teruk untuk menjana bukti klinikal langsung
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

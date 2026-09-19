@@ -29,98 +29,99 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Diclofenac Sodium: Drug Repurposing Evaluation — Awaiting TxGNN Prediction
+# Diclofenac Natrium: Penilaian Penggunaan Semula Ubat — Menanti Ramalan TxGNN
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Diclofenac sodium is a widely used non-steroidal anti-inflammatory drug (NSAID), commonly prescribed for pain and inflammatory conditions. The TxGNN model has **not yet generated predicted new indications** for this drug. The evidence pack currently contains significant data gaps that must be resolved before a repurposing analysis can proceed.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Pain and inflammatory conditions (NSAID — details pending from licence data) |
-| Predicted New Indication | — None (TxGNN prediction not yet available) |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 — No prediction or supporting studies available |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 68 |
-| Recommended Decision | **Hold** |
+Diclofenac natrium adalah ubat anti-inflamasi bukan steroid (NSAID) yang digunakan secara meluas, biasanya diresepkan untuk kesakitan dan keadaan inflamasi. Model TxGNN **belum lagi menghasilkan ramalan indikasi baru** untuk ubat ini. Pakej bukti semasa mengandungi jurang data yang signifikan yang mesti diselesaikan sebelum analisis penggunaan semula dapat diteruskan.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Pantas
 
-Currently, no TxGNN prediction has been generated for Diclofenac Sodium, so a mechanistic plausibility assessment cannot be performed at this stage.
-
-Diclofenac sodium is a well-established NSAID that works primarily by inhibiting cyclooxygenase (COX-1 and COX-2) enzymes, thereby reducing prostaglandin synthesis. This mechanism underlies its anti-inflammatory, analgesic, and antipyretic effects. It is one of the most widely prescribed NSAIDs globally, with 68 registered products in the Malaysian market, reflecting its broad clinical utility across multiple dosage forms and indications.
-
-Once the TxGNN model generates candidate indications, the COX-inhibition mechanism — along with emerging evidence for anti-inflammatory pathways in conditions such as neurodegeneration, certain cancers, and cardiovascular remodelling — could provide a plausible biological rationale for repurposing. However, this analysis is contingent on completing the data gaps identified below.
-
----
-
-## Clinical Trial Evidence
-
-Currently no predicted indication is available; therefore, no targeted clinical trial search has been performed.
+| Item | Kandungan |
+|------|-----------|
+| Indikasi Asal | Kesakitan dan keadaan inflamasi (NSAID — butir tertunda daripada data lesen) |
+| Indikasi Baru yang Diramal | — Tiada (ramalan TxGNN belum tersedia) |
+| Skor Ramalan TxGNN | N/A |
+| Tahap Bukti | L5 — Tiada ramalan atau kajian sokongan tersedia |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 68 |
+| Keputusan Disyorkan | **Tahan** |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no predicted indication is available; therefore, no targeted literature search has been performed.
+Pada masa ini, tiada ramalan TxGNN yang telah dihasilkan untuk Diclofenac Natrium, jadi penilaian kebolehplausibilan mekanik tidak dapat dilakukan pada peringkat ini.
 
----
+Diclofenac natrium adalah NSAID yang sudah terbukti yang berfungsi terutamanya dengan menghambat enzim cyclooxygenase (COX-1 dan COX-2), dengan demikian mengurangkan sintesis prostaglandin. Mekanisme ini mendasari kesan anti-inflamasi, analgesik, dan antipiretiknya. Ia adalah salah satu NSAID yang paling banyak diresepkan di seluruh dunia, dengan 68 produk berdaftar di pasaran Malaysia, mencerminkan penggunaannya yang luas secara klinikal merentas pelbagai bentuk dos dan indikasi.
 
-## Malaysia Market Information
-
-68 registered products were identified via the NPRA database query (2026-03-27). However, detailed licence-level information (authorisation numbers, product names, dosage forms, and approved indication text) was **not populated** in the evidence pack.
-
-> **Action Required:** Re-query the NPRA database to retrieve full licence details for all 68 registrations and populate the `licenses` array.
+Sebaik sahaja model TxGNN menghasilkan indikasi calon, mekanisme perencatan COX — bersama-sama dengan bukti terbaru mengenai laluan-laluan anti-inflamasi dalam keadaan seperti degenerasi saraf, kanser tertentu, dan pengubahan kardiovaskular — boleh memberikan alasan biologi yang munasabah untuk penggunaan semula. Walau bagaimanapun, analisis ini bergantung kepada penyelesaian lengkap jurang data yang dikenal pasti di bawah.
 
 ---
 
-## Safety Considerations
+## Bukti Percubaan Klinikal
 
-> Please refer to the package insert for safety information. Key warnings, contraindications, and drug–drug interaction data were not available in the current evidence pack.
-
-**Known general NSAID class concerns** (for reference only — not sourced from this evidence pack):
-- Gastrointestinal bleeding and ulceration risk
-- Cardiovascular thrombotic events (especially with prolonged use)
-- Renal impairment
-- Hypersensitivity reactions (including aspirin-sensitive asthma)
+Pada masa ini tiada indikasi yang diramal tersedia; oleh itu, tiada pencarian percubaan klinikal yang disasarkan telah dilakukan.
 
 ---
 
-## Data Gaps Requiring Resolution
+## Bukti Literatur
 
-The following blocking and high-severity gaps were identified:
-
-| ID | Category | Item | Severity | Impact | Remediation |
-|----|----------|------|----------|--------|-------------|
-| DG001 | Drug Level | TFDA Package Insert Warnings / Contraindications | **Blocking** | Cannot enter S1 safety preliminary assessment | Download and parse package insert PDF from TFDA website |
-| DG002 | Drug Level | Mechanism of Action (MOA) | High | Affects mechanistic relevance analysis | Query DrugBank API (DrugBank ID not yet mapped) |
-| — | Drug Level | DrugBank ID | High | Required for MOA, DDI, and toxicity data retrieval | Map "DICLOFENAC SODIUM" → DrugBank (likely **DB00586**) |
-| — | Drug Level | Licence details (68 records) | Medium | Cannot display approved indications or dosage forms | Re-query NPRA with full field extraction |
-| — | Prediction | TxGNN predicted indications | **Blocking** | No repurposing candidates to evaluate | Run TxGNN KG + DL prediction pipeline |
+Pada masa ini tiada indikasi yang diramal tersedia; oleh itu, tiada pencarian literatur yang disasarkan telah dilakukan.
 
 ---
 
-## Conclusion and Next Steps
+## Maklumat Pasaran Malaysia
 
-**Decision: Hold**
+68 produk berdaftar telah dikenal pasti melalui pertanyaan pangkalan data NPRA (2026-03-27). Walau bagaimanapun, maklumat terperinci di peringkat lesen (nombor kebenaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan) **tidak dipenuhi** dalam pakej bukti.
 
-**Rationale:**
-The evidence pack is substantially incomplete — no TxGNN prediction has been generated, the DrugBank ID is unmapped, and all safety fields remain empty. A meaningful repurposing evaluation cannot be conducted until these foundational data gaps are resolved.
+> **Tindakan Diperlukan:** Ulangi pertanyaan pangkalan data NPRA untuk mendapatkan butir lesen lengkap bagi semua 68 pendaftaran dan isi tatasusunan `licenses`.
 
-**To proceed, the following is needed:**
-1. **Map DrugBank ID** — Diclofenac sodium is expected to correspond to **DB00586**; confirm and populate `drugbank_id`
-2. **Run TxGNN prediction pipeline** — Execute both KG and DL prediction methods to generate candidate indications
-3. **Retrieve NPRA licence details** — Re-query to populate authorisation numbers, product names, dosage forms, and approved indication text for the 68 registrations
-4. **Obtain package insert data** — Download and parse the package insert PDF to extract warnings, contraindications, and DDI information (DG001 — Blocking)
-5. **Query DrugBank for MOA** — Once DrugBank ID is confirmed, retrieve mechanism of action, pharmacodynamics, and toxicity data (DG002)
-6. **Re-generate evidence pack** — After resolving the above gaps, regenerate the evidence pack and re-run this evaluation
+---
+
+## Pertimbangan Keselamatan
+
+> Sila rujuk sisipan pakej untuk maklumat keselamatan. Data amaran utama, kontraindikasi, dan interaksi ubat–ubat tidak tersedia dalam pakej bukti semasa.
+
+**Kebimbangan kelas NSAID umum yang telah diketahui** (untuk rujukan sahaja — bukan bersumber daripada pakej bukti ini):
+- Risiko pendarahan gastrointestinal dan ulserasi
+- Peristiwa trombotik kardiovaskular (terutama dengan penggunaan jangka panjang)
+- Kemerosotan fungsi renal
+- Tindak balas hipersensitiviti (termasuk asma sensitif aspirin)
+
+---
+
+## Jurang Data yang Memerlukan Penyelesaian
+
+Jurang yang menghalang dan berseveriti tinggi berikut telah dikenal pasti:
+
+| ID | Kategori | Item | Keseriusan | Kesan | Remediasi |
+|----|----------|------|----------|---------|-------------|
+| DG001 | Peringkat Ubat | Amaran Sisipan Pakej TFDA / Kontraindikasi | **Menghalang** | Tidak dapat memasuki penilaian keselamatan awal S1 | Muat turun dan huraikan PDF sisipan pakej daripada laman web TFDA |
+| DG002 | Peringkat Ubat | Mekanisme Tindakan (MOA) | Tinggi | Mempengaruhi analisis relevansi mekanik | Soal API DrugBank (ID DrugBank belum dipetakan) |
+| — | Peringkat Ubat | ID DrugBank | Tinggi | Diperlukan untuk pengambilan data MOA, DDI, dan toksisiti | Petakan "DICLOFENAC SODIUM" → DrugBank (mungkin **DB00586**) |
+| — | Peringkat Ubat | Butir lesen (68 rekod) | Sederhana | Tidak dapat memaparkan indikasi yang diluluskan atau bentuk dos | Ulangi pertanyaan NPRA dengan pengekstrakan medan penuh |
+| — | Ramalan | Indikasi yang diramal TxGNN | **Menghalang** | Tiada calon penggunaan semula untuk dinilai | Jalankan saluran ramalan KG + DL TxGNN |
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Alasan:**
+Pakej bukti tidak lengkap secara substansial — tiada ramalan TxGNN yang telah dihasilkan, ID DrugBank tidak dipetakan, dan semua medan keselamatan tetap kosong. Penilaian penggunaan semula yang bermakna tidak dapat dijalankan sehingga jurang data asas ini diselesaikan.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+1. **Petakan ID DrugBank** — Diclofenac natrium dijangka bersesuaian dengan **DB00586**; sahkan dan isi `drugbank_id`
+2. **Jalankan saluran ramalan TxGNN** — Laksanakan kedua-dua kaedah ramalan KG dan DL untuk menghasilkan indikasi calon
+3. **Ambil butir lesen NPRA** — Ulangi pertanyaan untuk mengisi nombor kebenaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan bagi 68 pendaftaran
+4. **Dapatkan data sisipan pakej** — Muat turun dan huraikan PDF sisipan pakej untuk mengekstrak amaran, kontraindikasi, dan maklumat DDI (DG001 — Menghalang)
+5. **Soal DrugBank untuk MOA** — Sebaik sahaja ID DrugBank disahkan, ambil mekanisme tindakan, farmakodinamik, dan data toksisiti (DG002)
+6. **Janakan semula pakej bukti** — Selepas menyelesaikan jurang di atas, janakan semula pakej bukti dan jalankan semula penilaian ini
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

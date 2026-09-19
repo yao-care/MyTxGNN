@@ -29,89 +29,90 @@ Tahap bukti: **L5** | Indikasi diramal: **6**
 
 </div>
 
-# Zidovudine: From HIV/AIDS to Simian Immunodeficiency Virus Infection
+# Zidovudine: Daripada HIV/AIDS kepada Jangkitan Virus Simian Immunodefisiensi
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Zidovudine (AZT, DB00495) is the first antiretroviral nucleoside reverse transcriptase inhibitor (NRTI) approved for HIV-1 infection.
-The TxGNN model's top-ranked prediction is **Simian Immunodeficiency Virus (SIV) Infection**, a lentiviral disease of non-human primates, not a human indication.
-This "prediction" is supported only by **20 preclinical/animal-model publications** and **zero human clinical trials**, indicating it reflects the drug's known antiretroviral mechanism rather than a genuine new human indication.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | HIV-1 infection (antiretroviral therapy) — well-established global indication; Malaysia-specific license indication text was not captured in this evidence pack (all sampled license fields are blank) |
-| Predicted New Indication | Simian Immunodeficiency Virus (SIV) Infection — a veterinary/animal-model disease, not a human clinical indication |
-| TxGNN Prediction Score | 99.96% |
-| Evidence Level | L4 (preclinical/animal-model studies only; no clinical trials) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 9 |
-| Recommended Decision | **Hold** |
+Zidovudine (AZT, DB00495) ialah penghambat transkriptase balik nukleosida (NRTI) pertama yang diluluskan untuk jangkitan HIV-1.
+Ramalan teratas model TxGNN ialah **Jangkitan Virus Simian Immunodefisiensi (SIV)**, penyakit lentivirus primata bukan manusia, bukan indikasi manusia.
+"Ramalan" ini disokong hanya oleh **20 penerbitan praklinikal/model hewan** dan **sifar percubaan klinikal manusia**, menunjukkan ia mencerminkan mekanisme antiviral ubat yang diketahui daripada indikasi manusia baru yang sebenarnya.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Pantas
 
-Currently, detailed mechanism of action data is not available (flagged as a High-severity data gap, DG002). Based on known pharmacology, zidovudine is a thymidine-analogue NRTI that is phosphorylated intracellularly and incorporated into viral DNA by reverse transcriptase, causing chain termination — the mechanism underlying its approved use against HIV-1.
-
-SIV is a lentivirus closely related to HIV that infects non-human primates and shares a homologous reverse transcriptase target, which is why zidovudine shows *in vitro* and *in vivo* antiviral activity in macaque models. However, this mechanistic overlap does not translate into a human "new indication": SIV infection is a disease of monkeys, used exclusively as a preclinical research model to study antiretroviral prophylaxis and pathogenesis, not a condition that occurs in humans.
-
-The evidence pack's own repurposing rationale states this explicitly: *"SIV is a primate lentivirus, mechanistically related to HIV via shared reverse-transcriptase inhibition, but SIV infection is a non-human primate disease model, not a human clinical indication — it is used only to validate AZT's antiviral mechanism and pharmacological extrapolation to HIV/AIDS."* In other words, the TxGNN score here is a high-confidence signal of **mechanistic similarity**, not of **clinical repurposing opportunity**.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered (this candidate has no human trial data — all supporting evidence is from non-human primate models).
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Jangkitan HIV-1 (terapi antiretroviral) — indikasi global yang mantap; teks indikasi lesen khusus Malaysia tidak ditangkap dalam paket bukti ini (semua sampel medan lesen adalah kosong) |
+| Indikasi Baru Yang Diramalkan | Jangkitan Virus Simian Immunodefisiensi (SIV) — penyakit model hewan, bukan indikasi klinikal manusia |
+| Skor Ramalan TxGNN | 99.96% |
+| Tahap Bukti | L4 (kajian praklinikal/model hewan sahaja; tiada percubaan klinikal) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 9 |
+| Keputusan yang Disyorkan | **Tahan** |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Wajar?
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [1489181](https://pubmed.ncbi.nlm.nih.gov/1489181/) | 1992 | Animal Model | Antimicrob Agents Chemother | Oral AZT prevented SIV infection in infant rhesus macaques when given prophylactically |
-| [19240457](https://pubmed.ncbi.nlm.nih.gov/19240457/) | 2009 | Animal Model | AIDS | Post-exposure prophylaxis with zidovudine + lamivudine + indinavir prevented vaginal SIV transmission in macaques |
-| [7848683](https://pubmed.ncbi.nlm.nih.gov/7848683/) | 1994 | Animal Model | AIDS Res Hum Retroviruses | AZT altered kinetics of viral load and CD4/CD8 changes during acute SIV infection in macaques |
-| [22713337](https://pubmed.ncbi.nlm.nih.gov/22713337/) | 2012 | Animal Model | Antimicrob Agents Chemother | Comparison of a novel NRTI vs. AZT-class agents against SIV in vitro and in vivo |
-| [11689641](https://pubmed.ncbi.nlm.nih.gov/11689641/) | 2001 | Animal Model | J Virol | Bone marrow hematopoiesis defects persisted in SHIV-infected macaques despite HAART (incl. AZT) viral suppression |
-| [7695293](https://pubmed.ncbi.nlm.nih.gov/7695293/) | 1995 | Animal Model | Antimicrob Agents Chemother | Immediate AZT treatment protected SIV-infected newborn macaques from rapid-onset AIDS |
-| [7797947](https://pubmed.ncbi.nlm.nih.gov/7797947/) | 1995 | Animal Model | J Infect Dis | AZT prolonged survival and reduced CNS viral load in perinatally SIV-infected rhesus macaques |
-| [8101673](https://pubmed.ncbi.nlm.nih.gov/8101673/) | 1993 | Animal Model | Virology | Characterized acute HIV-1 infection susceptibility in pigtail macaques (SIV-related model) |
-| [16973590](https://pubmed.ncbi.nlm.nih.gov/16973590/) | 2006 | Animal Model | J Virol | Quadruple antiretroviral therapy (incl. AZT) produced rapid viral decay in SIV-infected macaques |
-| [9021180](https://pubmed.ncbi.nlm.nih.gov/9021180/) | 1997 | Animal Model (resistance) | Antimicrob Agents Chemother | An AZT-resistant SIV mutant (Q151M in reverse transcriptase) still caused AIDS in newborn macaques |
+Pada masa ini, data mekanisme tindakan yang terperinci tidak tersedia (ditanda sebagai jurang data dengan keparahan tinggi, DG002). Berdasarkan farmakologi yang diketahui, zidovudine ialah NRTI analog timidin yang difosforilasi dalam sel dan digabungkan ke dalam DNA viral oleh transkriptase balik, menyebabkan penamatan rantai — mekanisme yang mendasari penggunaannya yang diluluskan terhadap HIV-1.
 
-*Note: All 20 available publications for this candidate are animal-model or in vitro studies; none are human RCTs, reviews, or case reports.*
+SIV ialah lentivirus yang berkait rapat dengan HIV yang menjangkiti primata bukan manusia dan berkongsi sasaran transkriptase balik yang homolog, itulah sebabnya zidovudine menunjukkan aktiviti antiviral *in vitro* dan *in vivo* dalam model makak. Namun, pertindihan mekanisme ini tidak diterjemahkan kepada "indikasi baru" manusia: jangkitan SIV ialah penyakit monyet, digunakan secara eksklusif sebagai model penyelidikan praklinikal untuk mengkaji profilaksis dan patogenesis antiretroviral, bukan keadaan yang berlaku pada manusia.
+
+Rasional penggunaan semula ubat paket bukti sendiri menyatakan ini dengan jelas: *"SIV ialah lentivirus primata, berkait mekanisme dengan HIV melalui perencatan transkriptase balik bersama, tetapi jangkitan SIV ialah model penyakit primata bukan manusia, bukan indikasi klinikal manusia — ia hanya digunakan untuk mengesahkan mekanisme antiviral AZT dan ekstrapolasi farmakologis kepada HIV/AIDS."* Dalam erti kata lain, skor TxGNN di sini ialah isyarat keyakinan tinggi terhadap **persamaan mekanisme**, bukan **peluang penggunaan semula klinikal**.
 
 ---
 
-## Malaysia Market Information
+## Bukti Percubaan Klinikal
 
-Zidovudine has 9 registered licenses in the Malaysia (NPRA) market status database, but the detailed license fields (license number, product name, dosage form, manufacturer, approved indication text) were not populated in this evidence pack — all sampled entries are blank. This is a data gap that should be remediated by pulling the NPRA product register directly before any regulatory decision is finalized.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information. Key warnings, contraindications, and drug-interaction data were not available in this evidence pack (flagged as a **Blocking** data gap, DG001 — TFDA/NPRA label warnings and contraindications must be sourced before this candidate can enter safety review, S1).
+Pada masa ini tiada percubaan klinikal yang berkaitan didaftarkan (kandidat ini tidak mempunyai data percubaan manusia — semua bukti sokongan adalah daripada model primata bukan manusia).
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Kesusasteraan
 
-**Decision: Hold**
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|------|------|--------|-----------|
+| [1489181](https://pubmed.ncbi.nlm.nih.gov/1489181/) | 1992 | Model Hewan | Antimicrob Agents Chemother | AZT oral mencegah jangkitan SIV dalam makak rhesus bayi apabila diberikan sebagai profilaksis |
+| [19240457](https://pubmed.ncbi.nlm.nih.gov/19240457/) | 2009 | Model Hewan | AIDS | Profilaksis pasca-pemaparan dengan zidovudine + lamivudine + indinavir mencegah penghantaran SIV secara vaginal dalam makak |
+| [7848683](https://pubmed.ncbi.nlm.nih.gov/7848683/) | 1994 | Model Hewan | AIDS Res Hum Retroviruses | AZT mengubah kinetik beban viral dan perubahan CD4/CD8 semasa jangkitan SIV akut dalam makak |
+| [22713337](https://pubmed.ncbi.nlm.nih.gov/22713337/) | 2012 | Model Hewan | Antimicrob Agents Chemother | Perbandingan NRTI baru vs. agen jenis AZT terhadap SIV in vitro dan in vivo |
+| [11689641](https://pubmed.ncbi.nlm.nih.gov/11689641/) | 2001 | Model Hewan | J Virol | Kecacatan hematopoiesis sumsum tulang terus berlanjutan dalam makak yang dijangkiti SHIV walaupun terdapat pemampatan viral melalui HAART (termasuk AZT) |
+| [7695293](https://pubmed.ncbi.nlm.nih.gov/7695293/) | 1995 | Model Hewan | Antimicrob Agents Chemother | Rawatan AZT segera melindungi makak bayi yang dijangkiti SIV daripada AIDS yang berkembang pesat |
+| [7797947](https://pubmed.ncbi.nlm.nih.gov/7797947/) | 1995 | Model Hewan | J Infect Dis | AZT mempanjangkan kesintasan dan mengurangkan beban viral SSP dalam makak rhesus yang dijangkiti SIV secara perinatal |
+| [8101673](https://pubmed.ncbi.nlm.nih.gov/8101673/) | 1993 | Model Hewan | Virology | Mencirikan kerentanan jangkitan HIV-1 akut dalam makak pigtail (model berkaitan SIV) |
+| [16973590](https://pubmed.ncbi.nlm.nih.gov/16973590/) | 2006 | Model Hewan | J Virol | Terapi antiretroviral empat ganda (termasuk AZT) menghasilkan peluruhan viral yang cepat dalam makak yang dijangkiti SIV |
+| [9021180](https://pubmed.ncbi.nlm.nih.gov/9021180/) | 1997 | Model Hewan (rintangan) | Antimicrob Agents Chemother | Mutant SIV yang resisten terhadap AZT (Q151M dalam transkriptase balik) masih menyebabkan AIDS dalam makak bayi |
 
-**Rationale:**
-The top-ranked TxGNN prediction (SIV infection) is not a human disease and cannot be pursued as a repurposing candidate — it reflects mechanistic similarity between HIV and SIV reverse transcriptase, not a clinical opportunity. More broadly, across all 6 predictions in this evidence pack, none represent an actionable, novel human indication: two (rank 3–4: neurodevelopmental disorder, obsolete hyperlipidemia term) have zero supporting evidence and are likely algorithmic noise; two (rank 1–2: SIV, FIV/FeLV) are veterinary disease models; and the two with strong human clinical evidence (rank 5: AIDS-related complex; rank 6: congenital/perinatal HIV transmission) are not true "repurposing" — they fall within zidovudine's already-approved HIV/AIDS label (e.g., the PACTG 076 mother-to-child transmission regimen).
+*Catatan: Semua 20 penerbitan yang tersedia untuk kandidat ini ialah kajian model hewan atau in vitro; tiada RCT manusia, tinjauan, atau laporan kes.*
 
-**To proceed, the following is needed:**
-- Resolve Blocking data gap DG001: obtain TFDA/NPRA label warnings and contraindications
-- Resolve High-severity data gap DG002: obtain confirmed MOA data from DrugBank API
-- Complete Malaysia (NPRA) license records (license numbers, product names, approved indication text) for the 9 registered products
-- If continuing this repurposing pipeline for zidovudine, re-screen the candidate list to exclude non-human disease terms and diseases already within the approved label, so any remaining candidates represent genuine novel human indications
+---
+
+## Maklumat Pasaran Malaysia
+
+Zidovudine mempunyai 9 lesen berdaftar dalam pangkalan data status pasaran Malaysia (NPRA), tetapi medan lesen terperinci (nombor lesen, nama produk, bentuk dos, pengilang, teks indikasi yang diluluskan) tidak diisi dalam paket bukti ini — semua sampel kemasukan adalah kosong. Ini ialah jurang data yang harus diperbaiki dengan mengambil daftar produk NPRA secara langsung sebelum sebarang keputusan kawal selia dimuktamadkan.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan paket untuk maklumat keselamatan. Data peringatan utama, kontraindikasi, dan interaksi ubat tidak tersedia dalam paket bukti ini (ditanda sebagai jurang data *Menghalang*, DG001 — amaran dan kontraindikasi label TFDA/NPRA mesti bersumber sebelum kandidat ini boleh memasuki tinjauan keselamatan, S1).
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Alasan:**
+Ramalan teratas TxGNN (jangkitan SIV) bukan penyakit manusia dan tidak boleh diikuti sebagai kandidat penggunaan semula — ia mencerminkan persamaan mekanisme antara transkriptase balik HIV dan SIV, bukan peluang klinikal. Secara lebih luas, merentas semua 6 ramalan dalam paket bukti ini, tiada yang mewakili indikasi manusia baru yang boleh diambil tindakan: dua (pangkat 3–4: gangguan neurodevelopmental, istilah hiperlipidemia yang sudah ketinggalan zaman) tidak mempunyai bukti sokongan dan mungkin derau algoritma; dua (pangkat 1–2: SIV, FIV/FeLV) ialah model penyakit hewan; dan dua dengan bukti klinikal manusia yang kuat (pangkat 5: kompleks berkaitan AIDS; pangkat 6: penghantaran jangkitan HIV kongenital/perinatal) bukan "penggunaan semula" yang sebenarnya — ia jatuh dalam label HIV/AIDS yang telah diluluskan zidovudine (contohnya, rejimen PACTG 076 untuk penghantaran ibu kepada anak).
+
+**Untuk meneruskan, berikut adalah yang diperlukan:**
+- Selesaikan jurang data Menghalang DG001: dapatkan amaran label TFDA/NPRA dan kontraindikasi
+- Selesaikan jurang data keparahan tinggi DG002: dapatkan data MOA yang disahkan daripada API DrugBank
+- Lengkapkan rekod lesen Malaysia (NPRA) (nombor lesen, nama produk, teks indikasi yang diluluskan) untuk 9 produk berdaftar
+- Jika meneruskan saluran penggunaan semula ubat ini untuk zidovudine, skrin semula senarai kandidat untuk mengecualikan istilah penyakit bukan manusia dan penyakit yang sudah berada dalam label yang diluluskan, supaya mana-mana kandidat baki mewakili indikasi manusia baru yang tulin
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

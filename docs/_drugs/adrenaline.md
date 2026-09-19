@@ -29,83 +29,84 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Adrenaline (Epinephrine): Drug Profile — TxGNN Prediction Pending
+# Adrenalin (Epinefrin): Profil Ubat — Ramalan Ubat Berulang TxGNN Tergantung
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Adrenaline (Epinephrine) is a well-established catecholamine used in emergency medicine, most notably for anaphylaxis, cardiac arrest, and severe bronchospasm.
-**No TxGNN drug repurposing predictions are currently available** for this candidate — the prediction pipeline has not yet been completed, and critical data gaps remain unresolved.
-This report documents the current regulatory status in Malaysia and outlines the steps required before a repurposing evaluation can proceed.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Not populated in current Evidence Pack |
-| Predicted New Indication | No prediction available |
-| TxGNN Prediction Score | — |
-| Evidence Level | L5 — Model prediction not yet run; no supporting studies in pack |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 17 |
-| Recommended Decision | **Hold** |
+Adrenalin (Epinefrin) adalah katekolamin yang telah terbukti digunakan dalam perubatan kecemasan, terutamanya untuk anafilaksis, henti jantung, dan bronkospasma teruk.
+**Tiada ramalan ubat berulang TxGNN tersedia** untuk calon ini — saluran ramalan belum selesai, dan jurang data kritikal masih tidak dapat diselesaikan.
+Laporan ini mendokumentasikan status kawal selia semasa di Malaysia dan menggariskan langkah-langkah yang diperlukan sebelum penilaian ubat berulang dapat diteruskan.
 
 ---
 
-## Why Is a Prediction Not Yet Available?
+## Gambaran Pantas
 
-The `predicted_indications` array in the current Evidence Pack is empty. Two upstream data gaps are blocking the repurposing evaluation:
-
-- **DG001 (Blocking)** — Package insert warnings and contraindications have not been retrieved from the regulatory authority. Without this, the safety pre-screening step (S1) cannot be completed.
-- **DG002 (High)** — Mechanism of action (MOA) data has not been loaded from DrugBank. This prevents mechanistic plausibility analysis for any predicted indication.
-
-From established pharmacology, Adrenaline acts as a non-selective adrenergic agonist at α₁, α₂, β₁, and β₂ receptors, producing vasoconstriction, bronchodilation, positive chronotropy, and inotropic effects. Its classical indications include anaphylaxis, pulseless cardiac arrest, severe asthma, and croup. Whether TxGNN identifies novel repurposing opportunities outside these established uses remains to be determined once the prediction pipeline is executed with complete input data.
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Tidak diisi dalam Pakej Bukti semasa |
+| Petunjuk Baru yang Diramalkan | Tiada ramalan tersedia |
+| Skor Ramalan TxGNN | — |
+| Tahap Bukti | L5 — Ramalan model belum dijalankan; tiada kajian sokongan dalam pakej |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 17 |
+| Keputusan yang Disyorkan | **Tungguh** |
 
 ---
 
-## Malaysia Market Information
+## Mengapa Ramalan Belum Tersedia?
 
-17 active registrations were identified in the NPRA database for Adrenaline (Epinephrine). However, individual product details were not populated in the current Evidence Pack and require a follow-up data retrieval step.
+Tatasusunan `predicted_indications` dalam Pakej Bukti semasa adalah kosong. Dua jurang data hulu menyekat penilaian ubat berulang:
 
-| Authorisation Number | Product Name | Dosage Form | Approved Indication |
-|---------------------|-------------|-------------|---------------------|
+- **DG001 (Menyekat)** — Amaran sisipan pakej dan kontraindikasi belum diambil daripada pihak berkuasa kawal selia. Tanpa ini, langkah pra-saringan keselamatan (S1) tidak dapat diselesaikan.
+- **DG002 (Tinggi)** — Data mekanisme tindakan (MOA) belum dimuatkan daripada DrugBank. Ini menghalang analisis kebolehpercayaan mekanik untuk sebarang petunjuk yang diramalkan.
+
+Daripada farmakoloji yang ditetapkan, Adrenalin bertindak sebagai agonis adrenergik bukan-pilih pada reseptor α₁, α₂, β₁, dan β₂, menghasilkan vasokonstriksi, bronkodilatasi, kronotrpi positif, dan kesan inotropik. Petunjuknya yang klasikal termasuk anafilaksis, henti jantung tanpa denyut nadi, asma teruk, dan croup. Sama ada TxGNN mengenalpasti peluang ubat berulang yang baru di luar penggunaan yang telah ditetapkan ini tetap akan ditentukan setelah saluran ramalan dilaksanakan dengan data input yang lengkap.
+
+---
+
+## Maklumat Pasaran Malaysia
+
+17 pendaftaran aktif telah dikenalpasti dalam pangkalan data NPRA untuk Adrenalin (Epinefrin). Walau bagaimanapun, butiran produk individu tidak diisi dalam Pakej Bukti semasa dan memerlukan langkah pengambilan data susulan.
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjuk yang Diluluskan |
+|-----------------|------------|-----------|----------------------|
 | — | — | — | — |
 | — | — | — | — |
 | — | — | — | — |
 | — | — | — | — |
 | — | — | — | — |
 
-> **Note**: 17 records are confirmed in the NPRA registry. Full product details (licence numbers, brand names, dosage forms, approved indication text) must be retrieved from the NPRA database to complete this section.
+> **Nota**: 17 rekod disahkan dalam daftar NPRA. Butiran produk lengkap (nombor lesen, nama jenama, bentuk dos, teks petunjuk yang diluluskan) mesti diambil daripada pangkalan data NPRA untuk melengkapkan bahagian ini.
 
 ---
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-> Please refer to the package insert for safety information.
+> Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-Safety data for Adrenaline is not available in the current Evidence Pack (Data Gap DG001, severity: **Blocking**). No key warnings, contraindications, or drug–drug interaction data have been populated. This is the highest-priority remediation item before any repurposing evaluation can proceed.
-
----
-
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The Evidence Pack for Adrenaline is incomplete at a foundational level — no TxGNN predictions have been generated, MOA data is absent, and safety data has not been retrieved. A Hold decision is required until the blocking and high-severity data gaps are resolved.
-
-**To proceed, the following is needed:**
-
-- **[Blocking]** Download and parse the NPRA/TFDA package insert PDF to extract warnings, contraindications, and special population data (remediation for DG001)
-- **[High]** Query the DrugBank API to retrieve MOA, pharmacodynamics, and toxicity data for Adrenaline (remediation for DG002)
-- Retrieve full licence detail records for the 17 confirmed NPRA registrations (product names, dosage forms, approved indication text)
-- Re-run the TxGNN prediction pipeline for Adrenaline once input data is complete, to generate `predicted_indications`
-- Re-generate the Evidence Pack and proceed to full evaluation once all data gaps are resolved
+Data keselamatan untuk Adrenalin tidak tersedia dalam Pakej Bukti semasa (Jurang Data DG001, keterukan: **Menyekat**). Tiada amaran utama, kontraindikasi, atau data interaksi ubat-ubat telah diisi. Ini adalah item pemulihan keutamaan tertinggi sebelum sebarang penilaian ubat berulang dapat diteruskan.
 
 ---
 
-> ⚠️ *This report is for research reference only and does not constitute medical advice. Any drug repurposing candidate identified by TxGNN requires clinical validation before application.*
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tungguh**
+
+**Rasional:**
+Pakej Bukti untuk Adrenalin tidak lengkap pada tahap asas — tiada ramalan TxGNN telah dijana, data MOA hilang, dan data keselamatan belum diambil. Keputusan Tungguh diperlukan sehingga jurang data yang menyekat dan berseveriti tinggi diselesaikan.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+
+- **[Menyekat]** Muat turun dan huraikan PDF sisipan pakej NPRA/TFDA untuk mengekstrak amaran, kontraindikasi, dan data populasi khas (pemulihan untuk DG001)
+- **[Tinggi]** Soal API DrugBank untuk mendapatkan data MOA, farmakodinamik, dan ketoksikan untuk Adrenalin (pemulihan untuk DG002)
+- Ambil rekod butiran lesen penuh untuk 17 pendaftaran NPRA yang disahkan (nama produk, bentuk dos, teks petunjuk yang diluluskan)
+- Jalankan semula saluran ramalan TxGNN untuk Adrenalin setelah data input lengkap, untuk menjana `predicted_indications`
+- Janakan semula Pakej Bukti dan teruskan ke penilaian penuh setelah semua jurang data diselesaikan
+
+---
+
+> ⚠️ *Laporan ini adalah untuk rujukan penyelidikan sahaja dan tidak membentuk nasihat perubatan. Sebarang calon ubat berulang yang dikenalpasti oleh TxGNN memerlukan pengesahan klinikal sebelum aplikasi.*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

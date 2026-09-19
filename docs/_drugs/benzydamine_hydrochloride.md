@@ -29,67 +29,68 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Benzydamine Hydrochloride: Drug Repurposing Evaluation
+# Benzydamine Hydrochloride: Penilaian Penggunaan Semula Ubat
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Benzydamine hydrochloride is a locally-acting non-steroidal anti-inflammatory drug (NSAID) with analgesic and local anaesthetic properties, commonly used for inflammatory conditions of the mouth and throat.
-Currently, the TxGNN model has **not generated any predicted new indications** for this drug, and critical data gaps remain in mechanism of action, safety profile, and regulatory details.
+Benzydamine hydrochloride adalah ubat anti-radang bukan steroid (NSAID) yang bertindak setempat dengan sifat analgesik dan anestesia tempatan, yang biasanya digunakan untuk keadaan radang mulut dan tekak.
+Pada masa ini, model TxGNN **tidak telah menghasilkan sebarang petunjuk petunjuk baru** untuk ubat ini, dan jurang data penting kekal dalam mekanisme tindakan, profil keselamatan, dan butiran kawal selia.
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Not available (registration data incomplete) |
-| Predicted New Indication | None (no TxGNN predictions available) |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 — No predictions or supporting studies |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 20 |
-| Recommended Decision | **Hold** |
+| Petunjuk Asal | Tidak tersedia (data pendaftaran tidak lengkap) |
+| Petunjuk Baru Yang Diramalkan | Tiada (tiada ramalan TxGNN tersedia) |
+| Skor Ramalan TxGNN | N/A |
+| Tahap Bukti | L5 — Tiada ramalan atau kajian sokongan |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 20 |
+| Keputusan Disyorkan | **Tahan** |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data is not available from the evidence pack. Based on publicly known information, benzydamine hydrochloride is a locally-acting NSAID belonging to the indazole class. It exhibits anti-inflammatory, analgesic, and local anaesthetic activity, and is primarily used topically for conditions such as pharyngitis, stomatitis, and other inflammatory conditions of the oropharyngeal cavity.
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia dari pak bukti. Berdasarkan maklumat yang diketahui umum, benzydamine hydrochloride adalah NSAID yang bertindak setempat daripada kelas indazole. Ia menunjukkan aktiviti anti-radang, analgesik, dan anestesia tempatan, dan digunakan terutamanya secara topikal untuk keadaan seperti faringitis, stomatitis, dan keadaan radang lain rongga orofaring.
 
-Because the TxGNN model has not produced any predicted new indications for benzydamine hydrochloride, a mechanistic plausibility assessment cannot be performed at this time. The absence of predictions may be due to the drug's predominantly local (non-systemic) mechanism of action, limited representation in the knowledge graph, or insufficient mapping data (the DrugBank ID was not resolved in the evidence pack).
+Kerana model TxGNN belum menghasilkan sebarang petunjuk baru yang diramalkan untuk benzydamine hydrochloride, penilaian kebolehmungkinan mekanistik tidak boleh dilakukan pada masa ini. Ketiadaan ramalan mungkin disebabkan oleh mekanisme tindakan ubat yang predominan setempat (bukan sistemik), perwakilan terhad dalam graf pengetahuan, atau data pemetaan yang tidak mencukupi (ID DrugBank tidak diselesaikan dalam pak bukti).
 
-Before any repurposing evaluation can proceed, the DrugBank mapping must be completed, the mechanism of action confirmed, and the TxGNN prediction pipeline re-run with corrected inputs.
+Sebelum sebarang penilaian penggunaan semula boleh diteruskan, pemetaan DrugBank mesti diselesaikan, mekanisme tindakan disahkan, dan saluran ramalan TxGNN dilaksanakan semula dengan input yang betul.
 
-## Clinical Trial Evidence
+## Bukti Uji Klinik
 
-Currently no related clinical trials registered (no predicted indication to evaluate).
+Pada masa ini tiada ujian klinik berkaitan yang didaftarkan (tiada petunjuk yang diramalkan untuk dinilai).
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-Currently no related literature available (no predicted indication to evaluate).
+Pada masa ini tiada kesusasteraan berkaitan yang tersedia (tiada petunjuk yang diramalkan untuk dinilai).
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjuk Diluluskan |
 |------|------|------|------|
-| *(Data pending)* | *(Data pending)* | *(Data pending)* | *(Data pending)* |
+| *(Data ditangguhkan)* | *(Data ditangguhkan)* | *(Data ditangguhkan)* | *(Data ditangguhkan)* |
 
-> **Note:** 20 registrations were identified via NPRA query, but detailed licence information (authorization numbers, product names, dosage forms, and approved indications) was not populated in the evidence pack. This data needs to be retrieved from the NPRA database.
+> **Nota:** 20 pendaftaran telah dikenalpasti melalui pertanyaan NPRA, tetapi maklumat lesen terperinci (nombor kebenaran, nama produk, bentuk dos, dan petunjuk yang diluluskan) tidak diisi dalam pak bukti. Data ini perlu diambil daripada pangkalan data NPRA.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-> Please refer to the package insert for safety information. Key warnings, contraindications, and drug interaction data were not available in the current evidence pack and must be retrieved from the NPRA database or package insert PDFs.
+> Sila rujuk sisipan pakej untuk maklumat keselamatan. Data amaran utama, kontraindikasi, dan interaksi ubat tidak tersedia dalam pak bukti semasa dan mesti diambil daripada pangkalan data NPRA atau PDF sisipan pakej.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The evidence pack contains critical data gaps — no DrugBank ID mapping, no mechanism of action data, no predicted indications from TxGNN, and no populated regulatory details. Without a predicted new indication, a repurposing evaluation cannot proceed.
+**Rasional:**
+Pak bukti mengandungi jurang data yang penting — tiada pemetaan ID DrugBank, tiada data mekanisme tindakan, tiada petunjuk yang diramalkan daripada TxGNN, dan tiada butiran kawal selia yang diisi. Tanpa petunjuk baru yang diramalkan, penilaian penggunaan semula tidak boleh diteruskan.
 
-**To proceed, the following is needed:**
-- **Resolve DrugBank mapping**: Query DrugBank for "Benzydamine" (DB09084) and confirm the drug–ID linkage
-- **Retrieve mechanism of action (MOA)**: Obtain pharmacological data from DrugBank or package insert
-- **Populate NPRA registration details**: Extract authorization numbers, product names, dosage forms, and approved indications for the 20 identified licences
-- **Retrieve safety data**: Download and parse package insert PDFs for key warnings, contraindications, and drug interactions
-- **Re-run TxGNN prediction pipeline**: With the corrected DrugBank ID and complete input data, re-execute the knowledge graph and deep learning prediction models
-- **Re-generate evidence pack**: Once predictions are available, collect supporting clinical trial and literature evidence
+**Untuk meneruskan, perkara berikut diperlukan:**
+- **Selesaikan pemetaan DrugBank**: Pertanyakan DrugBank untuk "Benzydamine" (DB09084) dan sahkan pautan ubat-ID
+- **Ambil mekanisme tindakan (MOA)**: Dapatkan data farmakologi daripada DrugBank atau sisipan pakej
+- **Isi butiran pendaftaran NPRA**: Ekstrak nombor kebenaran, nama produk, bentuk dos, dan petunjuk yang diluluskan untuk 20 lesen yang dikenalpasti
+- **Ambil data keselamatan**: Muat turun dan analisis PDF sisipan pakej untuk amaran utama, kontraindikasi, dan interaksi ubat
+- **Jalankan semula saluran ramalan TxGNN**: Dengan ID DrugBank yang betul dan data input lengkap, laksanakan semula model ramalan graf pengetahuan dan pembelajaran mendalam
+- **Janakan semula pak bukti**: Setelah ramalan tersedia, kumpulkan bukti ujian klinik dan kesusasteraan sokongan
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

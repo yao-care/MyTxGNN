@@ -29,70 +29,71 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Polatuzumab Vedotin: From Diffuse Large B-Cell Lymphoma to HER2 Positive Breast Carcinoma
+# Polatuzumab Vedotin: Dari Limfoma Sel B Besar yang Tersebar kepada Karsinoma Payudara HER2 Positif
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Polatuzumab vedotin is an anti-CD79b antibody-drug conjugate (ADC) approved for diffuse large B-cell lymphoma (DLBCL).
-The TxGNN model predicts it may be effective for **HER2 Positive Breast Carcinoma**, but this direction is currently supported by **0 clinical trials** and **0 publications**, and the drug's target (CD79b, a B-cell receptor component) has no known mechanistic overlap with HER2-driven epithelial tumor biology.
+Polatuzumab vedotin adalah konjugat antibodi-ubat (ADC) anti-CD79b yang diluluskan untuk limfoma sel B besar yang tersebar (DLBCL).
+Model TxGNN meramalkan ia mungkin berkesan untuk **Karsinoma Payudara HER2 Positif**, tetapi arah ini kini disokong oleh **0 percubaan klinikal** dan **0 penerbitan**, dan sasaran ubat (CD79b, komponen reseptor sel B) tidak mempunyai pertindihan mekanik yang diketahui dengan biologi tumor epitelial yang didorong HER2.
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | Diffuse Large B-Cell Lymphoma (DLBCL) *(sourced from mechanistic rationale text; formal TFDA/NPRA license indication text not yet retrieved — see Malaysia Market Information)* |
-| Predicted New Indication | HER2 Positive Breast Carcinoma |
-| TxGNN Prediction Score | 99.34% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Limfoma Sel B Besar yang Tersebar (DLBCL) *(bersumber daripada teks rasional mekanik; teks indikasi lesen TFDA/NPRA formal belum lagi diperolehi — lihat Maklumat Pasaran Malaysia)* |
+| Indikasi Baru yang Diramalkan | Karsinoma Payudara HER2 Positif |
+| Skor Ramalan TxGNN | 99.34% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 2 |
+| Keputusan yang Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed mechanism-of-action data for polatuzumab vedotin is not fully available in this evidence pack, but the underlying rationale record indicates it is an antibody-drug conjugate targeting CD79b, a component of the B-cell receptor complex, and it is approved for diffuse large B-cell lymphoma — a hematologic malignancy of B-cell origin.
+Data mekanisme-tindakan terperinci untuk polatuzumab vedotin tidak sepenuhnya tersedia dalam pakej bukti ini, tetapi rekod rasional asas menunjukkan ia adalah konjugat antibodi-ubat yang menyasarkan CD79b, komponen kompleks reseptor sel B, dan ia diluluskan untuk limfoma sel B besar — keganasan hematologi asal sel B.
 
-HER2 positive breast carcinoma, by contrast, is driven by amplification and overexpression of HER2/ERBB2, a receptor tyrosine kinase expressed on epithelial tumor cells. There is no established biological overlap between CD79b/B-cell antigen biology and HER2-driven epithelial signaling, and breast cancer cells are not known to express CD79b.
+Karsinoma payudara HER2 positif, sebaliknya, didorong oleh amplifikasi dan ekspresi berlebihan HER2/ERBB2, kinase tirosin reseptor yang diekspresikan pada sel tumor epitelial. Tiada pertindihan biologi yang mantap antara biologi CD79b/antigen sel B dan isyarat epitelial yang didorong HER2, dan sel kanser payudara tidak diketahui mengekspreskan CD79b.
 
-Given this absence of any plausible mechanistic bridge, the high TxGNN score (99.34%) is not corroborated by biology, clinical trials, or literature. The evidence pack itself flags this as a likely **false-positive model prediction** rather than a genuine repurposing signal.
+Memandangkan ketiadaan sebarang jambatan mekanik yang munasabah, skor TxGNN yang tinggi (99.34%) tidak disokong oleh biologi, percubaan klinikal, atau literatur. Pakej bukti itu sendiri menandai ini sebagai **ramalan model positif palsu** yang berkemungkinan besar daripada isyarat penjadian semula yang tulen.
 
-## Clinical Trial Evidence
+## Bukti Percubaan Klinikal
 
-Currently no related clinical trials registered
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no related literature available
+Pada masa ini tiada literatur berkaitan yang tersedia
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-NPRA records confirm 2 active registrations for polatuzumab vedotin ("Marketed" market status), but license number, product name, dosage form, and approved indication text were not returned in this data pull — retrieval of the full license record is required (see Data Gap DG001) before this table can be completed.
+Rekod NPRA mengesahkan 2 pendaftaran aktif untuk polatuzumab vedotin ("Dipasarkan" status pasaran), tetapi nombor lesen, nama produk, bentuk dos, dan teks indikasi yang diluluskan tidak dikembalikan dalam pengambilan data ini — pengambilan rekod lesen lengkap diperlukan (lihat Jurang Data DG001) sebelum jadual ini boleh dilengkapkan.
 
-## Cytotoxicity
+## Sitotoksisiti
 
-| Item | Content |
-|------|------|
-| Cytotoxicity Classification | Targeted therapy — antibody-drug conjugate (ADC) carrying a cytotoxic microtubule-inhibitor payload |
-| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
-| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | Please refer to the package insert warnings and precautions |
-| Handling Protection | Must follow cytotoxic drug handling regulations (ADC with cytotoxic payload) |
+| Item | Kandungan |
+|------|----------|
+| Klasifikasi Sitotoksisiti | Terapi yang disasarkan — konjugat antibodi-ubat (ADC) yang membawa muatan perencat mikrotubl sitotoksik |
+| Risiko Myelosuppression | Sila rujuk amaran dan tindakan berjaga dalam sisipan pakej |
+| Klasifikasi Emetogenisiti | Sila rujuk amaran dan tindakan berjaga dalam sisipan pakej |
+| Item Pemantauan | Sila rujuk amaran dan tindakan berjaga dalam sisipan pakej |
+| Perlindungan Pengendalian | Mesti mematuhi peraturan pengendalian ubat sitotoksik (ADC dengan muatan sitotoksik) |
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-There is no clinical trial or literature evidence for this indication, and the proposed mechanistic link between CD79b-targeted ADC activity and HER2-driven breast carcinoma is biologically implausible — the evidence pack itself identifies this as a likely false-positive TxGNN prediction. The candidate does not meet the bar to advance past S0.
+**Rasional:**
+Tiada bukti percubaan klinikal atau literatur untuk indikasi ini, dan pautan mekanik yang dicadangkan antara aktiviti ADC yang disasarkan CD79b dan karsinoma payudara yang didorong HER2 adalah biologi yang tidak munasabah — pakej bukti itu sendiri mengenalpasti ini sebagai ramalan TxGNN positif palsu yang berkemungkinan besar. Calon ini tidak memenuhi bar untuk maju melampaui S0.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert (warnings, contraindications) to close Data Gap DG001
-- Confirmed full mechanism-of-action data via DrugBank to close Data Gap DG002
-- Any preclinical evidence of CD79b expression in HER2-positive breast tumors, absent which this candidate should likely be deprioritized rather than advanced
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisipan pakej TFDA/NPRA (amaran, kontraindikasi) untuk menutup Jurang Data DG001
+- Data mekanisme-tindakan penuh yang disahkan melalui DrugBank untuk menutup Jurang Data DG002
+- Sebarang bukti praklinikal ekspresi CD79b dalam tumor payudara HER2 positif, tanpanya calon ini sepatutnya mungkin diprioritaskan semula daripada dimajukan
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

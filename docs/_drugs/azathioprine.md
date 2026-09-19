@@ -29,90 +29,91 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Azathioprine: From Immunosuppression to Colobomatous Microphthalmia-Rhizomelic Dysplasia Syndrome
+# Azathioprine: Daripada Imunopenindasan kepada Sindrom Kolobomatik Mikroftalmi-Displasia Rizomeli
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Azathioprine is a well-established immunosuppressive agent (purine antimetabolite) used to prevent organ transplant rejection and treat autoimmune conditions including inflammatory bowel disease. The TxGNN model predicts it may be effective for **Colobomatous Microphthalmia-Rhizomelic Dysplasia Syndrome**, however there are **0 clinical trials** and **0 publications** supporting this specific direction — this prediction lacks any mechanistic or clinical rationale.
+Azathioprine adalah agen imunopenindas yang telah terbukai (antimetabolit purin) digunakan untuk mencegah penolakan transplantasi organ dan merawat keadaan autoimun termasuk penyakit radang usus. Model TxGNN meramalkan ia mungkin berkesan untuk **Sindrom Kolobomatik Mikroftalmi-Displasia Rizomeli**, bagaimanapun terdapat **0 uji klinis** dan **0 publikasi** yang menyokong arah spesifik ini — ramalan ini kekurangan sebarang mekanisme atau asas klinis.
 
-## Quick Overview
+## Gambaran Keseluruhan Cepat
 
-| Item | Content |
-|------|------|
-| Original Indication | Immunosuppression (specific approved indication text not available from NPRA records) |
-| Predicted New Indication | Colobomatous Microphthalmia-Rhizomelic Dysplasia Syndrome |
-| TxGNN Prediction Score | 99.99% |
-| Evidence Level | L5 (Model prediction only, no actual studies) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Imunopenindasan (teks petunjuk diluluskan khusus tidak tersedia daripada rekod NPRA) |
+| Petunjuk Baru Diramalkan | Sindrom Kolobomatik Mikroftalmi-Displasia Rizomeli |
+| Skor Ramalan TxGNN | 99.99% |
+| Tahap Bukti | L5 (Ramalan model sahaja, tiada kajian sebenar) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 3 |
+| Keputusan Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Adalah Wajar?
 
-**This prediction is not considered reasonable.** Colobomatous microphthalmia-rhizomelic dysplasia syndrome is a rare congenital developmental disorder involving ocular defects (colobomatous microphthalmia) and proximal limb bone dysplasia. The pathogenesis originates from abnormal gene regulation during embryonic development, resulting in irreversible structural defects formed before birth.
+**Ramalan ini tidak dianggap wajar.** Sindrom mikroftalmi kolobomatik-displasia rizomeli adalah gangguan perkembangan bawaan yang jarang melibatkan kecacatan okular (mikroftalmi kolobomatik) dan displasia tulang proksimals anggota tubuh. Patogenesis berasal daripada peraturan gen yang tidak normal semasa perkembangan embrionik, menghasilkan kecacatan struktur yang tidak dapat dipulihkan terbentuk sebelum lahir.
 
-Azathioprine is a purine antimetabolite that is converted to 6-mercaptopurine in vivo, which subsequently inhibits purine synthesis and suppresses lymphocyte proliferation. This immunosuppressive mechanism targets the adaptive immune system — specifically T-cell and B-cell proliferation — and has no therapeutic relevance to congenital structural developmental defects.
+Azathioprine adalah antimetabolit purin yang ditukar kepada 6-merkaptopurin dalam vivo, yang seterusnya menghalang sintesis purin dan menekan proliferasi limfosit. Mekanisme imunopenindas ini menargetkan sistem imun adaptif — khususnya proliferasi sel T dan sel B — dan tidak mempunyai perkaitan terapeutik kepada kecacatan perkembangan struktural bawaan.
 
-The extremely high TxGNN score (99.99%) likely reflects a spurious pattern in the knowledge graph rather than a genuine pharmacological relationship. The complete absence of any clinical trial or literature evidence further confirms that this prediction does not warrant further investigation. Notably, the model also correctly identified azathioprine's well-established efficacy in inflammatory bowel disease (Rank 5, L1) and ulcerative colitis (Rank 9, L1), which are already approved indications — validating the model's ability to detect genuine drug-disease relationships while also demonstrating its tendency to generate false positives for unrelated conditions.
+Skor TxGNN yang sangat tinggi (99.99%) berkemungkinan mencerminkan corak palsu dalam graf pengetahuan daripada hubungan farmakologi yang tulen. Ketiadaan lengkap sebarang bukti percubaan klinis atau literatur selanjutnya mengesahkan bahawa ramalan ini tidak layak untuk penyiasatan lanjutan. Terutama, model juga mengenal pasti dengan betul keberkesanan azathioprine yang telah terbukai dalam penyakit radang usus (Pangkat 5, L1) dan kolitis ulseratif (Pangkat 9, L1), yang sudah merupakan petunjuk yang diluluskan — mengesahkan keupayaan model untuk mengesan hubungan ubat-penyakit yang tulen sambil juga menunjukkan kecenderungannya untuk menjana positif palsu untuk keadaan yang tidak berkaitan.
 
-## Clinical Trial Evidence
+## Bukti Uji Klinis
 
-Currently no related clinical trials registered for azathioprine in colobomatous microphthalmia-rhizomelic dysplasia syndrome.
+Pada masa ini tiada uji klinis berkaitan didaftarkan untuk azathioprine dalam sindrom mikroftalmi kolobomatik-displasia rizomeli.
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no related literature available for azathioprine in colobomatous microphthalmia-rhizomelic dysplasia syndrome.
+Pada masa ini tiada literatur berkaitan tersedia untuk azathioprine dalam sindrom mikroftalmi kolobomatik-displasia rizomeli.
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjuk Diluluskan |
 |---------|------|------|-----------|
-| (Not available) | (Not available) | (Not available) | (Not available) |
-| (Not available) | (Not available) | (Not available) | (Not available) |
-| (Not available) | (Not available) | (Not available) | (Not available) |
+| (Tidak tersedia) | (Tidak tersedia) | (Tidak tersedia) | (Tidak tersedia) |
+| (Tidak tersedia) | (Tidak tersedia) | (Tidak tersedia) | (Tidak tersedia) |
+| (Tidak tersedia) | (Tidak tersedia) | (Tidak tersedia) | (Tidak tersedia) |
 
-> *Note: 3 registrations were identified in the NPRA database, but detailed product information (authorization number, product name, dosage form, approved indication) was not available at the time of data extraction.*
+> *Nota: 3 pendaftaran telah dikenal pasti dalam pangkalan data NPRA, tetapi maklumat produk terperinci (nombor kebenaran, nama produk, bentuk dos, petunjuk diluluskan) tidak tersedia pada masa pengekstrakan data.*
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-> *Note: Safety data including key warnings, contraindications, and drug-drug interactions were not available in the evidence pack. Given that azathioprine is a potent immunosuppressive agent with well-known risks including myelosuppression, hepatotoxicity, increased infection risk, and potential long-term malignancy risk, clinicians should consult the full prescribing information before use.*
+> *Nota: Data keselamatan termasuk amaran utama, kontraindikasi, dan interaksi ubat-ubat tidak tersedia dalam pek bukti. Memandangkan azathioprine adalah agen imunopenindas yang kuat dengan risiko terkenal termasuk mielodispensi, hepatotoksisiti, peningkatan risiko jangkitan, dan risiko keganasan jangka panjang yang berpotensi, doktor mengamalkan harus merujuk maklumat preskripsi penuh sebelum digunakan.*
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The TxGNN prediction for colobomatous microphthalmia-rhizomelic dysplasia syndrome has no mechanistic basis. This is a congenital structural developmental syndrome caused by embryonic gene regulatory defects, and azathioprine's immunosuppressive mechanism has no therapeutic relevance to irreversible developmental abnormalities. The evidence level is L5 (model prediction only) with zero supporting clinical or preclinical evidence.
+**Nisbah:**
+Ramalan TxGNN untuk sindrom mikroftalmi kolobomatik-displasia rizomeli tidak mempunyai asas mekanik. Ini adalah sindrom perkembangan struktural bawaan yang disebabkan oleh kecacatan peraturan gen embrionik, dan mekanisme imunopenindas azathioprine tidak mempunyai perkaitan terapeutik kepada ketakupayaan perkembangan yang tidak dapat dipulihkan. Tahap bukti adalah L5 (ramalan model sahaja) tanpa bukti klinis atau praklinis yang menyokong.
 
-**To proceed, the following would be needed (though not recommended):**
-- Any preclinical evidence suggesting immunomodulation plays a role in this syndrome
-- Identification of an immune-mediated component in disease pathogenesis
-- Case reports or observational data suggesting benefit
+**Untuk meneruskan, berikut diperlukan (walaupun tidak disyorkan):**
+- Sebarang bukti praklinis yang menunjukkan imunomodulasi memainkan peranan dalam sindrom ini
+- Pengenalan komponen yang dimediasi imun dalam patogenesis penyakit
+- Laporan kes atau data pemerhatian yang menunjukkan manfaat
 
 ---
 
-### Appendix: Notable Predictions with Existing Evidence
+### Lampiran: Ramalan Ketara dengan Bukti Sedia Ada
 
-The TxGNN model also identified two indications for which azathioprine is **already an approved therapy**, confirming the model's capacity to detect validated drug-disease pairs:
+Model TxGNN juga mengenal pasti dua petunjuk yang mana azathioprine **sudah merupakan terapi yang diluluskan**, mengesahkan keupayaan model untuk mengesan pasangan ubat-penyakit yang disahkan:
 
-| Rank | Predicted Indication | TxGNN Score | Evidence Level | Status |
+| Pangkat | Petunjuk Diramalkan | Skor TxGNN | Tahap Bukti | Status |
 |------|---------------------|-------------|----------------|--------|
-| 5 | Inflammatory Bowel Disease | 99.52% | L1 | Already approved — not a repurposing candidate |
-| 9 | Ulcerative Colitis | 99.33% | L1 | Already approved — not a repurposing candidate |
+| 5 | Penyakit Radang Usus | 99.52% | L1 | Sudah diluluskan — bukan calon peningkatan penggunaan |
+| 9 | Kolitis Ulseratif | 99.33% | L1 | Sudah diluluskan — bukan calon peningkatan penggunaan |
 
-**IBD (Rank 5):** Supported by **50 clinical trials** (including multiple Phase 3 RCTs such as [NCT00094458](https://clinicaltrials.gov/study/NCT00094458) with 508 patients and [NCT00098111](https://clinicaltrials.gov/study/NCT00098111)) and **20 publications** including reviews confirming 45+ years of clinical experience.
+**IBD (Pangkat 5):** Disokong oleh **50 uji klinis** (termasuk pelbagai RCT Fasa 3 seperti [NCT00094458](https://clinicaltrials.gov/study/NCT00094458) dengan 508 pesakit dan [NCT00098111](https://clinicaltrials.gov/study/NCT00098111)) dan **20 publikasi** termasuk ulasan yang mengesahkan 45+ tahun pengalaman klinis.
 
-**Ulcerative Colitis (Rank 9):** Supported by **50 clinical trials** and **20 publications** including multiple Cochrane systematic reviews ([PMID 40013523](https://pubmed.ncbi.nlm.nih.gov/40013523/), [PMID 27192092](https://pubmed.ncbi.nlm.nih.gov/27192092/), [PMID 22972046](https://pubmed.ncbi.nlm.nih.gov/22972046/)) and a meta-analysis ([PMID 19392869](https://pubmed.ncbi.nlm.nih.gov/19392869/)).
+**Kolitis Ulseratif (Pangkat 9):** Disokong oleh **50 uji klinis** dan **20 publikasi** termasuk pelbagai ulasan sistematik Cochrane ([PMID 40013523](https://pubmed.ncbi.nlm.nih.gov/40013523/), [PMID 27192092](https://pubmed.ncbi.nlm.nih.gov/27192092/), [PMID 22972046](https://pubmed.ncbi.nlm.nih.gov/22972046/)) dan meta-analisis ([PMID 19392869](https://pubmed.ncbi.nlm.nih.gov/19392869/)).
 
-The remaining novel predictions (Ranks 1–4, 6–8, 10) all received **Hold** recommendations due to lack of mechanistic rationale — most target congenital structural defects or primary immunodeficiencies where immunosuppression would be either irrelevant or potentially harmful (especially WHIM syndrome at Rank 4, which is a **mechanistic contraindication**).
+Ramalan novel yang tinggal (Pangkat 1–4, 6–8, 10) semua menerima rekomendasi **Tahan** disebabkan kekurangan nisbah mekanik — kebanyakannya menargetkan kecacatan perkembangan struktural bawaan atau imunodefisiensi primer di mana imunopenindasan akan menjadi tidak relevan atau berpotensi berbahaya (terutama sindrom WHIM pada Pangkat 4, yang merupakan **kontraindikasi mekanik**).
 
 ---
 
-*Disclaimer: This report is for research purposes only and does not constitute medical advice. Drug repurposing candidates require clinical validation before application.*
+*Penafian: Laporan ini adalah untuk tujuan penyelidikan sahaja dan tidak merupakan nasihat perubatan. Calon peningkatan penggunaan ubat memerlukan pengesahan klinis sebelum aplikasi.*
 
-*Data cutoff: 2026-04-05 | Evidence Pack version: v4*
+*Potongan data: 2026-04-05 | Versi pek bukti: v4*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

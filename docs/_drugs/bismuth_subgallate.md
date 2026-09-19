@@ -29,86 +29,87 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Bismuth Subgallate: Drug Repurposing Evaluation Report
+# Bismuth Subgallate: Laporan Penilaian Penambahan Kegunaan Ubat
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Bismuth Subgallate (DrugBank: DB13909) is a bismuth compound currently marketed in Malaysia with 1 registered product. No new indications have been predicted by the TxGNN model at this time, and critical data gaps — including mechanism of action, approved indication text, and safety information — prevent meaningful repurposing evaluation.
+Bismuth Subgallate (DrugBank: DB13909) adalah sebatian bismut yang sedang dipasarkan di Malaysia dengan 1 produk berdaftar. Tiada petunjuk kegunaan baru yang telah dijangka oleh model TxGNN pada masa ini, dan jurang data kritikal — termasuk mekanisme tindakan, teks petunjuk kegunaan yang diluluskan, dan maklumat keselamatan — menghalang penilaian penambahan kegunaan yang bermakna.
 
 ---
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Not available (licence indication text is empty) |
-| Predicted New Indication | None (no TxGNN predictions generated) |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | N/A — No prediction to evaluate |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 1 |
-| Recommended Decision | **Hold** |
+| Petunjuk Kegunaan Asal | Tidak tersedia (medan petunjuk kegunaan lesen adalah kosong) |
+| Petunjuk Kegunaan yang Dijangka | Tiada (tiada ramalan TxGNN dihasilkan) |
+| Skor Ramalan TxGNN | N/A |
+| Aras Bukti | N/A — Tiada ramalan untuk dinilai |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Marketed) |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | **Tahan** |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-There is currently **no TxGNN prediction** available for Bismuth Subgallate. The `predicted_indications` array is empty, meaning the model either did not generate a repurposing candidate for this drug or the prediction pipeline has not yet been run for it.
+Buat masa ini **tiada ramalan TxGNN** tersedia untuk Bismuth Subgallate. Tatasusunan `predicted_indications` adalah kosong, bermakna model sama ada tidak menghasilkan calon penambahan kegunaan untuk ubat ini atau saluran paip ramalan belum dijalankan untuknya.
 
-Additionally, detailed mechanism of action (MOA) data is not available. Bismuth subgallate is a bismuth salt known in general pharmacology for astringent and haemostatic properties, but without a confirmed MOA entry in the evidence pack, mechanistic reasoning for any potential new indication cannot be established.
+Selain itu, data mekanisme tindakan (MOA) yang terperinci tidak tersedia. Bismuth subgallate adalah garam bismut yang diketahui dalam farmakologi am untuk sifat astringent dan haemostatic, tetapi tanpa entri MOA yang disahkan dalam pakej bukti, penalaran mekanik untuk sebarang petunjuk kegunaan baru yang berpotensi tidak dapat ditubuhkan.
 
-Before any repurposing evaluation can proceed, the drug must first pass through the TxGNN prediction pipeline with successful DrugBank-to-KG node mapping, and the foundational data gaps (MOA, approved indications, safety profile) must be resolved.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered — no predicted indication available to search against.
+Sebelum sebarang penilaian penambahan kegunaan dapat diteruskan, ubat mesti terlebih dahulu lulus melalui saluran paip ramalan TxGNN dengan pemetaan nod KG-ke-DrugBank yang berjaya, dan jurang data asas (MOA, petunjuk kegunaan yang diluluskan, profil keselamatan) mesti diselesaikan.
 
 ---
 
-## Literature Evidence
+## Bukti Uji Kaji Klinikal
 
-Currently no related literature available — no predicted indication available to search against.
+Buat masa ini tiada uji kaji klinikal yang berkaitan berdaftar — tiada petunjuk kegunaan yang dijangka tersedia untuk dicari.
 
 ---
 
-## Malaysia Market Information
+## Bukti Literatur
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+Buat masa ini tiada literatur yang berkaitan tersedia — tiada petunjuk kegunaan yang dijangka tersedia untuk dicari.
+
+---
+
+## Maklumat Pasaran Malaysia
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjuk Kegunaan yang Diluluskan |
 |------|------|------|------|
-| (Not provided) | (Not provided) | (Not provided) | (Not provided) |
+| (Tidak disediakan) | (Tidak disediakan) | (Tidak disediakan) | (Tidak disediakan) |
 
-> **Note:** One licence is recorded in the NPRA database, but all detail fields (licence number, product name, dosage form, approved indication) are empty in the current evidence pack. These need to be retrieved from the NPRA portal.
+> **Nota:** Satu lesen dicatat dalam pangkalan data NPRA, tetapi semua medan perincian (nombor lesen, nama produk, bentuk dos, petunjuk kegunaan yang diluluskan) adalah kosong dalam pakej bukti semasa. Ini perlu diambil daripada portal NPRA.
 
 ---
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-> Please refer to the package insert for safety information.
+> Sila rujuk sisipan pakej untuk maklumat keselamatan.
 >
-> All safety fields (key warnings, contraindications, drug-drug interactions) are currently unavailable. The DrugBank DDI query returned no results. A full safety profile must be obtained from the product package insert or NPRA database before any repurposing assessment can proceed.
+> Semua medan keselamatan (amaran utama, kontraindikasi, interaksi ubat-ubat) buat masa ini tidak tersedia. Pertanyaan DrugBank DDI tidak mengembalikan hasil apa pun. Profil keselamatan lengkap mesti diperolehi daripada sisipan pakej produk atau pangkalan data NPRA sebelum sebarang penilaian penambahan kegunaan dapat diteruskan.
 
 ---
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-No TxGNN repurposing predictions have been generated for Bismuth Subgallate, and multiple blocking data gaps exist. Without a predicted indication, there is nothing to evaluate for clinical plausibility or evidence support.
+**Alasan:**
+Tiada ramalan penambahan kegunaan TxGNN telah dihasilkan untuk Bismuth Subgallate, dan beberapa jurang data penyekat wujud. Tanpa petunjuk kegunaan yang dijangka, tiada apa pun untuk dinilai bagi kemasukakalan klinikal atau sokongan bukti.
 
-**To proceed, the following is needed:**
+**Untuk meneruskan, perkara berikut diperlukan:**
 
-1. **Run TxGNN prediction pipeline** — Verify that DB13909 maps to a valid node in the knowledge graph; if mapping fails, investigate alternative DrugBank IDs or salt forms
-2. **Retrieve MOA data** (Data Gap DG002, severity: High) — Query DrugBank API for pharmacodynamics and mechanism of action
-3. **Retrieve NPRA licence details** — Obtain complete registration information (licence number, product name, dosage form, approved indication text) from the NPRA portal
-4. **Retrieve safety information** (Data Gap DG001, severity: Blocking) — Download and parse the package insert PDF from the regulatory authority website for warnings, contraindications, and precautions
-5. **Re-evaluate** once prediction results and foundational data are available
+1. **Jalankan saluran paip ramalan TxGNN** — Sahkan bahawa DB13909 dipetakan ke nod yang sah dalam graf pengetahuan; jika pemetaan gagal, siasat ID DrugBank alternatif atau bentuk garam
+2. **Ambil data MOA** (Jurang Data DG002, keseriusan: Tinggi) — Pertanyaan DrugBank API untuk farmakodinamik dan mekanisme tindakan
+3. **Ambil butiran lesen NPRA** — Perolehi maklumat pendaftaran lengkap (nombor lesen, nama produk, bentuk dos, teks petunjuk kegunaan yang diluluskan) daripada portal NPRA
+4. **Ambil maklumat keselamatan** (Jurang Data DG001, keseriusan: Menyekat) — Muat turun dan huraikan PDF sisipan pakej daripada pihak berkuasa kawal selia untuk amaran, kontraindikasi, dan tindakan berjaga-jaga
+5. **Nilai semula** setelah hasil ramalan dan data asas tersedia
 
 ---
 
-*Disclaimer: This report is for research purposes only and does not constitute medical advice. Any drug repurposing candidates require clinical validation before application.*
+*Penafian: Laporan ini adalah untuk tujuan penyelidikan sahaja dan tidak membentuk nasihat perubatan. Sebarang calon penambahan kegunaan ubat memerlukan pengesahan klinikal sebelum aplikasi.*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

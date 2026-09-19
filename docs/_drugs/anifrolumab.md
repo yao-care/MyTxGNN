@@ -29,91 +29,92 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Anifrolumab: From Systemic Lupus Erythematosus to — (No TxGNN Prediction Data in This Evidence Pack)
+# Anifrolumab: Daripada Systemic Lupus Erythematosus kepada — (Tiada Data Ramalan TxGNN dalam Pakej Bukti Ini)
 
 ---
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Anifrolumab (SAPHNELO) is a fully human monoclonal antibody targeting the type I interferon receptor (IFNAR1), approved for moderate-to-severe systemic lupus erythematosus (SLE) in adults.
-This Evidence Pack contains **no TxGNN-predicted new indications**, and two critical data gaps — missing package insert safety information (Blocking) and missing mechanism of action data (High) — prevent a complete repurposing assessment.
-**No repurposing recommendation can be issued** until these gaps are remediated and the prediction pipeline is re-run.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Moderate-to-severe systemic lupus erythematosus (SLE) |
-| Predicted New Indication | No predictions available in this Evidence Pack |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | N/A |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | **Hold** |
+Anifrolumab (SAPHNELO) ialah antibodi monoklonal manusia sepenuhnya yang menyasarkan reseptor interferon jenis I (IFNAR1), diluluskan untuk systemic lupus erythematosus (SLE) aktif sederhana hingga berat pada dewasa.
+Pakej Bukti ini **tidak mengandungi sebarang petunjukan kegunaan baru yang diramalkan oleh TxGNN**, dan dua jurang data yang kritikal — maklumat keselamatan surat sisipan ubat yang hilang (Menghalang) dan data mekanisme tindakan yang hilang (Tinggi) — menghalang penilaian penggunaan semula yang lengkap.
+**Tiada cadangan penggunaan semula boleh dikeluarkan** sehingga jurang-jurang ini diperbaiki dan saluran ramalan dijalankan semula.
 
 ---
 
-## Why No Prediction Is Reasonable to Evaluate
+## Ikhtisar Pantas
 
-The `predicted_indications` field in this Evidence Pack is empty. Three likely causes:
-
-1. **Pipeline not yet executed** — The TxGNN prediction run for DB11976 may not have been triggered or completed.
-2. **DrugBank ID mapping failure** — If ANIFROLUMAB was not successfully matched to a node in the knowledge graph, no candidate diseases would be scored.
-3. **Data staging issue** — Prediction outputs may exist upstream but were not merged into this v4 Evidence Pack.
-
-In parallel, two data gaps block evaluation even if predictions were available:
-
-| Gap ID | Item | Severity | Impact |
-|--------|------|----------|--------|
-| DG001 | Package insert warnings & contraindications | **Blocking** | Cannot complete S1 safety pre-screen |
-| DG002 | Mechanism of action (MOA) | High | Cannot perform mechanistic rationale scoring |
+| Item | Kandungan |
+|------|-----------|
+| Petunjuk Asli | Systemic lupus erythematosus (SLE) aktif sederhana hingga berat |
+| Petunjuk Kegunaan Baru yang Diramalkan | Tiada ramalan tersedia dalam Pakej Bukti ini |
+| Skor Ramalan TxGNN | T/A |
+| Aras Bukti | T/A |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disarankan | **Tangguh** |
 
 ---
 
-## Drug Background: Known Mechanism of Action
+## Sebab Tiada Ramalan yang Munasabah untuk Dinilai
 
-Although the MOA field is marked as a data gap in this Evidence Pack, anifrolumab's mechanism is well characterised in the published literature and the DrugBank record for DB11976.
+Medan `predicted_indications` dalam Pakej Bukti ini adalah kosong. Tiga punca yang berkemungkinan:
 
-Anifrolumab is a fully human IgG1κ monoclonal antibody that binds to subunit 1 of the type I interferon receptor (**IFNAR1**), blocking signalling from **all type I interferons** (IFN-α, IFN-β, IFN-ω, and related subtypes). Type I IFN signalling is pathologically overactivated in approximately 60–80% of SLE patients, driving inflammatory cytokine production, dendritic cell activation, and B-cell autoreactivity. By occupying IFNAR1, anifrolumab suppresses the interferon gene signature (IFNGS) and attenuates downstream JAK1/TYK2-mediated transcription of pro-inflammatory genes.
+1. **Saluran belum dilaksanakan** — Larian ramalan TxGNN untuk DB11976 mungkin belum tercetus atau selesai.
+2. **Kegagalan pemetaan ID DrugBank** — Jika ANIFROLUMAB tidak berjaya dipadankan dengan nod dalam graf pengetahuan, tiada penyakit calon akan diberi skor.
+3. **Isu peringkat data** — Keluaran ramalan mungkin wujud di hulu tetapi tidak digabungkan ke dalam Pakej Bukti v4 ini.
 
-This mechanism is not SLE-exclusive. Other conditions characterised by elevated type I IFN activity — including dermatomyositis, primary Sjögren's syndrome, systemic sclerosis, and ANCA-associated vasculitis — are biologically plausible targets. However, **none are confirmed via TxGNN prediction in this data pack**, and this background information is provided solely for context pending re-run of the prediction pipeline.
+Selari dengan itu, dua jurang data menghalang penilaian walaupun jika ramalan tersedia:
 
----
-
-## Malaysia Market Information
-
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------------------|-------------|-------------|---------------------|
-| (Not populated) | Anifrolumab — SAPHNELO | (Not populated) | Moderate-to-severe active SLE in adults (details not yet extracted into this Evidence Pack) |
-
-> **Note:** The Evidence Pack records 1 registered licence with market status "Marketed" (Marketed), but all licence detail fields — including licence number, product name, dosage form, manufacturer, and approved indication text — are unpopulated. Please verify directly against the NPRA online registry or retrieve the full licence record before proceeding.
+| ID Jurang | Item | Tahap Keseriusan | Kesan |
+|-----------|------|-----------------|-------|
+| DG001 | Amaran surat sisipan ubat & kontraindikasi | **Menghalang** | Tidak dapat menyelesaikan saringan pra-keselamatan S1 |
+| DG002 | Mekanisme tindakan (MOA) | Tinggi | Tidak dapat melakukan penilaian logik mekanik |
 
 ---
 
-## Safety Considerations
+## Latar Belakang Ubat: Mekanisme Tindakan yang Diketahui
 
-Please refer to the package insert for safety information.
+Walaupun medan MOA ditandakan sebagai jurang data dalam Pakej Bukti ini, mekanisme anifrolumab telah dicirikan dengan baik dalam literatur yang diterbitkan dan rekod DrugBank untuk DB11976.
 
-> **Data Gap Alert (DG001 — Blocking):** Both the key warnings and contraindications fields are listed as [Data Gap] in this Evidence Pack. A formal safety assessment cannot be completed. Based on the drug class (anti-IFNAR1 biologic), clinicians should be aware that typical considerations for this category include: serious and opportunistic infections (including influenza and herpes zoster), live attenuated vaccine contraindication during treatment, infusion-related and hypersensitivity reactions, and potential immunosuppression in combination with other biologics. **These are general class considerations only and must be confirmed against the approved Malaysian package insert before any clinical decision.**
+Anifrolumab ialah antibodi monoklonal IgG1κ manusia sepenuhnya yang mengikat subunit 1 reseptor interferon jenis I (**IFNAR1**), menghalang isyarat daripada **semua interferon jenis I** (IFN-α, IFN-β, IFN-ω, dan subtaip yang berkaitan). Isyarat IFN Jenis I terlebih aktif secara patologi dalam kira-kira 60–80% pesakit SLE, mendorong pengeluaran sitokin keradangan, pengaktifan sel dendritik, dan autoreaktiviti sel B. Dengan menduduki IFNAR1, anifrolumab menyekat tandatangan gen interferon (IFNGS) dan mengurangkan transkrip yang dimediasi JAK1/TYK2 hiliran bagi gen pro-keradangan.
+
+Mekanisme ini bukan eksklusif kepada SLE. Keadaan lain yang dicirikan oleh aktiviti IFN Jenis I yang meningkat — termasuk dermatomiositis, sindrom Sjögren primer, sklerosis sistematik, dan vaskulitis berkaitan ANCA — adalah sasaran yang munasabah secara biologi. Walau bagaimanapun, **tiada seorang pun disahkan melalui ramalan TxGNN dalam pakej data ini**, dan maklumat latar belakang ini disediakan semata-mata untuk konteks sambil menunggu jalan semula saluran ramalan.
 
 ---
 
-## Conclusion and Next Steps
+## Maklumat Pasaran Malaysia
 
-**Decision: Hold**
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjuk yang Diluluskan |
+|------------------|-------------|-----------|------------------------|
+| (Tidak diisi) | Anifrolumab — SAPHNELO | (Tidak diisi) | SLE aktif sederhana hingga berat pada dewasa (butiran belum diambil ke dalam Pakej Bukti ini) |
 
-**Rationale:**
-This Evidence Pack is materially incomplete — no TxGNN repurposing predictions are present, critical safety data is absent at a blocking severity level, and licence detail fields are unpopulated. Issuing a repurposing recommendation under these conditions would not be scientifically defensible.
+> **Catatan:** Pakej Bukti mencatat 1 lesen berdaftar dengan status pasaran "Dipasarkan" (Dipasarkan), tetapi semua medan butiran lesen — termasuk nombor lesen, nama produk, bentuk dos, pengilang, dan teks petunjuk yang diluluskan — tidak diisi. Sila sahkan terus terhadap pendaftaran dalam talian NPRA atau ambil rekod lesen lengkap sebelum meneruskan.
 
-**To proceed, the following is needed:**
+---
 
-- **[Blocking — DG001]** Download and parse the NPRA/TFDA package insert PDF for SAPHNELO (anifrolumab) to extract approved warnings, contraindications, special population guidance, and handling requirements; populate the `safety.key_warnings` and `safety.contraindications` fields
-- **[High — DG002]** Query DrugBank API for DB11976 to retrieve the full MOA text and populate the `drug.original_moa` field
-- **[Pipeline]** Re-run the TxGNN KG + DL prediction pipeline with confirmed DrugBank ID DB11976 to populate `predicted_indications`
-- **[Regulatory]** Retrieve complete licence detail record from NPRA (licence number, product name, dosage form, approved indication text) and populate `taiwan_regulatory.licenses[0]`
-- **[Re-evaluation]** Once all four items above are resolved, resubmit the Evidence Pack (target v5) for a full L1–L5 evidence-level repurposing assessment
+## Pertimbangan Keselamatan
+
+Sila rujuk surat sisipan ubat untuk maklumat keselamatan.
+
+> **Amaran Jurang Data (DG001 — Menghalang):** Kedua-dua medan amaran utama dan kontraindikasi disenaraikan sebagai [Jurang Data] dalam Pakej Bukti ini. Penilaian keselamatan formal tidak dapat diselesaikan. Berdasarkan kelas ubat (biologi anti-IFNAR1), doktor harus sedar bahawa pertimbangan tipikal untuk kategori ini termasuk: jangkitan serius dan oportunistik (termasuk influenza dan herpes zoster), kontraindikasi vaksin yang dilemahkan secara langsung semasa rawatan, reaksi berkaitan infusi dan hipersensitiviti, dan potensi imunsupresi dalam kombinasi dengan biologi lain. **Ini adalah pertimbangan kelas umum sahaja dan mesti disahkan terhadap surat sisipan ubat Malaysia yang diluluskan sebelum sebarang keputusan klinikal.**
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tangguh**
+
+**Alasan:**
+Pakej Bukti ini tidak lengkap secara material — tiada ramalan penggunaan semula TxGNN hadir, data keselamatan kritikal tidak hadir pada aras keterhalangan, dan medan butiran lesen tidak diisi. Mengeluarkan cadangan penggunaan semula di bawah keadaan ini tidak akan dapat dipertahankan secara saintifik.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+
+- **[Menghalang — DG001]** Muat turun dan parse PDF surat sisipan ubat NPRA/TFDA untuk SAPHNELO (anifrolumab) untuk mengekstrak amaran yang diluluskan, kontraindikasi, panduan populasi istimewa, dan keperluan pengendalian; isi medan `safety.key_warnings` dan `safety.contraindications`
+- **[Tinggi — DG002]** Soal API DrugBank untuk DB11976 untuk mendapatkan teks MOA lengkap dan isi medan `drug.original_moa`
+- **[Saluran]** Jalankan semula saluran ramalan TxGNN KG + DL dengan ID DrugBank DB11976 yang disahkan untuk mengisi `predicted_indications`
+- **[Kawal Selia]** Ambil rekod butiran lesen lengkap daripada NPRA (nombor lesen, nama produk, bentuk dos, teks petunjuk yang diluluskan) dan isi `taiwan_regulatory.licenses[0]`
+- **[Penilaian Semula]** Setelah semua empat item di atas diselesaikan, serahkan semula Pakej Bukti (sasaran v5) untuk penilaian penggunaan semula aras bukti L1–L5 yang lengkap
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

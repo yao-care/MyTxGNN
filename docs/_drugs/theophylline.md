@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Theophylline
-parent: High Evidence (L1-L2)
+parent: Low Evidence (L4-L5)
 nav_order: 644
-evidence_level: L1
+evidence_level: L5
 indication_count: 5
 ---
 
 # Theophylline
 {: .fs-9 }
 
-Tahap bukti: **L1** | Indikasi diramal: **5** 
+Tahap bukti: **L5** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,97 +29,98 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-# Theophylline: From Established Bronchodilator Therapy to Asthma (Confirmatory Signal)
+# Teofelin: Daripada Terapi Bronkodilator yang Telah Ditetapkan kepada Asma (Sinyal Pengesahan)
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Theophylline is a long-established methylxanthine bronchodilator used for decades in asthma and COPD, though the current registry extract does not carry the exact approved indication text on file. The TxGNN model's top prediction points back to **Asthma** — the drug's own historical indication — supported by **48 clinical trials** and **20 publications** in the evidence pack, making this a confirmatory signal rather than a novel repurposing finding. The TxGNN score itself is reported as **0.00%**, which is anomalous given the volume of supporting evidence and should be verified against the source pipeline before this is used for prioritization.
+Teofelin ialah bronkodilator metilksantin yang telah lama ditetapkan dan digunakan selama puluhan tahun dalam asma dan PPOK, walaupun ekstrak daftar semasa tidak mengandungi teks indikasi yang diluluskan dengan tepat dalam fail. Ramalan teratas model TxGNN menunjukkan kembali kepada **Asma** — indikasi bersejarah ubat itu sendiri — disokong oleh **48 ujian klinikal** dan **20 penerbitan** dalam pakej bukti, menjadikan ini sinyal pengesahan dan bukannya penemuan pemindahan tujuan novel. Skor TxGNN itu sendiri dilaporkan sebagai **0.00%**, yang anomali memandangkan jumlah bukti sokongan dan harus disahkan terhadap saluran sumber sebelum digunakan untuk pengutamaan.
 
 ---
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Not populated in the current registry extract; theophylline is a long-established bronchodilator for asthma/COPD per decades of literature (e.g., PMID 8471184: "used in the treatment of asthma for over 50 years") |
-| Predicted New Indication | Asthma (top-ranked; same disease category as established use — see caveat below) |
-| TxGNN Prediction Score | 0.00% (score value as reported — recommend verifying, given the strength of supporting evidence) |
-| Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 8 |
-| Recommended Decision | Proceed with Guardrails |
+| Indikasi Asal | Tidak diisi dalam ekstrak daftar semasa; teofelin ialah bronkodilator yang telah lama ditetapkan untuk asma/PPOK menurut bahan bacaan puluhan tahun (cth., PMID 8471184: "digunakan dalam rawatan asma selama lebih 50 tahun") |
+| Indikasi Baru yang Diramalkan | Asma (paling tinggi kedudukan; kategori penyakit yang sama seperti penggunaan yang ditetapkan — lihat kaveat di bawah) |
+| Skor Ramalan TxGNN | 0.00% (nilai skor seperti yang dilaporkan — mengesyorkan pengesahan, memandangkan kekuatan bukti sokongan) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 8 |
+| Keputusan Cadangan | Teruskan dengan Pengawal Selia |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed formal MOA documentation is flagged as a data gap in this pack, but the evidence pack's own rationale field is informative: theophylline acts through **phosphodiesterase (PDE) inhibition combined with adenosine receptor antagonism**, producing bronchial smooth muscle relaxation and anti-inflammatory effects. This mechanistic basis underlies decades of standard clinical use in obstructive airway disease.
+Dokumentasi MOA formal yang terperinci ditandai sebagai jurang data dalam pakej ini, tetapi medan rasional pakej bukti itu sendiri memberikan maklumat: teofelin bertindak melalui **perencatan fosfodiesterase (PDE) yang digabung dengan antagonisme reseptor adenosina**, menghasilkan pengambilan otot licin bronkial dan kesan anti-radang. Asas mekanisme ini mendasari puluhan tahun penggunaan klinikal standard dalam penyakit jalan nafas obstruktif.
 
-Importantly, the top-ranked predicted indication — asthma — is not a new therapeutic area for theophylline; it is the drug's own long-standing, well-documented indication (see literature evidence below, spanning 1983–2020). This means the finding should be read as the model **correctly recovering an already-established indication** rather than surfacing a genuinely novel repurposing opportunity. The evidence pack itself notes that a majority of the 48 matched clinical trials are not theophylline-specific interventions (e.g., trials of Symbicort, lebrikizumab, or biologics where theophylline appears only as a permitted background therapy) — the mechanistic and efficacy support is drawn mainly from the long-standing literature rather than from these trials directly.
+Dengan penting, indikasi yang diramalkan paling tinggi — asma — bukan kawasan terapeutik baru untuk teofelin; ia ialah indikasi bersejarah ubat itu sendiri yang telah lama sedia ada dan terdokumen dengan baik (lihat bukti literatur di bawah, merangkumi 1983–2020). Ini bermakna penemuan harus dibaca sebagai model yang **memulihkan indikasi yang telah ditetapkan dengan betul** dan bukannya menampilkan peluang pemindahan tujuan yang benar-benar novel. Pakej bukti itu sendiri mencatat bahawa majoriti 48 ujian klinikal yang dipadankan bukan campur tangan khusus teofelin (cth., ujian Symbicort, lebrikizumab, atau biologi di mana teofelin muncul hanya sebagai terapi latar belakang yang dibenarkan) — sokongan mekanik dan keberkesanan diambil terutamanya daripada literatur yang telah lama sedia ada dan bukannya daripada ujian ini secara langsung.
 
-Lower-ranked candidates (allergic asthma, bronchitis, pulmonary emphysema, intrinsic asthma) represent plausible mechanistic extensions of the same bronchodilator/anti-inflammatory action but carry progressively weaker direct evidence (L3–L5), with intrinsic asthma flagged as Hold (L5, S0) due to lack of subtype-specific data.
+Calon yang kedudukan lebih rendah (asma alergik, bronkitis, emfisema pulmonari, asma intrinsik) mewakili sambungan mekanisme yang munasabah bagi tindakan bronkodilator/anti-radang yang sama tetapi membawa bukti langsung yang semakin lemah (L3–L5), dengan asma intrinsik ditandai sebagai Tahan (L5, S0) disebabkan kekurangan data khusus subtipe.
 
 ---
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-Selected from 48 matched trials, prioritizing studies where theophylline is a direct study intervention or comparator:
+Dipilih daripada 48 ujian yang dipadankan, mengutamakan kajian di mana teofelin ialah campur tangan atau pembanding kajian langsung:
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT00252785](https://clinicaltrials.gov/study/NCT00252785) | Phase 3 | Completed | 340 | Symbicort Turbuhaler 160/4.5µg vs Pulmicort + Theolong (theophylline) tablet in Japanese asthma patients |
-| [NCT00000578](https://clinicaltrials.gov/study/NCT00000578) | Phase 3 | Completed | N/A | NHLBI Asthma in Pregnancy Trial (ATPT): RCT of inhaled beclomethasone vs theophylline in moderate asthma during pregnancy |
-| [NCT00756418](https://clinicaltrials.gov/study/NCT00756418) | Phase 4 | Completed | 84 | Montelukast vs theophylline added to inhaled corticosteroid in pediatric bronchial asthma |
-| [NCT00119496](https://clinicaltrials.gov/study/NCT00119496) | Phase 2/3 | Completed | 79 | Theophylline reverses corticosteroid resistance in asthmatic smokers; compared with rosiglitazone + ICS |
-| [NCT01132781](https://clinicaltrials.gov/study/NCT01132781) | Phase 2 | Completed | 28 | Effect of theophylline in patients with allergic rhinitis (comorbid airway disease with asthma) |
-| [NCT02023554](https://clinicaltrials.gov/study/NCT02023554) | N/A | Completed | 40 | PK drug-interaction study: effect of azithromycin on steady-state theophylline plasma levels (Chinese population) |
-| [NCT01684683](https://clinicaltrials.gov/study/NCT01684683) | Phase 4 | Completed | 100 | Efficacy and safety of 24-week theophylline treatment in non-cystic fibrosis bronchiectasis |
-| [NCT04789499](https://clinicaltrials.gov/study/NCT04789499) | Phase 2 | Completed | 51 | Intranasal theophylline (PDE inhibitor) for COVID-19-related anosmia/dysgeusia |
+| [NCT00252785](https://clinicaltrials.gov/study/NCT00252785) | Fasa 3 | Selesai | 340 | Symbicort Turbuhaler 160/4.5µg vs Pulmicort + tablet Theolong (teofelin) dalam pesakit asma Jepun |
+| [NCT00000578](https://clinicaltrials.gov/study/NCT00000578) | Fasa 3 | Selesai | N/A | Ujian Asma dalam Kehamilan NHLBI (ATPT): RCT beklometason terhisap vs teofelin dalam asma sederhana semasa kehamilan |
+| [NCT00756418](https://clinicaltrials.gov/study/NCT00756418) | Fasa 4 | Selesai | 84 | Montelukast vs teofelin ditambah kortikosteroid terhisap dalam asma bronkial pediatrik |
+| [NCT00119496](https://clinicaltrials.gov/study/NCT00119496) | Fasa 2/3 | Selesai | 79 | Teofelin membalikkan rintangan kortikosteroid dalam perokok asma; dibandingkan dengan rosiglitazon + ICS |
+| [NCT01132781](https://clinicaltrials.gov/study/NCT01132781) | Fasa 2 | Selesai | 28 | Kesan teofelin dalam pesakit dengan rhinitis alergik (penyakit jalan nafas komorbid dengan asma) |
+| [NCT02023554](https://clinicaltrials.gov/study/NCT02023554) | N/A | Selesai | 40 | Kajian interaksi ubat PK: kesan azitromicin pada tahap plasma teofelin keadaan mantap (populasi Cina) |
+| [NCT01684683](https://clinicaltrials.gov/study/NCT01684683) | Fasa 4 | Selesai | 100 | Keberkesanan dan keselamatan rawatan teofelin 24 minggu dalam bronkiektasis bukan fibrosis kistik |
+| [NCT04789499](https://clinicaltrials.gov/study/NCT04789499) | Fasa 2 | Selesai | 51 | Teofelin intranasal (perencat PDE) untuk anosmia/disgeusia berkaitan COVID-19 |
 
 ---
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [8471184](https://pubmed.ncbi.nlm.nih.gov/8471184/) | 1993 | Review | Drug Safety | Theophylline used in asthma for 50+ years; reviews risk/benefit balance versus newer bronchodilators |
-| [8614425](https://pubmed.ncbi.nlm.nih.gov/8614425/) | 1996 | Review | New England Journal of Medicine | Established clinical review of theophylline's role in asthma management |
-| [2010095](https://pubmed.ncbi.nlm.nih.gov/2010095/) | 1991 | Review | Geriatrics | Theophylline's changing role and controversies in asthma and COPD |
-| [7589387](https://pubmed.ncbi.nlm.nih.gov/7589387/) | 1995 | Review | European Respiratory Journal | Theophylline and selective PDE inhibitors as anti-inflammatory agents in bronchial asthma |
-| [9756184](https://pubmed.ncbi.nlm.nih.gov/9756184/) | 1998 | Review | Clin Exp Allergy | Theophylline's effects on airway inflammation beyond bronchodilation |
-| [1735811](https://pubmed.ncbi.nlm.nih.gov/1735811/) | 1992 | Cohort/Clinical study | Journal of Pediatrics | Safety and efficacy of theophylline in children with asthma |
-| [11775391](https://pubmed.ncbi.nlm.nih.gov/11775391/) | 2001 | Review | Allergy and Asthma Proceedings | Theophylline decreases airway inflammation and accelerates eosinophil apoptosis at low doses |
-| [32094104](https://pubmed.ncbi.nlm.nih.gov/32094104/) | 2020 | Review | Respiratory Medicine | Theophylline remains widely prescribed for asthma/COPD in resource-limited settings; anti-inflammatory and corticosteroid-resistance-reversing effects |
-| [19479396](https://pubmed.ncbi.nlm.nih.gov/19479396/) | 1997 | Review | Medizinische Klinik | Combination of inhaled corticosteroid plus theophylline at least as effective as doubling ICS dose |
-| [3315274](https://pubmed.ncbi.nlm.nih.gov/3315274/) | 1987 | Review | Chronobiology International | Sustained-release theophylline and unequal (evening-weighted) dosing for nocturnal asthma |
+| [8471184](https://pubmed.ncbi.nlm.nih.gov/8471184/) | 1993 | Ulasan | Drug Safety | Teofelin digunakan dalam asma selama 50+ tahun; mengkaji keseimbangan risiko/manfaat berbanding dengan bronkodilator lebih baru |
+| [8614425](https://pubmed.ncbi.nlm.nih.gov/8614425/) | 1996 | Ulasan | New England Journal of Medicine | Ulasan klinikal yang ditetapkan tentang peranan teofelin dalam pengurusan asma |
+| [2010095](https://pubmed.ncbi.nlm.nih.gov/2010095/) | 1991 | Ulasan | Geriatrics | Peranan yang berubah dan kontroversi teofelin dalam asma dan PPOK |
+| [7589387](https://pubmed.ncbi.nlm.nih.gov/7589387/) | 1995 | Ulasan | European Respiratory Journal | Teofelin dan perencat PDE terpilih sebagai agen anti-radang dalam asma bronkial |
+| [9756184](https://pubmed.ncbi.nlm.nih.gov/9756184/) | 1998 | Ulasan | Clin Exp Allergy | Kesan teofelin pada radang jalan nafas melampaui bronkodilasi |
+| [1735811](https://pubmed.ncbi.nlm.nih.gov/1735811/) | 1992 | Kajian Kohort/Klinikal | Journal of Pediatrics | Keselamatan dan keberkesanan teofelin pada kanak-kanak dengan asma |
+| [11775391](https://pubmed.ncbi.nlm.nih.gov/11775391/) | 2001 | Ulasan | Allergy and Asthma Proceedings | Teofelin mengurangkan radang jalan nafas dan mempercepatkan apoptosis eosinofil pada dos rendah |
+| [32094104](https://pubmed.ncbi.nlm.nih.gov/32094104/) | 2020 | Ulasan | Respiratory Medicine | Teofelin tetap diberikan secara meluas untuk asma/PPOK dalam tetapan sumber terhad; kesan anti-radang dan pembalikan rintangan kortikosteroid |
+| [19479396](https://pubmed.ncbi.nlm.nih.gov/19479396/) | 1997 | Ulasan | Medizinische Klinik | Kombinasi kortikosteroid terhisap tambah teofelin sekurang-kurangnya sama berkuat kuasa seperti menggandakan dos ICS |
+| [3315274](https://pubmed.ncbi.nlm.nih.gov/3315274/) | 1987 | Ulasan | Chronobiology International | Teofelin larutan berkerpanjangan dan pemberian tidak sama (berat petang) untuk asma malam |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Malaysia market status is **✓ Marketed** with **8 registered licenses** on file, but the registry extract in this evidence pack does not contain populated license numbers, product names, dosage forms, or indication text for these entries — this data needs to be pulled directly from the NPRA registry before market-facing claims can be made.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
+Status pasaran Malaysia ialah **✓ Dipasarkan** dengan **8 lesen berdaftar** dalam fail, tetapi ekstrak daftar dalam pakej bukti ini tidak mengandungi nombor lesen yang diisi, nama produk, bentuk dos, atau teks indikasi untuk penyertaan ini — data ini perlu ditarik terus daripada daftar NPRA sebelum tuntutan menghadap pasaran boleh dibuat.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Proceed with Guardrails**
+Sila rujuk surat sisipan pakej untuk maklumat keselamatan.
 
-**Rationale:**
-Theophylline has a deep base of literature and multiple Phase 3 trials supporting bronchodilator/anti-inflammatory efficacy in asthma, justifying an L1 evidence level. However, this "prediction" largely reconfirms theophylline's own established indication rather than identifying a genuinely new use, and the reported TxGNN score (0.00%) is inconsistent with the volume of supporting evidence — both points need resolution before this candidate is treated as a repurposing opportunity. Safety data (warnings, contraindications, DDI) is entirely unavailable and is a blocking gap for any S1 safety pass.
+---
 
-**To proceed, the following is needed:**
-- Retrieve TFDA/NPRA package insert warnings and contraindications (DG001, blocking)
-- Retrieve formal DrugBank MOA documentation (DG002)
-- Verify the TxGNN score of 0.00% against the source scoring pipeline — likely a data/normalization anomaly given L1 evidence
-- Populate the 8 Malaysia license records (product name, dosage form, approved indication text)
-- Clarify with the review team whether "asthma" as the top-ranked candidate should be reclassified as a validation/QA case rather than a repurposing candidate, given it matches theophylline's own historical indication
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Teruskan dengan Pengawal Selia**
+
+**Rasional:**
+Teofelin mempunyai pangkalan literatur yang mendalam dan berbilang ujian Fasa 3 yang menyokong keberkesanan bronkodilator/anti-radang dalam asma, mewajarkan tahap bukti L1. Bagaimanapun, "ramalan" ini sebahagian besarnya mengesahkan semula indikasi yang ditetapkan teofelin itu sendiri dan bukannya mengenal pasti penggunaan yang benar-benar baru, dan skor TxGNN yang dilaporkan (0.00%) tidak konsisten dengan jumlah bukti sokongan — kedua-dua titik ini memerlukan penyelesaian sebelum calon ini dianggap sebagai peluang pemindahan tujuan. Data keselamatan (amaran, kontraindikasi, DDI) sepenuhnya tidak tersedia dan merupakan jurang yang menyekat untuk sebarang lintasan keselamatan S1.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+
+- Ambil amaran surat sisipan TFDA/NPRA dan kontraindikasi (DG001, menyekat)
+- Ambil dokumentasi MOA DrugBank formal (DG002)
+- Sahkan skor TxGNN 0.00% terhadap saluran pemarkahan sumber — berkemungkinan anomali data/normalisasi memandangkan bukti L1
+- Isi rekod 8 lesen Malaysia (nama produk, bentuk dos, teks indikasi yang diluluskan)
+- Jelaskan dengan pasukan semakan sama ada "asma" sebagai calon paling tinggi kedudukan harus dikelasifikasikan semula sebagai kes pengesahan/QA dan bukannya calon pemindahan tujuan, memandangkan ia sepadan dengan indikasi bersejarah teofelin itu sendiri
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

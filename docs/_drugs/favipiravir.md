@@ -29,65 +29,64 @@ Tahap bukti: **L5** | Indikasi diramal: **3**
 
 </div>
 
-# Favipiravir: From Antiviral Therapy to Hemophagocytic Syndrome Associated with an Infection
+# Favipiravir: Dari Terapi Antivirus kepada Sindrom Hemofagositik Berkaitan Infeksi
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Favipiravir is a broad-spectrum antiviral (RNA-dependent RNA polymerase inhibitor); its originally approved indication is not recorded in the available Malaysia registry extract.
-The TxGNN model predicts it may be effective for **Hemophagocytic Syndrome Associated with an Infection**,
-currently supported only by **2 review-type publications** and **no clinical trials**, indicating an early-stage mechanistic hypothesis rather than validated clinical evidence.
+Favipiravir adalah antivirus spektrum luas (penghambat RNA-dependent RNA polymerase); indikasinya yang diluluskan pada asalnya tidak tercatat dalam ekstrak daftar Malaysia yang tersedia. Model TxGNN meramalkan ia mungkin berkesan untuk **Sindrom Hemofagositik Berkaitan Infeksi**, kini disokong hanya oleh **2 publikasi jenis ulasan** dan **tiada percubaan klinikal**, menunjukkan hipotesis mekanistik peringkat awal dan bukannya bukti klinikal yang disahkan.
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | Not available in current registry records |
-| Predicted New Indication | Hemophagocytic syndrome associated with an infection |
-| TxGNN Prediction Score | 99.41% |
-| Evidence Level | L4 (preclinical/mechanism-level literature only) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|---------|
+| Indikasi Asal | Tidak tersedia dalam rekod daftar semasa |
+| Indikasi Baru Diramalkan | Sindrom hemofagositik berkaitan infeksi |
+| Skor Ramalan TxGNN | 99.41% |
+| Tahap Bukti | L4 (literatur peringkat praklinikal/mekanisme sahaja) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | Pegangan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Wajar?
 
-Detailed mechanism-of-action data is not formally on file (DrugBank MOA field is a data gap), but supporting evidence within this evidence pack characterizes favipiravir as a broad-spectrum RNA-dependent RNA polymerase (RdRp) inhibitor with antiviral activity against SFTS virus (severe fever with thrombocytopenia syndrome virus) and Heartland virus — both bunyaviruses.
+Data mekanisme tindakan terperinci tidak secara rasmi dalam fail (medan MOA DrugBank adalah jurang data), tetapi bukti sokongan dalam pakej bukti ini mencirikan favipiravir sebagai penghambat RNA-dependent RNA polymerase (RdRp) spektrum luas dengan aktiviti antivirus terhadap virus SFTS (severe fever with thrombocytopenia syndrome virus) dan virus Heartland — kedua-dua bunyavirus.
 
-Infections with these viruses are a recognized trigger for infection-associated hemophagocytic lymphohistiocytosis (HLH). The underlying logic is therefore indirect: suppressing viral replication upstream may reduce the trigger for hemophagocytic activation, rather than favipiravir directly modulating the hemophagocytic/immune-activation pathway itself (e.g., IFN-γ, JAK-STAT signaling).
+Jangkitan virus ini adalah pencetus yang diiktiraf bagi limfosititis hemofagositik berkaitan infeksi (HLH). Logik asas adalah oleh itu tidak langsung: menekan replikasi virus di hulu mungkin mengurangkan pencetus untuk pengaktifan hemofagositik, bukannya favipiravir secara langsung memodulasi laluan hemofagositik/pengaktifan imun itu sendiri (contohnya, isyarat IFN-γ, JAK-STAT).
 
-This distinction matters for interpretation — the TxGNN score of 99.41% reflects a knowledge-graph-level connection between "favipiravir → antiviral → SFTS/Heartland virus → HLH," not direct clinical evidence that favipiravir treats hemophagocytic syndrome as an outcome. It should be read as a research hypothesis rooted in treating the upstream infection, not a validated indication.
+Perbezaan ini penting untuk pentafsiran — skor TxGNN 99.41% mencerminkan sambungan peringkat graf pengetahuan antara "favipiravir → antivirus → virus SFTS/Heartland → HLH," bukan bukti klinikal langsung bahawa favipiravir merawat sindrom hemofagositik sebagai hasil. Ia harus dibaca sebagai hipotesis penyelidikan berakar dalam merawat infeksi di hulu, bukan indikasi yang disahkan.
 
-## Clinical Trial Evidence
+## Bukti Percubaan Klinikal
 
-Currently no related clinical trials registered
+Kini tiada percubaan klinikal berkaitan terdaftar
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [30098914](https://pubmed.ncbi.nlm.nih.gov/30098914/) | 2018 | Review | Journal of Infection and Chemotherapy | Reviews pathophysiology of severe fever with thrombocytopenia syndrome (SFTS), a bunyavirus infection, and discusses development of specific antiviral therapy against SFTSV. |
-| [38399689](https://pubmed.ncbi.nlm.nih.gov/38399689/) | 2024 | Review | Microorganisms | Reviews Heartland virus disease, a tick-borne bunyavirus infection with symptoms including fever, leukopenia and thrombocytopenia — an underreported emerging infection. |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|------|------|------|---------|
+| [30098914](https://pubmed.ncbi.nlm.nih.gov/30098914/) | 2018 | Ulasan | Journal of Infection and Chemotherapy | Mengulas patofisiologi severe fever with thrombocytopenia syndrome (SFTS), jangkitan bunyavirus, dan membincangkan pembangunan terapi antivirus khusus terhadap SFTSV. |
+| [38399689](https://pubmed.ncbi.nlm.nih.gov/38399689/) | 2024 | Ulasan | Microorganisms | Mengulas penyakit virus Heartland, jangkitan bunyavirus yang dibawa tik dengan gejala termasuk demam, leukopenia dan trombositopenia — jangkitan yang baru memuncul dan kurang dilaporkan. |
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Malaysia registry data confirms the product is marketed with 1 registered license, but detailed particulars (license number, product name, dosage form, approved indication text) are not populated in the current data extract.
+Data daftar Malaysia mengesahkan produk dipasarkan dengan 1 lesen terdaftar, tetapi butiran terperinci (nombor lesen, nama produk, bentuk dos, teks indikasi yang diluluskan) tidak diisi dalam ekstrak data semasa.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information. (Note: TFDA/NPRA label warnings and contraindications are flagged as a **Blocking** data gap — DG001 — pending retrieval of the official product label.)
+Sila rujuk sisipan pakej untuk maklumat keselamatan. (Nota: Amaran label TFDA/NPRA dan kontraindikasi ditandakan sebagai jurang data **Menyekat** — DG001 — menunggu pengambilan label produk rasmi.)
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Pegangan**
 
-**Rationale:**
-Evidence is limited to mechanism-level review literature (L4) with no clinical trials, and the mechanistic link is indirect — favipiravir would act on the upstream viral trigger, not the hemophagocytic pathway itself. Critically, TFDA/NPRA safety label data is a Blocking gap (DG001), which prevents even a baseline safety assessment (S1) from being completed. The two lower-ranked predictions in this pack (malignancy-associated HLH; a mitochondrial Complex IV deficiency) lack any supporting mechanism or literature and are separately flagged Hold.
+**Alasan:**
+Bukti terbatas kepada literatur ulasan peringkat mekanisme (L4) tanpa percubaan klinikal, dan pautan mekanistik adalah tidak langsung — favipiravir akan bertindak pada pencetus virus di hulu, bukan laluan hemofagositik itu sendiri. Secara kritikal, data label keselamatan TFDA/NPRA adalah jurang Penyekat (DG001), yang menghalang bahkan penilaian keselamatan garis dasar (S1) daripada disiapkan. Dua ramalan berperingkat lebih rendah dalam pakej ini (HLH berkaitan keganasan; kekurangan Kompleks IV mitokondria) tidak mempunyai sebarang mekanisme atau literatur sokongan dan secara berasingan ditandakan Pegangan.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA product label (warnings, contraindications) — resolves DG001
-- Confirmed mechanism-of-action documentation from DrugBank — resolves DG002
-- Original approved indication text for this product (currently missing from the registry extract)
-- Case reports or preclinical data directly linking favipiravir treatment to hemophagocytic syndrome outcomes, rather than upstream viral-infection reviews alone
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Label produk TFDA/NPRA (amaran, kontraindikasi) — menyelesaikan DG001
+- Dokumentasi mekanisme tindakan yang disahkan daripada DrugBank — menyelesaikan DG002
+- Teks indikasi asal yang disahkan untuk produk ini (kini hilang daripada ekstrak daftar)
+- Laporan kes atau data praklinikal yang menghubungkan langsung rawatan favipiravir kepada hasil sindrom hemofagositik, daripada ulasan infeksi virus di hulu sahaja
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,89 +29,88 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# ALVERINE CITRATE: Drug Repurposing Evaluation — Insufficient Data for Prediction
+# ALVERINE CITRATE: Penilaian Ubah Guna Ubat — Data Tidak Mencukupi untuk Prediksi
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Alverine Citrate is a smooth muscle relaxant (antispasmodic) registered in Malaysia, commonly indicated for gastrointestinal spasm and irritable bowel syndrome (IBS).
-However, the current Evidence Pack contains **no TxGNN-predicted new indications**, and critical data fields — including mechanism of action and approved indication text — are missing.
-**This report cannot proceed to a full repurposing evaluation until the blocking data gaps are resolved.**
+Alverine Citrate adalah penenang otot licin (antispasmodik) yang berdaftar di Malaysia, biasanya ditunjukkan untuk keram gastrointestinal dan sindrom usus terrangsang (IBS). Namun, Paket Bukti semasa **tidak mengandungi indikasi baru yang diramalkan oleh TxGNN**, dan medan data kritikal — termasuk mekanisme tindakan dan teks indikasi yang diluluskan — tidak tersedia. **Laporan ini tidak dapat diteruskan ke penilaian ubah guna penuh sehingga jurang data kritikal diselesaikan.**
 
 ---
 
-## Quick Overview
+## Gambaran Keseluruhan Cepat
 
-| Item | Content |
-|------|---------|
-| Original Indication | Not available in current Evidence Pack |
-| Predicted New Indication | None — TxGNN prediction not completed |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 (model prediction only — not yet run) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
-| Recommended Decision | **Hold** |
-
----
-
-## Why Is This Prediction Reasonable?
-
-Currently, no TxGNN predicted indications are available for Alverine Citrate in this Evidence Pack. The `predicted_indications` array is empty, which means the knowledge graph and deep learning prediction pipeline has not yet produced output for this compound.
-
-Additionally, detailed mechanism of action (MOA) data is absent. Based on general pharmacological knowledge, Alverine Citrate is a smooth muscle relaxant of the antispasmodic class, acting on visceral smooth muscle to relieve cramps. Its established use in gastrointestinal and gynaecological spasm conditions provides a mechanistic basis for potential repurposing into related motility or pain disorders — but this analysis cannot be formally conducted without completing the prediction pipeline.
-
-**No further mechanistic or indication-relatedness analysis can be performed until the Evidence Pack is populated.**
+| Item | Kandungan |
+|------|-----------|
+| Indikasi Asal | Tidak tersedia dalam Paket Bukti semasa |
+| Indikasi Baru yang Diramalkan | Tiada — prediksi TxGNN belum disiapkan |
+| Skor Prediksi TxGNN | Tidak Terpakai |
+| Tahap Bukti | L5 (ramalan model sahaja — belum dijalankan) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 2 |
+| Keputusan yang Dicadangkan | **Tunggu** |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Prediksi Ini Munasabah?
 
-Currently no related clinical trials registered in this Evidence Pack.
+Pada masa ini, tiada indikasi yang diramalkan oleh TxGNN yang tersedia untuk Alverine Citrate dalam Paket Bukti ini. Tatasusunan `predicted_indications` adalah kosong, yang bermaksud saluran paip prediksi graf pengetahuan dan pembelajaran mendalam belum menghasilkan keluaran untuk sebatian ini.
 
-*(Reason: No predicted indication available to anchor trial search.)*
+Selain itu, data mekanisme tindakan terperinci (MOA) tidak ada. Berdasarkan pengetahuan farmakologi am, Alverine Citrate adalah penenang otot licin kelas antispasmodik, bertindak pada otot licin viseral untuk menghilangkan kejang. Kegunaannya yang terbukti dalam keadaan kejang gastrointestinal dan ginekologi memberikan asas mekanistik untuk ubah guna berpotensi ke dalam gangguan motilitas yang berkaitan atau kesakitan — tetapi analisis ini tidak dapat dijalankan secara formal tanpa melengkapkan saluran paip prediksi.
 
----
-
-## Literature Evidence
-
-Currently no related literature available in this Evidence Pack.
-
-*(Reason: No predicted indication available to anchor literature search.)*
+**Tiada analisis mekanistik atau berkaitan indikasi lanjut boleh dilakukan sehingga Paket Bukti dilengkapkan.**
 
 ---
 
-## Malaysia Market Information
+## Bukti Uji Klinis
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|----------------------|--------------|-------------|---------------------|
+Pada masa ini tiada uji klinis berkaitan yang berdaftar dalam Paket Bukti ini.
+
+*(Sebab: Tiada indikasi yang diramalkan tersedia untuk mendasarkan carian uji.)*
+
+---
+
+## Bukti Literatur
+
+Pada masa ini tiada literatur berkaitan yang tersedia dalam Paket Bukti ini.
+
+*(Sebab: Tiada indikasi yang diramalkan tersedia untuk mendasarkan carian literatur.)*
+
+---
+
+## Maklumat Pasaran Malaysia
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
+|------------------|-------------|-----------|-------------------------|
 | — | — | — | — |
 | — | — | — | — |
 
-> **Note:** 2 registrations are confirmed in the Malaysia regulatory database (market status: Marketed), but the product names, dosage forms, and approved indication texts were not retrieved in this data pull. Re-querying the NPRA database or accessing individual product records is required.
+> **Nota:** 2 pendaftaran disahkan dalam pangkalan data pengawal selia Malaysia (status pasaran: Dipasarkan), tetapi nama produk, bentuk dos, dan teks indikasi yang diluluskan tidak diambil dalam tarik data ini. Pertanyaan semula pangkalan data NPRA atau mengakses rekod produk individu diperlukan.
 
 ---
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk kepada lembaran maklumat produk untuk maklumat keselamatan.
 
-> **Data Gap Notice:** Both key warnings and contraindications returned `[Data Gap]` in this Evidence Pack (classified as **Blocking** severity). No drug-drug interaction records were found. Safety evaluation cannot proceed until the TFDA/NPRA package insert is retrieved and parsed.
+> **Notis Jurang Data:** Kedua-dua amaran utama dan kontraindikasi mengembalikan `[Jurang Data]` dalam Paket Bukti ini (diklasifikasikan sebagai keterukan **Halangan**). Tiada rekod interaksi ubat-ubat ditemui. Penilaian keselamatan tidak dapat diteruskan sehingga lembaran maklumat produk TFDA/NPRA diambil dan dianalisis.
 
 ---
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tunggu**
 
-**Rationale:**
-The Evidence Pack for Alverine Citrate is critically incomplete — there are no TxGNN-predicted indications, no MOA data, no approved indication text, and no safety information. A repurposing evaluation cannot be meaningfully conducted in this state.
+**Rasional:**
+Paket Bukti untuk Alverine Citrate sangat tidak lengkap — tiada indikasi yang diramalkan oleh TxGNN, tiada data MOA, tiada teks indikasi yang diluluskan, dan tiada maklumat keselamatan. Penilaian ubah guna yang bermakna tidak dapat dijalankan dalam keadaan ini.
 
-**To proceed, the following is needed:**
+**Untuk meneruskan, yang berikut diperlukan:**
 
-- [ ] **[Blocking — DG001]** Download and parse the TFDA/NPRA package insert PDF to extract approved indications, key warnings, and contraindications
-- [ ] **[High — DG002]** Query DrugBank API using INN "alverine citrate" to retrieve DrugBank ID, MOA, pharmacodynamics, and drug categories
-- [ ] **[Required]** Re-run TxGNN KG and DL prediction pipeline with correct DrugBank ID mapped to populate `predicted_indications`
-- [ ] **[Required]** Re-query NPRA product records to fill in license number, product name, dosage form, and approved indication text for the 2 confirmed registrations
-- [ ] **[Optional]** Confirm INN spelling and alternate names (e.g., "Alverine", "Alverin citrate") to improve mapping coverage across all collectors
+- [ ] **[Halangan — DG001]** Muat turun dan analisis PDF lembaran maklumat produk TFDA/NPRA untuk mengeluarkan indikasi yang diluluskan, amaran utama, dan kontraindikasi
+- [ ] **[Tinggi — DG002]** Pertanyaan API DrugBank menggunakan INN "alverine citrate" untuk mendapatkan DrugBank ID, MOA, farmakodinamik, dan kategori ubat
+- [ ] **[Diperlukan]** Jalankan semula saluran paip prediksi KG dan DL TxGNN dengan DrugBank ID yang dipetakan dengan betul untuk melengkapkan `predicted_indications`
+- [ ] **[Diperlukan]** Pertanyaan semula rekod produk NPRA untuk mengisi nombor lesen, nama produk, bentuk dos, dan teks indikasi yang diluluskan untuk 2 pendaftaran yang disahkan
+- [ ] **[Pilihan]** Sahkan ejaan INN dan nama alternatif (cth., "Alverine", "Alverin sitrat") untuk meningkatkan liputan pemetaan merentas semua pengumpul
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

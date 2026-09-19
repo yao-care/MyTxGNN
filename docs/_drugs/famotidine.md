@@ -29,76 +29,77 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Famotidine: From Peptic Ulcer Disease / GERD to Hyperinsulinism
+# Famotidine: Dari Penyakit Ulser Peptik / GERD ke Hyperinsulinisme
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Famotidine is a histamine H2-receptor antagonist long established for acid-related gastrointestinal conditions (peptic ulcer disease, GERD/erosive esophagitis) — this is inferred from the evidence pack itself, where famotidine repeatedly appears as the standard comparator drug in these conditions, since Malaysia registration and original-indication fields were not populated in this dataset. TxGNN's top-ranked candidate, **Hyperinsulinism**, has a prediction score of **0%** and is supported by **0 clinical trials** and **0 publications**; the reviewer's own annotation flags it as likely database-matching noise with no known mechanistic link.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not provided in registry data; famotidine is a well-established H2-receptor antagonist used for peptic ulcer disease and GERD/erosive esophagitis (inferred from its role as reference comparator throughout this evidence pack) |
-| Predicted New Indication | Hyperinsulinism |
-| TxGNN Prediction Score | 0.00% |
-| Evidence Level | L5 |
-| Malaysia Market Status | Marketed (Marketed) |
-| Number of Registrations | 15 |
-| Recommended Decision | Hold |
+Famotidine adalah antagonis reseptor histamin H2 yang telah lama ditegakkan untuk keadaan gastrointestinal berkaitan asid (penyakit ulser peptik, GERD/esofagitis erosif) — ini disimpulkan daripada pakej bukti itu sendiri, di mana famotidine berulang kali muncul sebagai ubat komparator piawai dalam keadaan ini, kerana medan pendaftaran Malaysia dan medan indicasi asal tidak diisi dalam dataset ini. Calon terpangkat teratas TxGNN, **Hyperinsulinisme**, mempunyai skor ramalan **0%** dan disokong oleh **0 ujian klinikal** dan **0 penerbitan**; anotasi reviewer sendiri menandainya sebagai kemungkinan besar kebisingan padanan pangkalan data tanpa pautan mekanistik yang diketahui.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Pantas
 
-Currently, detailed mechanism of action data is not available (flagged as a Blocking/High-severity data gap in this evidence pack). Based on known pharmacology, famotidine acts as a selective histamine H2-receptor antagonist on parietal cells, reducing gastric acid secretion — a mechanism with no established connection to insulin secretion regulation.
-
-The evidence pack's own mechanistic annotation for this candidate states directly: famotidine's H2-antagonism acts on gastric acid secretion and has no known mechanistic relationship to hyperinsulinism, and with a TxGNN score of 0.0 this pairing is most likely database-matching noise rather than a genuine repurposing signal.
-
-Because the TxGNN score is 0 across all five candidates in this pack (including the better-evidenced ones below), the score field itself may not be reliably populated for this run — this should be verified against the raw model output before further use.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Item | Kandungan |
+|------|----------|
+| Indicasi Asal | Tidak disediakan dalam data pendaftaran; famotidine adalah antagonis H2-reseptor yang telah mantap digunakan untuk penyakit ulser peptik dan GERD/esofagitis erosif (disimpulkan daripada peranannya sebagai komparator rujukan sepanjang pakej bukti ini) |
+| Indicasi Baru yang Diramalkan | Hyperinsulinisme |
+| Skor Ramalan TxGNN | 0.00% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | Dipasarkan (Marketed) |
+| Bilangan Pendaftaran | 15 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available.
+Pada masa kini, data mekanisme tindakan terperinci tidak tersedia (ditandai sebagai jurang data berkepentingan Blocking/High-severity dalam pakej bukti ini). Berdasarkan farmakologi yang diketahui, famotidine bertindak sebagai antagonis histamin H2-reseptor selektif pada sel parietal, mengurangkan sekresi asid gastrik — mekanisme tanpa hubungan yang ditegakkan dengan peraturan sekresi insulin.
 
----
+Anotasi mekanistik pakej bukti sendiri untuk calon ini menyatakan dengan terus terang: antagonisme H2 famotidine bertindak pada sekresi asid gastrik dan tidak mempunyai hubungan mekanistik yang diketahui dengan hyperinsulinisme, dan dengan skor TxGNN sebesar 0.0 gandingan ini paling berkemungkinan adalah kebisingan padanan pangkalan data dan bukannya isyarat repurposing yang tulen.
 
-## Malaysia Market Information
-
-Malaysia registry (NPRA) records 15 approved product licenses for Famotidine with market status "Marketed" (Marketed). Individual license numbers, product names, dosage forms, and approved indication text were not populated in this evidence pack and would need to be pulled directly from NPRA records to complete this table.
+Kerana skor TxGNN adalah 0 merentasi semua lima calon dalam pakej ini (termasuk yang lebih terbukti di bawah), medan skor itu sendiri mungkin tidak diisi dengan boleh dipercayai untuk larian ini — ini harus disahkan terhadap output model mentah sebelum penggunaan lanjutan.
 
 ---
 
-## Safety Considerations
+## Bukti Ujian Klinikal
 
-Please refer to the package insert for safety information.
+Pada masa kini tiada ujian klinikal berkaitan yang berdaftar.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Kesusasteraan
 
-**Decision: Hold**
+Pada masa kini tiada kesusasteraan berkaitan yang tersedia.
 
-**Rationale:**
-The top-ranked predicted indication (Hyperinsulinism) has zero supporting trials, zero literature, a 0% model score, and an explicitly flagged absence of mechanistic plausibility — this does not meet the bar to advance past initial screening.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert (warnings, contraindications) — currently a Blocking data gap
-- Confirmed original approved indication text and DrugBank MOA data
-- Verification of the TxGNN scoring pipeline, since all five candidates in this evidence pack returned a score of 0.0
-- If hyperinsulinism is to be pursued further, a targeted literature/preclinical search specifically on H2-receptor antagonism and insulin secretion pathways, since none currently exists in this pack
+## Maklumat Pasaran Malaysia
 
-**Note on other candidates in this evidence pack:** This dataset also contained four additional candidates — esophagitis, gastric ulcer, duodenal ulcer (each rank L1/S3, "Proceed with Guardrails," backed by multiple completed Phase 3 RCTs and dozens of publications), and gastrin secretion abnormality (L5/Hold, no evidence). However, the rationale text for esophagitis, gastric ulcer, and duodenal ulcer explicitly states these already reflect famotidine's established, approved-level indications rather than novel repurposing hypotheses — they are not "new" uses in the repurposing sense, which is why Hyperinsulinism (the nominal rank-1, genuinely novel candidate) was used as this report's headline despite its weak evidence. If the goal is to identify a viable repurposing candidate rather than document existing use, none of the five candidates in this pack currently qualifies — this evidence pack does not yet contain a credible new-indication signal for Famotidine.
+Pendaftaran Malaysia (NPRA) merekodkan 15 lesen produk yang diluluskan untuk Famotidine dengan status pasaran "Dipasarkan" (Marketed). Nombor lesen individu, nama produk, bentuk dos, dan teks indicasi yang diluluskan tidak diisi dalam pakej bukti ini dan perlu ditarik terus dari rekod NPRA untuk melengkapkan jadual ini.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Nisbah:**
+Indicasi yang diramalkan terpangkat teratas (Hyperinsulinisme) mempunyai sifar ujian yang menyokong, sifar kesusasteraan, skor model 0%, dan ketiadaan kebolehpercayaan mekanistik yang ditandai dengan jelas — ini tidak memenuhi bar untuk maju melepasi penyaringan awal.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisipan pakej TFDA/NPRA (amaran, kontraindikasi) — pada masa kini jurang data Blocking
+- Teks indicasi asal yang diluluskan yang disahkan dan data MOA DrugBank
+- Pengesahan saluran pemarkahan TxGNN, memandangkan semua lima calon dalam pakej bukti ini mengembalikan skor 0.0
+- Jika hyperinsulinisme akan dikejar lebih lanjut, pencarian kesusasteraan/pra-klinikal yang tersasaran khusus pada antagonisme H2-reseptor dan laluan sekresi insulin, kerana tiada yang terdapat dalam pakej ini
+
+**Catatan tentang calon lain dalam pakej bukti ini:** Dataset ini juga mengandungi empat calon tambahan — esofagitis, ulser gastrik, ulser duodenum (setiap pangkat L1/S3, "Teruskan dengan Penjaga," disokong oleh banyak RCT Fasa 3 yang selesai dan puluhan penerbitan), dan kelainan sekresi gastrin (L5/Tahan, tiada bukti). Walau bagaimanapun, teks nisbah untuk esofagitis, ulser gastrik, dan ulser duodenum secara eksplisit menyatakan bahawa ini sudah mencerminkan indicasi yang telah ditegakkan, peringkat diluluskan bagi famotidine dan bukannya hipotesis repurposing novel — ia bukan kegunaan "baru" dalam erti repurposing, itulah sebabnya Hyperinsulinisme (calon pangkat-1 nominal, benar-benar novel) digunakan sebagai tajuk laporan ini walaupun bukti yang lemah. Jika tujuannya adalah untuk mengenal pasti calon repurposing yang berdaya maju dan bukannya mendokumentasikan penggunaan sedia ada, tidak seorang pun daripada lima calon dalam pakej ini pada masa kini layak — pakej bukti ini belum pun mengandungi isyarat indicasi-baru yang kredibel untuk Famotidine.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

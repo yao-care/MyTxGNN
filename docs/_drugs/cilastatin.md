@@ -29,85 +29,86 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Cilastatin: From Severe Bacterial Infections (as Imipenem/Cilastatin) to Bacterial Arthritis
+# Cilastatin: Daripada Jangkitan Bakteri Teruk (sebagai Imipenem/Cilastatin) kepada Artritis Bakteri
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Cilastatin is a dehydropeptidase-I (DHP-1) inhibitor co-formulated with imipenem to protect it from renal degradation; it has no independent antibacterial activity of its own. The TxGNN model predicts a top-ranked association with **Bacterial Arthritis**, but the supporting **17 publications** (no clinical trials) are almost entirely studies of the *imipenem/cilastatin combination* treating bone/joint infections — the efficacy signal is attributable to imipenem, not cilastatin.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not specified in evidence pack (no NPRA license indication text captured); cilastatin is known to be marketed only as a fixed-dose combination with imipenem for severe bacterial infections |
-| Predicted New Indication | Bacterial Arthritis |
-| TxGNN Prediction Score | 99.98% |
-| Evidence Level | L4 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 5 |
-| Recommended Decision | Hold |
+Cilastatin ialah penghambat dehydropeptidase-I (DHP-1) yang diformulasikan bersama imipenem untuk melindunginya daripada degradasi renal; ia tidak mempunyai aktiviti antibakteria independen sendiri. Model TxGNN meramalkan perkaitan bertaraf teratas dengan **Artritis Bakteri**, tetapi **17 penerbitan** sokongan (tiada ujian klinikal) hampir sepenuhnya adalah kajian kombinasi *imipenem/cilastatin* merawat jangkitan tulang/sendi — isyarat keberkesanan adalah disebabkan oleh imipenem, bukan cilastatin.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Pantas
 
-Currently, detailed mechanism of action data for cilastatin is not available in the evidence pack. Based on known pharmacology, cilastatin is a renal dehydropeptidase-I (DHP-1) inhibitor whose sole clinical role is to prevent renal metabolism of imipenem, thereby maintaining adequate imipenem concentrations. Cilastatin itself has **no independent antibacterial activity** — it is never used as a standalone antibacterial agent.
-
-The literature supporting the "bacterial arthritis" prediction consists of case series, cohort studies, and case reports of the imipenem/cilastatin *combination* treating osteomyelitis and septic/suppurative arthritis (e.g., PMID 3544811, 3904406, 3464787). While these confirm that imipenem/cilastatin is an effective regimen for bone and joint infections, the therapeutic effect should be attributed to imipenem's broad-spectrum beta-lactam activity, not to cilastatin. The same pattern repeats across all 10 TxGNN-predicted indications in this evidence pack (MRSA infection, pneumonia, sinusitis, bronchitis, etc.) — the model appears to be picking up on the fixed-dose combination's established antibacterial uses rather than identifying a genuinely novel mechanism-based repurposing signal for cilastatin.
-
-For this reason, the mechanistic rationale for treating cilastatin as an independently repurposable drug for bacterial arthritis is weak, despite the high TxGNN prediction score.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for cilastatin + bacterial arthritis.
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Tidak dinyatakan dalam pakej bukti (tiada teks indikasi lesen NPRA yang ditangkap); cilastatin diketahui dipasarkan hanya sebagai kombinasi dos tetap dengan imipenem untuk jangkitan bakteri teruk |
+| Indikasi Baru yang Diramalkan | Artritis Bakteri |
+| Skor Ramalan TxGNN | 99.98% |
+| Tahap Bukti | L4 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 5 |
+| Keputusan yang Disyorkan | Tunggu |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [3544811](https://pubmed.ncbi.nlm.nih.gov/3544811/) | 1987 | Cohort | Am J Dis Child | 25 infants/children with acute osteomyelitis and/or suppurative arthritis treated with imipenem/cilastatin; needle aspiration/surgical drainage performed in a subset |
-| [3904406](https://pubmed.ncbi.nlm.nih.gov/3904406/) | 1985 | Cohort | Am J Dis Child | 40 hospitalized children with proved/suspected bacterial infection (including bone/joint) treated with imipenem/cilastatin; efficacy and toxicity assessed |
-| [3464787](https://pubmed.ncbi.nlm.nih.gov/3464787/) | 1986 | Case series | Jpn J Antibiot | 30 cases of bone and joint infection treated with imipenem/cilastatin sodium; overall cure rate 87% (96% acute, 50% chronic) |
-| [7843815](https://pubmed.ncbi.nlm.nih.gov/7843815/) | 1994 | Case report | Infection | Hip septic arthritis due to *Bacteroides fragilis* in an alcoholic patient; recovery after imipenem/cilastatin + metronidazole plus surgical debridement |
-| [16718934](https://pubmed.ncbi.nlm.nih.gov/16718934/) | 2006 | Case report | Scand J Infect Dis | Spondylodiscitis after facet joint steroid injection (*Pseudomonas aeruginosa*), treated with amikacin plus imipenem/cilastatin |
-| [27826114](https://pubmed.ncbi.nlm.nih.gov/27826114/) | 2017 | Case report | Int J Infect Dis | Disseminated *Nocardia elegans* infection in a rheumatoid arthritis patient, switched to imipenem/cilastatin plus minocycline |
-| [15335193](https://pubmed.ncbi.nlm.nih.gov/15335193/) | 2004 | Case report | Intern Med (Tokyo) | Pyothorax caused by *Nocardia otitidiscaviarum* in a rheumatoid vasculitis patient; poor initial response to IV imipenem/cilastatin |
-| [26020393](https://pubmed.ncbi.nlm.nih.gov/26020393/) | 2015 | Case report/Review | Medicine | Disseminated *Mycobacterium abscessus* infection following septic arthritis; review of clinical characteristics, treatment, and prognosis |
-| [37718611](https://pubmed.ncbi.nlm.nih.gov/37718611/) | 2023 | Case report/Review | Mod Rheumatol Case Rep | Disseminated *M. abscessus* complex with osteoarticular manifestations mimicking inflammatory arthritis in an immunocompromised patient |
-| [36804370](https://pubmed.ncbi.nlm.nih.gov/36804370/) | 2023 | Review | Int J Antimicrob Agents | Review of off-label vs. formally recommended antibiotics (including carbapenems) for MDR/XDR bacterial infections |
+Pada masa ini, data mekanisme tindakan terperinci untuk cilastatin tidak tersedia dalam pakej bukti. Berdasarkan farmakologi yang diketahui, cilastatin ialah penghambat dehydropeptidase-I (DHP-1) renal yang peranan klinikal tunggalnya ialah untuk mencegah metabolisme renal imipenem, sekali gus memastikan kepekatan imipenem yang mencukupi. Cilastatin sendiri mempunyai **tiada aktiviti antibakteria independen** — ia tidak pernah digunakan sebagai agen antibakteria tunggal.
+
+Literatur yang menyokong ramalan "artritis bakteri" terdiri daripada siri kes, kajian kohort, dan laporan kes kombinasi imipenem/cilastatin *merawat* osteomielitis dan artritis bakteri/suppuratif (cth., PMID 3544811, 3904406, 3464787). Walaupun ini mengesahkan bahawa imipenem/cilastatin ialah rejimen berkesan untuk jangkitan tulang dan sendi, kesan terapeutik harus dikaitkan dengan aktiviti beta-laktam spektrum luas imipenem, bukan kepada cilastatin. Corak yang sama berulang merentasi kesemua 10 indikasi yang diramalkan TxGNN dalam pakej bukti ini (jangkitan MRSA, pneumonia, sinusitis, bronkitis, dsb.) — model nampaknya memilih kegunaan kombinasi dos tetap yang telah ditubuhkan dan bukannya mengenal pasti isyarat repurposing berasaskan mekanisme yang benar-benar baru untuk cilastatin.
+
+Atas sebab ini, rasional mekanik untuk merawat cilastatin sebagai ubat yang boleh dirujuk semula secara independen untuk artritis bakteri adalah lemah, walaupun skor ramalan TxGNN yang tinggi.
 
 ---
 
-## Malaysia Market Information
+## Bukti Ujian Klinikal
 
-The evidence pack confirms **5 NPRA registrations** for cilastatin-containing products (market status: Marketed), but the license number, product name, dosage form, and approved indication text fields were not populated in the source data, so a detailed authorization table cannot be produced here.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
+Pada masa ini tiada ujian klinikal berkaitan yang berdaftar untuk cilastatin + artritis bakteri.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Hold**
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|------|------|--------|---------|
+| [3544811](https://pubmed.ncbi.nlm.nih.gov/3544811/) | 1987 | Kohort | Am J Dis Child | 25 bayi/kanak-kanak dengan osteomielitis akut dan/atau artritis suppuratif dirawat dengan imipenem/cilastatin; aspirasi jarum/saliran pembedahan dilakukan dalam subset |
+| [3904406](https://pubmed.ncbi.nlm.nih.gov/3904406/) | 1985 | Kohort | Am J Dis Child | 40 kanak-kanak yang dirawat di hospital dengan jangkitan yang terbukti/disyaki (termasuk tulang/sendi) dirawat dengan imipenem/cilastatin; keberkesanan dan toksisiti dinilai |
+| [3464787](https://pubmed.ncbi.nlm.nih.gov/3464787/) | 1986 | Siri kes | Jpn J Antibiot | 30 kes jangkitan tulang dan sendi dirawat dengan natrium imipenem/cilastatin; kadar penyembuhan keseluruhan 87% (96% akut, 50% kronik) |
+| [7843815](https://pubmed.ncbi.nlm.nih.gov/7843815/) | 1994 | Laporan kes | Infection | Artritis sepsis pinggul disebabkan oleh *Bacteroides fragilis* pada pesakit alkoholis; pemulihan selepas imipenem/cilastatin + metronidazol tambah debridement pembedahan |
+| [16718934](https://pubmed.ncbi.nlm.nih.gov/16718934/) | 2006 | Laporan kes | Scand J Infect Dis | Spondylodiscitis selepas suntikan steroid sendi aspek (*Pseudomonas aeruginosa*), dirawat dengan amikacin tambah imipenem/cilastatin |
+| [27826114](https://pubmed.ncbi.nlm.nih.gov/27826114/) | 2017 | Laporan kes | Int J Infect Dis | Jangkitan *Nocardia elegans* yang tersebar pada pesakit artritis reumatoid, ditukar kepada imipenem/cilastatin tambah minoksiklin |
+| [15335193](https://pubmed.ncbi.nlm.nih.gov/15335193/) | 2004 | Laporan kes | Intern Med (Tokyo) | Pyothorax disebabkan oleh *Nocardia otitidiscaviarum* pada pesakit dengan vaskulitis reumatoid; tindak balas awal yang lemah kepada IV imipenem/cilastatin |
+| [26020393](https://pubmed.ncbi.nlm.nih.gov/26020393/) | 2015 | Laporan kes/Semakan | Medicine | Jangkitan *Mycobacterium abscessus* yang tersebar berikutan artritis bakteri; semakan ciri-ciri klinikal, rawatan, dan prognosis |
+| [37718611](https://pubmed.ncbi.nlm.nih.gov/37718611/) | 2023 | Laporan kes/Semakan | Mod Rheumatol Case Rep | Kompleks *M. abscessus* yang tersebar dengan manifestasi osteoartikular meniru artritis inflamasi pada pesakit immunocompromised |
+| [36804370](https://pubmed.ncbi.nlm.nih.gov/36804370/) | 2023 | Semakan | Int J Antimicrob Agents | Semakan antibiotic off-label berbanding yang disyorkan secara formal (termasuk karbapenems) untuk jangkitan bakteri MDR/XDR |
 
-**Rationale:**
-- All 10 TxGNN-predicted indications in this evidence pack — including the top-ranked "bacterial arthritis" — are supported only by literature/trials describing the imipenem/cilastatin **combination**, not cilastatin acting independently; cilastatin has no antibacterial mechanism of its own, so the repurposing signal is not mechanistically attributable to this drug. No completed RCTs isolate cilastatin's contribution to any new indication.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert warnings and contraindications (currently a blocking data gap)
-- DrugBank-confirmed mechanism of action (currently a high-severity data gap)
-- Complete NPRA license details (product name, dosage form, approved indication text) for the 5 existing registrations
-- If pursuing this candidate further, a pharmacological assessment of whether cilastatin has *any* activity independent of DHP-1 inhibition, since current evidence cannot separate its contribution from imipenem's
+## Maklumat Pasaran Malaysia
+
+Pakej bukti mengesahkan **5 pendaftaran NPRA** untuk produk yang mengandungi cilastatin (status pasaran: Dipasarkan), tetapi nombor lesen, nama produk, bentuk dos, dan medan teks indikasi yang diluluskan tidak diisi dalam data sumber, jadi jadual kebenaran terperinci tidak dapat dihasilkan di sini.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk kemasan waran untuk maklumat keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tunggu**
+
+**Rasional:**
+- Kesemua 10 indikasi yang diramalkan TxGNN dalam pakej bukti ini — termasuk yang bertaraf teratas "artritis bakteri" — disokong hanya oleh literatur/ujian yang menerangkan kombinasi imipenem/cilastatin **bersama-sama**, bukan cilastatin bertindak secara independen; cilastatin tidak mempunyai mekanisme antibakteria sendiri, jadi isyarat repurposing tidak boleh dikaitkan secara mekanik kepada ubat ini. Tiada RCT yang telah selesai mengasingkan sumbangan cilastatin kepada mana-mana indikasi baru.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Amaran kemasan TFDA/NPRA dan kontraindikasi (pada masa ini jurang data pemblokiran)
+- Mekanisme tindakan yang disahkan DrugBank (pada masa ini jurang data keterukan tinggi)
+- Butiran lesen NPRA yang lengkap (nama produk, bentuk dos, teks indikasi yang diluluskan) untuk 5 pendaftaran sedia ada
+- Jika meneruskan calon ini lebih jauh, penilaian farmakologi sama ada cilastatin mempunyai *sebarang* aktiviti independen daripada perencatan DHP-1, memandangkan bukti semasa tidak dapat memisahkan sumbangannya daripada imipenem
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

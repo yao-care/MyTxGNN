@@ -29,71 +29,72 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Omalizumab: From Allergic Asthma to Bronchitis
+# Omalizumab: Dari Asma Alergik hingga Bronkitis
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-> Omalizumab (Xolair) is a recombinant humanized anti-IgE monoclonal antibody originally established for moderate-to-severe allergic asthma. The TxGNN model's top-ranked prediction points to **Bronchitis**, but the evidence pack's own analysis flags this as a likely disease-ontology mismatch — the linked trials and literature are almost entirely about asthma, not bronchitis itself. Only **2 clinical trials** and **8 publications** are currently associated with this specific candidate, and none directly demonstrate efficacy in bronchitis.
+> Omalizumab (Xolair) ialah antibodi monoklonal anti-IgE yang dihumaniskan asal-mulanya ditubuhkan untuk asma alergik sederhana hingga teruk. Ramalan kedudukan teratas model TxGNN menunjukkan **Bronkitis**, namun analisis pakej bukti sendiri menandakan ini sebagai kemungkinan ketidakpadanan ontologi penyakit — ujian terkait dan literatur hampir sepenuhnya mengenai asma, bukan bronkitis itu sendiri. Hanya **2 ujian klinikal** dan **8 penerbitan** yang kini dikaitkan dengan calon spesifik ini, dan tiada satu pun menunjukkan keberkesanan secara langsung dalam bronkitis.
 
-## Quick Overview
+## Tinjauan Umum
 
-| Item | Content |
-|------|------|
-| Original Indication | Allergic Asthma (Omalizumab's established indication; detailed Malaysia NPRA label text is not available in this data pack) |
-| Predicted New Indication | Bronchitis |
-| TxGNN Prediction Score | 99.9992% |
-| Evidence Level | L4 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 7 |
-| Recommended Decision | Hold |
+| Perkara | Kandungan |
+|--------|----------|
+| Indikasi Asal | Asma Alergik |
+| Indikasi Baru Dijangka | Bronkitis |
+| Skor Ramalan TxGNN | 99.9992% |
+| Tahap Bukti | L4 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 7 |
+| Keputusan Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data is not available in this pack. Based on known information, Omalizumab is a humanized anti-IgE monoclonal antibody that binds free serum IgE, blocking its interaction with the high-affinity FcεRI receptor on mast cells and basophils, thereby reducing the downstream allergic inflammatory cascade. This mechanism is well established in allergic (IgE-mediated) asthma.
+Pada masa kini, data mekanisme tindakan terperinci tidak tersedia dalam pakej ini. Berdasarkan maklumat yang diketahui, omalizumab ialah antibodi monoklonal anti-IgE yang dihumaniskan yang mengikat IgE bebas dalam serum, menghalang interaksinya dengan reseptor FcεRI afiniti tinggi pada sel mast dan basofil, dengan itu mengurangkan kaskad keradangan alergik. Mekanisme ini sudah terbina dalam asma alergik (dimediasi IgE) yang mapan.
 
-For the specific candidate here — **bronchitis** — the evidence pack itself flags a significant caveat: the mechanistic link is characterized as weak and likely reflects **disease-ontology mislabeling** rather than a genuine repurposing signal. The associated trials and literature predominantly involve asthma patients (including eosinophilic bronchitis as a comorbid feature of asthma, or chronic bronchitis discussed only in the context of asthma-COPD overlap), rather than bronchitis as a standalone target. Only one literature entry (a case report on plastic bronchitis after bronchial thermoplasty) addresses bronchitis directly, and it is not a treatment-efficacy study. Given this, any anti-inflammatory rationale for bronchitis is indirect, inferred from symptom overlap between asthma and chronic bronchitis rather than a distinct pharmacological target.
+Untuk calon spesifik ini — **bronkitis** — pakej bukti itu sendiri menandakan kaveat yang signifikan: hubungan mekanistik dicirikan sebagai lemah dan berkemungkinan mencerminkan **pelabelan ontologi penyakit yang tidak tepat** daripada isyarat pengubahan tujuan yang sebenar. Ujian terkait dan literatur dominan melibatkan pesakit asma (termasuk bronkitis eosinofilik sebagai ciri komorbid asma, atau bronkitis kronik yang hanya dibicarakan dalam konteks pertindihan asma-COPD), bukan bronkitis sebagai sasaran tersendiri. Hanya satu kemasukan literatur (laporan kes plastik bronkitis selepas termoplasti bronkial) menangani bronkitis secara terus, dan ia bukan satu kajian keberkesanan omalizumab. Memandangkan ini, sebarang rasional anti-keradangan untuk bronkitis adalah tidak langsung, disimpulkan daripada pertindihan gejala antara asma dan bronkitis kronik daripada sasaran farmakologi yang berlainan.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Ujian | Fasa | Status | Bilangan Peserta | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT02477332](https://clinicaltrials.gov/study/NCT02477332) | Phase 2 | Completed | 382 | Dose-finding study of QGE031 (ligelizumab, an anti-IgE antibody) as add-on therapy in Chronic Spontaneous Urticaria; not bronchitis-specific, actually targets a different allergic population (relevance graded C) |
-| [NCT02049294](https://clinicaltrials.gov/study/NCT02049294) | Phase 2/3 | Completed | 11 | Investigated whether adding omalizumab allows prednisone dose reduction in patients with asthma **and** eosinophilic bronchitis; very small sample (n=11), asthma is the primary condition (relevance graded C) |
+| [NCT02477332](https://clinicaltrials.gov/study/NCT02477332) | Fasa 2 | Selesai | 382 | Kajian penentuan dos QGE031 (ligelizumab, antibodi anti-IgE) sebagai terapi tambahan dalam Urticaria Spontan Kronik; bukan khusus bronkitis, sebenarnya menyasarkan populasi alergik yang berlainan (relevan dinilai C) |
+| [NCT02049294](https://clinicaltrials.gov/study/NCT02049294) | Fasa 2/3 | Selesai | 11 | Menyiasat sama ada penambahan omalizumab membenarkan pengurangan dos prednison pada pesakit dengan asma **dan** bronkitis eosinofilik; sampel amat kecil (n=11), asma ialah keadaan utama (relevan dinilai C) |
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [30196731](https://pubmed.ncbi.nlm.nih.gov/30196731/) | 2018 | Not classified | Expert Opinion on Pharmacotherapy | Discusses smoking-induced airway diseases (chronic bronchitis, emphysema, ACO) as comorbidities in asthma; drug treatment for these overlap patients remains uncertain |
-| [26466493](https://pubmed.ncbi.nlm.nih.gov/26466493/) | 2015 | Review | Masui (Japanese J. Anesthesiology) | Preoperative management review covering bronchial asthma/chronic bronchitis; mentions omalizumab as an option for severe allergic asthma, not bronchitis specifically |
-| [31478531](https://pubmed.ncbi.nlm.nih.gov/31478531/) | 2019 | Case report | J Investig Allergol Clin Immunol | Single case of plastic bronchitis occurring after bronchial thermoplasty — not an omalizumab efficacy study |
-| [35369622](https://pubmed.ncbi.nlm.nih.gov/35369622/) | 2022 | Not classified | Postepy Dermatologii i Alergologii | Omalizumab in older patients with severe allergic asthma-COPD overlap |
-| [16222080](https://pubmed.ncbi.nlm.nih.gov/16222080/) | 2005 | Not classified | Clinical Reviews in Allergy & Immunology | Review of omalizumab's approval and post-approval experience in moderate-to-severe persistent asthma |
-| [21121874](https://pubmed.ncbi.nlm.nih.gov/21121874/) | 2011 | Not classified | Current Medical Research and Opinion | Pooled safety analysis of omalizumab in children with allergic (IgE-mediated) asthma |
-| [21163396](https://pubmed.ncbi.nlm.nih.gov/21163396/) | 2010 | Not classified | Revue des Maladies Respiratoires | French expert review on adult asthma exacerbations; general asthma management, not bronchitis-specific |
-| [17663923](https://pubmed.ncbi.nlm.nih.gov/17663923/) | 2007 | Not classified | Allergologia et Immunopathologia | General review of monoclonal antibody use in pediatrics, including allergic disease |
+| [30196731](https://pubmed.ncbi.nlm.nih.gov/30196731/) | 2018 | Tidak diklasifikasikan | Expert Opinion on Pharmacotherapy | Membincangkan penyakit saluran udara yang disebabkan merokok (bronkitis kronik, emfisema, ACO) sebagai komorbiditi dalam asma; rawatan ubat untuk pesakit pertindihan ini tetap tidak pasti |
+| [26466493](https://pubmed.ncbi.nlm.nih.gov/26466493/) | 2015 | Ulasan | Masui (J. Anestesiologi Jepun) | Ulasan pengurusan praoperasi mencakupi asma bronkial/bronkitis kronik; menyebut omalizumab sebagai pilihan untuk asma alergik teruk, bukan bronkitis khusus |
+| [31478531](https://pubmed.ncbi.nlm.nih.gov/31478531/) | 2019 | Laporan kes | J Investig Allergol Clin Immunol | Kes tunggal plastik bronkitis yang berlaku selepas termoplasti bronkial — bukan satu kajian keberkesanan omalizumab |
+| [35369622](https://pubmed.ncbi.nlm.nih.gov/35369622/) | 2022 | Tidak diklasifikasikan | Postepy Dermatologii i Alergologii | Omalizumab pada pesakit tua dengan pertindihan asma-COPD alergik teruk |
+| [16222080](https://pubmed.ncbi.nlm.nih.gov/16222080/) | 2005 | Tidak diklasifikasikan | Clinical Reviews in Allergy & Immunology | Ulasan kelulusan dan pengalaman pasca-kelulusan omalizumab dalam asma berterusan sederhana hingga teruk |
+| [21121874](https://pubmed.ncbi.nlm.nih.gov/21121874/) | 2011 | Tidak diklasifikasikan | Current Medical Research and Opinion | Analisis keselamatan terkumpul omalizumab pada kanak-kanak dengan asma alergik (dimediasi IgE) |
+| [21163396](https://pubmed.ncbi.nlm.nih.gov/21163396/) | 2010 | Tidak diklasifikasikan | Revue des Maladies Respiratoires | Ulasan pakar Perancis tentang eksaserbasi asma dewasa; pengurusan asma umum, bukan khusus bronkitis |
+| [17663923](https://pubmed.ncbi.nlm.nih.gov/17663923/) | 2007 | Tidak diklasifikasikan | Allergologia et Immunopathologia | Ulasan umum penggunaan antibodi monoklonal dalam pediatri, termasuk penyakit alergik |
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Detailed authorization records (license numbers, product names, dosage forms, approved indication text) are not available in this data pack. Only the following is confirmed: Omalizumab is marketed in Malaysia (✓ Marketed) with **7 total registrations**.
+Rekod kelulusan terperinci (nombor lesen, nama produk, bentuk dos, teks indikasi yang diluluskan) tidak tersedia dalam pakej data ini. Hanya yang berikut disahkan: omalizumab dipasarkan di Malaysia (✓ Dipasarkan) dengan **7 pendaftaran secara keseluruhan**.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk dokumen produk untuk maklumat keselamatan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The bronchitis candidate carries only L4 evidence (mechanism/preclinical-level, no dedicated confirmatory trials), and the evidence pack's own analysis identifies this as a likely disease-ontology mislabeling — the underlying trials and literature are predominantly asthma studies, not bronchitis-specific. There is no direct clinical evidence supporting efficacy in bronchitis itself.
+**Rasional:**
+Calon bronkitis membawa hanya bukti L4 (mekanisme/tahap preklinikal, tiada ujian pengesahan berdedikasi), dan analisis pakej bukti itu sendiri mengenal pasti ini sebagai pelabelan ontologi penyakit yang berkemungkinan — ujian dan literatur yang mendasari adalah dominan kajian asma, bukan khusus bronkitis. Tiada bukti klinikal terus yang menyokong keberkesanan dalam bronkitis itu sendiri.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA label warnings and contraindications (currently a Blocking data gap preventing S1 safety screening)
-- Confirmed mechanism of action documentation (DrugBank query)
-- A bronchitis-specific (not asthma-comorbid) clinical trial or mechanistic study before this candidate can advance past S0
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Amaran label TFDA/NPRA dan kontraindikasi (kini membentuk jurang data yang menghalang pemeriksaan keselamatan S1)
+- Dokumentasi mekanisme tindakan yang disahkan (pertanyaan DrugBank)
+- Ujian klinikal khusus bronkitis (bukan komorbid asma) atau kajian mekanistik sebelum calon ini dapat maju melampaui S0
 
-*Note: This same evidence pack contains other candidates for omalizumab with stronger support — notably atopic eczema (L3, S2, Research Question) and obstructive lung disease/COPD (L3, S1) — which may warrant separate evaluation if a broader repurposing review is desired.*
+*Nota: Pakej bukti yang sama ini mengandungi calon lain untuk omalizumab dengan sokongan lebih kuat — terutamanya dermatitis atopik (L3, S2, Soalan Penyelidikan) dan penyakit paru-paru obstruktif/COPD (L3, S1) — yang mungkin memerlukan penilaian berasingan jika ulasan pengubahan tujuan yang lebih luas dikehendaki.*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

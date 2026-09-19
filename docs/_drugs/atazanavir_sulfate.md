@@ -29,64 +29,65 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Atazanavir Sulfate: HIV Protease Inhibitor — Repurposing Analysis Pending
+# Atazanavir Sulfate: Perencat Protease HIV — Analisis Repurposing Menunggu Tindakan
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Atazanavir Sulfate is an antiretroviral protease inhibitor used in combination therapy for HIV-1 infection.
-This evidence pack contains **no TxGNN repurposing predictions**, and critical drug-level data — including mechanism of action, licence details, and safety warnings — are absent.
-A full repurposing evaluation cannot be completed until the identified data gaps are resolved.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | HIV-1 infection (combination antiretroviral therapy) |
-| Predicted New Indication | Not available |
-| TxGNN Prediction Score | Not available |
-| Evidence Level | Not assessable |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
-
-> **Note:** The Clinical Trial Evidence, Literature Evidence, and "Why is This Prediction Reasonable?" sections are omitted because `predicted_indications` is empty in this evidence pack. Once TxGNN predictions are generated, those sections will be populated automatically.
+Atazanavir Sulfate adalah perencat protease antiretroviral yang digunakan dalam terapi kombinasi untuk jangkitan HIV-1.
+Pakej bukti ini mengandungi **tiada ramalan repurposing TxGNN**, dan data peringkat ubat yang kritikal — termasuk mekanisme tindakan, butiran lesen, dan amaran keselamatan — tidak tersedia.
+Penilaian repurposing lengkap tidak dapat diselesaikan sehingga jurang data yang dikenal pasti diselesaikan.
 
 ---
 
-## Malaysia Market Information
+## Gambaran Keseluruhan Pantas
 
-The NPRA query confirmed 1 registered product with a market status of **Marketed**. However, all product-level fields (licence number, product name, dosage form, manufacturer, approved indication) were returned as empty strings in this evidence pack and cannot be displayed.
+| Perkara | Kandungan |
+|--------|----------|
+| Indikasi Asal | Jangkitan HIV-1 (terapi antiretroviral kombinasi) |
+| Indikasi Baru Yang Diramal | Tidak tersedia |
+| Skor Ramalan TxGNN | Tidak tersedia |
+| Paras Bukti | Tidak dapat dinilai |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan Yang Disyorkan | Tahan |
 
-| Authorisation Number | Product Name | Dosage Form | Approved Indication |
-|----------------------|--------------|-------------|---------------------|
+> **Nota:** Bahagian Bukti Ujian Klinikal, Bukti Literatur, dan "Mengapa Ramalan Ini Munasabah?" ditinggalkan kerana `predicted_indications` adalah kosong dalam pakej bukti ini. Setelah ramalan TxGNN dihasilkan, bahagian tersebut akan dipenuhi secara automatik.
+
+---
+
+## Maklumat Pasaran Malaysia
+
+Pertanyaan NPRA mengesahkan 1 produk terdaftar dengan status pasaran **Dipasarkan**. Walau bagaimanapun, semua medan peringkat produk (nombor kebenaran, nama produk, bentuk dos, pengilang, indikasi yang diluluskan) dikembalikan sebagai rentetan kosong dalam pakej bukti ini dan tidak dapat dipaparkan.
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Yang Diluluskan |
+|------------------|-------------|-----------|-------------------------|
 | — | — | — | — |
 
-*Detailed registration data should be retrieved directly from the [NPRA Product Registration Search](https://www.npra.gov.my/index.php/en/registration/product-registration.html).*
+*Data pendaftaran terperinci harus diambil terus dari [Carian Pendaftaran Produk NPRA](https://www.npra.gov.my/index.php/en/registration/product-registration.html).*
 
 ---
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
 ---
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-No TxGNN repurposing predictions are present in this evidence pack, and key drug-level and regulatory data are missing — making any meaningful repurposing evaluation impossible at this stage.
+**Alasan:**
+Tiada ramalan repurposing TxGNN yang ada dalam pakej bukti ini, dan data peringkat ubat dan peraturan yang penting hilang — menjadikan sebarang penilaian repurposing yang bermakna mustahil pada peringkat ini.
 
-**To proceed, the following is needed:**
+**Untuk meneruskan, yang berikut diperlukan:**
 
-- **Run TxGNN prediction pipeline** for Atazanavir Sulfate to generate candidate repurposing indications
-- **Populate DrugBank data** (MOA, drug categories, known interactions) — the DrugBank query returned 1 result but no fields were captured; the DrugBank entry for atazanavir is `DB01072`
-- **Download and parse the NPRA / TFDA package insert PDF** to extract warnings, contraindications, and the officially approved indication text (Data Gap DG001 — classified as *Blocking*)
-- **Re-query the NPRA product register** to retrieve licence number, product name, dosage form, and manufacturer details for the 1 confirmed registration
-- **Resolve MOA data gap (DG002)** via DrugBank API to enable mechanistic plausibility analysis for any predicted indication
+- **Jalankan saluran ramalan TxGNN** untuk Atazanavir Sulfate untuk menjana indikasi repurposing calon
+- **Isi data DrugBank** (MOA, kategori ubat, interaksi yang diketahui) — pertanyaan DrugBank mengembalikan 1 hasil tetapi tiada medan yang ditangkap; entri DrugBank untuk atazanavir ialah `DB01072`
+- **Muat turun dan analisis PDF sisipan pakej NPRA / TFDA** untuk mengekstrak amaran, kontraindikasi, dan teks indikasi yang diluluskan secara rasmi (Data Gap DG001 — diklasifikasikan sebagai *Pemblokiran*)
+- **Bertanya semula daftar produk NPRA** untuk mendapatkan nombor kebenaran, nama produk, bentuk dos, dan butiran pengilang untuk 1 pendaftaran yang disahkan
+- **Selesaikan jurang data MOA (DG002)** melalui API DrugBank untuk membolehkan analisis kebolehpercayaan mekanik bagi sebarang indikasi yang diramal
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

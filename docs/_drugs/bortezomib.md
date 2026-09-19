@@ -29,101 +29,102 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-# Bortezomib: From Multiple Myeloma to B-Cell Neoplasm
+# Bortezomib: Dari Multiple Myeloma kepada B-Cell Neoplasm
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Bortezomib is a first-in-class proteasome inhibitor, originally approved for the treatment of multiple myeloma and mantle cell lymphoma. The TxGNN model predicts it may have broader efficacy across **B-cell neoplasms** as a class, with **50 clinical trials** and **20 publications** providing substantial supporting evidence for this direction.
+Bortezomib ialah penghambat proteasom pertama dalam kelasnya yang diluluskan awalnya untuk merawat multiple myeloma dan lymphoma mantel sel. Model TxGNN meramalkan ia mungkin mempunyai keberkesanan yang lebih luas merentas **neoplasma sel-B** sebagai satu kelas, dengan **50 percubaan klinikal** dan **20 penerbitan** memberikan bukti sokongan yang besar untuk arah ini.
 
-## Quick Overview
+## Gambaran Keseluruhan Cepat
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Multiple myeloma, Mantle cell lymphoma |
-| Predicted New Indication | B-cell neoplasm |
-| TxGNN Prediction Score | Not available (score: 0.0) |
-| Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 17 |
-| Recommended Decision | Go |
+| Indikasi Asal | Multiple myeloma, Lymphoma mantel sel |
+| Indikasi Baru Dipramalkan | Neoplasma sel-B |
+| Skor Ramalan TxGNN | Tidak tersedia (skor: 0.0) |
+| Tahap Bukti | L1 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 17 |
+| Keputusan Cadangan | Go |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Bortezomib (brand name: Velcade) is a selective, reversible inhibitor of the 26S proteasome. The proteasome is an enzyme complex present in all cells that degrades ubiquitin-tagged proteins, including key regulators of the cell cycle, apoptosis, transcription (notably NF-κB), and DNA repair. By blocking proteasome activity, bortezomib causes accumulation of pro-apoptotic factors and misfolded proteins, leading to endoplasmic reticulum stress and programmed cell death. Cancer cells—particularly those with high immunoglobulin production like plasma cells and B-lymphocytes—are especially vulnerable to proteasome inhibition because of their elevated protein synthesis burden.
+Bortezomib (nama jenama: Velcade) ialah penghambat proteasom 26S yang selektif dan boleh balik. Proteasom ialah kompleks enzim yang terdapat dalam semua sel yang memusnahkan protein berlabel ubiquitin, termasuk pengawal utama kitaran sel, apoptosis, transkripsi (terutamanya NF-κB), dan pembaikan DNA. Dengan menyekat aktiviti proteasom, bortezomib menyebabkan penumpukan faktor pro-apoptosis dan protein yang tidak dapat dilipat, membawa kepada tekanan retikulum endoplasma dan kematian sel yang diprogramkan. Sel kanser—khususnya mereka yang mempunyai pengeluaran immunoglobulin yang tinggi seperti sel plasma dan limfosit-B—sangat terdedah kepada perencatan proteasom kerana beban sintesis protein mereka yang tinggi.
 
-The relationship between the original indications (multiple myeloma and mantle cell lymphoma) and the broader predicted indication (B-cell neoplasm) is mechanistically coherent. Multiple myeloma is a malignancy of terminally differentiated B cells (plasma cells), while mantle cell lymphoma arises from pre-germinal center B cells. The broader category of B-cell neoplasms—including diffuse large B-cell lymphoma (DLBCL), follicular lymphoma, Waldenström macroglobulinemia, plasmablastic lymphoma, and others—shares the common feature of B-cell lineage dependency on the NF-κB pathway and the ubiquitin-proteasome system for survival and proliferation.
+Hubungan antara indikasi asal (multiple myeloma dan lymphoma mantel sel) dan indikasi yang dipramalkan lebih luas (neoplasma sel-B) adalah koheren secara mekanistik. Multiple myeloma ialah keganasan sel-B yang sudah terdiferensiasi sepenuhnya (sel plasma), manakala lymphoma mantel sel timbul dari sel-B pra-pusat germinal. Kategori neoplasma sel-B yang lebih luas—termasuk lymphoma sel-B besar dan tersebar (DLBCL), lymphoma folikel, macroglobulinemia Waldenström, lymphoma sel plasma, dan lain-lain—berkongsi ciri umum ketergantungan lineaj sel-B pada laluan NF-κB dan sistem ubiquitin-proteasom untuk kemandirian dan pembiakan.
 
-Clinical evidence already supports this broader application. Bortezomib has demonstrated activity in follicular lymphoma (Phase 3 NCT00312845), DLBCL (REMoDL-B trial showing benefit in ABC subtype), Waldenström macroglobulinemia (Phase 3 NCT01788020), plasmablastic lymphoma (retrospective analyses showing long-term survival with bortezomib-EPOCH), and T-cell lymphoblastic lymphoma (Phase 3 AALL1231). This body of evidence validates the TxGNN prediction that bortezomib's mechanism extends across the full spectrum of B-cell malignancies.
+Bukti klinikal sudah menyokong aplikasi yang lebih luas ini. Bortezomib telah menunjukkan aktiviti dalam lymphoma folikel (Fasa 3 NCT00312845), DLBCL (ujian REMoDL-B menunjukkan manfaat dalam subjenis ABC), macroglobulinemia Waldenström (Fasa 3 NCT01788020), lymphoma sel plasma (analisis retrospektif menunjukkan kemandirian jangka panjang dengan bortezomib-EPOCH), dan lymphoma loblastik sel-T (Fasa 3 AALL1231). Badan bukti ini mengesahkan ramalan TxGNN bahawa mekanisme bortezomib meluas ke seluruh spektrum keganasan sel-B.
 
-## Clinical Trial Evidence
+## Bukti Percubaan Klinikal
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT00312845](https://clinicaltrials.gov/study/NCT00312845) | Phase 3 | Completed | 676 | VELCADE + Rituximab vs Rituximab alone in relapsed/refractory follicular B-NHL; evaluated whether combination improves PFS |
-| [NCT02195479](https://clinicaltrials.gov/study/NCT02195479) | Phase 3 | Completed | 706 | D-VMP vs VMP in previously untreated MM ineligible for transplant; demonstrated PFS benefit with daratumumab addition to bortezomib backbone |
-| [NCT03110562](https://clinicaltrials.gov/study/NCT03110562) | Phase 3 | Completed | 402 | Selinexor + Bortezomib + Dex vs Bortezomib + Dex in RRMM; evaluated novel combination in bortezomib-based regimen |
-| [NCT01788020](https://clinicaltrials.gov/study/NCT01788020) | Phase 3 | Completed | 202 | DRC ± Bortezomib as first-line for Waldenström macroglobulinemia; evaluated added benefit of bortezomib in WM |
-| [NCT02112916](https://clinicaltrials.gov/study/NCT02112916) | Phase 3 | Active | 847 | Bortezomib on modified ABFM backbone in newly diagnosed T-ALL/T-LLy; evaluating whether bortezomib enhances chemosensitivity |
-| [NCT03652064](https://clinicaltrials.gov/study/NCT03652064) | Phase 3 | Active | 395 | D-VRd vs VRd in untreated MM non-transplant; assessing MRD negativity improvement with daratumumab |
-| [NCT00644228](https://clinicaltrials.gov/study/NCT00644228) | Phase 3 | Active | 525 | VRd vs Rd in previously untreated MM; comparing bortezomib-containing triplet to doublet therapy |
-| [NCT04181827](https://clinicaltrials.gov/study/NCT04181827) | Phase 3 | Active | 419 | CAR-T (cilta-cel) vs PVd/DPd in relapsed lenalidomide-refractory MM; PVd as standard comparator arm |
-| [NCT00369707](https://clinicaltrials.gov/study/NCT00369707) | Phase 2 | Completed | 42 | Bortezomib + Rituximab as front-line in low-grade NHL; demonstrated activity in indolent B-cell lymphomas |
-| [NCT00114738](https://clinicaltrials.gov/study/NCT00114738) | Phase 2 | Completed | 53 | EPOCH-R-B induction ± bortezomib maintenance in untreated MCL; 92% complete remission rate reported |
+| [NCT00312845](https://clinicaltrials.gov/study/NCT00312845) | Fasa 3 | Selesai | 676 | VELCADE + Rituximab vs Rituximab sahaja dalam relaps/refraktori follicular B-NHL; dinilai sama ada kombinasi meningkatkan PFS |
+| [NCT02195479](https://clinicaltrials.gov/study/NCT02195479) | Fasa 3 | Selesai | 706 | D-VMP vs VMP dalam MM yang belum dirawat tidak layak untuk transplan; menunjukkan manfaat PFS dengan penambahan daratumumab kepada rangka kerja bortezomib |
+| [NCT03110562](https://clinicaltrials.gov/study/NCT03110562) | Fasa 3 | Selesai | 402 | Selinexor + Bortezomib + Dex vs Bortezomib + Dex dalam RRMM; dinilai kombinasi baru dalam rejimen berasaskan bortezomib |
+| [NCT01788020](https://clinicaltrials.gov/study/NCT01788020) | Fasa 3 | Selesai | 202 | DRC ± Bortezomib sebagai lini pertama untuk macroglobulinemia Waldenström; dinilai manfaat tambah bortezomib dalam WM |
+| [NCT02112916](https://clinicaltrials.gov/study/NCT02112916) | Fasa 3 | Aktif | 847 | Bortezomib pada rangka kerja ABFM yang diubah dalam T-ALL/T-LLy yang baru didiagnosis; menilai sama ada bortezomib meningkatkan kepekaan kimia |
+| [NCT03652064](https://clinicaltrials.gov/study/NCT03652064) | Fasa 3 | Aktif | 395 | D-VRd vs VRd dalam MM yang tidak dirawat tidak-transplan; menilai peningkatan negativiti MRD dengan daratumumab |
+| [NCT00644228](https://clinicaltrials.gov/study/NCT00644228) | Fasa 3 | Aktif | 525 | VRd vs Rd dalam MM yang belum dirawat sebelumnya; membandingkan triplet yang mengandungi bortezomib kepada terapi duplet |
+| [NCT04181827](https://clinicaltrials.gov/study/NCT04181827) | Fasa 3 | Aktif | 419 | CAR-T (cilta-cel) vs PVd/DPd dalam MM yang relaps refraktori lenalidomid; PVd sebagai lengan perbandingan piawai |
+| [NCT00369707](https://clinicaltrials.gov/study/NCT00369707) | Fasa 2 | Selesai | 42 | Bortezomib + Rituximab sebagai lini depan dalam NHL gred rendah; menunjukkan aktiviti dalam lymphoma sel-B indolen |
+| [NCT00114738](https://clinicaltrials.gov/study/NCT00114738) | Fasa 2 | Selesai | 53 | Induksi EPOCH-R-B ± penyelenggaraan bortezomib dalam MCL yang tidak dirawat; kadar remisi lengkap 92% dilaporkan |
 
-## Literature Evidence
+## Bukti Sastera
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [38084760](https://pubmed.ncbi.nlm.nih.gov/38084760/) | 2024 | RCT | N Engl J Med | PERSEUS trial: Daratumumab + VRd significantly improved PFS in transplant-eligible newly diagnosed MM |
-| [35271306](https://pubmed.ncbi.nlm.nih.gov/35271306/) | 2022 | RCT | J Clin Oncol | AALL1231 Phase III: Bortezomib improved outcomes in newly diagnosed T-ALL; demonstrated benefit in lymphoblastic malignancies |
-| [31097405](https://pubmed.ncbi.nlm.nih.gov/31097405/) | 2019 | RCT | Lancet Oncol | OPTIMISMM trial: PVd significantly prolonged PFS vs Vd in lenalidomide-exposed RRMM |
-| [39777934](https://pubmed.ncbi.nlm.nih.gov/39777934/) | 2025 | RCT | Eur J Haematol | OPTIMISMM final OS: Updated survival analyses confirmed PVd benefit in lenalidomide-exposed RRMM |
-| [40565058](https://pubmed.ncbi.nlm.nih.gov/40565058/) | 2025 | Preclinical | Int J Mol Sci | CDCA2 overexpression in DLBCL promotes bortezomib sensitivity; ABC and molecular high-grade subtypes benefit |
-| [38767403](https://pubmed.ncbi.nlm.nih.gov/38767403/) | 2024 | Review | Am J Hematol | Plasmablastic lymphoma 2024 update: bortezomib-containing regimens recommended for this rare aggressive B-cell NHL |
-| [29303024](https://pubmed.ncbi.nlm.nih.gov/29303024/) | 2018 | Retrospective | Leuk Lymphoma | Bortezomib + dose-adjusted EPOCH induced long-term survival in plasmablastic lymphoma |
-| [36652193](https://pubmed.ncbi.nlm.nih.gov/36652193/) | 2023 | Review | Drugs | AL amyloidosis (B-cell clone disorder): bortezomib-based regimens are standard first-line treatment |
-| [30523719](https://pubmed.ncbi.nlm.nih.gov/30523719/) | 2019 | Translational | J Clin Oncol | Molecular high-grade B-cell lymphoma defined as poor-risk group; bortezomib addition showed benefit in REMoDL-B trial |
-| [34461632](https://pubmed.ncbi.nlm.nih.gov/34461632/) | 2021 | Prospective | Blood Adv | Bortezomib + rituximab in CD20+ pre-B-ALL: improved MRD negativity rates in adolescent/adult patients |
+| [38084760](https://pubmed.ncbi.nlm.nih.gov/38084760/) | 2024 | RCT | N Engl J Med | Ujian PERSEUS: Daratumumab + VRd meningkatkan PFS dengan signifikan dalam MM yang baru didiagnosis yang layak transplan |
+| [35271306](https://pubmed.ncbi.nlm.nih.gov/35271306/) | 2022 | RCT | J Clin Oncol | AALL1231 Fasa III: Bortezomib meningkatkan hasil dalam T-ALL yang baru didiagnosis; menunjukkan manfaat dalam keganasan loblastik |
+| [31097405](https://pubmed.ncbi.nlm.nih.gov/31097405/) | 2019 | RCT | Lancet Oncol | Ujian OPTIMISMM: PVd dengan signifikan memanjangkan PFS vs Vd dalam RRMM terdedah lenalidomid |
+| [39777934](https://pubmed.ncbi.nlm.nih.gov/39777934/) | 2025 | RCT | Eur J Haematol | OS akhir OPTIMISMM: Analisis kemandirian terkini mengesahkan manfaat PVd dalam RRMM terdedah lenalidomid |
+| [40565058](https://pubmed.ncbi.nlm.nih.gov/40565058/) | 2025 | Praklinikal | Int J Mol Sci | Penyahotan CDCA2 dalam DLBCL mempromosikan kepekaan bortezomib; subjenis ABC dan gred tinggi molekul mendapat manfaat |
+| [38767403](https://pubmed.ncbi.nlm.nih.gov/38767403/) | 2024 | Ulasan | Am J Hematol | Kemaskini lymphoma sel plasma 2024: rejimen yang mengandungi bortezomib disyorkan untuk NHL sel-B agresif jarang ini |
+| [29303024](https://pubmed.ncbi.nlm.nih.gov/29303024/) | 2018 | Retrospektif | Leuk Lymphoma | Bortezomib + EPOCH yang diselaraskan dos membawa kemandirian jangka panjang dalam lymphoma sel plasma |
+| [36652193](https://pubmed.ncbi.nlm.nih.gov/36652193/) | 2023 | Ulasan | Drugs | Amyloidosis AL (gangguan klon sel-B): rejimen berasaskan bortezomib adalah rawatan lini pertama piawai |
+| [30523719](https://pubmed.ncbi.nlm.nih.gov/30523719/) | 2019 | Translatif | J Clin Oncol | Lymphoma sel-B gred tinggi molekul ditakrifkan sebagai kumpulan risiko rendah; penambahan bortezomib menunjukkan manfaat dalam ujian REMoDL-B |
+| [34461632](https://pubmed.ncbi.nlm.nih.gov/34461632/) | 2021 | Prospektif | Blood Adv | Bortezomib + rituximab dalam CD20+ pra-B-ALL: kadar negativiti MRD yang lebih baik dalam pesakit remaja/dewasa |
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
 |---------|------|------|-----------|
-| (Details not available) | — | — | — |
+| (Maklumat tidak tersedia) | — | — | — |
 
-*Note: 17 registrations are recorded for Bortezomib in the market (status: Marketed), but detailed authorization information was not available in the evidence pack. Bortezomib is globally marketed under the brand name Velcade® as a lyophilised powder for injection.*
+*Nota: 17 pendaftaran direkodkan untuk Bortezomib dalam pasaran (status: Dipasarkan), tetapi maklumat kebenaran terperinci tidak tersedia dalam pakej bukti. Bortezomib dipasarkan secara global di bawah nama jenama Velcade® sebagai serbuk liofilisasi untuk suntikan.*
 
-## Cytotoxicity
+## Sitotoksisiti
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Cytotoxicity Classification | Targeted therapy (Proteasome inhibitor) |
-| Myelosuppression Risk | High — Thrombocytopenia is a dose-limiting toxicity (cyclical pattern with nadir at day 11, recovery by day 21); neutropenia also common |
-| Emetogenicity Classification | Low to moderate |
-| Monitoring Items | CBC with differential and platelet count (before each dose), liver function tests, renal function, blood glucose, peripheral neuropathy assessment |
-| Handling Protection | Must follow cytotoxic drug handling regulations; use appropriate PPE during preparation and administration |
+| Klasifikasi Sitotoksisiti | Terapi tersasaran (Penghambat proteasom) |
+| Risiko Penindasan Sumsum Tulang | Tinggi — Trombositopenia ialah toksisiti yang mengehadkan dos (corak kitaran dengan nadir pada hari 11, pemulihan pada hari 21); neutropenia juga biasa |
+| Klasifikasi Emetogenisiti | Rendah hingga sederhana |
+| Item Pemantauan | Kiraan sel darah putih (CBC) dengan pembezaan dan kiraan platelet (sebelum setiap dos), ujian fungsi hati, fungsi buah pinggang, gula darah, penilaian neuropati periferi |
+| Perlindungan Pengendalian | Mesti mematuhi peraturan pengendalian ubat sitotoksik; gunakan PPE yang sesuai semasa penyediaan dan pentadbiran |
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-> Please refer to the package insert for safety information. Detailed warnings, contraindications, and drug interaction data were not available in the evidence pack. Key known class-level concerns for proteasome inhibitors include peripheral neuropathy, thrombocytopenia, gastrointestinal toxicity, and herpes zoster reactivation (prophylactic antiviral recommended).
+> Sila rujuk sisipan pakej untuk maklumat keselamatan. Maklumat terperinci tentang amaran, kontraindikasi, dan data interaksi ubat tidak tersedia dalam pakej bukti. Kebimbangan kelas utama yang diketahui untuk penghambat proteasom termasuk neuropati periferi, trombositopenia, toksisiti gastrointestinal, dan reaktivasi herpes zoster (antiviral profilaktik disyorkan).
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Berikutnya
 
-**Decision: Go**
+**Keputusan: Go**
 
-**Rationale:**
-Bortezomib already holds regulatory approvals for multiple myeloma and mantle cell lymphoma, which are subtypes of B-cell neoplasms. The TxGNN prediction to extend its indication to the broader B-cell neoplasm category is supported by multiple completed Phase 3 RCTs (≥5) demonstrating activity across follicular lymphoma, Waldenström macroglobulinemia, DLBCL subtypes, and lymphoblastic malignancies. The evidence level is L1 (highest), and the mechanistic rationale—proteasome dependence of immunoglobulin-secreting B-cell lineage tumours—is well established.
+**Alasan:**
+Bortezomib sudah memegang kelulusan kawal selia untuk multiple myeloma dan lymphoma mantel sel, yang merupakan subjenis neoplasma sel-B. Ramalan TxGNN untuk melanjutkan indikasinya kepada kategori neoplasma sel-B yang lebih luas disokong oleh pelbagai RCT Fasa 3 yang selesai (≥5) menunjukkan aktiviti merentas lymphoma folikel, macroglobulinemia Waldenström, subjenis DLBCL, dan keganasan loblastik. Tahap bukti ialah L1 (tertinggi), dan rasional mekanistik—pergantungan proteasom tumor lineaj sel-B yang mengeluarkan immunoglobulin—sudah ditentukan dengan baik.
 
-**To proceed, the following is needed:**
-- Obtain detailed Malaysia regulatory registration information (authorization numbers, approved indication text)
-- Retrieve complete safety data from package inserts (warnings, contraindications, drug interactions)
-- Obtain formal DrugBank MOA description for documentation completeness
-- Identify specific B-cell neoplasm subtypes not yet covered by existing approvals for targeted label expansion (e.g., DLBCL ABC subtype, plasmablastic lymphoma, AL amyloidosis)
-- Develop indication-specific safety monitoring plans for each target B-cell neoplasm subtype
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Dapatkan maklumat pendaftaran kawal selia Malaysia yang terperinci (nombor kebenaran, teks indikasi yang diluluskan)
+- Ambil semula data keselamatan lengkap daripada sisipan pakej (amaran, kontraindikasi, interaksi ubat)
+- Dapatkan penerangan MOA DrugBank rasmi untuk kesempurnaan dokumentasi
+- Kenal pasti subjenis neoplasma sel-B khusus yang belum dilindungi oleh kelulusan sedia ada untuk pengembangan label tertumpu (cth. DLBCL subjenis ABC, lymphoma sel plasma, amyloidosis AL)
+- Bangunkan rancangan pemantauan keselamatan yang khusus untuk indikasi bagi setiap subjenis neoplasma sel-B sasaran
 
 ---
 
-*Disclaimer: This report is for research purposes only and does not constitute medical advice. Drug repurposing candidates require clinical validation before application.*
+*Penafian: Laporan ini adalah untuk tujuan penyelidikan sahaja dan tidak merupakan nasihat perubatan. Calon penyusunan semula ubat memerlukan pengesahan klinikal sebelum aplikasi.*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

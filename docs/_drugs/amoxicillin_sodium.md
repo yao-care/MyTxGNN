@@ -29,90 +29,91 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Amoxicillin Sodium: Antibiotic — Repurposing Evaluation Incomplete
+# Amoxicillin Sodium: Antibiotik — Penilaian Ubah Guna Tidak Lengkap
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Amoxicillin Sodium is a widely used broad-spectrum β-lactam antibiotic registered in Malaysia under 5 product licenses.
-The current Evidence Pack did not generate any TxGNN repurposing predictions due to missing critical data inputs — key data gaps including package insert warnings and mechanism of action must be resolved before a meaningful evaluation can proceed.
-Until these gaps are addressed, no evidence level can be assigned and a **Hold** decision is recommended.
+Amoxicillin Sodium ialah antibiotik β-laktam spektrum luas yang digunakan secara meluas dan didaftarkan di Malaysia di bawah 5 lesen produk.
+Pakej Bukti semasa tidak menghasilkan sebarang ramalan ubah guna TxGNN kerana input data kritikal yang hilang — jurang data utama termasuk amaran dalam risalah kemasan dan mekanisme tindakan mesti diselesaikan sebelum penilaian bermakna boleh diteruskan.
+Sehingga jurang-jurang ini ditangani, tiada tahap bukti yang boleh diberikan dan keputusan **Tahan** disyorkan.
 
 ---
 
-## Quick Overview
+## Ikhtisar Pantas
 
-| Item | Content |
+| Item | Kandungan |
 |------|---------|
-| Original Indication | Unavailable (license text not populated in Evidence Pack) |
-| Predicted New Indication | None — no predictions generated |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | N/A — below L5 (no predictions produced) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 5 |
-| Recommended Decision | **Hold** |
+| Indikasi Asal | Tidak Tersedia (teks lesen tidak diisi dalam Pakej Bukti) |
+| Indikasi Baru yang Diramalkan | Tiada — tiada ramalan dihasilkan |
+| Skor Ramalan TxGNN | T/A |
+| Tahap Bukti | T/A — di bawah L5 (tiada ramalan dihasilkan) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 5 |
+| Keputusan yang Disyorkan | **Tahan** |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-No predicted indications were generated in this Evidence Pack — the `predicted_indications` array is empty. This means the TxGNN pipeline did not produce any repurposing candidates for Amoxicillin Sodium under the current data configuration, and a standard mechanism-to-new-indication analysis cannot be performed.
+Tiada indikasi ubah guna yang diramalkan telah dihasilkan dalam Pakej Bukti ini — tatasusunan `predicted_indications` adalah kosong. Ini bermakna saluran TxGNN tidak menghasilkan sebarang calon ubah guna untuk Amoxicillin Sodium di bawah konfigurasi data semasa, dan analisis mekanisme-ke-indikasi-baru yang standard tidak boleh dilakukan.
 
-Currently, detailed mechanism of action data is not available. Based on established pharmacological knowledge, Amoxicillin Sodium belongs to the aminopenicillin subgroup of β-lactam antibiotics, with its primary mechanism involving inhibition of bacterial cell wall synthesis through binding to penicillin-binding proteins (PBPs). However, this information was not confirmed via DrugBank in the current Evidence Pack, and therefore cannot be formally relied upon for mechanism-of-action mapping within the TxGNN framework.
+Pada masa ini, data mekanisme tindakan yang terperinci tidak tersedia. Berdasarkan pengetahuan farmakologi yang ditegakkan, Amoxicillin Sodium tergolong dalam subkumpulan aminopenisilin antibiotik β-laktam, dengan mekanisme utamanya melibatkan perencatan sintesis dinding sel bakteria melalui pengikatan kepada protein pengikat penisilin (PBPs). Bagaimanapun, maklumat ini tidak disahkan melalui DrugBank dalam Pakej Bukti semasa, dan oleh itu tidak boleh dipercayai secara formal untuk pemetaan mekanisme-tindakan dalam rangka kerja TxGNN.
 
-To unlock repurposing candidates, three inputs must first be in place: a confirmed DrugBank ID linked to Amoxicillin Sodium, populated approved indication text from NPRA license records, and resolved package insert data to pass the safety pre-screen. Once these are available, re-running the Knowledge Graph and Deep Learning prediction steps should produce meaningful candidates.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered in this Evidence Pack.
+Untuk membuka calon ubah guna, tiga input mesti berada di tempat terlebih dahulu: DrugBank ID yang disahkan dipautkan kepada Amoxicillin Sodium, teks indikasi yang diluluskan daripada rekod lesen NPRA yang diisi, dan data risalah kemasan yang diselesaikan untuk melewati pra-pemeriksaan keselamatan. Setelah ini tersedia, menjalankan semula langkah ramalan Graf Pengetahuan dan Pembelajaran Dalam harus menghasilkan calon bermakna.
 
 ---
 
-## Literature Evidence
+## Bukti Percubaan Klinikal
 
-Currently no related literature available in this Evidence Pack.
+Pada masa ini tiada percubaan klinikal berkaitan berdaftar dalam Pakej Bukti ini.
 
 ---
 
-## Malaysia Market Information
+## Bukti Literatur
 
-Five product registrations were identified via NPRA query (query date: 2026-03-27) and the query was logged as successful (`result_count: 5`). However, all detailed license fields — license number, product name, dosage form, manufacturer, and approved indication text — were returned as empty strings, suggesting a data parsing or field-mapping issue downstream of the API call rather than a true absence of registrations.
+Pada masa ini tiada literatur berkaitan tersedia dalam Pakej Bukti ini.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+---
+
+## Maklumat Pasaran Malaysia
+
+Lima pendaftaran produk telah dikenal pasti melalui pertanyaan NPRA (tarikh pertanyaan: 2026-03-27) dan pertanyaan telah dicatat sebagai berjaya (`result_count: 5`). Bagaimanapun, semua medan lesen terperinci — nombor lesen, nama produk, bentuk dos, pengilang, dan teks indikasi yang diluluskan — telah dikembalikan sebagai rentetan kosong, mencadangkan isu penghuraian data atau pemetaan medan pada hulu panggilan API daripada ketiadaan pendaftaran yang sebenarnya.
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
 |---------------------|--------------|-------------|---------------------|
-| (Not populated) | (Not populated) | (Not populated) | (Not populated) |
-| (Not populated) | (Not populated) | (Not populated) | (Not populated) |
-| (Not populated) | (Not populated) | (Not populated) | (Not populated) |
-| (Not populated) | (Not populated) | (Not populated) | (Not populated) |
-| (Not populated) | (Not populated) | (Not populated) | (Not populated) |
+| (Tidak diisi) | (Tidak diisi) | (Tidak diisi) | (Tidak diisi) |
+| (Tidak diisi) | (Tidak diisi) | (Tidak diisi) | (Tidak diisi) |
+| (Tidak diisi) | (Tidak diisi) | (Tidak diisi) | (Tidak diisi) |
+| (Tidak diisi) | (Tidak diisi) | (Tidak diisi) | (Tidak diisi) |
+| (Tidak diisi) | (Tidak diisi) | (Tidak diisi) | (Tidak diisi) |
 
-> **Action required:** The NPRA returned 5 records but field mapping failed. Re-run the data parsing pipeline against the raw NPRA response to repopulate these rows before downstream analysis.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-> **Note:** Both key warnings and contraindications carry outstanding data gaps at **Blocking** severity (DG001), which prevents safety pre-screening from proceeding. No drug-drug interaction records were identified (DDI query returned 0 results). Safety evaluation is fully blocked until package insert data is retrieved from the NPRA official source and parsed.
+> **Tindakan diperlukan:** NPRA mengembalikan 5 rekod tetapi pemetaan medan gagal. Jalankan semula saluran penghuraian data terhadap tindak balas NPRA mentah untuk mengisi semula baris ini sebelum analisis hiliran.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila rujuk risalah kemasan untuk maklumat keselamatan.
 
-**Rationale:**
-No TxGNN repurposing predictions were generated and two critical data gaps — a Blocking-severity gap on package insert warnings and a High-severity gap on mechanism of action — prevent both safety pre-screening and mechanism-of-action analysis. This evaluation cannot advance until the gaps below are resolved.
+> **Nota:** Kedua-dua amaran utama dan kontraindikasi membawa jurang data luar biasa pada keterukan **Menyekat** (DG001), yang menghalang pra-pemeriksaan keselamatan daripada diteruskan. Tiada rekod interaksi ubat-ubat dikenal pasti (pertanyaan DDI mengembalikan 0 hasil). Penilaian keselamatan sepenuhnya disekat sehingga data risalah kemasan diambil daripada sumber rasmi NPRA dan diuraikan.
 
-**To proceed, the following is needed:**
+---
 
-- **[DG001 — Blocking]** Download and parse the package insert PDF from the NPRA official website to extract warnings, precautions, and contraindications for Amoxicillin Sodium
-- **[DG002 — High]** Query the DrugBank API to confirm the DrugBank ID and retrieve full MOA data; a confirmed ID is a prerequisite for KG-based prediction
-- **[License data repopulation]** Investigate why the 5 NPRA-registered product records returned with all empty fields; inspect the raw API response and fix the field-mapping logic in the data processing pipeline
-- **[Re-run TxGNN pipeline]** Once DrugBank ID is confirmed and indication text is available, re-execute `run_kg_prediction.py` and `txgnn_model.py` to generate repurposing candidates
-- **[Evidence collection]** After predictions are generated, run ClinicalTrials.gov and PubMed collectors against the top-ranked predicted indication to build an evidence table and assign a formal evidence level (L1–L5)
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Tiada ramalan ubah guna TxGNN telah dihasilkan dan dua jurang data kritikal — jurang keterukan Menyekat pada amaran risalah kemasan dan jurang keterukan Tinggi pada mekanisme tindakan — menghalang kedua-dua pra-pemeriksaan keselamatan dan analisis mekanisme-tindakan. Penilaian ini tidak boleh maju sehingga jurang-jurang di bawah diselesaikan.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+
+- **[DG001 — Menyekat]** Muat turun dan uraikan PDF risalah kemasan daripada tapak web rasmi NPRA untuk mengekstrak amaran, tindakan berjaga-jaga, dan kontraindikasi untuk Amoxicillin Sodium
+- **[DG002 — Tinggi]** Pertanyakan API DrugBank untuk mengesahkan DrugBank ID dan mendapatkan data MOA penuh; ID yang disahkan adalah prasyarat untuk ramalan berasaskan KG
+- **[Pengisian semula data lesen]** Selidiki mengapa 5 rekod produk berdaftar NPRA dikembalikan dengan semua medan kosong; periksa tindak balas API mentah dan betulkan logik pemetaan medan dalam saluran pemprosesan data
+- **[Jalankan semula saluran TxGNN]** Setelah DrugBank ID disahkan dan teks indikasi tersedia, jalankan semula `run_kg_prediction.py` dan `txgnn_model.py` untuk menghasilkan calon ubah guna
+- **[Pengumpulan bukti]** Selepas ramalan dihasilkan, jalankan pengumpul ClinicalTrials.gov dan PubMed terhadap indikasi yang diramalkan teratas untuk membina jadual bukti dan memberikan tahap bukti formal (L1–L5)
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

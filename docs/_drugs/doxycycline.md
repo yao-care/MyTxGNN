@@ -29,61 +29,61 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Doxycycline: From Bacterial Infections to Punctate Epithelial Keratoconjunctivitis
+# Doxycycline: Daripada Jangkitan Bakteria kepada Keratokonjunktivitis Epithelium Gepik
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Doxycycline is a broad-spectrum tetracycline-class antibiotic, and detailed original indication text from Malaysia's regulatory data was not available in this evidence pack.
-The TxGNN model predicts it may be effective for **Punctate Epithelial Keratoconjunctivitis**,
-but currently **no clinical trials and no published literature** support this specific direction — this is a pure model prediction.
+Doxycycline ialah antibiotik spektrum luas kelas tetrasiklinoid, dan teks petunjuk asal yang terperinci daripada data regulatori Malaysia tidak tersedia dalam pakej bukti ini. Model TxGNN meramalkan ia mungkin berkesan untuk **Keratokonjunktivitis Epithelium Gepik**, tetapi pada masa kini **tiada ujian klinikal dan tiada literatur terbitan** menyokong arah khusus ini — ini ialah ramalan model semata-mata.
 
-## Quick Overview
+## Gambaran Keseluruhan Cepat
 
-| Item | Content |
-|------|------|
-| Original Indication | Not specified in NPRA license text (Doxycycline is generally used for bacterial infections) |
-| Predicted New Indication | Punctate Epithelial Keratoconjunctivitis |
-| TxGNN Prediction Score | 99.94% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 32 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|-------|
+| Petunjuk Asal | Tidak dinyatakan dalam teks lesen NPRA (Doxycycline umumnya digunakan untuk jangkitan bakteria) |
+| Petunjuk Baharu yang Diramalkan | Keratokonjunktivitis Epithelium Gepik |
+| Skor Ramalan TxGNN | 99.94% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 32 |
+| Keputusan Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data is not available. Based on known information, Doxycycline is a tetracycline-class broad-spectrum antibiotic, its efficacy in treating bacterial infections has been proven, and it is separately known to have anti-matrix-metalloproteinase (MMP) and anti-inflammatory properties.
+Pada masa kini, data mekanisme tindakan yang terperinci tidak tersedia. Berdasarkan maklumat yang diketahui, Doxycycline ialah antibiotik spektrum luas kelas tetrasiklinoid, keberkesanannya dalam merawat jangkitan bakteria telah terbukti, dan diketahui secara berasingan bahawa ia mempunyai sifat penyekat MMP dan anti-radang.
 
-For this specific predicted indication — punctate epithelial keratoconjunctivitis — no clinical trial or literature evidence was retrieved. The only mechanistic rationale available is indirect: Doxycycline's known MMP-inhibitory and anti-inflammatory effects are already used clinically in other ocular surface diseases (e.g., ocular rosacea, meibomian gland dysfunction), which suggests a plausible but unverified pathway for punctate epithelial keratoconjunctivitis.
+Untuk petunjuk yang diramalkan secara khusus ini — keratokonjunktivitis epithelium gepik — tiada bukti ujian klinikal atau literatur diperoleh. Satu-satunya justifikasi mekanistik yang tersedia ialah tidak langsung: kesan penyekat MMP dan anti-radang Doxycycline yang diketahui telah digunakan secara klinikal dalam penyakit permukaan mata yang lain (cth., rosacea mata, disfungsi kelenjar meibom), yang menunjukkan laluan yang munasabah tetapi tidak disahkan untuk keratokonjunktivitis epithelium gepik.
 
-This remains a pure model-level (TxGNN) prediction. Targeted literature searches and a preliminary safety assessment are needed before this candidate can advance beyond the hypothesis stage.
+Ini tetap merupakan ramalan tahap model semata-mata (TxGNN). Carian literatur yang disasarkan dan penilaian keselamatan awal diperlukan sebelum calon ini dapat maju melampaui peringkat hipotesis.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-Currently no related clinical trials registered
+Pada masa kini tiada ujian klinikal berkaitan yang didaftarkan
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no related literature available
+Pada masa kini tiada literatur berkaitan yang tersedia
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-This is an L5-level (model prediction only) candidate with zero supporting clinical trials or literature, and safety data (warnings, contraindications, DDI) is entirely unavailable — including a Blocking-severity data gap on TFDA/NPRA label warnings. There is not enough evidence to proceed to safety review.
+**Justifikasi:**
+Ini ialah calon tahap L5 (ramalan model semata-mata) tanpa ujian klinikal atau literatur yang menyokong, dan data keselamatan (amaran, kontraindikasi, DDI) tidak tersedia sama sekali — termasuk jurang data Pemblokiran mengenai amaran label TFDA/NPRA. Tiada bukti yang mencukupi untuk meneruskan semakan keselamatan.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert warnings and contraindications (Blocking gap — required before any S1 safety screening)
-- DrugBank mechanism of action (MOA) data
-- Targeted literature/preclinical search specifically on doxycycline in punctate epithelial keratoconjunctivitis or related ocular surface disease
-- Malaysia license-level detail (product name, dosage form, approved indication text) — not available in current evidence pack despite 32 registered licenses
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Amaran sisipan pakej TFDA/NPRA dan kontraindikasi (jurang Pemblokiran — diperlukan sebelum sebarang saringan keselamatan S1)
+- Data mekanisme tindakan (MOA) DrugBank
+- Carian literatur/praklinkal yang disasarkan secara khusus mengenai doxycycline dalam keratokonjunktivitis epithelium gepik atau penyakit permukaan mata yang berkaitan
+- Butiran tahap lesen Malaysia (nama produk, bentuk dos, teks petunjuk yang diluluskan) — tidak tersedia dalam pakej bukti semasa walaupun 32 lesen berdaftar
 
 ---
-**Supplementary note:** This evidence pack contains other TxGNN-predicted indications for Doxycycline with substantially stronger evidence than the top-ranked candidate above — notably **trachoma** (rank 2, L2/S3, "Proceed with Guardrails", 20 literature citations including RCTs and a Cochrane review) and **post-infectious syndrome** (rank 6, includes a completed Phase 4 RCT — the Qure Study — directly testing doxycycline for Q-fever fatigue syndrome). If the goal is to identify the most actionable repurposing candidate rather than strictly the top TxGNN score, trachoma is worth a separate evaluation report.
+
+**Nota Tambahan:** Pakej bukti ini mengandungi petunjuk lain yang diramalkan TxGNN untuk Doxycycline dengan bukti yang jauh lebih kuat daripada calon pemeringkat teratas di atas — terutamanya **trakhoma** (pangkat 2, L2/S3, "Teruskan dengan Perlindungan", 20 petikan literatur termasuk RCT dan semakan Cochrane) dan **sindrom pasca-jangkitan** (pangkat 6, termasuk RCT Fase 4 yang selesai — Kajian Qure — menguji secara langsung doxycycline untuk sindrom keletihan demam Q). Jika matlamatnya ialah mengenal pasti calon penjumlahan ubat yang paling boleh diambil tindakan daripada benar-benar skor TxGNN teratas, trakhoma adalah layak untuk laporan penilaian yang berasingan.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

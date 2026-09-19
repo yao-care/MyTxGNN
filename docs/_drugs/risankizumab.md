@@ -29,102 +29,101 @@ Tahap bukti: **L2** | Indikasi diramal: **10**
 
 </div>
 
-Using the drug-repurposing report template directly (no other skill fits this task — it's a fixed-format writing job from a supplied Evidence Pack, not a coding/build task).
+# Risankizumab: Dari Psoriasis Plak ke Dermatitis (Dermatitis Atopik)
 
-# Risankizumab: From Plaque Psoriasis to Dermatitis (Atopic Dermatitis)
+## Ringkasan Satu Kalimat
 
-## One-Sentence Summary
-
-Risankizumab is an anti-IL-23p19 monoclonal antibody originally developed and approved for **plaque psoriasis and related psoriatic diseases** (the license text itself was not captured in this data batch, but this is corroborated by the literature and clinical-trial evidence inside this pack). The TxGNN model predicts activity in the broader **Dermatitis** category — most credibly **atopic dermatitis** — supported by **7 clinical trials** and **18 publications**, though the disease label mixes several unrelated skin conditions of very different evidence quality. **A Blocking data gap in TFDA/NPRA safety labeling (warnings/contraindications) currently prevents a full safety pre-screen (S1).**
+Risankizumab adalah antibodi monoklonal anti-IL-23p19 yang awalnya dikembangkan dan disetujui untuk **psoriasis plak dan penyakit psoriasis terkait** (teks lisensi itu sendiri tidak diambil dalam batch data ini, tetapi ini dikonfirmasi oleh literatur dan bukti uji klinis dalam paket ini). Model TxGNN memprediksi aktivitas dalam kategori **Dermatitis** yang lebih luas — paling kredibel **dermatitis atopik** — didukung oleh **7 uji klinis** dan **18 publikasi**, meskipun label penyakit mencampur beberapa kondisi kulit yang tidak terkait dengan kualitas bukti yang sangat berbeza. **Kesenjangan data penghalang dalam pelabelan keselamatan TFDA/NPRA (peringatan/kontraindikasi) pada masa kini mencegah pra-saringan keselamatan lengkap (S1).**
 
 ---
 
-## Quick Overview
+## Tinjauan Cepat
 
-| Item | Content |
-|------|------|
-| Original Indication | Plaque psoriasis (and related psoriatic disease) — *NPRA license indication text not captured in this batch; inferred from literature/trial evidence in this pack* |
-| Predicted New Indication | Dermatitis (evidence concentrates on Atopic Dermatitis) |
-| TxGNN Prediction Score | 99.98% |
-| Evidence Level | L2 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 4 |
-| Recommended Decision | Hold |
-
----
-
-## Why is This Prediction Reasonable?
-
-Detailed structured MOA data was not available in the drug record itself, but the literature evidence collected in this pack fills the gap: risankizumab is described (PMID 38266061, PMID 31098898) as a humanized IgG1 monoclonal antibody that selectively binds the p19 subunit of interleukin-23 (IL-23), blocking downstream Th17-pathway inflammation. This is the mechanism underlying its approved use in plaque psoriasis, psoriatic arthritis, generalized pustular/erythrodermic psoriasis, and Crohn's disease.
-
-The "dermatitis" prediction bundles several distinct conditions under one label: atopic dermatitis (Th2/Th22-dominant with some Th17 contribution), erythrodermic psoriasis and acrodermatitis continua of Hallopeau (both IL-23/Th17-driven, i.e. mechanistically close to the approved indication), and lichen planus (T-cell mediated, more distal mechanism). Only the atopic dermatitis component has direct interventional evidence — a completed Phase 2, placebo-controlled RCT (NCT03706040 / PMID 36588137) — making it the credible sub-signal within this otherwise noisy label. IL-23 blockade in AD is a genuine but mechanistically weaker rationale than in psoriasis, since AD pathogenesis is more Th2/Th22-centered; the RCT result should be treated as the primary evidence rather than the mechanistic argument alone.
-
-Several other rank-listed diseases under this same TxGNN score band (neonatal dermatomyositis, acrodermatitis chronica atrophicans, severe nonproliferative diabetic retinopathy, hydroa vacciniforme) have **zero clinical or literature evidence** and mechanistically implausible links (infectious, VEGF-driven, or EBV-lymphoproliferative etiologies) — these are very likely model noise and are not part of the credible signal here.
+| Item | Isi |
+|------|-----|
+| Indikasi Asli | Psoriasis plak (dan penyakit psoriasis terkait) — *teks indikasi lisensi NPRA tidak diambil dalam batch ini; disimpulkan dari literatur/bukti uji dalam paket ini* |
+| Indikasi Baru yang Diprediksi | Dermatitis (bukti berpusat pada Dermatitis Atopik) |
+| Skor Prediksi TxGNN | 99.98% |
+| Tingkat Bukti | L2 |
+| Status Pasar Malaysia | ✓ Dipasarkan |
+| Jumlah Pendaftaran | 4 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Prediksi Ini Masuk Akal?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Data MOA berstruktur yang terperinci tidak tersedia dalam rekod ubat itu sendiri, tetapi bukti literatur yang dikumpulkan dalam paket ini mengisi kesenjangannya: risankizumab digambarkan (PMID 38266061, PMID 31098898) sebagai antibodi monoklonal IgG1 yang dimanusiakan dan secara selektif mengikat subunit p19 dari interleukin-23 (IL-23), menghalang keradangan jalur Th17 hilir. Ini adalah mekanisme yang mendasari penggunaannya yang diluluskan dalam psoriasis plak, artritis psoriasis, psoriasis pustular umum/eritrodermi, dan penyakit Crohn.
+
+Prediksi "dermatitis" mengumpulkan beberapa keadaan berbeza di bawah satu label: dermatitis atopik (dominan Th2/Th22 dengan sumbangan Th17 tertentu), psoriasis eritrodermi dan acrodermatitis continua of Hallopeau (kedua-duanya didorong IL-23/Th17, iaitu secara mekanis hampir dengan indikasi yang diluluskan), dan lichen planus (dimediasi sel T, mekanisme lebih jauh). Hanya komponen dermatitis atopik yang mempunyai bukti intervensi langsung — RCT terkontrol plasebo Phase 2 yang selesai (NCT03706040 / PMID 36588137) — menjadikannya sinyal sub-kredibel dalam label yang bising ini. Pelepasan IL-23 dalam AD adalah rasional yang tulin tetapi secara mekanis lebih lemah daripada dalam psoriasis, kerana patogenesis AD lebih berpusat pada Th2/Th22; hasil RCT harus diperlakukan sebagai bukti utama daripada hujah mekanis sahaja.
+
+Beberapa penyakit lain yang disenaraikan dalam band skor TxGNN yang sama (dermatomiositis neonatal, acrodermatitis chronica atrophicans, retinopati diabetik nonproliferatif teruk, hydroa vacciniforme) mempunyai **bukti klinis atau literatur sifar** dan pautan yang secara mekanis tidak boleh dipercayai (etiologi berjangkit, didorong VEGF, atau limfoproliferatif EBV) — ini sangat mungkin merupakan bunyi model dan bukan bahagian daripada sinyal kredibel di sini.
+
+---
+
+## Bukti Uji Klinis
+
+| Nombor Uji | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT03706040](https://clinicaltrials.gov/study/NCT03706040) | Phase 2 | Completed | 172 | Randomized, placebo-controlled, double-blind study of risankizumab in adult/adolescent moderate-to-severe atopic dermatitis. Direct AD efficacy/safety evidence (relevance grade B: title truncated, needs manual confirmation of exact indication mapping). |
-| [NCT04908475](https://clinicaltrials.gov/study/NCT04908475) | Phase 4 | Completed | 352 | Head-to-head vs. apremilast in moderate plaque psoriasis — not dermatitis-specific, listed here due to shared query bucket (grade B). |
-| [NCT05969223](https://clinicaltrials.gov/study/NCT05969223) | Phase 4 | Completed | 214 | RCT of risankizumab in genital/scalp psoriasis subpopulations (grade B) — psoriasis variant, not primary dermatitis evidence. |
-| [NCT07021495](https://clinicaltrials.gov/study/NCT07021495) | N/A | Recruiting | 840 | Multi-center observational biomarker study profiling 6 immune-mediated skin diseases including AD; non-interventional (grade C). |
-| [NCT04818385](https://clinicaltrials.gov/study/NCT04818385) | N/A | Completed | 240 | Taiwan observational cohort on chronic plaque psoriasis durability of response; not dermatitis (grade C). |
-| [NCT07041112](https://clinicaltrials.gov/study/NCT07041112) | N/A | Completed | 1000 | Retrospective pharmacogenetic study on biologic survival in cutaneous psoriasis; not efficacy evidence (grade C). |
-| [NCT07352566](https://clinicaltrials.gov/study/NCT07352566) | Phase 4 | Not yet recruiting | 10 | Microdevice drug-delivery feasibility study spanning AD and psoriasis; not yet recruiting, non-efficacy (grade C). |
+| [NCT03706040](https://clinicaltrials.gov/study/NCT03706040) | Fasa 2 | Selesai | 172 | Uji coba terkontrol plasebo rawak butabuta risankizumab pada dermatitis atopik sederhana hingga teruk pada orang dewasa/remaja. Bukti kemanjuran/keselamatan AD langsung (gred relevansi B: tajuk dipotong, memerlukan pengesahan manual pemetaan indikasi yang tepat). |
+| [NCT04908475](https://clinicaltrials.gov/study/NCT04908475) | Fasa 4 | Selesai | 352 | Berhadapan dengan apremilast dalam psoriasis plak sederhana — bukan khusus dermatitis, disenaraikan di sini kerana baldi pertanyaan bersama (gred B). |
+| [NCT05969223](https://clinicaltrials.gov/study/NCT05969223) | Fasa 4 | Selesai | 214 | RCT risankizumab dalam subpopulasi psoriasis genital/kulit kepala (gred B) — varian psoriasis, bukan bukti dermatitis utama. |
+| [NCT07021495](https://clinicaltrials.gov/study/NCT07021495) | N/A | Merekrut | 840 | Uji coba biopenanda pemerhatian pelbagai pusat yang memprofilkan 6 penyakit kulit yang dimediasi imun termasuk AD; bukan intervensi (gred C). |
+| [NCT04818385](https://clinicaltrials.gov/study/NCT04818385) | N/A | Selesai | 240 | Kohort pemerhatian Taiwan tentang ketahanan tindak balas psoriasis plak kronik; bukan dermatitis (gred C). |
+| [NCT07041112](https://clinicaltrials.gov/study/NCT07041112) | N/A | Selesai | 1000 | Uji coba farmakogenetik retrospektif tentang kelangsungan hidup biologi dalam psoriasis kulit; bukan bukti kemanjuran (gred C). |
+| [NCT07352566](https://clinicaltrials.gov/study/NCT07352566) | Fasa 4 | Belum merekrut | 10 | Uji coba kelayakan penghantaran ubat microdevice yang merangkumi AD dan psoriasis; belum merekrut, bukan kemanjuran (gred C). |
 
-**Note:** Only NCT03706040 is a direct interventional trial in atopic dermatitis. The remaining 6 trials are predominantly psoriasis-focused or non-interventional and were captured under the broad "dermatitis" query — they support drug safety familiarity but not the new-indication signal itself.
+**Nota:** Hanya NCT03706040 ialah uji intervensi langsung dalam dermatitis atopik. 6 uji klinis yang lain kebanyakannya memberi tumpuan kepada psoriasis atau bukan intervensi dan ditangkap di bawah pertanyaan "dermatitis" yang luas — mereka menyokong keakraban keselamatan ubat tetapi bukan sinyal indikasi baru itu sendiri.
 
 ---
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [36588137](https://pubmed.ncbi.nlm.nih.gov/36588137/) | 2023 | RCT | Dermatology and Therapy | Phase 2, randomized, double-blind, placebo-controlled trial of risankizumab in moderate-to-severe atopic dermatitis; rationale based on IL-23/IL-22 blockade alongside Th2/Th22 involvement. Primary direct evidence. |
-| [40856907](https://pubmed.ncbi.nlm.nih.gov/40856907/) | 2025 | Systematic review | American Journal of Clinical Dermatology | Systemic therapy options, including IL-23 inhibitors, for erythrodermic psoriasis — a severe psoriasis variant sometimes captured under "dermatitis." |
-| [40794374](https://pubmed.ncbi.nlm.nih.gov/40794374/) | 2025 | Systematic review | Inflammopharmacology | Reviews IL-inhibitor (including IL-23) effects, both therapeutic and paradoxical, in lichen planus. |
-| [39201826](https://pubmed.ncbi.nlm.nih.gov/39201826/) | 2024 | Review | Children (Basel) | Narrative review of biologics/small molecules (including risankizumab) for pediatric AD, psoriasis, alopecia areata, and hidradenitis suppurativa. |
-| [31098898](https://pubmed.ncbi.nlm.nih.gov/31098898/) | 2019 | Review (drug profile) | Drugs | "Risankizumab: First Global Approval" — confirms original approval basis (psoriasis vulgaris, PsA, generalized pustular/erythrodermic psoriasis in Japan; later USA/Canada/EU). |
-| [33078990](https://pubmed.ncbi.nlm.nih.gov/33078990/) | 2020 | Review | Expert Opinion on Biological Therapy | Reviews emerging biologics, including risankizumab, for pediatric atopic dermatitis. |
-| [38607726](https://pubmed.ncbi.nlm.nih.gov/38607726/) | 2024 | Review | Military Medicine | Reappraises systemic immunomodulators, including IL-23 inhibitors, for psoriasis and eczema management context. |
-| [39668419](https://pubmed.ncbi.nlm.nih.gov/39668419/) | 2025 | Case series | International Journal of Dermatology | Effectiveness/safety of combined dupilumab + risankizumab in patients with concomitant AD and psoriasis. |
-| [40071317](https://pubmed.ncbi.nlm.nih.gov/40071317/) | 2025 | Case series | Experimental Dermatology | Retrospective single-center experience of risankizumab in patients with prior erythrodermic psoriasis. |
-| [37381703](https://pubmed.ncbi.nlm.nih.gov/37381703/) | 2023 | Case report | Journal of Dermatological Treatment | Acrodermatitis continua of Hallopeau successfully and rapidly treated with risankizumab in an elderly patient. |
+| [36588137](https://pubmed.ncbi.nlm.nih.gov/36588137/) | 2023 | RCT | Dermatology and Therapy | Fasa 2, uji coba terkontrol plasebo rawak butabuta risankizumab dalam dermatitis atopik sederhana hingga teruk; rasional berdasarkan lumpuhan IL-23/IL-22 bersama dengan penglibatan Th2/Th22. Bukti langsung utama. |
+| [40856907](https://pubmed.ncbi.nlm.nih.gov/40856907/) | 2025 | Ulasan sistematis | American Journal of Clinical Dermatology | Pilihan terapi sistemik, termasuk perencat IL-23, untuk psoriasis eritrodermi — varian psoriasis teruk yang kadang-kadang ditangkap di bawah "dermatitis." |
+| [40794374](https://pubmed.ncbi.nlm.nih.gov/40794374/) | 2025 | Ulasan sistematis | Inflammopharmacology | Meninjau kesan penghambat IL (termasuk IL-23), sama ada terapeutik atau paradoks, dalam lichen planus. |
+| [39201826](https://pubmed.ncbi.nlm.nih.gov/39201826/) | 2024 | Ulasan | Children (Basel) | Ulasan naratif tentang biologis/molekul kecil (termasuk risankizumab) untuk AD pediatrik, psoriasis, alopecia areata, dan hidradenitis suppurativa. |
+| [31098898](https://pubmed.ncbi.nlm.nih.gov/31098898/) | 2019 | Ulasan (profil ubat) | Drugs | "Risankizumab: First Global Approval" — mengesahkan asas kelulusan asal (psoriasis vulgaris, PsA, psoriasis pustular umum/eritrodermi di Jepun; kemudian USA/Kanada/EU). |
+| [33078990](https://pubmed.ncbi.nlm.nih.gov/33078990/) | 2020 | Ulasan | Expert Opinion on Biological Therapy | Meninjau biologis yang berkembang, termasuk risankizumab, untuk dermatitis atopik pediatrik. |
+| [38607726](https://pubmed.ncbi.nlm.nih.gov/38607726/) | 2024 | Ulasan | Military Medicine | Menilai semula imunomodulator sistemik, termasuk perencat IL-23, untuk konteks pengurusan psoriasis dan eksim. |
+| [39668419](https://pubmed.ncbi.nlm.nih.gov/39668419/) | 2025 | Siri kes | International Journal of Dermatology | Keberkesanan/keselamatan dupilumab + risankizumab gabungan pada pesakit dengan AD dan psoriasis serentak. |
+| [40071317](https://pubmed.ncbi.nlm.nih.gov/40071317/) | 2025 | Siri kes | Experimental Dermatology | Pengalaman pusat tunggal retrospektif risankizumab pada pesakit dengan psoriasis eritrodermi sebelumnya. |
+| [37381703](https://pubmed.ncbi.nlm.nih.gov/37381703/) | 2023 | Laporan kes | Journal of Dermatological Treatment | Acrodermatitis continua of Hallopeau berjaya dan cepat dirawat dengan risankizumab pada pesakit warga emas. |
 
-**Note:** Multiple additional case reports describe *paradoxical eczematous eruptions* occurring during risankizumab treatment for psoriasis (PMID 33185530, 36939506, 33368238, 37014149, 41645692) — these are adverse-event reports, not efficacy evidence, and are relevant to the Safety section rather than the repurposing rationale.
-
----
-
-## Malaysia Market Information
-
-NPRA records confirm **4 marketing authorizations** for Risankizumab in Malaysia (market status: Marketed), but authorization number, product name, dosage form, and approved-indication text were not populated for any of the 4 license entries in this data batch. This field-level extraction gap should be closed by re-querying NPRA before finalizing any regulatory submission.
+**Nota:** Beberapa laporan kes tambahan menggambarkan *letusan eksematus paradoks* yang berlaku semasa rawatan risankizumab untuk psoriasis (PMID 33185530, 36939506, 33368238, 37014149, 41645692) — ini adalah laporan peristiwa sampingan, bukan bukti kemanjuran, dan relevan dengan bahagian Keselamatan daripada rasional repurposing itu sendiri.
 
 ---
 
-## Safety Considerations
+## Maklumat Pasar Malaysia
 
-Please refer to the package insert for safety information. *(No key warnings, contraindications, or drug–drug interaction data were retrievable in this batch — TFDA/NPRA label extraction for warnings/contraindications is flagged as a Blocking data gap, DG001.)*
+Rekod NPRA mengesahkan **4 kebenaran pemasaran** untuk Risankizumab di Malaysia (status pasar: Dipasarkan), tetapi nombor kebenaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan tidak diisikan untuk mana-mana daripada 4 entri lisensi dalam batch data ini. Kesenjangan pengekstrakan peringkat medan ini harus ditutup dengan mengkueri semula NPRA sebelum memuktamadkan sebarang penyerahan regulasi.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila lihat kemasan insert untuk maklumat keselamatan. *(Data peringatan utama, kontraindikasi, atau interaksi ubat-ubatan tidak dapat diambil dalam batch ini — pengekstrakan label TFDA/NPRA untuk peringatan/kontraindikasi ditandakan sebagai kesenjangan data penghalang, DG001.)*
 
-**Rationale:**
-- The atopic-dermatitis sub-signal has genuine L2 evidence (one completed Phase 2 placebo-controlled RCT: NCT03706040 / PMID 36588137), but the broader "dermatitis" label mixes in mechanistically weak or evidence-free conditions (neonatal dermatomyositis, acrodermatitis chronica atrophicans, hydroa vacciniforme, etc.) that should not be advanced.
-- A **Blocking** data gap (DG001: TFDA/NPRA package-insert warnings/contraindications) currently makes it impossible to complete the mandatory S1 safety pre-screen, which overrides the otherwise-promising efficacy signal.
+---
 
-**To proceed, the following is needed:**
-- Download and parse the TFDA/NPRA package insert for warnings, contraindications, and DDI data (DG001, Blocking)
-- Confirm MOA via DrugBank API to formalize the mechanistic rationale beyond literature-derived description (DG002, High)
-- Re-extract NPRA license-level fields (authorization number, product name, dosage form, approved indication text) — all 4 entries are currently blank
-- Disambiguate the "dermatitis" label to isolate atopic dermatitis as the standalone candidate, separate from psoriasis-variant and case-report-only sub-conditions
-- Discard rank 2–6, 8–10 candidates (all L5/S0/Hold, zero trials or literature) pending independent re-validation
-- Note for data hygiene: rank 7 ("psoriasis") is not a new indication — it is risankizumab's existing approved indication and should be excluded from repurposing scoring in future runs
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+- Sub-sinyal dermatitis atopik mempunyai bukti L2 yang tulin (satu RCT terkontrol plasebo Fasa 2 yang selesai: NCT03706040 / PMID 36588137), tetapi label "dermatitis" yang lebih luas mencampurkan keadaan yang secara mekanis lemah atau tanpa bukti (dermatomiositis neonatal, acrodermatitis chronica atrophicans, hydroa vacciniforme, dll.) yang tidak boleh dimajukan.
+- **Kesenjangan penghalang** (DG001: peringatan insert paket TFDA/NPRA/kontraindikasi) pada masa kini menjadikan mustahil untuk menyelesaikan pra-saringan keselamatan S1 yang wajib, yang mengatasi sinyal kemanjuran yang sebaliknya menjanjikan.
+
+**Untuk meneruskan, hal-hal berikut diperlukan:**
+- Muat turun dan analisis insert paket TFDA/NPRA untuk data peringatan, kontraindikasi, dan DDI (DG001, Penghalang)
+- Sahkan MOA melalui API DrugBank untuk memformalkan rasionalisasi mekanis melampaui perihalan literatur (DG002, Tinggi)
+- Ekstrak semula medan peringkat lisensi NPRA (nombor kebenaran, nama produk, bentuk dos, teks indikasi yang diluluskan) — semua 4 entri pada masa kini kosong
+- Stratifikasi label "dermatitis" untuk mengasingkan dermatitis atopik sebagai calon mandiri, berasingan daripada varian psoriasis dan sub-keadaan laporan kes sahaja
+- Abaikan calon peringkat 2–6, 8–10 (semua L5/S0/Tahan, sifar uji atau literatur) tertunda pengesahan semula bebas
+- Nota untuk kebersihan data: peringkat 7 ("psoriasis") bukan indikasi baru — ia ialah indikasi yang diluluskan sedia ada untuk risankizumab dan harus dikecualikan daripada penilaian repurposing dalam larian masa hadapan
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

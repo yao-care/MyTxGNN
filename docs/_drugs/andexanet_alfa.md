@@ -29,87 +29,88 @@ Tahap bukti: **L5** | Indikasi diramal: **4**
 
 </div>
 
-# Andexanet Alfa: From Factor Xa Inhibitor Reversal to Glanzmann Thrombasthenia
+# Andexanet Alfa: Daripada Pembalikan Perencat Factor Xa kepada Thrombasthenia Glanzmann
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Andexanet alfa is a recombinant modified human Factor Xa decoy protein approved to reverse life-threatening or uncontrolled bleeding caused by Factor Xa inhibitors (apixaban and rivaroxaban).
-The TxGNN model predicts it may be effective for **Glanzmann Thrombasthenia**,
-with **0 clinical trials** and **0 publications** currently directly supporting this direction — making this a model-only prediction at evidence level L5.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Factor Xa inhibitor reversal (anticoagulant antidote) |
-| Predicted New Indication | Glanzmann Thrombasthenia |
-| TxGNN Prediction Score | 99.77% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+Andexanet alfa ialah protein decoy Factor Xa manusia terubah-suai yang direkombina dan diluluskan untuk membalikkan pendarahan yang mengancam nyawa atau tidak terkawal yang disebabkan oleh perencat Factor Xa (apixaban dan rivaroxaban).
+Model TxGNN meramalkan ia mungkin berkesan untuk **Thrombasthenia Glanzmann**,
+dengan **0 ujian klinikal** dan **0 publikasi** yang kini secara langsung menyokong arah ini — menjadikan ini ramalan model sahaja pada tahap bukti L5.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Pantas
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on known information, Andexanet alfa is a recombinant, catalytically inactive modified human Factor Xa protein. It functions as a decoy receptor in the secondary coagulation cascade, binding to and sequestering Factor Xa inhibitors (apixaban, rivaroxaban) in the plasma, thereby restoring the natural coagulation process in patients experiencing life-threatening bleeding during anticoagulation therapy.
-
-Glanzmann thrombasthenia is a hereditary platelet aggregation disorder caused by deficiency or dysfunction of the platelet surface glycoprotein GPIIb/IIIa (integrin αIIbβ3). This is a **primary hemostasis** defect — the platelet adhesion/aggregation pathway — and is mechanistically entirely separate from the **secondary coagulation cascade** where Andexanet alfa exerts its action (at the Factor Xa level in the prothrombinase complex). The two pathways do not share a direct pharmacological intersection.
-
-The high TxGNN prediction score most likely originates from indirect knowledge graph connections: both conditions share "bleeding phenotype" classification nodes in the graph, creating a graph-proximity artifact rather than a genuine mechanistic or clinical repurposing signal. This prediction should be treated with caution and is not supported by any real-world evidence at this stage.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Perkara | Kandungan |
+|---------|----------|
+| Petunjuk Asal | Pembalikan perencat Factor Xa (penawar antikoagulant) |
+| Petunjuk Baru Diramal | Thrombasthenia Glanzmann |
+| Skor Ramalan TxGNN | 99.77% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available.
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia dalam Bungkusan Bukti ini. Berdasarkan maklumat yang diketahui, andexanet alfa ialah protein Factor Xa manusia terubah-suai yang tidak aktif secara katalitik yang direkombina. Ia berfungsi sebagai reseptor decoy dalam rantaian koagulasi sekunder, mengikat dan memisahkan perencat Factor Xa (apixaban, rivaroxaban) dalam plasma, dengan itu memulihkan proses koagulasi semula jadi dalam pesakit yang mengalami pendarahan mengancam nyawa semasa terapi antikoagulasi.
 
----
+Thrombasthenia Glanzmann ialah gangguan agregasi trombosit bawaan yang disebabkan oleh kekurangan atau disfungsi glikoprotein permukaan trombosit GPIIb/IIIa (integrin αIIbβ3). Ini adalah kecacatan **hemostasis primer** — laluan penghanyutan/pengagregatan trombosit — dan merupakan mekanisme yang benar-benar berasingan daripada **rantaian koagulasi sekunder** di mana andexanet alfa mengeluarkan tindakannya (pada tahap Factor Xa dalam kompleks protrombinase). Kedua-dua laluan tidak berkongsi persimpangan farmakologi langsung.
 
-## Malaysia Market Information
-
-Andexanet alfa holds **1 registered licence** in Malaysia with confirmed marketed status. Detailed product-level registration data (authorization number, product name, dosage form, and approved indication text) was not returned in the current data query and should be retrieved directly from the National Pharmaceutical Regulatory Agency (NPRA) database.
-
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------------------|--------------|-------------|---------------------|
-| (Not recorded in current data) | Andexanet Alfa | — | — |
+Skor ramalan TxGNN yang tinggi kemungkinan besar berpunca daripada sambungan graf pengetahuan tidak langsung: kedua-dua keadaan berkongsi nod klasifikasi "fenotip pendarahan" dalam graf, mencipta artifak kedekataan graf daripada isyarat repurposing sejati atau klinikal. Ramalan ini harus diperlakukan dengan berhati-hati dan tidak disokong oleh sebarang bukti dunia nyata pada peringkat ini.
 
 ---
 
-## Safety Considerations
+## Bukti Ujian Klinikal
 
-Please refer to the package insert for safety information.
-
-> ⚠️ **Data Gap Note**: Key warnings and contraindications data were not retrieved in this evidence cycle. The package insert PDF should be obtained from the NPRA website and parsed prior to any clinical assessment.
+Pada masa ini, tiada ujian klinikal berkaitan yang didaftarkan.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Kesusasteraan
 
-**Decision: Hold**
-
-**Rationale:**
-The TxGNN prediction for Glanzmann thrombasthenia is assessed as a knowledge graph artifact with no supporting clinical or preclinical evidence (L5). Andexanet alfa acts exclusively on Factor Xa inhibitors within the secondary coagulation cascade, while Glanzmann thrombasthenia is a primary platelet aggregation disorder (GPIIb/IIIa dysfunction) — these two biological pathways have no known pharmacological overlap, and there is currently zero trial or literature evidence to suggest a plausible repurposing opportunity.
-
-**To proceed, the following would be needed:**
-
-- Retrieval and parsing of the full package insert (NPRA PDF) to populate key warnings, contraindications, and approved indication text (Data Gap DG001)
-- DrugBank API query to confirm full MOA and drug categories (Data Gap DG002)
-- Mechanistic studies or expert opinion demonstrating any plausible pharmacological effect on platelet GPIIb/IIIa function — which is currently not theoretically supported
-- Preclinical data in Glanzmann thrombasthenia animal models before any further evaluation is warranted
+Pada masa ini, tiada kesusasteraan berkaitan tersedia.
 
 ---
 
-> **Disclaimer**: This report is for research reference only and does not constitute medical advice. All drug repurposing candidates require clinical validation before application. *(YMYL)*
+## Maklumat Pasaran Malaysia
+
+Andexanet alfa memegang **1 lesen berdaftar** di Malaysia dengan status dipasarkan yang disahkan. Data pendaftaran peringkat produk terperinci (nombor kebenaran, nama produk, bentuk dos, dan teks petunjuk yang diluluskan) tidak dikembalikan dalam pertanyaan data semasa dan harus diambil terus daripada pangkalan data Agensi Regulasi Farmaseutikal Kebangsaan (NPRA).
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjuk Diluluskan |
+|------------------|-------------|-----------|-------------------|
+| (Tidak dicatat dalam data semasa) | Andexanet Alfa | — | — |
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
+
+> ⚠️ **Nota Jurang Data**: Data amaran dan kontraindikasi utama tidak diambil dalam kitaran bukti ini. PDF sisipan pakej harus diperolehi daripada laman web NPRA dan dianalisis sebelum sebarang penilaian klinikal.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Nisbah:**
+Ramalan TxGNN untuk thrombasthenia Glanzmann dinilai sebagai artifak graf pengetahuan tanpa sebarang bukti klinikal atau praklinik yang menyokong (L5). Andexanet alfa bertindak secara eksklusif pada perencat Factor Xa dalam rantaian koagulasi sekunder, manakala thrombasthenia Glanzmann ialah gangguan agregasi trombosit primer (disfungsi GPIIb/IIIa) — kedua-dua laluan biologi ini tidak mempunyai sebarang persimpangan farmakologi yang diketahui, dan pada masa ini terdapat sifar bukti ujian atau kesusasteraan yang mencadangkan peluang repurposing yang munasabah.
+
+**Untuk meneruskan, yang berikut akan diperlukan:**
+
+- Pengambilan dan analisis sisipan pakej penuh (PDF NPRA) untuk mengisi amaran utama, kontraindikasi, dan teks petunjuk yang diluluskan (Jurang Data DG001)
+- Pertanyaan API DrugBank untuk mengesahkan MOA penuh dan kategori ubat (Jurang Data DG002)
+- Kajian mekanisme atau pendapat pakar yang menunjukkan sebarang kesan farmakologi yang munasabah pada fungsi GPIIb/IIIa trombosit — yang kini tidak disokong secara teoritikal
+- Data praklinik dalam model haiwan thrombasthenia Glanzmann sebelum sebarang penilaian selanjutnya adalah wajar
+
+---
+
+> **Penafian**: Laporan ini adalah untuk rujukan penyelidikan sahaja dan tidak merupakan nasihat perubatan. Semua calon repurposing ubat memerlukan pengesahan klinikal sebelum aplikasi. *(YMYL)*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

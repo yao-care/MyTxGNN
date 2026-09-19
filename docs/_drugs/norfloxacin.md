@@ -29,86 +29,87 @@ Tahap bukti: **L2** | Indikasi diramal: **5**
 
 </div>
 
-# Norfloxacin: From Bacterial Infections to Paratyphoid Fever
+# Norfloxacin: Dari Jangkitan Bakteria kepada Demam Paratifoid
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Norfloxacin is a fluoroquinolone antibiotic; its TFDA-specific approved indication text is not available in current records, though it is a long-established antibacterial agent. The TxGNN model highlights **Paratyphoid Fever** as the top-ranked candidate indication, and this is already supported by **9 publications** — including three Cochrane systematic reviews and a randomized controlled trial — reflecting an established antibacterial application rather than a purely speculative prediction.
+Norfloxacin ialah antibiotik fluorokuinolona; teks indikasi yang diluluskan khusus TFDA tidak tersedia dalam rekod semasa, walaupun ia adalah agen antibakteri yang telah lama ditubuhkan. Model TxGNN menonjolkan **Demam Paratifoid** sebagai calon indikasi teratas, dan ini sudah disokong oleh **9 penerbitan** — termasuk tiga ulasan sistematik Cochrane dan satu ujian kawalan rawak — mencerminkan aplikasi antibakteri yang telah ditubuhkan dan bukannya ramalan yang bersifat spekulatif semata-mata.
 
 ---
 
-## Quick Overview
+## Gambaran Pantas
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Not specified in current registry records (Norfloxacin is a fluoroquinolone antibiotic; TFDA label text is a data gap) |
-| Predicted New Indication | Paratyphoid Fever |
-| TxGNN Prediction Score | 0.00% (score not meaningful here — see note below) |
-| Evidence Level | L2 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 5 |
-| Recommended Decision | Proceed with Guardrails |
+| Indikasi Asal | Tidak dinyatakan dalam rekod pendaftaran semasa (Norfloxacin ialah antibiotik fluorokuinolona; teks label TFDA merupakan jurang data) |
+| Indikasi Baru yang Diramalkan | Demam Paratifoid |
+| Skor Ramalan TxGNN | 0.00% (skor tidak bermakna di sini — lihat nota di bawah) |
+| Tahap Bukti | L2 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 5 |
+| Keputusan yang Disyorkan | Teruskan dengan Pengawasan |
 
-> Note: The TxGNN score of 0.0 is not informative for this candidate. The repurposing rationale itself notes this is an **already-established** antibacterial indication for fluoroquinolones, not a novel model-generated hypothesis.
-
----
-
-## Why is This Prediction Reasonable?
-
-Currently, detailed mechanism of action data is not available (DrugBank MOA field is a confirmed data gap). Based on known pharmacology, Norfloxacin is a fluoroquinolone-class antibiotic that inhibits bacterial DNA gyrase and topoisomerase IV, giving it direct bactericidal activity against Gram-negative enteric pathogens, including *Salmonella enterica* serovar Paratyphi.
-
-This mechanism aligns directly with the treatment of typhoid and paratyphoid fever (enteric fever). The World Health Organization has historically recommended fluoroquinolones as first-line therapy in regions with resistance to older agents (chloramphenicol, cotrimoxazole), and norfloxacin specifically has been evaluated head-to-head against chloramphenicol with favorable outcomes.
-
-Because this mechanistic and clinical link is already well-documented in the literature, this candidate should be understood as validating an established antimicrobial use case rather than uncovering a genuinely new therapeutic area — which also explains why the supporting evidence is stronger (systematic reviews, RCT) than typical purely-predicted candidates.
+> Nota: Skor TxGNN sebanyak 0.0 tidak memberikan maklumat untuk calon ini. Rasional repurposing itu sendiri mencatatkan ini adalah indikasi antibakteri yang **sudah ditubuhkan** untuk fluorokuinolona, bukan hipotesis model yang dijana secara baru.
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related clinical trials registered.
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia (medan DrugBank MOA adalah jurang data yang disahkan). Berdasarkan farmakologi yang diketahui, norfloxacin ialah antibiotik kelas fluorokuinolona yang menghalang DNA girase dan topoisomerase IV bakteria, memberikannya aktiviti bakterisid langsung terhadap patogen entarik Gram-negatif, termasuk *Salmonella enterica* serovar Paratyphi.
 
----
+Mekanisme ini sejajar secara langsung dengan rawatan demam tifoid dan paratifoid (demam entarik). Organisasi Kesihatan Dunia secara historis telah mengesyorkan fluorokuinolona sebagai terapi lini pertama di kawasan dengan rintangan terhadap agen lebih lama (kloramfenikol, kotrimoksazol), dan norfloxacin secara khusus telah dinilai berhadapan dengan kloramfenikol dengan hasil yang menguntungkan.
 
-## Literature Evidence
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [1781005](https://pubmed.ncbi.nlm.nih.gov/1781005/) | 1991 | RCT | Trans R Soc Trop Med Hyg | 40 patients with *S. typhi*/*S. paratyphi* infection randomized to norfloxacin or chloramphenicol; 7-day norfloxacin course cured drug-sensitive and drug-resistant cases with no side effects |
-| [3137036](https://pubmed.ncbi.nlm.nih.gov/3137036/) | 1988 | RCT | Eur J Clin Microbiol Infect Dis | Pefloxacin (fluoroquinolone) vs. cotrimoxazole in 42 adults with typhoid fever; all patients cured without relapse |
-| [21975746](https://pubmed.ncbi.nlm.nih.gov/21975746/) | 2011 | Review (Cochrane) | Cochrane Database Syst Rev | WHO recommends fluoroquinolones for typhoid/paratyphoid fever in areas with resistance to older first-line antibiotics |
-| [18843659](https://pubmed.ncbi.nlm.nih.gov/18843659/) | 2008 | Review (Cochrane) | Cochrane Database Syst Rev | Fluoroquinolones are first-line therapy for enteric fever; comparative efficacy vs. other agents reviewed |
-| [15846718](https://pubmed.ncbi.nlm.nih.gov/15846718/) | 2005 | Review (Cochrane) | Cochrane Database Syst Rev | Fluoroquinolones recommended as first-line therapy for typhoid/paratyphoid fever vs. cheaper alternatives |
-| [11197787](https://pubmed.ncbi.nlm.nih.gov/11197787/) | 2000 | Cohort | Intern Med (Tokyo) | Oral fluoroquinolones evaluated for adverse reactions and therapeutic effect in typhoid/paratyphoid fever patients in Japan |
-| [18383953](https://pubmed.ncbi.nlm.nih.gov/18383953/) | 2007 | Cohort | J Indian Med Assoc | Prospective study of 145 pediatric enteric fever cases; documents antibiotic sensitivity patterns of *S. typhi*/*S. paratyphi* |
-| [27188369](https://pubmed.ncbi.nlm.nih.gov/27188369/) | 2016 | Other | Zhonghua Liu Xing Bing Xue Za Zhi | Drug tolerance and molecular typing of *S. paratyphi* A isolates, Henan province, 2009–2015 |
-| [17164172](https://pubmed.ncbi.nlm.nih.gov/17164172/) | 2006 | Other | Int J Environ Health Res | Rising prevalence of *S. paratyphi* A in Kolkata; isolates largely sensitive to gentamicin and norfloxacin |
+Kerana pautan mekanistik dan klinikal ini sudah terdokumentasikan dengan baik dalam literatur, calon ini harus difahami sebagai pengesahan kes penggunaan antimikrobial yang ditubuhkan dan bukannya menemui kawasan terapeutik yang benar-benar baru — yang juga menjelaskan mengapa bukti yang menyokong lebih kuat (ulasan sistematik, RCT) daripada calon ramalan tulen yang biasa.
 
 ---
 
-## Malaysia Market Information
+## Bukti Ujian Klinikal
 
-License-level details (registration numbers, product names, dosage forms, indication text) are not available in the current data extract. Malaysia market status is confirmed as **Marketed**, with **5 total registrations** on file.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information. TFDA/NPRA label warnings, contraindications, and drug-drug interaction data are currently a confirmed data gap (blocking severity) and have not yet been retrieved.
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Proceed with Guardrails**
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|------|------|------|---------|
+| [1781005](https://pubmed.ncbi.nlm.nih.gov/1781005/) | 1991 | RCT | Trans R Soc Trop Med Hyg | 40 pesakit dengan jangkitan *S. typhi*/*S. paratyphi* yang dirandomkan kepada norfloxacin atau kloramfenikol; kursus norfloxacin 7 hari menyembuhkan kes yang sensitif terhadap ubat dan rintang ubat tanpa kesan sampingan |
+| [3137036](https://pubmed.ncbi.nlm.nih.gov/3137036/) | 1988 | RCT | Eur J Clin Microbiol Infect Dis | Pefloxacin (fluorokuinolona) vs. kotrimoksazol dalam 42 orang dewasa dengan demam tifoid; semua pesakit disembuhkan tanpa kambuh |
+| [21975746](https://pubmed.ncbi.nlm.nih.gov/21975746/) | 2011 | Ulasan (Cochrane) | Cochrane Database Syst Rev | WHO mengesyorkan fluorokuinolona untuk demam tifoid/paratifoid di kawasan dengan rintangan terhadap antibiotik lini pertama yang lebih lama |
+| [18843659](https://pubmed.ncbi.nlm.nih.gov/18843659/) | 2008 | Ulasan (Cochrane) | Cochrane Database Syst Rev | Fluorokuinolona adalah terapi lini pertama untuk demam entarik; keberkesan perbandingan vs. agen lain diulas |
+| [15846718](https://pubmed.ncbi.nlm.nih.gov/15846718/) | 2005 | Ulasan (Cochrane) | Cochrane Database Syst Rev | Fluorokuinolona disyorkan sebagai terapi lini pertama untuk demam tifoid/paratifoid vs. alternatif yang lebih murah |
+| [11197787](https://pubmed.ncbi.nlm.nih.gov/11197787/) | 2000 | Kohort | Intern Med (Tokyo) | Fluorokuinolona oral dinilai untuk reaksi merugikan dan kesan terapeutik dalam pesakit demam tifoid/paratifoid di Jepun |
+| [18383953](https://pubmed.ncbi.nlm.nih.gov/18383953/) | 2007 | Kohort | J Indian Med Assoc | Kajian prospektif 145 kes demam entarik pediatrik; mendokumentasikan corak kepekaan antibiotik isolat *S. typhi*/*S. paratyphi* |
+| [27188369](https://pubmed.ncbi.nlm.nih.gov/27188369/) | 2016 | Lain-lain | Zhonghua Liu Xing Bing Xue Za Zhi | Toleransi ubat dan pengtaipan molekular isolat *S. paratyphi* A, wilayah Henan, 2009–2015 |
+| [17164172](https://pubmed.ncbi.nlm.nih.gov/17164172/) | 2006 | Lain-lain | Int J Environ Health Res | Kelaziman yang meningkat bagi *S. paratyphi* A di Kolkata; isolat sebahagian besarnya sensitif terhadap gentamisin dan norfloxacin |
 
-**Rationale:**
-The mechanistic link and supporting literature (three Cochrane systematic reviews plus RCT evidence) strongly support fluoroquinolone use in paratyphoid fever, but package insert safety data (warnings, contraindications, DDI) and formal MOA documentation are both missing, which blocks a full safety assessment.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert data — warnings and contraindications (currently blocking)
-- Detailed mechanism of action data from DrugBank
-- Malaysia license-level product details (product names, dosage forms, approved indication text)
-- Current local antimicrobial resistance data, given several cited studies note rising fluoroquinolone resistance in *Salmonella* and *Shigella* species
+## Maklumat Pasaran Malaysia
+
+Butiran peringkat lesen (nombor pendaftaran, nama produk, bentuk dos, teks indikasi) tidak tersedia dalam ekstrak data semasa. Status pasaran Malaysia disahkan sebagai **Dipasarkan**, dengan **5 jumlah pendaftaran** dalam fail.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan pembungkus untuk maklumat keselamatan. Data amaran/kontraindikasi label TFDA/NPRA dan data interaksi ubat-ubat adalah jurang data yang disahkan (keterukan sekatan) dan belum diambil.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Teruskan dengan Pengawasan**
+
+**Rasional:**
+Pautan mekanistik dan literatur yang menyokong (tiga ulasan sistematik Cochrane serta bukti RCT) dengan kuat menyokong penggunaan fluorokuinolona dalam demam paratifoid, tetapi data sisipan pembungkus keselamatan (amaran, kontraindikasi, DDI) dan dokumentasi MOA yang formal kedua-duanya hilang, yang menyekat penilaian keselamatan yang lengkap.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data sisipan pembungkus TFDA/NPRA — amaran dan kontraindikasi (pada masa ini menyekat)
+- Data mekanisme tindakan terperinci daripada DrugBank
+- Butiran produk peringkat lesen Malaysia (nama produk, bentuk dos, teks indikasi yang diluluskan)
+- Data rintangan antimikrobial tempatan semasa, memandangkan beberapa kajian yang dirujuk mencatat rintangan fluorokuinolona yang meningkat dalam spesies *Salmonella* dan *Shigella*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

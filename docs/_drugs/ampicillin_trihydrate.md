@@ -29,116 +29,117 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Ampicillin Trihydrate: Repurposing Evaluation (No TxGNN Prediction Available)
+# Ampicillin Trihydrate: Penilaian Kegunaan Semula (Tiada Ramalan TxGNN Tersedia)
 
-## One-Sentence Summary
+## Ringkasan Satu Baris
 
-Ampicillin Trihydrate is a broad-spectrum aminopenicillin antibiotic, widely used to treat bacterial infections including respiratory tract infections, urinary tract infections, and meningitis.
-The current Evidence Pack contains **no TxGNN-predicted new indications** for this drug — the prediction pipeline has not yet been run or returned results for this candidate.
-Without a predicted indication, a formal repurposing evaluation cannot be completed at this time; **this report documents current data availability and identifies the gaps that must be resolved before proceeding.**
+Ampicillin Trihydrate adalah antibiotik aminopenicillin spektrum luas yang digunakan secara meluas untuk merawat jangkitan bakteria termasuk jangkitan saluran pernafasan, jangkitan saluran kencing, dan meningitis.
+Bungkusan Bukti semasa mengandungi **tiada indikasi kegunaan semula yang diramalkan oleh TxGNN** untuk ubat ini — paip saluran ramalan belum dijalankan atau mengembalikan hasil untuk calon ini.
+Tanpa indikasi kegunaan semula yang diramalkan, penilaian kegunaan semula yang formal tidak boleh diselesaikan pada masa ini; **laporan ini mendokumenkan ketersediaan data semasa dan mengenalpasti jurang yang mesti diselesaikan sebelum meneruskan.**
 
 ---
 
-## Quick Overview
+## Tinjauan Ringkas
 
-| Item | Content |
+| Item | Kandungan |
 |------|---------|
-| Original Indication | Bacterial infections (broad-spectrum antibiotic: respiratory, urinary tract, CNS, GI) |
-| Predicted New Indication | Not available — no TxGNN prediction returned |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | N/A (prediction pipeline not executed) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 9 |
-| Recommended Decision | **Hold** — critical data gaps must be resolved first |
+| Indikasi Asal | Jangkitan bakteria (antibiotik spektrum luas: pernafasan, saluran kencing, CNS, GI) |
+| Indikasi Kegunaan Semula yang Diramalkan | Tidak tersedia — tiada ramalan TxGNN dikembalikan |
+| Skor Ramalan TxGNN | N/A |
+| Tahap Bukti | N/A (paip saluran ramalan tidak dilaksanakan) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 9 |
+| Keputusan yang Disyorkan | **Tahan** — jurang data kritikal mesti diselesaikan terlebih dahulu |
 
 ---
 
-## Drug Background
+## Latar Belakang Ubat
 
-Ampicillin Trihydrate is the stable trihydrate salt form of ampicillin, a broad-spectrum beta-lactam antibiotic of the aminopenicillin subclass. It has been in clinical use since the 1960s and remains on the WHO Essential Medicines List.
+Ampicillin Trihydrate adalah bentuk garam trihidrat yang stabil bagi ampicillin, antibiotik beta-laktam spektrum luas dalam subkelas aminopenicillin. Ia telah digunakan secara klinikal sejak tahun 1960-an dan masih berada dalam Senarai Ubat-Ubatan Penting WHO.
 
-**Mechanism of Action (from general knowledge — DrugBank query pending):**
-Ampicillin exerts bactericidal activity by irreversibly binding to penicillin-binding proteins (PBPs) located on the inner membrane of bacterial cell walls. This inhibits the transpeptidase enzyme responsible for peptidoglycan cross-linking, thereby disrupting cell wall synthesis and ultimately causing bacterial cell lysis. Its aminobenzyl side chain provides extended gram-negative coverage compared to earlier penicillins.
+**Mekanisme Tindakan (daripada pengetahuan umum — pertanyaan DrugBank belum selesai):**
+Ampicillin menggunakan aktiviti bakterisida dengan mengikat secara tak boleh balik kepada protein pengikat penicillin (PBPs) yang terletak pada membran dalam dinding sel bakteria. Ini menghalang enzim transpeptidase yang bertanggungjawab untuk sambungan silang peptidoglikan, dengan itu mengganggu sintesis dinding sel dan akhirnya menyebabkan lisis sel bakteria. Sisi rantai aminobenzil memberikan liputan gram-negatif yang dipanjangkan berbanding dengan penicillin awal.
 
-> ⚠️ **Data Gap DG002 (High):** Formal MOA data has not been retrieved from DrugBank for this Evidence Pack. The description above is based on established pharmacological knowledge and should be verified against the DrugBank API record before formal reporting.
+> ⚠️ **Jurang Data DG002 (Tinggi):** Data MOA formal belum diambil daripada DrugBank untuk Bungkusan Bukti ini. Penerangan di atas adalah berdasarkan pengetahuan farmakologi yang ditetapkan dan harus disahkan terhadap rekod API DrugBank sebelum pelaporan formal.
 
-**Established Indications:**
-Ampicillin is approved for infections caused by susceptible organisms, including:
-- Upper and lower respiratory tract infections (*Haemophilus influenzae*, *Streptococcus pneumoniae*)
-- Urinary tract infections (*E. coli*, *Enterococcus faecalis*)
-- Gastrointestinal infections (*Salmonella*, *Shigella*)
-- Bacterial meningitis, endocarditis, and septicemia
+**Indikasi yang Ditetapkan:**
+Ampicillin diluluskan untuk jangkitan yang disebabkan oleh organisma yang peka, termasuk:
+- Jangkitan saluran pernafasan atas dan bawah (*Haemophilus influenzae*, *Streptococcus pneumoniae*)
+- Jangkitan saluran kencing (*E. coli*, *Enterococcus faecalis*)
+- Jangkitan gastrointestinal (*Salmonella*, *Shigella*)
+- Meningitis bakteria, endokarditis, dan septicemia
 
 ---
 
-## TxGNN Prediction Status
+## Status Ramalan TxGNN
 
-The `predicted_indications` field in the Evidence Pack is **empty**. This means one of the following scenarios has occurred:
+Medan `predicted_indications` dalam Bungkusan Bukti adalah **kosong**. Ini bermakna salah satu senario berikut telah berlaku:
 
-| Possible Cause | Recommended Action |
+| Kemungkinan Penyebab | Tindakan yang Disyorkan |
 |---|---|
-| Prediction pipeline was not executed for this drug | Run `scripts/run_kg_prediction.py` with Ampicillin Trihydrate as input |
-| DrugBank ID mapping failed (DrugBank ID is `null`) | Resolve DrugBank ID mapping; canonical ID is **DB00415** (ampicillin) |
-| Drug name normalisation mismatch | Check if "AMPICILLIN TRIHYDRATE" normalises correctly to the KG node |
-| No significant repurposing signal above threshold | Review prediction threshold settings |
+| Paip saluran ramalan tidak dilaksanakan untuk ubat ini | Jalankan `scripts/run_kg_prediction.py` dengan Ampicillin Trihydrate sebagai input |
+| Pemetaan ID DrugBank gagal (ID DrugBank adalah `null`) | Selesaikan pemetaan ID DrugBank; ID kanonik adalah **DB00415** (ampicillin) |
+| Ketidaksesuaian penyeragaman nama ubat | Periksa sama ada "AMPICILLIN TRIHYDRATE" menyeragamkan dengan betul kepada nod KG |
+| Tiada isyarat kegunaan semula yang ketara di atas ambang | Tinjau tetapan ambang ramalan |
 
-Until a TxGNN prediction is available, the core sections of this report (clinical trial evidence, literature evidence, mechanism rationale) cannot be populated.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for a repurposing target — no predicted indication available.
+Sehingga indikasi kegunaan semula yang diramalkan oleh TxGNN tersedia, bahagian inti laporan ini (bukti ujian klinikal, bukti kesusasteraan, nisbah mekanisme) tidak boleh dipenuhi.
 
 ---
 
-## Literature Evidence
+## Bukti Ujian Klinikal
 
-Currently no related literature available — no predicted indication to search against.
+Pada masa ini tiada ujian klinikal yang berkaitan berdaftar untuk sasaran indikasi kegunaan semula — tiada indikasi kegunaan semula yang diramalkan tersedia.
 
 ---
 
-## Malaysia Market Information
+## Bukti Kesusasteraan
 
-The Evidence Pack confirms **9 active registrations** in Malaysia; however, all individual licence detail fields (licence number, product name, dosage form, manufacturer, approved indication) were returned as empty strings in the current data pull.
+Pada masa ini tiada kesusasteraan yang berkaitan tersedia — tiada sasaran indikasi kegunaan semula yang diramalkan untuk dicari.
 
-> ⚠️ Detailed licence records must be retrieved from the NPRA portal before this section can be completed.
+---
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+## Maklumat Pasaran Malaysia
+
+Bungkusan Bukti mengesahkan **9 pendaftaran aktif** di Malaysia; bagaimanapun, semua medan terperinci lesen individu (nombor lesen, nama produk, bentuk dos, pengilang, indikasi yang diluluskan) dikembalikan sebagai rentetan kosong dalam seret data semasa.
+
+> ⚠️ Rekod lesen terperinci mesti diambil daripada portal NPRA sebelum bahagian ini boleh diselesaikan.
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
 |---|---|---|---|
-| (9 licences confirmed) | Details not available in current data pack | — | — |
+| (9 lesen disahkan) | Terperinci tidak tersedia dalam bungkusan data semasa | — | — |
 
-**Recommended action:** Re-query NPRA with the `MAL` licence number range or retrieve the full registration detail via the NPRA product search API to populate this table.
-
----
-
-## Safety Considerations
-
-> ⚠️ **Data Gap DG001 (Blocking):** TFDA/NPRA package insert warnings and contraindications have not been retrieved. This gap is classified as **Blocking** and prevents completion of the S1 safety pre-screening stage.
-
-Please refer to the approved package insert for full safety information. Key areas to retrieve include:
-- Hypersensitivity / anaphylaxis warnings (cross-reactivity with cephalosporins)
-- Contraindications in penicillin-allergic patients
-- Renal dose adjustment requirements
-- Drug interactions (anticoagulants, oral contraceptives, allopurinol, bacteriostatic antibiotics)
+**Tindakan yang disyorkan:** Soal semula NPRA dengan julat nombor lesen `MAL` atau ambil rekod pendaftaran penuh melalui API carian produk NPRA untuk mengisi jadual ini.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+> ⚠️ **Jurang Data DG001 (Menyekat):** Amaran paket sisipan TFDA/NPRA dan kontraindikasi belum diambil. Jurang ini diklasifikasikan sebagai **Menyekat** dan menghalang penyelesaian peringkat penyaringan keselamatan pra-S1.
 
-**Rationale:**
-The TxGNN prediction pipeline has not returned any repurposing candidates for Ampicillin Trihydrate, and two critical data gaps (package insert safety data and DrugBank MOA) remain unresolved. A formal repurposing evaluation cannot be conducted without a predicted indication target.
+Sila rujuk sisipan paket yang diluluskan untuk maklumat keselamatan lengkap. Bidang utama untuk diambil termasuk:
+- Amaran hipersensitiviti / anaphylaxis (reaktiviti silang dengan cephalosporin)
+- Kontraindikasi dalam pesakit yang alergi kepada penicillin
+- Keperluan pelarasan dos renal
+- Interaksi ubat (antikoagulan, ubat kontraseptif oral, allopurinol, antibiotik bacteriostatic)
 
-**To proceed, the following is needed:**
+---
 
-1. **Resolve DrugBank ID mapping** — Confirm the canonical DrugBank ID (`DB00415` for ampicillin) and re-run the KG prediction pipeline to generate `predicted_indications`.
-2. **Retrieve package insert data (DG001 — Blocking)** — Download the NPRA/TFDA package insert PDF and parse warnings, contraindications, and drug interaction data.
-3. **Retrieve MOA from DrugBank (DG002 — High)** — Query the DrugBank API to obtain structured pharmacology and mechanism data.
-4. **Populate NPRA licence details** — Re-query NPRA to retrieve full licence records (product names, dosage forms, approved indications) for all 9 registrations.
-5. **Re-run evidence collection** — Once a predicted indication is available, execute the ClinicalTrials.gov and PubMed collectors to populate the evidence tables.
-6. **Re-issue this report** — After the above steps, re-generate the Evidence Pack (target version v5) and produce a complete evaluation report.
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Nisbah:**
+Paip saluran ramalan TxGNN belum mengembalikan sebarang calon kegunaan semula untuk Ampicillin Trihydrate, dan dua jurang data kritikal (data keselamatan sisipan paket dan MOA DrugBank) masih tidak diselesaikan. Penilaian kegunaan semula yang formal tidak boleh dijalankan tanpa sasaran indikasi kegunaan semula yang diramalkan.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+
+1. **Selesaikan pemetaan ID DrugBank** — Sahkan ID DrugBank kanonik (`DB00415` untuk ampicillin) dan jalankan semula paip saluran ramalan KG untuk menjana `predicted_indications`.
+2. **Ambil data sisipan paket (DG001 — Menyekat)** — Muat turun NPRA/TFDA PDF sisipan paket dan huraikan amaran, kontraindikasi, dan data interaksi ubat.
+3. **Ambil MOA daripada DrugBank (DG002 — Tinggi)** — Pertanyaan API DrugBank untuk mendapatkan data farmakologi berstruktur dan mekanisme.
+4. **Isi perincian lesen NPRA** — Soal semula NPRA untuk mengambil rekod lesen penuh (nama produk, bentuk dos, indikasi yang diluluskan) untuk semua 9 pendaftaran.
+5. **Jalankan semula pengumpulan bukti** — Setelah indikasi kegunaan semula yang diramalkan tersedia, laksanakan pengumpul ClinicalTrials.gov dan PubMed untuk mengisi jadual bukti.
+6. **Keluarkan semula laporan ini** — Selepas langkah-langkah di atas, janakan semula Bungkusan Bukti (versi sasaran v5) dan hasilkan laporan penilaian yang lengkap.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

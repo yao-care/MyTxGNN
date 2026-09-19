@@ -29,60 +29,61 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Palivizumab: From RSV Infection Prophylaxis to Benign Neoplasm of Tongue
+# Palivizumab: Dari Profilaksis Jangkitan RSV kepada Neoplasma Jinak Lidah
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Palivizumab is a monoclonal antibody that neutralizes the RSV fusion (F) glycoprotein, originally used to prevent respiratory syncytial virus (RSV) infection in high-risk infants. The TxGNN model predicts a possible link to **benign neoplasm of tongue**, but this prediction is backed by **0 clinical trials** and **0 publications**, and the model's own rationale flags it as likely a knowledge-graph false positive rather than a genuine mechanistic signal.
+Palivizumab ialah antibodi monoklonal yang meneutralkan glikoprotein fusi RSV (F), asalnya digunakan untuk mencegah jangkitan virus respirati sinsisial (RSV) pada bayi berisiko tinggi. Model TxGNN meramalkan kemungkinan hubungan kepada **neoplasma jinak lidah**, tetapi ramalan ini disokong oleh **0 ujian klinis** dan **0 penerbitan**, dan rasional model itu sendiri menandakannya sebagai kemungkinan positif palsu graf-pengetahuan dan bukannya isyarat mekanistik yang tulen.
 
-## Quick Overview
+## Gambaran Keseluruhan Cepat
 
-| Item | Content |
-|------|------|
-| Original Indication | RSV infection prophylaxis (inferred from mechanism description in the evidence pack; formal TFDA label text not yet extracted — see DG001) |
-| Predicted New Indication | Benign neoplasm of tongue |
-| TxGNN Prediction Score | 99.94% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+| Perkara | Kandungan |
+|--------|-----------|
+| Petunjuk Asal | Profilaksis jangkitan RSV (disimpulkan daripada penerangan mekanisme dalam bungkusan bukti; teks label TFDA formal belum diekstrak — lihat DG001) |
+| Petunjuk Baru yang Diramalkan | Neoplasma jinak lidah |
+| Skor Ramalan TxGNN | 99.94% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | Tunggu |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed DrugBank mechanism-of-action data is not yet available for Palivizumab (see DG002). Based on the mechanistic description recorded alongside this prediction, Palivizumab is a monoclonal antibody directed against the RSV F glycoprotein — it works by neutralizing the virus's fusion protein to block RSV entry into respiratory epithelial cells. This is an antiviral, immunoprophylactic mechanism with no known role in cell proliferation, oncogenesis, or tumour suppression pathways.
+Data mekanisme tindakan DrugBank yang terperinci belum tersedia untuk palivizumab (lihat DG002). Berdasarkan penerangan mekanistik yang direkodkan bersama ramalan ini, palivizumab ialah antibodi monoklonal yang ditujukan kepada glikoprotein RSV F — ia berfungsi dengan meneutralkan protein fusi virus untuk menyekat kemasukan RSV ke dalam sel epitel respiratori. Ini ialah mekanisme antivirus, imunoprofilaksis tanpa peranan yang diketahui dalam laluan proliferasi sel, onkogenesis, atau penindasan tumor.
 
-There is no plausible mechanistic bridge between neutralizing a respiratory virus surface protein and a benign tongue neoplasm — the two are biologically unrelated systems (viral immunology vs. localized epithelial/mesenchymal tumour growth). Notably, the evidence pack's own rationale for this prediction explicitly states that the high TxGNN score is most likely driven by node-embedding proximity in the knowledge graph rather than a real biological relationship — i.e., the model itself flags this as a probable false positive.
+Tidak ada jambatan mekanistik yang munasabah antara meneutralkan protein permukaan virus respiratori dan neoplasma lidah jinak — kedua-duanya ialah sistem biologi yang tidak berkaitan (imunologi virus vs. pertumbuhan tumor jinak/mesenkim setempat). Dengan ketara, rasional bungkusan bukti untuk ramalan ini secara eksplisit menyatakan bahawa skor TxGNN yang tinggi kemungkinan besar didorong oleh kedekatan nod-penyerakan dalam graf pengetahuan dan bukannya hubungan biologi yang sebenar — iaitu, model itu sendiri menandakannya sebagai kemungkinan positif palsu.
 
-This pattern is not isolated to rank 1: all ten of Palivizumab's top predicted indications are structurally/anatomically unrelated neoplasms and cysts (epiglottis neoplasm, cervical neuroblastoma, testicular tumour, thyroglossal duct cyst, etc.), each with an identical absence of supporting trials or literature. This consistent pattern across the full top-10 list further supports the interpretation that these are embedding-space artifacts rather than a coherent repurposing signal.
+Corak ini tidak terbatas kepada kedudukan 1: kesepuluh petunjuk teratas yang diramalkan palivizumab semuanya ialah neoplasma dan kista struktur/anatomi yang tidak berkaitan (neoplasma epiglotis, neuroblastoma serviks, tumor testikular, kista saluran tiroglosal, dsb.), masing-masing dengan ketiadaan percubaan atau kesusasteraan sokongan yang sama. Corak konsisten ini di seluruh senarai sepuluh teratas selanjutnya menyokong tafsiran bahawa ini ialah artifak ruang penyerakan dan bukannya isyarat repurposing yang koheren.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinis
 
-Currently no related clinical trials registered.
+Pada masa ini tiada ujian klinis berkaitan yang didaftarkan.
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-Currently no related literature available.
+Pada masa ini tiada kesusasteraan berkaitan yang tersedia.
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Palivizumab is marketed in Malaysia with 1 active registration. Registration-level detail (license number, product name, dosage form, approved indication text) has not yet been extracted from source documents — this is tracked as a blocking data gap (DG001) rather than presented here as placeholder content.
+Palivizumab dipasarkan di Malaysia dengan 1 pendaftaran aktif. Perincian peringkat pendaftaran (nombor lesen, nama produk, bentuk dos, teks petunjuk yang diluluskan) belum diekstrak daripada dokumen sumber — ini dilacak sebagai jurang data pemblokiran (DG001) dan bukannya dibentangkan di sini sebagai kandungan pemegang tempat.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information. (Warning, contraindication, and drug-interaction data have not yet been extracted from the TFDA label — see DG001, which is flagged as a blocking gap for safety evaluation.)
+Sila rujuk sisipan bungkusan untuk maklumat keselamatan. (Data amaran, kontraindikasi, dan interaksi ubat belum diekstrak daripada label TFDA — lihat DG001, yang ditandakan sebagai jurang pemblokiran untuk penilaian keselamatan.)
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tunggu**
 
-**Rationale:**
-The evidence level is L5 (model prediction only, no supporting trials or literature), and the prediction's own mechanistic rationale identifies it as a probable false positive from knowledge-graph embedding proximity rather than genuine biological plausibility. A blocking safety data gap (DG001) also prevents this candidate from entering the S1 safety screening stage.
+**Rasional:**
+Tahap bukti ialah L5 (ramalan model sahaja, tiada percubaan atau kesusasteraan sokongan), dan rasional mekanistik ramalan itu sendiri mengenal pastinya sebagai kemungkinan positif palsu daripada kedekatan penyerakan graf-pengetahuan dan bukannya kebolehcayaan biologi yang tulen. Jurang data keselamatan pemblokiran (DG001) juga menghalang calon ini daripada memasuki peringkat pemeriksaan keselamatan S1.
 
-**To proceed, the following is needed:**
-- TFDA label extraction (warnings, contraindications, DDI) to close DG001 and enable S1 safety screening
-- DrugBank-sourced mechanism-of-action data to close DG002 and support a rigorous mechanistic-plausibility assessment
-- Independent preclinical or mechanistic evidence connecting RSV F-protein neutralization to tongue neoplasm biology before any further investment in this candidate
-- Given the systematic pattern across all top-10 predictions, a review of whether this candidate set reflects a broader TxGNN embedding artifact for this drug rather than isolated noise
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Ekstrak label TFDA (amaran, kontraindikasi, DDI) untuk menutup DG001 dan membolehkan pemeriksaan keselamatan S1
+- Data mekanisme tindakan bersumber DrugBank untuk menutup DG002 dan menyokong penilaian kebolehcayaan mekanistik yang ketat
+- Bukti presklinis atau mekanistik bebas yang menghubungkan peneutralan protein F RSV kepada biologi neoplasma lidah sebelum sebarang pelaburan lanjut dalam calon ini
+- Memandangkan corak sistematik di seluruh kesemua 10 ramalan teratas, kajian sama ada set calon ini mencerminkan artifak penyerakan TxGNN yang lebih luas untuk ubat ini dan bukannya bunyi terpencil
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,76 +29,77 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Cimetidine: From Peptic Ulcer Disease to Hyperinsulinism
+# Cimetidine: Dari Penyakit Ulser Peptik kepada Hiperinsulinisme
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Cimetidine is a histamine H2-receptor antagonist historically used for peptic ulcer disease and gastric acid hypersecretion. The TxGNN model's top-ranked prediction is **Hyperinsulinism**, but the only linked clinical trial (a knee arthroplasty study) is pharmacologically unrelated and **0 supporting publications** exist — indicating this top-ranked signal is most likely a data-pairing artifact rather than genuine evidence.
+Cimetidine adalah antagonis reseptor H2 histamin yang secara historis digunakan untuk penyakit ulser peptik dan hipersekrasi asam lambung. Ramalan teratas model TxGNN adalah **Hiperinsulinisme**, tetapi satu-satunya uji klinis yang terhubung (kajian artroplasti lutut) tidak berkaitan secara farmakologi dan **0 publikasi penyokong** wujud — menunjukkan isyarat teratas ini paling mungkin merupakan artefak pasangan data dan bukannya bukti sebenar.
 
 ---
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Peptic ulcer disease / gastric acid hypersecretion (H2-receptor antagonist; not captured in NPRA license text, inferred from in-pack pharmacology literature) |
-| Predicted New Indication | Hyperinsulinism |
-| TxGNN Prediction Score | 0% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 21 |
-| Recommended Decision | Hold |
+| Indikasi Asal | Penyakit ulser peptik / hipersekrasi asam lambung (antagonis reseptor H2; tidak ditangkap dalam teks lesen NPRA, disimpulkan daripada literatur farmakologi dalam pakej) |
+| Indikasi Baru Diramal | Hiperinsulinisme |
+| Skor Ramalan TxGNN | 0% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 21 |
+| Keputusan yang Disyorkan | Tunda |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data for Cimetidine is not available (data gap). Based on known information, Cimetidine is a histamine H2-receptor antagonist whose efficacy in gastric acid-related disorders is well established, as confirmed repeatedly within this evidence pack's own literature (e.g., PMID 342231, 620911).
+Pada masa ini, data mekanisme tindakan terperinci untuk Cimetidine tidak tersedia (jurang data). Berdasarkan maklumat yang diketahui, Cimetidine adalah antagonis reseptor H2 histamin yang keberkesanan dalam gangguan berkaitan asam lambung telah dipastikan, seperti yang disahkan berulang kali dalam literatur paket bukti sendiri ini (cth., PMID 342231, 620911).
 
-For the top-ranked candidate, **hyperinsulinism**, the evidence review itself found no identifiable pharmacological link. The single associated clinical trial (NCT05685693) concerns robot-assisted knee arthroplasty and has no relevance to insulin secretion or H2-receptor blockade; the pack's own relevance assessment grades it "C" and its rationale explicitly labels this pairing a likely **data-mismatch/noise** artifact. No literature supports this indication.
+Untuk calon teratas, **hiperinsulinisme**, ulasan bukti sendiri tidak menemui sebarang pautan farmakologi yang boleh dikenal pasti. Satu-satunya uji klinis yang berkaitan (NCT05685693) mengenai artroplasti lutut berbantu robot dan tiada kaitan dengan sekresi insulin atau sekatan reseptor H2; penilaian relevansi paket sendiri menggradnya sebagai "C" dan rasionalnya dengan jelas melabelkan pasangan ini sebagai kemungkinan artefak **data-mismatch/hingar**. Tiada literatur menyokong indikasi ini.
 
-Looking at the other candidates in this pack for context: gastric ulcer (rank 3, L1) and esophagitis (rank 2, L2) are both acid-related conditions mechanistically consistent with H2-blockade, but the pack's own rationale notes these largely reconfirm Cimetidine's already-known, established pharmacology rather than reveal a genuinely new indication. Systemic mastocytosis (rank 4, L4) is the most plausible candidate for a distinct secondary use — symptom control of histamine-driven gastric hypersecretion — but remains at an early "Research Question" stage. None of this supports the rank-1 hyperinsulinism prediction specifically.
+Melihat calon-calon lain dalam paket ini untuk konteks: ulser lambung (kedudukan 3, L1) dan esofagitis (kedudukan 2, L2) adalah kedua-dua keadaan berkaitan asam yang konsisten secara mekanistik dengan sekatan H2, tetapi rasional paket sendiri menyatakan bahawa ini sebahagian besar mengesahkan semula farmakologi Cimetidine yang sudah diketahui dan telah ditubuhkan daripada mengungkapkan indikasi baru yang benar-benar baru. Mastositosis sistemik (kedudukan 4, L4) adalah calon yang paling munasabah untuk kegunaan sekunder yang berbeza — kawalan simptom hipersekrasi lambung yang didorong histamin — tetapi tetap pada tahap awal "Soalan Penyelidikan". Tidak satu pun daripada ini menyokong ramalan hiperinsulinisme kedudukan-1 secara khusus.
 
 ---
 
-## Clinical Trial Evidence
+## Bukti Uji Klinis
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Uji | Fasa | Status | Enrolmen | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT05685693](https://clinicaltrials.gov/study/NCT05685693) | N/A | Active, not recruiting | 150 | Robot-assisted (ROSA®) vs. conventional knee arthroplasty outcomes; **no pharmacological connection to hyperinsulinism or Cimetidine's mechanism** — flagged by evidence review as a likely mismatched/noise pairing (relevance grade C) |
+| [NCT05685693](https://clinicaltrials.gov/study/NCT05685693) | T/A | Aktif, tidak merekrut | 150 | Hasil artroplasti lutut berbantu robot (ROSA®) berbanding konvensional; **tiada sambungan farmakologi kepada hiperinsulinisme atau mekanisme Cimetidine** — ditandai oleh ulasan bukti sebagai pasangan yang mungkin tidak sepadan/hingar (gred relevansi C) |
 
 ---
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no related literature available.
-
----
-
-## Malaysia Market Information
-
-NPRA records 21 total registrations for Cimetidine, but license-level details (registration numbers, product names, dosage forms, approved indication text) were not populated in this evidence pack and could not be extracted.
+Pada masa ini tiada literatur berkaitan tersedia.
 
 ---
 
-## Safety Considerations
+## Maklumat Pasaran Malaysia
 
-Please refer to the package insert for safety information. (Note: NPRA label warnings/contraindications are flagged in this evidence pack as a **Blocking** data gap, preventing formal safety pre-assessment.)
+NPRA merekod 21 jumlah pendaftaran untuk Cimetidine, tetapi butiran peringkat lesen (nombor pendaftaran, nama produk, bentuk dos, teks indikasi yang diluluskan) tidak diisi dalam paket bukti ini dan tidak dapat diekstrak.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila rujuk sisipan pakej untuk maklumat keselamatan. (Nota: Amaran label NPRA/kontraindikasi ditandai dalam paket bukti ini sebagai jurang data **Menyekat**, menghalang penilaian pra-keselamatan formal.)
 
-**Rationale:**
-The top-ranked TxGNN prediction (hyperinsulinism) has no mechanistic rationale, no supporting literature, and its only linked trial is unrelated — evidence level L5, decision stage S0. Combined with a **Blocking** data gap on NPRA label warnings/contraindications and a **High**-severity gap on mechanism of action, this candidate cannot proceed past initial screening.
+---
 
-**To proceed, the following is needed:**
-- Re-verify the hyperinsulinism–Cimetidine pairing against the source knowledge graph for a possible mapping/labeling error
-- Obtain NPRA product label (warnings, contraindications) — currently a Blocking gap (DG001)
-- Obtain DrugBank mechanism of action data — currently a High-severity gap (DG002)
-- If pursuing a genuine repurposing signal from this pack, evaluate **systemic mastocytosis** instead (L4, Research Question stage) as the more mechanistically distinct candidate, pending further clinical evidence
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tunda**
+
+**Rasional:**
+Ramalan teratas TxGNN (hiperinsulinisme) tiada rasional mekanistik, tiada literatur sokongan, dan satu-satunya uji klinis yang terhubung tidak berkaitan — tahap bukti L5, tahap keputusan S0. Digabungkan dengan jurang data **Menyekat** pada amaran/kontraindikasi label NPRA dan jurang keparahan **Tinggi** pada mekanisme tindakan, calon ini tidak dapat maju melepasi penyaringan awal.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Sahkan semula pasangan hiperinsulinisme–Cimetidine terhadap graf pengetahuan sumber untuk kemungkinan kesalahan pemetaan/pelabelan
+- Dapatkan label produk NPRA (amaran, kontraindikasi) — pada masa ini jurang Menyekat (DG001)
+- Dapatkan data mekanisme tindakan DrugBank — pada masa ini jurang keparahan Tinggi (DG002)
+- Jika mengejar isyarat ubat tujuan baru sebenar dari paket ini, nilaikan **mastositosis sistemik** sebaliknya (L4, tahap Soalan Penyelidikan) sebagai calon yang lebih berbeza secara mekanistik, menunggu bukti klinis lanjutan
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

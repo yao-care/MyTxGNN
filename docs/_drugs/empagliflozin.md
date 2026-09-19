@@ -29,60 +29,61 @@ Tahap bukti: **L5** | Indikasi diramal: **3**
 
 </div>
 
-# Empagliflozin: From Type 2 Diabetes to Focal Stiff Limb Syndrome
+# Empagliflozin: Dari Diabetes Jenis 2 kepada Focal Stiff Limb Syndrome
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Empagliflozin is an SGLT2 inhibitor originally used for type 2 diabetes management (with established extensions to heart failure and chronic kidney disease). The TxGNN model predicts potential efficacy for **Focal Stiff Limb Syndrome**, but this candidate — along with two other top-ranked candidates (Classic Stiff Person Syndrome, Opsismodysplasia) — currently has **0 clinical trials** and **0 publications** supporting it, a pattern consistent with a knowledge-graph artifact rather than a genuine pharmacological hypothesis.
+Empagliflozin adalah penghambat SGLT2 yang awalnya digunakan untuk pengurusan diabetes jenis 2 (dengan peluasan yang telah ditetapkan kepada gagal jantung dan penyakit ginjal kronik). Model TxGNN meramalkan keberkesanan yang berpotensi untuk **Focal Stiff Limb Syndrome**, tetapi calon ini — bersama-sama dengan dua calon berpangkat teratas yang lain (Classic Stiff Person Syndrome, Opsismodysplasia) — pada masa ini mempunyai **0 percubaan klinikal** dan **0 penerbitan** yang menyokongnya, suatu corak yang konsisten dengan artifak graf pengetahuan daripada hipotesis farmakoloji yang tulen.
 
-## Quick Overview
+## Gambaran Lintasan Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | Not recorded in Malaysia (NPRA) registry data; empagliflozin is globally established for Type 2 Diabetes Mellitus (also heart failure, chronic kidney disease) |
-| Predicted New Indication | Focal Stiff Limb Syndrome |
-| TxGNN Prediction Score | 99.06% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 15 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Tidak tercatat dalam data daftar NPRA Malaysia; empagliflozin ditubuhkan secara global untuk Diabetes Mellitus Jenis 2 (juga gagal jantung, penyakit ginjal kronik) |
+| Indikasi Baru yang Diramalkan | Focal Stiff Limb Syndrome |
+| Skor Ramalan TxGNN | 99.06% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 15 |
+| Keputusan Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed mechanism of action data was not returned by the DrugBank query for this pack (flagged as a High-severity data gap, DG002). Based on what is embedded in the evidence pack's own rationale text, empagliflozin acts as an SGLT2 inhibitor, blocking the sodium-glucose cotransporter-2 in the renal proximal tubule to reduce glucose reabsorption — the pharmacological basis of its established use in type 2 diabetes, and more recently in heart failure and chronic kidney disease.
+Data mekanisme tindakan terperinci tidak dikembalikan oleh pertanyaan DrugBank untuk pakej ini (ditandai sebagai jurang data berat, DG002). Berdasarkan apa yang tertanam dalam teks rasional pakej bukti sendiri, empagliflozin bertindak sebagai penghambat SGLT2, menyekat kotransporter natrium-glukosa-2 dalam tubulus proksikal ginjal untuk mengurangkan penyerapan semula glukosa — asas farmakoloji penggunaannya yang ditubuhkan dalam diabetes jenis 2, dan baru-baru ini dalam gagal jantung dan penyakit ginjal kronik.
 
-None of the three top-ranked TxGNN candidates share an evident mechanistic link with this pathway. Focal stiff limb syndrome and classic stiff person syndrome are autoimmune/neurological conditions driven by GABAergic transmission deficits (often anti-GAD65 antibody-mediated) — unrelated to renal glucose handling. Opsismodysplasia is a rare congenital skeletal dysplasia linked to INPPL1/PI3K signaling — a structural developmental disorder that a metabolic drug would not be expected to address.
+Tiada tiga calon berpangkat teratas TxGNN yang berkongsi pautan mekanistik yang jelas dengan laluan ini. Focal stiff limb syndrome dan classic stiff person syndrome adalah keadaan autoimmun/neurologi yang didorong oleh defisit penghantaran GABAergik (selalunya dimediasi oleh antibodi anti-GAD65) — tidak berkaitan dengan pengendalian glukosa ginjal. Opsismodysplasia adalah displasia rangka kongenital yang jarang dikaitkan dengan isyarat INPPL1/PI3K — gangguan perkembangan struktur yang ubat metabolik tidak dijangka menangani.
 
-The evidence pack's own rationale text for all three candidates independently raises this same concern, and 11 separate queries across ClinicalTrials.gov, ICTRP, and PubMed for these three drug–disease pairs all returned zero results. Together with the near-identical, unusually high TxGNN scores (0.990–0.991) across three mechanistically unrelated diseases, this pattern is more consistent with a knowledge-graph embedding artifact — possibly driven by superficial phenotype-node proximity (e.g., "stiff"-related terms) — than a real repurposing signal.
+Teks rasional pakej bukti sendiri untuk ketiga-tiga calon secara berasingan menimbulkan kebimbangan yang sama ini, dan 11 pertanyaan berasingan merentasi ClinicalTrials.gov, ICTRP, dan PubMed untuk ketiga-tiga pasangan ubat-penyakit semuanya mengembalikan hasil sifar. Bersama-sama dengan skor TxGNN yang hampir sama, tidak biasa tinggi (0.990–0.991) merentasi tiga penyakit yang mekanistiknya tidak berkaitan, corak ini lebih konsisten dengan artifak pembenaman graf pengetahuan — mungkin didorong oleh jarak nod fenotip yang cetek (cth., istilah berkaitan "kaku") — daripada isyarat repurposing yang tulen.
 
-## Clinical Trial Evidence
+## Bukti Percubaan Klinikal
 
-Currently no related clinical trials registered.
+Pada masa ini tiada percubaan klinikal yang berkaitan berdaftar.
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-Currently no related literature available.
+Pada masa ini tiada kesusasteraan yang berkaitan tersedia.
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Empagliflozin is confirmed marketed in Malaysia with 15 total product registrations; however, this evidence pack did not return license-level details (authorization numbers, product names, dosage forms, or approved indication text) from the NPRA query — these fields require a follow-up query.
+Empagliflozin disahkan dipasarkan di Malaysia dengan 15 jumlah pendaftaran produk; walau bagaimanapun, pakej bukti ini tidak mengembalikan butiran peringkat lesen (nombor kebenaran, nama produk, bentuk dos, atau teks indikasi yang diluluskan) daripada pertanyaan NPRA — bidang ini memerlukan pertanyaan susulan.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-All three top-ranked candidates are L5 (model prediction only) with zero supporting trials or literature, and the pack's own mechanistic analysis finds no plausible biological link between SGLT2 inhibition and any of the three predicted diseases. Combined with the blocking data gap on TFDA/NPRA label warnings (DG001), there is no basis to advance this candidate past S0.
+**Rasional:**
+Ketiga-tiga calon berpangkat teratas adalah L5 (ramalan model sahaja) dengan sifar percubaan dan kesusasteraan yang menyokong, dan analisis mekanistik pakej sendiri tidak mendapati pautan biologi yang munasabah antara perencatan SGLT2 dan mana-mana daripada tiga penyakit yang diramalkan. Digabungkan dengan jurang data yang menyekat pada amaran label TFDA/NPRA (DG001), tidak ada asas untuk memajukan calon ini melepasi S0.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA label (warnings, contraindications) — currently blocking, required before any S1 safety screening
-- Confirmed original indication text from Malaysia license records
-- Verified MOA from DrugBank API (current MOA field is a data gap)
-- Independent mechanistic or preclinical rationale for any of the three candidates before committing further evaluation resources
+**Untuk meneruskan, yang berikut diperlukan:**
+- Label TFDA/NPRA (amaran, kontraindikasi) — pada masa ini menyekat, diperlukan sebelum sebarang penyaringan keselamatan S1
+- Teks indikasi asal yang disahkan daripada rekod lesen Malaysia
+- MOA yang disahkan daripada API DrugBank (bidang MOA semasa adalah jurang data)
+- Rasional mekanistik atau praklinikal bebas untuk mana-mana calon sebelum melakukan sumber penilaian lanjutan
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

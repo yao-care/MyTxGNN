@@ -29,73 +29,74 @@ Tahap bukti: **L5** | Indikasi diramal: **9**
 
 </div>
 
-# Sulpiride: From Psychiatric/Vertigo Indications to Retinal Dystrophy with Extraocular Anomalies
+# Sulpirid: Dari Indikasi Psikiatrik/Vertigo ke Distrofi Retina dengan Anomali Ekstraokular
 
-## One-Sentence Summary
+## Ringkasan Satu Kalimat
 
-Sulpiride is a benzamide-class D2/D3 dopamine receptor antagonist, clinically used for schizophrenia, depression, and vertigo. The TxGNN model predicts it may be effective for **Retinal Dystrophy with or without Extraocular Anomalies**, a congenital eye disorder, but currently **0 clinical trials** and **no sulpiride-specific publications** support this direction — the evidence pack's own rationale flags the biological link as unestablished.
+Sulpirid ialah antagonis reseptor dopamin D2/D3 kelas benzamid yang digunakan secara klinis untuk skizofrenia, depresi, dan vertigo. Model TxGNN meramalkan ia mungkin berkesan untuk **Distrofi Retina dengan atau tanpa Anomali Ekstraokular**, sejenis gangguan mata kongenital, tetapi pada masa kini **0 uji klinik** dan **tiada penerbitan khusus sulpirid** menyokong arahan ini — rasional paket bukti itu sendiri menandakan hubungan biologis sebagai tidak terbina.
 
-## Quick Overview
+## Gambaran Ringkas
 
-| Item | Content |
+| Perkara | Kandungan |
 |------|------|
-| Original Indication | Schizophrenia, depression, vertigo (per drug-class description in evidence pack; official license indication text not returned) |
-| Predicted New Indication | Retinal dystrophy with or without extraocular anomalies |
-| TxGNN Prediction Score | 99.95% |
-| Evidence Level | L5 (model prediction only, no supporting studies) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
-| Recommended Decision | Hold |
+| Indikasi Asal | Skizofrenia, depresi, vertigo (mengikut penerangan kelas ubat dalam paket bukti; teks indikasi lesen rasmi tidak dikembalikan) |
+| Indikasi Baharu yang Diramalkan | Distrofi retina dengan atau tanpa anomali ekstraokular |
+| Skor Ramalan TxGNN | 99.95% |
+| Tahap Bukti | L5 (ramalan model sahaja, tiada kajian penyokong) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Jumlah Pendaftaran | 3 |
+| Keputusan yang Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed mechanism-of-action documentation for sulpiride was not retrieved from DrugBank in this pull (flagged as a High-severity data gap). Based on the drug-class information available in the evidence pack, sulpiride is a selective D2/D3 dopamine receptor antagonist of the benzamide class, used for schizophrenia, depression, and vertigo.
+Dokumentasi mekanisme tindakan terperinci untuk sulpirid tidak diambil semula dari DrugBank dalam penarikan ini (ditandai sebagai jurang data Keparahan Tinggi). Berdasarkan maklumat kelas ubat yang tersedia dalam paket bukti, sulpirid ialah antagonis reseptor dopamin D2/D3 terpilih bagi kelas benzamid, digunakan untuk skizofrenia, depresi, dan vertigo.
 
-Retinal dystrophy with or without extraocular anomalies is a congenital, structural eye disorder typically driven by genetic developmental defects, not by dopaminergic signaling. The evidence pack's own mechanistic assessment states there is no known pathological connection between D2/D3 receptor antagonism and this disease, and that this conclusion would not change even if full MOA data were available.
+Distrofi retina dengan atau tanpa anomali ekstraokular ialah gangguan mata struktur kongenital yang biasanya didorong oleh kecacatan perkembangan genetik, bukan oleh isyarat dopaminergik. Penilaian mekanis paket bukti itu sendiri menyatakan tiada sambungan patologis yang diketahui antara antagonisme reseptor D2/D3 dan penyakit ini, dan bahawa kesimpulan ini tidak akan berubah walaupun data MOA penuh tersedia.
 
-Given the absence of a plausible biological rationale, this candidate should be treated as a likely false-positive signal from the knowledge-graph embedding model rather than a genuine repurposing opportunity — a caveat that also applies to the other 8 predicted indications in this evidence pack (hydranencephaly, polymicrogyria syndromes, CMT1G, X-linked myopia variants, CDG, glycine encephalopathy), all of which carry the same L5/Hold status with zero supporting trials or literature.
+Memandangkan ketiadaan rasional biologis yang munasabah, calon ini harus diperlakukan sebagai isyarat positif palsu yang mungkin daripada model penyisipan graf pengetahuan daripada peluang pengubahan semula yang tulen — amaran yang juga terpakai pada 8 indikasi yang diramalkan lain dalam paket bukti ini (hidranensefali, sindrom polimikrogiria, CMT1G, varian miopia terikat X, CDG, ensefalopatia glisin), semuanya membawa status L5/Tahan yang sama dengan sifar uji klinik atau kesusasteraan penyokong.
 
-## Clinical Trial Evidence
+## Bukti Uji Klinik
 
-Currently no related clinical trials registered.
+Pada masa kini tiada uji klinik berkaitan yang didaftarkan.
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [9416661](https://pubmed.ncbi.nlm.nih.gov/9416661/) | 1997 | Review | Seminars in Ultrasound, CT, and MR | Overview of orbital infections/cellulitis staging secondary to sinusitis; does not discuss sulpiride |
-| [20127583](https://pubmed.ncbi.nlm.nih.gov/20127583/) | 2010 | Review | Seminars in Neurology | Diagnostic approach to diplopia from ocular/neurologic/muscular causes; general clinical pearls |
-| [22241537](https://pubmed.ncbi.nlm.nih.gov/22241537/) | 2012 | Case Report/Review | Klinische Monatsblätter für Augenheilkunde | Congenital ptosis classification (simple vs. complicated forms) and associated extraocular fibrosis |
-| [38249493](https://pubmed.ncbi.nlm.nih.gov/38249493/) | 2023 | Review | Taiwan Journal of Ophthalmology | Congenital anomalies of lens shape and associated anterior segment dysgenesis |
-| [7035111](https://pubmed.ncbi.nlm.nih.gov/7035111/) | 1981 | Review | Documenta Ophthalmologica | Wagner-Stickler syndrome complex: vitreoretinal degeneration with systemic extraocular features |
-| [38321238](https://pubmed.ncbi.nlm.nih.gov/38321238/) | 2024 | Review | Pediatric Radiology | Imaging classification of pediatric orbital/ocular pathologies (congenital and developmental) |
-| [109006](https://pubmed.ncbi.nlm.nih.gov/109006/) | 1979 | Case Report | American Journal of Ophthalmology | Two cases of unilateral cryptophthalmia with orbital/globe malformation |
-| [24413161](https://pubmed.ncbi.nlm.nih.gov/24413161/) | 2014 | Case Report | Journal of Neuro-Ophthalmology | Congenital trochlear-oculomotor synkinesis, a cranial dysinnervation disorder |
-| [19826317](https://pubmed.ncbi.nlm.nih.gov/19826317/) | 2009 | Case Report | Optometry and Vision Science | Congenital fibrosis of extraocular muscles with synergistic divergence/adduction |
-| [19064847](https://pubmed.ncbi.nlm.nih.gov/19064847/) | 2008 | Case Report | Archives of Ophthalmology | Case series of orbital arteriovenous malformations |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-------|------|--------|---------|
+| [9416661](https://pubmed.ncbi.nlm.nih.gov/9416661/) | 1997 | Ulasan | Seminars in Ultrasound, CT, and MR | Gambaran keseluruhan peringkat jangkitan orbital/selulitis sekunder kepada sinusitis; tidak membincangkan sulpirid |
+| [20127583](https://pubmed.ncbi.nlm.nih.gov/20127583/) | 2010 | Ulasan | Seminars in Neurology | Pendekatan diagnostik terhadap diplopia daripada penyebab okular/neurologis/otot; petua klinikal umum |
+| [22241537](https://pubmed.ncbi.nlm.nih.gov/22241537/) | 2012 | Laporan Kes/Ulasan | Klinische Monatsblätter für Augenheilkunde | Klasifikasi ptosis kongenital (bentuk ringkas vs. kompleks) dan fibrosis ekstraokular berkaitan |
+| [38249493](https://pubmed.ncbi.nlm.nih.gov/38249493/) | 2023 | Ulasan | Taiwan Journal of Ophthalmology | Anomali kongenital bentuk lensa dan disgenesis segmen anterior berkaitan |
+| [7035111](https://pubmed.ncbi.nlm.nih.gov/7035111/) | 1981 | Ulasan | Documenta Ophthalmologica | Kompleks sindrom Wagner-Stickler: degenerasi vitreoretin dengan ciri ekstraokular sistemik |
+| [38321238](https://pubmed.ncbi.nlm.nih.gov/38321238/) | 2024 | Ulasan | Pediatric Radiology | Klasifikasi pengimejan patologi orbital/okular pediatrik (kongenital dan perkembangan) |
+| [109006](https://pubmed.ncbi.nlm.nih.gov/109006/) | 1979 | Laporan Kes | American Journal of Ophthalmology | Dua kes kriptoftalmia unilateral dengan malformasi orbital/globe |
+| [24413161](https://pubmed.ncbi.nlm.nih.gov/24413161/) | 2014 | Laporan Kes | Journal of Neuro-Ophthalmology | Sinkinesis troklear-okulomotor kongenital, gangguan disinnervasi kranial |
+| [19826317](https://pubmed.ncbi.nlm.nih.gov/19826317/) | 2009 | Laporan Kes | Optometry and Vision Science | Fibrosis kongenital otot ekstraokular dengan perbezaan/aduksi sinergistik |
+| [19064847](https://pubmed.ncbi.nlm.nih.gov/19064847/) | 2008 | Laporan Kes | Archives of Ophthalmology | Siri kes malformasi arteriovena orbital |
 
-**Note:** None of the retrieved articles study sulpiride or any pharmacologic intervention for this disease — they are general ophthalmology/radiology reviews and case reports on congenital eye/orbit anomalies, likely surfaced through keyword overlap ("congenital," "extraocular") rather than genuine drug-disease evidence.
+**Nota:** Tiada satu pun artikel yang diambil semula mengkaji sulpirid atau sebarang campur tangan farmakologi untuk penyakit ini — ia adalah ulasan oftalmologi/radiologi am dan laporan kes mengenai anomali mata/orbit kongenital, berkemungkinan muncul melalui pertindihan kata kunci ("kongenital," "ekstraokular") daripada bukti ubat-penyakit yang tulen.
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Malaysia (NPRA) records 3 active registrations for sulpiride (market status: Marketed), but license numbers, product names, dosage forms, and approved indication text were not returned in this data pull.
+Malaysia (NPRA) merekodkan 3 pendaftaran aktif untuk sulpirid (status pasaran: Dipasarkan), tetapi nombor lesen, nama produk, bentuk dos, dan teks indikasi yang diluluskan tidak dikembalikan dalam penarikan data ini.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information. (Note: retrieval of the TFDA/NPRA package insert — needed for warnings and contraindications — is an open, Blocking-severity data gap that must be resolved before any safety pre-assessment can proceed.)
+Sila rujuk sisipan pakej untuk maklumat keselamatan. (Nota: pengambilan semula sisipan pakej TFDA/NPRA — diperlukan untuk amaran dan kontraindikasi — ialah jurang data Keparahan Sekatan terbuka yang mesti diselesaikan sebelum sebarang prapenilaian keselamatan boleh diteruskan.)
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-There is no clinical trial or disease-specific literature evidence for this drug-disease pair, and the evidence pack's own mechanistic analysis finds no plausible biological link between D2/D3 dopamine antagonism and a congenital, genetically-driven retinal dystrophy — this is most likely a knowledge-graph embedding artifact. Safety pre-assessment (S1) is additionally blocked pending package insert retrieval.
+**Rasional:**
+Tiada bukti uji klinik atau kesusasteraan khusus penyakit untuk pasangan ubat-penyakit ini, dan analisis mekanis paket bukti itu sendiri tidak mendapati hubungan biologis yang munasabah antara antagonisme dopamin D2/D3 dan distrofi retina kongenital yang didorong secara genetik — ini kemungkinan besar artefak penyisipan graf pengetahuan. Prapenilaian keselamatan (S1) juga disekat menunggu pengambilan semula sisipan pakej.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert (PDF) to resolve the Blocking warnings/contraindications data gap
-- Confirmed mechanism of action via DrugBank API to close the MOA data gap
-- Independent biological/genetic plausibility review, since the predicted target is a structural congenital disorder rather than a pharmacologically modulable pathway
-- Given the pattern across all 9 predictions in this pack (uniform L5/Hold, zero trials/literature), consider deprioritizing this candidate set pending stronger signal from a future model iteration
+**Untuk meneruskan, yang berikut diperlukan:**
+- Sisipan pakej TFDA/NPRA (PDF) untuk menyelesaikan jurang data Keparahan Sekatan untuk amaran/kontraindikasi
+- Mekanisme tindakan yang disahkan melalui API DrugBank untuk menutup jurang data MOA
+- Penilaian kemungkinan biologis/genetik bebas, kerana sasaran yang diramalkan ialah gangguan kongenital struktur bukannya laluan yang boleh diubahsuai secara farmakologi
+- Memandangkan corak di seluruh 9 ramalan dalam pakej ini (L5/Tahan seragam, sifar uji klinik/kesusasteraan), pertimbangkan untuk mengurangkan prioriti set calon ini menunggu isyarat lebih kuat daripada lelaran model masa depan
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

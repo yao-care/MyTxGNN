@@ -29,85 +29,86 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Diltiazem Hydrochloride: Drug Repurposing Evaluation — Pending Prediction Data
+# Diltiazem Hydrochloride: Penilaian Penggunaan Semula Ubat — Data Ramalan Tertangguh
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Diltiazem Hydrochloride is a benzothiazepine-class calcium channel blocker widely used for hypertension, angina pectoris, and certain cardiac arrhythmias. Currently, the TxGNN model has **no predicted new indications** on file for this compound, and the evidence pack contains significant data gaps in regulatory details, safety information, and mechanism of action, preventing a meaningful repurposing evaluation at this time.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Hypertension, angina pectoris, arrhythmias (per established pharmacology; licence-level detail not available in this pack) |
-| Predicted New Indication | **None** — no TxGNN predictions available |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | N/A |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 6 |
-| Recommended Decision | **Hold** |
+Diltiazem Hydrochloride ialah penyekat saluran kalsium kelas benzothiazepine yang digunakan secara luas untuk hipertensi, angina pektoris, dan aritmia jantung tertentu. Pada masa ini, model TxGNN **tidak mempunyai petunjukan baru yang diramalkan** untuk sebatian ini, dan pakej bukti mengandungi jurang data yang ketara dalam butir kawal selia, maklumat keselamatan, dan mekanisme tindakan, menghalang penilaian penggunaan semula yang bermakna pada masa ini.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Tinjauan Pantas
 
-Currently, no TxGNN-predicted indication exists for Diltiazem Hydrochloride in this evidence pack, so a mechanistic plausibility analysis cannot be performed.
-
-For reference, Diltiazem Hydrochloride is a well-characterised non-dihydropyridine calcium channel blocker. It inhibits the influx of extracellular calcium ions through L-type calcium channels in vascular smooth muscle and cardiac myocytes. This results in vasodilation (reducing blood pressure and coronary vasospasm) and slowing of atrioventricular conduction (useful in rate control of supraventricular tachyarrhythmias). The evidence pack lists the mechanism of action as a data gap; however, the pharmacology is extensively documented in the literature and in DrugBank (DB00343).
-
-Once TxGNN predictions are generated and populated into this evidence pack, the mechanistic plausibility of any candidate indication should be evaluated against Diltiazem's calcium-channel-blocking, vasodilatory, and negative chronotropic properties.
+| Item | Kandungan |
+|------|----------|
+| Petunjukan Asal | Hipertensi, angina pektoris, aritmia (menurut farmakoloji yang ditetapkan; butir peringkat lesen tidak tersedia dalam pakej ini) |
+| Petunjukan Baru Diramalkan | **Tiada** — ramalan TxGNN tidak tersedia |
+| Skor Ramalan TxGNN | T/A |
+| Aras Bukti | T/A |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 6 |
+| Keputusan Yang Disyorkan | **Tunda** |
 
 ---
 
-## Malaysia Market Information
+## Mengapa Ramalan Ini Munasabah?
 
-The evidence pack records **6 product registrations** with market status "Marketed." However, all licence-level details (authorisation numbers, product names, dosage forms, and approved indication text) are currently missing from the data.
+Pada masa ini, tiada petunjukan yang diramalkan TxGNN wujud untuk Diltiazem Hydrochloride dalam pakej bukti ini, jadi analisis kebolehplausibilan mekanis tidak boleh dilakukan.
+
+Untuk rujukan, Diltiazem Hydrochloride ialah penyekat saluran kalsium bukan-dihidropiridin yang dicirikan dengan baik. Ia menghalang kemasukan ion kalsium ekstraselular melalui saluran kalsium jenis L dalam otot licin vaskular dan miosit jantung. Ini menghasilkan vasodilatasi (mengurangkan tekanan darah dan vasospasma koroner) dan melambatkan konduksi atrioventrikel (berguna dalam kawalan kadar takiaritmia supraventrikel). Pakej bukti menyenaraikan mekanisme tindakan sebagai jurang data; walau bagaimanapun, farmakoloji didokumentasikan secara meluas dalam kesusasteraan dan dalam DrugBank (DB00343).
+
+Setelah ramalan TxGNN dihasilkan dan diisi ke dalam pakej bukti ini, kebolehplausibilan mekanis sebarang petunjukan calon harus dinilai terhadap sifat penyekat saluran kalsium, vasodilatasi, dan negatif kronomotropi Diltiazem.
+
+---
+
+## Maklumat Pasaran Malaysia
+
+Pakej bukti merekodkan **6 pendaftaran produk** dengan status pasaran "Dipasarkan." Walau bagaimanapun, semua butir peringkat lesen (nombor kelulusan, nama produk, bentuk dos, dan teks petunjukan yang diluluskan) sedang hilang dari data pada masa ini.
 
 | Item | Status |
 |------|--------|
-| Total Registrations | 6 |
-| Market Status | Marketed |
-| Licence Details | Not available — data fields are empty |
+| Jumlah Pendaftaran | 6 |
+| Status Pasaran | Dipasarkan |
+| Butir Lesen | Tidak tersedia — medan data kosong |
 
-> **Action required:** Retrieve complete NPRA registration records for Diltiazem Hydrochloride to populate authorisation numbers, product names, dosage forms, and approved indication text.
-
----
-
-## Safety Considerations
-
-> Please refer to the package insert for safety information.
-
-All safety fields (key warnings, contraindications, drug–drug interactions) are marked as data gaps in this evidence pack. The DrugBank query log shows a successful query (result_count = 1), suggesting that safety data may be retrievable but was not integrated into this pack.
-
-**Known safety profile (general pharmacological knowledge):**
-- Diltiazem is contraindicated in severe hypotension, sick sinus syndrome (without pacemaker), second- or third-degree AV block, and acute myocardial infarction with pulmonary congestion.
-- Significant drug interactions exist with beta-blockers (additive cardiac depression), CYP3A4 substrates (Diltiazem is a moderate CYP3A4 inhibitor), cyclosporine, simvastatin, and other agents.
-- Common adverse effects include bradycardia, oedema, dizziness, and headache.
-
-> **Action required:** Download and parse the package insert (仿單) from the regulatory authority and populate the safety fields.
+> **Tindakan diperlukan:** Ambil rekod pendaftaran NPRA lengkap untuk Diltiazem Hydrochloride untuk mengisi nombor kelulusan, nama produk, bentuk dos, dan teks petunjukan yang diluluskan.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+> Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-**Rationale:**
-This evidence pack lacks critical data needed for a drug repurposing evaluation. There are **no TxGNN-predicted indications**, the DrugBank ID is not linked (despite a successful query), licence-level regulatory details are missing, and all safety fields are empty. Without a candidate indication to evaluate, no repurposing assessment can proceed.
+Semua medan keselamatan (amaran utama, kontraindikasi, interaksi ubat-ubat) ditandakan sebagai jurang data dalam pakej bukti ini. Log pertanyaan DrugBank menunjukkan pertanyaan yang berjaya (result_count = 1), mencadangkan bahawa data keselamatan mungkin dapat diambil tetapi tidak diintegrasikan ke dalam pakej ini.
 
-**To proceed, the following is needed:**
+**Profil keselamatan yang diketahui (pengetahuan farmakoloji umum):**
+- Diltiazem tidak dianjurkan dalam hipotensyen teruk, sindrom nodus sinus sakit (tanpa pembuat rentak jantung), blok AV darjah kedua atau ketiga, dan infark miokardium akut dengan kepenatan paru.
+- Interaksi ubat yang ketara wujud dengan beta-penyekat (pendepresan jantung aditif), substrat CYP3A4 (Diltiazem ialah perencat CYP3A4 sederhana), siklosporin, simvastatin, dan agen lain.
+- Kesan buruk yang biasa termasuk bradikardia, edema, pusing-pusing, dan sakit kepala.
 
-1. **Run TxGNN prediction pipeline** for Diltiazem Hydrochloride and populate `predicted_indications` with candidate diseases, scores, clinical trials, and literature evidence
-2. **Link DrugBank ID** — the query log confirms DB lookup succeeded (result_count = 1); map to **DB00343** and retrieve MOA, pharmacodynamics, and toxicity data
-3. **Populate NPRA licence details** — retrieve authorisation numbers, product names, dosage forms, and approved indication text for all 6 registered products
-4. **Retrieve safety data** — download package insert and parse key warnings, contraindications, and drug interaction information (addresses Blocking data gap DG001)
-5. **Populate MOA field** — retrieve mechanism of action from DrugBank to enable mechanistic plausibility analysis (addresses High-severity data gap DG002)
+> **Tindakan diperlukan:** Muat turun dan analisis sisipan pakej (仿單) dari pihak berkuasa kawal selia dan isi medan keselamatan.
 
 ---
 
-*Disclaimer: This report is for research purposes only and does not constitute medical advice. Any drug repurposing candidates require clinical validation before application.*
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tunda**
+
+**Alasan:**
+Pakej bukti ini kekurangan data kritikal yang diperlukan untuk penilaian penggunaan semula ubat. Tiada **petunjukan yang diramalkan TxGNN**, ID DrugBank tidak dipautkan (walaupun pertanyaan berjaya), butir kawal selia peringkat lesen hilang, dan semua medan keselamatan kosong. Tanpa petunjukan calon untuk dinilai, tiada penilaian penggunaan semula boleh diteruskan.
+
+**Untuk diteruskan, perkara berikut diperlukan:**
+
+1. **Jalankan saluran ramalan TxGNN** untuk Diltiazem Hydrochloride dan isikan `predicted_indications` dengan penyakit calon, skor, ujian klinikal, dan bukti kesusasteraan
+2. **Pautkan ID DrugBank** — log pertanyaan mengesahkan carian DrugBank berjaya (result_count = 1); petakan ke **DB00343** dan ambil data MOA, farmakodinamik, dan ketoksikanan
+3. **Isikan butir lesen NPRA** — ambil nombor kelulusan, nama produk, bentuk dos, dan teks petunjukan yang diluluskan untuk semua 6 produk berdaftar
+4. **Ambil data keselamatan** — muat turun sisipan pakej dan analisis amaran utama, kontraindikasi, dan maklumat interaksi ubat-ubat (menangani jurang data Menyekat DG001)
+5. **Isikan medan MOA** — ambil mekanisme tindakan dari DrugBank untuk membolehkan analisis kebolehplausibilan mekanis (menangani jurang data keberatan tinggi DG002)
+
+---
+
+*Penafian: Laporan ini adalah untuk tujuan penyelidikan sahaja dan tidak membentuk nasihat perubatan. Sebarang calon penggunaan semula ubat memerlukan pengesahan klinikal sebelum aplikasi.*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

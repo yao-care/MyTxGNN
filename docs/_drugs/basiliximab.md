@@ -29,88 +29,89 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Basiliximab: Drug Repurposing Evaluation Report
+# Basiliximab: Laporan Penilaian Ubah Tujuan Ubat
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Basiliximab is a chimeric monoclonal antibody targeting the IL-2 receptor α chain (CD25), primarily used for prophylaxis of acute organ rejection in renal transplantation. Currently, the TxGNN model has **no predicted new indications** for this drug, and the evidence pack contains significant data gaps that must be resolved before repurposing analysis can proceed.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Prophylaxis of acute organ rejection in renal transplantation (known; not populated in evidence pack) |
-| Predicted New Indication | — (No TxGNN predictions available) |
-| TxGNN Prediction Score | — |
-| Evidence Level | L5 (No predictions or studies to evaluate) |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 1 |
-| Recommended Decision | **Hold** |
+Basiliximab adalah antibodi monoklonal kimera yang menyasarkan rantai penerima IL-2 α (CD25), terutamanya digunakan untuk profilaksis penolakan organ akut dalam pemindahan ginjal. Pada masa kini, model TxGNN **tiada indikasi baru yang diramalkan** untuk ubat ini, dan pek bukti mengandungi jurang data yang ketara yang mesti diselesaikan sebelum analisis ubah tujuan ubat dapat diteruskan.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Panduan Cepat
 
-> Currently, detailed mechanism of action data is not available in the evidence pack. Based on publicly known information, Basiliximab (brand name: Simulect) is a chimeric (murine/human) monoclonal antibody that binds specifically to the interleukin-2 receptor α chain (CD25) on the surface of activated T lymphocytes. By blocking IL-2 binding, it inhibits IL-2-mediated T-cell proliferation, a critical step in the cellular immune response involved in allograft rejection.
-
-This mechanism — selective immunosuppression via IL-2 pathway inhibition — has theoretical applicability to other immune-mediated conditions such as graft-versus-host disease (GvHD), autoimmune disorders, and certain T-cell-mediated inflammatory diseases. However, **the TxGNN model has not generated any predicted indications** for Basiliximab in the current run, which may be due to incomplete input data (e.g., missing DrugBank mapping in the knowledge graph) or the drug's highly specialised biologic nature limiting graph-based inference.
-
-Without TxGNN predictions, no mechanistic bridging analysis between an original and a new indication can be performed at this time.
-
----
-
-## Clinical Trial Evidence
-
-Currently no predicted indication is available from TxGNN; therefore, targeted clinical trial evidence cannot be retrieved.
-
-> To populate this section, TxGNN predictions must first be generated, after which ClinicalTrials.gov and ICTRP queries can be conducted for the predicted disease(s).
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Profilaksis penolakan organ akut dalam pemindahan ginjal (diketahui; tidak dipenuhi dalam pek bukti) |
+| Indikasi Baru Yang Diramalkan | — (Tiada ramalan TxGNN tersedia) |
+| Skor Ramalan TxGNN | — |
+| Tahap Bukti | L5 (Tiada ramalan atau kajian untuk dinilai) |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 1 |
+| Keputusan Yang Disyorkan | **Tahan** |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no predicted indication is available from TxGNN; therefore, targeted literature evidence cannot be retrieved.
+> Pada masa kini, data mekanisme tindakan terperinci tidak tersedia dalam pek bukti. Berdasarkan maklumat yang diketahui umum, Basiliximab (nama jenama: Simulect) adalah antibodi monoklonal kimera (tikus/manusia) yang mengikat secara spesifik pada rantai penerima IL-2 α (CD25) pada permukaan limfosit T yang diaktifkan. Dengan menghalang pengikatan IL-2, ia menghalang proliferasi sel T yang dimediasi IL-2, langkah kritikal dalam tindak balas imun selular yang terlibat dalam penolakan allograf.
+
+Mekanisme ini — penyerangan imun terpilih melalui perencatan laluan IL-2 — mempunyai kebolehgunaan teori kepada keadaan terkait imun yang lain seperti penyakit lawan-tuan ubat (GvHD), gangguan autoimun, dan penyakit radang tertentu yang dimediasi sel T. Bagaimanapun, **model TxGNN belum menghasilkan sebarang indikasi yang diramalkan** untuk Basiliximab dalam operasi semasa, yang mungkin disebabkan oleh data masukan yang tidak lengkap (cth: pemetaan DrugBank yang hilang dalam graf pengetahuan) atau sifat biologi yang sangat khusus ubat itu yang mengehadkan inferens berasaskan graf.
+
+Tanpa ramalan TxGNN, tiada analisis jambatan mekanik antara indikasi asal dan indikasi baru dapat dilakukan pada masa ini.
 
 ---
 
-## Malaysia Market Information
+## Bukti Percubaan Klinikal
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+Pada masa kini tiada indikasi yang diramalkan tersedia daripada TxGNN; oleh itu, bukti percubaan klinikal yang disasarkan tidak dapat diambil.
+
+> Untuk mengisi bahagian ini, ramalan TxGNN mesti terlebih dahulu dihasilkan, selepas itu pertanyaan ClinicalTrials.gov dan ICTRP dapat dijalankan untuk penyakit yang diramalkan.
+
+---
+
+## Bukti Kesusasteraan
+
+Pada masa kini tiada indikasi yang diramalkan tersedia daripada TxGNN; oleh itu, bukti kesusasteraan yang disasarkan tidak dapat diambil.
+
+---
+
+## Maklumat Pasaran Malaysia
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Yang Diluluskan |
 |------|------|------|------|
-| (Not available in evidence pack) | (Not available) | (Not available) | (Not available) |
+| (Tidak tersedia dalam pek bukti) | (Tidak tersedia) | (Tidak tersedia) | (Tidak tersedia) |
 
-> **Note:** The NPRA query returned 1 registration record for Basiliximab, but the detailed licence fields (authorization number, product name, dosage form, approved indication) were not populated in the evidence pack. These need to be retrieved from the NPRA database.
+> **Nota:** Pertanyaan NPRA mengembalikan 1 rekod pendaftaran untuk Basiliximab, tetapi medan lesen terperinci (nombor kebenaran, nama produk, bentuk dos, indikasi yang diluluskan) tidak dipenuhi dalam pek bukti. Ini perlu diambil daripada pangkalan data NPRA.
 
 ---
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-> Please refer to the package insert for safety information.
+> Sila rujuk pamflet ubat untuk maklumat keselamatan.
 >
-> The evidence pack does not contain key warnings, contraindications, or drug interaction data for Basiliximab. These are classified as **Blocking** data gaps (DG001) that must be resolved before safety assessment can proceed.
+> Pek bukti tidak mengandungi amaran utama, kontraindikasi, atau data interaksi ubat untuk Basiliximab. Ini dikelaskan sebagai jurang data **Menghalang** (DG001) yang mesti diselesaikan sebelum penilaian keselamatan dapat diteruskan.
 
 ---
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The evidence pack for Basiliximab contains critical data gaps — no TxGNN predictions have been generated, the mechanism of action field is empty, safety data (warnings and contraindications) are missing, and the Malaysia licence details are incomplete. Without at least one predicted new indication, the repurposing evaluation pipeline cannot proceed.
+**Alasan:**
+Pek bukti untuk Basiliximab mengandungi jurang data yang kritikal — belum ada ramalan TxGNN dihasilkan, medan mekanisme tindakan adalah kosong, data keselamatan (amaran dan kontraindikasi) hilang, dan perincian lesen Malaysia tidak lengkap. Tanpa sekurang-kurangnya satu indikasi baru yang diramalkan, saluran penilaian ubah tujuan ubat tidak dapat diteruskan.
 
-**To proceed, the following is needed:**
+**Untuk meneruskan, yang berikut diperlukan:**
 
-1. **Resolve DG001 (Blocking):** Retrieve package insert warnings and contraindications from the NPRA website or manufacturer documentation
-2. **Resolve DG002 (High):** Query DrugBank API for Basiliximab's mechanism of action, targets, and pharmacological classification
-3. **Populate Malaysia licence details:** Complete the NPRA registration record (authorization number, product name, dosage form, approved indication text)
-4. **Re-run TxGNN prediction pipeline:** Ensure Basiliximab (DB00074) is correctly mapped in the knowledge graph and re-execute both KG and DL prediction methods
-5. **Once predictions are available:** Collect clinical trial and literature evidence for the top predicted indication(s)
+1. **Selesaikan DG001 (Menghalang):** Ambil amaran pamflet ubat dan kontraindikasi daripada laman web NPRA atau dokumentasi pengeluar ubat
+2. **Selesaikan DG002 (Tinggi):** Soal API DrugBank untuk mekanisme tindakan, sasaran, dan pengelasan farmakologi Basiliximab
+3. **Isi perincian lesen Malaysia:** Lengkapkan rekod pendaftaran NPRA (nombor kebenaran, nama produk, bentuk dos, teks indikasi yang diluluskan)
+4. **Jalankan semula saluran ramalan TxGNN:** Pastikan Basiliximab (DB00074) dipetakan dengan betul dalam graf pengetahuan dan laksanakan semula kedua-dua kaedah ramalan KG dan DL
+5. **Apabila ramalan tersedia:** Kumpulkan bukti percubaan klinikal dan kesusasteraan untuk indikasi ramalan teratas
 
 ---
 
-*Disclaimer: This report is for research purposes only and does not constitute medical advice. Drug repurposing candidates require clinical validation before application.*
+*Penafian: Laporan ini untuk tujuan penyelidikan sahaja dan tidak merupakan nasihat perubatan. Calon ubah tujuan ubat memerlukan pengesahan klinikal sebelum aplikasi.*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

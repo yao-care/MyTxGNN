@@ -29,60 +29,61 @@ Tahap bukti: **L5** | Indikasi diramal: **9**
 
 </div>
 
-# Pantothenic Acid: From Nutritional Supplementation (Vitamin B5) to Congenital Prothrombin Deficiency
+# Asid Pantotenat: Dari Suplementasi Pemakanan (Vitamin B5) kepada Kekurangan Protrombina Bawaan
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Pantothenic acid (Vitamin B5, DrugBank DB01783) is generally used as a nutritional/vitamin supplement; the Evidence Pack does not contain a specific registered indication text for it in Malaysia. The TxGNN model predicts it may be effective for **Congenital Prothrombin Deficiency**, but only **1 clinical trial** and **0 publications** are currently linked to this specific indication, and that single trial is topically unrelated to the prediction.
+Asid pantotenat (Vitamin B5, DrugBank DB01783) umumnya digunakan sebagai suplemen pemakanan/vitamin; Paket Bukti tidak mengandungi teks indikasi terdaftar khusus untuk ia di Malaysia. Model TxGNN meramalkan ia mungkin berkesan untuk **Kekurangan Protrombina Bawaan**, tetapi hanya **1 ujian klinikal** dan **0 penerbitan** kini dikaitkan dengan indikasi khusus ini, dan ujian tunggal tersebut tidak berkaitan topik dengan ramalan.
 
-## Quick Overview
+## Tinjauan Pantas
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Not available in the registry data provided (all `approved_indication_text` fields are empty); pantothenic acid is generally classified as a Vitamin B5 nutritional supplement |
-| Predicted New Indication | Congenital Prothrombin Deficiency |
-| TxGNN Prediction Score | 99.96% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 18 |
-| Recommended Decision | Hold |
+| Indikasi Asal | Tidak tersedia dalam data pendaftaran yang disediakan (semua medan `approved_indication_text` kosong); asid pantotenat secara umum dikelaskan sebagai suplemen pemakanan Vitamin B5 |
+| Indikasi Baru yang Diramalkan | Kekurangan Protrombina Bawaan |
+| Skor Ramalan TxGNN | 99.96% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 18 |
+| Keputusan yang Disyorkan | Tunggu |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data is not available (flagged in the Evidence Pack as a High-severity data gap). Based on known information, pantothenic acid is a precursor of coenzyme A (CoA) and is generally used as a nutritional/vitamin supplement rather than for a specific disease indication in this dataset.
+Pada masa kini, data mekanisme tindakan terperinci tidak tersedia (ditandai dalam Paket Bukti sebagai jurang data tahap Tinggi). Berdasarkan maklumat yang diketahui, asid pantotenat adalah pendahulu koenzim A (CoA) dan secara umum digunakan sebagai suplemen pemakanan/vitamin dan bukannya untuk indikasi penyakit khusus dalam set data ini.
 
-No mechanistic pathway connecting pantothenic acid to congenital prothrombin deficiency (an inherited coagulation factor disorder) has been identified. The single clinical trial retrieved as "evidence" for this prediction actually studied a multi-ingredient dietary supplement (L-arginine, Pycnogenol, vitamin K2, alpha-lipoic acid, and B-vitamins) on endothelial function in patients with hypertension and hyperhomocysteinemia — a completely different population and endpoint. The evidence pack's own review of this trial explicitly flags it as a topical mismatch, and characterizes the overall pairing as a high-scoring but likely **false-positive** TxGNN prediction with no substantive supporting evidence.
+Tiada laluan mekanik yang dikenali menghubungkan asid pantotenat dengan kekurangan protrombina bawaan (gangguan faktor pembekuan yang diwarisi). Ujian klinikal tunggal yang diambil sebagai "bukti" untuk ramalan ini sebenarnya mengkaji suplemen diet berbilang bahan (L-arginin, Pycnogenol, vitamin K2, asid alfa-lipoik, dan vitamin B) pada fungsi endotel pada pesakit dengan hipertensi ringan hingga sederhana dan hiperhomosisteinemia — populasi dan titik akhir yang sama sekali berbeza. Kajian Paket Bukti sendiri terhadap ujian ini secara jelas menandai ia sebagai ketidakpadanan topik, dan mencirikan pasangan keseluruhan sebagai ramalan TxGNN berskor tinggi tetapi berkemungkinan **positif palsu** tanpa bukti sokongan yang substantif.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT02392767](https://clinicaltrials.gov/study/NCT02392767) | NA | Completed | 25 | Randomized, double-blind, placebo-controlled crossover study of a multi-ingredient dietary supplement (L-arginine, Pycnogenol, vitamin K2, alpha-lipoic acid, B-vitamins) on endothelial function in volunteers with mild-to-moderate hypertension and hyperhomocysteinemia — not a study of pantothenic acid alone, and not related to congenital prothrombin deficiency |
+| [NCT02392767](https://clinicaltrials.gov/study/NCT02392767) | NA | Selesai | 25 | Kajian rawak buta dua-belah, terkawal plasebo, bertukar silih bagi suplemen diet berbilang bahan (L-arginin, Pycnogenol, vitamin K2, asid alfa-lipoik, vitamin B) pada fungsi endotel pada sukarelawan dengan hipertensi ringan hingga sederhana dan hiperhomosisteinemia — bukan kajian asid pantotenat sahaja, dan tidak berkaitan dengan kekurangan protrombina bawaan |
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-Currently no related literature available.
+Kini tiada kesusasteraan yang berkaitan tersedia.
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-The Evidence Pack confirms pantothenic acid is marketed in Malaysia with 18 total registrations, but the underlying license records returned in this pack contain no populated fields (license number, product name, dosage form, manufacturer, and indication text are all blank). Product-level registration detail is not available from this data pull.
+Paket Bukti mengesahkan asid pantotenat dipasarkan di Malaysia dengan 18 jumlah pendaftaran keseluruhan, tetapi rekod lesen asas yang dikembalikan dalam paket ini tidak mengandungi medan yang diisi (nombor lesen, nama produk, bentuk dos, pengilang, dan teks indikasi semuanya kosong). Perincian pendaftaran tahap produk tidak tersedia daripada pengambilan data ini.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk panduan pemaketan untuk maklumat keselamatan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tunggu**
 
-**Rationale:**
-The only indication-specific evidence retrieved (a single completed trial) is topically unrelated to congenital prothrombin deficiency, no supporting literature exists, and no mechanistic rationale links pantothenic acid to this disease. This is an L5, model-prediction-only candidate that the evidence itself suggests is a likely false positive.
+**Alasan:**
+Satu-satunya bukti indikasi khusus yang diambil (ujian selesai tunggal) tidak berkaitan dengan kekurangan protrombina bawaan secara topik, tiada kesusasteraan sokongan wujud, dan tiada alasan mekanik yang menghubungkan asid pantotenat dengan penyakit ini. Ini adalah calon L5, ramalan model sahaja yang bukti itu sendiri mencadangkan adalah kemungkinan positif palsu.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA label warnings and contraindications (currently a Blocking data gap — required before any S1 safety screening)
-- Confirmed mechanism of action data from DrugBank
-- Product-level Malaysia registration detail (license numbers, indications, dosage forms)
-- If repurposing interest continues, consider re-scoping evaluation toward **folic acid deficiency anemia** (rank 4 in this pack), which currently has stronger supporting evidence (Evidence Level L3, 4 clinical trials, 4 publications) than the top-ranked candidate above
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Amaran label TFDA/NPRA dan kontraindikasi (pada masa kini jurang data Menghalang — diperlukan sebelum sebarang saringan keselamatan S1)
+- Data mekanisme tindakan yang disahkan daripada DrugBank
+- Perincian pendaftaran Malaysia tahap produk (nombor lesen, indikasi, bentuk dos)
+- Jika minat penggabungan tujuan meneruskan, pertimbangkan semula skop penilaian ke arah **anemia kekurangan asid folik** (pangkat 4 dalam paket ini), yang kini mempunyai bukti sokongan yang lebih kuat (Tahap Bukti L3, 4 ujian klinikal, 4 penerbitan) daripada calon pangkat teratas di atas
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

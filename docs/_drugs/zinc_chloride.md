@@ -29,85 +29,86 @@ Tahap bukti: **L5** | Indikasi diramal: **3**
 
 </div>
 
-# Zinc Chloride: From Unspecified Original Indication to Severe Nonproliferative Diabetic Retinopathy
+# Zinc Chloride: Daripada Indikasi Asal yang Tidak Jelas kepada Retinopati Diabetik Nonproliferatif Berat
 
-## One-Sentence Summary
+## Ringkasan Satu Kalimat
 
-Zinc Chloride (DrugBank DB14533) is marketed in Taiwan under 3 existing licenses, but its originally approved indication and mechanism of action are not currently documented in available data. The TxGNN model predicts potential efficacy for **Severe Nonproliferative Diabetic Retinopathy**, with a very high prediction score (99.34%) but **no supporting clinical trials or literature** — this is a pure model-driven prediction at the earliest evidence stage.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not available in current data (no approved indication text on file) |
-| Predicted New Indication | Severe Nonproliferative Diabetic Retinopathy |
-| TxGNN Prediction Score | 99.34% |
-| Evidence Level | L5 |
-| Taiwan Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 3 |
-| Recommended Decision | Hold |
+Zinc Chloride (DrugBank DB14533) dipasarkan di Taiwan di bawah 3 lisensi yang ada, tetapi indikasi yang disetujui secara asli dan mekanisme kerjanya tidak tersedia dalam data saat ini. Model TxGNN memprediksi potensi efikasi untuk **Retinopati Diabetik Nonproliferatif Berat**, dengan skor prediksi yang sangat tinggi (99.34%) tetapi **tanpa uji klinis atau literatur pendukung** — ini adalah prediksi murni berbasis model pada tahap bukti paling awal.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Ikhtisar Cepat
 
-Detailed mechanism of action data for Zinc Chloride is not currently available. Based on general pharmacological knowledge, zinc functions as a cofactor for numerous metalloenzymes and plays a role in oxidative stress regulation — both of which are theoretically relevant to the pathophysiology of diabetic retinopathy. However, this theoretical link has not been substantiated by any animal or human studies specific to zinc chloride and severe NPDR.
-
-The TxGNN model assigned this indication its highest-ranked prediction score, but the complete absence of clinical trials or published literature means the mechanistic rationale remains speculative. This candidate should be treated as a hypothesis-generating signal rather than an evidence-supported repurposing opportunity at this stage.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
----
-
-## Literature Evidence
-
-Currently no related literature available.
+| Item | Konten |
+|------|--------|
+| Indikasi Asal | Tidak tersedia dalam data saat ini (tidak ada teks indikasi yang disetujui pada file) |
+| Indikasi Baru yang Diprediksi | Retinopati Diabetik Nonproliferatif Berat |
+| Skor Prediksi TxGNN | 99.34% |
+| Tingkat Bukti | L5 |
+| Status Pasar Taiwan | ✓ Dipasarkan (Marketed) |
+| Jumlah Registrasi | 3 |
+| Keputusan yang Direkomendasikan | Tangguhkan |
 
 ---
 
-## Taiwan Market Information
+## Mengapa Prediksi Ini Masuk Akal?
 
-Zinc Chloride currently holds 3 marketed licenses in Taiwan (市場狀態: Marketed); however, structured details such as license numbers, product names, dosage forms, and approved indication text are not yet available in the evidence pack and require retrieval from TFDA records.
+Data mekanisme kerja rinci untuk Zinc Chloride tidak tersedia saat ini. Berdasarkan pengetahuan farmakologi umum, seng berfungsi sebagai kofaktor untuk banyak metaloenzim dan memainkan peran dalam regulasi stres oksidatif — keduanya secara teori relevan dengan patofisiologi retinopati diabetik. Namun, tautan teoritis ini belum dibuktikan oleh studi hewan atau manusia apa pun yang spesifik terhadap zinc chloride dan NPDR berat.
 
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information. Warning, contraindication, and drug-interaction data have not yet been retrieved from the TFDA product label (flagged as a blocking data gap — DG001).
+Model TxGNN menugaskan indikasi ini skor prediksi peringkat tertingginya, tetapi ketiadaan lengkap uji klinis atau literatur yang dipublikasikan berarti alasan mekanistik tetap spekulatif. Kandidat ini harus diperlakukan sebagai sinyal penghasil hipotesis daripada peluang pergunaan semula ubat yang didukung bukti pada tahap ini.
 
 ---
 
-## Additional Predicted Indications (Lower Priority, for Context)
+## Bukti Uji Klinis
 
-Two other candidates from the same prediction set carry different evidence profiles worth noting for future prioritization:
-
-| Rank | Indication | TxGNN Score | Evidence Level | Notes |
-|------|-----------|-------------|-----------------|-------|
-| 2 | Sjögren Syndrome | 99.18% | L5 | No trials/literature; mucosal-repair analogy only |
-| 3 | Dry Eye Syndrome | 99.18% | L2 | 2 completed trials (NCT02951910 Phase 4, NCT01541891 Phase 2) involving zinc-containing ophthalmic formulations, though not zinc chloride alone |
-
-Rank 3 (dry eye syndrome) has meaningfully stronger evidence than the top-ranked indication and may warrant separate evaluation if this drug's repurposing pathway is pursued further.
+Saat ini tidak ada uji klinis terkait yang terdaftar.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Hold**
+Saat ini tidak ada literatur terkait yang tersedia.
 
-**Rationale:**
-The top-ranked predicted indication (severe NPDR) is supported only by a TxGNN model score with zero corroborating clinical trials or literature (L5). Additionally, a blocking data gap exists on TFDA label warnings/contraindications, preventing even a preliminary safety assessment (S1).
+---
 
-**To proceed, the following is needed:**
-- TFDA product label (warnings, contraindications) — required before any safety-stage review
-- Mechanism of action (MOA) data from DrugBank or primary literature
-- Complete license/registration details (license numbers, approved indication text, dosage forms) for the 3 Taiwan marketing authorizations
-- If pursuing the dry eye syndrome signal (Rank 3) instead, formulation-level confirmation that zinc chloride (not complex zinc-hyaluronate formulations) drives the observed clinical effect
+## Informasi Pasar Taiwan
+
+Zinc Chloride saat ini memegang 3 lisensi yang dipasarkan di Taiwan (Status Pasar: Dipasarkan); namun, detail terstruktur seperti nomor lisensi, nama produk, bentuk dosis, dan teks indikasi yang disetujui belum tersedia dalam paket bukti dan memerlukan pengambilan dari catatan TFDA.
+
+---
+
+## Pertimbangan Keselamatan
+
+Silakan lihat sisipan paket untuk informasi keselamatan. Data peringatan, kontraindikasi, dan interaksi obat belum diambil dari label produk TFDA (ditandai sebagai kesenjangan data kritis — DG001).
+
+---
+
+## Indikasi Prediksi Tambahan (Prioritas Lebih Rendah, untuk Konteks)
+
+Dua kandidat lain dari set prediksi yang sama memiliki profil bukti berbeda yang layak diperhatikan untuk prioritasi di masa depan:
+
+| Peringkat | Indikasi | Skor TxGNN | Tingkat Bukti | Catatan |
+|-----------|----------|------------|---------------|---------|
+| 2 | Sindrom Sjögren | 99.18% | L5 | Tidak ada uji coba/literatur; hanya analogi perbaikan mukosal |
+| 3 | Sindrom Mata Kering | 99.18% | L2 | 2 uji coba yang telah selesai (NCT02951910 Fase 4, NCT01541891 Fase 2) yang melibatkan formulasi oftalmik yang mengandung seng, meskipun bukan zinc chloride saja |
+
+Peringkat 3 (Sindrom Mata Kering) memiliki bukti yang bermakna lebih kuat daripada indikasi peringkat teratas dan mungkin memerlukan evaluasi terpisah jika jalur pergunaan semula ubat ini ditindaklanjuti lebih lanjut.
+
+---
+
+## Kesimpulan dan Langkah Berikutnya
+
+**Keputusan: Tangguhkan**
+
+**Alasan:**
+Indikasi prediksi peringkat teratas (NPDR berat) didukung hanya oleh skor model TxGNN tanpa uji klinis atau literatur yang mengatakan (L5). Selain itu, kesenjangan data kritis ada pada peringatan/kontraindikasi label TFDA, yang mencegah bahkan tinjauan keselamatan awal (S1).
+
+**Untuk melanjutkan, berikut ini diperlukan:**
+- Label produk TFDA (peringatan, kontraindikasi) — diperlukan sebelum tinjauan tahap keselamatan apa pun
+- Data mekanisme kerja (MOA) dari DrugBank atau literatur primer
+- Detail lisensi/registrasi lengkap (nomor lisensi, teks indikasi yang disetujui, bentuk dosis) untuk 3 otorisasi pemasaran Taiwan
+- Jika mengejar sinyal Sindrom Mata Kering (Peringkat 3) sebagai gantinya, konfirmasi tingkat formulasi bahwa zinc chloride (bukan formulasi kompleks zinc-hyaluronate) mendorong efek klinis yang diamati
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

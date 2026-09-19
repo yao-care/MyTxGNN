@@ -29,76 +29,77 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Antazoline Hydrochloride: Drug Repurposing Evaluation — No TxGNN Prediction Available
+# Antazoline Hydrochloride: Penilaian Penggunaan Semula Ubat — Tiada Ramalan TxGNN Tersedia
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Antazoline hydrochloride is a first-generation H1 antihistamine with additional alpha-adrenergic blocking properties, classically used in ophthalmic formulations for allergic conjunctivitis.
-The TxGNN model **did not generate any repurposing predictions** for this drug in the current run, likely due to missing DrugBank ID linkage required for knowledge graph traversal.
-Without a prediction score or candidate indication, this evaluation is limited to a data-completeness and regulatory assessment only.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Not available in current regulatory records |
-| Predicted New Indication | None — TxGNN returned no candidates |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | Insufficient — no prediction generated |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | **Hold** |
+Antazoline hydrochloride adalah antihistamin generasi pertama dengan sifat penyekatan alfa-adrenergik tambahan, secara klasiknya digunakan dalam formulasi oftalmik untuk konjunktivitis alergik.
+Model TxGNN **tidak menghasilkan sebarang ramalan penggunaan semula** untuk ubat ini dalam pelaksanaan semasa, berkemungkinan disebabkan oleh pautan DrugBank ID yang hilang diperlukan untuk pentarsuran graf pengetahuan.
+Tanpa skor ramalan atau petunjuk calon, penilaian ini terhad kepada penilaian kesempurnaan data dan kawal selia sahaja.
 
 ---
 
-## Why No Prediction Was Generated
+## Gambaran Keseluruhan Ringkas
 
-Antazoline hydrochloride is a first-generation antihistamine (H1 receptor antagonist) that also exhibits moderate alpha-adrenergic blocking activity. It is typically formulated as ophthalmic drops (often combined with naphazoline or xylometazoline) for the relief of allergic conjunctivitis, and has historically been studied as a Class Ia antiarrhythmic agent.
-
-The TxGNN knowledge graph engine maps drugs via their **DrugBank ID** to traverse disease–drug–gene–pathway relationships. In this Evidence Pack, `drugbank_id` is **null**, meaning the drug entity could not be anchored in the knowledge graph. Without this anchor, neither KG-based nor deep learning–based repurposing scores can be computed.
-
-Additionally, the mechanism of action (MOA) data is unavailable in the current pack. Mechanistically, antihistamines in this class have been explored in contexts such as upper respiratory allergy, insomnia (sedating effect), and motion sickness — but these remain unconfirmed directions without a formal TxGNN prediction score to assess.
-
----
-
-## Malaysia Market Information
-
-Current regulatory data returned **1 active licence**, but the licence record fields (authorisation number, product name, dosage form, approved indication) were not populated in this Evidence Pack extraction. The market status is confirmed as **Marketed (Marketed)**.
-
-| Item | Status |
-|------|--------|
-| Market Status | ✓ Marketed in Malaysia |
-| Total Active Licences | 1 |
-| Licence Detail | Record present but fields unpopulated — manual NPRA lookup required |
-
-> To retrieve full licence details, search the NPRA Product Registration database at [https://www.npra.gov.my](https://www.npra.gov.my) using the active ingredient "ANTAZOLINE HYDROCHLORIDE".
+| Perkara | Kandungan |
+|---------|-----------|
+| Indikasi Asal | Tidak tersedia dalam rekod kawal selia semasa |
+| Indikasi Baru yang Diramal | Tiada — TxGNN tidak mengembalikan sebarang calon |
+| Skor Ramalan TxGNN | N/A |
+| Tahap Bukti | Tidak mencukupi — tiada ramalan dihasilkan |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | **Tahan** |
 
 ---
 
-## Safety Considerations
+## Mengapa Tiada Ramalan Dihasilkan
 
-Please refer to the package insert for safety information.
+Antazoline hydrochloride adalah antihistamin generasi pertama (antagonis reseptor H1) yang juga mempamerkan aktiviti penyekatan alfa-adrenergik sederhana. Ia biasanya diformulasikan sebagai titisan oftalmik (sering dikombinasikan dengan naphazoline atau xylometazoline) untuk menghilangkan konjunktivitis alergik, dan telah mengalami kajian sejarah sebagai agen antiaritmia Kelas Ia.
 
-> Note: Both key warnings and contraindications are flagged as data gaps in this Evidence Pack (severity: **Blocking** and **High** respectively). No drug–drug interaction records were found in the DDI query. Resolving these gaps is required before any repurposing pathway can proceed.
+Enjin graf pengetahuan TxGNN memetakan ubat melalui **DrugBank ID** mereka untuk pentarsuran hubungan penyakit–ubat–gen–laluan. Dalam Pakej Bukti ini, `drugbank_id` adalah **null**, bermakna entiti ubat tidak dapat diancurkan dalam graf pengetahuan. Tanpa sauh ini, skor penggunaan semula berasaskan KG mahupun berasaskan pembelajaran mendalam tidak dapat dikira.
+
+Selain itu, data mekanisme tindakan (MOA) tidak tersedia dalam pakej semasa. Secara mekanik, antihistamin dalam kelas ini telah diterokai dalam konteks seperti alergi saluran pernafasan atas, insomnia (kesan sedatif), dan penyakit gerakan — tetapi ini tetap merupakan arah yang belum disahkan tanpa skor ramalan TxGNN formal untuk menilai.
 
 ---
 
-## Conclusion and Next Steps
+## Maklumat Pasaran Malaysia
 
-**Decision: Hold**
+Data kawal selia semasa mengembalikan **1 lesen aktif**, tetapi medan rekod lesen (nombor kebenaran, nama produk, bentuk dos, indikasi yang diluluskan) tidak diisi dalam pengekstrakan Pakej Bukti ini. Status pasaran disahkan sebagai **Dipasarkan (Dipasarkan)**.
 
-**Rationale:**
-The TxGNN model returned no repurposing candidates for antazoline hydrochloride because the DrugBank ID linkage is missing, preventing knowledge graph traversal entirely. Without a prediction target, evidence assessment cannot be initiated.
+| Perkara | Status |
+|---------|--------|
+| Status Pasaran | ✓ Dipasarkan di Malaysia |
+| Jumlah Lesen Aktif | 1 |
+| Butiran Lesen | Rekod wujud tetapi medan tidak diisi — carian manual NPRA diperlukan |
 
-**To proceed, the following is needed:**
+> Untuk mendapatkan butiran lesen lengkap, cari pangkalan data Pendaftaran Produk NPRA di [https://www.npra.gov.my](https://www.npra.gov.my) menggunakan bahan aktif "ANTAZOLINE HYDROCHLORIDE".
 
-- **[Critical — Blocking]** Resolve `drugbank_id`: Search DrugBank (https://www.drugbank.ca) for "antazoline" and confirm the correct ID (likely DB01114 or similar); update the Evidence Pack and re-run TxGNN prediction pipeline
-- **[Critical — Blocking]** Retrieve TFDA/NPRA package insert: Download the approved product insert PDF and extract warnings, contraindications, and approved indication text to unblock the S1 safety screen
-- **[High]** Populate MOA data: Query DrugBank API for pharmacodynamics and mechanism of action to enable mechanistic plausibility analysis once a predicted indication is available
-- **[Medium]** Populate NPRA licence record fields: Confirm authorisation number, product name, dosage form, manufacturer, and approved indication text from the NPRA registry
-- **[Follow-up]** Re-run Evidence Pack generation after DrugBank ID is confirmed and resubmit for full report evaluation
+---
+
+## Pertimbangan Keselamatan
+
+Sila merujuk sisipan pakej untuk maklumat keselamatan.
+
+> Nota: Kedua-dua amaran utama dan kontraindikasi ditandai sebagai jurang data dalam Pakej Bukti ini (keterukan: **Penghalang** dan **Tinggi** masing-masing). Tiada rekod interaksi ubat–ubat ditemui dalam pertanyaan DDI. Menyelesaikan jurang ini diperlukan sebelum sebarang laluan penggunaan semula dapat diteruskan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Model TxGNN tidak mengembalikan sebarang calon penggunaan semula untuk antazoline hydrochloride kerana pautan DrugBank ID hilang, mencegah pentarsuran graf pengetahuan sepenuhnya. Tanpa sasaran ramalan, penilaian bukti tidak dapat dimulakan.
+
+**Untuk melanjutkan, perkara berikut diperlukan:**
+
+- **[Kritikal — Penghalang]** Selesaikan `drugbank_id`: Cari DrugBank (https://www.drugbank.ca) untuk "antazoline" dan sahkan ID yang betul (berkemungkinan DB01114 atau serupa); kemas kini Pakej Bukti dan jalankan semula saluran ramalan TxGNN
+- **[Kritikal — Penghalang]** Dapatkan sisipan pakej TFDA/NPRA: Muat turun PDF sisipan produk yang diluluskan dan ekstrak amaran, kontraindikasi, dan teks indikasi yang diluluskan untuk membuka kunci skrin keselamatan S1
+- **[Tinggi]** Isikan data MOA: Pertanyaan API DrugBank untuk farmakodinamik dan mekanisme tindakan untuk membolehkan analisis kebolehpercayaan mekanik setelah indikasi yang diramal tersedia
+- **[Sederhana]** Isikan medan rekod lesen NPRA: Sahkan nombor kebenaran, nama produk, bentuk dos, pengilang, dan teks indikasi yang diluluskan daripada daftar NPRA
+- **[Susulan]** Jalankan semula penjanaan Pakej Bukti selepas DrugBank ID disahkan dan serahkan semula untuk penilaian laporan lengkap
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,63 +29,65 @@ Tahap bukti: **L5** | Indikasi diramal: **3**
 
 </div>
 
-# Colchicine: From Unspecified Original Indication to Plasmodium falciparum Malaria
+# Colchicine: Dari Indikasi Asal yang Tidak Ditentukan kepada Plasmodium falciparum Malaria
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Colchicine (DrugBank DB01394) is a marketed drug in Malaysia with 7 active product registrations, though the specific original approved indication text is not available in the current data extract. The TxGNN model predicts a possible new application for **Plasmodium falciparum malaria**, but this prediction is currently supported by **no clinical trials and no published literature**, placing it at the lowest evidence tier.
+Colchicine (DrugBank DB01394) adalah ubat yang dipasarkan di Malaysia dengan 7 pendaftaran produk aktif, walaupun teks indikasi yang diluluskan secara spesifik tidak tersedia dalam ekstrak data semasa. Model TxGNN meramalkan kemungkinan aplikasi baru untuk **Plasmodium falciparum malaria**, tetapi ramalan ini pada masa ini tidak disokong oleh **sebarang percubaan klinikal dan literatur yang diterbitkan**, meletakkannya pada tahap bukti terendah.
 
-## Quick Overview
+## Pandangan Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | Not specified in current registry data extract |
-| Predicted New Indication | Plasmodium falciparum malaria |
-| TxGNN Prediction Score | 99.60% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 7 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|---------|
+| Indikasi Asal | Tidak ditentukan dalam ekstrak data daftar semasa |
+| Indikasi Baru yang Diramalkan | Plasmodium falciparum malaria |
+| Skor Ramalan TxGNN | 99.60% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 7 |
+| Keputusan yang Disyorkan | Tangguh |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data for colchicine is not available in the source dataset (flagged as a High-severity data gap). Based on the mechanistic rationale associated with this prediction, colchicine is a **tubulin polymerization inhibitor**. *Plasmodium falciparum*'s schizogony (asexual replication) and mitotic division also depend on microtubule/cytoskeletal machinery, which provides a theoretical, indirect link between colchicine's known pharmacology and the predicted indication.
+Pada masa ini, data mekanisme tindakan terperinci untuk colchicine tidak tersedia dalam set data sumber (ditandai sebagai jurang data Keparahan Tinggi). Berdasarkan rasional mekanik yang berkaitan dengan ramalan ini, colchicine adalah **perencat polimerisasi tubulin**. Schizogoni (replikasi aseksual) *Plasmodium falciparum* dan pembahagian mitotik juga bergantung pada jentera mikrotubul/sitoskeleton, yang memberikan pautan teori tidak langsung antara farmakologi colchicine yang diketahui dan indikasi yang diramalkan.
 
-However, this link is weak in practice: colchicine does not selectively distinguish between mammalian and parasite tubulin, and it has a narrow therapeutic window (toxic doses are close to effective doses). There is no clinical or preclinical evidence of antimalarial activity for colchicine. The high TxGNN score most likely reflects structural connectivity between tubulin/cytoskeleton-related nodes in the knowledge graph rather than confirmed pharmacological selectivity for the malaria parasite — this is a model-prediction-only signal.
+Walau bagaimanapun, pautan ini lemah dalam amalan: colchicine tidak membezakan secara selektif antara tubulin mamalia dan parasit, dan ia mempunyai tingkap terapi yang sempit (dos toksik hampir sama dengan dos berkesan). Tiada bukti klinikal atau praklinikal tentang aktiviti antimalaria untuk colchicine. Skor TxGNN yang tinggi kemungkinan besar mencerminkan ketersambungan struktur antara nod berkaitan tubulin/sitoskeleton dalam graf pengetahuan daripada farmakologi yang dikonfirmkan secara selektif untuk parasit malaria — ini adalah isyarat ramalan model sahaja.
 
-## Clinical Trial Evidence
+## Bukti Percubaan Klinikal
 
-Currently no related clinical trials registered.
+Pada masa ini tiada percubaan klinikal yang berkaitan terdaftar.
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no related literature available.
+Pada masa ini tiada literatur yang berkaitan tersedia.
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Colchicine holds **7 active product registrations** with NPRA (market status: Marketed), but license-level details (registration numbers, product names, dosage forms, manufacturers, and approved indication text) are not populated in the current data extract and cannot be reported here.
+Colchicine memegang **7 pendaftaran produk aktif** dengan NPRA (status pasaran: Dipasarkan), tetapi butiran peringkat lesen (nombor pendaftaran, nama produk, bentuk dos, pengeluar, dan teks indikasi yang diluluskan) tidak diisi dalam ekstrak data semasa dan tidak boleh dilaporkan di sini.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-*(Note: the underlying warnings/contraindications data point is flagged as a Blocking-severity data gap — TFDA/NPRA label text has not yet been retrieved, which prevents a full safety pre-assessment for this candidate.)*
+*(Catatan: titik data amaran/kontraindikasi yang mendasari ditandai sebagai jurang data Keparahan Penyekat — teks label TFDA/NPRA masih belum diambil, yang menghalang penilaian keselamatan awal yang lengkap untuk calon ini.)*
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tangguh**
 
-**Rationale:**
-This prediction sits at Evidence Level L5 (model prediction only) with zero supporting clinical trials or literature, and the proposed mechanistic link is non-specific and lacks any clinical or preclinical antimalarial data. A Blocking-severity data gap on the drug's own safety labeling further prevents a preliminary safety assessment.
+**Rasional:**
+Ramalan ini berada pada Tahap Bukti L5 (ramalan model sahaja) tanpa sebarang percubaan klinikal atau literatur sokongan, dan pautan mekanik yang dicadangkan adalah bukan khusus dan kekurangan sebarang bukti antimalarial klinikal atau praklinikal. Jurang data Keparahan Penyekat pada label keselamatan ubat itu sendiri lebih jauh menghalang penilaian keselamatan awal.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert (warnings, contraindications) — currently a Blocking data gap
-- Confirmed mechanism of action from DrugBank — currently a High-severity data gap
-- The drug's original approved indication(s), currently missing from the registry extract
-- Preclinical or in vitro antiparasitic activity data for colchicine before any further evaluation is warranted
+**Untuk meneruskan, berikut diperlukan:**
+- Sisipan pakej TFDA/NPRA (amaran, kontraindikasi) — pada masa ini jurang data Penyekat
+- Mekanisme tindakan yang dikonfirmkan daripada DrugBank — pada masa ini jurang data Keparahan Tinggi
+- Indikasi asal yang diluluskan ubat itu, pada masa ini hilang daripada ekstrak daftar
+- Data aktiviti antiparasitik praklinikal atau in vitro untuk colchicine sebelum sebarang penilaian lanjut adalah wajar
 
 ---
-**Note:** This evidence pack contains two additional predicted indications for colchicine not covered in this report. Notably, **familial Mediterranean fever** (rank 2, score 99.38%) carries **Evidence Level L1** with a "Proceed with Guardrails" recommendation — substantially stronger evidence than the malaria prediction summarized above. If the goal is to identify colchicine's most promising repurposing candidate, a separate report on that indication is recommended.
+
+**Catatan:** Pak bukti ini mengandungi dua indikasi yang diramalkan tambahan untuk colchicine yang tidak dilindungi dalam laporan ini. Terutamanya, **familial Mediterranean fever** (pangkat 2, skor 99.38%) membawa **Tahap Bukti L1** dengan pengesyoran "Teruskan dengan Pengawal" — bukti yang jauh lebih kuat daripada ramalan malaria yang diringkaskan di atas. Jika matlamatnya adalah untuk mengenal pasti calon penggunaan semula colchicine yang paling menjanjikan, laporan berasingan mengenai indikasi itu disyorkan.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,144 +29,145 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Bevacizumab: From Multiple Solid Tumours to Peritoneum Cancer
+# Bevacizumab: Daripada Pelbagai Tumor Pepejal kepada Kanser Peritoneum
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Bevacizumab (Avastin®) is a recombinant humanised monoclonal antibody targeting VEGF-A, approved globally for multiple solid tumours including metastatic colorectal cancer, non-small cell lung cancer, glioblastoma, and ovarian cancer.
-The TxGNN model predicts it may be effective for **Peritoneum Cancer**,
-with **50 clinical trials** and **20 publications** currently supporting this direction — many of which are completed Phase III landmark trials.
+Bevacizumab (Avastin®) ialah antibodi monoklonal manusia rekombinan yang menyasarkan VEGF-A, yang diluluskan secara global untuk pelbagai tumor pepejal termasuk kanser kolorektal metastatik, kanser paru-paru sel bukan kecil, glioblastoma, dan kanser ovari.
+Model TxGNN meramalkan ia mungkin berkesan untuk **Kanser Peritoneum**,
+dengan **50 uji kaji klinis** dan **20 penerbitan** yang kini menyokong arah ini — banyak daripadanya adalah uji kaji pemarkah tingkat III yang telah selesai.
 
 ---
 
-## Quick Overview
+## Tinjauan Ringkas
 
-| Item | Content |
+| Perkara | Kandungan |
 |------|------|
-| Original Indication | Multiple solid tumours (colorectal, NSCLC, glioblastoma, ovarian, cervical, renal cell carcinoma) |
-| Predicted New Indication | Peritoneum Cancer |
-| TxGNN Prediction Score | Not available (score = 0.0, likely data gap) |
-| Evidence Level | L1 (≥2 completed Phase 3 RCTs) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 9 |
-| Recommended Decision | Proceed with Guardrails |
+| Indikasi Asal | Pelbagai tumor pepejal (kolorektal, NSCLC, glioblastoma, ovari, serviks, karsinoma sel ginjal) |
+| Indikasi Baru yang Diprediksi | Kanser Peritoneum |
+| Skor Prediksi TxGNN | Tidak tersedia (skor = 0.0, kemungkinan jurang data) |
+| Tahap Bukti | L1 (≥2 RCT Fasa 3 yang telah selesai) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 9 |
+| Keputusan yang Disyorkan | Teruskan dengan Penjaga Keselamatan |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Prediksi Ini Munasabah?
 
-Bevacizumab is a humanised monoclonal antibody that binds and neutralises vascular endothelial growth factor A (VEGF-A), the key mediator of tumour angiogenesis. By blocking VEGF-A from binding to its receptors (VEGFR-1 and VEGFR-2), bevacizumab inhibits new blood vessel formation, normalises existing tumour vasculature to improve chemotherapy delivery, and reduces vascular permeability — the latter being particularly relevant to malignant ascites control in peritoneal cancers.
+Bevacizumab ialah antibodi monoklonal manusia yang mengikat dan meneutralkan faktor pertumbuhan endotel vaskular A (VEGF-A), pengantara utama angiogenesis tumor. Dengan menghalang VEGF-A daripada mengikat reseptornya (VEGFR-1 dan VEGFR-2), bevacizumab menghalang pembentukan saluran darah baru, menormalkan saluran darah tumor yang sedia ada untuk meningkatkan penghantaran kemoterapi, dan mengurangkan permeabilitas vaskular — yang terakhir ini amat relevan untuk kawalan askitis maligna dalam kanser peritoneal.
 
-Peritoneum cancer (both primary peritoneal carcinoma and peritoneal metastases from various origins) is highly dependent on VEGF-driven angiogenesis and ascites formation. The peritoneal microenvironment is rich in VEGF, which promotes tumour dissemination across peritoneal surfaces and the accumulation of malignant ascites. This makes VEGF-targeted therapy a mechanistically sound approach. Indeed, primary peritoneal carcinoma shares near-identical molecular features with high-grade serous ovarian cancer — both arising from Müllerian epithelium — and has been consistently included as an eligible population in the pivotal bevacizumab ovarian cancer trials (GOG-0218, ICON7, AURELIA, OCEANS).
+Kanser peritoneum (baik karsinoma peritoneal primer dan metastasis peritoneal daripada pelbagai asal) sangat bergantung kepada angiogenesis yang didorong VEGF dan pembentukan askitis. Persekitaran mikroperitoneal kaya dengan VEGF, yang mempromosikan penyebaran tumor merentas permukaan peritoneal dan pengumpulan askitis maligna. Ini menjadikan terapi yang menyasarkan VEGF pendekatan yang masuk akal secara mekanik. Sesungguhnya, karsinoma peritoneal primer berkongsi ciri molekul yang hampir sama dengan kanser ovari serus berpangkat tinggi — kedua-duanya timbul daripada epitelium Müllerian — dan secara konsisten telah disertakan sebagai populasi yang layak dalam uji kaji ovari bevacizumab yang utama (GOG-0218, ICON7, AURELIA, OCEANS).
 
-The extensive overlap between bevacizumab's approved ovarian cancer indication and peritoneum cancer means that much of the clinical evidence base already validates this repurposing prediction. Multiple completed Phase III RCTs with thousands of enrolled patients have demonstrated progression-free survival benefits for bevacizumab-containing regimens in populations that include primary peritoneal cancer, providing an unusually strong evidence foundation for this drug repurposing candidate.
+Pertindihan yang meluas antara indikasi kanser ovari bevacizumab yang diluluskan dan kanser peritoneum bermakna bahawa banyak dasar bukti klinis sudah memvalidasi ramalan penyusunan semula ini. Pelbagai RCT Fasa III yang telah selesai dengan ribuan pesakit yang didaftarkan telah menunjukkan manfaat kelangsungan tanpa perkembangan untuk rejimen yang mengandungi bevacizumab dalam populasi yang merangkumi kanser peritoneal primer, memberikan asas bukti yang luar biasa kuat untuk calon penyusunan semula ubat ini.
 
 ---
 
-## Clinical Trial Evidence
+## Bukti Uji Kaji Klinis
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Uji Kaji | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT00262847](https://clinicaltrials.gov/study/NCT00262847) | Phase 3 | Completed | 1,873 | **GOG-0218**: Carboplatin/Paclitaxel ± Bevacizumab in newly diagnosed Stage III/IV ovarian/peritoneal cancer. Bevacizumab throughout + maintenance significantly improved PFS. Landmark trial leading to regulatory approval. |
-| [NCT00483782](https://clinicaltrials.gov/study/NCT00483782) | Phase 3 | Completed | 1,520 | **ICON7**: Adding bevacizumab to standard chemotherapy in epithelial ovarian/peritoneal cancer. Demonstrated PFS improvement, with greatest benefit in high-risk subgroup. |
-| [NCT00976911](https://clinicaltrials.gov/study/NCT00976911) | Phase 3 | Completed | 361 | **AURELIA**: Bevacizumab + chemotherapy vs chemotherapy alone in platinum-resistant ovarian/fallopian tube/peritoneal cancer. Significant PFS benefit (6.7 vs 3.4 months). |
-| [NCT03038100](https://clinicaltrials.gov/study/NCT03038100) | Phase 3 | Completed | 1,301 | **IMagyn050**: Atezolizumab vs placebo + Paclitaxel/Carboplatin/Bevacizumab in newly diagnosed Stage III/IV ovarian/peritoneal cancer. Bevacizumab used in all arms as backbone therapy. |
-| [NCT02659384](https://clinicaltrials.gov/study/NCT02659384) | Phase 2 | Completed | 122 | Atezolizumab + Bevacizumab ± Aspirin in platinum-resistant ovarian/peritoneal cancer. Evaluated PFS at 6 months across 5 treatment arms to select optimal combinations. |
-| [NCT04670978](https://clinicaltrials.gov/study/NCT04670978) | Phase 2 | Unknown | 96 | Abraxane + Bevacizumab biosimilar in platinum-resistant recurrent ovarian/peritoneal cancer. Directly evaluates bevacizumab efficacy in refractory setting. |
-| [NCT02873962](https://clinicaltrials.gov/study/NCT02873962) | Phase 2 | Active | 73 | Nivolumab + Bevacizumab ± Rucaparib in relapsed ovarian/peritoneal cancer. Explores immuno-oncology + anti-angiogenic combinations. |
-| [NCT01097746](https://clinicaltrials.gov/study/NCT01097746) | Phase 2 | Completed | 33 | Bevacizumab + Carboplatin + weekly Paclitaxel as first-line treatment in ovarian/peritoneal/fallopian tube cancer. |
-| [NCT05445778](https://clinicaltrials.gov/study/NCT05445778) | Phase 3 | Recruiting | 520 | **GLORIOSA**: Mirvetuximab Soravtansine + Bevacizumab vs Bevacizumab alone as maintenance in platinum-sensitive recurrent ovarian/peritoneal cancer. |
-| [NCT06824467](https://clinicaltrials.gov/study/NCT06824467) | Phase 3 | Recruiting | 770 | **TroFuse-022**: Sacituzumab Tirumotecan ± Bevacizumab vs standard of care after second-line platinum-based chemotherapy in platinum-sensitive recurrent ovarian cancer. |
+| [NCT00262847](https://clinicaltrials.gov/study/NCT00262847) | Fasa 3 | Selesai | 1,873 | **GOG-0218**: Karboplatin/Paklitaksel ± Bevacizumab dalam kanser ovari/peritoneal baru didiagnosis Peringkat III/IV. Bevacizumab sepanjang + penyelenggaraan meningkatkan PFS secara ketara. Uji kaji pemarkah yang membawa kepada kelulusan kawal selia. |
+| [NCT00483782](https://clinicaltrials.gov/study/NCT00483782) | Fasa 3 | Selesai | 1,520 | **ICON7**: Menambah bevacizumab kepada kemoterapi piawai dalam kanser epitelial ovari/peritoneal. Menunjukkan peningkatan PFS, dengan manfaat terbesar dalam subkumpulan berisiko tinggi. |
+| [NCT00976911](https://clinicaltrials.gov/study/NCT00976911) | Fasa 3 | Selesai | 361 | **AURELIA**: Bevacizumab + kemoterapi vs kemoterapi sahaja dalam kanser ovari/tiub fallopi/peritoneal yang tahan platinum. Manfaat PFS yang ketara (6.7 vs 3.4 bulan). |
+| [NCT03038100](https://clinicaltrials.gov/study/NCT03038100) | Fasa 3 | Selesai | 1,301 | **IMagyn050**: Atezolizumab vs plasebo + Paklitaksel/Karboplatin/Bevacizumab dalam kanser ovari/peritoneal baru didiagnosis Peringkat III/IV. Bevacizumab digunakan dalam semua lengan sebagai terapi tulang belakang. |
+| [NCT02659384](https://clinicaltrials.gov/study/NCT02659384) | Fasa 2 | Selesai | 122 | Atezolizumab + Bevacizumab ± Aspirin dalam kanser ovari/peritoneal yang tahan platinum. Menilai PFS pada 6 bulan merentas 5 lengan rawatan untuk memilih kombinasi optimum. |
+| [NCT04670978](https://clinicaltrials.gov/study/NCT04670978) | Fasa 2 | Tidak diketahui | 96 | Abraxane + biosimilar Bevacizumab dalam kanser ovari/peritoneal berulang yang tahan platinum. Langsung menilai keberkesanan bevacizumab dalam tetapan refraktori. |
+| [NCT02873962](https://clinicaltrials.gov/study/NCT02873962) | Fasa 2 | Aktif | 73 | Nivolumab + Bevacizumab ± Rucaparib dalam kanser ovari/peritoneal yang relaps. Meneroka kombinasi imuno-onkologi + anti-angiogenik. |
+| [NCT01097746](https://clinicaltrials.gov/study/NCT01097746) | Fasa 2 | Selesai | 33 | Bevacizumab + Karboplatin + Paklitaksel mingguan sebagai rawatan barisan pertama dalam kanser ovari/peritoneal/tiub fallopi. |
+| [NCT05445778](https://clinicaltrials.gov/study/NCT05445778) | Fasa 3 | Merekrut | 520 | **GLORIOSA**: Mirvetuximab Soravtansine + Bevacizumab vs Bevacizumab sahaja sebagai penyelenggaraan dalam kanser ovari/peritoneal berulang yang tahan platinum. |
+| [NCT06824467](https://clinicaltrials.gov/study/NCT06824467) | Fasa 3 | Merekrut | 770 | **TroFuse-022**: Sacituzumab Tirumotecan ± Bevacizumab vs penjagaan standard selepas kemoterapi platinum barisan kedua dalam kanser ovari berulang yang tahan platinum. |
 
 ---
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [30905627](https://pubmed.ncbi.nlm.nih.gov/30905627/) | 2019 | Clinical Guideline | Eur J Obstet Gynecol Reprod Biol | French clinical practice guidelines (FRANCOGYN/CNGOF) for management of epithelial ovarian/peritoneal cancer, including bevacizumab-based regimens. |
-| [24476788](https://pubmed.ncbi.nlm.nih.gov/24476788/) | 2014 | Phase II Trial | Gynecol Oncol | Oxaliplatin + Docetaxel + Bevacizumab as first-line therapy for advanced ovarian/peritoneal cancer. Demonstrated safety and efficacy of the novel combination. |
-| [40690248](https://pubmed.ncbi.nlm.nih.gov/40690248/) | 2025 | Review | JAMA | Comprehensive review of ovarian cancer including peritoneal involvement. Bevacizumab identified as standard component of first-line and recurrent treatment regimens. |
-| [39168966](https://pubmed.ncbi.nlm.nih.gov/39168966/) | 2024 | Translational Research | Nat Commun | Gut microbiota as biomarker for response to Atezolizumab + Bevacizumab in mesothelioma (including peritoneal). Novel predictive approach for anti-VEGF therapy. |
-| [38328890](https://pubmed.ncbi.nlm.nih.gov/38328890/) | 2024 | Retrospective/Cohort | Future Oncol | Bevacizumab efficacy in low-grade serous ovarian cancer: ORR 54.1%, median PFS 15 months. Supports activity across histological subtypes. |
-| [38644553](https://pubmed.ncbi.nlm.nih.gov/38644553/) | 2024 | Narrative Review | Ann Palliat Med | Review of malignant ascites management. Bevacizumab discussed as key intervention for VEGF-driven ascites in peritoneal carcinomatosis. |
-| [30936025](https://pubmed.ncbi.nlm.nih.gov/30936025/) | 2019 | Clinical Guideline | J Gynecol Obstet Hum Reprod | French guidelines Part 2: systemic/IP treatment for ovarian/peritoneal cancer. Recommends bevacizumab in first-line and recurrent settings. |
-| [38238055](https://pubmed.ncbi.nlm.nih.gov/38238055/) | 2024 | Protocol | BMJ Open | INTERACT-II: IP irinotecan + FOLFOX + Bevacizumab for unresectable colorectal peritoneal metastases. Explores bevacizumab in peritoneal-specific setting. |
-| [30450291](https://pubmed.ncbi.nlm.nih.gov/30450291/) | 2018 | Review | Transl Lung Cancer Res | Review of malignant peritoneal mesothelioma. Discusses anti-angiogenic strategies including bevacizumab in peritoneal malignancies. |
-| [28139261](https://pubmed.ncbi.nlm.nih.gov/28139261/) | 2017 | Retrospective | Gynecol Oncol | Bevacizumab-containing regimens in recurrent low-grade serous ovarian/peritoneal cancer. Demonstrated clinical activity in this difficult-to-treat subtype. |
+| [30905627](https://pubmed.ncbi.nlm.nih.gov/30905627/) | 2019 | Garis Panduan Klinis | Eur J Obstet Gynecol Reprod Biol | Garis panduan amalan klinis Perancis (FRANCOGYN/CNGOF) untuk pengurusan kanser epitelial ovari/peritoneal, termasuk rejimen berasaskan bevacizumab. |
+| [24476788](https://pubmed.ncbi.nlm.nih.gov/24476788/) | 2014 | Uji Kaji Fasa II | Gynecol Oncol | Oksaliplatinum + Doktaksel + Bevacizumab sebagai terapi barisan pertama untuk kanser ovari/peritoneal lanjutan. Menunjukkan keselamatan dan keberkesanan kombinasi baru. |
+| [40690248](https://pubmed.ncbi.nlm.nih.gov/40690248/) | 2025 | Tinjauan | JAMA | Tinjauan komprehensif kanser ovari termasuk penglibatan peritoneal. Bevacizumab dikenal pasti sebagai komponen standard dalam rejimen barisan pertama dan berulang. |
+| [39168966](https://pubmed.ncbi.nlm.nih.gov/39168966/) | 2024 | Penyelidikan Translasi | Nat Commun | Mikrobiot usus sebagai penanda untuk tindak balas terhadap Atezolizumab + Bevacizumab dalam mesoteliona (termasuk peritoneal). Pendekatan ramalan baru untuk terapi anti-VEGF. |
+| [38328890](https://pubmed.ncbi.nlm.nih.gov/38328890/) | 2024 | Retrospektif/Kohort | Future Oncol | Keberkesanan bevacizumab dalam kanser ovari serus berpangkat rendah: ORR 54.1%, PFS median 15 bulan. Menyokong aktiviti merentas subtip histologi. |
+| [38644553](https://pubmed.ncbi.nlm.nih.gov/38644553/) | 2024 | Tinjauan Naratif | Ann Palliat Med | Tinjauan pengurusan askitis maligna. Bevacizumab dibincangkan sebagai campur tangan utama untuk askitis yang didorong VEGF dalam karsinomatosis peritoneal. |
+| [30936025](https://pubmed.ncbi.nlm.nih.gov/30936025/) | 2019 | Garis Panduan Klinis | J Gynecol Obstet Hum Reprod | Garis panduan Perancis Bahagian 2: rawatan sistemik/IP untuk kanser ovari/peritoneal. Mengesyorkan bevacizumab dalam tetapan barisan pertama dan berulang. |
+| [38238055](https://pubmed.ncbi.nlm.nih.gov/38238055/) | 2024 | Protokol | BMJ Open | INTERACT-II: Irinotekan IP + FOLFOX + Bevacizumab untuk metastasis peritoneal kolorektal yang tidak boleh disembuhkan. Meneroka bevacizumab dalam tetapan khusus peritoneal. |
+| [30450291](https://pubmed.ncbi.nlm.nih.gov/30450291/) | 2018 | Tinjauan | Transl Lung Cancer Res | Tinjauan mesoteliona peritoneal maligna. Membincangkan strategi anti-angiogenik termasuk bevacizumab dalam keganasan peritoneal. |
+| [28139261](https://pubmed.ncbi.nlm.nih.gov/28139261/) | 2017 | Retrospektif | Gynecol Oncol | Rejimen yang mengandungi bevacizumab dalam kanser ovari/peritoneal serus berpangkat rendah yang berulang. Menunjukkan aktiviti klinis dalam subtip ini yang sukar dirawati. |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
 |---------|------|------|-----------|
-| (Details not available) | — | — | — |
-| (Details not available) | — | — | — |
-| (Details not available) | — | — | — |
-| (Details not available) | — | — | — |
-| (Details not available) | — | — | — |
+| (Butiran tidak tersedia) | — | — | — |
+| (Butiran tidak tersedia) | — | — | — |
+| (Butiran tidak tersedia) | — | — | — |
+| (Butiran tidak tersedia) | — | — | — |
+| (Butiran tidak tersedia) | — | — | — |
 
-> **Note:** 9 product registrations are recorded in the Malaysia market with "Marketed" status, but detailed authorization numbers, product names, dosage forms, and approved indication texts were not available in the data source at the time of this report. Further verification with NPRA records is recommended.
+> **Nota:** 9 pendaftaran produk direkodkan dalam pasaran Malaysia dengan status "Dipasarkan", tetapi nombor kebenaran terperinci, nama produk, bentuk dos, dan teks indikasi yang diluluskan tidak tersedia dalam sumber data pada masa laporan ini. Pengesahan lanjut dengan rekod NPRA disyorkan.
 
 ---
 
-## Cytotoxicity
+## Sitotoksisiti
 
-| Item | Content |
+| Perkara | Kandungan |
 |------|------|
-| Cytotoxicity Classification | Targeted therapy (Anti-VEGF humanised monoclonal antibody) |
-| Myelosuppression Risk | Low as monotherapy; moderate when combined with myelosuppressive chemotherapy (neutropenia, thrombocytopenia reported in combination regimens) |
-| Emetogenicity Classification | Low (minimal emetogenic potential as monotherapy) |
-| Monitoring Items | Blood pressure (every 2–3 weeks), urinalysis for proteinuria, CBC with differential, hepatic and renal function, wound healing assessment pre-/post-surgery |
-| Handling Protection | Standard biologic handling procedures; does not require conventional cytotoxic drug handling precautions as it is a monoclonal antibody, not a genotoxic agent |
+| Klasifikasi Sitotoksisiti | Terapi tersasarkan (antibodi monoklonal anti-VEGF manusia) |
+| Risiko Supresi Sumsum Tulang | Rendah sebagai monoterapi; sederhana apabila digabungkan dengan kemoterapi yang menekan sumsum tulang (neutropenia, trombositopenia dilaporkan dalam rejimen kombinasi) |
+| Klasifikasi Emetogenisiti | Rendah (potensi emetogenik minimal sebagai monoterapi) |
+| Item Pemantauan | Tekanan darah (setiap 2–3 minggu), analisis air kencing untuk proteinuria, CBC dengan pembezaan, fungsi hepatik dan ginjal, penilaian penyembuhan luka sebelum/selepas pembedahan |
+| Perlindungan Pengendalian | Prosedur pengendalian biologi standard; tidak memerlukan prekusi pengendalian ubat sitotoksik konvensional kerana ia adalah antibodi monoklonal, bukan agen genotoksik |
 
 ---
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-> Please refer to the package insert for safety information. Key warnings, contraindications, and drug–drug interaction data were not available in the current evidence pack.
+> Sila rujuk sisipan pakej untuk maklumat keselamatan. Data amaran utama, kontraindikasi, dan interaksi ubat-ubat tidak tersedia dalam pakej bukti semasa.
 
-**Known class-effect concerns for bevacizumab (from published literature) include:**
-- **Hypertension** — dose-related, requires active monitoring and antihypertensive management
-- **Proteinuria** — monitor urine protein; discontinue for nephrotic syndrome
-- **Gastrointestinal perforation** — risk increased in patients with peritoneal carcinomatosis
-- **Wound healing complications** — withhold bevacizumab ≥28 days before elective surgery
-- **Thromboembolic events** — arterial events (stroke, MI) and venous thromboembolism
-- **Haemorrhage** — including CNS and pulmonary haemorrhage in at-risk populations
+**Kebimbangan kesan-kelas yang diketahui untuk bevacizumab (daripada literatur terbitan) termasuk:**
+- **Hipertensi** — bergantung dos, memerlukan pemantauan aktif dan pengurusan antihipertensi
+- **Proteinuria** — pantau protein air kencing; hentikan untuk sindrom nefrotik
+- **Perforasi gastrousus** — risiko meningkat dalam pesakit dengan karsinomatosis peritoneal
+- **Komplikasi penyembuhan luka** — tangguhkan bevacizumab ≥28 hari sebelum pembedahan elektif
+- **Peristiwa tromboembolik** — peristiwa arterial (strok, MI) dan tromboembolisme vena
+- **Pendarahan** — termasuk pendarahan CNS dan paru dalam populasi berisiko
 
 ---
 
-## Additional Predicted Indications Summary
+## Ringkasan Indikasi Diprediksi Tambahan
 
-| Rank | Disease | Evidence Level | Recommendation | Key Rationale |
+| Kedudukan | Penyakit | Tahap Bukti | Cadangan | Rasional Utama |
 |------|---------|---------------|----------------|---------------|
-| 1 | Peritoneum Cancer | L1 | Proceed with Guardrails | Multiple completed Phase 3 RCTs; mechanistically aligned |
-| 2 | Hereditary Breast Ovarian Cancer Syndrome | L4 | Hold | No direct clinical trials; bevacizumab does not target BRCA pathway |
-| 3 | Malignant Epithelial Tumour of Ovary | L1 | Proceed with Guardrails | GOG-0218, ICON7 landmark trials; already approved indication in many jurisdictions |
-| 4 | Primary Peritoneal Carcinoma | L1 | Proceed with Guardrails | Included in pivotal ovarian cancer trials; identical molecular profile |
-| 5 | Breast Neoplasm | L1 | Proceed with Guardrails | E2100 showed PFS benefit; however, FDA revoked breast cancer indication due to lack of OS benefit — proceed with caution |
+| 1 | Kanser Peritoneum | L1 | Teruskan dengan Penjaga Keselamatan | Pelbagai RCT Fasa 3 yang telah selesai; selaras secara mekanik |
+| 2 | Sindrom Kanser Payudara Ovari Keturunan | L4 | Tahan | Tiada uji kaji klinis langsung; bevacizumab tidak menyasarkan laluan BRCA |
+| 3 | Tumor Epitelial Maligna Ovari | L1 | Teruskan dengan Penjaga Keselamatan | Uji kaji pemarkah GOG-0218, ICON7; sudah merupakan indikasi yang diluluskan di banyak bidang kuasa |
+| 4 | Karsinoma Peritoneal Primer | L1 | Teruskan dengan Penjaga Keselamatan | Disertakan dalam uji kaji ovari utama; profil molekul sama dengan kanser ovari serus berpangkat tinggi |
+| 5 | Neoplasma Payudara | L1 | Teruskan dengan Penjaga Keselamatan | E2100 menunjukkan manfaat PFS; bagaimanapun, FDA membatalkan indikasi kanser payudara kerana kekurangan manfaat OS — teruskan dengan berhati-hati |
 
 ---
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Proceed with Guardrails**
+**Keputusan: Teruskan dengan Penjaga Keselamatan**
 
-**Rationale:**
-Bevacizumab has an exceptionally strong evidence base for peritoneum cancer, with multiple completed Phase III RCTs (GOG-0218, ICON7, AURELIA) enrolling >3,700 patients collectively and demonstrating significant progression-free survival benefits. Primary peritoneal carcinoma is already an accepted eligible population in bevacizumab's ovarian cancer labelling in many jurisdictions. The mechanistic rationale — VEGF-driven angiogenesis and malignant ascites in the peritoneal microenvironment — is well-established and clinically validated.
+**Rasional:**
+Bevacizumab mempunyai asas bukti yang luar biasa kuat untuk kanser peritoneum, dengan pelbagai RCT Fasa III yang telah selesai (GOG-0218, ICON7, AURELIA) yang mendaftarkan >3,700 pesakit secara kolektif dan menunjukkan manfaat kelangsungan tanpa perkembangan yang ketara. Karsinoma peritoneal primer sudah merupakan populasi yang boleh diterima dalam pelabelan kanser ovari bevacizumab di banyak bidang kuasa. Rasional mekanik — angiogenesis yang didorong VEGF dan askitis maligna dalam persekitaran mikroperitoneal — sudah mantap dan disahkan secara klinis.
 
-**To proceed, the following is needed:**
-- Obtain detailed Malaysia NPRA registration information (authorization numbers, approved indications) to confirm local regulatory status
-- Retrieve complete package insert safety data (warnings, contraindications, drug interactions) to enable formal safety assessment (currently a blocking data gap — DG001)
-- Obtain detailed mechanism of action data from DrugBank to strengthen the mechanistic rationale documentation (DG002)
-- Confirm whether "peritoneum cancer" as a standalone indication is covered under existing ovarian cancer approval, or whether a separate indication pathway is required
-- Develop a safety monitoring plan addressing GI perforation risk (elevated in peritoneal disease), hypertension, and proteinuria
-- Establish clear patient selection criteria and clinical governance framework for any off-label use
+**Untuk meneruskan, yang berikut diperlukan:**
+- Dapatkan maklumat pendaftaran NPRA Malaysia yang terperinci (nombor kebenaran, indikasi yang diluluskan) untuk mengesahkan status kawal selia tempatan
+- Ambil data keselamatan sisipan pakej yang lengkap (amaran, kontraindikasi, interaksi ubat) untuk membolehkan penilaian keselamatan formal (kini merupakan jurang data yang menghalang — DG001)
+- Dapatkan data mekanisme tindakan terperinci daripada DrugBank untuk memperkuat dokumentasi rasional mekanik (DG002)
+- Sahkan sama ada "kanser peritoneum" sebagai indikasi tersendiri dilindungi di bawah kelulusan kanser ovari sedia ada, atau sama ada laluan indikasi yang berasingan diperlukan
+- Bangunkan rancangan pemantauan keselamatan yang menangani risiko perforasi GI (meningkat dalam penyakit peritoneal), hipertensi, dan proteinuria
+- Tetapkan kriteria pemilihan pesakit yang jelas dan rangka kerja tadbir urus klinis untuk sebarang penggunaan luar label
 
 ---
 
-*Disclaimer: This report is for research purposes only and does not constitute medical advice. Drug repurposing candidates require clinical validation before application. All data current as of 2026-04-09.*
+*Penafian: Laporan ini adalah untuk tujuan penyelidikan sahaja dan tidak merupakan nasihat perubatan. Calon penyusunan semula ubat memerlukan pengesahan klinis sebelum aplikasi. Semua data semasa sehingga 2026-04-09.*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

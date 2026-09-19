@@ -29,62 +29,63 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Mebendazole: From Parasitic Infections to Acne
+# Mebendazole: Dari Jangkitan Parasit ke Jerawat
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Mebendazole is a benzimidazole anthelmintic, originally used to treat parasitic worm infections by inhibiting parasite β-tubulin polymerization. The TxGNN model predicts it may be effective for **Acne**, but this direction is currently supported by only **0 clinical trials** and **1 loosely related publication** (a case report that merely mentions "acne-like lesions" as a symptom of an unrelated parasitic disease, not actual anti-acne evidence).
+Mebendazole adalah agen antelmintik benzimidazol, awalnya digunakan untuk merawat jangkitan cacing parasit dengan menghambat polimerisasi β-tubulin parasit. Model TxGNN meramalkan bahawa ia mungkin berkesan untuk **Jerawat**, tetapi arah ini pada masa ini hanya disokong oleh **0 uji klinik** dan **1 penerbitan yang longgar berkaitan** (laporan kes yang hanya menyebut "lesi seperti jerawat" sebagai simptom penyakit parasit yang tidak berkaitan, bukan bukti anti-jerawat sebenar).
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
+| Perkara | Kandungan |
 |------|------|
-| Original Indication | Parasitic infections (anthelmintic use) |
-| Predicted New Indication | Acne |
-| TxGNN Prediction Score | 99.20% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 13 |
-| Recommended Decision | Hold |
+| Indikasi Asal | Jangkitan parasit (penggunaan antelmintik) |
+| Indikasi Baharu yang Diramalkan | Jerawat |
+| Skor Ramalan TxGNN | 99.20% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 13 |
+| Keputusan yang Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data is not available. Based on known information, mebendazole is a benzimidazole-class anthelmintic that acts by inhibiting β-tubulin polymerization in parasites, disrupting their microtubule-dependent glucose uptake and cellular structure. No original indication text was retrievable from the Malaysia registration records for this evaluation.
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia. Berdasarkan maklumat yang diketahui, mebendazole adalah agen antelmintik kelas benzimidazol yang bertindak dengan menghambat polimerisasi β-tubulin dalam parasit, mengganggu pengambilan glukosa dan struktur sel yang bergantung pada mikrotubul mereka. Tiada teks indikasi asal yang dapat diambil daripada rekod pendaftaran Malaysia untuk penilaian ini.
 
-There is currently no known pharmacological rationale linking this microtubule-inhibition mechanism to acne pathophysiology (sebaceous gland inflammation, sebum production, or *C. acnes* bacterial colonization). The TxGNN score of 99.20% reflects a structural association within the knowledge graph rather than a mechanistically validated relationship, and should be interpreted as a hypothesis-generating signal only, not as evidence of clinical efficacy.
+Pada masa ini tiada rasional farmakologi yang diketahui menghubungkan mekanisme perencatan mikrotubul ini kepada patofisiologi jerawat (keradangan kelenjar sebum, pengeluaran sebum, atau penjajahan bakteria *C. acnes*). Skor TxGNN 99.20% mencerminkan persatuan struktur dalam graf pengetahuan dan bukannya hubungan yang disahkan secara mekanik, dan harus ditafsirkan sebagai isyarat penjanaan hipotesis sahaja, bukan sebagai bukti keberkesanan klinik.
 
-The single literature record identified (PMID 7072899) is a 1982 case report of human proliferative sparganosis — an unrelated parasitic disease — in which "acne-like lesions" is used only as a descriptive term for the patient's skin nodules, not as evidence that mebendazole treats acne. This underscores that the prediction currently lacks any direct supporting evidence.
+Rekod literatur tunggal yang dikenal pasti (PMID 7072899) adalah laporan kes 1982 sparganosis proliferatif manusia — penyakit parasit yang tidak berkaitan — di mana "lesi seperti jerawat" digunakan hanya sebagai istilah deskriptif untuk nodol kulit pesakit, bukan sebagai bukti bahawa mebendazole merawat jerawat. Ini menekankan bahawa ramalan pada masa ini kekurangan sebarang bukti sokongan langsung.
 
-## Clinical Trial Evidence
+## Bukti Uji Klinik
 
-Currently no related clinical trials registered.
+Pada masa ini tiada uji klinik berkaitan yang didaftarkan.
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [7072899](https://pubmed.ncbi.nlm.nih.gov/7072899/) | 1982 | Case Report | The American Journal of Tropical Medicine and Hygiene | Case report of human proliferative sparganosis with "acne-like" skin nodules as a symptom descriptor; not a study of mebendazole treating acne |
+| [7072899](https://pubmed.ncbi.nlm.nih.gov/7072899/) | 1982 | Laporan Kes | The American Journal of Tropical Medicine and Hygiene | Laporan kes sparganosis proliferatif manusia dengan nodol kulit seperti "jerawat" sebagai deskriptor simptom; bukan kajian mebendazole merawat jerawat |
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Mebendazole is marketed in Malaysia with 13 active registrations, but detailed product-level records (license number, product name, dosage form, approved indication text) are not available in the current data set.
+Mebendazole dipasarkan di Malaysia dengan 13 pendaftaran aktif, tetapi rekod terperinci peringkat produk (nombor lesen, nama produk, bentuk dos, teks indikasi yang diluluskan) tidak tersedia dalam set data semasa.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The prediction rests solely on a knowledge-graph score with no supporting clinical trials and no directly relevant literature; the one retrieved publication is unrelated to acne treatment. Safety data (warnings, contraindications) are also missing, which blocks any initial safety assessment (S1).
+**Rasional:**
+Ramalan bergantung semata-mata pada skor graf pengetahuan tanpa uji klinik sokongan dan tiada literatur yang berkaitan secara langsung; penerbitan yang diambil semula itu tidak berkaitan dengan rawatan jerawat. Data keselamatan (amaran, kontraindikasi) juga hilang, yang menghalang sebarang penilaian keselamatan awal (S1).
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert data — warnings and contraindications (currently blocking)
-- Detailed mechanism of action (MOA) data from DrugBank
-- Original indication text from Malaysia registration records
-- Dedicated preclinical or clinical evidence directly evaluating mebendazole in acne, rather than incidental literature mentions
+**Untuk meneruskan, yang berikut diperlukan:**
+- Data sisipan pakej TFDA/NPRA — amaran dan kontraindikasi (sedang menyekat)
+- Data mekanisme tindakan terperinci (MOA) daripada DrugBank
+- Teks indikasi asal daripada rekod pendaftaran Malaysia
+- Bukti pra-klinik atau klinik khusus yang secara langsung menilai mebendazole dalam jerawat, bukan penyebutan literatur yang kebetulan
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

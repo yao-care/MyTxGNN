@@ -29,70 +29,71 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Dacarbazine: From Established Oncology Indications to Upper Aerodigestive Tract Neoplasm
+# Dakarbazin: Dari Indikasi Onkologi yang Sudah Mapan kepada Neoplasma Saluran Aerodigestif Atas
 
-## One-Sentence Summary
+## Ringkasan Satu Kalimat
 
-Dacarbazine is an alkylating chemotherapy agent already marketed in Taiwan, with established use in cancers such as melanoma, Hodgkin lymphoma, and soft tissue sarcoma. The TxGNN model predicts it may be effective for **Upper Aerodigestive Tract Neoplasm**, but this prediction is currently supported by **no clinical trials and no literature**, and rests solely on knowledge-graph similarity.
+Dakarbazin adalah ejen kemoterapia alkilasi yang sudah dipasarkan di Taiwan, dengan penggunaan yang sudah terbukti dalam kanker seperti melanoma, limfoma Hodgkin, dan sarkoma jaringan lunak. Model TxGNN memprediksi bahawa ia mungkin efektif untuk **Neoplasma Saluran Aerodigestif Atas**, tetapi prediksi ini pada masa ini disokong oleh **tiada ujian klinis dan tiada literatur**, dan hanya bergantung pada kesamaan grafik pengetahuan semata.
 
-## Quick Overview
+## Ringkasan Cepat
 
-| Item | Content |
-|------|------|
-| Original Indication | Not extracted from Taiwan license data (license text unavailable); known established uses include melanoma, Hodgkin lymphoma, and soft tissue sarcoma |
-| Predicted New Indication | Upper Aerodigestive Tract Neoplasm |
-| TxGNN Prediction Score | 99.26% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Tidak diekstrak daripada data lesen Taiwan (teks lesen tidak tersedia); penggunaan yang telah diketahui termasuk melanoma, limfoma Hodgkin, dan sarkoma jaringan lunak |
+| Indikasi Baru yang Diprediksi | Neoplasma Saluran Aerodigestif Atas |
+| Skor Prediksi TxGNN | 99.26% |
+| Tahap Bukti | L5 |
+| Status Pasar Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 2 |
+| Keputusan yang Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Prediksi Ini Masuk Akal?
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on known information, dacarbazine is an alkylating agent that acts through DNA methylation to inhibit tumour cell proliferation, and it is clinically established for melanoma, Hodgkin lymphoma, and soft tissue sarcoma.
+Pada masa ini, data mekanisme kerja yang terperinci tidak tersedia dalam pakej bukti ini. Berdasarkan maklumat yang diketahui, dakarbazin adalah ejen alkilasi yang bekerja melalui metilasi DNA untuk menghalang proliferasi sel tumor, dan secara klinis sudah terbukti untuk melanoma, limfoma Hodgkin, dan sarkoma jaringan lunak.
 
-The histological and tumour-biology overlap between these approved indications and upper aerodigestive tract neoplasms (predominantly squamous cell carcinomas of the head and neck, larynx, and esophagus) is limited. Without confirmed mechanism-of-action data, the biological rationale for extending dacarbazine to this indication cannot be independently verified at this time.
+Pertindihan histologi dan biologi tumor antara indikasi yang sudah diluluskan ini dan neoplasma saluran aerodigestif atas (terutamanya karsinoma sel skuamosa kepala dan leher, laring, dan esofagus) adalah terbatas. Tanpa data mekanisme kerja yang terkonfirmasi, alasan biologis untuk memperluas dakarbazin ke indikasi ini tidak dapat diverifikasi secara mandiri pada masa ini.
 
-The TxGNN score of 99.26% reflects knowledge-graph embedding similarity only — it is not derived from mechanistic or clinical validation, and should be interpreted as a hypothesis-generating signal rather than evidence of efficacy.
+Skor TxGNN 99.26% mencerminkan kesamaan embedding grafik pengetahuan semata — ia bukan berasal daripada pengesahan mekanisme atau klinis, dan harus ditafsirkan sebagai isyarat yang menghasilkan hipotesis dan bukannya bukti keberkesanan.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinis
 
-Currently no related clinical trials registered
+Pada masa ini tiada ujian klinis berkaitan yang didaftarkan
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no related literature available
+Pada masa ini tiada literatur berkaitan yang tersedia
 
-## Malaysia Market Information
+## Maklumat Pasar Malaysia
 
-Dacarbazine holds 2 registered licenses in Taiwan (market status: marketed), but detailed license fields (product name, dosage form, manufacturer, approved indication text) are not populated in this evidence pack.
+Dakarbazin memegang 2 lesen terdaftar di Taiwan (status pasar: dipasarkan), tetapi bidang lesen terperinci (nama produk, bentuk dos, pengeluar, teks indikasi yang diluluskan) tidak diisi dalam pakej bukti ini.
 
-## Cytotoxicity
+## Sitotoksisitas
 
-| Item | Content |
-|------|------|
-| Cytotoxicity Classification | Conventional cytotoxic (Alkylating agent) |
-| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
-| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | Please refer to the package insert warnings and precautions |
-| Handling Protection | Standard cytotoxic drug handling precautions apply; please refer to institutional protocols |
+| Item | Kandungan |
+|------|----------|
+| Klasifikasi Sitotoksisitas | Sitotoksik konvensional (Ejen Alkilasi) |
+| Risiko Supresi Sumsum Tulang | Sila rujuk amaran dan tindakan pencegahan dalam prospektus |
+| Klasifikasi Emetogenisitas | Sila rujuk amaran dan tindakan pencegahan dalam prospektus |
+| Item Pemantauan | Sila rujuk amaran dan tindakan pencegahan dalam prospektus |
+| Perlindungan Penanganan | Tindakan pencegahan penanganan ubat sitotoksik standard digunakan; sila rujuk protokol institusional |
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk prospektus untuk maklumat keselamatan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-This candidate has no supporting clinical trials or literature, no confirmed mechanism-of-action data linking dacarbazine to upper aerodigestive tract neoplasms, and a blocking gap in TFDA label/safety data — the prediction currently rests on knowledge-graph similarity alone (L5, decision stage S0).
+**Alasan:**
+Calon ini tidak mempunyai ujian klinis atau literatur yang menyokong, tiada data mekanisme kerja yang terkonfirmasi yang menghubungkan dakarbazin dengan neoplasma saluran aerodigestif atas, dan terdapat celah pemblokiran dalam data label/keselamatan TFDA — prediksi pada masa ini hanya bergantung pada kesamaan grafik pengetahuan semata (L5, tahap keputusan S0).
 
-**To proceed, the following is needed:**
-- TFDA package insert (warnings, contraindications) — currently blocking safety review
-- Confirmed mechanism of action data from DrugBank or primary literature
-- Targeted clinical trial and PubMed searches for dacarbazine in head/neck, laryngeal, or esophageal cancer
-- Complete Taiwan license detail fields (product name, dosage form, approved indication text)
+**Untuk meneruskan, yang berikut diperlukan:**
+- Prospektus pakej TFDA (amaran, kontraindikasi) — pada masa ini menghalang kajian keselamatan
+- Data mekanisme kerja yang terkonfirmasi daripada DrugBank atau literatur utama
+- Carian ujian klinis dan PubMed yang ditujukan untuk dakarbazin dalam kanser kepala/leher, laring, atau esofagus
+- Bidang lesen Taiwan terperinci yang lengkap (nama produk, bentuk dos, teks indikasi yang diluluskan)
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,75 +29,76 @@ Tahap bukti: **L5** | Indikasi diramal: **9**
 
 </div>
 
-# Deferiprone: From Iron Overload (Thalassemia) to Hepatic Porphyria
+# Deferiprone: Dari Beban Besi (Talasemia) ke Porfira Hepatik
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-> Deferiprone is an oral iron chelator; based on general drug knowledge (Ferriprox) it is used for transfusional iron overload in thalassemia, though this evidence pack's own `original_indications` field is currently a data gap. The TxGNN model's top-ranked prediction is **Hepatic Porphyria**, but this is supported by **0 clinical trials** and **0 publications** — the model's own rationale flags it as a possible false-positive driven by graph-embedding clustering rather than a genuine pharmacological signal.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Iron overload in thalassemia (background knowledge, referenced in this pack's rank-8 rationale as the Ferriprox-approved use; **not sourced from TFDA/NPRA data** — `original_indications` is a data gap) |
-| Predicted New Indication | Hepatic Porphyria |
-| TxGNN Prediction Score | 99.20% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 6 |
-| Recommended Decision | Hold |
+> Deferiprone ialah chelator besi oral; berdasarkan pengetahuan ubat am (Ferriprox), ia digunakan untuk beban besi transfusi dalam talasemia, walaupun medan `original_indications` dalam pakej bukti ini sedang menjadi jurang data. Ramalan berada di kedudukan teratas model TxGNN ialah **Porfira Hepatik**, tetapi ini disokong oleh **0 uji klinik** dan **0 penerbitan** — rasional model sendiri menandakannya sebagai kemungkinan positif palsu yang didorong oleh pengelompokan embedding graf daripada isyarat farmakologi tulen.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Cepat
 
-Currently, detailed mechanism of action data is not available (`original_moa` = Data Gap). Based on the TxGNN rationale provided in this pack, deferiprone is a selective ferric-iron chelator, and hepatic porphyria involves disruption of the heme biosynthesis pathway, for which iron is a required cofactor. This gives a theoretical, indirect pathway link between the drug's known pharmacology and the predicted disease.
-
-However, the directionality of this link is explicitly unclear in the underlying rationale: excessive iron chelation could just as plausibly worsen certain porphyria subtypes by inducing iron deficiency, rather than helping. There is no clinical, preclinical, or case-report evidence in this evidence pack to resolve that ambiguity.
-
-It is also worth noting that ranks 2–6 in the predicted-indications list (idiopathic copper-associated cirrhosis, portal hypertension, hepatoportal sclerosis, portal vein thrombosis, hepatopulmonary syndrome) all carry an almost identical score (~0.99196) to each other and lack any drug-specific mechanistic rationale. The evidence pack's own annotations attribute this to TxGNN knowledge-graph clustering of "liver disease" nodes rather than a real, drug-specific pharmacological signal — a pattern that also raises caution about the top-ranked hepatic porphyria prediction, since it sits in the same score band.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Beban besi dalam talasemia (pengetahuan latar belakang, dirujuk dalam rasional kedudukan ke-8 pakej ini sebagai penggunaan yang diluluskan Ferriprox; **tidak bersumber daripada data TFDA/NPRA** — `original_indications` ialah jurang data) |
+| Indikasi Baru yang Diramal | Porfira Hepatik |
+| Skor Ramalan TxGNN | 99.20% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 6 |
+| Keputusan yang Disarankan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available.
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia (`original_moa` = Jurang Data). Berdasarkan rasional TxGNN yang disediakan dalam pakej ini, deferiprone ialah chelator besi ferik yang selektif, dan porfira hepatik melibatkan gangguan laluan biosintesis hem, yang mana besi diperlukan sebagai kofaktor. Ini memberikan pautan laluan teori, tidak langsung antara farmakologi ubat yang diketahui dan penyakit yang diramal.
 
----
+Bagaimanapun, arah pautan ini dijelaskan secara eksplisit tidak jelas dalam rasional asas: chelasi besi yang berlebihan boleh sama munasabahnya memburukkan subtype porfira tertentu dengan menyebabkan kekurangan besi, daripada membantu. Tiada bukti klinikal, praklinik, atau laporan kes dalam pakej bukti ini untuk menyelesaikan ketidakjelasan tersebut.
 
-## Malaysia Market Information
-
-The evidence pack records 6 total registrations with market status "Marketed" (Marketed), but the 5 license entries returned contain no populated fields (license number, product name, dosage form, manufacturer, and indication text are all blank) — this is a data gap in the source query, not an absence of registrations. License-level detail needs to be re-collected from NPRA before it can be reported here.
+Adalah juga patut dinyatakan bahawa kedudukan 2–6 dalam senarai indikasi-ramalan (sirosis yang berkaitan dengan tembaga idiopatik, hipertensi portal, sklerosis hepatoportal, trombosis vena portal, sindrom hepatopulmoner) semua membawa skor hampir sama (~0.99196) satu sama lain dan kekurangan sebarang rasional mekanik khusus ubat. Anotasi pakej bukti sendiri mengaitkan ini dengan pengelompokan nod "penyakit hati" graf pengetahuan TxGNN daripada isyarat farmakologi nyata yang khusus ubat — corak yang juga menimbulkan hati-hati tentang ramalan porfira hepatik berpangkat teratas, kerana ia berada dalam jalur skor yang sama.
 
 ---
 
-## Safety Considerations
+## Bukti Uji Klinik
 
-Please refer to the package insert for safety information.
+Pada masa ini, tiada uji klinik yang terkait didaftarkan.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Kesusasteraan
 
-**Decision: Hold**
+Pada masa ini, tiada kesusasteraan yang terkait tersedia.
 
-**Rationale:**
-The top-ranked prediction (hepatic porphyria) is supported only by an L5, model-only score with zero clinical trials or literature, and the mechanistic rationale itself flags directional uncertainty — iron chelation could plausibly worsen some porphyria subtypes rather than treat them. Several neighboring predictions in the same score band show signs of being graph-clustering artifacts rather than genuine signals, which further undermines confidence in this specific rank-1 result.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert warnings and contraindications (DG001, blocking — required before any S1 safety screening)
-- Confirmed mechanism of action data from DrugBank (DG002)
-- Preclinical or mechanistic studies clarifying the *direction* of iron-chelation effects across porphyria subtypes before considering hepatic porphyria as a repurposing candidate
-- Confirmation of `original_indications` (currently empty) — note that **beta-thalassemia with other manifestations (rank 8)** appears to be deferiprone's already-approved use (Ferriprox), not a genuinely new indication; this should be verified so it is not miscounted as a repurposing candidate
-- Populated Malaysia license/indication data to replace the current blank entries
+## Maklumat Pasaran Malaysia
+
+Pakej bukti merekodkan 6 jumlah pendaftaran keseluruhan dengan status pasaran "Dipasarkan" (Dipasarkan), tetapi 5 entri lesen yang dikembalikan tidak mengandungi medan yang diisi (nombor lesen, nama produk, bentuk dos, pengilang, dan teks indikasi semuanya kosong) — ini ialah jurang data dalam pertanyaan sumber, bukan ketiadaan pendaftaran. Butiran peringkat lesen perlu dikumpul semula daripada NPRA sebelum ia boleh dilaporkan di sini.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan paket untuk maklumat keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Ramalan berpangkat teratas (porfira hepatik) disokong hanya oleh skor L5, model sahaja tanpa uji klinik atau kesusasteraan, dan rasional mekanik itu sendiri menandakan ketidakjelasan arah — chelasi besi boleh munasabahnya memburukkan beberapa subtype porfira daripada merawatnya. Beberapa ramalan jiran dalam jalur skor yang sama menunjukkan tanda-tanda menjadi artifak pengelompokan graf daripada isyarat tulen, yang seterusnya melemahkan keyakinan dalam hasil kedudukan pertama khusus ini.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Amaran sisipan paket TFDA/NPRA dan kontraindikasi (DG001, menghalang — diperlukan sebelum mana-mana screening keselamatan S1)
+- Data mekanisme tindakan yang disahkan daripada DrugBank (DG002)
+- Kajian praklinik atau mekanik yang menjelaskan *arah* kesan chelasi besi merentas subtype porfira sebelum mempertimbangkan porfira hepatik sebagai calon penggunaan semula
+- Pengesahan `original_indications` (sedang kosong) — perhatian bahawa **talasemia beta dengan manifestasi lain (kedudukan 8)** nampaknya penggunaan deferiprone yang sudah diluluskan (Ferriprox), bukan indikasi yang benar-benar baru; ini harus disahkan supaya ia tidak disalah kira sebagai calon penggunaan semula
+- Data lesen/indikasi Malaysia yang diisi untuk menggantikan entri kosong semasa
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,85 +29,86 @@ Tahap bukti: **L3** | Indikasi diramal: **10**
 
 </div>
 
-# Lacosamide: From Epilepsy (Partial-Onset Seizures) to Manic Bipolar Affective Disorder
+# Lacosamide: Dari Epilepsi (Kejang Partial-Onset) ke Gangguan Afektif Bipolar Manik
 
-## One-Sentence Summary
+## Ringkasan Satu Kalimat
 
-Lacosamide is a third-generation antiepileptic drug (AED) whose approved use is for partial-onset (focal) seizures. The TxGNN model predicts it may be effective for **Manic Bipolar Affective Disorder**, but the current evidence base — 1 clinical trial and 14 publications retrieved — predominantly addresses **bipolar depression**, not the manic phase specifically, so the disease-direction match needs confirmation before this can be treated as strong support.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Epilepsy — partial-onset (focal) seizures (adjunctive/monotherapy); *Malaysia-specific approved indication text unavailable — NPRA license records for this pull are empty* |
-| Predicted New Indication | Manic Bipolar Affective Disorder |
-| TxGNN Prediction Score | 99.96% |
-| Evidence Level | L3 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 4 |
-| Recommended Decision | Hold |
+Lacosamide adalah obat antiepilepsi generasi ketiga (AED) yang penggunaannya yang disetujui adalah untuk kejang partial-onset (fokal). Model TxGNN memprediksi bahwa ia mungkin efektif untuk **Gangguan Afektif Bipolar Manik**, tetapi basis bukti saat ini — 1 uji klinis dan 14 publikasi yang diambil — terutama mengatasi **depresi bipolar**, bukan fase manik secara khusus, jadi kecocokan arah penyakit perlu konfirmasi sebelum ini dapat dianggap sebagai dukungan yang kuat.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Ikhtisar Cepat
 
-Currently, detailed mechanism of action data is not available for Lacosamide (`original_moa` is a data gap). Based on information surfaced within the literature evidence itself, Lacosamide selectively enhances the slow inactivation of voltage-gated sodium channels, producing extended stabilisation of neuronal cell membranes (PMID 28845834) — the same general mechanism by which other AEDs (valproate, lamotrigine, carbamazepine) act as mood stabilisers in bipolar disorder. This gives a class-level precedent for repurposing an AED into psychiatric indications.
-
-However, the disease-direction match is imprecise: the predicted indication is specifically "manic" bipolar disorder, but nearly all supporting evidence (the ongoing Phase 3 trial, the retrospective cohort study, and the open-label pilot) targets **bipolar depression**, not mania. One retrospective study did report improvement in both depressive and manic symptoms in an open-label setting, so a mechanistic link to mood stabilisation broadly is plausible, but indication-specific (manic-phase) evidence is currently thin.
-
-**Note:** Among the 10 TxGNN-predicted indications in this evidence pack, rank 5 ("migraine disorder") has substantially stronger supporting evidence (Evidence Level L1, 6 clinical trials including 3 completed Phase 2/3 RCTs directly testing lacosamide) than this rank-1 candidate. If evaluating which candidate to prioritize for investment, migraine disorder warrants separate review.
-
----
-
-## Clinical Trial Evidence
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT07412132](https://clinicaltrials.gov/study/NCT07412132) | Phase 3 | Recruiting | 40 | Evaluates lacosamide as augmentation to first-/second-line treatment for moderate-to-severe major depressive episodes in Bipolar Disorder Types I and II (randomized, double-blind, parallel-group); tests depressive-episode efficacy, not the manic phase specifically. |
+| Item | Konten |
+|------|--------|
+| Indikasi Asli | Epilepsi — kejang partial-onset (fokal) (adjuvan/monoterapi); *Teks indikasi yang disetujui NPRA khusus Malaysia tidak tersedia — rekam jejak lisensi NPRA untuk pull ini kosong* |
+| Indikasi Baru yang Diprediksi | Gangguan Afektif Bipolar Manik |
+| Skor Prediksi TxGNN | 99.96% |
+| Tingkat Bukti | L3 |
+| Status Pasar Malaysia | ✓ Dipasarkan |
+| Jumlah Pendaftaran | 4 |
+| Keputusan yang Direkomendasikan | Tunggu |
 
 ---
 
-## Literature Evidence
+## Mengapa Prediksi Ini Masuk Akal?
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [30251375](https://pubmed.ncbi.nlm.nih.gov/30251375/) | 2018 | Retrospective cohort | Psychiatry Clin Neurosci | 30-day comparison of lacosamide vs. other antiepileptics in bipolar disorder patients without epilepsy — direct comparative clinical evidence. |
-| [33666402](https://pubmed.ncbi.nlm.nih.gov/33666402/) | 2021 | Open-label pilot trial | J Clin Psychopharmacol | 12-week open-label pilot assessing efficacy/safety of lacosamide for bipolar depression. |
-| [28845834](https://pubmed.ncbi.nlm.nih.gov/28845834/) | 2017 | Case report | Acta Biomed | Clinical stabilisation of mood disorder comorbid with PTSD and fronto-temporal epilepsy using lacosamide; describes sodium-channel slow-inactivation mechanism. |
-| [30275630](https://pubmed.ncbi.nlm.nih.gov/30275630/) | 2018 | Case report (adverse event) | Indian J Psychol Med | Lacosamide-precipitated neutropenia in a patient with bipolar disorder and comorbid epilepsy. |
-| [38304661](https://pubmed.ncbi.nlm.nih.gov/38304661/) | 2024 | Case report | Cureus | Bipolar I patient with multiple comorbidities including seizure-like activity; contextual case, not a treatment efficacy study. |
-| [29957667](https://pubmed.ncbi.nlm.nih.gov/29957667/) | 2018 | Review | Ther Drug Monit | Review of therapeutic drug monitoring for AEDs; notes AEDs are also used for bipolar disorder management generally. |
-| [32693579](https://pubmed.ncbi.nlm.nih.gov/32693579/) | 2020 | Review | ACS Chem Neurosci | Review of CRMP2 druggability, relevant to the sodium-channel/CRMP2 mechanism shared across AED mood applications. |
+Saat ini, data mekanisme aksi terperinci tidak tersedia untuk Lacosamide (`original_moa` adalah kesenjangan data). Berdasarkan informasi yang muncul dalam bukti literatur itu sendiri, Lacosamide secara selektif meningkatkan inaktivasi lambat dari saluran natrium yang bergantung pada tegangan, menghasilkan stabilisasi lanjutan dari membran sel saraf (PMID 28845834) — mekanisme umum yang sama dengan obat AED lain (valproate, lamotrigine, carbamazepine) yang bertindak sebagai penstabil suasana hati dalam gangguan bipolar. Ini memberikan preseden tingkat kelas untuk menggunakan kembali AED ke indikasi psikiatri.
+
+Namun, kecocokan arah penyakit tidak presisi: indikasi yang diprediksi secara khusus adalah gangguan bipolar "manik", tetapi hampir semua bukti pendukung (uji klinis Phase 3 yang sedang berlangsung, studi kohort retrospektif, dan pilot terbuka) menargetkan **depresi bipolar**, bukan mania. Satu studi retrospektif memang melaporkan peningkatan pada gejala depresif dan manik dalam pengaturan terbuka, jadi tautan mekanis untuk penstabilan suasana hati secara luas masuk akal, tetapi bukti khusus indikasi (fase manik) saat ini tipis.
+
+**Catatan:** Di antara 10 indikasi yang diprediksi TxGNN dalam paket bukti ini, rangking 5 ("migraine disorder") memiliki bukti pendukung yang jauh lebih kuat (Tingkat Bukti L1, 6 uji klinis termasuk 3 uji klinis RCT Phase 2/3 yang selesai langsung menguji lacosamide) daripada kandidat rangking-1 ini. Jika mengevaluasi kandidat mana yang akan diprioritaskan untuk investasi, migraine disorder menjamin tinjauan terpisah.
 
 ---
 
-## Malaysia Market Information
+## Bukti Uji Klinis
 
-NPRA records confirm Lacosamide is marketed in Malaysia with **4 active licenses**, but the detailed license fields (authorization number, product name, dosage form, approved indication text) were all returned empty in this data pull — this is a data gap, not an absence of registration.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information. (No key warnings, contraindications, or drug interaction data were retrievable in this pull — TFDA/NPRA label data is flagged as a **Blocking** data gap, DG001.)
+| Nomor Uji | Fase | Status | Pendaftaran | Temuan Utama |
+|---------|-----|-------|------|---------|
+| [NCT07412132](https://clinicaltrials.gov/study/NCT07412132) | Fase 3 | Merekrut | 40 | Mengevaluasi lacosamide sebagai augmentasi untuk pengobatan lini pertama/kedua untuk episode depresif berat hingga sedang dalam Gangguan Bipolar Tipe I dan II (kelompok paralel, double-blind, acak); menguji efikasi episode depresif, bukan fase manik secara khusus. |
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Hold**
+| PMID | Tahun | Jenis | Jurnal | Temuan Utama |
+|------|-----|------|--------|---------|
+| [30251375](https://pubmed.ncbi.nlm.nih.gov/30251375/) | 2018 | Kohort retrospektif | Psychiatry Clin Neurosci | Perbandingan 30 hari lacosamide vs. antiepilepsi lain pada pasien gangguan bipolar tanpa epilepsi — bukti klinis komparatif langsung. |
+| [33666402](https://pubmed.ncbi.nlm.nih.gov/33666402/) | 2021 | Uji pilot terbuka | J Clin Psychopharmacol | Pilot terbuka 12 minggu menilai efikasi/keamanan lacosamide untuk depresi bipolar. |
+| [28845834](https://pubmed.ncbi.nlm.nih.gov/28845834/) | 2017 | Laporan kasus | Acta Biomed | Stabilisasi klinis gangguan suasana hati yang menyertai PTSD dan epilepsi fronto-temporal menggunakan lacosamide; mendeskripsikan mekanisme inaktivasi lambat saluran natrium. |
+| [30275630](https://pubmed.ncbi.nlm.nih.gov/30275630/) | 2018 | Laporan kasus (peristiwa buruk) | Indian J Psychol Med | Neutropenia yang dipicu lacosamide pada pasien dengan gangguan bipolar dan epilepsi komorbid. |
+| [38304661](https://pubmed.ncbi.nlm.nih.gov/38304661/) | 2024 | Laporan kasus | Cureus | Pasien Bipolar I dengan multiple komorbiditas termasuk kejang-like activity; laporan kontekstual, bukan studi efikasi pengobatan. |
+| [29957667](https://pubmed.ncbi.nlm.nih.gov/29957667/) | 2018 | Tinjauan | Ther Drug Monit | Tinjauan pemantauan obat terapi untuk AED; mencatat bahwa AED juga digunakan untuk manajemen gangguan bipolar secara umum. |
+| [32693579](https://pubmed.ncbi.nlm.nih.gov/32693579/) | 2020 | Tinjauan | ACS Chem Neurosci | Tinjauan druggability CRMP2, relevan dengan mekanisme saluran natrium/CRMP2 yang dibagikan di seluruh aplikasi mood AED. |
 
-**Rationale:**
-Evidence Level L3 with only a single, small (n=40), still-recruiting Phase 3 trial and no completed RCTs specific to the manic phase is insufficient to progress. The strongest existing evidence targets bipolar *depression*, not the *manic* episodes named by this predicted indication — the disease-direction match itself needs confirmation. Additionally, TFDA/NPRA safety label data (warnings/contraindications) is a Blocking gap, which prevents any S1 safety pre-screen.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert (warnings and contraindications) — Blocking gap (DG001)
-- DrugBank-sourced mechanism of action data — High-priority gap (DG002)
-- Confirmation of indication direction: manic-phase-specific evidence, vs. the depression-phase evidence currently available
-- Results from NCT07412132 upon completion (expected 2027-01)
-- Complete NPRA license detail (product names, dosage forms, approved indication text) for the 4 registered licenses
+## Informasi Pasar Malaysia
+
+Catatan NPRA mengkonfirmasi Lacosamide dipasarkan di Malaysia dengan **4 lisensi aktif**, tetapi bidang lisensi terperinci (nomor otorisasi, nama produk, bentuk dosis, teks indikasi yang disetujui) semuanya dikembalikan kosong dalam pull data ini — ini adalah kesenjangan data, bukan ketiadaan pendaftaran.
+
+---
+
+## Pertimbangan Keselamatan
+
+Silakan merujuk ke vademekum untuk informasi keselamatan. (Tidak ada data peringatan utama, kontraindikasi, atau interaksi obat yang dapat diambil dalam pull ini — data label TFDA/NPRA ditandai sebagai kesenjangan data **Memblokir**, DG001.)
+
+---
+
+## Kesimpulan dan Langkah-Langkah Berikutnya
+
+**Keputusan: Tunggu**
+
+**Alasan:**
+Tingkat Bukti L3 dengan hanya satu uji klinis Phase 3 kecil (n=40), masih merekrut, dan tidak ada RCT yang selesai khusus untuk fase manik tidak cukup untuk melanjutkan. Bukti yang paling kuat yang ada menargetkan depresi *bipolar*, bukan episode *manik* yang dinamai oleh indikasi yang diprediksi ini — kecocokan arah penyakit itu sendiri memerlukan konfirmasi. Selain itu, data label keselamatan TFDA/NPRA (peringatan/kontraindikasi) adalah kesenjangan yang Memblokir, yang mencegah pre-screen keselamatan S1 apa pun.
+
+**Untuk melanjutkan, berikut diperlukan:**
+- Vademekum TFDA/NPRA (peringatan dan kontraindikasi) — Kesenjangan Memblokir (DG001)
+- Data mekanisme aksi yang bersumber dari DrugBank — Kesenjangan prioritas tinggi (DG002)
+- Konfirmasi arah indikasi: bukti khusus fase-manik, vs. bukti fase-depresi yang tersedia saat ini
+- Hasil dari NCT07412132 setelah selesai (diperkirakan 2027-01)
+- Detail lisensi NPRA lengkap (nama produk, bentuk dosis, teks indikasi yang disetujui) untuk 4 lisensi terdaftar
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

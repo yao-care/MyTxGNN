@@ -29,89 +29,90 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Tobramycin: From Bacterial Infections to Superior Limbic Keratoconjunctivitis
+# Tobramycin: Daripada Jangkitan Bakteria kepada Superior Limbic Keratoconjunctivitis
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Tobramycin is an aminoglycoside antibiotic historically used against susceptible Gram-negative (and some Gram-positive) bacterial infections, including ophthalmic and systemic indications. The TxGNN model's top-ranked prediction for this drug is **Superior Limbic Keratoconjunctivitis (SLK)**, but this candidate is currently supported by **0 clinical trials and 0 publications**, and the model's own prediction score is effectively zero — this is a model-only hypothesis with no corroborating evidence.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Susceptible bacterial infections (aminoglycoside antibiotic class) — specific NPRA-approved indication text was not retrieved in this data pull |
-| Predicted New Indication | Superior Limbic Keratoconjunctivitis |
-| TxGNN Prediction Score | 0.00% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 3 |
-| Recommended Decision | Hold |
+Tobramycin ialah antibiotik aminoglikosida yang secara tradisinya digunakan terhadap jangkitan bakteria yang sensitif (Gram-negatif dan beberapa Gram-positif), termasuk petunjuk oftalmik dan sistemik. Ramalan teratas model TxGNN untuk ubat ini ialah **Superior Limbic Keratoconjunctivitis (SLK)**, tetapi calon ini kini disokong oleh **0 ujian klinikal dan 0 penerbitan**, dan skor ramalan model itu sendiri adalah sifar — ini ialah hipotesis berasaskan model sahaja tanpa bukti sokongan.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Ringkas
 
-Currently, detailed mechanism of action data is not available for Tobramycin in this evidence pack (flagged as a High-severity data gap). Based on known pharmacology, Tobramycin is a bactericidal aminoglycoside that inhibits bacterial protein synthesis by binding the 30S ribosomal subunit, and it is used clinically against susceptible Gram-negative organisms (notably *Pseudomonas aeruginosa*) as well as some Gram-positive organisms.
-
-For the top-ranked candidate, Superior Limbic Keratoconjunctivitis, the evidence pack's own rationale is explicitly unfavorable: SLK's pathology is primarily mechanical (lid-conjunctival friction), thyroid-eye-disease-related, or dry-eye-related — it is **not a primarily infectious condition**. Tobramycin's antimicrobial mechanism therefore has no direct relevance to this disease process, and no clinical trial or literature evidence was found to support repurposing. This candidate should be treated as a model-generated hypothesis only.
-
-Notably, this evidence pack evaluated five candidate indications for Tobramycin. While the top TxGNN-ranked candidate (SLK) has essentially no supporting evidence, two lower-ranked candidates — **Escherichia coli infection** (rank 4) and **Bacterial meningitis** (rank 5) — are mechanistically consistent with Tobramycin's known antibacterial spectrum and are supported by real clinical trials and literature (see reference table below). These may warrant separate, dedicated evaluation.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for Superior Limbic Keratoconjunctivitis.
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Jangkitan bakteria yang sensitif (kelas antibiotik aminoglikosida) — teks petunjuk yang diluluskan NPRA khusus tidak diambil dalam pengambilan data ini |
+| Petunjuk Baru yang Diramalkan | Superior Limbic Keratoconjunctivitis |
+| Skor Ramalan TxGNN | 0.00% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 3 |
+| Keputusan yang Disyorkan | Tunggu |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available for Superior Limbic Keratoconjunctivitis.
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia untuk Tobramycin dalam pakej bukti ini (ditandakan sebagai jurang data keterukan tinggi). Berdasarkan farmakoloji yang diketahui, Tobramycin ialah aminoglikosida bakterisidal yang merencat sintesis protein bakteria dengan mengikat subunit ribosom 30S, dan ia digunakan secara klinikal terhadap organisma Gram-negatif yang sensitif (terutamanya *Pseudomonas aeruginosa*) serta beberapa organisma Gram-positif.
 
----
+Untuk calon teratas, Superior Limbic Keratoconjunctivitis, rasional pakej bukti itu sendiri adalah terang-terangan tidak menguntungkan: patologi SLK adalah terutamanya mekanikal (geseran kelopak mata-konjunktiva), berkaitan penyakit mata tiroid, atau berkaitan mata kering — ia **bukan keadaan yang terutamanya berjangkit**. Mekanisme antimikrob Tobramycin oleh itu tidak mempunyai kaitan langsung dengan proses penyakit ini, dan tiada bukti ujian klinikal atau kesusasteraan ditemui untuk menyokong penamaan semula tujuan. Calon ini harus dianggap sebagai hipotesis yang dijana model sahaja.
 
-## Malaysia Market Information
-
-NPRA records indicate Tobramycin currently holds **3 active registrations** in Malaysia (market status: Marketed / Marketed). However, itemized license details (authorization number, product name, dosage form, and approved indication text) were not returned in this data pull and cannot be tabulated at this time.
+Penting diperhatikan, pakej bukti ini menilai lima calon petunjuk untuk Tobramycin. Walaupun calon teratas pangkat TxGNN (SLK) mempunyai bukti sokongan yang hampir tiada, dua calon peringkat lebih rendah — **Jangkitan Escherichia coli** (pangkat 4) dan **Meningitis bakteria** (pangkat 5) — adalah konsisten mekanistik dengan spektrum antibakteria Tobramycin yang diketahui dan disokong oleh ujian klinikal dan kesusasteraan sebenar (lihat jadual rujukan di bawah). Ini mungkin memerlukan penilaian yang berasingan dan berdedikasi.
 
 ---
 
-## Other Candidate Indications (For Reference)
+## Bukti Ujian Klinikal
 
-The evidence pack also evaluated the following alternative predicted indications for Tobramycin, ranked by the TxGNN model. These are included for context since they carry materially stronger evidence than the top-ranked candidate above.
-
-| Rank | Disease | Evidence Level | Clinical Trials | Literature | Recommendation |
-|------|---------|----------------|------------------|------------|-----------------|
-| 2 | Acute contagious conjunctivitis | L5 | 0 | 0 | Hold |
-| 3 | Iridocyclitis | L4 | 0 | 2 | Hold |
-| 4 | Escherichia coli infection | L3 | 4 | 20 | Proceed with Guardrails |
-| 5 | Bacterial meningitis | L3 | 1 | 20 | Proceed with Guardrails |
+Pada masa ini tiada ujian klinikal berkaitan terdaftar untuk Superior Limbic Keratoconjunctivitis.
 
 ---
 
-## Safety Considerations
+## Bukti Kesusasteraan
 
-Please refer to the package insert for safety information.
-
-*(Note: key warnings, contraindications, and drug interaction data are currently a Blocking-severity data gap in this evidence pack — see Next Steps.)*
+Pada masa ini tiada kesusasteraan berkaitan tersedia untuk Superior Limbic Keratoconjunctivitis.
 
 ---
 
-## Conclusion and Next Steps
+## Maklumat Pasaran Malaysia
 
-**Decision: Hold**
+Rekod NPRA menunjukkan Tobramycin kini memegang **3 pendaftaran aktif** di Malaysia (status pasaran: Dipasarkan / Dipasarkan). Bagaimanapun, butiran lesen terperinci (nombor kebenaran, nama produk, bentuk dos, dan teks petunjuk yang diluluskan) tidak dikembalikan dalam pengambilan data ini dan tidak dapat dijadualkan pada masa ini.
 
-**Rationale:**
-The top TxGNN-ranked candidate indication, Superior Limbic Keratoconjunctivitis, has a near-zero prediction score, no supporting clinical trials or literature, and an explicitly non-infectious pathology that is mechanistically unrelated to Tobramycin's antibacterial action. In addition, TFDA/NPRA label warnings and contraindications are flagged as a Blocking data gap, which by itself prevents this candidate from entering initial safety review (S1).
+---
 
-**To proceed, the following is needed:**
-- Retrieve TFDA/NPRA label PDF for warnings, contraindications, and precautions (Blocking gap, DG001)
-- Obtain detailed mechanism of action data from DrugBank (High-severity gap, DG002)
-- Confirm the specific NPRA-approved indication text from license records (currently blank for all 3 registrations)
-- If repurposing interest continues, prioritize dedicated evaluation of the higher-evidence candidates (E. coli infection, bacterial meningitis) rather than the top-ranked SLK candidate
+## Petunjuk Calon Lain (Untuk Rujukan)
+
+Pakej bukti juga menilai petunjuk yang diramalkan alternatif berikut untuk Tobramycin, disusun mengikut pangkat model TxGNN. Ini disertakan untuk konteks kerana ia membawa bukti yang jauh lebih kuat daripada calon teratas di atas.
+
+| Pangkat | Penyakit | Tahap Bukti | Ujian Klinikal | Kesusasteraan | Cadangan |
+|---------|---------|-----------|-----------------|--------------|----------|
+| 2 | Konjunktivitis menular akut | L5 | 0 | 0 | Tunggu |
+| 3 | Iridosiklitis | L4 | 0 | 2 | Tunggu |
+| 4 | Jangkitan Escherichia coli | L3 | 4 | 20 | Teruskan dengan Penjaga |
+| 5 | Meningitis bakteria | L3 | 1 | 20 | Teruskan dengan Penjaga |
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan paket untuk maklumat keselamatan.
+
+*(Nota: amaran utama, kontraindikasi, dan data interaksi ubat-ubatan kini adalah jurang data berketerukan Pemblokiran dalam pakej bukti ini — lihat Langkah Seterusnya.)*
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tunggu**
+
+**Alasan:**
+Calon petunjuk teratas pangkat TxGNN, Superior Limbic Keratoconjunctivitis, mempunyai skor ramalan hampir sifar, tiada ujian klinikal atau kesusasteraan sokongan, dan patologi yang terang-terangan bukan berjangkit yang mekanistik tidak berkaitan dengan tindakan antibakteria Tobramycin. Sebagai tambahan, amaran label TFDA/NPRA dan kontraindikasi ditandakan sebagai jurang data Pemblokiran, yang dengan sendirinya menghalang calon ini daripada memasuki semakan keselamatan awal (S1).
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Ambil PDF label TFDA/NPRA untuk amaran, kontraindikasi, dan langkah berjaga-jaga (jurang Pemblokiran, DG001)
+- Dapatkan data mekanisme tindakan terperinci daripada DrugBank (jurang keterukan tinggi, DG002)
+- Sahkan teks petunjuk yang diluluskan NPRA khusus daripada rekod lesen (kini kosong untuk semua 3 pendaftaran)
+- Jika minat penamaan semula tujuan berterusan, utamakan penilaian berdedikasi calon yang mempunyai bukti lebih tinggi (jangkitan E. coli, meningitis bakteria) dan bukannya calon SLK teratas
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

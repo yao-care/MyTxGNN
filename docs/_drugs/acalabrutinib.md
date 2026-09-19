@@ -29,103 +29,104 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Acalabrutinib: Evidence Pack Incomplete – Prediction Data Pending
+# Acalabrutinib: Pakej Bukti Tidak Lengkap – Data Ramalan Belum Tiba
 
 ---
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Acalabrutinib (Calquence) is a second-generation Bruton's Tyrosine Kinase (BTK) inhibitor used for B-cell malignancies including chronic lymphocytic leukaemia (CLL) and mantle cell lymphoma (MCL).
-The current Evidence Pack (v4) contains **no TxGNN-predicted new indications** — the `predicted_indications` field is empty — meaning a formal repurposing evaluation cannot yet proceed.
-Two unresolved data gaps (missing package insert warnings and MOA data) must be addressed before this candidate can advance to screening.
+Acalabrutinib (Calquence) adalah penghambat Tyrosine Kinase Bruton (BTK) generasi kedua yang digunakan untuk keganasan sel B termasuk Leukaemia Limfositik Kronik (CLL) dan Limfoma Sel Mantel (MCL).
+Pakej Bukti semasa (v4) mengandungi **tiada petunjuk baru yang diramalkan oleh TxGNN** — medan `predicted_indications` kosong — bermakna penilaian penggunaan semula rasmi tidak dapat diteruskan lagi.
+Dua jurang data yang tidak diselesaikan (amaran sisipan pembungkus hilang dan data MOA) mesti ditangani sebelum calon ini dapat maju ke tahap pemeriksaan.
 
 ---
 
-## Quick Overview
+## Gambaran Keseluruhan Cepat
 
-| Item | Content |
+| Item | Kandungan |
 |------|---------|
-| Original Indication | B-cell malignancies (CLL, SLL, MCL) — from public knowledge; approved indication text not populated in Evidence Pack |
-| Predicted New Indication | Not available (prediction pipeline output is empty) |
-| TxGNN Prediction Score | Not available |
-| Evidence Level | Not assessable |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
-| Recommended Decision | **Hold** |
+| Petunjuk Asal | Keganasan sel B (CLL, SLL, MCL) — daripada pengetahuan umum; teks petunjuk yang diluluskan tidak diisi dalam Pakej Bukti |
+| Petunjuk Baru yang Diramalkan | Tidak tersedia (keluaran saluran ramalan kosong) |
+| Skor Ramalan TxGNN | Tidak tersedia |
+| Tahap Bukti | Tidak boleh dinilai |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 2 |
+| Keputusan yang Disyorkan | **Tahan** |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Wajar?
 
-No predicted indications are present in the current Evidence Pack. The `predicted_indications` array is empty, which prevents any formal repurposing hypothesis from being assessed at this time.
+Tiada petunjuk baru yang diramalkan hadir dalam Pakej Bukti semasa. Tatasusunan `predicted_indications` kosong, yang menghalang penilaian sebarang hipotesis penggunaan semula rasmi pada masa ini.
 
-From publicly available information, Acalabrutinib is a highly selective, irreversible BTK inhibitor that covalently binds to Cys481 within the BTK active site. This blocks B-cell receptor (BCR) downstream signalling — including PI3K/AKT and NF-κB pathways — which are essential for survival, proliferation, and homing of malignant B cells. Compared to first-generation BTK inhibitors such as ibrutinib, Acalabrutinib exhibits improved kinase selectivity, which reduces off-target effects and may widen its eventual repurposing profile.
+Daripada maklumat yang tersedia kepada umum, Acalabrutinib adalah penghambat BTK yang sangat selektif, tidak boleh balik yang mengikat secara kovalen kepada Cys481 dalam tapak aktif BTK. Ini menyekat isyarat hiliran penerima sel B (BCR) — termasuk laluan PI3K/AKT dan NF-κB — yang penting untuk kelangsungan hidup, pemperbanyakan, dan homing sel B ganas. Berbanding penghambat BTK generasi pertama seperti ibrutinib, Acalabrutinib menunjukkan kekhususan kinase yang lebih baik, yang mengurangkan kesan luar sasaran dan mungkin memperluas profil penggunaan semula pada masa hadapan.
 
-Once TxGNN prediction outputs become available, mechanistic plausibility can be formally evaluated. Domains where BTK inhibition has attracted early scientific interest beyond established haematological indications include autoimmune conditions (systemic lupus erythematosus, rheumatoid arthritis, multiple sclerosis) and selected solid tumours — but no recommendation can be made until prediction data is populated.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trial evidence can be presented for a repurposing indication — a target disease must first be identified from TxGNN prediction output before evidence can be retrieved and evaluated.
+Sebaik sahaja keluaran ramalan TxGNN tersedia, kebolehpercayaan mekanik boleh dinilai secara rasmi. Domain di mana perencatan BTK telah menarik minat saintifik awal di luar petunjuk hematologi yang ditegakkan termasuk keadaan autoimun (lupus eritematosus sistemik, artritis reumatoid, sklerosis berganda) dan tumor pepejal terpilih — tetapi tiada cadangan boleh dibuat sehingga data ramalan diisi.
 
 ---
 
-## Literature Evidence
+## Bukti Ujian Klinikal
 
-Currently no related literature can be presented for a repurposing indication — a target disease must first be identified from TxGNN prediction output before a PubMed search can be directed.
+Pada masa ini tiada bukti ujian klinikal berkaitan boleh dibentangkan untuk petunjuk penggunaan semula — penyakit sasaran mesti terlebih dahulu dikenal pasti daripada keluaran ramalan TxGNN sebelum bukti dapat dikumpul dan dinilai.
 
 ---
 
-## Malaysia Market Information
+## Bukti Kesusasteraan
 
-The NPRA query log (2026-03-27) confirms **2 active registrations** with a successful result status. However, the license detail fields were not populated in the current data extract. The table below reflects the raw state of the Evidence Pack.
+Pada masa ini tiada kesusasteraan berkaitan boleh dibentangkan untuk petunjuk penggunaan semula — penyakit sasaran mesti terlebih dahulu dikenal pasti daripada keluaran ramalan TxGNN sebelum carian PubMed dapat ditujukan.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+---
+
+## Maklumat Pasaran Malaysia
+
+Kueri log NPRA (2026-03-27) mengesahkan **2 pendaftaran aktif** dengan status hasil yang berjaya. Walau bagaimanapun, medan perincian lesen tidak diisi dalam ekstrak data semasa. Jadual di bawah mencerminkan keadaan mentah Pakej Bukti.
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjuk yang Diluluskan |
 |---------------------|--------------|-------------|---------------------|
-| (Not retrieved) | (Not retrieved) | (Not retrieved) | (Not retrieved) |
-| (Not retrieved) | (Not retrieved) | (Not retrieved) | (Not retrieved) |
+| (Tidak diambil) | (Tidak diambil) | (Tidak diambil) | (Tidak diambil) |
+| (Tidak diambil) | (Tidak diambil) | (Tidak diambil) | (Tidak diambil) |
 
-> **Action required:** Re-run the NPRA data extraction pipeline with license detail retrieval enabled to populate authorization numbers, product names, dosage forms, and approved indication text.
+> **Tindakan diperlukan:** Jalankan semula saluran ekstraksi data NPRA dengan pengambilan perincian lesen didayakan untuk mengisi nombor kebenaran, nama produk, bentuk dos, dan teks petunjuk yang diluluskan.
 
 ---
 
-## Cytotoxicity
+## Sitotoksisiti
 
-Acalabrutinib is an antineoplastic agent (BTK inhibitor; kinase inhibitor class targeting B-cell malignancies).
+Acalabrutinib adalah agen antineoplastik (penghambat BTK; kelas penghambat kinase yang menyasarkan keganasan sel B).
 
-| Item | Content |
+| Item | Kandungan |
 |------|---------|
-| Cytotoxicity Classification | Targeted therapy — BTK inhibitor (kinase inhibitor class; not conventional cytotoxic) |
-| Myelosuppression Risk | Moderate — neutropenia, anaemia, and thrombocytopenia are commonly reported adverse events in CLL/MCL trials |
-| Emetogenicity Classification | Low |
-| Monitoring Items | CBC with differential (baseline and periodic), liver function tests (ALT/AST), signs of bleeding/bruising, atrial fibrillation risk |
-| Handling Protection | Follow institutional cytotoxic/targeted oral therapy handling protocols; standard precautions apply |
+| Pengelasan Sitotoksisiti | Terapi tersasaran — penghambat BTK (kelas penghambat kinase; bukan sitotoksik konvensional) |
+| Risiko Supresi Sumsum | Sederhana — neutropenia, anemia, dan trombositopenia lazim dilaporkan sebagai peristiwa buruk dalam ujian CLL/MCL |
+| Pengelasan Emetogenisiti | Rendah |
+| Item Pemantauan | CBC dengan pembezaan (asas dan berkala), ujian fungsi hati (ALT/AST), tanda pendarahan/lebam, risiko fibrilasi atrium |
+| Perlindungan Pengendalian | Ikuti protokol pengendalian sitotoksik institusional/terapi oral tersasaran; tindakan piawai terpakai |
 
 ---
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Package insert warnings and contraindications were not retrieved in this Evidence Pack version (data gap DG001, severity: Blocking). No drug–drug interaction records were returned by the DDI query.
+Amaran sisipan pembungkus dan kontraindikasi tidak dikumpul dalam versi Pakej Bukti ini (jurang data DG001, keterukan: Menyekat). Tiada rekod interaksi ubat–ubat dikembalikan oleh kueri DDI.
 
-Please refer to the approved NPRA/TFDA package insert for complete safety information, including warnings for haemorrhage, infections, atrial fibrillation, and second primary malignancies — risks known from the Acalabrutinib clinical programme.
+Sila rujuk sisipan pembungkus NPRA/TFDA yang diluluskan untuk maklumat keselamatan lengkap, termasuk amaran untuk pendarahan, jangkitan, fibrilasi atrium, dan keganasan utama kedua — risiko yang diketahui daripada program klinikal Acalabrutinib.
 
 ---
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The Evidence Pack for Acalabrutinib (DB11703 / v4) is critically incomplete: the TxGNN prediction pipeline has not produced any candidate indications, and two unresolved data gaps — missing package insert safety data (Blocking) and missing MOA (High) — prevent the candidate from entering even the preliminary screening stage.
+**Rasional:**
+Pakej Bukti untuk Acalabrutinib (DB11703 / v4) adalah kritikal tidak lengkap: saluran ramalan TxGNN tidak menghasilkan sebarang petunjuk calon, dan dua jurang data yang tidak diselesaikan — data keselamatan sisipan pembungkus hilang (Menyekat) dan MOA hilang (Tinggi) — menghalang calon daripada memasuki peringkat ujian calon awal.
 
-**To proceed, the following is needed:**
+**Untuk meneruskan, perkara berikut diperlukan:**
 
-- **[Blocking – DG001]** Download and parse the NPRA/TFDA package insert PDF to extract key warnings and contraindications; this must be resolved before any safety pre-screen can run
-- **[High – DG002]** Query DrugBank API for DB11703 to retrieve the full Mechanism of Action description
-- **[Critical]** Diagnose and re-run the TxGNN prediction pipeline for Acalabrutinib to populate `predicted_indications`; without prediction output, no repurposing target exists
-- **[Recommended]** Re-run NPRA data extraction with full license detail retrieval to populate authorization numbers, dosage forms, and approved indication text
-- Once all gaps are resolved, regenerate this report as Evidence Pack v5 and proceed to standard S1–S4 evaluation workflow
+- **[Menyekat – DG001]** Muat turun dan analisis PDF sisipan pembungkus NPRA/TFDA untuk mengambil amaran dan kontraindikasi utama; ini mesti diselesaikan sebelum sebarang pra-ujian keselamatan dapat dijalankan
+- **[Tinggi – DG002]** Kueri API DrugBank untuk DB11703 untuk mendapatkan penerangan lengkap Mekanisme Tindakan
+- **[Kritikal]** Diagnosis dan jalankan semula saluran ramalan TxGNN untuk Acalabrutinib untuk mengisi `predicted_indications`; tanpa keluaran ramalan, tiada sasaran penggunaan semula wujud
+- **[Disyorkan]** Jalankan semula ekstraksi data NPRA dengan membolehkan pengambilan perincian lesen penuh untuk mengisi nombor kebenaran, bentuk dos, dan teks petunjuk yang diluluskan
+- Sebaik sahaja semua jurang diselesaikan, jana semula laporan ini sebagai Pakej Bukti v5 dan teruskan ke aliran kerja penilaian standard S1–S4
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

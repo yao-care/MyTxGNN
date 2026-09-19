@@ -29,90 +29,91 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Pivmecillinam Hydrochloride: From Urinary Tract Infection — No Repurposing Prediction Available
+# Pivmecillinam Hydrochloride: Daripada Jangkitan Saluran Kencing — Tiada Ramalan Penggunaan Semula Tersedia
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Pivmecillinam hydrochloride is an oral prodrug of mecillinam, a penicillin-class antibiotic classically used to treat uncomplicated urinary tract infections (UTIs) caused by gram-negative bacteria.
-The current Evidence Pack **does not contain any TxGNN repurposing predictions** for this drug — the predicted_indications array is empty — so no new indication can be evaluated at this time.
-One active registration is confirmed in Malaysia, but licence details and safety data remain incomplete and require remediation before any repurposing analysis can proceed.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Urinary tract infections (UTI) — based on pharmacological class; regulatory text unavailable in current pack |
-| Predicted New Indication | No prediction available |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 — Model prediction not yet generated |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | **Hold** |
+Pivmecillinam hydrochloride adalah ubat pro-ubat oral bagi mecillinam, sejenis antibiotik penisilin yang secara klasikal digunakan untuk merawat jangkitan saluran kencing (UTI) tanpa komplikasi yang disebabkan oleh bakteria gram-negatif.
+Pakej Bukti semasa **tidak mengandungi sebarang ramalan penggunaan semula TxGNN** untuk ubat ini — susunan predicted_indications adalah kosong — jadi tiada indikasi baru boleh dinilai pada masa ini.
+Satu pendaftaran aktif disahkan di Malaysia, tetapi butiran lesen dan data keselamatan masih tidak lengkap dan memerlukan pembaikan sebelum sebarang analisis penggunaan semula boleh diteruskan.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Pantas
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack (flagged as Data Gap DG002). Based on established pharmacology, pivmecillinam hydrochloride is a prodrug that is hydrolysed in vivo to mecillinam. Mecillinam selectively binds penicillin-binding protein 2 (PBP2) in gram-negative bacteria, disrupting cell wall synthesis and causing characteristic spheroplast formation — a mode of action distinct from other beta-lactams that target PBP1 or PBP3. This PBP2 selectivity gives it narrow but potent activity against *Enterobacteriaceae* such as *E. coli*, the dominant uropathogen.
-
-Because TxGNN predictions are absent from this Evidence Pack, no mechanistic bridge between pivmecillinam's known MOA and any candidate new indication can be constructed at this stage. The knowledge-graph traversal and deep-learning scoring steps have either not been run or their outputs were not included in this submission.
-
-A meaningful repurposing rationale will only be possible once: (a) the TxGNN pipeline is executed and `predicted_indications` is populated, and (b) the DrugBank entry is retrieved to confirm MOA, drug categories, and known interactions.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for a repurposing indication — TxGNN predictions are not yet available for this drug.
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Jangkitan saluran kencing (UTI) — berdasarkan kelas farmakologi; teks kawal selia tidak tersedia dalam pakej semasa |
+| Indikasi Baru yang Diramalkan | Tiada ramalan tersedia |
+| Skor Ramalan TxGNN | T/A |
+| Tahap Bukti | L5 — Ramalan model belum dijana |
+| Status Pasaran Malaysia | ✓ Dalam pasaran |
+| Bilangan Pendaftaran | 1 |
+| Keputusan Disarankan | **Tahan** |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available — a target indication must be identified from TxGNN output before a directed literature search can be conducted.
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia dalam Pakej Bukti ini (ditandai sebagai Jurang Data DG002). Berdasarkan farmakologi yang telah ditetapkan, pivmecillinam hydrochloride adalah ubat pro-ubat yang dihidrolisis in vivo kepada mecillinam. Mecillinam mengikat secara selektif kepada protein pengikat penisilin 2 (PBP2) dalam bakteria gram-negatif, mengganggu sintesis dinding sel dan menyebabkan pembentukan sfera yang ciri — suatu mod tindakan yang berbeza daripada beta-laktam lain yang menyasarkan PBP1 atau PBP3. Keterangan PBP2 ini memberikannya aktiviti yang sempit tetapi kuat terhadap *Enterobacteriaceae* seperti *E. coli*, uropathogen dominan.
+
+Kerana ramalan TxGNN tidak hadir dalam Pakej Bukti ini, tiada jambatan mekanistik antara MOA pivmecillinam yang diketahui dan sebarang indikasi baru calon boleh dibina pada peringkat ini. Langkah traversal graf-pengetahuan dan penilaian pembelajaran dalam (deep-learning) sama ada belum dijalankan atau output mereka tidak disertakan dalam penghantaran ini.
+
+Rasional penggunaan semula yang bermakna hanya akan mungkin sekali: (a) saluran paip TxGNN dijalankan dan `predicted_indications` dipenuhi, dan (b) entri DrugBank diambil semula untuk mengesahkan MOA, kategori ubat, dan interaksi yang diketahui.
 
 ---
 
-## Malaysia Market Information
+## Bukti Uji Klinis
 
-The Evidence Pack returns one confirmed registration; however, all structured fields (licence number, product name, dosage form, manufacturer, approved indication text) were returned as empty strings by the NPRA query. The record confirms market presence but is not yet parseable.
+Pada masa ini tiada uji klinis berkaitan terdaftar untuk indikasi penggunaan semula — ramalan TxGNN belum tersedia untuk ubat ini.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+---
+
+## Bukti Literatur
+
+Pada masa ini tiada literatur berkaitan tersedia — indikasi sasaran mesti dikenalpasti daripada output TxGNN sebelum carian literatur yang berarah boleh dijalankan.
+
+---
+
+## Maklumat Pasaran Malaysia
+
+Pakej Bukti mengembalikan satu pendaftaran yang disahkan; bagaimanapun, semua medan berstruktur (nombor lesen, nama produk, bentuk dos, pengilang, teks indikasi yang diluluskan) telah dikembalikan sebagai rentetan kosong oleh pertanyaan NPRA. Rekod mengesahkan kehadiran pasaran tetapi belum dapat diuraikan.
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
 |---------------------|-------------|-------------|---------------------|
-| (Not returned by NPRA query) | (Not returned) | (Not returned) | (Not returned) |
+| (Tidak dikembalikan oleh pertanyaan NPRA) | (Tidak dikembalikan) | (Tidak dikembalikan) | (Tidak dikembalikan) |
 
-> **Action required**: Re-query NPRA with the full product name or MAL number to retrieve complete licence details, or download the package insert PDF directly from the NPRA portal to recover indication text and warning information.
-
----
-
-## Safety Considerations
-
-All safety fields in the current Evidence Pack are flagged as gaps. No drug–drug interactions were found in the DDI query (0 results). Until the package insert is retrieved and parsed, no safety summary can be generated.
-
-> Please refer to the package insert for safety information. Two blocking/high-severity data gaps must be resolved before safety evaluation can proceed (see Conclusion below).
+> **Tindakan diperlukan**: Tanya semula NPRA dengan nama produk lengkap atau nombor MAL untuk mendapatkan butiran lesen lengkap, atau muat turun PDF sisipan pakej secara langsung daripada portal NPRA untuk memulihkan teks indikasi dan maklumat amaran.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Semua medan keselamatan dalam Paket Bukti semasa ditandai sebagai jurang. Tiada interaksi ubat-ubat ditemui dalam pertanyaan DDI (0 hasil). Sehingga sisipan pakej diambil semula dan diuraikan, tiada ringkasan keselamatan boleh dijana.
 
-**Rationale:**
-The Evidence Pack for pivmecillinam hydrochloride is structurally incomplete — there are no TxGNN repurposing predictions, no approved indication text from NPRA, and no MOA or safety data — making it impossible to evaluate any new indication with meaningful confidence.
-
-**To proceed, the following is needed:**
-
-- **[DG001 — Blocking]** Retrieve the NPRA/TFDA package insert PDF and parse warning language and contraindications; this is a prerequisite for S1 safety screening.
-- **[DG002 — High]** Query the DrugBank API using the INN "pivmecillinam" or "mecillinam" to confirm DrugBank ID, drug categories, MOA description, and toxicity data.
-- **[Pipeline gap]** Re-run the TxGNN KG + DL prediction pipeline with pivmecillinam as input drug to generate `predicted_indications`; without this output, the repurposing report cannot proceed past this Hold stage.
-- **[NPRA gap]** Re-query NPRA with the full product or MAL identifier to populate licence number, product name, dosage form, and approved indication text.
-- Once a top predicted indication is returned, initiate a directed ClinicalTrials.gov and PubMed evidence search to determine the true evidence level (L1–L5) and revise the decision recommendation accordingly.
+> Sila rujuk sisipan pakej untuk maklumat keselamatan. Dua jurang data penyekat/keterukan tinggi mesti diselesaikan sebelum penilaian keselamatan boleh diteruskan (lihat Kesimpulan di bawah).
 
 ---
 
-*This report is generated for research purposes only and does not constitute medical advice. All drug repurposing candidates require clinical validation before any therapeutic application.*
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Pakej Bukti untuk pivmecillinam hydrochloride tidak lengkap secara struktur — tiada ramalan penggunaan semula TxGNN, tiada teks indikasi yang diluluskan daripada NPRA, dan tiada data MOA atau keselamatan — menjadikan mustahil untuk menilai sebarang indikasi baru dengan keyakinan yang bermakna.
+
+**Untuk melanjutkan, perkara berikut diperlukan:**
+
+- **[DG001 — Penyekat]** Ambil semula PDF sisipan pakej NPRA/TFDA dan uraikan bahasa amaran dan kontraindikasi; ini adalah prasyarat untuk tapisan keselamatan S1.
+- **[DG002 — Tinggi]** Tanya API DrugBank menggunakan INN "pivmecillinam" atau "mecillinam" untuk mengesahkan ID DrugBank, kategori ubat, penerangan MOA, dan data toksisiti.
+- **[Jurang saluran paip]** Jalankan semula saluran paip ramalan TxGNN KG + DL dengan pivmecillinam sebagai ubat input untuk menjana `predicted_indications`; tanpa output ini, laporan penggunaan semula tidak boleh maju melepasi peringkat Tahan ini.
+- **[Jurang NPRA]** Tanya semula NPRA dengan pengecam produk atau MAL lengkap untuk melengkapkan nombor lesen, nama produk, bentuk dos, dan teks indikasi yang diluluskan.
+- Apabila indikasi teratas yang diramalkan dikembalikan, mulakan carian bukti ClinicalTrials.gov dan PubMed yang berarah untuk menentukan tahap bukti sebenar (L1–L5) dan ubah cadangan keputusan sewajarnya.
+
+---
+
+*Laporan ini dijana untuk tujuan penyelidikan sahaja dan tidak membentuk nasihat perubatan. Semua calon penggunaan semula ubat memerlukan pengesahan klinis sebelum sebarang aplikasi terapeutik.*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

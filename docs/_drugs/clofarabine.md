@@ -29,88 +29,89 @@ Tahap bukti: **L2** | Indikasi diramal: **10**
 
 </div>
 
-# Clofarabine: From Acute Lymphoblastic Leukemia to Myeloid Leukemia
+# Clofarabine: Dari Leukemia Limfoblas Akut ke Leukemia Mieloid
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Clofarabine is a purine nucleoside analog originally approved for relapsed/refractory pediatric acute lymphoblastic leukemia (ALL). The TxGNN model predicts it may also be effective for **Myeloid Leukemia**, with a prediction score of **99.88%**, but **0 clinical trials** and **0 publications** are currently captured in this evidence pack, so the mechanistic rationale is not yet backed by retrievable primary evidence.
+Clofarabine adalah analog purin nukleosida yang pada awalnya diluluskan untuk leukemia limfoblas akut (ALL) pediatrik yang relaps/resisten terhadap rawatan. Model TxGNN meramalkan bahawa ia mungkin juga berkesan untuk **Leukemia Mieloid**, dengan skor ramalan sebanyak **99.88%**, tetapi **0 uji klinikal** dan **0 penerbitan** kini ditangkap dalam pakej bukti ini, maka rasional mekanistik masih belum disokong oleh bukti utama yang boleh diambil.
 
 ---
 
-## Quick Overview
+## Tinjauan Pantas
 
-| Item | Content |
+| Perkara | Kandungan |
 |------|------|
-| Original Indication | Relapsed/refractory pediatric acute lymphoblastic leukemia (ALL) — known global indication; TFDA-specific approved indication text is unavailable in this pack (data gap) |
-| Predicted New Indication | Myeloid Leukemia |
-| TxGNN Prediction Score | 99.88% |
-| Evidence Level | L2 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+| Petunjuk Asal | Leukemia limfoblas akut (ALL) pediatrik yang relaps/resisten terhadap rawatan — petunjuk global yang diketahui; teks petunjuk khusus yang diluluskan TFDA tidak tersedia dalam pakej ini (jurang data) |
+| Petunjuk Baru Yang Diramalkan | Leukemia Mieloid |
+| Skor Ramalan TxGNN | 99.88% |
+| Tahap Bukti | L2 |
+| Status Pasaran Malaysia | ✓ Telah dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed mechanism-of-action data for this candidate is flagged as a data gap in this pack (DG002). Based on information available within the evidence pack itself, clofarabine is a second-generation purine nucleoside analog in the same pharmacological class as fludarabine and cladribine — it inhibits DNA polymerase and ribonucleotide reductase, driving apoptosis in leukemic blasts. Its efficacy in relapsed/refractory pediatric ALL has been established (FDA accelerated approval, 2004, based on a Phase 2 pivotal trial, as referenced in the rank-8 rationale of this pack).
+Data mekanisme tindakan terperinci untuk calon ini ditandai sebagai jurang data dalam pakej ini (DG002). Berdasarkan maklumat yang tersedia dalam pakej bukti itu sendiri, clofarabine adalah analog purin nukleosida generasi kedua dalam kelas farmakoloji yang sama dengan fludarabina dan kladribina — ia menghalang polimerase DNA dan reduktase ribonukleotida, mendorong apoptosis dalam blas leukemia. Keberkesanannya dalam leukemia limfoblas akut pediatrik yang relaps/resisten terhadap rawatan telah ditubuhkan (kelulusan bercepat FDA, 2004, berdasarkan ujian penting Fasa 2, seperti yang dirujuk dalam rasional kedudukan 8 pakej ini).
 
-Myeloid Leukemia is mechanistically adjacent to ALL: both are hematologic malignancies of blast-cell origin, and the same class of purine analogs already has an established role in myeloid disease — the evidence pack's own rationale references combination regimens with low-dose cytarabine in elderly AML/MDS as an active area of Phase 2/3 investigation. This supports biological plausibility for extending clofarabine's cytotoxic activity from lymphoid to myeloid blasts.
+Leukemia Mieloid adalah bersebelahan secara mekanistik dengan ALL: kedua-duanya adalah keganasan hematologi asal sel blas, dan kelas analog purin yang sama sudah mempunyai peranan yang ditubuhkan dalam penyakit mieloid — rasional pakej bukti ini sendiri merujuk kepada rejimen gabungan dengan sitarabina dos rendah dalam AML/MDS yang lebih tua sebagai kawasan penyiasatan Fasa 2/3 yang aktif. Ini menyokong kebolehpatutan biologi untuk memanjangkan aktiviti sitotoksik clofarabine daripada limfoid kepada blas mieloid.
 
-That said, this specific evidence pack did not retrieve any clinical trial or literature records for "myeloid leukemia" (ClinicalTrials.gov, ICTRP, and PubMed all returned 0 results per the query log). The mechanistic rationale therefore currently rests on class-effect reasoning rather than indication-specific primary evidence, which is why the evidence level is capped at L2 despite the high model confidence score.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+Walau bagaimanapun, pakej bukti khusus ini tidak mendapatkan sebarang rekod percubaan klinikal atau kesusasteraan untuk "leukemia mieloid" (ClinicalTrials.gov, ICTRP, dan PubMed semuanya mengembalikan 0 hasil mengikut log pertanyaan). Rasional mekanistik oleh itu kini bergantung pada penaakulan kesan kelas daripada bukti utama khusus petunjuk, yang adalah sebabnya tahap bukti dihadkan pada L2 walaupun skor keyakinan model yang tinggi.
 
 ---
 
-## Literature Evidence
+## Bukti Uji Klinikal
 
-Currently no related literature available.
-
----
-
-## Malaysia Market Information
-
-Malaysia (NPRA) regulatory data confirms **1 active registration** with market status "Marketed." However, the specific license number, product name, dosage form, and approved indication text are not populated in this evidence pack (extraction gap) — please consult the NPRA product registration database directly for the full label.
+Kini tiada uji klinikal berkaitan yang berdaftar.
 
 ---
 
-## Cytotoxicity
+## Bukti Kesusasteraan
 
-Clofarabine is a conventional cytotoxic antineoplastic agent (purine nucleoside analog / antimetabolite class), so this section applies.
+Kini tiada kesusasteraan berkaitan yang tersedia.
 
-| Item | Content |
+---
+
+## Maklumat Pasaran Malaysia
+
+Data kawal selia Malaysia (NPRA) mengesahkan **1 pendaftaran aktif** dengan status pasaran "Telah dipasarkan." Walau bagaimanapun, nombor lesen khusus, nama produk, bentuk dos, dan teks petunjuk yang diluluskan tidak diisi dalam pakej bukti ini (jurang ekstraksi) — sila rujuk pangkalan data pendaftaran produk NPRA secara langsung untuk label lengkap.
+
+---
+
+## Sitotoksisiti
+
+Clofarabine adalah ubat sitotoksik antineoplastik konvensional (analog purin nukleosida / kelas antimetabolit), maka bahagian ini terpakai.
+
+| Perkara | Kandungan |
 |------|------|
-| Cytotoxicity Classification | Conventional cytotoxic (purine nucleoside analog, same class as fludarabine and cladribine) |
-| Myelosuppression Risk | High (class-associated with severe myelosuppression); drug-specific toxicity detail not available — please refer to the package insert |
-| Emetogenicity Classification | Please refer to the package insert (no data available) |
-| Monitoring Items | CBC with differential, liver and renal function, neurological status (class-associated monitoring for purine analogs) |
-| Handling Protection | Must follow cytotoxic drug handling regulations as an antineoplastic agent |
+| Klasifikasi Sitotoksisiti | Sitotoksik konvensional (analog purin nukleosida, kelas yang sama dengan fludarabina dan kladribina) |
+| Risiko Myelos apresi | Tinggi (berkaitan kelas dengan myelo apresi teruk); butiran toksisiti khusus dadah tidak tersedia — sila rujuk risalah kemasan |
+| Klasifikasi Emetogenisiti | Sila rujuk risalah kemasan (tiada data tersedia) |
+| Item Pemantauan | CBC dengan pembezaan, fungsi hati dan buah pinggang, status neurologis (pemantauan berkaitan kelas untuk analog purin) |
+| Perlindungan Pengendalian | Mesti mematuhi peraturan pengendalian dadah sitotoksik sebagai ubat antineoplastik |
 
 ---
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk risalah kemasan untuk maklumat keselamatan.
 
 ---
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-- DG001 (TFDA/NPRA label warnings and contraindications) is a **Blocking** gap that prevents even an initial (S1) safety review, and no clinical trial or literature evidence for myeloid leukemia was retrievable in this pack despite a high TxGNN score. The prediction is mechanistically plausible (class effect with fludarabine/cladribine in myeloid disease) but not yet independently verifiable.
+**Rasional:**
+- DG001 (amaran label TFDA/NPRA dan kontraindikasi) adalah jurang **Pemblokiran** yang menghalang bahkan ulasan keselamatan awal (S1), dan tiada bukti ujian klinikal atau kesusasteraan untuk leukemia mieloid boleh diperoleh dalam pakej ini walaupun skor TxGNN yang tinggi. Ramalan ini secara mekanistik munasabah (kesan kelas dengan fludarabina/kladribina dalam penyakit mieloid) tetapi belum dapat disahkan secara bebas.
 
-**To proceed, the following is needed:**
-- Local (Malaysia/TFDA-equivalent) product label with warnings, contraindications, and DDI data (resolves DG001)
-- Confirmed mechanism-of-action reference from DrugBank or primary literature (resolves DG002)
-- Manual/expanded literature and trial search specifically for clofarabine in AML/MDS (the rationale references elderly AML/MDS + low-dose cytarabine studies not captured by the current automated query set)
-- Complete Malaysia license record (product name, dosage form, full approved indication text)
+**Untuk meneruskan, yang berikut diperlukan:**
+- Label produk tempatan (Malaysia/setara TFDA) dengan amaran, kontraindikasi, dan data DDI (menyelesaikan DG001)
+- Rujukan mekanisme-tindakan yang disahkan daripada DrugBank atau kesusasteraan utama (menyelesaikan DG002)
+- Carian kesusasteraan manual/dikembangkan khusus untuk clofarabine dalam AML/MDS (rasional merujuk kepada kajian AML/MDS usia tua + sitarabina dos rendah yang tidak ditangkap oleh set pertanyaan automatik semasa)
+- Rekod lesen Malaysia lengkap (nama produk, bentuk dos, teks petunjuk yang diluluskan penuh)
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

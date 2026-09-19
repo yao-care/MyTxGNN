@@ -29,93 +29,94 @@ Tahap bukti: **L5** | Indikasi diramal: **9**
 
 </div>
 
-# Piperacillin: From Bacterial Infections to Rheumatoid Arthritis
+# Piperacillin: Dari Jangkitan Bakteria ke Arthritis Reumatoid
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Piperacillin is a broad-spectrum beta-lactam antibiotic widely used to treat serious bacterial infections caused by both gram-positive and gram-negative organisms, most commonly administered as the piperacillin/tazobactam (Pip-Tazo) combination. The TxGNN model assigns it the highest prediction score of **99.94%** for **Rheumatoid Arthritis (RA)**, yet the 18 retrieved publications contain no direct evidence for piperacillin as an RA treatment — they uniformly describe its antibiotic use for *managing infections in* RA patients, pointing to a confounding signal rather than a genuine therapeutic opportunity.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Broad-spectrum bacterial infections (gram-positive and gram-negative pathogens) |
-| Predicted New Indication | Rheumatoid Arthritis |
-| TxGNN Prediction Score | 99.94% |
-| Evidence Level | L5 (model prediction only; no directly supportive studies exist) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 8 |
-| Recommended Decision | **Hold** |
+Piperacillin ialah antibiotik beta-lactam spektrum luas yang digunakan secara meluas untuk merawat jangkitan bakteria serius yang disebabkan oleh organisma gram-positif dan gram-negatif, paling lazim dibekalkan sebagai kombinasi piperacillin/tazobactam (Pip-Tazo). Model TxGNN memberikan skor ramalan tertinggi 99.94% untuk **Arthritis Reumatoid (AR)**, namun 18 penerbitan yang dipulihkan tidak mengandungi bukti langsung untuk piperacillin sebagai rawatan AR — mereka secara seragam menerangkan penggunaannya sebagai antibiotik untuk menguruskan jangkitan dalam pesakit AR, menunjukkan isyarat yang membingungkan daripada peluang terapeutik yang tulen.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Cepat
 
-Piperacillin is a penicillin-type beta-lactam antibiotic that exerts its action by covalently binding to penicillin-binding proteins (PBPs) on the bacterial cell surface, thereby inhibiting the final cross-linking step of peptidoglycan biosynthesis and causing cell wall disruption and bacterial lysis. It covers a broad range of clinically important pathogens including *Pseudomonas aeruginosa*, *Enterobacteriaceae*, and many streptococci. Detailed mechanistic data from DrugBank is not currently available for this report; however, its mechanism as a cell-wall synthesis inhibitor is well established in the pharmacological literature.
-
-The apparent TxGNN association between piperacillin and rheumatoid arthritis almost certainly reflects a **comorbidity confounding bias** baked into the knowledge graph. RA patients on methotrexate, JAK inhibitors, or biologics such as etanercept are systemically immunocompromised and frequently develop serious bacterial infections requiring empirical broad-spectrum antibiotic cover — for which piperacillin/tazobactam is a standard first-line choice. The model appears to have interpreted this frequent "RA patient ↔ piperacillin" co-occurrence in the biomedical literature as a therapeutic signal, when in reality piperacillin is treating infectious *complications of immunosuppression*, not RA itself.
-
-Some beta-lactam antibiotics have been reported in preclinical settings to possess modest immunomodulatory properties, including partial NF-κB pathway suppression and Toll-like receptor modulation. However, no direct mechanistic or clinical evidence exists for such effects with piperacillin in the context of autoimmune synovitis. Paradoxically, prolonged broad-spectrum antibiotic use disrupts gut microbiota homeostasis, which may worsen immune dysregulation in autoimmune conditions such as RA — making long-term use in this indication biologically counterproductive.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for piperacillin in rheumatoid arthritis.
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Jangkitan bakteria spektrum luas (patogen gram-positif dan gram-negatif) |
+| Petunjuk Baru yang Diramalkan | Arthritis Reumatoid |
+| Skor Ramalan TxGNN | 99.94% |
+| Tahap Bukti | L5 (ramalan model sahaja; tiada kajian yang menyokong secara langsung) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 8 |
+| Keputusan yang Disyorkan | **Tahan** |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-The 18 publications were retrieved by combining "piperacillin" with "rheumatoid arthritis" in a PubMed search. **None of these papers study piperacillin as a treatment for RA.** They document piperacillin used as an antibiotic to manage infections arising in immunosuppressed RA patients, or methotrexate-related complications in which piperacillin does not even appear. The 10 most informative entries are presented below for transparency:
+Piperacillin ialah antibiotik jenis penisilin beta-lactam yang mengeluarkan tindakannya dengan ikatan kovalen kepada protein yang mengikat penisilin (PBPs) pada permukaan sel bakteria, dengan itu merencat langkah paut silang akhir biosintesis peptidoglikan dan menyebabkan gangguan dinding sel dan lisis bakteria. Ia merangkumi pelbagai patogen klinikal yang penting termasuk *Pseudomonas aeruginosa*, *Enterobacteriaceae*, dan banyak streptokok. Data mekanistik terperinci dari DrugBank tidak tersedia pada masa ini untuk laporan ini; bagaimanapun, mekanismenya sebagai penghambat sintesis dinding sel sudah mapan dalam kesusasteraan farmakoloji.
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [37599303](https://pubmed.ncbi.nlm.nih.gov/37599303/) | 2023 | Case Report | Orthopädie | RA patient on JAK1 inhibitor (upadacitinib) developed prosthetic knee infection; IV piperacillin/tazobactam initiated for concurrent pneumonia — antibiotic use, not RA therapy |
-| [22605835](https://pubmed.ncbi.nlm.nih.gov/22605835/) | 2012 | Case Report | BMJ Case Reports | RA patient on etanercept + methotrexate developed purulent pericarditis; empirical piperacillin/tazobactam started for suspected infection — drug used as antibiotic, not RA modifier |
-| [41257433](https://pubmed.ncbi.nlm.nih.gov/41257433/) | 2026 | Retrospective Cohort | Br J Clin Pharmacol | Machine-learning risk-scoring model for antibiotic-induced eosinophilia in hospitalised patients receiving piperacillin/tazobactam or ampicillin/sulbactam — safety pharmacology study, no RA relevance |
-| [33987340](https://pubmed.ncbi.nlm.nih.gov/33987340/) | 2021 | Retrospective Cohort | Ann Transl Med | Prevalence and clinical characteristics of antibiotic-associated drug-induced liver injury (DILI); piperacillin listed among causative agents — DILI surveillance study |
-| [36945293](https://pubmed.ncbi.nlm.nih.gov/36945293/) | 2023 | Case Report | Cureus | RA patient in 9-year remission on sulfasalazine developed isolated recurrent pleural effusion; piperacillin not involved |
-| [38343452](https://pubmed.ncbi.nlm.nih.gov/38343452/) | 2024 | Case Report | Proc Baylor Univ Med Ctr | Low-dose methotrexate toxicity causing pancytopenia and stomatitis in RA; leucovorin rescue — piperacillin not involved |
-| [34178513](https://pubmed.ncbi.nlm.nih.gov/34178513/) | 2021 | Case Report | Cureus | Pancytopenia as a diagnostic challenge in RA patient on low-dose methotrexate — piperacillin not mentioned |
-| [30371923](https://pubmed.ncbi.nlm.nih.gov/30371923/) | 2019 | Case Report | Orthopedics | Bilateral femoral emphysematous osteomyelitis caused by *E. coli* in RA patient on long-term prednisone; treated with IV antibiotics and intramedullary antibiotic cement |
-| [19621776](https://pubmed.ncbi.nlm.nih.gov/19621776/) | 2009 | Case Report | No Shinkei Geka | Hypertrophic pachymeningitis treated with a regimen including piperacillin; minocycline reduced CRP — piperacillin used as an antibiotic, no autoimmune/RA relevance |
-| [1921823](https://pubmed.ncbi.nlm.nih.gov/1921823/) | 1991 | Case Report | Med J Australia | Near-fatal pancytopenia following accidental methotrexate overdose in RA — piperacillin not involved |
+Perkaitan TxGNN yang jelas antara piperacillin dan arthritis reumatoid hampir pasti mencerminkan **bias gangguan komorbiditasi** yang tertanam dalam graf pengetahuan. Pesakit AR pada metotreksat, penghambat JAK, atau biologik seperti etanersept secara sistemik disuppreskan imun dan kerap mengalami jangkitan bakteria serius yang memerlukan liputan antibiotik spektrum luas empirik — yang mana piperacillin/tazobactam ialah pilihan garis pertama standard. Model nampaknya telah mentafsir kekerapan tinggi ini "pesakit AR ↔ piperacillin" bersama dalam kesusasteraan biomedis sebagai isyarat terapeutik, sedangkan pada hakikatnya piperacillin merawat komplikasi jangkitan *imunusupresien*, bukan AR itu sendiri.
 
-> ⚠️ **Critical Interpretation Note**: Not a single retrieved publication provides evidence that piperacillin treats, modifies, or ameliorates rheumatoid arthritis. The co-occurrence of piperacillin and RA in these papers reflects the antibiotic's role in managing infectious complications in immunosuppressed RA patients — a classic confounding scenario in knowledge-graph-based predictions.
+Beberapa antibiotik beta-lactam telah dilaporkan dalam tetapan preklinik untuk memiliki sifat imunomodulatori yang sederhana, termasuk penghambatan laluan NF-κB separa dan modulasi reseptor jenis Toll. Bagaimanapun, tiada bukti mekanistik atau klinikal langsung wujud untuk kesan sedemikian dengan piperacillin dalam konteks sinovitis autoimmun. Secara paradoks, penggunaan antibiotik spektrum luas yang berpanjangan mengganggu homeostasis mikrobiota usus, yang mungkin memburukkan dysregulasi imun dalam keadaan autoimmun seperti AR — menjadikan penggunaan jangka panjang dalam petunjuk ini secara biologi tidak produktif.
 
 ---
 
-## Malaysia Market Information
+## Bukti Ujian Klinikal
 
-Eight product licenses are registered in Malaysia under Marketed status. Detailed registration records (product names, dosage forms, manufacturers, approved indication texts) were not returned by the NPRA data query for this candidate. Please consult the [NPRA Product Registration database](https://www.npra.gov.my) directly for current license details.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-> Note: Full warning text, contraindications, and drug–drug interaction data were not available in the data source at the time of this report. Clinically, piperacillin/tazobactam is known to carry risks of hypersensitivity reactions (including anaphylaxis), antibiotic-associated DILI, and eosinophilia with prolonged use. Dose adjustment is required in renal impairment (reduced CrCl) — a particularly relevant consideration if this drug were ever evaluated in RA patients with comorbid diabetic or inflammatory nephropathy.
+Pada masa ini tiada ujian klinikal yang berkaitan didaftarkan untuk piperacillin dalam arthritis reumatoid.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Kesusasteraan
 
-**Decision: Hold**
+18 penerbitan telah dipulihkan dengan menggabungkan "piperacillin" dengan "rheumatoid arthritis" dalam carian PubMed. **Tiada satu pun kertas kerja ini mengkaji piperacillin sebagai rawatan untuk AR.** Mereka mendokumentasikan piperacillin yang digunakan sebagai antibiotik untuk menguruskan jangkitan yang timbul dalam pesakit AR yang disuppreskan imun, atau komplikasi berkaitan metotreksat di mana piperacillin tidak muncul pun. 10 entri yang paling informatif dipersembahkan di bawah untuk ketelusan:
 
-**Rationale:**
-The TxGNN model's top-ranked score of 99.94% for piperacillin in rheumatoid arthritis is almost certainly a **confounding artifact** driven by the high frequency with which immunosuppressed RA patients receive piperacillin for bacterial infections; zero clinical trials and zero directly supportive publications confirm that no genuine repurposing signal exists. There is no mechanistic basis — and some theoretical harm (gut dysbiosis worsening autoimmunity) — to justify further development of this candidate.
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-------|-------|--------|----------------|
+| [37599303](https://pubmed.ncbi.nlm.nih.gov/37599303/) | 2023 | Laporan Kes | Orthopädie | Pesakit AR pada penghambat JAK1 (upadacitinib) mengalami jangkitan lutut prostetik; piperacillin/tazobactam IV dimulai untuk pneumonia serentak — penggunaan antibiotik, bukan terapi AR |
+| [22605835](https://pubmed.ncbi.nlm.nih.gov/22605835/) | 2012 | Laporan Kes | BMJ Case Reports | Pesakit AR pada etanersept + metotreksat mengalami perikarditis purulen; piperacillin/tazobactam empirik dimulakan untuk jangkitan yang disyaki — ubat digunakan sebagai antibiotik, bukan pengubah AR |
+| [41257433](https://pubmed.ncbi.nlm.nih.gov/41257433/) | 2026 | Kohort Retrospektif | Br J Clin Pharmacol | Model pemarkahan risiko pembelajaran mesin untuk eosinofilia yang diinduksi antibiotik pada pesakit yang dirawat di hospital yang menerima piperacillin/tazobactam atau ampisilin/sulbaktam — kajian farmakoloji keselamatan, tiada kaitan AR |
+| [33987340](https://pubmed.ncbi.nlm.nih.gov/33987340/) | 2021 | Kohort Retrospektif | Ann Transl Med | Prevalensi dan ciri klinikal kecederaan hati yang diinduksi ubat yang berkaitan antibiotik (DILI); piperacillin disenaraikan dalam kalangan agen penyebab — kajian pengawasan DILI |
+| [36945293](https://pubmed.ncbi.nlm.nih.gov/36945293/) | 2023 | Laporan Kes | Cureus | Pesakit AR dalam pelepasan 9 tahun pada sulfasalazin mengalami efusi pleura berulang terpencil; piperacillin tidak terlibat |
+| [38343452](https://pubmed.ncbi.nlm.nih.gov/38343452/) | 2024 | Laporan Kes | Proc Baylor Univ Med Ctr | Ketoksikan metotreksat dos rendah menyebabkan sitopenia pankreas dan stomatitis dalam AR; penyelamatan leukovorin — piperacillin tidak terlibat |
+| [34178513](https://pubmed.ncbi.nlm.nih.gov/34178513/) | 2021 | Laporan Kes | Cureus | Sitopenia pankreas sebagai cabaran diagnostik dalam pesakit AR pada metotreksat dos rendah — piperacillin tidak disebut |
+| [30371923](https://pubmed.ncbi.nlm.nih.gov/30371923/) | 2019 | Laporan Kes | Orthopedics | Osteomielitis emfisematosa femoral bilateral yang disebabkan oleh *E. coli* dalam pesakit AR pada prednisone jangka panjang; dirawat dengan antibiotik IV dan semen antibiotik intramedular |
+| [19621776](https://pubmed.ncbi.nlm.nih.gov/19621776/) | 2009 | Laporan Kes | No Shinkei Geka | Pachymeningitis hipertrofik dirawat dengan rejimen yang termasuk piperacillin; minosiklin mengurangkan CRP — piperacillin digunakan sebagai antibiotik, tiada kaitan autoimmun/AR |
+| [1921823](https://pubmed.ncbi.nlm.nih.gov/1921823/) | 1991 | Laporan Kes | Med J Australia | Sitopenia pankreas hampir fatal berikutan petasan metotreksat yang tidak disengajakan dalam AR — piperacillin tidak terlibat |
 
-**To move beyond Hold, the following would be required:**
+> ⚠️ **Nota Tafsiran Kritikal**: Tidak satu pun penerbitan yang dipulihkan menyediakan bukti bahawa piperacillin merawat, mengubah, atau mengurangkan arthritis reumatoid. Kehadiran bersama piperacillin dan AR dalam kertas ini mencerminkan peranan antibiotik dalam menguruskan komplikasi jangkitan dalam pesakit AR yang disuppreskan imun — satu senario gangguan klasik dalam ramalan berasaskan graf pengetahuan.
 
-- **Mechanism validation**: Preclinical evidence demonstrating piperacillin's direct anti-inflammatory effect on RA-relevant pathways (e.g., synovial fibroblast invasion, Th17/Treg balance, NF-κB or NLRP3 inhibition) in *in vitro* or animal arthritis models
-- **Knowledge graph debiasing**: Re-analysis of the TxGNN graph to correct for the "infection-in-immunosuppressed-patient" confounding structure before re-scoring
-- **MOA data retrieval**: Full DrugBank pharmacological profile (currently unavailable — data gap DG002) to identify any secondary immunomodulatory targets
-- **Regulatory safety profile**: Retrieval and parsing of Malaysian product insert PDFs (currently unavailable — data gap DG001) to complete the safety assessment required for S1-stage evaluation
-- **Microbiome impact assessment**: Literature review on beta-lactam effects on gut microbiota composition in autoimmune disease models, given the theoretical risk of worsening RA through dysbiosis
+---
+
+## Maklumat Pasaran Malaysia
+
+Lapan lesen produk didaftarkan di Malaysia di bawah status Dipasarkan. Rekod pendaftaran terperinci (nama produk, bentuk dos, pengilang, teks petunjuk yang diluluskan) tidak dikembalikan oleh pertanyaan data NPRA untuk calon ini. Sila rujuk pangkalan data [Pendaftaran Produk NPRA](https://www.npra.gov.my) secara langsung untuk butiran lesen semasa.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
+
+> Nota: Teks amaran penuh, kontraindikasi, dan data interaksi ubat-ubat tidak tersedia dalam sumber data pada masa laporan ini. Secara klinikal, piperacillin/tazobactam diketahui membawa risiko tindak balas hipersensitiviti (termasuk anafilaksis), DILI berkaitan antibiotik, dan eosinofilia dengan penggunaan yang berpanjangan. Pelarasan dos diperlukan dalam gangguan ginjal (CrCl yang berkurangan) — pertimbangan yang sangat relevan jika ubat ini pernah dinilai dalam pesakit AR dengan nefropati diabetik atau keradangan bersama.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Alasan:**
+Skor peringkat teratas model TxGNN sebanyak 99.94% untuk piperacillin dalam arthritis reumatoid hampir pasti merupakan artifak yang membingungkan yang didorong oleh frekuensi tinggi yang menerima piperacillin untuk jangkitan bakteria dalam pesakit AR yang disuppreskan imun; sifar ujian klinikal dan sifar penerbitan yang menyokong secara langsung mengesahkan bahawa tiada isyarat penyusunan semula yang tulen wujud. Tiada asas mekanistik — dan beberapa kemudaratan teori (disbiosis usus memburukkan autoimmuniti) — untuk mewajarkan pembangunan lanjutan calon ini.
+
+**Untuk bergerak melampaui Tahan, yang berikut diperlukan:**
+
+- **Pengesahan mekanisme**: Bukti preklinik yang menunjukkan kesan anti-keradangan langsung piperacillin pada laluan yang relevan dengan AR (cth., pencerobohan fibroblast sinovial, keseimbangan Th17/Treg, penghambatan NF-κB atau NLRP3) dalam model arthritis *in vitro* atau haiwan
+- **Penyahberat graf pengetahuan**: Analisis semula graf TxGNN untuk membetulkan struktur gangguan "jangkitan dalam pesakit yang disuppreskan imun" sebelum penilaian semula
+- **Perolehan data MOA**: Profil farmakoloji DrugBank penuh (pada masa ini tidak tersedia — jurang data DG002) untuk mengenal pasti sebarang sasaran imunomodulatori sekunder
+- **Profil keselamatan kawal selia**: Perolehan dan penghuraian PDF sisipan produk Malaysia (pada masa ini tidak tersedia — jurang data DG001) untuk melengkapkan penilaian keselamatan yang diperlukan untuk penilaian S1
+- **Penilaian kesan mikrobiom**: Kajian kesusasteraan tentang kesan beta-lactam pada komposisi mikrobiota usus dalam model penyakit autoimmun, memandangkan risiko teori memburukkan AR melalui disbiosis
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,81 +29,82 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Valine: From Amino Acid Nutritional Supplementation to Sclerosing Cholangitis
+# Valine: Daripada Suplemen Nutrisi Asid Amino kepada Kolangitis Sklerosis
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Valine is a branched-chain essential amino acid; no specific original indication text is available in the current dataset, though it is generally used in nutritional/parenteral amino acid formulations. The TxGNN model predicts a possible association with **Sclerosing Cholangitis**, but this is currently supported only by **0 clinical trials** and **2 publications**, neither of which directly demonstrates a therapeutic effect of valine on this condition.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not specified in Malaysia registration data (general knowledge: essential amino acid used in nutritional/parenteral formulations) |
-| Predicted New Indication | Sclerosing Cholangitis |
-| TxGNN Prediction Score | 99.42% |
-| Evidence Level | L4 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 41 |
-| Recommended Decision | Hold |
+Valine adalah asid amino penting berantai bercabang; tiada teks petunjuk asal yang spesifik tersedia dalam dataset pendaftaran semasa, walaupun ia umumnya digunakan dalam formulasi asid amino nutrisi/parenteral. Model TxGNN meramalkan kemungkinan kaitan dengan **Kolangitis Sklerosis**, tetapi ini kini hanya disokong oleh **0 ujian klinikal** dan **2 penerbitan**, yang mana tidak satupun secara langsung menunjukkan kesan terapeutik valine terhadap keadaan ini.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Pantas
 
-Detailed mechanism of action data is not available for valine in this evidence pack. Based on general pharmacological knowledge, valine is one of the three branched-chain amino acids (BCAA) and is a normal component of protein and nutritional/parenteral amino acid formulations; it has no established pharmacologic action against liver or biliary disease.
-
-The supporting literature for sclerosing cholangitis is weak and indirect. One publication (PMID 39015781) is a Mendelian randomization study examining causal relationships between blood metabolites/metabolic pathways and cholestatic liver diseases (including primary sclerosing cholangitis); its abstract does not confirm valine specifically as a significant causal factor. The second publication (PMID 15790420) studies amino acid patterns and fatigue in primary biliary cirrhosis and primary sclerosing cholangitis, but its key finding concerns **tyrosine**, not valine.
-
-Given the absence of interventional or clinical trial evidence, and that neither cited publication directly implicates valine as a therapeutic agent for sclerosing cholangitis, the mechanistic rationale for this prediction should be considered speculative and model-driven rather than evidence-driven at this stage.
-
-> **Note on evidence quality across other predicted indications:** For several other TxGNN-predicted indications for valine (e.g., hyperthyroidism, resistance to thyroid hormone, hyperthyroxinemia, angle-closure glaucoma), the majority of retrieved literature consists of genetic mutation nomenclature artifacts — "Val" is the standard three-letter code for the amino acid valine, so searches surface papers about point mutations (e.g., V336M, L346V, Val53Ala) that are unrelated to valine as a therapeutic agent. This indicates a systematic text-matching issue in evidence retrieval for this candidate and warrants caution when interpreting literature counts for this drug more broadly.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Item | Kandungan |
+|------|---------|
+| Petunjuk Asal | Tidak dinyatakan dalam data pendaftaran Malaysia (pengetahuan umum: asid amino penting yang digunakan dalam formulasi nutrisi/parenteral) |
+| Petunjuk Baru yang Diramalkan | Kolangitis Sklerosis |
+| Skor Ramalan TxGNN | 99.42% |
+| Paras Bukti | L4 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 41 |
+| Cadangan Keputusan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| PMID | Year | Type | Journal | Key Findings |
+Data mekanisme tindakan terperinci tidak tersedia untuk valine dalam bungkusan bukti ini. Berdasarkan pengetahuan farmakologi umum, valine adalah salah satu daripada tiga asid amino berantai bercabang (BCAA) dan merupakan komponen biasa protein dan formulasi asid amino nutrisi/parenteral; ia tidak mempunyai tindakan farmakologi yang ditetapkan terhadap penyakit hati atau biliari.
+
+Literatur penyokong untuk kolangitis sklerosis adalah lemah dan tidak langsung. Satu penerbitan (PMID 39015781) adalah kajian randomisasi Mendelian yang memeriksa hubungan kausal antara metabolit darah/laluan metabolik dan penyakit kolestatis hati (termasuk kolangitis sklerosis primer); abstraknya tidak mengesahkan valine secara khusus sebagai faktor kausal yang ketara. Penerbitan kedua (PMID 15790420) mengkaji corak asid amino dan keletihan dalam sirosis biliari primer dan kolangitis sklerosis primer, tetapi penemuannya yang utama berkaitan **tirosin**, bukan valine.
+
+Memandangkan ketiadaan bukti intervensi atau ujian klinikal, dan bahawa tiada satupun penerbitan yang dipetik secara langsung mengimplikasikan valine sebagai agen terapeutik untuk kolangitis sklerosis, rasionaliti mekanistik untuk ramalan ini harus dianggap spekulatif dan didorong model daripada didorong bukti pada peringkat ini.
+
+> **Nota tentang kualiti bukti merentas petunjuk lain yang diramalkan:** Untuk beberapa petunjuk yang diramalkan TxGNN lain untuk valine (cth., hipertiroisisme, rintangan kepada hormon tiroid, hipertiroksemia, glaukoma sudut tertutup), majoriti literatur yang diambil terdiri daripada artifak tatanama mutasi genetik — "Val" adalah kod tiga huruf standard untuk asid amino valine, jadi carian permukaan kertas tentang mutasi titik (cth., V336M, L346V, Val53Ala) yang tidak berkaitan dengan valine sebagai agen terapeutik. Ini menunjukkan isu padanan teks sistematik dalam pengambilan bukti untuk kandidat ini dan memerlukan kehati-hatian apabila menginterpretasikan kiraan literatur untuk ubat ini secara lebih luas.
+
+---
+
+## Bukti Ujian Klinikal
+
+Kini tiada ujian klinikal berkaitan yang didaftarkan.
+
+---
+
+## Bukti Literatur
+
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [39015781](https://pubmed.ncbi.nlm.nih.gov/39015781/) | 2024 | Mendelian randomization | Frontiers in medicine | Investigated causal relationships between blood metabolites/metabolic pathways and cholestatic liver diseases (PBC/PSC); does not specifically confirm valine as a significant causal factor |
-| [15790420](https://pubmed.ncbi.nlm.nih.gov/15790420/) | 2005 | Observational/Cohort | BMC gastroenterology | Examined amino acid patterns and fatigue in PBC/PSC patients; the significant finding relates to tyrosine, not valine |
+| [39015781](https://pubmed.ncbi.nlm.nih.gov/39015781/) | 2024 | Randomisasi Mendelian | Frontiers in medicine | Memeriksa hubungan kausal antara metabolit darah/laluan metabolik dan penyakit kolestatis hati (PBC/PSC); tidak mengesahkan secara khusus valine sebagai faktor kausal yang ketara |
+| [15790420](https://pubmed.ncbi.nlm.nih.gov/15790420/) | 2005 | Pemerhatian/Kohort | BMC gastroenterology | Mengkaji corak asid amino dan keletihan dalam pesakit PBC/PSC; penemuan yang ketara berkaitan dengan tirosin, bukan valine |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Aggregate registration data indicates 41 total product licenses in Malaysia with active ("Marketed"/Marketed) status. Itemized license numbers, product names, dosage forms, and approved indication text were not returned in the current data pull (all fields empty), so a per-license table cannot be produced at this time.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-> **Data gap note:** TFDA/NPRA label warnings and contraindications for valine (DG001) are currently missing and are flagged as **Blocking** — this must be resolved before the candidate can enter Stage S1 safety review.
+Data pendaftaran agregat menunjukkan 41 jumlah lesen produk dalam Malaysia dengan status aktif ("Dipasarkan"/Marketed). Nombor lesen barang-barang, nama produk, bentuk dos, dan teks petunjuk yang diluluskan tidak dikembalikan dalam tarikan data semasa (semua medan kosong), jadi jadual setiap lesen tidak dapat dihasilkan pada masa ini.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-**Rationale:**
-Evidence for a valine–sclerosing cholangitis association is minimal: no clinical trials and only two publications, neither of which directly supports valine as causally or therapeutically relevant to the disease. Combined with unresolved Blocking-level safety data gaps (label warnings/contraindications) and missing MOA data, the candidate does not currently meet the threshold to advance beyond initial screening (Stage S0).
+> **Nota jurang data:** Amaran label TFDA/NPRA dan kontraindikasi untuk valine (DG001) kini tiada dan ditandai sebagai **Menghalang** — ini mesti diselesaikan sebelum kandidat boleh memasuki semakan keselamatan Peringkat S1.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA label warnings and contraindications (currently Blocking data gap, DG001)
-- Confirmed mechanism of action (MOA) data from DrugBank or other authoritative source (DG002)
-- Targeted mechanistic or preclinical studies specifically evaluating valine (not amino acids/BCAA generally) in cholestatic/sclerosing cholangitis models
-- Re-run literature searches with disambiguation of "valine" from genetic mutation nomenclature ("Val" amino acid codes) to avoid false-positive evidence counts in this and related predicted indications
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Bukti untuk persatuan valine–kolangitis sklerosis adalah minimum: tiada ujian klinikal dan hanya dua penerbitan, tidak satupun secara langsung menyokong valine sebagai relevan secara kausal atau terapeutik untuk penyakit. Digabungkan dengan jurang data keselamatan yang tidak diselesaikan pada peringkat Menghalang (amaran label/kontraindikasi) dan data MOA yang hilang, kandidat kini tidak memenuhi ambang untuk maju melampaui saringan awal (Peringkat S0).
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Amaran label TFDA/NPRA dan kontraindikasi (jurang data Menghalang semasa, DG001)
+- Data mekanisme tindakan (MOA) yang disahkan daripada DrugBank atau sumber lain yang berwibawa (DG002)
+- Kajian mekanistik atau praklinikal yang disasarkan secara khusus menilai valine (bukan asid amino/BCAA secara umum) dalam model kolestatis/sklerosis kolangitis
+- Carian semula literatur dengan ketaksamaan "valine" daripada tatanama mutasi genetik (kod asid amino "Val") untuk mengelakkan kiraan bukti positif palsu dalam petunjuk yang diramalkan ini dan berkaitan
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

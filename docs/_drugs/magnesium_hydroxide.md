@@ -29,106 +29,105 @@ Tahap bukti: **L2** | Indikasi diramal: **5**
 
 </div>
 
-Using the drug-repurposing evaluation report template to generate the report from the supplied Evidence Pack.
+# Magnesium Hydroxide: Daripada Penggunaan Antasid/Laksatif kepada Esofagitis
 
-# Magnesium Hydroxide: From Antacid/Laxative Use to Esophagitis
+## Ringkasan Satu Ayat
 
-## One-Sentence Summary
-
-Magnesium Hydroxide (DrugBank DB09104) is a well-established over-the-counter antacid and osmotic laxative (the active ingredient in "Milk of Magnesia"), currently marketed in Malaysia under **41 registrations**. The TxGNN model's top-ranked candidate indication is **Esophagitis**, supported by **1 clinical trial** and **19 publications** — but the trial was terminated, most literature concerns magnesium/aluminum-hydroxide *combination* antacids rather than magnesium hydroxide alone, and the model's own prediction score for this candidate is **0.00%**, which is a material caveat that should not be glossed over.
+Magnesium Hydroxide (DrugBank DB09104) ialah antasid dan laksatif osmotik yang telah diiktiraf di pasaran bebas (bahan aktif dalam "Milk of Magnesia"), sedang dipasarkan di Malaysia dengan **41 pendaftaran**. Kandidat petunjuk teratas yang direngka oleh model TxGNN ialah **Esofagitis**, disokong oleh **1 percubaan klinikal** dan **19 penerbitan** — tetapi percubaan itu ditamatkan, kebanyakan literatur membincangkan antasid kombinasi *magnesium/aluminum-hydroxide* bukan magnesium hydroxide sahaja, dan skor ramalan model itu sendiri untuk kandidat ini ialah **0.00%**, yang merupakan kaveat penting yang tidak sepatutnya diabaikan.
 
 ---
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | Not extracted in this evidence pack — all sampled NPRA/TFDA license `approved_indication_text` fields were empty. Magnesium hydroxide is generically recognized as an OTC antacid / osmotic laxative, but this specific dataset provides no confirmed label text (see Data Gap DG001/DG002 below) |
-| Predicted New Indication | Esophagitis |
-| TxGNN Prediction Score | 0.00% |
-| Evidence Level | L2 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 41 |
-| Recommended Decision | Proceed with Guardrails |
-
----
-
-## Why is This Prediction Reasonable?
-
-Detailed mechanism-of-action data is not available for this record in DrugBank. Based on general pharmacological knowledge, magnesium hydroxide dissociates in gastric fluid to release hydroxide ions that neutralize hydrochloric acid, rapidly raising intragastric and (transiently) intra-esophageal pH; at higher, poorly absorbed luminal doses it also draws water into the bowel osmotically, which underlies its separate use as a laxative.
-
-Esophagitis is predominantly an acid-mediated mucosal injury process — whether driven by gastroesophageal reflux, direct chemical irritation, or (in the one directly relevant trial) radiation therapy. Because magnesium hydroxide's antacid action directly targets the acid component of that injury pathway, a mechanistic link to esophagitis is plausible. However, the strength of this specific candidate is limited: the only directly relevant registered trial, NCT01336530, tested **Tepilta®** — a fixed combination of oxetacaine (a topical anesthetic) and antacids — for radiation-induced esophagitis, not magnesium hydroxide as a single agent, and the trial was terminated before completion. Most supporting literature likewise studies magnesium hydroxide in combination with aluminum hydroxide (e.g., Mylanta, Maalox-type products) rather than as monotherapy. Combined with the TxGNN score of 0.00% for this candidate, the mechanistic plausibility is reasonable but the model confidence and trial-level evidence specific to esophagitis are both weak.
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Tidak diekstrak dalam paket bukti ini — semua sampel medan `approved_indication_text` lesen NPRA/TFDA adalah kosong. Magnesium hydroxide diiktiraf secara generik sebagai antasid bebas lesen / laksatif osmotik, tetapi dataset khusus ini tidak memberikan teks label yang disahkan (lihat Jurang Data DG001/DG002 di bawah) |
+| Petunjuk Baru Diramal | Esofagitis |
+| Skor Ramalan TxGNN | 0.00% |
+| Tahap Bukti | L2 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 41 |
+| Keputusan yang Disyorkan | Teruskan dengan Langkah Kawal |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Data mekanisme tindakan terperinci tidak tersedia untuk rekod ini dalam DrugBank. Berdasarkan pengetahuan farmakologi umum, magnesium hydroxide terurai dalam bendalir gastrik untuk mengeluarkan ion hidroksida yang meneutralkan asid hidroklorik, dengan cepat menaikkan pH intragastrik dan (sementara) intra-esofagus; pada dos yang lebih tinggi dan kurang diserap di lumen, ia juga menarik air ke dalam usus secara osmotik, yang mendasari penggunaan berasingannya sebagai laksatif.
+
+Esofagitis adalah terutamanya proses kecederaan mukosa yang dimediasi asid — sama ada didorong oleh reflaks gastroesofagus, pencederaan kimia langsung, atau (dalam satu percubaan yang langsung relevan) terapi radiasi. Kerana tindakan antasid magnesium hydroxide secara langsung menargetkan komponen asid daripada laluan kecederaan itu, sambungan mekanis kepada esofagitis adalah munasabah. Walau bagaimanapun, kekuatan kandidat khusus ini adalah terhad: satu-satunya percubaan berdaftar yang langsung relevan, NCT01336530, menguji **Tepilta®** — kombinasi tetap oxetacaine (anesthetik topical) dan antasid — untuk esofagitis yang disebabkan radiasi, bukan magnesium hydroxide sebagai agen tunggal, dan percubaan itu ditamatkan sebelum selesai. Kebanyakan literatur sokongan juga mengkaji magnesium hydroxide dalam kombinasi dengan aluminum hydroxide (cth, Mylanta, produk jenis Maalox) bukan sebagai monotherapi. Digabungkan dengan skor TxGNN 0.00% untuk kandidat ini, kebolehsuksesan mekanis adalah munasabah tetapi keyakinan model dan bukti tahap percubaan khusus untuk esofagitis adalah kedua-duanya lemah.
+
+---
+
+## Bukti Percubaan Klinikal
+
+| Nombor Percubaan | Fasa | Status | Penggabungan | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT01336530](https://clinicaltrials.gov/study/NCT01336530) | Phase 3 | Terminated | 40 | Randomized, double-blind, placebo-controlled adaptive trial of Tepilta® (oxetacaine + antacid) vs. its individual components vs. placebo for radiation-induced esophagitis; designed to show superiority of the combination but was terminated before full enrollment, limiting conclusiveness. |
+| [NCT01336530](https://clinicaltrials.gov/study/NCT01336530) | Fasa 3 | Ditamatkan | 40 | Percubaan adaptif terkawal plasebo buta dua hala, rawak bagi Tepilta® (oxetacaine + antasid) berbanding komponen individunya berbanding plasebo untuk esofagitis yang disebabkan radiasi; dirancang untuk menunjukkan keunggulan kombinasi tetapi ditamatkan sebelum penggabungan penuh, mengehadkan kesimpulan. |
 
 ---
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [2986275](https://pubmed.ncbi.nlm.nih.gov/2986275/) | 1985 | RCT | Scandinavian Journal of Gastroenterology | Sucralfate vs. alginate/antacid in a 6-week randomized trial for reflux esophagitis; ~70% of patients in both arms improved, esophagitis healed completely in 53% on sucralfate. |
-| [6250928](https://pubmed.ncbi.nlm.nih.gov/6250928/) | 1980 | RCT (crossover) | J Int Med Res | Crossover trial comparing Liquid Gaviscon to a magnesium/aluminum hydroxide antacid gel for heartburn; Gaviscon gave faster, more complete relief than the Mg/Al antacid. |
-| [8047802](https://pubmed.ncbi.nlm.nih.gov/8047802/) | 1994 | RCT | Scand J Gastroenterol | Double-blind trial in 80 children with GER comparing domperidone + Mg(OH)2/Al(OH)3, domperidone + alginate, domperidone alone, and placebo; combination arms showed clinical and pH-monitoring improvement. |
-| [1798406](https://pubmed.ncbi.nlm.nih.gov/1798406/) | 1991 | Cohort | Minerva Pediatrica | 15 children with GER treated with Mg(OH)2/Al(OH)3 for 8 weeks; 12/15 cured, 3/15 improved, with reduced esophageal acid exposure time on pH monitoring. |
-| [11854825](https://pubmed.ncbi.nlm.nih.gov/11854825/) | 1995 | Cohort/comparative | American Journal of Therapeutics | Single-blind crossover in 83 heartburn subjects comparing Al(OH)3/Mg(OH)2 vs. CaCO3 vs. placebo on esophageal/gastric pH after a refluxogenic meal. |
-| [25419906](https://pubmed.ncbi.nlm.nih.gov/25419906/) | 2014 | Cochrane Systematic Review | Cochrane Database of Systematic Reviews | Review of pharmacological treatment (including antacids) for pediatric gastro-esophageal reflux; highlights limited high-quality evidence overall. |
-| [10908549](https://pubmed.ncbi.nlm.nih.gov/10908549/) | 2000 | Cochrane Systematic Review | Cochrane Database of Systematic Reviews | Review of cisapride for pediatric GOR, noting safety concerns (QTc prolongation, arrhythmia) with prokinetic alternatives to antacid therapy. |
-| [24355558](https://pubmed.ncbi.nlm.nih.gov/24355558/) | 2014 | Review | Gastroenterología y Hepatología | Update on GERD management, noting ~1/3 of non-erosive patients respond unsatisfactorily to PPIs, motivating interest in adjunct/alternative acid-neutralizing therapies. |
-| [10848650](https://pubmed.ncbi.nlm.nih.gov/10848650/) | 2000 | Review | Alimentary Pharmacology & Therapeutics | Review of alginate raft-forming formulations (e.g., Gaviscon, often combined with antacids) for heartburn and esophagitis, describing their distinct gel-raft mechanism. |
-| [1783346](https://pubmed.ncbi.nlm.nih.gov/1783346/) | 1991 | Double-blind comparative study | Fortschritte der Medizin | Multicenter double-blind study in 97 patients comparing a smectite/Al(OH)3/Mg(OH)2 antacid combination against a standard aluminum hydroxide antacid for gastritis, esophagitis, and functional upper-abdominal symptoms. |
+| [2986275](https://pubmed.ncbi.nlm.nih.gov/2986275/) | 1985 | RCT | Scandinavian Journal of Gastroenterology | Sukralfat berbanding alginate/antasid dalam percubaan rawak 6 minggu untuk esofagitis reflaks; ~70% pesakit di kedua-dua lengan bertambah baik, esofagitis sembuh sepenuhnya dalam 53% pada sukralfat. |
+| [6250928](https://pubmed.ncbi.nlm.nih.gov/6250928/) | 1980 | RCT (crossover) | J Int Med Res | Percubaan crossover membandingkan Liquid Gaviscon dengan gel antasid magnesium/aluminum hydroxide untuk heartburn; Gaviscon memberikan pelepasan yang lebih cepat dan lebih lengkap daripada antasid Mg/Al. |
+| [8047802](https://pubmed.ncbi.nlm.nih.gov/8047802/) | 1994 | RCT | Scand J Gastroenterol | Percubaan buta dua hala dalam 80 kanak-kanak dengan GER membandingkan domperidone + Mg(OH)2/Al(OH)3, domperidone + alginate, domperidone sahaja, dan plasebo; lengan kombinasi menunjukkan penambahbaikkan klinikal dan pemantauan pH. |
+| [1798406](https://pubmed.ncbi.nlm.nih.gov/1798406/) | 1991 | Kohort | Minerva Pediatrica | 15 kanak-kanak dengan GER yang dirawat dengan Mg(OH)2/Al(OH)3 selama 8 minggu; 12/15 sembuh, 3/15 bertambah baik, dengan masa dedahan asid esofagus yang berkurangan pada pemantauan pH. |
+| [11854825](https://pubmed.ncbi.nlm.nih.gov/11854825/) | 1995 | Kohort/perbandingan | American Journal of Therapeutics | Crossover buta tunggal dalam 83 subjek heartburn membandingkan Al(OH)3/Mg(OH)2 berbanding CaCO3 berbanding plasebo pada pH esofagus/gastrik selepas makanan refluksogenik. |
+| [25419906](https://pubmed.ncbi.nlm.nih.gov/25419906/) | 2014 | Tinjauan Sistematis Cochrane | Cochrane Database of Systematic Reviews | Tinjauan rawatan farmakologi (termasuk antasid) untuk reflaks gastro-esofagus pediatrik; menyoroti bukti berkualiti tinggi yang terhad secara keseluruhan. |
+| [10908549](https://pubmed.ncbi.nlm.nih.gov/10908549/) | 2000 | Tinjauan Sistematis Cochrane | Cochrane Database of Systematic Reviews | Tinjauan cisapride untuk GOR pediatrik, mencatat kebimbangan keselamatan (perpanjangan QTc, aritmia) dengan alternatif prokinetik kepada terapi antasid. |
+| [24355558](https://pubmed.ncbi.nlm.nih.gov/24355558/) | 2014 | Tinjauan | Gastroenterología y Hepatología | Kemas kini pengurusan GERD, mencatat ~1/3 pesakit non-erosif bertindak balas tidak memuaskan kepada PPI, memotivasi minat dalam terapi asid-penetral pelengkap/alternatif. |
+| [10848650](https://pubmed.ncbi.nlm.nih.gov/10848650/) | 2000 | Tinjauan | Alimentary Pharmacology & Therapeutics | Tinjauan formulasi alginate pembentukan rakit (cth, Gaviscon, sering digabung dengan antasid) untuk heartburn dan esofagitis, menerangkan mekanisme rakit gel yang berbeza. |
+| [1783346](https://pubmed.ncbi.nlm.nih.gov/1783346/) | 1991 | Kajian perbandingan buta dua hala | Fortschritte der Medizin | Kajian berbilang pusat buta dua hala dalam 97 pesakit membandingkan kombinasi antasid smectite/Al(OH)3/Mg(OH)2 terhadap antasid aluminum hydroxide standard untuk gastritis, esofagitis, dan simptom perut atas fungsional. |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Malaysia market status is recorded as **Marketed (Marketed)** with **41 total registrations**, but the individual license records supplied in this evidence pack (license number, product name, dosage form, manufacturer, approved indication text) were all returned empty — this appears to be a data-extraction gap rather than an absence of registrations, and should be remediated before this information is used in any regulatory or safety assessment (see Data Gap DG001).
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information — structured `key_warnings`, `contraindications`, and DDI data were all returned as data gaps (DG001, marked Blocking severity) and no interaction records were found.
-
-**Additional note from literature evidence (not from structured safety data):** two independent case reports identified elsewhere in this evidence pack — [38152602](https://pubmed.ncbi.nlm.nih.gov/38152602/) (fatal hypermagnesemia in patients taking magnesium hydroxide, 2023) and [9533062](https://pubmed.ncbi.nlm.nih.gov/9533062/) (antacid-induced hypermagnesemia in a patient with normal renal function and bowel obstruction) — flag a real hypermagnesemia risk with magnesium hydroxide, particularly in renal impairment or reduced GI motility. This should be treated as a priority safety item for any repurposing pathway, even though it did not surface in the formal `safety` fields.
+Status pasaran Malaysia dicatatkan sebagai **Dipasarkan (Dipasarkan)** dengan **41 pendaftaran keseluruhannya**, tetapi rekod lesen individu yang dibekalkan dalam paket bukti ini (nombor lesen, nama produk, bentuk dos, pengilang, teks petunjuk yang disahkan) semuanya dikembalikan kosong — ini nampaknya merupakan jurang pengekstrakan data bukan ketiadaan pendaftaran, dan harus diperbaharui sebelum maklumat ini digunakan dalam sebarang penilaian kawal selia atau keselamatan (lihat Jurang Data DG001).
 
 ---
 
-## Other Predicted Indications (Same Evidence Pack)
+## Pertimbangan Keselamatan
 
-This evidence pack ("TW-DB09104-multi") evaluated five candidate indications together. For context, the other four ranked candidates are:
+Sila rujuk sisipan pakej untuk maklumat keselamatan — data `key_warnings`, `contraindications`, dan DDI berstruktur semuanya dikembalikan sebagai jurang data (DG001, ditandakan graviti Penyekat) dan tiada rekod interaksi ditemui.
 
-| Rank | Disease | Evidence Level | Decision Stage | Recommendation |
-|------|---------|----------------|----------------|-----------------|
-| 2 | Constipation disorder | L2 | S2 | Proceed with Guardrails |
-| 3 | Gastroesophageal reflux disease | L2 | S2 | Proceed with Guardrails |
-| 4 | Peptic esophagitis | L3 | S1 | Research Question |
-| 5 | Peptic ulcer disease | L4 | S1 | Hold |
-
-Notably, **constipation** (Mg(OH)2's classic osmotic-laxative use) and **GERD** (two Phase 1 trials, NCT03065816 and NCT03069963, directly measuring antacid activity by scintigraphy/pH-metry) have comparably strong or arguably stronger direct evidence than esophagitis itself, and may warrant equal or higher priority in follow-up evaluation.
+**Nota tambahan daripada bukti literatur (bukan daripada data keselamatan berstruktur):** dua laporan kes bebas yang dikenal pasti di tempat lain dalam paket bukti ini — [38152602](https://pubmed.ncbi.nlm.nih.gov/38152602/) (hipermagnesemia fatal dalam pesakit yang mengambil magnesium hydroxide, 2023) dan [9533062](https://pubmed.ncbi.nlm.nih.gov/9533062/) (hipermagnesemia yang disebabkan antasid dalam pesakit dengan fungsi ginjal normal dan penyumbatan usus) — menandai risiko hipermagnesemia yang nyata dengan magnesium hydroxide, terutamanya dalam gangguan ginjal atau mobilitas GI yang berkurangan. Ini harus dianggap sebagai item keselamatan keutamaan untuk mana-mana laluan repurposing, walaupun ia tidak muncul dalam medan `safety` rasmi.
 
 ---
 
-## Conclusion and Next Steps
+## Petunjuk Lain yang Diramal (Paket Bukti Sama)
 
-**Decision: Proceed with Guardrails**
+Paket bukti ini ("TW-DB09104-multi") menilai lima petunjuk kandidat bersama-sama. Untuk konteks, empat kandidat terkawal lain yang disenaraikan ialah:
 
-**Rationale:**
-The acid-neutralizing mechanism is plausible for esophagitis and the evidence level is L2, but the only directly relevant trial is a terminated Phase 3 study of a different combination product, most literature covers magnesium hydroxide only as part of combination antacids, and the model's own prediction score (0.00%) is anomalously low and should not be treated as a confidence signal without validation.
+| Kedudukan | Penyakit | Tahap Bukti | Peringkat Keputusan | Saranan |
+|------|----------|----------------|----------------|-----------------|
+| 2 | Gangguan sembelit | L2 | S2 | Teruskan dengan Langkah Kawal |
+| 3 | Penyakit reflaks gastroesofagus | L2 | S2 | Teruskan dengan Langkah Kawal |
+| 4 | Esofagitis peptik | L3 | S1 | Soalan Penyelidikan |
+| 5 | Penyakit ulser peptik | L4 | S1 | Tahan |
 
-**To proceed, the following is needed:**
-- Extraction of actual NPRA/TFDA license and label text (currently blank for all sampled entries — DG001, Blocking)
-- DrugBank/DrugBank API mechanism-of-action data (DG002, High)
-- Formal safety labeling: key warnings, contraindications, and DDI data (currently all data gaps)
-- Clarification/validation of the TxGNN scoring pipeline for this candidate, given the 0.00% score across all five ranked indications
-- A focused safety assessment on hypermagnesemia risk (informed by PMID 38152602 and 9533062), especially for patients with renal impairment, before considering any monotherapy use in esophagitis
-- Consider evaluating the constipation and GERD candidates (also L2, with more direct single-agent trial evidence) in parallel, as they may represent stronger near-term repurposing opportunities than esophagitis
+Adalah ketara bahawa **sembelit** (penggunaan laksatif osmotik klasik Mg(OH)2) dan **GERD** (dua percubaan Fasa 1, NCT03065816 dan NCT03069963, secara langsung mengukur aktiviti antasid dengan scintigrafi/pH-metry) mempunyai bukti langsung yang sebanding atau lebih kuat daripada esofagitis itu sendiri, dan mungkin menjamin keutamaan yang sama atau lebih tinggi dalam penilaian susulan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Teruskan dengan Langkah Kawal**
+
+**Alasan:**
+Mekanisme penetral asid adalah munasabah untuk esofagitis dan tahap bukti adalah L2, tetapi satu-satunya percubaan yang langsung relevan adalah kajian Fasa 3 yang ditamatkan bagi produk kombinasi yang berbeza, kebanyakan literatur meliputi magnesium hydroxide hanya sebagai sebahagian daripada antasid kombinasi, dan skor ramalan model itu sendiri (0.00%) adalah anomali rendah dan tidak harus dianggap sebagai isyarat keyakinan tanpa pengesahan.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Pengekstrakan teks lesen dan label NPRA/TFDA sebenar (sedang kosong untuk semua entri yang disampel — DG001, Penyekat)
+- Data mekanisme tindakan DrugBank/DrugBank API (DG002, Tinggi)
+- Pelabelan keselamatan rasmi: amaran utama, kontraindikasi, dan data DDI (semua jurang data pada masa ini)
+- Penjelasan/pengesahan saluran pemarkahan TxGNN untuk kandidat ini, memandangkan skor 0.00% di semua lima petunjuk terkawal
+- Penilaian keselamatan yang tertumpu pada risiko hipermagnesemia (dimaklumi oleh PMID 38152602 dan 9533062), terutamanya untuk pesakit dengan gangguan ginjal, sebelum mempertimbangkan sebarang penggunaan monotherapi dalam esofagitis
+- Pertimbangkan untuk menilai kandidat sembelit dan GERD (juga L2, dengan bukti percubaan agen tunggal yang lebih langsung) secara selari, kerana mereka mungkin mewakili peluang repurposing jangka pendek yang lebih kuat daripada esofagitis
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,188 +29,189 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Axitinib: From Advanced Renal Cell Carcinoma to Renal Cell Carcinoma Associated with Neuroblastoma
+# Axitinib: Daripada Karsinoma Sel Ginjal Lanjutan kepada Karsinoma Sel Ginjal Bersekutu dengan Neuroblastoma
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Axitinib (Inlyta®) is a selective VEGFR-1/2/3 tyrosine kinase inhibitor approved for the second-line treatment of advanced renal cell carcinoma (RCC), currently marketed in Malaysia with 2 registered products. The TxGNN model's highest-ranked prediction is **renal cell carcinoma associated with neuroblastoma** (score 99.90%), an extremely rare RCC variant with currently **no supporting clinical trials or published literature**. This is a multi-indication evaluation covering 10 TxGNN predictions; the most evidence-supported candidate is **renal carcinoma** (Rank 6, L1 level, 20 publications including multiple Phase 3 RCTs), while **Xp11.2/TFE3-translocation RCC**, **childhood RCC**, and **collecting duct carcinoma** carry active Phase 2 trial support.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Advanced Renal Cell Carcinoma (second-line; derived from known approved use) |
-| Predicted New Indication | Renal Cell Carcinoma Associated with Neuroblastoma |
-| TxGNN Prediction Score | 99.90% |
-| Evidence Level | L5 (model prediction only, no clinical studies) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
-| Recommended Decision | Hold (Rank 1) — see multi-indication summary for full picture |
+Axitinib (Inlyta®) ialah penghambat tirosin kinase VEGFR-1/2/3 yang selektif yang diluluskan untuk rawatan baris kedua karsinoma sel ginjal (RCC) lanjutan, kini dipasarkan di Malaysia dengan 2 produk berdaftar. Ramalan tertinggi model TxGNN ialah **karsinoma sel ginjal bersekutu dengan neuroblastoma** (skor 99.90%), varian RCC yang sangat jarang dengan **tiada ujian klinikal sokongan atau literatur terbitan semasa**. Ini ialah penilaian multi-petunjuk yang merangkumi 10 ramalan TxGNN; calon yang paling disokong bukti ialah **karsinoma ginjal** (Pangkat 6, L1 aras, 20 penerbitan termasuk berbilang ujian RCT Fasa 3), manakala **RCC translokasi Xp11.2/TFE3**, **RCC zaman kanak-kanak**, dan **karsinoma saluran pengumpul** membawa sokongan ujian Fasa 2 yang aktif.
 
 ---
 
-## Why Is This Prediction Reasonable?
+## Gambaran Keseluruhan Pantas
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on clinical literature referenced within this report, Axitinib is a selective second-generation VEGFR-1/2/3 tyrosine kinase inhibitor (TKI). It works by blocking VEGFR signaling to suppress tumor angiogenesis — the key growth mechanism in most renal cell carcinoma subtypes. This activity has been confirmed in multiple Phase 3 randomized controlled trials (KEYNOTE-426, JAVELIN Renal 101, RENOTORCH), leading to FDA approval as a second-line RCC agent and current Malaysia market approval.
-
-The TxGNN model assigns high scores across multiple RCC subtypes because renal cell carcinoma broadly depends on VEGF/VEGFR-driven angiogenesis. The top prediction — RCC associated with neuroblastoma — is an extremely rare entity (only a handful of reported cases worldwide) that shares the broader RCC disease node in the knowledge graph. The high TxGNN score is most plausibly explained by graph-proximity to better-studied RCC subtypes rather than direct mechanistic or clinical evidence for this specific variant.
-
-For RCC subtypes with demonstrated molecular evidence of VEGFR pathway activation — notably Xp11.2/TFE3-translocation RCC (mTOR-VEGF axis upregulation) and collecting duct carcinoma (partial VEGFR overexpression reported) — the mechanistic rationale is substantially stronger and is being actively tested in clinical trials.
-
----
-
-## Clinical Trial Evidence
-
-*Primary prediction (Rank 1): renal cell carcinoma associated with neuroblastoma*
-
-Currently no related clinical trials registered.
-
-> For clinical trial evidence across all 10 predicted indications, see the **All Predicted Indications Summary** section below.
+| Item | Kandungan |
+|------|-----------|
+| Petunjuk Asal | Karsinoma Sel Ginjal Lanjutan (baris kedua; diterima daripada kegunaan yang diluluskan) |
+| Petunjuk Baharu yang Diramalkan | Karsinoma Sel Ginjal Bersekutu dengan Neuroblastoma |
+| Skor Ramalan TxGNN | 99.90% |
+| Aras Bukti | L5 (ramalan model sahaja, tiada kajian klinikal) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 2 |
+| Keputusan Disyorkan | Tahan (Pangkat 1) — lihat ringkasan multi-petunjuk untuk gambaran lengkap |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Masuk Akal?
 
-*Primary prediction (Rank 1): renal cell carcinoma associated with neuroblastoma*
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia dalam pakej bukti ini. Berdasarkan literatur klinikal yang dirujuk dalam laporan ini, axitinib ialah penghambat tirosin kinase VEGFR-1/2/3 generasi kedua yang selektif (TKI). Ia berfungsi dengan menghalang isyarat VEGFR untuk menyekat angiogenesis tumor — mekanisme pertumbuhan utama dalam kebanyakan subtipe karsinoma sel ginjal. Aktiviti ini telah disahkan dalam berbilang ujian terkawal rawak (RCT) Fasa 3 (KEYNOTE-426, JAVELIN Renal 101, RENOTORCH), yang membawa kepada kelulusan FDA sebagai ejen RCC baris kedua dan kelulusan pasaran Malaysia semasa.
 
-Currently no related literature available.
+Model TxGNN memberikan markah tinggi merentasi berbilang subtipe RCC kerana karsinoma sel ginjal secara umum bergantung pada angiogenesis yang didorong VEGF/VEGFR. Ramalan teratas — RCC bersekutu dengan neuroblastoma — ialah entiti yang sangat jarang (hanya segelintir kes yang dilaporkan di seluruh dunia) yang berkongsi nod penyakit RCC yang lebih luas dalam graf pengetahuan. Markah TxGNN yang tinggi paling dipercayai dijelaskan oleh kedekatan graf kepada subtipe RCC yang lebih dikaji dengan baik daripada bukti mekanistik atau klinikal langsung untuk varian khusus ini.
 
-> For literature evidence across all 10 predicted indications, see the **All Predicted Indications Summary** section below.
-
----
-
-## All Predicted Indications Summary
-
-This evidence pack is a **multi-indication evaluation** (ID: TW-DB06626-multi) covering 10 TxGNN predictions. Below is a consolidated overview followed by the clinical evidence for each actionable prediction.
-
-### Prediction Overview
-
-| Rank | Predicted Indication | TxGNN Score | Evidence Level | Decision |
-|------|---------------------|-------------|----------------|----------|
-| 1 | Renal cell carcinoma associated with neuroblastoma | 99.90% | L5 | Hold |
-| 2 | RCC with Xp11.2 translocations/TFE3 gene fusions | 99.90% | L2 | Research Question |
-| 3 | Unclassified renal cell carcinoma | 99.90% | L3 | Research Question |
-| 4 | Childhood kidney cell carcinoma | 99.87% | L2 | Research Question |
-| 5 | Liposarcoma | 99.87% | L5 | Hold |
-| **6** | **Renal carcinoma** | **99.85%** | **L1** | **Proceed with Guardrails** |
-| 7 | Ovarian myxoid liposarcoma | 99.84% | L5 | Hold |
-| 8 | Angiolipoma | 99.83% | L5 | Hold |
-| 9 | Collecting duct carcinoma | 99.81% | L3 | Research Question |
-| 10 | Familial spontaneous pneumothorax | 99.78% | L5 | Hold |
+Untuk subtipe RCC dengan bukti molekul yang ditunjukkan bagi pengaktifan laluan VEGFR — terutamanya RCC translokasi Xp11.2/TFE3 (pengaktifan paksi mTOR-VEGF) dan karsinoma saluran pengumpul (ungkapan VEGFR berlebihan sebahagian dilaporkan) — rasional mekanistik jauh lebih kuat dan sedang diuji secara aktif dalam ujian klinikal.
 
 ---
 
-### Clinical Trial Evidence — Rank 2: Xp11.2/TFE3 RCC & Rank 4: Childhood RCC
+## Bukti Ujian Klinikal
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|-------------|------|--------|-----------|--------------|
-| [NCT03595124](https://clinicaltrials.gov/study/NCT03595124) | Phase 2 | Active, Not Recruiting | 15 | Randomized trial of axitinib + nivolumab vs. nivolumab monotherapy for TFE/translocation RCC across all age groups; directly addresses both Xp11.2 RCC and pediatric RCC (Xp11.2 subtype accounts for ~60–70% of childhood RCC) |
-| [NCT04510597](https://clinicaltrials.gov/study/NCT04510597) | Phase 3 | Recruiting | 364 | PROBE Trial: immunotherapy ± cytoreductive nephrectomy for metastatic RCC; primarily adult population but validates ICI + VEGFR TKI framework applicable to pediatric RCC subgroups |
+*Ramalan utama (Pangkat 1): karsinoma sel ginjal bersekutu dengan neuroblastoma*
 
----
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
-### Clinical Trial Evidence — Rank 3: Unclassified RCC
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|-------------|------|--------|-----------|--------------|
-| [NCT04033991](https://clinicaltrials.gov/study/NCT04033991) | Real-World Study | Completed | 684 | UK retrospective study of sunitinib (1L) → axitinib (2L) sequencing across metastatic/advanced RCC histologies; subgroup analysis could yield data on unclassified RCC |
-| [NCT02156895](https://clinicaltrials.gov/study/NCT02156895) | Post-Marketing Surveillance | Completed | 111 | Safety and efficacy monitoring for axitinib in routine clinical practice across all RCC subtypes |
+> Untuk bukti ujian klinikal merentasi semua 10 petunjuk yang diramalkan, lihat bahagian **Ringkasan Semua Petunjuk yang Diramalkan** di bawah.
 
 ---
 
-### Clinical Trial Evidence — Rank 9: Collecting Duct Carcinoma
+## Bukti Literatur
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|-------------|------|--------|-----------|--------------|
-| [NCT06211114](https://clinicaltrials.gov/study/NCT06211114) | Phase 2 | Recruiting | 30 | Directly designed for previously treated advanced collecting duct carcinoma using immune checkpoint inhibitor + axitinib combination; trial initiation itself demonstrates mechanistic rationale is recognized by the research community |
+*Ramalan utama (Pangkat 1): karsinoma sel ginjal bersekutu dengan neuroblastoma*
 
----
+Pada masa ini tiada literatur berkaitan tersedia.
 
-### Literature Evidence — Rank 6: Renal Carcinoma (L1 — Strongest Evidence)
-
-> **Note:** This prediction reflects Axitinib's known approved indication. The L1 evidence below validates the TxGNN model's accuracy.
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|--------------|
-| [30779529](https://pubmed.ncbi.nlm.nih.gov/30779529/) | 2019 | Phase 3 RCT (KEYNOTE-426) | N Engl J Med | Pembrolizumab + axitinib showed superior OS, PFS, and ORR versus sunitinib as first-line treatment for advanced RCC |
-| [37500340](https://pubmed.ncbi.nlm.nih.gov/37500340/) | 2023 | Phase 3 RCT 43-month follow-up | European Urology | Long-term KEYNOTE-426 results confirm durable OS and PFS benefit for pembrolizumab + axitinib |
-| [40750932](https://pubmed.ncbi.nlm.nih.gov/40750932/) | 2025 | Phase 3 RCT 5-year analysis | Nature Medicine | 5-year KEYNOTE-426 analysis with prespecified biomarker data confirms durable clinical benefit |
-| [30779531](https://pubmed.ncbi.nlm.nih.gov/30779531/) | 2019 | Phase 3 RCT (JAVELIN Renal 101) | N Engl J Med | Avelumab + axitinib significantly prolonged PFS versus sunitinib in previously untreated advanced RCC |
-| [39706335](https://pubmed.ncbi.nlm.nih.gov/39706335/) | 2025 | Phase 3 RCT final analysis (JAVELIN Renal 101) | Ann Oncol | Final OS analysis of JAVELIN Renal 101; overall survival primary endpoint results reported |
-| [37872020](https://pubmed.ncbi.nlm.nih.gov/37872020/) | 2024 | Phase 3 RCT (RENOTORCH) | Ann Oncol | Toripalimab + axitinib vs. sunitinib for intermediate/poor-risk advanced RCC; supports ICI + axitinib as a platform |
-| [33284113](https://pubmed.ncbi.nlm.nih.gov/33284113/) | 2020 | Phase 3 RCT extended follow-up | Lancet Oncol | KEYNOTE-426 extended follow-up: sustained efficacy and safety of pembrolizumab + axitinib over sunitinib |
-| [32895571](https://pubmed.ncbi.nlm.nih.gov/32895571/) | 2020 | Phase 3 RCT biomarker analysis | Nature Medicine | Molecular analyses of JAVELIN Renal 101 (n=886); PD-L1 and tumor mutational burden were not predictive of PFS |
-| [29033542](https://pubmed.ncbi.nlm.nih.gov/29033542/) | 2017 | Drug Review | Drug Des Devel Ther | Axitinib pharmacology, development, and clinical positioning as second-generation VEGFR TKI in RCC |
-| [28276433](https://pubmed.ncbi.nlm.nih.gov/28276433/) | 2017 | Disease Review | Nat Rev Dis Primers | Comprehensive overview of RCC biology, molecular subtypes, and treatment landscape |
+> Untuk bukti literatur merentasi semua 10 petunjuk yang diramalkan, lihat bahagian **Ringkasan Semua Petunjuk yang Diramalkan** di bawah.
 
 ---
 
-### Literature Evidence — Rank 4: Childhood RCC
+## Ringkasan Semua Petunjuk yang Diramalkan
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|--------------|
-| [31012542](https://pubmed.ncbi.nlm.nih.gov/31012542/) | 2019 | Review | Pediatr Blood Cancer | Review of treatment options for advanced pediatric RCC; highlights lack of standardized therapy and context for VEGFR TKI use |
-| [26279736](https://pubmed.ncbi.nlm.nih.gov/26279736/) | 2015 | Case Report | Can Urol Assoc J | First reported axitinib use in a child (12-year-old) with malignant epithelioid angiomyolipoma; authors conclude adult protocols can be safely applied in this rare pediatric case |
+Pakej bukti ini ialah **penilaian multi-petunjuk** (ID: TW-DB06626-multi) yang merangkumi 10 ramalan TxGNN. Di bawah ialah gambaran keseluruhan yang disatukan diikuti oleh bukti klinikal untuk setiap ramalan yang boleh ditindaklanjuti.
+
+### Gambaran Keseluruhan Ramalan
+
+| Pangkat | Petunjuk yang Diramalkan | Skor TxGNN | Aras Bukti | Keputusan |
+|---------|--------------------------|-------------|-----------|----------|
+| 1 | Karsinoma sel ginjal bersekutu dengan neuroblastoma | 99.90% | L5 | Tahan |
+| 2 | RCC dengan translokasi Xp11.2/pelekatan gen TFE3 | 99.90% | L2 | Soalan Penyelidikan |
+| 3 | Karsinoma sel ginjal yang tidak diklasifikasikan | 99.90% | L3 | Soalan Penyelidikan |
+| 4 | Karsinoma sel ginjal zaman kanak-kanak | 99.87% | L2 | Soalan Penyelidikan |
+| 5 | Liposarkoma | 99.87% | L5 | Tahan |
+| **6** | **Karsinoma ginjal** | **99.85%** | **L1** | **Teruskan dengan Pengawasan Keselamatan** |
+| 7 | Liposarkoma miksoid ovari | 99.84% | L5 | Tahan |
+| 8 | Angiolipoma | 99.83% | L5 | Tahan |
+| 9 | Karsinoma saluran pengumpul | 99.81% | L3 | Soalan Penyelidikan |
+| 10 | Pneumotoraks spontan keluarga | 99.78% | L5 | Tahan |
 
 ---
 
-## Malaysia Market Information
+### Bukti Ujian Klinikal — Pangkat 2: Xp11.2/TFE3 RCC & Pangkat 4: RCC Zaman Kanak-kanak
 
-Axitinib has **2 registered products** in the Malaysian market. Detailed registration records (product name, dosage form, manufacturer, and approved indication text) are not currently available in the evidence database and require direct verification with NPRA.
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
+|-------------|------|--------|------------|-----------------|
+| [NCT03595124](https://clinicaltrials.gov/study/NCT03595124) | Fasa 2 | Aktif, Tidak Merekrut | 15 | Ujian rawak axitinib + nivolumab vs. monoterapi nivolumab untuk RCC translokasi TFE/merentas semua kumpulan umur; menangani secara langsung RCC Xp11.2 dan RCC pediatrik (subtipe Xp11.2 menyumbang ~60–70% RCC zaman kanak-kanak) |
+| [NCT04510597](https://clinicaltrials.gov/study/NCT04510597) | Fasa 3 | Merekrut | 364 | Ujian PROBE: imunoterapi ± nefrektomi sitoreduktif untuk RCC metastatik; terutamanya populasi dewasa tetapi mengesahkan rangka kerja ICI + VEGFR TKI yang boleh digunakan untuk subkumpulan RCC pediatrik |
+
+---
+
+### Bukti Ujian Klinikal — Pangkat 3: RCC yang Tidak Diklasifikasikan
+
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
+|-------------|------|--------|------------|-----------------|
+| [NCT04033991](https://clinicaltrials.gov/study/NCT04033991) | Kajian Dunia Nyata | Selesai | 684 | Kajian retrospektif UK tentang urutan sunitinib (1L) → axitinib (2L) merentasi histologi RCC metastatik/lanjutan; analisis subkumpulan boleh menghasilkan data tentang RCC yang tidak diklasifikasikan |
+| [NCT02156895](https://clinicaltrials.gov/study/NCT02156895) | Pengawasan Selepas Pemasaran | Selesai | 111 | Pemantauan keselamatan dan keberkesanan untuk axitinib dalam amalan klinikal rutin merentasi semua subtipe RCC |
+
+---
+
+### Bukti Ujian Klinikal — Pangkat 9: Karsinoma Saluran Pengumpul
+
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
+|-------------|------|--------|------------|-----------------|
+| [NCT06211114](https://clinicaltrials.gov/study/NCT06211114) | Fasa 2 | Merekrut | 30 | Dirancang secara langsung untuk karsinoma saluran pengumpul lanjutan yang telah dirawat sebelumnya menggunakan gabungan penghambat titik semak imun + axitinib; permulaan ujian itu sendiri menunjukkan rasional mekanistik diiktiraf oleh komuniti penyelidikan |
+
+---
+
+### Bukti Literatur — Pangkat 6: Karsinoma Ginjal (L1 — Bukti Terkuat)
+
+> **Nota:** Ramalan ini mencerminkan petunjuk yang diluluskan yang diketahui untuk Axitinib. Bukti L1 di bawah mengesahkan kesahihan muka model TxGNN.
+
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-------|------|--------|-----------------|
+| [30779529](https://pubmed.ncbi.nlm.nih.gov/30779529/) | 2019 | RCT Fasa 3 (KEYNOTE-426) | N Engl J Med | Pembrolizumab + axitinib menunjukkan OS, PFS, dan ORR yang lebih baik berbanding sunitinib sebagai rawatan baris pertama untuk RCC lanjutan |
+| [37500340](https://pubmed.ncbi.nlm.nih.gov/37500340/) | 2023 | RCT Fasa 3 susulan 43 bulan | European Urology | Hasil KEYNOTE-426 jangka panjang mengesahkan manfaat OS dan PFS yang kekal untuk pembrolizumab + axitinib |
+| [40750932](https://pubmed.ncbi.nlm.nih.gov/40750932/) | 2025 | Analisis RCT Fasa 3 5 tahun | Nature Medicine | Analisis KEYNOTE-426 5 tahun dengan data biomarker yang telah ditetapkan mengesahkan manfaat klinikal yang kekal |
+| [30779531](https://pubmed.ncbi.nlm.nih.gov/30779531/) | 2019 | RCT Fasa 3 (JAVELIN Renal 101) | N Engl J Med | Avelumab + axitinib memanjangkan PFS secara signifikan berbanding sunitinib dalam RCC lanjutan yang tidak pernah dirawat sebelumnya |
+| [39706335](https://pubmed.ncbi.nlm.nih.gov/39706335/) | 2025 | Analisis akhir RCT Fasa 3 (JAVELIN Renal 101) | Ann Oncol | Analisis OS akhir JAVELIN Renal 101; hasil titik akhir OS utama dilaporkan |
+| [37872020](https://pubmed.ncbi.nlm.nih.gov/37872020/) | 2024 | RCT Fasa 3 (RENOTORCH) | Ann Oncol | Toripalimab + axitinib vs. sunitinib untuk RCC lanjutan risiko pertengahan/buruk; menyokong ICI + axitinib sebagai platform |
+| [33284113](https://pubmed.ncbi.nlm.nih.gov/33284113/) | 2020 | Susulan lanjutan RCT Fasa 3 | Lancet Oncol | Susulan lanjutan KEYNOTE-426: keberkesanan dan keselamatan yang berkelanjutan bagi pembrolizumab + axitinib berbanding sunitinib |
+| [32895571](https://pubmed.ncbi.nlm.nih.gov/32895571/) | 2020 | Analisis biomarker RCT Fasa 3 | Nature Medicine | Analisis molekul JAVELIN Renal 101 (n=886); PD-L1 dan beban mutasi tumor tidak ramalan bagi PFS |
+| [29033542](https://pubmed.ncbi.nlm.nih.gov/29033542/) | 2017 | Semakan Ubat | Drug Des Devel Ther | Farmakologi axitinib, pembangunan, dan kedudukan klinikal sebagai TKI VEGFR generasi kedua dalam RCC |
+| [28276433](https://pubmed.ncbi.nlm.nih.gov/28276433/) | 2017 | Semakan Penyakit | Nat Rev Dis Primers | Tinjauan komprehensif tentang biologi RCC, subtipe molekul, dan landskap rawatan |
+
+---
+
+### Bukti Literatur — Pangkat 4: RCC Zaman Kanak-kanak
+
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-------|------|--------|-----------------|
+| [31012542](https://pubmed.ncbi.nlm.nih.gov/31012542/) | 2019 | Semakan | Pediatr Blood Cancer | Semakan pilihan rawatan untuk RCC pediatrik lanjutan; menyoroti kekurangan terapi piawai dan konteks untuk penggunaan TKI VEGFR |
+| [26279736](https://pubmed.ncbi.nlm.nih.gov/26279736/) | 2015 | Laporan Kes | Can Urol Assoc J | Penggunaan axitinib pertama yang dilaporkan dalam seorang kanak-kanak (12 tahun) dengan angiomiolipoma epiteloid ganas; penulis membuat kesimpulan bahawa protokol dewasa boleh digunakan dengan selamat dalam kes pediatrik jarang ini |
+
+---
+
+## Maklumat Pasaran Malaysia
+
+Axitinib mempunyai **2 produk berdaftar** di pasaran Malaysia. Rekod pendaftaran terperinci (nama produk, bentuk dos, pengilang, dan teks petunjuk yang diluluskan) tidak tersedia pada masa ini dalam pangkalan data bukti dan memerlukan pengesahan langsung dengan NPRA.
 
 | Item | Status |
 |------|--------|
-| Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
-| Product Details | Not available — please verify via NPRA official database |
+| Status Pasaran | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 2 |
+| Butir-butir Produk | Tidak tersedia — sila sahkan melalui pangkalan data rasmi NPRA |
 
 ---
 
-## Cytotoxicity
+## Sitotoksisiti
 
-Axitinib is an anticancer agent indicated for renal cell carcinoma.
+Axitinib ialah ejen antikanser yang ditetapkan untuk karsinoma sel ginjal.
 
-| Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Targeted therapy — Selective VEGFR-1/2/3 tyrosine kinase inhibitor (TKI); not a conventional cytotoxic chemotherapy agent |
-| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
-| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | Please refer to the package insert warnings and precautions |
-| Handling Protection | Standard precautions for oral targeted therapy; consult institutional cytotoxic drug handling guidelines |
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-> Full safety data (warnings, contraindications, and drug interactions) are not available in the current evidence pack. Retrieval of the product package insert (SOP remediation item DG001) is required before clinical decision-making.
+| Item | Kandungan |
+|------|-----------|
+| Pengelasan Sitotoksisiti | Terapi tersasaran — Penghambat tirosin kinase VEGFR-1/2/3 yang selektif (TKI); bukan ejen kemoterapeutik sitotoksik konvensional |
+| Risiko Penindasan Sumsum Tulang | Sila rujuk amaran dan tindakan berjaga-jaga dalam sisipan pakej |
+| Pengelasan Emetogenisiti | Sila rujuk amaran dan tindakan berjaga-jaga dalam sisipan pakej |
+| Item Pemantauan | Sila rujuk amaran dan tindakan berjaga-jaga dalam sisipan pakej |
+| Perlindungan Pengendalian | Tindakan berjaga-jaga piawai untuk terapi tersasaran oral; dapatkan nasihat dari garis panduan pengendalian ubat sitotoksik institusional |
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold (Rank 1: RCC Associated with Neuroblastoma) / Proceed with Guardrails (Rank 6: Renal Carcinoma)**
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-**Rationale:**
-- The top TxGNN prediction (RCC associated with neuroblastoma, L5) has no clinical or published evidence and represents an ultra-rare entity; a "Hold" decision is appropriate until any case-level data emerges.
-- The strongest evidence sits at Rank 6 (renal carcinoma, L1), supported by multiple completed Phase 3 RCTs — this represents Axitinib's approved indication and confirms the model's face validity.
-- RCC subtypes at Ranks 2, 4, and 9 (Xp11.2/TFE3 RCC, childhood RCC, collecting duct carcinoma) have active Phase 2 trials and carry mechanistic rationale; these are appropriate "Research Question" candidates to monitor.
-- Predictions with L5 evidence and no mechanistic link to VEGFR (liposarcoma, ovarian myxoid liposarcoma, angiolipoma, familial spontaneous pneumothorax) should remain on "Hold."
-
-**To proceed, the following is needed:**
-- Retrieve NPRA full registration records for both Axitinib products (product names, dosage forms, approved indications)
-- Obtain detailed MOA data from DrugBank API (data gap DG002) to strengthen mechanistic analysis
-- Download and parse the product package insert PDF to extract warnings and contraindications (data gap DG001 — currently blocks safety pre-screening)
-- Monitor **NCT03595124** results (Xp11.2/TFE3 RCC, expected completion November 2026) as this will provide pivotal evidence for Ranks 2 and 4
-- Monitor **NCT06211114** results (collecting duct carcinoma, expected completion February 2027)
-- Before any off-label use in pediatric patients (Rank 4), obtain pediatric pharmacokinetic data and confirm dosing guidance
+> Data keselamatan penuh (amaran, kontraindikasi, dan interaksi ubat) tidak tersedia dalam pakej bukti semasa. Perolehan sisipan pakej produk (item pemulihan SOP DG001) diperlukan sebelum pembuatan keputusan klinikal.
 
 ---
 
-*This report is for research reference only and does not constitute medical advice. Drug repurposing candidates require clinical validation before application.*
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan (Pangkat 1: RCC Bersekutu dengan Neuroblastoma) / Teruskan dengan Pengawasan Keselamatan (Pangkat 6: Karsinoma Ginjal)**
+
+**Rasional:**
+- Ramalan TxGNN teratas (RCC bersekutu dengan neuroblastoma, L5) tiada bukti klinikal atau terbitan dan mewakili entiti ultra-jarang; keputusan "Tahan" adalah sesuai sehingga mana-mana data peringkat kes muncul.
+- Bukti terkuat duduk di Pangkat 6 (karsinoma ginjal, L1), disokong oleh berbilang RCT Fasa 3 yang selesai — ini mewakili petunjuk yang diluluskan untuk Axitinib dan mengesahkan kesahihan muka model.
+- Subtipe RCC di Pangkat 2, 4, dan 9 (RCC Xp11.2/TFE3, RCC zaman kanak-kanak, karsinoma saluran pengumpul) mempunyai ujian Fasa 2 yang aktif dan membawa rasional mekanistik; ini adalah calon "Soalan Penyelidikan" yang sesuai untuk dipantau.
+- Ramalan dengan bukti L5 dan tiada kaitan mekanistik kepada VEGFR (liposarkoma, liposarkoma miksoid ovari, angiolipoma, pneumotoraks spontan keluarga) harus kekal pada "Tahan."
+
+**Untuk teruskan, yang berikut diperlukan:**
+- Ambil rekod pendaftaran penuh NPRA untuk kedua-dua produk Axitinib (nama produk, bentuk dos, petunjuk yang diluluskan)
+- Dapatkan data mekanisme tindakan terperinci daripada API DrugBank (jurang data DG002) untuk mengukuhkan analisis mekanistik
+- Muat turun dan parsing PDF sisipan pakej produk untuk mengekstrak amaran dan kontraindikasi (jurang data DG001 — pada masa ini menyekat penyaringan keselamatan pra)
+- Pantau hasil **NCT03595124** (RCC Xp11.2/TFE3, selesai dijangka November 2026) kerana ini akan memberikan bukti penting untuk Pangkat 2 dan 4
+- Pantau hasil **NCT06211114** (karsinoma saluran pengumpul, selesai dijangka Februari 2027)
+- Sebelum sebarang penggunaan luar label dalam pesakit pediatrik (Pangkat 4), dapatkan data farmakokinetik pediatrik dan sahkan panduan pemberian dos
+
+---
+
+*Laporan ini adalah untuk rujukan penyelidikan sahaja dan tidak membentuk nasihat perubatan. Calon penjadualan semula ubat memerlukan pengesahan klinikal sebelum aplikasi.*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

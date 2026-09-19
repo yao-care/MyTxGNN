@@ -29,93 +29,94 @@ Tahap bukti: **L4** | Indikasi diramal: **1**
 
 </div>
 
-# Apixaban: From Thromboembolic Prevention to Migraine Disorder
+# Apixaban: Daripada Pencegahan Thromboembolik kepada Gangguan Migrain
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Apixaban is a direct oral anticoagulant (Factor Xa inhibitor) approved in Malaysia for the prevention of stroke and systemic embolism in patients with atrial fibrillation, as well as treatment and prevention of deep vein thrombosis (DVT) and pulmonary embolism (PE).
-The TxGNN model predicts it may be effective for **Migraine Disorder**,
-with **1 clinical trial** and **4 publications** currently available — though the evidence is indirect and in some cases argues against Apixaban specifically.
+Apixaban adalah antikoagulan oral langsung (perencat Faktor Xa) yang diluluskan di Malaysia untuk pencegahan strok dan emboli sistemik pada pesakit dengan fibrilasi atrium, serta rawatan dan pencegahan trombosis vena dalam (DVT) dan embolisme pulmonari (PE).
+Model TxGNN meramalkan ia mungkin berkesan untuk **Gangguan Migrain**,
+dengan **1 ujian klinikal** dan **4 penerbitan** kini tersedia — walaupun buktinya tidak langsung dan dalam beberapa kes melawan Apixaban secara khusus.
 
 ---
 
-## Quick Overview
+## Gambaran Keseluruhan Cepat
 
-| Item | Content |
+| Item | Kandungan |
 |------|---------|
-| Original Indication | Stroke/embolism prevention; DVT/PE treatment (licensed indication detail not retrieved in this data pull) |
-| Predicted New Indication | Migraine Disorder |
-| TxGNN Prediction Score | 99.02% |
-| Evidence Level | L4 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 25 |
-| Recommended Decision | Hold |
+| Indikasi Asal | Pencegahan strok/emboli; rawatan DVT/PE (butiran indikasi berlesen tidak diperoleh dalam penarikan data ini) |
+| Indikasi Baharu yang Diramalkan | Gangguan Migrain |
+| Skor Ramalan TxGNN | 99.02% |
+| Tahap Bukti | L4 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 25 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Apixaban is a selective, direct inhibitor of coagulation Factor Xa, blocking the conversion of prothrombin to thrombin and thereby suppressing clot formation. Although its approved use centres on thromboembolic conditions, the hypothesised link to migraine rests on three overlapping mechanisms: (1) **thrombin modulation** — thrombin has been proposed to facilitate cortical spreading depression (CSD), the electrophysiological substrate of migraine aura; (2) **PFO-mediated microembolism** — closure of a patent foramen ovale (PFO) has been associated with migraine reduction, and anticoagulation is one management strategy for cryptogenic stroke in PFO patients; (3) **antiphospholipid antibody syndrome (APS)** — patients with aPL positivity and refractory migraine appear to benefit from antithrombotic therapy.
+Apixaban adalah perencat Faktor Xa koagulasi yang selektif dan langsung, menyekat penukaran protrombin kepada trombin dan dengan itu menindas pembentukan bekuan. Walaupun penggunaannya yang diluluskan berpusat pada keadaan thromboembolik, kaitan hipotesis dengan migrain bergantung pada tiga mekanisme yang bertindih: (1) **modulasi trombin** — trombin telah dicadangkan untuk memudahkan penyebaran korteks (CSD), substrat elektrofisiologi aura migrain; (2) **mikroembolisme yang dimediasi PFO** — penutupan foramen ovale paten (PFO) telah dikaitkan dengan pengurangan migrain, dan antikoagulasi adalah satu strategi pengurusan untuk strok kriptogenik pada pesakit PFO; (3) **sindrom antifosfolipid (APS)** — pesakit dengan kepositifan aPL dan migrain yang sukar dirawat nampaknya mendapat manfaat daripada terapi antitrombolik.
 
-However, the mechanistic case for Apixaban *specifically* is substantially weakened by the existing clinical literature. A directly relevant case report (PMID 28960288) documents a patient whose migraine with aura remitted completely on warfarin but returned within three weeks of switching to apixaban, resolving again only after warfarin was resumed. This suggests that the anti-migraine effect may depend on warfarin's broader pharmacological actions — including effects on Protein C/S and other vitamin K-dependent pathways — rather than Factor Xa inhibition alone.
+Walau bagaimanapun, kes mekanistik untuk Apixaban *secara khusus* amat dilemahkan oleh sastera klinikal yang sedia ada. Laporan kes yang berkaitan secara langsung (PMID 28960288) mendokumentasikan pesakit yang migrain dengan aura remitnya sepenuhnya pada warfarin tetapi kembali dalam tiga minggu selepas beralih kepada apixaban, bertindak balas sekali lagi hanya selepas warfarin disambung semula. Ini menunjukkan bahawa kesan anti-migrain mungkin bergantung pada tindakan farmakologi warfarin yang lebih luas — termasuk kesan pada Protein C/S dan laluan bergantung vitamin K lain — daripada perencatan Faktor Xa sahaja.
 
-Therefore, while the anticoagulant drug class carries biologically plausible associations with migraine, the translation of that signal to Apixaban as a class representative is not currently supported by direct positive evidence, and at least one head-to-head clinical observation actively contradicts this extrapolation.
+Oleh itu, sementara kelas ubat antikoagulan membawa persatuan yang masuk akal secara biologi dengan migrain, terjemahan isyarat itu kepada Apixaban sebagai wakil kelas pada masa ini tidak disokong oleh bukti positif langsung, dan sekurang-kurangnya satu pemerhatian klinikal head-to-head secara aktif bercanggah dengan ekstrapolasi ini.
 
 ---
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT00562289](https://clinicaltrials.gov/study/NCT00562289) | Phase 3 | Completed | 664 | Compares PFO closure vs. anticoagulants vs. antiplatelet therapy for secondary stroke prevention. Primary endpoint is stroke recurrence, **not migraine**. Anticoagulant used was not specified as Apixaban. Any migraine-related benefit would be incidental to PFO management. Relevance to Apixaban-specific migraine treatment is low (Grade C). |
+| [NCT00562289](https://clinicaltrials.gov/study/NCT00562289) | Fasa 3 | Selesai | 664 | Membandingkan penutupan PFO vs. antikoagulan vs. terapi antiplatelet untuk pencegahan strok sekunder. Titik akhir utama ialah berulangnya strok, **bukan migrain**. Antikoagulan yang digunakan tidak dinyatakan sebagai Apixaban. Sebarang manfaat yang berkaitan dengan migrain adalah sampingan kepada pengurusan PFO. Kaitan kepada rawatan migrain khusus Apixaban adalah rendah (Gred C). |
 
 ---
 
-## Literature Evidence
+## Bukti Sastera
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [33402037](https://pubmed.ncbi.nlm.nih.gov/33402037/) | 2021 | Small Prospective Trial | *Lupus* | 75 patients with aPL antibodies and refractory migraine trialled antithrombotic therapy; a subset showed symptomatic improvement. Suggests anticoagulation may benefit a specific aPL-positive migraine subgroup, but Apixaban is not specifically evaluated. |
-| [37582651](https://pubmed.ncbi.nlm.nih.gov/37582651/) | 2023 | Case Report + Literature Review | *The Neurologist* | Reviews impact of DOACs on headache/migraine frequency and severity. Notes the literature is scarce and controversial; the role of Apixaban specifically is unclear. |
-| [28960288](https://pubmed.ncbi.nlm.nih.gov/28960288/) | 2017 | Case Report | *Headache* | **Critical negative signal**: A 55-year-old woman had complete migraine with aura remission for 12 years on warfarin; symptoms returned within 3 weeks of switching to apixaban and resolved again upon resuming warfarin. Suggests Factor Xa inhibition alone is insufficient to replicate warfarin's anti-migraine effect. |
-| [29611190](https://pubmed.ncbi.nlm.nih.gov/29611190/) | 2018 | Case Report | *Headache* | Vestibular migraine resolved with warfarin plus topiramate. No direct involvement of Apixaban; further supports the warfarin-specific rather than class-wide anticoagulation hypothesis. |
+| [33402037](https://pubmed.ncbi.nlm.nih.gov/33402037/) | 2021 | Ujian Prospektif Kecil | *Lupus* | 75 pesakit dengan antibodi aPL dan migrain yang sukar dirawat diuji dengan terapi antitrombolik; subset menunjukkan penambahan simptomatik. Mencadangkan antikoagulasi mungkin memberi manfaat kepada subkumpulan migrain aPL-positif yang khusus, tetapi Apixaban tidak dinilai secara khusus. |
+| [37582651](https://pubmed.ncbi.nlm.nih.gov/37582651/) | 2023 | Laporan Kes + Semakan Sastera | *The Neurologist* | Menyemak kesan DOAC pada kekerapan/keterukan sakit kepala/migrain. Menyatakan bahawa sastera adalah jarang dan kontroversial; peranan Apixaban secara khusus tidak jelas. |
+| [28960288](https://pubmed.ncbi.nlm.nih.gov/28960288/) | 2017 | Laporan Kes | *Headache* | **Isyarat negatif kritis**: Seorang wanita berusia 55 tahun mengalami remisi migrain lengkap dengan aura selama 12 tahun pada warfarin; simptom kembali dalam 3 minggu beralih kepada apixaban dan bertindak balas sekali lagi selepas warfarin disambung semula. Mencadangkan bahawa perencatan Faktor Xa sahaja adalah tidak mencukupi untuk menirukan kesan anti-migrain warfarin. |
+| [29611190](https://pubmed.ncbi.nlm.nih.gov/29611190/) | 2018 | Laporan Kes | *Headache* | Migrain vestibular bertindak balas dengan warfarin ditambah topiramate. Tiada keterlibatan langsung Apixaban; lanjutan menyokong hipotesis warfarin-spesifik daripada antikoagulasi seluruh kelas. |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Twenty-five product registrations for Apixaban are recorded with Malaysia's NPRA. Detailed product-level data (authorization numbers, brand names, dosage forms, and approved indication text) was not retrieved in this data pull and should be verified directly via the NPRA Product Registration database.
+Dua puluh lima pendaftaran produk untuk Apixaban dicatat dengan NPRA Malaysia. Data peringkat produk terperinci (nombor kebenaran, nama merek, bentuk dos, dan teks indikasi yang diluluskan) tidak diperoleh dalam penarikan data ini dan harus disahkan terus melalui pangkalan data Pendaftaran Produk NPRA.
 
-> **Action Required**: Retrieve full licence details from [NPRA Product Registration](https://www.npra.gov.my) to populate this table before regulatory submission or formulary review.
-
----
-
-## Safety Considerations
-
-Safety data (key warnings, contraindications, and drug-drug interactions) was not retrieved in this data pull.
-
-> Please refer to the Apixaban package insert (e.g., Eliquis® prescribing information) for full safety information, including haemorrhagic risk, drug interactions (especially with strong CYP3A4/P-gp inhibitors), and contraindications in patients with active clinically significant bleeding or severe hepatic impairment.
+> **Tindakan Diperlukan**: Ambil butiran lesen penuh daripada [Pendaftaran Produk NPRA](https://www.npra.gov.my) untuk melengkapkan jadual ini sebelum penyerahan peraturan atau semakan formulari.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Data keselamatan (amaran utama, kontraindikasi, dan interaksi ubat-ubatan) tidak diperoleh dalam penarikan data ini.
 
-**Rationale:**
-Despite a high TxGNN prediction score (99.02%), the available evidence does not support Apixaban as an effective treatment for migraine disorder. The only directly relevant clinical observation (PMID 28960288) demonstrates that the migraine-suppressing effect seen with warfarin was *not* reproduced by Apixaban, indicating a drug-specific rather than class-wide mechanism. The remaining literature is confined to low-tier case reports and one small retrospective study in an aPL-positive subgroup. Current evidence is insufficient to advance this candidate to the next screening stage.
-
-**To proceed, the following is needed:**
-
-- **Mechanism clarification**: Obtain full MOA data from DrugBank (DG002) to determine whether any Apixaban-specific pathway could plausibly modulate CSD or migraine pathophysiology independently of warfarin's vitamin K-dependent effects.
-- **Safety profile**: Download and parse the TFDA/NPRA package insert PDF to complete the safety assessment (DG001 — currently Blocking for S1 safety screening).
-- **Malaysia licence details**: Retrieve full NPRA registration data to confirm marketed formulations and approved indications.
-- **Subgroup hypothesis**: If pursuing this indication further, focus on the aPL-positive refractory migraine subgroup (PMID 33402037) rather than unselected migraine, as this is the mechanistically coherent population for anticoagulant intervention.
-- **Prospective clinical data**: A dedicated Phase 2 RCT comparing Apixaban to warfarin and placebo in aPL-positive migraine patients would be required to resolve the current uncertainty before any L2-level evidence can be claimed.
+> Sila rujuk risalah pakej Apixaban (cth., maklumat preskripsi Eliquis®) untuk maklumat keselamatan penuh, termasuk risiko pendarahan, interaksi ubat (terutamanya dengan perencat CYP3A4/P-gp yang kuat), dan kontraindikasi pada pesakit dengan pendarahan yang klinikal bererti atau kecacatan hepatik yang teruk.
 
 ---
 
-> ⚠️ **Disclaimer**: This report is for research reference only and does not constitute medical advice. Drug repurposing candidates require clinical validation before any therapeutic application.
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Walaupun skor ramalan TxGNN yang tinggi (99.02%), bukti yang tersedia tidak menyokong Apixaban sebagai rawatan yang berkesan untuk gangguan migrain. Satu-satunya pemerhatian klinikal yang berkaitan secara langsung (PMID 28960288) menunjukkan bahawa kesan migrain-menindas yang dilihat dengan warfarin *bukan* direplikasi oleh apixaban, menunjukkan mekanisme spesifik ubat daripada seluruh kelas. Sastera yang tinggal terbatas kepada laporan kes peringkat rendah dan satu kajian retrospektif kecil dalam subkumpulan aPL-positif. Bukti semasa adalah tidak mencukupi untuk memajukan calon ini ke peringkat saringan seterusnya.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+
+- **Penjelasan mekanisme**: Dapatkan data MOA lengkap daripada DrugBank (DG002) untuk menentukan sama ada sebarang laluan spesifik Apixaban boleh secara munasabah memodulasi CSD atau patofisiologi migrain secara bebas daripada kesan warfarin yang bergantung vitamin K.
+- **Profil keselamatan**: Muat turun dan analisis PDF risalah pakej TFDA/NPRA untuk melengkapkan penilaian keselamatan (DG001 — kini Menyekat untuk saringan keselamatan S1).
+- **Butiran lesen Malaysia**: Ambil data pendaftaran NPRA penuh untuk mengesahkan formulasi yang dipasarkan dan indikasi yang diluluskan.
+- **Hipotesis subkumpulan**: Jika meneruskan indikasi ini lebih jauh, fokus pada subkumpulan migrain aPL-positif yang sukar dirawat (PMID 33402037) daripada migrain yang tidak dipilih, kerana ini adalah populasi yang koheren secara mekanistik untuk campur tangan antikoagulan.
+- **Data klinikal prospektif**: Satu ujian RCT Fasa 2 khusus membandingkan Apixaban dengan warfarin dan plasebo pada pesakit migrain aPL-positif diperlukan untuk menyelesaikan ketidakpastian semasa sebelum sebarang bukti tahap L2 boleh dituntut.
+
+---
+
+> ⚠️ **Penafian**: Laporan ini adalah untuk rujukan penyelidikan sahaja dan tidak membentuk nasihat perubatan. Calon penggunaan semula ubat memerlukan pengesahan klinikal sebelum sebarang aplikasi terapeutik.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

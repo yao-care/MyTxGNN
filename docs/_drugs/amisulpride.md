@@ -29,75 +29,76 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Amisulpride: Repurposing Evaluation — No TxGNN Predictions Available
+# Amisulpride: Penilaian Penggunaan Semula — Tiada Ramalan TxGNN Tersedia
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Amisulpride (DB06288) is an atypical antipsychotic with 4 registered products in the Malaysian market.
-The current Evidence Pack contains **no TxGNN repurposing predictions**, and critical data fields — including mechanism of action, approved indications, and safety warnings — are absent.
-This evaluation cannot proceed beyond a preliminary status assessment until data collection is completed.
+Amisulpride (DB06288) ialah antipsikotik atipikal dengan 4 produk berdaftar di pasaran Malaysia.
+Evidence Pack semasa tidak mengandungi **ramalan penggunaan semula TxGNN**, dan medan data kritikal — termasuk mekanisme tindakan, indikasi yang diluluskan, dan amaran keselamatan — tidak hadir.
+Penilaian ini tidak dapat diteruskan melebihi penilaian status awal sehingga pengumpulan data selesai.
 
 ---
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
+| Item | Kandungan |
 |------|---------|
-| Original Indication | Not retrieved from current data |
-| Predicted New Indication | Not available |
-| TxGNN Prediction Score | Not available |
-| Evidence Level | — (No predictions generated) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 4 |
-| Recommended Decision | **Hold** |
+| Indikasi Asal | Tidak diambil daripada data semasa |
+| Indikasi Baru yang Diramalkan | Tidak tersedia |
+| Skor Ramalan TxGNN | Tidak tersedia |
+| Tahap Bukti | — (Tiada ramalan dijana) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 4 |
+| Keputusan yang Disyorkan | **Tahan** |
 
 ---
 
-## Why Are No Predictions Available?
+## Mengapa Tiada Ramalan Tersedia?
 
-Amisulpride could not generate TxGNN predictions in this cycle due to two unresolved data gaps that block the pipeline:
+Amisulpride tidak dapat menjana ramalan TxGNN dalam kitaran ini kerana dua jurang data yang tidak diselesaikan yang menyekat saluran:
 
-**1. Missing mechanism of action (MOA):** The DrugBank API query returned a result (query log ID 2, 2026-03-27), but MOA fields were not populated in the Evidence Pack. Without confirmed mechanistic data, the knowledge graph cannot establish disease-link pathways to candidate repurposing targets.
+**1. Mekanisme tindakan (MOA) yang hilang:** Pertanyaan API DrugBank mengembalikan hasil (query log ID 2, 2026-03-27), tetapi medan MOA tidak diisi dalam Evidence Pack. Tanpa data mekanistik yang disahkan, graf pengetahuan tidak dapat mewujudkan laluan pautan penyakit kepada sasaran penggunaan semula calon.
 
-**2. Empty approved indication fields:** All 4 NPRA-registered licenses returned blank indication text. Without a baseline disease anchor, the system cannot perform disease-similarity scoring or filter candidate predictions.
+**2. Medan indikasi yang diluluskan kosong:** Kesemua 4 lesen berdaftar NPRA mengembalikan teks indikasi kosong. Tanpa sauh penyakit asas, sistem tidak dapat menjalankan pemarkahan persamaan penyakit atau menapis ramalan calon.
 
-From published medical literature, amisulpride is known as a **selective dopamine D2/D3 receptor antagonist**. At standard antipsychotic doses (400–800 mg/day), it reduces positive and negative symptoms of schizophrenia by blocking postsynaptic dopamine receptors. At ultra-low doses (5–25 mg), it preferentially acts on presynaptic autoreceptors, which underpins its well-documented antiemetic properties — a mechanism that resulted in U.S. FDA approval for postoperative nausea and vomiting (PONV) in 2020 (brand name: Barhemsys®). Once MOA and indication data are formally captured, a meaningful TxGNN prediction run is expected to be feasible.
+Daripada literatur perubatan terbitan, amisulpride dikenali sebagai **antagonis reseptor dopamin D2/D3 yang selektif**. Pada dos antipsikotik standard (400–800 mg/hari), ia mengurangkan gejala positif dan negatif skizofrenia dengan menyekat reseptor dopamin postsinaptik. Pada dos ultra-rendah (5–25 mg), ia bertindak secara pilihan pada autorreseptor pra-sinaptik, yang mendasari sifat antiemetiknya yang terdokumentasi dengan baik — mekanisme yang menghasilkan kelulusan FDA AS untuk mual dan muntah selepas operasi (PONV) pada 2020 (nama jenama: Barhemsys®). Setelah data MOA dan indikasi ditangkap secara rasmi, dijangka larian ramalan TxGNN yang bermakna boleh dilaksanakan.
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-The NPRA query (2026-03-27) confirmed 4 registered products, but product-level details were not returned in this data cycle. The table below cannot be populated until a secondary NPRA data pull is completed.
+Pertanyaan NPRA (2026-03-27) mengesahkan 4 produk berdaftar, tetapi butiran aras produk tidak dipulangkan dalam kitaran data ini. Jadual di bawah tidak dapat diisi sehingga penarikan data NPRA sekunder selesai.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
 |---------------------|-------------|-------------|---------------------|
-| (data not retrieved) | (data not retrieved) | (data not retrieved) | (data not retrieved) |
+| (data tidak diambil) | (data tidak diambil) | (data tidak diambil) | (data tidak diambil) |
 
-> **Note:** NPRA returned a successful query with 4 results, but all license record fields (product name, dosage form, manufacturer, approved indication) are empty strings. A re-query targeting individual product monographs or package insert PDFs is required.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-> Key warnings, contraindications, and drug interaction data were not available in this Evidence Pack. NPRA package inserts should be downloaded and parsed as the primary remediation step.
+> **Nota:** NPRA mengembalikan pertanyaan yang berjaya dengan 4 hasil, tetapi semua medan rekod lesen (nama produk, bentuk dos, pengeluar, indikasi yang diluluskan) adalah rentetan kosong. Pertanyaan semula yang menyasarkan monograf produk individu atau PDF sisipan pakej diperlukan.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila merujuk kepada sisipan pakej untuk maklumat keselamatan.
 
-**Rationale:**
-No TxGNN predictions were generated, and all three core evaluation inputs — approved indication, mechanism of action, and safety profile — are missing. There is insufficient evidence to assess repurposing potential or safety feasibility at this stage.
+> Amaran kunci, kontraindikasi, dan data interaksi ubat tidak tersedia dalam Evidence Pack ini. Sisipan pakej NPRA harus dimuat turun dan dianalisis sebagai langkah remediasi utama.
 
-**To proceed, the following is needed:**
+---
 
-- **NPRA package insert retrieval**: Download PDF monographs for all 4 registered products to extract approved indications, key warnings, and contraindications (Data Gap DG001 — Blocking severity)
-- **DrugBank API re-query**: Retrieve mechanism of action, pharmacodynamics, and drug interaction data for DB06288 (Data Gap DG002 — High severity)
-- **TxGNN pipeline re-run**: After resolving DG001 and DG002, re-execute the KG prediction and DL prediction pipelines to generate candidate repurposing indications
-- **NPRA product detail verification**: Confirm whether all 4 registrations share the same indication (e.g., schizophrenia only) or whether a low-dose antiemetic indication (PONV) is separately registered in Malaysia
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Tiada ramalan TxGNN dijana, dan ketiga-tiga input penilaian teras — indikasi yang diluluskan, mekanisme tindakan, dan profil keselamatan — hilang. Tiada bukti yang mencukupi untuk menilai potensi penggunaan semula atau kebolehlaksanaan keselamatan pada peringkat ini.
+
+**Untuk diteruskan, yang berikut diperlukan:**
+
+- **Pengambilan sisipan pakej NPRA**: Muat turun monograf PDF untuk kesemua 4 produk berdaftar untuk mengekstrak indikasi yang diluluskan, amaran kunci, dan kontraindikasi (Data Gap DG001 — Keterukan yang menyekat)
+- **Pertanyaan semula API DrugBank**: Ambil data mekanisme tindakan, farmakodinamik, dan interaksi ubat untuk DB06288 (Data Gap DG002 — Keterukan tinggi)
+- **Larian semula saluran TxGNN**: Setelah menyelesaikan DG001 dan DG002, jalankan semula saluran ramalan KG dan ramalan DL untuk menjana indikasi penggunaan semula calon
+- **Pengesahan butiran produk NPRA**: Sahkan sama ada kesemua 4 pendaftaran berkongsi indikasi yang sama (cth, skizofrenia sahaja) atau sama ada indikasi antiemetik dos rendah (PONV) didaftarkan secara berasingan di Malaysia
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

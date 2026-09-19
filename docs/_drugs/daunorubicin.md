@@ -29,80 +29,81 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Daunorubicin: From Acute Myeloid Leukemia to Acute Lymphoblastic/Lymphocytic Leukemia
+# Daunorubicin: Dari Leukemia Myeloid Akut kepada Leukemia Limfoblastik/Limfositik Akut
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Daunorubicin is a classic anthracycline cytotoxic agent, established in clinical practice primarily for induction therapy of acute myeloid leukemia (AML). The TxGNN model's top-ranked prediction points to **Acute Lymphoblastic/Lymphocytic Leukemia (ALL)**, with 50 clinical trials retrieved from the query, several of which (grade A relevance) explicitly use daunorubicin-based induction protocols — though a substantial share of the retrieved trial pool actually concerns doxorubicin, not daunorubicin, and no literature was returned. Because the evidence pack's `original_indications` field is empty, this prediction may represent confirmation of an existing approved use rather than a genuinely novel repurposing.
+Daunorubicin adalah agen sitotoksik antrasklin klasik, yang sudah ditetapkan dalam praktik klinis terutama untuk terapi induksi leukemia myeloid akut (AML). Prediksi model TxGNN yang tertinggi menunjuk kepada **Leukemia Limfoblastik/Limfositik Akut (ALL)**, dengan 50 uji klinis yang diambil dari pertanyaan, beberapa di antaranya (relevansi kelas A) secara eksplisit menggunakan protokol induksi berbasis daunorubicin — meskipun sebagian besar daripada kumpulan uji coba yang diambil sebenarnya menyangkut doxorubicin, bukan daunorubicin, dan tiada literatur yang dikembalikan. Kerana bidang `original_indications` dalam paket bukti kosong, prediksi ini mungkin mewakili pengesahan penggunaan yang sudah diluluskan daripada penggantian yang benar-benar baru.
 
-## Quick Overview
+## Gambaran Ringkas
 
-| Item | Content |
-|------|------|
-| Original Indication | Acute myeloid leukemia (based on established pharmacological/clinical knowledge; specific approved indication text not returned in this evidence pack — see Data Gaps) |
-| Predicted New Indication | Acute Lymphoblastic/Lymphocytic Leukemia (ALL) |
-| TxGNN Prediction Score | 99.82% |
-| Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 3 |
-| Recommended Decision | Proceed with Guardrails |
+| Item | Kandungan |
+|------|---------|
+| Indikasi Asli | Leukemia myeloid akut (berdasarkan pengetahuan farmakologi/klinis yang sudah ditetapkan; teks indikasi yang diluluskan khusus tidak dikembalikan dalam paket bukti ini — lihat Celah Data) |
+| Indikasi Baru yang Diramalkan | Leukemia Limfoblastik/Limfositik Akut (ALL) |
+| Skor Ramalan TxGNN | 99.82% |
+| Tahap Bukti | L1 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 3 |
+| Keputusan yang Disyorkan | Lanjutkan dengan Langkah Pengaman |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Masuk Akal?
 
-Currently, detailed mechanism of action data is not available in this evidence pack (Data Gap DG002). Based on established pharmacological knowledge, Daunorubicin belongs to the anthracycline antibiotic class, acting as a DNA intercalator and topoisomerase II inhibitor that induces double-strand breaks and cytotoxicity in rapidly dividing cells. Its efficacy in AML induction has been proven for decades, and mechanistically this class of agents is broadly applicable across acute leukemias, since ALL and AML share the underlying vulnerability of rapidly proliferating blast cells to DNA-damaging cytotoxics.
+Pada masa kini, data mekanisme tindakan terperinci tidak tersedia dalam paket bukti ini (Celah Data DG002). Berdasarkan pengetahuan farmakologi yang sudah ditetapkan, daunorubicin termasuk dalam kelas antibiotik antrasklin, bertindak sebagai interkalator DNA dan perencat topoisomerase II yang menginduksi pemutusan untai ganda dan sitotoksisitas dalam sel yang membelah dengan cepat. Keberkesanan dalam aruhan AML telah terbukti selama beberapa dekad, dan secara mekanistik kelas agen ini boleh diterapkan secara meluas di seluruh leukemia akut, kerana ALL dan AML berkongsi kerentanan asas sel blastik yang berkembang pesat terhadap sitostatik yang merosakkan DNA.
 
-Importantly, the repurposing rationale attached to this candidate notes that daunorubicin is already a long-standing component of standard ALL induction/consolidation regimens (e.g., VDLP-type and PETHEMA/LAL-family protocols), rather than a newly hypothesized use. Several of the highest-relevance trials (graded "A") are Spanish PETHEMA LAL-Ph-2000 and LAL-BR/2001 protocols, and one trial (NCT01990807) explicitly names daunorubicin in its consolidation arm. This suggests the empty `original_indications` field is more likely a data-collection gap than evidence that ALL is truly unapproved — this should be verified against the TFDA/DrugBank label before treating the candidate as a novel indication.
+Adalah penting untuk dinyatakan bahawa rasional penggantian ubat yang disertakan dengan kandidat ini menyatakan bahawa daunorubicin sudah menjadi komponen jangka panjang daripada rejimen aruhan/pengukuhan standard ALL (misalnya, protokol jenis VDLP dan PETHEMA/LAL-keluarga), bukan penggunaan yang baru dihipotesiskan. Beberapa uji coba relevansi tertinggi (dinilai "A") adalah protokol PETHEMA LAL-Ph-2000 dan LAL-BR/2001 Sepanyol, dan satu uji coba (NCT01990807) secara terang-terangan menyebut daunorubicin dalam lengan pengukuhannya. Ini mencadangkan bidang `original_indications` yang kosong lebih berkemungkinan adalah celah pengumpulan data daripada bukti bahawa ALL benar-benar tidak diluluskan — ini harus disahkan terhadap label TFDA/DrugBank sebelum merawat kandidat sebagai indikasi baru.
 
-A caution: the majority of the 50 retrieved trials for this indication actually describe doxorubicin-based regimens (e.g., hyper-CVAD, DA-EPOCH), which are pharmacologically related but not the same drug. This substantially dilutes the apparent size of the evidence base and should be accounted for in any downstream scoring.
+Amaran: majoriti daripada 50 uji coba yang diambil untuk indikasi ini sebenarnya menggambarkan rejimen berasaskan doxorubicin (misalnya, hyper-CVAD, DA-EPOCH), yang berkaitan secara farmakologis tetapi bukan ubat yang sama. Ini secara besar mengurangkan saiz sebenar asas bukti dan harus diambil kira dalam mana-mana penilaian hiliran.
 
-## Clinical Trial Evidence
+## Bukti Uji Klinis
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Uji | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT01190930](https://clinicaltrials.gov/study/NCT01190930) | Phase 3 | Active, not recruiting | 9,350 | Large COG standard-risk B-ALL/localized B-LLy trial; risk-adapted chemotherapy including anthracycline induction (Grade A relevance — daunorubicin is a common COG regimen component). |
-| [NCT00526305](https://clinicaltrials.gov/study/NCT00526305) | Phase 4 | Completed | 100 | LAL-Ph-2000 (PETHEMA, Spain): treatment protocol for Philadelphia-positive ALL; this protocol family conventionally uses daunorubicin rather than doxorubicin (Grade A). |
-| [NCT00526175](https://clinicaltrials.gov/study/NCT00526175) | Phase 4 | Completed | 150 | LAL-BR/2001 (PETHEMA): low-risk ALL consolidation intensified with high-dose methotrexate; same protocol family as above, daunorubicin-based (Grade A). |
-| [NCT01990807](https://clinicaltrials.gov/study/NCT01990807) | Phase 4 | Unknown | 20 | Philadelphia-negative high-risk childhood ALL: induction with idarubicin, consolidation explicitly includes daunorubicin + vincristine + L-asparaginase + dexamethasone. |
-| [NCT02269579](https://clinicaltrials.gov/study/NCT02269579) | Phase 2 | Withdrawn (enrollment 0) | 0 | Pharmacokinetic study of CPX-351 (liposomal cytarabine:daunorubicin) in acute leukemias/MDS with hepatic impairment; trial did not proceed to enrollment. |
-| [NCT00198978](https://clinicaltrials.gov/study/NCT00198978) | Phase 4 | Completed | 377 | GMALL Elderly 1/2003: dose-reduced chemotherapy for elderly ALL patients; anthracycline-based backbone but drug not specifically confirmed as daunorubicin (Grade B). |
-| [NCT01117441](https://clinicaltrials.gov/study/NCT01117441) | Phase 3 | Completed | 6,136 | International collaborative COG/pediatric protocol comparing combination chemotherapy regimens for childhood ALL; anthracycline component not yet confirmed as daunorubicin-specific. |
-| [NCT02883049](https://clinicaltrials.gov/study/NCT02883049) | Phase 3 | Active, not recruiting | 5,949 | COG high-risk B-ALL trial evaluating dasatinib addition for Ph-like TKI-sensitive mutations; large confirmatory trial, drug-specificity to daunorubicin not yet reviewed. |
+| [NCT01190930](https://clinicaltrials.gov/study/NCT01190930) | Fasa 3 | Aktif, tidak merekrut | 9,350 | Uji coba B-ALL berisiko standard COG besar/dipancarkan B-LLy; kemoterapy yang disesuaikan dengan risiko termasuk aruhan antrasklin (Relevansi kelas A — daunorubicin adalah komponen rejimen COG umum). |
+| [NCT00526305](https://clinicaltrials.gov/study/NCT00526305) | Fasa 4 | Selesai | 100 | LAL-Ph-2000 (PETHEMA, Sepanyol): protokol rawatan untuk ALL positif Philadelphia; keluarga protokol ini secara konvensional menggunakan daunorubicin daripada doxorubicin (Kelas A). |
+| [NCT00526175](https://clinicaltrials.gov/study/NCT00526175) | Fasa 4 | Selesai | 150 | LAL-BR/2001 (PETHEMA): pengukuhan ALL berisiko rendah yang diperkuat dengan metotreksat dos tinggi; keluarga protokol yang sama seperti di atas, berasaskan daunorubicin (Kelas A). |
+| [NCT01990807](https://clinicaltrials.gov/study/NCT01990807) | Fasa 4 | Tidak diketahui | 20 | ALL kanak-kanak berisiko tinggi negatif Philadelphia: aruhan dengan idarubicin, pengukuhan secara terang-terangan merangkumi daunorubicin + vincristine + L-asparaginase + dexamethasone. |
+| [NCT02269579](https://clinicaltrials.gov/study/NCT02269579) | Fasa 2 | Ditarik (pendaftaran 0) | 0 | Kajian farmakokinetik CPX-351 (cytarabine:daunorubicin liposamal) dalam leukemia akut/MDS dengan gangguan hepatik; uji coba tidak berjaya ke pendaftaran. |
+| [NCT00198978](https://clinicaltrials.gov/study/NCT00198978) | Fasa 4 | Selesai | 377 | GMALL Warga Tua 1/2003: kemoterapy dos berkurangan untuk pesakit ALL warga tua; tulang punggung berasaskan antrasklin tetapi ubat tidak secara khusus disahkan sebagai daunorubicin (Kelas B). |
+| [NCT01117441](https://clinicaltrials.gov/study/NCT01117441) | Fasa 3 | Selesai | 6,136 | Protokol kolaboratif internasional COG/pediatrik membandingkan rejimen kemoterapy gabungan untuk ALL kanak-kanak; komponen antrasklin belum disahkan sebagai spesifik daunorubicin. |
+| [NCT02883049](https://clinicaltrials.gov/study/NCT02883049) | Fasa 3 | Aktif, tidak merekrut | 5,949 | Uji coba B-ALL berisiko tinggi COG menilai penambahan dasatinib untuk mutasi mirip Ph yang sensitif TKI; uji coba pengesahan besar, kekhususan ubat untuk daunorubicin belum dikaji semula. |
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no related literature available (PubMed query for Daunorubicin + acute lymphoblastic/lymphocytic leukemia returned 0 results as of the 2026-03-26 data cutoff).
+Pada masa kini tiada literatur berkaitan yang tersedia (pencarian PubMed untuk daunorubicin + acute lymphoblastic/lymphocytic leukemia mengembalikan 0 hasil setakat tarikh cutoff data 2026-03-26).
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-NPRA records indicate Daunorubicin is currently marketed in Malaysia with 3 registered product licenses. However, this evidence pack did not return the underlying license details (license numbers, product names, dosage forms, manufacturers, or approved indication text) — this is a data gap that should be filled from NPRA's product registry before regulatory submission planning.
+Rekod NPRA menunjukkan daunorubicin pada masa kini dipasarkan di Malaysia dengan 3 lesen produk berdaftar. Walau bagaimanapun, paket bukti ini tidak mengembalikan butir-butir lesen asas (nombor lesen, nama produk, bentuk dos, pengilang, atau teks indikasi yang diluluskan) — ini adalah celah data yang harus diisi daripada daftar produk NPRA sebelum perancangan penyerahan kawal selia.
 
-## Cytotoxicity
+## Sitotoksisitas
 
-| Item | Content |
-|------|------|
-| Cytotoxicity Classification | Conventional cytotoxic (Anthracycline class — DNA intercalator / topoisomerase II inhibitor) |
-| Myelosuppression Risk | High — anthracyclines as a class cause significant dose-limiting neutropenia and thrombocytopenia (based on established pharmacological knowledge; drug-specific toxicity data not present in this evidence pack) |
-| Emetogenicity Classification | Moderate to High |
-| Monitoring Items | CBC with differential, cardiac function (LVEF/echocardiography — cumulative-dose cardiotoxicity risk), liver and renal function, infusion site monitoring (vesicant/extravasation risk) |
-| Handling Protection | Yes — must follow cytotoxic drug handling and disposal regulations; vesicant precautions required during administration |
+| Item | Kandungan |
+|------|---------|
+| Klasifikasi Sitotoksisitas | Sitotoksik konvensional (Kelas Antrasklin — interkalator DNA / perencat topoisomerase II) |
+| Risiko Penindasan Sumsum Tulang | Tinggi — antrasklin sebagai kelas menyebabkan neutropenia dan trombositopenia yang membatasi dos bererti (berdasarkan pengetahuan farmakologi yang sudah ditetapkan; data ketoksikan ubat spesifik tidak ada dalam paket bukti ini) |
+| Klasifikasi Emetogenisitas | Sederhana hingga Tinggi |
+| Item Pemantauan | CBC dengan pembezaan, fungsi jantung (LVEF/ekokardiografi — risiko kardiotoksisitas dos kumulatif), fungsi hati dan buah pinggang, pemantauan tempat infusi (risiko vesikan/ekstravasasi) |
+| Perlindungan Pengendalian | Ya — mesti mematuhi peraturan pengendalian dan pelupusan ubat sitotoksik; tindakan pencegahan vesikan diperlukan semasa pemberian |
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information. (Key warnings, contraindications, and drug-drug interaction data were all flagged as data gaps in this evidence pack — see Data Gap DG001, which is classified as Blocking and must be resolved before safety review can proceed.)
+Sila rujuk selebaran produk untuk maklumat keselamatan. (Data mengenai amaran utama, kontraindikasi, dan interaksi ubat-ubatan semuanya ditandakan sebagai celah data dalam paket bukti ini — lihat Celah Data DG001, yang dikelaskan sebagai Pemblokiran dan mesti diselesaikan sebelum kajian keselamatan dapat diteruskan.)
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Proceed with Guardrails**
+**Keputusan: Lanjutkan dengan Langkah Pengaman**
 
-**Rationale:**
-The ALL prediction is supported by L1-level evidence (multiple completed/active Phase 3 trials), and several of the highest-relevance trials use daunorubicin-based regimens consistent with existing clinical practice. However, the original indication is not confirmed in this data pack, a large share of the retrieved trial evidence is confounded by doxorubicin (a related but distinct drug), and safety/label data is entirely missing (Blocking gap DG001).
+**Rasional:**
+Ramalan ALL disokong oleh bukti tahap L1 (beberapa uji coba Fasa 3 yang selesai/aktif), dan beberapa uji coba relevansi tertinggi menggunakan rejimen berasaskan daunorubicin yang konsisten dengan praktik klinis sedia ada. Bagaimanapun, indikasi asli tidak disahkan dalam paket data ini, majoriti bukti uji coba yang diambil dikelirukan oleh doxorubicin (ubat berkaitan tetapi berbeza), dan data keselamatan/label sepenuhnya hilang (celah pemblokiran DG001).
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert (warnings, contraindications) — resolves Blocking gap DG001
-- DrugBank mechanism-of-action confirmation — resolves gap DG002
-- Verification of whether ALL is already an approved indication for Daunorubicin (to distinguish label-extension confirmation from true repurposing)
-- Malaysia license detail records (license numbers, product names, dosage forms, approved indication text)
-- Re-review of clinical trial relevance grading to exclude doxorubicin-mismatched trials from the daunorubicin evidence base
+**Untuk meneruskan, yang berikut diperlukan:**
+- Selebaran produk TFDA/NPRA (amaran, kontraindikasi) — menyelesaikan celah pemblokiran DG001
+- Pengesahan mekanisme tindakan DrugBank — menyelesaikan celah DG002
+- Pengesahan sama ada ALL sudah merupakan indikasi yang diluluskan untuk daunorubicin (untuk membezakan pengesahan pelanjutan label daripada penggantian ubat yang benar)
+- Rekod butir lesen Malaysia (nombor lesen, nama produk, bentuk dos, teks indikasi yang diluluskan)
+- Kajian semula penilaian relevansi uji klinis untuk mengecualikan uji coba yang tidak sepadan dengan doxorubicin daripada asas bukti daunorubicin
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

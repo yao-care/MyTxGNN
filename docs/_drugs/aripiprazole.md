@@ -29,110 +29,111 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Aripiprazole: From Schizophrenia / Bipolar Disorder to Autism Spectrum Disorder
+# Aripiprazole: Dari Skizofrenia / Gangguan Bipolar kepada Gangguan Spektrum Autisme
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Aripiprazole is a third-generation atypical antipsychotic with a unique "dopamine system stabilizer" profile (D2/D3 partial agonist, 5-HT1A partial agonist, 5-HT2A antagonist), established globally for schizophrenia and bipolar disorder. The TxGNN model's top actionable prediction is **Autism** (irritability associated with autism spectrum disorder), backed by **multiple completed Phase 3 double-blind RCTs** and **20+ publications**, including FDA approval for this indication in children aged 6–17. Note: The highest-ranked model output was "autism susceptibility 1" (a genetic susceptibility locus), for which no clinical evidence exists and a Hold decision applies; the clinically actionable prediction is autism proper (Rank 2, Evidence Level L1).
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Schizophrenia, Bipolar Disorder (established global approvals; Malaysia-specific indication text unavailable in current dataset) |
-| Predicted New Indication | Autism (Irritability Associated with Autism Spectrum Disorder) |
-| TxGNN Prediction Score | N/A (score field returned 0.00% — likely not computed in this model run) |
-| Evidence Level | L1 (≥2 completed Phase 3 RCTs) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 26 |
-| Recommended Decision | Proceed with Guardrails |
+Aripiprazole ialah antipsikotik atipik generasi ketiga dengan profil unik "penstabil sistem dopamin" (agonis parsial D2/D3, agonis parsial 5-HT1A, antagonis 5-HT2A), yang telah ditubuhkan di peringkat global untuk skizofrenia dan gangguan bipolar. Ramalan teratas yang boleh ditindaklanjuti model TxGNN ialah **Autisme** (kerengsaan yang berkaitan dengan gangguan spektrum autisme), disokong oleh **pelbagai Ujian Klinis Fasa 3 terkawal dua buta yang telah selesai** dan **lebih daripada 20 penerbitan**, termasuk kelulusan FDA untuk petunjuk ini pada kanak-kanak berusia 6–17 tahun. Nota: Output model berperingkat tertinggi ialah "kerentanan autisme 1" (lokus kerentanan genetik), yang mana tiada bukti klinikal wujud dan keputusan Tunggu dikenakan; ramalan yang boleh ditindaklanjuti secara klinikal ialah autisme wajar (Pangkat 2, Aras Bukti L1).
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Pantas
 
-Aripiprazole functions as a dopamine system stabilizer through its partial agonism at D2 and D3 dopamine receptors and 5-HT1A serotonin receptors, combined with antagonism at 5-HT2A receptors. In brain regions where dopamine is pathologically elevated (e.g., the mesolimbic system during agitation or aggression), aripiprazole acts as a functional brake; in regions with insufficient dopaminergic tone (e.g., the prefrontal cortex), it provides partial support. Crucially, this mechanism is distinct from full D2 blockade: aripiprazole carries a markedly lower burden of extrapyramidal symptoms, metabolic disturbance, and sedation — properties that make it particularly suitable for long-term use in pediatric populations.
-
-In autism spectrum disorder (ASD), the behavioral symptoms most disruptive to daily functioning — including irritability, explosive aggression, self-injurious behavior, and severe tantrums — are linked to dysregulation of dopaminergic and serotonergic circuits. The 5-HT1A partial agonist component of aripiprazole provides anxiolytic effects that may help stabilize emotional dysregulation; D2/D3 partial agonism blunts dopamine-driven impulsivity. Animal models have additionally shown that dopamine-stabilizing agents can improve repetitive behavior patterns and social behavioral deficits relevant to ASD.
-
-This prediction is not speculative: aripiprazole received FDA approval in 2009 specifically for irritability associated with autistic disorder in children and adolescents aged 6–17 years, based on pivotal multicenter Phase 3 RCTs. The transition from a schizophrenia/bipolar disorder drug to ASD behavioral management is mechanistically coherent and clinically validated, making it one of the best-supported drug repurposing stories in pediatric psychiatry. The key clinical question for Malaysia is therefore not whether the evidence is sufficient, but whether this specific indication is currently registered among the 26 existing product licenses.
+| Item | Kandungan |
+|------|-----------|
+| Petunjuk Asal | Skizofrenia, Gangguan Bipolar (kelulusan global yang ditubuhkan; teks petunjuk khusus Malaysia tidak tersedia dalam set data semasa) |
+| Petunjuk Baru yang Diramalkan | Autisme (Kerengsaan Berkaitan dengan Gangguan Spektrum Autisme) |
+| Skor Ramalan TxGNN | Tidak berkenaan (medan skor mengembalikan 0.00% — berkemungkinan tidak dikira dalam larian model ini) |
+| Aras Bukti | L1 (≥2 Ujian Klinis Fasa 3 yang telah selesai) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 26 |
+| Keputusan yang Disyorkan | Teruskan dengan Penjaga |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Masuk Akal?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Aripiprazole berfungsi sebagai penstabil sistem dopamin melalui agonisman parsialnya pada reseptor dopamin D2 dan D3 serta reseptor serotonin 5-HT1A, digabungkan dengan antagonisme pada reseptor 5-HT2A. Di kawasan otak di mana dopamin meninggi secara patologi (contohnya, sistem mesolimbik semasa agitasi atau agresi), aripiprazole bertindak sebagai brek fungsional; di kawasan dengan nada dopaminergik yang tidak mencukupi (contohnya, korteks prefrontal), ia memberikan sokongan separa. Sangat penting, mekanisme ini berbeza daripada halangan D2 penuh: aripiprazole membawa beban ketara lebih rendah bagi simptom ekstrapiramidal, gangguan metabolik, dan sedasi — sifat-sifat yang menjadikannya sangat sesuai untuk penggunaan jangka panjang dalam populasi pediatrik.
+
+Dalam gangguan spektrum autisme (ASD), simptom tingkah laku yang paling mengganggu fungsi harian — termasuk kerengsaan, agresi ledakan, tingkah laku perosakaan diri, dan tantrum teruk — dikaitkan dengan disregulasi litar dopaminergik dan serotoninergik. Komponen agonis parsial 5-HT1A aripiprazole memberikan kesan anxioliotik yang mungkin membantu menstabilkan disregulasi emosi; agonisman parsial D2/D3 mengurangkan impulsiviti yang didorong dopamin. Model hewan juga telah menunjukkan bahawa ejen penstabil dopamin boleh meningkatkan corak tingkah laku berulang dan defisit tingkah laku sosial yang relevan dengan ASD.
+
+Ramalan ini bukan spekulatif: aripiprazole menerima kelulusan FDA pada tahun 2009 khusus untuk kerengsaan yang berkaitan dengan gangguan autistik pada kanak-kanak dan remaja berusia 6–17 tahun, berdasarkan Ujian Klinis Fasa 3 pusat berbilang pangsi. Peralihan daripada ubat skizofrenia/gangguan bipolar kepada pengurusan tingkah laku ASD adalah koheren dari segi mekanisme dan disahkan secara klinikal, menjadikannya salah satu cerita repurposing ubat yang paling disokong dalam psikiatri pediatrik. Oleh itu, soalan klinikal utama bagi Malaysia bukanlah sama ada bukti mencukupi, tetapi sama ada petunjuk khusus ini kini didaftarkan di antara 26 lesen produk sedia ada.
+
+---
+
+## Bukti Ujian Klinis
+
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |-------------|-------|--------|------------|-------------|
-| [NCT00332241](https://clinicaltrials.gov/study/NCT00332241) | Phase 3 | Completed | 98 | Multicenter double-blind RCT: aripiprazole flexible dose vs. placebo in children and adolescents with autistic disorder — one of the two FDA pivotal trials underpinning the 2009 approval for ASD irritability |
-| [NCT00337571](https://clinicaltrials.gov/study/NCT00337571) | Phase 3 | Completed | 218 | Multicenter double-blind RCT: three fixed doses of aripiprazole (5/10/15 mg) vs. placebo in children and adolescents with autistic disorder — the companion FDA pivotal trial |
-| [NCT00198107](https://clinicaltrials.gov/study/NCT00198107) | Phase 3 | Completed | 81 | Assessed aripiprazole and D-cycloserine in autism in children; directly evaluated aripiprazole as monotherapy for ASD-associated symptoms, considered a foundational approval-support trial |
-| [NCT01227668](https://clinicaltrials.gov/study/NCT01227668) | Phase 4 | Completed | 215 | Long-term maintenance RCT: patients stabilized on aripiprazole were randomized to continue or switch to placebo; assessed time to relapse of irritability in pediatric autistic disorder |
-| [NCT00365859](https://clinicaltrials.gov/study/NCT00365859) | Phase 3 | Completed | 330 | 52-week multicenter open-label extension providing long-term safety and tolerability data for aripiprazole in children and adolescents with autistic disorder; largest long-term safety dataset for this population |
-| [NCT03487770](https://clinicaltrials.gov/study/NCT03487770) | Phase 3 | Completed | 111 | Multicenter double-blind RCT: aripiprazole oral solution (2–15 mg) vs. placebo over 8 weeks in children and adolescents with autistic disorder; assessed steady-state pharmacokinetics alongside efficacy |
-| [NCT01617447](https://clinicaltrials.gov/study/NCT01617447) | Phase 3 | Completed | 92 | Short-term (8-week) oral aripiprazole efficacy and safety study in pediatric autistic disorder in Japan; provides Asia-specific clinical data |
-| [NCT01617460](https://clinicaltrials.gov/study/NCT01617460) | Phase 3 | Completed | 86 | Long-term safety and efficacy extension of the short-term Japan study (NCT01617447) in pediatric autistic disorder; supports sustained use data in Asian populations |
-| [NCT03179787](https://clinicaltrials.gov/study/NCT03179787) | Phase N/A | Completed | 528 | Post-marketing surveillance study in Japan evaluating real-world safety and effectiveness of aripiprazole in autism patients; the largest real-world dataset from an Asian market |
-| [NCT01028820](https://clinicaltrials.gov/study/NCT01028820) | Phase 4 | Completed | 13 | 8-week fMRI neuroimaging study exploring brain activation patterns during aripiprazole treatment in ASD; provides mechanistic imaging evidence supporting the D2/serotonin pathway hypothesis |
+| [NCT00332241](https://clinicaltrials.gov/study/NCT00332241) | Fasa 3 | Selesai | 98 | Ujian Klinis pusat berbilang dua buta: dos fleksibel aripiprazole vs. plasebo pada kanak-kanak dan remaja dengan gangguan autistik — salah satu daripada dua ujian pangsi FDA yang menyokong kelulusan 2009 untuk kerengsaan ASD |
+| [NCT00337571](https://clinicaltrials.gov/study/NCT00337571) | Fasa 3 | Selesai | 218 | Ujian Klinis pusat berbilang dua buta: tiga dos tetap aripiprazole (5/10/15 mg) vs. plasebo pada kanak-kanak dan remaja dengan gangguan autistik — ujian pangsi FDA pendamping |
+| [NCT00198107](https://clinicaltrials.gov/study/NCT00198107) | Fasa 3 | Selesai | 81 | Dinilai aripiprazole dan D-sikloserin dalam autisme pada kanak-kanak; menilai secara langsung aripiprazole sebagai monoterapi untuk simptom berkaitan ASD, dianggap sebagai ujian sokongan kelulusan asas |
+| [NCT01227668](https://clinicaltrials.gov/study/NCT01227668) | Fasa 4 | Selesai | 215 | Ujian Klinis pemeliharaan jangka panjang: pesakit yang distabilkan pada aripiprazole telah diberikan rawak untuk terus atau beralih kepada plasebo; dinilai masa untuk kembalinya kerengsaan dalam gangguan autistik pediatrik |
+| [NCT00365859](https://clinicaltrials.gov/study/NCT00365859) | Fasa 3 | Selesai | 330 | Sambungan terbuka label pusat berbilang selama 52 minggu memberikan data keselamatan dan kebolehfahaman jangka panjang untuk aripiprazole pada kanak-kanak dan remaja dengan gangguan autistik; set data keselamatan jangka panjang terbesar untuk populasi ini |
+| [NCT03487770](https://clinicaltrials.gov/study/NCT03487770) | Fasa 3 | Selesai | 111 | Ujian Klinis pusat berbilang dua buta: larutan oral aripiprazole (2–15 mg) vs. plasebo selama 8 minggu pada kanak-kanak dan remaja dengan gangguan autistik; dinilai farmakokinetik keadaan mantap bersama-sama dengan keberkesanan |
+| [NCT01617447](https://clinicaltrials.gov/study/NCT01617447) | Fasa 3 | Selesai | 92 | Kajian keberkesanan dan keselamatan oral aripiprazole jangka pendek (8 minggu) dalam gangguan autistik pediatrik di Jepun; memberikan data klinikal khusus Asia |
+| [NCT01617460](https://clinicaltrials.gov/study/NCT01617460) | Fasa 3 | Selesai | 86 | Sambungan keselamatan dan keberkesanan jangka panjang bagi kajian Jepun jangka pendek (NCT01617447) dalam gangguan autistik pediatrik; menyokong data penggunaan berkelanjutan dalam populasi Asia |
+| [NCT03179787](https://clinicaltrials.gov/study/NCT03179787) | Fasa Tidak Berkenaan | Selesai | 528 | Kajian pengawasan pasca-pemasaran di Jepun mengevaluasi keselamatan dan keberkesanan dunia sebenar aripiprazole dalam pesakit autisme; set data dunia sebenar terbesar daripada pasaran Asia |
+| [NCT01028820](https://clinicaltrials.gov/study/NCT01028820) | Fasa 4 | Selesai | 13 | Kajian neuroimaging fMRI selama 8 minggu mengkaji corak pengaktifan otak semasa rawatan aripiprazole dalam ASD; memberikan bukti mekanisme yang menyokong hipotesis laluan D2/serotonin |
 
 ---
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|------|------|---------|-------------|
-| [35101925](https://pubmed.ncbi.nlm.nih.gov/35101925/) | 2023 | Overview of Systematic Reviews | BMJ Evidence-Based Medicine | Synthesized multiple systematic reviews on risperidone and aripiprazole for children with ASD; aripiprazole showed significant, clinically meaningful reduction in irritability with a more favorable metabolic profile than risperidone |
-| [35470032](https://pubmed.ncbi.nlm.nih.gov/35470032/) | 2023 | Systematic Review + Meta-analysis | JAACAP | First meta-analysis assessing a broad range of pharmacological interventions for emotional dysregulation and irritability in ASD; aripiprazole demonstrated statistically significant superiority over placebo in reducing irritability subscale scores |
-| [38263251](https://pubmed.ncbi.nlm.nih.gov/38263251/) | 2024 | Systematic Review + Network Meta-analysis | Molecular Autism | Comprehensive NMA of pharmacological and non-pharmacological interventions for ASD irritability with GRADE assessment; aripiprazole ranked as one of the most effective pharmacological options with moderate-to-high quality evidence |
-| [35246237](https://pubmed.ncbi.nlm.nih.gov/35246237/) | 2022 | Systematic Review + Network Meta-analysis | Molecular Autism | NMA investigating pharmacological and dietary-supplement treatments for ASD; confirmed aripiprazole efficacy for associated irritability and agitation symptoms across multiple study designs |
-| [33857522](https://pubmed.ncbi.nlm.nih.gov/33857522/) | 2021 | Systematic Review | Progress in Neuro-Psychopharmacology & Biological Psychiatry | Comprehensive systematic review of pediatric psychopharmacology in ASD (Part I); detailed reconstruction of the aripiprazole evidence base from open-label to Phase 3 pivotal trials |
-| [41004875](https://pubmed.ncbi.nlm.nih.gov/41004875/) | 2025 | RCT | Brain & Development | Head-to-head randomized controlled trial comparing risperidone vs. aripiprazole for reducing irritability severity in children with ASD; both effective, with aripiprazole offering a potentially superior metabolic safety profile |
-| [39690490](https://pubmed.ncbi.nlm.nih.gov/39690490/) | 2025 | Network Meta-analysis | Journal of Psychopharmacology | Updated NMA comparing pharmacotherapies for agitation in ASD and intellectual disabilities in both children and adults; aripiprazole identified as an efficacious first-line pharmacological option across age groups |
-| [36625807](https://pubmed.ncbi.nlm.nih.gov/36625807/) | 2023 | Narrative Review | JAMA | High-impact clinical review of ASD published in JAMA; explicitly notes aripiprazole as one of only two FDA-approved medications for ASD-associated irritability, reinforcing its guideline-level clinical positioning |
-| [20643378](https://pubmed.ncbi.nlm.nih.gov/20643378/) | 2010 | Narrative Review | Neurotherapeutics | Foundational early review specifically examining aripiprazole in autism spectrum disorders and fragile X syndrome; summarized preclinical rationale and early clinical evidence that preceded the FDA approval pathway |
-| [27388494](https://pubmed.ncbi.nlm.nih.gov/27388494/) | 2016 | Expert Review | Expert Review of Neurotherapeutics | Expert clinical review of aripiprazole for irritability and aggression in children and adolescents with ASD; affirms clinical positioning, dosing guidance (2–15 mg/day), and safety monitoring considerations post-FDA approval |
+| [35101925](https://pubmed.ncbi.nlm.nih.gov/35101925/) | 2023 | Gambaran Keseluruhan Ulasan Sistematik | BMJ Evidence-Based Medicine | Mensintesis pelbagai ulasan sistematik tentang risperidon dan aripiprazole untuk kanak-kanak dengan ASD; aripiprazole menunjukkan pengurangan kerengsaan yang signifikan dan bermakna secara klinikal dengan profil metabolik yang lebih menguntungkan daripada risperidon |
+| [35470032](https://pubmed.ncbi.nlm.nih.gov/35470032/) | 2023 | Ulasan Sistematik + Meta-analisis | JAACAP | Ulasan sistematik dan meta-analisis pertama menilai pelbagai intervensi farmakologi untuk disregulasi emosi dan kerengsaan dalam ASD; aripiprazole menunjukkan keunggulan statistik yang signifikan berbanding plasebo dalam mengurangkan skor sub-skala kerengsaan |
+| [38263251](https://pubmed.ncbi.nlm.nih.gov/38263251/) | 2024 | Ulasan Sistematik + Meta-analisis Rangkaian | Molecular Autism | NMA komprehensif intervensi farmakologi dan bukan farmakologi untuk kerengsaan ASD dengan penilaian GRADE; aripiprazole disenaraikan sebagai salah satu pilihan farmakologi paling berkesan dengan bukti kualiti sederhana hingga tinggi |
+| [35246237](https://pubmed.ncbi.nlm.nih.gov/35246237/) | 2022 | Ulasan Sistematik + Meta-analisis Rangkaian | Molecular Autism | NMA menyiasat rawatan farmakologi dan permintaan suplemen diet untuk ASD; mengesahkan keberkesanan aripiprazole untuk simptom kerengsaan dan agitasi berkaitan dalam berbagai reka bentuk kajian |
+| [33857522](https://pubmed.ncbi.nlm.nih.gov/33857522/) | 2021 | Ulasan Sistematik | Progress in Neuro-Psychopharmacology & Biological Psychiatry | Ulasan sistematik komprehensif psikofarmakologi pediatrik dalam ASD (Bahagian I); rekonstruksi terperinci asas bukti aripiprazole daripada ujian label terbuka kepada ujian pangsi Fasa 3 |
+| [41004875](https://pubmed.ncbi.nlm.nih.gov/41004875/) | 2025 | Ujian Klinis Rawak | Brain & Development | Ujian terkawal rawak perbandingan kepala-ke-kepala risperidon vs. aripiprazole untuk mengurangkan ketukaran kerengsaan pada kanak-kanak dengan ASD; kedua-duanya berkesan, dengan aripiprazole menawarkan profil keselamatan metabolik yang berkemungkinan lebih baik |
+| [39690490](https://pubmed.ncbi.nlm.nih.gov/39690490/) | 2025 | Meta-analisis Rangkaian | Journal of Psychopharmacology | NMA yang dikemas kini membandingkan farmakoterapi untuk agitasi dalam ASD dan ketidakupayaan intelektual dalam kanak-kanak dan orang dewasa; aripiprazole dikenal pasti sebagai pilihan farmakologi baris pertama yang berkesan merentas kumpulan umur |
+| [36625807](https://pubmed.ncbi.nlm.nih.gov/36625807/) | 2023 | Ulasan Naratif | JAMA | Ulasan klinikal impak tinggi ASD yang diterbitkan dalam JAMA; secara jelas mencatat aripiprazole sebagai salah satu daripada hanya dua ubat yang diluluskan FDA untuk kerengsaan berkaitan ASD, menegaskan semula kedudukan klinikal aras garis panduan |
+| [20643378](https://pubmed.ncbi.nlm.nih.gov/20643378/) | 2010 | Ulasan Naratif | Neurotherapeutics | Ulasan awal asas yang khusus memeriksa aripiprazole dalam gangguan spektrum autisme dan sindrom X rapuh; meringkaskan rasional praklinikal dan bukti klinikal awal yang mendahului laluan kelulusan FDA |
+| [27388494](https://pubmed.ncbi.nlm.nih.gov/27388494/) | 2016 | Ulasan Pakar | Expert Review of Neurotherapeutics | Ulasan klinikal pakar aripiprazole untuk kerengsaan dan agresi pada kanak-kanak dan remaja dengan ASD; mengesahkan kedudukan klinikal, panduan dos (2–15 mg/hari), dan pertimbangan pemantauan keselamatan pasca-kelulusan FDA |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Aripiprazole has **26 product registrations** confirmed in the Malaysia NPRA database with active market status. However, detailed product-level information — including individual authorization numbers, product names, dosage forms, and approved indication texts — was not captured in the current data extraction. The table below reflects this gap.
+Aripiprazole mempunyai **26 pendaftaran produk** yang disahkan dalam pangkalan data NPRA dengan status pasaran aktif. Walau bagaimanapun, maklumat terperinci peringkat produk — termasuk nombor pengesahan individu, nama produk, bentuk dos, dan teks petunjuk yang diluluskan — tidak ditangkap dalam ekstrak data semasa. Jadual di bawah mencerminkan jurang ini.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+| Nombor Pengesahan | Nama Produk | Bentuk Dos | Petunjuk yang Diluluskan |
 |---------------------|-------------|-------------|---------------------|
-| Pending | (26 products registered in NPRA) | Pending | Pending — requires NPRA portal review |
+| Tertunda | (26 produk didaftarkan dalam NPRA) | Tertunda | Tertunda — memerlukan ulasan portal NPRA |
 
-> The key unresolved question for this repurposing evaluation is whether any of the 26 currently registered products in Malaysia carry an approved indication for irritability associated with autism spectrum disorder. If not, the existing L1 evidence base constitutes a strong foundation for an indication extension application.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-> Package insert warnings, contraindications, and drug-drug interaction data were flagged as data gaps (DG001, DG002) in this evidence pack. Before advancing to clinical planning, these must be retrieved directly from the NPRA official website and the corresponding package insert PDFs. Key areas to review include: neuroleptic malignant syndrome risk, tardive dyskinesia, impulse control disorders (a class-effect concern with D2 partial agonists), metabolic monitoring in pediatric populations, and use in elderly patients with dementia-related psychosis.
+> Soalan utama yang belum diselesaikan untuk penilaian repurposing ini ialah sama ada mana-mana daripada 26 produk yang kini berdaftar dalam Malaysia membawa petunjuk yang diluluskan untuk kerengsaan yang berkaitan dengan gangguan spektrum autisme. Jika tidak, asas bukti L1 sedia ada membentuk asas yang kuat untuk aplikasi pelanjutan petunjuk.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Proceed with Guardrails**
+Sila rujuk surat penampung paket untuk maklumat keselamatan.
 
-**Rationale:**
-Aripiprazole has L1-level clinical evidence — including multiple completed Phase 3 double-blind RCTs and an FDA approval — for irritability associated with autism spectrum disorder in children aged 6–17. The mechanistic rationale is well-established, the pediatric safety profile is extensively characterized, and Asia-specific data (Japan post-marketing, n=528) further supports applicability to the Malaysian clinical context. The evidence base is sufficient to proceed; the remaining work is primarily regulatory and implementation-focused.
+> Amaran surat penampung paket, kontraindikasi, dan data interaksi ubat-ubat telah ditandakan sebagai jurang data (DG001, DG002) dalam pek bukti ini. Sebelum melanjutkan ke perancangan klinikal, ini mesti diambil secara langsung daripada laman web rasmi NPRA dan PDF surat penampung paket yang sepadan. Bidang utama untuk disemak termasuk: risiko sindrom ganas neuroleptik, diskinesia lambat, gangguan kawalan dorongan (kebimbangan kesan kelas dengan agonis parsial D2), pemantauan metabolik dalam populasi pediatrik, dan penggunaan pada pesakit warga emas dengan psikosis yang berkaitan dengan demensia.
 
-**Additional Supported Indications (Ranks 3–5):**
-The evidence pack also identifies schizophrenia (Rank 3, L1) and bipolar disorder / manic bipolar affective disorder (Ranks 4–5, L1) as high-evidence predictions — both are globally established aripiprazole indications and likely already registered among the 26 Malaysia licenses.
+---
 
-**To proceed, the following is needed:**
+## Kesimpulan dan Langkah Seterusnya
 
-- **Regulatory review**: Retrieve and verify the approved indication text for all 26 NPRA-registered aripiprazole products — confirm whether ASD irritability is currently approved or requires an indication extension
-- **Safety data retrieval**: Download and parse package insert PDFs from the NPRA website to populate the key warnings and contraindication fields (Data Gap DG001)
-- **MOA documentation**: Query the DrugBank API to formally document the mechanism of action for regulatory submissions (Data Gap DG002)
-- **Pediatric risk management plan**: Develop monitoring protocols covering: body weight and BMI (at baseline, 4 weeks, 8 weeks, then quarterly), fasting glucose and lipid panel, extrapyramidal symptom assessment (e.g., AIMS scale), and sedation monitoring — all critical for the pediatric target population
-- **Dose confirmation**: Confirm the pediatric dose range registered or to be registered in Malaysia (globally approved range: 2–15 mg/day for ASD irritability)
-- **Asia-Pacific comparator review**: Cross-reference with Japanese and Taiwanese regulatory approvals for ASD irritability to support any Malaysia indication extension application
+**Keputusan: Teruskan dengan Penjaga**
+
+**Alasan:**
+Aripiprazole mempunyai bukti klinikal aras L1 — termasuk pelbagai Ujian Klinis Fasa 3 dua buta yang telah selesai dan kelulusan FDA — untuk kerengsaan yang berkaitan dengan gangguan spektrum autisme pada kanak-kanak berusia 6–17 tahun. Rasional mekanisme ditubuhkan dengan baik, profil keselamatan pediatrik dicirikan secara meluas, dan data khusus Asia (Jepun pasca-pemasaran, n=528) selanjutnya menyokong kebolehangunaan kepada konteks klinikal Malaysia. Asas bukti mencukupi untuk terus; kerja yang tinggal adalah terutamanya berfokus pada regulasi dan pelaksanaan.
+
+**Petunjuk Tambahan yang Disokong (Pangkat 3–5):**
+Pek bukti juga mengenal pasti skizofrenia (Pangkat 3, L1) dan gangguan bipolar / gangguan afektif bipolar manik (Pangkat 4–5, L1) sebagai ramalan berkeberkesanan tinggi — kedua-duanya ialah petunjuk aripiprazole yang ditubuhkan global dan berkemungkinan sudah berdaftar di antara 26 lesen Malaysia.
+
+**Untuk terus, yang berikut diperlukan:**
+
+- **Ulasan regulasi**: Ambil dan sahkan teks petunjuk yang diluluskan untuk semua 26 produk aripiprazole yang didaftarkan NPRA — sahkan sama ada kerengsaan ASD kini diluluskan atau memerlukan sambungan petunjuk
+- **Pengambilan data keselamatan**: Muat turun dan tolak PDF surat penampung paket daripada laman web NPRA untuk mengisi medan amaran utama dan kontraindikasi (Jurang Data DG001)
+- **Dokumentasi MOA**: Soal API DrugBank untuk secara rasmi mendokumentasikan mekanisme tindakan untuk penyerahan regulasi (Jurang Data DG002)
+- **Pelan pengurusan risiko pediatrik**: Bangunkan protokol pemantauan meliputi: berat badan dan BMI (pada garis asas, 4 minggu, 8 minggu, kemudian setiap suku tahun), glukosa puasa dan panel lipid, penilaian simptom ekstrapiramidal (cth., skala AIMS), dan pemantauan sedasi — semuanya kritikal untuk populasi sasaran pediatrik
+- **Pengesahan dos**: Sahkan julat dos pediatrik yang didaftarkan atau akan didaftarkan di Malaysia (julat yang diluluskan global: 2–15 mg/hari untuk kerengsaan ASD)
+- **Ulasan perbandingan Asia-Pasifik**: Rujuk silang dengan kelulusan regulasi Jepun dan Taiwan untuk kerengsaan ASD untuk menyokong sebarang aplikasi pelanjutan petunjuk Malaysia
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

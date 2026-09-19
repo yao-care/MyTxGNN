@@ -29,89 +29,90 @@ Tahap bukti: **L3** | Indikasi diramal: **10**
 
 </div>
 
-# Dupilumab: From Atopic Dermatitis to Bronchitis
+# Dupilumab: Daripada Dermatitis Atopik kepada Bronkitis
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Dupilumab is a monoclonal antibody (anti-IL-4Rα) originally developed and approved for moderate-to-severe atopic dermatitis, later expanded to other Th2/type‑2 inflammatory conditions such as asthma.
-The TxGNN model predicts it may be effective for **Bronchitis**, with **1 clinical trial** and **6 publications** currently retrieved — but nearly all of this evidence is drawn from a *related* condition (chronic rhinosinusitis, asthma, COPD) rather than bronchitis itself, so the signal should be treated as preliminary.
+Dupilumab ialah antibodi monoklonal (anti-IL-4Rα) yang asalnya dibangunkan dan diluluskan untuk dermatitis atopik sederhana hingga teruk, kemudiannya dikembangkan kepada keadaan keradangan Th2/jenis-2 yang lain seperti asma.
+Model TxGNN meramalkan ia mungkin berkesan untuk **Bronkitis**, dengan **1 percubaan klinikal** dan **6 penerbitan** kini diperolehi — tetapi hampir semua bukti ini diperoleh daripada keadaan *berkaitan* (sinusitis rinonik kronik, asma, COPD) dan bukan bronkitis itu sendiri, jadi isyarat ini harus diperlakukan sebagai awal.
 
 ---
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Moderate-to-severe Atopic Dermatitis *(based on Dupilumab's established drug class/first approval; Malaysia NPRA license indication text was not populated in this data extract — see Malaysia Market Information)* |
-| Predicted New Indication | Bronchitis |
-| TxGNN Prediction Score | 99.92% |
-| Evidence Level | L3 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
-| Recommended Decision | Hold |
+| Petunjuk Asal | Dermatitis Atopik Sederhana hingga Teruk *(berdasarkan kelas ubat Dupilumab yang ditubuhkan/kelulusan pertama; teks petunjuk kelulusan NPRA Malaysia tidak diisi dalam ekstrak data ini — lihat Maklumat Pasaran Malaysia)* |
+| Petunjuk Baru yang Diramalkan | Bronkitis |
+| Skor Ramalan TxGNN | 99.92% |
+| Tahap Bukti | L3 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 3 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data is not available. Based on known information, Dupilumab is a fully human monoclonal antibody that blocks the shared IL-4 receptor alpha (IL-4Rα) subunit, thereby inhibiting both IL-4 and IL-13 signaling — the key cytokines driving type‑2 (Th2)/eosinophilic inflammation. Its efficacy in atopic dermatitis (and later asthma, chronic rhinosinusitis with nasal polyps, and eosinophilic esophagitis) has been well established, and mechanistically this pathway may extend to eosinophilic or Th2-driven subtypes of bronchitis.
+Pada masa ini, data mekanisme tindakan yang terperinci tidak tersedia. Berdasarkan maklumat yang diketahui, Dupilumab ialah antibodi monoklonal manusia yang lengkap yang menyekat subunit reseptor IL-4 alfa (IL-4Rα) bersama, sekali gus menghalang isyarat IL-4 dan IL-13 — sitokin utama yang mendorong keradangan jenis-2 (Th2)/eosinofilik. Keberkesanannya dalam dermatitis atopik (dan kemudiannya asma, sinusitis rinonik kronik dengan polip hidung, dan esofagitis eosinofilik) telah ditetapkan dengan baik, dan secara mekanik laluan ini mungkin meluas kepada subkumpulan eosinofilik atau didorong oleh Th2 dari bronkitis.
 
-Bronchitis — particularly eosinophilic or "plastic" bronchitis — shares airway eosinophilic/Th2 inflammatory biology with asthma, which is one of dupilumab's core approved indications. This biological adjacency is likely why TxGNN scored bronchitis so highly (rank 1744 overall).
+Bronkitis — terutamanya eosinofilik atau bronkitis "plastik" — berkongsi biologi keradangan saluran udara eosinofilik/Th2 dengan asma, yang merupakan salah satu petunjuk kelulusan teras dupilumab. Kedekatan biologi ini mungkin mengapa TxGNN menjaringkan bronkitis dengan tinggi (pangkat 1744 keseluruhan).
 
-However, the evidence retrieved for this specific candidate needs cautious interpretation. The one clinical trial identified (NCT04362501) actually studies chronic rhinosinusitis without nasal polyps (CRSsNP), not bronchitis, and is only indirectly relevant (relevance grade B — "same mechanism, different disease entity"). The majority of the literature concerns dupilumab in asthma or COPD, with only a single pediatric case-level report directly addressing an eosinophilic bronchitis-adjacent condition (plastic bronchitis). Because TxGNN's knowledge graph likely places "bronchitis" near "asthma," there is a real possibility that the prediction score is inflated by this graph proximity rather than by disease-specific evidence. This should be treated as a hypothesis-generating signal rather than a validated repurposing opportunity.
+Walau bagaimanapun, bukti yang diperolehi untuk calon khusus ini memerlukan tafsiran berhati-hati. Satu-satunya percubaan klinikal yang dikenal pasti (NCT04362501) sebenarnya mengkaji sinusitis rinonik kronik tanpa polip hidung (CRSsNP), bukan bronkitis, dan hanya berkaitan secara tidak langsung (gred perkaitan B — "mekanisme yang sama, entiti penyakit berbeza"). Majoriti kesusasteraan menyangkut dupilumab dalam asma atau COPD, dengan hanya satu laporan peringkat kes pediatrik yang menangani terus keadaan berkaitan bronkitis eosinofilik (bronkitis plastik). Oleh kerana graf pengetahuan TxGNN mungkin menempatkan "bronkitis" berhampiran "asma," terdapat kemungkinan nyata bahawa skor ramalan dinaikkan oleh kedekatan graf ini daripada oleh bukti khusus penyakit. Ini harus diperlakukan sebagai isyarat penjanaan hipotesis dan bukannya peluang pemulihan yang disahkan.
 
 ---
 
-## Clinical Trial Evidence
+## Bukti Percubaan Klinikal
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT04362501](https://clinicaltrials.gov/study/NCT04362501) | Phase 2 | Completed | 33 | Randomized, double-blind, placebo-controlled study of dupilumab in chronic rhinosinusitis without nasal polyps (CRSsNP) — a related Th2-driven upper-airway condition, **not bronchitis**. Findings on endotype-based patient selection may inform, but do not directly establish, efficacy in bronchitis. |
+| [NCT04362501](https://clinicaltrials.gov/study/NCT04362501) | Fasa 2 | Selesai | 33 | Kajian rawak, buta-ganda, terkawal plasebo bagi dupilumab dalam sinusitis rinonik kronik tanpa polip hidung (CRSsNP) — keadaan saluran udara atas yang didorong oleh Th2 yang berkaitan, **bukan bronkitis**. Penemuan dalam pemilihan pesakit berdasarkan endotip mungkin memaklumi, tetapi tidak secara langsung menetapkan, keberkesanan dalam bronkitis. |
 
-*Note: No trial in the current evidence pack directly enrolled bronchitis patients; the single retrieved trial is included only for its mechanistic overlap.*
+*Nota: Tiada percubaan dalam pakej bukti semasa yang mengambil masuk terus pesakit bronkitis; satu-satunya percubaan yang diperolehi hanya disertakan kerana pertindihan mekaniknya.*
 
 ---
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [30273510](https://pubmed.ncbi.nlm.nih.gov/30273510/) | 2019 | Systematic Review/Meta-analysis | The Journal of Asthma | Meta-analysis of RCTs showing dupilumab improves efficacy and safety outcomes in uncontrolled asthma — a Th2-driven airway disease mechanistically related to eosinophilic bronchitis. |
-| [32428511](https://pubmed.ncbi.nlm.nih.gov/32428511/) | 2020 | Small RCT/Imaging Substudy | Chest | MRI-based study showing anti-T2 biologic treatment (including dupilumab) improves lung ventilation defects in prednisone-dependent asthma with eosinophilic airway pathology. |
-| [34597534](https://pubmed.ncbi.nlm.nih.gov/34597534/) | 2022 | Open-label Extension (long-term safety) | The Lancet Respiratory Medicine | TRAVERSE study: long-term (beyond 1 year) safety and efficacy of dupilumab in moderate-to-severe asthma. |
-| [39904363](https://pubmed.ncbi.nlm.nih.gov/39904363/) | 2025 | Review (COPD) | Tuberculosis and Respiratory Diseases | Comprehensive review of pharmacologic therapies, including biologics, for preventing COPD exacerbations — bronchitis is a COPD-related phenotype. |
-| [30196731](https://pubmed.ncbi.nlm.nih.gov/30196731/) | 2018 | Narrative Review | Expert Opinion on Pharmacotherapy | Discusses smoking-induced airway diseases (chronic bronchitis, emphysema) contributing to symptoms in asthma/ACO patients; does not directly test dupilumab in bronchitis. |
-| [38488768](https://pubmed.ncbi.nlm.nih.gov/38488768/) | 2024 | Review/Case-level | Pediatric Pulmonology | Discusses novel therapies for eosinophilic pediatric plastic bronchitis — the only literature item directly addressing a bronchitis subtype, at case-report/case-series level. |
+| [30273510](https://pubmed.ncbi.nlm.nih.gov/30273510/) | 2019 | Ulasan Sistematik/Meta-analisis | The Journal of Asthma | Meta-analisis kajian rawak terkawal menunjukkan dupilumab meningkatkan hasil keberkesanan dan keselamatan dalam asma yang tidak terkawal — penyakit saluran udara yang didorong oleh Th2 yang berkaitan secara mekanik dengan bronkitis eosinofilik. |
+| [32428511](https://pubmed.ncbi.nlm.nih.gov/32428511/) | 2020 | Kajian Rawak Terkawal Kecil/Substudi Imejan | Chest | Kajian berasaskan MRI menunjukkan rawatan biologi anti-T2 (termasuk dupilumab) meningkatkan kecacatan pengudaraan paru-paru dalam asma bersandar prednison dengan patologi saluran udara eosinofilik. |
+| [34597534](https://pubmed.ncbi.nlm.nih.gov/34597534/) | 2022 | Lanjutan Label Terbuka (keselamatan jangka panjang) | The Lancet Respiratory Medicine | Kajian TRAVERSE: keselamatan dan keberkesanan jangka panjang (melebihi 1 tahun) dupilumab dalam asma sederhana hingga teruk. |
+| [39904363](https://pubmed.ncbi.nlm.nih.gov/39904363/) | 2025 | Ulasan (COPD) | Tuberculosis and Respiratory Diseases | Ulasan komprehensif terapi farmakoloji, termasuk biologi, untuk mencegah eksaserbasi COPD — bronkitis ialah fenotip berkaitan COPD. |
+| [30196731](https://pubmed.ncbi.nlm.nih.gov/30196731/) | 2018 | Ulasan Naratif | Expert Opinion on Pharmacotherapy | Membincangkan penyakit saluran udara yang diinduksi merokok (bronkitis kronik, emfisema) yang menyumbang kepada gejala dalam pesakit asma/ACO; tidak secara langsung menguji dupilumab dalam bronkitis. |
+| [38488768](https://pubmed.ncbi.nlm.nih.gov/38488768/) | 2024 | Ulasan/Peringkat Kes | Pediatric Pulmonology | Membincangkan terapi novel untuk bronkitis plastik eosinofilik pediatrik — satu-satunya item kesusasteraan yang menangani terus subtip bronkitis, pada peringkat laporan kes/siri kes. |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Malaysia (NPRA) records confirm **3 marketing authorizations** for Dupilumab, and market status is **Marketed**. However, product-level license details (authorization numbers, product names, dosage forms, and approved indication text) were not populated in the current data extract, so a detailed authorization table cannot be produced at this time. This is flagged as a data gap requiring retrieval from the NPRA product registry.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-*(Key warnings, contraindications, and drug interaction data were not available in the current evidence pack — this is logged as a Blocking data gap (DG001) that must be resolved before any safety-related decision can be made.)*
+Rekod Malaysia (NPRA) mengesahkan **3 kelulusan pemasaran** bagi Dupilumab, dan status pasaran ialah **Dipasarkan**. Walau bagaimanapun, butir kelulusan peringkat produk (nombor kelulusan, nama produk, bentuk dos, dan teks petunjuk kelulusan) tidak diisi dalam ekstrak data semasa, jadi jadual kelulusan terperinci tidak dapat dihasilkan pada masa ini. Ini ditandai sebagai jurang data yang memerlukan pemerolehan daripada pendaftar produk NPRA.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-**Rationale:**
-The mechanistic rationale linking dupilumab's IL-4/IL-13 blockade to eosinophilic/Th2-driven bronchitis is biologically plausible given its established efficacy in asthma, but no clinical trial has directly evaluated dupilumab in bronchitis patients — the single retrieved trial studies a different (related) disease entity, and most literature is extrapolated from asthma/COPD populations. Given the L3 evidence level, "Research Question" stage designation, and the possibility that the TxGNN score is inflated by knowledge-graph proximity to asthma, this candidate is not yet ready to advance beyond a research hypothesis.
+*(Amaran utama, kontraindikasi, dan data interaksi ubat tidak tersedia dalam pakej bukti semasa — ini dicatat sebagai jurang data Blocking (DG001) yang mesti diselesaikan sebelum sebarang keputusan berkaitan keselamatan boleh dibuat.)*
 
-**To proceed, the following is needed:**
-- Dedicated clinical trials or case series evaluating dupilumab specifically in (eosinophilic/plastic) bronchitis populations
-- Resolution of Blocking data gap DG001: TFDA/NPRA package insert warnings and contraindications
-- Resolution of High-priority data gap DG002: detailed mechanism of action documentation from DrugBank
-- Malaysia NPRA product-level license and approved-indication text (currently missing from all 3 registrations)
-- A methodological review of the TxGNN scoring to rule out knowledge-graph proximity bias (bronchitis vs. asthma node adjacency)
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Nisbah:**
+Nisbah mekanik yang menghubungkan penyekatan IL-4/IL-13 dupilumab kepada bronkitis eosinofilik/didorong oleh Th2 munasabah dari segi biologi memandangkan keberkesanannya yang ditubuhkan dalam asma, tetapi tiada percubaan klinikal telah menilai secara langsung dupilumab dalam pesakit bronkitis — satu-satunya percubaan yang diperolehi mengkaji entiti penyakit berbeza (berkaitan), dan kebanyakan kesusasteraan diekstrapolasikan daripada populasi asma/COPD. Memandangkan tahap bukti L3, penetapan peringkat "Soalan Penyelidikan," dan kemungkinan bahawa skor TxGNN dinaikkan oleh kedekatan graf pengetahuan kepada asma, calon ini belum siap untuk maju melampaui hipotesis penyelidikan.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Percubaan klinikal berdedikasi atau siri kes menilai dupilumab khususnya dalam populasi bronkitis (eosinofilik/plastik)
+- Penyelesaian jurang data Blocking DG001: amaran sisipan pakej TFDA/NPRA dan kontraindikasi
+- Penyelesaian jurang data keutamaan tinggi DG002: dokumentasi mekanisme tindakan terperinci daripada DrugBank
+- Kelulusan peringkat produk Malaysia NPRA dan teks petunjuk yang diluluskan (kini hilang daripada semua 3 pendaftaran)
+- Semakan metodologi pemarkahan TxGNN untuk menolak bias jarak graf pengetahuan (kedekatan nod bronkitis vs. asma)
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

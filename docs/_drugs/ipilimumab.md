@@ -29,111 +29,112 @@ Tahap bukti: **L1** | Indikasi diramal: **2**
 
 </div>
 
-# Ipilimumab: From Melanoma to Non-Cutaneous Melanoma
+# Ipilimumab: Daripada Melanoma kepada Melanoma Bukan Kulit
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Ipilimumab is an anti-CTLA-4 immune checkpoint inhibitor originally established for melanoma treatment. The TxGNN model predicts it may also be effective for **non-cutaneous melanoma** (e.g., uveal, mucosal subtypes), with **50 clinical trials** identified (10 assessed as directly relevant, including 2 completed Phase 3 studies) and **5 publications** currently supporting this direction. A second, much weaker signal — **choroideremia** — was also flagged by the model but shows no mechanistic, trial, or literature support and is treated separately below.
+Ipilimumab adalah penyekat titik semak imun anti-CTLA-4 yang asalnya ditetapkan untuk rawatan melanoma. Model TxGNN meramalkan ia juga mungkin berkesan untuk **melanoma bukan kulit** (cth., uvea, subtip mukosal), dengan **50 percubaan klinikal** dikenalpasti (10 dinilai sebagai relevan secara langsung, termasuk 2 kajian Fasa 3 yang selesai) dan **5 penerbitan** kini menyokong arah ini. Isyarat kedua yang jauh lebih lemah — **choroideremia** — juga telah ditanda oleh model tetapi tidak menunjukkan sokongan mekanistik, percubaan, atau kesusasteraan dan dirawat secara berasingan di bawah.
 
 ---
 
-## Quick Overview
+## Gambaran Keseluruhan Cepat
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Melanoma (cutaneous) — confirmed by drug-class rationale; structured NPRA license indication text not available in this evidence pack |
-| Predicted New Indication | Non-Cutaneous Melanoma (uveal / mucosal melanoma) |
-| TxGNN Prediction Score | 99.02% |
-| Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Proceed with Guardrails |
+| Petunjuk Asal | Melanoma (kulit) — disahkan oleh rasional kelas ubat; teks petunjuk lesen NPRA berstruktur tidak tersedia dalam pakej bukti ini |
+| Petunjuk Baru Diramalkan | Melanoma Bukan Kulit (melanoma uvea / mukosal) |
+| Skor Ramalan TxGNN | 99.02% |
+| Aras Bukti | L1 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | Teruskan dengan Pengawalan |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data is not available (data gap DG002). Based on known drug class information, ipilimumab is an anti-CTLA-4 monoclonal antibody that blocks a T-cell inhibitory checkpoint, restoring antitumor immune activation. Its efficacy in cutaneous melanoma is well established and forms the pharmacological basis of its original approval.
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia (jurang data DG002). Berdasarkan maklumat kelas ubat yang diketahui, ipilimumab adalah antibodi monoklonal anti-CTLA-4 yang menyekat titik semak perencatan sel T, memulihkan pengaktifan imun antitumor. Keberkesanannya dalam melanoma kulit telah ditegaskan dengan baik dan membentuk asas farmakologi kelulusan asalnya.
 
-Cutaneous and non-cutaneous melanoma (uveal, mucosal) share the same underlying tumor biology — melanocyte-derived malignancy with T-cell-mediated immune evasion — so the CTLA-4 blockade mechanism is directly applicable in principle. This is not really a cross-disease repurposing signal so much as a subgroup extrapolation: ipilimumab is already used clinically across melanoma subtypes.
+Melanoma kulit dan bukan kulit (uvea, mukosal) berkongsi biologi tumor yang mendasar — keganasan yang diperoleh melanosit dengan pengelakan imun yang dilaraskan sel T — jadi mekanisme penyekat CTLA-4 boleh digunakan secara langsung dalam prinsip. Ini sebenarnya bukan benar-benar isyarat pertukaran silang penyakit tetapi pengekstrapolasian subkumpulan: ipilimumab sudah digunakan secara klinikal merentasi subtip melanoma.
 
-The important caveat is that non-cutaneous subtypes — particularly uveal melanoma — are known to respond less robustly to CTLA-4/PD-1 blockade than cutaneous melanoma, due to differences in tumor mutational burden and immune microenvironment. The trial evidence below largely reflects general/cutaneous-predominant melanoma populations rather than non-cutaneous-specific cohorts, so the mechanistic plausibility is strong but the subtype-specific efficacy evidence is indirect.
+Kaveat penting ialah subtip bukan kulit — terutamanya melanoma uvea — diketahui bertindak balas kurang teguh terhadap penyekat CTLA-4/PD-1 berbanding melanoma kulit, disebabkan perbezaan dalam beban mutasi tumor dan persekitaran imun mikro. Bukti percubaan di bawah sebahagian besarnya mencerminkan populasi melanoma umum/kulit-dominan dan bukannya kohort khusus subtip bukan kulit, jadi kebolehgunaan mekanistik adalah kuat tetapi bukti keberkesanan khusus subtip adalah tidak langsung.
 
 ---
 
-## Clinical Trial Evidence
+## Bukti Percubaan Klinikal
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT00324155](https://clinicaltrials.gov/study/NCT00324155) | Phase 3 | Completed | 681 | Pivotal MDX010-20 trial establishing ipilimumab + dacarbazine efficacy in melanoma; predominantly cutaneous population — supportive but not subtype-specific |
-| [NCT02339571](https://clinicaltrials.gov/study/NCT02339571) | Phase 2/3 | Active, not recruiting | 600 | Nivolumab + ipilimumab ± sargramostim in unresectable stage III/IV melanoma; general population, mechanism-relevant |
-| [NCT01783938](https://clinicaltrials.gov/study/NCT01783938) | Phase 2 | Completed | 138 | Sequential nivolumab + ipilimumab in advanced/metastatic melanoma; general population, moderately relevant |
-| [NCT03068455](https://clinicaltrials.gov/study/NCT03068455) | Phase 3 | Completed | 1844 | Adjuvant nivolumab + ipilimumab vs. nivolumab after resection of stage IIIB-D/IV melanoma; cutaneous-predominant |
-| [NCT01940809](https://clinicaltrials.gov/study/NCT01940809) | Phase 1 | Terminated | 15 | BRAF-MEK inhibition combined with CTLA-4/PD-1 blockade in BRAF-mutant melanoma; largely cutaneous, trial terminated |
-| [NCT00972933](https://clinicaltrials.gov/study/NCT00972933) | Early Phase 1 | Completed | 59 | Neoadjuvant anti-CTLA-4 immunogenicity/biomarker study in resectable stage IIIB-C melanoma; cutaneous-predominant |
-| [NCT07230613](https://clinicaltrials.gov/study/NCT07230613) | Phase 2 | Recruiting | 50 | Neoadjuvant intratumoral anti-CTLA-4 + anti-PD-1 in localized melanoma; subtype not specified |
-| [NCT04401995](https://clinicaltrials.gov/study/NCT04401995) | Phase 2 | Completed | 9 | TLR9 agonist + nivolumab vs. nivolumab in stage IIIB/C/D melanoma; small sample, subtype unspecified |
-| [NCT03752398](https://clinicaltrials.gov/study/NCT03752398) | Phase 1 | Completed | 198 | Dose-escalation of XmAb23104 ± ipilimumab in advanced solid tumors; general population |
-| [NCT04133948](https://clinicaltrials.gov/study/NCT04133948) | Phase 1/2 | Completed | 44 | Domatinostat + nivolumab + ipilimumab neoadjuvant regimen in stage III cutaneous/unknown-primary melanoma |
+| [NCT00324155](https://clinicaltrials.gov/study/NCT00324155) | Fasa 3 | Selesai | 681 | Percubaan penting MDX010-20 menetapkan keberkesanan ipilimumab + dakarbazina dalam melanoma; populasi kulit-dominan — sokongan tetapi bukan khusus subtip |
+| [NCT02339571](https://clinicaltrials.gov/study/NCT02339571) | Fasa 2/3 | Aktif, tidak merekrut | 600 | Nivolumab + ipilimumab ± sargramostim dalam melanoma peringkat III/IV yang tidak boleh dipindahkan; populasi umum, relevan mekanisme |
+| [NCT01783938](https://clinicaltrials.gov/study/NCT01783938) | Fasa 2 | Selesai | 138 | Nivolumab + ipilimumab berturut-turut dalam melanoma lanjut/bermetastasis; populasi umum, sederhana relevan |
+| [NCT03068455](https://clinicaltrials.gov/study/NCT03068455) | Fasa 3 | Selesai | 1844 | Nivolumab + ipilimumab bersebelahan vs. nivolumab selepas penyingkiran melanoma peringkat IIIB-D/IV; kulit-dominan |
+| [NCT01940809](https://clinicaltrials.gov/study/NCT01940809) | Fasa 1 | Ditamatkan | 15 | Penghambatan BRAF-MEK digabungkan dengan penyekat CTLA-4/PD-1 dalam melanoma mutasi BRAF; sebahagian besarnya kulit, percubaan ditamatkan |
+| [NCT00972933](https://clinicaltrials.gov/study/NCT00972933) | Fasa Awal 1 | Selesai | 59 | Kajian imunogenisiti/biopenanda anti-CTLA-4 neoadjuvan dalam melanoma peringkat IIIB-C yang boleh dipindahkan; kulit-dominan |
+| [NCT07230613](https://clinicaltrials.gov/study/NCT07230613) | Fasa 2 | Merekrut | 50 | Anti-CTLA-4 intratumoral neoadjuvan + anti-PD-1 dalam melanoma terlokalisir; subtip tidak dinyatakan |
+| [NCT04401995](https://clinicaltrials.gov/study/NCT04401995) | Fasa 2 | Selesai | 9 | Agonis TLR9 + nivolumab vs. nivolumab dalam melanoma peringkat IIIB/C/D; sampel kecil, subtip tidak dinyatakan |
+| [NCT03752398](https://clinicaltrials.gov/study/NCT03752398) | Fasa 1 | Selesai | 198 | Dos-eskalasi XmAb23104 ± ipilimumab dalam tumor pepejal lanjut; populasi umum |
+| [NCT04133948](https://clinicaltrials.gov/study/NCT04133948) | Fasa 1/2 | Selesai | 44 | Regimen neoadjuvan domatinostat + nivolumab + ipilimumab dalam melanoma kulit/sumber tidak diketahui peringkat III |
 
 ---
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [28183255](https://pubmed.ncbi.nlm.nih.gov/28183255/) | 2018 | Review | Current Cancer Drug Targets | Systematic review of adjuvant melanoma trials (2000–2015); notes non-cutaneous melanoma is only ~5% of cases and mentions immunotherapy's evolving role |
-| [29466692](https://pubmed.ncbi.nlm.nih.gov/29466692/) | 2018 | Review | Discovery Medicine | Clinical update on anti-PD-1 antibodies alone or combined with ipilimumab as standard frontline therapy for advanced melanoma |
-| [37887546](https://pubmed.ncbi.nlm.nih.gov/37887546/) | 2023 | Cohort | Current Oncology | Retrospective cohort comparing anti-PD-1 monotherapy vs. combination with ipilimumab across age groups in advanced melanoma |
-| [24999899](https://pubmed.ncbi.nlm.nih.gov/24999899/) | 2014 | Cohort/Expanded Access | The Medical Journal of Australia | Evaluates ipilimumab efficacy/tolerability in pretreated **cutaneous, uveal, and mucosal melanoma**, assessing response by subtype — directly relevant to the non-cutaneous prediction |
-| [40236344](https://pubmed.ncbi.nlm.nih.gov/40236344/) | 2025 | Case Report | Cureus | Case of metastatic melanoma with colonic involvement treated with immunotherapy; illustrates real-world use and immune-related GI toxicity |
+| [28183255](https://pubmed.ncbi.nlm.nih.gov/28183255/) | 2018 | Ulasan | Current Cancer Drug Targets | Ulasan sistematik percubaan melanoma bersebelahan (2000–2015); mencatat melanoma bukan kulit hanya ~5% kes dan menyebut peranan berkembang immunoterapi |
+| [29466692](https://pubmed.ncbi.nlm.nih.gov/29466692/) | 2018 | Ulasan | Discovery Medicine | Kemas kini klinikal pada antibodi anti-PD-1 sahaja atau digabungkan dengan ipilimumab sebagai terapi barisan depan piawai untuk melanoma lanjut |
+| [37887546](https://pubmed.ncbi.nlm.nih.gov/37887546/) | 2023 | Kohort | Current Oncology | Kohort retrospektif membandingkan monotherapi anti-PD-1 vs. kombinasi dengan ipilimumab merentasi kumpulan umur dalam melanoma lanjut |
+| [24999899](https://pubmed.ncbi.nlm.nih.gov/24999899/) | 2014 | Kohort/Akses Lanjutan | The Medical Journal of Australia | Menilai keberkesanan/kebolehteraan ipilimumab dalam melanoma kulit, uvea, dan mukosal yang telah dirawat sebelumnya, menilai tindak balas mengikut subtip — relevan secara langsung dengan ramalan bukan kulit |
+| [40236344](https://pubmed.ncbi.nlm.nih.gov/40236344/) | 2025 | Laporan Kes | Cureus | Kes melanoma bermetastasis dengan penglibatan kolon dirawat dengan immunoterapi; menggambarkan penggunaan dunia nyata dan ketoksikan imun-berkaitan GI |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Ipilimumab has 1 registered authorization with Malaysia's NPRA (market status: Marketed). Detailed license number, product name, dosage form, and approved-indication text were not returned in this data extract and cannot be reported without risk of fabrication.
+Ipilimumab mempunyai 1 kebenaran pendaftaran dengan NPRA Malaysia (status pasaran: Dipasarkan). Nombor lesen terperinci, nama produk, bentuk dos, dan teks petunjuk yang diluluskan tidak dikembalikan dalam ekstrak data ini dan tidak boleh dilaporkan tanpa risiko fabrikasi.
 
 ---
 
-## Cytotoxicity
+## Sitotoksisiti
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Cytotoxicity Classification | Immunotherapy — immune checkpoint inhibitor (anti-CTLA-4 monoclonal antibody), not a conventional cytotoxic agent |
-| Myelosuppression Risk | Low — checkpoint inhibitors are not primarily myelosuppressive; the dominant toxicity pattern is immune-related adverse events (e.g., colitis, hepatitis, dermatitis, endocrinopathies) rather than bone marrow suppression |
-| Emetogenicity Classification | Low |
-| Monitoring Items | Liver function tests, thyroid/endocrine panel, CBC, and clinical monitoring for immune-related adverse events (colitis, hepatitis, dermatitis, hypophysitis/thyroiditis) |
-| Handling Protection | Biologic monoclonal antibody infusion — not classic cytotoxic chemotherapy; follow institutional infusion and hazardous-drug handling protocols for biologics |
+| Klasifikasi Sitotoksisiti | Immunoterapi — penyekat titik semak imun (antibodi monoklonal anti-CTLA-4), bukan agen sitotoksik konvensional |
+| Risiko Supresi Sumsum | Rendah — penyekat titik semak bukan terutamanya menyupresi sumsum; corak ketoksikan yang dominan adalah peristiwa buruk berkaitan imun (cth., kolitis, hepatitis, dermatitis, endokrinopatia) dan bukannya supresi sumsum tulang |
+| Klasifikasi Emetogenisiti | Rendah |
+| Item Pemantauan | Ujian fungsi hati, panel tiroid/endokrin, CBC, dan pemantauan klinikal untuk peristiwa buruk berkaitan imun (kolitis, hepatitis, dermatitis, hipofisitis/tiroiditis) |
+| Perlindungan Penanganan | Infusi antibodi monoklonal biologi — bukan ubat kimia sitotoksik klasik; ikut protokol institusi infusi dan penanganan ubat berbahaya untuk biologi |
 
-*Formal toxicity/warning data from the product label was not available (see data gap below) — please refer to the package insert warnings and precautions for confirmed details.*
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information. The evidence pack flags this as a **Blocking** data gap (DG001: TFDA/NPRA label warnings and contraindications not yet retrieved), meaning a formal safety pre-screen (S1) cannot be completed until the label PDF is obtained and parsed. No drug interaction records were found in the current query.
+*Data ketoksikan/amaran rasmi dari label produk tidak tersedia (lihat jurang data di bawah) — sila rujuk amaran dan kontraindikasi sisipan bungkusan untuk butiran yang disahkan.*
 
 ---
 
-## Other Predicted Indication (Screened Out)
+## Pertimbangan Keselamatan
 
-The model also flagged **choroideremia** (TxGNN score 99.06%) as a candidate. This is an X-linked recessive retinal degeneration caused by CHM gene mutation / Rab escort protein-1 deficiency, with no known biological relationship to CTLA-4 blockade. No clinical trials or literature support this link, and the evidence level is L5 (model prediction only). This is assessed as likely algorithmic noise/false positive — **Decision: Hold**, no further action recommended.
+Sila rujuk sisipan bungkusan untuk maklumat keselamatan. Pakej bukti menanda ini sebagai jurang data **Penyekat** (DG001: amaran/kontraindikasi label TFDA/NPRA belum diambil), bermaksud skrin keselamatan pra-formal (S1) tidak boleh diselesaikan sehingga PDF label diperolehi dan dianalisis. Tiada rekod interaksi ubat ditemui dalam pertanyaan semasa.
 
 ---
 
-## Conclusion and Next Steps
+## Petunjuk Diramalkan Lain (Disaring Keluar)
 
-**Decision: Proceed with Guardrails** *(for non-cutaneous melanoma)*
+Model ini juga menanda **choroideremia** (skor TxGNN 99.06%) sebagai calon. Ini adalah degenerasi retina resesif terikat X yang disebabkan oleh mutasi gen CHM / kekurangan protein pendamping Rab 1, tanpa hubungan biologi yang diketahui dengan penyekat CTLA-4. Tiada percubaan klinikal atau sokongan kesusasteraan untuk pautan ini, dan aras bukti ialah L5 (ramalan model sahaja). Ini dinilai sebagai kemungkinan bising algoritma/positif palsu — **Keputusan: Tahan**, tiada tindakan lanjut disyorkan.
 
-**Rationale:**
-Ipilimumab's CTLA-4 blockade mechanism is directly validated in melanoma, including 2 completed Phase 3 trials, and is mechanistically applicable across cutaneous and non-cutaneous subtypes. However, direct subtype-specific (uveal/mucosal) efficacy evidence is limited, and known lower immunotherapy response rates in non-cutaneous melanoma warrant caution.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA label PDF for safety warnings and contraindications (DG001, blocking)
-- Formal mechanism-of-action documentation (DG002)
-- Subtype-specific (uveal/mucosal melanoma) efficacy and response-rate data
-- Confirmation of registered indication text from NPRA license record
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Teruskan dengan Pengawalan** *(untuk melanoma bukan kulit)*
+
+**Rasional:**
+Mekanisme penyekat CTLA-4 ipilimumab secara langsung disahkan dalam melanoma, termasuk 2 percubaan Fasa 3 yang selesai, dan boleh digunakan secara mekanis merentasi subtip kulit dan bukan kulit. Walau bagaimanapun, bukti keberkesanan khusus subtip langsung (uvea/mukosal) terbatas, dan kadar tindak balas immunoterapi yang lebih rendah yang diketahui dalam melanoma bukan kulit menjustifikan berhati-hati.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- PDF label TFDA/NPRA untuk amaran keselamatan dan kontraindikasi (DG001, penyekat)
+- Dokumentasi mekanisme tindakan rasmi (DG002)
+- Data keberkesanan dan kadar tindak balas khusus subtip (melanoma uvea/mukosal)
+- Pengesahan teks petunjuk yang didaftarkan dari rekod lesen NPRA
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

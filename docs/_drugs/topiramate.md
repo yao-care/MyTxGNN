@@ -29,61 +29,62 @@ Tahap bukti: **L5** | Indikasi diramal: **9**
 
 </div>
 
-# Topiramate: From Epilepsy to Trigeminal Nerve Neoplasm
+# Topiramate: Dari Epilepsi ke Trigeminal Nerve Neoplasm
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Topiramate is a broad-spectrum antiepileptic drug with established efficacy in epilepsy and migraine prophylaxis. The TxGNN model's top-ranked prediction is **Trigeminal Nerve Neoplasm**, but this candidate currently has **0 clinical trials** and **0 publications** supporting it, despite a 99.70% model confidence score — a gap that warrants caution before further investment.
+Topiramate adalah agen antiepileptik spektrum luas dengan efikasi yang terbukti dalam epilepsi dan profilaksis migrain. Prediksi peringkat teratas model TxGNN adalah **Trigeminal Nerve Neoplasm**, tetapi kandidat ini saat ini memiliki **0 uji klinis** dan **0 publikasi** yang mendukungnya, meskipun memiliki skor kepercayaan model 99,70% — kesenjangan ini memerlukan kehati-hatian sebelum investasi lebih lanjut.
 
-## Quick Overview
+## Gambaran Cepat
 
-| Item | Content |
-|------|------|
-| Original Indication | Not returned in this evidence pack (all Malaysia NPRA license fields are blank). Topiramate is globally established for epilepsy (partial-onset and primary generalized tonic-clonic seizures) and migraine prophylaxis. |
-| Predicted New Indication | Trigeminal Nerve Neoplasm |
-| TxGNN Prediction Score | 99.70% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 12 |
-| Recommended Decision | Hold |
+| Item | Konten |
+|------|--------|
+| Indikasi Asal | Tidak dikembalikan dalam paket bukti ini (semua bidang lisensi NPRA Malaysia kosong). Topiramate secara global ditetapkan untuk epilepsi (kejang onset parsial dan kejang tonik-klonik umum primer) dan profilaksis migrain. |
+| Indikasi Baru yang Diprediksi | Trigeminal Nerve Neoplasm |
+| Skor Prediksi TxGNN | 99,70% |
+| Tingkat Bukti | L5 |
+| Status Pasar Malaysia | ✓ Dipasarkan |
+| Jumlah Pendaftaran | 12 |
+| Keputusan yang Disarankan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Prediksi Ini Masuk Akal?
 
-Currently, detailed mechanism of action data for topiramate is not available in this evidence pack. Based on established pharmacological knowledge, topiramate is a sulfamate-substituted monosaccharide with multiple mechanisms of action — blockade of voltage-gated sodium channels, potentiation of GABA-A receptor activity, and antagonism of AMPA/kainate glutamate receptors — and its efficacy in epilepsy has been proven through decades of clinical use.
+Saat ini, data mekanisme tindakan terperinci untuk topiramate tidak tersedia dalam paket bukti ini. Berdasarkan pengetahuan farmakologis yang terbukti, topiramate adalah monosakarida tersubstitusi sulfamate dengan mekanisme tindakan ganda — blokade saluran natrium yang bergantung pada tegangan, potensiasi aktivitas reseptor GABA-A, dan antagonisme reseptor glutamat AMPA/kainate — dan efikasinya dalam epilepsi telah terbukti melalui penggunaan klinis selama puluhan tahun.
 
-The TxGNN model's top-ranked prediction, however, is **Trigeminal Nerve Neoplasm** — a nerve-sheath tumor with no established mechanistic link to topiramate's anticonvulsant/neuromodulatory activity. The evidence pack returns **zero clinical trials and zero published literature** connecting topiramate to this indication. A 99.70% model score with no corroborating study is an unusually large evidence gap, and should be treated as a signal of knowledge-graph embedding noise rather than a validated repurposing hypothesis at this stage.
+Prediksi peringkat teratas model TxGNN, bagaimanapun, adalah **Trigeminal Nerve Neoplasm** — tumor selubung saraf tanpa tautan mekanistik ke aktivitas antikonvulsan/neuromodulasi topiramate. Paket bukti mengembalikan **nol uji klinis dan nol literatur ilmiah** yang menghubungkan topiramate dengan indikasi ini. Skor model 99,70% dengan tidak ada studi yang mendukung adalah kesenjangan bukti yang luar biasa besar, dan harus diperlakukan sebagai sinyal kebisingan embedding knowledge-graph daripada hipotesis repurposing yang divalidasi pada tahap ini.
 
-By contrast, several lower-ranked candidates in this pack are mechanistically coherent and evidence-backed — notably rank 2, "visual epilepsy" (4 clinical trials, 20 publications, score 99.28%), which fits directly with topiramate's known antiepileptic profile. If a repurposing candidate is to be advanced from this pack, that indication is a more defensible starting point than the rank-1 prediction.
+Sebaliknya, beberapa kandidat peringkat lebih rendah dalam paket ini secara mekanistik koheren dan didukung bukti — terutama peringkat 2, "visual epilepsy" (4 uji klinis, 20 publikasi, skor 99,28%), yang sesuai langsung dengan profil antiepileptik topiramate yang diketahui. Jika kandidat repurposing harus dimajukan dari paket ini, indikasi itu adalah titik awal yang lebih dapat dipertahankan daripada prediksi peringkat-1.
 
-## Clinical Trial Evidence
+## Bukti Uji Klinis
 
-Currently no related clinical trials registered.
+Saat ini tidak ada uji klinis terkait yang terdaftar.
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no related literature available.
+Saat ini tidak ada literatur terkait yang tersedia.
 
-## Malaysia Market Information
+## Informasi Pasar Malaysia
 
-Topiramate holds **12 registrations** in Malaysia and is currently marketed ("Marketed"). However, this evidence pack did not return license-level detail — authorization numbers, product names, dosage forms, and approved indication text are all blank for the returned records — so a per-license table cannot be produced from the current data.
+Topiramate memegang **12 pendaftaran** di Malaysia dan saat ini dipasarkan ("Dipasarkan"). Namun, paket bukti ini tidak mengembalikan detail tingkat lisensi — nomor otorisasi, nama produk, bentuk dosis, dan teks indikasi yang disetujui semuanya kosong untuk catatan yang dikembalikan — jadi tabel per-lisensi tidak dapat diproduksi dari data saat ini.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information. Note: this evidence pack currently lacks TFDA/NPRA label warnings, contraindications, and drug-interaction data, which blocks a formal safety (S1) pre-assessment for this candidate (see Conclusion below).
+Silakan lihat sisipan paket untuk informasi keselamatan. Catatan: paket bukti ini saat ini tidak memiliki peringatan label TFDA/NPRA, kontraindikasi, dan data interaksi obat, yang menghalangi pra-penilaian keselamatan formal (S1) untuk kandidat ini (lihat Kesimpulan di bawah).
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Berikutnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-- A Blocking data gap (missing TFDA/NPRA label warnings and contraindications) prevents the mandatory S1 safety pre-assessment.
-- The top-ranked predicted indication (Trigeminal Nerve Neoplasm) has no independent clinical trial or literature support despite its high model score, so there is currently no evidence base to justify advancing it.
+**Alasan:**
+- Kesenjangan data pemblokiran (hilangnya peringatan label TFDA/NPRA dan kontraindikasi) mencegah pra-penilaian keselamatan S1 yang wajib.
+- Indikasi yang diprediksi peringkat teratas (Trigeminal Nerve Neoplasm) tidak memiliki dukungan uji klinis atau literatur independen meskipun skor modelnya tinggi, jadi saat ini tidak ada dasar bukti untuk membenarkan kemajuannya.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert (warnings, contraindications) — Blocking gap, required before any safety review
-- DrugBank mechanism of action data — High priority, needed for mechanistic-link analysis
-- Malaysia NPRA license-level detail (product names, dosage forms, approved indication text)
-- Re-evaluate rank 2 "visual epilepsy" (4 trials, 20 publications) as a more evidence-supported candidate before further work on trigeminal nerve neoplasm
+**Untuk melanjutkan, hal berikut diperlukan:**
+- Sisipan paket TFDA/NPRA (peringatan, kontraindikasi) — Kesenjangan pemblokiran, diperlukan sebelum tinjauan keselamatan apa pun
+- Data mekanisme tindakan DrugBank — Prioritas tinggi, diperlukan untuk analisis tautan mekanistik
+- Detail tingkat lisensi Malaysia NPRA (nama produk, bentuk dosis, teks indikasi yang disetujui)
+- Evaluasi ulang peringkat 2 "visual epilepsy" (4 uji, 20 publikasi) sebagai kandidat yang lebih didukung bukti sebelum pekerjaan lebih lanjut pada neoplasma saraf trigeminal
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

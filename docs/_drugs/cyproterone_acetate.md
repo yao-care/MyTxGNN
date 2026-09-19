@@ -29,74 +29,75 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Cyproterone Acetate: From Androgen-Dependent Conditions to Migraine Disorder
+# Cyproterone Acetate: Daripada Keadaan Bergantung Androgen kepada Gangguan Migrain
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Cyproterone acetate is an antiandrogen with progestogenic activity, marketed in Malaysia for androgen-dependent conditions (specific approved indication text is not available in the current dataset). The TxGNN model predicts it may be effective for **Migraine Disorder**, but this prediction is currently supported by **0 clinical trials** and **0 publications** — it rests entirely on a theoretical mechanistic hypothesis.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not specified in the evidence pack (NPRA license indication text is blank); generally known use is androgen-dependent conditions (e.g. hirsutism, severe acne, hormone-responsive conditions) |
-| Predicted New Indication | Migraine Disorder |
-| TxGNN Prediction Score | 99.66% |
-| Evidence Level | L5 (model prediction only) |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 4 |
-| Recommended Decision | Hold |
+Cyproterone acetate adalah antiandrogen dengan aktiviti progestagenik, dipasarkan di Malaysia untuk keadaan bergantung androgen (teks indikasi yang diluluskan khusus tidak tersedia dalam set data semasa). Model TxGNN meramalkan ia mungkin berkesan untuk **Gangguan Migrain**, tetapi ramalan ini kini disokong oleh **0 ujian klinikal** dan **0 penerbitan** — ia bergantung sepenuhnya pada hipotesis mekanistik teoritikal.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Pantas
 
-Detailed mechanism of action data is not available in this dataset (DG002, DrugBank query pending). Based on the mechanistic rationale attached to this candidate, cyproterone acetate suppresses ovarian function and blunts LH surges, which is the pharmacological basis proposed for this prediction: menstrual migraine is triggered by cyclical estrogen withdrawal, so stabilizing hormonal fluctuation could theoretically reduce migraine frequency.
-
-This is explicitly flagged in the source data as an inferential, unverified mechanism — no clinical trial, case report, or preclinical study confirms this link for cyproterone acetate specifically. The connection to the drug's known hormonal activity (antiandrogen + progestogenic) is biologically plausible but has not been tested in the migraine population.
-
-It is also worth noting that of the 10 TxGNN-predicted indications for this drug, several lower-ranked candidates (thrombophilia, antithrombin deficiency, heparin cofactor 2 deficiency, factor 5 excess with spontaneous thrombosis) are flagged in the source rationale as probable **false positives from inverted risk direction** — i.e., conditions where cyproterone acetate (particularly in combined estrogen-containing formulations) is a known risk factor, not a treatment. This raises a general caution about relying on TxGNN scores alone for this drug without mechanistic screening.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Item | Kandungan |
+|------|-----------|
+| Indikasi Asal | Tidak dinyatakan dalam pakej bukti (teks indikasi lesen NPRA adalah kosong); penggunaan yang diketahui secara amnya adalah keadaan bergantung androgen (cth. hirsutisme, jerawat teruk, keadaan responsif hormon) |
+| Indikasi Baru yang Diramalkan | Gangguan Migrain |
+| Skor Ramalan TxGNN | 99.66% |
+| Aras Bukti | L5 (ramalan model sahaja) |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 4 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available.
+Data mekanisme tindakan terperinci tidak tersedia dalam set data ini (DG002, pertanyaan DrugBank masih tertunda). Berdasarkan asas mekanistik yang dilampirkan pada calon ini, cyproterone acetate menyupress fungsi ovari dan mengaburkan lonjakan LH, yang merupakan asas farmakologi yang dicadangkan untuk ramalan ini: migrain menstruasi dicetuskan oleh penarikan estrogen bersiklik, jadi menstabilkan turun naik hormonal secara teoritikal boleh mengurangkan frekuensi migrain.
 
----
+Ini secara eksplisit ditandakan dalam data sumber sebagai mekanisme inferen, tidak disahkan — tiada ujian klinikal, laporan kes, atau kajian prakliniken mengesahkan sambungan ini untuk cyproterone acetate secara khusus. Sambungan kepada aktiviti hormonal ubat yang diketahui (antiandrogen + progestagenik) adalah mungkin secara biologis tetapi tidak telah diuji dalam populasi migrain.
 
-## Malaysia Market Information
-
-NPRA records confirm cyproterone acetate holds **4 marketed authorizations** in Malaysia (status: Marketed/Marketed). Detailed authorization numbers, product names, dosage forms, and approved indication text are not available in the current dataset.
+Perlu juga diambil perhatian bahawa daripada 10 indikasi yang diramalkan TxGNN untuk ubat ini, beberapa calon-calon yang kedudukan lebih rendah (trombofilia, kekurangan antitrombin, kekurangan faktor kofaktor heparin 2, faktor 5 lebihan dengan trombosis spontan) ditandakan dalam rasional sumber sebagai kemungkinan **positif palsu daripada arah risiko terbalik** — iaitu, keadaan di mana cyproterone acetate (khususnya dalam formulasi yang mengandungi estrogen gabungan) adalah faktor risiko yang diketahui, bukan rawatan. Ini meningkatkan usul berhati-hati umum tentang mengandalkan skor TxGNN sahaja untuk ubat ini tanpa penyaringan mekanistik.
 
 ---
 
-## Safety Considerations
+## Bukti Ujian Klinikal
 
-Please refer to the package insert for safety information.
+Tiada ujian klinikal berkaitan yang didaftarkan pada masa ini.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Kesusasteraan
 
-**Decision: Hold**
+Tiada kesusasteraan berkaitan yang tersedia pada masa ini.
 
-**Rationale:**
-This candidate has evidence level L5 — a TxGNN score alone, with zero supporting clinical trials or literature (confirmed by 3 separate source queries returning 0 results). Combined with a Blocking data gap on TFDA/NPRA warnings and contraindications, the candidate cannot yet enter safety pre-screening (S1).
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert warnings and contraindications (DG001, Blocking — required before any S1 safety review)
-- Verified mechanism of action data from DrugBank (DG002)
-- At minimum, preclinical or observational evidence linking hormonal modulation to migraine frequency before considering further clinical evaluation
-- Caution: re-screen the full 10-candidate prediction set for this drug — several entries appear to reflect risk-factor associations rather than therapeutic ones, and should not be advanced without independent mechanistic review
+## Maklumat Pasaran Malaysia
+
+Rekod NPRA mengesahkan cyproterone acetate memegang **4 kebenaran dipasarkan** di Malaysia (status: Dipasarkan/Dipasarkan). Nombor kebenaran terperinci, nama produk, bentuk dos, dan teks indikasi yang diluluskan tidak tersedia dalam set data semasa.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk surat risalah produk untuk maklumat keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Calon ini mempunyai aras bukti L5 — skor TxGNN sahaja, tanpa sebarang ujian klinikal atau kesusasteraan yang menyokong (disahkan oleh 3 pertanyaan sumber berasingan yang mengembalikan 0 hasil). Digabungkan dengan jurang data Menghalang pada amaran TFDA/NPRA dan kontraindikasi, calon tidak boleh lagi memasuki pra-penyaringan keselamatan (S1).
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Amaran pakej risalah TFDA/NPRA dan kontraindikasi (DG001, Menghalang — diperlukan sebelum sebarang ulasan keselamatan S1)
+- Data mekanisme tindakan yang disahkan daripada DrugBank (DG002)
+- Minimum, bukti prakliniken atau pemerhatian yang menghubungkan modulasi hormonal kepada frekuensi migrain sebelum mempertimbangkan penilaian klinikal lanjutan
+- Berhati-hati: penyaringan semula set ramalan 10 calon lengkap untuk ubat ini — beberapa entri nampaknya mencerminkan persatuan faktor risiko dan bukannya rawatan, dan tidak seharusnya dimajukan tanpa ulasan mekanistik bebas
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

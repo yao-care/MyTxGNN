@@ -29,83 +29,84 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Venetoclax: From Chronic Lymphocytic Leukemia to Pregerminal-Center Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma
+# Venetoclax: Daripada Chronic Lymphocytic Leukemia kepada Pregerminal-Center Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Venetoclax is a selective BCL-2 inhibitor originally used to treat chronic lymphocytic leukemia (CLL) and small lymphocytic lymphoma (SLL). The TxGNN model predicts it may also be effective specifically for **pregerminal-center (IGHV-unmutated) CLL/SLL**, a poorer-prognosis molecular subtype of the same disease, with a prediction score of **99.55%**, but currently only **1 tangential publication** and **no dedicated clinical trials** directly support this specific subtype-level claim.
+Venetoclax adalah penghambat BCL-2 selektif yang asalnya digunakan untuk merawat chronic lymphocytic leukemia (CLL) dan small lymphocytic lymphoma (SLL). Model TxGNN meramalkan ia mungkin juga berkesan khususnya untuk **pregerminal-center (IGHV-unmutated) CLL/SLL**, subtipe molekul daripada penyakit yang sama dengan prognosis lebih teruk, dengan skor ramalan sebesar **99.55%**, namun pada masa ini hanya **1 penerbitan bersinggung** dan **tiada percubaan klinikal berdedikasi** yang secara langsung menyokong tuntutan subtipe peringkat ini.
 
 ---
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
+| Perkara | Kandungan |
 |------|------|
-| Original Indication | Chronic lymphocytic leukemia (CLL) / small lymphocytic lymphoma (SLL) — local approved-indication text not available in this evidence pack |
-| Predicted New Indication | Pregerminal-center chronic lymphocytic leukemia/small lymphocytic lymphoma |
-| TxGNN Prediction Score | 99.55% |
-| Evidence Level | L4 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
-| Recommended Decision | Hold |
+| Indikasi Asal | Chronic lymphocytic leukemia (CLL) / small lymphocytic lymphoma (SLL) — teks indikasi yang diluluskan secara tempatan tidak tersedia dalam pakej bukti ini |
+| Indikasi Baru yang Diramalkan | Pregerminal-center chronic lymphocytic leukemia/small lymphocytic lymphoma |
+| Skor Ramalan TxGNN | 99.55% |
+| Tahap Bukti | L4 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 3 |
+| Keputusan yang Dicadangkan | Tahan |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data is not available in this evidence pack (flagged as a High-severity data gap). Based on well-established public information, venetoclax is a first-in-class, orally bioavailable, selective BCL-2 (B-cell lymphoma 2) inhibitor. It restores the normal apoptotic pathway in malignant B cells that overexpress BCL-2 to evade programmed cell death, and it has proven efficacy in CLL/SLL and, in combination regimens, in acute myeloid leukemia.
+Pada masa ini, data mekanisme aksi terperinci tidak tersedia dalam pakej bukti ini (ditandai sebagai jurang data keseteraan tinggi). Berdasarkan maklumat awam yang telah terbukti, venetoclax adalah penghambat BCL-2 (B-cell lymphoma 2) selektif pertama-jenis yang boleh diambil secara oral dengan biodisponibilitas tinggi. Ia memulihkan laluan apoptosis normal dalam sel-sel B ganas yang mengekspresi BCL-2 secara berlebihan untuk mengelak kematian sel yang diprogramkan, dan ia telah terbukti berkesan dalam CLL/SLL serta, dalam rejimen gabungan, dalam acute myeloid leukemia.
 
-The predicted new indication — "pregerminal-center CLL/SLL" — is not a distinct disease but a molecularly defined subtype of CLL/SLL, characterized by unmutated immunoglobulin heavy-chain variable region genes (U-IGHV) and a pre-germinal-center cell of origin, which is associated with a more aggressive clinical course than the mutated (M-CLL) subtype. Because venetoclax's mechanism (BCL-2 dependency blockade) is not IGHV-status-specific, it is mechanistically plausible that its activity extends across CLL/SLL molecular subtypes, including this one.
+Indikasi baru yang diramalkan — "pregerminal-center CLL/SLL" — bukanlah penyakit tersendiri tetapi subtipe yang ditakrifkan secara molekul daripada CLL/SLL, dicirikan oleh gen pembolehubah rantai berat immunoglobulin yang tidak bermutasi (U-IGHV) dan sel asal pra-pusat germinal, yang dikaitkan dengan perjalanan klinikal lebih agresif berbanding subtipe bermutasi (M-CLL). Kerana mekanisme venetoclax (penghambatan kebergantungan BCL-2) tidak khusus untuk status IGHV, adalah munasabah secara mekanistik bahawa aktivitinya meluas merentas subtipe molekul CLL/SLL, termasuk subtipe ini.
 
-However, "mechanistic plausibility because it's the same underlying disease" is a weak form of repurposing evidence — this is closer to a label-granularity nuance than a genuine new indication. The only literature returned discusses B-cell receptor biology and CLL subtype classification in general, without directly studying venetoclax efficacy in this subgroup, and no clinical trials specific to this subtype were identified in the current search.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+Walau bagaimanapun, "ketersediaan mekanistik kerana ia adalah penyakit asas yang sama" adalah bentuk bukti repurposing yang lemah — ini lebih hampir kepada nuansa granulariti label daripada indikasi baru yang tulen. Satu-satunya literatur yang dikembalikan membincangkan biologi reseptor sel-B tumor (BCR) dan pengelasan subtipe CLL secara amnya, tanpa secara langsung mengkaji keberkesanan venetoclax dalam subkumpulan ini, dan tiada percubaan klinikal khusus untuk subtipe ini telah dikenal pasti dalam carian semasa.
 
 ---
 
-## Literature Evidence
+## Bukti Percubaan Klinikal
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [35158929](https://pubmed.ncbi.nlm.nih.gov/35158929/) | 2022 | Review | Cancers | Reviews the biology of the tumor B-cell receptor (BCR) in CLL, including the distinction between pre-germinal-center (unmutated IGHV, poor prognosis) and post-germinal-center (mutated IGHV, good prognosis) subsets; provides mechanistic/classification background but does not directly study venetoclax in this subgroup. |
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ---
 
-## Cytotoxicity
+## Bukti Literatur
 
-| Item | Content |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|------|------|------|---------|
+| [35158929](https://pubmed.ncbi.nlm.nih.gov/35158929/) | 2022 | Ulasan | Cancers | Mengulas biologi reseptor sel-B tumor (BCR) dalam CLL, termasuk pembezaan antara subset pra-pusat germinal (IGHV tidak bermutasi, prognosis buruk) dan subset pasca-pusat germinal (IGHV bermutasi, prognosis baik); memberikan latar belakang mekanistik dan pengelasan tetapi tidak secara langsung mengkaji keberkesanan venetoclax dalam subkumpulan ini. |
+
+---
+
+## Sitotoksisiti
+
+| Perkara | Kandungan |
 |------|------|
-| Cytotoxicity Classification | Targeted therapy (selective BCL-2 inhibitor) |
-| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
-| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | Please refer to the package insert warnings and precautions |
-| Handling Protection | Please refer to the package insert warnings and precautions |
+| Pengelasan Sitotoksisiti | Terapi tersasaran (penghambat BCL-2 selektif) |
+| Risiko Supresi Sumsum Tulang | Sila rujuk amaran dan langkah pencegahan dalam leaflet ubat |
+| Pengelasan Emetogenisiti | Sila rujuk amaran dan langkah pencegahan dalam leaflet ubat |
+| Item Pemantauan | Sila rujuk amaran dan langkah pencegahan dalam leaflet ubat |
+| Perlindungan Pengendalian | Sila rujuk amaran dan langkah pencegahan dalam leaflet ubat |
 
 ---
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk leaflet ubat untuk maklumat keselamatan.
 
 ---
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The predicted indication is a molecular subtype of venetoclax's own original disease area rather than a genuinely new therapeutic area, yet it currently has zero dedicated clinical trials and only one indirectly relevant publication — evidence is too thin to support an active repurposing decision at this time.
+**Alasan:**
+Indikasi yang diramalkan adalah subtipe molekul daripada kawasan penyakit asal venetoclax sendiri daripada kawasan terapeutik yang benar-benar baru, namun pada masa ini ia tidak mempunyai percubaan klinikal berdedikasi dan hanya satu penerbitan yang tidak berkaitan secara langsung — bukti terlalu tipis untuk menyokong keputusan repurposing yang aktif pada masa ini.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert warnings and contraindications (currently a Blocking data gap; required before any S1 safety screening)
-- Confirmed mechanism-of-action documentation (currently a High-severity data gap)
-- Subtype-specific (IGHV-mutation-status-stratified) efficacy data for venetoclax in CLL/SLL, if it exists in registry or subgroup-analysis form
-- Drug-drug interaction data (current DDI query returned no results)
-- Consider prioritizing evaluation of other candidates in this same evidence pack with materially stronger evidence bases — e.g., follicular lymphoma (L2, multiple completed Phase 1/2 combination trials) and myeloid leukemia/Hodgkin lymphoma (50 trials and 20 publications each) — over this subtype-level candidate
+**Untuk meneruskan, yang berikut diperlukan:**
+- Amaran leaflet ubat TFDA/NPRA dan kontraindikasi (pada masa ini jurang data penghalang; diperlukan sebelum mana-mana pengesahan keselamatan S1)
+- Dokumentasi mekanisme aksi yang disahkan (pada masa ini jurang data keseteraan tinggi)
+- Data keberkesanan khusus subtipe (berstrata menurut status mutasi IGHV) untuk venetoclax dalam CLL/SLL, jika ia wujud dalam bentuk pendaftaran atau analisis subkumpulan
+- Data interaksi ubat-ubatan (soalan DDI semasa tidak mengembalikan hasil)
+- Pertimbangkan untuk mengutamakan penilaian calon lain dalam pakej bukti yang sama dengan asas bukti yang lebih kuat secara material — contohnya, follicular lymphoma (L2, pelbagai percubaan gabungan Fasa 1/2 yang selesai) dan myeloid leukemia/Hodgkin lymphoma (50 percubaan dan 20 penerbitan masing-masing) — berbanding calon subtipe ini
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

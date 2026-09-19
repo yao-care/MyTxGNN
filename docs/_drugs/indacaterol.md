@@ -29,60 +29,61 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Indacaterol: From COPD to Nephrogenic Syndrome of Inappropriate Antidiuresis
+# Indacaterol: Daripada COPD ke Sindrom Ketidaksesuaian Antidiuresis Nephrogenic
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Indacaterol is a long-acting β2-adrenergic receptor agonist (LABA) originally used for chronic obstructive pulmonary disease. The TxGNN model predicts it may be effective for **Nephrogenic Syndrome of Inappropriate Antidiuresis (NSIAD)**, but this direction currently has **0 clinical trials** and **0 publications** supporting it, and no plausible receptor-level mechanism has been identified.
+Indacaterol ialah agonis reseptor β2-adrenergik jangka panjang (LABA) yang asalnya digunakan untuk penyakit paru obstruktif kronik (COPD). Model TxGNN meramalkan ia mungkin berkesan untuk **Sindrom Ketidaksesuaian Antidiuresis Nephrogenic (NSIAD)**, tetapi arah ini pada masa kini mempunyai **0 percubaan klinikal** dan **0 penerbitan** yang menyokongnya, dan tiada mekanisme peringkat reseptor yang munasabah telah dikenal pasti.
 
-## Quick Overview
+## Gambaran Keseluruhan Cepat
 
-| Item | Content |
-|------|------|
-| Original Indication | Chronic Obstructive Pulmonary Disease (COPD) — inferred from known drug class (LABA); formal TFDA/NPRA approved-indication text is a data gap |
-| Predicted New Indication | Nephrogenic Syndrome of Inappropriate Antidiuresis |
-| TxGNN Prediction Score | 99.54% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 6 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Penyakit Paru Obstruktif Kronik (COPD) — yang disimpulkan daripada kelas ubat yang diketahui (LABA); teks petunjuk yang diluluskan rasmi TFDA/NPRA ialah jurang data |
+| Petunjuk Baru yang Diramalkan | Sindrom Ketidaksesuaian Antidiuresis Nephrogenic |
+| Skor Ramalan TxGNN | 99.54% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 6 |
+| Keputusan yang Disyorkan | Tangguhkan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data is not available. Based on known information, indacaterol is a long-acting β2-adrenergic receptor agonist (LABA); its efficacy in COPD (and, in combination products, asthma) is well established, acting by stimulating β2-receptors on bronchial smooth muscle to produce bronchodilation.
+Pada masa kini, data mekanisme tindakan terperinci tidak tersedia. Berdasarkan maklumat yang diketahui, indacaterol ialah agonis reseptor β2-adrenergik jangka panjang (LABA); keberhasilannya dalam COPD (dan, dalam produk gabungan, asma) telah ditetapkan dengan baik, bertindak dengan merangsang reseptor β2 pada otot licin bronkial untuk menghasilkan bronkodilatasi.
 
-Nephrogenic Syndrome of Inappropriate Antidiuresis is caused by a gain-of-function mutation in the vasopressin V2 receptor, a pathway with no known crosstalk to β2-adrenergic signaling. The evidence pack's own mechanistic review states there is "no known interaction pathway" and "no mechanistic plausibility" between indacaterol's target and this disease.
+Sindrom Ketidaksesuaian Antidiuresis Nephrogenic disebabkan oleh mutasi penambahan-fungsi dalam reseptor vasopresin V2, satu laluan dengan tiada interaksi silang yang diketahui dengan isyarat adrenergik β2. Ulasan mekanistik daripada pakej bukti sendiri menyatakan terdapat "tiada laluan interaksi yang diketahui" dan "tiada kebolehpercayaan mekanistik" antara sasaran indacaterol dan penyakit ini.
 
-In other words, this candidate is driven purely by the TxGNN model's score (99.54%, network rank 6872) without any supporting biological rationale, clinical trial, or literature. Within the same evidence pack, a lower-ranked candidate for this drug — bronchial disease — actually has strong clinical support (L1, 37 trials, 20 publications), but that mainly re-discovers indacaterol's already-known indication rather than representing new repurposing value; it is not part of this report's designated candidate.
+Dengan kata lain, calon ini didorong semata-mata oleh skor model TxGNN (99.54%, pangkat rangkaian 6872) tanpa sebarang alasan biologi yang menyokong, percubaan klinikal, atau literatur. Dalam pakej bukti yang sama, calon pangkat yang lebih rendah untuk ubat ini — penyakit bronkial — sebenarnya mempunyai sokongan klinikal yang kuat (L1, 37 percubaan, 20 penerbitan), tetapi itu terutamanya menemui semula petunjuk indacaterol yang sudah diketahui daripada mewakili nilai penggunaan semula ubat yang baru; ia bukan sebahagian daripada calon yang ditetapkan dalam laporan ini.
 
-## Clinical Trial Evidence
+## Bukti Percubaan Klinikal
 
-Currently no related clinical trials registered
+Pada masa kini tiada percubaan klinikal yang berkaitan didaftarkan
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no related literature available
+Pada masa kini tiada literatur yang berkaitan tersedia
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Malaysia has 6 active drug registrations for indacaterol (market status: Marketed). Per-registration details (authorization number, product name, dosage form, approved indication text) are not available in the current data extract.
+Malaysia mempunyai 6 pendaftaran ubat aktif untuk indacaterol (status pasaran: Dipasarkan). Butiran setiap pendaftaran (nombor kebenaran, nama produk, bentuk dos, teks petunjuk yang diluluskan) tidak tersedia dalam ekstrak data semasa.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisipan ubat untuk maklumat keselamatan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tangguhkan**
 
-**Rationale:**
-There is no clinical or literature evidence for indacaterol in NSIAD, and no plausible mechanistic link exists between β2-adrenergic receptor agonism and the V2-receptor-driven pathology of this syndrome. The prediction rests solely on the TxGNN model score (L5).
+**Rasional:**
+Tiada bukti klinikal atau literatur untuk indacaterol dalam NSIAD, dan tiada pautan mekanistik yang munasabah wujud antara agonis reseptor adrenergik β2 dan patologi yang didorong oleh reseptor V2 bagi sindrom ini. Ramalan itu hanya bergantung pada skor model TxGNN (L5).
 
-**To proceed, the following is needed:**
-- Confirmed mechanism of action (MOA) data for indacaterol
-- TFDA/NPRA approved-indication text and full license detail for the 6 Malaysia registrations
-- Preclinical/in vitro pharmacology evidence exploring any indirect link between β2-adrenergic signaling and AVP/V2 receptor regulation
-- Package insert safety data (key warnings, contraindications, DDI), currently unavailable
+**Untuk meneruskan, yang berikut diperlukan:**
+- Data mekanisme tindakan (MOA) yang disahkan untuk indacaterol
+- Teks petunjuk yang diluluskan TFDA/NPRA dan butiran lesen lengkap untuk 6 pendaftaran Malaysia
+- Bukti farmakologi pra-klinikal/in vitro yang meneroka sebarang pautan tidak langsung antara isyarat adrenergik β2 dan regulasi reseptor AVP/V2
+- Data keselamatan sisipan ubat (amaran utama, kontraindikasi, DDI), pada masa kini tidak tersedia
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,95 +29,96 @@ Tahap bukti: **L3** | Indikasi diramal: **10**
 
 </div>
 
-# Imiquimod: From External Genital Warts / Actinic Keratosis to Pre-malignant Neoplasm
+# Imiquimod: Daripada Kutil Kelamin Luar / Keratosis Aktinik kepada Neoplasma Pra-ganas
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Imiquimod is a topical Toll-like receptor 7 (TLR7) agonist / immune response modifier, internationally approved for conditions such as external genital warts, actinic keratosis and superficial basal cell carcinoma (the specific Malaysia label text is currently a data gap). The TxGNN model predicts it may be effective for **Pre-malignant Neoplasm**, with **19 clinical trials** and **9 publications** currently supporting this direction — though a blocking safety data gap means this cannot yet proceed past initial screening.
+Imiquimod adalah agonis reseptor Toll-like 7 (TLR7) topikal / pengubah respons imun, yang diluluskan secara antarabangsa untuk keadaan seperti kutil kelamin luar, keratosis aktinik dan karsinoma sel basal superfisial (teks label khusus Malaysia pada masa ini adalah jurang data). Model TxGNN meramalkan ia mungkin berkesan untuk **Neoplasma Pra-ganas**, dengan **19 ujian klinikal** dan **9 penerbitan** pada masa ini menyokong arahan ini — walaupun jurang data keselamatan yang menghalang bermakna ini tidak dapat lagi meneruskan melepasi saringan awal.
 
 ---
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
+| Perkara | Kandungan |
 |------|------|
-| Original Indication | Not available in the current Malaysia (NPRA) regulatory data pull (Data Gap DG001); internationally, imiquimod is approved for external genital warts, actinic keratosis and superficial basal cell carcinoma |
-| Predicted New Indication | Pre-malignant Neoplasm |
-| TxGNN Prediction Score | 99.92% |
-| Evidence Level | L3 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 2 |
-| Recommended Decision | Hold |
+| Indikasi Asal | Tidak tersedia dalam kumpulan data kawal selia NPRA Malaysia semasa (Jurang Data DG001); secara antarabangsa, imiquimod diluluskan untuk kutil kelamin luar, keratosis aktinik dan karsinoma sel basal superfisial |
+| Indikasi Baru Yang Diramalkan | Neoplasma Pra-ganas |
+| Skor Ramalan TxGNN | 99.92% |
+| Tahap Bukti | L3 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 2 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed formal mechanism-of-action documentation (e.g. from DrugBank) is currently a data gap (DG002). Based on the information available within this evidence pack, imiquimod is repeatedly characterized across the collected trial and literature evidence as a topical **TLR7 agonist / immune response modifier** — it activates local innate immunity (including interferon production) to drive destruction of abnormal epithelial and mucosal cells.
+Dokumentasi mekanisme tindakan formal yang terperinci (cth. daripada DrugBank) pada masa ini adalah jurang data (DG002). Berdasarkan maklumat yang tersedia dalam pek bukti ini, imiquimod secara berulang dicirikan merentasi bukti ujian dan kesusasteraan yang dikumpulkan sebagai agonis **reseptor Toll-like 7 (TLR7) topikal / pengubah respons imun** — ia mengaktifkan imuniti semula jadi setempat (termasuk pengeluaran interferon) untuk mendorong pemusnahan sel epitelium dan mukosa yang luar biasa.
 
-Imiquimod's approved uses already sit squarely in the "pre-malignant / early neoplastic epithelial lesion" space (actinic keratosis, superficial basal cell carcinoma, HPV-related genital warts). The predicted new indication — pre-malignant neoplasm broadly — is therefore a natural extension of an existing therapeutic pattern rather than a mechanistic leap: the same local TLR7-driven immune activation that clears actinic keratoses and genital warts is mechanistically plausible against other premalignant epithelial/mucosal lesions such as cervical, vulvar, and lip (actinic cheilitis) intraepithelial neoplasia, all of which appear in the supporting trial evidence below.
+Kegunaan yang diluluskan oleh imiquimod sudah berada dalam ruang "lesi epitelium pra-ganas / pra-neoplastik awal" (keratosis aktinik, karsinoma sel basal superfisial, kutil genital berkaitan HPV). Indikasi baru yang diramalkan — neoplasma pra-ganas secara luas — oleh itu adalah lanjutan semula jadi bagi corak terapeutik yang sedia ada dan bukannya lompatan mekanistik: aktivasi imun TLR7 topikal yang sama yang menjelaskan keratosis aktinik dan kutil genital adalah munasabah secara mekanistik terhadap lesi epitelium/mukosa pra-ganas yang lain seperti neoplasia intraepitelium serviks, vulva, dan bibir (keratosis aktinik bibir), semuanya muncul dalam bukti ujian sokongan di bawah.
 
-The main caveat is that most of the identified evidence targets specific, well-defined premalignant conditions (actinic keratosis, CIN, VIN, lentigo maligna, actinic cheilitis) rather than "pre-malignant neoplasm" as a general category — so the mechanistic plausibility is stronger than the literal breadth of the predicted label.
+Kaveat utama ialah kebanyakan bukti yang dikenal pasti menyasarkan keadaan pra-ganas yang spesifik dan terdefinisi dengan baik (keratosis aktinik, CIN, VIN, lentigo malignant, keratosis aktinik bibir) dan bukannya "neoplasma pra-ganas" sebagai kategori umum — jadi kelogikan mekanistik lebih kuat daripada keluasan literal ramalan berlabel.
 
 ---
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Ujian | Fasa | Status | Kemasukan | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT01720407](https://clinicaltrials.gov/study/NCT01720407) | Phase 3 | Completed | 259 | Imiquimod as neo-adjuvant treatment to reduce excision size/margins in Lentigo Malignant (a premalignant melanocytic lesion) of the face |
-| [NCT00175643](https://clinicaltrials.gov/study/NCT00175643) | Phase 3 | Completed | 20 | Open-label study of imiquimod 5% cream, 3 days/week, for actinic keratoses on the head |
-| [NCT01229319](https://clinicaltrials.gov/study/NCT01229319) | Phase 4 | Unknown | 20 | Imiquimod 3.75% cream after cryotherapy for hypertrophic actinic keratoses on hands/forearms |
-| [NCT03233412](https://clinicaltrials.gov/study/NCT03233412) | Phase 2 | Completed | 90 | RCT of topical imiquimod for high-grade cervical intraepithelial lesions (CIN) |
-| [NCT00941811](https://clinicaltrials.gov/study/NCT00941811) | Phase 2 | Completed | 5 | Imiquimod treatment of vulvar intraepithelial neoplasia 2/3 (VIN) and anogenital warts; immune escape mechanisms |
-| [NCT02329171](https://clinicaltrials.gov/study/NCT02329171) | Phase 3 | Terminated | 9 | Randomized controlled trial of topical imiquimod for high-grade cervical intraepithelial neoplasia (CIN 2-3) |
-| [NCT02242929](https://clinicaltrials.gov/study/NCT02242929) | Phase 3 | Unknown | 145 | Surgical excision vs. curettage + imiquimod for nodular basal cell carcinoma (non-inferiority RCT) |
-| [NCT04219358](https://clinicaltrials.gov/study/NCT04219358) | Phase 1 | Terminated | 49 | Topical imiquimod (multiple concentrations) for actinic cheilitis, a premalignant lip lesion |
-| [NCT04883645](https://clinicaltrials.gov/study/NCT04883645) | Early Phase 1 | Completed | 16 | Neoadjuvant TLR7 agonist (imiquimod/Aldara) immunotherapy in early-stage oral squamous cell carcinoma |
-| [NCT00142454](https://clinicaltrials.gov/study/NCT00142454) | Phase 1 | Completed | 9 | Imiquimod used as vaccine adjuvant in resected Stage IIB/IIC/III malignant melanoma |
+| [NCT01720407](https://clinicaltrials.gov/study/NCT01720407) | Fasa 3 | Selesai | 259 | Imiquimod sebagai rawatan neoadjuvan untuk mengurangkan saiz/margin eksisi dalam Lentigo Malignant (lesi melanositik pra-ganas) muka |
+| [NCT00175643](https://clinicaltrials.gov/study/NCT00175643) | Fasa 3 | Selesai | 20 | Kajian terbuka label imiquimod krim 5%, 3 hari/minggu, untuk keratosis aktinik di kepala |
+| [NCT01229319](https://clinicaltrials.gov/study/NCT01229319) | Fasa 4 | Tidak diketahui | 20 | Krim imiquimod 3.75% selepas kryoterapi untuk keratosis aktinik hipertrof di tangan/lengan bawah |
+| [NCT03233412](https://clinicaltrials.gov/study/NCT03233412) | Fasa 2 | Selesai | 90 | UKA imiquimod topikal untuk lesi serviks intraepitelium gred tinggi (CIN) |
+| [NCT00941811](https://clinicaltrials.gov/study/NCT00941811) | Fasa 2 | Selesai | 5 | Rawatan imiquimod neoplasia intraepitelium vulva 2/3 (VIN) dan kutil anogenital; mekanisme pelarian imun |
+| [NCT02329171](https://clinicaltrials.gov/study/NCT02329171) | Fasa 3 | Dihenti | 9 | Ujian kawalan rawak imiquimod topikal untuk neoplasia intraepitelium serviks gred tinggi (CIN 2-3) |
+| [NCT02242929](https://clinicaltrials.gov/study/NCT02242929) | Fasa 3 | Tidak diketahui | 145 | Eksisi bedah vs. kuretaj + imiquimod untuk karsinoma sel basal nodular (UKA bukan-inferioriti) |
+| [NCT04219358](https://clinicaltrials.gov/study/NCT04219358) | Fasa 1 | Dihenti | 49 | Imiquimod topikal (berbagai kepekatan) untuk keratosis aktinik bibir, lesi bibir pra-ganas |
+| [NCT04883645](https://clinicaltrials.gov/study/NCT04883645) | Fasa Awal 1 | Selesai | 16 | Imunoterapi neoadjuvan agonis TLR7 (imiquimod/Aldara) dalam karsinoma sel skuamosa oral peringkat awal |
+| [NCT00142454](https://clinicaltrials.gov/study/NCT00142454) | Fasa 1 | Selesai | 9 | Imiquimod digunakan sebagai ajuvan vaksin dalam melanoma ganas yang direseksi Peringkat IIB/IIC/III |
 
 ---
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [23235673](https://pubmed.ncbi.nlm.nih.gov/23235673/) | 2012 | Cochrane Systematic Review | Cochrane Database of Systematic Reviews | Interventions for anal canal intraepithelial neoplasia (AIN), a premalignant HPV-associated condition |
-| [21491403](https://pubmed.ncbi.nlm.nih.gov/21491403/) | 2011 | Cochrane Systematic Review | Cochrane Database of Systematic Reviews | Medical interventions, including imiquimod, for high-grade vulval intraepithelial neoplasia (VIN) |
-| [30284955](https://pubmed.ncbi.nlm.nih.gov/30284955/) | 2019 | Case report | Int J STD & AIDS | Successful treatment of high-grade VIN with imiquimod 5% in a renal transplant recipient |
-| [15601490](https://pubmed.ncbi.nlm.nih.gov/15601490/) | 2004 | Case report | Int J STD & AIDS | Bowenoid papulosis (premalignant) of the penis successfully treated with topical imiquimod 5% |
-| [20505896](https://pubmed.ncbi.nlm.nih.gov/20505896/) | 2010 | Review | Skin Therapy Letter | Current management of actinic keratoses, including topical field therapies such as imiquimod |
-| [15584683](https://pubmed.ncbi.nlm.nih.gov/15584683/) | 2004 | Review | Seminars in Cutaneous Medicine and Surgery | Topical treatment strategies (incl. imiquimod) for non-melanoma skin cancer and precursor lesions |
-| [26516853](https://pubmed.ncbi.nlm.nih.gov/26516853/) | 2015 | Review | Int J Molecular Sciences | Combined treatments with photodynamic therapy for non-melanoma skin cancer |
-| [29500135](https://pubmed.ncbi.nlm.nih.gov/29500135/) | 2018 | Preclinical (PK/PD) | Urologic Oncology | TLR7 agonists (used topically for premalignant skin lesions) evaluated for intravesical use in bladder cancer, rat model |
-| [18931984](https://pubmed.ncbi.nlm.nih.gov/18931984/) | 2008 | Case report | Der Hautarzt | OCT imaging of actinic porokeratosis; case with multiple premalignant lesions resistant to topical treatment |
+| [23235673](https://pubmed.ncbi.nlm.nih.gov/23235673/) | 2012 | Ulasan Cochrane Sistematik | Cochrane Database of Systematic Reviews | Campur tangan untuk neoplasia saluran anal intraepitelium (AIN), keadaan pra-ganas berkaitan HPV |
+| [21491403](https://pubmed.ncbi.nlm.nih.gov/21491403/) | 2011 | Ulasan Cochrane Sistematik | Cochrane Database of Systematic Reviews | Campur tangan perubatan, termasuk imiquimod, untuk neoplasia vulva intraepitelium gred tinggi (VIN) |
+| [30284955](https://pubmed.ncbi.nlm.nih.gov/30284955/) | 2019 | Laporan Kes | Int J STD & AIDS | Rawatan VIN gred tinggi yang berjaya dengan imiquimod 5% dalam penerima transplant buah pinggang |
+| [15601490](https://pubmed.ncbi.nlm.nih.gov/15601490/) | 2004 | Laporan Kes | Int J STD & AIDS | Papulosis bowenoid (pra-ganas) penis yang berjaya dirawat dengan imiquimod 5% topikal |
+| [20505896](https://pubmed.ncbi.nlm.nih.gov/20505896/) | 2010 | Ulasan | Skin Therapy Letter | Pengurusan semasa keratosis aktinik, termasuk terapi lapangan topikal seperti imiquimod |
+| [15584683](https://pubmed.ncbi.nlm.nih.gov/15584683/) | 2004 | Ulasan | Seminars in Cutaneous Medicine and Surgery | Strategi rawatan topikal (termasuk imiquimod) untuk kanser kulit bukan melanoma dan lesi pendahulu |
+| [26516853](https://pubmed.ncbi.nlm.nih.gov/26516853/) | 2015 | Ulasan | Int J Molecular Sciences | Rawatan gabungan dengan terapi fotodik untuk kanser kulit bukan melanoma |
+| [29500135](https://pubmed.ncbi.nlm.nih.gov/29500135/) | 2018 | Preklinik (PK/PD) | Urologic Oncology | Agonis TLR7 (digunakan topikal untuk lesi kulit pra-ganas) dinilai untuk penggunaan intravesikal dalam kanser pundi kencing, model tikus |
+| [18931984](https://pubmed.ncbi.nlm.nih.gov/18931984/) | 2008 | Laporan Kes | Der Hautarzt | Pengimejan OCT porokeratosis aktinik; kes dengan lesi pra-ganas berganda yang tahan terhadap rawatan topikal |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-The evidence pack confirms **2 registered Imiquimod products in Malaysia** (NPRA, market status: Marketed / Marketed), but individual license numbers, product names, dosage forms, manufacturers, and approved indication text were not populated in this data pull — this is captured under Data Gap **DG001** (Blocking), which also blocks the S1 safety initial review below.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information. No TFDA/NPRA warnings, contraindications, or drug interaction data are currently available in the evidence pack (Data Gap DG001, severity: Blocking).
+Pek bukti mengesahkan **2 produk Imiquimod berdaftar di Malaysia** (NPRA, status pasaran: Dipasarkan / Dipasarkan), tetapi nombor lesen individu, nama produk, bentuk dos, pengeluar, dan teks indikasi yang diluluskan tidak diisi dalam kumpulan data ini — ini ditangkap di bawah Jurang Data **DG001** (Menghalang), yang juga menghalang ulasan keselamatan S1 awal di bawah.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila rujuk sisipan paket untuk maklumat keselamatan. Tiada amaran TFDA/NPRA, kontraindikasi, atau data interaksi ubat pada masa ini tersedia dalam pek bukti (Jurang Data DG001, keterukan: Menghalang).
 
-**Rationale:**
-The top-ranked indication (pre-malignant neoplasm) is backed by a reasonable volume of mechanistically coherent evidence (19 trials including 2 completed/terminated Phase 3 studies, 2 Cochrane systematic reviews), but the drug-level safety data gap (DG001) is explicitly **Blocking** — per the evidence pack, it prevents entry into the S1 safety initial screening, so no repurposing decision can be finalized regardless of indication-level evidence strength.
+---
 
-**To proceed, the following is needed:**
-- Malaysia (NPRA) product label/insert — warnings, contraindications (DG001, Blocking)
-- Formal DrugBank mechanism-of-action record (DG002)
-- Individual Malaysia license details (license numbers, product names, dosage forms, approved indication text) for the 2 registered products
-- Confirmation of randomized-controlled-trial design/results for the key Phase 3 studies (NCT01720407, NCT02329171) to finalize the evidence-level grading
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Dasar:**
+Indikasi baris teratas (neoplasma pra-ganas) disokong oleh volum bukti yang munasabah dan koheren secara mekanistik (19 ujian termasuk 2 kajian Fasa 3 selesai/dihenti, 2 ulasan sistematik Cochrane), tetapi jurang data keselamatan peringkat ubat (DG001) adalah jelas **Menghalang** — menurut pek bukti, ia menghalang kemasukan ke saringan awal keselamatan S1, jadi tiada keputusan repurposing dapat dimuktamadkan tanpa mengira kekuatan bukti tahap indikasi.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Label produk Malaysia (NPRA) / sisipan — amaran, kontraindikasi (DG001, Menghalang)
+- Rekod mekanisme tindakan formal DrugBank (DG002)
+- Butiran lesen Malaysia individu (nombor lesen, nama produk, bentuk dos, teks indikasi yang diluluskan) untuk 2 produk berdaftar
+- Pengesahan reka bentuk ujian kawalan rawak/hasil untuk ujian Fasa 3 utama (NCT01720407, NCT02329171) untuk memuktamadkan penarafan tahap bukti
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

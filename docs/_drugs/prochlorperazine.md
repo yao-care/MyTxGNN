@@ -29,87 +29,86 @@ Tahap bukti: **L2** | Indikasi diramal: **10**
 
 </div>
 
-# Prochlorperazine: From Antiemetic Use to Schizophrenia
+# Proklorperazin: Dari Penggunaan Antiemetik Hingga Skizofrenia
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-> Prochlorperazine is a phenothiazine-class drug historically used as an antiemetic (nausea/vomiting) and antipsychotic agent. The TxGNN model predicts it may be effective for **Schizophrenia**, with **1 clinical trial** (low direct relevance) and **18 publications** — mostly historical studies from the 1950s–1970s — currently supporting this direction.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not available from NPRA license text in this evidence pack (all `approved_indication_text` fields are blank); literature background describes prochlorperazine as "usually used to treat nausea, vomiting and schizophrenia" (PMID 29442053) |
-| Predicted New Indication | Schizophrenia |
-| TxGNN Prediction Score | 99.9992% (rank 43) |
-| Evidence Level | L2 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 6 |
-| Recommended Decision | Proceed with Guardrails |
+> Proklorperazin ialah ubat kelas fenotiazin yang secara sejarah digunakan sebagai agen antiemetik (mual/muntah) dan antipsikotik. Model TxGNN meramalkan ia mungkin berkesan untuk **Skizofrenia**, dengan **1 percubaan klinikal** (relevansi langsung rendah) dan **18 penerbitan** — kebanyakannya kajian sejarah dari tahun 1950an–1970an — kini menyokong arah ini.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Cepat
 
-Currently, detailed mechanism of action data (DrugBank MOA) is not available for prochlorperazine in this evidence pack. Based on known pharmacology, prochlorperazine is a **phenothiazine-class** drug, sharing its chemical family with chlorpromazine, butaperazine, and other classic antipsychotics. Phenothiazines act primarily as central **dopamine D2 receptor antagonists**, which is the pharmacological basis of antipsychotic activity. One mechanistic study in this evidence pack (PMID 23954492) further shows that prochlorperazine acts as a potent allosteric modulator of the human P2X7 receptor, a channel implicated in cytokine regulation and the pathophysiology of schizophrenia.
-
-Notably, several older publications in the evidence pack (e.g., PMID 13785665, 1961; PMID 4396306, 1970; PMID 14278880, 1965; PMID 13878438, 1962) describe prochlorperazine already being used and comparatively tested for schizophrenia decades ago. This means the TxGNN "prediction" here largely reconfirms a historically documented use rather than identifying an entirely novel indication — the evidence gap is less about biological plausibility and more about the lack of modern, well-designed trials.
-
-Given the direct mechanistic link (D2 antagonism → antipsychotic effect) and the historical clinical precedent, the prediction is mechanistically reasonable, but the supporting evidence is dated and of limited methodological rigor by current standards.
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Tidak tersedia daripada teks lesen NPRA dalam pakej bukti ini (semua medan `approved_indication_text` adalah kosong); latar belakang literatur menerangkan proklorperazin sebagai "biasanya digunakan untuk merawat mual, muntah dan skizofrenia" (PMID 29442053) |
+| Petunjuk Baharu yang Diramalkan | Skizofrenia |
+| Skor Ramalan TxGNN | 99.9992% (kedudukan 43) |
+| Tahap Bukti | L2 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 6 |
+| Keputusan yang Disyorkan | Teruskan dengan Penjaga |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Pada masa ini, data mekanisme tindakan terperinci (MOA DrugBank) tidak tersedia untuk proklorperazin dalam pakej bukti ini. Berdasarkan farmakologi yang diketahui, proklorperazin ialah ubat **kelas fenotiazin**, berkongsi keluarga kimianya dengan klorpromazin, butaperazin, dan antipsikotik klasik lain. Fenotiazin bertindak terutamanya sebagai **antagonis reseptor dopamin D2 sentral**, yang merupakan asas farmakologi aktiviti antipsikotik. Satu kajian mekanistik dalam pakej bukti ini (PMID 23954492) seterusnya menunjukkan bahawa proklorperazin bertindak sebagai modulator alosterik yang kuat bagi reseptor P2X7 manusia, saluran yang terlibat dalam pengaturan sitokin dan patofisiologi skizofrenia.
+
+Sesuatu yang ketara, beberapa penerbitan lebih lama dalam pakej bukti ini (cth., PMID 13785665, 1961; PMID 4396306, 1970; PMID 14278880, 1965; PMID 13878438, 1962) menerangkan proklorperazin sudah digunakan dan diuji secara perbandingan untuk skizofrenia beberapa dekad yang lalu. Ini bermaksud "ramalan" TxGNN di sini sebahagian besarnya mengesahkan semula penggunaan yang didokumentasikan secara sejarah dan bukannya mengenal pasti petunjuk yang benar-benar baru — jurang bukti kurang tentang kebolehpercayaan biologi dan lebih tentang kekurangan percubaan yang dirancang dengan baik pada masa moden. Memandangkan pautan mekanistik langsung (antagonisme D2 → kesan antipsikotik) dan prasedan klinikal sejarah, ramalan itu munasabah dari segi mekanistik, tetapi bukti sokongan sudah ketinggalan zaman dan mempunyai ketegaran metodologi terhad mengikut piawaian semasa.
+
+---
+
+## Bukti Percubaan Klinikal
+
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT02600741](https://clinicaltrials.gov/study/NCT02600741) | N/A | Completed | 296 | Evaluated caregiver psycho-education and skills training for patients with schizophrenia, schizoaffective, or schizophreniform disorder receiving paliperidone palmitate or oral antipsychotics. Does not directly test prochlorperazine efficacy — graded **low relevance (C)** by evidence review. |
+| [NCT02600741](https://clinicaltrials.gov/study/NCT02600741) | N/A | Selesai | 296 | Menilai pendidikan psiko dan latihan kemahiran untuk pesakit dengan skizofrenia, gangguan skizoafektif, atau gangguan skizofreniforma yang menerima palmitat paliperidon atau antipsikotik oral. Tidak menguji keberkesanan proklorperazin secara langsung — dinilai **relevansi rendah (C)** oleh ulasan bukti. |
 
 ---
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [13785665](https://pubmed.ncbi.nlm.nih.gov/13785665/) | 1961 | RCT | The Journal of Mental Science | Double-blind trial comparing chlorpromazine, prochlorperazine (Compazine), and trifluoperazine in paranoid schizophrenia. |
-| [4396306](https://pubmed.ncbi.nlm.nih.gov/4396306/) | 1970 | RCT | L'union médicale du Canada | Comparative study of butaperazine vs. prochlorperazine in acute-phase schizophrenia. |
-| [14278880](https://pubmed.ncbi.nlm.nih.gov/14278880/) | 1965 | RCT | Canadian Psychiatric Association Journal | Comparative study of butaperazine vs. prochlorperazine in chronic schizophrenia. |
-| [13878438](https://pubmed.ncbi.nlm.nih.gov/13878438/) | 1962 | Clinical study | Journal of the Indian Medical Association | Reports on treatment of chronic schizophrenia with prochlorperazine. |
-| [13868819](https://pubmed.ncbi.nlm.nih.gov/13868819/) | 1962 | Cohort | Journal of the Indian Medical Association | Clinical observation of prochlorperazine use in chronic schizophrenia. |
-| [13664779](https://pubmed.ncbi.nlm.nih.gov/13664779/) | 1959 | Case report | Journal of Clinical and Experimental Psychopathology | Describes a synergistic effect of prochlorperazine and mepazine in two schizophrenia cases. |
-| [23954492](https://pubmed.ncbi.nlm.nih.gov/23954492/) | 2013 | Mechanistic | Neuropharmacology | Identifies prochlorperazine as a potent allosteric modulator of the human P2X7 receptor, linked to schizophrenia pathophysiology. |
-| [36165981](https://pubmed.ncbi.nlm.nih.gov/36165981/) | 2023 | Review | Journal of Applied Toxicology | Systematic review of phenothiazine derivatives' effects on autophagy, relevant to neuronal mechanisms in schizophrenia. |
-| [30159761](https://pubmed.ncbi.nlm.nih.gov/30159761/) | 2018 | In vitro | Daru (Tehran Univ. Medical Sciences) | Notes prochlorperazine is "widely used to treat schizophrenia"; studies its effect on melanocyte viability/melanogenesis (off-target). |
-| [29442053](https://pubmed.ncbi.nlm.nih.gov/29442053/) | 2017 | In vitro | Die Pharmazie | Background confirms prochlorperazine's clinical use for nausea, vomiting, and schizophrenia; studies its interaction with melanin (off-target). |
+| [13785665](https://pubmed.ncbi.nlm.nih.gov/13785665/) | 1961 | RCT | The Journal of Mental Science | Percubaan buta-dua membandingkan klorpromazin, proklorperazin (Compazine), dan trifluoperazin dalam skizofrenia paranoid. |
+| [4396306](https://pubmed.ncbi.nlm.nih.gov/4396306/) | 1970 | RCT | L'union médicale du Canada | Kajian perbandingan butaperazin vs. proklorperazin dalam skizofrenia fasa akut. |
+| [14278880](https://pubmed.ncbi.nlm.nih.gov/14278880/) | 1965 | RCT | Canadian Psychiatric Association Journal | Kajian perbandingan butaperazin vs. proklorperazin dalam skizofrenia kronik. |
+| [13878438](https://pubmed.ncbi.nlm.nih.gov/13878438/) | 1962 | Kajian klinikal | Journal of the Indian Medical Association | Laporan tentang rawatan skizofrenia kronik dengan proklorperazin. |
+| [13868819](https://pubmed.ncbi.nlm.nih.gov/13868819/) | 1962 | Kohort | Journal of the Indian Medical Association | Pemerhatian klinikal penggunaan proklorperazin dalam skizofrenia kronik. |
+| [13664779](https://pubmed.ncbi.nlm.nih.gov/13664779/) | 1959 | Laporan kes | Journal of Clinical and Experimental Psychopathology | Menerangkan kesan sinergistik proklorperazin dan mepazin dalam dua kes skizofrenia. |
+| [23954492](https://pubmed.ncbi.nlm.nih.gov/23954492/) | 2013 | Mekanistik | Neuropharmacology | Mengenal pasti proklorperazin sebagai modulator alosterik yang kuat bagi reseptor P2X7 manusia, berkaitan dengan patofisiologi skizofrenia. |
+| [36165981](https://pubmed.ncbi.nlm.nih.gov/36165981/) | 2023 | Ulasan | Journal of Applied Toxicology | Ulasan sistematik kesan terbitan fenotiazin pada autopagi, relevan dengan mekanisme neuron dalam skizofrenia. |
+| [30159761](https://pubmed.ncbi.nlm.nih.gov/30159761/) | 2018 | In vitro | Daru (Tehran Univ. Medical Sciences) | Nota proklorperazin "digunakan secara meluas untuk merawat skizofrenia"; mengkaji kesannya pada daya hidup melanosit/melanogenesis (di luar sasaran). |
+| [29442053](https://pubmed.ncbi.nlm.nih.gov/29442053/) | 2017 | In vitro | Die Pharmazie | Latar belakang mengesahkan penggunaan klinikal proklorperazin untuk mual, muntah, dan skizofrenia; mengkaji interaksinya dengan melanin (di luar sasaran). |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Prochlorperazine holds **6 active registrations** in Malaysia (NPRA), and market status is confirmed as marketed. However, detailed license numbers, product names, dosage forms, and approved-indication text have not yet been retrieved into this evidence pack — all corresponding fields are currently blank (tracked as data gap DG001, "Blocking" severity). A formal NPRA label review is required before this information can be tabulated.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information. (Key warnings, contraindications, and drug interaction data are not yet available in this evidence pack — see data gap DG001.)
+Proklorperazin memegang **6 pendaftaran aktif** di Malaysia (NPRA), dan status pasaran disahkan sebagai dipasarkan. Walau bagaimanapun, nombor lesen terperinci, nama produk, bentuk dos, dan teks petunjuk yang diluluskan belum diambil ke dalam pakej bukti ini — semua medan yang sepadan kini kosong (dijejak sebagai jurang data DG001, keterukan "Blocking"). Ulasan label NPRA formal diperlukan sebelum maklumat ini dapat dijadualkan.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Proceed with Guardrails**
+Sila rujuk sisipan pakej untuk maklumat keselamatan. (Data amaran utama, kontraindikasi, dan interaksi ubat belum tersedia dalam pakej bukti ini — lihat jurang data DG001.)
 
-**Rationale:**
-Multiple historical comparative trials and clinical observations (1959–1970) support prochlorperazine's use in schizophrenia, and its phenothiazine/D2-antagonist mechanism is directly consistent with antipsychotic activity — but this is effectively re-confirming an old, already-documented use rather than a novel repurposing signal, and the evidence base predates modern RCT standards. Critically, mandatory safety data (TFDA/NPRA label warnings and contraindications, DG001) is missing and is flagged as a **blocking** gap that prevents formal safety pre-assessment (S1).
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert (warnings, contraindications) — required before any safety pre-assessment can begin (DG001, Blocking)
-- DrugBank mechanism-of-action confirmation (DG002)
-- Malaysia license details (license numbers, product names, approved indication text) currently blank in registry records
-- Modern-era clinical evidence (post-1980s trials) to corroborate the historical findings, given the age and methodological limitations of the existing literature
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Teruskan dengan Penjaga**
+
+**Rasional:**
+Banyak percubaan perbandingan sejarah dan pemerhatian klinikal (1959–1970) menyokong penggunaan proklorperazin dalam skizofrenia, dan mekanisme fenotiazin/antagonis D2 secara langsung konsisten dengan aktiviti antipsikotik — tetapi ini berkuat kuasa mengesahkan semula penggunaan lama yang sudah didokumentasikan dan bukannya isyarat penyalahgunaan ubat baru, dan asas bukti mendahului piawaian RCT moden. Secara kritikal, data keselamatan wajib (amaran label TFDA/NPRA dan kontraindikasi, DG001) hilang dan ditandai sebagai jurang **menghalang** yang mencegah pra-penilaian keselamatan formal (S1).
+
+**Untuk teruskan, yang berikut diperlukan:**
+- Sisipan pakej TFDA/NPRA (amaran, kontraindikasi) — diperlukan sebelum mana-mana pra-penilaian keselamatan boleh bermula (DG001, Blocking)
+- Pengesahan mekanisme tindakan DrugBank (DG002)
+- Butir lesen Malaysia (nombor lesen, nama produk, teks petunjuk yang diluluskan) kini kosong dalam rekod daftar
+- Bukti klinikal era moden (percubaan selepas 1980an) untuk mengesahkan penemuan sejarah, memandangkan usia dan batasan metodologi literatur sedia ada
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

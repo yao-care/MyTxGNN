@@ -29,96 +29,95 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-Using no additional skill — this is a direct, fully-specified content-generation task; I'll follow the report prompt exactly.
+# Vitamin A: Daripada Kekurangan Vitamin A kepada Defisiensi Protrombin Bawaan
 
-# Vitamin A: From Vitamin A Deficiency to Congenital Prothrombin Deficiency
+## Ringkasan Satu Ayat
 
-## One-Sentence Summary
-
-> Vitamin A (retinol) is a fat-soluble vitamin whose established indication is prevention and treatment of vitamin A deficiency; specific approved-indication text from the registration database was not provided in this evidence pack.
-> The TxGNN model's top-ranked prediction suggests possible use in **Congenital Prothrombin Deficiency**, but this candidate is supported by **0 directly relevant clinical trials** and **0 literature citations**, and is very likely a knowledge-graph artifact rather than a genuine biological signal.
+> Vitamin A (retinol) ialah vitamin larut lemak dengan indikasi yang telah ditetapkan iaitu pencegahan dan rawatan kekurangan vitamin A; teks indikasi yang diluluskan secara spesifik daripada pangkalan data pendaftaran tidak disediakan dalam pakej bukti ini.
+> Ramalan yang berpangkat teratas oleh model TxGNN mencadangkan kemungkinan penggunaan dalam **Defisiensi Protrombin Bawaan**, tetapi calon ini disokong oleh **0 uji klinis secara langsung berkaitan** dan **0 petikan kesusasteraan**, dan sangat berkemungkinan merupakan artifak graf pengetahuan daripada isyarat biologi yang tulin.
 
 ---
 
-## Quick Overview
+## Gambaran Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | Not documented in this evidence pack (license/indication text fields were empty; drug is generically known for vitamin A deficiency) |
-| Predicted New Indication | Congenital Prothrombin Deficiency |
-| TxGNN Prediction Score | 99.97% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 166 |
-| Recommended Decision | Hold |
-
----
-
-## Why is This Prediction Reasonable?
-
-Currently, detailed mechanism of action data for Vitamin A is not available in this evidence pack (DrugBank MOA field flagged as a data gap). Based on established pharmacology, Vitamin A (retinol) and its active metabolite retinoic acid act through nuclear retinoid receptors (RAR/RXR) to regulate epithelial differentiation, vision, immune function, and cell proliferation.
-
-Congenital prothrombin deficiency, by contrast, is a coagulation disorder in which Factor II (prothrombin) activity is impaired. The γ-carboxylation step required to activate prothrombin is **Vitamin K–dependent**, not Vitamin A–dependent. There is no known overlap between retinoid signaling and the vitamin K–dependent coagulation cascade.
-
-Given this lack of mechanistic overlap, and the fact that none of the associated clinical trials in this evidence pack actually tested Vitamin A in this population, this prediction most likely reflects a **false-positive artifact** — probably arising from the proximity of generic "vitamin" nodes within the knowledge graph embedding space, rather than a genuine biological signal. This should be treated as a hypothesis-generating anomaly, not a repurposing lead.
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Tidak didokumenkan dalam pakej bukti ini (medan lesen/indikasi adalah kosong; ubat secara umum dikenali untuk kekurangan vitamin A) |
+| Indikasi Baru yang Diramalkan | Defisiensi Protrombin Bawaan |
+| Skor Ramalan TxGNN | 99.97% |
+| Tahap Bukti | L5 |
+| Keadaan Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 166 |
+| Keputusan yang Dicadangkan | Tahan |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Pada masa kini, data mekanisme tindakan terperinci untuk Vitamin A tidak tersedia dalam pakej bukti ini (medan MOA DrugBank ditandakan sebagai jurang data). Berdasarkan farmakologi yang telah ditegakkan, Vitamin A (retinol) dan metabolit aktifnya asid retinoik bertindak melalui reseptor retinoid nukleus (RAR/RXR) untuk mengawal pembezaan epitelial, penglihatan, fungsi imun, dan proliferasi sel.
+
+Defisiensi protrombin bawaan, sebaliknya, ialah gangguan pembekuan di mana aktiviti Faktor II (protrombin) terjejas. Langkah γ-karboksilasi yang diperlukan untuk mengaktifkan protrombin adalah **bergantung kepada Vitamin K**, bukan bergantung kepada Vitamin A. Tiada pertindihan yang diketahui antara isyarat retinoid dan lata pembekuan yang bergantung kepada vitamin K.
+
+Memandangkan kekurangan pertindihan mekanistik ini, dan fakta bahawa tiada satu pun uji klinis yang berkaitan dalam pakej bukti ini sebenarnya menguji Vitamin A dalam populasi ini, ramalan ini kemungkinan besar mencerminkan **artifak positif palsu** — mungkin timbul daripada kedekatannya nod "vitamin" generik dalam ruang terbenam graf pengetahuan, daripada isyarat biologi yang tulin. Ini harus dianggap sebagai anomali penjanaan hipotesis, bukan petunjuk pengguna semula.
+
+---
+
+## Bukti Uji Klinis
+
+| Nombor Uji | Fasa | Keadaan | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT03534752](https://clinicaltrials.gov/study/NCT03534752) | N/A | Completed | 220 | Descriptive retrospective study of adult inborn-errors-of-metabolism patients in Switzerland; not an interventional trial |
-| [NCT02392767](https://clinicaltrials.gov/study/NCT02392767) | N/A | Completed | 25 | Dietary supplement (L-arginine, Pycnogenol, vitamin K2, lipoic acid, B-vitamins) in hypertensive patients; unrelated to this disease |
-| [NCT04384341](https://clinicaltrials.gov/study/NCT04384341) | N/A | Recruiting | 480 | Haemophilia and bone loss study; unrelated to Vitamin A or prothrombin deficiency |
-| [NCT00168077](https://clinicaltrials.gov/study/NCT00168077) | Phase 3 | Completed | 40 | Tests BERIPLEX (a prothrombin complex concentrate), not Vitamin A, for reversal of oral-anticoagulant-induced coagulation factor deficiency |
-| [NCT00562783](https://clinicaltrials.gov/study/NCT00562783) | Phase 2 | Completed | 90 | "Vitalliver" product in decompensated cirrhosis; drug identity and relevance to Vitamin A unconfirmed |
+| [NCT03534752](https://clinicaltrials.gov/study/NCT03534752) | T/A | Selesai | 220 | Kajian retrospektif deskriptif pesakit metabolisme bawaan dewasa di Switzerland; bukan uji klinis intervensi |
+| [NCT02392767](https://clinicaltrials.gov/study/NCT02392767) | T/A | Selesai | 25 | Suplemen diet (L-arginin, Pycnogenol, vitamin K2, asid lipoik, vitamin-B) pada pesakit hipertensi; tidak berkaitan dengan penyakit ini |
+| [NCT04384341](https://clinicaltrials.gov/study/NCT04384341) | T/A | Merekrut | 480 | Kajian hemofilia dan kehilangan tulang; tidak berkaitan dengan Vitamin A atau defisiensi protrombin |
+| [NCT00168077](https://clinicaltrials.gov/study/NCT00168077) | Fasa 3 | Selesai | 40 | Menguji BERIPLEX (kepekatan kompleks protrombin), bukan Vitamin A, untuk pembalikan kekurangan faktor pembekuan yang teraruh antikoagulan oral |
+| [NCT00562783](https://clinicaltrials.gov/study/NCT00562783) | Fasa 2 | Selesai | 90 | Produk "Vitalliver" dalam sirosis terdekomposisi; identiti ubat dan kaitan dengan Vitamin A belum disahkan |
 
-**None of the above trials directly evaluate Vitamin A in patients with congenital prothrombin deficiency.**
-
----
-
-## Literature Evidence
-
-Currently no related literature available.
+**Tiada satu pun uji di atas secara langsung menilai Vitamin A pada pesakit dengan defisiensi protrombin bawaan.**
 
 ---
 
-## Malaysia Market Information
+## Bukti Kesusasteraan
 
-The evidence pack confirms Vitamin A is marketed with **166 total registrations**, but individual license records (license number, product name, dosage form, manufacturer, approved indication text) were returned empty and are not available for citation in this pack. This should be treated as a data gap requiring direct lookup against the source registry rather than an absence of market presence.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
+Pada masa kini tiada kesusasteraan yang berkaitan tersedia.
 
 ---
 
-## Conclusion and Next Steps
+## Maklumat Pasaran Malaysia
 
-**Decision: Hold**
-
-**Rationale:**
-The TxGNN score is very high (99.97%), but there is no mechanistic plausibility (Vitamin A acts via retinoid signaling; prothrombin activation is Vitamin K–dependent) and zero directly relevant clinical or literature evidence. This pattern is consistent with a model artifact rather than a true repurposing signal, matching the automated evidence-level rating of L5.
-
-**To proceed, the following is needed:**
-- Confirmation of whether this association is a genuine embedding artifact (e.g., via ablation or nearest-neighbor analysis of the "vitamin" node cluster in the knowledge graph)
-- DrugBank-sourced mechanism of action data for Vitamin A
-- TFDA/NPRA label data (key warnings, contraindications, approved indication text) currently missing from this pack
-- If pursued further, a search specifically for Vitamin A + coagulation factor synthesis literature to rule out an indirect mechanism
+Pakej bukti mengesahkan Vitamin A dipasarkan dengan **166 jumlah pendaftaran keseluruhan**, tetapi rekod lesen individu (nombor lesen, nama produk, bentuk dos, pengilang, teks indikasi yang diluluskan) dikembalikan kosong dan tidak tersedia untuk petikan dalam pakej ini. Ini harus dianggap sebagai jurang data yang memerlukan pencarian langsung terhadap daftar sumber daripada ketiadaan kehadiran pasaran.
 
 ---
 
-### Note: Other Predicted Indications in This Evidence Pack
+## Pertimbangan Keselamatan
 
-This evidence pack (`TW-UNKNOWN-multi`) contains 10 ranked TxGNN predictions for Vitamin A. For completeness, two are worth flagging separately from the headline candidate above:
+Sila rujuk risalah paket untuk maklumat keselamatan.
 
-- **Rank 3 – "Vitamin Deficiency Disorder" (L1, Proceed with Guardrails):** This is Vitamin A's **existing, already-approved indication**, not a novel repurposing candidate. It appears in the prediction list due to how the knowledge graph encodes the drug–disease relationship, and should be excluded from repurposing consideration.
-- **Rank 7 – "Perinatal Disease" (L2, Proceed with Guardrails):** This is the most scientifically credible candidate in the set. Vitamin A supplementation in very-low-birth-weight (VLBW) preterm infants to reduce bronchopulmonary dysplasia (BPD) risk is supported by **multiple Cochrane systematic reviews** (PMID 27552058, 21975731, 17943744, 12519545, 10796372). If a repurposing candidate from this pack merits a full evaluation report, this is the one recommended for follow-up — noting that "perinatal disease" as a category is broader than the specific VLBW/BPD population where evidence actually concentrates.
+---
 
-All remaining candidates (ranks 2, 4, 5, 6, 8, 9, 10) carry Evidence Level L3–L5 with weak-to-no direct supporting evidence and are recommended for **Hold** or **Research Question** status only.
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Skor TxGNN sangat tinggi (99.97%), tetapi tiada kebolehpercayaan mekanistik (Vitamin A bertindak melalui isyarat retinoid; pengaktifan protrombin adalah bergantung kepada Vitamin K) dan bukti klinis atau kesusasteraan yang relevan secara langsung sifar. Corak ini konsisten dengan artifak model daripada isyarat pengguna semula yang benar, sepadan dengan penarafan tahap bukti automatik L5.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Pengesahan sama ada persatuan ini ialah artifak terbenam yang tulin (cth, melalui ablasi atau analisis jiran terdekat nod "vitamin" dalam graf pengetahuan)
+- Data mekanisme tindakan yang bersumber DrugBank untuk Vitamin A
+- Data label TFDA/NPRA (amaran utama, kontraindikasi, teks indikasi yang diluluskan) kini hilang daripada pakej ini
+- Jika disusulan lebih lanjut, carian khusus untuk kesusasteraan Vitamin A + sintesis faktor pembekuan untuk menolak mekanisme tidak langsung
+
+---
+
+### Nota: Indikasi Lain yang Diramalkan dalam Pakej Bukti Ini
+
+Pakej bukti ini (`TW-UNKNOWN-multi`) mengandungi 10 ramalan TxGNN berpangkat untuk Vitamin A. Untuk kelengkapan, dua bernilai ditandakan secara berasingan daripada calon utama di atas:
+
+- **Pangkat 3 – "Gangguan Kekurangan Vitamin" (L1, Teruskan dengan Pengawal):** Ini ialah indikasi Vitamin A yang **sedia ada, sudah diluluskan**, bukan calon pengguna semula yang baru. Ia muncul dalam senarai ramalan kerana cara graf pengetahuan mengekod hubungan ubat–penyakit, dan harus dikecualikan daripada pertimbangan pengguna semula.
+- **Pangkat 7 – "Penyakit Perinatal" (L2, Teruskan dengan Pengawal):** Ini ialah calon yang paling kredibel dari segi saintifik dalam set ini. Suplemen Vitamin A pada bayi pra-tempoh berat lahir sangat rendah (VLBW) untuk mengurangkan risiko displatia bronkopulmonari (BPD) disokong oleh **pelbagai ulasan sistematik Cochrane** (PMID 27552058, 21975731, 17943744, 12519545, 10796372). Jika calon pengguna semula daripada pakej ini berhak mendapat laporan penilaian penuh, ini adalah yang disyorkan untuk susulan — dengan catatan bahawa "penyakit perinatal" sebagai kategori lebih luas daripada populasi VLBW/BPD khusus di mana bukti sebenarnya tertumpu.
+
+Semua calon baki (pangkat 2, 4, 5, 6, 8, 9, 10) membawa Tahap Bukti L3–L5 dengan bukti yang menyokong lemah hingga tiada dan disyorkan untuk status **Tahan** atau **Soalan Penyelidikan** sahaja.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

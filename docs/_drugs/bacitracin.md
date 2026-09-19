@@ -29,117 +29,118 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Bacitracin: From Superficial Bacterial Infections to Punctate Epithelial Keratoconjunctivitis
+# Bacitracin: Daripada Jangkitan Bakteria Permukaan hingga Keratitis Epithelial Punctate
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Bacitracin is a polypeptide antibiotic widely used as a topical agent for superficial bacterial infections of the skin and eyes.
-The TxGNN model predicts it may be effective for **Punctate Epithelial Keratoconjunctivitis**,
-with a prediction score of 99.999%; however, **no clinical trials** and **no publications** currently directly support this specific indication, though strong mechanistic reasoning exists based on its established ophthalmic use.
+Bacitracin ialah antibiotik polipeptida yang digunakan secara meluas sebagai agen topikal untuk jangkitan bakteria permukaan pada kulit dan mata.
+Model TxGNN meramalkan ia mungkin berkesan untuk **Keratitis Epithelial Punctate**,
+dengan skor ramalan 99.999%; bagaimanapun, **tiada percubaan klinikal** dan **tiada penerbitan** yang terdapat secara langsung menyokong petunjuk spesifik ini, walaupun penalaran mekanis yang kuat wujud berdasarkan penggunaannya yang telah ditubuhkan dalam oftalmologi.
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | Superficial bacterial infections (topical antibiotic — skin, eye, wound) |
-| Predicted New Indication | Punctate Epithelial Keratoconjunctivitis |
-| TxGNN Prediction Score | 99.999% |
-| Evidence Level | L4 — Mechanistic rationale based on existing ophthalmic use |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 27 |
-| Recommended Decision | Proceed with Guardrails |
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Jangkitan bakteria permukaan (antibiotik topikal — kulit, mata, luka) |
+| Petunjuk Baru yang Diramalkan | Keratitis Epithelial Punctate |
+| Skor Ramalan TxGNN | 99.999% |
+| Tahap Bukti | L4 — Nisbah mekanis berdasarkan penggunaan oftalmologi yang sedia ada |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 27 |
+| Keputusan yang Disyorkan | Teruskan dengan Penjaga |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Bacitracin is a cyclic polypeptide antibiotic produced by *Bacillus subtilis* and *Bacillus licheniformis*. It works by interfering with bacterial cell wall synthesis, specifically by inhibiting the dephosphorylation of the C55-isoprenyl pyrophosphate lipid carrier, which is essential for peptidoglycan synthesis. This gives it potent activity against Gram-positive bacteria including *Staphylococcus* and *Streptococcus* species. Due to its nephrotoxicity when given systemically, it is used almost exclusively as a topical agent — in ointments for skin infections, wound care, and ophthalmic preparations.
+Bacitracin ialah antibiotik polipeptida kitaran yang dihasilkan oleh *Bacillus subtilis* dan *Bacillus licheniformis*. Ia berfungsi dengan mengganggu sintesis dinding sel bakteria, khususnya dengan menghalang defosforilasi lipid pembawa isoprenyl C55-pirofospat, yang penting untuk sintesis peptidoglikan. Ini memberikannya aktiviti yang kuat terhadap bakteria Gram-positif termasuk spesies *Staphylococcus* dan *Streptococcus*. Disebabkan nefrotoksisitinya apabila diberikan secara sistemik, ia digunakan hampir sepenuhnya sebagai agen topikal — dalam salap untuk jangkitan kulit, penjagaan luka, dan persediaan oftalmologi.
 
-Punctate epithelial keratoconjunctivitis (PEK) is an inflammatory condition of the cornea and conjunctiva characterised by scattered punctate epithelial erosions. While PEK can arise from viral, allergic, or environmental causes, a significant subset is driven by bacterial infection — particularly *Staphylococcus aureus*, *Moraxella*, and other Gram-positive organisms. Bacitracin ophthalmic ointment is already approved and widely used for superficial bacterial eye infections, placing it in direct therapeutic proximity to bacterial PEK.
+Keratitis epithelial punctate (PEK) ialah keadaan inflamasi kornea dan konjunktiva yang dicirikan oleh hakisan epithelial punctate yang tersebar. Walaupun PEK boleh timbul daripada sebab-sebab viral, alergik, atau persekitaran, subset yang signifikan didorong oleh jangkitan bakteria — terutama *Staphylococcus aureus*, *Moraxella*, dan organisma Gram-positif lain. Salap oftalmologi bacitracin sudah diluluskan dan digunakan secara meluas untuk jangkitan mata bakteria permukaan, meletakkannya dalam kedekatan terapeutik langsung kepada PEK bakteria.
 
-The mechanistic link is straightforward: Bacitracin's antibacterial spectrum covers the common pathogens implicated in bacterial PEK, and the ointment vehicle provides an additional benefit of corneal surface lubrication and protection, which aids epithelial healing. This prediction essentially represents a clinical extension of Bacitracin's existing approved ophthalmic indication rather than a radical drug repurposing — strengthening the plausibility of the TxGNN model's prediction.
+Pautan mekanis adalah mudah: spektrum antibakteria bacitracin meliputi patogen umum yang terlibat dalam PEK bakteria, dan kenderaan salap memberikan manfaat tambahan pelinciran permukaan kornea dan perlindungan, yang membantu penyembuhan epithelial. Ramalan ini pada dasarnya mewakili lanjutan klinikal petunjuk oftalmologi bacitracin yang sudah diluluskan dan bukannya penggantian ubat radikal — memperkuat kredibiliti ramalan model TxGNN.
 
-## Clinical Trial Evidence
+## Bukti Percubaan Klinikal
 
-Currently no related clinical trials registered for the specific indication of punctate epithelial keratoconjunctivitis.
+Pada masa ini tiada percubaan klinikal yang berkaitan didaftarkan untuk petunjuk khusus keratitis epithelial punctate.
 
-> **Note:** Although no trials target this exact indication, Bacitracin ophthalmic ointment has a long history of clinical use in bacterial eye infections, and PEK with a bacterial aetiology falls within its established therapeutic scope.
+> **Nota:** Walaupun tiada percubaan yang menyasarkan petunjuk tepat ini, salap oftalmologi bacitracin mempunyai sejarah penggunaan klinikal yang panjang dalam jangkitan mata bakteria, dan PEK dengan etiologi bakteria berada dalam skop terapeutik yang telah ditubuhkan.
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-Currently no related literature available for the specific combination of Bacitracin and punctate epithelial keratoconjunctivitis.
+Pada masa ini tiada kesusasteraan yang berkaitan tersedia untuk kombinasi khusus bacitracin dan keratitis epithelial punctate.
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Bacitracin has **27 registered products** in Malaysia. Detailed registration information (authorization numbers, product names, dosage forms, and approved indications) was not available in the current data extraction. Bacitracin products are typically available as:
+Bacitracin mempunyai **27 produk berdaftar** di Malaysia. Maklumat pendaftaran terperinci (nombor kebenaran, nama produk, bentuk dos, dan petunjuk yang diluluskan) tidak tersedia dalam pengekstrakan data semasa. Produk bacitracin biasanya tersedia sebagai:
 
-- Topical ointments (skin)
-- Ophthalmic ointments (eye)
-- Combination products (e.g., with Polymyxin B, Neomycin)
+- Salap topikal (kulit)
+- Salap oftalmologi (mata)
+- Produk gabungan (cth., dengan Polymyxin B, Neomycin)
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisipan paket untuk maklumat keselamatan.
 
-> **Note:** Key warnings, contraindications, and drug interaction data are currently pending extraction from the NPRA database and product inserts. It is well-established that Bacitracin carries a risk of nephrotoxicity with systemic use, and topical application may rarely cause contact dermatitis or allergic reactions. Anaphylaxis has been reported in rare cases with topical Bacitracin.
+> **Nota:** Data amaran utama, kontradikasi, dan interaksi ubat semasa menunggu pengekstrakan daripada pangkalan data NPRA dan sisipan produk. Ia diketahui dengan baik bahawa bacitracin membawa risiko nefrotoksisiti dengan penggunaan sistemik, dan aplikasi topikal boleh jarang menyebabkan dermatitis sentuh atau tindak balas alergik. Anafilaksis telah dilaporkan dalam kes yang jarang dengan bacitracin topikal.
 
-## Other Predicted Indications of Interest
+## Petunjuk Lain yang Diramalkan yang Menarik
 
-Beyond the top-ranked prediction, the TxGNN model identified several other potential indications. The most noteworthy are summarised below:
+Selain daripada ramalan kedudukan atas, model TxGNN mengenal pasti beberapa petunjuk berpotensi lain. Yang paling ketara diringkaskan di bawah:
 
-### Rank 4: Otitis Externa (Evidence Level L3)
+### Kedudukan 4: Otitis Externa (Tahap Bukti L3)
 
-| Item | Detail |
-|------|--------|
-| TxGNN Score | 99.969% |
-| Recommendation | Proceed with Guardrails |
-| Rationale | Bacitracin (often combined with Polymyxin B) is already used clinically for bacterial otitis externa. Gram-positive coverage plus ointment vehicle make it suitable for ear canal infections. |
+| Item | Perincian |
+|------|-----------|
+| Skor TxGNN | 99.969% |
+| Cadangan | Teruskan dengan Penjaga |
+| Nisbah | Bacitracin (sering digabungkan dengan Polymyxin B) sudah digunakan secara klinikal untuk otitis externa bakteria. Liputan Gram-positif ditambah kenderaan salap menjadikannya sesuai untuk jangkitan saluran telinga. |
 
-**Literature supporting this indication:**
+**Kesusasteraan yang menyokong petunjuk ini:**
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [17503066](https://pubmed.ncbi.nlm.nih.gov/17503066/) | 2007 | Clinical Comparison | Eur Arch Otorhinolaryngol | 151-patient RCT comparing Polymyxin B + Bacitracin ointment alone vs. with hydrocortisone for acute otitis externa |
-| [14048629](https://pubmed.ncbi.nlm.nih.gov/14048629/) | 1963 | Clinical Study | Z Laryngol Rhinol Otol | Local treatment of inflammatory ear processes with Nebacetin (Bacitracin + Neomycin) |
-| [14055264](https://pubmed.ncbi.nlm.nih.gov/14055264/) | 1963 | Clinical Review | Md State Med J | Practical treatment of otitis externa |
-| [4306877](https://pubmed.ncbi.nlm.nih.gov/4306877/) | 1969 | Clinical Review | Z Arztl Fortbild | Use of antibiotics in otologic practice |
-| [165871](https://pubmed.ncbi.nlm.nih.gov/165871/) | 1975 | Clinical Study | Can Med Assoc J | Use of trimethoprim-sulfamethoxazole in external otitis |
-| [9820118](https://pubmed.ncbi.nlm.nih.gov/9820118/) | 1998 | In vitro / Veterinary | Zentralbl Veterinarmed B | Susceptibility of bacterial isolates from chronic otitis externa to antibiotics including Bacitracin |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-------|------|--------|----------------|
+| [17503066](https://pubmed.ncbi.nlm.nih.gov/17503066/) | 2007 | Perbandingan Klinikal | Eur Arch Otorhinolaryngol | RCT 151-pesakit membandingkan salap Polymyxin B + Bacitracin sahaja vs. dengan hidrokortison untuk otitis externa akut |
+| [14048629](https://pubmed.ncbi.nlm.nih.gov/14048629/) | 1963 | Kajian Klinikal | Z Laryngol Rhinol Otol | Rawatan tempatan proses telinga yang membangkang dengan Nebacetin (Bacitracin + Neomycin) |
+| [14055264](https://pubmed.ncbi.nlm.nih.gov/14055264/) | 1963 | Ulasan Klinikal | Md State Med J | Rawatan praktikal otitis externa |
+| [4306877](https://pubmed.ncbi.nlm.nih.gov/4306877/) | 1969 | Ulasan Klinikal | Z Arztl Fortbild | Penggunaan antibiotik dalam amalan otologi |
+| [165871](https://pubmed.ncbi.nlm.nih.gov/165871/) | 1975 | Kajian Klinikal | Can Med Assoc J | Penggunaan trimetoprim-sulfametoksazol dalam otitis externa |
+| [9820118](https://pubmed.ncbi.nlm.nih.gov/9820118/) | 1998 | In vitro / Veterinar | Zentralbl Veterinarmed B | Kepekaan isolat bakteria daripada otitis externa kronik kepada antibiotik termasuk bacitracin |
 
-### Rank 2: Exposure Keratitis (Evidence Level L4)
+### Kedudukan 2: Keratitis Pendedahan (Tahap Bukti L4)
 
-| Item | Detail |
-|------|--------|
-| TxGNN Score | 99.991% |
-| Recommendation | Proceed with Guardrails |
-| Rationale | Bacitracin ophthalmic ointment is already part of standard clinical practice for exposure keratitis — providing both antibacterial prophylaxis against secondary infection and physical corneal lubrication/protection through the ointment base. |
+| Item | Perincian |
+|------|-----------|
+| Skor TxGNN | 99.991% |
+| Cadangan | Teruskan dengan Penjaga |
+| Nisbah | Salap oftalmologi bacitracin sudah menjadi bahagian daripada amalan klinikal standard untuk keratitis pendedahan — memberikan kedua-dua profilaksis antibakteria terhadap jangkitan sekunder dan perlindungan/pelinciran kornea fizikal melalui pangkalan salap. |
 
-### Indications Recommended as Hold
+### Petunjuk yang Disyorkan sebagai Tahan
 
-| Rank | Disease | TxGNN Score | Reason for Hold |
-|------|---------|-------------|-----------------|
-| 3 | Non-human animal disease | 99.970% | Not applicable to human medicine |
-| 5 | Postinfectious vasculitis | 99.968% | No mechanistic link; topical agent cannot treat systemic vasculitis |
-| 7 | Infective urethral stricture | 99.965% | Topical formulation cannot reach target; primary pathology is fibrosis, not infection |
-| 8 | Post-infectious syndrome | 99.965% | Overly broad category; no anti-inflammatory or immunomodulatory activity |
-| 9 | Infection-related HUS | 99.962% | Antibiotic use may worsen STEC-associated HUS; topical agent cannot treat systemic disease |
-| 10 | Chagas cardiomyopathy | 99.961% | Caused by protozoan (*T. cruzi*); antibacterial agent has zero activity against parasites |
+| Kedudukan | Penyakit | Skor TxGNN | Sebab untuk Tahan |
+|-----------|---------|-----------|------------------|
+| 3 | Penyakit haiwan bukan manusia | 99.970% | Tidak berkenaan dengan perubatan manusia |
+| 5 | Vaskulitis pasca-jangkitan | 99.968% | Tiada pautan mekanis; agen topikal tidak dapat merawat vaskulitis sistemik |
+| 7 | Striktur uretra yang berjangkit | 99.965% | Formulasi topikal tidak dapat mencapai sasaran; patologi utama adalah fibrosis, bukan jangkitan |
+| 8 | Sindrom pasca-jangkitan | 99.965% | Kategori terlalu luas; tiada aktiviti anti-inflamasi atau imunomodulatori |
+| 9 | HUS yang berkaitan jangkitan | 99.962% | Penggunaan antibiotik mungkin memburukkan HUS yang berkaitan STEC; agen topikal tidak dapat merawat penyakit sistemik |
+| 10 | Kardiomiopati Chagas | 99.961% | Disebabkan oleh protozoan (*T. cruzi*); agen antibakteria mempunyai aktiviti sifar terhadap parasit |
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Proceed with Guardrails**
+**Keputusan: Teruskan dengan Penjaga**
 
-**Rationale:**
-The top-ranked prediction (punctate epithelial keratoconjunctivitis) is highly plausible because Bacitracin ophthalmic ointment is already approved and used for superficial bacterial eye infections — PEK with bacterial aetiology is a natural therapeutic extension. The otitis externa indication (rank 4) is supported by published clinical comparison data. Both represent low-risk expansions of existing clinical use rather than radical repurposing.
+**Nisbah:**
+Ramalan kedudukan atas (keratitis epithelial punctate) sangat munasabah kerana salap oftalmologi bacitracin sudah diluluskan dan digunakan untuk jangkitan mata bakteria permukaan — PEK dengan etiologi bakteria adalah lanjutan terapeutik yang semula jadi. Petunjuk otitis externa (kedudukan 4) disokong oleh data perbandingan klinikal yang diterbitkan. Kedua-duanya mewakili pengembangan berisiko rendah penggunaan klinikal yang sedia ada dan bukannya penggantian ubat radikal.
 
-**To proceed, the following is needed:**
-- Detailed mechanism of action data from DrugBank (currently a data gap)
-- NPRA product insert safety information including warnings, contraindications, and precautions
-- Extraction of detailed Malaysia registration data (authorization numbers, product names, dosage forms, approved indications) for the 27 registered products
-- Clinical review to confirm that PEK indication is not already covered by existing approved ophthalmic indications (may be a labelling gap rather than true repurposing)
-- For otitis externa: systematic review of existing evidence including the Mösges et al. 2007 clinical comparison study
+**Untuk teruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan terperinci daripada DrugBank (pada masa ini jurang data)
+- Maklumat sisipan produk NPRA keselamatan termasuk amaran, kontradikasi, dan pencegahan
+- Pengekstrakan data pendaftaran Malaysia yang terperinci (nombor kebenaran, nama produk, bentuk dos, petunjuk yang diluluskan) untuk 27 produk berdaftar
+- Semakan klinikal untuk mengesahkan bahawa petunjuk PEK sudah tidak dilindungi oleh petunjuk oftalmologi yang sudah diluluskan (mungkin jurang pelabelan dan bukannya penggantian ubat sebenar)
+- Untuk otitis externa: ulasan sistematik bukti sedia ada termasuk kajian perbandingan klinikal Mösges et al. 2007
 
 ---
 
-*This report is for research purposes only and does not constitute medical advice. Drug repurposing candidates require clinical validation before application. Data cutoff: 2026-04-09.*
+*Laporan ini adalah untuk tujuan penyelidikan sahaja dan tidak merupakan nasihat perubatan. Calon penggantian ubat memerlukan pengesahan klinikal sebelum aplikasi. Penghujung data: 2026-04-09.*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

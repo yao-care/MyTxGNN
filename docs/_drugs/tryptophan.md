@@ -29,81 +29,82 @@ Tahap bukti: **L3** | Indikasi diramal: **8**
 
 </div>
 
-# Tryptophan: From Nutritional Supplement to Restless Legs Syndrome
+# Triptofan: Daripada Suplemen Pemakanan kepada Sindrom Kaki Gelisah
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-> Tryptophan is an essential amino acid currently marketed in Malaysia as a nutritional/dietary supplement, with no detailed original indication data available in this evidence pack.
-> The TxGNN model predicts it may be effective for **Restless Legs Syndrome (RLS)**,
-> with **0 clinical trials** and **8 publications** (mostly decades-old, small studies) currently supporting this direction.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | No data available in this evidence pack |
-| Predicted New Indication | Restless Legs Syndrome |
-| TxGNN Prediction Score | 99.72% |
-| Evidence Level | L3 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 32 |
-| Recommended Decision | Hold |
+> Triptofan adalah asid amino penting yang kini dipasarkan di Malaysia sebagai suplemen pemakanan/diet, tanpa data petunjuk asal yang terperinci tersedia dalam pakej bukti ini.
+> Model TxGNN meramalkan ia mungkin berkesan untuk **Sindrom Kaki Gelisah (RLS)**,
+> dengan **0 ujian klinikal** dan **8 penerbitan** (kebanyakannya kajian lama beberapa dekad, kajian kecil) kini menyokong arah ini.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Pantas
 
-Currently, detailed mechanism of action data is not available. Based on known information, tryptophan is an essential amino acid marketed as a nutritional/dietary supplement, and it serves as the metabolic precursor of serotonin (via 5-hydroxytryptophan). The serotonergic system is known to participate in central neuromodulation of movement and sleep, which provides a plausible — though not definitive — mechanistic link to restless legs syndrome (RLS).
-
-However, the mainstream understanding of RLS pathophysiology centers on the **dopaminergic** system (first-line RLS treatments are dopamine agonists), not the serotonergic pathway. The relationship between tryptophan supplementation and RLS symptom relief was proposed in small, open-label studies from the 1980s–1990s and has not been re-examined with modern randomized controlled trial (RCT) methodology. No clinical trials of tryptophan specifically for RLS are currently registered.
-
-Given the absence of contemporary interventional evidence and the competing dominant mechanistic theory, the prediction should be treated as a research hypothesis worth revisiting rather than a clinically actionable signal at this time.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Tiada data tersedia dalam pakej bukti ini |
+| Petunjuk Baru yang Diramalkan | Sindrom Kaki Gelisah |
+| Skor Ramalan TxGNN | 99.72% |
+| Tahap Bukti | L3 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 32 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| PMID | Year | Type | Journal | Key Findings |
+Pada masa kini, data mekanisme tindakan terperinci tidak tersedia. Berdasarkan maklumat yang diketahui, triptofan adalah asid amino penting yang dipasarkan sebagai suplemen pemakanan/diet, dan ia berfungsi sebagai pendahulu metabolik serotonin (melalui 5-hidroksitriptofan). Sistem serotonergik diketahui menyertai neuromodul pusat pergerakan dan tidur, yang memberikan pautan mekanis yang munasabah — meskipun bukan definitif — kepada sindrom kaki gelisah (RLS).
+
+Bagaimanapun, pemahaman arus utama patofisiologi RLS tertumpu pada sistem **dopaminergik** (rawatan RLS baris pertama adalah agonis dopamin), bukan laluan serotonergik. Hubungan antara suplementasi triptofan dan pelepasan gejala RLS telah dicadangkan dalam kajian label terbuka kecil dari tahun 1980an–1990an dan belum diperiksa semula dengan metodologi ujian terkawal rawak (RCT) moden. Tiada ujian klinikal triptofan secara khusus untuk RLS kini didaftarkan.
+
+Memandangkan ketiadaan bukti intervensi kontemporari dan teori mekanis dominan yang bersaing, ramalan harus diperlakukan sebagai hipotesis penyelidikan yang patut dilawati semula daripada isyarat yang dapat ditindak secara klinikal pada masa ini.
+
+---
+
+## Bukti Ujian Klinikal
+
+Pada masa kini tiada ujian klinikal berkaitan yang didaftarkan.
+
+---
+
+## Bukti Kesusasteraan
+
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [3953904](https://pubmed.ncbi.nlm.nih.gov/3953904/) | 1986 | Clinical Trial (small/open-label) | Am J Psychiatry | Early open-label report describing L-tryptophan use in the treatment of restless legs syndrome |
-| [3659737](https://pubmed.ncbi.nlm.nih.gov/3659737/) | 1987 | Clinical Trial (comparative, small) | Sleep | Small comparative study of periodic leg movement response to L-dopa, 5-hydroxytryptophan, and L-tryptophan |
-| [33836477](https://pubmed.ncbi.nlm.nih.gov/33836477/) | 2021 | Systematic Review/Meta-analysis | Sleep Medicine Reviews | RLS is common in chronic liver disease patients; proposes elevated tryptophan, histamine, and altered dopamine turnover as contributing mechanisms |
-| [1305630](https://pubmed.ncbi.nlm.nih.gov/1305630/) | 1992 | Review | Int J Neuroscience | Reviews serotonin's role in CNS functions including motor behavior, referencing L-tryptophan in neuropsychiatric conditions |
-| [2881477](https://pubmed.ncbi.nlm.nih.gov/2881477/) | 1987 | Review | Am Family Physician | General review of insomnia diagnosis/treatment; benzodiazepines noted as having supplanted older hypnotics such as tryptophan |
-| [32546134](https://pubmed.ncbi.nlm.nih.gov/32546134/) | 2020 | Pharmacovigilance/Cohort | BMC Psychiatry | Postmarketing pharmacovigilance study assessing antidepressant classes' association with movement disorders (contextual, not tryptophan-specific) |
-| [1777530](https://pubmed.ncbi.nlm.nih.gov/1777530/) | 1991 | Case Report | Biological Psychiatry | Case report of restless legs syndrome induced by lithium (indirect relevance to serotonergic/dopaminergic movement pathways) |
-| [36897462](https://pubmed.ncbi.nlm.nih.gov/36897462/) | 2023 | Case Report (genetic) | Neurological Sciences | Describes RLS in DNAJC12 deficiency, a disorder affecting combined dopaminergic/serotoninergic neurotransmission |
+| [3953904](https://pubmed.ncbi.nlm.nih.gov/3953904/) | 1986 | Ujian Klinikal (kecil/label terbuka) | Am J Psychiatry | Laporan label terbuka awal yang menerangkan penggunaan L-triptofan dalam rawatan sindrom kaki gelisah |
+| [3659737](https://pubmed.ncbi.nlm.nih.gov/3659737/) | 1987 | Ujian Klinikal (perbandingan, kecil) | Sleep | Kajian perbandingan kecil tentang tindak balas gerakan kaki berkala terhadap L-dopa, 5-hidroksitriptofan, dan L-triptofan |
+| [33836477](https://pubmed.ncbi.nlm.nih.gov/33836477/) | 2021 | Ulasan Sistematik/Meta-analisis | Sleep Medicine Reviews | RLS adalah lazim pada pesakit penyakit hati kronik; mencadangkan triptofan yang tinggi, histamin, dan putaran dopamin yang berubah sebagai mekanisme penyumbang |
+| [1305630](https://pubmed.ncbi.nlm.nih.gov/1305630/) | 1992 | Ulasan | Int J Neuroscience | Mengulas peranan serotonin dalam fungsi CNS termasuk tingkah laku motor, merujuk L-triptofan dalam keadaan neuropsikiatrik |
+| [2881477](https://pubmed.ncbi.nlm.nih.gov/2881477/) | 1987 | Ulasan | Am Family Physician | Ulasan umum diagnosis/rawatan insomnia; benzodiazpin dicatat sebagai telah menggantikan hipnotik yang lebih tua seperti triptofan |
+| [32546134](https://pubmed.ncbi.nlm.nih.gov/32546134/) | 2020 | Pemantauan Pasca-pemasaran/Kohort | BMC Psychiatry | Kajian pemantauan keselamatan pasca-pemasaran menilai persatuan kelas antidepresan dengan gangguan gerakan (kontekstual, bukan khusus triptofan) |
+| [1777530](https://pubmed.ncbi.nlm.nih.gov/1777530/) | 1991 | Laporan Kes | Biological Psychiatry | Laporan kes sindrom kaki gelisah yang diaruhkan oleh litium (perkaitan tak langsung dengan laluan gerakan serotonergik/dopaminergik) |
+| [36897462](https://pubmed.ncbi.nlm.nih.gov/36897462/) | 2023 | Laporan Kes (genetik) | Neurological Sciences | Menerangkan RLS dalam kekurangan DNAJC12, gangguan yang mempengaruhi penghantaran dopaminergik/serotonergik gabungan |
 
 ---
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisipan bungkusan untuk maklumat keselamatan.
 
 ---
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The mechanistic rationale (serotonin precursor) is biologically plausible but conflicts with RLS's dominant dopaminergic treatment paradigm, and all supporting clinical literature consists of small, uncontrolled studies from the 1980s–1990s with no modern RCT confirmation or active clinical trials.
+**Rasional:**
+Rasional mekanis (pendahulu serotonin) adalah biologi yang munasabah tetapi bercanggah dengan paradigma rawatan dopaminergik dominan RLS, dan semua kesusasteraan klinikal yang menyokong terdiri daripada kajian tidak terkawal kecil dari tahun 1980an–1990an tanpa pengesahan RCT moden atau ujian klinikal yang aktif.
 
-**To proceed, the following is needed:**
-- Original indication and approved product label details (currently no data available)
-- Mechanism of action (MOA) data from DrugBank
-- TFDA/Malaysia-equivalent package insert warnings and contraindications (currently data gap)
-- A modern, adequately powered RCT evaluating tryptophan for RLS symptom control
-- Clarification of tryptophan's role relative to dopaminergic pathways in RLS pathophysiology
-- Safety review addressing the historical eosinophilia-myalgia syndrome (EMS) association with impure tryptophan preparations, and confirmation of current pharmaceutical-grade purity standards
+**Untuk meneruskan, berikut diperlukan:**
+- Petunjuk asal dan butiran label produk yang diluluskan (kini tiada data tersedia)
+- Data Mekanisme Tindakan (MOA) daripada DrugBank
+- Amaran sisipan bungkusan bersamaan TFDA/Malaysia dan percanggahan (ketika ini jurang data)
+- RCT moden yang cukup berkuasa menilai triptofan untuk kawalan gejala RLS
+- Penjelasan peranan triptofan relatif kepada laluan dopaminergik dalam patofisiologi RLS
+- Semakan keselamatan menangani persatuan sindrom eosinofilia-myalgia (EMS) sejarah dengan penyediaan triptofan tidak tulen, dan pengesahan piawaian ketulenan gred farmaseutikal semasa
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

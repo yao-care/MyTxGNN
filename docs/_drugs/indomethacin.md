@@ -29,85 +29,86 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Indomethacin: From NSAID Anti-Inflammatory Therapy to Rheumatoid Arthritis
+# Indomethacin: Daripada Terapi Anti-Radang NSAID kepada Artritis Reumatoid
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Indomethacin is a long-established non-steroidal anti-inflammatory drug (NSAID) used broadly for inflammatory and musculoskeletal pain conditions. The TxGNN model predicts it may be effective for **Rheumatoid Arthritis**, and the supporting literature (**20 publications**, no registered clinical trials in this pull) confirms this is in fact a well-documented, decades-old use rather than a genuinely novel indication — the model has reaffirmed an existing clinical practice with high confidence (99.98%).
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not returned in this data pull (registry text fields were empty); Indomethacin is a well-established NSAID for inflammatory/musculoskeletal pain |
-| Predicted New Indication | Rheumatoid Arthritis |
-| TxGNN Prediction Score | 99.98% |
-| Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
-| Recommended Decision | Proceed with Guardrails |
+Indomethacin ialah ubat anti-radang tidak steroid (NSAID) yang telah lama ditubuhkan dan digunakan secara meluas untuk keadaan radang dan nyeri muskuloskeletal. Model TxGNN meramalkan ia mungkin berkesan untuk **Artritis Reumatoid**, dan kesusasteraan yang menyokong (**20 penerbitan**, tiada ujian klinikal berdaftar dalam pengambilan data ini) mengesahkan ini sebenarnya merupakan penggunaan yang didokumentasikan dengan baik dan berusia beberapa dekad dan bukannya petunjukan yang benar-benar baru — model telah mengesahkan semula amalan klinikal yang sedia ada dengan keyakinan tinggi (99.98%).
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Cepat
 
-Detailed mechanism of action data was not returned for this drug in the current evidence pack. Based on known pharmacology, Indomethacin is a non-selective COX-1/COX-2 (cyclooxygenase) inhibitor that blocks prostaglandin synthesis, producing anti-inflammatory and analgesic effects. This mechanism is the pharmacological basis for its long-standing use as a first-line NSAID in inflammatory arthritides.
-
-Importantly, this prediction should be interpreted with a caveat: Rheumatoid Arthritis is not a novel indication for Indomethacin — it is one of the drug's classical, textbook uses, evidenced by RCTs dating back to the 1960s–1990s. The high TxGNN score here reflects the model correctly recovering an already-consolidated drug-disease relationship rather than surfacing new repurposing potential. This strengthens confidence in the model's validity but limits the practical "new indication" value of this particular candidate.
-
-Mechanistically, COX inhibition and suppression of prostaglandin-mediated joint inflammation directly addresses the synovitis and pain that characterize RA, which is consistent with decades of clinical experience summarized in the literature below.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Item | Kandungan |
+|------|----------|
+| Petunjukan Asal | Tidak dikembalikan dalam pengambilan data ini (medan teks pendaftaran kosong); Indomethacin ialah NSAID yang ditubuhkan dengan baik untuk nyeri radang/muskuloskeletal |
+| Petunjukan Baru yang Diramal | Artritis Reumatoid |
+| Skor Ramalan TxGNN | 99.98% |
+| Tahap Bukti | L1 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 3 |
+| Keputusan yang Disyorkan | Teruskan dengan Langkah Keselamatan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [3365530](https://pubmed.ncbi.nlm.nih.gov/3365530/) | 1988 | RCT | British Journal of Rheumatology | Cross-over trial in 17 RA patients: high-dose indomethacin (150 mg/day) showed equianalgesic effects to low-dose indomethacin (50 mg/day) + paracetamol (4 g/day) |
-| [71973](https://pubmed.ncbi.nlm.nih.gov/71973/) | 1977 | RCT | Current Medical Research and Opinion | Double-blind crossover in 30 RA patients: flurbiprofen 200 mg/day vs indomethacin 100 mg/day, no significant difference in pain, stiffness, or grip strength |
-| [7004474](https://pubmed.ncbi.nlm.nih.gov/7004474/) | 1980 | RCT | British Journal of Clinical Pharmacology | Double-blind crossover in 13 RA patients comparing oral vs rectal indomethacin 100 mg nightly; both routes produced significant clinical improvement |
-| [6380897](https://pubmed.ncbi.nlm.nih.gov/6380897/) | 1984 | RCT | Clinical Rheumatology | Crossover study in 30 RA patients: diclofenac vs indomethacin 100 mg suppositories, both improved disease status vs placebo |
-| [12535392](https://pubmed.ncbi.nlm.nih.gov/12535392/) | 2003 | RCT (Cochrane systematic review) | Cochrane Database of Systematic Reviews | Systematic review comparing low-dose corticosteroids vs placebo/NSAIDs (including indomethacin) in RA |
-| [25108](https://pubmed.ncbi.nlm.nih.gov/25108/) | 1978 | RCT | British Medical Journal | Comparative trial of indomethacin and alclofenac in RA (abstract not available) |
-| [5333306](https://pubmed.ncbi.nlm.nih.gov/5333306/) | 1967 | RCT | British Medical Journal | Evaluation of indomethacin's anti-inflammatory efficacy and side effects in RA (abstract not available) |
-| [14302557](https://pubmed.ncbi.nlm.nih.gov/14302557/) | 1965 | Case series/Review | Clinical Obstetrics and Gynecology | Review discussing RA management considerations, including anti-inflammatory therapy, during pregnancy |
-| [35282742](https://pubmed.ncbi.nlm.nih.gov/35282742/) | 2022 | Preclinical | Journal of Drug Targeting | pH-responsive indomethacin-loaded nanoparticle (IND@PB@M@HA) combined with photothermal therapy for RA in preclinical models |
-| [380913](https://pubmed.ncbi.nlm.nih.gov/380913/) | 1979 | Not yet classified | Current Medical Research and Opinion | Single-blind crossover in 24 RA patients: piroxicam, indomethacin, and ibuprofen compared; piroxicam superior to placebo, no significant difference among active drugs |
+Data mekanisme tindakan terperinci tidak dikembalikan untuk ubat ini dalam pakej bukti semasa. Berdasarkan farmakologi yang diketahui, Indomethacin ialah penghambat COX-1/COX-2 (siklooksigenase) yang tidak terpilih yang menghalang sintesis prostaglandin, menghasilkan kesan anti-radang dan analgesik. Mekanisme ini adalah dasar farmakologi bagi penggunaannya yang telah lama ditubuhkan sebagai NSAID baris pertama dalam pelbagai artritis inflamasi.
+
+Yang penting, ramalan ini harus ditafsirkan dengan kaveat: Artritis Reumatoid bukan petunjukan baru untuk Indomethacin — ia adalah salah satu penggunaan klasikal ubat ini yang didokumentasikan dalam buku teks, yang disokong oleh kajian RCT sejak 1960-an–1990-an. Skor TxGNN yang tinggi di sini mencerminkan model dengan tepat memulihkan hubungan ubat-penyakit yang telah disatukan dan bukannya memunculkan potensi penggunaan semula yang baru. Ini memperkuat keyakinan terhadap kesahihan model tetapi mengehadkan nilai praktikal "petunjukan baru" calon ini.
+
+Secara mekanistik, perencatan COX dan penindasan mediator radang bermedian prostaglandin yang membawa kepada sinovitis dan nyeri sendi selaras dengan pengalaman klinikal beberapa dekad yang diringkaskan dalam kesusasteraan di bawah.
 
 ---
 
-## Malaysia Market Information
+## Bukti Ujian Klinikal
 
-NPRA records confirm **3 active marketing authorizations** for Indomethacin in Malaysia (market status: Marketed). However, this data pull did not return license numbers, product names, dosage forms, or approved indication text for these registrations — a follow-up query against the NPRA product database is needed to populate these details.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
+Pada masa ini tiada ujian klinikal yang berkaitan berdaftar.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Kesusasteraan
 
-**Decision: Proceed with Guardrails**
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|------|------|--------|----------|
+| [3365530](https://pubmed.ncbi.nlm.nih.gov/3365530/) | 1988 | RCT | British Journal of Rheumatology | Kajian silang dalam 17 pesakit RA: indomethacin dos tinggi (150 mg/hari) menunjukkan kesan equianalgesic kepada indomethacin dos rendah (50 mg/hari) + paracetamol (4 g/hari) |
+| [71973](https://pubmed.ncbi.nlm.nih.gov/71973/) | 1977 | RCT | Current Medical Research and Opinion | Kajian silang buta berganda dalam 30 pesakit RA: flurbiprofen 200 mg/hari vs indomethacin 100 mg/hari, tiada perbezaan bererti dalam nyeri, kekakuan, atau kekuatan cengkaman |
+| [7004474](https://pubmed.ncbi.nlm.nih.gov/7004474/) | 1980 | RCT | British Journal of Clinical Pharmacology | Kajian silang buta berganda dalam 13 pesakit RA membandingkan indomethacin 100 mg oral vs rektal setiap malam; kedua-dua jalan pemberian menghasilkan penambahbaikan klinikal yang bererti |
+| [6380897](https://pubmed.ncbi.nlm.nih.gov/6380897/) | 1984 | RCT | Clinical Rheumatology | Kajian silang dalam 30 pesakit RA: diclofenac vs suppositoria indomethacin 100 mg, kedua-duanya menambahbaik status penyakit berbanding plasebo |
+| [12535392](https://pubmed.ncbi.nlm.nih.gov/12535392/) | 2003 | RCT (ulasan sistematik Cochrane) | Cochrane Database of Systematic Reviews | Ulasan sistematik membandingkan kortikosteroid dos rendah vs plasebo/NSAID (termasuk indomethacin) dalam RA |
+| [25108](https://pubmed.ncbi.nlm.nih.gov/25108/) | 1978 | RCT | British Medical Journal | Kajian perbandingan indomethacin dan alclofenac dalam RA (abstrak tidak tersedia) |
+| [5333306](https://pubmed.ncbi.nlm.nih.gov/5333306/) | 1967 | RCT | British Medical Journal | Penilaian keberkesanan anti-radang indomethacin dan kesan sampingan dalam RA (abstrak tidak tersedia) |
+| [14302557](https://pubmed.ncbi.nlm.nih.gov/14302557/) | 1965 | Siri kes/Ulasan | Clinical Obstetrics and Gynecology | Ulasan membincangkan pertimbangan pengurusan RA, termasuk terapi anti-radang, semasa kehamilan |
+| [35282742](https://pubmed.ncbi.nlm.nih.gov/35282742/) | 2022 | Pra-klinikal | Journal of Drug Targeting | Nanopartikel berdaya respons pH yang dimuatkan indomethacin (IND@PB@M@HA) digabungkan dengan terapi fototermal untuk RA dalam model pra-klinikal |
+| [380913](https://pubmed.ncbi.nlm.nih.gov/380913/) | 1979 | Belum diklasifikasikan | Current Medical Research and Opinion | Kajian silang buta tunggal dalam 24 pesakit RA: piroxicam, indomethacin, dan ibuprofen dibandingkan; piroxicam lebih baik daripada plasebo, tiada perbezaan bererti di antara ubat-ubat aktif |
 
-**Rationale:**
-Evidence level L1 is supported by multiple RCTs spanning 1967–2003 confirming indomethacin's efficacy in RA, but this is a reaffirmation of an existing, long-established use rather than a novel repurposing opportunity — its practical value as a "new indication" candidate is limited. More critically, the evidence pack flags a **Blocking** data gap (DG001: TFDA/NPRA label warnings and contraindications) that prevents this candidate from formally entering safety pre-assessment (S1), regardless of the strength of efficacy evidence.
+---
 
-**To proceed, the following is needed:**
-- Retrieve and parse the official product label/insert for warnings, contraindications, and precautions (Blocking gap, DG001)
-- Confirm mechanism of action via DrugBank API (High priority gap, DG002)
-- Complete NPRA registration details (license numbers, product names, dosage forms, approved indication text) for the 3 Malaysia authorizations
-- Given this indication is not novel, consider whether downstream resources are better allocated to genuinely new TxGNN-predicted candidates for this drug
+## Maklumat Pasaran Malaysia
+
+Rekod NPRA mengesahkan **3 kebenaran pemasaran aktif** untuk Indomethacin di Malaysia (status pasaran: Dipasarkan). Walau bagaimanapun, pengambilan data ini tidak mengembalikan nombor lesen, nama produk, bentuk dos, atau teks petunjukan yang diluluskan untuk pendaftaran ini — pertanyaan susulan terhadap pangkalan data produk NPRA diperlukan untuk melengkapkan butiran ini.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Teruskan dengan Langkah Keselamatan**
+
+**Rasional:**
+Tahap bukti L1 disokong oleh pelbagai RCT dari 1967–2003 yang mengesahkan keberkesanan indomethacin dalam RA, tetapi ini adalah pengesahan semula penggunaan yang telah lama ditubuhkan dan bukannya peluang penggunaan semula yang baru — nilai praktikalnya sebagai calon "petunjukan baru" adalah terhad. Lebih penting lagi, pakej bukti menandakan jurang data **Pemblokiran** (DG001: peringatan label TFDA/NPRA dan kontraindikasi) yang menghalang calon ini daripada secara formal memasuki pra-penilaian keselamatan (S1), tidak kira kekuatan bukti keberkesanan.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Dapatkan dan huraikan label produk atau sisipan rasmi untuk peringatan, kontraindikasi, dan pencegahan (Jurang pemblokiran, DG001)
+- Sahkan mekanisme tindakan melalui API DrugBank (Jurang keutamaan tinggi, DG002)
+- Lengkapkan butiran pendaftaran NPRA (nombor lesen, nama produk, bentuk dos, teks petunjukan yang diluluskan) untuk 3 kebenaran pemasaran Malaysia
+- Memandangkan petunjukan ini bukan baru, pertimbangkan sama ada sumber hiliran lebih baik diperuntukkan kepada calon ubat TxGNN yang diramal benar-benar baru untuk ubat ini
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,74 +29,75 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Carboprost Tromethamine: From Unspecified Approved Indication to Atypical Coarctation of Aorta
+# Carboprost Tromethamine: Dari Indikasi yang Diluluskan Tetapi Tidak Dispesifikkan ke Koarktasi Aorta Atipikal
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Carboprost tromethamine is an already-marketed injectable (3 registered licenses), but the full text of its approved indication has not yet been captured in this evidence pack. The TxGNN model predicts a possible link to **Atypical Coarctation of Aorta**, scoring **99.99%**, but this ranking is currently supported by **zero clinical trials and zero publications** — and the evidence pack's own rationale flags this as a likely false-positive association rather than a genuine treatment signal.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not yet extracted — all 3 license records have blank indication text (see Data Gaps) |
-| Predicted New Indication | Atypical Coarctation of Aorta |
-| TxGNN Prediction Score | 99.99% |
-| Evidence Level | L5 (model prediction only) |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 3 |
-| Recommended Decision | Hold |
+Carboprost tromethamine adalah ubat suntikan yang telah dipasarkan (3 lesen terdaftar), tetapi teks lengkap indikasi yang diluluskannya belum ditangkap dalam paket bukti ini. Model TxGNN meramalkan kemungkinan hubungan ke **Koarktasi Aorta Atipikal**, dengan skor **99.99%**, tetapi peringkat ini pada masa ini disokong oleh **sifar ujian klinis dan sifar publikasi** — dan rasional paket bukti itu sendiri menandakan ini sebagai kemungkinan persatuan palsu positif daripada isyarat rawatan tulin.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Pantas
 
-Detailed mechanism of action data for carboprost tromethamine is not yet available (MOA remains a documented data gap). Based on general pharmacological knowledge, carboprost tromethamine is a PGF2α (prostaglandin F2-alpha) analog whose primary pharmacological action is uterine smooth-muscle contraction, consistent with its class as a uterotonic agent used in obstetric bleeding-control contexts.
-
-The TxGNN model assigns a very high score (99.99%) to a link between this drug and "atypical coarctation of aorta," but this condition is a **structural congenital cardiovascular malformation** — an anatomical defect that is not reversible by pharmacological intervention. There is no mechanistic pathway connecting a uterotonic prostaglandin analog to correction of aortic structural anomalies, and no clinical trial or literature evidence supports this link.
-
-The evidence pack's own repurposing rationale explicitly characterizes this as a likely artifact of knowledge-graph node proximity rather than a genuine causal treatment relationship. This prediction should therefore be treated as evidence-free and mechanistically unsupported, not as a promising repurposing lead.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Belum diekstrak — ketiga-tiga rekod lesen mempunyai teks indikasi kosong (lihat Jurang Data) |
+| Indikasi Baru yang Diprediksi | Koarktasi Aorta Atipikal |
+| Skor Prediksi TxGNN | 99.99% |
+| Tahap Bukti | L5 (ramalan model sahaja) |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 3 |
+| Keputusan yang Disyorkan | Tangguhkan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available.
+Data mekanisme tindakan yang terperinci untuk carboprost tromethamine belum tersedia (MOA kekal sebagai jurang data yang didokumentasikan). Berdasarkan pengetahuan farmakologi umum, carboprost tromethamine adalah analog PGF2α (prostaglandin F2-alpha) yang tindakan farmakologi utamanya adalah pengecutan otot licin rahim, konsisten dengan kelasnya sebagai agen uterotoni yang digunakan dalam konteks kawalan pendarahan obstetrik.
 
----
+Model TxGNN memberikan skor yang sangat tinggi (99.99%) kepada hubungan antara ubat ini dan "koarktasi aorta atipikal," tetapi keadaan ini adalah **malformasi kardiovaskular bawaan struktur** — kecacatan anatomi yang tidak boleh diterbalikkan oleh campur tangan farmakologi. Tidak ada jalur mekanistik yang menghubungkan analog prostaglandin uterotoni ke pembetulan anomali struktur aorta, dan tiada bukti ujian klinis atau literatur yang menyokong hubungan ini.
 
-## Malaysia Market Information
-
-The evidence pack confirms 3 registered licenses and an overall "Marketed (Marketed)" status, but license-level details (authorization number, product name, dosage form, approved indication text) are all currently blank in the source data and cannot be reported.
+Rasional repurposing paket bukti itu sendiri secara jelas mencirikan ini sebagai artifak kedekatan nod graf pengetahuan yang mungkin daripada hubungan rawatan penyebab tulin. Oleh itu, ramalan ini harus diperlakukan sebagai bebas bukti dan tidak disokong secara mekanistik, bukan sebagai petunjuk repurposing yang menjanjikan.
 
 ---
 
-## Safety Considerations
+## Bukti Ujian Klinis
 
-Please refer to the package insert for safety information.
+Pada masa ini tiada ujian klinis berkaitan yang terdaftar.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Hold**
+Pada masa ini tiada literatur berkaitan yang tersedia.
 
-**Rationale:**
-- The top-ranked TxGNN prediction (atypical coarctation of aorta) targets a non-drug-treatable structural anomaly, has no supporting clinical or literature evidence, and is flagged by the evidence pack itself as a likely spurious association. Combined with missing MOA and safety data, this candidate cannot proceed past initial screening.
+---
 
-**To proceed, the following is needed:**
-- Drug label warnings/contraindications from official Malaysia/Taiwan regulatory source (currently Blocking gap, DG001)
-- Mechanism of action data via DrugBank (currently High-severity gap, DG002)
-- Complete license-level regulatory data (authorization numbers, product names, approved indication text)
-- If pursuing repurposing directions for this drug, consider re-evaluating **rank 10 (primary hereditary glaucoma)** instead — it has a class-level mechanistic rationale (PGF2α/FP-receptor agonist class shared with approved glaucoma drugs) despite a lower TxGNN score, making it a more biologically grounded candidate than the current top-ranked prediction.
+## Maklumat Pasaran Malaysia
+
+Paket bukti mengesahkan 3 lesen terdaftar dan status keseluruhan "Dipasarkan (Dipasarkan)," tetapi butiran peringkat lesen (nombor kebenaran, nama produk, bentuk dos, teks indikasi yang diluluskan) semuanya kini kosong dalam data sumber dan tidak dapat dilaporkan.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tangguhkan**
+
+**Rasional:**
+- Ramalan TxGNN peringkat teratas (koarktasi aorta atipikal) menyasarkan anomali struktur yang tidak boleh dirawat dengan ubat, tidak mempunyai bukti klinis atau literatur yang menyokong, dan ditandakan oleh paket bukti itu sendiri sebagai kemungkinan persatuan palsu. Digabungkan dengan data MOA dan keselamatan yang hilang, calon ini tidak dapat diteruskan melepasi pemeriksaan awal.
+
+**Untuk melanjutkan, yang berikut diperlukan:**
+- Amaran label ubat/kontraindikasi dari sumber kawal selia Malaysia/Taiwan rasmi (jurang Menyekat pada masa ini, DG001)
+- Data mekanisme tindakan melalui DrugBank (jurang Keterukan-Tinggi pada masa ini, DG002)
+- Data kawal selia peringkat lesen lengkap (nombor kebenaran, nama produk, teks indikasi yang diluluskan)
+- Jika mengejar arah repurposing untuk ubat ini, pertimbangkan untuk menilai semula **pangkat 10 (glaukoma bawaan primer)** sebagai gantinya — ia mempunyai rasional mekanistik peringkat kelas (kelas agonis agonist PGF2α/FP-reseptor yang dikongsi dengan ubat glaukoma yang diluluskan) walaupun mempunyai skor TxGNN yang lebih rendah, menjadikannya calon yang lebih berasas secara biologi daripada ramalan peringkat teratas semasa.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

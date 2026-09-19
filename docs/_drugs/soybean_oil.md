@@ -29,66 +29,67 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Soybean Oil: From Parenteral Nutrition Lipid Emulsion Component to Amenorrhea
+# Minyak Kacang Soya: Dari Komponen Emulsi Lipid Nutrisi Parenteral ke Amenorea
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Soybean Oil is primarily used clinically as an excipient and caloric source in parenteral nutrition lipid emulsions; no formal original indication text is available in the current data pack. The TxGNN model predicts a possible link to **Amenorrhea** with a very high score, but this prediction is currently supported by **0 clinical trials** and **0 publications** — it is a computational signal only, with no mechanistic or clinical evidence behind it yet.
+Minyak Kacang Soya digunakan secara klinikal terutamanya sebagai bahan tambahan dan sumber kalori dalam emulsi lipid nutrisi parenteral; tidak ada teks indikasi asal yang formal tersedia dalam paket data semasa. Model TxGNN meramalkan kemungkinan hubungan dengan **Amenorea** dengan skor yang sangat tinggi, tetapi ramalan ini pada masa ini disokong oleh **0 percubaan klinikal** dan **0 penerbitan** — ini adalah isyarat pengiraan semata-mata, tanpa bukti mekanis atau klinikal di belakangnya lagi.
 
 ---
 
-## Quick Overview
+## Gambaran Pantas
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Not formally specified in registration data; known clinical use is as a lipid emulsion excipient/caloric source in parenteral nutrition |
-| Predicted New Indication | Amenorrhea |
-| TxGNN Prediction Score | 99.61% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 6 |
-| Recommended Decision | Hold |
+| Indikasi Asal | Tidak dinyatakan secara formal dalam data pendaftaran; penggunaan klinikal yang diketahui adalah sebagai bahan tambahan emulsi lipid/sumber kalori dalam nutrisi parenteral |
+| Indikasi Baru yang Diramalkan | Amenorea |
+| Skor Ramalan TxGNN | 99.61% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 6 |
+| Keputusan yang Disyorkan | Tangguhkan |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed mechanism of action data for Soybean Oil is currently unavailable. Based on the information available, Soybean Oil's established clinical role is as a lipid source/excipient in parenteral nutrition formulations — it is not associated with any known regulatory pathway for the hypothalamic-pituitary-ovarian axis or menstrual physiology.
+Data mekanisme kerja yang terperinci untuk Minyak Kacang Soya pada masa ini tidak tersedia. Berdasarkan maklumat yang ada, peranan klinikal yang mantap untuk Minyak Kacang Soya adalah sebagai sumber lipid/bahan tambahan dalam formulasi nutrisi parenteral — ia tidak dikaitkan dengan sebarang laluan regulatori yang dikenali untuk aksis hipotalamus-hipofisis-ovari atau fisiologi menstruasi.
 
-The TxGNN score of 99.61% reflects similarity within the model's knowledge graph embedding space rather than a demonstrated biological mechanism. It may stem from indirect connections between lipid-metabolism and hormone-metabolism nodes in the graph. At this stage there is no clinical trial, literature, or mechanistic study supporting a causal or therapeutic relationship between Soybean Oil and amenorrhea, so the prediction should be treated as a pure algorithmic signal without biological plausibility evidence.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+Skor TxGNN sebanyak 99.61% mencerminkan kesamaan dalam ruang penyisipan graf pengetahuan model itu bukannya mekanisme biologi yang terbukti. Ia mungkin berpunca daripada sambungan tidak langsung antara nod metabolisme lipid dan nod metabolisme hormon dalam graf. Pada peringkat ini tiada percubaan klinikal, literatur, atau kajian mekanis yang menyokong hubungan kausal atau terapeutik antara Minyak Kacang Soya dan amenorea, oleh itu ramalan ini harus diperlakukan sebagai isyarat algoritmik tulen tanpa bukti kebolehrasaan biologi.
 
 ---
 
-## Literature Evidence
+## Bukti Percubaan Klinikal
 
-Currently no related literature available.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Hold**
+Pada masa ini tiada literatur berkaitan yang tersedia.
 
-**Rationale:**
-There is no clinical trial or literature evidence supporting Soybean Oil for amenorrhea, and no established mechanistic link exists between its known use and this indication — the prediction rests solely on a TxGNN embedding score (L5). Core safety data (TFDA/NPRA package insert warnings and contraindications) are also missing, which blocks even a preliminary safety assessment.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert warnings and contraindications (currently a blocking data gap)
-- Mechanism of action (MOA) data for Soybean Oil
-- Any preclinical or mechanistic studies linking lipid emulsion components to reproductive/menstrual physiology
-- Confirmed license-level details (product names, dosage forms, approved indication text) from the Malaysia registration records, which are currently blank in this data pack
+## Pertimbangan Keselamatan
+
+Sila merujuk nota pakej untuk maklumat keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tangguhkan**
+
+**Rasional:**
+Tiada bukti percubaan klinikal atau literatur yang menyokong Minyak Kacang Soya untuk amenorea, dan tiada sambungan mekanis yang mantap wujud antara penggunaan yang diketahui dan indikasi ini — ramalan bergantung sepenuhnya pada skor penyisipan TxGNN (L5). Data keselamatan teras (amaran dan kontraindikasi nota pakej TFDA/NPRA) juga hilang, yang menghalang walaupun penilaian keselamatan pendahuluan.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Nota pakej TFDA/NPRA amaran dan kontraindikasi (pada masa ini jurang data yang menghalang)
+- Mekanisme kerja (MOA) untuk Minyak Kacang Soya
+- Mana-mana kajian praklinikal atau mekanis yang menghubungkan komponen emulsi lipid kepada fisiologi reproduktif/menstruasi
+- Butiran aras lesen yang disahkan (nama produk, bentuk dos, teks indikasi yang diluluskan) daripada rekod pendaftaran Malaysia, yang pada masa ini kosong dalam paket data ini
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,58 +29,59 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Sevoflurane: From General Anesthesia to Prinzmetal Angina
+# Sevoflurane: Daripada Anestezi Umum kepada Angina Prinzmetal
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Sevoflurane is a volatile inhalational general anesthetic; the specific Malaysia-approved indication wording is not available in the current dataset. The TxGNN model's top-ranked prediction is **Prinzmetal angina**, but this direction is supported by **no clinical trials and no literature** — and the only mechanistic commentary available argues the opposite (case reports describe sevoflurane *triggering or worsening* coronary spasm, not treating it).
+Sevoflurane ialah anestetik umum inhalasi yang mudah meruap; petunjuk kelulusan khusus yang diluluskan Malaysia tidak tersedia dalam set data semasa. Ramalan berkedudukan teratas model TxGNN ialah **angina Prinzmetal**, tetapi arah ini tidak disokong oleh **sebarang ujian klinikal dan kesusasteraan** — dan satu-satunya ulasan mekanistik yang tersedia berhujah sebaliknya (laporan kes menggambarkan sevoflurane *mencetuskan atau memperburuk* vasospasm koroner, bukan merawatnya).
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | General anesthesia (induction/maintenance) — specific NPRA-approved indication text not available in dataset |
-| Predicted New Indication | Prinzmetal Angina |
-| TxGNN Prediction Score | 99.78% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 6 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|-----------|
+| Petunjuk Asal | Anestezi umum (aruhan/penyelenggaraan) — teks petunjuk kelulusan NPRA khusus tidak tersedia dalam set data |
+| Petunjuk Baru Yang Diramal | Angina Prinzmetal |
+| Skor Ramalan TxGNN | 99.78% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 6 |
+| Keputusan Yang Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed mechanism of action data for sevoflurane is not available in this evidence pack (flagged as a High-severity data gap). Sevoflurane is broadly known as a halogenated ether inhalational anesthetic acting via GABA-A potentiation and NMDA receptor antagonism to produce central nervous system depression — a pharmacology unrelated to coronary vasospasm, which is the underlying pathophysiology of Prinzmetal angina.
+Data mekanisme tindakan terperinci untuk sevoflurane tidak tersedia dalam paket bukti ini (ditandai sebagai jurang data yang teruk). Sevoflurane diketahui secara luas sebagai anestetik inhalasi eter berhalogen yang bertindak melalui potensiasi GABA-A dan antagonisme reseptor NMDA untuk menghasilkan kemurungan sistem saraf pusat — satu farmakologi yang tidak berkaitan dengan vasospasm koroner, yang merupakan patofisiologi asas angina Prinzmetal.
 
-There is no mechanistic bridge between general anesthesia and Prinzmetal angina in the supplied rationale. On the contrary, the evidence annotation explicitly notes case reports of sevoflurane-associated coronary spasm — i.e., the drug may move risk in the direction opposite to therapeutic benefit for this condition. No clinical trials, ICTRP records, or PubMed literature were found linking sevoflurane to Prinzmetal angina; the prediction rests solely on TxGNN graph-similarity scoring (L5), with no corroborating clinical signal.
+Tidak ada jambatan mekanistik antara anestezi umum dan angina Prinzmetal dalam alasan yang disediakan. Sebaliknya, anotasi bukti secara jelas mencatat laporan kes vasospasm koroner yang berkaitan dengan sevoflurane — iaitu, ubat mungkin menggerakkan risiko ke arah yang bertentangan dengan manfaat terapeutik untuk keadaan ini. Tiada ujian klinikal, rekod ICTRP, atau kesusasteraan PubMed ditemui yang menghubungkan sevoflurane kepada angina Prinzmetal; ramalan bergantung semata-mata pada penilaian persamaan graf TxGNN (L5), tanpa isyarat klinikal yang menyokong.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-Currently no related clinical trials registered.
+Kini tiada ujian klinikal berkaitan yang berdaftar.
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-Currently no related literature available.
+Kini tiada kesusasteraan berkaitan yang tersedia.
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Sevoflurane holds **6 active NPRA registrations** (market status: Marketed). License-level detail (authorization numbers, product names, dosage forms, approved indication text) is not populated in the current dataset and cannot be tabulated at this time.
+Sevoflurane memegang **6 pendaftaran NPRA aktif** (status pasaran: Dipasarkan). Butiran tahap lesen (nombor kelulusan, nama produk, bentuk dos, teks petunjuk kelulusan) tidak diisi dalam set data semasa dan tidak dapat disenaraikan kini.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information. Note: TFDA/NPRA label warnings and contraindications for sevoflurane are currently marked as a **Blocking** data gap — this alone prevents a preliminary (S1) safety assessment for any repurposing candidate for this drug, independent of efficacy evidence.
+Sila rujuk pamflet produk untuk maklumat keselamatan. Catatan: amaran label TFDA/NPRA dan kontraindikasi untuk sevoflurane kini ditandai sebagai jurang data **Menghalang** — ini sahaja menghalang penilaian keselamatan awal (S1) untuk sebarang calon penggunaan semula untuk ubat ini, bebas daripada bukti keberkesanan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The top-ranked prediction (Prinzmetal angina) has no clinical or literature support, and the available mechanistic commentary suggests sevoflurane may exacerbate rather than treat coronary vasospasm. Combined with a blocking gap in label-level safety data, there is currently no basis to advance this candidate past initial screening.
+**Alasan:**
+Ramalan berkedudukan teratas (angina Prinzmetal) tidak mempunyai sokongan klinikal atau kesusasteraan, dan ulasan mekanistik yang tersedia mencadangkan sevoflurane mungkin memperburuk daripada merawat vasospasm koroner. Digabungkan dengan jurang penghalang dalam data keselamatan tahap label, kini tidak ada asas untuk memajukan calon ini melampaui saringan awal.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA product label (warnings, contraindications) — required before any S1 safety screening
-- DrugBank mechanism-of-action data to properly assess mechanistic plausibility
-- License-level Malaysia registration detail (product names, approved indication text)
-- Note: other TxGNN candidates for this drug (e.g., migraine disorder, tendinitis, fibromyalgia) also lack direct treatment evidence — the associated trials/literature address sevoflurane's use *during* anesthesia for patients with these conditions, not its use *to treat* them. None currently meet criteria to advance beyond Hold.
+**Untuk meneruskan, yang berikut diperlukan:**
+- Label produk TFDA/NPRA (amaran, kontraindikasi) — diperlukan sebelum sebarang saringan keselamatan S1
+- Data mekanisme tindakan DrugBank untuk menilai kewajaran mekanistik dengan betul
+- Butiran pendaftaran Malaysia tahap lesen (nama produk, teks petunjuk kelulusan)
+- Catatan: calon TxGNN yang lain untuk ubat ini (contohnya, gangguan migrain, tendinitis, fibromialgia) juga kekurangan bukti rawatan langsung — ujian/kesusasteraan yang berkaitan menangani penggunaan sevoflurane *semasa* anestezi untuk pesakit dengan keadaan ini, bukan penggunaannya *untuk merawat* mereka. Tiada yang memenuhi kriteria untuk memajukan melampaui Tahan.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

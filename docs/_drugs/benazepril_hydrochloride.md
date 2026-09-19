@@ -29,94 +29,95 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Benazepril Hydrochloride: Drug Repurposing Evaluation — Preliminary Report
+# Benazepril Hydrochloride: Penilaian Penggunaan Semula Ubat — Laporan Awal
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Benazepril Hydrochloride is an ACE inhibitor currently marketed in Malaysia with 2 registered products. **No new indications have been predicted by TxGNN at this time**, and critical data gaps (DrugBank ID, MOA, approved indication text, and safety information) must be resolved before a full evaluation can proceed.
+Benazepril Hydrochloride ialah penghambat ACE yang sedang dipasarkan di Malaysia dengan 2 produk terdaftar. **Tiada petunjuk penggunaan baru telah diramalkan oleh TxGNN pada masa ini**, dan jurang data penting (ID DrugBank, MOA, teks petunjuk yang diluluskan, dan maklumat keselamatan) mesti diselesaikan sebelum penilaian penuh dapat diteruskan.
 
 ---
 
-## Quick Overview
+## Gambaran Pantas
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | *(Data not available — license indication text is empty)* |
-| Predicted New Indication | **None** — no TxGNN predictions generated |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | **L5** (No prediction, no studies to evaluate) |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 2 |
-| Recommended Decision | **Hold** |
+| Petunjuk Asal | *(Data tidak tersedia — teks petunjuk lesen kosong)* |
+| Petunjuk Penggunaan Baru yang Diramalkan | **Tiada** — tiada ramalan TxGNN dijana |
+| Skor Ramalan TxGNN | N/A |
+| Tahap Bukti | **L5** (Tiada ramalan, tiada kajian untuk dinilai) |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 2 |
+| Keputusan yang Disyorkan | **Tahan** |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-There is currently **no TxGNN prediction** available for Benazepril Hydrochloride. The `predicted_indications` array is empty, meaning the model either has not been run for this drug or no candidates met the scoring threshold.
+Pada masa ini **tiada ramalan TxGNN** tersedia untuk Benazepril Hydrochloride. Tatasusunan `predicted_indications` kosong, bermakna model sama ada belum dilaksanakan untuk ubat ini atau tiada calon memenuhi ambang skor.
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on publicly known information, Benazepril is an angiotensin-converting enzyme (ACE) inhibitor that blocks the conversion of angiotensin I to angiotensin II, thereby reducing vasoconstriction and aldosterone secretion. It is widely used for the treatment of hypertension and congestive heart failure. This class of drugs has also been investigated for renoprotective effects in diabetic nephropathy and other conditions.
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia dalam pakej bukti ini. Berdasarkan maklumat yang diketahui umum, Benazepril ialah penghambat enzim angiotensin-menukar (ACE) yang menghalang penukaran angiotensin I kepada angiotensin II, dengan itu mengurangkan vasopengerutan dan sekresi aldosteron. Ia digunakan secara meluas untuk rawatan hipertensi dan kegagalan jantung kongestif. Kelas ubat ini juga telah disiasat untuk kesan nefroprotektif dalam nefropati berdiabetes dan keadaan lain.
 
-Before a drug repurposing assessment can proceed, the TxGNN prediction pipeline must be executed with a valid DrugBank mapping for Benazepril (DrugBank ID: **DB00542**, based on known public data) to generate candidate indications.
-
----
-
-## Clinical Trial Evidence
-
-Currently no predicted indication to search against. Clinical trial evidence will be gathered once a TxGNN prediction is available.
+Sebelum penilaian penggunaan semula ubat dapat diteruskan, saluran paip ramalan TxGNN mesti dilaksanakan dengan pemetaan DrugBank yang sah untuk Benazepril (ID DrugBank: **DB00542**, berdasarkan data umum yang diketahui) untuk menjana petunjuk calon.
 
 ---
 
-## Literature Evidence
+## Bukti Uji Klinikal
 
-Currently no predicted indication to search against. Literature evidence will be gathered once a TxGNN prediction is available.
+Pada masa ini tiada petunjuk ramalan untuk dicari. Bukti uji klinikal akan dikumpulkan sebaik sahaja ramalan TxGNN tersedia.
 
 ---
 
-## Malaysia Market Information
+## Bukti Literatur
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+Pada masa ini tiada petunjuk ramalan untuk dicari. Bukti literatur akan dikumpulkan sebaik sahaja ramalan TxGNN tersedia.
+
+---
+
+## Maklumat Pasaran Malaysia
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjuk yang Diluluskan |
 |---------|------|------|-----------|
-| *(empty)* | *(empty)* | *(empty)* | *(empty)* |
-| *(empty)* | *(empty)* | *(empty)* | *(empty)* |
+| *(kosong)* | *(kosong)* | *(kosong)* | *(kosong)* |
+| *(kosong)* | *(kosong)* | *(kosong)* | *(kosong)* |
 
-> **Note:** Two registrations were found by the NPRA query (query date: 2026-03-27), but the license detail fields (authorization number, product name, dosage form, approved indication) are all empty in this evidence pack. These need to be re-extracted from the NPRA database.
-
----
-
-## Safety Considerations
-
-> Please refer to the package insert for safety information. All safety fields (key warnings, contraindications, drug interactions) are currently missing from this evidence pack.
+> **Nota:** Dua pendaftaran telah ditemui oleh pertanyaan NPRA (tarikh pertanyaan: 2026-03-27), tetapi medan terperinci lesen (nombor kebenaran, nama produk, bentuk dos, petunjuk yang diluluskan) semuanya kosong dalam pakej bukti ini. Ini perlu diekstrak semula daripada pangkalan data NPRA.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
-
-**Rationale:**
-This evaluation cannot proceed because there are no TxGNN predicted indications and multiple critical data gaps remain unresolved. The evidence pack is incomplete at the most fundamental level — without a predicted indication, no repurposing assessment can be performed.
-
-**To proceed, the following is needed:**
-
-1. **DrugBank ID mapping** — Confirm DrugBank ID (likely DB00542) and integrate into the evidence pack
-2. **Re-run TxGNN prediction** — Execute the KG and DL prediction pipeline with the correct DrugBank mapping to generate candidate indications
-3. **Populate NPRA license details** — Re-query the NPRA database to fill in authorization numbers, product names, dosage forms, and approved indication text for the 2 registered products
-4. **Obtain MOA data** — Query DrugBank API to retrieve the mechanism of action (ACE inhibition pathway)
-5. **Obtain safety data** — Download and parse the package insert (仿單) PDF from NPRA/manufacturer to extract warnings, contraindications, and drug interaction information
-6. **Evidence collection** — Once a predicted indication is available, run ClinicalTrials.gov, PubMed, and ICTRP collectors for supporting evidence
+> Sila rujuk surat kapsul untuk maklumat keselamatan. Semua medan keselamatan (amaran utama, kontraindikasi, interaksi ubat) pada masa ini hilang daripada pakej bukti ini.
 
 ---
 
-### Data Gaps Summary
+## Kesimpulan dan Langkah Seterusnya
 
-| ID | Item | Severity | Remediation |
+**Keputusan: Tahan**
+
+**Alasan:**
+Penilaian ini tidak dapat diteruskan kerana tiada petunjuk ramalan TxGNN dan pelbagai jurang data kritikal tetap tidak diselesaikan. Pakej bukti tidak lengkap pada peringkat paling asas — tanpa petunjuk ramalan, tiada penilaian penggunaan semula boleh dilakukan.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+
+1. **Pemetaan ID DrugBank** — Sahkan ID DrugBank (berkemungkinan DB00542) dan sepadukan ke dalam pakej bukti
+2. **Jalankan semula ramalan TxGNN** — Laksanakan saluran paip ramalan KG dan DL dengan pemetaan DrugBank yang betul untuk menjana petunjuk calon
+3. **Isi terperinci lesen NPRA** — Pertanyaan semula pangkalan data NPRA untuk mengisi nombor kebenaran, nama produk, bentuk dos, dan teks petunjuk yang diluluskan untuk 2 produk terdaftar
+4. **Dapatkan data MOA** — Pertanyaan API DrugBank untuk mendapatkan mekanisme tindakan (laluan penghambatan ACE)
+5. **Dapatkan data keselamatan** — Muat turun dan parse PDF surat kapsul (仿單) daripada NPRA/pengeluar untuk mengekstrak amaran, kontraindikasi, dan maklumat interaksi ubat
+6. **Pengumpulan bukti** — Sebaik sahaja petunjuk ramalan tersedia, jalankan pengumpul ClinicalTrials.gov, PubMed, dan ICTRP untuk bukti sokongan
+
+---
+
+### Ringkasan Jurang Data
+
+| ID | Item | Keterukan | Remediasi |
 |----|------|----------|-------------|
-| DG001 | Package insert warnings/contraindications | **Blocking** | Download package insert PDF from NPRA and parse |
-| DG002 | Mechanism of Action (MOA) | High | Query DrugBank API |
-| — | DrugBank ID | High | Map BENAZEPRIL HYDROCHLORIDE → DB00542 |
-| — | TxGNN predicted indications | **Blocking** | Re-run prediction pipeline |
-| — | NPRA license details | Medium | Re-query NPRA with complete field extraction |
+| DG001 | Amaran/kontraindikasi surat kapsul | **Menghalang** | Muat turun PDF surat kapsul daripada NPRA dan parse |
+| DG002 | Mekanisme Tindakan (MOA) | Tinggi | Pertanyaan API DrugBank |
+| — | ID DrugBank | Tinggi | Peta BENAZEPRIL HYDROCHLORIDE → DB00542 |
+| — | Petunjuk ramalan TxGNN | **Menghalang** | Jalankan semula saluran paip ramalan |
+| — | Terperinci lesen NPRA | Sederhana | Pertanyaan semula NPRA dengan ekstraksi medan lengkap |
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

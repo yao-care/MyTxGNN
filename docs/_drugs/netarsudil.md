@@ -29,64 +29,65 @@ Tahap bukti: **L4** | Indikasi diramal: **2**
 
 </div>
 
-# Netarsudil: From Open-Angle Glaucoma to Primary Hereditary Glaucoma
+# Netarsudil: Daripada Glaukoma Sudut Terbuka kepada Glaukoma Warisan Primer
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-> Netarsudil is a Rho-kinase (ROCK) inhibitor already marketed for lowering intraocular pressure in open-angle glaucoma and ocular hypertension.
-> The TxGNN model predicts it may also be effective for **Primary Hereditary Glaucoma**,
-> but this direction is currently supported by only **1 indirectly relevant clinical trial** and **0 dedicated publications**.
+> Netarsudil adalah perencat Rho-kinase (ROCK) yang sudah dipasarkan untuk menurunkan tekanan intraokular dalam glaukoma sudut terbuka dan hipertensi okular.
+> Model TxGNN meramalkan ia mungkin juga berkesan untuk **Glaukoma Warisan Primer**,
+> tetapi arah ini kini hanya disokong oleh **1 percubaan klinikal yang relevan secara tidak langsung** dan **0 penerbitan khusus**.
 
-## Quick Overview
+## Gambaran Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | Not stated in the NPRA license records provided (fields blank); per the evidence pack's own literature/trial titles, netarsudil's established approved use is open-angle glaucoma / ocular hypertension (IOP lowering) |
-| Predicted New Indication | Primary Hereditary Glaucoma |
-| TxGNN Prediction Score | 99.50% |
-| Evidence Level | L4 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 2 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Tidak dinyatakan dalam rekod lesen NPRA yang diberikan (medan kosong); mengikut tajuk literatur/percubaan pek bukti sendiri, kegunaan yang diluluskan bagi netarsudil adalah glaukoma sudut terbuka / hipertensi okular (penurunan IOP) |
+| Petunjuk Baru Ramalan | Glaukoma Warisan Primer |
+| Skor Ramalan TxGNN | 99.50% |
+| Tahap Bukti | L4 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 2 |
+| Keputusan Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed DrugBank mechanism-of-action text is not available for this drug (data gap). Based on the literature captured in this evidence pack, netarsudil is known to act as a dual Rho-associated kinase (ROCK) and norepinephrine-transporter inhibitor. It acts directly on the trabecular meshwork cytoskeleton, increasing conventional aqueous outflow and reducing episcleral venous pressure — the mechanism underlying its established IOP-lowering effect in open-angle glaucoma and ocular hypertension.
+Teks mekanisme tindakan DrugBank terperinci tidak tersedia untuk ubat ini (jurang data). Berdasarkan literatur yang ditangkap dalam pek bukti ini, netarsudil dikenali bertindak sebagai perencat kinase yang berkait dengan Rho (ROCK) berganda dan perencat pengangkut norepinefrin. Ia bertindak terus pada jaringan jala trabekular, meningkatkan aliran keluar akueus konvensional dan mengurangkan tekanan vena episkleral — mekanisme yang mendasari kesan penurunan IOP yang telah ditetapkan dalam glaukoma sudut terbuka dan hipertensi okular.
 
-Primary hereditary glaucoma is a genetically driven subtype of glaucoma in which elevated intraocular pressure again arises from increased resistance to aqueous humor outflow, typically due to developmental abnormalities of the anterior chamber angle. Since the pathophysiological endpoint (elevated outflow resistance → elevated IOP) is shared with the already-approved indication, there is a plausible mechanistic rationale for extrapolating netarsudil's effect to this hereditary subtype.
+Glaukoma warisan primer adalah subtip glaukoma yang didorong secara genetik di mana tekanan intraokular yang meningkat kembali timbul daripada rintangan yang meningkat kepada aliran keluar humor akueus, biasanya disebabkan oleh keterlaluan perkembangan sudut kamar depan. Oleh kerana titik hujung patofisiologi (rintangan aliran keluar yang meningkat → IOP yang meningkat) dikongsi dengan petunjuk yang sudah diluluskan, terdapat rasional mekanisme yang munasabah untuk memperluaskan kesan netarsudil kepada subtip warisan ini.
 
-However, this extrapolation is not yet clinically validated for this specific population. The only trial mapped to this indication, NCT06969586, enrolls patients with Fuchs endothelial corneal dystrophy (some of whom have glaucoma) and measures corneal endothelial cell protection after cataract surgery — not IOP-lowering efficacy in primary hereditary glaucoma. No trial has been designed with this hereditary subtype as its primary study population or endpoint.
+Walau bagaimanapun, ekstrapolasi ini belum lagi disahkan secara klinikal untuk populasi warisan spesifik ini. Satu-satunya percubaan yang dipetakan kepada petunjuk ini, NCT06969586, mendaftarkan pesakit dengan distrofi kornea endotel Fuchs (beberapa di antaranya mempunyai glaukoma) dan mengukur perlindungan sel endotel kornea selepas pembedahan katarak — bukan keberkesanan penurunan IOP dalam glaukoma warisan primer. Tiada percubaan yang telah dirancang dengan subtip warisan ini sebagai populasi kajian utama atau titik akhir.
 
-## Clinical Trial Evidence
+## Bukti Percubaan Klinikal
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT06969586](https://clinicaltrials.gov/study/NCT06969586) | N/A | Enrolling by Invitation | 50 | Evaluates whether topical ROCK inhibitors protect corneal endothelial cells after cataract surgery in patients with glaucoma and Fuchs endothelial corneal dystrophy — a corneal-safety study, not an efficacy trial in primary hereditary glaucoma |
+| [NCT06969586](https://clinicaltrials.gov/study/NCT06969586) | Tidak Tersedia | Mendaftarkan Mengikut Jemputan | 50 | Menilai sama ada perencat ROCK topikal melindungi sel endotel kornea selepas pembedahan katarak pada pesakit dengan glaukoma dan distrofi kornea endotel Fuchs — kajian keselamatan kornea, bukan percubaan keberkesanan dalam glaukoma warisan primer |
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no related literature available
+Kini tiada literatur berkaitan tersedia
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-NPRA records confirm netarsudil is registered under **2 authorizations** and is currently marketed, but the detailed fields (authorization number, product name, dosage form, approved indication text) were not returned in this data pull and are unavailable for citation here.
+Rekod NPRA mengesahkan netarsudil didaftarkan di bawah **2 kebenaran** dan kini dipasarkan, tetapi medan terperinci (nombor kebenaran, nama produk, bentuk dos, teks petunjuk yang diluluskan) tidak dikembalikan dalam tarik data ini dan tidak tersedia untuk petikan di sini.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The mechanistic rationale is plausible (shared outflow-resistance pathophysiology with the drug's approved use), but evidence is L4 — the only mapped trial does not test efficacy in this hereditary glaucoma subtype, and there is no supporting literature. A TFDA/NPRA-level safety review is also blocked pending package insert data (DG001).
+**Rasional:**
+Rasional mekanisme adalah munasabah (patofisiologi rintangan aliran keluar berkongsi dengan kegunaan ubat yang diluluskan), tetapi bukti adalah L4 — satu-satunya percubaan yang dipetakan tidak menguji keberkesanan dalam subtip glaukoma warisan ini, dan tiada literatur yang menyokong. Semakan keselamatan peringkat TFDA/NPRA juga disekat sementara data sisipan pakej tertangguh (DG001).
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert (warnings, contraindications) — currently a blocking data gap
-- Confirmed DrugBank mechanism-of-action record
-- A clinical trial or observational study with primary hereditary glaucoma patients as the primary population/endpoint
-- Complete Malaysia license detail (authorization numbers, product names, approved indication text)
+**Untuk meneruskan, yang berikut diperlukan:**
+- Sisipan pakej TFDA/NPRA (amaran, kontraindikasi) — kini jurang data yang menyekat
+- Rekod mekanisme tindakan DrugBank yang disahkan
+- Percubaan klinikal atau kajian pemerhatian dengan pesakit glaukoma warisan primer sebagai populasi/titik akhir utama
+- Detail lesen Malaysia yang lengkap (nombor kebenaran, nama produk, teks petunjuk yang diluluskan)
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

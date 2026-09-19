@@ -29,85 +29,86 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Valsartan: From Hypertension to Hypertension — Confirmatory Signal, Not a Novel Repurposing Candidate
+# Valsartan: Dari Hipertensi ke Hipertensi — Isyarat Pengesahan, Bukan Calon Penggunaan Semula Ubat
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Valsartan (DrugBank DB00177) is a widely-used angiotensin II receptor blocker; its predicted new indication from this Evidence Pack — **Hypertensive Disorder / Hypertension** — is the drug's own long-established primary indication rather than a genuinely new therapeutic use.
-The prediction is backed by **50 clinical trials** and **20 publications**, but this evidence confirms valsartan's known antihypertensive efficacy rather than demonstrating repurposing into a new disease area.
-Because the original-indication text and safety label data are both missing from this Evidence Pack, the candidate cannot yet clear a safety initial screen.
+Valsartan (DrugBank DB00177) adalah penyekat reseptor angiotensin II yang digunakan secara meluas; indikasinya yang diramalkan baru daripada Pakej Bukti ini — **Gangguan Hipertensi / Hipertensi** — adalah indikasinya primer yang telah lama ditubuhkan sendiri daripada ubat ini dan bukannya penggunaan terapeutik yang benar-benar baru.
+Ramalan ini disokong oleh **50 percubaan klinikal** dan **20 penerbitan**, tetapi bukti ini mengesahkan keberkesanan antihipertensi valsartan yang telah diketahui daripada menunjukkan penyusunan semula tujuan ke kawasan penyakit yang baru.
+Kerana teks indikasinya asal dan data label keselamatan kedua-duanya hilang daripada Pakej Bukti ini, calon tidak dapat lagi melepasi layar keselamatan awal.
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Not documented in this Evidence Pack (all NPRA license `approved_indication_text` fields are empty) |
-| Predicted New Indication | Hypertensive disorder (= Hypertension) |
-| TxGNN Prediction Score | 0% (reported as 0.0 for all 5 candidates — likely a scoring/normalization data gap, not a true near-zero prediction) |
-| Evidence Level | L1 (≥2 completed Phase 3 RCTs on valsartan in hypertension) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 46 |
-| Recommended Decision | Hold |
+| Indikasinya Asal | Tidak didokumenkan dalam Pakej Bukti ini (semua medan `approved_indication_text` lesen NPRA kosong) |
+| Indikasinya Baru yang Diramalkan | Gangguan hipertensi (= Hipertensi) |
+| Skor Ramalan TxGNN | 0% (dilaporkan sebagai 0.0 untuk semua 5 calon — berkemungkinan jurang data pemarkahan/normalisasi, bukan ramalan sejati berhampiran sifar) |
+| Tahap Bukti | L1 (≥2 RCT Fasa 3 yang diselesaikan mengenai valsartan dalam hipertensi) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 46 |
+| Keputusan yang Disyorkan | Tunggu |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data is not available (DrugBank MOA query returned a gap). Based on well-established pharmacological knowledge, valsartan is an angiotensin II receptor blocker (ARB) that inhibits the AT1 receptor, reducing angiotensin II–induced vasoconstriction and aldosterone secretion — the mechanism underlying its decades-long use as a first-line antihypertensive.
+Pada masa kini, data mekanisme tindakan terperinci tidak tersedia (pertanyaan MOA DrugBank mengembalikan jurang). Berdasarkan pengetahuan farmakologi yang ditubuhkan dengan baik, valsartan adalah penyekat reseptor angiotensin II (ARB) yang menghalang reseptor AT1, mengurangkan vasokonstriksi dan sekresi aldosteron yang disebabkan oleh angiotensin II — mekanisme yang mendasari penggunaannya selama beberapa dekad sebagai antihipertensi barisan pertama.
 
-All five ranked predictions in this Evidence Pack are variants of the same disease concept — "hypertensive disorder" and "hypertension" — which is valsartan's own textbook indication. This is not a case of mechanistic extrapolation from one disease area to an unrelated one (as would be expected in genuine repurposing); it is the model correctly re-identifying the drug's established use. The very large trial and literature base reflects decades of confirmatory antihypertensive research (including combination therapy with amlodipine, HCTZ, sacubitril, aliskiren, etc.) rather than exploratory evidence for a novel indication.
+Semua lima ramalan yang disenaraikan dalam Pakej Bukti ini adalah varian daripada konsep penyakit yang sama — "gangguan hipertensi" dan "hipertensi" — yang merupakan indikasinya sendiri yang diajar dalam buku teks valsartan. Ini bukan kes ekstrapolasi mekanistik daripada satu kawasan penyakit ke satu yang tidak berkaitan (seperti yang dijangka dalam penyusunan semula tujuan yang asli); ia adalah model yang betul mengenali penggunaan ubat yang ditubuhkan. Pangkalan percubaan dan kesusasteraan yang sangat besar mencerminkan beberapa dekad penyelidikan antihipertensi yang mengesahkan (termasuk terapi gabungan dengan amlodipina, HCTZ, sacubitril, aliskiren, dsb.) daripada bukti penerokaan untuk indikasinya yang baru.
 
-Given this, the practical value of this candidate lies less in "should Valsartan be repurposed for hypertension" (already true) and more as a signal that the TxGNN pipeline should exclude same-indication matches, or that upstream `original_indications` data needs to be populated so true novelty can be assessed.
+Memandangkan ini, nilai praktikal calon ini terletak kurang pada "seharusnya Valsartan disusun semula tujuannya untuk hipertensi" (sudah benar) dan lebih banyak sebagai isyarat bahawa saluran paip TxGNN harus mengecualikan padanan indikasinya yang sama, atau bahawa data `original_indications` hulu perlu diisi supaya noveliti sejati dapat dinilai.
 
-## Clinical Trial Evidence
+## Bukti Percubaan Klinikal
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT00696436](https://clinicaltrials.gov/study/NCT00696436) | Phase 3 | Completed | 1291 | Azilsartan medoxomil vs. placebo, valsartan, and olmesartan in essential hypertension |
-| [NCT06236061](https://clinicaltrials.gov/study/NCT06236061) | Phase 3 | Completed | 718 | LCZ696 (sacubitril/valsartan)/amlodipine combination vs. LCZ696 monotherapy in grade 1–2 hypertension |
-| [NCT00413049](https://clinicaltrials.gov/study/NCT00413049) | Phase 3 | Completed | 698 | Valsartan/amlodipine 80/5 mg vs. amlodipine 5 mg monotherapy in mild-to-moderate hypertension |
-| [NCT00311740](https://clinicaltrials.gov/study/NCT00311740) | Phase 3 | Completed | 582 | Factorial study of valsartan + hydrochlorothiazide combined and alone in essential hypertension |
-| [NCT00171093](https://clinicaltrials.gov/study/NCT00171093) | Phase 3 | Completed | 369 | Valsartan (320mg) + simvastatin (80mg) combination vs. monotherapies in hypertension and hypercholesterolemia |
-| [NCT00338936](https://clinicaltrials.gov/study/NCT00338936) | Phase 3 | Completed | 362 | 52-week extension study of valsartan/HCTZ combination long-term safety and efficacy |
-| [NCT07116863](https://clinicaltrials.gov/study/NCT07116863) | Phase 3 | Completed | 286 | KDF1901 (valsartan/amlodipine/chlorthalidone triple combination) in inadequately controlled essential hypertension |
-| [NCT00392262](https://clinicaltrials.gov/study/NCT00392262) | Phase 3 | Completed | 224 | Valsartan 160mg + amlodipine 5mg in patients not responding to amlodipine/felodipine monotherapy |
-| [NCT00360178](https://clinicaltrials.gov/study/NCT00360178) | Phase 3 | Completed | 198 | Fixed-dose valsartan 160mg + HCTZ 25mg vs. free combination of candesartan + HCTZ |
-| [NCT00171028](https://clinicaltrials.gov/study/NCT00171028) | Phase 3 | Completed | 90 | Dose-response and safety of valsartan in pediatric hypertension patients aged 1–5 years |
+| [NCT00696436](https://clinicaltrials.gov/study/NCT00696436) | Fasa 3 | Diselesaikan | 1291 | Azilsartan medoxomil vs. plasebo, valsartan, dan olmesartan dalam hipertensi primer |
+| [NCT06236061](https://clinicaltrials.gov/study/NCT06236061) | Fasa 3 | Diselesaikan | 718 | Gabungan LCZ696 (sacubitril/valsartan)/amlodipina vs. monoterapi LCZ696 dalam hipertensi darjah 1–2 |
+| [NCT00413049](https://clinicaltrials.gov/study/NCT00413049) | Fasa 3 | Diselesaikan | 698 | Valsartan/amlodipina 80/5 mg vs. monoterapi amlodipina 5 mg dalam hipertensi ringan hingga sederhana |
+| [NCT00311740](https://clinicaltrials.gov/study/NCT00311740) | Fasa 3 | Diselesaikan | 582 | Kajian faktorial valsartan + hidroklorotiazid digabungkan dan sendirian dalam hipertensi primer |
+| [NCT00171093](https://clinicaltrials.gov/study/NCT00171093) | Fasa 3 | Diselesaikan | 369 | Gabungan valsartan (320mg) + simvastatin (80mg) vs. monoterapi dalam hipertensi dan hiperlipidemia |
+| [NCT00338936](https://clinicaltrials.gov/study/NCT00338936) | Fasa 3 | Diselesaikan | 362 | Kajian sambungan 52 minggu bagi gabungan valsartan/HCTZ keselamatan dan keberkesanan jangka panjang |
+| [NCT07116863](https://clinicaltrials.gov/study/NCT07116863) | Fasa 3 | Diselesaikan | 286 | KDF1901 (gabungan tiga arah valsartan/amlodipina/klortalidona) dalam hipertensi primer yang tidak dapat dikawal dengan memadai |
+| [NCT00392262](https://clinicaltrials.gov/study/NCT00392262) | Fasa 3 | Diselesaikan | 224 | Valsartan 160mg + amlodipina 5mg pada pesakit yang tidak bertindak balas kepada monoterapi amlodipina/felodipina |
+| [NCT00360178](https://clinicaltrials.gov/study/NCT00360178) | Fasa 3 | Diselesaikan | 198 | Dosis tetap valsartan 160mg + HCTZ 25mg vs. gabungan bebas kandesartan + HCTZ |
+| [NCT00171028](https://clinicaltrials.gov/study/NCT00171028) | Fasa 3 | Diselesaikan | 90 | Tindak balas dos dan keselamatan valsartan dalam pesakit hipertensi kanak-kanak berusia 1–5 tahun |
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [39632589](https://pubmed.ncbi.nlm.nih.gov/39632589/) | 2025 | RCT | J Clin Hypertens | PARASOL study: sacubitril/valsartan noninferior to amlodipine in Japanese essential hypertension |
-| [35058583](https://pubmed.ncbi.nlm.nih.gov/35058583/) | 2022 | RCT | Hypertens Res | Phase 3 RCT: sacubitril/valsartan vs. olmesartan in Japanese essential hypertension (n=1161) |
-| [28093466](https://pubmed.ncbi.nlm.nih.gov/28093466/) | 2017 | RCT | Hypertension | PARAMETER study: sacubitril/valsartan vs. olmesartan on central hemodynamics in elderly systolic hypertension |
-| [40739095](https://pubmed.ncbi.nlm.nih.gov/40739095/) | 2025 | RCT (Phase 2) | Nature Communications | REVERSE-LVH trial: sacubitril/valsartan vs. valsartan for hypertensive heart disease fibrosis |
-| [39927814](https://pubmed.ncbi.nlm.nih.gov/39927814/) | 2025 | Meta-analysis | J Hypertens | Efficacy/safety of sacubitril-valsartan in hypertensive dialysis patients (19 studies, n=1597) |
-| [35672897](https://pubmed.ncbi.nlm.nih.gov/35672897/) | 2022 | Systematic review/meta-analysis | Ann Palliat Med | Sacubitril/valsartan in middle-aged and elderly hypertensive patients |
-| [22352121](https://pubmed.ncbi.nlm.nih.gov/22352121/) | 2011 | Post-marketing surveillance | Blood Press Suppl | Efficacy and safety of valsartan in hypertensive Taiwanese patients |
-| [30664018](https://pubmed.ncbi.nlm.nih.gov/30664018/) | 2022 | Review | Am J Ther | Overview of sacubitril/valsartan efficacy in hypertension |
-| [25604204](https://pubmed.ncbi.nlm.nih.gov/25604204/) | 2014 | Review | Anadolu Kardiyol Derg | Review of RAS blockade and valsartan in hypertension management |
-| [10353300](https://pubmed.ncbi.nlm.nih.gov/10353300/) | 1999 | Review | Drugs | Valsartan/hydrochlorothiazide combination pharmacology and clinical trial review |
+| [39632589](https://pubmed.ncbi.nlm.nih.gov/39632589/) | 2025 | RCT | J Clin Hypertens | Kajian PARASOL: sacubitril/valsartan tidak lebih rendah daripada amlodipina dalam hipertensi primer Jepun |
+| [35058583](https://pubmed.ncbi.nlm.nih.gov/35058583/) | 2022 | RCT | Hypertens Res | RCT Fasa 3: sacubitril/valsartan vs. olmesartan dalam hipertensi primer Jepun (n=1161) |
+| [28093466](https://pubmed.ncbi.nlm.nih.gov/28093466/) | 2017 | RCT | Hypertension | Kajian PARAMETER: sacubitril/valsartan vs. olmesartan untuk hemodinamik pusat dalam hipertensi sistolik pada pesakit warga tua |
+| [40739095](https://pubmed.ncbi.nlm.nih.gov/40739095/) | 2025 | RCT (Fasa 2) | Nature Communications | Percubaan REVERSE-LVH: sacubitril/valsartan vs. valsartan untuk fibrosis dalam penyakit jantung hipertensi |
+| [39927814](https://pubmed.ncbi.nlm.nih.gov/39927814/) | 2025 | Meta-analisis | J Hypertens | Keberkesanan/keselamatan sacubitril-valsartan dalam pesakit dialisis hipertensi (19 kajian, n=1597) |
+| [35672897](https://pubmed.ncbi.nlm.nih.gov/35672897/) | 2022 | Ulasan sistematik/meta-analisis | Ann Palliat Med | Sacubitril/valsartan dalam pesakit hipertensi umur pertengahan dan warga tua |
+| [22352121](https://pubmed.ncbi.nlm.nih.gov/22352121/) | 2011 | Pengawasan pasca-pemasaran | Blood Press Suppl | Keberkesanan dan keselamatan valsartan dalam pesakit hipertensi Taiwan |
+| [30664018](https://pubmed.ncbi.nlm.nih.gov/30664018/) | 2022 | Ulasan | Am J Ther | Gambaran keseluruhan keberkesanan sacubitril/valsartan dalam hipertensi |
+| [25604204](https://pubmed.ncbi.nlm.nih.gov/25604204/) | 2014 | Ulasan | Anadolu Kardiyol Derg | Ulasan penghalang RAS dan valsartan dalam pengurusan hipertensi |
+| [10353300](https://pubmed.ncbi.nlm.nih.gov/10353300/) | 1999 | Ulasan | Ubat-ubatan | Farmakologi dan ulasan percubaan klinikal gabungan valsartan/hidroklorotiazid |
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Detailed licence-level fields (licence number, product name, dosage form, manufacturer, approved indication text) were not populated in this Evidence Pack, despite 46 total registrations being on record. Licence-level detail needs to be re-pulled from the source registry before it can be reported here.
+Medan peringkat lesen yang terperinci (nombor lesen, nama produk, bentuk dos, pengilang, teks indikasinya yang diluluskan) tidak diisi dalam Pakej Bukti ini, walaupun 46 pendaftaran keseluruhan berada dalam rekod. Perincian peringkat lesen perlu ditarik semula daripada pendaftaran sumber sebelum ia dapat dilaporkan di sini.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tunggu**
 
-**Rationale:**
-The Blocking-severity data gap (DG001: TFDA/NPRA label warnings and contraindications) prevents the S1 safety initial screen from being completed. Separately, the "predicted new indication" in this candidate is the same disease as valsartan's well-known original indication, so this record does not currently represent a validated novel repurposing opportunity — it more likely reflects a data-pipeline artifact (missing `original_indications`, and a uniformly 0.0 TxGNN score across all five candidates suggests a scoring issue rather than a true near-zero signal).
+**Alasan:**
+Jurang data kritikal (DG001: amaran label TFDA/NPRA dan kontraindikasi) menghalang layar keselamatan awal S1 daripada diselesaikan. Secara berasingan, "indikasinya yang diramalkan baru" dalam calon ini adalah penyakit yang sama seperti indikasinya yang diketahui dengan baik asal valsartan, jadi rekod ini tidak semestinya mewakili peluang penyusunan semula tujuan yang baru disahkan — ia lebih berkemungkinan mencerminkan artifak saluran paip data (hilang `original_indications`, dan skor TxGNN yang seragam 0.0 di semua lima calon mencadangkan isu penilaian skor daripada isyarat sejati berhampiran sifar).
 
-**To proceed, the following is needed:**
-- Populate `original_indications` and NPRA `approved_indication_text` so true indication novelty can be assessed against the prediction
-- Retrieve TFDA/NPRA product label warnings and contraindications to complete the S1 safety screen (DG001)
-- Query DrugBank for mechanism of action (DG002)
-- Investigate why TxGNN score is reported as 0.0 for all ranked candidates and re-run scoring if this is a pipeline defect
-- Re-evaluate whether this candidate should be filtered out of the repurposing queue as a same-indication (non-novel) match
+**Untuk meneruskan, yang berikut diperlukan:**
+- Isi `original_indications` dan teks `approved_indication_text` NPRA supaya noveliti indikasinya sejati dapat dinilai berbanding ramalan
+- Ambil amaran label produk TFDA/NPRA dan kontraindikasi untuk melengkapkan layar keselamatan awal S1 (DG001)
+- Soal DrugBank untuk mekanisme tindakan (DG002)
+- Siasat mengapa skor TxGNN dilaporkan sebagai 0.0 untuk semua calon yang disenaraikan dan jalankan semula penilaian skor jika ini adalah kecacatan saluran paip
+- Nilaikan semula sama ada calon ini harus ditapis keluar daripada barisan penyusunan semula tujuan sebagai padanan indikasinya yang sama (bukan novel)
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

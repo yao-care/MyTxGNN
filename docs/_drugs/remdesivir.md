@@ -29,74 +29,75 @@ Tahap bukti: **L5** | Indikasi diramal: **6**
 
 </div>
 
-# Remdesivir: From COVID-19 to Multiple Endocrine Neoplasia
+# Remdesivir: Dari COVID-19 kepada Multiple Endocrine Neoplasia
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Remdesivir is a nucleotide analogue antiviral prodrug most widely known for treating COVID-19 (SARS-CoV-2 infection). The TxGNN model predicts it may be effective for **Multiple Endocrine Neoplasia (MEN)**, but this pairing currently has **0 clinical trials** and **0 publications** supporting it — the prediction rests on the model score alone.
+Remdesivir adalah prodrug antivirus analogue nukleotida yang paling dikenali secara meluas untuk merawat COVID-19 (jangkitan SARS-CoV-2). Model TxGNN meramalkan ia mungkin berkesan untuk **Multiple Endocrine Neoplasia (MEN)**, tetapi pasangan ini pada masa kini tidak mempunyai **0 ujian klinikal** dan **0 penerbitan** yang menyokongnya — ramalan bergantung pada skor model sahaja.
 
 ---
 
-## Quick Overview
+## Gambaran Keseluruhan Cepat
 
-| Item | Content |
+| Perkara | Kandungan |
 |------|------|
-| Original Indication | COVID-19 (SARS-CoV-2 infection) — based on the drug's publicly known global indication; NPRA license indication text is not available in this evidence pack |
-| Predicted New Indication | Multiple Endocrine Neoplasia |
-| TxGNN Prediction Score | 99.50% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+| Petunjuk Asal | COVID-19 (jangkitan SARS-CoV-2) — berdasarkan petunjuk global yang diketahui secara umum untuk ubat; teks petunjuk lesen NPRA tidak tersedia dalam pakej bukti ini |
+| Petunjuk Baru Diramalkan | Multiple Endocrine Neoplasia |
+| Skor Ramalan TxGNN | 99.50% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data is not available for this candidate. Based on known information, remdesivir is a nucleotide analogue prodrug that inhibits the viral RNA-dependent RNA polymerase (RdRp), and its clinical use has centered on RNA viral infections — principally COVID-19, with earlier investigational use in Ebola virus disease.
+Pada masa kini, data mekanisme tindakan terperinci tidak tersedia untuk calon ini. Berdasarkan maklumat yang diketahui, remdesivir adalah prodrug analogue nukleotida yang menghalang polimerase RNA bergantung pada RNA virus (RdRp), dan penggunaan klinikal telahnya berpusat pada jangkitan virus RNA — terutamanya COVID-19, dengan penggunaan investigasi awal dalam penyakit virus Ebola.
 
-Multiple Endocrine Neoplasia is a hereditary endocrine tumour syndrome driven by germline mutations in genes such as *RET* or *MEN1*, involving tumour-suppressor/oncogene pathways in endocrine tissue. This is mechanistically unrelated to viral RNA replication, and there is no known pharmacological pathway connecting an RdRp inhibitor to MEN pathogenesis.
+Multiple Endocrine Neoplasia adalah sindrom tumor endokrin bersifat turunan yang didorong oleh mutasi germline dalam gen seperti *RET* atau *MEN1*, melibatkan laluan penyembah tumor/onkogen dalam tisu endokrin. Ini tidak berkaitan secara mekanis dengan replikasi RNA virus, dan tiada laluan farmakoloji yang diketahui menghubungkan penghambat RdRp kepada patogenesis MEN.
 
-Given the absence of any clinical trials or literature linking remdesivir to MEN, and the lack of a plausible mechanistic rationale, this prediction is most likely a knowledge-graph artifact — possibly arising from indirect graph paths (e.g., shared "infection–oncology comorbidity" nodes) rather than a genuine pharmacological signal. The high TxGNN score alone is not sufficient grounds to pursue this candidate.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+Memandangkan ketiadaan sebarang ujian klinikal atau kesusasteraan yang menghubungkan remdesivir dengan MEN, dan kekurangan rasional mekanis yang munasabah, ramalan ini kemungkinan besar adalah artifak graf pengetahuan — mungkin timbul dari laluan graf tidak langsung (cth., nod "jangkitan–onkologi komorbiditi" bersama) dan bukannya isyarat farmakoloji yang tulen. Skor TxGNN yang tinggi sahaja tidak mencukupi untuk melanjutkan calon ini.
 
 ---
 
-## Literature Evidence
+## Bukti Ujian Klinikal
 
-Currently no related literature available.
-
----
-
-## Malaysia Market Information
-
-The NPRA record indicates the drug is marketed in Malaysia with 1 registered licence; however, detailed licence number, product name, dosage form, and approved indication text are not available in the current evidence pack.
+Pada masa kini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ---
 
-## Safety Considerations
+## Bukti Kesusasteraan
 
-Please refer to the package insert for safety information.
+Pada masa kini tiada kesusasteraan berkaitan yang tersedia.
 
 ---
 
-## Conclusion and Next Steps
+## Maklumat Pasaran Malaysia
 
-**Decision: Hold**
+Rekod NPRA menunjukkan ubat tersebut dipasarkan di Malaysia dengan 1 lesen berdaftar; bagaimanapun, nombor lesen terperinci, nama produk, bentuk dos, dan teks petunjuk yang diluluskan tidak tersedia dalam pakej bukti semasa.
 
-**Rationale:**
-The predicted indication (Multiple Endocrine Neoplasia) has no supporting clinical trials or literature, and no plausible mechanistic link to remdesivir's known antiviral (RdRp-inhibitory) activity — the evidence level is L5 (model prediction only), consistent with a likely false-positive knowledge-graph connection.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert (warnings, contraindications) — currently a blocking data gap
-- Confirmed mechanism of action data from DrugBank
-- Any preclinical or case-level evidence specifically linking remdesivir to endocrine tumour pathways, before further investment in this candidate
-- Note: the #2-ranked candidate (HIV infectious disease) in this evidence pack has more attached trials/literature, but on review those records are actually COVID-19 studies mismapped to the HIV disease label — this indicates a broader disease-mapping data quality issue in the pipeline that should be corrected before re-scoring other candidates for this drug.
+## Pertimbangan Keselamatan
+
+Sila rujuk lembaran maklumat produk untuk maklumat keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Alasan:**
+Petunjuk yang diramalkan (Multiple Endocrine Neoplasia) tidak mempunyai ujian klinikal atau kesusasteraan yang menyokong, dan tiada pautan mekanis yang munasabah kepada aktiviti antivirus remdesivir (perencat RdRp) — tahap bukti ialah L5 (ramalan model sahaja), konsisten dengan sambungan graf pengetahuan palsu positif yang berkemungkinan.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Lembaran maklumat produk TFDA/NPRA (amaran, kontraindikasi) — pada masa kini jurang data yang menyekat
+- Data mekanisme tindakan yang disahkan dari DrugBank
+- Sebarang bukti pra-klinikal atau peringkat kes khusus yang menghubungkan remdesivir kepada laluan tumor endokrin, sebelum pelaburan lanjutan dalam calon ini
+- Nota: calon bertaraf #2 (penyakit jangkitan HIV) dalam pakej bukti ini mempunyai lebih banyak ujian yang dilampirkan/kesusasteraan, tetapi semasa semakan rekod tersebut sebenarnya kajian COVID-19 yang dipetakan salah kepada label penyakit HIV — ini menunjukkan isu kualiti data pemetaan penyakit yang lebih luas dalam saluran paip yang harus diperbetulkan sebelum pemberian skor semula calon lain untuk ubat ini.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,88 +29,89 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Amiodarone Hydrochloride: Drug Repurposing Evaluation — Awaiting TxGNN Predictions
+# Amiodarone Hydrochloride: Penilaian Pemanfaatan Semula Ubat — Menunggu Ramalan TxGNN
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Amiodarone Hydrochloride is a well-established Class III antiarrhythmic agent used for the management of ventricular and supraventricular arrhythmias.
-**No TxGNN repurposing predictions have been generated yet** for this compound — the prediction pipeline has not been completed for this candidate.
-This report documents the current data status and outlines the steps required before a full repurposing evaluation can proceed.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Antiarrhythmic agent (formal approved indication text pending retrieval) |
-| Predicted New Indication | Not yet generated |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 — prediction pipeline not yet completed |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 7 |
-| Recommended Decision | **Hold** — critical data gaps must be resolved first |
+Amiodarone Hydrochloride ialah agen antiaritmik Kelas III yang telah mantap digunakan untuk pengurusan aritmia ventrikel dan supraventrikel.
+**Tiada ramalan pemanfaatan semula TxGNN yang telah dijana** untuk sebatian ini — saluran paip ramalan belum selesai untuk calon ini.
+Laporan ini mendokumenkan status data semasa dan menggariskan langkah-langkah yang diperlukan sebelum penilaian pemanfaatan semula lengkap dapat diteruskan.
 
 ---
 
-## Why Is This Prediction Reasonable?
+## Gambaran Keseluruhan Pantas
 
-No TxGNN repurposing predictions have been returned for Amiodarone Hydrochloride at this time, so a mechanistic rationale for a specific new indication cannot be provided in this report.
-
-From established pharmacological knowledge, Amiodarone is a structurally unique Class III antiarrhythmic that exerts effects across multiple ion channels — blocking potassium, sodium, and calcium channels — while also exhibiting alpha- and beta-adrenergic blocking activity. This unusually broad electrophysiological profile has historically prompted researchers to explore its potential beyond arrhythmia, including in inflammatory conditions, certain infections, and even oncological contexts, though none of these directions have been formally evaluated through the TxGNN pipeline for this candidate.
-
-Once the prediction pipeline is completed and a top-ranked disease target is identified, this section will be updated with a full mechanistic bridging analysis linking Amiodarone's known MOA to the predicted new indication.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered — TxGNN repurposing prediction is pending. Once a target indication is identified, clinical trial evidence will be populated here.
+| Item | Kandungan |
+|------|-----------|
+| Indikasi Asal | Agen antiaritmik (teks indikasi yang diluluskan secara rasmi masih dalam pemerolehan) |
+| Indikasi Baharu yang Diramalkan | Belum dijana lagi |
+| Skor Ramalan TxGNN | T/K |
+| Tahap Bukti | L5 — saluran paip ramalan belum selesai |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 7 |
+| Keputusan yang Disyorkan | **Tahan** — jurang data kritis mesti diselesaikan terlebih dahulu |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available — TxGNN repurposing prediction is pending. Once a target indication is identified, supporting publications will be summarised here.
+Tiada ramalan pemanfaatan semula TxGNN telah dikembalikan untuk Amiodarone Hydrochloride pada masa ini, jadi nisbah mekanik untuk indikasi baharu yang spesifik tidak dapat diberikan dalam laporan ini.
 
----
+Dari pengetahuan farmakoloji yang telah ditubuhkan, Amiodarone adalah agen antiaritmik Kelas III yang unik secara struktural yang menghasilkan kesan merentas saluran ion berganda — menyekat saluran kalium, natrium, dan kalsium — sambil juga mempamerkan aktiviti penyekatan alfa- dan beta-adrenergik. Profil elektrofisiologi yang luar biasa luas ini telah secara sejarah mendorong penyelidik untuk meneroka potensinya di luar aritmia, termasuk dalam keadaan radang, jangkitan tertentu, dan bahkan konteks onkologi, walaupun tiada arah ini yang telah dinilai secara rasmi melalui saluran paip TxGNN untuk calon ini.
 
-## Malaysia Market Information
-
-Amiodarone Hydrochloride holds **7 product registrations** in Malaysia. However, the detailed licence records (product names, dosage forms, manufacturers, and approved indication text) were not returned in this Evidence Pack. The table below reflects the current data state; full details should be retrieved directly from the NPRA product registration database.
-
-| Authorisation Number | Product Name | Dosage Form | Approved Indication |
-|----------------------|--------------|-------------|---------------------|
-| (Pending retrieval) | — | — | — |
-
-> **Note:** 7 registrations are confirmed as active. Full licence details require supplementation from the NPRA database query.
+Setelah saluran paip ramalan selesai dan sasaran penyakit berpangkat teratas dikenal pasti, bahagian ini akan dikemas kini dengan analisis sambungan mekanik lengkap yang menghubungkan MOA Amiodarone yang diketahui dengan indikasi baharu yang diramalkan.
 
 ---
 
-## Safety Considerations
+## Bukti Percubaan Klinikal
 
-Full safety data (warnings, contraindications, and key precautions) could not be assessed from this Evidence Pack. Retrieval of the official package insert is a **blocking requirement** before this candidate can advance to safety pre-screening (see Data Gaps below).
-
-Based on widely published clinical literature, Amiodarone is broadly recognised as a drug with a significant interaction profile — it is a potent inhibitor of CYP2C9, CYP3A4, and P-glycoprotein, and carries well-documented risks including pulmonary toxicity, hepatotoxicity, thyroid dysfunction (both hypo- and hyperthyroidism), and corneal microdeposits. These known risks must be formally verified against the NPRA-approved package insert before any repurposing safety assessment proceeds.
-
-No drug–drug interaction data was returned by the DDI query in this Evidence Pack.
+Kini tiada percubaan klinikal yang berkaitan telah didaftarkan — ramalan pemanfaatan semula TxGNN sedang dipertahankan. Setelah indikasi sasaran dikenal pasti, bukti percubaan klinikal akan diisi di sini.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Kesusasteraan
 
-**Decision: Hold**
+Kini tiada kesusasteraan yang berkaitan tersedia — ramalan pemanfaatan semula TxGNN sedang dipertahankan. Setelah indikasi sasaran dikenal pasti, penerbitan sokongan akan diringkaskan di sini.
 
-**Rationale:**
-No TxGNN repurposing predictions are currently available, and two critical data gaps — safety warnings/contraindications (blocking severity) and mechanism of action (high severity) — must be resolved before this candidate can enter the standard evaluation workflow.
+---
 
-**To proceed, the following is needed:**
+## Maklumat Pasaran Malaysia
 
-1. **[Blocking — DG001]** Retrieve the official package insert (warnings and contraindications) from the TFDA/NPRA website to enable Safety Pre-screening Step S1
-2. **[High — DG002]** Query the DrugBank API to obtain the full MOA, drug categories, and cytotoxicity data; confirm the DrugBank ID (currently unresolved) to unlock DDI analysis
-3. **[Pipeline]** Complete the TxGNN prediction run for Amiodarone Hydrochloride to generate ranked repurposing candidates — without this, no mechanistic or evidence analysis can be performed
-4. **[Data Completeness]** Populate all 7 Malaysia NPRA licence records (product names, dosage forms, manufacturers, approved indication texts) from the NPRA product registration database
-5. **[Re-evaluation]** Once the above are completed, re-generate the Evidence Pack and proceed to full L1–L5 evidence grading against the top-ranked predicted indication
+Amiodarone Hydrochloride memegang **7 pendaftaran produk** di Malaysia. Walau bagaimanapun, rekod lesen terperinci (nama produk, bentuk dos, pengeluar, dan teks indikasi yang diluluskan) tidak dikembalikan dalam Pakej Bukti ini. Jadual di bawah mencerminkan keadaan data semasa; butiran penuh harus diambil terus dari pangkalan data pendaftaran produk NPRA.
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
+|------------------|-------------|-----------|-------------------------|
+| (Menunggu pemerolehan) | — | — | — |
+
+> **Nota:** 7 pendaftaran disahkan sebagai aktif. Butiran lesen penuh memerlukan suplementasi dari pertanyaan pangkalan data NPRA.
+
+---
+
+## Pertimbangan Keselamatan
+
+Data keselamatan lengkap (amaran, kontraindikasi, dan langkah berjaga-jaga utama) tidak dapat dinilai dari Pakej Bukti ini. Pemerolehan sisipan pakej rasmi adalah **keperluan penyekatan** sebelum calon ini dapat maju ke pra-saringan keselamatan (lihat Jurang Data di bawah).
+
+Berdasarkan kesusasteraan klinikal yang diterbitkan secara meluas, Amiodarone secara luas diiktiraf sebagai ubat dengan profil interaksi yang ketara — ia adalah perencat yang kuat bagi CYP2C9, CYP3A4, dan P-glikoprotein, dan membawa risiko yang terdokumentasi dengan baik termasuk toksisiti pulmonari, hepatotoksisiti, disfungsi tiroid (kedua-dua hipotiroidisme dan hipertiroidisme), dan mikrodeposit kornea. Risiko yang diketahui ini mesti disahkan secara rasmi terhadap sisipan pakej yang diluluskan NPRA sebelum sebarang penilaian keselamatan pemanfaatan semula diteruskan.
+
+Tiada data interaksi ubat-ubat yang dikembalikan oleh pertanyaan DDI dalam Pakej Bukti ini.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Nisbah:**
+Tiada ramalan pemanfaatan semula TxGNN yang tersedia pada masa ini, dan dua jurang data kritis — amaran keselamatan/kontraindikasi (keterukan penyekatan) dan mekanisme tindakan (keterukan tinggi) — mesti diselesaikan sebelum calon ini dapat memasuki aliran kerja penilaian piawai.
+
+**Untuk meneruskan, berikut adalah yang diperlukan:**
+
+1. **[Menyekat — DG001]** Ambil sisipan pakej rasmi (amaran dan kontraindikasi) dari laman web TFDA/NPRA untuk membolehkan Langkah Pra-saringan Keselamatan S1
+2. **[Tinggi — DG002]** Pertanyaan API DrugBank untuk mendapatkan MOA lengkap, kategori ubat, dan data sitotoksisiti; sahkan ID DrugBank (kini belum diselesaikan) untuk membuka kunci analisis DDI
+3. **[Saluran Paip]** Lengkapkan larian ramalan TxGNN untuk Amiodarone Hydrochloride untuk menghasilkan calon pemanfaatan semula yang berpangkat — tanpa ini, tiada analisis mekanik atau bukti dapat dilakukan
+4. **[Kesempurnaan Data]** Isi semua 7 rekod lesen NPRA Malaysia (nama produk, bentuk dos, pengeluar, teks indikasi yang diluluskan) dari pangkalan data pendaftaran produk NPRA
+5. **[Penilaian Semula]** Setelah di atas selesai, jana semula Pakej Bukti dan teruskan ke penarafan bukti L1–L5 lengkap terhadap indikasi yang diramalkan berpangkat teratas
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

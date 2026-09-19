@@ -29,104 +29,105 @@ Tahap bukti: **L2** | Indikasi diramal: **10**
 
 </div>
 
-# Ascorbic Acid: From Vitamin C Deficiency to Acute Injury Management
+# Asid Askorbik: Dari Kekurangan Vitamin C hingga Pengurusan Kecederaan Akut
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Ascorbic acid (Vitamin C, DrugBank ID: DB00126) is an essential micronutrient classically used to prevent and treat vitamin C deficiency and scurvy. The TxGNN model identifies 10 novel indications across evidence levels L1–L5; among genuine repurposing candidates, the strongest novel evidence supports its role in **acute injury management** — including burns, transfusion-related acute lung injury (TRALI), and sepsis-induced organ dysfunction — backed by **multiple completed Phase 2/3 clinical trials** and **20+ publications**. The model also confirms its established utility in vitamin deficiency disorders (L1 evidence, Proceed with Guardrails), though this represents its traditional rather than a novel indication.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Vitamin C deficiency (scurvy); general nutritional supplementation |
-| Predicted New Indication | Acute Injury (burns, TRALI, sepsis-related organ injury) |
-| TxGNN Prediction Score | 99.60% |
-| Evidence Level | L2 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1,140 |
-| Recommended Decision | Proceed with Guardrails |
+Asid askorbik (Vitamin C, ID DrugBank: DB00126) adalah mikronutrien penting yang secara klasik digunakan untuk mencegah dan merawat kekurangan vitamin C dan scurvy. Model TxGNN mengenal pasti 10 petunjuk baru merentas tahap bukti L1–L5; dalam kalangan calon ubat ulang guna yang tulen, bukti baru terkuat menyokong peranannya dalam **pengurusan kecederaan akut** — termasuk luka bakar, kecederaan paru-paru akut berkaitan transfusi (TRALI), dan disfungsi organ yang diinduksi sepsis — disokong oleh **pelbagai percubaan klinikal Fasa 2/3 yang telah siap** dan **20+ penerbitan**. Model ini juga mengesahkan kegunaannya yang telah ditubuhkan dalam gangguan kekurangan vitamin (bukti L1, Teruskan dengan Pengawalseliaan), walaupun ini mewakili petunjuk tradisionalnya bukan petunjuk baru.
 
 ---
 
-## Why Is This Prediction Reasonable?
+## Gambaran Keseluruhan Cepat
 
-Detailed mechanism of action data is not available in the current Evidence Pack. Based on well-established pharmacological knowledge, ascorbic acid is a potent water-soluble antioxidant and essential co-factor for prolyl hydroxylase and lysyl hydroxylase — the enzymes required for collagen cross-linking and vascular integrity. These functions place it directly at the intersection of injury biology: tissue repair, oxidative stress resolution, and microvascular stability.
-
-The mechanistic bridge to acute injury management is particularly compelling for three reasons. First, critically ill and burned patients exhibit precipitous drops in plasma ascorbic acid within hours of injury onset, creating a functional deficiency state. Second, high-dose intravenous ascorbic acid reduces microvascular hyperpermeability — the primary driver of the massive fluid shifts seen in burns and sepsis — and attenuates oxidative damage in TRALI. Third, in spinal cord injury models, ascorbic acid promotes functional recovery through TET-enzyme-dependent epigenetic modulation (DNA demethylation of regeneration-associated genes), an entirely novel mechanism that goes beyond simple antioxidant activity.
-
-The TxGNN knowledge graph likely captures these dense mechanistic interconnections between ascorbic acid, ROS pathways, inflammatory cascades, and collagen metabolism. However, a critical caveat must be emphasised: the LOVIT trial (n=872, Phase 3, 2022) found no significant benefit of high-dose IV vitamin C on mortality or persistent organ dysfunction at 28 days in septic ICU patients, and the VICToRY burn trial (n=666, Phase 3) has been suspended. These results indicate that therapeutic benefit is likely context-specific — patient population, injury subtype, and timing of administration remain critical unresolved variables.
+| Item | Kandungan |
+|------|-----------|
+| Petunjuk Asal | Kekurangan Vitamin C (scurvy); supplementasi pemakanan umum |
+| Petunjuk Baru yang Diprakirakan | Kecederaan Akut (luka bakar, TRALI, kecederaan organ berkaitan sepsis) |
+| Skor Prakiraan TxGNN | 99.60% |
+| Tahap Bukti | L2 |
+| Status Pasaran Malaysia | ✓ Telah dipasarkan |
+| Bilangan Pendaftaran | 1,140 |
+| Keputusan yang Disyorkan | Teruskan dengan Pengawalseliaan |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Prakiraan Ini Munasabah?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Data mekanisme tindakan terperinci tidak tersedia dalam Paket Bukti semasa. Berdasarkan pengetahuan farmakologi yang telah ditubuhkan, asid askorbik ialah antioksidan kuat yang larut dalam air dan kofaktor penting untuk prolil hidroksilase dan lisil hidroksilase — enzim yang diperlukan untuk silang-sambung kolagen dan integriti vaskular. Fungsi-fungsi ini meletakkannya secara langsung pada persimpangan biologi kecederaan: pembaikan tisu, penyelesaian tekanan oksidatif, dan kestabilan mikrovaskular.
+
+Jambatan mekanik ke pengurusan kecederaan akut adalah sangat menarik untuk tiga sebab. Pertama, pesakit yang sakit kritikal dan yang mempunyai luka bakar mempamerkan penurunan mendadak dalam asid askorbik plasma dalam beberapa jam selepas permulaan kecederaan, mewujudkan keadaan kekurangan berfungsi. Kedua, asid askorbik intravena dos tinggi mengurangkan hiperkeboleh-telus mikrovaskular — pemandu utama peralihan bendalir besar-besaran yang dilihat dalam luka bakar dan sepsis — dan melumpuhkan kerosakan oksidatif dalam TRALI. Ketiga, dalam model kecederaan tulang belakang, asid askorbik mempromosikan pemulihan berfungsi melalui modulasi epigenetik yang bergantung pada enzim TET (demetilasi DNA gen berkaitan pemulihan), mekanisme yang benar-benar baru yang melampaui aktiviti antioksidan mudah.
+
+Graf pengetahuan TxGNN berkemungkinan menangkap persilangan mekanik yang padat ini antara asid askorbik, laluan ROS, kaskad keradangan, dan metabolisme kolagen. Walau bagaimanapun, kaveat kritikal mesti ditekankan: percubaan LOVIT (n=872, Fasa 3, 2022) mendapati tiada manfaat ketara dos tinggi vitamin C IV pada kematian atau disfungsi organ yang berterusan pada hari ke-28 pada pesakit ICU bersepu, dan percubaan luka bakar VICToRY (n=666, Fasa 3) telah digantung. Hasil-hasil ini menunjukkan bahawa manfaat terapeutik berkemungkinan spesifik konteks — populasi pesakit, subtipe kecederaan, dan masa pentadbiran tetap pembolehubah kritikal yang belum diselesaikan.
+
+---
+
+## Bukti Percubaan Klinikal
+
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT04153487](https://clinicaltrials.gov/study/NCT04153487) | Phase 2 | Completed | 40 | IV ascorbic acid in critically ill patients with TRALI — directly evaluates ascorbic acid for transfusion-related acute lung injury; the most relevant trial for this specific injury subtype |
-| [NCT03780933](https://clinicaltrials.gov/study/NCT03780933) | N/A | Completed | 40 | High-dose vitamin C in critically ill ARDS patients — assessed oxidant/antioxidant imbalance, hospital stay, mechanical ventilator weaning, and mortality rate |
-| [NCT03680274](https://clinicaltrials.gov/study/NCT03680274) | Phase 3 | Completed | 872 | LOVIT trial — high-dose IV vitamin C vs. placebo in septic ICU patients; primary endpoint (mortality or persistent organ dysfunction at 28 days) was not met; results published 2022 |
-| [NCT02873026](https://clinicaltrials.gov/study/NCT02873026) | Phase 3 | Completed | 300 | Triamcinolone adjunct in open globe eye trauma surgery — Phase 3 RCT evaluating recovery after serious ocular injury; vitamin C used as part of post-injury protocol |
-| [NCT04138394](https://clinicaltrials.gov/study/NCT04138394) | Phase 3 | Suspended | 666 | VICToRY trial — high-dose IV vitamin C in severely burned critically ill patients; currently suspended, limiting conclusions |
-| [NCT02735707](https://clinicaltrials.gov/study/NCT02735707) | Phase 3 | Recruiting | 20,000 | REMAP-CAP — large adaptive platform trial; ascorbic acid is one experimental arm for community-acquired pneumonia and sepsis-related injury |
-| [NCT06050668](https://clinicaltrials.gov/study/NCT06050668) | Phase 2 | Recruiting | 60 | MEND Repair & Recover — essential amino acid-based supplementation for muscle recovery after femoral fragility fracture; vitamin C included |
-| [NCT02216812](https://clinicaltrials.gov/study/NCT02216812) | N/A | Completed | 134 | Vitamin C to reduce finger stiffness after distal radius fracture — RCT with objective motion measurement and patient-reported outcomes |
-| [NCT04216459](https://clinicaltrials.gov/study/NCT04216459) | N/A | Completed | 112 | Anti-inflammatory and anti-microbial co-supplementation (including vitamin C) in traumatic ICU patients at high risk of sepsis |
-| [NCT01548105](https://clinicaltrials.gov/study/NCT01548105) | N/A | Completed | 96 | Collagen metabolism markers and vitamin C in smokers with pelvic organ prolapse — mechanistic evidence for vitamin C's role in connective tissue injury repair |
+| [NCT04153487](https://clinicaltrials.gov/study/NCT04153487) | Fasa 2 | Siap | 40 | Asid askorbik IV pada pesakit yang sakit kritikal dengan TRALI — menilai secara langsung asid askorbik untuk kecederaan paru-paru akut berkaitan transfusi; percubaan paling relevan untuk subtipe kecederaan khusus ini |
+| [NCT03780933](https://clinicaltrials.gov/study/NCT03780933) | T/A | Siap | 40 | Vitamin C dos tinggi pada pesakit ARDS yang sakit kritikal — menilai ketidakseimbangan oksidan/antioksidan, tempat tinggal di hospital, pemisahan ventilator mekanikal, dan kadar kematian |
+| [NCT03680274](https://clinicaltrials.gov/study/NCT03680274) | Fasa 3 | Siap | 872 | Percubaan LOVIT — vitamin C IV dos tinggi vs. plasebo pada pesakit ICU bersepu; titik akhir utama (kematian atau disfungsi organ yang berterusan pada hari ke-28) tidak dipenuhi; hasil diterbitkan 2022 |
+| [NCT02873026](https://clinicaltrials.gov/study/NCT02873026) | Fasa 3 | Siap | 300 | Tambahan triamicinolone dalam pembedahan trauma mata terbuka — RCT Fasa 3 menilai pemulihan selepas kecederaan mata yang serius; vitamin C digunakan sebagai sebahagian daripada protokol pasca-kecederaan |
+| [NCT04138394](https://clinicaltrials.gov/study/NCT04138394) | Fasa 3 | Digantung | 666 | Percubaan VICToRY — vitamin C IV dos tinggi pada pesakit sakit kritikal yang terbakar parah; kini digantung, mengehadkan kesimpulan |
+| [NCT02735707](https://clinicaltrials.gov/study/NCT02735707) | Fasa 3 | Merekrut | 20,000 | REMAP-CAP — percubaan platform adaptif besar; asid askorbik adalah satu cabang eksperimental untuk pneumonia yang didapat komuniti dan kecederaan berkaitan sepsis |
+| [NCT06050668](https://clinicaltrials.gov/study/NCT06050668) | Fasa 2 | Merekrut | 60 | MEND Repair & Recover — supplementasi asas amino penting untuk pemulihan otot selepas fraktur kegetaran femoral; vitamin C disertakan |
+| [NCT02216812](https://clinicaltrials.gov/study/NCT02216812) | T/A | Siap | 134 | Vitamin C untuk mengurangkan kekakuan jari selepas fraktur jejari distal — RCT dengan pengukuran pergerakan objektif dan hasil yang dilaporkan pesakit |
+| [NCT04216459](https://clinicaltrials.gov/study/NCT04216459) | T/A | Siap | 112 | Co-supplementasi anti-radang dan anti-mikrob (termasuk vitamin C) pada pesakit ICU trauma yang berisiko tinggi sepsis |
+| [NCT01548105](https://clinicaltrials.gov/study/NCT01548105) | T/A | Siap | 96 | Penanda metabolisme kolagen dan vitamin C pada perokok dengan prolaps organ pelvis — bukti mekanik untuk peranan vitamin C dalam pembaikan kecederaan tisu ikat |
 
 ---
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [27852613](https://pubmed.ncbi.nlm.nih.gov/27852613/) | 2017 | RCT | Am J Clin Nutr | Vitamin C-enriched gelatin supplementation before intermittent activity augments collagen synthesis — direct clinical evidence for musculoskeletal injury prevention and repair |
-| [33675075](https://pubmed.ncbi.nlm.nih.gov/33675075/) | 2021 | Review | JPEN | Comprehensive review of ascorbic acid in acute care: burns, sepsis, ARDS, TRALI — dosing, pharmacokinetics, IV administration, and evidence summary |
-| [31440996](https://pubmed.ncbi.nlm.nih.gov/31440996/) | 2020 | Review | Neurocrit Care | High-dose IV ascorbic acid in traumatic brain injury — reviews mechanistic rationale; inflammatory and oxidative stress pathways central |
-| [32466098](https://pubmed.ncbi.nlm.nih.gov/32466098/) | 2020 | Animal/Mechanistic | Cells | Ascorbic acid promotes functional restoration after spinal cord injury via epigenetic modulation (TET enzyme-dependent DNA demethylation of regeneration-associated genes) |
-| [37199082](https://pubmed.ncbi.nlm.nih.gov/37199082/) | 2023 | Animal study | Clin Exp Pharmacol Physiol | Melatonin + ascorbic acid synergistically protect against sepsis-induced lung injury in rats — oxidative stress, inflammation, and histopathology improved |
-| [31631076](https://pubmed.ncbi.nlm.nih.gov/31631076/) | 2020 | Retrospective | Ann Thorac Cardiovasc Surg | Corticosteroids + ascorbic acid + thiamine improved oxygenation after thoracoscopic esophagectomy — clinical evidence for post-surgical injury management |
-| [25977448](https://pubmed.ncbi.nlm.nih.gov/25977448/) | 2015 | Mechanistic | J Appl Physiol | Ascorbic acid abrogates microparticle generation and vascular injuries from high-pressure exposure in murine model |
-| [30777116](https://pubmed.ncbi.nlm.nih.gov/30777116/) | 2019 | Animal study | J Orthop Surg Res | Ascorbic acid + T3 outperformed bone marrow mesenchymal stem cells in Achilles tendon injury rat model — tendon healing outcomes superior |
-| [32141505](https://pubmed.ncbi.nlm.nih.gov/32141505/) | 2020 | Retrospective | J Burn Care Res | Safety and pharmacodynamics of high vs. low dose ascorbic acid in severely burned adults (n=38) — high-dose protocol feasibility assessed |
-| [12643856](https://pubmed.ncbi.nlm.nih.gov/12643856/) | 2003 | Observational | J Surg Res | Ascorbic acid dynamics in critically ill and injured patients — documents acute depletion post-injury and assesses high-dose supplementation potential |
+| [27852613](https://pubmed.ncbi.nlm.nih.gov/27852613/) | 2017 | RCT | Am J Clin Nutr | Supplementasi gelatin diperkaya vitamin C sebelum aktiviti berkala menambah sintesis kolagen — bukti klinikal langsung untuk pencegahan dan pembaikan kecederaan muskuloskeletal |
+| [33675075](https://pubmed.ncbi.nlm.nih.gov/33675075/) | 2021 | Ulasan | JPEN | Ulasan komprehensif asid askorbik dalam penjagaan akut: luka bakar, sepsis, ARDS, TRALI — dos, farmakokinetik, pentadbiran IV, dan ringkasan bukti |
+| [31440996](https://pubmed.ncbi.nlm.nih.gov/31440996/) | 2020 | Ulasan | Neurocrit Care | Asid askorbik IV dos tinggi dalam kecederaan otak traumatik — mengulas rasional mekanik; laluan keradangan dan tekanan oksidatif berpusat |
+| [32466098](https://pubmed.ncbi.nlm.nih.gov/32466098/) | 2020 | Haiwan/Mekanik | Sel-sel | Asid askorbik mempromosikan pemulihan berfungsi selepas kecederaan tulang belakang melalui modulasi epigenetik (demetilasi DNA yang bergantung pada enzim TET bagi gen berkaitan pemulihan) |
+| [37199082](https://pubmed.ncbi.nlm.nih.gov/37199082/) | 2023 | Kajian haiwan | Clin Exp Pharmacol Physiol | Melatonin + asid askorbik secara sinergik melindungi daripada kecederaan paru-paru yang diinduksi sepsis pada tikus — tekanan oksidatif, keradangan, dan histopatologi bertambah baik |
+| [31631076](https://pubmed.ncbi.nlm.nih.gov/31631076/) | 2020 | Retrospektif | Ann Thorac Cardiovasc Surg | Kortikosteroid + asid askorbik + tiamin meningkatkan oksigenasi selepas esofagektomi torakoskopi — bukti klinikal untuk pengurusan kecederaan pasca-pembedahan |
+| [25977448](https://pubmed.ncbi.nlm.nih.gov/25977448/) | 2015 | Mekanik | J Appl Physiol | Asid askorbik menghapuskan penjanaan mikrozarah dan kecederaan vaskular daripada pendedahan tekanan tinggi dalam model murin |
+| [30777116](https://pubmed.ncbi.nlm.nih.gov/30777116/) | 2019 | Kajian haiwan | J Orthop Surg Res | Asid askorbik + T3 mengatasi sel stem mesenkima sumsum tulang dalam model tikus kecederaan tendon Achilles — hasil penyembuhan tendon lebih baik |
+| [32141505](https://pubmed.ncbi.nlm.nih.gov/32141505/) | 2020 | Retrospektif | J Burn Care Res | Keselamatan dan farmakodinamik dos tinggi vs. dos rendah asid askorbik pada dewasa yang terbakar teruk (n=38) — kebolehlaksanaan protokol dos tinggi dinilai |
+| [12643856](https://pubmed.ncbi.nlm.nih.gov/12643856/) | 2003 | Pemerhatian | J Surg Res | Dinamik asid askorbik pada pesakit yang sakit kritikal dan yang terluka — mendokumenkan pengurangan akut pasca-kecederaan dan menilai potensi supplementasi dos tinggi |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Individual product registration data (authorization numbers, product names, dosage forms, approved indications) were not populated in the current Evidence Pack. Based on NPRA query results, **1,140 registered products** containing ascorbic acid are currently on the Malaysian market. This reflects extremely broad availability across multiple dosage forms. For the acute injury indication, however, **intravenous high-dose formulations** (typically 25–200 mg/kg/day) would be specifically required — their availability and registration status should be confirmed separately, as the majority of current registrations are likely oral supplements and tablets.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for detailed safety information. Full safety data (NPRA warnings and contraindications) were not available in this Evidence Pack.
-
-**Key safety notes from published literature:**
-
-- **High-dose IV renal risk**: Doses exceeding 10 g/day may cause hyperoxaluria, raising the risk of calcium oxalate nephrolithiasis — particularly in patients with pre-existing renal impairment. Monitor serum creatinine and urinary oxalate in high-dose IV protocols.
-- **Drug-induced esophageal injury**: Case series document esophageal stricture from vitamin C tablets in patients with esophageal motility disorders or inadequate water intake (PMID [3606243](https://pubmed.ncbi.nlm.nih.gov/3606243/), [20227023](https://pubmed.ncbi.nlm.nih.gov/20227023/)). Relevant to oral formulations only.
-- **Context-specific pro-carcinogenic concern**: Animal data show that ascorbic acid combined with sodium nitrite under acidic conditions (e.g., acid reflux) may enhance esophageal carcinogenesis (PMID [17953708](https://pubmed.ncbi.nlm.nih.gov/17953708/)). Not relevant to acute injury use but noted for completeness.
-- **Warfarin interaction**: Case reports suggest high-dose ascorbic acid may interfere with warfarin anticoagulation (PMID [4739125](https://pubmed.ncbi.nlm.nih.gov/4739125/)); monitor INR in patients on anticoagulation therapy.
+Data pendaftaran produk individu (nombor kebenaran, nama produk, bentuk dos, petunjuk yang diluluskan) tidak diisi dalam Paket Bukti semasa. Berdasarkan keputusan kueri NPRA, **1,140 produk berdaftar** yang mengandungi asid askorbik kini berada di pasaran Malaysia. Ini mencerminkan ketersediaan yang sangat luas merentas pelbagai bentuk dos. Untuk petunjuk kecederaan akut, bagaimanapun, **formulasi intravenous dos tinggi** (biasanya 25–200 mg/kg/hari) akan diperlukan secara khusus — status ketersediaan dan pendaftaran mereka harus disahkan secara berasingan, kerana majoriti pendaftaran semasa berkemungkinan adalah suplemen oral dan tablet.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Proceed with Guardrails**
+Sila rujuk sisipan pakej untuk maklumat keselamatan terperinci. Data keselamatan penuh (amaran NPRA dan kontraindikasi) tidak tersedia dalam Paket Bukti ini.
 
-**Rationale:**
-Multiple Phase 2 clinical trials demonstrate a clinically meaningful signal for high-dose intravenous ascorbic acid in specific acute injury subtypes, particularly TRALI and burn resuscitation, supported by a robust mechanistic rationale. However, the negative LOVIT Phase 3 trial in sepsis patients and the suspension of the VICToRY burn trial mean that the evidence base is uneven across injury subtypes — and the benefit is unlikely to apply uniformly across all "injury" presentations. Proceeding requires careful indication selection and a structured clinical development plan.
+**Nota keselamatan utama daripada kesusasteraan yang diterbitkan:**
 
-**To proceed, the following is needed:**
-- Select a specific injury subtype as the primary target (e.g., TRALI, burn resuscitation, or traumatic spinal cord injury) rather than pursuing the broad "injury" category
-- Confirm availability and regulatory status of high-dose IV ascorbic acid formulations in Malaysia (current 1,140 registrations are predominantly oral/supplement products)
-- Obtain complete safety data from the Malaysian package insert (NPRA; currently a data gap flagged as Blocking)
-- Design a focused Phase 2/3 RCT with clearly defined patient population, dosing protocol (50–200 mg/kg/day IV), validated primary endpoints (e.g., SOFA score, fluid balance, length of stay), and pre-specified subgroup analyses by injury type
-- Implement mandatory renal monitoring (serum oxalate, creatinine) in high-dose IV protocols
+- **Risiko buah pinggang dos tinggi IV**: Dos yang melebihi 10 g/hari boleh menyebabkan hiperoksaluria, meningkatkan risiko nephrolit kalsium oksalat — terutamanya pada pesakit dengan gangguan buah pinggang yang telah wujud sebelum ini. Pantau kreatinin serum dan oksalat urin dalam protokol IV dos tinggi.
+- **Kecederaan kerongkong yang diinduksi ubat**: Siri kes mendokumenkan kekakuan kerongkong daripada tablet vitamin C pada pesakit dengan gangguan motilitas kerongkong atau pengambilan air yang tidak mencukupi (PMID [3606243](https://pubmed.ncbi.nlm.nih.gov/3606243/), [20227023](https://pubmed.ncbi.nlm.nih.gov/20227023/)). Relevan hanya dengan formulasi oral.
+- **Kebimbangan pro-karsinogenik yang spesifik konteks**: Data haiwan menunjukkan bahawa asid askorbik yang digabungkan dengan natrium nitrit dalam keadaan berasid (cth., aliran balik asid) boleh meningkatkan karsinogenesis kerongkong (PMID [17953708](https://pubmed.ncbi.nlm.nih.gov/17953708/)). Tidak relevan dengan penggunaan kecederaan akut tetapi dicatat untuk kesempurnaan.
+- **Interaksi warfarin**: Laporan kes mencadangkan bahawa asid askorbik dos tinggi boleh mengganggu antikoagulasi warfarin (PMID [4739125](https://pubmed.ncbi.nlm.nih.gov/4739125/)); pantau INR pada pesakit yang menjalani terapi antikoagulasi.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Teruskan dengan Pengawalseliaan**
+
+**Rasional:**
+Pelbagai percubaan klinikal Fasa 2 menunjukkan isyarat bermakna secara klinikal untuk asid askorbik intravenous dos tinggi dalam subtipe kecederaan akut yang khusus, terutamanya TRALI dan resusitasi luka bakar, disokong oleh rasional mekanik yang teguh. Walau bagaimanapun, percubaan Fasa 3 LOVIT yang negatif pada pesakit sepsis dan penggantungan percubaan luka bakar VICToRY bermaksud bahawa asas bukti tidak merata merentas subtipe kecederaan — dan manfaatnya tidak mungkin terpakai secara seragam merentas semua persembahan "kecederaan". Teruskan memerlukan pemilihan petunjuk yang teliti dan pelan pembangunan klinikal yang berstruktur.
+
+**Untuk teruskan, perkara berikut diperlukan:**
+- Pilih subtipe kecederaan tertentu sebagai sasaran utama (cth., TRALI, resusitasi luka bakar, atau kecederaan tulang belakang traumatik) daripada meneruskan kategori "kecederaan" yang luas
+- Sahkan ketersediaan dan status kawal selia formulasi asid askorbik intravenous dos tinggi di Malaysia (1,140 pendaftaran semasa adalah produk oral/suplemen yang mengutamakan)
+- Dapatkan data keselamatan lengkap daripada sisipan pakej Malaysia (NPRA; kini ialah jurang data yang ditandakan sebagai Pemblokiran)
+- Reka RCT Fasa 2/3 yang tertumpu dengan populasi pesakit yang jelas ditakrif, protokol dos (50–200 mg/kg/hari IV), titik akhir utama yang disahkan (cth., skor SOFA, keseimbangan bendalir, tempoh tinggal), dan analisis subkumpulan yang telah ditetapkan lebih awal mengikut jenis kecederaan
+- Laksanakan pemantauan buah pinggang yang wajib (oksalat serum, kreatinin) dalam protokol IV dos tinggi
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

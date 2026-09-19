@@ -29,79 +29,80 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Clozapine: From Treatment-Resistant Schizophrenia to Manic Bipolar Affective Disorder
+# Clozapine: Dari Skizofrenia Tahan Rawatan hingga Gangguan Afektif Bipolar Manik
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Clozapine is a tricyclic dibenzodiazepine antipsychotic, globally recognized for treatment-resistant schizophrenia (the TFDA license-level indication text was not retrievable in this data pull). The TxGNN model predicts it may be effective for **Manic Bipolar Affective Disorder**, but this evidence pack contains **0 clinical trials** and **0 publications** directly supporting the link — the case rests on mechanistic reasoning alone.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Treatment-resistant schizophrenia *(known drug profile; TFDA/NPRA license text not retrieved — see Data Gap DG001)* |
-| Predicted New Indication | Manic Bipolar Affective Disorder |
-| TxGNN Prediction Score | 99.95% |
-| Evidence Level | L4 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 9 |
-| Recommended Decision | Research Question |
+Clozapine ialah antipsikotik dibenzodiazepina trisiklik yang diiktiraf secara global untuk skizofrenia tahan rawatan (teks petunjuk aras lesen TFDA tidak dapat diambil dalam pengeluaran data ini). Model TxGNN meramalkan ia mungkin berkesan untuk **Gangguan Afektif Bipolar Manik**, tetapi pakej bukti ini mengandungi **0 percubaan klinikal** dan **0 penerbitan** yang menyokong pautan secara langsung — kes bergantung pada penalaran mekanistik semata-mata.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Pantas
 
-Currently, detailed mechanism of action data is not available (Data Gap DG002). Based on known pharmacology, clozapine is an atypical antipsychotic that acts as a multi-receptor antagonist — most notably at dopamine D2/D4 and serotonin 5-HT2A receptors — and its efficacy in treatment-resistant schizophrenia is well established.
-
-Mania with psychotic features and treatment-resistant schizophrenia sit close together on the psychosis spectrum, sharing overlapping dopaminergic/serotonergic dysregulation. The dossier's own rationale for this candidate notes that clozapine's dopamine/serotonin antagonism has mood-stabilizing potential, and that it is already used off-label in clinical practice for treatment-resistant mania and bipolar disorder with psychotic features.
-
-Mechanistically this makes the prediction plausible, but it is important to note the rationale is explicitly labeled as **indirect evidence** in the source data — no trial or literature record in this pack corroborates it directly.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered
+| Perkara | Kandungan |
+|------|----------|
+| Petunjuk Asal | Skizofrenia tahan rawatan *(profil ubat yang diketahui; teks petunjuk lesen TFDA/NPRA tidak dapat diambil — lihat Celah Data DG001)* |
+| Petunjuk Baru yang Diprediksi | Gangguan Afektif Bipolar Manik |
+| Skor Ramalan TxGNN | 99.95% |
+| Aras Bukti | L4 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 9 |
+| Keputusan Disyorkan | Soalan Penyelidikan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available
+Pada masa kini, data mekanisme tindakan terperinci tidak tersedia (Celah Data DG002). Berdasarkan farmakologi yang diketahui, clozapine ialah antipsikotik atipik yang bertindak sebagai antagonis multi-reseptor — terutama pada reseptor dopamin D2/D4 dan serotonin 5-HT2A — dan keberkesan dalam skizofrenia tahan rawatan telah ditegakkan dengan baik.
 
-*(Query log confirms explicit zero-result searches across ClinicalTrials.gov, ICTRP, and PubMed for "CLOZAPINE" + "manic bipolar affective disorder" on 2026-03-27.)*
+Mania dengan ciri psikotik dan skizofrenia tahan rawatan terletak berdekatan pada spektrum psikosis, berkongsi disregulasi dopaminergik/serotoninergik yang bertindih. Rasional dosinya sendiri untuk calon ini mencatat bahawa antagonisme dopamin/serotonin clozapine mempunyai potensi penstabil mood, dan bahawa ia sudah digunakan di luar label dalam amalan klinikal untuk mania tahan rawatan dan gangguan bipolar dengan ciri psikotik.
 
----
-
-## Malaysia Market Information
-
-NPRA records show clozapine is marketed with **9 active registrations**, but this data extraction did not capture license-level detail (authorization numbers, product names, dosage forms, or approved indication text — all fields returned blank). This is a data gap, not an absence of registrations. Full license detail should be pulled directly from the NPRA product registry before use in any regulatory-facing document.
+Secara mekanistik ini menjadikan ramalan dapat dipercayai, tetapi penting untuk diambil perhatian bahawa rasional secara nyata dilabel sebagai **bukti tidak langsung** dalam data sumber — tiada rekod percubaan atau penerbitan dalam pak ini yang menyokongnya secara langsung.
 
 ---
 
-## Safety Considerations
+## Bukti Percubaan Klinikal
 
-Please refer to the package insert for safety information.
-
-*(Note: TFDA/NPRA label warnings and contraindications are flagged as a **Blocking** data gap — DG001 — meaning this candidate cannot yet complete an S1 safety pre-screen. Clozapine carries well-known class-level monitoring requirements (e.g., absolute neutrophil count monitoring for agranulocytosis risk) under its existing label; these must be confirmed against the actual Malaysia package insert, not assumed from general knowledge, before any clinical use decision.)*
+Pada masa kini tiada percubaan klinikal berkaitan yang didaftarkan
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Penerbitan
 
-**Decision: Research Question**
+Pada masa kini tiada penerbitan berkaitan tersedia
 
-**Rationale:**
-The mechanistic link between clozapine's receptor-antagonist profile and mood stabilization in psychotic mania is biologically plausible and consistent with known off-label practice, but this evidence pack has zero clinical trials and zero literature records directly supporting the indication (Evidence Level L4) — the score reflects a knowledge-graph association, not corroborated clinical evidence.
+*(Log pertanyaan mengesahkan carian tanpa hasil yang nyata di ClinicalTrials.gov, ICTRP, dan PubMed untuk "CLOZAPINE" + "manic bipolar affective disorder" pada 2026-03-27.)*
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert — warnings, contraindications (DG001, **Blocking**)
-- DrugBank mechanism-of-action detail (DG002)
-- Broader literature/trial search using alternate terminology (current searches for "manic bipolar affective disorder" returned zero across all three sources; try "bipolar mania," "psychotic mania," "treatment-resistant bipolar disorder")
-- Complete NPRA license-level detail (authorization numbers, product names, approved indication text)
-- A formal hematological safety monitoring plan given clozapine's known agranulocytosis risk profile, before any indication-expansion discussion
+---
+
+## Maklumat Pasaran Malaysia
+
+Rekod NPRA menunjukkan clozapine dipasarkan dengan **9 pendaftaran aktif**, tetapi pengekstrakan data ini tidak menangkap perincian aras lesen (nombor kebenaran, nama produk, bentuk dos, atau teks petunjuk yang diluluskan — semua medan kembali kosong). Ini adalah celah data, bukan ketiadaan pendaftaran. Perincian lesen lengkap perlu diambil terus dari daftar produk NPRA sebelum digunakan dalam mana-mana dokumen pengawalseliaan.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
+
+*(Nota: Amaran label TFDA/NPRA dan perkontraindikasiaan ditandai sebagai celah data **Penghalang** — DG001 — bermakna calon ini belum dapat menyelesaikan pra-saringan keselamatan S1. Clozapine membawa keperluan pemantauan aras kelas yang terkenal (contohnya, pemantauan kiraan neutrofil mutlak untuk risiko agranulosiltosis) di bawah labelnya yang sedia ada; ini mesti disahkan terhadap sisipan pakej Malaysia yang sebenarnya, bukan diandaikan daripada pengetahuan umum, sebelum sebarang keputusan penggunaan klinikal.)*
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Soalan Penyelidikan**
+
+**Rasional:**
+Pautan mekanistik antara profil antagonis reseptor clozapine dan penstabilan mood dalam mania psikotik adalah secara biologi dapat dipercayai dan konsisten dengan amalan di luar label yang diketahui, tetapi pak bukti ini mempunyai percubaan klinikal sifar dan rekod penerbitan sifar yang menyokong petunjuk secara langsung (Aras Bukti L4) — skor mencerminkan persatuan graf pengetahuan, bukan bukti klinikal yang disahkan.
+
+**Untuk meneruskan, berikut diperlukan:**
+- Sisipan pakej TFDA/NPRA — amaran, perkontraindikasiaan (DG001, **Penghalang**)
+- Perincian mekanisme tindakan DrugBank (DG002)
+- Carian penerbitan/percubaan yang lebih luas menggunakan terminologi alternatif (pencarian semasa untuk "manic bipolar affective disorder" mengembalikan sifar di ketiga-tiga sumber; cuba "bipolar mania," "psychotic mania," "treatment-resistant bipolar disorder")
+- Perincian aras lesen NPRA yang lengkap (nombor kebenaran, nama produk, teks petunjuk yang diluluskan)
+- Rancangan pemantauan keselamatan hematologi formal memandangkan profil risiko agranulosiltosis clozapine yang terkenal, sebelum sebarang perbincangan perluasan petunjuk
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

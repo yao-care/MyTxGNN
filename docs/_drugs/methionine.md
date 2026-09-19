@@ -29,81 +29,82 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Methionine: From Unrecorded Original Indication to Acne (Disease)
+# Methionine: Daripada Indikasi Asal Tidak Tercatat kepada Jerawat (Penyakit)
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Methionine is a sulfur-containing essential amino acid marketed in Malaysia across 156 registered products, though the specific original indication text was not captured in this data pack.
-The TxGNN model predicts it may be effective for **Acne (Disease)**, but this is currently supported only by **0 clinical trials** and **4 publications**, none of which directly test methionine as an acne treatment.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not available — TFDA/NPRA license indication text was not returned in this data pack (156 licenses on file, none populated) |
-| Predicted New Indication | Acne (disease) |
-| TxGNN Prediction Score | 99.9996% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 156 |
-| Recommended Decision | Hold |
+Methionine adalah asid amino esensial yang mengandungi sulfur dan dipasarkan di Malaysia melalui 156 produk berdaftar, walaupun teks indikasi asal khusus tidak ditangkap dalam pakej data ini.
+Model TxGNN meramalkan ia mungkin berkesan untuk **Jerawat (Penyakit)**, tetapi pada masa ini disokong hanya oleh **0 percubaan klinikal** dan **4 penerbitan**, tiada satupun yang secara langsung menguji methionine sebagai rawatan jerawat.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Pantas
 
-Currently, detailed mechanism of action data is not available. Based on known pharmacology, methionine is a sulfur-containing amino acid metabolized via the transsulfuration pathway into homocysteine, then cysteine and glutathione — a route relevant to cellular antioxidant capacity.
-
-No original indication text was retrievable from this data pack, so the relationship between methionine's established use(s) and acne cannot be directly assessed here. The 156 marketed registrations suggest it is a widely available amino acid/nutritional product in Malaysia, but the specific approved indications remain unconfirmed pending license detail retrieval.
-
-The literature identified for this candidate does **not** study methionine treatment of acne. Instead, it links an unrelated drug (isotretinoin) to elevated homocysteine in cystic acne patients, and separately documents neutrophil/chemotactic abnormalities in inflammatory skin disease. This is, at best, an indirect association between sulfur-amino-acid metabolism and skin inflammation — not direct mechanistic or clinical support for methionine as an acne therapy.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered
+| Perkara | Kandungan |
+|------|---------|
+| Indikasi Asal | Tidak tersedia — teks indikasi lesen TFDA/NPRA tidak dikembalikan dalam pakej data ini (156 lesen dalam fail, tiada yang diisi) |
+| Indikasi Baru yang Diramalkan | Jerawat (penyakit) |
+| Skor Ramalan TxGNN | 99.9996% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 156 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| PMID | Year | Type | Journal | Key Findings |
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia. Berdasarkan farmakologi yang diketahui, methionine adalah asid amino yang mengandungi sulfur yang dimetabolik melalui laluan transsulfurasi kepada homocysteine, kemudian cysteine dan glutathione — laluan yang relevan dengan keupayaan antioksidan seluler.
+
+Tiada teks indikasi asal yang boleh diperolehi daripada pakej data ini, jadi hubungan antara penggunaan methionine yang telah ditegakkan dan jerawat tidak dapat dinilai secara langsung di sini. 156 pendaftaran yang dipasarkan mencadangkan ia adalah produk asid amino/nutrisional yang tersedia secara meluas di Malaysia, tetapi indikasi yang diluluskan khusus tetap tidak disahkan sehingga butiran lesen diperolehi.
+
+Kesusasteraan yang dikenal pasti untuk calon ini **tidak** mengkaji rawatan jerawat dengan methionine. Sebaliknya, ia menghubungkan ubat yang tidak berkaitan (isotretinoin) dengan peningkatan homocysteine dalam pesakit jerawat cystic, dan secara berasingan mendokumenkan abnormaliti neutrofil/kemotaktik dalam penyakit kulit yang meradang. Ini, paling baik, adalah perkaitan metabolik tidak langsung antara metabolisme asid amino sulfur dan keradangan kulit — bukan sokongan mekanik atau klinikal langsung untuk methionine sebagai terapi jerawat.
+
+---
+
+## Bukti Percubaan Klinikal
+
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan
+
+---
+
+## Bukti Kesusasteraan
+
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [11277950](https://pubmed.ncbi.nlm.nih.gov/11277950/) | 2001 | Cohort | International Journal of Dermatology | Patients on isotretinoin (not methionine) for cystic acne showed elevated plasma homocysteine, a methionine metabolite, linking the pathway to acne therapy side effects rather than efficacy |
-| [39357918](https://pubmed.ncbi.nlm.nih.gov/39357918/) | 2024 | Case Report | BMJ Case Reports | Neonate with MTHFR mutation (affecting methionine/homocysteine metabolism) presented with neonatal acne among broader encephalopathy and dysmorphic features — an incidental association, not a treatment study |
-| [3859500](https://pubmed.ncbi.nlm.nih.gov/3859500/) | 1985 | Basic Research | Journal of the American Academy of Dermatology | Case study of Sweet's syndrome with cystonodular acne showed altered neutrophil chemotactic activity; no methionine intervention studied |
-| [3161955](https://pubmed.ncbi.nlm.nih.gov/3161955/) | 1985 | Basic Research | Journal of Investigative Dermatology | Study of neutrophil C5a responses across inflammatory skin diseases including acne conglobata; mechanistic, not methionine-specific |
+| [11277950](https://pubmed.ncbi.nlm.nih.gov/11277950/) | 2001 | Kohort | International Journal of Dermatology | Pesakit pada isotretinoin (bukan methionine) untuk jerawat cystic menunjukkan homocysteine plasma yang meningkat, metabolit methionine, menghubungkan laluan ini dengan kesan sampingan terapi jerawat dan bukannya keberkesanannya |
+| [39357918](https://pubmed.ncbi.nlm.nih.gov/39357918/) | 2024 | Laporan Kes | BMJ Case Reports | Bayi baru lahir dengan mutasi MTHFR (mempengaruhi metabolisme methionine/homocysteine) hadir dengan jerawat neonatal bersama encephalopathy yang lebih luas dan ciri-ciri dysmorphic — perkaitan kebetulan, bukan kajian rawatan |
+| [3859500](https://pubmed.ncbi.nlm.nih.gov/3859500/) | 1985 | Penyelidikan Asas | Journal of the American Academy of Dermatology | Kajian kes Sweet's syndrome dengan jerawat cystonodular menunjukkan aktiviti kemotaktik neutrofil yang berubah; tiada campur tangan methionine yang dikaji |
+| [3161955](https://pubmed.ncbi.nlm.nih.gov/3161955/) | 1985 | Penyelidikan Asas | Journal of Investigative Dermatology | Kajian tindak balas neutrofil C5a merentas penyakit kulit inflamasi termasuk jerawat conglobata; mekanik, bukan khusus kepada methionine |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-156 products are registered as marketed in Malaysia (NPRA market status: Marketed), but individual license details (authorization number, product name, dosage form, approved indication text) were not populated in this data pack and require separate retrieval.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
+156 produk didaftarkan sebagai dipasarkan di Malaysia (status pasaran NPRA: Dipasarkan), tetapi butiran lesen individu (nombor kelulusan, nama produk, bentuk dos, teks indikasi yang diluluskan) tidak diisi dalam pakej data ini dan memerlukan pengambilan berasingan.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-**Rationale:**
-The only literature located for the acne prediction does not test methionine as an intervention — it is an indirect metabolic association drawn from a different drug's side-effect profile and unrelated basic-science studies. With no clinical trials and no direct mechanistic evidence, this candidate does not meet the bar to advance.
+---
 
-**To proceed, the following is needed:**
-- Original indication and full license details (product name, dosage form, approved indication text) from TFDA/NPRA
-- Mechanism of action (MOA) data confirming or refuting a plausible methionine–acne pathway
-- Package insert warnings/contraindications (currently a Blocking data gap per DG001)
-- A study that directly tests methionine (not isotretinoin or unrelated metabolic markers) in acne patients
-- Note: other TxGNN candidates in this evidence pack — nuclear senile, cortical, mature, and diabetic cataract (ranks 4, 5, 8, 10) — carry stronger mechanistic literature support (L4, "Research Question") via glutathione/oxidative-stress pathways and may warrant earlier review priority than acne
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Kesusasteraan tunggal yang ditemui untuk ramalan jerawat tidak menguji methionine sebagai campur tangan — ia adalah perkaitan metabolik tidak langsung yang berasal daripada profil kesan sampingan ubat yang berbeza dan kajian sains asas yang tidak berkaitan. Tanpa percubaan klinikal dan tanpa bukti mekanik langsung, calon ini tidak memenuhi kriteria untuk maju.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Indikasi asal dan butiran lesen lengkap (nama produk, bentuk dos, teks indikasi yang diluluskan) daripada TFDA/NPRA
+- Data mekanisme tindakan (MOA) yang mengesahkan atau menafikan laluan methionine–jerawat yang munasabah
+- Amaran sisipan pakej/kontraindikasi (kini merupakan jurang data Pemblokiran setiap DG001)
+- Satu kajian yang secara langsung menguji methionine (bukan isotretinoin atau penanda metabolik yang tidak berkaitan) dalam pesakit jerawat
+- Nota: calon TxGNN lain dalam pakej bukti ini — katarak nukleus senile, kortikal, matang, dan diabetes (pangkat 4, 5, 8, 10) — membawa sokongan kesusasteraan mekanik yang lebih kuat (L4, "Soalan Penyelidikan") melalui laluan glutathione/tegasan oksidatif dan mungkin memerlukan keutamaan semakan yang lebih awal daripada jerawat
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,88 +29,89 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Ferrous Fumarate: From Iron-Deficiency Anemia to Acne
+# Ferrous Fumarate: Daripada Anemia Kekurangan Zat Besi kepada Jerawat
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-> Ferrous fumarate is a generic oral iron salt (DrugBank DB14491) conventionally used to treat and prevent iron-deficiency anemia, though the specific NPRA-approved indication text was not captured in this evidence pack. The TxGNN model's top-ranked prediction is **Acne**, but this evidence pack contains **0 clinical trials** and **8 publications**, and the literature review finds the supporting studies are almost entirely about oral contraceptives, not iron supplementation — the mechanistic case is currently unsupported.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not captured in this evidence pack (all 5 NPRA license records returned blank `approved_indication_text`); ferrous fumarate is a well-known generic oral iron salt indicated for iron-deficiency anemia |
-| Predicted New Indication | Acne |
-| TxGNN Prediction Score | 0.00% (note: all 5 ranked predictions in this pack show an identical 0.0 score — likely a data population issue, not a true differentiator) |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 152 |
-| Recommended Decision | Hold |
+> Ferrous fumarate ialah garam zat besi oral generik (DrugBank DB14491) yang secara konvensional digunakan untuk merawat dan mencegah anemia kekurangan zat besi, walaupun teks indikasi yang diluluskan NPRA khusus tidak ditangkap dalam pakej bukti ini. Ramalan model TxGNN yang berada di peringkat tertinggi ialah **Jerawat**, tetapi pakej bukti ini mengandungi **0 percubaan klinikal** dan **8 penerbitan**, dan semakan literatur mendapati kajian sokongan hampir sepenuhnya tentang ubat pencegah hamilan oral, bukan suplementasi zat besi — kes mekanik pada masa ini tidak disokong.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Ringkas
 
-Currently, detailed mechanism of action data is not available (data gap DG002). Based on general pharmacological knowledge, ferrous fumarate is a simple ferrous iron salt used to replenish iron stores and correct hemoglobin synthesis deficits — its established use is in iron-deficiency and microcytic anemias, not dermatology.
-
-There is no known pharmacological pathway linking iron repletion to acne pathogenesis (which is primarily driven by androgen-stimulated sebum production, follicular hyperkeratinization, and *C. acnes* colonization). Reviewing the underlying evidence for this candidate, 7 of the 8 cited publications discuss oral contraceptives (estrogen/progestin combinations) and their antiandrogenic effect on acne — a completely different drug class and mechanism from an iron salt. This pattern is consistent with a keyword/co-occurrence mismatch in the source database (e.g., "iron" and "anemia" co-occurring with contraceptive studies, or combined oral contraceptive products that historically included iron in placebo/inert pills) rather than a genuine pharmacological signal.
-
-The one loosely iron-related paper (PMID 1974991) reports that patients with recurrent *furunculosis* (a bacterial skin infection, not acne) had low serum iron, and that iron supplementation resolved the infection — this describes iron **deficiency** predisposing to infection, which is not evidence that iron **supplementation treats acne**. Overall, the mechanistic rationale for this specific candidate is weak to absent based on currently available evidence.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Item | Kandungan |
+|------|---------|
+| Indikasi Asal | Tidak ditangkap dalam pakej bukti ini (kesemua 5 rekod lesen NPRA mengembalikan `approved_indication_text` kosong); ferrous fumarate ialah garam zat besi oral generik yang terkenal ditunjukkan untuk anemia kekurangan zat besi |
+| Indikasi Baru Diramal | Jerawat |
+| Skor Ramalan TxGNN | 0.00% (nota: kesemua 5 ramalan berjenjang dalam pakej ini menunjukkan skor identik 0.0 — kemungkinan isu populasi data, bukan pembeza sebenar) |
+| Paras Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 152 |
+| Keputusan Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [16371290](https://pubmed.ncbi.nlm.nih.gov/16371290/) | 2006 | Review | Contraception | Reviews oral contraceptive (estrogen/progestin) regimens for acne treatment — unrelated to iron supplementation |
-| [9678128](https://pubmed.ncbi.nlm.nih.gov/9678128/) | 1996 | RCT (unrelated drug class) | Eur J Contracept Reprod Health Care | Compares triphasic oral contraceptive pills for contraceptive efficacy and cycle control — unrelated to ferrous fumarate |
-| [2289388](https://pubmed.ncbi.nlm.nih.gov/2289388/) | 1990 | Comparative trial (unrelated drug class) | Contraception | Compares cycle control across low-dose oral contraceptive formulations — unrelated to iron |
-| [16904419](https://pubmed.ncbi.nlm.nih.gov/16904419/) | 2006 | Cohort (unrelated drug class) | Contraception | Investigates whether St. John's Wort interferes with the antiandrogenic/acne effect of oral contraceptives — unrelated to iron |
-| [14596626](https://pubmed.ncbi.nlm.nih.gov/14596626/) | 2003 | Validation study (QoL questionnaire) | PharmacoEconomics | Validates an acne-specific quality-of-life questionnaire used in an oral-contraceptive trial — no drug efficacy data |
-| [1863941](https://pubmed.ncbi.nlm.nih.gov/1863941/) | 1991 | Phase IV study (unrelated drug class) | Clinical Therapeutics | Postmarketing study of a low-dose triphasic oral contraceptive's cycle-control performance — unrelated to iron |
-| [1974991](https://pubmed.ncbi.nlm.nih.gov/1974991/) | 1990 | Case series/Preliminary report | Lancet | Patients with recurrent furunculosis (skin infection, not acne) had low serum iron; iron supplementation resolved the infection — direction is "iron deficiency → infection risk," not "iron treats acne" |
-| [14158432](https://pubmed.ncbi.nlm.nih.gov/14158432/) | 1964 | Case series (historic, unrelated) | Svenska Läkartidningen | Historic survey of peroral gestagen/estrogen treatment (no abstract available) — unrelated to iron |
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia (jurang data DG002). Berdasarkan pengetahuan farmakologi umum, ferrous fumarate ialah garam zat besi ferrous mudah yang digunakan untuk mengisi semula storan zat besi dan membetulkan defisit sintesis hemoglobin — penggunaannya yang ditubuhkan adalah dalam anemia kekurangan zat besi dan anemia mikrositik, bukan dermatologi.
 
-**Note:** None of the above literature provides direct evidence that ferrous fumarate treats acne; 7/8 papers concern an unrelated drug class (oral contraceptives).
+Tiada laluan farmakologi yang diketahui menghubungkan pengembalian zat besi kepada patogenesis jerawat (yang terutamanya didorong oleh pengeluaran sebum yang dirangsang androgen, hiperkeratinisasi folikel, dan kolonisasi *C. acnes*). Dengan menyemak bukti asas untuk calon ini, 7 daripada 8 penerbitan yang dipetik membincangkan ubat pencegah hamilan oral (gabungan estrogen/progestin) dan kesan antiandrogenic mereka terhadap jerawat — kelas ubat yang sama sekali berbeza dan mekanisme dari garam zat besi. Corak ini konsisten dengan ketakpadanan kata kunci/ko-kejadian dalam pangkalan data sumber (cth., "zat besi" dan "anemia" yang bersama dengan kajian ubat pencegah hamil, atau produk ubat pencegah hamilan gabungan oral yang secara sejarah mengandungi zat besi dalam pil plasebo/inert) daripada isyarat farmakologi tulen.
+
+Satu kertas yang longgar berkaitan zat besi (PMID 1974991) melaporkan bahawa pesakit dengan *furunkulosis* berulang (jangkitan kulit bakteria, bukan jerawat) mempunyai zat besi serum rendah, dan bahawa suplementasi zat besi menyelesaikan jangkitan — ini menggambarkan kekurangan zat besi **mempredisposisi kepada jangkitan, yang bukan bukti bahawa suplementasi zat besi merawat jerawat**. Secara keseluruhan, nisbah mekanik untuk calon khusus ini adalah lemah hingga tiada berdasarkan bukti yang tersedia pada masa ini.
 
 ---
 
-## Malaysia Market Information
+## Bukti Percubaan Klinikal
 
-License records show 152 total registrations, but the sampled entries in this evidence pack returned no license number, product name, dosage form, or indication text — the field values were empty. Full registration details should be queried directly from the NPRA QUEST3+ database.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-*(Note: DG001 — TFDA/NPRA package insert warnings and contraindications are marked Blocking for safety pre-screening (S1) and have not yet been obtained.)*
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Hold**
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|------|------|-------|---------|
+| [16371290](https://pubmed.ncbi.nlm.nih.gov/16371290/) | 2006 | Ulasan | Contraception | Mengulas rejim ubat pencegah hamilan oral (estrogen/progestin) untuk rawatan jerawat — tidak berkaitan dengan suplementasi zat besi |
+| [9678128](https://pubmed.ncbi.nlm.nih.gov/9678128/) | 1996 | RCT (kelas ubat tidak berkaitan) | Eur J Contracept Reprod Health Care | Membandingkan pil ubat pencegah hamilan trifasik untuk keberkesanan pencegahan hamilan dan kawalan kitaran — tidak berkaitan dengan ferrous fumarate |
+| [2289388](https://pubmed.ncbi.nlm.nih.gov/2289388/) | 1990 | Ujian perbandingan (kelas ubat tidak berkaitan) | Contraception | Membandingkan kawalan kitaran merentas formulasi ubat pencegah hamilan oral dos rendah — tidak berkaitan dengan zat besi |
+| [16904419](https://pubmed.ncbi.nlm.nih.gov/16904419/) | 2006 | Kohort (kelas ubat tidak berkaitan) | Contraception | Menyiasat sama ada St. John's Wort mengganggu kesan antiandrogenic/jerawat ubat pencegah hamilan oral — tidak berkaitan dengan zat besi |
+| [14596626](https://pubmed.ncbi.nlm.nih.gov/14596626/) | 2003 | Kajian pengesahan (soal selidik QoL) | PharmacoEconomics | Mengesahkan soal selidik kualiti hidup khusus jerawat yang digunakan dalam ujian ubat pencegah hamilan oral — tiada data keberkesanan ubat |
+| [1863941](https://pubmed.ncbi.nlm.nih.gov/1863941/) | 1991 | Kajian Fasa IV (kelas ubat tidak berkaitan) | Clinical Therapeutics | Kajian pasca-pemasaran prestasi kawalan kitaran ubat pencegah hamilan trifasik dos rendah — tidak berkaitan dengan zat besi |
+| [1974991](https://pubmed.ncbi.nlm.nih.gov/1974991/) | 1990 | Siri kes/Laporan awal | Lancet | Pesakit dengan *furunkulosis* berulang (jangkitan kulit, bukan jerawat) mempunyai zat besi serum rendah; suplementasi zat besi menyelesaikan jangkitan — arah adalah "kekurangan zat besi → risiko jangkitan," bukan "zat besi merawat jerawat" |
+| [14158432](https://pubmed.ncbi.nlm.nih.gov/14158432/) | 1964 | Siri kes (bersejarah, tidak berkaitan) | Svenska Läkartidningen | Tinjauan bersejarah rawatan gestagen/estrogen peroral (tiada abstrak tersedia) — tidak berkaitan dengan zat besi |
 
-**Rationale:**
-- TxGNN score and evidence level (L5) indicate model prediction only, with no supporting clinical trials.
-- The cited literature is predominantly about an unrelated drug class (oral contraceptives), suggesting the association may be a database keyword mismatch rather than a genuine signal; no plausible mechanistic link between iron repletion and acne has been identified.
+**Nota:** Tiada literatur di atas memberikan bukti langsung bahawa ferrous fumarate merawat jerawat; 7/8 kertas mengerbau kelas ubat yang tidak berkaitan (ubat pencegah hamilan oral).
 
-**To proceed, the following is needed:**
-- Verify the TxGNN scoring pipeline — all 5 ranked candidates in this pack show an identical 0.0 score, which should be investigated before this candidate is compared against others.
-- Obtain confirmed DrugBank MOA data (DG002) to properly assess mechanistic plausibility.
-- Obtain the NPRA package insert (warnings/contraindications, DG001 — Blocking) before any S1 safety pre-screening can proceed.
-- Given the weak evidence for this candidate, consider prioritizing this drug's other TxGNN-ranked candidates instead — **microcytic anemia** (rank 2, L1, "Proceed with Guardrails," 1 completed Phase 3 RCT) and **deficiency anemia** (rank 3, extensive trial/literature base) are mechanistically coherent with iron supplementation and much better supported by this same evidence pack.
+---
+
+## Maklumat Pasaran Malaysia
+
+Rekod lesen menunjukkan 152 jumlah pendaftaran keseluruhan, tetapi entri sampel dalam pakej bukti ini mengembalikan tiada nombor lesen, nama produk, bentuk dos, atau teks indikasi — nilai medan adalah kosong. Butiran pendaftaran lengkap harus ditanyakan terus daripada pangkalan data NPRA QUEST3+.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk lembaran maklumat produk untuk maklumat keselamatan.
+
+*(Nota: DG001 — amaran lembaran maklumat TFDA/NPRA dan kontraindikasi ditandai Menghalang untuk saringan keselamatan pra (S1) dan belum diperoleh lagi.)*
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+- Skor TxGNN dan paras bukti (L5) menunjukkan ramalan model sahaja, tanpa percubaan klinikal sokongan.
+- Literatur yang dipetik adalah terutamanya tentang kelas ubat yang tidak berkaitan (ubat pencegah hamilan oral), mencadangkan persatuan mungkin ketakpadanan kata kunci pangkalan data daripada isyarat tulen; tiada pautan mekanik yang munasabah antara pengembalian zat besi dan jerawat telah dikenalpasti.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sahkan saluran pemarkahan TxGNN — kesemua 5 calon berjenjang dalam pakej ini menunjukkan skor identik 0.0, yang harus disiasat sebelum calon ini dibandingkan dengan yang lain.
+- Peroleh data MOA DrugBank yang disahkan (DG002) untuk menilai dengan betul keterplausibilan mekanik.
+- Peroleh lembaran maklumat NPRA (amaran/kontraindikasi, DG001 — Menghalang) sebelum sebarang saringan keselamatan pra-S1 dapat diteruskan.
+- Memandangkan bukti yang lemah untuk calon ini, pertimbangkan mengutamakan calon TxGNN-berjenjang lain ubat ini — **anemia mikrositik** (peringkat 2, L1, "Teruskan dengan Penjaga," 1 RCT Fasa 3 yang telah selesai) dan **anemia kekurangan** (peringkat 3, pangkalan percubaan/literatur yang luas) adalah koherensi mekanik dengan suplementasi zat besi dan disokong jauh lebih baik oleh pakej bukti yang sama ini.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

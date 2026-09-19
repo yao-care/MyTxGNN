@@ -29,61 +29,62 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Potassium Bicarbonate: From Electrolyte Replacement to Gastroduodenitis
+# Kalium Bikarbonat: Daripada Penggantian Elektrolit kepada Gastroduodenitis
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Potassium bicarbonate (DrugBank DB11098) is a potassium/electrolyte replacement and systemic alkalinizing agent, traditionally used to correct hypokalemia and metabolic acidosis.
-The TxGNN model predicts it may be effective for **Gastroduodenitis**, but currently **no clinical trials** and **no publications** support this direction — the prediction rests on the model score alone.
+Kalium bikarbonat (DrugBank DB11098) ialah penggantian kalium/elektrolit dan agen alkalisasi sistemik, yang secara tradisional digunakan untuk membetulkan hipokalemia dan asidosis metabolik.
+Model TxGNN meramalkan ia mungkin berkesan untuk **Gastroduodenitis**, tetapi pada masa ini **tiada ujian klinikal** dan **tiada penerbitan** menyokong arah ini — ramalan berpusat pada skor model sahaja.
 
-## Quick Overview
+## Tinjauan Cepat
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Not recorded in the current TFDA extract; known clinical use is as an electrolyte replacement / systemic alkalinizer for hypokalemia or metabolic acidosis |
-| Predicted New Indication | Gastroduodenitis |
-| TxGNN Prediction Score | 99.72% |
-| Evidence Level | L5 (model prediction only — no clinical trials, no literature) |
-| Taiwan Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 4 |
-| Recommended Decision | Hold |
+| Petunjuk Asal | Tidak dicatat dalam ekstrak TFDA semasa; penggunaan klinikal yang diketahui ialah sebagai penggantian elektrolit / alkalisasi sistemik untuk hipokalemia atau asidosis metabolik |
+| Petunjuk Baru yang Diramalkan | Gastroduodenitis |
+| Skor Ramalan TxGNN | 99.72% |
+| Tahap Bukti | L5 (ramalan model sahaja — tiada ujian klinikal, tiada literatur) |
+| Status Pasaran Taiwan | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 4 |
+| Keputusan Yang Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data is not available (DrugBank MOA field is a data gap). Based on known pharmacology, potassium bicarbonate is a systemic electrolyte/alkalinizing agent — it is not formulated or established as a topical gastrointestinal drug.
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia (bidang DrugBank MOA ialah jurang data). Berdasarkan farmakologi yang diketahui, kalium bikarbonat ialah agen elektrolit/alkalisasi sistemik — ia tidak dirumuskan atau ditubuhkan sebagai ubat gastrointestinal topik.
 
-The evidence pack's own mechanistic assessment is skeptical of this prediction: potassium bicarbonate's alkaline component could theoretically neutralize gastric acid and transiently relieve epigastric discomfort, but gastroduodenitis is primarily a mucosal inflammatory condition (commonly driven by *H. pylori* infection, NSAID use, or bile reflux). Potassium bicarbonate has no established anti-inflammatory, antimicrobial, or mucosal-protective mechanism to address that underlying pathology.
+Penilaian mekanistik pakatan bukti itu sendiri adalah skeptikal terhadap ramalan ini: komponen alkali kalium bikarbonat secara teorinya boleh meneutralkan asid lambung dan memberi reliaf sementara kepada ketidakselesaan epigastrik, tetapi gastroduodenitis adalah terutamanya keadaan radang mukosa (biasanya didorong oleh jangkitan *H. pylori*, penggunaan NSAID, atau refluks hempedu). Kalium bikarbonat tidak mempunyai mekanisme anti-radang, antimikroba, atau pelindung mukosa yang ditubuhkan untuk menangani patologi asas tersebut.
 
-The high TxGNN score (99.72%) most likely reflects statistical co-occurrence in the knowledge graph between "potassium/electrolyte – acid-base balance – GI symptom" nodes, rather than a genuine, targeted pharmacological pathway. The mechanistic link should be considered weak and indirect until independently corroborated.
+Skor TxGNN yang tinggi (99.72%) paling berkemungkinan mencerminkan kehadiran statistik bersama dalam graf pengetahuan antara nod "kalium/elektrolit – keseimbangan asid-bes – simptom GI", bukan laluan farmakologi yang tulen dan bersasaran. Pautan mekanistik harus dianggap lemah dan tidak langsung sehingga disahkan secara bebas.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-Currently no related clinical trials registered.
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no related literature available.
+Pada masa ini tiada literatur berkaitan yang tersedia.
 
-## Taiwan Market Information
+## Maklumat Pasaran Taiwan
 
-TFDA records show **4 registered licenses** for this drug, but license numbers, product names, dosage forms, manufacturers, and approved indication text are not available in the current data extract — these fields need to be populated from the TFDA source before they can be reported here.
+Rekod TFDA menunjukkan **4 lesen berdaftar** untuk ubat ini, tetapi nombor lesen, nama produk, bentuk dos, pengeluar, dan teks petunjuk yang diluluskan tidak tersedia dalam ekstrak data semasa — bidang ini perlu diisi daripada sumber TFDA sebelum ia dapat dilaporkan di sini.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information. (Key warnings, contraindications, and drug interaction data are currently marked as data gaps — TFDA label warnings/contraindications are flagged as a **Blocking** data gap, item DG001.)
+Sila rujuk sisipan paket untuk maklumat keselamatan. (Amaran utama, kontraindikasi, dan data interaksi ubat pada masa ini ditandakan sebagai jurang data — amaran/kontraindikasi label TFDA ditandakan sebagai jurang data **Menyekat**, item DG001.)
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The prediction is supported only by a TxGNN score with no corroborating clinical trials or literature (Evidence Level L5), and the mechanistic rationale in the evidence pack itself is assessed as weak/indirect. A Blocking safety data gap (TFDA label warnings/contraindications) also prevents any S1 safety evaluation at this stage.
+**Rasional:**
+Ramalan disokong hanya oleh skor TxGNN tanpa ujian klinikal atau literatur yang menyokong (Tahap Bukti L5), dan rasional mekanistik dalam pakatan bukti itu sendiri dinilai sebagai lemah/tidak langsung. Jurang data keselamatan Menyekat (amaran/kontraindikasi label TFDA) juga menghalang sebarang penilaian keselamatan S1 pada peringkat ini.
 
-**To proceed, the following is needed:**
-- TFDA package insert / label (warnings, contraindications) — Blocking gap (DG001)
-- Confirmed mechanism of action from DrugBank — High-priority gap (DG002)
-- Complete Taiwan license details (product names, dosage forms, approved indication text)
-- Independent preclinical or mechanistic evidence linking potassium bicarbonate to gastroduodenitis before advancing beyond model prediction
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisipan paket TFDA / label (amaran, kontraindikasi) — Jurang Menyekat (DG001)
+- Mekanisme tindakan yang disahkan daripada DrugBank — Jurang Keutamaan Tinggi (DG002)
+- Butiran lesen Taiwan yang lengkap (nama produk, bentuk dos, teks petunjuk yang diluluskan)
+- Bukti praklinik atau mekanistik bebas menghubungkan kalium bikarbonat kepada gastroduodenitis sebelum maju melampaui ramalan model
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

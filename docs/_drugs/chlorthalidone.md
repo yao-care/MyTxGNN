@@ -29,76 +29,77 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Chlorthalidone: From Hypertension to Primary Hereditary Glaucoma
+# Chlorthalidone: Dari Hipertensi ke Glaukoma Herediteri Primer
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Chlorthalidone is a thiazide-like diuretic established for the treatment of hypertension and fluid retention (edema). The TxGNN model predicts it may be effective for **Primary Hereditary Glaucoma**, but this direction is currently supported by **no clinical trials** and **no published literature** — the prediction rests on a theoretical structural analogy alone.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not recorded in current NPRA license text extraction; based on established pharmacological classification, chlorthalidone (thiazide-like diuretic) is indicated for hypertension and edema |
-| Predicted New Indication | Primary Hereditary Glaucoma |
-| TxGNN Prediction Score | 99.92% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
-| Recommended Decision | Hold |
+Chlorthalidone adalah diuretik mirip tiazida yang telah mapan untuk pengobatan hipertensi dan retensi cairan (edema). Model TxGNN memprediksi bahwa chlorthalidone mungkin efektif untuk **Glaukoma Herediteri Primer**, tetapi arah penelitian ini saat ini tidak didukung oleh **uji klinis apa pun** dan **literatur yang diterbitkan** — prediksi hanya didasarkan pada analogi struktural teoretis.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Ikhtisar Cepat
 
-Currently, detailed mechanism of action data is not available (data gap DG002). Based on known information, chlorthalidone is a thiazide-like diuretic that inhibits the Na⁺-Cl⁻ cotransporter in the distal convoluted tubule; its efficacy in hypertension and edema is well established.
-
-The proposed link to primary hereditary glaucoma is purely structural: thiazide-class compounds share a chemical scaffold with carbonic anhydrase inhibitors (a recognized class of glaucoma therapy that lowers intraocular pressure by reducing aqueous humor production). On this basis, chlorthalidone is hypothesized to possess very weak carbonic anhydrase inhibitory activity that could theoretically lower intraocular pressure.
-
-However, this rationale is speculative — there is no clinical, pharmacological, or molecular-binding evidence confirming that chlorthalidone has clinically meaningful carbonic anhydrase inhibitory activity, and no data on ocular penetration or intraocular pressure effects exist for this drug.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered
+| Item | Konten |
+|------|--------|
+| Indikasi Asli | Tidak tercatat dalam ekstraksi teks lisensi NPRA saat ini; berdasarkan klasifikasi farmakologis yang sudah mapan, chlorthalidone (diuretik mirip tiazida) ditunjukkan untuk hipertensi dan edema |
+| Indikasi Baru yang Diprediksi | Glaukoma Herediteri Primer |
+| Skor Prediksi TxGNN | 99.92% |
+| Tingkat Bukti | L5 |
+| Status Pasar Malaysia | ✓ Dipasarkan |
+| Jumlah Registrasi | 3 |
+| Keputusan yang Direkomendasikan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Prediksi Ini Masuk Akal?
 
-Currently no related literature available
+Saat ini, data mekanisme aksi terperinci tidak tersedia (kesenjangan data DG002). Berdasarkan informasi yang diketahui, chlorthalidone adalah diuretik mirip tiazida yang menghambat kotransporter Na⁺-Cl⁻ di tubulus konvolusi distal; efikasinya dalam hipertensi dan edema telah terbukti dengan baik.
 
----
+Hubungan yang diusulkan dengan glaukoma herediteri primer murni bersifat struktural: senyawa kelas tiazida berbagi rangka kimia dengan penghambat anhidrasa karbonik (kelas pengobatan glaukoma yang diakui yang menurunkan tekanan intraokular dengan mengurangi produksi humor akueus). Atas dasar ini, chlorthalidone dihipotesiskan memiliki aktivitas penghambatan anhidrasa karbonik yang sangat lemah yang secara teoretis dapat menurunkan tekanan intraokular.
 
-## Malaysia Market Information
-
-Chlorthalidone has 3 active product registrations with NPRA (Malaysia), and market status is confirmed as marketed. Product-level details (registration numbers, product names, dosage forms, and approved indication text) were not returned in the current data extraction and cannot be tabulated at this time.
+Namun, alasan ini bersifat spekulatif — tidak ada bukti klinis, farmakologis, atau pengikatan molekuler yang mengonfirmasi bahwa chlorthalidone memiliki aktivitas penghambatan anhidrasa karbonik yang bermakna secara klinis, dan tidak ada data mengenai penetrasi okular atau dampak pada tekanan intraokular untuk obat ini.
 
 ---
 
-## Safety Considerations
+## Bukti Uji Klinis
 
-Please refer to the package insert for safety information.
+Saat ini tidak ada uji klinis terkait yang terdaftar
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Hold**
+Saat ini tidak ada literatur terkait yang tersedia
 
-**Rationale:**
-Despite a high TxGNN prediction score, primary hereditary glaucoma has zero supporting clinical trials or literature, and the mechanistic rationale (weak structural analogy to carbonic anhydrase inhibitors) is theoretical only, with no molecular or clinical validation. This is classified as evidence level L5 — model prediction only.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA label warnings and contraindications (blocking data gap DG001)
-- Confirmed mechanism of action data for chlorthalidone (data gap DG002)
-- Preclinical or in vitro evidence of carbonic anhydrase inhibitory activity and ocular penetration
-- If pursued, a targeted literature/trial search specifically on chlorthalidone and intraocular pressure, since none currently exists
+## Informasi Pasar Malaysia
 
-*Note: within this evidence pack, rank 8 (chronic pulmonary heart disease, L3, Research Question) has a materially stronger evidence base — 1 clinical trial and 3 literature citations, including a direct historical study of chlorthalidone in cor pulmonale — and may be a more productive candidate to prioritize ahead of this one.*
+Chlorthalidone memiliki 3 registrasi produk aktif dengan NPRA (Malaysia), dan status pasar dikonfirmasi sebagai dipasarkan. Detail tingkat produk (nomor registrasi, nama produk, bentuk dosis, dan teks indikasi yang disetujui) tidak dikembalikan dalam ekstraksi data saat ini dan tidak dapat ditabulasikan pada waktu ini.
+
+---
+
+## Pertimbangan Keselamatan
+
+Silakan merujuk ke sisipan kemasan untuk informasi keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Selanjutnya
+
+**Keputusan: Tahan**
+
+**Alasan:**
+Terlepas dari skor prediksi TxGNN yang tinggi, glaukoma herediteri primer tidak memiliki uji klinis pendukung atau literatur, dan alasan mekanistik (analogi struktural lemah terhadap penghambat anhidrasa karbonik) bersifat teoretis semata, tanpa validasi molekuler atau klinis. Ini diklasifikasikan sebagai tingkat bukti L5 — prediksi model saja.
+
+**Untuk melanjutkan, hal-hal berikut diperlukan:**
+- Peringatan label TFDA/NPRA dan kontraindikasi (kesenjangan data pemblokiran DG001)
+- Data mekanisme aksi yang dikonfirmasi untuk chlorthalidone (kesenjangan data DG002)
+- Bukti praklinis atau in vitro dari aktivitas penghambatan anhidrasa karbonik dan penetrasi okular
+- Jika dilanjutkan, pencarian literatur/uji coba yang ditargetkan secara khusus pada chlorthalidone dan tekanan intraokular, karena saat ini tidak tersedia
+
+*Catatan: dalam paket bukti ini, peringkat 8 (penyakit jantung paru kronis, L3, Pertanyaan Penelitian) memiliki dasar bukti yang secara material lebih kuat — 1 uji klinis dan 3 kutipan literatur, termasuk studi historis langsung tentang chlorthalidone dalam cor pulmonale — dan dapat menjadi kandidat yang lebih produktif untuk diprioritaskan dibandingkan yang ini.*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

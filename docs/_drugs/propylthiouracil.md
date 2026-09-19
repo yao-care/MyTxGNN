@@ -29,130 +29,131 @@ Tahap bukti: **L5** | Indikasi diramal: **3**
 
 </div>
 
-# Propylthiouracil (PTU): From Hyperthyroidism to Three Predicted Thyroid-Related Indications
+# Propylthiouracil (PTU): Daripada Hipertiroidisme kepada Tiga Petunjuk Berhubung Tiroid yang Diramalkan
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-> Propylthiouracil (PTU, DB00550) is a thionamide antithyroid drug historically used to treat **hyperthyroidism (Graves' disease)**. TxGNN identifies three candidate new indications — **resistance to thyroid hormone (TRβ mutation)** (score 99.66%), **neonatal thyrotoxicosis** (score 99.40%), and **hyperthyroxinemia** (score 99.08%) — with evidence quality ranging from a single Phase 3 trial + 20 publications (neonatal thyrotoxicosis, L2) down to mechanism-only literature (the other two, L4). A **Blocking data gap** on Malaysia NPRA labeling (warnings/contraindications) currently prevents any of the three from clearing initial safety screening (S1).
+> Propylthiouracil (PTU, DB00550) ialah ubat antitiroid tieonamida yang secara tradisinya digunakan untuk merawat **hipertiroidisme (Penyakit Graves)**. TxGNN mengenal pasti tiga petunjuk calon baru — **rintangan terhadap hormon tiroid (mutasi TRβ)** (skor 99.66%), **tirotoksikosis neonatal** (skor 99.40%), dan **hipertiroksemia** (skor 99.08%) — dengan kualiti bukti berjulat daripada satu percubaan Fasa 3 + 20 penerbitan (tirotoksikosis neonatal, L2) sehingga literatur mekanisme sahaja (kedua-duanya lain, L4). Satu **jurang data yang menghalang** mengenai pelabelan NPRA Malaysia (amaran/kontraindikasi) pada masa ini menghalang ketiga-tiga daripada menyelesaikan tapisan keselamatan awal (S1).
 
 ---
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | Hyperthyroidism (Graves' disease) — *not captured in the NPRA license text on file; based on PTU's established pharmacology* |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 1 |
-| Recommended Decision (overall) | **Hold** (blocked by missing TFDA/NPRA safety data — see below) |
+| Item | Kandungan |
+|------|---------|
+| Petunjuk Asli | Hipertiroidisme (Penyakit Graves) — *tidak ditangkap dalam teks lesen NPRA yang ada pada fail; berdasarkan farmakologi PTU yang telah ditetapkan* |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 1 |
+| Cadangan Keputusan (keseluruhan) | **Tahan** (disekat oleh data keselamatan TFDA/NPRA yang hilang — lihat di bawah) |
 
-### Predicted Indications Compared
+### Petunjuk yang Diramalkan Dibandingkan
 
-| Rank | Predicted New Indication | TxGNN Score | Evidence Level | Decision Stage | Per-Indication Recommendation |
+| Pangkat | Petunjuk Baru yang Diramalkan | Skor TxGNN | Tahap Bukti | Peringkat Keputusan | Cadangan Setiap Petunjuk |
 |---|---|---|---|---|---|
-| 1 | Resistance to thyroid hormone (TRβ mutation) | 99.66% | L4 | S0 | Hold |
-| 2 | Neonatal thyrotoxicosis | 99.40% | L2 | S2 | Proceed with Guardrails |
-| 3 | Hyperthyroxinemia | 99.08% | L4 | S1 | Research Question |
+| 1 | Rintangan terhadap hormon tiroid (mutasi TRβ) | 99.66% | L4 | S0 | Tahan |
+| 2 | Tirotoksikosis neonatal | 99.40% | L2 | S2 | Teruskan dengan Penjaga |
+| 3 | Hipertiroksemia | 99.08% | L4 | S1 | Soalan Penyelidikan |
 
 ---
 
-## Why Is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed DrugBank MOA text is not available (data gap), but the mechanism is well characterized in the supporting literature: PTU inhibits **thyroid peroxidase (TPO)**, blocking iodide organification and iodotyrosine coupling, and also inhibits **peripheral deiodinase type 1**, reducing T4→T3 conversion. Both actions lower circulating thyroid hormone levels.
+Teks MOA DrugBank terperinci tidak tersedia (jurang data), tetapi mekanisme itu dicirikan dengan baik dalam literatur sokongan: PTU menghalang **peroksidase tiroid (TPO)**, menyekat organisasi iodida dan gandingan iodotirosina, dan juga menghalang **peroksida tipe 1 di pinggir**, mengurangkan penukaran T4→T3. Kedua-dua tindakan menurunkan tahap hormon tiroid beredar.
 
-- **Neonatal thyrotoxicosis** is mechanistically the strongest fit: it typically results from transplacental transfer of maternal TSH-receptor-stimulating antibodies (Graves' disease) driving fetal/neonatal overproduction of T3/T4. PTU's hormone-synthesis-blocking action is already the established clinical approach for thyrotoxicosis in pregnancy (PTU preferred in the first trimester due to methimazole's teratogenicity risk), making this less a novel repurposing than a documented extension of existing practice.
-- **Resistance to thyroid hormone (TRβ mutation)** and **hyperthyroxinemia** are mechanistically more indirect. Both conditions originate at the **receptor/binding level** (TRβ mutation causing reduced tissue responsiveness with impaired negative feedback, or elevated circulating T4 from causes such as RTH, MCT8 deficiency, or familial dysalbuminemic hyperthyroxinemia) rather than from excess hormone *synthesis*. Lowering hormone production with PTU does not correct the underlying receptor defect, and TRα-dominant tissues (heart, bone) may remain relatively unaffected — so a therapeutic benefit is plausible but not guaranteed. One case report (PMID 18334584) does show symptomatic benefit from PTU + L-thyroxine in an MCT8-mutation patient, offering a direct but single-case signal.
+- **Tirotoksikosis neonatal** adalah yang paling serasi secara mekanik: ia biasanya terhasil daripada pemindahan transplasenta antibodi perangsang reseptor TSH ibu (Penyakit Graves) yang mendorong pengeluaran T3/T4 janin/neonatal yang berlebihan. Tindakan penyekatan sintesis hormon PTU sudah merupakan pendekatan klinikal yang mantap untuk tirotoksikosis dalam kehamilan (PTU lebih diutamakan pada trimester pertama kerana risiko teratogenik methimazole), menjadikan ini kurang merupakan penggunaan semula yang inovatif daripada perluasan yang didokumenkan bagi amalan sedia ada.
+- **Rintangan terhadap hormon tiroid (mutasi TRβ)** dan **hipertiroksemia** adalah lebih tidak langsung secara mekanik. Kedua-dua keadaan berasal pada **tahap reseptor/pengikatan** (mutasi TRβ menyebabkan tindak balas tisu yang berkurangan dengan maklum balas negatif yang lemah, atau T4 beredar yang meningkat daripada sebab-sebab seperti RTH, kekurangan MCT8, atau hipertiroksemia disalbuminemia familial) daripada daripada lebihan hormon *sintesis*. Menurunkan pengeluaran hormon dengan PTU tidak membetulkan cacat reseptor asas, dan tisu yang didominasi TRα (jantung, tulang) mungkin tetap relatif tidak terjejas — jadi faedah terapeutik munasabah tetapi tidak dijamin. Satu laporan kes (PMID 18334584) memang menunjukkan faedah simptomatik daripada PTU + L-tiroksin dalam pesakit mutasi MCT8, menawarkan isyarat langsung tetapi kes tunggal.
 
 ---
 
-## Clinical Trial Evidence
+## Bukti Percubaan Klinikal
 
-### Resistance to Thyroid Hormone (TRβ mutation)
-Currently no related clinical trials registered.
+### Rintangan terhadap Hormon Tiroid (mutasi TRβ)
+Pada masa ini tidak ada percubaan klinikal yang berkaitan didaftarkan.
 
-### Neonatal Thyrotoxicosis
+### Tirotoksikosis Neonatal
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT03066076](https://clinicaltrials.gov/study/NCT03066076) | Phase 3 | Unknown | 60 | Randomized comparison of total thyroidectomy vs. thionamides (antithyroid drugs, incl. PTU-class) in Graves' ophthalmopathy patients; relevant to maternal-side thyrotoxicosis management but not designed for the neonatal population directly (relevance grade B) |
+| [NCT03066076](https://clinicaltrials.gov/study/NCT03066076) | Fasa 3 | Tidak Diketahui | 60 | Perbandingan rawak tiroidektomi keseluruhan vs. tieonamida (ubat antitiroid, termasuk kelas PTU) dalam pesakit oftalmopati Graves; berkaitan dengan pengurusan tirotoksikosis sebelah ibu tetapi tidak dirancang untuk populasi neonatal secara langsung (gred perkaitan B) |
 
-### Hyperthyroxinemia
-Currently no related clinical trials registered.
+### Hipertiroksemia
+Pada masa ini tidak ada percubaan klinikal yang berkaitan didaftarkan.
 
 ---
 
-## Literature Evidence
+## Bukti Literatur
 
-### Resistance to Thyroid Hormone (TRβ mutation) — 6 publications
+### Rintangan terhadap Hormon Tiroid (mutasi TRβ) — 6 penerbitan
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [14684607](https://pubmed.ncbi.nlm.nih.gov/14684607/) | 2004 | Review | Endocrinology | TRβ mutation causes dominant-negative effect on cardiac gene response to thyroid hormone |
-| [22919057](https://pubmed.ncbi.nlm.nih.gov/22919057/) | 2012 | Preclinical (mouse) | Endocrinology | TRβ mutant mouse model spontaneously develops follicular thyroid carcinoma |
-| [21909131](https://pubmed.ncbi.nlm.nih.gov/21909131/) | 2012 | Preclinical (mouse) | Oncogene | Thyroid hormone activates tumor proliferation in TRβ-mutant (PV) mouse model |
-| [18561095](https://pubmed.ncbi.nlm.nih.gov/18561095/) | 2009 | Case Report | Exp Clin Endocrinol Diabetes | TRβ mutation (P453A) identified in a Turkish family with RTH |
-| [12201835](https://pubmed.ncbi.nlm.nih.gov/12201835/) | 2002 | Case Report | Clinical Endocrinology | Neonatal thyrotoxicosis + maternal infertility linked to TRβ mutation (M313T); notes prior (ineffective) PTU treatment |
-| [10724359](https://pubmed.ncbi.nlm.nih.gov/10724359/) | 1999 | Case Report | Endocrine Journal | De novo TRβ mutation (L330S) in a Thai patient previously treated with PTU under a mistaken thyrotoxicosis diagnosis |
+| [14684607](https://pubmed.ncbi.nlm.nih.gov/14684607/) | 2004 | Semakan | Endocrinology | Mutasi TRβ menyebabkan kesan dominan-negatif pada tindak balas gen jantung terhadap hormon tiroid |
+| [22919057](https://pubmed.ncbi.nlm.nih.gov/22919057/) | 2012 | Praklinik (tikus) | Endocrinology | Model tikus TRβ mutant secara spontan membangunkan karsinoma tiroid folikuler |
+| [21909131](https://pubmed.ncbi.nlm.nih.gov/21909131/) | 2012 | Praklinik (tikus) | Oncogene | Hormon tiroid mengaktifkan proliferasi tumor dalam model tikus TRβ-mutant (PV) |
+| [18561095](https://pubmed.ncbi.nlm.nih.gov/18561095/) | 2009 | Laporan Kes | Exp Clin Endocrinol Diabetes | Mutasi TRβ (P453A) dikenal pasti dalam keluarga Turki dengan RTH |
+| [12201835](https://pubmed.ncbi.nlm.nih.gov/12201835/) | 2002 | Laporan Kes | Clinical Endocrinology | Tirotoksikosis neonatal + infertiliti ibu berkaitan dengan mutasi TRβ (M313T); mencatat rawatan PTU terdahulu (tidak berkesan) |
+| [10724359](https://pubmed.ncbi.nlm.nih.gov/10724359/) | 1999 | Laporan Kes | Endocrine Journal | Mutasi TRβ de novo (L330S) dalam pesakit Thai yang sebelum ini dirawat dengan PTU di bawah diagnosis tirotoksikosis yang salah |
 
-### Neonatal Thyrotoxicosis — top 10 of 20 publications
+### Tirotoksikosis Neonatal — 10 teratas daripada 20 penerbitan
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [33349844](https://pubmed.ncbi.nlm.nih.gov/33349844/) | 2021 | Review | J Clin Endocrinol Metab | Testing/monitoring/treatment guidance for thyroid dysfunction in pregnancy |
-| [31345521](https://pubmed.ncbi.nlm.nih.gov/31345521/) | 2019 | Review | Endocrinol Metab Clin North Am | PTU recommended in first trimester for high-risk Graves' disease, then transition to methimazole |
-| [25747892](https://pubmed.ncbi.nlm.nih.gov/25747892/) | 2015 | Cohort | Thyroid | Gestational thyrotoxicosis, antithyroid drug use, and neonatal outcomes in an integrated health system |
-| [32199749](https://pubmed.ncbi.nlm.nih.gov/32199749/) | 2020 | Review | Best Pract Res Clin Endocrinol Metab | Management approach for thyrotoxicosis during pregnancy |
-| [24622372](https://pubmed.ncbi.nlm.nih.gov/24622372/) | 2013 | Review | Lancet Diabetes Endocrinol | Overview of hyperthyroidism in pregnancy and maternal/fetal risk |
-| [6387489](https://pubmed.ncbi.nlm.nih.gov/6387489/) | 1984 | Review | N Engl J Med | Classic review of antithyroid drug pharmacology and mechanisms |
-| [3271369](https://pubmed.ncbi.nlm.nih.gov/3271369/) | 1988 | Review | Rev Chil Pediatr | General review of hyperthyroidism (abstract unavailable) |
-| [18558604](https://pubmed.ncbi.nlm.nih.gov/18558604/) | 2008 | Case Report | Endocr Pract | Persistent neonatal thyrotoxicosis from an activating TSHR mutation |
-| [12201835](https://pubmed.ncbi.nlm.nih.gov/12201835/) | 2002 | Case Report | Clinical Endocrinology | Neonatal thyrotoxicosis from TRβ mutation (M313T), prior maternal PTU exposure |
-| [596245](https://pubmed.ncbi.nlm.nih.gov/596245/) | 1977 | Case Report/Cohort | Acta Med Scand | Postpartum exacerbation of hyperthyroidism linked to neonatal thyrotoxicosis |
+| [33349844](https://pubmed.ncbi.nlm.nih.gov/33349844/) | 2021 | Semakan | J Clin Endocrinol Metab | Panduan pengujian/pemantauan/rawatan untuk disfungsi tiroid dalam kehamilan |
+| [31345521](https://pubmed.ncbi.nlm.nih.gov/31345521/) | 2019 | Semakan | Endocrinol Metab Clin North Am | PTU disyorkan dalam trimester pertama untuk Penyakit Graves berisiko tinggi, kemudian beralih kepada methimazole |
+| [25747892](https://pubmed.ncbi.nlm.nih.gov/25747892/) | 2015 | Kohort | Thyroid | Tirotoksikosis gestasi, penggunaan ubat antitiroid, dan hasil neonatal dalam sistem kesihatan bersepadu |
+| [32199749](https://pubmed.ncbi.nlm.nih.gov/32199749/) | 2020 | Semakan | Best Pract Res Clin Endocrinol Metab | Pendekatan pengurusan untuk tirotoksikosis semasa kehamilan |
+| [24622372](https://pubmed.ncbi.nlm.nih.gov/24622372/) | 2013 | Semakan | Lancet Diabetes Endocrinol | Gambaran keseluruhan hipertiroidisme dalam kehamilan dan risiko ibu/janin |
+| [6387489](https://pubmed.ncbi.nlm.nih.gov/6387489/) | 1984 | Semakan | N Engl J Med | Semakan klasik farmakologi ubat antitiroid dan mekanisme |
+| [3271369](https://pubmed.ncbi.nlm.nih.gov/3271369/) | 1988 | Semakan | Rev Chil Pediatr | Semakan umum hipertiroidisme (abstrak tidak tersedia) |
+| [18558604](https://pubmed.ncbi.nlm.nih.gov/18558604/) | 2008 | Laporan Kes | Endocr Pract | Tirotoksikosis neonatal berterusan daripada mutasi TSHR yang mengaktifkan |
+| [12201835](https://pubmed.ncbi.nlm.nih.gov/12201835/) | 2002 | Laporan Kes | Clinical Endocrinology | Tirotoksikosis neonatal daripada mutasi TRβ (M313T), pendedahan PTU ibu terdahulu |
+| [596245](https://pubmed.ncbi.nlm.nih.gov/596245/) | 1977 | Laporan Kes/Kohort | Acta Med Scand | Eksaserbasi pasca-persalinan hipertiroidisme berkaitan dengan tirotoksikosis neonatal |
 
-*10 additional publications (mostly reviews/case reports on ATD use in pregnancy, e.g. PMID 36680759, 34335902, 25185644, 11298090) were deprioritized for this table but are available in the evidence pack.*
+*10 penerbitan tambahan (kebanyakannya semakan/laporan kes mengenai penggunaan ATD dalam kehamilan, contohnya PMID 36680759, 34335902, 25185644, 11298090) telah dikurangkan keutamaan untuk jadual ini tetapi tersedia dalam pakej bukti.*
 
-### Hyperthyroxinemia — top 10 of 13 publications
+### Hipertiroksemia — 10 teratas daripada 13 penerbitan
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [7527990](https://pubmed.ncbi.nlm.nih.gov/7527990/) | 1994 | Review | Acta Med Austriaca | Overview of thyroxine excess in pregnancy |
-| [2840057](https://pubmed.ncbi.nlm.nih.gov/2840057/) | 1988 | Cohort | Aust N Z J Med | PTU + potassium perchlorate combination for amiodarone-induced hyperthyroidism |
-| [3097618](https://pubmed.ncbi.nlm.nih.gov/3097618/) | 1986 | Review | Pediatrics | Familial partial peripheral/pituitary resistance to thyroid hormone often misdiagnosed and mistreated with PTU |
-| [14684607](https://pubmed.ncbi.nlm.nih.gov/14684607/) | 2004 | Review | Endocrinology | TRβ mutation dominant-negative effect in cardiac tissue |
-| [32101523](https://pubmed.ncbi.nlm.nih.gov/32101523/) | 2020 | Case Report | Endocrinol Diabetes Metab Case Rep | Familial dysalbuminemic hyperthyroxinemia complicating autoimmune thyroid disease management |
-| [8574290](https://pubmed.ncbi.nlm.nih.gov/8574290/) | 1995 | Preclinical (mouse) | Endocrine Journal | Long-term PTU/thyroid hormone effects on lymphocyte subsets |
-| [18334584](https://pubmed.ncbi.nlm.nih.gov/18334584/) | 2008 | Case Report | J Clin Endocrinol Metab | PTU + L-thyroxine combination benefits a patient with MCT8 mutation |
-| [9436485](https://pubmed.ncbi.nlm.nih.gov/9436485/) | 1997 | Case Series | Annales d'Endocrinologie | Fetal hyperthyroidism from maternal TSH-receptor stimulating antibodies despite euthyroid mother |
-| [16433073](https://pubmed.ncbi.nlm.nih.gov/16433073/) | 2005 | Preclinical (rat) | Neurosci Behav Physiol | Effects of thyroxine level changes on cataleptic freezing reactions in rats |
-| [12201835](https://pubmed.ncbi.nlm.nih.gov/12201835/) | 2002 | Case Report | Clinical Endocrinology | Neonatal thyrotoxicosis/TRβ mutation with prior PTU exposure |
+| [7527990](https://pubmed.ncbi.nlm.nih.gov/7527990/) | 1994 | Semakan | Acta Med Austriaca | Gambaran keseluruhan lebihan tiroksin dalam kehamilan |
+| [2840057](https://pubmed.ncbi.nlm.nih.gov/2840057/) | 1988 | Kohort | Aust N Z J Med | Kombinasi PTU + kalium perkhlorat untuk hipertiroidisme yang diinduksi amiodarone |
+| [3097618](https://pubmed.ncbi.nlm.nih.gov/3097618/) | 1986 | Semakan | Pediatrics | Rintangan tiroid hormon familial separa/hipofisis sering disalahdiagnosis dan disalahrawat dengan PTU |
+| [14684607](https://pubmed.ncbi.nlm.nih.gov/14684607/) | 2004 | Semakan | Endocrinology | Kesan dominan-negatif mutasi TRβ dalam tisu jantung |
+| [32101523](https://pubmed.ncbi.nlm.nih.gov/32101523/) | 2020 | Laporan Kes | Endocrinol Diabetes Metab Case Rep | Hipertiroksemia disalbuminemia familial yang merumitkan pengurusan penyakit tiroid autoimun |
+| [8574290](https://pubmed.ncbi.nlm.nih.gov/8574290/) | 1995 | Praklinik (tikus) | Endocrine Journal | Kesan PTU/hormon tiroid jangka panjang pada subset limfosit |
+| [18334584](https://pubmed.ncbi.nlm.nih.gov/18334584/) | 2008 | Laporan Kes | J Clin Endocrinol Metab | Kombinasi PTU + L-tiroksin memberi manfaat kepada pesakit dengan mutasi MCT8 |
+| [9436485](https://pubmed.ncbi.nlm.nih.gov/9436485/) | 1997 | Siri Kes | Annales d'Endocrinologie | Hipertiroidisme janin daripada antibodi perangsang reseptor TSH ibu terlepas ibu yang eutiroid |
+| [16433073](https://pubmed.ncbi.nlm.nih.gov/16433073/) | 2005 | Praklinik (tikus) | Neurosci Behav Physiol | Kesan perubahan tahap tiroksin pada tindak balas pembekuan kataleptik dalam tikus |
+| [12201835](https://pubmed.ncbi.nlm.nih.gov/12201835/) | 2002 | Laporan Kes | Clinical Endocrinology | Tirotoksikosis neonatal/mutasi TRβ dengan pendedahan PTU terdahulu |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-NPRA records confirm the drug is **marketed with 1 active registration**, but the license record on file has blank fields for authorization number, product name, dosage form, and approved indication text — these details still need to be retrieved directly from NPRA (see Conclusion).
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information. (Key warnings, contraindications, and DDI data are all currently unavailable — flagged as a **Blocking** data gap, DG001.)
+Rekod NPRA mengesahkan ubat itu **dipasarkan dengan 1 pendaftaran aktif**, tetapi rekod lesen pada fail mempunyai medan kosong untuk nombor kebenaran, nama produk, bentuk dos, dan teks petunjuk yang diluluskan — butiran ini masih perlu diambil terus daripada NPRA (lihat Kesimpulan).
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila rujuk sisipan pakej untuk maklumat keselamatan. (Semua data amaran utama, kontraindikasi, dan DDI pada masa ini tidak tersedia — ditandai sebagai jurang data yang **Menghalang**, DG001.)
 
-**Rationale:**
-The missing TFDA/NPRA package-insert data (warnings and contraindications) is a **Blocking** gap that prevents any of the three candidate indications from clearing initial safety screening (S1), regardless of how strong the underlying clinical/mechanistic evidence is. Neonatal thyrotoxicosis already has L2/S2-level support (an existing Phase 3 trial context plus 20 publications including cohort and review-tier evidence) and is closest to being actionable once safety data is filled in; the other two indications (RTH-beta, hyperthyroxinemia) remain mechanistically indirect (receptor-level pathology vs. PTU's hormone-synthesis-blocking action) and sit at L4 with single-case-level clinical signal.
+---
 
-**To proceed, the following is needed:**
-- Retrieve TFDA/NPRA package insert (warnings, contraindications) — **Blocking (DG001)**
-- Confirm PTU's mechanism of action from DrugBank/primary pharmacology sources (DG002)
-- Complete NPRA license details (authorization number, product name, dosage form, approved indication text) — currently blank despite an active registration
-- For neonatal thyrotoxicosis: formal relevance grading of the ~10 literature items still marked "pending" to firm up the existing L2/S2 assessment
-- For RTH-beta and hyperthyroxinemia: endocrinology expert review of the receptor-vs-synthesis mechanistic mismatch before advancing beyond L4/Research Question
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Data sisipan pakej TFDA/NPRA yang hilang (amaran dan kontraindikasi) ialah jurang **menghalang** yang menghalang ketiga-tiga petunjuk calon daripada menyelesaikan tapisan keselamatan awal (S1), tidak kira betapa kuatnya bukti klinikal/mekanik yang asas. Tirotoksikosis neonatal sudah mempunyai sokongan tahap L2/S2 (konteks percubaan Fasa 3 sedia ada ditambah 20 penerbitan termasuk bukti tahap kohort dan semakan) dan paling hampir untuk dapat dilakukan sebaik sahaja data keselamatan diisi; kedua-dua petunjuk yang lain (RTH-beta, hipertiroksemia) kekal tidak langsung secara mekanik (patologi tahap reseptor vs. tindakan penyekatan sintesis hormon PTU) dan duduk di L4 dengan isyarat klinikal tahap kes tunggal.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Ambil sisipan pakej TFDA/NPRA (amaran, kontraindikasi) — **Menghalang (DG001)**
+- Sahkan mekanisme tindakan PTU daripada sumber farmakologi DrugBank/utama (DG002)
+- Lengkapkan butiran lesen NPRA (nombor kebenaran, nama produk, bentuk dos, teks petunjuk yang diluluskan) — pada masa ini kosong walaupun ada pendaftaran aktif
+- Untuk tirotoksikosis neonatal: gred perkaitan rasmi ~10 item literatur yang masih ditandai "belum selesai" untuk mengeraskan penilaian L2/S2 sedia ada
+- Untuk RTH-beta dan hipertiroksemia: semakan pakar endokrinologi mengenai ketidakpadanan mekanik reseptor-vs-sintesis sebelum melangkah melebihi L4/Soalan Penyelidikan
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

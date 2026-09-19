@@ -29,111 +29,112 @@ Tahap bukti: **L4** | Indikasi diramal: **2**
 
 </div>
 
-# Adenosine: From Supraventricular Tachycardia to Catecholaminergic Polymorphic Ventricular Tachycardia
+# Adenosine: Daripada Supraventricular Tachycardia kepada Catecholaminergic Polymorphic Ventricular Tachycardia
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Adenosine is an endogenous purine nucleoside widely used in clinical practice as an antiarrhythmic agent — primarily for acute termination of paroxysmal supraventricular tachycardia (PSVT) and pharmacological cardiac stress testing.
+Adenosine ialah nukleosida purin endogen yang digunakan secara meluas dalam amalan klinis sebagai agen antiaritmia — terutamanya untuk penamatan akut tachycardia supraventricular paroksismal (PSVT) dan ujian tekanan jantung farmakologi.
 
-The TxGNN model's top clinically valid predicted indication is **Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT)**, an inherited arrhythmia syndrome causing fatal ventricular arrhythmias triggered by adrenergic stimulation.
+Model TxGNN memprediksi indikasi yang sah secara klinis tertinggi ialah **Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT)**, sindrom aritmia yang diwariskan menyebabkan aritmia ventrikel yang boleh mengancam nyawa yang dipicu oleh rangsangan adrenergik.
 
-Currently, **1 Phase 2a clinical trial** (evaluating AGP100, an adenosine-pathway agent) and **13 publications** provide indirect mechanistic and clinical support for this repurposing direction.
+Pada masa ini, **1 uji klinis Fase 2a** (menilai AGP100, agen laluan adenosine) dan **13 publikasi** menyediakan sokongan mekanik dan klinis yang tidak langsung untuk arah penggantian tujuan ini.
 
-> **Note on Rank 1 Prediction:** The highest-ranked TxGNN prediction ("obsolete bundle branch block", score 99.94%) carries an obsolete disease ontology label with zero supporting evidence; mechanistic rationale also does not support a direct adenosine effect on bundle branch conduction. This term has been set aside. CPVT (TxGNN rank 2, score 99.42%) is treated as the primary evaluation target in this report.
+> **Nota tentang Prediksi Peringkat 1:** Prediksi TxGNN dengan pangkat tertinggi ("obsolete bundle branch block", skor 99.94%) mengandungi label ontologi penyakit ketinggalan zaman tanpa bukti sokongan; rasional mekanik juga tidak menyokong kesan adenosine langsung pada pengaliran cabang bundle. Istilah ini telah diketepikan. CPVT (peringkat TxGNN 2, skor 99.42%) dianggap sebagai sasaran penilaian utama dalam laporan ini.
 
 ---
 
-## Quick Overview
+## Tinjauan Cepat
 
-| Item | Content |
+| Item | Kandungan |
 |------|---------|
-| Original Indication | Paroxysmal supraventricular tachycardia (PSVT); pharmacological cardiac stress testing |
-| Predicted New Indication | Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT) |
-| TxGNN Prediction Score | 99.42% |
-| Evidence Level | L4 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
-| Recommended Decision | Hold |
+| Indikasi Asal | Paroxysmal supraventricular tachycardia (PSVT); ujian tekanan jantung farmakologi |
+| Indikasi Baru yang Diramalkan | Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT) |
+| Skor Prediksi TxGNN | 99.42% |
+| Tahap Bukti | L4 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 2 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Prediksi Ini Masuk Akal?
 
-Currently, detailed mechanism of action data is not available from the structured data source. Based on established pharmacological knowledge, Adenosine is an endogenous purine nucleoside that exerts its cardiac effects primarily through A1 adenosine receptors on the AV node and sinus node. Binding to A1 receptors activates Gi proteins, which suppress adenylyl cyclase activity, thereby reducing intracellular cyclic AMP (cAMP) and downstream protein kinase A (PKA) activity. This antiadrenergic cascade slows AV nodal conduction and forms the basis of its established use in terminating PSVT.
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia daripada sumber data berstruktur. Berdasarkan pengetahuan farmakologi yang ditetapkan, Adenosine ialah nukleosida purin endogen yang melaksanakan kesan jantungnya terutamanya melalui reseptor adenosine A1 pada nod AV dan nod sinus. Ikatan ke reseptor A1 mengaktifkan protein Gi, yang menekan aktiviti adenilil siklas, dengan itu mengurangkan cyclic AMP intraseluler (cAMP) dan aktiviti protein kinase A (PKA) hiliran. Lata antiadrenergik ini memperlahankan pengaliran nod AV dan membentuk asas penggunaannya yang ditetapkan dalam menamatan PSVT.
 
-CPVT is driven by a mechanistically convergent but genetically distinct pathway: mutations in RyR2 (cardiac ryanodine receptor) or CASQ2 (calsequestrin-2) render the sarcoplasmic reticulum susceptible to catecholamine-triggered Ca²⁺ overload. During adrenergic stress, rising cAMP causes PKA to hyperphosphorylate RyR2, SR Ca²⁺ leaks into the cytoplasm, and delayed afterdepolarisations (DADs) trigger life-threatening bidirectional ventricular tachycardia. Adenosine's suppression of cAMP via A1–Gi signalling directly counteracts this cascade — placing it mechanistically upstream of the central CPVT arrhythmia trigger. Furthermore, ATP — adenosine's immediate precursor and a closely related purinergic ligand — has been shown to interact directly with the CPVT mutation-associated central domain of RyR2 (PMID 23747301), suggesting a possible channel-stabilising effect that is independent of cAMP modulation.
+CPVT didorong oleh laluan yang mekanisme yang menumpu tetapi berbeza secara genetik: mutasi dalam RyR2 (reseptor ryanodine jantung) atau CASQ2 (calsequestrin-2) menjadikan retikulum sarkoplasmik terdedah kepada beban Ca²⁺ yang dipicu oleh katekolamin. Semasa tekanan adrenergik, cAMP yang meningkat menyebabkan PKA untuk hiperfosforilas RyR2, Ca²⁺ SR bocor ke dalam sitoplasma, dan depolarisasi afterdepolarisation tertunda (DAD) mencetuskan tachycardia ventrikel bidireksional yang mengancam nyawa. Penindasan adenosine terhadap cAMP melalui isyarat A1–Gi secara langsung menentang lata ini — meletakkannya secara mekanisme di hulu pencetus aritmia CPVT pusat. Tambahan pula, ATP — pendahulu segera adenosine dan ligand purinergik yang berkaitan erat — telah ditunjukkan untuk berinteraksi secara langsung dengan domain pusat yang berkaitan mutasi CPVT RyR2 (PMID 23747301), mencadangkan kemungkinan kesan penstabilan saluran yang bebas daripada modulasi cAMP.
 
-The strongest direct clinical observation supporting this hypothesis is a 2008 case report (PMID 18313614) in which intravenous ATP terminated bidirectional VT in a genetically confirmed CPVT patient. While this remains a single case, the convergence of (1) adenosine's antiadrenergic mechanism, (2) direct ATP–RyR2 binding data, and (3) an ongoing Phase 2a trial targeting the adenosine signalling axis in CPVT collectively indicate biological plausibility. The primary limitation is the absence of any prospective trial using Adenosine itself, and the pharmacokinetic challenge that adenosine's ultra-short intravenous half-life (~10 seconds) is poorly suited to the chronic oral prophylaxis that CPVT management requires.
+Pemerhatian klinis langsung yang paling kuat menyokong hipotesis ini ialah laporan kes 2008 (PMID 18313614) di mana ATP intravena menamati VT bidireksional dalam pesakit CPVT yang disahkan secara genetik. Walaupun ini tetap satu kes, penumpuan (1) mekanisme antiadrenergik adenosine, (2) data pengikatan ATP–RyR2 langsung, dan (3) ujian Fase 2a yang sedang berjalan menyasarkan paksi isyarat adenosine dalam CPVT secara kolektif menunjukkan kemungkinan biologi. Batasan utama ialah ketiadaan sebarang uji prospektif menggunakan Adenosine itu sendiri, dan cabaran farmakokinetik bahawa separuh hayat intravena adenosine yang sangat pendek (~10 saat) kurang sesuai untuk profilaksis oral kronik yang diperlukan oleh pengurusan CPVT.
 
 ---
 
-## Clinical Trial Evidence
+## Bukti Uji Klinis
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Uji | Fasa | Status | Pendaftaran | Penemuan Utama |
 |-------------|-------|--------|------------|--------------|
-| [NCT07263139](https://clinicaltrials.gov/study/NCT07263139) | Phase 2a | Recruiting | 10 | PACE-CPVT trial: evaluates safety, tolerability, and exploratory efficacy of AGP100 — a novel agent acting on the adenosine signalling pathway — in CPVT patients. Addresses the unmet need of patients who remain symptomatic on current therapy during exercise or emotional stress. Results expected by June 2027. |
+| [NCT07263139](https://clinicaltrials.gov/study/NCT07263139) | Fase 2a | Merekrut | 10 | Uji PACE-CPVT: menilai keselamatan, tolerabilitas, dan keberkesanan penerokaan AGP100 — agen novel yang bertindak pada laluan isyarat adenosine — dalam pesakit CPVT. Menangani keperluan yang tidak terpenuhi bagi pesakit yang tetap bergejala pada terapi semasa semasa latihan atau tekanan emosi. Keputusan dijangka pada Jun 2027. |
 
-> No clinical trial directly testing Adenosine itself in CPVT was identified. AGP100's results will provide critical pathway-level validation but cannot be directly extrapolated to Adenosine as a repurposed agent.
+> Tiada uji klinis yang langsung menguji Adenosine itu sendiri dalam CPVT yang dikenal pasti. Keputusan AGP100 akan memberikan pengesahan tahap laluan yang kritikal tetapi tidak boleh diektstrapolasikan secara langsung kepada Adenosine sebagai agen yang digunakan semula.
 
 ---
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|------|------|---------|-------------|
-| [18313614](https://pubmed.ncbi.nlm.nih.gov/18313614/) | 2008 | Case Report | Heart Rhythm | ATP terminates bidirectional VT in a confirmed CPVT patient — the only direct clinical observation linking the adenosine/ATP axis to CPVT suppression |
-| [23747301](https://pubmed.ncbi.nlm.nih.gov/23747301/) | 2013 | Basic Science | Biochim Biophys Acta | ATP binds directly to the CPVT mutation-associated central domain of RyR2, suggesting a channel-stabilising effect independent of cAMP modulation |
-| [40165484](https://pubmed.ncbi.nlm.nih.gov/40165484/) | 2025 | Clinical Review | Europace | ESC/HRS/APHRS/LAHRS consensus on pharmacological provocation testing in cardiac electrophysiology; establishes adenosine's diagnostic role in inherited arrhythmia syndromes |
-| [38776406](https://pubmed.ncbi.nlm.nih.gov/38776406/) | 2024 | Basic Science | Cardiovasc Res | PDE2A/PDE4B gene therapy prevents HF and arrhythmias by improving subcellular cAMP compartmentation — mechanistically supports cAMP reduction (adenosine's downstream effect) as a therapeutic target in CPVT |
-| [41691612](https://pubmed.ncbi.nlm.nih.gov/41691612/) | 2026 | In vitro (Human Organoid) | J Physiol | Human cardiac-neural microtissue model reveals CPVT involves sympathetic neurons, reinforcing adrenergic-axis targets and broadening the therapeutic rationale for antiadrenergic agents |
-| [35577932](https://pubmed.ncbi.nlm.nih.gov/35577932/) | 2022 | Basic Science | Commun Biol | TECRL deficiency in CPVT causes mitochondrial dysfunction, contextualising disease heterogeneity and identifying potential non-responder subgroups for any repurposing strategy |
-| [21699856](https://pubmed.ncbi.nlm.nih.gov/21699856/) | 2011 | Observational | Heart Rhythm | EPS study in CPVT with RyR2 mutation demonstrates postpacing abnormal repolarisation; mechanistic support for DAD-based arrhythmia triggers targeted by adenosine |
-| [30209242](https://pubmed.ncbi.nlm.nih.gov/30209242/) | 2018 | Basic Science | Sci Transl Med | RyR2 stabiliser (rycal S36) reduces SR Ca²⁺ leak and improves survival in animal HF/arrhythmia models — convergent evidence that RyR2 stabilisation is a valid CPVT therapeutic strategy |
-| [23858002](https://pubmed.ncbi.nlm.nih.gov/23858002/) | 2013 | Basic Science | J Gen Physiol | Calsequestrin regulation of RyR2 in CPVT pathophysiology — mechanistic rationale for why reducing PKA-mediated RyR2 hyperphosphorylation (adenosine's downstream effect) could suppress Ca²⁺ leak |
-| [18368865](https://pubmed.ncbi.nlm.nih.gov/18368865/) | 2007 | Review | J Assoc Physicians India | Classification and management framework for idiopathic and structurally normal-heart ventricular tachycardias including CPVT; contextual background for adenosine's established role in VT discrimination |
+| [18313614](https://pubmed.ncbi.nlm.nih.gov/18313614/) | 2008 | Laporan Kes | Heart Rhythm | ATP menamati VT bidireksional dalam pesakit CPVT yang disahkan — pemerhatian klinis langsung satu-satunya yang menghubungkan paksi adenosine/ATP kepada penindasan CPVT |
+| [23747301](https://pubmed.ncbi.nlm.nih.gov/23747301/) | 2013 | Sains Asas | Biochim Biophys Acta | ATP mengikat secara langsung kepada domain pusat yang berkaitan mutasi CPVT RyR2, mencadangkan kesan penstabilan saluran bebas daripada modulasi cAMP |
+| [40165484](https://pubmed.ncbi.nlm.nih.gov/40165484/) | 2025 | Ulasan Klinis | Europace | Konsensus ESC/HRS/APHRS/LAHRS tentang ujian provokasi farmakologi dalam elektrofisiologi jantung; menetapkan peranan diagnostik adenosine dalam sindrom aritmia yang diwariskan |
+| [38776406](https://pubmed.ncbi.nlm.nih.gov/38776406/) | 2024 | Sains Asas | Cardiovasc Res | Terapi gen PDE2A/PDE4B mencegah HF dan aritmia dengan meningkatkan pempartisian cAMP subsel — menyokong secara mekanik pengurangan cAMP (kesan hiliran adenosine) sebagai sasaran terapeutik dalam CPVT |
+| [41691612](https://pubmed.ncbi.nlm.nih.gov/41691612/) | 2026 | In vitro (Organoid Manusia) | J Physiol | Model microtissue jantung-saraf manusia mendedahkan CPVT melibatkan neuron simpatetik, menguatkan sasaran paksi adrenergik dan meluaskan rasional terapeutik untuk agen antiadrenergik |
+| [35577932](https://pubmed.ncbi.nlm.nih.gov/35577932/) | 2022 | Sains Asas | Commun Biol | Kekurangan TECRL dalam CPVT menyebabkan disfungsi mitokondria, mengkontekstualisasikan heterogenitas penyakit dan mengenal pasti subkumpulan bukan responden yang berpotensi untuk sebarang strategi penggantian tujuan |
+| [21699856](https://pubmed.ncbi.nlm.nih.gov/21699856/) | 2011 | Pemerhatian | Heart Rhythm | Kajian EPS dalam CPVT dengan mutasi RyR2 menunjukkan repolarisasi abnormal pasca-pacing; sokongan mekanisme untuk pencetus aritmia berasaskan DAD yang disasarkan oleh adenosine |
+| [30209242](https://pubmed.ncbi.nlm.nih.gov/30209242/) | 2018 | Sains Asas | Sci Transl Med | Penstabil RyR2 (rycal S36) mengurangkan kebocoran Ca²⁺ SR dan meningkatkan kemandirian dalam model HF/aritmia haiwan — bukti konvergen bahawa penstabilan RyR2 ialah strategi terapeutik CPVT yang sah |
+| [23858002](https://pubmed.ncbi.nlm.nih.gov/23858002/) | 2013 | Sains Asas | J Gen Physiol | Peraturan calsequestrin RyR2 dalam patofisiologi CPVT — rasional mekanik untuk mengapa pengurangan hiperfosforilas RyR2 yang dimediasi PKA (kesan hiliran adenosine) boleh menekan kebocoran Ca²⁺ |
+| [18368865](https://pubmed.ncbi.nlm.nih.gov/18368865/) | 2007 | Ulasan | J Assoc Physicians India | Rangka kerja klasifikasi dan pengurusan untuk tachycardia ventrikel idiopatik dan jantung struktur normal termasuk CPVT; latar belakang kontekstual untuk peranan adenosine yang ditetapkan dalam diskriminasi VT |
 
 ---
 
-## Malaysia Market Information
+## Informasi Pasar Malaysia
 
-Malaysia NPRA records confirm 2 registered products for Adenosine (market status: Marketed). However, detailed product-level data — including registration numbers, product names, dosage forms, manufacturers, and approved indication text — was not recoverable from the current data extract. A supplementary NPRA database lookup is required.
+Rekod NPRA Malaysia mengesahkan 2 produk terdaftar untuk Adenosine (status pasaran: Dipasarkan). Walau bagaimanapun, data peringkat produk terperinci — termasuk nombor pendaftaran, nama produk, bentuk dos, pengeluar, dan teks indikasi yang diluluskan — tidak dapat dipulihkan daripada ekstrak data semasa. Pertanyaan pangkalan data NPRA tambahan diperlukan.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
 |---------------------|-------------|-------------|---------------------|
-| — (pending retrieval) | — | — | Supplementary NPRA query required |
-| — (pending retrieval) | — | — | Supplementary NPRA query required |
+| — (pengambilan menunggu) | — | — | Pertanyaan NPRA tambahan diperlukan |
+| — (pengambilan menunggu) | — | — | Pertanyaan NPRA tambahan diperlukan |
 
 ---
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Detailed package insert warnings and contraindications were not available in the current evidence pack. Based on the established pharmacological class profile, the following are well-recognised clinical safety considerations for Adenosine:
+Amaran sisipan paket terperinci dan kontraindikasi tidak tersedia dalam pakej bukti semasa. Berdasarkan profil kelas farmakologi yang ditetapkan, berikut ialah pertimbangan keselamatan klinis yang diiktiraf dengan baik untuk Adenosine:
 
-- **Transient but significant cardiovascular effects**: Bradycardia, AV block (including transient complete heart block), hypotension; expected given the mechanism but require monitoring
-- **Respiratory**: Bronchoconstriction; use with caution or avoid in asthma and reactive airways disease
-- **Pharmacokinetic interactions**: Methylxanthines (theophylline, aminophylline, caffeine) competitively antagonise adenosine receptors and may negate therapeutic effect; dipyridamole potentiates adenosine's effects and requires dose reduction or is contraindicated
-- **Route restriction**: Currently only approved for intravenous administration; the ultra-short half-life (~10 seconds) limits oral repurposing potential for chronic indications such as CPVT
+- **Kesan kardiovaskular sementara tetapi ketara**: Bradikardi, blok AV (termasuk blok jantung lengkap sementara), hipotensi; dijangka memandangkan mekanisme tetapi memerlukan pemantauan
+- **Pernafasan**: Bronkokonstriksi; gunakan dengan berhati-hati atau elakkan dalam asma dan penyakit saluran udara reaktif
+- **Interaksi farmakokinetik**: Metilksantin (teoflin, aminoflin, kafein) memusnah kompetitif reseptor adenosine dan mungkin menafikan kesan terapeutik; dipyridamol meningkatkan kesan adenosine dan memerlukan pengurangan dos atau dikontraindikasikan
+- **Pembatasan laluan**: Pada masa ini hanya diluluskan untuk pemberian intravena; separuh hayat yang sangat pendek (~10 saat) mengehadkan potensi penggunaan semula oral untuk indikasi kronik seperti CPVT
 
-> For complete and current safety information, please download and review the approved product monograph from NPRA or the relevant product manufacturer. Package insert PDF retrieval is classified as a Blocking data gap for formal safety assessment (DG001).
+> Untuk maklumat keselamatan lengkap dan semasa, sila muat turun dan tinjau monograf produk yang diluluskan daripada NPRA atau pengeluar produk yang berkaitan. Pengambilan PDF sisipan paket diklasifikasikan sebagai jurang data Pemblokiran untuk penilaian keselamatan formal (DG001).
 
 ---
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Berikutnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The mechanistic case for Adenosine in CPVT is biologically coherent — its A1–Gi–cAMP–PKA axis directly targets the molecular trigger of CPVT arrhythmias, and a single case report demonstrates that the closely related purine ATP can terminate CPVT-induced bidirectional VT. However, the current evidence base reaches only L4 (basic science and mechanistic studies plus one case report), and Adenosine's intravenous-only, ultra-short-acting pharmacokinetic profile poses a fundamental barrier to use as a chronic prophylactic agent in CPVT.
+**Rasional:**
+Kes mekanik untuk Adenosine dalam CPVT adalah koheren secara biologi — paksi A1–Gi–cAMP–PKA adenosine secara langsung menyasarkan pencetus molekul aritmia CPVT, dan laporan kes tunggal menunjukkan bahawa purin yang berkaitan erat ATP dapat menamati VT bidireksional yang diinduksi CPVT. Walau bagaimanapun, pangkalan bukti semasa hanya mencapai L4 (sains asas dan kajian mekanik serta satu laporan kes), dan profil farmakokinetik adenosine yang hanya intravena dan bertindak sangat pendek menimbulkan halangan asas untuk penggunaan sebagai agen profilaksis kronik dalam CPVT.
 
-**To proceed, the following is needed:**
+**Untuk meneruskan, yang berikut diperlukan:**
 
-- **Targeted literature review**: Systematic search specifically for adenosine or ATP use in CPVT or other inherited arrhythmia syndromes; identify any additional clinical observations beyond PMID 18313614
-- **Pharmacokinetic feasibility assessment**: Evaluate whether modified-release adenosine formulations, adenosine receptor agonists (e.g., A1-selective agonists), or pro-drug strategies could overcome the duration-of-action barrier for a chronic CPVT indication
-- **Mechanistic validation study**: In vitro or murine RyR2-mutant CPVT model directly testing adenosine (not only ATP or AGP100) on DAD frequency, VT inducibility, and SR Ca²⁺ leak
-- **NPRA package insert retrieval**: Download approved Malaysian product monograph PDF and extract key warnings and contraindications to complete safety assessment (resolves DG001 — currently Blocking)
-- **DrugBank MOA documentation**: Complete formal MOA profile via DrugBank API query (resolves DG002 — currently High severity)
-- **Monitor PACE-CPVT trial (NCT07263139)**: AGP100 Phase 2a results (expected June 2027) will significantly validate or invalidate the adenosine-pathway hypothesis in CPVT and should gate any further investment in this repurposing direction
-- **CPVT subtype stratification**: Clarify whether the RyR2 versus CASQ2 mutation subtype modifies the expected adenosine response, given differing upstream mechanisms
+- **Ulasan literatur tertarget**: Carian sistematik khusus untuk adenosine atau penggunaan ATP dalam CPVT atau sindrom aritmia bawaan yang lain; kenal pasti sebarang pemerhatian klinis tambahan di luar PMID 18313614
+- **Penilaian kebolehlaksanaan farmakokinetik**: Nilai sama ada formulasi adenosine pelepasan ubah suai, agonis reseptor adenosine (cth., agonis A1-selektif), atau strategi pro-ubat boleh mengatasi halangan tempoh tindakan untuk indikasi CPVT kronik
+- **Kajian pengesahan mekanik**: Model dalam vitro atau CPVT mutant RyR2 murin secara langsung menguji adenosine (bukan hanya ATP atau AGP100) pada kekerapan DAD, kebolehcetuskan VT, dan kebocoran Ca²⁺ SR
+- **Pengambilan sisipan paket NPRA**: Muat turun monograf produk Malaysia yang diluluskan PDF dan ekstrak amaran utama dan kontraindikasi untuk melengkapkan penilaian keselamatan (menyelesaikan DG001 — pada masa ini Pemblokiran)
+- **Dokumentasi MOA DrugBank**: Lengkapkan profil MOA formal melalui pertanyaan API DrugBank (menyelesaikan DG002 — pada masa ini Keterukan Tinggi)
+- **Monitor uji PACE-CPVT (NCT07263139)**: Keputusan Fase 2a AGP100 (dijangka Jun 2027) akan mengesahkan atau membatalkan hipotesis laluan adenosine dalam CPVT dengan ketara dan harus menahan sebarang pelaburan selanjutnya dalam arah penggantian tujuan ini
+- **Stratifikasi subtipe CPVT**: Jelaskan sama ada subtipe mutasi RyR2 versus CASQ2 mengubah suai tindak balas adenosine yang dijangka, memandangkan mekanisme hulu yang berbeza
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

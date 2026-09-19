@@ -29,60 +29,61 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Sodium Acetate: From Electrolyte/Acid-Base Regulation to Congenital Prothrombin Deficiency
+# Sodium Acetate: Daripada Pengaturan Elektrolit/Keseimbangan Asid-Bes kepada Kekurangan Protrombina Bawaan
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Sodium acetate is a basic electrolyte replenisher and alkalizing agent (metabolized to bicarbonate), commonly used as an additive in IV fluids, dialysate, and parenteral nutrition. The TxGNN model assigns its top-ranked prediction to **Congenital Prothrombin Deficiency**, but this is a **model-only signal with zero supporting clinical trials or literature**, and the evidence review itself flags it as a likely coincidental knowledge-graph path rather than a real pharmacological link.
+Sodium acetate ialah penyuplai elektrolit asas dan agen pengalkalian (dimetaboliskan kepada bikarbonat), yang biasanya digunakan sebagai aditif dalam bendalir IV, dialisis, dan nutrisi parenteral. Model TxGNN memberikan peramalnya yang teratas kepada **Kekurangan Protrombina Bawaan**, tetapi ini adalah **isyarat model semata-mata tanpa sebarang ujian klinikal atau literatur yang menyokong**, dan ulasan bukti itu sendiri menandainya sebagai laluan graf pengetahuan yang berkemungkinan kebetulan daripada pautan farmakologi sebenar.
 
-## Quick Overview
+## Gambaran Keseluruhan Cepat
 
-| Item | Content |
-|------|------|
-| Original Indication | Electrolyte replenishment / alkalizing agent (approved indication text not populated in Malaysia registry data) |
-| Predicted New Indication | Congenital Prothrombin Deficiency |
-| TxGNN Prediction Score | 99.98% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 25 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|-----------|
+| Petunjuk Asal | Penyuplai elektrolit / agen pengalkalian (teks petunjuk yang diluluskan tidak diisi dalam data daftar Malaysia) |
+| Petunjuk Baru yang Diramalan | Kekurangan Protrombina Bawaan |
+| Skor Peramalan TxGNN | 99.98% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 25 |
+| Keputusan yang Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Peramalan Ini Wajar?
 
-Currently, detailed mechanism of action data is not available for sodium acetate in this dataset. Based on known pharmacology, sodium acetate functions as an electrolyte/pH-buffering agent — once absorbed, it is metabolized to bicarbonate and used clinically to correct metabolic acidosis or as a sodium/buffer source in IV fluids, dialysate, and TPN formulations. It has no established role in coagulation factor synthesis, regulation, or replacement.
+Pada masa ini, data mekanisme tindakan yang terperinci tidak tersedia untuk sodium acetate dalam set data ini. Berdasarkan farmakologi yang diketahui, sodium acetate berfungsi sebagai agen penyokan elektrolit/pH — sekali diserap, ia dimetaboliskan kepada bikarbonat dan digunakan secara klinikal untuk membetulkan asidosis metabolik atau sebagai sumber natrium/penyokan dalam bendalir IV, dialisis, dan formulasi TPN. Ia tidak mempunyai peranan yang diketahui dalam sintesis, pengaturan, atau penggantian faktor pembekuan.
 
-Congenital prothrombin (Factor II) deficiency is a genetic disorder of coagulation factor synthesis, managed with factor replacement therapy. There is no known pharmacological pathway by which an electrolyte/alkalizing agent would influence hepatic synthesis or activity of a clotting factor.
+Kekurangan protrombina (Faktor II) bawaan ialah gangguan genetik dalam sintesis faktor pembekuan, yang diurus dengan terapi penggantian faktor. Tidak ada laluan farmakologi yang diketahui di mana agen elektrolit/pengalkalian akan mempengaruhi sintesis hepatik atau aktiviti faktor pembekuan.
 
-The evidence review for this candidate explicitly concludes that the high TxGNN score is not corroborated by any clinical trial or publication, and assesses the link as a likely coincidental knowledge-graph path rather than a biologically grounded hypothesis. This prediction should be treated as exploratory only.
+Ulasan bukti untuk calon ini dengan jelas menyimpulkan bahawa skor TxGNN yang tinggi tidak disokong oleh sebarang ujian klinikal atau penerbitan, dan menilai pautan itu sebagai laluan graf pengetahuan yang kebetulan daripada hipotesis yang berasaskan biologi. Peramalan ini harus dianggap sebagai penerokaan semata-mata.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-Currently no related clinical trials registered
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no related literature available
+Pada masa ini tiada literatur berkaitan yang tersedia
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-25 registrations are on file with the Malaysia regulator (NPRA), but license-level details (authorization number, product name, dosage form, approved indication text) are not populated in the current dataset.
+25 pendaftaran ada dalam fail dengan regulator Malaysia (NPRA), tetapi butiran di peringkat lesen (nombor kebenaran, nama produk, bentuk dos, teks petunjuk yang diluluskan) tidak diisi dalam set data semasa.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk risalah paket untuk maklumat keselamatan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The top-ranked prediction (Congenital Prothrombin Deficiency) is evidence level L5 — a model-only signal with no clinical trials, no literature, and no plausible mechanistic pathway; the evidence review itself judges it a likely coincidental knowledge-graph artifact. Separately, a Blocking data gap on TFDA/NPRA label warnings and contraindications (DG001) means this candidate cannot proceed to safety screening (S1) regardless of efficacy signal.
+**Rasional:**
+Peramalan yang dipangkat teratas (Kekurangan Protrombina Bawaan) adalah tahap bukti L5 — isyarat model semata-mata tanpa sebarang ujian klinikal, tiada literatur, dan tiada laluan mekanistik yang munasabah; ulasan bukti itu sendiri menilainya sebagai artifak graf pengetahuan yang kebetulan. Secara berasingan, jurang data Penyekat pada amaran label TFDA/NPRA dan kontraindikasi (DG001) bermakna calon ini tidak dapat meneruskan ke penyaringan keselamatan (S1) tanpa mengira isyarat keberkesanan.
 
-**To proceed, the following is needed:**
-- Package insert / label data (warnings, contraindications, DDI) to clear the Blocking data gap (DG001)
-- Confirmed mechanism of action (DG001/DG002) to support or refute mechanistic plausibility
-- Any preclinical or in vitro evidence directly linking acetate/bicarbonate metabolism to coagulation factor synthesis, if such a hypothesis is to be pursued
-- Note: lower-ranked candidates in this evidence pack — dyspepsia and gastroparesis (both L4, "Research Question," tied to acetate/SCFA effects on gastric emptying) — carry comparatively stronger mechanistic plausibility and may warrant review ahead of this top-ranked candidate
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data risalah paket / label (amaran, kontraindikasi, DDI) untuk menjelaskan jurang data Penyekat (DG001)
+- Mekanisme tindakan yang disahkan (DG001/DG002) untuk menyokong atau menafikan kebolehpercayaan mekanistik
+- Sebarang bukti pra-klinikal atau in vitro yang secara langsung menghubungkan metabolisme asetat/bikarbonat kepada sintesis faktor pembekuan, jika hipotesis sedemikian akan dikejar
+- Nota: calon yang dipangkat lebih rendah dalam paket bukti ini — dispepsia dan gastroparesis (kedua-duanya L4, "Soalan Penyelidikan," terikat pada kesan asetat/SCFA pada pengosongan gastrik) — membawa kebolehpercayaan mekanistik yang lebih kuat secara perbandingan dan mungkin wajar untuk disemak lebih awal daripada calon yang dipangkat teratas ini
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,78 +29,79 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Choline Salicylate: A Low-Confidence TxGNN Signal for Prinzmetal Angina
+# Choline Salicylate: Isyarat TxGNN Keyakinan Rendah untuk Angina Prinzmetal
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-> This evidence pack does not include verified original-indication data for Choline salicylate.
-> The TxGNN model's top-ranked prediction is **Prinzmetal Angina**, but this is supported by
-> **0 clinical trials** and **0 publications**, and the model's own mechanistic rationale explicitly states there is no known pharmacological basis for the link.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not disclosed in this evidence pack (no license indication text or original indication data available) |
-| Predicted New Indication | Prinzmetal Angina |
-| TxGNN Prediction Score | 99.84% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 5 |
-| Recommended Decision | Hold |
+> Pakej bukti ini tidak mengandungi data petunjuk asal yang disahkan untuk choline salicylate.
+> Ramalan model TxGNN yang berpangkat teratas ialah **Angina Prinzmetal**, tetapi ini disokong oleh
+> **0 percubaan klinikal** dan **0 penerbitan**, dan rasional farmakologi model sendiri secara eksplisit menyatakan tiada asas farmakologi yang diketahui untuk hubungan tersebut.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Tinjauan Ringkas
 
-Currently, detailed mechanism of action data for Choline salicylate is not available in this evidence pack. Based on rationale notes attached to other candidate indications in the same pack, Choline salicylate is a **non-acetylated salicylate**, pharmacologically related to NSAIDs (COX inhibition, analgesic/anti-inflammatory activity).
-
-For Prinzmetal angina specifically, however, the model's own rationale is negative: Prinzmetal angina is caused by **coronary artery vasospasm**, and salicylates have no established vascular smooth-muscle antispasmodic or vasodilatory effect. The evidence pack states directly:
-
-> "無明確機轉支持——Prinzmetal angina 為冠狀動脈痙攣所致，水楊酸鹽無已知血管平滑肌解痙作用，TxGNN 高分推測為知識圖譜間接關聯，缺乏臨床或機轉證據。"
-
-In plain terms: the high TxGNN similarity score most likely reflects an indirect knowledge-graph association rather than a genuine pharmacological relationship. No clinical or mechanistic evidence in this pack supports the prediction.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Tidak didedahkan dalam pakej bukti ini (tiada teks petunjuk lesen atau data petunjuk asal yang tersedia) |
+| Petunjuk Baru Diramal | Angina Prinzmetal |
+| Skor Ramalan TxGNN | 99.84% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 5 |
+| Keputusan Disyorkan | Tangguhkan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available.
+Pada masa kini, data mekanisme tindakan terperinci untuk choline salicylate tidak tersedia dalam pakej bukti ini. Berdasarkan nota rasional yang dilampirkan pada petunjuk calon lain dalam pakej yang sama, choline salicylate adalah **salilat bukan-asetilasi**, yang berkaitan secara farmakologi dengan NSAID (perencatan COX, aktiviti analgesik/antiradang).
 
----
+Untuk angina Prinzmetal secara khusus, bagaimanapun, rasional model sendiri adalah negatif: angina Prinzmetal disebabkan oleh **vasospasma arteri koronari**, dan salilat tidak mempunyai kesan antikejang otot licin pembuluh darah atau vasodilatasi yang ditubuhkan. Pakej bukti menyatakan secara langsung:
 
-## Malaysia Market Information
+> "Tiada sokongan mekanisme yang jelas——Angina Prinzmetal disebabkan oleh vasospasma arteri koronari, salilat tidak mempunyai kesan antikejang otot licin pembuluh darah yang diketahui, ramalan skor tinggi TxGNN adalah perkaitan tidak langsung graf pengetahuan, kekurangan bukti klinikal atau mekanisme."
 
-The evidence pack confirms Choline salicylate is marketed in Malaysia under **5 registrations**, but no license-level details (registration number, product name, dosage form, approved indication text) were captured in this data pull — all license fields are blank.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information. Note: the accompanying data-gap log flags NPRA label warnings/contraindications (DG001) as a **Blocking** gap — this evidence pack cannot currently support a Stage 1 safety screen for this candidate.
+Dalam istilah ringkas: skor kesamaan TxGNN yang tinggi kemungkinan besar mencerminkan perkaitan graf pengetahuan tidak langsung dan bukannya hubungan farmakologi yang tulen. Tiada bukti klinikal atau mekanisme dalam pakej ini menyokong ramalan.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Percubaan Klinikal
 
-**Decision: Hold**
+Pada masa kini tiada percubaan klinikal yang berkaitan didaftarkan.
 
-**Rationale:**
-There are zero supporting clinical trials or publications for the Prinzmetal angina prediction, and the mechanistic rationale generated alongside the prediction itself concludes there is no known pharmacological basis for it — the high TxGNN score appears to be a knowledge-graph artifact rather than a genuine signal.
+---
 
-**To proceed, the following is needed:**
-- NPRA package insert (warnings/contraindications) — currently a Blocking data gap (DG001)
-- DrugBank-sourced mechanism of action data (DG002)
-- Original indication and license text for Choline salicylate (currently entirely missing from this pack)
-- If further repurposing work on this drug is pursued, note that **rheumatoid arthritis** (rank 2 in this same evidence pack, TxGNN score 99.82%) carries a stronger evidence base — Evidence Level L3, decision stage S2, 4 supporting publications, and a mechanistically coherent rationale (NSAID-class anti-inflammatory action) — and may be a more productive candidate to evaluate next than Prinzmetal angina.
+## Bukti Kesusasteraan
+
+Pada masa kini tiada kesusasteraan yang berkaitan tersedia.
+
+---
+
+## Maklumat Pasaran Malaysia
+
+Pakej bukti mengesahkan bahawa choline salicylate dipasarkan di Malaysia di bawah **5 pendaftaran**, tetapi tiada butiran peringkat lesen (nombor pendaftaran, nama produk, bentuk dos, teks petunjuk yang diluluskan) telah ditangkap dalam tarik data ini — semua medan lesen kosong.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan pakej untuk maklumat keselamatan. Nota: log jurang data yang disertakan menunjukkan amaran/kontraindikasi label NPRA (DG001) sebagai jurang **Menyekat** — pakej bukti ini tidak boleh menyokong skrin keselamatan Peringkat 1 untuk calon ini pada masa kini.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tangguhkan**
+
+**Rasional:**
+Terdapat sifar percubaan klinikal atau penerbitan yang menyokong ramalan angina Prinzmetal, dan rasional mekanisme yang dijana bersebelahan dengan ramalan itu sendiri menyimpulkan tiada asas farmakologi yang diketahui untuknya — skor TxGNN yang tinggi nampaknya menjadi artifak graf pengetahuan daripada isyarat tulen.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisipan pakej NPRA (amaran/kontraindikasi) — pada masa kini jurang data Menyekat (DG001)
+- Data mekanisme tindakan bersumber DrugBank (DG002)
+- Petunjuk asal dan teks lesen untuk choline salicylate (pada masa kini hilang sepenuhnya dari pakej ini)
+- Jika kerja penyusunan semula lebih lanjut pada ubat ini dijalankan, ambil nota bahawa **rematoid artritis** (pangkat 2 dalam pakej bukti yang sama ini, skor TxGNN 99.82%) membawa asas bukti yang lebih kuat — Tahap Bukti L3, tahap keputusan S2, 4 penerbitan yang menyokong, dan rasional mekanisme yang koheren (tindakan antiradang kelas NSAID) — dan mungkin menjadi calon yang lebih produktif untuk dinilai seterusnya daripada angina Prinzmetal.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

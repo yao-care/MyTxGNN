@@ -29,64 +29,65 @@ Tahap bukti: **L5** | Indikasi diramal: **7**
 
 </div>
 
-# Felodipine: From Hypertension to Pulmonary Hypertension with Unclear Multifactorial Mechanism
+# Felodipine: Daripada Hipertensi kepada Hipertensi Paru-paru dengan Mekanisme Multifaktorial yang Tidak Jelas
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-> Felodipine is a dihydropyridine calcium channel blocker whose repurposing rationale in this evidence pack identifies it as an established antihypertensive agent. The TxGNN model predicts it may be effective for **pulmonary hypertension with unclear multifactorial mechanism (WHO Group 5)**, but this direction is currently supported by **zero clinical trials and zero publications**, and the evidence pack's own rationale flags the score as possible knowledge-graph noise rather than a disease-specific signal.
+> Felodipine adalah penyekat saluran kalsium dihidropiridina yang alasan penggantian ubat dalam paket bukti ini mengenal pastinya sebagai agen antihipertensi yang ditubuhkan. Model TxGNN meramalkan ia mungkin berkesan untuk **hipertensi paru-paru dengan mekanisme multifaktorial yang tidak jelas (Kumpulan WHO 5)**, tetapi arah ini kini disokong oleh **sifar percubaan klinis dan sifar penerbitan**, dan alasan paket bukti itu sendiri menandai skor sebagai kemungkinan kebisingan grafik pengetahuan dan bukannya isyarat khusus penyakit.
 
-## Quick Overview
+## Gambaran Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | Hypertension (inferred from drug class per evidence pack rationale text; formal TFDA/NPRA label indication text not on file) |
-| Predicted New Indication | Pulmonary hypertension with unclear multifactorial mechanism (WHO Group 5) |
-| TxGNN Prediction Score | 99.91% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 5 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Hipertensi (disimpulkan daripada kelas ubat mengikut teks alasan paket bukti; teks indikasi label TFDA/NPRA formal tidak difailkan) |
+| Indikasi Baru yang Diramalkan | Hipertensi paru-paru dengan mekanisme multifaktorial yang tidak jelas (Kumpulan WHO 5) |
+| Skor Ramalan TxGNN | 99.91% |
+| Aras Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 5 |
+| Keputusan yang Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data is not available for felodipine in this evidence pack. Based on known information within the pack, felodipine is referenced repeatedly across other candidate rationales as "an established antihypertensive" and a dihydropyridine calcium channel blocker (CCB) that works by blocking calcium influx into vascular smooth muscle, producing vasodilation and blood pressure reduction.
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia untuk felodipine dalam paket bukti ini. Berdasarkan maklumat yang diketahui dalam paket, felodipine dirujuk berulang kali di seluruh alasan calon lain sebagai "agen antihipertensi yang ditubuhkan" dan penyekat saluran kalsium dihidropiridina (CCB) yang berfungsi dengan menyekat aliran kalsium ke dalam otot licin pembuluh darah, menghasilkan vasodilatasi dan pengurangan tekanan darah.
 
-For this specific candidate, however, the mechanistic link is weak. WHO Group 5 pulmonary hypertension is defined precisely by its unclear or multifactorial mechanism, and there is no established pharmacological rationale connecting dihydropyridine CCB activity to this category of disease. The evidence pack's own rationale states this directly: the TxGNN score likely reflects the broad connectivity of "hypertension"-related nodes in the knowledge graph rather than a disease-specific mechanistic relationship.
+Untuk calon khusus ini, bagaimanapun, pautan mekanistik adalah lemah. Hipertensi paru-paru Kumpulan WHO 5 ditakrifkan dengan tepat oleh mekanisme yang tidak jelas atau multifaktornya, dan tiada alasan farmakologi yang ditubuhkan menghubungkan aktiviti CCB dihidropiridina kepada kategori penyakit ini. Alasan paket bukti itu sendiri menyatakan ini secara langsung: skor TxGNN berkemungkinan mencerminkan sambungan luas nod berkaitan "hipertensi" dalam grafik pengetahuan dan bukannya hubungan mekanistik khusus penyakit.
 
-No clinical trials or literature were retrieved for felodipine against this exact indication (see query_log entries 3–5, all zero results), reinforcing that this is a model-generated hypothesis without empirical support at this time.
+Tiada percubaan klinis atau literatur yang diambil untuk felodipine terhadap indikasi khusus ini (lihat entri log_pertanyaan 3–5, semua hasil sifar), memperkuat bahawa ini adalah hipotesis yang dijana model tanpa sokongan empirikal pada masa ini.
 
-## Clinical Trial Evidence
+## Bukti Percubaan Klinis
 
-Currently no related clinical trials registered
+Pada masa ini tiada percubaan klinis yang berkaitan didaftarkan
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no related literature available
+Pada masa ini tiada literatur yang berkaitan tersedia
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Felodipine has 5 product registrations on file with NPRA (market status: Marketed), but the evidence pack does not include license numbers, product names, dosage forms, or approved-indication text for these registrations — this data needs to be retrieved from NPRA directly.
+Felodipine mempunyai 5 pendaftaran produk difailkan dengan NPRA (status pasaran: Dipasarkan), tetapi paket bukti tidak termasuk nombor lesen, nama produk, bentuk dos, atau teks indikasi yang diluluskan untuk pendaftaran ini — data ini perlu diambil daripada NPRA secara langsung.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk risalah paket untuk maklumat keselamatan.
 
-*Note: retrieval of TFDA/NPRA label warnings and contraindications is flagged in this evidence pack as a Blocking data gap (DG001) — the drug cannot proceed to a S1 safety review until this is resolved.*
+*Nota: pengambilan amaran label TFDA/NPRA dan kontraindikasi ditandai dalam paket bukti ini sebagai kesenjangan data yang menghalang (DG001) — ubat tidak boleh meneruskan semakan keselamatan S1 sehingga ini diselesaikan.*
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-This candidate has L5 evidence (model prediction only) with no supporting clinical trials or literature, and the pack's own mechanistic rationale characterizes the high TxGNN score as likely reflecting generic "hypertension" node connectivity rather than a genuine signal for this specific, mechanistically-undefined disease category.
+**Alasan:**
+Calon ini mempunyai bukti L5 (ramalan model sahaja) tanpa sokongan percubaan klinis atau literatur yang menyokong, dan alasan paket itu sendiri mencirikan skor TxGNN yang tinggi sebagai berkemungkinan mencerminkan sambungan nod "hipertensi" yang generik dan bukannya isyarat tulin untuk kategori penyakit khusus yang ditakrifkan secara mekanistik.
 
-**To proceed, the following is needed:**
-- Felodipine mechanism of action data (DG002)
-- TFDA/NPRA package insert warnings and contraindications (DG001, Blocking — required before any S1 safety review)
-- Disease-specific clinical or preclinical evidence connecting dihydropyridine CCBs to WHO Group 5 pulmonary hypertension
-- NPRA license details (numbers, product names, approved indication text) currently missing from the registry extract
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan felodipine (DG002)
+- Amaran risalah paket TFDA/NPRA dan kontraindikasi (DG001, Menghalang — diperlukan sebelum sebarang semakan keselamatan S1)
+- Bukti klinis atau praklinik khusus penyakit yang menghubungkan CCB dihidropiridina kepada hipertensi paru-paru Kumpulan WHO 5
+- Butiran lesen NPRA (nombor, nama produk, teks indikasi yang diluluskan) pada masa ini hilang daripada ekstrak pendaftaran
 
-*For reference: this same evidence pack contains other felodipine candidates with substantially stronger support — notably Prinzmetal angina (L2, 8 literature sources including 3 RCTs, "Proceed with Guardrails") — which may warrant a separate evaluation report given the mechanistic plausibility (CCB-mediated coronary vasospasm relief) and existing clinical evidence.*
+*Sebagai rujukan: paket bukti yang sama ini mengandungi calon felodipine lain dengan sokongan yang jauh lebih kuat — terutamanya angina Prinzmetal (L2, 8 sumber literatur termasuk 3 RCT, "Lanjutkan dengan Pagar") — yang mungkin patut penilaian laporan berasingan memandangkan kebolehkesahihan mekanistik (pelepasan vasodilatasi koroner yang dimediasi CCB) dan bukti klinis yang ada.*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

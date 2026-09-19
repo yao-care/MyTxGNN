@@ -29,83 +29,84 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Bedaquiline Fumarate: Drug Repurposing Evaluation — No Predicted Indication Identified
+# Bedaquiline Fumarate: Penilaian Penggunaan Semula Ubat — Tiada Indikasi Baru yang Diramalkan
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Bedaquiline fumarate is a marketed drug in Malaysia with 1 registered licence; however, the approved indication text was not captured in the current data extraction. The TxGNN model did **not generate any repurposing predictions** for this compound, and significant data gaps remain in safety, mechanism of action, and regulatory detail, preventing meaningful evaluation at this time.
+Bedaquiline fumarate adalah ubat yang dipasarkan di Malaysia dengan 1 lesen berdaftar; bagaimanapun, teks indikasi yang diluluskan tidak ditangkap dalam pengekstrakan data semasa. Model TxGNN **tidak menghasilkan sebarang ramalan penggunaan semula** untuk sebatian ini, dan jurang data yang ketara kekal dalam keselamatan, mekanisme tindakan, dan perincian kawal selia, menghalang penilaian bermakna pada masa ini.
 
-## Quick Overview
+## Gambaran Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | *(Not captured in current data — see Data Gaps below)* |
-| Predicted New Indication | **None** — TxGNN returned no predictions |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | **L5** (No prediction, no supporting studies) |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 1 |
-| Recommended Decision | **Hold** |
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | *(Tidak ditangkap dalam data semasa — lihat Jurang Data di bawah)* |
+| Indikasi Baru yang Diramalkan | **Tiada** — TxGNN tidak mengembalikan sebarang ramalan |
+| Skor Ramalan TxGNN | N/A |
+| Tahap Bukti | **L5** (Tiada ramalan, tiada kajian sokongan) |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | **Tahan** |
 
-## Why Was No Prediction Generated?
+## Mengapa Tiada Ramalan yang Dijana?
 
-Bedaquiline fumarate is a diarylquinoline antimycobacterial agent primarily indicated for the treatment of multi-drug resistant tuberculosis (MDR-TB). It works by inhibiting mycobacterial ATP synthase, a mechanism highly specific to *Mycobacterium tuberculosis*.
+Bedaquiline fumarate adalah agen antimikobakteri diarilkuinolin yang terutamanya ditunjukkan untuk rawatan tuberkulosis yang tahan terhadap pelbagai ubat (MDR-TB). Ia berfungsi dengan menghalang sintase ATP mikobakteri, mekanisme yang sangat spesifik kepada *Mycobacterium tuberculosis*.
 
-The TxGNN knowledge graph model returned **zero repurposing candidates** for this drug. Several factors may explain this:
+Model graf pengetahuan TxGNN mengembalikan **sifar calon penggunaan semula** untuk ubat ini. Beberapa faktor mungkin menjelaskan perkara ini:
 
-1. **Missing DrugBank ID mapping**: The evidence pack shows `drugbank_id: null`. Without a valid DrugBank identifier, the drug cannot be located within the TxGNN knowledge graph (which relies on DrugBank nodes), effectively excluding it from the prediction pipeline.
+1. **Pemetaan ID DrugBank yang hilang**: Pek bukti menunjukkan `drugbank_id: null`. Tanpa pengenalan DrugBank yang sah, ubat tidak boleh dilokalkan dalam graf pengetahuan TxGNN (yang bergantung pada nod DrugBank), secara berkesan mengecualikannya daripada saluran ramalan.
 
-2. **Narrow mechanism specificity**: Bedaquiline's target — mycobacterial ATP synthase — is structurally distinct from the human mitochondrial ATP synthase. This high target specificity may limit the model's ability to identify plausible disease–drug edges in the knowledge graph.
+2. **Kekhususan mekanisme yang sempit**: Sasaran bedaquiline — sintase ATP mikobakteri — adalah berbeza daripada struktur sintase ATP mitokondrion manusia. Kekhususan sasaran tinggi ini mungkin mengehadkan keupayaan model untuk mengenali tepi penyakit–ubat yang munasabah dalam graf pengetahuan.
 
-3. **Incomplete input data**: The original indication text, MOA, and safety fields are all missing or flagged as `[Data Gap]`, further reducing the information available for prediction.
+3. **Data input yang tidak lengkap**: Teks indikasi asal, MOA, dan medan keselamatan semuanya hilang atau ditandai sebagai `[Jurang Data]`, seterusnya mengurangkan maklumat yang tersedia untuk ramalan.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-Currently no repurposing-related clinical trials to report, as no new indication was predicted.
+Pada masa ini tiada ujian klinikal berkaitan penggunaan semula untuk dilaporkan, kerana tiada indikasi baru yang diramalkan.
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no repurposing-related literature to report, as no new indication was predicted.
+Pada masa ini tiada bukti literatur berkaitan penggunaan semula untuk dilaporkan, kerana tiada indikasi baru yang diramalkan.
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
 |------|------|------|------|
-| *(Not captured)* | *(Not captured)* | *(Not captured)* | *(Not captured)* |
+| *(Tidak ditangkap)* | *(Tidak ditangkap)* | *(Tidak ditangkap)* | *(Tidak ditangkap)* |
 
-> **Note:** The NPRA query returned 1 licence (query date: 2026-03-27), but the licence detail fields (number, product name, dosage form, indication) were not populated during data extraction. Manual verification on the [NPRA Quest database](https://quest3plus.bpfk.gov.my/) is recommended.
+> **Nota:** Soalan NPRA mengembalikan 1 lesen (tarikh soalan: 2026-03-27), tetapi medan perincian lesen (nombor, nama produk, bentuk dos, indikasi) tidak diisi semasa pengekstrakan data. Pengesahan manual pada [pangkalan data NPRA Quest](https://quest3plus.bpfk.gov.my/) disyorkan.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-> Please refer to the package insert for safety information. All safety fields (key warnings, contraindications, drug interactions) were not available in the current evidence pack.
+> Sila rujuk sisipan pakej untuk maklumat keselamatan. Semua medan keselamatan (amaran utama, kontraindikasi, interaksi ubat) tidak tersedia dalam pek bukti semasa.
 
-## Data Gaps Summary
+## Ringkasan Jurang Data
 
-The following critical data gaps were identified and should be resolved before re-evaluation:
+Jurang data kritikal berikut telah dikenal pasti dan harus diselesaikan sebelum penilaian semula:
 
-| Gap ID | Item | Severity | Impact | Remediation |
+| ID Jurang | Item | Keterukan | Kesan | Pembetulan |
 |--------|------|----------|--------|-------------|
-| DG001 | TFDA Label Warnings / Contraindications | **Blocking** | Cannot enter S1 safety screening | Download and parse label PDF from regulatory authority website |
-| DG002 | Mechanism of Action (MOA) | **High** | Affects mechanism–indication relevance analysis | Query DrugBank API (bedaquiline → DB09034) |
-| — | DrugBank ID | **High** | Drug excluded from TxGNN knowledge graph | Map BEDAQUILINE FUMARATE → DB09034 and re-run prediction |
-| — | Approved Indication Text | **Medium** | Cannot establish baseline indication | Re-query NPRA or extract from product label |
+| DG001 | Amaran Label TFDA / Kontraindikasi | **Menghalang** | Tidak boleh memasuki saringan keselamatan S1 | Muat turun dan huraikan PDF label daripada laman web pihak berkuasa kawal selia |
+| DG002 | Mekanisme Tindakan (MOA) | **Tinggi** | Menjejaskan analisis kerelevanan mekanisme–indikasi | Kueri API DrugBank (bedaquiline → DB09034) |
+| — | ID DrugBank | **Tinggi** | Ubat dikecualikan daripada graf pengetahuan TxGNN | Petakan BEDAQUILINE FUMARATE → DB09034 dan jalankan semula ramalan |
+| — | Teks Indikasi yang Diluluskan | **Sederhana** | Tidak boleh menetapkan indikasi asas | Kueri semula NPRA atau ekstrak daripada label produk |
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-No repurposing candidates were generated by TxGNN, most likely because the drug could not be mapped into the knowledge graph (missing DrugBank ID). Multiple blocking data gaps prevent safety evaluation. This candidate cannot proceed until foundational data is resolved.
+**Alasan:**
+Tiada calon penggunaan semula yang dijana oleh TxGNN, kemungkinan besar kerana ubat tidak dapat dipetakan ke dalam graf pengetahuan (ID DrugBank yang hilang). Beberapa jurang data kritis menghalang penilaian keselamatan. Calon ini tidak boleh diteruskan sehingga data asas diselesaikan.
 
-**To proceed, the following is needed:**
-- Resolve the DrugBank ID mapping (bedaquiline fumarate → **DB09034**) and re-run the TxGNN prediction pipeline
-- Extract the approved indication text from the NPRA product label or Quest database
-- Obtain the package insert to populate safety warnings, contraindications, and drug interaction data
-- Re-generate the evidence pack with complete fields before re-evaluation
+**Untuk meneruskan, berikut diperlukan:**
+- Selesaikan pemetaan ID DrugBank (bedaquiline fumarate → **DB09034**) dan jalankan semula saluran ramalan TxGNN
+- Ekstrak teks indikasi yang diluluskan daripada label produk NPRA atau pangkalan data Quest
+- Dapatkan sisipan pakej untuk melengkapkan data amaran keselamatan, kontraindikasi, dan interaksi ubat
+- Hasilkan semula pek bukti dengan medan lengkap sebelum penilaian semula
 
 ---
 
-*Disclaimer: This report is for research purposes only and does not constitute medical advice. Any drug repurposing candidates require clinical validation before application.*
+*Penafian: Laporan ini adalah untuk tujuan penyelidikan sahaja dan tidak membentuk nasihat perubatan. Sebarang calon penggunaan semula ubat memerlukan pengesahan klinikal sebelum aplikasi.*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

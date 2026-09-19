@@ -29,109 +29,106 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-Using the evidence pack provided, I'm generating the drug repurposing evaluation report below. Note: among the 10 TxGNN-predicted indications in this evidence pack, only rank #5 ("acquired coagulation factor deficiency" — which maps to Acquired Haemophilia A) advanced past initial screening (S3, L1 evidence, "Proceed with Guardrails"); the other nine remain on Hold (S0) because their own mechanistic-link notes explicitly state the biology doesn't match emicizumab's mode of action, and none has supporting trials/literature. I've built the report around the evidence-supported candidate and appended a short note on the screened-out candidates for transparency.
+# Emicizumab: Daripada Haemophilia A Kongenital kepada Haemophilia A Didapati
+
+## Ringkasan Satu Ayat
+
+> Emicizumab adalah antibodi monoklonal biespesifik yang pada asalnya digunakan untuk mencegah episod pendarahan pada pesakit dengan **Haemophilia A Kongenital** (dengan atau tanpa inhibitor Factor VIII).
+> Model TxGNN meramalkan ia mungkin berkesan untuk **Haemophilia A Didapati** (dicatat dalam graf pengetahuan sebagai "kekurangan faktor pembekuan didapati"),
+> dengan **1 percubaan klinikal** dan **20 penerbitan** — termasuk tiga kajian Fasa 2/3 prospektif dan pernyataan konsensus kumpulan kerja rasmi — kini menyokong arah ini.
 
 ---
 
-# Emicizumab: From Congenital Haemophilia A to Acquired Haemophilia A
+## Gambaran Pantas
 
-## One-Sentence Summary
-
-> Emicizumab is a bispecific monoclonal antibody originally used to prevent bleeding episodes in patients with **congenital Haemophilia A** (with or without Factor VIII inhibitors).
-> The TxGNN model predicts it may be effective for **Acquired Haemophilia A** (recorded in the knowledge graph as "acquired coagulation factor deficiency"),
-> with **1 clinical trial** and **20 publications** — including three prospective Phase 2/3 studies and a formal working-group consensus statement — currently supporting this direction.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Congenital Haemophilia A, with or without Factor VIII inhibitors *(based on internationally known indication for emicizumab; local NPRA licence text was not populated in this evidence pack)* |
-| Predicted New Indication | Acquired Haemophilia A ("acquired coagulation factor deficiency") |
-| TxGNN Prediction Score | 99.90% |
-| Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
-| Recommended Decision | Proceed with Guardrails |
+| Item | Kandungan |
+|------|--------|
+| Petunjuk Asal | Haemophilia A Kongenital, dengan atau tanpa inhibitor Factor VIII *(berdasarkan petunjuk yang diketahui secara antarabangsa untuk emicizumab; teks lesen NPRA tempatan tidak diisi dalam pakej bukti ini)* |
+| Petunjuk Baru Diramal | Haemophilia A Didapati ("kekurangan faktor pembekuan didapati") |
+| Skor Ramalan TxGNN | 99.90% |
+| Tahap Bukti | L1 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 2 |
+| Keputusan yang Disyorkan | Teruskan dengan Pagar Keselamatan |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, structured mechanism-of-action data is not available in this evidence pack (flagged as a High-severity data gap, DG002). Based on publicly known pharmacology, emicizumab is a humanized bispecific IgG4 monoclonal antibody that simultaneously binds activated Factor IX (FIXa) and Factor X (FX), physically bridging them to restore the function of the intrinsic tenase complex — effectively mimicking the cofactor activity of activated Factor VIII (FVIIIa) without being a FVIII molecule itself.
+Pada masa ini, data mekanisme-tindakan berstruktur tidak tersedia dalam pakej bukti ini (ditandai sebagai jurang data keterukan Tinggi, DG002). Berdasarkan farmakologi yang diketahui secara umum, emicizumab adalah antibodi monoklonal IgG4 humanisasi biespesifik yang secara serentak mengikat Factor IX teraktif (FIXa) dan Factor X (FX), secara fizikal menjambatani mereka untuk memulihkan fungsi kompleks tenase intrinsik — secara berkesan meniru aktiviti kofaktor Factor VIII teraktif (FVIIIa) tanpa menjadi molekul FVIII itu sendiri.
 
-Congenital Haemophilia A and Acquired Haemophilia A (AHA) are, at the coagulation-cascade level, the same functional lesion — insufficient FVIIIa cofactor activity in the intrinsic tenase complex — arising from two different causes: a genetic deficiency in congenital disease versus autoantibody-mediated neutralization of endogenous FVIII in AHA. Because emicizumab does not resemble native FVIII structurally, it is **not recognized or neutralized by anti-FVIII autoantibodies**, which is precisely the pathological driver of AHA.
+Haemophilia A Kongenital dan Haemophilia A Didapati (AHA) adalah, pada tahap lata pembekuan, lesion fungsi yang sama — aktiviti kofaktor FVIIIa tidak mencukupi dalam kompleks tenase intrinsik — yang timbul daripada dua penyebab berbeza: kekurangan genetik dalam penyakit kongenital berbanding peneutralan yang dimediasi autoantibodi FVIII endogen dalam AHA. Oleh kerana emicizumab tidak menyerupai FVIII asli dari segi struktur, ia **tidak dikenali atau dineutralisasi oleh autoantibodi anti-FVIII**, yang merupakan pemacu patologi AHA.
 
-This mechanistic independence from FVIII-inhibitor status is why emicizumab can restore haemostasis in AHA patients regardless of autoantibody titre, making it one of the mechanistically best-supported repurposing candidates identified for this drug — a conclusion echoed in the pack's own rationale: *"the disease corresponds substantively to Acquired Haemophilia A, where autoantibodies against FVIII cause functional FVIII deficiency; emicizumab's FIXa/FX bridging mechanism directly bypasses the inhibited FVIII and is unaffected by antibody interference, making it one of the most mechanistically plausible candidates for this indication."*
+Kemandirian mekanik ini daripada status inhibitor FVIII adalah mengapa emicizumab dapat memulihkan hemostasis dalam pesakit AHA tanpa mengira titer autoantibodi, menjadikannya salah satu calon tujuan ulang yang paling tersokong mekanik yang dikenal pasti untuk ubat ini — kesimpulan yang dikuatkan dalam rasional pakej sendiri: *"penyakit ini bersesuaian secara substantif dengan Haemophilia A Didapati, di mana autoantibodi terhadap FVIII menyebabkan kekurangan FVIII berfungsi; mekanisme penjambatan FIXa/FX emicizumab secara langsung memintas FVIII yang dihalang dan tidak terpengaruh oleh gangguan antibodi, menjadikannya salah satu calon tujuan ulang yang paling munasabah dari segi mekanik untuk petunjuk ini."*
 
 ---
 
-## Clinical Trial Evidence
+## Bukti Percubaan Klinikal
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT04398628](https://clinicaltrials.gov/study/NCT04398628) | N/A | Recruiting | 3,000 | ATHN Transcends — a multicenter natural-history cohort registry tracking safety, effectiveness, and real-world treatment practice across non-neoplastic haematologic disorders, including acquired coagulation factor deficiencies. Provides descriptive/real-world safety signal rather than direct interventional efficacy data for emicizumab (evidence grade B). |
+| [NCT04398628](https://clinicaltrials.gov/study/NCT04398628) | N/A | Merekrut | 3,000 | ATHN Transcends — daftar kohort sejarah semula jadi multipusat yang menjejaki keselamatan, keberkesanan, dan amalan rawatan dunia sebenar merentasi gangguan hematologi bukan neoplastik, termasuk kekurangan faktor pembekuan didapati. Menyediakan isyarat keselamatan deskriptif/dunia sebenar daripada data keberkesanan interventif langsung untuk emicizumab (gred bukti B). |
 
 ---
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [36696195](https://pubmed.ncbi.nlm.nih.gov/36696195/) | 2023 | Phase 3 (single-arm, open-label) | J Thromb Haemost | First prospective, multicenter Phase 3 study of emicizumab prophylaxis specifically in patients with Acquired Haemophilia A. |
-| [37858328](https://pubmed.ncbi.nlm.nih.gov/37858328/) | 2023 | Phase 2/3 (GTH-AHA-EMI) | Lancet Haematology | Open-label, single-arm study showing emicizumab protects AHA patients from bleeding and allows immunosuppression to be deferred during the first 12 weeks. |
-| [39134043](https://pubmed.ncbi.nlm.nih.gov/39134043/) | 2025 | Phase 3 final analysis (AGEHA) | Thrombosis and Haemostasis | Final AGEHA study results, including IST-ineligible patients, confirming a favourable benefit-risk profile for long-term emicizumab prophylaxis in AHA. |
-| [38049124](https://pubmed.ncbi.nlm.nih.gov/38049124/) | 2024 | Consensus/Guideline (GTH-AHA Working Group) | Hämostaseologie | Formal working-group consensus recommendations on the use of emicizumab in Acquired Haemophilia A. |
-| [39536818](https://pubmed.ncbi.nlm.nih.gov/39536818/) | 2025 | Narrative Review | J Thromb Haemost | Overview of AHA epidemiology, pathophysiology, and management in "the emicizumab era." |
-| [39361769](https://pubmed.ncbi.nlm.nih.gov/39361769/) | 2024 | Real-world Cohort (US multicenter) | Blood Advances | Retrospective data on 62 AHA patients treated off-label with emicizumab across 12 US haemophilia treatment centers. |
-| [40795229](https://pubmed.ncbi.nlm.nih.gov/40795229/) | 2025 | Cohort (2-year follow-up) | Blood Advances | Sustained survival benefit and postponed immunosuppression in AHA patients followed up after the GTH-AHA-EMI study. |
-| [38562115](https://pubmed.ncbi.nlm.nih.gov/38562115/) | 2024 | Review | Haemophilia | Reviews recent advances in managing AHA, acquired von Willebrand syndrome, and chronic liver disease-related coagulopathy, noting emicizumab prophylaxis benefit in AHA. |
-| [36795341](https://pubmed.ncbi.nlm.nih.gov/36795341/) | 2023 | Review (opinion) | Blood Transfusion | Discusses pros and cons of emicizumab as a new approach to preventing and treating bleeding in AHA. |
-| [39401737](https://pubmed.ncbi.nlm.nih.gov/39401737/) | 2025 | Case Study | J Thromb Haemost | Detailed evaluation of anti-emicizumab (anti-drug) antibodies observed in a minority of AHA patients treated with emicizumab. |
+| [36696195](https://pubmed.ncbi.nlm.nih.gov/36696195/) | 2023 | Fasa 3 (satu lengan, label terbuka) | J Thromb Haemost | Kajian Fasa 3 prospektif berbilang pusat pertama mengenai profilaksis emicizumab khusus pada pesakit dengan Haemophilia A Didapati. |
+| [37858328](https://pubmed.ncbi.nlm.nih.gov/37858328/) | 2023 | Fasa 2/3 (GTH-AHA-EMI) | Lancet Haematology | Kajian label terbuka, satu lengan yang menunjukkan emicizumab melindungi pesakit AHA daripada pendarahan dan membenarkan imunosuppresi ditangguhkan pada 12 minggu pertama. |
+| [39134043](https://pubmed.ncbi.nlm.nih.gov/39134043/) | 2025 | Analisis akhir Fasa 3 (AGEHA) | Thrombosis and Haemostasis | Hasil kajian AGEHA akhir, termasuk pesakit yang tidak layak IST, mengesahkan profil manfaat-risiko yang menguntungkan untuk profilaksis emicizumab jangka panjang dalam AHA. |
+| [38049124](https://pubmed.ncbi.nlm.nih.gov/38049124/) | 2024 | Konsensus/Panduan (Kumpulan Kerja GTH-AHA) | Hämostaseologie | Cadangan konsensus kumpulan kerja rasmi mengenai penggunaan emicizumab dalam Haemophilia A Didapati. |
+| [39536818](https://pubmed.ncbi.nlm.nih.gov/39536818/) | 2025 | Ulasan Naratif | J Thromb Haemost | Gambaran epidemiologi AHA, patofisiologi, dan pengurusan dalam "era emicizumab". |
+| [39361769](https://pubmed.ncbi.nlm.nih.gov/39361769/) | 2024 | Kohort Dunia Sebenar (multipusat AS) | Blood Advances | Data retrospektif mengenai 62 pesakit AHA yang dirawat luar label dengan emicizumab merentasi 12 pusat rawatan hemofilia AS. |
+| [40795229](https://pubmed.ncbi.nlm.nih.gov/40795229/) | 2025 | Kohort (susulan 2 tahun) | Blood Advances | Manfaat kemandirian berterusan dan imunosuppresi yang ditangguhkan pada pesakit AHA yang diikuti selepas kajian GTH-AHA-EMI. |
+| [38562115](https://pubmed.ncbi.nlm.nih.gov/38562115/) | 2024 | Ulasan | Haemophilia | Mengulas kemajuan terkini dalam pengurusan AHA, sindrom von Willebrand didapati, dan koagulopati berkaitan penyakit hati kronik, dengan catatan manfaat profilaksis emicizumab dalam AHA. |
+| [36795341](https://pubmed.ncbi.nlm.nih.gov/36795341/) | 2023 | Ulasan (pendapat) | Blood Transfusion | Membincangkan kebaikan dan keburukan emicizumab sebagai pendekatan baru untuk mencegah dan merawat pendarahan dalam AHA. |
+| [39401737](https://pubmed.ncbi.nlm.nih.gov/39401737/) | 2025 | Kajian Kes | J Thromb Haemost | Penilaian terperinci mengenai antibodi anti-emicizumab (anti-ubat) yang diperhatikan dalam minoriti pesakit AHA yang dirawat dengan emicizumab. |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-NPRA registration confirms **✓ Marketed** status with **2 active licences**. Detailed licence numbers, product names, dosage forms, and approved indication text were not populated in this evidence pack and require direct retrieval from NPRA before further regulatory assessment.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
+Pendaftaran NPRA mengesahkan status **✓ Dipasarkan** dengan **2 lesen aktif**. Nombor lesen terperinci, nama produk, bentuk dos, dan teks petunjuk yang diluluskan tidak diisi dalam pakej bukti ini dan memerlukan pengambilan langsung daripada NPRA sebelum penilaian kawal selia lanjut.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Proceed with Guardrails**
-
-**Rationale:**
-Multiple prospective Phase 2/3 studies (GTH-AHA-EMI, AGEHA) and a formal working-group consensus statement support emicizumab's efficacy and mechanistic suitability in Acquired Haemophilia A, and its FIXa/FX-bridging mechanism directly addresses the FVIII-inhibitor-driven pathology of AHA. However, this evidence base originates largely from off-label/registry use in other regulatory jurisdictions, so local (Malaysia) regulatory and safety documentation is still required before advancing further.
-
-**To proceed, the following is needed:**
-- NPRA licence detail (product names, dosage forms, approved indication text) — currently blank in the evidence pack
-- Formal package insert data: key warnings, contraindications, and drug interactions (flagged as a **Blocking** data gap, DG001) — this must be resolved before any S1 safety assessment
-- DrugBank-sourced mechanism-of-action documentation (High-severity data gap, DG002)
-- Review of emicizumab's known thrombotic microangiopathy risk profile when co-administered with bypassing agents (e.g., aPCC), given AHA patients often require bypassing therapy for acute bleeds
-- Local health authority guidance on off-label AHA use and any reimbursement pathway
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
 ---
 
-### Other TxGNN-Predicted Indications (Held)
+## Kesimpulan dan Langkah Seterusnya
 
-For completeness, this evidence pack screened 10 TxGNN-predicted indications for emicizumab. The remaining nine were held at the earliest screening stage (S0, L5 — model prediction only, no supporting evidence) because their own mechanistic assessments found no plausible link to emicizumab's FIXa/FX-bridging mode of action:
+**Keputusan: Teruskan dengan Pagar Keselamatan**
 
-- **Pseudo-von Willebrand disease** and **Glanzmann thrombasthenia** — platelet receptor/glycoprotein defects, not coagulation-factor deficiencies
-- **Primary platelet release disorder** and **bleeding diathesis due to a collagen receptor defect** — platelet activation/adhesion signalling defects
-- **Scott syndrome** — platelet membrane phospholipid-scramblase defect
-- **Hemorrhagic disorder due to constitutional thrombocytopenia** and **fetal/neonatal alloimmune thrombocytopenia** — platelet quantity or immune-destruction disorders, not factor-pathway defects
-- **Thrombotic thrombocytopenic purpura** — a *thrombotic* (not bleeding) disorder; increasing thrombin generation here is a theoretical safety concern rather than a therapeutic opportunity and should be flagged as a caution, not pursued
-- **"Flood factor deficiency"** — likely a knowledge-graph node-naming artifact with no recognized clinical correlate; requires source-data verification before any evaluation
+**Rasional:**
+Pelbagai kajian Fasa 2/3 prospektif (GTH-AHA-EMI, AGEHA) dan pernyataan konsensus kumpulan kerja rasmi menyokong keberkesanan emicizumab dan kesesuaian mekanik dalam Haemophilia A Didapati, dan mekanisme penjambatan FIXa/FX-nya secara langsung menangani patologi pemacu inhibitor FVIII dalam AHA. Walau bagaimanapun, asas bukti ini berasal sebahagian besarnya daripada penggunaan luar label/daftar dalam bidang kuasa kawal selia lain, jadi dokumentasi keselamatan kawal selia (Malaysia) tempatan masih diperlukan sebelum meneruskan lebih jauh.
 
-None of these nine require further action at this time beyond periodic re-screening as new evidence emerges.
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Detail lesen NPRA (nama produk, bentuk dos, teks petunjuk yang diluluskan) — kini kosong dalam pakej bukti
+- Data sisipan pakej rasmi: amaran utama, kontraindikasi, dan interaksi ubat (ditandai sebagai jurang data **Menyekat**, DG001) — ini mesti diselesaikan sebelum sebarang penilaian keselamatan S1
+- Dokumentasi mekanisme-tindakan bersumber DrugBank (jurang data keterukan Tinggi, DG002)
+- Semakan profil risiko angiopati mikrotrombotik emicizumab yang diketahui semasa dikoadministrasikan dengan agen pemintas (cth, aPCC), memandangkan pesakit AHA sering memerlukan terapi pemintas untuk pendarahan akut
+- Panduan pihak berkuasa kesihatan tempatan mengenai penggunaan luar label AHA dan sebarang laluan pembayaran balik
+
+---
+
+### Petunjuk TxGNN-Diramal Lain (Ditahan)
+
+Untuk kesempurnaan, pakej bukti ini menapis 10 petunjuk diramal TxGNN untuk emicizumab. Baki sembilan ditahan pada peringkat pemeriksaan paling awal (S0, L5 — ramalan model sahaja, tiada bukti sokongan) kerana penilaian mekanik mereka sendiri menemui tiada pautan munasabah kepada mod tindakan penjambatan FIXa/FX emicizumab:
+
+- **Penyakit pseudo-von Willebrand** dan **trombastenia Glanzmann** — kecacatan reseptor/glikoprotein platelet, bukan kekurangan faktor pembekuan
+- **Gangguan pelepasan platelet utama** dan **gangguan pendarahan kerana kecacatan reseptor kolagen** — kecacatan pensignalan pengaktifan/adhesi platelet
+- **Sindrom Scott** — kecacatan scramblase fosfolipid membran platelet
+- **Gangguan pendarahan kerana thrombocytopenia konstitusional** dan **thrombocytopenia aloimun janin/neonatal** — gangguan kuantiti platelet atau gangguan penghancuran yang dimediasi imun, bukan kecacatan laluan faktor
+- **Purpura thrombositopenia trombotik** — gangguan *trombotik* (bukan pendarahan); peningkatan penjanaan trombin di sini adalah kebimbangan keselamatan teori daripada peluang terapeutik dan harus ditandai sebagai amaran, bukan dikejar
+- **"Kekurangan faktor banjir"** — kemungkinan artifak penamaan nod graf-pengetahuan dengan tiada korelat klinikal yang dikenal pasti; memerlukan pengesahan data sumber sebelum sebarang penilaian
+
+Tiada satu pun daripada sembilan ini memerlukan tindakan lanjut pada masa ini selain penapisan semula berkala apabila bukti baru muncul.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

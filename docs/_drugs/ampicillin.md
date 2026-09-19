@@ -29,102 +29,103 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Ampicillin: From Bacterial Infections to Laryngitis
+# Ampicillin: Daripada Jangkitan Bakteria kepada Laringitis
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Ampicillin is a broad-spectrum aminopenicillin antibiotic widely used to treat a range of bacterial infections, including respiratory tract, urinary tract, and skin infections.
-The TxGNN model predicts it may be effective for **Laryngitis**, with **1 clinical trial** and **20 publications** currently identified in support of this direction.
-However, this prediction requires careful interpretation: the overwhelming majority of laryngitis cases are viral in origin, and the mechanistic link applies only to specific, confirmed bacterial subtypes.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Bacterial infections (detailed label text not available in this data pack) |
-| Predicted New Indication | Laryngitis |
-| TxGNN Prediction Score | 99.97% |
-| Evidence Level | L4 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 18 |
-| Recommended Decision | Hold |
+Ampicillin ialah antibiotik aminopenicillin spektrum luas yang digunakan secara meluas untuk merawat pelbagai jangkitan bakteria, termasuk jangkitan saluran pernafasan, saluran kencing, dan kulit.
+Model TxGNN meramalkan ia mungkin berkesan untuk **Laringitis**, dengan **1 ujian klinikal** dan **20 penerbitan** yang dikenal pasti untuk menyokong arah ini.
+Walau bagaimanapun, ramalan ini memerlukan tafsiran yang teliti: majoriti besar kes laringitis berasal dari virus, dan pautan mekanik hanya berlaku untuk jenis subtype bakteria tertentu yang disahkan.
 
 ---
 
-## Why Is This Prediction Reasonable?
+## Gambaran Ringkas
 
-Detailed mechanism of action data is not available in this evidence pack. Based on established pharmacology, Ampicillin is an aminopenicillin beta-lactam that exerts its bactericidal effect by binding to penicillin-binding proteins (PBPs) — the transpeptidase enzymes responsible for cross-linking bacterial cell wall peptidoglycan. This disrupts structural integrity and leads to osmotic lysis. Its spectrum of activity covers key Gram-positive organisms (e.g., *Streptococcus pyogenes*, *Enterococcus* spp., *Listeria monocytogenes*) and selected Gram-negative organisms that lack beta-lactamase (e.g., non-producing *Haemophilus influenzae*, *Neisseria meningitidis*).
-
-Bacterial laryngitis, while representing a minority of all laryngitis cases, encompasses clinically serious conditions — acute epiglottitis (historically caused by *H. influenzae* type b), perilaryngeal and supraglottic abscesses (often involving Group A Streptococcus or mixed flora), and rare granulomatous infections such as actinomycosis. In these bacterial subtypes, beta-lactam antibiotics including Ampicillin have been used as part of standard-of-care management. The TxGNN knowledge graph likely captured this mechanistic and epidemiological connection.
-
-The critical limitation, however, is that greater than 90% of clinical laryngitis is caused by viruses (parainfluenza, rhinovirus, influenza), for which Ampicillin has absolutely no therapeutic role. Additionally, beta-lactamase-producing strains are increasingly prevalent even among the bacterial pathogens associated with laryngeal infections, limiting the practical utility of unprotected Ampicillin monotherapy. The prediction is biologically plausible for a narrow bacterial subtype, but the TxGNN model has not distinguished between viral and bacterial laryngitis at the disease-ontology level.
+| Perkara | Kandungan |
+|--------|-----------|
+| Petunjuk Asli | Jangkitan bakteria (teks label terperinci tidak tersedia dalam pakej data ini) |
+| Petunjuk Baru yang Diramalkan | Laringitis |
+| Skor Ramalan TxGNN | 99.97% |
+| Tahap Bukti | L4 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 18 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Data mekanisme tindakan terperinci tidak tersedia dalam pakej bukti ini. Berdasarkan farmakoloji yang mantap, Ampicillin ialah aminopenicillin beta-laktam yang mengeluarkan kesan bakterisidnya dengan mengikat kepada protein pengikat penicillin (PBP) — enzim transpeptidase yang bertanggungjawab untuk sambungan silang peptidoglikan dinding sel bakteria. Ini mengganggu integriti struktur dan menyebabkan lisis osmotik. Spektrum aktivitinya meliputi organisma Gram-positif utama (cth., *Streptococcus pyogenes*, *Enterococcus* spp., *Listeria monocytogenes*) dan organisma Gram-negatif terpilih yang kekurangan beta-laktamase (cth., *Haemophilus influenzae* bukan pengeluar, *Neisseria meningitidis*).
+
+Laringitis bakteria, walaupun mewakili minoriti semua kes laringitis, merangkumi keadaan yang serius secara klinikal — epiglottitis akut (secara sejarah disebabkan oleh *H. influenzae* jenis b), abses perilaringeal dan supraglotik (sering melibatkan Kumpulan A Streptococcus atau flora campuran), dan jangkitan granulomatosa yang jarang seperti aktinomikosis. Dalam jenis subtype bakteria ini, antibiotik beta-laktam termasuk Ampicillin telah digunakan sebagai sebahagian daripada pengurusan penjagaan standard. Graf pengetahuan TxGNN berkemungkinan menangkap sambungan mekanik dan epidemiologi ini.
+
+Batasan kritikal, bagaimanapun, ialah lebih daripada 90% laringitis klinikal disebabkan oleh virus (parainfluenza, rhinovirus, influenza), yang mana Ampicillin tidak mempunyai peranan terapeutik sama sekali. Selain itu, strain pengeluar beta-laktamase semakin lazim walaupun dalam kalangan patogen bakteria yang berkaitan dengan jangkitan laringeal, mengehadkan kegunaan praktikal monoterapi Ampicillin yang tidak terlindung. Ramalan ini secara biologi munasabah untuk jenis subtype bakteria yang sempit, tetapi model TxGNN belum membezakan antara laringitis viral dan bakteria pada tahap ontologi penyakit.
+
+---
+
+## Bukti Ujian Klinikal
+
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT01406275](https://clinicaltrials.gov/study/NCT01406275) | N/A | Completed | 363 | Post-marketing surveillance of CLAVAMOX® (Amoxicillin/Clavulanate) in Japanese pediatric patients with infections including laryngitis, tonsillitis, and bronchitis. The study drug is not Ampicillin; this trial provides indirect class-level evidence only. |
+| [NCT01406275](https://clinicaltrials.gov/study/NCT01406275) | N/A | Selesai | 363 | Pengawasan selepas pemasaran CLAVAMOX® (Amoksisilin/Asid Klavulanat) pada pesakit pediatrik Jepun dengan jangkitan termasuk laringitis, tonsilitis, dan bronkitis. Ubat yang dikaji bukan Ampicillin; ujian ini hanya memberikan bukti peringkat kelas secara tidak langsung. |
 
 ---
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|---------|---------|
-| [39879424](https://pubmed.ncbi.nlm.nih.gov/39879424/) | 2025 | Guideline Review | CoDAS | AGREE II quality assessment of clinical guidelines for laryngitis and pharyngitis management; provides evidence-based framework for antibiotic decision-making in laryngeal infections. |
-| [3977063](https://pubmed.ncbi.nlm.nih.gov/3977063/) | 1985 | Retrospective | Anaesthesia & Intensive Care | Review of 161 children with acute epiglottitis; documents 5 deaths and 45 complications, underscoring the severity of bacterial laryngeal disease and the necessity of antibiotic therapy. |
-| [6465636](https://pubmed.ncbi.nlm.nih.gov/6465636/) | 1984 | Case Series | Annals of Emergency Medicine | Three adult epiglottitis cases; highlights that bacterial laryngeal infection is underdiagnosed in adults and requires prompt antibiotic management. |
-| [2603419](https://pubmed.ncbi.nlm.nih.gov/2603419/) | 1989 | Retrospective | Western Journal of Medicine | Nine adult epiglottitis cases over 2 years; intubation required in 44% — reinforces antibiotic therapy as standard care for confirmed bacterial laryngeal infection. |
-| [35923122](https://pubmed.ncbi.nlm.nih.gov/35923122/) | 2023 | Case Report/Review | Ann Otol Rhinol Laryngol | Historical review of spontaneous laryngeal abscess in the modern antibiotic era; connects beta-lactam antibiotic treatment to historical management of laryngeal suppurative infections. |
-| [30579693](https://pubmed.ncbi.nlm.nih.gov/30579693/) | 2019 | Case Report | Auris Nasus Larynx | Laryngeal actinomycosis in a post-bone-marrow-transplant patient; infection resolved after prolonged penicillin-class antibiotic therapy — supports the mechanism of beta-lactams in rare bacterial laryngitis. |
-| [8651625](https://pubmed.ncbi.nlm.nih.gov/8651625/) | 1996 | Case Series | Ann Otol Rhinol Laryngol | Laryngotracheal rhinoscleroma (*Klebsiella rhinoscleromatis*); early mucosal-stage disease responds to tetracycline but illustrates the broader concept of antibiotic therapy for chronic bacterial laryngeal infections. |
-| [34986973](https://pubmed.ncbi.nlm.nih.gov/34986973/) | 2023 | Case Report | Auris Nasus Larynx | COVID-19 presenting as acute epiglottitis with necrotic laryngeal lesions; illustrates the importance of distinguishing infectious etiologies in laryngeal emergencies. |
-| [38145982](https://pubmed.ncbi.nlm.nih.gov/38145982/) | 2024 | Retrospective | Eur Arch Otorhinolaryngol | Microbiological analysis of neck and laryngeal abscesses in diabetic patients; highlights pathogen distribution and antibiotic selection, with beta-lactam sensitivity data for organisms relevant to laryngeal infections. |
-| [12402494](https://pubmed.ncbi.nlm.nih.gov/12402494/) | 2002 | Case Report | Acta Otorrinolaringol Esp | Two cases of paraglottic laryngeal abscess — a rare but life-threatening entity requiring rapid antibiotic intervention; context for bacteria-targeted treatment of laryngeal suppuration. |
+| [39879424](https://pubmed.ncbi.nlm.nih.gov/39879424/) | 2025 | Semakan Garis Panduan | CoDAS | Penilaian kualiti AGREE II bagi garis panduan klinikal untuk pengurusan laringitis dan faringitis; menyediakan kerangka kerja berasaskan bukti untuk pengambilan keputusan antibiotik dalam jangkitan laringeal. |
+| [3977063](https://pubmed.ncbi.nlm.nih.gov/3977063/) | 1985 | Retrospektif | Anaesthesia & Intensive Care | Semakan 161 kanak-kanak dengan epiglottitis akut; mendokumentasikan 5 kematian dan 45 komplikasi, menekankan keparahan penyakit laringeal bakteria dan keperluan terapi antibiotik. |
+| [6465636](https://pubmed.ncbi.nlm.nih.gov/6465636/) | 1984 | Siri Kes | Annals of Emergency Medicine | Tiga kes epiglottitis dewasa; menyerlahkan bahawa jangkitan laringeal bakteria kurang didiagnosis pada dewasa dan memerlukan pengurusan antibiotik yang cepat. |
+| [2603419](https://pubmed.ncbi.nlm.nih.gov/2603419/) | 1989 | Retrospektif | Western Journal of Medicine | Sembilan kes epiglottitis dewasa selama 2 tahun; intubasi diperlukan dalam 44% — mengukuhkan terapi antibiotik sebagai penjagaan standard untuk jangkitan laringeal bakteria yang disahkan. |
+| [35923122](https://pubmed.ncbi.nlm.nih.gov/35923122/) | 2023 | Laporan Kes/Semakan | Ann Otol Rhinol Laryngol | Semakan sejarah abses laringeal spontan dalam era antibiotik moden; menghubungkan rawatan antibiotik beta-laktam dengan pengurusan sejarah jangkitan laringeal suppuratif. |
+| [30579693](https://pubmed.ncbi.nlm.nih.gov/30579693/) | 2019 | Laporan Kes | Auris Nasus Larynx | Aktinomikosis laringeal pada pesakit pasca-pemindahan sumsum tulang; jangkitan diselesaikan selepas terapi antibiotik kelas penicillin yang berpanjangan — menyokong mekanisme beta-laktam dalam laringitis bakteria yang jarang. |
+| [8651625](https://pubmed.ncbi.nlm.nih.gov/8651625/) | 1996 | Siri Kes | Ann Otol Rhinol Laryngol | Rhinoscleroma laringotrakeal (*Klebsiella rhinoscleromatis*); penyakit peringkat selaput lendir awal bertindak balas kepada tetrasiklin tetapi menggambarkan konsep yang lebih luas tentang terapi antibiotik untuk jangkitan laringeal bakteria kronik. |
+| [34986973](https://pubmed.ncbi.nlm.nih.gov/34986973/) | 2023 | Laporan Kes | Auris Nasus Larynx | COVID-19 yang mempersembahkan sebagai epiglottitis akut dengan lesi laringeal nekrotik; menggambarkan kepentingan membezakan etiologi jangkitan dalam kecemasan laringeal. |
+| [38145982](https://pubmed.ncbi.nlm.nih.gov/38145982/) | 2024 | Retrospektif | Eur Arch Otorhinolaryngol | Analisis mikrobiologi abses leher dan laringeal pada pesakit diabetes; menyerlahkan pengedaran patogen dan pemilihan antibiotik, dengan data kepekaan beta-laktam untuk organisma yang berkaitan dengan jangkitan laringeal. |
+| [12402494](https://pubmed.ncbi.nlm.nih.gov/12402494/) | 2002 | Laporan Kes | Acta Otorrinolaringol Esp | Dua kes abses laringeal paraglotik — entiti yang jarang tetapi mengancam nyawa yang memerlukan campur tangan antibiotik yang cepat; konteks untuk rawatan laringeal suppurasi yang disasarkan bacteria. |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-A total of **18 Ampicillin product registrations** are confirmed in Malaysia (NPRA database, queried 2026-03-27). The drug is actively marketed. Detailed product names, dosage forms, manufacturers, and approved indication texts were not returned in this data pack's license records.
+Sejumlah **18 pendaftaran produk Ampicillin** disahkan di Malaysia (pangkalan data NPRA, ditanya 2026-03-27). Ubat ini dipasarkan secara aktif. Nama produk terperinci, bentuk dos, pengilang, dan teks petunjuk yang diluluskan tidak dikembalikan dalam rekod lesen pakej data ini.
 
-Please consult the [NPRA BPfarmasi portal](https://www.bpfarmasi.gov.my) directly for complete product-level information including registration numbers, dosage forms (capsule, powder for injection, oral suspension), and approved indications for each licensed product.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information. Key warnings, contraindications, and drug-drug interaction data were not available in this evidence pack (flagged as data gaps requiring retrieval from the NPRA package insert PDF and DrugBank API).
-
-> **Note for reviewers:** Two blocking data gaps have been identified:
-> - **Package insert warnings/contraindications** (Severity: Blocking) — required before any S1 safety evaluation can proceed. Source: NPRA official website, method: download and parse package insert PDF.
-> - **Mechanism of action data** (Severity: High) — affects mechanistic rationale analysis. Source: DrugBank API query for DB00415.
+Sila rujuk [portal NPRA BPfarmasi](https://www.bpfarmasi.gov.my) secara langsung untuk maklumat lengkap peringkat produk termasuk nombor pendaftaran, bentuk dos (kapsul, serbuk untuk suntikan, suspensyen lisan), dan petunjuk yang diluluskan untuk setiap produk berlesen.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila rujuk sisipan pakej untuk maklumat keselamatan. Data amaran utama, kontraindikasi, dan interaksi ubat-ubat tidak tersedia dalam pakej bukti ini (ditandakan sebagai jurang data yang memerlukan pengambilan daripada PDF sisipan pakej NPRA dan API DrugBank).
 
-**Rationale:**
-The TxGNN prediction score is high (99.97%), but the evidence level is L4 (preclinical/mechanism-level), and the clinical applicability is severely constrained by the fact that the vast majority of laryngitis is viral. No Ampicillin-specific clinical trial for laryngitis exists; the only identified trial studied a different compound (Amoxicillin/Clavulanate). The mechanistic link is valid only for confirmed bacterial subtypes (e.g., acute epiglottitis, laryngeal abscess with susceptible pathogens), which are distinct from the broad ICD entity "laryngitis." This prediction likely reflects a true biological connection at the pathogen level but is not actionable as a repurposing candidate without substantial additional refinement.
-
-**To proceed, the following is needed:**
-
-- **Resolve blocking data gap**: Obtain and parse the NPRA/TFDA package insert for Ampicillin to extract approved indications, warnings, and contraindications — prerequisite for any clinical safety evaluation.
-- **Retrieve MOA data**: Query DrugBank API for DB00415 to formally document the mechanism of action and confirm spectrum of activity.
-- **Refine the disease phenotype**: Narrow the indication from "laryngitis" (broad entity, >90% viral) to a specific bacterial subtype — e.g., *H. influenzae* epiglottitis, laryngeal actinomycosis, or supraglottic abscess caused by susceptible organisms — before assessing repurposing potential.
-- **Assess resistance landscape**: Evaluate current regional prevalence of beta-lactamase-producing strains among pathogens causing laryngeal infections in Malaysia (e.g., via NPRA or MOH antimicrobial surveillance data), as resistance significantly limits the utility of unprotected Ampicillin.
-- **Consider combination formulations**: Given widespread beta-lactamase production, evaluate whether Ampicillin-Sulbactam (rather than Ampicillin alone) would be the more appropriate repurposing candidate for bacterial laryngeal infections.
-- **Cross-reference higher-ranked predictions**: The evidence pack contains 10 predicted indications; notably, **bacterial arthritis (Rank 8, L2 evidence, "Proceed with Guardrails")** and **chronic rhinosinusitis (Rank 4, L3, "Proceed with Guardrails")** show stronger clinical justification and may warrant prioritization over laryngitis for next-stage evaluation.
+> **Nota untuk penyemak ulas:** Dua jurang data yang menghalang telah dikenal pasti:
+> - **Amaran sisipan pakej/kontraindikasi** (Keterukan: Menghalang) — diperlukan sebelum penilaian keselamatan S1 apa pun dapat diteruskan. Sumber: laman web rasmi NPRA, kaedah: muat turun dan huraikan PDF sisipan pakej.
+> - **Data mekanisme tindakan** (Keterukan: Tinggi) — mempengaruhi analisis rasional mekanik. Sumber: pertanyaan API DrugBank untuk DB00415.
 
 ---
 
-> ⚠️ **Disclaimer**: This report is for research reference only and does not constitute medical advice. All drug repurposing candidates require clinical validation before application.
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Skor ramalan TxGNN adalah tinggi (99.97%), tetapi tahap bukti adalah L4 (preclinical/tahap mekanisme), dan kebolehgunaan klinikal sangat dikekang oleh fakta bahawa majoriti besar laringitis adalah viral. Tiada ujian klinikal khusus Ampicillin untuk laringitis wujud; ujian yang dikenal pasti hanya mengkaji sebatian yang berbeza (Amoksisilin/Asid Klavulanat). Pautan mekanik adalah sah hanya untuk jenis subtype bakteria yang disahkan (cth., epiglottitis akut, abses laringeal dengan patogen yang terdedah), yang berbeza daripada entiti ICD yang luas "laringitis." Ramalan ini berkemungkinan mencerminkan sambungan biologi sebenar pada tahap patogen tetapi tidak boleh ditindak sebagai calon ubat guna ulang tanpa pemurnian tambahan yang besar.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+
+- **Selesaikan jurang data yang menghalang**: Dapatkan dan huraikan sisipan pakej NPRA/TFDA untuk Ampicillin untuk mengekstrak petunjuk yang diluluskan, amaran, dan kontraindikasi — prasyarat untuk penilaian keselamatan klinikal apa pun.
+- **Ambil data MOA**: Pertanyaan API DrugBank untuk DB00415 untuk secara rasmi mendokumentasikan mekanisme tindakan dan mengesahkan spektrum aktiviti.
+- **Sempitkan fenotip penyakit**: Sempitkan petunjuk daripada "laringitis" (entiti yang luas, >90% viral) kepada jenis subtype bakteria tertentu — cth., epiglottitis *H. influenzae*, aktinomikosis laringeal, atau abses supraglotik yang disebabkan oleh organisma yang terdedah — sebelum menilai potensi ubat guna ulang.
+- **Nilai landskap rintangan**: Menilai peredaran prevalen wilayah semasa strain pengeluar beta-laktamase dalam kalangan patogen yang menyebabkan jangkitan laringeal di Malaysia (cth., melalui data pengawasan antimikrob NPRA atau MOH), kerana rintangan dengan ketara mengehadkan kegunaan Ampicillin yang tidak terlindung.
+- **Pertimbangkan formulasi gabungan**: Memandangkan pengeluaran beta-laktamase yang meluas, nilai sama ada Ampicillin-Sulbactam (bukannya Ampicillin sahaja) akan menjadi calon ubat guna ulang yang lebih sesuai untuk jangkitan laringeal bakteria.
+- **Rujuk silang ramalan yang kedudukan lebih tinggi**: Pakej bukti mengandungi 10 petunjuk yang diramalkan; khususnya, **artritis bakteria (Rank 8, bukti L2, "Teruskan dengan Pengawal")** dan **rhinosinusitis kronik (Rank 4, L3, "Teruskan dengan Pengawal")** menunjukkan justifikasi klinikal yang lebih kuat dan mungkin perlu mengutamakan laringitis untuk penilaian peringkat seterusnya.
+
+---
+
+> ⚠️ **Penafian**: Laporan ini adalah untuk rujukan penyelidikan sahaja dan tidak membentuk nasihat perubatan. Semua calon ubat guna ulang memerlukan pengesahan klinikal sebelum permohonan.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

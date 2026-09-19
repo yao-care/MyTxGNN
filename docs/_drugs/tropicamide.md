@@ -29,62 +29,63 @@ Tahap bukti: **L5** | Indikasi diramal: **3**
 
 </div>
 
-# Tropicamide: From Ophthalmic Mydriasis to Cauda Equina Syndrome
+# Tropicamide: Daripada Mydriasis Oftalmik kepada Syndrome Cauda Equina
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Tropicamide is a muscarinic (anticholinergic) antagonist used topically in ophthalmology for pupil dilation and cycloplegia. The TxGNN model predicts a possible link to **Cauda Equina Syndrome** with a very high raw similarity score, but this candidate is supported by **0 clinical trials** and **0 publications**, and the model's own rationale flags it as a likely false signal with no plausible pathophysiological basis.
+Tropicamide ialah antagonis muskarinik (antikolinergik) yang digunakan secara topikal dalam oftalmologi untuk pelebaraan murid dan sikloplegia. Model TxGNN meramalkan kemungkinan kaitan dengan **Syndrome Cauda Equina** dengan skor kesamaan asal yang sangat tinggi, tetapi calon ini disokong oleh **0 ujian klinikal** dan **0 penerbitan**, dan rasional model itu sendiri menandakannya sebagai isyarat palsu yang kemungkinan besar tanpa asas patofisiologi yang munasabah.
 
-## Quick Overview
+## Tinjauan Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | Ophthalmic use — mydriasis/cycloplegia (topical pupil dilation agent) |
-| Predicted New Indication | Cauda Equina Syndrome |
-| TxGNN Prediction Score | 99.53% |
-| Evidence Level | L5 (model prediction only, no supporting studies) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|-----------|
+| Petunjuk Asal | Penggunaan oftalmik — pelebaraan murid/sikloplegia (agen pelebaraan murid topikal) |
+| Petunjuk Baru Diramalkan | Syndrome Cauda Equina |
+| Skor Ramalan TxGNN | 99.53% |
+| Tahap Bukti | L5 (ramalan model sahaja, tiada kajian sokongan) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan Disarankan | Hold |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Tropicamide is a muscarinic (M-receptor) antagonist — a member of the broader anticholinergic drug class. Clinically, however, it is used exclusively as a topical ophthalmic agent for short-acting pupil dilation and ciliary muscle paralysis; it has no established systemic pharmacokinetic or safety profile for treating neurological or musculoskeletal conditions.
+Tropicamide ialah antagonis muskarinik (penerima-M) — anggota daripada kelas ubat antikolinergik yang lebih luas. Walau bagaimanapun, ia digunakan secara eksklusif sebagai agen oftalmik topikal untuk pelebaraan murid jangka pendek dan paralisis otot siliari; ia tidak mempunyai profil farmakokinetik atau keselamatan sistemik yang ditetapkan untuk merawat keadaan neurologis atau muskuloskeletal.
 
-Cauda equina syndrome is a surgical emergency caused by mechanical compression of the lumbosacral nerve roots (e.g., disc herniation, tumor, trauma), requiring urgent decompression. There is no known mechanistic pathway connecting a topical anticholinergic mydriatic and the mechanical/surgical pathology underlying this condition.
+Syndrome cauda equina adalah kecemasan kirurgis yang disebabkan oleh mampatan mekanik akar saraf lumbosacral (contohnya, herniasi cakera, tumor, trauma), memerlukan dekompresi mendesak. Tidak terdapat laluan mekanik yang diketahui menghubungkan agen mydriatis antikolinergik topikal dengan patologi mekanik/kirurgis yang mendasari keadaan ini.
 
-The evidence pack's own repurposing rationale for this candidate explicitly identifies it as **likely a false signal**: the link is thought to arise indirectly through shared "neurogenic bladder" comorbidity/symptom nodes in the knowledge graph, rather than any genuine pharmacological relationship. Given the absence of any clinical trial or literature support, this prediction should not be treated as a credible repurposing lead without substantial independent mechanistic justification.
+Pakej bukti itu sendiri merumuskan rasional repurposing bagi calon ini sebagai **kemungkinan isyarat palsu**: hubungan itu didapati timbul secara tidak langsung melalui nod komorbidititi/gejala "kencing neurogenik" bersama dalam graf pengetahuan, dan bukannya hubungan farmakoloji yang tulen. Memandangkan ketiadaan sebarang sokongan ujian klinikal atau kesusasteraan, ramalan ini tidak sepatutnya dianggap sebagai petunjuk repurposing yang boleh dipercayai tanpa justifikasi mekanik bebas yang kuat dan substansi.
 
-*(Two other candidates were also generated for this drug — neurogenic bladder and irritable bowel syndrome — both similarly rated L5/Hold with zero supporting trials or literature; see Conclusion.)*
+*(Dua calon lain juga dijana untuk ubat ini — kencing neurogenik dan sindrom usus beriritasi — kedua-duanya dinilai L5/Hold tanpa sebarang ujian sokongan atau kesusasteraan; lihat Kesimpulan.)*
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-Currently no related clinical trials registered.
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-Currently no related literature available.
+Pada masa ini tiada kesusasteraan berkaitan yang tersedia.
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Tropicamide is confirmed as marketed in Malaysia (1 registered license), but detailed authorization number, product name, dosage form, and approved indication text are not available in the current dataset.
+Tropicamide disahkan sebagai dipasarkan di Malaysia (1 lesen berdaftar), tetapi nombor kebenaran terperinci, nama produk, bentuk dos, dan teks petunjuk yang diluluskan tidak tersedia dalam set data semasa.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila merujuk risalah ubat untuk maklumat keselamatan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Hold**
 
-**Rationale:**
-This candidate has no clinical trial or literature support (Evidence Level L5), and the model's own mechanistic rationale identifies it as a probable knowledge-graph artifact rather than a genuine pharmacological signal. There is also a blocking data gap on TFDA/NPRA label warnings and contraindications, which prevents even an initial (S1) safety assessment.
+**Rasional:**
+Calon ini tidak mempunyai sokongan ujian klinikal atau kesusasteraan (Tahap Bukti L5), dan rasional mekanik model itu sendiri mengenalpasti ia sebagai artefak graf-pengetahuan yang kemungkinan besar daripada isyarat farmakoloji yang tulen. Terdapat juga jurang data penghalang pada amaran label TFDA/NPRA dan kontraindikasi, yang menghalang penilaian keselamatan awal (S1).
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert data — warnings, contraindications (blocking gap; required before any safety review)
-- Confirmed mechanism of action from DrugBank (high-priority gap)
-- Independent mechanistic or preclinical rationale specifically linking tropicamide to cauda equina syndrome, given the current rationale argues against biological plausibility
-- If pursuing alternative candidates instead, note that neurogenic bladder and irritable bowel syndrome (ranks 2–3) also currently lack trial/literature evidence and remain at Hold
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data risalah ubat TFDA/NPRA — amaran, kontraindikasi (jurang penghalang; diperlukan sebelum sebarang semakan keselamatan)
+- Mekanisme tindakan yang disahkan daripada DrugBank (jurang keutamaan tinggi)
+- Rasional mekanik bebas atau pra-klinikal yang secara khusus menghubungkan tropicamide dengan syndrome cauda equina, memandangkan rasional semasa menyanggah kebolehpercayaan biologi
+- Jika mengikuti calon alternatif sebaliknya, ambil perhatian bahawa kencing neurogenik dan sindrom usus beriritasi (pangkat 2–3) juga pada masa ini tanpa bukti ujian/kesusasteraan dan kekal pada Hold
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,74 +29,75 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Dicyclomine Hydrochloride: Drug Repurposing Evaluation Report
+# Dicyclomine Hydrochloride: Laporan Penilaian Ubah Guna Ubat
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Dicyclomine Hydrochloride is an anticholinergic/antispasmodic agent currently marketed in Malaysia with 4 registered products. No TxGNN model predictions for new indications are available at this time, and critical data gaps in mechanism of action, approved indication details, and safety information must be addressed before any repurposing assessment can proceed.
+Dicyclomine Hydrochloride adalah agen antikolinergik/antispasmodik yang pada masa ini dipasarkan di Malaysia dengan 4 produk berdaftar. Tiada ramalan model TxGNN untuk indikasi baru tersedia pada ketika ini, dan jurang data kritikal dalam mekanisme tindakan, butiran indikasi yang diluluskan, dan maklumat keselamatan mesti ditangani sebelum sebarang penilaian ubah guna ubat dapat diteruskan.
 
-## Quick Overview
+## Tinjauan Cepat
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Not available in current dataset |
-| Predicted New Indication | None — no TxGNN predictions generated |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | N/A |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 4 |
-| Recommended Decision | **Hold** |
+| Indikasi Asal | Tidak tersedia dalam set data semasa |
+| Indikasi Baru Diramalkan | Tiada — tiada ramalan TxGNN dijana |
+| Skor Ramalan TxGNN | T/A |
+| Tahap Bukti | T/A |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 4 |
+| Keputusan Disyorkan | **Tahan** |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, no TxGNN predictions have been generated for Dicyclomine Hydrochloride, so a mechanistic plausibility assessment cannot be performed at this stage.
+Pada ketika ini, tiada ramalan TxGNN telah dijana untuk Dicyclomine Hydrochloride, oleh itu penilaian kemungkinan mekanistik tidak dapat dilakukan pada peringkat ini.
 
-Dicyclomine Hydrochloride is known to be an antimuscarinic (anticholinergic) antispasmodic agent commonly used for functional gastrointestinal disorders such as irritable bowel syndrome (IBS). However, the Evidence Pack does not contain a confirmed DrugBank ID or detailed mechanism of action data. Without a DrugBank mapping, the drug cannot be linked into the TxGNN knowledge graph, which is a prerequisite for generating repurposing predictions.
+Dicyclomine Hydrochloride diketahui sebagai agen antimuskarini (antikolinergik) antispasmodik yang biasa digunakan untuk gangguan gastrointestinal fungsional seperti sindrom usus sensitif (IBS). Walau bagaimanapun, Pakej Bukti tidak mengandungi ID DrugBank yang disahkan atau data mekanisme tindakan yang terperinci. Tanpa pemetaan DrugBank, ubat tidak dapat dipautkan ke dalam graf pengetahuan TxGNN, yang merupakan prasyarat untuk menjana ramalan ubah guna ubat.
 
-Resolving the DrugBank ID mapping (likely **DB00804** based on the INN) and populating the mechanism of action data are essential first steps before the TxGNN prediction pipeline can be executed for this compound.
+Menyelesaikan pemetaan ID DrugBank (berkemungkinan **DB00804** berdasarkan INN) dan melengkapkan data mekanisme tindakan adalah langkah pertama yang penting sebelum saluran ramalan TxGNN dapat dilaksanakan untuk sebatian ini.
 
-## Clinical Trial Evidence
+## Bukti Percubaan Klinikal
 
-Currently no related clinical trials registered — no predicted indication available for evidence search.
+Pada ketika ini tiada percubaan klinikal berkaitan yang didaftarkan — tiada indikasi diramalkan tersedia untuk carian bukti.
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-Currently no related literature available — no predicted indication available for evidence search.
+Pada ketika ini tiada kesusasteraan berkaitan yang tersedia — tiada indikasi diramalkan tersedia untuk carian bukti.
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
 |------|------|------|------|
-| (Not available) | (Not available) | (Not available) | (Not available) |
-| (Not available) | (Not available) | (Not available) | (Not available) |
-| (Not available) | (Not available) | (Not available) | (Not available) |
-| (Not available) | (Not available) | (Not available) | (Not available) |
+| (Tidak tersedia) | (Tidak tersedia) | (Tidak tersedia) | (Tidak tersedia) |
+| (Tidak tersedia) | (Tidak tersedia) | (Tidak tersedia) | (Tidak tersedia) |
+| (Tidak tersedia) | (Tidak tersedia) | (Tidak tersedia) | (Tidak tersedia) |
+| (Tidak tersedia) | (Tidak tersedia) | (Tidak tersedia) | (Tidak tersedia) |
 
-> **Note:** 4 product registrations were confirmed via NPRA query (2026-03-27), but detailed license information (authorization numbers, product names, dosage forms, and approved indications) has not yet been populated into the Evidence Pack.
+> **Nota:** 4 pendaftaran produk telah disahkan melalui pertanyaan NPRA (2026-03-27), tetapi maklumat lesen terperinci (nombor kebenaran, nama produk, bentuk dos, dan indikasi yang diluluskan) belum lagi dimasukkan ke dalam Pakej Bukti.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-> Please refer to the package insert for safety information. Key warnings, contraindications, and drug interaction data have not yet been collected for this Evidence Pack.
+> Sila rujuk brosur pakej untuk maklumat keselamatan. Data amaran utama, kontraindikasi, dan interaksi ubat belum dikumpul untuk Pakej Bukti ini.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-This evaluation cannot proceed because critical foundational data is missing: (1) no DrugBank ID mapping has been confirmed, preventing TxGNN knowledge graph integration; (2) no predicted indications have been generated; and (3) approved indication text, safety warnings, and contraindications are all absent.
+**Rasional:**
+Penilaian ini tidak dapat diteruskan kerana data asas yang kritikal hilang: (1) tiada pemetaan ID DrugBank telah disahkan, menghalang integrasi graf pengetahuan TxGNN; (2) tiada indikasi diramalkan telah dijana; dan (3) teks indikasi yang diluluskan, amaran keselamatan, dan kontraindikasi semuanya tiada.
 
-**To proceed, the following is needed:**
+**Untuk meneruskan, yang berikut diperlukan:**
 
-1. **Confirm DrugBank mapping** — Query DrugBank for "Dicyclomine Hydrochloride" (expected: DB00804) and populate `drug.drugbank_id`
-2. **Populate mechanism of action** — Retrieve MOA from DrugBank (anticholinergic/antimuscarinic, smooth muscle relaxant)
-3. **Collect NPRA license details** — Download full registration records from NPRA to populate authorization numbers, product names, dosage forms, and approved indication text
-4. **Run TxGNN prediction pipeline** — Once DrugBank ID is mapped, execute KG + DL prediction to generate repurposing candidates
-5. **Collect safety data** — Parse package insert PDFs for key warnings, contraindications, and drug interactions
-6. **Re-run evidence collection** — After predictions are available, query ClinicalTrials.gov, PubMed, and ICTRP for supporting evidence
+1. **Sahkan pemetaan DrugBank** — Pertanyaan DrugBank untuk "Dicyclomine Hydrochloride" (dijangka: DB00804) dan isi `drug.drugbank_id`
+2. **Lengkapkan mekanisme tindakan** — Dapatkan MOA dari DrugBank (antikolinergik/antimuskarini, perelek otot licin)
+3. **Kumpul butiran lesen NPRA** — Muat turun rekod pendaftaran penuh dari NPRA untuk mengisi nombor kebenaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan
+4. **Jalankan saluran ramalan TxGNN** — Setelah ID DrugBank dimeta, laksanakan ramalan KG + DL untuk menjana calon ubah guna ubat
+5. **Kumpul data keselamatan** — Huraikan PDF brosur pakej untuk amaran utama, kontraindikasi, dan interaksi ubat
+6. **Jalankan semula pengumpulan bukti** — Selepas ramalan tersedia, pertanyaan ClinicalTrials.gov, PubMed, dan ICTRP untuk bukti sokongan
 
 ---
 
-*This report is for research reference only and does not constitute medical advice. Any drug repurposing candidates require clinical validation before application.*
+*Laporan ini adalah untuk rujukan penyelidikan sahaja dan tidak merupakan nasihat perubatan. Sebarang calon ubah guna ubat memerlukan pengesahan klinikal sebelum aplikasi.*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

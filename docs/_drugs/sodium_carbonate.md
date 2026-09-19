@@ -29,74 +29,75 @@ Tahap bukti: **L5** | Indikasi diramal: **6**
 
 </div>
 
-# Sodium Carbonate: From No Established Original Indication to Cauda Equina Syndrome (Signal Flagged as Noise)
+# Natrium Karbonat: Daripada Tiada Indikasi Asal yang Ditegaskan hingga Sindrom Ekor Kuda (Isyarat Ditandai sebagai Kebisingan)
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Sodium carbonate (DrugBank DB09460) has no approved therapeutic indication recorded in this data pull — it is registered in Malaysia (4 licenses) but the underlying product details were not returned. TxGNN's top prediction is **Cauda Equina Syndrome** (score 99.80%), but this candidate has **zero clinical trials and zero publications**, and the model's own rationale flags it as likely prediction noise rather than a genuine signal.
+Natrium karbonat (DrugBank DB09460) tidak mempunyai indikasi terapi yang diluluskan yang dicatat dalam penarikan data ini — ia didaftarkan di Malaysia (4 lesen) tetapi butiran produk yang mendasari tidak dikembalikan. Ramalan utama TxGNN ialah **Sindrom Ekor Kuda** (skor 99.80%), tetapi calon ini mempunyai **sifar ujian klinikal dan sifar penerbitan**, dan rasional model sendiri menandai ia sebagai kemungkinan kebisingan ramalan daripada isyarat yang tulen.
 
 ---
 
-## Quick Overview
+## Gambaran Cepat
 
-| Item | Content |
+| Perkara | Kandungan |
 |------|------|
-| Original Indication | Not established — no approved indication text available in the current data pull |
-| Predicted New Indication | Cauda Equina Syndrome |
-| TxGNN Prediction Score | 99.80% |
-| Evidence Level | L5 (model prediction only, no supporting studies) |
-| Malaysia Market Status | Marketed |
-| Number of Registrations | 4 |
-| Recommended Decision | Hold |
+| Indikasi Asal | Tidak ditegaskan — tiada teks indikasi yang diluluskan tersedia dalam penarikan data semasa |
+| Indikasi Baru yang Diramalkan | Sindrom Ekor Kuda |
+| Skor Ramalan TxGNN | 99.80% |
+| Tahap Bukti | L5 (ramalan model sahaja, tiada kajian sokongan) |
+| Status Pasaran Malaysia | Dipasarkan |
+| Bilangan Pendaftaran | 4 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Adalah Munasabah?
 
-Detailed mechanism of action data is not available for sodium carbonate (flagged as a Blocking/High-severity data gap in this evidence pack). Sodium carbonate is generally known as an alkalizing/buffering agent in pharmaceutical and industrial contexts, but no original therapeutic indication is recorded here, which limits any mechanistic comparison to the predicted indication.
+Data mekanisme tindakan terperinci tidak tersedia untuk natrium karbonat (ditandai sebagai jurang data Penghalang/Keterukan Tinggi dalam pakej bukti ini). Natrium karbonat secara umum dikenali sebagai agen pengalkalian/penimbal dalam konteks farmasi dan perindustrian, tetapi tiada indikasi terapi asal yang dicatat di sini, yang mengehadkan sebarang perbandingan mekanistik kepada indikasi yang diramalkan.
 
-For the top-ranked candidate — Cauda Equina Syndrome — the evaluation explicitly concludes there is **no plausible mechanistic link**: cauda equina syndrome is a neurosurgical emergency caused by compressive spinal pathology, which has no known relationship to sodium carbonate's alkalizing/buffering action. This candidate is assessed as likely TxGNN prediction noise rather than a credible repurposing signal.
+Untuk calon tertinggi — Sindrom Ekor Kuda — penilaian secara terang-terangan menyimpulkan tidak ada pautan mekanistik yang boleh dipercayai: sindrom ekor kuda ialah kecemasan neurokirurgi yang disebabkan oleh patologi tulang belakang yang menekan, yang tidak mempunyai hubungan yang diketahui dengan tindakan pengalkalian/penimbal natrium karbonat. Calon ini dinilai sebagai kemungkinan kebisingan ramalan TxGNN daripada isyarat penggubahan semula ubat yang boleh dipercayai.
 
-Among the other five candidates screened, two show marginally more biological plausibility but still lack direct evidence: **anaphylaxis** (rank 2) has literature suggesting sodium carbonate could act as a pH-modifying excipient to enhance sublingual epinephrine absorption (not an antiallergic effect of sodium carbonate itself), and **ventricular tachycardia** (rank 6) draws an indirect analogy to sodium *bicarbonate*'s established use in TCA-overdose-induced arrhythmia — a related but distinct compound, so this cannot be directly extrapolated. The remaining candidates (food-dependent exercise-induced anaphylaxis, obsolete neurogenic bladder, dry eye syndrome) have no clinical or mechanistic support, and one disease term is itself flagged as an obsolete ontology entry.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+Dalam kalangan lima calon lain yang disaring, dua menunjukkan kepadanan biologi yang lebih ketara tetapi masih kekurangan bukti langsung: **anafilaksis** (kedudukan 2) mempunyai kesusasteraan yang mencadangkan natrium karbonat boleh bertindak sebagai bahan tambahan pengubah pH untuk meningkatkan penyerapan epinefrin sublingual (bukan kesan anti-alergi natrium karbonat itu sendiri), dan **takikardia ventrikel** (kedudukan 6) mengambil analogi tidak langsung kepada penggunaan natrium *bikarbonat* yang ditegaskan dalam aritmia yang diinduksi oleh keracunan TCA — sebatian yang berkaitan tetapi berbeza, jadi ini tidak boleh diekstrapolasi secara langsung. Calon-calon yang tinggal (anafilaksis yang diinduksi oleh senaman yang bergantung pada makanan, kandung kencing neurogenik yang usang, sindrom mata kering) tidak mempunyai sokongan klinikal atau mekanistik, dan satu istilah penyakit itu sendiri ditandai sebagai entri ontologi yang usang.
 
 ---
 
-## Literature Evidence
+## Bukti Ujian Klinikal
 
-Currently no related literature available.
-
----
-
-## Malaysia Market Information
-
-Sodium carbonate has 4 active registrations in the Malaysia NPRA registry (market status: Marketed). However, this data pull did not return usable product-level details (license number, product name, dosage form, or approved indication text) for any of the 4 entries — these fields require a separate lookup against the NPRA product database.
+Pada masa ini tiada ujian klinikal yang berkaitan terdaftar.
 
 ---
 
-## Safety Considerations
+## Bukti Kesusasteraan
 
-Please refer to the package insert for safety information.
+Pada masa ini tiada kesusasteraan yang berkaitan tersedia.
 
 ---
 
-## Conclusion and Next Steps
+## Maklumat Pasaran Malaysia
 
-**Decision: Hold**
+Natrium karbonat mempunyai 4 pendaftaran aktif dalam pendaftaran NPRA Malaysia (status pasaran: Dipasarkan). Walau bagaimanapun, penarikan data ini tidak mengembalikan butiran tahap produk yang boleh digunakan (nombor lesen, nama produk, bentuk dos, atau teks indikasi yang diluluskan) untuk mana-mana 4 entri — medan-medan ini memerlukan carian berasingan terhadap pangkalan data produk NPRA.
 
-**Rationale:**
-The top-ranked prediction (Cauda Equina Syndrome) has no supporting clinical trials, no literature, and its own mechanistic assessment concludes it is likely model noise rather than a real signal — insufficient evidence to advance.
+---
 
-**To proceed, the following is needed:**
-- Sodium carbonate mechanism of action (MOA) data (DrugBank query)
-- Malaysia NPRA label/insert warnings and contraindications (currently a blocking data gap)
-- Product-level registration details (license numbers, dosage forms, approved indications) for the 4 existing NPRA entries
-- If pursuing repurposing further, prioritize re-screening lower-score candidates with clearer mechanistic rationale (e.g., anaphylaxis, ventricular tachycardia) over the top-ranked but mechanistically unsupported prediction
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Ramalan tertinggi (Sindrom Ekor Kuda) tidak mempunyai ujian klinikal yang menyokong, tiada kesusasteraan, dan penilaian mekanistiknya sendiri menyimpulkan ia berkemungkinan kebisingan model daripada isyarat sebenar — bukti tidak mencukupi untuk maju.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan natrium karbonat (MOA) (pertanyaan DrugBank)
+- Amaran label/sisipan NPRA Malaysia dan kontraindikasi (pada masa ini jurang data penghalang)
+- Butiran pendaftaran tahap produk (nombor lesen, bentuk dos, indikasi yang diluluskan) untuk 4 entri NPRA yang sedia ada
+- Jika meneruskan penggubahan semula ubat lebih lanjut, utamakan pemeriksaan semula calon skor yang lebih rendah dengan rasional mekanistik yang lebih jelas (cth., anafilaksis, takikardia ventrikel) berbanding ramalan tertinggi tetapi tidak mempunyai sokongan mekanistik
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

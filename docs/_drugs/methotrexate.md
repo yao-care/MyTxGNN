@@ -29,100 +29,101 @@ Tahap bukti: **L2** | Indikasi diramal: **5**
 
 </div>
 
-# Methotrexate: From Malignant Neoplasms to Upper Aerodigestive Tract Neoplasm
+# Methotrexate: Daripada Neoplasma Ganas kepada Neoplasma Saluran Aerodifigestif Atas
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Methotrexate is a folate antagonist historically used as a component of antineoplastic and immunosuppressive regimens; specific original-indication text is not recorded in the current NPRA data extract.
-The TxGNN model predicts it may be effective for **Upper Aerodigestive Tract Neoplasm** (head and neck cancer).
-No clinical trials are currently registered specifically for this indication, but **20 publications** — including a Phase 3 RCT and a Phase II trial — document methotrexate's historical use in this cancer type.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not specified in current NPRA registration extract |
-| Predicted New Indication | Upper Aerodigestive Tract Neoplasm |
-| TxGNN Prediction Score | 0.00% (as reported — score field returned 0.0 for all ranked candidates; likely an incomplete model export) |
-| Evidence Level | L2 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 6 |
-| Recommended Decision | Proceed with Guardrails |
+Methotrexate ialah antagonis folat yang digunakan secara tradisional sebagai komponen regimen antineoplastik dan imunosupresif; teks indikasi asal-usul spesifik tidak direkodkan dalam ekstrak data NPRA semasa.
+Model TxGNN meramalkan ia mungkin berkesan untuk **Neoplasma Saluran Aerodifigestif Atas** (kanser kepala dan leher).
+Tiada uji klinik yang didaftarkan pada masa ini khusus untuk indikasi ini, tetapi **20 penerbitan** — termasuk satu RCT Fasa 3 dan satu uji kaji Fasa II — mendokumentasikan penggunaan methotrexate secara tradisional dalam jenis kanser ini.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Pantas
 
-Currently, detailed mechanism of action data for methotrexate is not available in the structured drug record (MOA field flagged as a data gap). Based on the mechanistic rationale associated with this specific prediction, methotrexate's antifolate mechanism — inhibiting dihydrofolate reductase and thereby blocking purine/pyrimidine synthesis — can suppress rapidly proliferating cells in upper aerodigestive tract squamous cell carcinoma.
-
-Historically, methotrexate has been used as monotherapy or within combination regimens (e.g., MTX-vinblastine-cisplatin, MTX-vinblastine-bleomycin) for head and neck squamous cell carcinoma. The mechanistic link is established and supported by older clinical trials, though modern standard-of-care has shifted toward platinum-based chemotherapy combined with immunotherapy; methotrexate today is used mainly in recurrent or palliative settings for this tumor type. This shift explains why supporting evidence is concentrated in older literature rather than active trial registrations.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered
-
----
-
-## Literature Evidence
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [2419292](https://pubmed.ncbi.nlm.nih.gov/2419292/) | 1986 | RCT | Int J Radiat Oncol Biol Phys | Randomized trial of induction chemotherapy (bleomycin + methotrexate) vs. standard therapy in 83 patients with locally advanced Stage III–IV upper aerodigestive tract squamous cell carcinoma |
-| [12001121](https://pubmed.ncbi.nlm.nih.gov/12001121/) | 2002 | Phase II Trial | Cancer | MVAC regimen (methotrexate, vinblastine, doxorubicin, cisplatin) evaluated for antitumor activity and toxicity in recurrent/metastatic head and neck squamous cell carcinoma |
-| [7198935](https://pubmed.ncbi.nlm.nih.gov/7198935/) | 1981 | Cohort | Cancer Treat Rep | High-dose oral methotrexate (250 mg divided doses q2 weeks) in 9 patients; 2 partial responses in head and neck squamous carcinoma |
-| [16299796](https://pubmed.ncbi.nlm.nih.gov/16299796/) | 2005 | Cohort | J Surg Oncol | Radiochemotherapy with vinblastine, methotrexate, and bleomycin explored as an alternative to surgery in verrucous carcinoma of the head and neck |
-| [632138](https://pubmed.ncbi.nlm.nih.gov/632138/) | 1978 | Review | Int J Radiat Oncol Biol Phys | Review of methotrexate combined with radiation therapy |
-| [2299365](https://pubmed.ncbi.nlm.nih.gov/2299365/) | 1990 | Review | J Clin Oncol | Review of leucovorin rescue in high-dose methotrexate therapy |
-| [91591](https://pubmed.ncbi.nlm.nih.gov/91591/) | 1978 | Review | Head Neck Surg | Methotrexate identified as the best single agent (≈50% response rate) for advanced head and neck cancer previously treated with surgery/radiation |
-| [36269850](https://pubmed.ncbi.nlm.nih.gov/36269850/) | 2023 | Review | Cancer Investigation | Mechanistic review of low-dose methotrexate + celecoxib as metronomic chemotherapy for oral squamous cell carcinoma |
-| [30509741](https://pubmed.ncbi.nlm.nih.gov/30509741/) | 2019 | Review | Lancet | Review of PD-1 antibodies in head and neck cancer (context for methotrexate's evolving role) |
-| [28759389](https://pubmed.ncbi.nlm.nih.gov/28759389/) | 2017 | Case Report | Lancet Oncol | Case report: "Tumour d'emblee" |
+| Item | Kandungan |
+|------|---------|
+| Indikasi Asal-Usul | Tidak dinyatakan dalam ekstrak pendaftaran NPRA semasa |
+| Indikasi Baru Ramalan | Neoplasma Saluran Aerodifigestif Atas |
+| Skor Ramalan TxGNN | 0.00% (seperti dilaporkan — medan skor mengembalikan 0.0 untuk semua calon yang disenaraikan; kemungkinan pengeksportan model yang tidak lengkap) |
+| Tahap Bukti | L2 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 6 |
+| Keputusan Disyorkan | Teruskan dengan Penjaga |
 
 ---
 
-## Malaysia Market Information
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed registration-level data (authorization numbers, product names, dosage forms, approved indication text) is not available in the current NPRA extract — all license record fields returned empty. Malaysia market status is confirmed as **Marketed**, with **6 total registrations** on file.
+Pada masa kini, data mekanisme tindakan terperinci untuk methotrexate tidak tersedia dalam rekod ubat berstruktur (medan MOA ditandakan sebagai jurang data). Berdasarkan rasional mekanik yang dikaitkan dengan ramalan spesifik ini, mekanisme antrifolat methotrexate — menghalang dihidrofolat reduktase dan dengan itu menyekat sintesis purin/pirimidin — dapat menindas sel yang berkembang pesat dalam karsinoma sel squamous saluran aerodifigestif atas.
 
----
-
-## Cytotoxicity
-
-Methotrexate is an antimetabolite (antifolate) chemotherapeutic agent, historically used in cytotoxic combination regimens for head and neck malignancies, warranting cytotoxicity assessment.
-
-| Item | Content |
-|------|------|
-| Cytotoxicity Classification | Conventional cytotoxic (Antimetabolite / antifolate — dihydrofolate reductase inhibitor) |
-| Myelosuppression Risk | High, particularly with high-dose regimens — literature on related indications documents grade ≥3 mucositis and cytopenias requiring active monitoring |
-| Emetogenicity Classification | Low-to-moderate at conventional oral/low-dose regimens; moderate-to-high with high-dose IV administration |
-| Monitoring Items | CBC with differential, renal function (creatinine clearance), liver function, serum methotrexate levels (especially for high-dose regimens), mucositis assessment |
-| Handling Protection | Must follow cytotoxic/hazardous drug handling regulations |
+Dari segi sejarah, methotrexate telah digunakan sebagai monoterapi atau dalam regimen kombinasi (cth., MTX-vinblastine-cisplatin, MTX-vinblastine-bleomycin) untuk karsinoma sel squamous kepala dan leher. Hubungan mekanik ditetapkan dan disokong oleh uji kaji klinik yang lebih lama, walaupun penjagaan standard-of-care moden telah beralih ke kemoterapia berasaskan platinum yang digabungkan dengan imunoterapi; methotrexate hari ini digunakan terutamanya dalam tetapan berulang atau paliatif untuk jenis tumor ini. Peralihan ini menjelaskan mengapa bukti yang menyokong tertumpu dalam kesusasteraan yang lebih lama dan bukannya pendaftaran uji kaji aktif.
 
 ---
 
-## Safety Considerations
+## Bukti Uji Kaji Klinik
 
-Please refer to the package insert for safety information.
+Tiada uji kaji klinik berkaitan yang didaftarkan pada masa ini
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Kesusasteraan
 
-**Decision: Proceed with Guardrails**
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|--------|---------|
+| [2419292](https://pubmed.ncbi.nlm.nih.gov/2419292/) | 1986 | RCT | Int J Radiat Oncol Biol Phys | Uji kaji rawak terhadap kemoterapian induksi (bleomycin + methotrexate) vs. terapi standard dalam 83 pesakit dengan karsinoma sel squamous saluran aerodifigestif atas Tahap III–IV tersalur setempat |
+| [12001121](https://pubmed.ncbi.nlm.nih.gov/12001121/) | 2002 | Uji Kaji Fasa II | Cancer | Regimen MVAC (methotrexate, vinblastine, doxorubicin, cisplatin) dinilai untuk aktiviti antitumor dan ketoksikan dalam karsinoma sel squamous kepala dan leher berulang/metastatik |
+| [7198935](https://pubmed.ncbi.nlm.nih.gov/7198935/) | 1981 | Kohort | Cancer Treat Rep | Methotrexate oral dos tinggi (250 mg dos berpecah setiap 2 minggu) dalam 9 pesakit; 2 respons separa dalam karsinoma squamous kepala dan leher |
+| [16299796](https://pubmed.ncbi.nlm.nih.gov/16299796/) | 2005 | Kohort | J Surg Oncol | Radiokemoterapian dengan vinblastine, methotrexate, dan bleomycin diterokai sebagai alternatif kepada pembedahan dalam karsinoma verrukal kepala dan leher |
+| [632138](https://pubmed.ncbi.nlm.nih.gov/632138/) | 1978 | Ulasan | Int J Radiat Oncol Biol Phys | Ulasan methotrexate yang digabungkan dengan terapi radiasi |
+| [2299365](https://pubmed.ncbi.nlm.nih.gov/2299365/) | 1990 | Ulasan | J Clin Oncol | Ulasan penyelamatan leucovorin dalam terapi methotrexate dos tinggi |
+| [91591](https://pubmed.ncbi.nlm.nih.gov/91591/) | 1978 | Ulasan | Head Neck Surg | Methotrexate dikenal pasti sebagai agen tunggal terbaik (kadar respons ≈50%) untuk kanser kepala dan leher lanjut yang telah dirawat sebelum ini dengan pembedahan/radiasi |
+| [36269850](https://pubmed.ncbi.nlm.nih.gov/36269850/) | 2023 | Ulasan | Cancer Investigation | Ulasan mekanik methotrexate dos rendah + celecoxib sebagai kemoterapian metronomik untuk karsinoma sel squamous oral |
+| [30509741](https://pubmed.ncbi.nlm.nih.gov/30509741/) | 2019 | Ulasan | Lancet | Ulasan antibodi PD-1 dalam kanser kepala dan leher (konteks untuk peranan methotrexate yang berkembang) |
+| [28759389](https://pubmed.ncbi.nlm.nih.gov/28759389/) | 2017 | Laporan Kes | Lancet Oncol | Laporan kes: "Tumour d'emblee" |
 
-**Rationale:**
-The mechanistic rationale is sound and historically supported by one Phase 3 RCT and one Phase II trial in upper aerodigestive tract cancer, but no active clinical trials currently target this specific indication, and modern practice has moved past methotrexate as a primary regimen for this tumor type — evidence is meaningful but dated.
+---
 
-**To proceed, the following is needed:**
-- Confirmed original indication and NPRA license details (current extract has empty fields)
-- Detailed mechanism of action (MOA) data for methotrexate
-- TFDA/NPRA package insert warnings, contraindications, and drug interaction data (currently unavailable)
-- Clarification of the TxGNN prediction score, which returned 0.0 across all candidates
-- Updated evidence review to confirm whether methotrexate has a role alongside current platinum/immunotherapy-based standards of care
+## Maklumat Pasaran Malaysia
+
+Data peringkat pendaftaran terperinci (nombor kebenaran, nama produk, bentuk dosage, teks indikasi yang diluluskan) tidak tersedia dalam ekstrak NPRA semasa — semua medan rekod lesen mengembalikan kosong. Status pasaran Malaysia disahkan sebagai **Dipasarkan**, dengan **6 pendaftaran keseluruhan** pada fail.
+
+---
+
+## Sitotoksisiti
+
+Methotrexate ialah ubat kemoterapeutik antimetabolit (antrifolat), yang digunakan secara tradisional dalam regimen kombinasi sitotoksik untuk keganasan kepala dan leher, memerlukan penilaian sitotoksisiti.
+
+| Item | Kandungan |
+|------|---------|
+| Klasifikasi Sitotoksisiti | Sitotoksik konvensional (Antimetabolit / antrifolat — perencat dihidrofolat reduktase) |
+| Risiko Penindasan Sumsum Tulang | Tinggi, terutamanya dengan regimen dos tinggi — kesusasteraan tentang indikasi berkaitan mendokumentasikan mukositis gred ≥3 dan sitopenia memerlukan pemantauan aktif |
+| Klasifikasi Emetogenisiti | Rendah-ke-sederhana pada regimen peroral/dos rendah konvensional; sederhana-ke-tinggi dengan pemberian IV dos tinggi |
+| Item Pemantauan | CBC dengan pembezaan, fungsi buah pinggang (penjelasan kreatinin), fungsi hati, paras methotrexate serum (terutamanya untuk regimen dos tinggi), penilaian mukositis |
+| Perlindungan Pengendalian | Mesti mematuhi peraturan pengendalian ubat sitotoksik/berbahaya |
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Teruskan dengan Penjaga**
+
+**Rasional:**
+Rasional mekanik adalah kukuh dan secara sejarah disokong oleh satu RCT Fasa 3 dan satu uji kaji Fasa II dalam kanser saluran aerodifigestif atas, tetapi tiada uji kaji klinik aktif pada masa ini menyasarkan indikasi spesifik ini, dan amalan moden telah melepasi methotrexate sebagai regimen utama untuk jenis tumor ini — bukti adalah bermakna tetapi bertarikh.
+
+**Untuk meneruskan, berikut diperlukan:**
+- Indikasi asal-usul yang disahkan dan butiran lesen NPRA (ekstrak semasa mempunyai medan kosong)
+- Data mekanisme tindakan terperinci (MOA) untuk methotrexate
+- Amaran sisipan pakej TFDA/NPRA, kontraindikasi, dan data interaksi ubat (pada masa ini tidak tersedia)
+- Penjelasan skor ramalan TxGNN, yang mengembalikan 0.0 merentas semua calon
+- Ulasan bukti terkini untuk mengesahkan sama ada methotrexate mempunyai peranan bersama standard penjagaan platinum/imunoterapi-berasaskan semasa
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

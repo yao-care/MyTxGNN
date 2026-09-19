@@ -29,74 +29,75 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Isosorbide Dinitrate: From Angina Pectoris to Pulmonary Hypertension
+# Isosorbide Dinitrate: Daripada Angina Pektoris kepada Hipertensi Pulmonari
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Isosorbide dinitrate (ISDN) is a classic organic nitrate vasodilator, traditionally used for angina pectoris and congestive heart failure. The TxGNN model predicts it may also be effective for **Pulmonary Hypertension**, and unlike several other TxGNN-flagged candidates for this drug (e.g., alopecia, hypotrichosis), this indication is backed by **20 published studies**, though no dedicated randomized controlled trials or registered clinical trials for this specific indication were found.
+Isosorbide dinitrate (ISDN) adalah vasodilatasi nitrat organik klasik, yang secara tradisional digunakan untuk angina pektoris dan gagal jantung kongestif. Model TxGNN meramalkan ia juga mungkin berkesan untuk **Hipertensi Pulmonari**, dan tidak seperti beberapa calon TxGNN yang lain untuk ubat ini (cth. alopesia, hipotrikosis), petunjuk ini disokong oleh **20 kajian yang diterbitkan**, walaupun tiada percubaan klinik berkawal rawak khusus atau percubaan klinik yang berdaftar untuk petunjuk spesifik ini ditemui.
 
-*Note: This evidence pack lists 10 TxGNN-predicted indications for ISDN. The top-ranked candidate by raw score (alopecia) has zero supporting evidence and is explicitly flagged by the model rationale as speculative ("純屬 TxGNN 嵌入相似性預測"). Pulmonary hypertension (rank 4) is the only candidate reaching L3 evidence with a substantive literature base, so this report focuses on it.*
+*Nota: Pakej bukti ini menyenaraikan 10 petunjuk yang diramalkan TxGNN untuk ISDN. Calon teratas mengikut skor mentah (alopesia) mempunyai sifar bukti sokongan dan secara eksplisit ditandai oleh nisbah model sebagai spekulatif ("純屬 TxGNN 嵌入相似性預測"). Hipertensi pulmonari (pangkat 4) adalah satu-satunya calon yang mencapai bukti L3 dengan asas sastera yang ketara, jadi laporan ini memberi tumpuan kepadanya.*
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | Angina pectoris / congestive heart failure (classical use; Malaysia NPRA license text not available — data gap) |
-| Predicted New Indication | Pulmonary Hypertension |
-| TxGNN Prediction Score | 99.98% |
-| Evidence Level | L3 (Observational studies, no RCTs specific to this indication) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Angina pektoris / gagal jantung kongestif (penggunaan klasikal; teks lesen NPRA Malaysia tidak tersedia — jurang data) |
+| Petunjuk Baharu Diramalkan | Hipertensi Pulmonari |
+| Skor Ramalan TxGNN | 99.98% |
+| Tahap Bukti | L3 (Kajian pemerhatian, tiada RCT khusus untuk petunjuk ini) |
+| Status Pasaran Malaysia | ✓ Dalam Pasaran |
+| Bilangan Pendaftaran | 3 |
+| Keputusan Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data is not available for this drug in the evidence pack (data gap). Based on known pharmacology, isosorbide dinitrate is an organic nitrate that is metabolized to release nitric oxide (NO), causing smooth muscle relaxation and vasodilation — the same mechanism underlying its established use in angina and heart failure.
+Pada masa ini, data mekanisme tindakan yang terperinci tidak tersedia untuk ubat ini dalam pakej bukti (jurang data). Berdasarkan farmakoloji yang diketahui, isosorbide dinitrate adalah nitrat organik yang dimetabolisasikan untuk melepaskan nitrik oksida (NO), menyebabkan pengurangan otot licin dan vasodilatasi — mekanisme yang sama yang mendasari penggunaannya yang telah ditetapkan dalam angina dan gagal jantung.
 
-Since pulmonary vascular smooth muscle responds to the same NO/cGMP pathway, ISDN can lower mean pulmonary arterial pressure, particularly in post-capillary pulmonary hypertension (e.g., due to left heart disease). This mechanistic overlap between its cardiovascular original use and pulmonary vasculature is what likely drives the TxGNN prediction.
+Oleh kerana otot licin pembuluh pulmonari bertindak balas terhadap laluan NO/cGMP yang sama, ISDN boleh menurunkan tekanan arteri pulmonari min, terutamanya dalam hipertensi pulmonari pasca-kapiler (cth. disebabkan penyakit jantung kiri). Penindihan mekanistik ini antara penggunaan asal kardiovaskularnya dan vaskulatur paru adalah yang mungkin mendorong ramalan TxGNN.
 
-However, the mechanistic link comes with important caveats reflected in the evidence: ISDN's vasodilation is non-selective, and in pre-capillary pulmonary hypertension it can reduce cardiac output and systemic blood pressure, worsen ventilation/perfusion mismatch, and is subject to nitrate tolerance with chronic use. Current pulmonary arterial hypertension (PAH) treatment guidelines do not recommend non-selective nitrates as standard therapy, which is why this prediction sits at a "Research Question" stage rather than a stronger evidence tier.
+Walau bagaimanapun, pautan mekanistik datang dengan kaveat penting yang ditunjukkan dalam bukti: vasodilatasi ISDN tidak selektif, dan dalam hipertensi pulmonari pra-kapiler ia boleh mengurangkan output jantung dan tekanan darah sistem, memburukkan ketidakpadanan perembesan/pereputan, dan tertakluk kepada toleransi nitrat dengan penggunaan kronik. Garis panduan rawatan hipertensi arterial pulmonari (PAH) semasa tidak mengesyorkan nitrat tidak selektif sebagai terapi piawai, itulah sebabnya ramalan ini berada pada tahap "Soalan Penyelidikan" daripada tahap bukti yang lebih kuat.
 
-## Clinical Trial Evidence
+## Bukti Percubaan Klinik
 
-Currently no related clinical trials registered for pulmonary hypertension specifically (ClinicalTrials.gov, ICTRP, and regional registries returned zero results for this drug-disease pair).
+Pada masa ini tiada percubaan klinik berdaftar yang berkaitan untuk hipertensi pulmonari secara khusus (ClinicalTrials.gov, ICTRP, dan daftar wilayah kembali sifar hasil untuk pasangan ubat-penyakit ini).
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [19620510](https://pubmed.ncbi.nlm.nih.gov/19620510/) | 2009 | RCT | Hypertension (Dallas) | Fixed-dose ISDN/hydralazine improved diastolic function and LV remodeling in hypertension-induced diastolic heart failure |
-| [39164577](https://pubmed.ncbi.nlm.nih.gov/39164577/) | 2025 | Cohort | Heart and Vessels | Bolus ISDN reduced mean pulmonary arterial pressure in PH patients with cardiopulmonary comorbidities, with caution needed for pre- vs. post-capillary overlap |
-| [8908227](https://pubmed.ncbi.nlm.nih.gov/8908227/) | 1996 | Cohort | Acta Anaesthesiol Scand | ISDN showed pulmonary vascular effects in end-stage cardiomyopathy patients undergoing heart transplant evaluation |
-| [6423015](https://pubmed.ncbi.nlm.nih.gov/6423015/) | 1984 | Cohort | Bull Eur Physiopathol Respir | Sublingual ISDN acutely decreased pulmonary arterial pressure and cardiac output in COPD-related PH, but did not reduce pulmonary vascular resistance (unlike nitroglycerin) |
-| [373940](https://pubmed.ncbi.nlm.nih.gov/373940/) | 1979 | Cohort | Clin Pharmacol Ther | Randomized, double-blind study of oral ISDN vs. placebo in COPD patients with pulmonary hypertension |
-| [28810603](https://pubmed.ncbi.nlm.nih.gov/28810603/) | 2017 | Cohort (rat model) | Exp Ther Med | Intratracheal ISDN improved pulmonary artery pressure and ventricular remodeling in a rat post-MI heart failure model |
-| [2498122](https://pubmed.ncbi.nlm.nih.gov/2498122/) | 1989 | Animal/Preclinical | Exp Mol Pathol | Compared ISDN with prednisolone, indomethacin, and elastase in monocrotaline-induced PH rat model |
-| [39398794](https://pubmed.ncbi.nlm.nih.gov/39398794/) | 2024 | Cohort (epidemiological) | Cureus | Descriptive study of PH burden and treatment strategies in hemodialysis-dependent ESRD patients |
-| [29377691](https://pubmed.ncbi.nlm.nih.gov/29377691/) | 2018 | Review (medicinal chemistry) | J Med Chem | Describes a novel NO-donor hybrid molecule (using isosorbide mononitrate) designed for pulmonary vasodilation in PAH rats |
-| [6861502](https://pubmed.ncbi.nlm.nih.gov/6861502/) | 1983 | Cohort (portal hypertension, not PH) | Crit Care Med | ISDN reduced portal pressure but also lowered systemic arterial pressure — illustrates the non-selective hypotensive risk relevant to PH use |
+| [19620510](https://pubmed.ncbi.nlm.nih.gov/19620510/) | 2009 | RCT | Hypertension (Dallas) | ISDN/hidralazin dos tetap meningkatkan fungsi diastolik dan remodeling LV dalam gagal jantung diastolik yang disebabkan hipertensi |
+| [39164577](https://pubmed.ncbi.nlm.nih.gov/39164577/) | 2025 | Kohort | Heart and Vessels | Bolus ISDN mengurangkan tekanan arteri pulmonari min dalam pesakit PH dengan komorbiditasnya kardiopulmonari, dengan berhati-hati diperlukan untuk tindihan pra- vs. pasca-kapiler |
+| [8908227](https://pubmed.ncbi.nlm.nih.gov/8908227/) | 1996 | Kohort | Acta Anaesthesiol Scand | ISDN menunjukkan kesan pembuluh darah pulmonari dalam pesakit kardiomiopati tahap akhir yang menjalani penilaian transplantasi jantung |
+| [6423015](https://pubmed.ncbi.nlm.nih.gov/6423015/) | 1984 | Kohort | Bull Eur Physiopathol Respir | ISDN sublingual secara akut mengurangkan tekanan arteri pulmonari dan output jantung dalam PH yang berkaitan COPD, tetapi tidak mengurangkan rintangan pembuluh darah pulmonari (tidak seperti nitrogliserin) |
+| [373940](https://pubmed.ncbi.nlm.nih.gov/373940/) | 1979 | Kohort | Clin Pharmacol Ther | Kajian rombak, buta dua hala ISDN oral vs. plasebo dalam pesakit COPD dengan hipertensi pulmonari |
+| [28810603](https://pubmed.ncbi.nlm.nih.gov/28810603/) | 2017 | Kohort (model tikus) | Exp Ther Med | ISDN intratrakhea meningkatkan tekanan arteri pulmonari dan remodeling ventrikel dalam model gagal jantung pasca-MI tikus |
+| [2498122](https://pubmed.ncbi.nlm.nih.gov/2498122/) | 1989 | Haiwan/Pra-klinik | Exp Mol Pathol | Membandingkan ISDN dengan prednisolon, indometasin, dan elastas dalam model tikus PH teraruh monocrotalin |
+| [39398794](https://pubmed.ncbi.nlm.nih.gov/39398794/) | 2024 | Kohort (epidemiologi) | Cureus | Kajian deskriptif beban PH dan strategi rawatan dalam pesakit ESRD bergantung hemodialisis |
+| [29377691](https://pubmed.ncbi.nlm.nih.gov/29377691/) | 2018 | Ulasan (kimia ubat) | J Med Chem | Menerangkan molekul hibrid penderma NO yang baru (menggunakan isosorbide mononitrat) direka untuk vasodilatasi pulmonari dalam tikus PAH |
+| [6861502](https://pubmed.ncbi.nlm.nih.gov/6861502/) | 1983 | Kohort (hipertensi portal, bukan PH) | Crit Care Med | ISDN mengurangkan tekanan portal tetapi juga menurunkan tekanan arteri sistemik — menggambarkan risiko hipotensif tidak selektif yang berkaitan dengan penggunaan PH |
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Malaysia NPRA records show **3 registered licenses** for isosorbide dinitrate (market status: Marketed), but detailed license-level data — license numbers, product names, dosage forms, and approved indication text — is not available in the current evidence pack (data gap).
+Rekod NPRA Malaysia menunjukkan **3 lesen berdaftar** untuk isosorbide dinitrate (status pasaran: Dalam Pasaran), tetapi data peringkat lesen yang terperinci — nombor lesen, nama produk, bentuk dos, dan teks petunjuk yang diluluskan — tidak tersedia dalam pakej bukti semasa (jurang data).
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information. Detailed warnings, contraindications, and drug-drug interaction data for this drug are not currently available in the evidence pack — this is flagged as a **Blocking** data gap (DG001), meaning a formal safety pre-screen (S1) cannot yet be completed.
+Sila rujuk sisipan bungkusan untuk maklumat keselamatan. Data amaran terperinci, kontraindikasi, dan data interaksi ubat-ubat untuk ubat ini tidak tersedia dalam pakej bukti semasa — ini ditandai sebagai jurang data **Menghalang** (DG001), bermakna skrin pra-keselamatan formal (S1) belum lagi boleh diselesaikan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-- Evidence is limited to observational/cohort and preclinical studies (L3) with no RCTs or registered clinical trials specific to pulmonary hypertension, and the mechanism carries known risks (systemic hypotension, V/Q mismatch, nitrate tolerance) that current PAH guidelines weigh against non-selective nitrate use.
-- Core safety data (warnings, contraindications, DDIs) is entirely missing, which blocks the standard S1 safety pre-screen required before any advancement decision.
+**Nisbah:**
+- Bukti terhad kepada kajian pemerhatian/kohort dan pra-klinik (L3) tanpa RCT atau percubaan klinik berdaftar khusus untuk hipertensi pulmonari, dan mekanisme membawa risiko yang diketahui (hipotensif sistemik, ketidakpadanan V/Q, toleransi nitrat) yang garis panduan PAH semasa timbang terhadap penggunaan nitrat tidak selektif.
+- Data keselamatan teras (amaran, kontraindikasi, DDI) hilang sepenuhnya, yang menghalang skrin pra-keselamatan S1 piawai yang diperlukan sebelum sebarang keputusan kemajuan.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert warnings and contraindications (resolve DG001)
-- Confirmed mechanism of action data from DrugBank (resolve DG002)
-- A prospective or controlled study targeting the specific PH subpopulation shown most responsive in the literature (post-capillary PH with cardiopulmonary comorbidities, per the 2025 Kashimura et al. cohort)
-- Malaysia-specific license and approved-indication text to confirm current labeled use
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Amaran sisipan bungkusan TFDA/NPRA dan kontraindikasi (selesaikan DG001)
+- Data mekanisme tindakan yang disahkan daripada DrugBank (selesaikan DG002)
+- Kajian prospektif atau terkawal yang menyasarkan subpopulasi PH spesifik yang paling bertindak balas dalam kesusasteraan (PH pasca-kapiler dengan komorbiditasnya kardiopulmonari, per kohort Kashimura et al. 2025)
+- Teks lesen dan petunjuk diluluskan khusus Malaysia untuk mengesahkan penggunaan berlabel semasa
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

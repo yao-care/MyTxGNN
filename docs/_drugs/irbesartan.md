@@ -29,96 +29,97 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-# Irbesartan: From Hypertension to Diabetic Nephropathy
+# Irbesartan: Daripada Hipertensi kepada Nefropati Diabetes
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Irbesartan is an angiotensin II receptor blocker (ARB) originally indicated for hypertension. The evidence pack's strongest repurposing signal points to **Diabetic Nephropathy**, supported by **18 clinical trials** and **19 publications**, including two pivotal Phase 3 trials (IRMA-2 and IDNT) that already carry approved-indication-level evidence rather than a purely predictive signal.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Hypertension |
-| Predicted New Indication | Diabetic Nephropathy |
-| TxGNN Prediction Score | 0.00% (score field not populated in this evidence pack; ranking based on clinical/literature evidence instead) |
-| Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 49 |
-| Recommended Decision | Proceed with Guardrails |
+Irbesartan adalah penyekat reseptor angiotensin II (ARB) yang pada asalnya ditunjukkan untuk hipertensi. Isyarat repurposing terkuat daripada pakej bukti menunjuk kepada **Nefropati Diabetes**, disokong oleh **18 ujian klinikal** dan **19 penerbitan**, termasuk dua ujian klinikal Fasa 3 penting (IRMA-2 dan IDNT) yang sudah membawa bukti peringkat indikasi yang telah diluluskan dan bukannya isyarat ramalan semata.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Pantas
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on known pharmacology, Irbesartan is a non-peptide angiotensin II type 1 (AT1) receptor antagonist, and its efficacy in hypertension is well established and repeatedly documented across the literature in this pack (e.g. PMID 15101793, PMID 18627212, PMID 9421695).
-
-Hypertension and diabetic nephropathy share a common pathophysiological driver: activation of the renin-angiotensin-aldosterone system (RAAS) raises both systemic blood pressure and intraglomerular pressure. AT1 blockade lowers glomerular capillary pressure and reduces proteinuria independent of its blood-pressure-lowering effect, giving Irbesartan a direct renoprotective mechanism.
-
-This is reflected in the evidence pack's own rationale for diabetic nephropathy: *"AT1 受體阻斷降低腎絲球內壓與蛋白尿，具明確腎臟保護機轉；IRMA-2 及 IDNT（PMID 15938034，Irbesartan Diabetic Nephropathy Trial）為關鍵性 Phase 3 RCT，已是核准適應症等級證據，非單純預測性再利用訊號"* — i.e., the AT1 blockade mechanism gives a clear renal-protective rationale, and IRMA-2/IDNT are pivotal Phase 3 RCTs that already constitute approved-indication-level evidence, not merely a predictive repurposing signal.
-
----
-
-## Clinical Trial Evidence
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT00317915](https://clinicaltrials.gov/study/NCT00317915) | Phase 3 | Completed | 590 (per protocol) | IRMA-2: renoprotective effect of irbesartan in type 2 diabetes with microalbuminuria; delayed progression to overt nephropathy |
-| [NCT00362258](https://clinicaltrials.gov/study/NCT00362258) | Phase 4 | Completed | 797 | BP reduction and microalbuminuria reduction in hypertensive type 2 diabetics |
-| [NCT01109212](https://clinicaltrials.gov/study/NCT01109212) | Phase 2 | Completed | 100 | Bindarit + irbesartan vs irbesartan alone on albuminuria; supports combination approach |
-| [NCT03627715](https://clinicaltrials.gov/study/NCT03627715) | Phase 2 | Completed | 45 | Propagermanium add-on safety/efficacy in DKD patients on irbesartan background |
-| [NCT01500590](https://clinicaltrials.gov/study/NCT01500590) | Phase 4 | Unknown | 1400 | RAS blockers (including irbesartan) effect on GFR decline in hypertensive T2D with normoalbuminuria |
-| [NCT03147677](https://clinicaltrials.gov/study/NCT03147677) | Phase 4 | Completed | 60 | Alfacalcidol + irbesartan vs monotherapy in Stage II-IV diabetic nephropathy |
-| [NCT00212901](https://clinicaltrials.gov/study/NCT00212901) | N/A | Completed | 30 | Adding irbesartan to ACE inhibitor vs high-dose ACE inhibitor for proteinuria reduction |
-| [NCT04983979](https://clinicaltrials.gov/study/NCT04983979) | Phase 2 | Terminated | 18 | Sodium zirconium cyclosilicate enabling irbesartan (RASi) dose maximization in DKD |
-| [NCT03016832](https://clinicaltrials.gov/study/NCT03016832) | Early Phase 1 | Unknown | 414 | Huangkui capsule vs irbesartan-background therapy in type II DKD |
-| [NCT06660940](https://clinicaltrials.gov/study/NCT06660940) | Phase 4 | Not yet recruiting | 460 | Keluoxin capsules for DKD with diabetic retinopathy on conventional (irbesartan-class) background |
+| Item | Kandungan |
+|------|-----------|
+| Indikasi Asal | Hipertensi |
+| Indikasi Baru yang Diramalan | Nefropati Diabetes |
+| Skor Ramalan TxGNN | 0.00% (medan skor tidak dipenuhi dalam pakej bukti ini; kedudukan berdasarkan bukti klinikal/literatur sebaliknya) |
+| Aras Bukti | L1 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 49 |
+| Keputusan yang Disyorkan | Teruskan dengan Penjaga Keselamatan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [15938034](https://pubmed.ncbi.nlm.nih.gov/15938034/) | 2005 | RCT (IDNT, Phase 3) | J Am Soc Nephrol | The Irbesartan Diabetic Nephropathy Trial — landmark renoprotection data in overt nephropathy |
-| [11565517](https://pubmed.ncbi.nlm.nih.gov/11565517/) | 2001 | RCT/Cohort | N Engl J Med | Renoprotective effect of irbesartan in nephropathy due to type 2 diabetes (IDNT primary publication) |
-| [18627212](https://pubmed.ncbi.nlm.nih.gov/18627212/) | 2008 | Review | Drugs | Comprehensive review of irbesartan in hypertension and diabetic nephropathy |
-| [15101793](https://pubmed.ncbi.nlm.nih.gov/15101793/) | 2004 | Review | Drugs | Review of irbesartan use in hypertension and diabetic nephropathy management |
-| [33158581](https://pubmed.ncbi.nlm.nih.gov/33158581/) | 2020 | Systematic Review/Meta-analysis | Clinical Therapeutics | Piperazine ferulate + irbesartan combination therapy efficacy in DN |
-| [38503013](https://pubmed.ncbi.nlm.nih.gov/38503013/) | 2024 | Mechanism study | International Immunopharmacology | Irbesartan ameliorates DN via Nrf2/Keap1 pathway and NLRP3 inflammasome suppression |
-| [35613364](https://pubmed.ncbi.nlm.nih.gov/35613364/) | 2022 | Multicenter RCT | Diabetes Care | Abelmoschus manihot + irbesartan combination reduces albuminuria in T2D/DKD |
-| [15017527](https://pubmed.ncbi.nlm.nih.gov/15017527/) | 2004 | Review | Seminars in Nephrology | ARBs in diabetic nephropathy: renal and cardiovascular endpoints |
-| [26321089](https://pubmed.ncbi.nlm.nih.gov/26321089/) | 2015 | Clinical study | Discovery Medicine | Irbesartan improves blood lipid and kidney function in DN |
-| [15855214](https://pubmed.ncbi.nlm.nih.gov/15855214/) | 2005 | Systematic Review | Nephrol Dial Transplant | Cost-effectiveness of irbesartan in diabetic nephropathy |
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia dalam pakej bukti ini. Berdasarkan farmakologi yang diketahui, Irbesartan adalah antagonis reseptor angiotensin II jenis 1 (AT1) bukan peptida, dan kekuatannya dalam hipertensi terbukti dengan baik dan didokumentasikan berulang kali di seluruh literatur dalam pakej ini (contohnya PMID 15101793, PMID 18627212, PMID 9421695).
+
+Hipertensi dan nefropati diabetes berkongsi pemacu patofisiologi yang sama: pengaktifan sistem renin-angiotensin-aldosteron (RAAS) meningkatkan tekanan darah sistemik dan tekanan intraglomular. Penyekatan AT1 menurunkan tekanan kapilari glomerulus dan mengurangkan proteinuria tanpa mengira kesan penurunan tekanan darahnya, memberikan Irbesartan mekanisme renoprotektif langsung.
+
+Ini dicerminkan dalam rasional pakej bukti itu sendiri untuk nefropati diabetes: *"AT1 受體阻斷降低腎絲球內壓與蛋白尿，具明確腎臟保護機轉；IRMA-2 及 IDNT（PMID 15938034，Irbesartan Diabetic Nephropathy Trial）為關鍵性 Phase 3 RCT，已是核准適應症等級證據，非單純預測性再利用訊號"* — iaitu, mekanisme penyekatan AT1 memberikan rasional renoprotektif yang jelas, dan IRMA-2/IDNT adalah ujian klinikal Fasa 3 penting yang sudah merupakan bukti peringkat indikasi yang telah diluluskan, bukan hanya isyarat repurposing yang bersifat ramalan semata.
 
 ---
 
-## Malaysia Market Information
+## Bukti Ujian Klinikal
 
-NPRA registration data confirms Irbesartan is marketed in Malaysia with **49 active registrations**. However, the structured license detail fields (license number, product name, dosage form, manufacturer, approved indication text) were not populated in this evidence pack, so a per-product table cannot be produced. This detail should be pulled directly from NPRA before finalizing any regulatory submission.
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
+|---------|------|--------|--------|---------|
+| [NCT00317915](https://clinicaltrials.gov/study/NCT00317915) | Fasa 3 | Selesai | 590 (mengikut protokol) | IRMA-2: kesan renoprotektif irbesartan pada diabetes jenis 2 dengan mikroalbuminuria; menangguhkan perkembangan kepada nefropati yang nyata |
+| [NCT00362258](https://clinicaltrials.gov/study/NCT00362258) | Fasa 4 | Selesai | 797 | Pengurangan BP dan pengurangan mikroalbuminuria pada penderita hipertensi diabetes jenis 2 |
+| [NCT01109212](https://clinicaltrials.gov/study/NCT01109212) | Fasa 2 | Selesai | 100 | Bindarit + irbesartan berbanding irbesartan sahaja pada albuminuria; menyokong pendekatan kombinasi |
+| [NCT03627715](https://clinicaltrials.gov/study/NCT03627715) | Fasa 2 | Selesai | 45 | Propagermanium tambahan keselamatan/keberkesanan pada pesakit DKD dengan latar belakang irbesartan |
+| [NCT01500590](https://clinicaltrials.gov/study/NCT01500590) | Fasa 4 | Tidak diketahui | 1400 | Kesan penyekat RAS (termasuk irbesartan) pada penurunan GFR pada hipertensif T2D dengan normoalbuminuria |
+| [NCT03147677](https://clinicaltrials.gov/study/NCT03147677) | Fasa 4 | Selesai | 60 | Alfacalcidol + irbesartan berbanding monoterapi pada nefropati diabetes Peringkat II-IV |
+| [NCT00212901](https://clinicaltrials.gov/study/NCT00212901) | N/A | Selesai | 30 | Menambah irbesartan kepada penghambat ACE berbanding penghambat ACE dos tinggi untuk pengurangan proteinuria |
+| [NCT04983979](https://clinicaltrials.gov/study/NCT04983979) | Fasa 2 | Dihentikan | 18 | Natrium zirkonium siklosilikat membolehkan pemaksimalan dos irbesartan (RASi) dalam DKD |
+| [NCT03016832](https://clinicaltrials.gov/study/NCT03016832) | Fasa Awal 1 | Tidak diketahui | 414 | Kapsul Huangkui berbanding terapi latar irbesartan pada DKD jenis II |
+| [NCT06660940](https://clinicaltrials.gov/study/NCT06660940) | Fasa 4 | Belum merekrut | 460 | Kapsul Keluoxin untuk DKD dengan retinopati diabetes pada latar belakang konvensional (kelas irbesartan) |
 
 ---
 
-## Safety Considerations
+## Bukti Literatur
 
-Please refer to the package insert for safety information.
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|--------|---------|
+| [15938034](https://pubmed.ncbi.nlm.nih.gov/15938034/) | 2005 | RCT (IDNT, Fasa 3) | J Am Soc Nephrol | The Irbesartan Diabetic Nephropathy Trial — data renoproteksi mercu dalam nefropati yang nyata |
+| [11565517](https://pubmed.ncbi.nlm.nih.gov/11565517/) | 2001 | RCT/Kohort | N Engl J Med | Kesan renoprotektif irbesartan dalam nefropati disebabkan oleh diabetes jenis 2 (penerbitan utama IDNT) |
+| [18627212](https://pubmed.ncbi.nlm.nih.gov/18627212/) | 2008 | Ulasan | Drugs | Ulasan komprehensif irbesartan dalam hipertensi dan pengurusan nefropati diabetes |
+| [15101793](https://pubmed.ncbi.nlm.nih.gov/15101793/) | 2004 | Ulasan | Drugs | Ulasan penggunaan irbesartan dalam hipertensi dan pengurusan nefropati diabetes |
+| [33158581](https://pubmed.ncbi.nlm.nih.gov/33158581/) | 2020 | Ulasan Sistematis/Meta-analisis | Clinical Therapeutics | Keberkesanan terapi kombinasi piperasi ferulat + irbesartan dalam DN |
+| [38503013](https://pubmed.ncbi.nlm.nih.gov/38503013/) | 2024 | Kajian mekanisme | International Immunopharmacology | Irbesartan meringankan DN melalui laluan Nrf2/Keap1 dan penekanan inflammasom NLRP3 |
+| [35613364](https://pubmed.ncbi.nlm.nih.gov/35613364/) | 2022 | RCT multipusat | Diabetes Care | Manihot abelmoschus + kombinasi irbesartan mengurangkan albuminuria dalam T2D/DKD |
+| [15017527](https://pubmed.ncbi.nlm.nih.gov/15017527/) | 2004 | Ulasan | Seminars in Nephrology | ARB dalam nefropati diabetes: titik akhir ginjal dan kardiovaskular |
+| [26321089](https://pubmed.ncbi.nlm.nih.gov/26321089/) | 2015 | Kajian klinikal | Discovery Medicine | Irbesartan meningkatkan lipid darah dan fungsi ginjal dalam DN |
+| [15855214](https://pubmed.ncbi.nlm.nih.gov/15855214/) | 2005 | Ulasan Sistematis | Nephrol Dial Transplant | Keberkesanan kos irbesartan dalam nefropati diabetes |
 
 ---
 
-## Conclusion and Next Steps
+## Maklumat Pasaran Malaysia
 
-**Decision: Proceed with Guardrails**
+Data pendaftaran NPRA mengesahkan Irbesartan dipasarkan di Malaysia dengan **49 pendaftaran aktif**. Bagaimanapun, medan butiran lesen berstruktur (nombor lesen, nama produk, bentuk dos, pengilang, teks indikasi yang telah diluluskan) tidak diisi dalam pakej bukti ini, jadi jadual setiap produk tidak dapat dihasilkan. Butiran ini harus diambil terus daripada NPRA sebelum memuktamadkan sebarang penyerahan kawal selia.
 
-**Rationale:**
-Diabetic nephropathy is backed by L1-level evidence — two pivotal Phase 3 RCTs (IRMA-2, IDNT) with a well-established AT1-blockade renoprotective mechanism — making this closer to a confirmatory than a purely predictive repurposing signal. However, a **Blocking**-severity data gap exists: TFDA/NPRA package-insert warnings and contraindications are missing, which prevents the safety pre-screen (S1) from being completed.
+---
 
-**To proceed, the following is needed:**
-- Retrieve official package insert warnings, contraindications, and DDI data (currently unavailable — blocking S1 safety screening)
-- Detailed mechanism of action data (MOA) from DrugBank
-- Full NPRA license detail (product names, dosage forms, indication text) for the 49 registered products
-- Confirm original indication text directly from an official Malaysia regulatory source
+## Pertimbangan Keselamatan
+
+Sila rujuk waran paket untuk maklumat keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Teruskan dengan Penjaga Keselamatan**
+
+**Rasional:**
+Nefropati diabetes disokong oleh bukti aras L1 — dua ujian klinikal Fasa 3 penting (IRMA-2, IDNT) dengan mekanisme penyekatan AT1 renoprotektif yang terbentuk dengan baik — menjadikan ini lebih dekat kepada pengesahan berbanding isyarat repurposing yang bersifat ramalan semata. Walau bagaimanapun, **jurang data peringkat Penyekatan** wujud: amaran paket TFDA/NPRA dan kontraindikasi hilang, yang menghalang pra-tapis keselamatan (S1) daripada diselesaikan.
+
+**Untuk teruskan, perkara berikut diperlukan:**
+- Ambil amaran paket rasmi, kontraindikasi, dan data DDI (kini tidak tersedia — penyekatan pra-tapis S1)
+- Data mekanisme tindakan terperinci (MOA) daripada DrugBank
+- Butiran lesen NPRA lengkap (nama produk, bentuk dos, teks indikasi) untuk 49 produk berdaftar
+- Sahkan teks indikasi asal terus daripada sumber kawal selia rasmi Malaysia
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,62 +29,63 @@ Tahap bukti: **L5** | Indikasi diramal: **3**
 
 </div>
 
-# Nevirapine: From HIV-1 Infection to Feline Acquired Immunodeficiency Syndrome
+# Nevirapine: Daripada Jangkitan HIV-1 kepada Sindrom Kurang Kekebalan yang Didapati pada Kucing
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Nevirapine is a non-nucleoside reverse transcriptase inhibitor (NNRTI) established for human HIV-1 infection. The TxGNN model's top-ranked prediction is **Feline Acquired Immunodeficiency Syndrome (FIV)** — a cat disease, not a human indication — supported by only **1 in vitro/structural comparison publication** and **no clinical trials**. The evidence pack itself flags this and the other two ranked candidates as low-value, non-actionable signals.
+Nevirapine ialah penghambat reverse transcriptase bukan nucleoside (NNRTI) yang ditetapkan untuk jangkitan HIV-1 manusia. Ramalan berpangkat teratas model TxGNN ialah **Sindrom Kurang Kekebalan yang Didapati pada Kucing (FIV)** — penyakit kucing, bukan petunjuk manusia — disokong oleh hanya **1 publikasi perbandingan in vitro/struktur** dan **tiada ujian klinikal**. Pek bukti itu sendiri menandai ini dan dua calon berpangkat lain sebagai isyarat nilai rendah, tidak boleh diambil tindakan.
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | Official TFDA/NPRA indication text is missing from the four registered licenses; Nevirapine is a known NNRTI used to treat HIV-1 infection in humans |
-| Predicted New Indication | Feline Acquired Immunodeficiency Syndrome |
-| TxGNN Prediction Score | 99.85% |
-| Evidence Level | L4 (preclinical/mechanistic study only) |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 4 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|-----------|
+| Petunjuk Asal | Teks petunjuk rasmi TFDA/NPRA hilang daripada empat lesen berdaftar; Nevirapine ialah NNRTI yang diketahui digunakan untuk merawat jangkitan HIV-1 pada manusia |
+| Petunjuk Baru yang Diramalkan | Sindrom Kurang Kekebalan yang Didapati pada Kucing |
+| Skor Ramalan TxGNN | 99.85% |
+| Tahap Bukti | L4 (kajian praklinikal/mekanik sahaja) |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 4 |
+| Keputusan Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed mechanism-of-action data for this drug entry is not available (data gap). Based on the supporting evidence in this pack, Nevirapine belongs to the NNRTI class and works by directly inhibiting HIV-1 reverse transcriptase (RT); this mechanism has proven efficacy in human HIV-1 infection.
+Data mekanisme tindakan terperinci untuk entri ubat ini tidak tersedia (jurang data). Berdasarkan bukti sokongan dalam pek ini, Nevirapine tergolong dalam kelas NNRTI dan berfungsi dengan menghambat langsung reverse transcriptase HIV-1 (RT); mekanisme ini telah membuktikan keberkesanan dalam jangkitan HIV-1 manusia.
 
-The predicted indication, however, is a feline disease (FIV), not a human condition. The one supporting publication (PMID 38031646) is a structural/biochemical comparison of NNRTIs (including nevirapine, efavirenz, and rilpivirine) against feline vs. human RT — it investigates cross-species enzyme differences, and does not demonstrate treatment efficacy. Structurally, FIV reverse transcriptase differs substantially from HIV-1 RT, and NNRTIs are traditionally considered poorly active against FIV RT.
+Petunjuk yang diramalkan, bagaimanapun, ialah penyakit felin (FIV), bukan keadaan manusia. Satu-satunya publikasi sokongan (PMID 38031646) ialah perbandingan struktur/biokimia NNRTIs (termasuk nevirapine, efavirenz, dan rilpivirine) terhadap reverse transcriptase virus immunodeficiency felin dan manusia — ia menyiasat perbezaan enzim antara spesies, dan tidak menunjukkan keberkesanan rawatan. Secara struktur, reverse transcriptase FIV berbeza dengan ketara daripada RT HIV-1, dan NNRTIs secara tradisinya dianggap kurang aktif terhadap RT FIV.
 
-Because FIV is a veterinary disease, this prediction does not constitute a viable human drug-repurposing hypothesis even if the mechanistic link were stronger — it has research value only for comparative virology, not clinical application. The other two ranked candidates in this pack (Simian Immunodeficiency Virus infection, and a rare human neurodevelopmental disorder) are similarly non-actionable: the SIV literature largely reflects existing antiretroviral pharmacology re-surfaced by the graph rather than a novel indication, and the neurodevelopmental disorder has no literature, no trials, and no known mechanistic link.
+Kerana FIV ialah penyakit veterinar, ramalan ini tidak merupakan hipotesis penemaan semula ubat manusia yang berdaya maju walaupun pautan mekanik lebih kuat — ia hanya mempunyai nilai penyelidikan untuk virologi perbandingan, bukan aplikasi klinikal. Dua calon berpangkat lain dalam pek ini (jangkitan Virus Immunodeficiency Simian, dan gangguan neurodevelopmental manusia yang jarang) sama-sama tidak boleh diambil tindakan: literatur SIV sebagian besar mencerminkan farmakoloji antiretroviral sedia ada yang dimunculkan kembali oleh graf, bukan petunjuk baru, dan gangguan neurodevelopmental tidak mempunyai literatur, ujian, atau pautan mekanik yang diketahui.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-Currently no related clinical trials registered.
+Pada masa kini tiada ujian klinikal berkaitan yang didaftarkan.
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [38031646](https://pubmed.ncbi.nlm.nih.gov/38031646/) | 2023 | In Vitro (structural comparison) | Journal of Veterinary Science | Compared nevirapine, efavirenz, and rilpivirine against feline vs. human immunodeficiency virus reverse transcriptase; no effective FIV treatment currently exists, and this study investigates NNRTI structural applicability to FIV RT rather than demonstrating clinical efficacy |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|------|------|------|---------|
+| [38031646](https://pubmed.ncbi.nlm.nih.gov/38031646/) | 2023 | In Vitro (perbandingan struktur) | Journal of Veterinary Science | Membandingkan nevirapine, efavirenz, dan rilpivirine terhadap reverse transcriptase virus immunodeficiency felin dan manusia; tiada rawatan FIV yang berkesan pada masa kini, dan kajian ini menyiasat kebolehlaksanaan struktur NNRTI untuk FIV RT daripada menunjukkan keberkesanan klinikal |
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-TFDA/NPRA records show 4 active registrations for this drug (market status: marketed), but the license number, product name, dosage form, and approved indication text fields are all empty in the source data, so a detailed registration table cannot be produced from this evidence pack.
+Rekod TFDA/NPRA menunjukkan 4 pendaftaran aktif untuk ubat ini (status pasaran: dipasarkan), tetapi nombor lesen, nama produk, bentuk dosaj, dan bidang teks petunjuk yang diluluskan semuanya kosong dalam data sumber, jadi jadual pendaftaran terperinci tidak dapat dihasilkan daripada pek bukti ini.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information. Note: key warnings and contraindications data are marked as a **Blocking** data gap (DG001) — TFDA label warnings/contraindications must be retrieved and reviewed before any S1 safety assessment can proceed. No drug-drug interaction records were found in the queried source.
+Sila rujuk sisipan pakej untuk maklumat keselamatan. Nota: data amaran dan kontraindikasi utama ditandai sebagai jurang data **Menyekat** (DG001) — amaran label TFDA/kontraindikasi mesti diperolehi dan disemak sebelum sebarang penilaian keselamatan S1 dapat diteruskan. Tiada rekod interaksi ubat-ubat ditemui dalam sumber yang ditanyakan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The top-ranked predicted indication (Feline AIDS) is a veterinary, not human, condition, backed only by a single in vitro structural comparison paper (L4, no clinical trials) — it does not represent an actionable human repurposing opportunity as-is. This is compounded by a Blocking data gap on TFDA safety labeling (DG001), which alone prevents progression to S1 safety review regardless of indication strength.
+**Rasional:**
+Petunjuk yang diramalkan berpangkat teratas (AIDS Felin) ialah keadaan veterinar, bukan manusia, disokong hanya oleh satu kertas perbandingan struktur in vitro (L4, tiada ujian klinikal) — ia tidak mewakili peluang penemaan semula manusia yang boleh diambil tindakan sepertimana adanya. Ini diburukkan lagi oleh jurang data Menyekat pada label keselamatan TFDA (DG001), yang sahaja menghalang kemajuan ke semakan keselamatan S1 tanpa mengira kekuatan petunjuk.
 
-**To proceed, the following is needed:**
-- TFDA package insert (warnings/contraindications) retrieval and parsing (DG001, Blocking)
-- Confirmed mechanism-of-action data via DrugBank API (DG002)
-- Re-evaluation of whether any ranked candidate has a genuine human-relevant indication, since ranks 1–3 in this pack are veterinary, non-human-primate, or evidence-free
-- If pursuing cross-species research value only, reframe as a research/translational note rather than a repurposing candidate
+**Untuk meneruskan, yang berikut diperlukan:**
+- Pengambilan dan penghuraian sisipan pakej TFDA (amaran/kontraindikasi) (DG001, Menyekat)
+- Data mekanisme tindakan yang disahkan melalui API DrugBank (DG002)
+- Penilaian semula sama ada mana-mana calon berpangkat mempunyai petunjuk manusia yang benar-benar relevan, kerana pangkat 1–3 dalam pek ini adalah veterinar, bukan primata manusia, atau bebas bukti
+- Jika mengejar nilai penyelidikan antara spesies sahaja, nyatakan semula sebagai nota penyelidikan/translasi daripada calon penemaan semula
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

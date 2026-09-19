@@ -29,78 +29,79 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Ocrelizumab: From Multiple Sclerosis to HER2 Positive Breast Carcinoma
+# Ocrelizumab: Dari Multiple Sclerosis kepada HER2 Positive Breast Carcinoma
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-> Ocrelizumab is an anti-CD20 monoclonal antibody used to deplete CD20-positive B lymphocytes, with multiple sclerosis noted as its established indication.
-> The TxGNN model predicts it may be effective for **HER2 Positive Breast Carcinoma**,
-> but currently **no clinical trials and no published literature** support this specific prediction — the signal is based on model score alone.
+> Ocrelizumab ialah antibodi monoklonal anti-CD20 yang digunakan untuk melenyapkan limfosit B positif CD20, dengan multiple sclerosis dicatat sebagai indikasi yang telah ditubuhkan.
+> Model TxGNN meramalkan bahawa ia mungkin berkesan untuk **HER2 Positive Breast Carcinoma**,
+> namun pada masa kini **tiada ujian klinikal dan tiada literatur yang diterbitkan** menyokong ramalan khusus ini — isyarat berdasarkan skor model sahaja.
 
 ---
 
-## Quick Overview
+## Ikhtisar Cepat
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Multiple Sclerosis (per mechanistic rationale notes; NPRA license indication text is currently blank — data gap) |
-| Predicted New Indication | HER2 Positive Breast Carcinoma |
-| TxGNN Prediction Score | 99.89% |
-| Evidence Level | L5 |
-| Malaysia Market Status | Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+| Indikasi Asal | Multiple Sclerosis (mengikut nota rasional mekanik; teks indikasi lesen NPRA kini kosong — jurang data) |
+| Indikasi Baharu Diramalkan | HER2 Positive Breast Carcinoma |
+| Skor Ramalan TxGNN | 99.89% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Ocrelizumab's mechanism of action is anti-CD20 monoclonal antibody binding, which depletes CD20-positive B lymphocytes. This mechanism underlies its established use in multiple sclerosis, where B-cell-mediated autoimmune activity contributes to disease progression.
+Mekanisme tindakan ocrelizumab ialah pengikatan antibodi monoklonal anti-CD20, yang melenyapkan limfosit B positif CD20. Mekanisme ini mendasari penggunaannya yang telah ditubuhkan dalam multiple sclerosis, di mana aktiviti autoimun yang dimediasi oleh sel-B menyumbang kepada perkembangan penyakit.
 
-HER2-positive breast carcinoma biology, in contrast, is driven by HER2/neu receptor overexpression and downstream tyrosine kinase signaling — a pathway with no direct biological connection to B-cell depletion. There is no established pharmacological link between clearing CD20+ B cells and controlling HER2-driven tumor growth.
+Biologi karsinoma payudara positif HER2, sebaliknya, didorong oleh ekspresi reseptor HER2/neu yang berlebihan dan isyarat tyrosine kinase hiliran — laluan dengan tiada sambungan biologi langsung kepada penghapusan sel-B. Tiada pautan farmakologi yang ditubuhkan antara membersihkan sel-B CD20+ dan mengawal pertumbuhan tumor yang didorong HER2.
 
-Given this, the high TxGNN score (99.89%) most likely reflects indirect node proximity within the knowledge graph (e.g., shared immune/oncology-adjacent nodes) rather than a genuine mechanistic relationship. This is consistent with the complete absence of supporting clinical trials or literature for this specific drug-disease pair.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered
+Memandangkan ini, skor TxGNN yang tinggi (99.89%) kemungkinan besar mencerminkan kedekatan nod tidak langsung dalam graf pengetahuan (contohnya, nod bersama berkaitan imunologi/onkologi) dan bukannya hubungan mekanik yang tulen. Ini konsisten dengan ketiadaan ujian klinikal atau literatur yang menyokong untuk pasangan ubat-penyakit khusus ini.
 
 ---
 
-## Literature Evidence
+## Bukti Ujian Klinikal
 
-Currently no related literature available
-
----
-
-## Malaysia Market Information
-
-License detail fields (registration number, product name, dosage form, approved indication text) are currently blank in the data pack. Only the aggregate market status is confirmed: Marketed, with 1 registration on file.
+Kini tiada ujian klinikal berkaitan yang didaftarkan
 
 ---
 
-## Safety Considerations
+## Bukti Literatur
 
-Please refer to the package insert for safety information.
-
-*(Note: package insert warnings/contraindications retrieval is a blocking data gap — see Conclusion below.)*
+Kini tiada literatur berkaitan yang tersedia
 
 ---
 
-## Conclusion and Next Steps
+## Maklumat Pasaran Malaysia
 
-**Decision: Hold**
+Medan perincian lesen (nombor pendaftaran, nama produk, bentuk dos, teks indikasi yang diluluskan) kini kosong dalam pakej data. Hanya status pasaran agregat yang disahkan: Dipasarkan, dengan 1 pendaftaran dalam fail.
 
-**Rationale:**
-No clinical trials or literature currently support ocrelizumab's use in HER2-positive breast carcinoma, and the underlying mechanism (CD20+ B-cell depletion) has no established biological link to HER2-driven tumor signaling. The high TxGNN score appears to reflect graph-structural proximity rather than genuine pharmacological relevance, and this candidate is additionally blocked from safety review (S1) by a missing package insert data gap.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert warnings and contraindications (blocking gap, DG001)
-- Confirmed mechanism of action documentation (DG002)
-- Confirmed original approved indication text from license data (currently blank)
-- Any future clinical or literature evidence establishing a mechanistic link between B-cell depletion and HER2-positive breast carcinoma, should it emerge
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
+
+*(Nota: pengambilan amaran sisipan pakej/kontraindikasi ialah jurang data yang menghalang — lihat Kesimpulan di bawah.)*
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Hold**
+
+**Rasional:**
+Tiada ujian klinikal atau literatur kini menyokong penggunaan ocrelizumab dalam karsinoma payudara positif HER2, dan mekanisme asas (penghapusan limfosit B CD20+) tiada pautan biologi yang ditubuhkan kepada isyarat tumor yang didorong HER2. Skor TxGNN yang tinggi nampaknya mencerminkan kedekatan struktur graf dan bukannya kaitan farmakologi yang tulen, dan calon ini juga dihalang daripada semakan keselamatan (S1) oleh jurang data sisipan pakej yang hilang.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Amaran sisipan pakej TFDA/NPRA dan kontraindikasi (jurang penghalang, DG001)
+- Dokumentasi mekanisme tindakan yang disahkan (DG002)
+- Teks indikasi yang diluluskan asal yang disahkan daripada data lesen (kini kosong)
+- Sebarang bukti klinikal atau literatur masa hadapan yang menetapkan pautan mekanik antara penghapusan sel-B dan karsinoma payudara positif HER2, jika ia muncul
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,62 +29,63 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Octreotide: From Neuroendocrine Disorders to Vulvar Inverted Follicular Keratosis
+# Octreotide: Daripada Gangguan Neuroendokrin hingga Keratosis Folikel Terbalik Vulva
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Octreotide is a somatostatin analog originally used to treat acromegaly, carcinoid syndrome, VIPoma, and esophageal variceal bleeding via somatostatin receptor (SSTR2/SSTR5) pathways. TxGNN predicts it may be effective for **vulvar inverted follicular keratosis**, but this direction is currently supported by **zero clinical trials** and **zero publications**.
+Octreotide adalah analog somatostatin yang awalnya digunakan untuk merawat akromegali, sindrom karsinoid, VIPoma, dan perdarahan varikositas esofagus melalui jalur reseptor somatostatin (SSTR2/SSTR5). TxGNN meramalkan ia mungkin berkesan untuk **keratosis folikel terbalik vulva**, tetapi arah ini kini disokong oleh **tiada ujian klinikal** dan **tiada penerbitan**.
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Not specified in Malaysia registration data; based on the evidence pack's mechanistic description, known clinical uses include acromegaly, carcinoid syndrome, VIPoma, and esophageal variceal bleeding |
-| Predicted New Indication | Vulvar Inverted Follicular Keratosis |
-| TxGNN Prediction Score | 99.58% (rank 6464) |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 6 |
-| Recommended Decision | Hold |
+| Petunjukan Asal | Tidak dinyatakan dalam data pendaftaran Malaysia; berdasarkan penerangan mekanik pakej bukti, penggunaan klinikal yang diketahui termasuk akromegali, sindrom karsinoid, VIPoma, dan perdarahan varikositas esofagus |
+| Petunjukan Baru yang Diramalkan | Keratosis Folikel Terbalik Vulva |
+| Skor Ramalan TxGNN | 99.58% (kedudukan 6464) |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 6 |
+| Keputusan yang Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data is not available in the evidence pack. Based on the repurposing rationale provided, octreotide is a somatostatin analog that acts mainly through SSTR2/SSTR5 receptors to suppress the growth hormone/IGF-1 axis, producing anti-proliferative and anti-angiogenic effects. Clinically it is used for acromegaly, carcinoid syndrome, VIPoma, and esophageal variceal bleeding.
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia dalam pakej bukti. Berdasarkan rasional penggunaan semula yang disediakan, octreotide adalah analog somatostatin yang bertindak terutamanya melalui reseptor SSTR2/SSTR5 untuk menyekat paksi hormon pertumbuhan/IGF-1, menghasilkan kesan anti-proliferasi dan anti-angiogenik. Secara klinikal ia digunakan untuk akromegali, sindrom karsinoid, VIPoma, dan perdarahan varikositas esofagus.
 
-Vulvar inverted follicular keratosis is a benign keratinocyte proliferative lesion, generally associated with HPV infection or local irritation. There is no established literature linking somatostatin receptor signaling to this type of keratinocyte proliferation.
+Keratosis folikel terbalik vulva adalah lesi proliferasi keratinosit jinak, secara umumnya berkaitan dengan jangkitan HPV atau iritasi tempatan. Tiada kesusasteraan yang ditubuhkan menghubungkan isyarat reseptor somatostatin kepada jenis proliferasi keratinosit ini.
 
-The evidence pack itself flags this prediction as likely spurious: the high TxGNN score (0.996) probably reflects structural similarity between "keratosis"-related nodes in the knowledge graph rather than a genuine biological mechanism. A second, similarly unsupported prediction for the same drug — seborrheic keratosis (score 0.995) — reinforces this pattern, as that condition is driven by FGFR3/PIK3CA somatic mutations with no known connection to somatostatin signaling either.
+Pakej bukti itu sendiri menandakan ramalan ini sebagai kemungkinan palsu: skor TxGNN yang tinggi (0.996) berkemungkinan mencerminkan kesamaan struktur antara nod berkaitan "keratosis" dalam graf pengetahuan daripada mekanisme biologi yang tulen. Ramalan kedua yang begini juga tidak disokong untuk ubat yang sama — keratosis seborrik (skor 0.995) — mengukuhkan corak ini, kerana keadaan itu didorong oleh mutasi somatik FGFR3/PIK3CA tanpa sebarang hubungan yang diketahui kepada isyarat somatostatin.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-Currently no related clinical trials registered.
+Pada masa ini tiada ujian klinikal berkaitan terdaftar.
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-Currently no related literature available.
+Pada masa ini tiada kesusasteraan berkaitan tersedia.
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-License-level details (product names, dosage forms, manufacturers, approved indication text) are not available in the evidence pack. Only aggregate registration data is known: **6 registrations**, market status **Marketed** in Malaysia.
+Butir-butir peringkat lesen (nama produk, bentuk dos, pengilang, teks petunjukan yang diluluskan) tidak tersedia dalam pakej bukti. Hanya data pendaftaran agregat yang diketahui: **6 pendaftaran**, status pasaran **Dipasarkan** di Malaysia.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-*Note: Warning/contraindication data (DG001) is flagged as a Blocking data gap and has not yet been retrieved from the TFDA label, so a full safety assessment cannot be completed at this stage.*
+*Nota: Data amaran/kontraindikasi (DG001) ditandakan sebagai jurang data Pemblokiran dan belum diambil daripada label TFDA, oleh itu penilaian keselamatan penuh tidak dapat diselesaikan pada peringkat ini.*
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The prediction relies entirely on a TxGNN score (L5, model prediction only) with no clinical trials or literature support. The evidence pack's own mechanistic analysis suggests the high score likely reflects knowledge-graph structural similarity rather than a real biological link between somatostatin signaling and keratinocyte proliferation. Combined with a Blocking safety data gap (DG001), this candidate does not meet the threshold to proceed.
+**Rasional:**
+Ramalan bergantung sepenuhnya pada skor TxGNN (L5, ramalan model sahaja) tanpa sokongan ujian klinikal atau kesusasteraan. Analisis mekanik pakej bukti itu sendiri mencadangkan skor yang tinggi berkemungkinan mencerminkan kesamaan struktur graf pengetahuan daripada pautan biologi tulen antara isyarat somatostatin dan proliferasi keratinosit. Digabungkan dengan jurang data keselamatan Pemblokiran (DG001), calon ini tidak memenuhi ambang untuk meneruskan.
 
-**To proceed, the following is needed:**
-- Confirmed original indication and mechanism of action (MOA) data from DrugBank (DG002)
-- TFDA label warnings and contraindications (DG001, Blocking — required before any S1 safety evaluation)
-- Targeted literature/preclinical search for somatostatin receptor expression in keratinocyte or HPV-related proliferative lesions, to test biological plausibility before further investment
-- Malaysia license-level details (product names, dosage forms, approved indication text) to confirm current marketed formulations and routes
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data petunjukan asal yang disahkan dan mekanisme tindakan (MOA) daripada DrugBank (DG002)
+- Amaran label TFDA dan kontraindikasi (DG001, Pemblokiran — diperlukan sebelum sebarang penilaian keselamatan S1)
+- Carian kesusasteraan/praklinik yang tertumpu untuk ungkapan reseptor somatostatin dalam keratinosit atau lesi proliferasi berkaitan HPV, untuk menguji kebolehmungkinan biologi sebelum pelaburan lebih lanjut
+- Butir-butir peringkat lesen Malaysia (nama produk, bentuk dos, teks petunjukan yang diluluskan) untuk mengesahkan formulasi yang dipasarkan semasa dan laluan
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

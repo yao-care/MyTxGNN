@@ -29,65 +29,66 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Bifonazole: Antifungal Agent — Drug Repurposing Evaluation
+# Bifonazole: Agen Antifungal — Penilaian Penggunaan Semula Ubat
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Bifonazole is an imidazole-class antifungal agent, primarily used topically for the treatment of dermatomycoses (fungal skin infections). The TxGNN model currently has **no predicted new indications** for this drug, and there are significant data gaps in mechanism of action and safety information that need to be addressed before further evaluation.
+Bifonazole ialah agen antifungal golongan imidazol, terutamanya digunakan secara topikal untuk merawat dermatomikosis (jangkitan cendawan kulit). Model TxGNN pada masa ini tidak mempunyai **sebarang indikasi baru yang diramal** untuk ubat ini, dan terdapat jurang data yang ketara dalam mekanisme tindakan dan maklumat keselamatan yang perlu ditangani sebelum penilaian lanjutan.
 
-## Quick Overview
+## Gambaran Pantas
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Antifungal (topical use for dermatomycoses) |
-| Predicted New Indication | — (No TxGNN prediction available) |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 (No prediction or supporting studies) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | **Hold** |
+| Indikasi Asal | Antifungal (kegunaan topikal untuk dermatomikosis) |
+| Indikasi Baru yang Diramal | — (Tiada ramalan TxGNN tersedia) |
+| Skor Ramalan TxGNN | N/A |
+| Tahap Bukti | L5 (Tiada ramalan atau kajian sokongan) |
+| Status Pasaran Malaysia | ✓ Sudah dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | **Tahan** |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, the TxGNN model has not generated any repurposing predictions for Bifonazole. This may be due to limited representation of topical antifungal agents within the knowledge graph, or insufficient relational data linking Bifonazole to novel disease targets.
+Pada masa ini, model TxGNN belum menjana sebarang ramalan penggunaan semula untuk Bifonazole. Ini mungkin disebabkan oleh perwakilan terhad agen antifungal topikal dalam graf pengetahuan, atau data hubungan yang tidak mencukupi yang menghubungkan Bifonazole kepada sasaran penyakit baru.
 
-> Detailed mechanism of action data is not currently available in this evidence pack. Based on known pharmacological information, Bifonazole is an imidazole antifungal that inhibits ergosterol biosynthesis by blocking the cytochrome P450-dependent enzyme lanosterol 14α-demethylase, disrupting fungal cell membrane integrity. Its use is predominantly topical, which may limit systemic repurposing opportunities.
+> Data mekanisme tindakan yang terperinci tidak tersedia pada masa ini dalam paket bukti ini. Berdasarkan maklumat farmakologi yang diketahui, Bifonazole ialah agen antifungal imidazol yang menghalang biosintesis ergosterol dengan menyekat enzim lanosterol 14α-demethylase yang bergantung pada sitokrom P450, mengganggu integriti membran sel cendawan. Penggunaannya adalah terutamanya topikal, yang mungkin mengehadkan peluang penggunaan semula sistemik.
 
-Without a TxGNN prediction score or candidate indication, it is not possible to assess mechanistic plausibility for any new therapeutic application at this time.
+Tanpa skor ramalan TxGNN atau indikasi calon, adalah tidak mungkin untuk menilai kebolehpercayaan mekanistik bagi sebarang aplikasi terapeutik baru pada masa ini.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-Currently no related clinical trials registered for a new indication, as no repurposing prediction has been generated.
+Pada masa ini tiada ujian klinikal yang berkaitan didaftarkan untuk indikasi baru, kerana tiada ramalan penggunaan semula telah dijana.
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no related literature available for a repurposing indication, as no TxGNN prediction exists for this drug.
+Pada masa ini tiada literatur yang berkaitan tersedia untuk indikasi penggunaan semula, kerana tiada ramalan TxGNN wujud untuk ubat ini.
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
 |------|------|------|------|
-| (Not available) | (Not available) | (Not available) | (Not available) |
+| (Tidak tersedia) | (Tidak tersedia) | (Tidak tersedia) | (Tidak tersedia) |
 
-> Note: One registration record was retrieved from the NPRA database, but detailed licence fields (authorization number, product name, dosage form, approved indication) were not populated in the source data. Please refer to the [NPRA Product Search](https://www.npra.gov.my/) for complete product information.
+> Nota: Satu rekod pendaftaran telah diambil daripada pangkalan data NPRA, tetapi medan lesen terperinci (nombor kebenaran, nama produk, bentuk dos, indikasi yang diluluskan) tidak diisi dalam data sumber. Sila rujuk [Carian Produk NPRA](https://www.npra.gov.my/) untuk maklumat produk lengkap.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-> Please refer to the package insert for safety information. Key warnings, contraindications, and drug interaction data were not available in the current evidence pack. As Bifonazole is primarily a topical agent, systemic safety concerns are generally limited, but local adverse reactions (e.g., skin irritation, contact dermatitis) should be monitored.
+> Sila rujuk sisipan pakej untuk maklumat keselamatan. Data amaran utama, kontraindikasi, dan interaksi ubat tidak tersedia dalam paket bukti semasa. Oleh kerana Bifonazole adalah terutamanya agen topikal, kebimbangan keselamatan sistemik pada umumnya terhad, tetapi reaksi buruk tempatan (contohnya, iritasi kulit, dermatitis sentuh) harus dipantau.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Berikutnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The TxGNN model has not generated any repurposing predictions for Bifonazole. Combined with the absence of mechanism of action data and safety information, there is insufficient basis to advance this candidate into further evaluation at this time.
+**Rasional:**
+Model TxGNN belum menjana sebarang ramalan penggunaan semula untuk Bifonazole. Digabungkan dengan ketiadaan data mekanisme tindakan dan maklumat keselamatan, terdapat asas yang tidak mencukupi untuk memajukan calon ini ke penilaian lanjutan pada masa ini.
 
-**To proceed, the following is needed:**
-- **TxGNN prediction output**: Verify whether Bifonazole (DB04794) is present in the knowledge graph and, if so, re-run the prediction pipeline to confirm the absence of candidates
-- **Mechanism of action (MOA) data**: Query DrugBank API to retrieve full pharmacological profile (DG002)
-- **NPRA product details**: Retrieve complete registration information including approved indication text, dosage form, and authorization number
-- **Package insert safety data**: Download and parse the package insert PDF from the regulatory authority to populate warnings and contraindications (DG001)
-- **Reassess after data gaps are filled**: If MOA data reveals systemic targets beyond antifungal activity, re-evaluate repurposing potential
+**Untuk meneruskan, yang berikut diperlukan:**
+- **Output ramalan TxGNN**: Sahkan sama ada Bifonazole (DB04794) hadir dalam graf pengetahuan dan, jika ya, jalankan semula saluran ramalan untuk mengesahkan ketiadaan calon
+- **Data mekanisme tindakan (MOA)**: Soal API DrugBank untuk mendapatkan profil farmakologi lengkap (DG002)
+- **Butiran produk NPRA**: Dapatkan maklumat pendaftaran lengkap termasuk teks indikasi yang diluluskan, bentuk dos, dan nombor kebenaran
+- **Data keselamatan sisipan pakej**: Muat turun dan analisis PDF sisipan pakej daripada pihak berkuasa pengawalseliaan untuk mengisi amaran dan kontraindikasi (DG001)
+- **Penilaian semula setelah jurang data ditutup**: Jika data MOA mendedahkan sasaran sistemik di luar aktiviti antifungal, penilaian semula potensi penggunaan semula
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

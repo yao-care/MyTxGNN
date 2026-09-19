@@ -29,56 +29,57 @@ Tahap bukti: **L5** | Indikasi diramal: **3**
 
 </div>
 
-# GALCANEZUMAB: From Migraine Prevention to Heparin Cofactor II Deficiency
+# GALCANEZUMAB: Daripada Pencegahan Migrain kepada Defisiensi Faktor Kofaktor Heparin II
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Galcanezumab is an anti-CGRP (calcitonin gene-related peptide) monoclonal antibody used clinically for migraine prevention. TxGNN's top prediction for this drug is **Heparin Cofactor II Deficiency**, a rare inherited coagulation disorder, but the prediction is supported by **zero clinical trials and zero publications**, and the underlying mechanism shows no known connection to CGRP signaling.
+Galcanezumab ialah antibodi monoklonal anti-CGRP (calcitonin gene-related peptide) yang digunakan secara klinikal untuk pencegahan migrain. Ramalan teratas TxGNN untuk ubat ini ialah **Defisiensi Faktor Kofaktor Heparin II**, gangguan koagulasi yang jarang diturunkan, tetapi ramalan ini disokong oleh **sifar ujian klinikal dan sifar penerbitan**, dan mekanisme yang mendasari menunjukkan tiada kaitan yang diketahui dengan pensignalan CGRP.
 
-## Quick Overview
+## Ikhtisar Cepat
 
-| Item | Content |
-|------|------|
-| Original Indication | Migraine prevention (based on known pharmacology; Malaysia label text not present in this evidence pack) |
-| Predicted New Indication | Heparin Cofactor II Deficiency |
-| TxGNN Prediction Score | 99.50% |
-| Evidence Level | L5 (model prediction only, no supporting studies) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Pencegahan migrain (berdasarkan farmakologi yang diketahui; teks label Malaysia tidak hadir dalam pakej bukti ini) |
+| Indikasi Baru yang Diramal | Defisiensi Faktor Kofaktor Heparin II |
+| Skor Ramalan TxGNN | 99.50% |
+| Aras Bukti | L5 (ramalan model sahaja, tiada kajian yang menyokong) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 2 |
+| Keputusan yang Dicadangkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed mechanism-of-action data was not returned by DrugBank in this evidence pack (flagged as a High-severity data gap, DG002). Based on the rationale notes accompanying the prediction, galcanezumab works by blocking CGRP from binding its receptor, a pathway relevant to migraine and pain signaling — it has no established role in coagulation or hemostasis.
+Data mekanisme tindakan yang terperinci tidak dikembalikan oleh DrugBank dalam pakej bukti ini (ditandai sebagai jurang data Keparahan-Tinggi, DG002). Berdasarkan nota rasional yang menyertai ramalan, galcanezumab berfungsi dengan menghalang CGRP daripada mengikat receptornya, suatu laluan yang relevan dengan migrain dan pensignalan rasa sakit — ia tidak mempunyai peranan yang ditetapkan dalam koagulasi atau hemostasis.
 
-Heparin Cofactor II Deficiency is caused by mutations in *SERPIND1*, a gene governing a coagulation-inhibitor protein. There is no known mechanistic overlap between CGRP receptor blockade and *SERPIND1*/heparin cofactor II function, and no shared upstream or downstream pathway has been reported in the literature. The evidence pack's own analysis flags the 99.5% TxGNN score as a likely statistical artifact — a false-positive signal arising from sparse graph connectivity around rare-disease nodes, rather than a genuine pharmacological relationship.
+Defisiensi Faktor Kofaktor Heparin II disebabkan oleh mutasi dalam *SERPIND1*, gen yang mentadbir protein penghambat koagulasi. Tiada pertindihan mekanisme yang diketahui antara pemblokan reseptor CGRP dan fungsi *SERPIND1*/faktor kofaktor heparin II, dan tiada laluan hulu atau hilir yang dikongsi telah dilaporkan dalam literatur. Analisis pakej bukti sendiri menandai skor TxGNN 99.5% sebagai artifak statistik yang kemungkinan — isyarat positif palsu yang timbul daripada sambungan graf yang jarang di sekitar nod penyakit langka, bukan hubungan farmakologi yang tulin.
 
-Two additional candidates surfaced for this drug — **Antithrombin Deficiency Type 2** (99.41%, rank 8166) and **Factor 5 Excess with Spontaneous Thrombosis** (99.41%, rank 8179) — show the identical pattern: high TxGNN scores, no mechanistic link, and zero clinical or literature evidence. All three appear to stem from the same graph-topology artifact rather than independent biological signals.
+Dua calon tambahan muncul untuk ubat ini — **Defisiensi Antitrombin Jenis 2** (99.41%, pangkat 8166) dan **Lebihan Faktor 5 dengan Trombosis Spontan** (99.41%, pangkat 8179) — menunjukkan corak yang sama: skor TxGNN yang tinggi, tiada pautan mekanisme, dan sifar bukti klinikal atau literatur. Ketiga-tiganya nampaknya berasal daripada artifak topologi graf yang sama, bukan isyarat biologi yang bebas.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-Currently no related clinical trials registered.
+Pada masa ini tiada ujian klinikal yang berkaitan terdaftar.
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no related literature available.
+Pada masa ini tiada literatur yang berkaitan tersedia.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-No mechanistic rationale, clinical trial, or published evidence supports this indication. The scoring engine itself flags the TxGNN signal as likely graph noise from a sparsely connected rare-disease node, and this same pattern repeats across all three top-ranked candidates for this drug — none should advance past S0.
+**Rasional:**
+Tiada rasional mekanisme, ujian klinikal, atau bukti penerbitan yang menyokong indikasi ini. Enjin pemeringkatan sendiri menandai isyarat TxGNN sebagai kemungkinan bunyi graf daripada sambungan graf yang jarang di sekitar nod penyakit langka, dan corak yang sama berulang di seluruh ketiga-tiga calon yang berkedudukan teratas untuk ubat ini — semuanya tidak sepatutnya maju melampaui S0.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA label warnings and contraindications (currently blocking — DG001)
-- Confirmed DrugBank mechanism-of-action data (DG002)
-- Any independent biological rationale connecting CGRP-pathway modulation to coagulation-factor regulation, before this candidate is reconsidered
-- Malaysia registration/license detail (product name, dosage form, approved indication text) — not populated in this evidence pack despite 2 active registrations
+**Untuk meneruskan, yang berikut diperlukan:**
+- Label amaran TFDA/NPRA dan kontraindikasi (kini menghalang — DG001)
+- Data mekanisme tindakan DrugBank yang disahkan (DG002)
+- Sebarang rasional biologi bebas yang menghubungkan pengubahsuaian laluan CGRP dengan peraturan faktor koagulasi, sebelum calon ini dipertimbangkan semula
+- Perincian pendaftaran/lesen Malaysia (nama produk, bentuk dos, teks indikasi yang diluluskan) — tidak diisi dalam pakej bukti ini meskipun terdapat 2 pendaftaran aktif
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

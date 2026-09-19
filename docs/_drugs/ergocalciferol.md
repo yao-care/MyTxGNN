@@ -29,74 +29,75 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Ergocalciferol: From Unrecorded Original Indication to Obsolete Vitamin D Deficiency
+# Ergocalciferol: Dari Indikasi Asal yang Tidak Tercatat hingga Kekurangan Vitamin D yang Sudah Ketinggalan Zaman
 
-## One-Sentence Summary
+## Ringkasan Satu Kalimat
 
-Ergocalciferol (vitamin D2) is a long-marketed product in Malaysia (10 active NPRA registrations), but this evidence pack contains no usable record of its formally approved indication text. The TxGNN model's top-ranked prediction — **obsolete vitamin D deficiency** — is supported by **zero clinical trials and zero literature citations**, and its own rationale text flags it as very likely a re-identification of the drug's own established, already-approved use rather than a genuine new indication.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not on file — all NPRA license indication-text fields and the drug-level `original_indications` field were empty in this evidence pack |
-| Predicted New Indication | Obsolete Vitamin D Deficiency* |
-| TxGNN Prediction Score | 99.99% |
-| Evidence Level | L5 (zero clinical trials, zero literature — see note below) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 10 |
-| Recommended Decision | Hold |
-
-*"Obsolete" here is the disease-ontology term itself (MONDO/OMIM marks it a deprecated concept), and the model's own `repurposing_rationale` states this is likely a re-detection of ergocalciferol's known indication rather than a real repurposing candidate.
-
-**Note on Evidence Level:** the evidence pack's internal scoring field labels this candidate "L1," but per the determination rules (L1 requires ≥2 completed Phase 3 RCTs) and the fact that both `clinical_trials` and `literature` arrays are empty for this candidate, the correct level by the stated criteria is **L5**. This discrepancy should be corrected upstream in the scoring pipeline.
+Ergocalciferol (vitamin D2) adalah produk yang telah lama dipasarkan di Malaysia (10 pendaftaran NPRA yang aktif), tetapi paket bukti ini tidak mengandung catatan yang dapat digunakan mengenai teks indikasi yang resmi disetujui. Prediksi peringkat teratas model TxGNN — **kekurangan vitamin D yang sudah ketinggalan zaman** — didukung oleh **nol uji klinis dan nol kutipan literatur**, dan teks rasional model sendiri menandainya sebagai kemungkinan besar re-identifikasi penggunaan yang sudah dikenal dan sudah disetujui dari obat itu sendiri daripada indikasi repurposing yang benar-benar baru.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Umum Cepat
 
-Currently, detailed mechanism-of-action data is not available (flagged as a High-severity data gap, DG002). Based on general pharmacological knowledge, ergocalciferol (vitamin D2) is a fat-soluble vitamin D precursor that undergoes hepatic 25-hydroxylation and renal 1α-hydroxylation to its active metabolite, calcitriol, which regulates intestinal calcium/phosphate absorption and bone mineralization. This pathway is well established and is the pharmacological basis for essentially all of the candidates surfaced in this pack.
+| Item | Konten |
+|------|--------|
+| Indikasi Asal | Tidak ada di file — semua kolom teks indikasi lisensi NPRA dan kolom tingkat obat `original_indications` kosong dalam paket bukti ini |
+| Indikasi Baru yang Diprediksi | Kekurangan Vitamin D yang Sudah Ketinggalan Zaman* |
+| Skor Prediksi TxGNN | 99.99% |
+| Tingkat Bukti | L5 (nol uji klinis, nol literatur — lihat catatan di bawah) |
+| Status Pasar Malaysia | ✓ Dipasarkan |
+| Jumlah Pendaftaran | 10 |
+| Keputusan yang Direkomendasikan | Tunda |
 
-The top-ranked candidate, however, is not a useful repurposing signal: the disease term "obsolete vitamin D deficiency" is itself vitamin D2's original, textbook indication, and the model's own rationale explicitly states that the high score likely reflects "already-known pharmacological fact, not a new discovery" — an artifact plausibly caused by the missing `original_indications` data, which left TxGNN unable to distinguish this candidate from ergocalciferol's known use.
+*"Ketinggalan zaman" di sini adalah istilah ontologi penyakit itu sendiri (MONDO/OMIM menandainya sebagai konsep yang tidak digunakan lagi), dan `repurposing_rationale` model sendiri menyatakan bahwa ini kemungkinan besar adalah re-deteksi indikasi ergocalciferol yang dikenal daripada kandidat repurposing yang sebenarnya.
 
-Looking past rank 1, several lower-ranked candidates show a more genuine, evidence-backed repurposing pattern — ergocalciferol used as an adjunct in calcium/phosphate-metabolism bone disorders adjacent to its core indication: **renal osteodystrophy** (rank 9, L2, a Phase 4 trial plus a 1985 head-to-head clinical study of ergocalciferol vs. calcitriol), **hereditary hypophosphatemic rickets** (rank 7, L3, including a 1980 NEJM clinical study using ergocalciferol directly), and **hypophosphatemia** (rank 8, L3, including an actively planned ergocalciferol dosing trial, NCT07366450). These are mechanistically coherent and worth separate evaluation, even though modern practice has largely shifted to active vitamin D analogues (calcitriol/doxercalciferol) for these conditions.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
----
-
-## Literature Evidence
-
-Currently no related literature available.
+**Catatan tentang Tingkat Bukti:** kolom penilaian internal paket bukti ini memberi label kandidat ini "L1," tetapi sesuai dengan aturan penentuan (L1 memerlukan ≥2 RCT Phase 3 yang diselesaikan) dan fakta bahwa kedua array `clinical_trials` dan `literature` kosong untuk kandidat ini, tingkat yang benar menurut kriteria yang dinyatakan adalah **L5**. Perbedaan ini harus diperbaiki di hulu dalam saluran penilaian.
 
 ---
 
-## Safety Considerations
+## Mengapa Prediksi Ini Masuk Akal?
 
-Please refer to the package insert for safety information.
+Saat ini, data mekanisme aksi yang terperinci tidak tersedia (ditandai sebagai celah data berkeparahan Tinggi, DG002). Berdasarkan pengetahuan farmakologis umum, ergocalciferol (vitamin D2) adalah prekursor vitamin D yang larut dalam lemak yang menjalani hidroksilasi hepatik 25 dan hidroksilasi renal 1α menjadi metabolitnya yang aktif, calcitriol, yang mengatur absorpsi kalsium/fosfat usus dan mineralisasi tulang. Jalur ini sudah mapan dan merupakan dasar farmakologis untuk pada dasarnya semua kandidat yang muncul dalam paket ini.
 
-(TFDA/NPRA warnings and contraindications were not available in this evidence pack — this is flagged as a **Blocking**-severity data gap, DG001, and prevents this candidate from entering the S1 safety review stage regardless of efficacy evidence.)
+Kandidat peringkat teratas, bagaimanapun, bukanlah sinyal repurposing yang berguna: istilah penyakit "kekurangan vitamin D yang sudah ketinggalan zaman" itu sendiri adalah indikasi asli ergocalciferol yang terkenal di buku teks, dan rasional model sendiri secara eksplisit menyatakan bahwa skor tinggi kemungkinan besar mencerminkan "fakta farmakologis yang sudah dikenal, bukan penemuan baru" — sebuah artefak yang kemungkinan besar disebabkan oleh hilangnya data `original_indications`, yang membuat TxGNN tidak mampu membedakan kandidat ini dari penggunaan ergocalciferol yang dikenal.
+
+Melampaui peringkat 1, beberapa kandidat peringkat lebih rendah menunjukkan pola repurposing yang lebih sejati dan didukung bukti — ergocalciferol digunakan sebagai adjuvan dalam gangguan tulang metabolisme kalsium/fosfat yang berdekatan dengan indikasi intinya: **osteodistrofi renal** (peringkat 9, L2, satu uji Phase 4 ditambah studi klinis perbandingan langsung 1985 tentang ergocalciferol vs. calcitriol), **rakitis hipofosfatemik herediter** (peringkat 7, L3, termasuk studi klinis NEJM 1980 yang menggunakan ergocalciferol secara langsung), dan **hipofosfatemia** (peringkat 8, L3, termasuk uji dosis ergocalciferol yang sedang direncanakan, NCT07366450). Ini adalah koherensi mekanistik dan layak untuk evaluasi terpisah, meskipun praktik modern sebagian besar telah beralih ke analog vitamin D aktif (calcitriol/doxercalciferol) untuk kondisi ini.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Uji Klinis
 
-**Decision: Hold**
+Saat ini tidak ada uji klinis terkait yang terdaftar.
 
-**Rationale:**
-The top-ranked candidate carries no clinical trial or literature support, and the evidence pack's own rationale indicates it likely duplicates ergocalciferol's existing, already-approved use rather than representing a novel indication. Separately, a Blocking safety-data gap (no TFDA/NPRA label warnings or contraindications on file) prevents any candidate for this drug from clearing the initial safety screen.
+---
 
-**To proceed, the following is needed:**
-- Resolve DG001 (Blocking): retrieve and parse the NPRA package insert for warnings/contraindications
-- Resolve DG002 (High): query DrugBank for confirmed mechanism of action
-- Obtain the drug's actual approved indication text — all 10 current NPRA license records in this pack have empty product name, dosage form, and indication fields
-- If a genuine repurposing opportunity is still wanted, redirect review effort to ranks 7–9 (hereditary hypophosphatemic rickets, hypophosphatemia, renal osteodystrophy), which carry real — if dated — clinical evidence, rather than rank 1
+## Bukti Literatur
+
+Saat ini tidak ada literatur terkait yang tersedia.
+
+---
+
+## Pertimbangan Keselamatan
+
+Silakan merujuk ke risalah obat untuk informasi keselamatan.
+
+(Peringatan/kontraindikasi TFDA/NPRA tidak tersedia dalam paket bukti ini — ini ditandai sebagai celah data berkeparahan **Pemblokiran**, DG001, dan mencegah kandidat ini memasuki tahap tinjauan keselamatan S1 terlepas dari bukti efikasi.)
+
+---
+
+## Kesimpulan dan Langkah Berikutnya
+
+**Keputusan: Tunda**
+
+**Rasional:**
+Kandidat peringkat teratas tidak memiliki dukungan uji klinis atau literatur, dan rasional paket bukti sendiri menunjukkan bahwa ini kemungkinan besar menduplikasi penggunaan ergocalciferol yang sudah disetujui yang sudah ada daripada mewakili indikasi baru. Terpisah, celah data keselamatan Pemblokiran (tidak ada label peringatan/kontraindikasi TFDA/NPRA di file) mencegah kandidat apa pun untuk obat ini dari menghapus skrining keselamatan awal.
+
+**Untuk melanjutkan, hal berikut diperlukan:**
+- Selesaikan DG001 (Pemblokiran): ambil dan urai risalah obat NPRA untuk peringatan/kontraindikasi
+- Selesaikan DG002 (Tinggi): kueri DrugBank untuk mekanisme aksi yang dikonfirmasi
+- Dapatkan teks indikasi yang disetujui obat sebenarnya — semua 10 catatan lisensi NPRA saat ini dalam paket ini memiliki nama produk, bentuk dosis, dan kolom indikasi yang kosong
+- Jika peluang repurposing yang sebenarnya masih diinginkan, alihkan upaya tinjauan ke peringkat 7–9 (rakitis hipofosfatemik herediter, hipofosfatemia, osteodistrofi renal), yang memiliki bukti nyata — meskipun sudah ketinggalan zaman — daripada peringkat 1
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

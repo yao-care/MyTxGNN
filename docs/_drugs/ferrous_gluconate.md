@@ -29,76 +29,77 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-# Ferrous Gluconate: From Iron Deficiency Anemia to Plummer-Vinson Syndrome
+# Ferrous Gluconate: Daripada Anemia Kekurangan Besi kepada Sindrom Plummer-Vinson
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Ferrous gluconate is a standard oral iron salt used to treat and prevent iron-deficiency anemia. The TxGNN model predicts it may also be effective for **Plummer-Vinson syndrome**, a condition whose underlying cause is chronic iron deficiency, but this specific application is currently supported only by mechanistic reasoning — **no dedicated clinical trials or published literature** were found for this indication.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not specified in the available registry text (data gap); ferrous gluconate is a well-established iron salt used for treatment/prevention of iron-deficiency anemia |
-| Predicted New Indication | Plummer-Vinson syndrome |
-| TxGNN Prediction Score | 99.94% |
-| Evidence Level | L4 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 7 |
-| Recommended Decision | Proceed with Guardrails |
+Ferrous gluconate ialah garam besi oral standard yang digunakan untuk merawat dan mencegah anemia kekurangan besi. Model TxGNN meramalkan ia mungkin juga berkesan untuk **sindrom Plummer-Vinson**, suatu keadaan yang penyebab asalnya ialah kekurangan besi kronik, tetapi aplikasi khusus ini pada masa ini hanya disokong oleh penaakulan mekanik — **tiada percubaan klinikal atau literatur terbitan khusus** ditemui untuk petunjukan ini.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Ringkas
 
-Detailed mechanism-of-action data for ferrous gluconate is not currently available in this dataset. Based on known pharmacology, ferrous gluconate is an oral iron salt that replenishes iron stores and supports hemoglobin synthesis — its efficacy in correcting iron-deficiency anemia is well established and mechanistically may be applicable to any condition rooted in chronic iron deficiency.
-
-Plummer-Vinson syndrome (also known as Paterson-Brown-Kelly syndrome) is a classic example: its core etiology is long-standing iron-deficiency anemia, and oral or injectable iron supplementation is the current textbook standard of care, used to correct the deficiency and relieve associated esophageal web formation and dysphagia. The mechanistic link between ferrous gluconate and this indication is therefore very strong.
-
-However, this represents an established standard of care rather than a novel repurposing hypothesis. This dataset does not include any clinical trials or literature specifically indexed for Plummer-Vinson syndrome, which more likely reflects a database coverage gap than a true absence of clinical evidence — the underlying rationale (treating iron deficiency) is not in dispute. Other TxGNN candidates for this drug (e.g., vitamin B12/folate-independent megaloblastic anemia, non-syndromic esophageal malformation, biotin metabolic disease) were assessed as mechanistically implausible or contradictory and are recommended for **Hold**.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered
+| Item | Kandungan |
+|------|----------|
+| Petunjukan Asal | Tidak ditentukan dalam teks rejistri yang tersedia (jurang data); ferrous gluconate ialah garam besi yang mantap digunakan untuk merawat/mencegah anemia kekurangan besi |
+| Petunjukan Baru yang Diramalkan | Sindrom Plummer-Vinson |
+| Skor Ramalan TxGNN | 99.94% |
+| Tahap Bukti | L4 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 7 |
+| Keputusan yang Dicadangkan | Teruskan dengan Pagar Keselamatan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available
+Data mekanisme tindakan terperinci untuk ferrous gluconate tidak tersedia pada masa ini dalam set data ini. Berdasarkan farmakoloji yang diketahui, ferrous gluconate ialah garam besi oral yang mengisi semula simpanan besi dan menyokong sintesis hemoglobin — keberkesanannya dalam membetulkan anemia kekurangan besi telah ditubuhkan dengan baik dan secara mekanik mungkin boleh digunakan untuk sebarang keadaan berakar pada kekurangan besi kronik.
 
----
+Sindrom Plummer-Vinson (juga dikenali sebagai sindrom Paterson-Brown-Kelly) ialah contoh klasik: etiologi terasnya ialah anemia kekurangan besi yang berlarutan, dan suplementasi besi lisan atau boleh suntik ialah standard penjagaan textbook semasa, digunakan untuk membetulkan kekurangan dan melegakan pembentukan jaringan esofageal dan disfagia yang berkaitan. Pautan mekanik antara ferrous gluconate dan petunjukan ini oleh itu sangat kuat.
 
-## Malaysia Market Information
-
-Ferrous gluconate currently holds **7 active marketing authorizations** in Malaysia (market status: Marketed). Detailed license-level information (authorization numbers, product names, dosage forms, and approved-indication text) is not available in the current dataset and will need to be pulled directly from NPRA records to complete this section.
+Walau bagaimanapun, ini mewakili standard penjagaan yang ditubuhkan bukan hipotesis pengubahsuaian tujuan baru. Set data ini tidak termasuk sebarang percubaan klinikal atau literatur yang diindeks khusus untuk sindrom Plummer-Vinson, yang lebih berkemungkinan mencerminkan jurang liputan pangkalan data daripada ketiadaan sebenar bukti klinikal — rasional asas (merawat kekurangan besi) tidak dipertikaikan. Calon TxGNN lain untuk ubat ini (cth., anemia megaloblastik bebas vitamin B12/folat, malformasi esofageal bukan sindrom, penyakit metabolik biotin) telah dinilai sebagai tidak munasabah secara mekanik atau bercanggah dan dicadangkan untuk **Tahan**.
 
 ---
 
-## Safety Considerations
+## Bukti Percubaan Klinikal
 
-Please refer to the package insert for safety information.
-
-No key warnings, contraindications, or drug-drug interaction data are currently available for this drug (DDI search status: not found). Notably, TFDA/NPRA package-insert warnings and contraindications are flagged as a **Blocking** data gap (DG001) — this must be resolved before a formal safety review (S1) can be considered complete.
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Proceed with Guardrails**
+Pada masa ini tiada literatur berkaitan yang tersedia
 
-**Rationale:**
-The mechanistic rationale linking iron supplementation to Plummer-Vinson syndrome is strong and consistent with established clinical practice, but it is unsupported by any indication-specific trials or literature in this dataset (Evidence Level L4), and a blocking safety data gap remains open.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert (warnings, contraindications) — currently blocking safety review (DG001)
-- DrugBank mechanism-of-action data (DG002)
-- Malaysia license-level detail (product names, dosage forms, approved indication text)
-- Targeted literature/clinical evidence search specific to Plummer-Vinson syndrome to confirm whether the current absence of hits reflects a true evidence gap or a search/coverage limitation
+## Maklumat Pasaran Malaysia
+
+Ferrous gluconate pada masa ini memegang **7 kebenaran pemasaran aktif** di Malaysia (status pasaran: Dipasarkan). Maklumat tahap lesen terperinci (nombor kebenaran, nama produk, bentuk dos, dan teks petunjukan yang diluluskan) tidak tersedia dalam set data semasa dan perlu diambil terus daripada rekod NPRA untuk melengkapkan bahagian ini.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk kepada sisipan bungkus untuk maklumat keselamatan.
+
+Tiada amaran utama, kontrarindikasi, atau data interaksi ubat-ubat pada masa ini tersedia untuk ubat ini (status carian DDI: tidak ditemui). Terutamanya, amaran sisipan bungkus TFDA/NPRA dan kontrarindikasi ditandakan sebagai jurang data **Halangan** (DG001) — ini mesti diselesaikan sebelum semakan keselamatan formal (S1) boleh dianggap lengkap.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Teruskan dengan Pagar Keselamatan**
+
+**Rasional:**
+Rasional mekanik yang menghubungkan suplementasi besi kepada sindrom Plummer-Vinson adalah kuat dan konsisten dengan amalan klinikal yang ditubuhkan, tetapi ia tidak disokong oleh sebarang percubaan khusus petunjukan atau literatur dalam set data ini (Tahap Bukti L4), dan jurang data keselamatan halangan tetap terbuka.
+
+**Untuk teruskan, yang berikut diperlukan:**
+- Sisipan bungkus TFDA/NPRA (amaran, kontrarindikasi) — pada masa ini menghalang semakan keselamatan (DG001)
+- Data mekanisme tindakan DrugBank (DG002)
+- Butiran tahap lesen Malaysia (nama produk, bentuk dos, teks petunjukan yang diluluskan)
+- Carian bukti literatur/klinikal yang disasarkan khusus kepada sindrom Plummer-Vinson untuk mengesahkan sama ada ketiadaan semasa hasil mencerminkan jurang bukti sebenar atau had pencarian/liputan
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

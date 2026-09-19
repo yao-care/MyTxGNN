@@ -29,90 +29,91 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Bendamustine Hydrochloride: Drug Repurposing Evaluation Report
+# Bendamustine Hydrochloride: Laporan Penilaian Ubat Repurposing
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Bendamustine hydrochloride is an alkylating antineoplastic agent used primarily for the treatment of chronic lymphocytic leukaemia (CLL) and indolent B-cell non-Hodgkin lymphoma. The TxGNN model currently has **no predicted new indications** for this drug. The evidence pack contains **significant data gaps** — including missing DrugBank ID, MOA, licence details, and safety information — that must be resolved before any repurposing evaluation can proceed.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not available in evidence pack (known: CLL, indolent NHL) |
-| Predicted New Indication | None — no TxGNN predictions generated |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 — Model prediction not available |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 10 |
-| Recommended Decision | **Hold** |
+Bendamustine hydrochloride ialah agen antineoplastik pengalkilan yang digunakan terutamanya untuk rawatan leukaemia limfositik kronik (CLL) dan limfoma bukan-Hodgkin sel B tak beragresif. Model TxGNN pada masa ini **tiada ramalan indikasi baru** untuk ubat ini. Pakej bukti mengandungi **jurang data yang ketara** — termasuk ID DrugBank yang hilang, MOA, butiran lesen, dan maklumat keselamatan — yang mesti diselesaikan sebelum sebarang penilaian repurposing dapat diteruskan.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Pantas
 
-> Currently, no TxGNN prediction has been generated for Bendamustine Hydrochloride, so a mechanistic plausibility assessment cannot be performed.
-
-Based on general pharmacological knowledge, bendamustine is a unique bifunctional alkylating agent that combines properties of both an alkylating agent (nitrogen mustard group) and a purine analogue (benzimidazole ring). This dual mechanism causes DNA cross-linking, strand breaks, and disruption of mitotic checkpoints, leading to apoptosis in rapidly dividing cells. It has demonstrated clinical efficacy in CLL, indolent B-cell NHL, and multiple myeloma.
-
-The absence of a TxGNN prediction may be due to a missing DrugBank ID mapping (currently `null`), which would prevent the drug from being matched within the knowledge graph. **Resolving the DrugBank mapping is a prerequisite** for generating repurposing candidates.
-
----
-
-## Malaysia Market Information
-
-The evidence pack reports **10 registered licences** with market status "Marketed" (Marketed), however all licence detail fields are empty. Licence-level data needs to be re-collected.
-
-| Item | Status |
-|------|------|
-| Total Licences | 10 |
-| Licence Details Available | ✗ Not available — all fields empty |
-| Action Required | Re-query NPRA database for complete licence records |
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Tidak tersedia dalam pakej bukti (diketahui: CLL, NHL tak beragresif) |
+| Indikasi Baru Diramal | Tiada — tiada ramalan TxGNN dijana |
+| Skor Ramalan TxGNN | N/A |
+| Tahap Bukti | L5 — Ramalan model tidak tersedia |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 10 |
+| Keputusan Disyorkan | **Tahan** |
 
 ---
 
-## Cytotoxicity
+## Mengapa Ramalan Ini Munasabah?
 
-Bendamustine hydrochloride is a known cytotoxic antineoplastic agent (alkylating agent class). The following assessment is based on established pharmacological knowledge, as the evidence pack does not contain DrugBank toxicity data.
+> Pada masa ini, tiada ramalan TxGNN telah dijana untuk Bendamustine Hydrochloride, jadi penilaian kemungkinan mekanistik tidak dapat dilakukan.
 
-| Item | Content |
-|------|------|
-| Cytotoxicity Classification | Conventional cytotoxic (Bifunctional alkylating agent / Purine analogue hybrid) |
-| Myelosuppression Risk | **High** — neutropenia, thrombocytopenia, and anaemia are dose-limiting toxicities |
-| Emetogenicity Classification | Low to moderate |
-| Monitoring Items | CBC with differential (before each cycle), liver function (ALT, AST, bilirubin), renal function (creatinine, eGFR), infections signs |
-| Handling Protection | Must follow cytotoxic drug handling regulations (closed-system transfer, PPE, spill kit) |
+Berdasarkan pengetahuan farmakologi umum, bendamustine ialah agen pengalkilan bifungsional unik yang menggabungkan sifat-sifat kedua-dua agen pengalkilan (kumpulan nitrogen mustard) dan analog purin (gelang benzimidazol). Mekanisme dwi ini menyebabkan sambung silang DNA, pecahan helai, dan gangguan titik pemeriksaan mitotik, yang membawa kepada apoptosis dalam sel yang cepat membelah. Ia telah menunjukkan keberkesanan klinikal dalam CLL, limfoma bukan-Hodgkin sel B tak beragresif, dan multiple myeloma.
+
+Ketiadaan ramalan TxGNN mungkin disebabkan oleh pemetaan ID DrugBank yang hilang (pada masa ini `null`), yang akan menghalang ubat daripada dipadankan dalam graf pengetahuan. **Menyelesaikan pemetaan DrugBank adalah prasyarat** untuk menjana calon repurposing.
 
 ---
 
-## Safety Considerations
+## Maklumat Pasaran Malaysia
 
-> Please refer to the package insert for safety information.
+Pakej bukti melaporkan **10 lesen terdaftar** dengan status pasaran "Dipasarkan" (Dipasarkan), namun semua medan butiran lesen adalah kosong. Data peringkat lesen perlu dikumpul semula.
+
+| Item | Keadaan |
+|------|--------|
+| Jumlah Lesen | 10 |
+| Butiran Lesen Tersedia | ✗ Tidak tersedia — semua medan kosong |
+| Tindakan Diperlukan | Pertanyaan semula pangkalan data NPRA untuk rekod lesen lengkap |
+
+---
+
+## Sitotoksisiti
+
+Bendamustine hydrochloride ialah agen antineoplastik sitotoksik yang diketahui (kelas agen pengalkilan). Penilaian berikut adalah berdasarkan pengetahuan farmakologi yang telah ditetapkan, kerana pakej bukti tidak mengandungi data toksisiti DrugBank.
+
+| Item | Kandungan |
+|------|----------|
+| Pengelasan Sitotoksisiti | Sitotoksik konvensional (Agen pengalkilan bifungsional / Hibrid analog purin) |
+| Risiko Penindasan Sumsum | **Tinggi** — neutropenia, trombositopenia, dan anemia adalah toksisiti yang mengehadkan dosis |
+| Pengelasan Emetogenisiti | Rendah hingga sederhana |
+| Item Pemantauan | CBC dengan pembezaan (sebelum setiap kitaran), fungsi hati (ALT, AST, bilirubin), fungsi buah pinggang (kreatinin, eGFR), tanda-tanda jangkitan |
+| Perlindungan Pengendalian | Mesti mematuhi peraturan pengendalian ubat sitotoksik (pemindahan sistem tertutup, PPE, kit tumpahan) |
+
+---
+
+## Pertimbangan Keselamatan
+
+> Sila rujuk sisipan pakej untuk maklumat keselamatan.
 >
-> **Note:** The evidence pack contains no usable safety data — key warnings, contraindications, and drug–drug interactions are all marked as data gaps. This is classified as a **Blocking** severity gap (DG001) that prevents entry into Stage 1 safety assessment.
+> **Nota:** Pakej bukti tidak mengandungi data keselamatan yang boleh digunakan — amaran utama, kontraindikasi, dan interaksi ubat–ubat semuanya ditandai sebagai jurang data. Ini diklasifikasikan sebagai jurang keterukan **Halangan** (DG001) yang menghalang masuk ke penilaian keselamatan Peringkat 1.
 
 ---
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-No TxGNN repurposing prediction exists for Bendamustine Hydrochloride, and multiple critical data gaps (DrugBank ID, MOA, safety profile, licence details) prevent any meaningful evaluation. The drug cannot proceed to repurposing assessment in its current state.
+**Alasan:**
+Tiada ramalan repurposing TxGNN wujud untuk Bendamustine Hydrochloride, dan pelbagai jurang data kritikal (ID DrugBank, MOA, profil keselamatan, butiran lesen) menghalang sebarang penilaian bermakna. Ubat ini tidak dapat meneruskan penilaian repurposing dalam keadaan semasanya.
 
-**To proceed, the following is needed:**
+**Untuk meneruskan, yang berikut diperlukan:**
 
-1. **DrugBank ID mapping** (DG002 — High severity): Query DrugBank API for "Bendamustine" to obtain the DrugBank ID (expected: DB06769) and integrate it into the knowledge graph for TxGNN prediction
-2. **Mechanism of action data** (DG002 — High severity): Retrieve detailed MOA, targets, and pathway information from DrugBank
-3. **NPRA licence details**: Re-query the NPRA database to populate all 10 licence records with product names, dosage forms, manufacturers, and approved indications
-4. **Safety profile** (DG001 — Blocking): Download and parse the package insert PDF from the regulatory authority website to extract key warnings, contraindications, and drug interactions
-5. **Re-run TxGNN prediction**: Once the DrugBank ID is mapped, re-execute the knowledge graph and deep learning prediction pipelines to generate repurposing candidates
+1. **Pemetaan ID DrugBank** (DG002 — Keterukan Tinggi): Pertanyaan API DrugBank untuk "Bendamustine" untuk mendapatkan ID DrugBank (dijangka: DB06769) dan integrasikannya ke dalam graf pengetahuan untuk ramalan TxGNN
+2. **Data mekanisme tindakan** (DG002 — Keterukan Tinggi): Ambil maklumat MOA terperinci, sasaran, dan laluan daripada DrugBank
+3. **Butiran lesen NPRA**: Pertanyaan semula pangkalan data NPRA untuk mengisi semua 10 rekod lesen dengan nama produk, bentuk dos, pengilang, dan indikasi yang diluluskan
+4. **Profil keselamatan** (DG001 — Halangan): Muat turun dan huraikan PDF sisipan pakej daripada laman web pihak berkuasa kawal selia untuk mengeluarkan amaran utama, kontraindikasi, dan interaksi ubat
+5. **Lari semula ramalan TxGNN**: Setelah ID DrugBank dipetakan, laksanakan semula saluran ramalan graf pengetahuan dan pembelajaran mendalam untuk menjana calon repurposing
 
 ---
 
-*Disclaimer: This report is for research purposes only and does not constitute medical advice. Any drug repurposing candidates require clinical validation before application.*
+*Penafian: Laporan ini adalah untuk tujuan penyelidikan sahaja dan tidak merupakan nasihat perubatan. Sebarang calon repurposing ubat memerlukan pengesahan klinikal sebelum aplikasi.*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

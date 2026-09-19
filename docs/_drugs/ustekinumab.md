@@ -29,75 +29,76 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Ustekinumab: From Plaque Psoriasis to Dermatitis
+# Ustekinumab: Dari Psoriasis Plak ke Dermatitis
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Ustekinumab is a human anti-IL-12/23 monoclonal antibody originally established for plaque psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis. The TxGNN model predicts it may also be effective for **Dermatitis** (predominantly evaluated as atopic dermatitis in the available evidence), with **7 clinical trials** and **20 publications** currently supporting this direction, including two completed Phase 2 RCTs testing ustekinumab directly in atopic dermatitis.
+Ustekinumab adalah antibodi monoklon manusia anti-IL-12/23 yang asalnya diketahui untuk psoriasis plak, artritis psoriasis, penyakit Crohn dan kolitis ulseratif. Model TxGNN meramalkan ia mungkin juga berkesan untuk **Dermatitis** (terutamanya dinilai sebagai dermatitis atopik dalam bukti yang tersedia), dengan **7 uji kaji klinikal** dan **20 publikasi** kini menyokong arah ini, termasuk dua RCT Fasa 2 yang telah siap menguji ustekinumab secara langsung dalam dermatitis atopik.
 
-## Quick Overview
+## Gambaran Keseluruhan Cepat
 
-| Item | Content |
-|------|------|
-| Original Indication | Plaque psoriasis, psoriatic arthritis, Crohn's disease, ulcerative colitis (per literature evidence; NPRA license indication text not yet available) |
-| Predicted New Indication | Dermatitis (atopic dermatitis) |
-| TxGNN Prediction Score | 99.99% |
-| Evidence Level | L2 (completed Phase 2 RCTs, no Phase 3 RCT specific to this indication) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 8 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Psoriasis plak, artritis psoriasis, penyakit Crohn, kolitis ulseratif (mengikut bukti sastera; teks indikasi lesen NPRA belum tersedia) |
+| Indikasi Baharu Yang Diramalkan | Dermatitis (dermatitis atopik) |
+| Skor Ramalan TxGNN | 99.99% |
+| Tahap Bukti | L2 (RCT Fasa 2 yang telah siap, tiada RCT Fasa 3 khusus untuk indikasi ini) |
+| Status Pasaran Malaysia | ✓ Sudah dipasarkan |
+| Bilangan Pendaftaran | 8 |
+| Keputusan yang Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data is not available from the NPRA regulatory record for ustekinumab. Based on the literature evidence collected in this pack, ustekinumab is a fully human IgG1 monoclonal antibody that binds the shared p40 subunit of interleukin-12 and interleukin-23, blocking Th1/Th17/Th22-mediated inflammatory signaling. Its efficacy in plaque psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis has been established through this IL-12/23 blockade mechanism.
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia daripada rekod kawal selia NPRA untuk ustekinumab. Berdasarkan bukti sastera yang dikumpul dalam paket ini, ustekinumab adalah antibodi monoklon IgG1 manusia sepenuhnya yang mengikat subunit p40 yang dikongsi interleukin-12 dan interleukin-23, menghalang isyarat peradangan Th1/Th17/Th22. Keberkesan ustekinumab dalam psoriasis plak, artritis psoriasis, penyakit Crohn dan kolitis ulseratif telah ditegakkan melalui mekanisme pemblokiran IL-12/23 ini.
 
-Psoriasis and atopic dermatitis are both chronic inflammatory skin diseases with overlapping — though not identical — Th17/Th22/Th2 inflammatory pathways. Because ustekinumab already has a proven safety and efficacy record in psoriasis (a closely related inflammatory dermatosis), extending its mechanism to atopic dermatitis is biologically plausible, and this is reflected in the fact that ustekinumab has already been directly tested in AD patients rather than remaining a purely theoretical extrapolation.
+Psoriasis dan dermatitis atopik adalah kedua-dua penyakit kulit peradangan kronik dengan laluan peradangan Th17/Th22/Th2 yang bertindih — walaupun tidak sama — Kerana ustekinumab sudah mempunyai rekod keselamatan dan keberkesanan yang terbukti dalam psoriasis (suatu dermatosis peradangan yang hampir serupa), memanjangkan mekanismenya kepada dermatitis atopik adalah munasabah secara biologi, dan ini tercermin dalam fakta bahawa ustekinumab sudah telah diuji secara langsung dalam pesakit AD daripada kekal suatu ekstrapolasi teori semata-mata.
 
-This mechanistic rationale is supported by two completed Phase 2 RCTs (NCT01806662, NCT01945086) specifically evaluating ustekinumab in atopic dermatitis, along with multiple systematic reviews and real-world evidence studies, making this one of the better-supported TxGNN predictions rather than a purely algorithm-driven signal.
+Nisbah mekanik ini disokong oleh dua RCT Fasa 2 yang telah siap (NCT01806662, NCT01945086) yang secara khusus menilai ustekinumab dalam dermatitis atopik, bersama dengan pelbagai ulasan sistematik dan kajian bukti dunia nyata, menjadikan ini salah satu ramalan TxGNN yang lebih disokong daripada isyarat yang didorong algoritma semata-mata.
 
-## Clinical Trial Evidence
+## Bukti Uji Kaji Klinikal
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Uji Kaji | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT01945086](https://clinicaltrials.gov/study/NCT01945086) | Phase 2 | Completed | 79 | Randomized, double-blind, placebo-controlled study of ustekinumab in adult Japanese patients with severe atopic dermatitis |
-| [NCT01806662](https://clinicaltrials.gov/study/NCT01806662) | Phase 2 | Completed | 32 | Randomized pilot study of ustekinumab in chronic AD patients with sub-optimal response to prior therapy |
-| [NCT02074982](https://clinicaltrials.gov/study/NCT02074982) | Phase 3 | Completed | 676 | CLEAR study: secukinumab vs. ustekinumab efficacy/safety in moderate-to-severe plaque psoriasis (comparator evidence) |
-| [NCT05535738](https://clinicaltrials.gov/study/NCT05535738) | Phase 2/3 | Recruiting | 45 | Biologic medications tested via suction-blister contact dermatitis model to study skin inflammation |
-| [NCT07352566](https://clinicaltrials.gov/study/NCT07352566) | Phase 4 | Not yet recruiting | 10 | In situ microdevice testing FDA-approved AD/psoriasis medications directly on skin |
-| [NCT07041112](https://clinicaltrials.gov/study/NCT07041112) | N/A | Completed | 1000 | Pharmacogenetic observational study of 10-year biologic therapy survival in cutaneous psoriasis/psoriatic arthritis |
-| [NCT01356758](https://clinicaltrials.gov/study/NCT01356758) | N/A | Completed | 126 | Cardiovascular risk assessment in severe psoriasis patients treated with biologic agents |
+| [NCT01945086](https://clinicaltrials.gov/study/NCT01945086) | Fasa 2 | Selesai | 79 | Kajian rawak, buta ganda, terkontrol plasebo ustekinumab dalam pesakit dewasa Jepun dengan dermatitis atopik teruk |
+| [NCT01806662](https://clinicaltrials.gov/study/NCT01806662) | Fasa 2 | Selesai | 32 | Kajian pelopor rawak ustekinumab dalam pesakit AD kronik dengan tindak balas suboptimal kepada terapi sebelumnya |
+| [NCT02074982](https://clinicaltrials.gov/study/NCT02074982) | Fasa 3 | Selesai | 676 | Kajian CLEAR: keberkesanan/keselamatan secukinumab vs. ustekinumab dalam psoriasis plak sederhana hingga teruk (bukti pembanding) |
+| [NCT05535738](https://clinicaltrials.gov/study/NCT05535738) | Fasa 2/3 | Merekrut | 45 | Ubat biologi yang diuji melalui model dermatitis sentuh blister sedapan untuk mengkaji peradangan kulit |
+| [NCT07352566](https://clinicaltrials.gov/study/NCT07352566) | Fasa 4 | Belum merekrut | 10 | Ujian mikroperanti di situ ubat AD/psoriasis yang diluluskan FDA secara langsung pada kulit |
+| [NCT07041112](https://clinicaltrials.gov/study/NCT07041112) | T/A | Selesai | 1000 | Kajian farmakoenetik pemerhatian kemandirian terapi biologi 10 tahun dalam psoriasis kutaneus/artritis psoriasis |
+| [NCT01356758](https://clinicaltrials.gov/study/NCT01356758) | T/A | Selesai | 126 | Penilaian risiko kardiovaskular dalam pesakit psoriasis teruk yang dirawat dengan agen biologi |
 
-## Literature Evidence
+## Bukti Sastera
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [27304428](https://pubmed.ncbi.nlm.nih.gov/27304428/) | 2017 | RCT | Experimental Dermatology | Phase II double-blind, placebo-controlled study; ustekinumab (IL-12/IL-23p40 antagonist) assessed in moderate-to-severe AD |
-| [28338223](https://pubmed.ncbi.nlm.nih.gov/28338223/) | 2017 | RCT | British Journal of Dermatology | Randomized, double-blind, placebo-controlled Phase II study of ustekinumab in Japanese severe AD patients |
-| [33074565](https://pubmed.ncbi.nlm.nih.gov/33074565/) | 2021 | Systematic Review | Allergy | EAACI evidence review of systemic treatments for moderate-to-severe AD |
-| [29164954](https://pubmed.ncbi.nlm.nih.gov/29164954/) | 2018 | Systematic Review | J Dermatolog Treat | Systematic review of ustekinumab efficacy/safety in AD treatment |
-| [29098604](https://pubmed.ncbi.nlm.nih.gov/29098604/) | 2018 | Systematic Review/Meta-analysis | Am J Clin Dermatol | Meta-analysis evaluating whether biologics are efficacious in AD |
-| [33849369](https://pubmed.ncbi.nlm.nih.gov/33849369/) | 2022 | Real-world evidence | J Dermatolog Treat | Real-world effectiveness analysis of ustekinumab in AD patients |
-| [36208443](https://pubmed.ncbi.nlm.nih.gov/36208443/) | 2022 | Review | Dermatologic Therapy | Review of off-label uses of ustekinumab (Stelara), including AD |
-| [39201826](https://pubmed.ncbi.nlm.nih.gov/39201826/) | 2024 | Narrative Review | Children (Basel) | Narrative review of biologics/small molecules for pediatric AA, psoriasis, AD, HS |
-| [31514420](https://pubmed.ncbi.nlm.nih.gov/31514420/) | 2019 | Review | Children (Basel) | Review of biologic treatment options for pediatric psoriasis and AD |
-| [29469709](https://pubmed.ncbi.nlm.nih.gov/29469709/) | 2017 | Case report | Dermatology Online Journal | Ustekinumab used to target granulomatous dermatitis in recalcitrant ulcerative necrobiosis lipoidica |
+| [27304428](https://pubmed.ncbi.nlm.nih.gov/27304428/) | 2017 | RCT | Experimental Dermatology | Kajian Fasa II buta ganda, terkontrol plasebo; ustekinumab (antagonis IL-12/IL-23p40) dinilai dalam AD sederhana hingga teruk |
+| [28338223](https://pubmed.ncbi.nlm.nih.gov/28338223/) | 2017 | RCT | British Journal of Dermatology | Kajian Fasa II rawak, buta ganda, terkontrol plasebo ustekinumab dalam pesakit AD teruk Jepun |
+| [33074565](https://pubmed.ncbi.nlm.nih.gov/33074565/) | 2021 | Ulasan Sistematik | Allergy | Ulasan bukti EAACI bagi rawatan sistemik AD sederhana hingga teruk |
+| [29164954](https://pubmed.ncbi.nlm.nih.gov/29164954/) | 2018 | Ulasan Sistematik | J Dermatolog Treat | Ulasan sistematik keberkesanan/keselamatan ustekinumab dalam rawatan AD |
+| [29098604](https://pubmed.ncbi.nlm.nih.gov/29098604/) | 2018 | Ulasan Sistematik/Meta-analisis | Am J Clin Dermatol | Meta-analisis menilai sama ada ubat biologi berkesan dalam AD |
+| [33849369](https://pubmed.ncbi.nlm.nih.gov/33849369/) | 2022 | Bukti dunia nyata | J Dermatolog Treat | Analisis keberkesanan dunia nyata ustekinumab dalam pesakit AD |
+| [36208443](https://pubmed.ncbi.nlm.nih.gov/36208443/) | 2022 | Ulasan | Dermatologic Therapy | Ulasan penggunaan luar label ustekinumab (Stelara), termasuk AD |
+| [39201826](https://pubmed.ncbi.nlm.nih.gov/39201826/) | 2024 | Ulasan Naratif | Children (Basel) | Ulasan naratif ubat biologi/molekul kecil untuk AA pediatrik, psoriasis, AD, HS |
+| [31514420](https://pubmed.ncbi.nlm.nih.gov/31514420/) | 2019 | Ulasan | Children (Basel) | Ulasan pilihan rawatan biologi untuk psoriasis dan AD pediatrik |
+| [29469709](https://pubmed.ncbi.nlm.nih.gov/29469709/) | 2017 | Laporan kes | Dermatology Online Journal | Ustekinumab digunakan untuk menyasarkan dermatitis granulomatous dalam necrobiosis lipoidica ulseratif yang sukar dirujuk |
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisiaran paket untuk maklumat keselamatan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-Efficacy evidence is moderately encouraging — two completed Phase 2 RCTs directly testing ustekinumab in atopic dermatitis, supported by systematic reviews and real-world data — but this only reaches Evidence Level L2, and the TFDA/NPRA package-insert warnings and contraindications data (DG001, Blocking severity) are missing, which per the evidence pack blocks entry into the S1 safety initial review stage.
+**Nisbah:**
+Bukti keberkesanan agak menggalakkan — dua RCT Fasa 2 yang telah siap menguji ustekinumab secara langsung dalam dermatitis atopik, disokong oleh ulasan sistematik dan data bukti dunia nyata — tetapi ini hanya mencapai Tahap Bukti L2, dan data amaran/kontraindikasi paket-sisipan TFDA/NPRA (DG001, Blocking severity) hilang, yang mengikut paket bukti menghalang masuk ke peringkat semakan keselamatan awal S1.
 
-**To proceed, the following is needed:**
-- NPRA/package insert warnings, contraindications, and drug interaction data (DG001) — required before any safety-stage review
-- Detailed mechanism of action documentation from DrugBank (DG002) to formally support the mechanistic rationale
-- Confirmation of whether the two completed Phase 2 AD trials met their primary efficacy endpoints (result-level detail not available in current evidence pack)
-- Consideration of a Phase 3 trial in atopic dermatitis to raise evidence level beyond L2
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data amaran NPRA/paket-sisipan, kontraindikasi, dan interaksi ubat (DG001) — diperlukan sebelum sebarang semakan peringkat keselamatan
+- Dokumentasi mekanisme tindakan terperinci daripada DrugBank (DG002) untuk menyokong nisbah mekanik secara formal
+- Pengesahan sama ada dua uji kaji AD Fasa 2 yang telah siap memenuhi titik akhir keberkesanan utama mereka (butiran peringkat hasil tidak tersedia dalam paket bukti semasa)
+- Pertimbangan uji kaji Fasa 3 dalam dermatitis atopik untuk meningkatkan tahap bukti melebihi L2
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

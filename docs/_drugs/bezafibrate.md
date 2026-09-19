@@ -29,93 +29,94 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Bezafibrate: Drug Repurposing Evaluation Report
+# Bezafibrate: Laporan Penilaian Penggunaan Semula Ubat
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Bezafibrate is a fibrate-class lipid-lowering agent, widely used for the treatment of hyperlipidaemia and hypertriglyceridaemia. The current evidence pack contains **no TxGNN-predicted new indications**, and critical data gaps (mechanism of action, safety profile) remain unresolved, preventing a meaningful repurposing assessment at this time.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | *(Not specified in evidence pack — see note below)* |
-| Predicted New Indication | **None** (no TxGNN predictions available) |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | **L5** — Model prediction not yet generated |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 1 |
-| Recommended Decision | **Hold** |
-
-> **Note on Original Indication:** The single registered licence in the evidence pack has an empty `approved_indication_text` field. Based on established pharmacological knowledge, Bezafibrate is a fibrate indicated for hyperlipidaemia and mixed dyslipidaemia.
+Bezafibrate ialah ejen perendah lipid kelas fibrat, digunakan secara meluas untuk rawatan hiperlipidemia dan hipertriglyceridemia. Pek bukti semasa tidak mengandungi **petunjuk baru yang diramalkan oleh TxGNN**, dan jurang data kritikal (mekanisme tindakan, profil keselamatan) tetap tidak diselesaikan, menghalang penilaian penggunaan semula yang bermakna pada masa ini.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Pantas
 
-Currently, **no new indication has been predicted by TxGNN** for Bezafibrate in this evidence pack. The `predicted_indications` array is empty, so a mechanistic plausibility assessment cannot be performed.
+| Item | Kandungan |
+|------|-------|
+| Petunjuk Asal | *(Tidak ditentukan dalam pek bukti — lihat nota di bawah)* |
+| Petunjuk Baru yang Diramalkan | **Tiada** (tiada ramalan TxGNN tersedia) |
+| Skor Ramalan TxGNN | N/A |
+| Tahap Bukti | **L5** — Ramalan model belum dihasilkan |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | **Tahan** |
 
-> Detailed mechanism of action data is not available in this evidence pack (flagged as Data Gap DG002). Based on established pharmacological knowledge, Bezafibrate is a pan-PPAR (peroxisome proliferator-activated receptor) agonist — primarily PPARα, with additional activity on PPARγ and PPARδ. It reduces triglycerides, raises HDL cholesterol, and has anti-inflammatory and insulin-sensitising properties. These pleiotropic effects make Bezafibrate a potentially interesting candidate for repurposing once TxGNN predictions become available.
-
-Once TxGNN predictions are generated, the fibrate mechanism — particularly its broad PPAR modulation — should be evaluated for relevance to metabolic, inflammatory, and hepatobiliary diseases (e.g., primary biliary cholangitis, where Bezafibrate has emerging clinical evidence internationally).
-
----
-
-## Clinical Trial Evidence
-
-Currently no TxGNN-predicted indication exists for this drug. Clinical trial evidence cannot be mapped without a target indication.
-
----
-
-## Literature Evidence
-
-Currently no TxGNN-predicted indication exists for this drug. Literature evidence cannot be mapped without a target indication.
+> **Nota tentang Petunjuk Asal:** Lesen berdaftar tunggal dalam pek bukti mempunyai medan `approved_indication_text` yang kosong. Berdasarkan pengetahuan farmakologi yang telah ditetapkan, Bezafibrate ialah fibrat yang ditunjukkan untuk hiperlipidemia dan dislipidemik bercampur.
 
 ---
 
-## Malaysia Market Information
+## Mengapa Ramalan Ini Munasabah?
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+Pada masa ini, **tiada petunjuk baru yang telah diramalkan oleh TxGNN** untuk Bezafibrate dalam pek bukti ini. Tatasusunan `predicted_indications` kosong, jadi penilaian kebolehjelasan mekanistik tidak dapat dilakukan.
+
+> Data mekanisme tindakan terperinci tidak tersedia dalam pek bukti ini (ditandai sebagai Jurang Data DG002). Berdasarkan pengetahuan farmakologi yang telah ditetapkan, Bezafibrate ialah agonis pan-PPAR (reseptor diaktifkan oleh pendarab proliferasi peroksisom) — terutamanya PPARα, dengan aktiviti tambahan pada PPARγ dan PPARδ. Ia mengurangkan trigliserid, meningkatkan kolesterol HDL, dan mempunyai sifat anti-radang dan peka insulin. Kesan pleiotropik ini menjadikan Bezafibrate calon penggunaan semula yang berpotensi menarik setelah ramalan TxGNN tersedia.
+
+Setelah ramalan TxGNN dihasilkan, mekanisme fibrat — terutamanya modulasi PPAR yang luas — harus dinilai untuk relevansi dengan penyakit metabolik, radang, dan hepatobilier (cth., kolangiitis bilier primer, di mana Bezafibrate mempunyai bukti klinikal yang muncul di peringkat antarabangsa).
+
+---
+
+## Bukti Ujian Klinikal
+
+Pada masa ini, tiada petunjuk yang diramalkan oleh TxGNN untuk ubat ini. Bukti ujian klinikal tidak dapat dipetakan tanpa petunjuk sasaran.
+
+---
+
+## Bukti Literatur
+
+Pada masa ini, tiada petunjuk yang diramalkan oleh TxGNN untuk ubat ini. Bukti literatur tidak dapat dipetakan tanpa petunjuk sasaran.
+
+---
+
+## Maklumat Pasaran Malaysia
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjuk yang Diluluskan |
 |---------|------|------|-----------|
-| *(Not provided)* | *(Not provided)* | *(Not provided)* | *(Not provided)* |
+| *(Tidak disediakan)* | *(Tidak disediakan)* | *(Tidak disediakan)* | *(Tidak disediakan)* |
 
-> **Note:** The evidence pack confirms 1 registered licence with market status "Marketed" (Marketed), but the licence detail fields (authorization number, product name, dosage form, and approved indication) are all empty. This data gap should be remediated by querying the NPRA database directly.
+> **Nota:** Pek bukti mengesahkan 1 lesen berdaftar dengan status pasaran "Dipasarkan" (Dipasarkan), tetapi medan perincian lesen (nombor kebenaran, nama produk, bentuk dos, dan petunjuk yang diluluskan) semuanya kosong. Jurang data ini harus diperbaiki dengan menanyakan pangkalan data NPRA secara langsung.
 
 ---
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-> Please refer to the package insert for safety information.
+> Sila rujuk sisipan paket untuk maklumat keselamatan.
 >
-> All safety fields in this evidence pack are marked as data gaps:
-> - **Key Warnings**: Not available (Data Gap DG001 — Blocking severity)
-> - **Contraindications**: Not available (Data Gap DG001)
-> - **Drug Interactions**: No interactions found in current query
+> Semua medan keselamatan dalam pek bukti ini ditandai sebagai jurang data:
+> - **Amaran Utama**: Tidak tersedia (Jurang Data DG001 — Keterukan Menyekat)
+> - **Kontraindikasi**: Tidak tersedia (Jurang Data DG001)
+> - **Interaksi Ubat**: Tiada interaksi ditemui dalam pertanyaan semasa
 >
-> **DG001 is classified as "Blocking"** — safety data must be obtained before any repurposing assessment can proceed to Stage 1 safety screening.
+> **DG001 diklasifikasikan sebagai "Menyekat"** — data keselamatan mesti diperoleh sebelum sebarang penilaian penggunaan semula dapat diteruskan ke pemeriksaan keselamatan Peringkat 1.
 
 ---
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-This evidence pack is incomplete. No TxGNN-predicted indications have been generated, and critical data gaps (MOA, safety profile, licence details) prevent any meaningful repurposing evaluation. The drug cannot proceed until these foundational data elements are in place.
+**Alasan:**
+Pek bukti ini tidak lengkap. Tiada petunjuk yang diramalkan oleh TxGNN telah dihasilkan, dan jurang data kritikal (MOA, profil keselamatan, perincian lesen) menghalang sebarang penilaian penggunaan semula yang bermakna. Ubat tidak boleh diteruskan sehingga elemen data asas ini tersedia.
 
-**To proceed, the following is needed:**
+**Untuk meneruskan, perkara berikut diperlukan:**
 
-1. **Run TxGNN prediction** — Execute the KG and/or DL prediction pipeline for Bezafibrate (DB01393) to generate candidate indications
-2. **Resolve DG001 (Blocking)** — Obtain package insert warnings and contraindications from the NPRA website or product insert PDF
-3. **Resolve DG002 (High)** — Query DrugBank API for full mechanism of action data
-4. **Complete licence information** — Re-query NPRA for authorisation number, product name, dosage form, and approved indication text
-5. **Re-generate evidence pack** — Once predictions and safety data are available, rebuild the evidence pack and re-evaluate
+1. **Jalankan ramalan TxGNN** — Laksanakan saluran ramalan KG dan/atau DL untuk Bezafibrate (DB01393) untuk menghasilkan petunjuk calon
+2. **Selesaikan DG001 (Menyekat)** — Dapatkan amaran sisipan paket dan kontraindikasi dari laman web NPRA atau PDF sisipan produk
+3. **Selesaikan DG002 (Tinggi)** — Tanya API DrugBank untuk data mekanisme tindakan penuh
+4. **Lengkapkan maklumat lesen** — Tanya semula NPRA untuk nombor kebenaran, nama produk, bentuk dos, dan teks petunjuk yang diluluskan
+5. **Hasilkan semula pek bukti** — Setelah ramalan dan data keselamatan tersedia, binakan semula pek bukti dan dinilai semula
 
 ---
 
-*Disclaimer: This report is for research reference only and does not constitute medical advice. Drug repurposing candidates require clinical validation before application.*
+*Penafian: Laporan ini hanya untuk rujukan penyelidikan dan tidak merupakan nasihat perubatan. Calon penggunaan semula ubat memerlukan pengesahan klinikal sebelum aplikasi.*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

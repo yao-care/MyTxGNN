@@ -29,60 +29,61 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Sorbitol: From Osmotic Laxative/Diuretic Use to Exercise-Induced Malignant Hyperthermia
+# Sorbitol: Dari Penggunaan Laksatif Osmotik/Diuretik kepada Hipertermia Malignan Terinduksi Senaman
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Sorbitol (DrugBank DB01638) is a compound commonly used as an osmotic laxative and osmotic diuretic; its specific original approved indication is not recorded in the Malaysia registration data reviewed here. The TxGNN model predicts a possible link to **Exercise-Induced Malignant Hyperthermia**, with a **99.40%** prediction score, but currently **0 clinical trials** and **0 publications** support this direction.
+Sorbitol (DrugBank DB01638) ialah sebatian yang biasa digunakan sebagai laksatif osmotik dan diuretik osmotik; petunjukan kelulusan asal khususnya tidak dicatat dalam data pendaftaran Malaysia yang telah dikaji di sini. Model TxGNN meramalkan kemungkinan kaitan kepada **Hipertermia Malignan Terinduksi Senaman**, dengan skor ramalan **99.40%**, tetapi pada masa kini **0 ujian klinikal** dan **0 penerbitan** menyokong arah ini.
 
-## Quick Overview
+## Gambaran Keseluruhan Cepat
 
-| Item | Content |
-|------|------|
-| Original Indication | Not recorded in available Malaysia licensing data (commonly used as osmotic laxative/diuretic) |
-| Predicted New Indication | Exercise-Induced Malignant Hyperthermia |
-| TxGNN Prediction Score | 99.40% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|----------|
+| Petunjukan Asal | Tidak dicatat dalam data lesen Malaysia yang tersedia (biasa digunakan sebagai laksatif osmotik/diuretik) |
+| Petunjukan Baru yang Diramalkan | Hipertermia Malignan Terinduksi Senaman |
+| Skor Ramalan TxGNN | 99.40% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 3 |
+| Keputusan yang Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data for sorbitol is not available from the sources reviewed. Based on general pharmacological knowledge, sorbitol acts primarily as an osmotic laxative and osmotic diuretic — drawing water into the bowel or renal tubules via an osmotic gradient effect.
+Pada masa kini, data mekanisme tindakan terperinci untuk sorbitol tidak tersedia daripada sumber yang telah dikaji. Berdasarkan pengetahuan farmakologi umum, sorbitol bertindak terutamanya sebagai laksatif osmotik dan diuretik osmotik — menarik air ke dalam usus atau tubul ginjal melalui kesan kecerunan osmotik.
 
-There is no known or documented pharmacological pathway connecting this osmotic mechanism to the pathophysiology of exercise-induced malignant hyperthermia, which involves dysregulation of the skeletal muscle ryanodine receptor (RYR1) leading to uncontrolled calcium release and a hypermetabolic crisis. The high TxGNN score (99.40%) reflects similarity within the knowledge-graph embedding space rather than a validated or biologically explainable mechanism.
+Tiada laluan farmakologi yang dikenali atau didokumentasikan yang menghubungkan mekanisme osmotik ini kepada patofisiologi hipertermia malignan terinduksi senaman, yang melibatkan disregulasi reseptor ryanodina otot rangka (RYR1) yang membawa kepada pelepasan kalsium yang tidak terkawal dan krisis hipermetabolik. Skor TxGNN yang tinggi (99.40%) mencerminkan kesamaan dalam ruang penyisipan graf pengetahuan dan bukannya mekanisme yang disahkan atau dapat dijelaskan secara biologi.
 
-Given the absence of supporting clinical trials, literature, or a plausible mechanistic rationale, this prediction should be treated as a low-confidence, exploratory signal only, and not as a basis for clinical consideration at this stage.
+Memandangkan ketiadaan ujian klinikal yang menyokong, literatur, atau nisbah mekanistik yang munasabah, ramalan ini harus dianggap sebagai isyarat keyakinan rendah, penerokaan sahaja, dan bukan sebagai asas untuk pertimbangan klinikal pada peringkat ini.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-Currently no related clinical trials registered.
+Pada masa kini tiada ujian klinikal berkaitan yang didaftarkan.
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no related literature available.
+Pada masa kini tiada literatur berkaitan yang tersedia.
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Sorbitol has 3 active registrations under NPRA (market status: Marketed), but detailed product-level information (authorization numbers, product names, dosage forms, approved indication text) was not available in the data collected for this evaluation.
+Sorbitol mempunyai 3 pendaftaran aktif di bawah NPRA (status pasaran: Dipasarkan), tetapi maklumat peringkat produk terperinci (nombor kebenaran, nama produk, bentuk dos, teks petunjukan yang diluluskan) tidak tersedia dalam data yang dikumpul untuk penilaian ini.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The prediction is supported only by a TxGNN model score (Evidence Level L5), with no clinical trials, no literature, and no plausible mechanistic link identified. Critical safety data (warnings, contraindications) are also missing, which blocks entry into the S1 safety review stage.
+**Nisbah:**
+Ramalan itu disokong hanya oleh skor model TxGNN (Tahap Bukti L5), tanpa ujian klinikal, tanpa literatur, dan tiada kaitan mekanistik yang munasabah dikenal pasti. Data keselamatan kritikal (amaran, kontraindikasi) juga hilang, yang menghalang kemasukan ke peringkat ulasan keselamatan S1.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert data (key warnings, contraindications) — currently blocking
-- Mechanism of action (MOA) data from DrugBank
-- Complete product-level registration details (license numbers, dosage forms, approved indication text)
-- Any preclinical or case-based evidence exploring a sorbitol–malignant hyperthermia relationship, if it exists
+**Untuk meneruskan, yang berikut diperlukan:**
+- Data sisipan pakej TFDA/NPRA (amaran utama, kontraindikasi) — kini menghalang
+- Data mekanisme tindakan (MOA) daripada DrugBank
+- Butiran pendaftaran peringkat produk lengkap (nombor lesen, bentuk dos, teks petunjukan yang diluluskan)
+- Sebarang bukti preklinikal atau berasaskan kes yang meneroka hubungan sorbitol–hipertermia malignan, jika wujud
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

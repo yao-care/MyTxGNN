@@ -29,113 +29,111 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Tipiracil: 從轉移性大腸直腸癌到 Colonic Neoplasm
+# Tipiracil: Dari Kanser Kolorektal Metastatik kepada Neoplasma Kolon
 
-## 一句話總結
+## Ringkasan Satu Ayat
 
-Tipiracil 本身並非單獨藥物，而是與 trifluridine 固定劑量合併（TAS-102/Lonsurf）用於治療轉移性大腸直腸癌之藥物成分。
-TxGNN 模型預測其對 **Colonic Neoplasm（大腸腫瘤）** 具高度關聯性，
-目前有 **50+ 筆臨床試驗**與 **20 篇文獻**支持此方向，
-但需注意此預測實質上是對「既有適應症」的再確認，而非全新訊號。
+Tipiracil bukan ubat tunggal tetapi merupakan komponen dalam kombinasi dosis tetap dengan trifluridine (TAS-102/Lonsurf) untuk merawat kanser kolorektal metastatik. Model TxGNN meramalkan asosiasi tinggi terhadap **Neoplasma Kolon**, dengan sokongan **50+ percubaan klinikal** dan **20 makalah literatur**, tetapi perlu diambil kira bahawa ramalan ini pada dasarnya adalah pengesahan semula bagi "indikasi sedia ada" dan bukan isyarat benar-benar baru.
 
 ---
 
-## 快速總覽
+## Gambaran Keseluruhan Cepat
 
-| 項目 | 內容 |
-|------|------|
-| 原始適應症 | 轉移性大腸直腸癌（作為 trifluridine/tipiracil 合併劑 TAS-102/Lonsurf 之成分；NPRA 仿單文字尚未取得） |
-| 預測新適應症 | Colonic Neoplasm |
-| TxGNN 預測分數 | 99.99% |
-| 證據等級 | L1 |
-| 馬來西亞市場狀態 | Marketed |
-| 註冊許可證數量 | 2 |
-| 建議決策 | Proceed with Guardrails |
-
----
-
-## 為何此預測合理？
-
-目前尚無 DrugBank 詳細作用機轉資料（[Data Gap]）。根據已知資訊，Tipiracil 是 trifluridine/tipiracil 複方（TAS-102/Lonsurf）的組成成分，其於轉移性大腸直腸癌之療效已獲證實，機轉上與大腸腫瘤治療直接相關。Tipiracil 為 thymidine phosphorylase 抑制劑，可抑制 trifluridine 之代謝分解、提高其血中濃度與抗腫瘤活性；trifluridine 本身經磷酸化後併入癌細胞 DNA，造成細胞毒性並抑制腫瘤生長。
-
-值得特別說明的是：此案例的「原始適應症」與「預測新適應症」高度重疊——TAS-102 早已是後線轉移性大腸直腸癌的標準治療藥物之一。因此本預測的證據強度雖達 L1（多筆完成之 Phase 3 RCT，如 SUNLIGHT 試驗），但性質上屬於**既有已核准用途的再確認**，而非典型的老藥新用（drug repurposing）訊號，這點會影響決策解讀。
+| Item | Kandungan |
+|------|----------|
+| Indikasi asal | Kanser kolorektal metastatik (sebagai komponen dalam kombinasi trifluridine/tipiracil TAS-102/Lonsurf; teks monograf NPRA belum diperoleh) |
+| Indikasi yang diramalkan | Neoplasma Kolon |
+| Skor ramalan TxGNN | 99.99% |
+| Tahap bukti | L1 |
+| Status pasaran Malaysia | Marketed |
+| Bilangan permit pendaftaran | 2 |
+| Cadangan keputusan | Proceed with Guardrails |
 
 ---
 
-## 臨床試驗證據
+## Mengapa Ramalan Ini Munasabah?
 
-| 試驗編號 | 期別 | 狀態 | 收案人數 | 關鍵發現 |
+Pada masa ini tiada data mekanisme tindakan DrugBank terperinci (Data Gap). Berdasarkan maklumat yang diketahui, Tipiracil adalah komponen penyusun kombinasi trifluridine/tipiracil (TAS-102/Lonsurf), yang keberhasilannya dalam kanser kolorektal metastatik telah terbukti, dan mekanismenya berkaitan terus dengan rawatan neoplasma kolon. Tipiracil adalah perencat thymidine phosphorylase yang dapat merencat pemecahan metabolik trifluridine, meningkatkan kepekatan darah dan aktiviti antiperumahan tumor; trifluridine selepas fosforilasi dimasukkan ke dalam DNA sel kanser, menyebabkan sitotoksisiti dan menghalang pertumbuhan tumor.
+
+Patut dijelaskan dengan khusus bahawa: "indikasi asal" dan "indikasi yang diramalkan" dalam kes ini sangat bertindih — TAS-102 telah menjadi salah satu ubat rawatan piawai lini belakang untuk kanser kolorektal metastatik. Oleh itu, kekuatan bukti ramalan ini walaupun mencapai L1 (berbilang RCT Fasa 3 yang lengkap, seperti percubaan SUNLIGHT), tetapi sifatnya adalah **pengesahan semula bagi kegunaan sedia ada yang telah diluluskan**, bukan isyarat perubahan ubat yang tipikal (drug repurposing), yang akan menjejaskan interpretasi keputusan.
+
+---
+
+## Bukti Percubaan Klinikal
+
+| Nombor Percubaan | Fasa | Status | Bilangan Peserta | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT03665506](https://clinicaltrials.gov/study/NCT03665506) | N/A（非介入性） | Completed | 315 | 德國真實世界研究，評估 trifluridine/tipiracil 於轉移性大腸直腸癌之療效與安全性 |
-| [NCT06992648](https://clinicaltrials.gov/study/NCT06992648) | Phase 3 | Recruiting | 302 | trifluridine/tipiracil + regorafenib 對比 + bevacizumab，於難治性 mCRC 之非劣性試驗 |
-| [NCT04737187](https://clinicaltrials.gov/study/NCT04737187) | Phase 3 | Completed | 492 | SUNLIGHT 試驗：trifluridine/tipiracil + bevacizumab 對比單獨使用於難治性 mCRC |
-| [NCT03520946](https://clinicaltrials.gov/study/NCT03520946) | Phase 3 | Completed | 430 | Ramucirumab + TAS-102 對比 TAS-102 單藥於化療難治性 mCRC |
-| [NCT05198934](https://clinicaltrials.gov/study/NCT05198934) | Phase 3 | Active, not recruiting | 160 | Sotorasib+panitumumab 對比研究者選擇（含 trifluridine/tipiracil）於 KRAS p.G12C 突變 mCRC |
-| [NCT04776148](https://clinicaltrials.gov/study/NCT04776148) | Phase 3 | Completed | 563 | Lenvatinib+pembrolizumab 對比標準治療（含 regorafenib 及 TAS-102）於 mCRC |
-| [NCT05600309](https://clinicaltrials.gov/study/NCT05600309) | Phase 3 | Completed | 94 | MK-4280A 對比標準治療（含 regorafenib 及 TAS-102）於 PD-L1 陽性 mCRC（KEYFORM-007） |
-| [NCT05007132](https://clinicaltrials.gov/study/NCT05007132) | Phase 2 | Recruiting | 153 | FIRE-8 試驗：trifluridine/tipiracil + panitumumab 對比 + bevacizumab 作為 mCRC 一線治療 |
-| [NCT02743221](https://clinicaltrials.gov/study/NCT02743221) | Phase 2 | Completed | 154 | TASCO1 試驗：TAS-102 + bevacizumab 對比 capecitabine + bevacizumab 於未經治療之 mCRC |
-| [NCT07071844](https://clinicaltrials.gov/study/NCT07071844) | Phase 2 | Not yet recruiting | 162 | 評估雙週給藥方案降低 trifluridine/tipiracil + bevacizumab 之第3-4級嗜中性球低下發生率 |
+| [NCT03665506](https://clinicaltrials.gov/study/NCT03665506) | N/A (Bukan intervensi) | Selesai | 315 | Kajian dunia nyata Jerman menilai keberkesanan dan keselamatan trifluridine/tipiracil dalam kanser kolorektal metastatik |
+| [NCT06992648](https://clinicaltrials.gov/study/NCT06992648) | Fasa 3 | Merekrut | 302 | trifluridine/tipiracil + regorafenib berbanding + bevacizumab, percubaan ketidakrendahan dalam mCRC yang tahan rawatan |
+| [NCT04737187](https://clinicaltrials.gov/study/NCT04737187) | Fasa 3 | Selesai | 492 | Percubaan SUNLIGHT: trifluridine/tipiracil + bevacizumab berbanding penggunaan tunggal dalam mCRC yang tahan rawatan |
+| [NCT03520946](https://clinicaltrials.gov/study/NCT03520946) | Fasa 3 | Selesai | 430 | Ramucirumab + TAS-102 berbanding ubat tunggal TAS-102 dalam mCRC yang tahan terhadap kemoterapi |
+| [NCT05198934](https://clinicaltrials.gov/study/NCT05198934) | Fasa 3 | Aktif, bukan merekrut | 160 | Sotorasib+panitumumab berbanding memilih penyelidik (termasuk trifluridine/tipiracil) dalam mCRC bermutasi KRAS p.G12C |
+| [NCT04776148](https://clinicaltrials.gov/study/NCT04776148) | Fasa 3 | Selesai | 563 | Lenvatinib+pembrolizumab berbanding rawatan piawai (termasuk regorafenib dan TAS-102) dalam mCRC |
+| [NCT05600309](https://clinicaltrials.gov/study/NCT05600309) | Fasa 3 | Selesai | 94 | MK-4280A berbanding rawatan piawai (termasuk regorafenib dan TAS-102) dalam mCRC positif PD-L1 (KEYFORM-007) |
+| [NCT05007132](https://clinicaltrials.gov/study/NCT05007132) | Fasa 2 | Merekrut | 153 | Percubaan FIRE-8: trifluridine/tipiracil + panitumumab berbanding + bevacizumab sebagai rawatan lini pertama mCRC |
+| [NCT02743221](https://clinicaltrials.gov/study/NCT02743221) | Fasa 2 | Selesai | 154 | Percubaan TASCO1: TAS-102 + bevacizumab berbanding capecitabine + bevacizumab dalam mCRC yang belum pernah dirawat |
+| [NCT07071844](https://clinicaltrials.gov/study/NCT07071844) | Fasa 2 | Belum mula merekrut | 162 | Menilai rejimen dua minggu untuk mengurangkan kadar neutropenia darjah 3-4 dalam trifluridine/tipiracil + bevacizumab |
 
 ---
 
-## 文獻證據
+## Bukti Literatur
 
-| PMID | 年份 | 類型 | 期刊 | 關鍵發現 |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [37133585](https://pubmed.ncbi.nlm.nih.gov/37133585/) | 2023 | RCT | New England Journal of Medicine | SUNLIGHT 試驗：trifluridine-tipiracil + bevacizumab 延長難治性 mCRC 病人整體存活期 |
-| [37284901](https://pubmed.ncbi.nlm.nih.gov/37284901/) | 2023 | RCT | The Oncologist | MODURATE Phase Ib 試驗：優化 trifluridine/tipiracil + irinotecan + bevacizumab 給藥排程 |
-| [37366880](https://pubmed.ncbi.nlm.nih.gov/37366880/) | 2023 | Review/Meta-analysis | Current Oncology | 系統性回顧：trifluridine/tipiracil + bevacizumab 於真實世界系列研究之療效與安全性 |
-| [37414979](https://pubmed.ncbi.nlm.nih.gov/37414979/) | 2024 | Review | Clinical & Translational Oncology | TAS-102 於 mCRC 治療之療效與安全性系統性回顧與統合分析 |
-| [26722024](https://pubmed.ncbi.nlm.nih.gov/26722024/) | 2016 | Review | Anticancer Research | TAS-102 作用機轉綜述：抑制 DPD 增強 5-FU 抗腫瘤效果之機轉基礎 |
-| [36864254](https://pubmed.ncbi.nlm.nih.gov/36864254/) | 2023 | Cohort | Nature Medicine | KRAS G12 密碼子特異性突變可預測 FTD/TPI 治療存活效益之生物標記研究 |
-| [36990929](https://pubmed.ncbi.nlm.nih.gov/36990929/) | 2023 | Cohort | Journal of Geriatric Oncology | 高齡病人使用 FTD/TPI 與 regorafenib 之敘述性文獻回顧 |
-| [38423630](https://pubmed.ncbi.nlm.nih.gov/38423630/) | 2024 | Cohort | Anticancer Research | 標準給藥 vs 雙週給藥 FTD/TPI 療效與安全性比較 |
-| [37097664](https://pubmed.ncbi.nlm.nih.gov/37097664/) | 2023 | Cohort | Anticancer Research | FTD/TPI + bevacizumab 治療中噁心嘔吐之致吐性與風險因子分析 |
-| [35474007](https://pubmed.ncbi.nlm.nih.gov/35474007/) | 2022 | Cohort | Clinical Colorectal Cancer | QUALITAS 研究：真實世界中 FTD/TPI 治療病人之生活品質與存活評估 |
+| [37133585](https://pubmed.ncbi.nlm.nih.gov/37133585/) | 2023 | RCT | New England Journal of Medicine | Percubaan SUNLIGHT: trifluridine-tipiracil + bevacizumab memanjangkan survival keseluruhan dalam pesakit mCRC yang tahan rawatan |
+| [37284901](https://pubmed.ncbi.nlm.nih.gov/37284901/) | 2023 | RCT | The Oncologist | Percubaan MODURATE Fasa Ib: optimalisasi rejimen pemberian trifluridine/tipiracil + irinotecan + bevacizumab |
+| [37366880](https://pubmed.ncbi.nlm.nih.gov/37366880/) | 2023 | Ulasan/Meta-analisis | Current Oncology | Ulasan sistematik: keberkesanan dan keselamatan trifluridine/tipiracil + bevacizumab dalam siri kajian dunia nyata |
+| [37414979](https://pubmed.ncbi.nlm.nih.gov/37414979/) | 2024 | Ulasan | Clinical & Translational Oncology | Ulasan sistematik dan meta-analisis keselamatan TAS-102 dalam rawatan mCRC |
+| [26722024](https://pubmed.ncbi.nlm.nih.gov/26722024/) | 2016 | Ulasan | Anticancer Research | Mekanisme tindakan TAS-102: asas mekanisme perencatan DPD meningkatkan kesan antiperumahan 5-FU |
+| [36864254](https://pubmed.ncbi.nlm.nih.gov/36864254/) | 2023 | Kohort | Nature Medicine | Penelitian biopenanda: mutasi kodon khusus KRAS G12 dapat meramalkan manfaat kemandirian FTD/TPI |
+| [36990929](https://pubmed.ncbi.nlm.nih.gov/36990929/) | 2023 | Kohort | Journal of Geriatric Oncology | Ulasan literatur naratif: penggunaan FTD/TPI dan regorafenib dalam pesakit tua |
+| [38423630](https://pubmed.ncbi.nlm.nih.gov/38423630/) | 2024 | Kohort | Anticancer Research | Perbandingan keberkesanan dan keselamatan pemberian piawai versus dua minggu FTD/TPI |
+| [37097664](https://pubmed.ncbi.nlm.nih.gov/37097664/) | 2023 | Kohort | Anticancer Research | Analisis emesis dan faktor risiko mual dan muntah semasa rawatan FTD/TPI + bevacizumab |
+| [35474007](https://pubmed.ncbi.nlm.nih.gov/35474007/) | 2022 | Kohort | Clinical Colorectal Cancer | Kajian QUALITAS: penilaian kualiti hidup dan kemandirian pesakit yang dirawat dengan FTD/TPI dalam dunia nyata |
 
 ---
 
-## 馬來西亞市場資訊
+## Maklumat Pasaran Malaysia
 
-NPRA 資料庫顯示 Tipiracil 相關製劑於馬來西亞共有 **2 筆有效註冊許可證**（市場狀態：Marketed），但許可證編號、產品名稱、劑型、製造商及核准適應症文字等細項尚未取得，需另行向 NPRA 官網查詢補齊。
-
----
-
-## 細胞毒性資訊（抗腫瘤藥物）
-
-本藥物（trifluridine/tipiracil 複方，臨床用名 TAS-102/Lonsurf）屬抗腫瘤化療藥物，故列出以下資訊：
-
-| 項目 | 內容 |
-|------|------|
-| 細胞毒性分類 | Conventional cytotoxic（核苷類似物／氟嘧啶類抗代謝藥物合併製劑） |
-| 骨髓抑制風險 | High — 多筆試驗（如 NCT07071844、NCT04166604）以降低第3-4級嗜中性球低下為主要試驗目標，顯示嗜中性球低下為常見且需密切監測之毒性 |
-| 致吐性分類 | Low to Moderate（文獻 PMID 37097664 顯示合併 bevacizumab 使用時仍有噁心嘔吐風險，需依風險因子評估） |
-| 監測項目 | 全血球計數（含分類計數，特別是嗜中性球）、腎功能、電解質 |
-| 處理防護 | 屬口服細胞毒性化療藥物，應依細胞毒性藥物處理規範進行防護與廢棄物處置 |
+Data pangkalan NPRA menunjukkan terdapat **2 permit pendaftaran sah** formulasi berkaitan Tipiracil di Malaysia (status pasaran: Marketed), tetapi butiran permulaan seperti nombor permit, nama produk, bentuk dos, pengilang dan teks indikasi yang diluluskan belum diperoleh dan memerlukan pertanyaan selanjutnya di laman rasmi NPRA.
 
 ---
 
-## 安全性考量
+## Maklumat Sitotoksisiti (Ubat Antitumor)
 
-請參閱仿單以取得完整安全性資訊。
+Ubat ini (kombinasi trifluridine/tipiracil, nama klinikal TAS-102/Lonsurf) adalah ubat kemoterapi antitumor, oleh itu maklumat berikut disenaraikan:
 
-（TFDA/NPRA 仿單警語與禁忌症資料為阻斷性缺口 DG001，目前無法取得；藥物交互作用查詢亦無結果。）
+| Item | Kandungan |
+|------|----------|
+| Klasifikasi sitotoksisiti | Konvensional sitotoksik (kombinasi ubat analog nukleosida/antimetabolit jenis fluoropyrimidine) |
+| Risiko penindasan sumsum | Tinggi — berbilang percubaan (seperti NCT07071844, NCT04166604) mempunyai objektif utama mengurangkan neutropenia darjah 3-4, menunjukkan neutropenia adalah toksisiti biasa yang memerlukan pemantauan ketat |
+| Klasifikasi emetogenik | Rendah hingga sederhana (literatur PMID 37097664 menunjukkan masih ada risiko mual dan muntah apabila digunakan dengan bevacizumab, penilaian diperlukan berdasarkan faktor risiko) |
+| Item pemantauan | Kiraan darah lengkap (termasuk pembilangan pembezaan, terutamanya neutrofil), fungsi renal, elektrolit |
+| Pengendalian perlindungan | Adalah ubat kemoterapi sitotoksik oral, harus mengikuti norma pengendalian ubat sitotoksik untuk perlindungan dan pelupusan sisa |
 
 ---
 
-## 結論與後續步驟
+## Pertimbangan Keselamatan
 
-**決策：Proceed with Guardrails**
+Sila rujuk monograf untuk mendapatkan maklumat keselamatan lengkap.
 
-**理由：**
-證據等級達 L1（含 SUNLIGHT 等多筆完成之 Phase 3 RCT），支持 trifluridine/tipiracil 於大腸直腸腫瘤之療效；但此預測實質上是對既有核准適應症的再確認而非新訊號，且 NPRA 安全性標籤資料（DG001，阻斷性）尚未取得，無法完成 S1 安全性初評。
+(Data amaran monograf TFDA/NPRA dan kontra-indikasi ialah jurang penyekat DG001, pada masa ini tidak dapat diperoleh; pertanyaan interaksi ubat juga tiada hasil.)
 
-**下一步需要補齊：**
-- NPRA 仿單警語／禁忌症全文（DG001，阻斷性缺口）
-- DrugBank 作用機轉確認資料（DG002）
-- 完整的馬來西亞許可證明細（許可證號、產品名、劑型、核准適應症文字）
-- 釐清「Colonic Neoplasm」預測與現行核准適應症（轉移性大腸直腸癌）之差異，確認是否構成真正的老藥新用機會
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Proceed with Guardrails**
+
+**Sebab:**
+Tahap bukti mencapai L1 (termasuk berbilang RCT Fasa 3 yang lengkap seperti SUNLIGHT), menyokong keberkesanan trifluridine/tipiracil dalam neoplasma kolorektal; tetapi ramalan ini pada dasarnya adalah pengesahan semula indikasi yang telah diluluskan sedia ada dan bukan isyarat baru, dan data label keselamatan NPRA (DG001, penyekat) belum diperoleh, tidak dapat menyelesaikan penilaian awal keselamatan S1.
+
+**Langkah seterusnya memerlukan pelengkapan:**
+- Teks penuh amaran/kontra-indikasi monograf NPRA (DG001, jurang penyekat)
+- Data pengesahan mekanisme tindakan DrugBank (DG002)
+- Butiran permit pendaftaran Malaysia yang lengkap (nombor permit, nama produk, bentuk dos, teks indikasi yang diluluskan)
+- Penjelasan perbezaan antara ramalan "Neoplasma Kolon" dan indikasi yang diluluskan semasa (kanser kolorektal metastatik), mengesahkan sama ada membentuk peluang perubahan ubat yang sebenarnya
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

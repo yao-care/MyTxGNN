@@ -29,86 +29,87 @@ Tahap bukti: **L4** | Indikasi diramal: **4**
 
 </div>
 
-# HYDROQUINONE: From [Indication Not Specified] to Seborrheic Keratosis
+# HYDROQUINONE: Dari [Indikasi Tidak Ditentukan] ke Seborrheic Keratosis
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-> Hydroquinone (DrugBank DB09526) is a marketed topical agent whose formal original-indication text is not captured in the current evidence pack, though annotated evidence describes it as a tyrosinase inhibitor used in pigmentary skin conditions.
-> The TxGNN model predicts it may be effective for **Seborrheic Keratosis**, but this is currently supported by **0 clinical trials** and only **2 publications**, both of which relate to a pigmented subtype (dermatosis papulosa nigra) rather than seborrheic keratosis itself.
+> Hydroquinone (DrugBank DB09526) adalah agen topikal yang telah dipasarkan dengan teks indikasi asli formal tidak ditangkap dalam paket bukti saat ini, meskipun bukti beranotasi menjelaskan hal itu sebagai penghambat tirosinase yang digunakan dalam kondisi kulit berpigmen.
+> Model TxGNN memprediksi hal itu mungkin efektif untuk **Seborrheic Keratosis**, tetapi ini saat ini didukung oleh **0 uji klinis** dan hanya **2 publikasi**, keduanya terkait dengan subtipe berpigmen (dermatosis papulosa nigra) daripada seborrheic keratosis itu sendiri.
 
 ---
 
-## Quick Overview
+## Ikhtisar Cepat
 
-| Item | Content |
+| Kategori | Deskripsi |
 |------|------|
-| Original Indication | Not available — TFDA/NPRA license `approved_indication_text` is empty in this evidence pack |
+| Original Indication | Tidak tersedia — TFDA/NPRA license `approved_indication_text` kosong dalam paket bukti ini |
 | Predicted New Indication | Seborrheic Keratosis |
 | TxGNN Prediction Score | 99.73% |
 | Evidence Level | L4 |
-| Malaysia Market Status | ✓ Marketed |
+| Malaysia Market Status | ✓ Telah dipasarkan |
 | Number of Registrations | 3 |
-| Recommended Decision | Hold |
+| Recommended Decision | Tunda |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Prediksi Ini Masuk Akal?
 
-Formal mechanism-of-action data is not available in this evidence pack (Data Gap DG002, High severity). Based on annotations embedded in the evidence, hydroquinone acts as a **tyrosinase inhibitor**, reducing melanin synthesis — a mechanism consistent with its well-known role in topical pigmentary/depigmenting therapy (this is also reflected indirectly in the clinical-trial evidence collected for another candidate in this pack, which is dominated by melasma trials).
+Data mekanisme kerja resmi tidak tersedia dalam paket bukti ini (Kesenjangan Data DG002, keparahan Tinggi). Berdasarkan anotasi yang tertanam dalam bukti, hydroquinone bertindak sebagai **penghambat tirosinase**, mengurangi sintesis melanin — mekanisme yang konsisten dengan peran terkenal dalam terapi topical pigmentasi/depigmentasi (hal ini juga tercermin secara tidak langsung dalam bukti uji klinis yang dikumpulkan untuk kandidat lain dalam paket ini, yang didominasi oleh uji klinis melasma).
 
-The relevance to seborrheic keratosis is narrow and indirect. Seborrheic keratosis is fundamentally a benign keratinocyte-proliferative lesion, a process hydroquinone's tyrosinase-inhibition mechanism does not act on. The one plausible link is to **dermatosis papulosa nigra (DPN)** — a pigmented, facially-distributed variant of seborrheic keratosis common in darker-skinned populations — where excess pigmentation (not keratinocyte proliferation) is the treatable feature.
+Relevansi terhadap seborrheic keratosis adalah sempit dan tidak langsung. Seborrheic keratosis pada dasarnya adalah lesi jinak dengan proliferasi keratinosit, suatu proses yang tidak dipengaruhi oleh mekanisme penghambatan tirosinase hydroquinone. Hubungan yang mungkin adalah dengan **dermatosis papulosa nigra (DPN)** — varian seborrheic keratosis yang berpigmen dan tersebar di wajah, umum pada populasi dengan kulit berwarna — di mana pigmentasi berlebih (bukan proliferasi keratinosit) adalah ciri yang dapat diobati.
 
-Because of this, the mechanistic rationale supports at most a subset of seborrheic keratosis presentations (pigmented facial lesions in patients with skin of color), not the disease category as a whole. The TxGNN score (99.73%) reflects strong graph-level association but is not yet corroborated by disease-specific clinical or mechanistic studies.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+Oleh karena itu, rasionalisasi mekanisme paling banyak mendukung subset presentasi seborrheic keratosis (lesi wajah berpigmen pada pasien dengan kulit berwarna), bukan kategori penyakit secara keseluruhan. Skor TxGNN (99.73%) mencerminkan asosiasi tingkat grafik yang kuat tetapi belum dikonfirmasi oleh studi klinis atau mekanistik yang spesifik penyakit.
 
 ---
 
-## Literature Evidence
+## Bukti Uji Klinis
 
-| PMID | Year | Type | Journal | Key Findings |
+Saat ini tidak ada uji klinis terkait yang terdaftar.
+
+---
+
+## Bukti Literatur
+
+| PMID | Tahun | Tipe | Jurnal | Temuan Utama |
 |------|-----|------|------|---------|
-| [33046430](https://pubmed.ncbi.nlm.nih.gov/33046430/) | 2021 | Cohort | J Plast Reconstr Aesthet Surg | Prospective observational study in Asian patients proposing a combination treatment algorithm for facial pigmentary disorders; not specific to seborrheic keratosis. |
-| [17373158](https://pubmed.ncbi.nlm.nih.gov/17373158/) | 2007 | Review | J Drugs Dermatol | Reviews treatment options for dermatosis papulosa nigra (DPN), a pigmented seborrheic-keratosis variant common in African-American/Afro-Caribbean patients; notes DPN histology closely resembles seborrheic keratosis. |
+| [33046430](https://pubmed.ncbi.nlm.nih.gov/33046430/) | 2021 | Kohort | J Plast Reconstr Aesthet Surg | Studi observasi prospektif pada pasien Asia yang mengusulkan algoritma terapi kombinasi untuk gangguan pigmentasi wajah; tidak spesifik untuk seborrheic keratosis. |
+| [17373158](https://pubmed.ncbi.nlm.nih.gov/17373158/) | 2007 | Tinjauan | J Drugs Dermatol | Meninjau opsi pengobatan untuk dermatosis papulosa nigra (DPN), varian seborrheic keratosis berpigmen yang umum pada pasien Afrika-Amerika/Afrika-Karibia; mencatat bahwa histologi DPN sangat mirip dengan seborrheic keratosis. |
 
 ---
 
-## Malaysia Market Information
+## Informasi Pasar Malaysia
 
-NPRA records show **3 active registrations** for hydroquinone, but license number, product name, dosage form, manufacturer, and approved-indication text were not populated in this evidence pack extraction.
+Catatan NPRA menunjukkan **3 registrasi aktif** untuk hydroquinone, tetapi nomor lisensi, nama produk, bentuk sediaan, pabrikan, dan teks indikasi yang disetujui tidak diisi dalam ekstraksi paket bukti ini.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+| Nomor Otorisasi | Nama Produk | Bentuk Sediaan | Indikasi yang Disetujui |
 |---------|------|------|-----------|
-| Not available (3 licenses on file) | Not available | Not available | Not available |
+| Tidak tersedia (3 lisensi pada file) | Tidak tersedia | Tidak tersedia | Tidak tersedia |
 
 ---
 
-## Safety Considerations
+## Pertimbangan Keamanan
 
-Please refer to the package insert for safety information.
+Silakan merujuk ke insert kemasan untuk informasi keamanan.
 
-*(Note: retrieval of TFDA/NPRA label warnings and contraindications is a Blocking data gap — DG001 — and is required before any safety evaluation can proceed; see Conclusion.)*
+*(Catatan: pengambilan peringatan label TFDA/NPRA dan kontraindikasi adalah kesenjangan data Pemblokir — DG001 — dan diperlukan sebelum evaluasi keamanan apa pun dapat dilanjutkan; lihat Kesimpulan.)*
 
 ---
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Berikutnya
 
-**Decision: Hold**
+**Keputusan: Tunda**
 
-**Rationale:**
-- Seborrheic keratosis has no direct clinical trial support, and the only two supporting publications relate to a pigmented subtype (DPN), not the disease's core keratinocyte-proliferative pathology.
-- Package-insert warnings/contraindications are missing (DG001, Blocking severity) — per evidence-pack policy this alone blocks entry into the S1 safety review stage.
+**Rasionalisasi:**
+- Seborrheic keratosis tidak memiliki dukungan uji klinis langsung, dan kedua publikasi pendukung hanya terkait dengan subtipe berpigmen (DPN), bukan patologi proliferasi keratinosit yang mendasari penyakit.
+- Peringatan/kontraindikasi insert kemasan hilang (DG001, keparahan Pemblokir) — menurut kebijakan paket bukti, hal ini sendiri memblokir masuk ke tahap tinjauan keamanan S1.
 
-**To proceed, the following is needed:**
-- Retrieve NPRA package insert warnings and contraindications (DG001)
-- Obtain a formal DrugBank mechanism-of-action record (DG002)
-- Fill in complete Malaysia license details (product names, dosage forms, indication text) for the 3 existing registrations
-- Clarify whether the predicted indication should be narrowed specifically to DPN/pigmented seborrheic keratosis rather than the broader disease category
-- Note: other ranked candidates in this pack (e.g., "exanthem," rank 3) show apparent disease-label mismatches in their clinical trial evidence (melasma trials mapped to an unrelated disease node) — worth a knowledge-graph mapping review before further use of this candidate set
+**Untuk melanjutkan, hal berikut diperlukan:**
+- Ambil peringatan insert kemasan NPRA dan kontraindikasi (DG001)
+- Peroleh catatan mekanisme kerja DrugBank formal (DG002)
+- Isi detail lisensi Malaysia lengkap (nama produk, bentuk sediaan, teks indikasi) untuk 3 registrasi yang ada
+- Jelaskan apakah indikasi yang diprediksi harus dipersempit khusus ke DPN/seborrheic keratosis berpigmen daripada kategori penyakit yang lebih luas
+- Catatan: kandidat peringkat lain dalam paket ini (misalnya, "exanthem," peringkat 3) menunjukkan ketidaksesuaian label-penyakit yang jelas dalam bukti uji klinis mereka (uji klinis melasma dipetakan ke node penyakit yang tidak terkait) — perlu tinjauan pemetaan grafik pengetahuan sebelum penggunaan lebih lanjut dari set kandidat ini
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

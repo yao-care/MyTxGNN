@@ -29,75 +29,76 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Loperamide Hydrochloride: Antidiarrheal Agent — Drug Repurposing Evaluation Pending
+# Loperamide Hydrochloride: Agen Antidiarrhea — Penilaian Pengeluaran Semula Ubat Ditangguhkan
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Loperamide Hydrochloride is a peripherally-acting opioid receptor agonist widely used as an antidiarrheal agent for acute and chronic diarrhea.
-The current Evidence Pack contains **no TxGNN predicted indications**, which means a formal repurposing analysis cannot be completed at this time.
-Before proceeding, critical data gaps — including package insert safety information and DrugBank MOA — must be resolved.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Antidiarrheal (acute diarrhea, chronic diarrhea, traveler's diarrhea) |
-| Predicted New Indication | Not available — no TxGNN output in this Evidence Pack |
-| TxGNN Prediction Score | Not available |
-| Evidence Level | N/A (prediction data absent) |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 9 |
-| Recommended Decision | **Hold** |
+Loperamide Hydrochloride adalah agonis reseptor opioid yang bekerja secara persifer, yang digunakan secara luas sebagai agen antidiarrhea untuk diare akut dan kronik.
+Pakej Bukti semasa mengandungi **tiada petunjuk indikasi yang diramalkan oleh TxGNN**, yang bermakna analisis pengeluaran semula ubat yang formal tidak dapat diselesaikan pada masa ini.
+Sebelum meneruskan, jurang data kritikal — termasuk maklumat keselamatan sisipan pakej dan MOA DrugBank — mesti diselesaikan.
 
 ---
 
-## Why Can This Evaluation Not Proceed?
+## Gambaran Keseluruhan Pantas
 
-The Evidence Pack for Loperamide Hydrochloride is missing two categories of data that are prerequisites for a complete repurposing report:
-
-**1. No TxGNN Predicted Indications**
-The `predicted_indications` array is empty. Without a TxGNN model output, there is no candidate repurposing target to evaluate, no evidence trail to assess, and no clinical trial or literature linkage to review. This is the most fundamental gap — the engine of the entire report.
-
-**2. Mechanism of Action (MOA) Data Gap**
-Loperamide acts as a **μ-opioid receptor agonist** in the myenteric plexus of the intestinal wall, reducing peristalsis and intestinal secretion without significant central nervous system effects at therapeutic doses. However, this information has not been formally confirmed via DrugBank or the package insert in this Evidence Pack (marked as DG002, severity: High). Until MOA is confirmed from a structured data source, mechanistic plausibility analysis for any new indication cannot be formally documented.
-
-**3. Package Insert Safety Data Gap**
-Warnings and contraindications are marked as DG001 (severity: Blocking). Without these, the safety section of this report cannot be completed, and any repurposing candidate cannot pass the standard S1 safety pre-screening step.
-
----
-
-## Malaysia Market Information
-
-License detail fields are not populated in the current Evidence Pack (all entries are blank). Based on regulatory query results, **9 product registrations** are confirmed as marketed in Malaysia. The table below reflects the available structured data:
-
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|----------------------|--------------|-------------|---------------------|
-| — | — | — | *(License details not populated in Evidence Pack)* |
-
-> **Action Required**: Retrieve full license records from the NPRA database to populate product names, dosage forms, and approved indications for all 9 registrations.
+| Item | Kandungan |
+|------|-----------|
+| Indikasi Asal | Antidiarrhea (diare akut, diare kronik, diare pengembara) |
+| Indikasi Baru yang Diramalkan | Tidak tersedia — tiada output TxGNN dalam Pakej Bukti ini |
+| Skor Ramalan TxGNN | Tidak tersedia |
+| Tahap Bukti | T/A (data ramalan hilang) |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 9 |
+| Keputusan yang Disyorkan | **Tahan** |
 
 ---
 
-## Conclusion and Next Steps
+## Mengapa Penilaian Ini Tidak Dapat Diteruskan?
 
-**Decision: Hold**
+Pakej Bukti untuk Loperamide Hydrochloride kekurangan dua kategori data yang merupakan prasyarat untuk laporan pengeluaran semula ubat yang lengkap:
 
-**Rationale:**
-This Evidence Pack lacks TxGNN predicted indications entirely, making it impossible to identify, assess, or report on any repurposing candidate. Additionally, two blocking or high-severity data gaps prevent safety and mechanistic analysis from proceeding.
+**1. Tiada Indikasi yang Diramalkan oleh TxGNN**
+Tatasusunan `predicted_indications` adalah kosong. Tanpa output model TxGNN, tiada target pengeluaran semula calon untuk dinilai, tiada jejak bukti untuk ditaksir, dan tiada pautan percubaan klinikal atau kesusasteraan untuk disemak. Ini adalah jurang paling asas — enjin keseluruhan laporan.
 
-**To proceed, the following is needed:**
+**2. Jurang Data Mekanisme Tindakan (MOA)**
+Loperamide bertindak sebagai agonis **reseptor μ-opioid** dalam plexa myenterik dinding usus, mengurangkan peristaltik dan sekresi usus tanpa kesan sistem saraf pusat yang ketara pada dos terapeutik. Walau bagaimanapun, maklumat ini belum disahkan secara formal melalui DrugBank atau sisipan pakej dalam Pakej Bukti ini (ditandai sebagai DG002, keterukan: Tinggi). Sehingga MOA disahkan dari sumber data berstruktur, analisis kebolehpercayaan mekanistik untuk sebarang indikasi baru tidak dapat didokumentasikan secara formal.
 
-- [ ] **[Critical]** Re-run TxGNN model for Loperamide Hydrochloride and populate `predicted_indications` with at least one candidate indication, including associated clinical trials and literature
-- [ ] **[Blocking — DG001]** Download and parse the TFDA/NPRA package insert PDF to extract key warnings and contraindications, enabling S1 safety pre-screening
-- [ ] **[High — DG002]** Query the DrugBank API using INN "loperamide" to retrieve structured MOA, drug categories, and toxicity data; confirm DrugBank ID
-- [ ] **[Standard]** Populate all 9 license records in `taiwan_regulatory.licenses` with authorization numbers, product names, dosage forms, and approved indication text from NPRA
-- [ ] **[Standard]** Re-submit the complete Evidence Pack for a full repurposing report once all critical gaps are resolved
+**3. Jurang Data Keselamatan Sisipan Pakej**
+Amaran dan kontraindikasi ditandai sebagai DG001 (keterukan: Sekatan). Tanpa ini, bahagian keselamatan laporan ini tidak dapat diselesaikan, dan sebarang calon pengeluaran semula ubat tidak dapat lulus langkah pra-pemeriksaan keselamatan S1 standard.
 
 ---
 
-> ⚠️ **Disclaimer**: This report is for research reference only and does not constitute medical advice. Drug repurposing candidates require clinical validation before any application.
+## Maklumat Pasaran Malaysia
+
+Medan butiran lesen tidak dipenuhi dalam Pakej Bukti semasa (semua entri kosong). Berdasarkan hasil pertanyaan kawal selia, **9 pendaftaran produk** disahkan dipasarkan di Malaysia. Jadual di bawah mencerminkan data berstruktur yang tersedia:
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
+|------------------|-------------|-----------|-------------------|
+| — | — | — | *(Butiran lesen tidak dipenuhi dalam Pakej Bukti)* |
+
+> **Tindakan Diperlukan**: Ambil rekod lesen penuh dari pangkalan data NPRA untuk memenuhi nama produk, bentuk dos, dan indikasi yang diluluskan bagi semua 9 pendaftaran.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Pakej Bukti ini kekurangan indikasi yang diramalkan oleh TxGNN sepenuhnya, menjadikannya mustahil untuk mengenal pasti, menilai, atau melaporkan sebarang calon pengeluaran semula ubat. Selain itu, dua jurang data yang menyekat atau berketerukan tinggi menghalang analisis keselamatan dan mekanistik daripada diteruskan.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+
+- [ ] **[Kritikal]** Jalankan semula model TxGNN untuk Loperamide Hydrochloride dan isi `predicted_indications` dengan sekurang-kurangnya satu indikasi calon, termasuk percubaan klinikal dan kesusasteraan yang berkaitan
+- [ ] **[Sekatan — DG001]** Muat turun dan analisis PDF sisipan pakej TFDA/NPRA untuk mengekstrak amaran utama dan kontraindikasi, membolehkan pra-pemeriksaan keselamatan S1
+- [ ] **[Tinggi — DG002]** Pertanyakan API DrugBank menggunakan INN "loperamide" untuk mendapatkan data MOA, kategori ubat, dan ketoksikan yang berstruktur; sahkan DrugBank ID
+- [ ] **[Standard]** Isi semua 9 rekod lesen dalam `taiwan_regulatory.licenses` dengan nombor kebenaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan dari NPRA
+- [ ] **[Standard]** Hantar semula Pakej Bukti yang lengkap untuk laporan pengeluaran semula ubat penuh setelah semua jurang kritikal diselesaikan
+
+---
+
+> ⚠️ **Penafian**: Laporan ini hanya untuk rujukan penyelidikan dan tidak membentuk nasihat perubatan. Calon pengeluaran semula ubat memerlukan pengesahan klinikal sebelum sebarang aplikasi.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

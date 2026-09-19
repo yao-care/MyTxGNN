@@ -29,82 +29,83 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Tretinoin: From Acute Promyelocytic Leukemia to Rheumatoid Nodulosis
+# Tretinoin: Dari Leukemia Promielosit Akut kepada Nodulosis Reumatoid
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Tretinoin (all-trans retinoic acid) is internationally known for treating acute promyelocytic leukemia (oral) and acne/photoaging (topical). The TxGNN model predicts a possible link to **Rheumatoid Nodulosis**, but this is currently supported by **0 clinical trials** and **0 publications** — it is a pure knowledge-graph prediction with no corroborating evidence found in ClinicalTrials.gov, ICTRP, or PubMed.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not captured in NPRA license extract (fields blank in this evidence pack); tretinoin is internationally indicated for acute promyelocytic leukemia (oral) and acne vulgaris/photoaging (topical) |
-| Predicted New Indication | Rheumatoid Nodulosis |
-| TxGNN Prediction Score | 99.84% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 12 |
-| Recommended Decision | Hold |
+Tretinoin (semua-trans asid retinoik) dikenali di peringkat antarabangsa untuk merawat leukemia promielosit akut (oral) dan jerawat/penuaan kulit (topikal). Model TxGNN meramalkan kemungkinan sambungan kepada **Nodulosis Reumatoid**, tetapi ini kini disokong oleh **0 ujian klinis** dan **0 penerbitan** — ia adalah ramalan graf pengetahuan tulen tanpa bukti yang dapat ditemui dalam ClinicalTrials.gov, ICTRP, atau PubMed.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Pantas
 
-Detailed mechanism of action data for tretinoin was not retrieved in this evidence pack (flagged as a High-severity data gap). Based on known pharmacology, tretinoin is a retinoid that acts through retinoic acid receptors (RAR), and it is established that retinoic acid signaling participates in immune cell differentiation, including regulatory T-cell (Treg) and Th17 balance.
-
-The repurposing rationale generated for this candidate states the association explicitly: TxGNN's high score (0.998) likely reflects this theoretical immune-modulation role rather than any direct clinical observation — "推測與視黃酸之免疫調節角色(Treg/Th17分化)相關，但無任何臨床試驗或文獻佐證，純為圖譜連結預測" (the link is inferred from graph connectivity, not evidence).
-
-Rheumatoid nodulosis is a rare nodular manifestation associated with rheumatoid arthritis and is mechanistically distant from tretinoin's established indications (leukemia differentiation therapy, dermatologic keratinization). Targeted searches against ClinicalTrials.gov, ICTRP, and PubMed for this specific drug–disease pair returned zero results, so the mechanistic plausibility described above remains unverified.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Tidak ditangkap dalam ekstrak lesen NPRA (medan kosong dalam paket bukti ini); tretinoin ditunjukkan secara antarabangsa untuk leukemia promielosit akut (oral) dan akne vulgaris/penuaan kulit (topikal) |
+| Indikasi Baru yang Dipramalan | Nodulosis Reumatoid |
+| Skor Ramalan TxGNN | 99.84% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 12 |
+| Keputusan Disyorkan | Tunggu |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Boleh Diterima?
 
-Currently no related literature available.
+Data mekanisme tindakan terperinci untuk tretinoin tidak diambil dalam paket bukti ini (ditandai sebagai jurang data keseriusan tinggi). Berdasarkan farmakologi yang diketahui, tretinoin adalah retinoid yang bertindak melalui reseptor asid retinoik (RAR), dan telah ditetapkan bahawa isyarat asid retinoik mengambil bahagian dalam diferensiasi sel imun, termasuk keseimbangan sel T pengawal (Treg) dan Th17.
 
----
+Rasional repurposing yang dijana untuk calon ini menyatakan persatuan secara eksplisit: skor tinggi TxGNN (0.998) kemungkinan mencerminkan peranan pengubahsuaian imun teori ini daripada mana-mana pemerhatian klinis langsung — "推測與視黃酸之免疫調節角色(Treg/Th17分化)相關，但無任何臨床試驗或文獻佐證，純為圖譜連結預測" (pautan disimpulkan daripada ketersambungan graf, bukan bukti).
 
-## Cytotoxicity
-
-Tretinoin (systemic ATRA) is used as an antineoplastic differentiation-inducing agent in acute promyelocytic leukemia, distinct from conventional DNA-damaging cytotoxic chemotherapy. DrugBank toxicity/category data was not retrieved in this evidence pack, so the table below relies on established pharmacology rather than pack-sourced data.
-
-| Item | Content |
-|------|------|
-| Cytotoxicity Classification | Non-cytotoxic differentiation therapy (retinoid receptor agonist); classified as antineoplastic when used systemically, not a classic DNA-damaging cytotoxic agent |
-| Myelosuppression Risk | Please refer to the package insert warnings and precautions (no toxicity data retrieved in this evidence pack) |
-| Emetogenicity Classification | Please refer to the package insert warnings and precautions (no toxicity data retrieved in this evidence pack) |
-| Monitoring Items | CBC with differential and coagulation profile; monitoring for differentiation syndrome is a well-known ATRA-specific risk in oncologic use |
-| Handling Protection | Retinoids are teratogenic — pregnancy prevention measures and standard handling precautions per package insert are expected, pending confirmation |
+Nodulosis reumatoid adalah manifestasi nodular jarang yang dikaitkan dengan artitis reumatoid dan secara mekanistik jauh dari indikasi tretinoin yang ditetapkan (terapi diferensiasi leukemia, keratinisasi dermatologi). Pencarian bertarget terhadap ClinicalTrials.gov, ICTRP, dan PubMed untuk pasangan ubat–penyakit khusus ini kembali tanpa hasil, jadi kebolehkerjaan mekanistik yang dijelaskan di atas kekal tidak disahkan.
 
 ---
 
-## Safety Considerations
+## Bukti Ujian Klinis
 
-Please refer to the package insert for safety information. (Key warnings, contraindications, and drug interaction data were all flagged as data gaps in this evidence pack — TFDA/NPRA labeling retrieval is a Blocking-severity gap.)
+Tidak ada ujian klinis berkaitan berdaftar pada masa ini.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Hold**
+Tidak ada literatur berkaitan tersedia pada masa ini.
 
-**Rationale:**
-The top-ranked predicted indication, Rheumatoid Nodulosis, has zero supporting clinical trials or literature despite active searches, placing it at the lowest evidence tier (L5, model prediction only). Critical safety data (warnings, contraindications) also remain unretrieved, which blocks even a preliminary safety assessment.
+---
 
-**To proceed, the following is needed:**
-- Retrieve NPRA/package insert warnings and contraindications (Blocking gap, DG001)
-- Retrieve confirmed mechanism of action and DrugBank drug categories (High-severity gap, DG002)
-- Populate complete NPRA license/product details (all 12 registrations currently have blank fields in this pack)
-- Consider re-evaluating other candidates from the same TxGNN run with stronger evidence bases — e.g., osteoarthritis (rank 7, L4, 20 literature hits, though with conflicting pro-/anti-inflammatory signals) or Quinquaud's folliculitis decalvans (rank 10, L4, flagged "Research Question") — as these have at least some literature signal, unlike Rheumatoid Nodulosis.
+## Sitotoksisiti
+
+Tretinoin (ATRA sistemik) digunakan sebagai agen pengaruh diferensiasi antineoplastik dalam leukemia promielosit akut, berbeza daripada kemoterapi sitotoksik pengubahan DNA konvensional. Data toksisiti/kategori DrugBank tidak diambil dalam paket bukti ini, jadi jadual di bawah bergantung pada farmakologi yang ditetapkan daripada data bersumber paket.
+
+| Item | Kandungan |
+|------|----------|
+| Klasifikasi Sitotoksisiti | Terapi diferensiasi bukan sitotoksik (agonist reseptor retinoid); diklasifikasikan sebagai antineoplastik apabila digunakan secara sistemik, bukan agen sitotoksik pengubahan DNA klasik |
+| Risiko Penindasan Sumsum Tulang | Sila rujuk amaran dan tindakan berjaga-jaga dalam maklumat pembungkus (data toksisiti tidak diambil dalam paket bukti ini) |
+| Klasifikasi Emetogenik | Sila rujuk amaran dan tindakan berjaga-jaga dalam maklumat pembungkus (data toksisiti tidak diambil dalam paket bukti ini) |
+| Item Pemantauan | CBC dengan pembezaan dan profil pembekuan; pemantauan untuk sindrom diferensiasi adalah risiko spesifik ATRA yang terkenal dalam penggunaan onkologi |
+| Pengamanan Pengendalian | Retinoid adalah teratogenik — tindakan pencegahan kehamilan dan tindakan pengendalian standard mengikut maklumat pembungkus dijangka, tertakluk kepada pengesahan |
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk maklumat pembungkus untuk maklumat keselamatan. (Amaran utama, keterangan kontra, dan data interaksi ubat semuanya ditandai sebagai jurang data dalam paket bukti ini — pengambilan pelabelan TFDA/NPRA adalah jurang penyekat.)
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tunggu**
+
+**Rasional:**
+Indikasi yang dipramalan kedudukan teratas, Nodulosis Reumatoid, mempunyai sifar ujian klinis atau literatur yang menyokong walaupun pencarian aktif, meletakkannya di peringkat bukti terendah (L5, ramalan model sahaja). Data keselamatan kritikal (amaran, keterangan kontra) juga kekal tidak diambil, yang menghalang penilaian keselamatan awal.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Ambil amaran dan keterangan kontra NPRA/maklumat pembungkus (jurang penyekat, DG001)
+- Ambil mekanisme tindakan yang disahkan dan kategori ubat DrugBank (jurang keseriusan tinggi, DG002)
+- Isi maklumat lesen/produk NPRA lengkap (kesemua 12 pendaftaran kini mempunyai medan kosong dalam paket ini)
+- Pertimbang penilaian semula calon lain daripada larian TxGNN yang sama dengan asas bukti yang lebih kuat — contohnya, osteoartritis (kedudukan 7, L4, 20 pukulan literatur, walaupun dengan isyarat pro-/anti-radang yang bercanggahan) atau folliculitis decalvans Quinquaud (kedudukan 10, L4, ditandai "Soalan Penyelidikan") — kerana ini mempunyai sekurang-kurangnya beberapa isyarat literatur, tidak seperti Nodulosis Reumatoid.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

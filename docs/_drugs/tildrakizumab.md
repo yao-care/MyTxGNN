@@ -29,60 +29,61 @@ Tahap bukti: **L5** | Indikasi diramal: **4**
 
 </div>
 
-# Tildrakizumab: From Plaque Psoriasis to Severe Nonproliferative Diabetic Retinopathy
+# Tildrakizumab: Dari Psoriasis Plak ke Retinopati Diabetes Nonproliferatif Berat
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Tildrakizumab (DrugBank DB14004) is an anti-IL-23p19 monoclonal antibody whose approved use targets IL-23-driven inflammatory skin disease (plaque psoriasis); Malaysia-specific indication text was not populated in this evidence pack. The TxGNN model predicts possible activity in **Severe Nonproliferative Diabetic Retinopathy**, but this direction currently has **zero clinical trials** and **zero publications** — it is a pure knowledge-graph inference with no direct supporting study.
+Tildrakizumab (DrugBank DB14004) ialah antibodi monoklonal anti-IL-23p19 yang kegunaannya yang diluluskan menyasarkan penyakit kulit inflamasi yang didorong IL-23 (psoriasis plak); teks petunjuk khusus Malaysia tidak diisi dalam paket bukti ini. Model TxGNN meramalkan aktiviti yang mungkin dalam **Retinopati Diabetes Nonproliferatif Berat**, tetapi arah ini pada masa kini mempunyai **sifar ujian klinikal** dan **sifar penerbitan** — ini adalah inferensi graf pengetahuan tulen tanpa sebarang kajian sokongan langsung.
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | Not populated in the Malaysia (NPRA) license record provided; tildrakizumab's known global indication is moderate-to-severe plaque psoriasis |
-| Predicted New Indication | Severe Nonproliferative Diabetic Retinopathy |
-| TxGNN Prediction Score | 99.63% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+| Perkara | Kandungan |
+|--------|----------|
+| Petunjuk Asal | Tidak diisi dalam rekod lesen NPRA Malaysia yang disediakan; petunjuk global tildrakizumab yang diketahui ialah psoriasis plak sederhana hingga berat |
+| Petunjuk Baru yang Diramalkan | Retinopati Diabetes Nonproliferatif Berat |
+| Skor Ramalan TxGNN | 99.63% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed mechanism-of-action documentation is not available from DrugBank in this evidence pack (flagged as a High-severity data gap). Based on the drug class and the mechanistic notes attached to this candidate set, tildrakizumab is a monoclonal antibody that binds the p19 subunit of IL-23, blocking downstream Th17 cell differentiation and IL-17A secretion — the pathway underlying its proven efficacy in plaque psoriasis.
+Dokumentasi mekanisme tindakan yang terperinci tidak tersedia daripada DrugBank dalam paket bukti ini (ditandai sebagai jurang data Bernilai Tinggi). Berdasarkan kelas ubat dan catatan mekanistik yang dilampirkan pada set calon ini, tildrakizumab ialah antibodi monoklonal yang mengikat subunit p19 IL-23, menghalang pembezaan sel Th17 hilir dan sekresi IL-17A — laluan yang mendasari keberkesanannya yang terbukti dalam psoriasis plak.
 
-The link to diabetic retinopathy is indirect and cross-species: published models suggest IL-17A, acting through retinal Müller cells, contributes to retinal ganglion cell injury, and that the IL-17A/RORγt axis drives retinal inflammation and microvascular degeneration in diabetic animal models. This candidate (severe nonproliferative diabetic retinopathy) is a TxGNN extrapolation of the broader diabetic-retinopathy prediction to a more specific disease stage — the mechanistic strength is identical to the general DR prediction, but no data exists for this severity stratum specifically.
+Hubungan dengan retinopati diabetes adalah tidak langsung dan lintas spesies: model yang diterbitkan mencadangkan IL-17A, bertindak melalui sel Müller retina, menyumbang kepada kecederaan sel ganglion retina, dan bahawa paksi IL-17A/RORγt mendorong keradangan retina dan degenerasi mikrovaskular dalam model diabetes hewan. Calon ini (retinopati diabetes nonproliferatif berat) ialah ekstrapolasi TxGNN daripada ramalan retinopati diabetes yang lebih luas kepada peringkat penyakit yang lebih spesifik — kekuatan mekanistik adalah sama dengan ramalan DR umum, tetapi tiada data wujud untuk peringkat keterukan ini secara khusus.
 
-Whether a systemically administered anti-IL-23 antibody achieves meaningful penetration into retinal tissue, and whether suppressing IL-17A is protective or harmful in this context, is unresolved — some literature reports a neuroprotective role for IL-17A, meaning the mechanistic rationale is directionally plausible but unproven and not without controversy.
+Sama ada antibodi anti-IL-23 yang ditadbir secara sistemik mencapai penembusan bermakna ke dalam tisu retina, dan sama ada menekan IL-17A adalah pelindung atau berbahaya dalam konteks ini, masih belum dapat diselesaikan — beberapa literatur melaporkan peranan neuropelindung untuk IL-17A, bermakna nisbah mekanistik adalah munasabah secara berarah tetapi tidak terbukti dan tidak bebas daripada kontroversi.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-Currently no related clinical trials registered.
+Pada masa kini tiada ujian klinikal berkaitan yang terdaftar.
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no related literature available.
+Pada masa kini tiada literatur berkaitan yang tersedia.
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-NPRA records confirm 1 active registration for this product, but the license number, product name, dosage form, manufacturer, and approved-indication text fields were not populated in this evidence extract, so authorization details cannot be tabulated here.
+Rekod NPRA mengesahkan 1 pendaftaran aktif untuk produk ini, tetapi nombor lesen, nama produk, bentuk dos, pengilang, dan medan teks petunjuk yang diluluskan tidak diisi dalam ekstrak bukti ini, oleh itu butir-butir kebenaran tidak dapat dijadualkan di sini.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisipan paket untuk maklumat keselamatan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-All predicted indications for this drug (including this top-ranked candidate) sit at decision stage S0 with Evidence Level L5 — model prediction only. Searches across ClinicalTrials.gov, ICTRP, and PubMed returned zero results for tildrakizumab in any of the four predicted diabetic/ophthalmic/bone indications, so there is no clinical or preclinical signal to act on yet.
+**Rasional:**
+Semua petunjuk yang diramalkan untuk ubat ini (termasuk calon kedudukan teratas) berada pada tahap keputusan S0 dengan Tahap Bukti L5 — ramalan model sahaja. Pencarian merentasi ClinicalTrials.gov, ICTRP, dan PubMed mengembalikan keputusan sifar untuk tildrakizumab dalam mana-mana daripada empat petunjuk diabetes/oftalmologi/tulang yang diramalkan, jadi tiada isyarat klinikal atau praklinkal untuk bertindak pada masa kini.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert warnings and contraindications (currently a Blocking data gap — required before any safety pre-screen)
-- Confirmed mechanism-of-action data via DrugBank API (currently a High-severity gap)
-- Preclinical studies directly linking the IL-23/Th17/IL-17A axis to diabetic retinopathy progression (not just general retinal inflammation models)
-- Completed Malaysia license details (product name, dosage form, approved indication text) to establish the true original-indication baseline
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Amaran sisipan paket TFDA/NPRA dan kontraindikasi (pada masa kini jurang data Menghalang — diperlukan sebelum sebarang pemeriksaan keselamatan pra)
+- Data mekanisme tindakan yang disahkan melalui API DrugBank (pada masa kini jurang Bernilai Tinggi)
+- Kajian praklinkal yang menghubungkan secara langsung paksi IL-23/Th17/IL-17A ke perkembangan retinopati diabetes (bukan sekadar model keradangan retina umum)
+- Maklumat lesen NPRA Malaysia yang lengkap (nama produk, bentuk dos, teks petunjuk yang diluluskan) untuk mewujudkan garis dasar petunjuk asal yang benar
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,88 +29,89 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Betamethasone Valerate: Drug Repurposing Evaluation Report
+# Betamethasone Valerate: Laporan Penilaian Repurposing Ubat
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Betamethasone valerate is a topical corticosteroid widely used for inflammatory and pruritic dermatoses, currently marketed in Malaysia with 23 registered licences. The TxGNN model has **not generated any predicted new indications** for this drug at this time, and critical data gaps (DrugBank ID, mechanism of action, regulatory label details) prevent a meaningful repurposing assessment.
+Betamethasone valerate ialah kortikosteroid topikal yang digunakan secara meluas untuk dermatosis inflamasi dan pruritus, kini dipasarkan di Malaysia dengan 23 lesen berdaftar. Model TxGNN **belum menghasilkan sebarang petunjuk indikasi baru** untuk ubat ini pada masa ini, dan jurang data kritikal (DrugBank ID, mekanisme tindakan, perincian label pengawalselia) menghalang penilaian repurposing yang bermakna.
 
 ---
 
-## Quick Overview
+## Ikhtisar Cepat
 
-| Item | Content |
+| Perkara | Kandungan |
 |------|------|
-| Original Indication | Not available (licence indication text missing) |
-| Predicted New Indication | **None** — no TxGNN predictions generated |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 (no predictions or supporting studies) |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 23 |
-| Recommended Decision | **Hold** |
+| Petunjuk Asal | Tidak tersedia (teks indikasi lesen tidak didapati) |
+| Petunjuk Baru Yang Diramal | **Tiada** — tiada ramalan TxGNN yang dijana |
+| Skor Ramalan TxGNN | T/A |
+| Aras Bukti | L5 (tiada ramalan atau kajian sokongan) |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 23 |
+| Keputusan yang Disyorkan | **Tunggu** |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-There is currently **no TxGNN prediction to evaluate**. The `predicted_indications` array is empty, meaning the model did not return any repurposing candidates for betamethasone valerate in this run.
+Pada masa ini **tiada ramalan TxGNN untuk dinilai**. Tatasusunan `predicted_indications` adalah kosong, bermaksud model tidak mengembalikan sebarang calon repurposing untuk betamethasone valerate dalam proses ini.
 
-Based on publicly available knowledge, betamethasone valerate is a synthetic glucocorticoid ester with potent anti-inflammatory, immunosuppressive, and antipruritic properties. It acts by binding to intracellular glucocorticoid receptors, suppressing the transcription of pro-inflammatory cytokines (e.g., IL-1, IL-6, TNF-α) and inhibiting phospholipase A₂, thereby reducing prostaglandin and leukotriene synthesis. It is predominantly used as a topical formulation for dermatological conditions such as eczema, psoriasis, and contact dermatitis.
+Berdasarkan pengetahuan yang tersedia di kawasan umum, betamethasone valerate ialah ester glukokortikoid sintetik dengan sifat anti-inflamasi yang kuat, supresi imun, dan antipruritus. Ia bertindak dengan mengikat reseptor glukokortikoid intrasel, menekan transkripsi sitokin pro-inflamasi (cth., IL-1, IL-6, TNF-α) dan menghalang fosfolipase A₂, seterusnya mengurangkan sintesis prostaglandin dan leukotrien. Ia digunakan terutamanya sebagai formulasi topikal untuk keadaan dermatologi seperti eksema, psoriasis, dan dermatitis sentuh.
 
-However, the evidence pack lacks a DrugBank ID and formal MOA data (`[Data Gap]`), which limits the ability to computationally link this drug to novel disease targets within the TxGNN knowledge graph. **Resolving the DrugBank mapping is a prerequisite** for generating meaningful predictions.
-
----
-
-## Clinical Trial Evidence
-
-Currently no predicted indication exists, therefore no clinical trial search was performed for a repurposing direction.
-
-> Currently no related clinical trials registered for a new predicted indication.
+Bagaimanapun, pakej bukti kekurangan DrugBank ID dan data MOA formal (`[Data Gap]`), yang mengehadkan keupayaan untuk menghubungkan ubat ini secara pengkomputeran kepada sasaran penyakit baru dalam graf pengetahuan TxGNN. **Menyelesaikan pemetaan DrugBank ialah prasyarat** untuk menghasilkan ramalan yang bermakna.
 
 ---
 
-## Literature Evidence
+## Bukti Ujian Klinikal
 
-> Currently no related literature available for a new predicted indication.
+Pada masa ini tiada indikasi yang diramal wujud, oleh itu tiada pencarian ujian klinikal dilakukan untuk arah repurposing.
+
+> Pada masa ini tiada ujian klinikal berkaitan berdaftar untuk indikasi yang diramal baru.
 
 ---
 
-## Malaysia Market Information
+## Bukti Literatur
 
-23 licences are registered; however, detailed licence information (authorisation numbers, product names, dosage forms, and approved indication text) was not available in the evidence pack.
+> Pada masa ini tiada literatur berkaitan tersedia untuk indikasi yang diramal baru.
 
-| Authorisation Number | Product Name | Dosage Form | Approved Indication |
+---
+
+## Maklumat Pasaran Malaysia
+
+23 lesen berdaftar; bagaimanapun, maklumat lesen terperinci (nombor kebenaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan) tidak tersedia dalam pakej bukti.
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
 |------|------|------|------|
-| *(data not provided)* | — | — | — |
+| *(data tidak disediakan)* | — | — | — |
 
-> **Note:** The raw licence records returned empty fields. A follow-up query to the NPRA database is needed to populate this table.
-
----
-
-## Safety Considerations
-
-> Please refer to the package insert for safety information. Key warnings, contraindications, and drug–drug interaction data were not available in this evidence pack (flagged as `[Data Gap]` / `not_found`).
+> **Nota:** Rekod lesen mentah mengembalikan medan kosong. Pertanyaan susulan kepada pangkalan data NPRA diperlukan untuk mengisi jadual ini.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
-
-**Rationale:**
-No repurposing candidates were generated by TxGNN for betamethasone valerate. Multiple blocking data gaps — including the absence of a DrugBank ID, mechanism of action, regulatory label text, and safety profile — prevent any meaningful evaluation. The drug cannot proceed through the repurposing pipeline until these foundational data elements are resolved.
-
-**To proceed, the following is needed:**
-
-1. **Resolve DrugBank mapping** — Query DrugBank for "betamethasone valerate" (likely maps to **DB00394** for betamethasone or a salt-specific entry) and update `drugbank_id` in the evidence pack.
-2. **Retrieve MOA data** — Once the DrugBank ID is confirmed, extract the mechanism of action, pharmacodynamics, and target information.
-3. **Populate NPRA licence details** — Re-query the NPRA database to obtain authorisation numbers, product names, dosage forms, and approved indication text for the 23 registered licences.
-4. **Extract safety information** — Download and parse the package insert (仿單) PDF to populate key warnings, contraindications, and drug interactions.
-5. **Re-run TxGNN prediction** — With the DrugBank ID and complete drug profile in place, re-execute the KG and DL prediction pipeline to determine if any repurposing candidates emerge.
+> Sila rujuk sisipan pakej untuk maklumat keselamatan. Data amaran utama, kontraindikasi, dan interaksi ubat–ubat tidak tersedia dalam pakej bukti ini (ditandai sebagai `[Data Gap]` / `not_found`).
 
 ---
 
-*Disclaimer: This report is for research purposes only and does not constitute medical advice. Any drug repurposing candidates require rigorous clinical validation before application.*
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tunggu**
+
+**Rasional:**
+Tiada calon repurposing yang dijana oleh TxGNN untuk betamethasone valerate. Berbilang jurang data penyekat — termasuk ketiadaan DrugBank ID, mekanisme tindakan, teks label pengawalselia, dan profil keselamatan — menghalang sebarang penilaian yang bermakna. Ubat tidak boleh meneruskan melalui saluran repurposing sehingga unsur data asas ini diselesaikan.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+
+1. **Selesaikan pemetaan DrugBank** — Pertanyaan DrugBank untuk "betamethasone valerate" (berkemungkinan dipetakan ke **DB00394** untuk betamethasone atau entri spesifik garam) dan kemas kini `drugbank_id` dalam pakej bukti.
+2. **Ambil data MOA** — Setelah DrugBank ID disahkan, ekstrak mekanisme tindakan, farmakodinamik, dan maklumat sasaran.
+3. **Isi perincian lesen NPRA** — Pertanyaan semula pangkalan data NPRA untuk mendapatkan nombor kebenaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan untuk 23 lesen berdaftar.
+4. **Ekstrak maklumat keselamatan** — Muat turun dan parsing sisipan pakej (仿單) PDF untuk mengisi amaran utama, kontraindikasi, dan interaksi ubat.
+5. **Jalankan semula ramalan TxGNN** — Dengan DrugBank ID dan profil ubat lengkap, jalankan semula saluran ramalan KG dan DL untuk menentukan sama ada sebarang calon repurposing muncul.
+
+---
+
+*Penafian: Laporan ini hanya untuk tujuan penyelidikan dan tidak merupakan nasihat perubatan. Sebarang calon repurposing ubat memerlukan pengesahan klinikal yang ketat sebelum aplikasi.*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

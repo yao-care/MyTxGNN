@@ -29,95 +29,96 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-# Carfilzomib: From Multiple Myeloma to Melanoma
+# Carfilzomib: Daripada Multiple Myeloma kepada Melanoma
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Carfilzomib is a second-generation proteasome inhibitor from the same drug class approved for relapsed/refractory multiple myeloma. The TxGNN model predicts potential activity against **Melanoma** (and several related rare subtypes), but current support is limited to **5 preclinical/in vitro publications** — no clinical trials exist for any of the predicted melanoma indications.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Multiple Myeloma (based on known drug classification; Malaysia label indication text was not retrievable from this evidence pack — see Data Gaps) |
-| Predicted New Indication | Melanoma |
-| TxGNN Prediction Score | 99.03% (melanoma); related melanoma subtype predictions score up to 99.37% (CMM7) |
-| Evidence Level | L4 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 2 |
-| Recommended Decision | Hold |
+Carfilzomib ialah perencat proteasom generasi kedua daripada kelas ubat yang sama yang diluluskan untuk multiple myeloma relaps/refraktori. Model TxGNN meramalkan potensi aktiviti terhadap **Melanoma** (dan beberapa subtipe melanoma yang jarang), namun sokongan semasa terhad kepada **5 penerbitan praklinik/in vitro** — tiada percubaan klinikal wujud untuk sebarang petunjukan melanoma yang diramalkan.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Ringkas
 
-Currently, detailed mechanism of action data for carfilzomib is not available in this evidence pack (flagged as a High-severity data gap). Based on known pharmacological classification, carfilzomib is an irreversible second-generation proteasome inhibitor: it blocks the 26S proteasome, preventing degradation of pro-apoptotic regulators and disrupting NF-κB pathway activation. This mechanism underlies its efficacy in multiple myeloma, a malignancy that is highly dependent on proteasome function for plasma cell survival.
-
-The predicted new indication, melanoma, is mechanistically distinct (solid tumor vs. hematologic malignancy), but preclinical work suggests the same proteasome/NF-κB axis is relevant in melanoma cell biology. In vitro data show carfilzomib (alone or combined with bortezomib) induces apoptosis in B16-F1 melanoma cells via caspase 3/8/9/12 activation, and related mechanistic studies (E3-ligase cIAP2 regulation, NF-κB-driven heparanase expression, BET-protein degradation) support a plausible — though not yet clinically tested — role for proteasome inhibition in melanoma.
-
-TxGNN additionally surfaced four rare melanoma subtypes (CMM7, pediatric leptomeningeal melanoma, epithelioid uveal melanoma, vulvar melanoma) with even higher prediction scores than generic melanoma, but **none of these subtypes have any supporting clinical trial or literature evidence** — they represent pure knowledge-graph extrapolation and are separately scored L5/Hold. Several also carry specific mechanistic concerns (e.g., limited CNS/blood-brain-barrier penetration for the pediatric leptomeningeal case, differing driver mutations for uveal and vulvar/mucosal subtypes), so they should not be treated as validated leads.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered (for melanoma or any of the predicted subtypes: CMM7, pediatric leptomeningeal melanoma, epithelioid uveal melanoma, vulvar melanoma).
+| Item | Kandungan |
+|------|---------|
+| Petunjukan Asal | Multiple Myeloma (berdasarkan klasifikasi ubat yang diketahui; teks petunjukan label Malaysia tidak dapat diperolehi daripada paket bukti ini — lihat Jurang Data) |
+| Petunjukan Baru Diramalkan | Melanoma |
+| Skor Ramalan TxGNN | 99.03% (melanoma); ramalan subtipe melanoma yang berkaitan mencapai skor sehingga 99.37% (CMM7) |
+| Tahap Bukti | L4 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 2 |
+| Keputusan Disyorkan | Tangguhkan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| PMID | Year | Type | Journal | Key Findings |
+Pada masa ini, data mekanisme kerja terperinci untuk carfilzomib tidak tersedia dalam paket bukti ini (ditandakan sebagai jurang data berketuan Tinggi). Berdasarkan klasifikasi farmakoloji yang diketahui, carfilzomib ialah perencat proteasom generasi kedua yang tidak boleh balik: ia menyekat proteasom 26S, menghalang degradasi pengawal pro-apoptotik dan mengganggu pengaktifan laluan NF-κB. Mekanisme ini mendasari keberkesanannya dalam multiple myeloma, malignansi yang sangat bergantung pada fungsi proteasom untuk kemandirian sel plasma.
+
+Petunjukan baru diramalkan, melanoma, berbeza dari segi mekanisme (tumor pepejal vs. malignansi hematologi), tetapi kerja praklinik mencadangkan paksi proteasom/NF-κB yang sama relevan dalam biologi sel melanoma. Data in vitro menunjukkan carfilzomib (bersendirian atau digabung dengan bortezomib) mendorong apoptosis dalam sel melanoma B16-F1 melalui pengaktifan caspase 3/8/9/12, dan kajian mekanistik yang berkaitan (peraturan E3-ligase cIAP2, ekspresi heparanase yang didorong NF-κB, degradasi protein BET) menyokong peranan yang munasabah — meskipun belum diuji secara klinikal — untuk perencatan proteasom dalam melanoma.
+
+TxGNN juga menampilkan empat subtipe melanoma yang jarang (CMM7, melanoma leptomeningeal pediatrik, melanoma uveal epitelioid, melanoma vulva) dengan skor ramalan yang lebih tinggi daripada melanoma umum, tetapi **tiada seorang pun daripada subtipe ini mempunyai bukti percubaan klinikal atau literatur yang menyokong** — mereka mewakili ekstrapolasi graf pengetahuan tulen dan dinilai secara berasingan L5/Tangguhkan. Beberapa juga membawa kebimbangan mekanistik tertentu (cth., penembusan CNS/penghalang darah-otak yang terbatas untuk kes leptomeningeal pediatrik, mutasi pemacu yang berbeza untuk subtipe uveal dan vulva/mukosa), jadi mereka tidak boleh dianggap sebagai petunjuk yang disahkan.
+
+---
+
+## Bukti Percubaan Klinikal
+
+Pada masa ini tiada percubaan klinikal yang berkaitan didaftarkan (untuk melanoma atau sebarang daripada subtipe yang diramalkan: CMM7, melanoma leptomeningeal pediatrik, melanoma uveal epitelioid, melanoma vulva).
+
+---
+
+## Bukti Literatur
+
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [33671902](https://pubmed.ncbi.nlm.nih.gov/33671902/) | 2021 | In vitro/Preclinical | Biology | Carfilzomib + bortezomib induced apoptosis in B16-F1 melanoma cells via caspase 3/8/9/12 activation |
-| [36134605](https://pubmed.ncbi.nlm.nih.gov/36134605/) | 2023 | In silico (molecular docking/simulation) | J Biomol Struct Dyn | Docking/dynamics screening of clinical drugs across 10 cancer types (incl. melanoma) against 18 kinase targets |
-| [31540997](https://pubmed.ncbi.nlm.nih.gov/31540997/) | 2019 | In vitro/Mechanistic | Mol Cancer Res | ZFAND2A (AIRAP) regulates melanoma cell survival via E3-ligase cIAP2, implicating proteotoxic-stress pathways relevant to proteasome inhibition |
-| [29581547](https://pubmed.ncbi.nlm.nih.gov/29581547/) | 2018 | In vitro/Preclinical (PROTAC) | Leukemia | BET-targeting PROTACs active in preclinical multiple myeloma models — myeloma-context evidence supporting the shared proteasomal-degradation pathway, not direct melanoma data |
-| [27016342](https://pubmed.ncbi.nlm.nih.gov/27016342/) | 2016 | In vitro/Preclinical | Matrix Biology | Bortezomib and carfilzomib activate NF-κB, triggering heparanase expression in myeloma cells — myeloma-context evidence, not direct melanoma data |
+| [33671902](https://pubmed.ncbi.nlm.nih.gov/33671902/) | 2021 | In vitro/Praklinik | Biology | Carfilzomib + bortezomib mendorong apoptosis dalam sel melanoma B16-F1 melalui pengaktifan caspase 3/8/9/12 |
+| [36134605](https://pubmed.ncbi.nlm.nih.gov/36134605/) | 2023 | In silico (penyekatan molekul/simulasi) | J Biomol Struct Dyn | Penyekatan/dinamik ubat klinikal merentasi 10 jenis kanser (termasuk melanoma) terhadap 18 sasaran kinase |
+| [31540997](https://pubmed.ncbi.nlm.nih.gov/31540997/) | 2019 | In vitro/Mekanistik | Mol Cancer Res | ZFAND2A (AIRAP) mengatur kemandirian sel melanoma melalui E3-ligase cIAP2, membayangkan laluan tekanan proteotoksik yang relevan dengan perencatan proteasom |
+| [29581547](https://pubmed.ncbi.nlm.nih.gov/29581547/) | 2018 | In vitro/Praklinik (PROTAC) | Leukemia | PROTAC bertarget BET yang aktif dalam model multiple myeloma praklinik — bukti konteks myeloma yang menyokong laluan degradasi proteasomal yang berkongsi, bukan data melanoma langsung |
+| [27016342](https://pubmed.ncbi.nlm.nih.gov/27016342/) | 2016 | In vitro/Praklinik | Matrix Biology | Bortezomib dan carfilzomib mengaktifkan NF-κB, mencetuskan ekspresi heparanase dalam sel myeloma — bukti konteks myeloma, bukan data melanoma langsung |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Malaysia (NPRA) records show carfilzomib as marketed with **2 active registrations**. However, this evidence pack did not return product-level details (license number, product name, dosage form, or approved indication text) for either registration — these fields are blank in the source data and are not fabricated here.
-
----
-
-## Cytotoxicity
-
-Carfilzomib is an antineoplastic agent (proteasome inhibitor class, oncology indication).
-
-| Item | Content |
-|------|------|
-| Cytotoxicity Classification | Targeted therapy (second-generation proteasome inhibitor) |
-| Myelosuppression Risk | Moderate–High (thrombocytopenia and lymphopenia are class-recognized effects of proteasome inhibitors); specific incidence data not available in this evidence pack |
-| Emetogenicity Classification | Low to Moderate (proteasome inhibitor class) |
-| Monitoring Items | CBC with differential, renal function, electrolytes, cardiac/pulmonary status (proteasome inhibitor class carries a cardiotoxicity signal) |
-| Handling Protection | Cytotoxic/hazardous drug handling precautions apply; institution-specific NPRA handling requirements were not available in this evidence pack |
+Rekod Malaysia (NPRA) menunjukkan carfilzomib sebagai dipasarkan dengan **2 pendaftaran aktif**. Walau bagaimanapun, paket bukti ini tidak mengembalikan butiran peringkat produk (nombor lesen, nama produk, bentuk dos, atau teks petunjukan yang diluluskan) untuk sebarang pendaftaran — medan ini kosong dalam data sumber dan tidak dibuat di sini.
 
 ---
 
-## Safety Considerations
+## Sitotoksisiti
 
-Please refer to the package insert for safety information. (Key warnings, contraindications, and drug-interaction data were flagged as data gaps in this evidence pack; the DDI query returned no records.)
+Carfilzomib ialah agen antineoplastik (kelas perencat proteasom, petunjukan onkologi).
+
+| Item | Kandungan |
+|------|---------|
+| Klasifikasi Sitotoksisiti | Terapi bertarget (perencat proteasom generasi kedua) |
+| Risiko Myelosuppression | Sederhana–Tinggi (trombositopenia dan limpositopenia ialah kesan yang diketahui dari kelas perencat proteasom); data insiden khusus tidak tersedia dalam paket bukti ini |
+| Klasifikasi Emetogenisiti | Rendah hingga Sederhana (kelas perencat proteasom) |
+| Aspek Pemantauan | Kiraan sel darah dengan pembezaan, fungsi ginjal, elektrolit, status jantung/paru-paru (kelas perencat proteasom mempunyai isyarat kardiotoksisiti) |
+| Perlindungan Pengendalian | Perlindungan pengendalian ubat sitotoksik/berbahaya terpakai; keperluan pengendalian NPRA khusus institusi tidak tersedia dalam paket bukti ini |
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila rujuk risalah produk untuk maklumat keselamatan. (Data amaran utama, kontraindikasi, dan interaksi ubat telah ditandakan sebagai jurang data dalam paket bukti ini; pertanyaan DDI mengembalikan tiada rekod.)
 
-**Rationale:**
-Evidence for melanoma (and all four related subtype predictions) is limited entirely to in vitro, mechanistic, and in silico studies — there are zero clinical trials or patient-level data. This is compounded by a Blocking-severity data gap on Malaysia label warnings/contraindications, which prevents even an initial safety assessment.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert — warnings and contraindications (Blocking gap, DG001)
-- Confirmed mechanism of action / drug classification from DrugBank (DG002)
-- Malaysia label original indication text and full registration details (currently blank in source data)
-- In vivo/animal efficacy data or early-phase clinical evidence in melanoma before advancing beyond the current preclinical hypothesis
-- Completed DDI screening (currently not_found, 0 records)
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tangguhkan**
+
+**Rasional:**
+Bukti untuk melanoma (dan semua empat ramalan subtipe yang berkaitan) terbatas sepenuhnya kepada kajian in vitro, mekanistik, dan in silico — terdapat sifar percubaan klinikal atau data peringkat pesakit. Ini dikompaunkan oleh jurang data berketuan Sekatan pada amaran label Malaysia/kontraindikasi, yang menghalang penilaian keselamatan awal sekalipun.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Risalah produk TFDA/NPRA — amaran dan kontraindikasi (jurang Sekatan, DG001)
+- Mekanisme kerja yang disahkan / klasifikasi ubat daripada DrugBank (DG002)
+- Label Malaysia petunjukan asal dan butiran pendaftaran lengkap (pada masa ini kosong dalam data sumber)
+- Data keberkesanan in vivo/haiwan atau bukti klinikal fasa awal dalam melanoma sebelum maju melampaui hipotesis praklinik semasa
+- Penyekatan DDI yang selesai (pada masa ini tidak_dijumpai, 0 rekod)
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

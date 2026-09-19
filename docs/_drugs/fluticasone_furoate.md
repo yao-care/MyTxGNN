@@ -29,77 +29,78 @@ Tahap bukti: **L2** | Indikasi diramal: **8**
 
 </div>
 
-# Fluticasone Furoate: From Asthma/COPD to Atopic Eczema
+# Fluticasone Furoate: Daripada Asma/COPD kepada Ekzema Atopik
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Fluticasone furoate (DB08906) is an inhaled corticosteroid (ICS) currently marketed in Malaysia in combination products (e.g. Relvar/Arnuity Ellipta) for asthma and COPD. The TxGNN model's top-ranked prediction is that it may also be effective for **Atopic Eczema**, but the supporting evidence base of **11 clinical trials** and **2 publications** consists almost entirely of the propionate ester (not furoate), so the finding remains a class-effect hypothesis rather than molecule-specific proof.
+Fluticasone furoate (DB08906) ialah kortikosteroid yang dihirup (ICS) yang kini dipasarkan di Malaysia dalam produk kombinasi (cth. Relvar/Arnuity Ellipta) untuk asma dan COPD. Ramalan utama model TxGNN ialah ia mungkin juga berkesan untuk **Ekzema Atopik**, tetapi asas bukti sokongan sebanyak **11 percubaan klinikal** dan **2 penerbitan** terdiri hampir sepenuhnya daripada ester propionat (bukan furoat), jadi penemuan ini kekal sebagai hipotesis kesan-kelas dan bukannya bukti khusus-molekul.
 
-## Quick Overview
+## Gambaran Ringkas
 
-| Item | Content |
-|------|------|
-| Original Indication | Not specified in NPRA license records (all 4 license entries have blank indication text); known approved uses of FF-containing combination products are asthma and COPD |
-| Predicted New Indication | Atopic Eczema |
-| TxGNN Prediction Score | 99.98% |
-| Evidence Level | L2 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 4 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Tidak dinyatakan dalam rekod lesen NPRA (kesemua 4 entri lesen mempunyai teks indikasi kosong); kegunaan diluluskan yang diketahui bagi produk kombinasi mengandungi FF ialah asma dan COPD |
+| Indikasi Baru Diramalkan | Ekzema Atopik |
+| Skor Ramalan TxGNN | 99.98% |
+| Tahap Bukti | L2 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 4 |
+| Keputusan yang Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Wajar?
 
-Currently, detailed mechanism of action data for fluticasone furoate is not available (data gap, High severity). Based on what is present in this evidence pack, fluticasone furoate is an ICS marketed as combination products (Relvar/Breo Ellipta with vilanterol, and Arnuity Ellipta) approved for asthma and COPD, where it acts by suppressing airway inflammation. Topical corticosteroids as a drug class are also first-line treatment for atopic eczema, acting by suppressing local cutaneous inflammation — the same broad anti-inflammatory mechanism.
+Pada masa ini, data mekanisme tindakan terperinci untuk fluticasone furoate tidak tersedia (jurang data, keparahan Tinggi). Berdasarkan apa yang terdapat dalam pakej bukti ini, fluticasone furoate ialah sejenis ICS yang dipasarkan sebagai produk kombinasi (Relvar/Breo Ellipta dengan vilanterol, dan Arnuity Ellipta) yang diluluskan untuk asma dan COPD, di mana ia bertindak dengan menekan radang saluran udara. Kortikosteroid topikal sebagai satu kelas ubat juga merupakan rawatan garis pertama untuk ekzema atopik, bertindak dengan menekan radang kulit tempatan — mekanisme anti-radang yang sama.
 
-However, the mechanistic link here is a class-effect inference rather than molecule-specific evidence. Almost all of the clinical trials returned for atopic eczema studied **fluticasone propionate** (a different ester, e.g. Cutivate) in topical cream/ointment/lotion form — not fluticasone furoate. Fluticasone furoate itself is currently marketed only as a nasal spray and inhaler formulation; no furoate-specific topical skin trial was found. The prediction is therefore biologically plausible (steroid class-effect) but not yet supported by furoate-specific data, consistent with the evidence pack's own L2/"Research Question" scoring for this indication.
+Walau bagaimanapun, pautan mekanistik di sini ialah inferens kesan-kelas dan bukannya bukti khusus-molekul. Hampir semua percubaan klinikal yang dikembalikan untuk ekzema atopik mengkaji **fluticasone propionate** (ester yang berbeza, cth. Cutivate) dalam bentuk krim/salep/lotion topikal — bukan fluticasone furoate. Fluticasone furoate itu sendiri kini dipasarkan hanya sebagai semburan hidung dan perumusan penyedut; tidak ditemui percubaan kulit topikal khusus furoat. Oleh itu, ramalan ini secara biologis munasabah (kesan-kelas steroid) tetapi belum disokong oleh data khusus furoat, selaras dengan penilaian L2/"Soalan Penyelidikan" pakej bukti itu sendiri untuk indikasi ini.
 
-Notably, a separate TxGNN-predicted indication in this same evidence pack — **bronchitis/COPD** (rank 2) — is supported by direct fluticasone furoate evidence (RELVAR/Arnuity Ellipta trials) and reaches evidence level L1 with a "Proceed with Guardrails" recommendation. That indication represents a more direct, on-molecule extension of the drug's existing respiratory use and may warrant separate evaluation.
+Dengan ketara, indikasi ramalan TxGNN yang berasingan dalam pakej bukti yang sama ini — **bronkitis/COPD** (pangkat 2) — disokong oleh bukti fluticasone furoate langsung (percubaan RELVAR/Arnuity Ellipta) dan mencapai tahap bukti L1 dengan cadangan "Teruskan dengan Penjaga". Indikasi itu mewakili lanjutan yang lebih langsung, pada-molekul, bagi penggunaan pernafasan sedia ada ubat itu dan mungkin wajar untuk penilaian berasingan.
 
-## Clinical Trial Evidence
+## Bukti Percubaan Klinikal
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Percubaan | Fasa | Status | Bilangan Peserta | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT00690105](https://clinicaltrials.gov/study/NCT00690105) | Phase 4 | Completed | 577 | Tacrolimus 0.1% ointment vs fluticasone 0.005% ointment in adults with moderate-severe atopic dermatitis with facial "red face" lesions |
-| [NCT01772056](https://clinicaltrials.gov/study/NCT01772056) | Phase 3 | Terminated | 54 | Twice-weekly topical fluticasone propionate maintenance therapy to reduce relapse risk in children with mild-moderate AD |
-| [NCT00546000](https://clinicaltrials.gov/study/NCT00546000) | Phase 4 | Completed | 56 | Open-label study of Cutivate (fluticasone propionate) lotion 0.05% effect on HPA axis in pediatric AD |
-| [NCT00689832](https://clinicaltrials.gov/study/NCT00689832) | Phase 4 | Completed | 487 | Tacrolimus 0.03% ointment vs fluticasone 0.005% ointment in children ≥2 years with moderate-severe AD |
-| [NCT01915914](https://clinicaltrials.gov/study/NCT01915914) | Phase 4 | Completed | 107 | Intermittent (twice-weekly) fluticasone propionate 0.05% cream vs daily moisturizer in stabilized pediatric AD |
-| [NCT04706559](https://clinicaltrials.gov/study/NCT04706559) | NA | Completed | 98 | Oral probiotic supplementation trial in children with AD (drug-unrelated comparator study) |
-| [NCT03742414](https://clinicaltrials.gov/study/NCT03742414) | Phase 2 | Active, not recruiting | 398 | SEAL study: proactive skin-barrier care plus fluticasone propionate cream vs reactive therapy to prevent AD/food allergy in infants |
-| [NCT00426283](https://clinicaltrials.gov/study/NCT00426283) | Phase 2 | Completed | 42 | Swallowed high-dose fluticasone propionate vs placebo for eosinophilic esophagitis (non-cutaneous indication) |
-| [NCT00616538](https://clinicaltrials.gov/study/NCT00616538) | Phase 4 | Completed | 121 | EpiCeram device vs mid-strength topical steroid (fluticasone propionate 0.05%) in pediatric AD |
-| [NCT00119158](https://clinicaltrials.gov/study/NCT00119158) | Phase 4 | Completed | 90 | Concomitant Elidel 1% cream + Cutivate (fluticasone propionate) 0.05% cream in severe AD lesions |
+| [NCT00690105](https://clinicaltrials.gov/study/NCT00690105) | Fasa 4 | Selesai | 577 | Tacrolimus 0.1% salep vs fluticasone 0.005% salep dalam orang dewasa dengan dermatitis atopik sederhana-berat dengan lesi "muka merah" |
+| [NCT01772056](https://clinicaltrials.gov/study/NCT01772056) | Fasa 3 | Dihentikan | 54 | Terapi penyelenggaraan fluticasone propionate topikal dua kali seminggu untuk mengurangi risiko kambuh pada kanak-kanak dengan AD ringan-sederhana |
+| [NCT00546000](https://clinicaltrials.gov/study/NCT00546000) | Fasa 4 | Selesai | 56 | Kajian label-terbuka kesan lotion Cutivate (fluticasone propionate) 0.05% pada paksi HPA dalam AD pediatrik |
+| [NCT00689832](https://clinicaltrials.gov/study/NCT00689832) | Fasa 4 | Selesai | 487 | Tacrolimus 0.03% salep vs fluticasone 0.005% salep pada kanak-kanak ≥2 tahun dengan AD sederhana-berat |
+| [NCT01915914](https://clinicaltrials.gov/study/NCT01915914) | Fasa 4 | Selesai | 107 | Krim fluticasone propionate 0.05% berkala (dua kali seminggu) vs pelembap harian dalam AD pediatrik yang stabil |
+| [NCT04706559](https://clinicaltrials.gov/study/NCT04706559) | NA | Selesai | 98 | Kajian suplemen probiotik lisan pada kanak-kanak dengan AD (kajian perbandingan yang tidak berkaitan ubat) |
+| [NCT03742414](https://clinicaltrials.gov/study/NCT03742414) | Fasa 2 | Aktif, bukan perekrutan | 398 | Kajian SEAL: penjagaan halangan kulit proaktif ditambah krim fluticasone propionate vs terapi reaktif untuk mencegah AD/alergi makanan pada bayi |
+| [NCT00426283](https://clinicaltrials.gov/study/NCT00426283) | Fasa 2 | Selesai | 42 | Fluticasone propionate dos tinggi yang ditelan vs plasebo untuk esofagitis eosinofil (indikasi bukan kulit) |
+| [NCT00616538](https://clinicaltrials.gov/study/NCT00616538) | Fasa 4 | Selesai | 121 | Peranti EpiCeram vs steroid topikal kekuatan sederhana (fluticasone propionate 0.05%) dalam AD pediatrik |
+| [NCT00119158](https://clinicaltrials.gov/study/NCT00119158) | Fasa 4 | Selesai | 90 | Krim Elidel 1% serentak + Cutivate (fluticasone propionate) krim 0.05% dalam lesi AD teruk |
 
-*Note: 1 additional trial (NCT03594565, a case series on skin reactions to glucose monitors) was excluded as not directly relevant to atopic eczema treatment.*
+*Nota: 1 percubaan tambahan (NCT03594565, siri kes tentang reaksi kulit terhadap pemantau glukosa) dikecualikan kerana tidak langsung berkaitan dengan rawatan ekzema atopik.*
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [19571596](https://pubmed.ncbi.nlm.nih.gov/19571596/) | 2009 | Review | Neuroimmunomodulation | Reviews intranasal corticosteroid effects on the HPA axis in patients with allergic conditions including atopic dermatitis |
-| [40066386](https://pubmed.ncbi.nlm.nih.gov/40066386/) | 2025 | Case Report | Indian J Otolaryngol Head Neck Surg | Case study of allergen immunotherapy use in a patient with autoimmune disease and atopic dermatitis |
+| [19571596](https://pubmed.ncbi.nlm.nih.gov/19571596/) | 2009 | Ulasan | Neuroimmunomodulation | Mengulas kesan kortikosteroid intranasal pada paksi HPA dalam pesakit dengan keadaan alergik termasuk dermatitis atopik |
+| [40066386](https://pubmed.ncbi.nlm.nih.gov/40066386/) | 2025 | Laporan Kes | Indian J Otolaryngol Head Neck Surg | Kajian kes penggunaan imunoterapi alergen dalam pesakit dengan penyakit autoimun dan dermatitis atopik |
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-NPRA records show fluticasone furoate has 4 active marketing authorizations in Malaysia (market status: Marketed). However, the detailed license fields (authorization number, product name, dosage form, and approved indication text) are not populated in the current dataset and cannot be reported here.
+Rekod NPRA menunjukkan fluticasone furoate mempunyai 4 kebenaran pemasaran aktif di Malaysia (status pasaran: Dipasarkan). Walau bagaimanapun, medan lesen terperinci (nombor kebenaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan) tidak diisi dalam set data semasa dan tidak boleh dilaporkan di sini.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information. No structured warnings, contraindications, or drug interaction data are currently available in this evidence pack — this is flagged as a **Blocking** data gap (DG001) that prevents initial safety screening (S1).
+Sila rujuk risalah pemasaran untuk maklumat keselamatan. Tiada data amaran berstruktur, kontraindikasi, atau interaksi ubat yang tersedia pada masa ini dalam pakej bukti ini — ini ditandai sebagai **Halangan** jurang data (DG001) yang menghalang penskrinan keselamatan awal (S1).
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The top-ranked predicted indication (atopic eczema) is supported only by class-effect reasoning — nearly all cited trials studied fluticasone propionate, not the furoate ester actually under evaluation — placing it at evidence level L2 ("Research Question"). Combined with a Blocking-severity gap in safety/label data, the evidence does not yet support proceeding.
+**Alasan:**
+Indikasi ramalan utama (ekzema atopik) hanya disokong oleh penaakulan kesan-kelas — hampir semua percubaan yang disebut mengkaji fluticasone propionate, bukan ester furoat yang benar-benar di bawah penilaian — meletakkannya pada tahap bukti L2 ("Soalan Penyelidikan"). Digabungkan dengan jurang keparahan Halangan dalam data keselamatan/label, bukti yang ada belum mencukupi untuk meneruskan.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert warnings and contraindications (Blocking gap, DG001)
-- Confirmed mechanism of action data for fluticasone furoate (High-severity gap, DG002)
-- Complete Malaysia license details (authorization numbers, product names, approved indication text)
-- Furoate-specific (not propionate) topical/dermatologic efficacy data for atopic eczema, if this indication is to be pursued further
-- Consider evaluating the bronchitis/COPD prediction (rank 2) in parallel — it has direct furoate-specific evidence (L1, "Proceed with Guardrails") and may be a more actionable near-term candidate
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Amaran risalah pemasaran TFDA/NPRA dan kontraindikasi (jurang Halangan, DG001)
+- Data mekanisme tindakan yang disahkan untuk fluticasone furoate (jurang keparahan Tinggi, DG002)
+- Perincian lesen Malaysia lengkap (nombor kebenaran, nama produk, teks indikasi yang diluluskan)
+- Data keberkesanan topikal/dermatologi khusus furoat (bukan propionat) untuk ekzema atopik, jika indikasi ini hendak diteruskan lagi
+- Pertimbangkan penilaian ramalan bronkitis/COPD (pangkat 2) secara serentak — ia mempunyai bukti fluticasone furoate langsung (L1, "Teruskan dengan Penjaga") dan mungkin menjadi calon jangka dekat yang lebih boleh bertindak
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

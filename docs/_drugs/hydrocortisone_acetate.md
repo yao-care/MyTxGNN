@@ -29,85 +29,86 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Hydrocortisone Acetate: From Topical Anti-Inflammatory Corticosteroid Use to Erythema Multiforme
+# Hidrokortison Asetat: Daripada Penggunaan Kortikosteroid Anti-Inflamasi Topical kepada Eritema Multiforme
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Hydrocortisone Acetate is a corticosteroid (glucocorticoid receptor agonist) already marketed in Malaysia with 34 registrations, though the specific original indication text was not returned in this data extract. The TxGNN model ranks **Erythema Multiforme** as its top predicted new indication, but the evidence behind this prediction is essentially absent — a TxGNN score of **0.00%**, **0 relevant clinical trials**, and only **1 case report**, which actually describes hydrocortisone-containing ear drops *causing* erythema multiforme rather than treating it.
+Hidrokortison Asetat adalah kortikosteroid (agonis reseptor glukokortikoid) yang telah dipasarkan di Malaysia dengan 34 pendaftaran, walaupun teks indikasi asal yang khusus tidak dikembalikan dalam ekstrak data ini. Model TxGNN menggolongkan **Eritema Multiforme** sebagai prediksi indikasi barunnya yang teratas, tetapi bukti di sebalik prediksi ini pada asasnya tidak wujud — skor TxGNN **0.00%**, **0 percubaan klinikal yang relevan**, dan hanya **1 laporan kes**, yang sebenarnya menggambarkan titis telinga yang mengandungi hidrokortison *menyebabkan* eritema multiforme daripada merawatnya.
 
 ---
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
+| Perkara | Kandungan |
 |------|------|
-| Original Indication | Not recorded in the available NPRA license extract (all `approved_indication_text` fields empty); pharmacologically a topical/systemic corticosteroid used for inflammatory conditions |
-| Predicted New Indication | Erythema Multiforme |
-| TxGNN Prediction Score | 0.00% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 34 |
-| Recommended Decision | Hold |
+| Indikasi Asal | Tidak tercatat dalam ekstrak lesen NPRA yang tersedia (semua medan `approved_indication_text` kosong); secara farmakoloji kortikosteroid topical/sistemik yang digunakan untuk keadaan inflamasi |
+| Indikasi Baru Terjangka | Eritema Multiforme |
+| Skor Prediksi TxGNN | 0.00% |
+| Aras Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 34 |
+| Keputusan Disyorkan | Tahan |
 
-> ⚠ **Note on candidate selection**: This candidate pack contains 5 KG-predicted indications for Hydrocortisone Acetate. Erythema Multiforme is ranked #1 but has the weakest and most contradictory evidence of the set. By contrast, rank #2 (**Hemorrhoid**) has **Evidence Level L1**, multiple completed Phase 2 RCTs directly testing hydrocortisone acetate, and a recommendation of **"Proceed with Guardrails"** — reflecting an already-established clinical use rather than a novel repurposing signal. Decision-makers reviewing this candidate should be aware the top-ranked TxGNN output is not the strongest evidence-backed option in this pack.
-
----
-
-## Why is This Prediction Reasonable?
-
-Currently, detailed mechanism of action data is not available (`original_moa: [Data Gap]`). Based on information present elsewhere in this evidence pack, Hydrocortisone Acetate acts as a glucocorticoid receptor agonist, and topical/rectal formulations are established for suppressing inflammatory mediators and reducing vascular permeability and edema (as reflected in its established use in hemorrhoid and ocular surface inflammation products).
-
-For Erythema Multiforme specifically, however, this mechanistic rationale does not translate into supportive evidence. Erythema multiforme is itself an immune-mediated hypersensitivity reaction, often triggered by drugs or infections — and the single literature record retrieved for this pairing documents hydrocortisone acetate (as an ingredient in Gentisone HC ear drops) as the **cause** of a case of erythema multiforme, not as a treatment. No clinical trial in the retrieved set tests hydrocortisone acetate as a therapy for erythema multiforme; all four trials returned are off-target (unrelated drugs/diseases, graded "C" for relevance).
-
-In short, the mechanistic plausibility that exists for hydrocortisone acetate's anti-inflammatory effects does not extend to this specific prediction — the available evidence points in the opposite direction (adverse reaction) rather than supporting therapeutic benefit.
+> ⚠ **Nota mengenai pemilihan calon**: Paket calon ini mengandungi 5 indikasi terjangka KG untuk Hidrokortison Asetat. Eritema Multiforme disenaraikan #1 tetapi mempunyai bukti yang paling lemah dan paling bercanggah dalam set ini. Sebaliknya, pangkat #2 (**Hemorrohid**) mempunyai **Aras Bukti L1**, pelbagai RCT Fasa 2 yang telah selesai menguji hidrokortison asetat secara terus, dan syor **"Lanjutkan dengan Perlindungan"** — mencerminkan penggunaan klinikal yang telah ditetapkan daripada isyarat penyusunan semula yang baru. Pembuat keputusan yang menyemak calon ini harus sedar bahawa keluaran TxGNN yang disenaraikan teratas bukan pilihan yang paling disokong bukti dalam paket ini.
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Prediksi Ini Munasabah?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Pada masa kini, data mekanisme tindakan yang terperinci tidak tersedia (`original_moa: [Data Gap]`). Berdasarkan maklumat yang terdapat di tempat lain dalam paket bukti ini, Hidrokortison Asetat bertindak sebagai agonis reseptor glukokortikoid, dan formulasi topical/rectal telah ditetapkan untuk menekan mediator inflamasi dan mengurangkan kebolehtelapan vaskular dan edema (seperti yang ditunjukkan dalam penggunaannya yang telah ditetapkan dalam produk hemorrohid dan inflamasi permukaan okular).
+
+Untuk Eritema Multiforme secara khusus, bagaimanapun, rasional mekanik ini tidak diterjemahkan ke dalam bukti yang sokongan. Eritema multiforme sendiri adalah tindak balas hipersensitiviti yang dimediasi imun, sering kali dicetuskan oleh ubat atau jangkitan — dan rekod kesusasteraan tunggal yang diambil untuk pasangan ini mendokumentasikan hidrokortison asetat (sebagai bahan dalam titis telinga Gentisone HC) sebagai **punca** kes eritema multiforme, bukan sebagai rawatan. Tiada percubaan klinikal dalam set yang diambil menguji hidrokortison asetat sebagai terapi untuk eritema multiforme; keempat-empat percubaan yang dikembalikan adalah meleset sasaran (ubat/penyakit yang tidak berkaitan, dinilai "C" untuk kaitan).
+
+Ringkasnya, kebolehpercayaan mekanik yang wujud untuk kesan anti-inflamasi hidrokortison asetat tidak meluas ke prediksi khusus ini — bukti yang tersedia menunjuk ke arah yang bertentangan (tindak balas buruk) daripada menyokong manfaat terapeutik.
+
+---
+
+## Bukti Percubaan Klinikal
+
+| Nombor Percubaan | Fasa | Status | Enrolmen | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT02153762](https://clinicaltrials.gov/study/NCT02153762) | NA | Completed | 41 | Application-order study of Locoid Lipocream (hydrocortisone **butyrate**, not acetate) and Hylatopic Plus in atopic dermatitis — unrelated drug salt and indication (Grade C) |
-| [NCT00332163](https://clinicaltrials.gov/study/NCT00332163) | Phase 2 | Completed | 95 | Prophylactic vs. reactive treatment of EGFR-inhibitor–related skin toxicity in metastatic colorectal cancer patients — not hydrocortisone acetate, not EM (Grade C) |
-| [NCT05468372](https://clinicaltrials.gov/study/NCT05468372) | Phase 2 | Recruiting | 50 | Amphotericin B vs. posaconazole for pulmonary mucormycosis — unrelated to hydrocortisone acetate or EM (Grade C) |
-| [NCT01650194](https://clinicaltrials.gov/study/NCT01650194) | Phase 2 | Completed | 60 | Enzalutamide plus abiraterone acetate in metastatic prostate cancer — unrelated (Grade C) |
+| [NCT02153762](https://clinicaltrials.gov/study/NCT02153762) | NA | Selesai | 41 | Kajian susunan aplikasi Locoid Lipocream (hidrokortison **butyrate**, bukan asetat) dan Hylatopic Plus dalam dermatitis atopik — ubat garam yang tidak berkaitan dan indikasi (Gred C) |
+| [NCT00332163](https://clinicaltrials.gov/study/NCT00332163) | Fasa 2 | Selesai | 95 | Rawatan profilaktik vs. reaktif toksilitas kulit berkaitan EGFR pada pesakit kanser kolorektal metastatik — bukan hidrokortison asetat, bukan EM (Gred C) |
+| [NCT05468372](https://clinicaltrials.gov/study/NCT05468372) | Fasa 2 | Merekrut | 50 | Amphotericin B vs. posakonazol untuk mukormikosis pulmonari — tidak berkaitan dengan hidrokortison asetat atau EM (Gred C) |
+| [NCT01650194](https://clinicaltrials.gov/study/NCT01650194) | Fasa 2 | Selesai | 60 | Enzalutamid tambah abiraterone asetat dalam kanser prostat metastatik — tidak berkaitan (Gred C) |
 
-None of the retrieved trials directly test hydrocortisone acetate for erythema multiforme; all are graded C (low relevance / knowledge-graph noise).
+Tiada percubaan yang diambil menguji hidrokortison asetat secara terus untuk eritema multiforme; semua dinilai C (kaitan rendah / bunyi graf pengetahuan).
 
 ---
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [10696380](https://pubmed.ncbi.nlm.nih.gov/10696380/) | 1999 | Case Report | The Journal of Laryngology and Otology | A 4-year-old girl developed erythema multiforme after topical aural application of Gentisone HC drops (hydrocortisone acetate 1% + gentamicin) for post-grommet otorrhoea — reported as an **adverse drug reaction**, not a treatment effect |
+| [10696380](https://pubmed.ncbi.nlm.nih.gov/10696380/) | 1999 | Laporan Kes | The Journal of Laryngology and Otology | Seorang gadis berumur 4 tahun mengalami eritema multiforme selepas aplikasi aural topical titis Gentisone HC (hidrokortison asetat 1% + gentamicin) untuk otorrhoea pasca-grommet — dilaporkan sebagai **tindak balas ubat buruk**, bukan kesan rawatan |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-NPRA records confirm the product is marketed with **34 total registrations**, but detailed per-license fields (authorization number, product name, dosage form, approved indication) were not populated in this data extract and cannot be reported here without fabricating values.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information. (Key warnings, contraindications, and drug interaction data were not available in this data extract — DDI query returned no results.)
+Rekod NPRA mengesahkan produk dipasarkan dengan **34 pendaftaran jumlah**, tetapi medan per-lesen terperinci (nombor kebenaran, nama produk, bentuk dos, indikasi yang diluluskan) tidak diisi dalam ekstrak data ini dan tidak boleh dilaporkan di sini tanpa membuat nilai.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila rujuk sisipan paket untuk maklumat keselamatan. (Amaran utama, kontraindikasi, dan data interaksi ubat tidak tersedia dalam ekstrak data ini — pertanyaan DDI tidak mengembalikan hasil.)
 
-**Rationale:**
-The TxGNN prediction score for this indication is effectively zero, evidence level is L5 (no supportive studies), and the only literature identified documents hydrocortisone acetate **causing** erythema multiforme as a hypersensitivity reaction — evidence that runs counter to, not in support of, the proposed therapeutic use.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert warnings and contraindications (currently a blocking data gap — DG001)
-- Verified mechanism of action data (DG002)
-- Any genuine preclinical or mechanistic evidence for corticosteroid benefit in erythema multiforme, distinct from the single contradictory adverse-event case report
-- Consider redirecting evaluation effort to the **Hemorrhoid** candidate in this same pack (rank 2, Evidence Level L1, multiple completed Phase 2 RCTs, "Proceed with Guardrails"), which represents a substantially stronger and already clinically established signal
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Alasan:**
+Skor prediksi TxGNN untuk indikasi ini adalah sifar berkesan, aras bukti adalah L5 (tiada kajian sokongan), dan kesusasteraan tunggal yang dikenal pasti mendokumentasikan hidrokortison asetat **menyebabkan** eritema multiforme sebagai tindak balas hipersensitiviti — bukti yang bertentangan, bukan menyokong, penggunaan terapeutik yang dicadangkan.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Amaran sisipan paket TFDA/NPRA dan kontraindikasi (kini jurang data penyekat — DG001)
+- Data mekanisme tindakan yang disahkan (DG002)
+- Sebarang bukti praklinikal atau mekanik tulen untuk manfaat kortikosteroid dalam eritema multiforme, berbeza daripada laporan kes peristiwa buruk yang bercanggah tunggal
+- Pertimbangkan mengubah hala usaha penilaian kepada calon **Hemorrohid** dalam paket yang sama ini (pangkat 2, Aras Bukti L1, pelbagai RCT Fasa 2 yang telah selesai, "Lanjutkan dengan Perlindungan"), yang mewakili isyarat yang jauh lebih kuat dan telah ditetapkan secara klinikal
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

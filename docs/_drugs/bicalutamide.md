@@ -29,168 +29,169 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Bicalutamide: From Prostate Cancer to Hypertrichosis
+# Bicalutamide: Daripada Kanser Prostat hingga Hipertrikosis
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Bicalutamide is a non-steroidal antiandrogen originally approved for the treatment of prostate cancer.
-The TxGNN model predicts it may be effective for **Hypertrichosis (disease)**, with **1 publication** currently referencing this direction. Notably, a secondary prediction for **Female Breast Carcinoma** (Rank #9) is supported by **1 Phase 2 clinical trial** and **20 publications**, representing the strongest evidence among all 10 predicted indications.
+Bicalutamide adalah penghambat androgen bukan steroid yang asalnya diluluskan untuk rawatan kanser prostat.
+Model TxGNN meramalkan ia mungkin berkesan untuk **Hipertrikosis (penyakit)**, dengan **1 penerbitan** yang merujuk arah ini. Ketara sekali, ramalan sekunder untuk **Karsinoma Payudara Wanita** (Kedudukan #9) disokong oleh **1 ujian klinikal Fasa 2** dan **20 penerbitan**, mewakili bukti paling kuat antara kesemua 10 indikasi yang diramalkan.
 
 ---
 
-## Quick Overview
+## Gambaran Ringkas
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Prostate cancer (antiandrogen therapy) |
-| Predicted New Indication | Hypertrichosis (disease) |
-| TxGNN Prediction Score | 99.69% |
-| Evidence Level | L4 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
-| Recommended Decision | Proceed with Guardrails |
+| Indikasi Asal | Kanser prostat (terapi penghambat androgen) |
+| Indikasi Baru yang Diramalkan | Hipertrikosis (penyakit) |
+| Skor Ramalan TxGNN | 99.69% |
+| Tahap Bukti | L4 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 3 |
+| Keputusan yang Disyorkan | Teruskan dengan Penjaga |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Bicalutamide is a non-steroidal antiandrogen that competitively blocks the androgen receptor (AR). Originally developed for the treatment of advanced prostate cancer, it works by preventing testosterone and dihydrotestosterone (DHT) from binding to the AR, thereby inhibiting androgen-mediated signaling in target tissues including the prostate, skin, and hair follicles.
+Bicalutamide adalah penghambat androgen bukan steroid yang menghalang kompetitif reseptor androgen (AR). Asalnya dibangunkan untuk rawatan kanser prostat lanjut, ia berfungsi dengan menghalang testosteron dan dihidrotestosteron (DHT) daripada mengikat AR, dengan itu menghalang isyarat pengantara androgen dalam tisu sasaran termasuk prostat, kulit, dan folikel rambut.
 
-Hypertrichosis — excessive hair growth beyond what is expected for a person's age, sex, and ethnicity — can be driven or exacerbated by androgen signaling at the hair follicle level. Drug-induced hypertrichosis (e.g., from minoxidil) and androgen-excess states both involve stimulation of hair follicle growth cycles. Since bicalutamide directly blocks AR signaling in peripheral tissues including hair follicles, it has a direct and plausible mechanism for reducing androgen-driven excessive hair growth.
+Hipertrikosis — pertumbuhan rambut yang berlebihan melebihi apa yang diharapkan untuk umur, jantina, dan etnik seseorang — boleh didorong atau diburukkan oleh isyarat androgen pada aras folikel rambut. Hipertrikosis yang teraruh ubat (cth, daripada minoxidil) dan keadaan androgen berlebihan kedua-duanya melibatkan rangsangan kitaran pertumbuhan folikel rambut. Memandangkan bicalutamide secara langsung menghalang isyarat AR dalam tisu periferal termasuk folikel rambut, ia mempunyai mekanisme langsung dan munasabah untuk mengurangkan pertumbuhan rambut yang berlebihan didorong androgen.
 
-In clinical dermatology practice, antiandrogens (including bicalutamide) have been used off-label for androgen-related hair conditions such as hirsutism and androgenetic alopecia, providing real-world precedent for this prediction. The existing literature specifically documents bicalutamide improving minoxidil-induced hypertrichosis in female pattern hair loss patients, supporting the mechanistic rationale.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for hypertrichosis.
+Dalam amalan klinikal dermatologi, penghambat androgen (termasuk bicalutamide) telah digunakan di luar label untuk keadaan rambut berkaitan androgen seperti hirsutisme dan alopecia androgenik, memberikan preseden amalan sebenar untuk ramalan ini. Kesusasteraan yang sedia ada secara khusus mendokumentasikan bicalutamide meningkatkan hipertrikosis teraruh minoxidil dalam pesakit kehilangan rambut corak wanita, menyokong nisbah mekanik.
 
 ---
 
-## Literature Evidence
+## Bukti Ujian Klinikal
 
-| PMID | Year | Type | Journal | Key Findings |
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan untuk hipertrikosis.
+
+---
+
+## Bukti Kesusasteraan
+
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [35304167](https://pubmed.ncbi.nlm.nih.gov/35304167/) | 2022 | Letter/Comment | Journal of the American Academy of Dermatology | Comments on a retrospective review of 35 patients showing bicalutamide improved minoxidil-induced hypertrichosis in female pattern hair loss |
+| [35304167](https://pubmed.ncbi.nlm.nih.gov/35304167/) | 2022 | Surat/Ulasan | Journal of the American Academy of Dermatology | Memberi ulasan tentang tinjauan retrospektif 35 pesakit menunjukkan bicalutamide meningkatkan hipertrikosis teraruh minoxidil dalam kehilangan rambut corak wanita |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
 |---------|------|------|-----------|
-| (Registration 1) | — | — | License details pending data collection |
-| (Registration 2) | — | — | License details pending data collection |
-| (Registration 3) | — | — | License details pending data collection |
+| (Pendaftaran 1) | — | — | Terperinci lesen menunggu pengumpulan data |
+| (Pendaftaran 2) | — | — | Terperinci lesen menunggu pengumpulan data |
+| (Pendaftaran 3) | — | — | Terperinci lesen menunggu pengumpulan data |
 
-> Bicalutamide is confirmed as marketed in Malaysia with 3 active registrations. Detailed license information is pending retrieval from the NPRA database.
+> Bicalutamide disahkan sebagai dipasarkan di Malaysia dengan 3 pendaftaran aktif. Maklumat lesen terperinci sedang menunggu pengambilan daripada pangkalan data NPRA.
 
 ---
 
-## Cytotoxicity
+## Sitotoksisiti
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Cytotoxicity Classification | Targeted therapy (Non-steroidal antiandrogen) |
-| Myelosuppression Risk | Low — bicalutamide is not a conventional cytotoxic agent and does not typically cause significant myelosuppression |
-| Emetogenicity Classification | Low |
-| Monitoring Items | Liver function tests (ALT, AST, bilirubin) — hepatotoxicity is the primary concern; CBC at baseline; PSA in prostate cancer context |
-| Handling Protection | Standard handling; no special cytotoxic drug handling precautions required as this is a hormonal agent |
+| Pengelasan Sitotoksisiti | Terapi bersasaran (Penghambat androgen bukan steroid) |
+| Risiko Penghapusan Sumsum Tulang | Rendah — bicalutamide bukan agen sitotoksik konvensional dan biasanya tidak menyebabkan penghapusan sumsum tulang yang ketara |
+| Pengelasan Emetogenisiti | Rendah |
+| Item Pemantauan | Ujian fungsi hati (ALT, AST, bilirubin) — hepatotoksisiti ialah kebimbangan utama; CBC pada garis dasar; PSA dalam konteks kanser prostat |
+| Perlindungan Penanganan | Penanganan piawai; tiada langkah penanganan ubat sitotoksik khas diperlukan kerana ini adalah agen hormonal |
 
 ---
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk risalah produk untuk maklumat keselamatan.
 
-> **Note:** Key warnings and contraindications data were not available in this evidence pack (Data Gap DG001, severity: Blocking). Obtaining the package insert from NPRA is required before proceeding to safety evaluation.
+> **Nota:** Data amaran dan kontraindikasi utama tidak tersedia dalam pak bukti ini (Jurang Data DG001, keterukan: Menyekat). Mendapatkan risalah produk daripada NPRA diperlukan sebelum meneruskan kepada penilaian keselamatan.
 
 ---
 
-## All Predicted Indications Summary
+## Ringkasan Kesemua Indikasi yang Diramalkan
 
-| Rank | Disease | TxGNN Score | Evidence Level | Trials | Publications | Recommendation |
+| Kedudukan | Penyakit | Skor TxGNN | Tahap Bukti | Ujian | Penerbitan | Syorkan |
 |------|---------|-------------|----------------|--------|-------------|----------------|
-| 1 | Hypertrichosis (disease) | 99.69% | L4 | 0 | 1 | Proceed with Guardrails |
-| 2 | Malformation syndrome (odontal/periodontal) | 99.59% | L5 | 0 | 20* | Hold |
-| 3 | Ambras type hypertrichosis universalis congenita | 99.57% | L5 | 0 | 0 | Research Question |
-| 4 | Dandy-Walker malformation syndrome | 99.57% | L5 | 0 | 0 | Hold |
-| 5 | Isolated genetic hair shaft abnormality | 99.53% | L5 | 0 | 0 | Hold |
-| 6 | Leprosy | 99.41% | L5 | 0 | 0 | Hold |
-| 7 | Multiple endocrine neoplasia | 99.22% | L4 | 2 | 0 | Research Question |
-| 8 | Pulmonary hypertension | 99.18% | L5 | 0 | 1 | Hold |
-| **9** | **Female breast carcinoma** | **99.11%** | **L2** | **1** | **20** | **Proceed with Guardrails** |
-| 10 | Nephrogenic syndrome of inappropriate antidiuresis | 99.03% | L5 | 0 | 0 | Hold |
+| 1 | Hipertrikosis (penyakit) | 99.69% | L4 | 0 | 1 | Teruskan dengan Penjaga |
+| 2 | Sindrom malformasi (gigi/periodontal) | 99.59% | L5 | 0 | 20* | Tahan |
+| 3 | Hipertrikosis universalis kongenita jenis Ambras | 99.57% | L5 | 0 | 0 | Soalan Penyelidikan |
+| 4 | Sindrom malformasi Dandy-Walker | 99.57% | L5 | 0 | 0 | Tahan |
+| 5 | Kelainan batang rambut genetik terpencil | 99.53% | L5 | 0 | 0 | Tahan |
+| 6 | Kusta | 99.41% | L5 | 0 | 0 | Tahan |
+| 7 | Neoplasia endokrin berganda | 99.22% | L4 | 2 | 0 | Soalan Penyelidikan |
+| 8 | Hipertensi pulmonari | 99.18% | L5 | 0 | 1 | Tahan |
+| **9** | **Karsinoma payudara wanita** | **99.11%** | **L2** | **1** | **20** | **Teruskan dengan Penjaga** |
+| 10 | Sindrom nefrogenik ketidaksesuaian antidiuretik | 99.03% | L5 | 0 | 0 | Tahan |
 
-\* *Rank #2 literature consists entirely of general periodontology papers with no mention of bicalutamide or antiandrogen therapy — mechanistic mismatch.*
+\* *Kesusasteraan Kedudukan #2 terdiri sepenuhnya daripada kertas periodontologi umum tanpa sebarang sebutan bicalutamide atau terapi penghambat androgen — ketidakpadanan mekanik.*
 
 ---
 
-## Spotlight: Female Breast Carcinoma (Rank #9, Strongest Evidence)
+## Sorotan: Karsinoma Payudara Wanita (Kedudukan #9, Bukti Paling Kuat)
 
-Although ranked 9th by TxGNN prediction score (99.11%), **female breast carcinoma** carries the strongest clinical evidence (Level L2) among all 10 predicted indications and merits special attention.
+Walaupun disenaraikan ke-9 mengikut skor ramalan TxGNN (99.11%), **karsinoma payudara wanita** membawa bukti klinikal paling kuat (Tahap L2) antara kesemua 10 indikasi yang diramalkan dan patut mendapat perhatian khas.
 
-### Mechanistic Rationale
+### Nisbah Mekanik
 
-The androgen receptor (AR) is expressed in approximately 70–90% of all breast cancers. Within triple-negative breast cancer (TNBC), the **luminal androgen receptor (LAR) subtype** (~30% of TNBC) is driven by AR signaling. Bicalutamide blocks AR, thereby inhibiting AR-positive breast cancer cell proliferation. Preclinical studies further demonstrate that bicalutamide may suppress β-catenin transcriptional activity and, in combination with ERK inhibitors, induce ferroptosis in TNBC cells. The mechanistic link is strong and well-supported by multiple lines of pharmacological evidence.
+Reseptor androgen (AR) diekspresikan dalam lebih kurang 70–90% kesemua kanser payudara. Dalam kanser payudara negatif-tiga (TNBC), subtip **reseptor androgen luminal (LAR)** (~30% TNBC) didorong oleh isyarat AR. Bicalutamide menghalang AR, dengan itu menghalang proliferasi sel kanser payudara positif-AR. Kajian pra-klinikal seterusnya menunjukkan bahawa bicalutamide boleh menindas aktiviti transkripsi β-catenin dan, dalam kombinasi dengan perencat ERK, menginduksi ferroptosis dalam sel TNBC. Pautan mekanik kuat dan disokong oleh pelbagai baris bukti farmakologi.
 
-### Clinical Trial Evidence
+### Bukti Ujian Klinikal
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT03650894](https://clinicaltrials.gov/study/NCT03650894) | Phase 2 | Active, not recruiting | 30 | Evaluates bicalutamide combined with nivolumab and ipilimumab in metastatic HER2-negative breast cancer. Combines AR blockade with immune checkpoint therapy to improve efficacy while omitting/delaying chemotherapy. |
+| [NCT03650894](https://clinicaltrials.gov/study/NCT03650894) | Fasa 2 | Aktif, bukan merekrut | 30 | Menilai bicalutamide digabungkan dengan nivolumab dan ipilimumab dalam kanser payudara metastatik negatif-HER2. Menggabungkan penyekat AR dengan terapi titik semak imuniti untuk meningkatkan keberkesanan sambil mengelakkan/melengahkan kemoterapi. |
 
-### Literature Evidence (Top 10)
+### Bukti Kesusasteraan (10 Teratas)
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [40853613](https://pubmed.ncbi.nlm.nih.gov/40853613/) | 2025 | Review | Current Medical Science | Comprehensive review of anti-androgen therapy for TNBC; highlights bicalutamide, enzalutamide, and enobosarm as key AR antagonists with combination strategies |
-| [21633166](https://pubmed.ncbi.nlm.nih.gov/21633166/) | 2011 | Translational | J Clin Invest | Landmark study identifying 6 TNBC subtypes including LAR subtype; established the molecular basis for AR-targeted therapy in TNBC |
-| [40974527](https://pubmed.ncbi.nlm.nih.gov/40974527/) | 2026 | Mechanistic | Sci China Life Sci | AR/ERK co-targeting with bicalutamide + GDC-0994 triggers ferroptosis via FOXC2 in TNBC; demonstrates synergistic antitumour effect |
-| [24740738](https://pubmed.ncbi.nlm.nih.gov/24740738/) | 2014 | Review | J Mol Endocrinol | Reviews AR role in breast cancer; discusses AR–ERα crosstalk and rationale for AR-targeted therapy |
-| [29940524](https://pubmed.ncbi.nlm.nih.gov/29940524/) | 2018 | Review | Cancer Treat Rev | Reviews AR as therapeutic target in TNBC LAR subtype; discusses clinical trial landscape |
-| [32332626](https://pubmed.ncbi.nlm.nih.gov/32332626/) | 2020 | In vitro | Medicine | Bicalutamide inhibits proliferation and invasion of MDA-MB-231 TNBC cells via AR pathway blockade |
-| [31917699](https://pubmed.ncbi.nlm.nih.gov/31917699/) | 2020 | Preclinical | Anti-cancer Drugs | Bicalutamide + curcumin combination shows strong therapeutic effect on AR-positive TNBC |
-| [29069648](https://pubmed.ncbi.nlm.nih.gov/29069648/) | 2017 | Mechanistic | Cell Physiol Biochem | Bicalutamide antagonizes AR and inhibits β-catenin transcription complex in ER-negative breast cancer |
-| [35027319](https://pubmed.ncbi.nlm.nih.gov/35027319/) | 2022 | Review | Clin Breast Cancer | Reviews apocrine carcinoma (ER−/AR+) molecular characteristics; supports AR-targeted therapy approach |
-| [24888812](https://pubmed.ncbi.nlm.nih.gov/24888812/) | 2016 | Case Report | J Clin Oncol | Complete response of metastatic AR-positive breast cancer to bicalutamide monotherapy |
+| [40853613](https://pubmed.ncbi.nlm.nih.gov/40853613/) | 2025 | Ulasan | Current Medical Science | Ulasan komprehensif terapi anti-androgen untuk TNBC; menyerlahkan bicalutamide, enzalutamide, dan enobosarm sebagai antagonis AR utama dengan strategi kombinasi |
+| [21633166](https://pubmed.ncbi.nlm.nih.gov/21633166/) | 2011 | Translasi | J Clin Invest | Kajian kesan utama mengenali 6 subtip TNBC termasuk subtip LAR; menetapkan asas molekul untuk terapi bersasaran AR dalam TNBC |
+| [40974527](https://pubmed.ncbi.nlm.nih.gov/40974527/) | 2026 | Mekanik | Sci China Life Sci | Penargetan bersama AR/ERK dengan bicalutamide + GDC-0994 mencetuskan ferroptosis melalui FOXC2 dalam TNBC; menunjukkan kesan antitumor sinergik |
+| [24740738](https://pubmed.ncbi.nlm.nih.gov/24740738/) | 2014 | Ulasan | J Mol Endocrinol | Mengulas peranan AR dalam kanser payudara; membincangkan persilangan AR–ERα dan nisbah untuk terapi bersasaran AR |
+| [29940524](https://pubmed.ncbi.nlm.nih.gov/29940524/) | 2018 | Ulasan | Cancer Treat Rev | Mengulas AR sebagai sasaran terapi dalam subtip TNBC LAR; membincangkan landskap ujian klinikal |
+| [32332626](https://pubmed.ncbi.nlm.nih.gov/32332626/) | 2020 | In vitro | Medicine | Bicalutamide menghalang proliferasi dan invasi sel TNBC MDA-MB-231 melalui penyekat jalur AR |
+| [31917699](https://pubmed.ncbi.nlm.nih.gov/31917699/) | 2020 | Pra-klinikal | Anti-cancer Drugs | Kombinasi bicalutamide + kurkumin menunjukkan kesan terapeutik kuat pada TNBC positif-AR |
+| [29069648](https://pubmed.ncbi.nlm.nih.gov/29069648/) | 2017 | Mekanik | Cell Physiol Biochem | Bicalutamide antagonis AR dan menghalang kompleks transkripsi β-catenin dalam kanser payudara negatif-ER |
+| [35027319](https://pubmed.ncbi.nlm.nih.gov/35027319/) | 2022 | Ulasan | Clin Breast Cancer | Mengulas ciri molekul karsinoma apokrin (ER−/AR+); menyokong pendekatan terapi bersasaran AR |
+| [24888812](https://pubmed.ncbi.nlm.nih.gov/24888812/) | 2016 | Laporan Kes | J Clin Oncol | Sambutan lengkap kanser payudara metastatik positif-AR kepada monoterapi bicalutamide |
 
 ---
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-### Primary Prediction: Hypertrichosis
+### Ramalan Utama: Hipertrikosis
 
-**Decision: Proceed with Guardrails**
+**Keputusan: Teruskan dengan Penjaga**
 
-**Rationale:**
-The mechanistic link between bicalutamide's AR antagonism and hypertrichosis management is direct and pharmacologically sound. Off-label use in dermatology has been documented, and a retrospective review of 35 patients supports efficacy in minoxidil-induced hypertrichosis. However, clinical trial evidence is absent.
+**Nisbah:**
+Pautan mekanik antara antagonisme AR bicalutamide dan pengurusan hipertrikosis adalah langsung dan bersifat farmakologi yang munasabah. Penggunaan di luar label dalam dermatologi telah didokumentasikan, dan tinjauan retrospektif 35 pesakit menyokong keberkesanan dalam hipertrikosis teraruh minoxidil. Walau bagaimanapun, bukti ujian klinikal tidak ada.
 
-**To proceed, the following is needed:**
-- Retrieve package insert safety data from NPRA (Blocking data gap DG001)
-- Obtain detailed mechanism of action data from DrugBank (Data gap DG002)
-- Conduct systematic literature search specifically for bicalutamide in hirsutism/hypertrichosis
-- Evaluate dose–response data for dermatological (non-oncological) use
-- Design a prospective observational study or pilot trial
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Ambil risalah produk data keselamatan daripada NPRA (Jurang data penyekat DG001)
+- Dapatkan data mekanisme tindakan terperinci daripada DrugBank (Jurang data DG002)
+- Jalankan carian kesusasteraan sistematik khusus untuk bicalutamide dalam hirsutisme/hipertrikosis
+- Nilaikan data dos–tindak balas untuk penggunaan dermatologi (bukan onkologi)
+- Rancang kajian pemerhatian prospektif atau ujian sawar
 
-### High-Priority Secondary Prediction: Female Breast Carcinoma
+### Ramalan Sekunder Keutamaan Tinggi: Karsinoma Payudara Wanita
 
-**Decision: Proceed with Guardrails**
+**Keputusan: Teruskan dengan Penjaga**
 
-**Rationale:**
-This is the most evidence-rich prediction with Level L2 evidence: an active Phase 2 clinical trial (NCT03650894) directly evaluating bicalutamide in HER2-negative metastatic breast cancer, 20 publications spanning reviews, mechanistic studies, preclinical data, and a published case report of complete response. The LAR subtype of TNBC provides a well-characterized molecular target for bicalutamide.
+**Nisbah:**
+Ini ialah ramalan terkaya bukti dengan bukti Tahap L2: ujian klinikal Fasa 2 aktif (NCT03650894) yang secara langsung menilai bicalutamide dalam kanser payudara negatif-HER2 metastatik, 20 penerbitan merangkumi ulasan, kajian mekanik, data pra-klinikal, dan laporan kes terbitan lengkap sambutan. Subtip LAR TNBC memberikan sasaran molekul yang dicirikan dengan baik untuk bicalutamide.
 
-**To proceed, the following is needed:**
-- Monitor NCT03650894 results (expected completion December 2026)
-- Retrieve package insert safety data from NPRA (Blocking data gap DG001)
-- Evaluate AR expression testing availability in Malaysia
-- Assess feasibility of AR-based patient selection for breast cancer treatment
-- Review regulatory pathway for indication expansion in Malaysia
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Pantau keputusan NCT03650894 (penyelesaian dijangka Disember 2026)
+- Ambil risalah produk data keselamatan daripada NPRA (Jurang data penyekat DG001)
+- Nilaikan ketersediaan ujian ekspresi AR di Malaysia
+- Nilaikan kebolehlaksanaan pemilihan pesakit berasaskan AR untuk rawatan kanser payudara
+- Tinjau laluan kawal selia untuk peluasan indikasi di Malaysia
 
 ---
 
-> ⚠️ **Disclaimer:** This report is for research reference only and does not constitute medical advice. All drug repurposing candidates require clinical validation before clinical application.
+> ⚠️ **Penafian:** Laporan ini untuk rujukan penyelidikan sahaja dan tidak membentuk nasihat perubatan. Semua calon pengubahan tujuan ubat memerlukan pengesahan klinikal sebelum aplikasi klinikal.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

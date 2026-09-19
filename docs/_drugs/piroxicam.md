@@ -29,109 +29,110 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Piroxicam: From Musculoskeletal Inflammation to Osteoarthritis Susceptibility
+# Piroxicam: Dari Keradangan Muskuloskeletal ke Kerentanan Osteoartritis
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Piroxicam is an oxicam-class NSAID with an extended half-life enabling once-daily dosing, well established for managing pain and inflammation in rheumatic and musculoskeletal conditions.
-The TxGNN model predicts it may have utility in **Osteoarthritis Susceptibility** — specifically as a potential early or preventive intervention in genetically predisposed individuals — with **no registered clinical trials** and **2 publications** currently supporting this specific direction.
-Closely related predictions for **Rheumatoid Arthritis** (Rank 2) and **Osteoarthritis** (Rank 3) carry substantially stronger Level 1 evidence, providing important contextual support for the biological plausibility of the overall prediction cluster.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Approved indication text not available from current regulatory dataset (Piroxicam is an NSAID indicated for musculoskeletal pain and inflammation) |
-| Predicted New Indication | Osteoarthritis Susceptibility |
-| TxGNN Prediction Score | 99.9994% |
-| Evidence Level | L4 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 8 |
-| Recommended Decision | Hold |
+Piroxicam adalah NSAID kelas oksikam dengan separuh hayat yang lanjutan memungkinkan pemberian sekali sehari, serta telah terbukti untuk menguruskan kesakitan dan keradangan dalam keadaan reumatik dan muskuloskeletal.
+Model TxGNN meramalkan ia mungkin mempunyai kegunaan dalam **Kerentanan Osteoartritis** — khususnya sebagai intervensi awal atau pencegahan pada individu yang bersedia secara genetik — dengan **tiada ujian klinikal yang didaftar** dan **2 penerbitan** yang kini menyokong arah spesifik ini.
+Ramalan berkaitan erat untuk **Artritis Reumatoid** (Ranking 2) dan **Osteoartritis** (Ranking 3) membawa sokongan bukti Level 1 yang lebih kuat, memberikan sokongan konteks penting untuk kemasukakalan biologi dari keseluruhan kelompok ramalan.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Ikhtisar Cepat
 
-Currently, detailed mechanism of action data is not available from the evidence pack. Based on established pharmacology, Piroxicam inhibits cyclooxygenase (COX) enzymes — both COX-1 and COX-2 — thereby reducing the biosynthesis of prostaglandins, particularly prostaglandin E₂ (PGE₂). This mechanism accounts for its well-documented analgesic, anti-inflammatory, and antipyretic effects across a range of rheumatic conditions.
-
-The prediction linking Piroxicam to **osteoarthritis susceptibility** is mechanistically plausible in principle: PGE₂ is a key mediator of articular cartilage degradation and synovial inflammation in OA pathogenesis. In theory, sustained COX inhibition could attenuate cartilage-destructive inflammatory signalling in individuals genetically predisposed to OA — such as those carrying GDF5 polymorphisms, which are associated with reduced cartilage formation capacity. However, this represents a qualitatively different clinical application from symptomatic OA treatment: it implies a preventive or disease-modifying role in pre-symptomatic individuals, for which no dedicated clinical trial evidence currently exists.
-
-It is important to contextualise this prediction within the broader TxGNN output. Piroxicam's established efficacy in **symptomatic osteoarthritis** (Rank 3, L1 evidence, multiple RCTs) and **rheumatoid arthritis** (Rank 2, L1 evidence, multiple RCTs) strongly validates the COX-PGE₂ mechanistic link to inflammatory joint disease. The TxGNN model appears to extend this association to the upstream susceptibility phenotype, but the leap from symptom management to genetic predisposition prevention remains speculative and requires dedicated prospective study designs that have not yet been conducted.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered specifically for osteoarthritis susceptibility with Piroxicam.
+| Item | Kandungan |
+|------|-----------|
+| Indikasi Asal | Teks indikasi yang diluluskan tidak tersedia daripada set data kawal selia semasa (Piroxicam adalah NSAID yang ditunjukkan untuk kesakitan dan keradangan muskuloskeletal) |
+| Indikasi Baru yang Diramalkan | Kerentanan Osteoartritis |
+| Skor Ramalan TxGNN | 99.9994% |
+| Tahap Bukti | L4 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 8 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Masuk Akal?
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [28497473](https://pubmed.ncbi.nlm.nih.gov/28497473/) | 2017 | Cochrane Overview | The Cochrane Database of Systematic Reviews | Systematic overview of topical analgesics (including Piroxicam formulations) for acute and chronic pain conditions including osteoarthritis of the hand and knee; supports the broader evidence base for Piroxicam in OA-spectrum disease |
-| [3142593](https://pubmed.ncbi.nlm.nih.gov/3142593/) | 1988 | RCT (GI Protection) | BMJ (Clinical Research Ed.) | Controlled trial evaluating ranitidine prophylaxis against gastroduodenal damage in patients receiving NSAIDs including Piroxicam; provides safety context relevant to any consideration of long-term preventive NSAID use in susceptible populations |
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia daripada pakej bukti. Berdasarkan farmakologi yang terbukti, Piroxicam merencat enzim siklooksigenase (COX) — kedua-dua COX-1 dan COX-2 — dengan itu mengurangkan biosintesis prostaglandin, terutamanya prostaglandin E₂ (PGE₂). Mekanisme ini menjelaskan kesan analgesik, anti-radangan, dan antipiretik yang telah didokumentasikan dengan baik di seluruh pelbagai keadaan reumatik.
 
----
+Ramalan yang menghubungkan Piroxicam ke **kerentanan osteoartritis** adalah masuk akal secara mekanis pada asasnya: PGE₂ adalah mediator utama kemerosotan rawan artikular dan keradangan sinovial dalam patogenesis OA. Secara teori, perencatan COX yang berterusan boleh mengurangkan isyarat keradangan yang merosotkan rawan pada individu yang bersedia secara genetik untuk OA — seperti mereka yang membawa polimorfisme GDF5, yang berhubung dengan kapasiti pembentukan rawan yang berkurangan. Walau bagaimanapun, ini mewakili aplikasi klinikal yang kualitatif berbeza daripada rawatan OA simptomatik: ia membayangkan peranan pencegahan atau pengubah penyakit pada individu pra-simptomatik, yang mana tidak ada bukti ujian klinikal khusus untuk tujuan ini.
 
-## Malaysia Market Information
-
-Eight Piroxicam product registrations are confirmed active on the Malaysian NPRA register. Detailed product-level information — including authorisation numbers, product names, dosage forms, and approved indication text — was not returned in the current dataset and requires direct retrieval from the NPRA official portal.
-
-| Item | Detail |
-|------|--------|
-| Total Registrations Confirmed | 8 products |
-| Market Status | Marketed (Marketed) |
-| Full Product Details | Retrieve from [NPRA Product Registration Search](https://www.npra.gov.my/index.php/en/product-registration) |
+Adalah penting untuk meletakkan ramalan ini dalam konteks output TxGNN yang lebih luas. Keberkesanan Piroxicam yang terbukti dalam **osteoartritis simptomatik** (Ranking 3, bukti L1, pelbagai RCT) dan **artritis reumatoid** (Ranking 2, bukti L1, pelbagai RCT) dengan kuat mengesahkan pautan mekanis COX-PGE₂ kepada penyakit sendi keradangan. Model TxGNN nampaknya melanjutkan perkaitan ini kepada fenotip kerentanan hulu, tetapi lompatan daripada pengurusan gejala kepada pencegahan kerentanan genetik kekal spekulatif dan memerlukan reka bentuk kajian prospektif berdedikasi yang belum lagi dijalankan.
 
 ---
 
-## Safety Considerations
+## Bukti Ujian Klinikal
 
-Please refer to the package insert for full safety information, as detailed warnings and contraindications were not available in the current evidence pack.
-
-As a non-selective NSAID, Piroxicam carries well-recognised class-related risks that are particularly relevant when evaluating any long-term or preventive use in an OA susceptibility context:
-
-- **Gastrointestinal risk**: The 1988 BMJ RCT included in this evidence pack specifically investigated GI mucosal protection strategies for Piroxicam users, underscoring that upper GI ulceration and bleeding are a primary safety concern, especially in prolonged use.
-- **Cardiovascular risk**: NSAIDs, particularly non-selective COX inhibitors, carry dose- and duration-dependent cardiovascular event risk, which is especially significant for any preventive indication targeting asymptomatic individuals.
-- **Renal risk**: Impaired renal prostaglandin synthesis may compromise renal haemodynamics, particularly in elderly or hypertensive populations.
-- **Drug interactions**: A completed Phase 4 clinical trial (NCT00631514, n=88) in the broader evidence set directly evaluated the interaction between Piroxicam and antihypertensive agents, confirming the potential to blunt blood pressure control — a clinically important consideration.
+Pada masa ini tiada ujian klinikal yang berkaitan khusus didaftar untuk kerentanan osteoartritis dengan Piroxicam.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Hold**
-
-**Rationale:**
-Although the TxGNN model assigns a high prediction score of 99.9994%, the evidence supporting Piroxicam specifically for **osteoarthritis susceptibility** — as a preventive or disease-modifying intervention in genetically at-risk individuals — is currently limited to mechanistic hypothesis (L4). No clinical trials have been conducted to address this specific preventive indication, and the long-term safety profile of NSAID prophylaxis in asymptomatic populations has not been characterised.
-
-**To proceed, the following is needed:**
-- Prospective studies evaluating COX inhibitors in OA-susceptible populations (e.g., GDF5 polymorphism carriers or individuals with radiological pre-OA signs)
-- Long-term safety characterisation of preventive NSAID use in asymptomatic subjects, particularly regarding GI, cardiovascular, and renal endpoints
-- Detailed MOA data from DrugBank to formally characterise Piroxicam's COX-1/COX-2 selectivity profile and off-target pharmacology
-- Full NPRA package insert to confirm Malaysian-approved indications, warnings, and contraindications
-- Pharmacoeconomic assessment comparing preventive NSAID therapy against current OA risk stratification and management guidelines in Malaysia
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-------|-------|--------|----------------|
+| [28497473](https://pubmed.ncbi.nlm.nih.gov/28497473/) | 2017 | Ringkasan Cochrane | The Cochrane Database of Systematic Reviews | Ringkasan sistematik analgesik topikal (termasuk formulasi Piroxicam) untuk keadaan kesakitan akut dan kronik termasuk osteoartritis tangan dan lutut; menyokong pangkal bukti yang lebih luas untuk Piroxicam dalam penyakit spektrum OA |
+| [3142593](https://pubmed.ncbi.nlm.nih.gov/3142593/) | 1988 | RCT (Perlindungan GI) | BMJ (Clinical Research Ed.) | Ujian terkawal menilai profilaksis ranitidine terhadap kerosakan gastroduodenal pada pesakit yang menerima NSAID termasuk Piroxicam; memberikan konteks keselamatan yang berkaitan dengan sebarang pertimbangan penggunaan NSAID pencegahan jangka panjang dalam populasi rentan |
 
 ---
 
-**Adjacent high-priority predictions with immediately actionable evidence:**
+## Maklumat Pasaran Malaysia
 
-| Indication | TxGNN Rank | Evidence Level | Recommendation |
-|------------|-----------|----------------|----------------|
-| Rheumatoid Arthritis | #2 | L1 | Proceed with Guardrails |
-| Osteoarthritis | #3 | L1 | Proceed with Guardrails |
-| Arthropathy | #10 | L2 | Proceed with Guardrails |
+Lapan pendaftaran produk Piroxicam disahkan aktif pada daftar NPRA Malaysia. Maklumat peringkat produk yang terperinci — termasuk nombor kelulusan, nama produk, bentuk dos, dan teks indikasi yang diluluskan — tidak dikembalikan dalam set data semasa dan memerlukan perolehan langsung daripada portal rasmi NPRA.
 
-These closely related indications share Piroxicam's core COX-inhibition mechanism, are supported by multiple completed RCTs and systematic reviews, and represent more immediately actionable opportunities for label expansion or formal registration in Malaysia. In particular, if Piroxicam's current Malaysian product registrations do not explicitly include OA or RA indications, these represent the highest-priority repurposing targets to pursue.
+| Item | Perincian |
+|------|-----------|
+| Jumlah Pendaftaran Disahkan | 8 produk |
+| Status Pasaran | Dipasarkan (Dipasarkan) |
+| Butiran Produk Penuh | Perolehi daripada [Carian Pendaftaran Produk NPRA](https://www.npra.gov.my/index.php/en/product-registration) |
 
 ---
 
-> ⚠️ **Disclaimer**: This report is intended for research reference only and does not constitute medical advice. All drug repurposing candidates require clinical validation before any clinical application. YMYL content — all findings should be interpreted by qualified healthcare professionals.
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan pakej untuk maklumat keselamatan yang lengkap, kerana amaran terperinci dan kontraindikasi tidak tersedia dalam pakej bukti semasa.
+
+Sebagai NSAID bukan pemilih, Piroxicam membawa risiko kelas yang dikenali dengan baik yang sangat berkaitan ketika menilai sebarang penggunaan jangka panjang atau pencegahan dalam konteks kerentanan OA:
+
+- **Risiko gastrousus**: RCT BMJ 1988 yang disertakan dalam pakej bukti ini secara khusus menyiasat strategi perlindungan mukosa GI untuk pengguna Piroxicam, menggarisbawahi bahawa ulserasi dan pendarahan GI atas adalah kebimbangan keselamatan utama, terutamanya dalam penggunaan yang berkelanjutan.
+- **Risiko kardiovaskular**: NSAID, terutamanya perencat COX bukan pemilih, membawa risiko peristiwa kardiovaskular yang bergantung pada dos dan tempoh, yang sangat signifikan untuk sebarang indikasi pencegahan yang menyasarkan individu asimptomatik.
+- **Risiko ginjal**: Sintesis prostaglandin ginjal yang terganggu mungkin menjejaskan hemodinamik ginjal, terutamanya dalam populasi tua atau hipertensi.
+- **Interaksi ubat**: Ujian klinikal Fasa 4 yang selesai (NCT00631514, n=88) dalam set bukti yang lebih luas secara langsung menilai interaksi antara Piroxicam dan agen antihipertensi, mengesahkan potensi untuk menumpulkan kawalan tekanan darah — pertimbangan klinikal yang penting.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Alasan:**
+Walaupun model TxGNN memberikan skor ramalan tinggi 99.9994%, bukti yang menyokong Piroxicam khususnya untuk **kerentanan osteoartritis** — sebagai intervensi pencegahan atau pengubah penyakit pada individu yang bersedia secara genetik — pada masa ini terbatas kepada hipotesis mekanis (L4). Tiada ujian klinikal telah dijalankan untuk menangani indikasi pencegahan spesifik ini, dan profil keselamatan jangka panjang profilaksis NSAID dalam populasi asimptomatik belum dicirikan.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Kajian prospektif menilai perencat COX dalam populasi rentan OA (cth., pembawa polimorfisme GDF5 atau individu dengan tanda-tanda pra-OA radiologi)
+- Penciraan keselamatan jangka panjang penggunaan NSAID pencegahan pada subjek asimptomatik, terutamanya berkaitan dengan titik akhir GI, kardiovaskular, dan ginjal
+- Data MOA terperinci daripada DrugBank untuk mencirikan secara formal profil selektiviti COX-1/COX-2 Piroxicam dan farmakologi di luar sasaran
+- Sisipan pakej NPRA penuh untuk mengesahkan indikasi yang diluluskan Malaysia, amaran, dan kontraindikasi
+- Penilaian farmakoekonomi membandingkan terapi NSAID pencegahan terhadap stratifikasi risiko OA semasa dan garis panduan pengurusan di Malaysia
+
+---
+
+**Ramalan berkaitan dengan keutamaan tinggi dengan bukti yang segera boleh ditindaklanjuti:**
+
+| Indikasi | Ranking TxGNN | Tahap Bukti | Cadangan |
+|----------|--------------|-------------|---------|
+| Artritis Reumatoid | #2 | L1 | Teruskan dengan Penjaga |
+| Osteoartritis | #3 | L1 | Teruskan dengan Penjaga |
+| Artropatia | #10 | L2 | Teruskan dengan Penjaga |
+
+Indikasi berkaitan erat ini berkongsi mekanisme perencatan COX teras Piroxicam, disokong oleh pelbagai RCT selesai dan ulasan sistematik, dan mewakili peluang penindasan label yang lebih segera atau pendaftaran formal di Malaysia. Khususnya, jika pendaftaran produk Malaysia semasa Piroxicam tidak secara jelas memasukkan indikasi OA atau RA, ini mewakili sasaran penindasan keutamaan tertinggi untuk diusahakan.
+
+---
+
+> ⚠️ **Penafian**: Laporan ini dimaksudkan untuk rujukan penyelidikan sahaja dan tidak membentuk nasihat perubatan. Semua calon penindasan ubat memerlukan pengesahan klinikal sebelum sebarang aplikasi klinikal. Kandungan YMYL — semua penemuan harus ditafsirkan oleh profesional penjagaan kesihatan yang berkelayakan.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

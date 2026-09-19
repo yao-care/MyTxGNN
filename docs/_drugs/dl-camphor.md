@@ -29,98 +29,99 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# DL-Camphor: Drug Repurposing Evaluation Report
+# DL-Camphor: Laporan Penilaian Penentuan Semula Ubat
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-DL-Camphor is a topical agent marketed in Malaysia with 9 registered products, commonly used as a counterirritant and mild analgesic. The TxGNN model has **no predicted new indications** for this compound, and critical data gaps exist in mechanism of action, approved indication text, and safety information.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not available (license indication text missing) |
-| Predicted New Indication | None — TxGNN returned no predictions |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | N/A — No prediction to evaluate |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 9 |
-| Recommended Decision | **Hold** |
+DL-Camphor ialah agen topical yang dipasarkan di Malaysia dengan 9 produk berdaftar, biasa digunakan sebagai penggorengan balas dan analgesia ringan. Model TxGNN **tidak mempunyai petunjuk baru yang diramalkan** untuk sebatian ini, dan jurang data kritikal wujud dalam mekanisme tindakan, teks petunjuk yang diluluskan, dan maklumat keselamatan.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Ikhtisar Cepat
 
-There is **no TxGNN prediction to evaluate** for DL-Camphor. The model returned an empty predicted indications list, which may be attributable to one or more of the following factors:
-
-1. **Missing DrugBank ID**: DL-Camphor could not be mapped to a DrugBank identifier (`drugbank_id: null`). The TxGNN knowledge graph relies on DrugBank nodes to anchor drug entities; without a valid mapping, the model cannot generate predictions. This is the most likely root cause.
-
-2. **Limited knowledge graph coverage**: DL-Camphor is a racemic mixture of d-camphor and l-camphor. It is primarily used as an excipient or in over-the-counter topical preparations. Such compounds may have limited representation in the TxGNN knowledge graph, which is weighted toward prescription therapeutics with well-characterized molecular targets.
-
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on general pharmacological knowledge, DL-Camphor is a cyclic monoterpene ketone that acts on TRPV1 and TRPV3 receptors, producing a sensation of coolness and mild local analgesia. Its therapeutic profile is predominantly topical, which further limits systemic repurposing opportunities.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered — no TxGNN prediction was generated to search against.
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Tidak tersedia (teks petunjuk lesen hilang) |
+| Petunjuk Baru yang Diramalkan | Tiada — TxGNN tidak mengembalikan prediksi |
+| Skor Prediksi TxGNN | N/A |
+| Tahap Bukti | N/A — Tiada prediksi untuk dinilai |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 9 |
+| Keputusan yang Disyorkan | **Tahan** |
 
 ---
 
-## Literature Evidence
+## Mengapa Prediksi Ini Munasabah?
 
-Currently no related literature available — no TxGNN prediction was generated to search against.
+**Tiada prediksi TxGNN untuk dinilai** bagi DL-Camphor. Model mengembalikan senarai petunjuk yang diramalkan kosong, yang mungkin boleh dikaitkan dengan satu atau lebih faktor berikut:
+
+1. **DrugBank ID Hilang**: DL-Camphor tidak dapat dipetakan ke pengenal DrugBank (`drugbank_id: null`). Graf pengetahuan TxGNN bergantung pada nod DrugBank untuk menambat entiti ubat; tanpa pemetaan yang sah, model tidak dapat menghasilkan prediksi. Ini adalah punca utama yang paling berkemungkinan.
+
+2. **Liputan graf pengetahuan terhad**: DL-Camphor ialah campuran racemik d-camphor dan l-camphor. Ia terutamanya digunakan sebagai eksipien atau dalam persediaan topical bebas preskripsi. Sebatian tersebut mungkin mempunyai perwakilan terhad dalam graf pengetahuan TxGNN, yang berat ke arah terapeutik preskripsi dengan sasaran molekul yang dicirikan dengan baik.
+
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia dalam pakej bukti ini. Berdasarkan pengetahuan farmakologi umum, DL-Camphor ialah ketone monoterpena siklik yang bertindak pada reseptor TRPV1 dan TRPV3, menghasilkan sensasi kesejukan dan analgesia tempatan ringan. Profil terapeutiknya adalah terutamanya topical, yang seterusnya mengehadkan peluang penentuan semula sistematik.
 
 ---
 
-## Malaysia Market Information
+## Bukti Ujian Klinikal
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+Pada masa ini tiada ujian klinikal berkaitan berdaftar — tiada prediksi TxGNN yang dihasilkan untuk dicari.
+
+---
+
+## Bukti Literatur
+
+Pada masa ini tiada literatur berkaitan tersedia — tiada prediksi TxGNN yang dihasilkan untuk dicari.
+
+---
+
+## Maklumat Pasaran Malaysia
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjuk yang Diluluskan |
 |------|------|------|------|
-| (not provided) | (not provided) | (not provided) | (not provided) |
-| (not provided) | (not provided) | (not provided) | (not provided) |
-| (not provided) | (not provided) | (not provided) | (not provided) |
-| (not provided) | (not provided) | (not provided) | (not provided) |
-| (not provided) | (not provided) | (not provided) | (not provided) |
+| (tidak disediakan) | (tidak disediakan) | (tidak disediakan) | (tidak disediakan) |
+| (tidak disediakan) | (tidak disediakan) | (tidak disediakan) | (tidak disediakan) |
+| (tidak disediakan) | (tidak disediakan) | (tidak disediakan) | (tidak disediakan) |
+| (tidak disediakan) | (tidak disediakan) | (tidak disediakan) | (tidak disediakan) |
+| (tidak disediakan) | (tidak disediakan) | (tidak disediakan) | (tidak disediakan) |
 
-> **Note:** 9 registrations were identified by the NPRA query, but license details (authorization numbers, product names, dosage forms, and indication text) were not populated in the evidence pack. This data gap must be resolved before any further evaluation.
+> **Nota:** 9 pendaftaran dikenal pasti oleh pertanyaan NPRA, tetapi butiran lesen (nombor kebenaran, nama produk, bentuk dos, dan teks petunjuk) tidak diisi dalam pakej bukti. Jurang data ini mesti diselesaikan sebelum penilaian seterusnya.
 
 ---
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-> Please refer to the package insert for safety information.
+> Sila rujuk sisipan pakej untuk maklumat keselamatan.
 >
-> All safety fields (key warnings, contraindications, drug interactions) are currently missing. No drug–drug interactions were found in the DrugBank query.
+> Semua medan keselamatan (amaran utama, kontraindikasi, interaksi ubat) pada masa ini hilang. Tiada interaksi ubat-ubatan ditemui dalam pertanyaan DrugBank.
 
 ---
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-No TxGNN repurposing prediction was generated for DL-Camphor, most likely because the compound lacks a DrugBank ID mapping. Without a prediction, there is no candidate indication to evaluate. Additionally, multiple critical data gaps (MOA, indication text, safety profile) prevent meaningful assessment.
+**Rasional:**
+Tiada prediksi penentuan semula TxGNN yang dihasilkan bagi DL-Camphor, kemungkinan besar kerana sebatian ini tidak mempunyai pemetaan DrugBank ID. Tanpa prediksi, tiada petunjuk calon untuk dinilai. Selain itu, pelbagai jurang data kritikal (MOA, teks petunjuk, profil keselamatan) menghalang penilaian yang bermakna.
 
-**To proceed, the following is needed:**
-- **Resolve DrugBank mapping** — Investigate whether DL-Camphor (or its individual enantiomers d-camphor / l-camphor) has a DrugBank entry (e.g., DB01744 for Camphor) and re-run the mapping pipeline
-- **Populate NPRA license details** — Retrieve authorization numbers, product names, dosage forms, and approved indication text for all 9 registered products
-- **Obtain safety data** — Download and parse package inserts from the NPRA database to populate warnings, contraindications, and interaction profiles
-- **Obtain MOA data** — Query DrugBank or PubChem for pharmacological mechanism details
-- **Re-run TxGNN prediction** — Once DrugBank ID is resolved, re-execute the knowledge graph and deep learning prediction pipeline
+**Untuk meneruskan, perkara berikut diperlukan:**
+- **Selesaikan pemetaan DrugBank** — Siasat sama ada DL-Camphor (atau enantiomer individunya d-camphor / l-camphor) mempunyai entri DrugBank (cth. DB01744 untuk Camphor) dan jalankan semula saluran pemetaan
+- **Isi butiran lesen NPRA** — Perolehi nombor kebenaran, nama produk, bentuk dos, dan teks petunjuk yang diluluskan bagi semua 9 produk berdaftar
+- **Dapatkan data keselamatan** — Muat turun dan huraikan sisipan pakej daripada pangkalan data NPRA untuk mengisi amaran, kontraindikasi, dan profil interaksi
+- **Dapatkan data MOA** — Pertanyakan API DrugBank atau PubChem untuk butiran mekanisme farmakologi
+- **Jalankan semula prediksi TxGNN** — Setelah DrugBank ID diselesaikan, laksanakan semula saluran prediksi graf pengetahuan dan pembelajaran mendalam
 
 ---
 
-### Data Gap Summary
+### Ringkasan Jurang Data
 
-| Gap ID | Item | Severity | Recommended Source |
+| ID Jurang | Item | Keterukan | Sumber yang Disyorkan |
 |--------|------|----------|--------------------|
-| DG001 | NPRA package insert warnings/contraindications | **Blocking** | NPRA website — download and parse PDF |
-| DG002 | Mechanism of Action (MOA) | High | DrugBank API query |
-| — | License detail fields (all empty) | High | NPRA database re-query |
-| — | DrugBank ID mapping | **Blocking** | DrugBank search for "Camphor" (DB01744) |
+| DG001 | Amaran/kontraindikasi sisipan pakej NPRA | **Menghalang** | Laman web NPRA — muat turun dan huraikan PDF |
+| DG002 | Mekanisme Tindakan (MOA) | Tinggi | Pertanyaan API DrugBank |
+| — | Medan butiran lesen (semua kosong) | Tinggi | Pertanyaan pangkalan data NPRA semula |
+| — | Pemetaan DrugBank ID | **Menghalang** | Carian DrugBank untuk "Camphor" (DB01744) |
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

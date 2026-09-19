@@ -29,91 +29,92 @@ Tahap bukti: **L3** | Indikasi diramal: **6**
 
 </div>
 
-# Lovastatin: From Hypercholesterolemia to Homozygous Familial Hypercholesterolemia
+# Lovastatin: Dari Hiperkolesterolemia kepada Hiperkolesterolemia Familial Homozigot
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Lovastatin is a first-generation HMG-CoA reductase inhibitor (statin) originally used to lower LDL-cholesterol in patients with primary hypercholesterolemia and mixed dyslipidemia. The TxGNN model predicts it may also be relevant for **Homozygous Familial Hypercholesterolemia (HoFH)**, a rare and severe genetic form of hypercholesterolemia, with **3 clinical trials** and **19 publications** currently identified in this direction — though the mechanistic evidence suggests the benefit is likely limited to a genetic subset of patients.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Hypercholesterolemia / mixed dyslipidemia (classic statin indication; NPRA label indication text was not returned in the current dataset) |
-| Predicted New Indication | Homozygous Familial Hypercholesterolemia (HoFH) |
-| TxGNN Prediction Score | 99.89% |
-| Evidence Level | L3 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 4 |
-| Recommended Decision | Hold |
+Lovastatin ialah perencat HMG-CoA reduktase generasi pertama (statin) yang pada asalnya digunakan untuk menurunkan kolesterol LDL pada pesakit dengan hiperkolesterolemia primer dan dislipidemia campuran. Model TxGNN meramalkan ia mungkin juga relevan bagi **Hiperkolesterolemia Familial Homozigot (HoFH)**, bentuk genetik hiperkolesterolemia yang jarang dan teruk, dengan **3 uji klinis** dan **19 penerbitan** yang dikenal pasti dalam arah ini — walaupun bukti mekanistik menunjukkan manfaatnya berkemungkinan terhad kepada subset genetik pesakit.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Ringkas
 
-Currently, detailed mechanism of action data is not available from DrugBank in this evidence pack. Based on known pharmacology, lovastatin is a statin (HMG-CoA reductase inhibitor) that lowers LDL-cholesterol primarily by reducing hepatic cholesterol synthesis, which triggers **up-regulation of hepatic LDL receptors (LDLR)** to increase LDL clearance from plasma. Its efficacy in primary hypercholesterolemia is well established and mechanistically it could plausibly extend to other LDL-C-elevating disorders, including HoFH.
-
-However, HoFH is caused by biallelic loss-of-function mutations in the LDL receptor gene, and patients are commonly classified as "receptor-negative" (little to no functional LDLR) or "receptor-defective" (partial LDLR function). Because lovastatin's mechanism *depends on* the LDLR pathway it upregulates, its effectiveness in HoFH is inherently genotype-dependent — a fundamentally different situation from its original indication, where residual receptor function is generally intact.
-
-The literature in this evidence pack directly supports this caveat: studies in receptor-negative HoFH patients show **no meaningful reduction in LDL-C or LDL turnover** with lovastatin, whereas some receptor-defective patients and post-liver-transplant patients (whose receptor activity was restored) do respond. This means the TxGNN signal is mechanistically plausible only for a genetically-defined subgroup of HoFH patients, not for the HoFH population as a whole, and cannot be treated as a general "positive" repurposing signal without receptor-status stratification.
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Hiperkolesterolemia / dislipidemia campuran (indikasi statin klasik; teks indikasi label NPRA tidak dikembalikan dalam set data semasa) |
+| Indikasi Baru Diramalkan | Hiperkolesterolemia Familial Homozigot (HoFH) |
+| Skor Ramalan TxGNN | 99.89% |
+| Tahap Bukti | L3 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 4 |
+| Keputusan Disyorkan | Tahan |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia daripada DrugBank dalam pakej bukti ini. Berdasarkan farmakologi yang diketahui, lovastatin ialah statin (perencat HMG-CoA reduktase) yang menurunkan kolesterol LDL terutamanya dengan mengurangkan sintesis kolesterol hepatik, yang mencetuskan **pengaturan ke atas reseptor LDL hepatik (LDLR)** untuk meningkatkan pelepasan LDL daripada plasma. Keserannya dalam hiperkolesterolemia primer telah terbukti dengan baik dan secara mekanistik ia boleh dipanjangkan kepada gangguan lain yang meningkatkan LDL-C, termasuk HoFH.
+
+Walau bagaimanapun, HoFH disebabkan oleh mutasi bialelik penyebab kehilangan fungsi dalam gen reseptor LDL, dan pesakit lazimnya dikelaskan sebagai "reseptor-negatif" (sedikit atau tiada LDLR berfungsi) atau "reseptor-cacat" (fungsi LDLR separa). Kerana mekanisme lovastatin *bergantung kepada* laluan LDLR yang diaturnya, keberkesanannya dalam HoFH secara asli bergantung genotip — situasi yang berbeza secara asas daripada indikasi awalnya, di mana fungsi reseptor sisa umumnya utuh.
+
+Kesusasteraan dalam pakej bukti ini secara langsung menyokong kaveat ini: kajian pada pesakit HoFH reseptor-negatif menunjukkan **tiada pengurangan bermakna dalam LDL-C atau kadar pusing ganti LDL** dengan lovastatin, manakala beberapa pesakit reseptor-cacat dan pesakit pasca-pemindahan hati (yang aktiviti reseptornya dipulihkan) memberi tindak balas. Ini bermakna isyarat TxGNN secara mekanistik munasabah hanya untuk subkumpulan genetik pesakit HoFH, bukan untuk keseluruhan populasi HoFH, dan tidak boleh dianggap sebagai isyarat "positif" penyusunan semula tanpa stratifikasi status reseptor.
+
+---
+
+## Bukti Uji Klinis
+
+| Nombor Uji | Fasa | Status | Kemasukan | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT03510715](https://clinicaltrials.gov/study/NCT03510715) | Phase 3 | Completed | 18 | Evaluated alirocumab (PCSK9 inhibitor, not lovastatin) in children/adolescents (8–17y) with HoFH on top of background therapy; confirms HoFH as an active pediatric research area but is not direct lovastatin evidence. |
-| [NCT03885921](https://clinicaltrials.gov/study/NCT03885921) | Phase 3 | Completed | 44 | Long-term (24-month) open-label extension of ezetimibe 10mg added to atorvastatin or simvastatin in HoFH; supports statin + ezetimibe combination safety, not lovastatin monotherapy. |
-| [NCT03884452](https://clinicaltrials.gov/study/NCT03884452) | Phase 3 | Completed | 50 | Parent efficacy/safety study of ezetimibe co-administered with atorvastatin or simvastatin in HoFH; different drug, same disease population. |
+| [NCT03510715](https://clinicaltrials.gov/study/NCT03510715) | Fasa 3 | Selesai | 18 | Menilai alirocumab (perencat PCSK9, bukan lovastatin) dalam kanak-kanak/remaja (8–17y) dengan HoFH di atas terapi latar belakang; mengesahkan HoFH sebagai kawasan penyelidikan pediatrik aktif tetapi bukan bukti lovastatin langsung. |
+| [NCT03885921](https://clinicaltrials.gov/study/NCT03885921) | Fasa 3 | Selesai | 44 | Pelanjutan terbuka-label jangka panjang (24 bulan) ezetimibe 10mg ditambahkan kepada atorvastatin atau simvastatin dalam HoFH; menyokong keselamatan kombinasi statin + ezetimibe, bukan monoterapi lovastatin. |
+| [NCT03884452](https://clinicaltrials.gov/study/NCT03884452) | Fasa 3 | Selesai | 50 | Kajian kecekapan/keselamatan induk ezetimibe yang diberikan bersama atorvastatin atau simvastatin dalam HoFH; ubat berbeza, populasi penyakit yang sama. |
 
-**Note:** None of the identified trials tested lovastatin directly in HoFH; all three studied other agents (alirocumab, ezetimibe) in the same disease population, so they provide only indirect context for this repurposing candidate.
+**Nota:** Tiada satu pun uji klinis yang dikenal pasti menguji lovastatin secara langsung dalam HoFH; ketiganya mengkaji agen lain (alirocumab, ezetimibe) dalam populasi penyakit yang sama, jadi ia hanya memberikan konteks tidak langsung untuk calon penyusunan semula ini.
 
 ---
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [3397806](https://pubmed.ncbi.nlm.nih.gov/3397806/) | 1988 | Cohort (small) | The Journal of Pediatrics | Lovastatin 2 mg/kg/day in 3 children with **receptor-negative** HoFH produced no decrease in LDL-C and no change in LDL turnover, showing lovastatin's dependence on functional LDL receptors. |
-| [1785747](https://pubmed.ncbi.nlm.nih.gov/1785747/) | 1991 | Cohort (small) | Anales Españoles de Pediatría | Combined lovastatin + probucol + cholestyramine in 2 HoFH patients reduced total cholesterol by 41.7%, with response linked to LDL-receptor analysis findings. |
-| [3534334](https://pubmed.ncbi.nlm.nih.gov/3534334/) | 1986 | Case report | JAMA | Lovastatin (mevinolin) normalized cholesterol in a HoFH child **after liver transplantation** restored ~60% of LDL receptor activity — underscoring receptor-dependence of response. |
-| [2252289](https://pubmed.ncbi.nlm.nih.gov/2252289/) | 1990 | Case report | Anales Españoles de Pediatría | A HoFH patient with **residual (receptor-defective)** activity showed a promising response to combined cholestyramine + lovastatin therapy. |
-| [8637439](https://pubmed.ncbi.nlm.nih.gov/8637439/) | 1996 | Case report | Metabolism | In a homozygous sitosterolemic girl with concurrent heterozygous FH, lovastatin and cholestyramine had **opposing effects** on plasma sterol levels, cautioning against generalizing statin response across genotypes. |
-| [2042836](https://pubmed.ncbi.nlm.nih.gov/2042836/) | 1991 | Review | Annals of the New York Academy of Sciences | Review of pharmacologic/surgical treatments in dyslipidemic children, listing lovastatin among agents with variable success in FH. |
-| [12091863](https://pubmed.ncbi.nlm.nih.gov/12091863/) | 2002 | Case report | The Journal of Pediatrics | 15-year combination of HELP apheresis and statins reduced LDL-C by 85% from baseline and prevented premature coronary atherosclerosis progression in a HoFH patient. |
-| [29284604](https://pubmed.ncbi.nlm.nih.gov/29284604/) | 2018 | Cohort | Arteriosclerosis, Thrombosis, and Vascular Biology | HoFH patients with identical LDLR mutations show variably expressed receptor function, explaining heterogeneous response to receptor-dependent therapies (statins, evolocumab). |
-| [10146648](https://pubmed.ncbi.nlm.nih.gov/10146648/) | 1993 | Case series | Transfusion Science | Two girls with FH managed for 7 years by plasma exchange/LDL-apheresis, with statin (simvastatin) as adjunct — illustrating receptor-independent removal as a complement to statin therapy. |
-| [2209665](https://pubmed.ncbi.nlm.nih.gov/2209665/) | 1990 | Case report | European Journal of Pediatrics | LDL plasmapheresis with and without lovastatin in a 7-year-old girl with HoFH; long-term treatment was well tolerated and led to regression of xanthomata. |
+| [3397806](https://pubmed.ncbi.nlm.nih.gov/3397806/) | 1988 | Kohort (kecil) | The Journal of Pediatrics | Lovastatin 2 mg/kg/hari dalam 3 kanak-kanak dengan HoFH **reseptor-negatif** menghasilkan tiada penurunan LDL-C dan tiada perubahan dalam kadar pusing ganti LDL, menunjukkan kebergantungan lovastatin pada reseptor LDL berfungsi. |
+| [1785747](https://pubmed.ncbi.nlm.nih.gov/1785747/) | 1991 | Kohort (kecil) | Anales Españoles de Pediatría | Lovastatin gabungan + probucol + cholestyramine dalam 2 pesakit HoFH mengurangkan kolesterol jumlah sebanyak 41.7%, dengan tindak balas berkaitan dengan penemuan analisis reseptor LDL. |
+| [3534334](https://pubmed.ncbi.nlm.nih.gov/3534334/) | 1986 | Laporan kes | JAMA | Lovastatin (mevinolin) menormalkan kolesterol dalam kanak-kanak HoFH **selepas pemindahan hati** memulihkan ~60% aktiviti reseptor LDL — menekankan kebergantungan reseptor tindak balas. |
+| [2252289](https://pubmed.ncbi.nlm.nih.gov/2252289/) | 1990 | Laporan kes | Anales Españoles de Pediatría | Pesakit HoFH dengan aktiviti **sisa (reseptor-cacat)** menunjukkan tindak balas yang menjanjikan terhadap terapi cholestyramine + lovastatin gabungan. |
+| [8637439](https://pubmed.ncbi.nlm.nih.gov/8637439/) | 1996 | Laporan kes | Metabolism | Dalam gadis sitosterolemia homozigot dengan FH heterozigot serentak, lovastatin dan cholestyramine mempunyai **kesan bertentangan** pada paras sterol plasma, memberi amaran terhadap generalisasi tindak balas statin merentasi genotip. |
+| [2042836](https://pubmed.ncbi.nlm.nih.gov/2042836/) | 1991 | Ulasan | Annals of the New York Academy of Sciences | Ulasan rawatan farmakologi/pembedahan dalam kanak-kanak dislipidemia, menyenaraikan lovastatin antara agen dengan kejayaan berubah-ubah dalam FH. |
+| [12091863](https://pubmed.ncbi.nlm.nih.gov/12091863/) | 2002 | Laporan kes | The Journal of Pediatrics | Kombinasi 15 tahun aferesis HELP dan statin mengurangkan LDL-C sebanyak 85% daripada garis pangkal dan mengelakkan kemajuan aterosklerosis koroner pramatang dalam pesakit HoFH. |
+| [29284604](https://pubmed.ncbi.nlm.nih.gov/29284604/) | 2018 | Kohort | Arteriosclerosis, Thrombosis, and Vascular Biology | Pesakit HoFH dengan mutasi LDLR yang sama menunjukkan fungsi reseptor yang dinyatakan secara berbeza-beza, menjelaskan tindak balas yang heterogen terhadap terapi bergantung reseptor (statin, evolocumab). |
+| [10146648](https://pubmed.ncbi.nlm.nih.gov/10146648/) | 1993 | Siri kes | Transfusion Science | Dua gadis dengan FH diurus selama 7 tahun oleh pertukaran plasma/aferesis LDL, dengan statin (simvastatin) sebagai tambahan — menggambarkan penyingkiran bergantung-reseptor sebagai pelengkap kepada terapi statin. |
+| [2209665](https://pubmed.ncbi.nlm.nih.gov/2209665/) | 1990 | Laporan kes | European Journal of Pediatrics | Aferesis plasma LDL dengan dan tanpa lovastatin dalam gadis berusia 7 tahun dengan HoFH; rawatan jangka panjang ditoleransi dengan baik dan membawa kepada regresi xanthomata. |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-NPRA registration records indicate **4 active licenses** for lovastatin in Malaysia (market status: Marketed), but the specific authorization numbers, product names, dosage forms, and approved indication text were not returned in the current dataset. Please consult the NPRA Quest3+ product database directly for these registration details.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information. No key warnings, contraindications, or drug interaction data specific to this candidate were available in the current dataset.
+Rekod pendaftaran NPRA menunjukkan **4 lesen aktif** untuk lovastatin di Malaysia (status pasaran: Dipasarkan), tetapi bilangan kebenaran tertentu, nama produk, bentuk dos, dan teks indikasi yang diluluskan tidak dikembalikan dalam set data semasa. Sila rujuk pangkalan data produk Quest3+ NPRA secara langsung untuk butiran pendaftaran ini.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila rujuk surat sisipan pakej untuk maklumat keselamatan. Tiada data amaran utama, kontraindikasi, atau interaksi ubat yang khusus untuk calon ini tersedia dalam set data semasa.
 
-**Rationale:**
-The evidence level is L3 (small cohort and case reports only, no RCTs testing lovastatin specifically in HoFH), and the mechanistic rationale itself indicates the effect is genotype-dependent — receptor-negative HoFH patients (a substantial proportion of this population) show little to no LDL-C response to lovastatin, so the signal cannot be generalized across the HoFH population without receptor-status stratification. Additionally, TFDA/NPRA-equivalent label warnings and contraindications data are marked as a **Blocking** data gap, which prevents this candidate from entering the S1 safety pre-screening stage regardless of the disease indication under consideration.
+---
 
-**To proceed, the following is needed:**
-- NPRA label warnings/contraindications data (currently blocking safety pre-screening)
-- Confirmed mechanism of action data from DrugBank
-- Stratification of future evidence collection by LDL-receptor genotype (receptor-negative vs. receptor-defective) before drawing efficacy conclusions in HoFH
-- For context: the related candidate indication **hyperlipoproteinemia** (rank 2 in this evidence pack) shows a stronger evidence base (L2, multiple completed RCTs, clear direct mechanistic link) and may be a more actionable near-term repurposing target worth a separate evaluation
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Alasan:**
+Tahap bukti ialah L3 (kohort kecil dan laporan kes sahaja, tiada RCT menguji lovastatin secara khusus dalam HoFH), dan rasional mekanistik itu sendiri menunjukkan kesannya bergantung genotip — pesakit HoFH reseptor-negatif (bahagian besar daripada populasi ini) menunjukkan sedikit atau tiada tindak balas LDL-C kepada lovastatin, jadi isyarat tidak boleh digeneralisasi merentasi populasi HoFH tanpa stratifikasi status reseptor. Selain itu, amaran label TFDA/NPRA-setara dan data kontraindikasi ditandakan sebagai jurang data **Penghalang**, yang menghalang calon ini daripada memasuki peringkat praskrining keselamatan S1 tanpa mengira indikasi penyakit yang dipertimbangkan.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Data amaran/kontraindikasi label NPRA (kini menghalang praskrining keselamatan)
+- Data mekanisme tindakan yang disahkan daripada DrugBank
+- Stratifikasi koleksi bukti masa depan mengikut genotip reseptor LDL (reseptor-negatif vs. reseptor-cacat) sebelum membuat kesimpulan kecekapan dalam HoFH
+- Untuk konteks: calon indikasi berkaitan **hiperlipoproteinemia** (kedudukan 2 dalam pakej bukti ini) menunjukkan asas bukti yang lebih kuat (L2, berbilang RCT selesai, pautan mekanistik terus yang jelas) dan mungkin sasaran penyusunan semula yang lebih boleh diambil tindakan berdekatan yang layak penilaian berasingan
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

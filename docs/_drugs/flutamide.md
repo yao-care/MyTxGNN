@@ -29,88 +29,89 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Flutamide: From Prostate Cancer to Prostate Cancer/Brain Cancer Susceptibility
+# Flutamide: Dari Kanser Prostat ke Kerentanan Kanser Prostat/Kanser Otak
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Flutamide is a nonsteroidal antiandrogen historically used in combined androgen blockade for (advanced) prostate cancer — a use extensively documented by trial data in this same evidence pack. The TxGNN model's top-ranked prediction points to **"Prostate Cancer/Brain Cancer Susceptibility"** (a genetic-susceptibility ontology node, not a clinical diagnosis), but currently **0 clinical trials** and **0 publications** support this specific pairing, and the recommendation is **Hold**.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Prostate cancer (advanced/metastatic — no TFDA/NPRA label text is available in this pack; use is confirmed indirectly via the 50 clinical trials retrieved under the related "male reproductive organ cancer" node) |
-| Predicted New Indication | Prostate Cancer/Brain Cancer Susceptibility |
-| TxGNN Prediction Score | 99.98% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+Flutamide adalah antiandrogen bukan steroid yang secara tradisional digunakan dalam penyekat androgen gabungan untuk kanser prostat (lanjut) — penggunaan yang didokumentasikan secara ekstensif oleh data ujian dalam paket bukti yang sama. Ramalan model TxGNN yang berperingkat teratas menunjuk kepada **"Kerentanan Kanser Prostat/Kanser Otak"** (nod ontologi kerentanan genetik, bukan diagnosis klinis), tetapi pada masa kini **0 ujian klinis** dan **0 penerbitan** menyokong pasangan khusus ini, dan cadangan adalah **Tunggu**.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Ringkas
 
-Detailed mechanism-of-action data from DrugBank is marked as a Data Gap in this evidence pack. However, literature attached to this drug elsewhere in the pack (PMID [8252497](https://pubmed.ncbi.nlm.nih.gov/8252497/), Labrie F, *Cancer*, 1993, "Mechanism of action and pure antiandrogenic properties of flutamide") confirms flutamide is a nonsteroidal, pure androgen-receptor antagonist used clinically in combined androgen blockade (with LHRH agonists) for prostate cancer — a use corroborated by dozens of Phase 2/3 trials also present in this pack.
-
-The model's top-ranked candidate, however, is not a conventional new indication. "Prostate cancer/brain cancer susceptibility" combines a genetic-susceptibility ontology node with an unrelated cancer type that has no established link to androgen signaling. No clinical trials, ICTRP records, or PubMed literature were retrieved for this pairing (0/0/0), and the source annotation for this candidate itself flags it as a likely knowledge-graph label mismatch rather than a genuine mechanistic hypothesis, rather than a pharmacologically grounded lead.
-
-Because flutamide's established mechanism (androgen receptor antagonism) does not extend in any documented way to brain tumour biology or hereditary cancer susceptibility, this specific top-ranked prediction does not currently meet the bar for further evaluation.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Item | Kandungan |
+|------|-----------|
+| Indikasi Asal | Kanser prostat (lanjut/metastatik — tiada teks label TFDA/NPRA tersedia dalam paket ini; penggunaan disahkan secara tidak langsung melalui 50 ujian klinis yang diambil di bawah nod "kanser organ reproduksi lelaki" yang berkaitan) |
+| Indikasi Baharu Diramalkan | Kerentanan Kanser Prostat/Kanser Otak |
+| Skor Ramalan TxGNN | 99.98% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan Disyorkan | Tunggu |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available.
+Data mekanisme tindakan terperinci daripada DrugBank ditandai sebagai Jurang Data dalam paket bukti ini. Walau bagaimanapun, literatur yang dilampirkan kepada ubat ini di tempat lain dalam paket (PMID [8252497](https://pubmed.ncbi.nlm.nih.gov/8252497/), Labrie F, *Cancer*, 1993, "Mekanisme tindakan dan sifat antiandrogen tulen flutamide") mengesahkan flutamide adalah antagonis reseptor androgen bukan steroid yang digunakan secara klinis dalam penyekat androgen gabungan (dengan agonis LHRH) untuk kanser prostat — penggunaan yang disahkan oleh berpuluh-puluh ujian Fasa 2/3 juga hadir dalam paket ini.
 
----
+Calon berperingkat teratas model, bagaimanapun, bukanlah indikasi baharu konvensional. "Kerentanan kanser prostat/kanser otak" menggabungkan nod ontologi kerentanan genetik dengan jenis kanser yang tidak berkaitan yang tidak mempunyai sambungan yang ditubuhkan kepada isyarat androgen. Tiada ujian klinis, rekod ICTRP, atau literatur PubMed yang diperoleh untuk pasangan ini (0/0/0), dan anotasi sumber untuk calon ini sendiri menandainya sebagai ketidakpadanan label graf pengetahuan yang mungkin daripada hipotesis mekanik tulen, daripada pimpinan farmakologi yang berasas.
 
-## Malaysia Market Information
-
-Malaysia records **1 registered license** for flutamide with market status **✓ Marketed**. However, license-level details (authorization number, product name, dosage form, approved indication text) are not available in this evidence pack.
+Oleh kerana mekanisme flutamide yang ditubuhkan (penentangan reseptor androgen) tidak meluas dalam sebarang cara yang didokumentasikan kepada biologi tumor otak atau kerentanan kanser herediter, ramalan berperingkat teratas khusus ini tidak memenuhi ambang untuk penilaian lanjutan pada masa kini.
 
 ---
 
-## Cytotoxicity
+## Bukti Ujian Klinis
 
-Flutamide's original use in prostate cancer classifies it as antineoplastic, so this section applies.
-
-| Item | Content |
-|------|------|
-| Cytotoxicity Classification | Targeted/hormonal therapy (nonsteroidal antiandrogen; not conventional cytotoxic chemotherapy) |
-| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
-| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | Please refer to the package insert warnings and precautions |
-| Handling Protection | Please refer to the package insert warnings and precautions |
+Pada masa kini tiada ujian klinis berkaitan yang didaftarkan.
 
 ---
 
-## Safety Considerations
+## Bukti Literatur
 
-Please refer to the package insert for safety information.
+Pada masa kini tiada literatur berkaitan tersedia.
 
 ---
 
-## Conclusion and Next Steps
+## Maklumat Pasaran Malaysia
 
-**Decision: Hold**
+Malaysia merekod **1 lesen pendaftaran** untuk flutamide dengan status pasaran **✓ Dipasarkan**. Walau bagaimanapun, butiran peringkat lesen (nombor kebenaran, nama produk, bentuk dos, teks indikasi yang diluluskan) tidak tersedia dalam paket bukti ini.
 
-**Rationale:**
-The top-ranked prediction ("Prostate Cancer/Brain Cancer Susceptibility") has no supporting clinical trials, ICTRP records, or literature, and appears to be a knowledge-graph labeling artifact rather than a mechanistically grounded hypothesis (Evidence Level L5).
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA label data — warnings and contraindications (currently a Blocking data gap, DG001)
-- DrugBank mechanism-of-action confirmation (DG002)
-- Malaysia license details — product name, dosage form, full approved indication text
-- If repurposing is still of interest, prioritize better-evidenced candidates already surfaced in this same TxGNN run instead of rank 1 — notably rank 6 "male reproductive organ cancer" (50 trials, 20 publications) and rank 4 "benign reproductive system neoplasm" (19 publications), both of which warrant their own separate scoring pass
+## Sitotoksisiti
+
+Penggunaan asal flutamide dalam kanser prostat mengklasifikasikannya sebagai antineoplastik, jadi bahagian ini terpakai.
+
+| Item | Kandungan |
+|------|-----------|
+| Klasifikasi Sitotoksisiti | Terapi bertarget/hormon (antiandrogen bukan steroid; bukan kemoterapia sitotoksik konvensional) |
+| Risiko Supresi Sumsum Tulang | Sila rujuk amaran dan tindakan berjaga dalam warkah pembungkus |
+| Klasifikasi Emetogenisiti | Sila rujuk amaran dan tindakan berjaga dalam warkah pembungkus |
+| Item Pemantauan | Sila rujuk amaran dan tindakan berjaga dalam warkah pembungkus |
+| Perlindungan Pengendalian | Sila rujuk amaran dan tindakan berjaga dalam warkah pembungkus |
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk warkah pembungkus untuk maklumat keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tunggu**
+
+**Alasan:**
+Ramalan berperingkat teratas ("Kerentanan Kanser Prostat/Kanser Otak") tidak mempunyai ujian klinis yang menyokong, rekod ICTRP, atau literatur, dan nampaknya merupakan artifak pelabelan graf pengetahuan daripada hipotesis berasas mekanik tulen (Tahap Bukti L5).
+
+**Untuk meneruskan, berikut diperlukan:**
+- Data label TFDA/NPRA — amaran dan kontraindikasi (pada masa kini jurang data yang menghalang, DG001)
+- Pengesahan mekanisme tindakan DrugBank (DG002)
+- Butiran lesen Malaysia — nama produk, bentuk dos, teks indikasi yang diluluskan sepenuhnya
+- Jika pengguna semula masih menarik minat, utamakan calon yang lebih banyak bukti sudah tampil dalam larian TxGNN yang sama ini — terutamanya pangkat 6 "kanser organ reproduksi lelaki" (50 ujian, 20 penerbitan) dan pangkat 4 "neoplasma sistem reproduksi jinak" (19 penerbitan), yang kedua-duanya memerlukan penilaian pemarkahan yang tersendiri
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

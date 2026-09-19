@@ -29,98 +29,99 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Aminophylline Anhydrous: Bronchodilator with Insufficient Repurposing Data
+# Aminophylline Anhydrous: Bronkodilator dengan Data Ubah Tujuan Penggunaan Tidak Mencukupi
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Aminophylline Anhydrous is a methylxanthine bronchodilator classically used for bronchial asthma and chronic obstructive pulmonary disease (COPD).
-No TxGNN repurposing predictions are currently available for this drug — the `predicted_indications` field is empty — meaning **no new indication target** and **no supporting evidence** can be reported at this time.
-This report documents the current data status and outlines remediation steps before a full repurposing evaluation can proceed.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Bronchial asthma / COPD / Acute bronchospasm (based on known pharmacology; package insert text not retrieved) |
-| Predicted New Indication | — (No TxGNN prediction available) |
-| TxGNN Prediction Score | — |
-| Evidence Level | L5 (Model prediction not yet generated) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | **Hold** |
+Aminophylline Anhydrous adalah bronkodilator metilksantin yang secara klasik digunakan untuk asma bronkial dan penyakit paru obstruktif kronik (PPOK).
+Tiada ramalan ubah tujuan TxGNN yang tersedia untuk ubat ini pada masa ini — medan `predicted_indications` kosong — bermakna **tiada sasaran indikasi baru** dan **tiada bukti sokongan** boleh dilaporkan pada masa ini.
+Laporan ini mendokumentasikan status data semasa dan menggariskan langkah pemulihan sebelum penilaian ubah tujuan penggunaan penuh boleh diteruskan.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Pantas
 
-No TxGNN repurposing prediction is available for this candidate at the time of report generation (`predicted_indications: []`). Therefore, a mechanistic link to any new indication cannot be evaluated.
-
-From established pharmacology, Aminophylline is a 2:1 complex of theophylline and ethylenediamine. Theophylline acts primarily as a **non-selective phosphodiesterase (PDE) inhibitor**, raising intracellular cAMP and cGMP levels, leading to bronchial smooth muscle relaxation. It also acts as an **adenosine receptor antagonist** (A1, A2A), which accounts for secondary effects including positive chronotropy, mild diuresis, and central respiratory stimulation.
-
-These pleiotropic mechanisms — particularly adenosine antagonism and anti-inflammatory effects via PDE4 inhibition — have historically generated interest in repositioning xanthines toward neurological, cardiological, and inflammatory conditions. However, without TxGNN scores or supporting evidence, no specific repurposing candidate can be recommended at this stage.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for a predicted new indication (prediction data unavailable).
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asli | Asma bronkial / PPOK / Bronkospasme akut (berdasarkan farmakologi yang diketahui; teks kemasukan pakej tidak diambil) |
+| Indikasi Baru yang Diramalkan | — (Tiada ramalan TxGNN tersedia) |
+| Skor Ramalan TxGNN | — |
+| Tahap Bukti | L5 (Ramalan model belum dijana) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | **Tahan** |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available for a predicted new indication (prediction data unavailable).
+Tiada ramalan ubah tujuan TxGNN tersedia untuk calon ini pada masa laporan dijana (`predicted_indications: []`). Oleh itu, pautan mekanik kepada mana-mana indikasi baru tidak dapat dinilai.
 
----
+Daripada farmakologi yang ditubuhkan, Aminophylline adalah kompleks 2:1 teofolin dan etilendiamin. Teofolin bertindak terutamanya sebagai **penghambat fosfodiesterase (PDE) bukan selektif**, meningkatkan tahap cAMP dan cGMP intrasel, yang membawa kepada relaksasi otot halus bronkial. Ia juga bertindak sebagai **antagonis reseptor adenosina** (A1, A2A), yang menyumbang kepada kesan sampingan termasuk kronotropi positif, diuresis ringan, dan rangsangan pernafasan pusat.
 
-## Malaysia Market Information
-
-The Evidence Pack reports **1 active registration** in Malaysia, but all license detail fields (authorization number, product name, dosage form, manufacturer, approved indication text) were returned as empty strings. The following is a placeholder pending data retrieval:
-
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|----------------------|-------------|-------------|---------------------|
-| *(Pending retrieval)* | Aminophylline Anhydrous | *(Pending)* | *(Pending — download package insert from NPRA portal)* |
-
-> **Action required**: Query the NPRA product database directly for the single registered product to populate these fields.
+Mekanisme pleiotropik ini — terutamanya antagonisme adenosina dan kesan anti-radang melalui penghambatan PDE4 — telah menjana minat dalam pengubahan semula ksantin menuju kepada keadaan neurologi, kardiologi, dan radang. Bagaimanapun, tanpa skor TxGNN atau bukti sokongan, tiada calon ubah tujuan penggunaan khusus dapat disyorkan pada peringkat ini.
 
 ---
 
-## Safety Considerations
+## Bukti Percubaan Klinikal
 
-Please refer to the package insert for safety information.
+Pada masa ini tiada percubaan klinikal yang berhubung didaftarkan untuk indikasi baru yang diramalkan (data ramalan tidak tersedia).
 
-> All safety fields (key warnings, contraindications, drug interactions) were returned as `[Data Gap]` or empty. The following known safety concerns are documented in international references and should be verified against the Malaysian-approved package insert before clinical use:
+---
+
+## Bukti Kesusasteraan
+
+Pada masa ini tiada kesusasteraan yang berhubung tersedia untuk indikasi baru yang diramalkan (data ramalan tidak tersedia).
+
+---
+
+## Maklumat Pasaran Malaysia
+
+Pakej Bukti melaporkan **1 pendaftaran aktif** di Malaysia, tetapi semua medan butiran lesen (nombor kebenaran, nama produk, bentuk dos, pengilang, teks indikasi yang diluluskan) dikembalikan sebagai rentetan kosong. Yang berikut adalah pemegang tempat sementara tertunda pemulihan data:
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
+|---------|----------|----------|----------|
+| *(Tertunda pemulihan)* | Aminophylline Anhydrous | *(Tertunda)* | *(Tertunda — muat turun kemasukan pakej daripada portal NPRA)* |
+
+> **Tindakan diperlukan**: Soal pangkalan data produk NPRA secara langsung untuk produk tunggal yang terdaftar untuk mengisi medan ini.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk kemasukan pakej untuk maklumat keselamatan.
+
+> Semua medan keselamatan (amaran utama, kontraindikasi, interaksi ubat) dikembalikan sebagai `[Data Gap]` atau kosong. Kebimbangan keselamatan yang diketahui berikut didokumentasikan dalam rujukan antarabangsa dan harus disahkan terhadap kemasukan pakej yang diluluskan Malaysia sebelum penggunaan klinikal:
 >
-> - **Narrow therapeutic index**: Theophylline serum levels must be monitored (target 10–20 µg/mL; toxicity above 20 µg/mL).
-> - **Cardiovascular**: Tachycardia, arrhythmia, and hypotension risk — use with caution in cardiac disease.
-> - **CNS**: Seizures reported at toxic concentrations.
-> - **Drug interactions**: Multiple significant interactions (e.g., with ciprofloxacin, cimetidine, rifampicin, phenytoin) that alter theophylline clearance; DDI module returned 0 results and requires re-query.
+> - **Indeks terapeutik sempit**: Tahap serum teofolin mesti dipantau (sasaran 10–20 µg/mL; ketoksikan di atas 20 µg/mL).
+> - **Kardiovaskular**: Risiko takikardia, aritmia, dan hipotensi — gunakan dengan berhati-hati dalam penyakit jantung.
+> - **CNS**: Kejang-kejang dilaporkan pada kepekatan toksik.
+> - **Interaksi ubat**: Pelbagai interaksi penting (cth., dengan siprofloksasin, simetdin, rifampisin, feniton) yang mengubah penjelasan teofolin; modul DDI mengembalikan 0 hasil dan memerlukan soal semula.
 >
-> These are reference observations only and do not substitute for the approved local label.
+> Ini adalah pemerhatian rujukan sahaja dan tidak menggantikan label setempat yang diluluskan.
 
 ---
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The TxGNN prediction pipeline has not returned any repurposing candidates for Aminophylline Anhydrous, making it impossible to identify a new indication, assess mechanistic plausibility, or evaluate supporting evidence. The safety profile cannot be formally reviewed until the package insert is retrieved.
+**Alasan:**
+Paip ramalan TxGNN belum mengembalikan mana-mana calon ubah tujuan penggunaan untuk Aminophylline Anhydrous, menjadikan mustahil untuk mengenalpasti indikasi baru, menilai kebolehmangsaan mekanik, atau menilai bukti sokongan. Profil keselamatan tidak dapat disemak secara formal sehingga kemasukan pakej diambil.
 
-**To proceed, the following is needed:**
+**Untuk meneruskan, yang berikut diperlukan:**
 
-- [ ] **Re-run TxGNN prediction** — Confirm that `AMINOPHYLLINE ANHYDROUS` is correctly mapped to its DrugBank entry (theophylline: DB00277; aminophylline: DB01223) and re-execute the KG and DL prediction pipelines to populate `predicted_indications`.
-- [ ] **Resolve DrugBank ID** — `drugbank_id` is `null`; link to DrugBank DB01223 (aminophylline) or DB00277 (theophylline) to unlock MOA, toxicity, and DDI data.
-- [ ] **Retrieve NPRA package insert** — Download and parse the PDF from the NPRA portal to populate `approved_indication_text`, warnings, and contraindications (Data Gaps DG001, DG002).
-- [ ] **Populate license details** — The single registration record has all fields empty; retrieve product name, dosage form, and manufacturer from the NPRA database.
-- [ ] **Re-query DDI module** — Once DrugBank ID is resolved, re-run the drug–drug interaction query to replace the empty `interactions` array.
-- [ ] **Re-issue this report** after the above data gaps are resolved to enable a full L1–L5 evidence grading and a substantive Go / Proceed with Guardrails decision.
+- [ ] **Jalankan semula ramalan TxGNN** — Sahkan bahawa `AMINOPHYLLINE ANHYDROUS` dipetakan dengan betul ke entri DrugBank-nya (teofolin: DB00277; aminofolin: DB01223) dan jalankan semula paip ramalan KG dan DL untuk mengisi `predicted_indications`.
+- [ ] **Selesaikan ID DrugBank** — `drugbank_id` adalah `null`; pautan kepada DrugBank DB01223 (aminofolin) atau DB00277 (teofolin) untuk membuka data MOA, ketoksikan, dan DDI.
+- [ ] **Ambil kemasukan pakej NPRA** — Muat turun dan huraikan PDF daripada portal NPRA untuk mengisi `approved_indication_text`, amaran, dan kontraindikasi (Jurang Data DG001, DG002).
+- [ ] **Isi butiran lesen** — Rekod pendaftaran tunggal mempunyai semua medan kosong; ambil nama produk, bentuk dos, dan pengilang daripada pangkalan data NPRA.
+- [ ] **Soal semula modul DDI** — Setelah ID DrugBank diselesaikan, jalankan semula soalan interaksi ubat-ubatan untuk menggantikan tatasusunan `interactions` kosong.
+- [ ] **Terbitkan semula laporan ini** selepas jurang data di atas diselesaikan untuk membolehkan penilaian gred bukti L1–L5 penuh dan keputusan Lanjut / Teruskan dengan Langkah Pelindung yang substantif.
 
 ---
 
-> ⚠️ *This report is for research reference only and does not constitute medical advice. Any drug repurposing candidate requires clinical validation before application.*
+> ⚠️ *Laporan ini adalah untuk rujukan penyelidikan sahaja dan tidak merupakan nasihat perubatan. Mana-mana calon ubah tujuan penggunaan ubat memerlukan pengesahan klinikal sebelum aplikasi.*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

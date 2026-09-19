@@ -29,62 +29,63 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Hexetidine: From Topical Oral/Vaginal Antisepsis to Interventricular Septum Aneurysm
+# Hexetidine: Daripada Antisepsis Oral/Faraj Topik kepada Aneurisma Septum Interventricular
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Hexetidine is a topical antiseptic used on oral and vaginal mucosa, with no established systemic pharmacology. The TxGNN model's top prediction for this drug is **Interventricular Septum Aneurysm**, but this candidate is currently supported by **0 clinical trials** and **0 publications**, and the evidence pack itself flags no plausible biological pathway connecting a topical antimicrobial to cardiac septal pathology.
+Hexetidine ialah antiseptik topik yang digunakan pada mukosa oral dan faraj, tanpa farmakologi sistemik yang terbukti. Ramalan teratas model TxGNN untuk ubat ini ialah **Aneurisma Septum Interventricular**, tetapi calon ini kini disokong oleh **0 uji klinik** dan **0 penerbitan**, dan paket bukti itu sendiri tidak menunjukkan laluan biologi yang munasabah menghubungkan antimikrob topik kepada patologi septum jantung.
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | Topical oral/vaginal mucosal antisepsis (official TFDA/NPRA indication text not populated in source data) |
-| Predicted New Indication | Interventricular Septum Aneurysm |
-| TxGNN Prediction Score | 99.16% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+| Perkara | Kandungan |
+|--------|----------|
+| Petunjuk Asal | Antisepsis mukosa oral/faraj topik (teks petunjuk TFDA/NPRA rasmi tidak diisi dalam data sumber) |
+| Petunjuk Baru Diramal | Aneurisma Septum Interventricular |
+| Skor Ramalan TxGNN | 99.16% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed mechanism of action (MOA) data for hexetidine is not currently available in DrugBank (data gap DG002, High severity). Based on the information present in this evidence pack, hexetidine functions as a topical antimicrobial applied to oral and vaginal mucosa, with no meaningful systemic absorption and no known cardiac pharmacological target.
+Data mekanisme tindakan (MOA) terperinci untuk hexetidine tidak tersedia dalam DrugBank (celah data DG002, keseriusan Tinggi). Berdasarkan maklumat yang terdapat dalam paket bukti ini, hexetidine berfungsi sebagai antimikrob topik yang digunakan pada mukosa oral dan faraj, tanpa penyerapan sistemik yang bermakna dan tanpa sasaran farmakologi jantung yang diketahui.
 
-The predicted new indication — interventricular septum aneurysm — is a structural cardiac abnormality. The rationale provided alongside the prediction explicitly states there is no explainable biological pathway linking a locally-acting, non-absorbed antiseptic to cardiac septal disease. This pattern is consistent across all of hexetidine's top 10 TxGNN predictions in this pack: congenital heart defects (pulmonary valve disease, Laubry-Pezzi syndrome), craniofacial/genetic syndromes (orofacial clefting, Pierre Robin syndrome, chromosome 22q/7q deletions, Jeune syndrome), and one rare metabolic disorder — none of which share a plausible pharmacological target with hexetidine's known antimicrobial mechanism.
+Petunjuk baru yang diramal — aneurisma septum interventricular — ialah anomali jantung struktur. Rasional yang disediakan bersama ramalan secara eksplisit menyatakan bahawa tidak ada laluan biologi yang boleh dijelaskan menghubungkan antiseptik yang bertindak setempat, tidak diserap kepada penyakit septum jantung. Corak ini konsisten di semua 10 ramalan TxGNN teratas hexetidine dalam paket ini: cacat jantung bawaan (penyakit injap pulmonari, sindrom Laubry-Pezzi), sindrom kraniofasial/genetik (celah orofasial, sindrom Pierre Robin, pemadaman kromosom 22q/7q, sindrom Jeune), dan satu gangguan metabolik jarang — tidak satu pun berkongsi sasaran farmakologi yang munasabah dengan mekanisme antimikrob hexetidine yang diketahui.
 
-This suggests the current top-ranked predictions are driven by knowledge-graph embedding proximity rather than a testable pharmacological hypothesis, and should be treated as exploratory model output only, not as a repurposing lead ready for evidence review.
+Ini menunjukkan bahawa ramalan berperingkat teratas semasa didorong oleh jarak kedekatan pembenaman grafik pengetahuan dan bukannya hipotesis farmakologi yang boleh diuji, dan harus dianggap sebagai output model eksplorasi sahaja, bukan sebagai petunjuk penggunaan semula yang siap untuk semakan bukti.
 
-## Clinical Trial Evidence
+## Bukti Uji Klinik
 
-Currently no related clinical trials registered.
+Kini tiada uji klinik berkaitan yang didaftarkan.
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-Currently no related literature available.
+Kini tiada kesusasteraan berkaitan yang tersedia.
 
-*Note: among the top 10 predictions, only rank 6 ("disorder of fucoglycosan synthesis") returned literature (2 PubMed records), but both papers concern hexetidine's already-known use as an oral antiplaque/decontamination antiseptic — they do not address the predicted rare metabolic disease and are considered a label-mapping mismatch rather than supporting evidence.*
+*Nota: di antara 10 ramalan teratas, hanya peringkat 6 ("gangguan sintesis fucoglycosan") mengembalikan kesusasteraan (2 rekod PubMed), tetapi kedua-dua kertas menyangkut penggunaan hexetidine yang sudah diketahui sebagai antiseptik antiplak/dekontaminasi oral — mereka tidak menangani penyakit metabolik jarang yang diramal dan dianggap sebagai ketidakpadanan pemetaan label dan bukannya bukti sokongan.*
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-NPRA records confirm 1 active registration for hexetidine (market status: Marketed / Marketed), but the license number, product name, dosage form, and approved indication text fields are not populated in the current data source and require retrieval from the NPRA product registry.
+Rekod NPRA mengesahkan 1 pendaftaran aktif untuk hexetidine (status pasaran: Dipasarkan / Dipasarkan), tetapi nombor lesen, nama produk, bentuk dos, dan medan teks petunjuk yang diluluskan tidak diisi dalam sumber data semasa dan memerlukan pengambilan daripada daftar produk NPRA.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The top-ranked prediction (interventricular septum aneurysm) has no clinical trial or literature support and no plausible mechanistic link per the evidence pack's own assessment, placing it at evidence level L5 / decision stage S0. Compounding this, safety review cannot proceed because TFDA/NPRA label warnings and contraindications are a Blocking-severity data gap (DG001).
+**Rasional:**
+Ramalan berperingkat teratas (aneurisma septum interventricular) tidak mempunyai sokongan uji klinik atau kesusasteraan dan tiada pautan mekanistik yang munasabah mengikut penilaian paket bukti itu sendiri, meletakkannya pada tahap bukti L5 / peringkat keputusan S0. Menambah perkara ini, semakan keselamatan tidak boleh diteruskan kerana amaran label TFDA/NPRA dan kontraindikasi ialah celah data keseriusan Penyekat (DG001).
 
-**To proceed, the following is needed:**
-- Retrieve the TFDA/NPRA package insert (warnings, contraindications) — required before any S1 safety screening (DG001, Blocking)
-- Retrieve hexetidine's MOA from DrugBank (DG002)
-- Complete the NPRA license record (license number, product name, dosage form, approved indication text)
-- Re-evaluate lower-ranked candidates with actual clinical/literature support (e.g., rank 6) for label-mapping accuracy before considering any indication in this list further
+**Untuk meneruskan, yang berikut diperlukan:**
+- Ambil sisipan pakej TFDA/NPRA (amaran, kontraindikasi) — diperlukan sebelum sebarang penapisan keselamatan S1 (DG001, Penyekat)
+- Ambil MOA hexetidine daripada DrugBank (DG002)
+- Lengkapkan rekod lesen NPRA (nombor lesen, nama produk, bentuk dos, teks petunjuk yang diluluskan)
+- Nilai semula calon berperingkat lebih rendah dengan sokongan klinik/kesusasteraan sebenarnya (cth, peringkat 6) untuk ketepatan pemetaan label sebelum mempertimbangkan mana-mana petunjuk dalam senarai ini lebih lanjut
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

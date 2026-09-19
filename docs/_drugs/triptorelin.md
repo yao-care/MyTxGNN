@@ -29,79 +29,78 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-Using the evidence pack as provided (no coding needed for this task—straight report authoring per the fixed template).
+# Triptorelin: Daripada Pubertas Pramatang kepada Hipertrikosis
 
-# Triptorelin: From Precocious Puberty to Hypertrichosis
+## Ringkasan Satu Ayat
 
-## One-Sentence Summary
-
-Triptorelin is a GnRH agonist already used clinically for precocious puberty (confirmed within this evidence pack by strong Phase 3 trial data under a different candidate entry). The TxGNN model's top-ranked new signal is **Hypertrichosis (disease)**, but this prediction is supported by only **1 tangentially related case report** and **0 clinical trials**, and the reviewers' own annotation flags it as likely model noise rather than a genuine repurposing signal.
+Triptorelin ialah agonis GnRH yang telah digunakan secara klinikal untuk pubertas pramatang (disahkan dalam pakej bukti ini melalui data percubaan Fasa 3 yang kuat di bawah entri calon berbeza). Isyarat baru bertaraf teratas model TxGNN ialah **Hipertrikosis (penyakit)**, namun ramalan ini hanya disokong oleh **1 laporan kes yang berkaitan secara marginal** dan **0 percubaan klinikal**, dan anotasi penyemak sendiri menandainya sebagai kemungkinan besar bunyi model daripada isyarat repurposing yang sebenar.
 
 ---
 
-## Quick Overview
+## Gambaran Keseluruhan Cepat
 
-| Item | Content |
-|------|------|
-| Original Indication | Precocious puberty (GnRH agonist; confirmed in this evidence pack's rationale notes — Malaysia license indication text was not returned) |
-| Predicted New Indication | Hypertrichosis (disease) |
-| TxGNN Prediction Score | 99.997% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 6 |
-| Recommended Decision | Hold |
-
----
-
-## Why is This Prediction Reasonable?
-
-Currently, detailed mechanism of action data for Triptorelin is not available in this evidence pack. Triptorelin is known to work as a GnRH agonist, chronically suppressing pituitary LH/FSH release — a mechanism with no established link to hair follicle growth regulation.
-
-The only literature record returned for this candidate (PMID 41822646) does not actually study Triptorelin's effect on hypertrichosis. It describes a transgender woman on **ciclosporin**, estradiol, and triptorelin who developed generalised hypertrichosis attributed to the ciclosporin, with triptorelin only present as a concurrent background medication. There is no causal or mechanistic claim in this source connecting Triptorelin itself to hair growth.
-
-Given the absence of any clinical trials, any disease-specific mechanistic hypothesis, and a single case report that does not actually implicate the drug, this candidate should be treated as a likely knowledge-graph false positive rather than a credible repurposing lead — consistent with the model's own evidence-level scoring (L5) and Hold recommendation.
+| Item | Kandungan |
+|------|---------|
+| Indikasi Asal | Pubertas pramatang (agonis GnRH; disahkan dalam catatan rasional pakej bukti ini — teks indikasi lesen Malaysia tidak dipulangkan) |
+| Indikasi Baru yang Diramal | Hipertrikosis (penyakit) |
+| Skor Ramalan TxGNN | 99.997% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 6 |
+| Keputusan yang Disyorkan | Ditahan |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related clinical trials registered.
+Pada masa ini, data mekanisme tindakan terperinci untuk Triptorelin tidak tersedia dalam pakej bukti ini. Triptorelin diketahui berfungsi sebagai agonis GnRH, secara kronik menekan pengeluaran LH/FSH hipofisis — mekanisme yang tidak mempunyai hubungan yang ditegakkan dengan peraturan pertumbuhan folikel rambut.
+
+Rekod kesusasteraan tunggal yang dipulangkan untuk calon ini (PMID 41822646) sebenarnya tidak mengkaji kesan Triptorelin terhadap hipertrikosis. Ia menerangkan seorang wanita transgender yang menerima **siklosporin**, estradiol, dan triptorelin yang mengalami hipertrikosis umum yang dikaitkan dengan siklosporin, dengan triptorelin hanya sebagai ubat latar belakang yang bersama. Tiada dakuan kausal atau mekanistik dalam sumber ini yang menghubungkan Triptorelin sendiri dengan pertumbuhan rambut.
+
+Mengingat tiada sebarang percubaan klinikal, sebarang hipotesis mekanik khusus penyakit, dan laporan kes tunggal yang sebenarnya tidak membayangkan ubat, calon ini harus dianggap sebagai kemungkinan positif palsu graf pengetahuan daripada petunjuk repurposing yang boleh dipercayai — konsisten dengan penilaian tahap bukti model itu sendiri (L5) dan rekomendasi Ditahan.
 
 ---
 
-## Literature Evidence
+## Bukti Percubaan Klinikal
 
-| PMID | Year | Type | Journal | Key Findings |
+Pada masa ini tiada percubaan klinikal yang berkaitan berdaftar.
+
+---
+
+## Bukti Kesusasteraan
+
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [41822646](https://pubmed.ncbi.nlm.nih.gov/41822646/) | 2026 | Case report | Cureus | Describes ciclosporin-induced generalised hypertrichosis in a transgender woman concurrently receiving triptorelin and estradiol; the hypertrichosis is attributed to ciclosporin, not to triptorelin — the drug appears only as background co-medication. |
+| [41822646](https://pubmed.ncbi.nlm.nih.gov/41822646/) | 2026 | Laporan kes | Cureus | Menerangkan hipertrikosis umum yang diinduksi siklosporin pada seorang wanita transgender yang secara serentak menerima triptorelin dan estradiol; hipertrikosis dikaitkan dengan siklosporin, bukan triptorelin — ubat ini hanya muncul sebagai ubat latar belakang yang bersama. |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Triptorelin is recorded as marketed in Malaysia with 6 total registrations, but the evidence pack did not return license numbers, product names, dosage forms, or approved indication text for any of the entries — no market license table can be produced from the current data.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
+Triptorelin dicatatkan sebagai dipasarkan di Malaysia dengan 6 jumlah pendaftaran keseluruhan, tetapi pakej bukti tidak memulangkan nombor lesen, nama produk, bentuk dos, atau teks indikasi yang diluluskan untuk mana-mana entri — jadual lesen pasaran tidak dapat dihasilkan daripada data semasa.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-**Rationale:**
-The Hypertrichosis prediction rests on a top TxGNN score but zero supportive clinical trials and one case report that does not actually implicate Triptorelin in hair growth — this is evidence level L5 (model prediction only), and the underlying mechanistic story (GnRH-axis suppression → hypertrichosis) has no established basis.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert warnings and contraindications (currently missing — flagged as a blocking gap)
-- Confirmed mechanism of action data (currently missing — high-severity gap)
-- Malaysia license details (product names, dosage forms, approved indication text) to characterize current marketed use
-- A specific, testable mechanistic hypothesis linking GnRH agonism to hair follicle biology before any further evidence collection is warranted
-- If this candidate remains of interest, dedicated literature/trial searches specifically querying "Triptorelin AND hypertrichosis/hirsutism" mechanisms rather than relying on the single incidental case report currently on file
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Ditahan**
+
+**Rasional:**
+Ramalan Hipertrikosis bertumpu pada skor TxGNN bertaraf teratas tetapi sifar percubaan klinikal sokongan dan satu laporan kes yang sebenarnya tidak membayangkan Triptorelin dalam pertumbuhan rambut — ini ialah tahap bukti L5 (ramalan model sahaja), dan cerita mekanik yang mendasar (penindasan paksi GnRH → hipertrikosis) tidak mempunyai asas yang ditegakkan.
+
+**Untuk meneruskan, berikut diperlukan:**
+- Amaran sisipan pakej TFDA/NPRA dan kontraindikasi (pada masa ini hilang — ditandai sebagai jurang yang menghalang)
+- Data mekanisme tindakan yang disahkan (pada masa ini hilang — jurang keterukan tinggi)
+- Butiran lesen Malaysia (nama produk, bentuk dos, teks indikasi yang diluluskan) untuk mencirikan penggunaan pasaran semasa
+- Hipotesis mekanik khusus yang boleh diuji yang menghubungkan agonis GnRH kepada biologi folikel rambut sebelum sebarang pengumpulan bukti selanjutnya dibenarkan
+- Jika calon ini tetap menarik, carian kesusasteraan/percubaan berdedikasi yang secara spesifik menanyakan mekanisme "Triptorelin AND hipertrikosis/hirsutisme" daripada bergantung pada laporan kes sampingan tunggal yang sedang dalam fail
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,75 +29,76 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Serine: From Unspecified Indication to Familial Visceral Myopathy
+# Serine: Dari Indikasi Tidak Tentu kepada Miopati Viseral Familial
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Serine is an amino acid drug substance with 55 active registrations in Malaysia, but its originally approved indication and mechanism of action are not recorded in the current data extract. The TxGNN model predicts potential efficacy for **Familial Visceral Myopathy**, with a prediction score of 99.99% — however, this direction is currently supported by **zero clinical trials** and **zero publications**, making it a model-only prediction with no independent verification.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not specified in available regulatory data |
-| Predicted New Indication | Familial Visceral Myopathy |
-| TxGNN Prediction Score | 99.99% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 55 |
-| Recommended Decision | Hold |
+Serine adalah bahan ubat amino asid dengan 55 pendaftaran aktif di Malaysia, tetapi indikasi yang diluluskan asal dan mekanisme tindakan tidak tercatat dalam ekstrak data semasa. Model TxGNN meramalkan potensi keberkesanan untuk **Miopati Viseral Familial**, dengan skor ramalan 99.99% — namun, arah ini pada masa ini disokong oleh **sifar cubaan klinikal** dan **sifar penerbitan**, menjadikannya ramalan model sahaja tanpa pengesahan bebas.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Pantas
 
-Currently, detailed mechanism of action data is not available for Serine, and its originally approved indication text is also missing from the 55 Malaysia license records retrieved. Without either data point, no mechanistic bridge can be established between Serine's known pharmacology and Familial Visceral Myopathy.
-
-The prediction itself is generated purely by the TxGNN knowledge-graph model (score 0.9999, rank 306 among candidates) — no supporting clinical trial or literature evidence was found when the evidence collectors queried for "Serine" + "familial visceral myopathy." The model's own rationale notes explicitly that no mechanistic hypothesis can currently be constructed.
-
-It is worth noting that for several lower-ranked candidates in this same evidence pack (e.g., intestinal obstruction, angle-closure glaucoma), literature was retrieved — but on inspection it relates to the *serine protease* enzyme family (e.g., PRSS56, MK2 signaling) rather than the amino acid Serine itself. This is a naming collision, not pharmacological evidence, and should not be mistaken for support of the drug-repurposing hypothesis.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Tidak dinyatakan dalam data kawal selia tersedia |
+| Indikasi Baru yang Diramalkan | Miopati Viseral Familial |
+| Skor Ramalan TxGNN | 99.99% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 55 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available.
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia untuk Serine, dan teks indikasi yang diluluskan asal juga hilang daripada 55 rekod lesen Malaysia yang diambil. Tanpa kedua-dua titik data ini, tiada jambatan mekanistik boleh diwujudkan antara farmakologi Serine yang diketahui dan Miopati Viseral Familial.
 
----
+Ramalan itu sendiri dijana semata-mata oleh model graf pengetahuan TxGNN (skor 0.9999, kedudukan 306 antara calon) — tiada bukti ujian klinikal atau literatur sokongan ditemui apabila pengumpul bukti membuat pertanyaan untuk "Serine" + "miopati viseral familial". Rasional model itu sendiri secara eksplisit mencatat bahawa tiada hipotesis mekanistik boleh dibina pada masa ini.
 
-## Malaysia Market Information
-
-Serine has 55 active registrations with the Malaysia NPRA (marketed status: ✓ Marketed). However, product-level details — license numbers, product names, dosage forms, manufacturers, and approved indication text — were not populated in the current data extract and cannot be reported here.
+Adalah wajar diperhatikan bahawa untuk beberapa calon kedudukan lebih rendah dalam pakej bukti yang sama ini (cth., sumbatan usus, glaukoma sudut tertutup), literatur telah diambil — tetapi apabila diperiksa ia berkaitan dengan keluarga enzim *serine protease* (cth., PRSS56, isyarat MK2) dan bukannya amino asid Serine itu sendiri. Ini adalah perlanggaran penamaan, bukan bukti farmakologi, dan tidak boleh disalahertikan sebagai sokongan bagi hipotesis penggunaan semula ubat.
 
 ---
 
-## Safety Considerations
+## Bukti Ujian Klinikal
 
-Please refer to the package insert for safety information.
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Hold**
+Pada masa ini tiada literatur berkaitan tersedia.
 
-**Rationale:**
-The top-ranked predicted indication (Familial Visceral Myopathy) is supported by no clinical trials and no literature — it is an unverified, model-only prediction (Evidence Level L5). Combined with missing mechanism-of-action data and missing package-insert safety information (a blocking data gap for safety pre-assessment), there is currently no basis to advance this candidate.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert warnings and contraindications (blocking gap — required before any S1 safety pre-assessment)
-- Mechanism of action data via DrugBank query
-- Original approved indication text for the 55 Malaysia-registered products
-- Independent clinical or preclinical evidence specific to Familial Visceral Myopathy, since none currently exists
-- Disambiguation review of secondary candidates (e.g., intestinal obstruction, angle-closure glaucoma) to confirm retrieved literature reflects the amino acid Serine and not unrelated serine protease enzymes
+## Maklumat Pasaran Malaysia
+
+Serine mempunyai 55 pendaftaran aktif dengan NPRA Malaysia (status dipasarkan: ✓ Dipasarkan). Bagaimanapun, perincian peringkat produk — nombor lesen, nama produk, bentuk dos, pengilang, dan teks indikasi yang diluluskan — tidak diisi dalam ekstrak data semasa dan tidak dapat dilaporkan di sini.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan paket untuk maklumat keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Indikasi yang diprediksi kedudukan teratas (Miopati Viseral Familial) tidak disokong oleh ujian klinikal dan tiada literatur — ia adalah ramalan model sahaja yang belum disahkan (Tahap Bukti L5). Digabungkan dengan data mekanisme tindakan yang hilang dan maklumat keselamatan sisipan paket yang hilang (jurang data pemblokiran untuk penilaian keselamatan pra-S1), pada masa ini tiada asas untuk memajukan calon ini.
+
+**Untuk meneruskan, perkara-perkara berikut diperlukan:**
+- Amaran sisipan paket TFDA/NPRA dan kontraindikasi (jurang pemblokiran — diperlukan sebelum sebarang penilaian keselamatan pra-S1)
+- Data mekanisme tindakan melalui pertanyaan DrugBank
+- Teks indikasi yang diluluskan asal untuk 55 produk yang didaftarkan di Malaysia
+- Bukti klinikal atau pra-klinikal bebas khusus untuk Miopati Viseral Familial, kerana tiada yang wujud pada masa ini
+- Kajian semakan disambiguasi calon sekunder (cth., sumbatan usus, glaukoma sudut tertutup) untuk mengesahkan bahawa literatur yang diambil mencerminkan amino asid Serine dan bukan enzim serine protease yang tidak berkaitan
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

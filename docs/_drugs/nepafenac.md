@@ -29,71 +29,72 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Nepafenac: From Ocular Inflammation (Cataract Surgery) to Eye Disease
+# Nepafenac: Daripada Radang Mata (Pembedahan Katarak) kepada Penyakit Mata
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Nepafenac is a topical ophthalmic NSAID (marketed as Nevanac/Ilevro) established for treating pain and inflammation associated with cataract surgery. The TxGNN model predicts it may be effective for the broader category **Eye Disease**, a prediction already substantially supported by **41 clinical trials** identified in this pack, though **no dedicated literature (PMID) evidence** was returned for this specific category.
+Nepafenac ialah NSAID topikal oftalmik (dipasarkan sebagai Nevanac/Ilevro) yang telah terbukti untuk merawat kesakitan dan radang yang berkaitan dengan pembedahan katarak. Model TxGNN meramalkan ia mungkin berkesan untuk kategori yang lebih luas iaitu **Penyakit Mata**, suatu ramalan yang sudah disokong dengan sepenuhnya oleh **41 percubaan klinikal** yang dikenal pasti dalam pakej ini, walaupun **tiada bukti literatur khusus (PMID)** telah dikembalikan untuk kategori khusus ini.
 
-## Quick Overview
+## Gambaran Keseluruhan Cepat
 
-| Item | Content |
-|------|------|
-| Original Indication | Ocular inflammation and pain associated with cataract surgery (derived from clinical trial evidence in this pack — e.g. NCT01109173, NCT01853072; NPRA/TFDA license indication text was not returned) |
-| Predicted New Indication | Eye Disease |
-| TxGNN Prediction Score | 99.85% |
-| Evidence Level | L1 (multiple completed Phase 3 RCTs) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|---------|
+| Petunjuk Asal | Radang mata dan kesakitan yang berkaitan dengan pembedahan katarak (berasal daripada bukti percubaan klinikal dalam pakej ini — cth NCT01109173, NCT01853072; teks petunjuk lesen NPRA/TFDA tidak dikembalikan) |
+| Petunjuk Baru Diramalkan | Penyakit Mata |
+| Skor Ramalan TxGNN | 99.85% |
+| Tahap Bukti | L1 (pelbagai ujian rawak terkawal Fasa 3 yang telah selesai) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data is not available for Nepafenac in this evidence pack. Based on the extensive clinical trial record collected here — over 40 studies spanning 2003 to 2026 — Nepafenac is well established as a topical ophthalmic non-steroidal anti-inflammatory drug (NSAID), used to prevent and treat ocular inflammation and pain following cataract surgery, and further studied in diabetic macular edema, post-vitrectomy inflammation, laser iridotomy, and PRK-related pain.
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia untuk Nepafenac dalam pakej bukti ini. Berdasarkan rekod percubaan klinikal yang luas yang dikumpulkan di sini — lebih 40 kajian merentangi 2003 hingga 2026 — Nepafenac telah ditubuhkan dengan baik sebagai ubat anti-radang steroidal bukan topikal oftalmik (NSAID), digunakan untuk mencegah dan merawat radang dan kesakitan mata berikutan pembedahan katarak, dan seterusnya dikaji dalam edema makula diabetik, radang pasca-vitrektomi, laseriotomi iris, dan kesakitan berkaitan PRK.
 
-The predicted new indication, "Eye Disease," is a broad disease category that substantially overlaps with Nepafenac's already-established therapeutic domain rather than pointing to a genuinely novel organ system or disease mechanism. TxGNN assigning a very high score here is therefore expected: an ophthalmic anti-inflammatory drug is mechanistically linked to "eye disease" almost by definition. The clinical value of this specific prediction is limited as a repurposing signal — it largely confirms existing use rather than identifying an incremental indication.
+Petunjuk baru yang diramalkan, "Penyakit Mata," ialah kategori penyakit yang luas yang bertindih dengan ketara dengan domain terapeutik Nepafenac yang sudah ditubuhkan daripada menunjukkan sistem organ yang betul-betul baru atau mekanisme penyakit. TxGNN menetapkan skor yang sangat tinggi di sini adalah dijangkakan: ubat anti-radang oftalmik adalah berhubung secara mekanik dengan "penyakit mata" hampir mengikut definisi. Nilai klinikal ramalan khusus ini terbatas sebagai isyarat penyusunan semula tujuan — ia sebahagian besarnya mengesahkan penggunaan sedia ada daripada mengenal pasti petunjuk kenaikan.
 
-That said, the underlying evidence base does show the drug's anti-inflammatory mechanism extending into related ocular conditions beyond the core cataract-surgery label — diabetic macular edema (NCT01331005, NCT00780780), post-vitrectomy/retinal detachment inflammation (NCT07162818), central serous chorioretinopathy (NCT05847049), and corneal dystrophy (NCT04843839) — which is where a more specific, actionable repurposing signal is likely to be found (see rank 2, "optic papillitis," for a narrower disease-specific example).
+Walau bagaimanapun, asas bukti yang mendasari menunjukkan mekanisme anti-radang ubat meluas ke dalam keadaan mata berkaitan di luar label pembedahan katarak teras — edema makula diabetik (NCT01331005, NCT00780780), radang pasca-vitrektomi/pelepasan retina (NCT07162818), retinopati koroidea sentral yang terserat (NCT05847049), dan distrofi kornea (NCT04843839) — ini adalah tempat isyarat penyusunan semula yang lebih khusus dan boleh diambil tindakan berkemungkinan ditemui (lihat pangkat 2, "papilitis optik," untuk contoh penyakit yang lebih sempit).
 
-## Clinical Trial Evidence
+## Bukti Percubaan Klinikal
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT01109173](https://clinicaltrials.gov/study/NCT01109173) | Phase 3 | Completed | 2120 | Pivotal registration study of Nepafenac 0.3% for prevention/treatment of ocular inflammation and pain after cataract surgery |
-| [NCT01318499](https://clinicaltrials.gov/study/NCT01318499) | Phase 2 | Completed | 1342 | Nepafenac 0.3% vs 0.1% vs vehicle for post-cataract inflammation and pain |
-| [NCT01853072](https://clinicaltrials.gov/study/NCT01853072) | Phase 3 | Completed | 881 | Nepafenac 0.3% once daily superior to vehicle in diabetic subjects after cataract surgery |
-| [NCT01872611](https://clinicaltrials.gov/study/NCT01872611) | Phase 3 | Completed | 819 | Confirmatory trial: Nepafenac 0.3% superiority in diabetic subjects post-cataract surgery |
-| [NCT03025945](https://clinicaltrials.gov/study/NCT03025945) | NA | Completed | 662 | Nepafenac 0.3% adjunct to steroid for prevention of pseudophakic cystoid macular edema |
-| [NCT03499873](https://clinicaltrials.gov/study/NCT03499873) | Phase 3 | Completed | 448 | Bioequivalence of generic Nepafenac 0.3% vs Ilevro for pain/inflammation post-cataract surgery |
-| [NCT01426854](https://clinicaltrials.gov/study/NCT01426854) | Phase 3 | Completed | 260 | Nepafenac 0.1% superior to vehicle in Chinese subjects for post-cataract inflammation/pain |
-| [NCT00939276](https://clinicaltrials.gov/study/NCT00939276) | Phase 3 | Terminated | 175 | Nevanac evaluated for macular edema incidence/severity reduction in diabetic retinopathy patients |
-| [NCT01331005](https://clinicaltrials.gov/study/NCT01331005) | Phase 2 | Completed | 125 | Topical NSAID effects on retinal volume in non-central diabetic macular edema |
-| [NCT00818844](https://clinicaltrials.gov/study/NCT00818844) | Phase 4 | Completed | 40 | Nepafenac 0.1% reduces macular volume after epiretinal membrane surgery vs placebo |
+| [NCT01109173](https://clinicaltrials.gov/study/NCT01109173) | Fasa 3 | Selesai | 2120 | Kajian pendaftaran pivot Nepafenac 0.3% untuk pencegahan/rawatan radang dan kesakitan mata selepas pembedahan katarak |
+| [NCT01318499](https://clinicaltrials.gov/study/NCT01318499) | Fasa 2 | Selesai | 1342 | Nepafenac 0.3% vs 0.1% vs kenderaan untuk radang pasca-katarak dan kesakitan |
+| [NCT01853072](https://clinicaltrials.gov/study/NCT01853072) | Fasa 3 | Selesai | 881 | Nepafenac 0.3% sekali sehari lebih baik daripada kenderaan pada subjek diabetik selepas pembedahan katarak |
+| [NCT01872611](https://clinicaltrials.gov/study/NCT01872611) | Fasa 3 | Selesai | 819 | Percubaan pengesahan: keunggulan Nepafenac 0.3% pada subjek diabetik pasca-pembedahan katarak |
+| [NCT03025945](https://clinicaltrials.gov/study/NCT03025945) | NA | Selesai | 662 | Nepafenac 0.3% pembantu kepada steroid untuk pencegahan edema makula pseudofakik kisistoid |
+| [NCT03499873](https://clinicaltrials.gov/study/NCT03499873) | Fasa 3 | Selesai | 448 | Kesetaraan bioavailabiliti generik Nepafenac 0.3% vs Ilevro untuk kesakitan/radang pasca-pembedahan katarak |
+| [NCT01426854](https://clinicaltrials.gov/study/NCT01426854) | Fasa 3 | Selesai | 260 | Nepafenac 0.1% lebih baik daripada kenderaan pada subjek Cina untuk radang/kesakitan pasca-katarak |
+| [NCT00939276](https://clinicaltrials.gov/study/NCT00939276) | Fasa 3 | Ditamatkan | 175 | Nevanac dinilai untuk pengurangan kejadian/keparahan edema makula pada pesakit retinopati diabetik |
+| [NCT01331005](https://clinicaltrials.gov/study/NCT01331005) | Fasa 2 | Selesai | 125 | Kesan NSAID topikal pada isipadu retina dalam edema makula diabetik bukan sentral |
+| [NCT00818844](https://clinicaltrials.gov/study/NCT00818844) | Fasa 4 | Selesai | 40 | Nepafenac 0.1% mengurangkan isipadu makula selepas pembedahan membran epirretinal vs plasebo |
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no related literature available for this specific indication (PubMed search returned 0 results for "Nepafenac" + "eye disease").
+Pada masa ini tiada literatur berkaitan tersedia untuk petunjuk khusus ini (carian PubMed mengembalikan 0 hasil untuk "Nepafenac" + "penyakit mata").
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Registration status confirms the product is marketed in Malaysia with 1 active registration; however, the detailed license record (license number, product name, dosage form, and approved indication text) was not returned in this data pull and could not be tabulated.
+Status pendaftaran mengesahkan produk dipasarkan di Malaysia dengan 1 pendaftaran aktif; walau bagaimanapun, rekod lesen terperinci (nombor lesen, nama produk, bentuk dos, dan teks petunjuk yang diluluskan) tidak dikembalikan dalam tarikan data ini dan tidak dapat disenaraikan.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information. (Key warnings, contraindications, and drug-interaction data were not available in this evidence pack — resolving this is flagged as a blocking data gap, DG001.)
+Sila rujuk sisipan pakej untuk maklumat keselamatan. (Data amaran utama, kontraindikasi, dan data interaksi ubat tidak tersedia dalam pakej bukti ini — menyelesaikan ini ditandai sebagai jurang data yang menghalang, DG001.)
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-A blocking data gap (missing TFDA/NPRA label warnings and contraindications, DG001) prevents the required S1 safety pre-assessment. In addition, the top-ranked predicted indication, "Eye Disease," is too generic to constitute a clear incremental repurposing target given the drug's already-approved ophthalmic anti-inflammatory use.
+**Nisbah:**
+Jurang data yang menghalang (amaran label TFDA/NPRA yang hilang dan kontraindikasi, DG001) menghalang penilaian keselamatan pra-S1 yang diperlukan. Sebagai tambahan, petunjuk yang diramalkan teratas, "Penyakit Mata," terlalu generik untuk membentuk sasaran penyusunan semula kenaikan yang jelas memandangkan penggunaan anti-radang oftalmik ubat yang sudah diluluskan.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert warnings and contraindications (DG001, Blocking)
-- Confirmed mechanism of action detail (DG002, High)
-- Complete NPRA license record (license number, product name, dosage form, approved indication text)
-- Re-scoring against more disease-specific predicted indications (e.g. rank 2, "optic papillitis," or the diabetic macular edema signal) rather than the generic "Eye Disease" category
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Amaran sisipan pakej TFDA/NPRA dan kontraindikasi (DG001, Menghalang)
+- Perincian mekanisme tindakan yang disahkan (DG002, Tinggi)
+- Rekod lesen NPRA yang lengkap (nombor lesen, nama produk, bentuk dos, teks petunjuk yang diluluskan)
+- Penilaian semula terhadap petunjuk yang diramalkan lebih khusus penyakit (cth pangkat 2, "papilitis optik," atau isyarat edema makula diabetik) daripada kategori "Penyakit Mata" yang generik
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

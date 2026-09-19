@@ -29,74 +29,75 @@ Tahap bukti: **L5** | Indikasi diramal: **9**
 
 </div>
 
-# Enfortumab Vedotin: From Bladder Cancer (Nectin-4-Targeted ADC) to Leprosy
+# Enfortumab Vedotin: Daripada Kanser Pundi Kencing (ADC Bertarget Nectin-4) kepada Kusta
 
-*Note: `taiwan_regulatory.licenses[].approved_indication_text` and `drug.original_indications` are empty in this evidence pack (data gap). "Bladder cancer" above is inferred from within-pack evidence — the literature entry and repurposing rationale repeatedly describe this drug as a Nectin-4-targeted ADC studied in bladder cancer — not from an external/registry source.*
+*Nota: `taiwan_regulatory.licenses[].approved_indication_text` dan `drug.original_indications` adalah kosong dalam pak bukti ini (jurang data). "Kanser pundi kencing" di atas disimpulkan daripada bukti dalam-pak — entri literatur dan rasional penggunaan semula secara berulang menggambarkan ubat ini sebagai ADC bertarget Nectin-4 yang dikaji dalam kanser pundi kencing — bukan daripada sumber luaran/pendaftaran.*
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Enfortumab vedotin is an antibody-drug conjugate (ADC) targeting Nectin-4, delivering the microtubule inhibitor MMAE as its payload, used in the context of bladder cancer per the available literature reference. The TxGNN model's top prediction for repurposing is **Leprosy**, but the accompanying rationale explicitly states there is **no mechanistic link** between this ADC's cytotoxic mechanism and anti-leprosy treatment, and **0 clinical trials and 0 publications** support this specific prediction.
+Enfortumab vedotin ialah konjugat antibodi-ubat (ADC) yang menyasarkan Nectin-4, menyampaikan perencat mikrotubul MMAE sebagai muatannya, digunakan dalam konteks kanser pundi kencing mengikut rujukan literatur yang tersedia. Ramalan teratas model TxGNN untuk penggunaan semula ialah **Kusta**, tetapi rasional yang disertakan secara jelas menyatakan bahawa terdapat **tiada hubungan mekanik** antara mekanisme sitotoksik ADC ini dan rawatan anti-kusta, dan **0 percubaan klinikal dan 0 penerbitan** menyokong ramalan spesifik ini.
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | Not recorded in registry data (data gap); contextually associated with bladder cancer per in-pack literature |
-| Predicted New Indication | Leprosy |
-| TxGNN Prediction Score | 99.53% |
-| Evidence Level | L5 (model prediction only) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asli | Tidak direkodkan dalam data pendaftaran (jurang data); berkaitan secara kontekstual dengan kanser pundi kencing mengikut literatur dalam-pak |
+| Petunjuk Baru yang Diramalkan | Kusta |
+| Skor Ramalan TxGNN | 99.53% |
+| Tahap Bukti | L5 (ramalan model sahaja) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 2 |
+| Keputusan yang Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed, sourced mechanism-of-action documentation is not available (`original_moa` is a flagged data gap, severity High). What can be established from the evidence pack itself is that enfortumab vedotin is an antibody-drug conjugate combining a Nectin-4-targeting antibody with MMAE (monomethyl auristatin E), a microtubule-polymerization inhibitor, delivering targeted cytotoxicity to Nectin-4-expressing tumour cells.
+Dokumentasi mekanisme-tindakan bersumber terperinci tidak tersedia (`original_moa` ialah jurang data yang ditandai, keterukan Tinggi). Apa yang boleh ditegakkan daripada pak bukti itu sendiri ialah enfortumab vedotin ialah konjugat antibodi-ubat menggabungkan antibodi bertarget Nectin-4 dengan MMAE (auristatin monometil E), perencat polimerisasi mikrotubul, menyampaikan sitotoksisiti bertarget kepada sel tumor yang mengekspresikan Nectin-4.
 
-For the top-ranked prediction, **leprosy**, the model-generated rationale is explicit and negative: it states there is no known mechanistic relationship — the ADC's cytotoxic, anti-microtubule mode of action has no established role in treating mycobacterial infection, and Nectin-4 is not a recognized anti-leprosy drug target. This is corroborated by an empty evidence base (zero clinical trials, zero ICTRP trials, zero literature).
+Untuk ramalan kedudukan tertinggi, **kusta**, rasional yang dihasilkan model adalah jelas dan negatif: ia menyatakan bahawa tiada hubungan mekanik yang diketahui — mod tindakan sitotoksik anti-mikrotubul ADC tidak mempunyai peranan yang ditegakkan dalam merawat jangkitan mikobjakteria, dan Nectin-4 bukan sasaran ubat anti-kusta yang diiktiraf. Ini disokong oleh pangkalan bukti kosong (sifar percubaan klinikal, sifar percubaan ICTRP, sifar literatur).
 
-Reviewing the full ranked list reinforces this concern rather than resolving it: several other top-9 candidates (multiple endocrine neoplasia, cytomegalovirus infection, cerebral infarction, HIV, homozygous familial hypercholesterolemia) similarly have no mechanistic rationale and no evidence, and two candidates (infectious bovine rhinotracheitis, malignant catarrhal fever) are **veterinary, non-human diseases** with identical TxGNN scores — a pattern suggesting knowledge-graph ontology cross-contamination or embedding-space noise near this drug's node, rather than a genuine biological signal. The only candidate with any literature (candidiasis, rank 4) is supported by a single real-world pharmacovigilance (FAERS) study describing candidiasis as an **adverse-event signal** from ADC-related immunosuppression — not therapeutic evidence — and is itself explicitly flagged in the pack as a likely false positive from a "drug–adverse event–disease" co-occurrence pattern rather than a repurposing hypothesis.
+Meneliti senarai berpangkat lengkap mengukuhkan kebimbangan ini daripada menyelesaikannya: beberapa calon sepuluh teratas lain (neoplasia endokrin berbilang, jangkitan sitomegalovirus, infark serebral, HIV, hiperkolesterolemik keluarga homozigot) begitu juga tidak mempunyai rasional mekanik dan tiada bukti, dan dua calon (rhinotracheitis bovine berjangkit, demam catarrhal ganas) adalah **penyakit veterinar, bukan manusia** dengan skor TxGNN yang sama — corak yang mencadangkan pencemaran silang ontologi graf-pengetahuan atau hingar ruang benam berhampiran nod ubat ini, daripada isyarat biologi tulen. Satu-satunya calon dengan mana-mana literatur (candidiasis, kedudukan 4) disokong oleh satu kajian farmakovigilans dunia sebenar (FAERS) yang menggambarkan candidiasis sebagai **isyarat peristiwa buruk** daripada imunopenekanan berkaitan ADC — bukan bukti terapeutik — dan sendirinya secara jelas ditandai dalam pak sebagai kemungkinan positif palsu daripada corak "ubat–peristiwa buruk–penyakit" bersama daripada hipotesis penggunaan semula.
 
-## Clinical Trial Evidence
+## Bukti Percubaan Klinikal
 
-Currently no related clinical trials registered.
+Pada masa kini tiada percubaan klinikal berkaitan yang didaftarkan.
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no related literature available.
+Pada masa kini tiada literatur berkaitan yang tersedia.
 
-*(For context: across the full set of 9 top-ranked TxGNN candidates, only one — candidiasis, rank 4 — has any associated literature, and it is a pharmacovigilance safety-signal study, not efficacy evidence. See "Why is This Prediction Reasonable?" above.)*
+*(Untuk konteks: merentasi set penuh 9 calon berpangkat teratas TxGNN, hanya satu — candidiasis, kedudukan 4 — mempunyai mana-mana literatur berkaitan, dan ia adalah kajian isyarat keselamatan farmakovigilans, bukan bukti keberkesanan. Lihat "Mengapa Ramalan Ini Munasabah?" di atas.)*
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-The evidence pack confirms the drug is marketed in Malaysia with 2 active registrations (NPRA), but license number, product name, dosage form, manufacturer, and approved-indication-text fields are all empty in this pack — detailed registration data is a gap requiring direct NPRA lookup.
+Pak bukti mengesahkan ubat dipasarkan di Malaysia dengan 2 pendaftaran aktif (NPRA), tetapi nombor lesen, nama produk, bentuk dos, pengeluar, dan medan teks petunjuk yang diluluskan semuanya kosong dalam pak ini — data pendaftaran terperinci adalah jurang yang memerlukan pencarian NPRA terus.
 
-## Cytotoxicity
+## Sitotoksisiti
 
-| Item | Content |
-|------|------|
-| Cytotoxicity Classification | Targeted therapy — antibody-drug conjugate (ADC) with a cytotoxic microtubule-inhibitor payload (MMAE) directed at Nectin-4 |
-| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
-| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | Please refer to the package insert warnings and precautions |
-| Handling Protection | Please refer to the package insert warnings and precautions |
+| Item | Kandungan |
+|------|----------|
+| Klasifikasi Sitotoksisiti | Terapi bertarget — konjugat antibodi-ubat (ADC) dengan muatan perencat mikrotubul sitotoksik (MMAE) yang ditujukan pada Nectin-4 |
+| Risiko Penyusutan Sumsum | Sila rujuk peringatan sisipan paket dan langkah penjagaan |
+| Klasifikasi Emetogenisiti | Sila rujuk peringatan sisipan paket dan langkah penjagaan |
+| Item Pemantauan | Sila rujuk peringatan sisipan paket dan langkah penjagaan |
+| Perlindungan Pengendalian | Sila rujuk peringatan sisipan paket dan langkah penjagaan |
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information. (Key warnings, contraindications, and drug-interaction data are all flagged as data gaps in this pack; retrieving the NPRA/manufacturer label is a blocking gap for any safety evaluation.)
+Sila rujuk sisipan paket untuk maklumat keselamatan. (Peringatan utama, kontraindikasi, dan data interaksi ubat semuanya ditandai sebagai jurang data dalam pak ini; mendapatkan label NPRA/pengeluar adalah jurang pemblokiran untuk sebarang penilaian keselamatan.)
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-All 9 top-ranked TxGNN predictions for this drug carry an "Hold" recommendation and L4–L5 evidence at best. The top candidate (leprosy) has an explicit no-mechanistic-link assessment and zero supporting studies; the ranked list additionally contains two veterinary/non-human disease entries, indicating likely knowledge-graph noise rather than a credible repurposing signal.
+**Rasional:**
+Semua 9 ramalan TxGNN berpangkat teratas untuk ubat ini membawa cadangan "Tahan" dan bukti L4–L5 paling baik. Calon teratas (kusta) mempunyai penilaian tiada-hubungan-mekanik yang jelas dan sifar kajian sokongan; senarai berpangkat juga mengandungi dua entri penyakit veterinar/bukan manusia, menunjukkan kemungkinan hingar graf-pengetahuan daripada isyarat penggunaan semula yang boleh dipercayai.
 
-**To proceed, the following is needed:**
-- Retrieve TFDA/NPRA label warnings and contraindications (blocking gap, DG001) before any safety-side evaluation can start
-- Obtain a sourced mechanism-of-action document from DrugBank (DG002)
-- Investigate the apparent knowledge-graph ontology contamination causing veterinary-disease predictions to rank alongside human indications, as this affects confidence in the entire candidate list for this drug
-- If any candidate is pursued further, prioritize one with an actual mechanistic rationale and real evidence base — none of the current top 9 meet that bar
+**Untuk meneruskan, yang berikut diperlukan:**
+- Dapatkan peringatan label TFDA/NPRA dan kontraindikasi (jurang pemblokiran, DG001) sebelum sebarang penilaian dari sisi keselamatan boleh bermula
+- Dapatkan dokumen mekanisme-tindakan bersumber dari DrugBank (DG002)
+- Selidiki pencemaran ontologi graf-pengetahuan yang jelas menyebabkan ramalan penyakit veterinar berpangkat bersama petunjuk manusia, kerana ini menjejaskan keyakinan dalam senarai calon keseluruhan untuk ubat ini
+- Jika sebarang calon dikejar lebih lanjut, utamakan satu dengan rasional mekanik sebenar dan asas bukti nyata — tiada dari 9 teratas semasa yang memenuhi bar tersebut
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

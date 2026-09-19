@@ -29,127 +29,128 @@ Tahap bukti: **L1** | Indikasi diramal: **6**
 
 </div>
 
-# Anastrozole: From Postmenopausal Hormone-Sensitive Breast Cancer to Female Breast Carcinoma
+# Anastrozole: Dari Kanser Payudara Sensitif Hormon Pasca-Menopaus ke Karsinoma Payudara Wanita
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Anastrozole is a third-generation aromatase inhibitor established as adjuvant endocrine therapy for hormone receptor-positive (ER+/PR+) breast cancer in postmenopausal women, with efficacy over tamoxifen demonstrated in landmark trials including ATAC and IBIS-II.
-The TxGNN model predicts it may be effective for **Female Breast Carcinoma** — aligning with its well-validated primary clinical indication — with **≥5 completed Phase 3 clinical trials** and **20 publications** supporting this direction.
-This prediction validates TxGNN's knowledge graph reasoning capability and confirms the biological coherence of the drug-disease relationship.
+Anastrozole adalah perencat aromatase generasi ketiga yang telah terbukti sebagai terapi endokrin tambahan untuk kanser payudara positif reseptor hormon (ER+/PR+) pada wanita pasca-menopaus, dengan keberkesanan berbanding tamoksifen yang ditunjukkan dalam percubaan mercu seperti ATAC dan IBIS-II.
+Model TxGNN meramalkan ia mungkin berkesan untuk **Karsinoma Payudara Wanita** — selaras dengan petunjukan klinikal utamanya yang tervalidasi dengan baik — dengan **≥5 percubaan Fasa 3 yang telah selesai** dan **20 penerbitan** yang menyokong arah ini.
+Ramalan ini mengesahkan keupayaan penalaran graf pengetahuan TxGNN dan membuktikan koheren biologi hubungan ubat-penyakit.
 
 ---
 
-## Quick Overview
+## Gambaran Keseluruhan Cepat
 
-| Item | Content |
+| Item | Kandungan |
 |------|---------|
-| Original Indication | Hormone receptor-positive breast cancer in postmenopausal women (based on clinical literature; regulatory product details pending retrieval) |
-| Predicted New Indication | Female Breast Carcinoma |
-| TxGNN Prediction Score | 99.68% |
-| Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 4 |
-| Recommended Decision | Proceed with Guardrails |
+| Petunjukan Asal | Kanser payudara positif reseptor hormon pada wanita pasca-menopaus (berdasarkan kesusasteraan klinikal; butiran produk kawal selia masih tertunggu) |
+| Petunjukan Baharu yang Diramalkan | Karsinoma Payudara Wanita |
+| Skor Ramalan TxGNN | 99.68% |
+| Tahap Bukti | L1 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 4 |
+| Keputusan yang Disyorkan | Teruskan dengan Penjaga |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Anastrozole selectively inhibits CYP19A1 (aromatase), the enzyme complex responsible for converting androgens (androstenedione, testosterone) into estrogens (estrone, estradiol) in peripheral tissues. In postmenopausal women, where peripheral aromatization is the primary source of circulating estrogen, anastrozole reduces plasma estradiol levels by more than 90%. This direct pharmacological action forms the mechanistic cornerstone of its anti-tumour activity.
+Anastrozole secara selektif merencat CYP19A1 (aromatase), kompleks enzim yang bertanggungjawab untuk menukar androgen (androstenedion, testosteron) menjadi estrogen (estron, estradiol) dalam tisu periferi. Pada wanita pasca-menopaus, di mana aromatisasi periferi adalah sumber utama estrogen bersirkulasi, anastrozole mengurangkan paras estradiol plasma sebanyak lebih daripada 90%. Tindakan farmakologi langsung ini membentuk asas mekanistik teras bagi aktiviti anti-tumornya.
 
-Hormone receptor-positive (ER+) breast cancer cells depend on estrogen signalling to drive cell cycle progression through the CCND1/CDK4/6 axis. Estrogen deprivation induced by anastrozole causes G1-phase cell cycle arrest and promotes apoptosis in ER+ tumour cells. This mechanistic link is direct, well-characterized, and underpins the consistent clinical benefit observed across multiple large randomized controlled trials — most notably the pivotal ATAC trial (N = 9,366), which demonstrated significantly prolonged disease-free survival compared to tamoxifen over 5 years of adjuvant treatment.
+Sel kanser payudara positif reseptor hormon (ER+) bergantung pada isyarat estrogen untuk memacu kemajuan kitaran sel melalui paksi CCND1/CDK4/6. Penghilangan estrogen yang disebabkan oleh anastrozole menyebabkan penahanan kitaran sel fasa G1 dan menggalakkan apoptosis dalam sel tumor ER+. Hubungan mekanistik ini adalah langsung, terkarakterisasi dengan baik, dan mendasari manfaat klinikal yang konsisten diperhatikan merentasi pelbagai percubaan terkawal rawak besar — terutamanya percubaan pivot ATAC (N = 9,366), yang menunjukkan pemanjangan kemandirian penyakit yang signifikan berbanding tamoksifen dalam tempoh 5 tahun rawatan tambahan.
 
-> **Note on MOA data**: Formal mechanism of action data was flagged as a data gap (DG002) in this evidence pack. The mechanistic description above is derived from the repurposing rationale embedded within the evidence pack and corroborated by the extensive published literature. DrugBank API query for DB01217 is recommended to complete the pharmacological profile.
+> **Nota tentang data MOA**: Data mekanisme tindakan formal ditandai sebagai celah data (DG002) dalam pak bukti ini. Penerangan mekanistik di atas diperoleh daripada rasional penyusunan semula ubat yang tertanam dalam pak bukti dan disahkan oleh kesusasteraan yang diterbitkan secara meluas. Pertanyaan API DrugBank untuk DB01217 disyorkan untuk melengkapkan profil farmakologi.
 
-The TxGNN model's highest-ranked prediction for anastrozole is female breast carcinoma, reflecting the model's strong mechanistic signal capture. The prediction extends across the full breast cancer continuum: from adjuvant treatment of early-stage ER+ disease, to first-line therapy in advanced/metastatic settings, through chemoprevention in high-risk postmenopausal women (IBIS-II), and prevention of recurrence in ductal carcinoma in situ (IBIS-II DCIS). This breadth of validated applications — all linked by the same aromatase-inhibition mechanism — makes this the highest-confidence prediction in the TxGNN output for this drug.
+Ramalan tertinggi model TxGNN untuk anastrozole ialah karsinoma payudara wanita, mencerminkan tangkapan isyarat mekanistik model yang kuat. Ramalan meluas merentasi spektrum kanser payudara penuh: daripada rawatan tambahan penyakit ER+ peringkat awal, hingga terapi baris pertama dalam tetapan maju/metastatik, melalui kemopencegahan pada wanita pasca-menopaus berisiko tinggi (IBIS-II), dan pencegahan lelaran dalam karsinoma sal duktus (IBIS-II DCIS). Keluasan aplikasi tervalidasi ini — semua terikat oleh mekanisme perencatan aromatase yang sama — menjadikan ini ramalan keyakinan tertinggi dalam output TxGNN untuk ubat ini.
 
 ---
 
-## Clinical Trial Evidence
+## Bukti Percubaan Klinikal
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Percubaan | Fasa | Status | Kemasukan | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT00066573](https://clinicaltrials.gov/study/NCT00066573) | Phase 3 | Completed | 7,576 | Large head-to-head RCT (NCIC CTG MA.27): exemestane vs. anastrozole as adjuvant therapy in postmenopausal ER+ breast cancer; anastrozole serves as the active reference arm, providing the highest-grade direct efficacy evidence |
-| [NCT00784940](https://clinicaltrials.gov/study/NCT00784940) | Phase 3 | Completed | 308 | Randomized double-blind trial (ATAC sub-study): quantifies bone mineral density changes with anastrozole vs. tamoxifen vs. combination as adjuvant therapy; critical long-term safety database |
-| [NCT00784680](https://clinicaltrials.gov/study/NCT00784680) | Phase 3 | Completed | 308 | Companion QoL RCT to NCT00784940: compares patient-reported quality of life between anastrozole, tamoxifen, and combination over first 2 years of adjuvant treatment |
-| [NCT00143390](https://clinicaltrials.gov/study/NCT00143390) | Phase 3 | Completed | 298 | Double-blind RCT: exemestane vs. anastrozole as initial hormonal therapy in postmenopausal women with advanced/recurrent breast cancer; non-inferiority design demonstrating class equivalence |
-| [NCT02040857](https://clinicaltrials.gov/study/NCT02040857) | Phase 2 | Completed | 162 | Pilot feasibility study of palbociclib combined with anastrozole-based adjuvant endocrine therapy for HR+ invasive breast carcinoma; evaluates CDK4/6 inhibitor + AI synergy within the established mechanistic framework |
-| [NCT00405938](https://clinicaltrials.gov/study/NCT00405938) | Phase 2 | Completed | 79 | Anastrozole or fulvestrant combined with bevacizumab as first-line therapy for postmenopausal HR+ metastatic breast cancer; anastrozole is an active experimental arm; evaluates anti-angiogenic combination |
-| [NCT00256217](https://clinicaltrials.gov/study/NCT00256217) | Phase 2 | Completed | 42 | Chemoprevention trial assessing anastrozole in postmenopausal women with DCIS and early invasive breast cancer; design mirrors IBIS-II prevention approach |
-| [NCT05439499](https://clinicaltrials.gov/study/NCT05439499) | Phase 3 | Unknown | 434 | Randomized double-blind placebo-controlled trial: FCN-437c (CDK4/6 inhibitor) + letrozole or anastrozole ± goserelin vs. placebo + AI in first-line HR+/HER2− advanced breast cancer; status requires confirmation |
-| [NCT03820830](https://clinicaltrials.gov/study/NCT03820830) | Phase 3 | Active, Not Recruiting | 405 | POLAR trial: adjuvant palbociclib + endocrine therapy (anastrozole eligible) vs. endocrine therapy alone for HR+/HER2− isolated locoregional recurrence; results anticipated |
-| [NCT04666961](https://clinicaltrials.gov/study/NCT04666961) | Phase 2 | Recruiting | 262 | Neoadjuvant hormonal therapy (anastrozole eligible) for extensive DCIS to reduce mastectomy requirement; long-term follow-up through 2033 |
+| [NCT00066573](https://clinicaltrials.gov/study/NCT00066573) | Fasa 3 | Selesai | 7,576 | RCT perbandingan kepala-ke-kepala besar (NCIC CTG MA.27): exemestan vs. anastrozole sebagai terapi tambahan pada kanser payudara ER+ pasca-menopaus; anastrozole berfungsi sebagai lengan rujukan aktif, memberikan bukti keberkesanan langsung gred tertinggi |
+| [NCT00784940](https://clinicaltrials.gov/study/NCT00784940) | Fasa 3 | Selesai | 308 | Percubaan buta dua kali ganda (substudi ATAC): mengukur perubahan ketumpatan mineral tulang dengan anastrozole vs. tamoksifen vs. gabungan sebagai terapi tambahan; pangkalan data keselamatan jangka panjang yang penting |
+| [NCT00784680](https://clinicaltrials.gov/study/NCT00784680) | Fasa 3 | Selesai | 308 | RCT kualiti hidup pendamping kepada NCT00784940: membandingkan kualiti hidup yang dilaporkan pesakit antara anastrozole, tamoksifen, dan gabungan dalam 2 tahun pertama rawatan tambahan |
+| [NCT00143390](https://clinicaltrials.gov/study/NCT00143390) | Fasa 3 | Selesai | 298 | RCT buta dua kali ganda: exemestan vs. anastrozole sebagai terapi hormon awal pada wanita pasca-menopaus dengan kanser payudara lanjut/berulang; reka bentuk bukan inferioriti menunjukkan kesetaraan kelas |
+| [NCT02040857](https://clinicaltrials.gov/study/NCT02040857) | Fasa 2 | Selesai | 162 | Kajian kebolehlaksanaan pilot palbociclib digabungkan dengan terapi endokrin tambahan berasaskan anastrozole untuk karsinoma payudara invasif HR+; menilai sinergi perencat CDK4/6 + AI dalam rangka kerja mekanistik yang ditubuhkan |
+| [NCT00405938](https://clinicaltrials.gov/study/NCT00405938) | Fasa 2 | Selesai | 79 | Anastrozole atau fulvestrant digabungkan dengan bevacizumab sebagai terapi baris pertama untuk kanser payudara metastatik HR+ pasca-menopaus; anastrozole adalah lengan eksperimental yang aktif; menilai gabungan anti-angiogenik |
+| [NCT00256217](https://clinicaltrials.gov/study/NCT00256217) | Fasa 2 | Selesai | 42 | Percubaan kemopencegahan menilai anastrozole pada wanita pasca-menopaus dengan DCIS dan kanser payudara invasif awal; reka bentuk mencerminkan pendekatan pencegahan IBIS-II |
+| [NCT05439499](https://clinicaltrials.gov/study/NCT05439499) | Fasa 3 | Tidak Diketahui | 434 | RCT terkawal plasebo buta dua kali ganda: FCN-437c (perencat CDK4/6) + letrozole atau anastrozole ± goserelin vs. plasebo + AI dalam kanser payudara HR+/HER2− maju baris pertama; status memerlukan pengesahan |
+| [NCT03820830](https://clinicaltrials.gov/study/NCT03820830) | Fasa 3 | Aktif, Tidak Merekrut | 405 | Percubaan POLAR: palbociclib tambahan + terapi endokrin (anastrozole layak) vs. terapi endokrin sahaja untuk lelaran lokorantau terpencil HR+/HER2−; keputusan dijangkakan |
+| [NCT04666961](https://clinicaltrials.gov/study/NCT04666961) | Fasa 2 | Merekrut | 262 | Terapi hormon neoadjuvan (anastrozole layak) untuk DCIS luas untuk mengurangkan keperluan mastektomi; susulan jangka panjang hingga 2033 |
 
 ---
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [15639680](https://pubmed.ncbi.nlm.nih.gov/15639680/) | 2005 | Phase 3 RCT | *Lancet* | ATAC 5-year results (N = 9,366): anastrozole significantly prolonged disease-free survival vs. tamoxifen (HR 0.87; P = 0.01) and reduced distant metastasis; established anastrozole as standard adjuvant therapy |
-| [12090977](https://pubmed.ncbi.nlm.nih.gov/12090977/) | 2002 | Phase 3 RCT | *Lancet* | ATAC first results: anastrozole monotherapy superior to tamoxifen for time to recurrence and contralateral breast cancer; fewer thromboembolic events and endometrial cancers; better tolerability profile |
-| [31839281](https://pubmed.ncbi.nlm.nih.gov/31839281/) | 2020 | RCT (Long-term Follow-up) | *Lancet* | IBIS-II long-term results: anastrozole significantly reduced breast cancer incidence in high-risk postmenopausal women vs. placebo over 10+ years; preventive effect persists after treatment cessation |
-| [26686313](https://pubmed.ncbi.nlm.nih.gov/26686313/) | 2016 | RCT | *Lancet* | IBIS-II DCIS: anastrozole superior to tamoxifen for prevention of locoregional and contralateral breast cancer events in postmenopausal women with hormone-receptor-positive DCIS; broadens the indication continuum |
-| [28415634](https://pubmed.ncbi.nlm.nih.gov/28415634/) | 2017 | Meta-analysis | *Oncotarget* | Systematic meta-analysis of RCTs: anastrozole demonstrates superior disease-free survival vs. tamoxifen with significantly lower rates of endometrial cancer, thromboembolic events, and hot flashes |
-| [28614542](https://pubmed.ncbi.nlm.nih.gov/28614542/) | 2017 | Systematic Review | *Rev Assoc Med Bras* | Comprehensive review of anastrozole in chemoprevention and treatment across all stages of breast cancer; confirms superior pharmacodynamic selectivity and tolerability vs. earlier-generation agents |
-| [34048027](https://pubmed.ncbi.nlm.nih.gov/34048027/) | 2021 | Pharmacogenomics Study | *Clin Pharmacol Ther* | SNP-treatment interaction analysis in 4,465 MA.27 patients: identifies genetic variants (CSMD1) differentiating anastrozole vs. exemestane efficacy; supports precision endocrine therapy approach |
-| [32701512](https://pubmed.ncbi.nlm.nih.gov/32701512/) | 2020 | GWAS | *JCI Insight* | Genome-wide analysis of MA.27 trial: CSMD1 variant associated with improved breast cancer-free interval on anastrozole; reveals complement pathway as novel mechanism; identifies pharmacogenomic biomarkers |
-| [19445563](https://pubmed.ncbi.nlm.nih.gov/19445563/) | 2009 | Review | *Expert Opin Pharmacother* | Comparative review of anastrozole, letrozole, and exemestane in early breast cancer: all three third-generation AIs consistently superior to tamoxifen across upfront, switch, and extended adjuvant designs |
-| [20923259](https://pubmed.ncbi.nlm.nih.gov/20923259/) | 2010 | Review | *Expert Opin Drug Safety* | Safety-focused review of anastrozole adjuvant use: characterizes musculoskeletal adverse effects, bone mineral density loss, and cardiovascular considerations across multiple adjuvant trial datasets |
+| [15639680](https://pubmed.ncbi.nlm.nih.gov/15639680/) | 2005 | RCT Fasa 3 | *Lancet* | Keputusan 5 tahun ATAC (N = 9,366): anastrozole secara signifikan memanjangkan kemandirian penyakit vs. tamoksifen (HR 0.87; P = 0.01) dan mengurangkan metastasis jauh; menetapkan anastrozole sebagai terapi tambahan standard |
+| [12090977](https://pubmed.ncbi.nlm.nih.gov/12090977/) | 2002 | RCT Fasa 3 | *Lancet* | Keputusan pertama ATAC: monoterap anastrozole lebih tinggi daripada tamoksifen untuk masa hingga berulang dan kanser payudara kontralateral; peristiwa tromboembolik dan kanser endometrium yang lebih sedikit; profil tolerabiliti yang lebih baik |
+| [31839281](https://pubmed.ncbi.nlm.nih.gov/31839281/) | 2020 | RCT (Susulan Jangka Panjang) | *Lancet* | Keputusan jangka panjang IBIS-II: anastrozole secara signifikan mengurangkan insidens kanser payudara pada wanita pasca-menopaus berisiko tinggi vs. plasebo dalam 10+ tahun; kesan pencegahan bertahan selepas pengakhiran rawatan |
+| [26686313](https://pubmed.ncbi.nlm.nih.gov/26686313/) | 2016 | RCT | *Lancet* | IBIS-II DCIS: anastrozole lebih tinggi daripada tamoksifen untuk pencegahan peristiwa kanser lokorantau dan kontralateral pada wanita pasca-menopaus dengan DCIS positif reseptor hormon; meluaskan spektrum petunjukan |
+| [28415634](https://pubmed.ncbi.nlm.nih.gov/28415634/) | 2017 | Meta-analisis | *Oncotarget* | Meta-analisis sistematik RCT: anastrozole menunjukkan kemandirian penyakit yang lebih tinggi vs. tamoksifen dengan kadar kanser endometrium, peristiwa tromboembolik, dan gelombang panas yang jauh lebih rendah |
+| [28614542](https://pubmed.ncbi.nlm.nih.gov/28614542/) | 2017 | Ulasan Sistematik | *Rev Assoc Med Bras* | Ulasan komprehensif anastrozole dalam kemopencegahan dan rawatan merentasi semua peringkat kanser payudara; mengesahkan selektiviti farmakodik superior dan tolerabiliti vs. agen generasi awal |
+| [34048027](https://pubmed.ncbi.nlm.nih.gov/34048027/) | 2021 | Kajian Farmakogenetik | *Clin Pharmacol Ther* | Analisis interaksi SNP-rawatan dalam 4,465 pesakit MA.27: mengenal pasti varian genetik (CSMD1) membezakan keberkesanan anastrozole vs. exemestan; menyokong pendekatan terapi endokrin presisi |
+| [32701512](https://pubmed.ncbi.nlm.nih.gov/32701512/) | 2020 | GWAS | *JCI Insight* | Analisis seluruh genom percubaan MA.27: varian CSMD1 dikaitkan dengan selang bebas kanser payudara yang lebih baik pada anastrozole; mendedahkan laluan pelengkap sebagai mekanisme novel; mengenal pasti biopenanda farmakogenetik |
+| [19445563](https://pubmed.ncbi.nlm.nih.gov/19445563/) | 2009 | Ulasan | *Expert Opin Pharmacother* | Ulasan perbandingan anastrozole, letrozole, dan exemestan dalam kanser payudara awal: ketiga-tiga AI generasi ketiga secara konsisten lebih tinggi daripada tamoksifen merentasi reka bentuk upfront, beralih, dan pelanjutan adjuvan |
+| [20923259](https://pubmed.ncbi.nlm.nih.gov/20923259/) | 2010 | Ulasan | *Expert Opin Drug Safety* | Ulasan berorientasikan keselamatan penggunaan anastrozole adjuvan: mencirikan kesan buruk muskulo-kerangka, kehilangan ketumpatan mineral tulang, dan pertimbangan kardiovaskular merentasi set data percubaan adjuvan berganda |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Anastrozole has **4 registered products** in Malaysia (market status: ✓ Marketed). Detailed product registration data (authorization numbers, product names, dosage forms, manufacturers, and approved indication text) was not populated in this evidence pack data pull. The table below reflects the registration structure pending full NPRA data retrieval.
+Anastrozole mempunyai **4 produk berdaftar** di Malaysia (status pasaran: ✓ Dipasarkan). Data pendaftaran produk terperinci (nombor kebenaran, nama produk, bentuk dos, pengilang, dan teks petunjukan yang diluluskan) tidak diisi dalam penghuraian data pak bukti ini. Jadual di bawah mencerminkan struktur pendaftaran menunggu pengambilan data NPRA penuh.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjukan yang Diluluskan |
 |---------|------|------|-----------|
-| — | (Product 1 — details pending) | — | — |
-| — | (Product 2 — details pending) | — | — |
-| — | (Product 3 — details pending) | — | — |
-| — | (Product 4 — details pending) | — | — |
+| — | (Produk 1 — butiran tertunggu) | — | — |
+| — | (Produk 2 — butiran tertunggu) | — | — |
+| — | (Produk 3 — butiran tertunggu) | — | — |
+| — | (Produk 4 — butiran tertunggu) | — | — |
 
-> To retrieve full product details, query the NPRA Product Registration Search at [https://www.npra.gov.my](https://www.npra.gov.my) using active ingredient "anastrozole." Anastrozole 1 mg oral tablets (brand name Arimidex, AstraZeneca) are the reference product approved in most markets; generic equivalents are likely represented among the 4 registered products.
+> Untuk mendapatkan butiran produk penuh, kueri Carian Pendaftaran Produk NPRA di [https://www.npra.gov.my](https://www.npra.gov.my) menggunakan bahan aktif "anastrozole." Tablet oral anastrozole 1 mg (nama merek Arimidex, AstraZeneca) adalah produk rujukan yang diluluskan dalam kebanyakan pasaran; kesetaraan generik berkemungkinan diwakili antara 4 produk berdaftar.
 
 ---
 
-## Cytotoxicity
+## Sitotoksisiti
 
-Anastrozole meets the criteria for antineoplastic classification: its approved indication is breast cancer and it belongs to the aromatase inhibitor class of endocrine oncology agents. However, it is **not** a conventional cytotoxic chemotherapy drug — it is a targeted hormonal agent with a mechanism distinct from DNA-damaging chemotherapy.
+Anastrozole memenuhi kriteria untuk klasifikasi antineoplastik: petunjukan yang diluluskannya adalah kanser payudara dan ia tergolong dalam kelas agen perencat aromatase bagi onkologi endokrin. Bagaimanapun, ia **bukan** ubat kemoterapi sitotoksik konvensional — ia adalah agen hormon disasarkan dengan mekanisme yang berbeza daripada kemoterapi yang merosakkan DNA.
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Cytotoxicity Classification | Non-cytotoxic endocrine therapy — Aromatase Inhibitor (targeted hormonal mechanism); **not** classified as conventional cytotoxic or myelosuppressive agent |
-| Myelosuppression Risk | **Low** — aromatase inhibitors do not cause clinically significant bone marrow suppression; myelotoxicity is not a characteristic adverse effect of this drug class |
-| Emetogenicity Classification | **Minimal** — oral once-daily tablet with very low emetogenic potential; routine antiemetic prophylaxis is not required |
-| Monitoring Items | Bone mineral density (DEXA scan at baseline, then every 1–2 years); fasting lipid profile; liver function tests; musculoskeletal symptom assessment (arthralgia, myalgia); fracture risk evaluation (FRAX score) |
-| Handling Protection | Standard pharmaceutical handling precautions; **cytotoxic closed-system transfer device and hazardous drug PPE protocols are not required** for aromatase inhibitors per current pharmacist handling guidelines |
+| Klasifikasi Sitotoksisiti | Terapi endokrin bukan sitotoksik — Perencat Aromatase (mekanisme hormon disasarkan); **bukan** diklasifikasikan sebagai agen sitotoksik konvensional atau mielisupresif |
+| Risiko Mielisupresí | **Rendah** — perencat aromatase tidak menyebabkan penindasan sumsum tulang belakang yang signifikan secara klinikal; mielotoksisiti bukanlah kesan buruk yang mencirikan kelas ubat ini |
+| Klasifikasi Emetogenisiti | **Minimum** — tablet oral sekali sehari dengan potensi emetogenik yang sangat rendah; profilaksis antiemetik rutin tidak diperlukan |
+| Item Pemantauan | Ketumpatan mineral tulang (imbasan DEXA pada garis dasar, kemudian setiap 1–2 tahun); profil lipid puasa; ujian fungsi hati; penilaian gejala muskulo-kerangka (artralgia, mialgia); penilaian risiko fraktur (skor FRAX) |
+| Perlindungan Pengendalian | Langkah-langkah pengendalian farmasetik standard; **protokol peranti pemindahan sistem tertutup sitotoksik dan PPE ubat berbahaya tidak diperlukan** untuk perencat aromatase mengikut garis panduan pengendalian farmasis semasa |
 
 ---
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisipan paket untuk maklumat keselamatan.
 
-> Safety data — including key warnings, contraindications, and drug interactions — were identified as data gaps in this evidence pack (DG001: Blocking severity). NPRA package insert PDF retrieval is the recommended immediate remediation step. Based on published literature, known class-effect concerns include: bone mineral density loss with prolonged use, aromatase inhibitor-associated musculoskeletal syndrome (AIMSS), elevated cardiovascular lipid risk, and absolute contraindication in premenopausal women and during pregnancy.
+> Data keselamatan — termasuk amaran utama, kontraindikasi, dan interaksi ubat — telah dikenal pasti sebagai celah data dalam pak bukti ini (DG001: Keparahan pemblokiran). Pengambilan PDF sisipan paket NPRA adalah langkah pemulihan segera yang disyorkan. Berdasarkan kesusasteraan yang diterbitkan, kebimbangan kesan kelas yang diketahui termasuk: kehilangan ketumpatan mineral tulang dengan penggunaan jangka panjang, sindrom muskulo-kerangka yang berkaitan dengan perencat aromatase (AIMSS), risiko lipid kardiovaskular yang meningkat, dan kontraindikasi mutlak pada wanita pra-menopaus dan semasa kehamilan.
 
 ---
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Proceed with Guardrails**
+**Keputusan: Teruskan dengan Penjaga**
 
-**Rationale:**
-TxGNN predicts female breast carcinoma as the top indication for anastrozole with a 99.68% confidence score, which corresponds precisely to its established, regulatory-approved primary use — validated by multiple completed Phase 3 RCTs (including ATAC, IBIS-II, and MA.27), achieving the highest evidence grade (L1). The prediction demonstrates strong model validity and supports clinical deployment with standard safety monitoring protocols already defined in the published literature.
+**Rasional:**
+TxGNN meramalkan karsinoma payudara wanita sebagai petunjukan teratas untuk anastrozole dengan skor keyakinan 99.68%, yang sepadan tepat dengan penggunaan utamanya yang tervalidasi, diluluskan kawal selia — disahkan oleh berbilang RCT Fasa 3 yang selesai (termasuk ATAC, IBIS-II, dan MA.27), mencapai gred bukti tertinggi (L1). Ramalan menunjukkan kesahihan model yang kuat dan menyokong penggunaan klinikal dengan protokol pemantauan keselamatan standard yang telah ditakrifkan dalam kesusasteraan yang diterbitkan.
 
-**To proceed, the following is needed:**
+**Untuk teruskan, yang berikut diperlukan:**
 
-- **Package insert retrieval** *(DG001 — Blocking)*: Download and parse NPRA-registered package insert PDFs to formally document key warnings, contraindications, and precautions for Malaysian market products; required before S1 safety evaluation can be completed
-- **Mechanism of action documentation** *(DG002 — High)*: Query DrugBank API for DB01217 to formally populate the MOA field and complete the pharmacological profile for this evidence pack
-- **NPRA product registration details**: Query the NPRA database to populate authorization numbers, product names, dosage forms, and approved indication text for all 4 registered anastrozole products
-- **Bone health management protocol**: Establish a DEXA-guided bone mineral density monitoring and intervention protocol (calcium/vitamin D supplementation, bisphosphonate threshold criteria) appropriate for the Malaysian patient population
-- **Patient selection criteria**: Define postmenopausal status confirmation procedures and ER/PR receptor testing requirements aligned with Malaysian clinical practice standards before any formulary or prescribing guideline update
+- **Pengambilan sisipan paket** *(DG001 — Pemblokiran)*: Muat turun dan analisis PDF sisipan paket berdaftar NPRA untuk mendokumenkan secara rasmi amaran utama, kontraindikasi, dan langkah-langkah berjaga-jaga untuk produk pasaran Malaysia; diperlukan sebelum penilaian keselamatan S1 dapat disiapkan
+- **Dokumentasi mekanisme tindakan** *(DG002 — Tinggi)*: Kueri API DrugBank untuk DB01217 untuk mengisi secara rasmi medan MOA dan melengkapkan profil farmakologi untuk pak bukti ini
+- **Butiran pendaftaran produk NPRA**: Kueri pangkalan data NPRA untuk mengisi nombor kebenaran, nama produk, bentuk dos, dan teks petunjukan yang diluluskan untuk semua 4 produk anastrozole berdaftar
+- **Protokol pengurusan kesihatan tulang**: Tetapkan protokol pemantauan ketumpatan mineral tulang yang dipandu DEXA dan protokol intervensi (suplemen kalsium/vitamin D, kriteria ambang bisfosfonat) yang sesuai untuk populasi pesakit Malaysia
+- **Kriteria pemilihan pesakit**: Tentukan prosedur pengesahan status pasca-menopaus dan keperluan ujian reseptor ER/PR yang diselaraskan dengan piawaian amalan klinikal Malaysia sebelum sebarang kemas kini formulari atau garis panduan preskripsi
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

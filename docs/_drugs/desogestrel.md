@@ -29,60 +29,61 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Desogestrel: From Contraception to Breast Fibrocystic Disease
+# Desogestrel: Daripada Pencegahan Konsepsi kepada Penyakit Fibrokistik Payudara
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Desogestrel is a progestin, most widely used worldwide as a progestin-only oral contraceptive ("mini-pill"). The TxGNN model predicts it may be effective for **Breast Fibrocystic Disease**, but this specific link is currently supported by **0 clinical trials** and **0 publications** — it rests on the model score alone.
+Desogestrel ialah progestin yang paling banyak digunakan di seluruh dunia sebagai kontraseptif oral hanya progestin ("mini-pill"). Model TxGNN meramalkan ia mungkin berkesan untuk **Penyakit Fibrokistik Payudara**, tetapi pautan spesifik ini kini disokong oleh **0 ujian klinikal** dan **0 penerbitan** — ia berdasarkan skor model semata-mata.
 
-## Quick Overview
+## Gambaran Ringkas
 
-| Item | Content |
-|------|------|
-| Original Indication | Not specified in the Malaysia registration records available in this evidence pack (Desogestrel is internationally approved as a progestin-only oral contraceptive) |
-| Predicted New Indication | Breast Fibrocystic Disease |
-| TxGNN Prediction Score | 99.96% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 11 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Tidak dinyatakan dalam rekod pendaftaran Malaysia yang tersedia dalam pakej bukti ini (Desogestrel diluluskan secara antarabangsa sebagai kontraseptif oral hanya progestin) |
+| Petunjuk Baru yang Diramal | Penyakit Fibrokistik Payudara |
+| Skor Ramalan TxGNN | 99.96% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 11 |
+| Keputusan yang Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Bermutu Baik?
 
-Currently, detailed mechanism of action data is not available. Based on known pharmacology, Desogestrel is a third-generation progestin (a prohormone metabolized to its active form, etonogestrel), best established as a progestin-only oral contraceptive. Its contraceptive efficacy is well proven, working mainly through suppression of the hypothalamic-pituitary-ovarian axis, inhibition of ovulation, and alteration of cervical mucus and endometrial receptivity.
+Pada masa kini, data mekanisme tindakan terperinci tidak tersedia. Berdasarkan farmakologi yang diketahui, desogestrel ialah progestin generasi ketiga (suatu prohormone yang dimetabolisma kepada bentuk aktifnya, etonogestrel), yang paling terbukti sebagai kontraseptif oral hanya progestin. Keberkesanan kontraseptifnya sudah terbukti dengan baik, bekerja terutamanya melalui penindasan paksi hipotalamus-hipofisis-ovari, perencatan ovulasi, dan pengubahan mucus serviks dan reseptiviti endometrium.
 
-For the top-ranked prediction, Breast Fibrocystic Disease, the TxGNN score is very high (99.96%), but no clinical trial or literature evidence was retrieved for this specific drug-disease pairing. This pattern of a high score without any supporting evidence is shared by several other breast-related predictions in this evidence pack (apocrine adenosis, blunt duct adenosis, breast abscess, fat necrosis of breast, breast adenosis) — all evaluated at L5/Hold. The evidence pack does contain one indirectly related, weaker signal: a single review-level article touching on "benign mammary dysplasia" (rank 5, L4) in the context of oral contraceptive use, which suggests hormonal contraceptives have been studied for general breast-tissue effects, but this does not constitute a validated therapeutic mechanism for fibrocystic disease specifically.
+Untuk ramalan tertinggi, Penyakit Fibrokistik Payudara, skor TxGNN sangat tinggi (99.96%), tetapi tiada bukti ujian klinikal atau kesusasteraan diperolehi untuk pasangan ubat-penyakit spesifik ini. Corak skor tinggi tanpa bukti sokongan apa pun dikongsi oleh beberapa ramalan berkaitan payudara yang lain dalam pakej bukti ini (apokrin adenosis, blunt duct adenosis, abses payudara, fat necrosis payudara, adenosis payudara) — semuanya dinilai pada L5/Tahan. Pakej bukti ini mengandungi satu isyarat tidak langsung yang lebih lemah: satu artikel tahap ulasan yang menyentuh "benign mammary dysplasia" (pangkat 5, L4) dalam konteks penggunaan kontraseptif oral, yang mencadangkan kontraseptif hormon telah dikaji untuk kesan tisu payudara umum, tetapi ini tidak merupakan mekanisme terapi yang disahkan untuk penyakit fibrokistik secara khusus.
 
-By contrast, other candidates in the same prediction set for Desogestrel — amenorrhea (L3) and acne (L2) — are anchored in a real, mechanistically coherent phenomenon: progestin-driven suppression of the reproductive axis and androgen modulation are known, documented effects of desogestrel-containing regimens. Breast Fibrocystic Disease has no comparable mechanistic anchor in the data provided, so at this stage the prediction should be treated as a hypothesis-generating signal only, not a mechanistically substantiated repurposing candidate.
+Sebaliknya, calon lain dalam set ramalan yang sama untuk desogestrel — amenorrhea (L3) dan jerawat (L2) — berlabuh dalam fenomena sebenar yang koheren mekanistik: penindasan paksi reproduktif didorong progestin dan modulasi androgen adalah kesan yang diketahui, didokumentasikan bagi rejimen yang mengandungi desogestrel. Penyakit Fibrokistik Payudara tidak mempunyai sauh mekanistik setanding dalam data yang diberikan, jadi pada peringkat ini ramalan harus dianggap sebagai isyarat penjanaan hipotesis sahaja, bukan calon penyusunan semula yang disokong mekanistik.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-Currently no related clinical trials registered
+Kini tiada ujian klinikal berkaitan terdaftar
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-Currently no related literature available
+Kini tiada kesusasteraan berkaitan tersedia
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-NPRA records confirm 11 active registrations for Desogestrel and a "Marketed" status, but the detailed authorization records (license numbers, product names, dosage forms, and approved indication text) were not returned in this evidence pack and cannot be tabulated at this time.
+Rekod NPRA mengesahkan 11 pendaftaran aktif untuk desogestrel dan status "Dipasarkan", tetapi rekod kebenaran terperinci (nombor lesen, nama produk, bentuk dos, dan teks petunjuk yang diluluskan) tidak dikembalikan dalam pakej bukti ini dan tidak dapat dijadualkan pada masa kini.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisipan bungkusan untuk maklumat keselamatan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The predicted pairing (Desogestrel → Breast Fibrocystic Disease) has no supporting clinical trials or literature and relies solely on the TxGNN model score (L5), so it does not meet the bar for further evaluation at this time.
+**Alasan:**
+Pasangan yang diramal (Desogestrel → Penyakit Fibrokistik Payudara) tidak mempunyai ujian klinikal atau kesusasteraan sokongan dan bergantung semata-mata pada skor model TxGNN (L5), jadi ia tidak memenuhi bar untuk penilaian lanjutan pada masa kini.
 
-**To proceed, the following is needed:**
-- Malaysia label warnings and contraindications (blocking data gap DG001)
-- DrugBank mechanism-of-action data (data gap DG002)
-- Full Malaysia product license details (product names, dosage forms, approved indication text) for the 11 registrations
-- If pursuing repurposing research for this drug, prioritize the higher-evidence candidates in this same prediction set — acne (L2, Research Question) or amenorrhea (L3, Research Question) — over Breast Fibrocystic Disease
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Amaran dan kontraindikasi label Malaysia (data gap DG001 yang menghalang)
+- Data mekanisme tindakan DrugBank (jurang data DG002)
+- Butir lesen produk Malaysia lengkap (nama produk, bentuk dos, teks petunjuk yang diluluskan) untuk 11 pendaftaran
+- Jika mengejar penyelidikan penyusunan semula untuk ubat ini, utamakan calon bukti lebih tinggi dalam set ramalan yang sama ini — jerawat (L2, Soalan Penyelidikan) atau amenorrhea (L3, Soalan Penyelidikan) — berbanding Penyakit Fibrokistik Payudara
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

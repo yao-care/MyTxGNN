@@ -29,74 +29,75 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Ketoprofen: From NSAID Pain/Inflammation Management to Osteoarthritis Susceptibility
+# Ketoprofen: Daripada Pengurusan Kesakitan/Keradangan NSAID kepada Kerentanan Osteoarthritis
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Ketoprofen is a well-established nonsteroidal anti-inflammatory drug (NSAID) already marketed in Malaysia for pain and inflammatory conditions, including osteoarthritis. TxGNN's top-ranked prediction for this drug, **osteoarthritis susceptibility**, is a genetic-susceptibility trait rather than a treatable clinical disease, and it is supported by **0 clinical trials** and **0 publications** — the evidence base does not currently justify pursuing this specific target.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Pain/inflammatory conditions (NSAID class) — osteoarthritis and related rheumatic/musculoskeletal pain (per this drug's own evidence-pack rationale; TFDA/NPRA license-level indication text not populated in this dataset) |
-| Predicted New Indication | Osteoarthritis susceptibility |
-| TxGNN Prediction Score | 99.998% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 15 |
-| Recommended Decision | Hold |
+Ketoprofen ialah ubat anti-keradangan bukan steroid (NSAID) yang sudah mapan dan dipasarkan di Malaysia untuk kesakitan dan keadaan keradangan, termasuk osteoarthritis. Ramalan teratas TxGNN untuk ubat ini, **kerentanan osteoarthritis**, adalah sifat kerentanan genetik dan bukannya penyakit klinikal yang boleh dirawat, dan ia disokong oleh **0 percubaan klinikal** dan **0 penerbitan** — asas bukti pada masa ini tidak mencukupi untuk mengejar sasaran tertentu ini.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Cepat
 
-Currently, detailed mechanism of action data is not available (DrugBank query returned no MOA record). Based on the mechanistic rationale attached to this candidate in the evidence pack, ketoprofen is a non-selective COX-1/COX-2 inhibitor of the propionic acid NSAID class, acting by suppressing prostaglandin synthesis to relieve pain and inflammation.
-
-However, "osteoarthritis susceptibility" is explicitly flagged in the evidence pack as a **GWAS/genetic-susceptibility node**, not a diagnosable or treatable clinical disease entity. An NSAID cannot intervene on genetic susceptibility itself — it acts downstream, on inflammation and pain once osteoarthritis is clinically manifest. The model's very high confidence score most plausibly reflects that this node sits close to the "osteoarthritis" disease node in the knowledge-graph embedding space, rather than a genuine, actionable new therapeutic signal.
-
-Notably, this same evidence pack shows that ketoprofen already has strong, real-world evidence for osteoarthritis itself (a separate, lower-ranked entry: L1 evidence level, 20 clinical trials, 20 publications) — but that represents its **existing, long-standing indication**, not a novel repurposing opportunity. The top-ranked "susceptibility" prediction should be treated as a distinct, non-actionable model artifact rather than an extension of that established use.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Kesakitan/keadaan keradangan (kelas NSAID) — osteoarthritis dan kesakitan reumatik/muskuloskeletik yang berkaitan (mengikut rasional pakej bukti ubat ini; teks indikasi peringkat lesen TFDA/NPRA tidak dipenuhi dalam set data ini) |
+| Indikasi Baru yang Diramalkan | Kerentanan osteoarthritis |
+| Skor Ramalan TxGNN | 99.998% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 15 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available.
+Pada masa kini, data mekanisme tindakan terperinci tidak tersedia (pertanyaan DrugBank tidak mengembalikan rekod MOA). Berdasarkan rasional mekanis yang dilampirkan kepada calon ini dalam pakej bukti, ketoprofen ialah perencat COX-1/COX-2 yang tidak pilih-asih, sejenis ubat NSAID asid propionik, bertindak dengan menekan sintesis prostaglandin untuk meredakan kesakitan dan keradangan.
 
----
+Walau bagaimanapun, "kerentanan osteoarthritis" secara jelas ditandai dalam pakej bukti sebagai nod **GWAS/kerentanan genetik**, bukan entiti penyakit klinikal yang dapat didiagnosis atau dirawat. Ubat NSAID tidak boleh bertindak ke atas kerentanan genetik itu sendiri — ia bertindak hilir, pada keradangan dan kesakitan apabila osteoarthritis secara klinikal terbukti. Skor keyakinan model yang sangat tinggi paling mungkin mencerminkan bahawa nod ini terletak berhampiran nod penyakit "osteoarthritis" dalam ruang pembenaman graf pengetahuan, bukannya isyarat terapeutik baru yang tulin dan boleh dilaksanakan.
 
-## Malaysia Market Information
-
-NPRA records confirm the drug is marketed with **15 total registrations**, but this dataset did not capture individual authorization numbers, product names, dosage forms, or indication text for the top 5 licenses (all fields returned empty). Registration-level detail needs to be pulled directly from the NPRA product database before this section can be completed.
+Perlu diperhatikan, pakej bukti yang sama menunjukkan bahawa ketoprofen sudah mempunyai bukti dunia nyata yang kuat untuk osteoarthritis itu sendiri (entri berkaitan yang lebih rendah: tahap bukti L1, 20 percubaan klinikal, 20 penerbitan) — tetapi itu mewakili **indikasi sedia ada dan lama** ubat ini, bukan peluang repurposing novel. Ramalan "kerentanan" teratas harus dianggap sebagai artifak model yang berbeza dan tidak boleh dilaksanakan dan bukannya lanjutan penggunaan yang sudah mapan itu.
 
 ---
 
-## Safety Considerations
+## Bukti Percubaan Klinikal
 
-Please refer to the package insert for safety information.
+Pada masa kini tiada percubaan klinikal yang berkaitan didaftarkan.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Kesusasteraan
 
-**Decision: Hold**
+Pada masa kini tiada kesusasteraan yang berkaitan tersedia.
 
-**Rationale:**
-The top-ranked TxGNN prediction, osteoarthritis susceptibility, is not a treatable clinical entity and has zero supporting clinical trials or literature — there is no evidentiary or mechanistic basis to advance it.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA label warnings and contraindications (currently a Blocking data gap — required before any S1 safety screening)
-- DrugBank mechanism-of-action data (currently a High-severity data gap)
-- Complete NPRA license-level detail (product name, dosage form, approved indication text) for the 15 existing registrations
-- If repurposing interest continues for this drug, redirect evaluation toward this drug's mechanistically coherent, better-evidenced signals in the same evidence pack — osteoarthritis (L1) and arthropathy (L2) — noting these represent existing/overlapping uses rather than novel indications, so any "repurposing" framing there would need separate justification (e.g., new formulation, route, or patient population)
+## Maklumat Pasaran Malaysia
+
+Rekod NPRA mengesahkan ubat ini dipasarkan dengan **15 pendaftaran jumlah**, tetapi set data ini tidak menangkap nombor kebenaran individu, nama produk, bentuk dos, atau teks indikasi untuk lima lesen teratas (semua bidang dikembalikan kosong). Perincian peringkat pendaftaran perlu ditarik terus dari pangkalan data produk NPRA sebelum bahagian ini dapat diselesaikan.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk lembaran maklumat paket untuk maklumat keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Ramalan TxGNN teratas, kerentanan osteoarthritis, bukan entiti klinikal yang dapat dirawat dan mempunyai sifar percubaan klinikal atau kesusasteraan yang menyokong — tiada asas bukti atau mekanis untuk memajukannya.
+
+**Untuk meneruskan, perkara-perkara berikut diperlukan:**
+- Amaran label TFDA/NPRA dan kontraindikasi (pada masa kini jurang data yang menghalang — diperlukan sebelum sebarang saringan keselamatan S1)
+- Data mekanisme tindakan DrugBank (pada masa kini jurang data berletak tinggi)
+- Perincian peringkat lesen NPRA yang lengkap (nama produk, bentuk dos, teks indikasi yang diluluskan) untuk 15 pendaftaran sedia ada
+- Sekiranya minat repurposing diteruskan untuk ubat ini, arahkan semula penilaian ke arah isyarat ubat ini yang koheren mekanis dan lebih bukti dalam pakej bukti yang sama — osteoarthritis (L1) dan arthropathy (L2) — dengan catatan ini mewakili penggunaan sedia ada/bertindih dan bukannya indikasi novel, jadi sebarang framing "repurposing" di sana memerlukan justifikasi berasingan (cth., formulasi baru, laluan, atau populasi pesakit)
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,70 +29,71 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Potassium Acetate: From Electrolyte Replacement to Renal Tubular Acidosis
+# Potassium Acetate: Dari Penggantian Elektrolit kepada Asidosis Tubular Ginjal
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Potassium acetate is a potassium and alkali-providing salt, conventionally used to correct hypokalemia and metabolic acidosis via parenteral or oral supplementation. The TxGNN model predicts it may be effective for **Renal Tubular Acidosis**, though currently this direction is supported only by **0 clinical trials** and **9 literature references**, most of which describe the disease's electrolyte disturbances rather than direct treatment trials of this drug.
+Potassium acetate adalah garam penyedia kalium dan alkali, digunakan secara konvensional untuk membetulkan hipokalemia dan asidosis metabolik melalui suplemen parenteral atau oral. Model TxGNN meramalkan ia mungkin berkesan untuk **Asidosis Tubular Ginjal**, meskipun pada masa ini hala tuju ini disokong hanya oleh **0 percubaan klinikal** dan **9 rujukan literatur**, kebanyakannya menerangkan gangguan elektrolit penyakit daripada percubaan rawatan langsung ubat ini.
 
-## Quick Overview
+## Pandangan Cepat
 
-| Item | Content |
-|------|------|
-| Original Indication | Not specified in current registration data (potassium acetate is generically used as a potassium/alkali replacement agent) |
-| Predicted New Indication | Renal Tubular Acidosis |
-| TxGNN Prediction Score | 99.90% |
-| Evidence Level | L5 |
-| Malaysia Market Status | Marketed (Marketed) |
-| Number of Registrations | 8 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|---------|
+| Petunjuk Asal | Tidak ditentukan dalam data pendaftaran semasa (potassium acetate digunakan secara umum sebagai agen penggantian kalium/alkali) |
+| Petunjuk Baru Ramalan | Asidosis Tubular Ginjal |
+| Skor Ramalan TxGNN | 99.90% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 8 |
+| Keputusan Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Masuk Akal?
 
-Detailed mechanism of action data is currently not available for potassium acetate in this evidence pack. Based on general pharmacological knowledge, potassium acetate is metabolized (primarily hepatically) to bicarbonate, thereby supplying both potassium ions and systemic alkali. This dual action is the same principle behind established alkali-replacement therapies for renal tubular acidosis (RTA).
+Data mekanisme tindakan terperinci tidak tersedia pada masa ini untuk potassium acetate dalam pakej bukti ini. Berdasarkan pengetahuan farmakologi umum, potassium acetate dimetaboliskan (terutamanya hepatik) kepada bikarbonat, dengan itu membekalkan ion kalium dan alkali sistemik. Tindakan dwi ini adalah prinsip yang sama di sebalik terapi penggantian alkali yang telah mantap untuk Asidosis Tubular Ginjal (RTA).
 
-Renal tubular acidosis — particularly distal (type 1) and hyperkalemic (type 4) forms — is characterized by impaired renal acid handling that produces hyperchloremic metabolic acidosis, frequently combined with either hypokalemia or hyperkalemia depending on subtype. Standard management of RTA already relies on alkalinizing potassium salts (e.g., potassium citrate or potassium bicarbonate) to correct both the acid-base disturbance and the associated potassium abnormality. This is consistent with the literature retrieved for this candidate, which largely describes cases of hyperchloremic acidosis and potassium disturbances (hypokalemic and hyperkalemic variants) rather than direct efficacy studies of potassium acetate itself.
+Asidosis Tubular Ginjal — terutamanya bentuk distal (jenis 1) dan hiperkalemik (jenis 4) — dicirikan oleh pengendalian asid ginjal yang lemah yang menghasilkan asidosis metabolik hiperkloremik, sering digabungkan dengan sama ada hipokalemia atau hiperkalemia bergantung pada subtip. Pengurusan RTA piawai sudah bergantung pada garam kalium alkalisasi (cth., kalium sitrat atau kalium bikarbonat) untuk membetulkan gangguan asid-bes dan abnormaliti kalium yang berkaitan. Ini konsisten dengan literatur yang diambil untuk calon ini, yang sebagian besar menerangkan kes asidosis hiperkloremik dan gangguan kalium (varian hipokalemik dan hiperkalemik) daripada kajian keberkesanan potassium acetate secara langsung.
 
-Mechanistically, therefore, the TxGNN prediction is plausible: a drug that supplies both potassium and bicarbonate-equivalent alkali would be expected to address the core physiological deficits of RTA. However, none of the retrieved literature directly evaluates potassium acetate as a treatment for RTA — the evidence is indirect (disease pathophysiology and related potassium-disorder case reports), which limits confidence at this stage.
+Secara mekanistik, oleh itu, ramalan TxGNN adalah munasabah: ubat yang membekalkan kalium dan alkali bersetara bikarbonat dijangka menangani kecacatan fisiologi inti RTA. Walau bagaimanapun, tiada literatur yang diambil menilai potassium acetate secara langsung sebagai rawatan untuk Asidosis Tubular Ginjal (RTA) — bukti adalah tidak langsung (patofisiologi penyakit dan laporan kes berkaitan gangguan kalium), yang mengehadkan keyakinan pada peringkat ini.
 
-## Clinical Trial Evidence
+## Bukti Percubaan Klinikal
 
-Currently no related clinical trials registered.
+Pada masa ini tiada percubaan klinikal terbabit yang didaftarkan.
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [33771116](https://pubmed.ncbi.nlm.nih.gov/33771116/) | 2021 | RCT | BMC Nephrology | Randomized trial comparing 0.9% NaCl vs. Plasma-Lyte on kidney injury biomarkers and tubular transport proteins after hip replacement; isotonic saline linked to hyperchloremic acidosis risk |
-| [6758113](https://pubmed.ncbi.nlm.nih.gov/6758113/) | 1982 | Review | Schweizerische medizinische Wochenschrift | Review of hyporeninemic hypoaldosteronism and differential diagnosis of hyperkalemia, a mechanism relevant to hyperkalemic RTA |
-| [239022](https://pubmed.ncbi.nlm.nih.gov/239022/) | 1975 | Preclinical study | The Journal of Clinical Investigation | Animal study on effect of volume expansion on renal citrate/ammonia metabolism in potassium-chloride-deficient rats |
-| [37224266](https://pubmed.ncbi.nlm.nih.gov/37224266/) | 2023 | Case report | Veterinary Medicine and Science | Case of transient distal RTA with nephrogenic diabetes insipidus after general anaesthesia, presenting hypokalemia and hyperchloremic metabolic acidosis |
-| [34442051](https://pubmed.ncbi.nlm.nih.gov/34442051/) | 2021 | Case report | Journal of Clinical Medicine | Case of patiromer-induced hypercalcemia with metabolic alkalosis and hypokalemia in a CKD patient |
-| [4015282](https://pubmed.ncbi.nlm.nih.gov/4015282/) | 1985 | Case report | Archives of Internal Medicine | Hyperkalemic distal RTA combined with selective aldosterone deficiency in a patient with lead nephropathy |
-| [3398981](https://pubmed.ncbi.nlm.nih.gov/3398981/) | 1988 | Case report | Nephron | Case demonstrating hyperkalemia as the primary driver of acidosis in hyporeninemic hypoaldosteronism |
-| [2973296](https://pubmed.ncbi.nlm.nih.gov/2973296/) | 1988 | Case report | Archives des Maladies du Coeur et des Vaisseaux | Case of hypertension with hyperkalemia and tubular acidosis (Gordon syndrome / pseudohypoaldosteronism type II) |
-| [637641](https://pubmed.ncbi.nlm.nih.gov/637641/) | 1978 | Case report | Archives of Internal Medicine | Familial hyperkalemia, hypertension, and hyporeninemia with normal aldosterone — a tubular potassium-handling defect |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|------|------|-------|----------------|
+| [33771116](https://pubmed.ncbi.nlm.nih.gov/33771116/) | 2021 | RCT | BMC Nephrology | Percubaan rawak membandingkan NaCl 0.9% vs. Plasma-Lyte pada biomarker kecederaan ginjal dan protein pengangkutan tubular selepas penggantian pinggul; salin isotoni dikaitkan dengan risiko asidosis hiperkloremik |
+| [6758113](https://pubmed.ncbi.nlm.nih.gov/6758113/) | 1982 | Ulasan | Schweizerische medizinische Wochenschrift | Ulasan mengenai hiporeninemia hipoaldosteronisme dan diagnosis pembeza hiperkalemia, mekanisme relevan kepada RTA hiperkalemik |
+| [239022](https://pubmed.ncbi.nlm.nih.gov/239022/) | 1975 | Kajian pra-klinikal | The Journal of Clinical Investigation | Kajian haiwan tentang kesan pengembangan isipadu pada metabolisme sitrat/ammonia ginjal pada tikus kekurangan kalium-klorida |
+| [37224266](https://pubmed.ncbi.nlm.nih.gov/37224266/) | 2023 | Laporan kes | Veterinary Medicine and Science | Kes RTA distal sementara dengan diabetes insipidus nefrogenik selepas anestesia am, menunjukkan hipokalemia dan asidosis metabolik hiperkloremik |
+| [34442051](https://pubmed.ncbi.nlm.nih.gov/34442051/) | 2021 | Laporan kes | Journal of Clinical Medicine | Kes hiperkalsinemia teraruh patiromer dengan alkalosis metabolik dan hipokalemia dalam pesakit dengan penyakit ginjal kronik (CKD) |
+| [4015282](https://pubmed.ncbi.nlm.nih.gov/4015282/) | 1985 | Laporan kes | Archives of Internal Medicine | RTA distal hiperkalemik digabungkan dengan kekurangan aldosteron terpilih dalam pesakit dengan nefropati plumbum |
+| [3398981](https://pubmed.ncbi.nlm.nih.gov/3398981/) | 1988 | Laporan kes | Nephron | Kes menunjukkan hiperkalemia sebagai pemacu utama asidosis dalam hiporeninemia hipoaldosteronisme |
+| [2973296](https://pubmed.ncbi.nlm.nih.gov/2973296/) | 1988 | Laporan kes | Archives des Maladies du Coeur et des Vaisseaux | Kes hipertensi dengan hiperkalemia dan asidosis tubular (Sindrom Gordon / pseudohipoaldosteronisme jenis II) |
+| [637641](https://pubmed.ncbi.nlm.nih.gov/637641/) | 1978 | Laporan kes | Archives of Internal Medicine | Hiperkalemia keluarga, hipertensi, dan hiporeninemia dengan aldosteron normal — cacat pengendalian kalium tubular |
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Potassium acetate is marketed in Malaysia with 8 total registrations (NPRA), but detailed license numbers, product names, dosage forms, and approved indication text are not yet available in the current data extract.
+Potassium acetate dipasarkan di Malaysia dengan 8 jumlah pendaftaran total (NPRA), tetapi nombor lesen terperinci, nama produk, bentuk dos, dan teks petunjuk yang diluluskan belum tersedia dalam ekstrak data semasa.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-A blocking data gap exists — TFDA/NPRA label warnings and contraindications are unavailable, preventing an S1 safety evaluation. In addition, no clinical trials directly test potassium acetate for renal tubular acidosis, and the literature evidence is indirect (disease pathophysiology and related case reports rather than drug-efficacy studies).
+**Rasional:**
+Jurang data penyekat wujud — amaran label TFDA/NPRA dan kontraindikasi tidak tersedia, menghalang penilaian keselamatan S1. Selain itu, tiada percubaan klinikal yang menguji potassium acetate secara langsung untuk Asidosis Tubular Ginjal (RTA), dan bukti literatur adalah tidak langsung (patofisiologi penyakit dan laporan kes berkaitan daripada kajian keberkesanan ubat).
 
-**To proceed, the following is needed:**
-- Official product label (warnings, contraindications) from Malaysia NPRA or manufacturer
-- DrugBank mechanism of action data for potassium acetate
-- Malaysia license details (license numbers, product names, approved indication text)
-- Targeted literature/clinical search specifically evaluating potassium- or acetate-based alkali therapy in RTA patients
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Label produk rasmi (amaran, kontraindikasi) dari NPRA Malaysia atau pengeluar
+- Data mekanisme tindakan DrugBank untuk potassium acetate
+- Butiran lesen Malaysia (nombor lesen, nama produk, teks petunjuk yang diluluskan)
+- Carian literatur/klinikal tersasaran khusus menilai terapi alkali berasaskan kalium atau asetat dalam pesakit RTA
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

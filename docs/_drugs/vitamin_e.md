@@ -29,76 +29,77 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Vitamin E: From Vitamin Supplementation to Benign Recurrent Intrahepatic Cholestasis
+# Vitamin E: Dari Suplementasi Vitamin kepada Benign Recurrent Intrahepatic Cholestasis
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Vitamin E is a fat-soluble antioxidant vitamin, widely marketed in Malaysia as a nutritional supplement (no specific disease indication recorded in this dataset). The TxGNN model predicts it may be effective for **Benign Recurrent Intrahepatic Cholestasis (BRIC)**, but this prediction is currently supported by **0 clinical trials** and **0 publications** — it rests entirely on knowledge-graph inference.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not specified in dataset (all 5 sampled licenses have blank indication text); Vitamin E is generally marketed as a vitamin/antioxidant supplement |
-| Predicted New Indication | Benign Recurrent Intrahepatic Cholestasis |
-| TxGNN Prediction Score | 99.99% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 245 |
-| Recommended Decision | Hold |
+Vitamin E adalah antioksidan yang larut dalam lemak, secara meluas dipasarkan di Malaysia sebagai suplementasi nutrisi (tiada indikasi penyakit spesifik yang tercatat dalam dataset ini). Model TxGNN meramalkan bahawa ia mungkin berkesan untuk **Benign Recurrent Intrahepatic Cholestasis (BRIC)**, namun ramalan ini pada masa ini disokong oleh **0 percubaan klinikal** dan **0 publikasi** — ia bergantung sepenuhnya kepada kesimpulan daripada graf pengetahuan.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Ringkas
 
-Currently, detailed mechanism of action data is not available (Data Gap DG002, High severity). Based on known pharmacology, Vitamin E is a fat-soluble antioxidant that requires normal bile flow for intestinal absorption.
-
-The proposed mechanistic link is indirect: Benign Recurrent Intrahepatic Cholestasis (BRIC) is caused by the same gene family (ATP8B1/ABCB11) defects that underlie the related Progressive Familial Intrahepatic Cholestasis (PFIC) spectrum. In both conditions, impaired bile flow leads to malabsorption of fat-soluble vitamins, producing secondary Vitamin E deficiency — a well-documented complication in cholestatic liver disease. TxGNN's knowledge graph appears to have connected Vitamin E to BRIC through this deficiency/repletion relationship rather than through a disease-modifying mechanism.
-
-Notably, the closely related indication ranked #2 in this evidence pack — familial intrahepatic cholestasis (PFIC) — is supported by 6 clinical trials and 8 publications documenting Vitamin E deficiency and supplementation in cholestatic pediatric liver disease. This provides indirect biological plausibility for the BRIC prediction, but no study has directly tested Vitamin E supplementation as a treatment specifically for BRIC.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Item | Kandungan |
+|------|-----------|
+| Indikasi Asal | Tidak dinyatakan dalam dataset (kesemua 5 lesen sampel mempunyai teks indikasi kosong); Vitamin E secara amnya dipasarkan sebagai suplementasi vitamin/antioksidan |
+| Indikasi Baru yang Diramalkan | Benign Recurrent Intrahepatic Cholestasis |
+| Skor Ramalan TxGNN | 99.99% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Marketed) |
+| Bilangan Pendaftaran | 245 |
+| Keputusan yang Disyorkan | Hold |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available.
+Pada masa ini, data mekanisme tindakan yang terperinci tidak tersedia (Jurang Data DG002, Keseriusan Tinggi). Berdasarkan farmakoloji yang diketahui, Vitamin E adalah antioksidan yang larut dalam lemak yang memerlukan aliran hempedu normal untuk penyerapan usus.
 
----
+Pautan mekanistik yang dicadangkan adalah tidak langsung: Benign Recurrent Intrahepatic Cholestasis (BRIC) disebabkan oleh kecacatan keluarga gen yang sama (ATP8B1/ABCB11) yang mendasari spektrum Progressive Familial Intrahepatic Cholestasis yang berkaitan (PFIC). Dalam kedua-dua keadaan, aliran hempedu yang terjejas membawa kepada malabsorpsi vitamin yang larut dalam lemak, menghasilkan kekurangan Vitamin E sekunder — komplikasi yang didokumentasikan dengan baik dalam penyakit hati kolestasi. Graf pengetahuan TxGNN nampaknya telah menghubungkan Vitamin E kepada BRIC melalui hubungan kekurangan/pemulihan ini dan bukannya melalui mekanisme pengubah penyakit.
 
-## Malaysia Market Information
-
-License-level product details (registration number, product name, dosage form, indication text) are not populated in this evidence pack. NPRA records indicate 245 total registrations for Vitamin E products in Malaysia, but no per-product fields were returned for this candidate.
+Secara ketara, indikasi yang hampir berkaitan yang disenaraikan #2 dalam pakej bukti ini — familial intrahepatic cholestasis (PFIC) — disokong oleh 6 percubaan klinikal dan 8 publikasi yang mendokumentasikan kekurangan Vitamin E dan suplementasi dalam penyakit hati kolestasi pediatrik. Ini memberikan kemungkinan biologi yang tidak langsung untuk ramalan BRIC, tetapi tiada kajian telah secara langsung menguji suplementasi Vitamin E sebagai rawatan khusus untuk BRIC.
 
 ---
 
-## Safety Considerations
+## Bukti Percubaan Klinikal
 
-Please refer to the package insert for safety information.
-
-*(Note: TFDA/NPRA label warnings and contraindications for this product are a Blocking data gap — DG001 — and must be obtained before any safety evaluation can proceed.)*
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Kesusasteraan
 
-**Decision: Hold**
+Pada masa ini tiada kesusasteraan berkaitan yang tersedia.
 
-**Rationale:**
-The top-ranked prediction (BRIC) has zero direct clinical trial or literature support and is classified as L5 (model prediction only). Combined with a Blocking safety data gap (missing label warnings/contraindications) and a High-severity MOA gap, there is insufficient evidence to advance this candidate.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert warnings and contraindications (DG001, Blocking)
-- DrugBank mechanism of action data (DG002, High)
-- Disease-specific evidence for BRIC (current supporting data only covers the related PFIC/familial intrahepatic cholestasis indication, not BRIC itself)
-- Complete license-level product data (registration numbers, approved indication text) for the 245 Malaysia registrations
+## Maklumat Pasaran Malaysia
+
+Butiran produk peringkat lesen (nombor pendaftaran, nama produk, bentuk dos, teks indikasi) tidak diisi dalam pakej bukti ini. Rekod NPRA menunjukkan 245 jumlah pendaftaran untuk produk Vitamin E di Malaysia, tetapi tiada medan per-produk dikembalikan untuk calon ini.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
+
+*(Catatan: Amaran label TFDA/NPRA dan kontraindikasi untuk produk ini adalah Jurang Data yang Menyekat — DG001 — dan mesti diperolehi sebelum sebarang penilaian keselamatan dapat diteruskan.)*
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Hold**
+
+**Rasional:**
+Ramalan yang disenaraikan teratas (BRIC) mempunyai sokongan percubaan klinikal atau kesusasteraan langsung sifar dan diklasifikasikan sebagai L5 (ramalan model sahaja). Digabungkan dengan jurang data keselamatan yang Menyekat (amaran label/kontraindikasi yang hilang) dan jurang MOA keseriusan Tinggi, terdapat bukti yang tidak mencukupi untuk memajukan calon ini.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Amaran sisipan pakej TFDA/NPRA dan kontraindikasi (DG001, Menyekat)
+- Data mekanisme tindakan DrugBank (DG002, Tinggi)
+- Bukti khusus penyakit untuk BRIC (data sokongan semasa hanya meliputi indikasi kolestasis intrahepati familial/PFIC yang berkaitan, bukan BRIC sendiri)
+- Data produk peringkat lesen yang lengkap (nombor pendaftaran, teks indikasi yang diluluskan) untuk 245 pendaftaran Malaysia
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

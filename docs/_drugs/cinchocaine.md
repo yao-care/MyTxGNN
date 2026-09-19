@@ -29,79 +29,80 @@ Tahap bukti: **L5** | Indikasi diramal: **7**
 
 </div>
 
-# Cinchocaine: From Local Anesthesia to Bronchitis
+# Cinchocaine: Daripada Anestesi Lokal kepada Bronkitis
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Cinchocaine (DrugBank DB00527) is an amide-type local anesthetic established for topical/mucosal pain relief.
-The TxGNN model predicts it may be effective for **Bronchitis**, with a prediction score of **99.77%**,
-but currently **no clinical trials and no publications** support this direction — it is a pure model-level hypothesis.
+Cinchocaine (DrugBank DB00527) adalah anestesi lokal jenis amida yang telah ditubuhkan untuk pelepasan rasa sakit topikal/mukosal.
+Model TxGNN meramalkan ia mungkin berkesan untuk **Bronkitis**, dengan skor ramalan **99.77%**,
+tetapi pada masa kini **tiada percubaan klinikal dan tiada penerbitan** menyokong arah ini — ia adalah hipotesis peringkat model tulen.
 
-## Quick Overview
+## Gambaran Keseluruhan Cepat
 
-| Item | Content |
-|------|------|
-| Original Indication | Local anaesthesia (topical/mucosal use) — specific NPRA label indication text not available in source data |
-| Predicted New Indication | Bronchitis |
-| TxGNN Prediction Score | 99.77% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Anestesi lokal (penggunaan topikal/mukosal) — teks petunjuk label NPRA khusus tidak tersedia dalam data sumber |
+| Petunjuk Baru yang Diramalkan | Bronkitis |
+| Skor Ramalan TxGNN | 99.77% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Adalah Munasabah?
 
-Currently, detailed mechanism of action data is not available (flagged as a High-severity data gap). Based on known pharmacology, Cinchocaine is an amide-class local anesthetic that blocks voltage-dependent sodium channels to inhibit neural conduction, and it also has mild topical mucosal analgesic and membrane-stabilizing (weak anti-inflammatory) effects. Its established clinical use is local/topical pain relief.
+Pada masa kini, data mekanisme tindakan terperinci tidak tersedia (ditandakan sebagai jurang data keterukan Tinggi). Berdasarkan farmakologi yang diketahui, Cinchocaine adalah anestesi lokal kelas amida yang menyekat saluran natrium bergantung-voltan untuk menghalang penghantaran saraf, dan ia juga mempunyai kesan analgesik mukosal topikal ringan dan penstabilan membran (kesan antiradang yang lemah). Penggunaan klinikal yang telah ditubuhkan adalah pelepasan rasa sakit lokal/topikal.
 
-Bronchitis, by contrast, is primarily an inflammatory/infectious airway condition. The TxGNN evidence pack's own mechanistic rationale for this candidate explicitly characterizes the link as weak: cinchocaine has no established anti-inflammatory or antimicrobial pathway relevant to bronchitis, and any connection would be limited to non-specific local antitussive/analgesic effects on airway mucosa rather than a mechanism addressing the underlying pathology.
+Sebaliknya, bronkitis terutamanya adalah keadaan jalan udara yang bersifat radang/infektif. Pakej bukti TxGNN sendiri yang memberi alasan mekanis untuk calon ini secara eksplisit mencirikan pautan sebagai lemah: cinchocaine tidak mempunyai laluan antiradang atau antimikrob yang ditubuhkan yang relevan dengan bronkitis, dan sebarang sambungan hanya akan terbatas kepada kesan antitussif/analgesik bukan khusus pada mukosa jalan udara dan bukannya mekanisme yang menangani patologi asas.
 
-Given the absence of a plausible direct mechanistic pathway and the complete absence of supporting clinical or literature evidence, this candidate should be treated as an early-stage, exploratory model output rather than a pharmacologically well-grounded hypothesis.
+Memandangkan ketiadaan laluan mekanis langsung yang munasabah dan ketiadaan sepenuhnya bukti klinikal atau kesusasteraan yang menyokong, calon ini harus dianggap sebagai output model peringkat awal dan penerokaan sahaja dan bukannya hipotesis yang berdasarkan farmakologi dengan baik.
 
-## Clinical Trial Evidence
+## Bukti Percubaan Klinikal
 
-Currently no related clinical trials registered.
+Pada masa kini tiada percubaan klinikal berkaitan yang didaftarkan.
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-Currently no related literature available.
+Pada masa kini tiada kesusasteraan berkaitan yang tersedia.
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-The NPRA record confirms Cinchocaine is marketed in Malaysia with 1 active registration, but the source data does not contain populated license number, product name, dosage form, or approved-indication-text fields for this entry — these details will need to be retrieved directly from the NPRA product registry before further evaluation.
+Rekod NPRA mengesahkan Cinchocaine dipasarkan di Malaysia dengan 1 pendaftaran aktif, tetapi data sumber tidak mengandungi nombor lesen yang dipenuhi, nama produk, bentuk dos, atau medan teks petunjuk yang diluluskan untuk entri ini — butir-butir ini perlu diambil terus daripada daftar produk NPRA sebelum penilaian lanjutan.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisipan paket untuk maklumat keselamatan.
 
-*(Note: Retrieval of the NPRA label — warnings and contraindications — is flagged as a Blocking data gap; this prevents completion of even the S1 preliminary safety assessment for this candidate.)*
+*(Nota: Pengambilan label NPRA — amaran dan kontraindikasi — ditandakan sebagai jurang data Menghalang; ini menghalang selesainya penilaian keselamatan awal S1 untuk calon ini.)*
 
-## Other Model-Predicted Candidates (Same Drug)
+## Calon Lain yang Diramalkan Model (Ubat Sama)
 
-TxGNN also flagged six additional low-confidence indications for Cinchocaine, all at evidence level L5 with no supporting trials or literature, and all recommended Hold:
+TxGNN juga menandakan enam petunjuk keyakinan rendah tambahan untuk Cinchocaine, semua pada tahap bukti L5 tanpa ujian atau kesusasteraan yang menyokong, dan semua disyorkan Tahan:
 
-| Rank | Predicted Indication | Score | Mechanistic Plausibility |
-|------|----------------------|-------|---------------------------|
-| 2 | Acrodermatitis chronica atrophicans | 99.76% | None — chronic Borrelia infection; cinchocaine has no antimicrobial activity |
-| 3 | Neonatal dermatomyositis | 99.72% | None — autoimmune/complement-mediated; no immunomodulatory action |
-| 4 | Secondary childhood ILD with connective tissue disease | 99.72% | None — fibrotic/autoimmune lung pathology unrelated to sodium-channel blockade |
-| 5 | Acne keloid | 99.67% | Weak — possible symptomatic analgesia only, no antifibrotic/antimicrobial effect |
-| 6 | Hydroa vacciniforme, familial | 99.66% | None — EBV-driven photosensitivity/lymphoproliferation |
-| 7 | Amyopathic dermatomyositis | 99.65% | None — type I interferon-driven autoimmune pathology |
+| Pangkat | Petunjuk yang Diramalkan | Skor | Kebolehpercayaan Mekanis |
+|--------|----------------------|-------|---------------------------|
+| 2 | Acrodermatitis chronica atrophicans | 99.76% | Tiada — jangkitan Borrelia kronik; cinchocaine tidak mempunyai aktiviti antimikrob |
+| 3 | Dermatomyositis neonat | 99.72% | Tiada — patologi autoimmun/pelengkap; tiada tindakan imunomodulatif |
+| 4 | Penyakit paru interstisial sekunder kanak-kanak dengan penyakit jaringan ikat | 99.72% | Tiada — patologi paru berserat/autoimmun yang tidak berkaitan dengan penyekat saluran natrium |
+| 5 | Keloid jerawat | 99.67% | Lemah — kemungkinan analgesia simptomatik sahaja, tiada kesan antifibrosa/antimikrob |
+| 6 | Hydroa vacciniforme, keluarga | 99.66% | Tiada — fotosensitiviti/limfoproliferasi yang didorong oleh EBV |
+| 7 | Dermatomyositis amyopathic | 99.65% | Tiada — patologi autoimmun yang didorong oleh interferon jenis I |
 
-This pattern (uniformly high TxGNN scores with uniformly weak, non-specific mechanistic justification and zero real-world evidence) suggests these are broad model-level associations rather than drug-specific repurposing signals, and warrants caution before further investment in any single candidate.
+Corak ini (skor TxGNN yang sama tinggi dengan rasional mekanis lemah yang sama-sama seragam dan bukti dunia nyata sifar) mencadangkan ini adalah persatuan peringkat model yang luas dan bukannya isyarat penentuan ubat khusus, dan memerlukan berhati-hati sebelum pelaburan lanjutan dalam calon tunggal.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The Bronchitis prediction rests solely on a TxGNN model score (L5) with no clinical trials, no literature, and an explicitly weak mechanistic rationale. In addition, a Blocking data gap (missing NPRA label warnings/contraindications) prevents even a preliminary safety assessment, and MOA data has not been formally confirmed.
+**Rasional:**
+Ramalan Bronkitis bergantung semata-mata pada skor model TxGNN (L5) tanpa percubaan klinikal, tanpa kesusasteraan, dan rasional mekanis yang jelas lemah. Sebagai tambahan, jurang data Menghalang (amaran/kontraindikasi label NPRA yang hilang) menghalang penilaian keselamatan awal sahaja, dan data MOA belum disahkan secara rasmi.
 
-**To proceed, the following is needed:**
-- Retrieve the NPRA product label (warnings, contraindications) for the Malaysia-registered Cinchocaine product — resolves DG001 (Blocking)
-- Confirm mechanism of action via DrugBank/pharmacology reference — resolves DG002 (High)
-- Complete missing Malaysia registration details (license number, product name, dosage form, approved indication text)
-- Independent literature/preclinical search specifically for cinchocaine (or class analogs) in airway inflammation, to test the mechanistic hypothesis before committing to trial-stage evaluation
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Ambil label produk NPRA (amaran, kontraindikasi) untuk produk Cinchocaine yang didaftarkan Malaysia — menyelesaikan DG001 (Menghalang)
+- Sahkan mekanisme tindakan melalui rujukan DrugBank/farmakologi — menyelesaikan DG002 (Tinggi)
+- Selesaikan butir-butir pendaftaran Malaysia yang hilang (nombor lesen, nama produk, bentuk dos, teks petunjuk yang diluluskan)
+- Carian kesusasteraan/praklinikal bebas khusus untuk cinchocaine (atau analog kelas) dalam radang jalan udara, untuk menguji hipotesis mekanis sebelum komitmen kepada penilaian peringkat percubaan
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

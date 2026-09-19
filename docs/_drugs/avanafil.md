@@ -29,108 +29,109 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Avanafil: From Erectile Dysfunction — Repurposing Evaluation (Prediction Data Unavailable)
+# Avanafil: Daripada Disfungsi Ereksi — Penilaian Penggunaan Semula Ubat (Data Ramalan Tidak Tersedia)
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Avanafil (DrugBank: DB06237) is a selective phosphodiesterase type 5 (PDE5) inhibitor primarily used to treat erectile dysfunction, confirmed as marketed in Malaysia with 3 registered products.
-However, **no TxGNN repurposing predictions are present** in this Evidence Pack, and both mechanism of action data and package insert safety information are flagged as unresolved data gaps.
-This report documents the current data status and defines the remediation steps required before a full repurposing evaluation can proceed.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Erectile dysfunction (based on pharmacological background; not retrieved from NPRA records in this Evidence Pack) |
-| Predicted New Indication | Not available — TxGNN prediction data absent |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | Insufficient Data |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
-| Recommended Decision | **Hold** |
+Avanafil (DrugBank: DB06237) ialah penghambat fosfodiestarase jenis 5 (PDE5) yang terpilih yang digunakan terutamanya untuk merawat disfungsi ereksi, disahkan sebagai ubat berdaftar di Malaysia dengan 3 produk berdaftar.
+Walau bagaimanapun, **tiada ramalan penggunaan semula TxGNN tersedia** dalam Evidence Pack ini, dan kedua-dua data mekanisme tindakan dan maklumat keselamatan sisipan pakej telah ditandai sebagai jurang data yang belum diselesaikan.
+Laporan ini mendokumentasikan status data semasa dan menentukan langkah pemulihan yang diperlukan sebelum penilaian penggunaan semula yang lengkap dapat diteruskan.
 
 ---
 
-## Why This Evaluation Cannot Proceed
+## Gambaran Pantas
 
-Three data gaps — two of which are blocking — prevent a complete repurposing analysis from being generated at this time.
-
-**1. No TxGNN Predicted Indications**
-The `predicted_indications` array in the Evidence Pack is empty. Without a target indication from the TxGNN model, there is no repurposing candidate to evaluate. This is the fundamental input required for all downstream sections of this report.
-
-**2. Mechanism of Action Unavailable**
-Based on established pharmacology, Avanafil belongs to the same drug class as sildenafil (Viagra) and tadalafil (Cialis) — selective PDE5 inhibitors that increase cyclic GMP in vascular smooth muscle, producing vasodilation. This class has already yielded approved repurposing successes: sildenafil and tadalafil are both approved for pulmonary arterial hypertension (PAH), and tadalafil is approved for benign prostatic hyperplasia (BPH). However, formal MOA documentation from DrugBank (DB06237) must be retrieved before mechanistic reasoning can be included in a validated evidence report.
-
-**3. Package Insert Data Unavailable (Blocking for Safety Screening)**
-Key warnings and contraindications were not retrieved. For a PDE5 inhibitor, this is particularly critical: the class carries an absolute contraindication against concurrent nitrate use (risk of severe hypotension), and clinically significant interactions with strong CYP3A4 inhibitors (e.g., ketoconazole, ritonavir, clarithromycin). This data gap prevents the mandatory S1 safety screening step from being completed.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered in this Evidence Pack.
-
-> **Note:** Clinical trial evidence cannot be collected until a specific repurposing indication is identified by the TxGNN model. Once a predicted indication is available, searches of ClinicalTrials.gov and ICTRP should be conducted for that indication paired with Avanafil.
+| Item | Kandungan |
+|------|-----------|
+| Petunjuk Asal | Disfungsi ereksi (berdasarkan latar belakang farmakoloji; tidak diambil dari rekod NPRA dalam Evidence Pack ini) |
+| Petunjuk Baru yang Diramalkan | Tidak tersedia — data ramalan TxGNN tidak hadir |
+| Skor Ramalan TxGNN | T/A |
+| Paras Bukti | Data Tidak Mencukupi |
+| Status Pasaran Malaysia | ✓ Berdaftar |
+| Bilangan Pendaftaran | 3 |
+| Keputusan yang Disyorkan | **Tahan** |
 
 ---
 
-## Literature Evidence
+## Mengapa Penilaian Ini Tidak Dapat Diteruskan
 
-Currently no related literature available in this Evidence Pack.
+Tiga jurang data — dua daripadanya menghalang — menghalang analisis penggunaan semula yang lengkap daripada dijana pada masa ini.
 
-> **Note:** Literature collection requires a target indication. Upon re-running the TxGNN prediction pipeline and obtaining a candidate indication, PubMed searches should be performed accordingly.
+**1. Tiada Petunjuk Ramalan TxGNN**
+Tatasusunan `predicted_indications` dalam Evidence Pack adalah kosong. Tanpa petunjuk sasaran daripada model TxGNN, tiada calon penggunaan semula untuk dinilai. Ini adalah input asas yang diperlukan untuk semua bahagian hiliran laporan ini.
 
----
+**2. Mekanisme Tindakan Tidak Tersedia**
+Berdasarkan farmakoloji yang mapan, Avanafil termasuk dalam kelas ubat yang sama seperti sildenafil (Viagra) dan tadalafil (Cialis) — penghambat PDE5 terpilih yang meningkatkan GMP siklik dalam otot licin vaskular, menghasilkan vasodilatasi. Kelas ini telah pun menghasilkan kejayaan penggunaan semula yang diluluskan: sildenafil dan tadalafil kedua-duanya diluluskan untuk hipertensi arteri pulmonari (PAH), dan tadalafil diluluskan untuk hiperplasia prostat jinak (BPH). Walau bagaimanapun, dokumentasi MOA formal daripada DrugBank (DB06237) mesti diambil sebelum penaakulan mekanisme boleh dimasukkan dalam laporan bukti yang disahkan.
 
-## Malaysia Market Information
-
-Three product registrations are confirmed as currently marketed in Malaysia; however, detailed registration data (MAL numbers, product names, dosage forms, approved indication text) was not populated in the Evidence Pack returned by the NPRA query.
-
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------------------|--------------|-------------|---------------------|
-| (Not retrieved) | (Not retrieved) | (Not retrieved) | (Not retrieved) |
-| (Not retrieved) | (Not retrieved) | (Not retrieved) | (Not retrieved) |
-| (Not retrieved) | (Not retrieved) | (Not retrieved) | (Not retrieved) |
-
-To retrieve complete registration details, query the **NPRA e-Pharmacy database** directly using the INN "AVANAFIL". The 3 registered products are expected to carry the approved indication of erectile dysfunction.
+**3. Data Sisipan Pakej Tidak Tersedia (Menghalang untuk Penyaringan Keselamatan)**
+Amaran utama dan kontraindikasi tidak diambil. Bagi penghambat PDE5, ini amat kritikal: kelas ini membawa kontraindikasi mutlak terhadap penggunaan serentak nitrat (risiko tekanan darah rendah yang teruk), dan interaksi klinikal yang signifikan dengan penghambat CYP3A4 yang kuat (cth. ketokonazol, ritonavir, klaritromysin). Jurang data ini menghalang langkah penyaringan keselamatan S1 yang wajib daripada diselesaikan.
 
 ---
 
-## Safety Considerations
+## Bukti Ujian Klinikal
 
-Please refer to the package insert for safety information.
+Pada masa ini tiada bukti ujian klinikal berkaitan dalam Evidence Pack ini.
 
-> **Priority action required:** Retrieve the Summary of Product Characteristics (SPC) or package leaflet from the NPRA portal for all 3 registered Avanafil products. Key safety items to extract for a PDE5 inhibitor include:
-> - Contraindication with organic nitrates and nitric oxide donors (absolute)
-> - Hypotensive effects, especially in combination with antihypertensives or alpha-blockers
-> - Drug interactions with CYP3A4 inhibitors (dose adjustment required)
-> - Cardiovascular precautions in patients with recent MI, stroke, or unstable angina
+> **Nota:** Bukti ujian klinikal tidak boleh dikumpulkan sehingga petunjuk penggunaan semula yang spesifik dikenal pasti oleh model TxGNN. Setelah ramalan petunjuk yang diramalkan tersedia, pencarian ClinicalTrials.gov dan ICTRP harus dijalankan untuk petunjuk itu dipasangkan dengan Avanafil.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Kesusasteraan
 
-**Decision: Hold**
+Pada masa ini tiada kesusasteraan berkaitan tersedia dalam Evidence Pack ini.
 
-**Rationale:**
-The Evidence Pack for Avanafil is critically incomplete — no TxGNN repurposing predictions have been generated, and both MOA and safety data remain unresolved. A meaningful repurposing evaluation cannot be written in this state; all core analytical sections are blocked.
-
-**To proceed, the following is needed:**
-
-1. **Re-run the TxGNN prediction pipeline** for DB06237 (Avanafil) to generate predicted indication candidates with confidence scores
-2. **Retrieve MOA from DrugBank API** (entry DB06237) — expected to document selective PDE5 inhibition and cyclic GMP pathway
-3. **Download NPRA product package inserts** for all 3 registered products to extract:
-   - Full approved indication text (to populate the Malaysia Market table)
-   - Key warnings and contraindications
-   - Drug-drug interaction profile
-4. **Retrieve full license details** from the NPRA e-Pharmacy system (MAL numbers, product names, dosage forms, manufacturer information)
-5. **Re-generate the Evidence Pack** once data gaps DG001 and DG002 are resolved, then re-submit for a complete evaluation report
+> **Nota:** Pengumpulan kesusasteraan memerlukan petunjuk sasaran. Setelah menjalankan semula saluran ramalan TxGNN dan mendapatkan petunjuk calon, pencarian PubMed harus dilakukan sesuai dengan itu.
 
 ---
 
-> ⚠️ *This report is for research reference only and does not constitute medical advice. All drug repurposing candidates require clinical validation before any therapeutic application.*
+## Maklumat Pasaran Malaysia
+
+Tiga pendaftaran produk disahkan sebagai berdaftar pada masa ini di Malaysia; walau bagaimanapun, data pendaftaran terperinci (nombor MAL, nama produk, bentuk dos, teks petunjuk yang diluluskan) tidak diisi dalam Evidence Pack yang dikembalikan oleh pertanyaan NPRA.
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjuk yang Diluluskan |
+|------------------|-------------|-----------|--------------------------|
+| (Tidak diambil) | (Tidak diambil) | (Tidak diambil) | (Tidak diambil) |
+| (Tidak diambil) | (Tidak diambil) | (Tidak diambil) | (Tidak diambil) |
+| (Tidak diambil) | (Tidak diambil) | (Tidak diambil) | (Tidak diambil) |
+
+Untuk mendapatkan butiran pendaftaran yang lengkap, pertanyakan pangkalan data e-Farmasi NPRA secara langsung menggunakan INN "AVANAFIL". 3 produk berdaftar dijangka akan membawa petunjuk yang diluluskan bagi disfungsi ereksi.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
+
+> **Tindakan keutamaan diperlukan:** Ambil Ringkasan Ciri-ciri Produk (SPC) atau selebaran pakej daripada portal NPRA untuk semua 3 produk Avanafil berdaftar. Item keselamatan utama untuk diekstrak bagi penghambat PDE5 termasuk:
+> - Kontraindikasi dengan nitrat organik dan penderma oksida nitrik (mutlak)
+> - Kesan hipotensif, terutamanya dalam gabungan dengan ubat penurun tekanan darah atau pemblok alfa
+> - Interaksi ubat dengan penghambat CYP3A4 (pelarasan dos diperlukan)
+> - Tindakan berjaga-jaga kardiovaskular pada pesakit dengan MI baru-baru ini, strok, atau angina tidak stabil
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Alasan:**
+Evidence Pack untuk Avanafil amat tidak lengkap — tiada ramalan penggunaan semula TxGNN telah dijana, dan kedua-dua data MOA dan keselamatan kekal tidak diselesaikan. Penilaian penggunaan semula yang bermakna tidak boleh ditulis dalam keadaan ini; semua bahagian analitik teras dihalang.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+
+1. **Jalankan semula saluran ramalan TxGNN** untuk DB06237 (Avanafil) untuk menjana calon petunjuk ramalan dengan skor keyakinan
+2. **Ambil MOA daripada DrugBank API** (entri DB06237) — dijangka mendokumentasikan perencatan PDE5 terpilih dan laluan GMP siklik
+3. **Muat turun sisipan pakej produk NPRA** untuk semua 3 produk berdaftar untuk mengekstrak:
+   - Teks petunjuk yang diluluskan sepenuhnya (untuk mengisi jadual Pasaran Malaysia)
+   - Amaran dan kontraindikasi utama
+   - Profil interaksi ubat-ubat
+4. **Ambil butiran lesen lengkap** daripada sistem e-Farmasi NPRA (nombor MAL, nama produk, bentuk dos, maklumat pengilang)
+5. **Dijana semula Evidence Pack** setelah jurang data DG001 dan DG002 diselesaikan, kemudian serah semula untuk laporan penilaian yang lengkap
+
+---
+
+> ⚠️ *Laporan ini untuk rujukan penyelidikan sahaja dan tidak merupakan nasihat perubatan. Semua calon penggunaan semula ubat memerlukan pengesahan klinikal sebelum sebarang aplikasi terapeutik.*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

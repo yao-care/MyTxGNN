@@ -29,101 +29,96 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-Using the report as directly requested (a data-synthesis/writing task, not a coding or research task requiring a skill) — proceeding to generate the evaluation report from the provided Evidence Pack.
+# Lorlatinib: Daripada Kanser Paru-paru Sel Bukan Kecil Positif ALK kepada Fibromatosis Gingiva
 
-A note before the report: the Evidence Pack itself flags severe data-quality problems in this batch (disease-label/literature mismatches in ranks 4, 5, 6, 8, 10, and zero evidence for the #1-ranked candidate). I've written the report honestly rather than presenting the top TxGNN score as if it were well-supported — that's what a repurposing expert's evaluation is supposed to protect the reader from.
+## Ringkasan Satu Ayat
 
----
-
-# Lorlatinib: From ALK-Positive Non-Small Cell Lung Cancer to Gingival Fibromatosis
-
-## One-Sentence Summary
-
-> Lorlatinib is a third-generation ALK/ROS1 tyrosine kinase inhibitor; within this evidence pack's own literature it is repeatedly documented as the treatment for **ALK-positive non-small cell lung cancer (NSCLC)** (e.g., the CROWN trial series), though this is not yet reflected in the Malaysia regulatory record fields. The TxGNN model's top-ranked candidate is **Gingival Fibromatosis**, but this prediction is supported by **0 clinical trials** and **0 publications**, and the evidence pack's own mechanistic assessment states there is no known biological link. This top-ranked signal should be treated as model noise, not a genuine repurposing hypothesis.
+> Lorlatinib ialah inhibitor tirosin kinase ALK/ROS1 generasi ketiga; dalam kesusasteraan paket bukti ini sendiri ia didokumentasikan berulang kali sebagai rawatan bagi **kanser paru-paru sel bukan kecil positif ALK (NSCLC)** (cth., siri ujian CROWN), walaupun ini belum tercermin dalam medan rekod peraturan Malaysia. Calon teratas yang dipangkat oleh model TxGNN ialah **Fibromatosis Gingiva**, tetapi prediksi ini disokong oleh **0 ujian klinikal** dan **0 penerbitan**, dan penilaian mekanistik paket bukti sendiri menyatakan tiada pautan biologi yang diketahui. Isyarat teratas yang dipangkat ini harus dianggap sebagai hingar model, bukan hipotesis ujian semula ubat yang tulen.
 
 ---
 
-## Quick Overview
+## Gambaran Lejang
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | ALK-positive non-small cell lung cancer (NSCLC) — inferred from literature evidence in this pack (see rank #4/#5 rationale); not present in the Malaysia regulatory license text, which is currently empty |
-| Predicted New Indication | Gingival Fibromatosis |
-| TxGNN Prediction Score | 99.81% |
-| Evidence Level | L5 (model prediction only — no clinical trials, no literature) |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 2 (license-level detail fields are currently empty in the dataset) |
-| Recommended Decision | **Hold** |
+| Indikasi Asal | Kanser paru-paru sel bukan kecil positif ALK (NSCLC) — disimpulkan daripada bukti kesusasteraan dalam paket ini (lihat nisbah pangkat #4/#5); tidak hadir dalam teks lesen peraturan Malaysia, yang pada masa kini kosong |
+| Indikasi Baru yang Diprediksi | Fibromatosis Gingiva |
+| Skor Prediksi TxGNN | 99.81% |
+| Tahap Bukti | L5 (ramalan model sahaja — tanpa ujian klinikal, tanpa kesusasteraan) |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 2 (medan butiran peringkat lesen pada masa kini kosong dalam set data) |
+| Keputusan yang Disyorkan | **Tahan** |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Prediksi Ini Munasabah?
 
-Currently, detailed mechanism of action data is not available (`original_moa: [Data Gap]`). Based on information embedded in this evidence pack's literature (not on the empty regulatory fields), Lorlatinib is a brain-penetrant, third-generation ALK/ROS1 tyrosine kinase inhibitor, with its approved use being ALK-positive NSCLC, supported by multiple Phase 3 RCTs (CROWN study and its updates).
+Pada masa kini, data mekanisme tindakan terperinci tidak tersedia (`original_moa: [Jurang Data]`). Berdasarkan maklumat yang tertanam dalam kesusasteraan paket bukti ini (bukan pada medan peraturan yang kosong), lorlatinib ialah inhibitor tirosin kinase ALK/ROS1 generasi ketiga yang menembusi otak, dengan kegunaannya yang diluluskan ialah NSCLC positif ALK, disokong oleh pelbagai ujian bersaing rawak Fasa 3 (kajian CROWN dan kemaskini-kemasukannya).
 
-Gingival fibromatosis is a benign, non-neoplastic overgrowth of gingival connective tissue, most commonly hereditary or drug-induced (e.g., by phenytoin, cyclosporine, calcium-channel blockers). It has no established relationship to ALK signaling or receptor tyrosine kinase biology. The evidence pack's own mechanistic assessment for this candidate is explicit: *"no clinical trial or literature evidence exists; gingival fibromatosis has no known mechanistic link to the ALK pathway — this is a pure TxGNN knowledge-graph embedding similarity artifact, lacking biological support."* There is no plausible pharmacological bridge between the original indication and this prediction, and no supporting data of any kind.
+Fibromatosis gingiva ialah pertumbuhan berlebihan gingiva jaringan bersambung yang jinak dan bukan neoplastik, paling kerap herediter atau berinduksi ubat (cth., oleh phenytoin, siklosporin, penglumatan saluran kalsium). Ia tidak mempunyai kaitan yang mantap kepada signaling ALK atau biologi tirosin kinase penerima. Penilaian mekanistik paket bukti sendiri untuk calon ini adalah eksplisit: *"tiada bukti ujian klinikal atau kesusasteraan yang wujud; fibromatosis gingiva tidak mempunyai pautan mekanistik yang diketahui kepada laluan ALK — ini ialah artifak persamaan penyisipan grafik pengetahuan TxGNN tulen, kekurangan sokongan biologi."* Tiada jambatan farmakologi yang munasabah antara indikasi asal dan prediksi ini, dan tiada data sokongan apa sekalipun.
 
-It is worth noting for the record that this candidate batch shows a broader, recurring pattern: several other TxGNN-ranked candidates (ranks #4, #5, #6, #8, #10) returned literature that, on inspection, describes a *different* disease than the one nominally being evaluated (e.g., rank #5 "lung benign neoplasm" returned 20 papers that are actually about malignant ALK+ NSCLC/CROWN trial data; rank #6 "lung germ cell tumor" returned papers that are actually about ALK-driven pediatric neuroblastoma, including a real Phase 1 trial, PMID 37012551; rank #8 and #10 returned literature entirely unrelated to the nominal disease, including one batch that was actually a set of Lorlatinib adverse-event case reports). This suggests a disease-ontology/label mapping issue somewhere upstream in the retrieval pipeline for this candidate set, and it means TxGNN score/rank alone cannot be used to judge evidence quality for this batch — each candidate's literature must be manually re-verified against its stated disease label before further action. Of that set, rank #6 (mislabeled candidate, real disease = ALK-driven neuroblastoma) is the only one with a genuine biological rationale and actual trial data, and is flagged separately below as worth re-evaluating under the correct disease label rather than being discarded.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+Ia perlu dicatat untuk rekod bahawa paket calon ini menunjukkan corak berulang yang lebih luas: beberapa calon pangkat TxGNN lain (pangkat #4, #5, #6, #8, #10) mengembalikan kesusasteraan yang, apabila diperiksa, menerangkan *penyakit yang berbeza* daripada penyakit yang secara nominal dinilai (cth., pangkat #5 "neoplasma gingiva paru-paru jinak" mengembalikan 20 makalah yang sebenarnya tentang NSCLC malign ALK+/data ujian CROWN; pangkat #6 "tumor sel benih paru-paru" mengembalikan makalah yang sebenarnya tentang neuroblastoma pediatrik yang didorong ALK, termasuk ujian Fasa 1 sebenar, PMID 37012551; pangkat #8 dan #10 mengembalikan kesusasteraan yang sama sekali tidak berkaitan dengan penyakit nominal, termasuk satu kelompok yang sebenarnya merupakan satu set laporan kes kesan buruk Lorlatinib). Ini mencadangkan masalah pemetaan ontologi penyakit/label di suatu tempat di hulu dalam saluran pemerolehan untuk set calon ini, dan ini bermakna skor/pangkat TxGNN sahaja tidak dapat digunakan untuk menghakimi kualiti bukti untuk paket ini — kesusasteraan setiap calon mesti disahkan semula secara manual berbanding label penyakit yang dinyatakan sebelum tindakan lanjut. Daripada set itu, pangkat #6 (calon berlabel silap, penyakit sebenar = neuroblastoma yang didorong ALK) adalah satu-satunya dengan nisbah biologi tulen dan data ujian sebenar, dan ditandakan secara berasingan di bawah sebagai patut diusulkan semula di bawah label penyakit yang betul daripada dibuang.
 
 ---
 
-## Literature Evidence
+## Bukti Ujian Klinikal
 
-Currently no related literature available.
+Pada masa kini tiada ujian klinikal berkaitan terdaftar.
 
 ---
 
-## Malaysia Market Information
+## Bukti Kesusasteraan
 
-The dataset confirms Lorlatinib holds **2 active registrations** in Malaysia and a market status of **✓ Marketed**, but the license-level fields (authorization number, product name, dosage form, approved indication text) are all currently empty in this evidence pack and cannot be populated without fabrication.
+Pada masa kini tiada kesusasteraan berkaitan tersedia.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+---
+
+## Maklumat Pasaran Malaysia
+
+Set data mengesahkan Lorlatinib memegang **2 pendaftaran aktif** di Malaysia dan status pasaran **✓ Dipasarkan**, tetapi medan peringkat lesen (nombor kebenaran, nama produk, bentuk dos, teks indikasi yang diluluskan) semuanya pada masa kini kosong dalam paket bukti ini dan tidak dapat diisi tanpa fabrikasi.
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
 |---------|------|------|-----------|
-| *Not available in current dataset* | *Not available* | *Not available* | *Not available* |
-| *Not available in current dataset* | *Not available* | *Not available* | *Not available* |
+| *Tidak tersedia dalam set data semasa* | *Tidak tersedia* | *Tidak tersedia* | *Tidak tersedia* |
+| *Tidak tersedia dalam set data semasa* | *Tidak tersedia* | *Tidak tersedia* | *Tidak tersedia* |
 
 ---
 
-## Cytotoxicity
+## Sitotoksisiti
 
-Lorlatinib is an antineoplastic agent (ALK/ROS1 tyrosine kinase inhibitor used in NSCLC treatment, per literature within this pack), so this section applies. No structured DrugBank toxicity data was returned for this query; the entries below are drawn from the adverse-event literature present in this evidence pack (PMIDs 38554546, 30890623, 40287137, 39537504, 33789526, 31985497) rather than from a formal toxicity monograph — this should be confirmed against the product insert once available.
+Lorlatinib ialah agen antineoplastik (inhibitor tirosin kinase ALK/ROS1 yang digunakan dalam rawatan NSCLC, menurut kesusasteraan dalam paket ini), jadi bahagian ini terpakai. Tiada data toksisiti DrugBank berstruktur dipulangkan untuk pertanyaan ini; entri di bawah diambil daripada kesusasteraan kesan buruk yang ada dalam paket bukti ini (PMID 38554546, 30890623, 40287137, 39537504, 33789526, 31985497) daripada monograf toksisiti rasmi — ini harus disahkan berbanding sisipan produk apabila tersedia.
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Cytotoxicity Classification | Targeted therapy (ALK/ROS1 tyrosine kinase inhibitor); not a conventional cytotoxic agent |
-| Myelosuppression Risk | Low — literature does not identify myelosuppression as a characteristic toxicity; dominant reported toxicities are metabolic and CNS-related |
-| Emetogenicity Classification | Low (consistent with oral targeted kinase inhibitors generally) |
-| Monitoring Items | Lipid panel (cholesterol, triglycerides — hyperlipidemia/dyslipidemia repeatedly reported), body weight, CNS/mood effects, renal function (rare nephrotic syndrome case reports), pulmonary symptoms (particularly if co-administered with anti-GD2 monoclonal antibody therapy, per PMID 40551396) |
-| Handling Protection | Oral antineoplastic agent — handle per institutional hazardous/oral-chemotherapy handling policy; does not require infusional cytotoxic-drug preparation precautions |
+| Klasifikasi Sitotoksisiti | Terapi yang disasarkan (inhibitor tirosin kinase ALK/ROS1); bukan agen sitotoksik konvensional |
+| Risiko Penindasan Sum-sum Tulang | Rendah — kesusasteraan tidak mengenal pasti penindasan sum-sum tulang sebagai toksisiti ciri; toksisiti utama yang dilaporkan adalah berkaitan metabolik dan CNS |
+| Klasifikasi Emetogenisiti | Rendah (konsisten dengan inhibitor kinase tirosin oral secara amnya) |
+| Item Pemantauan | Panel lipid (kolesterol, trigliserida — hiperlipidemia/dislipidemia berulang kali dilaporkan), berat badan, kesan CNS/mood, fungsi buah pinggang (kes neprotik yang jarang dilaporkan), simptom pulmonari (khususnya jika pentadbiran bersama dengan terapi antibodi monoklon anti-GD2, menurut PMID 40551396) |
+| Perlindungan Pengendalian | Agen antineoplastik oral — kendalikan mengikut dasar pengendalian terapi oral/berbahaya institusional; tidak memerlukan langkah penyediaan ubat sitotoksik infusional |
 
 ---
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information. (Key warnings, contraindications, and drug interaction data are all currently unavailable in this dataset — DDI query returned no results, and this is flagged as a **Blocking** data gap (DG001) that prevents this candidate from proceeding to the S1 safety pre-screening stage.)
+Sila rujuk sisipan paket untuk maklumat keselamatan. (Data amaran utama, kontraindikasi, dan profil interaksi ubat semuanya pada masa kini tidak tersedia dalam set data ini — pertanyaan DDI mengembalikan tiada hasil, dan ini ditandakan sebagai jurang data **Halangan** (DG001) yang menghalang calon ini daripada berpindah ke peringkat pra-saringan keselamatan S1.)
 
 ---
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-- The top-ranked prediction (Gingival Fibromatosis) has zero supporting clinical trials, zero literature, and no plausible mechanistic link to Lorlatinib's known ALK-inhibitory activity — the evidence pack itself characterizes it as knowledge-graph noise (L5).
-- A Blocking data gap (missing product-insert warnings/contraindications, DG001) independently prevents this candidate from entering safety pre-evaluation regardless of efficacy evidence.
+**Nisbah:**
+- Prediksi teratas yang dipangkat (Fibromatosis Gingiva) mempunyai sifar ujian klinikal sokongan, sifar kesusasteraan, dan tiada pautan mekanistik yang munasabah kepada aktiviti penghambat ALK Lorlatinib yang diketahui — paket bukti sendiri mencirikannya sebagai hingar grafik pengetahuan (L5).
+- Jurang data Halangan (sisipan produk amaran/kontraindikasi yang hilang, DG001) secara bebas menghalang calon ini daripada memasuki penilaian keselamatan sebelum menilai kemanjuran apa pun.
 
-**To proceed, the following is needed:**
-- Obtain the Malaysia (NPRA) product insert — warnings, contraindications, and full DDI profile (resolves Blocking gap DG001)
-- Obtain structured DrugBank MOA and toxicity data (resolves High-severity gap DG002)
-- Populate the missing Malaysia license-level fields (product name, dosage form, indication text) for the 2 existing registrations
-- Before relying on this candidate batch's rankings at all, have the data pipeline re-verify the disease-label-to-literature mapping — at least 5 of the 10 ranked candidates in this batch returned literature describing a different disease than the one labeled
-- Separately re-evaluate rank #6 under its correct underlying disease (ALK-driven pediatric neuroblastoma, not "lung germ cell tumor") — this is the only candidate in the batch with genuine mechanistic plausibility and real trial data (PMID 37012551), and merits its own S2 research-question workup rather than being folded into this noisy ranking
+**Untuk meneruskan, yang berikut diperlukan:**
+- Dapatkan sisipan produk Malaysia (NPRA) — amaran, kontraindikasi, dan profil DDI lengkap (menyelesaikan jurang Halangan DG001)
+- Dapatkan data MOA DrugBank berstruktur dan toksisiti (menyelesaikan jurang keterukan Tinggi DG002)
+- Isi medan peringkat lesen Malaysia yang hilang (nama produk, bentuk dos, teks indikasi) untuk 2 pendaftaran sedia ada
+- Sebelum bergantung pada pangkat paket calon ini sama sekali, saluran data harus mengesahkan semula pemetaan label-penyakit-kepada-kesusasteraan — sekurang-kurangnya 5 daripada 10 calon yang dipangkat dalam paket ini mengembalikan kesusasteraan menerangkan penyakit yang berbeza daripada yang dilabel
+- Usulkan semula pangkat #6 secara berasingan di bawah penyakit asasnya yang betul (neuroblastoma pediatrik yang didorong ALK, bukan "tumor sel benih paru-paru") — ini adalah satu-satunya calon dalam paket dengan kebolehupayaan mekanistik tulen dan data ujian sebenar (PMID 37012551), dan patut penyelidikan soalan penyelidikan S2 berasingan daripada diliputi ke dalam pangkat bising ini
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

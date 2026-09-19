@@ -29,88 +29,89 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Melphalan: From Multiple Myeloma/Ovarian Cancer to Hereditary Breast-Ovarian Cancer Syndrome
+# Melphalan: Dari Multiple Myeloma/Kanser Ovarium ke Sindrom Kanser Payudara-Ovarium Herediter
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-> Melphalan is a bifunctional alkylating agent classically used for multiple myeloma and epithelial ovarian cancer. The TxGNN model predicts it may be effective for **Hereditary Breast-Ovarian Cancer Syndrome**, but this specific candidate currently has **zero clinical trials** and **zero publications** supporting it — the prediction rests entirely on a mechanistic hypothesis (DNA crosslinking in HR-deficient/BRCA-mutated cells) with no experimental confirmation.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Not specified in the supplied registry data (TFDA/NPRA indication text was not captured); melphalan's internationally recognized indications are multiple myeloma and palliative treatment of epithelial ovarian cancer |
-| Predicted New Indication | Hereditary Breast Ovarian Cancer Syndrome |
-| TxGNN Prediction Score | 99.94% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
-| Recommended Decision | Hold |
+> Melphalan adalah agen pengalkil bifungsional yang secara klasik digunakan untuk multiple myeloma dan kanser ovarium epitelial. Model TxGNN memprediksi ia mungkin efektif untuk **Sindrom Kanser Payudara-Ovarium Herediter**, tetapi calon khusus ini pada masa kini mempunyai **sifar percubaan klinikal** dan **sifar publikasi** yang menyokongnya — ramalan tersebut sepenuhnya bersandar pada hipotesis mekanis (penyambungan silang DNA dalam sel-sel kekurangan HR/bermutasi BRCA) tanpa pengesahan eksperimental.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Umum Cepat
 
-Detailed mechanism-of-action data for melphalan was not available in this evidence pack (flagged as a High-severity data gap). Based on the mechanistic rationale captured alongside this prediction, melphalan is a bifunctional nitrogen mustard alkylating agent that forms DNA interstrand crosslinks. In cells with homologous recombination (HR) repair deficiency — such as those carrying BRCA1/2 mutations, which define hereditary breast-ovarian cancer syndrome — this crosslinking damage is theoretically harder to repair, creating a potential synthetic-lethal vulnerability. This is the same class of logic that underlies the clinical use of platinum agents and PARP inhibitors in BRCA-mutated cancers, and it plausibly explains why TxGNN assigned this candidate a very high score.
-
-Melphalan already has an established history in ovarian malignancy broadly (including historical randomized comparisons against cisplatin-based regimens, and current use in high-dose conditioning regimens before stem cell transplant for various gynecologic and germ-cell tumors, per other candidates in this same evidence pack). Hereditary breast-ovarian cancer syndrome, however, is a genetic predisposition syndrome rather than a specific tumor type, and no clinical trial or publication in this dataset directly tests melphalan in that population. The mechanistic link is biologically coherent but entirely unvalidated for this specific indication.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
----
-
-## Literature Evidence
-
-Currently no related literature available.
+| Item | Kandungan |
+|------|---------|
+| Petunjuk Asal | Tidak dinyatakan dalam data daftar yang disediakan (teks petunjuk TFDA/NPRA tidak ditangkap); petunjuk yang diiktiraf secara antarabangsa untuk melphalan ialah multiple myeloma dan rawatan paliatif kanser ovarium epitelial |
+| Petunjuk Baharu yang Diramalkan | Sindrom Kanser Payudara-Ovarium Herediter |
+| Skor Ramalan TxGNN | 99.94% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 2 |
+| Keputusan yang Disyorkan | Tunda |
 
 ---
 
-## Malaysia Market Information
+## Mengapa Ramalan Ini Munasabah?
 
-The NPRA registry data supplied for this evidence pack lists **2 active authorizations** for melphalan in Malaysia (market status: marketed), but license number, product name, dosage form, and approved-indication text were not populated in the source data — these fields will need to be retrieved directly from NPRA before further use.
+Data mekanisme tindakan terperinci untuk melphalan tidak tersedia dalam pakej bukti ini (ditandai sebagai jurang data keterukan Tinggi). Berdasarkan rasional mekanis yang ditangkap bersama ramalan ini, melphalan adalah agen mustard nitrogen pengalkil bifungsional yang membentuk penyambungan silang interstrand DNA. Dalam sel dengan kekurangan pembaikan homolog (HR) — seperti sel yang membawa mutasi BRCA1/2, yang mentakrifkan sindrom kanser payudara-ovarium herediter — kerosakan penyambungan silang ini secara teorinya lebih sukar untuk dibaiki, mewujudkan kerentanan maut sintetik yang berpotensi. Ini adalah kelas logik yang sama yang mendasari penggunaan klinikal agen platinum dan perencat PARP dalam kanser bermutasi BRCA, dan ia secara munasabah menjelaskan mengapa TxGNN memberikan calon ini skor yang sangat tinggi.
 
----
-
-## Cytotoxicity
-
-Melphalan is a conventional cytotoxic chemotherapy agent (bifunctional alkylating agent, nitrogen mustard class), and all top predicted indications in this evidence pack are oncologic — this section therefore applies.
-
-| Item | Content |
-|------|------|
-| Cytotoxicity Classification | Conventional cytotoxic (alkylating agent, nitrogen mustard class) |
-| Myelosuppression Risk | High — myelosuppression (neutropenia, thrombocytopenia) is the dose-limiting toxicity, particularly pronounced in high-dose/transplant-conditioning regimens |
-| Emetogenicity Classification | Moderate at conventional oral/IV doses; high with high-dose conditioning regimens |
-| Monitoring Items | CBC with differential and platelet count, renal function, hepatic function |
-| Handling Protection | Requires standard cytotoxic/hazardous drug handling precautions |
-
-Please refer to the package insert for drug-specific toxicity thresholds, as detailed institutional toxicity data was not available in this evidence pack.
+Melphalan sudah mempunyai sejarah yang mantap dalam keganasan ovarium secara luas (termasuk perbandingan rawakan bersejarah terhadap rejimen berasaskan cisplatin, dan penggunaan semasa dalam rejimen pengkondisian dos tinggi sebelum pemindahan sel stem untuk pelbagai tumor ginekologi dan sel-benih, mengikut calon lain dalam pakej bukti ini yang sama). Sindrom kanser payudara-ovarium herediter, bagaimanapun, adalah sindrom prediposisi genetik dan bukannya jenis tumor tertentu, dan tiada percubaan klinikal atau publikasi dalam dataset ini secara langsung menguji melphalan dalam populasi tersebut. Pautan mekanis adalah koheren secara biologi tetapi sepenuhnya tidak disahkan untuk petunjuk khusus ini.
 
 ---
 
-## Safety Considerations
+## Bukti Percubaan Klinikal
 
-Please refer to the package insert for safety information.
+Pada masa kini tiada percubaan klinikal berkaitan yang didaftar.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Hold**
+Pada masa kini tiada literatur berkaitan yang tersedia.
 
-**Rationale:**
-This candidate (Hereditary Breast-Ovarian Cancer Syndrome) is supported only by a TxGNN model score and a plausible but unvalidated mechanistic hypothesis — there is no clinical trial or literature evidence (L5), consistent with the pack's own S0/Hold scoring. In addition, TFDA/NPRA safety labeling (warnings and contraindications) is a **Blocking** data gap, meaning safety review cannot even begin at this stage.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert (warnings, contraindications) — currently a blocking gap
-- DrugBank-sourced mechanism of action and toxicity profile — currently a high-severity gap
-- Preclinical or case-level evidence specifically linking melphalan to HR-deficient/BRCA-mutated tumors before considering escalation beyond Hold
-- If evidence generation is prioritized elsewhere in this pack, rank 8 (gonadal germ cell tumor, L2, "Research Question") has materially stronger existing evidence — a Phase 2 trial specifically in poor-prognosis relapsed germ-cell tumors — and may be a more productive candidate to advance first
+## Maklumat Pasaran Malaysia
+
+Data daftar NPRA yang disediakan untuk pakej bukti ini menyenaraikan **2 kebenaran aktif** untuk melphalan di Malaysia (status pasaran: dipasarkan), tetapi nombor lesen, nama produk, bentuk dos, dan teks petunjuk yang diluluskan tidak diisi dalam data sumber — medan ini perlu diambil terus dari NPRA sebelum penggunaan lebih lanjut.
+
+---
+
+## Sitotoksisiti
+
+Melphalan adalah agen kemoterapi sitotoksik konvensional (agen pengalkil bifungsional, kelas mustard nitrogen), dan semua petunjuk ramalan teratas dalam pakej bukti ini adalah onkologi — bahagian ini oleh itu terpakai.
+
+| Item | Kandungan |
+|------|---------|
+| Klasifikasi Sitotoksisiti | Sitotoksik konvensional (agen pengalkil, kelas mustard nitrogen) |
+| Risiko Penekanan Sumsum | Tinggi — penekanan sumsum tulang belakang (neutropenia, trombositopenia) ialah toksisiti pembatas dos, terutamanya ketara dalam rejimen dos tinggi/pengkondisian pemindahan |
+| Klasifikasi Emetogenisiti | Sederhana pada dos oral/IV konvensional; tinggi dengan rejimen pengkondisian dos tinggi |
+| Item Pemantauan | CBC dengan pembezaan dan kiraan plat, fungsi ginjal, fungsi hepatik |
+| Perlindungan Pengendalian | Memerlukan tindakan pengendalian ubat sitotoksik/berbahaya standard |
+
+Sila rujuk sisipan paket untuk nilai ambang toksisiti khusus ubat, kerana data toksisiti institusional terperinci tidak tersedia dalam pakej bukti ini.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan paket untuk maklumat keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Berikutnya
+
+**Keputusan: Tunda**
+
+**Rasional:**
+Calon ini (Sindrom Kanser Payudara-Ovarium Herediter) didukung hanya oleh skor model TxGNN dan hipotesis mekanis yang munasabah tetapi tidak disahkan — tiada bukti percubaan klinikal atau literatur (L5), konsisten dengan skor S0/Tunda pakej sendiri. Sebagai tambahan, pelabelan keselamatan TFDA/NPRA (amaran dan kontraindikasi) adalah jurang data **Pemblokiran**, bermakna semakan keselamatan tidak boleh dimulai pada peringkat ini.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Sisipan paket TFDA/NPRA (amaran, kontraindikasi) — pada masa kini jurang pemblokiran
+- Mekanisme tindakan dan profil toksisiti bersumber DrugBank — pada masa kini jurang keterukan tinggi
+- Bukti pra-klinikal atau peringkat kes yang secara khusus menghubungkan melphalan kepada tumor bermutasi/kekurangan HR/BRCA sebelum mempertimbangkan peningkatan melampaui Tunda
+- Jika penjanaan bukti diprioritaskan di tempat lain dalam pakej ini, pangkat 8 (tumor sel-benih gonadal, L2, "Soalan Penyelidikan") mempunyai bukti sedia ada yang jauh lebih kuat — percubaan Fasa 2 khusus dalam tumor sel-benih relaps yang tidak berguna — dan mungkin calon yang lebih produktif untuk didahulukan terlebih dahulu
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

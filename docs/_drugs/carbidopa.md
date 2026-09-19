@@ -29,81 +29,82 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-# Carbidopa: From Parkinson's Disease to Parkinsonian Disorder
+# Carbidopa: Daripada Penyakit Parkinson kepada Gangguan Parkinsonian
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Carbidopa is a peripheral dopa-decarboxylase (DDC) inhibitor used together with levodopa as standard therapy for Parkinson's disease. The TxGNN model's top-ranked prediction is **Parkinsonian Disorder**, supported by **50 clinical trials** and **19 publications** — but this term is essentially an ontology-level synonym of Parkinson's disease itself, meaning the "prediction" largely re-confirms carbidopa's already-established indication rather than surfacing a genuinely new use.
+Carbidopa ialah penghambat dopa-decarboxylase (DDC) periferal yang digunakan bersama levodopa sebagai terapi piawai untuk penyakit Parkinson. Ramalan pangkat teratas model TxGNN ialah **Gangguan Parkinsonian**, disokong oleh **50 uji klinikal** dan **19 penerbitan** — tetapi istilah ini pada asasnya merupakan sinonim peringkat ontologi bagi penyakit Parkinson itu sendiri, bermaksud "ramalan" tersebut sebagian besarnya mengesahkan kembali indikasi carbidopa yang telah ditentukan daripada menemui kegunaan yang benar-benar baru.
 
-## Quick Overview
+## Tinjauan Pantas
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Parkinson's disease, used in combination with levodopa (drawn from the evidence pack's mechanistic rationale; the formal NPRA license indication text is not available — see caveat below) |
-| Predicted New Indication | Parkinsonian Disorder |
-| TxGNN Prediction Score | 0.00% |
-| Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 12 |
-| Recommended Decision | Proceed with Guardrails |
+| Indikasi Asal | Penyakit Parkinson, digunakan dalam kombinasi dengan levodopa (diambil daripada rasional mekanistik pakej bukti; teks indikasi lesen NPRA rasmi tidak tersedia — lihat kaveat di bawah) |
+| Indikasi Baru yang Diramal | Gangguan Parkinsonian |
+| Skor Ramalan TxGNN | 0.00% |
+| Aras Bukti | L1 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 12 |
+| Keputusan yang Disyorkan | Teruskan dengan Langkah Perlindungan |
 
-**Important caveat:** The TxGNN score for every predicted indication in this pack (ranks 1–5) is 0.0%, and the evidence pack's own rationale for rank 1 explicitly flags that "Parkinsonian Disorder" and "Parkinson Disease" (rank 4) are the same standard indication under different ontology labels, not independent candidates. This is not a typical repurposing case.
+**Kaveat penting:** Skor TxGNN untuk setiap indikasi yang diramal dalam pakej ini (pangkat 1–5) ialah 0.0%, dan rasional pakej bukti itu sendiri untuk pangkat 1 secara eksplisit menandakan bahawa "Gangguan Parkinsonian" dan "Penyakit Parkinson" (pangkat 4) ialah indikasi piawai yang sama di bawah label ontologi yang berbeza, bukan calon bebas. Ini bukan kes pengguna semula ubat yang biasa.
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Carbidopa is a peripheral dopa-decarboxylase (DDC) inhibitor. It does not cross the blood-brain barrier and has no central activity on its own; instead, it blocks the conversion of levodopa to dopamine in peripheral tissues. This reduces peripheral side effects (e.g., nausea, cardiovascular effects) and increases the amount of levodopa reaching the central nervous system, where it is converted to dopamine to relieve parkinsonian motor symptoms.
+Carbidopa ialah penghambat dopa-decarboxylase (DDC) periferal. Ia tidak menembus penghalang darah-otak dan tidak mempunyai aktiviti pusat pada dasarnya; sebaliknya, ia menyekat penukaran levodopa kepada dopamin dalam tisu periferal. Ini mengurangkan kesan sampingan periferal (cth., mual, kesan kardiovaskular) dan meningkatkan jumlah levodopa yang mencapai sistem saraf pusat, di mana ia ditukar kepada dopamin untuk meringankan gejala motor parkinsonian.
 
-Because this mechanism is the basis of carbidopa's original, well-established use alongside levodopa for Parkinson's disease, the "prediction" that carbidopa is relevant to Parkinsonian Disorder is mechanistically sound but not novel — it reflects decades of standard clinical practice rather than a new therapeutic hypothesis. The knowledge graph appears to have generated two nearly identical top entries (ranks 1 and 4) for what is clinically the same disease concept.
+Kerana mekanisme ini adalah asas penggunaan asal carbidopa yang telah ditubuhkan dengan baik di samping levodopa untuk penyakit Parkinson, ramalan bahawa carbidopa relevan dengan Gangguan Parkinsonian adalah munasabah dari segi mekanisme tetapi bukan novel — ia mencerminkan latihan klinikal piawai selama beberapa dekad daripada hipotesis terapeutik baru. Graf pengetahuan nampaknya telah menjana dua entri pangkat teratas yang hampir sama (pangkat 1 dan 4) untuk apa yang secara klinikal merupakan konsep penyakit yang sama.
 
-Formal MOA documentation (`original_moa`) is flagged as a data gap (DG002, High severity) in this evidence pack; the mechanistic description above is derived from the rationale text embedded in the model's own scoring output, not from a structured DrugBank MOA field.
+Dokumentasi MOA rasmi (`original_moa`) ditandai sebagai jurang data (DG002, keterukan Tinggi) dalam pakej bukti ini; penerangan mekanisme di atas diperoleh daripada teks rasional yang tertanam dalam keluaran penilaian model itu sendiri, bukan daripada medan MOA DrugBank yang berstruktur.
 
-## Clinical Trial Evidence
+## Bukti Uji Klinikal
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Uji | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT00143026](https://clinicaltrials.gov/study/NCT00143026) | Phase 4 | Completed | 184 | Carbidopa/levodopa/entacapone effect on quality of life (PDQ-8) in PD patients with minimal motor fluctuations |
-| [NCT00360568](https://clinicaltrials.gov/study/NCT00360568) | Phase 3 | Completed | 62 | 12-month open-label safety/efficacy of levodopa-carbidopa intestinal gel in levodopa-responsive PD |
-| [NCT00199407](https://clinicaltrials.gov/study/NCT00199407) | Phase 3 | Completed | 230 | Fixed-dose, double-blind, placebo-controlled trial of istradefylline added to levodopa/carbidopa in advanced PD with motor complications |
-| [NCT01766258](https://clinicaltrials.gov/study/NCT01766258) | Phase 2 | Completed | 117 | ODM-101 (new LD/CD/entacapone combination) vs. standard Stalevo in PD with end-of-dose motor fluctuations |
-| [NCT00880620](https://clinicaltrials.gov/study/NCT00880620) | Phase 3 | Completed | 381 | Placebo-controlled trial of three IPX066 (extended-release CD/LD) doses in PD |
-| [NCT01227655](https://clinicaltrials.gov/study/NCT01227655) | Phase 3 | Completed | 427 | BIA 9-1067 add-on to levodopa/DDCI (carbidopa or benserazide) for wearing-off phenomenon |
-| [NCT06596876](https://clinicaltrials.gov/study/NCT06596876) | Phase 3 | Recruiting | 450 | HRG2010 vs. sustained-release carbidopa-levodopa in PD with motor fluctuations |
-| [NCT04750226](https://clinicaltrials.gov/study/NCT04750226) | Phase 3 | Active, not recruiting | 118 | Open-label extension evaluating 24-hour ABBV-951 (levodopa/carbidopa phosphate) exposure in advanced PD |
-| [NCT01411137](https://clinicaltrials.gov/study/NCT01411137) | Phase 3 | Completed | 43 | Conversion study from CD-LD extended/immediate release to IPX066, with open-label extension safety follow-up |
-| [NCT06765668](https://clinicaltrials.gov/study/NCT06765668) | Phase 4 | Recruiting | 220 | Real-world efficacy and safety of CREXONT (carbidopa/levodopa extended-release capsules) in PD |
+| [NCT00143026](https://clinicaltrials.gov/study/NCT00143026) | Fasa 4 | Siap | 184 | Kesan carbidopa/levodopa/entacapone pada kualiti hidup (PDQ-8) dalam pesakit PD dengan fluktuasi motorik minimum |
+| [NCT00360568](https://clinicaltrials.gov/study/NCT00360568) | Fasa 3 | Siap | 62 | Keselamatan/keberkesanan jangka 12 bulan gel usus levodopa-carbidopa dalam PD responsif levodopa |
+| [NCT00199407](https://clinicaltrials.gov/study/NCT00199407) | Fasa 3 | Siap | 230 | Uji dosis tetap, buta ganda, terkawal plasebo bagi istradefylline ditambah levodopa/carbidopa dalam PD lanjutan dengan komplikasi motorik |
+| [NCT01766258](https://clinicaltrials.gov/study/NCT01766258) | Fasa 2 | Siap | 117 | ODM-101 (kombinasi LD/CD/entacapone baru) vs. Stalevo piawai dalam PD dengan fluktuasi motorik pelepasan akhir dosis |
+| [NCT00880620](https://clinicaltrials.gov/study/NCT00880620) | Fasa 3 | Siap | 381 | Uji terkawal plasebo bagi tiga dos IPX066 (lepasan lanjutan CD/LD) dalam PD |
+| [NCT01227655](https://clinicaltrials.gov/study/NCT01227655) | Fasa 3 | Siap | 427 | BIA 9-1067 tambahan kepada levodopa/DDCI (carbidopa atau benserazide) untuk fenomena haus-pakai |
+| [NCT06596876](https://clinicaltrials.gov/study/NCT06596876) | Fasa 3 | Mencari | 450 | HRG2010 vs. carbidopa-levodopa lepasan mampan dalam PD dengan fluktuasi motorik |
+| [NCT04750226](https://clinicaltrials.gov/study/NCT04750226) | Fasa 3 | Aktif, tidak mencari | 118 | Penilaian sambungan label terbuka bagi pendedahan ABBV-951 24 jam (levodopa/carbidopa fosfat) dalam PD lanjutan |
+| [NCT01411137](https://clinicaltrials.gov/study/NCT01411137) | Fasa 3 | Siap | 43 | Uji penukaran daripada CD-LD lepasan lanjutan/serta-merta kepada IPX066, dengan susulan keselamatan sambungan label terbuka |
+| [NCT06765668](https://clinicaltrials.gov/study/NCT06765668) | Fasa 4 | Mencari | 220 | Keberkesanan dan keselamatan dunia nyata bagi CREXONT (kapsul lepasan lanjutan carbidopa/levodopa) dalam PD |
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [25449210](https://pubmed.ncbi.nlm.nih.gov/25449210/) | 2015 | Review | Movement Disorders | Comprehensive review of levodopa pharmacokinetics/pharmacodynamics, including carbidopa's role as a decarboxylase inhibitor |
-| [30566307](https://pubmed.ncbi.nlm.nih.gov/30566307/) | 2017 | Review | Nihon Rinsho | Overview of current anti-parkinsonian drug options, including levodopa/carbidopa formulations (e.g., intestinal gel) |
-| [30361296](https://pubmed.ncbi.nlm.nih.gov/30361296/) | 2019 | Cohort | J Neurol Neurosurg Psychiatry | REIN-PD trial: behavioral/impulse-control changes after switching from dopamine agonists to levodopa/carbidopa |
-| [8787797](https://pubmed.ncbi.nlm.nih.gov/8787797/) | 1995 | PK modeling study | Biol Pharm Bull | Pharmacokinetic model of oral levodopa clarifying carbidopa's effect on levodopa disposition |
-| [9316692](https://pubmed.ncbi.nlm.nih.gov/9316692/) | 1994 | Clinical study | Clinical Neuropharmacology | PK and clinical efficacy of controlled-release levodopa/carbidopa 25/100 in untreated PD patients |
-| [3403218](https://pubmed.ncbi.nlm.nih.gov/3403218/) | 1988 | Clinical study | Italian Journal of Neurological Sciences | Peripheral pharmacokinetics of levodopa/carbidopa and relation to the on-off phenomenon |
-| [9235023](https://pubmed.ncbi.nlm.nih.gov/9235023/) | 1997 | Clinical study | Neurologia | Multicenter double-blind comparison of standard vs. slow-release levodopa/carbidopa formulations |
-| [477187](https://pubmed.ncbi.nlm.nih.gov/477187/) | 1979 | Case series | Clinical Science | Niacin depletion observed in PD patients treated with levodopa plus benserazide or carbidopa |
-| [31032135](https://pubmed.ncbi.nlm.nih.gov/31032135/) | 2019 | Case report | Case Reports in Psychiatry | Attempted suicide in a PD patient on VIM-DBS and high-dose carbidopa-levodopa; raises psychiatric safety signal |
-| [40579361](https://pubmed.ncbi.nlm.nih.gov/40579361/) | 2025 | Preclinical (rat model) | Journal of Pharmacy and Pharmacology | Neuroprotective mechanisms of vitamin E vs. levodopa/carbidopa in rotenone-induced PD model |
+| [25449210](https://pubmed.ncbi.nlm.nih.gov/25449210/) | 2015 | Ulasan | Movement Disorders | Ulasan komprehensif farmakokinetik/farmakodinamik levodopa, termasuk peranan carbidopa sebagai penghambat decarboxylase |
+| [30566307](https://pubmed.ncbi.nlm.nih.gov/30566307/) | 2017 | Ulasan | Nihon Rinsho | Tinjauan pilihan ubat anti-parkinsonian semasa, termasuk formulasi levodopa/carbidopa (cth., gel usus) |
+| [30361296](https://pubmed.ncbi.nlm.nih.gov/30361296/) | 2019 | Kohort | J Neurol Neurosurg Psychiatry | Uji REIN-PD: perubahan tingkah laku/kawalan dorongan selepas bertukar daripada agonis dopamin kepada levodopa/carbidopa |
+| [8787797](https://pubmed.ncbi.nlm.nih.gov/8787797/) | 1995 | Kajian pemodelan PK | Biol Pharm Bull | Model farmakokinetik levodopa lisan yang menjelaskan kesan carbidopa pada pelupusan levodopa |
+| [9316692](https://pubmed.ncbi.nlm.nih.gov/9316692/) | 1994 | Kajian klinikal | Clinical Neuropharmacology | PK dan keberkesanan klinikal levodopa/carbidopa 25/100 lepasan terkawal dalam pesakit PD yang belum dirawat |
+| [3403218](https://pubmed.ncbi.nlm.nih.gov/3403218/) | 1988 | Kajian klinikal | Italian Journal of Neurological Sciences | Farmakokinetik periferal levodopa/carbidopa dan hubungan dengan fenomena on-off |
+| [9235023](https://pubmed.ncbi.nlm.nih.gov/9235023/) | 1997 | Kajian klinikal | Neurologia | Perbandingan buta ganda pelbagai pusat bagi formulasi levodopa/carbidopa piawai vs. lepasan perlahan |
+| [477187](https://pubmed.ncbi.nlm.nih.gov/477187/) | 1979 | Siri kes | Clinical Science | Penipisan niasin diperhatikan dalam pesakit PD yang dirawat dengan levodopa ditambah benserazide atau carbidopa |
+| [31032135](https://pubmed.ncbi.nlm.nih.gov/31032135/) | 2019 | Laporan kes | Case Reports in Psychiatry | Percubaan bunuh diri dalam pesakit PD pada VIM-DBS dan dos tinggi carbidopa-levodopa; menimbulkan isyarat keselamatan psikiatrik |
+| [40579361](https://pubmed.ncbi.nlm.nih.gov/40579361/) | 2025 | Preklinikal (model tikus) | Journal of Pharmacy and Pharmacology | Mekanisme neuroperlindungan vitamin E vs. levodopa/carbidopa dalam model PD teraruh rotenone |
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information. (No TFDA/NPRA warnings, contraindications, or drug-interaction data are currently available in this evidence pack — resolving this is flagged as a **Blocking** data gap, see below.)
+Sila rujuk sisipan pakej untuk maklumat keselamatan. (Data amaran TFDA/NPRA, kontraindikasi, atau interaksi ubat tidak tersedia pada masa ini dalam pakej bukti ini — menyelesaikan perkara ini ditandai sebagai jurang data **Menyekat**, lihat di bawah.)
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold (pending clarification), with existing standard-of-care use continuing under guardrails**
+**Keputusan: Tangguhkan (menunggu penjelasan), dengan penggunaan piawai rawatan yang sedia ada terus berjalan di bawah langkah perlindungan**
 
-**Rationale:**
-The evidence base for carbidopa in Parkinson's disease/parkinsonian disorder is extensive and mature (L1, 50 trials, 19 publications) — but this is because it is confirming carbidopa's **existing, decades-old core indication**, not a novel repurposing signal. The pack's own rationale explicitly notes ranks 1 and 4 are duplicate ontology labels for the same disease, and all five predicted indications carry a TxGNN score of 0.0%, which undermines confidence in the ranking itself. Treat this candidate as a data-quality/ontology artifact rather than a genuine new-indication opportunity; ranks 2, 3, and 5 (juvenile-onset/atypical parkinsonism subtypes) have little to no supporting evidence (L4–L5) and should remain on Hold.
+**Rasional:**
+Asas bukti untuk carbidopa dalam penyakit Parkinson/gangguan parkinsonian adalah luas dan matang (L1, 50 uji, 19 penerbitan) — tetapi ini adalah kerana ia mengesahkan **indikasi teras carbidopa yang sedia ada beberapa dekad lalu**, bukan isyarat pengguna semula novel. Rasional pakej itu sendiri secara eksplisit mencatat pangkat 1 dan 4 adalah label ontologi duplikat untuk penyakit yang sama, dan semua lima indikasi yang diramal membawa skor TxGNN sebanyak 0.0%, yang menjejaskan keyakinan dalam kedudukan itu sendiri. Perlakukan calon ini sebagai artifak kualiti data/ontologi daripada peluang indikasi baru yang tulin; pangkat 2, 3, dan 5 (subtip parkinsonisme mula remaja/atipik) mempunyai sedikit atau tiada bukti sokongan (L4–L5) dan harus kekal pada Tangguhkan.
 
-**To proceed, the following is needed:**
-- Resolve DG001 (Blocking): obtain and parse the actual TFDA/NPRA package insert for warnings and contraindications before any safety-stage (S1) evaluation can proceed
-- Resolve DG002: source a structured DrugBank MOA record rather than relying on narrative rationale text
-- Correct/investigate the TxGNN scoring pipeline — a uniform 0.0% score across all five candidates suggests a normalization or export issue that should be fixed before this candidate set is used for prioritization
-- Deduplicate "Parkinsonian Disorder" and "Parkinson Disease" at the ontology level so future runs don't double-count the same known indication as two separate repurposing candidates
-- If genuine novel indications are the goal, re-run prediction excluding the drug's own labeled disease class to surface true candidates
+**Untuk meneruskan, yang berikut diperlukan:**
+- Selesaikan DG001 (Menyekat): perolehi dan analisis sisipan pakej TFDA/NPRA sebenar untuk amaran dan kontraindikasi sebelum mana-mana penilaian peringkat keselamatan (S1) dapat diteruskan
+- Selesaikan DG002: sumber rekod MOA DrugBank berstruktur daripada bergantung pada teks rasional naratif
+- Betulkan/selidiki saluran saringan TxGNN — skor seragam 0.0% merentasi semua lima calon mencadangkan normalisasi atau isu eksport yang harus diperbetulkan sebelum set calon ini digunakan untuk keutamaan
+- Nyahduplikat "Gangguan Parkinsonian" dan "Penyakit Parkinson" pada peringkat ontologi supaya larian masa depan tidak mengira dua kali indikasi yang sama diketahui sebagai dua calon pengguna semula berasingan
+- Jika indikasi novel tulin adalah matlamat, jalankan semula ramalan mengecualikan kelas penyakit label ubat itu sendiri untuk melayakkan calon sebenar
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,110 +29,111 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Bortezomib: Drug Repurposing Evaluation Report
+# Bortezomib: Laporan Penilaian Penggunaan Semula Ubat
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Bortezomib is a proteasome inhibitor originally approved for the treatment of multiple myeloma and mantle cell lymphoma. The current Evidence Pack contains **no TxGNN predicted indications**, and critical data gaps exist in regulatory details, mechanism of action, and safety information. This report serves as a **baseline assessment** pending data supplementation.
+Bortezomib ialah pemencil proteasom yang pada asalnya diluluskan untuk rawatan multiple myeloma dan limfoma sel mantel. Pakej Bukti semasa mengandungi **tiada petunjuk indikasi yang diramalkan oleh TxGNN**, dan jurang data kritikal wujud dalam butiran kawal selia, mekanisme tindakan, dan maklumat keselamatan. Laporan ini berfungsi sebagai **penilaian asas** menunggu penambahan data.
 
 ---
 
-## Quick Overview
+## Tinjauan Pantas
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Multiple myeloma, mantle cell lymphoma (registry details unavailable in current dataset) |
-| Predicted New Indication | — (No TxGNN predictions available) |
-| TxGNN Prediction Score | — |
-| Evidence Level | L5 (No predictions or supporting studies in this pack) |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 1 |
-| Recommended Decision | **Hold** |
+| Indikasi Asal | Multiple myeloma, limfoma sel mantel (butiran pendaftaran tidak tersedia dalam set data semasa) |
+| Indikasi Baru yang Diramalkan | — (Tiada ramalan TxGNN tersedia) |
+| Skor Ramalan TxGNN | — |
+| Tahap Bukti | L5 (Tiada ramalan atau kajian sokongan dalam pak ini) |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | **Tahan** |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, the Evidence Pack does not contain any TxGNN-predicted new indications for Bortezomib. Therefore, mechanistic plausibility analysis cannot be performed at this time.
+Pada masa ini, Pakej Bukti tidak mengandungi sebarang indikasi baru yang diramalkan oleh TxGNN untuk Bortezomib. Oleh itu, analisis kebolehkerjaan mekanik tidak dapat dilakukan pada masa ini.
 
-Based on established medical knowledge, Bortezomib (brand name: Velcade) is a reversible inhibitor of the 26S proteasome. It blocks the ubiquitin-proteasome pathway, leading to accumulation of pro-apoptotic proteins, cell cycle arrest, and apoptosis preferentially in malignant cells. This mechanism has been validated in multiple myeloma and mantle cell lymphoma.
+Berdasarkan pengetahuan perubatan yang ditubuhkan, bortezomib (nama jenama: Velcade) ialah pemencil boleh balik proteasom 26S. Ia menyekat laluan ubiquitin-proteasom, menyebabkan penumpukan protein pro-apoptotik, henti kitaran sel, dan apoptosis pilihan dalam sel ganas. Mekanisme ini telah disahkan dalam multiple myeloma dan limfoma sel mantel.
 
-The proteasome inhibition pathway has theoretical relevance to other conditions involving NF-κB signalling, protein homeostasis, or immune dysregulation. However, without specific TxGNN predictions in this Evidence Pack, no candidate indications can be evaluated. The `predicted_indications` array is empty, and this report should be revisited once predictions are generated.
-
----
-
-## Clinical Trial Evidence
-
-Currently no predicted indication is available to query clinical trial evidence against.
+Laluan perencatan proteasom mempunyai perkaitan teori kepada keadaan lain yang melibatkan isyarat NF-κB, homeostasis protein, atau diskaligaran imun. Walau bagaimanapun, tanpa ramalan TxGNN khusus dalam Pakej Bukti ini, tiada indikasi calon dapat dinilai. Tatasusunan `predicted_indications` adalah kosong, dan laporan ini harus disemak semula setelah ramalan dijana.
 
 ---
 
-## Literature Evidence
+## Bukti Ujian Klinikal
 
-Currently no predicted indication is available to query literature evidence against.
+Pada masa ini tiada indikasi yang diramalkan tersedia untuk bertanyakan bukti ujian klinikal terhadapnya.
 
 ---
 
-## Malaysia Market Information
+## Bukti Literatur
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+Pada masa ini tiada indikasi yang diramalkan tersedia untuk bertanyakan bukti literatur terhadapnya.
+
+---
+
+## Maklumat Pasaran Malaysia
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
 |------|------|------|------|
-| (Not provided) | (Not provided) | (Not provided) | (Not provided) |
+| (Tidak disediakan) | (Tidak disediakan) | (Tidak disediakan) | (Tidak disediakan) |
 
-> **Note:** The NPRA query returned 1 registration record, but the licence details (authorization number, product name, dosage form, approved indication text) are all empty in the current dataset. Data supplementation from the NPRA database is required.
+> **Nota:** Pertanyaan NPRA memulangkan 1 rekod pendaftaran, tetapi butiran lesen (nombor kebenaran, nama produk, bentuk dos, teks indikasi yang diluluskan) semuanya kosong dalam set data semasa. Penambahan data daripada pangkalan data NPRA diperlukan.
 
 ---
 
-## Cytotoxicity
+## Sitotoksisiti
 
-Bortezomib is an antineoplastic agent (proteasome inhibitor class). This section is applicable.
+Bortezomib ialah agen antineoplastik (kelas pemencil proteasom). Bahagian ini terpakai.
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Cytotoxicity Classification | Targeted therapy (Proteasome inhibitor) |
-| Myelosuppression Risk | **High** — Thrombocytopenia is the dose-limiting toxicity (cyclical pattern, nadir ~Day 11, recovery by Day 21); neutropenia is also common |
-| Emetogenicity Classification | Low to moderate |
-| Monitoring Items | CBC with differential and platelet count (before each dose), liver function (AST/ALT/bilirubin), renal function (CrCl), blood glucose, signs of peripheral neuropathy |
-| Handling Protection | Must follow cytotoxic drug handling regulations; use appropriate PPE during reconstitution and administration |
+| Pengelasan Sitotoksisiti | Terapi bertarget (Pemencil proteasom) |
+| Risiko Supresi Sumsum | **Tinggi** — Trombositopenia ialah toksisiti pembatas dos (corak kitaran, nadir ~Hari 11, pemulihan pada Hari 21); neutropenia juga biasa |
+| Pengelasan Emetogenisiti | Rendah hingga sederhana |
+| Item Pemantauan | Kiraan sel darah lengkap dengan pembezaan dan kiraan platelet (sebelum setiap dos), fungsi hati (AST/ALT/bilirubin), fungsi renal (CrCl), gula darah, tanda-tanda neuropati periferal |
+| Perlindungan Pengendalian | Mesti mematuhi peraturan pengendalian ubat sitotoksik; gunakan PPE yang sesuai semasa pelarutan dan pentadbiran |
 
 ---
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-> Please refer to the package insert for safety information.
+> Sila rujuk sisipan pakej untuk maklumat keselamatan.
 >
-> The current Evidence Pack does not contain key warnings, contraindications, or drug interaction data for Bortezomib (all flagged as Data Gaps). The following are well-established safety concerns based on published prescribing information and should be confirmed with the local package insert:
+> Pakej Bukti semasa tidak mengandungi amaran utama, kontraindikasi, atau data interaksi ubat untuk Bortezomib (semua ditandai sebagai Jurang Data). Berikut ialah kebimbangan keselamatan yang ditubuhkan berdasarkan maklumat preskripsi yang diterbitkan dan harus disahkan dengan sisipan pakej tempatan:
 >
-> - **Peripheral neuropathy** (dose-limiting; requires dose modification)
-> - **Thrombocytopenia** (cyclical; monitor platelet counts)
-> - **Hypotension**, including orthostatic hypotension
-> - **Cardiac disorders** (acute heart failure, QT prolongation)
-> - **Pulmonary toxicity** (rare but serious)
-> - **Hepatotoxicity**
-> - **Tumour lysis syndrome**
-> - **Herpes zoster reactivation** (antiviral prophylaxis recommended)
+> - **Neuropati periferal** (pembatas dos; memerlukan pengubahsuaian dos)
+> - **Trombositopenia** (kitaran; pantau kiraan platelet)
+> - **Hipotension**, termasuk hipotension ortostik
+> - **Gangguan kardiak** (kegagalan jantung akut, pemanjangan QT)
+> - **Toksisiti pulmonari** (jarang tetapi serius)
+> - **Hepatotoksisiti**
+> - **Sindrom lisis tumor**
+> - **Reaktivasi herpes zoster** (profilaksis antivirus disyorkan)
 
 ---
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The Evidence Pack is incomplete — there are no TxGNN-predicted indications to evaluate, and critical data fields (DrugBank ID, MOA, regulatory licence details, safety warnings) are missing. A meaningful repurposing assessment cannot be conducted until these gaps are resolved.
+**Rasional:**
+Pakej Bukti tidak lengkap — tiada indikasi baru yang diramalkan oleh TxGNN untuk dinilai, dan medan data kritikal (ID DrugBank, MOA, butiran lesen kawal selia, amaran keselamatan) hilang. Penilaian penggunaan semula ubat yang bermakna tidak dapat dijalankan sehingga jurang-jurang ini diselesaikan.
 
-**To proceed, the following is needed:**
+**Untuk meneruskan, yang berikut diperlukan:**
 
-1. **DrugBank ID mapping** — Bortezomib should map to DrugBank ID `DB00188`; re-run the DrugBank mapper with the corrected INN ("bortezomib" without "monohydrate" suffix)
-2. **TxGNN prediction execution** — Run the KG and/or DL prediction pipeline for Bortezomib to generate candidate indications
-3. **NPRA licence detail enrichment** — Retrieve full registration data (authorization number, product name, dosage form, approved indication text) from the NPRA database
-4. **Safety data collection** — Download and parse the local package insert to populate key warnings, contraindications, and drug interactions
-5. **MOA data retrieval** — Query DrugBank API for detailed mechanism of action (proteasome inhibition pathway, pharmacodynamics)
-6. **Evidence collection** — Once predicted indications are available, run ClinicalTrials.gov, PubMed, and ICTRP collectors for supporting evidence
+1. **Pemetaan ID DrugBank** — Bortezomib harus dipetakan ke ID DrugBank `DB00188`; jalankan semula pemetaan DrugBank dengan INN yang diperbetulkan ("bortezomib" tanpa akhiran "monohydrate")
+2. **Pelaksanaan ramalan TxGNN** — Jalankan saluran ramalan KG dan/atau DL untuk Bortezomib bagi menjana indikasi calon
+3. **Pengayaan butiran lesen NPRA** — Perolehi data pendaftaran lengkap (nombor kebenaran, nama produk, bentuk dos, teks indikasi yang diluluskan) daripada pangkalan data NPRA
+4. **Pengumpulan data keselamatan** — Muat turun dan susun sisipan pakej tempatan bagi mengisi amaran utama, kontraindikasi, dan interaksi ubat
+5. **Pengambilan data MOA** — Pertanyaan API DrugBank untuk mekanisme tindakan terperinci (laluan perencatan proteasom, farmakodinamik)
+6. **Pengumpulan bukti** — Setelah indikasi yang diramalkan tersedia, jalankan pengumpul ClinicalTrials.gov, PubMed, dan ICTRP untuk bukti sokongan
 
 ---
 
-*Disclaimer: This report is for research reference only and does not constitute medical advice. Drug repurposing candidates require clinical validation before application.*
+*Penafian: Laporan ini adalah untuk rujukan penyelidikan sahaja dan tidak membentuk nasihat perubatan. Calon penggunaan semula ubat memerlukan pengesahan klinikal sebelum aplikasi.*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,75 +29,76 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Isoniazid: From Tuberculosis to Conjunctivitis
+# Isoniazid: Dari Tuberkulosis kepada Konjunktivitis
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Isoniazid is a first-line antituberculosis drug that inhibits mycolic acid synthesis in *Mycobacterium tuberculosis*. The TxGNN model predicts it may be effective for **Conjunctivitis**, but the supporting evidence — 1 clinical trial and 20 publications — largely reflects tuberculous/phlyctenular conjunctivitis (an ocular manifestation of TB already treated with standard anti-TB regimens) and isoniazid-induced ocular adverse effects, not a genuine new mechanistic indication for general conjunctivitis.
+Isoniazid ialah ubat anti-tuberkulosis barisan pertama yang menghalang sintesis asid mikolik dalam *Mycobacterium tuberculosis*. Model TxGNN meramalkan ia mungkin berkesan untuk **Konjunktivitis**, namun bukti yang menyokong — 1 ujian klinikal dan 20 penerbitan — sebahagian besarnya mencerminkan konjunktivitis tuberkulosis/fliktenuler (manifestasi okular tuberkulosis yang sudah dirawat dengan rejimen anti-TB piawai) dan kesan sampingan okular yang diinduksi isoniazid, bukan petunjukan mekanisma baharu yang tulen untuk konjunktivitis umum.
 
-## Quick Overview
+## Gambaran Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | Tuberculosis (per repurposing rationale; NPRA license indication text not available in current data extract) |
-| Predicted New Indication | Conjunctivitis |
-| TxGNN Prediction Score | 99.36% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 6 |
-| Recommended Decision | Hold |
+| Perkara | Kandungan |
+|------|---------|
+| Petunjukan Asal | Tuberkulosis (berdasarkan rasional repurposing; teks petunjukan lesen NPRA tidak tersedia dalam ekstrak data semasa) |
+| Petunjukan Baru yang Diramalkan | Konjunktivitis |
+| Skor Ramalan TxGNN | 99.36% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 6 |
+| Keputusan yang Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data is not available (flagged as a High-severity data gap). Based on known information, isoniazid is a first-line antituberculosis agent that inhibits mycolic acid synthesis in the mycobacterial cell wall; this mechanism has no direct pharmacological relationship to conjunctivitis.
+Buat masa ini, data mekanisme tindakan terperinci tidak tersedia (ditanda sebagai keselangan data berketerukan tinggi). Berdasarkan maklumat yang diketahui, isoniazid ialah agen anti-tuberkulosis barisan pertama yang menghalang sintesis asid mikolik dalam dinding sel mikobateri; mekanisme ini tidak mempunyai hubungan farmakologi langsung dengan konjunktivitis.
 
-The apparent link between isoniazid and conjunctivitis in the evidence base is explained by two confounded phenomena rather than a genuine new indication: (1) **tuberculous/phlyctenular conjunctivitis** is a rare ocular manifestation of TB that is already treated with standard anti-TB regimens including isoniazid — this is an extension of the existing TB indication, not a new one; and (2) isoniazid has documented **ocular adverse effects** (including drug-induced conjunctivitis), meaning some literature describes isoniazid *causing* ocular symptoms rather than treating them.
+Pautan yang jelas antara isoniazid dan konjunktivitis dalam asas bukti dijelaskan oleh dua fenomena yang saling bertindih dan bukan mekanisme baharu yang tulen: (1) **konjunktivitis tuberkulosis/fliktenuler** ialah manifestasi okular tuberkulosis yang jarang yang sudah dirawat dengan rejimen anti-TB piawai termasuk isoniazid — ini ialah sambungan petunjukan TB yang sedia ada, bukan yang baru; dan (2) isoniazid mempunyai kesan sampingan okular yang telah didokumentasikan (termasuk konjunktivitis yang diinduksi ubat), bermakna sesetengah literatur menghuraikan isoniazid *menyebabkan* simptom okular daripada merawatinya.
 
-The high TxGNN score (99.36%) is most plausibly driven by a TB–conjunctivitis comorbidity edge in the knowledge graph rather than a true treatment signal, and mechanistically the prediction lacks support for conjunctivitis as a general (non-tuberculous) condition.
+Skor TxGNN yang tinggi (99.36%) paling sepatutnya didorong oleh tepi komorbiditi TB–konjunktivitis dalam graf pengetahuan daripada isyarat rawatan yang sebenar, dan secara mekanisma ramalan ini tidak mempunyai sokongan untuk konjunktivitis sebagai keadaan umum (bukan tuberkulosis).
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Ujian | Fasa | Status | Enrolmen | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT04094012](https://clinicaltrials.gov/study/NCT04094012) | Phase 3 | Completed | 490 | Compared systemic adverse drug reaction rates between 3HP (rifapentine + isoniazid) and 1HP regimens for latent TB infection. This trial evaluates safety of an isoniazid-containing regimen and is **not related to conjunctivitis treatment** (relevance graded C / unrelated). |
+| [NCT04094012](https://clinicaltrials.gov/study/NCT04094012) | Fasa 3 | Selesai | 490 | Membandingkan kadar tindak balas buruk ubat yang sistematik antara rejimen 3HP (rifapentine + isoniazid) dan 1HP untuk jangkitan tuberkulosis tertutup. Ujian ini menilai keselamatan rejimen yang mengandungi isoniazid dan **tidak berkaitan dengan rawatan konjunktivitis** (relevan dinilai C / tidak berkaitan). |
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [1363080](https://pubmed.ncbi.nlm.nih.gov/1363080/) | 1992 | Review | Optometry Clinics | Systemic drugs causing ocular effects; notes isoniazid (and isotretinoin, sulfonamides, salicylates) among drugs **associated with causing** conjunctivitis, i.e. an adverse effect, not a treatment. |
-| [14253168](https://pubmed.ncbi.nlm.nih.gov/14253168/) | 1965 | Prophylaxis study | Am Rev Respir Dis | Isoniazid prophylaxis for phlyctenular keratoconjunctivitis among Eskimos in Alaska — the most direct treatment-evidence in this set, but specific to TB-associated phlyctenular disease. |
-| [5103251](https://pubmed.ncbi.nlm.nih.gov/5103251/) | 1971 | Case report | Annales d'oculistique | Local (topical) use of isoniazid in treatment of ocular tuberculosis. |
-| [25433746](https://pubmed.ncbi.nlm.nih.gov/25433746/) | 2014 | Case report | Can J Ophthalmol | Conjunctival phlyctenulosis as a presenting sign of impending clinical tuberculosis. |
-| [33607832](https://pubmed.ncbi.nlm.nih.gov/33607832/) | 2021 | Case report | Medicine | Pediatric phlyctenular keratoconjunctivitis associated with primary sinonasal tuberculosis. |
-| [26692731](https://pubmed.ncbi.nlm.nih.gov/26692731/) | 2015 | Case report | Middle East Afr J Ophthalmol | Tuberculous conjunctivitis in an anophthalmic socket. |
-| [17133069](https://pubmed.ncbi.nlm.nih.gov/17133069/) | 2006 | Case report | Cornea | Mycobacterium tuberculosis presenting as chronic red eye (conjunctival TB). |
-| [14089390](https://pubmed.ncbi.nlm.nih.gov/14089390/) | 1964 | Case report | Arch Ophthalmol | Primary tuberculosis of the conjunctiva. |
-| [10641112](https://pubmed.ncbi.nlm.nih.gov/10641112/) | 1999 | Case report | Oftalmologia | Phlyctenular keratoconjunctivitis and lymph node tuberculosis, 28 cases. |
-| [4233886](https://pubmed.ncbi.nlm.nih.gov/4233886/) | 1968 | Case report | Arch Ophtalmol Rev Gen Ophtalmol | Tuberculosis of the bulbar conjunctiva. |
+| [1363080](https://pubmed.ncbi.nlm.nih.gov/1363080/) | 1992 | Ulasan | Optometry Clinics | Ubat sistematik yang menyebabkan kesan okular; mencatat isoniazid (dan isotretinoin, sulfonamida, salisilat) di antara ubat yang **berkaitan dengan penyebab** konjunktivitis, iaitu kesan sampingan, bukan rawatan. |
+| [14253168](https://pubmed.ncbi.nlm.nih.gov/14253168/) | 1965 | Kajian Profilaksis | Am Rev Respir Dis | Profilaksis isoniazid untuk keratokonjunktivitis fliktenuler di kalangan Orang Eskimo di Alaska — bukti rawatan paling langsung dalam set ini, namun khusus untuk penyakit fliktenuler yang berkaitan dengan tuberkulosis. |
+| [5103251](https://pubmed.ncbi.nlm.nih.gov/5103251/) | 1971 | Laporan Kes | Annales d'oculistique | Penggunaan setempat (topikal) isoniazid dalam rawatan tuberkulosis okular. |
+| [25433746](https://pubmed.ncbi.nlm.nih.gov/25433746/) | 2014 | Laporan Kes | Can J Ophthalmol | Fliktenulose konjungtiva sebagai tanda pembentangan tuberkulosis klinikal yang akan berlaku. |
+| [33607832](https://pubmed.ncbi.nlm.nih.gov/33607832/) | 2021 | Laporan Kes | Medicine | Keratokonjunktivitis fliktenuler pediatrik yang berkaitan dengan tuberkulosis sinonasal utama. |
+| [26692731](https://pubmed.ncbi.nlm.nih.gov/26692731/) | 2015 | Laporan Kes | Middle East Afr J Ophthalmol | Konjunktivitis tuberkulosis dalam soket anoftalmi. |
+| [17133069](https://pubmed.ncbi.nlm.nih.gov/17133069/) | 2006 | Laporan Kes | Cornea | *Mycobacterium tuberculosis* yang pembentangannya sebagai mata merah kronik (TB konjungtiva). |
+| [14089390](https://pubmed.ncbi.nlm.nih.gov/14089390/) | 1964 | Laporan Kes | Arch Ophthalmol | Tuberkulosis utama konjungtiva. |
+| [10641112](https://pubmed.ncbi.nlm.nih.gov/10641112/) | 1999 | Laporan Kes | Oftalmologia | Keratokonjunktivitis fliktenuler dan tuberkulosis kelenjar limfa, 28 kes. |
+| [4233886](https://pubmed.ncbi.nlm.nih.gov/4233886/) | 1968 | Laporan Kes | Arch Ophtalmol Rev Gen Ophtalmol | Tuberkulosis bulbar konjungtiva. |
 
-*Note: literature entries concerning BCG-related polyarthritis (unrelated drug/mechanism), rifampicin (drug mismatch), and toxic epidermal necrolysis (unrelated ADR) were excluded as not relevant to this indication.*
+*Nota: entri literatur berkenaan poliartritis berkaitan BCG (ubat/mekanisme tidak berkaitan), rifampisin (ketidakpadanan ubat), dan nekrolisis epidermis toksik (ADR tidak berkaitan) telah dikecualikan kerana tidak relevan dengan petunjukan ini.*
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-License-level detail (authorization numbers, product names, dosage forms, indication text) is not available in the current NPRA data extract. The registry confirms **6 licensed products** with market status "Marketed."
+Detail peringkat lesen (nombor kebenaran, nama produk, bentuk dos, teks petunjukan) tidak tersedia dalam ekstrak data NPRA semasa. Daftar mengesahkan **6 produk berlesen** dengan status pasaran "Dipasarkan."
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information. (TFDA/NPRA warning and contraindication data, and DDI data, are currently unavailable — flagged as a Blocking data gap that must be resolved before any safety pre-assessment.)
+Sila rujuk risalah pemaketan untuk maklumat keselamatan. (Data amaran dan percanggahan TFDA/NPRA, dan data DDI, buat masa ini tidak tersedia — ditanda sebagai keselangan data Pemblokiran yang mesti diselesaikan sebelum sebarang pra-penilaian keselamatan.)
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The predicted association between isoniazid and conjunctivitis is not supported by a plausible independent mechanism — the evidence base instead reflects TB-associated ocular disease (already covered by existing TB treatment) and isoniazid-induced ocular adverse effects. The single clinical trial identified is unrelated (safety comparison in latent TB treatment), and no RCT or systematic review supports isoniazid as a treatment for general conjunctivitis.
+**Rasional:**
+Perkaitan yang diramalkan antara isoniazid dan konjunktivitis tidak disokong oleh mekanisme bebas yang masuk akal — asas bukti sebaliknya mencerminkan penyakit okular yang berkaitan dengan TB (sudah dilindungi oleh rawatan TB yang sedia ada) dan kesan sampingan okular yang diinduksi isoniazid. Ujian klinikal tunggal yang dikenal pasti tidak berkaitan (perbandingan keselamatan dalam rawatan jangkitan tuberkulosis tertutup), dan tiada RCT atau ulasan sistematik menyokong isoniazid sebagai rawatan untuk konjunktivitis umum.
 
-**To proceed, the following is needed:**
-- Confirm whether the intended new indication is specifically "tuberculous/phlyctenular conjunctivitis" (a plausible extension of the existing TB indication) rather than general conjunctivitis
-- Obtain TFDA/NPRA package insert warnings, contraindications, and DDI data (currently Blocking gap)
-- Obtain confirmed mechanism of action documentation
-- If pursuing the TB-conjunctivitis angle, seek dedicated clinical evidence beyond isolated case reports
+**Untuk meneruskan, yang berikut diperlukan:**
+- Sahkan sama ada petunjukan baru yang dimaksudkan khususnya ialah "konjunktivitis tuberkulosis/fliktenuler" (sambungan yang masuk akal bagi petunjukan TB yang sedia ada) daripada konjunktivitis umum
+- Perolehi amaran risalah pemaketan TFDA/NPRA, percanggahan, dan data DDI (keselangan data Pemblokiran semasa)
+- Perolehi dokumentasi mekanisme tindakan yang disahkan
+- Jika mengejar sudut TB-konjunktivitis, cari bukti klinikal khusus di luar laporan kes terpencil
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

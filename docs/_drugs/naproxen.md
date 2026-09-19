@@ -29,76 +29,77 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Naproxen: From Pain and Inflammation (NSAID) to Spondyloarthropathy, Susceptibility To
+# Naproxen: Dari Kesakitan dan Keradangan (NSAID) kepada Spondilo-Artropati, Kerentanan Kepada
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Naproxen is a nonsteroidal anti-inflammatory drug (NSAID), originally used to relieve pain, inflammation and fever in conditions such as arthritis and musculoskeletal injury. The TxGNN model's top-ranked prediction for this drug is **Spondyloarthropathy, susceptibility to**, but this specific prediction carries a **0.00% model score** and is currently supported by **0 clinical trials** and **0 publications** — it should be treated as an unvalidated screening-level signal only.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Pain, inflammation and fever (NSAID class); exact NPRA-approved indication wording is a data gap in this pack |
-| Predicted New Indication | Spondyloarthropathy, susceptibility to |
-| TxGNN Prediction Score | 0.00% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 17 |
-| Recommended Decision | Hold |
+Naproxen ialah ubat anti-inflamasi bukan steroid (NSAID), yang digunakan pada mulanya untuk menghilangkan kesakitan, keradangan dan demam dalam keadaan seperti artritis dan kecederaan muskuloskeletal. Ramalan tertinggi model TxGNN untuk ubat ini ialah **Spondilo-Artropati, kerentanan kepada**, namun ramalan khusus ini mempunyai **skor model 0.00%** dan pada masa ini disokong oleh **0 uji klinikal** dan **0 publikasi** — ia harus diperlakukan sebagai isyarat penapisan yang belum disahkan sahaja.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Pantas
 
-Detailed mechanism-of-action data for naproxen is not available in this evidence pack (data gap). Based on known pharmacology, naproxen is a propionic-acid-derivative NSAID that non-selectively inhibits COX-1/COX-2, reducing prostaglandin-mediated inflammation and pain — this is a well-established, approved mechanism for musculoskeletal and inflammatory pain.
-
-NSAIDs as a class do have a recognized role in managing spondyloarthropathies (e.g., ankylosing spondylitis), where they are used as first-line symptomatic therapy. This provides a plausible theoretical rationale for the TxGNN association between naproxen and spondyloarthropathy susceptibility.
-
-However, this particular candidate is a **pure knowledge-graph prediction with a score of 0.0** and no supporting clinical trial or literature evidence was retrieved for it. It should be regarded as an initial screening hit only, not a substantiated repurposing signal — notably weaker than several other candidates surfaced for naproxen in the same evidence pack (see note at the end of this report).
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Kesakitan, keradangan dan demam (kelas NSAID); perkataan indikasi yang diluluskan NPRA yang tepat ialah jurang data dalam pakej ini |
+| Indikasi Baru yang Diramalkan | Spondilo-Artropati, kerentanan kepada |
+| Skor Ramalan TxGNN | 0.00% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 17 |
+| Keputusan yang Disyorkan | Tunggu |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available.
+Data mekanisme tindakan terperinci untuk naproxen tidak tersedia dalam pakej bukti ini (jurang data). Berdasarkan farmakologi yang diketahui, naproxen ialah NSAID terbitan asid propionik yang secara tidak selektif menghalang COX-1/COX-2, mengurangkan keradangan dan kesakitan yang dimediasi prostaglandin — ini ialah mekanisme yang terkenal, diluluskan untuk kesakitan muskuloskeletal dan keradangan.
 
----
+NSAID sebagai satu kelas memang mempunyai peranan yang diiktiraf dalam menguruskan spondilo-artropati (cth., spondilitis ankilosa), di mana ia digunakan sebagai terapi simptomatik lini pertama. Ini memberikan rasional teoretikal yang munasabah untuk persatuan TxGNN antara naproxen dan kerentanan spondilo-artropati.
 
-## Safety Considerations
-
-Please refer to the package insert for safety information.
+Walau bagaimanapun, calon tertentu ini ialah **ramalan graf pengetahuan tulen dengan skor 0.0** dan tiada bukti uji klinikal atau literatur yang menyokong telah diambil untuknya. Ia harus dianggap sebagai pukulan penapisan awal sahaja, bukan isyarat pengubahsuaian tujuan yang ditegakkan — ketara lebih lemah daripada beberapa calon lain yang dibuahkan untuk naproxen dalam pakej bukti yang sama (lihat nota pada akhir laporan ini).
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Uji Klinikal
 
-**Decision: Hold**
-
-**Rationale:**
-The TxGNN prediction score for this indication is 0.00%, and no clinical trials or peer-reviewed literature currently link naproxen to spondyloarthropathy susceptibility specifically. There is insufficient evidence to advance this candidate beyond initial screening (S0).
-
-**To proceed, the following is needed:**
-- Clinical trial or literature evidence directly linking naproxen to spondyloarthropathy/spondyloarthritis
-- Confirmed NPRA-approved indication wording (license-level data currently blank in this pack)
-- Mechanism of action data from DrugBank (DG002, High severity)
-- TFDA/NPRA package insert warnings and contraindications (DG001, Blocking severity — required before any S1 safety assessment)
+Pada masa ini tiada uji klinikal berkaitan yang berdaftar.
 
 ---
 
-**Note on other candidates in this evidence pack:** This pack contains four additional naproxen repurposing predictions with materially stronger evidence than the one above, and may warrant separate evaluation:
-- **Migraine disorder** (L1, S3, *Proceed with Guardrails*) — 50 clinical trials and 20 publications, including multiple completed Phase 3 RCTs supporting the FDA-approved sumatriptan/naproxen combination (Treximet).
-- **Osteoarthritis** (L1, S3, *Proceed with Guardrails*) — 50 clinical trials and 20 publications; naproxen is already an established NSAID therapy for OA.
-- **Migraine with or without aura, susceptibility to** (L2, S3, *Proceed with Guardrails*) — 20 supporting publications, mechanistically overlapping with the migraine disorder finding above.
-- **Myositis** (L4, S1, *Hold*) — 8 publications, mostly case reports of limited relevance to autoimmune myositis.
+## Bukti Literatur
+
+Pada masa ini tiada literatur berkaitan yang tersedia.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk risalah pakej untuk maklumat keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tunggu**
+
+**Rasional:**
+Skor ramalan TxGNN untuk indikasi ini ialah 0.00%, dan tiada uji klinikal atau literatur disemak rakan sejawat pada masa ini yang menghubungkan naproxen kepada kerentanan spondilo-artropati secara khusus. Bukti tidak mencukupi untuk memajukan calon ini melangkaui penapisan awal (S0).
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Bukti uji klinikal atau literatur yang secara langsung menghubungkan naproxen kepada spondilo-artropati/spondilo-artritis
+- Perkataan indikasi yang diluluskan NPRA yang disahkan (data peringkat lesen pada masa ini kosong dalam pakej ini)
+- Data mekanisme tindakan dari DrugBank (DG002, Keterukan Tinggi)
+- Amaran risalah pakej TFDA/NPRA dan kontraindikasi (DG001, Keterukan Penyekatan — diperlukan sebelum sebarang penilaian keselamatan S1)
+
+---
+
+**Nota tentang calon-calon lain dalam pakej bukti ini:** Pakej ini mengandungi empat ramalan pengubahsuaian tujuan naproxen tambahan dengan bukti yang jauh lebih kuat daripada yang di atas, dan mungkin patut dinilai secara berasingan:
+- **Gangguan migrain** (L1, S3, *Teruskan dengan Pengawal*) — 50 uji klinikal dan 20 publikasi, termasuk pelbagai RCT Fasa 3 yang selesai menyokong kombinasi sumatriptan/naproxen yang diluluskan FDA (Treximet).
+- **Osteoartritis** (L1, S3, *Teruskan dengan Pengawal*) — 50 uji klinikal dan 20 publikasi; naproxen sudah merupakan terapi NSAID yang ditegakkan untuk OA.
+- **Migrain dengan atau tanpa aura, kerentanan kepada** (L2, S3, *Teruskan dengan Pengawal*) — 20 publikasi yang menyokong, mekanisme bertindih dengan penemuan gangguan migrain di atas.
+- **Miosititis** (L4, S1, *Tunggu*) — 8 publikasi, kebanyakannya laporan kes dengan kekaitan terbatas kepada miosititis autoimun.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

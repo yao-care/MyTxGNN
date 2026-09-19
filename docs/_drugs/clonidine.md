@@ -29,90 +29,91 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Clonidine: From Hypertension to Attention-Deficit/Hyperactivity Disorder (ADHD)
+# Klonidina: Daripada Hipertensi kepada Gangguan Kurang Perhatian/Hiperaktiviti (ADHD)
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Clonidine is a centrally-acting α2-adrenergic agonist, classically used to treat hypertension. The TxGNN model predicts it may also be effective for **Attention-Deficit/Hyperactivity Disorder (ADHD)** — an indication already supported by **17 clinical trials** (including four completed Phase 3 RCTs) and **19 publications**, and already approved elsewhere as Kapvay/CLONICEL (clonidine extended-release). A closely related model output, "ADHD, inattentive type," scored almost identically but has no independent evidence — it is a DSM subtype of the same disease entity and should be read as inheriting the ADHD evidence below, not as a separate data gap.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Hypertension (established pharmacological indication; the Malaysia NPRA registration record exists but its label text was not captured in this data pack — see note in Safety Considerations) |
-| Predicted New Indication | Attention-Deficit/Hyperactivity Disorder (ADHD) |
-| TxGNN Prediction Score | 99.9996% (model rank 25; the "inattentive type" subtype entry scored 99.9997%, model rank 22) |
-| Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Proceed with Guardrails |
+Klonidina adalah agonis α2-adrenergik yang bekerja sentral, secara klasik digunakan untuk mengobati hipertensi. Model TxGNN memprediksi bahawa ia juga mungkin berkesan untuk **Gangguan Kurang Perhatian/Hiperaktiviti (ADHD)** — suatu indikasi yang sudah disokong oleh **17 percobaan klinis** (termasuk empat RCT Fase 3 yang telah selesai) dan **19 publikasi**, dan sudah diluluskan di tempat lain sebagai Kapvay/CLONICEL (klonidina pelepasan lanjutan). Keluaran model yang berkaitan rapat, "ADHD, jenis kurang perhatian," menghasilkan skor hampir sama tetapi tidak mempunyai bukti independen — ini adalah subtipe DSM bagi entiti penyakit yang sama dan harus dibaca sebagai mewarisi bukti ADHD di bawah, bukan sebagai jurang data berasingan.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Pantas
 
-Clonidine is a centrally-acting α2A-adrenergic receptor agonist. α2A-agonism strengthens prefrontal cortex signal transmission by reducing noradrenergic tone at postsynaptic α2A receptors — this is not a speculative mechanism but the actual FDA-approved mechanism behind Kapvay (clonidine extended-release), approved in 2010 as monotherapy or adjunctive therapy for ADHD. In other words, this is not an exploratory repurposing signal; it reflects an indication already established for the same molecule under a different brand/formulation.
-
-The two top-ranked TxGNN outputs — "attention deficit-hyperactivity disorder" and "attention deficit hyperactivity disorder, inattentive type" — are the same underlying disease entity. The inattentive subtype is a DSM-5 clinical descriptor of ADHD rather than a biologically distinct condition, and approved clonidine ER labeling does not differentiate by subtype. The inattentive-type node therefore has no independent trial or literature evidence in this pack; its supporting evidence should be read as inherited from the general ADHD entry below.
-
-Detailed formal MOA annotation (e.g., DrugBank structured data) is flagged as a data gap in this evidence pack. Based on the mechanistic rationale captured from the evidence itself, clonidine's α2A-agonist activity is pharmacologically consistent with its established, FDA-approved role in ADHD management alongside stimulants and other non-stimulants (atomoxetine, guanfacine).
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Hipertensi (indikasi farmakologi yang telah ditetapkan; rekod pendaftaran NPRA Malaysia wujud tetapi teks labelnya tidak ditangkap dalam pakej data ini — lihat nota dalam Pertimbangan Keselamatan) |
+| Indikasi Ramalan | Gangguan Kurang Perhatian/Hiperaktiviti (ADHD) |
+| Skor Ramalan TxGNN | 99.9996% (pangkat model 25; entri subtipe "jenis kurang perhatian" menghasilkan skor 99.9997%, pangkat model 22) |
+| Tahap Bukti | L1 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan Disyorkan | Teruskan dengan Penjaga |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Klonidina adalah agonis reseptor α2A-adrenergik yang bekerja sentral. Agonisme α2A mengukuhkan penghantaran isyarat korteks prefrontal dengan mengurangkan ton noradrenergik di reseptor α2A postsinaptik — ini bukan mekanisme spekulatif tetapi mekanisme sebenar di sebalik Kapvay (klonidina pelepasan lanjutan) yang diluluskan FDA, diluluskan pada 2010 sebagai monoterapi atau terapi adjunktif untuk ADHD. Dengan kata lain, ini bukan isyarat penemuan semula yang eksploratori; ia mencerminkan indikasi yang sudah ditetapkan untuk molekul yang sama di bawah jenama/formulasi yang berbeza.
+
+Dua keluaran TxGNN berpangkat tertinggi — "attention deficit-hyperactivity disorder" dan "attention deficit hyperactivity disorder, inattentive type" — adalah entiti penyakit asas yang sama. Subtipe kurang perhatian adalah deskriptor klinis DSM-5 ADHD dan bukannya keadaan yang berbeza secara biologis, dan pelabelan klonidina ER yang diluluskan tidak membezakan mengikut subtipe. Nod subtipe kurang perhatian oleh itu tidak mempunyai bukti percobaan atau sastera independen dalam pakej ini; bukti sokongannya harus dibaca sebagai diwarisi daripada entri ADHD umum di bawah.
+
+Anotasi mekanisme formal terperinci (cth., data berstruktur DrugBank) dibenderakan sebagai jurang data dalam pakej bukti ini. Berdasarkan rasional mekanik yang ditangkap daripada bukti itu sendiri, aktiviti agonis α2A klonidina adalah konsisten dari segi farmakologi dengan peranannya yang ditetapkan dan diluluskan FDA dalam pengurusan ADHD bersama rangsangan dan agen bukan rangsangan lain (atomoksetin, guanfasin).
+
+---
+
+## Bukti Percobaan Klinis
+
+| Nombor Percobaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT00641329](https://clinicaltrials.gov/study/NCT00641329) | Phase 3 | Completed | 198 | CLONICEL (clonidine HCl sustained release) as add-on to psychostimulant therapy vs. psychostimulant alone in children/adolescents with ADHD |
-| [NCT00031395](https://clinicaltrials.gov/study/NCT00031395) | Phase 3 | Completed | 122 | CAT trial — classic controlled study of clonidine alone or combined with methylphenidate in children 7–12 with ADHD |
-| [NCT00556959](https://clinicaltrials.gov/study/NCT00556959) | Phase 3 | Completed | 236 | Dose-response evaluation of CLONICEL vs. placebo in children/adolescents with ADHD |
-| [NCT00723190](https://clinicaltrials.gov/study/NCT00723190) | Phase 3 | Completed | 303 | 12-month open-label chronic exposure safety study of CLONICEL, as monotherapy or combined with stimulants |
-| [NCT01439126](https://clinicaltrials.gov/study/NCT01439126) | Phase 4 | Completed | 135 | Randomized-withdrawal study confirming long-term efficacy and safety of KAPVAY (clonidine ER) in children/adolescents with ADHD |
-| [NCT07044609](https://clinicaltrials.gov/study/NCT07044609) | Phase 4 | Not yet recruiting | 162 | Placebo-controlled trial of clonidine ER (Onyda XR) in children 6–12 with ADHD and comorbid oppositional defiant disorder |
-| [NCT00414921](https://clinicaltrials.gov/study/NCT00414921) | Phase 2 | Completed | 30 | Preschool (ages 4–6) supplement study of clonidine and methylphenidate, alone or combined, for ADHD |
-| [NCT05916339](https://clinicaltrials.gov/study/NCT05916339) | Phase 4 | Recruiting | 500 | Pragmatic SMART-design trial comparing stimulants and alpha-2 agonists (incl. clonidine) for ADHD in youth with autism spectrum disorder |
-| [NCT00152750](https://clinicaltrials.gov/study/NCT00152750) | Phase 4 | Unknown | 32 | Clonidine's effect on night-time sleep and day-time aggression in children with Tourette's syndrome and comorbid ADHD |
-| [NCT06910605](https://clinicaltrials.gov/study/NCT06910605) | N/A | Recruiting | 26 | Driving-simulation study examining medication holidays in adults with ADHD |
+| [NCT00641329](https://clinicaltrials.gov/study/NCT00641329) | Fasa 3 | Selesai | 198 | CLONICEL (klonidina HCl pelepasan berkelanjutan) sebagai tambahan kepada terapi psikostimulant vs. psikostimulant sahaja pada kanak-kanak/remaja dengan ADHD |
+| [NCT00031395](https://clinicaltrials.gov/study/NCT00031395) | Fasa 3 | Selesai | 122 | Percobaan CAT — kajian terkawal klasik klonidina sahaja atau digabungkan dengan metilfenil pada kanak-kanak berusia 7–12 dengan ADHD |
+| [NCT00556959](https://clinicaltrials.gov/study/NCT00556959) | Fasa 3 | Selesai | 236 | Penilaian dos-tindak balas CLONICEL vs. plasebo pada kanak-kanak/remaja dengan ADHD |
+| [NCT00723190](https://clinicaltrials.gov/study/NCT00723190) | Fasa 3 | Selesai | 303 | Kajian keselamatan paparan kronik 12 bulan daripada CLONICEL, sebagai monoterapi atau digabungkan dengan rangsangan |
+| [NCT01439126](https://clinicaltrials.gov/study/NCT01439126) | Fasa 4 | Selesai | 135 | Kajian penarikan semula rawak yang mengesahkan keberkesanan dan keselamatan jangka panjang KAPVAY (klonidina ER) pada kanak-kanak/remaja dengan ADHD |
+| [NCT07044609](https://clinicaltrials.gov/study/NCT07044609) | Fasa 4 | Belum merekrut | 162 | Percobaan terkawal plasebo klonidina ER (Onyda XR) pada kanak-kanak berusia 6–12 dengan ADHD dan gangguan oposisi yang menentang seiring |
+| [NCT00414921](https://clinicaltrials.gov/study/NCT00414921) | Fasa 2 | Selesai | 30 | Kajian tambahan prasekolah (berusia 4–6) klonidina dan metilfenil, sahaja atau digabungkan, untuk ADHD |
+| [NCT05916339](https://clinicaltrials.gov/study/NCT05916339) | Fasa 4 | Merekrut | 500 | Percobaan rancangan SMART pragmatik membandingkan rangsangan dan agonis alfa-2 (termasuk klonidina) untuk ADHD pada remaja dengan gangguan spektrum autisme |
+| [NCT00152750](https://clinicaltrials.gov/study/NCT00152750) | Fasa 4 | Tidak diketahui | 32 | Kesan klonidina pada tidur malam dan agresi siang hari pada kanak-kanak dengan sindrom Tourette dan ADHD yang seiring |
+| [NCT06910605](https://clinicaltrials.gov/study/NCT06910605) | T/A | Merekrut | 26 | Kajian simulasi pemanduan yang meneliti cuti ubat pada dewasa dengan ADHD |
 
 ---
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [30097390](https://pubmed.ncbi.nlm.nih.gov/30097390/) | 2018 | Network Meta-analysis | The Lancet Psychiatry | Comparative efficacy/tolerability of ADHD medications across children, adolescents, and adults |
-| [37166701](https://pubmed.ncbi.nlm.nih.gov/37166701/) | 2023 | Systematic Review | CNS Drugs | Non-stimulant medications (including clonidine) for adult ADHD, as monotherapy or adjunct to stimulants |
-| [39760346](https://pubmed.ncbi.nlm.nih.gov/39760346/) | 2025 | Systematic Review | Pediatric Annals | Non-stimulant ADHD medications as alternatives for patients who cannot tolerate or don't respond to stimulants |
-| [40203844](https://pubmed.ncbi.nlm.nih.gov/40203844/) | 2025 | Network Meta-analysis | The Lancet Psychiatry | Comparative cardiovascular safety of ADHD medications — hemodynamic and ECG effects across children, adolescents, adults |
-| [28391425](https://pubmed.ncbi.nlm.nih.gov/28391425/) | 2017 | Systematic Review | Paediatric Drugs | Safety, tolerability, and efficacy of drugs (including clonidine) for behavioral insomnia in children with ADHD |
-| [26601963](https://pubmed.ncbi.nlm.nih.gov/26601963/) | 2016 | Review | Current Pharmaceutical Design | Psychopharmacology of ADHD — effects and side effects of major drug classes |
-| [24259638](https://pubmed.ncbi.nlm.nih.gov/24259638/) | 2014 | Review | The Annals of Pharmacotherapy | Pathophysiology, etiology, and treatment overview of ADHD |
-| [28700715](https://pubmed.ncbi.nlm.nih.gov/28700715/) | 2017 | Network Meta-analysis | PLoS ONE | Efficacy and safety of pharmacological, psychological, and CAM interventions for ADHD in children/adolescents |
-| [38506810](https://pubmed.ncbi.nlm.nih.gov/38506810/) | 2024 | Cohort | JAMA Network Open | Association between specific ADHD medications and work disability / mental health outcomes |
-| [38695046](https://pubmed.ncbi.nlm.nih.gov/38695046/) | 2024 | Cohort | Psychiatry Investigation | Efficacy and safety of clonidine adhesive patch in Tourette syndrome patients with comorbid ADHD |
+| [30097390](https://pubmed.ncbi.nlm.nih.gov/30097390/) | 2018 | Meta-analisis Rangkaian | The Lancet Psychiatry | Keberkesanan/tolerabiliti perbandingan ubat ADHD merentasi kanak-kanak, remaja, dan dewasa |
+| [37166701](https://pubmed.ncbi.nlm.nih.gov/37166701/) | 2023 | Ulasan Sistematik | CNS Drugs | Ubat bukan rangsangan (termasuk klonidina) untuk ADHD dewasa, sebagai monoterapi atau adjunktif kepada rangsangan |
+| [39760346](https://pubmed.ncbi.nlm.nih.gov/39760346/) | 2025 | Ulasan Sistematik | Pediatric Annals | Ubat ADHD bukan rangsangan sebagai alternatif bagi pesakit yang tidak dapat bertoleransi atau tidak bertindak balas kepada rangsangan |
+| [40203844](https://pubmed.ncbi.nlm.nih.gov/40203844/) | 2025 | Meta-analisis Rangkaian | The Lancet Psychiatry | Keselamatan kardiovaskular perbandingan ubat ADHD — kesan hemodinamik dan ECG merentasi kanak-kanak, remaja, dewasa |
+| [28391425](https://pubmed.ncbi.nlm.nih.gov/28391425/) | 2017 | Ulasan Sistematik | Paediatric Drugs | Keselamatan, tolerabiliti, dan keberkesanan ubat (termasuk klonidina) untuk insomnia tingkah laku pada kanak-kanak dengan ADHD |
+| [26601963](https://pubmed.ncbi.nlm.nih.gov/26601963/) | 2016 | Ulasan | Current Pharmaceutical Design | Psikofarmakologi ADHD — kesan dan kesan sampingan kelas ubat utama |
+| [24259638](https://pubmed.ncbi.nlm.nih.gov/24259638/) | 2014 | Ulasan | The Annals of Pharmacotherapy | Gambaran patofisiologi, etiologi, dan rawatan ADHD |
+| [28700715](https://pubmed.ncbi.nlm.nih.gov/28700715/) | 2017 | Meta-analisis Rangkaian | PLoS ONE | Keberkesanan dan keselamatan intervensi farmakologi, psikologi, dan CAM untuk ADHD pada kanak-kanak/remaja |
+| [38506810](https://pubmed.ncbi.nlm.nih.gov/38506810/) | 2024 | Kohort | JAMA Network Open | Persatuan antara ubat ADHD khusus dan ketidakupayaan kerja / hasil kesihatan mental |
+| [38695046](https://pubmed.ncbi.nlm.nih.gov/38695046/) | 2024 | Kohort | Psychiatry Investigation | Keberkesanan dan keselamatan tampalan pelekat klonidina dalam pesakit sindrom Tourette dengan ADHD yang seiring |
 
 ---
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information. This evidence pack's NPRA-sourced warnings, contraindications, and drug-interaction data are flagged as blocking data gaps (not yet retrieved), so no drug-specific safety statements can be made from the current dataset — this must be resolved before an S1 safety pre-screen can proceed.
+Sila rujuk sisipan paket untuk maklumat keselamatan. Data amaran, kontraindikasi, dan data interaksi ubat bersumber NPRA pakej bukti ini dibenderakan sebagai jurang data yang menghalang (belum diambil semula), oleh itu tiada pernyataan keselamatan spesifik ubat boleh dibuat daripada set data semasa — ini mesti diselesaikan sebelum prosedur prapemeriksaan keselamatan S1 dapat diteruskan.
 
 ---
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Proceed with Guardrails**
+**Keputusan: Teruskan dengan Penjaga**
 
-**Rationale:**
-The ADHD indication is backed by L1-level evidence — four completed Phase 3 RCTs plus a completed Phase 4 randomized-withdrawal trial — and reflects a mechanism (α2A-agonism) already approved for this exact use in other markets (Kapvay/CLONICEL). However, this candidate's basic regulatory and safety data (NPRA label warnings, contraindications, formal MOA record) are currently blocking gaps, so guardrails are required before any clinical or regulatory action.
+**Rasional:**
+Indikasi ADHD disokong oleh bukti tahap L1 — empat RCT Fase 3 yang telah selesai ditambah percobaan penarikan semula Fasa 4 yang telah selesai — dan mencerminkan mekanisme (agonisme α2A) yang sudah diluluskan untuk penggunaan yang sama dalam pasaran lain (Kapvay/CLONICEL). Bagaimanapun, data kawal selia dan keselamatan asas calon ini (amaran label NPRA, kontraindikasi, rekod MOA formal) kini menghalang jurang, jadi penjaga diperlukan sebelum sebarang tindakan klinis atau kawal selia.
 
-**To proceed, the following is needed:**
-- Retrieve NPRA label PDF for this Malaysia registration (license number, product name, approved indication text, dosage form) — currently blank in the dataset
-- Retrieve package insert warnings/contraindications and DDI data (currently "[Data Gap]" / not found)
-- Confirm formal MOA/DrugBank record for α2A-adrenergic mechanism documentation
-- Clarify route/formulation availability in Malaysia against the extended-release formulation used in the pivotal ADHD trials (immediate-release vs. ER may not be interchangeable for this indication)
+**Untuk diteruskan, yang berikut diperlukan:**
+- Ambil PDF label NPRA untuk pendaftaran Malaysia ini (nombor lesen, nama produk, teks indikasi yang diluluskan, bentuk dos) — kini kosong dalam set data
+- Ambil amaran sisipan paket/kontraindikasi dan data DDI (kini "[Jurang Data]" / tidak ditemui)
+- Sahkan rekod mekanisme formal/DrugBank untuk dokumentasi mekanisme α2A-adrenergik
+- Jelaskan ketersediaan haluan/formulasi di Malaysia terhadap formulasi pelepasan lanjutan yang digunakan dalam percobaan ADHD pangsi (pelepasan segera vs. ER mungkin tidak boleh saling ganti untuk indikasi ini)
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

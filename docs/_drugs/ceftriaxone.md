@@ -29,64 +29,65 @@ Tahap bukti: **L5** | Indikasi diramal: **7**
 
 </div>
 
-# Ceftriaxone: From Bacterial Infections to Polyclonal Hyperviscosity Syndrome
+# Ceftriaxone: Dari Jangkitan Bakteria kepada Sindrom Hiperviskositi Poliklonal
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Ceftriaxone is a third-generation cephalosporin antibiotic, broadly used against bacterial infections (no original-indication text was returned in this evidence pack's Malaysia registration records, so this is inferred from the drug's known class and the mechanistic notes embedded in the evidence). The TxGNN model's top-ranked prediction for this candidate is **Polyclonal Hyperviscosity Syndrome**, but this direction is currently supported by **0 clinical trials** and **0 publications**, and the evidence pack's own mechanistic assessment flags it as biologically implausible.
+Ceftriaxone adalah antibiotik sefalosporin generasi ketiga yang digunakan secara luas terhadap jangkitan bakteria (tiada teks indikasi asal dikembalikan dalam rekod pendaftaran Malaysia di dalam pakej bukti ini, oleh itu ini adalah kesimpulan berdasarkan kelas ubat yang diketahui dan nota mekanik yang tertanam dalam bukti), Model TxGNN telah meletakkan peringkat teratas ramalan untuk calon ini sebagai **Sindrom Hiperviskositi Poliklonal**, tetapi arah ini pada masa kini disokong oleh **0 uji kaji klinikal** dan **0 penerbitan**, dan penilaian mekanik pakej bukti itu sendiri menandainya sebagai tidak munasabah secara biologi.
 
-## Quick Overview
+## Gambaran Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | Not specified in the Malaysia (NPRA) registration data provided — license records returned empty indication fields and no original indication list was included in this evidence pack |
-| Predicted New Indication | Polyclonal Hyperviscosity Syndrome |
-| TxGNN Prediction Score | 99.39% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 28 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Tidak dinyatakan dalam data pendaftaran Malaysia (NPRA) yang disediakan — rekod lesen dikembalikan dengan medan indikasi kosong dan tiada senarai indikasi asal disertakan dalam pakej bukti ini |
+| Indikasi Baharu Diramal | Sindrom Hiperviskositi Poliklonal |
+| Skor Ramalan TxGNN | 99.39% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 28 |
+| Keputusan Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed mechanism-of-action data for ceftriaxone was not returned as a structured field in this evidence pack (flagged as a High-severity data gap). However, the pack's own repurposing rationale describes ceftriaxone as a third-generation cephalosporin whose mechanism is inhibition of bacterial cell wall synthesis — consistent with its known role as a broad-spectrum antibacterial agent.
+Data mekanisme-tindakan terperinci untuk ceftriaxone tidak dikembalikan sebagai medan berstruktur dalam pakej bukti ini (ditandai sebagai jurang data keterukan Tinggi). Walau bagaimanapun, rasional repurposing pakej bukti itu sendiri menerangkan ceftriaxone sebagai sefalosporin generasi ketiga yang mekanismenya adalah perencatan sintesis dinding sel bakteria — konsisten dengan peranannya yang diketahui sebagai agen antibakterial spektrum luas.
 
-Polyclonal hyperviscosity syndrome, by contrast, is a plasma-cell/immunoglobulin pathology (excess circulating immunoglobulins increasing blood viscosity), a disease process unrelated to bacterial cell wall synthesis. The evidence pack's own mechanistic assessment for this prediction explicitly states there is no known biological link between ceftriaxone's antibacterial action and this condition, and characterizes the high TxGNN score as most likely a knowledge-graph association artifact rather than a mechanistically grounded hypothesis.
+Sindrom hiperviskositi poliklonal, sebaliknya, adalah patologi sel plasma/imunoglobulin (imunoglobulin beredar berlebihan meningkatkan kelikatan darah), suatu proses penyakit yang tidak berkaitan dengan sintesis dinding sel bakteria. Penilaian mekanik pakej bukti itu untuk ramalan ini secara eksplisit menyatakan bahawa tiada kaitan biologi yang diketahui antara tindakan antibakterial ceftriaxone dan keadaan ini, dan mencirikan skor TxGNN yang tinggi sebagai kemungkinan besar suatu artifak persatuan graf pengetahuan dan bukannya hipotesis yang berasaskan mekanik.
 
-In short: this specific top-ranked prediction lacks both mechanistic plausibility and any corroborating clinical or literature evidence. It should be treated as a model-only signal, not a repurposing hypothesis ready for further evaluation.
+Ringkasnya: ramalan terperingkat teratas khusus ini tidak mempunyai kebolehimplementan mekanik mahupun sebarang bukti klinikal atau kesusasteraan yang menyokong. Ia harus dianggap sebagai isyarat model sahaja, bukan hipotesis repurposing yang sedia untuk penilaian lanjutan.
 
-## Clinical Trial Evidence
+## Bukti Uji Kaji Klinikal
 
-Currently no related clinical trials registered.
+Pada masa kini tiada uji kaji klinikal berkaitan yang didaftarkan.
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-Currently no related literature available.
+Pada masa kini tiada kesusasteraan berkaitan yang tersedia.
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-NPRA records confirm ceftriaxone is marketed in Malaysia with 28 active licenses, but this data extract did not return individual license details (authorization numbers, product names, dosage forms, and approved-indication text were all blank for the records retrieved). A separate query against NPRA is needed to populate license-level detail.
+Rekod NPRA mengesahkan ceftriaxone dipasarkan di Malaysia dengan 28 lesen aktif, tetapi ekstrak data ini tidak mengembalikan butiran lesen individu (nombor kebenaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan semuanya kosong untuk rekod yang diperolehi). Pertanyaan berasingan terhadap NPRA diperlukan untuk mengisi butiran peringkat lesen.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk ke sisipan pakej untuk maklumat keselamatan.
 
-*(Note: retrieval of TFDA/NPRA package-insert warnings and contraindications is marked as a Blocking data gap in this evidence pack — this must be resolved before any formal S1 safety assessment can proceed.)*
+*(Nota: pengambilan amaran sisipan pakej TFDA/NPRA dan kontraindikasi ditandai sebagai jurang data Menghalang dalam pakej bukti ini — ini mesti diselesaikan sebelum sebarang penilaian keselamatan S1 formal boleh diteruskan.)*
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The top-ranked prediction (Polyclonal Hyperviscosity Syndrome) has no clinical trial or literature support and no mechanistic rationale connecting an antibacterial cell-wall-synthesis inhibitor to an immunoglobulin-mediated hyperviscosity disorder — the evidence pack's own assessment characterizes this as a likely knowledge-graph artifact rather than a genuine repurposing signal.
+**Rasional:**
+Ramalan terperingkat teratas (Sindrom Hiperviskositi Poliklonal) tidak mempunyai sokongan uji kaji klinikal atau kesusasteraan dan tiada rasional mekanik yang menghubungkan perencat sintesis dinding sel antibakterial kepada gangguan hiperviskositi yang dimediasi imunoglobulin — penilaian pakej bukti itu sendiri mencirikan ini sebagai kemungkinan artifak graf pengetahuan dan bukannya isyarat repurposing tulen.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert warnings and contraindications (currently a Blocking gap — required before any safety review)
-- Confirmed mechanism-of-action documentation for ceftriaxone (currently a High-severity gap)
-- Individual NPRA license details (product names, dosage forms, approved indications) rather than the blank records returned here
-- If this candidate is to be pursued further, independent mechanistic or preclinical evidence connecting cephalosporin activity to hyperviscosity pathophysiology
+**Untuk meneruskan, berikut diperlukan:**
+- Amaran sisipan pakej TFDA/NPRA dan kontraindikasi (pada masa kini suatu jurang Menghalang — diperlukan sebelum sebarang semakan keselamatan)
+- Dokumentasi mekanisme-tindakan yang disahkan untuk ceftriaxone (pada masa kini suatu jurang keterukan Tinggi)
+- Butiran lesen NPRA individu (nama produk, bentuk dos, indikasi yang diluluskan) dan bukannya rekod kosong yang dikembalikan di sini
+- Jika calon ini akan ditunjau lebih lanjut, bukti mekanik atau pra-klinikal bebas yang menghubungkan aktiviti sefalosporin kepada patofisiologi hiperviskositi
 
-**Separate note:** this evidence pack contains six other predicted indications for ceftriaxone. Rank 4 ("infectious otitis media") carries substantially stronger evidence (Evidence Level L2, 3 clinical trials including RCTs, 19 publications, recommendation "Proceed with Guardrails") and is a more credible candidate for near-term evaluation — it likely warrants its own separate report rather than being folded into this one.
+**Nota berasingan:** pakej bukti ini mengandungi enam indikasi diramal yang lain untuk ceftriaxone. Peringkat 4 ("otitis media jangkitan") membawa bukti yang jauh lebih kuat (Tahap Bukti L2, 3 uji kaji klinikal termasuk RCT, 19 penerbitan, cadangan "Teruskan dengan Pengekang") dan adalah calon yang lebih kredibel untuk penilaian jangka dekat — ia berkemungkinan memerlukan laporan berasingannya sendiri dan bukannya dilibatkan ke dalam laporan ini.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

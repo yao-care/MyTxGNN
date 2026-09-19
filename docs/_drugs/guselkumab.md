@@ -29,74 +29,75 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Guselkumab: From Psoriasis to Drug-induced Osteoporosis
+# Guselkumab: Daripada Psoriasis kepada Osteoporosis Teraruh Ubat
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Guselkumab (an anti-IL-23p19 monoclonal antibody, marketed as Tremfya) was originally approved for moderate-to-severe plaque psoriasis. The TxGNN model's top-ranked prediction in this evidence pack is **drug-induced osteoporosis**, but this candidate has **0 clinical trials** and **0 publications** supporting it, and the model's own rationale flags the score as likely embedding noise rather than a genuine biological signal.
+Guselkumab (antibodi monoklonal anti-IL-23p19, dipasarkan sebagai Tremfya) awalnya diluluskan untuk psoriasis plak sederhana hingga teruk. Ramalan teratas model TxGNN dalam pakej bukti ini ialah **osteoporosis teraruh ubat**, tetapi calon ini mempunyai **0 ujian klinis** dan **0 penerbitan** yang menyokongnya, dan rasional model itu sendiri menunjukkan skor ini berkemungkinan besar adalah kebisingan daripada graf-embeddings dan bukannya isyarat biologi yang sebenar.
 
 ---
 
-## Quick Overview
+## Gambaran Pantas
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Moderate-to-severe plaque psoriasis (identified from evidence-pack annotations; not confirmed by NPRA label text — see Malaysia Market Information) |
-| Predicted New Indication | Drug-induced osteoporosis |
-| TxGNN Prediction Score | 99.84% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
-| Recommended Decision | Hold |
+| Indikasi Asli | Psoriasis plak sederhana hingga teruk (dikenalpasti daripada anotasi pakej bukti; tidak disahkan oleh teks label NPRA — lihat Maklumat Pasaran Malaysia) |
+| Indikasi Baru yang Diprediksi | Osteoporosis teraruh ubat |
+| Skor Ramalan TxGNN | 99.84% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 2 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed mechanism-of-action data for guselkumab is not available in this evidence pack (flagged internally as a High-severity data gap requiring DrugBank verification). Based on information embedded elsewhere in this pack, guselkumab is a human IgG1 monoclonal antibody that selectively binds the p19 subunit of interleukin-23 (IL-23), blocking the IL-23/Th17 inflammatory axis — the mechanism underlying its original approval for plaque psoriasis.
+Data mekanisme tindakan yang terperinci untuk guselkumab tidak tersedia dalam pakej bukti ini (ditandai secara dalaman sebagai jurang data tahap Tinggi yang memerlukan pengesahan DrugBank). Berdasarkan maklumat tertanam di tempat lain dalam pakej ini, guselkumab ialah antibodi monoklonal IgG1 manusia yang mengikat subunit p19 interleukin-23 (IL-23) secara selektif, menyekat paksi keradangan IL-23/Th17 — mekanisme yang mendasari perlulusannya yang asal untuk psoriasis plak.
 
-For the top-ranked candidate, **drug-induced osteoporosis**, there is no established biological link between IL-23p19 blockade and bone metabolism or steroid-induced osteoporosis pathology. The evidence pack's own rationale states this score likely arises from graph-embedding proximity to "inflammatory disease" nodes rather than genuine pharmacological evidence, and no clinical trials or publications were found to support it.
+Untuk calon teratas, **osteoporosis teraruh ubat**, tiada pautan biologi yang ditegakkan antara penyekat IL-23p19 dan metabolisme tulang atau patologi osteoporosis teraruh steroid. Rasional pakej bukti itu sendiri menyatakan skor ini berkemungkinan timbul daripada kedekataan graf-embeddings kepada nod "penyakit keradangan" dan bukannya bukti farmakologi yang sebenar, dan tiada ujian klinis atau penerbitan yang ditemui untuk menyokongnya.
 
-Worth noting: two other candidates in this same evidence pack carry far stronger support — **psoriasis** (rank 3), which the pack itself identifies as guselkumab's original approved indication rather than a novel prediction, and **ulcerative colitis** (rank 6, L1/S3, 18 trials, 20 publications, including the completed QUASAR Phase 3 program), which the pack notes was already approved in the US in 2024–2025. Neither is a true novel repurposing signal for this evaluation, but they illustrate that the model's raw top score does not correspond to the most clinically actionable finding in this dataset.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+Patut diingat: dua calon lain dalam pakej bukti yang sama ini membawa sokongan yang jauh lebih kuat — **psoriasis** (pangkat 3), yang pakej itu sendiri mengenali sebagai indikasi asal guselkumab yang diluluskan dan bukannya ramalan novel, dan **kolitis ulseratif** (pangkat 6, L1/S3, 18 ujian, 20 penerbitan, termasuk program QUASAR Fasa 3 yang telah selesai), yang pakej itu catakan telah diluluskan di AS pada 2024–2025. Kedua-duanya bukan isyarat penggabungan semula novel yang sebenar untuk penilaian ini, tetapi mereka menunjukkan bahawa skor teratas model yang mentah tidak sepadan dengan penemuan yang paling boleh diambil tindakan secara klinis dalam set data ini.
 
 ---
 
-## Literature Evidence
+## Bukti Ujian Klinis
 
-Currently no related literature available.
-
----
-
-## Malaysia Market Information
-
-Guselkumab has 2 registered licenses in Malaysia (market status: Marketed). Detailed registration information — license numbers, product names, dosage forms, and approved indication text — was not captured in this evidence pack and requires direct NPRA lookup.
+Pada masa ini tiada ujian klinis berkaitan yang didaftarkan.
 
 ---
 
-## Safety Considerations
+## Bukti Literatur
 
-Please refer to the package insert for safety information.
+Pada masa ini tiada literatur berkaitan tersedia.
 
 ---
 
-## Conclusion and Next Steps
+## Maklumat Pasaran Malaysia
 
-**Decision: Hold**
+Guselkumab mempunyai 2 lesen berdaftar di Malaysia (status pasaran: Dipasarkan). Maklumat pendaftaran terperinci — nombor lesen, nama produk, bentuk dos, dan teks indikasi yang diluluskan — tidak ditangkap dalam pakej bukti ini dan memerlukan pencarian NPRA secara langsung.
 
-**Rationale:**
-The top-ranked predicted indication (drug-induced osteoporosis) has no supporting clinical trials, no literature, and no plausible mechanistic link — the TxGNN score is most likely a graph-embedding artifact rather than a real signal.
+---
 
-**To proceed, the following is needed:**
-- NPRA product label / package insert (warnings, contraindications) — currently a blocking data gap
-- Confirmed mechanism-of-action data from DrugBank
-- Preclinical or mechanistic rationale connecting IL-23 blockade to bone metabolism, if this indication is to be pursued further
-- If a genuinely evidence-backed repurposing opportunity is desired, evaluate **ulcerative colitis** instead (L1 evidence level, Phase 3 RCT support, already approved in other markets) as a separate candidate
+## Pertimbangan Keselamatan
+
+Sila rujuk risalah pakej untuk maklumat keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Alasan:**
+Indikasi yang diprediksi teratas (osteoporosis teraruh ubat) tidak mempunyai ujian klinis yang menyokong, tiada literatur, dan tiada pautan mekanistik yang munasabah — skor TxGNN berkemungkinan besar merupakan artefak graf-embeddings dan bukannya isyarat sebenar.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Label produk NPRA / risalah pakej (amaran, kontraindikasi) — pada masa ini jurang data yang menghalang
+- Data mekanisme tindakan yang disahkan daripada DrugBank
+- Rasional pra-klinis atau mekanistik yang menghubungkan penyekat IL-23 kepada metabolisme tulang, jika indikasi ini ingin diusulkan lebih jauh
+- Jika peluang penggabungan semula yang benar-benar disokong oleh bukti dikehendaki, pertimbangkan **kolitis ulseratif** (tahap bukti L1, sokongan ujian klinis fase 3 (RCT), telah diluluskan di pasaran lain) sebagai calon alternatif
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

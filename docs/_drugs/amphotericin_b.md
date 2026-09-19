@@ -29,94 +29,95 @@ Tahap bukti: **L2** | Indikasi diramal: **5**
 
 </div>
 
-# Amphotericin B: From Systemic Fungal Infections to Esophageal Candidiasis
+# Amphotericin B: Daripada Jangkitan Kulat Sistemik kepada Candidiasis Esofageal
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Amphotericin B is a broad-spectrum polyene antifungal agent, long established as a gold-standard treatment for serious invasive systemic fungal infections.
-The TxGNN model predicts it may be effective for **Esophageal Candidiasis**,
-with **2 clinical trials** and **19 publications** currently supporting this direction.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Systemic fungal infections (registered product details not available in current system) |
-| Predicted New Indication | Esophageal Candidiasis |
-| TxGNN Prediction Score | 0.00% |
-| Evidence Level | L2 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 2 |
-| Recommended Decision | Proceed with Guardrails |
+Amphotericin B adalah agen antijamur polien spektrum luas yang telah lama ditetapkan sebagai rawatan standard emas untuk jangkitan jamur sistemik invasif yang serius.
+Model TxGNN meramalkan ia mungkin berkesan untuk **Candidiasis Esofageal**,
+dengan **2 percubaan klinikal** dan **19 penerbitan** kini menyokong arah ini.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Tinjauan Singkat
 
-Currently, detailed mechanism of action data is not available in the evidence pack. Based on known information, Amphotericin B is a polyene macrolide antifungal whose efficacy in treating serious invasive fungal infections has been well established over several decades. It is known to bind with high affinity to ergosterol — a sterol unique to fungal cell membranes — forming transmembrane pores that disrupt osmotic equilibrium and cause leakage of intracellular contents, leading to direct fungicidal activity against *Candida* species. Both intravenous formulations — conventional deoxycholate (Fungizone) and liposomal (AmBisome) — can achieve effective drug concentrations at esophageal mucosal tissue.
-
-Esophageal candidiasis is caused by *Candida albicans* and, less commonly, other *Candida* species (*C. glabrata*, *C. tropicalis*, *C. krusei*). Because the disease pathogen is the very same target as Amphotericin B's mechanism of action, the mechanistic link is direct and well-established — this is not a leap across disease categories but an extension of proven antifungal activity to a specific anatomical site. The mucosal nature of esophageal disease is fully addressable by intravenous administration.
-
-Clinically, Amphotericin B has long served as an alternative or salvage therapy for esophageal candidiasis, particularly in immunocompromised patients (HIV/AIDS, haematological malignancies) and in those with azole-refractory disease. A completed clinical trial (NCT00002041) directly evaluated Amphotericin B in biopsy-proven *Candida* esophagitis, and multiple randomised controlled trials have included AmB as an active comparator arm against newer agents such as caspofungin and anidulafungin — collectively confirming its established role in this indication.
+| Item | Kandungan |
+|------|-----------|
+| Petunjuk Asal | Jangkitan jamur sistemik (butiran produk berdaftar tidak tersedia dalam sistem semasa) |
+| Petunjuk Baru Diramal | Candidiasis Esofageal |
+| Skor Ramalan TxGNN | 0.00% |
+| Paras Bukti | L2 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 2 |
+| Keputusan yang Disyorkan | Langsungkan dengan Persyaratan Keselamatan |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia dalam paket bukti. Berdasarkan maklumat yang diketahui, Amphotericin B adalah antibiotik makrolid polien yang kecekapannya dalam merawat jangkitan jamur sistemik invasif yang serius telah terbukti dengan mantap selama beberapa dekad. Ia diketahui mengikat dengan afiniti tinggi kepada ergosterol — sterol unik kepada membran sel jamur — membentuk liang transmembran yang mengganggu keseimbangan osmotik dan menyebabkan kebocoran kandungan intrasel, yang membawa kepada aktiviti fungisida langsung terhadap spesies *Candida*. Kedua-dua formulasi intravena — deoxycholate konvensional (Fungizone) dan liposamal (AmBisome) — dapat mencapai kepekatan ubat yang berkesan di tisu mukosa esofageal.
+
+Candidiasis esofageal disebabkan oleh *Candida albicans* dan, kurang kerap, spesies *Candida* lain (*C. glabrata*, *C. tropicalis*, *C. krusei*). Kerana patogen penyakit adalah sasaran yang sama seperti mekanisme tindakan Amphotericin B, pautan mekanistik adalah langsung dan terbukti — ini bukan lompatan merentasi kategori penyakit tetapi sambungan aktiviti antijamur yang terbukti kepada tapak anatomis tertentu. Sifat mukosa penyakit esofageal sepenuhnya dapat ditangani melalui pentadbiran intravena.
+
+Secara klinikal, Amphotericin B telah lama berfungsi sebagai terapi alternatif atau penyelamat untuk candidiasis esofageal, terutamanya pada pesakit yang imunotersepit (HIV/AIDS, keganasan hematologi) dan pada mereka yang mempunyai penyakit tahan azol. Satu percubaan klinikal yang telah selesai (NCT00002041) secara langsung menilai Amphotericin B dalam esofagitis *Candida* yang disahkan biopsi, dan berbilang percubaan terkontrol rawak telah memasukkan AmB sebagai lengan pembanding aktif terhadap agen lebih baru seperti caspofungin dan anidulafungin — secara kolektif mengesahkan peranannya yang terbukti dalam petunjuk ini.
+
+---
+
+## Bukti Percubaan Klinikal
+
+| Nombor Percubaan | Fasa | Status | Enrolmen | Penemuan Utama |
 |-------------|-------|--------|------------|--------------|
-| [NCT00002041](https://clinicaltrials.gov/study/NCT00002041) | Phase NA | Completed | N/A | Directly evaluated Amphotericin B for biopsy-proven *Candida* esophagitis in immunocompromised patients; assessed optimal treatment duration and compared two dose levels for efficacy and nephrotoxicity |
-| [NCT00041704](https://clinicaltrials.gov/study/NCT00041704) | Phase 2 | Completed | 19 | Phase 2 study of anidulafungin for azole-refractory mucosal candidiasis; Amphotericin B included as an alternative comparator, reflecting its salvage role in fluconazole-resistant esophageal disease |
+| [NCT00002041](https://clinicaltrials.gov/study/NCT00002041) | Fasa Tiada | Selesai | Tiada | Menilai langsung Amphotericin B untuk esofagitis *Candida* yang disahkan biopsi pada pesakit yang imunotersepit; menilai tempoh rawatan optimum dan membandingkan dua paras dos untuk keberkesanan dan nefrotoksisiti |
+| [NCT00041704](https://clinicaltrials.gov/study/NCT00041704) | Fasa 2 | Selesai | 19 | Kajian Fasa 2 anidulafungin untuk candidiasis mukosa tahan azol; Amphotericin B dimasukkan sebagai pembanding alternatif, mencerminkan peranannya yang menyelamat dalam penyakit esofageal tahan flukonazol |
 
 ---
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|------|------|---------|-------------|
-| [8804799](https://pubmed.ncbi.nlm.nih.gov/8804799/) | 1996 | RCT | Chemotherapy | Randomised trial of oral fluconazole vs IV Amphotericin B (0.3 mg/kg) in 31 cancer patients with endoscopy-confirmed esophageal candidiasis; both agents produced rapid resolution of dysphagia and odynophagia |
-| [11796357](https://pubmed.ncbi.nlm.nih.gov/11796357/) | 2002 | RCT | Antimicrobial Agents and Chemotherapy | Phase 2 randomised double-blind multicentre study comparing caspofungin vs Amphotericin B (0.5 mg/kg/day IV) for oropharyngeal and esophageal candidiasis; established AmB as the active comparator benchmark |
-| [41226935](https://pubmed.ncbi.nlm.nih.gov/41226935/) | 2025 | Clinical Pharmacotherapy Review | Journal of Clinical Medicine | Comprehensive review of pharmacological management of oral and esophageal candidiasis from a clinical pharmacotherapy perspective; positions Amphotericin B within current treatment algorithms |
-| [10839593](https://pubmed.ncbi.nlm.nih.gov/10839593/) | 2000 | Clinical Trial | AIDS | ACTG Study 295; evaluated Amphotericin B oral suspension for fluconazole-refractory oral candidiasis in HIV-positive patients, demonstrating AmB's utility in azole-resistant mucosal disease |
-| [35699443](https://pubmed.ncbi.nlm.nih.gov/35699443/) | 2022 | Animal/Preclinical | Antimicrobial Agents and Chemotherapy | Evaluated cochleated oral formulation of Amphotericin B in mucocutaneous candidiasis mouse models and azole-resistant CMC patients; supports feasibility of non-parenteral AmB for mucosal candidiasis |
-| [7811544](https://pubmed.ncbi.nlm.nih.gov/7811544/) | 1994 | Cohort/Resistance Review | AIDS Research and Human Retroviruses | Reviewed fluconazole-resistant mucosal candidiasis patterns in HIV patients; discusses Amphotericin B as a key salvage option for azole-resistant esophageal and oropharyngeal disease |
-| [11590489](https://pubmed.ncbi.nlm.nih.gov/11590489/) | 2000 | Review | HIV Clinical Trials | Reviewed therapeutic options for oropharyngeal and esophageal candidiasis in HIV/AIDS patients; contextualises Amphotericin B's role relative to azoles and echinocandins |
-| [10959741](https://pubmed.ncbi.nlm.nih.gov/10959741/) | 2000 | Cohort Study | Pediatric Infectious Disease Journal | Investigated clinical presentation and risk factors of esophageal candidiasis in a large prospectively monitored cohort of HIV-infected children at the National Cancer Institute |
-| [11363911](https://pubmed.ncbi.nlm.nih.gov/11363911/) | 1996 | Review | Journal of the International Association of Physicians in AIDS Care | Overview of candidiasis — including esophageal involvement — in immunocompromised hosts; includes discussion of Amphotericin B therapy |
-| [3181663](https://pubmed.ncbi.nlm.nih.gov/3181663/) | 1983 | Original Article | Digestive Diseases and Sciences | Early clinical characterisation of *Candida* esophagitis including odynophagia, dysphagia, and GI bleeding; establishes antifungal treatment (including Amphotericin B) as standard of care |
+| [8804799](https://pubmed.ncbi.nlm.nih.gov/8804799/) | 1996 | RCT | Chemotherapy | Percubaan rawak flukonazol oral vs IV Amphotericin B (0.3 mg/kg) dalam 31 pesakit kanser dengan candidiasis esofageal yang disahkan endoskopi; kedua-dua agen menghasilkan resolusi cepat disfagia dan odynophagia |
+| [11796357](https://pubmed.ncbi.nlm.nih.gov/11796357/) | 2002 | RCT | Antimicrobial Agents and Chemotherapy | Kajian rawak buta berkembar multikenter Fasa 2 membandingkan caspofungin vs Amphotericin B (0.5 mg/kg/hari IV) untuk candidiasis orofaring dan esofageal; menetapkan AmB sebagai penanda aras pembanding aktif |
+| [41226935](https://pubmed.ncbi.nlm.nih.gov/41226935/) | 2025 | Ulasan Farmakoterapia Klinikal | Journal of Clinical Medicine | Ulasan komprehensif pengurusan farmakologi candidiasis oral dan esofageal dari perspektif farmakoterapia klinikal; memposisikan Amphotericin B dalam algoritma rawatan semasa |
+| [10839593](https://pubmed.ncbi.nlm.nih.gov/10839593/) | 2000 | Percubaan Klinikal | AIDS | Kajian ACTG 295; menilai penggantungan oral Amphotericin B untuk candidiasis oral tahan flukonazol pada pesakit positif HIV, menunjukkan utiliti AmB dalam penyakit mukosa tahan azol |
+| [35699443](https://pubmed.ncbi.nlm.nih.gov/35699443/) | 2022 | Haiwan/Praklinikal | Antimicrobial Agents and Chemotherapy | Menilai formulasi Amphotericin B berkocok dalam model tikus candidiasis mukokutaneus dan pesakit CMC tahan azol; menyokong kebolehlaksanaan AmB bukan parenteral untuk candidiasis mukosa |
+| [7811544](https://pubmed.ncbi.nlm.nih.gov/7811544/) | 1994 | Ulasan Kohort/Rintangan | AIDS Research and Human Retroviruses | Meninjau corak candidiasis mukosa tahan flukonazol pada pesakit HIV; membincangkan Amphotericin B sebagai pilihan penyelamat utama untuk penyakit esofageal dan orofaring tahan azol |
+| [11590489](https://pubmed.ncbi.nlm.nih.gov/11590489/) | 2000 | Ulasan | HIV Clinical Trials | Meninjau pilihan terapeutik untuk candidiasis orofaring dan esofageal pada pesakit HIV/AIDS; memposisikan peranan Amphotericin B relatif kepada azol dan ekinokandin |
+| [10959741](https://pubmed.ncbi.nlm.nih.gov/10959741/) | 2000 | Kajian Kohort | Pediatric Infectious Disease Journal | Menyiasat pembentangan klinikal dan faktor risiko candidiasis esofageal dalam kohort yang dipantau secara prospektif besar kanak-kanak yang dijangkiti HIV di Institut Kanser Kebangsaan |
+| [11363911](https://pubmed.ncbi.nlm.nih.gov/11363911/) | 1996 | Ulasan | Journal of the International Association of Physicians in AIDS Care | Gambaran candidiasis — termasuk penglibatan esofageal — pada hos yang imunotersepit; memasukkan perbincangan terapi Amphotericin B |
+| [3181663](https://pubmed.ncbi.nlm.nih.gov/3181663/) | 1983 | Artikel Asal | Digestive Diseases and Sciences | Pencirian klinikal awal esofagitis *Candida* termasuk odynophagia, disfagia, dan pendarahan GI; menetapkan rawatan antijamur (termasuk Amphotericin B) sebagai standard penjagaan |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-The evidence pack confirms **2 registered products** in Malaysia with market status **Marketed (Marketed)**. However, detailed registration data — including licence numbers, product names, dosage forms, and approved indication text — are not available in the current evidence pack. Please refer to the [NPRA registration database](https://www.npra.gov.my/) for full product details.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-> **Note:** Key warnings, contraindications, and drug interaction data were not retrievable in this evidence pack (Data Gap DG001 — Blocking severity). Remediation: download and parse the NPRA-approved package insert PDF. Known class-level concerns for Amphotericin B include infusion-related reactions and nephrotoxicity with the deoxycholate formulation; liposomal formulations carry a significantly improved tolerability profile.
+Paket bukti mengesahkan **2 produk berdaftar** di Malaysia dengan status pasaran **Dipasarkan (Dipasarkan)**. Walau bagaimanapun, data pendaftaran terperinci — termasuk nombor lesen, nama produk, bentuk dos, dan teks petunjuk yang diluluskan — tidak tersedia dalam paket bukti semasa. Sila rujuk [pangkalan data pendaftaran NPRA](https://www.npra.gov.my/) untuk butiran produk penuh.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Proceed with Guardrails**
+Sila rujuk sisipan paket untuk maklumat keselamatan.
 
-**Rationale:**
-Amphotericin B's antifungal mechanism directly targets the causative pathogen of esophageal candidiasis (*Candida* spp. via ergosterol binding), making this a mechanistically sound application. A completed clinical trial has directly evaluated AmB in biopsy-confirmed *Candida* esophagitis, multiple published RCTs include AmB as the active comparator, and a 2025 clinical pharmacotherapy review positions it within current treatment guidelines — collectively meeting the L2 evidence threshold for a Proceed with Guardrails recommendation.
+> **Nota:** Data amaran utama, kontraindikasi, dan interaksi ubat tidak boleh diambil dalam paket bukti ini (Jurang Data DG001 — Keseriusan Penyekat). Peremediatan: muat turun dan analisis PDF sisipan paket yang diluluskan NPRA. Kebimbangan peringkat kelas yang diketahui untuk Amphotericin B termasuk reaksi berkaitan infusi dan nefrotoksisiti dengan formulasi deoxycholate; formulasi liposamal membawa profil kebolehtoleraan yang jauh lebih baik.
 
-**To proceed, the following is needed:**
+---
 
-- **Safety data retrieval (Blocking):** Download and parse the NPRA package insert PDF to extract key warnings, contraindications, and drug interaction data (DG001)
-- **Mechanism of action data:** Query the DrugBank API to obtain the full MOA profile for Amphotericin B (DG002)
-- **Registered dosage forms:** Confirm which of the 2 registered Malaysian products is the deoxycholate vs. liposomal formulation, as these differ substantially in safety profile and dosing
-- **Safety monitoring protocol:** Define nephrotoxicity monitoring plan (serum creatinine, electrolytes) and infusion-related reaction management, particularly for the conventional formulation
-- **Azole-resistance context:** Clarify the local Malaysian epidemiology of fluconazole-resistant *Candida* to position AmB's role relative to echinocandins as first-line alternatives in resistant cases
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Langsungkan dengan Persyaratan Keselamatan**
+
+**Nisbah:**
+Mekanisme antijamur Amphotericin B secara langsung menyasarkan patogen penyebab candidiasis esofageal (*Candida* spp. melalui ikatan ergosterol), menjadikan ini aplikasi yang didukung mekanisme yang jelas. Satu percubaan klinikal yang telah selesai telah secara langsung menilai AmB dalam esofagitis *Candida* yang disahkan biopsi, berbilang RCT yang diterbitkan memasukkan AmB sebagai pembanding aktif, dan ulasan farmakoterapia klinikal 2025 memposisikannya dalam garis panduan rawatan semasa — secara kolektif memenuhi ambang bukti L2 untuk cadangan Langsungkan dengan Persyaratan Keselamatan.
+
+**Untuk melanjutkan, yang berikut diperlukan:**
+
+- **Pengambilan data keselamatan (Penyekat):** Muat turun dan analisis PDF sisipan paket yang diluluskan NPRA untuk mengekstrak data amaran utama, kontraindikasi, dan interaksi ubat (DG001)
+- **Data mekanisme tindakan:** Gunakan API DrugBank untuk memperoleh profil MOA lengkap untuk Amphotericin B (DG002)
+- **Bentuk dos berdaftar:** Sahkan yang mana daripada 2 produk Malaysia berdaftar adalah formulasi deoxycholate vs. liposamal, kerana ini berbeza secara substansial dalam profil keselamatan dan dos
+- **Protokol pemantauan keselamatan:** Takrifkan pelan pemantauan nefrotoksisiti (kreatinin serum, elektrolit) dan pengurusan reaksi berkaitan infusi, terutamanya untuk formulasi konvensional
+- **Konteks rintangan azol:** Jelaskan epidemiologi *Candida* tahan flukonazol Malaysia tempatan untuk memposisikan peranan AmB relatif kepada ekinokandin sebagai alternatif lini pertama dalam kes rintangan
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

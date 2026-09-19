@@ -29,86 +29,85 @@ Tahap bukti: **L2** | Indikasi diramal: **10**
 
 </div>
 
-Using no additional skill — this is a direct content-generation task fully specified by the provided template; I'll produce the report following it exactly.
+# Vinorelbine: Dari Kanser Sel Bukan Kecil Paru-paru ke Sarcoma Ewing
 
-# Vinorelbine: From Non-Small Cell Lung Cancer to Ewing Sarcoma
+## Ringkasan Satu Ayat
 
-## One-Sentence Summary
+Vinorelbine adalah alkaloid vinca semi-sintetik yang menghambat mikrotubulin dengan penggunaan jangka panjang yang telah ditubuhkan dalam kanser sel bukan kecil paru-paru (NSCLC). Model TxGNN meramalkan bahawa ia mungkin berkesan untuk **Sarcoma Ewing**, dengan **4 percubaan klinikal** dan **5 penerbitan** yang kini menyokong arah ini.
 
-Vinorelbine is a semi-synthetic vinca alkaloid microtubule inhibitor with long-established use in non-small cell lung cancer (NSCLC).
-The TxGNN model predicts it may be effective for **Ewing Sarcoma**,
-with **4 clinical trials** and **5 publications** currently supporting this direction.
+## Gambaran Pantas
 
-## Quick Overview
-
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Non-Small Cell Lung Cancer (NSCLC) — well-established use per literature evidence; local product label text not currently available |
-| Predicted New Indication | Ewing Sarcoma |
-| TxGNN Prediction Score | 99.99% |
-| Evidence Level | L2 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 8 |
-| Recommended Decision | Proceed with Guardrails |
+| Petunjuk Asal | Kanser Sel Bukan Kecil Paru-paru (NSCLC) — penggunaan yang telah ditubuhkan dengan baik mengikut bukti literatur; teks label produk tempatan tidak tersedia pada masa ini |
+| Petunjuk Baru yang Diramalkan | Sarcoma Ewing |
+| Skor Ramalan TxGNN | 99.99% |
+| Tahap Bukti | L2 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 8 |
+| Keputusan yang Disyorkan | Lanjutkan dengan Perlindungan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data is not available from local regulatory sources (data gap DG002). Based on information found in the supporting literature, vinorelbine is a vinca alkaloid that acts by binding tubulin and disrupting microtubule dynamics, arresting cancer cells in mitosis and inducing apoptosis ("mitotic catastrophe"). This mechanism is explicitly discussed in the evidence pack (PMID 26260582, PMID 30025492), which describes vinorelbine alongside other "microtubule-interfering drugs" (vincristine, vinblastine, eribulin).
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia daripada sumber kawal selia tempatan (jurang data DG002). Berdasarkan maklumat yang ditemui dalam literatur sokongan, vinorelbine adalah alkaloid vinca yang bertindak dengan mengikat tubulin dan mengganggu dinamik mikrotubulin, menahan sel kanser dalam mitosis dan mendorong apoptosis ("bencana mitosis"). Mekanisme ini dibincangkan secara jelas dalam pek bukti (PMID 26260582, PMID 30025492), yang menggambarkan vinorelbine bersama dengan ubat "pengganggu mikrotubulin" lain (vincristine, vinblastine, eribulin).
 
-NSCLC and Ewing sarcoma are biologically distinct, but they share a common therapeutic vulnerability: both are highly proliferative malignancies dependent on continuous mitotic division. Vinca alkaloids as a class are already a standard backbone in pediatric small round cell sarcoma regimens (e.g., vincristine in VAC/VDC protocols), so extending a structurally related agent like vinorelbine to Ewing sarcoma has a plausible mechanistic rationale.
+NSCLC dan sarcoma Ewing adalah berbeza secara biologi, tetapi mereka berkongsi kerentanan terapi yang sama: kedua-duanya adalah keganasan yang sangat proliferatif bergantung pada pembelahan mitotik yang berterusan. Alkaloid vinca sebagai suatu kelas sudah pun menjadi tulang belakang standard dalam rejim sarcoma sel bulat kecil pediatrik (contohnya, vincristine dalam protokol VAC/VDC), jadi pengembangan agen yang berkaitan secara struktur seperti vinorelbine kepada sarcoma Ewing mempunyai alasan mekanistik yang munasabah.
 
-This rationale is further supported empirically: two completed Phase II pediatric oncology trials (NCT00003234, NCT00180947) specifically tested vinorelbine (alone or with cyclophosphamide) in children with relapsed/refractory solid tumors, explicitly including Ewing sarcoma family tumors, and a preclinical study (PMID 26260582) demonstrated direct cytotoxic synergy of vinorelbine in Ewing sarcoma cell lines — moving this beyond a purely computational association.
+Alasan ini disokong lebih lanjut secara empirikal: dua percubaan onkologi pediatrik Fasa II yang selesai (NCT00003234, NCT00180947) secara khusus menguji vinorelbine (sahaja atau dengan cyclophosphamide) pada anak-anak dengan tumor pepejal yang kambuh/tahan ubat, secara jelas termasuk tumor keluarga sarcoma Ewing, dan satu kajian pra-klinikal (PMID 26260582) menunjukkan sinergi sitotoksik langsung vinorelbine dalam garis sel sarcoma Ewing — menggerakkan ini melampaui persatuan semata-mata pengiraan.
 
-## Clinical Trial Evidence
+## Bukti Percubaan Klinikal
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT00003234](https://clinicaltrials.gov/study/NCT00003234) | Phase 2 | Completed | 50 | Vinorelbine (Navelbine) in children with recurrent or refractory malignancies, including Ewing sarcoma family tumors |
-| [NCT00180947](https://clinicaltrials.gov/study/NCT00180947) | Phase 2 | Unknown | 210 | Vinorelbine + cyclophosphamide in refractory/relapsed rhabdomyosarcoma, Ewing tumours, osteosarcoma, neuroblastoma, medulloblastoma |
-| [NCT05999994](https://clinicaltrials.gov/study/NCT05999994) | Phase 2 | Recruiting | 105 | CAMPFIRE master protocol for pediatric/young adult cancers; broad platform, not Ewing-sarcoma-specific |
-| [NCT06451302](https://clinicaltrials.gov/study/NCT06451302) | N/A | Active, not recruiting | 100 | Multicenter observational cohort evaluating outcomes/safety of risk-stratified treatment in pediatric Ewing sarcoma (China); does not test vinorelbine specifically |
+| [NCT00003234](https://clinicaltrials.gov/study/NCT00003234) | Fasa 2 | Selesai | 50 | Vinorelbine (Navelbine) pada anak-anak dengan keganasan yang berulang atau tahan ubat, termasuk tumor keluarga sarcoma Ewing |
+| [NCT00180947](https://clinicaltrials.gov/study/NCT00180947) | Fasa 2 | Tidak diketahui | 210 | Vinorelbine + cyclophosphamide dalam rhabdomyosarcoma kambuh/tahan ubat, tumor Ewing, osteosarcoma, neuroblastoma, medulloblastoma |
+| [NCT05999994](https://clinicaltrials.gov/study/NCT05999994) | Fasa 2 | Merekrut | 105 | Protokol induk CAMPFIRE untuk kanser pediatrik/dewasa muda; platform luas, bukan khusus sarcoma Ewing |
+| [NCT06451302](https://clinicaltrials.gov/study/NCT06451302) | T/A | Aktif, tidak merekrut | 100 | Kohort pemerhatian pelbagai pusat menilai hasil/keselamatan rawatan berstrata risiko dalam sarcoma Ewing pediatrik (China); tidak menguji vinorelbine secara khusus |
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [22633624](https://pubmed.ncbi.nlm.nih.gov/22633624/) | 2012 | Phase II Prospective | European Journal of Cancer | Vinorelbine + low-dose oral cyclophosphamide in children/young adults with relapsed/refractory solid tumors; good tolerance and efficacy signal in rhabdomyosarcoma (SFCE report) |
-| [12115359](https://pubmed.ncbi.nlm.nih.gov/12115359/) | 2002 | Retrospective Cohort | Cancer | Vinorelbine in previously treated advanced childhood sarcomas; evidence of activity in rhabdomyosarcoma |
-| [37637411](https://pubmed.ncbi.nlm.nih.gov/37637411/) | 2023 | Review | Frontiers in Pharmacology | Comprehensive review of chemotherapeutic drug selection for soft tissue sarcomas |
-| [26260582](https://pubmed.ncbi.nlm.nih.gov/26260582/) | 2016 | Preclinical | International Journal of Cancer | Synergistic apoptosis induction by PLK1 inhibitor (BI 6727) combined with vinorelbine and other microtubule-interfering drugs in Ewing sarcoma cell lines |
-| [36451163](https://pubmed.ncbi.nlm.nih.gov/36451163/) | 2022 | Case Report | BMC Urology | Case report and literature review of extraosseous Ewing's sarcoma/pPNET of the kidney (diagnostic focus, not treatment) |
+| [22633624](https://pubmed.ncbi.nlm.nih.gov/22633624/) | 2012 | Prospektif Fasa II | European Journal of Cancer | Vinorelbine + cyclophosphamide dos rendah oral pada anak-anak/dewasa muda dengan tumor pepejal yang kambuh/tahan ubat; toleransi yang baik dan isyarat keberkesanan dalam rhabdomyosarcoma (laporan SFCE) |
+| [12115359](https://pubmed.ncbi.nlm.nih.gov/12115359/) | 2002 | Kohort Retrospektif | Cancer | Vinorelbine dalam sarcoma kanak-kanak lanjutan yang telah dirawat sebelumnya; bukti aktiviti dalam rhabdomyosarcoma |
+| [37637411](https://pubmed.ncbi.nlm.nih.gov/37637411/) | 2023 | Ulasan | Frontiers in Pharmacology | Ulasan menyeluruh pemilihan ubat kemoterapi untuk sarcoma tisu lembut |
+| [26260582](https://pubmed.ncbi.nlm.nih.gov/26260582/) | 2016 | Pra-klinikal | International Journal of Cancer | Induksi apoptosis sinergis oleh perencam PLK1 (BI 6727) digabungkan dengan vinorelbine dan ubat pengganggu mikrotubulin lain dalam garis sel sarcoma Ewing |
+| [36451163](https://pubmed.ncbi.nlm.nih.gov/36451163/) | 2022 | Laporan Kes | BMC Urology | Laporan kes dan ulasan literatur sarcoma Ewing/pPNET extraosseous buah pinggang (tumpuan diagnosis, bukan rawatan) |
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Vinorelbine currently holds 8 valid marketing authorizations in Malaysia. Detailed authorization numbers, product names, dosage forms, and approved indication text are not yet available in the current data extract and require retrieval from the NPRA product registry.
+Vinorelbine kini memegang 8 kebenaran pemasaran yang sah di Malaysia. Nombor kebenaran terperinci, nama produk, bentuk dos, dan teks petunjuk yang diluluskan belum tersedia dalam ekstrak data semasa dan memerlukan pengambilan daripada daftar produk NPRA.
 
-## Cytotoxicity
+## Sitotoksisiti
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Cytotoxicity Classification | Conventional cytotoxic (Vinca alkaloid, microtubule inhibitor) |
-| Myelosuppression Risk | High — neutropenia is the dose-limiting toxicity consistently reported across vinorelbine combination trials in the evidence pack |
-| Emetogenicity Classification | Low to moderate (typical for vinca alkaloid class) |
-| Monitoring Items | CBC with differential (neutrophil count), liver function, injection-site/extravasation monitoring (vesicant agent) |
-| Handling Protection | Must follow cytotoxic drug handling and vesicant-agent administration precautions |
+| Klasifikasi Sitotoksisiti | Sitotoksik konvensional (Alkaloid vinca, penghambat mikrotubulin) |
+| Risiko Penekanan Sumsum Tulang | Tinggi — neutropenia adalah ketoksikan penentu dos yang dilaporkan secara konsisten di seluruh percubaan gabungan vinorelbine dalam pek bukti |
+| Klasifikasi Emetogenisiti | Rendah hingga sederhana (tipikal untuk kelas alkaloid vinca) |
+| Item Pemantauan | CBC dengan pembezaan (kiraan neutrofil), fungsi hati, pemantauan tapak suntikan/ekstravasasi (agen vesikan) |
+| Perlindungan Pengendalian | Mesti mengikuti pengendalian ubat sitotoksik dan perlindungan pentadbiran agen vesikan |
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information. Detailed warnings, contraindications, and drug interaction data are not currently available (flagged as blocking data gap DG001) and must be resolved before formal safety assessment can proceed.
+Sila rujuk sisipan pakej untuk maklumat keselamatan. Amaran terperinci, kontraindikasi, dan data interaksi ubat tidak tersedia pada masa ini (ditandakan sebagai jurang data penyekat DG001) dan mesti diselesaikan sebelum penilaian keselamatan rasmi dapat diteruskan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Proceed with Guardrails**
+**Keputusan: Lanjutkan dengan Perlindungan**
 
-**Rationale:**
-Two completed Phase II pediatric oncology trials directly tested vinorelbine in Ewing sarcoma family tumors, supported by preclinical mechanistic evidence and the established class-wide role of vinca alkaloids in pediatric sarcoma treatment — sufficient to warrant further evaluation, but not yet definitive (no dedicated randomized controlled trial in Ewing sarcoma specifically).
+**Alasan:**
 
-**To proceed, the following is needed:**
-- TFDA/NPRA product label data — warnings, contraindications, drug interactions (DG001, blocking)
-- Formal mechanism of action documentation from DrugBank or equivalent source (DG002)
-- Confirmation that CAMPFIRE (NCT05999994) includes a vinorelbine-specific Ewing sarcoma arm
-- Malaysia-specific market authorization details (product names, approved indication text, dosage forms)
-- A dedicated safety monitoring plan for pediatric/young adult populations given the high myelosuppression risk
+Dua percubaan onkologi pediatrik Fasa II yang selesai secara langsung menguji vinorelbine dalam tumor keluarga sarcoma Ewing, disokong oleh bukti mekanistik pra-klinikal dan peranan kelas alkaloid vinca yang telah ditubuhkan dalam rawatan sarcoma pediatrik — mencukupi untuk menjamin penilaian lanjut, tetapi belum pasti sepenuhnya (tiada percubaan terkontrol rawak khusus dalam sarcoma Ewing secara khusus).
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+
+- Data label produk TFDA/NPRA — amaran, kontraindikasi, interaksi ubat (DG001, penyekat)
+- Dokumentasi mekanisme tindakan rasmi daripada DrugBank atau sumber yang setara (DG002)
+- Pengesahan bahawa CAMPFIRE (NCT05999994) merangkumi lengan sarcoma Ewing khusus vinorelbine
+- Butiran kebenaran pasaran khusus Malaysia (nama produk, teks petunjuk yang diluluskan, bentuk dos)
+- Rancangan pemantauan keselamatan khusus untuk populasi pediatrik/dewasa muda memandangkan risiko penekanan sumsum tulang yang tinggi
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

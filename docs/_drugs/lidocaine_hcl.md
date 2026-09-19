@@ -29,84 +29,85 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# LIDOCAINE HCL: Local Anesthetic / Antiarrhythmic — No TxGNN Repurposing Predictions Generated
+# LIDOCAINE HCL: Anestetik Tempatan / Antiaritmik — Tiada Ramalan Ubat Semula Guna TxGNN Dijana
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Lidocaine HCl is a widely used local anesthetic and antiarrhythmic agent with **21 registered products** in Malaysia.
-The current TxGNN analysis run **did not generate any repurposing predictions** for this compound,
-and critical data gaps in mechanism of action, approved indications, and safety information prevent a complete evaluation at this stage.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Not retrieved in current dataset |
-| Predicted New Indication | No predictions generated |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 – No model prediction output |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 21 |
-| Recommended Decision | Hold |
+Lidocaine HCl ialah agen anestetik tempatan dan antiaritmik yang digunakan secara meluas dengan **21 produk berdaftar** di Malaysia.
+Larian analisis TxGNN semasa **tidak menjana sebarang ramalan ubat semula guna** untuk sebatian ini,
+dan jurang data kritikal dalam mekanisme tindakan, indikasi yang diluluskan, dan maklumat keselamatan menghalang penilaian lengkap pada peringkat ini.
 
 ---
 
-## Why Is No Prediction Available?
+## Gambaran Pantas
 
-TxGNN requires a valid **DrugBank ID** to anchor a compound in the knowledge graph and generate repurposing scores. In this Evidence Pack, `drugbank_id` is `null`, meaning the pipeline could not map Lidocaine HCl to a knowledge graph node. Without this anchor, the model produces no ranked disease candidates.
-
-Additionally, the `original_indications` array is empty and `original_moa` is unavailable, removing the biological context needed to validate any mechanistic rationale even if predictions were present.
-
-> Currently, detailed mechanism of action data is not available. Based on general pharmacological knowledge, Lidocaine HCl is a sodium channel blocker used as a local anesthetic and Class Ib antiarrhythmic drug; however, this information was not confirmed in the supplied Evidence Pack and should not be used for formal evaluation without verified sourcing.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered *(no predicted indication to search against)*.
+| Item | Kandungan |
+|------|-----------|
+| Indikasi Asal | Tidak diambil dalam set data semasa |
+| Indikasi Baharu Ramalan | Tiada ramalan dijana |
+| Skor Ramalan TxGNN | N/A |
+| Tahap Bukti | L5 – Tiada output ramalan model |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 21 |
+| Keputusan Disyorkan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Tiada Ramalan Tersedia?
 
-Currently no related literature available *(no predicted indication to search against)*.
+TxGNN memerlukan **DrugBank ID** yang sah untuk menolakinkan sebatian dalam graf pengetahuan dan menjana skor ubat semula guna. Dalam Pakej Bukti ini, `drugbank_id` ialah `null`, bermakna saluran paip tidak dapat memetakan Lidocaine HCl ke nod graf pengetahuan. Tanpa sauh ini, model tidak menghasilkan calon penyakit yang disusun.
 
----
+Selain itu, susunan `original_indications` adalah kosong dan `original_moa` tidak tersedia, menghilangkan konteks biologi yang diperlukan untuk mengesahkan sebarang rasional mekanistik walaupun jika ramalan ada.
 
-## Malaysia Market Information
-
-A total of **21 registered products** were identified via NPRA query (query date: 2026-03-27). However, individual license details — including authorization number, product name, dosage form, and approved indication text — were not retrieved in the current dataset.
-
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------------------|-------------|-------------|---------------------|
-| — | — | — | Detailed records not available; 21 registrations confirmed by NPRA |
+> Pada masa ini, data mekanisme tindakan terperinci tidak tersedia. Berdasarkan pengetahuan farmakologi am, Lidocaine HCl ialah penyekat saluran natrium yang digunakan sebagai agen anestetik tempatan dan ubat antiaritmik Kelas Ib; bagaimanapun, maklumat ini tidak disahkan dalam Pakej Bukti yang diberikan dan tidak boleh digunakan untuk penilaian rasmi tanpa sumber yang disahkan.
 
 ---
 
-## Safety Considerations
+## Bukti Ujian Klinikal
 
-Please refer to the package insert for safety information.
+Pada masa ini tiada ujian klinikal terkait didaftarkan *(tiada indikasi ramalan untuk dicari)*.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Kesusasteraan
 
-**Decision: Hold**
+Pada masa ini tiada kesusasteraan terkait tersedia *(tiada indikasi ramalan untuk dicari)*.
 
-**Rationale:**
-This evaluation cannot proceed meaningfully because the TxGNN pipeline produced no repurposing candidates — a direct consequence of the missing DrugBank ID — and all drug-level data fields (original indication, mechanism of action, safety warnings, contraindications, and individual license records) are absent from the current Evidence Pack.
+---
 
-**To proceed, the following is needed:**
+## Maklumat Pasaran Malaysia
 
-- **Resolve DrugBank ID**: Look up Lidocaine HCl on [DrugBank](https://www.drugbank.ca) (expected: DB00281) and update the `drugbank_id` field, then re-run the TxGNN prediction pipeline
-- **Retrieve NPRA license details**: Query NPRA product registry for all 21 registrations to populate product names, dosage forms, and approved indication texts
-- **Obtain MOA and safety data**: Pull the DrugBank entry for pharmacodynamics, mechanism of action, warnings, contraindications, and drug–drug interactions
-- **Parse package inserts**: Download NPRA/manufacturer-approved prescribing information PDFs to confirm local warnings and contraindications (Data Gap DG001 — severity: Blocking)
-- **Re-run evidence collection**: Once a predicted indication is confirmed, trigger ClinicalTrials.gov and PubMed collectors to gather supporting literature
+Sejumlah **21 produk berdaftar** telah dikenal pasti melalui pertanyaan NPRA (tarikh pertanyaan: 2026-03-27). Bagaimanapun, butir lesen individu — termasuk nombor kebenaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan — tidak diambil dalam set data semasa.
 
-> ⚠️ **YMYL Disclaimer**: This report is for research reference only and does not constitute medical advice. Any drug repurposing candidate must undergo clinical validation before application.
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
+|-----------------|-------------|-----------|------------------------|
+| — | — | — | Rekod terperinci tidak tersedia; 21 pendaftaran disahkan oleh NPRA |
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Penilaian ini tidak dapat diteruskan dengan bermakna kerana saluran paip TxGNN tidak menghasilkan calon ubat semula guna — akibat langsung daripada DrugBank ID yang hilang — dan semua medan data peringkat ubat (indikasi asal, mekanisme tindakan, amaran keselamatan, kontraindikasi, dan rekod lesen individu) adalah tidak hadir dalam Pakej Bukti semasa.
+
+**Untuk diteruskan, yang berikut diperlukan:**
+
+- **Selesaikan DrugBank ID**: Cari Lidocaine HCl di [DrugBank](https://www.drugbank.ca) (dijangka: DB00281) dan kemas kini medan `drugbank_id`, kemudian jalankan semula saluran paip ramalan TxGNN
+- **Ambil butir lesen NPRA**: Pertanyaan daftar produk NPRA untuk semua 21 pendaftaran untuk mengisi nama produk, bentuk dos, dan teks indikasi yang diluluskan
+- **Dapatkan data MOA dan keselamatan**: Tarik kemasukan DrugBank untuk farmakodinamik, mekanisme tindakan, amaran, kontraindikasi, dan interaksi ubat–ubat
+- **Analisa sisipan pakej**: Muat turun PDF maklumat preskripsi yang diluluskan NPRA/pengilang untuk mengesahkan amaran dan kontraindikasi tempatan (Jurang Data DG001 — keterukan: Menyekat)
+- **Jalankan semula pengumpulan bukti**: Setelah indikasi ramalan disahkan, picu pengumpul ClinicalTrials.gov dan PubMed untuk mengumpul kesusasteraan sokongan
+
+> ⚠️ **Penafian YMYL**: Laporan ini adalah untuk rujukan penyelidikan sahaja dan tidak merupakan nasihat perubatan. Sebarang calon ubat semula guna mesti menjalani pengesahan klinikal sebelum aplikasi.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

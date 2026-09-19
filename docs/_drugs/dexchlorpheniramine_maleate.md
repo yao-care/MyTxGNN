@@ -29,69 +29,70 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Dexchlorpheniramine Maleate: From Allergic Conditions to Acute Intermittent Porphyria
+# Dexchlorpheniramine Maleate: Daripada Keadaan Alergik kepada Porfira Akut Intermiten
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Dexchlorpheniramine maleate is a first-generation H1 antihistamine, widely used for the symptomatic relief of allergic conditions such as allergic rhinitis and urticaria. The TxGNN model predicts it may be effective for **Acute Intermittent Porphyria (AIP)**, a rare inherited metabolic disorder. Currently, there are **no clinical trials** and **no direct publications** supporting this specific drug-disease combination, though indirect mechanistic evidence from related antihistamines and preclinical porphyria models provides a scientific basis for further investigation.
+Dexchlorpheniramine maleate ialah antihistamin H1 generasi pertama, yang digunakan secara luas untuk meringankan gejala keadaan alergik seperti rinitis alergik dan urtikaria. Model TxGNN meramalkan ia mungkin berkesan untuk **Porfira Akut Intermiten (AIP)**, sejenis gangguan metabolik yang jarang dan diwariskan. Pada masa kini, **tiada ujian klinikal** dan **tiada penerbitan langsung** yang menyokong kombinasi ubat-penyakit khusus ini, walaupun bukti mekanisme tidak langsung daripada antihistamin berkaitan dan model porfira pra-klinikal memberikan asas sains untuk penyelidikan lebih lanjut.
 
-## Quick Overview
+## Gambaran Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | Allergic conditions (antihistamine) |
-| Predicted New Indication | Acute Intermittent Porphyria |
-| TxGNN Prediction Score | 99.12% |
-| Evidence Level | L4 — Preclinical / mechanism-based evidence (indirect) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 18 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Keadaan alergik (antihistamin) |
+| Indikasi Baru yang Diramalkan | Porfira Akut Intermiten |
+| Skor Ramalan TxGNN | 99.12% |
+| Tahap Bukti | L4 — Bukti pra-klinikal / berasaskan mekanisme (tidak langsung) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 18 |
+| Keputusan Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Dexchlorpheniramine is the dextrorotatory isomer of chlorpheniramine and acts as a potent first-generation H1 histamine receptor antagonist. It competitively blocks H1 receptors on effector cells, thereby suppressing histamine-mediated allergic responses including vasodilation, increased vascular permeability, and pruritus.
+Dexchlorpheniramine ialah isomer dekstrorotatori klorofeniramin dan bertindak sebagai antagonis reseptor histamin H1 generasi pertama yang kuat. Ia menyekat reseptor H1 secara kompetitif pada sel efektor, dengan itu menekan tindak balas alergik yang dimediasi histamin termasuk vasodilatasi, peningkatan kebolehtelapan vaskular, dan pruritus.
 
-The link between antihistamines and porphyria, while indirect, has emerging scientific support. A 2025 study by Kuo et al. published in *Cellular and Molecular Gastroenterology and Hepatology* demonstrated for the first time that the histamine pathway is directly involved in protoporphyrin accumulation and hepatic injury: (1) histamine increases protoporphyrin IX (PP-IX) accumulation; (2) H1/H2 receptor blockade reduces PP-IX concentrations; and (3) chlorcyclizine, a structurally related first-generation H1 antihistamine, significantly ameliorated liver injury in an erythropoietic protoporphyria (EPP) mouse model. Furthermore, the H2 antihistamine cimetidine has over 35 years of case report history in AIP treatment, although its proposed mechanism has since been revised.
+Hubungan antara antihistamin dan porfira, walaupun tidak langsung, mempunyai sokongan sains yang sedang berkembang. Kajian 2025 oleh Kuo et al. yang diterbitkan dalam *Cellular and Molecular Gastroenterology and Hepatology* menunjukkan untuk pertama kalinya bahawa laluan histamin terlibat secara langsung dalam pengumpulan protoporfirin dan kecederaan hepatik: (1) histamin meningkatkan pengumpulan protoporfirin IX (PP-IX); (2) penyekat reseptor H1/H2 mengurangkan kepekatan PP-IX; dan (3) klorosiklizin, antihistamin H1 generasi pertama yang berkaitan secara struktur, dengan ketara memperbaiki kecederaan hati dalam model tetikus porfira protoporfirin eritropoietik (EPP). Tambahan pula, antihistamin H2 simetidin mempunyai sejarah laporan kes lebih 35 tahun dalam rawatan AIP, walaupun mekanisme yang dicadangkan telah disemak semula sejak itu.
 
-However, important caveats must be noted. Most preclinical data pertain to EPP rather than AIP, and these two porphyrias have distinct pathophysiological mechanisms. The true therapeutic mechanism of cimetidine in AIP remains unclear, and there is no direct evidence for dexchlorpheniramine itself in AIP. On the positive side, first-generation H1 antihistamines are classified as "safe / probably safe" in acute porphyria, and dexchlorpheniramine is a CYP2D6 substrate/inhibitor rather than an inducer, meaning it does not carry porphyrinogenic risk.
+Walau bagaimanapun, peringatan penting mesti diambil perhatian. Kebanyakan data pra-klinikal berkaitan dengan EPP dan bukannya AIP, dan dua porfira ini mempunyai mekanisme patofiziologi yang berbeza. Mekanisme terapeutik sebenar simetidin dalam AIP masih tidak jelas, dan tiada bukti langsung untuk dexchlorpheniramine itu sendiri dalam AIP. Pada pihak positif, antihistamin H1 generasi pertama diklasifikasikan sebagai "selamat / mungkin selamat" dalam porfira akut, dan dexchlorpheniramine ialah substrat/penghambat CYP2D6 dan bukannya penginduksi, bermakna ia tidak membawa risiko porfinogen.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-Currently no related clinical trials registered for the combination of dexchlorpheniramine and acute intermittent porphyria.
+Pada masa kini tiada ujian klinikal berkaitan yang didaftarkan untuk kombinasi dexchlorpheniramine dan porfira akut intermiten.
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no direct literature available for the combination of dexchlorpheniramine and acute intermittent porphyria.
+Pada masa kini tiada literatur langsung yang tersedia untuk kombinasi dexchlorpheniramine dan porfira akut intermiten.
 
-**Note:** While no direct publications exist for this specific drug-disease pair, the following related references inform the mechanistic rationale:
-- Kuo et al. (2025), *Cell Mol Gastroenterol Hepatol* — demonstrated histamine pathway involvement in protoporphyrin accumulation and hepatic injury, with H1 antihistamine (chlorcyclizine) showing benefit in EPP mouse models.
-- Historical case reports (>35 years) of cimetidine (H2 antihistamine) use in AIP management.
+**Nota:** Walaupun tiada penerbitan langsung untuk pasangan ubat-penyakit khusus ini, rujukan berkaitan berikut memberikan maklumat tentang rasional mekanisme:
+- Kuo et al. (2025), *Cell Mol Gastroenterol Hepatol* — menunjukkan penglibatan laluan histamin dalam pengumpulan protoporfirin dan kecederaan hepatik, dengan antihistamin H1 (klorosiklizin) menunjukkan manfaat dalam model tetikus EPP.
+- Laporan kes bersejarah (>35 tahun) penggunaan simetidin (antihistamin H2) dalam pengurusan AIP.
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Dexchlorpheniramine maleate has **18 registered products** in Malaysia with market status: **Marketed**.
+Dexchlorpheniramine maleate mempunyai **18 produk berdaftar** di Malaysia dengan status pasaran: **Dipasarkan**.
 
-*Detailed license information (authorization numbers, product names, dosage forms, and approved indications) is currently unavailable in the evidence pack.*
+*Maklumat lesen terperinci (nombor kebenaran, nama produk, bentuk dos, dan indikasi yang diluluskan) tidak tersedia pada masa kini dalam pek bukti.*
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-> Please refer to the package insert for safety information.
+> Sila rujuk brosur produk untuk maklumat keselamatan.
 
-**Note on Porphyria Safety:** First-generation H1 antihistamines, including dexchlorpheniramine, are generally classified as **"safe / probably safe"** for use in patients with acute porphyria. Dexchlorpheniramine is a CYP2D6 substrate/inhibitor and is not a CYP enzyme inducer, which means it does not carry porphyrinogenic risk — an important consideration for any drug being evaluated for use in porphyria patients.
+**Nota tentang Keselamatan Porfira:** Antihistamin H1 generasi pertama, termasuk dexchlorpheniramine, secara amnya diklasifikasikan sebagai **"selamat / mungkin selamat"** untuk digunakan pada pesakit dengan porfira akut. Dexchlorpheniramine ialah substrat/penghambat CYP2D6 dan bukan penginduksi enzim CYP, yang bermakna ia tidak membawa risiko porfinogen — pertimbangan penting untuk mana-mana ubat yang dinilai untuk digunakan pada pesakit porfira.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The TxGNN prediction score is high (99.12%), and there is a plausible, albeit indirect, mechanistic link via the histamine–protoporphyrin pathway demonstrated in preclinical EPP models. However, there are no clinical trials, no direct publications, and no direct evidence for dexchlorpheniramine in AIP specifically. The mechanistic evidence largely derives from a related porphyria subtype (EPP) and from different antihistamines (chlorcyclizine, cimetidine), making extrapolation premature.
+**Rasional:**
+Skor ramalan TxGNN tinggi (99.12%), dan terdapat pautan mekanisme yang wajar, walaupun tidak langsung, melalui laluan histamin–protoporfirin yang ditunjukkan dalam model EPP pra-klinikal. Walau bagaimanapun, tiada ujian klinikal, tiada penerbitan langsung, dan tiada bukti langsung untuk dexchlorpheniramine dalam AIP secara khusus. Bukti mekanisme sebahagian besarnya berasal daripada subtip porfira berkaitan (EPP) dan daripada antihistamin yang berbeza (klorosiklizin, simetidin), menjadikan ekstrapolasi terlalu awal.
 
-**To proceed, the following is needed:**
-- **Mechanism of action data (MOA):** Retrieve detailed pharmacological data from DrugBank to clarify receptor binding profiles and downstream effects relevant to heme biosynthesis
-- **Safety profile:** Obtain package insert warnings and contraindications from the Malaysian NPRA or equivalent regulatory source
-- **Preclinical validation:** In vitro or in vivo studies testing dexchlorpheniramine specifically in AIP models (not just EPP)
-- **Literature deep-dive:** Systematic review of all antihistamines (H1 and H2) studied in any porphyria subtype, to map the class-level evidence landscape
-- **Consultation with porphyria specialists:** Expert opinion on whether H1 blockade could address the HMBS enzyme deficiency and ALA/PBG accumulation that characterize AIP, as opposed to the FECH deficiency in EPP
+**Untuk meneruskan, yang berikut diperlukan:**
+- **Data mekanisme tindakan (MOA):** Ambil data farmakologi terperinci daripada DrugBank untuk menjelaskan profil ikatan reseptor dan kesan hilir yang relevan dengan biosintesis hem
+- **Profil keselamatan:** Dapatkan amaran brosur produk dan kontraindikasi daripada NPRA Malaysia atau sumber kawal selia yang setara
+- **Pengesahan pra-klinikal:** Kajian in vitro atau in vivo menguji dexchlorpheniramine khususnya dalam model AIP (bukan hanya EPP)
+- **Penggalian literatur mendalam:** Ulasan sistematik semua antihistamin (H1 dan H2) yang dikaji dalam mana-mana subtip porfira, untuk memetakan lanskap bukti peringkat kelas
+- **Perundingan dengan pakar porfira:** Pendapat pakar tentang sama ada penyekat H1 boleh menangani kekurangan enzim HMBS dan pengumpulan ALA/PBG yang mencirikan AIP, berbeza dengan kekurangan FECH dalam EPP
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

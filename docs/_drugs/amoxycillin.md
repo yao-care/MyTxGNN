@@ -29,80 +29,81 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Amoxycillin: Broad-Spectrum Antibiotic — TxGNN Repurposing Analysis Pending
+# Amoxycillin: Antibiotik Spektrum Luas — Analisis Repurposing TxGNN Dalam Proses
 
 ---
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Amoxycillin is a widely-used aminopenicillin antibiotic indicated for a broad range of bacterial infections, with 66 registered products in Malaysia confirming strong market presence.
-The TxGNN model has **not yet generated repurposing predictions** for this drug in the current Evidence Pack.
-Without predicted indications, clinical trial and literature evidence searches have not been initiated, and a full repurposing evaluation cannot proceed at this stage.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Bacterial infections (respiratory tract, urinary tract, skin and soft tissue, *H. pylori* eradication) |
-| Predicted New Indication | Not yet generated |
-| TxGNN Prediction Score | Not available |
-| Evidence Level | Not applicable |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 66 |
-| Recommended Decision | **Hold** |
+Amoxycillin ialah antibiotik aminopenicillin yang digunakan secara meluas dan ditunjukkan untuk pelbagai jangkauan jangkitan bakteria, dengan 66 produk yang didaftar di Malaysia mengesahkan kehadiran pasaran yang kukuh.
+Model TxGNN **belum menghasilkan ramalan repurposing** untuk ubat ini dalam Pek Bukti semasa.
+Tanpa indikasi yang diramalkan, pencarian ujian klinikal dan bukti literatur belum dimulakan, dan penilaian repurposing penuh tidak boleh diteruskan pada peringkat ini.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Pantas
 
-Amoxycillin is a broad-spectrum aminopenicillin in the beta-lactam antibiotic class. Its mechanism of action centres on binding to penicillin-binding proteins (PBPs) embedded in the bacterial cell membrane, blocking the final transpeptidation step of peptidoglycan cross-linking. This prevents cell wall synthesis, causing osmotic instability and bactericidal lysis. It is active against a wide range of Gram-positive organisms (e.g., *Streptococcus*, *Enterococcus*) and selected Gram-negative pathogens (e.g., *H. pylori*, *E. coli*, *H. influenzae*).
-
-Clinically, amoxycillin is a first-line agent for community-acquired pneumonia, acute otitis media, urinary tract infections, dental infections, and *Helicobacter pylori* eradication as part of triple or quadruple therapy regimens. It is among the most prescribed antibiotics globally, with a decades-long safety and efficacy database across all age groups.
-
-Because the current Evidence Pack contains **no TxGNN-predicted new indications**, a disease-specific mechanistic rationale for repurposing cannot be provided at this time. This section will be updated once the TxGNN prediction pipeline has been executed with the correct DrugBank identifier for Amoxycillin.
-
----
-
-## Malaysia Market Information
-
-The Malaysia NPRA database confirms **66 registered products** for Amoxycillin, indicating well-established market access across multiple manufacturers and dosage forms. However, the individual licence records were not populated in this version of the Evidence Pack.
-
-| Authorisation Number | Product Name | Dosage Form | Approved Indication |
-|----------------------|--------------|-------------|---------------------|
-| — | Not populated in current data pack | — | — |
-
-> Full licence details (product names, dosage forms, manufacturers, and approved indication texts) can be retrieved from the **NPRA eBiz portal** (https://www.npra.gov.my/) by searching the active ingredient **"Amoxycillin"**.
+| Item | Kandungan |
+|------|-----------|
+| Indikasi Asal | Jangkitan bakteria (saluran pernafasan, saluran kencing, kulit dan tisu lembut, pemberantasan *H. pylori*) |
+| Indikasi Baru yang Diramalkan | Belum dijana |
+| Skor Ramalan TxGNN | Tidak tersedia |
+| Tahap Bukti | Tidak berkenaan |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 66 |
+| Keputusan yang Disyorkan | **Tunggu** |
 
 ---
 
-## Safety Considerations
+## Mengapa Ramalan Ini Munasabah?
 
-Safety data has not been populated in this Evidence Pack. Please refer to the approved Malaysian package insert for complete safety information.
+Amoxycillin ialah aminopenicillin spektrum luas dalam kelas antibiotik beta-laktam. Mekanisme tindakannya berpusat pada pengikatan kepada protein pengikat penicillin (PBP) yang tertanam dalam membran sel bakteria, menghalang langkah transpeptidasi akhir bagi keratan silang peptidoglikan. Ini menghalang sintesis dinding sel, menyebabkan ketidakstabilan osmotik dan lisis bakterisida. Ia aktif terhadap pelbagai organisma Gram-positif (cth. *Streptococcus*, *Enterococcus*) dan patogen Gram-negatif terpilih (cth. *H. pylori*, *E. coli*, *H. influenzae*).
 
-Based on the well-established published literature, the following areas warrant attention during the formal safety review:
+Dari segi klinikal, amoxycillin ialah agen garis pertama bagi pneumonia yang diperoleh komuniti, otitis media akut, jangkitan saluran kencing, jangkitan gigi, dan pemberantasan *Helicobacter pylori* sebagai sebahagian daripada rejimen terapi tiga atau empat ubat. Ia adalah antara antibiotik yang paling dipersembahkan secara global, dengan pangkalan data keselamatan dan keberkesanan selama beberapa dekad merentasi semua kumpulan umur.
 
-- **Hypersensitivity**: Penicillin-class allergy, including the risk of anaphylaxis, is the primary safety concern; cross-reactivity with cephalosporins should be assessed
-- **Drug Interactions**: Clinically relevant interactions are well-described with warfarin (enhanced anticoagulant effect), methotrexate (reduced renal clearance), and combined oral contraceptives (theoretical reduced efficacy)
-- **Contraindications**: Known hypersensitivity to penicillins or any beta-lactam antibiotic
+Kerana Pek Bukti semasa mengandungi **tiada ramalan TxGNN bagi indikasi baru**, rasional mekanik penyakit khusus untuk repurposing tidak dapat diberikan pada masa ini. Bahagian ini akan dikemas kini apabila saluran ramalan TxGNN telah dilaksanakan dengan pengenal DrugBank yang betul untuk Amoxycillin.
 
 ---
 
-## Conclusion and Next Steps
+## Maklumat Pasaran Malaysia
 
-**Decision: Hold**
+Pangkalan data NPRA Malaysia mengesahkan **66 produk yang terdaftar** untuk Amoxycillin, menunjukkan akses pasaran yang mantap di seluruh pelbagai pengeluar dan bentuk dos. Walau bagaimanapun, rekod lesen individu tidak diisi dalam versi Pek Bukti ini.
 
-**Rationale:**
-No TxGNN repurposing predictions are available in the current Evidence Pack, and the DrugBank ID — required as the primary model input — has not been confirmed. All downstream analysis (indication prediction, evidence collection, safety mapping) depends on completing these foundational data steps first.
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
+|------------------|------------|-----------|------------------------|
+| — | Tidak diisi dalam pek data semasa | — | — |
 
-**To proceed, the following is needed:**
+> Butiran lesen lengkap (nama produk, bentuk dos, pengeluar, dan teks indikasi yang diluluskan) boleh diambil daripada **portal eBiz NPRA** (https://www.npra.gov.my/) dengan mencari bahan aktif **"Amoxycillin"**.
 
-- **Confirm DrugBank ID** (expected: DB01060) and retrieve full MOA data via the DrugBank API to resolve Data Gap DG002
-- **Run TxGNN prediction pipeline** for Amoxycillin to generate ranked repurposing candidates
-- **Download Malaysian package insert PDF** from the NPRA website and parse for warnings and contraindications, resolving Data Gap DG001
-- **Retrieve complete licence details** from NPRA eBiz portal (product names, dosage forms, approved indication texts for all 66 registrations)
-- **Once predictions are available**, re-run evidence collection from ClinicalTrials.gov and PubMed for the top-ranked predicted indications, then regenerate this report
+---
+
+## Pertimbangan Keselamatan
+
+Data keselamatan belum diisi dalam Pek Bukti ini. Sila rujuk bungkus yang diluluskan Malaysia yang dibekalkan oleh pengeluar untuk maklumat keselamatan yang lengkap.
+
+Berdasarkan literatur terbitan yang mantap, kawasan berikut wajar perhatian semasa semakan keselamatan formal:
+
+- **Hipersensitiviti**: Alergi kelas penicillin, termasuk risiko anafilaksis, adalah kebimbangan keselamatan utama; reaktiviti silang dengan sefalosporin harus dinilai
+- **Interaksi Ubat**: Interaksi klinikal yang relevan dengan baik dijelaskan dengan warfarin (kesan antikoagulan yang diperkuat), metotreksat (pelepasan ginjal yang dikurangkan), dan ubat kontraseptif oral gabungan (kemanjuran yang berkurangan secara teorinya)
+- **Kontraindikasi**: Hipersensitiviti yang diketahui terhadap penicillin atau sebarang antibiotik beta-laktam
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tunggu**
+
+**Alasan:**
+Tiada ramalan repurposing TxGNN tersedia dalam Pek Bukti semasa, dan ID DrugBank — diperlukan sebagai input model utama — belum disahkan. Semua analisis aliran hilir (ramalan indikasi, pengumpulan bukti, pemetaan keselamatan) bergantung pada penyiapan langkah data asas ini terlebih dahulu.
+
+**Untuk diteruskan, perkara berikut diperlukan:**
+
+- **Sahkan ID DrugBank** (dijangka: DB01060) dan ambil data MOA lengkap melalui API DrugBank untuk menyelesaikan Jurang Data DG002
+- **Jalankan saluran ramalan TxGNN** untuk Amoxycillin bagi menjana calon repurposing yang ditarafkan
+- **Muat turun PDF bungkus produk Malaysia** daripada laman web NPRA dan asingkan bagi amaran dan kontraindikasi, menyelesaikan Jurang Data DG001
+- **Ambil butiran lesen lengkap** daripada portal eBiz NPRA (nama produk, bentuk dos, teks indikasi yang diluluskan bagi semua 66 pendaftaran)
+- **Setelah ramalan tersedia**, jalankan semula pengumpulan bukti daripada ClinicalTrials.gov dan PubMed bagi indikasi yang diramalkan terpangkat teratas, kemudian hasilkan semula laporan ini
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

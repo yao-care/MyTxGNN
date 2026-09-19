@@ -29,89 +29,88 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-Using the drug-repurposing evidence pack directly (no skill match for this — it's a template-driven content generation task), here's the report:
+# Perfenazin: Dari Gangguan Psikotik kepada Distrofi Retina dengan Anomali Ekstraokuler
 
-# Perphenazine: From Psychotic Disorders to Retinal Dystrophy with Extraocular Anomalies
+## Ringkasan dalam Satu Ayat
 
-## One-Sentence Summary
-
-> Perphenazine is a phenothiazine antipsychotic classically used for schizophrenia and related psychotic disorders. The TxGNN model's top-ranked prediction is **retinal dystrophy with or without extraocular anomalies**, but this signal is supported by **zero clinical trials** and **15 publications that never mention perphenazine** — the evidence pack itself flags it as likely knowledge-graph embedding noise from a sparsely connected rare-disease node.
+> Perfenazin adalah antagonis dopamin fenotiazina kelas yang secara klasik digunakan untuk skizofrenia dan gangguan psikotik yang berkaitan. Ramalan teratas model TxGNN adalah **distrofi retina dengan atau tanpa anomali ekstraokuler**, tetapi isyarat ini disokong oleh **sifar ujian klinis** dan **15 publikasi yang tidak pernah menyebut perfenazin** — paket bukti itu sendiri menandakannya sebagai kemungkinan kebisingan pembenaman graf pengetahuan daripada nod penyakit jarang yang bersambung secara longgar.
 
 ---
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | Not captured in this data pull (TFDA/NPRA license record exists but is blank); Perphenazine is a phenothiazine antipsychotic classically indicated for schizophrenia/psychotic disorders |
-| Predicted New Indication | Retinal dystrophy with or without extraocular anomalies |
-| TxGNN Prediction Score | 99.96% (rank 932) |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
-
----
-
-## Why is This Prediction Reasonable?
-
-Detailed mechanism-of-action data for this candidate pair is not available (DG002, High severity). Based on what is known, Perphenazine is a typical phenothiazine antipsychotic with D2 dopamine receptor antagonism, 5-HT2A antagonism, and sedative activity, used clinically for schizophrenia and related psychotic disorders.
-
-No plausible pharmacological link connects this action profile to retinal dystrophy or extraocular developmental anomalies, which are congenital/genetic ophthalmologic conditions (lens malformation, orbital structural anomalies, cranial dysinnervation disorders, etc.). The retrieved literature confirms this: all 15 publications discuss congenital eye/orbit pathology and **do not mention perphenazine at all**. The evidence pack's own rationale explicitly characterizes this as likely TxGNN knowledge-graph embedding noise, probably arising from sparse connectivity around this rare-disease node rather than a genuine pharmacological signal.
-
-For context, a lower-ranked candidate in the same evidence pack — **anxiety disorder** (rank 10, score 99.53%) — shows a substantially more credible signal: multiple historical double-blind RCTs and two registered trials, consistent with the well-documented off-label anxiolytic use of low-dose phenothiazines (e.g., the historical perphenazine-amitriptyline combination product Triavil/Etrafon). That candidate carries an L2 evidence level and a "Proceed with Guardrails" recommendation, in contrast to the L5/Hold status of the top-ranked retinal dystrophy prediction.
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Tidak ditangkap dalam tarik data ini (rekod lesen TFDA/NPRA wujud tetapi kosong); Perfenazin adalah antagonis dopamin fenotiazina kelas yang secara klasik ditunjukkan untuk skizofrenia/gangguan psikotik |
+| Indikasi Baru yang Diramalkan | Distrofi retina dengan atau tanpa anomali ekstraokuler |
+| Skor Ramalan TxGNN | 99.96% (ranking 932) |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 1 |
+| Keputusan Disyorkan | Tahan |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related clinical trials registered.
+Data mekanisme tindakan terperinci untuk pasangan calon ini tidak tersedia (DG002, Keterukan Tinggi). Berdasarkan apa yang diketahui, Perfenazin adalah antagonis dopamin fenotiazina kelas dengan antagonisme reseptor D2 dopamin, antagonisme 5-HT2A, dan aktiviti sedatif, digunakan secara klinis untuk skizofrenia dan gangguan psikotik yang berkaitan.
 
----
+Tiada pautan farmakologi yang munasabah menghubungkan profil tindakan ini kepada distrofi retina atau anomali perkembangan ekstraokuler, yang merupakan keadaan oftalmologi kongenital/genetik (malformasi lensa, anomali struktur orbital, gangguan kronial disinnervasi, dsb.). Kesusasteraan yang diambil mengesahkan ini: semua 15 publikasi membincangkan patologi mata/orbit kongenital dan **tidak menyebut perfenazin sama sekali**. Rasional paket bukti itu sendiri secara eksplisit mengcirikan ini sebagai kemungkinan kebisingan pembenaman graf pengetahuan TxGNN, berkemungkinan timbul daripada sambungan yang longgar di sekitar nod penyakit jarang ini daripada isyarat farmakologi yang tulin.
 
-## Literature Evidence
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [9416661](https://pubmed.ncbi.nlm.nih.gov/9416661/) | 1997 | Review | Seminars in Ultrasound, CT, and MR | Orbital infection stages secondary to sinusitis; no drug relevance |
-| [20127583](https://pubmed.ncbi.nlm.nih.gov/20127583/) | 2010 | Review | Seminars in Neurology | Diagnostic approach to diplopia from ocular/neurologic/muscle disorders |
-| [22241537](https://pubmed.ncbi.nlm.nih.gov/22241537/) | 2012 | Review | Klinische Monatsblätter für Augenheilkunde | Congenital ptosis pathophysiology and levator muscle fibrosis |
-| [38249493](https://pubmed.ncbi.nlm.nih.gov/38249493/) | 2023 | Review | Taiwan Journal of Ophthalmology | Congenital lens shape anomalies and associated ocular dysgenesis |
-| [109006](https://pubmed.ncbi.nlm.nih.gov/109006/) | 1979 | Case report | American Journal of Ophthalmology | Two cases of unilateral cryptophthalmia with orbital malformation |
-| [24413161](https://pubmed.ncbi.nlm.nih.gov/24413161/) | 2014 | Case report | Journal of Neuro-Ophthalmology | Congenital trochlear-oculomotor synkinesis case |
-| [7035111](https://pubmed.ncbi.nlm.nih.gov/7035111/) | 1981 | Review | Documenta Ophthalmologica | Wagner-Stickler vitreoretinal degeneration syndrome complex |
-| [38321238](https://pubmed.ncbi.nlm.nih.gov/38321238/) | 2024 | Review | Pediatric Radiology | Imaging features of pediatric congenital ocular pathologies |
-| [19826317](https://pubmed.ncbi.nlm.nih.gov/19826317/) | 2009 | Case report | Optometry and Vision Science | Congenital extraocular muscle fibrosis with synergistic divergence |
-| [19064847](https://pubmed.ncbi.nlm.nih.gov/19064847/) | 2008 | Review | Archives of Ophthalmology | Clinical features and management of orbital arteriovenous malformations |
-
-None of the above discuss perphenazine or any pharmacological intervention — all are purely ophthalmologic/congenital-anomaly literature retrieved on disease-term overlap.
+Untuk konteks, calon berkadar lebih rendah dalam paket bukti yang sama — **gangguan kecemasan** (ranking 10, skor 99.53%) — menunjukkan isyarat yang jauh lebih kredibel: pelbagai ujian kawalan berkadaran sejarah dan dua ujian berdaftar, konsisten dengan penggunaan dari label pemeriksaan anti-kecemasan fenotiazina dos rendah yang terdokumentasi dengan baik (cth., produk gabungan sejarah perfenazin-amitriptilina Triavil/Etrafon). Calon itu membawa tahap bukti L2 dan cadangan "Teruskan dengan Perlindungan", berbeza dengan status L5/Tahan ramalan distrofi retina teratas.
 
 ---
 
-## Malaysia Market Information
+## Bukti Ujian Klinis
 
-A license record exists (total registrations: 1) under NPRA, but the registration number, product name, dosage form, and approved indication text were not captured in this data pull (part of DG001, Blocking severity). This needs to be sourced from the NPRA product label before market-status claims can be finalized.
-
----
-
-## Safety Considerations
-
-Key warnings, contraindications, and drug-interaction data were not captured in this evidence pack (DG001, Blocking — required before safety screening can proceed). Please refer to the package insert for safety information.
+Pada masa kini tiada ujian klinis berdaftar yang berkaitan.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Kesusasteraan
 
-**Decision: Hold**
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-------|--------|--------|---------|
+| [9416661](https://pubmed.ncbi.nlm.nih.gov/9416661/) | 1997 | Ulasan | Seminars in Ultrasound, CT, and MR | Tahap jangkitan orbital sekunder kepada sinusitis; tiada relevan ubat |
+| [20127583](https://pubmed.ncbi.nlm.nih.gov/20127583/) | 2010 | Ulasan | Seminars in Neurology | Pendekatan diagnostik kepada diplopia daripada gangguan okuler/neurol/otot |
+| [22241537](https://pubmed.ncbi.nlm.nih.gov/22241537/) | 2012 | Ulasan | Klinische Monatsblätter für Augenheilkunde | Patofisiologi ptosis kongenital dan fibrosis otot levator |
+| [38249493](https://pubmed.ncbi.nlm.nih.gov/38249493/) | 2023 | Ulasan | Taiwan Journal of Ophthalmology | Anomali bentuk lensa kongenital dan dysgenesis okuler yang berkaitan |
+| [109006](https://pubmed.ncbi.nlm.nih.gov/109006/) | 1979 | Laporan kes | American Journal of Ophthalmology | Dua kes cryptophthalmia unilateral dengan malformasi orbital |
+| [24413161](https://pubmed.ncbi.nlm.nih.gov/24413161/) | 2014 | Laporan kes | Journal of Neuro-Ophthalmology | Kes synkinesis troklear-okular motor kongenital |
+| [7035111](https://pubmed.ncbi.nlm.nih.gov/7035111/) | 1981 | Ulasan | Documenta Ophthalmologica | Kompleks degenerasi vitreoretinal sindrom Wagner-Stickler |
+| [38321238](https://pubmed.ncbi.nlm.nih.gov/38321238/) | 2024 | Ulasan | Pediatric Radiology | Ciri pengimejan patologi okuler kongenital pediatrik |
+| [19826317](https://pubmed.ncbi.nlm.nih.gov/19826317/) | 2009 | Laporan kes | Optometry and Vision Science | Fibrosis otot ekstraokuler kongenital dengan divergens sinergi |
+| [19064847](https://pubmed.ncbi.nlm.nih.gov/19064847/) | 2008 | Ulasan | Archives of Ophthalmology | Ciri klinis dan pengurusan malformasi arteriovenosa orbital |
 
-**Rationale:**
-The top-ranked prediction (retinal dystrophy with/without extraocular anomalies) has a high TxGNN score but no clinical trials, no relevant literature, and no plausible mechanistic link — it is L5 evidence (model prediction only) and the evidence pack itself flags it as likely embedding noise.
+Tiada satu pun di atas membincangkan perfenazin atau sebarang campur tangan farmakologi — semua adalah kesusasteraan oftalmologi tulen/anomali-kongenital yang diambil pada pertindihan istilah penyakit.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA label data — key warnings and contraindications (DG001, Blocking)
-- Confirmed mechanism of action (DG002, High)
-- If this specific signal is pursued: dedicated preclinical/pharmacological rationale linking perphenazine to retinal or extraocular developmental pathways
-- Consider re-scoping this candidacy toward the **anxiety disorder** signal (rank 10, L2, Proceed with Guardrails), which has materially stronger clinical and literature support within the same evidence pack
+---
+
+## Maklumat Pasaran Malaysia
+
+Rekod lesen wujud (jumlah pendaftaran: 1) di bawah NPRA, tetapi nombor pendaftaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan tidak ditangkap dalam tarik data ini (sebahagian daripada DG001, Keterukan Menghalang). Ini perlu bersumber daripada label produk NPRA sebelum tuntutan status pasaran dapat disempurnakan.
+
+---
+
+## Pertimbangan Keselamatan
+
+Data amaran utama, kontraindikasi, dan interaksi ubat-ubatan tidak ditangkap dalam paket bukti ini (DG001, Menghalang — diperlukan sebelum penyaringan keselamatan dapat diteruskan). Sila rujuk sisipan pembungkus untuk maklumat keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Ramalan teratas (distrofi retina dengan/tanpa anomali ekstraokuler) mempunyai skor TxGNN tinggi tetapi tiada ujian klinis, tiada kesusasteraan relevan, dan tiada pautan mekanistik yang munasabah — ia adalah bukti L5 (ramalan model sahaja) dan paket bukti itu sendiri menandakannya sebagai kemungkinan kebisingan pembenaman.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data label TFDA/NPRA — amaran utama dan kontraindikasi (DG001, Menghalang)
+- Mekanisme tindakan yang disahkan (DG002, Tinggi)
+- Jika isyarat khusus ini diikuti: rasional farmakologi/preklinik yang khusus menghubungkan perfenazin kepada laluan perkembangan retina atau ekstraokuler
+- Pertimbangkan untuk mengubah skop candidacy ini ke arah isyarat **gangguan kecemasan** (ranking 10, L2, Teruskan dengan Perlindungan), yang mempunyai sokongan klinis dan kesusasteraan yang lebih material dalam paket bukti yang sama
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

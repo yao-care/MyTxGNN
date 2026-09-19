@@ -29,112 +29,113 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Pegaspargase: From Acute Lymphoblastic Leukemia to Precursor Lymphoblastic Lymphoma/Leukemia
+# Pegaspargase: Daripada Leukemia Limfoblas Akut kepada Limfoma/Leukemia Limfoblas Pendahulu
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Pegaspargase (DrugBank DB00059) is a pegylated asparaginase already established as a core component of acute lymphoblastic leukemia (ALL) therapy internationally, per the literature captured in this evidence pack. The TxGNN model's top prediction — **precursor lymphoblastic lymphoma/leukemia** — is the same disease family as this established use rather than a genuinely new indication, and is backed by **50 clinical trials** (including multiple Phase 3 studies with thousands of patients) and **20 publications**. This is best read as a validation of the model rather than a novel repurposing opportunity; see the caveat below.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Acute lymphoblastic leukemia (per literature evidence in this pack, e.g. PMID 31030380, 30823860; NPRA/Malaysia formal label text not yet retrieved — data gap) |
-| Predicted New Indication | Precursor lymphoblastic lymphoma/leukemia |
-| TxGNN Prediction Score | 99.96% |
-| Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Proceed with Guardrails |
-
-**⚠️ Important caveat**: "Precursor lymphoblastic lymphoma/leukemia" is clinically synonymous with/overlapping the drug's own well-established indication (ALL/lymphoblastic lymphoma). The evidence pack's own rationale for this candidate states this is "not a speculative link but the core, already-established mechanism of asparaginase-class drugs," and the parallel candidate at rank 5 ("acute lymphoblastic leukemia," also L1/S3) is explicitly flagged as "a duplicate of an already-approved use, not a repurposing hypothesis." Treat this as confirmation of model validity rather than a new market opportunity, pending regulatory clarification of what Malaysia's current label actually covers.
+Pegaspargase (DrugBank DB00059) adalah agen asparaginase yang dipegylasi dan telah ditetapkan sebagai komponen inti terapi leukemia limfoblas akut (ALL) secara global, berdasarkan literatur yang ditangkap dalam paket bukti ini. Prediksi teratas model TxGNN — **limfoma/leukemia limfoblas pendahulu** — adalah keluarga penyakit yang sama dengan penggunaan yang telah ditetapkan ini daripada indikasi yang benar-benar baru, dan didukung oleh **50 uji klinis** (termasuk beberapa kajian Fasa 3 dengan ribuan pesakit) dan **20 publikasi**. Ini sebaiknya dibaca sebagai pengesahan kesahihan model daripada peluang pengguna ulang yang baru; lihat peringatan di bawah.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Cepat
 
-Currently, detailed mechanism of action data is not available from DrugBank in this pack (marked as a data gap, DG002). Based on the literature evidence collected alongside this candidate, pegaspargase is a pegylated *E. coli*-derived L-asparaginase that depletes circulating asparagine. Lymphoblasts in precursor B/T-cell ALL and lymphoblastic lymphoma characteristically lack asparagine synthetase and cannot synthesize their own asparagine, so systemic depletion selectively starves and kills these malignant cells while sparing most normal tissue.
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Leukemia limfoblas akut (menurut bukti literatur dalam paket ini, cth. PMID 31030380, 30823860; teks label rasmi NPRA/Malaysia belum diambil — jurang data) |
+| Indikasi Baru yang Diramalkan | Limfoma/leukemia limfoblas pendahulu |
+| Skor Prediksi TxGNN | 99.96% |
+| Paras Bukti | L1 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan Disyorkan | Teruskan dengan Penjaga |
 
-Because this biochemical vulnerability is the defining feature of precursor lymphoblastic malignancies, the TxGNN prediction is mechanistically well-founded rather than a distant repurposing hypothesis — it converges with pegaspargase's existing global indication for ALL. This is corroborated by the scale of clinical evidence: dozens of completed and ongoing Phase 3 trials in pediatric and adult B-ALL/T-ALL and lymphoblastic lymphoma consistently use pegaspargase as a backbone agent.
-
-By contrast, several other predictions in this evidence pack for related-sounding but biologically distinct entities (e.g., CLL/SLL subtypes, follicular lymphoma, classical Hodgkin lymphoma, methylcobalamin deficiency) lack asparagine-synthetase deficiency and have zero or mismatched supporting evidence — these should be treated with far more skepticism than this top candidate.
+**⚠️ Peringatan penting**: "Limfoma/leukemia limfoblas pendahulu" adalah sinonim klinikal/bertindih dengan indikasi yang telah ditetapkan dengan baik oleh ubat itu sendiri (ALL/limfoma limfoblas). Rasional paket bukti sendiri untuk calon ini menyatakan ini adalah "bukan pautan spekulatif tetapi mekanisme inti, sudah ditetapkan bagi ubat kelas asparaginase," dan calon selari pada pangkat 5 ("leukemia limfoblas akut," juga L1/S3) secara eksplisit dibenderakan sebagai "salinan penggunaan yang sudah diluluskan, bukan hipotesis pengguna ulang." Perlakukan ini sebagai pengesahan kesahihan model daripada peluang pasaran baru, menunggu penjelasan kawal selia tentang apa sebenarnya liputan label semasa Malaysia.
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Prediksi Ini Munasabah?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Pada masa kini, data mekanisme tindakan terperinci tidak tersedia daripada DrugBank dalam paket ini (ditandai sebagai jurang data, DG002). Berdasarkan bukti literatur yang dikumpulkan bersama-sama dengan calon ini, pegaspargase adalah asparaginase yang dipegylasi berasal daripada *E. coli* yang menghabiskan asparagin dalam peredaran. Limfoblas dalam ALL pendahulu sel-B/T dan limfoma limfoblas secara karakteristik kekurangan asparaginase sintase dan tidak dapat mensintesis asparagin mereka sendiri, jadi penipisan sistematik secara selektif mengalahkan dan membunuh sel ganas ini sambil menyelamatkan kebanyakan tisu normal.
+
+Kerana kelemahan biokimia ini adalah ciri yang menentukan malignansi limfoblas pendahulu, ramalan TxGNN adalah berdasarkan mekanisme dengan baik daripada hipotesis pengguna ulang yang jauh — ia bertemu dengan indikasi global pegaspargase yang sedia ada untuk ALL. Ini disokong oleh skala bukti klinis: puluhan percubaan Fasa 3 yang telah selesai dan sedang berlangsung dalam B-ALL/T-ALL dan limfoma limfoblas secara konsisten menggunakan pegaspargase sebagai agen tulang belakang.
+
+Sebaliknya, beberapa ramalan lain dalam paket bukti ini untuk entiti yang berbunyi berkaitan tetapi tersendiri dari segi biologi (cth., subtipe CLL/SLL, limfoma folikular, limfoma Hodgkin klasik, kekurangan metilkobalamin) tidak mempunyai kekurangan asparaginase-sintase dan tidak mempunyai bukti sokongan atau ketidaksesuaian — ini harus diperlakukan dengan banyak lebih skeptis daripada calon teratas ini.
+
+---
+
+## Bukti Uji Klinis
+
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT01190930](https://clinicaltrials.gov/study/NCT01190930) | Phase 3 | Active, not recruiting | 9,350 | Risk-adapted chemotherapy regimens for newly diagnosed standard-risk B-ALL / localized B-lineage lymphoblastic lymphoma; pegaspargase is standard-of-care component |
-| [NCT01117441](https://clinicaltrials.gov/study/NCT01117441) | Phase 3 | Completed | 6,136 | International collaborative treatment protocol for children/adolescents with ALL, comparing combination chemotherapy regimens |
-| [NCT00671034](https://clinicaltrials.gov/study/NCT00671034) | Phase 3 | Completed | 166 | Head-to-head comparison of calaspargase pegol vs. pegaspargase (Oncaspar) in high-risk pediatric ALL |
-| [NCT03914625](https://clinicaltrials.gov/study/NCT03914625) | Phase 3 | Active, not recruiting | 6,720 | Blinatumomab added to chemotherapy (incl. pegaspargase) for newly diagnosed standard-risk B-ALL / B-LLy |
-| [NCT03959085](https://clinicaltrials.gov/study/NCT03959085) | Phase 3 | Recruiting | 5,951 | Inotuzumab ozogamicin added to risk-adapted post-induction therapy for high-risk B-ALL |
-| [NCT02716233](https://clinicaltrials.gov/study/NCT02716233) | Phase 3 | Active, not recruiting | 2,044 | French pediatric/adolescent ALL protocol optimizing L-asparaginase (ASNase) dosing strategy |
-| [NCT00549848](https://clinicaltrials.gov/study/NCT00549848) | Phase 3 | Completed | 600 | Total Therapy XVI: high-dose vs. conventional-dose PEG-asparaginase during continuation therapy |
-| [NCT00819351](https://clinicaltrials.gov/study/NCT00819351) | Phase 3 | Completed | 650 | NOPHO protocol comparing intermittent vs. continuous PEG-asparaginase dosing for asparagine depletion |
-| [NCT02013167](https://clinicaltrials.gov/study/NCT02013167) | Phase 3 | Terminated | 405 | TOWER study: blinatumomab vs. standard chemotherapy in relapsed/refractory B-precursor ALL |
-| [NCT00506597](https://clinicaltrials.gov/study/NCT00506597) | N/A | Completed | 33 | Erwinia asparaginase (Erwinase) as replacement therapy for patients allergic to E. coli/pegylated asparaginase |
+| [NCT01190930](https://clinicaltrials.gov/study/NCT01190930) | Fasa 3 | Aktif, bukan merekrut | 9,350 | Rejim kemoterapi yang menyesuaikan risiko untuk ALL dengan risiko standard baru siasat/limfoma limfoblas barisan-B terlokalisasi; pegaspargase adalah komponen penjagaan standard |
+| [NCT01117441](https://clinicaltrials.gov/study/NCT01117441) | Fasa 3 | Selesai | 6,136 | Protokol rawatan kolaboratif antarabangsa untuk kanak-kanak/remaja dengan ALL, membandingkan rejim kemoterapi kombinasi |
+| [NCT00671034](https://clinicaltrials.gov/study/NCT00671034) | Fasa 3 | Selesai | 166 | Perbandingan berdepan-depan calaspargase pegol vs. pegaspargase (Oncaspar) dalam ALL pediatrik berisiko tinggi |
+| [NCT03914625](https://clinicaltrials.gov/study/NCT03914625) | Fasa 3 | Aktif, bukan merekrut | 6,720 | Blinatumomab ditambah kemoterapi (termasuk pegaspargase) untuk ALL barisan-B standard risiko baru siasat / B-LLy |
+| [NCT03959085](https://clinicaltrials.gov/study/NCT03959085) | Fasa 3 | Merekrut | 5,951 | Inotuzumab ozogamicin ditambah terapi pasca-aruhan yang menyesuaikan risiko untuk B-ALL berisiko tinggi |
+| [NCT02716233](https://clinicaltrials.gov/study/NCT02716233) | Fasa 3 | Aktif, bukan merekrut | 2,044 | Protokol ALL pediatrik/remaja Perancis mengoptimalkan strategi pemeriksaan L-asparaginase (ASNase) |
+| [NCT00549848](https://clinicaltrials.gov/study/NCT00549848) | Fasa 3 | Selesai | 600 | Jumlah Terapi XVI: dos tinggi vs. dos konvensional PEG-asparaginase semasa terapi kesinambungan |
+| [NCT00819351](https://clinicaltrials.gov/study/NCT00819351) | Fasa 3 | Selesai | 650 | Protokol NOPHO membandingkan pemeriksaan PEG-asparaginase berkala-berkala vs. berterusan untuk penipisan asparagin |
+| [NCT02013167](https://clinicaltrials.gov/study/NCT02013167) | Fasa 3 | Tamat | 405 | Kajian TOWER: blinatumomab vs. kemoterapi standard dalam ALL pendahulu-B berulang/tahan-ubat |
+| [NCT00506597](https://clinicaltrials.gov/study/NCT00506597) | N/A | Selesai | 33 | Asparaginase Erwinia (Erwinase) sebagai terapi penggantian untuk pesakit yang alergi kepada asparaginase E. coli/pegylated |
 
 ---
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [35271306](https://pubmed.ncbi.nlm.nih.gov/35271306/) | 2022 | RCT | J Clin Oncol | COG AALL1231 Phase III trial testing bortezomib in newly diagnosed T-ALL/T-lymphoblastic lymphoma |
-| [34228505](https://pubmed.ncbi.nlm.nih.gov/34228505/) | 2021 | Cohort | J Clin Oncol | DFCI 11-001: efficacy/toxicity of pegaspargase vs. calaspargase pegol in childhood ALL |
-| [37276451](https://pubmed.ncbi.nlm.nih.gov/37276451/) | 2023 | Cohort | Blood Advances | GIMEMA LAL1913: pegaspargase-modified risk-oriented program for adult Ph-negative ALL/LL |
-| [40109190](https://pubmed.ncbi.nlm.nih.gov/40109190/) | 2025 | Review | Haematologica | Expert panel consensus on recognizing/preventing/managing pegaspargase-associated adverse events in adults |
-| [31977001](https://pubmed.ncbi.nlm.nih.gov/31977001/) | 2020 | Review | Blood | "How I treat" review of pegaspargase toxicities in adult ALL |
-| [31030380](https://pubmed.ncbi.nlm.nih.gov/31030380/) | 2019 | Review | Drugs | Comprehensive review of pegaspargase's role in ALL treatment |
-| [21454191](https://pubmed.ncbi.nlm.nih.gov/21454191/) | 2011 | Cohort | Clin Lymphoma Myeloma Leuk | Augmented hyper-CVAD with dose-intensified vincristine/dexamethasone/asparaginase in adult ALL salvage therapy |
-| [17696798](https://pubmed.ncbi.nlm.nih.gov/17696798/) | 2007 | Review | Expert Opin Pharmacother | Review of PEG-asparaginase pharmacology and clinical role in acute leukemia |
-| [9161659](https://pubmed.ncbi.nlm.nih.gov/9161659/) | 1997 | Review | Ann Pharmacother | Early review of pegaspargase chemistry, pharmacology, and clinical activity |
-| [40163215](https://pubmed.ncbi.nlm.nih.gov/40163215/) | 2025 | Cohort | Int J Hematol | Phase 2 multicenter study of pegaspargase in Japanese patients with untreated ALL |
+| [35271306](https://pubmed.ncbi.nlm.nih.gov/35271306/) | 2022 | RCT | J Clin Oncol | Percubaan COG AALL1231 Fasa III menguji bortezomib dalam T-ALL/limfoma limfoblas-T yang baru siasat |
+| [34228505](https://pubmed.ncbi.nlm.nih.gov/34228505/) | 2021 | Kohort | J Clin Oncol | DFCI 11-001: keberkesanan/ketoksikan pegaspargase vs. calaspargase pegol dalam ALL kanak-kanak |
+| [37276451](https://pubmed.ncbi.nlm.nih.gov/37276451/) | 2023 | Kohort | Blood Advances | GIMEMA LAL1913: program yang berorientasikan risiko yang diubah pegaspargase untuk ALL Ph-negatif/LL orang dewasa |
+| [40109190](https://pubmed.ncbi.nlm.nih.gov/40109190/) | 2025 | Ulasan | Haematologica | Konsensus panel pakar tentang mengiktiraf/mencegah/menguruskan peristiwa buruk yang berkaitan dengan pegaspargase pada orang dewasa |
+| [31977001](https://pubmed.ncbi.nlm.nih.gov/31977001/) | 2020 | Ulasan | Blood | Ulasan "Bagaimana saya mengrawat" ketoksikan pegaspargase pada ALL orang dewasa |
+| [31030380](https://pubmed.ncbi.nlm.nih.gov/31030380/) | 2019 | Ulasan | Ubat | Ulasan menyeluruh tentang peranan pegaspargase dalam rawatan ALL |
+| [21454191](https://pubmed.ncbi.nlm.nih.gov/21454191/) | 2011 | Kohort | Clin Lymphoma Myeloma Leuk | Hipertensi-CVAD yang ditingkatkan dengan vincristine dos-intensif/deksametason/asparaginase dalam terapi salvaj ALL orang dewasa |
+| [17696798](https://pubmed.ncbi.nlm.nih.gov/17696798/) | 2007 | Ulasan | Expert Opin Pharmacother | Ulasan farmakologi PEG-asparaginase dan peranan klinis dalam leukemia akut |
+| [9161659](https://pubmed.ncbi.nlm.nih.gov/9161659/) | 1997 | Ulasan | Ann Pharmacother | Ulasan awal tentang kimia pegaspargase, farmakologi, dan aktiviti klinis |
+| [40163215](https://pubmed.ncbi.nlm.nih.gov/40163215/) | 2025 | Kohort | Int J Hematol | Kajian multisenter Fasa 2 pegaspargase dalam pesakit Jepun dengan ALL yang tidak dirawat |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Malaysia market status is confirmed as **Marketed (Marketed)** with **1 registered license**. However, the license record in this evidence pack has no populated detail fields (license/registration number, product name, dosage form, or approved indication text) — this is part of the blocking data gap (DG001) noted below and needs to be pulled directly from NPRA before further use.
-
----
-
-## Cytotoxicity
-
-Pegaspargase is a cytotoxic antineoplastic agent (asparagine-depleting enzyme used as chemotherapy for lymphoblastic malignancies), so this section applies.
-
-| Item | Content |
-|------|------|
-| Cytotoxicity Classification | Conventional cytotoxic — antimetabolic enzyme therapy (asparagine-depleting agent), distinct from DNA-damaging cytotoxics |
-| Myelosuppression Risk | Low–Moderate as a single agent; asparaginase is not itself primarily myelosuppressive, but risk rises when combined with vincristine/corticosteroids/anthracyclines in standard ALL regimens (per combination-trial evidence above) |
-| Emetogenicity Classification | Low to Moderate (general asparaginase-class characterization; NPRA-specific package insert data not available — data gap) |
-| Monitoring Items | CBC with differential; liver function (AST/ALT/bilirubin) — hepatotoxicity is well documented in the literature above; coagulation panel (fibrinogen, PT/INR) — thrombosis/bleeding risk; lipase/amylase — pancreatitis risk; triglycerides and glucose — hypertriglyceridemia/hyperglycemia risk; close monitoring for hypersensitivity during/after infusion |
-| Handling Protection | Must follow institutional cytotoxic/hazardous drug handling protocols (PPE, spill precautions) as with other antineoplastic agents |
+Status pasaran Malaysia disahkan sebagai **Dipasarkan (Marketed)** dengan **1 lesen terdaftar**. Walau bagaimanapun, rekod lesen dalam paket bukti ini tidak mempunyai medan perincian yang berpopulasi (nombor lesen/pendaftaran, nama produk, bentuk dos, atau teks indikasi yang diluluskan) — ini adalah sebahagian daripada jurang data yang menghalang (DG001) yang dinyatakan di bawah dan perlu ditarik terus daripada NPRA sebelum penggunaan selanjutnya.
 
 ---
 
-## Safety Considerations
+## Sitotoksisiti
 
-Please refer to the package insert for safety information. Key warnings, contraindications, and drug-drug interaction data for pegaspargase were not returned by the NPRA/DrugBank queries in this pack (query_status: not_found). This is flagged in the evidence pack as a **Blocking** data gap (DG001 — "NPRA package insert warnings/contraindications"), explicitly noted as preventing entry into the S1 safety pre-screening stage.
+Pegaspargase adalah agen sitostatik anti-neoplastik (enjim yang menipis asparagin yang digunakan sebagai kemoterapi untuk malignansi limfoblas), jadi bahagian ini terpakai.
+
+| Item | Kandungan |
+|------|----------|
+| Klasifikasi Sitotoksisiti | Konvensional sitostatik — terapi enjim anti-metabolik (agen yang menipis asparagin), tersendiri daripada sitostatik yang merosakkan DNA |
+| Risiko Supresi Sumsum Tulang | Rendah–Sederhana sebagai agen tunggal; asparaginase sendiri bukan terutamanya penindas sumsum tulang, tetapi risiko meningkat apabila digabungkan dengan vincristine/kortikosteroid/anthrasiklin dalam rejim ALL standard (menurut bukti percubaan gabungan di atas) |
+| Klasifikasi Emetogenisiti | Rendah hingga Sederhana (klasifikasi kelas asparaginase umum; data sisipan paket NPRA-khusus tidak tersedia — jurang data) |
+| Item Pemantauan | CBC dengan pembezaan; fungsi hati (AST/ALT/bilirubin) — hepatotoksisiti didokumentasikan dengan baik dalam literatur di atas; panel koagulasi (fibrinogen, PT/INR) — risiko trombosis/pendarahan; lipase/amilase — risiko pankreatitis; trigliserida dan glukosa — risiko hipertrigliséridemia/hiperglikemia; pemantauan rapi untuk hipersensitiviti semasa/selepas infusi |
+| Perlindungan Pengendalian | Mesti mematuhi protokol pengendalian ubat sitostatik/berbahaya institusional (PPE, langkah tumpahan) seperti dengan agen anti-neoplastik lain |
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Proceed with Guardrails**
+Sila rujuk sisipan paket untuk maklumat keselamatan. Data amaran utama, kontraindikasi, dan interaksi ubat-ubat untuk pegaspargase tidak dikembalikan oleh pertanyaan NPRA/DrugBank dalam paket ini (query_status: not_found). Ini dibenderakan dalam paket bukti sebagai jurang data **Menghalang** (DG001 — "amaran sisipan paket NPRA/kontraindikasi"), secara eksplisit dinyatakan sebagai menghalang kemasukan ke peringkat praskrining keselamatan S1.
 
-**Rationale:**
-The mechanistic rationale is exceptionally strong (asparagine depletion → selective lymphoblast killing) and is backed by L1-level evidence (multiple completed/ongoing Phase 3 RCTs, thousands of patients). However, this candidate largely overlaps with pegaspargase's already-known indication rather than representing a novel repurposing opportunity, and a **blocking safety data gap** (DG001) currently prevents formal safety pre-screening.
+---
 
-**To proceed, the following is needed:**
-- Resolve DG001 (Blocking): retrieve and parse the NPRA/Malaysia package insert for warnings, contraindications, and DDI data — required before S1 safety review can begin
-- Resolve DG002 (High): query DrugBank API for confirmed mechanism of action data
-- Pull complete NPRA license details (registration number, product name, dosage form, full approved indication text) to replace the currently empty license record
-- Clarify with the regulatory/clinical team whether "precursor lymphoblastic lymphoma/leukemia" already falls under Malaysia's existing approved indication for this product, since this materially changes whether this is a repurposing case at all
+## Kesimpulan dan Langkah Berikutnya
+
+**Keputusan: Teruskan dengan Penjaga**
+
+**Rasional:**
+Rasional mekanistik adalah luar biasa kuat (penipisan asparagin → pembunuhan sel limfoblas yang selektif) dan disokong oleh bukti paras L1 (pelbagai ujian Fasa 3 RCT yang telah selesai/sedang berlangsung, ribuan pesakit). Walau bagaimanapun, calon ini sebahagian besarnya bertindih dengan indikasi pegaspargase yang sudah diketahui daripada mewakili peluang pengguna ulang yang baru, dan **jurang data keselamatan yang menghalang** (DG001) pada masa kini menghalang pemeriksaan praskrining keselamatan formal.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Selesaikan DG001 (Menghalang): ambil dan huraikan sisipan paket NPRA/Malaysia untuk amaran, kontraindikasi, dan data DDI — diperlukan sebelum ulasan keselamatan S1 dapat dimulakan
+- Selesaikan DG002 (Tinggi): pertanyaan API DrugBank untuk data mekanisme tindakan yang disahkan
+- Tarik perincian lesen NPRA lengkap (nombor pendaftaran, nama produk, bentuk dos, teks indikasi yang diluluskan sepenuhnya) untuk menggantikan rekod lesen yang kini kosong
+- Jelaskan dengan pasukan kawal selia/klinikal sama ada "limfoma/leukemia limfoblas pendahulu" sudah jatuh di bawah indikasi yang diluluskan sedia ada Malaysia untuk produk ini, kerana ini secara material mengubah sama ada ini adalah kes pengguna ulang sama sekali
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

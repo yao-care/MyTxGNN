@@ -29,60 +29,61 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Thyrotropin Alfa: From Thyroid Cancer Follow-up to Migraine Disorder
+# Thyrotropin Alfa: Dari Penjejakan Kanser Tiroid ke Gangguan Migrain
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Thyrotropin alfa (recombinant human TSH) is internationally used as a diagnostic and adjunctive agent in the follow-up of well-differentiated thyroid cancer after thyroidectomy. The TxGNN model's top prediction for this drug is **Migraine Disorder**, but this direction currently has **zero clinical trials** and **zero publications** supporting it — the prediction rests on the model score alone.
+Thyrotropin alfa (TSH manusia rekombinan) digunakan secara antarabangsa sebagai agen diagnostik dan adjuvan dalam penjejakan kanser tiroid yang terbeza dengan baik selepas thyroidektomi. Ramalan teratas model TxGNN untuk ubat ini ialah **Gangguan Migrain**, tetapi arah ini pada masa kini mempunyai **sifar ujian klinikal** dan **sifar penerbitan** menyokongnya — ramalan ini bergantung pada skor model semata-mata.
 
-## Quick Overview
+## Tinjauan Cepat
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Thyroid cancer follow-up (adjunctive to thyroidectomy) — based on general pharmacological reference; Malaysia NPRA-specific approved indication text is not available in the current dataset (Blocking Data Gap, see DG001) |
-| Predicted New Indication | Migraine Disorder |
-| TxGNN Prediction Score | 99.98% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+| Petunjuk Asal | Penjejakan kanser tiroid (adjuvan kepada thyroidektomi) — berdasarkan rujukan farmakologi umum; teks petunjuk yang diluluskan khusus NPRA Malaysia tidak tersedia dalam set data semasa (Halangan Jurang Data, lihat DG001) |
+| Petunjuk Baru yang Diramalkan | Gangguan Migrain |
+| Skor Ramalan TxGNN | 99.98% |
+| Aras Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Structured mechanism-of-action data for Thyrotropin alfa is flagged as a Data Gap (DG002) in this evidence pack. Based on established pharmacological knowledge — and corroborated by this same evidence pack's own analysis of the rank-10 candidate (hyperthyroidism) — Thyrotropin alfa is a recombinant human TSH that acts as a **TSH-receptor agonist**, stimulating thyroid follicular cell proliferation and thyroid hormone secretion. Internationally, it is used to aid detection of thyroid remnant/recurrent disease and to support radioiodine ablation in patients with well-differentiated thyroid cancer.
+Data mekanisme tindakan berstruktur untuk thyrotropin alfa ditandai sebagai Jurang Data (DG002) dalam pakej bukti ini. Berdasarkan pengetahuan farmakologi yang ditubuhkan — dan disahkan oleh analisis pakej bukti yang sama terhadap calon pangkat-10 (hipertiroidisme) — thyrotropin alfa ialah TSH manusia rekombinan yang bertindak sebagai **agonis penerima TSH**, merangsang proliferasi sel folikel tiroid dan sekresi hormon tiroid. Secara antarabangsa, ia digunakan untuk membantu pengesanan penyakit tiroid sisa/berulang dan untuk menyokong ablasi radioiodine pada pesakit dengan kanser tiroid yang terbeza dengan baik.
 
-For the top-ranked prediction, **migraine disorder**, there is no known mechanistic pathway linking TSH-receptor signaling to migraine pathophysiology. The evidence pack's own rationale states this plainly: "無任何臨床試驗或文獻支持；TSH 受體訊號與偏頭痛病理生理無已知直接連結，純為模型預測分數" — i.e., no clinical trial or literature support exists, and the connection is purely a model score artifact. This pattern repeats across ranks 2–9 (Raynaud disease, atrophoderma vermiculata, pulmonary hypertension, POTS, etc.), which the evidence pack itself characterizes as likely knowledge-graph embedding proximity errors rather than genuine biological relationships.
+Bagi ramalan kedudukan teratas, **gangguan migrain**, tidak ada laluan mekanistik yang diketahui menghubungkan isyarat penerima TSH kepada patofisiologi migrain. Alasan pakej bukti sendiri menyatakannya dengan jelas: "無任何臨床試驗或文獻支持；TSH 受體訊號與偏頭痛病理生理無已知直接連結，純為模型預測分數" — iaitu, tiada sokongan ujian klinikal atau literatur yang wujud, dan sambungannya adalah semata-mata artifak skor model. Corak ini berulang di seluruh pangkat 2–9 (penyakit Raynaud, atrophoderma vermiculata, hipertensi paru, POTS, dll.), yang pakej bukti sendiri mencirikan sebagai kemungkinan ralat keberhampiran penanaman graf pengetahuan dan bukannya hubungan biologi tulen.
 
-Notably, the one candidate in this set with real supporting clinical trials — **hyperthyroidism** (rank 10, L2/S1) — carries a documented mechanistic contradiction: Thyrotropin alfa is a thyroid-*stimulating* agent, so it would be expected to induce or worsen hyperthyroidism rather than treat it. The two supporting trials actually studied rhTSH as pretreatment for radioiodine therapy in benign goiter, not as a treatment for primary hyperthyroidism. This underscores that the overall repurposing signal set for this drug should be treated with caution.
+Perlu diingat, satu-satunya calon dalam set ini dengan ujian klinikal sokongan sebenar — **hipertiroidisme** (pangkat 10, L2/S1) — membawa percanggahan mekanistik yang terdokumen: thyrotropin alfa ialah agen penggerak tiroid, jadi ia dijangka akan mencetuskan atau memburukkan hipertiroidisme dan bukannya merawatnya. Dua ujian sokongan sebenarnya mengkaji rhTSH sebagai rawatan pra untuk terapi radioiodine dalam gondok jinak, bukan sebagai rawatan untuk hipertiroidisme primer. Ini menekankan bahawa set isyarat penggunaan semula keseluruhan untuk ubat ini harus ditangani dengan berhati-hati.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-Currently no related clinical trials registered.
+Pada masa kini tiada ujian klinikal berkaitan yang didaftarkan.
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no related literature available.
+Pada masa kini tiada literatur berkaitan yang tersedia.
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-NPRA records confirm 1 active registration for Thyrotropin alfa, with market status "Marketed" (Marketed). However, the licence number, product name, dosage form, and approved indication text are not populated in the current dataset — retrieval/parsing of the NPRA product label is required (see DG001, Blocking severity) before this information can be reported.
+Rekod NPRA mengesahkan 1 pendaftaran aktif untuk thyrotropin alfa, dengan status pasaran "Dipasarkan" (Dipasarkan). Walau bagaimanapun, nombor lesen, nama produk, bentuk dos, dan teks petunjuk yang diluluskan tidak diisi dalam set data semasa — pengambilan/penghuraian label produk NPRA diperlukan (lihat DG001, keterukan Halangan) sebelum maklumat ini dapat dilaporkan.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information. Note: label-level warnings, contraindications, and drug interaction data could not be retrieved for this drug (DG001, Blocking) — this gap by itself is sufficient to prevent progression past the initial safety screening stage (S1).
+Sila rujuk sisipan paket untuk maklumat keselamatan. Nota: amaran aras label, kontraindikasi, dan data interaksi ubat tidak dapat diambil untuk ubat ini (DG001, Halangan) — jurang ini sahaja mencukupi untuk menghalang kemajuan melampaui peringkat saringan keselamatan awal (S1).
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-The top-ranked predicted indication (migraine disorder) has no clinical trial or literature evidence and no plausible mechanistic basis — it is a pure model-score signal (L5, decision stage S0). Compounding this, a Blocking data gap in TFDA/NPRA label safety information (DG001) prevents even a preliminary safety review for this drug.
+**Alasan:**
+Petunjuk yang diramalkan kedudukan teratas (gangguan migrain) tidak mempunyai bukti ujian klinikal atau literatur dan tiada asas mekanistik yang munasabah — ia adalah isyarat skor model tulen (L5, peringkat keputusan S0). Menambah ini, jurang data Halangan dalam maklumat keselamatan label TFDA/NPRA (DG001) menghalang bahkan tinjauan keselamatan awal untuk ubat ini.
 
-**To proceed, the following is needed:**
-- Retrieve and parse the NPRA product label/insert to fill DG001 (warnings, contraindications, DDI) and confirm the actual approved indication text
-- Obtain DrugBank mechanism-of-action and categorization data to close DG002
-- If pursuing further evaluation of this drug's repurposing potential, prioritize the hyperthyroidism/goiter signal (rank 10) instead of migraine — but first resolve the mechanistic contradiction (TSH agonism vs. treating hyperthyroidism) with an endocrinology-literate review before any S2+ progression
-- Given the near-total absence of supporting evidence across 9 of 10 predicted indications, consider deprioritizing this candidate in favor of TxGNN outputs with stronger underlying evidence
+**Untuk meneruskan, yang berikut diperlukan:**
+- Ambil dan huraikan label produk/sisipan NPRA untuk mengisi DG001 (amaran, kontraindikasi, DDI) dan sahkan teks petunjuk yang diluluskan sebenar
+- Dapatkan data mekanisme tindakan dan pengkategorian DrugBank untuk menutup DG002
+- Jika mengejar penilaian lebih lanjut tentang potensi penggunaan semula ubat ini, prioritaskan isyarat hipertiroidisme/gondok (pangkat 10) bukannya migrain — tetapi terlebih dahulu selesaikan percanggahan mekanistik (agonis TSH lwn. merawat hipertiroidisme) dengan tinjauan berpengetahuan endokrinologi sebelum sebarang kemajuan S2+
+- Memandangkan hampir ketiadaan bukti sokongan di seluruh 9 daripada 10 petunjuk yang diramalkan, pertimbangkan untuk menurunkan prioritas calon ini yang memihak keluaran TxGNN dengan bukti asas yang lebih kuat
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

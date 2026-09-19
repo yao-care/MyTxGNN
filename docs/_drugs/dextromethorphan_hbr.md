@@ -29,84 +29,85 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Dextromethorphan HBr: Drug Repurposing Evaluation Report
+# Dextromethorphan HBr: Laporan Penilaian Pemanfaatan Kembali Obat
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Dextromethorphan hydrobromide (DXM) is a widely used over-the-counter antitussive (cough suppressant) that acts on sigma-1 and NMDA receptors. The TxGNN model has **not yet generated predicted new indications** for this drug. The evidence pack is currently incomplete, with critical data gaps in mechanism of action, regulatory label details, and safety information that must be resolved before repurposing evaluation can proceed.
+Dextromethorphan hydrobromide (DXM) adalah antitusif (penekan batuk) yang tersedia bebas dan banyak digunakan yang bekerja pada reseptor sigma-1 dan NMDA. Model TxGNN **belum menghasilkan indikasi baru yang diprediksi** untuk obat ini. Paket bukti saat ini tidak lengkap, dengan kesenjangan data penting dalam mekanisme kerja, detail label regulasi, dan informasi keselamatan yang harus diselesaikan sebelum evaluasi pemanfaatan kembali dapat dilanjutkan.
 
 ---
 
-## Quick Overview
+## Gambaran Umum Cepat
 
-| Item | Content |
+| Perkara | Isi |
 |------|------|
-| Original Indication | Antitussive (cough suppressant) — *license details pending* |
-| Predicted New Indication | **None** — no TxGNN predictions available |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 (Insufficient data for evaluation) |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 24 |
-| Recommended Decision | **Hold** |
+| Indikasi Asli | Antitusif (penekan batuk) — *detail lisensi tertunda* |
+| Indikasi Baru yang Diprediksi | **Tidak ada** — prediksi TxGNN tidak tersedia |
+| Skor Prediksi TxGNN | N/A |
+| Tingkat Bukti | L5 (Data tidak cukup untuk evaluasi) |
+| Status Pasar Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Jumlah Registrasi | 24 |
+| Keputusan yang Direkomendasikan | **Tunda** |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Prediksi Ini Masuk Akal?
 
-Currently, no TxGNN prediction has been generated for Dextromethorphan HBr, so a mechanistic plausibility assessment cannot be performed at this time.
+Saat ini, tidak ada prediksi TxGNN yang telah dihasilkan untuk Dextromethorphan HBr, sehingga penilaian kelayakan mekanistik tidak dapat dilakukan pada saat ini.
 
-> Detailed mechanism of action data is not available in this evidence pack. Based on publicly known information, Dextromethorphan is a synthetic morphinan derivative that acts as a non-opioid antitussive. It exerts its cough-suppressing effect primarily through sigma-1 receptor agonism and NMDA receptor antagonism in the central nervous system. These receptor targets have attracted research interest in areas beyond cough suppression — including neuropsychiatric disorders, neuropathic pain, and pseudobulbar affect — which may represent potential repurposing directions once TxGNN predictions become available.
+> Data mekanisme kerja terperinci tidak tersedia dalam paket bukti ini. Berdasarkan informasi yang diketahui secara umum, Dextromethorphan adalah turunan morfinan sintetis yang bertindak sebagai antitusif non-opioid. Ini menjalankan efek penekanan batuknya terutama melalui agonis reseptor sigma-1 dan antagonisme reseptor NMDA di sistem saraf pusat. Target reseptor ini telah menarik minat penelitian di bidang di luar penekanan batuk — termasuk gangguan neuropsikiatrik, nyeri neuropatik, dan pseudobulbar affect — yang mungkin mewakili arah pemanfaatan kembali potensial setelah prediksi TxGNN tersedia.
 
-Until a formal TxGNN prediction is generated and linked to this drug, no mechanistic bridge to a new indication can be evaluated.
-
----
-
-## Clinical Trial Evidence
-
-Currently no TxGNN-predicted indication is available; therefore, no targeted clinical trial search has been performed.
+Sampai prediksi TxGNN formal dihasilkan dan ditautkan ke obat ini, tidak ada jembatan mekanistik ke indikasi baru yang dapat dievaluasi.
 
 ---
 
-## Literature Evidence
+## Bukti Uji Klinis
 
-Currently no TxGNN-predicted indication is available; therefore, no targeted literature search has been performed.
+Saat ini tidak ada indikasi yang diprediksi TxGNN yang tersedia; oleh karena itu, pencarian uji klinis yang ditargetkan belum dilakukan.
 
 ---
 
-## Malaysia Market Information
+## Bukti Literatur
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+Saat ini tidak ada indikasi yang diprediksi TxGNN yang tersedia; oleh karena itu, pencarian literatur yang ditargetkan belum dilakukan.
+
+---
+
+## Informasi Pasar Malaysia
+
+| Nomor Otorisasi | Nama Produk | Bentuk Dosis | Indikasi yang Disetujui |
 |---------|------|------|-----------|
-| *(details pending)* | *(details pending)* | *(details pending)* | *(details pending)* |
+| *(detail tertunda)* | *(detail tertunda)* | *(detail tertunda)* | *(detail tertunda)* |
 
-> **Note:** 24 registrations were identified in the NPRA database for Dextromethorphan HBr, but detailed license information (authorization numbers, product names, dosage forms, and approved indication text) has not yet been populated in this evidence pack. This data should be retrieved from the NPRA database to complete the assessment.
-
----
-
-## Safety Considerations
-
-> Please refer to the package insert for safety information. Key warnings, contraindications, and drug interaction data were not available in this evidence pack (identified as **Blocking** data gap DG001). These must be obtained from the NPRA website or product insert PDFs before any repurposing evaluation can proceed.
+> **Catatan:** 24 registrasi diidentifikasi dalam basis data NPRA untuk Dextromethorphan HBr, tetapi informasi lisensi terperinci (nomor otorisasi, nama produk, bentuk dosis, dan teks indikasi yang disetujui) belum diisi dalam paket bukti ini. Data ini harus diambil dari basis data NPRA untuk menyelesaikan penilaian.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
-
-**Rationale:**
-This evidence pack is incomplete — no TxGNN-predicted new indication exists, and critical data fields (MOA, license details, safety information) remain unfilled. A repurposing evaluation cannot be meaningfully initiated without a predicted indication and baseline safety profile.
-
-**To proceed, the following is needed:**
-
-1. **Run TxGNN prediction** — Execute the KG and/or DL prediction pipeline for Dextromethorphan to generate candidate new indications
-2. **Resolve DrugBank ID** — Map "DEXTROMETHORPHAN HBR" to its DrugBank entry (likely [DB00514](https://go.drugbank.com/drugs/DB00514)) to retrieve MOA, pharmacology, and toxicity data
-3. **Populate NPRA license details** — Retrieve full registration records (authorization numbers, product names, dosage forms, approved indications) from the NPRA database
-4. **Obtain safety data (DG001 — Blocking)** — Download and parse product insert PDFs to extract key warnings, contraindications, and drug interactions
-5. **Obtain mechanism of action (DG002 — High)** — Query DrugBank API to fill in MOA details for mechanistic plausibility analysis
+> Silakan merujuk ke brosur paket untuk informasi keselamatan. Data peringatan kunci, kontraindikasi, dan interaksi obat tidak tersedia dalam paket bukti ini (diidentifikasi sebagai kesenjangan data **Memblokir** DG001). Ini harus diperoleh dari situs web NPRA atau PDF brosur produk sebelum evaluasi pemanfaatan kembali apa pun dapat dilanjutkan.
 
 ---
 
-*This report is for research reference only and does not constitute medical advice. Drug repurposing candidates require clinical validation before application.*
+## Kesimpulan dan Langkah Berikutnya
+
+**Keputusan: Tunda**
+
+**Alasan:**
+Paket bukti ini tidak lengkap — tidak ada indikasi baru yang diprediksi TxGNN yang ada, dan bidang data penting (MOA, detail lisensi, informasi keselamatan) tetap kosong. Evaluasi pemanfaatan kembali tidak dapat dimulai secara bermakna tanpa indikasi yang diprediksi dan profil keselamatan dasar.
+
+**Untuk melanjutkan, berikut ini diperlukan:**
+
+1. **Jalankan prediksi TxGNN** — Jalankan pipeline prediksi KG dan/atau DL untuk Dextromethorphan untuk menghasilkan indikasi baru kandidat
+2. **Selesaikan DrugBank ID** — Petakan "DEXTROMETHORPHAN HBR" ke entri DrugBank-nya (kemungkinan [DB00514](https://go.drugbank.com/drugs/DB00514)) untuk mengambil data MOA, farmakologi, dan toksisitas
+3. **Isi detail lisensi NPRA** — Ambil catatan registrasi lengkap (nomor otorisasi, nama produk, bentuk dosis, indikasi yang disetujui) dari basis data NPRA
+4. **Dapatkan data keselamatan (DG001 — Memblokir)** — Unduh dan parse PDF brosur produk untuk mengekstrak peringatan kunci, kontraindikasi, dan interaksi obat
+5. **Dapatkan mekanisme kerja (DG002 — Tinggi)** — Kueri API DrugBank untuk mengisi detail MOA untuk analisis kelayakan mekanistik
+
+---
+
+*Laporan ini hanya untuk referensi penelitian dan tidak merupakan saran medis. Kandidat pemanfaatan kembali obat memerlukan validasi klinis sebelum aplikasi.*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

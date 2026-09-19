@@ -29,89 +29,90 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-# Metronidazole: From Anaerobic/Protozoal Infections to Rosacea
+# Metronidazole: Daripada Jangkitan Anaerob/Protozoa kepada Rosacea
 
-## One-Sentence Summary
+## Ringkasan Satu Kalimat
 
-Metronidazole is a nitroimidazole antimicrobial originally used for anaerobic bacterial and protozoal infections (e.g., trichomoniasis, amoebiasis, giardiasis, bacterial vaginosis). The TxGNN model's top-ranked prediction is **Rosacea**, supported by **20 clinical trials** and **20 publications** — though the underlying mechanism (topical anti-inflammatory/anti-*Demodex* activity) is already a globally approved use rather than a truly novel signal. Note: the TxGNN raw score for this pairing is reported as **0.0** in the evidence pack, which appears to be a data artifact and should be verified before use.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Anaerobic bacterial and protozoal infections (trichomoniasis, amoebiasis, giardiasis, bacterial vaginosis) — established pharmacology; Malaysia license text was not extracted in this dataset (all 5 sampled license records are blank) |
-| Predicted New Indication | Rosacea |
-| TxGNN Prediction Score | 0.00% (raw score = 0.0 — likely a data extraction artifact; recommend re-verifying against the model output) |
-| Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 28 |
-| Recommended Decision | Proceed with Guardrails |
+Metronidazole ialah antimikrob nitroimidazol yang awalnya digunakan untuk jangkitan bakteria anaerob dan protozoa (cth. trichomoniasis, amoebiasis, giardiasis, vaginosis bakteria). Ramalan berpangkat teratas model TxGNN ialah **Rosacea**, disokong oleh **20 ujian klinikal** dan **20 penerbitan** — walaupun mekanisme asas (aktiviti anti-radang topikal/anti-*Demodex*) sudah pun merupakan penggunaan yang diluluskan secara global dan bukannya isyarat yang benar-benar baru. Nota: skor TxGNN mentah untuk pasangan ini dilaporkan sebagai **0.0** dalam pakej bukti, yang nampaknya merupakan artifak pengekstrakan data dan harus disahkan semula sebelum digunakan.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Pantas
 
-Currently, detailed mechanism of action data is not available (marked as a data gap in the evidence pack). Based on known pharmacology, metronidazole is a nitroimidazole-class antimicrobial whose efficacy against anaerobic bacteria and protozoa (via DNA strand breakage from toxic nitro-radical metabolites) is well established; it also has topical anti-inflammatory activity and suppresses *Demodex folliculorum*, a mite implicated in rosacea pathophysiology.
-
-Topical metronidazole (e.g., MetroGel®) is in fact already an FDA-approved and internationally recognized standard therapy for rosacea. The evidence pack's own rationale for this candidate states explicitly that this represents "confirmation of an existing indication rather than a novel repurposing signal" — the TxGNN prediction is directionally correct but is reproducing established clinical knowledge rather than surfacing a new use. This should be factored into decision-making: the value here is regulatory/market confirmation for Malaysia, not discovery of a new therapeutic avenue.
+| Item | Kandungan |
+|------|---------|
+| Indikasi Asal | Jangkitan bakteria anaerob dan protozoa (trichomoniasis, amoebiasis, giardiasis, vaginosis bakteria) — farmakologi yang mantap; teks lesen Malaysia tidak diekstrak dalam set data ini (semua 5 rekod lesen sampel adalah kosong) |
+| Indikasi Baharu yang Diramalkan | Rosacea |
+| Skor Ramalan TxGNN | 0.00% (skor mentah = 0.0 — berkemungkinan artifak pengekstrakan data; disyorkan untuk disahkan semula terhadap output model) |
+| Tahap Bukti | L1 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 28 |
+| Keputusan yang Disyorkan | Teruskan dengan Pagar Keselamatan |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Pada masa kini, data mekanisme tindakan terperinci tidak tersedia (ditandakan sebagai jurang data dalam pakej bukti). Berdasarkan farmakologi yang diketahui, metronidazole ialah ubat antimikrob kelas nitroimidazol yang keberkesanannya terhadap bakteria anaerob dan protozoa (melalui putusnya DNA daripada metabolit radikal nitro yang toksik) adalah mantap; ia juga mempunyai aktiviti anti-radang topikal dan menindas *Demodex folliculorum*, sejenis akarid yang terlibat dalam patofisiologi rosacea.
+
+Metronidazole topikal (cth. MetroGel®) sebenarnya adalah terapi standard yang diluluskan FDA dan diiktiraf secara antarabangsa untuk rosacea. Rasional pakej bukti sendiri untuk calon ini menyatakan secara jelas bahawa ini mewakili "pengesahan indikasi sedia ada dan bukannya isyarat pemanfaatan semula yang baru" — ramalan TxGNN adalah benar secara arah tetapi sedang mereproduksi pengetahuan klinikal yang mantap dan bukannya mendedahkan penggunaan yang baru. Ini harus dipertimbangkan dalam membuat keputusan: nilai di sini adalah pengesahan kawal selia/pasaran untuk Malaysia, bukan penemuan jalan terapeutik yang baru.
+
+---
+
+## Bukti Ujian Klinikal
+
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT02393937](https://clinicaltrials.gov/study/NCT02393937) | Phase 3 | Completed | 963 | Multicenter, double-blind, vehicle-controlled RCT comparing two Metronidazole Gel 1% formulations for rosacea — head-to-head efficacy data |
-| [NCT01493947](https://clinicaltrials.gov/study/NCT01493947) | Phase 3 | Completed | 962 | Ivermectin 1% cream vs. Metronidazole 0.75% cream in papulopustular rosacea over 16 weeks + 36-week extension; metronidazole as active comparator |
-| [NCT01016782](https://clinicaltrials.gov/study/NCT01016782) | Phase 3 | Completed | 867 | Double-blind, vehicle-controlled trial assessing efficacy of Metronidazole Topical Gel 1% for inflammatory lesions of rosacea |
-| [NCT01513863](https://clinicaltrials.gov/study/NCT01513863) | Phase 1 | Completed | 602 | Bioequivalence study of two metronidazole 1% topical gel formulations in moderate-to-severe rosacea |
-| [NCT00855595](https://clinicaltrials.gov/study/NCT00855595) | Phase 4 | Completed | 207 | Azelaic acid 15% gel vs. metronidazole 1% gel, both plus low-dose doxycycline, in moderate papulopustular rosacea |
-| [NCT01426269](https://clinicaltrials.gov/study/NCT01426269) | Phase 4 | Completed | 235 | Long-term relapse/efficacy/safety of Oracea® vs. placebo after initial 12-week Oracea®+MetroGel® 1% regimen |
-| [NCT00495313](https://clinicaltrials.gov/study/NCT00495313) | Phase 4 | Completed | 91 | COL-101+metronidazole gel vs. doxycycline+metronidazole gel in moderate-to-severe rosacea |
-| [NCT00436527](https://clinicaltrials.gov/study/NCT00436527) | Phase 4 | Completed | 26 | Kinetic regression study of MetroGel® 1% skin hydration delivery |
-| [NCT05861310](https://clinicaltrials.gov/study/NCT05861310) | Phase 1 | Unknown | 48 | Effectiveness/safety of metronidazole 1% cream as main rosacea therapy |
-| [NCT00668655](https://clinicaltrials.gov/study/NCT00668655) | N/A | Completed | 30 | Cosmetic appearance of MetroGel® 1% combined with facial foundations |
+| [NCT02393937](https://clinicaltrials.gov/study/NCT02393937) | Fasa 3 | Selesai | 963 | RCT berbilang pusat, terkawal ganda buta, kenderaan berhubung membandingkan dua formulasi Metronidazole Gel 1% untuk rosacea — data efikasi tête-à-tête |
+| [NCT01493947](https://clinicaltrials.gov/study/NCT01493947) | Fasa 3 | Selesai | 962 | Krim Ivermectin 1% vs. Krim Metronidazole 0.75% dalam rosacea papulopustular selama 16 minggu + lanjutan 36 minggu; metronidazole sebagai pembanding aktif |
+| [NCT01016782](https://clinicaltrials.gov/study/NCT01016782) | Fasa 3 | Selesai | 867 | Ujian terkawal ganda buta, kenderaan berhubung menilai efikasi Gel Topikal Metronidazole 1% untuk lesi radang rosacea |
+| [NCT01513863](https://clinicaltrials.gov/study/NCT01513863) | Fasa 1 | Selesai | 602 | Kajian biosetara dua formulasi gel topikal metronidazole 1% dalam rosacea sederhana-teruk |
+| [NCT00855595](https://clinicaltrials.gov/study/NCT00855595) | Fasa 4 | Selesai | 207 | Gel Azelaic acid 15% vs. gel metronidazole 1%, kedua-duanya ditambah doxycycline dos rendah, dalam rosacea papulopustular sederhana |
+| [NCT01426269](https://clinicaltrials.gov/study/NCT01426269) | Fasa 4 | Selesai | 235 | Kesanggupan jangka panjang/efikasi/keselamatan Oracea® vs. plasebo selepas rejimen 12 minggu awal Oracea®+MetroGel® 1% |
+| [NCT00495313](https://clinicaltrials.gov/study/NCT00495313) | Fasa 4 | Selesai | 91 | COL-101+gel metronidazole vs. gel doxycycline+metronidazole dalam rosacea sederhana-teruk |
+| [NCT00436527](https://clinicaltrials.gov/study/NCT00436527) | Fasa 4 | Selesai | 26 | Kajian regresi kinetik penghantaran hidrasi kulit MetroGel® 1% |
+| [NCT05861310](https://clinicaltrials.gov/study/NCT05861310) | Fasa 1 | Tidak Diketahui | 48 | Keberkesanan/keselamatan krim metronidazole 1% sebagai terapi rosacea utama |
+| [NCT00668655](https://clinicaltrials.gov/study/NCT00668655) | N/A | Selesai | 30 | Penampilan kosmesis MetroGel® 1% digabungkan dengan asas wajah |
 
 ---
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [35929658](https://pubmed.ncbi.nlm.nih.gov/35929658/) | 2022 | Guideline (Tier 1) | J Dtsch Dermatol Ges | S2k guideline on rosacea diagnosis and treatment |
-| [26280139](https://pubmed.ncbi.nlm.nih.gov/26280139/) | 2015 | Review (Tier 2) | American Family Physician | Rosacea diagnosis and treatment overview |
-| [30657582](https://pubmed.ncbi.nlm.nih.gov/30657582/) | 2019 | Review (Tier 2) | Eur Rev Med Pharmacol Sci | Therapeutic uses and side effects of metronidazole across indications |
-| [34347259](https://pubmed.ncbi.nlm.nih.gov/34347259/) | 2021 | Review (Tier 2) | Skin Therapy Letter | Updated rosacea diagnosis, classification and management |
-| [35104917](https://pubmed.ncbi.nlm.nih.gov/35104917/) | 2022 | Review (Tier 2) | J Cosmet Dermatol | Comprehensive review of rosacea management |
-| [33646026](https://pubmed.ncbi.nlm.nih.gov/33646026/) | 2021 | Review (Tier 2) | Br J Hosp Med | Rosacea pathophysiology, features and treatment options |
-| [17679183](https://pubmed.ncbi.nlm.nih.gov/17679183/) | 2007 | Review | J Drugs Dermatol | Metronidazole alone and combined with oral antibiotics for rosacea |
-| [16673797](https://pubmed.ncbi.nlm.nih.gov/16673797/) | 2006 | Review | J Drugs Dermatol | Effect of formulation, dosing, and concentration on metronidazole efficacy in rosacea |
-| [30585305](https://pubmed.ncbi.nlm.nih.gov/30585305/) | 2019 | Systematic Review | Br J Dermatol | Phenotype-based interventions for rosacea with GRADE assessment |
-| [40213532](https://pubmed.ncbi.nlm.nih.gov/40213532/) | 2025 | Network Meta-analysis | JAAD International | Efficacy/safety of minocycline, metronidazole, ivermectin, azelaic acid in moderate-to-severe papulopustular rosacea |
+| [35929658](https://pubmed.ncbi.nlm.nih.gov/35929658/) | 2022 | Garis Panduan (Tahap 1) | J Dtsch Dermatol Ges | Garis panduan S2k tentang diagnosis dan rawatan rosacea |
+| [26280139](https://pubmed.ncbi.nlm.nih.gov/26280139/) | 2015 | Ulasan (Tahap 2) | American Family Physician | Gambaran keseluruhan diagnosis dan rawatan rosacea |
+| [30657582](https://pubmed.ncbi.nlm.nih.gov/30657582/) | 2019 | Ulasan (Tahap 2) | Eur Rev Med Pharmacol Sci | Kegunaan terapeutik dan kesan sampingan metronidazole merentas indikasi |
+| [34347259](https://pubmed.ncbi.nlm.nih.gov/34347259/) | 2021 | Ulasan (Tahap 2) | Skin Therapy Letter | Diagnosis, klasifikasi dan pengurusan rosacea yang dikemas kini |
+| [35104917](https://pubmed.ncbi.nlm.nih.gov/35104917/) | 2022 | Ulasan (Tahap 2) | J Cosmet Dermatol | Ulasan menyeluruh tentang pengurusan rosacea |
+| [33646026](https://pubmed.ncbi.nlm.nih.gov/33646026/) | 2021 | Ulasan (Tahap 2) | Br J Hosp Med | Patofisiologi rosacea, ciri-ciri dan pilihan rawatan |
+| [17679183](https://pubmed.ncbi.nlm.nih.gov/17679183/) | 2007 | Ulasan | J Drugs Dermatol | Metronidazole sahaja dan digabungkan dengan antibiotik oral untuk rosacea |
+| [16673797](https://pubmed.ncbi.nlm.nih.gov/16673797/) | 2006 | Ulasan | J Drugs Dermatol | Kesan formulasi, dos, dan kepekatan terhadap efikasi metronidazole dalam rosacea |
+| [30585305](https://pubmed.ncbi.nlm.nih.gov/30585305/) | 2019 | Ulasan Sistematik | Br J Dermatol | Intervensi berasaskan fenotip untuk rosacea dengan penilaian GRADE |
+| [40213532](https://pubmed.ncbi.nlm.nih.gov/40213532/) | 2025 | Meta-analisis Jaringan | JAAD International | Efikasi/keselamatan minocycline, metronidazole, ivermectin, azelaic acid dalam rosacea papulopustular sederhana-teruk |
 
 ---
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information. (Key warnings, contraindications, and drug interaction data are not available in this evidence pack — flagged as a Blocking data gap, DG001.)
+Sila rujuk sisipan pakej untuk maklumat keselamatan. (Data amaran utama, kontraindikasi, dan interaksi ubat tidak tersedia dalam pakej bukti ini — ditandakan sebagai jurang data yang Memblokir, DG001.)
 
 ---
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Proceed with Guardrails**
+**Keputusan: Teruskan dengan Pagar Keselamatan**
 
-**Rationale:**
-Rosacea has L1-level evidence (multiple completed Phase 3 RCTs) and metronidazole is already a globally recognized standard topical therapy for this condition, giving high biological plausibility. However, the TxGNN score itself is anomalous (0.0), Malaysia-specific safety labeling (warnings/contraindications) is entirely missing (Blocking gap), and the original approved indication text could not be extracted from the license dataset.
+**Rasional:**
+Rosacea mempunyai bukti tahap L1 (pelbagai RCT Fasa 3 yang selesai) dan metronidazole sudah pun merupakan terapi topikal standard yang diiktiraf secara global untuk keadaan ini, memberikan kebolehpercayaan biologi yang tinggi. Walau bagaimanapun, skor TxGNN sendiri adalah anomali (0.0), label keselamatan khusus Malaysia (amaran/kontraindikasi) sama sekali hilang (jurang Memblokir), dan teks indikasi yang diluluskan asal tidak dapat diekstrak daripada set data lesen.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert warnings and contraindications (DG001, Blocking)
-- Confirmed mechanism of action detail from DrugBank (DG002, High)
-- Verification/re-query of the TxGNN score for this drug–disease pair (currently reported as 0.0)
-- Malaysia license-level detail (product name, dosage form, approved indication text) — all 5 sampled records were blank
-- Confirmation of whether rosacea is already a labeled indication for any Malaysia-marketed metronidazole product, to distinguish "regulatory gap-filling" from genuine off-label repurposing
+**Untuk teruskan, yang berikut diperlukan:**
+- Amaran sisipan pakej TFDA/NPRA dan kontraindikasi (DG001, Memblokir)
+- Butiran mekanisme tindakan yang disahkan daripada DrugBank (DG002, Tinggi)
+- Pengesahan/pertanyaan semula skor TxGNN untuk pasangan ubat–penyakit ini (kini dilaporkan sebagai 0.0)
+- Perincian tahap lesen Malaysia (nama produk, bentuk dos, teks indikasi yang diluluskan) — semua 5 rekod sampel adalah kosong
+- Pengesahan sama ada rosacea sudah pun merupakan indikasi yang dilabel untuk mana-mana produk metronidazole yang dipasarkan di Malaysia, untuk membezakan "penambahan jurang kawal selia" daripada pemanfaatan semula di luar label yang tulen
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

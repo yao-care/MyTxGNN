@@ -29,90 +29,91 @@ Tahap bukti: **L2** | Indikasi diramal: **5**
 
 </div>
 
-# Insulin Glargine: From Diabetes Mellitus to Diabetic Ketoacidosis
+# Insulin Glargine: Daripada Diabetes Mellitus kepada Diabetic Ketoacidosis
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Insulin Glargine (DrugBank DB00047) is a long-acting basal insulin analogue approved for the management of Type 1 and Type 2 diabetes mellitus. The TxGNN model predicts it may also be effective for **Diabetic Ketoacidosis (DKA)** — specifically as an early adjunct to standard IV insulin therapy — with **26 clinical trials** and **20 publications** currently addressing this use, though most individual studies are small or terminated.
+Insulin Glargine (DrugBank DB00047) ialah analog insulin basal berkejadian panjang yang diluluskan untuk pengurusan Diabetes Mellitus Jenis 1 dan Jenis 2. Model TxGNN meramalkan ia mungkin juga berkesan untuk **Ketoasidosis Diabetik (DKA)** — khususnya sebagai adjunk awal kepada terapi insulin IV standard — dengan **26 uji klinis** dan **20 publikasi** yang sedang menangani kegunaan ini, walaupun kebanyakan kajian individu adalah kecil atau ditamatkan.
 
-*Note: The evidence pack returned four additional "predicted" indications (Type 2 DM, Type 1 DM, diabetes mellitus, IDDM 1) that the source data itself flags as data-pipeline errors — these are the drug's existing approved indications, not novel repurposing candidates, and are excluded from this report.*
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Diabetes Mellitus (Type 1 and Type 2) — basal insulin replacement therapy |
-| Predicted New Indication | Diabetic Ketoacidosis (DKA) |
-| TxGNN Prediction Score | 0.00% (raw score field returned 0.0 — likely a data-pipeline gap, not a true model confidence value) |
-| Evidence Level | L2 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 14 |
-| Recommended Decision | Proceed with Guardrails |
+*Nota: Pakej bukti mengembalikan empat petunjuk "ramalan" tambahan (Type 2 DM, Type 1 DM, diabetes mellitus, IDDM 1) yang data sumber itu sendiri tandai sebagai ralat dalam saluran data — ini adalah petunjuk yang diluluskan bagi ubat itu, bukan calon repurposing novel, dan tidak termasuk dalam laporan ini.*
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Pantas
 
-Currently, detailed mechanism of action data is not available (DG002, High severity data gap). Based on known pharmacology, insulin glargine is a long-acting basal insulin analogue; its efficacy in diabetes mellitus is well established, and its blood-glucose-lowering and lipolysis-suppressing effects mechanistically extend to DKA management.
-
-Diabetic ketoacidosis is fundamentally an insulin-deficiency crisis: hyperglycemia and unchecked free-fatty-acid release drive ketone body formation and acidosis. Because insulin glargine's core action — correcting hyperglycemia and inhibiting free fatty acid release — is identical to its original indication, this is not a novel mechanistic hypothesis but a **same-mechanism extension of use**: adding early long-acting basal insulin to standard short-acting IV insulin during the acute phase of DKA, rather than waiting until acidosis resolves to start subcutaneous transition therapy. This gives the prediction high biological plausibility, and is directly reflected in a two-decade string of clinical trials testing exactly this strategy (e.g., NCT00179127, 2004–2012; NCT02548494, 2015–2019; NCT06007508, 2022–2023).
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Diabetes Mellitus (Jenis 1 dan Jenis 2) — terapi penggantian insulin basal |
+| Petunjuk Baru Meramal | Ketoasidosis Diabetik (DKA) |
+| Skor Ramalan TxGNN | 0.00% (medan skor mentah mengembalikan 0.0 — mungkin jurang dalam saluran data, bukan nilai keyakinan model yang sebenar) |
+| Tahap Bukti | L2 |
+| Status Pasar Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 14 |
+| Keputusan yang Disyorkan | Teruskan dengan Perlindungan |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Pada masa ini, data mekanisme kerja terperinci tidak tersedia (DG002, jurang data tahap tinggi). Berdasarkan farmakologi yang diketahui, insulin glargine ialah analog insulin basal berkejadian panjang; keberkesanannya dalam diabetes mellitus telah ditegakkan dengan baik, dan kesan penurunan gula darah dan penghambatan lipolisisnya berkembang secara mekanistikal kepada pengurusan DKA.
+
+Ketoasidosis diabetik pada asasnya adalah krisis kekurangan insulin: hiperglikemia dan pelepasan asid lemak bebas yang tidak terkawal mendorong pembentukan badan keton dan asidosis. Oleh kerana tindakan teras insulin glargine — membetulkan hiperglikemia dan menghalang pelepasan asid lemak bebas — adalah sama dengan petunjuk asalnya, ini bukan hipotesis mekanik novel tetapi **lanjutan kegunaan mekanik yang sama**: menambah insulin basal berkejadian panjang awal kepada insulin IV berkejadian pendek standard semasa fasa akut DKA, daripada menunggu sehingga asidosis dapat diselesaikan untuk memulai terapi peralihan subkutan. Ini memberikan ramalan kebolehpercayaan biologi yang tinggi, dan tercermin secara langsung dalam rentetan dua dekad uji klinis yang menguji strategi yang sama (contohnya, NCT00179127, 2004–2012; NCT02548494, 2015–2019; NCT06007508, 2022–2023).
+
+---
+
+## Bukti Uji Klinis
+
+| Bilangan Uji | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT02930044](https://clinicaltrials.gov/study/NCT02930044) | NA | Completed | 18 | Early SC glargine + standard of care vs. standard of care alone in ED patients with DKA; assessed duration of IV insulin infusion |
-| [NCT05219942](https://clinicaltrials.gov/study/NCT05219942) | NA | Unknown | 52 | Long-acting glargine + low-dose regular insulin infusion vs. infusion alone in DKA patients with renal impairment |
-| [NCT06007508](https://clinicaltrials.gov/study/NCT06007508) | Phase 2 | Terminated | 8 | Early administration of glargine in DKA; small terminated trial, insufficient statistical power |
-| [NCT00179127](https://clinicaltrials.gov/study/NCT00179127) | NA | Completed | 75 | Early glargine addition during moderate-to-severe pediatric DKA to accelerate acidosis correction and reduce ICU time |
-| [NCT00732524](https://clinicaltrials.gov/study/NCT00732524) | Phase 4 | Completed | 80 | Sulfonylurea + glargine as ED discharge therapy to prevent impending DKA in unstable Type 2 diabetes |
-| [NCT00590044](https://clinicaltrials.gov/study/NCT00590044) | Phase 4 | Completed | 74 | Multicenter RCT comparing insulin analogs vs. human insulins during IV-to-SC transition in DKA |
-| [NCT03107208](https://clinicaltrials.gov/study/NCT03107208) | Phase 4 | Completed | 61 | Early glargine vs. glargine after full DKA resolution in children; assessed prevention of rebound hyperglycemia |
-| [NCT02006342](https://clinicaltrials.gov/study/NCT02006342) | NA | Completed | 40 | Pilot study: SC glargine + IV insulin vs. IV insulin alone on time to anion-gap closure and ICU admission in ED DKA |
-| [NCT04567225](https://clinicaltrials.gov/study/NCT04567225) | Phase 4 | Terminated | 39 | Early basal insulin administration in adult DKA management |
-| [NCT02548494](https://clinicaltrials.gov/study/NCT02548494) | NA | Terminated | 17 | Double-blind RCT of early long-acting glargine during pediatric Type 1 DKA management |
+| [NCT02930044](https://clinicaltrials.gov/study/NCT02930044) | NA | Selesai | 18 | Glargine subkutan awal + standard rawatan berbanding standard rawatan sahaja pada pesakit ED dengan DKA; menilai tempoh infusi insulin IV |
+| [NCT05219942](https://clinicaltrials.gov/study/NCT05219942) | NA | Tidak diketahui | 52 | Glargine berkejadian panjang + infusi insulin biasa dos rendah berbanding infusi sahaja pada pesakit DKA dengan kemerosotan ginjal |
+| [NCT06007508](https://clinicaltrials.gov/study/NCT06007508) | Fasa 2 | Ditamatkan | 8 | Pentadbiran awal glargine dalam DKA; uji klinis ditamatkan yang kecil, kuasa statistik tidak mencukupi |
+| [NCT00179127](https://clinicaltrials.gov/study/NCT00179127) | NA | Selesai | 75 | Penambahan glargine awal semasa DKA sederhana hingga teruk pediatrik untuk mempercepatkan pembetulan asidosis dan mengurangkan masa ICU |
+| [NCT00732524](https://clinicaltrials.gov/study/NCT00732524) | Fasa 4 | Selesai | 80 | Sulfonilurea + glargine sebagai terapi pelepasan ED untuk mencegah DKA yang akan datang dalam diabetes Jenis 2 yang tidak stabil |
+| [NCT00590044](https://clinicaltrials.gov/study/NCT00590044) | Fasa 4 | Selesai | 74 | RCT berbilang pusat membandingkan analog insulin berbanding insulin manusia semasa peralihan IV kepada subkutan dalam DKA |
+| [NCT03107208](https://clinicaltrials.gov/study/NCT03107208) | Fasa 4 | Selesai | 61 | Glargine awal berbanding glargine selepas penyelsaian DKA lengkap pada kanak-kanak; menilai pencegahan hiperglikemia rebound |
+| [NCT02006342](https://clinicaltrials.gov/study/NCT02006342) | NA | Selesai | 40 | Kajian perintis: glargine subkutan + insulin IV berbanding insulin IV sahaja pada masa untuk penutupan jurang anion dan kemasukan ICU dalam ED DKA |
+| [NCT04567225](https://clinicaltrials.gov/study/NCT04567225) | Fasa 4 | Ditamatkan | 39 | Pentadbiran insulin basal awal dalam pengurusan DKA dewasa |
+| [NCT02548494](https://clinicaltrials.gov/study/NCT02548494) | NA | Ditamatkan | 17 | RCT buta berganda glargine berkejadian panjang awal semasa pengurusan DKA Jenis 1 pediatrik |
 
 ---
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [27861474](https://pubmed.ncbi.nlm.nih.gov/27861474/) | 2016 | Systematic Review + Meta-analysis | Gaceta médica de México | SC glargine coadministration from onset of DKA management may reduce rebound hyperglycemia and improve time to resolution vs. IV insulin alone |
-| [41208563](https://pubmed.ncbi.nlm.nih.gov/41208563/) | 2026 | Systematic Review + Meta-analysis (RCTs) | Diabetes, Obesity & Metabolism | Evaluates effectiveness/safety of early SC basal insulin + IV infusion vs. IV infusion alone for DKA |
-| [41296041](https://pubmed.ncbi.nlm.nih.gov/41296041/) | 2025 | GRADE Systematic Review + Meta-analysis | European Journal of Pediatrics | Early vs. late initiation of long-acting basal insulin during IV insulin in pediatric DKA (PROSPERO-registered) |
-| [40840711](https://pubmed.ncbi.nlm.nih.gov/40840711/) | 2025 | Randomized Clinical Trial | Endocrine Practice | Early glargine U100 vs. U300 alongside IV insulin in adult T1DM DKA management |
-| [40623843](https://pubmed.ncbi.nlm.nih.gov/40623843/) | 2025 | Double-blind RCT | Archives of Disease in Childhood | Early glargine supplementation during acute pediatric DKA management — efficacy and safety |
-| [33655870](https://pubmed.ncbi.nlm.nih.gov/33655870/) | 2021 | RCT/Cohort | Current Diabetes Reviews | Early glargine use in DKA was safe and associated with a trend toward faster resolution |
-| [37139251](https://pubmed.ncbi.nlm.nih.gov/37139251/) | 2023 | Cohort (pediatric evaluation) | J Pediatr Pharmacol Ther | Early SC glargine may accelerate ketoacidosis resolution in pediatric DKA vs. standard-timing administration |
-| [36479786](https://pubmed.ncbi.nlm.nih.gov/36479786/) | 2023 | RCT (Cohort effectiveness/safety) | Diabetes, Obesity & Metabolism | Early glargine + continuous IV insulin infusion vs. IV infusion alone in DKA management |
-| [39308229](https://pubmed.ncbi.nlm.nih.gov/39308229/) | 2025 | Cohort (operational effectiveness) | Academic Emergency Medicine | SQuID II protocol expands SC insulin DKA management to sicker patients on regular medical floors |
-| [39054791](https://pubmed.ncbi.nlm.nih.gov/39054791/) | 2025 | Review | Annals of Pharmacotherapy | Summarizes studies on SC insulin regimens (including glargine) for DKA management in adults and pediatrics |
+| [27861474](https://pubmed.ncbi.nlm.nih.gov/27861474/) | 2016 | Ulasan Sistematik + Meta-analisis | Gaceta médica de México | Coadministrasi glargine subkutan dari permulaan pengurusan DKA mungkin mengurangkan hiperglikemia rebound dan meningkatkan masa ke resolusi berbanding insulin IV sahaja |
+| [41208563](https://pubmed.ncbi.nlm.nih.gov/41208563/) | 2026 | Ulasan Sistematik + Meta-analisis (RCT) | Diabetes, Obesity & Metabolism | Menilai keberkesanan/keselamatan insulin basal subkutan awal + infusi IV berbanding infusi IV sahaja untuk DKA |
+| [41296041](https://pubmed.ncbi.nlm.nih.gov/41296041/) | 2025 | Ulasan Sistematik + Meta-analisis GRADE | European Journal of Pediatrics | Inisiasi awal berbanding lewat insulin basal berkejadian panjang semasa insulin IV dalam DKA pediatrik (berdaftar PROSPERO) |
+| [40840711](https://pubmed.ncbi.nlm.nih.gov/40840711/) | 2025 | Uji Klinis Rawak | Endocrine Practice | Glargine U100 awal berbanding U300 bersama insulin IV dalam pengurusan DKA T1DM dewasa |
+| [40623843](https://pubmed.ncbi.nlm.nih.gov/40623843/) | 2025 | RCT Buta Berganda | Archives of Disease in Childhood | Penambahan glargine awal semasa pengurusan DKA pediatrik akut — keberkesanan dan keselamatan |
+| [33655870](https://pubmed.ncbi.nlm.nih.gov/33655870/) | 2021 | RCT/Kohort | Current Diabetes Reviews | Penggunaan glargine awal dalam DKA adalah selamat dan dikaitkan dengan arah aliran ke arah resolusi yang lebih cepat |
+| [37139251](https://pubmed.ncbi.nlm.nih.gov/37139251/) | 2023 | Kohort (penilaian pediatrik) | J Pediatr Pharmacol Ther | Glargine subkutan awal mungkin mempercepatkan penyelsaian ketoasidosis dalam DKA pediatrik berbanding pentadbiran berkejadian standard |
+| [36479786](https://pubmed.ncbi.nlm.nih.gov/36479786/) | 2023 | RCT (Keberkesanan/Keselamatan Kohort) | Diabetes, Obesity & Metabolism | Glargine awal + infusi insulin IV berterusan berbanding infusi IV sahaja dalam pengurusan DKA |
+| [39308229](https://pubmed.ncbi.nlm.nih.gov/39308229/) | 2025 | Kohort (keberkesanan operasional) | Academic Emergency Medicine | Protokol SQuID II mengembangkan pengurusan DKA insulin subkutan kepada pesakit yang lebih sakit di tingkat perubatan biasa |
+| [39054791](https://pubmed.ncbi.nlm.nih.gov/39054791/) | 2025 | Ulasan | Annals of Pharmacotherapy | Merangkum kajian tentang rejimen insulin subkutan (termasuk glargine) untuk pengurusan DKA pada dewasa dan pediatrik |
 
 ---
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk pada nota produk untuk maklumat keselamatan.
 
 ---
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Proceed with Guardrails**
+**Keputusan: Teruskan dengan Perlindungan**
 
-**Rationale:**
-The repurposing hypothesis has high mechanistic plausibility (same drug, same glucose/ketone-lowering action, extended to earlier use in the same disease continuum), and is backed by one systematic review + meta-analysis plus multiple RCTs/cohorts spanning two decades. However, individual trials are consistently small (n=8–80), several were terminated early, and no single large confirmatory Phase 3 RCT exists — hence L2 rather than L1 evidence.
+**Rasional:**
+Hipotesis repurposing mempunyai kebolehpercayaan mekanistikal yang tinggi (ubat yang sama, tindakan penurunan gula darah/keton yang sama, dilanjutkan ke penggunaan yang lebih awal dalam benua penyakit yang sama), dan disokong oleh satu ulasan sistematik + meta-analisis ditambah berbilang RCT/kohort yang merentangi dua dekad. Walau bagaimanapun, uji klinis individu secara konsisten kecil (n=8–80), beberapa ditamatkan awal, dan tiada RCT Fasa 3 pengesahan besar yang tunggal wujud — maka L2 daripada bukti L1.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert warnings, precautions, and contraindications (currently a Blocking data gap — required before any S1 safety screening)
-- Detailed mechanism of action documentation from DrugBank (currently a High-severity data gap)
-- A larger, adequately powered confirmatory RCT specifically in the DKA population (existing trials are underpowered or terminated)
-- Malaysia-specific regulatory review of whether early basal insulin use in DKA falls within, or requires an extension of, the current approved label
+**Untuk meneruskan, yang berikut diperlukan:**
+- Amaran nota produk TFDA/NPRA, tindakan berjaga-jaga, dan kontraindikasi (pada masa ini jurang data Penyekat — diperlukan sebelum sebarang saringan keselamatan S1)
+- Dokumentasi mekanisme kerja terperinci daripada DrugBank (pada masa ini jurang data tahap tinggi)
+- RCT pengesahan yang lebih besar dan cukup berkuasa khusus dalam populasi DKA (uji klinis sedia ada tidak cukup berkuasa atau ditamatkan)
+- Semakan kawal selia khusus Malaysia sama ada penggunaan insulin basal awal dalam DKA jatuh dalam, atau memerlukan peluasan, label yang diluluskan pada masa ini
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

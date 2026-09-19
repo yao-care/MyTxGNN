@@ -29,76 +29,77 @@ Tahap bukti: **L2** | Indikasi diramal: **2**
 
 </div>
 
-# Revefenacin: From COPD Maintenance Therapy to Bronchitis
+# Revefenacin: Dari Terapi Pemeliharaan PPOK ke Bronkitis
 
-## One-Sentence Summary
+## Ringkasan Satu Kalimat
 
-Revefenacin is a once-daily nebulized long-acting muscarinic antagonist (LAMA), with its established role as a maintenance bronchodilator in chronic obstructive pulmonary disease (COPD) well documented in the literature reviewed here. The TxGNN model predicts it may also be effective for **Bronchitis**, but this direction is currently supported by only **1 indirect clinical trial** and **no dedicated literature**, making the evidence base thin.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | COPD maintenance treatment (per literature evidence in this pack; Malaysia label indication text is not populated in the NPRA record) |
-| Predicted New Indication | Bronchitis |
-| TxGNN Prediction Score | 99.61% |
-| Evidence Level | L2 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+Revefenacin adalah antagonis muskarinik yang bekerja lama (LAMA) yang dihirup sekali sehari, dengan peran yang sudah mapan sebagai bronkodilator pemeliharaan dalam penyakit paru obstruktif kronik (PPOK) yang terdokumentasi dengan baik dalam literatur yang ditinjau di sini. Model TxGNN memprediksi bahwa ia juga mungkin efektif untuk **Bronkitis**, tetapi arah ini saat ini didukung hanya oleh **1 uji klinis tidak langsung** dan **tidak ada literatur khusus**, membuat basis bukti sangat terbatas.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Ikhtisar Cepat
 
-The structured mechanism-of-action field for this candidate is a data gap, but the literature evidence collected under this candidate consistently describes revefenacin as a lung-selective, long-acting muscarinic (M3) receptor antagonist. By blocking acetylcholine-mediated bronchoconstriction in airway smooth muscle, it produces sustained, once-daily bronchodilation delivered via nebulizer — a profile developed specifically for COPD patients who cannot reliably generate the inspiratory effort needed for dry-powder or metered-dose inhalers.
-
-Chronic bronchitis is one of the two classic clinical phenotypes of COPD (alongside emphysema), defined by chronic mucus hypersecretion, cough, and airflow limitation. Because revefenacin already targets the airway obstruction component shared by both phenotypes, it is mechanistically plausible that its bronchodilator effect could extend to bronchitis specifically, rather than only to COPD as a composite diagnosis.
-
-That said, the only clinical trial evidence tied to this prediction (NCT01704404) enrolled a general COPD population rather than a bronchitis-specific cohort, so the mechanistic rationale is currently stronger than the direct clinical evidence. This is reflected in the model's own relevance grading ("B" — indirect support).
-
----
-
-## Clinical Trial Evidence
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT01704404](https://clinicaltrials.gov/study/NCT01704404) | Phase 2 | Completed | 62 | Characterized the dose-response of TD-4208 (revefenacin) after 7 days of dosing in COPD subjects; population was general COPD rather than a bronchitis-specific diagnosis, so support is indirect. |
+| Item | Konten |
+|------|--------|
+| Indikasi Asli | Pengobatan pemeliharaan PPOK (menurut bukti literatur dalam paket ini; teks indikasi label Malaysia tidak diisi dalam catatan NPRA) |
+| Indikasi Baru yang Diprediksi | Bronkitis |
+| Skor Prediksi TxGNN | 99.61% |
+| Tingkat Bukti | L2 |
+| Status Pasar Malaysia | ✓ Dipasarkan |
+| Jumlah Registrasi | 1 |
+| Keputusan yang Direkomendasikan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Prediksi Ini Masuk Akal?
 
-Currently no related literature available specific to the bronchitis indication.
+Bidang mekanisme kerja yang terstruktur untuk kandidat ini adalah kesenjangan data, tetapi bukti literatur yang dikumpulkan di bawah kandidat ini secara konsisten menggambarkan revefenacin sebagai antagonis reseptor muskarinik (M3) yang selektif paru-paru dan bekerja lama. Dengan memblokir bronkokonstriksi yang dimediasi asetilkolin dalam otot polos saluran napas, ia menghasilkan bronkodilatasi yang berkelanjutan dan sekali sehari melalui penghirup — suatu profil yang dikembangkan khusus untuk pasien PPOK yang tidak dapat secara andal menghasilkan usaha inspirasi yang diperlukan untuk penghirup serbuk kering atau penghirup dosis terukur.
 
----
+Bronkitis kronis adalah salah satu dari dua fenotipe klinis klasik PPOK (bersama enfisema), yang ditandai dengan hipersekrosi lendir kronis, batuk, dan keterbatasan aliran udara. Karena revefenacin sudah menargetkan komponen obstruksi saluran napas yang dibagikan oleh kedua fenotipe tersebut, secara mekanis masuk akal bahwa efek bronkodilator-nya dapat meluas ke bronkitis secara khusus, bukan hanya ke PPOK sebagai diagnosis gabungan.
 
-## Malaysia Market Information
-
-NPRA confirms revefenacin is marketed in Malaysia with 1 active registration. However, product-level details (registration number, product name, dosage form, and approved indication text) are not populated in this evidence pack and require direct retrieval from the NPRA product registry.
+Namun demikian, satu-satunya bukti uji klinis yang terkait dengan prediksi ini (NCT01704404) menggambarkan populasi PPOK umum daripada kohort khusus bronkitis, sehingga rasional mekanis saat ini lebih kuat daripada bukti klinis langsung. Hal ini tercermin dalam penilaian relevansi model itu sendiri ("B" — dukungan tidak langsung).
 
 ---
 
-## Safety Considerations
+## Bukti Uji Klinis
 
-Please refer to the package insert for safety information.
+| Nomor Uji | Fase | Status | Pendaftaran | Temuan Utama |
+|-----------|------|--------|-------------|--------------|
+| [NCT01704404](https://clinicaltrials.gov/study/NCT01704404) | Fase 2 | Selesai | 62 | Mencirikan respons dosis TD-4208 (revefenacin) setelah 7 hari pemberian pada subjek PPOK; populasi adalah PPOK umum daripada diagnosis khusus bronkitis, jadi dukungan bersifat tidak langsung. |
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Hold**
+Saat ini tidak ada literatur terkait yang tersedia khusus untuk indikasi bronkitis.
 
-**Rationale:**
-The bronchitis prediction is mechanistically plausible given revefenacin's established LAMA activity in COPD, but it is currently backed by only one indirect Phase 2 trial (general COPD population, not bronchitis-specific) and no dedicated literature — insufficient to move beyond a research question at this stage.
+---
 
-**To proceed, the following is needed:**
-- Malaysia-specific product label data (registration number, indication text, dosage form) — currently missing from the NPRA record
-- TFDA/NPRA package insert warnings and contraindications (flagged as a blocking data gap for safety pre-screening)
-- Confirmed structured mechanism-of-action data from DrugBank
-- A bronchitis-specific (rather than general COPD) clinical trial or observational study to directly test the predicted indication
+## Informasi Pasar Malaysia
+
+NPRA mengonfirmasi bahwa revefenacin dipasarkan di Malaysia dengan 1 registrasi aktif. Namun, detail tingkat produk (nomor registrasi, nama produk, bentuk dosis, dan teks indikasi yang disetujui) tidak diisi dalam paket bukti ini dan memerlukan pengambilan langsung dari registri produk NPRA.
+
+---
+
+## Pertimbangan Keselamatan
+
+Silakan lihat selebaran dalam kemasan untuk informasi keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Selanjutnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Prediksi bronkitis secara mekanis masuk akal mengingat aktivitas LAMA revefenacin yang sudah mapan dalam PPOK, tetapi saat ini didukung hanya oleh satu uji Fase 2 tidak langsung (populasi PPOK umum, bukan khusus bronkitis) dan tidak ada literatur khusus — tidak cukup untuk bergerak melampaui pertanyaan penelitian pada tahap ini.
+
+**Untuk melanjutkan, berikut yang diperlukan:**
+- Data label produk spesifik Malaysia (nomor registrasi, teks indikasi, bentuk dosis) — saat ini hilang dari catatan NPRA
+- Peringatan paket sisipan TFDA/NPRA dan kontraindikasi (ditandai sebagai kesenjangan data pemblokiran untuk pra-skrining keselamatan)
+- Data mekanisme kerja terstruktur yang dikonfirmasi dari DrugBank
+- Uji klinis (bukan PPOK umum) khusus bronkitis atau studi observasional untuk secara langsung menguji indikasi yang diprediksi
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

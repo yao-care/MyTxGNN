@@ -29,102 +29,103 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# BLINATUMOMAB: Drug Repurposing Evaluation Report
+# BLINATUMOMAB: Laporan Penilaian Penggunaan Semula Dadah
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Blinatumomab (DB09052) is a bispecific T-cell engager (BiTE) antibody approved for the treatment of B-cell precursor acute lymphoblastic leukaemia (ALL). The current Evidence Pack contains **no TxGNN predicted indications**, and critical data gaps exist in mechanism of action, safety warnings, and licence details, preventing a meaningful repurposing evaluation at this time.
+Blinatumomab (DB09052) ialah antibodi penglibat sel-T biespesifik (BiTE) yang diluluskan untuk rawatan leukemia limfoblastik akut pendahulu sel-B (ALL). Pakej Bukti semasa tidak mengandungi **sebarang petunjuk yang diramalkan oleh TxGNN**, dan jurang data kritikal wujud dalam mekanisme tindakan, amaran keselamatan, dan butiran lesen, menghalang penilaian penggunaan semula yang bermakna pada masa ini.
 
 ---
 
-## Quick Overview
+## Gambaran Keseluruhan Cepat
 
-| Item | Content |
+| Perkara | Kandungan |
 |------|---------|
-| Original Indication | *(Data not provided in evidence pack — known: B-cell precursor ALL)* |
-| Predicted New Indication | **None** — no TxGNN predictions available |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | **L5** (No predictions, no supporting studies) |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 1 |
-| Recommended Decision | **Hold** |
+| Petunjuk Asal | *(Data tidak disediakan dalam pakej bukti — diketahui: ALL pendahulu sel-B)* |
+| Petunjuk Baru yang Diramalkan | **Tiada** — tiada ramalan TxGNN tersedia |
+| Skor Ramalan TxGNN | T/A |
+| Tahap Bukti | **L5** (Tiada ramalan, tiada kajian sokongan) |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | **Tunda** |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data is not available in the evidence pack. Based on publicly known information, blinatumomab is a bispecific CD19-directed CD3 T-cell engager — it simultaneously binds CD19 on B-lineage cells and CD3 on T cells, redirecting the patient's own T cells to lyse CD19-positive malignant B cells. Its efficacy in relapsed/refractory B-cell precursor acute lymphoblastic leukaemia has been well established.
+Pada masa kini, data mekanisme tindakan terperinci tidak tersedia dalam pakej bukti. Berdasarkan maklumat yang diketahui umum, blinatumomab ialah penglibat sel-T CD3 yang diarahkan ke CD19 biespesifik — ia mengikat secara serentak CD19 pada sel-sel keturunan-B dan CD3 pada sel-T, mengubah arah sel-T pesakit sendiri untuk melisis sel-B ganas positif CD19. Keberkesanannya dalam leukemia limfoblastik akut pendahulu sel-B yang relaps/tahan ubat telah ditegakkan dengan baik.
 
-However, the TxGNN model has **not generated any predicted new indications** for blinatumomab in this evidence pack. This may be attributable to several factors: (1) blinatumomab is a large-molecule biologic with a highly specific mechanism that may not map well onto the knowledge graph used by TxGNN; (2) the drug–disease edges in the KG may be sparse for bispecific antibodies; or (3) the prediction pipeline may not have been executed for this drug.
+Walau bagaimanapun, model TxGNN **tidak telah menghasilkan sebarang petunjuk baru yang diramalkan** untuk blinatumomab dalam pakej bukti ini. Ini mungkin boleh disebabkan oleh beberapa faktor: (1) blinatumomab ialah biologi molekul besar dengan mekanisme yang sangat spesifik yang mungkin tidak dipetakan dengan baik ke dalam graf pengetahuan yang digunakan oleh TxGNN; (2) tepi dadah-penyakit dalam KG mungkin jarang berlaku untuk antibodi biespesifik; atau (3) saluran ramalan mungkin tidak telah dilaksanakan untuk dadah ini.
 
-Without a predicted indication, no mechanistic plausibility analysis can be performed. This report serves as a baseline documentation of the drug's regulatory status in Malaysia, pending completion of the prediction pipeline and resolution of data gaps.
-
----
-
-## Clinical Trial Evidence
-
-Currently no predicted indication is available, therefore no targeted clinical trial search was performed.
+Tanpa petunjuk yang diramalkan, tiada analisis kebolehpercayaan mekanistik dapat dilakukan. Laporan ini berfungsi sebagai dokumentasi garis asas status kawal selia dadah di Malaysia, sambil menunggu penyiapan saluran ramalan dan penyelesaian jurang data.
 
 ---
 
-## Literature Evidence
+## Bukti Ujian Klinikal
 
-Currently no predicted indication is available, therefore no targeted literature search was performed.
+Petunjuk yang diramalkan tidak tersedia pada masa kini, oleh itu tiada pencarian ujian klinikal bertarget yang dilakukan.
 
 ---
 
-## Malaysia Market Information
+## Bukti Kesusasteraan
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+Petunjuk yang diramalkan tidak tersedia pada masa kini, oleh itu tiada pencarian kesusasteraan bertarget yang dilakukan.
+
+---
+
+## Maklumat Pasaran Malaysia
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjuk yang Diluluskan |
 |----------------------|-------------|-------------|---------------------|
-| *(Not provided)* | *(Not provided)* | *(Not provided)* | *(Not provided)* |
+| *(Tidak disediakan)* | *(Tidak disediakan)* | *(Tidak disediakan)* | *(Tidak disediakan)* |
 
-> **Note:** One registration record exists in the NPRA database, but the licence details (authorization number, product name, dosage form, and approved indication text) were not populated in the evidence pack. These fields need to be retrieved from the NPRA portal.
+> **Nota:** Satu rekod pendaftaran wujud dalam pangkalan data NPRA, tetapi butiran lesen (nombor kebenaran, nama produk, bentuk dos, dan teks petunjuk yang diluluskan) tidak diisi dalam pakej bukti. Medan-medan ini perlu diambil dari portal NPRA.
 
 ---
 
-## Cytotoxicity
+## Sitotoksisiti
 
-Blinatumomab is an antineoplastic agent (bispecific immunotherapy).
+Blinatumomab ialah agen antineoplastik (immunoterapi biespesifik).
 
-| Item | Content |
+| Perkara | Kandungan |
 |------|---------|
-| Cytotoxicity Classification | Immunotherapy (Bispecific T-cell engager, not conventional cytotoxic) |
-| Myelosuppression Risk | Moderate — neutropenia, febrile neutropenia, and leukopenia reported |
-| Emetogenicity Classification | Low |
-| Monitoring Items | CBC with differential, liver function (ALT, AST, bilirubin), renal function, cytokine levels (CRS monitoring), neurological status |
-| Handling Protection | Standard biologic handling; does not require cytotoxic drug handling precautions as it is not a conventional cytotoxic agent. Follow institutional biologic handling protocols. |
+| Klasifikasi Sitotoksisiti | Immunoterapi (Penglibat sel-T biespesifik, bukan sitotoksik konvensional) |
+| Risiko Penindasan Sum-sum Tulang | Sederhana — neutropenia, neutropenia demam, dan leukopenia dilaporkan |
+| Klasifikasi Emetogenisiti | Rendah |
+| Perkara-perkara Pemantauan | CBC dengan pembezaan, fungsi hati (ALT, AST, bilirubin), fungsi ginjal, tahap sitokin (pemantauan CRS), status neurologikal |
+| Perlindungan Pengendalian | Pengendalian biologi standard; tidak memerlukan langkah berjaga-jaga untuk pengendalian dadah sitotoksik kerana ia bukan agen sitotoksik konvensional. Ikuti protokol pengendalian biologi institusional. |
 
-> *Note: The above is based on generally known pharmacological properties. Please refer to the package insert for complete prescribing information, as the evidence pack safety fields contain data gaps.*
-
----
-
-## Safety Considerations
-
-> Please refer to the package insert for safety information.
->
-> All safety fields in the current evidence pack (key warnings, contraindications, drug interactions) are unpopulated. Known major safety concerns for blinatumomab from the published literature include:
-> - **Cytokine Release Syndrome (CRS)** — potentially life-threatening; requires stepwise dosing and monitoring
-> - **Neurological toxicity** — including seizures, encephalopathy, confusion, tremor
-> - **Infections** — due to B-cell depletion and immunosuppression
->
-> These must be confirmed via the official package insert before any evaluation proceeds.
+> *Nota: Di atas adalah berdasarkan sifat farmakologi yang diketahui umum. Sila merujuk kepada sisipan pakej untuk maklumat preskripsi lengkap, kerana medan keselamatan pakej bukti mengandungi jurang data.*
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+> Sila merujuk kepada sisipan pakej untuk maklumat keselamatan.
+>
+> Semua medan keselamatan dalam pakej bukti semasa (amaran utama, kontraindikasi, interaksi dadah) adalah kosong. Kebimbangan keselamatan utama yang diketahui untuk blinatumomab dari kesusasteraan yang diterbitkan termasuk:
+> - **Sindrom Pelepasan Sitokin (CRS)** — berpotensi mengancam nyawa; memerlukan dos berperingkat dan pemantauan
+> - **Toksisiti neurologikal** — termasuk sawan, ensefalopatia, kekeliruan, tremor
+> - **Jangkitan** — disebabkan oleh pengeluaran sel-B dan penindasan imun
+>
+> Ini mesti disahkan melalui sisipan pakej rasmi sebelum sebarang penilaian diteruskan.
 
-**Rationale:**
-No TxGNN predicted indications were generated for blinatumomab, and multiple critical data gaps (MOA, safety warnings, licence details) remain unresolved. A repurposing evaluation cannot proceed without both a candidate indication and baseline safety data.
+---
 
-**To proceed, the following is needed:**
-- **Run TxGNN prediction pipeline** for blinatumomab (DB09052) to generate candidate indications
-- **Resolve DG001 (Blocking):** Retrieve package insert from NPRA/TFDA and extract warnings and contraindications
-- **Resolve DG002 (High):** Query DrugBank API for detailed mechanism of action
-- **Complete NPRA licence record:** Populate authorization number, product name, dosage form, and approved indication text
-- **Once a predicted indication is available:** Conduct clinical trial search (ClinicalTrials.gov, ICTRP) and literature search (PubMed) for the drug–indication pair
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tunda**
+
+**Alasan:**
+Tiada petunjuk yang diramalkan oleh TxGNN yang dihasilkan untuk blinatumomab, dan jurang data kritikal berganda (MOA, amaran keselamatan, butiran lesen) tetap tidak dapat diselesaikan. Penilaian penggunaan semula tidak dapat diteruskan tanpa kedua-dua petunjuk calon dan data keselamatan garis asas.
+
+**Untuk diteruskan, yang berikut diperlukan:**
+- **Jalankan saluran ramalan TxGNN** untuk blinatumomab (DB09052) untuk menghasilkan petunjuk calon
+- **Selesaikan DG001 (Pemblokiran):** Ambil sisipan pakej dari NPRA/TFDA dan ekstrak amaran dan kontraindikasi
+- **Selesaikan DG002 (Tinggi):** Pertanyaan API DrugBank untuk mekanisme tindakan terperinci
+- **Selesaikan rekod lesen NPRA:** Isi nombor kebenaran, nama produk, bentuk dos, dan teks petunjuk yang diluluskan
+- **Setelah petunjuk yang diramalkan tersedia:** Lakukan pencarian ujian klinikal (ClinicalTrials.gov, ICTRP) dan pencarian kesusasteraan (PubMed) untuk pasangan dadah-petunjuk
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

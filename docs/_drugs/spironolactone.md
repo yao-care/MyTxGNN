@@ -29,62 +29,63 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Spironolactone: From Marketed Indication (Not Specified) to Hypotrichosis Simplex of the Scalp
+# Spironolactone: Dari Indikasi Dipasarkan (Tidak Dinyatakan) kepada Hypotrichosis Simplex of the Scalp
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Spironolactone is a mineralocorticoid receptor antagonist marketed in Malaysia (1 registration on file), though the specific approved indication text is not captured in the current evidence pack. The TxGNN model predicts potential effectiveness for **Hypotrichosis Simplex of the Scalp**, a rare genetic hair-loss disorder, but this prediction is currently supported by **0 clinical trials** and **0 publications** — evidence level L5, model prediction only.
+Spironolactone ialah antagonis reseptor mineralocorticoid yang dipasarkan di Malaysia (1 pendaftaran dalam fail), walaupun teks indikasi yang diluluskan secara khusus tidak ditangkap dalam pakej bukti semasa. Model TxGNN meramalkan potensi keberkesanan untuk **Hypotrichosis Simplex of the Scalp**, satu gangguan kehilangan rambut genetik yang jarang, tetapi ramalan ini kini disokong oleh **0 ujian klinikal** dan **0 penerbitan** — tahap bukti L5, ramalan model sahaja.
 
-## Quick Overview
+## Tinjauan Pantas
 
-| Item | Content |
-|------|------|
-| Original Indication | Not specified in available registration data |
-| Predicted New Indication | Hypotrichosis Simplex of the Scalp |
-| TxGNN Prediction Score | 99.26% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|----------|
+| Indikasi Asal | Tidak dinyatakan dalam data pendaftaran yang tersedia |
+| Indikasi Baru yang Diramalkan | Hypotrichosis Simplex of the Scalp |
+| Skor Ramalan TxGNN | 99.26% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed mechanism of action data (`original_moa`) is flagged as a data gap in this evidence pack. However, the prediction rationale supplied alongside the candidate indicates spironolactone acts as a mineralocorticoid receptor antagonist with notable anti-androgenic activity (androgen receptor blockade, inhibition of steroidogenesis), and is widely used off-label for androgenetic alopecia (female pattern hair loss).
+Data mekanisme tindakan terperinci (`original_moa`) ditandakan sebagai jurang data dalam pakej bukti ini. Bagaimanapun, rasional ramalan yang disediakan di samping calon menunjukkan spironolactone bertindak sebagai antagonis reseptor mineralocorticoid dengan aktiviti anti-androgenik yang ketara (penyekat reseptor androgen, perencatan steroidogenesis), dan digunakan secara meluas di luar label untuk androgenetic alopecia (kehilangan rambut corak wanita).
 
-That established anti-androgen use is the likely source of TxGNN's high score — but it does not transfer cleanly to the two predicted indications here. Hypotrichosis simplex of the scalp is a rare autosomal dominant disorder primarily linked to *APCDD1* and *CDH3* mutations, with a follicular developmental defect that has no direct connection to androgen signaling. Similarly, congenital hypotrichosis with milia-like features is associated with desmosomal gene mutations (e.g., *DSC2*, *DSG4*) affecting keratinocyte/follicle structure, not androgen-driven hair suppression.
+Penggunaan anti-androgen yang tersebut itu berkemungkinan sumber skor tinggi TxGNN — tetapi ia tidak dipindahkan dengan bersih kepada dua indikasi yang diramalkan di sini. Hypotrichosis simplex of the scalp adalah gangguan autosom dominan yang jarang terutamanya dikaitkan dengan mutasi *APCDD1* dan *CDH3*, dengan kecacatan perkembangan folikel yang tidak mempunyai sambungan langsung kepada isyarat androgen. Begitu juga, hypotrichosis bawaan dengan ciri seperti milia dikaitkan dengan mutasi gen desmosomal (cth., *DSC2*, *DSG4*) yang menjejaskan struktur keratinosit/folikel, bukan supresi rambut yang didorong androgen.
 
-In both cases, the evidence pack's own rationale flags this as a likely **semantic clustering artifact** — the knowledge graph groups these diseases under a shared "hypotrichosis/alopecia" label rather than through a validated, mechanism-specific pathway. This is a high-risk mechanistic extrapolation, not a well-grounded pharmacological hypothesis.
+Dalam kedua-dua kes, rasional sendiri pakej bukti menandakan ini sebagai kemungkinan **artifak kluster semantik** — graf pengetahuan mengelompokkan penyakit ini di bawah label "hypotrichosis/alopecia" bersama daripada melalui laluan spesifik mekanisme yang disahkan. Ini adalah ekstrapolasi mekanistik risiko tinggi, bukan hipotesis farmakologi yang tertanam dengan baik.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-Currently no related clinical trials registered.
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no related literature available.
+Pada masa ini tiada literatur berkaitan tersedia.
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Malaysia market status for spironolactone is confirmed as marketed, with 1 registration on file. License number, product name, dosage form, and approved indication text are not available in the current evidence pack.
+Status pasaran Malaysia untuk spironolactone disahkan sebagai dipasarkan, dengan 1 pendaftaran dalam fail. Nombor lesen, nama produk, bentuk dos, dan teks indikasi yang diluluskan tidak tersedia dalam pakej bukti semasa.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-*(Note: TFDA label warnings/contraindications are flagged as a Blocking data gap — DG001 — which independently prevents this candidate from entering the S1 safety review stage regardless of indication-level evidence.)*
+*(Nota: amaran label TFDA/kontraindikasi ditandakan sebagai jurang data Pemblokiran — DG001 — yang secara bebas menghalang calon ini daripada memasuki peringkat semakan keselamatan S1 tanpa mengira bukti peringkat indikasi.)*
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-Both predicted indications are supported only by TxGNN's model score (L5, decision stage S0) with zero clinical trials or literature, and the mechanistic link is judged weak — the high score likely reflects disease-label clustering ("hypotrichosis") rather than a validated pathway connecting spironolactone's anti-mineralocorticoid/anti-androgen activity to these genetically-driven follicular disorders.
+**Rasional:**
+Kedua-dua indikasi yang diramalkan disokong hanya oleh skor model TxGNN (L5, peringkat keputusan S0) tanpa ujian klinikal atau literatur, dan pautan mekanistik dinilai lemah — skor tinggi berkemungkinan mencerminkan kluster label penyakit ("hypotrichosis") daripada laluan yang disahkan menghubungkan aktiviti anti-mineralocorticoid/anti-androgen spironolactone kepada gangguan folikel yang didorong genetik ini.
 
-**To proceed, the following is needed:**
-- TFDA package insert data (warnings, contraindications) to clear the Blocking data gap (DG001) before any safety review can begin
-- Confirmed original indication text and mechanism of action (DG002)
-- Preclinical or case-level evidence linking androgen/mineralocorticoid pathways to *APCDD1*/*CDH3*- or desmosome-related follicular pathology
-- Any case reports of spironolactone use in genetic hypotrichosis syndromes to test the mechanistic hypothesis before further investment
+**Untuk meneruskan, yang berikut diperlukan:**
+- Data sisipan pakej TFDA (amaran, kontraindikasi) untuk membersihkan jurang data Pemblokiran (DG001) sebelum sebarang semakan keselamatan boleh dimulai
+- Teks indikasi asal yang disahkan dan mekanisme tindakan (DG002)
+- Bukti prapersidangan atau peringkat kes yang menghubungkan laluan androgen/mineralocorticoid kepada patologi folikel berkaitan *APCDD1*/*CDH3*- atau desmosom
+- Sebarang laporan kes penggunaan spironolactone dalam sindrom hypotrichosis genetik untuk menguji hipotesis mekanistik sebelum pelaburan lebih lanjut
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

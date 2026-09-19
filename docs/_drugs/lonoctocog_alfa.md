@@ -29,91 +29,92 @@ Tahap bukti: **L5** | Indikasi diramal: **4**
 
 </div>
 
-# Lonoctocog Alfa: From Haemophilia A to Pseudo-von Willebrand Disease
+# Lonoctocog Alfa: Dari Hemofilia A ke Penyakit Pseudo-von Willebrand
 
-## One-Sentence Summary
+## Ringkasan Satu Kalimat
 
-Lonoctocog alfa is a recombinant single-chain Factor VIII (rVIII-SingleChain) concentrate approved for the prevention and treatment of bleeding in patients with Haemophilia A (congenital Factor VIII deficiency).
-The TxGNN model predicts it may have potential utility in **pseudo-von Willebrand disease**, with **0 clinical trials** and **0 publications** currently identified to support this direction.
-This prediction is based entirely on computational modelling and mechanistic inference within the coagulation cascade; no empirical evidence exists at this stage.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Haemophilia A (congenital Factor VIII deficiency) |
-| Predicted New Indication | Pseudo-von Willebrand Disease |
-| TxGNN Prediction Score | 99.85% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 6 |
-| Recommended Decision | Hold |
+Lonoctocog alfa adalah konsentrat Faktor VIII rantai tunggal rekombinan (rVIII-SingleChain) yang disetujui untuk pencegahan dan pengobatan perdarahan pada pasien dengan Hemofilia A (kekurangan Faktor VIII bawaan).
+Model TxGNN memprediksi bahwa ia mungkin memiliki potensi kegunaan dalam **penyakit pseudo-von Willebrand**, dengan **0 ujian klinis** dan **0 publikasi** saat ini yang teridentifikasi untuk mendukung arah ini.
+Prediksi ini didasarkan sepenuhnya pada pemodelan komputasional dan kesimpulan mekanistik dalam lata pengkoagulasian; tidak ada bukti empiris pada tahap ini.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Cepat
 
-Lonoctocog alfa (brand name AFSTYLA) is a recombinant single-chain Factor VIII in which the heavy and light chains are covalently linked, improving molecular stability and extending half-life compared with conventional two-chain rFVIII. It acts as a cofactor within the intrinsic tenase complex (Factor VIIIa + Factor IXa), dramatically amplifying Factor X activation and downstream thrombin generation. Its proven therapeutic role is in Haemophilia A, where Factor VIII is absent or severely deficient.
-
-Pseudo-von Willebrand disease (platelet-type vWD) is a rare, inherited platelet disorder caused by a gain-of-function mutation in the platelet glycoprotein GPIb receptor. This mutation causes GPIb to bind high-molecular-weight von Willebrand factor (vWF) multimers excessively, leading to their accelerated clearance from the circulation. Because vWF serves as the physiological carrier and stabiliser of Factor VIII in plasma, depletion of vWF multimers can produce a secondary reduction in circulating Factor VIII levels. In this narrow context, lonoctocog alfa could theoretically compensate for the secondary FVIII deficiency component and partially restore haemostatic efficiency.
-
-The primary pathological defect in pseudo-vWD, however, resides in platelet GPIb — not in Factor VIII itself. Standard-of-care management involves platelet transfusion, not FVIII replacement. The mechanistic link between lonoctocog alfa and pseudo-vWD is therefore indirect and remains entirely hypothetical: it addresses a downstream consequence (reduced FVIII) rather than the upstream cause (abnormal GPIb). No preclinical models or clinical data exist to support FVIII supplementation as a therapeutic strategy in this condition.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Item | Konten |
+|------|--------|
+| Indikasi Asli | Hemofilia A (kekurangan Faktor VIII bawaan) |
+| Indikasi Baru yang Diprediksi | Penyakit Pseudo-von Willebrand |
+| Skor Prediksi TxGNN | 99.85% |
+| Tingkat Bukti | L5 |
+| Status Pasar Malaysia | ✓ Dipasarkan |
+| Jumlah Pendaftaran | 6 |
+| Keputusan yang Direkomendasikan | Tahan |
 
 ---
 
-## Literature Evidence
+## Mengapa Prediksi Ini Masuk Akal?
 
-Currently no related literature available.
+Lonoctocog alfa (nama merek AFSTYLA) adalah Faktor VIII rekombinan rantai tunggal di mana rantai berat dan ringan dihubungkan secara kovalen, meningkatkan stabilitas molekul dan memperpanjang waktu paruh dibandingkan dengan rFVIII dua rantai konvensional. Ia bertindak sebagai kofaktor dalam kompleks tenase intrinsik (Faktor VIIIa + Faktor IXa), secara dramatis meningkatkan aktivasi Faktor X dan pembentukan trombin hilir. Peran terapeutiknya yang terbukti adalah dalam Hemofilia A, di mana Faktor VIII tidak ada atau sangat kekurangan.
 
----
+Penyakit pseudo-von Willebrand (penyakit tipe platelet vWD) adalah gangguan platelet turun temurun yang langka yang disebabkan oleh mutasi gain-of-function dalam reseptor glikoprotein platelet GPIb. Mutasi ini menyebabkan GPIb mengikat multimer faktor von Willebrand (vWF) berbobot molekul tinggi secara berlebihan, yang menyebabkan pembersihan mereka yang dipercepat dari sirkulasi. Karena vWF berfungsi sebagai pembawa fisiologis dan penstabil Faktor VIII dalam plasma, penurunan multimer vWF dapat menghasilkan pengurangan sekunder dalam tingkat Faktor VIII yang bersirkulasi. Dalam konteks yang sempit ini, lonoctocog alfa secara teoritis dapat mengkompensasi komponen kekurangan FVIII sekunder dan sebagian mengembalikan efisiensi hemostasis.
 
-## Malaysia Market Information
-
-Lonoctocog alfa has **6 active registrations** in Malaysia with a current status of **Marketed**. Detailed product-level information (product names, dosage forms, and approved indication text) was not available in the current data extract. Complete registration records should be retrieved directly from the NPRA official product search portal for reference.
+Cacat patologis utama dalam pseudo-vWD, bagaimanapun, terletak pada platelet GPIb — bukan pada Faktor VIII sendiri. Manajemen standar perawatan melibatkan transfusi platelet, bukan penggantian FVIII. Tautan mekanistik antara lonoctocog alfa dan pseudo-vWD oleh karena itu tidak langsung dan tetap sepenuhnya hipotesis: ia mengatasi konsekuensi hilir (berkurangnya FVIII) daripada penyebab hulu (GPIb abnormal). Tidak ada model praklinik atau data klinis yang ada untuk mendukung suplementasi FVIII sebagai strategi terapeutik dalam kondisi ini.
 
 ---
 
-## Additional Predicted Indications
+## Bukti Ujian Klinis
 
-This is a multi-indication candidate run (TW-DB13998-multi). The TxGNN model identified four candidate indications, all at Evidence Level L5. A mechanistic summary for each is provided below for completeness.
-
-| Rank | Disease | TxGNN Score | Decision | Mechanistic Basis |
-|------|---------|-------------|----------|-------------------|
-| 1 | Pseudo-von Willebrand Disease | 99.85% | Research Question | Secondary FVIII reduction due to abnormal GPIb-mediated vWF multimer consumption; primary defect is in platelet GPIb, not FVIII — indirect link |
-| 2 | Primary Release Disorder of Platelets | 99.84% | Hold | Dense/alpha-granule deficiency impairs primary haemostasis; FVIII may theoretically amplify platelet activation via thrombin generation as a bypass, but the connection is highly indirect and unsupported |
-| 3 | Glanzmann Thrombasthenia | 99.76% | Research Question | GPIIb/IIIa (αIIbβ3) deficiency prevents platelet aggregation; rFVIIa is the approved bypass agent for refractory bleeding in GT; FVIII as a downstream tenase cofactor has no direct evidence in this setting |
-| 4 | Scott Syndrome | 99.44% | Research Question | TMEM16F mutation impairs phosphatidylserine externalisation, limiting the phospholipid scaffold for tenase and prothrombinase assembly; of the four candidates, this has the most mechanistically direct (though still speculative) rationale — supplemental FVIII could theoretically maximise tenase utilisation on a limited PS surface |
+Saat ini tidak ada ujian klinis terkait yang terdaftar.
 
 ---
 
-## Safety Considerations
+## Bukti Literatur
 
-Please refer to the package insert for safety information.
+Saat ini tidak ada literatur terkait yang tersedia.
 
 ---
 
-## Conclusion and Next Steps
+## Informasi Pasar Malaysia
 
-**Decision: Hold**
+Lonoctocog alfa memiliki **6 pendaftaran aktif** di Malaysia dengan status saat ini **Dipasarkan**. Informasi tingkat produk terperinci (nama produk, bentuk dosis, dan teks indikasi yang disetujui) tidak tersedia dalam ekstrak data saat ini. Catatan pendaftaran lengkap harus diambil langsung dari portal pencarian produk resmi NPRA untuk referensi.
 
-**Rationale:**
-All four predicted indications are at Evidence Level L5 (model prediction only, no empirical studies), and the mechanistic rationale — while biologically coherent for pseudo-vWD and Scott syndrome — remains highly speculative with no supporting preclinical or clinical data. Before any further development step can be justified, a minimum evidence base must be established.
+---
 
-**To proceed, the following is needed:**
+## Indikasi Tambahan yang Diprediksi
 
-- **Resolve data gaps**: Retrieve MOA documentation from DrugBank (Data Gap DG002) and download the registered package insert PDFs from NPRA to obtain warning, contraindication, and full pharmacology data (Data Gap DG001)
-- **Scoping literature review**: Conduct a broader PubMed/EMBASE search using alternative MeSH terms (e.g., "Factor VIII" AND "platelet disorder", "recombinant FVIII" AND "von Willebrand") to rule out any indirect supporting evidence not captured in the initial query
-- **Mechanistic feasibility assessment**: Consult with haematology specialists to evaluate whether secondary FVIII reduction in pseudo-vWD is clinically significant enough to warrant factor replacement as an adjunct
-- **Preclinical model identification**: Explore whether murine or in vitro models of pseudo-vWD or Scott syndrome with FVIII supplementation have been attempted in any unpublished data or conference abstracts
-- **Prioritisation**: If evidence is identified, Scott syndrome — with its most mechanistically direct (albeit still speculative) rationale — should be evaluated first as the lead candidate for a formal research question proposal
+Ini adalah run multi-indikasi kandidat (TW-DB13998-multi). Model TxGNN mengidentifikasi empat indikasi kandidat, semuanya pada Tingkat Bukti L5. Ringkasan mekanistik untuk masing-masing disediakan di bawah untuk kelengkapan.
+
+| Peringkat | Penyakit | Skor TxGNN | Keputusan | Dasar Mekanik |
+|-----------|---------|------------|----------|-----------------|
+| 1 | Penyakit Pseudo-von Willebrand | 99.85% | Pertanyaan Penelitian | Pengurangan FVIII sekunder karena konsumsi multimer vWF yang dimediasi GPIb abnormal; cacat utama ada pada platelet GPIb, bukan FVIII — tautan tidak langsung |
+| 2 | Gangguan Pelepasan Primer Platelet | 99.84% | Tahan | Kekurangan granula padat/alfa merusak hemostasis primer; FVIII mungkin secara teoritis meningkatkan aktivasi platelet melalui pembentukan trombin sebagai bypass, tetapi hubungannya sangat tidak langsung dan tidak didukung |
+| 3 | Trombastenia Glanzmann | 99.76% | Pertanyaan Penelitian | Kekurangan GPIIb/IIIa (αIIbβ3) mencegah agregasi platelet; rFVIIa adalah agen bypass yang disetujui untuk perdarahan refraktori dalam GT; FVIII sebagai kofaktor tenase hilir tidak memiliki bukti langsung dalam pengaturan ini |
+| 4 | Sindrom Scott | 99.44% | Pertanyaan Penelitian | Mutasi TMEM16F mengganggu eksternalisasi fosfatidilserin, membatasi perancah fosfolipid untuk perakitan tenase dan protrombin; dari keempat kandidat, ini memiliki rasionalisasi mekanistik paling langsung (meskipun masih spekulatif) — FVIII tambahan secara teoritis dapat memaksimalkan penggunaan tenase di permukaan PS terbatas |
+
+---
+
+## Pertimbangan Keselamatan
+
+Silakan merujuk pada sisipan paket untuk informasi keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Berikutnya
+
+**Keputusan: Tahan**
+
+**Alasan:**
+Semua empat indikasi yang diprediksi berada pada Tingkat Bukti L5 (prediksi model saja, tidak ada studi empiris), dan rasionalisasi mekanistik — meskipun koheren secara biologis untuk pseudo-vWD dan sindrom Scott — tetap sangat spekulatif tanpa data pendukung praklinik atau klinis. Sebelum langkah pengembangan lebih lanjut dapat dibenarkan, basis bukti minimum harus dibangun.
+
+**Untuk melanjutkan, hal berikut diperlukan:**
+
+- **Selesaikan kesenjangan data**: Ambil dokumentasi MOA dari DrugBank (Kesenjangan Data DG002) dan unduh PDF sisipan paket yang terdaftar dari NPRA untuk mendapatkan peringatan, kontraindikasi, dan data farmakologi lengkap (Kesenjangan Data DG001)
+- **Tinjauan literatur cakupan**: Lakukan pencarian PubMed/EMBASE yang lebih luas menggunakan istilah MeSH alternatif (misalnya, "Factor VIII" DAN "platelet disorder", "recombinant FVIII" DAN "von Willebrand") untuk mengesampingkan bukti pendukung tidak langsung yang tidak ditangkap dalam pertanyaan awal
+- **Penilaian kelayakan mekanik**: Berkonsultasi dengan spesialis hematologi untuk mengevaluasi apakah pengurangan FVIII sekunder dalam pseudo-vWD secara klinis cukup signifikan untuk membenarkan penggantian faktor sebagai tambahan
+- **Identifikasi model praklinik**: Jelajahi apakah model tikus atau in vitro dari pseudo-vWD atau sindrom Scott dengan suplementasi FVIII telah dicoba dalam data apa pun yang tidak dipublikasikan atau abstrak konferensi
+- **Prioritisasi**: Jika bukti teridentifikasi, sindrom Scott — dengan rasionalisasi mekanistik paling langsung (meskipun masih spekulatif) — harus dievaluasi terlebih dahulu sebagai kandidat utama untuk proposal pertanyaan penelitian formal
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

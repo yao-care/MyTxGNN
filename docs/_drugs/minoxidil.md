@@ -29,66 +29,67 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Minoxidil: From Hypertension to Hypotrichosis Simplex of the Scalp
+# Minoxidil: Dari Hipertensi kepada Hypotrichosis Simplex Kulit Kepala
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Minoxidil was originally developed as an oral vasodilator for severe/refractory hypertension, and its topical form is already an approved treatment for androgenetic alopecia.
-The TxGNN model's top-ranked new prediction is **Hypotrichosis Simplex of the Scalp**, a rare hereditary hair-loss disorder,
-but this direction is currently supported only by **3 case-report publications** and **no registered clinical trials**.
+Minoxidil pada awalnya dikembangkan sebagai vasodilator oral untuk hipertensi teruk/refrakter, dan bentuk topikalnya telah menjadi rawatan yang diluluskan untuk alopesia androgenetic.
+Ramalan teratas model TxGNN yang baru ialah **Hypotrichosis Simplex Kulit Kepala**, gangguan kehilangan rambut herediter yang jarang,
+tetapi arah ini pada masa kini hanya disokong oleh **3 penerbitan laporan kes** dan **tiada kajian klinis berdaftar**.
 
-## Quick Overview
+## Gambaran Ringkas
 
-| Item | Content |
-|------|------|
-| Original Indication | Severe hypertension (oral, historical first approval); topical minoxidil is separately already approved for androgenetic alopecia. NPRA license-level indication text was not captured in this evidence pack (see note below). |
-| Predicted New Indication | Hypotrichosis simplex of the scalp |
-| TxGNN Prediction Score | 99.9999% |
-| Evidence Level | L4 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 15 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|----------|
+| Petunjuk Asal | Hipertensi teruk (oral, kelulusan sejarah pertama); minoxidil topikal telah berasingan diluluskan untuk alopesia androgenetic. Teks petunjuk pada tahap lesen NPRA tidak ditangkap dalam pakej bukti ini (lihat nota di bawah). |
+| Petunjuk Baru Ramalan | Hypotrichosis simplex kulit kepala |
+| Skor Ramalan TxGNN | 99.9999% |
+| Aras Bukti | L4 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 15 |
+| Keputusan Cadangan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Wajar?
 
-Currently, detailed mechanism of action data is not available (DrugBank query flagged as a High-severity data gap). Based on known information, minoxidil is a K⁺-channel opener class vasodilator; its efficacy in hypertension has long been proven, and its topical/oral hair-growth-promoting effect (prolonging the anagen phase, increasing follicular blood flow) is already an established, separately approved use for androgenetic alopecia.
+Pada masa kini, data mekanisme tindakan terperinci tidak tersedia (pertanyaan DrugBank ditandakan sebagai jurang data berketibaan tinggi). Berdasarkan maklumat yang diketahui, minoxidil adalah vasodilator kelas pembuka saluran K⁺; keberkesanannya dalam hipertensi telah lama terbukti, dan kesannya dalam merangsang pertumbuhan rambut secara topikal/oral (memanjangkan fasa anagen, meningkatkan aliran darah folikel) adalah penggunaan yang telah ditetapkan, diluluskan secara berasingan untuk alopesia androgenetic.
 
-Hypotrichosis simplex of the scalp is a rare monogenic (CDSN gene, autosomal dominant) disorder of hair follicle development and cycling, distinct in etiology from androgenetic alopecia but phenotypically similar (reduced hair density/length). The evidence pack's own repurposing rationale for this candidate states: "遺傳性頭皮單純性稀毛症屬毛囊發育/週期異常，minoxidil 促進毛囊生長之機轉理論上可緩解症狀" — i.e., minoxidil's follicle-stimulating mechanism is theoretically applicable, since it targets the hair growth cycle rather than the disease's specific genetic cause.
+Hypotrichosis simplex kulit kepala adalah gangguan monogenik yang jarang (gen CDSN, dominan autosom) dalam perkembangan dan kitaran folikel rambut, berbeza dalam etiologi daripada alopesia androgenetic tetapi serupa secara fenotipik (ketumpatan/panjang rambut berkurang). Rasional repurposing pakej bukti sendiri untuk calon ini menyatakan: "Hypotrichosis simplex kulit kepala herediter dicirikan oleh perkembangan folikel rambut/kitaran yang abnormal, mekanisme minoxidil dalam merangsang pertumbuhan folikel rambut secara teorinya boleh mengurangkan gejala" — iaitu, mekanisme merangsang folikel minoxidil boleh digunakan secara teorinya, kerana ia menyasarkan kitaran pertumbuhan rambut dan bukannya penyebab genetik spesifik penyakit.
 
-Because the underlying defect in hypotrichosis simplex is structural/genetic rather than vascular or androgen-driven, minoxidil is unlikely to be curative; the mechanistic link is plausible but indirect, and this is consistent with the current evidence being limited to individual case reports rather than controlled studies.
+Memandangkan kecacatan asas dalam hypotrichosis simplex adalah struktural/genetik daripada vaskular atau didorong androgen, minoxidil tidak mungkin bersifat penyembuhan; pautan mekanistik adalah munasabah tetapi tidak langsung, dan ini konsisten dengan bukti semasa yang terbatas kepada laporan kes individu daripada kajian terkawal.
 
-## Clinical Trial Evidence
+## Bukti Kajian Klinis
 
-Currently no related clinical trials registered
+Pada masa kini tiada kajian klinis berkaitan berdaftar
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [35761391](https://pubmed.ncbi.nlm.nih.gov/35761391/) | 2022 | Case report (oral minoxidil + growth factors) | Dermatologic Therapy | Treatment of hereditary hypotrichosis simplex of the scalp using oral minoxidil combined with growth factors (abstract not available). |
-| [39902296](https://pubmed.ncbi.nlm.nih.gov/39902296/) | 2024 | Case report (botanical extracts + minoxidil) | Frontiers in Genetics | Familial case (8-year-old male) of CDSN-mutation hypotrichosis simplex treated with a combination of botanic extracts and minoxidil; notes lack of definitive effective treatments for this disease. |
-| [36651821](https://pubmed.ncbi.nlm.nih.gov/36651821/) | 2023 | Case report (PRP + topical minoxidil) | Journal of Dermatological Treatment | 14-year-old patient with hereditary hypotrichosis simplex successfully treated with combined platelet-rich plasma injection and topical minoxidil 2%. |
+| [35761391](https://pubmed.ncbi.nlm.nih.gov/35761391/) | 2022 | Laporan kes (minoxidil oral + faktor pertumbuhan) | Dermatologic Therapy | Rawatan hypotrichosis simplex herediter kulit kepala menggunakan minoxidil oral gabungan dengan faktor pertumbuhan (abstrak tidak tersedia). |
+| [39902296](https://pubmed.ncbi.nlm.nih.gov/39902296/) | 2024 | Laporan kes (ekstrak botanis + minoxidil) | Frontiers in Genetics | Kes keluarga (lelaki berusia 8 tahun) hypotrichosis simplex mutasi CDSN dirawat dengan kombinasi ekstrak botanis dan minoxidil; nota kekurangan rawatan yang terbukti berkesan untuk penyakit ini. |
+| [36651821](https://pubmed.ncbi.nlm.nih.gov/36651821/) | 2023 | Laporan kes (PRP + minoxidil topikal) | Journal of Dermatological Treatment | Pesakit berusia 14 tahun dengan hypotrichosis simplex herediter berjaya dirawat dengan suntikan plasma kaya platelet gabungan dan minoxidil topikal 2%. |
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-NPRA records show **15 total registrations** for Minoxidil in Malaysia (market status: Marketed), but individual license details (authorization numbers, product names, dosage forms, approved indication text) were not captured in this evidence pack and require direct retrieval from the NPRA registry.
+Rekod NPRA menunjukkan **15 pendaftaran keseluruhan** untuk Minoxidil di Malaysia (status pasaran: Dipasarkan), tetapi perincian lesen individu (nombor kebenaran, nama produk, bentuk dos, teks petunjuk yang diluluskan) tidak ditangkap dalam pakej bukti ini dan memerlukan pengambilan langsung daripada daftar NPRA.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information. (TFDA/NPRA label warnings and contraindications are a documented Blocking data gap — see Conclusion.)
+Sila rujuk risalah produk untuk maklumat keselamatan. (Amaran label TFDA/NPRA dan kontraindikasi adalah jurang data yang didokumenkan—lihat Kesimpulan.)
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-Evidence for minoxidil in hypotrichosis simplex of the scalp is limited to three case reports (Tier 3, no controlled trials), placing it at evidence level L4/decision stage S1. Separately, TFDA label safety data (warnings, contraindications) is flagged as a **Blocking** data gap, which by itself prevents this candidate from entering the S1 safety initial assessment regardless of efficacy evidence.
+**Rasional:**
+Bukti untuk minoxidil dalam hypotrichosis simplex kulit kepala terbatas kepada tiga laporan kes (Tahap 3, tiada kajian terkawal), meletakkannya pada aras bukti L4/peringkat keputusan S1. Secara berasingan, data keselamatan label TFDA (amaran, kontraindikasi) ditandakan sebagai jurang data **Penyekat**, yang dengan sendirinya menghalang calon ini daripada memasuki penilaian keselamatan awal S1 tanpa mengira bukti keberkesanan.
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert warnings and contraindications (Blocking gap, DG001)
-- DrugBank mechanism-of-action data (High-priority gap, DG002)
-- Individual NPRA license details (product names, dosage forms, approved indication text) for the 15 registered Malaysia licenses
-- Larger case series or a controlled study specific to hypotrichosis simplex of the scalp, since current evidence is anecdotal and confounded by co-administered treatments (growth factors, PRP, botanical extracts)
+**Untuk meneruskan, yang berikut diperlukan:**
+- Amaran risalah produk TFDA/NPRA dan kontraindikasi (Jurang penyekat, DG001)
+- Data mekanisme tindakan DrugBank (Jurang keutamaan tinggi, DG002)
+- Perincian lesen NPRA individu (nama produk, bentuk dos, teks petunjuk yang diluluskan) untuk 15 lesen berdaftar Malaysia
+- Siri kes yang lebih besar atau kajian terkawal khusus untuk hypotrichosis simplex kulit kepala, kerana bukti semasa bersifat anekdot dan dikelirukan oleh rawatan yang ditadbir bersama (faktor pertumbuhan, PRP, ekstrak botanis)
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

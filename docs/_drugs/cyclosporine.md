@@ -29,76 +29,77 @@ Tahap bukti: **L5** | Indikasi diramal: **7**
 
 </div>
 
-# Cyclosporine: From Organ Transplant Rejection to Chronic Granulomatous Disease (Autosomal Recessive)
+# Siklosporin: Dari Penolakan Cangkok Organ Hingga Penyakit Granulomatosa Kronis (Autosomal Resesif)
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Cyclosporine is a calcineurin-inhibitor immunosuppressant, established globally for prevention of organ transplant rejection and treatment of select autoimmune conditions (the specific NPRA-approved indication text for this product is not available in the current dataset). The TxGNN model predicts it may be effective for **Chronic Granulomatous Disease, Autosomal Recessive**, but this prediction is currently supported by **0 clinical trials** and **0 publications**, and a mechanistic rationale for this specific candidate has not yet been generated.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Organ transplant rejection prophylaxis / immunosuppressant (general pharmacology; specific NPRA-approved indication text not available in current registration record) |
-| Predicted New Indication | Chronic Granulomatous Disease, Autosomal Recessive |
-| TxGNN Prediction Score | 99.68% (rank 5221) |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+Siklosporin adalah imunosuppresan penghambat kalsineurin yang telah terbukti di seluruh dunia untuk pencegahan penolakan cangkok organ dan pengobatan kondisi autoimun terpilih (teks indikasi yang disetujui NPRA spesifik untuk produk ini tidak tersedia dalam dataset saat ini). Model TxGNN memprediksi bahwa produk ini mungkin efektif untuk **Penyakit Granulomatosa Kronis, Autosomal Resesif**, tetapi prediksi ini saat ini didukung oleh **0 uji klinis** dan **0 publikasi**, dan rasionalitas mekanistik untuk kandidat spesifik ini belum dihasilkan.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Ikhtisar Cepat
 
-Currently, detailed mechanism of action data is not available for this candidate (flagged as a High-severity data gap). Based on known pharmacology, cyclosporine is a calcineurin inhibitor that blocks T-cell activation and IL-2 transcription, and its established efficacy is in suppressing adaptive (T-cell-mediated) immune responses — used clinically for transplant rejection prophylaxis and T-cell-driven autoimmune/inflammatory diseases such as psoriasis and rheumatoid arthritis.
-
-Chronic Granulomatous Disease (autosomal recessive form) is a primary immunodeficiency caused by defective NADPH oxidase in phagocytes, which impairs the innate immune system's ability to kill catalase-positive organisms. This is mechanistically distinct from — and largely unrelated to — the T-cell suppressive pathway that cyclosporine acts on. No mechanistic linkage for this specific candidate has been generated in the evidence pack, and on general pharmacological grounds, further suppressing immune function with a T-cell inhibitor in a patient who already has an underlying phagocyte immunodeficiency raises a plausibility concern rather than a therapeutic rationale (cyclosporine is occasionally used off-label to manage CGD-associated inflammatory/autoimmune complications such as colitis, but this is a distinct clinical context from treating the underlying immunodeficiency itself).
-
-Given the absence of supporting trials, literature, or a documented mechanistic link for this top-ranked candidate, the prediction should currently be treated as a model-generated hypothesis only.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+| Item | Kandungan |
+|------|-----------|
+| Indikasi Asli | Profilaksis penolakan cangkok organ / imunosupresif (farmakologi umum; teks indikasi yang disetujui NPRA spesifik tidak tersedia dalam catatan pendaftaran saat ini) |
+| Indikasi Baru yang Diprediksi | Penyakit Granulomatosa Kronis, Autosomal Resesif |
+| Skor Prediksi TxGNN | 99.68% (peringkat 5221) |
+| Tingkat Bukti | L5 |
+| Status Pasar Malaysia | ✓ Terpasarkan |
+| Jumlah Pendaftaran | 1 |
+| Keputusan yang Direkomendasikan | Tunda |
 
 ---
 
-## Literature Evidence
+## Mengapa Prediksi Ini Masuk Akal?
 
-Currently no related literature available.
+Saat ini, data mekanisme aksi terperinci tidak tersedia untuk kandidat ini (ditandai sebagai celah data tingkat Tinggi). Berdasarkan farmakologi yang diketahui, siklosporin adalah penghambat kalsineurin yang memblokir aktivasi sel T dan transkripsi IL-2, dan efikasinya yang terbukti ada dalam menekan respons imun adaptif (dimediasi sel T) — digunakan secara klinis untuk profilaksis penolakan cangkok dan penyakit autoimun/inflamasi yang dimediasi sel T seperti psoriasis dan artritis reumatoid.
 
----
+Penyakit Granulomatosa Kronis (bentuk autosomal resesif) adalah imunodefisiensi primer yang disebabkan oleh NADPH oksidase yang cacat pada fagosit, yang melemahkan kemampuan sistem imun bawaan untuk membunuh organisme positif katalase. Ini secara mekanistik berbeda dari — dan sebagian besar tidak terkait dengan — jalur penekan sel T yang bekerja pada siklosporin. Tidak ada tautan mekanistik untuk kandidat spesifik ini yang telah dihasilkan dalam paket bukti, dan berdasarkan alasan farmakologis umum, penekan tambahan fungsi imun dengan penghambat sel T pada pasien yang sudah memiliki imunodefisiensi fagosit yang mendasar menimbulkan kekhawatiran plausibilitas daripada rasionalitas terapeutik (siklosporin kadang-kadang digunakan secara off-label untuk mengelola komplikasi inflamasi/autoimun yang terkait dengan CGD seperti kolitis, tetapi ini adalah konteks klinis yang berbeda dari mengobati imunodefisiensi yang mendasar itu sendiri).
 
-## Malaysia Market Information
-
-The dataset confirms the product is **Marketed** in Malaysia with **1 active NPRA registration**, but the specific authorization number, product name, dosage form, and approved indication text fields were not populated in the current record and cannot be reported here without risking inaccuracy.
+Mengingat ketiadaan uji coba, literatur, atau tautan mekanistik yang terdokumentasi untuk kandidat dengan peringkat tertinggi ini, prediksi saat ini harus diperlakukan hanya sebagai hipotesis yang dihasilkan model.
 
 ---
 
-## Safety Considerations
+## Bukti Uji Klinis
 
-Please refer to the package insert for safety information.
-
-*(Note: package-insert-level warnings and contraindications for this product are marked as a Blocking data gap in the underlying evidence pack — see Conclusion below.)*
+Saat ini tidak ada uji klinis terkait yang terdaftar.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Hold**
+Saat ini tidak ada literatur terkait yang tersedia.
 
-**Rationale:**
-This candidate has only model-prediction-level evidence (L5) — no clinical trials, no literature, and no documented mechanistic link — and a Blocking data gap on TFDA/NPRA label warnings and contraindications means the candidate cannot yet enter initial safety screening (S1). The six other TxGNN-ranked candidates for this drug were also all scored Hold with weak or no plausible mechanistic support, reinforcing that this evidence pack does not currently justify advancing any candidate.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert warnings and contraindications (blocking gap — required before any safety screening)
-- Detailed mechanism of action data from DrugBank or equivalent source
-- Complete NPRA registration record (license number, product name, dosage form, approved indication text)
-- A generated mechanistic rationale and clinical trial/literature search specific to the top-ranked indication before any Go/Guardrails consideration
+## Informasi Pasar Malaysia
+
+Dataset mengkonfirmasi bahwa produk **Terpasarkan** di Malaysia dengan **1 pendaftaran NPRA aktif**, tetapi nomor otorisasi spesifik, nama produk, bentuk dosis, dan kolom teks indikasi yang disetujui tidak diisi dalam catatan saat ini dan tidak dapat dilaporkan di sini tanpa berisiko ketidaktepatan.
+
+---
+
+## Pertimbangan Keselamatan
+
+Silakan merujuk ke sisipan kemasan untuk informasi keselamatan.
+
+*(Catatan: peringatan tingkat sisipan kemasan dan kontraindikasi untuk produk ini ditandai sebagai celah data Pemblokiran dalam paket bukti yang mendasar — lihat Kesimpulan di bawah.)*
+
+---
+
+## Kesimpulan dan Langkah Berikutnya
+
+**Keputusan: Tunda**
+
+**Rasionalitas:**
+Kandidat ini hanya memiliki bukti tingkat prediksi model (L5) — tidak ada uji klinis, tidak ada literatur, dan tidak ada tautan mekanistik yang didokumentasikan — dan celah data Pemblokiran pada peringatan label TFDA/NPRA dan kontraindikasi berarti kandidat belum dapat memasuki skrining keselamatan awal (S1). Enam kandidat lain dengan peringkat TxGNN untuk obat ini juga semuanya mendapat skor Tunda dengan dukungan mekanistik yang lemah atau tidak ada, memperkuat bahwa paket bukti ini saat ini tidak membenarkan kemajuan kandidat apa pun.
+
+**Untuk melanjutkan, berikut ini diperlukan:**
+- Peringatan sisipan kemasan TFDA/NPRA dan kontraindikasi (celah pemblokiran — diperlukan sebelum skrining keselamatan apa pun)
+- Data mekanisme aksi terperinci dari DrugBank atau sumber setara
+- Catatan pendaftaran NPRA lengkap (nomor lisensi, nama produk, bentuk dosis, teks indikasi yang disetujui)
+- Rasionalitas mekanistik yang dihasilkan dan pencarian uji klinis/literatur spesifik untuk indikasi dengan peringkat tertinggi sebelum pertimbangan Go/Guardrails
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

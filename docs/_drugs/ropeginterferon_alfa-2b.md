@@ -29,61 +29,62 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Ropeginterferon Alfa-2b: From Polycythemia Vera to Laubry-Pezzi Syndrome (Prediction Not Supported)
+# Ropeginterferon Alfa-2b: Daripada Polycythemia Vera kepada Laubry-Pezzi Syndrome (Ramalan Tidak Disokong)
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Ropeginterferon alfa-2b (DrugBank DB15119) is marketed in Malaysia with 1 registered license, but its approved indication text is not available in the current dataset — external evidence embedded in this pack's own literature (see Rank 6 below) points to Polycythemia Vera (brand Besremi) as the established use. The TxGNN model's top prediction, **Laubry-Pezzi syndrome**, is a structural congenital heart defect with **zero clinical trials, zero literature, and no biologically plausible mechanistic link** to interferon pharmacology — this and all 9 other top-10 candidates are flagged in the evidence pack itself as likely embedding-space noise or disease-ontology mapping errors.
+Ropeginterferon alfa-2b (DrugBank DB15119) dipasarkan di Malaysia dengan 1 lesen berdaftar, tetapi teks indikasi yang diluluskan tidak tersedia dalam dataset semasa — bukti luaran yang tertanam dalam literatur pakej sendiri (lihat Peringkat 6 di bawah) menunjukkan Polycythemia Vera (jenama Besremi) sebagai kegunaan yang ditetapkan. Ramalan teratas model TxGNN, **Laubry-Pezzi syndrome**, ialah kerosakan jantung bawaan berstruktur dengan **sifar ujian klinikal, sifar literatur, dan tiada pautan mekanik biologi yang munasabah** kepada farmakologi interferon — ini dan semua 9 calon 10 teratas lain ditandai dalam pakej bukti itu sendiri sebagai kemungkinan bunyi ruang pembenam atau ralat pemetaan ontologi penyakit.
 
-## Quick Overview
+## Ikhtisar Cepat
 
-| Item | Content |
-|------|------|
-| Original Indication | Not available in Malaysia registration data (approved_indication_text is blank); literature context suggests Polycythemia Vera (see note below) |
-| Predicted New Indication | Laubry-Pezzi syndrome |
-| TxGNN Prediction Score | 99.93% |
-| Evidence Level | L5 (model prediction only, no supporting studies) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|-----------|
+| Indikasi Asal | Tidak tersedia dalam data pendaftaran Malaysia (approved_indication_text kosong); konteks literatur menunjukkan Polycythemia Vera (lihat nota di bawah) |
+| Indikasi Baru Diramalkan | Laubry-Pezzi syndrome |
+| Skor Ramalan TxGNN | 99.93% |
+| Tahap Bukti | L5 (ramalan model sahaja, tiada kajian sokongan) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed mechanism of action data is not available (`original_moa: [Data Gap]`). Ropeginterferon alfa-2b is a pegylated interferon alfa-2b, a class generally understood to act via immunomodulatory, antiviral, and antiproliferative (JAK-STAT-mediated) pathways.
+Data mekanisme tindakan yang terperinci tidak tersedia (`original_moa: [Data Gap]`). Ropeginterferon alfa-2b ialah interferon alfa-2b terpegil, sebuah kelas yang secara umum difahami bertindak melalui laluan imunomodulatori, antiviral, dan antipeliferatif (dirantai oleh JAK-STAT).
 
-The top-ranked prediction, Laubry-Pezzi syndrome, is a structural congenital cardiac malformation (ventricular septal defect with aortic valve prolapse/aneurysm). There is no plausible biological pathway connecting an interferon's immune/antiproliferative mechanism to a structural anatomical defect, and the evidence pack's own rationale explicitly characterizes this as "high-score noise in the KG embedding space" with zero supporting trials or publications. The remaining ranks 2–10 (interventricular septum aneurysm, chromosomal deletion syndromes, craniofacial malformation syndromes, pulmonary valve disease) share the same pattern: high TxGNN scores with no mechanistic or evidentiary support.
+Ramalan berperingkat teratas, Laubry-Pezzi syndrome, ialah kerosakan jantung bawaan berstruktur (kecacatan septal ventrikuler dengan prolaps injap aortik/aneurisma). Tiada laluan biologi yang munasabah menghubungkan mekanisme imun/antipeliferatif interferon kepada kecacatan anatomi berstruktur, dan rasional pakej bukti itu sendiri secara jelas mencirikan ini sebagai "bunyi berperingkat tinggi dalam ruang pembenam KG" dengan sifar ujian sokongan atau penerbitan. Baki peringkat 2–10 (aneurisma septal interventrikuler, sindrom pemadaman kromosom, sindrom malformasi kraniofasial, penyakit injap pulmonari) berkongsi corak yang sama: skor TxGNN tinggi tanpa sokongan mekanik atau bukti.
 
-Notably, Rank 6 ("disorder of fucoglycosan synthesis") returned 4 literature hits, but all 4 papers concern ropeginterferon alfa-2b in **Polycythemia Vera** — unrelated to the disease label attached to that rank. This strongly suggests a disease-ontology mapping error in the underlying knowledge graph, and incidentally indicates that Polycythemia Vera is the drug's actual established indication (matching its approved brand, Besremi), not a new repurposing candidate.
+Khususnya, Peringkat 6 ("disorder of fucoglycosan synthesis") mengembalikan 4 hasil literatur, tetapi kesemua 4 kertas kerja menyangkut ropeginterferon alfa-2b dalam **Polycythemia Vera** — tidak berkaitan dengan label penyakit yang dilampirkan kepada peringkat tersebut. Ini menunjukkan dengan kuat ralat pemetaan ontologi penyakit dalam graf pengetahuan asas, dan kebetulannya menunjukkan bahawa Polycythemia Vera ialah indikasi kegunaan yang ditetapkan ubat (sepadan dengan jenamanya yang diluluskan, Besremi), bukan calon repurposing baru.
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-Currently no related clinical trials registered for Laubry-Pezzi syndrome.
+Pada masa ini tiada ujian klinikal berdaftar yang berkaitan untuk Laubry-Pezzi syndrome.
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no related literature available for Laubry-Pezzi syndrome.
+Pada masa ini tiada literatur berkaitan tersedia untuk Laubry-Pezzi syndrome.
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-Malaysia has 1 registered license for ropeginterferon alfa-2b (market status: Marketed), but the license number, product name, dosage form, and approved indication text are not populated in the current dataset.
+Malaysia mempunyai 1 lesen berdaftar untuk ropeginterferon alfa-2b (status pasaran: Dipasarkan), tetapi nombor lesen, nama produk, bentuk dos, dan teks indikasi yang diluluskan tidak diisikan dalam dataset semasa.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information. (Key warnings and contraindications are flagged as a **Blocking** data gap — DG001 — pending retrieval of the NPRA/TFDA product insert; this must be resolved before any safety review can proceed.)
+Sila rujuk surat pembungkus pakej untuk maklumat keselamatan. (Amaran utama dan kontraindikasi ditandai sebagai jurang data **Menyekat** — DG001 — menunggu penerimaan sisipan produk NPRA/TFDA; ini mesti diselesaikan sebelum sebarang kajian keselamatan dapat diteruskan.)
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-None of the top 10 TxGNN predictions — including the top-ranked Laubry-Pezzi syndrome — have any supporting clinical trials, literature, or mechanistic plausibility. The evidence pack itself flags these as likely embedding-space noise, and one candidate (Rank 6) reveals an apparent disease-ontology mapping error rather than genuine repurposing signal.
+**Rasional:**
+Tiada satu pun daripada 10 ramalan teratas TxGNN — termasuk Laubry-Pezzi syndrome berperingkat teratas — mempunyai sebarang ujian klinikal sokongan, literatur, atau kebolehpercayaan mekanik. Pakej bukti itu sendiri menandai ini sebagai kemungkinan bunyi ruang pembenam, dan satu calon (Peringkat 6) mendedahkan ralat pemetaan ontologi penyakit yang jelas daripada isyarat repurposing tulen.
 
-**To proceed, the following is needed:**
-- Resolve the DG001 blocking gap: retrieve NPRA product insert (warnings/contraindications) for safety screening
-- Resolve the DG002 gap: obtain confirmed mechanism of action from DrugBank
-- Correct the disease-ontology mapping error affecting the "disorder of fucoglycosan synthesis" label (Rank 6), which appears to actually reference Polycythemia Vera literature
-- Confirm the drug's true original approved indication via NPRA license text (currently blank) rather than inference
-- Re-run prediction review beyond the top 10 ranks, since none in this set meet even L4 (preclinical/mechanistic) evidence thresholds
+**Untuk meneruskan, yang berikut diperlukan:**
+- Selesaikan jurang menyekat DG001: dapatkan sisipan produk NPRA (amaran/kontraindikasi) untuk saringan keselamatan
+- Selesaikan jurang DG002: dapatkan mekanisme tindakan yang disahkan daripada DrugBank
+- Betulkan ralat pemetaan ontologi penyakit yang mempengaruhi label "disorder of fucoglycosan synthesis" (Peringkat 6), yang nampaknya sebenarnya merujuk kepada literatur Polycythemia Vera
+- Sahkan indikasi asal ubat yang sebenarnya melalui teks lesen NPRA (semasa kosong) dan bukannya daripada inferens
+- Jalankan semula tinjauan ramalan melampaui 10 peringkat teratas, kerana tiada satu pun dalam set ini memenuhi ambang bukti L4 (praklinikal/mekanik)
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

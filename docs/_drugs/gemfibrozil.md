@@ -29,79 +29,80 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Gemfibrozil: From Dyslipidemia to Rheumatoid Arthritis
+# Gemfibrozil: Daripada Dislipidemik kepada Artritis Reumatoid
 
-## One-Sentence Summary
+## Ringkasan dalam Satu Ayat
 
-Gemfibrozil is a fibrate-class lipid-regulating agent, clinically established for treating hypertriglyceridemia and mixed dyslipidemia. The TxGNN model predicts it may be effective for **Rheumatoid Arthritis**, but this direction is currently supported only by **animal-model and case-report literature (4 publications)**, with no registered clinical trials.
+Gemfibrozil adalah agen pengatur lipid kelas fibrat, yang telah ditentukan secara klinis untuk merawat hipertrigliseridemia dan dislipidemik bercampur. Model TxGNN meramalkan ia mungkin berkesan untuk **Artritis Reumatoid**, namun arahan ini kini hanya disokong oleh **literatur model hewan dan laporan kes (4 penerbitan)**, tanpa uji klinik berdaftar.
 
 ---
 
-## Quick Overview
+## Gambaran Pantas
 
-| Item | Content |
+| Item | Kandungan |
 |------|------|
-| Original Indication | Dyslipidemia / hypertriglyceridemia (fibrate class; detailed NPRA-approved indication wording not captured in this evidence pack) |
-| Predicted New Indication | Rheumatoid Arthritis |
-| TxGNN Prediction Score | 99.90% |
-| Evidence Level | L4 (preclinical / mechanistic studies only) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 8 |
-| Recommended Decision | Hold (flagged internally as "Research Question" stage — S1) |
+| Indikasi Asal | Dislipidemik / hipertrigliseridemia (kelas fibrat; perkataan indikasi yang diluluskan NPRA secara terperinci tidak ditangkap dalam pakej bukti ini) |
+| Indikasi Baharu Diramalkan | Artritis Reumatoid |
+| Skor Ramalan TxGNN | 99.90% |
+| Tahap Bukti | L4 (kajian preklinik / mekanistik sahaja) |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 8 |
+| Keputusan Disyorkan | Tahan (ditanda secara dalaman sebagai peringkat "Soalan Penyelidikan" — S1) |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Currently, detailed mechanism of action data is not available. Based on known information, gemfibrozil is a fibrate-class **PPAR-α agonist**, clinically used to lower triglycerides and raise HDL-C in dyslipidemia. Mechanistically, PPAR-α activation has documented anti-inflammatory and immunomodulatory effects beyond lipid metabolism, which is the pharmacological basis for the TxGNN prediction linking it to rheumatoid arthritis (RA).
+Pada masa ini, data mekanisme tindakan terperinci tidak tersedia. Berdasarkan maklumat yang diketahui, gemfibrozil adalah agonist kelas fibrat **PPAR-α**, yang digunakan secara klinis untuk menurunkan trigliserida dan meningkatkan HDL-C dalam dislipidemik. Secara mekanistik, aktivasi PPAR-α telah didokumentasikan mempunyai kesan anti-radang dan imunomodulasi di luar metabolisme lipid, yang membentuk asas farmakologi untuk ramalan TxGNN yang menghubungkan ia dengan artritis reumatoid (RA).
 
-The supporting literature is class-level rather than drug-specific in most cases. One study (PMID 30074417) directly tested gemfibrozil combined with a reduced steroid dose in a rat adjuvant-induced arthritis (AIA) model, showing efficacy comparable to full-dose steroid alone. A related study on bezafibrate — a pan-PPAR agonist in the same drug class — showed attenuation of experimental RA via PPAR-γ–dependent modulation of inflammatory pathways (PMID 41207105), lending indirect mechanistic support.
+Literatur sokongan adalah pada peringkat kelas dan bukan spesifik kepada ubat dalam kebanyakan kes. Satu kajian (PMID 30074417) secara langsung menguji gemfibrozil yang digabungkan dengan dos steroid yang lebih rendah dalam model arthritis teraruh adjuvan tikus (AIA), menunjukkan keberkesan yang setara dengan steroid dos penuh sendiri. Kajian yang berkaitan tentang bezafibrat — agonist pan-PPAR dalam kelas ubat yang sama — menunjukkan pelemahan RA eksperimental melalui modulasi laluan radang yang bergantung PPAR-γ (PMID 41207105), memberikan sokongan mekanistik secara tidak langsung.
 
-However, no human clinical trials for gemfibrozil in RA have been identified, and the evidence base remains confined to animal models, case reports, and cross-class mechanistic analogy. This keeps the finding at the "research question" stage rather than a clinically actionable repurposing candidate.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+Walau bagaimanapun, tiada uji klinik manusia untuk gemfibrozil dalam RA telah dikenal pasti, dan asas bukti kekal terhad kepada model hewan, laporan kes, dan analogi mekanistik lintas kelas. Ini memastikan penemuan ini berada pada peringkat "soalan penyelidikan" dan bukannya calon ubat yang dapat ditindaklanjuti secara klinis untuk penggunaan semula.
 
 ---
 
-## Literature Evidence
+## Bukti Uji Klinik
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [30074417](https://pubmed.ncbi.nlm.nih.gov/30074417/) | 2019 | Animal model (rat AIA) | Modern Rheumatology | Gemfibrozil + reduced-dose prednisolone gave a similar disease-management outcome as full-dose steroid in a rat adjuvant-induced arthritis model |
-| [41207105](https://pubmed.ncbi.nlm.nih.gov/41207105/) | 2026 | Preclinical/animal (bezafibrate, class analog) | International Immunopharmacology | Pan-PPAR agonist bezafibrate attenuates experimental RA via PPAR-dependent modulation of inflammatory pathways, emphasizing PPAR-γ activity |
-| [20083653](https://pubmed.ncbi.nlm.nih.gov/20083653/) | 2010 | Preclinical/mechanistic (EAE model, non-RA) | Journal of Immunology | Myelin basic protein priming reduces Foxp3 expression in T cells via nitric oxide — general Treg/autoimmune mechanism, not RA-specific |
-| [18039017](https://pubmed.ncbi.nlm.nih.gov/18039017/) | 2007 | Case report (unrelated finding) | American Journal of Clinical Dermatology | Review of palmar erythema causes; tangential relevance, not a treatment study |
+Pada masa ini tiada uji klinik berkaitan berdaftar.
 
 ---
 
-## Malaysia Market Information
+## Bukti Literatur
 
-Gemfibrozil is marketed in Malaysia with 8 active NPRA registrations, but this evidence pack does not include the individual license details (authorization numbers, product names, dosage forms, or approved indication text) — these fields came back blank from the source query and would need to be re-pulled from NPRA.
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|------|------|------|---------|
+| [30074417](https://pubmed.ncbi.nlm.nih.gov/30074417/) | 2019 | Model hewan (tikus AIA) | Modern Rheumatology | Gemfibrozil + prednislon dos berkurangan memberikan hasil pengurusan penyakit yang serupa dengan steroid dos penuh dalam model arthritis yang diinduksi adjuvan tikus |
+| [41207105](https://pubmed.ncbi.nlm.nih.gov/41207105/) | 2026 | Preklinik/hewan (bezafibrat, analog kelas) | International Immunopharmacology | Agonist pan-PPAR bezafibrat melemahkan RA eksperimental melalui modulasi laluan radang yang bergantung PPAR, menekankan aktiviti PPAR-γ |
+| [20083653](https://pubmed.ncbi.nlm.nih.gov/20083653/) | 2010 | Preklinik/mekanistik (model EAE, bukan RA) | Journal of Immunology | Penyediaan protein myelin asas mengurangkan ekspresi Foxp3 dalam sel T melalui nitrik oksida — mekanisme Treg/autoimun umum, bukan spesifik RA |
+| [18039017](https://pubmed.ncbi.nlm.nih.gov/18039017/) | 2007 | Laporan kes (penemuan tidak berkaitan) | American Journal of Clinical Dermatology | Tinjauan punca eritema palmar; kaitan tangen, bukan kajian rawatan |
 
 ---
 
-## Safety Considerations
+## Maklumat Pasaran Malaysia
 
-Please refer to the package insert for safety information. Key warnings, contraindications, and drug-interaction data were not available in this evidence pack (flagged internally as a **Blocking** data gap — DG001), meaning a full safety pre-assessment cannot yet be completed.
+Gemfibrozil dipasarkan di Malaysia dengan 8 pendaftaran NPRA yang aktif, tetapi pakej bukti ini tidak termasuk butiran lesen individu (nombor kebenaran, nama produk, bentuk dos, atau teks indikasi yang diluluskan) — medan ini kembali kosong daripada pertanyaan sumber dan perlu ditarik semula daripada NPRA.
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila rujuk sisipan pakej untuk maklumat keselamatan. Data amaran utama, kontraindikasi, dan interaksi ubat tidak tersedia dalam pakej bukti ini (ditanda secara dalaman sebagai jurang data **Menyekat** — DG001), bermaksud penilaian keselamatan pra-lengkap tidak dapat lagi diselesaikan.
 
-**Rationale:**
-The mechanistic rationale (PPAR-α/γ anti-inflammatory activity) is plausible, but current evidence for gemfibrozil in RA is limited to one rat AIA model, cross-class analogy (bezafibrate), and a tangentially related case report — no human trials exist. Combined with a blocking gap in TFDA/NPRA safety labeling data, this candidate is not ready to advance past the research-question stage.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert warnings and contraindications (DG001, blocking)
-- DrugBank-confirmed mechanism of action (DG002)
-- NPRA license details (authorization numbers, product names, approved indication text) for the 8 Malaysia registrations
-- A prospective (at minimum Phase 2) clinical study in RA patients, since existing evidence is entirely preclinical
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Rasional:**
+Rasional mekanistik (aktiviti anti-radang PPAR-α/γ) adalah munasabah, tetapi bukti semasa untuk gemfibrozil dalam RA terhad kepada satu model AIA tikus, analogi lintas kelas (bezafibrat), dan laporan kes yang berkaitan secara tangen — tiada uji manusia wujud. Digabungkan dengan jurang data pelabelan keselamatan TFDA/NPRA yang menyekat, calon ini tidak bersedia untuk maju melampaui peringkat soalan penyelidikan.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Amaran sisipan pakej TFDA/NPRA dan kontraindikasi (DG001, menyekat)
+- Mekanisme tindakan yang disahkan DrugBank (DG002)
+- Butiran lesen NPRA (nombor kebenaran, nama produk, teks indikasi yang diluluskan) untuk 8 pendaftaran Malaysia
+- Kajian klinik prospektif (sekurang-kurangnya Fasa 2) dalam pesakit RA, kerana bukti sedia ada adalah sepenuhnya preklinik
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

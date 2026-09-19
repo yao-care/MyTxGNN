@@ -29,90 +29,91 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-# Ezetimibe: From Primary Hypercholesterolemia to Sitosterolemia
+# Ezetimibe: Dari Hiperkolesterolemia Primer hingga Sitosterolemia
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Ezetimibe is a selective cholesterol-absorption inhibitor originally used to treat primary hypercholesterolemia (alone or combined with statins). The TxGNN model highlights **Sitosterolemia** as its strongest-evidence indication, currently supported by **10 clinical trials** and **17 publications**, several of which are Phase 2/3 randomized, double-blind, placebo-controlled trials conducted specifically in this rare disease population.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Primary Hypercholesterolemia (well-established use; not confirmed in this data pull's TFDA license text) |
-| Predicted New Indication | Sitosterolemia |
-| TxGNN Prediction Score | 0.00% (score field returned as 0.0 for all ranked candidates in this data pull — likely incomplete scoring data, not a true 0% prediction) |
-| Evidence Level | L1 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 40 |
-| Recommended Decision | Proceed with Guardrails |
+Ezetimibe ialah perencat penyerapan kolesterol selektif yang asalnya digunakan untuk merawat hiperkolesterolemia primer (bersendirian atau digabung dengan statin). Model TxGNN menonjolkan **Sitosterolemia** sebagai petunjuknya dengan bukti terkuat, kini disokong oleh **10 percubaan klinikal** dan **17 penerbitan**, beberapa daripadanya ialah percubaan fasa 2/3 rawak, buta dua belah, terkawal plasebo yang dijalankan khusus dalam populasi penyakit langka ini.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Ringkas
 
-Ezetimibe selectively inhibits the NPC1L1 (Niemann-Pick C1-Like 1) cholesterol transporter at the brush border of the small intestine, blocking absorption of both dietary cholesterol and plant sterols (sitosterol, campesterol). This mechanism is not incidental to sitosterolemia — it maps directly onto the disease's core pathology.
-
-Sitosterolemia is a rare autosomal recessive disorder caused by mutations in ABCG5/ABCG8, the transporters responsible for excreting plant sterols back into the intestinal lumen and bile. Loss of this efflux function causes excessive intestinal absorption and tissue accumulation of plant sterols, leading to xanthomas, hemolytic anemia, macrothrombocytopenia, and premature atherosclerosis. Because ezetimibe blocks the *absorption* side of the same sterol-trafficking pathway that ABCG5/ABCG8 fails to clear on the *excretion* side, the mechanistic fit is unusually direct — closer to an on-target rescue than a speculative repurposing hypothesis.
-
-This mechanistic strength is reflected in the trial record: ezetimibe has already been studied as monotherapy and add-on therapy specifically in homozygous sitosterolemia patients since 2001, including multiple randomized, double-blind, placebo-controlled Phase 2/3 trials. In effect, TxGNN's prediction recovers a use that has substantial real-world clinical precedent, which is consistent with the L1 evidence level assigned.
+| Item | Kandungan |
+|------|---------|
+| Petunjuk Asal | Hiperkolesterolemia Primer (kegunaan yang mantap; tidak disahkan dalam teks lesen TFDA pengambilan data ini) |
+| Petunjuk Baru yang Diramal | Sitosterolemia |
+| Skor Ramalan TxGNN | 0.00% (medan skor dipulangkan sebagai 0.0 untuk semua calon berperingkat dalam pengambilan data ini — kemungkinan data pemarkahan yang tidak lengkap, bukan ramalan 0% yang sebenar) |
+| Paras Bukti | L1 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 40 |
+| Keputusan yang Disyorkan | Teruskan dengan Tindakan Penjaga |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Ezetimibe secara selektif menghalang NPC1L1 (Niemann-Pick C1-Like 1), pengangkut kolesterol di sempadan berus usus halus, dengan menyekat penyerapan kolesterol diet dan sterol tumbuhan (sitosterol, kampesterol). Mekanisme ini bukanlah insiden kepada sitosterolemia — ia memetakan secara langsung ke patologi teras penyakit.
+
+Sitosterolemia ialah gangguan autosomal resesif langka yang disebabkan oleh mutasi dalam ABCG5/ABCG8, pengangkut yang bertanggungjawab untuk mengeluarkan sterol tumbuhan kembali ke lumen usus dan hempedu. Kehilangan fungsi aliran ini menyebabkan penyerapan usus yang berlebihan dan pengumpulan sterol tumbuhan dalam tisu, yang membawa kepada xantoma, anemia hemolitik, makrotrombositopenia, dan aterosklerosis pramatang. Kerana ezetimibe menghalang sisi *penyerapan* laluan penghantaran sterol yang sama yang ABCG5/ABCG8 gagal untuk menjelaskan pada sisi *pengeluaran*, kesepadanan mekanisme amat langsung — lebih dekat kepada penyelamatan sasaran daripada hipotesis repurposing spekulatif.
+
+Kekuatan mekanisme ini dicerminkan dalam rekod percubaan: ezetimibe sudah pun dikaji sebagai monoterapi dan terapi tambahan khusus pada pesakit sitosterolemia homozigot sejak 2001, termasuk berbilang percubaan rawak, buta dua belah, terkawal plasebo fasa 2/3. Sebenarnya, ramalan TxGNN memulihkan kegunaan yang telah mempunyai preseden klinikal sebenar yang besar, yang konsisten dengan paras bukti L1 yang diberikan.
+
+---
+
+## Bukti Percubaan Klinikal
+
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT00092820](https://clinicaltrials.gov/study/NCT00092820) | Phase 3 | Completed | 58 | Multicenter, randomized, double-blind, placebo-controlled trial of MK0653 (ezetimibe) added to current regimen in homozygous sitosterolemia; disease-specific efficacy/safety extension study. |
-| [NCT00045812](https://clinicaltrials.gov/study/NCT00045812) | Phase 2 | Completed | 5 | Multicenter, randomized, double-blind, placebo-controlled study of SCH-58235 (ezetimibe) lowering sitosterol, plant sterol and cholesterol levels in homozygous sitosterolemia. |
-| [NCT00092898](https://clinicaltrials.gov/study/NCT00092898) | Phase 3 | Completed | 30 | 6-month randomized, double-blind, placebo-controlled trial adding ezetimibe 30 mg to an ongoing 10 mg regimen in homozygous sitosterolemia. |
-| [NCT00092833](https://clinicaltrials.gov/study/NCT00092833) | Phase 3 | Terminated | 49 | Open-label, worldwide treatment-use study providing ezetimibe 10 mg/day to patients with homozygous familial hypercholesterolemia or homozygous sitosterolemia. |
-| [NCT00092807](https://clinicaltrials.gov/study/NCT00092807) | Phase 3 | Completed | 37 | 1-year open-label extension evaluating long-term safety and cholesterol-lowering ability of ezetimibe in homozygous sitosterolemia. |
-| [NCT01584206](https://clinicaltrials.gov/study/NCT01584206) | N/A | Completed | 8 | Pilot study assessing whether ezetimibe improves whole-body plant sterol and cholesterol homeostasis in sitosterolemia. |
-| [NCT00099996](https://clinicaltrials.gov/study/NCT00099996) | Phase 3 | Completed | 3 | Small dose-escalation study (ezetimibe 30 mg added to 10 mg) evaluating safety/effectiveness in homozygous sitosterolemia. |
-| [NCT01948648](https://clinicaltrials.gov/study/NCT01948648) | N/A | Unknown | 13 | Evaluates fish oil, colesevelam and ezetimibe combination therapy for further reduction of plasma plant sterols in sitosterolemia. |
-| [NCT00705211](https://clinicaltrials.gov/study/NCT00705211) | N/A | Completed | 1794 | Japan 52-week post-marketing observational study of Zetia mono/combination therapy in general lipid-lowering practice (not disease-specific). |
-| [NCT00704444](https://clinicaltrials.gov/study/NCT00704444) | N/A | Completed | 11332 | Japan 12-week post-marketing observational study of Zetia mono/combination therapy in general practice (not disease-specific). |
+| [NCT00092820](https://clinicaltrials.gov/study/NCT00092820) | Fasa 3 | Selesai | 58 | Percubaan multiberpusat, rawak, buta dua belah, terkawal plasebo MK0653 (ezetimibe) ditambah pada rejimen semasa dalam sitosterolemia homozigot; kajian sambungan keberkesanan/keselamatan spesifik penyakit. |
+| [NCT00045812](https://clinicaltrials.gov/study/NCT00045812) | Fasa 2 | Selesai | 5 | Kajian multiberpusat, rawak, buta dua belah, terkawal plasebo SCH-58235 (ezetimibe) menurunkan sitosterol, sterol tumbuhan dan paras kolesterol dalam sitosterolemia homozigot. |
+| [NCT00092898](https://clinicaltrials.gov/study/NCT00092898) | Fasa 3 | Selesai | 30 | Percubaan berkawal plasebo rawak buta dua belah 6 bulan menambah ezetimibe 30 mg kepada rejimen berterusan 10 mg dalam sitosterolemia homozigot. |
+| [NCT00092833](https://clinicaltrials.gov/study/NCT00092833) | Fasa 3 | Dibatalkan | 49 | Kajian penggunaan rawatan terbuka seluruh dunia yang menyediakan ezetimibe 10 mg/hari kepada pesakit dengan hiperkolesterolemia keluarga homozigot atau sitosterolemia homozigot. |
+| [NCT00092807](https://clinicaltrials.gov/study/NCT00092807) | Fasa 3 | Selesai | 37 | Sambungan terbuka label 1 tahun menilai keselamatan jangka panjang dan kemampuan pengurangan kolesterol ezetimibe dalam sitosterolemia homozigot. |
+| [NCT01584206](https://clinicaltrials.gov/study/NCT01584206) | N/A | Selesai | 8 | Kajian pelopor menilai sama ada ezetimibe meningkatkan homeostasis sterol kolesterol dan sterol tumbuhan seluruh badan dalam sitosterolemia. |
+| [NCT00099996](https://clinicaltrials.gov/study/NCT00099996) | Fasa 3 | Selesai | 3 | Kajian eskalasi dos kecil (ezetimibe 30 mg ditambah kepada 10 mg) menilai keselamatan/keberkesanan dalam sitosterolemia homozigot. |
+| [NCT01948648](https://clinicaltrials.gov/study/NCT01948648) | N/A | Tidak diketahui | 13 | Menilai minyak ikan, kolesevelam dan terapi gabungan ezetimibe untuk pengurangan sterol tumbuhan plasma lebih lanjut dalam sitosterolemia. |
+| [NCT00705211](https://clinicaltrials.gov/study/NCT00705211) | N/A | Selesai | 1794 | Kajian pemerhatian lepas-pasaran Jepun 52 minggu terapi Zetia mono/gabungan dalam amalan pengurangan lipid umum (bukan spesifik penyakit). |
+| [NCT00704444](https://clinicaltrials.gov/study/NCT00704444) | N/A | Selesai | 11332 | Kajian pemerhatian lepas-pasaran Jepun 12 minggu terapi Zetia mono/gabungan dalam amalan umum (bukan spesifik penyakit). |
 
 ---
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [28340366](https://pubmed.ncbi.nlm.nih.gov/28340366/) | 2017 | Cohort | Atherosclerosis | Ezetimibe reduces plasma plant sterols and total cholesterol, and alters LDL/HDL subclass distribution in sitosterolemia patients. |
-| [25444527](https://pubmed.ncbi.nlm.nih.gov/25444527/) | 2015 | Cohort | The Journal of Pediatrics | Ezetimibe improves platelet count and size while reducing plasma plant sterol levels in sitosterolemia. |
-| [18822021](https://pubmed.ncbi.nlm.nih.gov/18822021/) | 2008 | 2-year extension study | Int J Clin Pract | Long-term (2-year) efficacy and safety of ezetimibe 10 mg in homozygous sitosterolemia patients. |
-| [34969652](https://pubmed.ncbi.nlm.nih.gov/34969652/) | 2022 | Cohort | J Clin Lipidology | Clinical/genetic profiling and therapy evaluation in 55 children and 5 adults with sitosterolemia. |
-| [36897412](https://pubmed.ncbi.nlm.nih.gov/36897412/) | 2023 | Review | Curr Atheroscler Rep | Updated summary of sitosterolemia pathophysiology (ABCG5/ABCG8), clinical features, and management. |
-| [30033951](https://pubmed.ncbi.nlm.nih.gov/30033951/) | 2018 | Review | J Atheroscler Thromb | Reviews sitosterolemia, hypercholesterolemia, and coronary artery disease risk. |
-| [24267242](https://pubmed.ncbi.nlm.nih.gov/24267242/) | 2013 | Review | Atherosclerosis | Evaluates sterol metabolism and therapeutic approaches (including ezetimibe) in sitosterolemia. |
-| [35248527](https://pubmed.ncbi.nlm.nih.gov/35248527/) | 2022 | Case series | Clin Chim Acta | Clinical and genetic features of sitosterolemia in a Japanese cohort. |
-| [24821603](https://pubmed.ncbi.nlm.nih.gov/24821603/) | 2014 | Review | Curr Atheroscler Rep | Diagnosis, investigation, and management overview of sitosterolemia. |
-| [29984642](https://pubmed.ncbi.nlm.nih.gov/29984642/) | 2019 | Review | Curr Med Chem | Reviews diagnosis, hematological abnormalities, cardiovascular disease and management in sitosterolemia. |
+| [28340366](https://pubmed.ncbi.nlm.nih.gov/28340366/) | 2017 | Kohort | Atherosclerosis | Ezetimibe mengurangkan sterol tumbuhan plasma dan kolesterol jumlah, dan mengubah pengagihan subkelas LDL/HDL dalam pesakit sitosterolemia. |
+| [25444527](https://pubmed.ncbi.nlm.nih.gov/25444527/) | 2015 | Kohort | The Journal of Pediatrics | Ezetimibe meningkatkan kiraan dan saiz platelet sambil mengurangkan paras sterol tumbuhan plasma dalam sitosterolemia. |
+| [18822021](https://pubmed.ncbi.nlm.nih.gov/18822021/) | 2008 | Kajian sambungan 2 tahun | Int J Clin Pract | Keberkesanan dan keselamatan jangka panjang (2 tahun) ezetimibe 10 mg dalam pesakit sitosterolemia homozigot. |
+| [34969652](https://pubmed.ncbi.nlm.nih.gov/34969652/) | 2022 | Kohort | J Clin Lipidology | Profil klinikal/genetik dan penilaian terapi dalam 55 kanak-kanak dan 5 orang dewasa dengan sitosterolemia. |
+| [36897412](https://pubmed.ncbi.nlm.nih.gov/36897412/) | 2023 | Ulasan | Curr Atheroscler Rep | Ringkasan terkini patofisiologi sitosterolemia (ABCG5/ABCG8), ciri klinikal, dan pengurusan. |
+| [30033951](https://pubmed.ncbi.nlm.nih.gov/30033951/) | 2018 | Ulasan | J Atheroscler Thromb | Mengulas sitosterolemia, hiperkolesterolemia, dan risiko penyakit arteri koroner. |
+| [24267242](https://pubmed.ncbi.nlm.nih.gov/24267242/) | 2013 | Ulasan | Atherosclerosis | Menilai metabolisme sterol dan pendekatan terapeutik (termasuk ezetimibe) dalam sitosterolemia. |
+| [35248527](https://pubmed.ncbi.nlm.nih.gov/35248527/) | 2022 | Siri kes | Clin Chim Acta | Ciri klinikal dan genetik sitosterolemia dalam kohort Jepun. |
+| [24821603](https://pubmed.ncbi.nlm.nih.gov/24821603/) | 2014 | Ulasan | Curr Atheroscler Rep | Gambaran keseluruhan diagnosis, penyiasatan, dan pengurusan sitosterolemia. |
+| [29984642](https://pubmed.ncbi.nlm.nih.gov/29984642/) | 2019 | Ulasan | Curr Med Chem | Mengulas diagnosis, ketidaknormalan hematologi, penyakit kardiovaskular dan pengurusan dalam sitosterolemia. |
 
 ---
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk risalah pakej untuk maklumat keselamatan.
 
 ---
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Proceed with Guardrails**
+**Keputusan: Teruskan dengan Tindakan Penjaga**
 
-**Rationale:**
-Sitosterolemia is supported by L1-level evidence — multiple completed, randomized, double-blind, placebo-controlled Phase 2/3 trials conducted specifically in homozygous sitosterolemia patients — and the mechanism (NPC1L1 inhibition blocking the same plant-sterol absorption pathway disrupted by ABCG5/ABCG8 loss-of-function) is directly on-target rather than speculative.
+**Nisbah:**
+Sitosterolemia disokong oleh bukti paras L1 — berbilang percubaan rawak, buta dua belah, terkawal plasebo fasa 2/3 yang selesai dijalankan khusus dalam pesakit sitosterolemia homozigot — dan mekanisme (perencatan NPC1L1 menghalang laluan penyerapan sterol tumbuhan yang sama yang terganggu oleh kehilangan fungsi ABCG5/ABCG8) adalah terus pada sasaran bukan spekulatif.
 
-**To proceed, the following is needed:**
-- TFDA package insert warnings/contraindications (flagged as a **Blocking** data gap — required before this candidate can enter the S1 safety pre-assessment stage)
-- Confirmed mechanism-of-action data from DrugBank (currently unavailable at the drug level)
-- Malaysia-specific product license and approved-indication text (the current data pull returned 40 total registrations but no populated license detail records)
-- Drug–drug interaction (DDI) data (current query status: not found)
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Amaran risalah pakej TFDA/kontraindikasi (ditandai sebagai **Pemblokiran** jurang data — diperlukan sebelum calon ini boleh memasuki peringkat pra-penilaian keselamatan S1)
+- Data mekanisme-tindakan yang disahkan dari DrugBank (pada masa ini tidak tersedia di paras ubat)
+- Teks lesen produk Malaysia dan petunjuk yang diluluskan (pengambilan data semasa memulangkan 40 jumlah pendaftaran tetapi tiada rekod butiran lesen terpopulasi)
+- Data interaksi ubat-ubat (DDI) (status pertanyaan semasa: tidak ditemui)
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

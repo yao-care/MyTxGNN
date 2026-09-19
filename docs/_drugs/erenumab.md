@@ -29,85 +29,86 @@ Tahap bukti: **L2** | Indikasi diramal: **1**
 
 </div>
 
-# Erenumab: From Migraine Prevention to Migraine with Brainstem Aura
+# Erenumab: Dari Pencegahan Migrain hingga Migrain dengan Aura Batang Otak
 
-## One-Sentence Summary
+## Ringkasan Satu Kalimat
 
-Erenumab is a CGRP-receptor-targeting monoclonal antibody already approved for migraine prevention. The TxGNN model predicts it may also be effective for **migraine with brainstem aura**, a migraine subtype, with **0 dedicated clinical trials** but **20 supporting publications** (including RCT subgroup analyses and a systematic review) currently available.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Migraine prevention (existing approved indication; detailed TFDA/NPRA label text was not captured in this evidence pack) |
-| Predicted New Indication | Migraine with brainstem aura |
-| TxGNN Prediction Score | 99.89% |
-| Evidence Level | L2 |
-| Malaysia Market Status | Marketed |
-| Number of Registrations | 2 |
-| Recommended Decision | Proceed with Guardrails |
+Erenumab adalah antibodi monoklonal humanisasi yang menargetkan reseptor CGRP yang telah disetujui untuk pencegahan migrain. Model TxGNN memprediksi kemungkinan juga efektif untuk **migrain dengan aura batang otak**, subtipe migrain, dengan **0 uji klinis khusus** tetapi **20 publikasi pendukung** (termasuk analisis subkelompok RCT dan tinjauan sistematis) saat ini tersedia.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Ikhtisar Cepat
 
-Detailed mechanism-of-action data was not directly available for this drug in the evidence pack. Based on the available repurposing rationale, erenumab is a humanized monoclonal antibody that targets the CGRP (calcitonin gene-related peptide) receptor, blocking CGRP-mediated activation of the trigeminovascular system and neurogenic inflammation — the core pathogenic pathway shared across migraine subtypes.
-
-Migraine with brainstem aura (formerly known as basilar-type migraine) is characterized by brainstem/posterior-circulation aura symptoms, but its trigger mechanism is still believed to rest on cortical spreading depression (CSD) followed by CGRP release, just like other migraine subtypes. This means erenumab's established preventive mechanism can reasonably be extrapolated to this subtype without requiring a new pharmacological hypothesis.
-
-In practice, this predicted indication represents a **sub-population extension of erenumab's existing approved indication (migraine prevention)** rather than a cross-disease repurposing. This narrows the risk profile of the prediction, since the drug's general safety and efficacy in migraine prevention is already well established — the open question is specifically whether the aura/vascular-risk profile of this subgroup changes the risk-benefit balance.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered specifically for migraine with brainstem aura.
+| Item | Isi |
+|------|-----|
+| Indikasi Asli | Pencegahan migrain (indikasi yang telah disetujui; teks label TFDA/NPRA terperinci tidak ditangkap dalam paket bukti ini) |
+| Indikasi Baru yang Diprediksi | Migrain dengan aura batang otak |
+| Skor Prediksi TxGNN | 99.89% |
+| Tingkat Bukti | L2 |
+| Status Pasar Malaysia | Sudah dipasarkan |
+| Jumlah Pendaftaran | 2 |
+| Rekomendasi Keputusan | Lanjutkan dengan Pengamanan |
 
 ---
 
-## Literature Evidence
+## Mengapa Prediksi Ini Masuk Akal?
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [34928306](https://pubmed.ncbi.nlm.nih.gov/34928306/) | 2022 | RCT post-hoc subgroup analysis | JAMA Neurology | Secondary analysis of RCTs assessing erenumab safety/efficacy in migraine with vs. without aura subgroups |
-| [30360965](https://pubmed.ncbi.nlm.nih.gov/30360965/) | 2018 | RCT (Phase 3b) | Lancet | Erenumab effective and well-tolerated in episodic migraine patients who failed 2–4 prior preventives |
-| [37012858](https://pubmed.ncbi.nlm.nih.gov/37012858/) | 2023 | Systematic Review | Int Immunopharmacol | Confirms efficacy of erenumab in preventive therapy of episodic and chronic migraine |
-| [36942409](https://pubmed.ncbi.nlm.nih.gov/36942409/) | 2023 | Cohort (pooled post hoc) | Headache | Cardiovascular safety of erenumab evaluated in migraine with and without aura; no elevated CV signal identified |
-| [40275185](https://pubmed.ncbi.nlm.nih.gov/40275185/) | 2025 | Cohort (REFORM study) | J Headache Pain | Plasma suPAR, an inflammatory biomarker elevated in migraine with aura, linked to CGRP-targeted therapeutic response |
-| [35151970](https://pubmed.ncbi.nlm.nih.gov/35151970/) | 2022 | Cohort (real-world) | Clin Neurol Neurosurg | Real-world effectiveness and safety of erenumab after 6 months in treatment-resistant chronic migraine |
-| [32867533](https://pubmed.ncbi.nlm.nih.gov/32867533/) | 2021 | Physiologic study | Cephalalgia | Erenumab did not alter cerebral vasomotor reactivity or endothelial function, supporting vascular safety |
-| [40596876](https://pubmed.ncbi.nlm.nih.gov/40596876/) | 2025 | Cohort (switch study) | J Headache Pain | Most patients switching from erenumab to fremanezumab after adverse events tolerated the switch |
-| [35538414](https://pubmed.ncbi.nlm.nih.gov/35538414/) | 2022 | Cohort (real-world) | J Headache Pain | 12-month real-world safety and tolerability of erenumab, with predictors of adverse events assessed |
-| [33125303](https://pubmed.ncbi.nlm.nih.gov/33125303/) | 2021 | Cohort/Case series | J Pain Palliat Care Pharmacother | Erenumab + onabotulinumtoxinA combination reduced attack frequency in refractory chronic migraine without aura |
+Data mekanisme aksi terperinci tidak tersedia secara langsung untuk obat ini dalam paket bukti. Berdasarkan rasional penggantian tujuan yang tersedia, erenumab adalah antibodi monoklonal humanisasi yang menargetkan reseptor CGRP (peptida yang berkaitan dengan gen kalsitonin), memblokir aktivasi sistem trigeminavaskuler yang dimediasi CGRP dan peradangan neurogenik — jalur patogenik inti yang dibagikan di seluruh subtipe migrain.
+
+Migrain dengan aura batang otak (sebelumnya dikenal sebagai migrain tipe basilaris) ditandai dengan gejala aura batang otak/sirkulasi posterior, tetapi mekanisme pemicunya masih diyakini berada pada depresi penyebaran kortikalis (CSD) diikuti oleh pelepasan CGRP, seperti subtipe migrain lainnya. Ini berarti mekanisme preventif yang terbukti erenumab dapat secara masuk akal diekstrapolasikan ke subtipe ini tanpa memerlukan hipotesis farmakologi baru.
+
+Dalam praktiknya, indikasi yang diprediksi ini mewakili **perluasan sub-populasi dari indikasi yang disetujui erenumab yang ada (pencegahan migrain)** daripada penggantian tujuan lintas penyakit. Ini mempersempit profil risiko prediksi, karena keamanan umum obat dan kemanjuran dalam pencegahan migrain sudah well established — pertanyaan terbuka khususnya apakah profil aura/risiko vaskular dari subkelompok ini mengubah keseimbangan risiko-manfaat.
 
 ---
 
-## Malaysia Market Information
+## Bukti Uji Klinis
 
-The drug is confirmed as marketed with 2 registered licenses. Authorization number, product name, dosage form, and approved indication text for these licenses were not captured in this evidence pack and require direct retrieval from the regulatory source.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
+Saat ini tidak ada uji klinis terkait yang terdaftar khusus untuk migrain dengan aura batang otak.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Literatur
 
-**Decision: Proceed with Guardrails**
+| PMID | Tahun | Tipe | Jurnal | Temuan Utama |
+|------|-------|------|--------|-------------|
+| [34928306](https://pubmed.ncbi.nlm.nih.gov/34928306/) | 2022 | Analisis subkelompok post-hoc RCT | JAMA Neurology | Analisis sekunder RCT menilai keamanan/kemanjuran erenumab dalam subkelompok migrain dengan vs. tanpa aura |
+| [30360965](https://pubmed.ncbi.nlm.nih.gov/30360965/) | 2018 | RCT (Fase 3b) | Lancet | Erenumab efektif dan ditoleransi dengan baik pada pasien migrain episodik yang gagal 2–4 agen preventif sebelumnya |
+| [37012858](https://pubmed.ncbi.nlm.nih.gov/37012858/) | 2023 | Tinjauan Sistematis | Int Immunopharmacol | Mengkonfirmasi kemanjuran erenumab dalam terapi preventif migrain episodik dan kronis |
+| [36942409](https://pubmed.ncbi.nlm.nih.gov/36942409/) | 2023 | Kohort (post hoc terpadu) | Headache | Keamanan kardiovaskular erenumab dievaluasi dalam migrain dengan dan tanpa aura; tidak ada sinyal CV yang meningkat diidentifikasi |
+| [40275185](https://pubmed.ncbi.nlm.nih.gov/40275185/) | 2025 | Kohort (REFORM study) | J Headache Pain | Plasma suPAR, biomarker peradangan yang meningkat dalam migrain dengan aura, terkait dengan respons terapeutik yang ditargetkan CGRP |
+| [35151970](https://pubmed.ncbi.nlm.nih.gov/35151970/) | 2022 | Kohort (dunia nyata) | Clin Neurol Neurosurg | Kemanjuran dan keamanan dunia nyata erenumab setelah 6 bulan dalam migrain kronis yang resisten terhadap pengobatan |
+| [32867533](https://pubmed.ncbi.nlm.nih.gov/32867533/) | 2021 | Studi fisiologis | Cephalalgia | Erenumab tidak mengubah reaktivitas vasomotor serebral atau fungsi endotel, mendukung keamanan vaskular |
+| [40596876](https://pubmed.ncbi.nlm.nih.gov/40596876/) | 2025 | Kohort (studi beralih) | J Headache Pain | Sebagian besar pasien yang beralih dari erenumab ke fremanezumab setelah kejadian yang merugikan mentoleransi pertukaran |
+| [35538414](https://pubmed.ncbi.nlm.nih.gov/35538414/) | 2022 | Kohort (dunia nyata) | J Headache Pain | Keamanan dan tolerabilitas erenumab 12 bulan dunia nyata, dengan prediktor kejadian merugikan dinilai |
+| [33125303](https://pubmed.ncbi.nlm.nih.gov/33125303/) | 2021 | Kohort/Seri kasus | J Pain Palliat Care Pharmacother | Kombinasi erenumab + onabotulinumtoxinA mengurangi frekuensi serangan dalam migrain kronis yang refraktif tanpa aura |
 
-**Rationale:**
-The mechanistic link is strong (shared CGRP pathway across migraine subtypes) and is supported by an RCT subgroup analysis, a systematic review, and vascular-safety data specific to the aura subgroup, but no clinical trial has directly enrolled patients with migraine with brainstem aura, so this remains a sub-population extrapolation rather than a directly proven indication.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA label warnings and contraindications (currently a blocking data gap)
-- Confirmed original mechanism-of-action documentation from DrugBank
-- Complete license/registration details (authorization numbers, product names, approved indication text) for the 2 Malaysia registrations
-- A dedicated efficacy/safety evaluation (or at minimum a targeted subgroup analysis) in patients specifically diagnosed with migraine with brainstem aura, given the historical vascular-risk caution associated with this subtype
+## Informasi Pasar Malaysia
+
+Obat ini dikonfirmasi sebagai sudah dipasarkan dengan 2 lisensi terdaftar. Nomor otorisasi, nama produk, bentuk dosis, dan teks indikasi yang disetujui untuk lisensi ini tidak ditangkap dalam paket bukti ini dan memerlukan pengambilan langsung dari sumber peraturan.
+
+---
+
+## Pertimbangan Keamanan
+
+Silakan merujuk pada leaflet paket untuk informasi keamanan.
+
+---
+
+## Kesimpulan dan Langkah Berikutnya
+
+**Keputusan: Lanjutkan dengan Pengamanan**
+
+**Rasional:**
+Tautan mekanistik kuat (jalur CGRP bersama di seluruh subtipe migrain) dan didukung oleh analisis subkelompok RCT, tinjauan sistematis, dan data keamanan vaskular khusus untuk subkelompok aura, tetapi tidak ada uji klinis yang secara langsung merekrut pasien dengan migrain dengan aura batang otak, jadi ini tetap merupakan extrapolasi sub-populasi daripada indikasi yang terbukti secara langsung.
+
+**Untuk melanjutkan, diperlukan hal berikut:**
+- Peringatan label TFDA/NPRA dan kontraindikasi (saat ini merupakan kesenjangan data yang memblokir)
+- Dokumentasi mekanisme aksi asli yang dikonfirmasi dari DrugBank
+- Detail lisensi/pendaftaran lengkap (nomor otorisasi, nama produk, teks indikasi yang disetujui) untuk 2 pendaftaran Malaysia
+- Evaluasi kemanjuran/keamanan yang didedikasikan (atau setidaknya analisis subkelompok yang ditargetkan) pada pasien yang secara khusus didiagnosis dengan migrain dengan aura batang otak, mengingat peringatan risiko vaskular historis yang terkait dengan subtipe ini
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

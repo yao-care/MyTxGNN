@@ -29,81 +29,82 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-# Folic Acid: From Folate Deficiency to Microcytic Anemia
+# Asid Folik: Daripada Kekurangan Folat hingga Anemia Mikrositik
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Folic Acid (Vitamin B9) is a water-soluble vitamin classically used to treat and prevent folate-deficiency (megaloblastic) anemia. The TxGNN model's top-ranked prediction for this candidate is **Microcytic Anemia**, but the prediction carries a **TxGNN score of 0.00%** and is supported only by **2 loosely-related clinical trials** and **19 publications**, most of which do not evaluate folic acid directly against this indication.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Folate deficiency / megaloblastic anemia (formal NPRA label text not available in this data pack) |
-| Predicted New Indication | Microcytic Anemia |
-| TxGNN Prediction Score | 0.00% |
-| Evidence Level | L4 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 392 |
-| Recommended Decision | Hold |
+Asid Folik (Vitamin B9) ialah vitamin yang larut dalam air yang biasanya digunakan untuk merawat dan mencegah anemia akibat kekurangan folat (megaloblastik). Ramalan tertinggi model TxGNN untuk calon ini ialah **Anemia Mikrositik**, tetapi ramalan ini membawa **skor TxGNN sebesar 0.00%** dan disokong hanya oleh **2 percubaan klinikal yang longgar berkaitan** dan **19 penerbitan**, kebanyakannya tidak menilai asid folik secara langsung terhadap petunjuk ini.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Ringkas
 
-Currently, detailed mechanism of action (MOA) data for Folic Acid is not available in this evidence pack. Based on known pharmacology, Folic Acid is a water-soluble B-vitamin required for one-carbon metabolism, DNA synthesis, and normal red blood cell maturation; its efficacy in correcting folate-deficiency anemia is well established.
-
-However, the mechanistic fit between folic acid and **microcytic anemia** is weak and largely contradictory. Folate deficiency classically produces **macrocytic (megaloblastic)** anemia — enlarged red cells from impaired DNA synthesis — not microcytic anemia. Microcytic anemia is instead typically caused by iron deficiency, thalassemia trait, or anemia of chronic inflammation, none of which folic acid mechanistically addresses.
-
-Consistent with this, the TxGNN model assigned a score of 0.0 to this prediction, indicating no meaningful model confidence in the link. The only literature reference describing folic acid in a "microcytic" context is a single 1948 case report of a rare, atypical folate-responsive anemia subtype — insufficient to establish a general mechanistic relationship. This candidate should be interpreted as a low-confidence/likely spurious model output rather than a genuine repurposing signal.
+| Item | Kandungan |
+|------|-----------|
+| Petunjuk Asal | Kekurangan folat / anemia megaloblastik (teks label NPRA rasmi tidak tersedia dalam pakej data ini) |
+| Petunjuk Baru yang Diramalkan | Anemia Mikrositik |
+| Skor Ramalan TxGNN | 0.00% |
+| Tahap Bukti | L4 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 392 |
+| Keputusan Disyorkan | Tunggu |
 
 ---
 
-## Clinical Trial Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+Pada masa ini, data mekanisme tindakan (MOA) terperinci untuk Asid Folik tidak tersedia dalam pakej bukti ini. Berdasarkan farmakologi yang diketahui, Asid Folik ialah vitamin B yang larut dalam air yang diperlukan untuk metabolisme satu-karbon, sintesis DNA, dan pematangan sel darah merah yang normal; keberkesanannya dalam membetulkan anemia akibat kekurangan folat sudah terbukti.
+
+Walau bagaimanapun, keselarasan mekanistik antara asid folik dan **anemia mikrositik** adalah lemah dan banyak bertentangan. Kekurangan folat secara klasik menghasilkan **anemia makrositik (megaloblastik)** — sel darah merah yang membesar daripada sintesis DNA yang terganggu — bukan anemia mikrositik. Anemia mikrositik sebaliknya biasanya disebabkan oleh kekurangan zat besi, ciri talasemia, atau anemia keradangan kronik, tidak satu pun yang ditangani oleh asid folik secara mekanistik.
+
+Konsisten dengan ini, model TxGNN memberikan skor 0.0 untuk ramalan ini, menunjukkan tiada keyakinan model yang bermakna dalam pautan tersebut. Satu-satunya rujukan literatur yang menerangkan asid folik dalam konteks "mikrositik" ialah laporan kes tunggal tahun 1948 bagi subtip anemia yang responsif-folat jarang dan atipikal — tidak mencukupi untuk menetapkan hubungan mekanistik umum. Calon ini harus ditafsirkan sebagai keluaran model keyakinan-rendah/mungkin palsu daripada isyarat penyusunan semula tulen.
+
+---
+
+## Bukti Percubaan Klinikal
+
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT06875947](https://clinicaltrials.gov/study/NCT06875947) | NA | Active, Not Recruiting | 59 | Evaluates Moringa oleifera leaf micronized powder (not folic acid) on hematological profile, hepcidin, and cytokines in pregnant women with iron deficiency anemia. Low relevance — folic acid is not the studied intervention. |
-| [NCT05022979](https://clinicaltrials.gov/study/NCT05022979) | N/A | Completed | 341 | Observational study of micronutrient deficiency prevalence in pregnant women presenting with threatened delivery in French Guiana; non-interventional and not specific to microcytic anemia. |
+| [NCT06875947](https://clinicaltrials.gov/study/NCT06875947) | NA | Aktif, Tidak Merekrut | 59 | Menilai serbuk Moringa oleifera yang dimikronisasi (bukan asid folik) terhadap profil hematologi, hepsidin, dan sitokin pada wanita hamil dengan anemia kekurangan zat besi. Relevansi rendah — asid folik bukan intervensi yang dikaji. |
+| [NCT05022979](https://clinicaltrials.gov/study/NCT05022979) | N/A | Selesai | 341 | Kajian pemerhatian bagi prevalensi kekurangan mikronutrien pada wanita hamil yang membentangkan pengantaran yang terancam di Guiana Perancis; bukan intervensi dan tidak khusus untuk anemia mikrositik. |
 
 ---
 
-## Literature Evidence
+## Bukti Literatur
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [27212091](https://pubmed.ncbi.nlm.nih.gov/27212091/) | 2016 | Review | Obstet Gynecol Clin North Am | States the three most common causes of microcytic anemia are iron deficiency, thalassemia trait, and anemia of inflammation — folate deficiency is explicitly associated with macrocytosis instead. |
-| [10518398](https://pubmed.ncbi.nlm.nih.gov/10518398/) | 1999 | Review | Medicinski Pregled | Reviews anemia patterns (microcytic/macrocytic/normocytic) in hypothyroidism; not specific to folic acid therapy. |
-| [26187724](https://pubmed.ncbi.nlm.nih.gov/26187724/) | 2015 | Cohort | J Formos Med Assoc | Assesses hematinic deficiencies in oral mucosal disease patients with folic acid deficiency (FAD); notes FAD may result in macrocytic, not microcytic, anemia. |
-| [28291568](https://pubmed.ncbi.nlm.nih.gov/28291568/) | 2017 | Cohort | J Formos Med Assoc | Assesses anemia status and hematinic deficiencies in 240 patients with microcytosis; evaluates multiple hematinic causes, not folic acid treatment specifically. |
-| [18103537](https://pubmed.ncbi.nlm.nih.gov/18103537/) | 1948 | Case Report | Minerva Medica | Historic case report describing folic acid response in two cases of microcytic, hypochromic, agastric anemia — the only literature directly linking folic acid to microcytic anemia, but a single rare case series. |
-| [26045325](https://pubmed.ncbi.nlm.nih.gov/26045325/) | 2015 | Review | Ann Nutr Metab | Epidemiology of global micronutrient deficiencies (iron, iodine, folate, vitamin A, zinc); broad context, not disease-specific. |
-| [11681780](https://pubmed.ncbi.nlm.nih.gov/11681780/) | 2001 | — | Am Fam Physician | General overview of anemia classification by MCV in children; identifies iron deficiency as the most common microcytic cause. |
-| [39954228](https://pubmed.ncbi.nlm.nih.gov/39954228/) | 2025 | — | Indian J Gastroenterol | Comprehensive review of anemia in IBD; folate deficiency listed as one of several contributing causes alongside iron deficiency and chronic disease. |
-| [40178543](https://pubmed.ncbi.nlm.nih.gov/40178543/) | 2025 | — | Innere Medizin | Practice-oriented rational assessment of anemia etiologies; general diagnostic framework, not folic acid-specific. |
-| [19787825](https://pubmed.ncbi.nlm.nih.gov/19787825/) | 2009 | — | World J Gastroenterol | Classification of anemia (microcytic/macrocytic/normocytic) for gastroenterologists; general reference, not an efficacy study. |
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|------|------|------|---------|
+| [27212091](https://pubmed.ncbi.nlm.nih.gov/27212091/) | 2016 | Ulasan | Obstet Gynecol Clin North Am | Menyatakan tiga punca paling biasa anemia mikrositik ialah kekurangan zat besi, ciri talasemia, dan anemia keradangan — kekurangan folat secara jelas dikaitkan dengan makrositosis sebaliknya. |
+| [10518398](https://pubmed.ncbi.nlm.nih.gov/10518398/) | 1999 | Ulasan | Medicinski Pregled | Mengulas corak anemia (mikrositik/makrositik/normositik) dalam hipotiroidisme; tidak khusus untuk terapi asid folik. |
+| [26187724](https://pubmed.ncbi.nlm.nih.gov/26187724/) | 2015 | Kohort | J Formos Med Assoc | Menilai kekurangan hematinenik pada pesakit penyakit mukosa mulut dengan kekurangan asid folik (FAD); nota FAD mungkin menyebabkan anemia makrositik, bukan mikrositik. |
+| [28291568](https://pubmed.ncbi.nlm.nih.gov/28291568/) | 2017 | Kohort | J Formos Med Assoc | Menilai status anemia dan kekurangan hematinenik pada 240 pesakit dengan mikrositosis; menilai pelbagai punca hematinenik, bukan rawatan asid folik khusus. |
+| [18103537](https://pubmed.ncbi.nlm.nih.gov/18103537/) | 1948 | Laporan Kes | Minerva Medica | Laporan kes bersejarah yang menerangkan respons asid folik dalam dua kes anemia mikrositik, hipokromik, agastrik — satu-satunya literatur yang secara langsung menghubungkan asid folik kepada anemia mikrositik, tetapi satu siri kes jarang. |
+| [26045325](https://pubmed.ncbi.nlm.nih.gov/26045325/) | 2015 | Ulasan | Ann Nutr Metab | Epidemiologi kekurangan mikronutrien global (zat besi, iodin, folat, vitamin A, zink); konteks luas, bukan khusus penyakit. |
+| [11681780](https://pubmed.ncbi.nlm.nih.gov/11681780/) | 2001 | — | Am Fam Physician | Gambaran umum klasifikasi anemia mengikut MCV pada kanak-kanak; mengenal pasti kekurangan zat besi sebagai punca mikrositik paling biasa. |
+| [39954228](https://pubmed.ncbi.nlm.nih.gov/39954228/) | 2025 | — | Indian J Gastroenterol | Ulasan komprehensif anemia dalam IBD; kekurangan folat disenaraikan sebagai salah satu punca penyumbang bersama kekurangan zat besi dan penyakit kronik. |
+| [40178543](https://pubmed.ncbi.nlm.nih.gov/40178543/) | 2025 | — | Innere Medizin | Penilaian rasional yang berorientasikan praktik bagi etiologi anemia; rangka kerja diagnostik umum, bukan khusus asid folik. |
+| [19787825](https://pubmed.ncbi.nlm.nih.gov/19787825/) | 2009 | — | World J Gastroenterol | Klasifikasi anemia (mikrositik/makrositik/normositik) untuk ahli gastroenterologi; rujukan umum, bukan kajian keberkesanan. |
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-**Rationale:**
-The predicted link between folic acid and microcytic anemia is mechanistically inconsistent (folate deficiency causes macrocytic, not microcytic, anemia), the TxGNN score is 0.00%, and the supporting evidence consists only of a single 1948 case report and non-specific reviews. This does not meet the threshold to advance past initial screening (S0).
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert data (warnings, contraindications, approved indication text) — currently a blocking data gap
-- Confirmed mechanism of action (MOA) data from DrugBank
-- If pursuing folic acid repurposing further, evaluate the higher-evidence candidates already identified in this pack (e.g., "folic acid deficiency anemia," evidence level L1, though this reflects the drug's known original indication rather than a novel use; or "vitamin deficiency disorder," evidence level L3) rather than microcytic anemia
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tunggu**
+
+**Alasan:**
+Pautan yang diramalkan antara asid folik dan anemia mikrositik adalah tidak konsisten secara mekanistik (kekurangan folat menyebabkan anemia makrositik, bukan mikrositik), skor TxGNN ialah 0.00%, dan bukti sokongan terdiri hanya daripada laporan kes tunggal 1948 dan ulasan bukan khusus. Ini tidak memenuhi ambang untuk maju melampaui saringan awal (S0).
+
+**Untuk meneruskan, yang berikut diperlukan:**
+- Data sisipan pakej TFDA/NPRA (amaran, kontraindikasi, teks petunjuk yang diluluskan) — pada masa ini jurang data penyekat
+- Data mekanisme tindakan (MOA) yang disahkan daripada DrugBank
+- Jika meneruskan penyusunan semula asid folik lebih lanjut, nilaikan calon bukti yang lebih tinggi yang sudah dikenalpasti dalam pakej ini (contohnya, "anemia akibat kekurangan asid folik," tahap bukti L1, walaupun ini mencerminkan petunjuk asal yang diketahui ubat daripada penggunaan baru; atau "gangguan kekurangan vitamin," tahap bukti L3) daripada anemia mikrositik
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

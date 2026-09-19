@@ -29,80 +29,81 @@ Tahap bukti: **L4** | Indikasi diramal: **9**
 
 </div>
 
-# Chlorzoxazone: From Skeletal Muscle Spasm to Migraine Disorder
+# Chlorzoxazone: Dari Spasme Otot Rangka ke Gangguan Migrain
 
-## One-Sentence Summary
+## Ringkasan Satu Kalimat
 
-Chlorzoxazone is a centrally-acting skeletal muscle relaxant historically used for musculoskeletal spasm and pain (detailed label indication text is not available in the current data source — see Data Gaps below). The TxGNN model predicts it may be effective for **Migraine Disorder**, but this direction is currently supported only by **0 clinical trials** and **3 literature items**, all indirect/mechanistic rather than chlorzoxazone-specific.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|------|
-| Original Indication | Skeletal muscle spasm relief (based on known drug classification; formal label/indication text not available — see DG001) |
-| Predicted New Indication | Migraine Disorder |
-| TxGNN Prediction Score | 99.73% |
-| Evidence Level | L4 |
-| Malaysia Market Status | ✓ Marketed (Marketed) |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+Chlorzoxazone ialah relaksator otot rangka yang bertindak terpusat yang secara historis digunakan untuk spasme muskuloskeletal dan nyeri (teks indikasi label terperinci tidak tersedia dalam sumber data semasa — lihat Jurang Data di bawah). Model TxGNN meramalkan bahawa ia mungkin berkesan untuk **Gangguan Migrain**, namun arah ini pada masa kini disokong hanya oleh **0 ujian klinis** dan **3 item literatur**, semuanya tidak langsung/mekanistik daripada khusus chlorzoxazone.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Umum Pantas
 
-Currently, detailed mechanism of action data for chlorzoxazone is not available (DrugBank MOA field flagged as a High-severity data gap). Based on known information, chlorzoxazone is a centrally-acting skeletal muscle relaxant, and the literature retrieved for this candidate converges on a specific mechanistic hypothesis: chlorzoxazone acts as a Ca²⁺-dependent K⁺ channel (SK/BK) activator, and in animal models this class of activator alleviates cerebellar ataxia caused by enhanced CaV2.1 (P/Q-type calcium channel, *CACNA1A* gene) currents.
-
-*CACNA1A* mutations are also the known genetic cause of familial hemiplegic migraine and migraine with brainstem aura, which creates an indirect pharmacological link between chlorzoxazone's ion-channel activity and migraine pathophysiology. However, this connection is drawn from preclinical ataxia models and general vestibular-disorder reviews — none of the retrieved literature tests chlorzoxazone directly in migraine patients or migraine animal models. The relationship between the original muscle-relaxant use and the predicted migraine indication is therefore mechanistic-hypothesis-level, not clinically demonstrated.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
----
-
-## Literature Evidence
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [27083881](https://pubmed.ncbi.nlm.nih.gov/27083881/) | 2016 | Review | Journal of Neurology | Overview of pharmacotherapy for cerebellar and central vestibular disorders; discusses K⁺-channel modulation relevant to nystagmus control, not chlorzoxazone-specific |
-| [24000301](https://pubmed.ncbi.nlm.nih.gov/24000301/) | 2013 | Review | Deutsches Ärzteblatt International | Treatment and natural course of peripheral/central vertigo; notes vestibular migraine accounts for 11.4% of vertigo syndromes |
-| [23115190](https://pubmed.ncbi.nlm.nih.gov/23115190/) | 2012 | Preclinical | Journal of Neuroscience | In *Cacna1a*(S218L) mutant mice, Ca²⁺-dependent K⁺-channel activators alleviate cerebellar ataxia from enhanced CaV2.1 currents — mechanistic basis for the chlorzoxazone/migraine hypothesis, not a migraine study itself |
+| Item | Kandungan |
+|------|-----------|
+| Indikasi Asal | Pelepasan spasme otot rangka (berdasarkan klasifikasi ubat yang diketahui; teks label/indikasi formal tidak tersedia — lihat DG001) |
+| Indikasi Baru yang Diramalkan | Gangguan Migrain |
+| Skor Ramalan TxGNN | 99.73% |
+| Tahap Bukti | L4 |
+| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Bilangan Pendaftaran | 1 |
+| Keputusan Disyorkan | Tahan |
 
 ---
 
-## Malaysia Market Information
+## Mengapa Ramalan Ini Munasabah?
 
-One registration is on file (market status: Marketed / Marketed), but the current data extract does not include the license number, product name, dosage form, or approved indication text for this registration — these fields need to be pulled from the NPRA source record directly.
+Pada masa kini, data mekanisme tindakan terperinci untuk chlorzoxazone tidak tersedia (medan MOA DrugBank ditandai sebagai jurang data berketerukan tinggi). Berdasarkan maklumat yang diketahui, chlorzoxazone ialah relaksator otot rangka yang bertindak terpusat, dan literatur yang diambil untuk calon ini berkumpul pada hipotesis mekanistik tertentu: chlorzoxazone bertindak sebagai pengaktif saluran K⁺ yang bergantung Ca²⁺ (SK/BK), dan dalam model haiwan kelas pengaktif ini meringankan ataksia serebelum yang disebabkan oleh arus CaV2.1 (saluran kalsium jenis P/Q, gen *CACNA1A*) yang ditingkatkan.
 
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-**Note:** The TFDA/NPRA label warnings and contraindications for chlorzoxazone are flagged as a **Blocking** data gap (DG001) — this data must be obtained before any formal S1 safety assessment can proceed.
+Mutasi *CACNA1A* juga ialah penyebab genetik yang diketahui migrain hemiplegik keluargaan dan migrain dengan aura batang otak, yang mewujudkan kaitan farmakologi tidak langsung antara aktiviti saluran ion chlorzoxazone dan patofisiologi migrain. Walau bagaimanapun, sambungan ini diambil dari model ataksia praklinik dan ulasan gangguan vestibular umum — tiada literatur yang diambil menguji chlorzoxazone secara terus pada pesakit migrain atau model haiwan migrain. Hubungan antara penggunaan relaksasi otot asal dan indikasi migrain yang diramalkan adalah oleh itu pada tahap hipotesis-mekanistik, bukan ditunjukkan secara klinis.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Ujian Klinis
 
-**Decision: Hold**
+Pada masa kini tiada ujian klinis berkaitan yang didaftarkan.
 
-**Rationale:**
-The strongest evidence available for the top-ranked candidate (migraine disorder, L4) consists only of preclinical and review-level literature built around a shared *CACNA1A* gene pathway — no study tests chlorzoxazone in migraine directly, and there are no clinical trials. Combined with a Blocking gap on label safety data, there is not yet enough evidence to move past the research-question stage.
+---
 
-**To proceed, the following is needed:**
-- TFDA/NPRA package insert — warnings and contraindications (DG001, Blocking)
-- DrugBank-confirmed mechanism of action (DG002, High)
-- Direct preclinical or clinical evidence linking chlorzoxazone (not just the CACNA1A pathway analogy) to migraine
-- Malaysia license/product detail verification (license number, dosage form, approved indication text)
+## Bukti Literatur
 
-*Side note: among the other TxGNN candidates for this drug, rheumatoid arthritis (rank 9, L3, decision stage S2) has comparatively stronger evidence — case-series use of chlorzoxazone combinations in rheumatic/musculo-articular disease dating to the 1960s–70s — and may warrant a separate evaluation.*
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-------|-------|--------|----------------|
+| [27083881](https://pubmed.ncbi.nlm.nih.gov/27083881/) | 2016 | Ulasan | Journal of Neurology | Gambaran umum farmakoterapi untuk gangguan serebelum dan vestibular pusat; membincangkan modulasi saluran K⁺ yang berkaitan dengan kawalan nistagmus, bukan khusus chlorzoxazone |
+| [24000301](https://pubmed.ncbi.nlm.nih.gov/24000301/) | 2013 | Ulasan | Deutsches Ärzteblatt International | Rawatan dan perjalanan semula jadi vertigo tepi/pusat; mencatat migrain vestibular menyumbang 11.4% daripada sindrom vertigo |
+| [23115190](https://pubmed.ncbi.nlm.nih.gov/23115190/) | 2012 | Praklinik | Journal of Neuroscience | Dalam tikus mutasi *Cacna1a*(S218L), pengaktif saluran K⁺ yang bergantung Ca²⁺ meringankan ataksia serebelum daripada arus CaV2.1 yang ditingkatkan — asas mekanistik untuk hipotesis chlorzoxazone/migrain, bukan kajian migrain itu sendiri |
+
+---
+
+## Maklumat Pasaran Malaysia
+
+Satu pendaftaran terdapat dalam fail (status pasaran: Dipasarkan / Dipasarkan), tetapi ekstrak data semasa tidak memasukkan nombor lesen, nama produk, bentuk dos, atau teks indikasi yang diluluskan untuk pendaftaran ini — medan-medan ini perlu ditarik daripada rekod sumber NPRA secara langsung.
+
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan bungkusan untuk maklumat keselamatan.
+
+**Nota:** Amaran label TFDA/NPRA dan kontraindikasi untuk chlorzoxazone ditandai sebagai jurang data **Penghalang** (DG001) — maklumat ini mesti diperolehi sebelum mana-mana penilaian keselamatan S1 formal dapat diteruskan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Alasan:**
+Bukti terkuat yang tersedia untuk calon berperingkat teratas (gangguan migrain, L4) hanya terdiri daripada literatur tahap praklinik dan ulasan yang dibina mengelilingi laluan gen *CACNA1A* bersama — tiada kajian yang menguji chlorzoxazone dalam migrain secara terus, dan tiada ujian klinis. Digabungkan dengan jurang Penghalang pada data keselamatan label, belum terdapat bukti yang mencukupi untuk melangkah melampaui tahap soalan penyelidikan.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisipan bungkusan TFDA/NPRA — amaran dan kontraindikasi (DG001, Penghalang)
+- Mekanisme tindakan yang disahkan DrugBank (DG002, Tinggi)
+- Bukti praklinik atau klinis terus yang menghubungkan chlorzoxazone (bukan hanya analogi laluan *CACNA1A*) ke migrain
+- Pengesahan maklumat detail produk/lesen Malaysia (nombor lesen, bentuk dos, teks indikasi yang diluluskan)
+
+*Nota sampingan: dalam calon TxGNN lain untuk ubat ini, artritis reumatoid (peringkat 9, L3, tahap keputusan S2) mempunyai bukti yang agak lebih kuat — penggunaan siri kes kombinasi chlorzoxazone dalam penyakit reumatik/muskuloartikular sejak tahun 1960-an–70-an — dan mungkin layak untuk penilaian berasingan.*
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

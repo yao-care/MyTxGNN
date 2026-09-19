@@ -29,58 +29,59 @@ Tahap bukti: **L5** | Indikasi diramal: **9**
 
 </div>
 
-# Glimepiride: From Type 2 Diabetes Mellitus to Focal Stiff Limb Syndrome
+# Glimepiride: Dari Diabetes Mellitus Tipe 2 ke Sindrom Tungkai Kaku Fokal
 
-## One-Sentence Summary
+## Ringkasan Satu Kalimat
 
-Glimepiride is a second-generation sulfonylurea widely used for type 2 diabetes mellitus. The TxGNN model predicts it may be effective for **focal stiff limb syndrome**, but this direction is currently supported by **0 clinical trials** and **0 publications** — it is a model-only prediction with no external evidence backing it.
+Glimepiride adalah sulfonilure generasi kedua yang banyak digunakan untuk diabetes mellitus tipe 2. Model TxGNN memprediksi bahwa glimepiride mungkin efektif untuk **sindrom tungkai kaku fokal**, tetapi arah ini saat ini didukung oleh **0 uji klinis** dan **0 publikasi** — ini adalah prediksi model saja tanpa bukti eksternal yang mendukungnya.
 
-## Quick Overview
+## Tinjauan Cepat
 
-| Item | Content |
-|------|------|
-| Original Indication | Type 2 Diabetes Mellitus (well-established use as a sulfonylurea; TFDA-specific approved indication text is not available in the current registry data) |
-| Predicted New Indication | Focal stiff limb syndrome |
-| TxGNN Prediction Score | 99.75% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 10 |
-| Recommended Decision | Hold |
+| Item | Konten |
+|------|--------|
+| Indikasi Asli | Diabetes Mellitus Tipe 2 (penggunaan sulfonilure yang terbukti; teks indikasi yang disetujui khusus TFDA tidak tersedia dalam data pendaftaran saat ini) |
+| Indikasi Baru Prediksi | Sindrom tungkai kaku fokal |
+| Skor Prediksi TxGNN | 99.75% |
+| Tingkat Bukti | L5 |
+| Status Pasar Malaysia | ✓ Dipasarkan |
+| Jumlah Pendaftaran | 10 |
+| Keputusan yang Direkomendasikan | Tahan |
 
-## Why is This Prediction Reasonable?
+## Mengapa Prediksi Ini Masuk Akal?
 
-Detailed mechanism of action data is not available in this evidence pack (flagged as a High-severity data gap). Based on generally known pharmacology, glimepiride is a sulfonylurea that stimulates insulin release from pancreatic β-cells by closing ATP-sensitive potassium channels; its efficacy in type 2 diabetes is well established.
+Data mekanisme aksi terperinci tidak tersedia dalam paket bukti ini (ditandai sebagai kesenjangan data berbeban berat). Berdasarkan farmakologi yang umumnya diketahui, glimepiride adalah sulfonilure yang merangsang pelepasan insulin dari sel β pankreas dengan menutup saluran kalium yang sensitif terhadap ATP; efikasinya pada diabetes mellitus tipe 2 sudah terbukti dengan baik.
 
-Focal stiff limb syndrome is a rare autoimmune/neurological disorder of the GABAergic inhibitory system, typically related to anti-GAD65 antibodies rather than glucose metabolism or insulin secretion. No mechanistic rationale linking sulfonylurea pharmacology to this condition is provided in the evidence pack for this candidate (the field is marked "pending"), and no clinical trials or literature support the association.
+Sindrom tungkai kaku fokal adalah gangguan autoimun/neurologis yang jarang terjadi pada sistem penghambatan GABAergik, biasanya terkait dengan antibodi anti-GAD65 daripada metabolisme glukosa atau sekresi insulin. Tidak ada dasar mekanistik yang menghubungkan farmakologi sulfonilure dengan kondisi ini yang diberikan dalam paket bukti untuk kandidat ini (bidangnya ditandai "tertunda"), dan tidak ada uji klinis atau literatur yang mendukung asosiasi.
 
-Given the absence of a plausible mechanistic link, an established biological rationale, and any supporting evidence, this prediction should be treated as a candidate for hypothesis generation only, not as a basis for clinical action.
+Mengingat tidak adanya tautan mekanistik yang masuk akal, dasar biologis yang terbentuk, dan bukti apa pun, prediksi ini harus diperlakukan sebagai kandidat untuk generasi hipotesis saja, bukan sebagai dasar untuk tindakan klinis.
 
-## Clinical Trial Evidence
+## Bukti Uji Klinis
 
-Currently no related clinical trials registered
+Saat ini tidak ada uji klinis terkait yang terdaftar
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no related literature available
+Saat ini tidak ada literatur terkait yang tersedia
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Silakan lihat sisipan paket untuk informasi keselamatan.
 
-Note: a TFDA label warnings/contraindications data gap (DG001) is flagged as **Blocking**, meaning a formal S1 safety review cannot currently be conducted for this candidate.
+Catatan: kesenjangan data peringatan/kontraindikasi label TFDA (DG001) ditandai sebagai **Penghalang**, yang berarti ulasan keselamatan S1 formal tidak dapat dilakukan untuk kandidat ini saat ini.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Selanjutnya
 
-**Decision: Hold**
+**Keputusan: Tahan**
 
-**Rationale:**
-This is an L5, model-prediction-only candidate with no clinical trials, no literature, and no established mechanistic link between glimepiride's pharmacology and focal stiff limb syndrome. A blocking data gap in TFDA safety labeling also prevents a proper safety evaluation.
+**Alasan:**
+Ini adalah kandidat L5, hanya prediksi model, tanpa uji klinis, tanpa literatur, dan tanpa hubungan mekanistik yang terbentuk antara farmakologi glimepiride dan sindrom tungkai kaku fokal. Kesenjangan data penghambat dalam pelabelan keselamatan TFDA juga mencegah evaluasi keselamatan yang tepat.
 
-**To proceed, the following is needed:**
-- TFDA product label (warnings, contraindications) — resolves DG001 (Blocking)
-- DrugBank mechanism-of-action data — resolves DG002 (High)
-- A defined mechanistic hypothesis linking sulfonylurea pharmacology to stiff limb/stiff person spectrum disorders
-- Any preclinical, case-report, or mechanistic literature to elevate evidence above L5 before further evaluation
+**Untuk melanjutkan, hal-hal berikut diperlukan:**
+- Label produk TFDA (peringatan, kontraindikasi) — menyelesaikan DG001 (Penghalang)
+- Data mekanisme aksi DrugBank — menyelesaikan DG002 (Tinggi)
+- Hipotesis mekanistik yang terdefinisi menghubungkan farmakologi sulfonilure ke gangguan spektrum tungkai kaku/stiff person
+- Literatur uji pra-klinis, laporan kasus, atau mekanistik apa pun untuk meningkatkan bukti di atas L5 sebelum evaluasi lebih lanjut
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

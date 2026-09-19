@@ -29,117 +29,116 @@ Tahap bukti: **L2** | Indikasi diramal: **10**
 
 </div>
 
-# ARSENIC TRIOXIDE: From Acute Promyelocytic Leukemia to Myelodysplastic Syndrome
+# ARSENIC TRIOXIDE: Dari Leukemia Promielosit Akut ke Sindrom Mielodisplastik
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Arsenic Trioxide (ATO) is an established antineoplastic agent for Acute Promyelocytic Leukemia (APL), acting through apoptosis induction, abnormal leukemic cell differentiation, and NF-κB pathway inhibition.
-The TxGNN model predicts it may be effective for **Myelodysplastic Syndrome (MDS)** — the highest-evidence indication among 10 candidate predictions, with MDS-related diseases occupying the top 6 ranks.
-This direction is currently supported by **24 registered clinical trials** and **20 publications**, including a 2023 meta-analysis and a 2025 randomized clinical study.
+Arsenic Trioxide (ATO) adalah agen antineoplastik yang telah terbukti untuk Leukemia Promielosit Akut (APL), bertindak melalui induksi apoptosis, diferensiasi sel leukemik yang abnormal, dan penghambatan laluan NF-κB. Model TxGNN memprediksi ia mungkin berkesan untuk **Sindrom Mielodisplastik (MDS)** — indikasi dengan bukti tertinggi antara 10 ramalan calon, dengan penyakit berkaitan MDS menduduki 6 peringkat teratas. Arah ini kini disokong oleh **24 ujian klinikal berdaftar** dan **20 publikasi**, termasuk meta-analisis 2023 dan kajian klinikal terandomisasi 2025.
 
 ---
 
-## Quick Overview
+## Gambaran Keseluruhan Pantas
 
-| Item | Content |
+| Item | Kandungan |
 |------|---------|
-| Original Indication | Acute Promyelocytic Leukemia (APL) |
-| Predicted New Indication | Myelodysplastic Syndrome (MDS) |
-| TxGNN Prediction Score | 99.91% |
-| Evidence Level | L2 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Proceed with Guardrails |
+| Indikasi Asal | Leukemia Promielosit Akut (APL) |
+| Indikasi Baru Tiramalkan | Sindrom Mielodisplastik (MDS) |
+| Skor Ramalan TxGNN | 99.91% |
+| Tahap Bukti | L2 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan Disyorkan | Teruskan dengan Perlindungan Penjaga |
 
 ---
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Berpatutan?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on known pharmacology, Arsenic Trioxide is a multi-target antineoplastic compound. In APL, its primary mechanism involves degradation of the PML-RARα oncofusion protein and induction of leukemic blast differentiation. Beyond APL, ATO generates reactive oxygen species (ROS) that selectively kill malignant cells, inhibits the pro-survival NF-κB transcription factor, and suppresses Bcl-2/FLIP anti-apoptotic proteins — mechanisms that are broadly applicable to haematological malignancies.
+Pada masa kini, data mekanisme tindakan terperinci tidak tersedia dalam Paket Bukti ini. Berdasarkan farmakologi yang diketahui, Arsenic Trioxide adalah sebatian antineoplastik multi-sasaran. Dalam APL, mekanisme utamanya melibatkan degradasi protein onkofusi PML-RARα dan induksi diferensiasi letupan leukemik. Di luar APL, ATO menghasilkan spesies oksigen reaktif (ROS) yang secara terpilih membunuh sel ganas, menghambat faktor transkripsi NF-κB yang bertindak untuk kelangsungan, dan menekan protein anti-apoptotik Bcl-2/FLIP — mekanisme yang boleh digunakan secara meluas untuk keganasan hematologi.
 
-Both APL and MDS are clonal disorders of myeloid progenitor cells. In MDS, dysplastic haematopoietic stem cell clones accumulate in the bone marrow, driving ineffective blood cell production through mechanisms that include elevated NF-κB activity and dysregulated apoptosis. Mechanistic studies have confirmed that NF-κB activity is significantly upregulated in higher-risk MDS subtypes (RAEB), and that ATO can modulate BCL2 family gene expression in patients' bone marrow samples in vivo (PMID 16105982, PMID 22964015). This provides a direct molecular rationale connecting ATO's known mechanism to MDS pathobiology.
+Baik APL dan MDS adalah gangguan klon sel mieloid. Dalam MDS, klon sel punca hematopoietik yang bersifat dina menumpuk dalam sumsum tulang belakang, mendorong pengeluaran sel darah yang tidak berkesan melalui mekanisme yang termasuk aktiviti NF-κB yang meningkat dan apoptosis yang tidak teratur. Kajian mekanistik telah mengesahkan bahawa aktiviti NF-κB meningkat dengan ketara dalam subtipe MDS berisiko lebih tinggi (RAEB), dan bahawa ATO dapat mengubah ungkapan gen keluarga BCL2 dalam sampel sumsum tulang belakang pesakit secara in vivo (PMID 16105982, PMID 22964015). Ini memberikan nisbah molekul langsung yang menghubungkan mekanisme ATO yang diketahui kepada patobiologi MDS.
 
-A particularly compelling repurposing argument lies in the demonstrated synergy between ATO and hypomethylating agents (decitabine, azacitidine), which are already first-line standard-of-care treatments for MDS. Multiple completed Phase 2 trials have explored ATO-based combination strategies, and a 2023 systematic review and component network meta-analysis (PMID 37908176) has synthesised the available evidence, while a 2025 retrospective RCT (PMID 40167011) provides the most recent clinical data. Active ongoing trials as of early 2026 — including oral ATO formulations (NCT06778187, NCT06670222) — indicate continued and growing research interest in this direction.
+Hujah penjawaan yang sangat menarik terletak pada sinergi yang ditunjukkan antara ATO dan ejen hipometilasi (decitabine, azacitidine), yang sudah merupakan rawatan piawai peringkat pertama untuk MDS. Berbilang ujian Fasa 2 yang telah selesai telah meneroka strategi gabungan berasaskan ATO, dan ulasan sistematik 2023 dan meta-analisis rangkaian komponen (PMID 37908176) telah mensintesis bukti yang tersedia, manakala RCT retrospektif 2025 (PMID 40167011) memberikan data klinikal terbaru. Ujian yang sedang berlangsung aktif mulai awal 2026 — termasuk formulasi ATO oral (NCT06778187, NCT06670222) — menunjukkan minat penyelidikan yang berterusan dan berkembang dalam arah ini.
 
 ---
 
-## Clinical Trial Evidence
+## Bukti Ujian Klinikal
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nombor Ujian | Fasa | Status | Kemasukan | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT02190695](https://clinicaltrials.gov/study/NCT02190695) | Phase 2 | Completed | 92 | Randomised study comparing Decitabine alone vs. Decitabine + Carboplatin vs. Decitabine + Arsenic in relapsed/refractory AML and MDS; includes a dedicated ATO arm — the highest-level direct randomised evidence for ATO in MDS |
-| [NCT00454480](https://clinicaltrials.gov/study/NCT00454480) | Phase 2/3 | Completed | 2,000 | Large-scale multi-arm treatment development programme for older AML and high-risk MDS patients; one of the largest completed haematology trials in this disease space; provides robust safety reference data |
-| [NCT00803530](https://clinicaltrials.gov/study/NCT00803530) | Phase 2 | Terminated | 55 | Prospective multicentre trial of ATO + Ascorbic Acid directly in MDS (n=55); provides meaningful efficacy and safety data despite early termination |
-| [NCT00251511](https://clinicaltrials.gov/study/NCT00251511) | Phase 2 | Terminated | 60 | ATO + Thalidomide in all IPSS risk groups of MDS; response assessed every 6 weeks; largest of the terminated ATO + immunomodulator trials in MDS |
-| [NCT00274820](https://clinicaltrials.gov/study/NCT00274820) | Phase 2 | Completed | 15 | TADA regimen (Thalidomide + ATO + Dexamethasone + Ascorbic Acid) in MDS/myeloproliferative overlap; fully completed with complete dataset available |
-| [NCT06778187](https://clinicaltrials.gov/study/NCT06778187) | Phase 2 | Recruiting | 30 | Oral ATO (Arsenol®) + Ascorbic Acid + low-intensity therapy in TP53-mutated AML, MDS, and CMML; launched February 2025 — demonstrates active ongoing interest including an oral formulation |
-| [NCT00274781](https://clinicaltrials.gov/study/NCT00274781) | Phase 2 | Completed | 30 | ATO + Gemtuzumab Ozogamicin (Mylotarg) in advanced MDS; fully completed Phase 2 providing ATO combination safety data |
-| [NCT00195104](https://clinicaltrials.gov/study/NCT00195104) | Phase 1/2 | Completed | 87 | ATO + Low-dose Cytarabine in high-risk MDS and poor-prognosis AML; completed with 87 patients, establishing dose tolerability and preliminary efficacy |
-| [NCT00093366](https://clinicaltrials.gov/study/NCT00093366) | Phase 1/2 | Completed | 32 | ATO + Etanercept (anti-TNF) in advanced MDS; completed with 32 patients, exploring the rationale of combining ATO with TNF pathway blockade |
-| [NCT06670222](https://clinicaltrials.gov/study/NCT06670222) | Phase 1 | Recruiting | 24 | Oral ATO dose-escalation in low-risk MDS failing ESAs and Luspatercept; launched July 2025 — targets a specific unmet need population where new options are urgently needed |
+| [NCT02190695](https://clinicaltrials.gov/study/NCT02190695) | Fasa 2 | Selesai | 92 | Kajian terandomisasi membandingkan Decitabine sahaja vs. Decitabine + Carboplatin vs. Decitabine + Arsenic dalam AML/MDS yang tahan rawatan; termasuk lengan ATO yang berdedikasi — bukti terandomisasi langsung peringkat tertinggi untuk ATO dalam MDS |
+| [NCT00454480](https://clinicaltrials.gov/study/NCT00454480) | Fasa 2/3 | Selesai | 2,000 | Program pembangunan rawatan multi-lengan berskala besar untuk pesakit AML yang lebih tua dan MDS berisiko tinggi; salah satu ujian hematologi terbesar yang telah selesai dalam ruang penyakit ini; memberikan data rujukan keselamatan yang kukuh |
+| [NCT00803530](https://clinicaltrials.gov/study/NCT00803530) | Fasa 2 | Ditamatkan | 55 | Ujian multisentre prospektif ATO + Asid Askorbik secara langsung dalam MDS (n=55); memberikan data keberkesanan dan keselamatan yang bererti walaupun penamatan awal |
+| [NCT00251511](https://clinicaltrials.gov/study/NCT00251511) | Fasa 2 | Ditamatkan | 60 | ATO + Thalidomide dalam semua kumpulan risiko IPSS MDS; tindakbalas dinilai setiap 6 minggu; terbesar dari ujian ATO + imunomodulator yang ditamatkan dalam MDS |
+| [NCT00274820](https://clinicaltrials.gov/study/NCT00274820) | Fasa 2 | Selesai | 15 | Rejimen TADA (Thalidomide + ATO + Deksametason + Asid Askorbik) dalam pertindihan MDS/mieloproliferatif; sepenuhnya selesai dengan set data lengkap tersedia |
+| [NCT06778187](https://clinicaltrials.gov/study/NCT06778187) | Fasa 2 | Merekrut | 30 | ATO oral (Arsenol®) + Asid Askorbik + terapi intensiti rendah dalam AML yang bermutasi TP53, MDS, dan CMML; diluncurkan Februari 2025 — menunjukkan minat yang sedang berlangsung termasuk formulasi oral |
+| [NCT00274781](https://clinicaltrials.gov/study/NCT00274781) | Fasa 2 | Selesai | 30 | ATO + Gemtuzumab Ozogamicin (Mylotarg) dalam MDS lanjutan; sepenuhnya selesai Fasa 2 yang memberikan data keselamatan gabungan ATO |
+| [NCT00195104](https://clinicaltrials.gov/study/NCT00195104) | Fasa 1/2 | Selesai | 87 | ATO + Sitarabin dos rendah dalam MDS berisiko tinggi dan AML dengan prognosis teruk; selesai dengan 87 pesakit, menetapkan tolerabiliti dos dan keberkesanan awal |
+| [NCT00093366](https://clinicaltrials.gov/study/NCT00093366) | Fasa 1/2 | Selesai | 32 | ATO + Etanercept (anti-TNF) dalam MDS lanjutan; selesai dengan 32 pesakit, meneroka nisbah menggabungkan ATO dengan penyekatan laluan TNF |
+| [NCT06670222](https://clinicaltrials.gov/study/NCT06670222) | Fasa 1 | Merekrut | 24 | Penggolakan dos ATO oral dalam MDS berisiko rendah yang gagal ESA dan Luspatercept; diluncurkan Julai 2025 — menyasarkan populasi keperluan yang tidak dipenuhi tertentu di mana pilihan baru sangat diperlukan |
 
 ---
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-| PMID | Year | Type | Journal | Key Findings |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [37908176](https://pubmed.ncbi.nlm.nih.gov/37908176/) | 2023 | Meta-analysis | Hematology | Systematic review and component network meta-analysis of ATO-containing regimens specifically in MDS; synthesises efficacy and adverse event profiles across multiple combination strategies to identify the optimal combination |
-| [40167011](https://pubmed.ncbi.nlm.nih.gov/40167011/) | 2025 | RCT / Clinical Trial | Hematology | Decitabine + ATO in elderly high-risk MDS patients; most recent clinical evidence examining efficacy and safety of the DAC + ATO combination as a novel therapeutic approach |
-| [38816179](https://pubmed.ncbi.nlm.nih.gov/38816179/) | 2024 | Comparative Study | Immunopharmacology and Immunotoxicology | Comparative immunological changes following realgar (oral arsenic) vs. ATO treatment in a murine MDS model; characterises immunomodulatory mechanisms relevant to in vivo MDS |
-| [18282365](https://pubmed.ncbi.nlm.nih.gov/18282365/) | 2007 | Review | Clinical Lymphoma & Myeloma | Comprehensive review of ATO clinical data in leukemias and MDS; documents >80% CR rate in APL and summarises Phase 2 MDS trial outcomes |
-| [20425329](https://pubmed.ncbi.nlm.nih.gov/20425329/) | 2010 | Review | Current Hematologic Malignancy Reports | ATO as treatment for MDS: mechanistic review of proapoptotic, antiproliferative, and anti-angiogenic properties, with clinical trial outcome summary |
-| [20956016](https://pubmed.ncbi.nlm.nih.gov/20956016/) | 2011 | Phase 1/2 Trial | Leukemia Research | ATO + Low-dose Cytarabine in 49 previously untreated intermediate-2/high-risk MDS patients; 17% CR rate, manageable toxicity, provides direct efficacy benchmark |
-| [30898879](https://pubmed.ncbi.nlm.nih.gov/30898879/) | 2019 | Mechanistic Study | Journal of Investigative Medicine | Decitabine and ATO exhibit synergistic apoptosis in MDS cell lines (MUTZ-1, SKM-1) via endoplasmic reticulum stress pathway, providing preclinical mechanistic justification for the combination |
-| [22964015](https://pubmed.ncbi.nlm.nih.gov/22964015/) | 2012 | Mechanistic Study | Journal of Hematology & Oncology | ATO + Ascorbic Acid modulate BCL2 family gene expression in MDS patients' bone marrow before and after treatment — in vivo mechanistic evidence from 12 clinical cases |
-| [16105982](https://pubmed.ncbi.nlm.nih.gov/16105982/) | 2005 | Mechanistic Study | Blood | NF-κB and FLIP in ATO-induced apoptosis in MDS: demonstrates differential NF-κB activity between MDS subtypes and establishes molecular rationale for ATO sensitivity in higher-risk disease |
-| [17920679](https://pubmed.ncbi.nlm.nih.gov/17920679/) | 2008 | Clinical Trial | Leukemia Research | ATO + All-trans Retinoic Acid + Thalidomide combination in higher-risk MDS; evaluates clinical efficacy and safety of a triple combination approach |
+| [37908176](https://pubmed.ncbi.nlm.nih.gov/37908176/) | 2023 | Meta-analisis | Hematologi | Ulasan sistematik dan meta-analisis rangkaian komponen rejimen yang mengandungi ATO khususnya dalam MDS; mensintesis profil keberkesanan dan peristiwa buruk merentas strategi gabungan berbilang untuk mengenalpasti gabungan optimum |
+| [40167011](https://pubmed.ncbi.nlm.nih.gov/40167011/) | 2025 | RCT / Ujian Klinikal | Hematologi | Decitabine + ATO dalam pesakit MDS berisiko tinggi yang lebih tua; bukti klinikal terbaru meneliti keberkesanan dan keselamatan gabungan DAC + ATO sebagai pendekatan terapeutik baru |
+| [38816179](https://pubmed.ncbi.nlm.nih.gov/38816179/) | 2024 | Kajian Perbandingan | Imunofarmakoloji dan Toksikologi Imun | Perubahan imunologi perbandingan berikutan rawatan realgar (arsenik oral) vs. ATO dalam model MDS murin; menentukan mekanisme imunomodulatori yang relevan kepada MDS in vivo |
+| [18282365](https://pubmed.ncbi.nlm.nih.gov/18282365/) | 2007 | Ulasan | Limfoma Klinikal & Myeloma | Ulasan komprehensif data klinikal ATO dalam leukemia dan MDS; mendokumentasikan kadar CR >80% dalam APL dan merangkum hasil ujian Fasa 2 MDS |
+| [20425329](https://pubmed.ncbi.nlm.nih.gov/20425329/) | 2010 | Ulasan | Laporan Keganasan Hematologi Semasa | ATO sebagai rawatan untuk MDS: ulasan mekanistik sifat pro-apoptotik, anti-proliferasi, dan anti-angiogenik, dengan ringkasan hasil ujian klinikal |
+| [20956016](https://pubmed.ncbi.nlm.nih.gov/20956016/) | 2011 | Ujian Fasa 1/2 | Penyelidikan Leukemia | ATO + Sitarabin dos rendah dalam 49 pesakit MDS berisiko pertengahan-2/tinggi yang tidak pernah dirawat sebelumnya; kadar CR 17%, toksisiti boleh diatur, memberikan penanda aras keberkesanan langsung |
+| [30898879](https://pubmed.ncbi.nlm.nih.gov/30898879/) | 2019 | Kajian Mekanistik | Jurnal Perubatan Penyiasat | Decitabine dan ATO menunjukkan apoptosis sinergik dalam garis sel MDS (MUTZ-1, SKM-1) melalui laluan tekanan retikulum endoplasma, memberikan justifikasi mekanistik praklinik untuk gabungan |
+| [22964015](https://pubmed.ncbi.nlm.nih.gov/22964015/) | 2012 | Kajian Mekanistik | Jurnal Hematologi & Onkologi | ATO + Asid Askorbik mengubah ungkapan gen keluarga BCL2 dalam sumsum tulang belakang pesakit MDS sebelum dan selepas rawatan — bukti mekanistik in vivo dari 12 kes klinikal |
+| [16105982](https://pubmed.ncbi.nlm.nih.gov/16105982/) | 2005 | Kajian Mekanistik | Darah | NF-κB dan FLIP dalam apoptosis yang teraruh ATO dalam MDS: menunjukkan aktiviti NF-κB yang berbeza antara subtipe MDS dan menetapkan nisbah molekul untuk kepekaan ATO dalam penyakit berisiko lebih tinggi |
+| [17920679](https://pubmed.ncbi.nlm.nih.gov/17920679/) | 2008 | Ujian Klinikal | Penyelidikan Leukemia | Gabungan ATO + Asid Retinoik Semua-trans + Thalidomide dalam MDS berisiko lebih tinggi; menilai keberkesanan klinikal dan keselamatan pendekatan gabungan tiga |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-The Malaysian National Pharmaceutical Regulatory Agency (NPRA) confirms **1 registered product** for Arsenic Trioxide with market status **Marketed (Marketed)**. Detailed product-level records (authorisation number, brand name, dosage form, approved indication text) were not captured in the current data export. Clinicians should verify the full registration details, including the approved indication scope, directly via the NPRA official portal (bpfk.moh.gov.my) before any clinical application.
+Agensi Kawal Selia Farmaseutikal Kebangsaan Malaysia (NPRA) mengesahkan **1 produk berdaftar** untuk Arsenic Trioxide dengan status pasaran **Dipasarkan (Dipasarkan)**. Rekod peringkat produk terperinci (nombor kebenaran, nama jenama, bentuk dos, teks indikasi yang diluluskan) tidak ditangkap dalam pereksportan data semasa. Jururawat klinikal harus mengesahkan butir pendaftaran penuh, termasuk skop indikasi yang diluluskan, secara langsung melalui portal rasmi NPRA (bpfk.moh.gov.my) sebelum sebarang aplikasi klinikal.
 
 ---
 
-## Cytotoxicity
+## Sitotoksisiti
 
-Arsenic Trioxide is an antineoplastic agent with a proven indication in a haematological malignancy (APL). This section applies.
+Arsenic Trioxide adalah agen antineoplastik dengan indikasi yang telah terbukti dalam keganasan hematologi (APL). Bahagian ini terpakai.
 
-| Item | Content |
+| Item | Kandungan |
 |------|---------|
-| Cytotoxicity Classification | Conventional cytotoxic / Differentiation agent — metalloidal antineoplastic compound (arsenic-based); not a targeted kinase inhibitor or immunotherapy |
-| Myelosuppression Risk | Moderate — in MDS patients with pre-existing cytopenias, transient worsening of blood counts may occur during treatment; leukocytosis and differentiation syndrome are well-recognised in APL use |
-| Emetogenicity Classification | Low to moderate |
-| Monitoring Items | CBC with differential (at least weekly during induction), serum electrolytes (potassium and magnesium must be corrected before initiation), liver function, renal function, **12-lead ECG with QTc interval measurement (mandatory — risk of fatal arrhythmia)** |
-| Handling Protection | Must follow cytotoxic drug handling regulations; standard chemotherapy preparation, administration, and disposal protocols are required |
+| Klasifikasi Sitotoksisiti | Agen sitotoksik/diferensiasi konvensional — sebatian antineoplastik asas metaloid (berasaskan arsenik); bukan perencat kinase bertarget atau imunoterapi |
+| Risiko Penindasan Sumsum Tulang | Sederhana — dalam pesakit MDS dengan sitopenia pra-sedia, pemburukan sementara bilangan sel darah mungkin berlaku semasa rawatan; leukositosis dan sindrom diferensiasi adalah tanda-tanda yang dikenali dalam penggunaan APL |
+| Klasifikasi Emetogenisiti | Rendah hingga sederhana |
+| Item Pemantauan | CBC dengan pembezaan (sekurang-kurangnya mingguan semasa induksi), elektrolit serum (kalium dan magnesium mestilah diperbetulkan sebelum permulaan), fungsi hati, fungsi buah pinggang, **ECG 12-petunjuk dengan pengukuran selang QTc (wajib — risiko aritmia fatal)** |
+| Perlindungan Pengendalian | Mesti mengikuti peraturan pengendalian ubat sitotoksik; protokol penyediaan, pentadbiran, dan pelupusan kemoterapik piawai diperlukan |
 
 ---
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisipan pek untuk maklumat keselamatan.
 
-> Detailed warnings and contraindications were not available in this Evidence Pack. Key known safety concerns for ATO include: **QTc prolongation** (risk of torsades de pointes and potentially fatal ventricular arrhythmia — electrolyte correction before initiation is mandatory), **APL differentiation syndrome** (in the APL indication), and **arsenic accumulation toxicity** with prolonged exposure. In MDS patients who are often elderly with comorbidities, cardiac and renal monitoring is especially important. Full prescribing information must be reviewed before any clinical use.
+> Amaran terperinci dan kontraindikasi tidak tersedia dalam Paket Bukti ini. Kebimbangan keselamatan yang diketahui utama untuk ATO termasuk: **pemanjangan QTc** (risiko torsade de pointes dan kemungkinan aritmia ventrikel yang fatal — pembetulan elektrolit sebelum permulaan adalah wajib), **sindrom diferensiasi APL** (dalam indikasi APL), dan **toksisiti penumpukan arsenik** dengan pendedahan yang berterusan. Dalam pesakit MDS yang selalunya tua dengan komorbidit, pemantauan jantung dan buah pinggang adalah sangat penting. Maklumat preskripsi penuh mesti disemak sebelum sebarang penggunaan klinikal.
 
 ---
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Proceed with Guardrails**
+**Keputusan: Teruskan dengan Perlindungan Penjaga**
 
-**Rationale:**
-A completed randomised Phase 2 study (NCT02190695, n=92), a 2023 systematic meta-analysis (PMID 37908176), and a 2025 retrospective RCT (PMID 40167011) provide Level L2 evidence that ATO — particularly in combination with decitabine — has clinically meaningful activity in MDS. The mechanistic link (NF-κB/Bcl-2/apoptosis pathway dysregulation in MDS) is well-established, and active trials with oral ATO formulations (as of 2025–2026) confirm sustained research interest. The drug is already marketed in Malaysia, lowering the regulatory barrier for structured clinical evaluation.
+**Nisbah:**
+Kajian Fasa 2 yang telah selesai dengan terandomisasi (NCT02190695, n=92), meta-analisis sistematik 2023 (PMID 37908176), dan RCT retrospektif 2025 (PMID 40167011) memberikan bukti tahap L2 bahawa ATO — terutamanya dalam gabungan dengan decitabine — mempunyai aktiviti yang bermakna secara klinikal dalam MDS. Pautan mekanistik (disregulasi laluan NF-κB/Bcl-2/apoptosis dalam MDS) adalah terbukti dengan baik, dan ujian aktif dengan formulasi ATO oral (mulai 2025–2026) mengesahkan minat penyelidikan yang berterusan. Ubat sudah dipasarkan di Malaysia, menurunkan halangan kawal selia untuk penilaian klinikal berstruktur.
 
-**To proceed, the following is needed:**
+**Untuk meneruskan, yang berikut diperlukan:**
 
-- **Safety documentation**: Retrieve the full Malaysia or international prescribing information to confirm contraindications, QTc monitoring protocol, and drug interaction profile before any clinical planning
-- **Regulatory scope confirmation**: Verify whether the current Malaysia NPRA registration is limited to APL; if so, assess the feasibility of a compassionate use application or institutional clinical trial for MDS
-- **Patient population selection**: Prioritise adult high-risk MDS (IPSS intermediate-2 or high) as the initial target, where the combination of ATO + decitabine has the most supporting evidence and unmet need is greatest
-- **Cardiac safety protocol**: Establish a mandatory baseline and serial QTc monitoring plan, including electrolyte (K⁺, Mg²⁺) correction criteria, given the known arrhythmia risk
-- **Evidence synthesis review**: Review the 2023 meta-analysis (PMID 37908176) and the 2025 RCT (PMID 40167011) in detail to determine the preferred combination partner (decitabine vs. azacitidine), optimal dosing schedule, and response criteria
-- **Subtype stratification note**: TxGNN also flagged MDS subtypes (unclassified MDS, refractory cytopenia of childhood, aregenerative anemia) in the top 10 predictions; the mechanism and evidence reviewed here are most applicable to adult MDS broadly — paediatric and rare subtype applications require separate dedicated review
+- **Dokumentasi keselamatan**: Ambil maklumat preskripsi penuh Malaysia atau antarabangsa untuk mengesahkan kontraindikasi, protokol pemantauan QTc, dan profil interaksi ubat sebelum mana-mana perancangan klinikal
+- **Pengesahan skop kawal selia**: Sahkan sama ada pendaftaran NPRA Malaysia semasa terhad kepada APL; jika ya, nilaikan kebolehlaksanaan aplikasi penggunaan belas kasihan atau ujian klinikal institusional untuk MDS
+- **Pemilihan populasi pesakit**: Utamakan MDS berisiko tinggi dewasa (IPSS pertengahan-2 atau tinggi) sebagai sasaran awal, di mana gabungan ATO + decitabine mempunyai bukti sokongan paling banyak dan keperluan yang tidak dipenuhi adalah yang terbesar
+- **Protokol keselamatan jantung**: Tetapkan rancangan pemantauan QTc wajib garis pangkal dan berjujukan, termasuk kriteria pembetulan elektrolit (K⁺, Mg²⁺), memandangkan risiko aritmia yang diketahui
+- **Ulasan sintesis bukti**: Ulasan meta-analisis 2023 (PMID 37908176) dan RCT 2025 (PMID 40167011) secara terperinci untuk menentukan mitra gabungan pilihan (decitabine vs. azacitidine), jadual dos optimum, dan kriteria tindakbalas
+- **Nota stratifikasi subtipe**: TxGNN juga menandai subtipe MDS (MDS tidak diklasifikasikan, sitopenia tahan rawatan masa kanak-kanak, anemia aregerneratif) dalam 10 ramalan teratas; mekanisme dan bukti yang diuji di sini paling berkenaan dengan MDS dewasa secara luas — aplikasi paediatrik dan subtipe langka memerlukan ulasan berdedikasi berasingan
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -29,62 +29,63 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Acyclovir Sodium: Antiviral Agent — Repurposing Evaluation Pending
+# Acyclovir Sodium: Agen Antivirus — Penilaian Penggunaan Semula Menunggu
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Acyclovir Sodium is a nucleoside analogue antiviral agent with well-established use against herpesvirus infections, including herpes simplex virus (HSV) and varicella-zoster virus (VZV).
-The current Evidence Pack does not contain any TxGNN repurposing predictions for this drug — the prediction pipeline has not yet been executed or returned results for this candidate.
-Malaysia's NPRA database confirms 1 active registration, but product-level details were not retrievable from the current data extract.
+Acyclovir Sodium adalah agen antivirus analog nukleoside dengan penggunaan yang telah ditubuhkan terhadap jangkitan herpesvirus, termasuk herpes simplex virus (HSV) dan varicella-zoster virus (VZV).
+Pakej Bukti semasa tidak mengandungi sebarang ramalan penggunaan semula TxGNN untuk ubat ini — saluran paip ramalan belum dijalankan atau tidak mengembalikan hasil untuk calon ini.
+Pangkalan data NPRA Malaysia mengesahkan 1 pendaftaran aktif, tetapi butiran peringkat produk tidak dapat diambil daripada ekstrak data semasa.
 
 ---
 
-## Quick Overview
+## Gambaran Pantas
 
-| Item | Content |
+| Item | Kandungan |
 |------|---------|
-| Original Indication | Herpesvirus infections (herpes simplex, varicella-zoster) |
-| Predicted New Indication | Not available — no TxGNN predictions generated |
-| TxGNN Prediction Score | Not available |
-| Evidence Level | Not applicable |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | **Hold** |
+| Indikasi Asal | Jangkitan herpesvirus (herpes simplex, varicella-zoster) |
+| Indikasi Baru yang Diramalkan | Tidak tersedia — tiada ramalan TxGNN dijana |
+| Skor Ramalan TxGNN | Tidak tersedia |
+| Tahap Bukti | Tidak berkenaan |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | **Tahan** |
 
 ---
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-The NPRA query confirmed 1 active registration for Acyclovir Sodium as of the data cut-off (2026-04-04). However, product-level fields — including license number, brand name, dosage form, and approved indication text — were not populated in the current data extract.
+Pertanyaan NPRA mengesahkan 1 pendaftaran aktif untuk Acyclovir Sodium setakat tarikh pemotongan data (2026-04-04). Walau bagaimanapun, medan peringkat produk — termasuk nombor lesen, nama jenama, bentuk dos, dan teks indikasi yang diluluskan — tidak diisi dalam ekstrak data semasa.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
 |---------|------|------|-----------|
-| — | — | — | Details require direct NPRA lookup |
+| — | — | — | Butiran memerlukan pencarian langsung NPRA |
 
-> **Note:** To complete this section, retrieve the full product monograph from the [NPRA Product Search portal](https://www.npra.gov.my/) using the search term "ACYCLOVIR SODIUM".
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information. No warning or contraindication data was available in the current Evidence Pack, and no drug–drug interaction records were found in the DDI database query.
+> **Catatan:** Untuk melengkapkan bahagian ini, ambil monograf produk penuh daripada [portal Carian Produk NPRA](https://www.npra.gov.my/) menggunakan istilah carian "ACYCLOVIR SODIUM".
 
 ---
 
-## Conclusion and Next Steps
+## Pertimbangan Keselamatan
 
-**Decision: Hold**
+Sila rujuk sisipan pakej untuk maklumat keselamatan. Tiada data amaran atau kontraindikasi tersedia dalam Pakej Bukti semasa, dan tiada rekod interaksi ubat–ubat ditemui dalam pertanyaan pangkalan data DDI.
 
-**Rationale:**
-The Evidence Pack for Acyclovir Sodium is structurally incomplete — no TxGNN repurposing predictions have been generated, and critical data fields (MOA, approved indication text, safety warnings, license details) are missing. A meaningful repurposing evaluation cannot be conducted until these gaps are resolved.
+---
 
-**To proceed, the following is needed:**
+## Kesimpulan dan Langkah Seterusnya
 
-- **Run TxGNN prediction pipeline** for ACYCLOVIR SODIUM to generate ranked repurposing candidates with supporting evidence
-- **Retrieve DrugBank ID and MOA** — query DrugBank by INN ("acyclovir") to obtain DB ID, pharmacological class, and mechanism of action
-- **Parse NPRA product monograph** — download the registered product's package insert PDF to extract approved indication text, key warnings, and contraindications (Data Gap DG001 — Blocking)
-- **Complete NPRA license record** — populate license number, brand name, dosage form, manufacturer, and full indication text from the NPRA portal (1 registration confirmed but details empty)
-- **Re-run Evidence Pack generation** (v5) once the above inputs are available to produce a full L1–L5 evidence evaluation
+**Keputusan: Tahan**
+
+**Rasional:**
+Pakej Bukti untuk Acyclovir Sodium secara struktur tidak lengkap — tiada ramalan penggunaan semula TxGNN telah dijana, dan medan data kritikal (MOA, teks indikasi yang diluluskan, amaran keselamatan, butiran lesen) hilang. Penilaian penggunaan semula yang bermakna tidak dapat dilakukan sehingga jurang ini diselesaikan.
+
+**Untuk meneruskan, yang berikut diperlukan:**
+
+- **Jalankan saluran paip ramalan TxGNN** untuk ACYCLOVIR SODIUM untuk menjana calon penggunaan semula yang disusun dengan bukti sokongan
+- **Ambil DrugBank ID dan MOA** — pertanyaan DrugBank mengikut INN ("acyclovir") untuk mendapatkan DB ID, kelas farmakologi, dan mekanisme tindakan
+- **Parskan monograf produk NPRA** — muat turun PDF sisipan pakej produk berdaftar untuk mengekstrak teks indikasi yang diluluskan, amaran utama, dan kontraindikasi (Jurang Data DG001 — Menyekat)
+- **Lengkapkan rekod lesen NPRA** — isi nombor lesen, nama jenama, bentuk dos, pengilang, dan teks indikasi penuh daripada portal NPRA (1 pendaftaran disahkan tetapi butiran kosong)
+- **Jalankan semula penjanaan Pakej Bukti** (v5) apabila input di atas tersedia untuk menghasilkan penilaian bukti L1–L5 penuh
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

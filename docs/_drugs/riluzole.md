@@ -29,63 +29,64 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Riluzole: From Amyotrophic Lateral Sclerosis to Bilateral Parasagittal Parieto-Occipital Polymicrogyria
+# Riluzole: Daripada Sklerosis Lateral Amiotrofik kepada Polimikrogiri Parieto-Oksipital Parasagital Bilateral
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Riluzole is a glutamatergic neurotransmission inhibitor originally approved for **Amyotrophic Lateral Sclerosis (ALS)**.
-The TxGNN model's top-ranked prediction for this drug is **Bilateral Parasagittal Parieto-Occipital Polymicrogyria**, a congenital brain malformation,
-but this prediction is supported by **zero clinical trials** and **zero publications**, and the evidence pack's own mechanistic review flags it as likely knowledge-graph noise rather than a genuine biological signal.
+Riluzole adalah penghambat penghantaran neurotransmiter glutamatik yang pada asalnya diluluskan untuk **Sklerosis Lateral Amiotrofik (ALS)**.
+Ramalan kedudukan teratas model TxGNN untuk ubat ini ialah **Polimikrogiri Parieto-Oksipital Parasagital Bilateral**, suatu malformasi otak kongenital,
+tetapi ramalan ini disokong oleh **sifar ujikaji klinikal** dan **sifar penerbitan**, dan semakan mekanistik pakej bukti itu sendiri menandanya sebagai kemungkinan bising graf pengetahuan dan bukannya isyarat biologi yang tulin.
 
-## Quick Overview
+## Gambaran Ringkas
 
-| Item | Content |
-|------|------|
-| Original Indication | Amyotrophic Lateral Sclerosis (ALS) *(per evidence-pack rationale; TFDA license record itself is blank — see Market Information)* |
-| Predicted New Indication | Bilateral Parasagittal Parieto-Occipital Polymicrogyria |
-| TxGNN Prediction Score | 99.99% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+| Item | Kandungan |
+|------|---------|
+| Petunjukan Asal | Sklerosis Lateral Amiotrofik (ALS) *(mengikut rasional pakej bukti; rekod lesen TFDA sendiri kosong — lihat Maklumat Pasaran)* |
+| Petunjukan Baru Diprakirakan | Polimikrogiri Parieto-Oksipital Parasagital Bilateral |
+| Skor Ramalan TxGNN | 99.99% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 1 |
+| Keputusan yang Disyorkan | Tangguh |
 
-## Why is This Prediction Reasonable?
+## Mengapa Ramalan Ini Munasabah?
 
-Detailed mechanism-of-action data is not available in the structured drug record. Based on known pharmacology cited elsewhere in this evidence pack, Riluzole acts by inhibiting presynaptic glutamate release and blocking voltage-dependent sodium channels, reducing motor neuron excitotoxicity — the basis for its efficacy in ALS.
+Data mekanisme tindakan terperinci tidak tersedia dalam rekod ubat berstruktur. Berdasarkan farmakologi yang diketahui yang dipetik di tempat lain dalam pakej bukti ini, riluzole bertindak dengan menghalang pelepasan glutamat pra-sinaptik dan menghalang saluran natrium bersandar voltan, mengurangkan eksitotoksisiti neuron motor — asas untuk keberkesanannya dalam ALS.
 
-Bilateral parasagittal parieto-occipital polymicrogyria is a structural cortical malformation caused by abnormal neuronal migration during fetal brain development. This is a fundamentally different disease category from ALS: it is a developmental disorder, not a neurodegenerative/excitotoxic one, and it manifests before or at birth rather than in adulthood.
+Polimikrogiri parieto-oksipital parasagital bilateral ialah malformasi kortikal struktur yang disebabkan oleh migrasi neuron yang tidak normal semasa perkembangan otak janin. Ini adalah kategori penyakit yang asasnya berbeza daripada ALS: ia adalah gangguan perkembangan, bukan satu gangguan degeneratif saraf/eksitotoksisiti, dan ia terwujud sebelum atau semasa lahir dan bukannya pada usia dewasa.
 
-The evidence pack's own repurposing rationale is explicit on this point: there is **no known pathophysiological link** between Riluzole's glutamate/sodium-channel modulation and cortical migration disorders. The very high TxGNN score (99.99%, model rank 232) is assessed as likely reflecting embedding-space proximity or knowledge-graph noise rather than a real mechanistic signal. No mechanistic hypothesis supports this pairing.
+Rasional pengguna semula pakej bukti sendiri adalah jelas pada titik ini: **tiada pautan patofisiologi yang diketahui** antara modulasi glutamat/saluran natrium riluzole dan gangguan migrasi kortikal. Skor TxGNN yang sangat tinggi (99.99%, kedudukan model 232) dinilai sebagai kemungkinan mencerminkan kedekatan ruang pembenaman atau bising graf pengetahuan dan bukannya isyarat mekanistik yang sebenar. Tiada hipotesis mekanistik menyokong pasangan ini.
 
-## Clinical Trial Evidence
+## Bukti Ujikaji Klinikal
 
-Currently no related clinical trials registered.
+Pada masa ini tiada ujikaji klinikal berkaitan yang didaftarkan.
 
-## Literature Evidence
+## Bukti Kesusasteraan
 
-Currently no related literature available.
+Pada masa ini tiada kesusasteraan berkaitan yang tersedia.
 
-## Malaysia Market Information
+## Maklumat Pasaran Malaysia
 
-The evidence pack records 1 total registration for Riluzole with market status "Marketed" (Marketed), but the underlying license record (authorization number, product name, dosage form, approved indication text) is empty in the source data — no populated fields are available to construct a market information table.
+Pakej bukti merekodkan 1 jumlah pendaftaran untuk riluzole dengan status pasaran "Dipasarkan" (Dipasarkan), tetapi rekod lesen asas (nombor kebenaran, nama produk, bentuk dos, teks petunjukan yang diluluskan) kosong dalam data sumber — tiada bidang yang diisi tersedia untuk membina jadual maklumat pasaran.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-Please refer to the package insert for safety information.
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Seterusnya
 
-**Decision: Hold**
+**Keputusan: Tangguh**
 
-**Rationale:**
-The top-ranked candidate has no clinical or literature support (L5, S0), and the mechanistic review within this same evidence pack concludes there is no plausible biological link between Riluzole's mode of action and this congenital cortical malformation — the high model score is most likely an artifact rather than a genuine repurposing signal.
+**Rasional:**
+Calon kedudukan teratas tidak mempunyai sokongan klinikal atau kesusasteraan (L5, S0), dan semakan mekanistik dalam pakej bukti yang sama ini menyimpulkan bahawa tiada pautan biologi yang munasabah antara mod tindakan riluzole dan malformasi kortikal kongenital ini — skor model yang tinggi kemungkinan besar adalah artifak dan bukannya isyarat pengguna semula yang tulin.
 
-**To proceed, the following is needed:**
-- DrugBank-sourced mechanism of action (MOA) data for Riluzole
-- TFDA label data: warnings, contraindications, and complete license/product details (currently blank)
-- Any preclinical or case-level evidence specifically linking Riluzole to cortical migration disorders, before this candidate can move past S0
+**Untuk meneruskan, yang berikut diperlukan:**
+- Data mekanisme tindakan (MOA) bersumber DrugBank untuk riluzole
+- Data label TFDA: amaran, kontraindikasi, dan butiran lesen/produk lengkap (kini kosong)
+- Sebarang bukti pra-klinikal atau peringkat kes yang khususnya menghubungkan riluzole dengan gangguan migrasi kortikal, sebelum calon ini boleh bergerak melepasi S0
 
-**Note on other candidates in this pack:** rank 2 (ALS) is Riluzole's original approved indication, not a repurposing candidate, despite strong evidence (L1). Ranks 4, 7, and 8 (lower motor neuron syndrome, monomelic amyotrophy, Mills syndrome) carry plausible mechanistic overlap with ALS pathology but currently have zero trial/literature support (L5) — these are flagged "Research Question" in the source data and may be more productive candidates for future evidence-gathering than the top-ranked prediction reviewed above.
+**Catatan tentang calon lain dalam pakej ini:** kedudukan 2 (ALS) ialah petunjukan asal yang diluluskan riluzole, bukan calon pengguna semula, walaupun bukti yang kuat (L1). Kedudukan 4, 7, dan 8 (sindrom neuron motor bawah, amiotrofi monomeli, sindrom Mills) mempunyai tindih mekanistik yang munasabah dengan patologi ALS tetapi pada masa ini mempunyai sokongan ujikaji/kesusasteraan sifar (L5) — ini ditandakan "Soalan Penyelidikan" dalam data sumber dan mungkin calon yang lebih produktif untuk pengumpulan bukti masa depan daripada ramalan kedudukan teratas yang disemak di atas.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

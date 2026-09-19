@@ -29,70 +29,71 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Bromazepam: From Anxiolytic Use to Migraine Disorder
+# Bromazepam: Dari Penggunaan Ansiolitik hingga Gangguan Migren
 
-## One-Sentence Summary
+## Ringkasan Satu Kalimat
 
-Bromazepam is a benzodiazepine-class anxiolytic, widely used for the management of anxiety disorders. The TxGNN model predicts it may be effective for **Migraine Disorder**, but currently only **1 indirectly related clinical trial** and **no publications** support this direction, making the evidence base extremely thin.
+Bromazepam adalah ansiolitik golongan benzodiazepin yang banyak digunakan untuk penatalaksanaan gangguan cemas. Model TxGNN memprediksi bahwa obat ini mungkin efektif untuk **Gangguan Migren**, tetapi saat ini hanya **1 uji klinis yang tidak langsung terkait** dan **tidak ada publikasi** yang mendukung arah ini, membuat dasar bukti sangat terbatas.
 
-## Quick Overview
+## Ringkasan Cepat
 
-| Item | Content |
-|------|------|
-| Original Indication | Anxiolytic (benzodiazepine class; specific approved indication text not available in data source) |
-| Predicted New Indication | Migraine Disorder |
-| TxGNN Prediction Score | 99.06% |
-| Evidence Level | L5 (Model prediction only, no direct studies) |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
-| Recommended Decision | Hold |
+| Butir | Konten |
+|------|--------|
+| Indikasi Asli | Ansiolitik (golongan benzodiazepin; teks indikasi yang disetujui khusus tidak tersedia dalam sumber data) |
+| Indikasi Baru yang Diprediksi | Gangguan Migren |
+| Skor Prediksi TxGNN | 99.06% |
+| Tingkat Bukti | L5 (Prediksi model saja, tanpa studi langsung) |
+| Status Pasar Malaysia | ✓ Dipasarkan |
+| Jumlah Pendaftaran | 2 |
+| Keputusan yang Disarankan | Tunggu |
 
-## Why is This Prediction Reasonable?
+## Mengapa Prediksi Ini Masuk Akal?
 
-Currently, detailed mechanism of action data is not available in the evidence pack. Based on known pharmacology, bromazepam is a positive allosteric modulator of the GABA-A receptor belonging to the benzodiazepine class. Its primary clinical use is for the short-term management of anxiety and tension states. The GABAergic system plays a modulatory — though not central — role in migraine pathophysiology.
+Saat ini, data mekanisme kerja terperinci tidak tersedia dalam paket bukti. Berdasarkan farmakolgi yang diketahui, bromazepam adalah modulator alosterik positif reseptor GABA-A yang termasuk dalam golongan benzodiazepin. Penggunaan klinis utamanya adalah untuk penatalaksanaan jangka pendek kecemasan dan ketegangan. Sistem GABAergik memainkan peran modulasi — meskipun bukan pusat — dalam patofisiologi migren.
 
-The theoretical link between bromazepam and migraine is indirect: anxiety and psychological stress are well-established migraine triggers, and an anxiolytic agent could hypothetically reduce migraine frequency by attenuating upstream trigger factors. However, this represents symptom-trigger management rather than direct intervention in the migraine disease pathway. Mainstream migraine-specific therapies (triptans, CGRP inhibitors, anti-epileptic drugs) target entirely different mechanisms — serotonergic, calcitonin gene-related peptide, or voltage-gated ion channel pathways — none of which primarily involve GABA-A modulation.
+Hubungan teoretis antara bromazepam dan migren bersifat tidak langsung: kecemasan dan stres psikologis adalah faktor pemicu migren yang sudah terbukti, dan agen ansiolitik secara hipotetis dapat mengurangi frekuensi migren dengan mengurangi faktor pemicu hulu. Namun, ini mewakili penatalaksanaan pemicu gejala daripada intervensi langsung dalam jalur penyakit migren. Terapi spesifik migren arus utama (triptan, penghambat CGRP, obat anti-epilepsi) menargetkan mekanisme yang sama sekali berbeda — jalur serotonergik, peptida terkait gen kalsitonin, atau saluran ion yang dikontrol tegangan — tidak satupun yang melibatkan modulasi GABA-A secara utama.
 
-Overall, while the TxGNN prediction score is high (99.06%), the mechanistic link is speculative. The absence of any direct clinical or preclinical evidence specifically investigating bromazepam as a migraine treatment means this prediction should be interpreted with caution and classified as hypothesis-generating only.
+Secara keseluruhan, meskipun skor prediksi TxGNN tinggi (99.06%), hubungan mekanistik bersifat spekulatif. Ketiadaan bukti klinis atau praklinik langsung yang khusus menyelidiki bromazepam sebagai perawatan migren berarti prediksi ini harus ditafsirkan dengan hati-hati dan diklasifikasikan sebagai pembuatan hipotesis saja.
 
-## Clinical Trial Evidence
+## Bukti Uji Klinis
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
+| Nomor Uji | Fase | Status | Pendaftaran | Temuan Utama |
 |---------|------|------|------|---------|
-| [NCT04410536](https://clinicaltrials.gov/study/NCT04410536) | Phase 4 | Completed | 25 | Home-withdrawal programme combined with behavioural therapy for Medication Overuse Headache (MOH) during COVID-19. Bromazepam likely served as an anxiolytic adjunct during withdrawal, **not** as a primary migraine treatment. Relevance to bromazepam–migraine repurposing is low (Grade C). |
+| [NCT04410536](https://clinicaltrials.gov/study/NCT04410536) | Fase 4 | Selesai | 25 | Program penarikan diri di rumah dikombinasikan dengan terapi perilaku untuk Sakit Kepala Penyalahgunaan Obat (MOH) selama COVID-19. Bromazepam kemungkinan berfungsi sebagai adjuvan ansiolitik selama penarikan diri, **bukan** sebagai perawatan migren primer. Relevansi untuk repurposing bromazepam–migren rendah (Kelas C). |
 
-> **Note:** The single identified trial does not constitute direct evidence for bromazepam as a migraine treatment. The trial investigated withdrawal strategies for medication overuse headache — a clinically distinct entity from primary migraine — and bromazepam's role was ancillary anxiety management, not migraine-directed therapy.
+> **Catatan:** Uji tunggal yang teridentifikasi bukan bukti langsung untuk bromazepam sebagai perawatan migren. Uji ini menyelidiki strategi penarikan diri untuk sakit kepala penyalahgunaan obat — entitas klinis yang berbeda secara jelas dari migren primer — dan peran bromazepam adalah manajemen kecemasan tambahan, bukan terapi yang diarahkan pada migren.
 
-## Literature Evidence
+## Bukti Literatur
 
-Currently no related literature available.
+Saat ini tidak ada literatur terkait yang tersedia.
 
-## Malaysia Market Information
+## Informasi Pasar Malaysia
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+| Nomor Otorisasi | Nama Produk | Bentuk Dosis | Indikasi yang Disetujui |
 |---------|------|------|-----------|
-| (Not available) | (Not available) | (Not available) | (Not available) |
-| (Not available) | (Not available) | (Not available) | (Not available) |
+| (Tidak tersedia) | (Tidak tersedia) | (Tidak tersedia) | (Tidak tersedia) |
+| (Tidak tersedia) | (Tidak tersedia) | (Tidak tersedia) | (Tidak tersedia) |
 
-> **Note:** Two registrations are recorded in the database, but detailed licence information (authorization numbers, product names, dosage forms, and approved indications) was not available in the current data extract.
+> **Catatan:** Dua pendaftaran dicatat dalam basis data, tetapi informasi lisensi terperinci (nomor otorisasi, nama produk, bentuk dosis, dan indikasi yang disetujui) tidak tersedia dalam ekstrak data saat ini.
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
-> Please refer to the package insert for safety information. Key warnings, contraindications, and drug interaction data were not available in the current evidence pack. As a benzodiazepine, standard class-level concerns include dependence risk, CNS depression, respiratory depression (especially in combination with opioids or alcohol), and withdrawal syndrome upon abrupt discontinuation.
+> Silakan lihat sisipan kemasan untuk informasi keselamatan. Data peringatan utama, kontraindikasi, dan interaksi obat tidak tersedia dalam paket bukti saat ini. Sebagai benzodiazepin, perhatian tingkat kelas standar mencakup risiko ketergantungan, depresi SSP, depresi pernapasan (terutama dalam kombinasi dengan opioid atau alkohol), dan sindrom penarikan diri setelah penghentian tiba-tiba.
 
-## Conclusion and Next Steps
+## Kesimpulan dan Langkah Berikutnya
 
-**Decision: Hold**
+**Keputusan: Tunggu**
 
-**Rationale:**
-Despite a high TxGNN prediction score (99.06%), the evidence base is critically insufficient. The only identified clinical trial (NCT04410536) is indirectly related — it investigates medication overuse headache withdrawal, not bromazepam as a migraine treatment — and no published literature directly supports this repurposing hypothesis. The mechanistic link between GABAergic anxiolysis and migraine pathophysiology is speculative at best. Additionally, as a controlled substance with dependence potential, chronic use of a benzodiazepine for a recurring condition like migraine raises significant safety and regulatory concerns.
+**Rasional:**
+Meskipun skor prediksi TxGNN tinggi (99.06%), dasar bukti sangat tidak memadai. Satu-satunya uji klinis yang teridentifikasi (NCT04410536) tidak langsung terkait — ia menyelidiki penarikan diri sakit kepala penyalahgunaan obat, bukan bromazepam sebagai perawatan migren — dan tidak ada literatur yang diterbitkan yang secara langsung mendukung hipotesis repurposing ini. Hubungan mekanistik antara anxiolitik GABAergik dan patofisiologi migren bersifat spekulatif dalam hal terbaik. Selain itu, sebagai zat terkendalian dengan potensi ketergantungan, penggunaan jangka panjang benzodiazepin untuk kondisi berulang seperti migren menimbulkan kekhawatiran keselamatan dan regulasi yang signifikan.
 
-**To proceed, the following is needed:**
-- Detailed mechanism of action data (MOA) from DrugBank to assess pharmacological plausibility
-- Package insert safety data (warnings, contraindications) from the Malaysian regulatory authority
-- Preclinical studies specifically examining GABA-A modulation in migraine models
-- At minimum one Phase 2 proof-of-concept trial evaluating bromazepam (or a closely related benzodiazepine) for migraine prophylaxis or acute treatment
-- Risk-benefit analysis addressing long-term benzodiazepine use in a chronic episodic condition
+**Untuk melanjutkan, hal-hal berikut diperlukan:**
+- Data mekanisme kerja terperinci (MOA) dari DrugBank untuk menilai kredibilitas farmakolgi
+- Data keselamatan sisipan kemasan (peringatan, kontraindikasi) dari otoritas regulasi Malaysia
+- Studi praklinik yang khusus meneliti modulasi GABA-A dalam model migren
+- Minimal satu uji Fase 2 bukti-konsep yang mengevaluasi bromazepam (atau benzodiazepin yang terkait erat) untuk profilaksis atau perawatan migren akut
+- Analisis risiko-manfaat yang menangani penggunaan benzodiazepin jangka panjang dalam kondisi episodik kronis
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

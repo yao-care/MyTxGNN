@@ -29,69 +29,70 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Amorolfine Hydrochloride: Antifungal Agent — No Repurposing Predictions Generated
+# Amorolfine Hydrochloride: Agen Antifungal — Tiada Ramalan Penggunaan Semula Dijana
 
 ---
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Amorolfine Hydrochloride is a morpholine-class antifungal agent, used topically for the treatment of onychomycosis (fungal nail infections).
-The TxGNN model did not generate any new repurposing predictions for this drug in the current analysis run.
-Without a target indication, no evidence evaluation can be performed at this stage.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Onychomycosis (fungal nail infections) |
-| Predicted New Indication | None generated |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | N/A |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
-| Recommended Decision | Hold |
+Amorolfine Hydrochloride adalah agen antifungal kelas morfolin, digunakan secara topikal untuk rawatan onychomycosis (jangkitan cendawan pada kuku).
+Model TxGNN tidak menghasilkan sebarang ramalan penggunaan semula untuk ubat ini dalam analisis terkini.
+Tanpa petunjukan sasaran, penilaian bukti tidak boleh dilakukan pada peringkat ini.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Gambaran Keseluruhan Pantas
 
-No repurposing prediction was generated for amorolfine hydrochloride in this run, so there is no mechanistic link to evaluate at this time.
-
-Based on established pharmacology, amorolfine is a morpholine-class antifungal that inhibits two key enzymes in the ergosterol biosynthesis pathway — Δ14-reductase and Δ7-8-isomerase — leading to accumulation of abnormal sterols (primarily ignosterol) that disrupt fungal cell membrane integrity. This mechanism is highly specific to the fungal ergosterol pathway and has limited counterparts in mammalian biology, which may reduce cross-disease repurposing potential compared to systemic or receptor-modulating agents.
-
-Detailed mechanism of action data was not returned from the DrugBank query in this Evidence Pack (DrugBank ID not mapped). A full pharmacological profile retrieval is recommended to determine whether any secondary mechanisms (e.g., anti-biofilm activity, anti-inflammatory effects) could support repurposing into non-fungal indications.
-
----
-
-## Malaysia Market Information
-
-Two product registrations are recorded with Malaysia's NPRA for amorolfine hydrochloride. However, the detailed registration records — including authorization number, product name, dosage form, and approved indication text — were not available in the current data extract.
-
-For the complete and up-to-date product listing, please consult the NPRA Product Registration Search portal directly (https://www.npra.gov.my).
+| Item | Kandungan |
+|------|-----------|
+| Petunjukan Asal | Onychomycosis (jangkitan cendawan pada kuku) |
+| Petunjukan Baru yang Diramalkan | Tiada dijana |
+| Skor Ramalan TxGNN | Tiada |
+| Tahap Bukti | Tiada |
+| Status Pasaran Malaysia | ✓ Dipasarkan |
+| Bilangan Pendaftaran | 2 |
+| Keputusan yang Disyorkan | Tahan |
 
 ---
 
-## Safety Considerations
+## Mengapa Ramalan Ini Munasabah?
 
-Please refer to the package insert for safety information.
+Tiada ramalan penggunaan semula yang dijana untuk amorolfine hydrochloride dalam proses ini, oleh itu tidak ada pautan mekanistik untuk dinilai pada peringkat ini.
+
+Berdasarkan farmakologi yang mapan, amorolfine adalah agen antifungal kelas morfolin yang menghalang dua enzim utama dalam laluan biosintesis ergosterol — Δ14-reductase dan Δ7-8-isomerase — yang membawa kepada pengumpulan sterol abnormal (terutamanya ignosterol) yang mengganggu integriti membran sel cendawan. Mekanisme ini sangat khusus kepada laluan ergosterol cendawan dan mempunyai persamaan terhad dalam biologi mamalia, yang mungkin mengurangkan potensi penggunaan semula merentas penyakit berbanding dengan agen sistemik atau pengubah reseptor.
+
+Data mekanisme tindakan terperinci tidak dikembalikan daripada pertanyaan DrugBank dalam Pakej Bukti ini (DrugBank ID tidak dipetakan). Pengambilan profil farmakologi penuh disyorkan untuk menentukan sama ada sebarang mekanisme sekunder (cth. aktiviti anti-biofilm, kesan anti-radang) boleh menyokong penggunaan semula ke dalam petunjukan bukan cendawan.
 
 ---
 
-## Conclusion and Next Steps
+## Maklumat Pasaran Malaysia
 
-**Decision: Hold**
+Dua pendaftaran produk direkodkan dengan NPRA Malaysia untuk amorolfine hydrochloride. Bagaimanapun, rekod pendaftaran terperinci — termasuk nombor kebenaran, nama produk, bentuk dos, dan teks petunjukan yang diluluskan — tidak tersedia dalam ekstrak data terkini.
 
-**Rationale:**
-No TxGNN repurposing predictions were generated for amorolfine hydrochloride, making it impossible to evaluate evidence for a new indication. Additionally, critical data fields — including MOA, safety warnings, contraindications, and detailed registration records — are missing, preventing a meaningful safety or mechanistic assessment.
+Untuk senarai produk yang lengkap dan terkini, sila rujuk portal Carian Pendaftaran Produk NPRA secara langsung (https://www.npra.gov.my).
 
-**To proceed, the following is needed:**
-- Re-run the TxGNN prediction pipeline to confirm whether amorolfine hydrochloride appears as a candidate for any indication (check drug name normalisation and DrugBank ID mapping)
-- Retrieve the correct DrugBank ID to populate MOA, toxicity, and drug interaction data
-- Download and parse the NPRA/TFDA package insert PDF to populate key warnings and contraindications (currently blocking S1 safety assessment)
-- Confirm detailed NPRA registration records (product names, dosage forms, approved indications) for the 2 registered products
-- Verify whether the two NPRA registrations correspond to the same formulation (e.g., 5% nail lacquer — Loceryl) or distinct products, as this affects indication scope
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tahan**
+
+**Alasan:**
+Tiada ramalan penggunaan semula TxGNN yang dijana untuk amorolfine hydrochloride, menjadikannya mustahil untuk menilai bukti bagi petunjukan baru. Sebagai tambahan, medan data kritikal — termasuk MOA, amaran keselamatan, kontraindikasi, dan rekod pendaftaran terperinci — hilang, menghalang penilaian keselamatan atau mekanistik yang bermakna.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Jalankan semula saluran ramalan TxGNN untuk mengesahkan sama ada amorolfine hydrochloride muncul sebagai calon untuk sebarang petunjukan (semak normalisasi nama ubat dan pemetaan DrugBank ID)
+- Dapatkan DrugBank ID yang betul untuk mengisi data MOA, ketoksikan, dan interaksi ubat
+- Muat turun dan susun sisipan pakej PDF NPRA/TFDA untuk mengisi amaran utama dan kontraindikasi (kini menghalang penilaian keselamatan S1)
+- Sahkan rekod pendaftaran NPRA terperinci (nama produk, bentuk dos, petunjukan yang diluluskan) untuk 2 produk yang didaftarkan
+- Sahkan sama ada dua pendaftaran NPRA sepadan dengan formulasi yang sama (cth. pernis kuku 5% — Loceryl) atau produk yang berbeza, kerana perkara ini menjejaskan skop petunjukan
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

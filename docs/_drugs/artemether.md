@@ -29,82 +29,83 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Artemether: From Malaria Treatment to Acquired Angioedema
+# Artemether: Dari Rawatan Malaria kepada Angioedema Perolehan
 
-## One-Sentence Summary
+## Ringkasan Satu Ayat
 
-Artemether is a well-established artemisinin-based sesquiterpene lactone endoperoxide, recognised globally as a first-line component of artemisinin-based combination therapy (ACT) for the treatment of malaria, including uncomplicated and severe *Plasmodium falciparum* malaria.
-The TxGNN model predicts it may be effective for **Acquired Angioedema**, with a prediction score of **99.90%**; however, **no clinical trials or supporting publications** have been identified for this specific new indication, rendering the current evidence base insufficient to support clinical translation.
-
----
-
-## Quick Overview
-
-| Item | Content |
-|------|---------|
-| Original Indication | Malaria (artemisinin-based combination therapy, ACT) |
-| Predicted New Indication | Acquired Angioedema |
-| TxGNN Prediction Score | 99.90% |
-| Evidence Level | L5 |
-| Malaysia Market Status | ✓ Marketed |
-| Number of Registrations | 4 |
-| Recommended Decision | Hold |
+Artemether adalah lakton sesquiterpen endoperoksida berbasis artemisinin yang telah mapan, diiktiraf secara global sebagai komponen baris pertama terapi kombinasi berbasis artemisinin (ACT) untuk rawatan malaria, termasuk malaria *Plasmodium falciparum* yang tidak berkomplikasi dan berat.
+Model TxGNN meramalkan ia mungkin berkesan untuk **Angioedema Perolehan**, dengan skor ramalan sebesar **99.90%**; bagaimanapun, **tiada ujian klinikal atau penerbitan sokongan** telah dikenalpasti untuk indikasi baru khusus ini, menjadikan pangkalan bukti semasa tidak mencukupi untuk menyokong aplikasi klinikal.
 
 ---
 
-## Why is This Prediction Reasonable?
+## Tinjauan Ringkas
 
-Currently, detailed mechanism of action data for artemether is not available in the Evidence Pack. Based on established pharmacological knowledge, artemether is an artemisinin derivative activated by ferrous iron (Fe²⁺) within the parasite food vacuole. Cleavage of the endoperoxide bridge generates carbon-centred free radicals and reactive oxygen species (ROS), which alkylate and damage critical parasitic proteins — including PfATP6 (a sarco/endoplasmic reticulum Ca²⁺-ATPase) and heme polymerase — directly killing *Plasmodium falciparum* erythrocytic-stage parasites. This mechanism is tightly coupled to the iron-rich intraparasitic environment and forms the molecular basis of its antimalarial efficacy.
-
-Acquired angioedema is mechanistically distinct: it is primarily caused by deficiency or functional impairment of C1 esterase inhibitor (C1-INH), leading to uncontrolled activation of the contact system, excessive bradykinin generation, and episodic submucosal and subcutaneous oedema. There is no established pharmacological bridge between artemether's known mode of action (iron-dependent ROS generation and parasite protein alkylation) and the C1-INH/bradykinin axis that drives acquired angioedema.
-
-Some in vitro evidence for artemisinin class compounds — not specifically artemether — suggests partial NF-κB inhibitory activity and anti-complement effects, which could theoretically modulate inflammatory cascades. However, these findings remain entirely preclinical, involve different molecular entities, and have not been extended to C1-INH-pathway or bradykinin-system studies. The high TxGNN score (0.9990) most likely reflects over-generalised connectivity between immune and inflammatory nodes within the knowledge graph, rather than a biologically specific mechanistic signal for this indication.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for acquired angioedema.
+| Perkara | Kandungan |
+|--------|-----------|
+| Indikasi Asal | Malaria (terapi kombinasi berbasis artemisinin, ACT) |
+| Indikasi Baru Diramalkan | Angioedema Perolehan |
+| Skor Ramalan TxGNN | 99.90% |
+| Paras Bukti | L5 |
+| Status Pasaran Malaysia | ✓ Terdapat di Pasaran |
+| Bilangan Pendaftaran | 4 |
+| Keputusan yang Disyorkan | Tunggu |
 
 ---
 
-## Literature Evidence
+## Mengapa Ramalan Ini Munasabah?
 
-Currently no related literature available for acquired angioedema.
+Pada masa ini, data mekanisme tindakan terperinci untuk artemether tidak tersedia dalam Pakej Bukti. Berdasarkan pengetahuan farmakologi yang telah ditetapkan, artemether adalah terbitan artemisinin yang diaktifkan oleh besi ferrosa (Fe²⁺) dalam vakuol makanan parasit. Pemisahan jambatan endoperoksida menghasilkan radikal bebas berpusat karbon dan spesies oksigen reaktif (ROS), yang mengalkilasi dan merosakkan protein parasit penting — termasuk PfATP6 (satu sarko/retikulum endoplasmik Ca²⁺-ATPase) dan heme polimerase — membunuh parasit peringkat eritrositik *Plasmodium falciparum* secara langsung. Mekanisme ini dikait erat dengan persekitaran intraparasitik yang kaya besi dan membentuk asas molekul keberkesan antimalarial.
 
----
+Angioedema perolehan secara mekanistik berlainan: ia disebabkan terutamanya oleh kekurangan atau gangguan fungsi penghambat C1 esterase (C1-INH), yang membawa kepada pengaktifan tidak terkawal sistem sentuhan, penghasilan bradikinin berlebihan, dan edema submukosa dan subkutan episodik. Tiada jambatan farmakologi yang ditetapkan wujud antara mod tindakan artemether yang diketahui (penghasilan ROS bergantung besi dan alkilasi protein parasit) dan paksi C1-INH/bradikinin yang mendorong angioedema perolehan.
 
-## Malaysia Market Information
-
-Artemether has **4 registered products** on file with the National Pharmaceutical Regulatory Agency (NPRA) Malaysia. Detailed product information — including product names, dosage forms, manufacturers, and approved indication text — is not available in the current dataset. This information should be retrieved directly from the NPRA product search portal for a complete regulatory assessment.
+Beberapa bukti in vitro untuk sebatian kelas artemisinin — bukan khusus artemether — mencadangkan aktiviti penghambatan NF-κB separa dan kesan anti-pelengkap, yang secara teorinya boleh memodulasi lata-lata peradangan. Bagaimanapun, penemuan ini tetap sepenuhnya praklinikal, melibatkan entiti molekul berlainan, dan belum dipanjangkan ke kajian laluan C1-INH atau sistem bradikinin. Skor TxGNN yang tinggi (0.9990) kemungkinan besar mencerminkan sambungan tergeneralkan berlebihan antara nod imun dan peradangan dalam graf pengetahuan, daripada isyarat mekanistik tertentu secara biologi untuk indikasi ini.
 
 ---
 
-## Safety Considerations
+## Bukti Ujian Klinikal
 
-Please refer to the package insert for safety information.
-
-> Note: Key warnings, contraindications, and drug interaction data were not retrievable from the current data sources (classified as data gaps in this Evidence Pack). It is recommended to obtain the full prescribing information from the NPRA-approved product monograph prior to any clinical planning.
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan untuk angioedema perolehan.
 
 ---
 
-## Conclusion and Next Steps
+## Bukti Kesusasteraan
 
-**Decision: Hold**
+Pada masa ini tiada kesusasteraan berkaitan yang tersedia untuk angioedema perolehan.
 
-**Rationale:**
-Although TxGNN assigns a very high prediction score (99.90%) to acquired angioedema, this confidence is unsupported by any clinical trial data or peer-reviewed literature, and no plausible direct mechanistic link exists between artemether's established pharmacology and the C1-INH/bradykinin-mediated pathophysiology of acquired angioedema. The high score most likely reflects knowledge graph over-generalisation across immune-inflammation nodes, and does not constitute actionable biological evidence.
+---
 
-**To proceed, the following would be needed:**
+## Maklumat Pasaran Malaysia
 
-- **Mechanistic feasibility studies**: In vitro experiments to evaluate artemether's effect on C1-INH activity, bradykinin generation, or contact system activation
-- **Preclinical model data**: Animal studies using C1-INH-deficient models (e.g., *Serping1*-knockout mice) to assess any oedema-modifying activity
-- **Detailed MOA data**: Full DrugBank and literature review for artemether's pharmacology, including any immunomodulatory or anti-complement properties
-- **Safety package**: Package insert warnings, contraindications, and DDI data from NPRA-approved product monograph
-- **Malaysia regulatory detail**: Complete NPRA product registration records (product names, dosage forms, approved indications for all 4 registered products)
-- **Mechanistic rationale refinement**: If in vitro data emerges, a formal mechanistic hypothesis linking artemether to bradykinin or complement pathway modulation must be developed before progressing to human studies
+Artemether mempunyai **4 produk berdaftar** dalam fail dengan Agensi Kawal Selia Farmasi Kebangsaan (NPRA) Malaysia. Maklumat produk terperinci — termasuk nama produk, bentuk dos, pengilang, dan teks indikasi yang diluluskan — tidak tersedia dalam set data semasa. Maklumat ini harus diambil terus daripada portal carian produk NPRA untuk penilaian kawal selia yang lengkap.
 
-> ⚠️ **Disclaimer**: This report is for research reference only and does not constitute medical advice. Drug repurposing candidates require clinical validation before any therapeutic application.
+---
+
+## Pertimbangan Keselamatan
+
+Sila rujuk sisipan bungkusan untuk maklumat keselamatan.
+
+> Nota: Data amaran utama, kontraindikasi, dan interaksi ubat tidak dapat diambil semula daripada sumber data semasa (dikelaskan sebagai jurang data dalam Pakej Bukti ini). Adalah disyorkan untuk mendapatkan maklumat preskripsi penuh daripada monograf produk yang diluluskan NPRA sebelum sebarang perancangan klinikal.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Tunggu**
+
+**Nisbah:**
+Walaupun TxGNN memberikan skor ramalan yang sangat tinggi (99.90%) kepada angioedema perolehan, keyakinan ini tidak disokong oleh sebarang data ujian klinikal atau kesusasteraan semakan sebaya, dan tiada pautan mekanistik langsung yang munasabah wujud antara farmakologi artemether yang ditetapkan dan patofisiologi angioedema perolehan yang disederhanakan C1-INH/bradikinin. Skor yang tinggi kemungkinan besar mencerminkan tergeneralkan berlebihan graf pengetahuan merentas nod imun-peradangan, dan tidak membentuk bukti biologi yang dapat dijadikan asas tindakan.
+
+**Untuk meneruskan, perkara berikut akan diperlukan:**
+
+- **Kajian kebolehlaksanaan mekanistik**: Eksperimen in vitro untuk menilai kesan artemether terhadap aktiviti C1-INH, penghasilan bradikinin, atau pengaktifan sistem sentuhan
+- **Data model praklinikal**: Kajian haiwan menggunakan model kekurangan C1-INH (cth., tikus *Serping1*-knockout) untuk menilai sebarang aktiviti pengubah-edema
+- **Data MOA terperinci**: Semakan DrugBank dan kesusasteraan penuh untuk farmakologi artemether, termasuk sebarang sifat imunomodul atau anti-pelengkap
+- **Pakej keselamatan**: Amaran sisipan bungkusan, kontraindikasi, dan data DDI daripada monograf produk yang diluluskan NPRA
+- **Butiran kawal selia Malaysia**: Rekod pendaftaran produk NPRA lengkap (nama produk, bentuk dos, indikasi yang diluluskan untuk semua 4 produk berdaftar)
+- **Pemurnian nisbah mekanistik**: Jika data in vitro muncul, hipotesis mekanistik formal yang menghubungkan artemether kepada bradikinin atau modulasi laluan pelengkap mesti dibangunkan sebelum beralih kepada kajian manusia
+
+> ⚠️ **Penafian**: Laporan ini adalah untuk rujukan penyelidikan sahaja dan tidak membentuk nasihat perubatan. Calon ubat untuk indikasi baru memerlukan pengesahan klinikal sebelum sebarang aplikasi terapeutik.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
