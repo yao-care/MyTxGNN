@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-20T22:58:45.907293",
+  "fetched": "2026-09-21T00:58:23.403953",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 13,
   "items": [
     {
       "title": "Enforce Boundary Between Optometry And Medical Eye Care — MSO & MMA",
@@ -108,6 +108,16 @@
         "doctor",
         "patient",
         "hospital"
+      ]
+    },
+    {
+      "title": "Haze update: 21 areas across Malaysia at ‘Unhealthy’ pollution levels",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/21/haze-update-21-areas-across-malaysia-at-unhealthy-pollution-levels/235916",
+      "source": "Malay Mail",
+      "published": "2026-09-21T00:47:17",
+      "summary": "KUALA LUMPUR, Sept 21: A total of 21 air quality monitoring stations nationwide recorded “Unhealthy” Air Pol...",
+      "keywords_matched": [
+        "health"
       ]
     },
     {
