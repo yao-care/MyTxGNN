@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-22T01:33:29.543073",
+  "fetched": "2026-09-22T07:18:26.330512",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,36 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 10,
   "items": [
+    {
+      "title": "RSV Vaccines Work, But Older Malaysians Are Being Left Behind — Dr Musa Mohd Nordin & Dr Ahmad Faizal Mohd Perdaus",
+      "url": "https://codeblue.galencentre.org/2026/09/rsv-vaccines-work-but-older-malaysians-are-being-left-behind-dr-musa-mohd-nordin-dr-ahmad-faizal-mohd-perdaus/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-09-22T05:30:00",
+      "summary": "For an elderly Malaysian living with heart disease, COPD, or diabetes, an RSV infection is rarely \"just a cold\": it is often the silent trigger for severe respiratory distress, ICU admission, and loss of independence. The post RSV Vaccines Work, But Older Malaysians Are Being Left Behind — Dr Musa Mohd Nordin & Dr Ahmad Faizal Mohd Perdaus appeared first on CodeBlue .",
+      "keywords_matched": [
+        "disease",
+        "diabetes",
+        "vaccine"
+      ]
+    },
+    {
+      "title": "Mandate Free Drinking Water In Class A Malls, Transit Stations — Logkesh Shanmuga Vivekananda",
+      "url": "https://codeblue.galencentre.org/2026/09/mandate-free-drinking-water-in-class-a-malls-transit-stations-logkesh-shanmuga-vivekananda/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-09-22T03:30:00",
+      "summary": "Why does Malaysia, a progressive and developed country, still have no app, no map, and no infrastructure to find water dispensers? The post Mandate Free Drinking Water In Class A Malls, Transit Stations — Logkesh Shanmuga Vivekananda appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "Specialist Training In Malaysia: A Framework For Meaningful Reform — Dr Vicknes Waran",
+      "url": "https://codeblue.galencentre.org/2026/09/specialist-training-in-malaysia-a-framework-for-meaningful-reform/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-09-22T02:00:00",
+      "summary": "Ultimately, specialist training exists to produce competent specialists capable of providing safe, effective, and compassionate care. The post Specialist Training In Malaysia: A Framework For Meaningful Reform — Dr Vicknes Waran appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Ex-UMMC Radiographer Plans To Sue, Seeks Other Staff With Cancer, Thyroid Problems",
       "url": "https://codeblue.galencentre.org/2026/09/ex-ummc-radiographer-plans-to-sue-seeks-other-staff-with-cancer-thyroid-problems/",
@@ -84,43 +112,6 @@
       "published": "2026-09-18T06:00:00",
       "summary": "When mothers receive the Tdap vaccination during pregnancy, their bodies produce antibodies that are passed on to the foetus, which will protect the newborns during the first few months of life. The post ‘I Got My Tdap Immunisation To Protect My Baby From The Start’ appeared first on CodeBlue .",
       "keywords_matched": []
-    },
-    {
-      "title": "Second Red-Bellied Piranha Caught In Klau River: Group",
-      "url": "https://codeblue.galencentre.org/2026/09/second-red-bellied-piranha-caught-in-klau-river-group/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-18T04:35:53",
-      "summary": "Jejak Air Tawar announces the second catch of a red-bellied piranha (Pygocentrus nattereri) in Klau River in Raub, after a specimen was first discovered last August. Red-bellied piranha have razor-sharp teeth. DOF previously couldn't confirm a population. The post Second Red-Bellied Piranha Caught In Klau River: Group appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Philip Morris Visits Perlis Mufti, Touts ‘Safer’ Cigarettes",
-      "url": "https://codeblue.galencentre.org/2026/09/philip-morris-visits-perlis-mufti-touts-safer-cigarettes/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-18T03:32:46",
-      "summary": "Philip Morris Malaysia and economist Muhammed Abdul Khalid met with Perlis Mufti Dr Maza yesterday. The tobacco giant touted \"safer\" alternatives to conventional cigarettes. The mufti says a product can be considered halal if side effects are controllable. The post Philip Morris Visits Perlis Mufti, Touts ‘Safer’ Cigarettes appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Specialist Training In Malaysia: Time For An Honest Diagnosis And Meaningful Reform — Dr Vicknes Waran",
-      "url": "https://codeblue.galencentre.org/2026/09/specialist-training-in-malaysia-time-for-an-honest-diagnosis-and-meaningful-reform/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-18T02:00:00",
-      "summary": "Every policy governing specialist training should be judged by one simple question: does it produce better specialists for the patients we serve? The post Specialist Training In Malaysia: Time For An Honest Diagnosis And Meaningful Reform — Dr Vicknes Waran appeared first on CodeBlue .",
-      "keywords_matched": [
-        "patient"
-      ]
-    },
-    {
-      "title": "MOH moves on compensation for Sarawak helicopter crash victims’ families, flying doctor service stays grounded",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/21/moh-moves-on-compensation-for-sarawak-helicopter-crash-victims-families-flying-doctor-service-stays-grounded/236027",
-      "source": "Malay Mail",
-      "published": "2026-09-21T11:37:49",
-      "summary": "TAIPING, Sept 21 — The Ministry of Health (MOH) is collaborating with the Public Service Department’s (PSD)...",
-      "keywords_matched": [
-        "health",
-        "doctor"
-      ]
     }
   ]
 }
