@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-22T07:18:26.330512",
+  "fetched": "2026-09-22T13:05:32.751890",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 11,
   "items": [
     {
       "title": "RSV Vaccines Work, But Older Malaysians Are Being Left Behind — Dr Musa Mohd Nordin & Dr Ahmad Faizal Mohd Perdaus",
@@ -112,6 +112,16 @@
       "published": "2026-09-18T06:00:00",
       "summary": "When mothers receive the Tdap vaccination during pregnancy, their bodies produce antibodies that are passed on to the foetus, which will protect the newborns during the first few months of life. The post ‘I Got My Tdap Immunisation To Protect My Baby From The Start’ appeared first on CodeBlue .",
       "keywords_matched": []
+    },
+    {
+      "title": "No drug arrests for a week? Kelantan police chief says two station heads get reprimand letters",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/22/no-drug-arrests-for-a-week-kelantan-police-chief-says-two-station-heads-get-reprimand-letters/236098",
+      "source": "Malay Mail",
+      "published": "2026-09-22T07:31:49",
+      "summary": "KOTA BHARU, Sept 22 — Two police station chiefs (OCSs) in Kelantan have received reprimand letters after they fail...",
+      "keywords_matched": [
+        "drug"
+      ]
     }
   ]
 }
