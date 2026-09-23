@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-23T03:21:38.157845",
+  "fetched": "2026-09-23T09:04:31.017278",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,16 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
+    {
+      "title": "Budget 2027: Raise Tobacco Tax, Ban Nicotine Vape, Restore GEG — MyWatch",
+      "url": "https://codeblue.galencentre.org/2026/09/budget-2027-raise-tobacco-tax-ban-nicotine-vape-restore-geg-mywatch/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-09-23T03:30:00",
+      "summary": "Nicotine is highly addictive, and protecting children and adolescents from nicotine dependence must take precedence over commercial interests and tax revenue. The post Budget 2027: Raise Tobacco Tax, Ban Nicotine Vape, Restore GEG — MyWatch appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Unimas Defends Internal Medicine Programme Amid Lack Of Protected Time",
       "url": "https://codeblue.galencentre.org/2026/09/unimas-defends-internal-medicine-programme-amid-lack-of-protected-time/",
@@ -107,35 +115,13 @@
       ]
     },
     {
-      "title": "Enforce Boundary Between Optometry And Medical Eye Care — MSO & MMA",
-      "url": "https://codeblue.galencentre.org/2026/09/enforce-boundary-between-optometry-and-medical-eye-care-mso-mma/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-18T07:00:00",
-      "summary": "MSO and MMA demand clear boundaries between optometric screening and medical diagnosis, saying optometrists aren't trained in clinical practice. But some optometry outlets are now using AI-assisted tools and medical devices to make diagnostic assessments. The post Enforce Boundary Between Optometry And Medical Eye Care — MSO & MMA appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medical",
-        "clinical"
-      ]
-    },
-    {
-      "title": "Haze worsens: Two Sarawak areas hit ‘very unhealthy’ API levels, Kanowit at 244, Lubok Antu at 205",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/23/haze-worsens-two-sarawak-areas-hit-very-unhealthy-api-levels-kanowit-at-244-lubok-antu-at-205/236175",
+      "title": "Haze eases in Lubok Antu, but Kanowit air remains ‘very unhealthy’ at midday",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/23/haze-eases-in-lubok-antu-but-kanowit-air-remains-very-unhealthy-at-midday/236221",
       "source": "Malay Mail",
-      "published": "2026-09-23T01:28:26",
-      "summary": "KUCHING, Sept 23 — Kanowit and Lubok Antu recorded very unhealthy air pollutant index (API) readings this morning,...",
+      "published": "2026-09-23T05:32:21",
+      "summary": "KUCHING, Sept 23 — Lubok Antu moved out of the very unhealthy category by noon today after its Air Pollutant Index...",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "Tribunal orders former director of a Sabah hospital to apologise, pay RM10,000 over sexual harassment complaint",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/23/tribunal-orders-former-director-of-a-sabah-hospital-to-apologise-pay-rm10000-over-sexual-harassment-complaint/236170",
-      "source": "Malay Mail",
-      "published": "2026-09-23T01:18:33",
-      "summary": "KOTA KINABALU, Sept 23 — A former Sabah hospital director has been ordered by the Tribunal for Anti-Sexual Harassm...",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
       ]
     }
   ]
