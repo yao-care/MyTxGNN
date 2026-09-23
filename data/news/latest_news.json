@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-23T09:04:31.017278",
+  "fetched": "2026-09-23T14:40:36.660122",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 10,
   "items": [
     {
       "title": "Budget 2027: Raise Tobacco Tax, Ban Nicotine Vape, Restore GEG — MyWatch",
@@ -112,16 +112,6 @@
         "hospital",
         "doctor",
         "hospital"
-      ]
-    },
-    {
-      "title": "Haze eases in Lubok Antu, but Kanowit air remains ‘very unhealthy’ at midday",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/23/haze-eases-in-lubok-antu-but-kanowit-air-remains-very-unhealthy-at-midday/236221",
-      "source": "Malay Mail",
-      "published": "2026-09-23T05:32:21",
-      "summary": "KUCHING, Sept 23 — Lubok Antu moved out of the very unhealthy category by noon today after its Air Pollutant Index...",
-      "keywords_matched": [
-        "health"
       ]
     }
   ]
