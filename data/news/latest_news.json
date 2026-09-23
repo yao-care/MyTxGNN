@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-22T23:33:45.825713",
+  "fetched": "2026-09-23T03:21:38.157845",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,20 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
+    {
+      "title": "Unimas Defends Internal Medicine Programme Amid Lack Of Protected Time",
+      "url": "https://codeblue.galencentre.org/2026/09/unimas-defends-internal-medicine-programme-amid-lack-of-protected-time/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-09-23T02:00:00",
+      "summary": "Unimas’ medical faculty says clinical duties are part of postgraduate training, after an internal medicine trainee complained about being denied protected time for classes and exams. The medical officer also claimed that academic leave included MC and EL. The post Unimas Defends Internal Medicine Programme Amid Lack Of Protected Time appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical",
+        "medicine",
+        "clinical"
+      ]
+    },
     {
       "title": "RSV Vaccines Work, But Older Malaysians Are Being Left Behind — Dr Musa Mohd Nordin & Dr Ahmad Faizal Mohd Perdaus",
       "url": "https://codeblue.galencentre.org/2026/09/rsv-vaccines-work-but-older-malaysians-are-being-left-behind-dr-musa-mohd-nordin-dr-ahmad-faizal-mohd-perdaus/",
@@ -106,21 +118,24 @@
       ]
     },
     {
-      "title": "‘I Got My Tdap Immunisation To Protect My Baby From The Start’",
-      "url": "https://codeblue.galencentre.org/2026/09/i-got-my-tdap-immunisation-to-protect-my-baby-from-the-start/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-18T06:00:00",
-      "summary": "When mothers receive the Tdap vaccination during pregnancy, their bodies produce antibodies that are passed on to the foetus, which will protect the newborns during the first few months of life. The post ‘I Got My Tdap Immunisation To Protect My Baby From The Start’ appeared first on CodeBlue .",
-      "keywords_matched": []
+      "title": "Haze worsens: Two Sarawak areas hit ‘very unhealthy’ API levels, Kanowit at 244, Lubok Antu at 205",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/23/haze-worsens-two-sarawak-areas-hit-very-unhealthy-api-levels-kanowit-at-244-lubok-antu-at-205/236175",
+      "source": "Malay Mail",
+      "published": "2026-09-23T01:28:26",
+      "summary": "KUCHING, Sept 23 — Kanowit and Lubok Antu recorded very unhealthy air pollutant index (API) readings this morning,...",
+      "keywords_matched": [
+        "health"
+      ]
     },
     {
-      "title": "No drug arrests for a week? Kelantan police chief says two station heads get reprimand letters",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/22/no-drug-arrests-for-a-week-kelantan-police-chief-says-two-station-heads-get-reprimand-letters/236098",
+      "title": "Tribunal orders former director of a Sabah hospital to apologise, pay RM10,000 over sexual harassment complaint",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/23/tribunal-orders-former-director-of-a-sabah-hospital-to-apologise-pay-rm10000-over-sexual-harassment-complaint/236170",
       "source": "Malay Mail",
-      "published": "2026-09-22T07:31:49",
-      "summary": "KOTA BHARU, Sept 22 — Two police station chiefs (OCSs) in Kelantan have received reprimand letters after they fail...",
+      "published": "2026-09-23T01:18:33",
+      "summary": "KOTA KINABALU, Sept 23 — A former Sabah hospital director has been ordered by the Tribunal for Anti-Sexual Harassm...",
       "keywords_matched": [
-        "drug"
+        "hospital",
+        "hospital"
       ]
     }
   ]
