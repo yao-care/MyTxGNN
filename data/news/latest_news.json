@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-24T07:11:22.491036",
+  "fetched": "2026-09-24T13:12:26.580605",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
     {
       "title": "National Health Insurance Is Ideal, But Are We Ready To Pay For It? — David Lim",
@@ -112,23 +112,11 @@
       ]
     },
     {
-      "title": "Private hospitals urge government to boost MMC and healthcare watchdog in Budget 2027",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/24/private-hospitals-urge-government-to-boost-mmc-and-healthcare-watchdog-in-budget-2027/236300",
+      "title": "Air quality dips in Sarawak with nine areas unhealthy, Melaka also affected",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/24/air-quality-dips-in-sarawak-with-nine-areas-unhealthy-melaka-also-affected/236364",
       "source": "Malay Mail",
-      "published": "2026-09-24T02:06:50",
-      "summary": "KUALA LUMPUR, Sept 24 — The Association of Private Hospitals Malaysia (APHM) has urged the government to increase...",
-      "keywords_matched": [
-        "health",
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Sarawak haze map darkens with Lundu’s sharp rise, Serian and Kanowit still choking",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/24/sarawak-haze-map-darkens-with-lundus-sharp-rise-serian-and-kanowit-still-choking/236286",
-      "source": "Malay Mail",
-      "published": "2026-09-24T01:03:25",
-      "summary": "KUCHING, Sept 24 — Air quality in Lundu deteriorated to the ‘Very Unhealthy’ level this morning, joini...",
+      "published": "2026-09-24T09:14:47",
+      "summary": "KUALA LUMPUR, Sept 24 — A total of nine areas in Sarawak recorded Air Pollutant Index (API) readings at unhealthy...",
       "keywords_matched": [
         "health"
       ]
