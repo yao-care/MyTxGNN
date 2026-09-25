@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-25T05:48:42.381950",
+  "fetched": "2026-09-25T11:09:42.209064",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,39 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 11,
   "items": [
+    {
+      "title": "Sunway Medical Centre Named Malaysia’s No 1 In Paediatrics In Newsweek’s World’s Best Specialised Hospitals 2027",
+      "url": "https://codeblue.galencentre.org/2026/09/sunway-medical-centre-named-malaysias-no-1-in-paediatrics-in-newsweeks-worlds-best-specialised-hospitals-2027/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-09-25T08:59:27",
+      "summary": "The ranking places SMC among leading hospitals worldwide as part of a global ranking covering across 13 medical specialities, including Mayo Clinic, Cleveland Clinic, and Johns Hopkins Hospital. The post Sunway Medical Centre Named Malaysia’s No 1 In Paediatrics In Newsweek’s World’s Best Specialised Hospitals 2027 appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical",
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
+      "title": "Global Partnerships In Malaysian Nursing: Contributing To The Sustainable Development Goals — Mohammad Irwan Hakeem Mohd Arif",
+      "url": "https://codeblue.galencentre.org/2026/09/global-partnerships-in-malaysian-nursing-contributing-to-the-sustainable-development-goals-mohammad-irwan-hakeem-mohd-arif/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-09-25T08:03:53",
+      "summary": "Through sustained global partnerships, Malaysian nursing can contribute to the achievement of the SDGs while strengthening its role within the global nursing community. The post Global Partnerships In Malaysian Nursing: Contributing To The Sustainable Development Goals — Mohammad Irwan Hakeem Mohd Arif appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "Health Care Is More Than A Question Of Who Pays — David Lim",
+      "url": "https://codeblue.galencentre.org/2026/09/health-care-is-more-than-a-question-of-who-pays-david-lim/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-09-25T06:00:00",
+      "summary": "Health care is a question of how many people need treatment, how early they seek it, where they receive it, and whether the system gives them reasons to make better choices before they become seriously ill. The post Health Care Is More Than A Question Of Who Pays — David Lim appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "treatment"
+      ]
+    },
     {
       "title": "Restore Jury System In Malaysia For Capital Offences",
       "url": "https://codeblue.galencentre.org/2026/09/restore-jury-system-in-malaysia-for-capital-offences/",
@@ -82,61 +113,13 @@
       ]
     },
     {
-      "title": "Mandate Free Drinking Water In Class A Malls, Transit Stations — Logkesh Shanmuga Vivekananda",
-      "url": "https://codeblue.galencentre.org/2026/09/mandate-free-drinking-water-in-class-a-malls-transit-stations-logkesh-shanmuga-vivekananda/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-22T03:30:00",
-      "summary": "Why does Malaysia, a progressive and developed country, still have no app, no map, and no infrastructure to find water dispensers? The post Mandate Free Drinking Water In Class A Malls, Transit Stations — Logkesh Shanmuga Vivekananda appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Specialist Training In Malaysia: A Framework For Meaningful Reform — Dr Vicknes Waran",
-      "url": "https://codeblue.galencentre.org/2026/09/specialist-training-in-malaysia-a-framework-for-meaningful-reform/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-22T02:00:00",
-      "summary": "Ultimately, specialist training exists to produce competent specialists capable of providing safe, effective, and compassionate care. The post Specialist Training In Malaysia: A Framework For Meaningful Reform — Dr Vicknes Waran appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Ex-UMMC Radiographer Plans To Sue, Seeks Other Staff With Cancer, Thyroid Problems",
-      "url": "https://codeblue.galencentre.org/2026/09/ex-ummc-radiographer-plans-to-sue-seeks-other-staff-with-cancer-thyroid-problems/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-21T08:10:58",
-      "summary": "Former UMMC radiographer Fauzia plans to sue the hospital over alleged radiation safety breaches after failed engagement efforts. Her lawyers are seeking other workers with similar cancer problems and want UMMC to disclose radiation equipment procurement. The post Ex-UMMC Radiographer Plans To Sue, Seeks Other Staff With Cancer, Thyroid Problems appeared first on CodeBlue .",
-      "keywords_matched": [
-        "cancer",
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "‘Suspicion cannot take the place of proof’: BFM ordered to pay ex-presenter RM358,400 over 2019 dismissal",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/25/suspicion-cannot-take-the-place-of-proof-bfm-ordered-to-pay-ex-presenter-rm358400-over-2019-dismissal/236463",
+      "title": "In Johor, Indonesian teen charged with trafficking over 25kg of illicit drugs",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/25/in-johor-indonesian-teen-charged-with-trafficking-over-25kg-of-illicit-drugs/236483",
       "source": "Malay Mail",
-      "published": "2026-09-25T05:30:22",
-      "summary": "KUALA LUMPUR, Sept 25 — The Industrial Court has ordered BFM Media Sdn Bhd to pay former producer and presenter Um...",
+      "published": "2026-09-25T08:04:46",
+      "summary": "KLUANG, Sept 25 — A 19-year-old Indonesian male teenager was charged at the Magistrates’ Court here today wi...",
       "keywords_matched": [
-        "trial"
-      ]
-    },
-    {
-      "title": "Immigration busts Indonesians making RM50,000 monthly via illegal beauty treatments",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/25/immigration-busts-indonesians-making-rm50000-monthly-via-illegal-beauty-treatments/236462",
-      "source": "Malay Mail",
-      "published": "2026-09-25T05:24:00",
-      "summary": "PUTRAJAYA, Sept 25 — The Immigration Department (JIM) detained seven Indonesian nationals believed to be working a...",
-      "keywords_matched": [
-        "treatment"
-      ]
-    },
-    {
-      "title": "Sarawak’s Serian, Kuching, Samarahan and Sri Aman see ‘Unhealthy’ API levels",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/25/sarawaks-serian-kuching-samarahan-and-sri-aman-see-unhealthy-api-levels/236433",
-      "source": "Malay Mail",
-      "published": "2026-09-25T02:53:38",
-      "summary": "KUALA LUMPUR, Sept 25 — Four areas in Sarawak recorded Air Pollutant Index (API) readings at the unhealthy level a...",
-      "keywords_matched": [
-        "health"
+        "drug"
       ]
     }
   ]
