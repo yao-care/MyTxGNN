@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-24T21:57:28.633582",
+  "fetched": "2026-09-25T00:21:15.263383",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
     {
       "title": "National Health Insurance Is Ideal, But Are We Ready To Pay For It? — David Lim",
@@ -109,6 +109,16 @@
       "keywords_matched": [
         "health",
         "clinical"
+      ]
+    },
+    {
+      "title": "Haze doesn’t just hurt your lungs: Experts warn of hidden damage to skin, scalp and eyes",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/25/newsmalaysia20260922haze-doesnt-just-hurt-your-lungs-experts-warn-of-hidden-damage-to-skin-scalp-and-eyes236146/236146",
+      "source": "Malay Mail",
+      "published": "2026-09-24T23:00:00",
+      "summary": "KUALA LUMPUR, Sept 25 — While public health warnings during haze episodes typically focus on respiratory health, m...",
+      "keywords_matched": [
+        "health"
       ]
     },
     {
