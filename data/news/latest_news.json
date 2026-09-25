@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-25T00:21:15.263383",
+  "fetched": "2026-09-25T05:48:42.381950",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,28 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 13,
   "items": [
+    {
+      "title": "Restore Jury System In Malaysia For Capital Offences",
+      "url": "https://codeblue.galencentre.org/2026/09/restore-jury-system-in-malaysia-for-capital-offences/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-09-25T03:45:00",
+      "summary": "The High Court made a mistake by acquitting the killer in the BU school stabbing of murder. The psychiatric evidence, as detailed in the written judgement, is questionable. Malaysia should restore juries, requiring unanimous verdicts for capital offences. The post Restore Jury System In Malaysia For Capital Offences appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "Taiping Hospital Medical Officers Still Awaiting Promotions Due Last Year",
+      "url": "https://codeblue.galencentre.org/2026/09/taiping-hospital-medical-officers-still-awaiting-promotions-due-last-year/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-09-25T02:00:00",
+      "summary": "Some 40 to 50 Taiping Hospital MOs due for promotion to UD48/UD12 in October 2025 have yet to be promoted, with their applications only submitted to JPA last July. Promotions are now expected only around June/July 2027, about two years after they were due. The post Taiping Hospital Medical Officers Still Awaiting Promotions Due Last Year appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical",
+        "hospital",
+        "hospital"
+      ]
+    },
     {
       "title": "National Health Insurance Is Ideal, But Are We Ready To Pay For It? — David Lim",
       "url": "https://codeblue.galencentre.org/2026/09/national-health-insurance-is-ideal-but-are-we-ready-to-pay-for-it-david-lim/",
@@ -90,43 +110,31 @@
       ]
     },
     {
-      "title": "MMA Calls For Tougher Enforcement On Illegal Clinics — MMA",
-      "url": "https://codeblue.galencentre.org/2026/09/mma-calls-for-tougher-enforcement-on-illegal-clinics-mma/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-21T07:26:49",
-      "summary": "Treatment from unqualified individuals or illegal clinics may appear cheaper, but unsafe treatment can result in serious health and financial consequences. The post MMA Calls For Tougher Enforcement On Illegal Clinics — MMA appeared first on CodeBlue .",
+      "title": "‘Suspicion cannot take the place of proof’: BFM ordered to pay ex-presenter RM358,400 over 2019 dismissal",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/25/suspicion-cannot-take-the-place-of-proof-bfm-ordered-to-pay-ex-presenter-rm358400-over-2019-dismissal/236463",
+      "source": "Malay Mail",
+      "published": "2026-09-25T05:30:22",
+      "summary": "KUALA LUMPUR, Sept 25 — The Industrial Court has ordered BFM Media Sdn Bhd to pay former producer and presenter Um...",
       "keywords_matched": [
-        "health",
+        "trial"
+      ]
+    },
+    {
+      "title": "Immigration busts Indonesians making RM50,000 monthly via illegal beauty treatments",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/25/immigration-busts-indonesians-making-rm50000-monthly-via-illegal-beauty-treatments/236462",
+      "source": "Malay Mail",
+      "published": "2026-09-25T05:24:00",
+      "summary": "PUTRAJAYA, Sept 25 — The Immigration Department (JIM) detained seven Indonesian nationals believed to be working a...",
+      "keywords_matched": [
         "treatment"
       ]
     },
     {
-      "title": "When Will We Start Taking Mental Health Seriously? — Sitra Panirsheeluam",
-      "url": "https://codeblue.galencentre.org/2026/09/when-will-we-start-taking-mental-health-seriously-sitra-panirsheeluam/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-21T06:00:00",
-      "summary": "When a psychiatrist concludes that an individual has a serious mental disorder, that conclusion is not made simply to protect the individual from legal consequences. It is a clinical opinion based on the person’s condition. The post When Will We Start Taking Mental Health Seriously? — Sitra Panirsheeluam appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "clinical"
-      ]
-    },
-    {
-      "title": "Haze doesn’t just hurt your lungs: Experts warn of hidden damage to skin, scalp and eyes",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/25/newsmalaysia20260922haze-doesnt-just-hurt-your-lungs-experts-warn-of-hidden-damage-to-skin-scalp-and-eyes236146/236146",
+      "title": "Sarawak’s Serian, Kuching, Samarahan and Sri Aman see ‘Unhealthy’ API levels",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/25/sarawaks-serian-kuching-samarahan-and-sri-aman-see-unhealthy-api-levels/236433",
       "source": "Malay Mail",
-      "published": "2026-09-24T23:00:00",
-      "summary": "KUALA LUMPUR, Sept 25 — While public health warnings during haze episodes typically focus on respiratory health, m...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Air quality dips in Sarawak with nine areas unhealthy, Melaka also affected",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/24/air-quality-dips-in-sarawak-with-nine-areas-unhealthy-melaka-also-affected/236364",
-      "source": "Malay Mail",
-      "published": "2026-09-24T09:14:47",
-      "summary": "KUALA LUMPUR, Sept 24 — A total of nine areas in Sarawak recorded Air Pollutant Index (API) readings at unhealthy...",
+      "published": "2026-09-25T02:53:38",
+      "summary": "KUALA LUMPUR, Sept 25 — Four areas in Sarawak recorded Air Pollutant Index (API) readings at the unhealthy level a...",
       "keywords_matched": [
         "health"
       ]
