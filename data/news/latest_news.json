@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-26T09:06:23.183730",
+  "fetched": "2026-09-26T14:05:55.228953",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 10,
   "items": [
     {
       "title": "Sunway Medical Centre Named Malaysia’s No 1 In Paediatrics In Newsweek’s World’s Best Specialised Hospitals 2027",
@@ -110,27 +110,6 @@
         "disease",
         "diabetes",
         "vaccine"
-      ]
-    },
-    {
-      "title": "Over 86pc of Perlis patients seen within an hour under digital medical record pilot, says Fahmi",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/26/over-86pc-of-perlis-patients-seen-within-an-hour-under-digital-medical-record-pilot-says-fahmi/236615",
-      "source": "Malay Mail",
-      "published": "2026-09-26T07:06:22",
-      "summary": "PADANG BESAR, Sept 26 — The pilot Electronic Medical Record (EMR) system implemented under the National Digital He...",
-      "keywords_matched": [
-        "medical",
-        "patient"
-      ]
-    },
-    {
-      "title": "Fahmi: Govt to cover postal delivery costs for medicines from Oct 1 under MCMC-MOH initiative",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/26/fahmi-govt-to-cover-postal-delivery-costs-for-medicines-from-oct-1-under-mcmc-moh-initiative/236604",
-      "source": "Malay Mail",
-      "published": "2026-09-26T06:28:40",
-      "summary": "PADANG BESAR, Sept 26 — The Communications Ministry, through the Malaysian Communications and Multimedia Commissio...",
-      "keywords_matched": [
-        "medicine"
       ]
     }
   ]
