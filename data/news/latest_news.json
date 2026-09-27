@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-27T00:13:48.300746",
+  "fetched": "2026-09-27T06:12:45.215486",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 11,
   "items": [
     {
       "title": "Sunway Medical Centre Named Malaysia’s No 1 In Paediatrics In Newsweek’s World’s Best Specialised Hospitals 2027",
@@ -110,6 +110,16 @@
         "disease",
         "diabetes",
         "vaccine"
+      ]
+    },
+    {
+      "title": "Haze watch: Johor overtakes Sarawak on unhealthy air quality as Kota Tinggi hits 165, while Serian 152",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/27/haze-watch-johor-overtakes-sarawak-on-unhealthy-air-quality-as-kota-tinggi-hits-165-while-serian-152/236685",
+      "source": "Malay Mail",
+      "published": "2026-09-27T02:11:26",
+      "summary": "KUALA LUMPUR, Sept 27 — Six areas recorded unhealthy Air Pollutant Index (API) readings as of 9 am today.According...",
+      "keywords_matched": [
+        "health"
       ]
     }
   ]
