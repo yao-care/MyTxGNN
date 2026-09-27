@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-27T06:12:45.215486",
+  "fetched": "2026-09-27T12:44:35.225814",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
     {
       "title": "Sunway Medical Centre Named Malaysia’s No 1 In Paediatrics In Newsweek’s World’s Best Specialised Hospitals 2027",
@@ -113,11 +113,21 @@
       ]
     },
     {
-      "title": "Haze watch: Johor overtakes Sarawak on unhealthy air quality as Kota Tinggi hits 165, while Serian 152",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/27/haze-watch-johor-overtakes-sarawak-on-unhealthy-air-quality-as-kota-tinggi-hits-165-while-serian-152/236685",
+      "title": "Man dies of rabies in Kedah’s first human case in 28 years",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/27/man-dies-of-rabies-in-kedahs-first-human-case-in-28-years/236793",
       "source": "Malay Mail",
-      "published": "2026-09-27T02:11:26",
-      "summary": "KUALA LUMPUR, Sept 27 — Six areas recorded unhealthy Air Pollutant Index (API) readings as of 9 am today.According...",
+      "published": "2026-09-27T12:16:49",
+      "summary": "ALOR SETAR, Sept 27 — The State Health Department (JKN) of Kedah has reported the state’s first human rabies...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Evening haze: Unhealthy air quality in five areas nationwide, Johor accounts for four and Sarawak one",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/27/evening-haze-unhealthy-air-quality-in-five-areas-nationwide-johor-accounts-for-four-and-sarawak-one/236761",
+      "source": "Malay Mail",
+      "published": "2026-09-27T09:05:05",
+      "summary": "KUALA LUMPUR, Sept 27 — Five areas, four in Johor and one in Sarawak, recorded Air Pollutant Index (API) readings...",
       "keywords_matched": [
         "health"
       ]
