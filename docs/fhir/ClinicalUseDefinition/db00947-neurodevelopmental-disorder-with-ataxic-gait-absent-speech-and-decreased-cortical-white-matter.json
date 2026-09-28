@@ -1,0 +1,27 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "db00947-neurodevelopmental-disorder-with-ataxic-gait-absent-speech-and-decreased-cortical-white-matter",
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/db00947"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "text": "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/source",
+      "valueString": "TxGNN Knowledge Graph"
+    }
+  ]
+}

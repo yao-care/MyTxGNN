@@ -1,0 +1,27 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "db00161-resistance-to-thyroid-hormone-due-to-a-mutation-in-thyroid-hormone-receptor-beta",
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/db00161"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "text": "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/source",
+      "valueString": "TxGNN Knowledge Graph"
+    }
+  ]
+}
