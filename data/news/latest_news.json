@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-28T03:41:22.926075",
+  "fetched": "2026-09-28T10:33:50.953185",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,41 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 12,
   "items": [
+    {
+      "title": "The Silent Surge: Why Malaysians Keep Postponing Health Screening — Brittany Richard Johny & Kala Raani Chandra Guindan",
+      "url": "https://codeblue.galencentre.org/2026/09/the-silent-surge-why-malaysians-keep-postponing-health-screening-brittany-richard-johny-kala-raani-chandra-guindan/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-09-28T08:00:00",
+      "summary": "According to NHMS 2023, 15.6 per cent of Malaysian adults are living with diabetes, 29.2 per cent with hypertension, and 33.3 per cent with high cholesterol. The post The Silent Surge: Why Malaysians Keep Postponing Health Screening — Brittany Richard Johny & Kala Raani Chandra Guindan appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "diabetes"
+      ]
+    },
+    {
+      "title": "Siti Hasmah Represented Finest Traditions Of Medicine — MMA",
+      "url": "https://codeblue.galencentre.org/2026/09/siti-hasmah-represented-finest-traditions-of-medicine-mma/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-09-28T07:25:16",
+      "summary": "Dr Siti Hasmah remained deeply committed to the MMA and maintained close ties with her colleagues and alumni in the medical fraternity throughout her life. The medical fraternity lost one of its most distinguished pioneers. The post Siti Hasmah Represented Finest Traditions Of Medicine — MMA appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical",
+        "medicine"
+      ]
+    },
+    {
+      "title": "Siti Hasmah Pioneered Public Health, Maternal And Child Health: Dzulkefly",
+      "url": "https://codeblue.galencentre.org/2026/09/siti-hasmah-pioneered-public-health-maternal-and-child-health-dzulkefly/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-09-28T04:38:54",
+      "summary": "Dr Siti Hasmah from the Class of 1947 at King Edward VII College of Medicine was a pioneer in the development of public health, particularly maternal and child health. In a 1982 reunion, she spoke about her batch's achievements, including outside medicine. The post Siti Hasmah Pioneered Public Health, Maternal And Child Health: Dzulkefly appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "medicine"
+      ]
+    },
     {
       "title": "A Response To ‘Are We Still Practising Family Medicine?’ — Dr MFH",
       "url": "https://codeblue.galencentre.org/2026/09/a-response-to-are-we-still-practising-family-medicine-dr-mfh/",
@@ -86,59 +119,21 @@
       ]
     },
     {
-      "title": "National Health Insurance Is Ideal, But Are We Ready To Pay For It? — David Lim",
-      "url": "https://codeblue.galencentre.org/2026/09/national-health-insurance-is-ideal-but-are-we-ready-to-pay-for-it-david-lim/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-24T03:30:00",
-      "summary": "We want better health care. But we also very clearly want to keep paying less for fuel and less in taxes. We can't consistently have both. National health insurance (NHI) might still be the right destination, but the clear path forward right now isn't NHI. The post National Health Insurance Is Ideal, But Are We Ready To Pay For It? — David Lim appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Different Paths To Universal Coverage: Exploring Health Financing Models",
-      "url": "https://codeblue.galencentre.org/2026/09/different-paths-to-universal-coverage-exploring-health-financing-models/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-24T02:00:00",
-      "summary": "A hybrid model should raise public health expenditure to 5% of GDP and introduce a publicly administered health insurance option with community-rated premiums, guaranteed coverage for pre-existing conditions, and genuine competition with private insurers. The post Different Paths To Universal Coverage: Exploring Health Financing Models appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Budget 2027: Raise Tobacco Tax, Ban Nicotine Vape, Restore GEG — MyWatch",
-      "url": "https://codeblue.galencentre.org/2026/09/budget-2027-raise-tobacco-tax-ban-nicotine-vape-restore-geg-mywatch/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-23T03:30:00",
-      "summary": "Nicotine is highly addictive, and protecting children and adolescents from nicotine dependence must take precedence over commercial interests and tax revenue. The post Budget 2027: Raise Tobacco Tax, Ban Nicotine Vape, Restore GEG — MyWatch appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Malaysia, UNODC strengthen cooperation to tackle complex transnational crimes, says Saifuddin Nasution",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/28/malaysia-unodc-strengthen-cooperation-to-tackle-complex-transnational-crimes-says-saifuddin-nasution/236817",
+      "title": "From violin to rural medicine, 10 things Malaysians may have forgotten about Dr Hasmah",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/28/from-violin-to-rural-medicine-10-things-malaysians-may-have-forgotten-about-dr-hasmah/236901",
       "source": "Malay Mail",
-      "published": "2026-09-28T01:39:39",
-      "summary": "KUALA LUMPUR, Sept 28 — Malaysia aims to strengthen cooperation with the United Nations Office on Drugs and Crime...",
+      "published": "2026-09-28T10:06:45",
+      "summary": "KUALA LUMPUR, Sept 28 — It is easy to remember Tun Dr Hasmah Mohamad Ali through the people and institutions aroun...",
       "keywords_matched": [
-        "drug"
+        "medicine"
       ]
     },
     {
-      "title": "Johor air quality clears up, Serian lingers as Malaysia’s lone haze hotspot",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/28/johor-air-quality-clears-up-serian-lingers-as-malaysias-lone-haze-hotspot/236801",
+      "title": "HEAL 15555 crisis line records 267,873 calls for counselling, intervention since Covid‑19 pandemic",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/28/heal-15555-crisis-line-records-267873-calls-for-counselling-intervention-since-covid19-pandemic/236884",
       "source": "Malay Mail",
-      "published": "2026-09-28T00:48:04",
-      "summary": "KUALA LUMPUR, Sept 28 — Serian in Sarawak was the only location in Malaysia recording an unhealthy Air Pollutant I...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Man dies of rabies in Kedah’s first human case in 28 years",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/27/man-dies-of-rabies-in-kedahs-first-human-case-in-28-years/236793",
-      "source": "Malay Mail",
-      "published": "2026-09-27T12:16:49",
-      "summary": "ALOR SETAR, Sept 27 — The State Health Department (JKN) of Kedah has reported the state’s first human rabies...",
+      "published": "2026-09-28T08:25:49",
+      "summary": "IPOH, Sept 28 — The National Mental Health Crisis Line (HEAL 15555) has intervened in 518 behavioural crisis cases...",
       "keywords_matched": [
         "health"
       ]
