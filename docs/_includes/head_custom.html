@@ -35,7 +35,7 @@
 <!-- <meta name="google-site-verification" content="YOUR_VERIFICATION_CODE" /> -->
 
 <!-- RSS Feed -->
-<link rel="alternate" type="application/rss+xml" title="MyTxGNN 最新更新" href="{{ '/feed.xml' | absolute_url }}">
+<link rel="alternate" type="application/rss+xml" title="MyTxGNN Latest Updates" href="{{ '/feed.xml' | absolute_url }}">
 
 <!-- YMYL 審核資訊 Meta -->
 <meta name="last-reviewed" content="2026-02-19">
@@ -105,8 +105,8 @@
     {
       "@type": "MedicalWebPage",
       "@id": "{{ page.url | absolute_url }}#webpage",
-      "name": "{{ page.title }} 老藥新用驗證報告",
-      "description": "{{ page.description | default: page.title | append: ' 的老藥新用潛力分析' }}",
+      "name": "{{ page.title }} Drug Repurposing Evidence Report",
+      "description": "{{ page.description | default: page.title | append: ' drug repurposing potential analysis' }}",
       "url": "{{ page.url | absolute_url }}",
       "datePublished": "2026-02-19",
       "dateModified": "2026-02-19",
@@ -142,7 +142,7 @@
         {
           "@type": "ListItem",
           "position": 1,
-          "name": "首頁",
+          "name": "Home",
           "item": "{{ '/' | absolute_url }}"
         },
         {
@@ -172,9 +172,9 @@
     {
       "@type": "WebSite",
       "@id": "https://mytxgnn.yao.care/#website",
-      "name": "MyTxGNN 老藥新用驗證報告",
+      "name": "MyTxGNN Drug Repurposing Evidence Reports",
       "url": "https://mytxgnn.yao.care/",
-      "description": "用 AI 預測台灣健保藥品的潛在新適應症，並提供臨床證據驗證報告",
+      "description": "AI-predicted new indications for medicines approved in Malaysia, with clinical evidence reports",
       "isPartOf": {
         "@id": "https://mytxgnn.yao.care/#software"
       },
@@ -190,8 +190,8 @@
     {
       "@type": "Article",
       "@id": "https://mytxgnn.yao.care/#article",
-      "headline": "老藥新用，從數據到證據",
-      "description": "用 AI 預測台灣健保藥品的潛在新適應症，提供 191 個藥物的臨床試驗與文獻證據驗證報告",
+      "headline": "Drug Repurposing: From Data to Evidence",
+      "description": "AI-predicted new indications for medicines approved in Malaysia, with clinical trial and literature evidence reports",
       "author": {
         "@id": "https://www.yao.care/#organization"
       },
@@ -210,7 +210,7 @@
         {
           "@type": "ListItem",
           "position": 1,
-          "name": "首頁",
+          "name": "Home",
           "item": "https://mytxgnn.yao.care/"
         }
       ]
@@ -228,8 +228,8 @@
     {
       "@type": "AboutPage",
       "@id": "{{ page.url | absolute_url }}#webpage",
-      "name": "關於 MyTxGNN",
-      "description": "MyTxGNN 老藥新用驗證報告的專案說明、資料來源與引用方式",
+      "name": "About MyTxGNN",
+      "description": "About the MyTxGNN drug repurposing evidence reports: project overview, data sources and how to cite",
       "url": "{{ page.url | absolute_url }}",
       "datePublished": "2026-02-19",
       "dateModified": "2026-02-19",
@@ -243,26 +243,26 @@
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "什麼是老藥新用？",
+          "name": "What is drug repurposing?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "老藥新用（Drug Repurposing）是指發現現有藥物的新治療用途。相較於新藥開發需要 10-15 年和 10-20 億美元，老藥新用只需 3-5 年和 1-3 億美元，且已有人體安全性資料。"
+            "text": "Drug repurposing is the discovery of new therapeutic uses for existing medicines. Developing a new drug takes 10-15 years and USD 1-2 billion, whereas repurposing takes 3-5 years and USD 100-300 million, and human safety data already exist."
           }
         },
         {
           "@type": "Question",
-          "name": "什麼是 TxGNN？",
+          "name": "What is TxGNN?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "TxGNN 是由哈佛醫學院團隊開發的深度學習模型，整合 17,080 個節點的知識圖譜，使用圖神經網路預測藥物與疾病的新關聯。"
+            "text": "TxGNN is a deep learning model developed by a Harvard Medical School team. It integrates a knowledge graph of 17,080 nodes and uses a graph neural network to predict new drug-disease associations."
           }
         },
         {
           "@type": "Question",
-          "name": "資料來源有哪些？",
+          "name": "What data sources are used?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "本平台整合 TxGNN（AI 預測）、ClinicalTrials.gov（臨床試驗）、PubMed（學術文獻）、DrugBank（藥物資訊）、TFDA（台灣上市資訊）、DDInter（藥物交互作用）等公開資料來源。"
+            "text": "This platform integrates public data sources including TxGNN (AI predictions), ClinicalTrials.gov (clinical trials), PubMed (literature), DrugBank (drug information), NPRA (marketing authorisations in Malaysia) and DDInter (drug interactions)."
           }
         }
       ]
@@ -274,13 +274,13 @@
         {
           "@type": "ListItem",
           "position": 1,
-          "name": "首頁",
+          "name": "Home",
           "item": "https://mytxgnn.yao.care/"
         },
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "關於專案",
+          "name": "About",
           "item": "{{ page.url | absolute_url }}"
         }
       ]
@@ -298,32 +298,32 @@
     {
       "@type": "HowTo",
       "@id": "{{ page.url | absolute_url }}#howto",
-      "name": "MyTxGNN 預測與驗證方法",
-      "description": "從 AI 預測到證據驗證的完整流程說明",
+      "name": "MyTxGNN Prediction and Validation Methods",
+      "description": "The full workflow from AI prediction to evidence validation",
       "step": [
         {
           "@type": "HowToStep",
           "position": 1,
-          "name": "TxGNN 預測",
-          "text": "使用知識圖譜結合圖神經網路進行藥物-疾病關係預測，設定最低預測分數 99%。"
+          "name": "TxGNN prediction",
+          "text": "Drug-disease relationships are predicted with a knowledge graph and a graph neural network, using a minimum prediction score of 99%."
         },
         {
           "@type": "HowToStep",
           "position": 2,
-          "name": "資料收集",
-          "text": "針對每個預測配對，自動收集 ClinicalTrials.gov、PubMed、DrugBank、TFDA 等來源的證據。"
+          "name": "Evidence collection",
+          "text": "For each predicted pair, evidence is collected automatically from ClinicalTrials.gov, PubMed, DrugBank, NPRA and other sources."
         },
         {
           "@type": "HowToStep",
           "position": 3,
-          "name": "證據等級判定",
-          "text": "根據收集到的證據，判定 L1-L5 證據等級，L1 為最高（多個 Phase 3 RCT），L5 為僅模型預測。"
+          "name": "Evidence grading",
+          "text": "Based on the collected evidence, each prediction is graded L1-L5: L1 is the highest (multiple Phase 3 RCTs) and L5 is model prediction only."
         },
         {
           "@type": "HowToStep",
           "position": 4,
-          "name": "決策建議",
-          "text": "根據證據等級和其他因素，給出 Go、Proceed、Consider、Explore、Hold 決策建議。"
+          "name": "Decision recommendation",
+          "text": "Based on the evidence level and other factors, a Go, Proceed, Consider, Explore or Hold recommendation is given."
         }
       ]
     },
@@ -334,13 +334,13 @@
         {
           "@type": "ListItem",
           "position": 1,
-          "name": "首頁",
+          "name": "Home",
           "item": "https://mytxgnn.yao.care/"
         },
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "方法論",
+          "name": "Methodology",
           "item": "{{ page.url | absolute_url }}"
         }
       ]
@@ -358,15 +358,15 @@
     {
       "@type": "CollectionPage",
       "@id": "{{ page.url | absolute_url }}#webpage",
-      "name": "藥物列表 - MyTxGNN",
-      "description": "MyTxGNN 所有藥物驗證報告列表，共 191 種藥物",
+      "name": "Drug Reports - MyTxGNN",
+      "description": "All MyTxGNN drug evidence reports",
       "url": "{{ page.url | absolute_url }}"
     },
     {
       "@type": "ItemList",
       "@id": "{{ page.url | absolute_url }}#itemlist",
-      "name": "MyTxGNN 藥物驗證報告",
-      "description": "191 種台灣健保藥品的老藥新用驗證報告",
+      "name": "MyTxGNN Drug Evidence Reports",
+      "description": "Drug repurposing evidence reports for medicines approved in Malaysia",
       "numberOfItems": 191,
       "itemListOrder": "https://schema.org/ItemListOrderAscending"
     },
@@ -377,13 +377,13 @@
         {
           "@type": "ListItem",
           "position": 1,
-          "name": "首頁",
+          "name": "Home",
           "item": "https://mytxgnn.yao.care/"
         },
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "藥物列表",
+          "name": "Drug Reports",
           "item": "{{ page.url | absolute_url }}"
         }
       ]
@@ -401,15 +401,15 @@
     {
       "@type": "CollectionPage",
       "@id": "{{ page.url | absolute_url }}#webpage",
-      "name": "健康新聞監測 - MyTxGNN",
-      "description": "{{ page.description | default: '自動監測 191 種藥物與適應症的最新健康新聞報導' }}",
+      "name": "Health News Monitoring - MyTxGNN",
+      "description": "{{ page.description | default: 'Automated monitoring of the latest health news on the drugs and indications covered' }}",
       "url": "{{ page.url | absolute_url }}",
       "isPartOf": {
         "@id": "https://mytxgnn.yao.care/#website"
       },
       "about": {
         "@type": "Thing",
-        "name": "健康新聞"
+        "name": "Health News"
       },
       "speakable": {
         "@type": "SpeakableSpecification",
@@ -423,13 +423,13 @@
         {
           "@type": "ListItem",
           "position": 1,
-          "name": "首頁",
+          "name": "Home",
           "item": "https://mytxgnn.yao.care/"
         },
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "健康新聞",
+          "name": "Health News",
           "item": "{{ page.url | absolute_url }}"
         }
       ]
@@ -475,13 +475,13 @@
         {
           "@type": "ListItem",
           "position": 1,
-          "name": "首頁",
+          "name": "Home",
           "item": "https://mytxgnn.yao.care/"
         },
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "健康新聞",
+          "name": "Health News",
           "item": "https://mytxgnn.yao.care/news/"
         },
         {
@@ -506,7 +506,7 @@
     {
       "@type": "ListItem",
       "position": 1,
-      "name": "首頁",
+      "name": "Home",
       "item": "https://mytxgnn.yao.care/"
     },
     {

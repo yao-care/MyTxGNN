@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="zh-TW">
+<html lang="ms">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>TwTxGNN SMART App - 老藥新用候選查詢</title>
+  <title>MyTxGNN SMART App - Drug Repurposing Candidates</title>
   <style>
     * {
       box-sizing: border-box;
@@ -496,18 +496,18 @@
 <body>
   <header class="header">
     <h1>TwTxGNN SMART App</h1>
-    <p>老藥新用候選查詢系統</p>
+    <p>Drug Repurposing Candidate Search</p>
   </header>
 
   <!-- Loading State -->
   <div class="loading" id="loading">
     <div class="spinner"></div>
-    <div class="loading-text">載入中...</div>
+    <div class="loading-text">Loading...</div>
   </div>
 
   <!-- Error State -->
   <div class="error" id="error">
-    <h2 class="error-title">發生錯誤</h2>
+    <h2 class="error-title">An error occurred</h2>
     <p class="error-message"></p>
   </div>
 
@@ -518,31 +518,31 @@
 
     <!-- Medication List -->
     <section class="med-section">
-      <h2 class="section-title">病患用藥清單（從 EHR 取得）</h2>
+      <h2 class="section-title">Patient medication list (from the EHR)</h2>
       <div class="med-actions">
-        <button class="btn btn-secondary" id="select-all-btn">全選/取消全選</button>
-        <button class="btn btn-primary" id="query-btn">查詢選取藥物的老藥新用候選</button>
+        <button class="btn btn-secondary" id="select-all-btn">Select / deselect all</button>
+        <button class="btn btn-primary" id="query-btn">Search repurposing candidates for selected drugs</button>
       </div>
       <div id="medication-list"></div>
     </section>
 
     <!-- Repurposing Results -->
     <section class="results-section">
-      <h2 class="section-title">老藥新用候選結果</h2>
+      <h2 class="section-title">Repurposing candidates</h2>
       <div id="repurposing-results">
         <div class="empty-state">
-          <p>請選取藥物並點擊「查詢」按鈕</p>
+          <p>Select drugs and click the "Search" button</p>
         </div>
       </div>
     </section>
 
     <!-- Disclaimer -->
     <div class="disclaimer">
-      <strong>免責聲明</strong>
-      本網站內容僅供研究參考，不能取代專業醫療建議。所有藥物再利用預測結果需經過臨床驗證才能應用。
-      如有健康問題，請諮詢合格醫療人員。本應用程式不會儲存任何病患資料。
+      <strong>Disclaimer</strong>
+      This content is for research reference only and is not a substitute for professional medical advice. All drug repurposing predictions require clinical validation before use.
+      If you have health concerns, please consult a qualified healthcare professional. This app does not store any patient data.
       <br><br>
-      <a href="/privacy-policy/" style="color: #856404;">隱私權政策</a>
+      <a href="/privacy-policy/" style="color: #856404;">Privacy policy</a>
     </div>
   </main>
 
