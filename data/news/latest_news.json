@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-29T04:16:31.778160",
+  "fetched": "2026-09-29T11:05:26.873927",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,26 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 14,
   "items": [
+    {
+      "title": "When Stress Becomes A Mental Health Issue: Understanding Gen Z And Psychiatric Problems — Sivananthini Banaya",
+      "url": "https://codeblue.galencentre.org/2026/09/when-stress-becomes-a-mental-health-issue-understanding-gen-z-and-psychiatric-problems-sivananthini-banaya/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-09-29T07:40:11",
+      "summary": "Early recognition and appropriate support can make it easier to address mental health difficulties before they become more disruptive to everyday life. The post When Stress Becomes A Mental Health Issue: Understanding Gen Z And Psychiatric Problems — Sivananthini Banaya appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "End Mat Rempit Culture — Dr Vekneswaraj Arumugam",
+      "url": "https://codeblue.galencentre.org/2026/09/end-mat-rempit-culture-dr-vekneswaraj-arumugam/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-09-29T06:00:00",
+      "summary": "Where preventable death exists, society should not shrug its shoulders and accept that young people will always behave this way. The post End Mat Rempit Culture — Dr Vekneswaraj Arumugam appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Dr Hasmah, In Retrospect — Dr Loshi Rajen",
       "url": "https://codeblue.galencentre.org/2026/09/dr-hasmah-in-retrospect-dr-loshi-rajen/",
@@ -98,42 +116,43 @@
       ]
     },
     {
-      "title": "Global Partnerships In Malaysian Nursing: Contributing To The Sustainable Development Goals — Mohammad Irwan Hakeem Mohd Arif",
-      "url": "https://codeblue.galencentre.org/2026/09/global-partnerships-in-malaysian-nursing-contributing-to-the-sustainable-development-goals-mohammad-irwan-hakeem-mohd-arif/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-25T08:03:53",
-      "summary": "Through sustained global partnerships, Malaysian nursing can contribute to the achievement of the SDGs while strengthening its role within the global nursing community. The post Global Partnerships In Malaysian Nursing: Contributing To The Sustainable Development Goals — Mohammad Irwan Hakeem Mohd Arif appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Health Care Is More Than A Question Of Who Pays — David Lim",
-      "url": "https://codeblue.galencentre.org/2026/09/health-care-is-more-than-a-question-of-who-pays-david-lim/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-25T06:00:00",
-      "summary": "Health care is a question of how many people need treatment, how early they seek it, where they receive it, and whether the system gives them reasons to make better choices before they become seriously ill. The post Health Care Is More Than A Question Of Who Pays — David Lim appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "treatment"
-      ]
-    },
-    {
-      "title": "Hazy conditions descend on Malaysia again as 31 areas hit ‘Unhealthy’ API",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/29/hazy-conditions-descend-on-malaysia-again-as-31-areas-hit-unhealthy-api/236948",
+      "title": "Marina Mahathir: My father healthy but lonely after loss of beloved wife",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/29/marina-mahathir-my-father-healthy-but-lonely-after-loss-of-beloved-wife/236986",
       "source": "Malay Mail",
-      "published": "2026-09-29T02:17:43",
-      "summary": "KUALA LUMPUR, Sept 29 — A total of 31 areas nationwide recorded unhealthy Air Pollutant Index (API) readings as at...",
+      "published": "2026-09-29T06:42:17",
+      "summary": "PUTRAJAYA, Sept 29 — Former prime minister Tun Dr Mahathir Mohamad is coping with a deep sense of loneliness follo...",
       "keywords_matched": [
         "health"
       ]
     },
     {
-      "title": "From violin to rural medicine, 10 things Malaysians may have forgotten about Dr Hasmah",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/28/from-violin-to-rural-medicine-10-things-malaysians-may-have-forgotten-about-dr-hasmah/236901",
+      "title": "Dr M recalls shock at wife Dr Hasmah’s sudden passing despite signs of good health",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/29/dr-m-recalls-shock-at-wife-dr-hasmahs-sudden-passing-despite-signs-of-good-health/236984",
       "source": "Malay Mail",
-      "published": "2026-09-28T10:06:45",
-      "summary": "KUALA LUMPUR, Sept 28 — It is easy to remember Tun Dr Hasmah Mohamad Ali through the people and institutions aroun...",
+      "published": "2026-09-29T06:26:54",
+      "summary": "PETALING JAYA, Sept 29 — Former prime minister Tun Dr Mahathir Mohamad has said he did not expect his wife, Tun Dr...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Fahmi: Only register for medicine delivery service through MoH to avoid scams on Facebook, TikTok",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/29/fahmi-only-register-for-medicine-delivery-service-through-moh-to-avoid-scams-on-facebook-tiktok/236977",
+      "source": "Malay Mail",
+      "published": "2026-09-29T05:43:28",
+      "summary": "PUTRAJAYA, Sept 29 — Applications for the government's medicine delivery service (UMP) should be done only thr...",
       "keywords_matched": [
         "medicine"
+      ]
+    },
+    {
+      "title": "Health minister: Mission is to transform healthcare within 15th Parliament timeframe",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/29/health-minister-mission-is-to-transform-healthcare-within-15th-parliament-timeframe/236970",
+      "source": "Malay Mail",
+      "published": "2026-09-29T05:18:40",
+      "summary": "PUTRAJAYA, Sept 29 — Health Minister Datuk Seri Dr Dzulkefly Ahmad wants the national healthcare transformati...",
+      "keywords_matched": [
+        "health"
       ]
     }
   ]
