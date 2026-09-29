@@ -45,12 +45,6 @@ jobs:
           NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
         continue-on-error: true
 
-      - name: Check TFDA
-        run: python scripts/check_tfda.py
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_REPOSITORY: ${{ github.repository }}
-        continue-on-error: true
 
       - name: Update cache files
         run: |
