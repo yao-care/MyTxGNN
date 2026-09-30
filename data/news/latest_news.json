@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-30T01:03:48.822346",
+  "fetched": "2026-09-30T07:58:33.450647",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,51 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 13,
   "items": [
+    {
+      "title": "Peka B40 Screenings Reveal Undiagnosed Conditions Among Almost Half Of Participants",
+      "url": "https://codeblue.galencentre.org/2026/09/peka-b40-screenings-reveal-undiagnosed-conditions-among-almost-half-of-participants/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-09-30T07:37:28",
+      "summary": "Nearly 46% of 328,302 people screened by Peka B40 last year had either at least one previously undiagnosed NCD, identified as being at risk of anxiety or depression, or both. Peka B40 screening uptake as of Aug 31 varied from 15% in KL to 46% in Kelantan. The post Peka B40 Screenings Reveal Undiagnosed Conditions Among Almost Half Of Participants appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "Pantai Hospital KL Pioneers Mahjong Programme To Help Curb Alzheimer’s",
+      "url": "https://codeblue.galencentre.org/2026/09/pantai-hospital-kl-pioneers-mahjong-programme-to-help-curb-alzheimers/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-09-30T06:00:00",
+      "summary": "Pantai Hospital KL is the first hospital to integrate competitive social mahjong into a clinical brain health programme, offering participants a unique combination of expert medical dialogue, digital cognitive assessments, and interactive social gameplay. The post Pantai Hospital KL Pioneers Mahjong Programme To Help Curb Alzheimer’s appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "medical",
+        "hospital",
+        "clinical",
+        "hospital"
+      ]
+    },
+    {
+      "title": "Heat, Haze Squeeze Livestock Farmers As Egg Output Falls",
+      "url": "https://codeblue.galencentre.org/2026/09/heat-haze-squeeze-livestock-farmers-as-egg-output-falls/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-09-30T03:30:00",
+      "summary": "Livestock farmers in Malaysia are spending more to protect animals from heat and haze, as some report lower egg, poultry, and milk production. Experts caution that haze alone cannot explain the losses. The post Heat, Haze Squeeze Livestock Farmers As Egg Output Falls appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "Doctor No-Shows For Permanent Posts Hit Sabah, Sarawak",
+      "url": "https://codeblue.galencentre.org/2026/09/doctor-no-shows-for-permanent-posts-hit-sabah-sarawak/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-09-30T02:00:00",
+      "summary": "On Sept 28, many medical officers (MOs) didn’t report for duty for permanent posts in Sabah and Sarawak. Doctors unofficially reported zero MOs showing up in at least four hospitals; other facilities in both states reportedly saw 70% to 76% no-shows. The post Doctor No-Shows For Permanent Posts Hit Sabah, Sarawak appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical",
+        "hospital",
+        "doctor",
+        "hospital"
+      ]
+    },
     {
       "title": "When Stress Becomes A Mental Health Issue: Understanding Gen Z And Psychiatric Problems — Sivananthini Banaya",
       "url": "https://codeblue.galencentre.org/2026/09/when-stress-becomes-a-mental-health-issue-understanding-gen-z-and-psychiatric-problems-sivananthini-banaya/",
@@ -68,72 +111,34 @@
       ]
     },
     {
-      "title": "Hasmah Pioneered Public Health, Maternal And Child Health: Dzulkefly",
-      "url": "https://codeblue.galencentre.org/2026/09/hasmah-pioneered-public-health-maternal-and-child-health-dzulkefly/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-28T04:38:54",
-      "summary": "Dr Hasmah Ali from the Class of 1947 at King Edward VII College of Medicine was a pioneer in the development of public health, particularly maternal and child health. In a 1982 reunion, she spoke about her batch's achievements, including outside medicine. The post Hasmah Pioneered Public Health, Maternal And Child Health: Dzulkefly appeared first on CodeBlue .",
+      "title": "Tanjung Rambutan care centre resident charged with murdering fellow patient",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/30/tanjung-rambutan-care-centre-resident-charged-with-murdering-fellow-patient/237119",
+      "source": "Malay Mail",
+      "published": "2026-09-30T06:07:50",
+      "summary": "IPOH, Sept 30 — A man was charged in the Magistrates’ Court here today with murdering a resident of a care c...",
       "keywords_matched": [
-        "health",
-        "medicine"
+        "patient"
       ]
     },
     {
-      "title": "A Response To ‘Are We Still Practising Family Medicine?’ — Dr MFH",
-      "url": "https://codeblue.galencentre.org/2026/09/a-response-to-are-we-still-practising-family-medicine-dr-mfh/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-28T03:40:00",
-      "summary": "This is where it is useful to be clear about what primary health care (PHC) actually means. PHC is much broader than Family Medicine or primary care alone. PHC shouldn't be framed as prevention versus treatment. A good PHC system needs the whole continuum. The post A Response To ‘Are We Still Practising Family Medicine?’ — Dr MFH appeared first on CodeBlue .",
+      "title": "Sarawak Flying Doctor Service helicopter crash: Police find no indication of foul play",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/30/sarawak-flying-doctor-service-helicopter-crash-police-find-no-indication-of-foul-play/237113",
+      "source": "Malay Mail",
+      "published": "2026-09-30T05:19:27",
+      "summary": "KUCHING, Sept 30 — Police have found no indication of foul play in their investigation into the Flying Doctor Serv...",
       "keywords_matched": [
-        "health",
-        "medicine",
-        "treatment"
+        "doctor"
       ]
     },
     {
-      "title": "Don’t Quit Medicine, Senior Doctors Tell Their Juniors",
-      "url": "https://codeblue.galencentre.org/2026/09/dont-quit-medicine-senior-doctors-tell-their-juniors/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-28T02:00:00",
-      "summary": "Three senior doctors share how their responsibilities changed as they moved from frontline clinical work into emergency medicine leadership, health care management, and academia, urging junior doctors not to quit before at least finishing housemanship. The post Don’t Quit Medicine, Senior Doctors Tell Their Juniors appeared first on CodeBlue .",
+      "title": "Bidor petrol station shooting: Man hospitalised with bullet wound to shoulder",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/30/bidor-petrol-station-shooting-man-hospitalised-with-bullet-wound-to-shoulder/237112",
+      "source": "Malay Mail",
+      "published": "2026-09-30T05:23:44",
+      "summary": "TAPAH, Sept 30 — A 41-year-old man was reportedly shot in the left shoulder after two gunmen opened fire on his fo...",
       "keywords_matched": [
-        "health",
-        "medicine",
-        "doctor",
-        "clinical"
-      ]
-    },
-    {
-      "title": "Sunway Medical Centre Named Malaysia’s No 1 In Paediatrics In Newsweek’s World’s Best Specialised Hospitals 2027",
-      "url": "https://codeblue.galencentre.org/2026/09/sunway-medical-centre-named-malaysias-no-1-in-paediatrics-in-newsweeks-worlds-best-specialised-hospitals-2027/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-25T08:59:27",
-      "summary": "The ranking places SMC among leading hospitals worldwide as part of a global ranking covering across 13 medical specialities, including Mayo Clinic, Cleveland Clinic, and Johns Hopkins Hospital. The post Sunway Medical Centre Named Malaysia’s No 1 In Paediatrics In Newsweek’s World’s Best Specialised Hospitals 2027 appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medical",
         "hospital",
         "hospital"
-      ]
-    },
-    {
-      "title": "What is UMP? How Malaysia’s new free medicine delivery service works and how to apply",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/30/what-is-ump-how-malaysias-new-free-medicine-delivery-service-works-and-how-to-apply/236993",
-      "source": "Malay Mail",
-      "published": "2026-09-29T23:00:00",
-      "summary": "KUALA LUMPUR, Sept 30 — The government yesterday launched the subsidised Ubat Melalui Pos (Postal Service for Medi...",
-      "keywords_matched": [
-        "medicine",
-        "ubat"
-      ]
-    },
-    {
-      "title": "Sarawak vaccinates 3,579 dogs, distributes 2,281 oral rabies vaccine baits in latest drive",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/29/sarawak-vaccinates-3579-dogs-distributes-2281-oral-rabies-vaccine-baits-in-latest-drive/237032",
-      "source": "Malay Mail",
-      "published": "2026-09-29T12:06:57",
-      "summary": "KUCHING, Sept 29 — A total of 3,579 dogs have been vaccinated through Sarawak’s recent field rabies vaccinat...",
-      "keywords_matched": [
-        "vaccine"
       ]
     }
   ]
