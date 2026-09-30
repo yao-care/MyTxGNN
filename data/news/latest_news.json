@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-30T07:58:33.450647",
+  "fetched": "2026-09-30T14:49:32.463801",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,18 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 11,
   "items": [
+    {
+      "title": "Rare Opportunity To Break Through Silos Hindering Mental Health Policies — Dr Kelvin Yii, Lim Yi Wei & Michelle Ng",
+      "url": "https://codeblue.galencentre.org/2026/09/rare-opportunity-to-break-through-silos-hindering-mental-health-policies-dr-kelvin-yii-lim-yi-wei-michelle-ng/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-09-30T08:00:00",
+      "summary": "Before NSFIRM, Malaysia lacked a comprehensive, systematic registry of suicide deaths and attempts. NSFIRM can help draw this picture through systematic analysis and incident trend monitoring. The post Rare Opportunity To Break Through Silos Hindering Mental Health Policies — Dr Kelvin Yii, Lim Yi Wei & Michelle Ng appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "Peka B40 Screenings Reveal Undiagnosed Conditions Among Almost Half Of Participants",
       "url": "https://codeblue.galencentre.org/2026/09/peka-b40-screenings-reveal-undiagnosed-conditions-among-almost-half-of-participants/",
@@ -100,45 +110,13 @@
       ]
     },
     {
-      "title": "Hasmah Ali Represented Finest Traditions Of Medicine — MMA",
-      "url": "https://codeblue.galencentre.org/2026/09/hasmah-ali-represented-finest-traditions-of-medicine-mma/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-28T07:25:16",
-      "summary": "Dr Hasmah Ali remained deeply committed to the MMA and maintained close ties with her colleagues and alumni in the medical fraternity throughout her life. The medical fraternity lost one of its most distinguished pioneers. The post Hasmah Ali Represented Finest Traditions Of Medicine — MMA appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medical",
-        "medicine"
-      ]
-    },
-    {
-      "title": "Tanjung Rambutan care centre resident charged with murdering fellow patient",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/30/tanjung-rambutan-care-centre-resident-charged-with-murdering-fellow-patient/237119",
+      "title": "Johan Setia reports highest unhealthy API level at 166, twenty areas in total experiencing bad air",
+      "url": "https://www.malaymail.com/news/malaysia/2026/09/30/johan-setia-reports-highest-unhealthy-api-level-at-166-twenty-areas-in-total-experiencing-bad-air/237160",
       "source": "Malay Mail",
-      "published": "2026-09-30T06:07:50",
-      "summary": "IPOH, Sept 30 — A man was charged in the Magistrates’ Court here today with murdering a resident of a care c...",
+      "published": "2026-09-30T09:58:47",
+      "summary": "KUALA LUMPUR, Sept 30 — Twenty areas nationwide recorded unhealthy Air Pollutant Index (API) readings as of 4...",
       "keywords_matched": [
-        "patient"
-      ]
-    },
-    {
-      "title": "Sarawak Flying Doctor Service helicopter crash: Police find no indication of foul play",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/30/sarawak-flying-doctor-service-helicopter-crash-police-find-no-indication-of-foul-play/237113",
-      "source": "Malay Mail",
-      "published": "2026-09-30T05:19:27",
-      "summary": "KUCHING, Sept 30 — Police have found no indication of foul play in their investigation into the Flying Doctor Serv...",
-      "keywords_matched": [
-        "doctor"
-      ]
-    },
-    {
-      "title": "Bidor petrol station shooting: Man hospitalised with bullet wound to shoulder",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/30/bidor-petrol-station-shooting-man-hospitalised-with-bullet-wound-to-shoulder/237112",
-      "source": "Malay Mail",
-      "published": "2026-09-30T05:23:44",
-      "summary": "TAPAH, Sept 30 — A 41-year-old man was reportedly shot in the left shoulder after two gunmen opened fire on his fo...",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
+        "health"
       ]
     }
   ]
