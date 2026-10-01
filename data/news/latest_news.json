@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-09-30T23:28:07.461542",
+  "fetched": "2026-10-01T04:11:48.021001",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,39 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
+    {
+      "title": "Sarawakian Bidayuh Suffer Highest Rates Of Nasopharyngeal Cancer Worldwide: Experts",
+      "url": "https://codeblue.galencentre.org/2026/10/sarawakian-bidayuh-suffer-highest-rates-of-nasopharyngeal-cancer-worldwide-experts/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-01T03:30:00",
+      "summary": "Experts say the Bidayuh community in Sarawak has the highest rates of nasopharyngeal cancer (NPC) globally. High NPC risk for the indigenous group is linked to genetic factors, EBV infection, environmental hazards, and consumption of salted preserved food. The post Sarawakian Bidayuh Suffer Highest Rates Of Nasopharyngeal Cancer Worldwide: Experts appeared first on CodeBlue .",
+      "keywords_matched": [
+        "cancer"
+      ]
+    },
+    {
+      "title": "Revert To Percentage-Based BIW Allowance, Give Relocation Assistance Before Doctors Relocate — MMA",
+      "url": "https://codeblue.galencentre.org/2026/10/revert-to-percentage-based-biw-allowance-give-relocation-assistance-before-doctors-relocate-mma/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-01T02:40:00",
+      "summary": "MMA is deeply concerned over doctor no-shows in Sabah and Sarawak. If contract MOs are refusing permanent positions, it points to deeper problems that can't be ignored. Restore BIW allowance's progressive structure and provide relocation assistance prior. The post Revert To Percentage-Based BIW Allowance, Give Relocation Assistance Before Doctors Relocate — MMA appeared first on CodeBlue .",
+      "keywords_matched": [
+        "doctor"
+      ]
+    },
+    {
+      "title": "Borneo’s Doctor No-Show ‘Crisis’ Indicates Retention Problem: Warisan",
+      "url": "https://codeblue.galencentre.org/2026/10/borneos-doctor-no-show-crisis-indicates-retention-problem-warisan/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-01T02:00:00",
+      "summary": "Doctor no-shows for permanent posts in Sabah and Sarawak, ranging from 70% to 100% in certain facilities, are a \"crisis\" that should become a turning point for Malaysia's health care workforce recruitment, remuneration, and retention, says a Warisan rep. The post Borneo’s Doctor No-Show ‘Crisis’ Indicates Retention Problem: Warisan appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "doctor"
+      ]
+    },
     {
       "title": "Rare Opportunity To Break Through Silos Hindering Mental Health Policies — Dr Kelvin Yii, Lim Yi Wei & Michelle Ng",
       "url": "https://codeblue.galencentre.org/2026/09/rare-opportunity-to-break-through-silos-hindering-mental-health-policies-dr-kelvin-yii-lim-yi-wei-michelle-ng/",
@@ -81,40 +112,22 @@
       "keywords_matched": []
     },
     {
-      "title": "Dr Hasmah, In Retrospect — Dr Loshi Rajen",
-      "url": "https://codeblue.galencentre.org/2026/09/dr-hasmah-in-retrospect-dr-loshi-rajen/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-29T03:40:00",
-      "summary": "There is an old photo of Dr Hasmah driving a red Proton Saga across the Penang Bridge. The first car I ever knew was my father's Saga. Years later, looking through these photos, I would see her behind the wheel of one and feel a moment of borrowed pride. The post Dr Hasmah, In Retrospect — Dr Loshi Rajen appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Concern Regarding Delayed Promotion Of Medical Officers — Anonymous Medical Officer",
-      "url": "https://codeblue.galencentre.org/2026/09/concern-regarding-delayed-promotion-of-medical-officers-anonymous-medical-officer/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-29T02:00:00",
-      "summary": "I expected to be eligible for promotion to UD12/UD48 on July 31, 2026, after completing three years of permanent service. But MOH informed me that my promotion can't be processed because I'm currently on CBBP under HLP and therefore do not have an LNPT. The post Concern Regarding Delayed Promotion Of Medical Officers — Anonymous Medical Officer appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medical"
-      ]
-    },
-    {
-      "title": "The Silent Surge: Why Malaysians Keep Postponing Health Screening — Brittany Richard Johny & Kala Raani Chandra Guindan",
-      "url": "https://codeblue.galencentre.org/2026/09/the-silent-surge-why-malaysians-keep-postponing-health-screening-brittany-richard-johny-kala-raani-chandra-guindan/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-28T08:00:00",
-      "summary": "According to NHMS 2023, 15.6 per cent of Malaysian adults are living with diabetes, 29.2 per cent with hypertension, and 33.3 per cent with high cholesterol. The post The Silent Surge: Why Malaysians Keep Postponing Health Screening — Brittany Richard Johny & Kala Raani Chandra Guindan appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "diabetes"
-      ]
-    },
-    {
-      "title": "Johan Setia reports highest unhealthy API level at 166, twenty areas in total experiencing bad air",
-      "url": "https://www.malaymail.com/news/malaysia/2026/09/30/johan-setia-reports-highest-unhealthy-api-level-at-166-twenty-areas-in-total-experiencing-bad-air/237160",
+      "title": "Reported doctor no-shows in Sabah and Sarawak prompt MMA call for incentive overhaul",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/01/reported-doctor-no-shows-in-sabah-and-sarawak-prompt-mma-call-for-incentive-overhaul/237219",
       "source": "Malay Mail",
-      "published": "2026-09-30T09:58:47",
-      "summary": "KUALA LUMPUR, Sept 30 — Twenty areas nationwide recorded unhealthy Air Pollutant Index (API) readings as of 4...",
+      "published": "2026-10-01T03:44:23",
+      "summary": "KUCHING, Oct 1 — The Malaysian Medical Association (MMA) has called on the government to urgently revert to the pr...",
+      "keywords_matched": [
+        "medical",
+        "doctor"
+      ]
+    },
+    {
+      "title": "Haze eases as unhealthy air quality falls to eight areas, Johan Setia still worst hit",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/01/haze-eases-as-unhealthy-air-quality-falls-to-eight-areas-johan-setia-still-worst-hit/237210",
+      "source": "Malay Mail",
+      "published": "2026-10-01T02:30:05",
+      "summary": "KUALA LUMPUR, Oct 1 — Air quality improved across Peninsular Malaysia this morning, with the number of areas recor...",
       "keywords_matched": [
         "health"
       ]
