@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-01T04:11:48.021001",
+  "fetched": "2026-10-01T11:21:59.248204",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,27 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 13,
   "items": [
+    {
+      "title": "Report For Duty By Oct 7, MOH Urges Doctors Amid Early No-Shows",
+      "url": "https://codeblue.galencentre.org/2026/10/report-for-duty-by-oct-7-moh-urges-doctors-amid-early-no-shows/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-01T08:54:37",
+      "summary": "MOH urges medical officers to report for duty at their new placements by Oct 7, saying the process is still ongoing and that people shouldn't draw any \"premature conclusions\" yet. The second phase of permanent appointments this year involves 4,255 doctors. The post Report For Duty By Oct 7, MOH Urges Doctors Amid Early No-Shows appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical",
+        "doctor"
+      ]
+    },
+    {
+      "title": "What I Owe The Next Houseman — Dr Kamal Amzan",
+      "url": "https://codeblue.galencentre.org/2026/10/what-i-owe-the-next-houseman-dr-kamal-amzan/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-01T06:00:00",
+      "summary": "Housemen need supervisors who know their progress, are available when decisions exceed their competence, and can explain what improvement looks like. Those supervisors need time and support too. The post What I Owe The Next Houseman — Dr Kamal Amzan appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Sarawakian Bidayuh Suffer Highest Rates Of Nasopharyngeal Cancer Worldwide: Experts",
       "url": "https://codeblue.galencentre.org/2026/10/sarawakian-bidayuh-suffer-highest-rates-of-nasopharyngeal-cancer-worldwide-experts/",
@@ -94,40 +113,31 @@
       ]
     },
     {
-      "title": "When Stress Becomes A Mental Health Issue: Understanding Gen Z And Psychiatric Problems — Sivananthini Banaya",
-      "url": "https://codeblue.galencentre.org/2026/09/when-stress-becomes-a-mental-health-issue-understanding-gen-z-and-psychiatric-problems-sivananthini-banaya/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-29T07:40:11",
-      "summary": "Early recognition and appropriate support can make it easier to address mental health difficulties before they become more disruptive to everyday life. The post When Stress Becomes A Mental Health Issue: Understanding Gen Z And Psychiatric Problems — Sivananthini Banaya appeared first on CodeBlue .",
+      "title": "Malaysia plans A-to-D food grades to nudge manufacturers — and consumers — towards healthier choices",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/01/malaysia-plans-a-to-d-food-grades-to-nudge-manufacturers-and-consumers-towards-healthier-choices/237281",
+      "source": "Malay Mail",
+      "published": "2026-10-01T09:29:22",
+      "summary": "KUALA LUMPUR, Oct 1 — Malaysia could introduce a new food labelling system giving packaged food and drinks nutriti...",
       "keywords_matched": [
         "health"
       ]
     },
     {
-      "title": "End Mat Rempit Culture — Dr Vekneswaraj Arumugam",
-      "url": "https://codeblue.galencentre.org/2026/09/end-mat-rempit-culture-dr-vekneswaraj-arumugam/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-29T06:00:00",
-      "summary": "Where preventable death exists, society should not shrug its shoulders and accept that young people will always behave this way. The post End Mat Rempit Culture — Dr Vekneswaraj Arumugam appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Reported doctor no-shows in Sabah and Sarawak prompt MMA call for incentive overhaul",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/01/reported-doctor-no-shows-in-sabah-and-sarawak-prompt-mma-call-for-incentive-overhaul/237219",
+      "title": "Three separate drug busts net RM3.44m in drugs, five arrests in Penang",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/01/three-separate-drug-busts-net-rm344m-in-drugs-five-arrests-in-penang/237278",
       "source": "Malay Mail",
-      "published": "2026-10-01T03:44:23",
-      "summary": "KUCHING, Oct 1 — The Malaysian Medical Association (MMA) has called on the government to urgently revert to the pr...",
+      "published": "2026-10-01T09:16:04",
+      "summary": "GEORGE TOWN, Oct 1 — Penang police arrested five people, including a couple, and seized various types of drugs wor...",
       "keywords_matched": [
-        "medical",
-        "doctor"
+        "drug"
       ]
     },
     {
-      "title": "Haze eases as unhealthy air quality falls to eight areas, Johan Setia still worst hit",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/01/haze-eases-as-unhealthy-air-quality-falls-to-eight-areas-johan-setia-still-worst-hit/237210",
+      "title": "Health Ministry warns against GB Daily Glow Skin Cream after mercury found",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/01/health-ministry-warns-against-gb-daily-glow-skin-cream-after-mercury-found/237271",
       "source": "Malay Mail",
-      "published": "2026-10-01T02:30:05",
-      "summary": "KUALA LUMPUR, Oct 1 — Air quality improved across Peninsular Malaysia this morning, with the number of areas recor...",
+      "published": "2026-10-01T08:53:05",
+      "summary": "PUTRAJAYA, Oct 1 — The Ministry of Health (MOH) has cancelled the notification of the cosmetic product GB Daily Gl...",
       "keywords_matched": [
         "health"
       ]
