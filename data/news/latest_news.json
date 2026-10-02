@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-01T22:59:19.606710",
+  "fetched": "2026-10-02T02:06:51.153897",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,35 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 12,
   "items": [
+    {
+      "title": "A Public Health Doctor Isn’t An ‘Office Doctor’ — Dr MFH",
+      "url": "https://codeblue.galencentre.org/2026/10/a-public-health-doctor-isnt-an-office-doctor-dr-mfh/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-02T02:04:53",
+      "summary": "Public Health Medicine is sometimes misunderstood as admin work. But the office is only one working base. The medicine happens across communities, clinics, hospitals, laboratories, workplaces, schools and other agencies. TB shows the difference clearly. The post A Public Health Doctor Isn’t An ‘Office Doctor’ — Dr MFH appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "medicine",
+        "hospital",
+        "doctor",
+        "hospital"
+      ]
+    },
+    {
+      "title": "MMA Sabah: Only 34% Of Medical Officers Showed Up For Hospital Postings",
+      "url": "https://codeblue.galencentre.org/2026/10/mma-sabah-only-34-of-medical-officers-showed-up-for-hospital-postings/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-02T02:00:00",
+      "summary": "MMA Sabah says only 34% of medical officers from outside Sabah posted to hospitals in the state had reported for duty (47 out of 138). If this 66% no-show rate persists till Oct 7, it will exceed the deputy health minister's earlier 50% no-show projection. The post MMA Sabah: Only 34% Of Medical Officers Showed Up For Hospital Postings appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "medical",
+        "hospital",
+        "hospital"
+      ]
+    },
     {
       "title": "Report For Duty By Oct 7, MOH Urges Doctors Amid Early No-Shows",
       "url": "https://codeblue.galencentre.org/2026/10/report-for-duty-by-oct-7-moh-urges-doctors-amid-early-no-shows/",
@@ -92,27 +119,6 @@
       ]
     },
     {
-      "title": "Heat, Haze Squeeze Livestock Farmers As Egg Output Falls",
-      "url": "https://codeblue.galencentre.org/2026/09/heat-haze-squeeze-livestock-farmers-as-egg-output-falls/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-30T03:30:00",
-      "summary": "Livestock farmers in Malaysia are spending more to protect animals from heat and haze, as some report lower egg, poultry, and milk production. Experts caution that haze alone cannot explain the losses. The post Heat, Haze Squeeze Livestock Farmers As Egg Output Falls appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Doctor No-Shows For Permanent Posts Hit Sabah, Sarawak",
-      "url": "https://codeblue.galencentre.org/2026/09/doctor-no-shows-for-permanent-posts-hit-sabah-sarawak/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-09-30T02:00:00",
-      "summary": "On Sept 28, many medical officers (MOs) didn’t report for duty for permanent posts in Sabah and Sarawak. Doctors unofficially reported zero MOs showing up in at least four hospitals; other facilities in both states reportedly saw 70% to 76% no-shows. The post Doctor No-Shows For Permanent Posts Hit Sabah, Sarawak appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medical",
-        "hospital",
-        "doctor",
-        "hospital"
-      ]
-    },
-    {
       "title": "Malaysia plans A-to-D food grades to nudge manufacturers — and consumers — towards healthier choices",
       "url": "https://www.malaymail.com/news/malaysia/2026/10/01/malaysia-plans-a-to-d-food-grades-to-nudge-manufacturers-and-consumers-towards-healthier-choices/237281",
       "source": "Malay Mail",
@@ -130,16 +136,6 @@
       "summary": "GEORGE TOWN, Oct 1 — Penang police arrested five people, including a couple, and seized various types of drugs wor...",
       "keywords_matched": [
         "drug"
-      ]
-    },
-    {
-      "title": "Health Ministry warns against GB Daily Glow Skin Cream after mercury found",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/01/health-ministry-warns-against-gb-daily-glow-skin-cream-after-mercury-found/237271",
-      "source": "Malay Mail",
-      "published": "2026-10-01T08:53:05",
-      "summary": "PUTRAJAYA, Oct 1 — The Ministry of Health (MOH) has cancelled the notification of the cosmetic product GB Daily Gl...",
-      "keywords_matched": [
-        "health"
       ]
     }
   ]
