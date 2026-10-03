@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-03T06:02:45.791260",
+  "fetched": "2026-10-03T12:13:35.535551",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
     {
       "title": "New Handheld Robotic Technology Powers Knee Surgery At Thomson Hospital",
@@ -117,13 +117,25 @@
       "keywords_matched": []
     },
     {
-      "title": "Four areas in Johor and Sarawak still in unhealthy API range, Sri Aman highest at 152",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/03/four-areas-in-johor-and-sarawak-still-in-unhealthy-api-range-sri-aman-highest-at-152/237481",
+      "title": "Malaysian pilot detained in Jakarta over alleged drug smuggling gets another 30 days in custody",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/03/malaysian-pilot-detained-in-jakarta-over-alleged-drug-smuggling-gets-another-30-days-in-custody/237541",
       "source": "Malay Mail",
-      "published": "2026-10-03T02:44:49",
-      "summary": "KUALA LUMPUR, Oct 3 — Four areas in Johor and Sarawak recorded unhealthy Air Pollutant Index (API) readings as of...",
+      "published": "2026-10-03T07:47:21",
+      "summary": "KUALA LUMPUR, Oct 3 — The 39-year-old Malaysia Airlines pilot arrested in Jakarta in July over an alleged drug-smu...",
       "keywords_matched": [
-        "health"
+        "drug"
+      ]
+    },
+    {
+      "title": "No more RM12.50 medicine delivery fee, but for rural Sabah patients, the bigger savings may be the journey",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/03/no-more-rm1250-medicine-delivery-fee-but-for-rural-sabah-patients-the-bigger-savings-may-be-the-journey/237532",
+      "source": "Malay Mail",
+      "published": "2026-10-03T06:39:03",
+      "summary": "KOTA KINABALU, Oct 3 — Sabah patients using the Ubat Melalui Pos (UMP) service no longer have to pay the RM12.50 d...",
+      "keywords_matched": [
+        "medicine",
+        "patient",
+        "ubat"
       ]
     }
   ]
