@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-03T12:13:35.535551",
+  "fetched": "2026-10-03T16:58:42.808127",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
     {
       "title": "New Handheld Robotic Technology Powers Knee Surgery At Thomson Hospital",
@@ -124,18 +124,6 @@
       "summary": "KUALA LUMPUR, Oct 3 — The 39-year-old Malaysia Airlines pilot arrested in Jakarta in July over an alleged drug-smu...",
       "keywords_matched": [
         "drug"
-      ]
-    },
-    {
-      "title": "No more RM12.50 medicine delivery fee, but for rural Sabah patients, the bigger savings may be the journey",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/03/no-more-rm1250-medicine-delivery-fee-but-for-rural-sabah-patients-the-bigger-savings-may-be-the-journey/237532",
-      "source": "Malay Mail",
-      "published": "2026-10-03T06:39:03",
-      "summary": "KOTA KINABALU, Oct 3 — Sabah patients using the Ubat Melalui Pos (UMP) service no longer have to pay the RM12.50 d...",
-      "keywords_matched": [
-        "medicine",
-        "patient",
-        "ubat"
       ]
     }
   ]
