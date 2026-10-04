@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-03T22:40:40.698517",
+  "fetched": "2026-10-04T02:23:29.276434",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 10,
   "items": [
     {
       "title": "New Handheld Robotic Technology Powers Knee Surgery At Thomson Hospital",
@@ -115,16 +115,6 @@
       "published": "2026-10-01T06:00:00",
       "summary": "Housemen need supervisors who know their progress, are available when decisions exceed their competence, and can explain what improvement looks like. Those supervisors need time and support too. The post What I Owe The Next Houseman — Dr Kamal Amzan appeared first on CodeBlue .",
       "keywords_matched": []
-    },
-    {
-      "title": "Malaysian pilot detained in Jakarta over alleged drug smuggling gets another 30 days in custody",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/03/malaysian-pilot-detained-in-jakarta-over-alleged-drug-smuggling-gets-another-30-days-in-custody/237541",
-      "source": "Malay Mail",
-      "published": "2026-10-03T07:47:21",
-      "summary": "KUALA LUMPUR, Oct 3 — The 39-year-old Malaysia Airlines pilot arrested in Jakarta in July over an alleged drug-smu...",
-      "keywords_matched": [
-        "drug"
-      ]
     }
   ]
 }
