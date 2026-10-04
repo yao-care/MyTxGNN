@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-04T02:23:29.276434",
+  "fetched": "2026-10-04T09:20:34.313032",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 11,
   "items": [
     {
       "title": "New Handheld Robotic Technology Powers Knee Surgery At Thomson Hospital",
@@ -115,6 +115,16 @@
       "published": "2026-10-01T06:00:00",
       "summary": "Housemen need supervisors who know their progress, are available when decisions exceed their competence, and can explain what improvement looks like. Those supervisors need time and support too. The post What I Owe The Next Houseman — Dr Kamal Amzan appeared first on CodeBlue .",
       "keywords_matched": []
+    },
+    {
+      "title": "Negeri Sembilan joins Johor on unhealthy air list as haze lingers",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/04/negeri-sembilan-joins-johor-on-unhealthy-air-list-as-haze-lingers/237676",
+      "source": "Malay Mail",
+      "published": "2026-10-04T09:10:23",
+      "summary": "KUALA LUMPUR, Oct 4 — A total of eight locations recorded Air Pollutant Index (API) readings in the unhealthy cate...",
+      "keywords_matched": [
+        "health"
+      ]
     }
   ]
 }
