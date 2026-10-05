@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-05T08:20:23.227561",
+  "fetched": "2026-10-05T17:53:05.306630",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 11,
   "items": [
     {
       "title": "When Illness Lasts A Lifetime: Rethinking How Malaysia Finances Chronic Care — Dr K. Thiruchelvam",
@@ -116,33 +116,14 @@
       ]
     },
     {
-      "title": "Prosecution to call up to 20 witnesses as GISBH money laundering trial proceeds at Shah Alam court",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/05/prosecution-to-call-up-to-20-witnesses-as-gisbh-money-laundering-trial-proceeds-at-shah-alam-court/237776",
+      "title": "Woman, 69, found dead in parked car after discharge from Melaka Hospital",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/05/woman-69-found-dead-in-parked-car-after-discharge-from-melaka-hospital/237796",
       "source": "Malay Mail",
-      "published": "2026-10-05T06:58:47",
-      "summary": "SHAH ALAM, Oct 5 — The Sessions Court here was informed today that the representation submitted by the former chie...",
+      "published": "2026-10-05T09:03:54",
+      "summary": "MELAKA, Oct 5 — A 69-year-old woman was found dead in the front passenger seat of a Proton Saga parked at Taman Ta...",
       "keywords_matched": [
-        "trial"
-      ]
-    },
-    {
-      "title": "Drug addict numbers hit 130,307 as of June says home minister",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/05/drug-addict-numbers-hit-130307-as-of-june-says-home-minister/237761",
-      "source": "Malay Mail",
-      "published": "2026-10-05T05:14:25",
-      "summary": "BENTONG, Oct 5 — A total of 130,307 drug addicts were recorded in the country as of June, said Home Minister Datuk...",
-      "keywords_matched": [
-        "drug"
-      ]
-    },
-    {
-      "title": "Health ministry: 3,025 offered places in ILKKM pre-service programme",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/05/health-ministry-3025-offered-places-in-ilkkm-pre-service-programme/237762",
-      "source": "Malay Mail",
-      "published": "2026-10-05T05:05:55",
-      "summary": "PUTRAJAYA, 5 Okt (Bernama) -- Some 3,025 new trainees have been offered places in the pre-service programme at the...",
-      "keywords_matched": [
-        "health"
+        "hospital",
+        "hospital"
       ]
     }
   ]
