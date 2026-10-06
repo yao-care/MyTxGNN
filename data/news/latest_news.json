@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-06T04:54:28.532696",
+  "fetched": "2026-10-06T11:47:27.208454",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,18 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
+    {
+      "title": "The Architecture Of Health: What The World’s Financing Models Can Teach Malaysia (Part 2)",
+      "url": "https://codeblue.galencentre.org/2026/10/the-architecture-of-health-what-the-worlds-financing-models-can-teach-malaysia-part-2/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-06T05:30:00",
+      "summary": "The real question is not whether Malaysia is ready for a sustainable health financing model, but whether we can afford to spend another decade pretending we have another choice. The post The Architecture Of Health: What The World’s Financing Models Can Teach Malaysia (Part 2) appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "MPs Demand Additional Compensation For FDS Crash Families Beyond Ex-Gratia",
       "url": "https://codeblue.galencentre.org/2026/10/mps-demand-additional-compensation-for-fds-crash-families-beyond-ex-gratia/",
@@ -100,21 +110,23 @@
       ]
     },
     {
-      "title": "Retirement And The Retiree: Reflections On Work, Identity, And Dignity From A Nurse’s Perspective — Harjit Kaur",
-      "url": "https://codeblue.galencentre.org/2026/10/retirement-and-the-retiree-reflections-on-work-identity-and-dignity-from-a-nurses-perspective-harjit-kaur/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-02T02:09:17",
-      "summary": "Retired nurses still have an enormous amount to give, if only we can build a system that respects and welcomes their presence. The post Retirement And The Retiree: Reflections On Work, Identity, And Dignity From A Nurse’s Perspective — Harjit Kaur appeared first on CodeBlue .",
-      "keywords_matched": []
+      "title": "Company director in Johor lorry chase case claims trial on attempted murder charge",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/06/company-director-in-johor-lorry-chase-case-claims-trial-on-attempted-murder-charge/237936",
+      "source": "Malay Mail",
+      "published": "2026-10-06T07:50:49",
+      "summary": "JOHOR BAHRU, Oct 6 — A 39-year-old company director linked to a 100km police chase involving a stolen lorry claime...",
+      "keywords_matched": [
+        "trial"
+      ]
     },
     {
-      "title": "Malaysia haze worsens overnight as unhealthy areas nearly double to 21, Johor hardest hit",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/06/malaysia-haze-worsens-overnight-as-unhealthy-areas-nearly-double-to-21-johor-hardest-hit/237847",
+      "title": "Two men claim trial to Johor lorry theft after 100km police chase; one faces three more charges",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/06/two-men-claim-trial-to-johor-lorry-theft-after-100km-police-chase-one-faces-three-more-charges/237934",
       "source": "Malay Mail",
-      "published": "2026-10-06T01:05:21",
-      "summary": "KUALA LUMPUR, Oct 6 — Haze conditions worsened sharply across Malaysia overnight, with 21 areas recording unhealth...",
+      "published": "2026-10-06T07:26:05",
+      "summary": "JOHOR BAHRU, Oct 6 — A company director and a factory worker claimed trial in the Magistrate’s and Sessions...",
       "keywords_matched": [
-        "health"
+        "trial"
       ]
     }
   ]
