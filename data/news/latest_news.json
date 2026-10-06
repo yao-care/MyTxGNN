@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-06T11:47:27.208454",
+  "fetched": "2026-10-06T17:56:10.625495",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
     {
       "title": "The Architecture Of Health: What The World’s Financing Models Can Teach Malaysia (Part 2)",
@@ -115,16 +115,6 @@
       "source": "Malay Mail",
       "published": "2026-10-06T07:50:49",
       "summary": "JOHOR BAHRU, Oct 6 — A 39-year-old company director linked to a 100km police chase involving a stolen lorry claime...",
-      "keywords_matched": [
-        "trial"
-      ]
-    },
-    {
-      "title": "Two men claim trial to Johor lorry theft after 100km police chase; one faces three more charges",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/06/two-men-claim-trial-to-johor-lorry-theft-after-100km-police-chase-one-faces-three-more-charges/237934",
-      "source": "Malay Mail",
-      "published": "2026-10-06T07:26:05",
-      "summary": "JOHOR BAHRU, Oct 6 — A company director and a factory worker claimed trial in the Magistrate’s and Sessions...",
       "keywords_matched": [
         "trial"
       ]
