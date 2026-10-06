@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-05T23:44:32.112773",
+  "fetched": "2026-10-06T04:54:28.532696",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,22 @@
   ],
   "total_items": 11,
   "items": [
+    {
+      "title": "MPs Demand Additional Compensation For FDS Crash Families Beyond Ex-Gratia",
+      "url": "https://codeblue.galencentre.org/2026/10/mps-demand-additional-compensation-for-fds-crash-families-beyond-ex-gratia/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-06T03:30:00",
+      "summary": "Bandar Kuching MP Kelvin Yii and Stampin MP Chong Chieng Jen want substantial compensation for families of the five victims in the Long Lellang crash. Yii says the compensation must be on top of ex-gratia payments. Chong says it should be at least RM100k. The post MPs Demand Additional Compensation For FDS Crash Families Beyond Ex-Gratia appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "Third FDS Crash Family Slams MOH’s Absent Support",
+      "url": "https://codeblue.galencentre.org/2026/10/third-fds-crash-family-slams-mohs-absent-support/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-06T02:00:00",
+      "summary": "After complaints from two Miri families, a third victim's family in the FDS chopper crash, pilot Captain Zainol Afiq's widow, has denounced MOH's silence and lack of support, saying Layang Layang Aerospace \"paid for everything\". She has two young children. The post Third FDS Crash Family Slams MOH’s Absent Support appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "When Illness Lasts A Lifetime: Rethinking How Malaysia Finances Chronic Care — Dr K. Thiruchelvam",
       "url": "https://codeblue.galencentre.org/2026/10/when-illness-lasts-a-lifetime-rethinking-how-malaysia-finances-chronic-care-dr-k-thiruchelvam/",
@@ -92,38 +108,13 @@
       "keywords_matched": []
     },
     {
-      "title": "The Architecture Of Health: What The World’s Financing Models Can Teach Malaysia (Part 1)",
-      "url": "https://codeblue.galencentre.org/2026/10/the-architecture-of-health-what-the-worlds-financing-models-can-teach-malaysia-part-1/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-02T02:08:18",
-      "summary": "Malaysia is attempting to sustain a comprehensive health care system without a sustainable financing mechanism. The post The Architecture Of Health: What The World’s Financing Models Can Teach Malaysia (Part 1) appeared first on CodeBlue .",
+      "title": "Malaysia haze worsens overnight as unhealthy areas nearly double to 21, Johor hardest hit",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/06/malaysia-haze-worsens-overnight-as-unhealthy-areas-nearly-double-to-21-johor-hardest-hit/237847",
+      "source": "Malay Mail",
+      "published": "2026-10-06T01:05:21",
+      "summary": "KUALA LUMPUR, Oct 6 — Haze conditions worsened sharply across Malaysia overnight, with 21 areas recording unhealth...",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "A Public Health Doctor Isn’t An ‘Office Doctor’ — Dr MFH",
-      "url": "https://codeblue.galencentre.org/2026/10/a-public-health-doctor-isnt-an-office-doctor-dr-mfh/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-02T02:04:53",
-      "summary": "Public Health Medicine is sometimes misunderstood as admin work. But the office is only one working base. The medicine happens across communities, clinics, hospitals, laboratories, workplaces, schools and other agencies. TB shows the difference clearly. The post A Public Health Doctor Isn’t An ‘Office Doctor’ — Dr MFH appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "medicine",
-        "hospital",
-        "doctor",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Woman, 69, found dead in parked car after discharge from Melaka Hospital",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/05/woman-69-found-dead-in-parked-car-after-discharge-from-melaka-hospital/237796",
-      "source": "Malay Mail",
-      "published": "2026-10-05T09:03:54",
-      "summary": "MELAKA, Oct 5 — A 69-year-old woman was found dead in the front passenger seat of a Proton Saga parked at Taman Ta...",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
       ]
     }
   ]
