@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-07T02:04:48.800534",
+  "fetched": "2026-10-07T09:48:30.740655",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,24 @@
   ],
   "total_items": 11,
   "items": [
+    {
+      "title": "Malaysia: A Sick Nation That Needs Reflection — Dr Goh Heong Keong",
+      "url": "https://codeblue.galencentre.org/2026/10/malaysia-a-sick-nation-that-needs-reflection-dr-goh-heong-keong/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-07T06:00:00",
+      "summary": "Malaysian society is gravely ill, unless we discard mutual prejudices, reject the divisive rhetoric of politicians, and commit to advancing together as a resilient and healthy nation. The post Malaysia: A Sick Nation That Needs Reflection — Dr Goh Heong Keong appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Galen Centre Launches 2027 Briefing Note For Higher Cigarette Excise Duty",
+      "url": "https://codeblue.galencentre.org/2026/10/galen-centre-launches-2027-briefing-note-for-higher-cigarette-excise-duty/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-07T03:52:12",
+      "summary": "The Galen Centre demands a raise in the cigarette excise duty from the current 42 sen per stick to 65 sen under Budget 2027,  followed by scheduled annual increases until 2031. The proposed 2027 increase will add RM4.60 in excise duty for a 20-stick pack. The post Galen Centre Launches 2027 Briefing Note For Higher Cigarette Excise Duty appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "My Children Keep Me Going, Says Alexson’s Widow",
       "url": "https://codeblue.galencentre.org/2026/10/my-children-keep-me-going-says-alexsons-widow/",
@@ -87,32 +105,11 @@
       ]
     },
     {
-      "title": "State Government Can Address Doctor No-Shows If Sabah Gets 40% Revenue: Masidi",
-      "url": "https://codeblue.galencentre.org/2026/10/state-government-can-address-doctor-no-shows-if-sabah-gets-40-revenue-masidi/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-02T07:08:43",
-      "summary": "Sabah DCM Masidi Manjun says staff accommodation and remuneration of doctors are the federal government's financial and constitutional responsibility, but says the state government can do much more if Sabah gets its constitutional 40% revenue entitlement. The post State Government Can Address Doctor No-Shows If Sabah Gets 40% Revenue: Masidi appeared first on CodeBlue .",
-      "keywords_matched": [
-        "doctor"
-      ]
-    },
-    {
-      "title": "Allocate Borneo Medical Service Package In Budget 2027 — Dr James Jeremiah",
-      "url": "https://codeblue.galencentre.org/2026/10/allocate-borneo-medical-service-package-in-budget-2027-dr-james-jeremiah/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-02T03:36:54",
-      "summary": "The federal Budget 2027 should fund a Borneo Medical Service Package to attract doctors to serve in Sabah and Sarawak. Both state governments should also allocate funding for state allowances or bonuses and to improve staff accommodation for doctors. The post Allocate Borneo Medical Service Package In Budget 2027 — Dr James Jeremiah appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medical",
-        "doctor"
-      ]
-    },
-    {
-      "title": "Smoggy start to the day: Batu Pahat tops API at 197, with Selangor, KL and Putrajaya also unhealthy",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/07/smoggy-start-to-the-day-batu-pahat-tops-api-at-197-with-selangor-kl-and-putrajaya-also-unhealthy/238004",
+      "title": "Air quality deteriorates as 37 stations enter unhealthy bracket, Klang Valley and Johor hard hit",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/07/air-quality-deteriorates-as-37-stations-enter-unhealthy-bracket-klang-valley-and-johor-hard-hit/238116",
       "source": "Malay Mail",
-      "published": "2026-10-07T01:46:50",
-      "summary": "KUALA LUMPUR, Oct 7 — Batu Pahat recorded the country’s highest Air Pollutant Index (API) reading of 197 at...",
+      "published": "2026-10-07T08:45:19",
+      "summary": "KUALA LUMPUR, Oct 7 — Air quality across Malaysia deteriorated further late this afternoon, with 37 monitoring sta...",
       "keywords_matched": [
         "health"
       ]
