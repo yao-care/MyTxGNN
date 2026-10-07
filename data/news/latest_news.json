@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-06T22:24:34.720579",
+  "fetched": "2026-10-07T02:04:48.800534",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,14 @@
   ],
   "total_items": 11,
   "items": [
+    {
+      "title": "My Children Keep Me Going, Says Alexson’s Widow",
+      "url": "https://codeblue.galencentre.org/2026/10/my-children-keep-me-going-says-alexsons-widow/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-07T02:00:00",
+      "summary": "Alexson's widow, Stephanie, says she felt like she lost half of her soul when her husband died in the Long Lellang tragedy. But her two young children give her the strength to continue. She misses ordinary routines, like Alexson asking her, \"What to eat?\" The post My Children Keep Me Going, Says Alexson’s Widow appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "The Architecture Of Health: What The World’s Financing Models Can Teach Malaysia (Part 2)",
       "url": "https://codeblue.galencentre.org/2026/10/the-architecture-of-health-what-the-worlds-financing-models-can-teach-malaysia-part-2/",
@@ -100,23 +108,13 @@
       ]
     },
     {
-      "title": "Borneo No-Shows: Doctors Today Have Other Choices — Physician",
-      "url": "https://codeblue.galencentre.org/2026/10/borneo-no-shows-doctors-today-have-other-choices-physician/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-02T02:56:30",
-      "summary": "If Sabah and Sarawak want to attract doctors, make them want to come. The state governments should top up their federal basic salaries by 30% to 40%, besides providing Cola/housing/regional allowances at RM6,000 a month. Fund three return flights yearly. The post Borneo No-Shows: Doctors Today Have Other Choices — Physician appeared first on CodeBlue .",
-      "keywords_matched": [
-        "doctor"
-      ]
-    },
-    {
-      "title": "Company director in Johor lorry chase case claims trial on attempted murder charge",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/06/company-director-in-johor-lorry-chase-case-claims-trial-on-attempted-murder-charge/237936",
+      "title": "Smoggy start to the day: Batu Pahat tops API at 197, with Selangor, KL and Putrajaya also unhealthy",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/07/smoggy-start-to-the-day-batu-pahat-tops-api-at-197-with-selangor-kl-and-putrajaya-also-unhealthy/238004",
       "source": "Malay Mail",
-      "published": "2026-10-06T07:50:49",
-      "summary": "JOHOR BAHRU, Oct 6 — A 39-year-old company director linked to a 100km police chase involving a stolen lorry claime...",
+      "published": "2026-10-07T01:46:50",
+      "summary": "KUALA LUMPUR, Oct 7 — Batu Pahat recorded the country’s highest Air Pollutant Index (API) reading of 197 at...",
       "keywords_matched": [
-        "trial"
+        "health"
       ]
     }
   ]
