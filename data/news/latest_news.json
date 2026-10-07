@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-07T09:48:30.740655",
+  "fetched": "2026-10-07T17:15:10.090065",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 15,
   "items": [
     {
       "title": "Malaysia: A Sick Nation That Needs Reflection — Dr Goh Heong Keong",
@@ -102,6 +102,46 @@
         "hospital",
         "patient",
         "hospital"
+      ]
+    },
+    {
+      "title": "Haze: All Johor schools to close for two days starting tomorrow by  Regent’s decree over unhealthy API",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/07/haze-all-johor-schools-to-close-for-two-days-starting-tomorrow-by-regents-decree-over-unhealthy-api/238152",
+      "source": "Malay Mail",
+      "published": "2026-10-07T12:19:03",
+      "summary": "JOHOR BAHRU, Oct 7 — The Regent of Johor Tunku Mahkota Ismail has decreed for all schools in the state to close fo...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Johor MB pushes for Asean emergency talks as haze hits unhealthy levels",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/07/johor-mb-pushes-for-asean-emergency-talks-as-haze-hits-unhealthy-levels/238145",
+      "source": "Malay Mail",
+      "published": "2026-10-07T11:25:42",
+      "summary": "JOHOR BAHRU, Oct 7 — Johor Menteri Besar Datuk Onn Hafiz Ghazi called on the Association of Southeast Asian Nation...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Witness insists Publika office existed in Hamzah Zainudin aide’s RM350,000 corruption trial",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/07/witness-insists-publika-office-existed-in-hamzah-zainudin-aides-rm350000-corruption-trial/238135",
+      "source": "Malay Mail",
+      "published": "2026-10-07T10:34:46",
+      "summary": "KUALA LUMPUR, Oct 7 — A witness in the corruption trial involving a former political secretary to former home mini...",
+      "keywords_matched": [
+        "trial"
+      ]
+    },
+    {
+      "title": "Nhaveen murder trial adjourned to tomorrow after defence seeks time over witness statements",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/07/nhaveen-murder-trial-adjourned-to-tomorrow-after-defence-seeks-time-over-witness-statements/238130",
+      "source": "Malay Mail",
+      "published": "2026-10-07T09:50:13",
+      "summary": "GEORGE TOWN, Oct 7 — The High Court here today adjourned the defence proceedings of four men charged with the murd...",
+      "keywords_matched": [
+        "trial"
       ]
     },
     {
