@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-08T09:59:22.641712",
+  "fetched": "2026-10-08T17:20:13.058683",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
     {
       "title": "Doctor Placement Figures May Not Reflect Actual Staffing Situation In Sabah — MMA",
@@ -118,17 +118,6 @@
       "summary": "KUALA LUMPUR, Oct 8 — The government has proposed expanding the powers of the Director-General of Health to publis...",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "E-hailing driver claims trial to driving under influence of drugs, causing Maldivian student’s death on LDP",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/08/e-hailing-driver-claims-trial-to-driving-under-influence-of-drugs-causing-maldivian-students-death-on-ldp/238251",
-      "source": "Malay Mail",
-      "published": "2026-10-08T09:04:55",
-      "summary": "SHAH ALAM, Oct 8 — An e-hailing driver today claimed trial in the Magistrate’s Court here to three charges,...",
-      "keywords_matched": [
-        "drug",
-        "trial"
       ]
     }
   ]
