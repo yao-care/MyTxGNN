@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-07T22:42:49.118012",
+  "fetched": "2026-10-08T02:30:28.404829",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,16 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 15,
+  "total_items": 14,
   "items": [
+    {
+      "title": "It Wasn’t Time For Jessie To Die, Says Her Husband",
+      "url": "https://codeblue.galencentre.org/2026/10/it-wasnt-time-for-jessie-to-die-says-her-husband/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-08T02:00:00",
+      "summary": "Although Larry accepts human mortality, he struggles with the sudden death of his wife, nurse Jessie Paya, in the FDS chopper crash. Larry, whose own father passed when he was 10, didn't want their two young children to go through the same thing. The post It Wasn’t Time For Jessie To Die, Says Her Husband appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Malaysia: A Sick Nation That Needs Reflection — Dr Goh Heong Keong",
       "url": "https://codeblue.galencentre.org/2026/10/malaysia-a-sick-nation-that-needs-reflection-dr-goh-heong-keong/",
@@ -93,15 +101,23 @@
       "keywords_matched": []
     },
     {
-      "title": "New Handheld Robotic Technology Powers Knee Surgery At Thomson Hospital",
-      "url": "https://codeblue.galencentre.org/2026/10/new-handheld-robotic-technology-powers-knee-surgery-at-thomson-hospital/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-02T07:56:47",
-      "summary": "Handheld, robotic-assisted technology at Thomson Hospital Kota Damansara for minimally invasive total knee replacement supports a more comfortable path to recovery. The robotic system gives surgeons insight into each patient's individual knee anatomy. The post New Handheld Robotic Technology Powers Knee Surgery At Thomson Hospital appeared first on CodeBlue .",
+      "title": "Haze persists as 38 areas record unhealthy API, Segamat highest at 187",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/08/haze-persists-as-38-areas-record-unhealthy-api-segamat-highest-at-187/238182",
+      "source": "Malay Mail",
+      "published": "2026-10-08T02:12:30",
+      "summary": "KUALA LUMPUR, Oct 8 — Haze continued to blanket much of Peninsular Malaysia this morning, with 38 of the country&r...",
       "keywords_matched": [
-        "hospital",
-        "patient",
-        "hospital"
+        "health"
+      ]
+    },
+    {
+      "title": "Medical officers’ absence in Sabah, Sarawak and AUKU replacement Bill top Dewan Rakyat agenda today",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/08/medical-officers-absence-in-sabah-sarawak-and-auku-replacement-bill-top-dewan-rakyat-agenda-today/238184",
+      "source": "Malay Mail",
+      "published": "2026-10-08T01:54:16",
+      "summary": "KUALA LUMPUR, Oct 8 — The failure of medical officers to report for duty in Sabah and Sarawak, as well as the stat...",
+      "keywords_matched": [
+        "medical"
       ]
     },
     {
@@ -120,36 +136,6 @@
       "source": "Malay Mail",
       "published": "2026-10-07T11:25:42",
       "summary": "JOHOR BAHRU, Oct 7 — Johor Menteri Besar Datuk Onn Hafiz Ghazi called on the Association of Southeast Asian Nation...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Witness insists Publika office existed in Hamzah Zainudin aide’s RM350,000 corruption trial",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/07/witness-insists-publika-office-existed-in-hamzah-zainudin-aides-rm350000-corruption-trial/238135",
-      "source": "Malay Mail",
-      "published": "2026-10-07T10:34:46",
-      "summary": "KUALA LUMPUR, Oct 7 — A witness in the corruption trial involving a former political secretary to former home mini...",
-      "keywords_matched": [
-        "trial"
-      ]
-    },
-    {
-      "title": "Nhaveen murder trial adjourned to tomorrow after defence seeks time over witness statements",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/07/nhaveen-murder-trial-adjourned-to-tomorrow-after-defence-seeks-time-over-witness-statements/238130",
-      "source": "Malay Mail",
-      "published": "2026-10-07T09:50:13",
-      "summary": "GEORGE TOWN, Oct 7 — The High Court here today adjourned the defence proceedings of four men charged with the murd...",
-      "keywords_matched": [
-        "trial"
-      ]
-    },
-    {
-      "title": "Air quality deteriorates as 37 stations enter unhealthy bracket, Klang Valley and Johor hard hit",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/07/air-quality-deteriorates-as-37-stations-enter-unhealthy-bracket-klang-valley-and-johor-hard-hit/238116",
-      "source": "Malay Mail",
-      "published": "2026-10-07T08:45:19",
-      "summary": "KUALA LUMPUR, Oct 7 — Air quality across Malaysia deteriorated further late this afternoon, with 37 monitoring sta...",
       "keywords_matched": [
         "health"
       ]
