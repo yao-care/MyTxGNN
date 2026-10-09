@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-08T22:53:53.534964",
+  "fetched": "2026-10-09T02:46:31.198460",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,28 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
+    {
+      "title": "Haze Outside, Tobacco Smoke Inside: Where Are Our Children Safe? — MyWatch",
+      "url": "https://codeblue.galencentre.org/2026/10/haze-outside-tobacco-smoke-inside-where-are-our-children-safe-mywatch/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-09T02:06:44",
+      "summary": "MyWatch calls for smoke-free homes and a Budget 2027 that puts people’s health before tobacco and vape industry profits. The post Haze Outside, Tobacco Smoke Inside: Where Are Our Children Safe? — MyWatch appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Health Care For All Or Only For Those Who Can Afford It? — DRsForAll",
+      "url": "https://codeblue.galencentre.org/2026/10/health-care-for-all-or-only-for-those-who-can-afford-it-drsforall/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-09T02:00:00",
+      "summary": "DRsForAll calls for urgent action to ensure that postcode, poverty, and purchasing power do not determine who gets the health care they need. The post Health Care For All Or Only For Those Who Can Afford It? — DRsForAll appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "Doctor Placement Figures May Not Reflect Actual Staffing Situation In Sabah — MMA",
       "url": "https://codeblue.galencentre.org/2026/10/doctor-placement-figures-may-not-reflect-actual-staffing-situation-in-sabah-mma/",
@@ -93,29 +113,21 @@
       "keywords_matched": []
     },
     {
-      "title": "Malaysia: A Sick Nation That Needs Reflection — Dr Goh Heong Keong",
-      "url": "https://codeblue.galencentre.org/2026/10/malaysia-a-sick-nation-that-needs-reflection-dr-goh-heong-keong/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-07T06:00:00",
-      "summary": "Malaysian society is gravely ill, unless we discard mutual prejudices, reject the divisive rhetoric of politicians, and commit to advancing together as a resilient and healthy nation. The post Malaysia: A Sick Nation That Needs Reflection — Dr Goh Heong Keong appeared first on CodeBlue .",
+      "title": "No haze respite: Seven spots exceed API of 180, no location in Malaysia with ‘Good’ air quality",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/09/no-haze-respite-seven-spots-exceed-api-of-180-no-location-in-malaysia-with-good-air-quality/238311",
+      "source": "Malay Mail",
+      "published": "2026-10-09T01:06:36",
+      "summary": "KUALA LUMPUR, Oct 9 — Air quality remained at unhealthy levels across broad swathes of Malaysia this morning, prom...",
       "keywords_matched": [
         "health"
       ]
     },
     {
-      "title": "Galen Centre Launches 2027 Briefing Note For Higher Cigarette Excise Duty",
-      "url": "https://codeblue.galencentre.org/2026/10/galen-centre-launches-2027-briefing-note-for-higher-cigarette-excise-duty/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-07T03:52:12",
-      "summary": "The Galen Centre demands a raise in the cigarette excise duty from the current 42 sen per stick to 65 sen under Budget 2027,  followed by scheduled annual increases until 2031. The proposed 2027 increase will add RM4.60 in excise duty for a 20-stick pack. The post Galen Centre Launches 2027 Briefing Note For Higher Cigarette Excise Duty appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Dzulkefly: Food Bill proposes publishing non-compliant food information without court order",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/08/dzulkefly-food-bill-proposes-publishing-non-compliant-food-information-without-court-order/238266",
+      "title": "Haze crisis worsens as unhealthy API readings force sweeping school closures in Putrajaya, Selangor and Rompin",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/09/haze-crisis-worsens-as-unhealthy-api-readings-force-sweeping-school-closures-in-putrajaya-selangor-and-rompin/238306",
       "source": "Malay Mail",
-      "published": "2026-10-08T09:40:50",
-      "summary": "KUALA LUMPUR, Oct 8 — The government has proposed expanding the powers of the Director-General of Health to publis...",
+      "published": "2026-10-09T00:56:41",
+      "summary": "PUTRAJAYA, Oct 9 — All education institutions under the Education Ministry (MOE) in the Federal Territory of Putra...",
       "keywords_matched": [
         "health"
       ]
