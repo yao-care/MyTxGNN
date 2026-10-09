@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-09T10:03:00.362873",
+  "fetched": "2026-10-09T17:18:29.067515",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,62 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 14,
+  "total_items": 13,
   "items": [
+    {
+      "title": "Budget 2027 Omits NCD Control, Health Workforce Reforms",
+      "url": "https://codeblue.galencentre.org/2026/10/budget-2027-omits-ncd-control-health-workforce-reforms/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-09T11:20:47",
+      "summary": "The Galen Centre says regularising existing doctors with permanent positions doesn't increase the actual number of HCPs. Budget 2027 omitted a multi-year recruitment and retention programme. Sugar subsidies were kept, while tobacco taxes weren't raised. The post Budget 2027 Omits NCD Control, Health Workforce Reforms appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "doctor"
+      ]
+    },
+    {
+      "title": "Ending Contract Doctor System Welcomed, But Health Workforce Retention Needed — MMA",
+      "url": "https://codeblue.galencentre.org/2026/10/ending-contract-doctor-system-welcomed-but-health-workforce-retention-needed-mma/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-09T10:59:47",
+      "summary": "Abolishing the contract doctor system is a significant milestone, but Budget 2027 should have introduced a comprehensive health workforce retention strategy, including specialist doctors, says MMA. The revised RM100 FDS incentive remains inadequate. The post Ending Contract Doctor System Welcomed, But Health Workforce Retention Needed — MMA appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "doctor"
+      ]
+    },
+    {
+      "title": "Government Abolishes Madani Medical Scheme Under Budget 2027",
+      "url": "https://codeblue.galencentre.org/2026/10/government-abolishes-madani-medical-scheme-under-budget-2027/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-09T10:44:58",
+      "summary": "After three over years, the government has abolished Skim Perubatan Madani despite its popularity, as the programme subsidising acute care at private GP clinics wasn't listed in MOH's 2027 budget. Funding for Peka B40, MHTC, and NCEMH remained stagnant. The post Government Abolishes Madani Medical Scheme Under Budget 2027 appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical",
+        "perubatan",
+        "ubat"
+      ]
+    },
+    {
+      "title": "Budget 2027: ProtectHealth Welcomes RM280m For Health Screening, Hospital Outsourcing",
+      "url": "https://codeblue.galencentre.org/2026/10/budget-2027-protecthealth-welcomes-rm280m-for-health-screening-hospital-outsourcing/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-09T10:17:55",
+      "summary": "The allocations will support ProtectHealth’s continuing role in expanding access to care across both preventive and hospital services. The post Budget 2027: ProtectHealth Welcomes RM280m For Health Screening, Hospital Outsourcing appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
+      "title": "Budget 2027: RM200 MediAsas Premium Subsidies For 200,000 Workers In First Year",
+      "url": "https://codeblue.galencentre.org/2026/10/budget-2027-rm200-mediasas-premium-subsidies-for-200000-workers-in-first-year/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-09T10:05:32",
+      "summary": "Under Budget 2027, the government will provide RM200 subsidies for MediAsas premiums in the first year for up to 200,000 workers. If the RM200 subsidy for premiums paid to ITOs is for one whole year, not per month, it will cost the government RM40 million. The post Budget 2027: RM200 MediAsas Premium Subsidies For 200,000 Workers In First Year appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Budget 2027: Permanent Appointments For Doctors In 2027 After Housemanship",
       "url": "https://codeblue.galencentre.org/2026/10/budget-2027-permanent-appointments-for-doctors-in-2027-after-housemanship/",
@@ -61,32 +115,22 @@
       ]
     },
     {
-      "title": "If We Want Doctors To Stay, We Need To Give Them A Reason — Government Doctor",
-      "url": "https://codeblue.galencentre.org/2026/10/if-we-want-doctors-to-stay-we-need-to-give-them-a-reason-government-doctor/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-08T07:30:00",
-      "summary": "Doctors have already demonstrated their commitment through years of service in the public health care system. It is time for the system to demonstrate its commitment to doctors. The post If We Want Doctors To Stay, We Need To Give Them A Reason — Government Doctor appeared first on CodeBlue .",
+      "title": "Budget 2027: Health minister vows to complete 9,000 contract-to-permanent doctor transitions",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/09/budget-2027-health-minister-vows-to-complete-9000-contract-to-permanent-doctor-transitions/238483",
+      "source": "Malay Mail",
+      "published": "2026-10-09T12:11:00",
+      "summary": "KUALA LUMPUR, Oct 9 — The Health Ministry (MoH) will complete the process of appointing 9,000 contract doctors to...",
       "keywords_matched": [
         "health",
         "doctor"
       ]
     },
     {
-      "title": "Budget 2027 As An Opportunity To Build A Culture Of Health — Dr Kuljit Singh",
-      "url": "https://codeblue.galencentre.org/2026/10/budget-2027-as-an-opportunity-to-build-a-culture-of-health-dr-kuljit-singh/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-08T06:00:00",
-      "summary": "Making healthier choices the easier choice will, in the long term, meaningfully reduce both the burden and the cost on our health care system. The post Budget 2027 As An Opportunity To Build A Culture Of Health — Dr Kuljit Singh appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Budget 2027: Introduce Health Workforce Retention Plan — Penang Medical Practitioners’ Society",
-      "url": "https://codeblue.galencentre.org/2026/10/budget-2027-introduce-health-workforce-retention-plan-penang-medical-practitioners-society/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-08T05:57:32",
-      "summary": "Malaysia has invested heavily in training its doctors. Now it must invest in giving them reasons to stay. The post Budget 2027: Introduce Health Workforce Retention Plan — Penang Medical Practitioners’ Society appeared first on CodeBlue .",
+      "title": "Budget 2027: Medical groups hail end to contract doctor system, enhanced public-private synergy but seek more on retention",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/09/budget-2027-medical-groups-hail-end-to-contract-doctor-system-enhanced-public-private-synergy-but-seek-more-on-retention/238473",
+      "source": "Malay Mail",
+      "published": "2026-10-09T11:10:17",
+      "summary": "KUALA LUMPUR, Oct 9 — Healthcare stakeholders had mixed responses to the national health allocations announced in...",
       "keywords_matched": [
         "health",
         "medical",
@@ -94,65 +138,13 @@
       ]
     },
     {
-      "title": "MP Backs 30% Specialisation Quota For Doctors In Sabah, Sarawak",
-      "url": "https://codeblue.galencentre.org/2026/10/mp-backs-30-specialisation-quota-for-doctors-in-sabah-sarawak/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-08T04:38:39",
-      "summary": "Bandar Kuching MP Kelvin Yii supports a new 30% specialisation quota reserved for doctors in Sabah and Sarawak, but tells Putrajaya to go further by increasing remuneration, fixing service duration for East Malaysia postings, and improving staff quarters. The post MP Backs 30% Specialisation Quota For Doctors In Sabah, Sarawak appeared first on CodeBlue .",
-      "keywords_matched": [
-        "doctor"
-      ]
-    },
-    {
-      "title": "After 36% Doctor No-Shows In Borneo, Dzulkefly Announces 30% Quota For Specialisation",
-      "url": "https://codeblue.galencentre.org/2026/10/after-36-doctor-no-shows-in-borneo-dzulkefly-announces-30-quota-for-specialisation/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-08T03:47:31",
-      "summary": "Dr Dzul says 382 medical officers didn't report for duty out of 1,055 offers of permanent posts in Sabah and Sarawak this year (36% no-shows), a bit better than 42% no-shows in 2025. He announces a 30% quota for specialisation for those in Sabah/Sarawak. The post After 36% Doctor No-Shows In Borneo, Dzulkefly Announces 30% Quota For Specialisation appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medical",
-        "doctor"
-      ]
-    },
-    {
-      "title": "Anwar: Voluntary medical insurance MediAsas to kick off in 2027, EPF Akaun Sejahtera can pay premiums",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/09/anwar-voluntary-medical-insurance-mediasas-to-kick-off-in-2027-epf-akaun-sejahtera-can-pay-premiums/238451",
+      "title": "Haze: 36 areas record unhealthy API readings, Pasir Gudang highest at 190",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/09/haze-36-areas-record-unhealthy-api-readings-pasir-gudang-highest-at-190/238467",
       "source": "Malay Mail",
-      "published": "2026-10-09T09:37:03",
-      "summary": "KUALA LUMPUR, Oct 9 — MediAsas, a voluntary medical insurance and takaful plan, will be launched nationwide at aff...",
-      "keywords_matched": [
-        "medical"
-      ]
-    },
-    {
-      "title": "Budget 2027: 9,000 contract doctors to be made permanent in 2027, incentive hike for paramedics and nurses",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/09/budget-2027-9000-contract-doctors-to-be-made-permanent-in-2027-incentive-hike-for-paramedics-and-nurses/238445",
-      "source": "Malay Mail",
-      "published": "2026-10-09T09:10:06",
-      "summary": "KUALA LUMPUR, Oct 9 — More than 9,000 contract doctors will be given permanent posting in public healthcare facili...",
-      "keywords_matched": [
-        "health",
-        "doctor"
-      ]
-    },
-    {
-      "title": "Budget 2027: Health Ministry allocation increased, RM1.2b earmarked for upgrading of public facilities",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/09/budget-2027-health-ministry-allocation-increased-rm12b-earmarked-for-upgrading-of-public-facilities/238441",
-      "source": "Malay Mail",
-      "published": "2026-10-09T09:02:25",
-      "summary": "KUALA LUMPUR, Oct 9 — The Health Ministry will receive RM47.7 billion next year, up from this year’s RM46.5...",
+      "published": "2026-10-09T10:40:46",
+      "summary": "KUALA LUMPUR, Oct 9 — A total of 36 areas recorded unhealthy Air Pollutant Index (API) readings as of 5.45pm today...",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "Budget 2027: Road Transport Act to be amended to require drunk, drug-impaired drivers to compensate victims",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/09/budget-2027-road-transport-act-to-be-amended-to-require-drunk-drug-impaired-drivers-to-compensate-victims/238439",
-      "source": "Malay Mail",
-      "published": "2026-10-09T08:54:50",
-      "summary": "KUALA LUMPUR, Oct 9 — Existing road transport law will be amended to make it mandatory for motorists driving...",
-      "keywords_matched": [
-        "drug"
       ]
     }
   ]
