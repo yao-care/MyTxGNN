@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-09T02:46:31.198460",
+  "fetched": "2026-10-09T10:03:00.362873",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,28 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 14,
   "items": [
+    {
+      "title": "Budget 2027: Permanent Appointments For Doctors In 2027 After Housemanship",
+      "url": "https://codeblue.galencentre.org/2026/10/budget-2027-permanent-appointments-for-doctors-in-2027-after-housemanship/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-09T09:10:08",
+      "summary": "PM Anwar declares an end to the contract doctor system. Doctors will be offered permanent positions next year after completing housemanship. Budget 2027 increased FDS allowance from RM30-RM100, and post-basic incentive for paramedics/nurses to RM200/month. The post Budget 2027: Permanent Appointments For Doctors In 2027 After Housemanship appeared first on CodeBlue .",
+      "keywords_matched": [
+        "doctor"
+      ]
+    },
+    {
+      "title": "Budget 2027: Health Ministry Gets RM47.7b, Smallest Increase In Five Years",
+      "url": "https://codeblue.galencentre.org/2026/10/budget-2027-health-ministry-gets-rm47-7b-smallest-increase-in-five-years/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-09T08:34:42",
+      "summary": "Despite health worker shortages, the Health Ministry only received RM47.7 billion in Budget 2027, a minimal 2.5% increase (RM1.18 billion) from 2026, marking the smallest raise in 5 years since Budget 2022. Devex only rose RM5 million for 2027 from 2026. The post Budget 2027: Health Ministry Gets RM47.7b, Smallest Increase In Five Years appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "Haze Outside, Tobacco Smoke Inside: Where Are Our Children Safe? — MyWatch",
       "url": "https://codeblue.galencentre.org/2026/10/haze-outside-tobacco-smoke-inside-where-are-our-children-safe-mywatch/",
@@ -95,41 +115,44 @@
       ]
     },
     {
-      "title": "Why Do Health Workers Leave, And Why Aren’t They Staying? — Dr MFH",
-      "url": "https://codeblue.galencentre.org/2026/10/why-do-health-workers-leave-and-why-arent-they-staying-dr-mfh/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-08T03:30:00",
-      "summary": "A supported, adequately staffed, and sustainable health workforce is essential to maintaining services, improving the health system, and protecting the health of the population. The post Why Do Health Workers Leave, And Why Aren’t They Staying? — Dr MFH appeared first on CodeBlue .",
+      "title": "Anwar: Voluntary medical insurance MediAsas to kick off in 2027, EPF Akaun Sejahtera can pay premiums",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/09/anwar-voluntary-medical-insurance-mediasas-to-kick-off-in-2027-epf-akaun-sejahtera-can-pay-premiums/238451",
+      "source": "Malay Mail",
+      "published": "2026-10-09T09:37:03",
+      "summary": "KUALA LUMPUR, Oct 9 — MediAsas, a voluntary medical insurance and takaful plan, will be launched nationwide at aff...",
+      "keywords_matched": [
+        "medical"
+      ]
+    },
+    {
+      "title": "Budget 2027: 9,000 contract doctors to be made permanent in 2027, incentive hike for paramedics and nurses",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/09/budget-2027-9000-contract-doctors-to-be-made-permanent-in-2027-incentive-hike-for-paramedics-and-nurses/238445",
+      "source": "Malay Mail",
+      "published": "2026-10-09T09:10:06",
+      "summary": "KUALA LUMPUR, Oct 9 — More than 9,000 contract doctors will be given permanent posting in public healthcare facili...",
+      "keywords_matched": [
+        "health",
+        "doctor"
+      ]
+    },
+    {
+      "title": "Budget 2027: Health Ministry allocation increased, RM1.2b earmarked for upgrading of public facilities",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/09/budget-2027-health-ministry-allocation-increased-rm12b-earmarked-for-upgrading-of-public-facilities/238441",
+      "source": "Malay Mail",
+      "published": "2026-10-09T09:02:25",
+      "summary": "KUALA LUMPUR, Oct 9 — The Health Ministry will receive RM47.7 billion next year, up from this year’s RM46.5...",
       "keywords_matched": [
         "health"
       ]
     },
     {
-      "title": "It Wasn’t Time For Jessie To Die, Says Her Husband",
-      "url": "https://codeblue.galencentre.org/2026/10/it-wasnt-time-for-jessie-to-die-says-her-husband/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-08T02:00:00",
-      "summary": "Although Larry accepts human mortality, he struggles with the sudden death of his wife, nurse Jessie Paya, in the FDS chopper crash. Larry, whose own father passed when he was 10, didn't want their two young children to go through the same thing. The post It Wasn’t Time For Jessie To Die, Says Her Husband appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "No haze respite: Seven spots exceed API of 180, no location in Malaysia with ‘Good’ air quality",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/09/no-haze-respite-seven-spots-exceed-api-of-180-no-location-in-malaysia-with-good-air-quality/238311",
+      "title": "Budget 2027: Road Transport Act to be amended to require drunk, drug-impaired drivers to compensate victims",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/09/budget-2027-road-transport-act-to-be-amended-to-require-drunk-drug-impaired-drivers-to-compensate-victims/238439",
       "source": "Malay Mail",
-      "published": "2026-10-09T01:06:36",
-      "summary": "KUALA LUMPUR, Oct 9 — Air quality remained at unhealthy levels across broad swathes of Malaysia this morning, prom...",
+      "published": "2026-10-09T08:54:50",
+      "summary": "KUALA LUMPUR, Oct 9 — Existing road transport law will be amended to make it mandatory for motorists driving...",
       "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Haze crisis worsens as unhealthy API readings force sweeping school closures in Putrajaya, Selangor and Rompin",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/09/haze-crisis-worsens-as-unhealthy-api-readings-force-sweeping-school-closures-in-putrajaya-selangor-and-rompin/238306",
-      "source": "Malay Mail",
-      "published": "2026-10-09T00:56:41",
-      "summary": "PUTRAJAYA, Oct 9 — All education institutions under the Education Ministry (MOE) in the Federal Territory of Putra...",
-      "keywords_matched": [
-        "health"
+        "drug"
       ]
     }
   ]
