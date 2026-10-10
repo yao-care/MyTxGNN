@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-10T09:24:08.149885",
+  "fetched": "2026-10-10T15:42:04.279429",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 16,
+  "total_items": 14,
   "items": [
     {
       "title": "Budget 2027 Omits NCD Control, Health Workforce Reforms",
@@ -115,6 +115,36 @@
       ]
     },
     {
+      "title": "Melaka tourist spots remain busy despite unhealthy API readings",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/10/melaka-tourist-spots-remain-busy-despite-unhealthy-api-readings/238601",
+      "source": "Malay Mail",
+      "published": "2026-10-10T11:01:25",
+      "summary": "MELAKA, Oct 10 — Tourist spots around Banda Hilir here continue to draw local and foreign visitors despite Melaka...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "DPM Zahid wants tahfiz graduates equipped for careers in technology, engineering and medicine",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/10/dpm-zahid-wants-tahfiz-graduates-equipped-for-careers-in-technology-engineering-and-medicine/238597",
+      "source": "Malay Mail",
+      "published": "2026-10-10T10:21:42",
+      "summary": "BANGI, Oct 10 — Tahfiz graduates should have wider opportunities to pursue higher education and professional...",
+      "keywords_matched": [
+        "medicine"
+      ]
+    },
+    {
+      "title": "Fahmi urges Malaysians to prioritise mental health in World Mental Health Day post",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/10/fahmi-urges-malaysians-to-prioritise-mental-health-in-word-mental-healthy-day-post/238593",
+      "source": "Malay Mail",
+      "published": "2026-10-10T09:48:42",
+      "summary": "KUALA LUMPUR, Oct 10 —The public should prioritise their mental health and not hesitate to seek help when experien...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
       "title": "Health Ministry drafting national registry for persons with disabilities to improve service planning",
       "url": "https://www.malaymail.com/news/malaysia/2026/10/10/health-ministry-drafting-national-registry-for-persons-with-disabilities-to-improve-service-planning/238582",
       "source": "Malay Mail",
@@ -122,56 +152,6 @@
       "summary": "SHAH ALAM, Oct 10 — The Ministry of Health (MOH), through its Family Health Development Division’s Persons w...",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "Budget 2027: HKL plans facility upgrades and digital health system rollout",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/10/budget-2027-hkl-plans-facility-upgrades-and-digital-health-system-rollout/238558",
-      "source": "Malay Mail",
-      "published": "2026-10-10T05:46:43",
-      "summary": "KUALA LUMPUR, Oct 10 — The government’s increased allocation for healthcare under Budget 2027 is seen as a c...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "API reaches unhealthy levels in 33 areas across Malaysia by 10am",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/10/api-reaches-unhealthy-levels-in-33-areas-by-10am/238544",
-      "source": "Malay Mail",
-      "published": "2026-10-10T04:35:10",
-      "summary": "KUALA LUMPUR, Oct 10 — A total of 33 areas recorded Air Pollutant Index (API) readings at unhealthy levels as of 1...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Paying a carer for your parents or grandparents? Budget 2027 proposes tax relief even for non-medical care",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/10/paying-a-carer-for-your-parents-or-grandparents-budget-2027-proposes-tax-relief-even-for-non-medical-care/238542",
-      "source": "Malay Mail",
-      "published": "2026-10-10T04:43:51",
-      "summary": "KUALA LUMPUR, Oct 10 — For Malaysian taxpayers paying a carer or for care services for their parents or grandparen...",
-      "keywords_matched": [
-        "medical"
-      ]
-    },
-    {
-      "title": "Lorry driver tests positive for drugs after ploughing into 11 vehicles in Shah Alam, claims brake failure",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/10/lorry-driver-tests-positive-for-drugs-after-ploughing-into-11-vehicles-in-shah-alam-claims-brake-failure/238539",
-      "source": "Malay Mail",
-      "published": "2026-10-10T04:34:37",
-      "summary": "SHAH ALAM, Oct 10 — The driver of a lorry that crashed into 11 other vehicles at a traffic light junction in Alam...",
-      "keywords_matched": [
-        "drug"
-      ]
-    },
-    {
-      "title": "Police shoot and arrest man after chase on Petaling Jaya road, drugs allegedly found on suspect",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/10/police-shoot-and-arrest-man-after-chase-on-petaling-jaya-road-drugs-allegedly-found-on-suspect/238533",
-      "source": "Malay Mail",
-      "published": "2026-10-10T04:12:26",
-      "summary": "PETALING JAYA, Oct 10 — A man in his 30s was shot and injured by police before being arrested after allegedly driv...",
-      "keywords_matched": [
-        "drug"
       ]
     }
   ]
