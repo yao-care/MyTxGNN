@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-10T19:45:09.850294",
+  "fetched": "2026-10-10T23:13:32.144535",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 14,
+  "total_items": 15,
   "items": [
     {
       "title": "Budget 2027 Omits NCD Control, Health Workforce Reforms",
@@ -112,6 +112,20 @@
       "keywords_matched": [
         "health",
         "doctor"
+      ]
+    },
+    {
+      "title": "Malaysia has spent decades digitising public healthcare. Why are paper records still in use?",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/11/malaysia-has-spent-decades-digitising-public-healthcare-why-are-paper-records-still-in-use/236366",
+      "source": "Malay Mail",
+      "published": "2026-10-10T23:00:00",
+      "summary": "KUALA LUMPUR, Oct 11 — For a patient visiting a hospital where electronic medical records are already in use, much...",
+      "keywords_matched": [
+        "health",
+        "medical",
+        "hospital",
+        "patient",
+        "hospital"
       ]
     },
     {
