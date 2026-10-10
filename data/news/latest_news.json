@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-09T22:15:18.418101",
+  "fetched": "2026-10-10T02:04:15.476762",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 11,
   "items": [
     {
       "title": "Budget 2027 Omits NCD Control, Health Workforce Reforms",
@@ -123,28 +123,6 @@
       "keywords_matched": [
         "health",
         "doctor"
-      ]
-    },
-    {
-      "title": "Budget 2027: Medical groups hail end to contract doctor system, enhanced public-private synergy but seek more on retention",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/09/budget-2027-medical-groups-hail-end-to-contract-doctor-system-enhanced-public-private-synergy-but-seek-more-on-retention/238473",
-      "source": "Malay Mail",
-      "published": "2026-10-09T11:10:17",
-      "summary": "KUALA LUMPUR, Oct 9 — Healthcare stakeholders had mixed responses to the national health allocations announced in...",
-      "keywords_matched": [
-        "health",
-        "medical",
-        "doctor"
-      ]
-    },
-    {
-      "title": "Haze: 36 areas record unhealthy API readings, Pasir Gudang highest at 190",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/09/haze-36-areas-record-unhealthy-api-readings-pasir-gudang-highest-at-190/238467",
-      "source": "Malay Mail",
-      "published": "2026-10-09T10:40:46",
-      "summary": "KUALA LUMPUR, Oct 9 — A total of 36 areas recorded unhealthy Air Pollutant Index (API) readings as of 5.45pm today...",
-      "keywords_matched": [
-        "health"
       ]
     }
   ]
