@@ -70,3 +70,6 @@ model_ckpt/
 
 # 空的 SQLite 殘留檔，非專案產物
 mydatabase.db
+
+# 監測快取要進 git，否則每次都是 Initial discovery、永遠不開 issue（2026-10-12）
+!/data/cache/*.json
