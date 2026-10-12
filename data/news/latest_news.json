@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-12T07:09:58.696723",
+  "fetched": "2026-10-12T17:21:29.284040",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,27 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 14,
+  "total_items": 11,
   "items": [
+    {
+      "title": "Senator: Abolish Contract System For All Health Workers",
+      "url": "https://codeblue.galencentre.org/2026/10/senator-abolish-contract-system-for-all-health-workers/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-12T08:07:43",
+      "summary": "Senator Lingeshwaran wants an abolition of the entire contract system in the health service, including for pharmacists, dentists and allied health care professionals, beyond doctors. Azalina recently said MPs now have the power to make legislative changes. The post Senator: Abolish Contract System For All Health Workers appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "doctor"
+      ]
+    },
+    {
+      "title": "Malaysian Paediatric Association Calls For Urgent Action On School Safety And Child Well-Being — Malaysian Paediatric Association",
+      "url": "https://codeblue.galencentre.org/2026/10/malaysian-paediatric-association-calls-for-urgent-action-on-school-safety-and-child-well-being-malaysian-paediatric-association/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-12T08:00:00",
+      "summary": "Protecting our children is a shared responsibility, and it demands action now. The post Malaysian Paediatric Association Calls For Urgent Action On School Safety And Child Well-Being — Malaysian Paediatric Association appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Malaysia Needs A Paradigm Shift In Health Care, Not Just A Bigger Budget — FPMPAM",
       "url": "https://codeblue.galencentre.org/2026/10/malaysia-needs-a-paradigm-shift-in-health-care-not-just-a-bigger-budget-fpmpam/",
@@ -95,70 +114,13 @@
       ]
     },
     {
-      "title": "Government Abolishes Madani Medical Scheme Under Budget 2027",
-      "url": "https://codeblue.galencentre.org/2026/10/government-abolishes-madani-medical-scheme-under-budget-2027/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-09T10:44:58",
-      "summary": "After three over years, the government has abolished Skim Perubatan Madani despite its popularity, as the programme subsidising acute care at private GP clinics wasn't listed in MOH's 2027 budget. Funding for Peka B40, MHTC, and NCEMH remained stagnant. The post Government Abolishes Madani Medical Scheme Under Budget 2027 appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medical",
-        "perubatan",
-        "ubat"
-      ]
-    },
-    {
-      "title": "Budget 2027: ProtectHealth Welcomes RM280m For Health Screening, Hospital Outsourcing",
-      "url": "https://codeblue.galencentre.org/2026/10/budget-2027-protecthealth-welcomes-rm280m-for-health-screening-hospital-outsourcing/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-09T10:17:55",
-      "summary": "The allocations will support ProtectHealth’s continuing role in expanding access to care across both preventive and hospital services. The post Budget 2027: ProtectHealth Welcomes RM280m For Health Screening, Hospital Outsourcing appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Mother agrees bruising on Zara Qairina’s back caused by blood clotting, not a blow",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/12/mother-agrees-bruising-on-zara-qairinas-back-caused-by-blood-clotting-not-a-blow/238802",
+      "title": "Haze worsens: 23 stations record ‘Unhealthy’ API levels across Malaysia",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/12/haze-worsens-23-stations-record-unhealthy-api-levels-across-malaysia/238833",
       "source": "Malay Mail",
-      "published": "2026-10-12T07:00:06",
-      "summary": "KOTA KINABALU, Oct 12 — The mother of the late Zara Qairina Mahathir agreed with the medical expert’s explan...",
-      "keywords_matched": [
-        "medical"
-      ]
-    },
-    {
-      "title": "Only 34pc of emergency ambulance calls reach scene in under 15 minutes, says health minister",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/12/only-34pc-of-emergency-ambulance-calls-reach-scene-in-under-15-minutes-says-health-minister/238798",
-      "source": "Malay Mail",
-      "published": "2026-10-12T06:07:37",
-      "summary": "KUALA LUMPUR, Oct 12 — Only 34.1 per cent of emergency ambulance responses in Malaysia met the target time of unde...",
+      "published": "2026-10-12T09:12:48",
+      "summary": "KUALA LUMPUR, Oct 12 — Air quality worsened across the country this afternoon, with 23 of the nation's 68 moni...",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "Deputy minister: MARA Hospital to strengthen Bumiputera healthcare ‘value chain’",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/12/deputy-minister-mara-hospital-to-strengthen-bumiputera-healthcare-value-chain/238777",
-      "source": "Malay Mail",
-      "published": "2026-10-12T04:11:23",
-      "summary": "KUALA LUMPUR, Oct 12 — The planned development of a Majlis Amanah Rakyat (MARA) Hospital will serve as a healthcar...",
-      "keywords_matched": [
-        "health",
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Police track suspected BYD Seal driver to Damansara hospital after Jalan Kuching crash kills five‑year‑old girl",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/12/police-locate-suspected-byd-seal-driver-in-jalan-kuching-crash-that-killed-fiveyearold-girl/238768",
-      "source": "Malay Mail",
-      "published": "2026-10-12T03:19:52",
-      "summary": "KUALA LUMPUR, Oct 12 — Police have tracked the driver allegedly involved in a six-vehicle crash that killed a girl...",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
       ]
     }
   ]
