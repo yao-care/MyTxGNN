@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-12T00:58:10.474536",
+  "fetched": "2026-10-12T07:09:58.696723",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,71 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 14,
   "items": [
+    {
+      "title": "Malaysia Needs A Paradigm Shift In Health Care, Not Just A Bigger Budget — FPMPAM",
+      "url": "https://codeblue.galencentre.org/2026/10/malaysia-needs-a-paradigm-shift-in-health-care-not-just-a-bigger-budget-fpmpam/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-12T06:53:35",
+      "summary": "FPMPAM calls for meaningful reform, better use of existing health care resources, and renewed confidence in the medical profession. The post Malaysia Needs A Paradigm Shift In Health Care, Not Just A Bigger Budget — FPMPAM appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "medical"
+      ]
+    },
+    {
+      "title": "Budget 2027 Can Detect NCDs. Who Is Paid To Prevent Them? — Muhammad Hafeez Basri",
+      "url": "https://codeblue.galencentre.org/2026/10/budget-2027-can-detect-ncds-who-is-paid-to-prevent-them-muhammad-hafeez-basri/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-12T06:27:06",
+      "summary": "When Malaysia grows old, the measure of its health policy will not be how many diseases it detects, but how many people it helps stay on their feet. The post Budget 2027 Can Detect NCDs. Who Is Paid To Prevent Them? — Muhammad Hafeez Basri appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "disease"
+      ]
+    },
+    {
+      "title": "Objection To Naming Food Technologists As Authorised Officers Under The Food Act 1983 — MyEnvHeat",
+      "url": "https://codeblue.galencentre.org/2026/10/objection-to-naming-food-technologists-as-authorised-officers-under-the-food-act-1983-myenvheat/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-12T06:00:00",
+      "summary": "MyEnvHeat opposes a proposal in the Food (Amendment) Bill 2026 to name food technologists (PTM) as authorised enforcement officers, saying this may create a conflict of interest because PTM currently provide guidance and advisory services to industry. The post Objection To Naming Food Technologists As Authorised Officers Under The Food Act 1983 — MyEnvHeat appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "After Pharmacists, Contract Dentists Also Demand Permanent Posts",
+      "url": "https://codeblue.galencentre.org/2026/10/after-pharmacists-contract-dentists-also-demand-permanent-posts/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-12T03:52:21",
+      "summary": "After pharmacists demand permanent posts following Budget 2027 that provided 9,000 permanent positions for doctors, a dental group says contract dentists shouldn't be left behind either. Contracts of the 2021 dentists' cohort expired without extension. The post After Pharmacists, Contract Dentists Also Demand Permanent Posts appeared first on CodeBlue .",
+      "keywords_matched": [
+        "doctor"
+      ]
+    },
+    {
+      "title": "Budget 2027: Permanent Posts Are Progress, Retention Remains Unresolved — Specialist",
+      "url": "https://codeblue.galencentre.org/2026/10/budget-2027-permanent-posts-are-progress-retention-remains-unresolved-specialist/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-12T03:30:00",
+      "summary": "MOH must clarify if the contract doctor system is indeed \"abolished\", as perceived by many, by stating if housemen entering in 2027 will begin as permanent employees or receive guaranteed conversion, besides eligibility for other existing MO cohorts. The post Budget 2027: Permanent Posts Are Progress, Retention Remains Unresolved — Specialist appeared first on CodeBlue .",
+      "keywords_matched": [
+        "doctor"
+      ]
+    },
+    {
+      "title": "Sabah Loses Over 240 Doctors, 64% No-Shows Among Postings From Outside Sabah",
+      "url": "https://codeblue.galencentre.org/2026/10/sabah-loses-over-240-doctors-64-no-shows-among-postings-from-outside-sabah/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-12T02:00:00",
+      "summary": "Sabah lost 244 medical officers, mostly in hospitals, because 333 transferred out of the state for permanent posts, but only 89 from outside Sabah reported for duty in that state. Among 269 MOs from outside posted to Sabah, there were 171 no-shows (64%). The post Sabah Loses Over 240 Doctors, 64% No-Shows Among Postings From Outside Sabah appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical",
+        "hospital",
+        "doctor",
+        "hospital"
+      ]
+    },
     {
       "title": "Budget 2027 Omits NCD Control, Health Workforce Reforms",
       "url": "https://codeblue.galencentre.org/2026/10/budget-2027-omits-ncd-control-health-workforce-reforms/",
@@ -56,72 +119,46 @@
       ]
     },
     {
-      "title": "Budget 2027: RM200 MediAsas Premium Subsidies For 200,000 Workers In First Year",
-      "url": "https://codeblue.galencentre.org/2026/10/budget-2027-rm200-mediasas-premium-subsidies-for-200000-workers-in-first-year/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-09T10:05:32",
-      "summary": "Under Budget 2027, the government will provide RM200 subsidies for MediAsas premiums in the first year for up to 200,000 workers. If the RM200 subsidy for premiums paid to ITOs is for one whole year, not per month, it will cost the government RM40 million. The post Budget 2027: RM200 MediAsas Premium Subsidies For 200,000 Workers In First Year appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Budget 2027: Permanent Appointments For Doctors In 2027 After Housemanship",
-      "url": "https://codeblue.galencentre.org/2026/10/budget-2027-permanent-appointments-for-doctors-in-2027-after-housemanship/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-09T09:10:08",
-      "summary": "PM Anwar declares an end to the contract doctor system. Doctors will be offered permanent positions next year after completing housemanship. Budget 2027 increased FDS allowance from RM30-RM100, and post-basic incentive for paramedics/nurses to RM200/month. The post Budget 2027: Permanent Appointments For Doctors In 2027 After Housemanship appeared first on CodeBlue .",
+      "title": "Mother agrees bruising on Zara Qairina’s back caused by blood clotting, not a blow",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/12/mother-agrees-bruising-on-zara-qairinas-back-caused-by-blood-clotting-not-a-blow/238802",
+      "source": "Malay Mail",
+      "published": "2026-10-12T07:00:06",
+      "summary": "KOTA KINABALU, Oct 12 — The mother of the late Zara Qairina Mahathir agreed with the medical expert’s explan...",
       "keywords_matched": [
-        "doctor"
+        "medical"
       ]
     },
     {
-      "title": "Budget 2027: Health Ministry Gets RM47.7b, Smallest Increase In Five Years",
-      "url": "https://codeblue.galencentre.org/2026/10/budget-2027-health-ministry-gets-rm47-7b-smallest-increase-in-five-years/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-09T08:34:42",
-      "summary": "Despite health worker shortages, the Health Ministry only received RM47.7 billion in Budget 2027, a minimal 2.5% increase (RM1.18 billion) from 2026, marking the smallest raise in 5 years since Budget 2022. Devex only rose RM5 million for 2027 from 2026. The post Budget 2027: Health Ministry Gets RM47.7b, Smallest Increase In Five Years appeared first on CodeBlue .",
+      "title": "Only 34pc of emergency ambulance calls reach scene in under 15 minutes, says health minister",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/12/only-34pc-of-emergency-ambulance-calls-reach-scene-in-under-15-minutes-says-health-minister/238798",
+      "source": "Malay Mail",
+      "published": "2026-10-12T06:07:37",
+      "summary": "KUALA LUMPUR, Oct 12 — Only 34.1 per cent of emergency ambulance responses in Malaysia met the target time of unde...",
       "keywords_matched": [
         "health"
       ]
     },
     {
-      "title": "Haze Outside, Tobacco Smoke Inside: Where Are Our Children Safe? — MyWatch",
-      "url": "https://codeblue.galencentre.org/2026/10/haze-outside-tobacco-smoke-inside-where-are-our-children-safe-mywatch/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-09T02:06:44",
-      "summary": "MyWatch calls for smoke-free homes and a Budget 2027 that puts people’s health before tobacco and vape industry profits. The post Haze Outside, Tobacco Smoke Inside: Where Are Our Children Safe? — MyWatch appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Health Care For All Or Only For Those Who Can Afford It? — DRsForAll",
-      "url": "https://codeblue.galencentre.org/2026/10/health-care-for-all-or-only-for-those-who-can-afford-it-drsforall/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-09T02:00:00",
-      "summary": "DRsForAll calls for urgent action to ensure that postcode, poverty, and purchasing power do not determine who gets the health care they need. The post Health Care For All Or Only For Those Who Can Afford It? — DRsForAll appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Doctor Placement Figures May Not Reflect Actual Staffing Situation In Sabah — MMA",
-      "url": "https://codeblue.galencentre.org/2026/10/doctor-placement-figures-may-not-reflect-actual-staffing-situation-in-sabah-mma/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-08T08:54:55",
-      "summary": "Progress must be measured not merely by the number of doctors reporting for duty, but by whether health care facilities have sufficient manpower to deliver safe, timely, and quality care to the rakyat. The post Doctor Placement Figures May Not Reflect Actual Staffing Situation In Sabah — MMA appeared first on CodeBlue .",
+      "title": "Deputy minister: MARA Hospital to strengthen Bumiputera healthcare ‘value chain’",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/12/deputy-minister-mara-hospital-to-strengthen-bumiputera-healthcare-value-chain/238777",
+      "source": "Malay Mail",
+      "published": "2026-10-12T04:11:23",
+      "summary": "KUALA LUMPUR, Oct 12 — The planned development of a Majlis Amanah Rakyat (MARA) Hospital will serve as a healthcar...",
       "keywords_matched": [
         "health",
-        "doctor"
+        "hospital",
+        "hospital"
       ]
     },
     {
-      "title": "Health Ministry steps up efforts to recruit, retain nurses amid overseas migration",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/11/health-ministry-steps-up-efforts-to-recruit-retain-nurses-amid-overseas-migration/238702",
+      "title": "Police track suspected BYD Seal driver to Damansara hospital after Jalan Kuching crash kills five‑year‑old girl",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/12/police-locate-suspected-byd-seal-driver-in-jalan-kuching-crash-that-killed-fiveyearold-girl/238768",
       "source": "Malay Mail",
-      "published": "2026-10-11T09:12:26",
-      "summary": "KUALA LUMPUR, Oct 11 — The Ministry of Health (MOH) is expediting nurse recruitment and strengthening efforts to r...",
+      "published": "2026-10-12T03:19:52",
+      "summary": "KUALA LUMPUR, Oct 12 — Police have tracked the driver allegedly involved in a six-vehicle crash that killed a girl...",
       "keywords_matched": [
-        "health"
+        "hospital",
+        "hospital"
       ]
     }
   ]
