@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-13T07:21:03.846944",
+  "fetched": "2026-10-13T15:34:04.911056",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,26 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 14,
+  "total_items": 11,
   "items": [
+    {
+      "title": "Bandar Kuching MP Moots Haze Tariffs On Indonesia",
+      "url": "https://codeblue.galencentre.org/2026/10/bandar-kuching-mp-moots-haze-tariffs-on-indonesia/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-13T09:12:33",
+      "summary": "Bandar Kuching MP Kelvin Yii wants Malaysia to exercise its trade powers and slap Haze Tariffs onto Indonesia, targeting imported products from foreign companies that are proven to be involved in forest burning in Indonesia. \"The polluter must pay.\" The post Bandar Kuching MP Moots Haze Tariffs On Indonesia appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "Budget 2027: Missed Opportunity To Prioritise Malaysians’ Health — MyWatch",
+      "url": "https://codeblue.galencentre.org/2026/10/budget-2027-missed-opportunity-to-prioritise-malaysians-health-mywatch/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-13T07:30:00",
+      "summary": "Perhaps the most glaring disappointment is the absence of any further increase in tobacco excise duties. We are equally dismayed by the absence of a clear commitment to ban the commercial sale and distribution of recreational vaping products. The post Budget 2027: Missed Opportunity To Prioritise Malaysians’ Health — MyWatch appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "Thirteen Years Without Prof Radin Umar: The Will To Act Is Still Missing — Shahrim Tamrin",
       "url": "https://codeblue.galencentre.org/2026/10/thirteen-years-without-prof-radin-umar-the-will-to-act-is-still-missing-shahrim-tamrin/",
@@ -89,62 +107,13 @@
       ]
     },
     {
-      "title": "Objection To Naming Food Technologists As Authorised Officers Under The Food Act 1983 — MyEnvHeat",
-      "url": "https://codeblue.galencentre.org/2026/10/objection-to-naming-food-technologists-as-authorised-officers-under-the-food-act-1983-myenvheat/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-12T06:00:00",
-      "summary": "MyEnvHeat opposes a proposal in the Food (Amendment) Bill 2026 to name food technologists (PTM) as authorised enforcement officers, saying this may create a conflict of interest because PTM currently provide guidance and advisory services to industry. The post Objection To Naming Food Technologists As Authorised Officers Under The Food Act 1983 — MyEnvHeat appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "After Pharmacists, Contract Dentists Also Demand Permanent Posts",
-      "url": "https://codeblue.galencentre.org/2026/10/after-pharmacists-contract-dentists-also-demand-permanent-posts/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-12T03:52:21",
-      "summary": "After pharmacists demand permanent posts following Budget 2027 that provided 9,000 permanent positions for doctors, a dental group says contract dentists shouldn't be left behind either. Contracts of the 2021 dentists' cohort expired without extension. The post After Pharmacists, Contract Dentists Also Demand Permanent Posts appeared first on CodeBlue .",
-      "keywords_matched": [
-        "doctor"
-      ]
-    },
-    {
-      "title": "Lorry driver in Shah Alam 12-vehicle pile-up pleads not guilty to drug-impaired driving",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/13/lorry-driver-in-shah-alam-12-vehicle-pile-up-pleads-not-guilty-to-drug-impaired-driving/238927",
+      "title": "Home Ministry to seek details on five Malaysians held in Japan drug bust, says Saifuddin Nasution",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/13/home-ministry-to-seek-details-on-five-malaysians-held-in-japan-drug-bust-says-saifuddin-nasution/238977",
       "source": "Malay Mail",
-      "published": "2026-10-13T06:57:39",
-      "summary": "SHAH ALAM, Oct 13 — A lorry driver pleaded not guilty in the Magistrates’ Court here to driving against traf...",
+      "published": "2026-10-13T11:29:57",
+      "summary": "SUNGAI PETANI, Oct 13 — The Home Ministry will contact Japanese authorities to obtain accurate information on the...",
       "keywords_matched": [
         "drug"
-      ]
-    },
-    {
-      "title": "BYD driver still hospitalised as probe into fatal Jalan Kuching crash involving five-year-old girl heads to DPP",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/13/byd-driver-still-hospitalised-as-probe-into-fatal-jalan-kuching-crash-involving-five-year-old-girl-heads-to-dpp/238924",
-      "source": "Malay Mail",
-      "published": "2026-10-13T06:42:58",
-      "summary": "KUALA LUMPUR, Oct 13 — The driver of a BYD Seal involved in a six-vehicle collision that killed a five-year-old gi...",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Pasir Gudang logs country’s worst air quality at 181 API, 20 stations remain unhealthy",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/13/pasir-gudang-logs-countrys-worst-air-quality-at-181-api-20-stations-remain-unhealthy/238901",
-      "source": "Malay Mail",
-      "published": "2026-10-13T02:51:31",
-      "summary": "KUALA LUMPUR, Oct 13 — Air quality across Malaysia showed modest improvement this morning, with 20 of the country&...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Is Malaysia’s fiscal health on the mend? BMI says yes in post-Budget forecast",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/13/is-malaysias-fiscal-health-on-the-mend-bmi-says-yes-in-post-budget-forecast/238895",
-      "source": "Malay Mail",
-      "published": "2026-10-13T02:39:43",
-      "summary": "KUALA LUMPUR, Oct 13 — BMI has maintained its forecast for Malaysia’s fiscal deficit to narrow to 3.4 per ce...",
-      "keywords_matched": [
-        "health"
       ]
     }
   ]
