@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-14T00:13:28.515432",
+  "fetched": "2026-10-14T05:48:16.783581",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,22 @@
   ],
   "total_items": 11,
   "items": [
+    {
+      "title": "Addressing The Rising Tide Of School Violence And Fatalities In Malaysia — Dr Rajeentheran Suntheralingam",
+      "url": "https://codeblue.galencentre.org/2026/10/the-shattered-sanctuary-addressing-the-rising-tide-of-school-violence-and-fatalities-in-malaysia/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-14T03:30:00",
+      "summary": "Malaysia must act immediately on expert recommendations and implement holistic reforms to rebuild a supportive community for its youths. The post Addressing The Rising Tide Of School Violence And Fatalities In Malaysia — Dr Rajeentheran Suntheralingam appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "Market Will Decide If MediAsas Is Successful: Galen Centre",
+      "url": "https://codeblue.galencentre.org/2026/10/market-will-decide-if-mediasas-is-successful-galen-centre/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-14T02:00:00",
+      "summary": "Galen Centre's Azrul says the market will decide if MediAsas is successful, whereas NCSM's Murallitharan says MediAsas isn't relevant to people living with NCDs because it doesn't cover pre-existing conditions. Sustainability depends on the pool size. The post Market Will Decide If MediAsas Is Successful: Galen Centre appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Bandar Kuching MP Moots Haze Tariffs On Indonesia",
       "url": "https://codeblue.galencentre.org/2026/10/bandar-kuching-mp-moots-haze-tariffs-on-indonesia/",
@@ -85,35 +101,13 @@
       "keywords_matched": []
     },
     {
-      "title": "Malaysia Needs A Paradigm Shift In Health Care, Not Just A Bigger Budget — FPMPAM",
-      "url": "https://codeblue.galencentre.org/2026/10/malaysia-needs-a-paradigm-shift-in-health-care-not-just-a-bigger-budget-fpmpam/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-12T06:53:35",
-      "summary": "FPMPAM calls for meaningful reform, better use of existing health care resources, and renewed confidence in the medical profession. The post Malaysia Needs A Paradigm Shift In Health Care, Not Just A Bigger Budget — FPMPAM appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "medical"
-      ]
-    },
-    {
-      "title": "Budget 2027 Can Detect NCDs. Who Is Paid To Prevent Them? — Muhammad Hafeez Basri",
-      "url": "https://codeblue.galencentre.org/2026/10/budget-2027-can-detect-ncds-who-is-paid-to-prevent-them-muhammad-hafeez-basri/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-12T06:27:06",
-      "summary": "When Malaysia grows old, the measure of its health policy will not be how many diseases it detects, but how many people it helps stay on their feet. The post Budget 2027 Can Detect NCDs. Who Is Paid To Prevent Them? — Muhammad Hafeez Basri appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "disease"
-      ]
-    },
-    {
-      "title": "Home Ministry to seek details on five Malaysians held in Japan drug bust, says Saifuddin Nasution",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/13/home-ministry-to-seek-details-on-five-malaysians-held-in-japan-drug-bust-says-saifuddin-nasution/238977",
+      "title": "Economic toll of haze in Malaysia could hit RM1.5b a month as business and health costs mount, experts say",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/14/economic-toll-of-haze-in-malaysia-could-hit-rm15b-a-month-as-business-and-health-costs-mount-experts-say/239016",
       "source": "Malay Mail",
-      "published": "2026-10-13T11:29:57",
-      "summary": "SUNGAI PETANI, Oct 13 — The Home Ministry will contact Japanese authorities to obtain accurate information on the...",
+      "published": "2026-10-14T02:17:32",
+      "summary": "KUALA LUMPUR, Oct 14 — The prolonged transboundary haze is costing Malaysia between RM20 million and RM50 million...",
       "keywords_matched": [
-        "drug"
+        "health"
       ]
     }
   ]
