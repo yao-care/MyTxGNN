@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-14T05:48:16.783581",
+  "fetched": "2026-10-14T11:11:26.308560",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,28 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
+    {
+      "title": "Action Plan Needed After Permanent Posts Promised To Pharmacists — MPS",
+      "url": "https://codeblue.galencentre.org/2026/10/action-plan-needed-after-permanent-posts-promised-to-pharmacists-mps/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-14T07:34:05",
+      "summary": "The affected pharmacists require sufficient certainty to make informed decisions about their careers and continuing service within the public health care system. The post Action Plan Needed After Permanent Posts Promised To Pharmacists — MPS appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Pharmaniaga Targets Local Production Of Nine NIP Vaccines",
+      "url": "https://codeblue.galencentre.org/2026/10/pharmaniaga-targets-local-production-of-nine-nip-vaccines/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-14T06:00:00",
+      "summary": "Pharmaniaga Berhad aims to locally produce nine of 11 National Immunisation Programme (NIP) vaccines, including polio vaccines through a partnership with Indonesia’s PT Bio Farma. Its first locally manufactured vaccine, PCV13, is targeted for late 2027. The post Pharmaniaga Targets Local Production Of Nine NIP Vaccines appeared first on CodeBlue .",
+      "keywords_matched": [
+        "vaccine"
+      ]
+    },
     {
       "title": "Addressing The Rising Tide Of School Violence And Fatalities In Malaysia — Dr Rajeentheran Suntheralingam",
       "url": "https://codeblue.galencentre.org/2026/10/the-shattered-sanctuary-addressing-the-rising-tide-of-school-violence-and-fatalities-in-malaysia/",
@@ -82,32 +102,24 @@
       ]
     },
     {
-      "title": "Senator: Abolish Contract System For All Health Workers",
-      "url": "https://codeblue.galencentre.org/2026/10/senator-abolish-contract-system-for-all-health-workers/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-12T08:07:43",
-      "summary": "Senator Lingeshwaran wants an abolition of the entire contract system in the health service, including for pharmacists, dentists and allied health care professionals, beyond doctors. Azalina recently said MPs now have the power to make legislative changes. The post Senator: Abolish Contract System For All Health Workers appeared first on CodeBlue .",
+      "title": "Nhaveen murder trial: Prosecution cites contradictions in four accused’s defence",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/14/nhaveen-murder-trial-prosecution-cites-contradictions-in-four-accuseds-defence/239106",
+      "source": "Malay Mail",
+      "published": "2026-10-14T08:49:35",
+      "summary": "GEORGE TOWN, Oct 14 — The High Court here was told today that there are four main grounds for the prosecution&rsqu...",
       "keywords_matched": [
-        "health",
-        "doctor"
+        "trial"
       ]
     },
     {
-      "title": "Malaysian Paediatric Association Calls For Urgent Action On School Safety And Child Well-Being — Malaysian Paediatric Association",
-      "url": "https://codeblue.galencentre.org/2026/10/malaysian-paediatric-association-calls-for-urgent-action-on-school-safety-and-child-well-being-malaysian-paediatric-association/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-12T08:00:00",
-      "summary": "Protecting our children is a shared responsibility, and it demands action now. The post Malaysian Paediatric Association Calls For Urgent Action On School Safety And Child Well-Being — Malaysian Paediatric Association appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Economic toll of haze in Malaysia could hit RM1.5b a month as business and health costs mount, experts say",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/14/economic-toll-of-haze-in-malaysia-could-hit-rm15b-a-month-as-business-and-health-costs-mount-experts-say/239016",
+      "title": "1MDB trial: Judge rejects Najib’s bid to stay prison sentence, says his medical issues not special circumstances",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/14/1mdb-trial-judge-rejects-najibs-bid-to-stay-prison-sentence-says-his-medical-issues-not-special-circumstances/239090",
       "source": "Malay Mail",
-      "published": "2026-10-14T02:17:32",
-      "summary": "KUALA LUMPUR, Oct 14 — The prolonged transboundary haze is costing Malaysia between RM20 million and RM50 million...",
+      "published": "2026-10-14T08:11:42",
+      "summary": "KUALA LUMPUR, Oct 14 — The High Court today dismissed former prime minister Datuk Seri Najib Razak’s applica...",
       "keywords_matched": [
-        "health"
+        "medical",
+        "trial"
       ]
     }
   ]
