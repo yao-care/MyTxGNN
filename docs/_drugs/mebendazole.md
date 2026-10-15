@@ -2,7 +2,7 @@
 layout: default
 title: Mebendazole
 parent: Low Evidence (L4-L5)
-nav_order: 465
+nav_order: 486
 evidence_level: L5
 indication_count: 1
 ---
@@ -29,63 +29,79 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Mebendazole: Dari Jangkitan Parasit ke Jerawat
+# Mebendazol: Daripada Enterobiasis, Askariasis dan Trikuriasis kepada Jerawat (Acne)
 
 ## Ringkasan Satu Ayat
 
-Mebendazole adalah agen antelmintik benzimidazol, awalnya digunakan untuk merawat jangkitan cacing parasit dengan menghambat polimerisasi β-tubulin parasit. Model TxGNN meramalkan bahawa ia mungkin berkesan untuk **Jerawat**, tetapi arah ini pada masa ini hanya disokong oleh **0 uji klinik** dan **1 penerbitan yang longgar berkaitan** (laporan kes yang hanya menyebut "lesi seperti jerawat" sebagai simptom penyakit parasit yang tidak berkaitan, bukan bukti anti-jerawat sebenar).
+Mebendazol ialah ubat antihelmintik yang pada asalnya digunakan untuk merawat enterobiasis (cacing kerawit), askariasis (cacing gelang) dan trikuriasis (cacing cambuk).
+Model TxGNN meramalkan ubat ini mungkin berkesan untuk **jerawat (acne)**,
+tetapi pada masa ini **tiada percubaan klinikal** dan hanya **1 penerbitan** (laporan kes yang kurang relevan) yang dikaitkan, jadi ramalan ini masih merupakan hipotesis pengiraan semata-mata.
 
-## Gambaran Keseluruhan Pantas
+---
+
+## Gambaran Keseluruhan Ringkas
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Jangkitan parasit (penggunaan antelmintik) |
-| Indikasi Baharu yang Diramalkan | Jerawat |
+| Indikasi Asal | Enterobiasis, askariasis, trikuriasis (berdasarkan graf pengetahuan TxGNN/PrimeKG; tiada teks indikasi lulus daripada pendaftaran tempatan) |
+| Indikasi Baharu yang Diramal | Jerawat (acne) |
 | Skor Ramalan TxGNN | 99.20% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 13 |
-| Keputusan yang Disyorkan | Tahan |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (Tangguh) |
 
-## Mengapa Ramalan Ini Munasabah?
+---
 
-Pada masa ini, data mekanisme tindakan terperinci tidak tersedia. Berdasarkan maklumat yang diketahui, mebendazole adalah agen antelmintik kelas benzimidazol yang bertindak dengan menghambat polimerisasi β-tubulin dalam parasit, mengganggu pengambilan glukosa dan struktur sel yang bergantung pada mikrotubul mereka. Tiada teks indikasi asal yang dapat diambil daripada rekod pendaftaran Malaysia untuk penilaian ini.
+## Mengapakah Ramalan Ini Munasabah?
 
-Pada masa ini tiada rasional farmakologi yang diketahui menghubungkan mekanisme perencatan mikrotubul ini kepada patofisiologi jerawat (keradangan kelenjar sebum, pengeluaran sebum, atau penjajahan bakteria *C. acnes*). Skor TxGNN 99.20% mencerminkan persatuan struktur dalam graf pengetahuan dan bukannya hubungan yang disahkan secara mekanik, dan harus ditafsirkan sebagai isyarat penjanaan hipotesis sahaja, bukan sebagai bukti keberkesanan klinik.
+Pada masa ini, data terperinci mengenai mekanisme tindakan tidak tersedia. Berdasarkan maklumat yang diketahui, mebendazol ialah ubat antihelmintik yang dikenali menghalang pempolimeran tubulin pada cacing parasit, dan keberkesanannya dalam jangkitan cacing usus telah terbukti. Dari segi mekanisme, kaitannya dengan jerawat tidak jelas.
 
-Rekod literatur tunggal yang dikenal pasti (PMID 7072899) adalah laporan kes 1982 sparganosis proliferatif manusia — penyakit parasit yang tidak berkaitan — di mana "lesi seperti jerawat" digunakan hanya sebagai istilah deskriptif untuk nodol kulit pesakit, bukan sebagai bukti bahawa mebendazole merawat jerawat. Ini menekankan bahawa ramalan pada masa ini kekurangan sebarang bukti sokongan langsung.
+Dalam bidang onkologi, mebendazol telah dikaji untuk kesan antiproliferatif dan antiangiogenik. Secara spekulatif, kesan terhadap percambahan keratinosit atau keradangan mungkin berkaitan dengan jerawat, tetapi data yang disediakan tidak menyokong hubungan ini.
 
-## Bukti Uji Klinik
+Skor TxGNN sangat tinggi (0.992), namun tiada rasional biologi yang didokumenkan. Ramalan ini harus dianggap sebagai hipotesis pengiraan sahaja dan memerlukan pengesahan melalui kajian praklinikal dan klinikal.
 
-Pada masa ini tiada uji klinik berkaitan yang didaftarkan.
+---
+
+## Bukti Percubaan Klinikal
+
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
+
+---
 
 ## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [7072899](https://pubmed.ncbi.nlm.nih.gov/7072899/) | 1982 | Laporan Kes | The American Journal of Tropical Medicine and Hygiene | Laporan kes sparganosis proliferatif manusia dengan nodol kulit seperti "jerawat" sebagai deskriptor simptom; bukan kajian mebendazole merawat jerawat |
+| [7072899](https://pubmed.ncbi.nlm.nih.gov/7072899/) | 1982 | Laporan kes | The American Journal of Tropical Medicine and Hygiene | Laporan kes sparganosis proliferatif pada manusia di Venezuela; pesakit mempunyai lesi nodul/papul seakan jerawat, abses subkutan, anemia dan eosinofilia. Ini bukan bukti keberkesanan mebendazol untuk jerawat. |
 
-## Maklumat Pasaran Malaysia
+---
 
-Mebendazole dipasarkan di Malaysia dengan 13 pendaftaran aktif, tetapi rekod terperinci peringkat produk (nombor lesen, nama produk, bentuk dos, teks indikasi yang diluluskan) tidak tersedia dalam set data semasa.
+## Keselamatan dan Perkara Perlu Diberi Perhatian
 
-## Pertimbangan Keselamatan
+- **Penyakit yang dikaitkan dengan kontraindikasi (berdasarkan graf pengetahuan, bukan teks label)**: penyakit hati dan penyakit pundi hempedu.
+- **Interaksi Ubat** (10 interaksi dikesan; sumber: DDInter):
+  - Sederhana (Moderate): metronidazol, iodida I-131, iodida I-123, fenobarbital, karbamazepin, ritonavir, fosfenitoin, fenitoin, primidon
+  - Ringan (Minor): simetidina
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
+Untuk maklumat amaran dan kontraindikasi lengkap, sila rujuk sisipan pembungkusan.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-Ramalan bergantung semata-mata pada skor graf pengetahuan tanpa uji klinik sokongan dan tiada literatur yang berkaitan secara langsung; penerbitan yang diambil semula itu tidak berkaitan dengan rawatan jerawat. Data keselamatan (amaran, kontraindikasi) juga hilang, yang menghalang sebarang penilaian keselamatan awal (S1).
+- Ramalan hanya berasaskan model (L5), tanpa percubaan klinikal dan tanpa literatur yang relevan. Ubat ini juga tidak didaftarkan di Malaysia, dan data keselamatan daripada label belum lengkap.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Data sisipan pakej TFDA/NPRA — amaran dan kontraindikasi (sedang menyekat)
-- Data mekanisme tindakan terperinci (MOA) daripada DrugBank
-- Teks indikasi asal daripada rekod pendaftaran Malaysia
-- Bukti pra-klinik atau klinik khusus yang secara langsung menilai mebendazole dalam jerawat, bukan penyebutan literatur yang kebetulan
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) yang lengkap, serta penilaian kemunasabahan biologi terhadap jerawat
+- Semakan literatur dan kajian praklinikal (contohnya model keratinosit/keradangan kulit)
+- Sisipan pembungkusan daripada NPRA untuk amaran dan kontraindikasi (jurang data yang menghalang penilaian keselamatan)
+- Penilaian keserasian laluan pentadbiran (oral berbanding topikal) untuk jerawat
+- Pertimbangan status pendaftaran dan ketersediaan produk di Malaysia, memandangkan ubat ini tidak dipasarkan
+- Perhatian khusus terhadap pesakit dengan penyakit hati/pundi hempedu dan ubat yang berinteraksi (terutamanya antiepileptik dan ritonavir)
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

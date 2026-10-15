@@ -2,7 +2,7 @@
 layout: default
 title: Norelgestromin
 parent: Low Evidence (L4-L5)
-nav_order: 508
+nav_order: 532
 evidence_level: L5
 indication_count: 1
 ---
@@ -29,75 +29,68 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Norelgestromin: Dari Kontrasepsi ke Amenorrhea
+# Norelgestromin: Daripada Penggunaan Asal kepada Amenorea
 
 ## Ringkasan Satu Ayat
 
-Norelgestromin, metabolit aktif norgestimat, adalah progestin generasi ketiga yang kini dipasarkan di Malaysia sebagai komponen aktif ubat cegah hamil dalam bentuk tampalan transdermik gabungan. Model TxGNN meramalkan kemungkinan kaitan dengan **Amenorrhea**, dengan skor ramalan sebanyak **99.51%**, tetapi ini berdasarkan **semata-mata pada persamaan penjelmaan graf** — pada masa ini **tiada ujian klinikal dan tiada literatur terbitan** yang menyokong arah ini.
+Norelgestromin ialah progestin (metabolit aktif norgestimat) yang biasanya digunakan dalam produk kontraseptif hormon gabungan. Model TxGNN meramalkan bahawa ia mungkin berkesan untuk **amenorea**, tetapi pada masa ini **tiada ujian klinikal** dan **tiada penerbitan** yang menyokong hala tuju ini.
 
----
+## Gambaran Keseluruhan Pantas
 
-## Gambaran Keseluruhan Cepat
-
-| Item | Kandungan |
-|------|----------|
-| Petunjuk Asal | Kontrasepsi (komponen progestin ubat cegah hamil tampalan transdermik) — tidak disahkan secara berasingan dalam teks lesen Malaysia, yang tidak diisi dalam penarikan data ini |
-| Petunjuk Baru Diramalkan | Amenorrhea |
-| Skor Ramalan TxGNN | 99.51% (pangkat 7212) |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Tiada data indikasi yang diluluskan dalam data yang dikumpulkan (tiada pendaftaran di Malaysia) |
+| Indikasi Baharu yang Diramalkan | Amenorea |
+| Skor Ramalan TxGNN | 99.51% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 1 |
-| Keputusan yang Disyorkan | Tahan |
-
----
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci untuk norelgestromin tidak tersedia dalam pakej bukti ini pada masa ini. Berdasarkan farmakologi yang diketahui, norelgestromin adalah progestin generasi ketiga dan metabolit aktif norgestimat; progestin sebagai kelas bertindak pada endometrium dan paksi hipotalamus-pituitari-ovari, dan digunakan secara klinikal untuk mendorong perdarahan penarikan atau mengurus peraturan kitaran — asas mekanistik yang boleh dipercayai meluas ke amenorrhea.
+Data terperinci mengenai mekanisme tindakan asal tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, norelgestromin ialah progestin yang bertindak sebagai agonis reseptor progesteron. Ia merupakan metabolit aktif norgestimat dan lazimnya diberikan dalam tampalan kontraseptif gabungan bersama etinilestradiol.
 
-Walau bagaimanapun, arah kaitan ini tidak jelas. Peranan klinikal yang ditetapkan norelgestromin adalah sebagai progestin dalam ubat cegah hamil tampalan transdermik gabungan, dan pendedahan progestin kronik daripada kelas produk yang sama adalah sendirinya sebab yang diiktiraf dengan baik untuk amenorrhea daripada rawatan untuknya. Persamaan penjelmaan graf TxGNN tidak membezakan antara perhubungan "merawat" dan "berkait dengan/menyebabkan", jadi ramalan ini harus dibaca sebagai hipotesis yang bernilai disiasati, bukan isyarat terapeutik.
+Progestin digunakan secara klinikal untuk mencetuskan pendarahan putus (withdrawal bleeding) dalam amenorea sekunder serta mengurus gangguan haid berkaitan hormon. Oleh itu, ramalan TxGNN (skor 0.995) munasabah dari segi biologi.
 
-Tiada data petunjuk asal, tiada rekod MOA, dan tiada bukti klinikal atau literatur wujud dalam pakej ini untuk menyelesaikan kekaburan itu — keseluruhan ramalan pada masa ini bergantung pada keluaran model sahaja.
-
----
+Namun, terdapat beberapa perkara yang perlu diberi perhatian. Kontraseptif hormon juga boleh menyebabkan amenorea sebagai kesan sampingan, jadi arah kesannya (rawatan berbanding penyebab) perlu dijelaskan. Selain itu, ubat ini tidak dipasarkan sebagai agen tunggal di Malaysia dan tiada bukti klinikal yang disediakan untuk menyokong kaitan ini.
 
 ## Bukti Ujian Klinikal
 
-Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
-
----
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ## Bukti Literatur
 
-Pada masa ini tiada literatur berkaitan tersedia.
-
----
-
-## Maklumat Pasaran Malaysia
-
-Satu pendaftaran NPRA terdapat dalam rekod (status pasaran: Dipasarkan), tetapi nombor lesen, nama produk, bentuk dos, pengilang, dan teks petunjuk yang diluluskan tidak diisi dalam penarikan data ini — tiada butir pendaftaran yang boleh digunakan dapat dilaporkan tanpa meneka.
-
----
+Pada masa ini tiada literatur berkaitan yang tersedia.
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk risalah paket untuk maklumat keselamatan. (Data amaran utama, kontraindikasi, dan interaksi ubat semuanya tidak tersedia pada masa ini — DG001 ditandai sebagai jurang **Halangan** untuk semakan keselamatan.)
+**Kontraindikasi berdasarkan graf pengetahuan (PrimeKG, bukan teks label produk):** Graf pengetahuan TxGNN mengaitkan norelgestromin dengan penyakit berikut sebagai kontraindikasi:
 
----
+- **Kardiovaskular dan metabolik:** hipertensi, penyakit arteri koronari, tromboflebitis, hiperlipidemia (termasuk hiperlipidemia familial), hipertrigliseridemia, hiperglisemia, diabetes mellitus, ketoasidosis diabetik
+- **Hepatik, hempedu dan renal:** penyakit hati, penyakit pundi hempedu, penyakit buah pinggang, piuriter (pyoureter)
+- **Neurologi dan psikiatri:** epilepsi, migrain, gangguan kebimbangan, gangguan neurotik, gangguan distimik
+- **Metabolik/lain-lain:** porfiria (termasuk porfiria warisan dan gangguan metabolisme porfirin), lupus eritematosus sistemik (termasuk bentuk pediatrik), asma (termasuk asma intrinsik dan alergik), karsinoma payudara wanita, kehilangan penglihatan fungsian (usang)
+
+**Interaksi Ubat:**
+
+| Ubat yang Berinteraksi | Tahap | Sumber |
+|------|------|------|
+| Sugammadex | Major | DDInter |
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
-**Alasan:**
-Ini adalah isyarat L5, ramalan model sahaja tanpa bukti ujian klinikal atau literatur yang menyokong, dan mekanisme yang dicadangkan mempunyai masalah arah yang belum diselesaikan (progestin boleh dipercayai merawat dan menyebabkan amenorrhea). Digabungkan dengan jurang data keselamatan Halangan (DG001), calon tidak boleh meneruskan ke pemeriksaan keselamatan (S1) seadanya.
+**Rasional:**
+Ramalan hanya berasaskan model (L5) tanpa sebarang ujian klinikal atau literatur sokongan. Ubat ini juga tidak didaftarkan di Malaysia, dan terdapat senarai panjang kontraindikasi daripada graf pengetahuan yang perlu disahkan.
 
-**Untuk meneruskan, perkara berikut diperlukan:**
-- Risalah paket TFDA/NPRA (amaran, kontraindikasi) — menyelesaikan DG001, kini menghalang
-- Mekanisme tindakan yang disahkan daripada DrugBank — menyelesaikan DG002
-- Teks petunjuk asal yang disahkan daripada rekod lesen Malaysia
-- Literatur praklinikal atau mekanistik yang menjelaskan sama ada pendedahan progestin merawat atau mendorong amenorrhea dalam konteks ini
-
+**Untuk meneruskan, perlu dilengkapkan:**
+- Data mekanisme tindakan (MOA) terperinci daripada DrugBank
+- Amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menghalang saringan keselamatan)
+- Penjelasan arah kesan (rawatan amenorea berbanding amenorea sebagai kesan sampingan)
+- Bukti klinikal dan literatur yang menyokong penggunaan dalam amenorea
+- Penilaian keserasian laluan pemberian dan formulasi (tampalan transdermal gabungan berbanding agen tunggal)
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

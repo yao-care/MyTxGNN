@@ -2,7 +2,7 @@
 layout: default
 title: Loperamide Hydrochloride
 parent: Low Evidence (L4-L5)
-nav_order: 453
+nav_order: 473
 evidence_level: L5
 indication_count: 0
 ---

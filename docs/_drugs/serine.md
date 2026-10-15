@@ -2,7 +2,7 @@
 layout: default
 title: Serine
 parent: Low Evidence (L4-L5)
-nav_order: 612
+nav_order: 642
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,76 +29,83 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Serine: Dari Indikasi Tidak Tentu kepada Miopati Viseral Familial
+# Serine: Daripada Tiada Indikasi Berdaftar kepada Miopati Visera Familial
 
 ## Ringkasan Satu Ayat
 
-Serine adalah bahan ubat amino asid dengan 55 pendaftaran aktif di Malaysia, tetapi indikasi yang diluluskan asal dan mekanisme tindakan tidak tercatat dalam ekstrak data semasa. Model TxGNN meramalkan potensi keberkesanan untuk **Miopati Viseral Familial**, dengan skor ramalan 99.99% — namun, arah ini pada masa ini disokong oleh **sifar cubaan klinikal** dan **sifar penerbitan**, menjadikannya ramalan model sahaja tanpa pengesahan bebas.
+Serine ialah asid amino proteinogenik dan data yang dikumpulkan untuk laporan ini tidak mencatatkan sebarang indikasi asal yang berdaftar di Malaysia.
+Model TxGNN meramalkan ia mungkin berkesan untuk **miopati visera familial** (skor 99.99%), tetapi setakat ini terdapat **0 ujian klinikal** dan **0 penerbitan** yang menyokong indikasi ini.
+Ramalan ini hanya berasaskan model, tanpa bukti sebenar.
 
 ---
 
-## Gambaran Keseluruhan Pantas
+## Gambaran Ringkas
 
-| Item | Kandungan |
-|------|----------|
-| Indikasi Asal | Tidak dinyatakan dalam data kawal selia tersedia |
-| Indikasi Baru yang Diramalkan | Miopati Viseral Familial |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Tiada data indikasi berdaftar |
+| Indikasi Baharu yang Diramalkan | Miopati visera familial (familial visceral myopathy) |
 | Skor Ramalan TxGNN | 99.99% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 55 |
-| Keputusan yang Disyorkan | Tahan |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan terperinci tidak tersedia untuk Serine, dan teks indikasi yang diluluskan asal juga hilang daripada 55 rekod lesen Malaysia yang diambil. Tanpa kedua-dua titik data ini, tiada jambatan mekanistik boleh diwujudkan antara farmakologi Serine yang diketahui dan Miopati Viseral Familial.
+Data mekanisme tindakan (MOA) terperinci tidak tersedia buat masa ini. Serine ialah asid amino proteinogenik dan tiada indikasi asal yang berdaftar di Malaysia. Oleh itu, tiada hubungan mekanistik khusus antara serine dengan miopati visera (contohnya disfungsi otot licin berkaitan ACTG2) yang disokong oleh data yang dikumpulkan.
 
-Ramalan itu sendiri dijana semata-mata oleh model graf pengetahuan TxGNN (skor 0.9999, kedudukan 306 antara calon) — tiada bukti ujian klinikal atau literatur sokongan ditemui apabila pengumpul bukti membuat pertanyaan untuk "Serine" + "miopati viseral familial". Rasional model itu sendiri secara eksplisit mencatat bahawa tiada hipotesis mekanistik boleh dibina pada masa ini.
+Skor TxGNN yang tinggi (0.9999) mencerminkan isyarat berasaskan graf pengetahuan, bukan bukti klinikal. Ramalan lain dengan skor hampir serupa juga tertumpu pada penyakit usus dan mata:
 
-Adalah wajar diperhatikan bahawa untuk beberapa calon kedudukan lebih rendah dalam pakej bukti yang sama ini (cth., sumbatan usus, glaukoma sudut tertutup), literatur telah diambil — tetapi apabila diperiksa ia berkaitan dengan keluarga enzim *serine protease* (cth., PRSS56, isyarat MK2) dan bukannya amino asid Serine itu sendiri. Ini adalah perlanggaran penamaan, bukan bukti farmakologi, dan tidak boleh disalahertikan sebagai sokongan bagi hipotesis penggunaan semula ubat.
+- **Penyakit usus**: sumbatan usus, pseudo-obstruksi usus miopatik, pseudo-obstruksi usus tidak terklasifikasi, displasia usus neuronal jenis B, dan pseudo-obstruksi usus neuronal kronik idiopatik berkait-X.
+- **Penyakit mata**: glaukoma sudut tertutup, glaukoma traumatik, dan salah arah akueus.
+- **Lain-lain**: hipertermia malignan akibat senaman.
+
+Beberapa penyakit mempunyai skor yang sama (contohnya pseudo-obstruksi usus miopatik dan tidak terklasifikasi; glaukoma traumatik dan salah arah akueus). Ini mencadangkan isyarat graf yang dikongsi, bukan bukti bebas.
 
 ---
 
 ## Bukti Ujian Klinikal
 
-Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
+Buat masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
-Pada masa ini tiada literatur berkaitan tersedia.
+Tiada literatur yang berkaitan secara langsung tersedia untuk miopati visera familial.
+
+Untuk indikasi lain yang diramalkan, literatur yang dikesan **bukan bukti bahawa asid amino serine berkesan sebagai rawatan**. Padanan ini nampaknya timbul daripada pertindihan kata kunci "serine":
+
+- **Sumbatan usus** (17 penerbitan, 10 ditunjukkan): kebanyakannya mengenai sindrom Peutz-Jeghers (gen kinase serine/threonine STK11), kohesinopati, mesotelioma peritoneum, proteinase serine Trichinella, dan reseptor PAR2 dalam kolitis. Ini bukan penggunaan serine sebagai ubat.
+- **Glaukoma sudut tertutup** (5 penerbitan): berkaitan gen PRSS56, iaitu protease serine, dengan glaukoma sudut tertutup dan nanoftalmos. Ini ialah perkaitan gen-penyakit, bukan kesan terapeutik asid amino serine.
+
+Oleh sebab itu, tiada penerbitan ini disenaraikan sebagai bukti sokongan.
 
 ---
 
-## Maklumat Pasaran Malaysia
+## Keselamatan
 
-Serine mempunyai 55 pendaftaran aktif dengan NPRA Malaysia (status dipasarkan: ✓ Dipasarkan). Bagaimanapun, perincian peringkat produk — nombor lesen, nama produk, bentuk dos, pengilang, dan teks indikasi yang diluluskan — tidak diisi dalam ekstrak data semasa dan tidak dapat dilaporkan di sini.
-
----
-
-## Pertimbangan Keselamatan
-
-Sila rujuk sisipan paket untuk maklumat keselamatan.
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
-**Rasional:**
-Indikasi yang diprediksi kedudukan teratas (Miopati Viseral Familial) tidak disokong oleh ujian klinikal dan tiada literatur — ia adalah ramalan model sahaja yang belum disahkan (Tahap Bukti L5). Digabungkan dengan data mekanisme tindakan yang hilang dan maklumat keselamatan sisipan paket yang hilang (jurang data pemblokiran untuk penilaian keselamatan pra-S1), pada masa ini tiada asas untuk memajukan calon ini.
+**Justifikasi:**
+- Ramalan ini hanya berasaskan model (L5). Tiada ujian klinikal atau literatur yang menyokong serine untuk miopati visera familial. Literatur berkaitan indikasi lain berpunca daripada padanan nama (protease serine dan kinase serine/threonine), bukan daripada kesan asid amino serine.
+- Serine tidak didaftarkan di Malaysia, dan data keselamatan daripada sisipan pakej belum diperoleh.
 
-**Untuk meneruskan, perkara-perkara berikut diperlukan:**
-- Amaran sisipan paket TFDA/NPRA dan kontraindikasi (jurang pemblokiran — diperlukan sebelum sebarang penilaian keselamatan pra-S1)
-- Data mekanisme tindakan melalui pertanyaan DrugBank
-- Teks indikasi yang diluluskan asal untuk 55 produk yang didaftarkan di Malaysia
-- Bukti klinikal atau pra-klinikal bebas khusus untuk Miopati Viseral Familial, kerana tiada yang wujud pada masa ini
-- Kajian semakan disambiguasi calon sekunder (cth., sumbatan usus, glaukoma sudut tertutup) untuk mengesahkan bahawa literatur yang diambil mencerminkan amino asid Serine dan bukan enzim serine protease yang tidak berkaitan
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) serine, contohnya daripada DrugBank.
+- Hubungan mekanistik yang munasabah antara serine dengan disfungsi otot licin dalam miopati visera, disahkan melalui kajian praklinikal atau semakan literatur yang disasarkan.
+- Maklumat amaran dan kontraindikasi daripada sisipan pakej NPRA.
+- Penilaian status pendaftaran dan laluan pentadbiran yang sesuai di Malaysia (tiada pendaftaran buat masa ini).
+- Penapisan semula literatur untuk menyingkirkan padanan kata kunci yang tidak berkaitan.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

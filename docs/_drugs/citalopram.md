@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Citalopram
-parent: High Evidence (L1-L2)
-nav_order: 220
-evidence_level: L2
+parent: Low Evidence (L4-L5)
+nav_order: 225
+evidence_level: L5
 indication_count: 5
 ---
 
 # Citalopram
 {: .fs-9 }
 
-Tahap bukti: **L2** | Indikasi diramal: **5** 
+Tahap bukti: **L5** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,99 +29,101 @@ Tahap bukti: **L2** | Indikasi diramal: **5**
 
 </div>
 
-# Citalopram: Dari Kemurungan ke Gangguan Obsesif-Kompulsif
+# Citalopram: Daripada Gangguan Kemurungan kepada Gangguan Obsesif-Kompulsif
 
 ## Ringkasan Satu Ayat
 
-Citalopram ialah perencat pengambilan semula serotonin terpilih (SSRI) yang asalnya digunakan untuk kemurungan. Model TxGNN meramalkan ia juga mungkin berkesan untuk **Gangguan Obsesif-Kompulsif (OCD)**, dengan **30 ujian klinis** dan **16 penerbitan** yang kini menyokong arah ini — walaupun kebanyakan bukti tahap ujian adalah untuk escitalopram (enantiomer-S citalopram) dan bukannya citalopram itu sendiri.
+Citalopram ialah perencat pengambilan semula serotonin terpilih (SSRI) yang pada asalnya digunakan untuk merawat gangguan kemurungan dan kebimbangan.
+Model TxGNN meramalkan ia mungkin berkesan untuk **gangguan obsesif-kompulsif (OCD)**,
+dengan **4 percubaan klinikal** dan **16 penerbitan** yang disenaraikan dalam data yang dikumpulkan untuk laporan ini. Namun, kebanyakan percubaan tidak menyatakan citalopram secara khusus.
 
 ---
 
-## Pandangan Keseluruhan Pantas
+## Gambaran Ringkas
 
 | Item | Kandungan |
 |------|------|
-| Petunjuk Penggunaan Asal | Kemurungan (kelas SSRI; teks petunjuk khusus yang diluluskan NPRA tidak diekstrak dalam penarikan data semasa) |
-| Petunjuk Penggunaan Baru yang Diramalkan | Gangguan Obsesif-Kompulsif (OCD) |
+| Indikasi Asal | Gangguan kemurungan major, kemurungan unipolar, kemurungan endogen, distimia, gangguan kebimbangan, gangguan neurotik (daripada graf pengetahuan TxGNN; tiada teks indikasi berlesen NPRA) |
+| Indikasi Baharu yang Diramalkan | Gangguan obsesif-kompulsif (OCD) |
 | Skor Ramalan TxGNN | 99.74% |
-| Tahap Bukti | L2 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 27 |
-| Keputusan yang Disyorkan | Teruskan dengan Kawalan Keselamatan |
+| Tahap Bukti | L1 mengikut penilaian data (lihat catatan di bawah) |
+| Status Pasaran di Malaysia | Tidak dipasarkan (menurut rekod yang dibekalkan; perlu disahkan) |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Berjaga-jaga) |
+
+**Catatan tahap bukti:** Menurut peraturan, L1 memerlukan sekurang-kurangnya 2 RCT Fasa 3 yang telah selesai. Data hanya menunjukkan satu percubaan Fasa 3 yang selesai (NCT00074815), dan ia tidak menamakan citalopram. Secara ketat, tahap L1 yang diberikan dalam data perlu disemak semula. Tahap yang lebih sesuai mungkin L2 hingga L3. Ini perlu disahkan sebelum keputusan akhir.
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan (MOA) terperinci untuk citalopram tidak tersedia dalam pak bukti. Berdasarkan maklumat yang diketahui, citalopram ialah perencat pengambilan semula serotonin terpilih (SSRI) — pengelasan ini disahkan secara langsung dalam nisbah penalaran perangkaan semula pak bukti. Keberkesanannya dalam kemurungan, petunjuk SSRI yang ditubuhkan, terbukti dengan baik, dan mekanik SSRIs sudah diiktiraf sebagai farmakoterapi garis pertama untuk OCD, kerana patofisiologi OCD sangat berkait dengan disregulasi serotonergik.
+Data mekanisme tindakan (MOA) terperinci tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, citalopram tergolong dalam kelas SSRI, keberkesanannya dalam kemurungan telah terbukti, dan secara mekanistik ia mungkin sesuai untuk OCD.
 
-Ini bukan persatuan model spekulatif semata: SSRIs sudah muncul dalam kebanyakan garis panduan rawatan klinis untuk OCD, dan kajian khusus citalopram (lihat Bukti Sastera di bawah) menyokong kesan kelas ini secara langsung, memberikan ramalan asas klinis sebenar di luar skor TxGNN sahaja.
+Ketidakseimbangan sistem serotonin dalam litar kortiko-striato-talamo-kortikal dikaitkan dengan OCD, dan SSRI ialah kelas farmakoterapi barisan pertama yang mapan untuk OCD. Beberapa kajian terbuka dan kohort yang disenaraikan di bawah turut melaporkan penambahbaikan gejala OCD dengan citalopram, termasuk dalam kalangan kanak-kanak dan remaja.
 
-**Kaveat:** Empat petunjuk lain yang diramalkan TxGNN untuk citalopram dalam kumpulan yang sama — paranoid, schizotypal, schizoid, dan histrionic personality disorder — berkongsi skor ramalan yang sama (99.68%). Ini sangat menunjukkan artifak model (pengelompokan pada kategori penyakit "personality disorder") daripada isyarat bebas khusus penyakit. Keempatnya membawa cadangan **Hold** dan dikecualikan daripada semakan bukti lanjutan di sini.
+Perlu diingatkan bahawa rekod menunjukkan citalopram "tidak dipasarkan" di Malaysia, sedangkan ubat ini digunakan secara meluas di banyak negara. Maklumat ini perlu disahkan.
 
 ---
 
-## Bukti Ujian Klinis
+## Bukti Percubaan Klinikal
 
-| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT00708240](https://clinicaltrials.gov/study/NCT00708240) | Fasa 4 | Tidak Diketahui | 40 | Escitalopram pada remaja dengan OCD — keberkesanan, keselamatan, dan kesan pada fungsi eksekutif/pengaktifan otak |
-| [NCT02022709](https://clinicaltrials.gov/study/NCT02022709) | Fasa 4 | Selesai | 78 | ERP vs SSRIs vs kombinasi untuk OCD; peramal respons rawatan dalam populasi China |
-| [NCT00116532](https://clinicaltrials.gov/study/NCT00116532) | Fasa 4 | Selesai | 30 | Escitalopram untuk OCD — keberkesanan dan dos rawatan optimum |
-| [NCT00723060](https://clinicaltrials.gov/study/NCT00723060) | Fasa 4 | Selesai | 176 | Escitalopram konvensional (20mg) vs dos tinggi (40mg) dalam OCD, ujian rawak berganda buta multipusat |
-| [NCT00215137](https://clinicaltrials.gov/study/NCT00215137) | Fasa 2 | Selesai | 14 | Kajian pelopor keselamatan/keberkesanan escitalopram untuk simptom OCD |
-| [NCT00305500](https://clinicaltrials.gov/study/NCT00305500) | Fasa 3 | Selesai | 100 | Escitalopram dos tinggi terbuka label (sehingga 50mg) untuk OCD, kebolehterimaan dan keberkesanan |
-| [NCT00609531](https://clinicaltrials.gov/study/NCT00609531) | Fasa 1 | Selesai | 12 | Kajian fMRI kesan citalopram pada tingkah laku berulang terbatas dalam gangguan spektrum autisme |
-| [NCT00086645](https://clinicaltrials.gov/study/NCT00086645) | Fasa 2 | Selesai | 149 | Citalopram vs plasebo untuk tingkah laku berulang pada kanak-kanak dengan autisme |
-| [NCT00074815](https://clinicaltrials.gov/study/NCT00074815) | Fasa 3 | Selesai | 124 | Penambahan CBT rawatan SRI pada responden separa OCD pediatrik |
-| [NCT03993535](https://clinicaltrials.gov/study/NCT03993535) | Fasa 4 | Selesai | 250 | Susulan naturalistik ramalan klinis/neurokognitif/neuroimaging respons rawatan OCD |
-
-*Nota: kebanyakan ujian OCD yang relevan secara langsung di atas menggunakan escitalopram (enantiomer aktif S citalopram), bukan citalopram itu sendiri; NCT00609531 dan NCT00086645 menggunakan citalopram tetapi untuk tingkah laku berulang berkaitan autisme dan bukannya OCD.*
+| [NCT00074815](https://clinicaltrials.gov/study/NCT00074815) | Fasa 3 | Selesai | 124 | Terapi tingkah laku kognitif untuk meningkatkan kesan rawatan SRI pada kanak-kanak OCD yang bertindak balas separa; citalopram tidak dinamakan secara khusus |
+| [NCT02022709](https://clinicaltrials.gov/study/NCT02022709) | Fasa 4 | Selesai | 78 | Menilai ERP, SSRI dan gabungan keduanya untuk OCD serta peramal tindak balas; citalopram tidak dinamakan |
+| [NCT00680602](https://clinicaltrials.gov/study/NCT00680602) | Fasa 4 | Selesai | 158 | CBT berkumpulan berbanding fluoxetine untuk OCD; menyokong keberkesanan kelas SSRI, tetapi ubat yang dikaji ialah fluoxetine |
+| [NCT02285699](https://clinicaltrials.gov/study/NCT02285699) | NA | Selesai | 43 | Kajian perintis mikrobiota usus dalam OCD berbanding kawalan sihat; tiada bukti keberkesanan citalopram |
 
 ---
 
-## Bukti Sastera
+## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [10572334](https://pubmed.ncbi.nlm.nih.gov/10572334/) | 1999 | RCT | European Psychiatry | Citalopram vs citalopram+clomipramine dalam OCD yang resisten terhadap rawatan, ujian terbuka label 90 hari |
-| [10471169](https://pubmed.ncbi.nlm.nih.gov/10471169/) | 1999 | RCT | International Clinical Psychopharmacology | Mengkaji keberkesanan citalopram untuk OCD bersama peranannya dalam penyelidikan neurobiologi OCD |
-| [12839522](https://pubmed.ncbi.nlm.nih.gov/12839522/) | 2003 | Kajian terbuka label | Psychiatry and Clinical Neurosciences | Citalopram pada kanak-kanak/remaja dengan OCD — laporan keberkesanan/kebolehterimaan 8 minggu |
-| [35121274](https://pubmed.ncbi.nlm.nih.gov/35121274/) | 2022 | Ulasan/Meta-analisis | Journal of Psychiatric Research | Meta-analisis rangkaian membandingkan rawatan farmakoloji dan psikologi untuk OCD pediatrik |
-| [38703743](https://pubmed.ncbi.nlm.nih.gov/38703743/) | 2024 | Ulasan | Comprehensive Psychiatry | Keselamatan/kebolehterimaan SSRIs dos tinggi luar label (termasuk SSRIs) dalam OCD |
-| [35818708](https://pubmed.ncbi.nlm.nih.gov/35818708/) | 2022 | Ulasan Sistemik | Expert Opinion on Pharmacotherapy | Keberkesanan/kebolehterimaan farmakoterapi untuk gangguan personaliti obsesif-kompulsif |
-| [32982805](https://pubmed.ncbi.nlm.nih.gov/32982805/) | 2020 | Meta-ulasan | Frontiers in Psychiatry | Keberkesanan antidepresan/kebolehterimaan/bunuh diri pada kanak-kanak dan remaja, meliputi OCD |
-| [22305974](https://pubmed.ncbi.nlm.nih.gov/22305974/) | 2012 | Ulasan | BMJ Clinical Evidence | Tinjauan umum epidemiologi OCD dan bukti rawatan |
-| [19454066](https://pubmed.ncbi.nlm.nih.gov/19454066/) | 2007 | Ulasan | BMJ Clinical Evidence | Tinjauan awal epidemiologi OCD dan bukti rawatan |
-| [12607204](https://pubmed.ncbi.nlm.nih.gov/12607204/) | 2000 | Ulasan | World Journal of Biological Psychiatry | Peralihan OCD daripada gangguan jarang kepada keadaan berkaitan serotonin, responsif SSRI |
+| [9241005](https://pubmed.ncbi.nlm.nih.gov/9241005/) | 1997 | Kajian buta tunggal | J Clin Psychopharmacol | Membandingkan keberkesanan anti-obsesi fluvoxamine, paroxetine dan citalopram pada 30 pesakit OCD |
+| [10572334](https://pubmed.ncbi.nlm.nih.gov/10572334/) | 1999 | Kohort (percubaan rawak label terbuka) | Eur Psychiatry | Citalopram berbanding citalopram dengan clomipramine dalam OCD rintang rawatan (16 pesakit) |
+| [15089116](https://pubmed.ncbi.nlm.nih.gov/15089116/) | 2004 | Kohort | CNS Drugs | Hubungan antara kepekatan citalopram dan tindak balas klinikal dalam OCD (keputusan awal) |
+| [12839522](https://pubmed.ncbi.nlm.nih.gov/12839522/) | 2003 | Kohort | Psychiatry Clin Neurosci | Kajian label terbuka 8 minggu pada 15 kanak-kanak/remaja OCD (20–30 mg/hari) |
+| [9466233](https://pubmed.ncbi.nlm.nih.gov/9466233/) | 1997 | Kohort | J Child Adolesc Psychopharmacol | Percubaan terbuka 23 kanak-kanak/remaja; skor Y-BOCS/CY-BOCS bertambah baik daripada 30 kepada 21 (p < 0.001) selepas 10 minggu |
+| [9395151](https://pubmed.ncbi.nlm.nih.gov/9395151/) | 1997 | Kajian perintis terbuka | Acta Psychiatr Scand | Kajian perintis terbuka 24 minggu citalopram dalam OCD |
+| [10471169](https://pubmed.ncbi.nlm.nih.gov/10471169/) | 1999 | Ulasan | Int Clin Psychopharmacol | Ulasan penggunaan citalopram untuk OCD, melangkaui kemurungan |
+| [20712565](https://pubmed.ncbi.nlm.nih.gov/20712565/) | 2010 | Ulasan | Curr Med Chem | Ubat lepas, kini dan akan datang untuk OCD; SSRI ialah asas rawatan |
+| [22305974](https://pubmed.ncbi.nlm.nih.gov/22305974/) | 2012 | Ulasan | BMJ Clin Evid | Ulasan umum epidemiologi dan rawatan OCD |
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Citalopram sedang dipasarkan di Malaysia dengan **27 pendaftaran aktif**. Perincian tahap lesen (nombor pendaftaran, nama produk, bentuk dos, teks petunjuk yang diluluskan) tidak dikembalikan dalam penarikan data NPRA semasa dan memerlukan penarikan data susulan sebelum ia boleh dilaporkan di sini.
+Menurut data yang dikumpulkan untuk laporan ini, citalopram tidak mempunyai pendaftaran NPRA yang direkodkan (jumlah pendaftaran: 0). Status ini perlu disahkan semula.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
+- **Kontraindikasi/keadaan berisiko (daripada graf pengetahuan, bukan teks label):** sindrom QT panjang (termasuk yang familial), torsades de pointes, epilepsi, gangguan bipolar/gangguan afektif major, penyakit hati, penyakit pundi hempedu, kekurangan kalium, gangguan pembekuan darah, penyakit jantung dan kardiovaskular, sindrom malignan neuroleptik, sindrom hormon antidiuretik tidak sesuai (SIADH), sindrom serotonin.
+- **Interaksi Ubat:** 100 interaksi dikesan. Interaksi **Major** yang disenaraikan: bupropion, omeprazole, lorcaserin, cimetidine, cisapride, clarithromycin, dexfenfluramine, diethylpropion, dolasetron. Interaksi **Moderate** termasuk famotidine, loperamide, morphine, asid asetilsalisilik (aspirin), bisacodyl, chlorpropamide, acetohexamide, minyak jarak dan dronabinol. Interaksi **Minor** termasuk aprepitant dan clotrimazole. Beberapa interaksi major (cisapride, dolasetron, clarithromycin) berkaitan risiko pemanjangan QT atau sindrom serotonin.
+
+Sila rujuk sisipan pek untuk maklumat amaran dan kontraindikasi rasmi.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Teruskan dengan Kawalan Keselamatan**
+**Keputusan: Proceed with Guardrails (Teruskan dengan Langkah Berjaga-jaga)**
 
-**Nisbah:**
-Mekanisme SSRI citalopram secara langsung menyokong rawatan OCD, dan ini diperkukuh oleh pelbagai ujian Fasa 2–4 (kebanyakannya escitalopram) dan bukti RCT/terbuka label khusus citalopram dalam sastera. Bagaimanapun, data keselamatan tahap ubat (amaran, kontraindikasi) yang diperlukan untuk penilaian keselamatan formal kini adalah **jurang data pemblokiran**, jadi kawalan keselamatan diperlukan sebelum ini meneruskan lebih jauh.
+**Rasional:**
+- SSRI ialah rawatan barisan pertama yang mapan untuk OCD, dan beberapa kajian terbuka/kohort menyokong citalopram secara khusus. Walau bagaimanapun, percubaan terkawal yang menamakan citalopram masih kurang, dan tahap bukti L1 dalam data perlu disemak semula.
 
-**Untuk meneruskan, perkara berikut diperlukan:**
-- Amaran label produk rasmi dan kontraindikasi untuk citalopram (kini memblokir, ditanda Keseriusan: Pemblokiran dalam pak bukti)
-- Dokumentasi mekanisme tindakan (MOA) terperinci daripada DrugBank
-- Data pasaran Malaysia tahap lesen (nombor pendaftaran, nama produk, teks petunjuk yang diluluskan)
-- Penjelasan sama ada bukti ujian berasaskan escitalopram harus dianggap sebagai langsung terpakai kepada citalopram atau hanya sebagai bukti kesan kelas yang menyokong
+**Untuk meneruskan, perlu dilengkapkan:**
+- Pengesahan sama ada percubaan NCT00074815 dan NCT02022709 menggunakan citalopram, serta semakan tahap bukti
+- Pengesahan status pendaftaran dan pemasaran di Malaysia
+- Sisipan pek NPRA (amaran dan kontraindikasi) untuk saringan keselamatan
+- Data mekanisme tindakan (MOA) daripada DrugBank
+- Pelan pemantauan keselamatan, terutamanya risiko QT, sindrom serotonin dan interaksi ubat major
 
+---
+
+**Ramalan lain (bukti lemah, keputusan: Hold):** gangguan personaliti paranoid (L4, hanya bukti tidak langsung), gangguan personaliti skizotipal, skizoid dan histrionik (L5, ramalan model sahaja tanpa percubaan atau literatur).
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

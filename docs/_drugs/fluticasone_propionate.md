@@ -2,15 +2,15 @@
 layout: default
 title: Fluticasone Propionate
 parent: Low Evidence (L4-L5)
-nav_order: 357
-evidence_level: L4
+nav_order: 372
+evidence_level: L5
 indication_count: 5
 ---
 
 # Fluticasone Propionate
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **5** 
+Tahap bukti: **L5** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,82 +29,84 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-# Fluticasone propionate: Dari Terapi Kortikosteroid Topikal/Inhalasi ke Neurodermatitis
+# Fluticasone Propionate: Daripada Ekzema Atopik kepada Neurodermatitis
 
 ## Ringkasan Satu Ayat
 
-> Fluticasone propionate ialah kortikosteroid topikal/inhalasi yang kuat; teks lesen produk TFDA semasa dan indikasi asal tidak ditangkap dalam paket bukti ini.
-> Ramalan model TxGNN berpangkat teratas ialah **Neurodermatitis** (lichen simplex chronicus),
-> tetapi arah ini kini disokong hanya oleh **0 ujian klinis** dan **2 penerbitan relevansi rendah**.
+Fluticasone propionate ialah kortikosteroid glukokortikoid berkuasa yang digunakan untuk keadaan alahan dan keradangan seperti ekzema atopik, rinitis alergik dan asma.
+Model TxGNN meramalkan ia mungkin berkesan untuk **neurodermatitis** (lichen simplex chronicus), tetapi skor ramalan ialah **0.0%**.
+Pada masa ini terdapat **0 ujian klinikal** dan **0 penerbitan** yang menyokong arah ini, jadi ia hanyalah inferens peringkat kelas ubat.
 
 ---
 
-## Tinjauan Pantas Keseluruhan
+## Gambaran Ringkas
 
-| Item | Kandungan |
-|------|---------|
-| Indikasi Asal | Tidak tersedia — teks lesen TFDA tidak disampul dalam data semasa (jurang data); fluticasone propionate umumnya diketahui sebagai kortikosteroid topikal/inhalasi |
-| Indikasi Baru Diramal | Neurodermatitis |
-| Skor Ramalan TxGNN | 0.00% |
-| Tahap Bukti | L4 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 31 |
-| Keputusan yang Disyorkan | Pegangan |
-
----
-
-## Mengapa Ramalan Ini Wajar?
-
-Pada masa ini, data mekanisme tindakan terperinci tidak tersedia (jurang data). Berdasarkan farmakologi yang diketahui, fluticasone propionate ialah agonis reseptor glukokortikoid yang kuat dengan aktiviti anti-radang dan anti-gatal, digunakan secara topikal dan melalui inhalasi dalam pelbagai keadaan dermatologi dan respiratori.
-
-Neurodermatitis (lichen simplex chronicus) ialah dermatosis berlikenifikasi yang didorong oleh kitaran gatal-calar kronik. Kortikosteroid topikal ialah kategori rawatan barisan pertama yang biasa digunakan untuk keadaan ini dalam amalan klinis, yang memberikan ramalan ini asas mekanistik kelas yang munasabah.
-
-Walau bagaimanapun, paket bukti ini tidak mengandungi kajian perbandingan atau pemerhatian berkaitan ubat fluticasone propionate dalam neurodermatitis — dua penerbitan yang tersedia ialah ulasan umum lichen simplex dan laporan kes yang tidak berkaitan. Sambungan itu oleh itu merupakan ekstrapolasi kelas farmakologi bukannya bukti langsung.
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Ekzema atopik / dermatitis atopik (berdasarkan graf pengetahuan TxGNN; tiada teks indikasi berlesen tersedia di Malaysia) |
+| Indikasi Baharu yang Diramalkan | Neurodermatitis |
+| Skor Ramalan TxGNN | 0.0% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (Tahan) |
 
 ---
 
-## Bukti Ujian Klinis
+## Mengapa Ramalan Ini Munasabah?
 
-Kini tiada ujian klinis berdaftar yang berkaitan.
+Data terperinci mengenai mekanisme tindakan asal ubat ini tidak tersedia. Namun, data farmakologi menunjukkan fluticasone propionate ialah ligan **reseptor glukokortikoid (NR3C1)**. Ia juga berinteraksi dengan reseptor mineralokortikoid (NR3C2) dan reseptor progesteron (PGR). Sebagai agonis reseptor glukokortikoid, ia menekan isyarat sitokin radang dan pengaktifan sel imun di kulit.
 
----
+Neurodermatitis ialah dermatosis radang yang didorong oleh kitaran gatal-garu. Kortikosteroid topikal ialah rawatan konvensional untuk keadaan ini. Fluticasone propionate ialah glukokortikoid topikal berkuasa sederhana hingga tinggi, jadi alasan anti-radang dan anti-pruritus adalah munasabah. Ekzema atopik, yang sudah menjadi indikasi asalnya, juga ialah penyakit kulit radang berkait gatal.
 
-## Bukti Kesusasteraan
-
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|------|------|--------|---------|
-| [15876603](https://pubmed.ncbi.nlm.nih.gov/15876603/) | 2005 | Ulasan | Indian Pediatrics | Ulasan umum lichen simplex (keadaan berkait rapat dengan neurodermatitis); tidak menilai fluticasone propionate secara khusus — diklasifikasikan sebagai relevansi rendah (Tier 3). |
-| [19373142](https://pubmed.ncbi.nlm.nih.gov/19373142/) | 2009 | Laporan Kes | Southern Medical Journal | Laporan kes vaskulitis urtikarial; diagnosis tidak sepadan dengan neurodermatitis dan fluticasone propionate tidak dinilai — diklasifikasikan sebagai relevansi rendah (Tier 3). |
+Walau bagaimanapun, ini hanya inferens peringkat kelas ubat. Tiada ujian klinikal atau literatur khusus untuk neurodermatitis dalam data yang dikumpulkan, dan skor TxGNN ialah 0.0. Keserasian laluan pentadbiran juga belum dinilai.
 
 ---
 
-## Maklumat Pasaran Malaysia
+## Bukti Ujian Klinikal
 
-Ubat ini dicatat sebagai **Dipasarkan** dengan **31 jumlah pendaftaran**, tetapi tiada butiran tahap lesen (nombor kebenaran, nama produk, bentuk dos, teks indikasi yang diluluskan) disampul dalam data semasa untuk mana-mana entri sampel — ini ialah jurang data yang memerlukan susulan dengan daftar sumber.
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan untuk neurodermatitis.
+
+---
+
+## Bukti Literatur
+
+Pada masa ini tiada literatur berkaitan yang tersedia untuk neurodermatitis.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan paket untuk maklumat keselamatan. (Data amaran utama, kontraindikasi, dan interaksi ubat tidak tersedia dalam paket bukti semasa — pengambilan label produk TFDA ditandakan sebagai jurang data **penyekat** untuk kajian keselamatan.)
+Amaran utama dan kontraindikasi daripada sisipan pakej NPRA belum diperoleh, jadi sila rujuk sisipan pakej untuk maklumat keselamatan rasmi.
+
+Graf pengetahuan TxGNN (bukan teks label) mencatat kaitan kontraindikasi dengan keadaan berikut:
+- **Kardiovaskular:** hipertensi dan sindrom QT panjang (termasuk bentuk keluarga).
+- **Neurologi:** epilepsi.
+- **Hepatobilier:** penyakit hati dan penyakit pundi hempedu.
+- **Metabolik:** hiperglisemia.
+- **Jangkitan:** campak dan keratitis herpes simpleks.
+- **Endokrin:** hipopituitarisme dan pelbagai kekurangan hormon pituitari (termasuk kekurangan hormon pertumbuhan, hipogonadisme hipogonadotropik, sindrom Kallmann dan sindrom Sheehan).
+
+Maklumat ini bersifat petunjuk dan mesti disahkan dengan teks label rasmi.
+
+Pangkalan data interaksi hanya memaparkan sasaran farmakologi (reseptor glukokortikoid, mineralokortikoid dan progesteron). Tiada interaksi ubat-ubat berperingkat dilaporkan.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Pegangan**
+**Keputusan: Hold (Tahan)**
 
-**Alasan:**
-Bukti untuk fluticasone propionate dalam neurodermatitis kini terhad kepada dua penerbitan relevansi rendah bukan khusus ubat tanpa ujian klinis sokongan, dan jurang data keselamatan penyekat (amaran label TFDA/NPRA dan kontraindikasi belum diperolehi) menghalang pun penilaian keselamatan awal. Ini tidak memenuhi ambang untuk meneruskan.
+**Rasional:**
+- Tiada ujian klinikal atau literatur menyokong penggunaan fluticasone propionate untuk neurodermatitis, dan skor TxGNN ialah 0.0. Bukti hanya pada tahap ramalan model (L5).
+- Ubat ini juga tidak berdaftar di Malaysia.
+- Sebagai perbandingan, ekzema atopik mempunyai 5 ujian klinikal dan kira-kira 20 penerbitan (tahap L3). Namun, itu ialah penggunaan sedia ada (on-label), bukan repurposing sebenar.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Label produk TFDA/NPRA — amaran dan kontraindikasi (jurang data penyekat, DG001)
-- Data mekanisme tindakan khusus ubat (DG002)
-- Bukti klinis atau preklinik khusus ubat yang menilai secara langsung fluticasone propionate dalam neurodermatitis/lichen simplex chronicus
-- Rekod produk tahap lesen untuk mengesahkan 31 kebenaran berdaftar
-
-**Nota:** Paket bukti ini juga mengandungi calon berasingan, **eksema atopi** (pangkat 4), dengan bukti yang jauh lebih kuat (Tahap Bukti L1, 11 ujian klinis termasuk RCT Fasa 3/4 fluticasone propionate topikal, 20 penerbitan, cadangan "Teruskan dengan Penjaga"). Arah itu sebahagian besarnya mencerminkan penggunaan yang sudah ditubuhkan bagi kategori ubat ini bukannya isyarat penggunaan semula baru, tetapi mungkin patut dipertimbangkan laporan penilaian berasingan mengingat kekuatan bukti.
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisipan pakej NPRA untuk amaran dan kontraindikasi (perlu sebelum saringan keselamatan).
+- Data mekanisme tindakan yang lebih lengkap.
+- Carian literatur dan ujian klinikal khusus untuk neurodermatitis / lichen simplex chronicus.
+- Penilaian keserasian formulasi dan laluan pentadbiran, serta kemungkinan status pendaftaran di Malaysia.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

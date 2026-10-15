@@ -2,7 +2,7 @@
 layout: default
 title: Diosmin
 parent: Low Evidence (L4-L5)
-nav_order: 286
+nav_order: 295
 evidence_level: L5
 indication_count: 1
 ---
@@ -29,69 +29,65 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Diosmin: Dari Ketidakcukupan Vena kepada Amenorrhea
+# Diosmin: Daripada Penggunaan Asal (Tiada Data) kepada Amenorea
 
 ## Ringkasan Satu Ayat
 
-Diosmin ialah agen venotonik berasaskan flavonoid dan perlindung vaskular, yang banyak digunakan untuk pengurusan ketidakcukupan vena kronik dan hemorrhoid. Model TxGNN meramalkan ia mungkin berkesan untuk **Amenorrhea**, bagaimanapun pada masa ini **tiada ujian klinikal** dan **tiada penerbitan** yang menyokong arah penggandaan tujuan spesifik ini. Hubungan mekanistik antara aktiviti vaskular Diosmin dan patofisiologi hormonal amenorrhea dianggap sangat lemah.
+Diosmin ialah flavonoid dengan aktiviti venoaktif yang secara amnya dikaitkan dengan tonus vena dan mikrosirkulasi, tetapi data pendaftaran tempatan yang dikumpulkan untuk laporan ini tidak menyenaraikan sebarang indikasi asal.
+Model TxGNN meramalkan ia mungkin berkesan untuk **amenorea**, dengan skor ramalan tinggi (99.42%).
+Namun, pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong arah ini, jadi bukti hanya bersandarkan ramalan model.
 
-## Ikhtisar Pantas
+---
+
+## Gambaran Keseluruhan Pantas
 
 | Item | Kandungan |
-|------|----------|
-| Indikasi Asli | Ketidakcukupan vena kronik, hemorrhoid (venotonik/perlindung vaskular) |
-| Indikasi Baru yang Diramalkan | Amenorrhea (penyakit) |
+|------|------|
+| Indikasi Asal | Tiada data indikasi asal dalam data pendaftaran tempatan |
+| Indikasi Baharu yang Diramalkan | Amenorea |
 | Skor Ramalan TxGNN | 99.42% |
-| Tahap Bukti | L5 — Ramalan model sahaja, tiada kajian sebenar |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 20 |
-| Keputusan Disyorkan | **Tahan** |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan (MOA) terperinci tidak tersedia dalam pakej bukti. Berdasarkan literatur farmakologi yang diketahui, Diosmin ialah glikosida flavonoid separa sintetik yang berasal daripada hesperidin. Ia bertindak terutamanya sebagai agen venotonik — meningkatkan tonus dinding vena, mengurangkan kebolehrenyutan vena, dan mengurangkan kebolehtelapan kapilari. Ia juga mempunyai sifat anti-radang dan limfatik. Penggunaan klinikal yang ditetapkan berpusat pada penyakit vena kronik (perasaan berat pada kaki, edema, varises) dan episod hemorrhoidal akut.
+Pada masa ini, data terperinci mengenai mekanisme tindakan tidak tersedia. Berdasarkan maklumat umum, diosmin ialah flavonoid venoaktif yang dikatakan memberi kesan kepada tonus vena dan mikrosirkulasi, serta mempunyai sifat anti-radang dan antioksidan. Namun, tiada indikasi asal yang direkodkan dalam data yang dikumpulkan, dan hubungan mekanistik dengan amenorea tidak disokong oleh data yang ada.
 
-Indikasi baru yang diramalkan — amenorrhea — pada asasnya ialah gangguan paksi hipotalamik-pituitari-ovarial (HPO), yang melibatkan gangguan dalam hormon melepaskan gonadotropin, isyarat FSH/LH, atau responsiviti organ hujung (ovari/rahim). Asas patofisiologi amenorrhea adalah hormonal, bukan vaskular, dan sasaran molekul Diosmin (tonus otot licin vena, penyampai kebolehtelapan kapilari) tidak mempunyai pertindihan yang diketahui dengan regulasi paksi HPO.
+Amenorea melibatkan gangguan paksi hipotalamus-pituitari-ovari, kehamilan, atau punca struktur dan endokrin. Sebarang kaitan antara kesan venoaktif atau anti-radang diosmin dengan keadaan ini bersifat spekulatif dan perlu dibuktikan secara bebas daripada set data ini.
 
-Walaupun beberapa flavonoid dilaporkan menunjukkan aktiviti phytoestrogenik yang lemah melalui interaksi dengan reseptor estrogen, tiada bukti yang diterbitkan bahawa Diosmin khususnya mempunyai kesan estrogenik atau progestogenik yang bermakna secara klinikal. Skor ramalan TxGNN yang tinggi (99.42%) mungkin mencerminkan kedekatan struktur antara nod ubat dan penyakit dalam graf pengetahuan — artifak topologi, bukan hubungan kausal biologi yang tulen. Tafsiran ini konsisten dengan ketiadaan lengkap sebarang bukti klinikal atau praklinikal yang menghubungkan Diosmin kepada amenorrhea.
+Satu-satunya sokongan ialah skor ramalan graf pengetahuan TxGNN yang tinggi (0.994; kedudukan 8124). Skor ini ialah ramalan pengiraan, bukan bukti klinikal atau eksperimen. Keserupaan dengan indikasi asal masih belum dinilai.
 
-## Bukti Ujian Klinikal
-
-Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan untuk kombinasi Diosmin–Amenorrhea di atas ClinicalTrials.gov atau ICTRP.
-
-## Bukti Literatur
-
-Pada masa ini tiada literatur berkaitan yang tersedia di atas PubMed untuk kombinasi Diosmin–Amenorrhea.
+---
 
 ## Maklumat Pasaran Malaysia
 
-Terdapat **20 produk berdaftar** yang mengandungi Diosmin dengan Agensi Peraturan Farmasi Kebangsaan (NPRA) Malaysia. Bagaimanapun, data pendaftaran terperinci (nombor kebenaran, nama produk, bentuk dos, dan indikasi yang diluluskan) tidak tersedia dalam pakej bukti semasa.
+Diosmin pada masa ini **tidak dipasarkan** di Malaysia mengikut data NPRA yang dikumpulkan, dan tiada lesen berdaftar.
 
-| Item | Kandungan |
-|------|----------|
-| Jumlah Pendaftaran | 20 |
-| Butiran Produk | Menunggu pengambilan daripada pangkalan data NPRA |
+---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan. Data amaran utama, kontraindikasi, dan interaksi ubat-ubat tidak tersedia dalam pakej bukti semasa. Tiada interaksi ubat yang dikenal pasti dalam pertanyaan DrugBank.
+Sila rujuk risalah maklumat produk (package insert) untuk maklumat keselamatan. Tiada interaksi ubat direkodkan dalam data yang dikumpulkan, tetapi carian interaksi tidak menemui sebarang hasil, jadi ini tidak boleh ditafsirkan sebagai bukti ketiadaan interaksi.
 
-> **Nota:** Jurang data keselamatan diklasifikasikan sebagai **Menyekat** (DG001) — penilaian keselamatan lengkap tidak dapat diteruskan sehingga amaran sisipan pakej dan kontraindikasi diambil daripada NPRA atau sumber peraturan yang setara.
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
-**Alasan:**
-Hubungan mekanistik antara Diosmin (agen venotonik/perlindung vaskular) dan amenorrhea (gangguan hormonal/endokrin) sangat lemah, tanpa sasaran molekul yang dikongsi dikenal pasti. Walaupun skor ramalan TxGNN yang tinggi, tiada bukti penyokong lengkap — sifar ujian klinikal, sifar penerbitan, dan sifar kajian praklinikal. Skor tinggi kemungkinan mencerminkan kedekatan struktur graf pengetahuan, bukan kredibilitas biologi.
+**Justifikasi:**
+- Ramalan ini hanya berasaskan skor model (L5) tanpa percubaan klinikal, penerbitan, atau hubungan mekanistik yang disokong data. Diosmin juga tidak berdaftar di Malaysia dan data keselamatan tidak lengkap.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Data mekanisme tindakan (MOA) untuk menilai sebarang aktiviti hormonal atau endokrin yang berpotensi bagi Diosmin
-- Data keselamatan sisipan pakej (amaran, kontraindikasi) daripada NPRA — pada masa ini jurang data **menyekat**
-- Bukti praklinikal sebarang kesan estrogenik, progestogenik, atau pemulihan paksi HPO bagi Diosmin atau flavonoid berkaitan
-- Sekurang-kurangnya satu kajian celik mata atau mekanistik yang mencadangkan kredibilitas biologi sebelum maju daripada status Tahan
-- Rekod pendaftaran NPRA terperinci (nombor kebenaran, nama produk, indikasi yang diluluskan)
-
+- Maklumat amaran dan kontraindikasi daripada risalah produk NPRA (jurang yang menghalang penilaian keselamatan awal)
+- Data mekanisme tindakan (MOA) yang terperinci, contohnya daripada DrugBank
+- Hubungan mekanistik yang munasabah antara diosmin dan patofisiologi amenorea
+- Kajian praklinikal atau klinikal yang berkaitan, serta semakan literatur
+- Penilaian keserasian laluan pentadbiran dan status pendaftaran produk di Malaysia
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Diclofenac
-parent: Low Evidence (L4-L5)
-nav_order: 275
-evidence_level: L4
+parent: High Evidence (L1-L2)
+nav_order: 284
+evidence_level: L1
 indication_count: 10
 ---
 
 # Diclofenac
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **10** 
+Tahap bukti: **L1** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,84 +29,111 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Diclofenac: Dari Anti-inflamasi/Analgesik kepada Kerentanan Osteoartritis
+# Diclofenac: Daripada Indikasi Asal (Tidak Direkodkan) kepada Osteoartritis
 
 ## Ringkasan Satu Ayat
 
-Diclofenac ialah ubat anti-inflamasi bukan steroid (NSAID) yang banyak digunakan, terutamanya ditunjukkan untuk melegakan kesakitan dan mengurangkan keradangan dalam keadaan reumatik dan muskuloskeletal. Model TxGNN meramalkan ia mungkin berkesan untuk **Kerentanan Osteoartritis**, dengan **1 percubaan klinikal** dan **5 penerbitan** yang kini menyokong arah ini. Penting untuk diberi perhatian, petunjuk yang berkaitan rapat iaitu "osteoartritis" (Pangkat 2) dan "arthropathy" (Pangkat 7) sudah pun merupakan kegunaan yang diluluskan bagi diclofenac, menjadikan sudut "kerentanan" (pencegahan) satu-satunya ramalan yang benar-benar baru.
+Diclofenac ialah ubat antiradang bukan steroid (NSAID) yang menghalang enzim COX-1 dan COX-2. Data yang dikumpulkan untuk laporan ini tidak mengandungi indikasi asal yang berdaftar di Malaysia.
+Model TxGNN meramalkan ia mungkin berkesan untuk **osteoartritis** (skor 99.82%), dengan **40 percubaan klinikal** dan **20 penerbitan** yang disenaraikan bagi indikasi ini. Antaranya terdapat beberapa RCT Fasa 3 yang telah selesai.
 
-## Gambaran Pantas
+---
 
-| Item | Kandungan |
+## Gambaran Keseluruhan Pantas
+
+| Perkara | Kandungan |
 |------|------|
-| Petunjuk Asal | Anti-inflamasi, analgesik (penyakit reumatik, kesakitan muskuloskeletal, osteoartritis, artritis reumatoid) |
-| Petunjuk Baru Diramalkan | Kerentanan Osteoartritis |
+| Indikasi Asal | Tiada data indikasi asal dalam data yang dikumpulkan |
+| Indikasi Baharu yang Diramalkan | Osteoartritis (*osteoarthritis*) |
 | Skor Ramalan TxGNN | 99.82% |
-| Tahap Bukti | L4 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 81 |
-| Keputusan Disyorkan | Tahan |
+| Tahap Bukti | L1 |
+| Status Pasaran di Malaysia | Tidak dipasarkan (menurut data yang dikumpulkan; perlu disahkan) |
+| Bilangan Pendaftaran | 0 |
+| Keputusan yang Disyorkan | Proceed with Guardrails |
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Diclofenac ialah terbitan asid fenilasetat yang menghalang enzim cyclooxygenase (COX-1 dan COX-2), dengan itu mengurangkan sintesis prostaglandin (terutamanya PGE2) yang mengantara keradangan, kesakitan, dan demam. Ia ialah salah satu NSAID yang paling banyak diterima pakai secara global, dengan keberkesanan yang telah ditegakkan dalam osteoartritis, artritis reumatoid, spondilitis ankilosa, dan pelbagai keadaan kesakitan akut. Mekanismenya secara langsung mempengaruhi senario keradangan yang mendorong kesakitan sendi dan pembengkakan dalam arthropathy degeneratif dan keradangan.
+Butiran mekanisme tindakan (MOA) daripada pangkalan data rujukan tidak tersedia. Berdasarkan maklumat yang diketahui, diclofenac menghalang COX-1 dan COX-2, lalu mengurangkan sintesis prostaglandin yang menyebabkan keradangan dan kesakitan pada sendi yang mengalami osteoartritis.
 
-Perbezaan antara petunjuk yang diramalkan — "kerentanan osteoartritis" — dan petunjuk yang sudah diluluskan iaitu rawatan osteoartritis adalah kritikal. "Kerentanan" merujuk kepada kecenderungan genetik dan biologi pra-penyakit untuk membangunkan osteoartritis, berbanding penyakit yang bergejala itu sendiri. Walaupun perencatan COX secara efektif menguruskan gejala OA yang telah ditegakkan (kesakitan, pembengkakan, kekakuan), pada masa ini **tiada bukti** bahawa penggunaan NSAID jangka panjang dapat mencegah permulaan OA dalam individu yang mempunyai kerentanan genetik. Sebenarnya, risiko kardiovaskular, gastrointestinal, dan buah pinggang yang telah didokumenkan dengan baik daripada penggunaan NSAID jangka panjang menjadikan diclofenac calon yang buruk untuk penggunaan pencegahan dalam populasi tanpa gejala.
+Osteoartritis ialah penyakit sendi degeneratif yang kesakitannya sebahagian besarnya dikaitkan dengan keradangan setempat. Oleh itu, ubat antiradang yang mengawal prostaglandin secara mekanisme sesuai untuk melegakan simptom. Penting untuk diperhatikan bahawa ubat ini melegakan simptom dan tiada bukti ia mengubah perjalanan penyakit.
 
-Model TxGNN mungkin telah menghasilkan ramalan ini disebabkan pertindihan farmakologi yang kuat antara diclofenac dan rawatan OA. Walau bagaimanapun, model mungkin tidak secukupnya membezakan antara aplikasi terapeutik dan pencegahan. 8 petunjuk diramalkan tambahan (Pangkat 3–6, 8–10) adalah gangguan skeletal genetik jarang atau gangguan dermatologi (cth. pseudoachondroplasia, brachyolmia, hypotrichosis) yang mana perencatan COX tidak mempunyai nisbah mekanik yang munasabah, selanjutnya mencadangkan bahawa model menangkap persatuan anti-inflamasi yang luas berbanding peluang repurposing yang khusus.
+**Perkara yang perlu disahkan:** Data yang dikumpulkan menyenaraikan diclofenac sebagai "tidak dipasarkan" tanpa indikasi asal dan tanpa ID DrugBank. Ini bercanggah dengan penggunaan klinikal diclofenac yang telah mantap, jadi ia mungkin jurang data. Jika benar, ubat ini kemungkinan sudah menjadi terapi osteoartritis yang diluluskan, dan ramalan ini lebih merupakan pengesahan berbanding repositioning sebenar.
+
+Ramalan peringkat tinggi yang lain (contohnya "osteoarthritis susceptibility", hipotrikosis, displasia rangka yang jarang berlaku) hanyalah ramalan model tanpa bukti klinikal atau mekanisme yang munasabah, dan tidak disyorkan (Hold).
+
+---
 
 ## Bukti Percubaan Klinikal
 
-| Bilangan Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT04402047](https://clinicaltrials.gov/study/NCT04402047) | N/A | Tidak Diketahui | 108 | Electroacupuncture berbanding gel natrium diclofenac topikal untuk OA tangan; kajian perbandingan rawatan daripada kajian pencegahan/kerentanan. Nilai bukti terhad disebabkan status tidak diketahui. |
+Berikut ialah percubaan terpilih yang paling relevan daripada senarai untuk osteoartritis.
 
-Hanya 1 percubaan klinikal telah dikenal pasti untuk petunjuk "kerentanan osteoartritis" yang spesifik. Percubaan ini menilai diclofenac sebagai rawatan untuk OA tangan yang telah ditegakkan, bukan sebagai campur tangan pencegahan untuk individu yang mempunyai kerentanan. Tiada percubaan yang secara khusus menangani pencegahan OA dengan diclofenac telah ditemui.
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
+|---------|------|------|------|---------|
+| [NCT00108992](https://clinicaltrials.gov/study/NCT00108992) | Fasa 3 | Selesai | 750 | Diclofenac topikal digabungkan dengan diclofenac oral untuk osteoartritis lutut |
+| [NCT00542087](https://clinicaltrials.gov/study/NCT00542087) | Fasa 3 | Selesai | 516 | Etoricoxib 60 mg berbanding diclofenac 150 mg pada osteoartritis lutut/pinggul (diclofenac sebagai pembanding aktif) |
+| [NCT00171652](https://clinicaltrials.gov/study/NCT00171652) | Fasa 3 | Selesai | 360 | Keberkesanan dan keselamatan gel diclofenac pada osteoartritis tangan |
+| [NCT00426621](https://clinicaltrials.gov/study/NCT00426621) | Fasa 3 | Selesai | 420 | Gel diclofenac 1% berbanding kenderaan (vehicle) selama 12 minggu pada osteoartritis lutut |
+| [NCT01967550](https://clinicaltrials.gov/study/NCT01967550) | Fasa 3 | Selesai | 304 | Gel diclofenac diethylamine 2.32% berbanding kenderaan selama 4 minggu pada osteoartritis lutut |
+| [NCT06693648](https://clinicaltrials.gov/study/NCT06693648) | Fasa 3 | Selesai | 549 | Gel AMZ001 sekali sehari berbanding plasebo pada osteoartritis lutut (peranan diclofenac belum dapat disahkan kerana tajuk dipotong) |
+| [NCT02596451](https://clinicaltrials.gov/study/NCT02596451) | Fasa 3 | Selesai | 1164 | Kesetaraan terapeutik gel diclofenac generik dengan Voltaren® Gel pada osteoartritis lutut |
+| [NCT02121002](https://clinicaltrials.gov/study/NCT02121002) | Fasa 3 | Selesai | 1176 | Kesetaraan gel diclofenac generik 1% dengan Voltaren® Gel |
+| [NCT00546832](https://clinicaltrials.gov/study/NCT00546832) | Fasa 3 | Selesai | 650 | Semburan diclofenac topikal (TDS-943) berbanding celecoxib oral dan plasebo |
+| [NCT00250445](https://clinicaltrials.gov/study/NCT00250445) | Fasa 3 | Selesai | 23,498 | Etoricoxib berbanding diclofenac: risiko kardiovaskular dan toleransi gastrousus |
+
+---
 
 ## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [28497473](https://pubmed.ncbi.nlm.nih.gov/28497473/) | 2017 | Tinjauan Cochrane | Cochrane Database Syst Rev | Tinjauan analgesik topikal untuk kesakitan akut dan kronik termasuk OA; mengesahkan keberkesanan diclofenac untuk pengurusan gejala OA |
-| [38183573](https://pubmed.ncbi.nlm.nih.gov/38183573/) | 2024 | Meta-Analisis Berasaskan Model | Pain Ther | Menyokong kombinasi parasetamol dan diclofenac topikal dalam kesakitan OA melalui mekanisme pelengkap; memberi tumpuan kepada rawatan bukan pencegahan |
-| [30860559](https://pubmed.ncbi.nlm.nih.gov/30860559/) | 2019 | Kajian Kohort | JAMA | Perbandingan mortaliti tramadol berbanding NSAID (termasuk diclofenac) dalam pesakit OA; menyerlahkan kebimbangan keselamatan penggunaan jangka panjang |
-| [14575648](https://pubmed.ncbi.nlm.nih.gov/14575648/) | 2003 | Tinjauan (Toksikologi) | Toxicol Appl Pharmacol | Kecederaan hati yang diinduksi diclofenac sebagai paradigma toksisiti idiosinkratik; membangkitkan kebimbangan keselamatan untuk penggunaan pencegahan kronik |
-| [3142593](https://pubmed.ncbi.nlm.nih.gov/3142593/) | 1988 | RCT (Keselamatan) | BMJ | Profilaksis ranitidina untuk kerosakan gastroduodenal yang diinduksi NSAID; menggariskan risiko GI dengan penggunaan diclofenac kronik |
+| [34642179](https://pubmed.ncbi.nlm.nih.gov/34642179/) | 2021 | Meta-analisis rangkaian | BMJ | Keberkesanan dan keselamatan NSAID dan opioid untuk osteoartritis lutut dan pinggul |
+| [40065343](https://pubmed.ncbi.nlm.nih.gov/40065343/) | 2025 | Meta-analisis | BMC Musculoskelet Disord | Perbandingan formulasi diclofenac topikal (gel, larutan, tampalan) untuk osteoartritis lutut |
+| [29436380](https://pubmed.ncbi.nlm.nih.gov/29436380/) | 2018 | Meta-analisis rangkaian | Br J Sports Med | Keberkesanan dan keselamatan relatif NSAID topikal untuk osteoartritis |
+| [40333622](https://pubmed.ncbi.nlm.nih.gov/40333622/) | 2025 | Kajian sistematik dan meta-analisis rangkaian | PLoS One | Perbandingan NSAID berbeza untuk osteoartritis berdasarkan RCT |
+| [33554694](https://pubmed.ncbi.nlm.nih.gov/33554694/) | 2021 | Kajian sistematik dan meta-analisis | Phys Sportsmed | NSAID topikal untuk osteoartritis lutut |
+| [30975196](https://pubmed.ncbi.nlm.nih.gov/30975196/) | 2019 | RCT | Trials | Kurkumin berbanding diclofenac pada osteoartritis lutut |
+| [26212849](https://pubmed.ncbi.nlm.nih.gov/26212849/) | 2015 | RCT | Br J Gen Pract | Diclofenac berbanding parasetamol pada osteoartritis lutut dalam penjagaan primer |
+| [32797224](https://pubmed.ncbi.nlm.nih.gov/32797224/) | 2021 | Meta-analisis | Pain Med | Celecoxib berbanding diclofenac pada osteoartritis lutut |
+| [30156934](https://pubmed.ncbi.nlm.nih.gov/30156934/) | 2018 | Ulasan | Postgrad Med | Terapi topikal untuk osteoartritis lutut |
+| [28497473](https://pubmed.ncbi.nlm.nih.gov/28497473/) | 2017 | Ulasan | Cochrane Database Syst Rev | Gambaran keseluruhan analgesik topikal untuk kesakitan akut dan kronik |
 
-Semua literatur yang dikenal pasti menangani penggunaan diclofenac dalam osteoartritis **yang telah ditegakkan** atau profil keselamatannya. Tiada penerbitan yang secara khusus menyiasat pencegahan permulaan OA dalam populasi yang mempunyai kerentanan.
+---
 
-## Maklumat Pasaran Malaysia
+## Maklumat Pasaran di Malaysia
 
-Diclofenac dipasarkan di Malaysia dengan **81 produk berdaftar**. Butir pendaftaran yang spesifik (nombor kebenaran, nama produk, bentuk dosaj, dan petunjuk yang diluluskan) tidak tersedia dalam pakej bukti. Memandangkan bilangan pendaftaran yang besar, diclofenac boleh didapati secara meluas merentas pelbagai bentuk dosaj (tablet oral, gel topikal, patch, suntikan, suppositoria) daripada banyak pengeluar.
+Menurut data yang dikumpulkan untuk laporan ini, tiada lesen diclofenac direkodkan di Malaysia (0 pendaftaran). Ini bercanggah dengan penggunaan klinikal diclofenac yang meluas, maka kemungkinan besar ia jurang data dan perlu disahkan dengan semakan terus pada pangkalan data NPRA.
+
+---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
+**Interaksi Ubat** (100 interaksi direkodkan; contoh utama):
+- **Sederhana (Moderate):** hidrokortison, deksametason, betametason, budesonid, triamsinolon (kortikosteroid); metformin; aspirin (asid asetilsalisilik); mesalazin dan balsalazid; aprepitant; sulfonilurea (glimepirid, glipizid, klorpropamid, asetoheksamid); eksenatid; fenfluramin dan deksfenfluramin.
+- **Minor:** famotidin, ranitidin, simetidin.
 
-Sebagai NSAID yang telah dicirikan dengan baik, profil keselamatan diclofenac didokumenkan secara meluas dalam literatur. Kebimbangan utama untuk sebarang penggunaan jangka panjang atau pencegahan akan termasuk:
+**Risiko daripada literatur:**
+- Hepatotoksisiti idiosinkratik yang jarang tetapi serius (permulaan lewat, biasanya >1-3 bulan), seperti dilaporkan dalam kajian dan laporan kes.
+- Risiko gastrousus, kardiovaskular dan renal dengan penggunaan sistemik, yang dikurangkan dengan formulasi topikal.
 
-- **Risiko kardiovaskular**: Peningkatan risiko infark miokard dan strok dengan penggunaan yang berpanjangan
-- **Toksisiti gastrointestinal**: Risiko ulserasi, pendarahan, dan perforasi
-- **Hepatotoksisiti**: Kecederaan hati idiosinkratik yang jarang tetapi serius (permulaan biasanya >1–3 bulan)
-- **Kemerosotan buah pinggang**: Risiko nefrotoksisiti dengan penggunaan kronik
-- **Interaksi ubat**: Interaksi yang ketara dengan antikoagulan, ubat penurun tekanan darah, litium, metotreksat, dan NSAID lain
+Maklumat amaran dan kontraindikasi daripada sisip bungkusan tidak tersedia. Sila rujuk sisip bungkusan untuk maklumat keselamatan lengkap.
 
-Risiko ini dengan kuat menentang repurposing diclofenac sebagai ejen pencegahan dalam populasi tanpa gejala dengan kerentanan OA.
+---
 
-## Kesimpulan dan Langkah-Langkah Seterusnya
+## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Proceed with Guardrails**
 
-**Nisbah:**
-Ramalan TxGNN bagi diclofenac untuk "kerentanan osteoartritis" mengasimilasikan keberkesanan rawatan dengan potensi pencegahan. Walaupun diclofenac ialah terapi barisan pertama yang terbukti untuk osteoartritis yang telah ditegakkan (sudah satu petunjuk yang diluluskan), tiada bukti klinikal yang menyokong penggunaannya untuk mencegah permulaan OA dalam individu yang mempunyai kerentanan genetik. Risiko kardiovaskular, GI, hepatik, dan buah pinggang yang telah diketahui umum daripada penggunaan NSAID jangka panjang menjadikan ini profil risiko–manfaat yang tidak menguntungkan untuk aplikasi pencegahan. Ramalan baru yang tinggal (Pangkat 3–6, 8–10) adalah gangguan genetik jarang dengan tiada nisbah mekanik untuk perencatan COX.
+**Rasional:**
+- Beberapa RCT Fasa 3 yang telah selesai dan meta-analisis menyokong keberkesanan diclofenac (terutamanya formulasi topikal) untuk osteoartritis lutut dan tangan, justeru bukti mencapai tahap L1. Namun risiko keselamatan sistemik (gastrousus, kardiovaskular, renal, hepatik) memerlukan langkah kawalan.
+- Ramalan lain (hipotrikosis, displasia rangka, "arthropathy" yang terlalu umum, dan sebagainya) tidak mempunyai bukti bebas yang mencukupi, dan disyorkan Hold.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Bukti pra-klinikal menunjukkan bahawa perencatan COX dapat mengubah inisiasi penyakit OA (bukan hanya pengurusan gejala)
-- Kajian epidemiologi menilai sama ada pengguna NSAID kronik mempunyai insiden OA yang lebih rendah
-- Analisis risiko–manfaat untuk penggunaan diclofenac jangka panjang dalam populasi tanpa gejala
-- Pengenalan biopenanda yang dapat menentukan populasi sasaran di mana manfaat pencegahan mengatasi risiko NSAID yang diketahui
-- Pengesahan ID DrugBank dan data MOA yang terperinci untuk menutup jurang data yang sedia ada
-
+- Mengesahkan status pendaftaran dan indikasi diclofenac di Malaysia melalui NPRA (data semasa menunjukkan 0 lesen, yang tidak konsisten dengan realiti).
+- Memuat turun dan menganalisis sisip bungkusan NPRA untuk amaran dan kontraindikasi (jurang data tahap menghalang).
+- Melengkapkan data MOA dan ID DrugBank.
+- Mengutamakan formulasi topikal dan dos berkesan terendah; merancang pemantauan fungsi hati, buah pinggang dan risiko kardiovaskular serta gastrousus bagi penggunaan sistemik.
+- Menyemak interaksi ubat bagi pesakit yang menggunakan kortikosteroid, aspirin atau agen antidiabetes.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

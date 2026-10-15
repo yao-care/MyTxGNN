@@ -2,7 +2,7 @@
 layout: default
 title: Sodium Citrate
 parent: Low Evidence (L4-L5)
-nav_order: 621
+nav_order: 651
 evidence_level: L5
 indication_count: 5
 ---
@@ -29,70 +29,101 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Sodium Citrate: Dari Kegunaan Pasaran Sedia Ada kepada Faringitis
+# Sodium Citrate: Daripada Penyakit Ulser Peptik kepada Faringitis
 
 ## Ringkasan Satu Ayat
 
-Sodium Citrate (DrugBank DB09154) adalah ubat yang telah dipasarkan di Malaysia dengan 36 pendaftaran aktif, meskipun teks indikasi yang diluluskan asalnya tidak tersedia dalam ekstrak data semasa. Ramalan tertinggi model TxGNN ialah **Faringitis**, tetapi selepas semakan, tidak satu pun daripada 6 percubaan klinikal yang diambil atau 1 penerbitan yang diambil benar-benar mengkaji sodium citrate untuk indikasi ini — ia adalah kebetulan kata kunci pada "citrate."
+Sodium sitrat ialah agen pengalkali dan penampan ringan, dan indikasi asalnya (menurut graf pengetahuan) merangkumi penyakit ulser peptik, refluks gastroesofagus, dispepsia dan beberapa keadaan saluran pernafasan atas.
+Model TxGNN meramalkan ia mungkin berkesan untuk **faringitis**, tetapi skor ramalan ialah **0.0%**.
+Setakat ini **tiada ujian klinikal** dan **tiada penerbitan** yang menyokong arah ini.
 
-## Gambaran Keseluruhan Cepat
+---
 
-| Item | Kandungan |
+## Gambaran Keseluruhan Pantas
+
+| Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tidak tersedia — semua medan `approved_indication_text` lesen dalam ekstrak data semasa adalah kosong |
-| Indikasi Baru yang Diramalkan | Faringitis |
-| Skor Ramalan TxGNN | 0.00% |
+| Indikasi Asal | Penyakit ulser peptik, penyakit refluks gastroesofagus, dispepsia, dll. (berdasarkan graf pengetahuan PrimeKG; tiada teks indikasi berlesen kerana tiada pendaftaran) |
+| Indikasi Baharu yang Diramalkan | Faringitis |
+| Skor Ramalan TxGNN | 0.0% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 36 |
-| Keputusan yang Disyorkan | Tahan |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme kerja terperinci untuk sodium citrate tidak tersedia dalam pakej bukti ini, dan tiada teks indikasi yang diluluskan asal boleh diekstrak daripada rekod pendaftaran Malaysia (semua medan indikasi lesen adalah kosong dalam pengambilan data ini).
+Data terperinci mengenai mekanisme tindakan tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, sodium sitrat ialah agen pengalkali dan penampan ringan yang meneutralkan asid gastrik, dan keberkesanannya dalam keadaan berkaitan asid telah dikenali. Secara mekanisme, kaitannya dengan faringitis hanya bersifat spekulatif (contohnya kesan pH setempat).
 
-Lebih penting lagi, semakan bukti untuk ramalan khusus ini menemui **tiada pautan mekanik atau klinikal yang tulen** antara sodium citrate dan faringitis. Alasan penggunaan semula secara jelas menyatakan bahawa semua enam percubaan yang diambil dan satu penerbitan yang diambil adalah padanan kebetulan kata kunci pada "citrate" — percubaan platform multi-ubat pesakit luar COVID-19, percubaan *fentanyl citrate* bekabus, dua kajian perbandingan anestesia/jalan napas yang tidak berkaitan, percubaan ubat berkumur yang mengandungi litium, dan laporan kes scintigrafi tiroid Ga-67 *citrate*. Tidak satu pun melibatkan pentadbiran sodium citrate untuk merawat faringitis, jadi asas mekanik untuk calon ini pada masa ini tidak ada.
+Tiada data dalam bahan yang dikumpulkan untuk laporan ini yang menyokong hubungan tersebut. Skor TxGNN ialah 0.0, tiada ujian klinikal dan tiada literatur. Ramalan ini perlu dianggap sebagai hipotesis lemah dan bukan cadangan yang disokong bukti.
 
-Untuk konteks, dua calon bertaraf lain dalam pakej ini — Rhinitis (pangkat 2, tahap bukti L3) dan Penyakit Refluk Gastroesofageal (pangkat 4, tahap bukti L4) — menunjukkan cerita mekanik yang lebih munasabah (chelasi kalsium mempengaruhi mukosa hidung/penciuman; kegunaan antasid/alkalinisasi yang telah ditegakkan untuk citrate) dan kedua-duanya diberi skor "Soalan Penyelidikan" dan bukannya "Tahan." Ini mungkin calon yang lebih baik untuk penilaian lanjut daripada ramalan Faringitis yang bertaraf tertinggi.
+---
 
-## Bukti Percubaan Klinikal
+## Bukti Ujian Klinikal
 
-| Nombor Percubaan | Fasa | Status | Kemasukan | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT04518410](https://clinicaltrials.gov/study/NCT04518410) | Fasa 2/3 | Selesai | 4044 | Percubaan platform multi-ubat pesakit luar COVID-19; tidak berkaitan dengan sodium citrate atau faringitis (gred kaitan C) |
-| [NCT05165992](https://clinicaltrials.gov/study/NCT05165992) | Fasa 3 | Tidak diketahui | 200 | **Fentanyl citrate** bekabus untuk gejala respirasi/tekak COVID-19; ubat berlainan (kaitan belum diselesaikan, padanan kata kunci sahaja) |
-| [NCT03812718](https://clinicaltrials.gov/study/NCT03812718) | T/A | Merekrut | 160 | Perbandingan peranti jalan napas semasa anestesia laparoskopik kolecistektomi; tiada pautan ubat-indikasi (kaitan belum diselesaikan) |
-| [NCT06251050](https://clinicaltrials.gov/study/NCT06251050) | Fasa 1/2 | Selesai | 175 | Ubat berkumur yang mengandungi litium untuk mukositis mulut/dysgeusia teraruh radiasi; bukan sodium citrate (gred kaitan C) |
-| [NCT03107832](https://clinicaltrials.gov/study/NCT03107832) | T/A | Selesai | 40 | Perbandingan kaedah sedasi dalam kolecistektomi laparoskopik; tidak berkaitan dengan faringitis (kaitan belum diselesaikan) |
-| [NCT04642638](https://clinicaltrials.gov/study/NCT04642638) | Fasa 2/3 | Ditamatkan | 1307 | Percubaan vaksin COVID-19 DNA INO-4800; tidak berkaitan (kaitan belum diselesaikan) |
+Buat masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
-## Bukti Kesusasteraan
+---
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|-----|------|------|---------|
-| [11181329](https://pubmed.ncbi.nlm.nih.gov/11181329/) | 2001 | Laporan kes | Revista española de medicina nuclear | Ga-67 **citrate** scintigrafi digunakan untuk mendiagnosis tiroiditis subakut; perunut pencitraan radioaktif, bukan ubat sodium citrate, dan tidak berkaitan dengan faringitis |
+## Bukti Literatur
+
+Buat masa ini tiada literatur berkaitan yang tersedia untuk faringitis.
+
+### Perbandingan dengan Ramalan Lain (Untuk Rujukan)
+
+Data yang dikumpulkan turut merangkumi empat ramalan lain. Semuanya setakat ini kekal pada skor TxGNN 0.0%, dan ringkasannya seperti berikut:
+
+| Indikasi Diramalkan | Tahap Bukti | Pemerhatian Utama |
+|------|------|------|
+| Rinitis | L4 | Satu kajian intranasal pada hiposmia pasca-viral (PMID 27316224, 2016) menunjukkan sitrat bertindak sebagai pengikat kalsium; hiposmia berkaitan tetapi tidak sama dengan rinitis. Rekod lain ialah laporan sejarah (1954, 1957) dan kajian penanda radang (2022). Tiada ujian terkawal untuk rinitis. |
+| Esofagitis | L4 | Literatur yang diperoleh kebanyakannya periferal (garis panduan puasa perioperatif, formulasi raft risedronat, kecederaan bahan beralkali, kajian veterinar). Tiada ujian sodium sitrat untuk esofagitis. |
+| Penyakit refluks gastroesofagus | L3 | Sodium sitrat digunakan sebagai premedikasi sebelum pembiusan, termasuk pembedahan caesarean elektif (PMID 7104805, 1982), untuk meneutralkan asid dan mengurangkan risiko aspirasi. Ini bukan rawatan GERD kronik. |
+| Selesema biasa | L5 | Satu-satunya rekod (PMID 36897059) ialah kajian pengimejan tulang yang tidak berkaitan, dan kemungkinan pengambilan palsu. |
+
+---
 
 ## Maklumat Pasaran Malaysia
 
-Butir-butir peringkat pendaftaran (nombor kebenaran, nama produk, bentuk dos, teks indikasi yang diluluskan) tidak disiarkan dalam ekstrak data semasa — semua 5 rekod lesen sampel yang diambil mengembalikan medan kosong. Pangkalan data kawal selia mengesahkan **36 jumlah pendaftaran aktif** untuk sodium citrate di Malaysia dengan status pasaran "Dipasarkan," tetapi butir lesen asas perlu ditarik semula daripada sumber NPRA untuk mengisi jadual ini.
+Sodium sitrat tidak dipasarkan di Malaysia dan tiada pendaftaran NPRA yang direkodkan buat masa ini.
+
+---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan. Tiada data amaran utama, kontradikasi, atau interaksi ubat-ubat yang diambil dalam pakej bukti ini (status pertanyaan DDI: tidak ditemui), dan pengekstrakan label/amaran ubat (DG001) ditandai sebagai jurang data **Sekatan** yang pada masa ini menghalang penilaian pra-keselamatan penuh (S1) untuk ubat ini.
+Maklumat amaran dan kontraindikasi daripada sisip bungkusan tidak tersedia. Sila rujuk sisip bungkusan untuk maklumat keselamatan.
+
+**Kontraindikasi daripada graf pengetahuan** (bukan teks label; perlu disahkan): graf pengetahuan mengaitkan sodium sitrat dengan kontraindikasi pada keadaan berikut, antara lain:
+- Hipertensi dan gangguan hipertensi
+- Fungsi buah pinggang terjejas dan anuria
+- Asidosis metabolik
+- Insufisiensi adrenal (termasuk penyakit Addison dan hiperplasia adrenal kongenital)
+- Penyakit arteri koronari dan infarksi miokardium
+- Hiperkalsemia dan nefrokalsinosis
+- Pankreatitis, rabdomiolisis, hiperplasia prostat benigna
+- Glaukoma sudut tertutup dan hipertensi okular
+
+**Interaksi Ubat** (pangkalan data DDInter, 100 interaksi dikesan; sebahagian disenaraikan):
+- **Major**: Aluminium hidroksida
+- **Moderate**: Doksisiklin, minosiklin, tetrasiklin, levofloksasin, aspirin, zat besi, efedrin, pseudoefedrin, rosuvastatin, akalabrutinib
+- **Minor**: Sulfonilurea (asetoheksamida, klorpropamida, glipizida, gliburida, tolazamida, tolbutamida), laktulosa, misoprostol
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
 **Rasional:**
-Ramalan TxGNN yang bertaraf tertinggi (Faringitis) tidak mempunyai rasional mekanik yang menyokong, dan setiap percubaan dan penerbitan yang diambil adalah padanan kata kunci "citrate" sampingan dan bukannya bukti tulen untuk indikasi ini — tahap bukti L5 (ramalan model sahaja).
+- Bagi faringitis, skor TxGNN ialah 0.0%, tiada ujian klinikal dan tiada literatur, jadi tiada asas bukti untuk meneruskan. Antara ramalan lain, hanya penggunaan pra-pembiusan (tahap L3) dan kajian intranasal untuk hiposmia mempunyai sedikit sokongan, tetapi kedua-duanya bukan indikasi yang diramalkan secara langsung.
 
-**Untuk meneruskan, perkara berikut diperlukan:**
-- Amaran label produk/kontradikasi (DG001, Sekatan — diperlukan sebelum sebarang penilaian keselamatan S1)
-- Data mekanisme kerja yang disahkan (DG002)
-- Data pendaftaran peringkat lesen yang lengkap (nombor kebenaran, teks indikasi) untuk Malaysia
-- Pertimbangkan untuk mengubah skop penilaian kepada Rhinitis (pangkat 2, L3, "Soalan Penyelidikan") atau Penyakit Refluk Gastroesofageal (pangkat 4, L4, "Soalan Penyelidikan"), yang menunjukkan sokongan mekanik dan bukti yang lebih ketara daripada calon Faringitis yang bertaraf tertinggi
-
+**Untuk meneruskan, perlu dilengkapkan:**
+- Data mekanisme tindakan (MOA) daripada DrugBank
+- Amaran dan kontraindikasi daripada sisip bungkusan NPRA (jurang data yang menghalang saringan keselamatan)
+- Kajian praklinikal atau ujian klinikal kecil untuk faringitis, atau penilaian semula indikasi lain yang mempunyai sedikit bukti (rinitis/hiposmia pasca-viral, premedikasi anti-aspirasi)
+- Penilaian keserasian laluan pentadbiran (contohnya semburan atau larutan intranasal/oral setempat), yang masih belum dinilai
+- Kajian kesahihan skor TxGNN, memandangkan semua ramalan menunjukkan skor 0.0%
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

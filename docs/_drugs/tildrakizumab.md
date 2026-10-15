@@ -2,7 +2,7 @@
 layout: default
 title: Tildrakizumab
 parent: Low Evidence (L4-L5)
-nav_order: 650
+nav_order: 683
 evidence_level: L5
 indication_count: 4
 ---
@@ -29,61 +29,95 @@ Tahap bukti: **L5** | Indikasi diramal: **4**
 
 </div>
 
-# Tildrakizumab: Dari Psoriasis Plak ke Retinopati Diabetes Nonproliferatif Berat
+# Tildrakizumab: Daripada Indikasi Asal kepada Retinopati Diabetes Non-Proliferatif Teruk
 
 ## Ringkasan Satu Ayat
 
-Tildrakizumab (DrugBank DB14004) ialah antibodi monoklonal anti-IL-23p19 yang kegunaannya yang diluluskan menyasarkan penyakit kulit inflamasi yang didorong IL-23 (psoriasis plak); teks petunjuk khusus Malaysia tidak diisi dalam paket bukti ini. Model TxGNN meramalkan aktiviti yang mungkin dalam **Retinopati Diabetes Nonproliferatif Berat**, tetapi arah ini pada masa kini mempunyai **sifar ujian klinikal** dan **sifar penerbitan** — ini adalah inferensi graf pengetahuan tulen tanpa sebarang kajian sokongan langsung.
+Tildrakizumab ialah antibodi monoklonal yang menyasarkan subunit p19 interleukin-23 (IL-23). Data yang dikumpulkan untuk laporan ini tidak mencatat indikasi asalnya di Malaysia.
+Model TxGNN meramalkan ia mungkin berkesan untuk **retinopati diabetes non-proliferatif teruk**, tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong arah ini. Ramalan ini hanya berasaskan model komputasi.
 
-## Gambaran Keseluruhan Pantas
+---
 
-| Perkara | Kandungan |
-|--------|----------|
-| Petunjuk Asal | Tidak diisi dalam rekod lesen NPRA Malaysia yang disediakan; petunjuk global tildrakizumab yang diketahui ialah psoriasis plak sederhana hingga berat |
-| Petunjuk Baru yang Diramalkan | Retinopati Diabetes Nonproliferatif Berat |
+## Gambaran Ringkas
+
+| Item | Kandungan |
+|------|------|
+| Indikasi Asal | Tiada data indikasi berdaftar di Malaysia |
+| Indikasi Baharu yang Diramalkan | Retinopati diabetes non-proliferatif teruk |
 | Skor Ramalan TxGNN | 99.63% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 1 |
-| Keputusan yang Disyorkan | Tahan |
+| Status Pasaran Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Dokumentasi mekanisme tindakan yang terperinci tidak tersedia daripada DrugBank dalam paket bukti ini (ditandai sebagai jurang data Bernilai Tinggi). Berdasarkan kelas ubat dan catatan mekanistik yang dilampirkan pada set calon ini, tildrakizumab ialah antibodi monoklonal yang mengikat subunit p19 IL-23, menghalang pembezaan sel Th17 hilir dan sekresi IL-17A — laluan yang mendasari keberkesanannya yang terbukti dalam psoriasis plak.
+Data mekanisme tindakan terperinci tidak tersedia dalam rekod yang dikumpulkan. Berdasarkan kelas ubat, tildrakizumab ialah antibodi anti-IL-23 p19 yang menyekat laluan keradangan IL-23/IL-17.
 
-Hubungan dengan retinopati diabetes adalah tidak langsung dan lintas spesies: model yang diterbitkan mencadangkan IL-17A, bertindak melalui sel Müller retina, menyumbang kepada kecederaan sel ganglion retina, dan bahawa paksi IL-17A/RORγt mendorong keradangan retina dan degenerasi mikrovaskular dalam model diabetes hewan. Calon ini (retinopati diabetes nonproliferatif berat) ialah ekstrapolasi TxGNN daripada ramalan retinopati diabetes yang lebih luas kepada peringkat penyakit yang lebih spesifik — kekuatan mekanistik adalah sama dengan ramalan DR umum, tetapi tiada data wujud untuk peringkat keterukan ini secara khusus.
+Kaitan yang mungkin ialah keradangan kronik tahap rendah dalam retinopati diabetes. Sitokin paksi IL-17/IL-23 boleh menyumbang kepada kerosakan vaskular retina dan leukostasis. **Kaitan ini bersifat spekulatif.** Tiada bukti klinikal atau literatur dibekalkan, dan skor 0.996 hanyalah ramalan komputasi.
 
-Sama ada antibodi anti-IL-23 yang ditadbir secara sistemik mencapai penembusan bermakna ke dalam tisu retina, dan sama ada menekan IL-17A adalah pelindung atau berbahaya dalam konteks ini, masih belum dapat diselesaikan — beberapa literatur melaporkan peranan neuropelindung untuk IL-17A, bermakna nisbah mekanistik adalah munasabah secara berarah tetapi tidak terbukti dan tidak bebas daripada kontroversi.
+Sebagai biologik bersaiz besar, tildrakizumab juga menghadapi persoalan penembusan okular apabila diberikan secara sistemik. Keserasian laluan pemberian masih belum dinilai.
 
-## Bukti Ujian Klinikal
+### Ramalan Lain daripada Model
 
-Pada masa kini tiada ujian klinikal berkaitan yang terdaftar.
+| Peringkat | Penyakit | Skor TxGNN | Tahap Bukti | Ringkasan Rasional |
+|------|------|------|------|------|
+| 2 | Retinopati diabetes | 99.53% | L5 | Rasional sama seperti di atas. Piawaian rawatan sedia ada (anti-VEGF, laser, kortikosteroid) mempunyai bukti jauh lebih kukuh. |
+| 3 | Katarak diabetes | 99.21% | L5 | Tiada laluan mekanisme yang jelas. Katarak diabetes didorong oleh pengaktifan laluan poliol, tekanan osmotik dan kerosakan oksidatif pada kanta. |
+| 4 | Osteoporosis aruhan ubat | 99.20% | L5 | Isyarat IL-23/IL-17 terlibat dalam osteoklastogenesis, tetapi tiada kaitan khusus dengan osteoporosis aruhan ubat. |
+
+---
+
+## Bukti Percubaan Klinikal
+
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
+
+---
 
 ## Bukti Literatur
 
-Pada masa kini tiada literatur berkaitan yang tersedia.
+Pada masa ini tiada literatur berkaitan tersedia.
+
+---
 
 ## Maklumat Pasaran Malaysia
 
-Rekod NPRA mengesahkan 1 pendaftaran aktif untuk produk ini, tetapi nombor lesen, nama produk, bentuk dos, pengilang, dan medan teks petunjuk yang diluluskan tidak diisi dalam ekstrak bukti ini, oleh itu butir-butir kebenaran tidak dapat dijadualkan di sini.
+Tildrakizumab pada masa ini **tidak dipasarkan** di Malaysia dan tiada lesen berdaftar (0 lesen).
+
+---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan paket untuk maklumat keselamatan.
+Maklumat amaran utama dan kontraindikasi daripada sisipan pakej NPRA tidak tersedia, jadi sila rujuk sisipan pakej untuk maklumat keselamatan tersebut.
+
+**Interaksi Ubat**: Pangkalan data interaksi ubat mencatat **78 interaksi** secara keseluruhan. Antara yang dipaparkan:
+
+| Tahap | Ubat yang Berinteraksi |
+|------|------|
+| **Major** | Adalimumab, Baricitinib, Certolizumab pegol, Cladribine |
+| Moderate | Roflumilast, Tacrolimus, Alefacept, Alemtuzumab, Anakinra, Azathioprine, Canakinumab, Cyclosporine, Denosumab, vaksin anthrax, vaksin toksoid tetanus, vaksin kolera hidup |
+| Minor | Garam zink (sulfat, asetat, glukonat, klorida) |
+
+Kebanyakan interaksi major dan moderate melibatkan agen imunosupresif atau imunomodulator lain, serta vaksin. Penggunaan serentak memerlukan penilaian teliti terhadap risiko jangkitan dan keberkesanan vaksin.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
 **Rasional:**
-Semua petunjuk yang diramalkan untuk ubat ini (termasuk calon kedudukan teratas) berada pada tahap keputusan S0 dengan Tahap Bukti L5 — ramalan model sahaja. Pencarian merentasi ClinicalTrials.gov, ICTRP, dan PubMed mengembalikan keputusan sifar untuk tildrakizumab dalam mana-mana daripada empat petunjuk diabetes/oftalmologi/tulang yang diramalkan, jadi tiada isyarat klinikal atau praklinkal untuk bertindak pada masa kini.
+- Semua indikasi yang diramalkan hanya berada pada tahap bukti L5 (ramalan model sahaja), tanpa percubaan klinikal atau literatur. Ubat ini juga tidak berdaftar di Malaysia dan data keselamatan sisipan pakej belum tersedia.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Amaran sisipan paket TFDA/NPRA dan kontraindikasi (pada masa kini jurang data Menghalang — diperlukan sebelum sebarang pemeriksaan keselamatan pra)
-- Data mekanisme tindakan yang disahkan melalui API DrugBank (pada masa kini jurang Bernilai Tinggi)
-- Kajian praklinkal yang menghubungkan secara langsung paksi IL-23/Th17/IL-17A ke perkembangan retinopati diabetes (bukan sekadar model keradangan retina umum)
-- Maklumat lesen NPRA Malaysia yang lengkap (nama produk, bentuk dos, teks petunjuk yang diluluskan) untuk mewujudkan garis dasar petunjuk asal yang benar
-
+- Muat turun dan analisis sisipan pakej NPRA untuk amaran dan kontraindikasi, yang merupakan jurang data penghalang sebelum saringan keselamatan.
+- Data mekanisme tindakan (MOA) daripada DrugBank bagi menyokong analisis kaitan mekanisme.
+- Data praklinikal dan klinikal yang menyokong peranan blokade IL-23 dalam retinopati diabetes.
+- Kajian penembusan okular dan keserasian laluan pemberian, termasuk pilihan intravitreal atau sistemik.
+- Perbandingan dengan piawaian rawatan sedia ada (anti-VEGF, laser, kortikosteroid) bagi menunjukkan nilai tambah.
+- Penilaian risiko interaksi ubat dalam populasi pesakit diabetes yang menggunakan imunosupresan atau vaksin.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

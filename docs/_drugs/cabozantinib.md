@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Cabozantinib
-parent: High Evidence (L1-L2)
-nav_order: 174
-evidence_level: L2
+parent: Medium Evidence (L3)
+nav_order: 179
+evidence_level: L3
 indication_count: 10
 ---
 
 # Cabozantinib
 {: .fs-9 }
 
-Tahap bukti: **L2** | Indikasi diramal: **10** 
+Tahap bukti: **L3** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,96 +29,81 @@ Tahap bukti: **L2** | Indikasi diramal: **10**
 
 </div>
 
-# Cabozantinib: Daripada Karsinoma Sel Renal kepada Liposarkoma
+# Cabozantinib: Daripada Indikasi Asal (Tidak Direkodkan) kepada Liposarkoma
+
+> **Catatan:** Laporan ini mengikut format piawai dan memaparkan ramalan teratas (kedudukan 1: liposarkoma). Data yang dikumpulkan menunjukkan bukti yang jauh lebih kukuh bagi karsinoma sel renal (RCC), yang dibincangkan dalam bahagian Kesimpulan.
 
 ## Ringkasan Satu Ayat
 
-Cabozantinib ialah inhibitor tirosin kinase multi-sasaran (VEGFR2/MET/AXL/RET) yang sudah dipasarkan dan digunakan untuk karsinoma sel renal lanjutan — disahkan dalam pakej bukti ini oleh kajian keawasan penggunaan ubat pasca-pemasaran yang telah selesai (NCT04804813). Isyarat *baru* berperingkat teratas model TxGNN meramalkan potensi keberkesanan dalam **Liposarkoma**, kini disokong oleh **1 ujian klinikal** dan **1 penerbitan**, mewakili peringkat awal bukti yang menjana hipotesis berbanding petunjuk yang disahkan.
-
----
+Cabozantinib ialah perencat kinase multi-sasaran (MET, VEGFR2, AXL, RET). Data tempatan tidak merekodkan sebarang indikasi asal bagi ubat ini.
+Model TxGNN meramalkan ia mungkin berkesan untuk **liposarkoma**, dengan **1 ujian klinikal** (Fasa 2, tidak langsung) dan **1 penerbitan** (Fasa 1) yang menyokong arah ini.
 
 ## Gambaran Keseluruhan Pantas
 
-| Item | Kandungan |
+| Perkara | Kandungan |
 |------|------|
-| Petunjuk Asal | Karsinoma Sel Renal (disimpulkan daripada data keawasan ubat dipasarkan dalam pakej bukti ini; teks petunjuk label TFDA/NPRA itu sendiri ialah jurang data — lihat DG001) |
-| Petunjuk Baru yang Diramalkan | Liposarkoma |
+| Indikasi Asal | Tiada rekod dalam data yang dikumpulkan |
+| Indikasi Baharu yang Diramalkan | Liposarkoma |
 | Skor Ramalan TxGNN | 99.83% |
-| Tahap Bukti | L2 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 3 |
-| Keputusan yang Disyorkan | Soalan Penyelidikan |
-
----
+| Tahap Bukti | L3 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan bersumber daripada label ubat yang terperinci tidak tersedia untuk cabozantinib dalam pakej bukti ini (ditandai sebagai jurang data DG002, keterukan Tinggi). Walau bagaimanapun, bidang nisbah penggunaan semula pakej bukti itu sendiri menerangkan cabozantinib sebagai inhibitor tirosin kinase multi-sasaran yang bertindak pada **VEGFR2, MET, AXL, dan RET** — satu mekanisme yang konsisten dengan kegunaan yang telah ditetapkan dan dipasarkan dalam karsinoma sel renal (disokong di sini oleh kajian keawasan pasca-pemasaran Jepun yang telah selesai NCT04804813, "Drug Use Surveillance for Cabometyx Tablets 'Renal Cell Carcinoma'").
+Cabozantinib merencat MET, VEGFR2, AXL dan RET, yang terlibat dalam angiogenesis sarkoma dan isyarat antara tumor dengan stroma. Gabungan dengan perencat pusat semak imun (nivolumab/ipilimumab) mungkin turut mengubah suai mikropersekitaran imun tumor.
 
-Pautan kepada liposarkoma mengikuti daripada biologi tumor yang dikongsi antara karsinoma sel renal dan sarkoma tisu lembut: kedua-duanya ialah jenis tumor yang bergantung angiogenesis, dan TKI bertarget VEGFR (cth., pazopanib) sudah diluluskan untuk sarkoma tisu lembut (STS). Perencat MET/AXL tambahan cabozantinib dicadangkan untuk berpotensi mengatasi mekanisme rintangan VEGFR-TKI yang dilihat dalam sarkoma (upregulation MET/AXL ialah laluan pengelakan yang diketahui).
-
-Penting sekali, ujian sokongan semasa (NCT05836571) ialah **kajian payung "sarkoma tisu lembut" yang luas**, bukan reka bentuk khusus liposarkoma, dan tiada hasil subkumpulan liposarkoma telah diterbitkan lagi. Ini bermakna nisbah mekanis ialah munasabah secara biologi tetapi belum ditunjukkan secara khusus dalam pesakit liposarkoma — konsisten dengan tahap bukti L2 dan syor "Soalan Penyelidikan" yang diberikan kepada ramalan ini.
-
-**Nota tentang Tafsiran:** Ramalan berperingkat-2 pakej bukti ini, "karsinoma sel renal sel jernih" (skor 99.80%), dijelaskan secara eksplisit dalam nisbahnya sendiri sebagai hampir pasti *petunjuk yang sudah diluluskan sedia ada* cabozantinib berbanding isyarat penggunaan semula baharu (disokong oleh 48 ujian, 20 penerbitan, pelbagai RCT Fasa 3 yang telah selesai termasuk METEOR dan CheckMate 9ER, dan data keawasan pasca-kelulusan). Ia tidak sepatutnya dibaca sebagai peluang penggunaan semula baru — Liposarkoma (peringkat 1) ialah isyarat yang lebih benar-benar baru, meskipun dengan bukti yang jauh lebih nipis.
-
----
+Bukti yang ada terhad kepada sarkoma tisu lembut secara umum. Data khusus untuk liposarkoma amat sedikit, dan liposarkoma hanyalah satu subjenis dalam populasi ujian yang dirujuk. Ujian Fasa 1 yang diterbitkan pada 2026 melaporkan bahawa cabozantinib menunjukkan aktiviti dalam pelbagai subjenis sarkoma tisu lembut. Kebimbangan tentang risiko fistula atau perforasi telah mengehadkan penggunaannya bersama radioterapi.
 
 ## Bukti Ujian Klinikal
 
-| Nombor Ujian | Fasa | Status | Enrolmen | Penemuan Utama |
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT05836571](https://clinicaltrials.gov/study/NCT05836571) | Fasa 2 | Aktif, tidak merekrut | 66 | Ujian Fasa 2 rawak membandingkan imunoterapi (ipilimumab + nivolumab) sahaja berbanding kombinasi dengan cabozantinib dalam sarkoma tisu lembut lanjutan (liposarkoma ialah salah satu daripada histologi yang layak, bukan kohort berdedikasi); menguji sama ada menambah TKI multi-kinase meningkatkan kawalan tumor yang dimediasi imun. |
-
----
+| [NCT05836571](https://clinicaltrials.gov/study/NCT05836571) | Fasa 2 | Aktif, tidak merekrut | 66 | Rawak: ipilimumab + nivolumab sahaja berbanding gabungan dengan cabozantinib dalam sarkoma tisu lembut lanjutan. Liposarkoma ialah satu subjenis, jadi buktinya tidak langsung dan keputusan belum tersedia. |
 
 ## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [41770651](https://pubmed.ncbi.nlm.nih.gov/41770651/) | 2026 | Fasa 1 | American Journal of Clinical Oncology | Kajian Fasa 1 cabozantinib neoadjuvan digabungkan dengan terapi radiasi dalam sarkoma tisu lembut ekstremiti; menetapkan keselamatan awal gabungan cabozantinib + RT, pendekatan yang sebelum ini terhad oleh kebimbangan risiko fistula/perforasi. |
-
----
-
-## Maklumat Pasaran Malaysia
-
-Cabozantinib kini dipasarkan di Malaysia dengan **3 lesen produk berdaftar**. Walau bagaimanapun, nombor lesen, nama produk, bentuk dos, pengilang, dan teks petunjuk yang diluluskan untuk pendaftaran ini belum diisi dalam pakej bukti ini — ini dijejaki sebagai jurang data **DG001** (keterukan Sekat), menunggu pengambilan dan penghuraian label produk NPRA/TFDA (PDF).
-
----
-
-## Sitotoksisiti
-
-*(Disertakan kerana cabozantinib ialah agen antineoplastik — ia digunakan untuk karsinoma sel renal dan termasuk dalam kelas inhibitor multi-kinase bertarget.)*
-
-| Item | Kandungan |
-|------|------|
-| Klasifikasi Sitotoksisiti | Terapi bertarget (inhibitor multi-kinase VEGFR2 / MET / AXL / RET) |
-| Risiko Supresi Sumsum Tulang | Tidak dinyatakan dalam pakej bukti semasa — sila rujuk leaflet ubat untuk amaran dan langkah pencegahan |
-| Klasifikasi Emetogenisiti | Tidak dinyatakan dalam pakej bukti semasa — sila rujuk leaflet ubat untuk amaran dan langkah pencegahan |
-| Item Pemantauan | Tidak dinyatakan dalam pakej bukti semasa — sila rujuk leaflet ubat untuk amaran dan langkah pencegahan |
-| Perlindungan Pengendalian | Tidak dinyatakan dalam pakej bukti semasa — sila rujuk leaflet ubat untuk amaran dan langkah pencegahan |
-
----
+| [41770651](https://pubmed.ncbi.nlm.nih.gov/41770651/) | 2026 | Ujian Fasa 1 | American Journal of Clinical Oncology | Menilai keselamatan cabozantinib neoadjuvan serentak dengan radioterapi pada pesakit sarkoma tisu lembut ekstremiti. |
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk leaflet ubat untuk maklumat keselamatan. (Semua amaran utama, kontraindikasi, dan data interaksi ubat kini tidak tersedia dalam pakej bukti ini — ini dijejaki sebagai jurang data **DG001**, keterukan Sekat, bermakna ulasan keselamatan belum dapat meneruskan melepasi penyaringan awal.)
+**Interaksi Ubat** (pertanyaan selesai; 100 interaksi direkodkan, 20 yang pertama dipaparkan):
+- **Major:** asid asetilsalisilik, cisapride, clarithromycin, dolasetron, granisetron, levofloxacin
+- **Sederhana:** loperamide, aprepitant, dexamethasone, bisacodyl, minyak jarak, clotrimazole, fenfluramine, dexfenfluramine, gliserin, glycerol phenylbutyrate, laktitol, laktulosa, magnesium citrate
+- **Minor:** fidaxomicin
 
----
+Maklumat amaran dan kontraindikasi tidak tersedia. Sila rujuk sisipan pek untuk maklumat keselamatan lanjut.
+
+## Sitotoksisiti
+
+| Perkara | Kandungan |
+|------|------|
+| Klasifikasi Sitotoksisiti | Terapi bersasar (perencat kinase tirosin multi-sasaran) |
+| Risiko Penekanan Sumsum Tulang | Sila rujuk amaran dan langkah berjaga-jaga pada sisipan pek |
+| Klasifikasi Emetogenisiti | Sila rujuk amaran dan langkah berjaga-jaga pada sisipan pek |
+| Perkara Pemantauan | Sila rujuk sisipan pek; data yang dikumpulkan menyebut hipertensi, pendarahan dan hepatotoksisiti sebagai profil ketoksikan |
+| Perlindungan Pengendalian | Sila rujuk amaran dan langkah berjaga-jaga pada sisipan pek |
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Soalan Penyelidikan (Tahan untuk penjanaan bukti lanjutan)**
+**Keputusan: Hold** (bagi liposarkoma)
 
-**Nisbah:**
-Isyarat liposarkoma bergantung pada satu ujian Fasa 2 yang berterusan dan bukan khusus liposarkoma serta satu penerbitan yang fokus keselamatan Fasa 1 — tidak mencukupi untuk menyokong tindakan klinikal. Ini diburukkan lagi oleh jurang keterukan Sekat dalam pelabelan keselamatan TFDA/NPRA (DG001), yang dengan sendirinya menghalang calon daripada memasuki penilaian keselamatan awal (S1) tanpa mengira kematangan bukti keberkesanan.
+**Rasional:**
+- Bukti untuk liposarkoma hanya tidak langsung (satu ujian Fasa 2 sarkoma tisu lembut tanpa keputusan dan satu ujian Fasa 1 keselamatan), maka tahap bukti ialah L3 dengan status penyelidikan sahaja.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Data leaflet ubat NPRA/TFDA (amaran, kontraindikasi) — kini jurang Sekat (DG001)
-- Mekanisme tindakan yang disahkan DrugBank — kini jurang keterukan Tinggi (DG002)
-- Hasil subkumpulan khusus liposarkoma daripada NCT05836571 (aktif, tidak merekrut; penyelesaian dijangka 2026-05-15)
-- Butiran lengkap peringkat lesen Malaysia (nama produk, bentuk dos, teks petunjuk yang diluluskan) untuk 3 pendaftaran sedia ada
-- Penjelasan bahawa isyarat "karsinoma sel renal sel jernih" dalam pakej bukti yang sama mencerminkan penggunaan yang sudah diluluskan, jadi ia tidak disalah anggap sebagai peluang penggunaan semula kedua dalam pengambilan keputusan hiliran
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Keputusan ujian NCT05836571 dan data khusus subjenis liposarkoma
+- Semakan sisipan pek NPRA (amaran dan kontraindikasi) serta data mekanisme tindakan daripada DrugBank
+- Pengesahan status pendaftaran: data tempatan menyatakan "tidak dipasarkan" tanpa indikasi asal, yang berkemungkinan jurang data kerana cabozantinib mantap dalam RCC. Sila sahkan dengan sumber kawal selia.
 
+**Nota tambahan mengenai ramalan lain:**
+- **Karsinoma sel renal (RCC), termasuk karsinoma sel jernih dan RCC lanjutan:** tahap bukti L1 (RCT Fasa 3 seperti CheckMate 9ER, METEOR, CONTACT-03 dan COSMIC-313) dengan syor **Proceed with Guardrails**. Ini ialah arah repurposing yang paling kukuh dalam data.
+- **RCC tidak terklasifikasi:** L2, Proceed with Guardrails (data Fasa 2 dan kohort retrospektif).
+- **RCC translokasi Xp11.2/TFE3 dan karsinoma ginjal kanak-kanak:** L2, status penyelidikan (subkumpulan kecil dalam ujian yang lebih luas).
+- **Liposarkoma miksoid ovari, RCC berkaitan neuroblastoma, sklerosis lateral amiotrofik dan polimikrogiria parieto-oksipital parasagital dua hala:** L5, Hold (ramalan model sahaja tanpa ujian atau literatur).
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

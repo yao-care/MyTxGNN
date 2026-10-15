@@ -2,7 +2,7 @@
 layout: default
 title: Vitamin E
 parent: Low Evidence (L4-L5)
-nav_order: 691
+nav_order: 728
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,77 +29,106 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Vitamin E: Dari Suplementasi Vitamin kepada Benign Recurrent Intrahepatic Cholestasis
+# Vitamin E: Daripada Penggunaan Asal kepada Kolestasis Intrahepatik Berulang Benigna (BRIC)
 
 ## Ringkasan Satu Ayat
 
-Vitamin E adalah antioksidan yang larut dalam lemak, secara meluas dipasarkan di Malaysia sebagai suplementasi nutrisi (tiada indikasi penyakit spesifik yang tercatat dalam dataset ini). Model TxGNN meramalkan bahawa ia mungkin berkesan untuk **Benign Recurrent Intrahepatic Cholestasis (BRIC)**, namun ramalan ini pada masa ini disokong oleh **0 percubaan klinikal** dan **0 publikasi** — ia bergantung sepenuhnya kepada kesimpulan daripada graf pengetahuan.
+Vitamin E ialah vitamin larut lemak dengan sifat antioksidan. Data yang disusun untuk laporan ini tidak mencatatkan indikasi asal yang diluluskan di Malaysia.
+Model TxGNN meramalkan ia mungkin berkesan untuk **kolestasis intrahepatik berulang benigna (BRIC)** dengan skor tinggi, tetapi **tiada ujian klinikal** dan **tiada penerbitan** yang menyokong indikasi ini secara langsung. Ramalan ini hanya berasaskan model.
 
 ---
 
-## Gambaran Ringkas
+## Gambaran Keseluruhan
 
 | Item | Kandungan |
-|------|-----------|
-| Indikasi Asal | Tidak dinyatakan dalam dataset (kesemua 5 lesen sampel mempunyai teks indikasi kosong); Vitamin E secara amnya dipasarkan sebagai suplementasi vitamin/antioksidan |
-| Indikasi Baru yang Diramalkan | Benign Recurrent Intrahepatic Cholestasis |
+|------|------|
+| Indikasi Asal | Tiada data indikasi diluluskan |
+| Indikasi Baharu yang Diramalkan | Kolestasis intrahepatik berulang benigna (BRIC) |
 | Skor Ramalan TxGNN | 99.99% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Marketed) |
-| Bilangan Pendaftaran | 245 |
-| Keputusan yang Disyorkan | Hold |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (Tahan) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan yang terperinci tidak tersedia (Jurang Data DG002, Keseriusan Tinggi). Berdasarkan farmakoloji yang diketahui, Vitamin E adalah antioksidan yang larut dalam lemak yang memerlukan aliran hempedu normal untuk penyerapan usus.
+Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia buat masa ini. Vitamin E diketahui sebagai antioksidan larut lemak yang melindungi membran sel daripada tekanan oksidatif.
 
-Pautan mekanistik yang dicadangkan adalah tidak langsung: Benign Recurrent Intrahepatic Cholestasis (BRIC) disebabkan oleh kecacatan keluarga gen yang sama (ATP8B1/ABCB11) yang mendasari spektrum Progressive Familial Intrahepatic Cholestasis yang berkaitan (PFIC). Dalam kedua-dua keadaan, aliran hempedu yang terjejas membawa kepada malabsorpsi vitamin yang larut dalam lemak, menghasilkan kekurangan Vitamin E sekunder — komplikasi yang didokumentasikan dengan baik dalam penyakit hati kolestasi. Graf pengetahuan TxGNN nampaknya telah menghubungkan Vitamin E kepada BRIC melalui hubungan kekurangan/pemulihan ini dan bukannya melalui mekanisme pengubah penyakit.
+Kolestasis merencatkan penyerapan vitamin larut lemak, jadi vitamin E mungkin dapat membetulkan kekurangan sekunder. Namun ini hanyalah pemulihan kekurangan nutrien, **bukan bukti manfaat yang mengubah perjalanan penyakit BRIC**. Hubungan ini bersifat hipotesis.
 
-Secara ketara, indikasi yang hampir berkaitan yang disenaraikan #2 dalam pakej bukti ini — familial intrahepatic cholestasis (PFIC) — disokong oleh 6 percubaan klinikal dan 8 publikasi yang mendokumentasikan kekurangan Vitamin E dan suplementasi dalam penyakit hati kolestasi pediatrik. Ini memberikan kemungkinan biologi yang tidak langsung untuk ramalan BRIC, tetapi tiada kajian telah secara langsung menguji suplementasi Vitamin E sebagai rawatan khusus untuk BRIC.
+### Indikasi Lain yang Diramalkan (Rujukan)
+
+| Kedudukan | Penyakit | Skor | Tahap Bukti | Ringkasan |
+|------|------|------|------|------|
+| 2 | Kolestasis intrahepatik familial | 99.99% | L4 | Laporan kes menunjukkan kekurangan vitamin E teruk dalam penyakit Byler/PFIC; vitamin E bertindak sebagai terapi gantian, dan dalam kes teruk suplemen mungkin tidak mencukupi |
+| 3 | Gangguan metabolisme bilirubin kongenital | 99.99% | L4 | Hanya satu kertas tentang kecacatan sintesis asid hempedu; pautan tidak langsung |
+| 4 | Penyakit metabolisme bilirubin | 99.99% | L4 | Literatur heterogen (NAFLD, penyakit hati alkohol, kajian 1979 tentang bilirubinemia neonatal, kajian haiwan); tiada bukti langsung |
+| 5 | Sirosis kanak-kanak India Amerika Utara keturunan | 99.99% | L5 | Ramalan sahaja |
+| 6 | Kecederaan hati aruhan ubat | 99.97% | L4 | Kebanyakannya kajian praklinikal haiwan; tiada ujian manusia |
+| 7 | Penyakit inklusi mikrovilus | 99.96% | L5 | Ramalan sahaja |
+| 8 | Hiperbiliverdinemia | 99.96% | L5 | Ramalan sahaja |
+| 9 | Neurohepatopati Navajo | 99.96% | L5 | Ramalan sahaja |
+| 10 | Nevus of Ito | 99.96% | L5 | Literatur berkaitan sindrom kuku kuning, vitiligo dan melasma, bukan penyakit ini; skor tinggi tidak disokong bukti klinikal |
 
 ---
 
-## Bukti Percubaan Klinikal
+## Bukti Ujian Klinikal
 
-Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
+Buat masa ini tiada ujian klinikal berkaitan didaftarkan untuk BRIC.
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Literatur
 
-Pada masa ini tiada kesusasteraan berkaitan yang tersedia.
+Buat masa ini tiada literatur berkaitan untuk BRIC.
+
+Sebagai rujukan, literatur terkuat ialah untuk kolestasis intrahepatik familial (kedudukan 2), iaitu kekurangan vitamin E sekunder:
+
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [6737183](https://pubmed.ncbi.nlm.nih.gov/6737183/) | 1984 | Laporan kes | J Pediatr Gastroenterol Nutr | Tiga pesakit Jepun dengan kolestasis progresif familial mengalami kekurangan vitamin E dan komplikasi neurologi; suplemen alfa-tokoferol oral dos tinggi menormalkan paras serum pada dua pesakit, manakala pemberian parenteral tidak memberi pemulihan klinikal pada satu pesakit |
+| [28119944](https://pubmed.ncbi.nlm.nih.gov/28119944/) | 2016 | Laporan kes | ACG Case Rep J | Kekurangan vitamin E refraktori akibat PFIC jenis 2; pemindahan hati memperbaiki fungsi neurologi dengan ketara |
+| [7135826](https://pubmed.ncbi.nlm.nih.gov/7135826/) | 1982 | Laporan kes/patologi | Virchows Arch A | Penyakit Byler dengan kekurangan vitamin E kronik, sindrom neuromuskular, dan kematian akibat kegagalan hati dan jantung |
+| [7158298](https://pubmed.ncbi.nlm.nih.gov/7158298/) | 1982 | Laporan kes/neuropatologi | Acta Neuropathol | Aksonopati sistemik akibat kekurangan vitamin E kronik dalam penyakit Byler |
+| [6328697](https://pubmed.ncbi.nlm.nih.gov/6328697/) | 1984 | Laporan kes/ultrastruktur | Tohoku J Exp Med | Perubahan ultrastruktur otot rangka seperti dalam kekurangan vitamin E eksperimen |
+| [12394373](https://pubmed.ncbi.nlm.nih.gov/12394373/) | 2002 | Kohort | J Pediatr Gastroenterol Nutr | Kegagalan pertumbuhan dalam sindrom Alagille berkaitan pengambilan diet dan steatorea |
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Butiran produk peringkat lesen (nombor pendaftaran, nama produk, bentuk dos, teks indikasi) tidak diisi dalam pakej bukti ini. Rekod NPRA menunjukkan 245 jumlah pendaftaran untuk produk Vitamin E di Malaysia, tetapi tiada medan per-produk dikembalikan untuk calon ini.
+Vitamin E tidak dipasarkan di Malaysia berdasarkan data yang disusun, dan tiada lesen berdaftar dicatatkan.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
+### Interaksi Ubat
 
-*(Catatan: Amaran label TFDA/NPRA dan kontraindikasi untuk produk ini adalah Jurang Data yang Menyekat — DG001 — dan mesti diperolehi sebelum sebarang penilaian keselamatan dapat diteruskan.)*
+Pertanyaan interaksi telah selesai dan mengenal pasti **100 interaksi**. Antara yang disenaraikan:
+
+- **Sederhana**: asid asetilsalisilik, besi, sevelamer, besi sukrosa, abciximab, antitrombin III manusia, apixaban, dipyridamole, betrixaban, bivalirudin, cangrelor, caplacizumab. Kebanyakannya ialah antikoagulan atau antiplatelet, jadi risiko pendarahan perlu dipantau.
+- **Ringan**: hidrokortison, triamsinolon, deksametason, betametason, budesonid, prednison, prednisolon, orlistat.
+
+Maklumat amaran utama dan kontraindikasi tidak tersedia. Sila rujuk sisipan pakej untuk maklumat keselamatan lanjut.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold**
+**Keputusan: Hold (Tahan)**
 
 **Rasional:**
-Ramalan yang disenaraikan teratas (BRIC) mempunyai sokongan percubaan klinikal atau kesusasteraan langsung sifar dan diklasifikasikan sebagai L5 (ramalan model sahaja). Digabungkan dengan jurang data keselamatan yang Menyekat (amaran label/kontraindikasi yang hilang) dan jurang MOA keseriusan Tinggi, terdapat bukti yang tidak mencukupi untuk memajukan calon ini.
+- Ramalan BRIC berada pada tahap bukti L5: skor model tinggi, tetapi tiada ujian klinikal atau literatur. Kemungkinan manfaat paling munasabah ialah penggantian kekurangan vitamin E sekunder, bukan rawatan penyakit asas.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Amaran sisipan pakej TFDA/NPRA dan kontraindikasi (DG001, Menyekat)
-- Data mekanisme tindakan DrugBank (DG002, Tinggi)
-- Bukti khusus penyakit untuk BRIC (data sokongan semasa hanya meliputi indikasi kolestasis intrahepati familial/PFIC yang berkaitan, bukan BRIC sendiri)
-- Data produk peringkat lesen yang lengkap (nombor pendaftaran, teks indikasi yang diluluskan) untuk 245 pendaftaran Malaysia
-
+- Amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menghalang saringan keselamatan)
+- Data mekanisme tindakan (contohnya daripada DrugBank)
+- Pengesahan indikasi asal dan status pendaftaran di Malaysia
+- Kajian literatur khusus BRIC dan penilaian kesesuaian laluan pentadbiran
+- Pertimbangan untuk menilai kolestasis intrahepatik familial (L4) sebagai arah yang lebih berasas, dengan tumpuan pada pemantauan dan pembetulan kekurangan vitamin E
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

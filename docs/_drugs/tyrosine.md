@@ -2,7 +2,7 @@
 layout: default
 title: Tyrosine
 parent: Low Evidence (L4-L5)
-nav_order: 676
+nav_order: 709
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,76 +29,83 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Tyrosine: Dari Indikasi Asal Tidak Ditakrifkan kepada Sindrom Kauda Ekuina
+# Tirosin: Daripada Penggunaan Asal kepada Sindrom Cauda Equina (Ramalan Model)
 
 ## Ringkasan Satu Ayat
 
-Tyrosine ialah asam amino yang dipasarkan di Malaysia di bawah 20 lesen berdaftar, tetapi tiada indikasi yang diluluskan asal atau data mekanisme tindakan yang tersedia pada masa ini dalam pakej bukti. Ramalan teratas model TxGNN menghubungkannya dengan **Sindrom Kauda Ekuina**, tetapi pasangan ini disokong oleh **0 ujian klinikal** dan hanya **1 laporan kes yang tidak berkaitan**, dan ditandai dalam alasan mendasar sebagai kemungkinan ketidakpadanan pengindeksan pangkalan data dan bukannya isyarat farmakologi tulen.
+Tirosin (L-tyrosine) ialah asid amino yang menjadi prekursor kepada katekolamin dan hormon tiroid. Data yang dikumpulkan untuk laporan ini tidak mengandungi sebarang indikasi asal yang berdaftar di Malaysia.
+Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom cauda equina** dengan skor tinggi (99.77%), tetapi ramalan ini berasaskan graf semata-mata, dengan **0 ujian klinikal** dan **0 penerbitan** yang menyokongnya.
 
 ---
 
-## Gambaran Keseluruhan Cepat
+## Gambaran Ringkas
 
-| Perkara | Kandungan |
-|--------|-----------|
-| Indikasi Asal | Tidak didokumenkan dalam rekod peraturan yang tersedia (semua medan indikasi lesen kosong) |
-| Indikasi Baru yang Diramalkan | Sindrom Kauda Ekuina |
+| Item | Kandungan |
+|------|------|
+| Indikasi Asal | Tiada data indikasi berdaftar |
+| Indikasi Baharu yang Diramal | Sindrom cauda equina |
 | Skor Ramalan TxGNN | 99.77% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | Dipasarkan |
-| Bilangan Pendaftaran | 20 |
-| Keputusan Yang Disyorkan | Tahan |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan terperinci untuk Tyrosine tidak tersedia. Tyrosine ialah asam amino standard dan pelopor biokimia yang diketahui untuk katekolamina dan hormon tiroid, tetapi tiada nisbah farmakologi yang mantap menghubungkannya dengan sindrom kauda ekuina (keadaan neurologis kompresi akar saraf lumbosacral).
+Data mekanisme tindakan (MOA) terperinci tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, tirosin ialah prekursor katekolamin (dopamin, noradrenalin, adrenalin) dan juga substrat untuk sintesis hormon tiroid.
 
-Nisbah tujuan semula untuk calon ini secara eksplisit menyatakan bahawa tiada mekanisme yang boleh dikenal pasti menghubungkan Tyrosine dengan sindrom kauda ekuina. Rekod kesusasteraan sokongan tunggal (PMID 17341045) menerangkan kes sarkom sel jernih / schwannoma bermelanotik yang berasal dari akar saraf spinal — laporan kes histopatologi tanpa sebarang pernyataan Tyrosine sebagai campur tangan terapeutik. Ini mencadangkan persatuan TxGNN berkemungkinan besar artifak pengindeksan pangkalan data dan bukannya hipotesis biologi yang disokong, dan ia tidak boleh dianggap disokong mekanistik pada peringkat ini.
+Sindrom cauda equina ialah kecederaan mampatan akar saraf lumbosakral dan merupakan kecemasan pembedahan. Tiada hubungan mekanisme yang mantap antara tirosin dan keadaan ini. Skor yang tinggi hanya mencerminkan corak dalam graf pengetahuan, bukan bukti biologi atau klinikal. Oleh itu, ramalan ini harus dianggap sebagai hipotesis awal sahaja.
+
+Ramalan lain dalam kedudukan teratas (contohnya hipertiroidisme, glaukoma sudut tertutup, sindrom takikardia ortostatik postural) juga tidak menunjukkan bukti yang kukuh. Bagi hipertiroidisme dan hipertiroksinemia, peranan tirosin sebagai substrat hormon tiroid menimbulkan kebimbangan bahawa ia tidak bermanfaat atau mungkin tidak sesuai.
 
 ---
 
 ## Bukti Ujian Klinikal
 
-Pada masa ini tiada ujian klinikal berkaitan didaftar.
+Pada masa ini tiada ujian klinikal berdaftar yang berkaitan dengan sindrom cauda equina.
+
+Sebagai rujukan, satu ujian berkaitan bagi ramalan peringkat keempat (hipertiroidisme):
+
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
+|---------|------|------|------|---------|
+| [NCT06264544](https://clinicaltrials.gov/study/NCT06264544) | NA | Belum merekrut | 150 | Ujian rawak, buta dua, terkawal plasebo bagi suplemen zink, selenium dan L-tirosin untuk mencegah tirotoksikosis pada peserta dengan polimorfisme SEPP1; tiada keputusan, dan sumbangan tirosin tidak dapat diasingkan |
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Literatur
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|-------|-------|--------|---------|
-| [17341045](https://pubmed.ncbi.nlm.nih.gov/17341045/) | 2006 | Laporan Kes | Neurosurgical focus | Laporan kes sarkom sel jernih yang berasal dari akar saraf S1, sebelum ini disalahdiagnosis sebagai schwannoma bermelanotik psammomatous; membincangkan histogenesis tumor dan arah potensi imunoterapi. Tidak menilai Tyrosine atau sebarang campur tangan ubat untuk sindrom kauda ekuina. |
+Pada masa ini tiada literatur berkaitan sindrom cauda equina.
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Pakej bukti mengesahkan Tyrosine memegang 20 pendaftaran aktif di Malaysia (status "Dipasarkan"), tetapi tiada butiran peringkat lesen (nombor pendaftaran, nama produk, bentuk dos, atau teks indikasi yang diluluskan) yang dikembalikan oleh pertanyaan sumber — semua medan kosong dalam rekod yang mendasar. Data pendaftaran peringkat produk tidak dapat dilaporkan di sini dan perlu disemak semula dari sumber NPRA.
+Menurut data yang dikumpulkan, tirosin tidak dipasarkan di Malaysia dan tiada lesen berdaftar.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
+Sila rujuk sisipan pakej untuk maklumat keselamatan. Tiada interaksi ubat yang direkodkan dalam data yang dikumpulkan.
+
+Nota: pertimbangan teori yang relevan ialah tirosin ialah substrat sintesis hormon tiroid, jadi penggunaannya pada pesakit dengan keadaan tiroid berlebihan memerlukan kehati-hatian.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
-**Nisbah:**
-Tahap bukti ialah L5 (ramalan model sahaja), dengan sifar ujian klinikal dan rekod kesusasteraan tunggal yang tidak berkaitan dengan Tyrosine atau sindrom kauda ekuina — nisbah itu sendiri menandai ini sebagai ketidakpadanan pangkalan data positif palsu yang berkemungkinan. Sebagai tambahan, jurang data Penyekat (amaran label TFDA/NPRA dan kontraindikasi, DG001) menghalang bahkan skrin keselamatan awal (S1) daripada dijalankan.
+**Rasional:**
+- Ramalan sindrom cauda equina hanya berasaskan skor model (L5), tanpa ujian klinikal atau literatur, dan tiada hubungan mekanisme yang munasabah. Tirosin juga tidak berdaftar di Malaysia. Sepuluh ramalan teratas kesemuanya berada pada tahap Hold.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Selesaikan DG001 (Penyekat): dapatkan amaran label produk Malaysia rasmi/kontraindikasi sebelum sebarang penilaian peringkat keselamatan
-- Selesaikan DG002 (Tinggi): dapatkan data mekanisme tindakan Tyrosine dari DrugBank untuk menyokong atau menafikan kebolehpercayaan mekanistik
-- Sahkan indikasi yang diluluskan asal daripada rekod peringkat lesen NPRA (pada masa ini kosong)
-- Sahkan secara bebas sama ada persatuan sindrom kauda ekuina ialah isyarat TxGNN tulen atau ralat pengindeksan graf pengetahuan sebelum memperuntukkan sumber semakan lanjut
-- Jika diikuti, hasilkan carian kesusasteraan/pra-klinikal khusus pada Tyrosine dan patologi akar saraf lumbosacral, kerana rujukan tunggal semasa tidak relevan
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menghalang penilaian keselamatan)
+- Data mekanisme tindakan (MOA) daripada DrugBank
+- Bukti praklinikal atau klinikal yang menunjukkan kesan tirosin pada patologi cauda equina
+- Pertimbangan semula indikasi lain yang mempunyai asas biologi yang lebih jelas
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

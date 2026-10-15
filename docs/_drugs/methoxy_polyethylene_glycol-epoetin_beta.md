@@ -2,7 +2,7 @@
 layout: default
 title: Methoxy Polyethylene Glycol-Epoetin Beta
 parent: Low Evidence (L4-L5)
-nav_order: 478
+nav_order: 499
 evidence_level: L5
 indication_count: 7
 ---
@@ -29,77 +29,78 @@ Tahap bukti: **L5** | Indikasi diramal: **7**
 
 </div>
 
-# Methoxy Polyethylene Glycol-Epoetin Beta: Daripada Rangsangan Erythropoiesis hingga Gangguan Pelepasan Primer Platelet
+# Metoksi Polietilena Glikol-Epoetin Beta: Daripada Indikasi Asal (Tidak Direkodkan) kepada Gangguan Pelepasan Primer Platelet
 
 ## Ringkasan Satu Ayat
 
-Methoxy polyethylene glycol-epoetin beta (DrugBank DB09107) ialah agen perangsang erythropoiesis (ESA) yang mengaktifkan laluan reseptor EPO (EPOR) untuk merangsang pengeluaran sel darah merah. Ramalan teratas model TxGNN ialah **gangguan pelepasan primer platelet**, tetapi calon ini disokong oleh **0 ujian klinikal** dan **0 penerbitan** — teks alasan model itu sendiri mencatat bahawa pautan mekanik adalah spekulatif, berdasarkan kehadiran bersama graf pengetahuan dan bukannya laluan farmakologi yang diketahui.
+Metoksi polietilena glikol-epoetin beta (CERA) ialah agen perangsang eritropoiesis bertindak panjang yang bertindak pada reseptor eritropoietin. Data yang dikumpulkan untuk laporan ini tidak mencatatkan indikasi berlesen asalnya di Malaysia.
+Model TxGNN meramalkan ia mungkin berkesan untuk **gangguan pelepasan primer platelet** (skor 99.36%), tetapi **tiada ujian klinikal** dan **tiada penerbitan** yang menyokong ramalan ini. Ramalan ini hanya berasaskan model.
 
 ---
 
 ## Gambaran Keseluruhan Pantas
 
-| Item | Kandungan |
-|------|----------|
-| Petunjuk Asal | Tidak tersedia dalam Pak Bukti — rekod lesen Malaysia tidak mengandungi teks petunjuk (jurang data). Kelas ubat yang diketahui: Agen Perangsang Erythropoiesis (ESA) |
-| Petunjuk Baru yang Diramal | Gangguan pelepasan primer platelet |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Tiada data indikasi berlesen yang direkodkan |
+| Indikasi Baharu yang Diramalkan | Gangguan pelepasan primer platelet (*primary release disorder of platelets*) |
 | Skor Ramalan TxGNN | 99.36% |
-| Aras Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 6 |
-| Cadangan Keputusan | Tahan |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci ditandai sebagai jurang data dalam Pak Bukti ini (DG002). Berdasarkan apa yang diketahui, ubat ini ialah epoetin beta yang dipegylated (methoxy polyethylene glycol-epoetin beta), ahli kelas ESA, yang mengikat reseptor EPO (EPOR) pada sel progenitor eritroid untuk merangsang pengeluaran sel darah merah. EPOR juga diekspresikan pada megakaryosit, yang merupakan asas untuk pautan yang dicadangkan model kepada gangguan berkaitan platelet.
+Butiran mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan. Berdasarkan maklumat yang diketahui, CERA ialah agen perangsang eritropoiesis (ESA) yang bertindak pada reseptor eritropoietin di sel progenitor eritroid untuk merangsang pengeluaran sel darah merah.
 
-Walau bagaimanapun, teks alasan pak bukti bukti itu sendiri jelas bahawa sambungan ini lemah: "gangguan pelepasan primer platelet" merujuk kepada kecacatan dalam pelepasan granul platelet, proses yang tidak mempunyai hubungan yang ditetapkan dengan isyarat EPO/EPOR. Alasan tersebut secara eksplisit mencirikan ramalan sebagai artifak kehadiran bersama graf pengetahuan dan bukannya hipotesis yang disokong secara mekanik, dan tiada bukti klinikal atau literatur sedia ada untuk menyokongnya.
+**Tiada hubungan mekanistik yang jelas** antara tindakan ini dengan gangguan pelepasan primer platelet, iaitu kecacatan kualitatif fungsi platelet. Sebarang kaitan hanyalah spekulatif (contohnya kesan tidak langsung eritropoiesis terhadap interaksi platelet dengan dinding salur darah). Skor TxGNN yang tinggi (0.994) mencerminkan inferens berasaskan graf pengetahuan, bukan bukti biologi. Selain itu, ESA dikaitkan dengan risiko trombosis, yang tidak sejajar dengan keadaan ini.
 
-Juga perlu diingat bahawa semua 7 petunjuk yang diramal TxGNN untuk ubat ini diberi penarafan L5 (ramalan model sahaja) dengan cadangan "Tahan", dan beberapa calon yang berada di kedudukan lebih rendah (kekurangan kofaktor heparin 2, kekurangan antitrombin jenis 2, lebihan faktor 5 dengan trombosis spontan) berjalan **bertentangan** dengan profil keselamatan ubat yang diketahui — ESA membawa risiko trombosis yang ditetapkan, menjadikan calon ini tidak wajar secara arah daripada hanya tidak terbukti. Corak ini menunjukkan set ramalan secara keseluruhan harus dianggap dengan berhati-hati dan bukannya sebagai isyarat ubat semula guna yang menjanjikan.
+### Ramalan Lain daripada Model
 
----
+Semua ramalan lain juga berada pada tahap bukti L5 dan berstatus Hold:
 
-## Bukti Ujian Klinikal
-
-Pada masa ini tiada ujian klinikal yang berkaitan terdaftar.
-
----
-
-## Bukti Literatur
-
-Pada masa ini tiada literatur yang berkaitan tersedia.
+| Kedudukan | Penyakit | Skor TxGNN | Ringkasan Penilaian |
+|------|------|------|------|
+| 2 | Trombastenia Glanzmann | 99.30% | Disebabkan kecacatan integrin αIIbβ3 pada platelet; agonis reseptor EPO tidak membetulkan kecacatan ini. |
+| 3 | Penyakit pseudo-von Willebrand | 99.25% | Disebabkan peningkatan fungsi GPIb-alfa; CERA tiada kesan diketahui pada paksi GPIb-VWF. |
+| 4 | Retinopati diabetik bukan proliferatif yang teruk | 99.15% | Hanya rasional tidak langsung yang lemah (isyarat EPO dalam neuroperlindungan dan angiogenesis retina), tetapi terdapat risiko pro-angiogenik dan ESA memerlukan berhati-hati pada retinopati proliferatif. |
+| 5 | Kekurangan kofaktor heparin 2 | 99.10% | Tiada hubungan mekanistik; ESA meningkatkan risiko trombosis, justeru ramalan ini berkemungkinan dikontraindikasikan. |
+| 6 | Kekurangan antitrombin jenis 2 | 99.07% | Tiada hubungan mekanistik; profil risiko protrombotik CERA tidak menyokong penggunaan. |
+| 7 | Lebihan faktor 5 dengan trombosis spontan | 99.04% | Tiada hubungan mekanistik dan wujud konflik keselamatan; ESA mempunyai amaran kotak untuk peristiwa tromboembolik. |
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Produk ini mempunyai 6 lesen berdaftar di Malaysia (NPRA, status pasaran: Dipasarkan / Dipasarkan). Walau bagaimanapun, butiran aras lesen (nombor pendaftaran, nama produk, bentuk dos, teks petunjuk yang diluluskan) tidak diisi dalam Pak Bukti ini dan tidak boleh dilaporkan di sini.
+Menurut data yang dikumpulkan, produk ini **tidak dipasarkan** di Malaysia dan tiada lesen berdaftar direkodkan.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk prospektus pemaketan untuk maklumat keselamatan.
+Data keselamatan rasmi (amaran dan kontraindikasi daripada sisipan pek) tidak tersedia. Sila rujuk sisipan pek untuk maklumat keselamatan.
 
-*Catatan: Amaran label TFDA/NPRA dan kontraindikasi untuk ubat ini ditandai dalam Pak Bukti ini sebagai jurang data **Menghalang** (DG001) — ini pada masa ini menghalang penilaian keselamatan awal (S1) dan harus diprioritaskan sebelum sebarang penilaian lanjut.*
+Berdasarkan penilaian mekanistik dalam data yang dikumpulkan, perkara berikut perlu diberi perhatian:
+- **Risiko tromboembolik**: ESA termasuk CERA mempunyai amaran kotak untuk peristiwa tromboembolik, yang amat relevan bagi ramalan berkaitan keadaan hiperkoagulasi (kekurangan kofaktor heparin 2, kekurangan antitrombin jenis 2, lebihan faktor 5).
+- **Retinopati proliferatif**: ESA memerlukan berhati-hati kerana potensi risiko pro-angiogenik.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold (Tangguh)**
 
-**Alasan:**
-Petunjuk yang diramal berkedudukan teratas tidak mempunyai ujian klinikal atau literatur yang menyokong (L5, ramalan model sahaja), dan alasan mekanik dalam pak bukti bukti itu sendiri menunjukkan bahawa pautan kepada isyarat EPO/EPOR tidak ditegakkan dengan baik. Sebagai tambahan, jurang data keterukan Menghalang (amaran label/kontraindikasi yang hilang) menghalang pun saring keselamatan asas.
+**Rasional:**
+- Semua ramalan hanya berasaskan model (L5), tanpa sebarang ujian klinikal atau literatur. Tiada hubungan mekanistik yang munasabah dan terdapat kebimbangan keselamatan, terutamanya risiko trombosis, yang mengatasi isyarat ramalan.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Prospektus produk TFDA/NPRA (amaran, kontraindikasi) untuk menyelesaikan DG001 sebelum sebarang penilaian keselamatan boleh dimulai
-- Data mekanisme tindakan yang bersumber daripada DrugBank/label untuk menyelesaikan DG002 dan menilai dengan sewajarnya kebolehakuan mekanik
-- Teks petunjuk yang diluluskan asal daripada rekod lesen Malaysia (pada masa ini kosong dalam Pak Bukti ini)
-- Jika calon ini diikuti lebih lanjut, carian literatur atau praklinik bebas khusus tentang ungkapan/isyarat EPOR dalam biologi pelepasan granul megakaryosit, kerana tiada yang sedia ada dalam pak bukti bukti tersebut
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisipan pek NPRA (amaran dan kontraindikasi), yang kini menghalang saringan keselamatan peringkat seterusnya
+- Data mekanisme tindakan (MOA) yang terperinci daripada DrugBank
+- Data indikasi asal dan status pendaftaran di Malaysia
+- Bukti praklinikal atau klinikal yang menyokong sebarang hubungan mekanistik dengan indikasi yang diramalkan sebelum penilaian lanjut
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Romiplostim
-parent: Medium Evidence (L3)
-nav_order: 602
-evidence_level: L3
+parent: Low Evidence (L4-L5)
+nav_order: 630
+evidence_level: L5
 indication_count: 10
 ---
 
 # Romiplostim
 {: .fs-9 }
 
-Tahap bukti: **L3** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,85 +29,99 @@ Tahap bukti: **L3** | Indikasi diramal: **10**
 
 </div>
 
-# Romiplostim: Dari Trombositopenia Imun (ITP) kepada Gangguan Pelepasan Platelet Primer
+# Romiplostim: Daripada Penggunaan Asal kepada Gangguan Pelepasan Primer Platelet
 
 ## Ringkasan Satu Ayat
 
-Romiplostim adalah agonis reseptor trombopoietin (TPO-R) yang penggunaan yang diluluskan dirujuk dalam pakej bukti ini sebagai trombositopenia imun (ITP); teks petunjuk asal daripada rekod pendaftaran Malaysia itu sendiri tidak diisi.
-Model TxGNN meramalkan ia juga mungkin berkesan untuk **gangguan pelepasan platelet primer**, padanan mekanik dengan tindakan teras Romiplostim dalam merangsang pengeluaran platelet yang didorong oleh megakariasit.
-Pada masa ini hanya **1 percubaan klinikal** (sebuah kohort pemerhatian, bukan intervensi) dan **2 penerbitan** (kedua-duanya ulasan/mekanik, peringkat 3) menyokong arah spesifik ini.
+Romiplostim ialah agonis reseptor trombopoietin (MPL) yang merangsang pengeluaran platelet. Data yang dikumpulkan untuk laporan ini tidak mencatatkan indikasi berlesen asal di Malaysia.
+Model TxGNN meramalkan ia mungkin berkesan untuk **gangguan pelepasan primer platelet** (*primary release disorder of platelets*), tetapi **tiada ujian klinikal** dan hanya **1 penerbitan** praklinikal/mekanistik yang berkaitan secara tidak langsung, jadi bukti hanyalah ramalan model (L5).
 
 ---
 
-## Gambaran Pantas
+## Gambaran Keseluruhan Pantas
 
 | Item | Kandungan |
-|------|-----------|
-| Petunjuk Asal | Trombositopenia Imun (ITP) — dirujuk dalam rasional pakej bukti; teks petunjuk yang diluluskan NPRA tidak diisi dalam data sumber |
-| Petunjuk Baru yang Diramalkan | Gangguan pelepasan platelet primer |
-| Skor Ramalan TxGNN | 99.9998% (kedudukan 7 dalam kalangan calon) |
-| Tahap Bukti | L3 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 1 |
-| Keputusan yang Disyorkan | Tahan |
+|------|------|
+| Indikasi Asal | Tiada data indikasi berlesen di Malaysia dalam data yang dikumpulkan (dalam literatur, romiplostim digunakan untuk trombositopenia imun / ITP) |
+| Indikasi Baharu yang Diramalkan | Gangguan pelepasan primer platelet |
+| Skor Ramalan TxGNN | 99.99% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan yang Disyorkan | Hold |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci (medan MOA DrugBank) ditandai sebagai jurang data dalam pakej ini. Berdasarkan maklumat yang tersedia, walau bagaimanapun, rasional pengguna semula untuk calon ini menyatakan bahawa mekanisme teras Romiplostim adalah merangsang proliferasi dan diferensiasi megakariasit untuk meningkatkan pengeluaran platelet — iaitu, ia bertindak sebagai agonis reseptor TPO.
+Data terperinci mengenai mekanisme tindakan tidak tersedia buat masa ini. Berdasarkan maklumat sedia ada, romiplostim ialah agonis reseptor trombopoietin (MPL) yang merangsang percambahan megakariosit dan pengeluaran platelet. Keberkesanannya dalam ITP telah mapan dalam literatur.
 
-"Gangguan pelepasan platelet primer" menggambarkan gangguan pengeluaran/pelepasan platelet daripada megakariasit. Ini sejajar terus dengan mekanisme tindakan Romiplostim yang diketahui dalam penggunaannya yang diluluskan ITP, di mana ubat itu meningkatkan kiraan platelet dengan memacu trombopoiesis. Pertindihan mekanik oleh itu tinggi pada prinsipnya.
-
-Walau bagaimanapun, bukti sokongan pada masa ini duduk di peringkat sains asas/mekanik (literatur megakariasitopoeisis sumsum tulang) daripada di peringkat percubaan intervensi yang khusus menyasarkan label penyakit ini. Satu-satunya percubaan klinikal yang tersedia adalah kajian kohort pemerhatian tentang faktor risiko trombosis dalam pesakit ITP, bukan percubaan rawatan — ia menetapkan pertindihan populasi tetapi bukan keberkesanan terapeutik untuk petunjuk spesifik ini.
+Namun, hubungan mekanistik dengan indikasi yang diramalkan adalah **tidak langsung dan lemah**. Gangguan pelepasan platelet ialah kecacatan fungsi kualitatif (perembesan granul terjejas), maka meningkatkan kiraan platelet tidak akan membetulkan kelainan fungsi asas. Satu-satunya literatur (PMID 25682608) mengenai autoantibodi antiplatelet yang menghalang pembentukan proplatelet dalam ITP, bukan gangguan pelepasan platelet. Skor TxGNN yang sangat tinggi tidak disokong oleh bukti klinikal.
 
 ---
 
-## Bukti Percubaan Klinikal
+## Bukti Ujian Klinikal
 
-| Nombor Percubaan | Fasa | Status | Bilangan Peserta | Penemuan Utama |
-|---------|------|--------|------|---------|
-| [NCT03820960](https://clinicaltrials.gov/study/NCT03820960) | N/A | Selesai | 10,039 | Kohort pemerhatian tentang faktor risiko trombosis dalam trombositopenia imun (ITP); bukan intervensi, tidak secara langsung menguji keberkesanan Romiplostim untuk label penyakit ini — pertindihan populasi sahaja (gred relevansi C). |
+Buat masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|------|------|------|---------|
-| [23594368](https://pubmed.ncbi.nlm.nih.gov/23594368/) | 2013 | Ulasan | British Journal of Haematology | Mengulas biologi megakariasitopoeisis dan trombopoiesis, termasuk trombopoietin (TPO) sebagai faktor pertumbuhan utama untuk lintasan megakariasit — asas mekanik, bukan data percubaan klinikal. |
-| [25682608](https://pubmed.ncbi.nlm.nih.gov/25682608/) | 2015 | Kajian Mekanik/Asas | Haematologica | Menunjukkan bahawa autoantibodi antiplatelet dalam ITP menghalang pembentukan proplatelet dan mengganggu pengeluaran platelet dalam vitro — menyokong rasional biologi untuk terapi agonis TPO-R tetapi bukan kajian keberkesanan klinikal. |
+|------|-----|------|------|---------|
+| [25682608](https://pubmed.ncbi.nlm.nih.gov/25682608/) | 2015 | Kajian praklinikal/mekanistik (ITP) | Haematologica | Autoantibodi antiplatelet pada pesakit ITP menghalang pembentukan proplatelet oleh megakariosit dan menjejaskan pengeluaran platelet secara in vitro. Tidak berkaitan secara langsung dengan gangguan pelepasan platelet. |
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Rekod pendaftaran mengesahkan 1 lesen aktif (status pasaran: Dipasarkan), tetapi nombor lesen, nama produk, bentuk dos, dan medan teks petunjuk yang diluluskan tidak diisi dalam ekstrak data semasa. Maklumat kebenaran terperinci perlu ditarik daripada pendaftaran produk NPRA secara langsung.
+Romiplostim tidak dipasarkan di Malaysia dan tiada pendaftaran direkodkan dalam data yang dikumpulkan.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
+- **Interaksi Ubat**:
+  - **Carfilzomib** (tahap **Major**, sumber DDInter): interaksi utama; perlu dinilai sebelum penggunaan bersama.
+  - **Reseptor trombopoietin (MPL)**: sasaran farmakologi romiplostim, bukan interaksi ubat-ubat yang klinikal.
+
+Untuk amaran utama dan kontraindikasi, sila rujuk risalah pek (package insert).
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
 **Rasional:**
-- Petunjuk yang diramalkan berkedudukan teratas (gangguan pelepasan platelet primer) disokong hanya oleh literatur sains asas/mekanik dan satu percubaan pemerhatian bukan intervensi — tiada bukti intervensi langsung wujud lagi untuk label penyakit spesifik ini.
-- Dua jurang data pemblokiran/berketerukan tinggi (amaran sisipan pakej & kontraindikasi; MOA terperinci) pada masa ini menghalang calon ini daripada melepasi pemeriksaan pra-keselamatan S1.
+- Tiada ujian klinikal atau literatur langsung untuk gangguan pelepasan primer platelet. Mekanismenya juga lemah kerana penyakit ini ialah kecacatan fungsi platelet, bukan kekurangan bilangan. Skor TxGNN yang tinggi hanyalah ramalan model.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Sisipan pakej NPRA (amaran, kontraindikasi) — pada masa ini jurang data pemblokiran
-- Perincian mekanisme tindakan bersumber DrugBank — pada masa ini jurang data berketerukan tinggi
-- Rekod pendaftaran NPRA yang lengkap (nombor lesen, nama produk, bentuk dos, teks petunjuk yang diluluskan sepenuhnya)
-- Sebuah kajian intervensi (bahkan awal fasa) yang secara langsung menguji Romiplostim dalam populasi gangguan pelepasan platelet, bukannya bergantung sepenuhnya kepada literatur mekanik bersebelahan ITP
+- Risalah pek NPRA (amaran dan kontraindikasi) untuk saringan keselamatan
+- Data mekanisme tindakan terperinci (contohnya daripada DrugBank)
+- Data indikasi berlesen dan status pendaftaran di Malaysia
+- Bukti praklinikal atau klinikal yang menunjukkan manfaat dalam gangguan fungsi platelet
 
-*Nota: calon berasingan dalam pakej bukti yang sama, "gangguan pendarahan jenis platelet" (kedudukan 8), sudah mencapai bukti L1 (percubaan RECITE Fasa 3 dan kajian Fasa 3/4 lain) tetapi sangat bertindih dengan penggunaan ITP yang diluluskan Romiplostim daripada mewakili petunjuk yang benar-benar baru — ia bukan subjek utama laporan ini tetapi mungkin menjamin penilaian sendiri jika dianggap sebagai label yang berbeza.*
+---
 
+## Nota Tambahan: Indikasi Lain yang Diramalkan
+
+Data juga merangkumi indikasi lain yang diramalkan. Hampir semuanya berada pada tahap L5 tanpa ujian klinikal:
+
+| Kedudukan | Indikasi | Skor TxGNN | Tahap Bukti | Syor |
+|------|------|------|------|------|
+| 2 | Penyakit pseudo-von Willebrand | 99.99% | L5 | Hold |
+| 3 | Trombastenia Glanzmann | 99.99% | L5 | Hold |
+| 4 | Trombositopenia aloimun janin dan neonatal (FNAIT) | 99.99% | L4 | Research Question |
+| 5 | Sindrom Scott | 99.97% | L5 | Hold |
+| 6 | Gangguan hemoragik akibat trombositopenia konstitusi | 99.95% | L5 | Research Question |
+| 7 | Diatesis pendarahan akibat kecacatan reseptor kolagen | 99.95% | L5 | Hold |
+| 8 | Gangguan pendarahan jenis platelet | 99.93% | L5 | Hold |
+| 9 | Makrotrombositopenia autosomal dominan | 99.88% | L5 | Research Question |
+| 10 | Sindrom Ehlers-Danlos, jenis fibronektinemik | 99.85% | L5 | Hold |
+
+**Calon yang paling wajar diterokai:** FNAIT (kedudukan 4) mempunyai sokongan tidak langsung daripada 6 penerbitan (kajian semula dan laporan kes mengenai ITP, kehamilan dan neonatus), tetapi tiada bukti khusus FNAIT. Keselamatan janin/neonatus dan pemindahan melalui plasenta masih belum diselesaikan. Trombositopenia konstitusi dan makrotrombositopenia autosomal dominan munasabah secara teori bagi subjenis dengan isyarat MPL yang terpelihara, tetapi tiada bukti diperoleh.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

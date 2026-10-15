@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Testosterone
-parent: Low Evidence (L4-L5)
-nav_order: 643
-evidence_level: L5
+parent: High Evidence (L1-L2)
+nav_order: 676
+evidence_level: L2
 indication_count: 5
 ---
 
 # Testosterone
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **5** 
+Tahap bukti: **L2** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,104 +29,114 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Testosterone: Daripada Kekurangan Androgen hingga Hipogonadisme Hipogonadotropik Kongenital
+# Testosteron: Daripada Hipogonadisme/Kekurangan Hormon Pituitari kepada Hipogonadisme Hipogonadotropik Kongenital
 
 ## Ringkasan Satu Ayat
 
-Testosterone adalah sebatian rujukan untuk penggantian androgen; pendaftaran Malaysia (NPRA) mengesahkan bahawa ia dipasarkan di bawah 4 lesen, tetapi teks indikasi yang diluluskan secara khusus tidak ditangkap dalam pakej bukti ini.
-Model TxGNN meletakkan **Hipogonadisme Hipogonadotropik Kongenital (CHH)** sebagai indikasi yang diramalkan teratas, disokong oleh **15 percubaan klinis** dan **19 penerbitan** — walaupun skor TxGNN yang dilaporkan sebesar 0.00% untuk kedudukan ini nampaknya merupakan artifak data dan bukannya nilai keyakinan yang sebenar.
-Secara mekanik ini bukan penggunaan "baharu" yang jauh: CHH adalah gangguan kekurangan testosterone, dan penggantian testosterone adalah terapi langsung yang dijangkakan untuknya.
+Testosteron ialah hormon androgen utama yang pada asalnya digunakan untuk merawat hipogonadisme hipogonadotropik, sindrom Kallmann dan kekurangan hormon pituitari.
+Model TxGNN meramalkan ia mungkin berkesan untuk **hipogonadisme hipogonadotropik kongenital**, dengan **6 ujian klinikal** dan **16 penerbitan** yang menyokong arah ini.
+Perlu diingatkan bahawa indikasi ini sebenarnya sudah termasuk dalam indikasi asal ubat, jadi ia bukan pengisian semula (repurposing) yang sebenar.
 
 ---
 
-## Gambaran Keseluruhan Pantas
+## Gambaran Ringkas
 
-| Item | Kandungan |
-|------|---------|
-| Indikasi Asal | Tidak ditangkap dalam data pendaftaran (semua 4 rekod lesen NPRA mempunyai teks indikasi kosong) |
-| Indikasi Baharu yang Diramalkan | Hipogonadisme Hipogonadotropik Kongenital |
-| Skor Ramalan TxGNN | 0.00% (dilaporkan sebagai 0.0 — berkemungkinan isu pemarkahan/saluran data, lihat kaveat di bawah) |
-| Tahap Bukti | L3 (kajian perbandingan/pemerhatian Fasa 4 yang telah selesai + ulasan peringkat panduan; tiada percubaan klinis rawak Fasa 3 yang telah selesai khusus untuk indikasi ini) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 4 |
-| Keputusan yang Disyorkan | Tahan |
-
-**Kaveat:** Semua lima ramalan berkedudukan dalam pakej bukti ini (kedudukan 1–5) membawa `txgnn.score` yang sama iaitu 0.0, yang tidak konsisten dengan output berkedudukan yang bermakna. Ini harus disahkan terhadap saluran pemarkahan TxGNN mentah sebelum skor digunakan dalam sebarang pengiraan pergi/tidak pergi.
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Hipogonadisme hipogonadotropik, sindrom Kallmann, kekurangan hormon pituitari (berdasarkan graf pengetahuan TxGNN) |
+| Indikasi Baharu yang Diramalkan | Hipogonadisme hipogonadotropik kongenital |
+| Skor Ramalan TxGNN | 0.00% (skor dalam data yang dikumpulkan ialah 0.0, perlu disahkan semula) |
+| Tahap Bukti | L1 (mengikut penilaian dalam data; lihat catatan di bahagian Kesimpulan) |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Berjaga-jaga) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan (MOA) terperinci untuk Testosterone tidak tersedia dalam pakej bukti ini (`original_moa: [Jurang Data]`), dan tiada teks indikasi asal ditangkap daripada pendaftaran Malaysia. Berdasarkan klasifikasi farmakologi umum, Testosterone adalah androgen endogenus dan agen rujukan untuk terapi penggantian androgen/testosterone.
+Data terperinci mengenai mekanisme tindakan (MOA) ubat ini belum tersedia dalam data yang dikumpulkan. Berdasarkan maklumat yang diketahui, testosteron ialah hormon androgen endogen, kegunaannya dalam hipogonadisme sudah mantap, dan secara mekanistik ia sesuai untuk hipogonadisme hipogonadotropik kongenital.
 
-Hipogonadisme Hipogonadotropik Kongenital adalah, mengikut takrifan, keadaan pengeluaran testosterone endogenus yang tidak mencukupi yang disebabkan oleh disfungsi hipotalamus-hipofisis (isyarat GnRH/gonadotropin yang rosak). Penggantian testosterone eksogen oleh itu adalah terapi pembetulan yang dijangkakan secara mekanik untuk keadaan kekurangan ini — ini lebih dekat kepada **penggunaan yang konsisten dengan label** daripada isyarat penyusunan semula sasaran novel. Perbezaan itu penting untuk tafsiran bukti: pangkalan percubaan klinis dan kesusasteraan di bawah sebahagian besarnya mendokumentasikan dos, formulasi, dan kesan metabolik/tulang yang berikutnya daripada terapi testosterone pada pesakit CHH, bukannya mewujudkan keberkesanan dalam penyakit yang sebelum ini tidak berkaitan.
+Hipogonadisme hipogonadotropik kongenital (CHH) berpunca daripada isyarat GnRH/gonadotropin yang tidak mencukupi, menyebabkan paras testosteron testis endogen rendah. Testosteron eksogen menggantikan androgen yang hilang secara langsung, mendorong virilisasi dan akil baligh serta mengekalkan kesihatan tulang, otot dan metabolik. Namun, testosteron tidak memulihkan kesuburan; terapi gonadotropin atau GnRH berdenyut diperlukan untuk spermatogenesis.
 
-Kerana `original_indications` kosong dan MOA adalah jurang data, ulasan ini tidak dapat mengesahkan sama ada CHH/kekurangan androgen adalah sudah indikasi berlabel Testosterone dalam pendaftaran Malaysia — pengesahan itu adalah salah satu item yang luar biasa penting sebelum ini boleh diskor sebagai penyusunan semula tulen.
+Oleh sebab CHH dan sindrom Kallmann sudah termasuk dalam indikasi asal, ramalan ini lebih tepat dianggap pengesahan indikasi sedia ada berbanding penemuan indikasi baharu.
 
 ---
 
-## Bukti Percubaan Klinis
+## Bukti Ujian Klinikal
 
-| Nombor Percubaan | Fasa | Status | Bilangan Peserta | Penemuan Utama |
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT01454011](https://clinicaltrials.gov/study/NCT01454011) | Fasa 4 | Selesai | 140 | Membandingkan subkumpulan kolesterol HDL dalam pesakit CHH vs. kawalan sihat; menilai kesan penggantian testosterone pada pengagihan subkumpulan HDL |
-| [NCT02111434](https://clinicaltrials.gov/study/NCT02111434) | Fasa 4 | Selesai | 150 | Kesan rawatan testosterone pada indeks adipositi viseral dan nisbah trigliserida/HDL dalam CHH |
-| [NCT02111473](https://clinicaltrials.gov/study/NCT02111473) | Fasa 4 | Selesai | 49 | Kesan penggantian testosterone pada FGF-23, disfungsi endotel, dan metabolisme mineral tulang dalam CHH |
-| [NCT02171390](https://clinicaltrials.gov/study/NCT02171390) | Fasa 4 | Selesai | 130 | Disfungsi endotel, keradangan, dan rintangan insulin dalam CHH; membandingkan dua rejimen penggantian testosterone |
-| [NCT02880280](https://clinicaltrials.gov/study/NCT02880280) | Fasa 4 | Tidak Diketahui | 40 | hMG + hCG vs. hCG sahaja untuk keberkesanan terapeutik dalam budak remaja dengan CHH |
-| [NCT03687606](https://clinicaltrials.gov/study/NCT03687606) | Fasa 4 | Tidak Diketahui | 210 | Keberkesanan/keselamatan hCG jangka panjang vs. hCG+hMG dalam hipogonadisme hipogonadotropik terpencil (RCT terbuka) |
-| [NCT00064987](https://clinicaltrials.gov/study/NCT00064987) | Fasa 2 | Ditamatkan | 19 | Peranan FSH dalam pembangunan gonad dalam lelaki dengan IHH/sindrom Kallmann |
-| [NCT00392756](https://clinicaltrials.gov/study/NCT00392756) | Fasa 1 | Selesai | 624 | Corak nadi gonadotropin dalam pembalikan hipogonadisme hipogonadotropik (Kallmann/IHH) |
-| [NCT00623116](https://clinicaltrials.gov/study/NCT00623116) | N/A | Tidak Diketahui | 50 | Epidemiologi, ciri klinis dan genetik sindrom Kallmann di Finland |
-| [NCT01511588](https://clinicaltrials.gov/study/NCT01511588) | N/A | Selesai | 111 | Peranan nadi gonadotropin dalam pengawalseliaan pubertas dan kesuburan, termasuk subjek hipogonad |
+| [NCT02111434](https://clinicaltrials.gov/study/NCT02111434) | Fasa 4 | Selesai | 150 | Kesan rawatan testosteron terhadap indeks adipositi viseral dan nisbah trigliserida/HDL dalam CHH |
+| [NCT01454011](https://clinicaltrials.gov/study/NCT01454011) | Fasa 4 | Selesai | 140 | Subkumpulan kolesterol HDL dan kesan terapi testosteron pada pesakit CHH berbanding kawalan sihat |
+| [NCT02171390](https://clinicaltrials.gov/study/NCT02171390) | Fasa 4 | Selesai | 130 | Disfungsi endotelium, keradangan dan rintangan insulin serta kesan dua regimen testosteron |
+| [NCT02111473](https://clinicaltrials.gov/study/NCT02111473) | Fasa 4 | Selesai | 49 | Kesan penggantian testosteron terhadap FGF-23, ADMA dan vitamin D |
+| [NCT00623116](https://clinicaltrials.gov/study/NCT00623116) | Tiada (NA) | Tidak diketahui | 50 | Pencirian epidemiologi, klinikal dan genetik sindrom Kallmann di Finland |
+| [NCT03118479](https://clinicaltrials.gov/study/NCT03118479) | Fasa 1 | Ditamatkan | 7 | Kesan paras testosteron berbeza terhadap kepekaan insulin dalam lelaki dengan hipogonadisme hipogonadotropik idiopatik; sampel sangat kecil |
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [31147553](https://pubmed.ncbi.nlm.nih.gov/31147553/) | 2019 | Ulasan | Nature Reviews Disease Primers | Ulasan komprehensif hipogonadisme lelaki pediatrik dan mula dewasa, termasuk patofisiologi CHH dan pengurusan |
-| [35353710](https://pubmed.ncbi.nlm.nih.gov/35353710/) | 2022 | Panduan Amalan Klinis | European Journal of Endocrinology | Panduan Endo-ERN tentang induksi pubertal dan penggantian hormon seks dewasa untuk kekurangan hormon hipofisis/gonad kongenital |
-| [32445446](https://pubmed.ncbi.nlm.nih.gov/32445446/) | 2021 | Ulasan | Current Pharmaceutical Design | Ulasan rawatan gonadotropin untuk hipogonadisme hipogonadotropik lelaki; testosterone sebagai rawatan pilihan apabila kesuburan tidak diperlukan |
-| [38683021](https://pubmed.ncbi.nlm.nih.gov/38683021/) | 2024 | Ulasan | J Clin Res Pediatr Endocrinol | Perspektif semasa tentang pengurusan pubertas tertangguh, termasuk klasifikasi hipogonadisme hipogonadotropik |
-| [35674463](https://pubmed.ncbi.nlm.nih.gov/35674463/) | 2022 | Ulasan | Expert Opinion on Pharmacotherapy | Pertimbangan farmakologi untuk hipogonadisme hipogonadotropik lelaki kongenital |
-| [32748610](https://pubmed.ncbi.nlm.nih.gov/32748610/) | 2020 | Ulasan | Minerva Pediatrica | Ulasan diagnosis pubertas tertangguh dan pendekatan pengurusan |
-| [24815726](https://pubmed.ncbi.nlm.nih.gov/24815726/) | 2014 | Ulasan | Annales d'Endocrinologie | CHH dan sindrom Kallmann sebagai model untuk mengkaji pengawalseliaan hormonal fungsi endokrin testis |
-| [32010061](https://pubmed.ncbi.nlm.nih.gov/32010061/) | 2019 | Ulasan | Frontiers in Endocrinology | Ulasan hipogonadisme dan cryptorchidism, peranan androgen dalam penurunan testis |
-| [38437850](https://pubmed.ncbi.nlm.nih.gov/38437850/) | 2024 | Pemerhatian (rentas keratan, pelbagai pusat) | The Lancet Diabetes & Endocrinology | Kajian rentas keratan enam pusat rujukan antarabangsa mengenalpasti peramal/kelas pembalikan CHH |
-| [30851011](https://pubmed.ncbi.nlm.nih.gov/30851011/) | 2019 | Kajian Pemerhatian | Andrology | Penggantian testosterone dalam CHH mengekalkan ketumpatan tulang tetapi mempunyai kesan osteoanabolic yang terbatas |
+| [35353710](https://pubmed.ncbi.nlm.nih.gov/35353710/) | 2022 | Garis panduan/Ulasan | Eur J Endocrinol | Garis panduan Endo-ERN untuk induksi akil baligh dan peralihan kepada penggantian hormon seks dewasa dalam kekurangan hormon kongenital |
+| [31147553](https://pubmed.ncbi.nlm.nih.gov/31147553/) | 2019 | Ulasan | Nat Rev Dis Primers | Hipogonadisme lelaki peringkat pediatrik dan dewasa |
+| [38683021](https://pubmed.ncbi.nlm.nih.gov/38683021/) | 2024 | Ulasan | J Clin Res Pediatr Endocrinol | Perspektif semasa akil baligh lewat dan pengurusannya |
+| [32748610](https://pubmed.ncbi.nlm.nih.gov/32748610/) | 2020 | Ulasan | Minerva Pediatr | Akil baligh lewat: pendekatan diagnosis dan rawatan |
+| [38367592](https://pubmed.ncbi.nlm.nih.gov/38367592/) | 2024 | Ulasan | Reprod Biomed Online | Kriteria APHRODITE untuk hipogonadisme dan/atau ketidaksuburan lelaki |
+| [41880614](https://pubmed.ncbi.nlm.nih.gov/41880614/) | 2026 | Ulasan | N Engl J Med | Implikasi klinikal mini-akil baligh |
+| [23503957](https://pubmed.ncbi.nlm.nih.gov/23503957/) | 2013 | Ulasan | Clinics (Sao Paulo) | Tinjauan semula hipogonadisme hipogonadotropik (Kallmann dan idiopatik) |
+| [36279006](https://pubmed.ncbi.nlm.nih.gov/36279006/) | 2022 | Ulasan | Urologie | Rawatan testosteron: sediaan, selang pengambilan dan garis panduan |
+| [26683738](https://pubmed.ncbi.nlm.nih.gov/26683738/) | 2016 | Ulasan | Endocr Dev | Pelbagai ubat untuk hipogonadisme hipogonadotropik dan akil baligh lewat |
+| [33850776](https://pubmed.ncbi.nlm.nih.gov/33850776/) | 2021 | Ulasan | Transl Androl Urol | Genetik hipogonadisme hipogonadotropik; lebih 30 gen terlibat |
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Status pasaran Malaysia (NPRA) disahkan sebagai **sudah dipasarkan** dengan **4 rekod lesen total**. Bagaimanapun, tiada satu pun bidang lesen individu (nombor lesen, nama produk, bentuk dos, pengilang, teks indikasi yang diluluskan) telah diisi dalam pakej bukti ini — semua 4 entri mengembalikan rentetan kosong. Ini adalah jurang kelengkapan data dalam ekstrak NPRA, bukan bukti bahawa lisensi tidak mempunyai maklumat ini; rekod lesen asas harus dikembalikan/dianalisis semula sebelum bahagian ini dapat diselesaikan.
+Berdasarkan data yang dikumpulkan, tiada lesen produk testosteron yang berdaftar atau aktif di Malaysia (0 pendaftaran). Status pasaran: tidak dipasarkan.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan paket untuk maklumat keselamatan.
+- **Kontraindikasi berdasarkan graf pengetahuan (bukan teks label produk)**: Graf pengetahuan menyenaraikan beberapa keadaan yang berkaitan dengan kontraindikasi, termasuk hipertensi, epilepsi, penyakit buah pinggang, penyakit hati, kegagalan jantung kongestif, hiperkalsemia, hipotiroidisme, lupus eritematosus sistemik, asma, diabetes mellitus, hiperplasia prostat benigna, hipertrigliseridemia, ginekomastia, karsinoma payudara wanita, tromboflebitis dan leiomioma uterus. Senarai ini perlu disahkan dengan sisipan pakej rasmi.
+- **Interaksi Ubat**: Sebanyak 100 interaksi dikesan; yang dipaparkan kebanyakannya bertahap sederhana (Moderate), termasuk:
+  - Kortikosteroid: hidrokortison, betametason, budesonid, deksametason
+  - Ubat antidiabetes: asetoheksamid, klorpropamid, glimepirid, glipizid, gliburid
+  - Pelbagai jenis insulin (manusia, aspart, degludec, detemir, glargine, glulisine, isofan)
+  - Aprepitant dan kalsitriol (topikal)
 
-**Nota:** Pakej bukti ini menandakan amaran TFDA/NPRA dan data kontraindikasi sebagai jurang data **Menyekat** (DG001) — ketiadaannya menghalang calon ini daripada memasuki peringkat penilaian keselamatan awal S1. Tiada rekod interaksi ubat yang ditemui (`ddi.query_status: not_found`, 0 interaksi dikembalikan), yang tidak boleh dibaca sebagai "tiada interaksi wujud," hanya tiada yang diambil oleh pertanyaan ini.
+  Ini menunjukkan keperluan memantau paras glukosa darah pada pesakit diabetes dan pemantauan apabila digunakan bersama kortikosteroid.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Proceed with Guardrails (Teruskan dengan Langkah Berjaga-jaga)**
 
 **Rasional:**
-Indikasi yang diramalkan (CHH) adalah munasabah secara mekanis hampir mengikut takrifan — testosterone adalah hormon yang kekurangan dalam keadaan ini — tetapi pakej bukti asas mempunyai jurang data keselamatan **Menyekat** (amaran TFDA/NPRA dan kontraindikasi, DG001) yang menghalang sebarang penapisan keselamatan awal, dan skor TxGNN anomali 0.00% yang menjejaskan keyakinan dalam kedudukan itu sendiri. Sehingga ini diselesaikan, ini tidak dapat dimajukan melepasi Tahan tanpa mengira jumlah percubaan klinis/kesusasteraan.
+- Testosteron ialah terapi penggantian yang mantap untuk hipogonadisme hipogonadotropik kongenital, disokong oleh beberapa ujian Fasa 4 yang selesai (n=49–150) dan garis panduan klinikal. Walau bagaimanapun, ujian tersebut kebanyakannya menilai hasil metabolik dan kardiometabolik, bukan keberkesanan utama, dan indikasi ini sudah termasuk dalam indikasi asal. Skor TxGNN yang tercatat ialah 0.0, jadi tahap bukti L1 dalam data tidak sepenuhnya disokong oleh ujian Fasa 3 yang khusus untuk CHH dan perlu disemak semula.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Amaran TFDA/NPRA dan data kontraindikasi sisipan paket (jurang menyekat DG001)
-- Data mekanisme tindakan DrugBank (jurang keutamaan tinggi DG002)
-- Butiran rekod lesen NPRA yang lengkap (nombor lesen, nama produk, bentuk dos, teks indikasi yang diluluskan) untuk 4 pendaftaran sedia ada
-- Pengesahan saluran pemarkahan TxGNN — semua 5 ramalan berkedudukan menunjukkan skor identik 0.0, yang memerlukan penjelasan sebelum digunakan dalam pembuatan keputusan
-- Pengesahan indikasi berlabel Testosterone semasa di Malaysia, untuk menentukan sama ada CHH sudah dilindungi oleh label sedia ada daripada calon penyusunan semula yang sebenar
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisipan pakej NPRA (amaran dan kontraindikasi) bagi menyelesaikan jurang data keselamatan yang menyekat
+- Data mekanisme tindakan terperinci (MOA) daripada DrugBank
+- Pengesahan skor ramalan TxGNN yang sebenar
+- Pelan pemantauan: hematokrit, PSA/prostat, lipid, glukosa darah, kesihatan tulang dan risiko kardiovaskular
+- Pertimbangan sediaan dan laluan pemberian, memandangkan tiada produk berdaftar di Malaysia
+- Perancangan terapi gonadotropin/GnRH berasingan jika kesuburan diperlukan
 
+---
+
+## Lampiran: Ramalan Indikasi Lain
+
+| Indikasi | Tahap Bukti | Keputusan | Ringkasan |
+|------|------|------|------|
+| Eunuchisme (kekurangan androgen lelaki) | L1 | Proceed with Guardrails | Terdapat banyak ujian Fasa 3 (cth. [NCT01403116](https://clinicaltrials.gov/study/NCT01403116), n=325, testosteron undekanoat oral). Pantau hematokrit, prostat, risiko kardiovaskular dan ketumpatan tulang; elakkan pada kanser prostat atau payudara. |
+| Kekurangan pituitari | L2 | Proceed with Guardrails | Bukti kecil: Fasa 4 pada wanita ([NCT00144391](https://clinicaltrials.gov/study/NCT00144391), n=20) dan Fasa 2 testosteron + hormon pertumbuhan ([NCT00080483](https://clinicaltrials.gov/study/NCT00080483), n=35). Dos mengikut jantina diperlukan. |
+| Sindrom hipogonadisme hipogonadotropik-alopesia frontoparietal | L4 | Research Question | Tiada ujian klinikal; literatur terdiri daripada laporan kes dan ulasan umum. Kesan terhadap alopesia tidak terbukti. |
+| Trisomi 13 | L5 | Hold | Tiada hubungan mekanistik yang kredibel dan tiada ujian klinikal; kemungkinan artifak model ramalan. |
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

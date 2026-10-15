@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Mesalazine
-parent: High Evidence (L1-L2)
-nav_order: 475
-evidence_level: L2
+parent: Low Evidence (L4-L5)
+nav_order: 496
+evidence_level: L5
 indication_count: 7
 ---
 
 # Mesalazine
 {: .fs-9 }
 
-Tahap bukti: **L2** | Indikasi diramal: **7** 
+Tahap bukti: **L5** | Indikasi diramal: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,80 +29,93 @@ Tahap bukti: **L2** | Indikasi diramal: **7**
 
 </div>
 
-# Mesalazine: Daripada Kolitis Ulseratif kepada Artritis Reumatoid
-
-> **Nota tentang pemilihan calon**: Calon puncak TxGNN mengikut skor mentah (*congenital hypotrichosis with juvenile macular dystrophy*, 99.65%) mempunyai sifar ujian sokongan atau kesusasteraan dan secara terang-terangan ditandai dalam pakej bukti sebagai kemungkinan artifak graf-pengetahuan — seperti juga 3 calon L5 lain (seborrheic keratosis, osteoarthritis susceptibility, vulvar inverted follicular keratosis, pseudoachondroplasia). Laporan ini sebaliknya menilai **Artritis Reumatoid**, calon dengan bukti sebenar paling kuat (6 ujian, 20 penerbitan). **Osteoarthritis** (kedudukan 2, L4) juga disokong bukti melalui kajian mekanik 2024 dan bernilai untuk dijejaki, tetapi mempunyai sifar ujian klinikal.
+# Mesalazine: Daripada Kolitis Ulseratif kepada Osteoartritis
 
 ## Ringkasan Satu Ayat
 
-Mesalazine (5-aminosalicylic acid) adalah metabolit aktif sulfasalazine dan ditegakkan untuk penyakit radang usus halus. TxGNN dan kesusasteraan mencadangkan kaitan kepada **Artritis Reumatoid**, kerana sulfasalazine — yang dipecahkan kepada mesalazine dan sulfapyridine — adalah DMARD yang sudah lama ditegakkan untuk RA. Walau bagaimanapun, kajian farmakologi yang lebih lama mengaitkan kesan RA terutamanya kepada moieti sulfapyridine, bukan mesalazine sendiri, jadi kes bergantung pada bukti tidak langsung (sebatian induk) dengan **6 ujian klinikal** (hanya 2 berkaitan secara langsung, kedua-duanya ditamatkan) dan **20 penerbitan**.
+Mesalazine (asid 5-aminosalisilik, 5-ASA) pada asalnya digunakan untuk merawat kolitis ulseratif dan penyakit radang usus (IBD).
+Model TxGNN meramalkan ia mungkin berkesan untuk **osteoartritis**,
+tetapi pada masa ini **tiada percubaan klinikal** dan hanya **1 penerbitan** (kajian komputasi) menyokong arah ini, jadi bukti masih pada tahap ramalan model.
 
-## Tinjauan Pantas
+---
+
+## Gambaran Ringkas
 
 | Item | Kandungan |
-|------|---------|
-| Petunjukan Asal | Kolitis ulseratif (disimpulkan daripada bukti kesusasteraan; teks petunjukan yang diluluskan NPRA secara formal adalah jurang data — lihat di bawah) |
-| Petunjukan Baharu yang Diramalkan | Artritis Reumatoid |
-| Skor Ramalan TxGNN | 99.57% |
-| Tahap Bukti | L2 |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 16 |
-| Keputusan yang Disyorkan | Tahan |
+|------|------|
+| Indikasi Asal | Kolitis ulseratif, penyakit radang usus, proktosigmoiditis ulseratif |
+| Indikasi Baharu yang Diramalkan | Osteoartritis (ramalan peringkat 2 dalam senarai; ramalan peringkat 1, hipotrikosis kongenital dengan distrofi makula juvenil, tidak mempunyai sebarang bukti sokongan dan dianggap artefak graf pengetahuan) |
+| Skor Ramalan TxGNN | 99.63% |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan terperinci untuk mesalazine tidak tersedia (jurang data). Berdasarkan farmakologi yang diketahui, mesalazine adalah produk pemisahan 5-ASA sulfasalazine (sulfasalazine → sulfapyridine + 5-ASA/mesalazine melalui azoreductase bakteria kolon). Sulfasalazine telah digunakan sebagai DMARD baris kedua untuk RA sejak tahun 1940-an, dengan mekanisme yang dicadangkan termasuk perencatan NF-κB, pengaktifan PPARγ, dan penindasan pelepasan prostaglandin/leukotriene dan sitokin radang (IL-1β, TNF-α) dalam tisu sinovial.
+Data terperinci mengenai mekanisme tindakan belum tersedia dalam data yang dihimpunkan untuk laporan ini. Berdasarkan maklumat sedia ada, mesalazine ialah ubat anti-radang yang keberkesanannya dalam kolitis ulseratif telah terbukti. Secara mekanistik, kesan anti-radangnya (perencatan COX/LOX, pengaktifan PPAR-gamma, modulasi NF-kB) mungkin berkaitan dengan osteoartritis.
 
-Ketidakpastian utama ialah **komponen mana yang mendorong kesan RA**. Pelbagai kajian berpasangan-kepala daripada tahun 1980-an–1990-an (PMID 2860942, 2877851, 8535642) secara langsung membandingkan sulfapyridine vs. 5-ASA/mesalazine dalam pesakit RA dan mendapati sulfapyridine menjadi moieti antirheumatic yang lebih aktif, dengan mesalazine sahaja menunjukkan hanya kesan lemah. Ini bermaksud pengalaman klinikal RA yang pukal adalah dengan sulfasalazine (molekul gabungan), bukan mesalazine dalam isolasi — pautan mekanik adalah munasabah tetapi tidak disahkan untuk mesalazine secara spesifik.
+Radang sinovium peringkat rendah dan isyarat NF-kB menyumbang kepada osteoartritis, jadi sifat anti-radang mesalazine memberikan rasional teori yang **lemah**. Satu-satunya penerbitan (PMID 38491514, 2024) ialah analisis bioinformatik yang menggabungkan set data transkripsi untuk mengenal pasti sasaran terapeutik. Ia sumber peringkat ramalan, bukan bukti klinikal.
 
-Sebaliknya, calon osteoarthritis (kedudukan 2, bukan fokus laporan ini) mempunyai sokongan lebih langsung: kajian 2024 *Nature Communications* mengenal pasti mekanisme OSCAR-PPARγ yang mana 5-ASA sendiri (bukan sulfasalazine) menindas radang yang merosotkan tulang rawan, menjadikannya mekanik lebih bersih daripada dua hipotesis tersebut, walaupun tidak mempunyai ujian klinikal lagi.
+Sebagai perbandingan, bagi **artritis reumatoid** (peringkat 3, skor 99.57%, tahap bukti L4), mesalazine ialah bahagian aktif sulfasalazine, iaitu DMARD yang mantap. Namun, kesan antireumatik sulfasalazine umumnya dikaitkan terutamanya dengan komponen sulfapiridin, bukan 5-ASA, jadi rasional untuk mesalazine sendiri adalah lemah. Beberapa laporan kes juga menggambarkan kejadian buruk (DRESS, kolitis akibat 5-ASA pada pesakit RA), yang menimbulkan persoalan keselamatan dan bukan menyokong keberkesanan.
 
-## Bukti Ujian Klinikal
+Ramalan lain (seborrheic keratosis, osteoartritis susceptibility, vulvar inverted follicular keratosis, pseudoachondroplasia, dan hipotrikosis kongenital) tidak mempunyai hubungan mekanistik yang munasabah dan tiada bukti klinikal atau literatur.
 
-| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT02930343](https://clinicaltrials.gov/study/NCT02930343) | Fasa 3 | Ditamatkan | 136 | Sulfasalazine vs. terapi DMARD kombinasi berasaskan leflunomide dalam pesakit RA yang gagal terapi monoterapi methotrexate — ujian paling berkaitan secara langsung, tetapi ditamatkan lebih awal |
-| [NCT00637780](https://clinicaltrials.gov/study/NCT00637780) | Fasa 4 | Ditamatkan | 2 | Farmakokinetik keadaan mantap tablet sulfasalazine pelepasan tertangguh dalam artritis idiopatik juvenil pediatrik; ditamatkan dengan n=2, bukan ujian keberkesanan rawatan |
+---
 
-4 ujian tambahan yang dikembalikan oleh carian kata kunci (NCT05580861, NCT03591770, NCT00514982, NCT06201793) dikecualikan — mereka melibatkan terapi induksi AML, imunogenisiti vaksin berkaitan UC, kolitis Hermansky-Pudlak, dan minocycline untuk UC masing-masing, bukan satu pun yang berkaitan dengan mesalazine dalam RA.
+## Bukti Percubaan Klinikal
 
-## Bukti Kesusasteraan
+Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+---
+
+## Bukti Literatur
+
+Bagi osteoartritis (indikasi diramalkan utama dalam laporan ini):
+
+| PMID | Tahun | Jenis | Jurnal | Dapatan Utama |
 |------|-----|------|------|---------|
-| [2860942](https://pubmed.ncbi.nlm.nih.gov/2860942/) | 1985 | Tinjauan/Mekanik | BMJ (Clin Res Ed) | Sulphapyridine, bukan 5-ASA, menunjukkan kesan antirheumatic baris kedua yang jelas dalam RA; 5-ASA hanya kesan lemah baris pertama |
-| [2877851](https://pubmed.ncbi.nlm.nih.gov/2877851/) | 1986 | — | Drugs | Kajian terbuka: sulphasalazine menambah baik aktiviti penyakit RA; 5-ASA sahaja tidak |
-| [8535642](https://pubmed.ncbi.nlm.nih.gov/8535642/) | 1995 | — | Br J Rheumatol | Bukti lebih menyukai sulphapyridine daripada 5-ASA sebagai moieti RA aktif sulphasalazine |
-| [7588084](https://pubmed.ncbi.nlm.nih.gov/7588084/) | 1995 | Tinjauan | Drugs | Tinjauan komprehensif farmakologi sulfasalazine dan keberkesanan sebagai DMARD dalam RA |
-| [10743803](https://pubmed.ncbi.nlm.nih.gov/10743803/) | 2000 | — | J Rheumatol | Sulfasalazine dan metabolit-metabolitnya (termasuk 5-ASA) mengurangkan sitokin radang dan mRNA MMP dalam fibroblas sinovial RA |
-| [2899645](https://pubmed.ncbi.nlm.nih.gov/2899645/) | 1988 | Kohort | J Rheumatol | Sulfasalazine menormalkan fungsi limfosit yang tidak normal dalam pesakit RA selepas 12 minggu |
-| [12235076](https://pubmed.ncbi.nlm.nih.gov/12235076/) | 2002 | Pengawasan Farmakovigilans | Gut | Penilaian semula reaksi buruk serius terhadap sulphasalazine dan mesalazine |
-| [41443863](https://pubmed.ncbi.nlm.nih.gov/41443863/) | 2025 | — | Intern Med (Tokyo) | Laporan kes: kolitis teraruh 5-ASA dalam pesakit RA pada sulfasalazine/mesalazine — isyarat keselamatan yang relevan dengan penggunaan semula |
-| [7904547](https://pubmed.ncbi.nlm.nih.gov/7904547/) | 1993 | Tinjauan | Clin Pharmacokinet | Farmakokinetik ubat antirheumatic yang bertindak lambat termasuk sulphasalazine |
-| [17708602](https://pubmed.ncbi.nlm.nih.gov/17708602/) | 2007 | Tinjauan | World J Gastroenterol | Nota terapi 5-ASA pada asalnya dirancang untuk merawat RA sebelum penemuan penggunaannya untuk UC |
+| [38491514](https://pubmed.ncbi.nlm.nih.gov/38491514/) | 2024 | Analisis komputasi/bioinformatik | Journal of Translational Medicine | Mengenal pasti sasaran terapeutik osteoartritis dengan menggabungkan data transkripsi, profil ekspresi aruhan ubat dan interaksi ubat-sasaran. Bukan bukti klinikal. |
 
-## Maklumat Pasaran Malaysia
+Sebagai rujukan sampingan, bagi artritis reumatoid (peringkat 3), literatur yang diperoleh kebanyakannya tidak langsung:
 
-16 produk telah didaftarkan dengan NPRA (status pasaran: Dipasarkan), tetapi pakej bukti tidak mengandungi perincian peringkat produk — nombor lesen, nama produk, bentuk dos, dan teks petunjukan yang diluluskan semuanya kosong dalam set data semasa (jurang data). Maklumat ini perlu diambil terus daripada NPRA sebelum penilaian selanjutnya.
+| PMID | Tahun | Jenis | Jurnal | Dapatan Utama |
+|------|-----|------|------|---------|
+| [7588084](https://pubmed.ncbi.nlm.nih.gov/7588084/) | 1995 | Ulasan (sulfasalazine, bukti tidak langsung) | Drugs | Sulfasalazine ialah DMARD yang mantap untuk RA; sama ada molekul induk atau sulfapiridin, atau kedua-duanya, ialah bahan aktif masih tidak pasti. |
+| [12235076](https://pubmed.ncbi.nlm.nih.gov/12235076/) | 2002 | Ulasan farmakovigilans | Gut | Menilai semula reaksi buruk serius sulfasalazine dan mesalazine berdasarkan laporan kepada Jawatankuasa Keselamatan Ubat. |
+| [41443863](https://pubmed.ncbi.nlm.nih.gov/41443863/) | 2026 | Laporan kes | Internal Medicine | Kolitis akibat 5-ASA pada pesakit RA tanpa IBD. |
+| [31830393](https://pubmed.ncbi.nlm.nih.gov/31830393/) | 2019 | Laporan kes | Giornale Italiano di Nefrologia | Kegagalan renal akut akibat sindrom DRESS selepas salazopyrin dan mesalazine pada pesakit RA. |
+| [36855206](https://pubmed.ncbi.nlm.nih.gov/36855206/) | 2023 | Laporan kes (tofacitinib, bukan mesalazine) | Journal of Medical Case Reports | Tofacitinib berkesan dalam artritis berkaitan IBD pada dua pesakit. |
 
-## Pertimbangan Keselamatan
+Tiada percubaan mesalazine untuk RA ditemui.
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan. Data amaran utama, kontraindikasi, dan interaksi ubat tidak tersedia dalam pakej bukti ini (ditandai sebagai **Menghalang** dalam log jurang data — DG001), yang menghalang kemajuan kepada peringkat penilaian awal keselamatan (S1) tanpa mengira bukti keberkesanan.
+---
+
+## Keselamatan
+
+- **Penyakit/keadaan yang dikaitkan sebagai kontraindikasi dalam graf pengetahuan** (bukan teks label): penyakit buah pinggang, piouretur, penyakit hati, penyakit pundi hempedu, neutropenia, agranulositosis, anemia, anemia makrositik, stenosis pilorus, nefrosis lipoid, nefritis interstisial.
+- **Interaksi ubat**: pertanyaan selesai dengan 100 interaksi dikesan. Yang bertahap **Major** termasuk **cidofovir** dan **imunoglobulin neurotoksin botulinum A/B manusia**. Kebanyakan yang lain bertahap Moderate, antaranya NSAID (ketorolac, ibuprofen, celecoxib, bromfenac), ubat nefrotoksik (amfoterisin B, amikacin, asiklovir, bacitracin, capreomycin, cisplatin), azathioprine, ubat antidiabetik sulfonilurea (acetohexamide, chlorpropamide) dan antikoagulan (anisindione). Kebanyakannya berkaitan risiko nefrotoksisiti.
+- **Isyarat keselamatan daripada literatur**: laporan kes DRESS dan kolitis akibat 5-ASA, yang relevan jika dipertimbangkan untuk pesakit artritis.
+
+Sila rujuk sisipan pek untuk maklumat amaran dan kontraindikasi rasmi.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
-**Alasan:**
-Hipotesis RA adalah munasabah secara mekanik melalui preseden DMARD sulfasalazine, tetapi pelbagai kajian farmakologi berpasangan-kepala mencadangkan sumbangan mesalazine kepada kesan itu adalah lemah berbanding sulfapyridine, dan satu-satunya ujian Fasa 3 yang berkaitan secara langsung (NCT02930343) ditamatkan. Digabungkan dengan jurang data keselamatan yang menghalang (tiada amaran TFDA/NPRA atau kontraindikasi dalam fail), bukti itu belum menyokong untuk meneruskan.
+**Justifikasi:**
+- Semua indikasi yang diramalkan berada pada tahap bukti L4 hingga L5, tanpa percubaan klinikal. Skor TxGNN yang tinggi (lebih 99%) tidak disokong oleh bukti klinikal, dan beberapa ramalan (contohnya hipotrikosis kongenital, pseudoachondroplasia) kelihatan sebagai artefak graf pengetahuan. Mesalazine juga tidak berdaftar di Malaysia.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Sisipan pakej NPRA (amaran, kontraindikasi) — semasa menghalang (DG001)
-- Data mekanisme tindakan yang disahkan untuk mesalazine secara spesifik (DG002)
-- Penjelasan tentang atribusi moieti aktif (mesalazine vs. sulfapyridine) untuk kesan RA
-- Perincian pendaftaran peringkat produk NPRA (nombor lesen, bentuk dos, teks petunjukan yang diluluskan)
-- Pertimbangkan penjejakan selari calon osteoarthritis (kedudukan 2), yang mempunyai kajian mekanik lebih langsung 2024 untuk 5-ASA sendiri, walaupun kekurangan ujian klinikal
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Mendapatkan sisipan pek NPRA serta amaran dan kontraindikasi rasmi (jurang data yang menyekat saringan keselamatan).
+- Melengkapkan data mekanisme tindakan (MOA) daripada DrugBank.
+- Kajian praklinikal atau percubaan fasa awal mesalazine untuk osteoartritis atau RA, termasuk penilaian sumbangan 5-ASA berbanding sulfapiridin.
+- Menilai laluan pentadbiran dan status pendaftaran di Malaysia, memandangkan tiada produk berdaftar.
+- Pelan pemantauan keselamatan buah pinggang, hati dan hematologi, serta semakan interaksi dengan NSAID dan ubat nefrotoksik.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

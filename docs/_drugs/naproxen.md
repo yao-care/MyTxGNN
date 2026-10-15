@@ -2,7 +2,7 @@
 layout: default
 title: Naproxen
 parent: Low Evidence (L4-L5)
-nav_order: 496
+nav_order: 519
 evidence_level: L5
 indication_count: 5
 ---
@@ -29,41 +29,46 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Naproxen: Dari Kesakitan dan Keradangan (NSAID) kepada Spondilo-Artropati, Kerentanan Kepada
+# Naproxen: Daripada Bursitis dan Artritis kepada Spondiloartropati (Kerentanan)
 
 ## Ringkasan Satu Ayat
 
-Naproxen ialah ubat anti-inflamasi bukan steroid (NSAID), yang digunakan pada mulanya untuk menghilangkan kesakitan, keradangan dan demam dalam keadaan seperti artritis dan kecederaan muskuloskeletal. Ramalan tertinggi model TxGNN untuk ubat ini ialah **Spondilo-Artropati, kerentanan kepada**, namun ramalan khusus ini mempunyai **skor model 0.00%** dan pada masa ini disokong oleh **0 uji klinikal** dan **0 publikasi** — ia harus diperlakukan sebagai isyarat penapisan yang belum disahkan sahaja.
+Naproxen ialah ubat antiradang bukan steroid (NSAID) yang digunakan untuk keradangan sendi dan otot, sakit kepala serta migrain.
+Model TxGNN meramalkan ia mungkin berkesan untuk **spondiloartropati (kerentanan genetik)**, tetapi skor ramalan ialah **0.00%** dan **tiada ujian klinikal atau penerbitan** yang menyokong istilah ini.
+Entri ini lebih tepat difahami sebagai label ontologi kerentanan genetik yang bertindih dengan indikasi sedia ada (spondilitis ankilosis), dan bukan isyarat penggunaan semula ubat yang baharu.
 
 ---
 
-## Gambaran Pantas
+## Gambaran Ringkas
 
-| Item | Kandungan |
-|------|----------|
-| Indikasi Asal | Kesakitan, keradangan dan demam (kelas NSAID); perkataan indikasi yang diluluskan NPRA yang tepat ialah jurang data dalam pakej ini |
-| Indikasi Baru yang Diramalkan | Spondilo-Artropati, kerentanan kepada |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Bursitis, artritis reumatoid, spondilitis ankilosis, tendinitis, gout, migrain, osteoartritis, dan lain-lain (daripada graf pengetahuan TxGNN; tiada teks indikasi berlesen tersedia) |
+| Indikasi Baharu yang Diramal | Spondiloartropati, kerentanan terhadap (*spondyloarthropathy, susceptibility to*) |
 | Skor Ramalan TxGNN | 0.00% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 17 |
-| Keputusan yang Disyorkan | Tunggu |
+| Status Pasaran di Malaysia | Tidak dipasarkan (mengikut data yang dikumpulkan) |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci untuk naproxen tidak tersedia dalam pakej bukti ini (jurang data). Berdasarkan farmakologi yang diketahui, naproxen ialah NSAID terbitan asid propionik yang secara tidak selektif menghalang COX-1/COX-2, mengurangkan keradangan dan kesakitan yang dimediasi prostaglandin — ini ialah mekanisme yang terkenal, diluluskan untuk kesakitan muskuloskeletal dan keradangan.
+Butiran mekanisme tindakan tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Secara umum, naproxen ialah perencat siklooksigenase (COX) tidak selektif yang mengurangkan sintesis prostaglandin, lalu mengurangkan keradangan, kesakitan dan demam. Spondilitis ankilosis, iaitu penyakit berkaitan spondiloartropati, sudah pun tersenarai antara indikasi asal naproxen.
 
-NSAID sebagai satu kelas memang mempunyai peranan yang diiktiraf dalam menguruskan spondilo-artropati (cth., spondilitis ankilosa), di mana ia digunakan sebagai terapi simptomatik lini pertama. Ini memberikan rasional teoretikal yang munasabah untuk persatuan TxGNN antara naproxen dan kerentanan spondilo-artropati.
+Oleh itu, entri "kerentanan spondiloartropati" ialah label ontologi genetik dan bukan indikasi klinikal yang baharu. Hubungan mekanisme dengan naproxen hanya berlaku melalui penyakit keradangan sendi yang sedia ada. Tiada data yang dibekalkan untuk menilai tahap bukti bagi istilah ini secara berasingan.
 
-Walau bagaimanapun, calon tertentu ini ialah **ramalan graf pengetahuan tulen dengan skor 0.0** dan tiada bukti uji klinikal atau literatur yang menyokong telah diambil untuknya. Ia harus dianggap sebagai pukulan penapisan awal sahaja, bukan isyarat pengubahsuaian tujuan yang ditegakkan — ketara lebih lemah daripada beberapa calon lain yang dibuahkan untuk naproxen dalam pakej bukti yang sama (lihat nota pada akhir laporan ini).
+Calon ramalan lain dalam data yang sama juga ialah indikasi sedia ada atau bukti tidak langsung:
+- **Migrain**: bukti kuat (L1), tetapi migrain sudah menjadi indikasi asal. Kebanyakan ujian Fasa 3 mungkin menguji gabungan sumatriptan/naproxen, jadi sumbangan naproxen sahaja belum tentu dapat diasingkan.
+- **Osteoartritis**: bukti kuat (L1), termasuk ujian keselamatan kardiovaskular PRECISION (n=24,081), dan juga sudah menjadi indikasi asal.
+- **Miositis**: bukti tidak langsung sahaja (L4), tanpa ujian klinikal.
 
 ---
 
-## Bukti Uji Klinikal
+## Bukti Ujian Klinikal
 
-Pada masa ini tiada uji klinikal berkaitan yang berdaftar.
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ---
 
@@ -75,31 +80,40 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk risalah pakej untuk maklumat keselamatan.
+**Kontraindikasi daripada graf pengetahuan** (bukan teks label produk; perlu disahkan dengan sisipan pakej):
+- **Kardiovaskular dan serebrovaskular**: hipertensi, kegagalan jantung kongestif, penyakit arteri koronari, aterosklerosis koronari, infarksi miokardium, trombosis koronari, strok, infarksi serebrum, gangguan serebrovaskular
+- **Hati dan hempedu**: kegagalan hati, penyakit hati, penyakit pundi hempedu
+- **Buah pinggang dan saluran kencing**: penyakit buah pinggang, piouretra
+- **Metabolik dan endokrin**: diabetes mellitus, ketoasidosis diabetes, obesiti (termasuk obesiti monogenik), osteoporosis (termasuk selepas menopaus)
+- **Darah**: gangguan pembekuan darah, hemoglobinopati, anemia (termasuk anemia makrositik)
+- **Lain-lain**: epilepsi, hiperplasia prostat jinak, penyalahgunaan/kebergantungan bahan
+
+**Interaksi Ubat**: Sebanyak 100 interaksi direkodkan. Antara yang tersenarai, semuanya bertahap **sederhana**:
+- Penahan asid dan perencat pam proton: famotidin, ranitidin, simetidin, rabeprazol, deksansoprazol
+- Kortikosteroid: hidrokortison, deksametason, betametason, budesonid, triamsinolon
+- Antidiabetik: metformin, klorpropamid
+- NSAID/anti-radang usus: asid asetilsalisilik, mesalazin, balsalazid
+- Lain-lain: aprepitan, kalium sitrat, kalium bikarbonat, asid pikosulfurik, polietilena glikol (3350 dengan elektrolit)
+
+Amaran utama dan kontraindikasi rasmi daripada sisipan pakej tidak dapat dikumpulkan. Sila rujuk sisipan pakej produk untuk maklumat keselamatan yang lengkap.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tunggu**
+**Keputusan: Hold**
 
-**Rasional:**
-Skor ramalan TxGNN untuk indikasi ini ialah 0.00%, dan tiada uji klinikal atau literatur disemak rakan sejawat pada masa ini yang menghubungkan naproxen kepada kerentanan spondilo-artropati secara khusus. Bukti tidak mencukupi untuk memajukan calon ini melangkaui penapisan awal (S0).
+**Justifikasi:**
+- Skor TxGNN ialah 0.00% dan tiada ujian klinikal mahupun literatur untuk istilah ini (tahap bukti L5).
+- Entri ini ialah label kerentanan genetik yang bertindih dengan indikasi sedia ada (spondilitis ankilosis), jadi ia bukan isyarat penggunaan semula ubat yang sebenar.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Bukti uji klinikal atau literatur yang secara langsung menghubungkan naproxen kepada spondilo-artropati/spondilo-artritis
-- Perkataan indikasi yang diluluskan NPRA yang disahkan (data peringkat lesen pada masa ini kosong dalam pakej ini)
-- Data mekanisme tindakan dari DrugBank (DG002, Keterukan Tinggi)
-- Amaran risalah pakej TFDA/NPRA dan kontraindikasi (DG001, Keterukan Penyekatan — diperlukan sebelum sebarang penilaian keselamatan S1)
-
----
-
-**Nota tentang calon-calon lain dalam pakej bukti ini:** Pakej ini mengandungi empat ramalan pengubahsuaian tujuan naproxen tambahan dengan bukti yang jauh lebih kuat daripada yang di atas, dan mungkin patut dinilai secara berasingan:
-- **Gangguan migrain** (L1, S3, *Teruskan dengan Pengawal*) — 50 uji klinikal dan 20 publikasi, termasuk pelbagai RCT Fasa 3 yang selesai menyokong kombinasi sumatriptan/naproxen yang diluluskan FDA (Treximet).
-- **Osteoartritis** (L1, S3, *Teruskan dengan Pengawal*) — 50 uji klinikal dan 20 publikasi; naproxen sudah merupakan terapi NSAID yang ditegakkan untuk OA.
-- **Migrain dengan atau tanpa aura, kerentanan kepada** (L2, S3, *Teruskan dengan Pengawal*) — 20 publikasi yang menyokong, mekanisme bertindih dengan penemuan gangguan migrain di atas.
-- **Miosititis** (L4, S1, *Tunggu*) — 8 publikasi, kebanyakannya laporan kes dengan kekaitan terbatas kepada miosititis autoimun.
-
+- Mengesahkan status pasaran sebenar naproxen di Malaysia dengan NPRA, kerana status "tidak dipasarkan" dan 0 pendaftaran mungkin tidak tepat. Naproxen dikenali mempunyai produk di pasaran.
+- Memuat turun dan menghuraikan sisipan pakej NPRA untuk amaran dan kontraindikasi rasmi (jurang data yang menyekat saringan keselamatan).
+- Melengkapkan data mekanisme tindakan (MOA) daripada DrugBank.
+- Menggabungkan entri ini dengan "spondilitis ankilosis" untuk mengelakkan pengiraan bukti berganda, atau menumpukan penilaian pada calon dengan data yang lebih lengkap.
+- Mengesahkan sama ada ujian migrain menguji naproxen secara berasingan atau hanya gabungan sumatriptan/naproxen.
+- Merangka pelan pemantauan keselamatan GI, kardiovaskular dan buah pinggang untuk populasi berisiko.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

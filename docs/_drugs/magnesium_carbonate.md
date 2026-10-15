@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Magnesium Carbonate
-parent: High Evidence (L1-L2)
-nav_order: 460
-evidence_level: L2
+parent: Low Evidence (L4-L5)
+nav_order: 481
+evidence_level: L4
 indication_count: 10
 ---
 
 # Magnesium Carbonate
 {: .fs-9 }
 
-Tahap bukti: **L2** | Indikasi diramal: **10** 
+Tahap bukti: **L4** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,83 +29,97 @@ Tahap bukti: **L2** | Indikasi diramal: **10**
 
 </div>
 
-# Magnesium Carbonate: Dari Penggunaan Antasida hingga Penyakit Tukak Peptik Aktif
+# Magnesium Carbonate: Daripada Penyakit Ulser Peptik kepada Penyakit Ulser Peptik Aktif
 
 ## Ringkasan Satu Ayat
 
-Magnesium karbonat (DrugBank DB09481) ialah sebatian antasida yang telah lama digunakan; teks petunjuk asal yang formal tidak tersedia dalam data pelesenan NPRA Malaysia yang diberikan, tetapi farmakologinya untuk menetralkan asid sudah diketahui dengan baik. Model TxGNN meramalkan ia mungkin berkesan untuk **Penyakit Tukak Peptik Aktif**, dengan **0 ujian klinikal** dan **4 penerbitan sokongan** (tiga RCT, satu kajian analitik) yang telah dikenalpasti untuk petunjuk khusus ini.
+Magnesium karbonat ialah antasid yang digunakan untuk merawat penyakit ulser peptik, refluks gastroesofagus (GERD), esofagitis, sembelit dan dispepsia.
+Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit ulser peptik aktif**, tetapi indikasi ini sebenarnya hampir sama dengan indikasi asal, jadi ia bukan calon repurposing yang sebenar.
+Pada masa ini terdapat **0 percubaan klinikal** dan **1 penerbitan** (kajian in vitro) yang menyokong arah ini.
 
 ---
 
-## Gambaran Pantas
+## Gambaran Keseluruhan Pantas
 
-| Perkara | Kandungan |
+| Item | Kandungan |
 |------|------|
-| Petunjuk Asal | Tidak dinyatakan dalam rekod pelesenan NPRA yang diberikan (semua medan `approved_indication_text` adalah kosong); biasa digunakan secara farmakologi sebagai antasida untuk keasidan berlebihan/dispepsia |
-| Petunjuk Baru yang Diramalkan | Penyakit Tukak Peptik Aktif |
+| Indikasi Asal | Penyakit ulser peptik, penyakit refluks gastroesofagus, esofagitis, sembelit, dispepsia |
+| Indikasi Baharu Diramalkan | Penyakit ulser peptik aktif |
 | Skor Ramalan TxGNN | 99.96% |
-| Tahap Bukti | L2 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 34 |
-| Keputusan yang Disyorkan | Teruskan dengan Penjaga |
+| Tahap Bukti | L4 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
-## Mengapa Ramalan Ini Masuk Akal?
+## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan yang terperinci tidak tersedia (jurang data). Berdasarkan farmakologi yang diketahui, magnesium karbonat ialah sebatian asas/antasida yang bertindak balas dengan asid hidroklorik dalam perut untuk menetralkan asid gastrik dan meningkatkan pH intragastrik; ia telah digunakan secara klinikal untuk keasidan berlebihan, dispepsia, dan sebagai komponen produk antasida gabungan.
+Data terperinci mengenai mekanisme tindakan belum tersedia. Berdasarkan maklumat yang diketahui, magnesium karbonat ialah antasid yang meneutralkan asid gastrik. Kesannya dalam melegakan gejala berkaitan asid telah diketahui, dan secara mekanistik ia mungkin sesuai untuk penyakit ulser peptik aktif.
 
-Penyakit tukak peptik aktif pada asasnya ialah kecederaan mukosa yang berkaitan dengan asid — dasar tukak terdedah kepada asid gastrik, yang menghalang penyembuhan dan mendorong simptom. Oleh kerana antasida mengurangkan pendedahan asid di permukaan tukak, terdapat hubung kait langsung dan panjang diiktiraf antara antasida berasaskan magnesium dan pengurusan tukak peptik, yang mendahului era penghambat H2 dan perencat pam proton.
+Penyakit ulser peptik sudah menjadi indikasi jenis berlabel bagi ubat ini. Ramalan ini lebih tepat difahami sebagai pengesahan indikasi sedia ada, bukan penemuan kegunaan baharu. Satu-satunya kajian yang diperoleh ialah perbandingan in vitro keupayaan peneutralan asid antasid yang dipasarkan, tanpa data hasil klinikal.
 
-Kebolehpercayaan mekanisme ini diperkuat oleh literatur yang diambil: beberapa ujian terkawal dari tahun 1980-an secara langsung menilai rejim antasida (termasuk formulasi yang mengandungi magnesium) dalam pesakit dengan tukak duodenal dan prapilorus aktif, secara amnya menunjukkan kadar penyembuhan yang setanding dengan (walaupun kadang-kadang lebih rendah daripada) antagonis H2 seperti simetidina. Ini menyokong asas bukti yang sebenar dan bersejarah, bukan sekadar artifak pengiraan.
-
----
-
-## Bukti Ujian Klinikal
-
-Pada masa ini tiada ujian klinikal berkaitan yang terdaftar
+Calon lain dalam senarai ramalan (contohnya ulser gastrojejunal, gastroduodenitis, ulser gastrik, refluks duodenogastrik dan ulser duodenum) juga berkait dengan peneutralan asid. Bagi penyakit seperti perforasi ulser peptik, gastroparesis dan sumbatan duodenum, tiada rasional terapeutik yang munasabah, dan ramalan itu hanya bergantung pada model.
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Percubaan Klinikal
+
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
+
+---
+
+## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [7034155](https://pubmed.ncbi.nlm.nih.gov/7034155/) | 1981 | RCT | Scandinavian Journal of Gastroenterology | Ujian buta berganda 12 minggu dalam 72 pesakit dengan tukak duodenal/prapilorus membandingkan simetidina, kombinasi antasida/antikolinergik, dan plasebo; kadar penyembuhan 3 minggu ialah 67% (simetidina) dan 50% (antasida), kedua-duanya jauh lebih baik daripada plasebo |
-| [6755656](https://pubmed.ncbi.nlm.nih.gov/6755656/) | 1982 | RCT | Scandinavian Journal of Gastroenterology. Supplement | Laporan pendamping menilai antasida/antikolinergik vs. simetidina vs. plasebo dalam tukak prapilorus dan duodenal aktif |
-| [3003883](https://pubmed.ncbi.nlm.nih.gov/3003883/) | 1985 | RCT | Scandinavian Journal of Gastroenterology | 80 pesakit dengan tukak duodenal aktif menerima tablet antasida (1.1 g, empat kali sehari) bersama diet gentian tinggi atau rendah; penyembuhan tukak berlaku dalam 67.5% vs. 60% pesakit masing-masing, mengesahkan keberkesanan antasida bebas daripada pengambilan gentian |
-| [35720246](https://pubmed.ncbi.nlm.nih.gov/35720246/) | 2022 | Kajian in vitro/analitik | Medicine and Pharmacy Reports | Menilai keupayaan menetralkan asid (ANC) dan sifat fizikokimia lain produk antasida yang dipasarkan |
+| [35720246](https://pubmed.ncbi.nlm.nih.gov/35720246/) | 2022 | Kajian in vitro / kualiti produk | Medicine and Pharmacy Reports | Menilai keupayaan peneutralan asid (ANC) dan sifat lain antasid yang dipasarkan di Maghribi; tiada data hasil klinikal |
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Maklumat terperinci bagi setiap lesen (nombor lesen, nama produk, bentuk dos, teks petunjuk yang diluluskan) tidak dikembalikan dalam pakej bukti semasa — kesemua lima rekod sampel lesen mengandungi medan kosong. Data NPRA mengesahkan ubat **dipasarkan** di Malaysia dengan **34 jumlah pendaftaran**, tetapi cabutan data untuk butir lesen tertentu diperlukan sebelum jadual ini dapat disempurnakan.
+Pada masa ini magnesium karbonat tidak dipasarkan di Malaysia dan tiada pendaftaran direkodkan dalam data yang dikumpulkan untuk laporan ini.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk helaian maklumat produk untuk maklumat keselamatan.
-
-*Nota: Pakej bukti menandakan amaran helaian maklumat TFDA/NPRA dan kontraindikasi (DG001) sebagai jurang data keparahan **Pemblokiran** — maklumat ini mesti diperolehi sebelum calon dapat diteruskan ke peringkat semakan keselamatan S1.*
+- **Kontraindikasi (berdasarkan graf pengetahuan, bukan teks label)**: Graf pengetahuan mencatatkan kaitan kontraindikasi dengan beberapa keadaan, antaranya:
+  - Penyakit hati dan kegagalan hati, termasuk koma hepatik dan ensefalopati hepatik
+  - Penyakit buah pinggang dan nefrokalsinosis
+  - Hiperkalsemia dan hiperparatiroidisme
+  - Porfiria
+  - Penyakit pundi hempedu
+  - Trombositopenia, neutropenia dan agranulositosis
+  - Anemia (termasuk anemia makrositik)
+  - Penyakit cirit-birit
+  - Sarkoidosis
+  - Gangguan kebimbangan dan gangguan neurotik
+  - Penyalahgunaan/ketagihan bahan
+  - Sindrom apnea tidur
+  
+  Senarai ini perlu disahkan dengan sisipan pakej rasmi.
+- **Interaksi Ubat**: Pangkalan data mencatatkan 100 interaksi. Antara yang utama:
+  - **Major**: Dolutegravir
+  - **Sederhana (Moderate)**: Doxycycline, asid alendronik, asid risedronik, azithromycin, atazanavir, kolekalsiferol, aspirin, atropin, akalabrutinib, amfetamina, baloxavir marboxil, benzfetamina
+  - **Minor**: Famotidina, ranitidina, alprazolam, atenolol, asebutolol, aksitinib, benazepril
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Teruskan dengan Penjaga**
+**Keputusan: Hold**
 
-**Alasan:**
-Ramalan itu berasaskan mekanisme dengan baik (menetralkan asid secara langsung menangani patofisiologi tukak) dan disokong oleh berbagai RCT bersejarah (bukti L2) yang menunjukkan keberkesanan antasida dalam penyembuhan tukak peptik aktif. Walau bagaimanapun, data mekanisme tindakan dan amaran keselamatan TFDA/NPRA sedang hilang, dan tiada ujian klinikal khusus petunjuk telah dikenalpasti, jadi calon harus maju dengan berhati-hati daripada meneruskan tanpa syarat.
+**Rasional:**
+- Ramalan teratas ialah indikasi yang sudah wujud bagi ubat ini, dan bukti yang ada hanyalah kajian in vitro (L4) tanpa percubaan klinikal. Ubat ini juga tidak dipasarkan di Malaysia, dan maklumat keselamatan daripada sisipan pakej belum diperoleh.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Amaran helaian maklumat TFDA/NPRA dan kontraindikasi (DG001 — Pemblokiran; diperlukan untuk melengkapkan semakan keselamatan S1)
-- Dokumentasi mekanisme tindakan formal daripada DrugBank atau label produk (DG002)
-- Teks petunjuk asal yang disahkan daripada rekod lesen NPRA yang lengkap (rekod sampel semasa adalah kosong)
-- Maklumat pelesenan Malaysia yang terperinci (nombor lesen, nama produk, bentuk dos, pengilang) untuk 34 produk yang didaftar
-- Pertimbangan sama ada asas bukti RCT yang sebahagian besarnya sebelum 1990 memerlukan kajian pengesahan kontemporari, memandangkan antasida sejak itu telah digantikan oleh penghambat H2/PPI sebagai terapi baris pertama untuk tukak
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisipan pakej NPRA (amaran dan kontraindikasi) untuk saringan keselamatan
+- Data mekanisme tindakan (MOA) terperinci
+- Data klinikal langsung bagi magnesium karbonat dalam penyakit ulser peptik atau indikasi berkaitan
+- Pengesahan sama ada pendaftaran produk yang mengandungi magnesium karbonat (termasuk produk kombinasi) wujud di Malaysia
+- Penilaian keserasian laluan pentadbiran dan bentuk dos
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

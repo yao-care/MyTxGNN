@@ -2,7 +2,7 @@
 layout: default
 title: Brimonidine Tartrate
 parent: Low Evidence (L4-L5)
-nav_order: 160
+nav_order: 165
 evidence_level: L5
 indication_count: 0
 ---

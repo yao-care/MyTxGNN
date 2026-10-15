@@ -2,7 +2,7 @@
 layout: default
 title: Zinc Acetate
 parent: Low Evidence (L4-L5)
-nav_order: 696
+nav_order: 733
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,80 +29,98 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Zinc Acetate: Daripada Kekurangan Zink (Hipozinkemia) kepada Retinopati Diabetik Nonproliferatif Teruk
+# Zink Asetat: Daripada Tiada Indikasi Berdaftar kepada Retinopati Diabetik Bukan Proliferatif Teruk
 
 ## Ringkasan Satu Ayat
 
-> Zinc acetate ialah terapi penggantian unsur jejak, yang didokumentasikan dalam literatur pakej bukti sebagai digunakan untuk penyakit Wilson dan hipozinkemia (kekurangan zink); teks petunjuk yang diluluskan khusus Malaysia tidak tersedia dalam set data semasa.
-> Model TxGNN meramalkan ia mungkin berkesan untuk **Retinopati Diabetik Nonproliferatif Teruk**, dengan **skor ramalan 99.97%**,
-> tetapi **0 ujian klinikal** dan **0 penerbitan** kini menyokong arah ini — pakej bukti itu sendiri menandakan ini sebagai artefak penyematan graf pengetahuan yang mungkin daripada persatuan biologi yang tulen.
+Data yang dikumpulkan untuk laporan ini tidak mencatatkan sebarang indikasi asal yang berdaftar bagi zink asetat di Malaysia, dan ubat ini tidak dipasarkan di sini.
+Model TxGNN meramalkan ia mungkin berkesan untuk **retinopati diabetik bukan proliferatif teruk** dengan skor tinggi (99.97%).
+Walau bagaimanapun, ramalan ini bersifat pengiraan semata-mata: **0 ujian klinikal** dan **0 penerbitan** menyokong indikasi ini.
 
 ---
 
-## Tinjauan Cepat
+## Gambaran Keseluruhan Pantas
 
 | Perkara | Kandungan |
-|---|---|
-| Petunjuk Asal | Tidak dinyatakan dalam data lesen Malaysia (medan struktur kosong); literatur dalam pakej bukti ini merujuk kepada penyakit Wilson / hipozinkemia (kekurangan zink) sebagai kegunaan yang diluluskan di pasaran lain |
-| Petunjuk Baru Yang Diramalkan | Retinopati Diabetik Nonproliferatif Teruk |
+|------|------|
+| Indikasi Asal | Tiada data indikasi berdaftar tempatan |
+| Indikasi Baharu yang Diramalkan | Retinopati diabetik bukan proliferatif teruk |
 | Skor Ramalan TxGNN | 99.97% |
-| Tahap Bukti | L5 (ramalan model sahaja) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 5 |
-| Keputusan Yang Disyorkan | Tahan |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan yang terperinci tidak tersedia (Jurang Data DG002). Berdasarkan literatur yang ditangkap di tempat lain dalam pakej bukti ini, zinc acetate termasuk dalam kelas penggantian unsur jejak, dengan kegunaan yang terbina dalam penyakit Wilson (kelasi tembaga melalui induksi metalotionein) dan dalam keadaan hipozinkemia/kekurangan zink. Tiada data petunjuk asal diberikan dalam rekod lesen Malaysia untuk dibandingkan.
+Data terperinci tentang mekanisme tindakan zink asetat tidak tersedia pada masa ini. Zink ialah unsur surih penting yang bertindak sebagai kofaktor kepada ratusan enzim, dan ia mempunyai aktiviti antioksidan serta anti-radang. Sifat ini mungkin berkaitan dengan tekanan oksidatif pada retina, tetapi ini hanyalah hipotesis dan tidak disokong oleh data yang dikumpulkan.
 
-Untuk ramalan spesifik ini, analisis pakej bukti itu sendiri adalah jelas dan harus diambil pada nilai mukanya: tiada **kaitan mekanistik yang boleh disahkan** antara suplementasi zink dan pementapan perkembangan retinopati diabetik. Tiada ujian klinikal atau penerbitan dalam pakej bukti yang menangani hubungan ini. Skor TxGNN yang sangat tinggi (99.97%, pangkat global 764) dinilai oleh saluran paip sebagai mungkin mencerminkan **bias persamaan penyematan graf pengetahuan** daripada persatuan biologi yang sebenar — corak yang sama terulang di beberapa ramalan 10 teratas lain untuk ubat ini (cth., "acrodermatitis chronica atrophicans," pangkat ke-5, ditandakan sebagai kemungkinan kekeliruan persamaan nama dengan keadaan kekurangan zink yang tidak berkaitan "acrodermatitis enteropathica").
+Tiada indikasi asal berdaftar di Malaysia, maka hubungan antara indikasi asal dengan indikasi baharu tidak dapat dinilai. Skor TxGNN yang sangat tinggi hanya mencerminkan hubungan dalam graf pengetahuan, bukan bukti klinikal.
 
-Antara 10 petunjuk yang diramalkan yang dikaji, satu-satunya entri yang mempunyai rasional yang munasabah secara biologi dan literatur sokongan (jika tidak langsung) ialah **dermatitis** (pangkat 4, L4, peringkat "Soalan Penyelidikan") — kekurangan zink ialah punca yang diiktiraf bagi lesi kulit seperti dermatitis, dan penggantian zink lisan ialah rawatan standard untuk etiologi spesifik tersebut. Ini ialah isyarat yang lebih kuat secara material daripada ramalan yang disenaraikan di atas dan mungkin memerlukan penilaian berasingan.
+Retinopati diabetik (rank 3) ialah kategori induk kepada entri ini dan mempunyai jurang bukti yang sama.
 
 ---
 
 ## Bukti Ujian Klinikal
 
-Pada masa ini tiada ujian klinikal yang berkaitan berdaftar
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
-Pada masa ini tiada literatur yang berkaitan tersedia
+Pada masa ini tiada literatur berkaitan tersedia.
 
 ---
 
-## Maklumat Pasaran Malaysia
+## Calon Indikasi Lain yang Diramalkan
 
-Data pengawalseliaan Malaysia mengesahkan 5 pendaftaran produk aktif (status pasaran: Dipasarkan / Dipasarkan), tetapi medan lesen berstruktur (nombor lesen, nama produk, bentuk dos, pengeluar, teks petunjuk yang diluluskan) semuanya kosong dalam set data semasa dan tidak dapat dijadualkan. Ini telah dicatat sebagai Jurang Data DG001 (Keterukan Pemblokiran) — amaran label TFDA/NPRA dan teks petunjuk perlu bersumber terus daripada pengawal selia sebelum bahagian ini atau kajian keselamatan di bawah dapat diselesaikan.
+Berikut ringkasan calon lain daripada data yang dikumpulkan (semua dalam peringkat S0):
+
+| Kedudukan | Penyakit | Skor TxGNN | Tahap Bukti | Cadangan |
+|------|------|------|------|------|
+| 2 | Bronkitis | 99.97% | L5 | Hold |
+| 3 | Retinopati diabetik | 99.92% | L5 | Hold |
+| 4 | Dermatitis | 99.88% | L4 | Soalan Penyelidikan |
+| 5 | Akrodermatitis kronika atrofikans | 99.83% | L5 | Hold |
+| 6 | Dermatomiositis neonatal | 99.81% | L5 | Hold |
+| 7 | Akne keloid | 99.80% | L5 | Hold |
+| 8 | Hidroa vaksiniformis, familial | 99.79% | L5 | Hold |
+| 9 | Penyakit paru interstisial sekunder spesifik kanak-kanak berkaitan penyakit tisu penghubung | 99.78% | L5 | Hold |
+| 10 | Dermatomiositis amiopatik | 99.77% | L5 | Hold |
+
+**Catatan penting:**
+- **Bronkitis**: Satu-satunya rujukan (PMID 32679246) ialah kajian sintesis nanozarah zink oksida, bukan kajian klinikal zink asetat.
+- **Dermatitis**: Literatur yang ditemui kebanyakannya tidak langsung (laporan kes, pengawasan pasca pemasaran untuk hipozinkemia, laporan veterinar, dan laporan kesan buruk seperti kekurangan kuprum dan hiperzinkemia). Satu RCT 2005 (PMID 16302325) melibatkan produk topikal klindamisin/zink, tetapi kaitannya dengan zink asetat untuk dermatitis tidak dapat disahkan. Khasiat zink asetat dalam dermatitis belum terbukti.
+- **Akrodermatitis kronika atrofikans**: Ini ialah manifestasi kulit lewat borreliosis Lyme dan dirawat dengan antibiotik. Ramalan mungkin disebabkan persamaan nama dengan akrodermatitis enteropatika yang responsif kepada zink.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan bungkusan untuk maklumat keselamatan.
+**Interaksi Ubat**: Pertanyaan interaksi selesai dengan 100 interaksi direkodkan. Antara yang dipaparkan:
+- **Sederhana (Moderate)**: asid alendronik, asid risedronik, ibandronat, tetrasiklin, baloxavir marboxil
+- **Ringan (Minor)**: abatacept, adalimumab, hidrokortison, alefacept, anakinra, azathioprine, baricitinib, basiliximab, deksametason, belatacept, belimumab, betametason, triamsinolon, serta imunoglobulin antilimfosit/antitimosit
 
-*(Nota: `safety.key_warnings` dan `safety.contraindications` mengandungi hanya jurang data yang tidak terselesaikan, dan soalan DDI mengembalikan tiada hasil — ini dicatat sebagai Jurang Data DG001, keterukan Pemblokiran, dan mesti diselesaikan sebelum sebarang kajian keselamatan S1 boleh diteruskan.)*
+Untuk maklumat keselamatan lain, sila rujuk sisipan pakej.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
 **Rasional:**
-Ramalan yang disenaraikan teratas (retinopati diabetik nonproliferatif teruk) mempunyai sifar ujian klinikal atau literatur sokongan, dan rasional pakej bukti itu sendiri secara eksplisit mengaitkan skor TxGNN yang tinggi kepada bias persamaan penyematan yang mungkin daripada hubungan ubat-penyakit yang sebenar. Selain itu, jurang data keterukan Pemblokiran (amaran label TFDA/NPRA dan kontraindikasi yang hilang) menghalang sebarang penyaringan keselamatan pra- (S1) tanpa mengira bukti keberkesanan.
+- Indikasi yang diramalkan tidak disokong oleh ujian klinikal atau literatur, dan ramalan TxGNN yang tinggi hanyalah ramalan berasaskan graf. Zink asetat juga tidak berdaftar di Malaysia dan data keselamatan daripada label belum diperoleh.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Selesaikan DG001 (Pemblokiran): dapatkan dan parskan label produk/sisipan sebenar untuk amaran, kontraindikasi, dan data DDI
-- Selesaikan DG002 (Tinggi): sahkan mekanisme tindakan melalui pertanyaan DrugBank API
-- Dapatkan rekod lesen Malaysia yang lengkap (nombor lesen, nama produk, bentuk dos, teks petunjuk yang diluluskan) — set data semasa mempunyai 5 pendaftaran tetapi tiada medan yang diisi
-- Jika mengejar penyelidikan perubahan tujuan, alihkan tumpuan ke **dermatitis** (pangkat 4, L4, "Soalan Penyelidikan"), yang mempunyai rasional yang koheren secara mekanistik (dermatitis kekurangan zink) berbanding ramalan yang disenaraikan teratas tanpa sokongan
-- Tiada tindakan selanjutnya disyorkan mengenai retinopati diabetik teruk/nonproliferatif tanpa bukti utama baru (ujian atau kajian mekanistik) yang secara langsung menghubungkan status zink kepada perkembangan retinopati
-
+- Amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menyekat penyaringan keselamatan)
+- Data mekanisme tindakan (MOA), contohnya daripada DrugBank
+- Kajian praklinikal atau klinikal yang menilai zink asetat dalam retinopati diabetik
+- Penilaian kesesuaian laluan pemberian dan persamaan dengan indikasi asal
+- Semakan lanjut calon dermatitis (Soalan Penyelidikan) untuk menentukan sama ada bukti langsung wujud
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

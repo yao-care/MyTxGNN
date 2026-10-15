@@ -2,7 +2,7 @@
 layout: default
 title: Inclisiran
 parent: Low Evidence (L4-L5)
-nav_order: 395
+nav_order: 414
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,75 +29,79 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Inclisiran: Petunjuk Asal Tidak Tersedia — Perkaitan Ramalan dengan Penyakit Kekurangan Kalium (Keyakinan Rendah)
+# Inclisiran: Daripada Pengurangan Kolesterol LDL kepada Kekurangan Kalium (Potassium Deficiency Disease)
 
 ## Ringkasan Satu Ayat
 
-Inclisiran (DrugBank DB14901) ialah terapi siRNA penyasaran PCSK9; petunjuk persetujuannya yang asal tidak dicatat dalam pakej bukti ini (jurang data). Calon pangkat teratas model TxGNN ialah **Penyakit Kekurangan Kalium** (skor 99.93%), tetapi ulasan pakej bukti sendiri menandai pautan ini sebagai kemungkinan **positif palsu** ruang tersapu TxGNN, tanpa **percubaan klinikal dan kesusasteraan** dikenalpasti untuk menyokongnya.
+Inclisiran ialah siRNA yang menyasarkan mRNA PCSK9 dalam hepatosit untuk menurunkan LDL-C, tetapi data indikasi asal yang berdaftar di Malaysia tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
+Model TxGNN meramalkan ia mungkin berkesan untuk **kekurangan kalium (potassium deficiency disease)**,
+namun ramalan ini berada pada **Tahap Bukti L5** dengan **0 ujian klinikal** dan **0 penerbitan** yang menyokongnya.
 
 ---
 
-## Gambaran Keseluruhan Pantas
+## Gambaran Ringkas
 
-| Perkara | Kandungan |
-|--------|----------|
-| Petunjuk Asal | Tidak tersedia dalam pakej bukti ini (jurang data — `drug.original_indications` kosong, teks lesen kosong) |
-| Petunjuk Baru Ramalan | Penyakit Kekurangan Kalium |
+| Item | Kandungan |
+|------|------|
+| Indikasi Asal | Tiada data indikasi berdaftar tempatan (secara umum digunakan untuk menurunkan LDL-C) |
+| Indikasi Baharu yang Diramalkan | Kekurangan kalium (potassium deficiency disease) |
 | Skor Ramalan TxGNN | 99.93% |
-| Paras Bukti | L5 (ramalan model sahaja, tanpa kajian sokongan) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 1 |
-| Keputusan Disyorkan | Tahan |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci untuk Inclisiran ditandai sebagai jurang data (DG002) dalam pakej ini. Satu-satunya maklumat mekanistik yang tersedia datang daripada teks rasional model itu sendiri, yang mengenal pasti Inclisiran bertindak melalui **laluan PCSK9** (konsisten dengan peranan yang diketahuinya sebagai siRNA penurun kolesterol-LDL).
+Inclisiran ialah siRNA yang menyasarkan mRNA PCSK9 dalam hepatosit bagi menurunkan LDL-C. Data terperinci mengenai mekanisme tindakan daripada pangkalan data tidak tersedia, tetapi mekanisme am di atas diperoleh daripada analisis rasional yang disertakan dalam data.
 
-Untuk calon pangkat teratas, bagaimanapun, rasional pakej bukti adalah jelas bahawa **tiada sambungan mekanistik yang munasabah wujud**: *"PCSK9 通路與鉀離子代謝無已知關聯，判斷為 TxGNN 嵌入空間之偽陽性關聯"* (tiada hubungan yang diketahui antara laluan PCSK9 dan metabolisme kalium; dinilai sebagai artifak positif-palsu ruang tersapu TxGNN). Tiada percubaan klinikal, rekod ICTRP, atau kesusasteraan PubMed ditemui yang menghubungkan Inclisiran dengan penyakit kekurangan kalium.
+Tiada kaitan mekanistik yang diketahui antara penyenyapan PCSK9 dan homeostasis kalium. Skor TxGNN yang tinggi merupakan ramalan berasaskan graf sahaja dan tiada sokongan biologi atau klinikal dalam data yang dikumpulkan. Oleh itu, ramalan ini perlu dianggap sebagai hipotesis yang sangat awal dan spekulatif.
 
-Ia juga bernilai untuk diingat bahawa ini bukan kes terpencil dalam set calon ini — pangkat 2–10 dalam pakej yang sama (penyakit esofagus, malformasi aorta, varian migrain, ulser esofagus, penyakit Raynaud, dsb.) masing-masing dinilai secara bebas sebagai kekurangan asas mekanistik yang dapat dipercayai, dan di mana bukti dikembalikan (kesusasteraan kerentanan migrain, percubaan malformasi aorta), didapati semasa ulasan sama ada tidak sesuai topik (genetik epilepsi/migrain tidak berkaitan dengan PCSK9) atau tidak sepadan (percubaan "malformasi aorta" itu disahkan sebenarnya adalah kajian hiperkolesterolemia familial pediatrik — ralat pemetaan label penyakit, bukan bukti sokongan sebenar).
-
----
-
-## Bukti Percubaan Klinikal
-
-Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
+Ramalan lain dalam kedudukan teratas (contohnya penyakit esofagus, migrain, koarktasio aorta, penyakit Raynaud) juga tidak mempunyai kaitan mekanistik yang jelas dengan penyenyapan PCSK9 dan semuanya berada pada Tahap L5, kecuali "aortic malformation" yang dinilai sebagai L4 tetapi berdasarkan padanan ujian yang tidak langsung.
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Ujian Klinikal
 
-Pada masa ini tiada kesusasteraan berkaitan yang tersedia.
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan untuk kekurangan kalium.
+
+*Nota:* Dua ujian Fasa 3 inclisiran (NCT06597019 dan NCT06597006) dipadankan dengan ramalan peringkat ke-8 (aortic malformation), tetapi ia merupakan kajian hiperkolesterolemia familial pada kanak-kanak dan bukan bukti langsung untuk indikasi ramalan utama laporan ini.
+
+---
+
+## Bukti Literatur
+
+Pada masa ini tiada literatur berkaitan tersedia.
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Satu rekod pendaftaran wujud (`total_licenses = 1`), tetapi nombor lesen, nama produk, bentuk dos, dan teks petunjuk yang diluluskan semuanya kosong dalam pakej bukti ini — tiada butiran lesen yang boleh digunakan pada masa ini.
+Inclisiran pada masa ini tidak dipasarkan di Malaysia dan tiada lesen berdaftar dalam data yang dikumpulkan.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan. (Amaran utama, kontraindikasi, dan data interaksi ubat semuanya ditandai sebagai jurang data dalam pakej bukti ini; DG001 — amaran label TFDA/kontraindikasi — ditandai sebagai jurang **Pemblokiran** yang menghalang pra-saringan keselamatan.)
+Sila rujuk risalah maklumat produk (package insert) untuk maklumat keselamatan. Tiada data amaran, kontraindikasi atau interaksi ubat yang ditemui dalam data yang dikumpulkan.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
 **Rasional:**
-Petunjuk ramalan pangkat teratas (Penyakit Kekurangan Kalium) tidak mempunyai sokongan percubaan klinikal atau kesusasteraan, dan ulasan mekanistik pakej bukti itu sendiri melabelnya sebagai kemungkinan positif palsu daripada ruang tersapu TxGNN. Tiada calon dalam 10 ramalan teratas dalam kelompok ini mempunyai kedua-dua pautan mekanistik yang munasabah dan bukti dunia nyata yang menyokong. Digabungkan dengan jurang data keselamatan **pemblokiran** (DG001), calon ini tidak bersedia untuk maju melampaui ramalan model.
+- Ramalan ini hanya berasaskan model (L5) tanpa ujian klinikal, literatur, atau kaitan mekanistik yang munasabah antara penyenyapan PCSK9 dan homeostasis kalium. Skor TxGNN yang tinggi tidak mencukupi tanpa sokongan biologi.
 
-**Untuk melanjutkan, perkara berikut diperlukan:**
-- PDF label TFDA/NPRA (amaran, kontraindikasi) — menyelesaikan DG001 (pemblokiran)
-- Petunjuk persetujuan asal yang disahkan dan MOA terperinci — menyelesaikan DG002 dan medan tajuk/gambaran keseluruhan yang hilang
-- Butiran lesen ubat lengkap (nama produk, bentuk dos, teks petunjuk) untuk pendaftaran yang sedia ada
-- Jika meneruskan ubat baru lagi, jalankan semula carian KG/kesusasteraan terhadap penyakit calon alternatif dengan kebolehpercayaan laluan PCSK9 biologi yang lebih jelas, memandangkan pangkat 1–10 dalam kelompok ini tidak memenuhi bar itu
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) yang lengkap daripada DrugBank
+- Amaran dan kontraindikasi daripada risalah maklumat produk NPRA (jurang data yang menghalang penyaringan keselamatan)
+- Hipotesis mekanistik yang munasabah dan bukti praklinikal yang menghubungkan inclisiran dengan metabolisme atau homeostasis kalium
+- Semakan literatur sistematik untuk mengenal pasti sebarang isyarat klinikal berkaitan
+- Pengesahan status pendaftaran dan indikasi berdaftar di Malaysia
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -2,7 +2,7 @@
 layout: default
 title: Ammonium Chloride
 parent: Low Evidence (L4-L5)
-nav_order: 60
+nav_order: 63
 evidence_level: L5
 indication_count: 5
 ---
@@ -29,89 +29,90 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Ammonium Chloride: Daripada Ekspektoran/Pengasidan kepada Faringitis
+# Ammonium Chloride: Daripada Faringitis kepada Faringitis (Bukan Pengubahan Tujuan Sebenar)
 
 ## Ringkasan Satu Ayat
 
-Ammonium Chloride adalah sebatian yang telah ditubuhkan secara farmakologi sebagai ekspektoran dan agen pengasidan sistemik, biasanya dimasukkan dalam persediaan batuk dan selsema OTC.
-Model TxGNN meramalkan ia mungkin berkesan untuk **Faringitis**, namun skor ramalan berdiri pada **0.00%** dengan **0 ujian klinikal** dan **4 penerbitan** yang mempunyai kaitan langsung terbatas untuk arah ini.
-Kombinasi keyakinan model hampir sifar dan ketiadaan bukti klinikal langsung menjamin penahanan berhati-hati sebelum sebarang langkah pembangunan lanjut.
+Ammonium chloride ialah agen pengasid ringan dan ekspektoran sejarah yang pada asalnya digunakan untuk faringitis, selesema biasa dan nasofaringitis.
+Model TxGNN meletakkan **faringitis** sebagai calon teratas, tetapi dengan skor **0.0%**, dan indikasi ini sebenarnya sudah menjadi indikasi asal ubat ini.
+Pada masa ini terdapat **0 percubaan klinikal** dan hanya **2 penerbitan** yang berkaitan secara longgar, jadi tiada bukti sebenar yang menyokong arah ini.
 
 ---
 
-## Ringkasan Pantas
+## Gambaran Keseluruhan Pantas
 
 | Item | Kandungan |
-|------|----------|
-| Petunjuk Asal | Tidak tersedia daripada rekod pengawalseliaan (secara farmakologi diketahui sebagai ekspektoran dan pengasidan sistemik) |
-| Petunjuk Baharu Yang Diramal | Faringitis |
-| Skor Ramalan TxGNN | 0.00% |
+|------|------|
+| Indikasi Asal | Faringitis, selesema biasa, nasofaringitis (berdasarkan graf pengetahuan TxGNN/PrimeKG; tiada teks indikasi berlesen tersedia) |
+| Indikasi Baharu yang Diramalkan | Faringitis (sama dengan indikasi asal) |
+| Skor Ramalan TxGNN | 0.0% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 36 |
-| Keputusan Disyorkan | Penahanan |
+| Status Pasaran di Malaysia | ✗ Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
-## Mengapa Ramalan Ini Munasabah?
+## Mengapa Ramalan Ini Wajar (atau Tidak)?
 
-Pada masa ini, data mekanisme tindakan terperinci tidak tersedia dalam pakej bukti ini. Berdasarkan farmakologi yang ditubuhkan, Ammonium Chloride bertindak sebagai ekspektoran dengan merangsang sekresi kelenjar bronkial dan meningkatkan jumlah bendalir saluran pernafasan, dengan itu mengurangkan kelikatan lendir dan memudahkan pembersihan saluran udara. Ia juga berfungsi sebagai pengasidan sistemik dengan bertukar menjadi urea dan asid hidroklorik dalam hati, menurunkan pH urin dan sistemik.
+Data mekanisme tindakan (MOA) terperinci tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, ammonium chloride ialah agen pengasid ringan dan telah lama menjadi komponen sediaan ekspektoran untuk batuk dan selesema. Namun, data yang dikumpulkan untuk laporan ini tidak menyokong mekanisme khusus untuk keradangan farinks.
 
-Faringitis, selesema biasa, dan nasofaring adalah semua keadaan saluran pernafasan atas yang berkongsi profil simptomatik yang bertindih — termasuk kerengsaan tekak, keradangan membran, dan pengeluaran lendir berlebihan — yang mana mekanisme ekspektoran ammonium chloride secara meluas serasi. Kebolehujudan biologi ini disokong lagi oleh fakta bahawa ammonium chloride sudah pun merupakan bahan aktif biasa dalam banyak persediaan batuk dan selsema OTC yang dipasarkan, memberikan kredibiliti tidak langsung kepada ramalan TxGNN.
+Faringitis, selesema biasa dan nasofaringitis ialah indikasi asal ubat ini, jadi ini bukan calon pengubahan tujuan yang sebenar. Skor TxGNN sebanyak 0.0 bermakna tiada ramalan berasaskan model yang boleh dijadikan sandaran.
 
-Walau bagaimanapun, skor TxGNN sebanyak 0.00% adalah isyarat amaran yang ketara. Nilai ini menunjukkan model graf pengetahuan menemui sambungan tahap rangkaian yang sangat lemah antara ammonium chloride dan faringitis, dan bukti yang diambil — terdiri sepenuhnya daripada kertas tentang sebatian kuaternium ammonium yang berstruktur tetapi berbeza — tidak mengisi jurang ini. Oleh itu, ramalan harus dianggap sebagai penghasil hipotesis dan bukannya boleh bertindak pada peringkat ini.
+Bagi selesema biasa, terdapat hipotesis spekulatif bahawa kesan alkalinisasi endosom (lisosomotropik) ammonium chloride mungkin berkaitan dengan kemasukan virus yang bergantung kepada pH. Namun, kajian rhinovirus 2022 yang ditemui hanya membincangkan kestabilan kapsid bergantung pH dan tidak menunjukkan manfaat antivirus atau simptomatik ammonium chloride. Hipotesis ini tidak disokong oleh data klinikal.
 
 ---
 
-## Bukti Ujian Klinikal
+## Bukti Percubaan Klinikal
 
-Pada masa ini tiada ujian klinikal berkaitan yang didaftar.
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
-Penerbitan berikut telah diambil untuk ammonium chloride dan faringitis. **Kaveat penting:** kertas yang diambil menghuraikan sebatian kuaternium ammonium (benzalkonium chloride, benzoxonium chloride) dan bukan ammonium chloride itu sendiri; bukti klinikal langsung untuk ammonium chloride sebagai ubat faringitis tidak hadir dalam pakej bukti ini.
+Literatur di bawah dikumpulkan untuk faringitis (calon teratas). Kedua-duanya berkaitan secara longgar sahaja dan tidak menilai ammonium chloride itu sendiri.
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|-------|------|--------|-------------|
-| [442769](https://pubmed.ncbi.nlm.nih.gov/442769/) | 1979 | Klinikal | ZFA. Zeitschrift fur Allgemeinmedizin | Menangani terapi penyakit radang akut rongga mulut dan ruang farinks; abstrak tidak tersedia untuk penilaian terperinci |
-| [3606702](https://pubmed.ncbi.nlm.nih.gov/3606702/) | 1987 | Kajian klinikal | Arzneimittel-Forschung | Larutan gargle benzoxonium chloride (sebatian kuaternium ammonium, bukan ammonium chloride) mengurangkan bilangan bakteria bukofarinkes dengan ketara dalam sukarelawan sihat; 38 pesakit dengan sakit tekak menunjukkan isyarat keselamatan dan keberkesanan |
-| [7818285](https://pubmed.ncbi.nlm.nih.gov/7818285/) | 1994 | Alam sekitar/Epidemiologi | Archives of Environmental Health | Faringitis dan gejala kerengsaan yang diperhatikan selepas pendedahan sampingan kepada disinfektan kuaternium ammonium melalui sistem HVAC sekolah; mendokumenkan kepekaan saluran udara atas kepada kelas sebatian ini |
-| [38622748](https://pubmed.ncbi.nlm.nih.gov/38622748/) | 2024 | Laporan kes | Acta Veterinaria Scandinavica | Keracunan benzalkonium chloride yang teruk dalam seekor kucing; faringitis dan ulserasi mulut diperhatikan pada kepekatan ≤2%, menggambarkan potensi kerengsaan membran sebatian kuaternium ammonium |
+|------|-----|------|------|---------|
+| [3606702](https://pubmed.ncbi.nlm.nih.gov/3606702/) | 1987 | Kajian antibakteria in vivo | Arzneimittel-Forschung | Menilai benzoxonium chloride (sebatian ammonium kuaternari, bukan ammonium chloride) sebagai pembasmi kuman bukofaringeal pada sukarelawan sihat dan 38 pesakit sakit tekak |
+| [7818285](https://pubmed.ncbi.nlm.nih.gov/7818285/) | 1994 | Laporan kes / siasatan pendedahan | Archives of Environmental Health | Gejala iritasi dan sistemik selepas pendedahan kepada pembasmi kuman Microban (kompleks ammonium kuaternari) melalui sistem pengudaraan sekolah |
+
+Bagi selesema biasa, dua penerbitan turut ditemui: [34705560](https://pubmed.ncbi.nlm.nih.gov/34705560/) (2022, penyelidikan virologi asas, *Journal of Virology*, tentang pengnyahsalutan genom rhinovirus bebas pH rendah) dan [14053191](https://pubmed.ncbi.nlm.nih.gov/14053191/) (1963, ulasan sejarah tentang terapi asma dan kawalan batuk, *Hawaii Medical Journal*). Tiada satu pun menunjukkan keberkesanan klinikal ammonium chloride.
 
 ---
 
-## Maklumat Pasaran Malaysia
+## Keselamatan dan Pertimbangan
 
-Data pendaftaran peringkat produk terperinci tidak diisi dalam pakej bukti ini. 36 produk berdaftar harus disahkan secara langsung melalui pangkalan data awam NPRA (Agensi Pengawalseliaan Farmasetik Kebangsaan).
+**Interaksi Ubat** (21 interaksi direkodkan; tahap Sederhana ialah yang paling serius):
+- **Sederhana**: amphetamine, dextroamphetamine, lisdexamfetamine, metamfetamine, benzphetamine
+- **Ringan**: ephedrine (termasuk nasal), pseudoephedrine, antidepresan trisiklik (amitriptyline, clomipramine, desipramine, doxepin termasuk topikal, imipramine, nortriptyline, protriptyline, trimipramine), methadone, mexiletine, flecainide
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjuk Lulus |
-|------------------|------------|-----------|-------------|
-| (Tidak tersedia dalam pakej bukti — 36 pendaftaran disahkan oleh pertanyaan NPRA) | — | — | — |
+**Penyakit yang Dikaitkan dengan Kontraindikasi (daripada graf pengetahuan, bukan teks label):**
+- Kardiovaskular: hipertensi, serangan jantung mengejut, penyakit konduksi jantung, iskemia miokardium, penyakit arteri koronari, edema pulmonari
+- Buah pinggang dan hati: kegagalan hati, anuria, gangguan fungsi buah pinggang, nefrokalsinosis
+- Metabolik dan endokrin: hiperkalsemia, gangguan metabolisme fosforus, insufisiensi adrenokortikal/penyakit Addison, hipertiroidisme/penyakit Graves/tirotoksikosis
+- Neurologi dan psikiatri: epilepsi, insomnia, gangguan kebimbangan, agorafobia, gangguan obsesif-kompulsif
+- Mata: glaukoma sudut tertutup, hipertensi okular
+- Lain-lain: penyakit ulser peptik, hiperplasia prostat benigna, obstruksi leher pundi kencing, enterokolitis nekrotik
 
----
-
-## Pertimbangan Keselamatan
-
-Sila rujuk risalah pek untuk maklumat keselamatan. Data amaran, kontraindikasi, dan interaksi ubat semuanya ditandai sebagai jurang data dalam pakej bukti ini dan memerlukan pengambilan daripada risalah produk NPRA sebelum sebarang penilaian keselamatan boleh diselesaikan.
+Maklumat amaran utama dan kontraindikasi daripada sisipan pakej tidak tersedia. Sila rujuk sisipan pakej untuk maklumat keselamatan yang rasmi.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Penahanan**
+**Keputusan: Hold**
 
-**Alasan:**
-Skor ramalan TxGNN sebanyak 0.00% menunjukkan keyakinan model yang boleh diabaikan untuk arah pemindahan ini, tiada ujian klinikal berdaftar wujud, dan literatur yang diambil menangani sebatian kuaternium ammonium yang berstruktur tetapi berbeza dan bukannya ammonium chloride itu sendiri — menjadikan pakej bukti ini tidak mencukupi untuk memajukan klaim pemindahan.
+**Justifikasi:**
+- Ketiga-tiga indikasi yang disenaraikan ialah indikasi asal ubat ini, jadi ini bukan pengubahan tujuan sebenar. Skor TxGNN ialah 0.0, tiada percubaan klinikal, literatur yang ada tidak menilai ammonium chloride secara langsung (tahap bukti L5), dan ubat ini tidak dipasarkan di Malaysia.
 
-**Untuk meneruskan, perkara berikut diperlukan:**
-- **[Menyekat]** Muat turun dan analisis PDF risalah produk NPRA untuk mendapatkan petunjuk yang diluluskan, amaran, dan kontraindikasi untuk 36 produk berdaftar
-- **[Tinggi]** Ambil data MOA daripada API DrugBank (DB06767) untuk membolehkan analisis pautan mekanis
-- Lakukan carian PubMed yang disasarkan khusus untuk "ammonium chloride" DAN "pharyngitis" atau "upper respiratory tract infection" untuk mengenal pasti sebarang literatur klinikal langsung yang tidak ditangkap dalam pakej ini
-- Jelaskan sama ada skor TxGNN sebanyak 0.00% mencerminkan ramalan keyakinan rendah yang tulen atau isu saluran paip teknikal (cth: penyisipan nod yang hilang untuk ubat ini)
-- Tinjau sama ada mana-mana daripada 36 produk berdaftar Malaysia sudah membawa petunjuk saluran pernafasan atas atau batuk/selsema, yang akan mengklasifikasikan semula ini sebagai skenario pelanjutan label dan bukannya pemindahan
-
+**Untuk meneruskan, yang berikut diperlukan:**
+- Sisipan pakej NPRA (amaran dan kontraindikasi), kerana ketiadaannya menyekat saringan keselamatan
+- Data mekanisme tindakan (MOA) daripada DrugBank
+- Bukti klinikal sebenar (percubaan terkawal) bagi ammonium chloride dalam faringitis, selesema biasa atau nasofaringitis
+- Penjelasan status pendaftaran dan sebab ubat ini tidak dipasarkan di Malaysia
+- Penilaian keserasian laluan pentadbiran dan bentuk dos
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -2,7 +2,7 @@
 layout: default
 title: Omidenepag Isopropyl
 parent: Low Evidence (L4-L5)
-nav_order: 521
+nav_order: 546
 evidence_level: L5
 indication_count: 7
 ---
@@ -29,63 +29,75 @@ Tahap bukti: **L5** | Indikasi diramal: **7**
 
 </div>
 
-# Omidenepag Isopropyl: Daripada Hipertensi Okular/Glaukoma kepada Pankreatitis
+# Omidenepag Isopropil: Daripada Hipertensi Okular/Glaukoma kepada Pankreatitis
 
 ## Ringkasan Satu Ayat
 
-Omidenepag isopropyl ialah agonis reseptor EP2 (subtype 2 reseptor prostaglandin E2) selektif yang digunakan sebagai ejen oftalmik topikal untuk glaukoma dan hipertensi okular. Model TxGNN meramalkan ia mungkin berkesan untuk **pankreatitis**, tetapi ramalan ini kini disokong oleh **0 ujian klinis** dan **0 penerbitan** — ia bergantung sepenuhnya pada persamaan graf pengetahuan tanpa bukti mekanistik atau klinis di belakangnya.
+Omidenepag isopropil ialah prodrug agonis reseptor EP2 selektif yang pada asalnya digunakan untuk merawat hipertensi okular dan glaukoma.
+Model TxGNN meramalkan ia mungkin berkesan untuk **pankreatitis**,
+tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong arah ini; ramalan ini hanya berasaskan model.
 
-## Gambaran Keseluruhan Ringkas
+---
+
+## Gambaran Keseluruhan Pantas
 
 | Item | Kandungan |
-|------|----------|
-| Petunjuk Asal | Glaukoma / Hipertensi Okular (mengikut nota rasional terbenam; tidak disahkan dalam teks licens NPRA — medan petunjuk licens kosong) |
-| Petunjuk Baru Diramalkan | Pankreatitis |
+|------|------|
+| Indikasi Asal | Hipertensi okular, glaukoma |
+| Indikasi Baharu yang Diramalkan | Pankreatitis |
 | Skor Ramalan TxGNN | 99.76% |
-| Tahap Bukti | L5 (ramalan model sahaja, tiada ujian percubaan atau literatur sokongan) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 2 |
-| Keputusan yang Disyorkan | Tahan |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Omidenepag isopropyl bertindak sebagai agonis reseptor EP2 selektif: pengaktifan meningkatkan cAMP intraseluler, melonggarkan otot silier dan jalinan trabekular untuk meningkatkan aliran keluar humor akueus. Ini adalah mekanisme yang diterima di sebalik penggunaan terlulusnya dalam glaukoma dan hipertensi okular.
+Omidenepag isopropil ialah prodrug. Metabolit aktifnya, omidenepag, ialah agonis reseptor EP2 selektif yang meningkatkan cAMP. Data terperinci mengenai mekanisme tindakan asal tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
 
-Kaitan dengan pankreatitis adalah spekulatif. Isyarat EP2 melalui paksi PGE2-EP2-cAMP telah dilaporkan mengubah tindak balas radang dalam beberapa tisu, tetapi arah kesan itu (pro- lawan anti-radang) berbeza mengikut tisu dan konteks, dan tiada data khusus pankreas menyokong peranan di sini. Sebagai tambahan, omidenepag isopropyl ditadbir sebagai titisan mata topikal dengan pendedahan sistemik yang sangat rendah, yang memperlemahkan lagi sebarang ekstrapolasi yang munasabah kepada kesan organ visceral/sistemik.
+Tiada hubungan mekanistik langsung antara agonis EP2 dengan pankreatitis ditunjukkan dalam data yang ada. Satu hipotesis spekulatif ialah modulasi keradangan melalui EP2/cAMP, tetapi ini tidak disokong oleh bukti dalam data ini. Skor TxGNN yang tinggi (0.998) ialah ramalan pengiraan sahaja dan mungkin mencerminkan artifak rangkaian pengetahuan dan bukannya biologi sebenar. Persamaan dengan indikasi asal masih belum dinilai.
 
-Ringkasnya: ini adalah kes di mana persamaan penyisipan TxGNN menangkap isyarat yang jauh dan tidak terbukti daripada hubungan yang berasaskan mekanistik. Pakej bukti itu sendiri menandai ramalan ini sebagai "semata-mata inferens persamaan graf pengetahuan, tanpa bukti mekanistik."
+Ubat ini juga diberikan secara titisan mata topikal dengan pendedahan sistemik yang terhad, sehingga kesan terhadap pankreas tidak mudah dijangka.
 
-## Bukti Ujian Klinis
+Ramalan lain dalam kedudukan teratas (skor 0.99–0.998), semuanya pada tahap bukti L5 dan tanpa percubaan atau literatur, ialah: hiperfosfatemia, varises esofagus (dengan dan tanpa pendarahan), blefarospasme, miopati visceral familial, dan kardiomiopati alkohol. Tiada satu pun mempunyai hubungan mekanistik yang kukuh dalam data yang ada.
 
-Kini tiada ujian klinis berkaitan terdaftar.
+---
+
+## Bukti Percubaan Klinikal
+
+Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
+
+---
 
 ## Bukti Literatur
 
-Kini tiada literatur berkaitan tersedia.
+Pada masa ini tiada literatur berkaitan tersedia.
 
-## Maklumat Pasaran Malaysia
-
-Rekod NPRA mengesahkan ubat ini dipasarkan di Malaysia dengan **2 pendaftaran aktif**, tetapi pakej bukti tidak merangkumi medan peringkat produk yang diisi (nombor pendaftaran, nama produk, bentuk dos, atau teks petunjuk yang diluluskan) untuk lesen ini — data ini perlu ditarik terus daripada daftar NPRA sebelum ia boleh dilaporkan.
+---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk risalah pengguna untuk maklumat keselamatan.
+Sila rujuk risalah maklumat produk untuk maklumat keselamatan.
 
-*(Nota: data label keselamatan — amaran utama dan kontraindikasi — ditandakan sebagai jurang data **Penyekat** dalam pakej bukti ini (DG001), bermakna ia belum lagi tersedia dan menghalang calon ini daripada meneruskan ke peringkat semakan keselamatan S1.)*
+Tiada data interaksi ubat ditemui untuk ubat ini dalam data yang dikumpulkan.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
 **Rasional:**
-Ramalan pankreatitis ialah bukti L5 — skor model TxGNN tanpa ujian klinis, tanpa literatur, dan tiada laluan mekanistik langsung yang munasabah. Secara bebas, jurang data yang menyekat pada amaran/kontraindikasi label TFDA/NPRA bermakna calon tidak dapat memasuki penapisan keselamatan formal walaupun pada tahap S1.
+- Ramalan ini hanya berasaskan model (L5) tanpa percubaan klinikal, literatur, atau hubungan mekanistik yang jelas. Ubat ini juga belum didaftarkan di Malaysia.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Risalah pengguna TFDA/NPRA (amaran, kontraindikasi) — menyelesaikan jurang penyekat DG001
-- Petunjuk asal yang disahkan dan dokumentasi MOA bersumber DrugBank (kini dibina semula hanya daripada teks rasional terbenam, bukan sumber utama)
-- Kajian praklinis atau mekanistik yang menetapkan laluan radang EP2–pankreas sebelum mana-mana pengumpulan bukti klinis wajar
-- Butiran pendaftaran Malaysia (nama produk, bentuk dos, teks petunjuk yang diluluskan) untuk 2 lesen NPRA yang sedia ada
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) terperinci daripada DrugBank
+- Amaran dan kontraindikasi daripada risalah maklumat produk NPRA (jurang data yang menghalang penilaian keselamatan)
+- Kajian praklinikal atau semakan literatur untuk menilai peranan EP2/cAMP dalam pankreatitis
+- Penilaian kesesuaian laluan pentadbiran (titisan mata topikal berbanding laluan sistemik yang mungkin diperlukan)
+- Penilaian sama ada ubat ini akan didaftarkan atau diperoleh di Malaysia
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Clonazepam
-parent: Low Evidence (L4-L5)
-nav_order: 231
-evidence_level: L5
+parent: Medium Evidence (L3)
+nav_order: 236
+evidence_level: L3
 indication_count: 3
 ---
 
 # Clonazepam
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **3** 
+Tahap bukti: **L3** | Indikasi diramal: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,80 +29,106 @@ Tahap bukti: **L5** | Indikasi diramal: **3**
 
 </div>
 
-# Klonazepam: Menuju Indikasi Baru dalam Sindrom Kaki Gelisah
-
-> Teks indikasi yang diluluskan secara asal tidak tersedia dalam paket bukti ini (rekod lesen TFDA/NPRA wujud tetapi medan indikasi tidak dirakam), jadi tajuk mengikuti format "menuju indikasi baru" daripada standar "Dari X ke Y."
+# Clonazepam: Daripada Epilepsi kepada Sindrom Kaki Resah (Restless Legs Syndrome)
 
 ## Ringkasan Satu Ayat
 
-Klonazepam ialah benzodiasepin yang dipasarkan (4 pendaftaran, sedang berada di pasaran) yang indikasi asal yang diluluskan tidak dirakam dalam dataset ini. Model TxGNN meramalkan bahawa ia mungkin berkesan untuk **Sindrom Kaki Gelisah (SKG)**, dengan skor ramalan **99.65%**, tetapi paket bukti ini pada masa ini mengandungi **tiada ujian klinis dan tiada literatur** yang secara khusus menyokong penggunaan semula ini — rasionalnya berdasarkan farmakologi kelas ubat yang diketahui dan amalan klinis luar label yang sedia ada daripada kajian yang disahkan dataset.
+Clonazepam ialah ubat golongan benzodiazepin yang pada asalnya digunakan untuk merawat pelbagai bentuk epilepsi (seperti epilepsi absens dan sindrom Lennox-Gastaut) serta gangguan kebimbangan.
+Model TxGNN meramalkan ia mungkin berkesan untuk **Sindrom Kaki Resah (restless legs syndrome)**,
+tetapi setakat ini **tiada ujian klinikal berdaftar**, dan sokongan hanya datang daripada **20 penerbitan** (termasuk satu kajian sistematik Cochrane dan satu garis panduan klinikal).
 
 ---
 
-## Gambaran Keseluruhan Cepat
+## Gambaran Keseluruhan Pantas
 
 | Item | Kandungan |
-|------|-----------|
-| Indikasi Asal | Tidak tersedia dalam dataset semasa (celah data) |
-| Indikasi Baru yang Diramalkan | Sindrom Kaki Gelisah |
+|------|------|
+| Indikasi Asal | Early myoclonic encephalopathy, epilepsi absens, sindrom Lennox-Gastaut, gangguan kebimbangan (berdasarkan graf pengetahuan PrimeKG) |
+| Indikasi Baharu yang Diramalkan | Sindrom kaki resah (restless legs syndrome) |
 | Skor Ramalan TxGNN | 99.65% |
-| Tahap Bukti | L4 (mekanisme/amalan klinis yang diketahui, tiada ujian atau literatur yang disahkan dataset) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 4 |
-| Keputusan yang Disyorkan | Tahan |
+| Tahap Bukti | L3 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan yang Disyorkan | Hold (soalan penyelidikan; perlukan data tambahan) |
 
 ---
 
-## Mengapa Ramalan Ini Masuk Akal?
+## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci DrugBank untuk klonazepam ditandai sebagai celah data dalam paket bukti ini. Walau bagaimanapun, rasional penggunaan semula model sendiri mengenalpasti klonazepam sebagai **pemodulator alostrik positif reseptor GABA-A** (kelas benzodiasepin), yang menekan kesergaman berlebihan dalam litar sensorimotor.
+Clonazepam ialah benzodiazepin yang meningkatkan perencatan melalui reseptor GABA-A. Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia pada masa ini; mekanisme di sini disimpulkan daripada golongan ubat tersebut. Peningkatan perencatan GABA boleh mengurangkan kerangsangan berlebihan deria-motor dan pemecahan tidur yang berkaitan dengan sindrom kaki resah serta pergerakan anggota berkala semasa tidur.
 
-Benzodiasepin — klonazepam khususnya — sudah disenaraikan dalam beberapa panduan rawatan SKG sebagai agen tambahan garisan kedua/ketiga, biasanya dikhaskan untuk pesakit dengan tindak balas tidak mencukupi terhadap terapi dopaminergik atau dengan gangguan tidur yang ketara. Ini adalah amalan klinis luar label yang sedia ada daripada hipotesis mekanistik yang baru, yang konsisten dengan skor ramalan model yang sangat tinggi (99.65%).
-
-Walau demikian, paket bukti ini mengandungi **sifar ujian klinis dan sifar penerbitan** yang secara khusus menghubungkan klonazepam kepada SKG (semua pertanyaan ClinicalTrials.gov, ICTRP, dan PubMed mengembalikan 0 hasil). Ramalan itu harus dibaca sebagai "konsisten dengan farmakologi yang diketahui dan penggunaan luar label yang sedia ada," bukan sebagai bukti yang baru ditemui atau yang disahkan dataset.
+Kesan ini berkemungkinan bersifat simptomatik (kesinambungan tidur yang lebih baik) dan bukan mengubah perjalanan penyakit. Skor ramalan yang sangat tinggi (0.997) selari dengan sejarah penggunaan klinikal yang panjang, termasuk kajian sistematik Cochrane khusus mengenai benzodiazepin untuk sindrom kaki resah. Kajian tinjauan menyatakan kira-kira 25% pesakit sindrom kaki resah dirawat dengan benzodiazepin, dan di sesetengah negara Asia clonazepam masih lazim digunakan, walaupun agonis dopamin ialah pilihan lini pertama.
 
 ---
 
-## Bukti Ujian Klinis
+## Bukti Ujian Klinikal
 
-Pada masa ini tiada ujian klinis berkaitan yang didaftarkan.
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
-Pada masa ini tiada literatur berkaitan yang tersedia.
+| PMID | Tahun | Jenis | Jurnal | Dapatan Utama |
+|------|-----|------|------|---------|
+| [39324694](https://pubmed.ncbi.nlm.nih.gov/39324694/) | 2025 | Garis panduan | J Clin Sleep Med | Garis panduan American Academy of Sleep Medicine untuk rawatan RLS dan gangguan pergerakan anggota berkala (PLMD) |
+| [28319266](https://pubmed.ncbi.nlm.nih.gov/28319266/) | 2017 | Kajian sistematik | Cochrane Database Syst Rev | Menilai benzodiazepin (terutamanya clonazepam) untuk RLS |
+| [36692194](https://pubmed.ncbi.nlm.nih.gov/36692194/) | 2023 | Kajian sistematik dan meta-analisis | J Clin Sleep Med | Respons farmakologi pergerakan anggota berkala semasa tidur pada pesakit RLS |
+| [38708125](https://pubmed.ncbi.nlm.nih.gov/38708125/) | 2024 | Tinjauan | Tremor Other Hyperkinet Mov | Tinjauan sejarah peranan benzodiazepin termasuk clonazepam dalam RLS dan PLMS (17 artikel mengenai clonazepam) |
+| [18925578](https://pubmed.ncbi.nlm.nih.gov/18925578/) | 2008 | Tinjauan | Mov Disord | Tinjauan berasaskan bukti oleh pasukan petugas Movement Disorder Society mengenai rawatan RLS |
+| [6380197](https://pubmed.ncbi.nlm.nih.gov/6380197/) | 1984 | Kajian klinikal (RCT silang buta-ganda, 6 pesakit) | Acta Neurol Scand | Clonazepam memperbaiki kualiti tidur subjektif dan disestesia kaki berbanding plasebo; kesan jangka panjang perlu disahkan |
+| [11313161](https://pubmed.ncbi.nlm.nih.gov/11313161/) | 2001 | Kajian makmal tidur terkawal plasebo | Eur Neuropsychopharmacol | Kesan akut clonazepam 1 mg terhadap kualiti tidur dan bangun pada RLS/PLMD |
+| [39787099](https://pubmed.ncbi.nlm.nih.gov/39787099/) | 2025 | Kajian klinikal | Sleep | Membandingkan kesan agonis dopamin dan clonazepam terhadap pergerakan kumpulan otot besar semasa tidur dalam RLS |
+| [20156514](https://pubmed.ncbi.nlm.nih.gov/20156514/) | 2010 | Kajian klinikal | Prog Neuropsychopharmacol Biol Psychiatry | Cadangan dos setara antara clonazepam dan pramipexole pada pesakit RLS |
+| [17876423](https://pubmed.ncbi.nlm.nih.gov/17876423/) | 2007 | Konsensus pakar | Arq Neuropsiquiatr | Pendapat pakar Brazil mengenai diagnosis dan rawatan RLS |
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Klonazepam dipasarkan di Malaysia dengan **4 pendaftaran aktif**, tetapi medan tahap lesen (nombor pendaftaran, nama produk, bentuk dos, teks indikasi yang diluluskan) tidak diisi dalam paket bukti ini, jadi jadual bagi setiap produk tidak dapat dihasilkan tanpa memanipulasi data.
+Clonazepam pada masa ini tidak mempunyai produk berdaftar yang dikenal pasti dalam data yang dikumpulkan (jumlah pendaftaran: 0).
+
+---
+
+## Kecytotoksikan
+
+Bahagian ini tidak berkenaan kerana clonazepam bukan ubat antineoplastik.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk kepada risalah paket untuk maklumat keselamatan.
+**Keadaan penyakit yang dikaitkan dengan kontraindikasi dalam graf pengetahuan (bukan teks label produk):**
+kegagalan hati dan penyakit hati, penyakit buah pinggang, porfiria, glaukoma sudut tertutup dan sudut terbuka, sindrom apnea tidur (termasuk apnea tidur obstruktif), kegagalan pernafasan, sindrom hipoventilasi pusat kongenital, serta gangguan berkaitan penyalahgunaan/kebergantungan bahan.
 
-**⚠ Nota:** Amaran risalah paket/kontraindikasi (DG001) ditandai sebagai celah data **Sekatan** dalam paket bukti ini — ini secara khusus menghalang kes daripada memasuki peringkat pra-penilaian keselamatan S1. Celah ini mesti ditutup sebelum penilaian lanjutan.
+**Interaksi ubat** (100 interaksi dikesan; contoh utama):
+- **Major**: Morfin (termasuk morfin liposomal), kerana risiko tekanan sistem saraf pusat dan pernafasan yang bertambah.
+- **Moderate**: Bupropion, aprepitant, omeprazol, cimetidine, clarithromycin, dronabinol, nabilone, metoclopramide, opium, sibutramine, teduglutide.
+- **Minor**: Antasid seperti magnesium oksida, aluminium hidroksida, kalsium karbonat, magaldrate, magnesium karbonat dan magnesium hidroksida.
+
+Penggunaan jangka panjang benzodiazepin juga menimbulkan kebimbangan kesihatan awam (kebergantungan), seperti dibincangkan dalam kajian kohort Taiwan (PMID 41690188). Sila rujuk sisipan pembungkusan produk untuk maklumat amaran dan kontraindikasi yang lengkap.
 
 ---
 
-## Kesimpulan dan Langkah Berikutnya
+## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
 **Rasional:**
-- Ramalan SKG secara biologi adalah munasabah dan selaras dengan penggunaan luar label yang diketahui, tetapi didukung hanya oleh penalaran mekanis — tiada ujian klinis atau literatur dalam dataset ini yang mengesahkannya, dan data keselamatan risalah paket TFDA/NPRA (amaran, kontraindikasi) hilang dan memblokir (DG001), jadi pra-penilaian keselamatan S1 tidak dapat diselesaikan pada masa ini.
+- Mekanisme munasabah dan terdapat sejarah penggunaan klinikal serta kajian sistematik Cochrane dan garis panduan, namun bukti terkawal yang sedia ada kecil (contohnya RCT 6 pesakit), tiada ujian klinikal berdaftar, dan ubat ini tidak dipasarkan di Malaysia. Agonis dopamin kekal sebagai pilihan lini pertama, jadi ramalan ini lebih sesuai sebagai soalan penyelidikan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Dapatkan PDF risalah paket TFDA/NPRA dan ekstrak amaran/kontraindikasi (menyelesaikan DG001, memblokir)
-- Pertanyakan DrugBank untuk data mekanisme tindakan yang disahkan (menyelesaikan DG002)
-- Isi medan tahap lesen (nombor pendaftaran, teks indikasi yang diluluskan, bentuk dos) untuk 4 pendaftaran Malaysia
-- Carian literatur/ujian sasaran menggunakan sinonim khusus SKG (contohnya, "penyakit Willis-Ekbom") jika istilah standard kurang mengira bukti yang sedia ada
-- **Nota QA:** Indikasi yang diramalkan ketiga dalam paket ini, *neoplasma saraf trigeminal* (pangkat 3, skor 99.30%), ditandai oleh rasional itu sendiri sebagai kemungkinan kekeliruan embedding graf pengetahuan dengan *neuralgia trigeminal* — syorkan semakan pemetaan KG manual sebelum calon ini digunakan untuk sebarang keputusan hiliran.
+- Sisipan pembungkusan dan data amaran/kontraindikasi daripada NPRA (jurang data yang menghalang saringan keselamatan).
+- Data mekanisme tindakan terperinci daripada DrugBank.
+- Penilaian semula Cochrane dan garis panduan AASM untuk menentukan kedudukan clonazepam berbanding rawatan lain, serta ujian terkawal moden dengan tindak balas jangka panjang.
+- Pelan pemantauan keselamatan (kebergantungan, tekanan pernafasan, penggunaan dengan opioid) dan pertimbangan status pendaftaran tempatan.
 
+---
+
+### Nota Tambahan mengenai Ramalan Lain
+
+- **Insomnia (skor 99.32%, tahap bukti L4):** Mekanisme sedatif-hipnotik melalui GABA-A munasabah, tetapi literatur yang ada bersifat tidak langsung (tinjauan gangguan tidur dalam penyakit Parkinson, farmakologi anksiolitik umum, kajian keratan rentas) dan tiada data berkesan terkawal untuk insomnia primer. Status: soalan penyelidikan.
+- **Neoplasma saraf trigeminal (skor 99.30%, tahap bukti L5):** Tiada hubungan mekanisme yang dipercayai dan tiada aktiviti antitumor yang diketahui; skor tinggi mungkin mencerminkan kedekatan dalam graf pengetahuan. Keputusan: Hold.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

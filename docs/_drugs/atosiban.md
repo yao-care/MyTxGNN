@@ -2,7 +2,7 @@
 layout: default
 title: Atosiban
 parent: Low Evidence (L4-L5)
-nav_order: 101
+nav_order: 105
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,91 +29,108 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Atosiban: Dari Persalinan Praterm ke Glaukoma Herediter Primer
+# Atosiban: Daripada Penggunaan Tokolitik kepada Glaukoma Keturunan Primer
 
-## Ringkasan Satu Kalimat
+## Ringkasan Satu Ayat
 
-Atosiban adalah penghambat reseptor oksitosin yang terdaftar di Malaysia sebagai agen tokolitis untuk menghambat persalinan praterm. Model TxGNN menempatkan **Glaukoma Herediter Primer** sebagai indikasi baru yang diprediksi teratas, dengan skor prediksi 99.92%. Namun, prediksi ini didukung oleh **tidak ada uji klinis dan tidak ada literatur yang dipublikasikan**, dan mekanisme yang diusulkan berlawanan arah dengan tujuan terapeutik.
-
----
-
-## Tinjauan Cepat
-
-| Item | Konten |
-|------|--------|
-| Indikasi Asli | Penghambatan persalinan praterm (tokolisis) |
-| Indikasi Baru yang Diprediksi | Glaukoma Herediter Primer |
-| Skor Prediksi TxGNN | 99.92% |
-| Tingkat Bukti | L5 |
-| Status Pasar Malaysia | ✓ Dipasarkan |
-| Jumlah Pendaftaran | 2 |
-| Keputusan yang Direkomendasikan | Tahan |
+Atosiban ialah antagonis reseptor oksitosin/vasopresin (V1A) yang digunakan sebagai agen tokolitik untuk melambatkan kelahiran pramatang pada wanita hamil berusia kandungan 24 hingga 33 minggu.
+Model TxGNN meramalkan ia mungkin berkesan untuk **glaukoma keturunan primer**,
+tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong arah ini; ramalan ini hanya berasaskan model graf.
 
 ---
 
-## Mengapa Prediksi Ini Masuk Akal?
+## Gambaran Ringkas
 
-Atosiban adalah penghambat kompetitif reseptor oksitosin (OT) dan reseptor V1b vasopresin. Secara klinis, ia menekan kontraksi uterus dengan memblokir reseptor OT di miometrium, menjadikannya pilihan farmakologi standar untuk persalinan praterm yang terancam. Data mekanisme aksi terperinci dari DrugBank tidak diambil dalam paket bukti ini (DrugBank ID tidak tersedia), namun kelas farmakologinya sudah mapan dalam praktik klinis.
-
-Prediksi TxGNN untuk glaukoma herediter primer kemungkinan besar berasal dari kehadiran reseptor OT yang diketahui di jala trabekula mata anterior. Beberapa penelitian dasar menyarankan bahwa OT endogen dapat memfasilitasi aliran humor akuos, berpotensi berkontribusi pada regulasi tekanan intraokular (IOP). Glaukoma herediter primer — didorong oleh mutasi pada gen seperti MYOC dan CYP1B1 — melibatkan kerusakan saraf optik progresif yang disebabkan oleh IOP yang kronis meningkat.
-
-**Namun, kontradiksi mekanistik yang kritis melemahkan prediksi ini.** Atosiban *memblokir* pensinyalan OT/OTR, yang secara teoretis akan *mengganggu* aliran keluar akuos dan *meningkatkan* IOP — kebalikan dari yang dibutuhkan pengobatan glaukoma. Lebih lanjut, glaukoma herediter adalah penyakit monogenik yang didorong struktur tanpa hubungan langsung yang terbentuk dengan jalur pensinyalan OT. Prediksi ini kemungkinan besar mencerminkan artefak kedekatan grafik dalam grafik pengetahuan TxGNN (simpul jaringan OTR bersama), bukan peluang terapeutik yang nyata.
+| Item | Kandungan |
+|------|------|
+| Indikasi Asal | Tiada data indikasi berdaftar tempatan; penggunaan klinikal dirujuk sebagai agen tokolitik (kelahiran pramatang) |
+| Indikasi Baharu yang Diramalkan | Glaukoma keturunan primer |
+| Skor Ramalan TxGNN | 99.92% |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
-## Bukti Uji Klinis
+## Mengapa Ramalan Ini Munasabah?
 
-Saat ini tidak ada uji klinis terkait yang terdaftar untuk Atosiban dalam glaukoma herediter primer.
+Butiran mekanisme tindakan terperinci tidak tersedia pada masa ini. Berdasarkan maklumat sedia ada, atosiban ialah peptida yang berinteraksi dengan reseptor oksitosin (OXTR) serta reseptor vasopresin V1A, V1B dan V2. Kegunaan klinikalnya sebagai tokolitik telah diluluskan oleh EMA dan beberapa agensi kebangsaan lain, walaupun tidak diluluskan oleh FDA AS.
+
+Tiada hubungan mantap antara tindakan ini dengan aliran keluar aqueous melalui trabecular meshwork atau pengawalaturan tekanan intraokular yang disokong oleh data yang dikumpulkan. Skor TxGNN yang tinggi (0.999) merupakan ramalan berasaskan graf semata-mata, dan sebarang hubungan, contohnya kesan reseptor vasopresin/oksitosin terhadap hemodinamik mata, bersifat spekulatif.
+
+Oleh itu, ramalan ini patut dianggap sebagai hipotesis penyelidikan awal dan bukan cadangan yang sudah mempunyai asas biologi yang jelas.
+
+---
+
+## Bukti Percubaan Klinikal
+
+Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
-Saat ini tidak ada literatur terkait yang tersedia untuk Atosiban dalam glaukoma herediter primer.
+Pada masa ini tiada literatur berkaitan tersedia untuk glaukoma keturunan primer.
 
 ---
 
-## Informasi Pasar Malaysia
+## Ramalan Indikasi Lain yang Turut Dinilai
 
-Atosiban memiliki **2 pendaftaran** di Malaysia dengan status pasar saat ini **Dipasarkan**. Detail pendaftaran — termasuk nomor otorisasi, nama produk, bentuk dosis, dan teks indikasi yang disetujui — tidak diambil dalam paket data ini. Ini harus diverifikasi langsung melalui basis data Badan Regulasi Farmasi Nasional (NPRA) sebelum penilaian regulasi lebih lanjut.
+Data yang dikumpulkan turut merangkumi sembilan ramalan lain. Semuanya ditahap L5 (ramalan model sahaja), kecuali penyakit vaskular (L4).
+
+| Kedudukan | Indikasi Diramalkan | Skor TxGNN | Tahap Bukti | Syor |
+|------|------|------|------|------|
+| 2 | Glaukoma sudut terbuka | 99.92% | L5 | Hold |
+| 3 | Hipotrikosis milia kongenital | 99.89% | L5 | Hold |
+| 4 | Alopesia | 99.89% | L5 | Hold |
+| 5 | Hipotrikosis simpleks kulit kepala | 99.89% | L5 | Hold |
+| 6 | Penyakit vaskular | 99.87% | L4 | Persoalan Penyelidikan |
+| 7 | Alopesia areata meresap | 99.86% | L5 | Hold |
+| 8 | Sindrom saluran toraks vena | 99.86% | L5 | Hold |
+| 9 | Sindrom saluran toraks arteri | 99.86% | L5 | Hold |
+| 10 | Kalsifilaksis viseral | 99.84% | L5 | Hold |
+
+**Catatan mengenai penyakit vaskular (kedudukan 6):** Literatur yang diperoleh terdiri daripada 15 penerbitan, kebanyakannya kajian praklinikal pada model jantung tikus terpencil tentang perlindungan jantung yang dimediasi oksitosin (laluan RISK/SAFE, ANP, iNOS, saluran KATP mitokondria). Kajian ini melibatkan agonisme reseptor oksitosin, iaitu arah bertentangan dengan antagonisme atosiban, jadi ia hanya mencadangkan peranan yang mungkin tetapi belum terbukti bagi modulasi reseptor oksitosin/vasopresin dalam tisu vaskular. Satu kajian kohort (PMID [30646165](https://pubmed.ncbi.nlm.nih.gov/30646165/), 2018, JAMA Network Open) melaporkan perkaitan pendedahan tokolitik dengan pendarahan intraventrikel dan kematian pada bayi pramatang, iaitu isyarat keselamatan dan bukan manfaat terapeutik. Tiada satu pun membuktikan keberkesanan dalam penyakit vaskular manusia.
+
+Bagi indikasi lain, skor yang sama bagi sindrom saluran toraks vena dan arteri menunjukkan kemungkinan artifak kejiranan graf, bukan sokongan biologi bebas. Skor tinggi bagi gangguan rambut dan alopesia juga lebih mungkin mencerminkan kedekatan graf berbanding biologi.
+
+---
+
+## Maklumat Pasaran Malaysia
+
+Atosiban pada masa ini tidak dipasarkan di Malaysia dan tiada lesen berdaftar.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Silakan lihat sisipan kemasan untuk informasi keselamatan.
+Maklumat amaran utama dan kontraindikasi daripada sisipan pakej tidak tersedia. Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-> ⚠️ **Catatan:** Baik peringatan kunci maupun kontraindikasi saat ini ditandai sebagai celah data level pemblokiran dalam paket bukti ini. Pengambilan sisipan kemasan NPRA/TFDA diperlukan sebelum penilaian keselamatan apa pun dapat dilanjutkan.
+Data farmakologi yang dikumpulkan menunjukkan atosiban berinteraksi dengan empat sasaran reseptor manusia:
+- **Reseptor V1A** (gen AVPR1A)
+- **Reseptor V1B** (gen AVPR1B)
+- **Reseptor V2** (gen AVPR2)
+- **Reseptor oksitosin** (gen OXTR)
+
+Ini ialah interaksi farmakologi sasaran dan bukan interaksi dadah-dadah yang bertahap klinikal. Selain itu, kajian kohort yang disebut di atas melaporkan perkaitan pendedahan tokolitik dengan pendarahan intraventrikel dan kematian pada bayi pramatang; ini perlu dipertimbangkan dalam sebarang penilaian keselamatan.
 
 ---
 
-## Kesimpulan dan Langkah Selanjutnya
+## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
-**Alasan:**
-Bukti untuk indikasi ini berada pada L5 (prediksi model saja), tanpa uji klinis pendukung atau literatur peer-review. Lebih kritis, mekanisme inti Atosiban — *antagonisme* reseptor OT — berlawanan arah dengan tujuan terapeutik dalam glaukoma herediter primer, di mana *agonis* OT akan diperlukan untuk mempromosikan aliran akuos keluar dan mengurangi IOP. Kontradiksi mekanistik yang sama ini diidentifikasi di seluruh **semua 10 indikasi teratas yang diprediksi** yang ditinjau dalam paket ini:
+**Rasional:**
+- Ramalan glaukoma keturunan primer hanya berasaskan model graf (L5), tanpa sebarang percubaan klinikal atau literatur, dan tiada hubungan mekanistik yang disokong oleh data. Ubat ini juga tidak dipasarkan di Malaysia.
 
-| Indikasi | Kontradiksi |
-|---|---|
-| Glaukoma herediter primer | OT memblokir aliran keluar → meningkatkan IOP |
-| Glaukoma sudut terbuka | Sama seperti di atas |
-| Alopecia / Varian hipotrikosis | OT mempromosikan siklus pertumbuhan folikel rambut; antagonis mungkin memperburuk |
-| Alopecia areata yang tersebar | OT memiliki peran anti-inflamasi/imunomodulator; antagonis tidak produktif |
-| Penyakit vaskular | Semua 17 makalah literatur yang diambil mendokumentasikan kardioproteksi *agonis* OT; Atosiban memblokir jalur ini |
-| Sindrom outlet toraks (vena/arteri) | Penyakit anatomis/struktural; tidak ada relevansi jalur OT |
-| Kalsifiaksi vaskular | Penyakit kalsium-fosfat vaskular; tidak ada relevansi jalur OT |
-
-Uji klinis tunggal yang diambil (NCT03570294, terkait dengan sindrom outlet toraks vena) dengan benar diidentifikasi sebagai kesalahan pemetaan data — ini adalah studi keselamatan tokolisis Atosiban tanpa relevansi dengan indikasi yang terdaftar.
-
-**Untuk melanjutkan, berikut yang diperlukan:**
-
-- Ambil detail pendaftaran NPRA untuk Atosiban (nomor otorisasi, nama produk, bentuk dosis, dan indikasi yang disetujui) dari basis data NPRA
-- Dapatkan profil mekanisme aksi lengkap dan keselamatan dari DrugBank (DrugBank ID saat ini tidak tersedia)
-- Unduh dan analisis sisipan kemasan TFDA/NPRA untuk mengatasi celah data level pemblokiran keselamatan (peringatan dan kontraindikasi)
-- Lakukan pencarian literatur yang didorong hipotesis secara khusus menyelidiki apakah *antagonisme* reseptor OT — bukan agonis — dapat memiliki efek penurun IOP atau neuroprotektif dalam model glaukoma
-- Pertimbangkan untuk mengevaluasi *agonis* OT (bukan Atosiban) sebagai kandidat repurposing yang lebih rasional secara mekanistik untuk indikasi glaukoma, kardioproteksi, atau alopecia, di mana basis bukti yang ada menunjuk ke arah itu
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisipan pakej dan data amaran/kontraindikasi (jurang yang menghalang saringan keselamatan)
+- Data mekanisme tindakan terperinci (contohnya daripada DrugBank)
+- Kajian praklinikal untuk menguji sama ada antagonisme reseptor oksitosin/vasopresin mempengaruhi tekanan intraokular atau aliran keluar aqueous
+- Kajian literatur sasaran tentang reseptor oksitosin/vasopresin dalam fisiologi mata
+- Penilaian kesesuaian laluan pentadbiran (atosiban ialah peptida, dan laluan untuk indikasi mata belum dinilai)
+- Penentuan status pendaftaran dan ketersediaan produk di Malaysia
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

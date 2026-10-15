@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Ascorbic Acid
-parent: High Evidence (L1-L2)
-nav_order: 91
-evidence_level: L2
+parent: Low Evidence (L4-L5)
+nav_order: 95
+evidence_level: L4
 indication_count: 10
 ---
 
 # Ascorbic Acid
 {: .fs-9 }
 
-Tahap bukti: **L2** | Indikasi diramal: **10** 
+Tahap bukti: **L4** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,105 +29,97 @@ Tahap bukti: **L2** | Indikasi diramal: **10**
 
 </div>
 
-# Asid Askorbik: Dari Kekurangan Vitamin C hingga Pengurusan Kecederaan Akut
+# Asid Askorbik: Daripada Kekurangan Vitamin C kepada Penyakit Esofagus
 
 ## Ringkasan Satu Ayat
 
-Asid askorbik (Vitamin C, ID DrugBank: DB00126) adalah mikronutrien penting yang secara klasik digunakan untuk mencegah dan merawat kekurangan vitamin C dan scurvy. Model TxGNN mengenal pasti 10 petunjuk baru merentas tahap bukti L1–L5; dalam kalangan calon ubat ulang guna yang tulen, bukti baru terkuat menyokong peranannya dalam **pengurusan kecederaan akut** — termasuk luka bakar, kecederaan paru-paru akut berkaitan transfusi (TRALI), dan disfungsi organ yang diinduksi sepsis — disokong oleh **pelbagai percubaan klinikal Fasa 2/3 yang telah siap** dan **20+ penerbitan**. Model ini juga mengesahkan kegunaannya yang telah ditubuhkan dalam gangguan kekurangan vitamin (bukti L1, Teruskan dengan Pengawalseliaan), walaupun ini mewakili petunjuk tradisionalnya bukan petunjuk baru.
+Asid askorbik (vitamin C) pada asalnya digunakan untuk merawat kekurangan asid askorbik dan skurvi.
+Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit esofagus**, dengan skor ramalan yang tinggi.
+Namun, setakat ini **tiada ujian klinikal didaftarkan** dan hanya terdapat **20 penerbitan** yang bersifat tidak langsung (kebanyakannya kajian ulasan, kajian haiwan dan kajian in vitro), malah satu kajian tikus menunjukkan isyarat keselamatan yang berpotensi.
 
 ---
 
-## Gambaran Keseluruhan Cepat
+## Gambaran Keseluruhan Ringkas
 
-| Item | Kandungan |
-|------|-----------|
-| Petunjuk Asal | Kekurangan Vitamin C (scurvy); supplementasi pemakanan umum |
-| Petunjuk Baru yang Diprakirakan | Kecederaan Akut (luka bakar, TRALI, kecederaan organ berkaitan sepsis) |
-| Skor Prakiraan TxGNN | 99.60% |
-| Tahap Bukti | L2 |
-| Status Pasaran Malaysia | ✓ Telah dipasarkan |
-| Bilangan Pendaftaran | 1,140 |
-| Keputusan yang Disyorkan | Teruskan dengan Pengawalseliaan |
-
----
-
-## Mengapa Prakiraan Ini Munasabah?
-
-Data mekanisme tindakan terperinci tidak tersedia dalam Paket Bukti semasa. Berdasarkan pengetahuan farmakologi yang telah ditubuhkan, asid askorbik ialah antioksidan kuat yang larut dalam air dan kofaktor penting untuk prolil hidroksilase dan lisil hidroksilase — enzim yang diperlukan untuk silang-sambung kolagen dan integriti vaskular. Fungsi-fungsi ini meletakkannya secara langsung pada persimpangan biologi kecederaan: pembaikan tisu, penyelesaian tekanan oksidatif, dan kestabilan mikrovaskular.
-
-Jambatan mekanik ke pengurusan kecederaan akut adalah sangat menarik untuk tiga sebab. Pertama, pesakit yang sakit kritikal dan yang mempunyai luka bakar mempamerkan penurunan mendadak dalam asid askorbik plasma dalam beberapa jam selepas permulaan kecederaan, mewujudkan keadaan kekurangan berfungsi. Kedua, asid askorbik intravena dos tinggi mengurangkan hiperkeboleh-telus mikrovaskular — pemandu utama peralihan bendalir besar-besaran yang dilihat dalam luka bakar dan sepsis — dan melumpuhkan kerosakan oksidatif dalam TRALI. Ketiga, dalam model kecederaan tulang belakang, asid askorbik mempromosikan pemulihan berfungsi melalui modulasi epigenetik yang bergantung pada enzim TET (demetilasi DNA gen berkaitan pemulihan), mekanisme yang benar-benar baru yang melampaui aktiviti antioksidan mudah.
-
-Graf pengetahuan TxGNN berkemungkinan menangkap persilangan mekanik yang padat ini antara asid askorbik, laluan ROS, kaskad keradangan, dan metabolisme kolagen. Walau bagaimanapun, kaveat kritikal mesti ditekankan: percubaan LOVIT (n=872, Fasa 3, 2022) mendapati tiada manfaat ketara dos tinggi vitamin C IV pada kematian atau disfungsi organ yang berterusan pada hari ke-28 pada pesakit ICU bersepu, dan percubaan luka bakar VICToRY (n=666, Fasa 3) telah digantung. Hasil-hasil ini menunjukkan bahawa manfaat terapeutik berkemungkinan spesifik konteks — populasi pesakit, subtipe kecederaan, dan masa pentadbiran tetap pembolehubah kritikal yang belum diselesaikan.
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Kekurangan asid askorbik; skurvi |
+| Indikasi Baharu yang Diramalkan | Penyakit esofagus (*esophageal disease*) |
+| Skor Ramalan TxGNN | 99.90% |
+| Tahap Bukti | L4 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
-## Bukti Percubaan Klinikal
+## Mengapa Ramalan Ini Munasabah?
 
-| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT04153487](https://clinicaltrials.gov/study/NCT04153487) | Fasa 2 | Siap | 40 | Asid askorbik IV pada pesakit yang sakit kritikal dengan TRALI — menilai secara langsung asid askorbik untuk kecederaan paru-paru akut berkaitan transfusi; percubaan paling relevan untuk subtipe kecederaan khusus ini |
-| [NCT03780933](https://clinicaltrials.gov/study/NCT03780933) | T/A | Siap | 40 | Vitamin C dos tinggi pada pesakit ARDS yang sakit kritikal — menilai ketidakseimbangan oksidan/antioksidan, tempat tinggal di hospital, pemisahan ventilator mekanikal, dan kadar kematian |
-| [NCT03680274](https://clinicaltrials.gov/study/NCT03680274) | Fasa 3 | Siap | 872 | Percubaan LOVIT — vitamin C IV dos tinggi vs. plasebo pada pesakit ICU bersepu; titik akhir utama (kematian atau disfungsi organ yang berterusan pada hari ke-28) tidak dipenuhi; hasil diterbitkan 2022 |
-| [NCT02873026](https://clinicaltrials.gov/study/NCT02873026) | Fasa 3 | Siap | 300 | Tambahan triamicinolone dalam pembedahan trauma mata terbuka — RCT Fasa 3 menilai pemulihan selepas kecederaan mata yang serius; vitamin C digunakan sebagai sebahagian daripada protokol pasca-kecederaan |
-| [NCT04138394](https://clinicaltrials.gov/study/NCT04138394) | Fasa 3 | Digantung | 666 | Percubaan VICToRY — vitamin C IV dos tinggi pada pesakit sakit kritikal yang terbakar parah; kini digantung, mengehadkan kesimpulan |
-| [NCT02735707](https://clinicaltrials.gov/study/NCT02735707) | Fasa 3 | Merekrut | 20,000 | REMAP-CAP — percubaan platform adaptif besar; asid askorbik adalah satu cabang eksperimental untuk pneumonia yang didapat komuniti dan kecederaan berkaitan sepsis |
-| [NCT06050668](https://clinicaltrials.gov/study/NCT06050668) | Fasa 2 | Merekrut | 60 | MEND Repair & Recover — supplementasi asas amino penting untuk pemulihan otot selepas fraktur kegetaran femoral; vitamin C disertakan |
-| [NCT02216812](https://clinicaltrials.gov/study/NCT02216812) | T/A | Siap | 134 | Vitamin C untuk mengurangkan kekakuan jari selepas fraktur jejari distal — RCT dengan pengukuran pergerakan objektif dan hasil yang dilaporkan pesakit |
-| [NCT04216459](https://clinicaltrials.gov/study/NCT04216459) | T/A | Siap | 112 | Co-supplementasi anti-radang dan anti-mikrob (termasuk vitamin C) pada pesakit ICU trauma yang berisiko tinggi sepsis |
-| [NCT01548105](https://clinicaltrials.gov/study/NCT01548105) | T/A | Siap | 96 | Penanda metabolisme kolagen dan vitamin C pada perokok dengan prolaps organ pelvis — bukti mekanik untuk peranan vitamin C dalam pembaikan kecederaan tisu ikat |
+Data terperinci mengenai mekanisme tindakan asal tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, asid askorbik ialah vitamin larut air yang berfungsi sebagai kofaktor penting untuk hidroksilasi kolagen dan sebagai antioksidan. Keberkesanannya dalam kekurangan vitamin C telah terbukti, dan secara mekanistik ia mungkin relevan kepada penyakit esofagus melalui kesan antioksidan.
+
+Asid askorbik boleh menyingkirkan spesies oksigen reaktif dan merencatkan pembentukan sebatian N-nitroso, iaitu asas kepada kajian mengenai karsinogenesis esofagus. Kajian di Linxian, China, misalnya, mendapati vitamin C merencatkan pembentukan endogen nitrosoprolin.
+
+Walau bagaimanapun, bukti yang ada bercampur-campur. Satu model tikus refluks (PMID 17953708) melaporkan karsinogenesis esofagus **meningkat** apabila asid askorbik diberikan bersama natrium nitrit. Satu kajian rawak pada pesakit yang menerima terapi penekanan asid (PMID 12207836) hanya menilai kerosakan DNA sebagai penanda pengganti, bukan hasil klinikal. Oleh itu, bukti bersifat tidak langsung, praklinikal atau epidemiologi, dan termasuk isyarat keselamatan yang berpotensi.
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Ujian Klinikal
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+Buat masa ini tiada ujian klinikal berkaitan didaftarkan.
+
+---
+
+## Bukti Literatur
+
+| PMID | Tahun | Jenis | Jurnal | Dapatan Utama |
 |------|-----|------|------|---------|
-| [27852613](https://pubmed.ncbi.nlm.nih.gov/27852613/) | 2017 | RCT | Am J Clin Nutr | Supplementasi gelatin diperkaya vitamin C sebelum aktiviti berkala menambah sintesis kolagen — bukti klinikal langsung untuk pencegahan dan pembaikan kecederaan muskuloskeletal |
-| [33675075](https://pubmed.ncbi.nlm.nih.gov/33675075/) | 2021 | Ulasan | JPEN | Ulasan komprehensif asid askorbik dalam penjagaan akut: luka bakar, sepsis, ARDS, TRALI — dos, farmakokinetik, pentadbiran IV, dan ringkasan bukti |
-| [31440996](https://pubmed.ncbi.nlm.nih.gov/31440996/) | 2020 | Ulasan | Neurocrit Care | Asid askorbik IV dos tinggi dalam kecederaan otak traumatik — mengulas rasional mekanik; laluan keradangan dan tekanan oksidatif berpusat |
-| [32466098](https://pubmed.ncbi.nlm.nih.gov/32466098/) | 2020 | Haiwan/Mekanik | Sel-sel | Asid askorbik mempromosikan pemulihan berfungsi selepas kecederaan tulang belakang melalui modulasi epigenetik (demetilasi DNA yang bergantung pada enzim TET bagi gen berkaitan pemulihan) |
-| [37199082](https://pubmed.ncbi.nlm.nih.gov/37199082/) | 2023 | Kajian haiwan | Clin Exp Pharmacol Physiol | Melatonin + asid askorbik secara sinergik melindungi daripada kecederaan paru-paru yang diinduksi sepsis pada tikus — tekanan oksidatif, keradangan, dan histopatologi bertambah baik |
-| [31631076](https://pubmed.ncbi.nlm.nih.gov/31631076/) | 2020 | Retrospektif | Ann Thorac Cardiovasc Surg | Kortikosteroid + asid askorbik + tiamin meningkatkan oksigenasi selepas esofagektomi torakoskopi — bukti klinikal untuk pengurusan kecederaan pasca-pembedahan |
-| [25977448](https://pubmed.ncbi.nlm.nih.gov/25977448/) | 2015 | Mekanik | J Appl Physiol | Asid askorbik menghapuskan penjanaan mikrozarah dan kecederaan vaskular daripada pendedahan tekanan tinggi dalam model murin |
-| [30777116](https://pubmed.ncbi.nlm.nih.gov/30777116/) | 2019 | Kajian haiwan | J Orthop Surg Res | Asid askorbik + T3 mengatasi sel stem mesenkima sumsum tulang dalam model tikus kecederaan tendon Achilles — hasil penyembuhan tendon lebih baik |
-| [32141505](https://pubmed.ncbi.nlm.nih.gov/32141505/) | 2020 | Retrospektif | J Burn Care Res | Keselamatan dan farmakodinamik dos tinggi vs. dos rendah asid askorbik pada dewasa yang terbakar teruk (n=38) — kebolehlaksanaan protokol dos tinggi dinilai |
-| [12643856](https://pubmed.ncbi.nlm.nih.gov/12643856/) | 2003 | Pemerhatian | J Surg Res | Dinamik asid askorbik pada pesakit yang sakit kritikal dan yang terluka — mendokumenkan pengurangan akut pasca-kecederaan dan menilai potensi supplementasi dos tinggi |
+| [12207836](https://pubmed.ncbi.nlm.nih.gov/12207836/) | 2002 | RCT | Br J Nutr | Suplemen vitamin C dan E pada pesakit terapi penekanan asid jangka panjang; menilai kerosakan DNA sebagai penanda pengganti risiko kanser gastrik |
+| [8598417](https://pubmed.ncbi.nlm.nih.gov/8598417/) | 1995 | Ulasan | J Am Coll Nutr | Bukti perencatan karsinogenesis lebih kukuh untuk kanser gastrik, lebih lemah untuk kanser esofagus dan kolon/rektum |
+| [20227023](https://pubmed.ncbi.nlm.nih.gov/20227023/) | 2010 | Ulasan | Best Pract Res Clin Gastroenterol | Kesan buruk ubat terhadap esofagus; asid askorbik tersenarai antara agen yang boleh mencederakan esofagus |
+| [12667416](https://pubmed.ncbi.nlm.nih.gov/12667416/) | 2003 | Ulasan | Curr Oncol Rep | Diet dan risiko kanser gastrointestinal, termasuk kanser esofagus |
+| [17953708](https://pubmed.ncbi.nlm.nih.gov/17953708/) | 2008 | Kajian haiwan | Cancer Sci | Asid askorbik bersama natrium nitrit meningkatkan karsinogenesis esofagus pada tikus model refluks asid |
+| [3943105](https://pubmed.ncbi.nlm.nih.gov/3943105/) | 1986 | Kajian epidemiologi/intervensi | Cancer Res | Vitamin C merencatkan pembentukan endogen nitrosoprolin pada penduduk kawasan berisiko tinggi kanser esofagus |
+| [7890804](https://pubmed.ncbi.nlm.nih.gov/7890804/) | 1994 | Kajian haiwan | J Cell Biochem | Asid askorbik menunjukkan kesan perlindungan terhadap karsinogenesis hati dan esofagus akibat dietilnitrosamina pada tikus |
+| [23892041](https://pubmed.ncbi.nlm.nih.gov/23892041/) | 2013 | Kajian in vitro | Biochem Biophys Res Commun | Asid askorbik meningkatkan apoptosis akibat EGCG/TF3 dalam sel karsinoma esofagus Eca-109 |
+| [2609524](https://pubmed.ncbi.nlm.nih.gov/2609524/) | 1989 | Kajian haiwan | Vopr Onkol | Kesan tokoferol dan asid askorbik terhadap tumor esofagus eksperimen pada tikus |
+| [131047](https://pubmed.ncbi.nlm.nih.gov/131047/) | 1976 | Laporan kes | Gastroenterology | Esofagitis proksimal setempat akibat pengambilan asid askorbik dan gangguan motor esofagus |
 
 ---
 
-## Maklumat Pasaran Malaysia
+## Keselamatan: Perkara yang Perlu Dipertimbangkan
 
-Data pendaftaran produk individu (nombor kebenaran, nama produk, bentuk dos, petunjuk yang diluluskan) tidak diisi dalam Paket Bukti semasa. Berdasarkan keputusan kueri NPRA, **1,140 produk berdaftar** yang mengandungi asid askorbik kini berada di pasaran Malaysia. Ini mencerminkan ketersediaan yang sangat luas merentas pelbagai bentuk dos. Untuk petunjuk kecederaan akut, bagaimanapun, **formulasi intravenous dos tinggi** (biasanya 25–200 mg/kg/hari) akan diperlukan secara khusus — status ketersediaan dan pendaftaran mereka harus disahkan secara berasingan, kerana majoriti pendaftaran semasa berkemungkinan adalah suplemen oral dan tablet.
+Maklumat label daripada pihak berkuasa tempatan tidak tersedia dalam data yang dikompilasi untuk laporan ini. Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
----
+**Interaksi Ubat** (25 interaksi dikesan; sebahagian disenaraikan):
+- **Sederhana**: amfetamina, dekstroamfetamina, lisdeksamfetamina, metamfetamina, benzfetamina, aluminium hidroksida, bortezomib, deferoksamina
+- **Ringan**: paklitaksel, sisplatin, doksorubisin (termasuk bentuk liposom), etinilestradiol, pseudoefedrina, efedrina, flekainid, flufenazina, indinavir, meksiletin
 
-## Pertimbangan Keselamatan
+**Penyakit/keadaan yang dikaitkan dengan kontraindikasi dalam graf pengetahuan** (bukan teks label rasmi, perlu disahkan): hipertensi, epilepsi, penyakit buah pinggang, penyakit hati, penyakit pundi hempedu, ulser peptik, diabetes mellitus, ketoasidosis diabetik, hiperkalsemia, nefrokalsinosis, anuria, anemia sel sabit, hiperoksaluria primer, hemokromatosis keturunan, lupus eritematosus sistemik, multipel sklerosis, sarkoidosis, artritis reumatoid, hiperparatiroidisme, penyakit pembekuan darah, dan lain-lain.
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan terperinci. Data keselamatan penuh (amaran NPRA dan kontraindikasi) tidak tersedia dalam Paket Bukti ini.
-
-**Nota keselamatan utama daripada kesusasteraan yang diterbitkan:**
-
-- **Risiko buah pinggang dos tinggi IV**: Dos yang melebihi 10 g/hari boleh menyebabkan hiperoksaluria, meningkatkan risiko nephrolit kalsium oksalat — terutamanya pada pesakit dengan gangguan buah pinggang yang telah wujud sebelum ini. Pantau kreatinin serum dan oksalat urin dalam protokol IV dos tinggi.
-- **Kecederaan kerongkong yang diinduksi ubat**: Siri kes mendokumenkan kekakuan kerongkong daripada tablet vitamin C pada pesakit dengan gangguan motilitas kerongkong atau pengambilan air yang tidak mencukupi (PMID [3606243](https://pubmed.ncbi.nlm.nih.gov/3606243/), [20227023](https://pubmed.ncbi.nlm.nih.gov/20227023/)). Relevan hanya dengan formulasi oral.
-- **Kebimbangan pro-karsinogenik yang spesifik konteks**: Data haiwan menunjukkan bahawa asid askorbik yang digabungkan dengan natrium nitrit dalam keadaan berasid (cth., aliran balik asid) boleh meningkatkan karsinogenesis kerongkong (PMID [17953708](https://pubmed.ncbi.nlm.nih.gov/17953708/)). Tidak relevan dengan penggunaan kecederaan akut tetapi dicatat untuk kesempurnaan.
-- **Interaksi warfarin**: Laporan kes mencadangkan bahawa asid askorbik dos tinggi boleh mengganggu antikoagulasi warfarin (PMID [4739125](https://pubmed.ncbi.nlm.nih.gov/4739125/)); pantau INR pada pesakit yang menjalani terapi antikoagulasi.
+Selain itu, kajian tikus (PMID 17953708) dan laporan kes (PMID 131047) menunjukkan potensi risiko kepada esofagus, yang perlu diberi perhatian.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Teruskan dengan Pengawalseliaan**
+**Keputusan: Hold**
 
-**Rasional:**
-Pelbagai percubaan klinikal Fasa 2 menunjukkan isyarat bermakna secara klinikal untuk asid askorbik intravenous dos tinggi dalam subtipe kecederaan akut yang khusus, terutamanya TRALI dan resusitasi luka bakar, disokong oleh rasional mekanik yang teguh. Walau bagaimanapun, percubaan Fasa 3 LOVIT yang negatif pada pesakit sepsis dan penggantungan percubaan luka bakar VICToRY bermaksud bahawa asas bukti tidak merata merentas subtipe kecederaan — dan manfaatnya tidak mungkin terpakai secara seragam merentas semua persembahan "kecederaan". Teruskan memerlukan pemilihan petunjuk yang teliti dan pelan pembangunan klinikal yang berstruktur.
+**Justifikasi:**
+- Skor TxGNN yang tinggi (99.90%) tidak disokong oleh ujian klinikal. Bukti literatur adalah tidak langsung, bercampur-campur, dan termasuk isyarat keselamatan yang berpotensi (peningkatan karsinogenesis esofagus pada model tikus dengan nitrit).
 
-**Untuk teruskan, perkara berikut diperlukan:**
-- Pilih subtipe kecederaan tertentu sebagai sasaran utama (cth., TRALI, resusitasi luka bakar, atau kecederaan tulang belakang traumatik) daripada meneruskan kategori "kecederaan" yang luas
-- Sahkan ketersediaan dan status kawal selia formulasi asid askorbik intravenous dos tinggi di Malaysia (1,140 pendaftaran semasa adalah produk oral/suplemen yang mengutamakan)
-- Dapatkan data keselamatan lengkap daripada sisipan pakej Malaysia (NPRA; kini ialah jurang data yang ditandakan sebagai Pemblokiran)
-- Reka RCT Fasa 2/3 yang tertumpu dengan populasi pesakit yang jelas ditakrif, protokol dos (50–200 mg/kg/hari IV), titik akhir utama yang disahkan (cth., skor SOFA, keseimbangan bendalir, tempoh tinggal), dan analisis subkumpulan yang telah ditetapkan lebih awal mengikut jenis kecederaan
-- Laksanakan pemantauan buah pinggang yang wajib (oksalat serum, kreatinin) dalam protokol IV dos tinggi
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Maklumat amaran dan kontraindikasi daripada sisipan pakej (ini ialah jurang data yang menghalang penyaringan keselamatan)
+- Data mekanisme tindakan terperinci
+- Penentuan sasaran klinikal yang spesifik (contohnya pencegahan kanser esofagus, esofagitis refluks, atau lesi pra-malignan seperti esofagus Barrett), kerana "penyakit esofagus" terlalu luas
+- Ujian klinikal terkawal yang menilai hasil klinikal, bukan hanya penanda pengganti
+- Penilaian lanjut isyarat keselamatan esofagus, terutamanya penggunaan serentak dengan sumber nitrit/nitrat
+- Memandangkan produk tidak dipasarkan di Malaysia, laluan pendaftaran dan ketersediaan bentuk dos perlu dikaji
 
+---
+
+### Nota Tambahan: Indikasi Lain yang Diramalkan
+
+Antara 10 ramalan teratas, **kecederaan (*injury*)** (skor 99.60%, tahap bukti L2) mempunyai sokongan klinikal paling kukuh, termasuk dua ujian Fasa 2 yang selesai: NCT02106975 (infusi vitamin C dalam kecederaan paru akut akibat sepsis, n=170) dan NCT04344184 (kecederaan paru akut COVID-19, n=47). Kategori ini sangat luas, jadi penilaian perlu dibuat mengikut jenis kecederaan tertentu. Ramalan lain mempunyai bukti yang lemah atau tiada, dan **kekurangan vitamin** pula bertindih dengan indikasi asal sehingga bukan pengubahsuaian guna sebenar.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

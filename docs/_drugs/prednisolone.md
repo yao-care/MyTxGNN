@@ -2,15 +2,15 @@
 layout: default
 title: Prednisolone
 parent: Low Evidence (L4-L5)
-nav_order: 568
-evidence_level: L5
+nav_order: 595
+evidence_level: L4
 indication_count: 5
 ---
 
 # Prednisolone
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **5** 
+Tahap bukti: **L4** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,78 +29,103 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Prednisolone: Dari Keadaan Responsif Kortikosteroid hingga Eritema Multiforme
+# Prednisolone: Dari Penyakit Autoimun kepada Eritema Multiforme
 
 ## Ringkasan Satu Ayat
 
-Prednisolone ialah kortikosteroid sistemik yang digunakan secara luas untuk keadaan radang, alergik, dan autoimun; teks indikasi asal spesifik tidak tersedia dalam ekstrak NPRA semasa. Model TxGNN peringkat tertinggi memprediksi **Eritema Multiforme**, disokong oleh **14 ujian klinis** dan **20 penerbitan** dalam pakej bukti — namun apabila diperiksa lebih dekat hanya 2 daripada 14 ujian dan lebih kurang separuh literatur secara langsung berkaitan topik, dengan bakinya adalah padanan berbasis kata kunci di mana prednisone/prednisolone muncul sebagai komponen insidental rejim onkologi atau dermatologi yang tidak berkaitan (cth., abiraterone + prednisone untuk kanser prostat, kajian repigmentasi vitiligo).
+Prednisolone ialah kortikosteroid sistemik yang digunakan untuk penyakit autoimun, penyakit radang usus (Crohn), kekurangan adrenokortikal dan leukemia limfoblastik akut. Model TxGNN meramalkan ia mungkin berkesan untuk **eritema multiforme**. Setakat ini terdapat **0 ujian klinikal** dan **20 penerbitan** yang berkaitan. Penerbitan itu kebanyakannya laporan kes, ulasan dan kohort kecil, jadi bukti masih lemah.
 
-## Ikhtisar Cepat
+---
 
-| Item | Kandungan |
-|------|----------|
-| Indikasi Asal | Tidak ditangkap dalam ekstrak lesen NPRA semasa (semua 5 rekod lesen diambil adalah kosong; medan indikasi asal peringkat ubat juga kosong) |
-| Indikasi Baru yang Diprediksi | Eritema Multiforme |
-| Skor Prediksi TxGNN | 0.00% (pakej bukti melaporkan skor seragam 0.0 merentas semua 5 calon — nampaknya nilai pemegang tempat dan bukannya nilai yang membeza; kedudukan di bawah berdasarkan semakan bukti kualitatif, bukan skor ini) |
-| Tahap Bukti | L3 (kajian pemerhatian / siri kes; belum ada RKT berkualiti tinggi khusus EM) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 38 |
-| Keputusan yang Disyorkan | Teruskan dengan Perlindungan |
+## Gambaran Ringkas
 
-## Mengapa Prediksi Ini Munasabah?
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Penyakit autoimun, penyakit Crohn/radang usus, kekurangan adrenokortikal, leukemia limfoblastik akut (berdasarkan graf pengetahuan TxGNN, kerana tiada lesen tempatan untuk dirujuk) |
+| Indikasi Baharu yang Diramalkan | Eritema multiforme (*erythema multiforme*) |
+| Skor Ramalan TxGNN | 0.00% |
+| Tahap Bukti | L4 |
+| Status Pasaran Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (Tahan) |
 
-Pada masa kini, data mekanisme tindakan terperinci tidak tersedia untuk Prednisolone dalam pakej bukti ini (ditandai sebagai jurang data). Berdasarkan pengetahuan farmakoloji umum, Prednisolone ialah glukokortikoid sintetik dengan aktiviti anti-radang dan imunosupresif, digunakan secara meluas merentas keadaan radang, alergik, dan autoimun responsif kortikosteroid.
+---
 
-Eritema multiforme (EM) difahami menghasilkan apoptosis keratinosit didorong oleh tindak balas hipersensitiviti Jenis IV (sitotoksisiti dimediasi sel-T), paling biasa dicetuskan oleh jangkitan HSV atau pendedahan ubat. Aktiviti imunosupresif dan anti-radang Prednisolone mungkin secara teori mengurangkan radang dan mengehadkan kerosakan keratinosit sitotoksik dalam tetapan ini.
+## Mengapa Ramalan Ini Munasabah?
 
-Rasional mekanis ini mencerminkan corak amalan dermatologi yang telah lama sedia ada dan bukannya hipotesis novel — kortikosteroid sistemik sudah digunakan di luar label/secara empirikal untuk EM teruk dalam amalan klinis. Walau bagaimanapun, RKT berkualiti tinggi khusus untuk EM itu sendiri (berbeza dengan sepupu yang lebih teruk SJS/TEN) adalah kekurangan; asas bukti kebanyakannya ialah siri kes, laporan kes, dan konsensus klinis.
+Data terperinci tentang mekanisme tindakan belum tersedia. Prednisolone ialah glukokortikoid dengan kesan anti-radang dan imunosupresif yang luas, dan keberkesanannya dalam penyakit autoimun dan keradangan telah mantap. Secara mekanistik, ia mungkin sesuai untuk eritema multiforme.
 
-## Bukti Ujian Klinis
+Eritema multiforme dan spektrum sindrom Stevens-Johnson (SJS)/nekrolisis epidermis toksik (TEN) ialah tindak balas mukokutaneus yang dimediasi imun, didorong oleh sel T dan sitokin. Prednisolone menekan tindak balas imun dan keradangan ini, dan inilah asas rasional ramalan tersebut.
 
-Daripada 14 ujian yang dikembalikan oleh carian, hanya 2 berkaitan secara langsung dengan eritema multiforme atau spektrumnya (SJS/TEN); bakinya 12 adalah padanan berbasis kata kunci di mana prednisone/prednisolone muncul sebagai komponen insidental rejim onkologi atau dermatologi yang tidak berkaitan (cth., abiraterone + prednisone untuk kanser prostat, kajian repigmentasi vitiligo) dan dikecualikan di bawah.
+Walau bagaimanapun, peranan kortikosteroid sistemik dalam spektrum penyakit ini masih dipertikaikan. Bukti yang ada terhad kepada laporan kes, siri kecil, ulasan dan satu laporan kes veterinar. Tiada ujian klinikal berdaftar untuk indikasi ini.
 
-| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT06266221](https://clinicaltrials.gov/study/NCT06266221) | Fasa 3 | Belum lagi merekrut | 96 | Ujian terkawal rawak membandingkan rejim kortikosteroid sistemik pendek dengan plasebo dalam fasa akut yang telah ditetapkan eritema multiforme teruk — satu-satunya RKT khusus EM yang dikenal pasti |
-| [NCT06119490](https://clinicaltrials.gov/study/NCT06119490) | Fasa Awal 1 | Merekrut | 30 | Menilai metilprednisolon digabungkan dengan perencat JAK (abrocitinib/tofacitinib) untuk nekrolisis epidermis toksik, penyakit pada spektrum mukokutan dimediasi imun yang sama dengan EM |
+---
+
+## Bukti Ujian Klinikal
+
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
+
+---
 
 ## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [35274741](https://pubmed.ncbi.nlm.nih.gov/35274741/) | 2022 | Tinjauan sistematik (Cochrane) | Cochrane Database Syst Rev | Mengkaji intervensi sistemik (termasuk glukokortikoid) untuk sindrom SJS/TEN/tindihan; menyoroti keperluan yang tidak dipenuhi untuk data keberkesanan merentas spektrum ini |
-| [26281815](https://pubmed.ncbi.nlm.nih.gov/26281815/) | 2015 | Ulasan | J Emerg Med | Ulasan klinis umum diagnosis dan pengurusan eritema multiforme |
-| [8566721](https://pubmed.ncbi.nlm.nih.gov/8566721/) | 1995 | Ulasan/siri kes | Allergy Proc | EM dan SJS yang dicetuskan virus; melaporkan kejayaan rawatan dengan asiklovir tambah prednisolone |
-| [15599469](https://pubmed.ncbi.nlm.nih.gov/15599469/) | 2004 | Kohort | J Microbiol Immunol Infect | Ciri-ciri klinis EM, SJS, dan TEN kanak-kanak Taiwan/rantau — data hasil setempat yang relevan |
-| [30189985](https://pubmed.ncbi.nlm.nih.gov/30189985/) | 2018 | Ulasan | Dent Clin North Am | Mengkaji penyakit vesikuloerosif mulut yang menyakitkan termasuk EM; kortikosteroid topik/sistemik sebagai rawatan teras |
-| [40454868](https://pubmed.ncbi.nlm.nih.gov/40454868/) | 2025 | Laporan kes + ulasan literatur | J Chemother | EM berikutan pembrolizumab; prednisolone dos berkurangan menyelesaikan ruam tanpa menghentikan imunoterapi |
-| [38962048](https://pubmed.ncbi.nlm.nih.gov/38962048/) | 2024 | Mekanis/translasi | Int Cancer Conf J | Infiltrasi PD-L1/CD4+ sel-T meramal EM pembrolizumab yang teruk; salap steroid sahaja tidak berkesan dalam kes teruk |
-| [21675930](https://pubmed.ncbi.nlm.nih.gov/21675930/) | 2011 | Ulasan berasaskan kes | Cutan Ocul Toxicol | Menerangkan sindrom EMPACT (EM dicetuskan fenitoin dengan penyinaran kranial) |
-| [28101031](https://pubmed.ncbi.nlm.nih.gov/28101031/) | 2016 | Laporan kes | Case Rep Oncol | EM dicetuskan alektinib dengan pencabar semula berjaya selepas rawatan |
-| [15608841](https://pubmed.ncbi.nlm.nih.gov/15608841/) | 2004 | Laporan kes | Ann Acad Med Singap | EM berulang diurus dengan kortikosteroid; pesakit mengembangkan sindrom Cushing yang diinduksi ubat daripada penggunaan jangka panjang — relevan dengan keselamatan jangka panjang |
+| [35274741](https://pubmed.ncbi.nlm.nih.gov/35274741/) | 2022 | Ulasan (Cochrane) | Cochrane Database Syst Rev | Menilai rawatan sistemik (termasuk glukokortikoid, IVIG, siklosporin, etanercept) untuk SJS/TEN; keperluan untuk memahami keberkesanannya masih belum dipenuhi |
+| [25406459](https://pubmed.ncbi.nlm.nih.gov/25406459/) | 2015 | Ulasan | Ann Pharmacother | Mengkaji bukti penggunaan steroid pada orang dewasa dengan SJS/TEN dan implikasi untuk penyelidikan akan datang |
+| [27716721](https://pubmed.ncbi.nlm.nih.gov/27716721/) | 2016 | Garis panduan | Indian J Dermatol Venereol Leprol | Garis panduan pengurusan SJS/TEN; kortikosteroid sistemik disenaraikan antara rawatan imunomodulator |
+| [30189985](https://pubmed.ncbi.nlm.nih.gov/30189985/) | 2018 | Ulasan | Dent Clin North Am | Kortikosteroid topikal atau sistemik ialah tonggak pengurusan penyakit vesikuloerosif oral, termasuk eritema multiforme |
+| [15599469](https://pubmed.ncbi.nlm.nih.gov/15599469/) | 2004 | Kohort | J Microbiol Immunol Infect | Membandingkan ciri klinikal eritema multiforme, SJS dan TEN pada 30 kanak-kanak Taiwan |
+| [40657848](https://pubmed.ncbi.nlm.nih.gov/40657848/) | 2025 | Kajian klinikal label terbuka (etanercept, bukan khusus prednisolone) | J Dermatol | Etanercept dikaji pada pesakit SJS/TEN yang tidak bertindak balas terhadap steroid sistemik |
+| [35315755](https://pubmed.ncbi.nlm.nih.gov/35315755/) | 2022 | Laporan kes | Ugeskr Laeger | SJS akibat COVID-19 dirawat dengan prednisolone dan pulih dalam beberapa hari |
+| [36586578](https://pubmed.ncbi.nlm.nih.gov/36586578/) | 2023 | Laporan kes (veterinar) | Top Companion Anim Med | Anjing dengan eritema multiforme minor berulang dirawat berjaya dengan prednisolone dan mycophenolate mofetil |
+| [15608841](https://pubmed.ncbi.nlm.nih.gov/15608841/) | 2004 | Laporan kes | Ann Acad Med Singapore | Pesakit eritema multiforme berulang mengalami sindrom Cushing iatrogenik akibat penggunaan kortikosteroid yang lama |
+| [33447929](https://pubmed.ncbi.nlm.nih.gov/33447929/) | 2021 | Laporan kes | Indian J Pediatr | Ruam dan mukositis akibat Mycoplasma; azitromisin dan kortikosteroid jangka pendek memadai untuk kebanyakan kes |
 
-## Maklumat Pasaran Malaysia
-
-Perincian peringkat lesen (nombor pendaftaran, nama produk, bentuk dos, teks indikasi yang diluluskan) tidak ditangkap dalam ekstrak data NPRA semasa — semua 5 rekod lesen yang diambil adalah kosong. Pendaftaran NPRA mengesahkan **38 lesen aktif** untuk produk Prednisolone dan status "Dipasarkan", tetapi teks produk/indikasi spesifik perlu ditarik semula daripada sumber sebelum ia boleh dilaporkan di sini.
+---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan. Pakej bukti semasa tidak mempunyai data amaran kunci yang berguna, kontraindikasi, atau DDI (semua ditandai sebagai jurang data), dan ini ditandai sebagai **jurang penyekat** (DG001) — amaran label penuh/kontraindikasi mesti diambil daripada sisipan pakej NPRA sebelum calon ini dapat lulus semakan keselamatan awal (S1).
+**Kontraindikasi (daripada graf pengetahuan TxGNN, bukan teks label produk):**
+Prednisolone dikaitkan dengan kontraindikasi atau keadaan yang perlu diberi perhatian pada penyakit berikut:
+- hipertensi
+- epilepsi
+- hiperglisemia
+- kegagalan jantung kongestif
+- keratitis herpes simpleks
+- campak (*measles*)
+- porfiria
+- beberapa gangguan kitar urea (contohnya citrullinemia, hiperargininemia)
+- hipopituitarisme dan kekurangan hormon pituitari
+
+**Interaksi Ubat:**
+Sebanyak 100 interaksi direkodkan, dan 20 yang pertama dipaparkan dalam data yang dikompilasi untuk laporan ini.
+- **Major:** adalimumab
+- **Sederhana (Moderate):** ibuprofen, ketorolac, nifedipine, isotretinoin, acarbose, acebutolol, acetazolamide, zidovudine, etinilestradiol, butalbital, albiglutide, aldesleukin, alemtuzumab, aliskiren
+- **Ringan (Minor):** formoterol, salbutamol
+
+**Isyarat keselamatan daripada literatur:** penggunaan kortikosteroid yang lama dilaporkan menyebabkan sindrom Cushing iatrogenik pada pesakit eritema multiforme berulang (PMID 15608841).
+
+Untuk amaran utama dan kontraindikasi daripada label produk, sila rujuk sisipan pakej.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Teruskan dengan Perlindungan**
+**Keputusan: Hold (Tahan)**
 
 **Rasional:**
-Penggunaan kortikosteroid untuk eritema multiforme ialah amalan dermatologi yang mantap dan munasabah secara mekanis, dan satu RKT khusus EM Fasa 3 (NCT06266221) sedang berjalan — tetapi bukti semasa sebaliknya terhad kepada siri kes/laporan (L3), dan data keselamatan peringkat label yang diperlukan untuk penilaian risiko yang betul sedang hilang.
+- Bukti untuk eritema multiforme hanya setakat L4. Tiada ujian klinikal berdaftar, dan literatur terdiri daripada laporan kes, ulasan, kohort kecil dan satu laporan veterinar.
+- Peranan kortikosteroid sistemik dalam spektrum SJS/TEN masih dipertikaikan.
+- Prednisolone tidak dipasarkan dan tidak mempunyai pendaftaran di Malaysia.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Sisipan pakej TFDA/NPRA (amaran, kontraindikasi) — sedang menghalang (DG001)
-- Pengesahan mekanisme tindakan terperinci daripada DrugBank (DG002)
-- Pengekstrakan semula teks lesen/indikasi Malaysia (rekod semasa adalah kosong meskipun 38 pendaftaran)
-- Hasil daripada NCT06266221 (RKT khusus EM Fasa 3, belum lagi merekrut) apabila tersedia
-- Penyiapan data DDI (semasa "not_found" dengan sifar interaksi pada rekod)
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) terperinci daripada DrugBank.
+- Sisipan pakej NPRA untuk amaran dan kontraindikasi, serta pengesahan status pendaftaran tempatan.
+- Ujian klinikal terkawal atau kajian kohort yang menilai prednisolone secara khusus untuk eritema multiforme.
+- Analisis perbandingan manfaat dan risiko steroid, terutamanya untuk penggunaan berulang atau jangka panjang.
 
+**Nota:** Dalam data yang sama, indikasi yang diramalkan **limfosarkoma** (limfoma bukan Hodgkin) mempunyai bukti lebih kukuh (L1, cadangan *Proceed with Guardrails*). Ia disokong beberapa ujian Fasa 3 yang memasukkan prednisolone dalam protokol berbilang ubat. Indikasi ini patut dinilai dalam laporan berasingan.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

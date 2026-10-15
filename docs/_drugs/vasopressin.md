@@ -2,7 +2,7 @@
 layout: default
 title: Vasopressin
 parent: Low Evidence (L4-L5)
-nav_order: 685
+nav_order: 720
 evidence_level: L4
 indication_count: 2
 ---
@@ -29,86 +29,92 @@ Tahap bukti: **L4** | Indikasi diramal: **2**
 
 </div>
 
-# Vasopressin: Dari Indikasi Asal yang Tidak Terdokumentasi hingga Kekurangan Protrombin Bawaan (Ramalan Kepercayaan Rendah)
+# Vasopresin: Daripada Indikasi Asal Tidak Dinyatakan kepada Kekurangan Protrombin Kongenital
 
-## Ringkasan Satu Kalimat
+## Ringkasan Satu Ayat
 
-Vasopressin (DrugBank DB00067) dipasarkan di Malaysia di bawah 2 pendaftaran, tetapi teks indikasi asal yang disetujui dan mekanisme kerja saat ini tidak tersedia dalam set data ini. Model TxGNN memprediksi kemungkinan hubungan dengan **Kekurangan Protrombin Bawaan**, tetapi 3 publikasi pendukung utama adalah laporan kasus/ulasan tentang gangguan yang berbeda (hemofilia A didapat dan kekurangan Faktor V/VIII gabungan), tanpa **uji klinis** dan kekhawatiran mekanistik yang terdokumentasi bahwa model mungkin telah mengacaukan vasopressin dengan analogue-nya desmopressin (DDAVP).
-
----
-
-## Tinjauan Cepat
-
-| Item | Konten |
-|------|--------|
-| Indikasi Asal | Tidak tersedia dalam set data saat ini |
-| Indikasi Baru yang Diprediksi | Kekurangan Protrombin Bawaan |
-| Skor Prediksi TxGNN | 99.63% |
-| Tingkat Bukti | L4 |
-| Status Pasar Malaysia | ✓ Dipasarkan |
-| Jumlah Pendaftaran | 2 |
-| Keputusan yang Direkomendasikan | Tunda |
+Vasopresin ialah hormon peptida sintetik, tetapi data yang dikumpulkan untuk laporan ini tidak mencatatkan indikasi asalnya di Malaysia.
+Model TxGNN meramalkan ia mungkin berkesan untuk **kekurangan protrombin kongenital (congenital prothrombin deficiency)**,
+tetapi kini hanya terdapat **0 percubaan klinikal** dan **3 penerbitan** (kebanyakannya melibatkan analog desmopresin, bukan vasopresin asli), jadi bukti masih sangat terhad.
 
 ---
 
-## Mengapa Prediksi Ini Wajar?
+## Gambaran Keseluruhan
 
-Saat ini, data mekanisme kerja terperinci untuk vasopressin tidak tersedia dalam set data ini. Berdasarkan farmakologi umum, vasopressin (AVP) bertindak terutama pada reseptor V1/V2 dan digunakan secara klinis untuk diabetes insipidus, perdarahan varises gastrointestinal, dan syok vasodilatasi (septik).
-
-Paket bukti sendiri meningkatkan kekhawatiran signifikan daripada mengkonfirmasi kelayakan: literatur pendukung sebenarnya menyangkut **desmopressin (DDAVP)**, analogue sintetis vasopressin yang bekerja pada reseptor V2 untuk memicu pelepasan von Willebrand Factor dan Faktor VIII dari endotel — mekanisme yang digunakan dalam keadaan kekurangan Faktor VIII/vWF, bukan kekurangan protrombin (Faktor II). Protrombin tidak disimpan di badan Weibel-Palade dan tidak dilepaskan oleh stimulasi DDAVP. Rasionalisasi secara eksplisit mencatat bahwa link yang diprediksi ini mungkin mencerminkan grafik pengetahuan yang mengacaukan vasopressin dengan analogue-nya DDAVP, atau kedekatan antar node faktor koagulasi, daripada hubungan farmakologis yang sebenarnya.
-
-Mengingat hal ini, prediksi harus diperlakukan sebagai hipotesis yang dihasilkan oleh kedekatan grafik daripada sinyal yang berdasarkan mekanisme.
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Tiada data (tiada lesen NPRA berdaftar) |
+| Indikasi Baharu yang Diramalkan | Kekurangan protrombin kongenital |
+| Skor Ramalan TxGNN | 99.63% |
+| Tahap Bukti | L4 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
 
-## Bukti Uji Klinis
+## Mengapa Ramalan Ini Munasabah?
 
-Saat ini tidak ada uji klinis terkait yang terdaftar
+Data terperinci mengenai mekanisme tindakan asal vasopresin tidak tersedia dalam data yang dikumpulkan. Namun, vasopresin dan analognya, desmopresin (DDAVP), diketahui bertindak pada reseptor V2 untuk merembeskan faktor von Willebrand dan faktor VIII daripada simpanan endotelium.
+
+Mekanisme ini relevan untuk kekurangan faktor VIII serta kekurangan gabungan faktor V dan VIII. Walau bagaimanapun, ia **tidak meningkatkan protrombin (faktor II) secara langsung**. Skor TxGNN yang tinggi (0.996) berkemungkinan besar didorong oleh kedekatan rangkaian dengan kekurangan faktor pembekuan lain, bukan oleh hubungan mekanistik langsung dengan protrombin.
+
+Perlu diingat juga bahawa literatur yang diperoleh berkaitan desmopresin, iaitu analog sintetik, bukan vasopresin asli. Oleh itu, hubungan antara indikasi asal dengan indikasi baharu ini masih lemah dan belum disahkan.
+
+---
+
+## Bukti Percubaan Klinikal
+
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
-| PMID | Tahun | Tipe | Jurnal | Temuan Utama |
-|------|------|------|--------|---------|
-| [21115138](https://pubmed.ncbi.nlm.nih.gov/21115138/) | 2011 | Ulasan | Autoimmunity reviews | Mengulas hemofilia A didapat (autoantibodi terhadap Faktor VIII), gangguan yang berbeda dari kekurangan protrombin bawaan; tidak membahas peran vasopressin dalam kekurangan protrombin. |
-| [2607619](https://pubmed.ncbi.nlm.nih.gov/2607619/) | 1989 | Laporan Kasus | Rinsho Ketsueki (Jpn J Clin Hematol) | Kasus pemberian DDAVP pada kekurangan Faktor V dan Faktor VIII bawaan gabungan — bukan kekurangan protrombin. |
-| [1942544](https://pubmed.ncbi.nlm.nih.gov/1942544/) | 1991 | Laporan Kasus | Rinsho Ketsueki (Jpn J Clin Hematol) | Pengiriman sesar yang dikelola dengan penggantian Faktor VIII dalam pasien dengan kekurangan Faktor V/VIII gabungan — sekali lagi bukan kekurangan protrombin. |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [21115138](https://pubmed.ncbi.nlm.nih.gov/21115138/) | 2011 | Ulasan | Autoimmunity Reviews | Ulasan mengenai hemofilia A yang diperoleh (AHA): diagnosis, etiologi, spektrum klinikal dan pilihan rawatan; gangguan jarang akibat autoantibodi terhadap faktor VIII dengan kadar kematian melebihi 20% |
+| [2607619](https://pubmed.ncbi.nlm.nih.gov/2607619/) | 1989 | Laporan kes | Rinsho Ketsueki | Pemberian DDAVP pada pesakit lelaki berusia 43 tahun dengan kekurangan gabungan faktor V dan VIII kongenital |
+| [1942544](https://pubmed.ncbi.nlm.nih.gov/1942544/) | 1991 | Laporan kes | Rinsho Ketsueki | Pengurusan pembedahan caesarean dengan terapi penggantian konsentrat faktor VIII pada wanita hamil dengan kekurangan gabungan faktor V dan VIII kongenital |
 
-**Catatan:** Tidak ada literatur yang diidentifikasi langsung mempelajari vasopressin (atau DDAVP) dalam kekurangan protrombin bawaan; ketiga referensi menyangkut gangguan faktor koagulasi yang berbeda (Faktor V/VIII), yang merupakan dasar untuk kekhawatiran mekanistik yang dikemukakan di atas.
-
----
-
-## Informasi Pasar Malaysia
-
-Malaysia memiliki 2 pendaftaran vasopressin aktif (status pasar: ✓ Dipasarkan), tetapi nomor otorisasi, nama produk, bentuk dosis, dan teks indikasi yang disetujui saat ini tidak tersedia dalam set data ini.
+Tiada satu pun daripada penerbitan ini membincangkan kekurangan protrombin secara langsung.
 
 ---
 
-## Pertimbangan Keselamatan
+## Keselamatan
 
-Silakan lihat paket sisipan untuk informasi keselamatan.
+- **Interaksi Ubat**: Pertanyaan interaksi ubat telah selesai dengan 100 interaksi direkodkan. Antara yang bertahap **Major (utama)**:
+  - Dolasetron
+  - Cisapride
+  - Papaverine
+  - Macimorelin
 
-*(Catatan: Peringatan label TFDA/NPRA dan kontraindikasi ditandai dalam paket bukti ini sebagai kesenjangan data **Pemblokiran** — lihat Kesimpulan di bawah.)*
+  Antara yang bertahap Sederhana (Moderate): famotidin, epinefrin, loperamid, klorpropamid, klaritromisin, ondansetron, granisetron, prometazin, silostazol dan heparin. Metronidazol bertahap Minor (ringan).
+
+Untuk maklumat amaran utama dan kontraindikasi, sila rujuk sisipan pembungkusan.
 
 ---
 
-## Kesimpulan dan Langkah Selanjutnya
+## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tunda**
+**Keputusan: Hold (Tangguh)**
 
-**Rasionalisasi:**
-- Indikasi yang diprediksi (kekurangan protrombin bawaan) kekurangan dukungan uji klinis apa pun, dan literatur pendukung sebenarnya membahas gangguan yang berbeda dan secara mekanistik berbeda (kekurangan Faktor V/VIII yang dirawat dengan DDAVP, bukan vasopressin itu sendiri). Analisis paket bukti sendiri menunjukkan prediksi mungkin berasal dari kebingungan grafik pengetahuan antara vasopressin dan analogue-nya desmopressin daripada relevansi obat-penyakit yang sebenarnya.
-- Secara terpisah, kesenjangan data **Pemblokiran** (peringatan label TFDA/NPRA dan kontraindikasi yang hilang) mencegah kandidat ini memasuki tahap pra-penilaian keselamatan S1 terlepas dari bukti kemanjuran apa pun.
+**Rasional:**
+- Ramalan ini hanya disokong oleh skor model dan literatur tidak langsung mengenai desmopresin (laporan kes dan ulasan). Tiada percubaan klinikal berdaftar, dan mekanismenya tidak meningkatkan protrombin secara langsung.
+- Vasopresin tidak mempunyai pendaftaran di Malaysia, dan data keselamatan daripada sisipan pembungkusan belum tersedia.
 
-**Untuk melanjutkan, yang berikut ini diperlukan:**
-- Peringatan label asli/kontraindikasi dari NPRA/TFDA (saat ini kesenjangan data Pemblokiran)
-- Data mekanisme kerja yang dikonfirmasi melalui DrugBank (saat ini kesenjangan data dengan tingkat keparahan Tinggi)
-- Klarifikasi apakah rasionalisasi mekanistik sebaiknya mengarah ke desmopressin (DDAVP) daripada vasopressin, mengingat dasar literaturnya
-- Jika ditindaklanjuti, farmakologi primer/bukti praklinik yang langsung menghubungkan vasopressin (bukan DDAVP) dengan sintesis atau aktivitas protrombin
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Muat turun dan huraikan sisipan pembungkusan NPRA untuk amaran dan kontraindikasi (halangan utama sebelum saringan keselamatan)
+- Data mekanisme tindakan (MOA) terperinci daripada DrugBank
+- Bukti mekanistik atau praklinikal yang menunjukkan kesan terhadap protrombin (faktor II)
+- Kajian yang menilai vasopresin asli, bukan hanya desmopresin
+- Pengesahan status pendaftaran dan laluan pentadbiran yang tersedia di Malaysia
 
-**Kandidat tambahan (prioritas lebih rendah):** Prediksi kedua, *osteoporosis yang diinduksi obat* (skor TxGNN 99.62%), juga ditandai tetapi tidak memiliki uji klinis atau dukungan literatur sama sekali (Tingkat Bukti L5) dan sama-sama direkomendasikan untuk **Tunda**.
+---
 
+## Catatan: Ramalan Kedua (Pertimbangan Tambahan)
+
+**Osteoporosis aruhan ubat (drug-induced osteoporosis)** mempunyai skor TxGNN 99.62%, tetapi bukti hanya pada tahap L5 (ramalan model sahaja) tanpa percubaan klinikal atau literatur. Reseptor vasopresin (V1a, V2) dilaporkan wujud pada sel tulang dalam kajian praklinikal, dan perubahan isyarat vasopresin atau hiponatremia dikaitkan dengan kehilangan tulang. Arah kesannya tidak jelas dan mungkin merugikan, bukan melindungi. Syor: **Hold**.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -2,7 +2,7 @@
 layout: default
 title: Mecobalamin
 parent: Low Evidence (L4-L5)
-nav_order: 466
+nav_order: 487
 evidence_level: L5
 indication_count: 3
 ---
@@ -29,78 +29,74 @@ Tahap bukti: **L5** | Indikasi diramal: **3**
 
 </div>
 
-# Mecobalamin: Dari Petunjuk Asli yang Tidak Ditetapkan kepada Kolangitis Sklerosis
+# Mecobalamin: Daripada Indikasi Asal yang Tidak Direkodkan kepada Kolangitis Sklerosis
 
 ## Ringkasan Satu Ayat
 
-Mecobalamin (DrugBank DB03614) ialah analog koenzim vitamin B12 yang dipasarkan di Malaysia di bawah 16 pendaftaran, tetapi teks petunjuk yang diluluskan tidak ditangkap dalam pengekstrakan data semasa.
-Model TxGNN meramalkan ia mungkin berkesan untuk **Kolangitis Sklerosis**, tetapi ramalan ini kini disokong oleh **0 ujian klinikal** dan **0 publikasi**, dan rasional model itu sendiri tidak menandakan pautan biologi yang diketahui kepada mekanisme yang dicadangkan.
+Mecobalamin (metilkobalamin) ialah bentuk aktif vitamin B12. Data yang dikompilasi untuk laporan ini tidak merekodkan indikasi asalnya di Malaysia.
+Model TxGNN meramalkan ia mungkin berkesan untuk **kolangitis sklerosis**, tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong ramalan ini, jadi ia hanya ramalan model.
 
 ---
 
-## Gambaran Keseluruhan Pantas
+## Gambaran Ringkas
 
 | Item | Kandungan |
-|------|----------|
-| Petunjuk Asli | Tidak tersedia dalam set data semasa (tiada teks petunjuk yang diluluskan pada rekod) |
-| Petunjuk Baru yang Diramalkan | Kolangitis Sklerosis |
+|------|------|
+| Indikasi Asal | Tiada data (tiada lesen berdaftar dengan teks indikasi) |
+| Indikasi Baharu yang Diramalkan | Kolangitis sklerosis |
 | Skor Ramalan TxGNN | 99.50% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 16 |
-| Keputusan yang Disyorkan | Tahan |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan terperinci tidak tersedia untuk mecobalamin (Jurang Data). Berdasarkan farmakologi umum, mecobalamin ialah bentuk koenzim aktif vitamin B12, terutamanya terlibat dalam tindak balas sintesis metionin, metabolisme homosisteine, dan pembaikan mielin/saraf.
+Data terperinci mengenai mekanisme tindakan tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, mecobalamin ialah bentuk aktif vitamin B12 yang menyokong metilasi dan metabolisme homosisteina. Ia juga mungkin mempunyai kesan neuroprotektif dan anti-radang.
 
-Tiada pautan mekanistik yang ditetapkan antara metabolisme vitamin B12 dan kolangitis sklerosis, yang didorong secara patologi oleh fibrosis saluran hempedu yang dimediasi imun (penyakit berkaitan IgG4, autoimun, atau proses kolestasis). Rasional model itu sendiri untuk calon ini secara eksplisit menyatakan bahawa perkaitan itu adalah isyarat statistik yang didorong data daripada graf pengetahuan dan bukannya yang disokong oleh hipotesis biologi, dan bahawa data MOA asli yang hilang seterusnya mengehadkan keyakinan dalam pautan ini.
+Secara teori, kesan ini mungkin berkaitan dengan kecederaan hati kolestatik atau yang dimediasi oleh imun. Namun hubungan ini **bersifat spekulatif dan belum disahkan**. Skor 0.995 hanyalah ramalan pengiraan, dan tiada bukti klinikal atau literatur yang menyokongnya.
 
-Dua calon berpangkat lebih rendah (neoplasia endokrin berganda dan penyakit Paget tulang) menunjukkan corak yang sama: tiada pertindihan laluan yang ditetapkan dengan metabolisme B12/homosisteine, dan rasional model bagi setiap menyatakan perkaitan itu disimpulkan daripada mekanistik yang disokong.
-
----
-
-## Bukti Ujian Klinikal
-
-Pada masa ini tiada ujian klinikal yang berkaitan didaftarkan.
-
----
-
-## Bukti Kesusasteraan
-
-Pada masa ini tiada kesusasteraan yang berkaitan tersedia.
+Dua ramalan lain turut direkodkan, juga pada tahap L5 dan berstatus Hold:
+- **Neoplasia endokrin berganda** (skor 99.34%): sindrom MEN didorong oleh mutasi germline (MEN1, RET), dan tiada laluan biologi yang jelas menghubungkan vitamin B12 dengannya. Ramalan ini mungkin artifak rangkaian graf pengetahuan.
+- **Penyakit Paget tulang** (skor 99.31%): status B12 dan homosisteina pernah dikaitkan dengan metabolisme tulang dalam kajian pemerhatian, tetapi tiada bukti kesan terhadap disregulasi osteoklas. Rawatan standard (bisfosfonat) bertindak melalui mekanisme yang berbeza.
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Rekod kebenaran terperinci (nombor lesen, nama produk, bentuk dos, teks petunjuk yang diluluskan) untuk 16 produk mecobalamin yang didaftarkan tidak tersedia dalam set data semasa — semua medan lesen dipulangkan kosong pada pengekstrakan.
+Mecobalamin pada masa ini **tidak dipasarkan** di Malaysia dan tiada lesen berdaftar dalam data yang dikompilasi.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk kepada risalah pakej untuk maklumat keselamatan.
+**Interaksi Ubat** (13 interaksi direkodkan):
+- **Sederhana (Moderate)**: Arsenik trioksida, Kloramfenikol
+- **Ringan (Minor)** (11 ubat): Famotidina, Ranitidina, Ranitidina (bismut sitrat), Simetidina, Nizatidina, Rabeprazol, Dexlansoprazol, Omeprazol, Lansoprazol, Pantoprazol, Esomeprazol. Semuanya perencat pam proton atau antagonis reseptor H2 yang mengurangkan asid gastrik.
 
-*(Catatan: Amaran label TFDA/NPRA dan kontraindikasi ditandakan sebagai jurang data Menyekat (DG001) — ini menghalang penilaian keselamatan S1 penuh.)*
+**Penyakit yang dikaitkan dengan kontraindikasi (daripada graf pengetahuan TxGNN, bukan teks label rasmi):**
+- Penyakit kekurangan kalium
+- Gastritis atrofik kronik
+- Neuropati optik herediti Leber
+
+Maklumat amaran dan kontraindikasi daripada sisip pek tidak tersedia. Sila rujuk sisip pek untuk maklumat keselamatan yang lengkap.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-Ramalan berpangkat teratas (kolangitis sklerosis) ialah tahap bukti L5 — ramalan model sahaja tanpa sifar ujian klinikal atau kesusasteraan yang menyokong, dan rasional model itu sendiri mencatat tiada kebolehpercayaan biologi yang diketahui. Digabungkan dengan jurang data keselamatan Menyekat (label TFDA/NPRA dan amaran yang hilang) dan data MOA yang hilang, tiada asas yang mencukupi untuk memajukan calon ini.
+- Ramalan hanya berasaskan model (L5) tanpa percubaan klinikal atau literatur sokongan. Mecobalamin juga tidak dipasarkan di Malaysia, dan data keselamatan utama belum lengkap.
 
-**Untuk diteruskan, perkara berikut diperlukan:**
-- PDF label TFDA/NPRA dengan amaran dan kontraindikasi (DG001, Menyekat)
-- Data mekanisme tindakan bersumber DrugBank (DG002, Tinggi)
-- Teks petunjuk yang diluluskan asli yang disahkan (rekod lesen semasa kosong)
-- Kesusasteraan atau bukti ujian yang khusus mengaitkan metabolisme B12/homosisteine kepada fibrosis saluran hempedu, jika calon ini akan dinilai semula
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisip pek NPRA (amaran dan kontraindikasi), yang merupakan jurang data **menyekat** sebelum saringan keselamatan boleh diteruskan
+- Data mekanisme tindakan (MOA) daripada DrugBank
+- Carian literatur dan percubaan klinikal untuk mecobalamin dalam kolangitis sklerosis
+- Penilaian status pendaftaran dan laluan pemberian yang diperlukan untuk indikasi baharu
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

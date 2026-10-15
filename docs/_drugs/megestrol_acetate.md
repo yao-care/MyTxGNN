@@ -2,7 +2,7 @@
 layout: default
 title: Megestrol Acetate
 parent: High Evidence (L1-L2)
-nav_order: 469
+nav_order: 490
 evidence_level: L2
 indication_count: 10
 ---
@@ -29,95 +29,126 @@ Tahap bukti: **L2** | Indikasi diramal: **10**
 
 </div>
 
-# Megestrol Acetate: Dari Terapi Hormonal Paliatif untuk Karsinoma Payudara/Endometrium ke Karsinoma Endometrium Corpus Uteri
+# Megestrol Acetate: Daripada Penunjuk Asal yang Tidak Direkodkan kepada Kanser Endometrium
 
 ## Ringkasan Satu Ayat
 
-Megestrol acetate ialah progestin sintetik yang secara historis digunakan untuk rawatan paliatif kanser payudara dan endometrium serta untuk anorexia-cachexia berkaitan kanser/AIDS. Ramalan berpangkat teratas model TxGNN, **Karsinoma Endometrium Corpus Uteri**, disokong oleh **3 ujian klinis** yang diambil secara langsung untuk istilah ontologi yang tepat ini, manakala istilah sibling yang berkaitan rapat (dan lebih kaya bukti) "kanser endometrium" membawa **36 ujian klinis dan 20 penerbitan**, mencerminkan bahawa ini sebahagian besarnya merupakan pemurnian penggunaan klinis yang telah diiktiraf (terapi progestin jimat kesuburan) dan bukannya petunjukan yang benar-benar baru.
+Megestrol acetate ialah progestin sintetik. Data yang dikompilasi untuk laporan ini tidak mengandungi penunjuk asal berdasarkan lesen NPRA. Model TxGNN meramalkan ubat ini mungkin berkesan untuk **kanser endometrium**. Arah ini disokong oleh **20 ujian klinikal** (kebanyakannya Fasa 2) dan **20 penerbitan** yang dipaparkan dalam data.
 
 ---
 
-## Ringkasan Pantas
+## Gambaran Keseluruhan Pantas
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asli | Tidak diisi dalam paket data ini (medan `approved_indication_text` lesen TFDA/NPRA kosong). Mengikut label internasional yang dirujuk dalam paket bukti itu sendiri (cth., NCT00163072), megestrol acetate diluluskan untuk rawatan paliatif kanser payudara dan endometrium, dan digunakan secara meluas sebagai perangsang selera dalam cachexia berkaitan kanser. |
-| Indikasi Baru Diramalkan | Karsinoma Endometrium Corpus Uteri |
+| Penunjuk Asal | Tiada data (tiada lesen berdaftar di NPRA dalam data yang dikompilasi) |
+| Penunjuk Baharu yang Diramalkan | Kanser endometrium (*endometrial cancer*) |
 | Skor Ramalan TxGNN | 99.94% |
 | Tahap Bukti | L2 |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Marketed) |
-| Bilangan Pendaftaran | 3 |
-| Keputusan Disyorkan | Teruskan dengan Pengawal |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Proceed with Guardrails |
+
+> Nota: Laporan ini memberi tumpuan kepada ramalan berpangkat tertinggi dengan bukti terkuat, iaitu kanser endometrium (kedudukan ke-3 dalam senarai ramalan). Dua entiti di atasnya (karsinoma endometrium korpus uterus dan karsinoma sel peralihan endometrium) bertindih dengan penunjuk ini; yang pertama hanya mempunyai satu ujian tidak langsung, manakala yang kedua tiada bukti.
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan yang terperinci ditandakan sebagai jurang data Menyekat/Tinggi dalam paket ini (DG001, DG002). Berdasarkan maklumat yang dapat diperolehi daripada bukti itu sendiri, megestrol acetate ialah progestin yang bertindak sebagai agonis reseptor progesteron (PR), menekan proliferasi yang didorong estrogen bagi tisu endometrium PR-positif dan mendorong diferensiasi kelenjar — mekanisme yang diterangkan berulang kali di seluruh literatur yang diambil (cth., PMID 34233525, "Megestrol acetate drives endometrial carcinoma cell senescence via interacting with progesterone receptor B/FOXO1 axis").
+Megestrol acetate ialah progestin sintetik yang mengaktifkan reseptor progesteron. Ini menurunkan isyarat reseptor estrogen serta menggalakkan pembezaan dan apoptosis dalam tumor endometrioid yang peka hormon. Data mekanisme terperinci daripada DrugBank tidak tersedia; huraian ini berdasarkan rasional yang terkandung dalam data penilaian.
 
-Indikasi baru yang diramalkan hampir-hampir adalah penyataan semula bagi penggunaan yang sedia ada: megestrol acetate sudah pun merupakan agen yang diiktiraf secara antarabangsa untuk kanser endometrium (khususnya dalam rejimen jimat kesuburan untuk wanita muda dengan penyakit peringkat awal, PR-positif). Rasional paket bukti sendiri mencatat bahawa "karsinoma endometrium corpus uteri" dan "kanser endometrium" adalah istilah ontologi yang berbeza untuk entiti klinis yang pada asasnya sama, yang menjelaskan mengapa kedua-duanya menjaringkan hampir sama (99.94%) walaupun pelbagai jumlah bukti yang diambil — istilah peringkat-1 hanya mempunyai liputan pertanyaan langsung yang lebih tipis (3 ujian, 0 hasil literatur) daripada nod sibling-nya (36 ujian, 20 penerbitan, termasuk ujian temsirolimus±MA Fasa III yang selesai dan pelbagai kajian yang ditaja GOG).
+Estrogen merangsang pertumbuhan sel kanser endometrium, dan progestin menentangnya. Dalam amalan klinikal, ubat ini digunakan untuk rawatan pemeliharaan kesuburan bagi penyakit peringkat awal dan hiperplasia atipia, serta untuk penyakit lanjut atau berulang yang positif reseptor hormon.
 
-Kerana mekanisme (agonis PR → proliferasi endometrium yang ditekan) adalah sama tanpa mengira label ontologi yang digunakan, kekuatan ramalan ini harus dibaca bersama-sama dengan kluster bukti "kanser endometrium" dan bukannya dalam isolasi.
+Banyak ujian Fasa 2 menguji megestrol secara tunggal atau gabungan dengan metformin, rosuvastatin, LNG-IUS, pterostilbene, ipatasertib dan perencat PD-1. Tiada RCT Fasa 3 yang dikenal pasti khusus untuk penunjuk ini, maka tahap bukti dihadkan pada L2.
 
 ---
 
-## Bukti Ujian Klinis
+## Bukti Ujian Klinikal
+
+Berikut ialah 10 ujian yang paling relevan (gred A dan B diutamakan).
 
 | Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT04046185](https://clinicaltrials.gov/study/NCT04046185) | Fasa Awal 1 | Tidak diketahui | 60 | Perencat PD-1 digabungkan dengan progesteron vs. progesteron sahaja untuk pemeliharaan kesuburan dalam kanser endometrium peringkat awal |
-| [NCT00503581](https://clinicaltrials.gov/study/NCT00503581) | Fasa 2 | Ditamatkan | 9 | Terapi progestin berterusan vs. berurutan untuk neoplasia intraepitelial endometrium/hiperplasia atipikal pada pesakit yang menginginkan pemeliharaan uterus; ditamatkan dengan sampel yang sangat kecil |
-| [NCT00729586](https://clinicaltrials.gov/study/NCT00729586) | Fasa 2 | Selesai | 73 | Temsirolimus dengan atau tanpa megestrol acetate + tamoxifen dalam karsinoma endometrium maju/berterusan/berulang; menilai secara langsung rejimen yang mengandungi MA |
+| [NCT04491643](https://clinicaltrials.gov/study/NCT04491643) | Fasa 2 | Selesai | 48 | Megestrol + rosuvastatin pada wanita muda dengan kanser endometrium awal (pemeliharaan kesuburan) |
+| [NCT00483327](https://clinicaltrials.gov/study/NCT00483327) | Fasa 2 | Selesai | 31 | Pengurusan konservatif hiperplasia atipia dan kanser endometrium berdiferensiasi baik dengan megestrol |
+| [NCT00739830](https://clinicaltrials.gov/study/NCT00739830) | Fasa 2 | Selesai | 130 | Ridaforolimus berbanding progestin atau kemoterapi dalam kanser endometrium lanjut (megestrol sebagai pembanding aktif) |
+| [NCT03241914](https://clinicaltrials.gov/study/NCT03241914) | Fasa 2/3 | Selesai | 64 | Megestrol + LNG-IUS berbanding megestrol sahaja pada wanita muda dengan kanser endometrium awal |
+| [NCT03671811](https://clinicaltrials.gov/study/NCT03671811) | Fasa 2 | Aktif, tidak merekrut | 44 | Megestrol dengan atau tanpa pterostilbene sebelum histerektomi |
+| [NCT05538897](https://clinicaltrials.gov/study/NCT05538897) | Fasa 1/2 | Aktif, tidak merekrut | 96 | Megestrol dengan atau tanpa ipatasertib dalam kanser endometrioid berulang atau metastatik |
+| [NCT07436793](https://clinicaltrials.gov/study/NCT07436793) | Fasa 2 | Merekrut | 140 | Ujian payung tetingkap pembedahan: megestrol berbanding progesteron termikronkan (belum ada keputusan) |
+| [NCT05332483](https://clinicaltrials.gov/study/NCT05332483) | Fasa 1 | Ditamatkan | 5 | Megestrol pra-pembedahan dalam kanser endometrioid gred 2; sampel terlalu kecil |
+| [NCT06549855](https://clinicaltrials.gov/study/NCT06549855) | Tiada fasa | Merekrut | 10 | Perencat PD-1 + progestin untuk pemeliharaan kesuburan dalam penyakit kekurangan pembaikan ketidakpadanan (eksploratori) |
+| [NCT00729586](https://clinicaltrials.gov/study/NCT00729586) | Fasa 2 | Selesai | 73 | Temsirolimus dengan atau tanpa megestrol dan tamoxifen; bukti tidak langsung |
 
-*Nota: Asas bukti yang jauh lebih besar (36 ujian) wujud untuk nod yang berkaitan rapat "kanser endometrium," termasuk kajian Fasa II/III yang selesai menguji megestrol acetate secara langsung (cth., NCT05538897, NCT04576104, NCT03241914, NCT00016341). Lihat rasional di atas.*
+Ujian lain yang turut dikenal pasti termasuk NCT07831902 (Fasa 3, RAINBO NSMP-ORANGE, 600 peserta, sedang merekrut; radioterapi diikuti progestin oral berbanding radioterapi dengan kemoterapi) dan NCT00016341 (Fasa 3, ditamatkan; kemoterapi berbanding terapi hormon). Kedua-duanya belum dinilai relevannya dalam data yang dikompilasi dan belum mempunyai keputusan yang boleh dirujuk.
 
 ---
 
 ## Bukti Literatur
 
-Pada masa ini tiada literatur berkaitan tersedia untuk istilah ontologi khusus ini (0 hasil PubMed yang direkodkan dalam log pertanyaan untuk "karsinoma endometrium corpus uteri"). Literatur yang besar (20 penerbitan, termasuk ujian GOG bertier-1 rawak, PMID 24456823) wujud untuk istilah yang berkaitan "kanser endometrium."
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [31961463](https://pubmed.ncbi.nlm.nih.gov/31961463/) | 2020 | RCT | BJOG | Metformin + megestrol berbanding megestrol sahaja sebagai rawatan pemeliharaan kesuburan dalam hiperplasia atipia dan kanser endometrium berdiferensiasi baik |
+| [38462352](https://pubmed.ncbi.nlm.nih.gov/38462352/) | 2024 | RCT (susulan jangka panjang) | Zhonghua Yi Xue Za Zhi | Keberkesanan jangka panjang metformin dalam rawatan berasaskan megestrol |
+| [24456823](https://pubmed.ncbi.nlm.nih.gov/24456823/) | 2014 | Kajian GOG | Gynecologic Oncology | Temsirolimus dengan atau tanpa megestrol dan tamoxifen dalam kanser endometrium lanjut atau berulang |
+| [39657575](https://pubmed.ncbi.nlm.nih.gov/39657575/) | 2025 | RCT Fasa 2 | Gynecologic Oncology | Palbociclib + letrozole dalam kanser endometrium positif ER lanjut atau berulang (ENGOT-EN3/PALEO) |
+| [41113060](https://pubmed.ncbi.nlm.nih.gov/41113060/) | 2025 | Kohort | Am J Transl Res | Suntikan Aidi digabungkan dengan megestrol meningkatkan keberkesanan dan keselamatan |
+| [40142282](https://pubmed.ncbi.nlm.nih.gov/40142282/) | 2025 | Ulasan | Medicina | Kajian menyeluruh rawatan pemeliharaan kesuburan; megestrol dan MPA ialah terapi lazim |
+| [25673106](https://pubmed.ncbi.nlm.nih.gov/25673106/) | 2015 | Ulasan | The Oncologist | Progestin dalam rawatan dan rawatan semula pemeliharaan kesuburan |
+| [35454829](https://pubmed.ncbi.nlm.nih.gov/35454829/) | 2022 | Ulasan | Cancers | Pengurusan kanser endometrium pada wanita muda |
+| [33205638](https://pubmed.ncbi.nlm.nih.gov/33205638/) | 2021 | Ulasan | Minerva Medica | Pengurusan pemeliharaan kesuburan dalam kanser endometrium |
+| [8536766](https://pubmed.ncbi.nlm.nih.gov/8536766/) | 1995 | Kajian klinikal | Eur J Gynaecol Oncol | Tamoxifen, megestrol dan interferon beta sebelum pembedahan; perubahan nilai reseptor steroid |
 
 ---
 
-## Maklumat Pasaran Malaysia
+## Status Pasaran di Malaysia
 
-Tiga pendaftaran NPRA ada dalam rekod (`total_licenses: 3`, status pasaran: Dipasarkan), tetapi nombor lesen, nama produk, bentuk dos, dan medan indikasi yang diluluskan tidak diisi dalam paket data ini — butiran peringkat produk tidak dapat diekstrak untuk laporan ini.
+Menurut data yang dikompilasi, megestrol acetate **tidak dipasarkan** di Malaysia dan tiada lesen NPRA direkodkan (jumlah lesen: 0). Oleh itu, jadual lesen tidak dipaparkan. Maklumat ini perlu disahkan semula kerana data NPRA mempunyai jurang.
 
 ---
 
 ## Sitotoksisiti
 
+Megestrol acetate ialah terapi hormon (progestin) untuk kanser, bukan agen sitotoksik konvensional.
+
 | Item | Kandungan |
 |------|------|
-| Pengelasan Sitotoksisiti | Agen antineoplastik hormonal (endokrin) — progestin/agonis PR; **bukan** kemoterapia sitotoksik konvensional |
-| Risiko Penindasan Sumsum Tulang | Rendah — megestrol acetate tidak dikaitkan dengan penindasan sumsum tulang yang klinikal bererti |
-| Pengelasan Emetogenisiti | Rendah |
-| Item Pemantauan | Fungsi adrenal (penindasan adrenal sekunder dilaporkan, PMID 10491532), parameter koagulasi/risiko VTE (PMID 11727356), berat/status glikemik, tekanan darah |
-| Perlindungan Pengendalian | Langkah-langkah pengendalian ubat sitotoksik standard tidak diperlukan (agen hormonal bukan sitotoksik) |
+| Klasifikasi Sitotoksisiti | Terapi hormon (bukan sitotoksik konvensional) |
+| Risiko Penindasan Sumsum Tulang | Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pek |
+| Klasifikasi Emetogenisiti | Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pek |
+| Item Pemantauan | Sila rujuk sisipan pek; adrenal suppression dilaporkan dalam literatur (PMID 10491532) |
+| Perlindungan Pengendalian | Sila rujuk sisipan pek |
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk selebaran produk untuk amaran formal, kontraindikasi, dan data interaksi ubat (tiada yang dapat diperolehi dalam paket data ini; carian DDI tidak menghasilkan hasil).
+- **Interaksi Ubat**: Pertanyaan interaksi selesai dengan 100 interaksi dikesan, kesemuanya tahap **Sederhana** (sumber: DDInter). Antara yang utama:
+  - Ubat antidiabetes: acarbose, albiglutide, alogliptin, metformin, pioglitazone, canagliflozin, chlorpropamide, dapagliflozin, dulaglutide, empagliflozin, linagliptin, glimepiride, repaglinide, semaglutide, saxagliptin, sitagliptin, insulin aspart, insulin degludec
+  - Lain-lain: aprepitant, clarithromycin
 
-Isyarat tambahan yang dicatat dalam literatur yang diambil (bukan sebahagian daripada set data keselamatan formal): penindasan adrenal sekunder dengan terapi MA (PMID 10491532) dan kesan pada hemostasis/risiko tromboembolik pada dos tinggi (PMID 11727356).
+  Pemantauan glukosa darah diperlukan apabila digabungkan dengan ubat antidiabetes.
+
+Amaran utama dan kontraindikasi daripada sisipan pek tidak tersedia. Sila rujuk sisipan pek untuk maklumat keselamatan yang lengkap.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Teruskan dengan Pengawal**
+**Keputusan: Proceed with Guardrails**
 
 **Rasional:**
-Rasional mekanik adalah kuat dan megestrol acetate sudah digunakan secara klinis untuk kanser endometrium, tetapi istilah ontologi khusus yang disenaraikan pertama oleh TxGNN hanya mempunyai bukti ujian langsung yang tipis (3 ujian, tiada literatur) dan jurang data keselamatan yang kritikal (amaran label TFDA/NPRA dan kontraindikasi hilang, ditandakan Menyekat).
+- Banyak ujian Fasa 2 (termasuk satu Fasa 2/3) dan RCT yang diterbitkan menyokong penggunaan megestrol dalam kanser endometrium, terutamanya untuk pemeliharaan kesuburan, tetapi tiada RCT Fasa 3 yang dikenal pasti untuk penunjuk ini, maka tahap bukti kekal L2.
+- Ubat ini tidak mempunyai lesen NPRA, dan data keselamatan sisipan pek tidak tersedia.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Selebaran produk TFDA/NPRA (amaran, kontraindikasi, DDI) — pada masa ini jurang data Menyekat (DG001)
-- MOA bersumber DrugBank dan profil interaksi ubat (DG002)
-- Butiran pendaftaran Malaysia peringkat produk (nombor lesen, bentuk dos, teks indikasi yang diluluskan)
-- Sintesis bukti formal di seluruh nod ontologi "karsinoma endometrium corpus uteri" dan "kanser endometrium," kerana ia mewakili entiti klinis yang sama dan tidak boleh dinilai dalam isolasi
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sahkan status pendaftaran dan pemasaran di Malaysia (jurang data NPRA).
+- Muat turun dan huraikan sisipan pek NPRA untuk amaran dan kontraindikasi (jurang data bersifat penghalang).
+- Data mekanisme tindakan terperinci daripada DrugBank.
+- Pantau keputusan ujian berjalan (NCT07436793, NCT05538897, NCT03671811) dan ujian Fasa 3 RAINBO (NCT07831902).
+- Pelan pemantauan keselamatan untuk populasi khusus, termasuk pesakit diabetes yang menerima ubat antidiabetes serentak.
 
+**Ramalan lain (ringkas):** Kanser ovari (L2, Research Question) mempunyai ujian Fasa 3 NCT00005975, tetapi ujian itu menilai gejala panas badan pada pesakit kanser payudara dan keputusannya tidak dapat disahkan untuk kanser ovari. Kanser korpus uterus (L2) bertindih dengan kanser endometrium. Karsinosarkoma uterus berada di L4, manakala lapan entiti lain (termasuk sindrom kanser payudara-ovari keturunan, tumor epitelium sempadan ovari, kanser plasenta dan adenokarsinoma sel jernih ovari) berada di L5 dan disyorkan **Hold** kerana tiada bukti klinikal.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

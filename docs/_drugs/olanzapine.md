@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Olanzapine
-parent: Low Evidence (L4-L5)
-nav_order: 517
-evidence_level: L5
+parent: High Evidence (L1-L2)
+nav_order: 541
+evidence_level: L1
 indication_count: 5
 ---
 
 # Olanzapine
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **5** 
+Tahap bukti: **L1** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,84 +29,107 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Olanzapine: Dari Skizofrenia/Gangguan Bipolar kepada Gangguan Depresi Berat
+# Olanzapine: Daripada Skizofrenia dan Gangguan Bipolar kepada Gangguan Kemurungan Major
 
 ## Ringkasan Satu Ayat
 
-Olanzapine adalah antipsikotik generasi kedua (atipikal) yang awalnya diluluskan untuk skizofrenia dan gangguan bipolar I. Saluran TxGNN memangkatkan **Gangguan Depresi Berat** sebagai calon penapisan semula teratasinya, tetapi ini bertindih besar dengan penggunaan yang sudah terbentuk (kombinasi olanzapine/fluoxetine untuk depresi tahan rawatan), disokong oleh **~50 ujian klinikal** dan **17 penerbitan** dalam pakej bukti. Nota: pakej bukti itu sendiri menandai masalah kualiti data — dua "ramalan" berpangkat lebih rendah (skizofrenia, gangguan bipolar) sebenarnya adalah petunjuk kelulusan asal olanzapine, bukan calon tulen baharu, jadi pangkatan ini harus diperlakukan dengan hati-hati sehingga pembetulan data huluan.
+Olanzapine ialah antipsikotik generasi kedua yang pada asalnya digunakan untuk skizofrenia dan gangguan bipolar. Model TxGNN meramalkan ia mungkin berkesan untuk **gangguan kemurungan major (major depressive disorder)**, terutamanya sebagai terapi tambahan atau gabungan dengan fluoxetine. Arah ini disokong oleh **10 percubaan klinikal** dan **18 penerbitan** dalam data yang dikumpulkan, termasuk dua percubaan Fasa 3 yang telah selesai.
 
-## Gambaran Pantas
+---
 
-| Item | Kandungan |
+## Gambaran Ringkas
+
+| Perkara | Kandungan |
 |------|------|
-| Petunjuk Asal | Tidak diambil dalam pakej bukti ini (medan `approved_indication_text` lesen TFDA kosong untuk semua 5 lesen sampel, dan `original_indications` ialah tatasusunan kosong — lihat Jurang Data DG001/DG002). Berdasarkan nota penganalisis pakej bukti itu sendiri, petunjuk kelulusan asal olanzapine ialah skizofrenia dan gangguan bipolar I. |
-| Petunjuk Ramalan Baru | Gangguan Depresi Berat |
-| Skor Ramalan TxGNN | 0% (dilaporkan sebagai 0.0 — ini nampak anomali untuk calon pangkat-1; perlakukan sebagai bendera kualiti data, bukan skor benar hampir-sifar) |
-| Tahap Bukti | L1 (≥2 RCT Fasa 3 siap: NCT00035321, NCT00958568, antara lain) |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Marketed) |
-| Bilangan Pendaftaran | 34 |
-| Keputusan Disyorkan | Tahan |
+| Indikasi Asal | Skizofrenia dan gangguan bipolar (menurut graf pengetahuan TxGNN; maklumat indikasi berlesen tempatan tidak tersedia) |
+| Indikasi Baharu yang Diramalkan | Gangguan kemurungan major (major depressive disorder) |
+| Skor Ramalan TxGNN | 0.00% (nilai ini tidak mencerminkan kekuatan bukti sebenar dan perlu disahkan semula) |
+| Tahap Bukti | L1 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan yang Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan terperinci tidak tersedia (Jurang Data DG002). Berdasarkan farmakoloji yang diketahui, olanzapine adalah antipsikotik multireseptor-bertujuan (MARTA) dengan antagonisme di reseptor dopamin D2, serotonin 5-HT2A/5-HT2C, dan reseptor monoamin lain — aktiviti reseptor yang bertindih secara mekanis dengan beberapa strategi penambahan antidepresan dan antipsikotik yang digunakan dalam gangguan mood.
+Data terperinci tentang mekanisme tindakan tidak tersedia dalam set data ini. Berdasarkan farmakologi yang telah mantap, olanzapine ialah antagonis reseptor 5-HT2A/5-HT2C, D2 dan H1. Dalam gabungan dengan fluoxetine (OFC), sekatan 5-HT2C dipercayai meningkatkan pelepasan dopamin dan norepinefrin di korteks prafrontal. Ini menyokong penggunaannya sebagai tambahan kepada terapi SSRI dalam kemurungan rintang rawatan.
 
-Petunjuk kelulusan olanzapine (skizofrenia, gangguan bipolar I — termasuk depresi bipolar melalui kombinasi olanzapine/fluoxetine, OFC/Symbyax) sudah duduk dalam ruang penyakit spektrum mood/psikotik yang sama dengan gangguan depresi berat. Inilah sebabnya bukti literatur di bawah dikuasai oleh penambahan dan kajian terapi kombinasi daripada ujian monotipi novel.
+Skizofrenia, gangguan bipolar dan kemurungan major sama-sama melibatkan ketidakseimbangan sistem monoamina. Ulasan literatur menyatakan antipsikotik generasi kedua, termasuk olanzapine, telah diluluskan di luar negara sebagai terapi tambahan untuk kemurungan major, tetapi hanya pada dos di bawah dos antipsikotik.
 
-Dengan penting, calon ini **bukan hipotesis mekanis novel** — OFC sudah merupakan rawatan yang diluluskan, dirujuk garis panduan untuk depresi tahan rawatan, dan penambahan olanzapine antidepresan ialah strategi yang terdokumen, biasa digunakan di luar label. "Ramalan" di sini sebagian besar mencerminkan penyatuan amalan klinikal sedia ada daripada isyarat baru, yang harus memperlindungi keghairahan meskipun tahap bukti L1.
+Satu perkara perlu diberi perhatian. Senarai indikasi asal dalam graf pengetahuan sudah merangkumi kemurungan major, jadi "ramalan" ini lebih menyerupai pengesahan indikasi yang sudah wujud daripada penemuan indikasi yang benar-benar baharu. Rujukan kepada kemurungan major dalam laporan ini perlu dibaca dengan ingatan ini.
 
-## Bukti Ujian Klinikal
+---
 
-| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
+## Bukti Percubaan Klinikal
+
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT00958568](https://clinicaltrials.gov/study/NCT00958568) | Fasa 3 | Siap | 892 | OFC jangka panjang vs. fluoxetine sahaja untuk pencegahan relaps dalam depresi tahan rawatan |
-| [NCT00035321](https://clinicaltrials.gov/study/NCT00035321) | Fasa 3 | Siap | 600 | Kombinasi olanzapine + fluoxetine untuk depresi tahan rawatan tanpa ciri psikotik |
-| [NCT00510146](https://clinicaltrials.gov/study/NCT00510146) | Fasa 3 | Siap | 514 | Olanzapine vs. plasebo dalam gangguan bipolar I, tertekan |
-| [NCT00056472](https://clinicaltrials.gov/study/NCT00056472) | Fasa 3 | Siap | 259 | Kombinasi SSRI + antipsikotik untuk depresi psikotik |
-| [NCT00402324](https://clinicaltrials.gov/study/NCT00402324) | Fasa 4 | Siap | 202 | Divalproex + olanzapine untuk episod bercampur gangguan bipolar I |
-| [NCT00618748](https://clinicaltrials.gov/study/NCT00618748) | Fasa 3 | Siap | 101 | Olanzapine jangka panjang dalam gangguan bipolar I, tertekan |
-| [NCT01282632](https://clinicaltrials.gov/study/NCT01282632) | Fasa 1/2 | Siap | 42 | Olanzapine vs. risperidone sebagai tambahan SSRI dalam depresi tahan rawatan |
-| [NCT05814640](https://clinicaltrials.gov/study/NCT05814640) | Fasa 1/2 | Merekrut | 520 | STAR-AD: ujian pragmatik strategi antidepresan pada kanak-kanak/remaja tertekan |
-| [NCT00520507](https://clinicaltrials.gov/study/NCT00520507) | Fasa 4 | Siap | 27 | Seni bina tidur dan perubahan kognitif pada pesakit tertekan dirawat olanzapine |
-| [NCT00273624](https://clinicaltrials.gov/study/NCT00273624) | Fasa 3 | Ditarik balik | 0 | Penambahan olanzapine vs. plasebo dalam depresi berat (ujian tidak diteruskan) |
+| [NCT00035321](https://clinicaltrials.gov/study/NCT00035321) | Fasa 3 | Selesai | 600 | Olanzapine + fluoxetine dalam kemurungan rintang rawatan tanpa ciri psikotik; dibandingkan dengan setiap ubat secara bersendirian |
+| [NCT00056472](https://clinicaltrials.gov/study/NCT00056472) | Fasa 3 | Selesai | 259 | SSRI digabungkan dengan antipsikotik dalam kemurungan psikotik |
+| [NCT00844857](https://clinicaltrials.gov/study/NCT00844857) | Fasa 4 | Selesai | 291 | Olanzapine/fluoxetine berbanding plasebo pada remaja umur 10-17 tahun dengan episod kemurungan major berkaitan bipolar I |
+| [NCT01282632](https://clinicaltrials.gov/study/NCT01282632) | Fasa 1/2 | Selesai | 42 | Perintis buta ganda: risperidone berbanding olanzapine sebagai tambahan kepada SSRI dalam kemurungan rintang rawatan |
+| [NCT00568672](https://clinicaltrials.gov/study/NCT00568672) | Fasa 3 | Ditarik balik | 0 | Tempoh optimum olanzapine tambahan dalam kemurungan major; tiada peserta, maka tiada data |
+| [NCT01305707](https://clinicaltrials.gov/study/NCT01305707) | Fasa 4 | Ditamatkan | 104 | ECT penyelenggaraan + farmakoterapi berbanding farmakoterapi sahaja; olanzapine bukan pemboleh ubah yang diuji |
+| [NCT00188942](https://clinicaltrials.gov/study/NCT00188942) | Fasa 4 | Selesai | 42 | Kajian fMRI tentang pemprosesan emosi dalam kemurungan bipolar dan unipolar; pesakit dirawat dengan fluoxetine + olanzapine |
+| [NCT00520507](https://clinicaltrials.gov/study/NCT00520507) | Fasa 4 | Selesai | 27 | Perubahan seni bina tidur dan kognisi pada pesakit kemurungan yang dirawat dengan olanzapine (kajian mekanistik/keselamatan) |
+| [NCT00179062](https://clinicaltrials.gov/study/NCT00179062) | Tiada | Selesai | 300 | Kenaikan berat badan dan kesihatan fizikal: risperidone berbanding olanzapine (kajian metabolik, bukan keberkesanan kemurungan) |
+| [NCT03857581](https://clinicaltrials.gov/study/NCT03857581) | Fasa 4 | Tidak diketahui | 100 | Clozapine berbanding olanzapine dalam gangguan psikotik dengan penyalahgunaan bahan; bukan percubaan kemurungan |
+
+---
 
 ## Bukti Literatur
 
+Tiada RCT utama dalam senarai ini. Kebanyakannya ialah ulasan sistematik atau meta-analisis rangkaian, yang diutamakan berbanding ulasan naratif.
+
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [38360024](https://pubmed.ncbi.nlm.nih.gov/38360024/) | 2024 | Meta-analisis rangkaian | The Lancet Psychiatry | Keberkesanan/keselamatan perbandingan rawatan farmakologi untuk depresi psikotik |
-| [37149344](https://pubmed.ncbi.nlm.nih.gov/37149344/) | 2023 | Ulasan | Psychiatric Clinics of North America | Antidepresan dan antipsikotik atipikal untuk depresi tahan rawatan |
-| [35510505](https://pubmed.ncbi.nlm.nih.gov/35510505/) | 2023 | Ulasan sistematik/meta-analisis | Psychological Medicine | Keberkesanan dan keselamatan/tolerabiliti antipsikotik (termasuk olanzapine) dalam MDD |
-| [37746943](https://pubmed.ncbi.nlm.nih.gov/37746943/) | 2023 | Meta-analisis rangkaian | Medicine | Keberkesanan/keselamatan perbandingan 4 antipsikotik atipikal sebagai penambahan MDD |
-| [36855876](https://pubmed.ncbi.nlm.nih.gov/36855876/) | 2023 | Ulasan | American Journal of Psychiatry | Bagaimana antipsikotik sesuai dalam landskap depresi tahan rawatan |
-| [35861202](https://pubmed.ncbi.nlm.nih.gov/35861202/) | 2023 | Ulasan sistematik/meta-analisis | Journal of Psychopharmacology | Rawatan penambahan/kombinasi untuk depresi tahan rawatan tahap awal |
-| [34986373](https://pubmed.ncbi.nlm.nih.gov/34986373/) | 2022 | Meta-analisis rangkaian | Journal of Affective Disorders | Strategi penambahan untuk depresi berat tahan rawatan |
-| [34238049](https://pubmed.ncbi.nlm.nih.gov/34238049/) | 2021 | Ulasan | Journal of Psychopharmacology | Antidepresan + SGA vs. esketamine vs. litium untuk depresi berat |
-| [25963405](https://pubmed.ncbi.nlm.nih.gov/25963405/) | 2016 | Ulasan | Asia-Pacific Psychiatry | Antipsikotik (termasuk olanzapine) sebagai antidepresan |
-| [21154393](https://pubmed.ncbi.nlm.nih.gov/21154393/) | 2010 | Ulasan sistematik Cochrane | Cochrane Database of Systematic Reviews | Antipsikotik generasi kedua untuk gangguan depresi berat dan distimia |
+| [34986373](https://pubmed.ncbi.nlm.nih.gov/34986373/) | 2022 | Ulasan sistematik / NMA | J Affect Disord | Membandingkan keberkesanan dan kadar penghentian agen tambahan dalam kemurungan rintang rawatan dewasa |
+| [38360024](https://pubmed.ncbi.nlm.nih.gov/38360024/) | 2024 | Ulasan sistematik / NMA | Lancet Psychiatry | Membandingkan keberkesanan dan keselamatan rawatan farmakologi untuk kemurungan psikotik |
+| [37595997](https://pubmed.ncbi.nlm.nih.gov/37595997/) | 2023 | Ulasan sistematik / NMA | Lancet Psychiatry | Perbandingan keberkesanan dan toleransi intervensi farmakologi untuk kemurungan bipolar akut |
+| [35861202](https://pubmed.ncbi.nlm.nih.gov/35861202/) | 2023 | Ulasan sistematik / meta-analisis | J Psychopharmacol | Menilai bukti rawatan tambahan/gabungan untuk kemurungan rintang rawatan peringkat awal |
+| [34238049](https://pubmed.ncbi.nlm.nih.gov/34238049/) | 2021 | Ulasan sistematik / meta-analisis | J Psychopharmacol | Antidepresan + antipsikotik generasi kedua berbanding esketamine dan lithium dalam kemurungan major |
+| [21154393](https://pubmed.ncbi.nlm.nih.gov/21154393/) | 2010 | Ulasan sistematik (Cochrane) | Cochrane Database Syst Rev | Antipsikotik generasi kedua untuk kemurungan major dan distimia apabila ditambah kepada antidepresan |
+| [37149344](https://pubmed.ncbi.nlm.nih.gov/37149344/) | 2023 | Ulasan | Psychiatr Clin North Am | Antipsikotik atipikal ialah agen tambahan yang paling banyak dikaji dalam kemurungan rintang rawatan |
+| [36855876](https://pubmed.ncbi.nlm.nih.gov/36855876/) | 2023 | Ulasan | Am J Psychiatry | Kedudukan antipsikotik dalam landskap terapeutik kemurungan rintang rawatan |
+| [25963405](https://pubmed.ncbi.nlm.nih.gov/25963405/) | 2016 | Ulasan | Asia Pac Psychiatry | Quetiapine, aripiprazole dan olanzapine diluluskan oleh FDA sebagai tambahan kepada antidepresan; berkesan pada dos di bawah dos antipsikotik |
+| [20675970](https://pubmed.ncbi.nlm.nih.gov/20675970/) | 2010 | Analisis NNT/NNH | Postgrad Med | Keberkesanan dan keselamatan aripiprazole, olanzapine atau quetiapine tambahan dalam kemurungan major |
 
-## Maklumat Pasaran Malaysia
-
-Olanzapine dipasarkan di Malaysia dengan **34 jumlah pendaftaran**, tetapi pakej bukti ini tidak mengandungi perincian setiap lesen — semua 5 rekod lesen sampel mempunyai medan kosong `license_number`, `product_name_zh`, `dosage_form`, `manufacturer`, dan `approved_indication_text`. Jadual kebenaran terperinci tidak boleh dihasilkan sehingga data lesen NPRA ini diisi.
+---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan. (Medan `key_warnings`, `contraindications`, dan DDI pakej bukti ini semua jurang data — terutama DG001, ditandai **Blocking**, bermakna pra-penyaringan keselamatan tidak boleh dilakukan untuk calon ini.)
+**Penyakit/keadaan yang dikaitkan dengan kontraindikasi (daripada graf pengetahuan, bukan teks sisip pakej):**
+
+- Kardiovaskular dan serebrovaskular: strok, infarksi serebrum, infarksi miokardium, trombosis koronari, hipotensi, hipotensi ortostatik, sindrom takikardia postural ortostatik, atrofi sistem berbilang.
+- Metabolik: hiperglikemia, diabetes mellitus, ketoasidosis diabetik, hipertrigliseridemia, hiperlipidemia, obesiti.
+- Hematologi: neutropenia, agranulositosis, gangguan pembekuan darah.
+- Hepatik dan hempedu: penyakit hati, kegagalan hati, sirosis, penyakit pundi hempedu.
+- Lain-lain: epilepsi, hiperplasia prostat jinak, karsinoma payudara wanita.
+
+Senarai ini menunjukkan pemantauan metabolik (glukosa, lipid, berat badan) dan penilaian kardiovaskular perlu diutamakan.
+
+**Interaksi Ubat:** Pangkalan data mencatatkan 100 interaksi. Antara yang dipaparkan, interaksi **Major** ialah bupropion, morfin dan kalium sitrat. Interaksi **Sederhana** termasuk ubat antidiabetes (metformin, acarbose, canagliflozin, dapagliflozin, alogliptin, albiglutide, chlorpropamide), agen antikolinergik (atropin, hyoscyamine, glycopyrronium), famotidine, epinefrin, loperamide, clarithromycin dan lorcaserin.
+
+Maklumat amaran utama dan kontraindikasi daripada sisip pakej tidak diperoleh. Sila rujuk sisip pakej untuk maklumat keselamatan yang lengkap.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Proceed with Guardrails (Teruskan dengan Langkah Kawalan)**
 
 **Rasional:**
-Jurang data Blocking (DG001 — amaran TFDA/kontraindikasi) menghalang sebarang pra-penyaringan keselamatan (tahap S0) calon ini. Selain itu, saluran ramalan itu sendiri menandai masalah integriti data dalam kelompok ini: dua "ramalan" berpangkat lain (skizofrenia, gangguan bipolar) sebenarnya adalah petunjuk kelulusan asal olanzapine daripada calon novel, dan skor ramalan MDD pangkat-1 (0.0) anomali — kedua-duanya melemahkan kepercayaan sama ada pangkatan ini mencerminkan isyarat penapisan semula tulen versus penyatuan penggunaan klinikal sudah diketahui (OFC untuk depresi tahan rawatan).
+- Terdapat dua percubaan Fasa 3 yang telah selesai (NCT00035321, n=600; NCT00056472, n=259) dan beberapa ulasan sistematik/NMA yang menyokong olanzapine, terutamanya gabungan dengan fluoxetine, dalam kemurungan rintang rawatan dan kemurungan psikotik. Tahap bukti ialah L1.
+- Profil risiko metabolik dan kardiovaskular yang ketara serta ketiadaan produk berdaftar di Malaysia memerlukan langkah kawalan yang jelas sebelum penggunaan.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Sisipan pakej TFDA/NPRA — amaran, kontraindikasi (DG001, Blocking)
-- Mekanisme tindakan yang disahkan dari DrugBank (DG002)
-- Pembetulan medan `original_indications` huluan supaya calon novel tulen dapat dibezakan daripada kegunaan sudah diluluskan
-- Pengesahan semula saluran penilaian TxGNN untuk menyelesaikan skor ramalan anomali 0.0
-- Data lesen peringkat NPRA yang diisi (nama produk, bentuk dos, teks petunjuk kelulusan) untuk 34 produk berdaftar
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Mendapatkan dan menilai sisip pakej serta amaran/kontraindikasi rasmi (maklumat ini tidak diperoleh, dan ia menghalang saringan keselamatan peringkat seterusnya).
+- Melengkapkan data mekanisme tindakan (MOA) daripada DrugBank.
+- Mengesahkan semula skor ramalan TxGNN (0.00%) dan menjelaskan sama ada ini indikasi yang benar-benar baharu, memandangkan kemurungan major sudah tersenarai dalam indikasi asal.
+- Menyemak populasi sebenar bagi percubaan yang tajuknya dipotong (contohnya NCT00844857 dan NCT00056472).
+- Menentukan laluan kawal selia di Malaysia (tiada pendaftaran sedia ada) serta dos dan produk gabungan yang sesuai.
+- Menyediakan pelan pemantauan metabolik (glukosa, lipid, berat badan) dan kardiovaskular, serta panduan untuk interaksi ubat Major (bupropion, morfin, kalium sitrat).
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

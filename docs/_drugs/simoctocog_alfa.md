@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Simoctocog Alfa
-parent: Low Evidence (L4-L5)
-nav_order: 616
-evidence_level: L5
+parent: High Evidence (L1-L2)
+nav_order: 646
+evidence_level: L1
 indication_count: 10
 ---
 
 # Simoctocog Alfa
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L1** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,67 +29,84 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Simoctocog Alfa: Daripada Hemofilia A kepada Penyakit Pseudo-von Willebrand
+# Simoctocog alfa: Daripada Hemofilia A kepada Hemofilia (Ramalan TxGNN)
 
-## Ringkasan Satu Kalimat
+## Ringkasan Satu Ayat
 
-Simoctocog alfa (Nuwiq®) adalah faktor VIII manusia rekombinan generasi keempat (rFVIII) yang penggunaannya yang telah ditetapkan adalah terapi penggantian untuk **Hemofilia A**. Prediksi indikasi baru berperingkat teratas model TxGNN adalah **Penyakit Pseudo-von Willebrand**, tetapi kandidat ini kini tidak memiliki ujian klinis pendukung dan publikasi, dan rasional perawatan ubat itu sendiri menunjukkan bahwa mekanisme asasnya tidak sesuai dengan penyakit ini.
-
----
-
-## Gambaran Umum Cepat
-
-| Item | Konten |
-|------|--------|
-| Indikasi Asal | Hemofilia A (tidak terdapat dalam catatan lisensi NPRA yang dikumpulkan untuk paket ini; disimpulkan dari identiti ubat sebagai terapi penggantian rFVIII dan disahkan oleh bukti hemofilia di bawah) |
-| Indikasi Baru yang Diprediksi | Penyakit Pseudo-von Willebrand |
-| Skor Prediksi TxGNN | 99.99% |
-| Tingkat Bukti | L5 (prediksi model sahaja, tiada studi pendukung) |
-| Status Pasar Malaysia | ✓ Dipasarkan |
-| Jumlah Pendaftaran | 8 |
-| Keputusan yang Disarankan | Tahan |
+Simoctocog alfa (Nuwiq®) ialah faktor VIII (FVIII) rekombinan generasi ke-4 yang dihasilkan daripada sel manusia, dan digunakan untuk merawat serta mencegah pendarahan pada pesakit hemofilia A. Model TxGNN meramalkan ia berkesan untuk **hemofilia** (skor 99.98%). Ramalan ini disokong oleh **2 percubaan klinikal** yang berkaitan (satu tidak diketahui statusnya, satu ditarik balik) dan **20 penerbitan**, termasuk kajian prospektif NuProtect. Perlu diambil perhatian bahawa ini sebenarnya penggunaan sedia ada (on-label), bukan pengubahsuaian guna sebenar.
 
 ---
 
-## Mengapa Prediksi Ini Masuk Akal?
+## Gambaran Keseluruhan Pantas
 
-Kini, data mekanisme aksi terperinci tidak tersedia dalam paket bukti ini (`original_moa` tidak diselesaikan). Berdasarkan identiti ubat yang diketahui, simoctocog alfa adalah rFVIII yang berasal daripada lini sel manusia yang secara langsung menggantikan faktor VIII yang kekurangan pada pesakit hemofilia A — keupayaannya dalam tetapan tersebut telah terbukti dengan baik (lihat bukti hemofilia di bawah, yang telah dicatat untuk ubat yang sama dalam konteks calon berperingkat berbeza).
-
-Untuk prediksi berperingkat teratas, **Penyakit Pseudo-von Willebrand**, kes mekanistik adalah lemah. Menurut rasional perawatan ubat yang disediakan dengan calon ini: penyakit pseudo-von Willebrand disebabkan oleh mutasi trombosit GP1BA yang secara tidak normal meningkatkan afiniti trombosit terhadap faktor von Willebrand (VWF), yang menyebabkan penipisan multimer VWF berat molekul tinggi dan trombositopenia konsumptif — ia **bukan** gangguan kekurangan FVIII. Melengkapi rFVIII tidak membetulkan kecacatan asas ini. Skor TxGNN yang tinggi paling mungkin mencerminkan kedekatan semantik dalam kluster embedding "gangguan pendarahan" daripada mekanisme farmakologi yang tulen, dan tiada bukti ujian klinis atau literatur yang ada kini untuk menyokong prediksi.
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Hemofilia A (menurut literatur; data indikasi lesen NPRA tidak tersedia) |
+| Indikasi Baharu yang Diramalkan | Hemofilia |
+| Skor Ramalan TxGNN | 99.98% |
+| Tahap Bukti | L1 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Proceed with Guardrails |
 
 ---
 
-## Bukti Ujian Klinis
+## Mengapa Ramalan Ini Munasabah?
 
-Kini tiada ujian klinis berkaitan yang berdaftar.
+Simoctocog alfa ialah FVIII rekombinan dengan domain-B dipadam, dihasilkan dalam titisan sel ginjal embrio manusia (HEK293F). Proses ini memberikan pemprosesan pasca-translasi khusus manusia, tanpa pengubahsuaian kimia atau gabungan dengan protein lain. Ia menggantikan secara langsung faktor pembekuan VIII yang hilang pada hemofilia A.
+
+Ramalan TxGNN konsisten dengan mekanisme tindakan yang sedia ada. Hemofilia A ialah gangguan pendarahan keturunan yang paling kerap, dan penggantian FVIII ialah rawatan standard. Data kajian NuProtect (108 pesakit yang belum pernah dirawat) menunjukkan kadar perencat titer tinggi sebanyak 16.2%, dan tiada perencat berkembang pada pesakit dengan mutasi F8 bukan-null.
+
+Data mekanisme terperinci daripada pangkalan data rujukan tidak tersedia. Bukti ini terterpakai pada hemofilia A sahaja, dan **tidak** terpakai pada hemofilia B (kekurangan faktor IX) yang tidak dirawat oleh FVIII.
+
+---
+
+## Bukti Percubaan Klinikal
+
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
+|---------|------|------|------|---------|
+| [NCT04592692](https://clinicaltrials.gov/study/NCT04592692) | Fasa 2 | Tidak diketahui | 20 | Kajian PK dan aktiviti pembekuan FVIII-PEGLip (liposom ber-PEG) pada hemofilia A teruk dengan/tanpa perencat; produk berbeza, relevan secara tidak langsung |
+| [NCT04030052](https://clinicaltrials.gov/study/NCT04030052) | Fasa 3 | Ditarik balik | 0 | Emicizumab dengan induksi toleransi imun Nuwiq pada kanak-kanak; ditarik balik tanpa peserta, tiada bukti boleh digunakan |
 
 ---
 
 ## Bukti Literatur
 
-Kini tiada literatur berkaitan yang tersedia.
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [37439123](https://pubmed.ncbi.nlm.nih.gov/37439123/) | 2023 | Kajian klinikal (prospektif) | Eur J Haematol | Keputusan akhir NuProtect: 108 PUP, perencat titer tinggi 16.2% |
+| [37335546](https://pubmed.ncbi.nlm.nih.gov/37335546/) | 2023 | Kajian klinikal jangka panjang | Haemophilia | Imunogenisiti, keberkesanan dan toleransi jangka panjang pasca NuProtect |
+| [33581698](https://pubmed.ncbi.nlm.nih.gov/33581698/) | 2021 | Kajian klinikal | Thromb Haemost | Keputusan akhir NuProtect pada pesakit belum dirawat |
+| [31263528](https://pubmed.ncbi.nlm.nih.gov/31263528/) | 2019 | Ulasan data percubaan | Ther Adv Hematol | Program GENA: 7 kajian prospektif, 201 pesakit PTP; tiada perencat pada PTP |
+| [38737006](https://pubmed.ncbi.nlm.nih.gov/38737006/) | 2024 | Ulasan | Ther Adv Hematol | Penggunaan Nuwiq pada kanak-kanak dengan hemofilia A teruk |
+| [37587687](https://pubmed.ncbi.nlm.nih.gov/37587687/) | 2023 | Analisis perbandingan (MAIC) | Eur J Haematol | Perbandingan tidak langsung dengan rFVIII separuh hayat dilanjutkan dalam profilaksis peribadi |
+| [29050497](https://pubmed.ncbi.nlm.nih.gov/29050497/) | 2017 | Ulasan | Expert Opin Biol Ther | Ulasan simoctocog alfa untuk hemofilia A |
+| [28103444](https://pubmed.ncbi.nlm.nih.gov/28103444/) | 2017 | Ulasan | Expert Opin Drug Saf | Keberkesanan dan keselamatan rFVIII daripada titisan sel manusia |
+| [33966319](https://pubmed.ncbi.nlm.nih.gov/33966319/) | 2021 | Kajian farmakokinetik | Haemophilia | Perbandingan PK subjek tunggal dan berasaskan populasi untuk profilaksis |
+| [39624518](https://pubmed.ncbi.nlm.nih.gov/39624518/) | 2024 | Reka bentuk kajian (Fasa IV) | Ther Adv Hematol | Protokol NuDIMENSION: wanita/gadis dengan hemofilia A menjalani pembedahan; belum ada keputusan |
 
 ---
 
-## Pertimbangan Keselamatan
+## Keselamatan
 
-Sila rujuk prospektus untuk maklumat keselamatan.
+Sila rujuk sisipan pembungkusan untuk maklumat keselamatan.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Proceed with Guardrails**
 
 **Rasional:**
-- Calon berperingkat teratas (Penyakit Pseudo-von Willebrand) tidak memiliki bukti klinis atau literatur (L5) dan rasional mekanistik yang berhujah menentang keberkesanan, bukan memenyokongnya.
-- Untuk konteks, paket bukti ini juga menyaring 9 calon TxGNN lain untuk simoctocog alfa: satu-satunya dengan bukti kuat adalah "hemofilia" itu sendiri (L1, 3 ujian klinis termasuk kajian penting NuProtect, 19 publikasi) — yang merupakan indikasi yang diluluskan ubat yang sedia ada, bukan peluang perawatan semula yang baru. Satu calon yang tulen baru yang mencapai malah tingkat bukti awal adalah "bentuk simtomatik hemofilia pada pembawa wanita" (L4, Soalan Penyelidikan); semua calon yang tinggal (penyakit pseudo-von Willebrand, gangguan pelepasan trombosit utama, trombastenia Glanzmann, sindrom Scott, kekurangan faktor koagulasi yang diperoleh, diatesis pendarahan reseptor kolagen, trombositopenia konstitusional, dan trombositopenia aloimun fetal/neonatal) adalah Tahan, kesemua L5, dan beberapa rasional secara jelas menyatakan bahawa mekanisme penyakit tidak melibatkan kekurangan FVIII.
+- Bukti literatur untuk hemofilia A kukuh (kajian NuProtect dan program GENA), selaras dengan mekanisme penggantian FVIII. Namun produk ini tidak berdaftar di Malaysia, dan percubaan klinikal yang tersenarai tidak memberikan bukti langsung (satu tidak diketahui statusnya, satu ditarik balik).
+- Ramalan lain dalam senarai (cth. pseudo-von Willebrand, Glanzmann thrombasthenia, sindrom Scott, trombositopenia) ialah kecacatan platelet atau imun yang tidak ditangani oleh penggantian FVIII; ia berstatus L5/Hold dan kemungkinan hanya mencerminkan kedekatan dalam graf. Pembawa wanita bergejala (L4) ialah soalan penyelidikan sahaja.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Selesaikan jurang data penyekat: amaran dan kontraindikasi prospektus TFDA/NPRA (kini tidak tersedia), diperlukan sebelum sebarang penapisan keselamatan S1.
-- Perolehi data mekanisme-aksi yang disahkan melalui DrugBank untuk secara rasmi mendokumentasikan kaitan indikasi asal ubat.
-- Jika meneruskan perawatan semula lebih lanjut, utamakan "bentuk simtomatik hemofilia pada pembawa wanita" daripada penyakit pseudo-von Willebrand memandangkan kaitan mekanistik yang lebih sesuai terhadap penggantian FVIII, dan melakukan pencarian ujian klinis/literatur yang disasarkan untuk calon tersebut.
-
+- Maklumat amaran dan kontraindikasi daripada sisipan pembungkusan (halangan utama sebelum saringan keselamatan)
+- Pengesahan status pendaftaran dan laluan kelulusan di Malaysia (NPRA)
+- Data mekanisme tindakan daripada pangkalan data rujukan
+- Pengesahan indikasi asal yang berlesen
+- Pemantauan perencat FVIII dan pelan keselamatan untuk populasi khas (pesakit belum dirawat, kanak-kanak, pembawa wanita)
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

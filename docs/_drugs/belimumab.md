@@ -2,7 +2,7 @@
 layout: default
 title: Belimumab
 parent: Low Evidence (L4-L5)
-nav_order: 123
+nav_order: 128
 evidence_level: L5
 indication_count: 6
 ---
@@ -29,89 +29,95 @@ Tahap bukti: **L5** | Indikasi diramal: **6**
 
 </div>
 
-# Belimumab: Dari Lupus Eritematosus Sistemik kepada Gangguan Pelepasan Primer Trombosit
+# Belimumab: Daripada Lupus Eritematosus Sistemik kepada Gangguan Pelepasan Primer Platelet
 
 ## Ringkasan Satu Ayat
 
-Belimumab adalah antibodi monoklonal yang menyasarkan BLyS (perangsang limfosit B), yang pada asalnya telah diluluskan untuk rawatan lupus eritematosus sistemik (LES) dan nefritis lupus. Model TxGNN meramalkan ia mungkin berkesan untuk **Gangguan Pelepasan Primer Trombosit**, tetapi pada masa ini **tiada ujian klinis yang langsung relevan** dan **tiada penerbitan** yang menyokong arah ubat semula jenis ini. Alasan mekanis sangat lemah, kerana gangguan pelepasan trombosit adalah kecacatan struktur/genetik yang tidak berkaitan dengan biologi sel B.
+Belimumab ialah antibodi monoklonal yang digunakan pada asalnya untuk merawat lupus eritematosus sistemik (SLE), termasuk SLE pediatrik.
+Model TxGNN meramalkan ia mungkin berkesan untuk **gangguan pelepasan primer platelet** dengan skor yang tinggi, tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong arah ini.
+Ramalan ini bersifat pengiraan model sahaja.
+
+---
 
 ## Gambaran Keseluruhan Pantas
 
 | Perkara | Kandungan |
-|---------|----------|
-| Indikasi Asal | Lupus eritematosus sistemik (LES) (butir lesen tertunda) |
-| Indikasi Ramalan Baru | Gangguan pelepasan primer trombosit |
+|------|------|
+| Indikasi Asal | Lupus eritematosus sistemik; lupus eritematosus sistemik pediatrik |
+| Indikasi Baharu yang Diramalkan | Gangguan pelepasan primer platelet (primary release disorder of platelets) |
 | Skor Ramalan TxGNN | 99.96% |
-| Tahap Bukti | L5 (Ramalan model sahaja, tiada kajian sebenar) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 1 |
-| Cadangan Keputusan | Tahan |
-
-## Mengapa Ramalan Ini Munasabah?
-
-Belimumab (dipasarkan sebagai Benlysta oleh GSK) adalah antibodi monoklonal IgG1λ manusia sepenuhnya yang menghalang perangsang limfosit B (BLyS, juga dikenali sebagai BAFF). Dengan menghalang ikatan BLyS yang larut kepada reseptornya pada sel B, belimumab mengurangkan survival sel B, pembezaan kepada sel plasma penghasil imunoglobulin, dan akhirnya mengurangkan pengeluaran autiantibodi. Mekanisme ini telah terbukti berkesan secara klinis dalam lupus eritematosus sistemik (LES) dan nefritis lupus, di mana autiantibodi patogenik mendorong penyakit.
-
-Gangguan pelepasan primer trombosit (cth., kekurangan simpanan-δ) adalah sekumpulan keadaan warisan yang dicirikan oleh sekresi granul yang cacat daripada trombosit semasa pengaktifan. Gangguan ini timbul daripada kecacatan struktur atau genetik dalam granul padat trombosit atau granul alfa — mekanisme patologi yang pada asasnya berbeza daripada penyakit yang dimediasi autiantibodi. Perencatan sel B melalui pemblokadan BLyS tidak menangani mekanisme sekresi granul trombosit yang intrinsik.
-
-Satu-satunya hubungan tidak langsung yang boleh dibayangkan ialah pesakit LES kadangkala boleh menunjukkan disfungsi trombosit concomitant, tetapi ini mewakili komorbidit daripada hubungan kausal. Skor ramalan tinggi model TxGNN mungkin mencerminkan jarak topologi dalam graf pengetahuan antara kejiranan imunologi belimumab dan nod hematologi, bukannya jalan mekanis yang tulin. **Ramalan ini tidak dianggap munasabah secara saintifik berdasarkan pemahaman semasa.**
-
-## Bukti Ujian Klinis
-
-| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT01610492](https://clinicaltrials.gov/study/NCT01610492) | Fasa 2 | Selesai | 14 | Belimumab dalam nefritis glomeruli membran idiopatik (anti-PLA2R antibodi positif). **Gred Kaitan: C** — ujian ini menyiasat penyakit ginjal autoimmun, bukan gangguan pelepasan trombosit. Berkemungkinan kesalahan pemetaan data. |
-
-> **Nota:** Ujian tunggal yang diperoleh tidak relevan dengan indikasi yang diramalkan. Ia mengkaji belimumab dalam nefritis membran, entiti penyakit yang sepenuhnya berbeza. Secara berkesan, **tiada ujian klinis** yang menyiasat belimumab untuk gangguan pelepasan trombosit.
-
-## Bukti Sastera
-
-Pada masa ini tiada sastera berkaitan tersedia.
-
-## Maklumat Pasaran Malaysia
-
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| (Butir tertunda) | (Butir tertunda) | (Butir tertunda) | (Butir tertunda) |
-
-> **Nota:** Belimumab mempunyai 1 produk terdaftar di Malaysia dengan status dipasarkan. Maklumat lesen terperinci (nama produk, bentuk dos, teks indikasi yang diluluskan) tidak tersedia dalam ekstrak data semasa dan memerlukan penambahan daripada pangkalan data NPRA.
-
-## Pertimbangan Keselamatan
-
-> Sila rujuk risalah produk untuk maklumat keselamatan. Data amaran utama, kontraindikasi, dan interaksi ubat tidak tersedia dalam pak bukti semasa.
-
-## Gambaran Keseluruhan Indikasi Ramalan Tambahan
-
-Memandangkan semua 6 indikasi yang diramalkan TxGNN berkongsi tahap bukti yang sama (L5) dan cadangan "Tahan" yang dominan, jadual ringkasan berikut disediakan untuk keperlengkapan:
-
-| Pangkat | Indikasi Ramalan | Skor TxGNN | Kaitan Mekanis | Tahap Bukti | Cadangan |
-|--------|---------------------|-------------|-----------------|----------------|-------------|
-| 1 | Gangguan pelepasan primer trombosit | 99.96% | Sangat lemah | L5 | Tahan |
-| 2 | Pseudo-penyakit von Willebrand | 99.96% | Tiada (mutasi gen GP1BA) | L5 | Tahan |
-| 3 | Trombasitemia Glanzmann | 99.88% | Sangat lemah (hanya melalui aloimunisasi) | L5 | Tahan |
-| 4 | Trombositopenia aloimun janin & neonatal | 99.59% | Sederhana (dimediasi antibodi, teori) | L5 | Soalan Penyelidikan |
-| 5 | Retinopati diabetik nonproliferatif yang teruk | 99.05% | Sangat lemah | L5 | Tahan |
-| 6 | Makrotrombasitopenia autosomal dominan | 99.04% | Tiada (kecacatan megakariosit genetik) | L5 | Tahan |
-
-> **Pengecualian yang Ketara — Pangkat 4 (FNAIT):** Trombositopenia aloimun janin dan neonatal adalah satu-satunya indikasi yang diramalkan dengan alasan mekanis yang munasabah. FNAIT didorong oleh autiantibodi IgG ibu terhadap antigen trombosit janin alloimmune (biasanya HPA-1a), dan perencatan BLyS secara teorinya boleh mengurangkan pengeluaran autiantibodi. Walau bagaimanapun, keselamatan belimumab dalam kehamilan tidak ditentukan (kajian haiwan mencadangkan pengurangan kiraan sel B neonatal), dan masa intervensi akan menjadi sangat mencabar. Ini memerlukan semakan sastera lanjut sebagai **Soalan Penyelidikan** sahaja.
-
-## Kesimpulan dan Langkah Seterusnya
-
-**Keputusan: Tahan**
-
-**Alasan:**
-Semua enam indikasi yang diramalkan tidak mempunyai bukti ujian klinis dan literatur terbitan yang secara langsung menyokong penggunaan belimumab. Lima daripada enam ramalan menyasarkan gangguan trombosit genetik/struktur di mana perencatan sel B tidak mempunyai asas mekanis. Skor ramalan TxGNN tinggi tetapi mencerminkan topologi graf daripada biologi yang disahkan. Tanpa sebarang bukti empirik, calon ini tidak boleh maju.
-
-**Untuk meneruskan, yang berikut diperlukan:**
-- **Data mekanisme tindakan (MOA):** Ambil data farmakodinamik terperinci daripada DrugBank untuk mendokumentasikan secara formal jalan inhibisi BLyS
-- **Butir lesen Malaysia:** Dapatkan maklumat pendaftaran lengkap (nombor kebenaran, nama produk, bentuk dos, indikasi yang diluluskan) daripada NPRA
-- **Data keselamatan risalah produk:** Muat turun dan parse risalah produk untuk amaran utama, kontraindikasi, dan interaksi ubat (pada masa ini jurang data yang menghalang untuk penilaian keselamatan S1)
-- **Untuk FNAIT (Pangkat 4) sahaja:** Jalankan semakan sastera yang disasarkan pada terapi anti-BAFF dalam tetapan aloimun dan data keselamatan kehamilan belimumab sebelum memutuskan sama ada untuk meningkatkan kepada cadangan penyelidikan formal
-- **Penilaian semula:** Pertimbangkan sama ada pengelompokan ramalan berkaitan trombosit model TxGNN untuk antibodi anti-BLyS mewakili bias sistematik dalam graf pengetahuan yang harus disiasat
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
-*Laporan ini adalah untuk tujuan penyelidikan sahaja dan tidak merupakan nasihat perubatan. Semua calon ubat semula memerlukan pengesahan klinis sebelum aplikasi. Potong-off data: 2026-04-09.*
+## Mengapa Ramalan Ini Munasabah?
 
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat yang diketahui, belimumab ialah antibodi monoklonal yang meneutralkan BLyS (BAFF), lalu mengurangkan kemandirian sel B dan penghasilan autoantibodi. Keberkesanannya dalam SLE telah dibuktikan.
+
+Walau bagaimanapun, hubungan mekanistik dengan indikasi baharu ini **tidak munasabah secara biologi**. Gangguan pelepasan (rembesan) platelet pada umumnya berpunca daripada kecacatan intrinsik granul atau isyarat platelet, dan bukan dikendalikan oleh sel B. Tiada kaitan mekanistik yang jelas dikenal pasti. Skor TxGNN yang tinggi hanyalah ramalan berasaskan graf pengiraan dan tidak disokong oleh data percubaan atau literatur.
+
+### Ramalan Lain yang Turut Dihasilkan
+
+Model turut meramalkan indikasi lain, kesemuanya pada tahap bukti L5 dan berstatus Hold:
+
+| Kedudukan | Penyakit | Skor | Penilaian Hubungan Mekanistik |
+|------|------|------|------|
+| 2 | Penyakit pseudo-von Willebrand | 99.96% | Disebabkan varian gain-of-function pada GP1BA platelet (kecacatan reseptor genetik), bukan proses autoimun atau didorong BAFF. Tiada rasional yang jelas. |
+| 3 | Trombastenia Glanzmann | 99.88% | Kekurangan atau disfungsi integrin αIIbβ3 yang diwarisi. Hubungan lemah dan tidak langsung hanya dalam keadaan pembentukan aloantibodi selepas transfusi platelet; bersifat spekulatif. |
+| 4 | Trombositopenia aloimun janin dan neonatal (FNAIT) | 99.59% | Didorong aloantibodi ibu (biasanya anti-HPA-1a), jadi terapi sasaran sel B munasabah secara prinsip. Namun kesan belimumab terhadap sel plasma yang sudah terbentuk adalah terhad, data keselamatan kehamilan terhad, dan rawatan standard (IVIG, agen anti-FcRn dalam penyelidikan) lebih tepat sasaran. |
+| 5 | Retinopati diabetik bukan proliferatif yang teruk | 99.05% | Didorong terutamanya oleh jalur VEGF dan hiperglisemia; peranan isyarat BAFF/sel B tidak dibuktikan. |
+| 6 | Makrotrombositopenia autosomal dominan | 99.04% | Berpunca daripada kecacatan keturunan pada pengeluaran megakariosit dan sitoskeleton platelet, bukan pemusnahan imun. Tiada rasional mekanistik yang jelas. |
+
+---
+
+## Bukti Percubaan Klinikal
+
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
+
+---
+
+## Bukti Literatur
+
+Pada masa ini tiada literatur berkaitan yang tersedia.
+
+---
+
+## Maklumat Pasaran Malaysia
+
+Belimumab pada masa ini **tidak dipasarkan** di Malaysia dan tiada pendaftaran (lesen) direkodkan dalam data yang dikumpulkan.
+
+---
+
+## Pertimbangan Keselamatan
+
+Amaran utama dan kontraindikasi tidak tersedia. Sila rujuk sisipan pakej untuk maklumat keselamatan.
+
+**Interaksi Ubat (DDI)**: Sebanyak 69 interaksi direkodkan. Antara yang utama:
+
+- **Major (Utama)**: adalimumab, baricitinib, certolizumab pegol, vaksin Bacillus Calmette-Guérin (BCG, strain Tice hidup)
+- **Moderate (Sederhana)**: roflumilast, azathioprine, alemtuzumab, anakinra, canakinumab, alefacept, toksoid tetanus, vaksin anthrax, dan beberapa vaksin/antigen hidup yang lain
+- **Minor (Kecil)**: garam zink (asetat, glukonat, sulfat, klorida)
+
+Secara amnya, penggunaan bersama agen imunosupresif lain dan vaksin hidup memerlukan perhatian khusus.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Hold**
+
+**Justifikasi:**
+- Ramalan ini hanya berasaskan model (L5), tanpa sebarang percubaan klinikal atau literatur, dan hubungan mekanistik dengan gangguan platelet yang bersifat intrinsik/genetik tidak munasabah. Belimumab juga tidak dipasarkan di Malaysia.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menghalang saringan keselamatan)
+- Data mekanisme tindakan (MOA) yang terperinci daripada DrugBank
+- Bukti praklinikal atau klinikal yang menunjukkan peranan BAFF/sel B dalam penyakit sasaran
+- Jika dikaji lanjut, keutamaan wajar diberikan kepada FNAIT (kerana asas aloantibodi), disertai penilaian keselamatan kehamilan dan perbandingan dengan rawatan standard
+- Penilaian status pendaftaran dan kebolehcapaian produk di Malaysia
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

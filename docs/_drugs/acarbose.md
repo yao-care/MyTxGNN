@@ -29,81 +29,72 @@ Tahap bukti: **L5** | Indikasi diramal: **9**
 
 </div>
 
-# Acarbose: Dari Diabetes Jenis 2 Kepada Sindrom Stiff Person Klasik
+# Acarbose: Daripada Diabetes Mellitus Jenis 2 kepada Sindrom Orang Kaku (Stiff Person Syndrome) Klasik
 
 ## Ringkasan Satu Ayat
 
-Acarbose adalah penghambat alfa-glukosidase usus yang awalnya diluluskan untuk menangani hiperglikemia pasca-makan pada diabetes mellitus jenis 2. Model TxGNN meramalkan ia mungkin berkesan untuk **Sindrom Stiff Person Klasik**, dengan **tiada ujian klinikal** dan **tiada penerbitan** yang kini menyokong arah ini. Skor ramalan yang tinggi dinilai sebagai positif palsu yang mungkin timbul daripada proksimitas graf pengetahuan antara Sindrom Stiff Person dan diabetes (kedua-dua keadaan melibatkan autoantibodi GAD65), bukan sambungan farmakoloji yang tulen.
+Acarbose ialah perencat alfa-glukosidase yang pada asalnya digunakan untuk merawat diabetes mellitus jenis 2.
+Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom orang kaku klasik (classic stiff person syndrome)**,
+tetapi pada masa ini **tiada percubaan klinikal** dan **tiada literatur** yang menyokong ramalan ini; ramalan ini hanya berasaskan model.
 
 ---
 
-## Gambaran Keseluruhan Pantas
+## Gambaran Ringkas
 
-| Perkara | Kandungan |
-|------|---------|
-| Petunjuk Asal | Diabetes Mellitus Jenis 2 (pengurusan hiperglikemia pasca-makan) |
-| Petunjuk Baru yang Diramalkan | Sindrom Stiff Person Klasik |
+| Item | Kandungan |
+|------|------|
+| Indikasi Asal | Diabetes mellitus jenis 2 |
+| Indikasi Baharu yang Diramalkan | Sindrom orang kaku klasik (classic stiff person syndrome) |
 | Skor Ramalan TxGNN | 99.65% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 5 |
-| Keputusan yang Disyorkan | Tahan |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme aksi terperinci tidak tersedia daripada pakej bukti. Berdasarkan maklumat yang diketahui, acarbose adalah penghambat alfa-glukosidase usus yang menghalang secara kompetitif enzim yang bertanggungjawab untuk memecahkan karbohidrat kompleks kepada glukosa yang boleh diserap di usus halus. Ini melambatkan pencernaan karbohidrat dan menumpulkan puncak glukosa darah pasca-makan, menjadikannya berkesan sebagai terapi oral tambahan untuk diabetes jenis 2. Tindakannya terbatas sepenuhnya kepada lumen saluran gastrousus; ia diserap secara minimal ke dalam sistem tubuh.
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat sedia ada, acarbose ialah perencat alfa-glukosidase usus yang melambatkan penyerapan karbohidrat, dan keberkesanannya dalam diabetes jenis 2 telah diketahui. Tiada hubungan mekanistik yang munasabah dikenal pasti antara tindakan ini dengan sindrom orang kaku.
 
-Sindrom Stiff Person Klasik (SPS) adalah gangguan neurologi autoimun yang jarang didorong terutamanya oleh autoantibodi terhadap GAD65 (Glutamic Acid Decarboxylase 65), enzim yang mengkatalisis sintesis neurotransmiter penghambatan GABA. SPS dan Diabetes Jenis 1 diketahui berkongsi autoantibodi GAD65 — kedua-dua keadaan boleh wujud bersama dalam pesakit yang sama — yang mencipta tepi yang kuat dalam graf pengetahuan TxGNN yang menghubungkan acarbose (ubat diabetes) kepada SPS melalui antigen bersama mereka.
+Sindrom orang kaku ialah gangguan autoimun yang melibatkan neurotransmisi GABAergik (antibodi anti-GAD65). Skor TxGNN yang tinggi (0.996) hanyalah ramalan berasaskan graf dan berkemungkinan didorong oleh kaitan autoimuniti GAD dengan diabetes dalam graf pengetahuan. Ia bukan bukti keberkesanan.
 
-Walau bagaimanapun, sambungan ini dinilai sebagai **isyarat positif palsu**. Acarbose bertindak secara eksklusif di sempadan berus usus dan tidak mempunyai mekanisme yang diketahui untuk mengubah autoimuniti yang diarahkan kepada GAD65, menekan nada penghambatan sistem saraf pusat, atau memberikan sebarang neuroperlindungan. Skor TxGNN yang meningkat mencerminkan topologi graf komorbiditi diabetes-SPS daripada sebarang laluan yang boleh diambil tindakan farmakoloji. Tiada bukti praklinik atau klinikal yang menyokong penggunaan acarbose dalam SPS.
+Ramalan lain bagi ubat ini (sindrom anggota kaku fokal, sindrom disfungsi responsif tiamina, opsismodisplasia, pelbagai lipodistrofi setempat dan agenesis pankreas) juga berada pada tahap L5 dengan keputusan Hold. Kebanyakannya berpunca daripada kaitan dengan diabetes dalam graf pengetahuan dan bukan daripada mekanisme yang jelas.
 
 ---
 
-## Bukti Ujian Klinikal
+## Bukti Percubaan Klinikal
 
-Pada masa ini tiada ujian klinikal yang berkaitan didaftarkan.
+Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
-Pada masa ini tiada literatur yang berkaitan tersedia.
+Pada masa ini tiada literatur berkaitan tersedia untuk sindrom orang kaku klasik.
 
 ---
 
-## Maklumat Pasaran Malaysia
+## Keselamatan
 
-Lima pendaftaran produk acarbose disahkan dalam pangkalan data NPRA (Agensi Kawal Selia Farmaseutikal Kebangsaan) (status pasaran Malaysia: Dipasarkan). Walau bagaimanapun, maklumat produk terperinci — termasuk nama produk, bentuk dos, dan teks petunjuk yang diluluskan — tidak ditangkap dalam pakej bukti semasa. Sila rujuk terus kepada [Carian Produk NPRA](https://www.npra.gov.my/) untuk butiran kebenaran lengkap.
+- **Penyakit yang berkaitan dengan kontraindikasi (daripada graf pengetahuan, bukan teks label)**: penyakit buah pinggang, piouretra, penyakit hati, penyakit pundi hempedu, sirosis hati, penyakit radang usus (IBD), hipoglisemia, kecederaan.
+- **Interaksi Ubat**: Pangkalan data interaksi mengenal pasti sejumlah 100 interaksi; 20 yang pertama disenaraikan dalam data. Interaksi bertahap **sederhana** termasuk: asetazolamida, salbutamol, lidah buaya (daun), alpelisib, amprenavir, aripiprazol, asenapin, asparaginase (Erwinia chrysanthemi dan E. coli), atazanavir, bedakuilin, bendroflumetiazid, benzfetamin, benztiazid dan betametason. Interaksi bertahap **minor** termasuk: albiglutida, alklometason (topikal), asid lipoik, amsinonid dan anisindion.
 
----
-
-## Pertimbangan Keselamatan
-
-Sila rujuk kepada sisipan pakej untuk maklumat keselamatan.
+Untuk amaran utama dan kontraindikasi daripada sisipan pakej, sila rujuk sisipan pakej.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
-**Alasan:**
-Ramalan TxGNN untuk Sindrom Stiff Person Klasik dinilai sebagai artifak graf pengetahuan — model ini dengan betul mengenal pasti penyakit yang berlaku bersama diabetes (melalui autoantibodi GAD65 bersama) tetapi acarbose tidak mempunyai mekanisme farmakoloji yang berkaitan dengan penyakit neurologi autoimun. Tiada bukti klinikal atau praklinik yang menyokong.
+**Justifikasi:**
+- Ramalan ini hanya berasaskan model (L5) tanpa sebarang percubaan klinikal atau literatur yang menyokong, dan tiada hubungan mekanistik yang munasabah antara perencatan alfa-glukosidase dengan patologi autoimun GABAergik sindrom orang kaku. Skor tinggi berkemungkinan artifak perambatan graf berkaitan diabetes.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- **Data MOA** daripada DrugBank (DB00284) untuk mengesahkan secara formal ketiadaan sebarang aktiviti neuroimmunologi atau imunomodulasi sistemik
-- **Sisipan pakej lengkap** (amaran, kontraindikasi) daripada NPRA untuk menyelesaikan saringan keselamatan S1 — pada masa ini jurang data yang menghalang
-- **Butiran lesen Malaysia yang lengkap** (nama produk, bentuk dos, petunjuk yang diluluskan) daripada pangkalan data NPRA untuk mengisi jadual kawal selia
-- Jika sebarang penyiasatan lanjut SPS dipertimbangkan, hipotesis mekanisme yang menjelaskan bagaimana penghambatan alfa-glukosidase usus boleh menindas autoimuniti GAD65 dalam CNS akan diperlukan sebagai prasyarat minimum sebelum sebarang kerja praklinik dibenarkan
-
-> **Nota Penyelidikan:** Antara semua 9 petunjuk yang diramalkan dalam pakej ini, **Agenesis Pankreas** (pangkat 9, L4) mempersembahkan rasional yang paling koheren secara biologi — walaupun masih tidak langsung — untuk penggunaan acarbose, sebagai terapi tambahan kepada terapi insulin untuk melancarkan kebolehubahan glikemik pasca-makan dalam keadaan kekurangan insulin pankreas yang lengkap. Arah ini mempunyai 11 penerbitan yang berkaitan dan mungkin menjamin penilaian tertumpu yang berasingan.
-
----
-
-*Laporan ini hanya untuk rujukan penyelidikan dan tidak merupakan nasihat perubatan. Semua calon ubat ubah guna memerlukan pengesahan klinikal sebelum sebarang aplikasi terapeutik.*
-
+- Data mekanisme tindakan (MOA) yang terperinci daripada DrugBank.
+- Amaran dan kontraindikasi daripada sisipan pakej NPRA (halangan kepada saringan keselamatan; ubat ini pada masa ini tidak didaftarkan di Malaysia).
+- Bukti praklinikal atau klinikal yang menunjukkan hubungan antara acarbose dengan sindrom orang kaku sebelum penilaian lanjut dipertimbangkan.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

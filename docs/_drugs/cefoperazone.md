@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Cefoperazone
-parent: High Evidence (L1-L2)
-nav_order: 198
-evidence_level: L1
+parent: Low Evidence (L4-L5)
+nav_order: 203
+evidence_level: L5
 indication_count: 10
 ---
 
 # Cefoperazone
 {: .fs-9 }
 
-Tahap bukti: **L1** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,90 +29,116 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Cefoperazone: Dari Jangkitan Bakteria kepada Pneumonia
+# Cefoperazone: Daripada Penggunaan Antibakteria kepada Pneumonia
 
 ## Ringkasan Satu Ayat
 
-> Cefoperazone ialah antibiotik sefalosforin generasi ketiga yang telah ditubuhkan untuk merawat jangkitan bakteria. Di antara 10 petunjuk indikasi calon yang TxGNN kemukakan untuk ubat ini, **Pneumonia** adalah satu-satunya yang disokong oleh bukti klinikal dan literatur yang substansif — **2 ujian klinikal** (termasuk satu Ujian RCT Fasa 3) dan sekumpulan **20 penerbitan sokongan** — manakala calon penarafan tertinggi tunggal model (sclerosing cholangitis) dan beberapa calon lain ditandai dalam pakej bukti itu sendiri sebagai artefak graf pengetahuan yang berkemungkinan dengan sifar bukti sokongan. Oleh itu, laporan ini memberi tumpuan kepada isyarat pneumonia sebagai calon yang boleh diambil tindakan.
+Cefoperazone ialah antibiotik sefalosporin generasi ketiga; data pendaftaran tempatan tidak menyenaraikan indikasi asal yang direkodkan.
+Model TxGNN meramalkan ia mungkin berkesan untuk **pneumonia**,
+dengan **2 ujian klinikal** dan **20 penerbitan** yang menyokong arah ini. Perlu diingat bahawa ini lebih menyerupai penggunaan antibakteria biasa dan bukan pemanfaatan semula (repurposing) yang sebenar.
 
 ---
 
-## Gambaran Ringkas
+## Gambaran Keseluruhan Pantas
 
 | Item | Kandungan |
-|------|----------|
-| Indikasi Asal | Jangkitan bakteria (Cefoperazone ialah agen antibakteria spektrum luas yang telah ditubuhkan; teks indikasi yang diluluskan TFDA khusus tidak dikembalikan dalam ekstrak pendaftaran semasa) |
-| Indikasi Baru yang Diramalkan | Pneumonia (hospital-acquired / ventilator-associated / community-acquired) |
-| Skor Ramalan TxGNN | 99.93% (pangkat dalaman #1438) |
-| Tahap Bukti | L1 |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 8 |
-| Keputusan Disyorkan | Teruskan dengan Pengawalan |
+|------|------|
+| Indikasi Asal | Tiada data indikasi diluluskan dalam data yang dikumpulkan (tiada lesen berdaftar) |
+| Indikasi Baharu yang Diramalkan | Sclerosing cholangitis (ramalan teratas TxGNN); calon dengan bukti terkuat: pneumonia |
+| Skor Ramalan TxGNN | 99.98% (sclerosing cholangitis); 99.93% (pneumonia) |
+| Tahap Bukti | L5 (sclerosing cholangitis); L2 (pneumonia) |
+| Status Pasaran Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (sclerosing cholangitis); Proceed with Guardrails (pneumonia) |
+
+> Ramalan ranking pertama (sclerosing cholangitis) tidak mempunyai sebarang bukti. Laporan ini memberi tumpuan terperinci kepada **pneumonia** (ranking ke-3) kerana ia satu-satunya indikasi dengan ujian klinikal dan literatur yang bermakna. Ringkasan semua calon disediakan di bawah.
+
+### Ringkasan Calon Ramalan
+
+| Kedudukan | Penyakit | Skor TxGNN | Tahap Bukti | Cadangan |
+|------|------|------|------|------|
+| 1 | Sclerosing cholangitis | 99.98% | L5 | Hold |
+| 2 | Rheumatoid arthritis | 99.97% | L5 | Hold |
+| 3 | Pneumonia | 99.93% | L2 | Proceed with Guardrails |
+| 4 | Colobomatous microphthalmia-rhizomelic dysplasia syndrome | 99.92% | L5 | Hold |
+| 5 | Brachydactyly-syndactyly syndrome | 99.90% | L5 | Hold |
+| 6 | Gout | 99.83% | L5 | Hold |
+| 7 | Bronchitis | 99.77% | L3 | Proceed with Guardrails |
+| 8 | Meningococcal infection | 99.51% | L4 | Research Question |
+| 9 | Infectious otitis media | 99.50% | L4 | Research Question |
+| 10 | IgG4-related sclerosing cholangitis | 99.48% | L5 | Hold |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Rekod mekanisme tindakan DrugBank formal adalah jurang data semasa (DG002). Berdasarkan anotasi mekanistik yang sudah ada dalam pakej bukti, Cefoperazone ialah sefalosforin generasi ketiga yang menghalang sintesis dinding sel bakteria yang dimediasi oleh protein pengikat penisilin (PBP), menghasilkan kesan bakterisida terhadap pelbagai patogen gram-negatif (termasuk *Acinetobacter baumannii*, *Pseudomonas aeruginosa*, *Klebsiella pneumoniae*) dan beberapa organisma gram-positif.
+Data terperinci mengenai mekanisme tindakan (MOA) pada masa ini tidak tersedia. Berdasarkan maklumat yang diketahui, cefoperazone ialah sefalosporin generasi ketiga dengan aktiviti antipseudomonas. Gabungannya dengan sulbactam menambah aktiviti terhadap pengeluar beta-laktamase dan *Acinetobacter baumannii*.
 
-Kerana penggunaan asal Cefoperazone ialah sebagai antibakteria spektrum luas, "indikasi baru" pneumonia bukanlah isyarat penyapu silang penyakit dalam erti kata yang biasa — ia adalah pengesahan bahawa spektrum antibakteria yang sudah diketahui ubat ini meliputi patogen yang biasa menyebabkan pneumonia yang diperoleh hospital dan yang dikaitkan dengan ventilator (HAP/VAP). Kemungkinan mekanistik di sini sangat tinggi kerana tiada mekanisme baru yang dicadangkan.
+Untuk **pneumonia**, hubungan mekanistiknya jelas: ia ialah agen antibakteria yang digunakan terhadap jangkitan bakteria. Ini lebih merupakan penggunaan jenis on-label berbanding pemanfaatan semula sebenar. Tahap bukti ditetapkan pada L2 dan bukan L1 kerana RCT yang ada melibatkan gabungan dengan sulbactam, saiznya tidak pasti, dan fasa Phase 3 tidak dapat disahkan.
 
-Ia juga bernilai untuk diperhatikan secara eksplisit: calon berpangkat tertinggi mentah TxGNN untuk ubat ini (sclerosing cholangitis, sindrom kongenital yang jarang, asid urik) semuanya mempunyai penetapan "L5 / Hold" dengan nisbah pakej bukti sendiri memanggil mereka bunyi benam yang berkemungkinan (contohnya, pembuangan biliari cefoperazone yang berlaku bersama dengan cholangitis dalam graf pengetahuan, tanpa pautan terapeutik sebenarnya). Pneumonia dan kerabat dekatnya bronkitis adalah satu-satunya calon di antara 10 teratas dengan sokongan klinikal/literatur sebenarnya, itulah sebabnya laporan ini menganggap pneumonia sebagai penemuan yang substansif daripada pelaporan mekanistik skor TxGNN tertinggi.
+Bagi calon bukan jangkitan seperti sclerosing cholangitis, rheumatoid arthritis, gout, IgG4-related sclerosing cholangitis dan sindrom perkembangan kongenital, tiada mekanisme yang munasabah. Cefoperazone dikumuhkan melalui hempedu dan mencapai kepekatan tinggi dalam hempedu, yang secara teori boleh membantu kolangitis bakteria, tetapi ini tidak menangani sclerosing cholangitis primer yang bersifat imun dan fibrotik. Skor TxGNN yang tinggi bagi calon ini berkemungkinan artifak graf pengetahuan. Tiga penerbitan bagi rheumatoid arthritis ialah laporan kes jangkitan pada pesakit RA, bukan rawatan RA itu sendiri.
 
 ---
 
-## Bukti Ujian Klinikal
+## Bukti Ujian Klinikal (Pneumonia)
 
 | Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT02060149](https://clinicaltrials.gov/study/NCT02060149) | Fasa 1/2 | Tidak Diketahui | 90 | Ujian RCT multi-pusat menguji penyelesaian alkalin berkabut sebagai penyambung kepada cefoperazone-sulbactam + minocycline untuk pneumonia *A. baumannii* yang tahan ubat secara meluas; menilai campur tangan penyambung dan bukannya terapi monos cefoperazone (kaitan tidak langsung) |
-| [NCT01280461](https://clinicaltrials.gov/study/NCT01280461) | Fasa 3 | Tidak Diketahui | 142 | Ujian buka label, rawak, dan perbandingan cefoperazone/sulbactam vs. cefepime untuk pneumonia yang diperoleh hospital (HAP) dan pneumonia berkaitan penjagaan kesihatan (HCAP); secara langsung menilai ubat dalam indikasi sasaran |
+| [NCT07671755](https://clinicaltrials.gov/study/NCT07671755) | N/A | Selesai | 80 | Colistin berbanding colistin + cefoperazone-sulbactam untuk pneumonia berkaitan ventilator (VAP) akibat *A. baumannii* berbilang rintangan |
+| [NCT02060149](https://clinicaltrials.gov/study/NCT02060149) | Phase 1/2 | Tidak diketahui | 90 | Nebulisasi larutan alkali dengan cefoperazone-sulbactam + minocycline untuk pneumonia *A. baumannii* rintangan dadah meluas; cefoperazone bukan intervensi utama yang dikaji |
+
+Tiada ujian klinikal berdaftar bagi calon lain.
 
 ---
 
-## Bukti Literatur
+## Bukti Literatur (Pneumonia)
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [31138577](https://pubmed.ncbi.nlm.nih.gov/31138577/) | 2019 | RCT | Antimicrobial Agents and Chemotherapy | Ujian ketidakinferioritas rawak: cefoperazone-sulbactam vs. cefepime untuk HAP/HCAP pada orang dewasa ≥18 tahun |
-| [34168466](https://pubmed.ncbi.nlm.nih.gov/34168466/) | 2021 | RCT/Kohort | Infection and Drug Resistance | Cefoperazone-sulbactam vs. piperacillin-tazobactam untuk HAP dan pneumonia yang dikaitkan ventilator (VAP) |
-| [6456894](https://pubmed.ncbi.nlm.nih.gov/6456894/) | 1981 | RCT | Drugs | Ujian cefoperazone parenteral awal dalam 15 kes pneumonia dan 15 kes pyelonephritis; semua organisma terpencil adalah sensitif cefoperazone |
-| [1643821](https://pubmed.ncbi.nlm.nih.gov/1643821/) | 1992 | Ujian Perbandingan | Diagnostic Microbiology and Infectious Disease | Perbandingan rawak multi-pusat cefoperazone vs. terapi monos ceftriaxone untuk pneumonia nosokomial; sama berkesan (80% vs. 70% kejayaan) |
-| [34871744](https://pubmed.ncbi.nlm.nih.gov/34871744/) | 2022 | Kajian Perbandingan | International Journal of Antimicrobial Agents | Cefoperazone-sulbactam vs. piperacillin-tazobactam untuk pneumonia secara khusus pada pesakit warga tua |
-| [24726664](https://pubmed.ncbi.nlm.nih.gov/24726664/) | 2014 | Kohort Retrospektif | International Journal of Infectious Diseases | *A. baumannii* HAP yang tahan karbapenema pada pesakit warga tua; manfaat in vitro terapi kombinasi cefoperazone/sulbactam |
-| [17120738](https://pubmed.ncbi.nlm.nih.gov/17120738/) | 2006 | Ujian Perbandingan | J Huazhong Univ Sci Technol Med Sci | Moxifloxacin IV vs. cefoperazone + azithromycin untuk pneumonia yang diperoleh komuniti (CAP) |
-| [29319497](https://pubmed.ncbi.nlm.nih.gov/29319497/) | 2018 | Kajian Perbandingan | Int J Clin Pharmacol Ther | Tigecycline + cefoperazone-sulbactam dos tinggi vs. monoterapi tigecycline untuk VAP daripada *A. baumannii* yang tahan ubat secara meluas |
-| [35685727](https://pubmed.ncbi.nlm.nih.gov/35685727/) | 2022 | Kohort | Evidence-Based Complementary and Alternative Medicine | Polymyxin B + cefoperazone-sulbactam + tigecycline untuk MDR *A. baumannii* pneumonia (**nota: artikel ini kemudian ditarik balik**, PMID [38125170](https://pubmed.ncbi.nlm.nih.gov/38125170/), 2023) |
-| [2671141](https://pubmed.ncbi.nlm.nih.gov/2671141/) | 1989 | Ulasan | Infectious Disease Clinics of North America | Ulasan sefalosforin generasi ketiga, termasuk aktiviti cefoperazone terhadap *Pseudomonas aeruginosa* dan patogen pernapasan tahan lain |
+| [31138577](https://pubmed.ncbi.nlm.nih.gov/31138577/) | 2019 | RCT | Antimicrob Agents Chemother | Ujian rawak bukan-inferioriti: cefoperazone-sulbactam berbanding cefepime untuk pneumonia HAP/HCAP |
+| [34168466](https://pubmed.ncbi.nlm.nih.gov/34168466/) | 2021 | Kohort/perbandingan klinikal | Infect Drug Resist | Cefoperazone-sulbactam berbanding piperacillin-tazobactam untuk HAP dan VAP |
+| [6456894](https://pubmed.ncbi.nlm.nih.gov/6456894/) | 1981 | Ujian klinikal | Drugs | 15 kes pneumonia dan 15 kes pielonefritis; semua organisma sensitif kepada cefoperazone |
+| [17120738](https://pubmed.ncbi.nlm.nih.gov/17120738/) | 2006 | Ujian klinikal | J Huazhong Univ Sci Technol Med Sci | Moxifloxacin IV berbanding cefoperazone + azithromycin untuk pneumonia komuniti (40 pesakit) |
+| [24726664](https://pubmed.ncbi.nlm.nih.gov/24726664/) | 2014 | Analisis retrospektif | Int J Infect Dis | Pneumonia nosokomial *A. baumannii* tahan karbapenem dan manfaat in vitro cefoperazone/sulbactam |
+| [35685727](https://pubmed.ncbi.nlm.nih.gov/35685727/) | 2022 | Kajian in vitro/klinikal | Evid Based Complement Alternat Med | Polymyxin B + cefoperazone-sulbactam + tigecycline untuk pneumonia MDR *A. baumannii* (**artikel ini telah ditarik balik**, lihat PMID 38125170) |
+| [2671141](https://pubmed.ncbi.nlm.nih.gov/2671141/) | 1989 | Ulasan | Infect Dis Clin North Am | Sefalosporin generasi ketiga, termasuk aktiviti cefoperazone terhadap *Pseudomonas* |
+| [1754734](https://pubmed.ncbi.nlm.nih.gov/1754734/) | 1991 | Ulasan | Semin Respir Infect | Aminoglikosida berbanding beta-laktam dalam pneumonia gram-negatif |
+
+> Bagi bronchitis (L3), literatur terdiri daripada penilaian klinikal lama (1980-an hingga 1990-an), antaranya ujian pelbagai pusat Asia ([6391668](https://pubmed.ncbi.nlm.nih.gov/6391668/)) dan perbandingan dengan cefotaxime ([6094456](https://pubmed.ncbi.nlm.nih.gov/6094456/)).
+> Bagi meningococcal infection, hanya satu laporan awal 1987 ([3298086](https://pubmed.ncbi.nlm.nih.gov/3298086/)) mengenai meningitis bakteria (11 pesakit). Bagi infectious otitis media, tiada bukti langsung bagi cefoperazone.
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-8 kelulusan pemasaran telah direkodkan untuk Cefoperazone (status pasaran: **Dipasarkan**), tetapi ekstrak bukti tidak mengembalikan nilai kosong untuk semua medan setiap produk (nombor lesen, nama produk, bentuk dos, teks indikasi yang diluluskan). Butiran pendaftaran penuh perlu diambil secara berasingan dari daftar sumber untuk melengkapkan bahagian ini.
+Tiada lesen berdaftar ditemui bagi cefoperazone di Malaysia dalam data yang dikumpulkan; status pasaran ialah **tidak dipasarkan**.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan paket untuk maklumat keselamatan. (Amaran label TFDA/kontraindikasi dan pertanyaan DDI formal masih belum selesai — lihat DG001, jurang data pemblokiran untuk penilaian keselamatan.)
+- **Interaksi Ubat**: 14 interaksi tahap sederhana (Moderate) dikenal pasti, antaranya:
+  - Aminoglikosida: kanamycin, neomycin, streptomycin, amikacin (termasuk liposom), gentamicin
+  - Antikoagulan: warfarin, heparin
+  - Lain-lain: picosulfuric acid, etanol, chloramphenicol, ethinylestradiol, mycophenolic acid, pemetrexed
+
+Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Teruskan dengan Pengawalan**
+**Keputusan: Proceed with Guardrails (untuk pneumonia dan bronchitis); Hold (untuk semua calon lain)**
 
-**Nisbah:**
-Penggunaan Cefoperazone(-sulbactam) dalam pneumonia yang diperoleh hospital dan yang dikaitkan ventilator disokong oleh bukti tahap L1 — dua ujian rawak berhadapan (vs. cefepime, vs. piperacillin-tazobactam) ditambah dengan asas kohort substansif dan literatur ujian perbandingan. Walau bagaimanapun, ini mencerminkan pengesahan spektrum antibakteria yang sudah diketahui dan bukannya isyarat penyapu mekanistik yang baru, dan rekod keselamatan/kawal selia teras masih hilang.
+**Rasional:**
+- Pneumonia disokong oleh RCT bukan-inferioriti dan perbandingan klinikal, tetapi bukti melibatkan gabungan cefoperazone-sulbactam. Ia lebih merupakan penggunaan antibakteria sedia ada. Calon dengan skor tertinggi (sclerosing cholangitis, rheumatoid arthritis, gout dan lain-lain) tidak mempunyai bukti atau mekanisme yang menyokong, dan skor tinggi mungkin artifak graf pengetahuan.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Amaran sisipan paket TFDA, kontraindikasi, dan data interaksi ubat (jurang pemblokiran, DG001)
-- Rekod mekanisme tindakan DrugBank formal (DG002)
-- Butiran lesen Taiwan penuh (nama produk, bentuk dos, teks indikasi) untuk 8 produk berdaftar
-- Pengesahan sama ada pneumonia sudah jatuh dalam label yang diluluskan sedia ada Cefoperazone di Taiwan (jika ya, ini adalah pengesahan label dan bukannya indikasi baru)
-- Tinjauan sekunder bronkitis (L2, juga "Teruskan dengan Pengawalan") sebagai calon yang berkaitan dan disokong bukti
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisipan pakej NPRA (amaran dan kontraindikasi) — jurang data yang menghalang saringan keselamatan
+- Data mekanisme tindakan (MOA) terperinci daripada DrugBank
+- Pengesahan fasa dan saiz sampel RCT cefoperazone-sulbactam, serta pengasingan sumbangan cefoperazone berbanding sulbactam
+- Data kerentanan dan rintangan tempatan di Malaysia, serta status pendaftaran produk tunggal berbanding gabungan (cefoperazone kini tidak dipasarkan)
+- Pematuhan kepada prinsip pengurusan antimikrob; bronchitis akut kebanyakannya virus, jadi penggunaan terhad kepada eksaserbasi bakteria yang disahkan
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

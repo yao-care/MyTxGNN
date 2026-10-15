@@ -2,7 +2,7 @@
 layout: default
 title: Iohexol
 parent: Low Evidence (L4-L5)
-nav_order: 406
+nav_order: 425
 evidence_level: L5
 indication_count: 2
 ---
@@ -29,77 +29,90 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Iohexol: Daripada Pencitraan Kontras Radiografi hingga Insomnia
+# Iohexol: Daripada Agen Kontras Radiografi kepada Insomnia
 
 ## Ringkasan Satu Ayat
 
-Iohexol ialah agen kontras beryod bukan ionik yang digunakan untuk pencitraan radiografi dan pengukuran kadar penapisan glomerulus (GFR) — ia tidak mempunyai petunjukan terapeutik yang ditegakkan atau aktiviti farmakologi sistem saraf pusat (CNS). Model TxGNN meramalkan kemungkinan isyarat untuk **Insomnia**, tetapi ramalan ini pada masa ini disokong oleh **0 ujian klinikal** dan **0 penerbitan**, dan paket bukti itu sendiri mencatat tiada hubungan mekanik yang diketahui antara iohexol dan gangguan tidur.
+Iohexol ialah agen kontras radiografi beryodium bukan ionik yang digunakan dalam pengimejan perubatan. Model TxGNN meramalkan ia mungkin berkesan untuk **insomnia**, tetapi setakat ini **tiada ujian klinikal** dan **tiada kajian literatur** yang menyokong arah ini. Ramalan ini hanya berasaskan model komputasi.
 
 ---
 
-## Gambaran Keseluruhan Cepat
+## Gambaran Ringkas
 
 | Item | Kandungan |
-|------|-----------|
-| Petunjukan Asal | Tidak direkodkan dalam data pendaftaran Malaysia semasa (tiada teks petunjukan yang diluluskan tersedia); penggunaan klinikal yang diketahui ialah sebagai agen kontras radiografi/CT |
-| Petunjukan Baru yang Diramalkan | Insomnia (penyakit) |
+|------|------|
+| Indikasi Asal | Tiada data indikasi diluluskan yang tersedia daripada data tempatan (iohexol ialah agen kontras radiografi) |
+| Indikasi Baharu yang Diramalkan | Insomnia |
 | Skor Ramalan TxGNN | 99.87% |
-| Tahap Bukti | L5 (ramalan model sahaja, tiada kajian sokongan) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 6 |
-| Keputusan yang Disyorkan | Tahan |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan yang Disyorkan | Hold (Tangguh) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci untuk iohexol tidak tersedia dalam paket bukti ini ([Jurang Data] pada MOA asal). Berdasarkan farmakologi yang diketahui, iohexol ialah medium kontras beryod bukan ionik — peranannya adalah semata-mata diagnostik (pencitraan radiografi, mielografi, penentuan GFR), dan ia tidak mempunyai aktiviti farmakologi sistem saraf pusat yang diiktiraf.
+Pada masa ini, data terperinci tentang mekanisme tindakan tidak tersedia. Iohexol ialah agen kontras beryodium bukan ionik untuk pengimejan radiografi, dan tiada aktiviti farmakologi yang diketahui pada sasaran sistem saraf pusat yang terlibat dalam pengawalaturan tidur (contohnya GABA-A, orexin, histamin H1 atau reseptor melatonin).
 
-Memandangkan ini, hubungan mekanik antara iohexol dan insomnia tidak ditegakkan. Rasional penggandaan tujuan yang dilampirkan pada ramalan ini secara eksplisit menyatakan bahawa iohexol mempunyai "tiada aktiviti farmakologi CNS" dan "tiada persatuan mekanik yang diketahui dengan rawatan insomnia." Skor TxGNN yang tinggi kemungkinan besar mencerminkan corak graf pengetahuan (cth., nod bersama dengan prosedur diagnostik atau keadaan bersama) daripada isyarat farmakologi yang tulen.
-
-Untuk konteks, calon sekunder dalam paket bukti ini — kebimbangan (skor TxGNN 99.25%) — memang menghasilkan enam ujian klinikal dan enam penerbitan, tetapi semasa semakan semua daripadanya menggunakan iohexol hanya sebagai alat pencitraan/pengukuran GFR dalam kajian keadaan yang tidak berkaitan (susulan pemindahan ginjal, pembedahan penurunan berat badan, pemantauan peranti jantung, dsb.), bukan sebagai rawatan untuk kebimbangan. Ini mengukuhkan bahawa skor TxGNN iohexol yang tinggi dalam paket bukti ini kemungkinan besar mencerminkan keselarasan dalam kajian berat pencitraan daripada mekanisme terapeutik, dan menurunkan keyakinan pada isyarat insomnia juga.
+Skor TxGNN yang sangat tinggi (99.87%) kemungkinan besar didorong oleh kedekatan rangkaian dalam graf pengetahuan atau corak interaksi ubat yang dikongsi (100 interaksi ubat direkodkan), dan bukannya kebolehpercayaan biologi. Tiada hubungan mekanistik yang kukuh dapat dikenal pasti antara indikasi asal dengan insomnia.
 
 ---
 
 ## Bukti Ujian Klinikal
 
-Pada masa ini tiada ujian klinikal berkaitan yang terdaftar.
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
-Pada masa ini tiada literatur berkaitan yang tersedia.
+Tiada literatur yang menyokong insomnia. Bagi indikasi kedua yang diramalkan (**kebimbangan/anxiety**, skor 99.25%), literatur yang ditemui tidak menguji iohexol sebagai rawatan kebimbangan:
+
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [2125805](https://pubmed.ncbi.nlm.nih.gov/2125805/) | 1990 | Kajian fisiologi klinikal | Acta Neurochir | Pemantauan hemodinamik serebrum semasa angiografi serebrum menggunakan Doppler transkranial; tiada kaitan dengan rawatan kebimbangan |
+| [2352635](https://pubmed.ncbi.nlm.nih.gov/2352635/) | 1990 | Kohort/Pemerhatian | Neuroradiology | Kesan sampingan selepas mielografi lumbar dengan iohexol (sakit kepala, loya, gejala mental ringan termasuk kebimbangan) pada 200 pesakit |
+| [8883531](https://pubmed.ncbi.nlm.nih.gov/8883531/) | 1996 | RCT | Acad Radiol | Perbandingan buta-ganda iodixanol dan iohexol dalam flebografi anggota; keselamatan dan toleransi, bukan rawatan kebimbangan |
+| [39861464](https://pubmed.ncbi.nlm.nih.gov/39861464/) | 2025 | Ulasan/Pemerhatian | Nutrients | Pemakanan dan aktiviti fizikal dalam onko-nefrologi; tidak berkaitan dengan iohexol |
 
 ---
 
-## Maklumat Pasaran Malaysia
+## Cytotoxicity
 
-Iohexol mempunyai 6 pendaftaran aktif di Malaysia (status pasaran: Dipasarkan), tetapi data sumber tidak merangkumi nombor lesen yang dipenuhi, nama produk, bentuk dos, atau teks petunjukan yang diluluskan untuk entri ini — tiada jadual terperinci tahap pendaftaran yang boleh dihasilkan daripada set data semasa.
+Bahagian ini tidak berkenaan kerana iohexol bukan ubat antineoplastik.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan paket untuk maklumat keselamatan.
+**Interaksi Ubat**: Sebanyak 100 interaksi direkodkan. Antara yang bertahap **Major** (sebahagian daripada senarai):
+- Kortikosteroid: hidrokortison, deksametason, betametason, triamsinolon
+- Metformin
+- Amfoterisin B (dan bentuk kompleks lipid)
+- Antibiotik: vankomisin, kanamisin, neomisin, levofloksasin
+- Bupropion, mesalazin, balsalazid, morfin, metoklopramid
+- Perangsang/penekan selera makan: dietilpropion, fentermin; dronabinol
 
-*(Nota: Amaran label TFDA/NPRA dan kontraindikasi ditandai sebagai jurang data pemblokan (DG001) dalam paket bukti ini — ini adalah prasyarat untuk sebarang pra-penilaian keselamatan (S1) sebelum penilaian lanjut.)*
+Interaksi bertahap **Moderate** termasuk manitol.
+
+Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pek produk.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold (Tangguh)**
 
-**Rasional:**
-Isyarat insomnia ialah ramalan L5, model sahaja tanpa sokongan ujian klinikal atau literatur, dan paket bukti secara eksplisit mencatat ketiadaan sebarang hubungan mekanik yang munasabah memandangkan peranan iohexol sebagai agen kontras diagnostik. Calon kebimbangan sekunder, walaupun mempunyai keselarasan ujian/literatur, dinilai sebagai terbingung (iohexol digunakan secara sampingan untuk pencitraan dalam kajian yang tidak berkaitan) daripada bukti terapeutik yang tulen.
+**Justifikasi:**
+- Ramalan hanya berasaskan model (L5) tanpa sebarang ujian klinikal atau literatur sokongan, dan tiada hubungan mekanistik yang munasabah antara agen kontras radiografi dengan pengawalaturan tidur. Skor tinggi tidak disokong oleh biologi.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Data sisipan paket TFDA/NPRA (amaran, kontraindikasi) — pada masa ini jurang pemblokan (DG001)
-- Data mekanisme tindakan yang disahkan (DG001/DG002)
-- Sebarang rasional pra-klinikal atau mekanik yang menghubungkan agen kontras beryod kepada laluan tidur atau kebimbangan, jika satu wujud
-- Penilaian semula jika ujian klinikal atau literatur masa depan khusus untuk iohexol dan insomnia/kebimbangan muncul
-
+- Sisipan pek NPRA (amaran dan kontraindikasi) untuk saringan keselamatan, kerana jurang data ini bersifat menyekat
+- Data mekanisme tindakan (MOA) daripada DrugBank
+- Bukti praklinikal atau mekanistik yang menunjukkan aktiviti pada sasaran tidur
+- Pengesahan laluan pentadbiran yang serasi (iohexol ialah agen kontras, bukan ubat tidur oral)
+- Status pendaftaran tempatan, kerana iohexol tidak mempunyai lesen berdaftar dalam data yang dikumpulkan
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

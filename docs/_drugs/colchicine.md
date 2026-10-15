@@ -2,7 +2,7 @@
 layout: default
 title: Colchicine
 parent: Low Evidence (L4-L5)
-nav_order: 236
+nav_order: 241
 evidence_level: L5
 indication_count: 3
 ---
@@ -29,65 +29,92 @@ Tahap bukti: **L5** | Indikasi diramal: **3**
 
 </div>
 
-# Colchicine: Dari Indikasi Asal yang Tidak Ditentukan kepada Plasmodium falciparum Malaria
+# Colchicine: Daripada Gout dan Demam Mediterranean Keluarga kepada Malaria Plasmodium falciparum
 
 ## Ringkasan Satu Ayat
 
-Colchicine (DrugBank DB01394) adalah ubat yang dipasarkan di Malaysia dengan 7 pendaftaran produk aktif, walaupun teks indikasi yang diluluskan secara spesifik tidak tersedia dalam ekstrak data semasa. Model TxGNN meramalkan kemungkinan aplikasi baru untuk **Plasmodium falciparum malaria**, tetapi ramalan ini pada masa ini tidak disokong oleh **sebarang percubaan klinikal dan literatur yang diterbitkan**, meletakkannya pada tahap bukti terendah.
-
-## Pandangan Pantas
-
-| Item | Kandungan |
-|------|---------|
-| Indikasi Asal | Tidak ditentukan dalam ekstrak data daftar semasa |
-| Indikasi Baru yang Diramalkan | Plasmodium falciparum malaria |
-| Skor Ramalan TxGNN | 99.60% |
-| Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 7 |
-| Keputusan yang Disyorkan | Tangguh |
-
-## Mengapa Ramalan Ini Munasabah?
-
-Pada masa ini, data mekanisme tindakan terperinci untuk colchicine tidak tersedia dalam set data sumber (ditandai sebagai jurang data Keparahan Tinggi). Berdasarkan rasional mekanik yang berkaitan dengan ramalan ini, colchicine adalah **perencat polimerisasi tubulin**. Schizogoni (replikasi aseksual) *Plasmodium falciparum* dan pembahagian mitotik juga bergantung pada jentera mikrotubul/sitoskeleton, yang memberikan pautan teori tidak langsung antara farmakologi colchicine yang diketahui dan indikasi yang diramalkan.
-
-Walau bagaimanapun, pautan ini lemah dalam amalan: colchicine tidak membezakan secara selektif antara tubulin mamalia dan parasit, dan ia mempunyai tingkap terapi yang sempit (dos toksik hampir sama dengan dos berkesan). Tiada bukti klinikal atau praklinikal tentang aktiviti antimalaria untuk colchicine. Skor TxGNN yang tinggi kemungkinan besar mencerminkan ketersambungan struktur antara nod berkaitan tubulin/sitoskeleton dalam graf pengetahuan daripada farmakologi yang dikonfirmkan secara selektif untuk parasit malaria — ini adalah isyarat ramalan model sahaja.
-
-## Bukti Percubaan Klinikal
-
-Pada masa ini tiada percubaan klinikal yang berkaitan terdaftar.
-
-## Bukti Literatur
-
-Pada masa ini tiada literatur yang berkaitan tersedia.
-
-## Maklumat Pasaran Malaysia
-
-Colchicine memegang **7 pendaftaran produk aktif** dengan NPRA (status pasaran: Dipasarkan), tetapi butiran peringkat lesen (nombor pendaftaran, nama produk, bentuk dos, pengeluar, dan teks indikasi yang diluluskan) tidak diisi dalam ekstrak data semasa dan tidak boleh dilaporkan di sini.
-
-## Pertimbangan Keselamatan
-
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
-
-*(Catatan: titik data amaran/kontraindikasi yang mendasari ditandai sebagai jurang data Keparahan Penyekat — teks label TFDA/NPRA masih belum diambil, yang menghalang penilaian keselamatan awal yang lengkap untuk calon ini.)*
-
-## Kesimpulan dan Langkah Seterusnya
-
-**Keputusan: Tangguh**
-
-**Rasional:**
-Ramalan ini berada pada Tahap Bukti L5 (ramalan model sahaja) tanpa sebarang percubaan klinikal atau literatur sokongan, dan pautan mekanik yang dicadangkan adalah bukan khusus dan kekurangan sebarang bukti antimalarial klinikal atau praklinikal. Jurang data Keparahan Penyekat pada label keselamatan ubat itu sendiri lebih jauh menghalang penilaian keselamatan awal.
-
-**Untuk meneruskan, berikut diperlukan:**
-- Sisipan pakej TFDA/NPRA (amaran, kontraindikasi) — pada masa ini jurang data Penyekat
-- Mekanisme tindakan yang dikonfirmkan daripada DrugBank — pada masa ini jurang data Keparahan Tinggi
-- Indikasi asal yang diluluskan ubat itu, pada masa ini hilang daripada ekstrak daftar
-- Data aktiviti antiparasitik praklinikal atau in vitro untuk colchicine sebelum sebarang penilaian lanjut adalah wajar
+Colchicine ialah ubat anti-radang yang pada asalnya digunakan untuk merawat gout dan demam Mediterranean keluarga (FMF).
+Model TxGNN meramalkan ia mungkin berkesan untuk **malaria Plasmodium falciparum**,
+tetapi setakat ini terdapat **0 ujian klinikal** dan **2 penerbitan** yang hanya berkaitan secara tidak langsung (kajian in vitro yang tidak menguji colchicine sebagai ubat antimalaria).
 
 ---
 
-**Catatan:** Pak bukti ini mengandungi dua indikasi yang diramalkan tambahan untuk colchicine yang tidak dilindungi dalam laporan ini. Terutamanya, **familial Mediterranean fever** (pangkat 2, skor 99.38%) membawa **Tahap Bukti L1** dengan pengesyoran "Teruskan dengan Pengawal" — bukti yang jauh lebih kuat daripada ramalan malaria yang diringkaskan di atas. Jika matlamatnya adalah untuk mengenal pasti calon penggunaan semula colchicine yang paling menjanjikan, laporan berasingan mengenai indikasi itu disyorkan.
+## Gambaran Keseluruhan Pantas
 
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Gout, demam Mediterranean keluarga (FMF) |
+| Indikasi Baharu yang Diramalkan | Malaria Plasmodium falciparum |
+| Skor Ramalan TxGNN | 99.60% |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Tidak dipasarkan (menurut data yang dikompil; perlu disahkan semula) |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
+
+---
+
+## Mengapa Ramalan Ini Munasabah?
+
+Data terperinci tentang mekanisme tindakan (MOA) belum tersedia dalam data yang dikompil. Berdasarkan pengetahuan umum, colchicine mengikat tubulin dan menghalang pempolimeran mikrotubul. Keberkesanannya dalam gout dan FMF telah mapan melalui kesan anti-radang, termasuk perencatan aktiviti neutrofil.
+
+Parasit *Plasmodium* bergantung pada mikrotubul untuk pembahagian sel dan pencerobohan sel perumah, justeru wujud rasional mekanistik yang bersifat spekulatif. Walau bagaimanapun, kedua-dua kertas yang diperoleh tidak menguji colchicine sebagai ubat antimalaria. Satu mengkaji gangguan mikrotubul oleh kurkumin pada *P. falciparum*, manakala satu lagi mengkaji ekspresi gen pfmdr1 dalam sel mamalia dan kaitannya dengan kerentanan terhadap klorokuin. Kajian kedua mencadangkan colchicine mungkin substrat P-glikoprotein, tetapi ini pemerhatian tentang pengangkut/rintangan dan **bukan bukti keberkesanan**.
+
+Skor TxGNN yang sangat tinggi (0.996) hanyalah ramalan model. Indeks terapeutik colchicine yang sempit dan ketoksikan yang didokumenkan pada dos yang mungkin diperlukan untuk aktiviti antiparasit merupakan kebimbangan tambahan.
+
+---
+
+## Bukti Ujian Klinikal
+
+Setakat ini tiada ujian klinikal berkaitan didaftarkan.
+
+---
+
+## Bukti Literatur
+
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [23505424](https://pubmed.ncbi.nlm.nih.gov/23505424/) | 2013 | Kajian in vitro | PloS one | Kurkumin (bukan colchicine) mengganggu mikrotubul *P. falciparum*; hanya menyokong secara tidak langsung sasaran mikrotubul |
+| [7511206](https://pubmed.ncbi.nlm.nih.gov/7511206/) | 1994 | Kajian in vitro/sel | Molecular and Cellular Biology | Ekspresi gen pfmdr1 dalam sel mamalia dikaitkan dengan peningkatan kerentanan terhadap klorokuin; pemerhatian pengangkut/rintangan, bukan keberkesanan colchicine |
+
+---
+
+## Maklumat Pasaran Malaysia
+
+Menurut data yang dikompil, colchicine tidak dipasarkan dan tiada lesen didaftarkan di Malaysia (0 pendaftaran). Maklumat ini bercanggah dengan penggunaan klinikal colchicine yang meluas, maka ia perlu disemak semula dengan sumber NPRA.
+
+---
+
+## Pertimbangan Keselamatan
+
+- **Kontraindikasi/keadaan berisiko (daripada graf pengetahuan, bukan teks label)**: kegagalan hati, penyakit hematologi, trombositopenia, penyakit ulser peptik, miopati/penyakit otot, rabdomiolisis, gangguan fungsi buah pinggang, leukopenia, agranulositosis, neutropenia (termasuk pelbagai bentuk neutropenia kongenital), anemia aplastik, nefropati urat akut, dan penyakit cirit-birit.
+- **Interaksi Ubat** (100 interaksi dikesan; contoh utama):
+  - **Major**: aprepitant, clarithromycin, eliglustat, rolapitant, rosuvastatin, simvastatin, cobicistat, deferiprone.
+  - **Moderate**: metronidazole, cimetidine, eluxadoline, miconazole, tinidazole, deferasirox, ticagrelor, chloroquine, benznidazole, disulfiram, antara lain.
+  - Perhatian: kloroquin (ubat antimalaria) mempunyai interaksi sederhana dengan colchicine, yang relevan jika digabungkan untuk malaria.
+
+Untuk amaran utama dan kontraindikasi rasmi, sila rujuk sisipan pakej.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Hold**
+
+**Rasional:**
+- Tiada ujian klinikal dan tiada kajian yang menguji colchicine terhadap malaria; sokongan hanya skor ramalan model (L5). Indeks terapeutik yang sempit dan profil ketoksikan yang ketara menambah kebimbangan.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Kajian in vitro colchicine terhadap *P. falciparum* (termasuk strain rintang klorokuin) dan penentuan sama ada kepekatan berkesan boleh dicapai dengan selamat pada manusia
+- Data model haiwan dan analisis margin keselamatan
+- Data MOA terperinci daripada DrugBank
+- Sisipan pakej dan status pendaftaran sebenar daripada NPRA (amaran, kontraindikasi, serta pengesahan status pasaran)
+
+---
+
+## Nota Tambahan: Ramalan Lain
+
+- **FMF autosomal dominan** (skor 99.38%, tahap bukti L4): Ini subjenis kepada indikasi sedia ada (FMF), bukan isyarat repurposing baharu. Literatur terdiri daripada ulasan yang menyokong colchicine sebagai terapi lini pertama FMF, tetapi tiada rekod ujian klinikal dan bukti khusus untuk subjenis dominan bersifat tidak langsung. Dikategorikan sebagai soalan penyelidikan.
+- **Dermatofibrosarcoma protuberans** (skor 99.37%, tahap bukti L5): Tiada ujian klinikal mahupun literatur. Penyakit ini didorong oleh gabungan COL1A1-PDGFB dan dirawat dengan pembedahan serta imatinib; tiada rasional mapan untuk colchicine. Keputusan: Hold.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

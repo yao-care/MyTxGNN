@@ -2,7 +2,7 @@
 layout: default
 title: Methylphenidate
 parent: Low Evidence (L4-L5)
-nav_order: 480
+nav_order: 501
 evidence_level: L5
 indication_count: 4
 ---
@@ -29,79 +29,81 @@ Tahap bukti: **L5** | Indikasi diramal: **4**
 
 </div>
 
-# Methylphenidate: Dari ADHD hingga Sindrom Fasiodigitogenital
+# Methylphenidate: Daripada Gangguan Hiperaktiviti Kekurangan Perhatian (ADHD) kepada Sindrom Faciodigitogenital
 
-## Ringkasan Satu Baris
+## Ringkasan Satu Ayat
 
-> Methylphenidate adalah penghambat pengambilan kembali dopamin/norepinefrin yang telah lama digunakan untuk mengobati Gangguan Perhatian-Defisit/Hiperaktivitas (ADHD).
-> Prediksi peringkat teratas TxGNN untuk obat ini adalah **Sindrom Fasiodigitogenital (Sindrom Aarskog)**, gangguan perkembangan rangka gen FGD1 yang langka,
-> namun kandidat ini saat ini didukung oleh **nol uji klinis** dan **nol publikasi** — rasio model sendiri menandainya sebagai kemungkinan kebisingan grafik pengetahuan daripada sinyal mekanis yang genuine.
+Methylphenidate pada asalnya digunakan untuk merawat gangguan hiperaktiviti kekurangan perhatian (ADHD) dan narkolepsi. Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom faciodigitogenital** dengan skor ramalan yang sangat tinggi (99.998%). Namun, setakat ini **tiada kajian klinikal mahupun penerbitan** yang menyokong ramalan ini, jadi ia hanyalah ramalan model.
 
 ---
 
-## Ikhtisar Cepat
+## Gambaran Ringkas
 
-| Item | Konten |
-|------|--------|
-| Indikasi Asli | Gangguan Perhatian-Defisit/Hiperaktivitas (ADHD) — disimpulkan dari bukti klinis dalam paket ini (misalnya NCT04647500); teks label NPRA formal tidak dapat diambil |
-| Indikasi Baru yang Diprediksi | Sindrom Fasiodigitogenital (Sindrom Aarskog) |
-| Skor Prediksi TxGNN | 99.998% (peringkat 84 di antara semua prediksi) |
-| Tingkat Bukti | L5 |
-| Status Pasar Malaysia | ✓ Dipasarkan |
-| Jumlah Pendaftaran | 11 |
-| Keputusan yang Direkomendasikan | Tahan |
-
----
-
-## Mengapa Prediksi Ini Masuk Akal?
-
-Data mekanisme tindakan DrugBank formal ditandai sebagai kesenjangan data dalam paket ini (DG002). Berdasarkan catatan mekanis yang tertanam dalam teks rasio TxGNN sendiri, methylphenidate bertindak terutama sebagai penghambat pengambilan kembali dopamin/norepinefrin, meningkatkan sinyal catakolaminergik korteks prefrontal — dasar penggunaannya yang telah ditetapkan dalam ADHD.
-
-Sindrom fasiodigitogenital (sindrom Aarskog) adalah gangguan perkembangan jaringan ikat/rangka genetik yang disebabkan oleh mutasi FGD1, yang mempengaruhi morfogenesis wajah, digital, dan genital melalui jalur sinyal Rho-GTPase yang tidak terkait dengan transporter monoamin. Tidak ada tumpang tindih patofisiologis yang diketahui antara kondisi ini dan mekanisme catakolaminergik methylphenidate.
-
-Paket bukti obat sendiri untuk dasar pemikiran penggunaan ulang secara eksplisit menyatakan tidak ada tautan mekanis yang dapat diidentifikasi, dan mengatribusikan skor TxGNN yang luar biasa tinggi ke kemungkinan kebisingan kemunculan bersama atau hubungan simpul tidak langsung dalam grafik pengetahuan daripada sinyal yang didasarkan secara biologis. Kandidat ini harus diperlakukan sebagai artefak model yang menunggu tinjauan manual dari jalur grafik pengetahuan yang mendasarnya, bukan sebagai hipotesis penggunaan ulang obat yang kredibel.
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | ADHD dan narkolepsi (daripada pangkalan pengetahuan TxGNN, kerana tiada lesen berdaftar di Malaysia) |
+| Indikasi Baharu yang Diramalkan | Sindrom faciodigitogenital (sindrom Aarskog-Scott) |
+| Skor Ramalan TxGNN | 99.998% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
 
-## Bukti Uji Klinis
+## Mengapa Ramalan Ini Munasabah?
 
-Saat ini tidak ada uji klinis terkait yang terdaftar
+Methylphenidate ialah perencat penyerapan semula dopamin dan norepinefrin. Data terperinci mengenai mekanisme tindakan tidak terdapat dalam data yang dikumpulkan untuk laporan ini, jadi penerangan ini berdasarkan pengetahuan am. Mekanisme ini mantap bagi ADHD, iaitu gangguan perkembangan saraf.
+
+Sindrom faciodigitogenital ialah gangguan perkembangan yang disebabkan oleh mutasi gen *FGD1* dan menjejaskan perkembangan rangka serta organ genital. **Tiada pautan mekanistik yang disokong oleh data yang ada.** Satu penjelasan yang mungkin ialah pesakit sindrom ini kadangkala menunjukkan ciri tingkah laku seperti ADHD, dan ini boleh menjadi asas tidak langsung bagi ramalan model. Namun ini hanya andaian dan tidak disokong oleh sebarang kajian dalam data yang dikumpulkan. Skor yang tinggi harus dilihat sebagai hasil pengiraan model sahaja.
+
+---
+
+## Bukti Ujian Klinikal
+
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
-Saat ini tidak ada literatur terkait yang tersedia
-
----
-
-## Informasi Pasar Malaysia
-
-Catatan NPRA mengkonfirmasi 11 pendaftaran aktif untuk methylphenidate di Malaysia (status pasar: Dipasarkan), tetapi detail lisensi individu (nomor otorisasi, nama produk, bentuk dosis, teks indikasi yang disetujui) tidak dikembalikan oleh sumber data dan tidak tersedia untuk mengisi tabel per-lisensi pada saat ini.
+Pada masa ini tiada literatur berkaitan untuk sindrom faciodigitogenital.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Silakan merujuk ke risalah produk untuk informasi keselamatan.
+Maklumat label produk tidak tersedia kerana methylphenidate tidak berdaftar di Malaysia. Sila rujuk sisipan pakej untuk maklumat keselamatan yang rasmi.
+
+**Keadaan perubatan yang dikaitkan dengan kontraindikasi** (daripada graf pengetahuan TxGNN, bukan teks label rasmi):
+- Kardiovaskular dan serebrovaskular: hipertensi, penyakit arteri koronari, infarksi miokardium, strok, infarksi serebrum, penyakit konduksi jantung, sudden cardiac arrest
+- Neurologi dan psikiatri: epilepsi, gangguan bipolar, gangguan afektif major, gangguan psikotik, skizoafektif, penyalahgunaan/kebergantungan bahan, anoreksia nervosa
+- Hematologi: trombositopenia, leukopenia, anemia, hemoglobinopati
+- Lain-lain: glaukoma, hipertiroidisme (termasuk penyakit Graves dan tirotoksikosis)
+
+**Interaksi ubat** (100 interaksi dikenal pasti; yang utama disenaraikan):
+- **Major:** Bupropion
+- **Moderate:** Isometheptene, Ephedrine, Epinephrine, Polyethylene glycol (3350 dengan elektrolit), Picosulfuric acid, Sodium sulfate
+- Beberapa interaksi lain (contohnya Metformin, Omeprazole, Morphine, Simvastatin) belum diketahui tahapnya.
 
 ---
 
-## Kesimpulan dan Langkah Selanjutnya
+## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold (Tangguh)**
 
-**Dasar Pemikiran:**
-Indikasi yang diprediksi tidak memiliki dasar pemikiran mekanis, bukti uji klinis, dan dukungan literatur — paket bukti obat sendiri secara eksplisit mengkarakterisasi skor TxGNN yang tinggi sebagai kemungkinan kebisingan grafik pengetahuan daripada sinyal yang genuine. Ini tidak memenuhi ambang batas untuk investasi lebih lanjut.
+**Justifikasi:**
+- Ramalan ini hanya berasaskan model (L5), tanpa ujian klinikal atau literatur sokongan.
+- Tiada pautan mekanistik yang munasabah antara methylphenidate dan sindrom faciodigitogenital.
+- Methylphenidate tidak berdaftar di Malaysia, dan data keselamatan label belum lengkap.
 
-**Untuk melanjutkan, yang berikut diperlukan:**
-- Tinjauan manual dari jalur grafik pengetahuan TxGNN yang menghubungkan methylphenidate ke sindrom fasiodigitogenital, untuk mengesampingkan koneksi simpul yang tidak sah
-- Data MOA DrugBank formal (DG002)
-- Peringatan dan kontraindikasi risalah produk TFDA/NPRA (DG001, memblokir — diperlukan sebelum penyaringan keselamatan S1 apa pun)
-- Detail pendaftaran Malaysia per-lisensi yang lengkap (nomor otorisasi, indikasi)
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) yang terperinci, contohnya daripada DrugBank
+- Carian literatur yang lebih tertumpu tentang methylphenidate dalam sindrom Aarskog-Scott, termasuk gejala tingkah laku seperti ADHD
+- Sisipan pakej dan maklumat amaran serta kontraindikasi daripada NPRA atau pihak berkuasa lain
+- Penilaian keselamatan, terutamanya untuk pesakit dengan keadaan kardiovaskular atau psikiatri yang disenaraikan di atas
 
-**Catatan:** Dua kandidat peringkat lebih rendah dalam paket ini — "gangguan perkembangan spesifik" (peringkat 3, L2/S3, Lanjutkan dengan Pengamanan) dan "gangguan distimik" (peringkat 4, L4/S1) — membawa dukungan klinis/literatur yang secara substansial lebih kuat dan dapat memerlukan evaluasi terpisah, meskipun kandidat peringkat 3 tumpang tindih berat dengan indikasi ADHD yang ada dari methylphenidate dan bukan target penggunaan ulang obat yang novel.
-
+**Nota tambahan:** Ramalan lain bagi ubat ini juga mempunyai tahap bukti rendah. Kondroidmiksoid fibroma (skor 99.991%, L5) tiada pautan mekanistik yang munasabah dan berkemungkinan hubungan palsu. Gangguan perkembangan spesifik (L4) dan gangguan distimik (L4) mempunyai literatur tidak langsung yang kebanyakannya berkaitan ADHD dan komorbiditi, dan layak dikaji sebagai soalan penyelidikan. Bagi gangguan distimik, kajian komorbiditi ADHD dengan kemurungan subsindrom (PMID 24045603) wajar disemak lebih lanjut.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

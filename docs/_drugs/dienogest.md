@@ -2,15 +2,15 @@
 layout: default
 title: Dienogest
 parent: Low Evidence (L4-L5)
-nav_order: 279
-evidence_level: L5
+nav_order: 288
+evidence_level: L4
 indication_count: 10
 ---
 
 # Dienogest
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L4** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,81 +29,94 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Dienogest: Daripada Endometriosis kepada Amenorrhea
+# Dienogest: Daripada Indikasi Asal (Tidak Direkodkan) kepada Amenorea
 
 ## Ringkasan Satu Ayat
 
-Dienogest ialah progestin generasi keempat yang digunakan terutamanya untuk rawatan endometriosis dan nyeri pelvis berkaitan endometriosis. Model TxGNN meramalkan ia mungkin berkesan untuk **Amenorrhea**, dengan **0 ujian klinikal** dan **6 penerbitan** yang tidak langsung berkaitan dengan arah ini. Walau bagaimanapun, semakan pakar menandai ramalan ini sebagai **kemungkinan positif palsu** — amenorrhea ialah kesan sampingan farmakologi yang terkenal bagi dienogest (insiden ~20–30%), bukan sasaran terapi.
+Dienogest ialah progestin generasi keempat yang dikenali secara meluas untuk rawatan endometriosis, tetapi data yang dikumpulkan untuk laporan ini tidak mengandungi rekod indikasi berlesen di Malaysia.
+Model TxGNN meramalkan ia mungkin berkesan untuk **amenorea** dengan skor yang tinggi, tetapi setakat ini **tiada ujian klinikal** dan **tiada kajian yang menguji dienogest sebagai rawatan amenorea**.
+Kesusasteraan yang diperoleh (7 penerbitan) berkait dengan endometriosis, kesan advers dan laporan kes, bukan dengan amenorea sebagai sasaran rawatan.
 
-## Gambaran Keseluruhan Cepat
+---
+
+## Gambaran Keseluruhan Pantas
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Endometriosis (diterbitkan daripada literatur; teks indikasi peringkat lesen tidak tersedia) |
-| Indikasi Baru Diramalkan | Amenorrhea (penyakit) |
+| Indikasi Asal | Tiada data (tiada lesen NPRA direkodkan) |
+| Indikasi Baharu yang Diramalkan | Amenorea (amenorrhea) |
 | Skor Ramalan TxGNN | 99.71% |
-| Tahap Bukti | L4 (mekanisme/kajian farmakologi sahaja) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 6 |
-| Keputusan yang Disyorkan | **Tahan** |
+| Tahap Bukti | L4 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan terperinci tidak tersedia dalam pakej bukti ini. Berdasarkan farmakologi yang diketahui, dienogest ialah progestin selektif dengan afiniti tinggi untuk reseptor progesteron dan aktiviti androgenik minimal. Ia menekan paksi hipotalamus-hipofisis-ovari (HPO), menghalang ovulasi, dan mencipta persekitaran hipoestrogenik yang menyebabkan atrofi endometrium — asas untuk keberkesanannya dalam endometriosis.
+Data mekanisme tindakan terperinci (MOA) belum tersedia. Berdasarkan maklumat yang diketahui, dienogest ialah progestin terpilih dengan kesan kuat pada endometrium serta penindasan ovulasi dan estradiol. Dalam rawatan endometriosis, amenorea ialah kesan farmakologi yang biasa dan didokumenkan dengan baik.
 
-**Ramalan ini ditandai sebagai kemungkinan positif palsu.** Amenorrhea (ketiadaan menstruasi) ialah akibat farmakologi langsung dan dijangka daripada penindasan paksi HPO dienogest. Dalam pengurusan klinikal endometriosis, induksi amenorrhea sebenarnya dianggap penanda keberkesanan terapi, bukan penyakit untuk dirawat. Graf pengetahuan TxGNN telah mengesan persatuan "ubat–amenorrhea" yang kuat, tetapi ini mencerminkan **hubungan ubat–kesan sampingan**, bukan **hubungan ubat–indikasi terapi**.
+Oleh itu, pautan yang ditemui TxGNN berkemungkinan mencerminkan perkaitan dengan kesan ubat terhadap haid, **bukan** kegunaan terapeutik. Amenorea merupakan hasil farmakologi atau kesan advers yang dijangka, bukan keadaan yang perlu dirawat. Dalam keadaan hipoestrogenik, terapi progestin sahaja malah berpotensi memburukkan keadaan.
 
-Di antara 9 indikasi yang tinggal diramalkan, beberapa berkongsi corak serupa persatuan palsu: kegagalan ovari primer (pangkat 2) dan hipogonадotropik hypogonadism (pangkat 7) adalah berkontradiksi secara farmakologi, sementara anomali kromosom (pangkat 8–10) dan sindrom genetik (pangkat 5–6) tidak mempunyai asas mekanistik. Hanya **breast fibrocystic disease** (pangkat 3) mempunyai kebolehjelasan teori terhad berdasarkan kesan anti-estrogenik progesteron pada tisu payudara, meskipun bukti adalah minimal (1 kajian pilot).
+Kesimpulannya, ramalan ini lebih tepat dianggap sebagai **persoalan penyelidikan** dan bukan calon rawatan yang sebenar.
+
+---
 
 ## Bukti Ujian Klinikal
 
-Pada masa ini tiada ujian klinikal berkaitan berdaftar untuk dienogest dalam amenorrhea.
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
-> Nota: Satu ujian klinikal ([NCT04306276](https://clinicaltrials.gov/study/NCT04306276)) telah diambil di bawah ramalan berkaitan untuk kegagalan ovari primer (pangkat 2), tetapi fokusnya yang sebenar ialah pra-rawatan dienogest sebelum IVF pada pesakit endometriosis — tidak berkaitan dengan amenorrhea sebagai sasaran terapi.
+---
 
-## Bukti Literatur
+## Bukti Kesusasteraan
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|------|------|------|---------|
-| [39090694](https://pubmed.ncbi.nlm.nih.gov/39090694/) | 2024 | Ulasan Sistematik | BMC Pharmacol Toxicol | Ulasan sistematik kesan buruk dienogest; amenorrhea dikenal pasti sebagai kesan sampingan yang biasa semasa rawatan endometriosis |
-| [41329046](https://pubmed.ncbi.nlm.nih.gov/41329046/) | 2026 | Kajian Farmakologi | Eur J Contracept Reprod Health Care | Nisbah perencatan tinggi dienogest 2 mg menyokong penggunaannya dalam endometriosis dengan mendorong amenorrhea dan persekitaran hipoestrogenik |
-| [34405378](https://pubmed.ncbi.nlm.nih.gov/34405378/) | 2022 | Ulasan | Rev Endocr Metab Disord | Rawatan hormonal untuk endometriosis; dienogest mengurangkan implan endometrium ektopik melalui penindasan estrogen |
-| [29161960](https://pubmed.ncbi.nlm.nih.gov/29161960/) | 2018 | Kohort | Reprod Sci | Penggunaan dienogest jangka panjang (>12 bulan) dalam endometrioma ovari; keberkesanan dan keselamatan dinilai dalam 514 wanita di seluruh 7 pusat |
-| [19499407](https://pubmed.ncbi.nlm.nih.gov/19499407/) | 2009 | Kajian Pilot | Gynecol Endocrinol | Dienogest dos tinggi (2×10 mg) selama 24 minggu menyebabkan pengurangan saiz kelenjar mammari dan regresi perubahan mastopati dalam 21 pesakit endometriosis |
-| [40543564](https://pubmed.ncbi.nlm.nih.gov/40543564/) | 2025 | Kes/Pengimejan | J Pediatr Adolesc Gynecol | Visualisasi canggih untuk anomali Müllerian; dienogest disebut sebagai pengurusan perubatan — berkaitan secara tangensial |
+|------|-----|------|------|---------|
+| [39090694](https://pubmed.ncbi.nlm.nih.gov/39090694/) | 2024 | Kajian sistematik / meta-analisis Bayesian | BMC Pharmacol Toxicol | Merumuskan kesan advers dienogest pada endometriosis dan adenomiosis |
+| [29161960](https://pubmed.ncbi.nlm.nih.gov/29161960/) | 2018 | Kohort retrospektif (514 pesakit) | Reprod Sci | Keberkesanan dan keselamatan penggunaan jangka panjang dienogest pada endometrioma ovari |
+| [34405378](https://pubmed.ncbi.nlm.nih.gov/34405378/) | 2022 | Ulasan | Rev Endocr Metab Disord | Latar belakang endokrin rawatan hormon untuk endometriosis |
+| [41329046](https://pubmed.ncbi.nlm.nih.gov/41329046/) | 2026 | Kajian klinikal/farmakodinamik | Eur J Contracept Reprod Health Care | Dienogest 2 mg menunjukkan nisbah perencatan tinggi dalam endometriosis |
+| [42438810](https://pubmed.ncbi.nlm.nih.gov/42438810/) | 2026 | Laporan kes | JCEM Case Reports | Hiperparatiroidisme primer terdedah selepas perubahan dinamik estrogen akibat dienogest |
+| [34918698](https://pubmed.ncbi.nlm.nih.gov/34918698/) | 2021 | Laporan kes | Medicine | Tumor sel granulosa ovari pada pesakit sindrom ovari polisistik |
+| [40543564](https://pubmed.ncbi.nlm.nih.gov/40543564/) | 2025 | Ulasan | J Pediatr Adolesc Gynecol | Visualisasi lanjutan untuk anomali Müllerian dan perancangan pembedahan |
 
-> **Nota:** Penerbitan ini membincangkan amenorrhea sebagai **kesan sampingan atau penanda keberkesanan** dienogest dalam rawatan endometriosis, bukan sebagai sasaran penyakit. Tiada penerbitan yang secara langsung menyiasat dienogest sebagai rawatan untuk amenorrhea patologi.
+Tiada satu pun daripada kajian ini menguji dienogest sebagai rawatan amenorea.
 
-## Maklumat Pasaran Malaysia
+---
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| (Tidak tersedia) | (Tidak tersedia) | (Tidak tersedia) | (Tidak tersedia) |
+## Keselamatan
 
-> 6 pendaftaran produk direkodkan dengan status dipasarkan di Malaysia. Maklumat terperinci peringkat lesen (nombor kebenaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan) tidak tersedia dalam pakej bukti ini.
+- **Interaksi Ubat**: Sebanyak 37 interaksi direkodkan. Antara yang dipaparkan dalam data:
+  - **Major**: Sugammadex, Griseofulvin, Bexarotene, Brigatinib, Dabrafenib, Encorafenib
+  - **Moderate**: Linaclotide, Metreleptin, Prucalopride, Miltefosine, Adalimumab, Anakinra, Canakinumab, Certolizumab pegol, Cladribine, Emapalumab, Enasidenib dan lain-lain
+  - **Minor**: Etanol
+- **Peringatan daripada laporan kes**: Satu laporan kes mengaitkan dienogest dengan hiperparatiroidisme primer yang tersingkap akibat perubahan dinamik estrogen (rujuk PMID 42438810).
 
-## Pertimbangan Keselamatan
+Sila rujuk sisipan pakej untuk maklumat keselamatan lengkap, termasuk amaran dan kontraindikasi.
 
-> Sila rujuk risalah produk untuk maklumat keselamatan. Data amaran utama, kontraindikasi, dan interaksi ubat tidak tersedia dalam pakej bukti ini.
+---
 
-**Jurang data yang diketahui (keterukan dicatat):**
-- Amaran risalah paket NPRA/kontraindikasi — **Menyekat** (diperlukan untuk semakan keselamatan Peringkat 1)
-- Detail mekanisme tindakan (MOA) — **Tinggi** (memberi kesan kepada analisis relevansi mekanistik)
+## Kesimpulan dan Langkah Seterusnya
 
-## Kesimpulan dan Langkah Berikutnya
+**Keputusan: Hold**
 
-**Keputusan: Tahan**
+**Justifikasi:**
+- Skor TxGNN tinggi, tetapi tiada ujian klinikal dan tiada kajian yang menilai dienogest sebagai rawatan amenorea. Amenorea lebih mungkin kesan farmakologi yang dijangka daripada ubat ini, jadi ramalan ini tidak menyokong kegunaan terapeutik.
+- Ubat ini tidak mempunyai lesen berdaftar di Malaysia berdasarkan data yang dikumpulkan.
 
-**Rasional:**
-Ramalan terperingkat teratas TxGNN (amenorrhea) dinilai sebagai **positif palsu** — amenorrhea ialah kesan sampingan farmakologi yang diketahui dan biasa bagi dienogest, bukan sasaran terapi. 9 ramalan yang tinggal adalah serupa bermasalah: kebanyakan melibatkan logik berkontradiksi (kegagalan ovari primer, hypogonadotropik hypogonadism), keadaan genetik/kromosom yang tidak berkaitan, atau mempunyai kebolehjelasan mekanistik marginal sahaja (breast fibrocystic disease). Selain itu, data keselamatan kritikal (amaran risalah paket, kontraindikasi) dan butiran MOA hilang, menyekat penilaian keselamatan formal.
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisipan pakej NPRA (amaran dan kontraindikasi), kerana ketiadaannya menghalang saringan keselamatan peringkat seterusnya
+- Data mekanisme tindakan (MOA) daripada DrugBank
+- Maklumat indikasi asal dan status pendaftaran di Malaysia
+- Justifikasi klinikal yang jelas bahawa amenorea ialah sasaran rawatan, bukan kesan advers
+- Kajian pra-klinikal atau klinikal yang menguji dienogest secara langsung dalam amenorea
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- **Re-nilai output model**: Tandai amenorrhea, kegagalan ovari primer, dan hypogonadotropik hypogonadism sebagai kesan sampingan yang diketahui / persatuan berkontradiksi dan kecualikan daripada senarai calon masa depan
-- **Selidik breast fibrocystic disease (pangkat 3)**: Ramalan satu-satunya dengan kebolehjelasan mekanistik terhad — memerlukan pencarian literatur tambahan dan perundingan pakar sebelum memajukan
-- **Dapatkan data risalah paket**: Muat turun dan huraikan risalah produk yang diluluskan NPRA untuk melengkapkan profil keselamatan
-- **Soalan DrugBank untuk MOA**: Ambil mekanisme tindakan terperinci (carian ID DrugBank diperlukan) untuk membolehkan analisis mekanistik yang sewajarnya
-- **Cadangan penambahbaikan model**: Pertimbangkan untuk memasukkan penapis pengecualian kesan sampingan dalam pemprosesan pasca-TxGNN untuk mengurangkan ramalan positif palsu di mana kesan buruk yang diketahui disalahkelaskan sebagai indikasi terapi
+---
 
+## Nota Tambahan: Ramalan Lain
+
+Sembilan ramalan lain (kedudukan 2–10) mempunyai skor sekitar 99.4–99.7%. Hampir kesemuanya berada pada tahap bukti L5 dengan cadangan **Hold**, dan tiada ujian klinikal ataupun kesusasteraan yang diperoleh. Satu-satunya pengecualian ialah **penyakit fibrosistik payudara** (L4), yang disokong oleh satu kajian kecil perintis (PMID 19499407, 21 wanita, dos tinggi) yang menunjukkan pengurangan saiz kelenjar mamma. Ia masih berupa persoalan penyelidikan yang belum disahkan.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

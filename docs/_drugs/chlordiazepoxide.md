@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Chlordiazepoxide
-parent: Medium Evidence (L3)
-nav_order: 209
-evidence_level: L3
+parent: Low Evidence (L4-L5)
+nav_order: 214
+evidence_level: L4
 indication_count: 10
 ---
 
 # Chlordiazepoxide
 {: .fs-9 }
 
-Tahap bukti: **L3** | Indikasi diramal: **10** 
+Tahap bukti: **L4** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,67 +29,87 @@ Tahap bukti: **L3** | Indikasi diramal: **10**
 
 </div>
 
-# Chlordiazepoxide: Daripada Kebimbangan kepada Insomnia
+# Chlordiazepoxide: Daripada Kebimbangan (Anxiety) kepada Insomnia
 
 ## Ringkasan Satu Ayat
 
-Chlordiazepoxide ialah benzodiazpin asal yang secara klasik digunakan untuk merawat gangguan kebimbangan dan penarikan alkohol.
-Model TxGNN meramalkan ia mungkin juga berkesan untuk **Insomnia**,
-dengan **1 ujian klinikal dengan kaitan rendah** dan **6 penerbitan** (kebanyakannya ulasan) yang kini dikaitkan dengan arah ini.
+Chlordiazepoxide ialah benzodiazepin generasi awal yang dalam literatur dikenali sebagai ubat anxiolitik. Data pendaftaran tempatan tidak menyenaraikan indikasi asal yang diluluskan.
+Model TxGNN meramalkan ia mungkin berkesan untuk **insomnia**, tetapi setakat ini **tiada ujian klinikal berdaftar** dan **tiada RCT khusus insomnia** untuk chlordiazepoxide. Bukti yang ada hanyalah beberapa ulasan (review) dan kajian lama.
 
-## Gambaran Keseluruhan Pantas
+---
+
+## Gambaran Ringkas
 
 | Item | Kandungan |
 |------|------|
-| Petunjuk Asal | Gangguan kebimbangan (petunjuk benzodiazpin yang mantap; teks petunjuk yang diluluskan TFDA/NPRA tidak tersedia dalam set data semasa — lihat Jurang Data DG001) |
-| Petunjuk Baharu yang Diramalkan | Insomnia (penyakit) |
-| Skor Ramalan TxGNN | 99.99% |
-| Tahap Bukti | L3 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 1 |
-| Keputusan yang Disyorkan | Soalan Penyelidikan (Tahan menunggu bukti selanjutnya) |
+| Indikasi Asal | Tiada data indikasi lesen. Literatur menunjukkan penggunaan sejarah sebagai anxiolitik |
+| Indikasi Baharu yang Diramalkan | Insomnia |
+| Skor Ramalan TxGNN | 99.998% |
+| Tahap Bukti | L4 |
+| Status Pasaran Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa kini, data mekanisme tindakan terperinci tidak tersedia untuk rekod ini (Jurang Data DG002). Berdasarkan maklumat farmakologi yang diketahui, chlordiazepoxide ialah benzodiazpin — yang pertama pernah dibawa ke pasaran — dan bertindak sebagai pengubah alostrik positif reseptor GABA-A, meningkatkan respons saluran klorid terhadap GABA. Keberkesanannya dalam gangguan kebimbangan telah terbukti dengan mantap selama lebih daripada 60 tahun, dan mekanisme sedatif yang sama ini boleh digunakan untuk aruhan dan penyelenggaraan tidur.
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan pengetahuan farmakologi umum, chlordiazepoxide ialah benzodiazepin yang memodulasi reseptor GABA-A secara positif. Tindakan ini menghasilkan kesan penenang-hipnotik (sedative-hypnotic).
 
-Petunjuk baharu yang diramalkan (insomnia) dan penggunaan klasik ubat ini (kebimbangan) bergantung pada laluan sedatif-ansiolitik yang sama yang dimediasi oleh GABA-A, jadi nisbah farmakologi adalah kukuh. Walau bagaimanapun, pakej bukti itu sendiri mencatat kaveat penting: sedasi dan ansiolitik bertindih berat dalam benzodiazpin, menjadikannya sukar untuk membezakan "rawatan kebimbangan dengan peningkatan tidur sekunder" daripada "rawatan insomnia primer." Kebanyakan literatur yang tersedia berpusat pada peranan chlordiazepoxide yang ansiolitik dan penarikan alkohol dan bukannya ujian insomnia yang berdedikasi, jadi isyarat insomnia harus dianggap sebagai hipotesis yang munasabah dari segi mekanisme tetapi belum disahkan secara klinikal.
+Kesan ini selaras dengan keperluan rawatan insomnia, kerana peningkatan nada perencatan GABA boleh memudahkan tidur. Kebimbangan dan insomnia juga sering wujud bersama, dan ubat yang menenangkan kebimbangan lazimnya turut mengurangkan kesukaran tidur.
+
+Namun, hubungan ini setakat ini bersifat mekanistik dan tidak disokong bukti langsung. Literatur yang diperoleh terdiri daripada ulasan mengenai benzodiazepin hipnotik pada warga emas, farmakokinetik ubat anxiolitik, dan penggunaan ubat yang berpotensi tidak sesuai. Chlordiazepoxide ialah agen bertindak panjang dengan metabolit aktif, jadi risiko mengantuk pada hari berikutnya dan risiko jatuh pada warga emas perlu dipertimbangkan.
+
+---
 
 ## Bukti Ujian Klinikal
 
-| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT01109030](https://clinicaltrials.gov/study/NCT01109030) | Fasa 2/3 | Selesai | 50 | Ujian Pioglitazone sebagai bantuan kepada Citalopram untuk kemurungan sederhana hingga teruk. **Kaitan ditandai sebagai rendah (Gred C)** — pakej bukti itu sendiri mencatat ini nampaknya menjadi ketidakpadanan graf pengetahuan tanpa hubungan substantif kepada chlordiazepoxide atau insomnia. |
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
+
+---
 
 ## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [4628683](https://pubmed.ncbi.nlm.nih.gov/4628683/) | 1972 | RCT | Current Therapeutic Research | Penilaian klinikal keberkesanan chlordiazepoxide vs. molindone pada pesakit luar yang cemas (abstrak tidak tersedia). |
-| [30680986](https://pubmed.ncbi.nlm.nih.gov/30680986/) | 2019 | Kohort | Medicinski Glasnik | Kajian keratan rentas ubat yang berpotensi tidak sesuai (kriteria Beers) di kalangan pesakit warga tua di Iran; benzodiazpin termasuk chlordiazepoxide terlibat. |
-| [14085195](https://pubmed.ncbi.nlm.nih.gov/14085195/) | 1963 | Kohort | Acta Psychiatrica Scandinavica | Siri rawatan awal neurose kebimbangan dan sindrom psikosomatik menggunakan metabolit Librium (abstrak tidak tersedia). |
-| [23330992](https://pubmed.ncbi.nlm.nih.gov/23330992/) | 2013 | Ulasan | Expert Opinion on Drug Metabolism & Toxicology | Ulasan farmakokinetik ubat ansiolitik, menyatakan ansiolitik sebagai kelas ubat psikoaktif yang paling banyak diresepkan. |
-| [2883822](https://pubmed.ncbi.nlm.nih.gov/2883822/) | 1986 | Ulasan | Acta Psychiatrica Scandinavica Supplementum | Ulasan perubahan farmakodinamik benzodiazpin pada warga tua, relevan dengan penggunaan hipnotik dalam populasi ini. |
-| [6111745](https://pubmed.ncbi.nlm.nih.gov/6111745/) | 1981 | Ulasan | The Medical Letter on Drugs and Therapeutics | Rujukan ulasan umum mengenai pilihan di kalangan benzodiazpin. |
+| [23330992](https://pubmed.ncbi.nlm.nih.gov/23330992/) | 2013 | Review | Expert Opin Drug Metab Toxicol | Ulasan farmakokinetik ubat anxiolitik. Anxiolitik ialah ubat psikoaktif yang paling banyak diresepkan |
+| [2883822](https://pubmed.ncbi.nlm.nih.gov/2883822/) | 1986 | Review | Acta Psychiatr Scand Suppl | Warga emas menunjukkan sambutan terhadap benzodiazepin yang meningkat 2-3 kali ganda, yang tidak dijelaskan oleh kepekatan plasma atau penyakit |
+| [4628683](https://pubmed.ncbi.nlm.nih.gov/4628683/) | 1972 | RCT | Curr Ther Res | Perbandingan klinikal molindone dan chlordiazepoxide pada pesakit luar yang cemas (bukan khusus insomnia; tiada abstrak) |
+| [14085195](https://pubmed.ncbi.nlm.nih.gov/14085195/) | 1963 | Kajian klinikal | Acta Psychiatr Scand | Rawatan neurosis kebimbangan dan sindrom psikosomatik dengan metabolit Librium (tiada abstrak; kajian sangat lama) |
+| [30680986](https://pubmed.ncbi.nlm.nih.gov/30680986/) | 2019 | Keratan rentas | Med Glas (Zenica) | Kajian prevalens ubat berpotensi tidak sesuai (kriteria Beers) pada warga emas Iran, relevan kepada kebimbangan keselamatan benzodiazepin |
+
+Nota: tiada RCT khusus insomnia untuk chlordiazepoxide dalam data. Bukti adalah tidak langsung dan kebanyakannya setahap kelas ubat.
+
+---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan. (Data amaran utama, kontraindikasi, dan interaksi ubat-ubatan tidak lagi tersedia dalam pakej bukti ini — lihat Jurang Data DG001.)
+**Interaksi Ubat (DDI)**: Pertanyaan DDI telah selesai dengan jumlah 100 interaksi. Berikut ialah interaksi utama daripada senarai yang diperoleh:
+- **Major**: Morphine, Morphine (liposomal). Gabungan dengan opioid boleh menambah kesan penekanan sistem saraf pusat.
+- **Moderate**: Bupropion, Omeprazole, Cimetidine, Clarithromycin, Dronabinol, Metoclopramide, Nabilone, Opium, Sibutramine, Teduglutide.
+- **Minor**: Aluminium hydroxide, Calcium carbonate, Magaldrate, Magnesium carbonate, Magnesium hydroxide, Magnesium oxide.
+- **Tahap tidak diketahui**: Metformin, Sucralfate.
+
+**Kebimbangan keselamatan daripada literatur**: Pada warga emas terdapat risiko jatuh, gangguan kognitif dan kebergantungan. Risiko kebergantungan dan toleransi benzodiazepin secara umum juga perlu diberi perhatian.
+
+Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Soalan Penyelidikan**
+**Keputusan: Hold**
 
-**Nisbah:**
-Tahap bukti ialah L3 — disokong hanya oleh literatur tahap ulasan dan kohort serta satu ujian klinikal yang pakej bukti itu sendiri tandai sebagai ketidakpadanan pangkalan data yang mungkin (kaitan Gred C). Tiada kajian yang secara langsung menguji chlordiazepoxide untuk insomnia sebagai titik akhir primer; isyarat bergantung pada ekstrapolasi mekanisme daripada tindakan ansiolitik/sedatifnya dan bukannya bukti klinikal yang berdedikasi.
+**Rasional:**
+- Ramalan TxGNN sangat tinggi (99.998%), tetapi tiada ujian klinikal dan tiada RCT khusus insomnia. Bukti hanyalah ulasan tidak langsung dan kajian lama.
+- Chlordiazepoxide tidak dipasarkan di Malaysia dan risiko pada warga emas (jatuh, kebergantungan, kesan baki pada hari berikutnya) adalah ketara. Benzodiazepin lain yang bertindak lebih pendek mungkin lebih sesuai untuk insomnia.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Data sisipan pakej TFDA/NPRA (amaran, kontraindikasi) — kini menghalang (DG001)
-- Data mekanisme tindakan DrugBank untuk secara rasmi menyokong nisbah mekanisme (DG002)
-- Butiran lesen pasaran Malaysia (nama produk, bentuk dos, teks petunjuk yang diluluskan) — rekod semasa mempunyai 1 pendaftaran tetapi tiada medan lesen yang dipenuhi
-- Ujian klinikal khusus atau kajian perbandingan yang menilai chlordiazepoxide khusus untuk insomnia (berbanding dengan kebimbangan atau penarikan alkohol)
-- Data interaksi ubat-ubatan, mengingat profil CNS-depressant chlordiazepoxide dan kaitan dengan petunjuk berkaitan tidur
-
+- Maklumat amaran dan kontraindikasi daripada sisipan pakej NPRA.
+- Data mekanisme tindakan (MOA) terperinci, contohnya daripada DrugBank.
+- Bukti klinikal khusus insomnia, seperti RCT atau kajian perbandingan dengan hipnotik yang telah diluluskan.
+- Pelan pemantauan keselamatan untuk populasi khusus, terutamanya warga emas, dan pelan pengurusan risiko kebergantungan.
+- Pengesahan status pendaftaran dan laluan pengawalseliaan di Malaysia, memandangkan ubat ini tidak mempunyai lesen tempatan.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

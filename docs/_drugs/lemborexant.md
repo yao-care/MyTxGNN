@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Lemborexant
-parent: Low Evidence (L4-L5)
-nav_order: 430
-evidence_level: L5
+parent: High Evidence (L1-L2)
+nav_order: 450
+evidence_level: L1
 indication_count: 1
 ---
 
 # Lemborexant
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **1** 
+Tahap bukti: **L1** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,88 +29,85 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Lemborexant: Daripada Indikasi Asal Tidak Terdaftar kepada Insomnia (Gangguan Tidur, Memulai dan Mempertahankan Tidur)
+# Lemborexant: Daripada Insomnia kepada Gangguan Tidur (Memulakan dan Mengekalkan Tidur)
 
 ## Ringkasan Satu Ayat
 
-> Indikasi yang diluluskan asal untuk lemborexant tidak tercatat dalam ekstrak daftar NPRA Malaysia semasa yang digunakan untuk membina pakej bukti ini. Model TxGNN meramalkan keberkesanan untuk **Insomnia (Gangguan Tidur, Memulai dan Mempertahankan Tidur)**, dengan **1 ujian klinis berdaftar** dan **20 penerbitan sokongan** — termasuk tiga ujian rawak terkawal Fasa 3 yang telah selesai — yang tersedia pada masa ini untuk arah ini.
+Lemborexant ialah antagonis reseptor oreksin dwi (DORA) yang pada asalnya digunakan untuk merawat insomnia.
+Model TxGNN meramalkan ia berkesan untuk **gangguan tidur (memulakan dan mengekalkan tidur)**, iaitu indikasi yang sangat hampir dengan indikasi asal.
+Pada masa ini terdapat **20 penerbitan** yang menyokong arah ini, tetapi **tiada percubaan klinikal** didaftarkan dalam data yang dikumpulkan.
 
 ---
 
-## Pandangan Pantas
+## Gambaran Ringkas
 
-| Item | Kandungan |
+| Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tidak tersedia dalam ekstrak daftar NPRA Malaysia semasa (jurang data) |
-| Indikasi Baru yang Diramalkan | Insomnia (Gangguan Tidur, Memulai dan Mempertahankan Tidur) |
+| Indikasi Asal | Insomnia |
+| Indikasi Baharu yang Diramalkan | Gangguan tidur (memulakan dan mengekalkan tidur) |
 | Skor Ramalan TxGNN | 99.75% |
-| Tahap Bukti | L1 (≥2 ujian rawak terkawal Fasa 3 yang telah selesai dilaporkan dalam kesusasteraan, PMID 31880796 / 32585700 / 33636648) |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 2 |
-| Keputusan yang Disyorkan | Tahan |
+| Tahap Bukti | L1 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Proceed with Guardrails |
 
 ---
 
-## Mengapa Ramalan Ini Wajar?
+## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme aksi terperinci tidak tersedia daripada medan DrugBank berstruktur untuk pakej bukti ini (jurang data DG002). Bagaimanapun, bukti kesusasteraan yang dikumpulkan di sini secara konsisten mengenal pasti lemborexant sebagai **antagonis reseptor orexin berganda (DORA)** yang diberikan secara lisan, menghalang OX1R dan OX2R secara kompetitif (dengan pertalian lebih tinggi ke OX2R) untuk menekan isyarat orexin yang meningkatkan keterjagaan (PMID 32096020, 37086045, 32901578).
+Lemborexant ialah antagonis reseptor oreksin dwi yang menyekat isyarat oreksin A/B pada reseptor OX1R dan OX2R, lalu menekan dorongan untuk berjaga. Mekanisme ini menyasar terus kesukaran untuk memulakan dan mengekalkan tidur. Data terperinci mengenai mekanisme tindakan (MOA) tidak terdapat dalam data yang dikumpulkan, dan penerangan di sini berdasarkan analisis rasional pengiriman semula (repurposing) serta literatur yang diterbitkan.
 
-Terutamanya, indikasi yang diramalkan TxGNN — insomnia (kesukaran memulai dan/atau mempertahankan tidur) — adalah keadaan yang sama untuk mana lemborexant sudah diluluskan di Amerika Syarikat, Jepun, dan Kanada (PMID 32096020, 33636648). Ini menunjukkan model telah dengan betul mengenalpasti kembali hubungan ubat-penyakit yang diketahui, disokong secara mekanistik dengan baik, daripada mengemukakan hipotesis penggunaan semula yang baru. Nilai pakej bukti ini dalam kes ini adalah kurang tentang penemuan penggunaan baru dan lebih kepada pengesahan kekuatan bukti sedia ada untuk menyokong dokumentasi indikasi formal dan kedudukan pasaran di Malaysia.
+Perlu diperhatikan bahawa "gangguan tidur, memulakan dan mengekalkan tidur" pada dasarnya ialah sinonim atau subkategori insomnia. Ramalan ini lebih tepat dianggap sebagai padanan indikasi sedia ada (on-label) dan bukan penggunaan semula untuk penyakit baharu yang sebenar. Skor TxGNN yang tinggi (99.75%) selaras dengan pertindihan ini.
 
-Secara mekanistik, menghalang isyarat orexin secara langsung menangani keadaan tersedari berlebihan yang terlibat dalam patofisiologi insomnia, yang konsisten dengan keberkesanan gabungan yang ditunjukkan di seluruh program Fasa 3 SUNRISE 1 dan SUNRISE 2 serta pelbagai analisis meta-rangkaian perbandingan lemborexant dengan DORA lain dan ubat-Z.
-
----
-
-## Bukti Ujian Klinis
-
-| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT06928766](https://clinicaltrials.gov/study/NCT06928766) | Fasa 2 | Belum mula merekrut | 15 | Ujian rawak terkawal buta berganda eszopiclone berbanding lemborexant (ELOSA) pada pesakit dengan insomnia bersama dan apnea tidur obstruktif (COMISA) dengan ambang kebangkitan rendah dan kesukaran mempertahankan/jatuh tidur |
+Satu ketidakselarasan data juga dikesan: status pasaran di Malaysia dinyatakan sebagai "Tidak dipasarkan", sedangkan literatur klinikal dan kawal selia yang diterbitkan menunjukkan lemborexant telah diluluskan di beberapa negara (Amerika Syarikat, Jepun dan Kanada). Maklumat ini perlu disahkan dengan pangkalan data kawal selia terkini sebelum digunakan.
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Percubaan Klinikal
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
+
+---
+
+## Bukti Literatur
+
+| PMID | Tahun | Jenis | Jurnal | Dapatan Utama |
 |------|-----|------|------|---------|
-| [31880796](https://pubmed.ncbi.nlm.nih.gov/31880796/) | 2019 | Ujian Rawak Terkawal (Fasa 3) | JAMA Network Open | Lemborexant mengatasi plasebo dan lebih menguntungkan berbanding zolpidem ER untuk insomnia pada orang dewasa yang lebih tua |
-| [32585700](https://pubmed.ncbi.nlm.nih.gov/32585700/) | 2020 | Ujian Rawak Terkawal (Fasa 3, SUNRISE 2) | Sleep | Keberkesanan jangka panjang (12 bulan) dan tolerabiliti lemborexant berbanding plasebo pada orang dewasa dengan gangguan insomnia |
-| [33636648](https://pubmed.ncbi.nlm.nih.gov/33636648/) | 2021 | Ujian Rawak Terkawal (Fasa 3, sambungan SUNRISE 2) | Sleep Medicine | Keberkesanan dan keselamatan yang berterusan selama 12 bulan rawatan lemborexant berterusan |
-| [39879708](https://pubmed.ncbi.nlm.nih.gov/39879708/) | 2025 | Analisis pasca-hoc ujian rawak terkawal | Sleep Medicine | Lemborexant mengekalkan/meningkatkan seni bina tidur pada peserta dengan insomnia bersama dan OSA ringan |
-| [36472134](https://pubmed.ncbi.nlm.nih.gov/36472134/) | 2023 | Analisis subkumpulan ujian rawak terkawal | J Clin Sleep Med | Tindakbalas rawatan terhadap lemborexant berbanding zolpidem ER berbeza mengikut fenotip insomnia yang ditakrifkan polisomnografi |
-| [40555730](https://pubmed.ncbi.nlm.nih.gov/40555730/) | 2025 | Ulasan sistematik / analisis meta-rangkaian | Translational Psychiatry | Keberkesanan perbandingan dan keselamatan daridorexant, lemborexant, dan suvorexant untuk insomnia |
-| [35843245](https://pubmed.ncbi.nlm.nih.gov/35843245/) | 2022 | Ulasan sistematik / analisis meta-rangkaian | Lancet | Keberkesanan perbandingan intervensi farmakologi untuk pengurusan insomnia akut dan jangka panjang |
-| [41071053](https://pubmed.ncbi.nlm.nih.gov/41071053/) | 2025 | Ulasan | Expert Review of Clinical Pharmacology | Ulasan komprehensif peranan lemborexant dalam rawatan insomnia |
-| [37086045](https://pubmed.ncbi.nlm.nih.gov/37086045/) | 2023 | Ulasan | Journal of Sleep Research | Biologi orexin dan pembangunan antagonis reseptor orexin, termasuk lemborexant, untuk insomnia |
-| [32096020](https://pubmed.ncbi.nlm.nih.gov/32096020/) | 2020 | Profil ubat / ulasan | Drugs | Lemborexant: Kelulusan Pertama — farmakologi dan sejarah kawal selia untuk indikasi insomnia |
+| [31880796](https://pubmed.ncbi.nlm.nih.gov/31880796/) | 2019 | RCT Fasa 3 | JAMA Netw Open | Perbandingan lemborexant dengan plasebo dan zolpidem pelepasan lanjutan pada warga emas yang menghidap insomnia |
+| [32585700](https://pubmed.ncbi.nlm.nih.gov/32585700/) | 2020 | RCT Fasa 3 | Sleep | SUNRISE 2: keberkesanan dan toleransi jangka panjang lemborexant berbanding plasebo |
+| [33636648](https://pubmed.ncbi.nlm.nih.gov/33636648/) | 2021 | RCT Fasa 3 | Sleep Med | Keberkesanan dan keselamatan sehingga 12 bulan rawatan berterusan (SUNRISE 2) |
+| [42414855](https://pubmed.ncbi.nlm.nih.gov/42414855/) | 2026 | RCT crossover | Aliment Pharmacol Ther | Keberkesanan dan keselamatan lemborexant pada pesakit sirosis hati |
+| [35843245](https://pubmed.ncbi.nlm.nih.gov/35843245/) | 2022 | Kajian sistematik / meta-analisis rangkaian | Lancet | Perbandingan keberkesanan rawatan farmakologi insomnia dalam jangka akut dan panjang |
+| [40555730](https://pubmed.ncbi.nlm.nih.gov/40555730/) | 2025 | Kajian sistematik / meta-analisis rangkaian | Transl Psychiatry | Perbandingan keberkesanan dan keselamatan daridoreksant, lemborexant dan suvoreksant |
+| [36701954](https://pubmed.ncbi.nlm.nih.gov/36701954/) | 2023 | Kajian sistematik / meta-analisis rangkaian | Sleep Med Rev | Perbandingan dan kedudukan keberkesanan serta toleransi 20 ubat insomnia |
+| [36947394](https://pubmed.ncbi.nlm.nih.gov/36947394/) | 2023 | Kajian sistematik / meta-analisis rangkaian | Drugs | Analisis 153 percubaan rawak mengenai keberkesanan dan keselamatan ubat insomnia |
+| [34121443](https://pubmed.ncbi.nlm.nih.gov/34121443/) | 2021 | Meta-analisis rangkaian | J Manag Care Spec Pharm | Perbandingan keberkesanan lemborexant dengan rawatan insomnia lain |
+| [39277609](https://pubmed.ncbi.nlm.nih.gov/39277609/) | 2024 | Kajian sistematik | Transl Psychiatry | Antagonis reseptor oreksin untuk insomnia yang disertai gangguan psikiatri |
 
 ---
 
-## Maklumat Pasaran Malaysia
+## Keselamatan
 
-Rekod NPRA mengesahkan **2 pendaftaran aktif** untuk lemborexant (status pasaran: Dipasarkan / Dipasarkan), tetapi medan tahap lesen asas (nombor lesen, nama produk, bentuk dos, teks indikasi yang diluluskan) tidak diisi dalam pakej bukti ini. Pertanyaan tahap produk NPRA susulan diperlukan sebelum data ini dapat dilaporkan.
+- **Kontraindikasi daripada graf pengetahuan (bukan teks label)**: graf pengetahuan TxGNN (PrimeKG) mengaitkan lemborexant dengan narkolepsi, sindrom narkolepsi-katapleksi, penyakit sistem saraf pusat, sklerosis sepusat Balo dan adrenoleukodistrofi berkaitan-X. Ini ialah petunjuk daripada graf pengetahuan dan perlu disahkan dengan label produk.
+- **Interaksi ubat (DDI)**: 100 interaksi dikesan. Contoh interaksi tahap **Major** termasuk ranitidina, aprepitan, morfin (termasuk morfin liposomal), simetidina, klaritromisin dan klotrimazol. Contoh interaksi tahap **Moderate** termasuk pioglitazon, bupropion, deksametason, saksagliptin, dronabinol, nabilon, metoklopramid dan lain-lain.
 
----
-
-## Pertimbangan Keselamatan
-
-Sila rujuk surat sisiapan untuk maklumat keselamatan.
+Maklumat amaran utama dan kontraindikasi daripada sisipan pakej tidak tersedia. Sila rujuk sisipan pakej untuk maklumat keselamatan terperinci.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Proceed with Guardrails**
 
 **Rasional:**
-- Indikasi yang diramalkan disokong oleh bukti yang kuat dan matang (L1: tiga ujian rawak terkawal Fasa 3 yang telah selesai serta pelbagai analisis meta-rangkaian), dan lemborexant sudah diluluskan untuk insomnia di beberapa pasaran utama. Bagaimanapun, data label TFDA/NPRA (amaran, kontraindikasi, DDI) adalah jurang data **Menyekat** (DG001) yang menghalang penilaian pra-keselamatan S1 yang diperlukan, jadi calon ini tidak boleh melangkah melampaui semakan bukti sehingga jurang itu ditutup.
+- Beberapa RCT Fasa 3 dan meta-analisis rangkaian menyokong keberkesanan lemborexant untuk insomnia, dan indikasi yang diramalkan pada dasarnya sepadan dengan indikasi asal. Namun status pasaran di Malaysia yang tidak jelas serta ketiadaan data keselamatan daripada sisipan pakej memerlukan langkah berjaga-jaga.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Surat sisiapan TFDA/NPRA (amaran, kontraindikasi, interaksi ubat) — menyelesaikan DG001
-- Pengesahan mekanisme aksi bersumber DrugBank — menyelesaikan DG002
-- Butiran tahap lesen Malaysia yang lengkap (nombor lesen, nama produk, bentuk dos, teks indikasi yang diluluskan) untuk 2 pendaftaran sedia ada
-- Pengesahan indikasi tempatan yang diluluskan semasa lemborexant, untuk menjelaskan sama ada ini mewakili penggunaan yang benar-benar baru atau dokumentasi penggunaan sedia ada
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Mengesahkan status pendaftaran sebenar di NPRA, memandangkan data yang dikumpulkan bercanggah dengan literatur yang diterbitkan.
+- Memuat turun dan menganalisis sisipan pakej untuk amaran dan kontraindikasi (halangan untuk saringan keselamatan).
+- Melengkapkan data mekanisme tindakan (MOA) daripada DrugBank.
+- Menilai interaksi ubat bertahap Major, terutamanya dengan perencat CYP3A dan depresan sistem saraf pusat seperti opioid.
+- Menyemak kontraindikasi daripada graf pengetahuan (contohnya narkolepsi) terhadap label rasmi.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

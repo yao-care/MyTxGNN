@@ -2,7 +2,7 @@
 layout: default
 title: Lithium Carbonate
 parent: Low Evidence (L4-L5)
-nav_order: 449
+nav_order: 469
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,83 +29,87 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Litium Karbonat: Dari Penstabilan Suasana Hati kepada Pseudoakondroplas
+# Litium Karbonat: Daripada Gangguan Bipolar kepada Pseudoachondroplasia
 
-## Ringkasan Satu Kalimat
+## Ringkasan Satu Ayat
 
-Litium Karbonat adalah agen psikiatri yang telah mapan dan banyak digunakan sebagai penstabil suasana hati untuk gangguan bipolar dan kondisi terkait. Model TxGNN meramalkan ia mungkin memiliki potensi utiliti dalam **Pseudoakondroplas**, sebuah displasia skeletal yang jarang disebabkan oleh mutasi gen COMP. Namun, dengan **tidak ada uji klinis** dan **tidak ada publikasi** yang secara langsung mendukung indikasi ini, bukti saat ini terbatas pada prediksi model semata-mata (Level L5).
-
----
-
-## Gambaran Ringkas
-
-| Perkara | Isi |
-|--------|-----|
-| Indikasi Asal | Data pendaftaran Malaysia tidak tersedia |
-| Indikasi Baru yang Diprediksi | Pseudoakondroplas |
-| Skor Prediksi TxGNN | 99.98% |
-| Tingkat Bukti | L5 |
-| Status Pasar Malaysia | ✓ Dipasarkan |
-| Jumlah Pendaftaran | 1 |
-| Keputusan yang Direkomendasikan | Tahan |
+Litium karbonat pada asalnya digunakan untuk merawat gangguan bipolar (termasuk episod mania) dan, menurut graf pengetahuan, juga dikaitkan dengan keadaan sendi seperti artritis reumatoid dan osteoartritis.
+Model TxGNN meramalkan ia mungkin berkesan untuk **pseudoachondroplasia**,
+tetapi pada masa ini **tiada percubaan klinikal** dan **tiada literatur khusus** yang menyokong ramalan ini; ia kekal sebagai ramalan model sahaja.
 
 ---
 
-## Mengapa Prediksi Ini Masuk Akal?
+## Gambaran Keseluruhan Pantas
 
-Saat ini, data mekanisme kerja yang terperinci tidak tersedia dari Paket Bukti (celah data MOA DrugBank). Berdasarkan farmakologi yang diketahui, Litium Karbonat adalah kation monovalent yang menjalankan efek utamanya melalui penghambatan **GSK-3β (Glycogen Synthase Kinase-3 beta)**, sehingga mengaktifkan **jalur sinyal Wnt/β-catenin**. Ia juga memodulasi metabolisme fosfat inositol dan mempengaruhi beberapa jalur neurotrofik termasuk BDNF.
-
-Pseudoakondroplas disebabkan oleh mutasi yang meningkatkan fungsi pada gen **COMP (cartilage oligomeric matrix protein)**, yang menyebabkan salah lipatan protein COMP, akumulasi patologisnya dalam retikulum endoplasma (ER) kondrosit, dan stress ER serta kematian sel yang dihasilkan. Secara teoritis, penghambatan GSK-3β oleh Litium dapat mengurangi stress ER dan mempromosikan kelangsungan hidup osteoblas melalui aktivasi jalur Wnt/β-catenin, yang memainkan peran yang diketahui dalam pengembangan skeletal dan homeostasis tulang.
-
-Namun, tautan mekanistik antara aktivasi Wnt/β-catenin Litium dan koreksi agregasi protein COMP tetap **sangat spekulatif dan belum terbukti**. Saat ini tidak ada model praklinik yang diterbitkan (lini sel atau hewan) yang menunjukkan bahwa pengobatan Litium mengurangi penanda stress ER terkait COMP atau meningkatkan fenotipe skeletal pseudoakondroplas. Prediksi ini harus ditafsirkan sebagai sinyal pembangkit hipotesis dari model grafik pengetahuan daripada temuan yang dapat ditindaklanjuti secara klinis.
+| Item | Kandungan |
+|------|------|
+| Indikasi Asal | Gangguan bipolar (berdasarkan graf pengetahuan TxGNN/PrimeKG; tiada teks indikasi berdaftar di Malaysia) |
+| Indikasi Baharu yang Diramalkan | Pseudoachondroplasia |
+| Skor Ramalan TxGNN | 99.98% |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (Tahan) |
 
 ---
 
-## Bukti Uji Klinis
+## Mengapa Ramalan Ini Munasabah?
 
-Saat ini tidak ada uji klinis terkait yang terdaftar.
+Data terperinci mengenai mekanisme tindakan litium karbonat tidak tersedia dalam data yang disusun untuk laporan ini. Berdasarkan maklumat sedia ada, litium diketahui menghalang GSK-3 dan mempengaruhi isyarat Wnt/beta-catenin, dan kesannya dalam gangguan bipolar telah dibuktikan. Secara teori, laluan ini boleh mempengaruhi fungsi kondrosit dan pertumbuhan rangka.
+
+Pseudoachondroplasia disebabkan oleh mutasi gen COMP yang menyebabkan protein salah lipatan tertahan dalam retikulum endoplasma dan tekanan pada kondrosit. Tiada data yang dibekalkan menyokong hubungan langsung antara litium dengan patologi COMP ini. Skor tinggi kemungkinan besar didorong oleh kedekatan dalam graf dengan nod displasia rangka, bukan oleh biologi yang telah disahkan.
+
+Oleh itu, ramalan ini perlu dianggap sebagai hipotesis awal dan bukan bukti keberkesanan.
+
+---
+
+## Bukti Percubaan Klinikal
+
+Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
-Saat ini tidak ada literatur terkait yang tersedia.
+Pada masa ini tiada literatur berkaitan untuk pseudoachondroplasia.
 
 ---
 
-## Informasi Pasar Malaysia
+## Maklumat Pasaran Malaysia
 
-Paket Bukti mencatat 1 pendaftaran aktif untuk Litium Karbonat di Malaysia; namun, rincian pendaftaran terperinci (nomor otorisasi, nama produk, bentuk dosis, dan teks indikasi yang disetujui) tidak diisi dalam ekstraksi data saat ini. Silakan rujuk langsung ke Daftar Ubat Badan Peraturan Farmasi Nasional (NPRA) untuk detail produk lengkap.
+Litium karbonat pada masa ini tidak dipasarkan di Malaysia dan tiada pendaftaran (0 lesen) direkodkan dalam data yang disusun.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Silakan rujuk pada selebaran kemasan untuk informasi keselamatan.
+- **Penyakit yang dikaitkan dengan kontraindikasi (berdasarkan graf pengetahuan, bukan teks label):** penyakit buah pinggang, pyoureter, gangguan kognitif, hipotiroidisme, miksedema, hipotiroidisme kongenital, psoriasis, parapsoriasis, sekatan jantung mengejut (sudden cardiac arrest), penyakit pengaliran jantung, diabetes insipidus (termasuk jenis neurohipofisis dan pusat).
+- **Interaksi Ubat:** Sebanyak 100 interaksi dikesan; 20 yang pertama dipaparkan dalam data.
+  - **Major (Utama):** Bupropion, Lorcaserin
+  - **Moderate (Sederhana):** Acarbose, Famotidine, Albiglutide, Alogliptin, Metformin, Pioglitazone, Loperamide, Mesalazine, Morphine, Balsalazide, Metronidazole, Canagliflozin, Chlorpropamide, Potassium citrate, Clarithromycin
+  - **Minor (Ringan):** Doxycycline, Epinephrine, Asid asetilsalisilik
 
-> **Catatan:** Peringatan selebaran kemasan, kontraindikasi, dan data interaksi ubat diidentifikasi sebagai celah data dalam Paket Bukti ini (DG001). Litium Karbonat adalah ubat dengan indeks terapi yang sempit dan memerlukan pemantauan ubat terapeutik. Sebelum eksplorasi repurposing apa pun, tinjauan keselamatan lengkap dari informasi peraturan resmi yang disetujui NPRA harus dilakukan.
-
----
-
-## Kesimpulan dan Langkah Berikutnya
-
-**Keputusan: Tahan**
-
-**Alasan:**
-Model TxGNN memberikan skor prediksi yang sangat tinggi (99.98%) untuk Litium Karbonat untuk pseudoakondroplas, tetapi ini saat ini didukung oleh **tidak ada uji klinis, tidak ada literatur yang diterbitkan, dan tidak ada data eksperimental praklinik** — menjadikan ini hipotesis komputasi murni (Tingkat Bukti L5). Tautan mekanistik yang diusulkan (penghambatan GSK-3β → pengurangan stress ER → koreksi agregasi COMP) secara biologis tidak langsung dan belum divalidasi, dan basis bukti keseluruhan tidak cukup untuk membenarkan investasi klinis atau translasional pada tahap ini.
-
-**Untuk melanjutkan, berikut ini diperlukan:**
-
-- **Selesaikan Celah Data DG001**: Unduh dan parsing PDF selebaran kemasan yang disetujui NPRA untuk mengekstrak peringatan resmi, kontraindikasi, dan bimbingan dosis sebelum penilaian keselamatan apa pun dapat dilakukan
-- **Selesaikan Celah Data DG002**: Kueri API DrugBank untuk mengkonfirmasi profil mekanisme kerja lengkap untuk Litium Karbonat
-- **Validasi praklinik**: Lakukan studi in vitro pada model kondrosit bermutasi COMP (misalnya, kondrosit yang berasal dari iPSC COMP-p.T585M) untuk menentukan apakah Litium atau penghambat GSK-3β mengurangi penanda stress ER
-- **Tinjauan cakupan literatur**: Lakukan pencarian yang lebih luas menggabungkan "lithium" dengan "stress ER," "kondrosit," "COMP," dan "displasia skeletal" untuk menangkap penelitian mekanistik apa pun yang tidak tertangkap oleh kueri pasangan ubat-penyakit saat ini
-- **Tinjau sindrom WHIM secara terpisah**: Di antara indikasi teratas ke-10 yang diprediksi, sindrom WHIM (Rank 9) menyajikan hipotesis yang lebih koheren secara mekanistik — efek mobilisasi neutrofil Litium yang diketahui selaras arah dengan patofisiologi WHIM dari retensi neutrofil sumsum tulang. Kandidat ini mungkin layak untuk tinjauan bukti khusus sebelum pseudoakondroplas
+Sila rujuk risalah maklumat produk untuk maklumat keselamatan yang lengkap, kerana amaran dan kontraindikasi daripada label rasmi tidak tersedia.
 
 ---
 
-*Laporan ini dihasilkan untuk tujuan referensi penelitian semata dan tidak merupakan saran perubatan. Semua kandidat repurposing ubat memerlukan validasi klinis sebelum aplikasi terapeutik apa pun.*
+## Kesimpulan dan Langkah Seterusnya
 
+**Keputusan: Hold (Tahan)**
+
+**Rasional:**
+- Ramalan ini hanya berasaskan model (L5) tanpa sebarang percubaan klinikal atau literatur khusus, dan hubungan mekanistik dengan patologi COMP tidak disokong oleh data. Selain itu, litium tidak dipasarkan di Malaysia dan mempunyai indeks terapeutik yang sempit serta banyak kontraindikasi.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) yang terperinci daripada DrugBank
+- Amaran dan kontraindikasi daripada risalah maklumat produk (NPRA); ini merupakan jurang data yang menghalang penilaian keselamatan
+- Kajian praklinikal (contohnya model tetikus COMP) untuk menguji kesan litium terhadap tekanan ER kondrosit
+- Semakan literatur sistematik mengenai litium dalam displasia rangka
+- Penilaian keserasian laluan pentadbiran dan status pendaftaran di Malaysia
+
+---
+
+*Nota: Calon lain yang diramalkan (contohnya displasia akromesomelik jenis Hunter-Thompson, brakiolmia, sindrom Behr, sindrom WHIM) juga berada pada tahap bukti L5 dengan keputusan Hold, tanpa percubaan klinikal; satu-satunya literatur yang ditemui ialah ulasan umum mengenai gangguan rangka genetik (PMID 31888683) yang tidak mengkaji litium secara khusus.*
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

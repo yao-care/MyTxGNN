@@ -2,15 +2,15 @@
 layout: default
 title: Clobazam
 parent: Low Evidence (L4-L5)
-nav_order: 225
-evidence_level: L5
+nav_order: 230
+evidence_level: L4
 indication_count: 10
 ---
 
 # Clobazam
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L4** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,79 +29,100 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Clobazam: Daripada Epilepsi kepada Febrile Infection-Related Epilepsy Syndrome (FIRES)
+# Clobazam: Daripada Sindrom Lennox-Gastaut kepada Sindrom Epilepsi Berkaitan Jangkitan Demam (FIRES)
 
 ## Ringkasan Satu Ayat
 
-> Clobazam ialah benzodiazepin yang pada asalnya digunakan sebagai agen antikonvulsan tambahan untuk epilepsi.
-> Model TxGNN meramalkan ia mungkin berkesan untuk **Febrile Infection-Related Epilepsy Syndrome (FIRES)**,
-> namun pada masa kini **0 uji klinik** dan **0 penerbitan** secara langsung menyokong arah khusus ini — ramalan ini bergantung pada model pengiraan sahaja.
+Clobazam ialah ubat benzodiazepin yang pada asalnya digunakan untuk merawat sindrom Lennox-Gastaut.
+Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom epilepsi berkaitan jangkitan demam (FIRES)**,
+tetapi setakat ini **tiada ujian klinikal** didaftarkan dan hanya **2 penerbitan** (siri kes dan laporan kes, tiada satu pun tentang clobazam secara langsung) menyokong arah ini.
 
 ---
 
-## Gambaran Keseluruhan Cepat
+## Gambaran Keseluruhan Ringkas
 
-| Item | Kandungan |
+| Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Epilepsi / gangguan sawan (terapi tambahan) — pengetahuan ubat umum; tidak disahkan oleh paket data, kerana `original_indications` dan teks indikasi lesen NPRA kedua-duanya kosong |
-| Indikasi Baru Yang Diramalkan | Febrile infection-related epilepsy syndrome (FIRES) |
+| Indikasi Asal | Sindrom Lennox-Gastaut (indikasi asal kedua dalam graf pengetahuan: cutis verticis gyrata) |
+| Indikasi Baharu yang Diramalkan | Sindrom epilepsi berkaitan jangkitan demam (FIRES) |
 | Skor Ramalan TxGNN | 99.82% |
-| Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 1 |
-| Keputusan Yang Disyorkan | Tahan |
+| Tahap Bukti | L4 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa kini, data mekanisme tindakan terperinci tidak tersedia (DG002, medan MOA DrugBank mengembalikan tiada data). Berdasarkan pengetahuan farmakologi umum, clobazam ialah benzodiazepin 1,5 yang bertindak sebagai modulator alosterik positif reseptor GABA-A, dan keberkesanannya sebagai antiepileptik tambahan (contohnya, dalam sindrom Lennox-Gastaut) telah ditubuhkan dengan baik. Mekanisme tahap kelas ini belum diverifikasi secara bebas untuk calon ini dalam paket bukti semasa.
+Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, clobazam ialah modulator alosterik positif reseptor GABA-A daripada kelas benzodiazepin. Keberkesanannya dalam sindrom Lennox-Gastaut, iaitu ensefalopati epileptik yang sukar dirawat, telah dibuktikan, dan secara mekanisme ia mungkin boleh digunakan untuk FIRES.
 
-FIRES ialah ensefalopati epileptik yang jarang dan teruk yang mengikuti penyakit berjangkit dengan demam serta mempersembahkan status epileptikus baru yang sangat tahan ubat, didorong oleh ketidakseimbangan yang berlebihan antara aktiviti rangsangan dan perencatan di korteks. Benzodiazepine, termasuk clobazam, diposisikan secara mekanistik untuk mengurangkan keterangsangan ini melalui potensiasi GABAergik, yang konsisten dengan alasan model TxGNN menghubungkan antikonvulsan yang memodulasi GABA-A kepada sindrom sawan yang tahan ubat.
-
-Walau bagaimanapun, kebolehmungkinan mekanistik ini adalah teoretis. Tiada rekod ujian klinik atau kesusasteraan dalam paket bukti ini — mahupun dalam log pertanyaan asas (0 keputusan merentas ClinicalTrials.gov, ICTRP, dan PubMed untuk carian clobazam + FIRES) — memberikan sokongan langsung. Ramalan harus diperlakukan sebagai isyarat penjanaan hipotesis sahaja.
+FIRES ialah ensefalopati epileptik refraktori yang timbul selepas demam, dan ubat berasaskan GABA (benzodiazepin, barbiturat) digunakan dalam rawatannya. Namun, literatur yang diperoleh meliputi midazolam, lorazepam dan perampanel, **bukan clobazam**. Oleh itu, kaitan ini hanya berdasarkan kelas ubat dan masih tidak langsung.
 
 ---
 
-## Bukti Ujian Klinik
+## Bukti Ujian Klinikal
 
-Pada masa kini tiada ujian klinik berkaitan didaftarkan.
-
----
-
-## Bukti Kesusasteraan
-
-Pada masa kini tiada kesusasteraan berkaitan tersedia.
+Currently tiada ujian klinikal berkaitan didaftarkan.
 
 ---
 
-## Maklumat Pasaran Malaysia
+## Bukti Literatur
 
-clobazam disahkan sebagai dipasarkan di Malaysia di bawah NPRA, dengan 1 pendaftaran aktif. Maklumat lesen terperinci (nombor pendaftaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan) tidak dikembalikan oleh sumber data dan tidak tersedia dalam paket bukti ini.
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [35770765](https://pubmed.ncbi.nlm.nih.gov/35770765/) | 2022 | Siri kes | Epileptic Disorders | Lorazepam enteral sebagai strategi penyapihan yang berkesan pada pesakit FIRES yang bergantung pada midazolam |
+| [39958143](https://pubmed.ncbi.nlm.nih.gov/39958143/) | 2025 | Laporan kes | Cureus | Perampanel berpotensi mengurangkan kebergantungan barbiturat pada seorang budak lelaki berumur 13 tahun dengan FIRES |
+
+---
+
+## Cytotoxicity
+
+Bahagian ini tidak berkenaan kerana clobazam bukan ubat antineoplastik.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk maklumat dalam bungkus untuk panduan keselamatan.
+**Interaksi Ubat** (100 interaksi dikesan; yang utama disenaraikan):
 
-*(Nota: Data amaran utama, kontraindikasi, dan interaksi ubat tidak tersedia daripada sumber yang ditanya — ini ditandai sebagai jurang data yang menghalang (DG001) yang pada masa kini menghalang penyaringan keselamatan untuk calon ini.)*
+- **Major**: Morphine (termasuk morphine liposomal), Eliglustat
+- **Moderate**: Bupropion, Aprepitant, Omeprazole, Esomeprazole, Lansoprazole, Cimetidine, Clarithromycin, Dexfenfluramine, Fenfluramine, Dronabinol, Metoclopramide
+- **Minor**: Magnesium oxide, Magnesium hydroxide, Magnesium carbonate, Aluminium hydroxide, Calcium carbonate, Magaldrate
+
+Sila rujuk sisipan pakej untuk amaran utama dan kontraindikasi.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
-**Alasan:**
-Skor ramalan TxGNN tinggi, tetapi tidak disokong oleh sebarang bukti ujian klinik atau kesusasteraan (Tahap Bukti L5), dan jurang data yang menghalang dalam pelabelan keselamatan (DG001) bermakna calon ini belum dapat melepasi penyaringan keselamatan awal.
+**Rasional:**
+- Ramalan TxGNN sangat tinggi (99.82%), tetapi tiada ujian klinikal dan tiada literatur khusus clobazam untuk FIRES. Bukti hanya berasaskan kelas ubat (ubat lain dalam kelas benzodiazepin), jadi tahap bukti ialah L4.
+- Clobazam tidak berdaftar di Malaysia, dan data keselamatan daripada sisipan pakej tidak tersedia.
 
-**Untuk meneruskan, perkara-perkara berikut diperlukan:**
-- Maklumat dalam bungkus ubat TFDA/NPRA (amaran, kontraindikasi) untuk menyelesaikan DG001
-- Mekanisme tindakan yang disahkan daripada DrugBank untuk menyelesaikan DG002
-- Pencarian kesusasteraan/ujian yang lebih luas menggunakan istilah berkaitan (contohnya, "super-refractory status epilepticus," "benzodiazepine + FIRES") kerana FIRES ialah sindrom yang jarang yang mungkin tidak diindeks di bawah nama tepatnya
-- Pengesahan indikasi asal dan butiran lesen Malaysia yang masih tiada daripada kedua-duanya `drug.original_indications` dan `taiwan_regulatory.licenses`
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data MOA terperinci (contohnya daripada DrugBank)
+- Amaran dan kontraindikasi daripada sisipan pakej NPRA
+- Kajian atau siri kes yang menilai clobazam secara langsung dalam FIRES
+- Pertimbangan laluan pendaftaran dan ketersediaan produk di Malaysia, memandangkan tiada lesen sedia ada
 
+---
+
+## Lampiran: Calon Indikasi Lain yang Diramalkan
+
+| Kedudukan | Penyakit | Skor TxGNN | Tahap Bukti | Ringkasan |
+|------|------|------|------|------|
+| 2 | Perioral myoclonia with absences | 99.79% | L5 | Tiada ujian atau literatur; hanya rasional GABAergik |
+| 3 | Photosensitive occipital lobe epilepsy | 99.77% | L4 | Hanya satu laporan umum epilepsi refleks (1994), tiada bukti clobazam |
+| 4 | Atypical childhood epilepsy with centrotemporal spikes | 99.77% | L4 | Ulasan dan siri kes yang tidak langsung |
+| 5 | Cryptogenic late-onset epileptic spasms | 99.77% | L4 | Satu kajian kohort (2026), tiada data keberkesanan clobazam |
+| 6 | Childhood onset epileptic encephalopathy | 99.59% | L4 | Banyak ulasan dan garis panduan, tetapi bertindih dengan indikasi LGS sedia ada, jadi bukan isyarat repurposing sebenar |
+| 7 | Benign occipital epilepsy | 99.58% | L4 | Terdapat ulasan Cochrane clobazam monoterapi, tetapi bukti lain kebanyakannya tentang ubat lain |
+| 8 | Early-onset epileptic encephalopathy due to GRIN2A mutation | 99.40% | L5 | Mekanisme NMDA, bukan GABA-A; tiada data |
+| 9 | Restless legs syndrome | 99.30% | L5 | Hanya rasional kelas benzodiazepin; garis panduan memihak kepada ubat lain |
+| 10 | Polymicrogyria with optic nerve hypoplasia | 99.09% | L5 | Hanya kawalan simptom; tiada data |
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

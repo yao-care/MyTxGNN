@@ -2,7 +2,7 @@
 layout: default
 title: Potassium Citrate
 parent: Medium Evidence (L3)
-nav_order: 566
+nav_order: 593
 evidence_level: L3
 indication_count: 10
 ---
@@ -29,76 +29,91 @@ Tahap bukti: **L3** | Indikasi diramal: **10**
 
 </div>
 
-# Potassium Citrate: Daripada Alkalinisasi Urin Kepada Asidosis Tubulus Renal
+# Kalium Sitrat (Potassium Citrate): Cadangan Indikasi Baharu untuk Asidosis Tubulus Renal
 
 ## Ringkasan Satu Ayat
 
-Potassium citrate ialah agen alkalinisasi urin yang telah lama digunakan untuk membetulkan hipositraturia dan mencegah batu ginjal kalsium/asam urik yang berulang, dan ia kini dipasarkan di Malaysia di bawah 31 pendaftaran NPRA. Model TxGNN meramalkan ia mungkin berkesan untuk **Asidosis Tubulus Renal**, suatu arah yang disokong oleh **3 ujian klinikal** dan **16 penerbitan**, walaupun tiada satu pun ujian mencapai penyelesaian yang berjaya dan berkuasa secukupnya. Asas bukti didominasi oleh kajian penetapan dos/pemerhatian berusia puluhan tahun dan ulasan daripada kajian percubaan terkawal rawak yang mengesahkan, mencerminkan hakikat bahawa potassium citrate sudah pun merupakan amalan luar label/tambahan yang ditubuhkan untuk keadaan ini dan bukannya hipotesis yang benar-benar baru.
+Kalium sitrat ialah garam alkali yang digunakan untuk mengalkali air kencing dan menyediakan kalium. Model TxGNN meramalkan ia mungkin berkesan untuk **asidosis tubulus renal (RTA)**. Setakat ini terdapat **2 percubaan klinikal** (kedua-duanya tidak memberikan data yang boleh ditafsirkan) dan sekitar **20 penerbitan** (kebanyakannya ulasan dan laporan kes kecil) yang menyokong arah ini.
 
-## Gambaran Pantas
+---
 
-| Item | Kandungan |
+## Gambaran Keseluruhan
+
+| Perkara | Kandungan |
 |------|------|
-| Petunjuk Asal | Alkalinisasi urin / pencegahan batu ginjal (teks petunjuk pendaftaran NPRA spesifik tidak dikembalikan dalam set data ini) |
-| Petunjuk Baru Diramalkan | Asidosis Tubulus Renal |
-| Skor Ramalan TxGNN | 99.9992% |
+| Indikasi Baharu yang Diramalkan | Asidosis tubulus renal (renal tubular acidosis) |
+| Skor Ramalan TxGNN | 99.99% |
 | Tahap Bukti | L3 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 31 |
-| Keputusan yang Disyorkan | Teruskan dengan Pengawal |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia dalam pakej bukti ini (ditandai sebagai jurang data berseveriti tinggi). Berdasarkan farmakologi yang diketahui, potassium citrate ialah garam pengalkalin yang terurai untuk memberikan sitrat dan kapasiti penimbal setara bikarbonat; ia ialah agen yang ditubuhkan untuk membetulkan ketidaknormalan pengasidan urin/metabolik dan untuk menaikkan sitrat urin bagi menghalang penghabluran garam kalsium. Keberkesanannya dalam alkalinisasi urin dan pencegahan batu sudah ditubuhkan dengan kukuh, dan secara mekanik ini meluas secara langsung kepada asidosis tubulus renal (RTA), di mana patofisiologi teras ialah ekskresi asid ginjal yang terjejas yang membawa kepada asidosis metabolik, hipositraturia, dan hipokalemia — justru ketidaknormalan yang potassium citrate dirancang untuk membetulkan.
+Data terperinci mengenai mekanisme tindakan (MOA) belum tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat sedia ada, kalium sitrat membekalkan beban alkali kerana sitrat dimetabolismekan menjadi bikarbonat. Ini boleh membetulkan asidosis metabolik kronik pada RTA distal.
 
-Asidosis tubulus renal distal dan nefolitiasis besitatruria rendah saling berkait secara klinikal: pesakit dengan dRTA kerap mengembangkan batu kalsium fosfat sebagai akibat langsung daripada asidosis kronik dan sitrat urin rendah, dan potassium citrate telah digunakan sebagai terapi penggantian alkali/sitrat yang utama dalam populasi ini selama lebih 30 tahun. Ini tercermin dalam asas literatur — beberapa kajian yang paling lama dan paling berkaitan secara langsung ialah kajian penetapan dos/keberkesanan potassium citrate khususnya dalam pesakit dRTA (mis., Preminger 1985, Tapaneya-Olarn 2002, Domrongkitchaiporn 2002) — dan bukannya semata-mata perkaitan algoritma baru.
+Kalium sitrat juga meningkatkan sitrat dan pH air kencing. Perubahan ini mengurangkan pembentukan batu kalsium dan nefrokalsinosis, dua komplikasi utama RTA distal. Rawatan alkali sudah menjadi piawai penjagaan dalam RTA, jadi hubungan mekanistiknya kukuh.
 
-Had utama ialah bahawa tiada ujian terkawal rawak yang sebenarnya mengesahkan faedah hasil klinikal (mis., berulangnya batu atau pemeliharaan fungsi ginjal) khususnya untuk potassium citrate dalam RTA; satu ujian RCT Fasa 3 yang dirancang untuk melakukannya (NCT03644706) telah dihentikan dengan hanya 3 pesakit didaftarkan.
+Namun, asas buktinya kebanyakannya ulasan serta laporan pediatrik atau kohort yang kecil, bukan percubaan terkawal. Maklumat tentang indikasi asal yang diluluskan tempatan juga tidak tersedia kerana tiada lesen berdaftar di Malaysia.
 
-## Bukti Ujian Klinikal
+---
 
-| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
+## Bukti Percubaan Klinikal
+
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT03644706](https://clinicaltrials.gov/study/NCT03644706) | Fasa 3 | Dihentikan | 3 | Kajian penarikan rawak, berkaca mata, terkawal plasebo bagi ADV7103 vs. plasebo untuk mencegah asidosis metabolik dalam RTA distal anak-anak/dewasa; dihentikan dengan hanya 3 subjek didaftarkan — kurang berkuasa dengan teruk, tiada data keberkesanan yang boleh digunakan dihasilkan |
-| [NCT00120731](https://clinicaltrials.gov/study/NCT00120731) | N/A | Ditarik | 0 | Bertujuan mengkaji kimia urin dan kesan asid-bes potassium citrate dalam kanak-kanak dengan hiperkalsiuria idiopatik dan urolitiasis; ditarik sebelum pendaftaran |
-| [NCT03354507](https://clinicaltrials.gov/study/NCT03354507) | N/A | Tidak Diketahui | 40 | Kajian pelopor natrium bikarbonat lisan (bukan potassium citrate) untuk mengalkalinkan serum/urin dalam pesakit anak-anak dengan RTA diinduksi topiramate; ketidakpadanan ubat, hanya berkaitan secara tidak langsung |
+| [NCT03644706](https://clinicaltrials.gov/study/NCT03644706) | Fasa 3 | Ditamatkan | 3 | Kajian penarikan rawak, buta dua kali dan terkawal plasebo bagi ADV7103 (formulasi alkali) pada pesakit pediatrik dan dewasa dengan RTA distal primer. Hanya 3 peserta didaftarkan, maka tiada data keberkesanan yang boleh ditafsirkan. Produk yang diuji mungkin berbeza daripada kalium sitrat tunggal. |
+| [NCT00120731](https://clinicaltrials.gov/study/NCT00120731) | NA | Ditarik balik | 0 | Kesan kimia air kencing dan asid-bes kalium sitrat pada kanak-kanak dengan hiperkalsiuria idiopatik dan urolitiasis (bukan RTA). Tiada peserta didaftarkan, maka tiada bukti yang boleh digunakan. |
+
+---
 
 ## Bukti Literatur
 
+Tiada RCT dalam data yang diperoleh. Penerbitan disenaraikan mengikut keutamaan: kajian kohort, ulasan, kemudian laporan kes.
+
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [4009822](https://pubmed.ncbi.nlm.nih.gov/4009822/) | 1985 | Kajian klinikal | The Journal of Urology | Dalam 9 pesakit dengan RTA distal tidak lengkap, potassium citrate (60–80 mEq/day) dengan ketara meningkatkan pH dan sitrat urin dan mengurangkan ekskresi kalsium selepas 3 bulan |
-| [12549788](https://pubmed.ncbi.nlm.nih.gov/12549788/) | 2002 | Kajian klinikal | J Med Assoc Thailand | Menentukan dos potassium citrate yang optimum untuk membetulkan asidosis metabolik dan mengurangkan risiko batu kalsium dalam kanak-kanak dengan RTA distal |
-| [11840381](https://pubmed.ncbi.nlm.nih.gov/11840381/) | 2002 | Kajian klinikal | Am J Kidney Diseases | Menilai keberkesanan dan dos optimum potassium citrate untuk membetulkan ketidaknormalan urin dan mencegah nefolitiasis dalam RTA distal pediatrik |
-| [39325135](https://pubmed.ncbi.nlm.nih.gov/39325135/) | 2024 | Ulasan | Paediatric Drugs | Mengulas perkembangan rawatan terbaru untuk RTA distal pediatrik, termasuk terapi penggantian alkali/sitrat |
-| [35357683](https://pubmed.ncbi.nlm.nih.gov/35357683/) | 2022 | Laporan Kes | Journal of Nephrology | Peningkatan pertumbuhan dalam seorang kanak-kanak dengan RTA distal utama selepas bertukar daripada rawatan pengalkalin konvensional kepada formulasi pelepasan lanjutan potassium citrate/kalium bikarbonat |
-| [39274272](https://pubmed.ncbi.nlm.nih.gov/39274272/) | 2024 | Kohort | Journal of Clinical Medicine | Menilai fitatat sebagai adjuvan dalam dewasa dengan RTA distal tidak lengkap yang tidak dapat menoleransi potassium citrate lisan piawai |
-| [33459628](https://pubmed.ncbi.nlm.nih.gov/33459628/) | 2021 | Ulasan | Archivos Españoles de Urología | Mengulas diagnosis dan pengurusan nefolitiasis yang berkaitan RTA, termasuk terapi sitrat/pengalkalin |
-| [23924538](https://pubmed.ncbi.nlm.nih.gov/23924538/) | 2013 | Ulasan | Medicina (Buenos Aires) | Mengulas peranan sitrat sebagai perencat penghabluran garam kalsium, termasuk dalam RTA distal dan hipositraturia yang berkaitan hipokalemia |
-| [3306318](https://pubmed.ncbi.nlm.nih.gov/3306318/) | 1987 | Kohort | Mineral and Electrolyte Metabolism | Merumuskan data yang menyokong potassium citrate dalam menguruskan batu kalsium yang berkaitan RTA, nefolitiasis oksalat kalsium besitatruria rendah, dan litiasis asid urik |
-| [30454739](https://pubmed.ncbi.nlm.nih.gov/30454739/) | 2019 | Ulasan | Pediatric Clinics of North America | Ulasan umum diagnosis RTA, klasifikasi, dan pendekatan rawatan dalam kanak-kanak |
+| [36529656](https://pubmed.ncbi.nlm.nih.gov/36529656/) | 2023 | Kohort | Nefrologia | ADV7103 (kalium sitrat + kalium bikarbonat lepas lama) dinilai selama 24 bulan terhadap ketumpatan mineral tulang dan pertumbuhan pada pesakit RTA distal. |
+| [33459628](https://pubmed.ncbi.nlm.nih.gov/33459628/) | 2021 | Ulasan | Arch Esp Urol | Diagnosis dan pengurusan RTA serta batu karang kidney. |
+| [40978115](https://pubmed.ncbi.nlm.nih.gov/40978115/) | 2025 | Ulasan | Clin Kidney J | Kemas kini mengenai biologi sitrat, hipositraturia dan peranannya dalam mencegah batu kalsium. |
+| [39325135](https://pubmed.ncbi.nlm.nih.gov/39325135/) | 2024 | Ulasan | Paediatr Drugs | Perkembangan terkini rawatan RTA distal pediatrik. |
+| [23924538](https://pubmed.ncbi.nlm.nih.gov/23924538/) | 2013 | Ulasan | Medicina | Sitrat sebagai perencat penghabluran kalsium; RTA distal ialah salah satu punca hipositraturia. |
+| [11475849](https://pubmed.ncbi.nlm.nih.gov/11475849/) | 2001 | Ulasan | Przegl Lek | Kegunaan terapeutik kalium sitrat, termasuk RTA distal dengan hiperkalsiuria, terutamanya pada kanak-kanak. |
+| [2645431](https://pubmed.ncbi.nlm.nih.gov/2645431/) | 1989 | Ulasan | J Urol | Nefrolitiasis dalam RTA; batu berlaku dalam RTA jenis I. |
+| [3306318](https://pubmed.ncbi.nlm.nih.gov/3306318/) | 1987 | Ulasan | Miner Electrolyte Metab | Data yang menyokong kalium sitrat dalam RTA dengan batu kalsium. |
+| [35357683](https://pubmed.ncbi.nlm.nih.gov/35357683/) | 2022 | Laporan kes | J Nephrol | Pertumbuhan kanak-kanak dengan RTA distal primer bertambah baik selepas bertukar kepada formulasi kalium sitrat/bikarbonat lepas lama. |
+| [23289039](https://pubmed.ncbi.nlm.nih.gov/23289039/) | 2012 | Laporan kes | Clin Cases Miner Bone Metab | Wanita dengan RTA jenis 1 bertambah baik selepas larutan oral kalium sitrat dan asid sitrik bersama vitamin D. |
 
-## Maklumat Pasaran Malaysia
-
-31 pendaftaran NPRA ada dalam fail untuk potassium citrate (status pasaran: Dipasarkan), tetapi pakej bukti ini tidak mengembalikan nama produk yang dipenuhi, bentuk dos, pengilang, atau teks petunjuk untuk entri lesen individu — hanya kiraan agregat tersedia. Data terperinci setiap lesen perlu ditarik terus daripada daftar NPRA sebelum ini boleh dijadualkan.
+---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
+**Interaksi Ubat** (pangkalan data DDInter; 100 interaksi direkodkan, 20 pertama disenaraikan dalam data):
+
+- **Tahap Major**: klorfeniramin, akrivastin, feniltoloksamin, metskopolamin, hiosiamin, homatropin, atropin, amilorida, amitriptilin, benazepril, olmesartan, valsartan.
+- **Tahap Moderate**: doksisiklin, ketorolak, ibuprofen, aspirin (asid asetilsalisilik), aliskiren, pseudoefedrin, amfetamin, dekstroamfetamin.
+
+Langkah kawalan yang relevan: pantau kalium serum, terutamanya pada pesakit dengan kecederaan fungsi renal atau yang mengambil perencat ACE/ARB atau diuretik penjimat kalium (contohnya amilorida).
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Teruskan dengan Pengawal**
+**Keputusan: Proceed with Guardrails**
 
 **Rasional:**
-Rasional mekanik adalah kuat dan kajian dos klinikal/keberkesanan yang sudah bertahan lama (bermula 1985) secara langsung menyokong penggunaan potassium citrate dalam membetulkan ketidaknormalan asid-bes dan hipositraturia RTA, tetapi tiada ujian RCT yang selesai mengesahkan faedah tahap hasil — satu ujian yang dirancang telah dihentikan selepas mendaftarkan hanya 3 subjek — jadi bukti ini kekal L3 (pemerhatian/tahap ulasan) bukannya pengesahan.
+- Mekanisme alkalinisasi sudah mantap dan rawatan alkali ialah piawai penjagaan dalam RTA. Namun bukti klinikal terkawal masih lemah (tahap L3): hanya ulasan, kohort dan laporan kes, manakala dua percubaan yang ada tidak menghasilkan data yang boleh ditafsirkan.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Amaran sisipan pakej TFDA/NPRA, berjaga-jaga, dan kontraindikasi (kini jurang data Menyekat)
-- Data mekanisme tindakan DrugBank yang disahkan
-- Terperinci peringkat lesen Malaysia lengkap (nama produk, bentuk dos, teks petunjuk yang diluluskan) untuk 31 pendaftaran
-- Rancangan pemantauan keselamatan (cth., potassium serum, fungsi ginjal) khususnya untuk populasi RTA, memandangkan kesan pemuatan potassium inti ubat
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisipan pakej NPRA (amaran dan kontraindikasi), kerana tiada lesen berdaftar di Malaysia dan data keselamatan label belum diperoleh.
+- Data mekanisme tindakan terperinci daripada DrugBank.
+- Bukti daripada percubaan terkawal, khususnya untuk kalium sitrat, bukan hanya formulasi gabungan seperti ADV7103.
+- Pelan pemantauan kalium serum dan fungsi renal untuk populasi berisiko.
+- Pengesahan laluan dan bentuk dos yang sesuai, kerana pada masa ini tiada produk berdaftar di Malaysia.
 
+**Nota tambahan:** Daripada 10 indikasi yang diramalkan, **nefrolitiasis** mempunyai bukti paling kukuh (tahap L2, dengan percubaan Fasa 2, Fasa 4 dan Fasa 2/3 serta meta-analisis). Ia wajar dinilai secara berasingan.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

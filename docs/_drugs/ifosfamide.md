@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Ifosfamide
-parent: High Evidence (L1-L2)
-nav_order: 389
-evidence_level: L1
+parent: Low Evidence (L4-L5)
+nav_order: 408
+evidence_level: L5
 indication_count: 10
 ---
 
 # Ifosfamide
 {: .fs-9 }
 
-Tahap bukti: **L1** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,110 +29,105 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Ifosfamide: Daripada Sarkoma Tisu Lembut / Karsinoma Testis kepada Karsinoma Payudara Wanita
+# Ifosfamide: Daripada Agen Antikanser Pengalkilan kepada Karsinoma Payudara Wanita
 
 ## Ringkasan Satu Ayat
 
-Ifosfamide ialah agen pengalkilan (analog siklofosfamid) dengan aktiviti yang terbukti dalam sarkoma tisu lembut dan karsinoma testis. Model TxGNN meramalkan ia mungkin juga berkesan untuk **Karsinoma Payudara Wanita**, satu penggunaan yang telah pun dicerminkan dalam amalan onkologi dunia sebenar, dengan **8 ujian klinikal** dan **20 penerbitan** yang kini menyokong arah ini — tahap bukti **L1**, peringkat tertinggi dalam kerangka ini.
+Ifosfamide ialah agen kemoterapi pengalkilan (analog siklofosfamid) yang sudah lama digunakan dalam rawatan kanser seperti sarkoma tisu lembut dan karsinoma testis. Model TxGNN meramalkan ia mungkin berkesan untuk **karsinoma payudara wanita**. Arah ini disokong oleh **6 percubaan klinikal** dan **20 penerbitan** yang dikompilasi untuk laporan ini, kebanyakannya kajian fasa 1/2 yang lama.
 
 ---
 
-## Tinjauan Cepat
+## Gambaran Ringkas
 
-| Item | Kandungan |
+| Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Sarkoma tisu lembut / karsinoma testis (mengikut kesusasteraan, PMID 3286879); teks indikasi peringkat lesen Malaysia (NPRA) belum lagi diambil semula |
-| Indikasi Baru yang Diramalkan | Karsinoma Payudara Wanita |
+| Indikasi Asal | Tiada rekod indikasi diluluskan dalam data pendaftaran tempatan; secara umum ialah agen antikanser pengalkilan |
+| Indikasi Baharu yang Diramalkan | Karsinoma payudara wanita (*female breast carcinoma*) |
 | Skor Ramalan TxGNN | 99.91% |
-| Tahap Bukti | L1 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 1 |
-| Keputusan yang Disyorkan | Teruskan dengan Pagar Keselamatan |
+| Tahap Bukti | L3 (tiada RCT fasa 2/3 yang selesai; sokongan daripada kajian kohort, kajian fasa 2 dan ulasan) |
+| Status Pasaran di Malaysia | Tidak dipasarkan (menurut data yang dikompilasi) |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan yang terstruktur terperinci (rekod DrugBank) belum lagi tersedia untuk pakej ini. Berdasarkan bukti kesusasteraan yang dikumpulkan (PMID 3286879), ifosfamide ialah agen pengalkilan dan analog struktur siklofosfamid yang telah menunjukkan aktiviti antitumor yang ketara dalam sarkoma tisu lembut dan karsinoma testis, berfungsi melalui perhubungan silang DNA yang sitotoksik kepada sel tumor yang terbahagi dengan cepat.
+Butiran mekanisme tindakan tidak tersedia dalam data yang dikompilasi. Berdasarkan maklumat sedia ada, ifosfamide ialah prodrug pengalkilan yang diaktifkan oleh sitokrom P450 hati kepada isofosforamid mustard. Metabolit ini membentuk taut silang DNA dan mendorong apoptosis dalam sel tumor yang membahagi dengan cepat. Mekanisme ini boleh terpakai pada karsinoma payudara.
 
-Mekanisme kerosakan DNA ini bukan spesifik kepada jenis tumor — ia secara meluas sitotoksik kepada sel tumor pepejal yang berkembang, itulah sebabnya ifosfamide telah lama digabungkan dengan taksan, antrasiklin, dan agen platinum merentasi beberapa tumor pepejal, termasuk kanser payudara. Indikasi baru yang diramalkan oleh itu konsisten dari segi mekanisme dengan profil sitotoksik pengalkilan yang mapan bagi ubat itu daripada hipotesis yang biologi baru.
+Ifosfamide ialah analog siklofosfamid, yang sudah lama digunakan dalam kemoterapi kanser payudara. Kajian awal sejak 1974 melaporkan kadar respons objektif kira-kira 20% sebagai agen tunggal. Ulasan lain melaporkan kadar respons 7–30% pada pesakit yang telah menerima rawatan terdahulu, dan kadar yang lebih menarik apabila digabungkan dengan ubat aktif lain. Kajian terkini juga meneroka kemoterapi berasaskan ifosfamide untuk kanser payudara metaplastik dan tumor filodes malignan.
 
-Sepatutnya diperhatikan, menurut alasan penyesuaian semula pakej bukti itu sendiri, penggunaan ifosfamide dalam kanser payudara telah pun mencerminkan amalan klinikal sedia ada daripada ramalan yang semata-mata spekulatif: pelbagai ujian Fasa 1–3 telah menilai ifosfamide digabungkan dengan taksan atau agen platinum, terutamanya dalam kanser payudara metastatik yang tahan antrasiklin, yang konsisten dengan jumlah kesusasteraan sokongan yang besar yang dikenal pasti di bawah.
+**Nota penting:** ramalan ini kurang bersifat "pengalihan guna" yang baharu, kerana ifosfamide sudah lama diterokai dalam kanser payudara. Bukti yang ada kebanyakannya fasa 1/2 dan lama, dan tiada RCT fasa 3 dikenal pasti dalam data yang dikompilasi.
 
 ---
 
-## Bukti Ujian Klinikal
+## Bukti Percubaan Klinikal
 
-| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT00954174](https://clinicaltrials.gov/study/NCT00954174) | Fasa 3 | Tidak diketahui | 637 | Perbandingan rawak paclitaxel+karboplatin vs. ifosfamide+paclitaxel dalam karsinosarkoma ginekologi yang baru didiagnosis/berulang |
-| [NCT00026078](https://clinicaltrials.gov/study/NCT00026078) | Fasa 2 | Tidak diketahui | 42 | Docetaxel + ifosfamide sebagai kemoterapia garis pertama dalam kanser payudara metastatik |
-| [NCT00002854](https://clinicaltrials.gov/study/NCT00002854) | Fasa 1 | Selesai | 33 | Dosis tinggi berjujukan sisplatin/siklofosfamid/etopozid dan ifosfamide/karboplatin/paclitaxel dengan sokongan sel punca autologo dalam kanser lanjutan |
-| [NCT00006032](https://clinicaltrials.gov/study/NCT00006032) | Fasa 2 | Diberhentikan | T/A | Topotekan dosis intensif, ifosfamide/mesna dan etopozid (TIME) diikuti dengan penyelamatan sel punca autologo dalam kanser payudara metastatik |
-| [NCT00012311](https://clinicaltrials.gov/study/NCT00012311) | Fasa 2 | Tidak diketahui | T/A | Kemoterapia dosis tinggi berbilang kitaran vs. dosis konvensional yang dioptimalkan dalam kanser payudara metastatik |
-| [NCT00003086](https://clinicaltrials.gov/study/NCT00003086) | Fasa 1/2 | Diberhentikan | 12 | Samarium-153 dengan transplantasi sumsum tulang autologo berjujukan berganda dalam kanser payudara peringkat IV |
-| [NCT00020722](https://clinicaltrials.gov/study/NCT00020722) | Fasa 2 | Diberhentikan | 7 | Sel T yang diaktifkan selepas transplantasi sel punca darah tepi dalam kanser payudara peringkat IV |
-| [NCT04279509](https://clinicaltrials.gov/study/NCT04279509) | T/A | Tidak diketahui | 35 | Saringan ubat organoid yang diperoleh daripada pesakit untuk memilih kemoterapia bagi tumor pepejal yang tahan |
+| [NCT00026078](https://clinicaltrials.gov/study/NCT00026078) | Fasa 2 | Tidak diketahui | 42 | Docetaxel + ifosfamide sebagai rawatan barisan pertama kanser payudara metastatik; menguji ifosfamide secara langsung dalam indikasi sasaran |
+| [NCT00012311](https://clinicaltrials.gov/study/NCT00012311) | Fasa 2 | Tidak diketahui | Tidak dinyatakan | Kemoterapi dos tinggi berbilang kitaran berbanding kemoterapi konvensional yang dioptimumkan dalam kanser payudara metastatik; sumbangan ifosfamide sukar diasingkan |
+| [NCT00002854](https://clinicaltrials.gov/study/NCT00002854) | Fasa 1 | Selesai | 33 | Kajian perintis kitaran dos tinggi berturutan (cisplatin, siklofosfamid, etoposid, ifosfamide, karboplatin, Taxol) dengan sokongan sel stem autologus; data kebolehlaksanaan dan keselamatan |
+| [NCT00006032](https://clinicaltrials.gov/study/NCT00006032) | Fasa 2 | Ditamatkan | Tidak dinyatakan | Topotecan, ifosfamide/mesna dan etoposid dos intensif diikuti penyelamatan sel stem; ditamatkan, jadi kebolehtafsiran terhad |
+| [NCT00003086](https://clinicaltrials.gov/study/NCT00003086) | Fasa 1/2 | Ditamatkan | 12 | Samarium-153 dalam pemindahan sumsum tulang autologus berganda untuk kanser payudara tahap IV; ifosfamide hanya komponen latar belakang |
+| [NCT00020722](https://clinicaltrials.gov/study/NCT00020722) | Fasa 2 | Ditamatkan | 7 | Sel T teraktif selepas pemindahan sel stem dalam kanser payudara tahap IV; ifosfamide bukan fokus |
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [11932893](https://pubmed.ncbi.nlm.nih.gov/11932893/) | 2002 | Fasa 2 | Cancer | Paclitaxel (infusi 24-j) + ifosfamide dinilai untuk keberkesanan/ketahanan dalam kanser payudara metastatik tahan antrasiklin |
-| [8711499](https://pubmed.ncbi.nlm.nih.gov/8711499/) | 1996 | Ujian Terkawal Rawak (Fasa 2) | Seminars in Oncology | Ujian rawak epirubicin/ifosfamide yang berterusan vs. gangguan rawatan dalam 357 pesakit kanser payudara metastatik; CR 8%, PR 37% |
-| [9708645](https://pubmed.ncbi.nlm.nih.gov/9708645/) | 1998 | Fasa 2 | American Journal of Clinical Oncology | Ifosfamide agen tunggal + mesna dalam 29 pesakit kanser payudara metastatik yang dirawat sebelumnya |
-| [2347053](https://pubmed.ncbi.nlm.nih.gov/2347053/) | 1990 | Fasa 2 | Cancer Chemotherapy and Pharmacology | Epirubicin + ifosfamide dalam 58 pesakit dengan kanser payudara tahan, sarkoma, dan tumor pepejal lain |
-| [9226029](https://pubmed.ncbi.nlm.nih.gov/9226029/) | 1997 | Kohort | Tumori | Ifosfamide + etopozid dalam kanser payudara lanjutan yang dirawat sebelumnya; respons dan ketoksikan dinilai |
-| [8918497](https://pubmed.ncbi.nlm.nih.gov/8918497/) | 1996 | Kohort | Journal of Clinical Oncology | Ifosfamide + vinorelbina sebagai kemoterapia garis pertama bagi kanser payudara metastatik |
-| [8873839](https://pubmed.ncbi.nlm.nih.gov/8873839/) | 1996 | Siri kes | Journal of Chemotherapy | Ifosfamide, mesna dan epirubicin (IMEpi) sebagai terapi garis kedua dalam 16 pesakit kanser payudara lanjutan; kadar respons keseluruhan 50% |
-| [10602907](https://pubmed.ncbi.nlm.nih.gov/10602907/) | 1999 | Siri kes | Cancer Chemotherapy and Pharmacology | Ifosfamide, karboplatin dan etopozid (ICE) dalam 25 pesakit kanser payudara metastatik/tahan yang banyak dirawat sebelumnya |
-| [39306877](https://pubmed.ncbi.nlm.nih.gov/39306877/) | 2024 | Kohort | Current Problems in Cancer | Kemoterapia berasaskan ifosfamide dalam kanser payudara metaplastik, varian jarang dengan respons lemah kepada rejimen antrasiklin/taksan standard |
-| [2347057](https://pubmed.ncbi.nlm.nih.gov/2347057/) | 1990 | Kohort | Cancer Chemotherapy and Pharmacology | Ifosfamide menggantikan siklofosfamid dalam rejimen CMF dalam 25 pesakit dengan kanser payudara tahan/kambuh CMF |
-
----
-
-## Maklumat Pasaran Malaysia
-
-Ifosfamide disenaraikan sebagai dipasarkan di Malaysia dengan **1 lesen berdaftar**. Bagaimanapun, maklumat peringkat lesen terperinci (nombor kebenaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan) belum lagi diambil semula untuk pakej data ini — ini dijejaki sebagai jurang data terbuka yang memerlukan susulan dengan rekod sumber NPRA.
+| [8918497](https://pubmed.ncbi.nlm.nih.gov/8918497/) | 1996 | Kajian fasa 2 | J Clin Oncol | Ifosfamide + vinorelbine sebagai kemoterapi barisan pertama kanser payudara metastatik; menilai keberkesanan dan ketoksikan |
+| [11932893](https://pubmed.ncbi.nlm.nih.gov/11932893/) | 2002 | Kajian fasa 2 | Cancer | Paclitaxel infusi 24 jam + ifosfamide pada karsinoma payudara metastatik yang rintang antrasiklin |
+| [8445421](https://pubmed.ncbi.nlm.nih.gov/8445421/) | 1993 | Kajian fasa 2 | J Clin Oncol | Ifosfamide + mitoxantrone sebagai kemoterapi barisan pertama karsinoma payudara metastatik |
+| [9226029](https://pubmed.ncbi.nlm.nih.gov/9226029/) | 1997 | Kajian klinikal | Tumori | Ifosfamide + etoposid pada kanser payudara lanjut yang telah dirawat; menilai respons dan profil ketoksikan |
+| [2347057](https://pubmed.ncbi.nlm.nih.gov/2347057/) | 1990 | Kajian klinikal | Cancer Chemother Pharmacol | Ifosfamide menggantikan siklofosfamid dalam regimen CMF pada 25 pesakit yang rintang atau relaps |
+| [39306877](https://pubmed.ncbi.nlm.nih.gov/39306877/) | 2024 | Kohort | Curr Probl Cancer | Pengalaman kemoterapi berasaskan ifosfamide untuk kanser payudara metaplastik, varian yang kurang bertindak balas terhadap antrasiklin dan taxane |
+| [39074497](https://pubmed.ncbi.nlm.nih.gov/39074497/) | 2024 | Kohort | J Natl Compr Canc Netw | Kesan kemoterapi adjuvan terhadap prognosis jangka panjang tumor filodes payudara malignan |
+| [14586149](https://pubmed.ncbi.nlm.nih.gov/14586149/) | 2003 | Ulasan | Oncology | Ifosfamide dalam kanser payudara lanjut; respons agen tunggal 7–30% pada pesakit yang telah dirawat, dan mesna mengurangkan urotoksisiti |
+| [1390313](https://pubmed.ncbi.nlm.nih.gov/1390313/) | 1992 | Ulasan | Ann Oncol | Penggunaan ifosfamide dalam kanser payudara; respons objektif kira-kira 20% sebagai agen tunggal |
+| [1720382](https://pubmed.ncbi.nlm.nih.gov/1720382/) | 1991 | Ulasan | Drugs | Ulasan aktiviti antineoplastik, farmakokinetik dan keberkesanan terapeutik ifosfamide/mesna |
 
 ---
 
 ## Sitotoksisiti
 
-Ifosfamide ialah agen kemoterapia/antineoplas (kelas agen pengalkilan, mengikut bukti mekanistik dalam pakej ini), jadi bahagian ini terpakai.
-
-| Item | Kandungan |
+| Perkara | Kandungan |
 |------|------|
-| Klasifikasi Sitotoksisiti | Sitotoksik konvensional (agen pengalkilan, kelas oxazafosfforina — analog siklofosfamid) |
-| Risiko Supresi Sumsum Tulang | Sila rujuk amaran dan langkah berjaga-jaga penyisipan pakej |
-| Klasifikasi Emetogenisiti | Sila rujuk amaran dan langkah berjaga-jaga penyisipan pakej |
-| Item Pemantauan | Sila rujuk amaran dan langkah berjaga-jaga penyisipan pakej |
-| Perlindungan Pengendalian | Sebagai agen kemoterapia pengalkilan sitotoksik, protokol pengendalian ubat sitotoksik dan perlindungan standard berlaku |
+| Klasifikasi Sitotoksisiti | Sitotoksik konvensional (agen pengalkilan, kelas oksazafosforin) |
+| Risiko Mielosupresi | Tinggi (neutropenia dan trombositopenia lazim) |
+| Klasifikasi Emetogenisiti | Sederhana hingga tinggi (bergantung pada dos) |
+| Item Pemantauan | Kiraan darah penuh (CBC) dengan pembezaan, fungsi renal dan hepar, elektrolit, urinalisis (hematuria), status neurologi |
+| Perlindungan Pengendalian | Perlu mematuhi peraturan pengendalian ubat sitotoksik |
+
+Data ketoksikan khusus tidak tersedia dalam data yang dikompilasi; sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pakej.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk penyisipan pakej untuk maklumat keselamatan.
+- **Interaksi Ubat:** Pertanyaan interaksi selesai dan menemui 100 interaksi. Sebahagian besar yang disenaraikan bertahap sederhana, dan satu bertahap minor (levofloxacin). Yang utama:
+  - Ubat nefrotoksik/aminoglikosida: amphotericin B (termasuk kompleks lipid), kanamycin, neomycin
+  - Antidiabetik: glimepiride, glipizide, glyburide, chlorpropamide, tolazamide, acetohexamide, nateglinide, repaglinide
+  - Ubat anti-mual dan sistem saraf pusat: aprepitant, metoclopramide, scopolamine, dronabinol, nabilone, morphine, bupropion
+- **Langkah berjaga-jaga yang dinyatakan dalam literatur:** perlindungan urotelium dengan mesna, serta pemantauan nefrotoksisiti, neurotoksisiti dan mielosupresi. Risiko neoplasma sekunder, termasuk sindrom mielodisplastik dan leukemia berkaitan terapi, juga perlu dipertimbangkan dalam kaunseling pesakit.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Teruskan dengan Pagar Keselamatan**
+**Keputusan: Hold**
 
-**Alasan:**
-Tahap bukti L1 disokong oleh badan bukti klinikal yang besar (8 ujian klinikal termasuk reka bentuk Fasa 2/3 rawak, ditambah 10+ penerbitan yang berkaitan secara langsung) yang mendokumenkan penggunaan ifosfamide dalam kombinasi kemoterapia kanser payudara, terutamanya dalam penyakit metastatik tahan antrasiklin. Ini mencerminkan corak aplikasi klinikal yang telah pun ditetapkan daripada ramalan yang semata-mata baru, tetapi dokumentasi keselamatan dan peraturan formal masih hilang.
+**Rasional:**
+- Bukti untuk karsinoma payudara kebanyakannya daripada kajian fasa 1/2 yang lama dan ulasan, tanpa RCT fasa 3. Peranan ifosfamide dalam regimen gabungan sukar diasingkan.
+- Menurut data yang dikompilasi, ifosfamide tidak dipasarkan dan tidak berdaftar di Malaysia. Maklumat amaran dan kontraindikasi daripada sisipan pakej juga tiada, jadi penilaian keselamatan belum dapat diteruskan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Amaran label produk TFDA/NPRA dan kontraindikasi (jurang pemblokiran, DG001)
-- Mekanisme tindakan bersumber DrugBank dan pengkategorian ubat formal (DG002)
-- Perincian peringkat lesen Malaysia: nombor kebenaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan
-- Pengesahan indikasi asal yang diluluskan peraturan ubat itu di Malaysia
-- Profil interaksi ubat-ubat khusus untuk rejimen kombinasi (taksan, agen platinum, antrasiklin)
-
+- Mengesahkan status pendaftaran sebenar di NPRA dan memuat turun sisipan pakej untuk amaran serta kontraindikasi, memandangkan ifosfamide diketahui digunakan secara meluas.
+- Melengkapkan data mekanisme tindakan (contohnya daripada DrugBank).
+- Mencari bukti yang lebih terkini, idealnya percubaan rawak, untuk menentukan nilai tambah ifosfamide berbanding rejimen piawai kanser payudara, termasuk subjenis metaplastik.
+- Calon lain dalam senarai ramalan yang sama, iaitu **rabdomiosarkoma** (L1, dengan beberapa RCT fasa 3 sarkoma tisu lembut), wajar dinilai berasingan sebagai keutamaan yang lebih kukuh. Ramalan seperti sindrom mielodisplastik dan leukemia monositik lebih mencerminkan isyarat bahaya (neoplasma sekunder) dan tidak disyorkan.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

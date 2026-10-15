@@ -2,7 +2,7 @@
 layout: default
 title: Tropicamide
 parent: Low Evidence (L4-L5)
-nav_order: 672
+nav_order: 705
 evidence_level: L5
 indication_count: 3
 ---
@@ -29,63 +29,87 @@ Tahap bukti: **L5** | Indikasi diramal: **3**
 
 </div>
 
-# Tropicamide: Daripada Mydriasis Oftalmik kepada Syndrome Cauda Equina
+# Tropicamide: Daripada Sikloplegia kepada Sindrom Cauda Equina
 
 ## Ringkasan Satu Ayat
 
-Tropicamide ialah antagonis muskarinik (antikolinergik) yang digunakan secara topikal dalam oftalmologi untuk pelebaraan murid dan sikloplegia. Model TxGNN meramalkan kemungkinan kaitan dengan **Syndrome Cauda Equina** dengan skor kesamaan asal yang sangat tinggi, tetapi calon ini disokong oleh **0 ujian klinikal** dan **0 penerbitan**, dan rasional model itu sendiri menandakannya sebagai isyarat palsu yang kemungkinan besar tanpa asas patofisiologi yang munasabah.
+Tropicamide ialah antagonis muskarinik yang pada asalnya digunakan untuk sikloplegia (dan sebagai midriatik jangka pendek untuk pemeriksaan mata).
+Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom cauda equina**, dengan skor ramalan 99.53%,
+tetapi pada masa ini terdapat **0 percubaan klinikal** dan **0 penerbitan** yang menyokong arah ini. Ramalan ini bersifat pengiraan (model) semata-mata.
 
-## Tinjauan Pantas
+---
+
+## Gambaran Keseluruhan Pantas
 
 | Item | Kandungan |
-|------|-----------|
-| Petunjuk Asal | Penggunaan oftalmik — pelebaraan murid/sikloplegia (agen pelebaraan murid topikal) |
-| Petunjuk Baru Diramalkan | Syndrome Cauda Equina |
+|------|------|
+| Indikasi Asal | Sikloplegia |
+| Indikasi Baharu yang Diramalkan | Sindrom cauda equina |
 | Skor Ramalan TxGNN | 99.53% |
-| Tahap Bukti | L5 (ramalan model sahaja, tiada kajian sokongan) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 1 |
-| Keputusan Disarankan | Hold |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Tropicamide ialah antagonis muskarinik (penerima-M) — anggota daripada kelas ubat antikolinergik yang lebih luas. Walau bagaimanapun, ia digunakan secara eksklusif sebagai agen oftalmik topikal untuk pelebaraan murid jangka pendek dan paralisis otot siliari; ia tidak mempunyai profil farmakokinetik atau keselamatan sistemik yang ditetapkan untuk merawat keadaan neurologis atau muskuloskeletal.
+Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat yang diketahui, tropicamide ialah antagonis reseptor muskarinik (data farmakologi menunjukkan ia mengikat reseptor M2, M3, M4 dan M5). Keberkesanannya sebagai midriatik dan sikloplegik jangka pendek telah mantap.
 
-Syndrome cauda equina adalah kecemasan kirurgis yang disebabkan oleh mampatan mekanik akar saraf lumbosacral (contohnya, herniasi cakera, tumor, trauma), memerlukan dekompresi mendesak. Tidak terdapat laluan mekanik yang diketahui menghubungkan agen mydriatis antikolinergik topikal dengan patologi mekanik/kirurgis yang mendasari keadaan ini.
+Secara teori, tindakan antikolinergik boleh mengurangkan hiperaktiviti detrusor pada pundi kencing, yang kadangkala menyertai sindrom cauda equina. Namun, patologi teras sindrom ini ialah mampatan mekanikal akar saraf yang memerlukan dekompresi pembedahan. Antimuskarinik paling banyak hanya boleh menangani gejala hiliran, bukan penyakit itu sendiri. Tropicamide juga diformulasikan sebagai agen oftalmik dengan pendedahan sistemik yang minimum, yang melemahkan lagi hubungan ini.
 
-Pakej bukti itu sendiri merumuskan rasional repurposing bagi calon ini sebagai **kemungkinan isyarat palsu**: hubungan itu didapati timbul secara tidak langsung melalui nod komorbidititi/gejala "kencing neurogenik" bersama dalam graf pengetahuan, dan bukannya hubungan farmakoloji yang tulen. Memandangkan ketiadaan sebarang sokongan ujian klinikal atau kesusasteraan, ramalan ini tidak sepatutnya dianggap sebagai petunjuk repurposing yang boleh dipercayai tanpa justifikasi mekanik bebas yang kuat dan substansi.
+**Ramalan lain daripada model (semuanya L5, Hold):**
 
-*(Dua calon lain juga dijana untuk ubat ini — kencing neurogenik dan sindrom usus beriritasi — kedua-duanya dinilai L5/Hold tanpa sebarang ujian sokongan atau kesusasteraan; lihat Kesimpulan.)*
+| Peringkat | Penyakit | Skor TxGNN | Catatan |
+|------|------|------|------|
+| 2 | Pundi kencing neurogenik (istilah usang dalam ontologi) | 99.13% | Antimuskarinik ialah kelas mantap untuk hiperaktiviti detrusor neurogenik, tetapi tropicamide tiada pembangunan sistemik atau intravesikal. Istilah perlu dipetakan kepada istilah semasa (cth. disfungsi saluran kencing bawah neurogenik). |
+| 3 | Sindrom usus rengsa | 99.12% | Antispasmodik (cth. hyoscine, dicyclomine) digunakan untuk kekejangan perut, tetapi tropicamide tiada formulasi oral/sistemik dan tiada data. |
 
-## Bukti Ujian Klinikal
+---
 
-Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
+## Bukti Percubaan Klinikal
 
-## Bukti Kesusasteraan
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
-Pada masa ini tiada kesusasteraan berkaitan yang tersedia.
+---
+
+## Bukti Literatur
+
+Pada masa ini tiada literatur berkaitan yang tersedia.
+
+---
 
 ## Maklumat Pasaran Malaysia
 
-Tropicamide disahkan sebagai dipasarkan di Malaysia (1 lesen berdaftar), tetapi nombor kebenaran terperinci, nama produk, bentuk dos, dan teks petunjuk yang diluluskan tidak tersedia dalam set data semasa.
+Tropicamide pada masa ini tidak dipasarkan di Malaysia dan tiada pendaftaran (0 lesen) direkodkan.
+
+---
 
 ## Pertimbangan Keselamatan
 
-Sila merujuk risalah ubat untuk maklumat keselamatan.
+**Penyakit yang dikaitkan dengan kontraindikasi (daripada graf pengetahuan TxGNN, bukan teks label):**
+hipertensi / gangguan hipertensif, glaukoma sudut terbuka, glaukoma sudut tertutup, hipertensi okular, diabetes mellitus, ketoasidosis diabetes, henti jantung secara tiba-tiba, penyakit pengaliran jantung, hipertiroidisme, penyakit Graves, tirotoksikosis, iskemia miokardium, penyakit arteri koronari.
+
+**Interaksi Ubat:** Sebanyak 14 rekod interaksi ditemui. Interaksi ubat-ubat (tahap keterukan tidak diketahui) termasuk atropine, kalium klorida, vancomycin, simvastatin, prednisolone, famotidine, warfarin, lidocaine, fluconazole dan brimonidine. Selain itu, tropicamide mengikat reseptor muskarinik M2, M3, M4 dan M5.
+
+Untuk amaran utama dan kontraindikasi daripada sisip bungkusan, sila rujuk sisip bungkusan.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
 **Keputusan: Hold**
 
-**Rasional:**
-Calon ini tidak mempunyai sokongan ujian klinikal atau kesusasteraan (Tahap Bukti L5), dan rasional mekanik model itu sendiri mengenalpasti ia sebagai artefak graf-pengetahuan yang kemungkinan besar daripada isyarat farmakoloji yang tulen. Terdapat juga jurang data penghalang pada amaran label TFDA/NPRA dan kontraindikasi, yang menghalang penilaian keselamatan awal (S1).
+**Justifikasi:**
+- Ramalan hanya berasaskan model (L5) tanpa sebarang percubaan klinikal atau literatur. Hubungan mekanistik lemah kerana patologi sindrom cauda equina ialah mampatan mekanikal, dan tropicamide ialah agen oftalmik dengan pendedahan sistemik minimum. Alternatif antimuskarinik yang lebih mantap sudah wujud untuk gejala pundi kencing dan usus.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Data risalah ubat TFDA/NPRA — amaran, kontraindikasi (jurang penghalang; diperlukan sebelum sebarang semakan keselamatan)
-- Mekanisme tindakan yang disahkan daripada DrugBank (jurang keutamaan tinggi)
-- Rasional mekanik bebas atau pra-klinikal yang secara khusus menghubungkan tropicamide dengan syndrome cauda equina, memandangkan rasional semasa menyanggah kebolehpercayaan biologi
-- Jika mengikuti calon alternatif sebaliknya, ambil perhatian bahawa kencing neurogenik dan sindrom usus beriritasi (pangkat 2–3) juga pada masa ini tanpa bukti ujian/kesusasteraan dan kekal pada Hold
-
+- Amaran dan kontraindikasi daripada sisip bungkusan NPRA (jurang data yang menyekat saringan keselamatan)
+- Data terperinci mekanisme tindakan (MOA)
+- Pemetaan istilah penyakit usang kepada istilah semasa (cth. disfungsi saluran kencing bawah neurogenik)
+- Penilaian kesesuaian laluan pentadbiran dan formulasi (pada masa ini belum ditentukan)
+- Kajian praklinikal atau kajian pengesahan lain sebelum sebarang penilaian klinikal
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -2,7 +2,7 @@
 layout: default
 title: Hexetidine
 parent: Low Evidence (L4-L5)
-nav_order: 381
+nav_order: 400
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,63 +29,83 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Hexetidine: Daripada Antisepsis Oral/Faraj Topik kepada Aneurisma Septum Interventricular
+# Hexetidine: Daripada Penggunaan Antiseptik Topikal kepada Aneurisma Septum Interventrikular
 
 ## Ringkasan Satu Ayat
 
-Hexetidine ialah antiseptik topik yang digunakan pada mukosa oral dan faraj, tanpa farmakologi sistemik yang terbukti. Ramalan teratas model TxGNN untuk ubat ini ialah **Aneurisma Septum Interventricular**, tetapi calon ini kini disokong oleh **0 uji klinik** dan **0 penerbitan**, dan paket bukti itu sendiri tidak menunjukkan laluan biologi yang munasabah menghubungkan antimikrob topik kepada patologi septum jantung.
+Hexetidine ialah antiseptik topikal yang biasa digunakan untuk penjagaan mulut dan mukosa. Model TxGNN meramalkan ia mungkin berkesan untuk **aneurisma septum interventrikular**, tetapi **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong arah ini berdasarkan data yang dikumpulkan untuk laporan ini.
 
-## Gambaran Keseluruhan Pantas
+---
+
+## Gambaran Keseluruhan Ringkas
 
 | Perkara | Kandungan |
-|--------|----------|
-| Petunjuk Asal | Antisepsis mukosa oral/faraj topik (teks petunjuk TFDA/NPRA rasmi tidak diisi dalam data sumber) |
-| Petunjuk Baru Diramal | Aneurisma Septum Interventricular |
+|------|------|
+| Indikasi Asal | Tiada data indikasi diluluskan (tiada lesen berdaftar di Malaysia); secara umum digunakan sebagai antiseptik mulut/mukosa topikal |
+| Indikasi Baharu yang Diramalkan | Aneurisma septum interventrikular |
 | Skor Ramalan TxGNN | 99.16% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 1 |
-| Keputusan yang Disyorkan | Tahan |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan yang Disyorkan | Hold |
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan (MOA) terperinci untuk hexetidine tidak tersedia dalam DrugBank (celah data DG002, keseriusan Tinggi). Berdasarkan maklumat yang terdapat dalam paket bukti ini, hexetidine berfungsi sebagai antimikrob topik yang digunakan pada mukosa oral dan faraj, tanpa penyerapan sistemik yang bermakna dan tanpa sasaran farmakologi jantung yang diketahui.
+Data terperinci mengenai mekanisme tindakan hexetidine tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, hexetidine ialah antiseptik topikal yang digunakan dalam penjagaan mulut dan mukosa.
 
-Petunjuk baru yang diramal — aneurisma septum interventricular — ialah anomali jantung struktur. Rasional yang disediakan bersama ramalan secara eksplisit menyatakan bahawa tidak ada laluan biologi yang boleh dijelaskan menghubungkan antiseptik yang bertindak setempat, tidak diserap kepada penyakit septum jantung. Corak ini konsisten di semua 10 ramalan TxGNN teratas hexetidine dalam paket ini: cacat jantung bawaan (penyakit injap pulmonari, sindrom Laubry-Pezzi), sindrom kraniofasial/genetik (celah orofasial, sindrom Pierre Robin, pemadaman kromosom 22q/7q, sindrom Jeune), dan satu gangguan metabolik jarang — tidak satu pun berkongsi sasaran farmakologi yang munasabah dengan mekanisme antimikrob hexetidine yang diketahui.
+Hasil analisis menunjukkan **tiada hubungan mekanistik yang dikenal pasti**. Aneurisma septum interventrikular ialah kecacatan struktur jantung, dan antiseptik topikal tidak mempunyai laluan farmakologi yang munasabah untuk menanganinya. Skor TxGNN yang tinggi merupakan ramalan pengiraan sahaja, dan kemungkinan besar disebabkan oleh artifak topologi graf pengetahuan, bukan asas biologi.
 
-Ini menunjukkan bahawa ramalan berperingkat teratas semasa didorong oleh jarak kedekatan pembenaman grafik pengetahuan dan bukannya hipotesis farmakologi yang boleh diuji, dan harus dianggap sebagai output model eksplorasi sahaja, bukan sebagai petunjuk penggunaan semula yang siap untuk semakan bukti.
+### Ramalan Lain (Kedudukan 2–10)
 
-## Bukti Uji Klinik
+Sepuluh ramalan teratas semuanya berada pada Tahap Bukti L5 dengan keputusan Hold. Tiada satu pun mempunyai percubaan klinikal.
 
-Kini tiada uji klinik berkaitan yang didaftarkan.
+| Kedudukan | Penyakit | Skor TxGNN | Penilaian |
+|------|------|------|------|
+| 2 | Penyakit injap pulmonari | 99.09% | Tiada laluan farmakologi untuk patologi injap struktur |
+| 3 | Sindrom belahan orofasial | 99.08% | Kecacatan perkembangan; antiseptik tidak dapat membetulkannya |
+| 4 | Sindrom Laubry-Pezzi | 99.06% | Keadaan jantung kongenital; tiada sokongan biologi |
+| 5 | Sindrom Pierre Robin genetik | 99.05% | Anomali kraniofasial berasas genetik |
+| 6 | Gangguan sintesis fukoglikosan | 99.04% | Satu ulasan umum sahaja; tidak menyokong indikasi ini |
+| 7 | Delesi separa lengan panjang kromosom 22 | 99.03% | Gangguan delesi kromosom |
+| 8 | Sindrom Pierre Robin berkaitan anomali kromosom | 99.03% | Tiada rasional farmakologi |
+| 9 | Delesi separa lengan panjang kromosom 7 | 99.03% | Tiada sasaran yang munasabah |
+| 10 | Sindrom Jeune dengan situs inversus | 99.02% | Ciliopati; tiada mekanisme berkaitan |
 
-## Bukti Kesusasteraan
+---
 
-Kini tiada kesusasteraan berkaitan yang tersedia.
+## Bukti Literatur
 
-*Nota: di antara 10 ramalan teratas, hanya peringkat 6 ("gangguan sintesis fucoglycosan") mengembalikan kesusasteraan (2 rekod PubMed), tetapi kedua-dua kertas menyangkut penggunaan hexetidine yang sudah diketahui sebagai antiseptik antiplak/dekontaminasi oral — mereka tidak menangani penyakit metabolik jarang yang diramal dan dianggap sebagai ketidakpadanan pemetaan label dan bukannya bukti sokongan.*
+Tiada literatur berkaitan yang menyokong indikasi utama (aneurisma septum interventrikular).
 
-## Maklumat Pasaran Malaysia
+Satu penerbitan dikaitkan dengan ramalan kedudukan 6 (gangguan sintesis fukoglikosan), tetapi ia tidak menyokong indikasi tersebut:
 
-Rekod NPRA mengesahkan 1 pendaftaran aktif untuk hexetidine (status pasaran: Dipasarkan / Dipasarkan), tetapi nombor lesen, nama produk, bentuk dos, dan medan teks petunjuk yang diluluskan tidak diisi dalam sumber data semasa dan memerlukan pengambilan daripada daftar produk NPRA.
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [12974527](https://pubmed.ncbi.nlm.nih.gov/12974527/) | 2003 | Ulasan | Oral Diseases | Ulasan umum mengenai agen anti-plak dalam pencegahan penyakit mulut berkaitan biofilem; tiada kaitan dengan gangguan glikosilasi |
+
+---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
+Sila rujuk sisipan pakej untuk maklumat keselamatan. Tiada interaksi ubat direkodkan dalam data yang dikompilasi untuk laporan ini.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
-**Rasional:**
-Ramalan berperingkat teratas (aneurisma septum interventricular) tidak mempunyai sokongan uji klinik atau kesusasteraan dan tiada pautan mekanistik yang munasabah mengikut penilaian paket bukti itu sendiri, meletakkannya pada tahap bukti L5 / peringkat keputusan S0. Menambah perkara ini, semakan keselamatan tidak boleh diteruskan kerana amaran label TFDA/NPRA dan kontraindikasi ialah celah data keseriusan Penyekat (DG001).
+**Justifikasi:**
+- Ramalan ini berada pada Tahap Bukti L5 (ramalan model sahaja) tanpa sebarang percubaan klinikal atau literatur yang menyokong. Tiada hubungan mekanistik yang munasabah antara antiseptik topikal dan kecacatan struktur jantung, dan ubat ini tidak dipasarkan di Malaysia.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Ambil sisipan pakej TFDA/NPRA (amaran, kontraindikasi) — diperlukan sebelum sebarang penapisan keselamatan S1 (DG001, Penyekat)
-- Ambil MOA hexetidine daripada DrugBank (DG002)
-- Lengkapkan rekod lesen NPRA (nombor lesen, nama produk, bentuk dos, teks petunjuk yang diluluskan)
-- Nilai semula calon berperingkat lebih rendah dengan sokongan klinik/kesusasteraan sebenarnya (cth, peringkat 6) untuk ketepatan pemetaan label sebelum mempertimbangkan mana-mana petunjuk dalam senarai ini lebih lanjut
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) yang lengkap daripada DrugBank
+- Amaran dan kontraindikasi daripada sisipan pakej NPRA
+- Bukti praklinikal atau mekanistik yang menunjukkan kaitan biologi dengan indikasi yang diramalkan
+- Penilaian kesesuaian laluan pemberian (kini belum ditentukan)
+- Pertimbangan semula calon indikasi lain yang lebih munasabah dari segi biologi, yang berkaitan dengan penggunaan antimikrob/mulut
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

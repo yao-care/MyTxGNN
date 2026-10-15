@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Everolimus
-parent: High Evidence (L1-L2)
-nav_order: 333
-evidence_level: L2
+parent: Low Evidence (L4-L5)
+nav_order: 345
+evidence_level: L5
 indication_count: 5
 ---
 
 # Everolimus
 {: .fs-9 }
 
-Tahap bukti: **L2** | Indikasi diramal: **5** 
+Tahap bukti: **L5** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,112 +29,117 @@ Tahap bukti: **L2** | Indikasi diramal: **5**
 
 </div>
 
-# Everolimus: Daripada Indikasi Lesen Terdahulu kepada Neoplasma Payudara
+# Everolimus: Daripada Karsinoma Sel Renal kepada Neoplasma Payudara
 
 ## Ringkasan Satu Ayat
 
-Everolimus adalah perencat laluan mTOR oral yang sudah didaftarkan dan dipasarkan di Malaysia di bawah 8 lesen, walaupun pakej bukti ini tidak merangkumi teks indikasi yang diluluskan khusus untuk pendaftaran tersebut. Model TxGNN menandakan **Neoplasma Payudara** sebagai indikasi calon bertaraf tertinggi, dan pakej bukti sudah mengandungi data sokongan yang besar — **50 ujian klinikal** dan **20 penerbitan**, termasuk ujian RCT Fasa 3 pelopor BOLERO-2 yang mendasari penggunaan everolimus yang telah ditubuhkan dalam kanser payudara lanjut reseptor hormon-positif.
+Everolimus ialah perencat mTOR oral. Indikasi asalnya dalam data yang dikumpulkan ialah karsinoma sel renal, kompleks skerosis tuberos dan kanser payudara. Model TxGNN meramalkan ia berkesan untuk **neoplasma payudara**. Setakat ini terdapat **43 ujian klinikal** dan **20 penerbitan** yang menyokong arah ini. Skor ramalan TxGNN ialah 0.00%, jadi keyakinan terhadap ramalan ini bergantung pada bukti klinikal dan literatur, bukan pada skor model.
 
 ---
 
-## Ringkasan Cepat
+## Gambaran Ringkas
 
-| Item | Kandungan |
-|------|----------|
-| Indikasi Asal | Tidak ditentukan — rekod lesen NPRA menunjukkan 8 pendaftaran tetapi medan teks indikasi yang diluluskan adalah kosong untuk semua daripadanya |
-| Indikasi Baru Diramal | Neoplasma Payudara |
-| Skor Ramalan TxGNN | 0.00% (seperti yang tercatat dalam pakej bukti ini — lihat nota di bawah) |
-| Tahap Bukti | L2 |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 8 |
-| Keputusan Disyorkan | Tunda |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Karsinoma sel renal (berdasarkan graf pengetahuan TxGNN; tiada teks indikasi berlesen tempatan) |
+| Indikasi Baharu yang Diramalkan | Neoplasma payudara |
+| Skor Ramalan TxGNN | 0.00% |
+| Tahap Bukti | L1 (berdasarkan literatur yang diterbitkan, lihat nota di bawah) |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
 
-*Nota: skor TxGNN tercatat sebagai 0.0 untuk semua lima indikasi yang diramal dalam pakej bukti ini, yang kelihatan seperti isu populasi data huluan dan bukannya skor yang benar-benar terikat — ditandakan di sini dan bukannya diperbetulkan senyap-senyap.*
+**Nota tahap bukti:** Senarai ujian klinikal yang dikumpulkan tidak mengandungi ujian Fasa 3 berpusat efikasi yang telah selesai dan dilaporkan keputusannya. Tahap L1 diberikan berdasarkan literatur yang diterbitkan, terutamanya ujian BOLERO-2 (PMID 22149876) dan meta-analisis (PMID 33151471). Tahap ini perlu disahkan dengan penerbitan utama.
 
 ---
 
-## Mengapa Ramalan Ini Berpatutan?
+## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan terperinci tidak tersedia (ditandakan sebagai jurang data Penyekat/Keterukan Tinggi dalam pakej bukti ini). Berdasarkan maklumat yang diketahui, everolimus adalah perencat oral laluan isyarat mTOR (mammalian target of rapamycin), kelas yang sudah diluluskan di seluruh dunia merentasi pelbagai indikasi onkologi (karsinoma sel buah pinggang, astrocytoma sel gergasi subependymal, tumor neuroendokrin pankreas) serta kanser payudara.
+Everolimus merencat mTORC1, yang terletak di hilir laluan PI3K/AKT/mTOR. Laluan ini kerap diaktifkan dalam kanser payudara reseptor hormon positif (HR+) dan mendorong rintangan terhadap terapi endokrin. Menyekat mTOR bersama perencat aromatase atau fulvestrant boleh memulihkan kepekaan terhadap terapi endokrin.
 
-Indikasi neoplasma payudara yang diramal bukanlah hipotesis baru sebaliknya penggunaan yang telah ditubuhkan sudah dicerminkan dalam bukti: ujian BOLERO-2 (NEJM 2012, PMID 22149876) menunjukkan bahawa menambah everolimus kepada exemestane secara signifikan memanjangkan survival bebas perkembangan pada wanita pasca-menopaus dengan kanser payudara lanjut reseptor hormon-positif, HER2-negatif yang berkembang pada perencat aromatase bukan steroid — hasil yang kemudiannya disahkan untuk survival keseluruhan (PMID 25231953) dan ketahanan PFS (PMID 24158787). Secara mekanistik, isyarat PI3K/AKT/mTOR yang menyimpang adalah pemacu yang diiktiraf bagi rintangan terapi endokrin dalam kanser payudara HR+, yang merupakan sebab mengapa menyekat mTOR hiliran laluan reseptor estrogen memulihkan kepekaan kepada penekanan aromatase. Landskap ujian seterusnya (TRINITI-1, PrE0102, LEO, dan banyak kajian kombinasi rintangan CDK4/6i) lebih meluaskan nisbah ini ke dalam tetapan pasca-CDK4/6i.
+Karsinoma sel renal dan kanser payudara HR+ berkongsi pergantungan pada isyarat mTOR. Dalam karsinoma sel renal, kehilangan VHL menstabilkan HIF dan mengaktifkan laluan VEGF dan mTOR. Dalam kanser payudara, pengaktifan PI3K/AKT/mTOR menjadi mekanisme rintangan kepada terapi endokrin dan terapi sasaran HER2. Oleh itu, mekanisme yang sama berkemungkinan relevan dalam kedua-dua penyakit.
+
+Data yang dikumpulkan juga menunjukkan graf pengetahuan sudah mengaitkan kanser payudara dengan everolimus sebagai indikasi. Maka "indikasi baharu" di sini lebih tepat difahami sebagai pengesahan dan pengembangan penggunaan yang sedia ada dalam kanser payudara HR+/HER2- lanjutan, dan bukan penemuan sepenuhnya baharu. Bukti kuat setakat ini tertumpu pada tetapan HR+/HER2- lanjutan; tetapan lain (kanser payudara triple-negatif, HER2+, adjuvan) masih pada peringkat penerokaan.
 
 ---
 
 ## Bukti Ujian Klinikal
 
+Sebanyak 43 ujian klinikal dikenal pasti untuk neoplasma payudara. Jadual berikut menyenaraikan 10 ujian yang paling relevan.
+
 | Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT01805271](https://clinicaltrials.gov/study/NCT01805271) | Fasa 3 | Aktif, bukan perekrutan | 1278 | Everolimus tambahan yang ditambahkan kepada terapi hormon dalam kanser payudara primer risiko kambuh tinggi, ER+/HER2− |
-| [NCT01773444](https://clinicaltrials.gov/study/NCT01773444) | Fasa 2 | Selesai | 309 | Ujian tiga lengan: everolimus+exemestane lawan everolimus sahaja lawan capecitabine selepas kegagalan AI dalam kanser payudara lanjut ER+ |
-| [NCT06382948](https://clinicaltrials.gov/study/NCT06382948) | Fasa 3 | Aktif, bukan perekrutan | 240 | Elacestrant + everolimus lawan elacestrant sahaja dalam kanser payudara lanjut ER+/HER2−, ESR1-bermutasi pasca-CDK4/6i |
-| [NCT00107016](https://clinicaltrials.gov/study/NCT00107016) | Fasa 2 | Selesai | 267 | Everolimus + letrozole lawan plasebo + letrozole sebagai terapi pra-operasi dalam kanser payudara primer ER+ yang baru didiagnosis |
-| [NCT02871791](https://clinicaltrials.gov/study/NCT02871791) | Fasa 1/2 | Selesai | 41 | Palbociclib + everolimus + exemestane dalam kanser payudara metastatik ER+/HER2− yang rintangan kepada penghambat CDK4/6 |
-| [NCT02258451](https://clinicaltrials.gov/study/NCT02258451) | Fasa 2 | Selesai | 283 | Radium-223 + exemestane/everolimus lawan plasebo + exemestane/everolimus dalam kanser payudara HER2− HR+ dengan metastasis tulang |
-| [NCT02344550](https://clinicaltrials.gov/study/NCT02344550) | Fasa 2 | Selesai | 137 | Penekanan ovarium + letrozole + everolimus dalam kanser payudara berulang/metastatik pra-menopaus yang pra-rawatan tamoxifen ER+ (ujian LEO) |
-| [NCT00674414](https://clinicaltrials.gov/study/NCT00674414) | Fasa 2 | Ditamatkan | 82 | Everolimus yang ditambahkan kepada trastuzumab sebagai terapi pra-operasi dalam kanser payudara primer HER2+ |
-| [NCT02069093](https://clinicaltrials.gov/study/NCT02069093) | Fasa 2 | Selesai | 92 | Kumur-kumur berasaskan steroid untuk mencegah stomatitis berkaitan everolimus dalam kanser payudara metastatik HR+/HER2− |
-| [NCT00426556](https://clinicaltrials.gov/study/NCT00426556) | Fasa 1 | Selesai | 88 | Everolimus + trastuzumab + paclitaxel dalam kanser payudara metastatik berlebihan ekspresi HER2 |
+| [NCT02216786](https://clinicaltrials.gov/study/NCT02216786) | Fasa 2 | Selesai | 333 | Rawak 4 lengan: fulvestrant + AZD2014, fulvestrant + everolimus atau fulvestrant sahaja, dalam kanser payudara ER+/HER2- yang berulang atau berkembang semasa perencat aromatase |
+| [NCT01783444](https://clinicaltrials.gov/study/NCT01783444) | Fasa 2 | Selesai | 309 | Rawak 3 lengan: everolimus + exemestane lawan everolimus sahaja lawan kapesitabin dalam wanita pascamenopaus ER+ |
+| [NCT03312738](https://clinicaltrials.gov/study/NCT03312738) | Fasa 2 | Selesai | 159 | Rawak, buta dua, kawalan plasebo: everolimus + exemestane dalam wanita Cina pascamenopaus ER+/HER2- |
+| [NCT03176238](https://clinicaltrials.gov/study/NCT03176238) | Fasa 3b | Selesai | 235 | Lengan tunggal, label terbuka: keselamatan dan toleransi everolimus + exemestane, termasuk perbandingan kohort Asia dan bukan Asia |
+| [NCT05306340](https://clinicaltrials.gov/study/NCT05306340) | Fasa 3 | Aktif, tidak merekrut | 373 | Giredestrant + everolimus lawan pilihan terapi endokrin doktor + everolimus selepas rawatan perencat CDK4/6 |
+| [NCT06680921](https://clinicaltrials.gov/study/NCT06680921) | Fasa 3 | Aktif, tidak merekrut | 482 | SIM0270 + everolimus lawan pilihan doktor selepas perencat CDK4/6 |
+| [NCT01674140](https://clinicaltrials.gov/study/NCT01674140) | Fasa 3 | Aktif, tidak merekrut | 1939 | Terapi endokrin adjuvan ± satu tahun everolimus dalam kanser payudara HR+/HER2- berisiko tinggi, kawalan plasebo |
+| [NCT07407517](https://clinicaltrials.gov/study/NCT07407517) | Fasa 3 | Belum merekrut | 904 | Kemoterapi + everolimus oral sebagai adjuvan untuk kanser payudara triple-negatif subjenis LAR (isyarat masa depan sahaja) |
+| [NCT02732119](https://clinicaltrials.gov/study/NCT02732119) | Fasa 1/2 | Selesai | 104 | Ribociclib + everolimus + exemestane selepas perkembangan pada perencat CDK4/6; data keselamatan dan aktiviti kombinasi tanpa lengan kawalan |
+| [NCT00674414](https://clinicaltrials.gov/study/NCT00674414) | Fasa 2 | Ditamatkan | 82 | Tambahan everolimus kepada trastuzumab sebagai terapi praoperasi kanser payudara HER2+; ditamatkan awal sehingga tafsiran terhad |
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Literatur
+
+Sebanyak 20 penerbitan dikenal pasti. Jadual berikut menyenaraikan 10 yang paling relevan, dengan keutamaan RCT, kemudian ulasan.
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [22149876](https://pubmed.ncbi.nlm.nih.gov/22149876/) | 2012 | RCT | N Engl J Med | BOLERO-2: everolimus + exemestane secara signifikan meningkatkan hasil berbanding exemestane sahaja dalam kanser payudara lanjut HR+ |
-| [25231953](https://pubmed.ncbi.nlm.nih.gov/25231953/) | 2014 | RCT | Ann Oncol | Analisis survival keseluruhan akhir BOLERO-2 |
-| [24158787](https://pubmed.ncbi.nlm.nih.gov/24158787/) | 2013 | RCT | Adv Ther | Analisis survival bebas perkembangan akhir BOLERO-2 |
-| [29664714](https://pubmed.ncbi.nlm.nih.gov/29664714/) | 2018 | RCT | J Clin Oncol | PrE0102: fulvestrant + everolimus rawakan lawan plasebo dalam kanser payudara metastatik HR+/HER2− yang rintangan AI |
-| [40897974](https://pubmed.ncbi.nlm.nih.gov/40897974/) | 2025 | RCT | Nat Med | Rawakan Fasa 2 menyasarkan sel tumor terpenggal terlena untuk mencegah rekurens kanser payudara |
-| [33722897](https://pubmed.ncbi.nlm.nih.gov/33722897/) | 2021 | Ujian (Fasa I/II) | Clin Cancer Res | TRINITI-1: exemestane + ribociclib + everolimus selepas perkembangan penghambat CDK4/6 |
-| [33151471](https://pubmed.ncbi.nlm.nih.gov/33151471/) | 2020 | Ulasan Sistematik / Meta-analisis | Target Oncol | Ulasan keberkesanan everolimus merentasi fenotip kanser payudara dan kombinasi |
-| [25659402](https://pubmed.ncbi.nlm.nih.gov/25659402/) | 2015 | Ulasan | Expert Opin Drug Metab Toxicol | Penilaian PK/PD everolimus dalam rawatan kanser payudara |
-| [23907751](https://pubmed.ncbi.nlm.nih.gov/23907751/) | 2013 | Ulasan | Breast Cancer Res Treat | Profil kesan sampingan everolimus dan pengurusan toksisiti dalam kanser payudara |
-| [36453053](https://pubmed.ncbi.nlm.nih.gov/36453053/) | 2022 | Ulasan | Cancer Prev Res | Perspektif pada everolimus untuk pencegahan kanser payudara ER-negatif |
+| [22149876](https://pubmed.ncbi.nlm.nih.gov/22149876/) | 2012 | RCT | N Engl J Med | Ujian BOLERO-2: everolimus ditambah kepada terapi endokrin dalam kanser payudara lanjutan HR+ pascamenopaus |
+| [29664714](https://pubmed.ncbi.nlm.nih.gov/29664714/) | 2018 | RCT | J Clin Oncol | PrE0102: fulvestrant + everolimus lawan fulvestrant + plasebo dalam kanser payudara HR+/HER2- yang rintang terhadap perencat aromatase |
+| [33151471](https://pubmed.ncbi.nlm.nih.gov/33151471/) | 2020 | Meta-analisis | Targeted Oncol | Semakan sistematik dan meta-analisis everolimus dalam kanser payudara lanjutan; kombinasi dengan exemestane diluluskan untuk kanser payudara HR+ metastatik selepas perkembangan pada perencat aromatase bukan steroid |
+| [42814929](https://pubmed.ncbi.nlm.nih.gov/42814929/) | 2026 | Ujian klinikal | N Engl J Med | Giredestrant + everolimus dalam kanser payudara lanjutan, menyasarkan laluan ER dan PI3K/AKT/mTOR yang berkaitan rintangan terapi endokrin |
+| [40897974](https://pubmed.ncbi.nlm.nih.gov/40897974/) | 2025 | RCT Fasa 2 | Nat Med | Menyasarkan sel tumor dorman untuk mencegah kekambuhan; mekanisme autofagi dan isyarat mTOR |
+| [38211606](https://pubmed.ncbi.nlm.nih.gov/38211606/) | 2024 | RCT Fasa 2 | Lancet Oncol | FUTURE-SUPER: terapi berasaskan subjenis dalam kanser payudara triple-negatif barisan pertama |
+| [28314691](https://pubmed.ncbi.nlm.nih.gov/28314691/) | 2017 | Ujian klinikal Fasa 2 | Lancet Oncol | SWISH: ubat kumur berasaskan deksametason untuk mencegah stomatitis akibat everolimus |
+| [38547898](https://pubmed.ncbi.nlm.nih.gov/38547898/) | 2024 | Ulasan | Lancet Oncol | Penyasaran optimum PI3K-AKT dan mTOR dalam kanser payudara ER-positif lanjutan |
+| [23907751](https://pubmed.ncbi.nlm.nih.gov/23907751/) | 2013 | Ulasan | Breast Cancer Res Treat | Profil kesan sampingan dan pengurusan ketoksikan: stomatitis, ruam, keletihan, hiperglisemia, hiperlipidemia dan mielosupresi; kebanyakannya ringan dan reda dengan gangguan dos |
+| [27532364](https://pubmed.ncbi.nlm.nih.gov/27532364/) | 2016 | Kohort | JAMA Oncol | Analisis sekunder BOLERO-2: kelaziman mutasi ESR1 dalam DNA bebas sel dan hasil klinikal |
 
 ---
 
-## Maklumat Pasaran Malaysia
+## Sitotoksisiti (Ubat Antineoplastik)
 
-Daftar NPRA menunjukkan **8 lesen** untuk Everolimus dengan status pasaran "Dipasarkan" (Dipasarkan), tetapi pakej bukti ini tidak merangkumi butiran tahap setiap lesen (nombor lesen, nama produk, bentuk dos, atau teks indikasi yang diluluskan) — semua medan yang bersesuaian telah dikembalikan kosong. Butiran ini perlu ditarik daripada sumber NPRA secara langsung sebelum jadual tahap lesen dapat dihasilkan.
-
----
-
-## Sitotoksisiti
-
-Everolimus adalah ejen antineoplastik (digunakan merentasi karsinoma sel buah pinggang, kanser payudara, dan indikasi onkologi lain), jadi bahagian ini digunakan.
-
-| Item | Kandungan |
-|------|----------|
-| Klasifikasi Sitotoksisiti | Terapi sasaran (perencat mTOR), berdasarkan kelas farmakolojik ubat yang diketahui — dokumentasi MOA institusional terperinci adalah jurang data yang ditandakan dalam pakej bukti ini |
-| Risiko Penekanan Sumsum Tulang | Sila rujuk amaran dan pencegahan dalam risalah pakej |
-| Klasifikasi Emetogenisiti | Sila rujuk amaran dan pencegahan dalam risalah pakej |
-| Item Pemantauan | Sila rujuk amaran dan pencegahan dalam risalah pakej |
-| Perlindungan Pengendalian | Sila rujuk amaran dan pencegahan dalam risalah pakej |
+| Perkara | Kandungan |
+|------|------|
+| Klasifikasi Sitotoksisiti | Terapi sasaran (perencat mTOR); bukan kemoterapi sitotoksik konvensional |
+| Risiko Mielosupresi | Sederhana (ulasan ketoksikan melaporkan mielosupresi sebagai kesan sampingan lazim; neutropenia dan trombositopenia turut tersenarai dalam graf pengetahuan) |
+| Klasifikasi Emetogenisiti | Rendah (berdasarkan kategori ubat; sila sahkan dengan sisipan bungkusan) |
+| Item Pemantauan | Hitung darah penuh (CBC), fungsi hati dan buah pinggang, glukosa darah, profil lipid dan tanda-tanda stomatitis |
+| Perlindungan Pengendalian | Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan bungkusan serta garis panduan pengendalian ubat antineoplastik institusi |
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk risalah pakej untuk maklumat keselamatan. Pakej bukti ini menandakan ketiadaan amaran label TFDA/NPRA dan kontraindikasi sebagai jurang data **Penyekat** (DG001) — bermaksud data keselamatan pada masa ini tidak dapat menyokong ulasan keselamatan mandatori S1 — dan pertanyaan interaksi ubat-ubat mengembalikan tiada hasil.
+- **Kontraindikasi daripada graf pengetahuan TxGNN (bukan teks label):** kegagalan hati, penyakit buah pinggang, penyakit hati, penyakit pundi hempedu, trombositopenia, neutropenia, leukopenia, agranulositosis, anemia, hiperglisemia, diabetes mellitus, ketoasidosis diabetik, hipertrigliseridemia, hiperlipidemia (termasuk familial), penyakit paru interstisial, kegagalan jantung kongestif, efusi perikardium, sindrom hemolitik-uremik, purpura trombositopenik, stomatitis, limfoma (termasuk limfoma sistem saraf pusat primer) dan kanser tertentu. Senarai ini mencerminkan isyarat risiko dan perlu disahkan dengan sisipan bungkusan sebelum digunakan secara klinikal.
+- **Interaksi ubat:** Sebanyak 100 interaksi direkodkan, dan 20 daripadanya diperiksa.
+  - **Utama (Major):** amfoterisin B (termasuk kompleks lipid), aprepitant, deksametason dan klaritromisin.
+  - **Sederhana (Moderate):** ubat diabetes seperti metformin, akarbosa, perencat DPP-4 (alogliptin, linagliptin), perencat SGLT2 (kanagliflozin, dapagliflozin, empagliflozin), agonis GLP-1 (albiglutid, dulaglutid), glimepirida dan klorpropamida. Simetidin, eliglustat dan eluxadolin juga tergolong dalam kategori ini.
+  - **Kecil (Minor):** zink sulfat.
+- **Kesan sampingan yang direkodkan dalam literatur:** stomatitis, ruam, keletihan, hiperglisemia, hiperlipidemia dan mielosupresi.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tunda**
+**Keputusan: Proceed with Guardrails (Teruskan dengan Langkah Kawalan)**
 
-**Nisbah:**
-Bukti keberkesanan untuk everolimus dalam kanser payudara HR+/HER2− adalah solid (L2 — satu ujian Fasa 3 RCT pelopor yang selesai dan direplikasi dengan baik, BOLERO-2, ditambah pangkalan ujian dan kesusasteraan sokongan yang besar), tetapi jurang Penyekat dalam amaran label TFDA/NPRA dan kontraindikasi bermaksud ulasan keselamatan mandatori S1 tidak dapat diteruskan lagi, dan teks indikasi lesen Malaysia juga tidak tersedia untuk mengesahkan pelabelan tempatan semasa.
+**Rasional:**
+- Mekanisme mTOR jelas relevan, dan literatur terbit termasuk BOLERO-2, PrE0102 dan meta-analisis menyokong penggunaan dalam kanser payudara HR+/HER2- lanjutan. Namun everolimus belum berdaftar di Malaysia, dan data keselamatan peringkat label tidak tersedia.
+- Bukti bagi tetapan lain (triple-negatif, HER2+, adjuvan) masih berpunca daripada ujian kecil, ditamatkan awal atau belum selesai. Skor TxGNN 0.00% juga tidak memberi sokongan tambahan.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Ambil dan analisa risalah pakej NPRA (仿單) PDF untuk amaran/kontraindikasi (tutup DG001, Penyekat)
-- Ambil perincian MOA DrugBank (tutup DG002)
-- Isi perincian tahap setiap lesen (nombor lesen, nama produk, bentuk dos, teks indikasi yang diluluskan) untuk 8 produk berdaftar
-- Lengkapkan pertanyaan interaksi ubat-ubat (pada masa ini `not_found`)
-- Setelah ulasan keselamatan S1 tidak lagi disekat, nilaikan semula — memandangkan bukti keberkesanan yang sedia ada, calon ini adalah padanan yang kuat untuk "Teruskan Dengan Pengawal"
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisipan bungkusan rasmi NPRA (amaran dan kontraindikasi) untuk menjalankan saringan keselamatan.
+- Pengesahan tahap bukti L1 dengan penerbitan utama BOLERO-2 dan keputusan ujian Fasa 3 yang sedang berjalan.
+- Data mekanisme tindakan terperinci daripada DrugBank bagi memperkukuh analisis kaitan mekanistik.
+- Pelan keselamatan: pemantauan stomatitis, jangkitan, kesan metabolik (glukosa dan lipid), CBC, serta semakan interaksi ubat, dengan pertimbangan pemantauan kepekatan ubat.
+- Penilaian laluan pendaftaran dan kelulusan di Malaysia, memandangkan tiada pendaftaran sedia ada.
 
+**Nota tentang ramalan lain:** Ramalan lain bagi everolimus ialah karsinoma sel renal (termasuk sel jernih) dan skerosis tuberos, kedua-duanya dengan bukti Fasa 3 dan keputusan yang sama, iaitu Proceed with Guardrails. Bagi karsinoma sel renal, everolimus kebanyakannya berfungsi sebagai pembanding dan telah dikatasi oleh agen yang lebih baharu. Ramalan situs inversus hanya disokong satu laporan kes yang sebenarnya berkaitan skerosis tuberos, tanpa kaitan mekanistik, jadi keputusannya ialah Hold.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

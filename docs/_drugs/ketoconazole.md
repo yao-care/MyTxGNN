@@ -2,7 +2,7 @@
 layout: default
 title: Ketoconazole
 parent: Medium Evidence (L3)
-nav_order: 418
+nav_order: 437
 evidence_level: L3
 indication_count: 5
 ---
@@ -29,88 +29,86 @@ Tahap bukti: **L3** | Indikasi diramal: **5**
 
 </div>
 
-# Ketoconazole: Daripada Jangkitan Kulat kepada Chromomycosis
+# Ketoconazole: Daripada Infeksi Kulat Kulit kepada Kromomikosis (Chromomycosis)
 
 ## Ringkasan Satu Ayat
 
-Ketoconazole ialah antifungal imidazol yang aktif melalui mulut dan secara sejarah digunakan terhadap pelbagai jangkitan kulat. Ramalan paling tinggi kedudukan bagi model TxGNN ialah **Chromomycosis**, penyakit kulat subkutan yang jarang dan mengakibatkan kecacatan, dengan **0 ujian klinikal berdaftar** dan **20 penerbitan** — kebanyakannya siri kes dan ulasan daripada tahun 1980-an — yang pada masa ini menyokong arah ini.
+Ketoconazole ialah antikulat azol oral dan topikal yang pada asalnya digunakan untuk pelbagai infeksi kulat pada kulit dan mukosa, seperti tinea pedis, dermatitis seboroik dan kandidiasis.
+Model TxGNN meramalkan ia mungkin berkesan untuk **kromomikosis**.
+Sokongan buktinya terhad: **tiada ujian klinikal** didaftarkan dan terdapat **20 penerbitan** (kebanyakannya laporan kes, siri kes dan ulasan dari tahun 1980-an).
 
 ---
 
-## Gambaran Keseluruhan Pantas
+## Gambaran Keseluruhan
 
-| Item | Kandungan |
-|------|----------|
-| Petunjuk Asal | Tidak tersedia — 5 rekod lesen NPRA dalam pek ini tidak mempunyai teks petunjuk yang diisi, dan data MOA/petunjuk DrugBank ditandakan sebagai jurang data |
-| Petunjuk Baru Diramal | Chromomycosis |
-| Skor Ramalan TxGNN | 0.00% (medan skor mengembalikan 0.0 untuk semua 5 calon dalam pek ini; kedudukan mencerminkan urutan pangkat TxGNN, bukan magnitud skor) |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Tinea pedis, dermatitis seboroik, kandidiasis kutaneus dan oral, pityriasis versicolor, histoplasmosis, aspergilosis dan lain-lain (berdasarkan graf pengetahuan TxGNN; tiada teks indikasi lesen tempatan) |
+| Indikasi Baharu yang Diramalkan | Kromomikosis (chromomycosis) |
+| Skor Ramalan TxGNN | 0.00% |
 | Tahap Bukti | L3 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 33 |
-| Keputusan yang Disyorkan | Teruskan dengan Penjaga |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan terperinci tidak tersedia (ditandakan sebagai jurang data DG002, keterukan High). Berdasarkan kesusasteraan yang disertakan dalam pek bukti ini, ketoconazole ialah derivatif imidazol yang aktif melalui mulut yang mengganggu sintesis ergosterol kulat dalam membran sel (PMID 6309466), dan ia telah diluluskan secara bersejarah oleh FDA untuk pelbagai jangkitan kulat — termasuk kandidosis, coccidioidomycosis, histoplasmosis, **dan chromomycosis itu sendiri** (PMID 6301794).
+Ketoconazole merencat enzim lanosterol 14-alfa-demetilase (CYP51) pada kulat. Enzim ini diperlukan untuk menghasilkan ergosterol, iaitu sterol utama pada membran sel kulat. Apabila ergosterol berkurangan, membran sel kulat terganggu dan pertumbuhan kulat terencat.
 
-Chromomycosis ialah mycosis subkutan kronik yang disebabkan oleh kulat dematiaceous (berubah warna) seperti *Fonsecaea pedrosoi* dan spesies *Phialophora*. Organisma ini termasuk dalam spektrum antifungal ketoconazole yang diketahui, dan rasional pek itu sendiri (`repurposing_rationale.mechanistic_link`) menerangkan pautan mekanistik sebagai langsung. Walau bagaimanapun, tiada ujian klinikal telah pernah didaftarkan untuk kombinasi ini — bukti sokongan terhad sepenuhnya kepada siri kes, laporan kes, dan ulasan daripada tahun 1980-an (PMID 6252105, 6298285, 3842101).
+Kromomikosis ialah infeksi kulat kronik pada kulit dan tisu subkutaneus. Puncanya kulat berpigmen (dematiaceous) seperti *Fonsecaea* dan *Cladophialophora*, yang bergantung pada ergosterol. Mekanisme ketoconazole oleh itu munasabah secara biologi. Ujian kerentanan in vitro terhadap isolat *Fonsecaea pedrosoi* turut menunjukkan ketoconazole antara agen yang paling aktif.
 
-Juga penting untuk diperhatikan bahawa panduan rawatan semasa telah banyak melampaui ketoconazole untuk petunjuk ini: kertas 2025 dalam pek yang sama ini (PMID 40183549) menyatakan itraconazole kini dianggap terapi lini pertama untuk chromoblastomycosis, dengan terbinafine, voriconazole, dan posaconazole sebagai alternatif. Ini harus meredakan antusiasme meskipun rasional yang mekanistik langsung.
+Perlu diperhatikan bahawa kromomikosis **sudah tersenarai** dalam indikasi asal ketoconazole menurut graf pengetahuan, jadi ini bukan pengalihan guna yang benar-benar baharu. Bukti klinikal terhad kepada siri kes dan ulasan dari 1980-an, termasuk rejimen gabungan ketoconazole dengan 5-fluorocytosine. Itraconazole kemudiannya menjadi azol pilihan utama.
 
 ---
 
 ## Bukti Ujian Klinikal
 
-Pada masa ini tiada ujian klinikal yang berkaitan didaftarkan.
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|------|------|------|---------|
-| [6301794](https://pubmed.ncbi.nlm.nih.gov/6301794/) | 1983 | Ulasan | Drug Intell Clin Pharm | Mengesahkan kelulusan bersejarah FDA bagi ketoconazole untuk chromomycosis dalam antara mycoses lain |
-| [6309466](https://pubmed.ncbi.nlm.nih.gov/6309466/) | 1982 | Ulasan | Clinical Pharmacy | Mengulas farmakologi/mekanisme (perencatan sintesis ergosterol), penggunaan klinikal, dan DDIs |
-| [6252105](https://pubmed.ncbi.nlm.nih.gov/6252105/) | 1980 | Siri Kes | Int J Dermatol | 7 kes chromomycosis dalam kalangan 47 pesakit yang dirawat dengan ketoconazole lisan 200–400 mg/hari |
-| [6298285](https://pubmed.ncbi.nlm.nih.gov/6298285/) | 1983 | Siri Kes | J Am Acad Dermatol | Kombinasi ketoconazole + 5-fluorocytosine berjaya selepas monoterapi ketoconazole gagal; sinergi in vitro ditunjukkan terhadap *Fonsecaea pedrosoi* |
-| [3842101](https://pubmed.ncbi.nlm.nih.gov/3842101/) | 1985 | Laporan Kes | Ceylon Med J | Rawatan chromomycosis dengan kombinasi ketoconazole + 5-fluorocytosine |
-| [6325087](https://pubmed.ncbi.nlm.nih.gov/6325087/) | 1984 | Ulasan | Connecticut Medicine | Ulasan ketoconazole umum |
-| [3325708](https://pubmed.ncbi.nlm.nih.gov/3325708/) | 1987 | Ulasan | Med Cutan Ibero Lat Am | Kes chromomycosis 25 tahun (Mozambique); prognosis buruk meskipun ketoconazole/amphotericin |
-| [6255545](https://pubmed.ncbi.nlm.nih.gov/6255545/) | 1980 | Siri Kes | Rev Infect Dis | Ringkasan ringkas rawatan ketoconazole merentasi paracoccidioidomycosis, kandidosis, chromomycosis, lobomycosis, mycetoma |
-| [8077517](https://pubmed.ncbi.nlm.nih.gov/8077517/) | 1994 | Ulasan | J Am Acad Dermatol | Mengulas rawatan mycoses subkutan/dalam tropika termasuk chromoblastomycosis |
-| [20952879](https://pubmed.ncbi.nlm.nih.gov/20952879/) | 1995 | Ulasan | Indian J Dermatol Venereol Leprol | Kes chromoblastomycosis 28 tahun dengan penglibatan pelbagai organ meskipun ketoconazole dan amphotericin B |
-
----
-
-## Maklumat Pasaran Malaysia
-
-Perincian peringkat lesen (nama produk, bentuk dos, teks petunjuk yang diluluskan) tidak diisi untuk mana-mana rekod sampel 5 dalam pek bukti ini. Daftar mengesahkan **33 jumlah lesen NPRA** untuk ketoconazole dengan status pasaran keseluruhan **✓ Dipasarkan**.
+|------|-----|------|------|---------|
+| [14708965](https://pubmed.ncbi.nlm.nih.gov/14708965/) | 2003 | Ulasan | Journal of Chemotherapy | Ulasan epidemiologi, manifestasi klinikal dan terapi infeksi kulat dematiaceous, termasuk kromoblastomikosis |
+| [8077517](https://pubmed.ncbi.nlm.nih.gov/8077517/) | 1994 | Ulasan | J Am Acad Dermatol | Ulasan rawatan mikosis tropika, termasuk kromoblastomikosis |
+| [6252105](https://pubmed.ncbi.nlm.nih.gov/6252105/) | 1980 | Siri kes | Int J Dermatol | Ketoconazole oral 200–400 mg/hari sehingga 90 hari digunakan dalam beberapa mikosis, termasuk 7 kes kromomikosis |
+| [6298285](https://pubmed.ncbi.nlm.nih.gov/6298285/) | 1983 | Siri kes | J Am Acad Dermatol | Kes kromomikosis kaki yang gagal dengan ketoconazole sahaja tetapi berjaya dirawat dengan ketoconazole + 5-fluorocytosine; in vitro menunjukkan sinergi |
+| [3842101](https://pubmed.ncbi.nlm.nih.gov/3842101/) | 1985 | Laporan kes | Ceylon Med J | Rawatan kromomikosis dengan gabungan ketoconazole dan 5-fluorocytosine |
+| [4026348](https://pubmed.ncbi.nlm.nih.gov/4026348/) | 1985 | Laporan kes | Arch Dermatol | Kromomikosis bertindak balas terhadap eksisi tempatan dan ketoconazole; protothecosis yang menyerupai relaps tidak bertindak balas terhadap ketoconazole |
+| [6295149](https://pubmed.ncbi.nlm.nih.gov/6295149/) | 1983 | Siri kes | Am J Med | 21 pesakit kandidiasis mukokutaneus kronik dirawat jangka panjang; semua bertindak balas, termasuk enam pesakit dengan dermatofitosis atau kromomikosis serentak |
+| [15189187](https://pubmed.ncbi.nlm.nih.gov/15189187/) | 2004 | Kajian in vitro | Mycoses | Antara enam antikulat yang diuji terhadap isolat *F. pedrosoi*, ketoconazole dan terbinafine paling aktif |
+| [3325708](https://pubmed.ncbi.nlm.nih.gov/3325708/) | 1987 | Laporan kes | Med Cutan Ibero Lat Am | Kes kromomikosis 25 tahun yang tidak berjaya dirawat dengan 5-fluorocytosine dan ketoconazole; prognosis lemah |
+| [20952879](https://pubmed.ncbi.nlm.nih.gov/20952879/) | 1995 | Laporan kes | Indian J Dermatol Venereol Leprol | Kes kromoblastomikosis berpanjangan yang akhirnya maut walaupun diberi amfoterisin B dan ketoconazole |
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan. (Amaran utama, kontraindikasi, dan data DDI semuanya ditandakan sebagai jurang data dalam pek ini — termasuk jurang keterukan **Blocking** pada amaran label TFDA/NPRA, DG001.)
+Data yang terkumpul untuk laporan ini tidak mengandungi teks amaran atau kontraindikasi daripada sisipan pakej. Maklumat di bawah datang daripada graf pengetahuan dan pangkalan data interaksi.
+
+- **Kontraindikasi (daripada graf pengetahuan TxGNN, bukan teks label):** sindrom QT panjang (termasuk jenis familial), torsades de pointes, penyakit hati, penyakit pundi hempedu, insufisiensi adrenokortikal / penyakit Addison, atrofi kulit, telangiektasis, penyakit kapilari, telangiektasia hemoragik herediter, penyakit vaskular periferi, klaudikasi berselang-seli, penyakit arteri periferi dan akloridria.
+- **Interaksi ubat:** 100 interaksi direkodkan. Antara yang dipaparkan, interaksi **Major** ialah dengan loperamide, triamcinolone dan budesonide. Interaksi **Moderate** termasuk famotidine, ranitidine, omeprazole, rabeprazole, hydrocortisone, dexamethasone, betamethasone, pioglitazone, aprepitant, alosetron, atropine, hyoscyamine, methscopolamine dan bisacodyl. Interaksi **Minor** ialah dengan amfoterisin B (termasuk kompleks lipid).
+- **Konteks keselamatan:** dalam literatur, ketoconazole oral dikaitkan dengan hepatotoksisiti, pemanjangan QT dan kesan endokrin, dan sebab itu azol lain telah banyak menggantikannya.
 
 ---
 
-## Kesimpulan dan Langkah Berikutnya
+## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Teruskan dengan Penjaga**
+**Keputusan: Hold**
 
-**Rasional:**
-Pautan mekanistik antara ketoconazole dan kulat dematiaceous adalah langsung, dan bukti siri kes bersejarah menunjukkan manfaat klinikal. Walau bagaimanapun, bukti sudah ketinggalan zaman (sebelum 1990), tiada ujian klinikal telah pernah didaftarkan, dan panduan moden memilih itraconazole sebagai terapi lini pertama — jadi mana-mana laluan penjaga harus memerlukan pemeriksaan kesan komparatif terkini terhadap piawaian penjagaan semasa.
+**Justifikasi:**
+- Bukti untuk kromomikosis terhad kepada laporan kes, siri kes dan ulasan lama dari 1980-an, tanpa ujian klinikal berdaftar. Itraconazole telah menggantikan ketoconazole sebagai azol pilihan, dan profil risiko-faedah ketoconazole oral kurang menggalakkan. Ketoconazole juga tidak dipasarkan di Malaysia (0 pendaftaran), dan data amaran serta kontraindikasi daripada sisipan pakej belum tersedia.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Amaran sisipan pakej TFDA/NPRA dan kontraindikasi (jurang Blocking, DG001) — diperlukan sebelum mana-mana skrin keselamatan S1
-- Pengesahan mekanisme tindakan DrugBank (jurang keterukan High, DG002)
-- Teks petunjuk lesen Malaysia yang diisi (semua rekod sampel 5 pada masa ini kosong)
-- Perbandingan piawaian penjagaan semasa terhadap itraconazole/terbinafine diberi PMID 40183549
-
-**Nota:** Pek ini juga mengandungi 4 petunjuk calon lain untuk ketoconazole dengan bukti yang dinilai secara bebas — terutamanya **tinea pedis** (L1, S3, "Teruskan dengan Penjaga," disokong oleh 5 ujian Fasa 3 yang telah selesai, satu dengan n=831) dan **paracoccidioidomycosis** (L2, S2, disokong oleh RCT, PMID 12230222). Mereka membawa bukti yang lebih kuat secara material daripada chromomycosis dan mungkin menjamin penilaian berasingan jika matlamatnya adalah untuk mengutamakan mengikut kekuatan bukti dan bukannya urutan pangkat TxGNN.
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisipan pakej NPRA (amaran dan kontraindikasi) untuk saringan keselamatan.
+- Data mekanisme tindakan yang lebih terperinci daripada sumber rujukan ubat.
+- Perbandingan terus dengan itraconazole bagi menilai nilai tambah ketoconazole.
+- Pengesahan status pendaftaran dan formulasi yang tersedia di Malaysia.
+- Pelan pemantauan keselamatan (fungsi hati, EKG/QT dan interaksi ubat) sekiranya penggunaan sistemik dipertimbangkan.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

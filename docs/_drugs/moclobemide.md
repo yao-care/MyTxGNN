@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Moclobemide
-parent: High Evidence (L1-L2)
-nav_order: 488
-evidence_level: L2
+parent: Low Evidence (L4-L5)
+nav_order: 510
+evidence_level: L5
 indication_count: 2
 ---
 
 # Moclobemide
 {: .fs-9 }
 
-Tahap bukti: **L2** | Indikasi diramal: **2** 
+Tahap bukti: **L5** | Indikasi diramal: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,89 +29,88 @@ Tahap bukti: **L2** | Indikasi diramal: **2**
 
 </div>
 
-# Moclobemide: Daripada Kemurungan kepada Agorafobia
+# Moclobemide: Daripada Gangguan Kebimbangan kepada Agorafobia
 
 ## Ringkasan Satu Ayat
 
-Moclobemide adalah perencat monoamin oksidase-A yang dapat dipulihkan dan selektif (RIMA) yang telah ditetapkan untuk rawatan kemurungan dan gangguan kebimbangan sosial. Model TxGNN meramalkan ia mungkin berkesan untuk **Agorafobia** (biasanya muncul sebagai gangguan panik dengan agorafobia), dengan **12 penerbitan** — termasuk dua ujian terkawal rawak — kini menyokong arah ini, walaupun tiada ujian klinikal yang berdaftar untuk petunjuk khusus ini.
+Moclobemide ialah perencat monoamin oksidase A yang boleh balik (RIMA), pada asalnya digunakan untuk gangguan kebimbangan, gangguan neurotik dan gangguan distimik.
+Model TxGNN meramalkan ia mungkin berkesan untuk **agorafobia**,
+dengan **0 percubaan klinikal berdaftar** tetapi **10 penerbitan** yang menyokong arah ini, termasuk 2 RCT (percubaan terkawal rawak).
 
 ---
 
-## Gambaran Keseluruhan Cepat
+## Gambaran Ringkas
 
-| Perkara | Kandungan |
-|------|----------|
-| Petunjuk Asal | Kemurungan / Gangguan Kebimbangan Sosial (berdasarkan kesusasteraan kelas ubat; teks petunjuk yang didaftar TFDA tidak tersedia dalam pakej bukti ini) |
-| Petunjuk Baru Diramal | Agorafobia |
+| Item | Kandungan |
+|------|------|
+| Indikasi Asal | Gangguan kebimbangan, gangguan neurotik, gangguan distimik (berdasarkan graf pengetahuan TxGNN) |
+| Indikasi Baharu yang Diramalkan | Agorafobia |
 | Skor Ramalan TxGNN | 99.43% |
-| Aras Bukti | L2 |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 1 |
-| Keputusan yang Disyorkan | Teruskan dengan Jaga-jaga |
+| Tahap Bukti | L1 (mengikut penilaian dalam data yang dikumpulkan; lihat nota di bahagian Kesimpulan) |
+| Status Pasaran Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia dalam pakej bukti ini (jurang data). Berdasarkan klasifikasi farmakoloji yang diketahui, moclobemide adalah perencat yang dapat dipulihkan bagi monoamin oksidase A (RIMA), yang meningkatkan kepekatan sinapsis serotonin, norepinefrin, dan dopamin — asas farmakoloji yang diterima untuk merawat gangguan berkaitan kebimbangan dan panik.
+Moclobemide ialah perencat boleh balik monoamin oksidase A (MAO-A). Dengan menghalang MAO-A, ia meningkatkan paras serotonin, noradrenalin dan dopamin pada sinaps. Data farmakologi yang dikumpulkan mengesahkan sasaran MAO-A dan MAO-B. Butiran mekanisme tindakan asal tidak tersedia dalam rekod, maka penjelasan ini berdasarkan farmakologi am.
 
-Agorafobia secara klinikal dan diagnostik berkait rapat dengan gangguan panik, sering berlaku bersama atau diklasifikasikan bersama (gangguan panik dengan agorafobia). Kebanyakan kesusasteraan yang tersedia mengkaji moclobemide khususnya dalam "gangguan panik" daripada agorafobia sebagai diagnosis terpencil, menjadikan ini lanjutan yang tidak langsung tetapi koheren secara mekanisme bagi aktiviti ansiolitik/antidepresan yang diketahuinya daripada mekanisme terapeutik yang baru.
+Agorafobia lazimnya berlaku bersama gangguan panik dan merupakan sebahagian daripada spektrum gangguan kebimbangan, iaitu kategori indikasi asal moclobemide. Oleh itu, mekanisme monoaminergik yang berkesan untuk kebimbangan secara teorinya boleh digunakan untuk agorafobia.
 
-Dua ujian RCT dua buta secara langsung menyokong keberkesanan dalam gangguan panik dengan agorafobia (membandingkan moclobemide terhadap CBT dan terhadap klomipramin), mengukuhkan kemukinan ramalan TxGNN walaupun tiada ujian telah menyasarkan agorafobia sebagai titik akhir yang berdiri sendiri.
-
----
-
-## Bukti Ujian Klinikal
-
-Pada masa ini tiada ujian klinikal berkaitan yang berdaftar.
+Skor TxGNN yang tinggi (0.994) selari dengan isyarat literatur, tetapi ia hanyalah ramalan model dan bukan bukti klinikal.
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Percubaan Klinikal
+
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
+
+---
+
+## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|------|------|------|---------|
-| [10448444](https://pubmed.ncbi.nlm.nih.gov/10448444/) | 1999 | RCT | The British Journal of Psychiatry | Ujian plasebo kawalan rawak berkaitan moclobemide, CBT, dan kombinasi mereka dalam gangguan panik dengan agorafobia |
-| [10361962](https://pubmed.ncbi.nlm.nih.gov/10361962/) | 1999 | RCT | European Archives of Psychiatry and Clinical Neuroscience | Ujian RCT dua buta pelbagai pusat: moclobemide 450mg/hari vs klomipramin 150mg/hari dalam gangguan panik dengan/tanpa agorafobia (n=135) |
-| [16850261](https://pubmed.ncbi.nlm.nih.gov/16850261/) | 2006 | Kohort/RCT | Metabolic Brain Disease | Perbandingan SPECT sitalopramin vs moclobemide pada aliran darah otak semasa beristirahat dalam gangguan kebimbangan sosial |
-| [8313401](https://pubmed.ncbi.nlm.nih.gov/8313401/) | 1993 | Ulasan | Clinical Neuropharmacology | Perencat MAO-A yang dapat dipulihkan (brofaromin, moclobemide) berkesan dalam gangguan panik dengan interaksi lebih sedikit daripada MAOI lama |
-| [1498904](https://pubmed.ncbi.nlm.nih.gov/1498904/) | 1992 | Ulasan | Clinical Neuropharmacology | Perencat MAO-A yang dapat dipulihkan dalam gangguan panik |
-| [28867934](https://pubmed.ncbi.nlm.nih.gov/28867934/) | 2017 | Ulasan | Dialogues in Clinical Neuroscience | Garis panduan rawatan untuk gangguan kebimbangan termasuk gangguan panik/agorafobia |
-| [32002937](https://pubmed.ncbi.nlm.nih.gov/32002937/) | 2020 | Ulasan | Advances in Experimental Medicine and Biology | Ubat psikofarmakoloji semasa dan baru untuk gangguan kebimbangan termasuk gangguan panik/agorafobia |
-| [7717094](https://pubmed.ncbi.nlm.nih.gov/7717094/) | 1995 | Ulasan | Acta Psychiatrica Scandinavica Suppl. | Moclobemide ditunjukkan berkesan vs pembanding pelbagai (amitriptilina, imipramin, fluoksatin, dll.) merentasi 4 ujian kawalan plasebo |
-| [2248064](https://pubmed.ncbi.nlm.nih.gov/2248064/) | 1990 | Ulasan | Acta Psychiatrica Scandinavica Suppl. | MAOI berkesan dalam kajian kawalan gangguan panik dengan agorafobia, fobia sosial, dan keadaan berkaitan |
-| [7892341](https://pubmed.ncbi.nlm.nih.gov/7892341/) | 1995 | Laporan Kes | Psychiatrische Praxis | Gangguan panik dengan agorafobia yang tahan rawatan bertindak balas kepada imipramin + moclobemide + terapi tingkah laku gabungan |
+|------|-----|------|------|---------|
+| [10448444](https://pubmed.ncbi.nlm.nih.gov/10448444/) | 1999 | RCT | The British Journal of Psychiatry | Percubaan terkawal plasebo secara rawak membandingkan moclobemide, terapi kognitif-tingkah laku dan gabungan keduanya dalam gangguan panik dengan agorafobia |
+| [10361962](https://pubmed.ncbi.nlm.nih.gov/10361962/) | 1999 | RCT | Eur Arch Psychiatry Clin Neurosci | Moclobemide 450 mg/hari dibandingkan dengan klomipramin 150 mg/hari dalam gangguan panik dengan atau tanpa agorafobia (135 pesakit, double-blind) |
+| [28867934](https://pubmed.ncbi.nlm.nih.gov/28867934/) | 2017 | Ulasan | Dialogues Clin Neurosci | Cadangan rawatan untuk gangguan kebimbangan, termasuk gangguan panik/agorafobia, berdasarkan garis panduan dan meta-analisis |
+| [32002937](https://pubmed.ncbi.nlm.nih.gov/32002937/) | 2020 | Ulasan | Adv Exp Med Biol | Cadangan rawatan psikofarmakologi untuk gangguan kebimbangan berdasarkan garis panduan dan kajian sistematik |
+| [8313401](https://pubmed.ncbi.nlm.nih.gov/8313401/) | 1993 | Ulasan | Clin Neuropharmacol | Perencat MAO-A boleh balik (brofaromine, moclobemide) dalam gangguan panik; lebih diterima baik dan tanpa sekatan diet |
+| [7717094](https://pubmed.ncbi.nlm.nih.gov/7717094/) | 1995 | Ulasan | Acta Psychiatr Scand Suppl | Ulasan RIMA dalam gangguan mental; moclobemide menunjukkan aktiviti antidepresan dalam 4 percubaan terkawal plasebo |
+| [16850261](https://pubmed.ncbi.nlm.nih.gov/16850261/) | 2006 | Kajian pengimejan perbandingan | Metab Brain Dis | Perbandingan kesan citalopram dan moclobemide terhadap perfusi otak ketika rehat dalam gangguan kebimbangan sosial |
+| [12006898](https://pubmed.ncbi.nlm.nih.gov/12006898/) | 2002 | Model/Ulasan | J Clin Psychopharmacol | Model tindak balas terapeutik dalam gangguan panik dengan moclobemide sebagai contoh |
+| [7954487](https://pubmed.ncbi.nlm.nih.gov/7954487/) | 1994 | Kajian perintis label terbuka | Clin Neuropharmacol | Moclobemide 300–600 mg/hari selama 12 minggu pada 35 pesakit fobia sosial; penambahbaikan konsisten |
+| [7892341](https://pubmed.ncbi.nlm.nih.gov/7892341/) | 1995 | Laporan kes | Psychiatrische Praxis | Gangguan panik refraktori dengan agorafobia berjaya dirawat dengan imipramin, moclobemide dan terapi tingkah laku |
 
 ---
 
-## Maklumat Pasaran Malaysia
+## Keselamatan
 
-Moclobemide didaftar dan dipasarkan di Malaysia (1 pendaftaran aktif), tetapi nombor lesen terperinci, nama produk, bentuk dos, pengilang, dan teks petunjuk yang diluluskan tidak tersedia dalam pakej bukti ini (jurang data — memerlukan carian produk NPRA).
+- **Interaksi Ubat / Farmakologi**: Moclobemide menyasarkan monoamin oksidase A (MAOA) dan monoamin oksidase B (MAOB) pada manusia. Data yang dikumpulkan tidak menyenaraikan interaksi dengan ubat lain secara khusus. Penggunaan bersama ubat serotonergik atau simpatomimetik perlu dinilai dengan teliti kerana mekanisme perencatan MAO.
 
----
-
-## Pertimbangan Keselamatan
-
-Sila rujuk sisipan bungkusan untuk maklumat keselamatan. (Amaran TFDA/NPRA, kontraindikasi, dan data interaksi ubat ditandakan sebagai jurang data dalam pakej bukti ini — lihat di bawah.)
+Sila rujuk sisipan pek untuk maklumat keselamatan lengkap, termasuk amaran dan kontraindikasi.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Teruskan dengan Jaga-jaga**
+**Keputusan: Proceed with Guardrails (Teruskan dengan Langkah Kawalan)**
 
-**Alasan:**
-Dua ujian RCT dan badan kesusasteraan ulasan yang menyokong menjalin sambungan yang koheren secara mekanis antara perencatan MAO-A moclobemide dan gangguan panik/agorafobia, tetapi tiada ujian agorafobia khusus yang wujud dan dokumentasi keselamatan kini hilang — tidak mencukupi untuk "Go" tanpa syarat tetapi terlalu didukung dengan baik untuk "Tahan."
+**Rasional:**
+- Dua RCT menyokong penggunaan moclobemide dalam gangguan panik dengan atau tanpa agorafobia, dan mekanismenya selari dengan indikasi kebimbangan asal. Namun, tiada percubaan berdaftar, kedua-dua RCT tidak menyasarkan agorafobia semata-mata, dan ubat ini tidak dipasarkan di Malaysia.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Amaran sisipan bungkusan TFDA/NPRA dan kontraindikasi (Jurang Pemblokiran — diperlukan sebelum penilaian keselamatan S1)
-- Dokumentasi mekanisme tindakan terperinci (MOA) daripada DrugBank
-- Teks petunjuk yang diluluskan kawal selia yang disahkan dan butir produk untuk pendaftaran Malaysia
-- Data interaksi ubat-ubat (DDI) (kini tidak dijumpai)
-- Kajian prospektif atau retrospektif yang khususnya menyasarkan agorafobia (daripada gangguan panik secara luas) sebagai titik akhir utama
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisipan pek dan data amaran/kontraindikasi (data keselamatan masih kosong dan menghalang saringan keselamatan)
+- Data mekanisme tindakan (MOA) terperinci daripada DrugBank
+- Pengesahan status pendaftaran dan ketersediaan produk di Malaysia (kini tiada pendaftaran NPRA)
+- Pengesahan hasil khusus agorafobia daripada kedua-dua RCT, dan pertimbangan percubaan klinikal yang menyasarkan agorafobia
+- Pelan pemantauan keselamatan, terutamanya interaksi dengan ubat serotonergik
 
-*Nota: Petunjuk calon kedua, "tortikollis paroksikal jinak ketika zaman bayi" (skor TxGNN 99.30%), tidak mempunyai sokongan kesusasteraan atau ujian klinikal dan tiada pautan mekanik yang munasabah — syorkan Tahan, mungkin ramalan graf pengetahuan positif palsu.*
+---
 
+**Nota tambahan:** Ramalan kedua TxGNN, *benign paroxysmal torticollis of infancy* (skor 99.30%), tidak mempunyai bukti klinikal atau literatur dan tiada pautan mekanisme yang disokong. Tahap buktinya ialah L5 dan keputusannya **Hold**.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

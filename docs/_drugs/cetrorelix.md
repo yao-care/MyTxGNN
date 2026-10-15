@@ -2,7 +2,7 @@
 layout: default
 title: Cetrorelix
 parent: Low Evidence (L4-L5)
-nav_order: 205
+nav_order: 210
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,75 +29,62 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Cetrorelix: Daripada Rangsangan Ovarium Terkontrol kepada Hipertrikosis (penyakit)
+# Cetrorelix: Daripada Rangsangan Ovari Terkawal kepada Hipertrikosis (Ramalan Model)
 
 ## Ringkasan Satu Ayat
 
-Cetrorelix ialah antagonis reseptor GnRH yang ditubuhkan untuk mencegah lonjakan LH prematur semasa rangsangan ovarium terkontrol dalam teknologi reproduktif berbantuan (ART). Model TxGNN meramalkan ia mungkin berkesan untuk **Hipertrikosis (penyakit)**, tetapi pada masa kini **0 percubaan klinikal** dan **0 penerbitan** menyokong arah ini — ini adalah isyarat ramalan model tulen tanpa pengesahan luaran.
+Cetrorelix ialah antagonis reseptor GnRH yang digunakan untuk menghalang lonjakan LH pramatang pada wanita yang menjalani rangsangan ovari terkawal dalam rawatan kesuburan.
+Model TxGNN meramalkan ia mungkin berkesan untuk **hipertrikosis**, tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong ramalan ini; ia hanyalah ramalan model (tahap bukti L5).
 
 ---
 
 ## Gambaran Keseluruhan Pantas
 
 | Item | Kandungan |
-|------|-----------|
-| Petunjuk Asal | Tidak didokumenkan dalam teks lesen NPRA Malaysia (semua medan petunjuk kosong dalam data sumber); mengikut farmakologi yang ditubuhkan, cetrorelix digunakan untuk mencegah lonjakan LH prematur semasa rangsangan ovarium terkontrol (ART) |
-| Petunjuk Baru yang Diramalkan | Hipertrikosis (penyakit) |
-| Skor Ramalan TxGNN | 99.98% (kedudukan 666) |
+|------|------|
+| Indikasi Asal | Menghalang lonjakan LH pramatang dalam rangsangan ovari terkawal untuk rawatan kesuburan (berdasarkan data farmakologi; tiada teks indikasi lulus daripada pendaftaran tempatan) |
+| Indikasi Baharu yang Diramalkan | Hipertrikosis (hypertrichosis) |
+| Skor Ramalan TxGNN | 99.98% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 3 |
-| Keputusan Disyorkan | Tahan |
+| Status Pasaran Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (Tahan) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa kini, data mekanisme tindakan terperinci tidak tersedia dalam pakej bukti. Berdasarkan farmakologi yang diketahui, cetrorelix ialah antagonis reseptor GnRH (hormon pelepas gonadotropin) yang menekan pelepasan LH/FSH hipofisis, dan keberkesanannya yang ditubuhkan dalam menyekat lonjakan LH prematur semasa rangsangan ovarium didokumenkan dengan baik.
+Cetrorelix ialah antagonis reseptor GnRH (GNRHR) berbentuk peptida. Ia menyekat isyarat GnRH di pituitari, lalu merendahkan rembesan LH dan FSH serta hormon steroid seks yang terhasil selepas itu. Data terperinci mengenai mekanisme tindakan asal tidak tersedia dalam data yang dikumpulkan untuk laporan ini; maklumat di atas diambil daripada data farmakologi sasaran.
 
-Pautan yang dicadangkan kepada hipertrikosis bergantung pada idea bahawa beberapa bentuk pertumbuhan rambut berlebihan didorong androgen, dan bahawa menekan steroidogenesis gonadal yang didorong gonadotropin boleh secara teorinya mengurangkan keluaran androgen. Walau bagaimanapun, laluan mekanistik ini lemah dan tidak spesifik: pendekatan klinikal yang ditubuhkan untuk hirsutime/hipertrikosis berkaitan androgen menggunakan **agonis GnRH digabungkan dengan antiandrogen**, bukan antagonis GnRH sahaja. Tiada bukti mekanistik, pra-klinikal, atau klinikal dalam pakej bukti ini menyokong monoterapi antagonis untuk petunjuk ini.
+Hubungan mekanistik dengan hipertrikosis **lemah**. Pengurangan paras androgen secara teori boleh menjejaskan pertumbuhan rambut yang bergantung kepada androgen (hirsutisme), tetapi hipertrikosis pada umumnya tidak bergantung kepada androgen. Skor TxGNN yang tinggi hanyalah ramalan berasaskan graf tanpa data klinikal atau literatur yang menyokong.
 
-Memandangkan ketiadaan lengkap percubaan klinikal atau literatur, ramalan ini harus dianggap sebagai hipotesis yang dijana model daripada isyarat yang disokong bukti.
-
----
-
-## Bukti Percubaan Klinikal
-
-Pada masa kini tiada percubaan klinikal berkaitan yang berdaftar.
+Ramalan lain dalam kedudukan teratas juga tidak mempunyai sokongan bukti. Antaranya ialah hipertrikosis universalis kongenita jenis Ambras, sindrom malformasi dengan komponen gigi/periodontal, sindrom Dandy-Walker, kelainan batang rambut genetik terpencil, sindrom peredaran janin berterusan, trikomegali familial terpencil dan sindrom lebihan aromatase; kebanyakannya tidak mempunyai asas mekanistik yang munasabah. Dua ramalan yang lebih koheren dari sudut biologi, tetapi masih tanpa data klinikal, ialah:
+- **Pubertas pramatang pusat**: sekatan reseptor GnRH menindas LH/FSH secara langsung, dan ia munasabah dari segi farmakologi. Namun, data keselamatan pediatrik dan formulasi (suntikan bertindak pendek) tidak tersedia.
+- **Pubertas pramatang terhad lelaki secara familial**: kecacatan berpunca daripada mutasi pengaktifan LHCGR di hilir pituitari, jadi antagonis GnRH tidak dijangka berkesan.
 
 ---
 
-## Bukti Literatur
+## Keselamatan dan Pertimbangan
 
-Pada masa kini tiada literatur berkaitan yang tersedia.
+- **Interaksi Ubat**: Data yang dikumpulkan hanya menunjukkan interaksi farmakologi sasaran, iaitu reseptor GnRH₁ (gen GNRHR), tanpa senarai interaksi ubat-ubat klinikal.
+- Cetrorelix belum mantap penggunaannya pada neonat, yang menimbulkan kebimbangan keselamatan tambahan untuk ramalan seperti sindrom peredaran janin berterusan.
 
----
-
-## Maklumat Pasaran Malaysia
-
-Cetrorelix mempunyai 3 pendaftaran aktif dalam pangkalan data NPRA Malaysia (status pasaran: dipasarkan), tetapi pakej bukti tidak mengandungi nombor lesen, nama produk, bentuk dos, atau teks petunjuk yang diluluskan untuk pendaftaran ini — butiran tahap produk ini tidak dikembalikan oleh sumber data dan memerlukan pencarian langsung NPRA.
-
----
-
-## Pertimbangan Keselamatan
-
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
+Untuk maklumat amaran dan kontraindikasi, sila rujuk risalah maklumat produk.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold (Tahan)**
 
-**Alasan:**
-Ramalan tidak mempunyai percubaan klinikal atau literatur yang menyokong, dan mekanisme yang dicadangkan (antagonis GnRH sahaja) menyimpang daripada pendekatan antiandrogen + agonis GnRH yang ditubuhkan secara klinikal untuk hipertrikosis didorong androgen. Tahap bukti L5 (ramalan model sahaja) tidak memenuhi bar untuk maju ke semakan keselamatan.
+**Rasional:**
+- Ramalan hipertrikosis hanya berasaskan model (L5), tanpa percubaan klinikal atau literatur, dan hubungan mekanistiknya lemah. Ubat ini juga tidak dipasarkan di Malaysia.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Sisipan pakej TFDA/NPRA (amaran, kontraindikasi) — pada masa kini sebuah jurang data **Sekatan** (DG001)
-- Data mekanisme tindakan yang disahkan daripada DrugBank — pada masa kini sebuah jurang **Keterukan Tinggi** (DG002)
-- Kajian pra-klinikal atau mekanistik yang secara khusus menguji antagonis GnRH dalam pertumbuhan rambut didorong androgen
-- Mana-mana laporan kes klinikal atau percubaan dalam populasi hipertrikosis/hirsutime sebelum penilaian lanjut
-
+- Risalah maklumat produk NPRA untuk amaran dan kontraindikasi (jurang data yang menghalang penilaian keselamatan)
+- Data terperinci mekanisme tindakan (MOA) daripada DrugBank
+- Pencarian sistematik percubaan klinikal dan literatur bagi indikasi yang diramalkan
+- Jika ingin diteruskan, pertimbangkan pubertas pramatang pusat sebagai soalan penyelidikan yang lebih munasabah dari sudut mekanisme berbanding hipertrikosis, bersama data keselamatan pediatrik dan kesesuaian laluan pentadbiran
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

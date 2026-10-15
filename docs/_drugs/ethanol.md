@@ -2,7 +2,7 @@
 layout: default
 title: Ethanol
 parent: Low Evidence (L4-L5)
-nav_order: 327
+nav_order: 339
 evidence_level: L5
 indication_count: 2
 ---
@@ -29,104 +29,96 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Etanol: Dari Penggunaan Antiseptik/Disinfektan hingga Gangguan Migrain
+# Etanol: Daripada Tiada Indikasi Berdaftar kepada Gangguan Migrain
 
 ## Ringkasan Satu Ayat
 
-Etanol (DrugBank DB00898) ialah antiseptik/disinfektan topical yang digunakan secara meluas dan pelarut farmasikal; paket bukti tidak menyediakan teks indikasi yang disahkan oleh NPRA untuk pasaran Malaysia. Model TxGNN meramalkan kemungkinan peranan dalam **Gangguan Migrain** dengan skor tinggi (99.29%), tetapi arah ini **tidak disokong oleh bukti asas** — 32 ujian klinikal dan 20 penerbitan yang diambil adalah tidak berkaitan dengan etanol atau secara eksplisit mengenal pasti alkohol sebagai **pencetus** migrain, bukan rawatan.
+Etanol (ethanol) tidak mempunyai indikasi berdaftar di Malaysia berdasarkan data yang dikumpulkan untuk laporan ini, dan ia tidak dipasarkan di negara ini sebagai produk berlesen.
+Model TxGNN meramalkan ia mungkin berkesan untuk **gangguan migrain (migraine disorder)**,
+tetapi kini terdapat **0 percubaan klinikal** dan **20 penerbitan** yang tidak satu pun menyokong keberkesanan etanol sebagai rawatan migrain. Kebanyakan penerbitan menunjukkan etanol (alkohol) sebagai **pencetus** migrain.
 
 ---
 
-## Gambaran Ringkas
+## Gambaran Keseluruhan Ringkas
 
-| Item | Kandungan |
-|------|----------|
-| Indikasi Asal | Antiseptik/disinfektan, pelarut farmasikal (penggunaan umum yang dikenali — teks indikasi lesen NPRA tidak dikembalikan dalam paket bukti ini) |
-| Indikasi Baru Terduga | Gangguan Migrain |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Tiada data indikasi berdaftar |
+| Indikasi Baharu yang Diramal | Gangguan migrain (migraine disorder) |
 | Skor Ramalan TxGNN | 99.29% |
-| Tahap Bukti | L5 (ramalan model sahaja; tiada bukti klinikal/pemerhatian yang menyokong kesan terapi) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 11 |
-| Keputusan yang Disyorkan | **Tahan** |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data terperinci mekanisme tindakan etanol tidak tersedia dalam paket bukti ini (jurang data DG002). Berdasarkan pengetahuan farmakoloji umum, etanol ialah depresan CNS dan pemodulat enzim/reseptor (cth., potensiasi GABA-A, antagonis NMDA) yang digunakan secara klinikal terutamanya sebagai antiseptik topical, pelarut/pengawet, dan penawar untuk keracunan alkohol toksik — tidak satu pun yang mempunyai kaitan mekanistik yang ditegakkan dengan pencegahan atau rawatan migrain.
+Data terperinci mengenai mekanisme tindakan (MOA) etanol tidak tersedia buat masa ini. Etanol ialah sebatian yang telah lama dikenali, dan tiada indikasi asal yang direkodkan dalam data pendaftaran tempatan, maka hubungan antara indikasi asal dengan indikasi baharu tidak dapat dinilai.
 
-Secara kritikal, bukti yang dikumpulkan menunjuk ke arah **yang bertentangan** dengan ramalan TxGNN. Kajian mekanistik (PMID 37101198) menunjukkan bahawa metabolit etanol asetaldehida mengaktifkan reseptor CGRP dan laluan TRPA1 pada sel Schwann, mendorong allodynia periorbital seperti migrain dalam tikus — iaitu, etanol *mempromosikan* kesakitan seperti migrain dan bukannya meringankannya. Ulasan pelbagai (PMID 36373782, 41305669, 18231712) mengesahkan bahawa alkohol ialah pencetus migrain yang diiktiraf dengan baik dalam kira-kira satu pertiga daripada pesakit migrain, bukan agen terapi.
+Ramalan TxGNN yang tinggi (99.29%) berasal daripada model graf pengetahuan dan bukan daripada bukti klinikal. Kesusasteraan yang diperoleh menunjukkan etanol dan metabolitnya, asetaldehid, berkait dengan **pencetusan** migrain. Contohnya, kajian pada tikus menunjukkan asetaldehid mengaktifkan laluan reseptor CGRP dan TRPA1 pada sel Schwann sehingga menyebabkan alodinia mekanikal periorbital (PMID 37101198). Ini lebih menunjukkan kaitan biologi dengan migrain daripada kesan terapeutik. Kaitan tersebut mungkin menerangkan mengapa model meramalkan hubungan, tetapi arahnya berlawanan dengan penggunaan terapeutik.
 
-Skor TxGNN yang tinggi kemungkinan besar mencerminkan artifak graf pengetahuan: etanol dan migrain berlaku serentak sering dalam literatur kerana hubungan pencetus/komorbiditi mereka yang didokumentasikan dengan baik, yang mungkin telah disalah klasifikasikan oleh model sebagai hubungan *rawatan*. Ini harus diperlakukan sebagai bendera amaran dan bukannya pengesahan peluang repurposing yang tulen.
+Dalam sebahagian kajian, etanol hanya disebut sebagai pelarut atau bahan penambah penyerapan (contohnya dalam pembangunan sistem transdermal pizotifen) atau sebagai pelarut ekstrak tumbuhan, dan ini tidak membuktikan kesan anti-migrain etanol.
 
----
-
-## Bukti Ujian Klinikal
-
-Tiada daripada ujian yang diambil melibatkan etanol sebagai rawatan migrain. Berikut adalah ujian yang dikaji (Gred C) yang dipermukakan oleh carian — semua dinilai tidak berkaitan atau hanya bertepatan dengan istilah carian:
-
-| Nombor Ujian | Fasa | Status | Pendaftaran | Temuan Utama |
-|---------|------|------|------|---------|
-| [NCT05351086](https://clinicaltrials.gov/study/NCT05351086) | Fasa 1 | Selesai | 26 | Kajian keselamatan/PK PUR3100, tidak berkaitan dengan etanol |
-| [NCT06517446](https://clinicaltrials.gov/study/NCT06517446) | N/A | Merekrut | 48 | Pemulihan vestibular berasaskan VR, bukan farmakoloji, tidak berkaitan dengan etanol |
-| [NCT07207603](https://clinicaltrials.gov/study/NCT07207603) | N/A | Mendaftar dengan undangan | 1000 | Kajian kohort risiko kardiovaskular, bukan ujian rawatan migrain |
-| [NCT05454826](https://clinicaltrials.gov/study/NCT05454826) | N/A | Selesai | 26 | Aplikasi sejuk + latihan santai untuk migrain, bukan farmakoloji |
-| [NCT07297901](https://clinicaltrials.gov/study/NCT07297901) | N/A | Mendaftar dengan undangan | 30 | Program pernafasan/biofeedback berasaskan aplikasi, bukan farmakoloji |
-| [NCT02810015](https://clinicaltrials.gov/study/NCT02810015) | Fasa 2 | Tidak diketahui | 40 | Toksin botulinum untuk gangguan temporo-miosfasial, tidak berkaitan dengan etanol |
-| [NCT06197542](https://clinicaltrials.gov/study/NCT06197542) | N/A | Selesai | 54 | Teknik terapi manual untuk migrain, tidak berkaitan dengan etanol |
-| [NCT03757208](https://clinicaltrials.gov/study/NCT03757208) | N/A | Selesai | 113 | Pemuatan karbohidrat pra-operatif, tidak berkaitan dengan migrain atau etanol |
-| [NCT06263920](https://clinicaltrials.gov/study/NCT06263920) | N/A | Merekrut | 360 | Kohort epilepsi lewat permulaan/strok/demensia, tidak berkaitan dengan etanol |
-| [NCT00109083](https://clinicaltrials.gov/study/NCT00109083) | Fasa 2 | Selesai | 300 | RWJ-333369 ujian RCT dos-berjulat untuk profilaksis migrain — ubat penyiasat yang tidak berkaitan, bukan etanol |
-
-**Tiada ujian dalam paket bukti menguji etanol sebagai terapi migrain.**
+Ramalan kedua, **migrain dengan aura batang otak**, mempunyai skor 99.14% dan keadaan buktinya serupa.
 
 ---
 
-## Bukti Literatur
+## Bukti Percubaan Klinikal
 
-| PMID | Tahun | Jenis | Jurnal | Temuan Utama |
+Buat masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
+
+---
+
+## Bukti Kesusasteraan
+
+Tiada satu pun kajian di bawah menilai etanol sebagai rawatan migrain. Penerbitan berikut dipilih sebagai paling relevan; tiada RCT yang menguji etanol.
+
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [36373782](https://pubmed.ncbi.nlm.nih.gov/36373782/) | 2022 | Ulasan | Headache | Ulasan komprehensif tentang hubungan alkohol–migrain; alkohol dilaporkan secara konsisten sebagai pencetus sakit kepala, bukan agen terapi |
-| [41305669](https://pubmed.ncbi.nlm.nih.gov/41305669/) | 2025 | Ulasan | Nutrients | Mengulas alkohol sebagai pencetus untuk migrain dan sakit kepala jenis ketegangan; patofisiologi tidak jelas, tiada peranan terapi dikenal pasti |
-| [18231712](https://pubmed.ncbi.nlm.nih.gov/18231712/) | 2008 | Ulasan | J Headache Pain | Ulasan MEDLINE mengesahkan alkohol sebagai pencetus migrain yang diiktiraf dalam ~1/3 daripada pesakit |
-| [37101198](https://pubmed.ncbi.nlm.nih.gov/37101198/) | 2023 | Pra-klinikal/Mekanistik | J Biomed Sci | Metabolit etanol asetaldehida mengaktifkan reseptor CGRP/TRPA1 pada sel Schwann, menghasilkan allodynia seperti migrain dalam tikus — bukti mekanistik etanol memburuk, bukan meringankan, kesakitan seperti migrain |
-| [35063053](https://pubmed.ncbi.nlm.nih.gov/35063053/) | 2022 | Kohort/Tinjauan | Aerosp Med Hum Perform | Kajian pemerhatian sejarah migrain dalam juruterbang tentera; tidak berkaitan dengan rawatan etanol |
-| [19486361](https://pubmed.ncbi.nlm.nih.gov/19486361/) | 2010 | Persatuan Genetik | Headache | Polimorfisme gen ADH2 dan risiko migrain; genetik metabolisme alkohol, bukan bukti rawatan |
-| [36674807](https://pubmed.ncbi.nlm.nih.gov/36674807/) | 2023 | Persatuan Genetik | Int J Mol Sci | Varian gen LAG3/CD4 dan risiko migrain; tidak berkaitan dengan farmakologi etanol |
-| [29299688](https://pubmed.ncbi.nlm.nih.gov/29299688/) | 2018 | Persatuan Genetik | J Neural Transm | Polimorfisme gen reseptor GABA dan risiko migrain; tidak berkaitan dengan etanol |
-| [31792366](https://pubmed.ncbi.nlm.nih.gov/31792366/) | 2020 | Persatuan Genetik | Pharmacogenomics J | Polimorfisme gen NOS3 dan risiko migrain; tidak berkaitan dengan etanol |
-| [8681169](https://pubmed.ncbi.nlm.nih.gov/8681169/) | 1996 | Ulasan | Rev Neurol | Mengulas pencetus migrain diet termasuk minuman beralkohol; menyokong alkohol sebagai pencetus, bukan rawatan |
-
-**Corak keseluruhan: setiap penerbitan substantif mengkelaskan alkohol/etanol sebagai pencetus migrain atau pengubah risiko metabolik — tidak satu pun menyokong kesan terapi.**
+| [36373782](https://pubmed.ncbi.nlm.nih.gov/36373782/) | 2022 | Ulasan | Headache | Hubungan kompleks antara alkohol dengan migrain (alkohol dikenali sebagai pencetus) |
+| [37101198](https://pubmed.ncbi.nlm.nih.gov/37101198/) | 2023 | Praklinikal (tikus) | J Biomed Sci | Asetaldehid melalui CGRP/TRPA1 pada sel Schwann menyebabkan alodinia periorbital akibat etanol; relevan untuk migrain |
+| [19486361](https://pubmed.ncbi.nlm.nih.gov/19486361/) | 2010 | Kajian genetik kes-kawalan | Headache | Kajian kaitan genotip alkohol dehidrogenase 2 (ADH2) dengan risiko migrain |
+| [42153521](https://pubmed.ncbi.nlm.nih.gov/42153521/) | 2026 | Ulasan skop | Drug Alcohol Rev | Isyarat CGRP dalam gangguan penggunaan alkohol; CGRP ialah sasaran terapeutik migrain |
+| [35063053](https://pubmed.ncbi.nlm.nih.gov/35063053/) | 2022 | Kajian pemerhatian | Aerosp Med Hum Perform | Sejarah dan hasil migrain dalam kalangan juruterbang tentera dan pakar bedah penerbangan |
+| [26196273](https://pubmed.ncbi.nlm.nih.gov/26196273/) | 2015 | Praklinikal | Int J Pharm | Etanol digunakan sebagai penambah penyerapan dalam sistem transdermal pizotifen (bukan kesan terapeutik etanol) |
+| [40785517](https://pubmed.ncbi.nlm.nih.gov/40785517/) | 2025 | Praklinikal | Cephalalgia | Pembukaan saluran kalium sensitif-ATP mengaktifkan nosiseptor meninges; implikasi untuk asal migrain |
 
 ---
 
-## Maklumat Pasaran Malaysia
+## Maklumat Pasaran di Malaysia
 
-Paket bukti mengesahkan 11 pendaftaran NPRA wujud untuk etanol (status pasaran: Dipasarkan), tetapi butiran peringkat lesen (nombor pendaftaran, nama produk, bentuk dos, pengilang, teks indikasi yang disahkan) tidak dikembalikan oleh pertanyaan dan tidak boleh dilaporkan di sini tanpa fabrikasi.
+Tiada lesen berdaftar ditemui di Malaysia bagi etanol dalam data yang dikumpulkan.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan paket untuk maklumat keselamatan. (Tiada data amaran utama, kontraindikasi, atau interaksi ubat-ubatan dikembalikan untuk etanol dalam paket bukti ini — ini ditandai sebagai jurang data **Penyumbatan** (DG001) yang mesti diselesaikan sebelum sebarang penilaian keselamatan dapat diteruskan.)
+- **Interaksi Ubat**: Pertanyaan interaksi ubat selesai dengan 100 rekod. Antara yang utama:
+  - **Major**: Eluxadoline
+  - **Moderate**: Acarbose, Albiglutide, Acetohexamide, Alogliptin, aspirin (asid asetilsalisilik), atropin, bupropion, canagliflozin, chlorpropamide, clidinium, dapagliflozin, dexfenfluramine, dicyclomine, diethylpropion, dronabinol, dulaglutide, empagliflozin
+  - **Minor**: Doxycycline, cimetidine
+
+  Banyak interaksi melibatkan ubat antidiabetes (risiko hipoglisemia) dan ubat antikolinergik atau perencat sistem saraf pusat.
+
+Maklumat amaran dan kontraindikasi tidak tersedia; sila rujuk sisipan pakej untuk maklumat keselamatan lanjut. Perlu diingat juga bahawa etanol sendiri dilaporkan sebagai pencetus migrain, jadi ini adalah isu keselamatan penting bagi indikasi yang diramalkan.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
-**Alasan:**
-Skor TxGNN tinggi, tetapi setiap keping bukti klinikal dan literatur yang diambil membantah arah yang diramalkan — alkohol/etanol secara konsisten didokumentasikan sebagai **pencetus** migrain, dan satu kajian mekanistik menunjukkan ia secara aktif mempromosikan kesakitan seperti migrain melalui isyarat CGRP/TRPA1. Tiada ujian klinikal dalam paket bukti menguji etanol sebagai rawatan migrain. Digabungkan dengan ketiadaan penyumbatan data keselamatan/label (DG001) dan data mekanisme tindakan (DG002), pada masa ini tiada asas untuk memajukan calon ini.
+**Justifikasi:**
+- Ramalan TxGNN tinggi, tetapi tiada percubaan klinikal dan tiada kajian yang menunjukkan etanol merawat migrain. Bukti sedia ada lebih menunjukkan etanol sebagai pencetus migrain. Etanol juga tidak berdaftar di Malaysia, maka tahap bukti ialah L5.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Amaran sisipan paket TFDA/NPRA dan kontraindikasi (DG001, penyumbatan — diperlukan sebelum sebarang skrin keselamatan S1)
-- Data mekanisme tindakan yang disahkan daripada DrugBank (DG002)
-- Sebarang penyelidikan utama (jika ia wujud) yang secara khusus menguji etanol sebagai terapi migrain, dan bukannya sebagai pencetus atau faktor komorbiditi
-- Butiran pendaftaran NPRA peringkat lesen (nama produk, bentuk dos, teks indikasi yang disahkan) untuk 11 pendaftaran Malaysia
-- Ulasan semula tepi graf pengetahuan TxGNN yang mendasari ramalan ini, memandangkan isyarat mekanistik dan epidemiologi yang kuat bertentangan
-
+- Data mekanisme tindakan (MOA) yang lengkap
+- Maklumat amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menghalang penilaian keselamatan)
+- Penilaian semula arah hubungan etanol–migrain (pencetus berbanding terapeutik) sebelum sebarang kajian lanjut
+- Kajian praklinikal atau klinikal yang menunjukkan kesan terapeutik, termasuk laluan pentadbiran yang sesuai
+- Pelan pemantauan keselamatan, terutama kerana interaksi ubat dan sifat etanol sebagai pencetus migrain
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

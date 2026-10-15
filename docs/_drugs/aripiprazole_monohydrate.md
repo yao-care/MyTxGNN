@@ -2,7 +2,7 @@
 layout: default
 title: Aripiprazole Monohydrate
 parent: Low Evidence (L4-L5)
-nav_order: 86
+nav_order: 90
 evidence_level: L5
 indication_count: 0
 ---

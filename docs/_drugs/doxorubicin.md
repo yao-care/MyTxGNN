@@ -2,15 +2,15 @@
 layout: default
 title: Doxorubicin
 parent: High Evidence (L1-L2)
-nav_order: 298
-evidence_level: L1
+nav_order: 307
+evidence_level: L2
 indication_count: 10
 ---
 
 # Doxorubicin
 {: .fs-9 }
 
-Tahap bukti: **L1** | Indikasi diramal: **10** 
+Tahap bukti: **L2** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,113 +29,129 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Doxorubicin: Daripada Kemoterapi Antrasklin Spektrum Luas kepada Sarcoma Ewing
+# Doxorubicin: Daripada Kemoterapi Antrasiklin kepada Sarkoma Ewing
 
 ## Ringkasan Satu Ayat
 
-Doxorubicin adalah agen antineoplastik antrasklin klasik yang digunakan dalam pelbagai tumor hematologi dan tumor padat. Model TxGNN meramalkan ia mungkin berkesan untuk **Sarcoma Ewing**, dan ini telah dicerminkan dengan kuat dalam amalan dunia nyata — dengan **48 uji klinis** (termasuk pelbagai RCT Fasa 3 yang telah selesai) dan **20 penerbitan** yang menyokong rejimen yang mengandungi doxorubicin sebagai sebahagian daripada standard penjagaan untuk tumor ini.
+Doxorubicin ialah ubat kemoterapi sitotoksik daripada kumpulan antrasiklin yang digunakan secara meluas dalam rawatan kanser.
+Model TxGNN meramalkan ia mungkin berkesan untuk **Sarkoma Ewing**. Ramalan ini disokong oleh **30 percubaan klinikal** dan **20 penerbitan** yang dikumpulkan untuk laporan ini. Doxorubicin sudah menjadi tulang belakang rejimen berbilang ubat standard bagi penyakit ini.
 
 ---
 
-## Gambaran Keseluruhan Pantas
+## Gambaran Ringkas
 
-| Item | Kandungan |
+| Perkara | Kandungan |
 |------|------|
-| Petunjuk Asal | Tidak dinyatakan dalam rekod lesen NPRA yang ada; doxorubicin adalah agen antineoplastik antrasklin yang telah ditubuhkan digunakan merentasi kanser payudara, limfoma, leukemia, dan sarcoma jaringan lembut/tulang |
-| Petunjuk Baharu Diramalkan | Sarcoma Ewing |
-| Skor Ramalan TxGNN | 99.90% (pangkat 2126) |
-| Tahap Bukti | L1 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 8 |
-| Keputusan Disyorkan | Teruskan dengan Pengawasan |
+| Petunjuk Asal | Tiada data petunjuk yang diluluskan daripada pendaftaran tempatan |
+| Petunjuk Baharu yang Diramalkan | Sarkoma Ewing |
+| Skor Ramalan TxGNN | 99.90% |
+| Tahap Bukti | L2 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Pagar Pelindung) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan DrugBank yang terperinci tidak dikembalikan untuk calon ini (jurang data DG002). Berdasarkan farmakologi yang telah ditubuhkan, doxorubicin adalah antrasklin yang menyerap ke dalam DNA dan merencat topoisomerase II, menghalang replikasi dan transkripsi DNA dalam sel yang cepat membelah — mekanisme sitotoksik spektrum luas yang berkenaan merentasi banyak histologi tumor.
+Doxorubicin ialah racun topoisomerase II dan penyelit (*intercalator*) DNA. Ia menyebabkan pecahan dua-untai DNA dan spesies oksigen reaktif dalam sel tumor yang membahagi dengan pantas. Data terperinci mengenai mekanisme tindakan asal ubat ini tidak terdapat dalam data yang dikumpulkan, tetapi mekanisme sitotoksik di atas diketahui umum.
 
-Mekanisme ini secara langsung berkaitan dengan sarcoma Ewing, tumor sel kecil bulat agresif yang cepat proliferasi di tulang dan jaringan lembut. Doxorubicin bukan calon novel untuk penyakit ini dalam erti kata penyelidikan — ia sudah **komponen teras rejimen VDC/IE standard** (vincristine, doxorubicin, cyclophosphamide, bergilir dengan ifosfamide/etoposide) yang digunakan di seluruh dunia dalam sarcoma Ewing terlokalisir dan metastatik.
+Sarkoma Ewing ialah tumor tulang dan tisu lembut yang agresif, terutamanya pada kanak-kanak, remaja dan dewasa muda. Doxorubicin sudah menjadi komponen rejimen standard VDC/IE, iaitu vincristine, doxorubicin dan cyclophosphamide yang berselang-seli dengan ifosfamide dan etoposide. Maka ramalan ini lebih tepat dilihat sebagai pengesahan penggunaan sedia ada daripada penemuan indikasi yang benar-benar baharu.
 
-Ramalan TxGNN dengan demikian mencerminkan realiti klinis yang sudah divalidasi daripada hipotesis repurposing yang spekulatif: data percubaan Fasa 2/3 beberapa dekad (COG, EURO-E.W.I.N.G., EICESS) secara konsisten menggunakan backbone berasaskan doxorubicin sebagai sama ada lengan eksperimental atau kawalan, mengesahkan kedua-dua kebolehcapaian mekanik dan utiliti klinis.
+Mekanisme kerosakan DNA doxorubicin sesuai dengan sifat tumor ini yang membiak pantas dan peka kepada kemoterapi. Namun doxorubicin digunakan dalam protokol berbilang ubat, bukan sebagai monoterapi.
 
 ---
 
-## Bukti Uji Klinis
+## Bukti Percubaan Klinikal
+
+Sebanyak 30 percubaan dikenal pasti. Jadual berikut menyenaraikan 10 yang paling relevan.
 
 | Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT01231906](https://clinicaltrials.gov/study/NCT01231906) | Fasa 3 | Selesai | 642 | RCT menguji penambahan vincristine-topotecan-cyclophosphamide kepada rejimen 5-ubat standard (incl. doxorubicin) untuk sarcoma Ewing bukan metastatik |
-| [NCT02306161](https://clinicaltrials.gov/study/NCT02306161) | Fasa 3 | Aktif, tidak mengambil pesakit | 312 | RCT menambah antibodi IGF-1R ganitumab kepada backbone kemoterapi standard yang mengandungi doxorubicin untuk sarcoma Ewing metastatik |
-| [NCT01696669](https://clinicaltrials.gov/study/NCT01696669) | Fasa 2 | Selesai | 43 | Kajian prospektif kemoterapi intensif (berasaskan doxorubicin), pembedahan dan radioterapi pada kanak-kanak/orang dewasa muda dengan sarcoma Ewing |
-| [NCT00002643](https://clinicaltrials.gov/study/NCT00002643) | Fasa 2 | Selesai | 130 | Kemoterapi kombinasi yang mengandungi doxorubicin untuk sarcoma Ewing/PNET baru dikesan metastatik |
-| [NCT00006734](https://clinicaltrials.gov/study/NCT00006734) | Fasa 3 | Selesai | 587 | RCT intensifikasi kemoterapi melalui pemampatan selang digabungkan dengan radioterapi/pembedahan |
-| [NCT02063022](https://clinicaltrials.gov/study/NCT02063022) | Fasa 3 | Selesai | 278 | RCT rawatan standard vs. rawatan intensifikasi dos dalam sarcoma Ewing bukan metastatik |
-| [NCT06820957](https://clinicaltrials.gov/study/NCT06820957) | Fasa 2/3 | Aktif, tidak mengambil pesakit | 437 | Membandingkan penambahan vincristine-irinotecan-regorafenib kepada VDC/IE standard (berasaskan doxorubicin) dalam sarcoma Ewing metastatik yang baru dikesan |
-| [NCT00003667](https://clinicaltrials.gov/study/NCT00003667) | Fasa 2 | Selesai | N/A | Kajian rawak vincristine, doxorubicin, cyclophosphamide, dexrazoxane ± ImmTher dalam sarcoma Ewing berisiko tinggi |
-| [NCT02727387](https://clinicaltrials.gov/study/NCT02727387) | Fasa 2 | Selesai | 155 | Kemoterapi dos tinggi, radioterapi dan pemerkatan cyclophosphamide/anti-COX2 untuk sarcoma Ewing metastatik |
-| [NCT00020566](https://clinicaltrials.gov/study/NCT00020566) | Fasa 3 | Tidak diketahui | 1200 | EURO-E.W.I.N.G.99 — percubaan antarabangsa besar kemoterapi kombinasi ± radioterapi/pembedahan ± transplantasi sel stem |
+| [NCT00006734](https://clinicaltrials.gov/study/NCT00006734) | Fasa 3 | Selesai | 587 | Perbandingan rawak rejimen kemoterapi (pemampatan selang) dengan radioterapi dan/atau pembedahan dalam sarkoma Ewing |
+| [NCT01231906](https://clinicaltrials.gov/study/NCT01231906) | Fasa 3 | Selesai | 642 | Penambahan vincristine-topotecan-cyclophosphamide kepada rawatan standard 5 ubat (termasuk doxorubicin) dalam sarkoma Ewing tanpa metastasis |
+| [NCT02063022](https://clinicaltrials.gov/study/NCT02063022) | Fasa 3 | Selesai | 278 | Rawatan piawai berbanding rawatan intensif dalam sarkoma Ewing tanpa metastasis |
+| [NCT02306161](https://clinicaltrials.gov/study/NCT02306161) | Fasa 3 | Aktif, tidak merekrut | 312 | Penambahan ganitumab (antibodi IGF-1R) kepada kemoterapi berbilang ubat termasuk doxorubicin dalam sarkoma Ewing bermetastasis |
+| [NCT00020566](https://clinicaltrials.gov/study/NCT00020566) | Fasa 3 | Tidak diketahui | 1200 | EURO-E.W.I.N.G.99: kemoterapi dengan atau tanpa radioterapi/pembedahan dan pemindahan sel stem |
+| [NCT00003667](https://clinicaltrials.gov/study/NCT00003667) | Fasa 2 | Selesai | Tiada data | Vincristine, doxorubicin, cyclophosphamide dengan dexrazoxane, dengan atau tanpa ImmTher, dalam sarkoma Ewing berisiko tinggi |
+| [NCT00002466](https://clinicaltrials.gov/study/NCT00002466) | Fasa 2 | Selesai | Tiada data | Rejimen cyclophosphamide, doxorubicin, vincristine, etoposide dan ifosfamide, diikuti pembedahan dan radioterapi |
+| [NCT00038142](https://clinicaltrials.gov/study/NCT00038142) | Fasa 2 | Dihentikan | 46 | VAC dengan dexrazoxane (perlindungan jantung), dengan atau tanpa ImmTher, dalam sarkoma Ewing berisiko tinggi; pendaftaran kecil |
+| [NCT00002643](https://clinicaltrials.gov/study/NCT00002643) | Fasa 2 | Selesai | 130 | Terapi intensif dengan sokongan faktor pertumbuhan untuk tumor Ewing bermetastasis semasa diagnosis |
+| [NCT00949325](https://clinicaltrials.gov/study/NCT00949325) | Fasa 1/2 | Selesai | 24 | Temsirolimus dengan doxorubicin liposom dalam sarkoma berulang; populasi sarkoma campuran |
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Literatur
+
+Sebanyak 20 penerbitan dikenal pasti. Jadual berikut menyenaraikan 10 yang paling relevan.
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [12594313](https://pubmed.ncbi.nlm.nih.gov/12594313/) | 2003 | RCT | NEJM | Kajian penanda aras menunjukkan penambahan ifosfamide/etoposide kepada kemoterapi standard (berasaskan doxorubicin) meningkatkan kemandulan dalam sarcoma Ewing yang baru dikesan |
-| [36522207](https://pubmed.ncbi.nlm.nih.gov/36522207/) | 2022 | RCT | Lancet | Percubaan EE2012 membandingkan dua rejimen kemoterapi standard antarabangsa untuk sarcoma Ewing yang baru dikesan |
-| [31952545](https://pubmed.ncbi.nlm.nih.gov/31952545/) | 2020 | Protokol RCT | Trials | Protokol EURO EWING 2012 membandingkan rejimen induksi/penyatuan untuk keluarga tumor sarcoma Ewing |
-| [36669140](https://pubmed.ncbi.nlm.nih.gov/36669140/) | 2023 | RCT | J Clin Oncol | COG AEWS1221 — penambahan ganitumab kepada kemoterapi selang termampat dalam sarcoma Ewing metastatik yang baru dikesan |
-| [35427190](https://pubmed.ncbi.nlm.nih.gov/35427190/) | 2022 | RCT | J Clin Oncol | Penyatuan treosulfan/melphalan dos tinggi vs. rawatan standard dalam sarcoma Ewing metastatik berisiko tinggi |
-| [31553693](https://pubmed.ncbi.nlm.nih.gov/31553693/) | 2019 | RCT | J Clin Oncol | Kemoterapi dos tinggi vs. kemoterapi standard + radiasi paru dalam sarcoma Ewing dengan metastase pulmonari |
-| [20152770](https://pubmed.ncbi.nlm.nih.gov/20152770/) | 2010 | Ulasan | Lancet Oncology | Gambaran keseluruhan kemajuan rawatan sarcoma Ewing, mencatat kemoterapi multiagen telah menaikkan kemandulan daripada ~10% kepada ~75% dalam penyakit terlokalisir |
-| [37403815](https://pubmed.ncbi.nlm.nih.gov/37403815/) | 2023 | Ulasan/Garis Panduan | Cancer | Syor konsensus Lembaga Tumor Sarcoma Ewing Kebangsaan tentang pengurusan penjagaan standard |
-| [26304893](https://pubmed.ncbi.nlm.nih.gov/26304893/) | 2015 | Ulasan | J Clin Oncol | Pengurusan semasa dan arah masa depan dalam terapi pelbagai disiplin sarcoma Ewing |
-| [25993235](https://pubmed.ncbi.nlm.nih.gov/25993235/) | 2015 | Ulasan | Buku Pendidikan ASCO | Gambaran keseluruhan terapi sistematik untuk osteosarcoma dan sarcoma Ewing, termasuk rejimen berasaskan antrasklin |
+| [12594313](https://pubmed.ncbi.nlm.nih.gov/12594313/) | 2003 | RCT | N Engl J Med | Menguji sama ada penambahan ifosfamide dan etoposide kepada rejimen standard memperbaik kelangsungan hidup dalam sarkoma Ewing yang baru didiagnos |
+| [36522207](https://pubmed.ncbi.nlm.nih.gov/36522207/) | 2022 | RCT | Lancet | EE2012: percubaan Fasa 3 label terbuka membandingkan dua strategi kemoterapi Eropah dan AS |
+| [36669140](https://pubmed.ncbi.nlm.nih.gov/36669140/) | 2023 | RCT | J Clin Oncol | Percubaan Fasa 3 ganitumab bersama kemoterapi pemampatan selang dalam sarkoma Ewing bermetastasis |
+| [23091096](https://pubmed.ncbi.nlm.nih.gov/23091096/) | 2012 | RCT | J Clin Oncol | Kemoterapi pemampatan selang (VDC berselang-seli dengan IE) dalam sarkoma Ewing setempat |
+| [31952545](https://pubmed.ncbi.nlm.nih.gov/31952545/) | 2020 | RCT (protokol) | Trials | Protokol EURO EWING 2012 yang membandingkan dua rejimen induksi/penyatuan |
+| [37403815](https://pubmed.ncbi.nlm.nih.gov/37403815/) | 2023 | Ulasan | Cancer | Saranan konsensus Lembaga Tumor Sarkoma Ewing Kebangsaan mengenai penjagaan piawai |
+| [26304893](https://pubmed.ncbi.nlm.nih.gov/26304893/) | 2015 | Ulasan | J Clin Oncol | Pengurusan semasa: kemoterapi neoadjuvan dan adjuvan berintensiti tinggi dengan pembedahan dan/atau radioterapi |
+| [20152770](https://pubmed.ncbi.nlm.nih.gov/20152770/) | 2010 | Ulasan | Lancet Oncol | Kelangsungan hidup meningkat daripada kira-kira 10% (sebelum kemoterapi) kepada kira-kira 75% untuk penyakit setempat |
+| [25993235](https://pubmed.ncbi.nlm.nih.gov/25993235/) | 2015 | Ulasan | ASCO Educ Book | Terapi sistemik untuk osteosarkoma dan sarkoma Ewing; rawatan kuratif memerlukan gabungan terapi sistemik dan kawalan tempatan |
+| [37651654](https://pubmed.ncbi.nlm.nih.gov/37651654/) | 2023 | Kajian susulan | J Clin Oncol | Hasil jangka panjang kemoterapi pemampatan selang dalam kajian AEWS0031 |
 
 ---
 
-## Maklumat Pasaran Malaysia
+## Kebimbangan Kardiotoksisiti (Maklumat Daripada Literatur)
 
-Rekod NPRA mengesahkan doxorubicin dipasarkan di Malaysia dengan **8 pendaftaran aktif**, tetapi maklumat peringkat lesen (nombor pendaftaran, nama produk, bentuk dos, pengilang, teks petunjuk yang diluluskan) tidak dikembalikan dalam cabutan data ini dan memerlukan pencarian langsung NPRA untuk melengkapkan.
+Kajian retrospektif ([12767102](https://pubmed.ncbi.nlm.nih.gov/12767102/), *Cancer*, 2003) menunjukkan bahawa kegagalan jantung kongestif berkaitan doxorubicin bergantung pada dos kumulatif. Anggaran terdahulu ialah sekitar 7% pada dos kumulatif 550 mg/m².
 
 ---
 
-## Sitotoksisiti
+## Sitotoksisiti (Ubat Antineoplastik)
 
-Doxorubicin adalah agen kemoterapi sitotoksik konvensional (kelas antrasklin), memenuhi kriteria klasifikasi antineoplastik.
-
-| Item | Kandungan |
+| Perkara | Kandungan |
 |------|------|
-| Klasifikasi Sitotoksisiti | Sitotoksik konvensional (kelas Antrasklin; penyerap DNA / penghambat topoisomerase II) |
-| Risiko Supresi Sumsum Tulang | Tinggi — antrasklin diketahui menyebabkan neutropenia dan trombositopenia pembatasan dos |
-| Klasifikasi Emetogenisitas | Tinggi (dos doxorubicin IV standard yang digunakan dalam rejimen sarcoma/leukemia diklasifikasikan sebagai sangat emetogenik) |
-| Item Pemantauan | CBC dengan pembezaan, LVEF/ekografi jantung atau MUGA (toksisitas jantung dos kumulatif), fungsi hati dan buah pinggang |
-| Perlindungan Pengendalian | Ya — memerlukan pengendalian di bawah langkah pencegahan ubat sitotoksik/berbahaya (perangkat pemindahan sistem tertutup, PPE, protokol tumpahan) |
+| Klasifikasi Sitotoksisiti | Sitotoksik konvensional (antrasiklin; perencat topoisomerase II dan penyelit DNA) |
+| Risiko Penekanan Sumsum Tulang | Tinggi (neutropenia merupakan toksisiti yang lazim; berdasarkan pengetahuan umum kelas antrasiklin) |
+| Klasifikasi Emetogenisiti | Sederhana hingga tinggi (bergantung pada dos dan rejimen gabungan) |
+| Item Pemantauan | Hitung darah lengkap (CBC) dengan pembezaan, fungsi hati dan buah pinggang, penilaian fungsi jantung (LVEF/ekokardiogram), dan jejak dos antrasiklin kumulatif |
+| Perlindungan Pengendalian | Perlu mematuhi peraturan pengendalian ubat sitotoksik |
 
-Bukti sokongan: toksisitas jantung dos kumulatif (kegagalan jantung kongestif) didokumentasikan dalam analisis retrospektif besar ([PMID 12767102](https://pubmed.ncbi.nlm.nih.gov/12767102/)), memperkuat keperluan pemantauan jantung bersama pemantauan hematologi.
+Untuk butiran lanjut, sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pakej.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Data amaran bersumber TFDA/NPRA, kontraindikasi, dan interaksi obat-obat tidak tersedia dalam cabutan bukti ini (jurang data DG001, bertanda **Menghalang** — ini mesti diselesaikan sebelum penilaian keselamatan formal S1 dapat diselesaikan). Sila rujuk risalah produk untuk maklumat keselamatan rasmi dalam interim.
+**Interaksi Ubat**: Sebanyak 100 interaksi direkodkan. Antara yang dipaparkan dalam data, interaksi paling penting ialah:
+- **Major (Utama)**: dolasetron, cisapride, papaverine
+- **Moderate (Sederhana)**: ondansetron, granisetron, palonosetron, aprepitant, rolapitant, dexamethasone, clarithromycin, levofloxacin, famotidine, loperamide, eliglustat, metreleptin, troglitazone, picosulfuric acid, polyethylene glycol (3350 dengan elektrolit)
+- **Minor (Kecil)**: ascorbic acid, metronidazole
+
+Banyak interaksi melibatkan ubat anti-mual dan ubat sokongan yang lazim digunakan bersama kemoterapi. Semakan farmasi klinikal amat disyorkan.
+
+Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Teruskan dengan Pengawasan**
+**Keputusan: Proceed with Guardrails**
 
 **Rasional:**
-Rejimen yang mengandungi doxorubicin telah divalidasi secara meluas sebagai terapi backbone penjagaan standard untuk sarcoma Ewing merentasi pelbagai RCT Fasa 3 yang telah selesai dan berterusan (bukti L1), menjadikan ini kurang hypothesis repurposing novel daripada pengesahan amalan klinis yang telah ditubuhkan. Walau bagaimanapun, data keselamatan label TFDA/NPRA yang hilang (amaran, kontraindikasi, DDI) adalah jurang **menghalang** yang mesti ditutup sebelum ini boleh bergerak melepasi skrin keselamatan awal.
+- Doxorubicin ialah komponen rejimen berbilang ubat standard untuk sarkoma Ewing. Terdapat banyak percubaan Fasa 2 dan 3 serta rawak, dan literatur klinikal yang kukuh. Namun percubaan Fasa 3 menguji pengubahsuaian rejimen, bukan sumbangan doxorubicin secara tersendiri, jadi tahap bukti dinilai secara konservatif pada L2.
+- Doxorubicin tidak didaftarkan di Malaysia, jadi penggunaan tempatan memerlukan laluan pendaftaran atau akses khas.
+
+**Pagar pelindung yang disyorkan:**
+- Hadkan dos antrasiklin kumulatif dan pantau fungsi jantung secara berkala (dexrazoxane telah diuji sebagai perlindungan jantung).
+- Gunakan dalam protokol berbilang ubat yang telah ditetapkan, bukan sebagai monoterapi.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Amaran risalah produk TFDA/NPRA dan kontraindikasi (DG001, Menghalang)
-- Data mekanisme tindakan yang disahkan DrugBank (DG002)
-- Butiran lesen khusus Malaysia (nombor pendaftaran, bentuk dos, teks petunjuk yang diluluskan bagi setiap produk)
-- Pengesahan status reimbursement/formulari tempatan untuk penggunaan sarcoma Ewing
+- Amaran, kontraindikasi dan maklumat keselamatan daripada sisipan pakej NPRA (kini tiada; ini merupakan jurang data yang menyekat saringan keselamatan).
+- Data mekanisme tindakan terperinci daripada DrugBank.
+- Penjelasan status pendaftaran dan laluan akses doxorubicin di Malaysia.
+- Pelan pemantauan keselamatan untuk populasi khusus (terutamanya pesakit pediatrik dan remaja).
 
+**Nota tambahan:** Antara petunjuk lain yang diramalkan, karsinoma sel kecil paru-paru mempunyai bukti L1 (termasuk percubaan Fasa 3 NCT02566993), tetapi peranan doxorubicin kebanyakannya sebagai rawatan barisan kedua atau bergantung pada gabungan. Petunjuk lain mempunyai bukti terhad dan berstatus Hold atau Research Question.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -2,7 +2,7 @@
 layout: default
 title: Griseofulvin
 parent: Low Evidence (L4-L5)
-nav_order: 375
+nav_order: 394
 evidence_level: L5
 indication_count: 5
 ---
@@ -29,63 +29,89 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Griseofulvin: Dari Dermatomikosis ke Myiasis
+# Griseofulvin: Daripada Jangkitan Kulit Tinea kepada Miasis
 
 ## Ringkasan Satu Ayat
 
-Griseofulvin adalah agen antijamur yang sudah lama digunakan untuk merawat infeksi dermatomikosis (infeksi jamur pada kulit, rambut, dan kuku). Model TxGNN meramalkan ia mungkin berkesan untuk **Myiasis** (infestasi larva lalat pada tisu), namun arah ini kini disokong oleh **0 uji klinik** dan hanya **1 artikel literatur veterinar yang longgar berkait**.
+Griseofulvin ialah ubat antikulat yang pada asalnya digunakan untuk merawat pelbagai jangkitan dermatofit (tinea), seperti tinea pedis, tinea corporis, tinea unguium dan tinea barbae.
+Model TxGNN meramalkan ia mungkin berkesan untuk **miasis** (skor 99.41%), tetapi pada masa ini terdapat **0 percubaan klinikal** dan **0 penerbitan** yang menyokong arah ini. Ramalan ini hanya berasaskan model.
 
-## Gambaran Pantas
+---
+
+## Gambaran Keseluruhan Pantas
 
 | Item | Kandungan |
-|------|----------|
-| Indikasi Asal | Dermatomikosis (infeksi jamur kulit/rambut/kuku) — teks indikasi yang diluluskan TFDA tidak tersedia dalam pakej bukti semasa |
-| Indikasi Baru Dijangka | Myiasis |
+|------|------|
+| Indikasi Asal | Tinea pedis, tinea corporis, jangkitan tinea, tinea unguium, dermatofitosis kawasan lipat paha dan perianal, tinea barbae, dermatofitosis kulit kepala atau janggut |
+| Indikasi Baharu yang Diramalkan | Miasis (myiasis) |
 | Skor Ramalan TxGNN | 99.41% |
 | Tahap Bukti | L5 |
-| Status Pasaran Taiwan | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 6 |
-| Keputusan Disarankan | Tahan |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci daripada DrugBank tidak tersedia lagi untuk calon ini. Berdasarkan farmakoloji yang diketahui, griseofulvin mengikat mikrotubul jamur dan mengganggu gelendong mitotik semasa pembahagian sel jamur — mekanisme antijamur tanpa aktiviti antiparasit atau insektisid yang didokumenkan.
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, griseofulvin ialah antikulat yang mengganggu fungsi mikrotubul dan mitosis dalam dermatofit. Keberkesanannya terhadap tinea telah dibuktikan, tetapi tiada asas mekanistik yang jelas untuk menjangkakan ia berkesan terhadap miasis.
 
-Myiasis disebabkan oleh larva lalat yang menginfiltrasi tisu hidup; pengurusan standard adalah penyingkiran larva mekanik/bedah, dengan agen antiparasit seperti ivermektin digunakan secara tambahan. Tiada laluan biologi yang diketahui menghubungkan tindakan antijamur griseofulvin kepada pembunuhan atau pengusiran larva lalat.
+Miasis ialah infestasi larva lalat (keadaan ektoparasit). Rawatan piawai ialah pengeluaran larva atau antiparasit seperti ivermektin. Skor TxGNN yang tinggi (0.994) hanyalah ramalan graf pengetahuan dan tidak disokong oleh rasional biologi. Kesan spekulatif pada tubulin artropod belum pernah ditunjukkan.
 
-Skor TxGNN 99.41% oleh itu kemungkinan besar didorong oleh persatuan graf pengetahuan tidak langsung — griseofulvin dan myiasis mungkin berlaku bersama di bawah nod kluster "penyakit kulit/parasit kulit" yang dikongsi — dan bukan hubungan farmakoloji yang tulin. Corak yang sama berlaku untuk calon berperingkat teratas yang lain dalam pakej bukti ini (myiasis merayap, myiasis furunkuler, myiasis luka, dan echinococcosis), tiada satupun mempunyai pautan mekanistik yang munasabah kepada griseofulvin.
+Bentuk miasis lain yang diramalkan (miasis menjalar, miasis furunkular, miasis luka) turut tidak mempunyai mekanisme yang mantap. Ramalan ini berkemungkinan berpunca daripada kedekatan dalam graf dengan penyakit parasit lain, bukan bukti farmakologi. Ramalan kelima, jangkitan *Echinococcus granulosus*, hanya mempunyai kaitan spekulatif yang lemah melalui sasaran mikrotubul; rawatan piawai ialah albendazol, dan griseofulvin tidak mengikat beta-tubulin yang sensitif kepada benzimidazol.
 
-## Bukti Uji Klinik
+### Ramalan Lain Teratas
 
-Tiada uji klinik berkaitan yang didaftarkan pada masa kini.
+| Kedudukan | Penyakit | Skor TxGNN | Tahap Bukti | Keputusan |
+|------|------|------|------|------|
+| 2 | Miasis menjalar | 99.34% | L5 | Hold |
+| 3 | Miasis furunkular | 99.34% | L5 | Hold |
+| 4 | Miasis luka | 99.34% | L5 | Hold |
+| 5 | Penyakit berjangkit *Echinococcus granulosus* | 99.32% | L5 | Hold |
+
+---
+
+## Bukti Percubaan Klinikal
+
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
+
+---
 
 ## Bukti Literatur
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|------|------|------|---------|
-| [4098614](https://pubmed.ncbi.nlm.nih.gov/4098614/) | 1970 | Ulasan | The Veterinary record | Ulasan veterinar tentang penyakit kulit parasit dalam anjing dan kucing; tiada abstrak tersedia, dan tidak secara khusus menangani penggunaan griseofulvin dalam myiasis |
+Pada masa ini tiada literatur berkaitan yang tersedia.
 
-## Maklumat Pasaran Taiwan
+---
 
-6 lesen yang dipasarkan ada dalam rekod (status pasaran: Dipasarkan), namun butiran peringkat lesen (nombor kebenaran, nama produk, bentuk dos, teks indikasi yang diluluskan) tidak diisi dalam pakej bukti semasa dan tidak dapat disenaraikan di sini.
+## Keselamatan
 
-## Pertimbangan Keselamatan
+- **Kontraindikasi (berdasarkan graf pengetahuan, bukan teks label)**: Graf pengetahuan mengaitkan griseofulvin dengan kontraindikasi pada keadaan berikut:
+  - Kegagalan hati
+  - Porfiria (termasuk porfiria warisan dan gangguan metabolisme porfirin)
+  - Lupus eritematosus sistemik (termasuk bentuk pediatrik)
+  - Penyalahgunaan/ketagihan bahan
+  - Agranulositosis dan neutropenia (termasuk neutropenia kongenital teruk, sindrom Kostmann, neutropenia kitaran, neutropenia idiopatik dewasa, neutropenia konstitusional dan sindrom Rowell)
+- **Interaksi Ubat**: Sebanyak 100 interaksi dikesan. Contoh yang disenaraikan:
+  - **Sederhana**: aprepitant, saxagliptin, eliglustat, linagliptin, naloxegol, nitisinone, repaglinide, rolapitant, macimorelin, apixaban, warfarin, rivaroxaban, ticagrelor, fostamatinib, dikumarol, artemeter, meflokuin, praziquantel
+  - **Minor**: asid asetilsalisilik, liraglutide
 
-Sila rujuk surat pelepasan produk untuk maklumat keselamatan. (Nota: Pengambilan amaran/percanggahan label TFDA ditandakan sebagai jurang data yang menghalang — lihat Langkah Seterusnya.)
+Sila rujuk sisipan pek produk untuk maklumat amaran dan kontraindikasi yang rasmi.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
-**Alasan:**
-Ramalan bergantung semata-mata kepada skor model TxGNN tanpa uji klinik dan tanpa literatur yang relevan dari segi mekanisme atau klinik — tahap bukti L5. Mekanisme yang dicadangkan (perencatan mikrotubul antijamur) tiada kaitan yang diketahui dengan infestasi larva lalat, jadi persatuan kemungkinan besar adalah artifak graf pengetahuan dan bukan isyarat pemuatan semula yang tulin.
+**Rasional:**
+- Ramalan hanya berasaskan model (L5) tanpa percubaan klinikal, literatur atau mekanisme biologi yang munasabah. Rawatan sedia ada untuk miasis (pengeluaran larva, ivermektin) jelas berbeza daripada tindakan antikulat griseofulvin. Ubat ini juga tidak didaftarkan di Malaysia, dan profil keselamatannya (hepatotoksisiti, neutropenia, porfiria, lupus) menimbulkan kebimbangan.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Amaran/percanggahan label TFDA (jurang penghalang — diperlukan sebelum sebarang ulasan keselamatan S1)
-- Mekanisme tindakan yang disahkan melalui API DrugBank
-- Sebarang bukti in vitro/in vivo aktiviti antiparasit atau larvacid untuk griseofulvin
-- Bukti klinik manusia atau laporan kes khusus untuk myiasis, kerana satu-satunya pukulan literatur adalah ulasan veterinar yang tidak berkaitan dengan ubat ini
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisipan pek NPRA mengenai amaran dan kontraindikasi (jurang data yang menghalang)
+- Data mekanisme tindakan (MOA) daripada DrugBank
+- Kajian praklinikal untuk menilai sebarang aktiviti terhadap larva lalat atau parasit
+- Penilaian keserasian laluan pentadbiran dan kesesuaian dengan rawatan piawai
+- Semakan semula keutamaan, memandangkan tiada bukti yang menyokong pelaburan lanjut buat masa ini
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -2,7 +2,7 @@
 layout: default
 title: Brexpiprazole
 parent: Low Evidence (L4-L5)
-nav_order: 158
+nav_order: 163
 evidence_level: L5
 indication_count: 0
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: Pivmecillinam Hydrochloride
 parent: Low Evidence (L4-L5)
-nav_order: 558
+nav_order: 585
 evidence_level: L5
 indication_count: 0
 ---

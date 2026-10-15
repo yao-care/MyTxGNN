@@ -2,7 +2,7 @@
 layout: default
 title: Letermovir
 parent: Low Evidence (L4-L5)
-nav_order: 432
+nav_order: 452
 evidence_level: L5
 indication_count: 1
 ---
@@ -29,75 +29,64 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Letermovir: Dari Profilaksis Sitomegalovirus (CMV) ke Candidiasis Vulvovaginal
+# Letermovir: Daripada Jangkitan Sitomegalovirus kepada Kandidiasis Vulvovaginal
 
-## Ringkasan Satu Kalimat
+## Ringkasan Satu Ayat
 
-Letermovir adalah penghambat kompleks terminase CMV yang digunakan secara klinis untuk profilaksis sitomegalovirus (CMV) setelah transplantasi sel induk hematopoietik allogenik. Model TxGNN memprediksi bahwa ini mungkin efektif untuk **Candidiasis Vulvovaginal**, tetapi saat ini **tidak ada uji klinis dan tidak ada publikasi** yang mendukung arah ini — prediksi didasarkan semata-mata pada kesamaan jaringan pengetahuan.
+Letermovir ialah ubat antivirus yang pada asalnya digunakan untuk jangkitan sitomegalovirus (CMV).
+Model TxGNN meramalkan ia mungkin berkesan untuk **kandidiasis vulvovaginal**,
+tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong arah ini; ramalan ini bergantung pada skor model sahaja.
 
----
+## Gambaran Keseluruhan
 
-## Ikhtisar Cepat
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Jangkitan sitomegalovirus (berdasarkan graf pengetahuan TxGNN/PrimeKG) |
+| Indikasi Baharu yang Diramalkan | Kandidiasis vulvovaginal |
+| Skor Ramalan TxGNN | 99.88% |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
-| Item | Konten |
-|------|--------|
-| Indikasi Asli | Tidak tercatat dalam bidang registri terstruktur (kesenjangan data); penggunaan klinis yang diketahui adalah pencegahan sitomegalovirus (CMV) pada penerima transplantasi sel induk hematopoietik allogenik |
-| Indikasi Baru yang Diprediksi | Candidiasis Vulvovaginal |
-| Skor Prediksi TxGNN | 99.88% |
-| Tahap Bukti | L5 (prediksi model saja, tidak ada studi pendukung) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Jumlah Registrasi | 2 |
-| Keputusan yang Direkomendasikan | Tunda |
+## Mengapa Ramalan Ini Boleh Dipertimbangkan (atau Tidak)?
 
----
+Letermovir menghalang kompleks terminase DNA CMV (pUL56/pUL51/pUL89). Sasaran ini tidak mempunyai padanan yang diketahui dalam spesies *Candida* (kulat). Data yang dikumpulkan untuk laporan ini tidak menyokong sebarang mekanisme antikulat yang munasabah.
 
-## Mengapa Prediksi Ini Masuk Akal?
+Data terperinci mengenai mekanisme tindakan (MOA) pada masa ini tidak tersedia, jadi pautan mekanistik tidak dapat disahkan. Jangkitan CMV (virus) dan kandidiasis vulvovaginal (kulat) ialah penyakit yang berbeza dari segi patogen dan sasaran farmakologi.
 
-Saat ini, data mekanisme aksi terperinci tidak tersedia dalam catatan terstruktur. Berdasarkan informasi farmakologis yang diketahui, Letermovir menghambat kompleks terminase CMV (pUL51/pUL56/pUL89), memblokir pengemasan dan pembelahan DNA sitomegalovirus. Ini telah terbukti efektif untuk profilaksis CMV setelah transplantasi sel induk hematopoietik allogenik.
+Skor yang tinggi (0.9988) ialah output pengiraan berasaskan graf pengetahuan, bukan bukti klinikal atau eksperimen. Skor ini mungkin mencerminkan artifak rangkaian, contohnya jiran yang dikongsi dengan ubat antikulat atau anti-jangkitan lain, atau banyaknya interaksi ubat (100), dan bukan kaitan biologi sebenar.
 
-Mekanisme ini tidak memiliki tumpang tindih yang diketahui atau masuk akal dengan patofisiologi candidiasis vulvovaginal, infeksi jamur yang didorong oleh target seperti sintesis ergosterol, kitin dinding sel jamur, dan pembentukan biofilm. Tidak ada jembatan mekanis antara penghambat pengemasan DNA virus dan aktivitas antijamur.
+## Bukti Percubaan Klinikal
 
-Mengingat skor TxGNN yang sangat tinggi (99.88%) dikombinasikan dengan ketiadaan total rasional mekanis, uji klinis, atau literatur, prediksi ini harus diperlakukan sebagai **positif palsu dengan probabilitas tinggi** yang timbul dari kesamaan penyisipan jaringan pengetahuan murni daripada kandidat repurposing yang didasarkan secara biologis.
-
----
-
-## Bukti Uji Klinis
-
-Saat ini tidak ada uji klinis terkait yang terdaftar.
-
----
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ## Bukti Literatur
 
-Saat ini tidak ada literatur terkait yang tersedia.
-
----
-
-## Informasi Pasaran Malaysia
-
-Letermovir memiliki 2 registrasi aktif dalam file dengan NPRA (Malaysia), status pasaran "Dipasarkan." Detail tingkat produk (nomor otorisasi, nama produk, bentuk dosis, teks indikasi yang disetujui) tidak tersedia dalam ekstrak data saat ini dan memerlukan pengambilan langsung dari catatan NPRA.
-
----
+Pada masa ini tiada literatur berkaitan.
 
 ## Pertimbangan Keselamatan
 
-Silakan merujuk ke sisipan paket untuk informasi keselamatan.
+**Interaksi Ubat**: Pertanyaan interaksi ubat telah selesai dan mengesan 100 interaksi. Antara yang disenaraikan:
 
----
+- **Major (Utama)**: Eliglustat, Naloxegol, Cisapride
+- **Moderate (Sederhana)**: Hidrokortison, Pioglitazon, Aprepitan, Triamsinolon, Omeprazol, Deksametason, Betametason, Budesonid (termasuk semburan hidung), Klorpropamid, Klaritromisin, Saksagliptin, Glimepirid, Naldemedin, Lansoprazol, Asetoheksamid, Nitisinon
 
-## Kesimpulan dan Langkah Selanjutnya
+Untuk amaran utama dan kontraindikasi, sila rujuk risalah maklumat produk.
 
-**Keputusan: Tunda**
+## Kesimpulan dan Langkah Seterusnya
 
-**Dasar Pemikiran:**
-Tidak ada uji klinis atau literatur yang mendukung indikasi ini, dan mekanisme aksi yang diketahui menunjukkan tidak ada tautan yang masuk akal untuk patofisiologi candidiasis — prediksi tidak dapat melewati penyaringan mekanistik atau bukti awal.
+**Keputusan: Hold**
 
-**Untuk melanjutkan, berikut ini diperlukan:**
-- Peringatan sisipan paket TFDA/NPRA dan kontraindikasi (saat ini memblokir — DG001)
-- Indikasi asli yang dikonfirmasi dan MOA terperinci dari DrugBank (DG002)
-- Bukti pra-klinis atau mekanistik apa pun yang menghubungkan penghambatan terminase ke aktivitas antijamur, harus kandidat ini ditinjau kembali
-- Detail registrasi Malaysia tingkat produk lengkap (nomor lisensi, teks indikasi yang disetujui)
+**Justifikasi:**
+- Ramalan hanya berasaskan skor model (L5) tanpa percubaan klinikal atau literatur, dan sasaran letermovir (terminase CMV) tidak mempunyai padanan yang diketahui pada kulat *Candida*. Ubat ini juga tidak dipasarkan di Malaysia.
 
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) yang lengkap daripada DrugBank
+- Bukti praklinikal, contohnya aktiviti in vitro terhadap *Candida* spp., untuk menilai kebolehpercayaan biologi
+- Risalah maklumat produk NPRA/pengawal selia lain bagi amaran dan kontraindikasi (jurang data yang menghalang penyaringan keselamatan)
+- Penilaian kesesuaian laluan pentadbiran, kerana kandidiasis vulvovaginal lazimnya dirawat secara topikal/faraj atau oral
+- Semakan semula ramalan ini jika bukti klinikal atau literatur baharu muncul
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

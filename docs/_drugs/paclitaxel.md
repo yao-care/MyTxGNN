@@ -2,15 +2,15 @@
 layout: default
 title: Paclitaxel
 parent: High Evidence (L1-L2)
-nav_order: 526
-evidence_level: L2
+nav_order: 551
+evidence_level: L1
 indication_count: 5
 ---
 
 # Paclitaxel
 {: .fs-9 }
 
-Tahap bukti: **L2** | Indikasi diramal: **5** 
+Tahap bukti: **L1** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,122 +33,119 @@ Tahap bukti: **L2** | Indikasi diramal: **5**
 
 ## Ringkasan Satu Ayat
 
-> Paclitaxel adalah agen kemoterapi kelas taxane yang digunakan secara meluas sebagai sebahagian daripada rejimen platinum/taxane untuk kanser ovari epitelial.
-> Model TxGNN memeringkatkan **Adenokarsinoma Sel Jernih Ovari** — subkategori histologi yang tersendiri dan tahan terhadap rintangan kemoterapi bagi kanser ovari epitelial — sebagai petunjuk yang diramalkan teratas untuk ubat ini,
-> dengan **50 uji klinikal yang dirujuk** (beberapa dinilai relevan secara langsung) dan **20 penerbitan** yang kini menyokong arahan ini, walaupun rintangan relatif subkategori yang diketahui terhadap terapi platinum/taxane memerlukan kehati-hatian.
-
-*Nota: Teks "petunjuk asal" berstruktur tidak ditangkap daripada rekod lesen NPRA Malaysia dalam pakej bukti ini (semua medan `approved_indication_text` mengembalikan kosong). Tajuk di atas mencerminkan penggunaan onkologi umum Paclitaxel yang telah ditubuhkan dengan baik; kata-kata petunjuk formal harus disahkan terhadap risalah paket.*
+Paclitaxel ialah ubat kemoterapi antimitosis yang digunakan secara standard untuk kanser ovari. Model TxGNN meramalkan ia mungkin berkesan untuk **adenokarsinoma sel jernih ovari**. Arah ini disokong oleh **40 percubaan klinikal** dan **20 penerbitan** yang disenaraikan dalam data yang dikompil untuk laporan ini. Kebanyakan percubaan itu menggunakan paclitaxel sebagai tulang belakang rejimen gabungan dan bukan sebagai ubat yang diuji secara langsung.
 
 ---
 
-## Gambaran Keseluruhan Cepat
+## Gambaran Keseluruhan Pantas
 
 | Item | Kandungan |
 |------|------|
-| Petunjuk Asal | Tidak tersedia dalam pakej bukti — rekod lesen NPRA tidak memasukkan teks petunjuk |
-| Petunjuk Baru yang Diramalkan | Adenokarsinoma Sel Jernih Ovari |
-| Skor Ramalan TxGNN | 0.00%* (medan skor kelihatan tidak diisi dalam pakej bukti ini; peringkat urutan digunakan sebaliknya — ini ialah pangkat 1 daripada 5 calon yang dinilai) |
-| Tahap Bukti | L2 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 14 |
-| Keputusan yang Disyorkan | Teruskan dengan Penjaga |
+| Indikasi Asal | Kanser ovari (data graf pengetahuan TxGNN; tiada maklumat lesen tempatan) |
+| Indikasi Baharu yang Diramalkan | Adenokarsinoma sel jernih ovari |
+| Skor Ramalan TxGNN | 0.00% (skor dilaporkan sebagai 0.0 dalam data; perlu disahkan semula) |
+| Tahap Bukti | L1 |
+| Status Pasaran di Malaysia | ✗ Tidak dipasarkan (menurut data NPRA yang dikompil) |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Proceed with Guardrails |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan terperinci tidak tersedia untuk Paclitaxel dalam pakej bukti ini. Berdasarkan maklumat yang diketahui, Paclitaxel adalah agen sitotoksik kelas taxane yang menstabilkan mikrotubul, yang keupayaannya dalam kanser ovari epitelial (biasanya digabungkan dengan carboplatin) telah ditubuhkan dengan baik sebagai penjagaan standard global.
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikompil. Berdasarkan maklumat yang diketahui, paclitaxel menstabilkan mikrotubul dan menyekat mitosis dalam sel tumor yang membahagi dengan cepat. Ia ialah tulang belakang terapi barisan pertama karboplatin/paclitaxel untuk kanser ovari epitelium, termasuk histologi sel jernih.
 
-Adenokarsinoma sel jernih ovari (OCCC) ialah subkategori histologi yang tersendiri bagi kanser ovari epitelial. Oleh kerana Paclitaxel + Carboplatin sudah menjadi rejimen tulang belakang yang digunakan di semua histologi kanser ovari, memanjangkan penggunaannya kepada subkategori sel jernih adalah munasabah secara mekanik dan, pada hakikatnya, mencerminkan amalan dunia sebenar dalam onkologi ginekologi.
+Kanser ovari sel jernih ialah subjenis epitelium yang sudah termasuk dalam kumpulan indikasi asal. Namun, tumor sel jernih diketahui kurang responsif terhadap kemoterapi platinum/taksane berbanding tumor serous. Kajian praklinikal (PMID 40853419 dan 39341074) menunjukkan mekanisme rintangan paclitaxel seperti peningkatan NNMT dan ekspresi pengangkut ABC/SLC yang didorong oleh HK2.
 
-Bagaimanapun, kaveat penting daripada bukti: secara histologi, subkategori sel jernih menunjukkan kadar tindak balas yang jauh lebih rendah terhadap kemoterapi platinum/taxane berbanding kanser ovari serosa, mencerminkan rintangan kemoterapi relatif yang wujud dalam subkategori ini. Beberapa penerbitan yang menyokong secara khusus menyiasat mekanisme rintangan paclitaxel dalam OCCC (contohnya, anjakan metabolisme glikolitik, kelebihan ekspresi NNMT, metilasi HIN-1), memperkuat bahawa walaupun rasional mekanik untuk penggunaan adalah munasabah, biologi subkategori mengehadkan keberkesanan yang dijangkakan berbanding histologi kanser ovari lain.
+Maka ramalan ini munasabah dari segi mekanisme, tetapi manfaat khusus untuk histologi sel jernih masih belum terbukti secara langsung. Ini perlu diambil kira dalam penilaian.
 
 ---
 
-## Bukti Uji Klinikal
+## Bukti Percubaan Klinikal
 
-| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
+Berikut ialah percubaan yang dinilai paling relevan daripada 40 percubaan yang tersenarai (gred relevansi A/B ditonjolkan).
+
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT02129036](https://clinicaltrials.gov/study/NCT02129036) | T/A | Selesai | 5 | Survei multi-institusi retrospektif tentang ciri-ciri klinikal dan tindak balas kepada paclitaxel-platinum berbanding kemoterapi platinum konvensional khusus dalam pesakit OCCC |
-| [NCT01196429](https://clinicaltrials.gov/study/NCT01196429) | Fasa 2 | Selesai | 90 | Temsirolimus + Carboplatin/Paclitaxel sebagai terapi baris pertama, diikuti dengan konsolidasi Temsirolimus, khusus dalam kanser ovari sel jernih yang baru didiagnosis |
-| [NCT01824615](https://clinicaltrials.gov/study/NCT01824615) | Fasa 2 | Selesai | 30 | Menilai keberkesanan Sunitinib dalam karsinoma sel jernih ovari berulang selepas rejimen platinum/paclitaxel-berasaskan standard |
-| [NCT02866370](https://clinicaltrials.gov/study/NCT02866370) | Fasa 2 | Tidak diketahui | 120 | Rawak Nintedanib berbanding kemoterapi (termasuk berasaskan paclitaxel) dalam karsinoma sel jernih ovari atau endometrium berulang |
-| [NCT06023862](https://clinicaltrials.gov/study/NCT06023862) | Fasa 2 | Merekrut | 198 | Ujian DOVE: Dostarlimab ± Bevacizumab berbanding kemoterapi bukan platinum dalam karsinoma sel jernih ginekologi berulang |
-| [NCT06237946](https://clinicaltrials.gov/study/NCT06237946) | T/A | Tidak diketahui | 272 | Kajian biopenanda retrospektif tentang risiko kambuhan dalam pesakit OCCC peringkat awal selepas terapi tambahan berasaskan platinum/taxane |
-| [NCT03648489](https://clinicaltrials.gov/study/NCT03648489) | Fasa 2 | Selesai | 134 | Ujian DICE: TAK228 + Paclitaxel mingguan berbanding Paclitaxel sahaja dalam kanser ovari lanjut/berulang termasuk jenis sel jernih, endometrioid dan serosa bersulih tinggi |
-| [NCT01097746](https://clinicaltrials.gov/study/NCT01097746) | Fasa 2 | Selesai | 33 | Bevacizumab + Carboplatin + Paclitaxel mingguan sebagai rawatan baris pertama dalam karsinoma ovari epitelial, peritoneum utama dan saluran telur |
-| [NCT05281471](https://clinicaltrials.gov/study/NCT05281471) | Fasa 3 | Merekrut | 186 | OnPrime/GOG-3076: Olvi-Vec diikuti dengan kemoterapi doublet platinum dan Bevacizumab berbanding pilihan dokter dalam kanser ovari tahan/refraktori platinum |
-| [NCT00483782](https://clinicaltrials.gov/study/NCT00483782) | Fasa 3 | Selesai | 1520 | ICON7: Menambah Bevacizumab kepada kemoterapi Carboplatin + Paclitaxel standard dalam kanser ovari epitelial (RCT besar, populasi histologi luas) |
+| [NCT00483782](https://clinicaltrials.gov/study/NCT00483782) | Fasa 3 | Selesai | 1520 | ICON7: penambahan bevacizumab kepada karboplatin/paclitaxel dalam kanser ovari epitelium, termasuk histologi sel jernih |
+| [NCT00262847](https://clinicaltrials.gov/study/NCT00262847) | Fasa 3 | Selesai | 1873 | Karboplatin/paclitaxel dengan plasebo berbanding bevacizumab dalam kanser ovari peringkat III/IV |
+| [NCT00002568](https://clinicaltrials.gov/study/NCT00002568) | Fasa 3 | Selesai | 470 | Cisplatin + paclitaxel dengan atau tanpa sitoreduksi sela dalam kanser ovari epitelium |
+| [NCT07002346](https://clinicaltrials.gov/study/NCT07002346) | Fasa 3 | Sedang merekrut | 226 | QL1706 + bevacizumab berbanding kemoterapi berasaskan platinum untuk kanser ovari sel jernih barisan pertama; belum ada keputusan |
+| [NCT01196429](https://clinicaltrials.gov/study/NCT01196429) | Fasa 2 | Selesai | 90 | Temsirolimus + karboplatin + paclitaxel sebagai terapi barisan pertama kanser ovari sel jernih |
+| [NCT02866370](https://clinicaltrials.gov/study/NCT02866370) | Fasa 2 | Tidak diketahui | 120 | Nintedanib berbanding kemoterapi dalam karsinoma sel jernih ovari/endometrium berulang |
+| [NCT04739800](https://clinicaltrials.gov/study/NCT04739800) | Fasa 2 | Aktif, tidak merekrut | 120 | Terapi tiga ubat dengan durvalumab berbanding kemoterapi standard dalam kanser ovari rintang platinum; belum ada keputusan |
+| [NCT06023862](https://clinicaltrials.gov/study/NCT06023862) | Fasa 2 | Sedang merekrut | 198 | Dostarlimab ± bevacizumab berbanding kemoterapi bukan platinum dalam karsinoma sel jernih ginekologi berulang |
+| [NCT03648489](https://clinicaltrials.gov/study/NCT03648489) | Fasa 2 | Selesai | 134 | TAK228 + paclitaxel mingguan berbanding paclitaxel sahaja, termasuk histologi sel jernih |
+| [NCT05238922](https://clinicaltrials.gov/study/NCT05238922) | Fasa 1 | Aktif, tidak merekrut | 291 | INCB123667 dalam tumor pepejal; paclitaxel hanya rakan gabungan (relevansi rendah) |
+
+Nota: tiada percubaan yang menguji paclitaxel secara khusus dan eksklusif dalam kanser sel jernih ovari; sokongan datang daripada percubaan kanser ovari epitelium yang lebih luas dan percubaan gabungan.
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [16445610](https://pubmed.ncbi.nlm.nih.gov/16445610/) | 2006 | Kohort | Int J Gynecol Cancer | Ujian berpusat bagi kombinasi kemoterapi platinum paclitaxel khusus dalam adenokarsinoma sel jernih ovari lanjut/berulang |
-| [20192580](https://pubmed.ncbi.nlm.nih.gov/20192580/) | 2009 | Kohort | Asian Pac J Cancer Prev | Membandingkan kelangsungan hidup bebas kemajuan OCCC berbanding histologi kanser ovari epitelial lain yang dirawat dengan Paclitaxel + Carboplatin |
-| [25275661](https://pubmed.ncbi.nlm.nih.gov/25275661/) | 2014 | Kohort | Int J Gynecol Cancer | Menganalisis corak kambuhan dan peranan radioterapi pelvis dalam OCCC yang dirawat dengan kemoterapi standard |
-| [22041903](https://pubmed.ncbi.nlm.nih.gov/22041903/) | 2011 | Kohort | Gynecol Obstet Invest | Kesan kelangsungan hidup Paclitaxel + Carboplatin tambahan berbanding rejimen berasaskan cisplatin dalam OCCC peringkat awal dengan peringkatan pelvis selesai |
-| [23714502](https://pubmed.ncbi.nlm.nih.gov/23714502/) | 2013 | Ulasan | ASCO Educational Book | Ulasan faktor risiko, persembahan, dan arahan rawatan untuk karsinoma sel jernih ovari dan berlendir |
-| [32787339](https://pubmed.ncbi.nlm.nih.gov/32787339/) | 2020 | Ulasan | Chin Clin Oncol | Ulasan terapi sistemik untuk karsinoma ovari bukan serosa, termasuk karsinoma sel jernih |
-| [26497956](https://pubmed.ncbi.nlm.nih.gov/26497956/) | 2015 | Praklinik/Mekanik | BMC Cancer | Demethylasi HIN-1 membalikkan rintangan paclitaxel dalam OCCC melalui jalur pensinyalan AKT-mTOR |
-| [39341074](https://pubmed.ncbi.nlm.nih.gov/39341074/) | 2024 | Praklinik/Mekanik | Biomed Pharmacother | Rintangan paclitaxel memudahkan metabolisme glikolitik melalui gen pengangkut yang diatur Hexokinase-2 dalam OCCC |
-| [40853419](https://pubmed.ncbi.nlm.nih.gov/40853419/) | 2025 | Praklinik/Mekanik | Human Cell | Nicotinamide N-methyltransferase (NNMT) meningkatkan rintangan paclitaxel dalam karsinoma sel jernih ovari |
-| [39178526](https://pubmed.ncbi.nlm.nih.gov/39178526/) | 2024 | Kohort | Gynecol Oncol | Analisis JGOG 3017-A3 tentang masa/tapak kambuhan dalam OCCC membandingkan rejimen irinotecan+cisplatin berbanding paclitaxel+carboplatin |
+| [32787339](https://pubmed.ncbi.nlm.nih.gov/32787339/) | 2020 | Ulasan | Chinese Clinical Oncology | Ulasan terapi sistemik untuk karsinoma ovari bukan serous, termasuk sel jernih |
+| [23714502](https://pubmed.ncbi.nlm.nih.gov/23714502/) | 2013 | Ulasan | ASCO Educational Book | Karsinoma sel jernih dan mucinous ovari; rawatan lanjutan menggunakan karboplatin dan paclitaxel, dengan respons yang lebih lemah dalam penyakit lanjut |
+| [22655678](https://pubmed.ncbi.nlm.nih.gov/22655678/) | 2012 | Ulasan | J Exp Clin Cancer Res | Karsinoma sel jernih bersifat rintang kemoterapi; perbincangan mengenai rawatan khusus histologi |
+| [39178526](https://pubmed.ncbi.nlm.nih.gov/39178526/) | 2024 | Analisis percubaan | Gynecol Oncol | Masa dan tapak berulang selepas rawatan, daripada percubaan JGOG 3017 (irinotecan/cisplatin berbanding paclitaxel/karboplatin) |
+| [40853419](https://pubmed.ncbi.nlm.nih.gov/40853419/) | 2025 | Praklinikal | Human Cell | NNMT meningkatkan rintangan paclitaxel dalam karsinoma sel jernih ovari |
+| [39341074](https://pubmed.ncbi.nlm.nih.gov/39341074/) | 2024 | Praklinikal | Biomed Pharmacother | Rintangan paclitaxel meningkatkan metabolisme glikolitik melalui HK2 dan pengangkut ABC/SLC |
+| [18764727](https://pubmed.ncbi.nlm.nih.gov/18764727/) | 2008 | Ulasan | Expert Opin Emerg Drugs | Karboplatin/paclitaxel ialah standard emas semasa untuk kanser ovari |
+| [37415960](https://pubmed.ncbi.nlm.nih.gov/37415960/) | 2023 | Laporan kes | Gynecol Oncol Rep | Adenokarsinoma ovari sel jernih/skuamus bercampur dirawat dengan 6 kitaran karboplatin dan paclitaxel |
+| [39115639](https://pubmed.ncbi.nlm.nih.gov/39115639/) | 2024 | Praklinikal | Human Cell | Kesan antitumor metformin terhadap karsinoma sel jernih ovari, dengan penambahbaikan apabila digabungkan dengan kemoterapi |
+| [25275661](https://pubmed.ncbi.nlm.nih.gov/25275661/) | 2014 | Kohort | Int J Gynecol Cancer | Corak berulang dan peranan radioterapi pelvis dalam adenokarsinoma sel jernih ovari |
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Butir peringkat lesen (nombor kebenaran, nama produk, bentuk dos, teks petunjuk yang diluluskan) tidak tersedia untuk mana-mana daripada 14 produk Paclitaxel yang didaftar dalam pakej bukti ini — semua rekod lesen NPRA mengembalikan medan kosong. Status pasaran mengesahkan Paclitaxel kini **Dipasarkan** di Malaysia dengan **14 jumlah pendaftaran**, tetapi metadata produk individu memerlukan pengumpulan semula daripada daftar NPRA.
+Menurut data yang dikompil, paclitaxel pada masa ini **tidak dipasarkan** di Malaysia dan tiada lesen berdaftar dengan NPRA (jumlah pendaftaran: 0). Oleh itu, tiada jadual lesen dipaparkan.
 
 ---
 
 ## Sitotoksisiti
 
-Paclitaxel adalah agen kemoterapi sitotoksik konvensional (kelas taxane), memenuhi kriteria klasifikasi antineoplastik.
-
 | Item | Kandungan |
 |------|------|
-| Klasifikasi Sitotoksisiti | Sitotoksik konvensional (kelas Taxane — agen penstabil mikrotubul) |
-| Risiko Supresi Sumsum Tulang | Sederhana–Tinggi (neutropenia adalah toksisiti pembatas dos prinsipal kelas paclitaxel-luas); teks amaran risalah paket rasmi TFDA/NPRA tidak tersedia dalam pakej bukti ini |
-| Klasifikasi Emetogenisiti | Rendah–Sederhana |
-| Item Pemantauan | CBC dengan pembezaan, penilaian neuropati perifer, fungsi hati |
-| Perlindungan Pengendalian | Langkah perlindungan pengendalian ubat sitotoksik standard diperlukan |
+| Klasifikasi Sitotoksisiti | Sitotoksik konvensional (taksane; perencat mikrotubul) |
+| Risiko Mielosupresi | Tinggi (neutropenia ialah toksisiti pengehad dos; kajian menyebut kesan buruk gabungan paclitaxel dan karboplatin) |
+| Klasifikasi Emetogenisiti | Rendah hingga sederhana |
+| Item Pemantauan | Hitung darah lengkap (CBC dengan pembezaan), fungsi hati dan buah pinggang, tanda neuropati periferi |
+| Perlindungan Pengendalian | Perlu mematuhi peraturan pengendalian ubat sitotoksik |
 
-Sila rujuk risalah paket rasmi untuk data toksisiti khusus institusi dan perumusan.
+Maklumat ini berdasarkan klasifikasi am ubat dan pengetahuan klinikal yang diketahui; sila rujuk juga sisipan bungkusan untuk amaran dan langkah berjaga-jaga yang rasmi. Neuropati periferi akibat paclitaxel turut disebut dalam literatur dan percubaan pencegahan yang dikompil (contohnya NCT06492070).
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk risalah paket untuk maklumat keselamatan. Data amaran utama, kontraindikasi, dan interaksi ubat tidak tersedia dalam pakej bukti ini (ditandai sebagai jurang data penyekat — DG001: amaran/kontraindikasi risalah paket TFDA/NPRA belum dikumpul).
+Amaran utama dan kontraindikasi daripada sisipan bungkusan NPRA tidak tersedia dalam data yang dikompil. Sila rujuk sisipan bungkusan untuk maklumat keselamatan rasmi.
+
+Maklumat tambahan yang tersedia:
+
+- **Penyakit/keadaan yang dikaitkan sebagai kontraindikasi dalam graf pengetahuan (bukan teks label rasmi)**: penyakit hati, penyakit buah pinggang, penyakit pundi hempedu, trombositopenia, neutropenia, agranulositosis, anemia, neuropati periferi, infarksi miokardium, sindrom Gilbert, hiperbilirubinemia, asma, psoriasis, diabetes mellitus, hipotensi, gangguan kebimbangan dan gangguan neurotik. Senarai ini perlu disahkan dengan label rasmi.
+- **Interaksi ubat** (100 interaksi direkodkan; contoh utama):
+  - Tahap sederhana: aprepitant, cimetidine, clarithromycin, clotrimazole, dexamethasone, eliglustat, metronidazole, miconazole, rolapitant, rosuvastatin, simvastatin, tinidazole, troglitazone
+  - Tahap ringan: asid askorbik, levofloxacin
+  - Tahap tidak diketahui: glimepiride, doxycycline, morphine, metformin, omeprazole
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Teruskan dengan Penjaga**
+**Keputusan: Proceed with Guardrails**
 
 **Rasional:**
-Tahap bukti L2 disokong oleh ujian Fasa 2 khusus OCCC dan beberapa kajian kohort menunjukkan Paclitaxel + Carboplatin sudah digunakan sebagai rejimen dunia sebenar untuk subkategori ini, tetapi rintangan relatif yang terdokumen dengan baik bagi OCCC terhadap terapi platinum/taxane bermakna jangkaan keberkesanan harus ditegaskan dan dipantau dengan teliti.
+- Paclitaxel ialah komponen standard rejimen barisan pertama kanser ovari epitelium, disokong oleh beberapa percubaan Fasa 3 yang selesai. Walau bagaimanapun, bukti khusus untuk histologi sel jernih adalah tidak langsung, kerana sel jernih hanya subset dan dikenali kurang responsif terhadap platinum/taksane.
 
-**Untuk meneruskan, perkara berikut diperlukan:**
-- Amaran risalah paket TFDA/NPRA dan kontraindikasi (DG001, penyekat — diperlukan sebelum penilaian keselamatan dapat diteruskan)
-- Data mekanisme tindakan terperinci (DG002)
-- Metadata produk peringkat lesen Malaysia (nombor kebenaran, nama produk, teks petunjuk yang diluluskan)
-- Pengesahan kata-kata petunjuk asal rasmi daripada sumber berwibawa
-
-**Petunjuk lain yang diramalkan yang dinilai dalam pakej bukti ini (tidak diperincikan di atas):**
-
-| Pangkat | Penyakit | Tahap Bukti | Keputusan |
-|------|---------|----------------|----------|
-| 2 | Kanser peritoneum | L1 | Teruskan dengan Penjaga |
-| 3 | Sindrom kanser ovari herediter payudara | L3 | Soalan Penyelidikan |
-| 4 | Coriokarsinoma non-gestasi ovari utama | L4 | Tahan |
-| 5 | Karsinosarkoma ovari | L1 | Teruskan dengan Penjaga |
-
+**Untuk meneruskan, perlu:**
+- Memuat turun dan menghurai sisipan bungkusan NPRA untuk amaran dan kontraindikasi (jurang data yang menyekat saringan keselamatan)
+- Mendapatkan data mekanisme tindakan terperinci daripada DrugBank
+- Mengesahkan skor ramalan TxGNN (dilaporkan 0.0 dalam data) dan menjelaskan status ubat yang tidak berdaftar di Malaysia
+- Data keberkesanan khusus histologi sel jernih (analisis subkumpulan percubaan Fasa 3 atau hasil NCT07002346, NCT06023862 dan NCT01196429)
+- Pelan pemantauan keselamatan untuk mielosupresi dan neuropati periferi, serta semakan interaksi ubat untuk pesakit yang menggunakan ubat serentak
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

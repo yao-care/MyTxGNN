@@ -2,7 +2,7 @@
 layout: default
 title: Chlorthalidone
 parent: Low Evidence (L4-L5)
-nav_order: 210
+nav_order: 215
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,77 +29,97 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Chlorthalidone: Dari Hipertensi ke Glaukoma Herediteri Primer
+# Chlorthalidone: Daripada Hipertensi kepada Glaukoma Keturunan Primer
 
 ## Ringkasan Satu Ayat
 
-Chlorthalidone adalah diuretik mirip tiazida yang telah mapan untuk pengobatan hipertensi dan retensi cairan (edema). Model TxGNN memprediksi bahwa chlorthalidone mungkin efektif untuk **Glaukoma Herediteri Primer**, tetapi arah penelitian ini saat ini tidak didukung oleh **uji klinis apa pun** dan **literatur yang diterbitkan** — prediksi hanya didasarkan pada analogi struktural teoretis.
+Chlorthalidone ialah diuretik jenis tiazid yang pada asalnya digunakan untuk merawat hipertensi dan kegagalan jantung kongestif.
+Model TxGNN meramalkan ia mungkin berkesan untuk **glaukoma keturunan primer (primary hereditary glaucoma)**,
+tetapi pada masa ini **tiada percubaan klinikal** dan **tiada literatur** yang menyokong arah ini, jadi ramalan ini masih bersifat pengiraan semata-mata.
 
 ---
 
-## Ikhtisar Cepat
+## Gambaran Keseluruhan Pantas
 
-| Item | Konten |
-|------|--------|
-| Indikasi Asli | Tidak tercatat dalam ekstraksi teks lisensi NPRA saat ini; berdasarkan klasifikasi farmakologis yang sudah mapan, chlorthalidone (diuretik mirip tiazida) ditunjukkan untuk hipertensi dan edema |
-| Indikasi Baru yang Diprediksi | Glaukoma Herediteri Primer |
-| Skor Prediksi TxGNN | 99.92% |
-| Tingkat Bukti | L5 |
-| Status Pasar Malaysia | ✓ Dipasarkan |
-| Jumlah Registrasi | 3 |
-| Keputusan yang Direkomendasikan | Tahan |
-
----
-
-## Mengapa Prediksi Ini Masuk Akal?
-
-Saat ini, data mekanisme aksi terperinci tidak tersedia (kesenjangan data DG002). Berdasarkan informasi yang diketahui, chlorthalidone adalah diuretik mirip tiazida yang menghambat kotransporter Na⁺-Cl⁻ di tubulus konvolusi distal; efikasinya dalam hipertensi dan edema telah terbukti dengan baik.
-
-Hubungan yang diusulkan dengan glaukoma herediteri primer murni bersifat struktural: senyawa kelas tiazida berbagi rangka kimia dengan penghambat anhidrasa karbonik (kelas pengobatan glaukoma yang diakui yang menurunkan tekanan intraokular dengan mengurangi produksi humor akueus). Atas dasar ini, chlorthalidone dihipotesiskan memiliki aktivitas penghambatan anhidrasa karbonik yang sangat lemah yang secara teoretis dapat menurunkan tekanan intraokular.
-
-Namun, alasan ini bersifat spekulatif — tidak ada bukti klinis, farmakologis, atau pengikatan molekuler yang mengonfirmasi bahwa chlorthalidone memiliki aktivitas penghambatan anhidrasa karbonik yang bermakna secara klinis, dan tidak ada data mengenai penetrasi okular atau dampak pada tekanan intraokular untuk obat ini.
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Hipertensi, gangguan hipertensi, kegagalan jantung kongestif (berdasarkan graf pengetahuan TxGNN) |
+| Indikasi Baharu yang Diramalkan | Glaukoma keturunan primer (primary hereditary glaucoma) |
+| Skor Ramalan TxGNN | 99.92% |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
-## Bukti Uji Klinis
+## Mengapa Ramalan Ini Munasabah?
 
-Saat ini tidak ada uji klinis terkait yang terdaftar
+Data terperinci tentang mekanisme tindakan (MOA) belum tersedia. Berdasarkan maklumat yang diketahui, chlorthalidone ialah diuretik berkelakuan tiazid yang berkesan dalam hipertensi dan kegagalan jantung kongestif melalui peningkatan natriuresis dan pengurangan isi padu cecair. Secara mekanistik, ia mungkin boleh digunakan untuk glaukoma, tetapi hubungan ini masih spekulatif.
+
+Satu kaitan yang munasabah tetapi belum terbukti ialah diuretik jenis tiazid mengubah keseimbangan cecair dan elektrolit, yang berpotensi menjejaskan tekanan intraokular. Perencatan karbonik anhidrase telah dilaporkan bagi chlorthalidone, tetapi ia belum disahkan relevan secara klinikal untuk glaukoma.
+
+Perlu diberi perhatian bahawa glaukoma keturunan primer didorong oleh faktor genetik (contohnya *MYOC* dan *CYP1B1*), jadi diuretik tidak mungkin menangani punca asasnya. Skor TxGNN yang sangat tinggi (0.999) hanyalah ramalan pengiraan dan bukan bukti klinikal.
+
+---
+
+## Bukti Percubaan Klinikal
+
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
-Saat ini tidak ada literatur terkait yang tersedia
+Pada masa ini tiada literatur berkaitan yang tersedia untuk glaukoma keturunan primer.
 
 ---
 
-## Informasi Pasar Malaysia
+## Maklumat Pasaran Malaysia
 
-Chlorthalidone memiliki 3 registrasi produk aktif dengan NPRA (Malaysia), dan status pasar dikonfirmasi sebagai dipasarkan. Detail tingkat produk (nomor registrasi, nama produk, bentuk dosis, dan teks indikasi yang disetujui) tidak dikembalikan dalam ekstraksi data saat ini dan tidak dapat ditabulasikan pada waktu ini.
+Chlorthalidone pada masa ini tidak dipasarkan di Malaysia dan tiada pendaftaran yang direkodkan.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Silakan merujuk ke sisipan kemasan untuk informasi keselamatan.
+**Kontraindikasi berdasarkan graf pengetahuan (bukan teks label produk):** graf pengetahuan TxGNN (PrimeKG) mengaitkan chlorthalidone dengan penyakit berikut, antaranya:
+- Hati dan ginjal: kegagalan hati, penyakit ginjal, anuria, pankreatitis
+- Metabolik: kekurangan kalium, hiperurisemia, gout, hiperkalsemia, nefrokalsinosis, gangguan metabolisme fosforus, diabetes mellitus jenis 2
+- Respirasi dan imun: asma (termasuk asma intrinsik dan alergi), lupus eritematosus sistemik (termasuk bentuk pediatrik), psoriasis
+- Kardiovaskular: infarksi miokardium, trombosis koronari, sawan jantung mengejut
+- Lain-lain: epilepsi, gangguan kebimbangan, gangguan neurotik, gangguan distimia, ulser peptik, hemoglobinopati, piouretur
+
+**Interaksi Ubat:** sebanyak 100 interaksi direkodkan dalam pangkalan data. Yang utama daripada senarai yang diperoleh:
+- **Major:** cisapride, dolasetron
+- **Moderate:** metformin, acarbose, alogliptin, albiglutide (kesan terhadap kawalan glukosa), hidrokortison, deksametason, triamsinolon, beklometason (kortikosteroid), amfoterisin B, bupropion, morfin, omeprazol, rabeprazol, kolekalsiferol
+- **Minor:** doksisiklin, hiosiamin, atropin
+
+Maklumat amaran utama dan kontraindikasi daripada sisipan pakej belum tersedia. Sila rujuk sisipan pakej untuk maklumat keselamatan yang lengkap.
 
 ---
 
-## Kesimpulan dan Langkah Selanjutnya
+## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
-**Alasan:**
-Terlepas dari skor prediksi TxGNN yang tinggi, glaukoma herediteri primer tidak memiliki uji klinis pendukung atau literatur, dan alasan mekanistik (analogi struktural lemah terhadap penghambat anhidrasa karbonik) bersifat teoretis semata, tanpa validasi molekuler atau klinis. Ini diklasifikasikan sebagai tingkat bukti L5 — prediksi model saja.
+**Rasional:**
+- Ramalan glaukoma keturunan primer hanya berasaskan model (L5), tanpa percubaan klinikal atau literatur, dan hubungan mekanistiknya lemah kerana penyakit ini didorong secara genetik.
+- Ubat ini juga tidak dipasarkan di Malaysia.
 
-**Untuk melanjutkan, hal-hal berikut diperlukan:**
-- Peringatan label TFDA/NPRA dan kontraindikasi (kesenjangan data pemblokiran DG001)
-- Data mekanisme aksi yang dikonfirmasi untuk chlorthalidone (kesenjangan data DG002)
-- Bukti praklinis atau in vitro dari aktivitas penghambatan anhidrasa karbonik dan penetrasi okular
-- Jika dilanjutkan, pencarian literatur/uji coba yang ditargetkan secara khusus pada chlorthalidone dan tekanan intraokular, karena saat ini tidak tersedia
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) yang terperinci
+- Bukti praklinikal atau klinikal bahawa chlorthalidone menurunkan tekanan intraokular
+- Sisipan pakej NPRA (amaran dan kontraindikasi) untuk saringan keselamatan
+- Penilaian keselamatan terhadap penyakit penyerta yang disenaraikan dalam kontraindikasi graf pengetahuan
 
-*Catatan: dalam paket bukti ini, peringkat 8 (penyakit jantung paru kronis, L3, Pertanyaan Penelitian) memiliki dasar bukti yang secara material lebih kuat — 1 uji klinis dan 3 kutipan literatur, termasuk studi historis langsung tentang chlorthalidone dalam cor pulmonale — dan dapat menjadi kandidat yang lebih produktif untuk diprioritaskan dibandingkan yang ini.*
+---
 
+## Catatan Tambahan: Ramalan Lain
+
+Antara sembilan ramalan lain, hanya satu mempunyai sebarang bukti:
+- **Penyakit jantung pulmonari kronik (chronic pulmonary heart disease)** (skor 99.82%, tahap bukti L4, cadangan "Research Question"): terdapat laporan klinikal 1967 (PMID [5597001](https://pubmed.ncbi.nlm.nih.gov/5597001/)) tentang terapi diuretik chlorthalidone dalam kegagalan jantung kongestif akibat kor pulmonale kronik, serta ulasan 2017 (PMID [28711447](https://pubmed.ncbi.nlm.nih.gov/28711447/)) tentang peralihan daripada hipertensi kepada kegagalan jantung. Rekabentuk laporan 1967 tidak dapat disahkan, dan ini sebahagian besarnya lanjutan daripada indikasi kegagalan jantung kongestif sedia ada.
+- Ramalan lain (glaukoma sudut terbuka, penyakit renal hipertensif malignan, hipertensi renovaskular malignan, hipertensi pulmonari, sindrom Braddock, penyakit jantung pulmonari akut, hipotrikosis milia kongenital) berada pada tahap L5 dan disyorkan **Hold**. Satu-satunya makalah untuk hipertensi pulmonari akibat penyakit paru-paru (PMID 14288313) ialah kajian fisiologi serangga 1965 yang tidak relevan secara klinikal.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

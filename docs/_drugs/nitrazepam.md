@@ -2,15 +2,15 @@
 layout: default
 title: Nitrazepam
 parent: Low Evidence (L4-L5)
-nav_order: 502
-evidence_level: L5
+nav_order: 526
+evidence_level: L4
 indication_count: 3
 ---
 
 # Nitrazepam
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **3** 
+Tahap bukti: **L4** | Indikasi diramal: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,86 +29,93 @@ Tahap bukti: **L5** | Indikasi diramal: **3**
 
 </div>
 
-# Nitrazepam: Daripada Insomnia kepada Insomnia (Gangguan Tidur, Memulai dan Mengekalkan Tidur)
+# Nitrazepam: Daripada Insomnia kepada Gangguan Tidur (Memulakan dan Mengekalkan Tidur)
 
 ## Ringkasan Satu Ayat
 
-Nitrazepam adalah hipnotik benzodiazepin klasik yang digunakan untuk insomnia. Ramalan teratas model TxGNN — **Gangguan Tidur, Memulai dan Mengekalkan Tidur** — pada dasarnya adalah pengenalan semula terhadap indikasi ubat yang telah ditetapkan bukannya sasaran penyusunan semula yang baru, disokong oleh **20 penerbitan** (termasuk 1 RCT) tetapi **0 percubaan klinikal berdaftar**. Dua calon tambahan dengan tahap keyakinan yang jauh lebih rendah (ensefalopati akut dengan kejang bifasik dan penurunan difusi akhir, sindrom Wernicke-Korsakoff) juga telah ditandakan oleh model tetapi tidak mempunyai bukti sokongan langsung.
+Nitrazepam ialah ubat benzodiazepin yang pada asalnya digunakan untuk merawat insomnia dan ensefalopati mioklonik awal.
+Model TxGNN meramalkan ia mungkin berkesan untuk **gangguan tidur (memulakan dan mengekalkan tidur)**, tetapi ramalan ini pada dasarnya sama dengan indikasi asalnya, jadi ia bukan pengitaran semula ubat yang sebenar.
+Buat masa ini terdapat **0 ujian klinikal** dan **20 penerbitan** (kebanyakannya ulasan umum) yang menyokong arah ini.
 
 ---
 
-## Gambaran Umum Pantas
+## Gambaran Ringkas
 
 | Perkara | Kandungan |
-|--------|----------|
-| Indikasi Asal | Tidak tersedia dalam teks lesen NPRA (kosong dalam ekstrak daftar); secara internasional, nitrazepam ditunjukkan untuk rawatan jangka pendek insomnia |
-| Indikasi Diramalkan | Gangguan Tidur, Memulai dan Mengekalkan Tidur (Insomnia) |
+|------|------|
+| Indikasi Asal | Insomnia; ensefalopati mioklonik awal |
+| Indikasi Baharu yang Diramalkan | Gangguan tidur (memulakan dan mengekalkan tidur) |
 | Skor Ramalan TxGNN | 99.89% |
-| Tahap Bukti | L2 (1 penerbitan tahap RCT; tiada percubaan klinikal berdaftar) |
-| Status Pasaran Malaysia | Dipasarkan |
-| Bilangan Pendaftaran | 1 |
-| Keputusan Disyorkan | Teruskan dengan Langkah Keselamatan |
+| Tahap Bukti | L4 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Nitrazepam adalah benzodiazepin klasik yang bertindak pada sub-unit α reseptor GABA-A, meningkatkan frekuensi pembukaan saluran klorida. Ini menghasilkan kesan sedatif, ansiolitik, pelonggar otot, dan antikejang — mekanisme yang telah dicirikan dengan baik dan berkaitan langsung dengan induksi tidur dan pemeliharaan.
+Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan pengetahuan farmakologi am, nitrazepam ialah benzodiazepin yang bertindak sebagai modulator alosterik positif reseptor GABA-A. Ia meningkatkan neurotransmisi perencatan dan menghasilkan kesan sedatif-hipnotik. Mekanisme ini sepadan dengan rawatan kesukaran memulakan dan mengekalkan tidur.
 
-Penting untuk diketahui bahawa ramalan teratas model bukanlah indikasi yang benar-benar baru: ia mencerminkan penggunaan klinikal utama yang telah lama ditetapkan untuk nitrazepam sebagai hipnotik. Ini harus dibaca sebagai TxGNN dengan betul memulihkan hubungan ubat-penyakit yang diketahui bukannya mengemukakan hipotesis penyusunan semula yang baru — berguna sebagai isyarat pengesahan untuk model, tetapi bukan sebagai peluang komersial atau klinikal yang baru.
+Indikasi yang diramalkan ini pada dasarnya sama dengan indikasi asal (insomnia). Oleh itu, ia bukan calon pengitaran semula yang sebenar, dan skor TxGNN yang tinggi sebahagian besarnya mencerminkan indikasi yang sudah diketahui.
 
-TxGNN juga mengemukakan dua calon berperingkat lebih rendah, jauh lebih lemah: ensefalopati akut dengan kejang bifasik dan penurunan difusi akhir (AESD), dan sindrom Wernicke-Korsakoff (WKS). Kedua-duanya berkongsi rasional farmakologi yang dangkal (agonis GABA-A secara teorinya boleh membantu mengawal kejang atau keagitasan dalam keadaan ini), tetapi tidak ada satupun yang mempunyai bukti percubaan klinikal atau literatur yang menyokong, dan patologi teras setiap satu (neuroinflammasi/edema sitotoksik dalam AESD; neurodegenerasi yang didorong kekurangan tiamina dalam WKS) tidak ditangani oleh mekanisme nitrazepam. Kedua-duanya diberi skor L5 dan disyorkan **Tahan**.
+Bukti yang ada bersifat tidak langsung. Kebanyakan literatur ialah ulasan umum tentang hipnotik dan insomnia, dengan hanya sebilangan kecil kajian khusus nitrazepam.
+
+Dua ramalan lain (peringkat 2 dan 3) hanya disokong oleh skor model tanpa ujian klinikal atau literatur:
+- **Ensefalopati akut dengan sawan bifasik dan resapan terbatas lewat**: kaitan hanya bersifat teori melalui penindasan sawan oleh modulasi GABA-A. Tiada bukti bahawa nitrazepam mengubah perjalanan penyakit ini. Skor 99.59%, tahap bukti L5.
+- **Sindrom Wernicke-Korsakoff**: tiada rasional mekanistik yang jelas kerana penyakit ini disebabkan kekurangan tiamin. Kesan sedatif dan amnestik benzodiazepin berpotensi memburukkan gangguan kognitif. Skor 99.31%, tahap bukti L5.
 
 ---
 
-## Bukti Percubaan Klinikal
+## Bukti Ujian Klinikal
 
-Pada masa ini tiada percubaan klinikal berkaitan berdaftar.
+Buat masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
+Senarai berikut memilih rujukan yang paling relevan (utamakan kajian khusus nitrazepam dan kajian perbandingan).
+
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|------|------|------|----------|
-| [6135296](https://pubmed.ncbi.nlm.nih.gov/6135296/) | 1983 | RCT | Acta Psychiatr Scand | Ujian silang buta berganda (n=26 pesakit warga tua inpatien): nitrazepam 5mg vs. triazolam 0.25mg menghasilkan kuantiti/kualiti tidur dan prestasi psikomotor yang serupa, tiada perbezaan ketara |
-| [19450355](https://pubmed.ncbi.nlm.nih.gov/19450355/) | 2007 | Ulasan | BMJ Clinical Evidence | Sehingga 40% daripada orang dewasa mempunyai insomnia; prevalens meningkat dengan usia; menyemak faktor risiko dan bukti rawatan hipnotik |
-| [32724021](https://pubmed.ncbi.nlm.nih.gov/32724021/) | 2020 | Ulasan | Med Lett Drugs Ther | Ulasan lemborexant (Dayvigo), hipnotik antagonis orexin yang lebih baru, menempatkan hipnotik benzodiazepin yang lebih lama seperti nitrazepam dalam konteks |
-| [20467592](https://pubmed.ncbi.nlm.nih.gov/20467592/) | 2010 | Ulasan | Drugs of Today | Mengulas antagonis serotonin 5-HT2A untuk insomnia; mencatat benzodiazepin (termasuk nitrazepam) mengurangkan tidur gelombang lambat dan REM berbanding hipnotik non-BZD |
-| [7725291](https://pubmed.ncbi.nlm.nih.gov/7725291/) | 1995 | Ulasan | Tidsskr Nor Laegeforen | Mengulas klasifikasi, diagnosis, dan perkembangan rawatan dalam insomnia untuk pengamal umum |
-| [238826](https://pubmed.ncbi.nlm.nih.gov/238826/) | 1975 | Ulasan | Drugs | Mengulas keberkesanan ubat hipnotik dalam hubungan dengan fisiologi tidur (kitaran REM/NREM) |
-| [4712500](https://pubmed.ncbi.nlm.nih.gov/4712500/) | 1973 | Ulasan | British Medical Journal | Surat-menyurat/ulasan mengenai kesan subjektif dan berkaitan mimpi yang dilaporkan nitrazepam |
-| [4892037](https://pubmed.ncbi.nlm.nih.gov/4892037/) | 1969 | Ulasan/Kes | British Medical Journal | 27 pesakit mengambil overdos nitrazepam (sehingga 80 tablet) dengan hanya mengantuk, tiada bahaya serius; ujian buta berganda mendapati ia berkuat kuasa seperti butobarbitone — membuat kesimpulan "hipnotik yang selamat" |
-| [7037262](https://pubmed.ncbi.nlm.nih.gov/7037262/) | 1981 | Kajian PK | Clin Pharmacokinet | Mengulas farmakokinetik klinikal nitrazepam (penyerapan, separuh hayat, metabolisme) |
-| [1125532](https://pubmed.ncbi.nlm.nih.gov/1125532/) | 1975 | Laporan kes/Kohort | Br J Psychiatry | Siri kes mengenai risiko kebergantungan nitrazepam (Mogadon) dengan penggunaan jangka panjang |
+|------|-----|------|------|---------|
+| [4892037](https://pubmed.ncbi.nlm.nih.gov/4892037/) | 1969 | Ulasan/Pendapat | British Medical Journal | Pada 27 pesakit yang mengambil nitrazepam secara berlebihan (sehingga 80 biji), hanya mengantuk berlaku. Percubaan buta ganda menunjukkan keberkesanan setanding butobarbiton sebagai hipnotik. |
+| [1743245](https://pubmed.ncbi.nlm.nih.gov/1743245/) | 1991 | Kajian silang buta ganda | European Journal of Clinical Pharmacology | Nitrazepam 5 mg/hari dan oksazepam 25 mg/hari sama-sama berkesan mendorong tidur dan meningkatkan kualiti tidur berbanding plasebo (28 pesakit). |
+| [15252823](https://pubmed.ncbi.nlm.nih.gov/15252823/) | 2004 | Ulasan sistematik dan meta-analisis | Human Psychopharmacology | Membandingkan keberkesanan ubat Z (zaleplon, zolpidem, zopiklon) dengan benzodiazepin termasuk nitrazepam bagi pengurusan insomnia jangka pendek. |
+| [10804040](https://pubmed.ncbi.nlm.nih.gov/10804040/) | 2000 | Ulasan | Drugs | Keberkesanan hipnotik zolpidem setanding benzodiazepin termasuk nitrazepam. |
+| [7037262](https://pubmed.ncbi.nlm.nih.gov/7037262/) | 1981 | Tidak dikelaskan | Clinical Pharmacokinetics | Kajian farmakokinetik klinikal nitrazepam (tiada abstrak). |
+| [1125532](https://pubmed.ncbi.nlm.nih.gov/1125532/) | 1975 | Tidak dikelaskan | British Journal of Psychiatry | Laporan mengenai kebergantungan nitrazepam (tiada abstrak). |
+| [19450355](https://pubmed.ncbi.nlm.nih.gov/19450355/) | 2007 | Ulasan | BMJ Clinical Evidence | Insomnia pada warga tua: kelaziman meningkat dengan usia. |
+| [15089115](https://pubmed.ncbi.nlm.nih.gov/15089115/) | 2004 | Ulasan | CNS Drugs | Kesan sisa hipnotik (mengantuk siang hari, gangguan psikomotor) dan risiko kemalangan. |
+| [20171127](https://pubmed.ncbi.nlm.nih.gov/20171127/) | 2010 | Tidak dikelaskan | Sleep Medicine Reviews | Hipnotik mengganggu keseimbangan badan dan meningkatkan risiko jatuh serta patah pinggul. |
+| [39231170](https://pubmed.ncbi.nlm.nih.gov/39231170/) | 2024 | Tidak dikelaskan | PLoS One | Corak penggunaan dan preskripsi benzodiazepin yang tidak sesuai dalam penjagaan kesihatan primer; penggunaan jangka panjang dikaitkan dengan kebergantungan, toleransi dan kemerosotan kognitif. |
 
 ---
 
-## Maklumat Pasaran Malaysia
+## Keselamatan
 
-Nitrazepam dipasarkan di Malaysia dengan 1 pendaftaran NPRA; butiran nombor lesen, nama produk, bentuk dos, dan teks indikasi yang diluluskan tidak dilengkapkan dalam ekstrak data semasa dan perlu ditarik terus daripada daftar produk NPRA.
+Sila rujuk sisipan pembungkusan untuk maklumat keselamatan (amaran utama dan kontraindikasi belum tersedia).
 
----
+**Interaksi Ubat**: Pertanyaan interaksi selesai dan mengenal pasti 55 interaksi yang berpotensi, tetapi tahap keterukan semuanya tidak diketahui. Contoh ubat yang terlibat: morfin, metformin, bupropion, omeprazol, pantoprazol, lansoprazol, famotidin, metronidazol, deksametason, hidrokortison, budesonid, metoklopramid, loperamid, aspirin, kalsitriol, kanamisin, vankomisin, sukralfat, laktulosa dan nizatidin. Kombinasi dengan morfin (opioid) wajar diberi perhatian khusus kerana risiko kesan penekanan sistem saraf pusat, berdasarkan pengetahuan farmakologi am.
 
-## Pertimbangan Keselamatan
-
-Sila rujuk surat sisipan pakej untuk maklumat keselamatan.
+Literatur turut menyatakan risiko kesan sisa pada siang hari, jatuh, kebergantungan dan toleransi bagi benzodiazepin, terutamanya pada warga tua.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Teruskan dengan Langkah Keselamatan**
+**Keputusan: Hold**
 
 **Rasional:**
-Ramalan teratas (insomnia) adalah koheren secara farmakologi dan disokong oleh satu penerbitan tahap RCT serta asas literatur sejarah yang besar, tetapi ia mengesahkan semula indikasi nitrazepam yang sudah diketahui bukannya mengenal pasti yang baru — jadi tidak ada sebenarnya "penyusunan semula" yang menguntungkan di sini, hanya isyarat pengesahan. Dua indikasi lain yang ditandakan TxGNN (AESD, WKS) tidak mempunyai bukti sokongan dan direkomendasikan Tahan secara terpisah.
+- Ramalan utama pada dasarnya sama dengan indikasi asal, jadi ia bukan pengitaran semula yang sebenar dan tidak menambah nilai baharu. Tiada ujian klinikal, dan bukti literatur bersifat tidak langsung (tahap L4). Dua ramalan lain hanya disokong oleh skor model (L5) dan tidak mempunyai rasional mekanistik yang kukuh.
+- Nitrazepam tidak dipasarkan di Malaysia (0 pendaftaran), dan data keselamatan daripada sisipan pembungkusan belum tersedia.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Label produk TFDA/NPRA (amaran utama, kontraindikasi) — pada masa ini jurang data yang menghalang (DG001)
-- Pengesahan MOA formal melalui API DrugBank (pada masa ini jurang data, DG002)
-- Data interaksi ubat-ubat (DDI) — pertanyaan semasa mengembalikan tiada hasil
-- Butiran lesen/produk NPRA yang lengkap (nombor lesen, nama produk, bentuk dos, teks indikasi yang diluluskan)
-
+- Maklumat amaran dan kontraindikasi daripada sisipan pembungkusan NPRA (jurang data yang menghalang penyaringan keselamatan)
+- Data mekanisme tindakan (MOA) daripada DrugBank
+- Penjelasan sama ada indikasi baharu ini benar-benar berbeza daripada indikasi asal, atau hanya pertindihan
+- Penilaian status pendaftaran dan keperluan pasaran tempatan, memandangkan produk ini tidak dipasarkan di Malaysia
+- Untuk ramalan peringkat 2 dan 3, bukti klinikal atau pra-klinikal asas sebelum dipertimbangkan lebih lanjut
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

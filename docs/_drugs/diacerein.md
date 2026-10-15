@@ -2,7 +2,7 @@
 layout: default
 title: Diacerein
 parent: Low Evidence (L4-L5)
-nav_order: 273
+nav_order: 281
 evidence_level: L5
 indication_count: 0
 ---

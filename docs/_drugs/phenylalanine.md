@@ -2,15 +2,15 @@
 layout: default
 title: Phenylalanine
 parent: Low Evidence (L4-L5)
-nav_order: 544
-evidence_level: L5
+nav_order: 571
+evidence_level: L4
 indication_count: 2
 ---
 
 # Phenylalanine
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **2** 
+Tahap bukti: **L4** | Indikasi diramal: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,66 +29,93 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Fenilalanin: Dari Petunjuk Penggunaan Tidak Tertantu kepada Kolangitis Sklerotik
+# Phenylalanine: Daripada Tiada Indikasi Berdaftar kepada Kolangitis Sklerosis
 
 ## Ringkasan Satu Ayat
 
-Fenilalanin (DrugBank DB00120) ialah asid amino penting yang dipasarkan di Malaysia di bawah 35 pendaftaran, namun teks petunjuk penggunaan yang diluluskan tidak tertangkap dalam data daftar yang tersedia.
-Model TxGNN meramal bahawa ia mungkin berkesan untuk **Kolangitis Sklerotik**, dengan **tiada percubaan klinikal** dan hanya **4 publikasi yang berkaitan secara tidak langsung** yang dikenal pasti pada masa kini — tiada satu pun dari publikasi tersebut mengkaji fenilalanin sebagai campur tangan terapeutik untuk penyakit ini.
+Phenylalanine ialah asid amino aromatik penting yang tidak mempunyai indikasi berdaftar di Malaysia kerana ia tidak dipasarkan di sini.
+Model TxGNN meramalkan ia mungkin berkesan untuk **kolangitis sklerosis (sclerosing cholangitis)**,
+tetapi setakat ini terdapat **0 ujian klinikal** dan hanya **3 penerbitan** yang berkaitan secara tidak langsung dengan arah ini.
 
-## Gambaran Pantas
+---
 
-| Item | Kandungan |
-|------|---------|
-| Petunjuk Penggunaan Asal | Tidak tersedia dalam data daftar (kesemua 5 rekod lesen yang diekstrak mempunyai teks petunjuk penggunaan kosong) |
-| Petunjuk Penggunaan Baharu yang Diramalkan | Kolangitis Sklerotik |
+## Gambaran Ringkas
+
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Tiada data indikasi berdaftar |
+| Indikasi Baharu yang Diramalkan | Kolangitis sklerosis (sclerosing cholangitis) |
 | Skor Ramalan TxGNN | 99.43% |
-| Aras Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 35 |
-| Keputusan Disyorkan | Tahan |
+| Tahap Bukti | L4 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (Tangguh) |
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia pada masa kini untuk fenilalanin dalam pakej bukti ini. Apa yang diketahui ialah bahawa fenilalanin ialah asid amino penting dan pelopor metabolik tirosin — ia bukan ubat dengan mekanisme farmakologi yang tertakrif menyasarkan laluan penyakit khusus.
+Data terperinci mengenai mekanisme tindakan (MOA) phenylalanine tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Phenylalanine ialah asid amino penting dan prekursor kepada tirosina. Tiada indikasi asal yang berdaftar di Malaysia, maka hubungan dengan indikasi baharu tidak dapat dinilai secara terus.
 
-Tidak terdapat hubung sebab akibat atau mekanistik yang telah ditentukan antara fenilalanin dan patologi imun/fibrosis yang mendasari kolangitis sklerotik. Kesusasteraan yang dikenal pasti adalah kebetulan daripada sokongan: satu kajian (PMID 15790420) mengukur tirosin plasma sebagai biopenanda keletihan pada pesakit kolangitis (suatu persatuan, bukan campur tangan); yang lain (PMID 32025163) mengprofilkan metabolomik serum dalam kolangiokarsinom untuk penemuan biopenanda; dan dua kertas kerja lebih lama (PMID 8000512, PMID 2103382) berkenaan dengan *formil-metionil-leusil-fenilalanin (fMLP)*, suatu peptida kemotaktis bakteria yang hanya mengandungi sisa fenilalanin — berkaitan secara struktur tetapi tidak berkaitan secara farmakologi dengan fenilalanin itu sendiri.
+Dari segi bukti, tiada hubungan mekanistik langsung yang dapat ditubuhkan antara phenylalanine dan kolangitis sklerosis. Literatur yang ada hanya mengaitkan metabolisme asid amino aromatik (kepekatan tirosina plasma, produk hiliran phenylalanine) dengan keletihan pada pesakit sirosis biliari primer dan kolangitis sklerosis primer. Ini ialah perkaitan tidak langsung dengan gejala penyakit, dan bukan bukti manfaat terapeutik.
 
-Skor TxGNN yang tinggi (0.994) mencerminkan kesamaan topologi dalam graf pengetahuan daripada bukti mekanistik atau klinikal. Memandangkan ketiadaan sebarang kajian langsung tentang fenilalanin dalam kolangitis sklerotik, ramalan ini harus dianggap sebagai isyarat penjanaan hipotesis sahaja, bukan calon tujuan baru dengan bukti sokongan.
+Skor TxGNN yang tinggi (0.994) hanyalah ramalan pengiraan. Tanpa data MOA dan tanpa produk dipasarkan, tiada laluan farmakologi yang boleh disemak silang.
 
-## Bukti Percubaan Klinikal
+---
 
-Pada masa kini tiada percubaan klinikal berkaitan yang didaftarkan.
+## Bukti Ujian Klinikal
 
-## Bukti Kesusasteraan
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|------|------|------|--------|
-| [15790420](https://pubmed.ncbi.nlm.nih.gov/15790420/) | 2005 | Kohort | BMC Gastroenterology | Memeriksa tahap tirosin plasma dan persatuan mereka dengan keletihan dalam sirosis bilidaris utama dan kolangitis sklerotik utama; mengenal pasti persatuan asid amino/keletihan, bukan campur tangan fenilalanin |
-| [32025163](https://pubmed.ncbi.nlm.nih.gov/32025163/) | 2020 | Kohort | Journal of Clinical and Experimental Hepatology | Pemprofilan metabolomik serum/spekrometri jisim untuk mencari biopenanda untuk kolangiokarsinom berbanding penyakit hepatobiliari jinak; tiada rawatan fenilalanin yang terlibat |
-| [8000512](https://pubmed.ncbi.nlm.nih.gov/8000512/) | 1994 | Model hewan | Journal of Gastroenterology | Model kolitis tikus: pemberian rektal peptida bakteria fMLT (yang mengandungi sisa fenilalanin) mengaruh kolangitis saluran kecil — satu keingintahuan mekanistik, bukan bukti untuk fenilalanin sebagai rawatan |
-| [2103382](https://pubmed.ncbi.nlm.nih.gov/2103382/) | 1990 | Lain-lain | Journal of Gastroenterology and Hepatology | Menerangkan peredaran enterohepati peptida kemotaktis bakteria F-met-oligo dalam manusia; tidak berkaitan dengan penggunaan terapeutik fenilalanin |
+---
+
+## Bukti Literatur
+
+| PMID | Tahun | Jenis | Jurnal | Dapatan Utama |
+|------|-----|------|------|---------|
+| [15790420](https://pubmed.ncbi.nlm.nih.gov/15790420/) | 2005 | Kohort | BMC Gastroenterology | Mengkaji hubungan antara kepekatan tirosina plasma dan keletihan pada pesakit sirosis biliari primer dan kolangitis sklerosis primer; perkaitan dengan gejala, bukan bukti terapeutik |
+| [32025163](https://pubmed.ncbi.nlm.nih.gov/32025163/) | 2020 | Kohort | Journal of Clinical and Experimental Hepatology | Profil metabolomik serum kolangiokarsinoma berbanding penyakit hepatobilier benigna di UK; bertujuan mencari penanda biologi awal |
+| [2103382](https://pubmed.ncbi.nlm.nih.gov/2103382/) | 1990 | Kaedah asai / asas | Journal of Gastroenterology and Hepatology | Asai radioimun untuk peptida kemotaktik bakteria (formyl-methionyl-leucyl-phenylalanine) dan peredaran enterohepatik; tidak berkaitan langsung dengan terapi |
+
+---
 
 ## Maklumat Pasaran Malaysia
 
-35 pendaftaran produk berada dalam rekod, namun set data kawal selia yang diekstrak tidak memasukkan nombor lesen, nama produk, bentuk dos, atau teks petunjuk penggunaan bagi mana-mana 5 entri yang diambil sampel — bahagian ini tidak dapat dipenuhi daripada pakej bukti semasa dan memerlukan pencucian semula daripada daftar sumber.
+Phenylalanine pada masa ini tidak dipasarkan di Malaysia dan tiada lesen berdaftar.
+
+---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk kepada risalah pembungkus untuk maklumat keselamatan.
+- **Penyakit yang dikaitkan sebagai kontraindikasi dalam graf pengetahuan TxGNN (PrimeKG)**: *(bukan daripada teks label produk)*
+  - Penyakit buah pinggang, penyakit buah pinggang kronik, kegagalan buah pinggang kronik, kegagalan buah pinggang peringkat akhir
+  - Nefrolitiasis, kerentanan nefrolitiasis akibat SLC26A1, nefrokalsinosis, nefropati urat akut
+  - Hiperkalsemia, hiperkalsemia humoral akibat keganasan, sarkoidosis, penyakit metabolisme fosforus
+  - Penyakit jantung, penyakit kardiovaskular, fibrilasi ventrikel, keracunan digitalis
+  - Fenilketonuria, gangguan metabolisme phenylalanine
+  - Pyoureter
+
+Untuk amaran utama, kontraindikasi berdasarkan label, dan interaksi ubat, sila rujuk risalah pakej (package insert) kerana tiada data yang tersedia.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold (Tangguh)**
 
-**Rasional:**
-Ramalan bergantung sepenuhnya pada skor topologi TxGNN (bukti L5) tanpa percubaan klinikal sokongan dan tiada kesusasteraan yang mengkaji fenilalanin secara langsung sebagai rawatan untuk kolangitis sklerotik; publikasi yang dikenal pasti ialah biopenanda atau kajian peptida yang tidak berkaitan. Pada masa kini tiada rasional mekanistik atau klinikal untuk memajukan calon ini.
+**Justifikasi:**
+- Ramalan TxGNN yang tinggi tidak disokong oleh ujian klinikal atau bukti terapeutik; literatur yang ada hanya menunjukkan perkaitan tidak langsung dengan gejala. Ubat ini juga tidak dipasarkan di Malaysia dan tiada data MOA.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Data mekanisme tindakan (MOA) untuk fenilalanin daripada DrugBank
-- Amaran label TFDA/NPRA, kontraindikasi, dan teks petunjuk penggunaan yang diluluskan (pada masa kini menghalang, mengikut jurang data DG001)
-- Sebarang kajian praklinikal atau mekanistik yang menghubungkan secara langsung metabolisme fenilalanin kepada kolangitis/fibrosis biliari sebelum penilaian lanjutan adalah berwaran
+- Data mekanisme tindakan (MOA) yang terperinci
+- Maklumat amaran dan kontraindikasi daripada risalah pakej NPRA (penghalang untuk saringan keselamatan)
+- Bukti praklinikal atau klinikal yang menunjukkan manfaat terapeutik dalam kolangitis sklerosis
+- Penilaian keselamatan untuk pesakit dengan penyakit buah pinggang, jantung, dan fenilketonuria
+- Penilaian kebolehlaksanaan laluan pentadbiran dan status pendaftaran produk di Malaysia
 
+---
+
+**Nota tambahan:** Indikasi ramalan kedua, **kekurangan protrombin kongenital**, mempunyai skor TxGNN 99.26% tetapi tiada ujian klinikal atau literatur sokongan (tahap bukti L5), dan tiada hubungan mekanistik yang dikenal pasti. Keputusan yang disyorkan juga Hold.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -2,7 +2,7 @@
 layout: default
 title: Soybean Oil
 parent: Low Evidence (L4-L5)
-nav_order: 626
+nav_order: 657
 evidence_level: L5
 indication_count: 1
 ---
@@ -29,67 +29,64 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Minyak Kacang Soya: Dari Komponen Emulsi Lipid Nutrisi Parenteral ke Amenorea
+# Minyak Kacang Soya: Daripada Tiada Indikasi Berdaftar kepada Amenorea
 
 ## Ringkasan Satu Ayat
 
-Minyak Kacang Soya digunakan secara klinikal terutamanya sebagai bahan tambahan dan sumber kalori dalam emulsi lipid nutrisi parenteral; tidak ada teks indikasi asal yang formal tersedia dalam paket data semasa. Model TxGNN meramalkan kemungkinan hubungan dengan **Amenorea** dengan skor yang sangat tinggi, tetapi ramalan ini pada masa ini disokong oleh **0 percubaan klinikal** dan **0 penerbitan** — ini adalah isyarat pengiraan semata-mata, tanpa bukti mekanis atau klinikal di belakangnya lagi.
+Minyak kacang soya (soybean oil) ialah sumber lipid yang biasa digunakan sebagai komponen pemakanan atau lipid parenteral, dan tiada indikasi asal yang direkodkan dalam data yang dikumpulkan untuk laporan ini.
+Model TxGNN meramalkan ia mungkin berkesan untuk **amenorea**, tetapi buat masa ini **tiada ujian klinikal** dan **tiada penerbitan** yang menyokong arah ini; ramalan ini hanyalah ramalan model komputasi.
 
 ---
 
-## Gambaran Pantas
+## Gambaran Keseluruhan
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Tidak dinyatakan secara formal dalam data pendaftaran; penggunaan klinikal yang diketahui adalah sebagai bahan tambahan emulsi lipid/sumber kalori dalam nutrisi parenteral |
-| Indikasi Baru yang Diramalkan | Amenorea |
+| Indikasi Asal | Tiada data indikasi berdaftar |
+| Indikasi Baharu yang Diramalkan | Amenorea |
 | Skor Ramalan TxGNN | 99.61% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 6 |
-| Keputusan yang Disyorkan | Tangguhkan |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme kerja yang terperinci untuk Minyak Kacang Soya pada masa ini tidak tersedia. Berdasarkan maklumat yang ada, peranan klinikal yang mantap untuk Minyak Kacang Soya adalah sebagai sumber lipid/bahan tambahan dalam formulasi nutrisi parenteral — ia tidak dikaitkan dengan sebarang laluan regulatori yang dikenali untuk aksis hipotalamus-hipofisis-ovari atau fisiologi menstruasi.
+Data mekanisme tindakan (MOA) bagi minyak kacang soya belum tersedia. Tiada indikasi asal direkodkan, jadi hubungan antara indikasi asal dengan indikasi baharu tidak dapat dinilai. Data yang dikumpulkan tidak menyokong sebarang pautan mekanistik.
 
-Skor TxGNN sebanyak 99.61% mencerminkan kesamaan dalam ruang penyisipan graf pengetahuan model itu bukannya mekanisme biologi yang terbukti. Ia mungkin berpunca daripada sambungan tidak langsung antara nod metabolisme lipid dan nod metabolisme hormon dalam graf. Pada peringkat ini tiada percubaan klinikal, literatur, atau kajian mekanis yang menyokong hubungan kausal atau terapeutik antara Minyak Kacang Soya dan amenorea, oleh itu ramalan ini harus diperlakukan sebagai isyarat algoritmik tulen tanpa bukti kebolehrasaan biologi.
+Satu hipotesis yang munasabah, tetapi **tidak disokong oleh data di sini**, ialah minyak kacang soya merupakan sumber asid lemak politaktepu dan fitosterol yang mungkin mempengaruhi metabolisme lipid atau isyarat hormon. Namun, amenorea mempunyai banyak punca (hipotalamus, pituitari, ovari, uterus dan lain-lain), dan sumber lipid pemakanan tidak mungkin merawat kebanyakannya.
 
----
-
-## Bukti Percubaan Klinikal
-
-Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
+Skor yang sangat tinggi (0.996) juga mungkin mencerminkan penggunaan minyak ini sebagai komponen lipid pemakanan atau parenteral. Ini merupakan perkaitan, bukan mekanisme terapeutik.
 
 ---
 
-## Bukti Literatur
+## Maklumat Pasaran Malaysia
 
-Pada masa ini tiada literatur berkaitan yang tersedia.
+Minyak kacang soya buat masa ini tidak dipasarkan di Malaysia, dan tiada lesen berdaftar ditemui dalam data NPRA yang dikumpulkan.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila merujuk nota pakej untuk maklumat keselamatan.
+Tiada interaksi ubat dijumpai dalam data yang dikumpulkan. Untuk maklumat amaran dan kontraindikasi, sila rujuk risalah bungkusan (package insert).
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tangguhkan**
+**Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-Tiada bukti percubaan klinikal atau literatur yang menyokong Minyak Kacang Soya untuk amenorea, dan tiada sambungan mekanis yang mantap wujud antara penggunaan yang diketahui dan indikasi ini — ramalan bergantung sepenuhnya pada skor penyisipan TxGNN (L5). Data keselamatan teras (amaran dan kontraindikasi nota pakej TFDA/NPRA) juga hilang, yang menghalang walaupun penilaian keselamatan pendahuluan.
+- Ramalan ini hanya berasaskan model (L5) tanpa sebarang ujian klinikal atau literatur sokongan, tanpa data MOA, tanpa indikasi asal, dan tanpa produk berdaftar di Malaysia. Tiada asas mekanistik yang dapat disahkan untuk menyokong kegunaan dalam amenorea.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Nota pakej TFDA/NPRA amaran dan kontraindikasi (pada masa ini jurang data yang menghalang)
-- Mekanisme kerja (MOA) untuk Minyak Kacang Soya
-- Mana-mana kajian praklinikal atau mekanis yang menghubungkan komponen emulsi lipid kepada fisiologi reproduktif/menstruasi
-- Butiran aras lesen yang disahkan (nama produk, bentuk dos, teks indikasi yang diluluskan) daripada rekod pendaftaran Malaysia, yang pada masa ini kosong dalam paket data ini
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Risalah bungkusan NPRA (amaran dan kontraindikasi) bagi menjalankan saringan keselamatan
+- Data mekanisme tindakan (MOA) daripada DrugBank
+- Semakan literatur dan pendaftaran ujian klinikal berkaitan minyak kacang soya dan amenorea
+- Penilaian keserasian laluan pentadbiran (oral berbanding parenteral) dan formulasi yang sesuai
+- Penjelasan sama ada ramalan ini hanya mencerminkan perkaitan dengan penggunaan sebagai lipid pemakanan/parenteral
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

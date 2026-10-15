@@ -2,7 +2,7 @@
 layout: default
 title: Imipenem
 parent: Low Evidence (L4-L5)
-nav_order: 393
+nav_order: 412
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,79 +29,78 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Imipenem: Daripada Jangkitan Bakteria kepada Scleroderma Difus
+# Imipenem: Daripada Jangkitan Bakteria kepada Skleroderma Meresap (Diffuse Scleroderma)
 
 ## Ringkasan Satu Ayat
 
-> Imipenem (dengan cilastatin) adalah antibiotik carbapenem spektrum luas yang digunakan untuk jangkitan bakteria yang teruk dan tahan terhadap pelbagai ubat; teks indikasi yang diluluskan TFDA yang khusus tidak tersedia dalam data sumber.
-> Ramalan kedudukan teratas model TxGNN adalah **Scleroderma Difus**, dengan skor prediksi yang sangat tinggi tetapi **0 ujian klinikal** dan **0 penerbitan** yang sedang menyokong arah ini.
-> Calon ini harus dianggap sebagai output model keyakinan rendah yang memerlukan penelitian lanjut sebelum sebarang tindakan diambil.
+Imipenem ialah antibiotik karbapenem yang pada asalnya digunakan untuk merawat jangkitan bakteria seperti radang paru-paru bakteria, peritonitis, endokarditis dan artritis bakteria.
+Model TxGNN meramalkan ia mungkin berkesan untuk **skleroderma meresap**, tetapi setakat ini terdapat **0 ujian klinikal** dan **0 penerbitan** yang menyokong arah ini. Ramalan ini hanya berasaskan model graf.
 
 ---
 
 ## Gambaran Ringkas
 
-| Item | Kandungan |
-|------|----------|
-| Indikasi Asal | Tidak dinyatakan dalam data sumber (Imipenem secara amnya dikenali sebagai antibakterial spektrum luas untuk jangkitan yang teruk/tahan terhadap pelbagai ubat) |
-| Indikasi Baru yang Diprediksi | Scleroderma Difus |
-| Skor Prediksi TxGNN | 99.99% |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Jangkitan bakteria (radang paru-paru bakteria, peritonitis, endokarditis, artritis bakteria, endometritis dan lain-lain) |
+| Indikasi Baharu yang Diramalkan | Skleroderma meresap (diffuse scleroderma) |
+| Skor Ramalan TxGNN | 99.99% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Jumlah Pendaftaran | 5 |
-| Keputusan yang Disyorkan | Tahan |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
 
-## Mengapa Ramalan Ini Masuk Akal?
+## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan yang terperinci tidak tersedia (Jurang Data DG002). Berdasarkan farmakologi yang diketahui, Imipenem adalah antibiotik beta-laktam kelas carbapenem yang menghalang sintesis dinding sel bakteria dengan mengikat protein pengikat penisilin (PBP), memberikannya aktiviti membunuh bakteria spektrum luas terhadap organisma Gram-positif, Gram-negatif, dan anaerob.
+Butiran mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat sedia ada, imipenem tergolong dalam kelas karbapenem, iaitu antibakteria yang merencat sintesis dinding sel bakteria melalui protein pengikat penisilin (PBP). Keberkesanannya dalam jangkitan bakteria yang teruk telah mantap.
 
-Scleroderma difus, bagaimanapun, adalah penyakit jaringan ikat autoimun dan fibrotik tanpa etiologi bakteria yang diketahui. Tiada sasaran antimikrob dalam patofisiologinya yang akan menjelaskan kesan terapeutik daripada penghambat sintesis dinding sel. Konsisten dengan ini, penilaian mekanistik pakej bukti sendiri menyatakan tiada pautan mekanistik antara ubat dan penyakit ini, dan bahawa skor TxGNN yang tinggi paling mungkin mencerminkan asosiasi palsu daripada penyisipan graf pengetahuan daripada isyarat biologi sebenar — disokong oleh ketiadaan lengkap ujian klinikal atau literatur (0/0).
+Skleroderma meresap ialah penyakit autoimun yang menyebabkan fibrosis, dan bukan jangkitan bakteria. Tiada rasional mekanistik yang jelas menghubungkan perencatan sintesis dinding sel bakteria dengan patogenesis penyakit ini. Skor yang tinggi kemungkinan besar hanyalah hasil ramalan berasaskan graf pengetahuan dan bukan petunjuk keberkesanan sebenar.
 
-Sebaliknya, beberapa ramalan berpangkat rendah dalam pakej bukti yang sama ini (contohnya, demam tifoid, salmonelosis, jangkitan Staphylococcus aureus) jatuh tepat dalam spektrum antibakterial yang diketahui Imipenem dan disokong oleh bukti klinikal dan literatur. Ini memperkuat bahawa ramalan scleroderma difus berpangkat teratas adalah pencilan daripada isyarat penggunaan semula yang tulen.
+Oleh itu, ramalan ini perlu dianggap sebagai hipotesis awal yang lemah, bukan calon pengalihan guna yang disokong bukti.
 
 ---
 
 ## Bukti Ujian Klinikal
 
-Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
-Pada masa ini tiada literatur berkaitan yang tersedia
-
----
-
-## Maklumat Pasaran Malaysia
-
-Rekod Malaysia (NPRA) menunjukkan produk dipasarkan dengan **5 lesen terdaftar**, tetapi maklumat lesen terperinci (nombor kebenaran, nama produk, bentuk dos, teks indikasi yang diluluskan) tidak tersedia dalam data sumber.
+Pada masa ini tiada literatur berkaitan.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk surat sisipan paket untuk maklumat keselamatan.
+Maklumat keselamatan daripada sisipan pakej (amaran utama dan kontraindikasi berasaskan label) tidak tersedia. Sila rujuk sisipan pakej untuk maklumat keselamatan lengkap.
 
-*(Nota: amaran label TFDA/NPRA dan kontraindikasi (DG001) ditandai sebagai jurang data yang menghalang — maklumat ini mesti diperolehi sebelum sebarang penilaian keselamatan dapat diteruskan.)*
+Data tambahan yang ada:
+
+- **Kontraindikasi daripada graf pengetahuan** (bukan teks label): epilepsi, penyakit buah pinggang, piouretra (pyoureter), kolitis *Clostridium difficile* dan enterokolitis nekrotik perinatal.
+- **Interaksi ubat** (15 interaksi dikenal pasti):
+  - **Major**: bupropion, iohexol, iopamidol.
+  - **Sederhana**: warfarin, dikumarol, teofilin, aminofilin, difilin, oksitrifilin, siklosporin, etinilestradiol, asid mikofenolik, pemetrexed, lindane dan polietilena glikol (3350 dengan elektrolit).
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold (Tangguh)**
 
-**Rasional:**
-Ramalan berpangkat teratas (scleroderma difus) tidak mempunyai rasional mekanistik yang munasabah, tiada ujian klinikal, dan tiada literatur sokongan — ia tidak memenuhi bahkan bar minimum untuk penilaian lanjut (L5/S0).
+**Justifikasi:**
+- Tiada ujian klinikal atau literatur menyokong indikasi skleroderma meresap, dan tiada rasional mekanistik yang jelas. Bukti hanya pada tahap L5 (ramalan model sahaja).
+- Imipenem juga tidak dipasarkan di Malaysia, dan data keselamatan daripada sisipan pakej belum diperoleh.
 
-**Untuk meneruskan, berikut diperlukan:**
-- Amaran surat sisipan paket/kontraindikasi (DG001, Menghalang) untuk melengkapkan pemeriksaan keselamatan asas
-- Data mekanisme tindakan (DG002) untuk menilai dengan wajar keberkebolehajaran biologi untuk sebarang indikasi yang diprediksi
-- Jika mengejar analisis penggunaan semula lebih lanjut, utamakan calon yang lebih banyak disokong daripada set ramalan yang sama (contohnya, demam tifoid, jangkitan Staphylococcus aureus) daripada scleroderma difus
-- Lengkapkan butiran lesen Malaysia (nama produk, bentuk dos, teks indikasi yang diluluskan) yang sedang hilang daripada rekod daftar
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Memuat turun dan menghurai sisipan pakej NPRA untuk amaran dan kontraindikasi (jurang data yang menyekat).
+- Data mekanisme tindakan (MOA) terperinci daripada DrugBank.
+- Kajian praklinikal atau mekanistik yang menghubungkan karbapenem dengan fibrosis atau autoimuniti sistemik.
 
+**Nota mengenai calon lain:** Dalam senarai ramalan yang sama, **jangkitan *Staphylococcus aureus*** (L3; dua ujian Phase 4 melibatkan imipenem atau gabungan karbapenem untuk MRSA) dan **demam kepialu** (L4; data pemerhatian mengenai karbapenem untuk *Salmonella* Typhi XDR) mempunyai sokongan bukti yang jauh lebih kukuh. Kedua-duanya lebih wajar diutamakan untuk penilaian lanjut.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -2,7 +2,7 @@
 layout: default
 title: Fluorescein
 parent: Low Evidence (L4-L5)
-nav_order: 350
+nav_order: 363
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,64 +29,63 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Fluorescein: Dari Penggunaan Diagnostik Oftalmologi ke Angina Prinzmetal
+# Fluorescein: Daripada Agen Diagnostik kepada Angina Prinzmetal
 
-### Ringkasan Satu Ayat
+## Ringkasan Satu Ayat
 
-Fluorescein adalah pewarna fluoresensi diagnostik yang secara tradisional digunakan untuk angiografi oftalmologi dan pewarnaan permukaan okular, bukan ejen terapeutik dengan indikasi pengobatan yang telah ditetapkan.
-Model TxGNN meramalkan bahawa ia mungkin berkesan untuk **Angina Prinzmetal**, tetapi ramalan ini disokong oleh **0 ujian klinis** dan **0 penerbitan** — tiada bukti sebarang jenis wujud untuk menyokongnya.
+Fluorescein ialah pewarna pendarfluor yang digunakan dalam bidang diagnostik, terutamanya untuk angiografi dan pewarnaan kornea. Model TxGNN meramalkan ia mungkin berkesan untuk **angina Prinzmetal**, tetapi setakat ini **tiada ujian klinikal** dan **tiada literatur** yang menyokong arah ini. Ramalan ini hanya berasaskan model (tahap bukti L5).
 
-### Ikhtisar Pantas
+## Gambaran Keseluruhan Pantas
 
 | Item | Kandungan |
-|------|----------|
-| Indikasi Asal | Pewarna diagnostik untuk angiografi oftalmologi / pewarnaan permukaan okular (teks indikasi berlesensi khusus tidak tersedia dalam pakej data ini) |
-| Indikasi Baru yang Diramalkan | Angina Prinzmetal |
+|------|------|
+| Indikasi Asal | Tiada data indikasi yang diluluskan di Malaysia |
+| Indikasi Baharu yang Diramalkan | Angina Prinzmetal |
 | Skor Ramalan TxGNN | 99.81% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 1 |
-| Keputusan yang Disyorkan | Tahan |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
-### Mengapa Ramalan Ini Masuk Akal?
+## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme kerja terperinci tidak tersedia (DG002, jurang data keterukan tinggi). Berdasarkan maklumat yang diketahui, Fluorescein adalah pewarna fluoresensi yang digunakan untuk memvisualisasi vaskulatur retina/iris dan kecacatan permukaan okular secara diagnostik — ia tidak mempunyai aktiviti farmakologi yang telah ditetapkan pada otot licin vaskular koroner atau mekanisme vasospastik yang mendasari angina Prinzmetal.
+Pada masa ini, data terperinci tentang mekanisme tindakan tidak tersedia. Berdasarkan maklumat yang diketahui, fluorescein ialah pewarna pendarfluor untuk diagnostik dan tidak mempunyai aktiviti vasodilatasi atau anti-vasospasme yang diketahui.
 
-Rasional pengguna semula bukti pakej sendiri jelas pada perkara ini: tiada **kaitan mekanistik**, dan ramalan mempunyai sifar ujian klinis atau literatur yang menyokong di seluruh tiga sumber bukti yang ditanya (ClinicalTrials.gov, ICTRP, PubMed). Pola ini — skor TxGNN yang tinggi dengan ketiadaan lengkap bukti sokongan dunia sebenar — paling konsisten dengan **hingar grafik pengetahuan** daripada isyarat biologis yang asli, dan tidak boleh ditafsirkan sebagai hipotesis pengguna semula yang boleh dipercaya.
+Analisis data yang dikumpulkan untuk laporan ini tidak menemui sebarang hubungan mekanistik antara fluorescein dengan angina Prinzmetal. Skor TxGNN yang tinggi kelihatan sebagai artifak berasaskan graf tanpa sokongan klinikal.
 
-Juga patut diingat bahawa merentas 9 calon berperingkat lain untuk ubat ini, pola berulang: kebanyakannya mempunyai sifar bukti, dan beberapa dengan literatur yang diperolehi (cth. hemoglobinopati, trombofilia, hipertiroidisme) mengelirukan — kajian menggunakan fluorescein *angiografi* sebagai alat pencitraan diagnostik untuk mengesan komplikasi vaskular penyakit tersebut, bukan sebagai rawatan untuk mereka. Tiada dari 10 ramalan semasa mempunyai bukti penggunaan terapeutik yang asli.
+Sembilan ramalan lain dalam senarai 10 teratas juga tidak mempunyai mekanisme yang munasabah, antaranya:
+- **Artritis reumatoid** (99.74%): Literatur yang diperoleh berkaitan manifestasi okular dan mata kering. Fluorescein hanya muncul sebagai pewarna diagnostik, bukan sebagai rawatan.
+- **Hemoglobinopati** (99.72%): Literatur berkaitan angiografi fluorescein untuk mengesan retinopati sel sabit, iaitu peranan pengimejan diagnostik.
+- **Trombofilia** (99.67%): Literatur berkaitan oklusi vaskular retina yang mana angiografi fluorescein digunakan untuk diagnosis.
+- **Hipertiroidisme** (99.59%): Literatur berkaitan oftalmopati tiroid dan pewarnaan kornea.
+- Ramalan lain (kekurangan antitrombin jenis 2, lebihan faktor 5, kekurangan kofaktor heparin 2, penghapusan separa lengan pendek kromosom 16, beta-talasemia): hanya ramalan model, tiada ujian atau literatur.
 
-### Bukti Ujian Klinis
+## Bukti Ujian Klinikal
 
-Pada masa ini tiada ujian klinis berkaitan yang didaftarkan
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan untuk angina Prinzmetal.
 
-### Bukti Literatur
+## Bukti Literatur
 
-Pada masa ini tiada literatur berkaitan yang tersedia
+Pada masa ini tiada literatur berkaitan yang tersedia untuk angina Prinzmetal.
 
-### Maklumat Pasaran Malaysia
+Nota: Literatur yang ditemui bagi indikasi ramalan lain (contohnya artritis reumatoid, hemoglobinopati, trombofilia dan hipertiroidisme) hanya menunjukkan fluorescein digunakan sebagai alat diagnostik, dan bukan bukti terapeutik.
 
-Detail tahap lesensi (nombor pendaftaran, nama produk, bentuk dosis, teks indikasi yang diluluskan) tidak dikembalikan dalam pakej data ini — semua bidang kosong. Apa yang disahkan: produk dipasarkan di Malaysia (✓ Dipasarkan) dengan 1 jumlah pendaftaran keseluruhan dalam fail.
+## Pertimbangan Keselamatan
 
-### Pertimbangan Keselamatan
+Sila rujuk risalah pek (package insert) untuk maklumat keselamatan.
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
+## Kesimpulan dan Langkah Seterusnya
 
-*(Nota: Amaran label TFDA/NPRA dan kontraindikasi ditandai sebagai jurang data Pemblokiran — DG001 — yang bermakna calon ini belum boleh memasuki semakan keselamatan S1 rasmi.)*
-
-### Kesimpulan dan Langkah Seterusnya
-
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
 **Rasional:**
-Ramalan teratas (angina Prinzmetal) mempunyai sifar ujian klinis atau literatur sokongan dan tiada mekanisme kerja yang munasabah — ia paling baik dijelaskan sebagai hingar model daripada isyarat asli. Tiada calon dalam pakej bukti ini pada masa ini mempunyai bukti penggunaan terapeutik yang asli untuk pengguna semula.
+- Ramalan ini hanya berasaskan model tanpa sebarang ujian klinikal, literatur atau hubungan mekanistik. Fluorescein ialah agen diagnostik dan tiada bukti ia boleh merawat angina Prinzmetal. Selain itu, ia tidak mempunyai pendaftaran di Malaysia.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Data sisipan pakej TFDA/NPRA (amaran, kontraindikasi) — pada masa ini jurang data Pemblokiran (DG001)
-- Data mekanisme kerja DrugBank untuk Fluorescein — pada masa ini jurang data keterukan tinggi (DG002)
-- Carian literatur/ujian klinis khusus penyakit yang mengecualikan penggunaan pencitraan diagnostik fluorescein, untuk menentukan sama ada mana-mana dari 10 indikasi yang diramalkan mempunyai sokongan terapeutik yang asli
-- Jika tiada sokongan mekanistik atau bukti timbul, calon ini perlu dikurangkan prioritinya demi peluang pengguna semula berskor lebih tinggi di tempat lain dalam saluran
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data amaran dan kontraindikasi daripada risalah pek NPRA (jurang data yang menghalang saringan keselamatan)
+- Data mekanisme tindakan (MOA) terperinci, contohnya daripada DrugBank
+- Bukti praklinikal atau klinikal yang menunjukkan kesan terapeutik pada vasospasme koronari
+- Penilaian keserasian laluan pentadbiran dan status pendaftaran tempatan
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Choline Salicylate
-parent: Low Evidence (L4-L5)
-nav_order: 213
-evidence_level: L5
+parent: Medium Evidence (L3)
+nav_order: 218
+evidence_level: L3
 indication_count: 10
 ---
 
 # Choline Salicylate
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L3** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,79 +29,82 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Choline Salicylate: Isyarat TxGNN Keyakinan Rendah untuk Angina Prinzmetal
+# Kolin Salisilat: Daripada Indikasi Asal yang Tidak Direkodkan kepada Artritis Reumatoid
 
 ## Ringkasan Satu Ayat
 
-> Pakej bukti ini tidak mengandungi data petunjuk asal yang disahkan untuk choline salicylate.
-> Ramalan model TxGNN yang berpangkat teratas ialah **Angina Prinzmetal**, tetapi ini disokong oleh
-> **0 percubaan klinikal** dan **0 penerbitan**, dan rasional farmakologi model sendiri secara eksplisit menyatakan tiada asas farmakologi yang diketahui untuk hubungan tersebut.
+Kolin salisilat ialah salisilat bukan asetil yang digunakan sebagai agen anti-radang dan analgesik, tetapi data yang dikumpulkan untuk laporan ini tidak mengandungi indikasi asal yang berdaftar di Malaysia.
+Model TxGNN meramalkan ia mungkin berkesan untuk **artritis reumatoid** (skor 99.82%), dengan **0 ujian klinikal** dan **3 penerbitan sejarah (1977-1980)** yang menyokong arah ini.
+Ini pada dasarnya penemuan semula kegunaan kelas salisilat yang sudah diketahui, bukan pengubahsuaian guna yang benar-benar baharu.
 
 ---
 
-## Tinjauan Ringkas
+## Gambaran Ringkas
 
-| Item | Kandungan |
-|------|----------|
-| Petunjuk Asal | Tidak didedahkan dalam pakej bukti ini (tiada teks petunjuk lesen atau data petunjuk asal yang tersedia) |
-| Petunjuk Baru Diramal | Angina Prinzmetal |
-| Skor Ramalan TxGNN | 99.84% |
-| Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 5 |
-| Keputusan Disyorkan | Tangguhkan |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Tiada data indikasi berlesen yang tersedia |
+| Indikasi Baharu yang Diramal | Artritis reumatoid (*rheumatoid arthritis*) |
+| Skor Ramalan TxGNN | 99.82% |
+| Tahap Bukti | L3 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (Tahan) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa kini, data mekanisme tindakan terperinci untuk choline salicylate tidak tersedia dalam pakej bukti ini. Berdasarkan nota rasional yang dilampirkan pada petunjuk calon lain dalam pakej yang sama, choline salicylate adalah **salilat bukan-asetilasi**, yang berkaitan secara farmakologi dengan NSAID (perencatan COX, aktiviti analgesik/antiradang).
+Data terperinci tentang mekanisme tindakan tidak tersedia pada masa ini. Berdasarkan maklumat sedia ada, kolin salisilat ialah salisilat bukan asetil dengan aktiviti perencatan COX dan anti-radang, yang selaras dengan pengurusan simptom artritis reumatoid.
 
-Untuk angina Prinzmetal secara khusus, bagaimanapun, rasional model sendiri adalah negatif: angina Prinzmetal disebabkan oleh **vasospasma arteri koronari**, dan salilat tidak mempunyai kesan antikejang otot licin pembuluh darah atau vasodilatasi yang ditubuhkan. Pakej bukti menyatakan secara langsung:
+Tiga penerbitan sejarah (1977-1980) menerangkan penggunaannya sebagai agen antireumatik, termasuk pada kanak-kanak dengan artritis reumatoid. Namun rekod ini lama, kebanyakannya bertajuk dalam bahasa bukan Inggeris, dan reka bentuk serta kualiti kajian tidak dapat disahkan daripada tajuk sahaja. Tiada ujian klinikal berdaftar.
 
-> "Tiada sokongan mekanisme yang jelas——Angina Prinzmetal disebabkan oleh vasospasma arteri koronari, salilat tidak mempunyai kesan antikejang otot licin pembuluh darah yang diketahui, ramalan skor tinggi TxGNN adalah perkaitan tidak langsung graf pengetahuan, kekurangan bukti klinikal atau mekanisme."
-
-Dalam istilah ringkas: skor kesamaan TxGNN yang tinggi kemungkinan besar mencerminkan perkaitan graf pengetahuan tidak langsung dan bukannya hubungan farmakologi yang tulen. Tiada bukti klinikal atau mekanisme dalam pakej ini menyokong ramalan.
+Indikasi lain dalam senarai ramalan (contohnya angina Prinzmetal, hipertensi, hipertensi pulmonari, penyakit Raynaud) tidak disokong oleh bukti atau mekanisme yang jelas. Bagi hipertensi dan penyakit renovaskular, perencatan COX malah berpotensi memburukkan keadaan melalui pengekalan natrium dan air serta gangguan perfusi buah pinggang. Migrain mempunyai rasional peringkat kelas sahaja (aspirin mempunyai sedikit bukti), tanpa data khusus untuk kolin salisilat.
 
 ---
 
-## Bukti Percubaan Klinikal
+## Bukti Ujian Klinikal
 
-Pada masa kini tiada percubaan klinikal yang berkaitan didaftarkan.
-
----
-
-## Bukti Kesusasteraan
-
-Pada masa kini tiada kesusasteraan yang berkaitan tersedia.
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ---
 
-## Maklumat Pasaran Malaysia
+## Bukti Literatur
 
-Pakej bukti mengesahkan bahawa choline salicylate dipasarkan di Malaysia di bawah **5 pendaftaran**, tetapi tiada butiran peringkat lesen (nombor pendaftaran, nama produk, bentuk dos, teks petunjuk yang diluluskan) telah ditangkap dalam tarik data ini — semua medan lesen kosong.
+| PMID | Tahun | Jenis | Jurnal | Dapatan Utama |
+|------|-----|------|------|---------|
+| [377958](https://pubmed.ncbi.nlm.nih.gov/377958/) | 1979 | Ulasan | American Journal of Hospital Pharmacy | Ulasan patofisiologi dan rawatan ubat penyakit reumatik, termasuk kolin salisilat, kolin magnesium salisilat dan salsalat sebagai agen antireumatik |
+| [897386](https://pubmed.ncbi.nlm.nih.gov/897386/) | 1977 | Kajian klinikal (reka bentuk tidak disahkan) | Reumatologia | Kegunaan kolin salisilat dalam merawat kanak-kanak dengan artritis reumatoid (berdasarkan tajuk; tiada abstrak) |
+| [7188920](https://pubmed.ncbi.nlm.nih.gov/7188920/) | 1980 | Klinikal/Ulasan (reka bentuk tidak disahkan) | Fysiatricky a reumatologicky vestnik | Kolin salisilat sebagai agen antireumatik (berdasarkan tajuk; tiada abstrak) |
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan. Nota: log jurang data yang disertakan menunjukkan amaran/kontraindikasi label NPRA (DG001) sebagai jurang **Menyekat** — pakej bukti ini tidak boleh menyokong skrin keselamatan Peringkat 1 untuk calon ini pada masa kini.
+**Interaksi Ubat** (pangkalan data DDInter, 100 interaksi direkodkan; contoh utama):
+
+- **Sederhana**: kortikosteroid (hidrokortison, triamsinolon, deksametason, betametason, budesonid); sulfonilurea (klorpropamid, asetoheksamid, glimepirid, glipizid, gliburid); insulin (insulin manusia, insulin aspart); antasid dan penjerap (aluminium hidroksida, kalsium karbonat, arang teraktif); fenfluramin dan deksfenfluramin.
+- **Minor**: perencat pam proton (rabeprazol, deksansoprazol).
+
+Pertimbangan tambahan berdasarkan analisis mekanisme: perencatan COX boleh meningkatkan tekanan darah dan menjejaskan fungsi buah pinggang, terutamanya pada pesakit dengan penyakit renovaskular atau renal.
+
+Untuk amaran dan kontraindikasi, sila rujuk sisipan pakej.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tangguhkan**
+**Keputusan: Hold (Tahan)**
 
 **Rasional:**
-Terdapat sifar percubaan klinikal atau penerbitan yang menyokong ramalan angina Prinzmetal, dan rasional mekanisme yang dijana bersebelahan dengan ramalan itu sendiri menyimpulkan tiada asas farmakologi yang diketahui untuknya — skor TxGNN yang tinggi nampaknya menjadi artifak graf pengetahuan daripada isyarat tulen.
+- Bukti untuk artritis reumatoid hanya tiga penerbitan lama (1977-1980) tanpa ujian klinikal berdaftar, dan ubat ini tidak berdaftar di Malaysia (0 lesen). Ia lebih merupakan penemuan semula kegunaan kelas salisilat berbanding pengubahsuaian guna baharu. Sembilan ramalan lain hanya bertaraf L5 tanpa sokongan klinikal.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Sisipan pakej NPRA (amaran/kontraindikasi) — pada masa kini jurang data Menyekat (DG001)
-- Data mekanisme tindakan bersumber DrugBank (DG002)
-- Petunjuk asal dan teks lesen untuk choline salicylate (pada masa kini hilang sepenuhnya dari pakej ini)
-- Jika kerja penyusunan semula lebih lanjut pada ubat ini dijalankan, ambil nota bahawa **rematoid artritis** (pangkat 2 dalam pakej bukti yang sama ini, skor TxGNN 99.82%) membawa asas bukti yang lebih kuat — Tahap Bukti L3, tahap keputusan S2, 4 penerbitan yang menyokong, dan rasional mekanisme yang koheren (tindakan antiradang kelas NSAID) — dan mungkin menjadi calon yang lebih produktif untuk dinilai seterusnya daripada angina Prinzmetal.
-
+- Maklumat amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menghalang saringan keselamatan)
+- Data mekanisme tindakan terperinci (contohnya daripada DrugBank)
+- Semakan teks penuh tiga penerbitan sejarah untuk mengesahkan reka bentuk dan kualiti kajian
+- Carian bukti moden (ujian terkawal rawak atau ulasan sistematik) berbanding alternatif NSAID sedia ada untuk artritis reumatoid
+- Penilaian kebolehlaksanaan pendaftaran atau bekalan di Malaysia, memandangkan tiada produk berlesen
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

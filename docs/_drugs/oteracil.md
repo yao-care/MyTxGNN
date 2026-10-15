@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Oteracil
-parent: High Evidence (L1-L2)
-nav_order: 523
-evidence_level: L1
+parent: Low Evidence (L4-L5)
+nav_order: 548
+evidence_level: L5
 indication_count: 10
 ---
 
 # Oteracil
 {: .fs-9 }
 
-Tahap bukti: **L1** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,107 +29,112 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Oterasil: Daripada Kanser Gastrik kepada Neoplasma Kolon
+# Oteracil: Daripada Kanser Gastrik kepada Neoplasma Kolon
 
 ## Ringkasan Satu Ayat
 
-Oterasil adalah komponen kombinasi S-1 (tegafur/gimerasil/oterasil), yang ditegakkan secara internasional untuk kanser gastrik dan kanser GI lain. Model TxGNN meramalkan ia mungkin juga berkesan untuk **Neoplasma Kolon**, dan ini disokong oleh **8 percubaan klinikal** (termasuk 2 RCT Fasa 3 yang telah selesai) dan **20 penerbitan**. Terutamanya, semakan mekanik pakej bukti sendiri menandai bahawa ini mungkin bukan isyarat *novel* — rejimen berasaskan S-1 sudah pun mempunyai indikasi kanser kolorektum yang ditegakkan secara internasional, jadi TxGNN mungkin mengesahkan amalan sedia ada daripada menemui penggunaan baharu.
+Oteracil ialah komponen gabungan S-1 (tegafur/gimeracil/oteracil) yang pada asalnya digunakan untuk merawat kanser gastrik.
+Model TxGNN meramalkan ia mungkin berkesan untuk **neoplasma kolon**.
+Setakat ini terdapat **6 ujian klinikal** dan **10 penerbitan** yang berkaitan, tetapi kebanyakan penerbitan ialah laporan kes. Bukti yang kukuh datang daripada gabungan S-1, bukan daripada oteracil secara bersendirian.
 
 ---
 
-## Tinjauan Pantas
+## Gambaran Pantas
 
-| Item | Kandungan |
-|------|-----------|
-| Indikasi Asal | Kanser Gastrik (kombinasi dos tetap S-1; teks lesen NPRA untuk medan khusus ini kini kosong dalam set data) |
-| Indikasi Baharu Dijangkakan | Neoplasma Kolon |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Kanser gastrik |
+| Indikasi Baharu yang Diramalkan | Neoplasma kolon |
 | Skor Ramalan TxGNN | 99.99% |
-| Tahap Bukti | L1 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 2 |
-| Keputusan Disyorkan | Teruskan dengan Pengawasan |
+| Tahap Bukti | L2 (satu RCT Fasa 3 selesai; kriteria L1 memerlukan ≥2 RCT Fasa 3 yang selesai) |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Pagar Pengadang) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan DrugBank terperinci untuk oterasil kini adalah jurang data. Walau bagaimanapun, semakan mekanik pakej bukti menjelaskan peranan oterasil: ia tidak mempunyai aktiviti farmakologi bebas sendiri. Ia adalah komponen penghambat OPRT daripada kombinasi dos tetap S-1 (tegafur + gimerasil + oterasil), bertindak setempat di mukosa GI untuk mengurangkan fosforilasi usus 5-FU, dengan itu menurunkan toksisiti GI daripada 5-FU yang dilepaskan oleh tegafur. Ini membenarkan kesan antitumor sitotoksik 5-FU (perencatan sintesis DNA/RNA) disampaikan dengan lebih selamat.
+Data terperinci tentang mekanisme tindakan (MOA) daripada DrugBank belum tersedia. Berdasarkan maklumat sedia ada, oteracil ialah perencat orotat fosforibosiltransferase oral yang bertindak secara setempat di saluran gastrousus. Ia mengurangkan toksisiti gastrousus yang disebabkan oleh 5-FU. Oteracil **tidak mempunyai aktiviti antitumor sendiri**.
 
-Kanser gastrik dan neoplasma kolon adalah kedua-dua keganasan gastrointestina dengan rasional kemoterapeutik yang dikongsi, dan rejimen berasaskan S-1 sudah pun digunakan dan dikaji secara meluas dalam kanser kolorektum merentas Jepun dan pasaran lain (contohnya, percubaan Fasa 3 ACTS-CC dan ACTS-RC di bawah).
+Dalam kanser kolon dan kolorektal, gabungan S-1 menyampaikan 5-FU sebagai tulang belakang sitotoksik (perencatan timidilat sintase). Peranan oteracil ialah meningkatkan toleransi rawatan. Oleh itu, sebarang manfaat dalam neoplasma kolon adalah milik rejimen gabungan, bukan oteracil sahaja.
 
-**Kaveat penting**: pakej bukti secara eksplisit menyatakan bahawa penggunaan kanser kolorektum berkemungkinan merupakan indikasi teras *sedia ada* daripada kombinasi S-1 daripada hipotesis repurposing yang benar-benar baharu — skor tinggi TxGNN di sini mungkin mencerminkan penggunaan yang sudah dipasarkan daripada penemuan baharu. Ini harus disahkan terhadap teks label NPRA sebenarnya (kini kosong dalam set data ini) sebelum menganggap ini sebagai penemuan baharu.
+Kanser gastrik dan kanser kolon kedua-duanya adalah adenokarsinoma gastrousus yang dirawat dengan fluoropirimidina. Ini menjadikan lanjutan indikasi ini munasabah dari segi mekanisme.
 
 ---
 
-## Bukti Percubaan Klinikal
+## Bukti Ujian Klinikal
 
-| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT01918852](https://clinicaltrials.gov/study/NCT01918852) | Fasa 3 | Selesai | 161 | Percubaan SALTO: S-1 vs. kapesitabin (± bevacizumab) sebagai terapi barisan pertama untuk kanser kolorektum metastatik, dengan fokus pada keselamatan fluoropirimidina oral |
-| [NCT00660894](https://clinicaltrials.gov/study/NCT00660894) | Fasa 3 | Selesai | 1535 | Percubaan ACTS-CC: UFT+leukovorin vs. S-1 sebagai terapi adjuvan untuk kanser kolon Peringkat III, dengan analisis biopenanda prediktor ekspresi gen |
-| [NCT03448549](https://clinicaltrials.gov/study/NCT03448549) | Fasa 3 | Tidak diketahui (keputusan tidak dikemas kini) | 1191 | SOX (oksaliplatin+S-1) vs. XELOX (oksaliplatin+kapesitabin) sebagai terapi adjuvan untuk kanser kolorektum Peringkat III |
-| [NCT02618356](https://clinicaltrials.gov/study/NCT02618356) | Fasa 2 | Tidak diketahui | 82 | Raltitrekad + S-1 dalam kanser kolorektum metastatik selepas kegagalan kemoterapai piawai; titik akhir utama ialah kemandirian tanpa kemajuan |
-| [NCT00974389](https://clinicaltrials.gov/study/NCT00974389) | Fasa 2 | Tidak diketahui | 40 | S-1 + bevacizumab dalam kanser kolorektum yang tidak dapat diseksikan/berulang selepas kegagalan irinotekan/oksaliplatin sebelumnya |
-| [NCT00524706](https://clinicaltrials.gov/study/NCT00524706) | Fasa 1/2 | Tidak diketahui | 42 | S-1 + leukovorin oral + oksaliplatin (rejimen SOL) dalam kanser kolorektum metastatik yang tidak dirawat |
-| [NCT02216149](https://clinicaltrials.gov/study/NCT02216149) | Fasa 2 | Dibatalkan | 20 | Perbandingan keselamatan kardiak S-1 vs. kapesitabin/oksaliplatin dalam adenokarsinoma GI metastatik (kajian kardiotoksisiti, bukan percubaan keberkesanan) |
-| [NCT06255379](https://clinicaltrials.gov/study/NCT06255379) | Fasa 2 | Belum mula merekrut | 52 | Fuquinitinib + S-1 (tegafur/gimerasil/oterasil) dalam rawatan barisan ketiga kanser kolorektum metastatik maju |
+| [NCT00660894](https://clinicaltrials.gov/study/NCT00660894) | Fasa 3 | Selesai | 1535 | UFT+leucovorin berbanding TS-1 (S-1) sebagai rawatan adjuvan kanser kolon Tahap III. Bukti RCT Fasa 3 langsung untuk S-1 dalam kanser kolon |
+| [NCT03448549](https://clinicaltrials.gov/study/NCT03448549) | Fasa 3 | Tidak diketahui | 1191 | SOX (oxaliplatin + S-1) berbanding XELOX sebagai kemoterapi adjuvan kanser kolorektal Tahap III |
+| [NCT00974389](https://clinicaltrials.gov/study/NCT00974389) | Fasa 2 | Tidak diketahui | 40 | S-1 + bevacizumab dalam kanser kolorektal yang tidak boleh dibedah atau berulang selepas kegagalan kemoterapi terdahulu |
+| [NCT02618356](https://clinicaltrials.gov/study/NCT02618356) | Fasa 2 | Tidak diketahui | 82 | Raltitrexed + S-1 dalam kanser kolorektal metastatik selepas kegagalan kemoterapi standard. Sumbangan S-1 sukar diasingkan |
+| [NCT06255379](https://clinicaltrials.gov/study/NCT06255379) | Fasa 2 | Belum merekrut | 52 | Fruquintinib + tegafur/gimeracil/oteracil sebagai rawatan barisan ketiga kanser kolorektal metastatik. Belum ada keputusan |
+| [NCT02216149](https://clinicaltrials.gov/study/NCT02216149) | Fasa 2 | Ditamatkan | 20 | Kesan S-1 atau capecitabine + oxaliplatin terhadap aliran darah arteri koronari. Hanya memberi maklumat keselamatan jantung |
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [31917122](https://pubmed.ncbi.nlm.nih.gov/31917122/) | 2020 | RCT | Clin Colorectal Cancer | ACTS-CC 02: S-1+oksaliplatin (SOX) vs. UFT/LV sebagai terapi adjuvan dalam kanser kolon Peringkat III berisiko tinggi |
-| [27056996](https://pubmed.ncbi.nlm.nih.gov/27056996/) | 2016 | RCT | Ann Oncol | ACTS-RC (JFMC35-C1): S-1 vs. UFT sebagai kemoterapai adjuvan untuk kanser rektal Peringkat II/III |
-| [24942277](https://pubmed.ncbi.nlm.nih.gov/24942277/) | 2014 | RCT | Ann Oncol | Percubaan ACTS-CC: S-1 sebagai kemoterapai adjuvan untuk kanser kolon Peringkat III, tidak kurang berbanding UFT/LV |
-| [26976971](https://pubmed.ncbi.nlm.nih.gov/26976971/) | 2016 | RCT (kajian subkumpulan biopenanda) | Anticancer Research | Analisis salin DNA genom di seluruh percubaan adjuvan ACTS-CC |
-| [22415232](https://pubmed.ncbi.nlm.nih.gov/22415232/) | 2012 | RCT (analisis keselamatan) | Br J Cancer | Analisis keselamatan yang dirancang bagi percubaan Fasa 3 ACTS-CC (UFT/LV vs. S-1) |
-| [32189156](https://pubmed.ncbi.nlm.nih.gov/32189156/) | 2020 | Percubaan Fasa 2 | Int J Clin Oncol | KSCC1303: keberkesanan dan kebolehlaksanaan S-1+oksaliplatin (C-SOX) sebagai terapi adjuvan untuk kanser kolon Peringkat III, analisis DFS 3 tahun |
-| [23320901](https://pubmed.ncbi.nlm.nih.gov/23320901/) | 2013 | Protokol RCT | Trials | Protokol kajian untuk penjadualan optimum S-1 kemoterapai adjuvan dalam kanser kolon Peringkat III |
-| [25209093](https://pubmed.ncbi.nlm.nih.gov/25209093/) | 2014 | Ulasan/Garis Panduan | Clin Colorectal Cancer | Adaptasi konsensus Asia bagi garis panduan antarabangsa untuk kanser kolorektum metastatik |
-| [10897209](https://pubmed.ncbi.nlm.nih.gov/10897209/) | 2000 | Ulasan | Gan To Kagaku Ryoho | Asas konseptual bagi modulasi biokimia S-1 bagi 5-FU (ulasan mekanisme) |
-| [17496461](https://pubmed.ncbi.nlm.nih.gov/17496461/) | 2007 | Ulasan | Gan To Kagaku Ryoho | Status dan isu kemoterapai adjuvan untuk kanser kolorektum di Jepun |
+| [21084813](https://pubmed.ncbi.nlm.nih.gov/21084813/) | 2010 | Kohort retrospektif | Gan to Kagaku Ryoho | Analisis faktor risiko toksisiti hematologi gred 3–4 (16.1%) pada 87 pesakit kanser kolon dengan S-1 + irinotecan |
+| [20811661](https://pubmed.ncbi.nlm.nih.gov/20811661/) | 2010 | Praklinikal (xenograf) | Oncology Reports | Irinotecan dengan S-1 oral meningkatkan aktiviti antitumor dan mengatasi rintangan 5-FU dalam xenograf kanser kolon |
+| [32936722](https://pubmed.ncbi.nlm.nih.gov/32936722/) | 2021 | Laporan kes | J Oncol Pharm Pract | Hipertrigliseridemia akibat S-1; S-1 diterangkan sebagai agen berkesan untuk kanser kolorektal |
+| [28414195](https://pubmed.ncbi.nlm.nih.gov/28414195/) | 2017 | Laporan kes | Eur J Dermatol | Eritroderma, penglibatan mukosa meluas dan sindrom tangan-kaki akibat TS-1 |
+| [18630468](https://pubmed.ncbi.nlm.nih.gov/18630468/) | 2008 | Laporan kes | Anticancer Research | Respons lengkap dicapai dan dikekalkan dengan S-1 + CPT-11 pada metastasis hati kanser kolon |
+| [29394831](https://pubmed.ncbi.nlm.nih.gov/29394831/) | 2017 | Laporan kes | Gan to Kagaku Ryoho | SOX + panitumumab sebagai kemoterapi penurunan peringkat sebelum hepatektomi dua peringkat |
+| [35444144](https://pubmed.ncbi.nlm.nih.gov/35444144/) | 2022 | Laporan kes | Gan to Kagaku Ryoho | Pembedahan berulang untuk kambuhan peritoneum selepas reseksi kanser kolorektal |
+| [41253353](https://pubmed.ncbi.nlm.nih.gov/41253353/) | 2025 | Laporan kes | Gan to Kagaku Ryoho | Retensi urin akibat neuropati periferi akut oleh oxaliplatin; pesakit pernah menerima tegafur/gimeracil/oteracil |
+| [30692384](https://pubmed.ncbi.nlm.nih.gov/30692384/) | 2018 | Laporan kes | Gan to Kagaku Ryoho | Pengurusan kesakitan pada kanser kolon berulang; hanya berkaitan secara tidak langsung dengan S-1 |
+
+Tiada RCT atau ulasan sistematik dalam literatur yang diperoleh. Bukti manusia yang kukuh datang daripada ujian klinikal di atas.
 
 ---
 
-## Maklumat Pasaran Malaysia
+## Sitotoksisiti (Ubat Antineoplastik)
 
-Rekod NPRA mencatat 2 pendaftaran aktif untuk produk ini, tetapi nombor lesen, nama produk, bentuk dos, dan medan teks indikasi yang diluluskan kini kosong dalam set data ini — butir pendaftaran/label asas belum diperolehi (lihat Jurang Data DG001, keseriusan pemblokiran). Ini perlu diperolehi terus daripada NPRA sebelum tuntutan status pasaran dapat dimuktamadkan.
+Oteracil sendiri tidak bersifat sitotoksik, tetapi ia digunakan sebagai sebahagian daripada gabungan S-1 yang mengandungi tegafur (fluoropirimidina). Maklumat di bawah merujuk kepada gabungan tersebut.
 
----
-
-## Sitotoksisiti
-
-| Item | Kandungan |
-|------|-----------|
-| Klasifikasi Sitotoksisiti | Sitotoksik konvensional — kelas fluoropirimidina (oterasil adalah komponen penghambat OPRT daripada kombinasi S-1) |
-| Risiko Supresi Sumsum Tulang | Tidak dikira langsung dalam pakej bukti ini; sila rujuk sisipan pakej. Laporan kes kesusasteraan mendokumenkan sindrom tangan-kaki dengan eritroderma (PMID 28414195) dan hipertrigliseremia (PMID 32936722) sebagai peristiwa buruk yang dilaporkan dengan rejimen berasaskan S-1 |
-| Klasifikasi Emetogenisiti | Sila rujuk amaran dan tindakan pencegahan sisipan pakej (tiada data dalam pakej bukti) |
-| Item Pemantauan | CBC dengan pembezaan, fungsi hati dan buah pinggang, trigliserida |
-| Perlindungan Pengendalian | Tindakan pencegahan pengendalian ubat sitotoksik piawai digunakan untuk kemoterapai fluoropirimidina; sahkan keperluan khusus melalui sisipan pakej |
+| Perkara | Kandungan |
+|------|------|
+| Klasifikasi Sitotoksisiti | Oteracil: bukan sitotoksik, agen penyokong. Gabungan S-1: sitotoksik konvensional (kelas fluoropirimidina) |
+| Risiko Mielosupresi | Toksisiti hematologi gred 3–4 dilaporkan pada 16.1% pesakit kanser kolon yang menerima S-1 + irinotecan (PMID 21084813) |
+| Klasifikasi Emetogenisiti | Sila rujuk amaran dan langkah berjaga-jaga dalam sisip bungkusan |
+| Perkara Pemantauan | Kiraan darah lengkap (CBC) dengan perbezaan, fungsi hati dan buah pinggang |
+| Perlindungan Pengendalian | Ikuti peraturan pengendalian ubat sitotoksik untuk gabungan yang mengandungi tegafur |
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan. (Data amaran utama, kontraindikasi, dan interaksi ubat kini tidak tersedia dalam pakej bukti ini — DG001, keseriusan pemblokiran.)
+Maklumat keselamatan rasmi (amaran utama, kontraindikasi, interaksi ubat) belum tersedia. Sila rujuk sisip bungkusan untuk maklumat keselamatan.
+
+Isyarat keselamatan yang dilaporkan dalam literatur untuk S-1:
+- Hipertrigliseridemia (PMID 32936722)
+- Eritroderma dengan penglibatan mukosa dan sindrom tangan-kaki (PMID 28414195)
+- Toksisiti hematologi apabila digabungkan dengan irinotecan (PMID 21084813)
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Teruskan dengan Pengawasan**
+**Keputusan: Proceed with Guardrails (Teruskan dengan Pagar Pengadang)**
 
 **Rasional:**
-Kekuatan bukti adalah tinggi (L1: 2 RCT Fasa 3 yang telah selesai serta pelbagai RCT Fasa 3 tambahan dalam kesusasteraan, contohnya ACTS-CC/ACTS-RC), tetapi jurang data pemblokiran pada label/amaran rasmi (DG001) dan MOA (DG002) menghalang kelulusan keselamatan penuh. Terdapat juga soalan terbuka yang penting: pakej bukti sendiri mencadangkan kanser kolorektum mungkin sudah menjadi indikasi teras *sedia ada* daripada kombinasi S-1 daripada hipotesis repurposing yang benar-benar baharu — skor tinggi TxGNN di sini mungkin mencerminkan penggunaan yang sudah dipasarkan daripada penemuan baharu. Ini perlu diselesaikan terhadap teks label NPRA sebenarnya sebelum tindakan lanjut.
+- Terdapat satu RCT Fasa 3 yang selesai (NCT00660894, n=1535) dan satu RCT Fasa 3 lagi yang besar (NCT03448549, n=1191, status tidak diketahui) untuk S-1 dalam kanser kolon. Namun, bukti ini menyokong gabungan S-1, bukan oteracil secara bersendirian, kerana oteracil tidak mempunyai aktiviti antitumor sendiri.
+- Produk ini tidak dipasarkan dan tidak didaftarkan di Malaysia, dan data keselamatan rasmi belum lengkap.
 
 **Untuk meneruskan, yang berikut diperlukan:**
-- Muat turun dan penghuraian sisipan pakej/label NPRA (menyelesaikan DG001, pemblokiran)
-- Pengesahan MOA DrugBank (menyelesaikan DG002)
-- Teks indikasi yang berdaftar NPRA sebenarnya untuk 2 lesen Malaysia (kini kosong), untuk mengesahkan sama ada kanser kolorektum sudah berada pada label secara tempatan
-- Sumber data DDI, kerana pertanyaan semasa tidak menghasilkan keputusan (not_found)
+- Sisip bungkusan NPRA (amaran dan kontraindikasi) bagi produk yang mengandungi S-1, untuk saringan keselamatan
+- Data mekanisme tindakan (MOA) terperinci daripada DrugBank
+- Penjelasan sumbangan oteracil dalam gabungan S-1 berbanding fluoropirimidina lain, termasuk laluan pendaftaran di Malaysia
+- Pengesahan tetapan penyakit dan keputusan NCT03448549 yang berstatus tidak diketahui
+- Pelan pemantauan keselamatan (hematologi, kulit, sindrom tangan-kaki) untuk populasi khusus
 
+Sembilan ramalan lain (contohnya adenoma vilus sekum, lipoma kolon, hemangioma kavernosa kolon) hanya berasaskan skor model tanpa bukti klinikal dan berstatus **Hold**.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

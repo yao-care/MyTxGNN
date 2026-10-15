@@ -2,15 +2,15 @@
 layout: default
 title: Cytarabine
 parent: Low Evidence (L4-L5)
-nav_order: 244
-evidence_level: L5
+nav_order: 249
+evidence_level: L4
 indication_count: 9
 ---
 
 # Cytarabine
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **9** 
+Tahap bukti: **L4** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,107 +29,95 @@ Tahap bukti: **L5** | Indikasi diramal: **9**
 
 </div>
 
-# Sitarabin: Dari Petunjuk Asal Tidak pada Fail ke Karsinoma Sel Paru-Paru Kecil
+# Sitarabin (Cytarabine): Daripada Leukemia Limfoblastik Akut kepada Karsinoma Paru-paru Sel Kecil
 
 ## Ringkasan Satu Ayat
 
-Sitarabin (Ara-C) ialah ejen kemoterapu sitostatik antimetabolit yang berdaftar di Malaysia (3 lesen aktif), namun teks petunjuk asal yang diluluskan khusus tidak terdapat dalam set data semasa. Ramalan model TxGNN berpangkat teratas ialah **Karsinoma Sel Paru-Paru Kecil** (skor **99.78%**), tetapi calon berpangkat khusus ini pada masa kini mempunyai **sifar percubaan klinikal dan sifar penerbitan** yang menyokongnya — pakej bukti itu sendiri menandainya sebagai spekulasi tulen yang didorong oleh skor tanpa asas mekanistik yang diketahui. Dua calon lain lebih jauh turun dalam senarai berpangkat (limfoma paru-paru primer, neuroblastoma) membawa rasional mekanistik yang lebih kuat dan patut mendapat perhatian berasingan (lihat Lampiran di bawah).
+Sitarabin ialah antimetabolit analog nukleosid pirimidina yang pada asalnya digunakan untuk merawat leukemia akut (leukemia limfoblastik akut dan leukemia mieloid akut).
+Model TxGNN meramalkan ia mungkin berkesan untuk **karsinoma paru-paru sel kecil (small cell lung carcinoma)**,
+tetapi setakat ini terdapat **0 ujian klinikal** dan **20 penerbitan** yang berkaitan. Kebanyakan penerbitan itu membincangkan kanser paru-paru sel bukan kecil (NSCLC), bukan kanser paru-paru sel kecil.
 
 ---
 
-## Gambaran Pantas
+## Gambaran Keseluruhan Pantas
 
-| Item | Kandungan |
-|------|-----------|
-| Petunjuk Asal | Tidak direkodkan dalam data pendaftaran Malaysia semasa (lihat Data Gap DG001/DG002) |
-| Petunjuk Baru Dipramalk | Karsinoma Sel Paru-Paru Kecil |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Leukemia limfoblastik akut dan leukemia mieloid akut (berdasarkan graf pengetahuan PrimeKG; tiada lesen tempatan untuk dirujuk) |
+| Indikasi Baharu yang Diramalkan | Karsinoma paru-paru sel kecil (small cell lung carcinoma) |
 | Skor Ramalan TxGNN | 99.78% |
-| Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Marketed) |
-| Bilangan Pendaftaran | 3 |
-| Keputusan Disyorkan | Tahan |
+| Tahap Bukti | L4 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci untuk sitarabin tidak tersedia dalam pakej bukti ini (ditandai sebagai Data Gap DG002, keterukan Tinggi). Berdasarkan nota mekanistik yang tertanam di tempat lain dalam pakej bukti ini, sitarabin (Ara-C) ialah analog nukleosida pirimidin yang, selepas pemfosforilan intrasel ke Ara-CTP, secara kompetitif menghalang DNA polimerase dan menyebabkan penghentian rantai — mekanisme sitostatik khusus fasa S klasik. Mekanisme ini mendasari peranannya yang telah ditegakkan dalam malignansi hematologi (mis., rejimen sitarabin dos tinggi dalam leukemia dan limfoma non-Hodgkin).
+Pada masa ini, data terperinci mengenai mekanisme tindakan tidak tersedia. Berdasarkan maklumat yang diketahui, sitarabin ialah analog nukleosid pirimidina yang menghalang sintesis DNA dan bertindak khusus pada fasa S kitaran sel. Keberkesanannya dalam leukemia akut sudah mantap, dan secara mekanistik ia mungkin sesuai untuk tumor yang membahagi dengan pantas seperti karsinoma paru-paru sel kecil.
 
-Untuk calon berpangkat teratas khususnya — **Karsinoma Sel Paru-Paru Kecil** — rasional pakej bukti itu sendiri jelas bahawa pautan ini *tidak* disokong dengan baik secara mekanistik: penjagaan piawai SCLC ialah platinum/etopozid, sitarabin bukan ejen aktif yang diketahui dalam tetapan ini, dan tiada bukti percubaan atau penerbitan sedia ada untuk menyokong ramalan. Calon ini harus dibaca sebagai hipotesis yang didorong oleh skor TxGNN sahaja, bukan satu yang bertautan mekanisme.
-
-Kerana teks petunjuk asal itu sendiri hilang daripada data pendaftaran Malaysia, perbandingan biasa antara "petunjuk asal" dan "petunjuk baru dipramalk" tidak dapat dibuat secara langsung di sini — celah ini harus ditutup sebelum sebarang penskoran lanjut dimuktamadkan.
+Walau bagaimanapun, hubungan ini masih tidak langsung. Kebanyakan literatur yang diperoleh berkaitan NSCLC, meningitis karsinomatosa dan antimetabolit lain (gemcitabine, decitabine, topotecan). Tiada bukti khusus sitarabin untuk karsinoma paru-paru sel kecil yang jelas, kecuali satu laporan lama (1987) yang tajuknya menyebut sitarabin dos tinggi dalam kanser paru-paru sel kecil. Abstraknya tidak tersedia, jadi hasilnya tidak dapat dinilai.
 
 ---
 
-## Bukti Percubaan Klinikal
+## Bukti Ujian Klinikal
 
-Pada masa kini tiada percubaan klinikal yang berkaitan berdaftar.
-
----
-
-## Bukti Kesusasteraan
-
-Pada masa kini tiada kesusasteraan yang berkaitan tersedia.
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ---
 
-## Lampiran: Petunjuk Lain Yang Dipramalk (Senarai Pangkat Penuh)
+## Bukti Literatur
 
-Pakej bukti ini mengandungi 9 petunjuk yang dipramalk TxGNN untuk sitarabin, bukan semua dengan kekuatan rasional yang sama dengan calon berpangkat teratas. Tiada seorang pun mempunyai sokongan percubaan atau kesusasteraan langsung dalam set data ini, tetapi dua menonjol untuk kebolehpercayaan rasional/amalan klinikal yang lebih kuat dan mungkin patut mengutamakan berbanding calon berpangkat ke-1:
-
-| Pangkat | Petunjuk Dipramalk | Skor | Tahap Bukti | Tahap Keputusan | Cadangan |
-|---------|-------------------|------|-------------|-----------------|----------|
-| 1 | Karsinoma sel paru-paru kecil | 99.78% | L5 | S0 | Tahan |
-| 2 | **Limfoma paru-paru primer** | 99.78% | **L4** | **S1** | **Soalan Penyelidikan** |
-| 3 | Adenokarsinoma janin yang berdiferensiasi dengan baik di paru-paru | 99.76% | L5 | S0 | Tahan |
-| 4 | Blastoma paru-paru | 99.76% | L5 | S0 | Tahan |
-| 5 | Neoplasma saluran aerodigestif atas | 99.49% | L5 | S0 | Tahan |
-| 6 | **Ganglioneuroblastoma (penyakit)** | 99.36% | **L4** | **S1** | **Soalan Penyelidikan** |
-| 7 | Anomali vertebra dan disfungsi sel-T dan endokrin pembolehubah | 99.32% | L5 | S0 | Tahan — kemungkinan besar bunyi graf pengetahuan, memerlukan semakan nod manual |
-| 8 | Neoplasma retroperitoneal | 99.23% | L5 | S0 | Tahan |
-| 9 | **Neuroblastoma** | 99.19% | **L4** | **S1** | **Soalan Penyelidikan** |
-
-Ketara: pangkat 2 (limfoma paru-paru primer) berasaskan peranan sitarabin yang telah ditegakkan dalam rejimen limfoma non-Hodgkin; pangkat 9 (neuroblastoma) berasaskan penggunaan dunia sebenar sitarabin dos tinggi + topotekan sebagai terapi penyelamat untuk neuroblastoma yang relaps/refraktori. Keduanya kekurangan pukulan percubaan/kesusasteraan langsung dalam pek ini tetapi adalah lebih kuat mekanistik daripada calon SCLC yang diskor teratas dan mungkin merupakan titik permulaan yang lebih baik untuk pengumpulan bukti selanjutnya.
-
----
-
-## Maklumat Pasaran Malaysia
-
-Status regulasi Malaysia menunjukkan sitarabin sebagai **dipasarkan (Marketed)** dengan **3 lesen aktif**. Bagaimanapun, nombor lesen, nama produk, bentuk ubat, pengilang, dan teks petunjuk yang diluluskan tidak diisi dalam set data semasa untuk mana-mana 3 entri — data ini perlu ditarik terus daripada rekod NPRA sebelum ia boleh disebut dalam laporan rasmi.
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [2158614](https://pubmed.ncbi.nlm.nih.gov/2158614/) | 1990 | Fasa II rawak | Med Pediatr Oncol | CALGB membandingkan cisplatin-sitarabin dengan cisplatin-vinblastin pada 151 pesakit NSCLC lanjutan yang belum menerima kemoterapi |
+| [2156598](https://pubmed.ncbi.nlm.nih.gov/2156598/) | 1990 | Ujian fasa II | Cancer | Sitarabin dos tinggi + cisplatin pada 37 pesakit NSCLC; kadar respons keseluruhan 14%; mielosupresi gred IV pada 32% |
+| [2157307](https://pubmed.ncbi.nlm.nih.gov/2157307/) | 1990 | Ujian fasa II | Tumori | Sitarabin + cisplatin + vindesin pada 32 pesakit NSCLC lanjutan; dilaporkan respons pada 5 daripada 28 pesakit (18%), butiran lanjut terpotong |
+| [2820740](https://pubmed.ncbi.nlm.nih.gov/2820740/) | 1987 | Kajian perintis | Eur J Cancer Clin Oncol | Kemoterapi gabungan cisplatin dan sitarabin dalam NSCLC lanjutan (tiada abstrak) |
+| [3030547](https://pubmed.ncbi.nlm.nih.gov/3030547/) | 1987 | Tidak dikelaskan | Cancer Treat Rep | Tajuk: sitarabin dos tinggi dalam kanser paru-paru sel kecil (tiada abstrak; hasil tidak dapat dinilai) |
+| [38377785](https://pubmed.ncbi.nlm.nih.gov/38377785/) | 2024 | Fasa II lengan tunggal | ESMO Open | Pemetrexed intratekal untuk metastasis leptomeningeal NSCLC EGFR+ (agen berkaitan, bukan sitarabin) |
+| [9561978](https://pubmed.ncbi.nlm.nih.gov/9561978/) | 1998 | Laporan klinikal | Arch Neurol | Meningitis karsinoma sekunder kepada NSCLC dengan terapi modaliti gabungan |
+| [22836285](https://pubmed.ncbi.nlm.nih.gov/22836285/) | 2012 | Ulasan | Curr Treat Options Oncol | Rawatan penyebaran leptomeningeal NSCLC, termasuk kemoterapi intratekal |
+| [1332622](https://pubmed.ncbi.nlm.nih.gov/1332622/) | 1992 | Ulasan | Gan To Kagaku Ryoho | Antimetabolit baharu (gemcitabine, DMDC) yang berkait struktur dengan sitarabin; banyak tumor pepejal tidak sensitif terhadap sitarabin |
+| [28223673](https://pubmed.ncbi.nlm.nih.gov/28223673/) | 2017 | Laporan kes | Gan To Kagaku Ryoho | Kes karsinoma paru-paru sel kecil dengan karsinomatosis meningeal yang dirawat secara multidisiplin |
 
 ---
 
 ## Sitotoksisiti
 
-| Item | Kandungan |
-|------|-----------|
-| Klasifikasi Sitotoksisiti | Sitostatik konvensional (Antimetabolit pirimidin / analog nukleosida) |
-| Risiko Supresi Sumsum Tulang | Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan paket |
-| Klasifikasi Emetogenisiti | Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan paket |
-| Item Pemantauan | Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan paket |
-| Perlindungan Pengendalian | Peraturan pengendalian ubat sitostatik terpakai (keperluan peringkat kelas); sahkan detail dalam sisipan paket |
+| Perkara | Kandungan |
+|------|------|
+| Klasifikasi Sitotoksisiti | Sitotoksik konvensional (antimetabolit, analog nukleosid pirimidina) |
+| Risiko Mielosupresi | Tinggi (neutropenia, trombositopenia dan anemia lazim; dalam kajian NSCLC di atas, mielosupresi gred IV berlaku pada 32% pesakit dengan dos tinggi) |
+| Klasifikasi Emetogenisiti | Rendah hingga sederhana (meningkat pada dos tinggi) |
+| Item Pemantauan | Hitung darah lengkap (CBC) dengan pembezaan, fungsi hati dan buah pinggang, elektrolit, serta tanda neurotoksisiti pada dos tinggi |
+| Perlindungan Pengendalian | Perlu mematuhi peraturan pengendalian ubat sitotoksik |
+
+Klasifikasi di atas berdasarkan pengetahuan umum mengenai kelas ubat ini, bukan data khusus daripada data yang dikumpulkan untuk laporan ini. Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pakej.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan paket untuk maklumat keselamatan.
+- **Penyakit/keadaan yang dikaitkan dengan kontraindikasi dalam graf pengetahuan** (bukan teks label rasmi): penyakit buah pinggang, penyakit hati, pankreatitis, penyakit pundi hempedu, trombositopenia, leukopenia, neutropenia (termasuk pelbagai bentuk kongenital), agranulositosis, anemia, neuropati periferi, penyakit cirit-birit, edema paru-paru, jangkitan kulat dan enterokolitis nekrotik.
+- **Interaksi Ubat**: data yang disusun mencatatkan 100 interaksi; 20 yang pertama disenaraikan. Interaksi tahap **sederhana** dengan naltrexone dan tahap **minor** dengan levofloxacin. Selebihnya (contohnya mannitol, pantoprazole, glimepiride, doxycycline, metformin, omeprazole, vancomycin, prednisone, simvastatin) tahapnya tidak diketahui dan perlu disemak lebih lanjut.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-Ramalan berpangkat teratas (karsinoma sel paru-paru kecil) tidak mempunyai sokongan percubaan klinikal atau kesusasteraan dan pakej bukti itu sendiri mengenalinya sebagai artifak skor model tulen tanpa asas mekanistik. Celah data keterukan penghalang dalam amaran/kontraindikasi TFDA (DG001) menghalang pun penilaian keselamatan awal.
+- Skor TxGNN tinggi (99.78%), tetapi tiada ujian klinikal didaftarkan dan tiada bukti khusus sitarabin untuk karsinoma paru-paru sel kecil. Bukti yang ada hanya tahap L4, kebanyakannya daripada kajian NSCLC lama dengan kadar respons rendah (14–18%) dan toksisiti hematologi yang ketara. Sitarabin juga tidak didaftarkan di Malaysia.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Sisipan paket TFDA (amaran, kontraindikasi) — DG001, Penghalang
-- Pertanyaan mekanisme tindakan DrugBank — DG002, Tinggi
-- Teks petunjuk yang diluluskan asal daripada rekod lesen NPRA (ketiga-tiga lesen semasa kosong)
-- Jika mengejar ubatan semula selanjutnya, utamakan pengumpulan bukti pada limfoma paru-paru primer atau neuroblastoma (L4/Soalan Penyelidikan) berbanding calon SCLC berpangkat ke-1, memandangkan asas mekanistik mereka yang lebih kuat
-
+- Sisipan pakej dan maklumat amaran/kontraindikasi rasmi (perlu dimuat turun daripada laman web NPRA). Tanpa ini, saringan keselamatan tidak dapat diteruskan.
+- Data mekanisme tindakan (MOA) terperinci daripada DrugBank.
+- Semakan literatur khusus karsinoma paru-paru sel kecil, termasuk mendapatkan teks penuh laporan tahun 1987.
+- Penilaian laluan pemberian dan kebolehcapaian ubat di Malaysia, memandangkan tiada produk berdaftar.
+- Sebagai rujukan, antara ramalan lain untuk ubat ini, neuroblastoma mempunyai bukti praklinikal (L4) dan tiga ujian berdaftar yang tidak menguji sitarabin sebagai intervensi utama. Ia dinilai sebagai soalan penyelidikan sahaja.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

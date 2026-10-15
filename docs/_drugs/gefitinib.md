@@ -2,7 +2,7 @@
 layout: default
 title: Gefitinib
 parent: Low Evidence (L4-L5)
-nav_order: 364
+nav_order: 381
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,74 +29,96 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Gefitinib: Daripada Kanser Paru-paru Sel Bukan Kecil Berubah EGFR kepada Fibromatosis Gingiva
+# Gefitinib: Daripada Kanser Paru-paru Sel Bukan Kecil kepada Fibromatosis Gingiva
 
 ## Ringkasan Satu Ayat
 
-Gefitinib adalah inhibitor tirosin kinase EGFR yang penggunaan terasasnya yang diluluskan adalah kanser paru-paru sel bukan kecil (NSCLC) berubah EGFR.
-Model TxGNN meramalkan ia mungkin berkesan untuk **Fibromatosis Gingiva**, keadaan pertumbuhan tisu gusi yang jinak,
-tetapi ramalan ini kini disokong oleh **0 uji klinis** dan **0 publikasi** — ia adalah isyarat skor model sahaja tanpa bukti sokongan.
+Gefitinib ialah perencat tirosin kinase EGFR yang pada asalnya digunakan untuk merawat kanser paru-paru sel bukan kecil (NSCLC).
+Model TxGNN meramalkan ia mungkin berkesan untuk **fibromatosis gingiva**, tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong arah ini; ramalan ini hanya berasaskan model.
 
-## Gambaran Keseluruhan Cepat
+---
 
-| Item | Kandungan |
-|------|---------|
-| Petunjuk Asal | NSCLC berubah EGFR yang meningkat (farmakolgi yang mantap; teks label TFDA/NPRA belum diekstrak — lihat Jurang Data DG001) |
-| Petunjuk Baharu yang Diramalkan | Fibromatosis Gingiva |
+## Gambaran Ringkas
+
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Kanser paru-paru sel bukan kecil (NSCLC) / kanser paru-paru |
+| Indikasi Baharu yang Diramal | Fibromatosis gingiva |
 | Skor Ramalan TxGNN | 99.89% |
 | Tahap Bukti | L5 |
-| Status Pasar Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 10 |
-| Keputusan yang Disyorkan | Tahan |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (Tahan) |
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan terperinci tidak tersedia (Jurang Data DG002). Berdasarkan farmakolgi yang diketahui, gefitinib adalah inhibitor tirosin kinase EGFR molekul kecil, dan keberhasilannya dalam NSCLC berubah EGFR telah ditubuhkan dengan baik dan terbukti dalam amalan klinis.
+Data terperinci tentang mekanisme tindakan (MOA) belum tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat yang diketahui, gefitinib ialah perencat EGFR tirosin kinase, keberkesanannya dalam NSCLC yang mempunyai mutasi EGFR telah dibuktikan, dan secara mekanistik mungkin boleh digunakan untuk keadaan yang melibatkan isyarat faktor pertumbuhan.
 
-Fibromatosis gingiva adalah pertumbuhan berlebihan berserat jinak tisu penyambung gusi. Penilaian mekanis pakej bukti sendiri mencatat bahawa isyarat EGFR secara teorinya terlibat dalam laluan proliferasi fibrosis, yang merupakan asas yang dimungkinkan untuk persatuan TxGNN. Bagaimanapun, pautan ini adalah spekulatif daripada ditunjukkan — tiada uji klinis atau kajian terbitan yang menyambungkan gefitinib kepada fibromatosis gingiva ditemui dalam penarikan data ini.
+Pautan yang mungkin ialah isyarat EGFR/faktor pertumbuhan dalam tisu fibroproliferatif. Walau bagaimanapun, ini bersifat spekulatif dan tidak disokong oleh sebarang data klinikal atau literatur. Skor TxGNN yang sangat tinggi (0.9989) hanyalah ramalan model dan tidak boleh dianggap sebagai bukti keberkesanan.
 
-Kerana petunjuk yang diramalkan tidak berkongsi sebarang pertindihan anatomi, onkologi, atau mekanis yang ditubuhkan dengan penggunaan onkologi yang diluluskan gefitinib, calon ini harus dianggap sebagai isyarat model tulen daripada hipotesis berpasir klinis pada peringkat ini.
+Perlu diingat bahawa beberapa ramalan lain dalam kedudukan teratas (contohnya fibroma paru-paru, hamartoma paru-paru) kemungkinan besar mencerminkan kedekatan dalam graf pengetahuan dengan kanser paru-paru, dan bukannya kebergantungan EGFR yang sebenar.
 
-## Bukti Uji Klinis
+---
 
-Pada masa ini tiada uji klinis berkaitan yang didaftarkan
+## Bukti Percubaan Klinikal
 
-## Bukti Kesusasteraan
+Pada masa ini tiada percubaan klinikal berkaitan didaftarkan untuk fibromatosis gingiva.
 
-Pada masa ini tiada kesusasteraan berkaitan yang tersedia
+---
 
-## Maklumat Pasar Malaysia
+## Bukti Literatur
 
-Gefitinib memegang 10 pendaftaran aktif di Malaysia (status pasar: Dipasarkan), tetapi medan lesen terperinci (nombor kebenaran, nama produk, bentuk dos, teks petunjuk yang diluluskan) tidak diisi dalam ekstrak data ini dan memerlukan penarikan data NPRA susulan.
+Pada masa ini tiada literatur berkaitan.
 
-## Sitotoksisiti
+---
 
-| Item | Kandungan |
-|------|---------|
-| Klasifikasi Sitotoksisiti | Terapi bertarget (inhibitor tirosin kinase EGFR) |
-| Risiko Supresi Sumsum Tulang | Sila rujuk amaran sisipan pakej dan tindakan berjaga-jaga |
-| Klasifikasi Emetogenisiti | Sila rujuk amaran sisipan pakej dan tindakan berjaga-jaga |
-| Item Pemantauan | Sila rujuk amaran sisipan pakej dan tindakan berjaga-jaga |
-| Perlindungan Pengendalian | Sila rujuk amaran sisipan pakej dan tindakan berjaga-jaga |
+## Penilaian Ramalan Lain (Ringkas)
 
-## Pertimbangan Keselamatan
+Untuk rujukan, berikut ialah ringkasan 9 ramalan seterusnya dalam senarai teratas:
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
+| Kedudukan | Penyakit | Skor | Tahap Bukti | Catatan |
+|------|------|------|------|------|
+| 2 | Fibroma paru-paru | 99.86% | L5 | Tiada bukti; kemungkinan artifak graf |
+| 3 | Miopati badan inklusi dengan penyakit Paget awal | 99.86% | L5 | Proteinopati VCP, tiada kaitan dengan EGFR |
+| 4 | Hamartoma paru-paru | 99.86% | L5 | Tiada bukti kebergantungan EGFR |
+| 5 | Karsinoma hilum paru-paru | 99.86% | L4 | Pada dasarnya indikasi asal; hanya satu laporan kes |
+| 6 | Neoplasma jinak paru-paru | 99.85% | L4 | Literatur berkaitan NSCLC malignan, bukan tumor jinak |
+| 7 | Sindrom leukomelanoderma-infantilisme-dll. | 99.84% | L5 | Literatur tidak berkaitan; toksisiti kulit menentang manfaat |
+| 8 | Neoplasma sulkus pulmonari | 99.84% | L4 | Munasabah untuk NSCLC mutasi EGFR; tiada bukti langsung |
+| 9 | Tumor sel germa paru-paru | 99.84% | L4 | [NCT00068497](https://clinicaltrials.gov/study/NCT00068497) (Fasa NA, selesai, 40 pesakit) mengkaji gefitinib dalam kanser kepala dan leher/NSCLC, bukan tumor sel germa; hanya relevan secara tidak langsung |
+| 10 | Epidermolisis bulosa junksional | 99.84% | L5 | Tiada bukti; toksisiti kulit gefitinib menimbulkan keraguan |
+
+---
+
+## Kesejahteraan dan Pertimbangan Keselamatan
+
+- **Kontraindikasi (berdasarkan graf pengetahuan, bukan teks label):** penyakit hati, penyakit pundi hempedu, penyakit paru-paru interstisial, fibrosis paru-paru, fibrosis paru-paru pasca-keradangan.
+- **Interaksi Ubat:** 100 interaksi direkodkan. Kebanyakan yang disenaraikan bertahap **Sederhana**, termasuk:
+  - Antagonis reseptor H2: famotidin, ranitidin, simetidin, nizatidin
+  - Perencat pam proton: omeprazol, esomeprazol, lansoprazol, dexlansoprazol, pantoprazol, rabeprazol
+  - Lain-lain: klaritromisin, aprepitan, deksametason, naltrekson, mikonazol, klotrimazol, troglitazon
+  - Tahap tidak diketahui: kalsitriol, glimepirid
+- **Literatur keselamatan yang dikenal pasti:** pneumonitis/penyakit paru-paru interstisial akibat gefitinib (termasuk kes maut), pemanjangan QT, reaksi kulit (ruam akneiform, paronikia), dan kes infarksi miokardium berulang.
+
+Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi yang rasmi, kerana data label NPRA belum tersedia.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold (Tahan)**
 
 **Rasional:**
-Walaupun skor TxGNN yang tinggi (99.89%), calon ini mempunyai sifar sokongan uji klinis atau kesusasteraan, dan pautan mekanis antara perencatan EGFR dan fibromatosis gingiva adalah spekulatif. Tahap bukti L5 (ramalan model sahaja) tidak memenuhi ambang untuk maju ke semakan keselamatan.
+- Ramalan untuk fibromatosis gingiva hanya berasaskan model (L5) tanpa percubaan klinikal atau literatur sokongan, manakala gefitinib tidak berdaftar di Malaysia dan mempunyai risiko keselamatan yang ketara (penyakit paru-paru interstisial, toksisiti kulit, interaksi ubat).
 
-**Untuk meneruskan, perkara berikut diperlukan:**
-- Amaran label TFDA/NPRA dan kontraindikasi (Jurang Data DG001, kini menyekat praskrinan keselamatan)
-- Data mekanisme tindakan terperinci (Jurang Data DG002)
-- Sebarang bukti praklinik atau peringkat kes khusus yang menghubungkan perencatan EGFR dengan fibromatosis gingiva
-
-**Nota tentang calon lain dalam pakej bukti ini:** Antara 10 petunjuk yang diramalkan TxGNN gefitinib, dua menunjukkan bukti yang bermakna lebih kuat daripada calon teratas di atas — **karsinoma hilum paru-paru** (L3, Teruskan dengan Penjaga, disokong oleh laporan kes dan jatuh dalam mekanisme NSCLC yang diketahui gefitinib) dan **neoplasma sulkus pulmonari** (L4, Soalan Penyelidikan, kesusasteraan jenis subkeputusan NSCLC tidak langsung). Sekiranya tujuannya adalah untuk mengenal pasti calon penggantungan tujuan yang boleh dilakukan daripada menyemak skor model teratas secara khusus, dua ini menjamin penilaian berasingan.
-
+**Untuk diteruskan, perkara berikut diperlukan:**
+- Sisipan pakej/amaran dan kontraindikasi (blokir; diperlukan sebelum saringan keselamatan)
+- Data mekanisme tindakan (MOA) terperinci daripada DrugBank
+- Bukti pra-klinikal atau klinikal bahawa laluan EGFR memacu fibromatosis gingiva
+- Penilaian keserasian laluan pentadbiran dan formulasi yang sesuai
+- Status pendaftaran dan ketersediaan produk di Malaysia
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

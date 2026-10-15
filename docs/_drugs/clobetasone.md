@@ -2,7 +2,7 @@
 layout: default
 title: Clobetasone
 parent: Low Evidence (L4-L5)
-nav_order: 227
+nav_order: 232
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,63 +29,88 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Clobetasone: Dari Penggunaan Kortikosteroid Topikal kepada Limfoma Sel T Kutaneus Primer
+# Clobetasone: Daripada Penggunaan Kortikosteroid Topikal kepada Limfoma Sel-T Kutaneus Primer
 
-## Ringkasan Satu Kalimat
+## Ringkasan Satu Ayat
 
-Clobetasone adalah kortikosteroid topikal (agonis reseptor glukokortikoid) yang digunakan untuk kondisi kulit inflamasi.
-Model TxGNN memprediksi bahwa obat ini mungkin efektif untuk **Limfoma Sel T Kutaneus Primer**,
-namun arah ini saat ini didukung hanya oleh pertimbangan mekanis — **tidak ada uji klinis dan tidak ada literatur** spesifik untuk Clobetasone dalam indikasi ini yang telah ditemukan.
+Clobetasone ialah kortikosteroid topikal (agonis reseptor glukokortikoid) yang biasanya digunakan untuk keadaan keradangan kulit, namun data indikasi asal tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
+Model TxGNN meramalkan ia mungkin berkesan untuk **limfoma sel-T kutaneus primer**,
+tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong arah ini, jadi bukti hanya terhad kepada ramalan model (L5).
 
-## Ikhtisar Cepat
+---
 
-| Item | Konten |
-|------|--------|
-| Indikasi Asli | Tidak ditentukan dalam data pendaftaran Malaysia saat ini; kelas obat adalah kortikosteroid topikal (agonis reseptor glukokortikoid) |
-| Indikasi Baru yang Diprediksi | Limfoma Sel T Kutaneus Primer |
-| Skor Prediksi TxGNN | 99.97% |
+## Gambaran Keseluruhan Ringkas
+
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Tiada data (tiada lesen NPRA yang direkodkan) |
+| Indikasi Baharu yang Diramalkan | Limfoma sel-T kutaneus primer (primary cutaneous T-cell lymphoma) |
+| Skor Ramalan TxGNN | 99.97% |
 | Tahap Bukti | L5 |
-| Status Pasar Malaysia | ✓ Beredar |
-| Jumlah Pendaftaran | 3 |
-| Keputusan yang Disarankan | Tahan |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (Tangguh) |
 
-## Mengapa Prediksi Ini Masuk Akal?
+---
 
-Saat ini, data mekanisme aksi terperinci untuk Clobetasone tidak tersedia. Berdasarkan informasi yang diketahui, Clobetasone adalah agonis reseptor glukokortikoid topikal — kelas yang keefektifannya dalam kondisi kulit inflamasi telah terbukti.
+## Mengapa Ramalan Ini Munasabah?
 
-Secara mekanis, kortikosteroid topikal menekan peradangan lokal dan dapat menginduksi apoptosis sel T. Hal ini sangat relevan dengan limfoma sel T kutaneus primer (CTCL): steroid topikal yang berkaitan kimia, clobetasol propionate, adalah pengobatan standar yang terbukti untuk CTCL/mycosis fungoides tahap awal. Karena penggunaan asli (dermatosis inflamasi) dan indikasi baru yang diprediksi (limfoma kutaneus) keduanya diobati pada permukaan kulit, rute pemberian tampak cocok secara mekanis — tidak seperti beberapa prediksi TxGNN peringkat teratas lainnya untuk obat ini (misalnya kolitis Crohn, sindrom nefrotik, insufisiensi adrenokortik), yang akan memerlukan aktivitas kortikosteroid sistemik/oral yang tidak dapat diberikan formulasi topikal.
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, clobetasone tergolong dalam kelas kortikosteroid topikal, yang bertindak melalui reseptor glukokortikoid. Kortikosteroid topikal digunakan sebagai terapi terarah kulit pada mikosis fungoides/CTCL peringkat awal, kerana ia mendorong apoptosis limfosit dan menekan keradangan.
 
-Namun, kelogisan mekanis ini belum diuji untuk Clobetasone secara khusus — tidak ada uji klinis khusus obat-penyakit atau publikasi yang ada saat ini untuk mengkonfirmasi hal tersebut.
+Hubungan ini munasabah berdasarkan kesan kelas, tetapi tiada percubaan atau literatur khusus untuk clobetasone. Skor TxGNN hanyalah ramalan model dan ia tidak boleh dianggap sebagai bukti keberkesanan.
 
-## Bukti Uji Klinis
+### Indikasi Lain yang Diramalkan (Ringkasan)
 
-Saat ini tidak ada uji klinis terkait yang terdaftar.
+Sembilan ramalan lain turut disenaraikan, semuanya pada tahap bukti L5 dan berstatus Hold:
+
+| Kedudukan | Penyakit | Skor TxGNN | Penilaian Ringkas |
+|------|------|------|------|
+| 2 | Sindrom Sézary | 99.78% | Varian CTCL leukemia; memerlukan terapi sistemik, agen topikal paling banyak sebagai tambahan |
+| 3 | Limfoma sel-B kutaneus primer | 99.77% | Kortikosteroid topikal tiada peranan mantap sebagai terapi utama; hubungan spekulatif |
+| 4 | Penyakit kulit longgar granulomatus (granulomatous slack skin) | 99.74% | Varian CTCL yang jarang; hubungan melalui analogi |
+| 5 | Kolitis Crohn | 99.72% | Clobetasone ialah agen dermatologi topikal tanpa formulasi sasaran usus; inferens peringkat kelas sahaja |
+| 6 | Insufisiensi adrenokortikal | 99.71% | Arah keselamatan bertentangan: penggunaan topikal boleh menekan paksi HPA |
+| 7 | Limfoma sel-T bukan Hodgkin kutaneus primer | 99.70% | Kategori lebih luas bertindih dengan CTCL; rasional kelas yang sama |
+| 8 | Sindrom nefrotik | 99.69% | Pendedahan sistemik rendah, tidak mungkin mencapai paras terapeutik |
+| 9 | Teratoma sista | 99.65% | Tiada rasional mekanistik; kemungkinan artifak graf |
+| 10 | Sista dermoid saraf tunjang | 99.65% | Tiada rasional mekanistik; kemungkinan artifak graf |
+
+---
+
+## Bukti Percubaan Klinikal
+
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
+
+---
 
 ## Bukti Literatur
 
-Saat ini tidak ada literatur terkait yang tersedia.
+Pada masa ini tiada literatur berkaitan tersedia.
 
-## Informasi Pasar Malaysia
+---
 
-Clobetasone memiliki 3 pendaftaran aktif di Malaysia (status pasar: ✓ Beredar). Informasi terperinci tingkat lisensi (nomor pendaftaran, nama produk, bentuk sediaan, teks indikasi yang disetujui) tidak dikembalikan dalam pengambilan data NPRA saat ini, sehingga entri lisensi individual tidak dapat ditampilkan di sini.
+## Keselamatan
 
-## Pertimbangan Keselamatan
+Maklumat amaran utama, kontraindikasi dan interaksi ubat tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-Silakan merujuk pada leaflet produk untuk informasi keselamatan.
+Satu perkara penting daripada penilaian rasional: bagi cadangan insufisiensi adrenokortikal, penggunaan kortikosteroid topikal berpotensi menekan paksi HPA, iaitu bertentangan dengan arah indikasi yang dicadangkan.
 
-## Kesimpulan dan Langkah Berikutnya
+---
 
-**Keputusan: Tahan**
+## Kesimpulan dan Langkah Seterusnya
 
-**Alasan:**
-Prediksi adalah tahap bukti L5 (prediksi model saja) — pencarian di ClinicalTrials.gov, ICTRP, dan PubMed mengembalikan nol hasil untuk Clobetasone dalam limfoma sel T kutaneus primer. Selain itu, ada kesenjangan data penghalang: peringatan dan kontraindikasi leaflet produk NPRA tidak tersedia, yang mencegah bahkan penilaian keselamatan awal (S1).
+**Keputusan: Hold (Tangguh)**
 
-**Untuk melanjutkan, diperlukan hal-hal berikut:**
-- Leaflet produk NPRA — peringatan/tindakan pencegahan dan kontraindikasi (Kesenjangan Penghalang, DG001)
-- Mekanisme aksi yang dikonfirmasi dari DrugBank (DG002)
-- Detail pendaftaran lengkap tingkat lisensi (nama produk, bentuk sediaan, teks indikasi yang disetujui) untuk 3 pendaftaran Malaysia
-- Bukti tingkat preklinik atau laporan kasus khusus untuk Clobetasone dalam CTCL/mycosis fungoides, mengingat ketiadaan uji klinis terdaftar atau publikasi
+**Rasional:**
+- Semua ramalan hanya berasaskan model (L5) tanpa percubaan klinikal atau literatur khusus clobetasone, dan produk ini tidak mempunyai pendaftaran di Malaysia.
+- Antara ramalan, hanya kumpulan limfoma sel-T kutaneus (CTCL) mempunyai rasional kelas yang munasabah. Ramalan seperti teratoma sista dan sista dermoid saraf tunjang tidak mempunyai rasional mekanistik.
 
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisipan pakej dan data amaran/kontraindikasi (data ini bersifat penyekat untuk saringan keselamatan)
+- Data mekanisme tindakan (MOA) terperinci, contohnya melalui DrugBank
+- Semakan literatur dan percubaan klinikal khusus clobetasone dalam CTCL/mikosis fungoides
+- Pengesahan indikasi asal dan status pendaftaran tempatan (termasuk kesesuaian laluan pentadbiran)
+- Penilaian sama ada agen topikal sesuai untuk setiap penyakit sasaran, terutamanya penyakit sistemik seperti sindrom Sézary
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

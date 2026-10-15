@@ -2,7 +2,7 @@
 layout: default
 title: Indacaterol
 parent: Low Evidence (L4-L5)
-nav_order: 396
+nav_order: 415
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,61 +29,88 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Indacaterol: Daripada COPD ke Sindrom Ketidaksesuaian Antidiuresis Nephrogenic
+# Indacaterol: Daripada Bronkodilator untuk Penyakit Saluran Pernafasan Obstruktif kepada Sindrom Antidiuresis Tidak Wajar Nefrogenik
 
 ## Ringkasan Satu Ayat
 
-Indacaterol ialah agonis reseptor β2-adrenergik jangka panjang (LABA) yang asalnya digunakan untuk penyakit paru obstruktif kronik (COPD). Model TxGNN meramalkan ia mungkin berkesan untuk **Sindrom Ketidaksesuaian Antidiuresis Nephrogenic (NSIAD)**, tetapi arah ini pada masa kini mempunyai **0 percubaan klinikal** dan **0 penerbitan** yang menyokongnya, dan tiada mekanisme peringkat reseptor yang munasabah telah dikenal pasti.
+Indacaterol ialah agonis beta-2 adrenergik bertindak ultra-panjang yang digunakan sebagai bronkodilator untuk penyakit saluran pernafasan obstruktif seperti asma dan COPD.
+Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom antidiuresis tidak wajar nefrogenik (NSIAD)**.
+Namun, **tiada ujian klinikal** dan **tiada literatur** yang menyokong ramalan ini setakat ini. Ramalan ini hanya berasaskan graf pengetahuan.
 
-## Gambaran Keseluruhan Cepat
+---
 
-| Item | Kandungan |
-|------|----------|
-| Petunjuk Asal | Penyakit Paru Obstruktif Kronik (COPD) — yang disimpulkan daripada kelas ubat yang diketahui (LABA); teks petunjuk yang diluluskan rasmi TFDA/NPRA ialah jurang data |
-| Petunjuk Baru yang Diramalkan | Sindrom Ketidaksesuaian Antidiuresis Nephrogenic |
+## Gambaran Ringkas
+
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Tiada rekod indikasi dalam data pendaftaran tempatan; penggunaan kelas ubat ini ialah bronkodilator untuk asma/COPD |
+| Indikasi Baharu yang Diramalkan | Nephrogenic syndrome of inappropriate antidiuresis (NSIAD) |
 | Skor Ramalan TxGNN | 99.54% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 6 |
-| Keputusan yang Disyorkan | Tangguhkan |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa kini, data mekanisme tindakan terperinci tidak tersedia. Berdasarkan maklumat yang diketahui, indacaterol ialah agonis reseptor β2-adrenergik jangka panjang (LABA); keberhasilannya dalam COPD (dan, dalam produk gabungan, asma) telah ditetapkan dengan baik, bertindak dengan merangsang reseptor β2 pada otot licin bronkial untuk menghasilkan bronkodilatasi.
+Data terperinci tentang mekanisme tindakan belum tersedia dalam data yang dikumpulkan. Berdasarkan maklumat sedia ada, indacaterol mengaktifkan reseptor beta-2 berpasangan Gs pada otot licin saluran udara. Ini meningkatkan cAMP dan menyebabkan bronkodilasi.
 
-Sindrom Ketidaksesuaian Antidiuresis Nephrogenic disebabkan oleh mutasi penambahan-fungsi dalam reseptor vasopresin V2, satu laluan dengan tiada interaksi silang yang diketahui dengan isyarat adrenergik β2. Ulasan mekanistik daripada pakej bukti sendiri menyatakan terdapat "tiada laluan interaksi yang diketahui" dan "tiada kebolehpercayaan mekanistik" antara sasaran indacaterol dan penyakit ini.
+NSIAD berpunca daripada mutasi pengaktifan pada reseptor vasopressin V2 (AVPR2), yang juga ialah GPCR berpasangan Gs. Agonisme beta-2 turut meningkatkan cAMP, maka graf pengetahuan mungkin mengaitkan kedua-duanya melalui laluan isyarat yang serupa.
 
-Dengan kata lain, calon ini didorong semata-mata oleh skor model TxGNN (99.54%, pangkat rangkaian 6872) tanpa sebarang alasan biologi yang menyokong, percubaan klinikal, atau literatur. Dalam pakej bukti yang sama, calon pangkat yang lebih rendah untuk ubat ini — penyakit bronkial — sebenarnya mempunyai sokongan klinikal yang kuat (L1, 37 percubaan, 20 penerbitan), tetapi itu terutamanya menemui semula petunjuk indacaterol yang sudah diketahui daripada mewakili nilai penggunaan semula ubat yang baru; ia bukan sebahagian daripada calon yang ditetapkan dalam laporan ini.
+**Walau bagaimanapun, kewajaran mekanistik ini lemah.** Tiada rasional langsung yang jelas bahawa peningkatan cAMP akan memberi manfaat. Secara teori, peningkatan isyarat cAMP boleh memburukkan lagi pengekalan air. Skor TxGNN yang tinggi hanyalah ramalan berasaskan graf dan tidak disokong oleh data klinikal.
 
-## Bukti Percubaan Klinikal
+---
 
-Pada masa kini tiada percubaan klinikal yang berkaitan didaftarkan
+## Bukti Ujian Klinikal
+
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
+
+---
 
 ## Bukti Literatur
 
-Pada masa kini tiada literatur yang berkaitan tersedia
+Pada masa ini tiada literatur berkaitan yang tersedia.
 
-## Maklumat Pasaran Malaysia
-
-Malaysia mempunyai 6 pendaftaran ubat aktif untuk indacaterol (status pasaran: Dipasarkan). Butiran setiap pendaftaran (nombor kebenaran, nama produk, bentuk dos, teks petunjuk yang diluluskan) tidak tersedia dalam ekstrak data semasa.
+---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan ubat untuk maklumat keselamatan.
+**Penyakit yang dikaitkan dengan kontraindikasi dalam graf pengetahuan** (PrimeKG, bukan teks label produk):
+- Gangguan hipertensi / hipertensi
+- Sindrom QT panjang / sindrom QT panjang familial
+- Epilepsi
+- Hiperglisemia, diabetes mellitus, ketoasidosis diabetik
+- Kekurangan kalium
+- Sawan jantung mengejut (sudden cardiac arrest)
+- Penyakit pengaliran jantung
+- Tirotoksikosis, hipertiroidisme, penyakit Graves
+- Penyakit arteri koronari
+
+**Interaksi ubat** (100 interaksi direkodkan; yang utama disenaraikan di bawah):
+- **Sederhana**: acarbose, isometheptene, famotidine, epinephrine, albiglutide, alogliptin, metformin, pioglitazone, canagliflozin, chlorpropamide, clarithromycin, dapagliflozin, saxagliptin. Banyak daripadanya ialah ubat antidiabetik, kerana agonis beta-2 boleh meningkatkan glukosa darah.
+- **Minor**: hydrocortisone, aprepitant, triamcinolone, dexamethasone, beclomethasone, betamethasone, budesonide.
+
+Amaran dan kontraindikasi daripada sisipan pek NPRA belum diperoleh. Sila rujuk sisipan pek untuk maklumat keselamatan lengkap.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tangguhkan**
+**Keputusan: Hold**
 
 **Rasional:**
-Tiada bukti klinikal atau literatur untuk indacaterol dalam NSIAD, dan tiada pautan mekanistik yang munasabah wujud antara agonis reseptor adrenergik β2 dan patologi yang didorong oleh reseptor V2 bagi sindrom ini. Ramalan itu hanya bergantung pada skor model TxGNN (L5).
+- Ramalan NSIAD hanya berasaskan model (L5), tanpa ujian klinikal atau literatur. Rasional mekanistiknya tidak jelas dan boleh bercanggah dengan patofisiologi penyakit ini.
+- Ubat ini juga tidak dipasarkan di Malaysia (0 pendaftaran).
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Data mekanisme tindakan (MOA) yang disahkan untuk indacaterol
-- Teks petunjuk yang diluluskan TFDA/NPRA dan butiran lesen lengkap untuk 6 pendaftaran Malaysia
-- Bukti farmakologi pra-klinikal/in vitro yang meneroka sebarang pautan tidak langsung antara isyarat adrenergik β2 dan regulasi reseptor AVP/V2
-- Data keselamatan sisipan ubat (amaran utama, kontraindikasi, DDI), pada masa kini tidak tersedia
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Kajian praklinikal atau mekanistik yang menilai kesan agonisme beta-2 terhadap isyarat AVPR2/cAMP dan pengekalan air
+- Data mekanisme tindakan (MOA) yang terperinci daripada DrugBank
+- Amaran dan kontraindikasi daripada sisipan pek NPRA untuk saringan keselamatan
+- Pengesahan status pendaftaran dan indikasi asal, kerana rekod semasa kosong dan mungkin menunjukkan jurang data
 
+**Nota tambahan:** Antara sepuluh ramalan teratas, hanya "bronchial disease" (kedudukan ke-7) mempunyai bukti klinikal yang kukuh (tahap L1, dengan pelbagai ujian fasa 2/3 dan penerbitan RCT dalam asma). Namun, ini lebih tepat dianggap sebagai pengesahan kesan kelas farmakologi sedia ada berbanding pemanfaatan semula ubat. Ramalan lain, seperti sakit kepala, anafilaksis, miositis dan tendinitis kalsifik, juga kekal pada tahap L5 dan Hold tanpa bukti sokongan.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

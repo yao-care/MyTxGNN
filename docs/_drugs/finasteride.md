@@ -2,15 +2,15 @@
 layout: default
 title: Finasteride
 parent: Low Evidence (L4-L5)
-nav_order: 346
-evidence_level: L5
+nav_order: 359
+evidence_level: L4
 indication_count: 6
 ---
 
 # Finasteride
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **6** 
+Tahap bukti: **L4** | Indikasi diramal: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,61 +29,95 @@ Tahap bukti: **L5** | Indikasi diramal: **6**
 
 </div>
 
-# Finasteride: Daripada Alopecia Androgenetic/BPH kepada Hypertrichosis Universalis Congenita Jenis Ambras
+# Finasteride: Daripada Hiperplasia Prostat Benigna kepada Hipertrikosis
 
 ## Ringkasan Satu Ayat
 
-Finasteride adalah perencat 5α-reductase yang secara konvensional digunakan untuk hiperplasia prostat jinak dan alopecia androgenetic (kehilangan rambut corak lelaki); pakej bukti ini tidak mengandungi teks petunjuk yang diluluskan NPRA. Ramalan model TxGNN berpangkat teratas ialah **hypertrichosis universalis congenita jenis Ambras**, gangguan kongenital yang jarang terjadi pada pertumbuhan rambut yang berlebihan — tetapi pasangan ubat ini pada masa kini memiliki **0 uji klinik dan 0 penerbitan**, dan arah mekanistik ubat sendiri (penindasan DHT → pertumbuhan rambut kurang) berjalan bertentangan dengan apa yang penyakit ini perlukan.
+Finasteride ialah perencat enzim 5-alfa-reduktase yang pada asalnya digunakan untuk merawat hiperplasia prostat benigna (BPH).
+Model TxGNN meramalkan ia mungkin berkesan untuk **hipertrikosis**, tetapi setakat ini terdapat **0 ujian klinikal** dan hanya **4 penerbitan** yang tidak langsung (kajian ulasan dan satu kertas kaedah), jadi bukti yang menyokong sangat lemah.
 
-## Panduan Ringkas
+---
 
-| Item | Kandungan |
-|------|----------|
-| Petunjuk Asal | Tidak dinyatakan dalam rekod lesen NPRA yang dibekalkan (semua medan teks petunjuk adalah kosong); Finasteride secara amnya dikenali sebagai perencat 5α-reductase untuk BPH dan alopecia androgenetic |
-| Petunjuk Baru yang Diramalkan | Hypertrichosis universalis congenita jenis Ambras |
-| Skor Ramalan TxGNN | 99.99% (pangkat 207 daripada senarai calon penuh) |
-| Aras Bukti | L5 (ramalan model sahaja, tiada kajian sokongan) |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 8 |
-| Keputusan yang Disyorkan | Tahan |
+## Gambaran Keseluruhan Pantas
 
-## Mengapa Ramalan Ini Boleh Diterima?
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Hiperplasia prostat benigna (BPH) |
+| Indikasi Baharu yang Diramalkan | Hipertrikosis (penyakit) |
+| Skor Ramalan TxGNN | 99.99% |
+| Tahap Bukti | L4 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
-Data mekanisme tindakan terperinci tidak tersedia dalam pakej bukti ini (ditandai sebagai jurang data Keseriusan Tinggi). Berdasarkan farmakologi yang diketahui, finasteride merencat 5α-reductase jenis II, menurunkan dihydrotestosterone (DHT) — mekanisme yang **mengurangkan** pertumbuhan rambut bergantung androgen, itulah sebabnya ia digunakan untuk kehilangan rambut corak lelaki dan BPH.
+Nota: Indikasi baharu yang disenaraikan di atas ialah pilihan kedua dalam senarai ramalan. Pilihan pertama (sindrom Ambras, skor 99.99%) hanya mempunyai bukti tahap L5 tanpa sebarang ujian atau penerbitan, manakala hipertrikosis mempunyai sedikit literatur sokongan tidak langsung. Hipertrikosis dipilih sebagai fokus laporan kerana ia satu-satunya ramalan yang mempunyai sebarang bukti literatur.
 
-Hypertrichosis jenis Ambras adalah gangguan kongenital, tidak bergantung androgen, pertumbuhan rambut umum yang berlebihan, paling kerap dikaitkan dengan susunan semula kromosom 8q berhampiran lokus *TRPS1*, bukan pada pengesyaran androgen/DHT. Analisis mekanistik pakej bukti sendiri adalah tegas bahawa tiada sambungan biologi yang munasabah di sini, dan bahawa arah sebenarnya terbalik: Finasteride menindas pertumbuhan rambut, manakala hypertrichosis Ambras adalah penyakit pertumbuhan rambut yang berlebihan. Tiada uji klinik, rekod ICTRP, atau kesusasteraan PubMed menyokong pasangan ini.
+---
 
-Calon berpangkat dua berkaitan, "hypertrichosis (penyakit)" (skor 99.99%, pangkat 248), mempunyai beberapa bukti yang diperolehi (1 uji klinik, 4 item kesusasteraan), tetapi uji itu dinilai kaitan "C" — ia mengkaji rawatan topik untuk alopecia androgenetic (kehilangan rambut *), bukan hypertrichosis, dan tiada satu pun daripada empat item kesusasteraan melibatkan Finasteride secara langsung. Diambil bersama-sama, ini dengan kuat mencadangkan skor TxGNN mencerminkan kedekataan dalam ruang embedding "penyakit berkaitan rambut" dan bukannya hubungan farmakologi yang tulen. Calon ini harus dianggap sebagai keyakinan rendah menunggu pembenaran mekanistik atau klinikal selanjutnya.
+## Mengapakah Ramalan Ini Munasabah?
 
-## Bukti Uji Klinik
+Finasteride merencat 5-alfa-reduktase jenis II dan menurunkan dihidrotestosteron (DHT). Mekanisme ini mantap untuk BPH serta alopesia androgenetik, dan telah dikaji dalam hirsutisme. Data terperinci mengenai mekanisme tindakan asal (MOA) tidak terdapat dalam data yang dihimpunkan untuk laporan ini, namun mekanisme di atas adalah pengetahuan farmakologi umum.
 
-Pada masa kini tiada uji klinik berkaitan yang didaftarkan.
+Hubungan antara indikasi asal dengan indikasi baharu ini **lemah**. Hipertrikosis ditakrifkan sebagai pertumbuhan rambut berlebihan di kawasan yang **tidak bergantung kepada androgen**, sedangkan finasteride bertindak melalui penurunan isyarat androgen. Oleh itu, keberkesanannya pada hipertrikosis sejati tidak dijangka secara mekanistik.
 
-## Bukti Sastera
+Empat penerbitan yang ditemui ialah ulasan naratif berbahasa Jerman dan satu kertas kaedah (TrichoScan). Ulasan-ulasan ini sering mencampuradukkan hirsutisme (bergantung kepada androgen) dengan hipertrikosis, jadi isyarat ramalan mungkin sebenarnya mencerminkan hirsutisme, bukan hipertrikosis sejati.
 
-Pada masa kini tiada kesusasteraan berkaitan yang tersedia.
+---
 
-## Maklumat Pasaran Malaysia
+## Bukti Ujian Klinikal
 
-Finasteride dipasarkan di Malaysia dengan 8 jumlah pendaftaran NPRA (status pasaran: Dipasarkan/Dipasarkan). Walau bagaimanapun, pakej bukti ini tidak memasukkan butiran peringkat lesen yang dipenuhi (nombor lesen, nama produk, bentuk dosage, atau teks petunjuk yang diluluskan) — medan tersebut dikembalikan kosong oleh sumber data dan perlu ditarik semula daripada rekod NPRA sebelum ia boleh dilaporkan.
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
-## Pertimbangan Keselamatan
+---
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan. (Nota: pengambilan amaran label NPRA/kontraindikasi ditandai sebagai jurang data **Menyekat** — DG001 — dan mesti diselesaikan sebelum sebarang semakan peringkat keselamatan dapat diteruskan.)
+## Bukti Literatur
+
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [12223963](https://pubmed.ncbi.nlm.nih.gov/12223963/) | 2002 | Ulasan | Annales de dermatologie et de venereologie | Hipertrikosis berlaku di kawasan tidak bergantung androgen dan tidak memerlukan pemantauan hormon, berbeza dengan hirsutisme; kebanyakan kes dewasa adalah iatrogenik (minoksidil, siklosporin, diazoksid, glukokortikosteroid), metabolik atau paraneoplastik |
+| [10330884](https://pubmed.ncbi.nlm.nih.gov/10330884/) | 1999 | Ulasan | Therapeutische Umschau | Ulasan pilihan rawatan baharu untuk alopesia androgenetik dan hirsutisme; kesan emosi masalah rambut kosmetik |
+| [12942187](https://pubmed.ncbi.nlm.nih.gov/12942187/) | 2003 | Ulasan | Der Hautarzt | Finasteride untuk kehilangan rambut corak lelaki dan laser untuk hipertrikosis/hirsutisme; tiada data keberkesanan finasteride pada hipertrikosis |
+| [12444520](https://pubmed.ncbi.nlm.nih.gov/12444520/) | 2002 | Kaedah/alat diagnostik | Der Hautarzt | TrichoScan, alat analisis rambut digital untuk memantau kehilangan rambut dan tindak balas rawatan |
+
+---
+
+## Ramalan Lain yang Dinilai
+
+| Penyakit | Skor TxGNN | Tahap Bukti | Ulasan Ringkas |
+|------|------|------|------|
+| Hipertrikosis universalis kongenital jenis Ambras | 99.99% | L5 | Disebabkan penyusunan semula genomik yang menjejaskan TRPS1, bukan terutamanya didorong androgen; hubungan bersifat spekulatif |
+| Sindrom malformasi dengan komponen odontal/periodontal | 99.99% | L5 | Tiada hubungan mekanistik yang munasabah dikenal pasti |
+| Sindrom dengan malformasi Dandy-Walker sebagai ciri utama | 99.99% | L5 | Kecacatan struktur perkembangan; pendedahan finasteride semasa kehamilan sendiri merupakan kebimbangan perkembangan |
+| Kelainan batang rambut genetik terpencil | 99.99% | L5 | Berpunca daripada kecacatan keratin/folikel, bukan lebihan androgen |
+| Trikomegali terpencil familial | 99.15% | L5 | Tiada tindakan finasteride yang diketahui pada laluan pertumbuhan bulu mata; skor terendah dalam set |
+
+Semua ramalan ini tidak mempunyai ujian klinikal atau literatur sokongan.
+
+---
+
+## Keselamatan
+
+- **Kontraindikasi (daripada graf pengetahuan, bukan teks label):** penyakit hati dan penyakit pundi hempedu.
+- **Kehamilan:** Finasteride dikontraindikasikan pada wanita yang mungkin hamil kerana risiko pemfeminan janin lelaki. Ini amat relevan kerana hipertrikosis dan hirsutisme lebih kerap dirawat pada wanita.
+- **Interaksi Ubat:** Pangkalan data interaksi mengesan 100 interaksi berpotensi, contohnya dengan kalsitriol, doksisiklin, klotrimazol, dolasetron, disiklomin, klorheksidin, famotidin, asid asetilsalisilik, amoksisilin dan bupropion. Tahap keterukan semuanya tidak diketahui, jadi penilaian farmasi diperlukan.
+
+Untuk maklumat amaran dan kontraindikasi yang lengkap, sila rujuk sisipan pek produk.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
-**Alasan:**
-Ramalan berpangkat teratas (hypertrichosis universalis congenita jenis Ambras) tidak mempunyai sokongan klinikal atau kesusasteraan (L5, peringkat keputusan S0), dan rasionalisasi mekanistik pakej bukti sendiri menunjukkan kesan ubat berjalan dalam arah yang bertentangan dengan apa yang penyakit ini perlukan. Secara berasingan, jurang data Menyekat (amaran label NPRA/kontraindikasi yang hilang) menghalang sebarang penilaian peringkat keselamatan daripada diteruskan tanpa mengira petunjuk.
+**Rasional:**
+- Skor TxGNN yang tinggi hanyalah ramalan model. Tiada ujian klinikal, literatur yang ada hanya ulasan tidak langsung, dan mekanismenya tidak sepadan dengan hipertrikosis yang tidak bergantung kepada androgen. Risiko teratogenik pada wanita juga menambah kebimbangan. Selain itu, finasteride tidak didaftarkan di Malaysia.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Label produk NPRA (PDF) dengan amaran dan kontraindikasi (DG001, Menyekat)
-- Data mekanisme tindakan yang disahkan daripada DrugBank (DG002, Tinggi)
-- Sekiranya hipotesis pertumbuhan rambut yang berkaitan dengan ubat baru masih menarik minat, nilaikan semula calon berpangkat dua ("hypertrichosis (penyakit)") dengan uji/kesusasteraan yang sebenarnya melibatkan Finasteride, daripada uji alopecia androgenetic berkaitan semasa yang hanya mempunyai kaitan tepi
-- Data peringkat lesen NPRA yang dipenuhi (nama produk, bentuk dosage, teks petunjuk yang diluluskan) untuk 8 pendaftaran sedia ada
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Maklumat amaran dan kontraindikasi daripada sisipan pek NPRA (halangan utama kepada saringan keselamatan)
+- Data mekanisme tindakan (MOA) terperinci daripada DrugBank
+- Bukti klinikal langsung yang membezakan hipertrikosis sejati daripada hirsutisme
+- Penilaian status pendaftaran dan laluan kawal selia di Malaysia
+- Pelan keselamatan untuk populasi berisiko, terutamanya wanita usia subur
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

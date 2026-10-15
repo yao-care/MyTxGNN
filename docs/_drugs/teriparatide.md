@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Teriparatide
-parent: Medium Evidence (L3)
-nav_order: 642
-evidence_level: L3
+parent: Low Evidence (L4-L5)
+nav_order: 675
+evidence_level: L5
 indication_count: 10
 ---
 
 # Teriparatide
 {: .fs-9 }
 
-Tahap bukti: **L3** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,85 +29,87 @@ Tahap bukti: **L3** | Indikasi diramal: **10**
 
 </div>
 
-# Teriparatide: Daripada Osteoporosis kepada Osteoporosis Berkaitan Kehamilan
+# Teriparatide: Daripada Osteoporosis Pascamenopaus kepada Ulser Duodenum
 
 ## Ringkasan Satu Ayat
 
-> Teriparatide (DrugBank DB06285) adalah analogue PTH(1-34) rekombinan yang awalnya digunakan untuk merawat osteoporosis dengan merangsang pembentukan tulang.
-> Antara 10 indikasi yang diramalkan oleh TxGNN dalam pak ini, kebanyakan daripada calon-calon berskor tertinggi (cth. ulser duodenum, malformasi esofagus) **tiada bukti sokongan** dan secara jelas ditandai dalam rasional pak sendiri sebagai **bising model** yang kemungkinan.
-> Calon yang paling disokong oleh bukti adalah **Osteoporosis Berkaitan Kehamilan**, disokong oleh **2 ujian klinikal yang selesai** (kedua-duanya tidak merekrut populasi sasaran) dan sepadan dengan **Tahap Bukti L3**.
-
-*Nota tentang pemilihan: skor TxGNN mentah #1 (ulser duodenum, 99.86%) tidak digunakan sebagai indikasi tajuk utama kerana ia tiada bukti klinikal/literatur dan medan pautan mekanik pak sendiri menerangkannya sebagai bising tanam. Laporan ini sebaliknya menyerlahkan calon berskor tertinggi yang mempunyai data sokongan sebenar.*
+Teriparatide ialah analog hormon paratiroid (PTH 1-34) yang pada asalnya digunakan untuk merawat osteoporosis pascamenopaus. Model TxGNN meramalkan ia mungkin berkesan untuk **ulser duodenum**. Namun, buat masa ini terdapat **0 ujian klinikal** dan **0 penerbitan** yang menyokong arah ini, jadi ramalan ini hanya berasaskan model.
 
 ---
 
-## Gambaran Keseluruhan Pantas
+## Gambaran Ringkas
 
 | Item | Kandungan |
-|------|---------|
-| Indikasi Asal | Osteoporosis (setiap rujukan pelabelan FORTEO/teriparatide dalam ujian NCT00277706; tidak tersedia secara langsung daripada teks lesen NPRA) |
-| Indikasi Baru yang Diramalkan | Osteoporosis Berkaitan Kehamilan |
-| Skor Ramalan TxGNN | 99.55% |
-| Tahap Bukti | L3 |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 5 |
-| Keputusan Disyorkan | Tahan |
+|------|------|
+| Indikasi Asal | Osteoporosis pascamenopaus (osteoporosis) |
+| Indikasi Baharu yang Diramalkan | Ulser duodenum |
+| Skor Ramalan TxGNN | 99.86% |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan yang Disyorkan | Hold (Tangguh) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Teriparatide adalah analogue PTH(1-34) rekombinan yang mengaktifkan reseptor PTH1, merangsang pembentukan tulang osteoblastik. Ia adalah agen osteoanabolik yang diluluskan untuk osteoporosis. Osteoporosis berkaitan kehamilan, pada intinya, masih merupakan gangguan ketumpatan tulang rendah/kehilangan tulang, jadi ada pertindihan mekanik yang munasabah dengan indikasi teras teriparatide — mengaktifkan laluan pembentukan tulang yang sama yang dimediasi PTH1 yang mendasari penggunaannya yang diluluskan untuk osteoporosis.
+Teriparatide ialah peptida yang sepadan dengan 34 asid amino pertama hormon paratiroid manusia. Ia bertindak melalui reseptor PTH1 (PTH1R) dan juga berinteraksi dengan reseptor PTH2 (PTH2R). Dalam osteoporosis, pengaktifan berselang PTH1R merangsang osteoblas dan pembentukan tulang, jadi ia dikelaskan sebagai agen anabolik tulang.
 
-Bagaimanapun, kedua-dua ujian sokongan tidak dirancang untuk populasi ini: NCT00277706 (Fasa 1, selesai, N=40) menguji PTH(1-34)/FORTEO untuk penjanaan semula tulang periodontal, dan NCT02440581 (fasa N/A, selesai, N=141) mengkaji kehilangan tulang dalam pesakit osteodistrofi renal bergantung dialisis. Kedua-duanya memberikan hanya sokongan mekanik tidak langsung dan bukannya bukti keberkesanan langsung dalam pesakit hamil atau pasca-bersalin. Secara kritis, penggunaan teriparatide semasa kehamilan membawa persoalan keselamatan pembiakan yang tidak diselesaikan — kajian haiwan telah menimbulkan isyarat osteosarkoma, dan tiada data keselamatan janin wujud untuk populasi ini.
+Data yang dikumpulkan untuk laporan ini **tidak menunjukkan sebarang kaitan mekanisme yang boleh dikenal pasti** antara teriparatide dan patofisiologi ulser duodenum. Ulser duodenum berkait dengan keseimbangan asid-pertahanan mukosa dan jangkitan *Helicobacter pylori*, yang berbeza daripada metabolisme tulang. Skor TxGNN yang tinggi (99.86%, kedudukan 2717) adalah ramalan berasaskan graf sahaja dan tidak disokong oleh ujian atau literatur.
 
-Sebaliknya, majoriti daripada 9 indikasi yang diramalkan lain (ulser duodenum, malformasi esofagus bukan sindromik, obstruksi duodenum, refluk duodenogastrik, Sindrom Worth, vitreoretinopatitis radang neovaskular dominan autosom, kekurangan penggantian ketoacyl-CoA suksinil:3-ketoacid) tiada ujian klinikal, tiada literatur, dan tiada pautan mekanik yang munasabah kepada isyarat PTH1-reseptor — beberapa malahan secara mekanik bercanggah (cth., Sindrom Worth adalah gangguan ketumpatan tulang tinggi, arah bertentangan dengan ubat osteoanabolik). Satu calon tambahan, amenorrhea (pangkat 10, L4), mempunyai sokongan tidak langsung melalui kehilangan tulang berkaitan kekurangan estrogen (PMID 36303862), tetapi literatur tunggal adalah ulasan umum, bukan kajian intervensi langsung. Literatur penyakit esofagus (pangkat 5) juga telah disemak dan dikecualikan — kertas yang dirujuk menerangkan **peristiwa sampingan** teriparatide (termasuk kalsinosis kutis), bukan keberkesanan dalam penyakit esofagus, jadi ia isyarat keselamatan dalam arah yang salah, bukan sokongan penggunaan semula ubat.
+Ramalan ini perlu dianggap sebagai hipotesis awal yang belum disahkan dan bukan petunjuk bahawa ubat ini berkesan.
 
 ---
 
 ## Bukti Ujian Klinikal
 
-| Nombor Ujian | Fasa | Status | Perekrutan | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT00277706](https://clinicaltrials.gov/study/NCT00277706) | Fasa 1 | Selesai | 40 | Menguji PTH(1-34) (FORTEO) digabungkan dengan pembedahan periodontal untuk penjanaan semula tulang oral; mengesahkan mekanisme osteoanabolik tetapi bukan khusus kepada osteoporosis berkaitan kehamilan |
-| [NCT02440581](https://clinicaltrials.gov/study/NCT02440581) | N/A | Selesai | 141 | Menilai kehilangan tulang/osteodistrofi renal dalam pesakit CKD dialisis; populasi dan intervensi hanya relevan secara tangensial |
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
-Pada masa ini tiada literatur didaftarkan khusus untuk indikasi Osteoporosis Berkaitan Kehamilan.
-
-(Untuk konteks: calon sekunder, amenorrhea, disokong oleh satu ulasan — [PMID 36303862](https://pubmed.ncbi.nlm.nih.gov/36303862/), 2022, *Frontiers in Endocrinology* — tentang kesihatan tulang dalam amenorrhea hipotalamik fungsional, tetapi ia bukan kajian intervensi teriparatide langsung.)
-
----
-
-## Maklumat Pasaran Malaysia
-
-Status NPRA adalah **Dipasarkan (Dipasarkan)** dengan **5 lesen terdaftar**. Bagaimanapun, nama produk, bentuk dos, pengilang, dan teks indikasi yang diluluskan untuk 5 lesen ini tidak diisi dalam ekstrak data semasa, jadi jadual tahap lesen tidak boleh dihasilkan. Jurang ini perlu dipulihkan (pencarian produk NPRA atau PDF label) sebelum perbandingan pelabelan khusus Malaysia dibuat.
+Pada masa ini tiada literatur berkaitan.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Data sisipan paket TFDA/NPRA tentang amaran, kontraindikasi, dan data interaksi ubat pada masa ini tidak tersedia — ini ditandai sebagai jurang data **Menyekat** (DG001), yang menghalang ulasan keselamatan rasmi (S1). Sila rujuk sisipan paket rasmi untuk maklumat keselamatan sehingga jurang ini diselesaikan.
+**Penyakit yang dikenal pasti sebagai kontraindikasi dalam pangkalan pengetahuan graf** (bukan teks label produk):
+- Gangguan hipotensif
+- Hiperkalsemia
+- Nefrokalsinosis
+- Gangguan metabolisme fosforus
+- Osteosarkoma tulang
+- Penyakit Paget tulang (termasuk Paget juvenil)
+- Osteomalasia
+- Riket
+- Urolitiasis (batu kencing)
+- Osteodistrofi renal
+- Osteitis fibrosa
+- Hiperparatiroidisme
+
+**Interaksi Ubat** (8 rekod, termasuk 6 interaksi ubat-ubat):
+- **Sederhana**: Kalsitriol (topikal), kalsipotriol (topikal), digoksin, digitoksin
+- **Ringan**: Hidroklorotiazid, furosemid
+
+Untuk amaran utama dan kontraindikasi daripada label produk, sila rujuk sisipan pakej.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold (Tangguh)**
 
-**Rasional:**
-Data keselamatan yang diperlukan untuk skrin risiko awal pun dihalang (DG001, keterukan Menyekat), dan indikasi terkuat tersedia (osteoporosis berkaitan kehamilan) hanya disokong oleh ujian dalam populasi yang tidak berkaitan serta persoalan keselamatan pembiakan yang tidak diselesaikan (isyarat osteosarkoma yang mungkin dalam data haiwan, tiada data keselamatan janin). Bukti adalah berarah, bukan pengesahan.
+**Justifikasi:**
+- Tiada ujian klinikal, tiada literatur dan tiada kaitan mekanisme yang munasabah menyokong penggunaan teriparatide untuk ulser duodenum. Ubat ini juga tidak berdaftar di Malaysia, jadi ramalan ini tidak wajar diteruskan pada peringkat ini.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Data sisipan paket TFDA/NPRA (amaran, kontraindikasi, DDI) untuk menutup DG001
-- Mekanisme tindakan yang disahkan dari DrugBank untuk menutup DG002
-- Bukti klinikal yang berdedikasi dalam pesakit osteoporosis hamil/pasca-bersalin
-- Data keselamatan pembiakan dan janin sebelum mana-mana indikasi yang berkaitan kehamilan dipertimbangkan
-- Penyelesaian butiran lesen Malaysia (nama produk, bentuk dos, teks indikasi) untuk 5 pendaftaran sedia ada
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Hipotesis mekanisme yang jelas yang menghubungkan isyarat PTH1R/PTH2R dengan patologi ulser duodenum, disokong oleh kajian praklinikal.
+- Pengesahan status pendaftaran dan sisipan pakej daripada NPRA, termasuk amaran dan kontraindikasi.
+- Penilaian keselamatan terhadap kontraindikasi dan interaksi ubat yang dinyatakan di atas.
 
+**Nota tambahan:** Antara ramalan lain bagi ubat ini, **osteoporosis berkaitan kehamilan** (kedudukan 8, tahap bukti L3) mempunyai sokongan literatur paling kukuh, termasuk kajian kohort dan semakan sistematik tentang penggunaan teriparatide. Ramalan tersebut, serta **amenorea** (kedudukan 10, bukti tidak langsung melalui kesihatan tulang), mungkin lebih wajar dinilai terlebih dahulu berbanding ulser duodenum.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

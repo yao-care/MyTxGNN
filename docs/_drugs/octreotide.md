@@ -2,7 +2,7 @@
 layout: default
 title: Octreotide
 parent: Low Evidence (L4-L5)
-nav_order: 514
+nav_order: 538
 evidence_level: L5
 indication_count: 2
 ---
@@ -29,63 +29,85 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Octreotide: Daripada Gangguan Neuroendokrin hingga Keratosis Folikel Terbalik Vulva
+# Octreotide: Daripada Akromegali kepada Keratosis Folikular Songsang Vulva
 
 ## Ringkasan Satu Ayat
 
-Octreotide adalah analog somatostatin yang awalnya digunakan untuk merawat akromegali, sindrom karsinoid, VIPoma, dan perdarahan varikositas esofagus melalui jalur reseptor somatostatin (SSTR2/SSTR5). TxGNN meramalkan ia mungkin berkesan untuk **keratosis folikel terbalik vulva**, tetapi arah ini kini disokong oleh **tiada ujian klinikal** dan **tiada penerbitan**.
+Octreotide ialah analog somatostatin yang pada asalnya digunakan untuk merawat akromegali, hiperpituitarisme dan sindrom karsinoid.
+Model TxGNN meramalkan ia mungkin berkesan untuk **keratosis folikular songsang vulva (vulvar inverted follicular keratosis)**,
+tetapi **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong ramalan ini setakat ini; ia hanyalah ramalan model.
+
+---
 
 ## Gambaran Keseluruhan Pantas
 
-| Item | Kandungan |
+| Perkara | Kandungan |
 |------|------|
-| Petunjukan Asal | Tidak dinyatakan dalam data pendaftaran Malaysia; berdasarkan penerangan mekanik pakej bukti, penggunaan klinikal yang diketahui termasuk akromegali, sindrom karsinoid, VIPoma, dan perdarahan varikositas esofagus |
-| Petunjukan Baru yang Diramalkan | Keratosis Folikel Terbalik Vulva |
-| Skor Ramalan TxGNN | 99.58% (kedudukan 6464) |
+| Indikasi Asal | Akromegali, hiperpituitarisme, sindrom karsinoid (berdasarkan graf pengetahuan PrimeKG) |
+| Indikasi Baharu yang Diramalkan | Keratosis folikular songsang vulva |
+| Skor Ramalan TxGNN | 99.58% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 6 |
-| Keputusan yang Disyorkan | Tahan |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan terperinci tidak tersedia dalam pakej bukti. Berdasarkan rasional penggunaan semula yang disediakan, octreotide adalah analog somatostatin yang bertindak terutamanya melalui reseptor SSTR2/SSTR5 untuk menyekat paksi hormon pertumbuhan/IGF-1, menghasilkan kesan anti-proliferasi dan anti-angiogenik. Secara klinikal ia digunakan untuk akromegali, sindrom karsinoid, VIPoma, dan perdarahan varikositas esofagus.
+Data mekanisme tindakan (MOA) terperinci tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, octreotide ialah analog somatostatin yang secara amnya bertindak pada reseptor somatostatin (SSTR2/SSTR5) untuk merencat rembesan hormon seperti hormon pertumbuhan (GH). Keberkesanannya dalam akromegali dan sindrom karsinoid telah diketahui, tetapi hubungan mekanistik dengan indikasi baharu tidak dapat dinilai.
 
-Keratosis folikel terbalik vulva adalah lesi proliferasi keratinosit jinak, secara umumnya berkaitan dengan jangkitan HPV atau iritasi tempatan. Tiada kesusasteraan yang ditubuhkan menghubungkan isyarat reseptor somatostatin kepada jenis proliferasi keratinosit ini.
+Hubungan ini hanya berasaskan skor ramalan tinggi (0.996) daripada graf pengetahuan TxGNN. Data yang dikumpulkan tidak menyokong sebarang laluan biologi yang menghubungkan octreotide dengan lesi epitelium jinak ini. Ekspresi reseptor somatostatin pada keratinosit atau epitelium folikular hanyalah andaian dan belum disahkan.
 
-Pakej bukti itu sendiri menandakan ramalan ini sebagai kemungkinan palsu: skor TxGNN yang tinggi (0.996) berkemungkinan mencerminkan kesamaan struktur antara nod berkaitan "keratosis" dalam graf pengetahuan daripada mekanisme biologi yang tulen. Ramalan kedua yang begini juga tidak disokong untuk ubat yang sama — keratosis seborrik (skor 0.995) — mengukuhkan corak ini, kerana keadaan itu didorong oleh mutasi somatik FGFR3/PIK3CA tanpa sebarang hubungan yang diketahui kepada isyarat somatostatin.
+Ramalan ini mungkin mencerminkan kedekatan dalam graf dengan istilah keratosis atau lesi kulit yang berkaitan, dan bukannya isyarat terapeutik sebenar.
 
-## Bukti Ujian Klinikal
+Satu lagi ramalan dengan skor setanding (99.55%) ialah **keratosis seborea**. Ia juga tidak mempunyai sebarang percubaan klinikal atau literatur, dan merupakan percambahan epidermis jinak tanpa bukti bahawa perencatan rembesan GH/IGF-1 melalui SSTR memberi kesan kepadanya.
 
-Pada masa ini tiada ujian klinikal berkaitan terdaftar.
+---
 
-## Bukti Kesusasteraan
+## Bukti Percubaan Klinikal
 
-Pada masa ini tiada kesusasteraan berkaitan tersedia.
+Buat masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
-## Maklumat Pasaran Malaysia
+---
 
-Butir-butir peringkat lesen (nama produk, bentuk dos, pengilang, teks petunjukan yang diluluskan) tidak tersedia dalam pakej bukti. Hanya data pendaftaran agregat yang diketahui: **6 pendaftaran**, status pasaran **Dipasarkan** di Malaysia.
+## Bukti Literatur
+
+Buat masa ini tiada literatur berkaitan.
+
+---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
+Maklumat berikut diambil daripada hubungan kontraindikasi dalam graf pengetahuan (bukan teks label produk):
 
-*Nota: Data amaran/kontraindikasi (DG001) ditandakan sebagai jurang data Pemblokiran dan belum diambil daripada label TFDA, oleh itu penilaian keselamatan penuh tidak dapat diselesaikan pada peringkat ini.*
+- **Penyakit/keadaan yang dikaitkan dengan kontraindikasi**: hiperglisemia, hipoglisemia, diabetes mellitus, ketoasidosis diabetes, hipotiroidisme (termasuk miksedema dan hipotiroidisme kongenital), sirosis hati, penyakit hati, penyakit pundi hempedu, batu hempedu (kolelitiasis, kolesistolitiasis, koledokolitiasis), ileus, halangan usus, sengkelit jantung mengejut, penyakit konduksi jantung, kegagalan buah pinggang, uremia, dan kekurangan vitamin B12.
+
+- **Interaksi Ubat**: 100 interaksi telah dikenal pasti. Antara yang disenaraikan, semuanya bertahap **Sederhana**, terutamanya dengan ubat antidiabetes kerana octreotide boleh mengubah kawalan glukosa darah:
+  - Perencat alfa-glukosidase: acarbose
+  - Agonis reseptor GLP-1: albiglutide, dulaglutide, semaglutide
+  - Perencat DPP-4: alogliptin, linagliptin
+  - Biguanid: metformin
+  - Perencat SGLT2: canagliflozin, dapagliflozin, empagliflozin
+  - Sulfonilurea: chlorpropamide, glimepiride
+  - Insulin: insulin aspart, degludec, detemir, glargine, glulisine, isophane, insulin manusia (sedutan pantas dan biasa)
+
+Untuk amaran utama dan kontraindikasi rasmi, sila rujuk sisipan pakej produk.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
 **Rasional:**
-Ramalan bergantung sepenuhnya pada skor TxGNN (L5, ramalan model sahaja) tanpa sokongan ujian klinikal atau kesusasteraan. Analisis mekanik pakej bukti itu sendiri mencadangkan skor yang tinggi berkemungkinan mencerminkan kesamaan struktur graf pengetahuan daripada pautan biologi tulen antara isyarat somatostatin dan proliferasi keratinosit. Digabungkan dengan jurang data keselamatan Pemblokiran (DG001), calon ini tidak memenuhi ambang untuk meneruskan.
+- Ramalan hanya berasaskan skor model (tahap bukti L5) tanpa sebarang percubaan klinikal, literatur atau mekanisme biologi yang disokong. Ubat ini juga tidak berdaftar di Malaysia.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Data petunjukan asal yang disahkan dan mekanisme tindakan (MOA) daripada DrugBank (DG002)
-- Amaran label TFDA dan kontraindikasi (DG001, Pemblokiran — diperlukan sebelum sebarang penilaian keselamatan S1)
-- Carian kesusasteraan/praklinik yang tertumpu untuk ungkapan reseptor somatostatin dalam keratinosit atau lesi proliferasi berkaitan HPV, untuk menguji kebolehmungkinan biologi sebelum pelaburan lebih lanjut
-- Butir-butir peringkat lesen Malaysia (nama produk, bentuk dos, teks petunjukan yang diluluskan) untuk mengesahkan formulasi yang dipasarkan semasa dan laluan
-
+- Data mekanisme tindakan (MOA) terperinci, serta bukti ekspresi reseptor somatostatin dalam tisu sasaran
+- Kajian praklinikal atau laporan kes yang berkaitan dengan indikasi yang diramalkan
+- Amaran dan kontraindikasi daripada sisipan pakej NPRA untuk saringan keselamatan
+- Pengesahan laluan pendaftaran dan bentuk dos/laluan pentadbiran yang sesuai untuk indikasi baharu
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

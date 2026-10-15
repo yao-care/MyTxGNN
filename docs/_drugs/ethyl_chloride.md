@@ -2,7 +2,7 @@
 layout: default
 title: Ethyl Chloride
 parent: Low Evidence (L4-L5)
-nav_order: 329
+nav_order: 341
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,61 +29,89 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Etil Klorida: Dari Anestesi Topikal ke Katarak Craniostenosis
+# Etil Klorida: Daripada Penggunaan Topikal (Vapocoolant) kepada Katarak Kraniostenosis
 
 ## Ringkasan Satu Ayat
 
-Etil klorida adalah hidrokarbon berhalogen yang mudah menguap yang secara tradisional digunakan sebagai agen pendingin/anestetik lokal topikal (dan secara historis sebagai anestetik umum inhalasi); teks indikasi asli yang tersusun tidak tersedia dalam rekod pendaftaran Malaysia NPRA semasa. Ramalan model TxGNN berperingkat teratas adalah **Katarak Craniostenosis**, dengan skor **99.77%**, tetapi ini disokong oleh **0 ujian klinikal** dan **0 penerbitan**, dan rasional model sendiri secara eksplisit menandai isyarat ini sebagai kemungkinan besar mencerminkan kehadiran bersama graf dengan anestetik pembedahan katarak daripada hubungan rawatan yang tulin.
+Etil klorida ialah agen penyejuk topikal yang meruap (vapocoolant) dan anestetik tempatan, dan data indikasi asalnya tidak tersedia dalam data yang dikompilasi untuk laporan ini. Model TxGNN meramalkan ia mungkin berkesan untuk **katarak kraniostenosis** (serta beberapa jenis katarak lain dan jerawat), tetapi **tiada sebarang ujian klinikal dan tiada penerbitan** yang menyokong ramalan ini. Ramalan ini hanya berasaskan model pengiraan.
+
+---
 
 ## Gambaran Keseluruhan Pantas
 
 | Item | Kandungan |
-|------|----------|
-| Indikasi Asli | Tidak tersedia dalam ekstrak data semasa (anestesia topikal/lokal adalah penggunaan umum yang diketahui ubat) |
-| Indikasi Baru Diramal | Katarak Craniostenosis |
+|------|------|
+| Indikasi Asal | Tidak tersedia (tiada lesen berdaftar di Malaysia) |
+| Indikasi Baharu yang Diramalkan | Katarak kraniostenosis (craniostenosis cataract) |
 | Skor Ramalan TxGNN | 99.77% |
-| Tahap Bukti | L5 (ramalan model sahaja; tiada ujian klinikal atau kesusasteraan) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 1 |
-| Keputusan Disyorkan | Tangguh |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan terperinci tidak tersedia. Berdasarkan farmakologi umum yang diketahui, etil klorida adalah agen mudah menguap bertindak pendek yang digunakan topikal sebagai agen pendingin/anestetik lokal dan digunakan secara historis melalui inhalasi sebagai anestetik umum. Keberhasilannya dalam menghasilkan anestetik lokal atau umum yang cepat dan sementara telah ditentukan dengan baik, tetapi tidak ada mekanisme yang diketahui di mana ia akan bertindak pada pengumpulan protein lensa, tekanan oksidatif, laluan osmotik/sorbitol, atau proses lain yang terlibat dalam pembentukan katarak.
+Data mekanisme tindakan (MOA) terperinci tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, etil klorida ialah agen penyejuk topikal yang meruap. Ia digunakan untuk menyejukkan kulit buat sementara bagi melegakan kesakitan, contohnya sebelum suntikan atau prosedur kecil.
 
-Pakej bukti rasional repurposing sendiri untuk calon ini dan yang sekitarnya (9 daripada 10 ramalan teratas adalah subtipe katarak) adalah jelas bahawa skor TxGNN yang tinggi kemungkinan besar timbul daripada kehadiran bersama etil klorida dengan nod pembedahan katarak dalam graf pengetahuan — iaitu, ia sering digunakan sebagai anestetik topikal semasa prosedur ophtalmik/pembedahan kecil — daripada sebarang kesan pengubahan penyakit pada katarak itu sendiri. Ini adalah corak kekeliruan ubat–prosedur daripada isyarat rawatan ubat–penyakit yang tulin, dan kaveat yang sama diulangi secara bebas merentasi entri katarak craniostenosis, tetanik, diabetik, matang, belum matang, korteks, nuklear senilis, dan senilis.
+Analisis mekanisme tidak menemui kaitan yang munasabah antara etil klorida dengan indikasi yang diramalkan. Etil klorida tidak diketahui mempunyai kesan terhadap biologi kanta mata atau laluan berkaitan kraniosinostosis. Skor TxGNN yang tinggi (0.998) hanyalah ramalan graf pengetahuan dan tidak disokong oleh mana-mana ujian atau penerbitan.
 
-Calon ke-10, jerawat, dirationalkan hanya melalui kesan pendinginan/analgesik lokal ubat semasa pengekstrakan komedo — sekali lagi penggunaan bantuan prosedur, bukan mekanisme pengubahan penyakit, tanpa aktiviti antimikrob atau anti-radang yang disebut.
+Ramalan lain juga tidak mempunyai asas mekanisme:
+- **Katarak tetanik**: berkaitan hipokalsemia/hipoparatiroidisme, yang tidak ditangani oleh agen penyejuk topikal.
+- **Katarak berkaitan diabetes jenis 2 dan katarak diabetik**: tiada kaitan dengan laluan poliol, tekanan oksidatif, glikasi atau perencatan aldose reduktase.
+- **Katarak matang, tidak matang, kortikal, nuklear senil dan senil**: tiada aktiviti antioksidan, anti-agregasi atau pelindung kanta yang diketahui. Penghantaran agen yang meruap, merengsa dan mudah terbakar ke mata juga menimbulkan kebimbangan keselamatan.
+- **Jerawat**: penyejukan topikal pernah digunakan sampingan dalam prosedur dermatologi, tetapi tiada bukti kesan antijerawat. Risiko ketumbuhan beku (frostbite) dan kerengsaan kulit akibat penggunaan berulang menjadi kebimbangan.
+
+---
+
+## Ramalan Indikasi Lain (Ringkasan)
+
+| Kedudukan | Penyakit | Skor TxGNN | Tahap Bukti | Keputusan |
+|------|------|------|------|------|
+| 1 | Katarak kraniostenosis | 99.77% | L5 | Hold |
+| 2 | Katarak tetanik | 99.77% | L5 | Hold |
+| 3 | Katarak berkaitan diabetes mellitus jenis 2 | 99.77% | L5 | Hold |
+| 4 | Katarak matang | 99.77% | L5 | Hold |
+| 5 | Katarak tidak matang | 99.77% | L5 | Hold |
+| 6 | Katarak kortikal | 99.73% | L5 | Hold |
+| 7 | Katarak senil nuklear | 99.73% | L5 | Hold |
+| 8 | Katarak senil | 99.71% | L5 | Hold |
+| 9 | Katarak diabetik | 99.64% | L5 | Hold |
+| 10 | Jerawat | 99.51% | L5 | Hold |
+
+---
 
 ## Bukti Ujian Klinikal
 
-Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
-## Bukti Kesusasteraan
+---
 
-Pada masa ini tiada kesusasteraan berkaitan yang tersedia.
+## Bukti Literatur
 
-## Maklumat Pasaran Malaysia
+Pada masa ini tiada literatur berkaitan.
 
-Rekod NPRA menunjukkan 1 lesen berdaftar untuk etil klorida dengan status pasaran "Dipasarkan," tetapi nombor kebenaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan tidak diisi dalam ekstrak data semasa, jadi tiada jadual peringkat lesen boleh dihasilkan.
+---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
+Sila rujuk sisipan pek untuk maklumat keselamatan. Tiada data interaksi ubat yang ditemui untuk bahan ini.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tangguh**
+**Keputusan: Hold**
 
 **Rasional:**
-Ramalan bergantung sepenuhnya pada skor TxGNN yang tinggi tanpa sokongan ujian klinikal atau kesusasteraan (L5), dan analisis mekanik pakej bukti sendiri mengaitkan skor itu kepada artifak kehadiran bersama (etil klorida sebagai anestetik peri-prosedur untuk pembedahan katarak) daripada laluan pengubahan penyakit yang nyata. Digabungkan dengan jurang data Menyekat pada amaran label TFDA/NPRA, calon ini tidak memenuhi bar minimum untuk maju.
+- Semua ramalan hanya berasaskan model (tahap bukti L5), tanpa sebarang ujian klinikal, penerbitan atau kaitan mekanisme yang dikenal pasti. Etil klorida juga tidak berdaftar di Malaysia, dan penghantaran ke mata atau penggunaan berulang pada kulit menimbulkan kebimbangan keselamatan.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Sisipan pakej TFDA/NPRA (amaran, kontraindikasi) — pada masa ini jurang Menyekat (DG001)
-- Mekanisme tindakan yang disahkan DrugBank (DG002)
-- Hipotesis mekanik bebas yang membezakan isyarat ubat–penyakit tulin daripada artefak kehadiran bersama prosedur anestetik yang disyaki
-- Sebarang data praklinical/in vitro yang menghubungkan etil klorida kepada laluan lensa atau katarak yang relevan sebelum penilaian lanjut adalah wajar
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Amaran dan kontraindikasi daripada sisipan pek NPRA (jurang data yang menghalang saringan keselamatan)
+- Data mekanisme tindakan (MOA) daripada DrugBank
+- Bukti praklinikal atau penerbitan yang menyokong kaitan mekanisme dengan penyakit yang diramalkan
+- Penilaian keserasian laluan pentadbiran (laluan topikal berbanding okular) dan keselamatan pendedahan okular
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

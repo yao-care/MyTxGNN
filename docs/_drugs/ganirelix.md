@@ -2,7 +2,7 @@
 layout: default
 title: Ganirelix
 parent: Low Evidence (L4-L5)
-nav_order: 363
+nav_order: 380
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,64 +29,98 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Ganirelix: Daripada Rangsangan Ovarium Terkawal kepada Hipertrikosis
+# Ganirelix: Daripada Pencegahan Ovulasi Pramatang kepada Hipertrikosis
 
 ## Ringkasan Satu Ayat
 
-> Ganirelix ialah antagonis GnRH (LHRH) yang secara konvensional digunakan dalam pembiakan berbantu untuk mencegah lonjakan LH pramatang semasa rangsangan ovarium terkawal.
-> Model TxGNN meramalkan ia mungkin berkesan untuk **Hipertrikosis**,
-> tetapi ramalan ini pada masa ini disokong oleh **0 percubaan klinikal** dan **0 penerbitan** — ia adalah ramalan berbasis model sahaja tanpa pengesahan luaran.
+Ganirelix ialah antagonis reseptor GnRH yang digunakan dalam rawatan kesuburan untuk mencegah ovulasi pramatang semasa rangsangan ovari.
+Model TxGNN meramalkan ia mungkin berkesan untuk **hipertrikosis**, tetapi **tiada satu pun ujian klinikal atau penerbitan** yang menyokong arah ini pada masa ini.
+Ramalan ini hanya berasaskan model (tahap bukti L5).
 
-## Tinjauan Cepat
+---
 
-| Item | Kandungan |
-|------|----------|
-| Indikasi Asal | Tidak tersedia dalam data daftar Malaysia semasa (rekod lesen ada tetapi medan teks indikasi kosong) |
-| Indikasi Baharu Diramalkan | Hipertrikosis |
+## Gambaran Keseluruhan Pantas
+
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Mencegah ovulasi pramatang pada wanita yang menjalani rangsangan ovari semasa rawatan kesuburan (berdasarkan maklumat farmakologi; tiada indikasi diluluskan direkodkan di Malaysia) |
+| Indikasi Baharu yang Diramalkan | Hipertrikosis |
 | Skor Ramalan TxGNN | 99.98% |
-| Aras Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 1 |
-| Keputusan Disyorkan | Tahan |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (Tahan) |
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan terperinci tidak tersedia dalam Pakej Bukti ini (ditandai sebagai jurang data keteruk tinggi). Berdasarkan pengetahuan farmakoloji umum, Ganirelix ialah antagonis GnRH yang menekan pelepasan gonadotropin hipofisis (LH/FSH), dan keberkesanannya yang telah ditetapkan adalah dalam endokrinologi pembiakan (mencegah ovulasi pramatang semasa kitaran IVF) — penggunaan ini tidak disahkan dalam data daftar yang disediakan di sini.
+Butiran mekanisme tindakan daripada pangkalan data tidak tersedia pada masa ini. Berdasarkan maklumat farmakologi yang diketahui, ganirelix ialah antagonis reseptor GnRH₁ (gen GNRHR) yang menyekat rembesan LH dan FSH, lalu menurunkan pengeluaran hormon seks gonad, termasuk androgen.
 
-Rasional ramalan hipertrikosis oleh pakej bukti sendiri adalah secara eksplisit berasaskan inferens dan bukan berasaskan bukti: pertumbuhan rambut berlebihan sering didorong oleh androgen, dan memandangkan Ganirelix menekan steroidogenesis yang didorong gonadotropin, pengurangan hiliran yang hipotesis dalam pertumbuhan rambut yang didorong androgen adalah dapat difikirkan. Walau bagaimanapun, rasional itu sendiri menyatakan bahawa sambungan ini tidak mempunyai **bukti klinikal atau praklinikal yang menyokong** — ia hanyalah hipotesis mekanik sahaja, yang dijana oleh model tanpa pengesahan.
+Secara teori, pengurangan isyarat androgen boleh menjejaskan pertumbuhan rambut yang sensitif terhadap androgen. Namun, kebanyakan bentuk hipertrikosis tidak bergantung kepada androgen (genetik, aruhan ubat atau metabolik). Hubungan mekanistik ini **lemah dan spekulatif**. Skor TxGNN yang tinggi merupakan ramalan model semata-mata dan kemungkinan besar mencerminkan kedekatan dalam graf pengetahuan dengan fenotip rambut, bukan rasional biologi yang kukuh.
 
-Ia juga wajar diambil perhatian bahawa calon lain dalam kumpulan ini mendapat skor serupa tinggi (kedudukan 2–10, semua >99.7%) tetapi memetakan kepada keadaan yang tidak berkaitan secara genetik atau struktur (cth., sindrom hipertrikosis kongenital, malformasi Dandy-Walker, sindrom peredaran fetal berterusan) tanpa hubungan mekanik yang munasabah dengan antagonis GnRH. Corak ini mencadangkan bahawa ramalan kedudukan teratas dalam kumpulan ini berkelompok di sekitar zon semantik sempit "rambut/hipertrikosis" dalam ruang pembenaman model daripada mencerminkan isyarat farmakoloji yang kuat.
+### Ramalan Lain yang Dinilai
 
-## Bukti Percubaan Klinikal
+| Kedudukan | Penyakit | Skor | Ulasan Ringkas | Syor |
+|---|---|---|---|---|
+| 2 | Hipertrikosis universalis kongenital jenis Ambras | 99.98% | Gangguan genetik kongenital; tiada kaitan dengan paksi gonad | Hold |
+| 3 | Sindrom malformasi dengan komponen odontal/periodontal | 99.97% | Tiada mekanisme munasabah | Hold |
+| 4 | Sindrom dengan malformasi Dandy-Walker sebagai ciri utama | 99.97% | Kecacatan struktur otak; antagonis GnRH tidak dapat membetulkannya | Hold |
+| 5 | Keabnormalan batang rambut genetik terpencil | 99.97% | Kecacatan struktur genetik; hubungan spekulatif | Hold |
+| 6 | Akil baligh pramatang lelaki-terhad familial | 99.85% | Disebabkan mutasi LHCGR (di hilir pituitari), jadi mekanisme langsung tidak sepadan | Persoalan Penyelidikan |
+| 7 | Sindrom peredaran fetal berterusan | 99.80% | Tiada peranan diketahui; kebimbangan keselamatan neonatal | Hold |
+| 8 | Sindrom lebihan aromatase | 99.80% | Perencat aromatase lebih sesuai secara mekanistik | Persoalan Penyelidikan |
+| 9 | Akil baligh pramatang pusat 1 | 99.75% | Paling munasabah secara mekanistik, tetapi agonis GnRH ialah piawaian dan ganirelix bertindak singkat | Persoalan Penyelidikan |
+| 10 | Trikomegali terpencil familial | 99.75% | Tiada mekanisme yang boleh dipercayai | Hold |
 
-Pada masa ini tiada percubaan klinikal berkaitan yang didaftar.
+Antara semua ramalan, **akil baligh pramatang pusat** mempunyai hubungan mekanistik paling kukuh, tetapi masih tiada bukti klinikal dalam data yang dikumpulkan.
 
-## Bukti Kesusasteraan
+---
 
-Pada masa ini tiada kesusasteraan berkaitan yang tersedia.
+## Bukti Ujian Klinikal
 
-## Maklumat Pasaran Malaysia
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
-Ganirelix dicatat sebagai dipasarkan di Malaysia (1 pendaftaran), tetapi rekod lesen asas (nombor kebenaran, nama produk, bentuk dos, teks indikasi yang diluluskan) pada masa ini kosong dalam data sumber — maklumat pendaftaran terperinci belum tersedia untuk petikan.
+---
+
+## Bukti Literatur
+
+Pada masa ini tiada literatur berkaitan yang tersedia.
+
+---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan. Nota: amaran label TFDA/NPRA dan kontraindikasi untuk Ganirelix ditandai sebagai jurang data Sekatan dalam Pakej Bukti ini — ini mesti diselesaikan sebelum mana-mana penilaian keselamatan dapat diteruskan.
+**Interaksi Ubat** (7 rekod; 6 tahap sederhana):
+
+| Ubat yang Berinteraksi | Tahap | Sumber |
+|---|---|---|
+| Gonadorelin | Sederhana | DDInter |
+| Gonadotropin Korionik (Manusia) | Sederhana | DDInter |
+| Menotropin | Sederhana | DDInter |
+| Triptorelin | Sederhana | DDInter |
+| Folitropin | Sederhana | DDInter |
+| Urofolitropin | Sederhana | DDInter |
+
+Satu lagi rekod ialah sasaran farmakologi (reseptor GnRH₁), bukan interaksi ubat-ubat.
+
+Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pek produk.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold (Tahan)**
 
-**Alasan:**
-Ramalan kedudukan teratas (Hipertrikosis) ialah aras bukti L5 — ramalan berbasis model sahaja dengan sifar percubaan klinikal atau kesusasteraan yang menyokong, dan rasional mekanik secara eksplisit berasaskan inferens tanpa data yang menyokong. Digabungkan dengan jurang Sekatan pada maklumat label ubat/keselamatan, calon ini tidak memenuhi bar minimum untuk bergerak melampaui saringan permulaan (S0).
+**Rasional:**
+- Ramalan hipertrikosis hanya berasaskan model (L5) tanpa sebarang ujian klinikal atau literatur, dan hubungan mekanistiknya lemah. Ubat ini juga tidak dipasarkan di Malaysia.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Sisipan pakej TFDA/NPRA (amaran, kontraindikasi) — pada masa ini jurang Sekatan
-- Data mekanisme tindakan DrugBank untuk menilai dengan betul kelayakan mekanistik
-- Rekod lesen Malaysia yang lengkap (nombor kebenaran, nama produk, teks indikasi yang diluluskan)
-- Bukti praklinikal atau peringkat kes yang khusus menghubungkan antagoni GnRH kepada hipertrikosis yang didorong androgen, jika calon ini hendak diteruskan lebih jauh
-- Saringan calon alternatif: kedudukan 3 (sindrom malformasi berkaitan periodontal) mengembalikan 20 padanan kesusasteraan, tetapi pada semakan ini adalah makalah periodontitis umum tanpa sebutan Ganirelix atau antagoni GnRH — mungkin positif palsu kata kunci, bukan petunjuk yang lebih kuat
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisipan pek produk daripada NPRA (amaran dan kontraindikasi) untuk saringan keselamatan
+- Data mekanisme tindakan terperinci daripada DrugBank
+- Semakan literatur sistematik untuk hipertrikosis dan, secara berasingan, untuk akil baligh pramatang pusat sebagai calon yang lebih munasabah
+- Penilaian keserasian laluan pentadbiran dan formulasi
+- Penilaian status pendaftaran dan ketersediaan di Malaysia
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

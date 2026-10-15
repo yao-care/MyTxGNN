@@ -2,7 +2,7 @@
 layout: default
 title: Benzbromarone
 parent: Low Evidence (L4-L5)
-nav_order: 128
+nav_order: 133
 evidence_level: L5
 indication_count: 1
 ---
@@ -29,83 +29,86 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Benzbromarone: Dari Hiperurisemia/Gout kepada Hipourisemia Renal
+# Benzbromarone: Daripada Gout/Hiperurisemia kepada Hipourisemia Renal
 
 ## Ringkasan Satu Ayat
 
-Benzbromarone adalah agen urikosurik (penghambat URAT1) yang asal digunakan untuk merawat hiperurisemia dan gout.
-Model TxGNN meramalkan ia mungkin berkesan untuk **Hipourisemia Renal**, dengan **0 uji klinis** dan **20 penerbitan** dikenal pasti—namun, analisis mekanis menunjukkan ini adalah **positif palsu yang kontra-indikasi**: ubat ini akan memburukkan, bukan merawat, keadaan yang diramalkan.
+Benzbromarone ialah ubat urikosurik yang pada asalnya digunakan untuk merawat gout dan hiperurisemia.
+Model TxGNN meramalkan ia mungkin berkesan untuk **Hipourisemia Renal**, tetapi sehingga kini terdapat **0 percubaan klinikal** dan **18 penerbitan** yang berkaitan, dan kebanyakannya hanya menggunakan benzbromarone sebagai alat diagnostik, bukan sebagai rawatan.
+Analisis mekanisme menunjukkan ramalan ini kemungkinan besar **tidak munasabah dari segi terapeutik**, malah berpotensi memudaratkan.
 
-## Gambaran Pantas
+---
 
-| Item | Kandungan |
+## Gambaran Ringkas
+
+| Perkara | Kandungan |
 |------|------|
-| Indikasi Asli | Hiperurisemia / Gout (maklumat lesen tidak tersedia) |
-| Indikasi Baru yang Diramalkan | Hipourisemia, renal |
+| Indikasi Asal | Gout; hiperurisemia (lapuk) |
+| Indikasi Baharu yang Diramalkan | Hipourisemia renal |
 | Skor Ramalan TxGNN | 99.07% |
-| Tahap Bukti | L5 — Ramalan model sahaja; tiada bukti klinis terapeutik |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 1 |
-| Keputusan yang Disyorkan | **Tahan** ⛔ (Percanggahan mekanis) |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
-## Mengapa Ramalan Ini Munasabah?
+---
 
-**Jawapan ringkas: ia tidak.** Walaupun model TxGNN memberikan skor keyakinan yang tinggi (99.07%), analisis mekanis yang lebih mendalam mendedahkan ramalan ini adalah positif palsu klasik yang didorong oleh perkaitan laluan tanpa mengambil kira arah terapeutik.
+## Mengapa Ramalan Ini Wajar Dipertimbangkan (dan Mengapa Ia Dipersoalkan)?
 
-Benzbromarone adalah penghambat potent URAT1 (pengangkut urate 1, dikodkan oleh gen *SLC22A12*). Tindakan farmakologinya menghalang penyerapan semula asid urik di tubulus proksimal renal, dengan itu mempromosikan pembuangan asid urik air kencing. Mekanisme ini menjadikannya berkesan untuk merawat **hiperurisemia** dan **gout**, di mana matlamat terapeutik adalah untuk *menurunkan* urate serum dengan *meningkatkan* pembersihan urate renal.
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan analisis mekanistik yang ada, benzbromarone ialah agen urikosurik kuat yang merencat URAT1 (SLC22A12), pengangkut penyerapan semula urat di buah pinggang, lalu menurunkan urat serum.
 
-Hipourisemia renal, sebaliknya, adalah gangguan warisan yang disebabkan oleh **mutasi kehilangan fungsi** dalam URAT1 (*SLC22A12*) atau GLUT9 (*SLC2A9*). Pesakit sudah mempunyai penyerapan semula urate yang rosak, menghasilkan lebihan pembuangan urate air kencing dan tahap urate serum yang berbahaya rendah. Memberikan benzbromarone—ubat yang seterusnya merencat pengangkut yang sudah disfungsi—akan **memburukkan** keadaan daripada merawatnya. Model TxGNN dengan betul mengenal pasti bahawa benzbromarone dan hipourisemia renal berkongsi laluan URAT1, tetapi ia **tidak dapat membezakan antara "merawat melalui laluan ini" dan "bertindak pada laluan yang sama dalam arah yang salah."** Ini adalah batasan yang dikenali dengan baik bagi model pemindahan ubat berasaskan graf pengetahuan.
+Hipourisemia renal pula dicirikan oleh kehilangan fungsi URAT1 (SLC22A12) atau GLUT9 (SLC2A9), yang menyebabkan perkumuhan urat melalui air kencing berlebihan dan urat serum rendah. Kesan farmakologi benzbromarone (meningkatkan lagi perkumuhan urat) **meniru patofisiologi penyakit ini dan bukannya membetulkannya**.
 
-## Bukti Uji Klinis
+Skor TxGNN yang tinggi (0.99) kemungkinan besar mencerminkan perkaitan rangkaian antara sasaran ubat (URAT1) dengan gen penyakit, bukan hubungan terapeutik. Benzbromarone dijangka **memburukkan** keadaan ini, termasuk risiko kegagalan buah pinggang akut akibat senaman dan batu urat (nefrolitiasis). Dalam literatur, benzbromarone digunakan sebagai ujian diagnostik (ujian penindasan benzbromarone/pirazinamida) untuk mengklasifikasikan kecacatan pengangkutan urat, bukan sebagai terapi.
 
-Pada masa ini tiada uji klinis yang berkaitan berdaftar untuk benzbromarone dalam merawat hipourisemia renal.
+---
 
-## Bukti Sastera
+## Bukti Percubaan Klinikal
 
-Dua puluh penerbitan telah dikenal pasti; bagaimanapun, tiada satu pun menerangkan penggunaan terapeutik benzbromarone untuk hipourisemia renal. Sebaliknya, benzbromarone muncul secara eksklusif sebagai **penyelaras farmakologi diagnostik** yang digunakan untuk mencirikan kecacatan pengangkutan urate. Penerbitan yang paling relevan diringkaskan di bawah:
+Setakat ini tiada percubaan klinikal berkaitan yang didaftarkan.
+
+---
+
+## Bukti Literatur
+
+Senarai di bawah memaparkan penerbitan yang paling relevan (ulasan dan kohort diutamakan, kemudian laporan kes). Perhatikan bahawa tiada satu pun ialah RCT terapeutik.
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [31650389](https://pubmed.ncbi.nlm.nih.gov/31650389/) | 2020 | Ulasan | Clin Rheumatol | Ulasan komprehensif hipourisemia untuk ahli reumatologi; mengklasifikasi asal usul dan membincangkan mutasi URAT1/GLUT9. Benzbromarone disebut sebagai alat diagnostik sahaja. |
-| [14694169](https://pubmed.ncbi.nlm.nih.gov/14694169/) | 2004 | Pemerhatian/Molekul | J Am Soc Nephrol | Menjujuk SLC22A12 dalam 32 pesakit hipourisemia renal; menetapkan bahawa mutasi URAT1 menyebabkan gangguan. Benzbromarone digunakan dalam analisis pengangkutan tubulus. |
-| [14747372](https://pubmed.ncbi.nlm.nih.gov/14747372/) | 2004 | Pra-klinis/Mekanis | J Am Soc Nephrol | Mencirikan homolog URAT1 tikus (RST); benzbromarone menghalang pengangkutan urate yang dimediasi RST dalam oosit Xenopus, mengesahkan mekanisme perencatan URAT1. |
-| [18670416](https://pubmed.ncbi.nlm.nih.gov/18670416/) | 2008 | Kajian Farmakologi | Am J Hypertens | Menunjukkan tindakan urikosurik losartan melalui perencatan URAT1 dalam pesakit hipertensi; memberi konteks mekanisme benzbromarone bersama-sama dengan penghambat URAT1 yang lain. |
-| [14655203](https://pubmed.ncbi.nlm.nih.gov/14655203/) | 2003 | Laporan Kes | Am J Kidney Dis | Dua adik beradik dengan hipourisemia renal warisan dan kegagalan akut teraruh senaman; mutasi URAT1 (W258X) dikenal pasti. Benzbromarone digunakan sahaja dalam kerja diagnostik. |
-| [8893184](https://pubmed.ncbi.nlm.nih.gov/8893184/) | 1996 | Kajian Farmakologi | Nephron | Menganalisis pengangkutan asid urik dalam sindrom Fanconi dengan hipourisemia renal yang ketara menggunakan pyrazinamide dan benzbromarone sebagai penyelaras farmakologi. |
-| [10879667](https://pubmed.ncbi.nlm.nih.gov/10879667/) | 2000 | Siri Kes | Clin Nephrol | Pesakit dengan ARF teraruh senaman berulang dan hipourisemia renal; ujian benzbromarone/pyrazinamide digunakan untuk menetapkan lokasi kecacatan pengangkutan tubulus. |
-| [8863890](https://pubmed.ncbi.nlm.nih.gov/8863890/) | 1996 | Laporan Kes | Acta Paediatr | ARF teraruh senaman berulang dalam hipourisemia renal; ujian benzbromarone/pyrazinamide mencadangkan penyerapan semula pra-sekretori yang rosak. |
-| [4009341](https://pubmed.ncbi.nlm.nih.gov/4009341/) | 1985 | Siri Kes | J Pediatr | Empat anak-anak dengan hipourisemia renal warisan; pyrazinamide dan benzbromarone tidak mempengaruhi nisbah pembersihan, konsisten dengan kecacatan pengangkutan yang teruk. |
-| [3380222](https://pubmed.ncbi.nlm.nih.gov/3380222/) | 1988 | Laporan Kes/Mekanis | Nephron | Lelaki muda dengan kecacatan pengangkutan urate renal terpencil; pembersihan urate seterusnya meningkat selepas benzbromarone, mengesahkan ubat memburukkan fenotip. |
+| [31650389](https://pubmed.ncbi.nlm.nih.gov/31650389/) | 2020 | Ulasan | Clinical Rheumatology | Kemas kini mengenai hipourisemia (urat serum < 2 mg/dL), punca dan pendekatan kepada pakar reumatologi |
+| [8976099](https://pubmed.ncbi.nlm.nih.gov/8976099/) | 1996 | Ulasan | Nihon Rinsho | Konsep dan klasifikasi kelainan metabolisme urat, termasuk hiperurisemia dan hipourisemia |
+| [14694169](https://pubmed.ncbi.nlm.nih.gov/14694169/) | 2004 | Kohort | J Am Soc Nephrol | Analisis klinikal dan genetik 32 pesakit hipourisemia renal di Jepun; kesan gen URAT1 ke atas perkumuhan urat |
+| [4009341](https://pubmed.ncbi.nlm.nih.gov/4009341/) | 1985 | Siri kes | J Pediatr | Pada kanak-kanak dengan hipourisemia renal turun-temurun, benzbromarone dan pirazinamida tidak mengubah nisbah pelepasan urat |
+| [10879667](https://pubmed.ncbi.nlm.nih.gov/10879667/) | 2000 | Siri kes | Clin Nephrol | Pesakit hipourisemia renal dengan kegagalan buah pinggang akut akibat senaman dan disfungsi renal kronik |
+| [14655203](https://pubmed.ncbi.nlm.nih.gov/14655203/) | 2003 | Laporan kes | Am J Kidney Dis | Dua adik-beradik lelaki dengan hipourisemia renal dan kegagalan buah pinggang akut akibat senaman |
+| [8863890](https://pubmed.ncbi.nlm.nih.gov/8863890/) | 1996 | Laporan kes | Acta Paediatr | Kegagalan buah pinggang akut berulang selepas senaman; ujian benzbromarone/pirazinamida mencadangkan kecacatan penyerapan semula prasekresi |
+| [3380222](https://pubmed.ncbi.nlm.nih.gov/3380222/) | 1988 | Laporan kes | Nephron | Pelepasan urat meningkat lagi selepas benzbromarone pada pesakit dengan kecacatan pengangkutan urat renal terasing |
+| [8893184](https://pubmed.ncbi.nlm.nih.gov/8893184/) | 1996 | Laporan kes | Nephron | Analisis pengangkutan asid urik dalam sindrom Fanconi dengan hipourisemia renal menggunakan pirazinamida dan benzbromarone |
+| [12862209](https://pubmed.ncbi.nlm.nih.gov/12862209/) | 2003 | Laporan kes | Hypertens Res | Kegagalan buah pinggang akut akibat senaman pada pesakit hipourisemia idiopatik semasa terapi losartan dan triklormetiazida |
 
-> **Pemerhatian utama:** Dalam beberapa laporan kes (PMID 3380222, 8863890, 4009341), pemberian benzbromarone **meningkatkan** pembersihan urate dalam pesakit hipourisemia—iaitu, ia memburukkan keadaan. Ini secara langsung mengesahkan kontra-indikasi mekanis.
+---
 
-## Maklumat Pasaran Malaysia
+## Keselamatan
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| (Maklumat tidak tersedia) | — | — | — |
+- **Amaran Utama dan Kontraindikasi**: Maklumat label pendaftaran tempatan tidak tersedia. Sila rujuk sisipan pek.
+- **Risiko Khusus untuk Indikasi Ini**: Literatur menunjukkan pesakit hipourisemia renal sudah berisiko mengalami kegagalan buah pinggang akut akibat senaman dan batu urat. Benzbromarone yang meningkatkan perkumuhan urat dijangka menambah risiko ini.
+- **Hepatotoksisiti**: Benzbromarone telah ditarik balik di banyak pasaran kerana hepatotoksisiti.
 
-*Catatan: Satu pendaftaran dicatat di Malaysia (status pasaran: dipasarkan), tetapi maklumat lesen terperinci tidak diambil. Benzbromarone dikenali secara antarabangsa sebagai agen urikosurik yang ditunjukkan untuk hiperurisemia dan gout.*
-
-## Pertimbangan Keselamatan
-
-Sila rujuk pada surat kenyataan bercetak untuk maklumat keselamatan. Data amaran utama, kontra-indikasi, dan interaksi ubat tidak tersedia dalam pakej bukti ini.
-
-> **Nota penting khusus untuk ramalan ini:** Benzbromarone mempunyai risiko **hepatotoksisiti** yang diketahui (sebab ia ditarik balik di beberapa pasaran Eropah). Selain itu, dalam pesakit dengan hipourisemia renal, penggunaan benzbromarone secara teorinya boleh mencetuskan **kegagalan akut renal teraruh senaman** dengan seterusnya meningkatkan pembuangan asid urik air kencing dan mempromosikan pemendapan kristal urate intratubuler.
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan ⛔**
+**Keputusan: Hold**
 
-**Rasional:**
-Ramalan ini mewakili **positif palsu mekanis**. Model TxGNN mengesan perkaitan yang kuat antara benzbromarone dan hipourisemia renal melalui laluan URAT1 yang dikongsi, menghasilkan skor ramalan yang tinggi (99.07%). Bagaimanapun, tindakan farmakologi ubat (perencatan URAT1 → peningkatan pembuangan urate) adalah **bertentangan sepenuhnya** dengan apa yang diperlukan oleh pesakit hipourisemia renal (penyerapan semula urate yang dipulihkan → penurunan pembuangan urate). Laporan kes yang diterbitkan mengesahkan bahawa benzbromarone memburukkan pembersihan urate dalam pesakit ini. Calon ini tidak harus meneruskan ke mana-mana peringkat penilaian lanjut.
+**Justifikasi:**
+- Ramalan ini hanya berasaskan model (L5) tanpa percubaan klinikal. Literatur yang ada menggunakan benzbromarone sebagai alat diagnostik, dan mekanismenya bercanggah dengan keperluan terapeutik (ia meningkatkan perkumuhan urat, sedangkan penyakit ini sudah mempunyai perkumuhan urat berlebihan). Skor tinggi kemungkinan besar artifak rangkaian pengetahuan.
+- Ubat ini tidak dipasarkan di Malaysia dan mempunyai isu hepatotoksisiti.
 
-**Kes ini menyoroti batasan penting bagi model pemindahan berasaskan graf pengetahuan:** perkaitan peringkat laluan tidak sama dengan kebolehan terapeutik. Penalaran farmakologi berarah mesti diterapkan sebagai penapis pasca-ramalan.
-
-**Tiada tindakan lanjut disyorkan untuk calon ini.** Sebaliknya, penambahbaikan model berikut dicadangkan:
-- Gabungkan **anotasi arah** (agonis/antagonis, keuntungan fungsi/kehilangan fungsi) ke dalam graf pengetahuan TxGNN untuk mengurangkan positif palsu yang kontra-indikasi
-- Bendera calon di mana MOA ubat menyasarkan pengangkut/reseptor yang sama yang terlibat dalam asal usul kehilangan fungsi penyakit
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) yang lengkap daripada DrugBank
+- Maklumat amaran dan kontraindikasi daripada sisipan pek NPRA (jika ada produk didaftarkan)
+- Bukti klinikal atau praklinikal yang menunjukkan manfaat terapeutik, yang pada masa ini tiada dan bercanggah dengan mekanisme yang diketahui
+- Disyorkan agar ramalan ini tidak diteruskan kecuali ada justifikasi mekanistik yang baharu
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

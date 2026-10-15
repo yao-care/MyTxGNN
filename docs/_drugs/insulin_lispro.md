@@ -2,7 +2,7 @@
 layout: default
 title: Insulin Lispro
 parent: Low Evidence (L4-L5)
-nav_order: 404
+nav_order: 423
 evidence_level: L5
 indication_count: 9
 ---
@@ -29,64 +29,99 @@ Tahap bukti: **L5** | Indikasi diramal: **9**
 
 </div>
 
-# Insulin Lispro: Daripada Diabetes Mellitus kepada Oophoritis Autoimun
+# Insulin Lispro: Daripada Diabetes Mellitus kepada Autoimmune Oophoritis
 
 ## Ringkasan Satu Ayat
 
-> Insulin lispro ialah analog insulin bertindak cepat yang digunakan untuk kawalan glisemik dalam diabetes mellitus.
-> Model TxGNN meramalkan kemungkinan kaitan dengan **Oophoritis Autoimun**, tetapi pada masa ini **tiada uji klinikal** dan **tiada literatur** yang menyokong pasangan khusus ini, dan rasional model itu sendiri menandai kaitan itu sebagai berkemungkinan didorong oleh kesamaan semantik dan bukannya mekanisme biologi yang sebenar.
+Insulin lispro ialah analog insulin yang digunakan untuk merawat diabetes mellitus (jenis 1 dan jenis 2) serta ketoasidosis diabetes.
+Model TxGNN meramalkan ia mungkin berkesan untuk **autoimmune oophoritis**,
+tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong ramalan ini. Ramalan ini hanyalah hasil pengiraan model.
+
+---
 
 ## Gambaran Keseluruhan Pantas
 
-| Item | Kandungan |
-|------|----------|
-| Indikasi Asal | Tidak ditangkap dalam ekstrak data semasa (ubat ialah terapi insulin yang diketahui untuk diabetes mellitus; teks label khusus TFDA ialah jurang data — lihat di bawah) |
-| Indikasi Baru yang Diramal | Oophoritis autoimun |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Diabetes mellitus jenis 2, diabetes mellitus jenis 1, ketoasidosis diabetes |
+| Indikasi Baharu yang Diramalkan | Autoimmune oophoritis |
 | Skor Ramalan TxGNN | 99.78% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 3 |
-| Keputusan yang Disyorkan | Tunggu |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan terperinci tidak tersedia untuk insulin lispro dalam pakej bukti ini. Berdasarkan maklumat yang diketahui, insulin lispro ialah analog insulin bertindak cepat yang digunakan untuk mengawal glukosa darah dalam diabetes mellitus, bertindak melalui reseptor insulin untuk meregulasi pengambilan glukosa dan metabolisme.
+Data terperinci mengenai mekanisme tindakan insulin lispro tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, insulin lispro ialah analog insulin yang khasiatnya dalam mengawal glukosa darah pada diabetes telah terbukti, tetapi tiada mekanisme yang dapat disahkan untuk autoimmune oophoritis.
 
-Oophoritis autoimun ialah keadaan autoimun yang menyebabkan kegagalan ovari prematur. Ia tidak mempunyai sambungan mekanistik langsung yang ditetapkan dengan isyarat insulin. Menurut rasional pakej bukti itu sendiri, skor TxGNN yang tinggi kemungkinan besar mencerminkan pengelompokan semantik di sekitar nod penyakit "autoimun" dalam graf pengetahuan — contohnya, oophoritis autoimun boleh berlaku serentak dengan diabetes Jenis 1 sebagai sebahagian daripada Sindrom Poliglandular Autoimun (APS) — dan bukannya hubungan farmakologi sebab-akibat. Tiada laluan biologi khusus yang menghubungkan isyarat insulin dengan kemusnahan autoimun tisu ovari.
+Satu kemungkinan hubungan ialah autoimmune oophoritis sering berlaku bersama sindrom poliendokrin autoimun yang merangkumi diabetes jenis 1. Oleh itu, perkaitan dalam graf pengetahuan mungkin mencerminkan kejadian bersama penyakit, dan **bukan** kesan terapeutik insulin terhadap autoimuniti ovari.
 
-Memandangkan hal ini, ramalan sepatutnya diperlakukan sebagai isyarat kaitan graf-pengetahuan dan bukannya hipotesis penyusunan semula ubat yang berdasarkan pada mekanisme.
+Skor TxGNN yang tinggi (0.998) tidak boleh ditafsirkan sebagai bukti keberkesanan. Ia ialah ramalan komputasi semata-mata.
 
-## Bukti Uji Klinikal
+### Ramalan Lain yang Dinilai
 
-Pada masa ini tiada uji klinikal berkaitan yang didaftarkan
+Ramalan lain bagi ubat ini juga berada pada tahap bukti rendah dan semuanya disyorkan **Hold**:
+
+| Penyakit Diramalkan | Skor TxGNN | Tahap Bukti | Catatan |
+|------|------|------|------|
+| Thiamine-responsive dysfunction syndrome | 99.37% | L5 | Insulin hanya merawat hiperglisemia secara simptomatik; rawatan utama ialah tiamina |
+| Classic stiff person syndrome | 99.36% | L5 | Mungkin mencerminkan autoimuniti anti-GAD65 dan komorbiditi diabetes jenis 1 |
+| Focal stiff limb syndrome | 99.36% | L5 | Skor serupa dengan sindrom di atas; kemungkinan diwarisi daripada nod penyakit berkaitan |
+| Opsismodysplasia | 99.34% | L5 | Hubungan spekulatif melalui INPPL1 (SHIP2) dalam isyarat insulin/PI3K |
+| Drug-induced localized lipodystrophy | 99.09% | L5 | Kesan advers insulin yang diketahui; isyarat keselamatan, bukan peluang repurposing |
+| Pancreatic agenesis | 99.09% | L4 | Penggantian insulin ialah rawatan standard sedia ada, bukan repurposing baharu |
+| Centrifugal lipodystrophy | 99.04% | L5 | Kemungkinan daripada kluster nod lipodistrofi dalam graf |
+| Pressure-induced localized lipoatrophy | 99.03% | L5 | Mungkin mencerminkan kesan tempatan suntikan insulin, iaitu potensi bahaya |
+
+---
+
+## Bukti Percubaan Klinikal
+
+Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
+
+---
 
 ## Bukti Literatur
 
-Pada masa ini tiada literatur berkaitan yang tersedia
+Untuk ramalan utama (autoimmune oophoritis), pada masa ini tiada literatur berkaitan.
 
-## Maklumat Pasaran Malaysia
+Satu penerbitan ditemui bagi ramalan peringkat ketujuh (pancreatic agenesis), tetapi ia hanya bukti tidak langsung:
 
-3 pendaftaran ada dalam fail dan status pasaran produk ialah Dipasarkan, tetapi ekstrak data semasa tidak termasuk nombor lesen, nama produk, bentuk dos, pengilang, atau teks indikasi yang diluluskan untuk pendaftaran ini — maklumat ini perlu diambil terus daripada rekod sumber sebelum butiran pasaran boleh dilaporkan.
+| PMID | Tahun | Jenis | Jurnal | Dapatan Utama |
+|------|-----|------|------|---------|
+| [12150359](https://pubmed.ncbi.nlm.nih.gov/12150359/) | 2002 | Ulasan | Journal of the American Pharmaceutical Association | Ulasan penggunaan terapi insulin yang semakin meningkat pada pesakit diabetes jenis 2 dan aspek praktikal memulakannya. Tidak membincangkan pancreatic agenesis secara langsung. |
 
-## Pertimbangan Keselamatan
+---
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
+## Keselamatan
 
-*(Nota: Amaran label TFDA/NPRA dan kontraindikasi ditandai sebagai jurang data pemblokiran — DG001 — bermakna calon ini belum boleh memasuki peringkat pra-penilaian keselamatan S1 sehingga data itu diambil.)*
+- **Interaksi Ubat**: Pertanyaan interaksi ubat telah selesai dengan 100 interaksi direkodkan. Kebanyakannya bertahap **Sederhana**, dan sebahagian kecil bertahap **Minor**. Contoh utama:
+  - Agen antidiabetik lain (metformin, alogliptin, albiglutide): kesan hipoglisemik boleh bertambah.
+  - Agonis beta dan simpatomimetik (salbutamol, formoterol, epinefrin, fenilefrin, pseudoefedrin): boleh mengubah kawalan glukosa.
+  - Beta-blocker (asebutolol): boleh menyembunyikan tanda hipoglisemia.
+  - Kortikosteroid (hidrokortison): boleh meningkatkan glukosa darah.
+  - Hormon (estradiol, etinilestradiol, levonorgestrel), diuretik (hidroklorotiazid, asetazolamida), doksisiklin, alpelisib dan etanol.
+- **Isyarat keselamatan daripada ramalan**: lipodistrofi setempat ialah kesan advers yang diketahui pada tapak suntikan insulin berulang. Ramalan lipodistrofi dalam model harus dianggap sebagai isyarat keselamatan.
 
-## Kesimpulan dan Langkah Berikutnya
+Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
 
-**Keputusan: Tunggu**
+---
 
-**Rasional:**
-Indikasi yang diramal tidak mempunyai uji klinikal atau literatur yang menyokong, berada pada tahap bukti L5 (ramalan model sahaja), dan rasional mekanistik itu sendiri menunjukkan bahawa kaitan itu kemungkinan besar merupakan artifak graf-pengetahuan dan bukannya sambungan farmakologi yang tulen.
+## Kesimpulan dan Langkah Seterusnya
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Data mekanisme tindakan (MOA) insulin lispro (DG002)
-- Amaran sisipan pakej TFDA/NPRA dan kontraindikasi, diperlukan untuk melewati gerbang pra-penilaian keselamatan S1 (DG001, Pemblokiran)
-- Butiran lesen/produk lengkap (nama produk, bentuk dos, pengilang, teks indikasi yang diluluskan) untuk 3 pendaftaran sedia ada
-- Sebarang kajian pra-klinikal atau mekanistik yang secara khusus menghubungkan isyarat insulin dengan oophoritis autoimun, untuk mengesahkan atau menolak kaitan TxGNN semasa
+**Keputusan: Hold**
 
+**Justifikasi:**
+- Ramalan autoimmune oophoritis berada pada tahap bukti L5 tanpa percubaan klinikal atau literatur. Perkaitan itu berkemungkinan mencerminkan kejadian bersama penyakit autoimun dan diabetes, bukan kesan terapeutik. Ubat ini juga tidak berdaftar di Malaysia.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) yang terperinci
+- Amaran dan kontraindikasi daripada sisipan pakej (data ini diperlukan sebelum saringan keselamatan boleh diteruskan)
+- Kajian praklinikal atau klinikal yang menilai insulin secara langsung dalam autoimmune oophoritis
+- Penjelasan status pendaftaran dan laluan pentadbiran yang diperlukan di Malaysia
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

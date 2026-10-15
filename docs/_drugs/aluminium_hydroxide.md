@@ -2,7 +2,7 @@
 layout: default
 title: Aluminium Hydroxide
 parent: Low Evidence (L4-L5)
-nav_order: 48
+nav_order: 49
 evidence_level: L5
 indication_count: 0
 ---

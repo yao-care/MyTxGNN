@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Ticagrelor
-parent: High Evidence (L1-L2)
-nav_order: 649
-evidence_level: L1
+parent: Low Evidence (L4-L5)
+nav_order: 682
+evidence_level: L5
 indication_count: 10
 ---
 
 # Ticagrelor
 {: .fs-9 }
 
-Tahap bukti: **L1** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,52 +29,46 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Ticagrelor: Dari Sindrom Koroner Akut kepada Arteriosklerosis Intrakranial
+# Ticagrelor: Daripada Sindrom Koronari Akut kepada Arteriosklerosis Intrakranial
 
 ## Ringkasan Satu Ayat
 
-Ticagrelor adalah antagonis reseptor platelet P2Y12 oral yang dapat dicabuli balik yang pada asalnya digunakan untuk mengurangkan peristiwa kardiovaskular trombotik dalam sindrom koroner akut (ACS) dan pesakit pasca-PCI. Model TxGNN meramalkan ia mungkin juga berkesan untuk **arteriosklerosis intrakranial** (penyakit aterosklerotik intrakranial, ICAD), dengan **11 ujian klinikal** dan **3 penerbitan** kini menyokong arah ini, termasuk dua ujian Fasa 3 yang berkaitan langsung (populasi SOCRATES/EUCLID dan ujian CAPTIVA yang sedang berjalan).
+Ticagrelor ialah perencat reseptor platelet P2Y12 yang pada asalnya digunakan untuk sindrom koronari akut dan penyakit vaskular periferal.
+Model TxGNN meramalkan ia mungkin berkesan untuk **arteriosklerosis intrakranial**.
+Setakat ini terdapat **2 percubaan klinikal** dan **2 penerbitan** yang berkaitan, tetapi belum ada keputusan yang menunjukkan keberkesanan ticagrelor secara langsung dalam indikasi ini.
 
 ---
 
-## Gambaran Keseluruhan Pantas
+## Gambaran Ringkas
 
-| Item | Kandungan |
+| Perkara | Kandungan |
 |------|------|
-| Petunjuk Asal | Tidak dinyatakan dalam data pendaftaran yang dibekalkan (petunjuk yang ditubuhkan untuk ticagrelor ialah pencegahan peristiwa kardiovaskular trombotik dalam ACS / pasca-MI, mengikut penggunaan kelas antagonis P2Y12 yang didokumenkan di seluruh pakej bukti) |
-| Petunjuk Baharu yang Diramalkan | Arteriosklerosis Intrakranial (Penyakit Aterosklerotik Intrakranial) |
+| Indikasi Asal | Sindrom koronari akut, penyakit vaskular periferal, klaudikasi vaskular berselang-seli, penyakit arteri periferal |
+| Indikasi Baharu yang Diramalkan | Arteriosklerosis intrakranial |
 | Skor Ramalan TxGNN | 99.97% |
-| Tahap Bukti | L1 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 8 |
-| Keputusan yang Disyorkan | Teruskan dengan Penjaga |
+| Tahap Bukti | L2 (sokongan tidak langsung sahaja) |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (Soalan Penyelidikan) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Teks mekanisme tindakan DrugBank yang terperinci tidak dikembalikan untuk calon ini, tetapi mekanisme ini telah ditubuhkan dengan baik daripada bukti dalam pakej ini: ticagrelor adalah antagonis reseptor P2Y12 langsung yang dapat dicabuli balik yang menghalang aktivasi dan pengagregasian platelet yang diinduksi ADP, farmakologi teras di sebalik penggunaan yang diluluskannya dalam penyakit kardiovaskular aterosklerotik.
+Ticagrelor ialah perencat reseptor P2Y12 platelet yang bersifat boleh balik dan tidak bergantung pada pengaktifan CYP2C19. Data terperinci mengenai mekanisme tindakan asal tidak tersedia dalam data yang dihimpunkan, tetapi mekanisme farmakologi yang diketahui sudah memadai untuk menjelaskan kaitannya.
 
-Arteriosklerosis intrakranial (ICAD) menyebabkan strok iskemik dan TIA melalui pembentukan trombus yang dirantau platelet pada plak aterosklerotik dalam arteri intrakranial — mekanisme trombotik yang sama yang ticagrelor telah menargetkan dalam petunjuknya yang diluluskan. Ini bukan lompatan mekanisme yang baru: ticagrelor telah pun dikaji secara langsung melawan aspirin dalam populasi strok iskemik akut/TIA yang merangkumi subkumpulan aterosklerosis intrakranial (ujian SOCRATES), dan kini dibandingkan melawan clopidogrel secara khusus dalam stenosis aterosklerotik intrakranial yang simptomatik dalam ujian CAPTIVA yang sedang berjalan.
+Dalam stenosis aterosklerotik intrakranial, trombosis yang didorong platelet pada plak dan embolisme arteri-ke-arteri merupakan punca utama strok. Mekanisme ini serupa dengan penyakit koronari dan vaskular periferal, iaitu indikasi asal ticagrelor. Penghalang platelet berpotensi mengurangkan risiko strok iskemia pada pesakit ini.
 
-Kerana petunjuk yang diramalkan terletak pada laluan kausal yang sama (trombosis arteri yang dirantau platelet) seperti penggunaan sedia ada ticagrelor, ramalan TxGNN adalah koheren dari segi biologi daripada menjadi inferensi silang penyakit spekulatif — ia lebih dekat kepada hipotesis sambungan label daripada hipotesis ubat semula tulen.
+Bukti masih tidak langsung. Percubaan Fasa 3 yang paling relevan (CAPTIVA) membandingkan strategi antikoagulan dan antiplatelet, dan belum jelas sama ada ticagrelor ialah ubat kajian yang diuji. Percubaan itu juga masih berjalan dan belum melaporkan keputusan. Tiada percubaan Fasa 3 yang telah selesai menunjukkan keberkesanan ticagrelor dalam indikasi ini secara langsung. Oleh itu, tahap bukti L2 ini mencerminkan sokongan tidak langsung daripada reka bentuk percubaan besar yang sedang berjalan. Data bertema strok dan TIA yang berkaitan, seperti pembawa kehilangan fungsi CYP2C19, turut menyokong secara tidak langsung.
 
 ---
 
-## Bukti Ujian Klinikal
+## Bukti Percubaan Klinikal
 
-| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT01732822](https://clinicaltrials.gov/study/NCT01732822) | Fasa 3 | Selesai | 13,885 | EUCLID: ticagrelor vs. clopidogrel untuk kematian CV, MI, dan strok iskemik dalam penyakit arteri persifer; perbandingan antitrombotik yang berkaitan langsung (Gred A) |
-| [NCT05047172](https://clinicaltrials.gov/study/NCT05047172) | Fasa 3 | Aktif, tidak merekrut | 1,683 | CAPTIVA: rivaroxaban dan/atau ticagrelor vs. clopidogrel secara khusus untuk stenosis vaskular aterosklerotik intrakranial, menilai kadar strok/pendarahan/kematian vaskular 1 tahun (Gred A) |
-| [NCT02605447](https://clinicaltrials.gov/study/NCT02605447) | Fasa 4 | Selesai | 2,009 | EVOLVE Short DAPT: keselamatan DAPT 3 bulan pada pesakit berisiko pendarahan tinggi selepas PCI stent yang berkaitan intrakranial (Gred B) |
-| [NCT01813435](https://clinicaltrials.gov/study/NCT01813435) | Fasa 3 | Selesai | 15,991 | GLOBAL LEADERS: ticagrelor + aspirin vs. DAPT standard selepas implan stent (Gred C) |
-| [NCT06714526](https://clinicaltrials.gov/study/NCT06714526) | NA | Merekrut | 100 | Pemilihan antagonis P2Y12 yang dipandu genotip vs. clopidogrel konvensional dalam penyakit aterosklerotik intrakranial yang simptomatik |
-| [NCT04948749](https://clinicaltrials.gov/study/NCT04948749) | NA | Merekrut | 792 | DREAM-PRIDE: stent pelepas ubat + terapi perubatan agresif vs. terapi standard untuk pencegahan strok berulang dalam penyakit aterosklerotik intrakranial |
-| [NCT06058130](https://clinicaltrials.gov/study/NCT06058130) | NA | Tidak diketahui | 2,171 | Antikoagulasi vs. antikoagulasi + antiplatelet dalam strok iskemik akut dengan AF dan stenosis arteri ekstrakanial/intrakranial |
-| [NCT07354828](https://clinicaltrials.gov/study/NCT07354828) | N/A | Belum mula merekrut | 3,500 | Sistem standard kawalan kualiti untuk DAPT dalam revaskularisasi koronari (populasi ACS berisiko pendarahan tinggi) |
-| [NCT03620760](https://clinicaltrials.gov/study/NCT03620760) | Fasa 4 | Tidak diketahui | 2,036 | Ticagrelor dos rendah vs. dos standard selepas implan DES dalam angina tidak stabil |
-| [NCT07164859](https://clinicaltrials.gov/study/NCT07164859) | Fasa 3 | Belum mula merekrut | 1,700 | SOLOPCI: DAPT sangat singkat diikuti dengan monoterapi P2Y12 pada pesakit pasca-PCI warga tua |
+| [NCT05047172](https://clinicaltrials.gov/study/NCT05047172) (CAPTIVA) | Fasa 3 | Aktif, tidak merekrut | 1,683 | Menentukan sama ada lengan eksperimen (rivaroxaban atau ticagrelor atau kedua-duanya) lebih unggul daripada klopidogrel dalam mengurangkan kadar strok iskemia, pendarahan intraserebral atau kematian vaskular dalam masa 1 tahun. Tiada keputusan dilaporkan. |
+| [NCT06714526](https://clinicaltrials.gov/study/NCT06714526) | Tidak berkenaan | Sedang merekrut | 100 | Kajian perintis yang menilai pemilihan perencat P2Y12 oral berpandukan genotip berbanding klopidogrel konvensional dalam penyakit aterosklerotik intrakranial bergejala. |
 
 ---
 
@@ -82,38 +76,37 @@ Kerana petunjuk yang diramalkan terletak pada laluan kausal yang sama (trombosis
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [39862061](https://pubmed.ncbi.nlm.nih.gov/39862061/) | 2025 | RCT | International Journal of Stroke | Rancangan ujian CAPTIVA membandingkan rejimen antitrombotik ganda (termasuk ticagrelor) melawan clopidogrel + aspirin standard untuk stenosis aterosklerotik intrakranial yang simptomatik |
-| [38252758](https://pubmed.ncbi.nlm.nih.gov/38252758/) | 2024 | Ulasan | Stroke | Kemaskini tertumpu pada aterosklerosis intrakranial — pengenalan, sorotan, dan jurang pengetahuan dalam pengurusan antitrombotik |
-| [39658130](https://pubmed.ncbi.nlm.nih.gov/39658130/) | 2025 | Kohort | Journal of Neurointerventional Surgery | Pengalaman klinikal dengan ticagrelor dos rendah (60 mg BID) ditambah aspirin vs. aspirin/clopidogrel standard untuk stenting intrakranial |
-
----
-
-## Maklumat Pasaran Malaysia
-
-Butiran peringkat lesen (nombor pendaftaran, nama produk, bentuk dos, pengilang) tidak dikembalikan dalam pakej data semasa — semua medan dalam rekod pendaftaran sumber kosong. Status pasaran disahkan sebagai **dipasarkan (Marketed)** dengan **8 jumlah pendaftaran** dalam fail. Butiran peringkat pendaftaran perlu diambil daripada daftar sumber sebelum semakan silang regulatori dapat diselesaikan.
+| [39658130](https://pubmed.ncbi.nlm.nih.gov/39658130/) | 2025 | Kohort | Journal of NeuroInterventional Surgery | Pengalaman menggunakan ticagrelor 60 mg dua kali sehari dengan aspirin 81 mg berbanding rejimen aspirin dan klopidogrel piawai untuk pemasangan stent intrakranial. |
+| [39862061](https://pubmed.ncbi.nlm.nih.gov/39862061/) | 2025 | Kertas reka bentuk percubaan | International Journal of Stroke | Reka bentuk dan kemajuan awal percubaan CAPTIVA, yang menguji sama ada kombinasi antitrombotik dual lain lebih unggul daripada klopidogrel dan aspirin dalam ICAS bergejala. |
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan. Amaran utama pakej bukti, kontraindikasi, dan pencarian interaksi ubat-ubatan semuanya tidak mengembalikan data untuk calon ini (status pertanyaan DDI: tidak ditemui).
+- **Kontraindikasi (berdasarkan graf pengetahuan, bukan teks label)**: kegagalan hati, penyakit hati, penyakit pundi hempedu dan pendarahan intrakranial. Pendarahan intrakranial amat penting untuk indikasi serebrovaskular ini.
+- **Interaksi Ubat**: sebanyak 100 interaksi direkodkan.
+  - **Major**: klaritromisin.
+  - **Sederhana (contoh)**: aspirin (asid asetilsalisilik), morfin, aprepitan, deksametason, budesonid, simvastatin, sisaprid, mikonazol dan klotrimazol.
+  - **Minor**: nalokseogol dan prukalopride.
+
+Amaran utama dan kontraindikasi daripada sisipan pakej tidak tersedia. Sila rujuk sisipan pakej untuk maklumat keselamatan penuh.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Teruskan dengan Penjaga**
+**Keputusan: Hold (Soalan Penyelidikan)**
 
-**Rasional:**
-Dua ujian Fasa 3 yang berkaitan langsung (SOCRATES/EUCLID dan ujian CAPTIVA yang sedang berjalan) mengkaji ticagrelor dalam populasi strok dan penyakit aterosklerotik intrakranial, dan mekanisme yang dicadangkan bertindih secara langsung dengan penggunaan antitrombotik yang telah diluluskan ticagrelor — ini adalah sambungan yang berisiko rendah dari segi mekanik daripada hipotesis ubat semula yang baru, tetapi ia masih memerlukan semakan bukti khusus petunjuk formal sebelum panduan klinikal dapat dikeluarkan.
+**Justifikasi:**
+- Skor TxGNN sangat tinggi dan mekanisme antiplatelet munasabah, tetapi tiada percubaan yang telah selesai menunjukkan keberkesanan ticagrelor dalam arteriosklerosis intrakranial. CAPTIVA masih berjalan tanpa keputusan dan belum jelas sama ada ticagrelor ialah ubat yang diuji.
+- Ticagrelor tidak dipasarkan di Malaysia, dan risiko pendarahan intrakranial menuntut kehati-hatian.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Amaran sisipan pakej TFDA/NPRA dan kontraindikasi (kini menghalang — ditandai sebagai DG001)
-- Dokumentasi mekanisme tindakan terperinci daripada DrugBank (ditandai sebagai DG002)
-- Butiran pendaftaran peringkat lesen Malaysia (nama produk, bentuk dos, pengilang)
-- Data interaksi ubat-ubatan yang lengkap (pertanyaan semasa tidak mengembalikan hasil)
-- Menunggu hasil utama CAPTIVA (NCT05047172), selesai dijangka 2028-05-31
-
+- Keputusan CAPTIVA dan pengesahan peranan ticagrelor dalam percubaan itu.
+- Data mekanisme tindakan terperinci (MOA) daripada DrugBank.
+- Amaran dan kontraindikasi daripada sisipan pakej, yang perlu dimuat turun daripada laman web NPRA.
+- Penilaian risiko pendarahan, terutamanya dengan terapi aspirin serentak, serta strategi pemilihan pesakit mengikut indikasi dan genotip.
+- Pertimbangan laluan kawal selia kerana ubat ini belum didaftarkan di Malaysia.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

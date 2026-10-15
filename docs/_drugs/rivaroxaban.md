@@ -2,7 +2,7 @@
 layout: default
 title: Rivaroxaban
 parent: Low Evidence (L4-L5)
-nav_order: 600
+nav_order: 628
 evidence_level: L5
 indication_count: 4
 ---
@@ -29,81 +29,93 @@ Tahap bukti: **L5** | Indikasi diramal: **4**
 
 </div>
 
-# Rivaroxaban: Dari Terapi Antikoagulasi kepada Artritis Reumatoid
+# Rivaroxaban: Daripada Penggunaan Antikoagulan kepada Artritis Reumatoid
 
 ## Ringkasan Satu Ayat
 
-> Rivaroxaban adalah penghambat Faktor Xa oral langsung yang telah ditubuhkan untuk pencegahan/rawatan tromboembolisme vena (VTE) dan pencegahan strok dalam fibrilasi atrium.
-> Model TxGNN meramalkan ia mungkin berkesan untuk **Artritis Reumatoid**,
-> tetapi kini **0 ujian klinikal** dan hanya **3 penerbitan yang berkaitan secara longgar** menyokong arah ini — tiada satupun yang mengkaji kesan rivaroxaban pada aktiviti penyakit RA sendiri.
+Rivaroxaban ialah perencat Faktor Xa langsung (antikoagulan oral). Model TxGNN meramalkan ia mungkin berkesan untuk **artritis reumatoid** dengan skor tinggi, tetapi setakat ini **tiada ujian klinikal** dan **tiada kajian literatur** yang menyokong kesan terapeutik rivaroxaban terhadap penyakit ini. Ramalan ini masih pada tahap ramalan model semata-mata.
 
 ---
 
-## Gambaran Keseluruhan Ringkas
+## Gambaran Keseluruhan Pantas
 
 | Item | Kandungan |
-|------|----------|
-| Petunjuk Asal | Antikoagulasi — pencegahan/rawatan VTE, pencegahan strok dalam AF bukan valvular (pengetahuan preskripsi yang ditubuhkan; tidak ditangkap dalam ekstrak data NPRA ini) |
-| Petunjuk Baru yang Diramalkan | Artritis Reumatoid |
+|------|------|
+| Indikasi Asal | Tiada data indikasi diluluskan yang dapat dikenal pasti daripada data pendaftaran tempatan |
+| Indikasi Baharu yang Diramalkan | Artritis reumatoid (rheumatoid arthritis) |
 | Skor Ramalan TxGNN | 99.57% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 47 |
-| Keputusan yang Disyorkan | Tahan |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa kini, data mekanisme tindakan yang terperinci tidak tersedia dalam pakej bukti ini. Berdasarkan pengetahuan preskripsi yang ditubuhkan, rivaroxaban adalah penghambat Faktor Xa oral langsung yang digunakan untuk antikoagulasi — kecekapannya dalam pencegahan/rawatan VTE dan pencegahan strok berkaitan AF telah dibuktikan dengan baik, tetapi ia tidak mempunyai mekanisme imunomodulator atau anti-inflamasi yang diketahui yang relevan dengan aktiviti penyakit RA.
+Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Rivaroxaban diketahui sebagai perencat Faktor Xa langsung, yang menghalang penjanaan trombin dalam lata pembekuan darah.
 
-Alasan yang menghubungkan rivaroxaban dengan RA adalah tidak langsung: keradangan kronik dalam pesakit RA mengaktifkan lata penggumpalan darah (peningkatan penjanaan trombin), yang meningkatkan risiko VTE mereka melebihi populasi umum. Ini bermakna rivaroxaban boleh digunakan secara klinikal untuk merawat **komplikasi trombotik dalam pesakit RA**, bukan untuk merawat RA sendiri.
+Satu rasional tidak langsung yang munasabah ialah pembekuan darah dan penjanaan trombin tidak seimbang dalam keradangan autoimun, dan risiko trombosis meningkat pada pesakit artritis reumatoid. Ini boleh menyokong penggunaan untuk **pencegahan trombosis**, bukan **pengubahsuaian penyakit**. Tiada data yang menunjukkan rivaroxaban menjejaskan aktiviti atau perkembangan artritis reumatoid.
 
-Tiga penerbitan sokongan mengesahkan batasan ini — ia meliputi diagnosis/rawatan VTE, asai penjanaan trombin untuk menilai hiperkoagulabiliti dalam penyakit autoimun, dan kesetiaan rivaroxaban dalam fibrilasi atrium. Tiada seorang pun memeriksa aktiviti penyakit RA, simptom sendi, atau hasil keradangan. Skor TxGNN kemungkinan besar mencerminkan laluan graf pengetahuan melalui nod "penggumpalan darah/keradangan" yang dikongsi bukannya mekanisme penjodoh penyakit yang tulen.
+Oleh itu, skor TxGNN yang sangat tinggi (0.996) tidak disokong oleh pautan mekanistik atau klinikal dalam literatur yang diperoleh.
 
 ---
 
 ## Bukti Ujian Klinikal
 
-Kini tiada ujian klinikal yang berkaitan berdaftar.
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan untuk artritis reumatoid.
 
 ---
 
 ## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|------|------|--------|--------|
-| [33141212](https://pubmed.ncbi.nlm.nih.gov/33141212/) | 2020 | Ulasan | JAMA | Ulasan umum tentang diagnosis dan rawatan DVT tungkai bawah; tidak membincangkan RA |
-| [34175144](https://pubmed.ncbi.nlm.nih.gov/34175144/) | 2021 | Ulasan | La Revue de médecine interne | Membincangkan asai penjanaan trombin untuk menilai hiperkoagulabiliti dalam penyakit autoimun (cth. sindrom antifosfolipid); tiada data rawatan RA |
-| [29621248](https://pubmed.ncbi.nlm.nih.gov/29621248/) | 2018 | Kohort | PLoS One | Membandingkan kesetiaan ubat rivaroxaban vs. apixaban dalam pesakit fibrilasi atrium; tidak berkaitan dengan RA |
+|------|-----|------|------|---------|
+| [33141212](https://pubmed.ncbi.nlm.nih.gov/33141212/) | 2020 | Ulasan | JAMA | Ulasan diagnosis dan rawatan tromboembolisme vena anggota bawah; kadar DVT 88–112 bagi setiap 100,000 orang-tahun dan VTE berulang 20–36% dalam 10 tahun |
+| [34175144](https://pubmed.ncbi.nlm.nih.gov/34175144/) | 2021 | Ulasan | La Revue de médecine interne | Ujian penjanaan trombin berguna untuk menilai keadaan hiperkoagulasi dalam penyakit autoimun |
+| [29621248](https://pubmed.ncbi.nlm.nih.gov/29621248/) | 2018 | Kohort | PloS one | Perbandingan pematuhan rivaroxaban berbanding apixaban dalam fibrilasi atrium bukan injap; tidak berkaitan artritis reumatoid |
+| [41918541](https://pubmed.ncbi.nlm.nih.gov/41918541/) | 2026 | Laporan kes | Cureus | Pesakit warga emas dengan artritis reumatoid dan penyakit buah pinggang kronik mengalami kejadian embolik berulang walaupun menerima antikoagulan |
+
+Tiada satu pun yang menunjukkan rivaroxaban merawat artritis reumatoid.
 
 ---
 
-## Maklumat Pasaran Malaysia
+## Maklumat Pasaran di Malaysia
 
-Rekod NPRA mengesahkan rivaroxaban dipasarkan di Malaysia dengan **47 kebenaran pendaftaran**, tetapi butiran peringkat lesen (nombor kebenaran, nama produk, bentuk dos, teks petunjuk yang diluluskan) tidak ditangkap dalam ekstrak data ini.
+Rivaroxaban tidak mempunyai pendaftaran yang direkodkan di Malaysia dalam data yang dikumpulkan.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
+- **Penyakit yang dikaitkan dengan kontraindikasi dalam graf pengetahuan TxGNN (PrimeKG)** (bukan teks label produk): kegagalan hati, penyakit buah pinggang, piouretr (pyoureter), penyakit hati, penyakit pundi hempedu, dan gangguan pembekuan darah.
+- **Interaksi Ubat** (100 interaksi dikesan; sebahagian disenaraikan):
+  - **Major**: asid asetilsalisilik (aspirin), kobisistat, deferasirox, ibritumomab tiuxetan, tositumomab (I-131).
+  - **Moderate**: aprepitant, deksametason, simetidin, klaritromisin, eliglustat, mikonazol, klotrimazol, dan lain-lain.
+- Literatur juga menekankan bahawa antiretroviral yang dipertingkat dengan ritonavir atau kobisistat meningkatkan pendedahan DOAC dan risiko pendarahan.
+
+Sila rujuk sisipan pek untuk maklumat amaran utama dan kontraindikasi rasmi.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
-**Alasan:**
-Tiada ujian klinikal dan tiada literatur yang secara langsung menilai kesan rivaroxaban pada aktiviti penyakit RA — penerbitan yang tersedia hanya berkaitan dengan pengurusan risiko trombotik dalam pesakit RA/autoimun, yang merupakan kes penggunaan klinikal yang berlainan daripada merawat RA sendiri. Digabungkan dengan ketiadaan data MOA dan label keselamatan NPRA, bukti tidak menyokong memajukan calon ini.
+**Rasional:**
+- Skor TxGNN tinggi tetapi tiada ujian klinikal, tiada bukti literatur terapeutik, dan tiada pautan mekanistik yang disokong untuk artritis reumatoid. Tahap bukti hanyalah L5.
 
-**Untuk meneruskan, perkara-perkara berikut diperlukan:**
-- Sisipan pakej TFDA/NPRA (amaran, kontraindikasi) — kini menghalang penilaian keselamatan (S1)
-- Data mekanisme tindakan yang disahkan daripada DrugBank
-- Sebarang kajian preklinik atau mekanik yang secara langsung menghubungkan perencatan Faktor Xa dengan laluan keradangan RA (berlainan daripada pengurusan VTE komorbid)
-- Data Malaysia peringkat lesen yang lengkap (nombor kebenaran, teks petunjuk yang diluluskan) untuk pengesahan pendaftaran pasaran
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan yang lengkap dan analisis pautan mekanistik dengan patofisiologi artritis reumatoid
+- Kajian praklinikal atau klinikal yang menilai kesan rivaroxaban terhadap aktiviti penyakit artritis reumatoid
+- Sisipan pek NPRA (amaran dan kontraindikasi) bagi penilaian keselamatan
+- Pengesahan status pendaftaran dan indikasi asal di Malaysia
 
+---
+
+## Nota: Ramalan Lain
+
+Ramalan lain dalam data (semuanya bertahap **Hold**) ialah **gout** (L5, tiada ujian klinikal; literatur tidak relevan dari segi keberkesanan), **jangkitan HIV** (L4, hanya isu DDI dan keselamatan; satu ujian kohort EINSTEIN CYP tidak menguji rawatan HIV), dan **sindrom brakidaktili-sindaktili** (L5, tiada bukti dan tiada pautan mekanistik yang munasabah).
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

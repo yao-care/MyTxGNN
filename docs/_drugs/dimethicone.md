@@ -2,7 +2,7 @@
 layout: default
 title: Dimethicone
 parent: Low Evidence (L4-L5)
-nav_order: 284
+nav_order: 293
 evidence_level: L5
 indication_count: 0
 ---

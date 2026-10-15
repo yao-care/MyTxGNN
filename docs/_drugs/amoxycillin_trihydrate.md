@@ -2,7 +2,7 @@
 layout: default
 title: Amoxycillin Trihydrate
 parent: Low Evidence (L4-L5)
-nav_order: 68
+nav_order: 72
 evidence_level: L5
 indication_count: 0
 ---

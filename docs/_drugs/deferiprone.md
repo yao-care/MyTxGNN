@@ -2,15 +2,15 @@
 layout: default
 title: Deferiprone
 parent: Low Evidence (L4-L5)
-nav_order: 254
-evidence_level: L5
+nav_order: 260
+evidence_level: L4
 indication_count: 9
 ---
 
 # Deferiprone
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **9** 
+Tahap bukti: **L4** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,76 +29,79 @@ Tahap bukti: **L5** | Indikasi diramal: **9**
 
 </div>
 
-# Deferiprone: Dari Beban Besi (Talasemia) ke Porfira Hepatik
+# Deferiprone: Daripada Hemosiderosis/Beta-Talasemia kepada Porfiria Hepatik
 
 ## Ringkasan Satu Ayat
 
-> Deferiprone ialah chelator besi oral; berdasarkan pengetahuan ubat am (Ferriprox), ia digunakan untuk beban besi transfusi dalam talasemia, walaupun medan `original_indications` dalam pakej bukti ini sedang menjadi jurang data. Ramalan berada di kedudukan teratas model TxGNN ialah **Porfira Hepatik**, tetapi ini disokong oleh **0 uji klinik** dan **0 penerbitan** — rasional model sendiri menandakannya sebagai kemungkinan positif palsu yang didorong oleh pengelompokan embedding graf daripada isyarat farmakologi tulen.
+Deferiprone ialah pengelat besi oral yang pada asalnya digunakan untuk merawat lebihan besi (hemosiderosis) dan beta-talasemia/hemoglobinopati.
+Model TxGNN meramalkan ia mungkin berkesan untuk **porfiria hepatik**,
+tetapi setakat ini hanya terdapat **0 percubaan klinikal** dan **2 penerbitan** praklinikal/peringkat kes yang menyokong arah ini secara tidak langsung.
 
 ---
 
-## Gambaran Keseluruhan Cepat
+## Gambaran Keseluruhan Pantas
 
-| Item | Kandungan |
-|------|----------|
-| Indikasi Asal | Beban besi dalam talasemia (pengetahuan latar belakang, dirujuk dalam rasional kedudukan ke-8 pakej ini sebagai penggunaan yang diluluskan Ferriprox; **tidak bersumber daripada data TFDA/NPRA** — `original_indications` ialah jurang data) |
-| Indikasi Baru yang Diramal | Porfira Hepatik |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Hemosiderosis, beta-talasemia dan hemoglobinopati (berdasarkan graf pengetahuan TxGNN/PrimeKG; tiada teks indikasi berdaftar tempatan) |
+| Indikasi Baharu yang Diramalkan | Porfiria hepatik (hepatic porphyria) |
 | Skor Ramalan TxGNN | 99.20% |
-| Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 6 |
-| Keputusan yang Disarankan | Tahan |
+| Tahap Bukti | L4 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan terperinci tidak tersedia (`original_moa` = Jurang Data). Berdasarkan rasional TxGNN yang disediakan dalam pakej ini, deferiprone ialah chelator besi ferik yang selektif, dan porfira hepatik melibatkan gangguan laluan biosintesis hem, yang mana besi diperlukan sebagai kofaktor. Ini memberikan pautan laluan teori, tidak langsung antara farmakologi ubat yang diketahui dan penyakit yang diramal.
+Data terperinci tentang mekanisme tindakan (MOA) deferiprone tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat yang diketahui, deferiprone ialah pengelat besi oral, keberkesanannya dalam lebihan besi akibat beta-talasemia telah diketahui, dan secara mekanistik ia mungkin sesuai untuk porfiria hepatik.
 
-Bagaimanapun, arah pautan ini dijelaskan secara eksplisit tidak jelas dalam rasional asas: chelasi besi yang berlebihan boleh sama munasabahnya memburukkan subtype porfira tertentu dengan menyebabkan kekurangan besi, daripada membantu. Tiada bukti klinikal, praklinik, atau laporan kes dalam pakej bukti ini untuk menyelesaikan ketidakjelasan tersebut.
+Dalam porfiria, ketersediaan besi boleh mengganggu laluan sintesis hem dan menyebabkan pengumpulan porfirin (contohnya uroporfiria hepatik dalam model haiwan). Oleh itu, mengurangkan besi labil ialah mekanisme yang munasabah. Bukti praklinikal daripada model tikus uroporfiria (PMID 17854053) dan laporan dalam porfiria eritropoietik kongenital (PMID 32678895) menyokong idea ini secara tidak langsung.
 
-Adalah juga patut dinyatakan bahawa kedudukan 2–6 dalam senarai indikasi-ramalan (sirosis yang berkaitan dengan tembaga idiopatik, hipertensi portal, sklerosis hepatoportal, trombosis vena portal, sindrom hepatopulmoner) semua membawa skor hampir sama (~0.99196) satu sama lain dan kekurangan sebarang rasional mekanik khusus ubat. Anotasi pakej bukti sendiri mengaitkan ini dengan pengelompokan nod "penyakit hati" graf pengetahuan TxGNN daripada isyarat farmakologi nyata yang khusus ubat — corak yang juga menimbulkan hati-hati tentang ramalan porfira hepatik berpangkat teratas, kerana ia berada dalam jalur skor yang sama.
-
----
-
-## Bukti Uji Klinik
-
-Pada masa ini, tiada uji klinik yang terkait didaftarkan.
+Namun, kedua-dua sumber ini bukan kajian klinikal ke atas pesakit porfiria hepatik. Subjenis dalam laporan kes juga berbeza daripada porfiria hepatik, jadi kesimpulannya masih berada di peringkat hipotesis penyelidikan.
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Percubaan Klinikal
 
-Pada masa ini, tiada kesusasteraan yang terkait tersedia.
-
----
-
-## Maklumat Pasaran Malaysia
-
-Pakej bukti merekodkan 6 jumlah pendaftaran keseluruhan dengan status pasaran "Dipasarkan" (Dipasarkan), tetapi 5 entri lesen yang dikembalikan tidak mengandungi medan yang diisi (nombor lesen, nama produk, bentuk dos, pengilang, dan teks indikasi semuanya kosong) — ini ialah jurang data dalam pertanyaan sumber, bukan ketiadaan pendaftaran. Butiran peringkat lesen perlu dikumpul semula daripada NPRA sebelum ia boleh dilaporkan di sini.
+Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
 
 ---
 
-## Pertimbangan Keselamatan
+## Bukti Literatur
 
-Sila rujuk sisipan paket untuk maklumat keselamatan.
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [32678895](https://pubmed.ncbi.nlm.nih.gov/32678895/) | 2020 | Praklinikal/laporan peringkat kes | Blood | Pengelatan besi memulihkan anemia hemolitik dan fotosensitiviti kulit dalam porfiria eritropoietik kongenital (subjenis berkaitan tetapi berbeza) |
+| [17854053](https://pubmed.ncbi.nlm.nih.gov/17854053/) | 2007 | Kajian haiwan | Hepatology | Dalam model tikus Hfe-/- porfiria cutanea tarda, deferiprone dibandingkan dengan diet kekurangan besi untuk mengurangkan pengumpulan uroporfirin hepatik |
+
+---
+
+## Keselamatan
+
+- **Interaksi Ubat**: Pertanyaan interaksi selesai dengan 100 interaksi direkodkan; 20 yang pertama semuanya bertahap **Sederhana** (sumber: DDInter). Kumpulan utama:
+  - **Antasid dan suplemen kation polivalen**: kalsium fosfat, kalsium asetat, kalsium karbonat, kalsium sitrat, kalsium glukonat, kalsium laktat, magnesium oksida, magnesium hidroksida, magnesium karbonat, magnesium sulfat, aluminium hidroksida, magaldrat
+  - **Penjerap/pelindung**: attapulgit, kaolin, sukralfat
+  - **Besi**
+
+  Secara amnya, kation logam ini boleh mengikat pengelat dan berpotensi mengurangkan penyerapan atau keberkesanannya, jadi pemberian serentak perlu dinilai dengan teliti.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
 **Rasional:**
-Ramalan berpangkat teratas (porfira hepatik) disokong hanya oleh skor L5, model sahaja tanpa uji klinik atau kesusasteraan, dan rasional mekanik itu sendiri menandakan ketidakjelasan arah — chelasi besi boleh munasabahnya memburukkan beberapa subtype porfira daripada merawatnya. Beberapa ramalan jiran dalam jalur skor yang sama menunjukkan tanda-tanda menjadi artifak pengelompokan graf daripada isyarat tulen, yang seterusnya melemahkan keyakinan dalam hasil kedudukan pertama khusus ini.
+- Ramalan untuk porfiria hepatik disokong hanya oleh bukti praklinikal dan tidak langsung (L4), tanpa percubaan klinikal pada pesakit. Deferiprone juga tidak dipasarkan di Malaysia, dan data keselamatan label tidak tersedia.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Amaran sisipan paket TFDA/NPRA dan kontraindikasi (DG001, menghalang — diperlukan sebelum mana-mana screening keselamatan S1)
-- Data mekanisme tindakan yang disahkan daripada DrugBank (DG002)
-- Kajian praklinik atau mekanik yang menjelaskan *arah* kesan chelasi besi merentas subtype porfira sebelum mempertimbangkan porfira hepatik sebagai calon penggunaan semula
-- Pengesahan `original_indications` (sedang kosong) — perhatian bahawa **talasemia beta dengan manifestasi lain (kedudukan 8)** nampaknya penggunaan deferiprone yang sudah diluluskan (Ferriprox), bukan indikasi yang benar-benar baru; ini harus disahkan supaya ia tidak disalah kira sebagai calon penggunaan semula
-- Data lesen/indikasi Malaysia yang diisi untuk menggantikan entri kosong semasa
-
+- Maklumat keselamatan daripada sisipan pakej NPRA (amaran dan kontraindikasi), yang kini menjadi halangan untuk penilaian keselamatan
+- Data mekanisme tindakan (MOA) terperinci daripada DrugBank
+- Kajian klinikal atau siri kes dalam pesakit porfiria hepatik sebenar, termasuk subjenis yang berkaitan (contohnya porfiria cutanea tarda)
+- Penilaian status pendaftaran dan laluan akses di Malaysia, memandangkan tiada lesen berdaftar
+- Pelan pemantauan keselamatan, termasuk interaksi dengan antasid dan suplemen mineral
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -2,7 +2,7 @@
 layout: default
 title: Glimepiride
 parent: Low Evidence (L4-L5)
-nav_order: 370
+nav_order: 387
 evidence_level: L5
 indication_count: 9
 ---
@@ -29,59 +29,78 @@ Tahap bukti: **L5** | Indikasi diramal: **9**
 
 </div>
 
-# Glimepiride: Dari Diabetes Mellitus Tipe 2 ke Sindrom Tungkai Kaku Fokal
+# Glimepirida: Daripada Diabetes Mellitus Jenis 2 kepada Sindrom Anggota Kaku Fokal
 
-## Ringkasan Satu Kalimat
+## Ringkasan Satu Ayat
 
-Glimepiride adalah sulfonilure generasi kedua yang banyak digunakan untuk diabetes mellitus tipe 2. Model TxGNN memprediksi bahwa glimepiride mungkin efektif untuk **sindrom tungkai kaku fokal**, tetapi arah ini saat ini didukung oleh **0 uji klinis** dan **0 publikasi** — ini adalah prediksi model saja tanpa bukti eksternal yang mendukungnya.
+Glimepirida ialah ubat sulfonilurea oral yang pada asalnya digunakan untuk merawat diabetes mellitus jenis 2.
+Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom anggota kaku fokal (focal stiff limb syndrome)**,
+tetapi pada masa ini **tiada percubaan klinikal** dan **tiada literatur berkaitan** yang menyokong ramalan ini; ia hanyalah ramalan model.
 
-## Tinjauan Cepat
+## Gambaran Keseluruhan Pantas
 
-| Item | Konten |
-|------|--------|
-| Indikasi Asli | Diabetes Mellitus Tipe 2 (penggunaan sulfonilure yang terbukti; teks indikasi yang disetujui khusus TFDA tidak tersedia dalam data pendaftaran saat ini) |
-| Indikasi Baru Prediksi | Sindrom tungkai kaku fokal |
-| Skor Prediksi TxGNN | 99.75% |
-| Tingkat Bukti | L5 |
-| Status Pasar Malaysia | ✓ Dipasarkan |
-| Jumlah Pendaftaran | 10 |
-| Keputusan yang Direkomendasikan | Tahan |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Diabetes mellitus jenis 2 |
+| Indikasi Baharu yang Diramalkan | Sindrom anggota kaku fokal (focal stiff limb syndrome) |
+| Skor Ramalan TxGNN | 99.75% |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
-## Mengapa Prediksi Ini Masuk Akal?
+## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme aksi terperinci tidak tersedia dalam paket bukti ini (ditandai sebagai kesenjangan data berbeban berat). Berdasarkan farmakologi yang umumnya diketahui, glimepiride adalah sulfonilure yang merangsang pelepasan insulin dari sel β pankreas dengan menutup saluran kalium yang sensitif terhadap ATP; efikasinya pada diabetes mellitus tipe 2 sudah terbukti dengan baik.
+Data terperinci mengenai mekanisme tindakan glimepirida tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, glimepirida tergolong dalam kelas sulfonilurea, keberkesanannya dalam diabetes mellitus jenis 2 telah terbukti, dan secara mekanistik penerapannya kepada sindrom anggota kaku fokal masih belum dapat disahkan.
 
-Sindrom tungkai kaku fokal adalah gangguan autoimun/neurologis yang jarang terjadi pada sistem penghambatan GABAergik, biasanya terkait dengan antibodi anti-GAD65 daripada metabolisme glukosa atau sekresi insulin. Tidak ada dasar mekanistik yang menghubungkan farmakologi sulfonilure dengan kondisi ini yang diberikan dalam paket bukti untuk kandidat ini (bidangnya ditandai "tertunda"), dan tidak ada uji klinis atau literatur yang mendukung asosiasi.
+Satu kaitan yang munasabah tetapi belum disahkan ialah gangguan spektrum anggota kaku/sindrom orang kaku (stiff person) sering bersifat autoimun (anti-GAD65) dan kerap wujud bersama diabetes. Ini mungkin mencerminkan kedekatan rangkaian dengan gen berkaitan diabetes dalam model, dan bukannya kesan terapeutik glimepirida.
 
-Mengingat tidak adanya tautan mekanistik yang masuk akal, dasar biologis yang terbentuk, dan bukti apa pun, prediksi ini harus diperlakukan sebagai kandidat untuk generasi hipotesis saja, bukan sebagai dasar untuk tindakan klinis.
+Skor yang tinggi (0.997) hanyalah ramalan model. Tanpa bukti klinikal atau literatur, ramalan ini perlu dianggap sebagai hipotesis awal sahaja.
 
-## Bukti Uji Klinis
+**Ramalan lain yang berkedudukan tinggi** (semuanya L5, Hold, tanpa percubaan klinikal):
 
-Saat ini tidak ada uji klinis terkait yang terdaftar
+| Kedudukan | Penyakit | Skor TxGNN | Catatan |
+|------|------|------|------|
+| 2 | Sindrom orang kaku klasik | 99.75% | Kemungkinan berpunca daripada kaitan autoimun anti-GAD65 dan komorbiditi diabetes; bukan bukti bahawa sekatan saluran KATP memperbaiki kekakuan |
+| 3 | Opsismodisplasia | 99.74% | Displasia rangka yang jarang berlaku (berkaitan INPPL1, laluan PI3K/insulin); kaitan bersifat spekulatif |
+| 4 | Sindrom disfungsi responsif tiamin | 99.73% | Diabetes ialah salah satu ciri sindrom ini; tiada bukti dalam data yang disusun |
+| 5–8 | Lipodistrofi setempat (akibat ubat, sentrifugal, atrofi lemak akibat tekanan, idiopatik) | 99.56%–99.62% | Berkemungkinan hasil persamaan rangkaian metabolisme insulin/tisu adipos; tiada mekanisme terbukti |
+| 9 | Agenesis pankreas | 99.55% | Glimepirida bergantung pada rembesan insulin sel beta yang tinggal, jadi kurang berkemungkinan berkesan; satu kertas yang diperoleh (PMID 12720536) tidak relevan |
+
+## Bukti Percubaan Klinikal
+
+Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
 
 ## Bukti Literatur
 
-Saat ini tidak ada literatur terkait yang tersedia
+Pada masa ini tiada literatur berkaitan untuk sindrom anggota kaku fokal.
+
+Bagi ramalan kedudukan ke-9 (agenesis pankreas), hanya satu penerbitan diperoleh, dan ia tidak menyokong ramalan tersebut:
+
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [12720536](https://pubmed.ncbi.nlm.nih.gov/12720536/) | 2003 | Kajian pengimejan diagnostik | European Journal of Endocrinology | Perangkap dalam pengimejan endosonografi bagi insulinoma yang disyaki; bukan bukti terapeutik |
 
 ## Pertimbangan Keselamatan
 
-Silakan lihat sisipan paket untuk informasi keselamatan.
+- **Penyakit yang dikaitkan sebagai kontraindikasi dalam graf pengetahuan TxGNN** (bukan teks label): penyakit buah pinggang, penyakit hati, penyakit pundi hempedu, kegagalan jantung kongestif, hipopituitarisme dan pelbagai kekurangan hormon pituitari (termasuk sindrom Sheehan dan sindrom Kallmann), hipogonadisme hipogonadotropik, osteoporosis (termasuk pascamenopaus), penyakit kelenjar timus dan penyakit berjangkit.
+- **Interaksi Ubat**: Sebanyak 100 interaksi dikenal pasti. Antara yang bertahap sederhana ialah fenilefrin, asebutolol, asetazolamid, famotidin, ranitidin, asitretin, formoterol, pseudoefedrin, ketorolak, epinefrin, ibuprofen, etinilestradiol, hidrokortison, albiglutid, salbutamol, etanol, nitazoksanid dan hidroklorotiazid. Interaksi bertahap ringan termasuk hidrokortison topikal dan alklometason topikal.
 
-Catatan: kesenjangan data peringatan/kontraindikasi label TFDA (DG001) ditandai sebagai **Penghalang**, yang berarti ulasan keselamatan S1 formal tidak dapat dilakukan untuk kandidat ini saat ini.
+Maklumat amaran utama dan kontraindikasi daripada sisipan pakej tidak tersedia. Sila rujuk sisipan pakej untuk maklumat keselamatan yang lengkap.
 
-## Kesimpulan dan Langkah Selanjutnya
+## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
-**Alasan:**
-Ini adalah kandidat L5, hanya prediksi model, tanpa uji klinis, tanpa literatur, dan tanpa hubungan mekanistik yang terbentuk antara farmakologi glimepiride dan sindrom tungkai kaku fokal. Kesenjangan data penghambat dalam pelabelan keselamatan TFDA juga mencegah evaluasi keselamatan yang tepat.
+**Rasional:**
+- Ramalan ini hanya berasaskan model (L5) tanpa percubaan klinikal atau literatur yang menyokong. Glimepirida juga tidak dipasarkan di Malaysia, dan mekanisme yang menghubungkannya dengan sindrom anggota kaku fokal tidak terbukti.
 
-**Untuk melanjutkan, hal-hal berikut diperlukan:**
-- Label produk TFDA (peringatan, kontraindikasi) — menyelesaikan DG001 (Penghalang)
-- Data mekanisme aksi DrugBank — menyelesaikan DG002 (Tinggi)
-- Hipotesis mekanistik yang terdefinisi menghubungkan farmakologi sulfonilure ke gangguan spektrum tungkai kaku/stiff person
-- Literatur uji pra-klinis, laporan kasus, atau mekanistik apa pun untuk meningkatkan bukti di atas L5 sebelum evaluasi lebih lanjut
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) yang terperinci
+- Amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menghalang saringan keselamatan)
+- Kajian praklinikal atau laporan kes yang menyokong kesan glimepirida terhadap sindrom anggota kaku/sindrom orang kaku
+- Penilaian status pendaftaran dan ketersediaan produk di Malaysia
+- Semakan keserasian laluan pentadbiran (belum dinilai)
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

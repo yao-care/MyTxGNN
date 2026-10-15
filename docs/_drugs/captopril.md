@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Captopril
-parent: Medium Evidence (L3)
-nav_order: 188
-evidence_level: L3
+parent: Low Evidence (L4-L5)
+nav_order: 193
+evidence_level: L4
 indication_count: 4
 ---
 
 # Captopril
 {: .fs-9 }
 
-Tahap bukti: **L3** | Indikasi diramal: **4** 
+Tahap bukti: **L4** | Indikasi diramal: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,86 +29,103 @@ Tahap bukti: **L3** | Indikasi diramal: **4**
 
 </div>
 
-# Captopril: Dari Hipertensi hingga Hipertensi Renovaskular Ganas
+# Captopril: Daripada Hipertensi kepada Hipertensi Renovaskular Malignan
 
 ## Ringkasan Satu Ayat
 
-> Captopril adalah penghambat ACE yang asalnya digunakan untuk merawat hipertensi (teks indikasi yang diluluskan NPRA yang spesifik tidak tersedia dalam ekstrak pendaftaran semasa). Model TxGNN meramalkan ia mungkin berkesan untuk **Hipertensi Renovaskular Ganas**, satu penggunaan yang sudah tersirat dalam mekanisme penyekatan RAAS captopril, dengan **0 uji klinis** dan **20 penerbitan** yang dikenal pasti pada masa ini, tiada satupun adalah percubaan terkawal rawak.
+Captopril ialah perencat enzim penukar angiotensin (ACE) yang pada asalnya digunakan untuk merawat hipertensi dan nefropati diabetes.
+Model TxGNN meramalkan ia mungkin berkesan untuk **hipertensi renovaskular malignan**,
+tetapi setakat ini **tiada ujian klinikal** yang berdaftar dan hanya terdapat **literatur terhad** (kebanyakannya laporan kes dan ulasan, bukan bukti terapeutik langsung) yang menyokong arah ini.
 
 ---
 
-## Tinjauan Cepat
+## Gambaran Keseluruhan Pantas
 
 | Item | Kandungan |
-|------|----------|
-| Indikasi Asal | Hipertensi (kelas penghambat ACE; teks indikasi yang diluluskan NPRA yang spesifik tidak tersedia — lihat Jurang Data) |
-| Indikasi Baharu yang Diramalkan | Hipertensi Renovaskular Ganas |
+|------|------|
+| Indikasi Asal | Gangguan hipertensi, hipertensi, nefropati diabetes (berdasarkan graf pengetahuan TxGNN) |
+| Indikasi Baharu yang Diramalkan | Hipertensi renovaskular malignan |
 | Skor Ramalan TxGNN | 99.28% |
-| Paras Bukti | L3 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 6 |
-| Keputusan yang Disyorkan | Teruskan dengan Pengawal Selia |
+| Tahap Bukti | L4 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
-## Mengapa Ramalan Ini Wajar?
+## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan terperinci tidak tersedia dalam pakej bukti. Berdasarkan farmakologi yang diketahui, captopril adalah penghambat ACE (enzim penukar angiotensin); keberhasilannya dalam merawat hipertensi telah ditegakkan dengan baik, dan secara mekanik ia langsung boleh digunakan untuk hipertensi renovaskular ganas.
+Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, captopril ialah perencat ACE yang menghalang pembentukan angiotensin II. Keberkesanannya dalam hipertensi telah terbukti, dan secara mekanistik ia boleh digunakan untuk hipertensi renovaskular malignan.
 
-Captopril menyekat aktivasi sistem renin-angiotensin-aldosteron (RAAS) yang mendorong hipertensi renovaskular yang disebabkan oleh stenosis arteri renal atau tumor pensekresi renin. Ini bukan mekanisme novel tetapi tindakan farmakologi inti captopril — sebenarnya, "renografi captopril" adalah alat diagnostik piawai yang mengeksploitasi mekanisme yang sama untuk mengenal pasti hipertensi renovaskular, yang menunjukkan asas farmakologi untuk penggunaan ini sudah ditegakkan secara klinis bukan hanya teori.
+Hipertensi renovaskular malignan didorong oleh pengaktifan sistem renin-angiotensin-aldosteron (RAAS), biasanya akibat stenosis arteri renal. Oleh sebab captopril menyekat pembentukan angiotensin II secara langsung, kesesuaian mekanistiknya kuat. Skor TxGNN yang tinggi (0.993) mencerminkan kedekatan penyakit ini dengan indikasi hipertensi asal, jadi ini lebih merupakan llanjutan dalam keluarga penyakit yang sama berbanding penggunaan semula yang benar-benar baharu.
 
-Kerana hipertensi renovaskular ganas ialah subset yang lebih teruk daripada hipertensi yang captopril sudah ditunjukkan, ramalan TxGNN konsisten dengan penggunaan klinis penghambat ACE selama beberapa dekad dalam keadaan hipertensi yang dimediasi renin, walaupun sebahagian besar bukti sokongan di sini adalah data diagnostik/pemerhatian bukan data RCT hasil rawatan.
+Captopril juga digunakan untuk tujuan diagnostik (renografi captopril) bagi penyakit renovaskular. Berhati-hati diperlukan pada pesakit dengan stenosis arteri renal dua hala atau buah pinggang tunggal kerana perencatan ACE boleh mencetuskan kegagalan renal akut.
 
 ---
 
-## Bukti Uji Klinis
+## Bukti Ujian Klinikal
 
-Pada masa ini tiada uji klinis berkaitan yang didaftarkan.
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|-------|------|--------|---------|
-| [17008836](https://pubmed.ncbi.nlm.nih.gov/17008836/) | 2006 | Ulasan | Minerva Medica | Ulasan konsep klinis hipertensi renovaskular; membincangkan strategi rawatan yang diarahkan pada mekanisme renin-angiotensin. |
-| [2040938](https://pubmed.ncbi.nlm.nih.gov/2040938/) | 1991 | Ulasan | The Journal of Pediatrics | Ulasan hipertensi ganas. |
-| [2887673](https://pubmed.ncbi.nlm.nih.gov/2887673/) | 1987 | Kohort (hewan) | Japanese Heart Journal | Mencirikan perubahan neurohormonal (renin/angiotensin/katekolamin) dalam fasa jinak vs. ganas hipertensi renovaskular Goldblatt. |
-| [6145432](https://pubmed.ncbi.nlm.nih.gov/6145432/) | 1984 | Kohort/Pemerhatian Klinis | Biulleten' Vsesoiuznogo Kardiologicheskogo Nauchnogo Tsentra AMN SSSR | Penggunaan captopril dalam hipertensi arteri yang stabil dan ganas. |
-| [232024](https://pubmed.ncbi.nlm.nih.gov/232024/) | 1979 | Kajian Klinis | Clinical Science | Peningkatan aktiviti plasma renin yang disebabkan captopril (>14 ng/h/ml) mengenali hipertensi renovaskular yang tidak dirawat dengan pasti dalam 43/44 pesakit. |
-| [3928961](https://pubmed.ncbi.nlm.nih.gov/3928961/) | 1985 | Laporan Kes | Klinische Wochenschrift | Hipertensi renovaskular teruk (neurofibromatosis, stenosis arteri renal bilateral) dirawat dengan captopril selepas pesakit menolak pembedahan. |
-| [1436350](https://pubmed.ncbi.nlm.nih.gov/1436350/) | 1992 | Laporan Kes | Nephron | Pentadbiran captopril meningkatkan sekresi renin sambil meningkatkan tekanan darah dalam pesakit dengan hipertensi kedua yang teruk. |
-| [11334320](https://pubmed.ncbi.nlm.nih.gov/11334320/) | 2001 | Laporan Kes/Ulasan | Clinical Nephrology | Dua kes hipertensi renovaskular yang dikaitkan neurofibromatosis; captopril digunakan secara diagnostik dan terapeutik. |
-| [8070421](https://pubmed.ncbi.nlm.nih.gov/8070421/) | 1994 | Laporan Kes/Ulasan | Endocrinology and Metabolism Clinics of North America | Tumor pensekresi renin; tekanan darah menurun semasa rawatan enzim penukar (captopril). |
-| [1572120](https://pubmed.ncbi.nlm.nih.gov/1572120/) | 1992 | Laporan Kes | Clinical Nuclear Medicine | Kes saintografi renal captopril yang menggambarkan penggunaan diagnostik dan batasan dalam hipertensi ganas. |
+|------|-----|------|------|---------|
+| [8070421](https://pubmed.ncbi.nlm.nih.gov/8070421/) | 1994 | Ulasan | Endocrinol Metab Clin North Am | Tumor penghasil renin perlu disyaki pada pesakit muda dengan hipertensi teruk dan hipokalemia; tekanan darah menurun dengan rawatan perencat enzim penukar |
+| [3894732](https://pubmed.ncbi.nlm.nih.gov/3894732/) | 1985 | Ulasan | Jpn J Med | Patofisiologi dan hasil hipertensi; penilaian ujian diagnostik untuk hipertensi renovaskular |
+| [10955932](https://pubmed.ncbi.nlm.nih.gov/10955932/) | 2000 | Siri kes/Ulasan | Pediatr Nephrol | 27 pesakit kanak-kanak NF1 dinilai untuk kelainan vaskular dan hipertensi sekunder (termasuk ujian captopril) |
+| [11334320](https://pubmed.ncbi.nlm.nih.gov/11334320/) | 2001 | Laporan kes/Ulasan | Clin Nephrol | Dua kes hipertensi renovaskular berkaitan neurofibromatosis; aktiviti renin plasma meningkat selepas captopril |
+| [7955304](https://pubmed.ncbi.nlm.nih.gov/7955304/) | 1994 | Ulasan | Cleve Clin J Med | Kemajuan saringan tanpa invasif untuk penyakit renovaskular |
+| [1572120](https://pubmed.ncbi.nlm.nih.gov/1572120/) | 1992 | Laporan kes | Clin Nucl Med | Renografi captopril tidak normal pada pesakit hipertensi malignan tanpa stenosis arteri renal |
+| [6145432](https://pubmed.ncbi.nlm.nih.gov/6145432/) | 1984 | Kajian klinikal (tidak rawak) | Biull Vsesoiuznogo Kardiol Nauchnogo Tsentra AMN SSSR | Penggunaan captopril dalam hipertensi arteri yang stabil dan malignan (tiada abstrak) |
+| [232024](https://pubmed.ncbi.nlm.nih.gov/232024/) | 1979 | Kajian klinikal | Clin Sci (Lond) | Peningkatan reaktif renin plasma selepas sekatan angiotensin mengenal pasti hipertensi renovaskular |
+| [24401674](https://pubmed.ncbi.nlm.nih.gov/24401674/) | 2014 | Laporan kes | Am J Nephrol | Nisbah renin vena renal membantu mengesan reninoma |
+| [10477101](https://pubmed.ncbi.nlm.nih.gov/10477101/) | 1999 | Laporan kes | Eur J Radiol | Renografi captopril negatif pada pesakit hipertensi bermediasi renin akibat buah pinggang Page dan reninoma |
+
+Nota: kebanyakan literatur ini berkaitan penggunaan captopril untuk diagnosis, bukan bukti keberkesanan rawatan.
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Data pendaftaran NPRA mengesahkan **6 lesen berdaftar** untuk captopril dengan status pasaran "Dipasarkan," tetapi ekstrak semasa tidak menyertakan nombor lesen, nama produk, bentuk dos, atau teks indikasi yang diluluskan untuk mana-mana pendaftaran individu (semua medan mengembalikan kosong). Ini adalah jurang data yang memerlukan pencarian NPRA langsung sebelum butiran peringkat pasaran boleh dilaporkan.
+Captopril pada masa ini tidak dipasarkan di Malaysia dan tiada lesen berdaftar.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan bungkus untuk maklumat keselamatan. Data amaran utama, kontraindikasi, dan interaksi ubat tidak tersedia pada masa ini dalam pakej bukti (label NPRA belum diambil/diuraikan).
+- **Kontraindikasi/penyakit berkaitan (daripada graf pengetahuan TxGNN, bukan teks label)**: penyakit buah pinggang, penyakit hati, pankreatitis, penyakit pundi hempedu, angioedema (termasuk angioedema keturunan, angioedema yang diperoleh dan yang dicetuskan oleh perencat RAAS), lupus eritematosus sistemik, kekurangan kalium, diabetes mellitus dan ketoasidosis diabetik, neutropenia dan agranulositosis, stenosis aortik, hipotensi, hiperparatiroidisme, ensefalopati hepatik, penyakit tisu penghubung dan penyakit tulang.
+- **Interaksi Ubat**: sebanyak 100 interaksi direkodkan. Antara yang utama (tahap sederhana): kortikosteroid (hidrokortison, deksametason, betametason, budesonid, triamsinolon), ubat antidiabetik (metformin, alogliptin, kanagliflozin, dapagliflozin, empagliflozin, ertugliflozin, eksenatid, klorpropamid, asetoheksamid), bupropion, morfin, asid asetilsalisilik dan dronabinol. Antasid (aluminium hidroksida, kalsium karbonat) berinteraksi pada tahap ringan.
+
+Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi rasmi.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Teruskan dengan Pengawal Selia**
+**Keputusan: Hold**
 
-**Alasan:**
-Pautan mekanik adalah kuat dan jelas dari segi klinis (tindakan penyekat RAAS captopril adalah mekanisme yang sama yang dieksploitasi secara diagnostik melalui renografi captopril untuk hipertensi renovaskular), tetapi literatur sokongan terhad kepada laporan kes, kohort kecil, dan kajian diagnostik bukan RCT rawatan, dan tiada uji klinis didaftarkan pada masa ini untuk indikasi spesifik ini — konsisten dengan paras bukti L3 yang diberikan dan peringkat keputusan S2.
+**Rasional:**
+- Walaupun kesesuaian mekanistik kuat dan skor TxGNN tinggi, tiada ujian klinikal dan literatur yang ada kebanyakannya laporan kes atau ulasan diagnostik. Selain itu, captopril tidak dipasarkan di Malaysia, dan data keselamatan daripada sisipan pakej belum tersedia.
 
-**Untuk teruskan, berikut diperlukan:**
-- Label produk NPRA (仿单) dengan amaran/kontraindikasi — **Sekatan**, diperlukan sebelum sebarang penilaian keselamatan (S1) dapat bermula
-- Data mekanisme tindakan DrugBank — **Keutamaan tinggi**, diperlukan untuk mengesahkan dan memformalkan alasan mekanik
-- Butiran lesen peringkat NPRA yang lengkap (nama produk, bentuk dos, teks indikasi yang diluluskan) untuk 6 pendaftaran yang dipasarkan
-- Pengesahan teks indikasi asal yang diluluskan, kerana tiada rekod lesen semasa mengisi medan ini
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data amaran dan kontraindikasi daripada sisipan pakej (halangan utama kepada saringan keselamatan)
+- Data terperinci mekanisme tindakan (MOA)
+- Bukti klinikal terapeutik (ujian terkawal atau kajian pemerhatian) bagi captopril dalam hipertensi renovaskular malignan
+- Penilaian status pendaftaran dan ketersediaan produk di Malaysia
+- Pelan pemantauan keselamatan, terutamanya bagi pesakit dengan stenosis arteri renal dua hala atau buah pinggang tunggal
 
+---
+
+### Nota Tambahan: Indikasi Lain yang Diramalkan
+
+| Indikasi | Skor TxGNN | Tahap Bukti | Cadangan |
+|------|------|------|------|
+| Penyakit renal hipertensi malignan | 99.28% | L4 | Hold. Hanya satu laporan kes diagnostik; tiada bukti terapeutik |
+| Hipertensi pulmonari akibat penyakit paru-paru dan/atau hipoksia | 99.15% | L5 | Hold. Literatur kebanyakannya tidak berkaitan; tiada bukti klinikal |
+| Hipertensi pulmonari dengan mekanisme multifaktor yang tidak jelas | 99.15% | L5 | Hold. Tiada ujian klinikal atau literatur |
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

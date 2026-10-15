@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Decitabine
-parent: Low Evidence (L4-L5)
-nav_order: 252
-evidence_level: L5
+parent: High Evidence (L1-L2)
+nav_order: 258
+evidence_level: L2
 indication_count: 5
 ---
 
 # Decitabine
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **5** 
+Tahap bukti: **L2** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,91 +29,105 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Decitabine: Dari Sindrom Mielodisplastik Kepada Leukemia Mieloid Akut Berkaitan Terapi dan Sindrom Mielodisplastik
+# Decitabine: Daripada Leukemia Mieloid kepada Leukemia Mieloid Akut dan Sindrom Mielodisplastik Berkaitan Terapi
 
 ## Ringkasan Satu Ayat
 
-Decitabine (DrugBank DB01262) ialah agen hipometilasi DNA yang lama digunakan untuk sindrom mielodisplastik (MDS) dan leukemia mieloid akut (AML). Model TxGNN berperingkat tertinggi mencadangkan **Leukemia Mieloid Akut Berkaitan Terapi dan Sindrom Mielodisplastik (t-AML/MDS)** — suatu subtipe penyakit sekunder yang timbul selepas rawatan sitotoksik sebelumnya — disokong oleh kira-kira **50 ujian klinikal** dan **20 penerbitan** dalam pakej bukti, walaupun kebanyakan daripada ujian ini mengkaji decitabine dalam MDS/AML secara umum dan bukannya subtipe berkaitan terapi khususnya.
+Decitabine ialah agen penghipometilan (*hypomethylating agent*) yang pada asalnya digunakan untuk leukemia mieloid, termasuk pelbagai subjenis leukemia mieloid akut (AML).
+Model TxGNN meramalkan ia mungkin berkesan untuk **leukemia mieloid akut dan sindrom mielodisplastik berkaitan terapi**,
+dengan **4 ujian klinikal** dan **20 penerbitan** yang menyokong arah ini. Namun, bukti secara langsung untuk subjenis berkaitan terapi masih terhad.
 
-## Gambaran Keseluruhan Pantas
+---
 
-| Item | Kandungan |
-|------|-----------|
-| Petunjuk Asal | Tidak tercatat dalam data pendaftaran Malaysia yang disediakan (semua medan lesen kosong); decitabine secara amnya dikenali sebagai agen hipometilasi yang ditunjukkan untuk sindrom mielodisplastik (MDS) / leukemia mieloid akut (AML) |
-| Petunjuk Baharu yang Diramalkan | Leukemia Mieloid Akut Berkaitan Terapi dan Sindrom Mielodisplastik |
-| Skor Ramalan TxGNN | 0.00% (medan skor mengembalikan 0.0 untuk semua 5 calon berperingkat — berkemungkinan isu populasi data dalam pakej bukti ini dan bukannya ramalan tulen hampir-sifar) |
-| Tahap Bukti | L1 (dengan kaveat — lihat di bawah) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 6 |
-| Keputusan yang Disyorkan | Tahan |
+## Gambaran Ringkas
+
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Leukemia mieloid / AML pelbagai subjenis (berdasarkan graf pengetahuan TxGNN, kerana tiada data indikasi berlesen di Malaysia) |
+| Indikasi Baharu yang Diramalkan | AML dan sindrom mielodisplastik berkaitan terapi |
+| Skor Ramalan TxGNN | 0.00% (nilai ini tercatat dalam data yang dikumpulkan; sila sahkan sebelum ditafsirkan) |
+| Tahap Bukti | L2 |
+| Status Pasaran Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan terperinci tidak tersedia dalam pakej bukti ini. Berdasarkan farmakologi yang diketahui, decitabine ialah analog nukleosida yang menghalang DNA metiltransferase 1 (DNMT1), membalikkan hipometilasi sesat dan mengaktifkan semula gen penekan tumor yang diam dalam ledakan mieloid. Keberhasilannya dalam MDS dan AML telah ditegakkan, dan mekanisme ini bukanlah spesifik untuk etiologi penyakit — ia menyasarkan gangguan epigenetik yang sama pada neoplasma mieloid tanpa mengira sama ada ia timbul de novo atau sekunder kepada pendedahan kemoterapi/radiasi sebelumnya.
+Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan. Berdasarkan maklumat yang ada, decitabine ialah agen penghipometilan yang menyelitkan dirinya ke dalam DNA dan memerangkap enzim DNA metiltransferase. Ini menyebabkan hipometilasi dan pengaktifan semula gen penekan tumor yang telah dibisukan.
 
-AML/MDS berkaitan terapi (t-AML/MDS) ialah keganasan sekunder yang dikenali berkembang selepas rawatan sitotoksik sebelumnya (cth, agen alkilasi, perencat topoisomerase II) untuk kanser yang lebih awal. Secara patologis dan molekuler ia bertindih berat dengan MDS/AML de novo, sering berkongsi ciri sitogenetik berisiko tinggi. Kerana aktiviti hipometilasi decitabine tidak dihadkan oleh asal penyakit, adalah munasabah secara mekanistik bahawa manfaatnya yang ditegakkan dalam MDS/AML meluas kepada subtipe berkaitan terapi — beberapa item dalam pakej bukti (cth, PMID 19090005, PMID 35172484) menggambarkan decitabine sudah digunakan secara klinikal dalam tepat tetapan penyakit sekunder ini.
+Leukemia mieloid yang menjadi indikasi asal dan AML/MDS berkaitan terapi sama-sama dicirikan oleh gangguan epigenetik. Decitabine sudah mantap digunakan dalam MDS serta AML pada pesakit warga emas atau tidak layak menerima kemoterapi intensif, dan populasi ini bertindih rapat dengan pesakit berkaitan terapi. Oleh itu, mekanisme ini berkemungkinan relevan untuk indikasi baharu.
 
-Satu kaveat penting: ujian klinikal dan kesusasteraan yang diperolehi untuk calon ini adalah sangat banyak ujian decitabine dalam **MDS/AML secara umum**, bukan ujian yang terhad khusus kepada subtipe berkaitan terapi. Oleh itu, ramalan ini harus dibaca sebagai memperkukuh peranan decitabine merentas spektrum MDS/AML yang lebih luas (yang merangkumi t-AML/MDS sebagai subset yang dikenali) daripada sebagai bukti untuk bidang penyakit yang sepenuhnya baru.
+Namun, sebahagian besar bukti datang daripada kohort AML/MDS am, bukan daripada pesakit berkaitan terapi secara khusus.
+
+---
 
 ## Bukti Ujian Klinikal
 
-| Nombor Ujian | Fasa | Status | Daftar Ulang | Penemuan Utama |
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT03306264](https://clinicaltrials.gov/study/NCT03306264) | Fasa 3 | Selesai | 227 | Kajian silang PK/keberkesanan decitabine oral+cedazuridine (ASTX727) berbanding decitabine IV dalam MDS, CMML dan AML |
-| [NCT02907359](https://clinicaltrials.gov/study/NCT02907359) | Fasa 3 | Selesai | 417 | Guadecitabine berbanding pilihan rawatan dalam MDS/CMML selepas kegagalan azacitidine atau decitabine sebelumnya |
-| [NCT01928537](https://clinicaltrials.gov/study/NCT01928537) | Fasa 3 | Selesai | 67 | Rigosertib IV berbanding penjagaan standard dalam MDS dengan lebihan ledakan yang berkembang selepas azacitidine/decitabine |
-| [NCT02085408](https://clinicaltrials.gov/study/NCT02085408) | Fasa 3 | Selesai | 727 | Pemeliharaan decitabine berbanding pemerhatian selepas aruhan dalam pesakit AML berusia ≥60 |
-| [NCT00416598](https://clinicaltrials.gov/study/NCT00416598) | Fasa 2 | Selesai | 546 | Decitabine sebagai terapi pemeliharaan selepas aruhan standard dalam AML yang tidak dirawat sebelumnya (<60t) |
-| [NCT04655755](https://clinicaltrials.gov/study/NCT04655755) | Fasa 1/2 | Aktif, tidak merekrut | 52 | Venetoclax + decitabine oral/cedazuridine (ASTX727) dalam MDS/CMML berisiko tinggi yang tidak dirawati sebelumnya |
-| [NCT03404193](https://clinicaltrials.gov/study/NCT03404193) | Fasa 2 | Aktif, tidak merekrut | 235 | Venetoclax + decitabine 10 hari dalam AML diagnosis baru warga tua/relaps dan MDS berisiko tinggi |
-| [NCT06129734](https://clinicaltrials.gov/study/NCT06129734) | Fasa 1/2 | Merekrut | 20 | Decitabine dos rendah mingguan + venetoclax sebagai pemeliharaan selepas transplantasi alogenik dalam keganasan mieloid berisiko tinggi |
-| [NCT00903422](https://clinicaltrials.gov/study/NCT00903422) | Fasa 1 | Selesai | 98 | Eltrombopag untuk trombositopenia dalam MDS lanjutan/AML sekunder selepas MDS, relaps/tahan ubat kepada decitabine dan lain-lain |
-| [NCT01130506](https://clinicaltrials.gov/study/NCT01130506) | Fasa 1 | Selesai | 17 | Decitabine + vorinostat + cytarabine dalam AML atau MDS relaps/tahan ubat |
+| [NCT00416598](https://clinicaltrials.gov/study/NCT00416598) | Fasa 2 | Selesai | 546 | Terapi penyelenggaraan decitabine selepas induksi standard dan intensifikasi mengikut risiko sitogenetik pada pesakit AML <60 tahun yang belum dirawat; populasi merangkumi penyakit sekunder dan berkaitan terapi |
+| [NCT01420926](https://clinicaltrials.gov/study/NCT01420926) | Fasa 2 (rawak) | Selesai | 165 | Strategi induksi berasaskan decitabine, dengan atau tanpa bortezomib, pada pesakit AML berumur ≥60 tahun; populasi diperkaya dengan AML sekunder dan berkaitan terapi |
+| [NCT01130506](https://clinicaltrials.gov/study/NCT01130506) | Fasa 1 | Selesai | 17 | Keselamatan dan dos terbaik cytarabine bersama decitabine dan vorinostat pada AML/MDS yang kambuh atau tidak bertindak balas; menyokong kebolehlaksanaan gabungan |
+| [NCT05564390](https://clinicaltrials.gov/study/NCT05564390) | Fasa 2 | Sedang merekrut | 2000 | Protokol saringan induk MyeloMATCH NCI; platform saringan dan penugasan pesakit, bukan ujian keberkesanan decitabine, maka tiada bukti keberkesanan langsung |
 
-## Bukti Kesusasteraan
+---
+
+## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [38135371](https://pubmed.ncbi.nlm.nih.gov/38135371/) | 2024 | RCT Fasa 3 | Lancet Haematol | Ujian ASCERTAIN: decitabine-cedazuridine oral menunjukkan kesetaraan PK/keselamatan kepada decitabine IV dalam MDS/CMML |
-| [36702138](https://pubmed.ncbi.nlm.nih.gov/36702138/) | 2023 | RCT Fasa 3 | Lancet Haematol | Pengkondisian G-CSF + decitabine + Bu/Cy mengurangkan relaps berbanding Bu/Cy sahaja dalam MDS/AML sekunder pra-transplantasi |
-| [38452788](https://pubmed.ncbi.nlm.nih.gov/38452788/) | 2024 | Fasa 2 | Lancet Haematol | Decitabine-cedazuridine oral + venetoclax berkesan dan selamat dalam AML warga tua/tidak sesuai |
-| [40784355](https://pubmed.ncbi.nlm.nih.gov/40784355/) | 2025 | Fasa 2 | Lancet Haematol | Decitabine-cedazuridine oral sebagai pemeliharaan selepas HSCT mengurangkan relaps dalam AML/MDS berisiko sangat tinggi |
-| [38316133](https://pubmed.ncbi.nlm.nih.gov/38316133/) | 2024 | Fasa 1/2 | Lancet Haematol | Decitabine-cedazuridine oral + venetoclax aktif dan selamat dalam MDS/CMML berisiko lebih tinggi |
-| [26365212](https://pubmed.ncbi.nlm.nih.gov/26365212/) | 2016 | Fasa 2 | Leukemia | Decitabine + gemtuzumab ozogamicin dalam AML diagnosis baru dan relaps/MDS berisiko tinggi |
-| [36964818](https://pubmed.ncbi.nlm.nih.gov/36964818/) | 2023 | Ulasan sistematik / meta-analisis | Clin Exp Med | Meta-analisis rangkaian agen epigenetik (termasuk decitabine) untuk pesakit AML/MDS warga tua |
-| [37470508](https://pubmed.ncbi.nlm.nih.gov/37470508/) | 2023 | Ulasan | Expert Rev Anticancer Ther | Ulasan peralihan ke arah terapi agen hipometilasi oral dalam MDS/AML |
-| [19090005](https://pubmed.ncbi.nlm.nih.gov/19090005/) | 2009 | Siri kes | Cancer | AML/MDS berkaitan terapi yang berlaku dalam pesakit ALL yang dirawat sebelumnya dengan rejimen hyper-CVAD |
-| [35172484](https://pubmed.ncbi.nlm.nih.gov/35172484/) | 2017 | Laporan kes | JCO Precis Oncol | AML berkaitan rawatan mutasi BRAF diuruskan dengan decitabine sebelum terapi tersasaran |
+| [38135371](https://pubmed.ncbi.nlm.nih.gov/38135371/) | 2024 | RCT (Fasa 3) | The Lancet Haematology | Decitabine-cedazuridine oral berbanding decitabine intravena (ASCERTAIN) dalam MDS dan CMML; membandingkan keselamatan dan farmakokinetik |
+| [40784355](https://pubmed.ncbi.nlm.nih.gov/40784355/) | 2025 | Fasa 2 lengan tunggal | The Lancet Haematology | Decitabine-cedazuridine oral sebagai penyelenggaraan selepas pemindahan sel stem pada AML/MDS berisiko sangat tinggi |
+| [38452788](https://pubmed.ncbi.nlm.nih.gov/38452788/) | 2024 | Fasa 2 (kohort) | The Lancet Haematology | Decitabine-cedazuridine oral bersama venetoclax pada pesakit AML warga emas atau tidak layak |
+| [34185931](https://pubmed.ncbi.nlm.nih.gov/34185931/) | 2021 | Kohort | Cancer Science | Decitabine dos rendah bersama venetoclax selamat dan berkesan sebagai penyelenggaraan pasca-pemindahan pada AML/MDS berisiko tinggi |
+| [36706355](https://pubmed.ncbi.nlm.nih.gov/36706355/) | 2023 | Kohort | Blood | Mekanisme tindak balas dan rintangan terhadap gabungan decitabine dan ipilimumab dalam penyakit mieloid lanjut |
+| [41924907](https://pubmed.ncbi.nlm.nih.gov/41924907/) | 2026 | Kajian klinikal/ulasan | Haematologica | Decitabine metronomik intensiti rendah bersama venetoclax pada MDS dan AML bermutasi TP53 |
+| [37470508](https://pubmed.ncbi.nlm.nih.gov/37470508/) | 2023 | Ulasan | Expert Review of Anticancer Therapy | Terapi oral untuk MDS dan AML; HMA bersama venetoclax memperbaiki hasil tetapi tindak balas tidak tahan lama |
+| [18841054](https://pubmed.ncbi.nlm.nih.gov/18841054/) | 2008 | Ulasan | Current Opinion in Oncology | Ringkasan pengalaman klinikal agen penyahmetilan (azacitidine dan decitabine) dalam malignansi mieloid |
+| [16341238](https://pubmed.ncbi.nlm.nih.gov/16341238/) | 2005 | Ulasan | Nature Clinical Practice Oncology | Terapi gabungan perencat DNMT; monoterapi mempunyai kadar tindak balas lengkap/separa yang rendah (7-20%) |
+| [20511166](https://pubmed.ncbi.nlm.nih.gov/20511166/) | 2010 | Kajian kebolehlaksanaan | Clinical Lymphoma, Myeloma & Leukemia | Kebolehlaksanaan terapi agen penghipometilan pada pesakit insufisiensi renal |
 
-## Sitotoksisiti
+---
 
-Decitabine ialah agen inhibitor metiltransferase DNA analog nukleosida dan diklasifikasikan sebagai agen antineoplastik yang digunakan untuk keganasan hematologi (MDS/AML). Data toksisiti DrugBank/NPRA formal tidak tersedia dalam pakej bukti ini (lihat Pertimbangan Keselamatan), jadi jadual di bawah berdasarkan farmakologi umum dan kesusasteraan yang ditangkap di atas.
+## Pensijilan Kimia Sitotoksik
 
-| Item | Kandungan |
-|------|-----------|
-| Klasifikasi Sitotoksisiti | Sitotoksik konvensional — agen hipometilasi / inhibitor metiltransferase DNA (kelas analog nukleosida) |
-| Risiko Supresi Sumsum Tulang | Tinggi — neutropenia, trombositopenia dan anemia adalah kesan kelas yang terdokumen dengan baik; pakej bukti merangkumi kajian khusus tentang komplikasi jangkitan semasa kitaran decitabine (cth, PMID 29058375) dan pada jadual dos toksisiti berkurangan (cth, PMID 39316768) |
-| Klasifikasi Emetogenisiti | Rendah kepada sederhana |
-| Item Pemantauan | Kiraan sel darah putih dengan pembezaan, kiraan platelet, fungsi buah pinggang dan hepatik, pengawasan jangkitan |
-| Perlindungan Pengendalian | Mesti mematuhi peraturan pengendalian ubat sitotoksik/berbahaya |
+| Perkara | Kandungan |
+|------|------|
+| Klasifikasi Sitotoksisiti | Sitotoksik konvensional (analog nukleosida / agen penghipometilan, perencat DNA metiltransferase) |
+| Risiko Penyahan Sumsum Tulang | Tinggi (sitopenia berpanjangan dilaporkan, terutamanya apabila digabungkan dengan venetoclax) |
+| Klasifikasi Emetogenisiti | Rendah |
+| Perkara Pemantauan | Hitung darah lengkap (CBC) dengan pembezaan, fungsi hati dan buah pinggang |
+| Perlindungan Pengendalian | Perlu mematuhi peraturan pengendalian ubat sitotoksik |
+
+Maklumat toksisiti terperinci tidak terdapat dalam data yang dikumpulkan. Entri di atas berdasarkan pengetahuan am tentang kelas ubat ini, dan sila rujuk amaran serta langkah berjaga-jaga dalam sisipan pakej.
+
+---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk risalah kemasan untuk maklumat keselamatan. Pakej bukti ini menandai ketiadaan amaran kemasan NPRA, kontraindikasi, dan data interaksi ubat sebagai **Penyekat** jurang data (DG001), yang menghalang penilaian keselamatan awal (S1) untuk calon ini.
+- **Penyakit yang dikaitkan sebagai kontraindikasi dalam graf pengetahuan TxGNN** (bukan teks label rasmi): penyakit buah pinggang, piouretra, penyakit hati, penyakit pundi hempedu, trombositopenia, diabetes mellitus, ketoasidosis diabetik, neutropenia dan agranulositosis.
+- **Interaksi Ubat**: 100 interaksi direkodkan. Antara yang berperingkat **Major**: deferiprone, samarium (153Sm) lexidronam, adalimumab dan baricitinib. Antara yang berperingkat **Sederhana**: mercaptopurine, gemcitabine, zidovudine, ganciclovir, azathioprine, alemtuzumab, aldesleukin, anakinra, roflumilast, chloramphenicol, palifermin, strontium chloride Sr-89 dan beberapa vaksin.
+
+Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi rasmi.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Proceed with Guardrails**
 
-**Alasan:**
-- Decitabine mempunyai sokongan mekanistik yang kuat dan bukti ujian klinikal merentas spektrum penyakit MDS/AML yang lebih luas, di mana AML/MDS berkaitan terapi adalah subset yang dikenali — tetapi **Penyekat** jurang data (amaran/kontraindikasi NPRA yang hilang, DG001) menghalang penyelesaian penilaian keselamatan awal, jadi tiada keputusan kemajuan boleh dibuat lagi.
+**Justifikasi:**
+- Terdapat dua ujian Fasa 2 yang telah selesai (NCT00416598 dan NCT01420926) dengan populasi yang merangkumi AML sekunder dan berkaitan terapi, dan decitabine sudah mantap dalam MDS serta AML pada pesakit tidak layak kemoterapi intensif. Namun, tiada bukti khusus untuk subjenis berkaitan terapi, dan tiada ujian Fasa 3 yang selesai untuk indikasi ini.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Risalah kemasan NPRA (amaran, kontraindikasi) — muat turun dan huraikan mengikut pemulihan DG001
-- Data mekanisme tindakan DrugBank untuk secara formal menyokong rasional mekanistik (DG002)
-- Teks petunjuk yang diluluskan khusus Malaysia dan butiran lesen (pada masa ini kosong merentasi semua 6 pendaftaran)
-- Pengesahan sama ada bukti ujian/kesusasteraan sedia ada secara khusus menangani subtipe AML/MDS berkaitan terapi, berbanding populasi MDS/AML umum
-
+- Sisipan pakej NPRA untuk amaran dan kontraindikasi (kini tiada; perkara ini menghalang saringan keselamatan lanjut)
+- Data mekanisme tindakan (MOA) terperinci daripada DrugBank
+- Memandangkan decitabine belum didaftarkan di Malaysia (0 pendaftaran), laluan pendaftaran atau akses perlu dijelaskan
+- Data klinikal khusus untuk AML/MDS berkaitan terapi
+- Pelan pemantauan miolosupresi dan semakan interaksi ubat, memandangkan bilangan interaksi yang tinggi
+- Pengesahan skor ramalan TxGNN, kerana nilai 0.00% yang tercatat perlu disahkan
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

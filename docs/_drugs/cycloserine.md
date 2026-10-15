@@ -2,7 +2,7 @@
 layout: default
 title: Cycloserine
 parent: Low Evidence (L4-L5)
-nav_order: 241
+nav_order: 246
 evidence_level: L5
 indication_count: 7
 ---
@@ -29,63 +29,95 @@ Tahap bukti: **L5** | Indikasi diramal: **7**
 
 </div>
 
-# Cycloserine: Daripada Tuberkulosis kepada Sindrom Usus Iritabel
+# Cycloserine: Daripada Tuberkulosis Pulmonari kepada Sindrom Usus Besar Terangsang (Irritable Bowel Syndrome)
 
 ## Ringkasan Satu Ayat
 
-Cycloserine ialah agen anti-tuberkulosis baris kedua yang menghalangi alanine racemase/D-alanine ligase dan juga bertindak sebagai agonis separa di tapak glisin reseptor NMDA. Model TxGNN meramalkan ia mungkin berkesan untuk **Sindrom Usus Iritabel (IBS)**, tetapi ramalan ini kini disokong oleh **0 ujian klinikal** dan **0 penerbitan** — ia bergantung sepenuhnya pada kesamaan graf-pengetahuan daripada bukti langsung.
+Cycloserine ialah ubat anti-tuberkulosis lini kedua yang pada asalnya digunakan untuk merawat tuberkulosis pulmonari.
+Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom usus besar terangsang (IBS)**, tetapi setakat ini **tiada ujian klinikal** dan **tiada penerbitan** yang menyokong arah ini, dan ramalan ini hanyalah ramalan model komputer.
+
+---
 
 ## Gambaran Keseluruhan Pantas
 
-| Item | Kandungan |
-|------|----------|
-| Petunjuk Asal | Tuberculosis (agen anti-TB baris kedua) — tiada teks petunjuk TFDA formal yang telah diekstrak dalam pakej bukti ini |
-| Petunjuk Baru yang Diramalkan | Sindrom Usus Iritabel |
-| Skor Ramalan TxGNN | 99.95% (ranking graf 1184) |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Tuberkulosis pulmonari |
+| Indikasi Baharu yang Diramalkan | Sindrom usus besar terangsang (irritable bowel syndrome) |
+| Skor Ramalan TxGNN | 99.95% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 1 |
-| Keputusan Disyorkan | Tahan |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme-tindakan terperinci tidak dikembalikan oleh DrugBank dalam pakej bukti ini (ditandakan sebagai jurang data berat). Berdasarkan nota mekanistik yang ditangkap bersama ramalan, cycloserine menghalangi alanine racemase dan D-alanine ligase — enzim yang digunakan bakteri untuk sintesis dinding sel — yang mendasari kesan anti-tuberkulosisnya. Ia juga mempunyai tindakan sampingan luar sasaran sebagai agonis separa di tapak glisin reseptor NMDA, sifat yang lebih umum dibincangkan dalam profil toksisiti SSP daripada dalam sebarang konteks terapeutik.
+Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat sedia ada, cycloserine ialah analog D-alanina yang merencat sintesis dinding sel bakteria, dan juga agonis separa pada tapak glisina reseptor NMDA. Keberkesanannya dalam tuberkulosis pulmonari telah diketahui.
 
-Tuberkulosis dan IBS ialah keadaan yang tidak berkaitan dengan tiada sistem organ bersama atau pautan farmakologi yang ditubuhkan. Jambatan teori yang mungkin dilakukan TxGNN ialah paksi usus-otak, di mana isyarat reseptor NMDA/glutamat mempunyai beberapa peranan dalam hipersensitiviti viseral dan regulasi motiliti usus. Namun, ini hanyalah hipotesis mekanistik sahaja — tiada kajian langsung telah mengkaji kesan cycloserine terhadap motiliti usus atau rasa sakit viseral, dan sambungan harus diperlakukan sebagai kesamaan embedding graf yang boleh disiasat daripada nisbah farmakologi yang disahkan.
+Walau bagaimanapun, data yang dikumpulkan untuk laporan ini tidak menunjukkan sebarang kaitan mekanistik antara cycloserine dengan patofisiologi IBS. Skor TxGNN yang tinggi (0.9995) merupakan ramalan pengiraan sahaja dan tidak boleh dianggap sebagai bukti klinikal.
 
-Memandangkan toksisiti SSP cycloserine yang didokumenkan dengan baik (sawan, simptom psikiatri) pada dos yang digunakan untuk rawatan TB, sebarang penerokaan petunjuk ini perlu menangani kalkulus faedah risiko yang berbeza secara asas daripada penggunaan semasanya dalam penyakit jangkitan yang serius.
+---
 
 ## Bukti Ujian Klinikal
 
-Tiada ujian klinikal berkaitan yang didaftarkan pada masa kini.
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
+
+---
 
 ## Bukti Literatur
 
-Tiada literatur berkaitan tersedia pada masa kini.
+Pada masa ini tiada literatur berkaitan yang tersedia.
+
+---
 
 ## Maklumat Pasaran Malaysia
 
-Rekod pendaftaran wujud (1 lesen pada fail), tetapi nama produk, bentuk dos, pengilang, dan teks petunjuk diluluskan tidak diisi dalam pakej bukti ini — medan ini perlu diekstrak semula daripada daftar sumber sebelum butiran pasaran dapat dilaporkan.
+Cycloserine pada masa ini tidak dipasarkan di Malaysia dan tiada lesen berdaftar.
+
+---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
+**Penyakit yang dikenal pasti sebagai kontraindikasi dalam graf pengetahuan** (bukan daripada teks label produk):
+epilepsi, gangguan kebimbangan, gangguan neurotik, gangguan distimik, penyakit buah pinggang, piouretra, gangguan psikotik, gangguan skizofreniform, gangguan mental, gangguan skizoafektif, penyalahgunaan/kebergantungan bahan, kekurangan vitamin B12, anemia megaloblastik, dan anemia sideroblastik.
 
-*(Nota: data amaran dan kontraindikasi untuk cycloserine tidak tersedia daripada TFDA dalam pakej bukti ini — ini ditandakan sebagai jurang Menyekat dan mesti diselesaikan sebelum sebarang penilaian keselamatan klinikal dapat diteruskan.)*
+**Interaksi Ubat** (11 interaksi dikesan):
+- **Major**: Bupropion, Ethanol, Iohexol, Iopamidol
+- **Moderate**: Picosulfuric acid, Polyethylene glycol (3350 dengan elektrolit), Sodium sulfate, Caffeine, Dicoumarol, Warfarin, Lindane
+
+Untuk amaran utama dan kontraindikasi daripada sisipan pakej, sila rujuk sisipan pakej.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
-**Rasional:**
-Ramalan disokong hanya oleh skor embedding graf TxGNN (L5) tanpa ujian klinikal, tanpa literatur, dan tanpa kajian mekanistik yang mengaitkan secara langsung cycloserine kepada IBS. Digabungkan dengan jurang Menyekat pada amaran/kontraindikasi TFDA, belum ada maklumat yang mencukupi untuk menggerakkan calon ini melampaui saringan awal.
+**Justifikasi:**
+- Ramalan untuk IBS tidak disokong oleh sebarang ujian klinikal, penerbitan atau kaitan mekanistik (Tahap Bukti L5). Selain itu, profil keselamatan cycloserine, terutamanya kesan sistem saraf pusat dan psikiatri, serta senarai kontraindikasi yang luas, menimbulkan kebimbangan untuk keadaan bukan mengancam nyawa seperti IBS.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Sisipan pakej TFDA (amaran, kontraindikasi) untuk menutup jurang keselamatan Menyekat
-- Mekanisme tindakan yang disahkan DrugBank untuk mengesahkan hipotesis paksi usus-otak
-- Kajian praklinikal atau mekanistik tentang kesan cycloserine terhadap motiliti usus/sensitiviti viseral
-- Penilaian semula faedah risiko memandangkan profil toksisiti SSP cycloserine yang diketahui berbanding IBS sebagai keadaan bukan mengancam nyawa
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) yang terperinci dan hubungan mekanistik yang munasabah dengan patofisiologi IBS
+- Kajian praklinikal atau klinikal awal yang menyokong keberkesanan dalam IBS
+- Amaran dan kontraindikasi daripada sisipan pakej (NPRA), serta penilaian nisbah manfaat-risiko untuk indikasi bukan mengancam nyawa
+- Pertimbangan status pendaftaran, memandangkan ubat ini tidak dipasarkan di Malaysia
 
+---
+
+## Nota Tambahan: Ramalan Lain
+
+Indikasi lain yang diramalkan juga hanya berada pada Tahap Bukti L5 dengan keputusan **Hold**:
+
+| Indikasi yang Diramalkan | Skor TxGNN | Catatan |
+|------|------|------|
+| Jerawat (acne) | 99.91% | Tiada bukti; rasional antibakteria hanya spekulatif |
+| Gastroparesis | 99.66% | Tiada bukti mekanistik atau klinikal |
+| Konjunktivitis | 99.27% | Hanya satu ulasan tahun 1963 tanpa data khusus cycloserine; ubat sistemik kurang sesuai sebagai anti-infeksi mata |
+| Insomnia | 99.21% | Literatur menunjukkan cycloserine **menyebabkan** insomnia dan psikosis (laporan kes 2022); ini isyarat keselamatan, bukan isyarat penggunaan semula |
+| Faringitis | 99.01% | Tiada bukti; profil keselamatan kurang sesuai untuk keadaan yang lazimnya sembuh sendiri |
+| Penyakit rongga hidung | 99.01% | Satu laporan kes rinosporidiosis yang tidak menunjukkan keberkesanan cycloserine |
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

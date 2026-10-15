@@ -2,15 +2,15 @@
 layout: default
 title: Fludarabine
 parent: Low Evidence (L4-L5)
-nav_order: 348
-evidence_level: L4
+nav_order: 361
+evidence_level: L5
 indication_count: 10
 ---
 
 # Fludarabine
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,101 +29,128 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Fludarabine: Dari B-Cell Chronic Lymphocytic Leukemia ke Plasma Cell Myeloma
+# Fludarabine: Daripada Indikasi Asal (Tiada Data) kepada Plasma Cell Myeloma
 
 ## Ringkasan Satu Ayat
 
-Fludarabine adalah analog nukleosida purin yang secara historis digunakan melawan B-cell chronic lymphocytic leukemia (CLL) dan keganasan B-cell indolen terkait (teks indikasi khusus regulasi tidak dikembalikan dalam pengambilan data ini; framing ini diambil dari literatur sekitarnya).
-Model TxGNN memprediksi bahwa ini mungkin efektif untuk **Plasma Cell Myeloma**, dengan **0 uji klinis** dan **20 publikasi** yang saat ini terkait dengan pasangan ini — tetapi sebagian besar literatur tersebut menggambarkan peran fludarabine sebagai agen lymphodepleting/transplant-conditioning daripada pengobatan antimyeloma langsung.
+Data indikasi asal Fludarabine tidak tersedia dalam data yang dikompilasi untuk laporan ini kerana tiada lesen NPRA direkodkan. Secara umum, ia ialah analog nukleosida purina yang digunakan dalam keganasan hematologi.
+Model TxGNN meramalkan ia mungkin berkesan untuk **Plasma Cell Myeloma** (multipel mieloma), dengan **30 percubaan klinikal** dan **20 penerbitan** dikaitkan dengan hala tuju ini. Peranannya terutamanya sokongan (lymphodepletion dan penyaman pemindahan), bukan terapi anti-mieloma kendiri.
 
 ---
 
-## Tinjauan Cepat
+## Gambaran Ringkas
 
-| Item | Isi |
-|------|-----|
-| Indikasi Asli | Tidak ditentukan dalam data regulasi yang disediakan; konteks literatur menunjukkan B-cell chronic lymphocytic leukemia (CLL) dan keganasan limfoid indolen terkait |
-| Indikasi Baru yang Diprediksi | Plasma Cell Myeloma |
-| Skor Prediksi TxGNN | 99.82% |
-| Tingkat Bukti | L4 |
-| Status Pasar Malaysia | Dipasarkan (Marketed) |
-| Jumlah Registrasi | 2 |
-| Keputusan yang Direkomendasikan | Tahan |
-
----
-
-## Mengapa Prediksi Ini Masuk Akal?
-
-Saat ini, data mekanisme tindakan terperinci tidak tersedia untuk Fludarabine dalam paket bukti ini (`original_moa: [Data Gap]`). Berdasarkan literatur sekitarnya, fludarabine adalah analog nukleosida purin yang menghambat DNA polymerase dan ribonucleotide reductase, menghasilkan efek sitostatik dan imunosupresif/lymphodepleting yang mendalam. Properti ganda ini adalah yang menghubungkannya dengan plasma cell myeloma dalam grafik pengetahuan TxGNN: fludarabine adalah komponen inti regimen reduced-intensity conditioning (RIC) sebelum transplantasi stem sel allogenik dan regimen lymphodepletion sebelum infusi CAR-T BCMA/CD19 — keduanya digunakan pada multiple myeloma relapsed/refractory.
-
-Namun, peringkat relevansi paket bukti itu sendiri jujur tentang keterbatasan: dalam hampir semua 20 publikasi terkait, fludarabine muncul sebagai agen imunosupresif/conditioning adjunktif yang memungkinkan engraftment transplantasi atau CAR-T, bukan sebagai terapi antimyeloma langsung dalam haknya sendiri. Hanya satu studi — laporan in vitro/in vivo tahun 2007 (PMID 17976186) — secara langsung menguji aktivitas sitostatik fludarabine terhadap sel myeloma, menunjukkan hambatan pertumbuhan sel myeloma RPMI8226 melalui pensinyalan Akt/NF-κB yang berkurang. Tidak ada uji klinis dalam dataset ini yang dirancang untuk menguji fludarabine sebagai agen antimyeloma mandiri atau kombinasi. Hubungan mekanistik oleh karena itu masuk akal tetapi tidak langsung, dan skor kesamaan tinggi model kemungkinan mencerminkan co-occurrence padat fludarabine dengan myeloma dalam konteks transplantasi/CAR-T daripada efek farmakologis langsung yang divalidasi.
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Tiada data (tiada lesen NPRA direkodkan) |
+| Indikasi Baharu yang Diramalkan | Plasma cell myeloma |
+| Skor Ramalan TxGNN | 99.82% |
+| Tahap Bukti | L1 (mengikut penilaian dalam data; perlu diingat bukti ini datang daripada regimen penyaman/lymphodepletion, bukan Fludarabine sebagai pemboleh ubah yang diuji) |
+| Status Pasaran Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Pagar Pengadang) |
 
 ---
 
-## Bukti Uji Klinis
+## Mengapa Ramalan Ini Munasabah?
 
-Saat ini tidak ada uji klinis terkait yang terdaftar (0 uji klinis dikembalikan untuk kueri Fludarabine × Plasma Cell Myeloma; lihat id `query_log` 3–4).
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, Fludarabine ialah analog nukleosida purina yang menghalang sintesis DNA dan mendorong apoptosis dalam sel limfoid.
+
+Dalam mieloma, Fludarabine digunakan terutamanya sebagai agen lymphodepletion (bersama siklofosfamid) sebelum infusi CAR-T BCMA, dan sebagai komponen penyaman keamatan terkurang untuk pemindahan alogenik. Kajian praklinikal juga menunjukkan aktiviti antitumor langsung terhadap sel mieloma (PMID 17976186, dalam data indikasi berkaitan mieloma indolen).
+
+Oleh itu, peranannya ialah sokongan dan berasaskan penyaman, bukan terapi anti-mieloma berdiri sendiri. Ini perlu diambil kira ketika mentafsir skor ramalan yang tinggi.
+
+---
+
+## Bukti Percubaan Klinikal
+
+Berikut ialah 10 percubaan yang paling relevan (daripada 30 yang direkodkan). Fludarabine biasanya merupakan komponen regimen, bukan pemboleh ubah yang diuji.
+
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
+|---------|------|------|------|---------|
+| [NCT03303950](https://clinicaltrials.gov/study/NCT03303950) | Fasa 2 | Ditamatkan | 6 | Busulfan, fludarabine, pemindahan sel stem penderma dan siklofosfamid dalam mieloma/mielofibrosis; kuasa statistik rendah |
+| [NCT06045806](https://clinicaltrials.gov/study/NCT06045806) | Fasa 3 | Aktif, tidak merekrut | 79 | Ide-cel + lenalidomid vs lenalidomid sahaja (KarMMa-9); fludarabine sebagai lymphodepletion |
+| [NCT07764978](https://clinicaltrials.gov/study/NCT07764978) | Fasa 3 | Merekrut | 750 | Penyatuan CAR-T BCMA/CD19 (AZD0120) dalam NDMM; belum ada data keberkesanan |
+| [NCT06413498](https://clinicaltrials.gov/study/NCT06413498) | Fasa 3 | Aktif, tidak merekrut | 452 | Anitocabtagene autoleucel vs terapi standard dalam RRMM |
+| [NCT01658319](https://clinicaltrials.gov/study/NCT01658319) | Fasa 1 | Selesai | 20 | Fludarabine + methoxyamine (TRC102) dalam keganasan hematologi relaps/refraktori |
+| [NCT01008462](https://clinicaltrials.gov/study/NCT01008462) | Fasa 2 | Selesai | 16 | HCT autologus berurutan/alogenik nonmieloablatif dengan penyaman mengandungi fludarabine |
+| [NCT00309842](https://clinicaltrials.gov/study/NCT00309842) | Fasa 2 | Selesai | 213 | Pemindahan darah tali pusat dengan Cy/Flu/TBI; data khusus mieloma hanya subset kecil |
+| [NCT03093168](https://clinicaltrials.gov/study/NCT03093168) | Fasa 1 | Tidak diketahui | 10 | Sel T BCMA; fludarabine hanya komponen lymphodepletion |
+| [NCT05577000](https://clinicaltrials.gov/study/NCT05577000) | Fasa 1b | Aktif, tidak merekrut | 5 | CAR-T anti-BCMA dalam RRMM; sampel sangat kecil |
+| [NCT00014508](https://clinicaltrials.gov/study/NCT00014508) | Fasa 2 | Selesai | Tiada data | Pemindahan autologus diikuti mini-alogenik dalam mieloma |
 
 ---
 
 ## Bukti Literatur
 
-| PMID | Tahun | Jenis | Jurnal | Temuan Kunci |
-|------|-------|------|--------|---------|
-| [17976186](https://pubmed.ncbi.nlm.nih.gov/17976186/) | 2007 | Preklinik (in vitro/in vivo) | European Journal of Haematology | Fludarabine secara langsung menghambat pertumbuhan sel myeloma RPMI8226, dengan fosforilasi Akt yang berkurang — satu-satunya bukti langsung sitostatik antimyeloma intrinsik dalam dataset ini |
-| [7781758](https://pubmed.ncbi.nlm.nih.gov/7781758/) | 1995 | Laporan awal | European Journal of Haematology | Deskripsi klinis awal aktivitas fludarabine dalam plasma cell leukemia, entitas yang terkait dengan myeloma |
-| [38483213](https://pubmed.ncbi.nlm.nih.gov/38483213/) | 2024 | Phase 1 (Cohort) | American Journal of Clinical Oncology | Bortezomib + fludarabine + melphalan (± total marrow irradiation) sebagai conditioning allogeneic HSCT untuk myeloma berisiko tinggi/relapsed — fludarabine digunakan sebagai conditioning imunosupresif, bukan agen antitumor mandiri |
-| [37833271](https://pubmed.ncbi.nlm.nih.gov/37833271/) | 2023 | Cohort | Blood Cancer Journal | Dibandingkan bendamustine vs. fludarabine/cyclophosphamide lymphodepletion sebelum BCMA CAR-T pada multiple myeloma — peran fludarabine terbatas pada lymphodepletion pre-CAR-T |
-| [37701906](https://pubmed.ncbi.nlm.nih.gov/37701906/) | 2023 | Phase 2 (cohort kecil) | Leukemia Research Reports | Split-dose busulfan/fludarabine/cyclophosphamide sebagai conditioning allogeneic SCT untuk myeloma dan myelofibrosis (2 pasien MM terdaftar) |
-| [17310135](https://pubmed.ncbi.nlm.nih.gov/17310135/) | 2007 | Cohort retrospektif | Bone Marrow Transplantation | Fludarabine + treosulfan reduced-toxicity conditioning sebelum allogeneic SCT pada 34 pasien myeloma |
-| [33784005](https://pubmed.ncbi.nlm.nih.gov/33784005/) | 2021 | Phase 1 | Clinical and Translational Medicine | Anti-BCMA CAR-T pada MM relapsed/refractory dan plasma cell leukemia; fludarabine/cyclophosphamide digunakan untuk lymphodepletion sebelum infusi CAR-T |
-| [39365257](https://pubmed.ncbi.nlm.nih.gov/39365257/) | 2025 | Cohort | Blood | Hasil standar perawatan dengan ciltacabtagene autoleucel (cilta-cel) pada R/R MM di 16 pusat AS; conditioning berbasis fludarabine biasanya mendahului infusi CAR-T |
-| [36690811](https://pubmed.ncbi.nlm.nih.gov/36690811/) | 2023 | Phase 1 | Nature Medicine | Uji klinis first-in-human Phase 1 UNIVERSAL dari anti-BCMA CAR-T allogeneic (ALLO-715) pada R/R MM mengikuti conditioning lymphodepletion |
-| [31058154](https://pubmed.ncbi.nlm.nih.gov/31058154/) | 2019 | Tinjauan | Frontiers in Medicine | Tinjauan pencitraan [18F]-fludarabine PET untuk pementasan keganasan hematologi — aplikasi pencitraan diagnostik, bukan terapi |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [38659046](https://pubmed.ncbi.nlm.nih.gov/38659046/) | 2024 | Kohort | J Hematol Oncol | Susulan 5 tahun LEGEND-2: remisi dan survival jangka panjang selepas CAR-T LCAR-B38M dalam RRMM |
+| [39365257](https://pubmed.ncbi.nlm.nih.gov/39365257/) | 2025 | Kohort | Blood | Cilta-cel dalam amalan standard (236 pesakit) untuk RRMM |
+| [35333600](https://pubmed.ncbi.nlm.nih.gov/35333600/) | 2022 | Kohort | J Clin Oncol | Susulan jangka panjang CAR-T BCMA + CD19 dalam mieloma |
+| [40972962](https://pubmed.ncbi.nlm.nih.gov/40972962/) | 2025 | Pemerhatian | Transplant Cell Ther | Pendedahan lymphodepletion Fludarabine dikaitkan dengan ketoksikan selepas ide-cel |
+| [38483213](https://pubmed.ncbi.nlm.nih.gov/38483213/) | 2024 | Fasa 1 | Am J Clin Oncol | Bortezomib, fludarabine, melphalan ± penyinaran sumsum total sebagai penyaman alo-HSCT |
+| [17310135](https://pubmed.ncbi.nlm.nih.gov/17310135/) | 2007 | Kohort retrospektif | Bone Marrow Transplant | Penyaman fludarabine + treosulfan sebelum alo-SCT dalam mieloma (34 pesakit) |
+| [37701906](https://pubmed.ncbi.nlm.nih.gov/37701906/) | 2023 | Fasa 2 | Leuk Res Rep | Busulfan dos terbahagi, fludarabine dan siklofosfamid; 6 pesakit, kematian bukan relaps 33.3% |
+| [7781758](https://pubmed.ncbi.nlm.nih.gov/7781758/) | 1995 | Laporan | Eur J Haematol | Fludarabine dan leukemia sel plasma |
+| [33784005](https://pubmed.ncbi.nlm.nih.gov/33784005/) | 2021 | Fasa 1 | Clin Transl Med | CAR-T anti-BCMA dalam RRMM dan leukemia sel plasma |
+| [38576761](https://pubmed.ncbi.nlm.nih.gov/38576761/) | 2024 | Ulasan | World J Transplant | Regimen penyaman HSCT autologus dan terapi CAR-T |
 
 ---
 
-## Informasi Pasar Malaysia
+## Maklumat Pasaran Malaysia
 
-Catatan NPRA Malaysia mengkonfirmasi **2 registrasi dipasarkan** untuk Fludarabine (status pasar: Marketed/Marketed), tetapi nomor otorisasi, nama produk, bentuk dosis, dan teks indikasi yang disetujui untuk registrasi ini tidak dikembalikan dalam pengambilan data ini — kedua catatan lisensi dalam paket bukti berisi bidang kosong.
+Fludarabine kini tidak dipasarkan di Malaysia, dan tiada lesen NPRA direkodkan dalam data yang dikompilasi untuk laporan ini.
 
 ---
 
-## Sitotoksisitas
+## Sitotoksisiti
 
-Fludarabine adalah agen kemoterapi sitotoksik konvensional (antimetabolit analog nukleosida purin), sehingga bagian ini berlaku.
+| Perkara | Kandungan |
+|------|------|
+| Klasifikasi Sitotoksisiti | Sitotoksik konvensional (analog nukleosida purina / antimetabolit) |
+| Risiko Mielosupresi | Tinggi (diketahui menyebabkan mielosupresi bererti; sila rujuk sisipan pakej untuk butiran) |
+| Klasifikasi Emetogenisiti | Rendah hingga sederhana |
+| Item Pemantauan | CBC dengan pembezaan, fungsi hati dan buah pinggang |
+| Perlindungan Pengendalian | Perlu mematuhi peraturan pengendalian ubat sitotoksik |
 
-| Item | Isi |
-|------|-----|
-| Klasifikasi Sitotoksisitas | Sitotoksik konvensional (analog nukleosida purin / antimetabolit) |
-| Risiko Myelosuppression | Silakan lihat peringatan dan tindakan pencegahan dalam leaflet kemasan |
-| Klasifikasi Emetogenisitas | Silakan lihat peringatan dan tindakan pencegahan dalam leaflet kemasan |
-| Item Pemantauan | Silakan lihat peringatan dan tindakan pencegahan dalam leaflet kemasan |
-| Perlindungan Penanganan | Harus ditangani sesuai protokol penanganan obat sitotoksik/berbahaya institusional |
+Nota: Fludarabine dikumuhkan melalui buah pinggang, dan neurotoksisiti dilaporkan pada dos tinggi (PMID 7525188). Maklumat sitotoksisiti di atas berdasarkan klasifikasi am ubat; sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pakej.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Silakan lihat leaflet kemasan untuk informasi keselamatan. Data peringatan kunci, kontraindikasi, dan interaksi obat tidak tersedia dalam paket bukti ini (kueri DDI mengembalikan tidak ada hasil), dan peringatan label TFDA/NPRA ditandai sebagai **Blocking** kesenjangan data (DG001) yang harus diselesaikan sebelum evaluasi keselamatan apa pun (S1) dapat dilanjutkan.
+**Interaksi Ubat** (pangkalan data DDInter, 100 interaksi direkodkan; contoh utama):
+- **Sederhana**: Metronidazole, Rosuvastatin, Simvastatin, Tinidazole
+- **Kecil**: Levofloxacin
+- **Tahap tidak diketahui**: Doxycycline, Clotrimazole, Cimetidine, Amphotericin B, Dolasetron, Famotidine, Acetylsalicylic acid, Amoxicillin, Pantoprazole, Glimepiride, Morphine, Metformin, Omeprazole, Sucralfate, Palonosetron
+
+Sila rujuk sisipan pakej untuk amaran utama dan kontraindikasi.
 
 ---
 
-## Kesimpulan dan Langkah Selanjutnya
+## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Proceed with Guardrails**
 
-**Alasan:**
-Prediksi plasma cell myeloma didukung hanya oleh bukti tidak langsung — peran fludarabine yang sudah ditetapkan sebagai agen lymphodepletion/conditioning untuk prosedur transplantasi dan CAR-T pada myeloma, ditambah satu studi preklinik tahun 2007 yang menunjukkan aktivitas antitumor langsung. Tidak ada uji klinis dalam dataset ini yang menguji fludarabine sebagai terapi antimyeloma, dan kesenjangan data keselamatan pemblokiran (DG001 — peringatan label TFDA/NPRA dan kontraindikasi) mencegah kemajuan apa pun ke tinjauan keselamatan.
+**Justifikasi:**
+- Banyak percubaan (termasuk Fasa 3 CAR-T) dan literatur menyokong penggunaan Fludarabine dalam regimen lymphodepletion dan penyaman untuk mieloma. Walau bagaimanapun, ia ialah komponen sokongan, bukan terapi anti-mieloma berdiri sendiri, dan tiada percubaan yang menguji Fludarabine sebagai pemboleh ubah utama.
+- Ubat ini tidak dipasarkan di Malaysia dan data keselamatan tempatan belum tersedia.
 
-**Untuk melanjutkan, berikut ini diperlukan:**
-- Label produk TFDA/NPRA (peringatan, kontraindikasi) untuk menyelesaikan DG001 sebelum evaluasi S1 keselamatan apa pun
-- Data mekanisme tindakan yang dikonfirmasi (DG002) melalui DrugBank untuk mengklarifikasi apakah aktivitas antimyeloma fludarabine adalah efek farmakologis asli atau artefak dari co-occurrence agen conditioning-nya
-- Studi yang secara khusus menguji fludarabine (sendiri atau dalam kombinasi) sebagai agen antimyeloma, daripada sebagai conditioning transplantasi/CAR-T
-- Catatan lisensi Malaysia lengkap (nomor otorisasi, nama produk, bentuk dosis, teks indikasi yang disetujui) untuk 2 produk terdaftar
+**Untuk meneruskan, perlu dilengkapkan:**
+- Sisipan pakej NPRA (amaran dan kontraindikasi), yang menghalang saringan keselamatan
+- Data mekanisme tindakan (MOA) terperinci
+- Pelan pemantauan keselamatan (mielosupresi, neurotoksisiti, fungsi buah pinggang)
+- Pengesahan laluan pendaftaran/bekalan di Malaysia kerana tiada produk berdaftar
 
-**Catatan:** dalam set prediksi obat yang sama, dua kandidat lainnya membawa bukti yang secara material lebih kuat — myelodysplastic syndrome (peringkat 7: L1, tahap keputusan S3, "Lanjutkan dengan Safeguards") dan indolent plasma cell myeloma (peringkat 4: L2, tahap keputusan S2, "Lanjutkan dengan Safeguards") — dan dapat memerlukan evaluasi terpisah dan khusus.
+---
 
+### Nota Tambahan: Ramalan Lain
+
+Beberapa ramalan lain turut dinilai:
+- **Mielodisplastik sindrom (MDS)**: L1, Proceed with Guardrails. Fludarabine ialah tulang belakang penyaman keamatan terkurang sebelum alo-HCT, disokong oleh data rawak Fasa 3 (contohnya PMID 31606445). Ia digunakan sebagai komponen penyaman, bukan terapi terarah penyakit.
+- **Plasma cell myeloma indolen**: L1, Research Question. Bukti Fasa 3 datang daripada populasi hematologi campuran.
+- **Hipertiroidisme, diabetik nefropati dan penyakit genetik jarang**: L5, Hold. Tiada hubungan mekanistik yang munasabah dikenal pasti, dan skor tinggi kemungkinan artifak model.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

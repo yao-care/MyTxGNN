@@ -2,15 +2,15 @@
 layout: default
 title: Itraconazole
 parent: Low Evidence (L4-L5)
-nav_order: 417
-evidence_level: L4
+nav_order: 436
+evidence_level: L5
 indication_count: 1
 ---
 
 # Itraconazole
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **1** 
+Tahap bukti: **L5** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,86 +29,78 @@ Tahap bukti: **L4** | Indikasi diramal: **1**
 
 </div>
 
-# Itraconazole: Daripada Jangkitan Kulat Sistemik kepada Pneumocystosis
+# Itraconazole: Daripada Jangkitan Kulat kepada Pneumocystosis
 
 ## Ringkasan Satu Ayat
 
-Itraconazole ialah antifungal triazol, yang secara klasik digunakan untuk merawat jangkitan kulat sistemik (cth., aspergillosis, histoplasmosis, candidiasis) pada pesakit imunokompromis. Model TxGNN meramalkan ia mungkin berkesan untuk **Pneumocystosis (pneumonia Pneumocystis)**, dengan **0 percubaan klinikal** dan **20 penerbitan** yang dikenal pasti pada masa kini — meskipun literatur itu sendiri mengandungi amaran yang ketara terhadap ramalan ini (lihat di bawah).
+Itraconazole ialah ubat antikulat kumpulan azol yang pada asalnya digunakan untuk merawat pelbagai jangkitan kulat seperti kandidiasis esofagus, histoplasmosis, aspergillosis, blastomikosis dan sporotrikosis.
+Model TxGNN meramalkan ia mungkin berkesan untuk **pneumocystosis**,
+namun data yang dikumpulkan untuk laporan ini mencatatkan **0 percubaan klinikal** dan **20 penerbitan** yang kebanyakannya ulasan umum, tanpa bukti langsung untuk arah ini.
 
 ---
 
-## Gambaran Keseluruhan Cepat
+## Gambaran Keseluruhan Ringkas
 
 | Perkara | Kandungan |
-|---------|----------|
-| Petunjuk Asal | Tidak tersedia dalam data sumber (teks label TFDA/NPRA belum dikumpul — DG001). Itraconazole secara umumnya dikenali sebagai antifungal triazol spektrum luas untuk jangkitan kulat sistemik. |
-| Petunjuk Baru yang Diramalkan | Pneumocystosis |
+|------|------|
+| Indikasi Asal | Jangkitan kulat (kandidiasis esofagus, kandidemia, histoplasmosis, aspergillosis, blastomikosis, sporotrikosis, dll.) |
+| Indikasi Baharu yang Diramal | Pneumocystosis |
 | Skor Ramalan TxGNN | 99.34% |
-| Tahap Bukti | L4 |
-| Status Pasaran Malaysia | ✓ Marketed (Marketed) |
-| Bilangan Pendaftaran | 8 |
-| Keputusan yang Disyorkan | Hold |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa kini, data mekanisme tindakan yang terperinci tidak tersedia (DG002). Berdasarkan pengetahuan farmakoloji umum, itraconazole ialah antifungal kelas triazol yang menghalang fungal sitokrom P450-bergantung 14α-demethylase, menghalang sintesis ergosterol dalam membran sel kulat. Keberkesanannya yang terbukti adalah dalam mikosis sistemik (aspergillosis, histoplasmosis, blastomycosis, candidiasis) dalam populasi imunokompromis yang sama (HIV/AIDS, penerima transplant, keganasan hematologi) yang juga berada pada risiko tertinggi untuk pneumonia Pneumocystis (PCP) — kemunculan bersama dalam populasi risiko ini berkemungkinan menjadi asas untuk persatuan TxGNN.
+Itraconazole ialah antikulat azol yang merencat enzim sitokrom P450 14-alfa-demetilase (CYP51) kulat, lalu menghalang sintesis ergosterol dalam membran sel kulat. Data terperinci tentang mekanisme tindakan asal tidak tersedia dalam data yang dikumpulkan untuk laporan ini, jadi penerangan di atas berdasarkan pengetahuan farmakologi am.
 
-Walau bagaimanapun, bukti literatur itu sendiri membangkitkan kaveat yang penting: satu kajian mekanisme (PMID 12606318) melaporkan bahawa *Pneumocystis carinii* memiliki lanosterol 14α-demethylase (Erg11) dengan perbezaan jujukan daripada kulat tahan azol, dan menyatakan bahawa *Pneumocystis carinii* adalah "secara intrinsik tahan terhadap rawatan dengan ubat-ubatan antifungal azol." Ini secara langsung mencabar kredibiliti biologi itraconazole sebagai rawatan untuk pneumocystosis, meskipun ia menyokong peranan yang telah ditetapkan itraconazole dalam *mencegah* jangkitan kulat bersama yang lain pada pesakit berisiko yang sama. Satu percubaan kawalan rawak yang dikenal pasti (PMID 11737382) menguji profilaksis itraconazole untuk "jangkitan kulat dalam" secara meluas pada pesakit HIV, bukan pneumocystosis secara khusus.
+Skor TxGNN yang tinggi (99.34%) berkemungkinan didorong oleh kedekatan rangkaian dengan jangkitan kulat dan jangkitan oportunistik lain (histoplasmosis, aspergillosis, kandidiasis), dan bukan oleh mekanisme yang telah disahkan. *Pneumocystis jirovecii* tidak mempunyai ergosterol dalam membran selnya dan menggunakan kolesterol, maka sasaran utama azol tidak jelas bagi organisma ini.
 
-Memandangkan percanggahan antara ramalan TxGNN dan literatur mekanisme, persatuan ini lebih baik ditafsirkan sebagai mencerminkan kemunculan bersama dalam populasi risiko yang dikongsi dalam graf pengetahuan daripada mekanisme farmakoloji langsung terhadap *Pneumocystis*.
+Oleh itu, kebolehgunaan mekanistik adalah **lemah** dan perlu dilihat dengan berhati-hati. Dalam amalan, profilaksis *Pneumocystis* biasanya menggunakan ubat lain seperti trimetoprim-sulfametoksazol.
 
 ---
 
 ## Bukti Percubaan Klinikal
 
-Pada masa kini tiada percubaan klinikal yang berkaitan terdaftar.
+Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
+Senarai berikut dipilih mengikut keutamaan: RCT > ulasan > laporan kes. Kebanyakan penerbitan ialah ulasan am tentang jangkitan oportunistik, dan tiada yang menunjukkan keberkesanan itraconazole terhadap *Pneumocystis*.
+
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|------|------|--------|---------|
-| [11737382](https://pubmed.ncbi.nlm.nih.gov/11737382/) | 2001 | Ujian Kawalan Rawak | HIV Medicine | Ujian Fasa III buta berlapis dua, terkawal plasebo untuk kapsul itraconazole bagi pencegahan jangkitan kulat dalam pada pesakit yang dijangkiti HIV (bukan spesifik PCP) |
-| [12606318](https://pubmed.ncbi.nlm.nih.gov/12606318/) | 2003 | Kajian Mekanisme | Am J Respir Cell Mol Biol | Mencirikan lanosterol 14α-demethylase *Pneumocystis carinii*; menyimpulkan PC tahan secara intrinsik terhadap antifungal azol — kaveat utama terhadap petunjuk ini |
-| [2121456](https://pubmed.ncbi.nlm.nih.gov/2121456/) | 1990 | Ulasan | Drugs | Meninjau terapi/profilaksis untuk *Pneumocystis carinii*, *Toxoplasma*, dan patogen peluang lain, termasuk mekanisme ejen antifungal |
-| [21418688](https://pubmed.ncbi.nlm.nih.gov/21418688/) | 2010 | Ulasan | BMJ Clinical Evidence | Profilaksis primer/sekunder jangkitan peluang dalam HIV, termasuk PCP |
-| [8397916](https://pubmed.ncbi.nlm.nih.gov/8397916/) | 1993 | Ulasan | Curr Clin Topics Infect Dis | Profilaksis/rawatan jangkitan (termasuk kulat) pada penerima transplant sumsum tulang |
-| [8016481](https://pubmed.ncbi.nlm.nih.gov/8016481/) | 1993 | Ulasan | Semin Respir Infect | Jangkitan (termasuk kulat/PCP) selepas transplantasi paru-paru |
-| [30429396](https://pubmed.ncbi.nlm.nih.gov/30429396/) | 2018 | Pemerhatian | Indian J Med Microbiol | Profil patogen kulat pernafasan pada hos yang imunokompeten vs imunokompromis mengikut kiraan CD4 |
-| [26036497](https://pubmed.ncbi.nlm.nih.gov/26036497/) | 2015 | Pemerhatian | Transplantation Proceedings | Jangkitan kulat invasif selepas transplantasi buah pinggang, pengalaman pusat tunggal |
-| [36891307](https://pubmed.ncbi.nlm.nih.gov/36891307/) | 2023 | Laporan Kes | Frontiers in Immunology | Jangkitan bersama *Talaromyces marneffei* dan *Pneumocystis jirovecii* pada seorang kanak-kanak dengan mutasi STAT1 |
-| [8967681](https://pubmed.ncbi.nlm.nih.gov/8967681/) | 1996 | Laporan Kes | Annals of Internal Medicine | Uveitis yang dikaitkan dengan profilaksis rifabutin dan terapi itraconazole (isyarat keselamatan) |
+|------|-----|------|------|---------|
+| [11737382](https://pubmed.ncbi.nlm.nih.gov/11737382/) | 2001 | Percubaan fasa III berawak buta ganda, terkawal plasebo | HIV Medicine | Profilaksis itraconazole untuk mencegah jangkitan kulat dalam pesakit HIV; berkaitan kulat dalam, bukan khusus *Pneumocystis* |
+| [21973267](https://pubmed.ncbi.nlm.nih.gov/21973267/) | 2011 | Ulasan | Clinical Pharmacokinetics | Penembusan agen antijangkitan, termasuk antikulat, ke dalam cecair lapisan epitelium pulmonari |
+| [21418688](https://pubmed.ncbi.nlm.nih.gov/21418688/) | 2010 | Ulasan | BMJ Clinical Evidence | Profilaksis primer dan sekunder jangkitan oportunistik dalam HIV |
+| [15250025](https://pubmed.ncbi.nlm.nih.gov/15250025/) | 2004 | Ulasan | Clinical Infectious Diseases | Profilaksis antimikrob dalam neutropenia berdemam; trimetoprim-sulfametoksazol berkesan mencegah pneumonia *Pneumocystis* |
+| [8016481](https://pubmed.ncbi.nlm.nih.gov/8016481/) | 1993 | Ulasan | Seminars in Respiratory Infections | Jangkitan selepas pemindahan paru-paru |
+| [8397916](https://pubmed.ncbi.nlm.nih.gov/8397916/) | 1993 | Ulasan | Current Clinical Topics in Infectious Diseases | Profilaksis dan rawatan jangkitan dalam penerima pemindahan sumsum tulang |
+| [2121456](https://pubmed.ncbi.nlm.nih.gov/2121456/) | 1990 | Ulasan | Drugs | Terapi dan profilaksis jangkitan protozoa sistemik, termasuk *Pneumocystis carinii* |
+| [26036497](https://pubmed.ncbi.nlm.nih.gov/26036497/) | 2015 | Kohort | Transplantation Proceedings | Pengalaman satu pusat tentang jangkitan kulat invasif selepas pemindahan buah pinggang |
+| [2233233](https://pubmed.ncbi.nlm.nih.gov/2233233/) | 1990 | Siri kes | Medicine | Histoplasmosis tersebar dalam AIDS: penemuan klinikal, diagnosis dan rawatan |
+| [36891307](https://pubmed.ncbi.nlm.nih.gov/36891307/) | 2023 | Laporan kes dan ulasan | Frontiers in Immunology | Jangkitan bersama *Talaromyces marneffei* dan *Pneumocystis jirovecii* pada kanak-kanak dengan mutasi STAT1 |
 
 ---
 
-## Maklumat Pasaran Malaysia
-
-Rekod NPRA menunjukkan **8 lesen berdaftar** untuk itraconazole dengan status pasaran "Marketed (Marketed)". Nombor lesen individu, nama produk, bentuk dos, dan teks petunjuk yang diluluskan tidak dikembalikan dalam pengeluaran data ini — pengambilan daripada NPRA diperlukan sebelum jadual ini dapat diisi.
-
----
-
-## Pertimbangan Keselamatan
-
-Sila rujuk sisipan pakej untuk maklumat keselamatan. Data amaran terperinci, kontraindikasi, dan interaksi ubat tidak tersedia dalam pakej bukti ini (DG001 — jurang halangan untuk penapisan keselamatan).
-
----
-
-## Kesimpulan dan Langkah Seterusnya
+## Keputusan dan Langkah Seterusnya
 
 **Keputusan: Hold**
 
 **Rasional:**
-Ramalan tidak disokong oleh bukti klinikal langsung (tiada percubaan klinikal pada itraconazole untuk pneumocystosis), dan literatur mekanisme terkuat yang dijumpai sebenarnya berhujah terhadap kredibiliti biologi (*Pneumocystis* dilaporkan sebagai tahan azol secara intrinsik). Digabungkan dengan jurang data keselamatan yang halangan (amaran label TFDA/NPRA dan kontraindikasi tidak tersedia), calon ini tidak boleh meneruskan penilaian keselamatan S1 seperti sediada.
+- Tahap bukti hanya L5 (ramalan model sahaja). Tiada percubaan klinikal, tiada bukti langsung terhadap *Pneumocystis*, dan mekanisme azol tidak mempunyai sasaran yang jelas dalam organisma ini kerana ketiadaan ergosterol.
+- Itraconazole juga tidak dipasarkan di Malaysia, dan tiada pendaftaran NPRA yang ditemui.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- PDF label TFDA/NPRA (amaran, kontraindikasi) untuk menutup jurang keselamatan yang halangan (DG001)
-- Data mekanisme tindakan ubat yang disahkan daripada DrugBank (DG002)
-- Carian literatur/klinikal yang disasarkan secara khusus pada keberkesanan itraconazole terhadap *Pneumocystis jirovecii* (sebaliknya daripada profilaksis jangkitan kulat umum dalam populasi risiko yang sama), untuk menyelesaikan kebimbangan rintangan yang dibangkitkan oleh PMID 12606318
-- Perincian peringkat lesen NPRA (nama produk, petunjuk, bentuk dos) untuk 8 produk berdaftar
-
+**Untuk diteruskan, perkara berikut diperlukan:**
+- Bukti praklinikal atau klinikal langsung tentang aktiviti itraconazole terhadap *Pneumocystis jirovecii*
+- Data mekanisme tindakan (MOA) yang lengkap daripada DrugBank
+- Pengesahan status pendaftaran dan sumber bekalan di Malaysia, termasuk sisipan pakej NPRA
+- Penilaian keselamatan sebelum sebarang pertimbangan lanjut
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

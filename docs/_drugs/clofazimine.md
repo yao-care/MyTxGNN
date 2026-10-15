@@ -2,7 +2,7 @@
 layout: default
 title: Clofazimine
 parent: Low Evidence (L4-L5)
-nav_order: 229
+nav_order: 234
 evidence_level: L5
 indication_count: 3
 ---
@@ -29,76 +29,88 @@ Tahap bukti: **L5** | Indikasi diramal: **3**
 
 </div>
 
-# Clofazimine: Dari Kusta (Penyakit Hansen) ke Pneumocystosis
+# Clofazimine: Daripada Kusta kepada Pneumocystosis
 
-## Ringkasan Satu Kalimat
+## Ringkasan Satu Ayat
 
-Clofazimine adalah agen antimikobarteri riminofenazin yang telah mapan dalam terapi multidrug kusta dan rejimen tuberkulosis resistan multidrug.
-Model TxGNN meramalkan bahwa ia mungkin efektif untuk **Pneumocystosis**, dengan skor prediksi **99.90%**, tetapi **0 uji klinis** dan **0 publikasi** saat ini mendukung arah ini, dan penjelasan mekanis model sendiri menandai prediksi ini sebagai kemungkinan artefak ko-kemunculan grafik pengetahuan daripada tautan farmakologis sejati.
-
----
-
-## Gambaran Singkat
-
-| Item | Konten |
-|------|--------|
-| Indikasi Asli | Kusta (Penyakit Hansen) / MDR-TB — berdasarkan pengetahuan farmakologis yang mapan tentang clofazimine; tidak dikonfirmasi oleh teks lisensi NPRA dalam Evidence Pack ini (semua 4 catatan lisensi memiliki kolom indikasi kosong — lihat Data Gap DG001) |
-| Indikasi Baru yang Diprediksi | Pneumocystosis |
-| Skor Prediksi TxGNN | 99.90% |
-| Tingkat Bukti | L5 |
-| Status Pasar Malaysia | ✓ Dipasarkan |
-| Jumlah Registrasi | 4 |
-| Rekomendasi Keputusan | Tahan |
+Clofazimine ialah ubat riminophenazine yang pada asalnya digunakan untuk merawat **kusta (termasuk kusta multibasilari)** dan pioderma gangrenosum.
+Model TxGNN meramalkan ia mungkin berkesan untuk **pneumocystosis** dengan skor 99.9%, tetapi ramalan ini **hanya berasaskan model**: tiada ujian klinikal didaftarkan dan tiada kajian yang menunjukkan keberkesanan terhadap *Pneumocystis*.
 
 ---
 
-## Mengapa Prediksi Ini Masuk Akal?
+## Gambaran Keseluruhan Pantas
 
-Saat ini, data mekanisme kerja yang terperinci tidak tersedia (Data Gap DG002). Berdasarkan informasi yang diketahui, clofazimine adalah senyawa riminofenazin yang mekanismenya yang mapan melibatkan pengikatan DNA, induksi spesies oksigen reaktif (ROS), dan penghambatan jalur saluran K+ / fosfolipase A2 — profil antimikobakteri dan imunomodulatif yang digunakan melawan *M. leprae* dan *M. tuberculosis*.
-
-*Pneumocystis jirovecii*, organisme penyebab pneumocystosis, adalah jamur dengan komposisi dinding sel dan jalur metabolik yang secara substansial berbeda dari mikobakteri. Tidak ada aktivitas antijamur yang terdokumentasi untuk clofazimine yang akan secara mekanis mendukung prediksi ini. Penjelasan Evidence Pack sendiri untuk peringkat ini menyatakan bahwa skor TxGNN yang tinggi kemungkinan mencerminkan kedekatan grafik antara clofazimine dan pneumocystosis melalui cluster simpul "infeksi oportunistik pada populasi imunokompromi" bersama, daripada hubungan farmakologis sejati — dan secara eksplisit menilai kredibilitas tautan ini sebagai rendah.
-
-Dua kandidat peringkat lebih rendah juga dihasilkan: **malaria** (99.60%, rank 6229) memiliki dasar teoretis yang agak lebih masuk akal — lipofilitasitas clofazimine, penetrasi membran, dan mekanisme induksi ROS secara konseptual tumpang tindih dengan mekanisme antimalarial berbasis stres oksidatif, dan penjelasan mencatat laporan literatur sebelumnya tentang aktivitas antiplasmodial in vitro, meskipun penelusuran PubMed/ClinicalTrials/ICTRP Evidence Pack sendiri mengembalikan nol hit — menunjukkan kesenjangan pengumpulan bukti daripada ketiadaan literatur sejati, dan menjamin pencarian tindak lanjut yang ditargetkan. **Abnormalitas sekresi gastrin** (99.57%, rank 6584) tidak memiliki dasar mekanis yang diketahui dan dinilai sebagai kemungkinan kebisingan grafik.
+| Item | Kandungan |
+|------|------|
+| Indikasi Asal | Kusta, kusta multibasilari, pioderma gangrenosum (daripada graf pengetahuan PrimeKG; tiada teks indikasi berlesen) |
+| Indikasi Baharu yang Diramalkan | Pneumocystosis |
+| Skor Ramalan TxGNN | 99.90% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
-## Bukti Uji Klinis
+## Mengapa Ramalan Ini Munasabah?
 
-Saat ini tidak ada uji klinis terkait yang terdaftar
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, clofazimine ialah ubat lipofilik daripada kelas riminophenazine dengan aktiviti antimikobakteria dan anti-radang, dan keberkesanannya dalam kusta telah dibuktikan.
+
+Namun, analisis data yang dikumpulkan untuk laporan ini **tidak menemui pautan mekanistik yang kukuh** kepada pneumocystosis. *Pneumocystis* ialah kulat, manakala aktiviti clofazimine yang diketahui tertumpu pada mikobakteria. Skor TxGNN yang sangat tinggi (0.999) ialah ramalan model sahaja dan tidak boleh dianggap sebagai bukti keberkesanan.
+
+Literatur yang ditemui menyentuh pesakit AIDS dengan jangkitan bersama (*co-infection*), bukan keberkesanan terhadap *Pneumocystis*. Kajian itu berkaitan profilaksis *Mycobacterium avium complex* (MAC) dan satu kes *M. kansasii* yang berlaku serentak dengan pneumonia *Pneumocystis*.
+
+---
+
+## Bukti Ujian Klinikal
+
+Buat masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
-Saat ini tidak ada literatur terkait yang tersedia
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [8501340](https://pubmed.ncbi.nlm.nih.gov/8501340/) | 1993 | Kajian klinikal rawak, label terbuka | J Infect Dis | Clofazimine 50 mg sebagai profilaksis jangkitan MAC tersebar pada 110 pesakit HIV (sebahagiannya mempunyai episod pertama pneumonia *P. carinii*). Sasarannya MAC, **bukan** *Pneumocystis* |
+| [2714863](https://pubmed.ncbi.nlm.nih.gov/2714863/) | 1989 | Laporan kes | Infection | Pesakit AIDS dengan *M. kansasii* dan pneumonia *P. carinii*; pulih dengan regimen berbilang ubat termasuk clofazimine dan trimetoprim-sulfametoksazol. Pemulihan tidak boleh dikaitkan dengan clofazimine untuk *Pneumocystis* |
+| [11363899](https://pubmed.ncbi.nlm.nih.gov/11363899/) | 1996 | Ulasan | PI Perspective | Kemas kini jangkitan oportunistik (tiada abstrak tersedia) |
 
 ---
 
-## Informasi Pasar Malaysia
+## Keselamatan
 
-Empat otorisasi tercatat dengan NPRA Malaysia (total_licenses = 4), tetapi detail tingkat produk (nomor lisensi, nama produk, bentuk sediaan, teks indikasi yang disetujui) tidak diisi dalam Evidence Pack ini — ini adalah kesenjangan data yang memerlukan pencarian langsung NPRA untuk diselesaikan.
+- **Penyakit yang dikaitkan dengan kontraindikasi (graf pengetahuan PrimeKG, bukan teks label):** penyakit hati, penyakit pundi hempedu, penyakit cirit-birit, penyakit ulser peptik aktif, penyakit sistem pencernaan, penyakit usus, infarksi limpa, penyakit limpa, hipersplenisme.
+- **Interaksi Ubat** (100 interaksi dikenal pasti; berikut sebahagiannya):
+  - **Major:** cisapride, dolasetron
+  - **Moderate:** famotidine, loperamide, bisacodyl, clarithromycin, levofloxacin, ondansetron, granisetron, palonosetron, laktulosa, magnesium hidroksida, magnesium sitrat, polietilena glikol, minyak jarak, gliserin, minyak mineral
+  - **Minor:** metronidazole
+
+Sila rujuk sisipan pek untuk maklumat keselamatan lanjut.
 
 ---
 
-## Pertimbangan Keamanan
+## Kesimpulan dan Langkah Seterusnya
 
-Silakan merujuk pada maklumat kemasan untuk informasi keamanan. (Data peringatan utama, kontraindikasi, dan interaksi obat semuanya ditandai sebagai kesenjangan data dalam Evidence Pack ini — DG001, Blocking severity — dan tidak dapat diambil.)
+**Keputusan: Hold**
+
+**Justifikasi:**
+- Ramalan hanya berasaskan model (L5) tanpa ujian klinikal dan tanpa literatur yang menyokong aktiviti terhadap *Pneumocystis*. Ubat ini juga tidak dipasarkan di Malaysia.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) yang lengkap dan analisis pautan mekanistik kepada *Pneumocystis*
+- Kajian praklinikal (in vitro/in vivo) terhadap *Pneumocystis*
+- Amaran dan kontraindikasi daripada sisipan pek rasmi NPRA, memandangkan ubat ini tidak berdaftar di Malaysia
+- Penilaian laluan pentadbiran dan kebolehcapaian ubat di Malaysia (contohnya melalui akses khas)
 
 ---
 
-## Kesimpulan dan Langkah Selanjutnya
+## Nota Tambahan: Ramalan Lain
 
-**Keputusan: Tahan**
-
-**Alasan:**
-Indikasi yang diprediksi peringkat teratas (pneumocystosis) tidak didukung oleh bukti uji klinis atau literatur apa pun, dan analisis mekanis Evidence Pack sendiri menilai tautan yang diturunkan dari grafik sebagai ko-kemunculan berkredibilitas rendah daripada farmakologi sejati. Selain itu, data peringatan TFDA/NPRA dan kesenjangan kontraindikasi adalah Blocking-severity gap, yang mencegah kasus memasuki tahap pra-skrining keamanan S1 terlepas dari indikasi.
-
-**Untuk melanjutkan, diperlukan hal berikut:**
-- Maklumat kemasan NPRA/TFDA (peringatan, kontraindikasi) — menyelesaikan Blocking Data Gap DG001, diperlukan sebelum penilaian keamanan S1 apa pun
-- Detail mekanisme kerja DrugBank — menyelesaikan Data Gap High-severity DG002
-- Teks lisensi NPRA yang dikonfirmasi untuk 4 registrasi Malaysia yang ada (nomor lisensi, nama produk, bentuk sediaan, indikasi yang disetujui)
-- Jika mengejar kandidat malaria bukan pneumocystosis: pencarian literatur eksternal yang ditargetkan untuk data antiplasmodial in vitro/in vivo pada clofazimine, karena pencarian otomatis Evidence Pack ini menemukan nol hit meskipun penjelasan mengutip laporan sebelumnya
-
+| Penyakit Diramalkan | Skor TxGNN | Tahap Bukti | Keputusan | Ringkasan |
+|------|------|------|------|------|
+| Malaria | 99.60% | L4 | Persoalan penyelidikan | Hanya sokongan praklinikal tidak langsung: satu kajian in vitro 2017 (PMID 29026393) mengenai analog clofazimine yang menunjukkan aktiviti antiplasmodium. Kebanyakan literatur lain berkaitan regimen tuberkulosis rintang ubat, bukan keberkesanan antimalaria. Tiada ujian klinikal |
+| Keabnormalan rembesan gastrin | 99.57% | L5 | Hold | Tiada ujian klinikal atau literatur. Kesan sampingan gastrousus clofazimine diketahui, tetapi itu bukan bukti kesan terapeutik |
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

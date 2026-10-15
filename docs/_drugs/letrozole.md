@@ -2,7 +2,7 @@
 layout: default
 title: Letrozole
 parent: High Evidence (L1-L2)
-nav_order: 433
+nav_order: 453
 evidence_level: L1
 indication_count: 10
 ---
@@ -29,109 +29,114 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Letrozole: Daripada Kanser Payudara kepada Karsinoma Payudara Wanita
+# Letrozole: Daripada [Indikasi Asal Tidak Direkodkan] kepada Karsinoma Payudara Wanita
 
 ## Ringkasan Satu Ayat
 
-Letrozole adalah penyekat aromatase generasi ketiga yang awalnya digunakan untuk merawat kanser payudara positif reseptor hormon (HR+) pada wanita pasca-menopaus. Ramalan tertinggi model TxGNN menunjuk kembali kepada **Karsinoma Payudara Wanita**, dengan **50 percubaan klinikal** dan **20 penerbitan** yang kini menyokong arah ini — bagaimanapun, ini sebahagian besarnya mengesahkan semula indikasi letrozole yang sedia ada dan terukuh dengan baik daripada mengenal pasti peluang ubah-tujuan yang tulis-benar baru.
+Letrozole ialah perencat aromatase bukan steroid. Data yang dikumpulkan untuk laporan ini tidak merekodkan indikasi asalnya di Malaysia.
+Model TxGNN meramalkan ia berkesan untuk **karsinoma payudara wanita**, disokong oleh **41 percubaan klinikal** dan **20 penerbitan** yang diperoleh.
+Penggunaan ini sebenarnya sudah mantap dalam amalan klinikal, jadi ia bukan penemuan *repurposing* yang sebenar. Ketiadaan rekod indikasi asal berkemungkinan besar kekosongan data.
 
 ---
 
-## Tinjauan Pantas
+## Gambaran Pantas
 
-| Item | Kandungan |
-|------|----------|
-| Indikasi Asal | Kanser payudara positif reseptor hormon (HR+) pada wanita pasca-menopaus *(teks indikasi lesen NPRA tidak ditangkap dalam penarikan data ini — lihat Jurang Data DG001)* |
-| Indikasi Baru Diramal | Karsinoma Payudara Wanita |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Tiada rekod indikasi daripada pendaftaran tempatan |
+| Indikasi Baharu yang Diramalkan | Karsinoma payudara wanita |
 | Skor Ramalan TxGNN | 99.98% |
 | Tahap Bukti | L1 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 7 |
-| Keputusan Disyorkan | Teruskan dengan Penjaga |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Proceed with Guardrails |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan (MOA) berstruktur tidak dikembalikan oleh pertanyaan DrugBank untuk calon ini (Jurang Data DG002). Bagaimanapun, di seluruh bukti percubaan klinikal dan kesusasteraan yang dikumpul dalam pakej ini, letrozole secara konsisten dan berulang kali dijelaskan sebagai penyekat aromatase generasi ketiga yang bukan steroid. Ia menyekat penukaran persisian androgen kepada estrogen, menafikan sel tumor payudara yang bergantung estrogen daripada isyarat hormon yang mendorong pembiakan mereka.
+Letrozole ialah perencat aromatase bukan steroid. Ia menghalang penukaran androgen kepada estrogen, lalu mengurangkan rangsangan estrogen terhadap pertumbuhan tumor dalam kanser payudara reseptor hormon positif (HR+). Data mekanisme terperinci daripada pangkalan data ubat tidak tersedia. Huraian ini bersumber daripada tinjauan literatur yang diperoleh, termasuk kajian tentang penemuan dan mekanisme tindakan letrozole (PMID 17912633).
 
-"Karsinoma payudara wanita" adalah nod penyakit KG luas yang hampir sepenuhnya bertindih dengan indikasi persetujuan teras letrozole (kanser payudara HR+ pasca-menopaus). Jumlah yang besar dan kualiti bukti sokongan — termasuk percubaan fasa 3 pelopor seperti percubaan adjuvant head-to-head letrozole-vs-tamoxifen (NCT00004205, n=8,028) dan pelbagai percubaan kombinasi inhibitor CDK4/6 — mencerminkan fakta bahawa ini adalah kegunaan on-label yang terukuh dengan baik bukannya hipotesis terapeutik baru.
+Penggunaan ini disokong secara langsung oleh bukti klinikal Fasa 3. Antaranya ialah MONALEESA-2 (ribociclib + letrozole) dan PALOMA-2 (palbociclib + letrozole), yang menunjukkan manfaat pada kanser payudara lanjutan HR+/HER2-. Letrozole juga digunakan sebagai tulang belakang terapi endokrin dalam banyak percubaan lain.
 
-Adalah wajar diambil perhatian bahawa pakej bukti ini mengandungi beberapa nod penyakit yang berkait rapat untuk jenis tumor asas yang sama pada butir-butir yang berbeza (cth., "kanser payudara positif reseptor estrogen," "karsinoma payudara tahan hormon," "karsinoma payudara bilateral"). Sesetengahnya adalah sambungan yang munasabah secara mekanik (cth., subtipe ER+, bukti L1), sementara yang lain — terutamanya "kanser payudara negatif reseptor estrogen" dan "karsinoma tumor Ehrlich" — telah ditandai secara dalaman sebagai kemungkinan artifak kekeliruan nod graf pengetahuan (tumor ER-negatif tidak bergantung pada laluan aromatase yang letrozole nyekat, dan tumor Ehrlich adalah model muraria, bukan entiti penyakit manusia). Heterogeniti ini menggariskan bahawa calon "multi-indikasi" harus ditafsirkan sebagai latihan pengesahan-dan-penapisan di sekeliling farmakologi letrozole yang diketahui daripada isyarat ubah-tujuan tunggal yang bersih.
+Oleh sebab letrozole sudah diterima sebagai terapi kanser payudara, tiada rekod indikasi asal dan status "tidak dipasarkan" dalam data tempatan kemungkinan besar mencerminkan kekosongan data, bukan hakikat sebenar.
 
 ---
 
 ## Bukti Percubaan Klinikal
 
 | Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|--------|------|---------|
-| [NCT00073528](https://clinicaltrials.gov/study/NCT00073528) | Fasa 3 | Selesai | 1,286 | RCT membandingkan lapatinib + letrozole vs. letrozole sahaja dalam kanser payudara advanced/metastatik HR+; bukti indikasi persetujuan langsung |
-| [NCT00330317](https://clinicaltrials.gov/study/NCT00330317) | Fasa 3 | Selesai | 300 | Letrozole neodjuvant dalam kanser payudara utama ER/PR+ pasca-menopaus untuk membenarkan pembedahan konservatif payudara |
-| [NCT02040857](https://clinicaltrials.gov/study/NCT02040857) | Fasa 2 | Selesai | 162 | Palbociclib + terapi endokrin adjuvant berasaskan letrozole dalam karsinoma payudara invasif HR+ |
-| [NCT00004205](https://clinicaltrials.gov/study/NCT00004205) | Fasa 3 | Selesai | 8,028 | RCT pelopor: letrozole vs. tamoxifen sebagai terapi endokrin adjuvant untuk kanser payudara pasca-menopaus ER/PR+ |
-| [NCT04571437](https://clinicaltrials.gov/study/NCT04571437) | Fasa 2 | Tidak diketahui | 204 | Letrozole ± capecitabine metronomik sebagai terapi baris pertama dalam kanser payudara advanced ER+/HER2- |
-| [NCT05439499](https://clinicaltrials.gov/study/NCT05439499) | Fasa 3 | Tidak diketahui | 434 | FCN-437c vs. plasebo digabungkan dengan letrozole/anastrozole ± goserelin dalam kanser payudara advanced HR+/HER2- |
-| [NCT03820830](https://clinicaltrials.gov/study/NCT03820830) | Fasa 3 | Aktif, tidak merekrut | 405 | Palbociclib adjuvant + terapi endokrin vs. terapi endokrin sahaja untuk lokoregional berulang yang direseksi, HR+/HER2- |
-| [NCT04095364](https://clinicaltrials.gov/study/NCT04095364) | Fasa 3 | Aktif, tidak merekrut | 450 | Paclitaxel/carboplatin/penyelenggaraan letrozole vs. monotherapy letrozole dalam karsinoma serous gred rendah ovarium/peritoneal |
-| [NCT03969121](https://clinicaltrials.gov/study/NCT03969121) | Fasa 3 | Selesai | 141 | Terapi hormon neodjuvant (letrozole) + palbociclib vs. plasebo dalam kanser payudara operable HR+/HER2- utama |
-| [NCT00062751](https://clinicaltrials.gov/study/NCT00062751) | Fasa 2 | Selesai | 108 | Letrozole + temsirolimus vs. letrozole sahaja dalam kanser payudara advanced/metastatik setempat |
+|---------|------|------|------|---------|
+| [NCT02941926](https://clinicaltrials.gov/study/NCT02941926) | Fasa 3 | Selesai | 3,246 | COMPLEEMENT-1: data keselamatan dan keberkesanan tambahan ribociclib + letrozole pada kanser payudara lanjutan HR+/HER2- |
+| [NCT02600923](https://clinicaltrials.gov/study/NCT02600923) | Fasa 3 | Selesai | 131 | Palbociclib + letrozole pada wanita pascamenopaus HR+/HER2- lanjutan |
+| [NCT03425838](https://clinicaltrials.gov/study/NCT03425838) | Fasa 3 | Aktif, tidak merekrut | 1,050 | SONIA: urutan terapi perencat aromatase + CDK4/6 sebagai barisan pertama berbanding kedua |
+| [NCT01740427](https://clinicaltrials.gov/study/NCT01740427) | Fasa 3 | Selesai | 666 | PALOMA-2: palbociclib + letrozole berbanding plasebo + letrozole sebagai barisan pertama |
+| [NCT00908531](https://clinicaltrials.gov/study/NCT00908531) | Fasa 3 | Ditamatkan | 123 | DBCG: letrozole 4 bulan berbanding pembedahan dahulu pada tumor HR+ lebih 2 cm (ditamatkan awal) |
+| [NCT04272801](https://clinicaltrials.gov/study/NCT04272801) | Fasa 2 | Aktif, tidak merekrut | 84 | Terapi endokrin praoperatif pada wanita berumur ≥65 tahun untuk membantu keputusan radioterapi |
+| [NCT00728949](https://clinicaltrials.gov/study/NCT00728949) | Fasa 2 | Selesai | 93 | IMC-A12 secara tunggal atau bersama antiestrogen selepas perkembangan penyakit (letrozole sebagai rakan gabungan) |
+| [NCT02712723](https://clinicaltrials.gov/study/NCT02712723) | Fasa 2 | Aktif, tidak merekrut | 121 | Letrozole + ribociclib atau plasebo sebagai terapi endokrin neoadjuvan |
+| [NCT01439711](https://clinicaltrials.gov/study/NCT01439711) | Fasa 2 | Selesai | 108 | Letrozole neoadjuvan pada DCIS ER-positif pascamenopaus |
+| [NCT00433589](https://clinicaltrials.gov/study/NCT00433589) | Fasa 3 | Selesai | 6,600 | MINDACT: tandatangan 70 gen untuk memilih kemoterapi adjuvan (letrozole sebagai terapi endokrin latar) |
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|------|------|------|---------|
-| [31838010](https://pubmed.ncbi.nlm.nih.gov/31838010/) | 2020 | RCT (Fasa 2) | The Lancet Oncology | CORALLEEN: ribociclib neodjuvant + letrozole vs. kemoterapi dalam kanser payudara luminous B HR+/HER2- |
-| [32683565](https://pubmed.ncbi.nlm.nih.gov/32683565/) | 2020 | RCT (Fasa 2) | Breast Cancer Res Treat | PALOMA-1 keseluruhan kemandirian: palbociclib + letrozole vs. letrozole sahaja, baris pertama kanser payudara advanced ER+/HER2- |
-| [34645649](https://pubmed.ncbi.nlm.nih.gov/34645649/) | 2022 | Sub-analisis penanda bio | Clin Cancer Res | Penanda bio respons Ki67 untuk palbociclib + letrozole dalam kanser payudara ER+/HER2- |
-| [36243120](https://pubmed.ncbi.nlm.nih.gov/36243120/) | 2022 | Ulasan (farmakologi) | Life Sciences | Ulasan komprehensif farmakologi letrozole, toksisiti, dan kesan terapeutik |
-| [35378469](https://pubmed.ncbi.nlm.nih.gov/35378469/) | 2022 | Ulasan/penanda bio | Current Problems in Cancer | Faktor prediktif dan prognostik untuk respons palbociclib + letrozole dalam kanser payudara advanced HR+ |
-| [20095792](https://pubmed.ncbi.nlm.nih.gov/20095792/) | 2010 | Ulasan | Expert Opin Drug Metab Toxicol | Ulasan farmadinamik/farmakokinetik letrozole dan keberkesanan klinikalnya/keselamatan |
-| [16500235](https://pubmed.ncbi.nlm.nih.gov/16500235/) | 2006 | Ulasan | Breast (Edinburgh) | Ulasan pembangunan letrozole dan penggunaannya dalam kanser payudara advanced dan neodjuvant |
-| [27235140](https://pubmed.ncbi.nlm.nih.gov/27235140/) | 2016 | Kajian translasi | Medical Oncology | Perubahan yang diinduksi letrozole dalam fibroblast berkaitan karsinoma dan kesan pada biologi sel kanser payudara |
-| [35464999](https://pubmed.ncbi.nlm.nih.gov/35464999/) | 2022 | Kajian perbandingan | Comput Math Methods Med | Keberkesanan/keselamatan/prognosis berturut-turut tamoxifen + letrozole vs. monotherapy letrozole |
-| [15001182](https://pubmed.ncbi.nlm.nih.gov/15001182/) | 2004 | Ulasan | Women's Health Issues | Implikasi klinikal dan pertanyaan yang masih tertanggung daripada Percubaan Kanser Payudara Letrozole |
+|------|-----|------|------|---------|
+| [35263519](https://pubmed.ncbi.nlm.nih.gov/35263519/) | 2022 | RCT | N Engl J Med | Analisis kelangsungan hidup keseluruhan ribociclib + letrozole pada kanser payudara lanjutan HR+/HER2- |
+| [29718092](https://pubmed.ncbi.nlm.nih.gov/29718092/) | 2018 | RCT | Ann Oncol | MONALEESA-2: ribociclib + letrozole memanjangkan kelangsungan hidup bebas perkembangan dengan toksisiti terurus |
+| [30632023](https://pubmed.ncbi.nlm.nih.gov/30632023/) | 2019 | RCT | Breast Cancer Res Treat | PALOMA-2: palbociclib + letrozole memanjangkan kelangsungan hidup bebas perkembangan (HR 0.58) dengan susulan lanjutan |
+| [15001182](https://pubmed.ncbi.nlm.nih.gov/15001182/) | 2004 | RCT | Women's Health Issues | Implikasi klinikal dan persoalan berbaki daripada Letrozole Breast Cancer Trial |
+| [36243120](https://pubmed.ncbi.nlm.nih.gov/36243120/) | 2022 | Ulasan | Life Sciences | Farmakologi, ketoksikan dan potensi terapeutik letrozole dalam terapi adjuvan, neoadjuvan dan metastatik |
+| [20095792](https://pubmed.ncbi.nlm.nih.gov/20095792/) | 2010 | Ulasan | Expert Opin Drug Metab Toxicol | Ulasan perencat aromatase generasi ketiga: farmakodinamik, farmakokinetik, keberkesanan dan keselamatan |
+| [17912633](https://pubmed.ncbi.nlm.nih.gov/17912633/) | 2007 | Ulasan | Breast Cancer Res Treat | Penemuan dan mekanisme tindakan letrozole sebagai perencat aromatase |
+| [19250202](https://pubmed.ncbi.nlm.nih.gov/19250202/) | 2009 | Ulasan | Ann N Y Acad Sci | Letrozole mengekalkan perencatan pertumbuhan lebih lama daripada tamoxifen dalam model praklinikal |
+| [12113048](https://pubmed.ncbi.nlm.nih.gov/12113048/) | 2002 | Ulasan | Expert Rev Anticancer Ther | Letrozole menunjukkan keunggulan berbanding tamoxifen sebagai barisan pertama kanser payudara metastatik pascamenopaus |
+| [16013988](https://pubmed.ncbi.nlm.nih.gov/16013988/) | 2005 | Ulasan | Expert Opin Pharmacother | Perencat aromatase menyekat biosintesis estrogen sebagai alternatif kepada tamoxifen pada kanser ER-positif |
 
 ---
 
-## Maklumat Pasaran Malaysia
+## Sitotoksisiti (Ubat Antineoplastik)
 
-Rekod NPRA mengesahkan letrozole dipasarkan di Malaysia dengan **7 lesen berdaftar** (`market_status: Marketed / Marketed`). Bagaimanapun, nombor lesen individu, nama produk, bentuk dosaj, pengilang, dan teks indikasi yang diluluskan tidak dikembalikan dalam penarikan data ini — ini adalah jurang data berkadar halangan yang ditandai (DG001) yang juga menghalang penilaian keselamatan pra-lengkap. Butir-butir ini harus bersumber terus daripada rekod pendaftaran NPRA sebelum meneruskan lagi.
-
----
-
-## Sitotoksisiti
-
-| Item | Kandungan |
-|------|----------|
-| Klasifikasi Sitotoksisiti | Terapi endokrin bertarget — penyekat aromatase bukan steroid (ejen hormon bukan sitotoksik), berbeza secara mekanik daripada kemoterapi sitotoksik konvensional |
-| Risiko Supresi Sumsum Tulang | Rendah — penyekat aromatase sebagai kelas tidak berkaitan dengan supresi sumsum tulang yang signifikan; tiada isyarat toksisiti hematologi yang jelas muncul dalam bukti yang dikumpul. Sila rujuk sisipan pakej untuk keperluan pemantauan hematologi yang disahkan |
-| Klasifikasi Emetogenisiti | Rendah — ejen hormon/endokrin oral biasanya membawa potensi emetogenik yang minimal; tidak disahkan secara bebas dalam penarikan data bukti ini |
-| Item Pemantauan | Kepadatan mineral tulang, profil lipid, dan fungsi hati biasanya dipantau untuk kelas ubat ini; keperluan pemantauan berlabel TFDA/NPRA khusus tidak tersedia dalam pakej bukti ini (Jurang Data DG001) |
-| Perlindungan Pengendalian | Ejen hormon endoskop bentuk dosaj pepejal; tidak biasanya dikelaskan sebagai memerlukan penjagaan pengendalian ubat sitotoksik khas. Sila rujuk sisipan pakej untuk pengesahan |
+| Perkara | Kandungan |
+|------|------|
+| Klasifikasi Sitotoksisiti | Terapi hormon (perencat aromatase), bukan sitotoksik konvensional |
+| Risiko Penindasan Sumsum Tulang | Secara amnya rendah. Sila rujuk sisipan pek untuk butiran |
+| Klasifikasi Emetogenisiti | Secara amnya rendah. Sila rujuk sisipan pek untuk butiran |
+| Item Pemantauan | Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pek. Pemantauan ketumpatan tulang dan fungsi hati wajar dipertimbangkan kerana penyakit berkaitan dalam graf pengetahuan (lihat Pertimbangan Keselamatan) |
+| Perlindungan Pengendalian | Sila rujuk garis panduan pengendalian ubat sitotoksik/berbahaya dan sisipan pek |
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
+**Penyakit berkaitan kontraindikasi (daripada graf pengetahuan TxGNN/PrimeKG, bukan teks label):**
+- Kegagalan hati dan sirosis hati
+- Osteoporosis dan osteoporosis pascamenopaus
+- Hiperbilirubinemia, termasuk hiperbilirubinemia keturunan dan sindrom Gilbert
+- Gangguan serebrovaskular
+
+Senarai ini ialah isyarat daripada graf pengetahuan dan mesti disahkan dengan sisipan pek rasmi.
+
+**Interaksi ubat:** Pertanyaan interaksi selesai dan menemui 100 interaksi yang direkodkan. Hanya **aprepitant** bertahap **Sederhana**. Contoh lain yang berstatus "tahap tidak diketahui" termasuk calcitriol, glimepiride, lansoprazole, omeprazole, pantoprazole, famotidine, aspirin, morfin, metformin, simvastatin, prednison, granisetron, dolasetron dan rosiglitazone.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Teruskan dengan Penjaga**
+**Keputusan: Proceed with Guardrails**
 
-**Alasan:**
-Asas bukti untuk letrozole dalam kanser payudara sangat kuat (L1, pelbagai RCT fasa 3 selesai termasuk percubaan adjuvant pelopor 8,028-pesakit), tetapi ini sebahagian besarnya mengesahkan indikasi yang sudah diluluskan daripada peluang ubah-tujuan baru. Dengan kritikal, amaran label TFDA/NPRA dan kontraindikasi (DG001, kadar halangan) hilang, yang kini menyekat penilaian keselamatan pra-lengkap (S1) — ini mesti diselesaikan sebelum sebarang keputusan "Go".
+**Rasional:**
+- Beberapa percubaan Fasa 3 yang selesai (COMPLEEMENT-1, PALOMA-2, percubaan palbociclib Fasa 3) dan RCT berimpak tinggi menyokong penggunaan letrozole pada kanser payudara HR+, justeru tahap bukti ialah L1.
+- Ini ialah penggunaan sedia ada, bukan *repurposing* baharu. Namun status "tidak dipasarkan" dan ketiadaan rekod indikasi di Malaysia perlu disahkan sebelum diteruskan.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Ambil sisipan pakej TFDA/NPRA (amaran, kontraindikasi, DDI) untuk menyelesaikan jurang data berkadar halangan (DG001)
-- Dapatkan data MOA berstruktur DrugBank untuk melengkapkan analisis perkaitan mekanik (DG002)
-- Sahkan teks indikasi persetujuan khusus untuk setiap daripada 7 lesen Malaysia untuk menentukan sama ada "karsinoma payudara wanita" sudah dilindungi di bawah label sedia ada, berbanding mewakili indikasi inkremen yang tulis-benar
-- Jelaskan sama ada nod yang diramal KG lain dalam calon multi-indikasi ini (cth., kanser payudara negatif reseptor, karsinoma tumor Ehrlich) harus dikecualikan sebagai kemungkinan hingar nod graf pengetahuan sebelum penggunaan hiliran kawal selia mana-mana daripada set ramalan ini
-
+**Untuk diteruskan, perkara berikut diperlukan:**
+- Mengesahkan status pendaftaran sebenar letrozole di NPRA dan rekod indikasi asalnya
+- Mendapatkan dan menyemak sisipan pek untuk amaran, kontraindikasi dan keselamatan
+- Melengkapkan data mekanisme tindakan terperinci daripada pangkalan data ubat
+- Menyediakan pelan pemantauan keselamatan, terutamanya kesihatan tulang dan fungsi hati
+- Menilai interaksi ubat yang berkaitan (contohnya aprepitant) dalam populasi sasaran
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

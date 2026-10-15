@@ -2,7 +2,7 @@
 layout: default
 title: Mirtazapine
 parent: Low Evidence (L4-L5)
-nav_order: 487
+nav_order: 508
 evidence_level: L5
 indication_count: 3
 ---
@@ -29,79 +29,93 @@ Tahap bukti: **L5** | Indikasi diramal: **3**
 
 </div>
 
-# Mirtazapine: Dari Gangguan Depresi Utama hingga Sindrom Ohdo dan Variantnya
+# Mirtazapine: Daripada Kemurungan kepada Sindrom Ohdo dan Variannya
 
-## Ringkasan Satu Kalimat
+## Ringkasan Satu Ayat
 
-> Mirtazapine adalah antidepresan kelas NaSSA yang telah ditetapkan untuk gangguan depresi utama.
-> Model TxGNN memprediksi bahwa ia mungkin efektif untuk **Sindrom Ohdo dan Variantnya**,
-> tetapi saat ini **tidak ada uji coba klinis** dan **tidak ada publikasi** yang mendukung arah ini — prediksi hanya merupakan output model.
-
----
-
-## Tinjauan Cepat
-
-| Item | Kandungan |
-|------|----------|
-| Indikasi Asli | Gangguan depresi utama (berdasarkan kelas obat yang telah ditetapkan; teks indikasi spesifik TFDA tidak ditangkap dalam paket bukti) |
-| Indikasi Baru yang Diprediksi | Sindrom Ohdo dan variantnya |
-| Skor Prediksi TxGNN | 99.42% |
-| Tingkat Bukti | L5 |
-| Status Pasar Malaysia | ✓ Sudah Dipasarkan |
-| Jumlah Pendaftaran | 8 |
-| Keputusan yang Direkomendasikan | Ditahan |
+Mirtazapine ialah ubat antidepresan yang pada asalnya digunakan untuk merawat kemurungan (kemurungan unipolar, kemurungan endogen, gangguan kemurungan major) dan gangguan kebimbangan.
+Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom Ohdo dan variannya**,
+tetapi pada masa ini **tiada ujian klinikal** dan **tiada penerbitan** yang menyokong arah ini; ramalan ini hanya berasaskan pengiraan model.
 
 ---
 
-## Mengapa Prediksi Ini Masuk Akal?
+## Gambaran Keseluruhan Ringkas
 
-Saat ini, data mekanisme tindakan yang terperinci tidak tersedia. Berdasarkan informasi yang diketahui, mirtazapine adalah antidepresan noradrenergik dan serotonergik spesifik (NaSSA) — ia menghambat auto-/hetero reseptor adrenergik α2 prasinaptik pusat dan memblokir reseptor 5-HT2, 5-HT3, dan H1 pascasinaptik, dan efikasinya dalam gangguan depresi utama sudah mapan.
-
-Sindrom Ohdo dan variantnya, bagaimanapun, adalah gangguan bawaan yang disebabkan oleh varian patogenik dalam gen pengatur kromatin (misalnya *KAT6A*, *KAT6B*, *MED12*), muncul dengan cacat intelektual dan blepharophimosis. Tidak ada tumpang tindih patofisiologis yang diketahui antara gangguan perkembangan genetik ini dan mekanisme monoaminergik mirtazapine.
-
-Skor TxGNN kemungkinan besar mencerminkan koneksi grafik pengetahuan yang tidak langsung — seperti simpul "cacat intelektual / gejala perilaku" bersama, kemungkinan terhubung melalui penggunaan simtomatik antidepresan untuk gangguan tidur atau suasana hati komorbid pada pasien yang terkena — daripada hipotesis terapeutik yang berdasarkan mekanisme. Penilaian ini konsisten dengan bidang rasional model itu sendiri, yang secara eksplisit menandai tautan sebagai kurang relevan secara langsung.
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Kemurungan unipolar, kemurungan endogen, gangguan kemurungan major, gangguan kebimbangan (berdasarkan graf pengetahuan TxGNN/PrimeKG; tiada indikasi berlesen tempatan) |
+| Indikasi Baharu yang Diramalkan | Sindrom Ohdo dan variannya |
+| Skor Ramalan TxGNN | 99.42% |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
 
-## Bukti Uji Coba Klinis
+## Mengapa Ramalan Ini Munasabah?
 
-Saat ini tidak ada uji coba klinis terkait yang terdaftar
+Pada masa ini, data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia daripada data yang dikumpulkan untuk laporan ini. Berdasarkan pengetahuan farmakologi umum, mirtazapine ialah antagonis adrenergik alfa-2 dengan kesan antagonis terhadap reseptor 5-HT2, 5-HT3 dan H1. Keberkesanannya dalam kemurungan dan kebimbangan telah diketahui.
+
+Sindrom Ohdo (berkaitan KAT6B) ialah gangguan neuroperkembangan genetik yang jarang berlaku. Tiada kaitan mekanistik yang mantap antara farmakologi reseptor mirtazapine dengan patologi asas sindrom ini. Sebarang manfaat yang munasabah hanya bersifat simptomatik, contohnya untuk tidur, selera makan, atau komorbiditi mood/kebimbangan.
+
+Skor TxGNN yang tinggi (0.994) ialah ramalan pengiraan tanpa rasional mekanistik yang didokumenkan. Oleh itu, ramalan ini perlu dianggap sebagai hipotesis awal sahaja.
+
+Ramalan lain yang disenaraikan oleh model:
+- **Sindrom blepharophimosis – ketidakupayaan intelek, jenis Ohdo** (skor 99.11%): Ini ialah gangguan spektrum KAT6B yang sama dengan ramalan pertama, jadi kedua-dua ramalan bukan bukti yang bebas.
+- **Tortikolis paroksismal jinak pada bayi** (skor 99.11%): Gangguan episodik yang sembuh sendiri, berkaitan setara migrain dan varian CACNA1A. Kaitan serotonergik/antihistaminergik dengan mekanisme spektrum migrain hanya spekulatif. Mirtazapine tidak mantap digunakan pada bayi, perjalanan penyakit yang jinak menjadikan kes risiko-faedah untuk rawatan ubat sangat lemah, dan amaran berkotak tentang risiko bunuh diri pada pesakit muda menambah kebimbangan.
+
+---
+
+## Bukti Ujian Klinikal
+
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
-Saat ini tidak ada literatur terkait yang tersedia
+Pada masa ini tiada literatur berkaitan tersedia.
 
 ---
 
-## Informasi Pasar Malaysia
+## Maklumat Pasaran Malaysia
 
-Mirtazapine memiliki 8 pendaftaran aktif di Malaysia (status pasar: Sudah Dipasarkan / Sudah Dipasarkan). Data tingkat lisensi terperinci (nomor pendaftaran, nama produk, bentuk sediaan, teks indikasi yang disetujui) tidak dikembalikan dalam paket bukti ini dan memerlukan pencarian NPRA terpisah.
-
----
-
-## Pertimbangan Keamanan
-
-Silakan lihat sisipan paket untuk informasi keamanan.
-
-*(Catatan: data peringatan utama, kontraindikasi, dan interaksi obat tidak tersedia untuk evaluasi ini — ini ditandai sebagai celah data pemblokiran (DG001) dan harus diselesaikan sebelum evaluasi keamanan apa pun.)*
+Mirtazapine pada masa ini tidak dipasarkan di Malaysia dan tiada pendaftaran (lesen) direkodkan dalam data yang dikumpulkan.
 
 ---
 
-## Kesimpulan dan Langkah Berikutnya
+## Pertimbangan Keselamatan
 
-**Keputusan: Ditahan**
+**Penyakit/keadaan yang dikaitkan dengan kontraindikasi dalam graf pengetahuan (bukan teks label produk):**
+- **Kardiovaskular dan serebrovaskular**: hipotensi ortostatik, gangguan hipotensi, sindrom takikardia ortostatik postural, atrofi sistem berbilang, strok, gangguan serebrovaskular, infarksi serebrum, infarksi miokardium, trombosis koronari
+- **Neurologi/psikiatri**: epilepsi, gangguan afektif bipolar jenis mania, sindrom serotonin, akatisia akibat ubat
+- **Hematologi**: neutropenia, agranulositosis, hemoglobinopati
+- **Hepar, buah pinggang dan hempedu**: penyakit hati, penyakit pundi hempedu, gangguan fungsi buah pinggang
+- **Metabolik**: hipertrigliseridemia, obesiti (termasuk obesiti monogenik)
+
+**Interaksi Ubat** (100 interaksi direkodkan; yang utama disenaraikan):
+- **Major**: Bupropion, Lorcaserin, Dolasetron, Palonosetron
+- **Moderate**: Famotidine, Loperamide, Aprepitant, Morphine, Dexamethasone, Cimetidine, Clarithromycin, Levofloxacin, Dronabinol, Eliglustat, Nabilone, Obeticholic acid, Bisacodyl, Picosulfuric acid, Sodium sulfate, Polyethylene glycol (3350 dengan elektrolit)
+
+Maklumat amaran dan kontraindikasi daripada sisipan pakej NPRA tidak tersedia. Sila rujuk sisipan pakej untuk maklumat keselamatan yang lengkap.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-Ketiga prediksi teratas (Sindrom Ohdo dan variantnya, sindrom blepharophimosis-cacat intelektual tipe Ohdo, torticollis paroksismal jinak pada bayi) adalah kondisi kongenital/pediatrik yang jarang dengan bukti L5 — hanya prediksi model, nol uji coba klinis, nol literatur, dan tidak ada tautan mekanisme yang masuk akal dengan farmakologi mirtazapine yang diketahui. Dua dari tiga penyakit kandidat terutama mempengaruhi bayi, populasi di mana mirtazapine tidak memiliki profil keamanan yang mapan.
+- Ketiga-tiga ramalan hanya disokong oleh skor model (Tahap Bukti L5), tanpa ujian klinikal, literatur, atau kaitan mekanistik yang munasabah. Mirtazapine juga tidak dipasarkan di Malaysia, dan ramalan pertama dan kedua pada dasarnya ialah entiti yang sama.
 
-**Untuk melanjutkan, diperlukan hal berikut:**
-- Sisipan paket TFDA (peringatan, kontraindikasi) untuk menutup celah data pemblokiran (DG001)
-- Data MOA drugbank yang dikonfirmasi (DG002)
-- Sebuah hipotesis mekanisme yang tulus menghubungkan mirtazapine ke jalur regulasi kromatin atau penyakit saluran ion, jika ditindaklanjuti lebih lanjut
-- Mengingat profil bukti saat ini, rekomendasikan untuk menurunkan prioritas kandidat ini demi prediksi dengan skor lebih tinggi yang didukung bukti
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) terperinci daripada DrugBank
+- Sisipan pakej NPRA (amaran dan kontraindikasi) bagi menilai keselamatan; ini ialah jurang data yang menghalang saringan keselamatan
+- Semakan literatur dan pendaftaran ujian klinikal untuk sindrom Ohdo/spektrum KAT6B bagi mencari sebarang bukti praklinikal atau laporan kes
+- Rasional mekanistik yang jelas, atau sasaran simptomatik yang ditentukan (cth. tidur, selera makan, kebimbangan)
+- Penilaian risiko-faedah khusus untuk populasi kanak-kanak, termasuk amaran berkotak tentang risiko bunuh diri pada pesakit muda
+- Status pendaftaran dan laluan akses ubat di Malaysia, memandangkan produk ini tidak dipasarkan
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

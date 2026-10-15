@@ -2,7 +2,7 @@
 layout: default
 title: Alfentanil Hydrochloride
 parent: Low Evidence (L4-L5)
-nav_order: 40
+nav_order: 41
 evidence_level: L5
 indication_count: 0
 ---

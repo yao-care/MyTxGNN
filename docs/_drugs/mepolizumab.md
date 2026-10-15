@@ -2,7 +2,7 @@
 layout: default
 title: Mepolizumab
 parent: Low Evidence (L4-L5)
-nav_order: 472
+nav_order: 493
 evidence_level: L4
 indication_count: 5
 ---
@@ -29,61 +29,74 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-# Mepolizumab: Dari Penyakit Eosinofilik hingga Trombositopenia Akibat Pemusnahan Imun
+# Mepolizumab: Daripada Pneumonia Eosinofilik kepada Trombositopenia Akibat Pemusnahan Imun
 
 ## Ringkasan Satu Ayat
 
-Mepolizumab ialah monoklonal antibodi anti-IL-5 yang digunakan untuk merawat keadaan eosinofilik (asma eosinofilik teruk, EGPA, HES, CRSwNP, EoE). Model TxGNN meramalkan ia mungkin berkesan untuk **trombositopenia akibat pemusnahan imun**, tetapi ini didukung oleh hanya **1 laporan kes** dan **tiada ujian klinis yang berdaftar**, dan jurang data Pemblokir pada pelabelan keselamatan TFDA/NPRA bermakna calon belum boleh memasuki tahap semakan keselamatan formal.
+Mepolizumab ialah antibodi monoklonal anti-IL-5 yang pada asalnya dikaitkan dengan rawatan pneumonia eosinofilik dan eosinofilia pulmonari.
+Model TxGNN meramalkan ia mungkin berkesan untuk **trombositopenia akibat pemusnahan imun**,
+tetapi setakat ini hanya **0 kajian klinikal** dan **1 penerbitan** (laporan kes) menyokong arah ini, jadi bukti masih sangat terhad.
 
-## Gambaran Pantas
+---
+
+## Gambaran Keseluruhan Pantas
 
 | Item | Kandungan |
-|------|-----------|
-| Petunjuk Asal | Penyakit eosinofilik (asma eosinofilik teruk, EGPA, HES, CRSwNP, EoE) — berdasarkan maklumat kelas ubat yang diketahui; teks lesen Malaysia itu sendiri tidak dikembalikan dalam pakej bukti ini |
-| Petunjuk Baru yang Diramalkan | Trombositopenia akibat pemusnahan imun |
+|------|------|
+| Indikasi Asal | Pneumonia eosinofilik; eosinofilia pulmonari |
+| Indikasi Baharu yang Diramalkan | Trombositopenia akibat pemusnahan imun |
 | Skor Ramalan TxGNN | 99.66% |
 | Tahap Bukti | L4 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 2 |
-| Keputusan Disyorkan | Tunggu |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (Tangguh) |
 
-## Mengapa Ramalan Ini Wajar?
+---
 
-Data mekanisme tindakan terperinci tidak tersedia dalam pakej bukti ini (ditandakan sebagai jurang data DG002). Berdasarkan maklumat yang diketahui, mepolizumab ialah monoklonal antibodi anti-IL-5 yang menyekat isyarat IL-5 dan mengurangkan jumlah eosinofil dalam peredaran dan tisu. Petunjuk yang diluluskan ialah semua penyakit berkaitan eosinofil (asma eosinofilik teruk, EGPA, HES, CRSwNP, EoE), dan keberkesanannya dalam persekitaran itu sudah terbukti dengan baik.
+## Mengapa Ramalan Ini Munasabah?
 
-Penerbitan tunggal yang menyokong (PMID 28648630) menerangkan seorang pesakit dengan sindrom hipereosinofilik yang tahan steroid (HES) yang mengalami microangiopati trombotik campuran dengan pemusnahan sel darah berkaitan imun, yang mereda selepas mepolizumab mengawal hipereosinofilia mendasari. Ini menunjukkan trombositopenia dalam kes itu adalah **akibat sekunder daripada kecederaan tisu/sumsum tulang yang didorong eosinofil**, bukan proses trombositopenia imun primer (ITP) yang mepolizumab menargetkan secara langsung. Skor TxGNN yang tinggi berkemungkinan mencerminkan laluan graf pengetahuan tidak langsung (mepolizumab → HES → trombositopenia) dan bukannya mekanisme langsung yang disahkan terhadap pemusnahan plelet berkaitan imun — kelayakan mekanisme hanya terdapat dalam konteks terbatas sitopenias berkaitan HES, bukan untuk ITP secara umum.
+Data terperinci mengenai mekanisme tindakan asal tidak tersedia buat masa ini. Berdasarkan maklumat umum, mepolizumab ialah antibodi monoklonal anti-IL-5 yang menyingkirkan eosinofil. Keberkesanannya dalam penyakit eosinofilik paru-paru telah dikaitkan dengan mekanisme ini, dan secara mekanistik ia mungkin boleh digunakan pada keadaan imun lain yang dipacu eosinofil.
 
-## Bukti Ujian Klinis
+Satu-satunya penerbitan yang dipautkan (PMID 28648630) ialah laporan kes sindrom imun hipereosinofilik tahan steroid yang dirawat dengan mepolizumab bersama agen lain, dengan mikroangiopati trombotik campuran yang turut bertambah baik. Sitopenia yang dimediasi imun mungkin menjadi sebahagian daripada gambaran klinikal tersebut. Sebarang manfaat kemungkinan bersifat tidak langsung, iaitu melalui penindasan ketidakseimbangan imun yang dipacu eosinofil, dan bukan kesan langsung terhadap pemusnahan platelet.
 
-Pada masa ini tiada ujian klinis yang berkaitan terdaftar.
+Skor TxGNN yang sangat tinggi (0.997) ialah ramalan model sahaja dan tidak disokong oleh data ujian klinikal.
+
+Ramalan lain dalam senarai (gangguan pelepasan primer platelet, penyakit pseudo-von Willebrand, trombositopenia autoimun, trombastenia Glanzmann) tidak mempunyai hubungan mekanistik yang munasabah dengan sekatan IL-5. Kebanyakannya tidak disokong oleh sebarang ujian atau literatur (L5), kecuali satu kajian tinjauan yang tidak berkaitan secara langsung.
+
+---
+
+## Bukti Ujian Klinikal
+
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
+
+---
 
 ## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|-------|------|--------|---------|
-| [28648630](https://pubmed.ncbi.nlm.nih.gov/28648630/) | 2018 | Laporan Kes | Blood Cells, Molecules & Diseases | Sindrom hipereosinofilik yang tahan steroid dengan microangiopati trombotik campuran mereda selepas mepolizumab mengawal kecederaan pelengkap/tisu yang didorong eosinofil, bersama-sama dengan perbaikan pemusnahan sel darah berkaitan |
+|------|-----|------|------|---------|
+| [28648630](https://pubmed.ncbi.nlm.nih.gov/28648630/) | 2018 | Laporan kes | Blood Cells Mol Dis | Diatesis imun hipereosinofilik tahan steroid reda dengan mepolizumab, disertai pemulihan mikroangiopati trombotik campuran |
 
-## Maklumat Pasaran Malaysia
+---
 
-Mepolizumab memegang 2 kebenaran pemasaran berdaftar di Malaysia (status NPRA: Dipasarkan). Butiran seperti nombor lesen, nama produk, bentuk dos, dan teks indikasi yang diluluskan tidak dikembalikan oleh pertanyaan NPRA yang mendasari pakej bukti ini.
+## Keselamatan
 
-## Pertimbangan Keselamatan
+Sila rujuk sisipan pek untuk maklumat keselamatan. Tiada interaksi ubat yang ditemui dalam data yang dikumpulkan untuk laporan ini.
 
-Sila rujuk risalah untuk maklumat keselamatan.
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tunggu**
+**Keputusan: Hold (Tangguh)**
 
-**Alasan:**
-Bukti untuk petunjuk ini terletak pada laporan kes tunggal yang menerangkan trombositopenia sebagai akibat sekunder daripada kecederaan tisu berkaitan HES, bukan mekanisme ITP primer yang disahkan, dengan tiada ujian klinis berdaftar. Di samping itu, jurang data Pemblokir (DG001: amaran lesen TFDA/NPRA/kontraindikasi belum tersedia) menghalang calon ini daripada memasuki tahap semakan keselamatan S1 tanpa mengira bukti keberkesanan. Perhatikan juga bahawa empat calon berpangkat lebih rendah untuk mepolizumab (trombositopenia autoimmun, gangguan pelepasan plelet primer, pseudo-penyakit von Willebrand, Glanzmann thrombasthaenia) menunjukkan bukti yang lebih lemah atau tiada bukti sama sekali, mengukuhkan bahawa isyarat TxGNN di sini berkemungkinan didorong oleh kedekatannya kepada kes HES-trombositopenia tunggal daripada hubungan ubat-penyakit yang luas dan teguh.
+**Rasional:**
+- Ramalan ini hanya disokong oleh satu laporan kes dan skor model, tanpa ujian klinikal. Mekanisme yang menghubungkan sekatan IL-5 dengan pemusnahan platelet secara imun juga tidak langsung. Ubat ini juga tidak dipasarkan di Malaysia.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Risalah TFDA/NPRA dengan amaran, kontraindikasi, dan data DDI (menyelesaikan jurang Pemblokir DG001)
-- Data mekanisme tindakan DrugBank yang disahkan (menyelesaikan DG002)
-- Siri kes bertujuan atau kajian mekanisme yang menilai mepolizumab secara khusus dalam trombositopenia imun, berbeza daripada sitopenias sekunder berkaitan HES
-- Perincian lesen Malaysia yang lengkap (nama produk, bentuk dos, teks indikasi yang diluluskan) untuk mengesahkan skop label semasa
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data amaran dan kontraindikasi daripada sisipan pek NPRA (jurang data yang menghalang penyaringan keselamatan)
+- Data mekanisme tindakan (MOA) terperinci daripada DrugBank
+- Bukti klinikal yang lebih kukuh, seperti siri kes atau ujian fasa 2 untuk trombositopenia imun
+- Penilaian status pendaftaran dan laluan pengawalseliaan di Malaysia
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

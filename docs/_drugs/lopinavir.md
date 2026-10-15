@@ -2,7 +2,7 @@
 layout: default
 title: Lopinavir
 parent: Low Evidence (L4-L5)
-nav_order: 454
+nav_order: 474
 evidence_level: L5
 indication_count: 3
 ---
@@ -29,93 +29,94 @@ Tahap bukti: **L5** | Indikasi diramal: **3**
 
 </div>
 
-# Lopinavir: Dari Jangkitan HIV kepada Sindrom Immunodefisiensi Perolehan Kucing
+# Lopinavir: Daripada Jangkitan HIV kepada Sindrom Kurang Daya Tahan Imun Kucing (Feline AIDS)
 
 ## Ringkasan Satu Ayat
 
-Lopinavir adalah perencat protease HIV, biasanya dikoadministrasikan dengan ritonavir (LPV/r), dan merupakan terapi antiretrovirus pokok untuk jangkitan HIV-1 dan HIV-2 pada manusia.
-Model TxGNN meramalkan ia mungkin berkesan untuk **Sindrom Immunodefisiensi Perolehan Kucing (jangkitan FIV)**,
-dengan **0 percubaan klinikal** dan **0 penerbitan** yang secara langsung menyokong aplikasi veterinar ini — ramalan pada masa ini sepenuhnya bergantung pada pemodelan pengiraan.
+Lopinavir ialah perencat protease HIV-1 yang pada asalnya digunakan untuk merawat jangkitan HIV dan AIDS.
+Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom kurang daya tahan imun kucing (feline AIDS)** dengan skor tinggi, tetapi setakat ini terdapat **0 percubaan klinikal** dan **0 penerbitan** yang menyokong indikasi ini secara langsung.
+Penunjuk kedua, **jangkitan virus imunodefisiensi simian (SIV)**, hanya disokong oleh **3 kajian praklinikal pada primat**.
 
 ---
 
-## Ikhtisar Cepat
+## Gambaran Keseluruhan Pantas
 
-| Item | Kandungan |
-|------|----------|
-| Indikasi Asal | Jangkitan HIV-1 / HIV-2 (teks indikasi yang diluluskan terperinci tidak dapat diperolehi daripada rekod pendaftar semasa) |
-| Indikasi Baru yang Diramalkan | Sindrom Immunodefisiensi Perolehan Kucing |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Jangkitan HIV dan AIDS |
+| Indikasi Baharu yang Diramalkan | Sindrom kurang daya tahan imun kucing (feline AIDS) |
 | Skor Ramalan TxGNN | 99.90% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 7 |
-| Keputusan yang Disyorkan | Tahan |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia dalam Pakej Bukti ini. Berdasarkan farmakologi yang ditetapkan, Lopinavir menghalang protease aspartat HIV — enzim yang penting untuk membelah prekursor poliprotein Gag-Pol menjadi protein viral matang dan berfungsi. Tanpa langkah pembelahan ini, virion yang baru bertunas kekal secara struktur belum matang dan tidak menular. Lopinavir selalu dikombinasikan dengan peningkat farmakokinetik ritonavir untuk mengekalkan kepekatan plasma di atas ambang perencatan.
+Data terperinci mengenai mekanisme tindakan (MOA) asal tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, lopinavir ialah perencat protease HIV-1, kecekapannya dalam jangkitan HIV telah terbukti, dan secara mekanistik ia mungkin boleh digunakan untuk jangkitan lentivirus yang berkaitan.
 
-Virus Immunodefisiensi Kucing (FIV) adalah lentivirus dalam keluarga retrovirus yang luas yang sama seperti HIV. Model graf pengetahuan TxGNN mungkin mengesan perkaitan taksonomi dan protease-struktur ini, dan memberikan skor ramalan tinggi berdasarkan kesamaan itu. Pada dasarnya, jika protease FIV berkongsi keselarasan geometrik yang mencukupi dengan farmakofora pengikatan Lopinavir, perencatan lintas spesies boleh berlaku — konsep yang sudah disahkan dalam model primata SIV yang berkait rapat (lihat bukti indikasi kedudukan ke-2 di bawah).
+Virus imunodefisiensi kucing (FIV) ialah lentivirus yang berkait dengan HIV dan turut mengekod protease, maka wujud rasional pada peringkat kelas ubat. Namun, protease FIV berbeza daripada protease HIV-1 dari segi kekhususan substrat dan kepekaan terhadap perencat. Skor TxGNN yang tinggi nampaknya mencerminkan persamaan dengan indikasi HIV/AIDS dalam graf pengetahuan, bukan bukti langsung. Selain itu, indikasi veterinar berada di luar skop biasa penggunaan semula ubat untuk manusia.
 
-Walau bagaimanapun, rasional mekanistik yang disediakan dalam Pakej Bukti ini adalah berhati-hati: poket pengikat substrat protease FIV berbeza secara ketara daripada protease HIV-1, dan perencat protease HIV yang diketahui menunjukkan afiniti pengikatan yang jauh berkurangan untuk protease FIV sebagai akibatnya. Sehingga kini, **tiada data keberkesanan in vitro atau in vivo** wujud untuk menjembatani celah teori ini bagi Lopinavir secara khususnya pada kucing, menjadikan ramalan sebagai satu inferens pengiraan dan bukannya biologi yang diperhatikan.
+Bagi indikasi kedua (jangkitan SIV), protease SIV lebih menyerupai protease HIV-1 berbanding FIV. Kajian makaka menyokong secara tidak langsung, tetapi ini pada dasarnya mengulangi indikasi HIV asal dan bukan indikasi manusia yang baharu.
+
+Indikasi ketiga (gangguan perkembangan saraf dengan gaya berjalan ataksia, ketiadaan pertuturan dan pengurangan jirim putih korteks) tidak mempunyai kaitan mekanistik yang munasabah. Ia ialah penyakit genetik yang jarang berlaku, dan skor tinggi mungkin artifak graf pengetahuan. Penembusan lopinavir ke sistem saraf pusat juga terhad.
 
 ---
 
 ## Bukti Percubaan Klinikal
 
-Pada masa ini tiada percubaan klinikal yang berkaitan telah didaftarkan.
+Setakat ini tiada percubaan klinikal berkaitan didaftarkan.
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Literatur
 
-Pada masa ini tiada kesusasteraan yang berkaitan tersedia untuk indikasi sindrom immunodefisiensi perolehan kucing.
-
-> **Nota:** Tiga penerbitan pra-klinikal yang menyokong aktiviti Lopinavir dalam model primata **Virus Immunodefisiensi Simian (SIV)** yang berkait rapat telah dikenalpasti bagi indikasi yang diramalkan kedudukan ke-2 (lihat di bawah untuk konteks). Ini tidak membentuk bukti untuk indikasi kucing tetapi adalah saintifik bersebelahan.
+Tiada literatur untuk indikasi utama (feline AIDS). Literatur berikut berkaitan indikasi kedua, jangkitan SIV, dan semuanya kajian praklinikal haiwan:
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|-------|------|--------|----------------|
-| [16973590](https://pubmed.ncbi.nlm.nih.gov/16973590/) | 2006 | Kajian Haiwan (Primata Tidak Manusia) | Journal of Virology | Terapi antiretrovirus ganda termasuk Lopinavir dalam makak sinikal yang dijangkiti SIVmac251 menghasilkan kinetik peluruhan virus yang cepat, secara amnya konsisten dengan dinamik HIV-1 |
-| [17350308](https://pubmed.ncbi.nlm.nih.gov/17350308/) | 2007 | Kajian Haiwan (model SHIV kimera) | Microbes and Infection | SHIV yang membawa gen protease terbitan HIV-1 telah diperencat sepenuhnya oleh penghambat protease dalam budaya sel dan menunjukkan viremia tahan rendah dalam makak rhesus pasca-inokulasi, mengesahkan model SHIV untuk penilaian PI |
-| [12951220](https://pubmed.ncbi.nlm.nih.gov/12951220/) | 2003 | Kajian Haiwan (farmakokinetik/farmakodinamik oral, monyet) | Journal of Virological Methods | LPV/RTV + AZT + 3TC HAART dalam makak rhesus yang dijangkiti SHIV89.6P menekan beban virus dan sebahagiannya memulihkan nisbah CD4/CD8, menunjukkan ketersediaan bio oral dan aktiviti antiviral dalam model primata tidak manusia |
+|------|-----|------|------|---------|
+| [16973590](https://pubmed.ncbi.nlm.nih.gov/16973590/) | 2006 | Kajian haiwan praklinikal | Journal of Virology | Penyusutan viral yang pantas pada makaka yang dijangkiti SIVmac251 dengan terapi antiretroviral empat ubat |
+| [17350308](https://pubmed.ncbi.nlm.nih.gov/17350308/) | 2007 | Pembangunan model haiwan praklinikal | Microbes and Infection | SHIV baharu dengan gen protease HIV-1 dibina sebagai alat menguji keberkesanan perencat protease pada makaka |
+| [12951220](https://pubmed.ncbi.nlm.nih.gov/12951220/) | 2003 | Kajian haiwan praklinikal | Journal of Virological Methods | Kesan HAART oral (AZT, 3TC dan lopinavir/ritonavir) terhadap subset CD8 pada monyet yang dijangkiti SHIV 89.6P |
+
+Sumbangan khusus lopinavir tidak dapat disahkan sepenuhnya daripada data yang ada.
 
 ---
 
-## Maklumat Pasaran Malaysia
+## Maklumat Keselamatan
 
-Tujuh pendaftaran produk untuk Lopinavir telah dicatat dengan Agensi Regulasi Farmaseutikal Kebangsaan (NPRA). Nombor lesen terperinci, nama produk, bentuk dos, dan teks indikasi yang diluluskan tidak dikembalikan dalam pertanyaan set data semasa; butiran pendaftaran penuh boleh diperolehi terus daripada pangkalan data Pendaftaran Produk NPRA.
+**Kontraindikasi (berdasarkan graf pengetahuan, bukan teks label):**
+Graf pengetahuan merekodkan penyakit berikut sebagai berkaitan kontraindikasi:
+- **Kardiovaskular dan irama jantung**: sindrom QT panjang (termasuk jenis keluarga), torsades de pointes, hentian jantung mengejut, penyakit konduksi jantung, blok atrioventrikular, iskemia miokardium, penyakit arteri koronari, kardiomiopati (termasuk hipertrofik), fibrosis endomiokardium, gangguan miokardium
+- **Hepar dan hempedu**: penyakit hati, sirosis hati, penyakit pundi hempedu, jangkitan hepatitis C (termasuk kronik), jangkitan hepatitis B kronik, hiperbilirubinemia (termasuk keturunan), sindrom Gilbert
+- **Metabolik**: hiperglisemia, diabetes mellitus, ketoasidosis diabetik, hipertrigliseridemia, hiperlipidemia gabungan keluarga, kekurangan kalium
+- **Lain-lain**: pankreatitis, hemofilia
 
-| Item | Perincian |
-|------|-----------|
-| Jumlah Pendaftaran Aktif | 7 |
-| Status Pasaran | ✓ Dipasarkan |
-| Ketersediaan Data | Butiran peringkat lesen tertunda untuk pengambilan daripada NPRA |
+**Interaksi Ubat:** Sebanyak 65 interaksi direkodkan. Antara yang utama:
+- **Major**: dolasetron, papaverin
+- **Moderate**: acarbose, bisacodyl, minyak kastor, dapagliflozin, famotidin, gliserin, laktitol, laktulosa, levofloksasin, magnesium sitrat, magnesium hidroksida, metformin, minyak mineral, ondansetron, palonosetron, fenolftalein
+- **Minor**: cimetidine, klotrimazol
 
----
-
-## Pertimbangan Keselamatan
-
-Data amaran terperinci, kontraindikasi, dan profil interaksi ubat-ubatan tidak tersedia dalam Pakej Bukti ini. Sila rujuk sisipan produk (Maklumat Preskripsi / Ringkasan Ciri-ciri Produk) untuk maklumat keselamatan lengkap, termasuk risiko pemanjangan QTc yang terdokumentasi dengan baik, amaran hepatotoksisiti, dan profil interaksi ubat-ubatan yang dimediasi CYP3A4 yang luas daripada Lopinavir/ritonavir.
+Lopinavir ialah perencat CYP3A4, yang menjelaskan banyak interaksi ini. Sila rujuk sisipan pek untuk maklumat amaran dan kontraindikasi rasmi.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
 **Rasional:**
-Model TxGNN memberikan skor ramalan tinggi kepada Lopinavir untuk sindrom AID kucing berdasarkan homologi protease lentivirus, tetapi poket pengikat substrat protease FIV berbeza secara struktur daripada protease HIV-1 dengan cara yang secara ketara mengurangkan afiniti penghambat — dan tiada bukti eksperimental (berasaskan sel, haiwan, atau klinikal) pada masa ini wujud untuk mengesahkan hipotesis pemulihan ulang ini pada kucing.
+- Ketiga-tiga indikasi yang diramalkan hanya berada pada tahap bukti L4–L5. Tiada percubaan klinikal, dan literatur yang ada hanyalah kajian haiwan yang pada dasarnya mengulangi indikasi HIV asal. Skor TxGNN yang tinggi (99.90%) nampaknya mencerminkan persamaan dalam graf pengetahuan, bukan bukti langsung. Indikasi feline AIDS ialah veterinar, manakala indikasi neurodevelopmental tidak mempunyai asas mekanistik.
+- Lopinavir tidak dipasarkan di Malaysia (0 pendaftaran), dan profil keselamatan (QT memanjang, hepatotoksisiti, pankreatitis, 65 DDI) memerlukan perhatian.
 
-**Untuk maju daripada Tahan kepada soalan penyelidikan aktif, yang berikut diperlukan:**
-
-- **Ujian pengikatan in vitro**: Tentukan IC₅₀ Lopinavir terhadap protease FIV rekombinan untuk menentukan sama ada perencatan biokimia dapat dilakukan pada kepekatan yang dicapai secara farmakologi
-- **Kajian keberkesanan budaya sel**: Uji aktiviti antiviral dalam garis limfosit kucing yang dijangkiti FIV (contohnya, sel MYA-1 atau FL-4) menggunakan titik akhir pengurangan antigen p24/p27 piawai
-- **Pengambilan data MOA**: Dapatkan data sisipan pangkalan data DrugBank / TFDA penuh untuk melengkapkan analisis pautan mekanistik dan pra-pemeriksaan keselamatan (Jurang Data DG001 dan DG002)
-- **Data farmakokinetik veterinar**: Lopinavir/ritonavir telah dikuasakan secara oral kepada kucing semasa penyelidikan COVID-19; data PK sedia ada daripada kajian tersebut harus disemak untuk kecukupan dos-pendedahan pada felin
-- **Penjelasan laluan regulasi**: Sahkan sama ada ini akan dijalankan sebagai produk ubat veterinar dan kenal pasti pihak berkuasa regulasi yang berkenaan (contohnya, Majlis Pertanian di Taiwan, atau setara di Malaysia)
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) terperinci
+- Maklumat amaran dan kontraindikasi daripada sisipan pek yang diluluskan
+- Kajian praklinikal atau klinikal yang menilai lopinavir secara khusus untuk indikasi yang diramalkan
+- Penjelasan skop: sama ada indikasi veterinar (feline AIDS, SIV) relevan dengan program penggunaan semula ubat untuk manusia
+- Pengesahan pasaran dan status pendaftaran tempatan jika penggunaan di Malaysia dipertimbangkan
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

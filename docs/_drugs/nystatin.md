@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Nystatin
-parent: Low Evidence (L4-L5)
-nav_order: 511
-evidence_level: L5
+parent: Medium Evidence (L3)
+nav_order: 535
+evidence_level: L3
 indication_count: 10
 ---
 
 # Nystatin
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L3** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,88 +29,95 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Nystatin: Daripada Jangkitan Kulat kepada Vulvovaginitis
+# Nystatin: Daripada Kandidiasis kepada Vulvovaginitis
 
 ## Ringkasan Satu Ayat
 
-> Nystatin ialah antibiotic antimikotik poliene yang secara historis digunakan untuk merawat jangkitan Candida (kulat) pada kulit, mulut, dan selaput lendir.
-> Model TxGNN meramalkan ia mungkin berkesan untuk **Vulvovaginitis**,
-> dengan **0 percubaan klinikal khusus** tetapi **20 penerbitan sokongan**, termasuk satu kajian kohort perbandingan yang secara langsung menilai nystatin dalam tetapan ini.
+Nystatin ialah antikulat jenis polien yang pada asalnya digunakan untuk merawat kandidiasis (kulit, mulut dan vulvovaginal).
+Model TxGNN meramalkan ia mungkin berkesan untuk **vulvovaginitis**,
+tetapi data yang dikompilkan untuk laporan ini mencatatkan **0 percubaan klinikal** dan **20 penerbitan** (kebanyakannya ulasan). Ramalan ini lebih merupakan lanjutan indikasi sedia ada berbanding penggunaan semula ubat yang sebenar.
 
 ---
 
-## Gambaran Lanjutan
+## Gambaran Keseluruhan Pantas
 
 | Item | Kandungan |
-|------|-----------|
-| Petunjuk Asal | Tidak dinyatakan dalam data pendaftaran yang disediakan (kelas farmakologi umum Nystatin menyasarkan jangkitan Candida/kulat) |
-| Petunjuk Baru Meramal | Vulvovaginitis |
+|------|------|
+| Indikasi Asal | Kandidiasis kulit, kandidiasis mulut, kandidiasis, kandidiasis vulvovaginal (berdasarkan graf pengetahuan TxGNN/PrimeKG) |
+| Indikasi Baharu yang Diramalkan | Vulvovaginitis |
 | Skor Ramalan TxGNN | 99.92% |
-| Tahap Bukti | L3 (data pemerhatian/kohort + kesusasteraan ulasan; tiada RCT selesai) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 11 |
-| Keputusan Disyorkan | Tahan |
+| Tahap Bukti | L3 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa kini, data mekanisme tindakan terperinci tidak tersedia. Berdasarkan farmakologi yang diketahui, Nystatin tergolong dalam kelas antimikotik makrolid poliene — ia mengikat ergosterol dalam membran sel kulat, mewujudkan pori yang menyebabkan kebocoran kandungan sel dan kematian sel kulat. Ia diserap dengan buruk secara sistemik dan digunakan terutamanya secara topikal atau dalam saluran gastrointestinal untuk jangkitan berkaitan Candida.
+Data mekanisme tindakan terperinci tidak tersedia dalam data yang dikompilkan. Berdasarkan maklumat sedia ada, nystatin ialah antikulat polien yang mengikat ergosterol pada membran sel kulat, membentuk liang dan menyebabkan kebocoran kandungan sel. Kesan ini diketahui secara umum dan bukan hasil data mekanisme yang disahkan dalam set data ini.
 
-Vulvovaginitis, terutamanya kandidiasis vulvovagina (VVC), kebanyakannya disebabkan oleh *Candida albicans* (85–90% kes). Memandangkan aktiviti antimikotik Nystatin yang telah ditetapkan secara langsung menyasarkan spesies *Candida* yang bertanggungjawab untuk kebanyakan kes vulvovaginitis, ramalan TxGNN selaras dengan rasional farmakologi yang terdokumen dengan baik daripada lompatan mekanik yang tidak dijangka.
+Vulvovaginitis kandidal ialah punca berjangkit paling lazim bagi vulvovaginitis, dan kandidiasis vulvovaginal sudah pun tersenarai dalam indikasi asal nystatin. Oleh itu, kaitan mekanistiknya terus, tetapi ini adalah lanjutan dalam indikasi sedia ada, bukan penggunaan semula yang baharu.
 
-Ini disokong lebih lanjut oleh puluhan tahun kesusasteraan klinikal yang menerangkan penggunaan nystatin dalam vulvovagina/vulvovaginitis bercampur, termasuk kajian kerentanan perbandingan terhadap fluconazole dan terapi kombinasi dengan antimikrobial lain (cth., nifuratel), mencadangkan ramalan mencerminkan calon penggunaan semula yang masuk akal dan berpandukan mekanisme daripada persatuan graf pengetahuan yang tidak berasas — tidak seperti beberapa ramalan berperingkat lebih rendah dalam pakej bukti yang sama ini (cth., penyakit orbital, teratoma), yang tidak mempunyai sebarang sambungan mekanis atau bukti kepada Nystatin.
-
----
-
-## Bukti Ujian Klinikal
-
-Pada masa kini tiada percubaan klinikal berkaitan yang didaftarkan.
+Perlu diingat bahawa nystatin tidak dijangka berkesan terhadap punca bukan kandidal seperti vaginosis bakteria atau trikomoniasis. Selain itu, ulasan lama menyatakan nystatin telah disaingi oleh azol (imidazol dan triazol) sebagai pilihan pertama untuk kandidiasis vulvovaginal.
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Percubaan Klinikal
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|------|------|------|---------|
-| [20406393](https://pubmed.ncbi.nlm.nih.gov/20406393/) | 2011 | Kohort | Mycoses | Dalam 287 isolat *Candida* daripada pesakit VVC rumit, berkorelasi kerentanan in-vitro fluconazole/nystatin dengan hasil klinikal; menyokong keberkesanan nystatin yang berterusan terhadap strain yang rintang |
-| [30359236](https://pubmed.ncbi.nlm.nih.gov/30359236/) | 2018 | Praklinik (model tikus) | BMC Microbiology | Nystatin meningkatkan tindak balas imun mukosa dan melindungi ultrastruktur epitelium vagina dalam model tikus VVC |
-| [32104010](https://pubmed.ncbi.nlm.nih.gov/32104010/) | 2020 | In vitro | Infection and Drug Resistance | Nystatin (vs. zarah nano ZnO) merendahkan ekspresi gen virulensi (SAP1-3) dalam isolat *C. albicans* yang rintang fluconazole daripada VVC |
-| [39771534](https://pubmed.ncbi.nlm.nih.gov/39771534/) | 2024 | Ulasan | Pharmaceutics | Ulasan pengurusan VVC yang rintang fluconazole; mengenalpasti nystatin dalam kalangan terapi antimikotik alternatif yang berdaya maju |
-| [37023426](https://pubmed.ncbi.nlm.nih.gov/37023426/) | 2023 | In vitro perbandingan | J Infect Dev Ctries | Dibandingkan zon perencatan minyak pohon teh vs. nystatin terhadap isolat *Candida* vagina dalam kehamilan |
-| [21774671](https://pubmed.ncbi.nlm.nih.gov/21774671/) | 2011 | Ulasan | J Women's Health | Ulasan asid borik untuk VVC berulang; membincangkan nystatin sebagai alternatif sedia ada untuk spesies bukan albicans yang rintang azol |
-| [16047929](https://pubmed.ncbi.nlm.nih.gov/16047929/) | 2005 | Klinikal | Ceska Gynekologie | Menilai terapi nystatin vagina + nifuratel gabungan untuk jangkitan vulvovagina bercampur/pelbagai |
-| [25775428](https://pubmed.ncbi.nlm.nih.gov/25775428/) | 2015 | Ulasan | BMJ Clinical Evidence | Ulasan umum diagnosis kandidiasis vulvovagina dan pilihan rawatan |
-| [12228137](https://pubmed.ncbi.nlm.nih.gov/12228137/) | 2002 | Ulasan | BMJ | Ulasan klinikal kandidiasis vulvovagina |
-| [4919155](https://pubmed.ncbi.nlm.nih.gov/4919155/) | 1970 | Ulasan (monograf) | Med Clin North Am | Monograf awal pada nystatin, termasuk penggunaannya dalam jangkitan candidal |
+Pada masa ini tiada percubaan klinikal berkaitan didaftarkan untuk vulvovaginitis.
+
+---
+
+## Bukti Literatur
+
+Berikut ialah penerbitan terpilih (kebanyakannya ulasan; tiada RCT dikenal pasti dalam data):
+
+| PMID | Tahun | Jenis | Jurnal | Dapatan Utama |
+|------|-----|------|------|---------|
+| [25775428](https://pubmed.ncbi.nlm.nih.gov/25775428/) | 2015 | Ulasan | BMJ Clinical Evidence | Kandidiasis vulvovaginal ialah punca vaginitis kedua paling lazim selepas vaginosis bakteria; *C. albicans* menyumbang 85–90% kes |
+| [21718579](https://pubmed.ncbi.nlm.nih.gov/21718579/) | 2010 | Ulasan | BMJ Clinical Evidence | Ringkasan bukti kandidiasis vulvovaginal (kemas kini lebih awal) |
+| [19454049](https://pubmed.ncbi.nlm.nih.gov/19454049/) | 2007 | Ulasan | BMJ Clinical Evidence | Ringkasan bukti kandidiasis vulvovaginal (kemas kini lebih awal) |
+| [39771534](https://pubmed.ncbi.nlm.nih.gov/39771534/) | 2024 | Ulasan | Pharmaceutics | Pengurusan kandidiasis vulvovaginal rintang flukonazol; nystatin disebut antara terapi alternatif |
+| [21774671](https://pubmed.ncbi.nlm.nih.gov/21774671/) | 2011 | Ulasan | Journal of Women's Health | Bukti klinikal asid borik untuk kandidiasis vulvovaginal berulang |
+| [18729533](https://pubmed.ncbi.nlm.nih.gov/18729533/) | 2008 | Ulasan | Drugs | Pertimbangan rawatan tempatan kandidiasis vulvovaginal; rawatan oral dan tempatan dianggap sama berkesan untuk kes tidak rumit |
+| [1436934](https://pubmed.ncbi.nlm.nih.gov/1436934/) | 1992 | Ulasan | Obstet Gynecol Clin North Am | Nystatin diperkenalkan pada 1950-an tetapi telah dilangkaui oleh imidazol dan triazol sebagai pilihan pertama |
+| [36785761](https://pubmed.ncbi.nlm.nih.gov/36785761/) | 2023 | Ulasan | Drug Des Devel Ther | Pilihan rawatan sedia ada terdiri daripada azol oral dan topikal, kecuali nystatin topikal (polien); polien oral tidak diserap sehingga tidak berkesan untuk kandidiasis vulvovaginal |
+| [4919155](https://pubmed.ncbi.nlm.nih.gov/4919155/) | 1970 | Ulasan | Med Clin North Am | Ulasan umum mengenai nystatin |
+| [10796183](https://pubmed.ncbi.nlm.nih.gov/10796183/) | 2000 | Ulasan sistematik (Cochrane) | Cochrane Database Syst Rev | Rawatan topikal untuk kandidiasis vagina semasa kehamilan |
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Pakej bukti mengesahkan Nystatin memegang **11 pendaftaran aktif** di Malaysia (status pasaran: ✓ Dipasarkan), tetapi tiada nombor lesen, nama produk, bentuk dos, atau teks petunjuk diluluskan yang dikembalikan untuk sebarang pendaftaran individu dalam set data ini. Butiran peringkat pendaftaran perlu diambil terus daripada pangkalan data NPRA sebelum ini dapat digunakan untuk menyokong keputusan perumusan/laluan.
+Nystatin pada masa ini tidak dipasarkan di Malaysia dan tiada pendaftaran direkodkan dalam data yang dikompilkan.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk penyisipan pakej untuk maklumat keselamatan. *(Nota: amaran keselamatan, kontraindikasi, dan data DDI untuk Nystatin pada masa kini merupakan jurang data yang memblokir dalam pakej bukti ini — lihat Kesimpulan.)*
+- **Kontraindikasi daripada graf pengetahuan (bukan teks label produk):** insufisiensi adrenokortikal, penyakit Addison, atrofi kulit, telangiektasia, penyakit kapilari dan telangiektasia hemoragik herediter. Maklumat ini perlu disahkan dengan sumber label rasmi.
+- **Interaksi Ubat:** pangkalan data DDI mencatatkan 100 interaksi yang berpotensi, tetapi tahap keterukan semuanya "Tidak diketahui". Contoh ubat yang disenaraikan termasuk siklosporin, oktreotida, flukonazol, eritromisin, azitromisin, bortezomib, tramadol, lorazepam dan sildenafil. Kepentingan klinikalnya belum dinilai.
+
+Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi yang rasmi.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
-**Rasional:**
-- Bukti mekanis dan kesusasteraan untuk vulvovaginitis adalah munasabah menyokong (L3 — data kohort ditambah kesusasteraan ulasan yang konsisten), tetapi **jurang data berseveriti penyekat** (amaran penyisipan pakej TFDA/NPRA yang hilang dan kontraindikasi) bermakna calon ini belum dapat lulus pintu penilaian awal keselamatan S1.
+**Justifikasi:**
+- Bukti hanya berbentuk ulasan dan ringkasan klinikal tanpa percubaan klinikal, dan ramalan ini pada dasarnya lanjutan indikasi sedia ada (kandidiasis vulvovaginal) dan bukan penggunaan semula sebenar. Ubat ini juga tidak dipasarkan di Malaysia, dan data keselamatan rasmi yang penting masih tiada sehingga saringan keselamatan tidak boleh diteruskan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Amaran penyisipan pakej/kontraindikasi (daripada label produk NPRA/TFDA) untuk melengkapkan pemeriksaan keselamatan S1
-- Dokumentasi mekanisme tindakan yang disahkan daripada DrugBank
-- Butiran peringkat lesen Malaysia (nama produk, bentuk dos, teks petunjuk diluluskan) untuk kesemua 11 pendaftaran
-- Sumber data DDI, kerana pertanyaan semasa tidak mengembalikan keputusan (bukan ketiadaan yang disahkan)
+- Amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menghalang)
+- Data mekanisme tindakan (MOA) yang disahkan daripada DrugBank
+- Pengesahan kebolehdapatan formulasi tempatan/vagina di Malaysia, memandangkan tiada produk berdaftar
+- Perbandingan dengan azol sebagai rawatan sedia ada, dan data kerintangan kulat tempatan
+- Penilaian klinikal keterukan interaksi ubat yang dicatatkan
 
+**Nota tentang ramalan lain:** Ramalan peringkat tinggi lain, seperti penyakit rongga orbit, teratoma sista, sista dermoid saraf tulang belakang dan osteoradionekrosis mandibel, tidak mempunyai bukti sokongan dan dinilai sebagai L5 (Hold). Satu-satunya percubaan yang dipadankan untuk penyakit orbit (NCT03178149) melibatkan ubat dan indikasi yang berbeza, jadi ia padanan palsu. Vulvitis (L3) hampir sepenuhnya berkongsi bukti dengan vulvovaginitis dan juga merupakan lanjutan indikasi sedia ada.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

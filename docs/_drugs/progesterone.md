@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Progesterone
-parent: Medium Evidence (L3)
-nav_order: 576
-evidence_level: L3
+parent: Low Evidence (L4-L5)
+nav_order: 603
+evidence_level: L5
 indication_count: 5
 ---
 
 # Progesterone
 {: .fs-9 }
 
-Tahap bukti: **L3** | Indikasi diramal: **5** 
+Tahap bukti: **L5** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,92 +29,125 @@ Tahap bukti: **L3** | Indikasi diramal: **5**
 
 </div>
 
-# Progesteron: Daripada Kekurangan Progesteron kepada Kanser Uterus Corpus
+# Progesteron: Daripada Endometriosis dan Kanser Endometrium kepada Kanser Korpus Uterus
 
 ## Ringkasan Satu Ayat
 
-Progesteron ialah hormon steroid semula jadi yang secara konvensional digunakan untuk keadaan ginekologi yang berkaitan dengan kekurangan progesteron (contohnya, sokongan fasa luteal, amenorrhea sekunder, terapi penggantian hormon). Model TxGNN meramalkan potensi keunggulan dalam **Kanser Uterus Corpus**, tetapi asas bukti semasa adalah awal — diambil daripada **35 ujian klinis** dan **17 penerbitan**, kebanyakannya menangani konteks berkaitan menopaus/penggantian hormon atau histopatologi daripada ujian rawatan progesteron langsung untuk kanser ini.
+Progesteron ialah hormon steroid semula jadi yang pada asalnya dikaitkan dengan rawatan endometriosis, kanser endometrium, osteoporosis pascamenopaus dan vaginitis atrofi pascamenopaus.
+Model TxGNN meramalkan ia mungkin berkesan untuk **kanser korpus uterus**, tetapi skor ramalan ialah **0.0%**, tiada **percubaan klinikal** didaftarkan bagi entri ini, dan kesusasteraan yang diperoleh kebanyakannya tidak berkaitan secara langsung.
+Bukti yang lebih bermakna wujud untuk entri bertindih "kanser endometrium" (7 percubaan klinikal dan 20 penerbitan, kebanyakannya tidak langsung).
 
 ---
 
-## Gambaran Pantas
+## Gambaran Keseluruhan Pantas
 
-| Item | Kandungan |
-|------|----------|
-| Petunjuk Asal | Keadaan berkaitan kekurangan progesteron (pengetahuan farmakologi umum; tidak dinyatakan dalam data pendaftaran bungkusan bukti) |
-| Petunjuk Baru Yang Diramalkan | Kanser Uterus Corpus |
-| Skor Ramalan TxGNN | 0.00% |
-| Tahap Bukti | L3 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 15 |
-| Keputusan Yang Disyorkan | Tahan |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Endometriosis, kanser endometrium, osteoporosis pascamenopaus, vaginitis atrofi pascamenopaus (daripada graf pengetahuan TxGNN; tiada lesen tempatan untuk dirujuk) |
+| Indikasi Baharu yang Diramalkan | Kanser korpus uterus |
+| Skor Ramalan TxGNN | 0.0% |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan terperinci tidak tersedia. Berdasarkan maklumat yang diketahui, progesteron mengaktifkan penerima progesteron (PR), menginduksi desidalisasi stroma endometrial dan pembezaan kelenjar sambil menentang proliferasi yang didorong estrogen. Mekanisme yang dimediasi penerima ini mendasari penggunaan yang telah ditetapkan bagi progestin merentasi beberapa keadaan ginekologi yang responsif terhadap hormon.
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, progesteron beroperasi melalui isyarat reseptor progesteron yang menentang percambahan epitelium endometrium yang didorong oleh estrogen. Inilah asas rawatan progestin dalam neoplasia endometrium.
 
-Kanser uterus corpus dan kanser endometrial berkongsi tapak anatomi yang sama dan biologi hormon — kebanyakan keganasan uterus corpus didorong estrogen, dan progestin (contohnya, megestrol asetat, medroxyprogesterone asetat) adalah kelas terapeutik yang telah ditetapkan untuk hiperplasia endometrial dan kanser endometrial endometrioid peringkat awal, gred rendah, khususnya dalam rawatan yang memelihara kesuburan. Ini memberikan alasan mekanik yang munasabah untuk ramalan TxGNN.
+Kanser korpus uterus dan kanser endometrium ialah entiti yang bertindih, jadi hubungan mekanistik ini munasabah. Namun, hubungan ini tidak disokong oleh bukti langsung di bawah entri ini. Skor TxGNN ialah 0.0, tiada percubaan klinikal disenaraikan, dan kebanyakan kesusasteraan yang diperoleh tidak berkaitan sasaran (laporan gabungan gen sarkoma uterus, pil perancang, RU 486, perkembangan saluran pembiakan dan sejarah progesteron).
 
-Walau bagaimanapun, set bukti spesifik yang dikumpulkan di bawah label "kanser uterus corpus" lebih lemah daripada yang ada di bawah ramalan "kanser endometrial" yang berkait rapat (calon yang berasingan, berperingkat lebih tinggi dalam bungkusan bukti ini, berskor pada tahap bukti L2 dengan cadangan "Proceed with Guardrails"). Kebanyakan ujian yang diambil di sini berkaitan dengan gejala vasomotor perimenopaus, terapi penggantian hormon, atau perlindungan endometrial menopaus daripada rawatan berasaskan progesteron langsung bagi kanser itu sendiri — konsisten dengan tahap bukti L3 dan tahap "Soalan Penyelidikan" yang diberikan kepada ramalan spesifik ini.
+Bukti bagi entri bertindih "kanser endometrium" dinilai secara berasingan di bawah (tahap L3, bersifat tidak langsung dan peringkat kelas progestin).
 
 ---
 
-## Bukti Ujian Klinis
+## Bukti Percubaan Klinikal
 
-| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
+Tiada percubaan klinikal berkaitan didaftarkan buat masa ini bagi kanser korpus uterus.
+
+Sebagai rujukan, percubaan bagi entri bertindih **kanser endometrium** ialah:
+
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT02208375](https://clinicaltrials.gov/study/NCT02208375) | Fasa 1 | Aktif, tidak merekrut | 159 | Olaparib + AZD2014/AZD5363 dalam kanser endometrial, payudara, ovari dan kanser berkaitan yang berulang |
-| [NCT00064025](https://clinicaltrials.gov/study/NCT00064025) | Fasa 2 | Selesai | 75 | Pendedahan Depo-Provera (medroxyprogesterone) jangka pendek dan perubahan molekul dalam adenokarsinoma endometrioid asli uterus corpus |
-| [NCT03018249](https://clinicaltrials.gov/study/NCT03018249) | Fasa Awal 1 | Selesai | 50 | Medroxyprogesterone asetat ± entinostat, kesan pada adenokarsinoma endometrioid yang mengekspresikan PR bagi uterus corpus |
-| [NCT00729586](https://clinicaltrials.gov/study/NCT00729586) | Fasa 2 | Selesai | 73 | Temsirolimus dengan atau tanpa terapi hormon (megestrol/tamoxifen) dalam karsinoma endometrial lanjutan/berulang |
-| [NCT04046185](https://clinicaltrials.gov/study/NCT04046185) | Fasa Awal 1 | Tidak diketahui | 60 | Perencat PD-1 + progesteron vs. progesteron sahaja, rawatan pemeliharaan kesuburan untuk kanser endometrial peringkat awal |
-| [NCT00788671](https://clinicaltrials.gov/study/NCT00788671) | Fasa 2 | Aktif, tidak merekrut | 69 | IUD pelepas levonorgestrel untuk hiperplasia atipik kompleks dan karsinoma endometrial endometrioid Gred 1 |
-| [NCT03463252](https://clinicaltrials.gov/study/NCT03463252) | Fasa 2/3 | Merekrut | 224 | LNG-IUS dalam rawatan pemeliharaan kesuburan bagi hiperplasia endometrial atipik dan karsinoma endometrial awal |
-| [NCT03621904](https://clinicaltrials.gov/study/NCT03621904) | N/A | Merekrut | 150 | PROMOTE: meramalkan tindak balas terhadap terapi hormon dalam kanser endometrial lanjutan/berulang |
-| [NCT01041027](https://clinicaltrials.gov/study/NCT01041027) | Fasa 2 | Ditamatkan | 31 | Sinaran "tersadun" antara paclitaxel dan carboplatin dalam kanser endometrial berisiko tinggi |
-| [NCT01464697](https://clinicaltrials.gov/study/NCT01464697) | Fasa 3 | Selesai | 249 | Progesteron termikronisasi oral untuk gejala vasomotor perimenopaus; penggunaan yang dicatat untuk melindungi daripada kanser endometrial semasa terapi estrogen |
+| [NCT07436793](https://clinicaltrials.gov/study/NCT07436793) | Fasa 2 | Merekrut | 140 | Percubaan "tetingkap pembedahan" payung berputar yang membandingkan progestin (megestrol asetat berbanding progesteron termikron) pada kanser endometrium dan hiperplasia atipikal sebelum pembedahan; belum ada keputusan |
+| [NCT04046185](https://clinicaltrials.gov/study/NCT04046185) | Fasa 1 Awal | Tidak diketahui | 60 | Perencat PD-1 bersama progesteron berbanding progesteron sahaja dalam kanser endometrium peringkat awal yang mahu mengekalkan kesuburan |
+| [NCT03463252](https://clinicaltrials.gov/study/NCT03463252) | Fasa 2/3 | Merekrut | 224 | LNG-IUS (levonorgestrel) untuk rawatan pemeliharaan kesuburan; menyokong kelas progestin sahaja, bukan progesteron |
+| [NCT04719273](https://clinicaltrials.gov/study/NCT04719273) | Fasa 2 | Selesai | 14 | Onapristone (antagonis reseptor progesteron) dengan anastrozole dalam kanser endometrium refraktori; sampel kecil |
+| [NCT03621904](https://clinicaltrials.gov/study/NCT03621904) | N/A | Merekrut | 150 | Kajian biopenanda pemerhatian untuk meramal tindak balas terapi hormon; tidak menguji progesteron |
+| [NCT00919919](https://clinicaltrials.gov/study/NCT00919919) | Fasa 2 | Tidak diketahui | 60 | Tablet progesteron faraj dalam wanita menopaus untuk perlindungan endometrium, bukan rawatan kanser |
 
 ---
 
-## Bukti Literatur
+## Bukti Kesusasteraan
+
+Kesusasteraan bagi entri kanser korpus uterus kebanyakannya tidak berkaitan secara langsung. Rujukan paling relevan ialah daripada entri kanser endometrium:
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [34625284](https://pubmed.ncbi.nlm.nih.gov/34625284/) | 2021 | RCT (Fasa 2) | Gynecologic Oncology | Ujian PARAGON: aktiviti anastrozol dalam leiomiosarkoma uterus dan karsinosarc positif ER/PR |
-| [6842804](https://pubmed.ncbi.nlm.nih.gov/6842804/) | 1983 | Kohort | JAMA | Risiko kanser payudara, uterus corpus, dan ovari pada wanita yang menerima suntikan medroxyprogesterone |
-| [26142884](https://pubmed.ncbi.nlm.nih.gov/26142884/) | 2015 | Kajian diagnostik/korelasi | Gynecologic Oncology | Teknik untuk mengesan penerima progesteron yang diaktifkan berkorelasi dengan ciri klinis/histopatologi adenokarsinoma endometrioid uterus corpus |
-| [20492385](https://pubmed.ncbi.nlm.nih.gov/20492385/) | 2010 | Kajian molekul | J Obstet Gynaecol Res | Profil ungkapan gen dan ketidakstabilan mikrosatelit dalam adenokarsinoma endometrioid uterus corpus |
-| [11603221](https://pubmed.ncbi.nlm.nih.gov/11603221/) | 2001 | Kajian klinopatologi | Int J Gynecol Pathol | Status klinopatologi dan PR/ER kanser endometrial isthmus uterus vs. uterus corpus |
-| [7039906](https://pubmed.ncbi.nlm.nih.gov/7039906/) | 1982 | Epidemiologi | Clin Obstet Gynecol | Epidemiologi kanser endometrium |
-| [18580312](https://pubmed.ncbi.nlm.nih.gov/18580312/) | 2008 | Laporan kes | Int J Gynecol Pathol | Adenokarsinoma mesonefrik uterus corpus |
-| [26510860](https://pubmed.ncbi.nlm.nih.gov/26510860/) | 2016 | Laporan kes | Int J Surg Pathol | Adenokarsinoma mesonefrik uterus corpus: perangkap diagnostik |
-| [37307879](https://pubmed.ncbi.nlm.nih.gov/37307879/) | 2023 | Siri kes/patologi | Modern Pathology | Fusion KAT6B::KANSL1 mentakrifkan sarkoma uterus baru dengan ciri stroma/otot licin hibrid |
-| [38508521](https://pubmed.ncbi.nlm.nih.gov/38508521/) | 2024 | Siri kes/patologi | Modern Pathology | Spektrum yang berkembang bagi leiomiosarkoma ginekologi positif fusion NR4A3 (termasuk fusion PGR::NR4A3) |
+| [32732107](https://pubmed.ncbi.nlm.nih.gov/32732107/) | 2020 | Ulasan | Best Pract Res Clin Obstet Gynaecol | Progestogen (progesteron dan progestin) dapat mencegah atau merawat hiperplasia, hiperplasia atipikal dan juga kanser endometrium berdiferensiasi baik |
+| [36357974](https://pubmed.ncbi.nlm.nih.gov/36357974/) | 2022 | Ulasan | Obstet Gynecol | Etiologi, pengelasan dan pilihan rawatan pembedahan dan bukan pembedahan untuk hiperplasia endometrium |
+| [39361076](https://pubmed.ncbi.nlm.nih.gov/39361076/) | 2024 | Ulasan | Curr Oncol Rep | Pilihan rawatan pemeliharaan uterus untuk hiperplasia endometrium atipikal dan kanser endometrium awal |
+| [20104432](https://pubmed.ncbi.nlm.nih.gov/20104432/) | 2010 | Ulasan | Semin Reprod Med | Progesteron menentang pertumbuhan didorong estrogen; neoplasia boleh regresi dengan progestin tetapi tidak dalam semua kes |
+| [40783086](https://pubmed.ncbi.nlm.nih.gov/40783086/) | 2025 | Praklinikal | Pharmacol Res | Butirat daripada mikrobiom intratumor meningkatkan kepekaan progesteron melalui feroptosis |
+| [41032624](https://pubmed.ncbi.nlm.nih.gov/41032624/) | 2025 | Praklinikal | Sci Transl Med | Kolesterol mengurangkan kepekaan kanser endometrium terhadap progestin dengan melemahkan isyarat progestin |
+| [20374701](https://pubmed.ncbi.nlm.nih.gov/20374701/) | 2009 | Ulasan | Prog Mol Biol Transl Sci | Tindakan reseptor progesteron dalam leiomioma dan kanser endometrium |
+
+Tiada RCT dikenal pasti dalam kesusasteraan yang diperoleh.
+
+---
+
+## Maklumat Pasaran Malaysia
+
+Progesteron pada masa ini **tidak dipasarkan** di Malaysia dan tiada lesen didaftarkan dalam data yang dikumpulkan.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
+**Kontraindikasi daripada graf pengetahuan (bukan teks label produk):** graf pengetahuan TxGNN mengaitkan progesteron dengan penyakit berikut yang memerlukan kewaspadaan:
+- Kardiovaskular/metabolik: gangguan hipertensi, hipertensi, hiperglisemia, diabetes mellitus, ketoasidosis diabetes, hipertrigliseridemia
+- Hepar dan hempedu: kegagalan hati, penyakit hati, penyakit pundi hempedu
+- Buah pinggang: penyakit buah pinggang, piouretra
+- Neurologi/psikiatri: epilepsi, gangguan kebimbangan, gangguan neurotik, gangguan distimik, penyalahgunaan/ketagihan bahan
+- Metabolik/endokrin: porfiria (termasuk porfiria warisan dan penyakit metabolisme porfirin), hipotiroidisme, miksedema, hipotiroidisme kongenital, hiperkalsemia humoral malignansi
+- Lain-lain: osteoporosis, osteoporosis pascamenopaus, lupus eritematosus sistemik (termasuk pediatrik), asma (termasuk intrinsik dan alergi)
+
+**Interaksi Ubat:** 100 interaksi dikesan; contoh yang disenaraikan semuanya bertahap **Sederhana**, terutamanya ubat antidiabetes (kemungkinan kesan pada kawalan glukosa), seperti:
+- Acarbose, metformin, pioglitazone, glimepiride, chlorpropamide, repaglinide
+- Perencat DPP-4/SGLT2 (alogliptin, saxagliptin, canagliflozin, dapagliflozin, empagliflozin)
+- Agonis GLP-1 (albiglutide, dulaglutide, liraglutide, semaglutide)
+- Insulin (aspart, degludec, detemir)
+- Aprepitant dan clarithromycin
+
+Untuk amaran dan kontraindikasi daripada sisipan pakej, sila rujuk sisipan pakej produk.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
-**Alasan:**
-Bukti untuk progesteron khususnya dalam **kanser uterus corpus** adalah awal (L3, tahap keputusan S1, "Soalan Penyelidikan") — kebanyakan ujian dan literatur yang diambil menangani terapi hormon perimenopaus, perlindungan endometrial, atau histopatologi yang tidak berkaitan daripada rawatan progesteron langsung bagi kanser ini. Jurang data **Penyekat** (amaran NPRA/sisipan pakej dan kontraindikasi yang hilang) juga menghalang penyelesaian pra-penilaian keselamatan S1 yang diperlukan. Sedikit sekali, ramalan "kanser endometrial" yang berkait rapat dalam bungkusan bukti ini membawa sokongan yang lebih kuat (L2, "Proceed with Guardrails"), mencadangkan isyarat penggunaan semula mungkin lebih terbukti di bawah framing itu.
+**Rasional:**
+- Bagi kanser korpus uterus, tahap bukti ialah L5: skor TxGNN 0.0, tiada percubaan klinikal dan kesusasteraan kebanyakannya di luar sasaran. Ubat ini juga tidak dipasarkan di Malaysia.
+- Bagi entri bertindih kanser endometrium (L3), bukti bersifat tidak langsung dan peringkat kelas progestin dengan kerja Fasa 2 yang sedang berjalan tanpa keputusan. Tiada RCT Fasa 3 yang menunjukkan keberkesanan progesteron sendiri.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Data sisipan pakej NPRA (amaran, kontraindikasi) untuk menyelesaikan jurang data Penyekat (DG001)
-- Butiran mekanisme tindakan DrugBank/ untuk menyelesaikan jurang data berkadar Tinggi (DG002)
-- Butiran pendaftaran produk Malaysia (nombor lesen, nama produk, teks petunjuk yang diluluskan — pada masa ini kosong dalam bungkusan bukti)
-- Pertimbangan mengurus semula calon ini ke arah ramalan "kanser endometrial", yang mempunyai asas bukti langsung yang lebih kuat
-- Penilaian keserasian laluan pentadbiran untuk populasi sasaran
+- Keputusan percubaan Fasa 2 (cth. NCT07436793) yang menguji progesteron termikron secara langsung
+- Data amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menghalang saringan keselamatan)
+- Data mekanisme tindakan terperinci (MOA) daripada DrugBank
+- Penilaian kesesuaian laluan pentadbiran dan formulasi, serta status pendaftaran di Malaysia
+- Pelan pemantauan keselamatan untuk populasi berisiko (diabetes, penyakit hati, hipertensi, penyakit kardiovaskular)
 
+**Indikasi lain yang dinilai (untuk rujukan):**
+
+| Indikasi | Tahap Bukti | Ringkasan |
+|------|------|------|
+| Kanser endometrium | L3 | Bukti tidak langsung peringkat kelas progestin; Fasa 2 sedang berjalan |
+| Endometriosis | L3 | Ketahanan progesteron dan dominasi estrogen ialah mekanisme teras; satu percubaan Fasa 3 (NCT02793908, n=52, status tidak diketahui) mengenai sokongan fasa luteal, bukan kawalan penyakit |
+| Endometriosis uterus (adenomiosis) | L4 | Hanya bukti tidak langsung; percubaan tunggal menguji nintedanib, bukan progesteron |
+| Vaginitis atrofi pascamenopaus | L4 | Satu-satunya percubaan (NCT02460302) ditarik balik dengan 0 peserta; satu laporan klinikal menggunakan gabungan estriol dan progesteron sehingga keputusan tercemar oleh estriol |
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

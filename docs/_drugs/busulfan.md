@@ -2,7 +2,7 @@
 layout: default
 title: Busulfan
 parent: High Evidence (L1-L2)
-nav_order: 170
+nav_order: 175
 evidence_level: L1
 indication_count: 10
 ---
@@ -29,52 +29,56 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Busulfan: Daripada Agen Leukemia/Pengkondisian HSCT kepada Sindrom Mielodisplastik
+# Busulfan: Daripada Penyakit Asal kepada Sindrom Mielodisplastik
 
 ## Ringkasan Satu Ayat
 
-Busulfan ialah agen alkililasi bifungsional klasik yang telah digunakan untuk leukemia mieloid kronik dan, secara lebih luas, sebagai agen alkililasi teras dalam rejim pengkondisian mieloblastif/intensiti berkurangan sebelum transplantasi sel stem hematopoietik alogenik (allo-HSCT). Model TxGNN meramalkan ia mungkin berkesan untuk **Sindrom Mielodisplastik (MDS)**, dengan **50 percubaan klinikal** dan **20 penerbitan** pada masa ini menyokong arah ini — walaupun, seperti yang dijelaskan di bawah, ini sebahagian besarnya mencerminkan penggunaan *penjagaan standard yang sudah ditetapkan* daripada hipotesis farmakologi yang baru.
+Busulfan ialah ejen pengalkilan bifungsi yang digunakan sebagai ubat kemoterapi dan pengondisian sebelum pemindahan sel stem. Model TxGNN meramalkan ia mungkin berguna untuk **Sindrom Mielodisplastik (MDS)**, dengan **sekurang-kurangnya 30 kajian klinikal** dan **20 penerbitan** yang berkaitan, termasuk beberapa percubaan rawak fasa 2/3. Penting untuk ditegaskan bahawa penggunaan ini ialah **pengondisian sebelum pemindahan sel stem alogenik**, bukan terapi tunggal yang mengubah perjalanan penyakit.
 
 ---
 
 ## Gambaran Keseluruhan Pantas
 
-| Item | Kandungan |
+| Perkara | Kandungan |
 |------|------|
-| Petunjuk Asal | Tidak ditangkap dalam rekod lesen NPRA (bidang teks petunjuk kelulusan kosong — lihat Celah Data DG001). Busulfan secara klasiknya ialah agen alkililasi untuk leukemia mieloid kronik dan digunakan secara meluas sebagai agen pengkondisian mieloblastif/intensiti berkurangan sebelum allo-HSCT |
-| Petunjuk Baru Ramalan | Sindrom Mielodisplastik |
+| Indikasi Asal | Tiada data indikasi diluluskan tempatan dalam data yang dikumpulkan |
+| Indikasi Baharu yang Diramalkan | Sindrom mielodisplastik (myelodysplastic syndrome) |
 | Skor Ramalan TxGNN | 99.62% |
 | Tahap Bukti | L1 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 2 |
-| Keputusan yang Disyorkan | Teruskan dengan Tindakan Penjaga |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Pagar Pelindung) |
 
 ---
 
-## Mengapa Ramalan Ini Adalah Munasabah?
+## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci untuk Busulfan tidak diambil dalam paket bukti ini (Celah Data DG002, keterukan Tinggi). Berdasarkan pengetahuan farmakologi yang ditetapkan, Busulfan ialah agen alkililasi bifungsional (kelas alkil sulfonat) yang membentuk sambungan silang DNA, menghasilkan supresi sum-sum tulang yang kuat dan tahan lama. Kesan sitotoksik ini pada sum-sum tulang sengaja dimanfaatkan — pada dos mieloblastif atau intensiti berkurangan, Busulfan (biasanya digabungkan dengan fludarabin, siklofosfosfamid, atau melphalan) digunakan untuk membasmi klon hematopoietik dan ganas/displastik penerima serta-merta sebelum allo-HSCT, mewujudkan "ruang" dan keadaan imunologi yang diperlukan bagi sel stem penderma untuk menggraf.
+Data terperinci mengenai mekanisme tindakan (MOA) daripada pangkalan data belum tersedia. Berdasarkan maklumat yang diketahui, busulfan ialah ejen pengalkilan bifungsi yang merentas-pautkan DNA dan bersifat mieloablatif. Ciri ini menjadikannya sesuai sebagai tulang belakang rejimen pengondisian.
 
-Penting sekali, rasional untuk penggunaan semula ubatan yang ditangkap dalam paket bukti ini adalah jelas bahawa Busulfan **tidak** merawat MDS melalui mekanisme baru atau spekulatif: ia bukan terapi pengubah penyakit langsung untuk MDS, tetapi agak tulang belakang pengkondisian prosedur transplantasi yang sudah menjadi pendekatan kuratif standard untuk pesakit MDS risiko lebih tinggi yang layak. Dengan kata lain, 'ramalan' TxGNN di sini sebahagian besarnya mengenalpasti semula penggunaan klinikal yang sudah terdokumentasi dengan baik dan disokong panduan daripada mendedahkan petunjuk yang benar-benar baru.
+Dalam MDS, busulfan digunakan bersama fludarabin atau siklofosfamid untuk menghapuskan klon malignan dan membuat ruang dalam sumsum tulang bagi sel stem penderma sebelum pemindahan alogenik. Ini ialah penggunaan sebagai pengondisian, bukan monoterapi yang mengubah penyakit.
 
-Ini disokong oleh kedalaman asas bukti: 50 percubaan klinikal dan 20 penerbitan merentangi tiga dekad (daripada NCT00002547, 1987, melalui NCT06247917, 2024) secara konsisten mengkaji rejim pengkondisian yang mengandungi Busulfan (Bu/Cy, Bu/Flu, Bu/Mel, Bu/Flu/ATG, dll.) secara khusus dalam populasi MDS dan AML berkaitan MDS yang menjalani allo-HSCT. Beberapa daripada ini adalah percubaan Fasa 2/3 atau Fasa 3 yang besar dan telah diselesaikan serta rawak, itulah sebabnya tahap bukti dinilai L1.
+Sokongan klinikal merangkumi beberapa percubaan fasa 2, percubaan fasa 2/3 (NCT04708054, NCT05453552), percubaan fasa 3 yang membandingkan busulfan-TBI dengan siklofosfamid-TBI (NCT00005866), serta perbandingan rawak yang diterbitkan.
 
 ---
 
-## Bukti Percubaan Klinikal
+## Bukti Ujian Klinikal
 
-| Nombor Percubaan | Fasa | Taraf | Pendaftaran | Penemuan Utama |
+Berikut ialah 10 percubaan yang paling relevan (daripada lebih 30 percubaan yang dikesan untuk MDS):
+
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT02744742](https://clinicaltrials.gov/study/NCT02744742) | Fasa 2/3 | Selesai | 202 | Perbandingan rawak G-CSF+dekitabin+Busulfan/Siklofosfosfamid vs pengkondisian Busulfan/Siklofosfosfamid untuk RAEB-1, RAEB-2, dan AML sekunder MDS yang menjalani allo-HSCT (Kaitan Gred A) |
-| [NCT00475020](https://clinicaltrials.gov/study/NCT00475020) | Fasa 2 | Selesai | 63 | Pengkondisian Busulfan + Fludarabin + ATG intensiti berkurangan untuk pesakit mielofibrosis/MDS yang menjalani allo-HSCT (Kaitan Gred A) |
-| [NCT01471444](https://clinicaltrials.gov/study/NCT01471444) | Fasa 3 | Selesai | 256 | Percubaan rawak: Fludarabin-Klofarabin vs Fludarabin sahaja, kedua-duanya digabungkan dengan IV Busulfan, sebelum allo-HSCT untuk AML/MDS |
-| [NCT05453552](https://clinicaltrials.gov/study/NCT05453552) | Fasa 2/3 | Tidak Diketahui | 242 | Rejim pengkondisian G-CSF+DAC+BUCY vs G-CSF+DAC+BF dibandingkan dalam pesakit MDS berisiko tinggi yang menjalani allo-HSCT |
-| [NCT00629798](https://clinicaltrials.gov/study/NCT00629798) | Fasa 2 | Selesai | 64 | Busulfan + Melphalan + Fludarabin dengan Palifermin sekitar-transplantasi untuk HSCT disusun sel-T dalam MDS/AML lanjutan (Kaitan Gred B) |
-| [NCT01168219](https://clinicaltrials.gov/study/NCT01168219) | Fasa 2 | Selesai | 68 | Penambahan azasitidin kepada pengkondisian Busulfan/Fludarabin/ATG intensiti berkurangan untuk MDS berisiko tinggi dan pesakit AML lebih tua |
-| [NCT00822770](https://clinicaltrials.gov/study/NCT00822770) | Fasa 1/2 | Selesai | 47 | G-CSF dan Plerixafor dengan Busulfan dan Fludarabin untuk allo-HSCT dalam AML, MDS, dan CML |
-| [NCT00002502](https://clinicaltrials.gov/study/NCT00002502) | Fasa 2 | Selesai | N/A | Pengurangan sitotoksik Busulfan + Siklofosfosfamid untuk leukemia dan MDS yang menjalani allo-BMT apabila penyinaran tubuh total tidak boleh digunakan |
-| [NCT06247917](https://clinicaltrials.gov/study/NCT06247917) | Fasa 2 | Tidak Diketahui | 59 | Rejim pengkondisian FLU-BU-MEL untuk allo-HSCT dalam pesakit MDS-EB tidak dirawat / IPSS-R berisiko pertengahan hingga sangat tinggi |
-| [NCT01062490](https://clinicaltrials.gov/study/NCT01062490) | Fasa 2 | Selesai | 45 | Pengkondisian Treosulfan + Fludarabin dengan penanda aras terhadap hasil Busulfan IV bersejarah dalam pesakit MDS yang menjalani allo-HSCT |
+| [NCT00005866](https://clinicaltrials.gov/study/NCT00005866) | Fasa 3 | Selesai | 240 | Perbandingan rawak busulfan-TBI dengan siklofosfamid-TBI dalam MDS lanjutan atau AML berkaitan MDS |
+| [NCT00822393](https://clinicaltrials.gov/study/NCT00822393) | Fasa 3 | Selesai | 570 | Pengondisian berasaskan treosulfan berbanding busulfan keamatan dikurangkan dalam AML/MDS |
+| [NCT04708054](https://clinicaltrials.gov/study/NCT04708054) | Fasa 2/3 | Sedang merekrut | 324 | Venetoclax ditambah pada rejimen busulfan berpecah dalam AML/MDS berisiko tinggi |
+| [NCT05453552](https://clinicaltrials.gov/study/NCT05453552) | Fasa 2/3 | Tidak diketahui | 242 | G-CSF+DAC+BUCY berbanding G-CSF+DAC+BF dalam MDS berisiko tinggi |
+| [NCT00502905](https://clinicaltrials.gov/study/NCT00502905) | Fasa 2 | Selesai | 200 | Busulfan IV dos tinggi + fludarabin sebelum pemindahan dalam AML/MDS |
+| [NCT02250937](https://clinicaltrials.gov/study/NCT02250937) | Fasa 2 | Aktif, tidak merekrut | 116 | Venetoclax + busulfan, kladribin dan fludarabin berjujukan sebelum pemindahan |
+| [NCT01643668](https://clinicaltrials.gov/study/NCT01643668) | Fasa 2 | Selesai | 34 | Pengondisian keamatan dikurangkan busulfan/klofarabin |
+| [NCT01168219](https://clinicaltrials.gov/study/NCT01168219) | Fasa 2 | Selesai | 68 | Busulfan, fludarabin, ATG dan azasitidin dalam MDS berisiko tinggi |
+| [NCT01056614](https://clinicaltrials.gov/study/NCT01056614) | Fasa 2 | Selesai | 23 | Fludarabin + busulfan IV tersasar; kajian kecil |
+| [NCT07183878](https://clinicaltrials.gov/study/NCT07183878) | Tidak berkenaan | Sedang merekrut | 138 | Ven-BUCY berbanding BUCY standard dalam AML/MDS berisiko tinggi |
+
+Kebanyakan percubaan menilai busulfan sebagai sebahagian rejimen gabungan; pembolehubah yang dikaji sering ialah ejen tambahan seperti venetoclax.
 
 ---
 
@@ -82,66 +86,82 @@ Ini disokong oleh kedalaman asas bukti: 50 percubaan klinikal dan 20 penerbitan 
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [31606445](https://pubmed.ncbi.nlm.nih.gov/31606445/) | 2020 | RCT (Fasa 3) | The Lancet Haematology | Percubaan bukan inferior: Treosulfan+Fludarabin vs pengkondisian Busulfan+Fludarabin intensiti berkurangan dalam pesakit AML/MDS lebih tua/berkomorb yang menjalani allo-HSCT |
-| [36702138](https://pubmed.ncbi.nlm.nih.gov/36702138/) | 2023 | RCT (Fasa 3) | The Lancet Haematology | Percubaan rawak, pelbagai pusat, terbuka: G-CSF+dekitabin+Busulfan/Siklofosfosfamid mengurangkan kambuhan vs Busulfan/Siklofosfosfamid sahaja dalam MDS-RAEB/AML sekunder yang menjalani allo-HSCT |
-| [28380315](https://pubmed.ncbi.nlm.nih.gov/28380315/) | 2017 | RCT (Fasa 3) | Journal of Clinical Oncology | Percubaan rawak membandingkan pengkondisian mieloblastif vs intensiti berkurangan (termasuk rejim berasaskan Busulfan) untuk allo-HSCT AML/MDS |
-| [35617104](https://pubmed.ncbi.nlm.nih.gov/35617104/) | 2022 | Kohort (analisis RCT akhir) | American Journal of Hematology | Analisis akhir mengesahkan pengkondisian berasaskan Treosulfan meningkatkan hasil berbanding Busulfan intensiti berkurangan dalam pesakit AML/MDS lebih tua |
-| [33425740](https://pubmed.ncbi.nlm.nih.gov/33425740/) | 2020 | Ulasan Sistematik/Meta-analisis | Frontiers in Oncology | Meta-analisis rejim pengkondisian berasaskan Treosulfan vs Busulfan menunjukkan hasil jangka panjang setanding/menguntungkan dalam MDS/AML |
-| [40079242](https://pubmed.ncbi.nlm.nih.gov/40079242/) | 2025 | Ulasan | American Journal of Hematology | Ulasan kontemporari HSCT alogenik untuk mielofibrosis dan MDS, membincangkan strategi pengkondisian berasaskan Busulfan |
-| [34489555](https://pubmed.ncbi.nlm.nih.gov/34489555/) | 2021 | Kohort (daftar, dipadankan PS) | Bone Marrow Transplantation | Perbandingan dipadankan kecondongan Fludarabin/Busulfan vs pengkondisian mieloblastif Busulfan/Siklofosfosfamid untuk MDS |
-| [35296446](https://pubmed.ncbi.nlm.nih.gov/35296446/) | 2022 | Kohort (daftar, dipadankan PS) | Transplantation and Cellular Therapy | Perbandingan dipadankan kecondongan pengkondisian mieloblastif vs intensiti berkurangan Fludarabin/Busulfan untuk MDS |
-| [38648898](https://pubmed.ncbi.nlm.nih.gov/38648898/) | 2024 | Kohort (retrospektif, dipadankan PS) | Transplantation and Cellular Therapy | Kajian pusat tunggal retrospektif: Hasil pengkondisian berasaskan Treosulfan vs Busulfan dalam allo-HSCT MDS/CMML |
-| [23562738](https://pubmed.ncbi.nlm.nih.gov/23562738/) | 2013 | Kohort (retrospektif) | Biology of Blood and Marrow Transplantation | Keamatan dos Busulfan (3.2 vs 6.4 mg/kg) dan hasil dalam allo-HSCT intensiti berkurangan untuk MDS/AML |
+| [31606445](https://pubmed.ncbi.nlm.nih.gov/31606445/) | 2020 | RCT (fasa 3) | Lancet Haematol | Treosulfan + fludarabin tidak lebih rendah berbanding busulfan keamatan dikurangkan + fludarabin pada pesakit AML/MDS yang lebih tua |
+| [42285355](https://pubmed.ncbi.nlm.nih.gov/42285355/) | 2026 | RCT (fasa 2) | Transplant Cell Ther | Dua jadual pecahan busulfan mieloablatif dengan fludarabin dan kladribin dalam AML/MDS |
+| [36702138](https://pubmed.ncbi.nlm.nih.gov/36702138/) | 2023 | RCT (fasa 3) | Lancet Haematol | G-CSF + decitabine + BuCy berbanding BuCy untuk mengurangkan relaps dalam MDS/AML sekunder |
+| [35617104](https://pubmed.ncbi.nlm.nih.gov/35617104/) | 2022 | Analisis akhir kajian rawak | Am J Hematol | Treosulfan memperbaik hasil berbanding busulfan keamatan dikurangkan pada pesakit lebih tua |
+| [34489555](https://pubmed.ncbi.nlm.nih.gov/34489555/) | 2021 | Kohort (padanan skor kecenderungan) | Bone Marrow Transplant | Perbandingan Flu/Bu4 dengan Bu4/Cy untuk MDS |
+| [35296446](https://pubmed.ncbi.nlm.nih.gov/35296446/) | 2022 | Kohort | Transplant Cell Ther | Pengondisian mieloablatif berbanding keamatan dikurangkan Flu/Bu dalam MDS |
+| [33425740](https://pubmed.ncbi.nlm.nih.gov/33425740/) | 2020 | Kajian sistematik dan meta-analisis | Front Oncol | Hasil jangka panjang treosulfan berbanding busulfan dalam MDS/AML |
+| [34692485](https://pubmed.ncbi.nlm.nih.gov/34692485/) | 2021 | Meta-analisis RCT | Front Oncol | Pengondisian keamatan dikurangkan berbanding mieloablatif dalam AML/MDS |
+| [40079242](https://pubmed.ncbi.nlm.nih.gov/40079242/) | 2025 | Ulasan | Am J Hematol | Pemindahan sel stem alogenik untuk mielofibrosis dan MDS |
+| [37856098](https://pubmed.ncbi.nlm.nih.gov/37856098/) | 2024 | Penilaian risiko | Pediatr Blood Cancer | Risiko keganasan sekunder selepas pendedahan busulfan |
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Rekod NPRA mengesahkan Busulfan pada masa ini dipasarkan di Malaysia (status pasaran: ✓ Dipasarkan) di bawah **2 pendaftaran aktif**. Bagaimanapun, pertanyaan ini tidak mengembalikan nombor kebenaran khusus, nama produk, bentuk dos, atau teks petunjuk kelulusan untuk mana-mana pendaftaran (Celah Data DG001, keterukan: **Menyekat** — celah ini menyekat kemajuan ke peringkat pra-penilaian keselamatan S1 yang diperhatikan dalam metadata paket bukti).
-
-**Tindakan yang disyorkan:** Ambil risalah produk/kemasukan penuh NPRA untuk Busulfan (melalui portal QUEST3+ NPRA) untuk mengesahkan teks petunjuk kelulusan yang tepat, bentuk dos/laluan tersedia (oral vs IV), dan pengeluar sebelum calon ini meneruskan lebih jauh.
+Busulfan pada masa ini **tidak mempunyai pendaftaran** dalam data yang dikumpulkan, dan status pasaran ialah tidak dipasarkan.
 
 ---
 
 ## Sitotoksisiti
 
-Busulfan ialah agen sitotoksik konvensional alkililasi dan diklasifikasikan di sini sebagai antinetoplastik (Kategori 3: kelas kemoterapi sitotoksik yang diketahui — kelas alkil sulfonat).
-
-| Item | Kandungan |
+| Perkara | Kandungan |
 |------|------|
-| Klasifikasi Sitotoksisiti | Sitotoksik konvensional (agen alkililasi — kelas alkil sulfonat) |
-| Risiko Supresi Sum-Sum Tulang | Tinggi — supresi sum-sum tulang yang mendalam, bergantung dos, dan sering berkepanjangan ialah kesan farmakologi yang dimaksudkan apabila Busulfan digunakan sebagai agen pengkondisian mieloblastif/intensiti berkurangan sebelum HSCT |
-| Klasifikasi Emetogenisiti | Tinggi pada dos mieloblastif/pengkondisian HSCT (IV); rendah hingga sederhana pada dos oral rendah yang digunakan secara bersejarah untuk leukemia mieloid kronik |
-| Item Pemantauan | CBC dengan pembezaan; fungsi hati (risiko penyakit oklusi vena hati/sindrom halangan sinusoid); fungsi paru-paru (risiko fibrosis pulmonari dengan pendedahan kumulatif); profilaksis sawan (Busulfan menurunkan ambang sawan — profilaksis antikonvulsif adalah standard); pemantauan ubatan terapeutik tahap Busulfan plasma untuk formulasi IV |
-| Perlindungan Pengendalian | Ya — Busulfan mesti dikendalikan di bawah peraturan pengendalian ubatan sitotoksik/berbahaya (PPE, peranti pemindahan sistem tertutup, kit tumpahan) |
-
-*Nota: Data MOA/toksisiti terperinci bersumber DrugBank tidak diambil dalam paket bukti ini (Celah Data DG002). Klasifikasi di atas mencerminkan pengetahuan farmakologi yang ditetapkan untuk kelas ubatan ini; sahkan spesifiknya terhadap kemasukan paket semasa.*
+| Klasifikasi Sitotoksisiti | Sitotoksik konvensional (ejen pengalkilan, kelas alkil sulfonat) |
+| Risiko Mielosupresi | Tinggi (mieloablatif pada dos pengondisian) |
+| Klasifikasi Emetogenisiti | Sila rujuk selitan pakej untuk maklumat emetogenisiti |
+| Item Pemantauan | Hitung darah penuh (CBC) dengan pembezaan, fungsi hati dan buah pinggang, elektrolit |
+| Perlindungan Pengendalian | Perlu mematuhi peraturan pengendalian ubat sitotoksik |
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk risalah produk untuk maklumat keselamatan. (Data amaran utama, kontraindikasi, dan ubatan-interaksi tidak dikembalikan oleh pertanyaan semasa — lihat Celah Data DG001.)
+**Kontraindikasi berdasarkan graf pengetahuan (TxGNN/PrimeKG, bukan teks label):** epilepsi, trombositopenia, hiperglisemia, jangkitan kulat, dermatofitosis, kekurangan kalium, hiperurisemia, neutropenia, agranulositosis, anemia (termasuk anemia makrositik dan anemia Fanconi), penyakit berjangkit, dan fibrosis pulmonari (termasuk pascainflamasi).
+
+**Interaksi Ubat:** Pertanyaan selesai dengan 100 interaksi dikesan; 20 yang pertama ditunjukkan:
+- **Major:** Metronidazol
+- **Sederhana:** Aprepitan, Mikonazol
+- **Minor:** Levofloksasin
+- **Tahap tidak diketahui:** Amfoterisin B, manitol, pantoprazol, morfin, omeprazol, lansoprazol, vankomisin, prednison, hidrokortison, prednisolon, ranitidin, granisetron, ondansetron, famotidin, metoklopramid, deksametason
+
+Sila rujuk selitan pakej untuk amaran dan kontraindikasi rasmi.
 
 ---
 
-## Kesimpulan dan Langkah-Langkah Seterusnya
+## Penilaian Indikasi Lain yang Diramalkan
 
-**Keputusan: Teruskan dengan Tindakan Penjaga**
+| Indikasi | Skor TxGNN | Tahap Bukti | Syor |
+|------|------|------|------|
+| Sitopenia refraktori zaman kanak-kanak | 99.54% | L2 | Proceed with Guardrails |
+| MDS tidak terklasifikasi | 99.53% | L3 | Research Question |
+| Anemia aregeneratif | 99.49% | L1 | Proceed with Guardrails |
+| Jangkitan HIV | 99.44% | L3 | Research Question |
+| Delesi separa lengan panjang kromosom 5 | 99.51% | L5 | Hold |
+| Anemia hipokromik kongenital teruk dengan sideroblas bercincin | 99.49% | L5 | Hold |
+| Gangguan neurodevelopmen dengan gaya jalan ataksia | 99.22% | L5 | Hold |
+| Keratosis seboreik | 99.16% | L5 | Hold |
+| Jangkitan virus imunodefisiensi simian | 99.06% | L5 | Hold |
+
+Nota: bagi anemia aregeneratif dan sitopenia refraktori zaman kanak-kanak, bukti bersifat tidak langsung (percubaan campuran penyakit). Bagi HIV, busulfan hanya berperanan sebagai agen pengondisian untuk terapi gen; keberkesanan terhadap HIV sendiri belum terbukti. Beberapa ramalan lain kemungkinan artifak model.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Proceed with Guardrails**
 
 **Rasional:**
-- Asas percubaan klinikal dan literatur untuk pengkondisian berasaskan Busulfan dalam MDS adalah luas dan matang — 50 percubaan dan 20 penerbitan, termasuk sekurang-kurangnya dua percubaan Fasa 2/3–3 rawak yang telah diselesaikan (NCT01471444, NCT02744742) dan pelbagai RCT Fasa 3 dalam literatur (PMID 31606445, 36702138, 28380315) — menyokong tahap bukti L1.
-- Bagaimanapun, 'petunjuk baru' yang diramalkan ini banyak bertindih dengan peranan standard-of-care yang sudah ditetapkan (agen pengkondisian HSCT) daripada mewakili penggunaan pengubah penyakit baru; sebarang komunikasi luaran harus mengrangka ia sebagai memperkuat amalan klinikal sedia ada, bukan sebagai tuntutan terapeutik baru.
-- Data keselamatan tahap ubatan (amaran kemasukan paket/kontraindikasi) dan MOA terperinci kekal celah data yang belum diselesaikan (DG001 Menyekat, DG002 Tinggi) yang mesti ditutup sebelum penilaian keselamatan penuh (S1) boleh diselesaikan.
+- Bukti untuk MDS adalah kukuh (beberapa percubaan fasa 2/3 dan fasa 3 serta RCT yang diterbitkan), tetapi penggunaannya terhad kepada pengondisian sebelum pemindahan sel stem alogenik, dan kebanyakan kajian menilai busulfan dalam gabungan. Busulfan tidak berdaftar di Malaysia, dan data keselamatan rasmi tempatan belum diperoleh.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Ambil teks kemasukan paket/label yang diluluskan NPRA untuk Busulfan (menyelesaikan DG001 — pada masa ini menyekat)
-- Ambil maklumat MOA, toksisiti, dan ubatan-interaksi DrugBank (menyelesaikan DG002)
-- Sahkan bentuk dos/laluan sebenar yang didaftarkan di Malaysia (oral vs IV) terhadap laluan yang diperlukan untuk penggunaan pengkondisian HSCT
-- Jelaskan pemesejan supaya 'ramalan' MDS dipersembahkan sebagai menyokong peranan rejim pengkondisian yang ditetapkan daripada petunjuk de novo
-
-**Petunjuk ramalan lain dalam paket bukti ini (untuk konteks, tidak diambil tindakan di sini):** Sitopenia Refraksteri Kanak-kanak (L2, Soalan Penyelidikan) dan MDS tak diklasifikasi (L3, Soalan Penyelidikan) adalah secara keseluruhannya konsisten dengan isyarat MDS di atas tetapi mempunyai bukti lebih tipis. Lima calon — sindrom delesi 5q, anemia sideroblastik bawaan teruk, jangkitan HIV, gangguan neurodevelopmental langka, dan keratosis seborrheik, campur jangkitan virus imunodefisiensi simian — mengembalikan tiada sokongan percubaan klinikal atau literatur (L5, Tahan) dan, mengikut anotasi paket bukti sendiri, beberapa (keratosis seborrheik, jangkitan SIV) berkemungkinan bising graf-pengetahuan daripada isyarat penggunaan semula ubatan yang sebenar; tiada satu pun wajar pelaburan lanjutan tanpa bukti independen baru.
-
+- Selitan pakej NPRA untuk amaran dan kontraindikasi (jurang data yang menghalang pemeriksaan keselamatan)
+- Data terperinci mekanisme tindakan (MOA)
+- Kelulusan pendaftaran atau laluan akses khas di Malaysia
+- Protokol pemantauan keselamatan (mielosupresi, toksisiti hati termasuk penyakit veno-oklusif, keganasan sekunder)
+- Pengesahan bahawa rejimen dijalankan di pusat pemindahan sel stem yang berpengalaman
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

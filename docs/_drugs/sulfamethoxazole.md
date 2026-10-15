@@ -2,15 +2,15 @@
 layout: default
 title: Sulfamethoxazole
 parent: Low Evidence (L4-L5)
-nav_order: 629
-evidence_level: L4
+nav_order: 661
+evidence_level: L5
 indication_count: 1
 ---
 
 # Sulfamethoxazole
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **1** 
+Tahap bukti: **L5** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,61 +29,87 @@ Tahap bukti: **L4** | Indikasi diramal: **1**
 
 </div>
 
-# Sulfamethoxazole: Dari Jangkitan Bakteria Sistemik kepada Konjunktivitis Akut Menular
+# Sulfametoksazol: Daripada Jangkitan Bakteria kepada Konjunktivitis Berjangkit Akut
 
 ## Ringkasan Satu Ayat
 
-Sulfamethoxazole adalah antibakteria sulfonamida yang secara tradisional digunakan secara sistemik (biasanya sebagai kombinasi trimetoprim-sulfamethoxazole) untuk jangkitan bakteria.
-Model TxGNN meramalkan ia mungkin berkesan untuk **Konjunktivitis Akut Menular**,
-tetapi arah ini pada masa kini disokong oleh **0 percubaan klinikal** dan hanya **1 penerbitan tidak langsung**, jadi asas bukti sangat tipis.
+Sulfametoksazol ialah antibiotik golongan sulfonamida yang pada asalnya digunakan untuk merawat pelbagai jangkitan, antaranya otitis media berjangkit, nokardiosis, toksoplasmosis, pneumosistosis, shigellosis dan konjunktivitis.
+Model TxGNN meramalkan ubat ini mungkin berkesan untuk **konjunktivitis berjangkit akut**,
+tetapi setakat ini hanya terdapat **0 percubaan klinikal** dan **1 penerbitan** (kajian kohort) yang berkaitan. Konjunktivitis juga sudah tersenarai dalam indikasi asal ubat ini, jadi ramalan ini lebih menyerupai indikasi yang bertindih daripada pelanggaran semula yang benar.
 
-## Gambaran Cepat
+---
+
+## Gambaran Ringkas
 
 | Perkara | Kandungan |
-|--------|----------|
-| Indikasi Asal | Tidak dinyatakan dalam rekod lesen semasa (tiada teks indikasi yang diluluskan tersedia); diketahui secara klinikal sebagai antibakteria sistemik, lazimnya digabungkan dengan trimetoprim |
-| Indikasi Baru Yang Diprediksi | Konjunktivitis Akut Menular |
+|------|------|
+| Indikasi Asal | Otitis media berjangkit, nokardiosis, toksoplasmosis, pneumosistosis, shigellosis, konjunktivitis dan lain-lain (daripada graf pengetahuan TxGNN; tiada teks indikasi berdaftar tempatan) |
+| Indikasi Baharu yang Diramalkan | Konjunktivitis berjangkit akut |
 | Skor Ramalan TxGNN | 99.63% |
-| Tahap Bukti | L4 |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 15 |
-| Keputusan Yang Disyorkan | Tahan |
+| Tahap Bukti | L5 (ramalan model dengan kajian kohort sokongan yang terhad; sistem pemarkahan dalaman menyenaraikan L4) |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (Tahan) |
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Sulfamethoxazole menghalang sintas dihidroptenoat bakteria (DHPS), menyekat laluan sintesis folat yang diperlukan untuk pertumbuhan bakteria. Ini memberikannya aktiviti spektrum luas terhadap organisma yang biasa terlibat dalam konjunktivitis bakteria, seperti *Staphylococcus* spp., *Streptococcus* spp., dan *Haemophilus influenzae*.
+Data terperinci mengenai mekanisme tindakan (MOA) ubat ini tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan pengetahuan umum, sulfametoksazol ialah antibakteria sulfonamida yang menghalang enzim dihidropteroat sintase bakteria, lalu menyekat sintesis folat yang diperlukan untuk pertumbuhan bakteria.
 
-Secara mekanistik, ramalan ini munasabah sebahagiannya kerana sulfonamida yang berkaitan, sulfasetamid, sudah merupakan kelas antibakteria oftalmik topikal yang mantap. Ini memberikan sokongan mekanistik tidak langsung untuk sulfonamida yang berguna dalam jangkitan okular.
+Konjunktivitis berjangkit akut lazimnya disebabkan oleh bakteria (contohnya *Staphylococcus aureus*, *Streptococcus pneumoniae* dan *Haemophilus influenzae*), maka mekanisme antibakteria secara teorinya boleh digunakan. Namun, konjunktivitis sudah pun tersenarai dalam indikasi asal ubat ini, jadi ramalan ini lebih tepat dianggap indikasi yang bertindih atau dilabel semula berbanding calon pelanggaran semula yang sebenar.
 
-Bagaimanapun, sulfamethoxazole sendiri secara klinikal digunakan hampir secara eksklusif sebagai agen sistemik oral (lazimnya sebagai TMP-SMX) bukan dalam formula oftalmik topikal, dan pada masa kini tiada bukti klinikal langsung — percubaan atau sebaliknya — yang menunjukkan keberkesan khususnya untuk merawat konjunktivitis. Oleh itu, ramalan itu perlu dianggap sebagai munasabah secara mekanistik tetapi tidak terbukti secara klinikal.
+Skor TxGNN yang tinggi (99.63%) hanyalah ramalan pengiraan dan bukan bukti klinikal. Kesesuaian laluan pemberian (contohnya sediaan titisan mata berbanding oral) juga belum dinilai.
+
+---
 
 ## Bukti Percubaan Klinikal
 
-Pada masa kini tiada percubaan klinikal berkaitan yang terdaftar
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
+
+---
 
 ## Bukti Literatur
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|------|------|---------|--------------|
-| [31788487](https://pubmed.ncbi.nlm.nih.gov/31788487/) | 2019 | Kohort | Medical Hypothesis, Discovery & Innovation Ophthalmology Journal | Kajian retrospektif konjunktivitis bakteria akut pada kanak-kanak di Yunani Barat mencirikan corak bakteria penyebab dan pola kerentanan antibiotik; menerangkan landskap patogen bukan menguji keberkesanan klinikal sulfamethoxazole secara langsung |
+| PMID | Tahun | Jenis | Jurnal | Dapatan Utama |
+|------|-----|------|------|---------|
+| [31788487](https://pubmed.ncbi.nlm.nih.gov/31788487/) | 2019 | Kohort (retrospektif) | Medical Hypothesis, Discovery & Innovation Ophthalmology Journal | Analisis bakteriologi dan corak kerentanan antibiotik bagi konjunktivitis bakteria akut kanak-kanak di Greece Barat; antibiotik topikal spektrum luas biasanya digunakan secara empirik |
+
+---
+
+## Maklumat Pasaran Malaysia
+
+Sulfametoksazol pada masa ini tidak dipasarkan di Malaysia dan tiada lesen berdaftar dalam data yang dikumpulkan.
+
+---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
+**Penyakit/keadaan yang dikaitkan dengan kontraindikasi dalam graf pengetahuan** (bukan teks label produk):
+porfiria (termasuk porfiria warisan dan gangguan metabolisme porfirin), penyakit buah pinggang, kegagalan buah pinggang, uremia, glomerulonefritis, penyakit hati, penyakit pundi hempedu, trombositopenia, neutropenia, agranulositosis, kolitis *Clostridium difficile*, enterokolitis nekrotik perinatal, kekurangan G6PD, penyakit penyimpanan glikogen, sistinuria, galaktosemia, anemia kekurangan asid folik dan piouretra.
+
+**Interaksi Ubat** (100 interaksi dikesan; contoh utama):
+- **Sederhana**: ubat antidiabetes (glimepirida, glipizida, gliburida, klorpropamida, asetoheksamida) dan pelbagai jenis insulin (manusia, aspart, degludec, detemir, glargine, glulisine) – risiko hipoglisemia perlu dipantau; balsalazida; asid pikosulfurik.
+- **Minor**: famotidin, klaritromisin, dolasetron, palonosetron, granisetron, cisaprida.
+
+Maklumat amaran dan kontraindikasi daripada sisipan pakej NPRA tidak tersedia. Sila rujuk sisipan pakej untuk maklumat keselamatan yang lengkap.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold (Tahan)**
 
-**Nisbah Berdasarkan:**
-Tiada percubaan klinikal dan hanya satu penerbitan epidemiologi tidak langsung menyokong indikasi ini, dan amaran label TFDA/NPRA serta kontraindikasi pada masa kini tidak tersedia (Jurang data yang menghalang), yang menghalang bahkan skrin keselamatan awal (S1).
+**Rasional:**
+- Bukti hanya terdiri daripada ramalan model dan satu kajian kohort retrospektif tanpa percubaan klinikal. Konjunktivitis sudah menjadi indikasi asal, ubat ini tidak dipasarkan di Malaysia, dan data keselamatan daripada sisipan pakej (jurang data bertaraf penghalang) belum tersedia.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Amaran sisipan pakej, kontraindikasi, dan data interaksi ubat (jurang data yang menghalang pada masa kini)
-- Rujukan mekanisme tindakan yang disahkan dari DrugBank (original_moa pada masa kini tidak tersedia)
-- Bukti formula oftalmik topikal sulfamethoxazole yang sedia ada atau boleh dilaksanakan
-- Carian literatur/percubaan klinikal yang disasarkan untuk sulfamethoxazole (atau TMP-SMX) yang secara khusus dikaji untuk merawat konjunktivitis bakteria/menular, bukan epidemiologi konjunktivitis umum
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Muat turun dan huraikan sisipan pakej NPRA untuk amaran dan kontraindikasi (diperlukan sebelum saringan keselamatan)
+- Data mekanisme tindakan (MOA) daripada DrugBank
+- Penjelasan sama ada ramalan ini benar-benar indikasi baharu atau pertindihan dengan indikasi asal
+- Penilaian kesesuaian laluan pemberian (sediaan oftalmik berbanding sistemik)
+- Bukti klinikal tambahan (percubaan terkawal rawak atau kajian keberkesanan) serta data kerentanan bakteria tempatan
+- Semakan status pendaftaran dan kemungkinan pemasaran di Malaysia
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

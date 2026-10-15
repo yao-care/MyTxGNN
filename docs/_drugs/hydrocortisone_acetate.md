@@ -2,7 +2,7 @@
 layout: default
 title: Hydrocortisone Acetate
 parent: Low Evidence (L4-L5)
-nav_order: 385
+nav_order: 404
 evidence_level: L5
 indication_count: 5
 ---
@@ -29,86 +29,135 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Hidrokortison Asetat: Daripada Penggunaan Kortikosteroid Anti-Inflamasi Topical kepada Eritema Multiforme
+# Hydrocortisone Acetate: Daripada Penyakit Autoimun/Insufisiensi Adrenokortikal kepada Hemoroid
 
 ## Ringkasan Satu Ayat
 
-Hidrokortison Asetat adalah kortikosteroid (agonis reseptor glukokortikoid) yang telah dipasarkan di Malaysia dengan 34 pendaftaran, walaupun teks indikasi asal yang khusus tidak dikembalikan dalam ekstrak data ini. Model TxGNN menggolongkan **Eritema Multiforme** sebagai prediksi indikasi barunnya yang teratas, tetapi bukti di sebalik prediksi ini pada asasnya tidak wujud — skor TxGNN **0.00%**, **0 percubaan klinikal yang relevan**, dan hanya **1 laporan kes**, yang sebenarnya menggambarkan titis telinga yang mengandungi hidrokortison *menyebabkan* eritema multiforme daripada merawatnya.
+Hydrocortisone acetate ialah kortikosteroid yang pada asalnya digunakan untuk penyakit autoimun, insufisiensi adrenokortikal, penyakit Crohn dan leukemia limfoblastik akut.
+Model TxGNN meramalkan ia mungkin berkesan untuk **hemoroid** (indikasi baharu pada kedudukan teratas dengan bukti bermakna),
+dengan **3 percubaan klinikal Fasa 2 yang telah selesai** dan **1 RCT** yang menggunakan supositori hidrokortison sebagai pembanding. Perlu diingatkan bahawa ini lebih merupakan penggunaan sedia ada bagi kelas kortikosteroid topikal/rektal berbanding pengulangan guna (repurposing) sebenar.
 
 ---
 
-## Gambaran Keseluruhan Pantas
+## Gambaran Ringkas
 
-| Perkara | Kandungan |
+| Item | Kandungan |
 |------|------|
-| Indikasi Asal | Tidak tercatat dalam ekstrak lesen NPRA yang tersedia (semua medan `approved_indication_text` kosong); secara farmakoloji kortikosteroid topical/sistemik yang digunakan untuk keadaan inflamasi |
-| Indikasi Baru Terjangka | Eritema Multiforme |
-| Skor Prediksi TxGNN | 0.00% |
-| Aras Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 34 |
-| Keputusan Disyorkan | Tahan |
+| Indikasi Asal | Penyakit autoimun, insufisiensi adrenokortikal, penyakit Crohn, leukemia limfoblastik akut (daripada graf pengetahuan TxGNN; tiada teks indikasi berlesen kerana tiada pendaftaran di Malaysia) |
+| Indikasi Baharu Diramalkan | Hemoroid (penilaian utama dalam laporan ini; ramalan kedudukan pertama dalam data ialah erythema multiforme) |
+| Skor Ramalan TxGNN | 0.0% (skor dalam data yang dikumpulkan ialah 0.0 bagi semua calon, jadi skor tidak boleh dijadikan asas pembezaan) |
+| Tahap Bukti | L2 (hemoroid) |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Proceed with Guardrails (hemoroid) |
 
-> ⚠ **Nota mengenai pemilihan calon**: Paket calon ini mengandungi 5 indikasi terjangka KG untuk Hidrokortison Asetat. Eritema Multiforme disenaraikan #1 tetapi mempunyai bukti yang paling lemah dan paling bercanggah dalam set ini. Sebaliknya, pangkat #2 (**Hemorrohid**) mempunyai **Aras Bukti L1**, pelbagai RCT Fasa 2 yang telah selesai menguji hidrokortison asetat secara terus, dan syor **"Lanjutkan dengan Perlindungan"** — mencerminkan penggunaan klinikal yang telah ditetapkan daripada isyarat penyusunan semula yang baru. Pembuat keputusan yang menyemak calon ini harus sedar bahawa keluaran TxGNN yang disenaraikan teratas bukan pilihan yang paling disokong bukti dalam paket ini.
+**Nota:** Ramalan kedudukan 1 ialah erythema multiforme, tetapi satu-satunya bukti ialah laporan kes di mana penyakit itu timbul *selepas* penggunaan titisan telinga yang mengandungi hidrokortison asetat (kemungkinan tindak balas buruk). Kedudukan ini dinilai **Hold**. Hemoroid (kedudukan 2) mempunyai bukti terkuat, maka dijadikan fokus laporan.
+
+Ringkasan semua calon:
+
+| Kedudukan | Indikasi Diramalkan | Tahap Bukti | Syor |
+|------|------|------|------|
+| 1 | Erythema multiforme | L4 | Hold |
+| 2 | Hemoroid | L2 | Proceed with Guardrails |
+| 3 | Lymphosarcoma | L4 | Hold |
+| 4 | Penyakit kawasan orbit | L3 | Soalan penyelidikan (Research Question) |
+| 5 | Leukemia limfositik (kerentanan) | L5 | Hold |
 
 ---
 
-## Mengapa Prediksi Ini Munasabah?
+## Mengapa Ramalan Ini Munasabah?
 
-Pada masa kini, data mekanisme tindakan yang terperinci tidak tersedia (`original_moa: [Data Gap]`). Berdasarkan maklumat yang terdapat di tempat lain dalam paket bukti ini, Hidrokortison Asetat bertindak sebagai agonis reseptor glukokortikoid, dan formulasi topical/rectal telah ditetapkan untuk menekan mediator inflamasi dan mengurangkan kebolehtelapan vaskular dan edema (seperti yang ditunjukkan dalam penggunaannya yang telah ditetapkan dalam produk hemorrohid dan inflamasi permukaan okular).
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat sedia ada, hydrocortisone acetate ialah kortikosteroid yang kesan anti-radangnya telah terbukti dalam keadaan radang seperti penyakit Crohn dan penyakit radang usus, dan secara mekanisme mungkin sesuai untuk hemoroid.
 
-Untuk Eritema Multiforme secara khusus, bagaimanapun, rasional mekanik ini tidak diterjemahkan ke dalam bukti yang sokongan. Eritema multiforme sendiri adalah tindak balas hipersensitiviti yang dimediasi imun, sering kali dicetuskan oleh ubat atau jangkitan — dan rekod kesusasteraan tunggal yang diambil untuk pasangan ini mendokumentasikan hidrokortison asetat (sebagai bahan dalam titis telinga Gentisone HC) sebagai **punca** kes eritema multiforme, bukan sebagai rawatan. Tiada percubaan klinikal dalam set yang diambil menguji hidrokortison asetat sebagai terapi untuk eritema multiforme; keempat-empat percubaan yang dikembalikan adalah meleset sasaran (ubat/penyakit yang tidak berkaitan, dinilai "C" untuk kaitan).
+Dalam hemoroid, kesan anti-radang dan anti-pruritik kortikosteroid secara munasabah dapat melegakan bengkak, gatal dan sakit. Kajian farmakokinetik rektum menunjukkan penghantaran setempat (bioavailabiliti mutlak rektum hanya kira-kira 2% bagi buih 100 mg), yang bermakna pendedahan sistemik rendah.
 
-Ringkasnya, kebolehpercayaan mekanik yang wujud untuk kesan anti-inflamasi hidrokortison asetat tidak meluas ke prediksi khusus ini — bukti yang tersedia menunjuk ke arah yang bertentangan (tindak balas buruk) daripada menyokong manfaat terapeutik.
+Namun begitu, terdapat beberapa kaveat: produk gabungan (dengan lidokain atau pramoxine) menyukarkan pengaitan kesan kepada hidrokortison sahaja, tajuk beberapa percubaan terpotong sehingga formulasi dan pembanding perlu disahkan, dan penggunaan ini sudah mantap bagi kelas kortikosteroid topikal.
 
 ---
 
 ## Bukti Percubaan Klinikal
 
-| Nombor Percubaan | Fasa | Status | Enrolmen | Penemuan Utama |
+**Hemoroid (kedudukan 2):**
+
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Dapatan Utama |
 |---------|------|------|------|---------|
-| [NCT02153762](https://clinicaltrials.gov/study/NCT02153762) | NA | Selesai | 41 | Kajian susunan aplikasi Locoid Lipocream (hidrokortison **butyrate**, bukan asetat) dan Hylatopic Plus dalam dermatitis atopik — ubat garam yang tidak berkaitan dan indikasi (Gred C) |
-| [NCT00332163](https://clinicaltrials.gov/study/NCT00332163) | Fasa 2 | Selesai | 95 | Rawatan profilaktik vs. reaktif toksilitas kulit berkaitan EGFR pada pesakit kanser kolorektal metastatik — bukan hidrokortison asetat, bukan EM (Gred C) |
-| [NCT05468372](https://clinicaltrials.gov/study/NCT05468372) | Fasa 2 | Merekrut | 50 | Amphotericin B vs. posakonazol untuk mukormikosis pulmonari — tidak berkaitan dengan hidrokortison asetat atau EM (Gred C) |
-| [NCT01650194](https://clinicaltrials.gov/study/NCT01650194) | Fasa 2 | Selesai | 60 | Enzalutamid tambah abiraterone asetat dalam kanser prostat metastatik — tidak berkaitan (Gred C) |
+| [NCT01913158](https://clinicaltrials.gov/study/NCT01913158) | Fasa 2 | Selesai | 150 | RCT double-blind terkawal kenderaan; keselamatan dan keberkesanan supositori rektum hidrokortison asetat 25 mg dalam hemoroid dalaman bergejala |
+| [NCT02689856](https://clinicaltrials.gov/study/NCT02689856) | Fasa 2 | Selesai | 211 | Kajian julat dos double-blind; lidokain dan/atau hidrokortison asetat (bersendirian atau gabungan) selama 14 hari bagi hemoroid Gred I/II |
+| [NCT03335774](https://clinicaltrials.gov/study/NCT03335774) | Fasa 2 | Selesai | 103 | RCT double-blind terkawal plasebo; supositori hidrokortison asetat 25 mg dalam hemoroid dalaman bergejala |
+| [NCT00405288](https://clinicaltrials.gov/study/NCT00405288) | N/A | Selesai | 408 | Keselamatan janin bagi Proctofoam-HC (hidrokortison/pramoxine) pada trimester ketiga kehamilan; bukan bukti keberkesanan |
 
-Tiada percubaan yang diambil menguji hidrokortison asetat secara terus untuk eritema multiforme; semua dinilai C (kaitan rendah / bunyi graf pengetahuan).
+**Penyakit kawasan orbit (kedudukan 4):**
+
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Dapatan Utama |
+|---------|------|------|------|---------|
+| [NCT05159284](https://clinicaltrials.gov/study/NCT05159284) | Fasa 4 | Tidak diketahui | 54 | Hidrokortison topikal (Softacort) untuk penyakit mata kering dengan disfungsi kelenjar meibom sederhana |
+| [NCT01860664](https://clinicaltrials.gov/study/NCT01860664) | Fasa 2 | Ditamatkan | 15 | Salap oftalmik hidrokortison lwn plasebo dalam konjunktivitis alergi; kurang kuasa statistik |
+| [NCT04536129](https://clinicaltrials.gov/study/NCT04536129) | N/A | Selesai | 90 | Kesan titisan mata hidrokortison dos rendah tanpa pengawet terhadap tekanan intraokular |
+
+**Lymphosarcoma (kedudukan 3):** Banyak percubaan dipadankan (contohnya [NCT00002744](https://clinicaltrials.gov/study/NCT00002744), Fasa 3, N=1970, dan [NCT00557193](https://clinicaltrials.gov/study/NCT00557193), Fasa 3, N=218), tetapi semuanya protokol kemoterapi pelbagai ejen; hidrokortison kemungkinan hanya digunakan secara intratekal atau sokongan, dan kesannya tidak dapat diasingkan. Bukti ini tidak langsung.
+
+**Erythema multiforme dan leukemia limfositik (kerentanan):** Tiada percubaan klinikal berdaftar buat masa ini.
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Literatur
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+**Hemoroid:**
+
+| PMID | Tahun | Jenis | Jurnal | Dapatan Utama |
 |------|-----|------|------|---------|
-| [10696380](https://pubmed.ncbi.nlm.nih.gov/10696380/) | 1999 | Laporan Kes | The Journal of Laryngology and Otology | Seorang gadis berumur 4 tahun mengalami eritema multiforme selepas aplikasi aural topical titis Gentisone HC (hidrokortison asetat 1% + gentamicin) untuk otorrhoea pasca-grommet — dilaporkan sebagai **tindak balas ubat buruk**, bukan kesan rawatan |
+| [26109819](https://pubmed.ncbi.nlm.nih.gov/26109819/) | 2015 | RCT | World J Gastroenterol | Streptokinase rekombinan lwn supositori berasaskan hidrokortison asetat dalam hemoroid akut |
+| [12847368](https://pubmed.ncbi.nlm.nih.gov/12847368/) | 2003 | RCT | Dis Colon Rectum | Buih budesonide lwn buih hidrokortison asetat dalam proktosigmoiditis ulseratif aktif |
+| [39945661](https://pubmed.ncbi.nlm.nih.gov/39945661/) | 2025 | Ulasan | Minerva Surg | Bukti klinikal salap nifedipine dan lidokain untuk fisur dubur dan hemoroid (bukan hidrokortison) |
+| [11361050](https://pubmed.ncbi.nlm.nih.gov/11361050/) | 2001 | Kajian farmakokinetik | J Clin Pharmacol | Bioavailabiliti rektum hidrokortison asetat selepas dos tunggal dan berulang; hanya sebahagian kecil diserap |
+| [1800704](https://pubmed.ncbi.nlm.nih.gov/1800704/) | 1991 | Kajian farmakokinetik | J Pharm Sci | Bioavailabiliti mutlak rektum purata kira-kira 2% dengan variasi antara subjek yang besar |
+| [40143012](https://pubmed.ncbi.nlm.nih.gov/40143012/) | 2025 | Pembangunan formulasi | Pharmaceutics | Formulasi krim hidrokortison asetat dan pramoxine dengan profil pelepasan in vitro dipertingkat |
+| [14421315](https://pubmed.ncbi.nlm.nih.gov/14421315/) | 1960 | Laporan sejarah | Dis Colon Rectum | Rawatan topikal keradangan anorektum dengan hidrokortison asetat |
+
+**Erythema multiforme:**
+
+| PMID | Tahun | Jenis | Jurnal | Dapatan Utama |
+|------|-----|------|------|---------|
+| [10696380](https://pubmed.ncbi.nlm.nih.gov/10696380/) | 1999 | Laporan kes | J Laryngol Otol | Erythema multiforme pada kanak-kanak perempuan berumur empat tahun selepas titisan telinga Gentisone HC; ubat sebagai pencetus, bukan rawatan |
+
+**Lymphosarcoma:**
+
+| PMID | Tahun | Jenis | Jurnal | Dapatan Utama |
+|------|-----|------|------|---------|
+| [13671199](https://pubmed.ncbi.nlm.nih.gov/13671199/) | 1959 | Laporan sejarah | Boll Soc Ital Biol Sper | Perubahan histologi dalam retikulosarkoma selepas pemberian setempat hidrokortison asetat |
 
 ---
 
-## Maklumat Pasaran Malaysia
+## Maklumat Pasaran di Malaysia
 
-Rekod NPRA mengesahkan produk dipasarkan dengan **34 pendaftaran jumlah**, tetapi medan per-lesen terperinci (nombor kebenaran, nama produk, bentuk dos, indikasi yang diluluskan) tidak diisi dalam ekstrak data ini dan tidak boleh dilaporkan di sini tanpa membuat nilai.
+Hydrocortisone acetate (seperti dalam data yang dikumpulkan untuk laporan ini) **tidak dipasarkan** di Malaysia dan tiada lesen berdaftar dengan NPRA.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan paket untuk maklumat keselamatan. (Amaran utama, kontraindikasi, dan data interaksi ubat tidak tersedia dalam ekstrak data ini — pertanyaan DDI tidak mengembalikan hasil.)
+- **Penyakit/keadaan yang dikenal pasti sebagai kontraindikasi dalam graf pengetahuan** (bukan teks label produk): hipertensi, epilepsi, ulser gastrik, penyakit buah pinggang, penyakit hati, penyakit pundi hempedu, hiperglikemia, campak, keratitis herpes simpleks, serta pelbagai keadaan kekurangan hormon pituitari dan hipogonadisme hipogonadotropik.
+- **Interaksi ubat**: tiada rekod interaksi ditemui dalam data yang dikumpulkan.
+- **Pertimbangan khusus indikasi**: bagi penggunaan oftalmik, pemantauan tekanan intraokular (IOP) penting. Bagi penggunaan rektum, penyerapan sistemik rendah tetapi tidak sifar; data keselamatan dalam kehamilan trimester ketiga wujud (NCT00405288, N=408).
+
+Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi yang lengkap.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Proceed with Guardrails (hemoroid); Hold (erythema multiforme, lymphosarcoma, leukemia limfositik); Soalan Penyelidikan (penyakit kawasan orbit)**
 
-**Alasan:**
-Skor prediksi TxGNN untuk indikasi ini adalah sifar berkesan, aras bukti adalah L5 (tiada kajian sokongan), dan kesusasteraan tunggal yang dikenal pasti mendokumentasikan hidrokortison asetat **menyebabkan** eritema multiforme sebagai tindak balas hipersensitiviti — bukti yang bertentangan, bukan menyokong, penggunaan terapeutik yang dicadangkan.
+**Rasional:**
+- Bagi hemoroid, tiga percubaan Fasa 2 yang telah selesai dan satu RCT menyokong penggunaan hidrokortison asetat dalam keadaan anorektum, tetapi ini penggunaan mantap kelas kortikosteroid dan bukan repurposing sebenar, serta beberapa percubaan menggunakan produk gabungan.
+- Bagi indikasi lain, bukti sama ada tidak langsung, berpotensi negatif (erythema multiforme sebagai kemungkinan tindak balas buruk), atau tiada langsung.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Amaran sisipan paket TFDA/NPRA dan kontraindikasi (kini jurang data penyekat — DG001)
-- Data mekanisme tindakan yang disahkan (DG002)
-- Sebarang bukti praklinikal atau mekanik tulen untuk manfaat kortikosteroid dalam eritema multiforme, berbeza daripada laporan kes peristiwa buruk yang bercanggah tunggal
-- Pertimbangkan mengubah hala usaha penilaian kepada calon **Hemorrohid** dalam paket yang sama ini (pangkat 2, Aras Bukti L1, pelbagai RCT Fasa 2 yang telah selesai, "Lanjutkan dengan Perlindungan"), yang mewakili isyarat yang jauh lebih kuat dan telah ditetapkan secara klinikal
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisipan pakej NPRA (amaran dan kontraindikasi): jurang data yang menghalang tapisan keselamatan
+- Data mekanisme tindakan (MOA) terperinci daripada DrugBank
+- Pengesahan formulasi, pembanding dan hasil bagi NCT01913158 dan NCT03335774 (tajuk terpotong)
+- Penjelasan status pendaftaran: ubat ini tidak berdaftar di Malaysia, jadi laluan pendaftaran atau import perlu dinilai
+- Pelan pemantauan keselamatan bagi populasi khusus (contohnya kehamilan) dan, jika penggunaan oftalmik dipertimbangkan, pemantauan IOP
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

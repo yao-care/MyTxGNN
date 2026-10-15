@@ -2,7 +2,7 @@
 layout: default
 title: Sodium Acetate
 parent: Low Evidence (L4-L5)
-nav_order: 619
+nav_order: 649
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,61 +29,88 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Sodium Acetate: Daripada Pengaturan Elektrolit/Keseimbangan Asid-Bes kepada Kekurangan Protrombina Bawaan
+# Natrium Asetat: Daripada Tiada Indikasi Berdaftar kepada Kekurangan Protrombin Kongenital
 
 ## Ringkasan Satu Ayat
 
-Sodium acetate ialah penyuplai elektrolit asas dan agen pengalkalian (dimetaboliskan kepada bikarbonat), yang biasanya digunakan sebagai aditif dalam bendalir IV, dialisis, dan nutrisi parenteral. Model TxGNN memberikan peramalnya yang teratas kepada **Kekurangan Protrombina Bawaan**, tetapi ini adalah **isyarat model semata-mata tanpa sebarang ujian klinikal atau literatur yang menyokong**, dan ulasan bukti itu sendiri menandainya sebagai laluan graf pengetahuan yang berkemungkinan kebetulan daripada pautan farmakologi sebenar.
+Natrium asetat ialah elektrolit dan agen pengalkali. Data yang dikumpulkan untuk laporan ini tidak mempunyai indikasi asal yang berdaftar di Malaysia.
+Model TxGNN meramalkan ia mungkin berkesan untuk **kekurangan protrombin kongenital**, tetapi ramalan ini **tidak disokong oleh sebarang ujian klinikal atau penerbitan** (0 ujian klinikal, 0 penerbitan berkaitan).
 
-## Gambaran Keseluruhan Cepat
+---
 
-| Item | Kandungan |
-|------|-----------|
-| Petunjuk Asal | Penyuplai elektrolit / agen pengalkalian (teks petunjuk yang diluluskan tidak diisi dalam data daftar Malaysia) |
-| Petunjuk Baru yang Diramalan | Kekurangan Protrombina Bawaan |
-| Skor Peramalan TxGNN | 99.98% |
+## Gambaran Keseluruhan Pantas
+
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Tiada data indikasi berdaftar |
+| Indikasi Baharu yang Diramalkan | Kekurangan protrombin kongenital (congenital prothrombin deficiency) |
+| Skor Ramalan TxGNN | 99.98% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 25 |
-| Keputusan yang Disyorkan | Tahan |
+| Status Pasaran Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
-## Mengapa Peramalan Ini Wajar?
+---
 
-Pada masa ini, data mekanisme tindakan yang terperinci tidak tersedia untuk sodium acetate dalam set data ini. Berdasarkan farmakologi yang diketahui, sodium acetate berfungsi sebagai agen penyokan elektrolit/pH — sekali diserap, ia dimetaboliskan kepada bikarbonat dan digunakan secara klinikal untuk membetulkan asidosis metabolik atau sebagai sumber natrium/penyokan dalam bendalir IV, dialisis, dan formulasi TPN. Ia tidak mempunyai peranan yang diketahui dalam sintesis, pengaturan, atau penggantian faktor pembekuan.
+## Mengapa Ramalan Ini Munasabah?
 
-Kekurangan protrombina (Faktor II) bawaan ialah gangguan genetik dalam sintesis faktor pembekuan, yang diurus dengan terapi penggantian faktor. Tidak ada laluan farmakologi yang diketahui di mana agen elektrolit/pengalkalian akan mempengaruhi sintesis hepatik atau aktiviti faktor pembekuan.
+Data mekanisme tindakan (MOA) terperinci tidak tersedia pada masa ini. Natrium asetat dikenali sebagai elektrolit dan agen pengalkali, kerana asetat dimetabolismekan menjadi bikarbonat.
 
-Ulasan bukti untuk calon ini dengan jelas menyimpulkan bahawa skor TxGNN yang tinggi tidak disokong oleh sebarang ujian klinikal atau penerbitan, dan menilai pautan itu sebagai laluan graf pengetahuan yang kebetulan daripada hipotesis yang berasaskan biologi. Peramalan ini harus dianggap sebagai penerokaan semata-mata.
+Analisis data yang dikumpulkan **tidak menemui sebarang kaitan mekanistik yang munasabah**. Natrium asetat tidak mempunyai peranan yang diketahui dalam sintesis atau fungsi faktor pembekuan darah. Skor TxGNN yang tinggi hanyalah ramalan berasaskan graf dan tidak disokong oleh bukti klinikal atau literatur. Kesamaan dengan indikasi asal pula belum dinilai kerana tiada indikasi asal berdaftar.
+
+Beberapa ramalan lain dalam kedudukan teratas (contohnya uretritis, jangkitan saluran kencing, epiglotitis) juga tidak mempunyai mekanisme antimikrob atau anti-radang yang diketahui bagi natrium asetat.
+
+---
 
 ## Bukti Ujian Klinikal
 
-Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
+
+---
 
 ## Bukti Literatur
 
-Pada masa ini tiada literatur berkaitan yang tersedia
+Pada masa ini tiada literatur berkaitan yang tersedia untuk indikasi yang diramalkan ini.
 
-## Maklumat Pasaran Malaysia
+Nota: Bagi ramalan lain (dispepsia dan gastroparesis), beberapa kertas telah ditemui, tetapi kebanyakannya menggunakan natrium asetat berlabel ¹³C hanya sebagai substrat ujian nafas untuk mengukur pengosongan gastrik. Ini ialah kegunaan diagnostik, bukan bukti terapeutik.
 
-25 pendaftaran ada dalam fail dengan regulator Malaysia (NPRA), tetapi butiran di peringkat lesen (nombor kebenaran, nama produk, bentuk dos, teks petunjuk yang diluluskan) tidak diisi dalam set data semasa.
+---
 
-## Pertimbangan Keselamatan
+## Keselamatan dan Pertimbangan
 
-Sila rujuk risalah paket untuk maklumat keselamatan.
+### Interaksi Ubat
+
+Sebanyak 30 interaksi ubat direkodkan; antara yang utama:
+
+- **Tahap sederhana**: doksisiklin, tetrasiklin, minosiklin, asid asetilsalisilik, efedrin, pseudoefedrin, amfetamin, deksamfetamin, benzfetamin, kolin salisilat, metenamin
+- **Tahap minor**: klorpropamid, tolazamid, glipizid, gliburid, asetoheksamid, tolbutamid, memantin, metotreksat
+
+### Penyakit yang Berpotensi Menjadi Kontraindikasi
+
+Berdasarkan graf pengetahuan TxGNN (PrimeKG), bukan teks label produk, penyakit berikut dikaitkan dengan kontraindikasi:
+
+- **Buah pinggang**: penyakit buah pinggang, penyakit buah pinggang kronik, kegagalan buah pinggang kronik, kegagalan buah pinggang peringkat akhir, anuria, nefrokalsinosis, nefrolitiasis, nefropati urat akut
+- **Kardiovaskular**: penyakit jantung, penyakit kardiovaskular, blok atrioventrikular, fibrilasi ventrikel, keracunan digitalis
+- **Metabolisme dan elektrolit**: hiperkalsemia, hiperkalsemia humoral akibat keganasan, penyakit metabolisme fosforus, hipoaldosteronisme, fenilketonuria, gangguan metabolisme fenilalanina
+- **Neuromuskular**: lumpuh berkala hiperkalemia, lumpuh berkala, miotonia kongenital
+- **Lain-lain**: sarkoidosis, piouretr
+
+Maklumat amaran utama dan kontraindikasi daripada sisipan pek NPRA tidak tersedia. Sila rujuk sisipan pek untuk maklumat keselamatan yang lengkap.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
 **Rasional:**
-Peramalan yang dipangkat teratas (Kekurangan Protrombina Bawaan) adalah tahap bukti L5 — isyarat model semata-mata tanpa sebarang ujian klinikal, tiada literatur, dan tiada laluan mekanistik yang munasabah; ulasan bukti itu sendiri menilainya sebagai artifak graf pengetahuan yang kebetulan. Secara berasingan, jurang data Penyekat pada amaran label TFDA/NPRA dan kontraindikasi (DG001) bermakna calon ini tidak dapat meneruskan ke penyaringan keselamatan (S1) tanpa mengira isyarat keberkesanan.
+- Ramalan ini hanya berasaskan model (L5) tanpa sebarang ujian klinikal atau literatur sokongan, dan tiada kaitan mekanistik yang munasabah antara natrium asetat dengan kekurangan protrombin kongenital. Di Malaysia, produk ini tidak dipasarkan dan tiada pendaftaran.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Data risalah paket / label (amaran, kontraindikasi, DDI) untuk menjelaskan jurang data Penyekat (DG001)
-- Mekanisme tindakan yang disahkan (DG001/DG002) untuk menyokong atau menafikan kebolehpercayaan mekanistik
-- Sebarang bukti pra-klinikal atau in vitro yang secara langsung menghubungkan metabolisme asetat/bikarbonat kepada sintesis faktor pembekuan, jika hipotesis sedemikian akan dikejar
-- Nota: calon yang dipangkat lebih rendah dalam paket bukti ini — dispepsia dan gastroparesis (kedua-duanya L4, "Soalan Penyelidikan," terikat pada kesan asetat/SCFA pada pengosongan gastrik) — membawa kebolehpercayaan mekanistik yang lebih kuat secara perbandingan dan mungkin wajar untuk disemak lebih awal daripada calon yang dipangkat teratas ini
-
+- Sisipan pek (amaran dan kontraindikasi) daripada NPRA, yang merupakan jurang data penghalang bagi saringan keselamatan
+- Data mekanisme tindakan (MOA) terperinci
+- Hipotesis mekanistik yang jelas dan bukti praklinikal bagi kaitan dengan indikasi baharu
+- Pengesahan sama ada terdapat produk natrium asetat yang berdaftar atau dibekalkan di Malaysia, serta penilaian kesesuaian laluan pemberian
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

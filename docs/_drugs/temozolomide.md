@@ -2,7 +2,7 @@
 layout: default
 title: Temozolomide
 parent: High Evidence (L1-L2)
-nav_order: 639
+nav_order: 671
 evidence_level: L1
 indication_count: 2
 ---
@@ -29,84 +29,103 @@ Tahap bukti: **L1** | Indikasi diramal: **2**
 
 </div>
 
-# Temozolomide: Dari Indikasi Asal yang Tidak Tercatat kepada Tumor Astrosit Dewasa
+# Temozolomide: Daripada Astrositoma/Glioblastoma kepada Tumor Astrositik Dewasa
 
 ## Ringkasan Satu Ayat
 
-Temozolomide (DrugBank DB00853) ialah agen penatalaksanaan oral yang dipasarkan di Malaysia di bawah 5 pendaftaran, walaupun teks indikasi yang diluluskan khusus tidak ditangkap dalam pakej bukti ini. Model TxGNN meramalkan bahawa ia mungkin berkesan untuk **Tumor Astrosit Dewasa**, ramalan yang telah dikukuhkan dengan kuat oleh amalan onkologi dunia nyata, dengan **2 ujian klinikal** dan **10+ penerbitan diprioritaskan** (termasuk pelbagai RCT Fasa 3 yang telah selesai) menyokong arah ini.
+Temozolomide ialah agen pengalkilan oral yang pada asalnya digunakan untuk merawat astrositoma anaplastik, astrositoma (tidak termasuk glioblastoma) dan glioblastoma otak.
+Model TxGNN meramalkan ia mungkin berkesan untuk **tumor astrositik dewasa**,
+dengan **2 ujian klinikal** dan **20 penerbitan** yang menyokong arah ini. Perlu diingat bahawa ini lebih merupakan pengesahan penggunaan sedia ada berbanding pengalihan guna (repurposing) sebenar.
 
-## Gambaran Keseluruhan Pantas
+---
+
+## Gambaran Ringkas
 
 | Item | Kandungan |
-|------|----------|
-| Indikasi Asal | Tiada pada fail — rekod lesen TFDA/NPRA tidak menyertakan teks indikasi yang diluluskan (jurang data) |
-| Indikasi Baru yang Diramalkan | Tumor Astrosit Dewasa |
+|------|------|
+| Indikasi Asal | Astrositoma anaplastik; astrositoma (tidak termasuk glioblastoma); glioblastoma otak |
+| Indikasi Baharu yang Diramalkan | Tumor astrositik dewasa |
 | Skor Ramalan TxGNN | 99.36% |
 | Tahap Bukti | L1 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 5 |
-| Keputusan yang Disyorkan | Teruskan dengan Penjaga |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa kini, data mekanisme tindakan terperinci daripada rujukan ubat piawai tidak tersedia dalam pakej bukti ini (ditandai sebagai jurang data berisiko Tinggi). Berdasarkan penilaian mekanis penyemak, temozolomide ialah agen penatalaksanaan imidazotetrazol oral yang menembus halangan darah-otak dan mendorong apoptosis sel tumor melalui metilasi DNA pada kedudukan O6-guanin — mekanisme yang didokumentasikan dengan baik dalam kesusasteraan onkologi sebagai asas farmakopengguna untuk merawat tumor astrosit.
+Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan. Namun, berdasarkan pengetahuan sedia ada, temozolomide ialah agen pengalkilan oral yang memetilkan DNA (pada O6-guanina, N7-guanina dan N3-adenina). Lesi O6-metilguanina mencetuskan sitotoksisiti melalui pembaikan ketidakpadanan (mismatch repair), terutamanya dalam tumor dengan promoter MGMT termetilasi yang kapasiti pembaikannya berkurang.
 
-Walaupun teks indikasi yang diluluskan asal untuk pendaftaran Malaysia tidak dapat diekstrak (berkemungkinan jurang kutipan data dalam sumber TFDA/NPRA dan bukannya ketiadaan sebenar penggunaan yang diluluskan), bukti klinikal dan kesusasteraan yang menyokong adalah jelas: temozolomide bersama radioterapi (protokol Stupp) ialah penjagaan piawai yang diiktiraf di peringkat antarabangsa untuk glioblastoma dan tumor astrosit berenar lain. Ini bermakna ramalan TxGNN bukan mengenal pasti hipotesis mekanis yang baru sebaliknya mengesahkan penggunaan klinikal yang telah tertetap — yang menjelaskan skor ramalan yang sangat tinggi (99.36%) dan tahap bukti L1.
+Astrositoma anaplastik dan glioblastoma sudah pun termasuk dalam indikasi asal, dan kedua-duanya tergolong dalam tumor astrositik dewasa. Oleh itu skor TxGNN yang tinggi (0.994) selaras dengan mekanisme yang diketahui dan penggunaan klinikal. Indikasi ini ialah indikasi dalam label atau hampir dalam label, jadi ia mengesahkan penggunaan sedia ada dan bukan repurposing sebenar.
 
-Memandangkan ini, tugas penilaian utama kurang tentang kebolehsaksian keberkesanan dan lebih tentang menutup jurang data pentadbiran/kawal selia (teks indikasi asal, amaran sisipan pembungkus) sehingga penggunaan yang tertetap ini dapat didokumentasikan secara formal terhadap pendaftaran Malaysia.
+---
 
 ## Bukti Ujian Klinikal
 
-| Bilangan Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT00052455](https://clinicaltrials.gov/study/NCT00052455) | Fasa 3 | Selesai | 500 | Perbandingan rawak temozolomide sahaja lawan PCV (prokarbazin, lomustina, vinkristin) dalam tumor astrosit WHO Gred III/IV yang kambuh |
-| [NCT00960492](https://clinicaltrials.gov/study/NCT00960492) | Fasa 1 | Selesai | 26 | Kajian penentuan dos XL184 (kabozantinib) digabungkan dengan temozolomide dan radioterapi dalam glioblastoma yang baru didiagnosis; terutamanya kajian keselamatan/PK kombinasi, bukan monoterapi TMZ |
+| [NCT00052455](https://clinicaltrials.gov/study/NCT00052455) | Fasa 3 | Selesai | 500 | Perbandingan rawak temozolomide berbanding PCV (prokarbazin, lomustin, vinkristin) dalam glioma malignan berulang (astrositik WHO gred III dan IV) |
+| [NCT00960492](https://clinicaltrials.gov/study/NCT00960492) | Fasa 1 | Selesai | 26 | Kajian penentuan dos keselamatan dan farmakokinetik XL184 (cabozantinib) bersama temozolomide dan radioterapi dalam glioblastoma; temozolomide ialah agen asas, relevansi terhad |
 
-## Bukti Kesusasteraan
+---
+
+## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [15758009](https://pubmed.ncbi.nlm.nih.gov/15758009/) | 2005 | RCT | N Engl J Med | Ujian penanda EORTC-NCIC yang menetapkan temozolomide konkomitan + tambahan dengan radioterapi sebagai penjagaan piawai untuk glioblastoma yang baru didiagnosis |
-| [19269895](https://pubmed.ncbi.nlm.nih.gov/19269895/) | 2009 | RCT | Lancet Oncol | Susulan 5 tahun ujian EORTC-NCIC yang mengesahkan faedah kemandirian tahan lama temozolomide + radioterapi |
-| [22578793](https://pubmed.ncbi.nlm.nih.gov/22578793/) | 2012 | RCT | Lancet Oncol | Ujian NOA-08: temozolomide dos padat sahaja lawan radioterapi sahaja dalam pesakit warga tua dengan astrosit ganas |
-| [24552317](https://pubmed.ncbi.nlm.nih.gov/24552317/) | 2014 | RCT | N Engl J Med | Ujian rawak bevacizumab ditambah pada temozolomide + radioterapi piawai dalam glioblastoma yang baru didiagnosis |
-| [26670971](https://pubmed.ncbi.nlm.nih.gov/26670971/) | 2015 | RCT | JAMA | Medan Gusi Rawatan Tumor ditambah pemeliharaan temozolomide lawan temozolomide sahaja dalam glioblastoma |
-| [25920709](https://pubmed.ncbi.nlm.nih.gov/25920709/) | 2015 | RCT | J Neurooncol | Radioterapi serentak campur temozolomide diikuti oleh pemeliharaan 13-cis-retinoik asid dalam glioma astrosit analastik |
-| [30782343](https://pubmed.ncbi.nlm.nih.gov/30782343/) | 2019 | RCT | Lancet | Ujian Fasa 3 CeTeG/NOA-09: kombinasi lomustina-temozolomide lawan temozolomide piawai dalam glioblastoma bermetilas MGMT |
-| [40779733](https://pubmed.ncbi.nlm.nih.gov/40779733/) | 2025 | RCT | J Clin Oncol | Ujian Fasa II/III NRG Oncology BN007 bagi halangan semak imun ganda dalam glioblastoma tidak bermetilas MGMT (lengan piawai yang mengandungi temozolomide) |
-| [41345097](https://pubmed.ncbi.nlm.nih.gov/41345097/) | 2025 | Ujian Fasa Ib/II | Nat Commun | Ujian GEINO 1602: glasdegib ditambah pada temozolomide + radioterapi piawai (rejimen Stupp) dalam glioblastoma yang baru didiagnosis |
-| [36809318](https://pubmed.ncbi.nlm.nih.gov/36809318/) | 2023 | Semakan | JAMA | Gambaran keseluruhan glioblastoma dan keganasan otak utama dewasa yang lain, termasuk penjagaan rawatan semasa |
+| [15758009](https://pubmed.ncbi.nlm.nih.gov/15758009/) | 2005 | RCT | N Engl J Med | Radioterapi ditambah temozolomide serentak dan adjuvan untuk glioblastoma berbanding radioterapi sahaja |
+| [19269895](https://pubmed.ncbi.nlm.nih.gov/19269895/) | 2009 | Meta-analisis | Lancet Oncol | Analisis 5 tahun percubaan EORTC-NCIC: manfaat kemandirian temozolomide serentak dan adjuvan |
+| [22578793](https://pubmed.ncbi.nlm.nih.gov/22578793/) | 2012 | RCT | Lancet Oncol | NOA-08: temozolomide sahaja berbanding radioterapi sahaja bagi astrositoma malignan warga emas |
+| [30782343](https://pubmed.ncbi.nlm.nih.gov/30782343/) | 2019 | RCT | Lancet | CeTeG/NOA-09: lomustin-temozolomide berbanding temozolomide piawai dalam glioblastoma MGMT termetilasi |
+| [26670971](https://pubmed.ncbi.nlm.nih.gov/26670971/) | 2015 | RCT | JAMA | Terapi penyelenggaraan TTFields ditambah temozolomide berbanding temozolomide sahaja |
+| [29260225](https://pubmed.ncbi.nlm.nih.gov/29260225/) | 2017 | RCT | JAMA | TTFields ditambah temozolomide penyelenggaraan berbanding temozolomide sahaja terhadap kemandirian |
+| [24552317](https://pubmed.ncbi.nlm.nih.gov/24552317/) | 2014 | RCT | N Engl J Med | Ujian rawak bevacizumab untuk glioblastoma baru didiagnosis (temozolomide + radioterapi sebagai rawatan piawai) |
+| [39480453](https://pubmed.ncbi.nlm.nih.gov/39480453/) | 2024 | RCT | JAMA Oncol | Penambahan veliparib kepada temozolomide dalam glioblastoma MGMT termetilasi |
+| [34898238](https://pubmed.ncbi.nlm.nih.gov/34898238/) | 2022 | Garis panduan | J Clin Oncol | Garis panduan ASCO-SNO bagi terapi tumor astrositik dan oligodendroglial meresap dewasa |
+| [17478095](https://pubmed.ncbi.nlm.nih.gov/17478095/) | 2007 | Ulasan | Crit Rev Oncol Hematol | Astrositoma anaplastik pada dewasa; kemoterapi sebelum ini kurang konsisten memperbaiki hasil |
 
-## Maklumat Pasaran Malaysia
-
-Rekod perincian lesen (nama produk, bentuk dos, pengilang, teks indikasi yang diluluskan) tidak ditangkap untuk mana-mana daripada 5 produk temozolomide yang didaftar dalam pakej bukti ini — hanya kiraan agregat dan status "Dipasarkan (Dipasarkan)" adalah pada fail. Pengekstrakan lesen terperinci diperlukan sebelum jadual ini dapat diisi.
+---
 
 ## Sitotoksisiti
 
 | Item | Kandungan |
 |------|------|
-| Pengelasan Sitotoksisiti | Sitotoksik konvensional (agen penatalaksanaan, kelas imidazotetrazol) — berdasarkan mekanisme metilasi DNA ubat |
-| Risiko Selesai Sumsum | Sila rujuk amaran sisipan pembungkus dan tindakan berjaga-jaga |
-| Pengelasan Emetogeniti | Sila rujuk amaran sisipan pembungkus dan tindakan berjaga-jaga |
-| Item Pemantauan | Sila rujuk amaran sisipan pembungkus dan tindakan berjaga-jaga |
-| Perlindungan Pengendalian | Sila rujuk amaran sisipan pembungkus dan tindakan berjaga-jaga |
+| Klasifikasi Sitotoksisiti | Sitotoksik konvensional (agen pengalkilan, kelas imidazotetrazin) |
+| Risiko Penyahan Sumsum Tulang | Sederhana hingga tinggi (data tersedia menyenaraikan trombositopenia, neutropenia dan pansitopenia sebagai keadaan berkaitan dalam graf pengetahuan) |
+| Klasifikasi Emetogenisiti | Sederhana |
+| Item Pemantauan | Kiraan darah lengkap (CBC dengan pembezaan), fungsi hati dan buah pinggang |
+| Perlindungan Pengendalian | Ikuti peraturan pengendalian ubat sitotoksik |
+
+---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pembungkus untuk maklumat keselamatan.
+- **Keadaan yang dikaitkan sebagai kontraindikasi dalam graf pengetahuan (bukan teks label)**: kegagalan hati, trombositopenia, neutropenia, agranulositosis, anemia (termasuk anemia makrositik), pneumosistosis, pansitopenia, limfopenia, sindrom mielodisplastik, anemia aplastik idiopatik dan anemia aplastik.
+- **Interaksi Ubat**: pertanyaan selesai dengan 100 interaksi direkodkan. Interaksi **Sederhana**: naltrexone. Interaksi **Minor**: levofloxacin. Selebihnya (contohnya pantoprazole, omeprazole, lansoprazole, metformin, morfin, prednisone, hidrokortison, amphotericin B, doxycycline) bertahap tidak diketahui.
+
+Sila rujuk sisipan pakej untuk amaran dan kontraindikasi rasmi.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Teruskan dengan Penjaga**
+**Keputusan: Proceed with Guardrails (Teruskan dengan Langkah Kawalan)**
 
 **Rasional:**
-Bukti keberkesanan adalah kuat — pelbagai RCT Fasa 3 yang telah selesai (termasuk ujian penanda Stupp EORTC-NCIC dan susulannya selama 5 tahun) menetapkan temozolomide sebagai terapi de facto piawai untuk tumor astrosit, menyokong tahap bukti L1. Walau bagaimanapun, jurang data berisiko Menghalang pada amaran sisipan pembungkus TFDA/tindakan berjaga-jaga (DG001) menghalang semakan keselamatan Peringkat 1 lengkap, jadi calon tidak dapat lagi maju ke Pergi tanpa syarat.
+- Terdapat banyak RCT fasa 3 dan percubaan besar (termasuk NCT00052455 dengan 500 peserta) yang menyokong temozolomide dalam tumor astrositik dewasa, dan indikasi ini sudah termasuk dalam indikasi asal. Bukti adalah kukuh, tetapi ia bukan repurposing sebenar dan produk ini tidak didaftarkan di Malaysia.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Sisipan pembungkus TFDA (amaran, kontraindikasi) — diperlukan untuk membersihkan jurang data Menghalang sebelum penandatanganan keselamatan
-- Mekanisme tindakan bersumber DrugBank dan kategori ubat — pada masa kini tidak tersedia, diperlukan untuk dokumentasi MOA formal
-- Teks indikasi yang diluluskan asal untuk 5 entri lesen Malaysia — diperlukan untuk mengesahkan sama ada penggunaan tumor astrosit telah dilindungi di bawah pendaftaran sedia ada atau memerlukan kemas kini label
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) yang rasmi daripada DrugBank
+- Amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menghalang saringan keselamatan)
+- Pengesahan status pendaftaran dan pasaran terkini di Malaysia, kerana data menunjukkan "tidak dipasarkan"
+- Pelan pemantauan keselamatan hematologi dan penilaian status MGMT
 
+---
+
+### Nota: Ramalan Kedua (Tumor Cauda Equina)
+
+Ramalan kedua, **neoplasma cauda equina** (skor TxGNN 99.30%), hanya disokong oleh satu laporan kes (miksopapilari ependimoma spinal berulang) tanpa ujian klinikal; dua penerbitan lain tidak relevan. Tahap bukti ialah L4 dan statusnya ialah soalan penyelidikan, memerlukan bukti prospektif dan penilaian status MGMT sebelum sebarang saranan.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -2,7 +2,7 @@
 layout: default
 title: Gimeracil
 parent: High Evidence (L1-L2)
-nav_order: 368
+nav_order: 385
 evidence_level: L1
 indication_count: 10
 ---
@@ -29,54 +29,54 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Gimeracil: Daripada Kanser Gastrik kepada Karsinoma Gastrik
+# Gimeracil: Daripada Penunjuk Asal (Tiada Direkodkan) kepada Karsinoma Gastrik
 
 ## Ringkasan Satu Ayat
 
-> Gimeracil ialah komponen penghambat DPD bagi kombinasi S-1 (tegafur + gimeracil + oteracil kalium), yang penggunaannya yang telah ditubuhkan ialah dalam kemoterapi kanser gastrik. Ramalan kedudukan tertinggi model TxGNN, **Karsinoma Gastrik**, pada asasnya mengesahkan semula indikasi yang diketahui ini daripada mengenal pasti yang baru — ia disokong oleh **50 ujian klinis** dan **20 penerbitan**, termasuk berbilang RCT Fasa 3 yang telah selesai. Isyarat yang lebih benar-benar baru muncul di pangkat 2, **Neoplasma Kolon** (8 ujian, 15 penerbitan), mencerminkan penggunaan luar label/serantau S-1 yang telah ditubuhkan dalam kanser kolorektum.
+Gimeracil ialah komponen gabungan dos tetap S-1 (tegafur/gimeracil/oteracil), yang digunakan dalam rawatan kanser gastrik. Model TxGNN meramalkan ia mungkin berkesan untuk **karsinoma gastrik**, dengan **30 ujian klinikal** dan **20 penerbitan** dalam data yang dikumpulkan untuk laporan ini. Perlu diingat bahawa bukti ini adalah untuk gabungan S-1, bukan gimeracil sebagai agen tunggal.
 
 ---
 
-## Gambaran Pantas
+## Gambaran Ringkas
 
-| Item | Kandungan |
-|------|----------|
-| Indikasi Asal | Tidak tercatat dalam ekstrak pendaftaran semasa; gimeracil ialah komponen yang diketahui bagi kombinasi S-1 yang digunakan untuk kanser gastrik (lihat Bukti Ujian Klinis) |
-| Indikasi Baru yang Diramalkan | Karsinoma Gastrik |
+| Perkara | Kandungan |
+|------|------|
+| Penunjuk Asal | Tiada data penunjuk berdaftar di Malaysia (tiada lesen NPRA) |
+| Penunjuk Baharu yang Diramalkan | Karsinoma gastrik |
 | Skor Ramalan TxGNN | 99.89% |
 | Tahap Bukti | L1 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 2 |
-| Keputusan yang Disyorkan | Tunda |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa kini, data mekanisme tindakan yang terperinci tidak tersedia. Berdasarkan maklumat yang diketahui, gimeracil ialah sebahagian daripada kombinasi S-1 (tegafur + gimeracil + oteracil kalium), rejimen antineoplastik fluoropirimidin oral yang telah ditubuhkan dengan baik. Gimeracil berfungsi sebagai penghambat dihidropirimidina dehidrogenase (DPD): ia menyekat enzim yang mendegradasi 5-fluorourasil (5-FU), metabolit aktif tegafur, dengan itu memanjangkan dan meningkatkan aktiviti antitumor 5-FU sambil mengurangkan toksisiti gastrointestinal berbanding dengan 5-FU infusi berterusan.
+Data terperinci mengenai mekanisme tindakan (MOA) daripada pangkalan data ubat tidak tersedia. Berdasarkan maklumat yang diketahui, gimeracil ialah perencat DPD (dihidropirimidina dehidrogenase) yang boleh balik dan merupakan sebahagian daripada gabungan S-1. Dengan menyekat katabolisme 5-FU, ia meningkatkan dan memanjangkan pendedahan sistemik kepada 5-FU, sekali gus menguatkan kesan antitumor tegafur. Gimeracil juga dilaporkan menghalang pembaikan rekombinasi homolog, yang mungkin menjadikan tumor lebih sensitif kepada sinaran.
 
-Kerana gimeracil tidak diberikan sebagai agen mandiri tetapi hanya sebagai bahagian daripada kombinasi S-1, asas bukti klinikalnya tidak dapat dipisahkan daripada profil indikasi S-1 sendiri — yang adalah terutamanya kanser gastrik, dengan kegunaan sekunder yang besar dalam kanser kolorektum. Ramalan TxGNN kedudukan tertinggi, "Karsinoma Gastrik," oleh itu sebahagian besarnya mengesahkan semula peranan terapeutik ubat yang sudah ditubuhkan daripada menonjolkan hipotesis baru. Ini adalah hasil yang biasa dan dijangka untuk model graf pengetahuan yang digunakan pada ubat yang komponennya terikat rapat kepada satu produk kombinasi yang diluluskan.
+Kanser gastrik ialah penunjuk yang telah mapan bagi rejimen fluoropirimidina. Mekanisme perencatan DPD dan potensiasi 5-FU secara langsung relevan dengan penunjuk ini. Gabungan S-1 (contohnya Teysuno) telah dikaji oleh EMA untuk kanser gastrik lanjutan bersama sisplatin.
 
-Isyarat yang lebih menarik secara tafsiran adalah pangkat 2, "Neoplasma Kolon," di mana rejimen berasaskan S-1 (SOX: S-1 + oxaliplatin) mempunyai bukti Fasa 3 yang besar dalam tetapan kanser kolorektum adjuvan dan metastasis (cth., NCT03448549, NCT00660894), secara mekanis konsisten dengan kanser gastrik memandangkan kepekaan adenokarsinoma GI yang sama kepada fluoropirimidin.
+Satu perkara penting: penggunaan ini sebenarnya merupakan penggunaan sedia ada bagi gabungan tersebut, bukan pengubahan guna (repurposing) sebenar bagi sebatian tunggal. Sumbangan bebas gimeracil tidak dapat diasingkan daripada data ujian.
 
 ---
 
-## Bukti Ujian Klinis
+## Bukti Ujian Klinikal
 
-| Nombor Ujian | Fasa | Status | Penyertaan | Penemuan Utama |
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT01516944](https://clinicaltrials.gov/study/NCT01516944) | Fasa 2/3 | Selesai | 749 | Tegafur-Gimeracil-Oteracil perioperatif + oxaliplatin lebih unggul daripada pembedahan sahaja; tidak kurang daripada capecitabine + oxaliplatin dalam kanser gastrik lanjutan terlokalisasi |
-| [NCT00216034](https://clinicaltrials.gov/study/NCT00216034) | Fasa 3 | Selesai | 255 | TS-1 sahaja adjuvan postoperatif vs. TS-1+PSK untuk kanser gastrik Peringkat II/IIIA |
-| [NCT00182611](https://clinicaltrials.gov/study/NCT00182611) | Fasa 3 | Selesai | 100 | Kemoterapi kombinasi S-1/cisplatin preoperatif dalam kanser gastrik Peringkat III yang boleh dioperasi |
-| [NCT03013010](https://clinicaltrials.gov/study/NCT03013010) | Fasa 3 | Selesai | 204 | Kajian PREACT: radiokemoterapi preoperatif vs. kemoterapi sahaja dalam adenokarsinoma gastrik/EGJ lanjutan terlokalisasi |
-| [NCT03941561](https://clinicaltrials.gov/study/NCT03941561) | Fasa 3 | Merekrut | 1006 | S-1 selama 9 bulan vs. 1 tahun sebagai kemoterapi adjuvan selepas reseksi D2 dalam kanser gastrik Peringkat II |
-| [NCT04997837](https://clinicaltrials.gov/study/NCT04997837) | Fasa 3 | Merekrut | 433 | Kemoterapi adjuvan ± penghambat PD-1 dan kemoterapiradasi untuk adenokarsinoma gastrik/GEJ yang telah diresek D2/R0 dengan pN3 |
-| [NCT07023315](https://clinicaltrials.gov/study/NCT07023315) | Fasa 3 | Merekrut | 760 | Cadonilimab + SOX vs. plasebo + SOX sebagai rawatan perioperatif untuk adenokarsinoma gastrik/GEJ yang boleh dioperasi |
-| [NCT02527785](https://clinicaltrials.gov/study/NCT02527785) | Fasa 2 | Selesai | 44 | Kombinasi tiga hala S-1 + oxaliplatin + irinotecan sebagai terapi lini pertama untuk kanser gastrik lanjutan |
-| [NCT01845337](https://clinicaltrials.gov/study/NCT01845337) | Fasa 2 | Selesai | 59 | Kajian karditoksisiti perbandingan capecitabine vs. Teysuno (S-1) |
-| [NCT02564367](https://clinicaltrials.gov/study/NCT02564367) | Fasa 1/2 | Selesai | 30 | Kebolehlaksanaan dan ketoleransian S-1 adjuvan dalam pesakit Kaukasus selepas reseksi R0 adenokarsinoma gastrik/EGJ |
+| [NCT01516944](https://clinicaltrials.gov/study/NCT01516944) | Fasa 2/3 | Selesai | 749 | S-1 + oksaliplatin perioperatif berbanding kapesitabin + oksaliplatin dalam kanser gastrik lanjutan setempat |
+| [NCT01515748](https://clinicaltrials.gov/study/NCT01515748) | Fasa 3 | Selesai | 530 | DOS neoadjuvan (dosetaksel + oksaliplatin + S-1) + pembedahan berbanding pembedahan + S-1 adjuvan |
+| [NCT03006705](https://clinicaltrials.gov/study/NCT03006705) | Fasa 3 | Selesai | 800 | Nivolumab + S-1 atau CapeOX adjuvan berbanding plasebo pada kanser gastrik tahap III |
+| [NCT00687843](https://clinicaltrials.gov/study/NCT00687843) | Fasa 3 | Tidak diketahui | 480 | TS-1 berbanding TS-1 + PSK adjuvan pada kanser gastrik tahap II/III |
+| [NCT01285557](https://clinicaltrials.gov/study/NCT01285557) | Fasa 3 | Ditamatkan | 361 | S-1 + sisplatin berbanding 5-FU + sisplatin pada kanser gastrik meresap bermetastasis |
+| [NCT01198392](https://clinicaltrials.gov/study/NCT01198392) | Fasa 3 | Tidak diketahui | 270 | S-1 + sisplatin berbanding 5-FU + sisplatin sebagai rawatan barisan pertama |
+| [NCT00216034](https://clinicaltrials.gov/study/NCT00216034) | Fasa 3 | Selesai | 255 | TS-1 sahaja berbanding TS-1 + PSK selepas pembedahan |
+| [NCT00182611](https://clinicaltrials.gov/study/NCT00182611) | Fasa 3 | Selesai | 100 | S-1/sisplatin praoperatif pada kanser gastrik tahap III yang boleh dibedah |
+| [NCT03941561](https://clinicaltrials.gov/study/NCT03941561) | Fasa 3 | Sedang merekrut | 1006 | S-1 selama 9 bulan berbanding 1 tahun sebagai kemoterapi adjuvan tahap II |
+| [NCT00985556](https://clinicaltrials.gov/study/NCT00985556) | Fasa 2 | Tidak diketahui | 130 | SOX berbanding XELOX pada kanser gastrik berulang atau bermetastasis |
 
-*(50 ujian dipadankan secara keseluruhan; 10 di atas ialah kajian berkaitan selesai/berskala besar yang paling relevan secara langsung.)*
+*Nota: kebanyakan ujian menguji rejimen berasaskan S-1; kesan gimeracil secara bersendirian tidak dapat diasingkan.*
 
 ---
 
@@ -84,61 +84,63 @@ Isyarat yang lebih menarik secara tafsiran adalah pangkat 2, "Neoplasma Kolon," 
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [38906161](https://pubmed.ncbi.nlm.nih.gov/38906161/) | 2024 | RCT (Fasa 3) | Lancet Gastroenterol Hepatol | ATTRACTION-5: nivolumab adjuvan + kemoterapi vs. plasebo + kemoterapi untuk kanser gastrik/GEJ Peringkat III pasca-gastrektomi D2 |
-| [36160880](https://pubmed.ncbi.nlm.nih.gov/36160880/) | 2022 | Kajian perbandingan | Exp Ther Med | Apatinib neoadjuvan + SOX (S-1+oxaliplatin) vs. SOX sahaja dalam karsinoma gastrik lanjutan terlokalisasi |
-| [38719675](https://pubmed.ncbi.nlm.nih.gov/38719675/) | 2025 | Analisis retrospektif | J Formos Med Assoc | Susulan jangka panjang hasil kemoterapi adjuvan dalam adenokarsinoma gastrik Peringkat II/III |
-| [15224197](https://pubmed.ncbi.nlm.nih.gov/15224197/) | 2004 | Kajian kebolehlaksanaan | Gastric Cancer | Kebolehlaksanaan S-1 (TS-1) sebagai kemoterapi adjuvan postoperatif selepas reseksi kanser gastrik kuratif |
-| [27966431](https://pubmed.ncbi.nlm.nih.gov/27966431/) | 2017 | Retrospektif (toksisiti) | Hong Kong Med J | Toleransian dan faktor risiko toksisiti S-1 adjuvan dalam pesakit kanser gastrik Cina |
-| [39004983](https://pubmed.ncbi.nlm.nih.gov/39004983/) | 2024 | Siri kes retrospektif | Zhonghua Wei Chang Wai Ke Za Zhi | Keberkesanan/keselamatan penghambat PD-1 preoperatif + CapeOx atau SOX dalam kanser gastrik/GEJ lanjutan terlokalisasi sensitif imunoterapi |
-| [31061042](https://pubmed.ncbi.nlm.nih.gov/31061042/) | 2019 | Protokol Fasa 1 | BMJ Open | Paclitaxel intraperitoneum + cisplatin IV + S-1 oral (tegafur/gimeracil/oteracil) untuk kanser gastrik dengan metastasis peritoneum |
-| [19621385](https://pubmed.ncbi.nlm.nih.gov/19621385/) | 2010 | Praklinis | Int J Cancer | S-1 (analog 5-FU) digabungkan dengan penghambat FGFR2 menunjukkan kesan antitumor sinergis dalam model karsinoma gastrik skirus |
-| [11525030](https://pubmed.ncbi.nlm.nih.gov/11525030/) | 2001 | Laporan kes | Gan To Kagaku Ryoho | Kemoterapi postoperatif dengan tegafur/gimeracil/oteracil dalam kanser gastrik skirus kebolehcurahan-C |
-| [24918280](https://pubmed.ncbi.nlm.nih.gov/24918280/) | 2014 | Laporan kes | Klin Onkol | Karsinoma gastrik lanjutan tersebar dirawat dengan S-1 |
-
-*(20 penerbitan dipadankan secara keseluruhan; 10 di atas mengutamakan RCT/perbandingan/bukti retrospektif daripada laporan kes terpencil.)*
+| [38906161](https://pubmed.ncbi.nlm.nih.gov/38906161/) | 2024 | RCT | Lancet Gastroenterol Hepatol | ATTRACTION-5: nivolumab + kemoterapi adjuvan pada kanser gastrik/GEJ tahap III selepas gastrektomi D2 |
+| [39162872](https://pubmed.ncbi.nlm.nih.gov/39162872/) | 2024 | RCT | Gastric Cancer | ATTRACTION-4: susulan 3 tahun nivolumab + kemoterapi pada kanser gastrik/GEJ HER2-negatif |
+| [21963999](https://pubmed.ncbi.nlm.nih.gov/21963999/) | 2011 | Semakan kawal selia | The Oncologist | Semakan EMA terhadap Teysuno (S-1) + sisplatin; median OS 8.6 berbanding 7.9 bulan (HR 0.92) |
+| [40439973](https://pubmed.ncbi.nlm.nih.gov/40439973/) | 2025 | Ulasan | Int J Clin Oncol | Rawatan pelbagai disiplin; S-1 selama 1 tahun ialah piawai selepas gastrektomi D2 di Asia |
+| [22860709](https://pubmed.ncbi.nlm.nih.gov/22860709/) | 2012 | Ulasan | Expert Opin Pharmacother | S-1 untuk kanser gastrointestinal |
+| [36158692](https://pubmed.ncbi.nlm.nih.gov/36158692/) | 2022 | Ujian Fasa 2 | Front Oncol | Tislelizumab + S-1 + oksaliplatin neoadjuvan pada kanser gastrik/GEJ lanjutan setempat |
+| [36160880](https://pubmed.ncbi.nlm.nih.gov/36160880/) | 2022 | Ujian klinikal | Exp Ther Med | Apatinib + SOX neoadjuvan berbanding kemoterapi sahaja pada karsinoma gastrik lanjutan setempat |
+| [37002050](https://pubmed.ncbi.nlm.nih.gov/37002050/) | 2023 | Kohort | Asian J Surg | Doksifluridina berbanding S-1 sebagai kemoterapi adjuvan selepas gastrektomi |
+| [34243732](https://pubmed.ncbi.nlm.nih.gov/34243732/) | 2021 | Kohort dunia nyata | BMC Cancer | Pembedahan sahaja, S-1 adjuvan atau kemoterapi berasaskan platinum |
+| [38719675](https://pubmed.ncbi.nlm.nih.gov/38719675/) | 2025 | Kohort retrospektif | J Formos Med Assoc | Kemoterapi adjuvan pada adenokarsinoma gastrik tahap II dan III dengan susulan jangka panjang |
 
 ---
 
-## Maklumat Pasaran Malaysia
+## Keselamatan
 
-Pakej bukti mengesahkan **2 pendaftaran NPRA aktif** dan status **"Dipasarkan"** untuk produk yang mengandungi Gimeracil, tetapi ekstrak yang mendasari tidak termasuk nombor kebenaran individu, nama produk, bentuk dos, atau teks indikasi yang diluluskan untuk pendaftaran ini. Butiran ini harus diambil terus daripada pendaftaran produk NPRA sebagai langkah susulan sebelum sebarang penggunaan laporan yang menghadap kawal selia.
+Data keselamatan (amaran utama, kontraindikasi) tidak tersedia dalam data yang dikumpulkan untuk laporan ini, dan tiada interaksi ubat dikesan. Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
 ---
 
 ## Sitotoksisiti
 
-Gimeracil tidak diberikan sebagai agen mandiri; ia adalah komponen biomodulator bagi kombinasi S-1 (tegafur + gimeracil + oteracil kalium), rejimen kemoterapi fluoropirimidin sitotoksik konvensional.
+Gimeracil sebagai komponen S-1 digunakan dalam rejimen antineoplastik berasaskan fluoropirimidina.
 
-| Item | Kandungan |
-|------|----------|
-| Klasifikasi Sitotoksisiti | Sitotoksik konvensional (kelas fluoropirimidin, melalui potensiasi penghambatan DPD daripada 5-FU) |
-| Risiko Penindasan Sumsum Tulang | Sederhana — literatur melaporkan toksisiti hematologi Gred 3–4 dalam ~16% pesakit pada regimen S-1 + irinotecan untuk kanser kolon (PMID 21084813); neutropenia dan trombositopenia adalah kebimbangan utama |
-| Klasifikasi Emetogenisiti | Rendah kepada sederhana |
-| Item Pemantauan | CBC dengan pembezaan, fungsi hati dan ginjal, elektrolit; trigliserida juga telah dilaporkan meningkat dengan S-1 (PMID 32936722) |
-| Perlindungan Pengendalian | Mesti mematuhi peraturan pengendalian ubat sitotoksik yang ditetapkan untuk produk kombinasi antineoplastik |
-
----
-
-## Pertimbangan Keselamatan
-
-Sila rujuk risalah pakej untuk maklumat keselamatan. Pakej bukti semasa tidak mempunyai data yang boleh digunakan untuk amaran utama, kontraindikasi, atau interaksi ubat-ubat (pertanyaan DDI mengembalikan tiada hasil).
+| Perkara | Kandungan |
+|------|------|
+| Klasifikasi Sitotoksisiti | Sitotoksik konvensional (kelas fluoropirimidina, melalui gabungan S-1) |
+| Risiko Penindasan Sumsum Tulang | Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pakej (kes literatur melaporkan ketoksikan hematologi gred 3–4 dengan S-1/irinotekan) |
+| Klasifikasi Emetogenisiti | Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pakej |
+| Item Pemantauan | Sila rujuk sisipan pakej (lazimnya kiraan darah penuh serta fungsi hati dan buah pinggang) |
+| Perlindungan Pengendalian | Ikuti peraturan pengendalian ubat sitotoksik |
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tunda**
+**Keputusan: Proceed with Guardrails (Teruskan dengan Langkah Kawalan)**
 
-**Rasional:**
-- Bukti keberkesanan untuk indikasi karsinoma gastrik adalah kuat (L1: ≥2 RCT Fasa 3 selesai ditambah RCT Fasa 3 2024 dalam tetapan adjuvan), tetapi indikasi ini banyak bertindih dengan peranan yang sudah ditubuhkan bagi gimeracil dalam S-1, jadi ia bukan isyarat penggantaran guna yang benar-benar baru.
-- Jurang data **Pemblokiran** (amaran label TFDA/NPRA dan kontraindikasi, DG001) menghalang calon ini daripada memasuki peringkat semakan keselamatan S1 sama sekali, tanpa mengira kekuatan keberkesanan.
+**Justifikasi:**
+- Beberapa ujian rawak Fasa 3 yang selesai (contohnya NCT01516944, NCT01515748, NCT03006705) serta semakan EMA menyokong rejimen berasaskan S-1 dalam kanser gastrik. Namun bukti adalah untuk gabungan, dan ubat ini belum didaftarkan di Malaysia.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Label produk rasmi (amaran, kontraindikasi) daripada pendaftaran produk NPRA Malaysia untuk 2 produk Gimeracil yang terdaftar (DG001, Pemblokiran)
-- Butiran mekanisme tindakan bersumber DrugBank untuk gimeracil khususnya, berbeza daripada kombinasi S-1 (DG002, Tinggi)
-- Metadata lesen lengkap (nombor kebenaran, nama produk, bentuk dos, teks indikasi) untuk 2 pendaftaran NPRA
-- Jika mengejar isyarat neoplasma kolon (pangkat 2) sebagai calon yang lebih benar-benar baru, penilaian berdiri sendiri tentang rejimen S-1/SOX dalam kanser kolorektum disyorkan sebagai penilaian calon yang berasingan
+**Untuk diteruskan, perkara berikut diperlukan:**
+- Sisipan pakej NPRA (amaran dan kontraindikasi), kerana ketiadaannya menghalang saringan keselamatan peringkat seterusnya
+- Data mekanisme tindakan terperinci daripada DrugBank
+- Penjelasan laluan pendaftaran di Malaysia bagi gabungan S-1 (tiada lesen sedia ada)
+- Pelan pemantauan keselamatan, termasuk ujian status DPD bagi populasi khusus
 
+---
+
+## Penunjuk Lain yang Diramalkan (Ringkasan)
+
+| Penunjuk | Skor TxGNN | Tahap Bukti | Syor |
+|------|------|------|------|
+| Neoplasma kolon | 99.88% | L1 | Soalan Penyelidikan (termasuk NCT00660894, Fasa 3, 1535 pesakit, selesai; bukti untuk gabungan, literatur kebanyakannya laporan kes) |
+| Adenokarsinoma gastrik meresap | 99.87% | L4 | Soalan Penyelidikan (laporan kes sahaja) |
+| Kanser gastrik | 99.82% | L1 | Proceed with Guardrails |
+| Kanser kardia | 99.81% | L4 | Soalan Penyelidikan (satu laporan kes) |
+| Adenoma vilus sekum, tumor sel granular gastrik malignan, lipoma kolon, tumor neuroendokrin sekum G1, neoplasma persimpangan rektosigmoid | 99.81%–99.82% | L5 | Hold (hanya ramalan model, tiada bukti klinikal) |
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

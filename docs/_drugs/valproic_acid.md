@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Valproic Acid
-parent: High Evidence (L1-L2)
-nav_order: 682
-evidence_level: L2
+parent: Low Evidence (L4-L5)
+nav_order: 717
+evidence_level: L5
 indication_count: 10
 ---
 
 # Valproic Acid
 {: .fs-9 }
 
-Tahap bukti: **L2** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,109 +29,95 @@ Tahap bukti: **L2** | Indikasi diramal: **10**
 
 </div>
 
-# Asid Valproit: Dari Epilepsi kepada Epilepsi Visual
+# Asid Valproik: Daripada Epilepsi kepada Neoplasma Saraf Trigeminal
 
 ## Ringkasan Satu Ayat
 
-Asid valproit adalah ubat antiepilepsi (AED) dengan spektrum luas yang telah dipasarkan di Malaysia dengan 3 pendaftaran NPRA yang aktif. Pak bukti ini menskrining **10 indikasi yang diramalkan oleh TxGNN** untuk ubat ini, dan calon yang mendapat sokongan bukti paling kuat ialah **Epilepsi Visual** (sawan berindukkan cahaya/rangsangan visual yang refleks), disokong oleh **4 ujian klinik** dan **20 publikasi** — walaupun kebanyakan sastera ini mendokumentasikan farmakoloji antiepilepsi asid valproit yang umum daripada ujian yang khusus untuk subtip refleks ini.
+Asid valproik ialah ubat antiepilepsi spektrum luas yang pada asalnya digunakan untuk epilepsi, gangguan bipolar mania dan epilepsi absens.
+Model TxGNN meramalkan ia mungkin berkesan untuk **neoplasma saraf trigeminal**,
+tetapi setakat ini terdapat **0 percubaan klinikal** dan hanya **1 penerbitan** yang berkaitan (siri kes sindrom Sturge-Weber yang tidak menyokong ramalan ini secara langsung).
 
 ---
 
-## Gambaran Pantas
+## Gambaran Keseluruhan Pantas
 
-| Item | Kandungan |
-|------|----------|
-| Indikasi Asal | Epilepsi / gangguan sawan (disimpulkan daripada kesusasteraan dalam pak bukti ini; teks indikasi lesen NPRA tidak dirampas — lihat Jurang Data Keselamatan) |
-| Indikasi Baru yang Diramalkan | Epilepsi visual (fotosensitif / sawan berindukkan rangsangan visual refleks) |
-| Skor Ramalan TxGNN | 99.88% |
-| Aras Bukti | L2 |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 3 |
-| Cadangan Keputusan | Teruskan dengan Penjaga |
-
-*Nota: Ini ialah pak bukti pelbagai calon. Pukulan tertinggi tunggal TxGNN (pangkat 1, "neoplasma saraf trigeminous," skor 99.97%) ditandai oleh rasional pak sendiri sebagai bunyi graf pengetahuan yang mungkin (tiada ujian, satu siri kes yang tidak berkaitan, cadangan: Pegang) dan oleh itu tidak digunakan sebagai calon tajuk utama. Lihat "Indikasi Lain yang Diramalkan Diskrening" di bawah untuk gambaran lengkap.*
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Epilepsi, mania dalam gangguan afektif bipolar, epilepsi absens (daripada graf pengetahuan TxGNN/PrimeKG; tiada teks indikasi berlesen tersedia) |
+| Indikasi Baharu yang Diramalkan | Neoplasma saraf trigeminal |
+| Skor Ramalan TxGNN | 99.97% |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Tidak dipasarkan (menurut data yang dikompilasi; perlu disahkan) |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
-## Mengapa Ramalan Ini Wajar?
+## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan DrugBank terperinci untuk asid valproit tidak tersedia dalam pak bukti ini (jurang data DG002). Namun, kesusasteraan yang dikumpulkan secara konsisten menggambarkan asid valproit sebagai AED spektrum luas yang menyekat saluran natrium bergating voltan dan meningkatkan kepekatan GABA dalam otak, meningkatkan ambang sawan merentasi pelbagai jenis sawan (PMID 30592252).
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, asid valproik ialah ubat antiepilepsi yang keberkesanannya dalam epilepsi telah dibuktikan. Secara umum, ia meningkatkan neurotransmisi GABA, menyekat saluran natrium dan kalsium jenis-T, serta memodulasi HDAC. Perencatan HDAC ialah hipotesis antineoplastik am, tetapi tiada data dalam laporan ini yang menguji hipotesis tersebut untuk tumor di lokasi ini.
 
-Epilepsi visual — sawan yang dipicu oleh rangsangan cahaya atau visual — adalah **subtip refleks epilepsi**, kategori penyakit yang sama di mana asid valproit telah mempunyai penggunaan klinik yang mapan selama beberapa dekad. Secara mekanik, ini bukan "baru" untuk menyasarkan repurposing daripada lanjutan ke fenotip epilepsi khusus: tindakan antikejang sedia ada ubat ini boleh dipercayai untuk digeneralisasikan kepada pencetus fotosensitif/refleks, dan beberapa ujian yang dikenalpasti dan laporan kes (cth., hipereka/tindak balas letak belas kepada VPA, PMID 2496695) menyokong keberkesanan antikejang dalam sindrom sawan berindukkan refleks yang lebih luas.
+Hubungan antara indikasi asal (epilepsi) dengan indikasi baharu (tumor saraf trigeminal) lemah. Satu-satunya penerbitan yang dipautkan ialah siri kes 1997 mengenai sindrom Sturge-Weber, iaitu gangguan neurokutaneus dengan sawan, bukan tumor saraf trigeminal. Dalam kajian itu asid valproik hanya digunakan untuk mengawal sawan.
 
-Walau bagaimanapun, tiada satu pun daripada 4 ujian klinik yang dikenalpasti secara langsung memasuki atau menguji asid valproit secara khusus untuk epilepsi visual/cahaya — mereka merangkumi ambliopia residual (indikasi berbeza), pencegahan epilepsi pasca-TBI, ubat berbeza (ropinirole) dalam epilepsi mioklonik, dan kesan AED dalam kehamilan. Sastera juga terdiri sebagian besar daripada ulasan farmakoloji epilepsi/VPA umum daripada kajian khusus epilepsi fotosensitif. Penarafan bukti L2 oleh itu harus dibaca sebagai "disokong dengan baik dalam indikasi induk (epilepsi)" daripada "disahkan secara langsung untuk subtip refleks spesifik ini."
-
----
-
-## Bukti Ujian Klinik
-
-| Nombor Ujian | Fasa | Status | Kemasukan | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT07226141](https://clinicaltrials.gov/study/NCT07226141) | Fasa 1/2 | Belum lagi merekrut | 28 | Valproat sebagai terapi tambahan untuk ambliopia residual pada kanak-kanak 8–17; menguji plastisiti sistem visual, bukan epilepsi visual secara langsung (gred kaitan C) |
-| [NCT02027987](https://clinicaltrials.gov/study/NCT02027987) | Fasa 1 | Tidak diketahui | 160 | VPA untuk neuroperlindungan dan pencegahan epilepsi awal selepas kecederaan kepala traumatik yang teruk (gred kaitan B) |
-| [NCT00639119](https://clinicaltrials.gov/study/NCT00639119) | Fasa 2 | Tidak diketahui | 16 | Ropinirole (bukan valproat) dalam epilepsi mioklonik progresif, jenis Unverricht-Lundborg; VPA disebut sebagai standard penjagaan semasa (gred kaitan C) |
-| [NCT00021866](https://clinicaltrials.gov/study/NCT00021866) | T.A. | Selesai | 331 | Kajian NEAD: kesan neuro-perkembangan AED (termasuk VPA) yang diambil semasa kehamilan; tertumpu pada hasil keturunan, bukan keberkesanan jenis sawan (gred kaitan B) |
+Skor TxGNN yang tinggi kemungkinan besar mencerminkan kedekatan dalam graf dengan nod epilepsi dan neuro-onkologi, bukan bukti klinikal. Oleh itu ramalan ini perlu dianggap sebagai hipotesis yang belum disokong.
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Percubaan Klinikal
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
+
+---
+
+## Bukti Literatur
+
+| PMID | Tahun | Jenis | Jurnal | Dapatan Utama |
 |------|-----|------|------|---------|
-| [30592252](https://pubmed.ncbi.nlm.nih.gov/30592252/) | 2019 | Ulasan | Current Neuropharmacology | Ulasan komprehensif mekanisme molekul VPA (penyekatan saluran Na⁺, kemudahan GABA) yang mendasari aktiviti antiepilepsinya yang spektrum luas |
-| [30734897](https://pubmed.ncbi.nlm.nih.gov/30734897/) | 2019 | Ulasan/Garis Panduan | Paediatric Drugs | Panduan praktikal untuk epilepsi ketiadaan kanak-kanak; VPA disenaraikan sebagai alternatif berkesan kepada etosuksimid |
-| [34260837](https://pubmed.ncbi.nlm.nih.gov/34260837/) | 2021 | Garis Panduan | NEJM | Garis panduan pengurusan awal sawan pada dewasa |
-| [26715390](https://pubmed.ncbi.nlm.nih.gov/26715390/) | 2016 | Kajian Farmakokinetik | CNS Drugs | Asid valproat infusi berterusan IV dinilai pada pesakit yang dirawat di hospital dengan migrain dan sawan |
-| [24798217](https://pubmed.ncbi.nlm.nih.gov/24798217/) | 2014 | Ulasan | Expert Opin Pharmacother | Ulasan farmakoterapi untuk sawan tonik-klonik umum, termasuk peranan VPA |
-| [37037506](https://pubmed.ncbi.nlm.nih.gov/37037506/) | 2023 | Ulasan | Brain and Nerve | Ulasan garis panduan rawatan epilepsi semasa (Jepun/NICE), merangkumi kedudukan VPA di kalangan ASM |
-| [6275228](https://pubmed.ncbi.nlm.nih.gov/6275228/) | 1981 | Ulasan Praklinikal/Klinik | Life Sciences | Kajian awal tindakan pusat VPA pada manusia dan model epilepsi eksperimental |
-| [39786974](https://pubmed.ncbi.nlm.nih.gov/39786974/) | 2025 | Ulasan | Future Oncology | VPA dan levetirasatam sebagai agen antiseizure dalam epilepsi berkaitan tumor otak (glioma), dengan kemungkinan kesan antineoplastik |
-| [26985579](https://pubmed.ncbi.nlm.nih.gov/26985579/) | 2016 | Ulasan | CNS Oncology | Memeriksa sama ada VPA mempengaruhi pertumbuhan tumor dan kemandirian dalam glioblastoma |
-| [1808081](https://pubmed.ncbi.nlm.nih.gov/1808081/) | 1991 | Ulasan | Indian Pediatrics | Gambaran umum farmakoloji asid valproat dan penggunaan klinik |
-
-*Tidak satu pun daripada yang di atas secara langsung mengkaji epilepsi fotik/berindukkan rangsangan visual (refleks); semuanya ialah farmakoloji VPA/epilepsi umum atau kesusasteraan garis panduan.*
-
----
-
-## Indikasi Lain yang Diramalkan Diskrening (Pak Bukti Yang Sama)
-
-Untuk ketelusan, pak bukti ini menjaringkan 10 indikasi yang diramalkan oleh TxGNN untuk asid valproit. Hanya epilepsi visual (di atas) mencapai aras bukti perantaraan/peringkat keputusan; selebihnya adalah sama ada soalan penyelidikan peringkat awal atau tidak disokong.
-
-| Pangkat | Indikasi yang Diramalkan | Skor TxGNN | Aras Bukti | Cadangan |
-|------|----------------------|-------------|-----------------|-----------------|
-| 1 | Neoplasma saraf trigeminous | 99.97% | L5 | Pegang (bunyi graf pengetahuan yang mungkin) |
-| 2 | Epilepsi visual | 99.88% | L2 | Soalan Penyelidikan (calon tajuk utama di atas) |
-| 3 | Neuralgia trigeminous | 99.83% | L3 | Soalan Penyelidikan (hanya kajian terbuka label 1980-an sahaja) |
-| 4 | Epilepsi letak belas | 99.81% | L3 | Soalan Penyelidikan |
-| 5 | Sawan berindukkan orgasma | 99.81% | L5 | Pegang (tiada kesusasteraan/ujian) |
-| 6 | Sawan berindukkan kencing | 99.81% | L5 | Pegang |
-| 7 | Sawan berindukkan audio | 99.81% | L4 | Soalan Penyelidikan (bukti model haiwan sahaja) |
-| 8 | Sawan makan | 99.81% | L4 | Soalan Penyelidikan (laporan kes sahaja) |
-| 9 | Sawan berfikir | 99.81% | L5 | Pegang (tiada bukti subtip spesifik) |
-| 10 | Sawan membaca | 99.79% | L3 | Soalan Penyelidikan (bukti aras kes sahaja) |
+| [9157801](https://pubmed.ncbi.nlm.nih.gov/9157801/) | 1997 | Siri kes | Anales espanoles de pediatria | Kajian semula 14 kes sindrom Sturge-Weber selama 25 tahun (ciri klinikal, perkembangan dan respons terapeutik); bukan tumor saraf trigeminal |
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisisipan pakej untuk maklumat keselamatan. (Amaran bertanda TFDA/NPRA dan kontraindikasi tidak dirampas dalam pak bukti ini — jurang data DG001; tiada rekod interaksi ubat-ubat ditemui — status pertanyaan: tidak ditemui.)
+- **Penyakit yang dikaitkan dengan kontraindikasi (graf pengetahuan TxGNN, bukan teks label):** gangguan kebimbangan, gangguan neurotik, gangguan distimik, kekurangan karbamoil fosfat sintetase I, porfiria (termasuk porfiria warisan dan gangguan metabolisme porfirin), penyakit buah pinggang, piouretur, hiperarginina-emia, sitrulinemia, penyakit hematologi, pankreatitis, gangguan kognitif, penyakit hati, penyakit pundi hempedu dan trombositopenia.
+- **Interaksi Ubat:** sebanyak 100 interaksi direkodkan. Antara yang utama:
+  - **Major:** gliserol fenilbutirat.
+  - **Sederhana (Moderate):** bupropion, morfin (termasuk liposomal), asid asetilsalisilik, klaritromisin, difenoksin, difenoksilat, arang teraktif, dronabinol, metoklopramid, nabilon.
+  - **Minor:** simetidin, magnesium oksida, aluminium hidroksida, kalsium karbonat, esomeprazol, magaldrat, magnesium karbonat, magnesium hidroksida.
+
+Amaran utama dan kontraindikasi daripada sisipan pakej tidak tersedia. Sila rujuk sisipan pakej untuk maklumat keselamatan lengkap.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Teruskan dengan Penjaga**
+**Keputusan: Hold**
 
 **Rasional:**
-- Asid valproit adalah ubat antiepilepsi yang dipasarkan, dicirikan dengan baik di Malaysia; melanjutkan penggunaannya kepada subtip epilepsi refleks/situasional seperti epilepsi visual adalah konsisten secara mekanik dengan indikasi yang diluluskan sedia ada daripada kawasan terapeutik novel, dan beberapa laporan kes epilepsi refleks yang bersebelahan menyokong manfaat antikejang.
-- Walau bagaimanapun, tiada ujian atau publikasi yang dikenalpasti secara langsung dan khusus mengesahkan asid valproit untuk epilepsi visual/cahaya — bukti disimpulkan daripada indikasi induk epilepsi, dan 8 daripada 9 indikasi calon yang diskrening kekurangan sokongan yang mencukupi (Pegang atau peringkat Soalan Penyelidikan awal).
+- Tiada percubaan klinikal dan tiada literatur yang menyokong penggunaan asid valproik untuk neoplasma saraf trigeminal. Skor tinggi model hanya merupakan ramalan (L5), dan ubat ini tidak dipasarkan di Malaysia mengikut data yang dikompilasi.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Amaran sisisipan TFDA/NPRA dan kontraindikasi (jurang pemblokiran DG001) sebelum mana-mana kelulusan keselamatan
-- Data mekanisme tindakan bersumber DrugBank (DG002) untuk mengukuhkan rasional mekanik
-- Nombor lesen NPRA, nama produk, dan teks indikasi yang diluluskan (kini kosong dalam pak ini) untuk mengesahkan skop berlabel semasa
-- Kajian prospektif atau analisis daftar yang secara khusus menyasarkan hasil epilepsi fotosensitif/refleks dengan asid valproit, daripada mengandalkan kesusasteraan epilepsi umum
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Bukti praklinikal atau klinikal yang menguji asid valproik (contohnya perencatan HDAC) pada tumor saraf trigeminal.
+- Data mekanisme tindakan (MOA) yang terperinci.
+- Amaran dan kontraindikasi daripada sisipan pakej NPRA.
+- Pengesahan status pendaftaran dan pemasaran di Malaysia.
 
+---
+
+## Calon Lain yang Diramalkan (Rujukan Sahaja)
+
+Data yang dikompilasi turut memuatkan indikasi lain dengan bukti yang lebih relevan. Bahagian di atas tertumpu pada ramalan peringkat pertama mengikut format laporan.
+
+| Peringkat | Penyakit | Skor TxGNN | Tahap Bukti | Syor |
+|------|------|------|------|------|
+| 2 | Epilepsi visual | 99.88% | L3 | Proceed with Guardrails |
+| 3 | Neuralgia trigeminal | 99.83% | L4 | Persoalan Penyelidikan |
+| 4 | Epilepsi terkejut (startle) | 99.81% | L3 | Persoalan Penyelidikan |
+| 7 | Sawan audiogenik | 99.81% | L4 | Persoalan Penyelidikan |
+| 10 | Sawan membaca | 99.79% | L4 | Persoalan Penyelidikan |
+| 5, 6, 8, 9 | Sawan akibat orgasme / membuang air kecil / makan / berfikir | 99.81% | L4–L5 | Hold |
+
+Epilepsi visual mempunyai sokongan tidak langsung yang paling kukuh (contohnya RCT epilepsi absens kanak-kanak, PMID 20200383), dengan langkah berjaga-jaga: teratogenisiti dan risiko perkembangan saraf pada wanita usia subur, hepatotoksisiti, pankreatitis, hiperamonemia dan interaksi ubat yang banyak.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

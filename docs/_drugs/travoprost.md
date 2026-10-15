@@ -2,7 +2,7 @@
 layout: default
 title: Travoprost
 parent: Low Evidence (L4-L5)
-nav_order: 665
+nav_order: 698
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,62 +29,81 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Travoprost: Dari Glaucoma/Hipertensi Okular kepada Visceral Calciphylaxis
+# Travoprost: Daripada Glaukoma Sudut Terbuka kepada Kalsifilaksis Viseral
 
-## Ringkasan Satu Kalimat
+## Ringkasan Satu Ayat
 
-> Travoprost (DB00287) adalah analog prostaglandin F2α yang kegunaannya yang terbukai adalah menurunkan tekanan intraokular dalam glaucoma dan hipertensi okular — meskipun set data peraturan khusus ini tidak mengandung teks indikasi yang terpopulasi, sehingga pernyataan penggunaan asli didasarkan pada pengetahuan obat publik daripada catatan lisensi yang disediakan. Prediksi peringkat teratas TxGNN untuk obat ini adalah **Visceral Calciphylaxis**, tetapi kandidat ini saat ini memiliki **nol uji klinis** dan **nol publikasi pendukung** — prediksi berpijak pada skor model saja.
+Travoprost ialah analog prostaglandin F2-alfa yang digunakan dalam bentuk titisan mata untuk merawat glaukoma sudut terbuka dan hipertensi okular.
+Model TxGNN meramalkan ia mungkin berkesan untuk **kalsifilaksis viseral**, tetapi **tiada sebarang percubaan klinikal atau penerbitan** yang menyokong indikasi ini; ramalan ini bersifat pengiraan semata-mata.
 
-## Gambaran Umum Cepat
+---
+
+## Gambaran Keseluruhan Pantas
 
 | Item | Kandungan |
-|------|----------|
-| Indikasi Asli | Tidak ditangkap dalam catatan lisensi NPRA yang disediakan (semua bidang `approved_indication_text` kosong); secara publik dikenal sebagai glaucoma / hipertensi okular (prostaglandin F2α / agonis reseptor FP) |
-| Indikasi Baru yang Diprediksi | Visceral Calciphylaxis |
-| Skor Prediksi TxGNN | 99.9998% |
-| Tingkat Bukti | L5 |
-| Status Pasar Malaysia | ✓ Dipasarkan |
-| Jumlah Pendaftaran | 4 |
-| Keputusan yang Direkomendasikan | Tunda |
+|------|------|
+| Indikasi Asal | Glaukoma sudut terbuka dan hipertensi okular (berdasarkan graf pengetahuan TxGNN; tiada lesen tempatan untuk dirujuk) |
+| Indikasi Baharu yang Diramalkan | Kalsifilaksis viseral |
+| Skor Ramalan TxGNN | 99.99% |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (Tahan) |
 
-## Mengapa Prediksi Ini Masuk Akal?
+---
 
-Saat ini, data mekanisme kerja terperinci tidak tersedia (ditandai sebagai kesenjangan data tingkat tinggi, DG002). Berdasarkan informasi publik, travoprost adalah analog prostaglandin F2α topikal / agonis reseptor FP yang digunakan untuk meningkatkan aliran uveoskleral dan mengurangi tekanan intraokular.
+## Mengapakah Ramalan Ini Munasabah?
 
-Untuk kandidat spesifik ini, bagaimanapun, paket bukti itu sendiri secara eksplisit menyatakan bahwa tidak ada jembatan mekanis yang ada: visceral calciphylaxis adalah vaskulopati kalsifikasi pembuluh kecil, dan paket mencatat "tidak ada koneksi yang diketahui" antara patologi itu dan jalur penurun FP-reseptor/IOP travoprost. Prediksi oleh karena itu adalah sinyal statistik murni dari TxGNN (peringkat 6, skor ≈1.0) yang tidak didukung oleh alasan biologis, uji klinis, atau literatur apa pun — konsisten dengan klasifikasi L5/Tunda-nya.
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia pada masa ini. Berdasarkan maklumat sedia ada, travoprost tergolong dalam kelas analog prostaglandin F2-alfa yang bertindak sebagai agonis reseptor FP. Keberkesanannya dalam glaukoma sudut terbuka dan hipertensi okular telah terbukti, dan secara teorinya agonisme reseptor FP boleh mempengaruhi tonus vaskular.
 
-Patut dicatat bahwa kandidat peringkat lebih rendah dalam paket yang sama, *penyakit vaskular* (peringkat 5), memiliki benang mekanis yang lebih masuk akal — meskipun masih tidak langsung: efek samping hiperemia okular travoprost yang terdokumentasi dengan baik (vasodilator) dan 20 publikasi terkait, meskipun tidak ada literatur itu yang mempelajari penyakit vaskular sistemik secara langsung. Kandidat itu mencapai tingkat bukti L4/S1 ("Pertanyaan Penelitian") dan mungkin layak mendapat tindak lanjut terpisah di luar cakupan kandidat utama laporan ini.
+Walau bagaimanapun, kaitan ini bersifat spekulatif dan belum diuji untuk vaskulopati berkalsium. Travoprost ialah agen oftalmik topikal dengan pendedahan sistemik yang minimum, yang menjadikan kebolehjadian untuk penyakit vaskular viseral yang bersifat sistemik sangat terhad.
 
-## Bukti Uji Klinis
+Ramalan lain dalam senarai (sindrom saluran keluar toraks arteri/vena/neurogenik, penyakit vaskular, angiodisplasia perut, sindrom jari kaki biru, pembedahan arteri koronari spontan idiopatik, limfangiektasis, hemangioendotelioma) juga berada pada peringkat L4–L5. Tiada satu pun yang mempunyai isyarat penggunaan semula yang kukuh. Kebanyakannya ialah keadaan mekanikal atau embolik yang tidak dapat ditangani oleh dos topikal pada mata.
 
-Saat ini tidak ada uji klinis terkait yang terdaftar
+---
+
+## Bukti Percubaan Klinikal
+
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan untuk kalsifilaksis viseral.
+
+---
 
 ## Bukti Literatur
 
-Saat ini tidak ada literatur terkait yang tersedia
+Pada masa ini tiada literatur berkaitan yang tersedia untuk kalsifilaksis viseral.
 
-## Informasi Pasar Malaysia
+---
 
-Travoprost memiliki 4 pendaftaran NPRA aktif ("Dipasarkan"), tetapi set data yang disediakan tidak menyertakan nomor lisensi yang terpopulasi, nama produk, bentuk dosis, atau teks indikasi untuk salah satu dari 4 entri — tingkat detail ini tidak ditangkap dalam penarikan data saat ini dan perlu bersumber langsung dari daftar produk NPRA sebelum penggunaan yang menghadap pasar.
+## Cytotoksisiti
+
+Bahagian ini tidak berkenaan kerana travoprost bukan ubat antineoplastik.
+
+---
 
 ## Pertimbangan Keselamatan
 
-Silakan lihat sisipan paket untuk informasi keselamatan. (Catatan: Peringatan sisipan paket TFDA/NPRA dan kontraindikasi ditandai sebagai kesenjangan data tingkat penting dalam paket bukti ini — lihat "Untuk melanjutkan" di bawah — dan tidak ada catatan interaksi obat yang ditemukan untuk travoprost dalam kueri ini.)
+- **Kontraindikasi daripada graf pengetahuan (bukan teks label)**: uveitis, penyakit iris, penyakit badan silia, panuveitis, iritis, edema makular sistoid, edema retina makular.
+- **Interaksi ubat**: pangkalan data interaksi merekodkan 49 interaksi, tetapi tahap keterukannya tidak diketahui. Antara ubat yang disenaraikan: kalsitriol, pantoprazol, sukralfat, morfin, metformin, omeprazol, rosiglitazon, lansoprazol, laktulosa, triamsinolon, prednison, simvastatin, kalium klorida, prednisolon, ranitidin, ondansetron, metronidazol, famotidin, asid asetilsalisilik dan gliburida.
+- **Isyarat keselamatan berkaitan**: satu laporan kes (PMID 19107053) menerangkan efusi uvea akibat travoprost topikal pada pesakit sindrom Sturge-Weber-Krabbe, iaitu gangguan malformasi vaskular.
 
-## Kesimpulan dan Langkah Selanjutnya
+Sila rujuk sisipan pek untuk maklumat amaran dan kontraindikasi rasmi.
 
-**Keputusan: Tunda**
+---
 
-**Alasan:**
-Prediksi peringkat teratas (visceral calciphylaxis) didukung hanya oleh skor TxGNN yang sangat tinggi, tanpa uji klinis, tanpa literatur, dan tanpa tautan mekanis yang terbentuk — rasionalisasi paket bukti itu sendiri mengkonfirmasi ini. Dikombinasikan dengan kesenjangan data keselamatan tingkat penting yang mencegah bahkan layar keselamatan S1 awal, kandidat ini tidak memenuhi standar untuk maju.
+## Kesimpulan dan Langkah Seterusnya
 
-**Untuk melanjutkan, hal berikut diperlukan:**
-- Data sisipan paket TFDA/NPRA (peringatan, kontraindikasi) — saat ini kesenjangan data tingkat penting (DG001)
-- Data mekanisme kerja terperinci dari DrugBank — saat ini kesenjangan data tingkat tinggi (DG002)
-- Setiap studi preklinik atau mekanis yang menghubungkan agonis reseptor FP ke jalur kalsifikasi vaskular/jaringan lunak, jika kandidat ini akan dipertimbangkan kembali
-- Detail lisensi/produk lengkap (nomor, nama produk, bentuk dosis, teks indikasi) untuk 4 pendaftaran Malaysia yang ada
-- Jika mengejar arah alternatif, pertimbangkan untuk memprioritaskan kandidat *penyakit vaskular* (L4, 20 publikasi pendukung) untuk evaluasi khusus sebagai gantinya
+**Keputusan: Hold (Tahan)**
 
+**Rasional:**
+- Ramalan kalsifilaksis viseral hanya berasaskan model pengiraan (L5) tanpa percubaan atau literatur. Pendedahan sistemik daripada titisan mata yang minimum menjadikan mekanisme yang dicadangkan tidak munasabah.
+- Bagi ramalan "penyakit vaskular", bukti sedia ada hanya menyokong indikasi asal (glaukoma), dan tiada isyarat penggunaan semula yang dapat ditentukan.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data amaran dan kontraindikasi daripada sisipan pek NPRA (jurang data yang menghalang saringan keselamatan)
+- Data mekanisme tindakan (MOA) terperinci daripada DrugBank
+- Kajian praklinikal yang menunjukkan kesan travoprost pada patologi kalsifikasi vaskular
+- Penilaian kesesuaian laluan pentadbiran dan pendedahan sistemik yang diperlukan, termasuk formulasi bukan oftalmik
+- Status pendaftaran tempatan, kerana ubat ini kini tidak dipasarkan di Malaysia
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

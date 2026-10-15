@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Bumetanide
-parent: Medium Evidence (L3)
-nav_order: 168
-evidence_level: L3
+parent: Low Evidence (L4-L5)
+nav_order: 173
+evidence_level: L4
 indication_count: 1
 ---
 
 # Bumetanide
 {: .fs-9 }
 
-Tahap bukti: **L3** | Indikasi diramal: **1** 
+Tahap bukti: **L4** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,89 +29,73 @@ Tahap bukti: **L3** | Indikasi diramal: **1**
 
 </div>
 
-# Bumetanide: Dari Terapi Diuretik Gelung (Edema) kepada Penyakit Jantung Pulmonari Akut
+# Bumetanide: Daripada Kegagalan Jantung Kongestif kepada Penyakit Jantung Pulmonari Akut
 
 ## Ringkasan Satu Ayat
 
-> Bumetanide adalah diuretik gelung yang kuat yang secara historis digunakan untuk menguruskan kelebihan bendalir/edema yang berkaitan dengan gagal jantung kongestif, penyakit hati dan ginjal, serta kesesakan pulmonari akut.
-> Model TxGNN meramalkan ia juga mungkin berkesan untuk **Penyakit Jantung Pulmonari Akut** (cor pulmonale akut dengan kegagalan jantung kanan),
-> dengan **3 percubaan klinikal** dan **5 publikasi** yang dikenal pasti pada masa kini, walaupun kualiti bukti adalah bercampur (**Tahap Bukti L3**) dan jurang data keselamatan yang kritikal masih belum diselesaikan.
+Bumetanide ialah diuretik gelung (*loop diuretic*) yang pada asalnya digunakan untuk merawat kegagalan jantung kongestif.
+Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit jantung pulmonari akut (*acute pulmonary heart disease*)**,
+tetapi setakat ini terdapat **0 percubaan klinikal** dan **5 penerbitan** yang hanya menyokong secara tidak langsung.
 
----
+## Gambaran Ringkas
 
-## Gambaran Keseluruhan Pantas
-
-| Item | Kandungan |
-|------|----------|
-| Petunjuk Asal | Tidak direkodkan dalam teks lesen NPRA semasa (medan kosong); mengikut literatur (PMID 6391889), bumetanide adalah diuretik gelung yang secara historis digunakan untuk edema yang berkaitan dengan gagal jantung kongestif, penyakit hati/ginjal, dan kesesakan pulmonari akut |
-| Petunjuk Baru yang Diramalkan | Penyakit Jantung Pulmonari Akut |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Kegagalan jantung kongestif |
+| Indikasi Baharu yang Diramalkan | Penyakit jantung pulmonari akut (*acute pulmonary heart disease*) |
 | Skor Ramalan TxGNN | 99.58% |
-| Tahap Bukti | L3 |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 3 |
-| Keputusan Disyorkan | Tunggu |
-
----
+| Tahap Bukti | L4 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Rekod mekanisme tindakan yang formal dan berstruktur tidak tersedia untuk ubat ini dalam pakej bukti semasa (ditandai sebagai jurang data keterukan Tinggi, DG002). Walau bagaimanapun, rasional ubat semula jadi model sendiri menjelaskan farmakologi asas: bumetanide adalah diuretik gelung yang kuat yang menghalang kotransporter NKCC2 (Na⁺-K⁺-2Cl⁻) dalam anggota gelung tebal naik Henle, menghasilkan natriuresis dan diuresis. Ini mengurangkan isipadu peredaran dan pratahanan jantung — mekanisme yang terus relevan dengan keadaan kelebihan isipadu.
+Bumetanide ialah diuretik gelung yang merencat kotransporter Na-K-2Cl (NKCC2) pada lengkung tebal menaik Henle, lalu menghasilkan natriuresis dan diuresis yang pantas. Data terperinci tentang mekanisme tindakan (MOA) daripada pangkalan data ubat tidak tersedia pada masa ini; huraian ini berdasarkan pengetahuan farmakologi am.
 
-Penyakit jantung pulmonari akut (cor pulmonale akut) biasanya hadir dengan ketegangan ventrikel kanan akut dan kesesakan vena sistemik/pulmonari. Memandangkan diuretik gelung sudah menjadi asas terapeutik yang ditetapkan untuk kelebihan isipadu dalam kegagalan jantung — termasuk petunjuk kesesakan pulmonari akut yang dirujuk dalam literatur bumetanide yang lebih lama (PMID 6391889) — memanjangkan penggunaan ini kepada penyakit jantung pulmonari akut adalah munasabah dari segi mekanisme dan mewakili perluasan tambahan farmakologi diuretik gelung yang sudah terkenal daripada hipotesis mekanisme baru.
+Dalam penyakit jantung pulmonari akut (*cor pulmonale* akut), beban isi padu ventrikel kanan dan kongesti sistemik mungkin dapat dikurangkan melalui diuresis. Patofisiologi ini serupa dengan kegagalan jantung kongestif, indikasi asal bumetanide. Skor TxGNN yang sangat tinggi (0.996) ialah ramalan pengiraan dan berkemungkinan mencerminkan persamaan dengan indikasi kegagalan jantung.
 
-Walau bagaimanapun, bukti percubaan yang secara khusus menguji bumetanide *dalam konteks ini* adalah tipis: satu percubaan Fasa 4 yang dirancang untuk secara langsung menguji kesan akut hemodynamik bumetanide dalam pesakit gagal jantung yang dipantau peranti (NCT07375212) ditarik balik sebelum mendaftar mana-mana pesakit, dan percubaan yang terbesar berkaitan (NCT05580510) menguji agen lain (empagliflozin, sacubitril/valsartan) dengan bumetanide mungkin hanya sebagai terapi latar belakang. Ramalan oleh itu harus dibaca sebagai hipotesis penyelidikan yang munasabah, disokong mekanisme daripada petunjuk klinikal baru yang disahkan.
-
----
+Namun, buktinya tidak langsung: literatur yang diperoleh membincangkan kegagalan jantung kiri akut dan kronik serta farmakologi diuretik gelung secara am, bukan penyakit jantung pulmonari akut secara khusus. Berhati-hati diperlukan kerana dalam kegagalan ventrikel kanan akut (contohnya akibat embolisme pulmonari), pengurangan prabeban yang berlebihan boleh merendahkan keluaran jantung. Manfaat diuretik bergantung pada konteks klinikal.
 
 ## Bukti Percubaan Klinikal
 
-| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|--------|---------|---------|
-| [NCT05580510](https://clinicaltrials.gov/study/NCT05580510) | Fasa 2/3 | Tidak Diketahui | 160 | Menilai empagliflozin dan sacubitril/valsartan dalam pesakit penyakit jantung kongenital dewasa dengan gagal jantung EF berkurangan; bumetanide mungkin hanya diuretik latar belakang, bukan intervensi utama (relevansi Gred B) |
-| [NCT07375212](https://clinicaltrials.gov/study/NCT07375212) | Fasa 4 | Ditarik Balik | 0 | Dirancang untuk menguji sama ada dos bumetanide intranasal tunggal 4mg secara akut mengurangkan tekanan arteri pulmonari dan isipadu darah dalam pesakit gagal jantung yang dipantau peranti (CardioMEMS/Cordella); relevansi mekanisme tinggi tetapi ditarik balik dengan pendaftaran sifar, jadi tiada data dihasilkan |
-| [NCT06885164](https://clinicaltrials.gov/study/NCT06885164) | N/A | Merekrut | 200 | Kajian observasi pemantauan seismokardiografi dalam pesakit gagal jantung; tiada intervensi ubat, hanya pertindihan populasi dengan pesakit yang dirawat bumetanide (relevansi Gred C) |
-
----
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|------|------|--------|---------|
-| [3304383](https://pubmed.ncbi.nlm.nih.gov/3304383/) | 1987 | Kajian Klinikal (tidak terkawal, kecil-n) | British Journal of Clinical Pharmacology | Bumetanide IV (25 µg/kg) dalam 24 pesakit dengan gagal jantung akut atau kronik mengurangkan indeks jantung dan tekanan arteria pulmonari yang tergantung sambil meningkatkan tekanan arteri sistemik dan rintangan vaskular semasa istirahat |
-| [19142155](https://pubmed.ncbi.nlm.nih.gov/19142155/) | 2009 | Ulasan | American Journal of Therapeutics | Menguji pengurusan gagal jantung dekompensasi akut; kebanyakan pesakit ditadbir dengan berkesan dengan agen diuretik sebagai terapi barisan pertama |
-| [6391889](https://pubmed.ncbi.nlm.nih.gov/6391889/) | 1984 | Ulasan | Drugs | Ulasan menyeluruh farmakodynamik/farmakokinetik bumetanide; mengesahkan penggunaan yang telah ditetapkan untuk edema daripada CHF, penyakit hati/ginjal, dan kesesakan pulmonari akut, dengan permulaan cepat (dalam 30 minit) |
-| [19843838](https://pubmed.ncbi.nlm.nih.gov/19843838/) | 2009 | Ulasan | The Annals of Pharmacotherapy | Ulasan perbandingan diuretik gelung (termasuk bumetanide) menilai farmakokinetik, keselamatan, keberkesanan, dan kos berbanding furosemide |
-| [39366035](https://pubmed.ncbi.nlm.nih.gov/39366035/) | 2024 | Epidemiologi/Kohort | American Journal of Emergency Medicine | Menerangkan epidemiologi persembahan gagal jantung ke bilik kecemasan AS 2016–2023; memberikan konteks bebanan penyakit latar belakang daripada bukti ubat langsung |
-
----
+|------|-----|------|------|---------|
+| [3304383](https://pubmed.ncbi.nlm.nih.gov/3304383/) | 1987 | Kajian hemodinamik klinikal (kecil) | Br J Clin Pharmacol | Bumetanide intravena pada 24 pesakit penyakit arteri koronari dengan kegagalan jantung akut (aruhan senaman) atau kronik: tekanan baji arteri pulmonari dan indeks jantung menurun, tekanan darah dan rintangan vaskular sistemik meningkat |
+| [6391889](https://pubmed.ncbi.nlm.nih.gov/6391889/) | 1984 | Ulasan | Drugs | Ulasan farmakodinamik, farmakokinetik dan kegunaan terapeutik; bumetanide ialah diuretik gelung kuat untuk edema akibat kegagalan jantung kongestif, penyakit hati dan buah pinggang, serta kongesti pulmonari akut |
+| [19142155](https://pubmed.ncbi.nlm.nih.gov/19142155/) | 2009 | Ulasan | Am J Ther | Ulasan pengurusan kegagalan jantung akut; kebanyakan pesakit dapat diurus dengan diuretik |
+| [19843838](https://pubmed.ncbi.nlm.nih.gov/19843838/) | 2009 | Ulasan | Ann Pharmacother | Perbandingan farmakokinetik, keselamatan, keberkesanan dan kos diuretik gelung, termasuk persoalan sama ada furosemide patut menjadi pilihan pertama |
+| [39366035](https://pubmed.ncbi.nlm.nih.gov/39366035/) | 2024 | Kohort | Am J Emerg Med | Epidemiologi kehadiran kegagalan jantung di jabatan kecemasan AS (2016–2023); tidak khusus kepada bumetanide |
 
 ## Maklumat Pasaran Malaysia
 
-Rekod NPRA mengesahkan **3 lesen berdaftar** untuk bumetanide di Malaysia (status pasaran: Dipasarkan / Dipasarkan). Walau bagaimanapun, medan daftar terperinci — nombor lesen, nama produk, bentuk dos, pengeluar, dan teks petunjuk yang diluluskan — belum pun diekstrak ke dalam pakej bukti ini dan pada masa kini kosong untuk semua 3 entri. Ini adalah jurang data yang diketahui; bersumber entri daftar produk NPRA penuh disyorkan sebelum memuktamadkan sebarang ringkasan yang berkaitan peraturan.
-
----
+Bumetanide pada masa ini tidak dipasarkan di Malaysia dan tiada pendaftaran produk direkodkan.
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
+- **Penyakit/keadaan yang dikaitkan dengan kontraindikasi (berdasarkan graf pengetahuan, bukan teks label):** penyakit hati, penyakit pundi hempedu, trombositopenia, kekurangan kalium, diabetes mellitus, ketoasidosis diabetes, hiperurisemia, koma hepatik, ensefalopati hepatik, anuria, hiperkalsemia, nefrokalsinosis, gangguan metabolisme fosforus, gangguan pendengaran dan penyakit sistem auditori.
+- **Interaksi Ubat:** 100 interaksi direkodkan; antara yang utama (tahap sederhana) ialah acarbose, rabeprazole, hydrocortisone, albiglutide, alogliptin, metformin, amphotericin B, bupropion, triamcinolone, morphine, omeprazole, dexamethasone, beclomethasone, betamethasone, bisacodyl dan acetohexamide. Interaksi tahap ringan termasuk doxycycline dan asid asetilsalisilik. Banyak antaranya melibatkan ubat antidiabetes dan kortikosteroid, yang berkaitan dengan perubahan paras glukosa dan elektrolit.
 
-*(Nota: amaran utama, kontraindikasi, dan data interaksi ubat-ubat semuanya pada masa kini tidak tersedia — ini dijejaki sebagai jurang data keterukan Menyekat (DG001), kerana ia menghalang penyelesaian peringkat pemeriksaan keselamatan awal mandatori (S1). Ini mesti diselesaikan sebelum sebarang pengambilan keputusan klinikal selanjutnya.)*
-
----
+Amaran dan kontraindikasi daripada sisipan pakej tidak tersedia; sila rujuk sisipan pakej untuk maklumat keselamatan lengkap.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tunggu**
+**Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-Jurang data keterukan Menyekat dalam amaran/kontraindikasi label TFDA/NPRA (DG001) menghalang penyelesaian pemeriksaan keselamatan awal mandatori (S1), dan bukti klinikal/literatur, walaupun konsisten secara mekanisme (L3 — didorong terutamanya oleh ulasan yang lebih lama dan kajian kecil tidak terkawal), belum merangkumi percubaan yang telah siap dan khusus mengesahkan keberkesanan khusus untuk penyakit jantung pulmonari akut; percubaan yang satu dirancang untuk menguji ini (NCT07375212) ditarik balik sebelum mendaftar pesakit.
+- Bukti hanya bersifat tidak langsung (L4): tiada percubaan klinikal dan tiada literatur khusus untuk penyakit jantung pulmonari akut. Skor TxGNN yang tinggi belum disahkan secara klinikal, dan diuresis dalam kegagalan ventrikel kanan akut boleh merugikan bergantung pada konteks.
+- Bumetanide juga tidak dipasarkan di Malaysia, dan data keselamatan daripada sisipan pakej tidak lengkap.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Data rasmi NPRA/sisipan produk: amaran utama, kontraindikasi, dan profil interaksi ubat-ubat (menyelesaikan DG001, Menyekat)
-- Rujukan mekanisme tindakan yang disahkan daripada DrugBank atau sumber berwibawa yang setara (menyelesaikan DG002, Tinggi)
-- Butiran lesen NPRA lengkap (nombor lesen, nama produk, teks petunjuk yang diluluskan) untuk 3 pendaftaran yang sedia ada
-- Percubaan klinikal yang khusus atau kajian daftar yang mencukupi kuasa menilai bumetanide khusus dalam penyakit jantung pulmonari akut / populasi cor pulmonale akut
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisipan pakej NPRA (amaran dan kontraindikasi) untuk saringan keselamatan
+- Data mekanisme tindakan (MOA) daripada DrugBank
+- Literatur atau percubaan klinikal khusus untuk penyakit jantung pulmonari akut / kegagalan ventrikel kanan akut
+- Penilaian status pendaftaran dan ketersediaan produk di Malaysia
+- Penilaian keselamatan bagi keadaan berisiko (contohnya hipokalemia, gangguan pendengaran, penyakit hati dan buah pinggang)
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

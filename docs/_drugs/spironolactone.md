@@ -2,7 +2,7 @@
 layout: default
 title: Spironolactone
 parent: Low Evidence (L4-L5)
-nav_order: 627
+nav_order: 658
 evidence_level: L5
 indication_count: 2
 ---
@@ -29,63 +29,64 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Spironolactone: Dari Indikasi Dipasarkan (Tidak Dinyatakan) kepada Hypotrichosis Simplex of the Scalp
+# Spironolakton: Daripada Hipertensi dan Kegagalan Jantung Kongestif kepada Hipotrikosis Simpleks Kulit Kepala
 
 ## Ringkasan Satu Ayat
 
-Spironolactone ialah antagonis reseptor mineralocorticoid yang dipasarkan di Malaysia (1 pendaftaran dalam fail), walaupun teks indikasi yang diluluskan secara khusus tidak ditangkap dalam pakej bukti semasa. Model TxGNN meramalkan potensi keberkesanan untuk **Hypotrichosis Simplex of the Scalp**, satu gangguan kehilangan rambut genetik yang jarang, tetapi ramalan ini kini disokong oleh **0 ujian klinikal** dan **0 penerbitan** — tahap bukti L5, ramalan model sahaja.
+Spironolakton ialah antagonis reseptor mineralokortikoid yang pada asalnya digunakan untuk hipertensi, kegagalan jantung kongestif dan hiperaldosteronisme (termasuk hiperaldosteronisme primer).
+Model TxGNN meramalkan ia mungkin berkesan untuk **hipotrikosis simpleks kulit kepala** (skor 99.26%).
+Namun, setakat ini **tiada ujian klinikal** dan **tiada penerbitan** yang menyokong arah ini; ramalan ini hanya berasaskan model.
 
-## Tinjauan Pantas
+---
+
+## Gambaran Keseluruhan Pantas
 
 | Item | Kandungan |
-|------|----------|
-| Indikasi Asal | Tidak dinyatakan dalam data pendaftaran yang tersedia |
-| Indikasi Baru yang Diramalkan | Hypotrichosis Simplex of the Scalp |
+|------|------|
+| Indikasi Asal | Hipertensi, kegagalan jantung kongestif, hiperaldosteronisme, hiperaldosteronisme primer, penyakit Bartter, sindrom Waterhouse-Friderichsen (berdasarkan graf pengetahuan TxGNN; data label pendaftaran Malaysia tidak tersedia) |
+| Indikasi Baharu yang Diramalkan | Hipotrikosis simpleks kulit kepala |
 | Skor Ramalan TxGNN | 99.26% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 1 |
-| Keputusan yang Disyorkan | Tahan |
+| Status Pasaran Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan yang Disyorkan | Hold (Tahan) |
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci (`original_moa`) ditandakan sebagai jurang data dalam pakej bukti ini. Bagaimanapun, rasional ramalan yang disediakan di samping calon menunjukkan spironolactone bertindak sebagai antagonis reseptor mineralocorticoid dengan aktiviti anti-androgenik yang ketara (penyekat reseptor androgen, perencatan steroidogenesis), dan digunakan secara meluas di luar label untuk androgenetic alopecia (kehilangan rambut corak wanita).
+Data terperinci mengenai mekanisme tindakan (MOA) belum tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat yang diketahui, spironolakton ialah antagonis reseptor mineralokortikoid yang juga mempunyai kesan anti-androgen. Keberkesanannya dalam hipertensi dan kegagalan jantung telah mapan. Secara teori, kesan anti-androgen ini menjadi asas penggunaan luar label bagi keguguran rambut corak perempuan, yang melibatkan isyarat androgen dalam folikel rambut.
 
-Penggunaan anti-androgen yang tersebut itu berkemungkinan sumber skor tinggi TxGNN — tetapi ia tidak dipindahkan dengan bersih kepada dua indikasi yang diramalkan di sini. Hypotrichosis simplex of the scalp adalah gangguan autosom dominan yang jarang terutamanya dikaitkan dengan mutasi *APCDD1* dan *CDH3*, dengan kecacatan perkembangan folikel yang tidak mempunyai sambungan langsung kepada isyarat androgen. Begitu juga, hypotrichosis bawaan dengan ciri seperti milia dikaitkan dengan mutasi gen desmosomal (cth., *DSC2*, *DSG4*) yang menjejaskan struktur keratinosit/folikel, bukan supresi rambut yang didorong androgen.
+Walau bagaimanapun, hubungan ini tidak boleh dipindahkan terus. Hipotrikosis simpleks kulit kepala ialah gangguan keguguran rambut keturunan yang jarang berlaku, biasanya disebabkan varian gen seperti *CDSN*, *APCDD1* atau *RPL21*, dan tidak didorong oleh androgen. Rasional anti-androgen oleh itu lemah untuk keadaan ini.
 
-Dalam kedua-dua kes, rasional sendiri pakej bukti menandakan ini sebagai kemungkinan **artifak kluster semantik** — graf pengetahuan mengelompokkan penyakit ini di bawah label "hypotrichosis/alopecia" bersama daripada melalui laluan spesifik mekanisme yang disahkan. Ini adalah ekstrapolasi mekanistik risiko tinggi, bukan hipotesis farmakologi yang tertanam dengan baik.
+Ramalan kedua dalam senarai ialah **hipotrikosis kongenital dengan milia** (skor 99.04%, tahap bukti L5, keputusan Hold). Ini ialah gangguan genetik jarang yang melibatkan perkembangan rambut dan kulit, dan tiada laluan mapan yang menghubungkannya dengan antagonisme reseptor mineralokortikoid atau aktiviti anti-androgen. Tiada ujian klinikal atau literatur menyokongnya.
 
-## Bukti Ujian Klinikal
+---
 
-Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
+## Keselamatan dan Pertimbangan
 
-## Bukti Literatur
+- **Kontraindikasi (berdasarkan graf pengetahuan, bukan teks label):** penyakit buah pinggang, piouretra, pankreatitis, lupus eritematosus sistemik (termasuk bentuk pediatrik), kekurangan kalium, diabetes mellitus, ketoasidosis diabetik, hiperurisemia, hiperparatiroidisme, osteitis fibrosa, koma hepatik, ensefalopati hepatik, jaundis neonatal, anuria, gout, hiperkalsemia, nefrokalsinosis dan gangguan metabolisme fosforus.
+- **Interaksi Ubat:** pangkalan data mengesan 100 interaksi. Antara yang disenaraikan:
+  - **Major:** loperamid.
+  - **Sederhana (Moderate):** hidrokortison, metformin, bupropion, triamsinolon, morfin, deksametason, betametason, bisakodil, budesonid, kanagliflozin, minyak jarak, dapagliflozin, dronabinol, empagliflozin, ertugliflozin, eksenatid.
+  - **Minor:** doksisiklin, asid asetilsalisilik, fidaksomisin.
 
-Pada masa ini tiada literatur berkaitan tersedia.
+Maklumat amaran dan kontraindikasi daripada sisipan pakej belum diperoleh. Sila rujuk sisipan pakej untuk maklumat keselamatan yang lengkap.
 
-## Maklumat Pasaran Malaysia
-
-Status pasaran Malaysia untuk spironolactone disahkan sebagai dipasarkan, dengan 1 pendaftaran dalam fail. Nombor lesen, nama produk, bentuk dos, dan teks indikasi yang diluluskan tidak tersedia dalam pakej bukti semasa.
-
-## Pertimbangan Keselamatan
-
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
-
-*(Nota: amaran label TFDA/kontraindikasi ditandakan sebagai jurang data Pemblokiran — DG001 — yang secara bebas menghalang calon ini daripada memasuki peringkat semakan keselamatan S1 tanpa mengira bukti peringkat indikasi.)*
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold (Tahan)**
 
 **Rasional:**
-Kedua-dua indikasi yang diramalkan disokong hanya oleh skor model TxGNN (L5, peringkat keputusan S0) tanpa ujian klinikal atau literatur, dan pautan mekanistik dinilai lemah — skor tinggi berkemungkinan mencerminkan kluster label penyakit ("hypotrichosis") daripada laluan yang disahkan menghubungkan aktiviti anti-mineralocorticoid/anti-androgen spironolactone kepada gangguan folikel yang didorong genetik ini.
+- Ramalan ini hanya berasaskan model (L5) tanpa sebarang ujian klinikal atau literatur. Asas biologi juga lemah kerana hipotrikosis simpleks kulit kepala ialah gangguan genetik yang tidak didorong oleh androgen. Produk ini juga tidak didaftarkan di Malaysia.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Data sisipan pakej TFDA (amaran, kontraindikasi) untuk membersihkan jurang data Pemblokiran (DG001) sebelum sebarang semakan keselamatan boleh dimulai
-- Teks indikasi asal yang disahkan dan mekanisme tindakan (DG002)
-- Bukti prapersidangan atau peringkat kes yang menghubungkan laluan androgen/mineralocorticoid kepada patologi folikel berkaitan *APCDD1*/*CDH3*- atau desmosom
-- Sebarang laporan kes penggunaan spironolactone dalam sindrom hypotrichosis genetik untuk menguji hipotesis mekanistik sebelum pelaburan lebih lanjut
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) yang lengkap daripada DrugBank.
+- Amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menghalang penyaringan keselamatan).
+- Kajian praklinikal atau laporan kes yang menghubungkan spironolakton dengan laluan genetik yang terlibat (*CDSN*, *APCDD1*, *RPL21*).
+- Penilaian kesesuaian laluan pentadbiran (contohnya formulasi topikal) dan status pendaftaran di Malaysia.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

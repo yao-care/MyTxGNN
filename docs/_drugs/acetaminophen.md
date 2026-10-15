@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Acetaminophen
-parent: Medium Evidence (L3)
+parent: Low Evidence (L4-L5)
 nav_order: 18
-evidence_level: L3
+evidence_level: L4
 indication_count: 1
 ---
 
 # Acetaminophen
 {: .fs-9 }
 
-Tahap bukti: **L3** | Indikasi diramal: **1** 
+Tahap bukti: **L4** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,91 +29,99 @@ Tahap bukti: **L3** | Indikasi diramal: **1**
 
 </div>
 
-# Acetaminophen: Dari Penghilang Sakit kepada Migrain dengan Aura Batang Otak
+# Acetaminophen: Daripada Rinitis Alergik/Sakit Kepala kepada Migrain dengan Aura Batang Otak
 
-## Ringkasan Satu Kalimat
+## Ringkasan Satu Ayat
 
-Acetaminophen (paracetamol) adalah salah satu analgesik dan antipiretik tanpa resep yang paling banyak digunakan di dunia, ditunjukkan untuk menghilangkan rasa sakit ringan hingga sedang dan mengurangi demam.
-Model TxGNN memprediksi bahwa ia mungkin efektif untuk **migrain dengan aura batang otak**, dengan **0 uji klinis** dan **20 publikasi** yang kini mendukung arah ini.
-Bukti yang tersedia terutama terdiri dari RKT dan tinjauan sistematis tentang acetaminophen dalam migrain umum — dukungan tidak langsung untuk subtipe spesifik ini — menempatkan bukti keseluruhan pada **L3**.
-
----
-
-## Gambaran Umum Cepat
-
-| Item | Konten |
-|------|--------|
-| Indikasi Asal | Penghilang rasa sakit dan pengurangan demam (analgesik / antipiretik) |
-| Indikasi Baru yang Diprediksi | Migrain dengan Aura Batang Otak |
-| Skor Prediksi TxGNN | 99.15% |
-| Tahap Bukti | L3 |
-| Status Pasar Malaysia | ✓ Dipasarkan |
-| Jumlah Pendaftaran | 5 |
-| Keputusan yang Direkomendasikan | Lanjutkan dengan Penjagaan Keselamatan |
+Acetaminophen (parasetamol) ialah ubat analgesik dan antipiretik yang pada asalnya digunakan untuk rinitis alergik, rinitis vasomotor, migrain, selesema biasa, nasofaringitis dan gangguan sakit kepala.
+Model TxGNN meramalkan ia mungkin berkesan untuk **migrain dengan aura batang otak**,
+tetapi setakat ini terdapat **0 ujian klinikal** dan **20 penerbitan** yang berkaitan, kebanyakannya ulasan umum tentang migrain dan bukan kajian khusus untuk subjenis ini.
 
 ---
 
-## Mengapa Prediksi Ini Masuk Akal?
+## Gambaran Keseluruhan Pantas
 
-Tindakan analgesik pusat acetaminophen terutama dikaitkan dengan penghambatan COX-3 (cyclooxygenase-3), yang mengurangi sintesis prostaglandin dalam sistem saraf pusat. Di luar COX-3, ia memodulasi jalur kontrol rasa sakit menurun — terutama wilayah gray periaqueductal (PAG) di batang otak — struktur yang penting untuk penekanan rasa sakit endogen. Penting untuk dicatat bahwa data mekanisme kerja formal belum dikonfirmasi untuk aplikasi spesifik ini; alasan mekanis yang disajikan di sini didasarkan pada kesimpulan tidak langsung dari profil analgesik pusatnya yang sudah mapan.
-
-Migrain dengan aura batang otak adalah subtipe migrain yang berbeda di mana gejala aura berasal dari batang otak itu sendiri, bermanifestasi sebagai disartria, vertigo, tinitus, diplopia, atau ataksia. Patofisiologi yang mendasari melibatkan aktivasi aberan nucleus trigeminal caudalis dan formasi retikular batang otak. Karena acetaminophen bekerja langsung pada sirkuit rasa sakit batang otak melalui PAG dan jalur modulasi menurun, ada dasar neuroanatomis dan farmakologis yang masuk akal untuk keefektifannya dalam subtipe ini.
-
-Dalam praktik klinis yang lebih luas, acetaminophen sudah direkomendasikan sebagai agen lini pertama untuk serangan migrain ringan hingga sedang — dan merupakan analgesik pilihan selama kehamilan ketika NSAID dan triptan dikontraindikasikan. Memperluas rekomendasi ini ke subtipe aura batang otak karena itu adalah penyempurnaan indikasi yang ada daripada aplikasi yang benar-benar baru, meskipun validasi mekanis dan klinis langsung untuk subtipe spesifik ini masih kurang.
+| Item | Kandungan |
+|------|------|
+| Indikasi Asal | Rinitis alergik, rinitis vasomotor, migrain, selesema biasa, nasofaringitis, gangguan sakit kepala (daripada graf pengetahuan TxGNN/PrimeKG) |
+| Indikasi Baharu yang Diramalkan | Migrain dengan aura batang otak |
+| Skor Ramalan TxGNN | 99.15% |
+| Tahap Bukti | L4 |
+| Status Pasaran di Malaysia | Tidak dipasarkan (berdasarkan data yang disusun untuk laporan ini) |
+| Bilangan Pendaftaran | 0 |
+| Keputusan yang Disyorkan | Hold |
 
 ---
 
-## Bukti Uji Klinis
+## Mengapa Ramalan Ini Munasabah?
 
-Saat ini tidak ada uji klinis terkait yang terdaftar untuk acetaminophen secara khusus dalam migrain dengan aura batang otak.
+Maklumat terperinci tentang mekanisme tindakan asal tidak tersedia buat masa ini. Secara umum, mekanisme analgesik acetaminophen dipercayai melibatkan perencatan COX di pusat serta modulasi laluan serotonergik dan endokannabinoid. Mekanisme ini boleh melegakan kesakitan pada fasa sakit kepala bagi mana-mana subjenis migrain. Ini ialah inferens, bukan sesuatu yang ditunjukkan oleh bukti yang ada.
+
+Acetaminophen sudah digunakan untuk migrain akut dan gangguan sakit kepala, dan migrain dengan aura batang otak ialah subjenis klinikal migrain. Skor TxGNN yang tinggi (0.99) kemungkinan besar mencerminkan kedekatan ontologi penyakit ini dengan indikasi migrain sedia ada, bukan bukti khusus untuk subjenis tersebut.
+
+Triptan dan vasokonstriktor lain secara tradisinya digunakan dengan berhati-hati dalam migrain dengan aura batang otak. Oleh itu, analgesik bukan vasokonstriktif seperti acetaminophen mungkin relevan, tetapi tiada data dalam bukti yang dikumpulkan yang mengesahkan perkara ini.
+
+---
+
+## Bukti Ujian Klinikal
+
+Buat masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
-| PMID | Tahun | Tipe | Jurnal | Temuan Utama |
-|------|------|------|--------|-------------|
-| [11112243](https://pubmed.ncbi.nlm.nih.gov/11112243/) | 2000 | RKT | *Archives of Internal Medicine* | Studi berbasis populasi berlapis ganda buta plasebo yang menunjukkan efikasi dan keamanan monoterapi acetaminophen dalam pengobatan migrain akut |
-| [9482363](https://pubmed.ncbi.nlm.nih.gov/9482363/) | 1998 | RKT | *Archives of Neurology* | Tiga uji berlapis ganda buta plasebo yang mengkonfirmasi kombinasi acetaminophen + aspirin + kafein secara efektif menghilangkan rasa sakit migrain |
-| [10321417](https://pubmed.ncbi.nlm.nih.gov/10321417/) | 1999 | RKT | *Clinical Therapeutics* | Analisis gabungan dari 3 uji terkontrol plasebo yang menunjukkan acetaminophen + aspirin + kafein efektif untuk migrain yang berhubungan dengan menstruasi |
-| [11318886](https://pubmed.ncbi.nlm.nih.gov/11318886/) | 2001 | Studi Perbandingan | *Headache* | Perbandingan langsung isometheptene/dichloralphenazone/acetaminophen vs sumatriptan untuk migrain ringan hingga sedang dengan atau tanpa aura |
-| [25600718](https://pubmed.ncbi.nlm.nih.gov/25600718/) | 2015 | Tinjauan Sistematis / Panduan Klinis | *Headache* | Penilaian bukti American Headache Society yang diperbarui tentang farmakoterapi untuk migrain akut; memposisikan acetaminophen dalam hierarki pengobatan |
-| [39493026](https://pubmed.ncbi.nlm.nih.gov/39493026/) | 2024 | Tinjauan Sistematis | *Cureus* | Tinjauan terapi penghentian dan profilaksis migrain dalam kehamilan; menyoroti acetaminophen sebagai pilihan pengobatan akut yang aman utama |
-| [38307660](https://pubmed.ncbi.nlm.nih.gov/38307660/) | 2024 | Tinjauan Naratif | *Handbook of Clinical Neurology* | Mencakup status migrain — komplikasi berat migrain dengan atau tanpa aura berlangsung >72 jam — dan pendekatan pengobatan saat ini |
-| [30470274](https://pubmed.ncbi.nlm.nih.gov/30470274/) | 2019 | Tinjauan | *Neurologic Clinics* | Mengkonfirmasi acetaminophen sebagai pengobatan simtomatik lini pertama untuk sakit kepala dalam kehamilan, termasuk migrain; membahas profil keamanan di seluruh trimester |
-| [37123778](https://pubmed.ncbi.nlm.nih.gov/37123778/) | 2023 | Tinjauan | *Cureus* | Tinjauan komprehensif tentang manajemen migrain selama kehamilan dan menyusui, termasuk profil keamanan dan pertimbangan dosis untuk analgesik |
-| [33525313](https://pubmed.ncbi.nlm.nih.gov/33525313/) | 2021 | Tinjauan | *Neurology International* | Gambaran umum ubrogepant untuk migrain akut; memposisikan acetaminophen dan NSAID sebagai pilihan lini pertama standar untuk serangan migrain ringan hingga sedang |
+Berikut ialah penerbitan yang paling relevan. Tiada satu pun yang menyiasat migrain dengan aura batang otak secara khusus.
+
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [10321417](https://pubmed.ncbi.nlm.nih.gov/10321417/) | 1999 | Analisis retrospektif tiga RCT terkawal plasebo | Clin Ther | Gabungan acetaminophen, aspirin dan kafein dinilai untuk migrain berkaitan haid berbanding migrain tidak berkaitan haid |
+| [25600718](https://pubmed.ncbi.nlm.nih.gov/25600718/) | 2015 | Ulasan (penilaian bukti/garis panduan) | Headache | Penilaian terkini bukti terapi farmakologi untuk rawatan migrain akut |
+| [11318886](https://pubmed.ncbi.nlm.nih.gov/11318886/) | 2001 | Kajian perbandingan | Headache | Isometheptene, dichloralphenazone dan acetaminophen dibandingkan dengan sumatriptan untuk migrain ringan hingga sederhana |
+| [38307660](https://pubmed.ncbi.nlm.nih.gov/38307660/) | 2024 | Ulasan | Handb Clin Neurol | Status migrainosus sebagai komplikasi migrain dengan atau tanpa aura |
+| [30470274](https://pubmed.ncbi.nlm.nih.gov/30470274/) | 2019 | Ulasan | Neurol Clin | Acetaminophen ialah rawatan simptomatik lini pertama untuk sakit kepala semasa kehamilan |
+| [39493026](https://pubmed.ncbi.nlm.nih.gov/39493026/) | 2024 | Ulasan | Cureus | Terapi abortif dan profilaktik untuk migrain semasa kehamilan |
+| [37123778](https://pubmed.ncbi.nlm.nih.gov/37123778/) | 2023 | Ulasan | Cureus | Pendekatan rawatan migrain semasa kehamilan dan penyusuan |
+| [16018227](https://pubmed.ncbi.nlm.nih.gov/16018227/) | 2005 | Ulasan | Pediatr Ann | Rawatan migrain pediatrik, termasuk terapi akut dan pencegahan |
+| [23203776](https://pubmed.ncbi.nlm.nih.gov/23203776/) | 2013 | Ulasan | Curr Treat Options Neurol | Diagnosis dan rawatan migrain hemiplegik familial dan sporadik |
+| [33525313](https://pubmed.ncbi.nlm.nih.gov/33525313/) | 2021 | Ulasan | Neurol Int | Ubrogepant untuk migrain akut; acetaminophen disebut sebagai pilihan bagi migrain ringan hingga sederhana |
 
 ---
 
-## Informasi Pasar Malaysia
+## Maklumat Pasaran Malaysia
 
-Acetaminophen dipastikan sebagai **dipasarkan** di Malaysia dengan **5 produk terdaftar**. Catatan lisensi terperinci (nomor lisensi, nama produk, bentuk dosis, dan teks indikasi yang disetujui) tidak tersedia dalam kumpulan data saat ini.
-
-Untuk mengambil detail pendaftaran lengkap, silakan konsultasikan [database Pendaftaran Produk NPRA](https://www.npra.gov.my/).
+Berdasarkan data yang disusun untuk laporan ini, tiada lesen produk acetaminophen direkodkan di Malaysia dan statusnya ialah tidak dipasarkan. Ini mungkin mencerminkan had data pendaftaran dan perlu disahkan dengan NPRA.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Silakan merujuk pada sisipan paket untuk informasi keselamatan.
+- **Kontraindikasi (daripada graf pengetahuan, bukan teks label)**: kegagalan hati, penyakit hati, penyakit pundi hempedu, sirosis hati, ensefalopati hepatik dan koma hepatik.
+- **Interaksi Ubat**: Pertanyaan menemui 100 interaksi, dan 20 yang pertama disenaraikan dalam data. Kebanyakannya bertahap **Minor**, termasuk antikolinergik (atropin, hioskiamin, skopolamin, glikopironium, disiklomin) dan antagonis H2 (simetidin, ranitidin). Interaksi bertahap **Sederhana (Moderate)** termasuk:
+  - Arang teraktif
+  - Gliserol fenilbutirat
+  - Naltrekson
+
+  Interaksi dengan vitamin A dan kalsitriol berstatus tidak diketahui.
+
+Untuk amaran utama dan kontraindikasi daripada label, sila rujuk sisipan pakej.
 
 ---
 
-## Kesimpulan dan Langkah Selanjutnya
+## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Lanjutkan dengan Penjagaan Keselamatan**
+**Keputusan: Hold**
 
-**Alasan:**
-Acetaminophen adalah analgesik yang sudah mapan dengan bukti yang kuat untuk manajemen migrain umum dan profil keselamatan yang sangat baik, menjadikan aplikasinya untuk migrain dengan aura batang otak perpanjangan klinis yang masuk akal. Namun, tidak ada uji klinis yang telah dilakukan khusus untuk subtipe ini, dan hubungan mekanis tetap menjadi kesimpulan tidak langsung yang memerlukan validasi formal.
+**Rasional:**
+- Ramalan ini hanya disokong oleh model dan kedekatan dengan indikasi migrain sedia ada (tahap bukti L4). Tiada ujian klinikal dan tiada kajian khusus untuk migrain dengan aura batang otak.
+- Tiada produk berdaftar di Malaysia, dan data keselamatan berasaskan label belum lengkap.
 
-**Untuk melanjutkan, yang berikut diperlukan:**
-- Identifikasi atau desain studi observasional prospektif atau RKT pilot yang menargetkan pasien dengan migrain dengan aura batang otak yang diobati dengan acetaminophen
-- Ambil data mekanisme kerja formal dari API DrugBank (DG002) untuk mengkonfirmasi hipotesis jalur COX-3 / batang otak PAG
-- Unduh dan parse PDF sisipan paket NPRA (DG001) untuk mengidentifikasi kontrain atau peringatan apa pun yang relevan dengan kasus penggunaan ini
-- Nilai profil interaksi obat-obat, terutama dengan agen profilaksis migrain bersamaan (misalnya penghambat beta, valproat, topiramat)
-- Libatkan ahli saraf yang mengkhususkan diri dalam gangguan sakit kepala untuk meninjau kelayakan klinis dan menentukan kriteria seleksi pasien yang sesuai
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisipan pakej NPRA (amaran dan kontraindikasi) untuk saringan keselamatan
+- Data mekanisme tindakan (MOA) yang terperinci, contohnya daripada DrugBank
+- Kajian atau data klinikal khusus untuk migrain dengan aura batang otak
+- Pengesahan status pendaftaran dan formulasi yang ada di Malaysia
+- Penilaian keselamatan hati, memandangkan kontraindikasi berkaitan hati yang dikenal pasti dalam graf pengetahuan
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

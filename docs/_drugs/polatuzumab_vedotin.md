@@ -2,7 +2,7 @@
 layout: default
 title: Polatuzumab Vedotin
 parent: Low Evidence (L4-L5)
-nav_order: 560
+nav_order: 587
 evidence_level: L5
 indication_count: 1
 ---
@@ -29,71 +29,74 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Polatuzumab Vedotin: Dari Limfoma Sel B Besar yang Tersebar kepada Karsinoma Payudara HER2 Positif
+# Polatuzumab Vedotin: Daripada Penggunaan Asal kepada Karsinoma Payudara HER2 Positif
 
 ## Ringkasan Satu Ayat
 
-Polatuzumab vedotin adalah konjugat antibodi-ubat (ADC) anti-CD79b yang diluluskan untuk limfoma sel B besar yang tersebar (DLBCL).
-Model TxGNN meramalkan ia mungkin berkesan untuk **Karsinoma Payudara HER2 Positif**, tetapi arah ini kini disokong oleh **0 percubaan klinikal** dan **0 penerbitan**, dan sasaran ubat (CD79b, komponen reseptor sel B) tidak mempunyai pertindihan mekanik yang diketahui dengan biologi tumor epitelial yang didorong HER2.
+Polatuzumab vedotin ialah konjugat antibodi-ubat (ADC) yang menyasarkan CD79b dan menghantar agen pengganggu mikrotubul MMAE. Model TxGNN meramalkan ia mungkin berkesan untuk **karsinoma payudara HER2 positif**, tetapi data yang dikumpulkan untuk laporan ini menunjukkan **0 ujian klinikal** dan **0 penerbitan** yang menyokong arah ini; ramalan ini hanya berasaskan model.
 
 ## Gambaran Keseluruhan Pantas
 
 | Item | Kandungan |
-|------|----------|
-| Indikasi Asal | Limfoma Sel B Besar yang Tersebar (DLBCL) *(bersumber daripada teks rasional mekanik; teks indikasi lesen TFDA/NPRA formal belum lagi diperolehi — lihat Maklumat Pasaran Malaysia)* |
-| Indikasi Baru yang Diramalkan | Karsinoma Payudara HER2 Positif |
+|------|------|
+| Indikasi Asal | Tiada data indikasi yang diluluskan di Malaysia |
+| Indikasi Baharu yang Diramalkan | Karsinoma payudara HER2 positif |
 | Skor Ramalan TxGNN | 99.34% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 2 |
-| Keputusan yang Disyorkan | Tahan |
+| Status Pasaran Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan yang Disyorkan | Hold |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme-tindakan terperinci untuk polatuzumab vedotin tidak sepenuhnya tersedia dalam pakej bukti ini, tetapi rekod rasional asas menunjukkan ia adalah konjugat antibodi-ubat yang menyasarkan CD79b, komponen kompleks reseptor sel B, dan ia diluluskan untuk limfoma sel B besar — keganasan hematologi asal sel B.
+Data mekanisme tindakan asal tidak tersedia dalam rekod yang dikumpulkan. Berdasarkan pengetahuan am, polatuzumab vedotin ialah ADC yang menyasarkan CD79b, komponen reseptor sel B yang terdapat pada sel B normal dan malignan, lalu menghantar MMAE, agen yang mengganggu mikrotubul.
 
-Karsinoma payudara HER2 positif, sebaliknya, didorong oleh amplifikasi dan ekspresi berlebihan HER2/ERBB2, kinase tirosin reseptor yang diekspresikan pada sel tumor epitelial. Tiada pertindihan biologi yang mantap antara biologi CD79b/antigen sel B dan isyarat epitelial yang didorong HER2, dan sel kanser payudara tidak diketahui mengekspreskan CD79b.
+Pertalian yang mungkin hanyalah muatan sitotoksik MMAE, yang turut digunakan dalam ADC lain (contohnya brentuximab vedotin) dan secara teori boleh menjejaskan sel tumor pepejal yang membahagi dengan cepat. Namun, CD79b bukan sasaran yang diiktiraf dalam karsinoma payudara HER2 positif. Pertalian ini juga tidak khusus kepada biologi HER2 dan bergantung pada pengambilan ubat yang bebas daripada CD79b, yang belum dibuktikan.
 
-Memandangkan ketiadaan sebarang jambatan mekanik yang munasabah, skor TxGNN yang tinggi (99.34%) tidak disokong oleh biologi, percubaan klinikal, atau literatur. Pakej bukti itu sendiri menandai ini sebagai **ramalan model positif palsu** yang berkemungkinan besar daripada isyarat penjadian semula yang tulen.
+Skor TxGNN yang tinggi (0.993) ialah ramalan model semata-mata dan tiada ujian atau penerbitan dalam data yang disediakan menyokongnya. Terapi sasaran HER2 yang telah diluluskan (trastuzumab, pertuzumab, T-DM1, trastuzumab deruxtecan) sudah meliputi keadaan ini dengan bukti klinikal yang kukuh.
 
-## Bukti Percubaan Klinikal
+## Bukti Ujian Klinikal
 
-Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ## Bukti Literatur
 
-Pada masa ini tiada literatur berkaitan yang tersedia
+Pada masa ini tiada literatur berkaitan tersedia.
 
-## Maklumat Pasaran Malaysia
+## Safety Considerations (Pertimbangan Keselamatan)
 
-Rekod NPRA mengesahkan 2 pendaftaran aktif untuk polatuzumab vedotin ("Dipasarkan" status pasaran), tetapi nombor lesen, nama produk, bentuk dos, dan teks indikasi yang diluluskan tidak dikembalikan dalam pengambilan data ini — pengambilan rekod lesen lengkap diperlukan (lihat Jurang Data DG001) sebelum jadual ini boleh dilengkapkan.
+### Interaksi Ubat
 
-## Sitotoksisiti
+Pertanyaan interaksi ubat telah selesai dengan **100 interaksi** dikesan. Senarai yang dipaparkan merangkumi 20 yang pertama; antaranya:
 
-| Item | Kandungan |
-|------|----------|
-| Klasifikasi Sitotoksisiti | Terapi yang disasarkan — konjugat antibodi-ubat (ADC) yang membawa muatan perencat mikrotubl sitotoksik |
-| Risiko Myelosuppression | Sila rujuk amaran dan tindakan berjaga dalam sisipan pakej |
-| Klasifikasi Emetogenisiti | Sila rujuk amaran dan tindakan berjaga dalam sisipan pakej |
-| Item Pemantauan | Sila rujuk amaran dan tindakan berjaga dalam sisipan pakej |
-| Perlindungan Pengendalian | Mesti mematuhi peraturan pengendalian ubat sitotoksik (ADC dengan muatan sitotoksik) |
+**Tahap Major:**
+- Clarithromycin
+- Cobicistat
+- Deferiprone
+- Samarium (153Sm) lexidronam
 
-## Pertimbangan Keselamatan
+**Tahap Moderate (sebahagian):**
+- Aprepitant, Cimetidine, Naltrexone, Metronidazole, Miconazole
+- Rosuvastatin, Simvastatin, Ticagrelor
+- Chloroquine, Hydroxychloroquine, Disulfiram
+- Tinidazole, Secnidazole, Benznidazole, Clotrimazole, Strontium chloride Sr-89
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
+Untuk maklumat amaran utama dan kontraindikasi, sila rujuk risalah maklumat produk.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
 **Rasional:**
-Tiada bukti percubaan klinikal atau literatur untuk indikasi ini, dan pautan mekanik yang dicadangkan antara aktiviti ADC yang disasarkan CD79b dan karsinoma payudara yang didorong HER2 adalah biologi yang tidak munasabah — pakej bukti itu sendiri mengenalpasti ini sebagai ramalan TxGNN positif palsu yang berkemungkinan besar. Calon ini tidak memenuhi bar untuk maju melampaui S0.
+- Ramalan ini berada pada tahap bukti L5 (ramalan model sahaja) tanpa sebarang ujian klinikal atau penerbitan. CD79b bukan sasaran dalam kanser payudara HER2 positif, dan terapi HER2 sedia ada sudah mempunyai bukti kukuh. Ubat ini juga tidak berdaftar di Malaysia.
 
-**Untuk meneruskan, perkara berikut diperlukan:**
-- Sisipan pakej TFDA/NPRA (amaran, kontraindikasi) untuk menutup Jurang Data DG001
-- Data mekanisme-tindakan penuh yang disahkan melalui DrugBank untuk menutup Jurang Data DG002
-- Sebarang bukti praklinikal ekspresi CD79b dalam tumor payudara HER2 positif, tanpanya calon ini sepatutnya mungkin diprioritaskan semula daripada dimajukan
-
+**Untuk meneruskan, perlu dilengkapkan:**
+- Data amaran dan kontraindikasi daripada risalah maklumat produk NPRA (jurang yang menghalang pemeriksaan keselamatan peringkat seterusnya)
+- Data mekanisme tindakan terperinci daripada DrugBank
+- Bukti praklinikal bahawa MMAE atau ADC ini aktif dalam model kanser payudara HER2 positif tanpa bergantung pada CD79b
+- Kajian perbandingan dengan terapi sasaran HER2 sedia ada
+- Penilaian keserasian laluan pemberian dan persamaan dengan indikasi asal (masih belum dinilai)
+- Penilaian status pendaftaran dan akses di Malaysia
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

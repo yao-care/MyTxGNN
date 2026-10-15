@@ -2,7 +2,7 @@
 layout: default
 title: Azithromycin Dihydrate
 parent: Low Evidence (L4-L5)
-nav_order: 113
+nav_order: 118
 evidence_level: L5
 indication_count: 0
 ---

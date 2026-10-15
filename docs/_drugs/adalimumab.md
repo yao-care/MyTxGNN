@@ -29,114 +29,111 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-# Adalimumab: Daripada Reumatoid Artritis kepada Penyakit Radang Usus
+# Adalimumab: Daripada Penyakit Crohn kepada Penyakit Radang Usus (IBD)
 
 ## Ringkasan Satu Ayat
 
-Adalimumab (Humira; DrugBank DB00051) ialah antibodi monoklonal manusia sepenuhnya yang menyasarkan TNF-α, pertama diluluskan untuk rawatan reumatoid artritis (FDA, 2002), dan merupakan salah satu ubat-ubatan biologi yang paling banyak dijual di seluruh dunia.
-Model TxGNN menempatan **Penyakit Radang Usus (IBD)** — merangkumi Penyakit Crohn (CD) dan Kolitis Ulseratif (UC) — sebagai petunjuk ubat baru yang terduga utamanya.
-Dengan **50 ujian klinikal berdaftar** dan **20 penerbitan** yang dikenal pasti dalam pakej bukti ini, dan kelulusan FDA yang sudah ada untuk CD (2007) dan UC (2012), asas bukti adalah antara yang paling teguh dalam terapi biologi.
+Adalimumab ialah antibodi monoklonal manusia penentang TNF-alfa. Ia digunakan untuk penyakit autoimun seperti penyakit Crohn, kolitis ulseratif, artritis reumatoid dan hidradenitis suppurativa. Model TxGNN meramalkan ia berkesan untuk **penyakit radang usus (inflammatory bowel disease, IBD)**, dengan **26 percubaan klinikal** dan **20 penerbitan** dalam data yang dikumpulkan untuk laporan ini.
+
+> **Nota penting:** IBD (termasuk penyakit Crohn dan kolitis ulseratif) sudah tersenarai antara indikasi asal adalah adalimumab. Ini lebih tepat disifatkan sebagai pengesahan indikasi sedia ada daripada pemindahan guna (*repurposing*) yang sebenar.
 
 ---
 
-## Gambaran Umum Pantas
+## Gambaran Ringkas
 
 | Perkara | Kandungan |
-|--------|----------|
-| Petunjuk Asal | Reumatoid Artritis (butiran pendaftaran Malaysia tidak tersedia dalam data semasa) |
-| Petunjuk Ubat Baru yang Diramalkan | Penyakit Radang Usus (Penyakit Crohn & Kolitis Ulseratif) |
-| Skor Ramalan TxGNN | Tidak berkenaan (data skor mentah tidak tersedia) |
+|------|------|
+| Indikasi Asal | Penyakit Crohn, kolitis ulseratif, artritis reumatoid, artritis psoriatik, spondilitis ankilosis, hidradenitis suppurativa, uveitis bukan berjangkit dan lain-lain (berdasarkan graf pengetahuan; tiada rekod pendaftaran tempatan untuk dirujuk) |
+| Indikasi Baharu yang Diramal | Penyakit radang usus (inflammatory bowel disease) |
+| Skor Ramalan TxGNN | 0.00% |
 | Tahap Bukti | L1 |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 12 |
-| Keputusan yang Disyorkan | Teruskan dengan Penjaga |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
+
+Skor ramalan TxGNN ialah 0.00%, jadi isyarat ramalan model tidak menyokong cadangan ini. Sokongan sebenar datang daripada bukti klinikal sedia ada.
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Adalimumab ialah antibodi monoklonal IgG1 manusia sepenuhnya yang mengikat dengan afiniti tinggi kepada bentuk TNF-α yang larut dan transmembran, menyekat interaksinya dengan reseptor TNFR1 dan TNFR2. Penyekatan ini menindas pengaktifan laluan NF-κB hiliran, mengurangkan pengeluaran sitokin pro-radang dan perekrutan sel imun. Dipbangunkan pada asalnya untuk reumatoid artritis — penyakit yang didorong Th1/TNF-α bagi tisu sinovial — jalan tindakan molekul yang sama adalah pusat kepada patofisiologi IBD.
+Data mekanisme tindakan terperinci tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, adalimumab menawarkan TNF-alfa terlarut dan TNF-alfa pada membran. Ia ialah antibodi IgG1 manusia sepenuhnya, dan TNF-alfa ialah sitokin utama dalam keradangan imun.
 
-Dalam kedua-dua Penyakit Crohn dan Kolitis Ulseratif, TNF-α dihasilkan secara berlebihan oleh makrofaj yang diaktifkan dan sel Th1 dalam lamina propria usus, mendorong kerosakan halangan epitelium mukosa, penetapan penembusan sel imun, dan fibrosis usus yang berkembang. Tindanan mekanistik antara peradangan yang dimediasi TNF-α pada sendi dan usus telah ditegakkan dengan baik, memberikan asas saintifik yang kuat untuk keberkesanan merentasi kedua-dua sistem organ. Ramalan ini telah disahkan secara klinikal: adalimumab menerima kelulusan FDA untuk Penyakit Crohn sederhana hingga teruk pada 2007, diikuti oleh Kolitis Ulseratif pada 2012, berdasarkan ujian RCT Fasa 3 pivotal. Kajian transkriptonik tunggal sel telah seterusnya mencirikan perubahan sel dalam tisu usus IBD berikutan rawatan adalimumab — mengenal pasti 109 keadaan sel yang berbeza dan mendedahkan modulasi imun spesifik penyakit merentasi subtip CD dan UC. Oleh itu, ramalan teratas model TxGNN untuk IBD sejajar secara langsung dengan landskap kelulusan klinikal yang ditegakkan ubat, mengesahkan kebolehiaan mekanistik.
+Dalam penyakit Crohn dan kolitis ulseratif, TNF-alfa mendorong keradangan mukosa usus. Menyekatnya mengurangkan isyarat sitokin radang dan menggalakkan penyembuhan mukosa. Kajian ulasan dalam data menyokong ini: terapi anti-TNF telah mantap untuk penyakit seperti artritis reumatoid dan penyakit radang usus.
 
----
-
-## Bukti Ujian Klinikal
-
-| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
-|-------------|------|--------|------------|--------------|
-| [NCT00408629](https://clinicaltrials.gov/study/NCT00408629) | Fasa 3 | Selesai | 518 | Ujian RCT rawak buta berganda terkawal plasebo pivotal yang menunjukkan keberkesanan dan keselamatan adalimumab untuk aruhan dan penyelenggaraan remisi dalam Kolitis Ulseratif sederhana hingga teruk secara aktif |
-| [NCT00409617](https://clinicaltrials.gov/study/NCT00409617) | Fasa 3 | Selesai | 945 | Kajian senarai terbuka berskala besar menilai keselamatan, hasil kualiti hidup, penyembuhan fistula, dan manifestasi ekstra-usus dari adalimumab dalam Penyakit Crohn sederhana hingga teruk |
-| [NCT00055497](https://clinicaltrials.gov/study/NCT00055497) | Fasa 3 | Selesai | 276 | Ujian rawak buta berganda terkawal plasebo yang menunjukkan keberkesanan adalimumab dalam penyelenggaraan remisi klinikal dalam Penyakit Crohn sehingga 56 minggu |
-| [NCT02065557](https://clinicaltrials.gov/study/NCT02065557) | Fasa 3 | Selesai | 101 | Ujian RCT berbilang pusat menilai keberkesanan, keselamatan, dan farmakokinetik suntikan subkutaneus adalimumab dalam pesakit pediatrik dengan Kolitis Ulseratif sederhana hingga teruk |
-| [NCT00055523](https://clinicaltrials.gov/study/NCT00055523) | Fasa 2 | Selesai | 300 | Kajian awal terkawal plasebo yang menunjukkan keupayaan adalimumab untuk mendorong remisi klinikal dalam Penyakit Crohn aktif berbanding plasebo, membentuk asas bukti Fasa 2 yang asasi |
-| [NCT02738125](https://clinicaltrials.gov/study/NCT02738125) | Tidak berkenaan | Selesai | 265 | Kajian observasi dunia nyata berskala besar menilai keberkesanan jangka panjang adalimumab dalam pesakit UC menggunakan pendekatan masa-ke-acara untuk kehilangan manfaat klinikal |
-| [NCT06269185](https://clinicaltrials.gov/study/NCT06269185) | Tidak berkenaan | Selesai | 271 | Kohort berbilang pusat retrospektif membandingkan keberkesanan infliksimab jangka pendek dan jangka panjang berbanding adalimumab dalam pesakit UC; meta-analisis mencadangkan hasil dunia nyata yang setanding walaupun keunggulan IFX dalam aruhan RCT |
-| [NCT03917303](https://clinicaltrials.gov/study/NCT03917303) | Fasa 4 | Merekrut | 158 | Ujian Fasa 4 berkelanjutan menilai monoterapi episodik adalimumab sebagai rawatan garis pertama dalam Penyakit Crohn untuk menentukan sama ada terapi bertingkat boleh mencegah rawatan berlebihan pesakit berisiko rendah |
-| [NCT05598684](https://clinicaltrials.gov/study/NCT05598684) | Tidak berkenaan | Tidak diketahui | 600 | Kohort berbilang pusat prospektif (n=600) mengenal pasti faktor ramalan untuk ketahanan rawatan pada biosimilar adalimumab (Fresenius Kabi) dalam penyakit radang kronik termasuk IBD |
-| [NCT03710486](https://clinicaltrials.gov/study/NCT03710486) | Tidak berkenaan | Selesai | 409 | Kajian keberkesanan perbandingan dunia nyata vedolizumab berbanding ejen anti-TNF (termasuk adalimumab sebagai perbandingan) dalam pesakit UC dan CD pada ≥6 bulan selepas permulaan |
+Sebab itu ramalan ini munasabah dari segi mekanisme. IBD dan penyakit lain yang dirawat adalimumab berkongsi laluan keradangan bergantung TNF.
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Percubaan Klinikal
+
+Terdapat 26 percubaan berkaitan IBD. Antaranya, sekurang-kurangnya enam percubaan Fasa 3 telah selesai. Berikut 10 yang paling relevan:
+
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
+|---------|------|------|------|---------|
+| [NCT00055497](https://clinicaltrials.gov/study/NCT00055497) | Fasa 3 | Selesai | 276 | RCT buta dua, terkawal plasebo: mengekalkan remisi klinikal sehingga 56 minggu dalam penyakit Crohn |
+| [NCT00077779](https://clinicaltrials.gov/study/NCT00077779) | Fasa 3 | Selesai | 854 | RCT buta dua, terkawal plasebo: induksi dan pengekalan remisi (dua dos) dalam penyakit Crohn aktif |
+| [NCT02065622](https://clinicaltrials.gov/study/NCT02065622) | Fasa 3 | Selesai | 952 | RCT buta dua: dos tinggi berbanding standard dalam kolitis ulseratif sederhana hingga teruk |
+| [NCT00853099](https://clinicaltrials.gov/study/NCT00853099) | Fasa 3 | Selesai | 274 | RCT buta dua, terkawal plasebo dalam pesakit Jepun dengan kolitis ulseratif |
+| [NCT00409617](https://clinicaltrials.gov/study/NCT00409617) | Fasa 3 | Selesai | 945 | Label terbuka: keselamatan dan kesan terhadap kualiti hidup, penyembuhan fistula dalam penyakit Crohn |
+| [NCT01235689](https://clinicaltrials.gov/study/NCT01235689) | Fasa 3 | Selesai | 252 | Label terbuka: kawalan ketat (CDAI, biopenanda) berbanding kawalan biasa untuk penyembuhan mukosa |
+| [NCT02497469](https://clinicaltrials.gov/study/NCT02497469) | Fasa 3 | Selesai | 771 | Vedolizumab IV berbanding adalimumab SC dalam kolitis ulseratif selama 52 minggu |
+| [NCT03464136](https://clinicaltrials.gov/study/NCT03464136) | Fasa 3 | Selesai | 386 | Ustekinumab berbanding adalimumab dalam penyakit Crohn bagi pesakit naif biologik |
+| [NCT01564823](https://clinicaltrials.gov/study/NCT01564823) | Fasa 3 | Selesai | 86 | Adalimumab berbanding azatioprina untuk mencegah kekambuhan endoskopik selepas pembedahan Crohn |
+| [NCT00517296](https://clinicaltrials.gov/study/NCT00517296) | Fasa 4 | Selesai | 21 | Rawatan berpandukan EUS untuk fistula perianal Crohn; sampel kecil |
+
+---
+
+## Bukti Literatur
+
+Data yang dikumpulkan tidak mengandungi RCT dalam bentuk penerbitan. Kebanyakan ialah ulasan, kajian sistematik dan kajian kohort.
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|------|------|--------|-------------|
-| [38985232](https://pubmed.ncbi.nlm.nih.gov/38985232/) | 2024 | Ulasan Sistematik/Meta-analisis | Inflammopharmacology | Meta-analisis komprehensif membandingkan keberkesanan dan keselamatan infliksimab dan adalimumab dalam UC dan CD; kedua-dua ejen menunjukkan manfaat klinikal yang signifikan dalam IBD sederhana hingga teruk |
-| [40088372](https://pubmed.ncbi.nlm.nih.gov/40088372/) | 2025 | Ulasan Sistematik/Meta-analisis | Inflammopharmacology | Ulasan sistematik dan meta-analisis bertolak belakang membandingkan keberkesanan, keselamatan, dan ketahanan rawatan vedolizumab berbanding adalimumab merentasi populasi IBD |
-| [39438660](https://pubmed.ncbi.nlm.nih.gov/39438660/) | 2024 | Kohort (Tunggal-sel) | Nature Immunology | Atlas terapeutik ~1 juta transkriptom sel tunggal daripada 216 sampel biopsi usus dalam 41 subjek IBD yang dirawat dengan adalimumab (anti-TNF); mengenal pasti 109 keadaan sel dan perbezaan CD/UC-spesifik dalam tindak balas rawatan |
-| [27567553](https://pubmed.ncbi.nlm.nih.gov/27567553/) | 2018 | Ulasan Mekanisme | Cytokine | Analisis perbandingan mekanisme molekul ejen anti-TNF-α, menerangkan profil ikatan pembezaan adalimumab, infliksimab, golimumab, sertolizumab, dan etanersept kepada TNF-α larut vs. transmembran |
-| [31039560](https://pubmed.ncbi.nlm.nih.gov/31039560/) | 2019 | Kohort | Digestive Diseases | Menunjukkan hubungan antara tahap palung serum adalimumab dan keberkesanan klinikal dalam IBD; menubuhkan kerangka kerja pemantauan ubat terapeutik (TDM) untuk optimasi dos |
-| [32032073](https://pubmed.ncbi.nlm.nih.gov/32032073/) | 2020 | Ulasan Sistematik/Meta-analisis | American Journal of Gastroenterology | Meta-analisis menilai risiko TB dalam pesakit IBD menerima infliksimab atau adalimumab; risiko bergantung kepada beban penyakit TB tempatan — relevan secara langsung kepada epidemiologi TB Malaysia |
-| [34388361](https://pubmed.ncbi.nlm.nih.gov/34388361/) | 2021 | Ulasan | Lancet Gastroenterology & Hepatology | Ulasan pakar mengenai biosimilar adalimumab dalam IBD, menangani kebolehtukaran klinikal, keselamatan pertukaran, dan implikasi akses farmakoekonomik |
-| [37847820](https://pubmed.ncbi.nlm.nih.gov/37847820/) | 2024 | Kohort | Inflammatory Bowel Diseases | Corak penggunaan anti-TNF (termasuk adalimumab) dalam IBD bermula awal sekali (<6 tahun); dilaporkan isyarat keselamatan dan keberkesanan yang setanding walaupun kekurangan kelulusan pediatrik formal dalam subkumpulan ini |
-| [30864505](https://pubmed.ncbi.nlm.nih.gov/30864505/) | 2019 | Ulasan | Current Pharmaceutical Design | Ulasan komprehensif mengenai kesiapan biosimilar adalimumab dalam amalan klinikal IBD, termasuk bukti ekstrapolasi merentasi petunjuk dan pertimbangan protokol pertukaran |
-| [37070385](https://pubmed.ncbi.nlm.nih.gov/37070385/) | 2023 | Kohort | Expert Opinion on Biological Therapy | Perbandingan dunia nyata Australia bagi adalimumab originator berbanding biosimilar dalam IBD; menyoroti perbezaan dalam reka bentuk peranti suntikan, formulasi bebas sitrat, dan faktor kepuasan pesakit relevan kepada pembuatan keputusan preskriptor |
-
----
-
-## Maklumat Pasaran Malaysia
-
-Rekod Agensi Peraturan Farmaseutikal Kebangsaan (NPRA) menunjukkan Adalimumab memegang **12 pendaftaran aktif** di Malaysia dengan status pasaran yang disahkan. Bagaimanapun, butiran produk individu — termasuk nombor kebenaran, nama produk, bentuk dos, pengilang, dan teks petunjuk kelulusan — tidak tersedia dalam ekstrak data semasa.
-
-Sila rujuk pangkalan data dalam talian NPRA (https://www.npra.gov.my/) secara langsung untuk mendapatkan butiran pendaftaran lengkap dan mengesahkan petunjuk IBD khusus (Penyakit Crohn dan/atau Kolitis Ulseratif) yang disertakan dalam maklumat preskripsi yang diluluskan tempatan.
+|------|-----|------|------|---------|
+| [38985232](https://pubmed.ncbi.nlm.nih.gov/38985232/) | 2024 | Ulasan | Inflammopharmacology | Keberkesanan dan keselamatan infliksimab dan adalimumab dalam IBD sederhana hingga teruk |
+| [24831559](https://pubmed.ncbi.nlm.nih.gov/24831559/) | 2014 | Kajian sistematik dan meta-analisis | Inflamm Bowel Dis | Hubungan antara farmakokinetik adalimumab dan respons klinikal dalam IBD |
+| [37300512](https://pubmed.ncbi.nlm.nih.gov/37300512/) | 2024 | Kajian sistematik dan meta-analisis | Inflamm Bowel Dis | Keselamatan terapi biologik dan molekul kecil untuk IBD dalam penerima transplan organ pepejal |
+| [36508920](https://pubmed.ncbi.nlm.nih.gov/36508920/) | 2023 | Ulasan | Int Immunopharmacol | Bukti terkini dan perspektif terapi kombinasi dalam IBD |
+| [39382556](https://pubmed.ncbi.nlm.nih.gov/39382556/) | 2024 | Ulasan | Expert Rev Gastroenterol Hepatol | Pemantauan ubat terapeutik disyorkan untuk pesakit IBD yang hilang respons terhadap anti-TNF |
+| [38493113](https://pubmed.ncbi.nlm.nih.gov/38493113/) | 2024 | Ulasan | J Transl Med | Biopenanda peramal respons terhadap terapi anti-TNF alfa dalam IBD |
+| [27567553](https://pubmed.ncbi.nlm.nih.gov/27567553/) | 2018 | Ulasan | Cytokine | Perbandingan mekanisme molekul antara agen antagonis TNF-alfa |
+| [37070385](https://pubmed.ncbi.nlm.nih.gov/37070385/) | 2023 | Kohort | Expert Opin Biol Ther | Adalimumab asal berbanding biosimilar dalam IBD di Australia; tiada kelebihan klinikal bagi biosimilar |
+| [30645725](https://pubmed.ncbi.nlm.nih.gov/30645725/) | 2019 | Kajian multipusat | Indian J Gastroenterol | Keberkesanan dan keselamatan biosimilar adalimumab dalam penyakit Crohn dan kolitis ulseratif |
+| [34849649](https://pubmed.ncbi.nlm.nih.gov/34849649/) | 2022 | Kajian klinikal | J Crohns Colitis | Dinamik serum-usus bagi infliksimab dan adalimumab dalam pesakit IBD |
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk risalah pembungkusan untuk maklumat keselamatan.
+**Interaksi Ubat**: Pangkalan data interaksi merekodkan 100 interaksi. Antara yang paling ketara:
 
-> **Nota penting untuk penggunaan klinikal:** Maklumat terperinci mengenai amaran utama, kontraindikasi, dan data interaksi ubat telah dikenal pasti sebagai jurang data dalam pakej bukti ini. Sebelum sebarang keputusan klinikal atau formulari, isyarat keselamatan peringkat kelas anti-TNF berikut harus disahkan terhadap maklumat preskripsi yang diluluskan NPRA semasa:
->
-> - **Jangkitan serius dan reaktivasi TB**: Pemeriksaan TB wajib sebelum permulaan; risiko meningkat dalam tetapan beban TB pertengahan Malaysia (lihat PMID [32032073](https://pubmed.ncbi.nlm.nih.gov/32032073/))
-> - **Keganasan (limfoma, NMSC)**: Data pemantauan pasca-pemasaran jangka panjang menunjukkan risiko peningkatan, khususnya dengan imunosupresan konkomitan (tioupurin)
-> - **Gagal jantung**: Kontraindikasi dalam gagal jantung Kelas III/IV NYHA
-> - **Reaktivasi Hepatitis B**: Saring semua pesakit untuk HBV sebelum permulaan
->
-> *Sumber: Pencarian risalah produk NPRA disenaraikan sebagai langkah seterusnya yang diperlukan (lihat di bawah).*
+- **Tahap Major**:
+  - Kortikosteroid: betametason, budesonid, deksametason, hidrokortison, prednisolon, prednison, triamsinolon (termasuk bentuk oftalmik).
+  - Deferiprone.
+  - Radiofarmaseutikal: ibritumomab tiuxetan, iobenguane (I-131), tositumomab dan tositumomab (I-131).
+- **Tahap Moderate**: metronidazol, tinidazol, rosuvastatin, simvastatin.
+- **Tahap Minor**: garam zink (asetat, glukonat, sulfat).
+
+**Isyarat jangkitan**: Beberapa penerbitan yang diperoleh melaporkan jangkitan serius (termasuk tuberkulosis dan jangkitan mikobakteria) semasa terapi anti-TNF. Pemeriksaan jangkitan sebelum dan semasa rawatan perlu dipertimbangkan.
+
+Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej produk.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Teruskan dengan Penjaga**
+**Keputusan: Proceed with Guardrails (Teruskan dengan Langkah Kawalan)**
 
-**Alasan:**
-Keberkesanan adalimumab dalam Penyakit Radang Usus disokong oleh pelbagai ujian RCT Fasa 3 yang selesai dan disahkan oleh kelulusan FDA untuk Penyakit Crohn (2007) dan Kolitis Ulseratif (2012) — meletakkan ini pada tahap bukti tertinggi (L1). 12 pendaftaran Malaysia aktif mengesahkan ketersediaan komersial; bagaimanapun, data keselamatan dan petunjuk lengkap untuk label tempatan mesti disahkan sebelum sebarang keputusan akses formulari atau rawatan dimuktamadkan.
+**Justifikasi:**
+- Bukti klinikal kukuh dan langsung: beberapa RCT Fasa 3 yang selesai (dua daripadanya buta dua dan terkawal plasebo) dalam penyakit Crohn dan kolitis ulseratif, bersama tahap bukti L1.
+- Indikasi ini sudah tergolong dalam penggunaan sedia ada adalimumab, jadi ini bukan calon *repurposing* sebenar. Skor TxGNN sebanyak 0.00% menunjukkan model tidak menyokong ramalan ini, dan keputusan bergantung sepenuhnya pada bukti klinikal.
+- Produk ini tidak dipasarkan dan tiada pendaftaran di Malaysia, serta data keselamatan label belum lengkap.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-
-- **[Kritikal]** Muat turun dan analisis PDF risalah produk NPRA untuk semua 12 produk Adalimumab berdaftar untuk mengekstrak petunjuk kelulusan, amaran utama, dan kontraindikasi (menyelesaikan DG001)
-- **[Tinggi]** Pertanyaan API DrugBank untuk DB00051 untuk mendapatkan profil mekanisme tindakan lengkap, profil farmakodinamik, dan data interaksi ubat (menyelesaikan DG002)
-- **[Diperlukan]** Sahkan sama ada petunjuk IBD (CD dan UC secara berasingan) disenaraikan secara eksplisit dalam pelabelan yang diluluskan Malaysia, atau sama ada protokol penggunaan luar label terpakai
-- **[Disyorkan]** Memandangkan beban TB Malaysia, tetapkan protokol pra-pemeriksaan TB tempatan yang sejajar dengan garis panduan TB nasional sebelum sebarang permulaan adalimumab untuk IBD
-- **[Disyorkan]** Untuk IBD pediatrik atau pesakit hamil, kompil ringkasan risiko-manfaat populasi khusus yang menggunakan data PMID [37847820](https://pubmed.ncbi.nlm.nih.gov/37847820/) dan NCT02065557
-
----
-
-> ⚠️ **Penafian:** Laporan ini adalah untuk tujuan rujukan penyelidikan sahaja dan tidak merupakan nasihat perubatan. Semua calon ubat baru ubat memerlukan pengesahan klinikal sebelum aplikasi. Dokumen ini harus disemak oleh ahli farmasi klinikal dan doktor yang berkelayakan sebelum sebarang keputusan rawatan atau formulari.
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Memuat turun dan menghurai sisipan pakej daripada NPRA untuk amaran dan kontraindikasi.
+- Mengesahkan status pendaftaran adalimumab (dan biosimilarnya) di Malaysia.
+- Melengkapkan data mekanisme tindakan terperinci (MOA) daripada DrugBank.
+- Menyediakan pelan pemantauan keselamatan, termasuk saringan jangkitan (cth. tuberkulosis dan hepatitis B) dan semakan interaksi dengan kortikosteroid serta ubat lain yang dipakai bersama.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

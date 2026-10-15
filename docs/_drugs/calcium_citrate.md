@@ -2,7 +2,7 @@
 layout: default
 title: Calcium Citrate
 parent: Low Evidence (L4-L5)
-nav_order: 181
+nav_order: 186
 evidence_level: L5
 indication_count: 4
 ---
@@ -29,95 +29,81 @@ Tahap bukti: **L5** | Indikasi diramal: **4**
 
 </div>
 
-# Kalsium Sitrat: Daripada Suplemen Kalsium kepada Hemoglobinopatia
+# Kalsium Sitrat: Daripada Suplemen Kalsium kepada Hemoglobinopati
 
 ## Ringkasan Satu Ayat
 
-> Kalsium Sitrat (DrugBank DB11093) ialah suplemen mineral kalsium yang dipasarkan di Malaysia di bawah 48 pendaftaran NPRA, walaupun tiada teks petunjuk yang diluluskan khusus atau data mekanisme tindakan yang tersedia pada masa kini dalam pakej bukti ini.
-> Ramalan model TxGNN teratas mencadangkan kemungkinan kekaitan dengan **Hemoglobinopatia**, dengan skor keyakinan **99.37%**, tetapi ini pada masa kini hanya disokong oleh **4 penerbitan** (kebanyakannya melibatkan ubat yang mengandungi sitrat yang tidak berkaitan) dan **0 percubaan klinikal**.
-> Kualiti bukti ialah peringkat terendah (L5), dan semakan bukti itu sendiri menanda ramalan ini sebagai kemungkinan artifak graf pengetahuan dan bukannya isyarat mekanik yang tulen.
+Kalsium sitrat ialah suplemen kalsium yang digunakan untuk membetulkan kekurangan kalsium. Model TxGNN meramalkan ia mungkin berkesan untuk **hemoglobinopati**, tetapi pada masa ini terdapat **0 percubaan klinikal** dan **0 penerbitan** yang menyokong arah ini, jadi ramalan ini hanya berasaskan model.
 
 ---
 
-## Gambaran Keseluruhan Cepat
+## Gambaran Ringkas
 
-| Item | Kandungan |
-|------|----------|
-| Petunjuk Asal | Tidak dinyatakan dalam data pendaftaran NPRA semasa (semua medan `approved_indication_text` kosong); Kalsium Sitrat diklasifikasikan secara umum sebagai suplemen kalsium oral |
-| Petunjuk Baru yang Diramalkan | Hemoglobinopatia |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Tiada indikasi diluluskan direkodkan dalam data yang dikompilasi (kalsium sitrat dikenali sebagai suplemen kalsium) |
+| Indikasi Baharu yang Diramalkan | Hemoglobinopati |
 | Skor Ramalan TxGNN | 99.37% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Marketed) |
-| Bilangan Pendaftaran | 48 |
-| Keputusan yang Disyorkan | Hold |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci bagi Kalsium Sitrat tidak tersedia pada masa kini (jurang data DG002, keterukan Tinggi). Berdasarkan klasifikasi farmakologi umum, Kalsium Sitrat ialah formulasi garam kalsium yang digunakan sebagai suplemen kalsium oral — biasanya untuk kekurangan kalsium, bantuan pencegahan osteoporosis, atau pembetulan hipokalsemia. Kerana teks petunjuk yang diluluskan asal tidak diisi dalam ekstrak NPRA Malaysia semasa (jurang data, keterukan Menyekat — lihat DG001 di bawah), perbandingan tekstual langsung antara petunjuk asal dan diramalkan tidak dapat dibuat pada masa kini.
+Data mekanisme tindakan terperinci tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, kalsium sitrat ialah garam kalsium yang digunakan untuk menampung kekurangan kalsium. Hubungan mekanistik dengan hemoglobinopati tidak disokong oleh data yang dikompilasi.
 
-Lebih penting lagi, semakan bukti itu sendiri membuang keyakinan pada kebolehplausibilan mekanik bagi ramalan khusus ini. Walaupun TxGNN memberikan hemoglobinopatia skor keyakinan yang sangat tinggi (99.37%), tiada laluan langsung yang boleh dikenal pasti yang menghubungkan suplemen kalsium sitrat kepada hemoglobinopatia seperti penyakit sel sabit atau talasemia. Tiga daripada empat penerbitan sokongan menyangkut sebatian yang tidak berkaitan secara struktur yang hanya berkongsi perkataan "sitrat" dalam nama mereka — sitrat setiedil dan sitrat sildenafil — atau menghuraikan peranan sitrat sebagai antikoagulan semasa eratferesis, bukan kalsium sitrat bertindak sebagai agen terapeutik. Corak ini konsisten dengan artifak ko-kejadian rentetan/embedding dalam graf pengetahuan (ubat pelbagai "sitrat" yang tidak berkaitan berkelompok berhampiran nod berkaitan hemoglobinopatia), dan bukannya hipotesis penjalinan ubat semula yang berasaskan biologi.
+Satu rasional yang mungkin, misalnya isu kalsium atau kesihatan tulang pada talasemia atau penyakit sel sabit, hanyalah andaian dan tidak dibuktikan di sini. Skor TxGNN yang sangat tinggi (0.994) tidak disertai bukti klinikal atau literatur, maka ramalan ini perlu dianggap sebagai hipotesis sahaja.
 
-Tiga petunjuk calon lain dalam pakej bukti ini (infark miokard, penyakit trombotik, dan sindrom pemadaman kromosom) menunjukkan corak yang sama — skor TxGNN tinggi tanpa cerita mekanik yang konsisten dan searah (lihat "Ramalan Calon Lain" di bawah). Diambil secara keseluruhan, ini mencadangkan set ramalan semasa bagi Kalsium Sitrat harus diperlakukan sebagai penjanaan hipotesis sahaja, bukan sebagai asas untuk pembangunan klinikal lanjut pada masa kini.
+Ramalan lain dalam senarai (infarksi miokardium, pemadaman separa lengan pendek kromosom 16, penyakit trombotik) juga berada pada peringkat S0 tanpa bukti yang kukuh. Rujuk bahagian Kesimpulan.
 
 ---
 
 ## Bukti Percubaan Klinikal
 
-Pada masa kini tiada percubaan klinikal terkait yang didaftarkan.
+Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Literatur
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|-----|------|------|---------|
-| [15820939](https://pubmed.ncbi.nlm.nih.gov/15820939/) | 2005 | Kajian klinikal (ubat tidak berkaitan: sitrat sildenafil) | Haematologica | Melaporkan sitrat sildenafil (penghambat PDE5, bukan kalsium sitrat) untuk hipertensi paru-paru dalam pesakit talasemia/penyakit sel sabit |
-| [18067651](https://pubmed.ncbi.nlm.nih.gov/18067651/) | 2007 | Kohort/Siri kes | Transfusion Medicine | Meneliti perubahan selang QTc semasa eratferesis (prosedur pemisahan darah antikoagulan sitrat) dalam pesakit penyakit sel sabit; tidak menguji kalsium sitrat sebagai rawatan |
-| [23050671](https://pubmed.ncbi.nlm.nih.gov/23050671/) | 2013 | Kajian haiwan | Drug and Chemical Toxicology | Menyiasat laluan pengambilan besi dalam kardiomiosit talasemia-β tikus; membuat kesimpulan bahawa pengambilan bukan diurus oleh saluran kalsium, iaitu penemuan negatif untuk kaitan laluan kalsium |
-| [3119675](https://pubmed.ncbi.nlm.nih.gov/3119675/) | 1987 | Kajian in vitro (ubat tidak berkaitan: sitrat setiedil) | Journal of Clinical Pathology | Menguji sitrat setiedil (ubat aktif vaskular yang tidak berkaitan) dan oxpentifylline pada kebolehlenturan eritrosit sel sabit yang terdehidrasi secara in vitro |
+Pada masa ini tiada literatur berkaitan untuk hemoglobinopati.
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Perincian pendaftaran peringkat produk individu (nombor lesen, nama produk, pengilang, bentuk dos, dan teks petunjuk yang diluluskan) tidak diisi dalam ekstrak data NPRA semasa bagi mana-mana daripada 5 lesen sampel. Hanya angka agregat tersedia daripada NPRA: **48 jumlah pendaftaran** dan status **dipasarkan** (lihat Gambaran Keseluruhan Cepat di atas). Mendapatkan PDF label asas akan diperlukan untuk melengkapkan jadual ini (lihat jurang data DG001 dalam Kesimpulan di bawah).
+Kalsium sitrat tidak mempunyai pendaftaran NPRA yang direkodkan (0 lesen), maka tiada jadual produk dipaparkan.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
+**Interaksi Ubat**: Pertanyaan interaksi ubat telah selesai dengan **84 interaksi** direkodkan. Antara yang utama (sumber: DDInter):
+
+- **Major**: Dolutegravir, Bictegravir
+- **Moderate** (sebahagian): Doxycycline, Tetracycline, Alendronic acid, Risedronic acid, Ibandronate, Nifedipine, Amlodipine, Diltiazem, Hydrochlorothiazide, Chlorothiazide, Atenolol, Acebutolol, Betaxolol, Bisoprolol, Carvedilol, Baloxavir marboxil, Calcipotriol (topikal), Calcitriol (topikal)
+
+Untuk maklumat amaran dan kontraindikasi, sila rujuk risalah maklumat produk.
 
 ---
 
-## Ramalan Calon Lain
-
-Untuk kesempurnaan, tiga ramalan TxGNN tambahan telah disemak bersama hemoglobinopatia. Tiada satu pun pada masa kini menyokong keputusan melainkan Hold:
-
-| Pangkat | Petunjuk Diramalkan | Skor TxGNN | Tahap Bukti | Cadangan | Kaveat Utama |
-|------|----------------------|-------------|-----------------|-----------------|------------|
-| 2 | Infark Miokard | 99.18% | L4 | Hold | Percubaan klinikal melibatkan kalsium IV semasa pembedahan jantung/dialisis, bukan suplemen kalsium sitrat oral; beberapa kesusasteraan yang dipetik membangkitkan isyarat *risiko* kardiovaskular bagi suplemen kalsium dan bukannya manfaat |
-| 3 | Pemadaman separa lengan pendek kromosom 16 (16p−) | 99.09% | L5 | Hold | Sifar percubaan, sifar kesusasteraan; gangguan struktur kromosom dengan tiada pautan yang diketahui kepada metabolisme kalsium — kemungkinan positif palsu graf pengetahuan |
-| 4 | Penyakit Trombotik | 99.07% | L4 | Hold | Kesusasteraan sokongan menyangkut sitrat sebagai *antikoagulan* serantau (mengikat kalsium) — arah mekanik bertentangan daripada *suplemen* kalsium, yang secara teori mempromosikan koagulasi; isyarat yang bercanggah secara dalaman |
-
----
-
-## Kesimpulan dan Langkah Berikutnya
+## Kesimpulan dan Langkah Seterusnya
 
 **Keputusan: Hold**
 
-**Alasan:**
-Ramalan pangkat teratas (hemoglobinopatia) duduk pada peringkat bukti terendah (L5 — ramalan model sahaja), dengan sifar percubaan klinikal dan sokongan kesusasteraan yang dapat dikesan kembali kepada ubat "sitrat" yang tidak berkaitan dan bukannya kalsium sitrat itu sendiri, mencadangkan skor TxGNN kemungkinan artifak embedding/kolisi rentetan dan bukannya isyarat tulen. Secara berasingan, **jurang data keterukan Menyekat** (amaran label TFDA/NPRA yang hilang dan kontraindikasi, DG001) bermakna calon ini masih tidak dapat melengkapkan skrin keselamatan awal (S1), bebas daripada soalan keberkesanan.
+**Justifikasi:**
+- Ramalan hemoglobinopati berada pada tahap bukti L5 (ramalan model sahaja), tanpa percubaan klinikal, tanpa literatur dan tanpa hubungan mekanistik yang disokong data.
+- Ramalan kedua, infarksi miokardium (skor 99.18%, L4), hanya mempunyai bukti tidak langsung (kajian haiwan, kajian fisiologi dan ulasan umum), dan literatur menimbulkan kebimbangan keselamatan kardiovaskular berkaitan suplemen kalsium. Ramalan pemadaman separa kromosom 16 (L5) berkemungkinan artifak model, manakala penyakit trombotik (L5) hanyalah hipotesis kerana kalsium sitrat oral tidak dijangka memberi kesan antitrombotik.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Dapatkan peringatan dan kontraindikasi label produk rasmi/sisipan untuk produk kalsium sitrat berdaftar Malaysia (DG001, Menyekat — pada masa kini menyekat skrin keselamatan S1)
-- Dapatkan data mekanisme tindakan terperinci daripada DrugBank atau sumber farmakologi berwibawa lain (DG002, Tinggi)
-- Sahkan petunjuk yang diluluskan asal dengan membuat soal semula NPRA dengan pengekstrakan medan lengkap (rekod lesen semasa mengembalikan teks petunjuk kosong)
-- Jalankan carian kesusasteraan yang ditujui dan tidak ambil alih pada "kalsium sitrat" DAN "penyakit sel sabit"/"talasemia" (mengecualikan ubat garam sitrat yang tidak berkaitan) untuk menentukan sama ada mana-mana isyarat tulen wujud di bawah artifak graf pengetahuan yang jelas
-- Jika mana-mana calon dimajukan, utamakan penyelesaian arah mekanik yang bercanggah secara dalaman yang dilihat dalam ramalan penyakit trombotik sebelum pelaburan lanjut
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Risalah maklumat produk NPRA untuk amaran dan kontraindikasi (jurang data yang menghalang saringan keselamatan)
+- Data mekanisme tindakan (MOA) daripada DrugBank
+- Maklumat indikasi asal yang diluluskan dan status pendaftaran tempatan
+- Kajian pra-klinikal atau klinikal yang menyokong sebarang indikasi baharu sebelum pertimbangan lanjut
+- Penilaian keselamatan kardiovaskular sekiranya indikasi infarksi miokardium dipertimbangkan
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

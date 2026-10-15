@@ -2,15 +2,15 @@
 layout: default
 title: Carboplatin
 parent: High Evidence (L1-L2)
-nav_order: 194
-evidence_level: L1
+nav_order: 199
+evidence_level: L2
 indication_count: 10
 ---
 
 # Carboplatin
 {: .fs-9 }
 
-Tahap bukti: **L1** | Indikasi diramal: **10** 
+Tahap bukti: **L2** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,86 +29,142 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Carboplatin: Daripada Kanser Ovari ke Karsinoma Payudara Wanita
+# Carboplatin: Daripada Penggunaan Asal kepada Karsinoma Payudara Wanita
 
 ## Ringkasan Satu Ayat
 
-Carboplatin ialah agen kemoterapi berasaskan platinum yang secara klasik digunakan untuk merawat kanser ovari dan tumor pepejal lain. Model TxGNN meramalkan ia mungkin berkesan untuk **Karsinoma Payudara Wanita**, dengan **17 percubaan klinikal** dan **20 penerbitan** yang pada masa ini menyokong arah ini, terutamanya dalam subtip negatif tiga dan berkaitan-BRCA.
+Data yang dikumpulkan untuk laporan ini tidak mencatatkan indikasi asal bagi carboplatin kerana rekod pendaftaran NPRA kosong. Carboplatin ialah agen platinum yang merosakkan DNA dan digunakan secara meluas dalam onkologi.
+Model TxGNN meramalkan ia mungkin berkesan untuk **karsinoma payudara wanita**, dengan **43 ujian klinikal** dan **20 penerbitan** yang ditemui untuk arah ini.
+Ramalan ini lebih tepat dilihat sebagai penggunaan yang sudah mantap (di luar label atau disokong garis panduan) berbanding calon repurposing baharu.
 
-## Gambaran Keseluruhan Cepat
+---
+
+## Gambaran Ringkas
 
 | Perkara | Kandungan |
 |------|------|
-| Petunjuk Asal | Kanser ovari (kelas kemoterapi berasaskan platinum; teks petunjuk yang diluluskan NPRA khusus tidak tersedia dalam data lesen semasa) |
-| Petunjuk Baru yang Diramalkan | Karsinoma Payudara Wanita |
+| Indikasi Asal | Tiada data (tiada rekod indikasi diluluskan dalam data pendaftaran) |
+| Indikasi Baharu yang Diramal | Karsinoma payudara wanita |
 | Skor Ramalan TxGNN | 99.86% |
-| Tahap Bukti | L1 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 3 |
-| Keputusan yang Disyorkan | Teruskan dengan Pengawalan |
+| Tahap Bukti | L2 |
+| Status Pasaran di Malaysia | Tidak dipasarkan (menurut data yang dikumpulkan; kemungkinan ralat data) |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Proceed with Guardrails |
+
+> **Nota:** Data pendaftaran menunjukkan "tidak dipasarkan" dan tiada lesen. Ini kemungkinan jurang data, kerana carboplatin diketahui digunakan secara meluas dalam onkologi. Pengesahan terus dengan NPRA diperlukan.
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan terperinci tidak tersedia (jurang data: pertanyaan DrugBank tertunda). Berdasarkan maklumat yang diketahui, Carboplatin ialah agen penataan silang DNA generasi kedua berasaskan platinum, yang berkaitan dari segi struktur dan mekanisme dengan cisplatin. Keberkesanannya dalam kanser ovari dan tumor pepejal lain yang sensitif platinum sudah mapan, dan dari segi mekanisme ia mungkin boleh digunakan untuk karsinoma payudara wanita.
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia daripada pangkalan data. Berdasarkan pengetahuan sedia ada, carboplatin ialah agen platinum yang membentuk ikatan silang DNA. Ia terbukti berkesan dalam beberapa kanser, dan secara mekanistik mungkin sesuai untuk kanser payudara.
 
-Rasional utama yang menghubungkan kedua-dua petunjuk ialah kekurangan pemulihan homologi (HRD): Carboplatin membentuk penataan silang DNA antara untai dan dalam untai yang amat merbahaya bagi tumor yang tidak dapat memperbaiki pemecahan untai ganda melalui pemulihan homologi (cth., tumor berkaitan-BRCA1/2). Kanser payudara negatif tiga (TNBC) dan kanser payudara berkaitan-BRCA berkongsi profil biopenanda HRD ini dengan kanser ovari, memberikan asas biologi yang kuat — satu bentuk "kematian sintetik" — untuk memanjangkan terapi platinum daripada kanser ovari ke subtip kanser payudara ini.
+Ia amat relevan dalam kanser payudara triple-negative (TNBC) dan kanser payudara dengan kekurangan BRCA. Dalam tumor ini, kekurangan pembaikan rekombinasi homolog meningkatkan kepekaan terhadap kerosakan DNA akibat platinum.
 
-Pautan mekanisme ini disokong lagi oleh badan data percubaan praoperasi yang luas (GeparSixto, NeoSTOP, CamRelief) yang menunjukkan bahawa menambahkan carboplatin ke rangka kemoterapi standard meningkatkan kadar tindak balas lengkap patologi dalam TNBC dan kanser payudara awal HER2-positif, mengukuhkan kebolehpercayaan ramalan TxGNN.
+Selain itu, calon ini turut disokong oleh data ramalan lain yang berkaitan, seperti sindrom kanser payudara-ovari berketurunan, yang mempunyai asas mekanistik kukuh berkaitan mutasi BRCA1/2.
 
-## Bukti Percubaan Klinikal
+---
 
-| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
+## Bukti Ujian Klinikal
+
+Berikut ialah 10 ujian yang paling relevan daripada 43 ujian yang ditemui.
+
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT02978495](https://clinicaltrials.gov/study/NCT02978495) | Fasa 2 | Selesai | 154 | Percubaan NACATRINE: carboplatin praoperasi khusus dikaji dalam kanser payudara negatif tiga (TNBC), subtip yang diperkaya untuk mutasi germline BRCA1/2 |
-| [NCT04095364](https://clinicaltrials.gov/study/NCT04095364) | Fasa 3 | Aktif, bukan merekrut | 450 | Paclitaxel/carboplatin serta penyelenggaraan letrozole berbanding moniterapi letrozole dalam karsinoma serous berdarah rendah ovari/peritoneum — data sensitif platinum merentas tumor yang relevan |
-| [NCT00005963](https://clinicaltrials.gov/study/NCT00005963) | Fasa 2 | Selesai | 53 | Docetaxel plus carboplatin sebagai terapi lini pertama untuk kanser payudara metastatik |
-| [NCT01445418](https://clinicaltrials.gov/study/NCT01445418) | Fasa 1 | Selesai | 103 | Penghambat PARP AZD2281 (olaparib) digabungkan dengan carboplatin dalam kanser payudara dan ovari berkaitan-BRCA1/2, dan TNBC sporadik |
+| [NCT00321633](https://clinicaltrials.gov/study/NCT00321633) | Fasa 2 | Selesai | 148 | Carboplatin berbanding docetaxel dalam kanser payudara metastatik genetik (BRCA); perbandingan langsung |
+| [NCT00021255](https://clinicaltrials.gov/study/NCT00021255) | Fasa 3 | Selesai | 3222 | AC-T berbanding AC-TH dan TCH (docetaxel, carboplatin, trastuzumab) dalam rawatan adjuvan kanser payudara HER2-positif |
+| [NCT00047255](https://clinicaltrials.gov/study/NCT00047255) | Fasa 3 | Selesai | 263 | Docetaxel + trastuzumab dengan atau tanpa carboplatin sebagai rawatan barisan pertama kanser payudara lanjutan HER2 |
+| [NCT02125344](https://clinicaltrials.gov/study/NCT02125344) | Fasa 3 | Selesai | 961 | GeparOcto: perbandingan dua pendekatan neoadjuvan dos padat, salah satunya termasuk carboplatin, dalam kanser payudara berisiko tinggi |
+| [NCT00616967](https://clinicaltrials.gov/study/NCT00616967) | Fasa 2 | Aktif, tidak merekrut | 68 | Carboplatin + nab-paclitaxel dengan atau tanpa vorinostat sebagai kemoterapi praoperasi (HER2-negatif) |
+| [NCT05020860](https://clinicaltrials.gov/study/NCT05020860) | Fasa 2 | Sedang merekrut | 185 | Terapi sistemik neoadjuvan dalam kanser payudara peringkat awal; peranan carboplatin tidak jelas |
+| [NCT01208480](https://clinicaltrials.gov/study/NCT01208480) | Fasa 2 | Selesai | 45 | Bevacizumab, docetaxel dan carboplatin neoadjuvan untuk kanser payudara triple-negative |
+| [NCT00003612](https://clinicaltrials.gov/study/NCT00003612) | Fasa 2 | Selesai | 92 | Paclitaxel, carboplatin dan trastuzumab sebagai barisan pertama kanser payudara metastatik HER2 berlebihan |
+| [NCT06291064](https://clinicaltrials.gov/study/NCT06291064) | Fasa 2 | Sedang merekrut | 85 | Epirubicin + cyclophosphamide diikuti docetaxel + carboplatin dalam TNBC (Nigeria) |
+| [NCT00025688](https://clinicaltrials.gov/study/NCT00025688) | Fasa 3 | Tidak diketahui | Tiada data | Paclitaxel mingguan dengan atau tanpa carboplatin pada pesakit berumur 65 tahun ke atas dengan kanser payudara metastatik |
 
-*Nota: Pakej bukti mengandungi 46 percubaan carboplatin tambahan dalam kanser payudara yang belum dinilai untuk relevan; empat di atas adalah satu-satunya yang mempunyai penilaian relevan yang selesai.*
+---
 
 ## Bukti Literatur
 
+Berikut ialah 10 penerbitan yang paling relevan, dengan keutamaan RCT.
+
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [24794243](https://pubmed.ncbi.nlm.nih.gov/24794243/) | 2014 | RCT | The Lancet Oncology | Percubaan GeparSixto: menambahkan carboplatin ke terapi praoperasi meningkatkan hasil dalam kanser payudara negatif tiga dan HER2-positif awal |
-| [33208340](https://pubmed.ncbi.nlm.nih.gov/33208340/) | 2021 | RCT | Clin Cancer Res | Percubaan NeoSTOP: rejimen kemoterapi praoperasi bebas antrasiklik berbanding mengandungi antrasiklik meningkatkan pCR dalam kanser payudara TNBC peringkat I-III |
-| [39671272](https://pubmed.ncbi.nlm.nih.gov/39671272/) | 2025 | RCT | JAMA | Percubaan CamRelief: camrelizumab plus kemoterapi praoperasi mengandungi platinum dalam kanser payudara TNBC awal/tempatan lanjutan |
-| [38309017](https://pubmed.ncbi.nlm.nih.gov/38309017/) | 2024 | RCT (Fasa 3, OS terakhir) | Eur J Cancer | BROCADE3: veliparib dengan carboplatin/paclitaxel dalam kanser payudara berkaitan-BRCA, HER2-negatif lanjutan — hasil kemandirian keseluruhan terakhir |
-| [33256829](https://pubmed.ncbi.nlm.nih.gov/33256829/) | 2020 | Percubaan Fasa 2 | Breast Cancer Res | Carboplatin plus bevacizumab dalam metastasis otak kanser payudara |
-| [40593759](https://pubmed.ncbi.nlm.nih.gov/40593759/) | 2025 | RCT (Fasa 2b) | Nature Communications | MUKDEN 06: ARX788 plus pyrotinib berbanding docetaxel/carboplatin/trastuzumab/pertuzumab standard dalam kanser payudara HER2-positif |
-| [40468999](https://pubmed.ncbi.nlm.nih.gov/40468999/) | 2025 | Fasa 2 (susulan 5 tahun) | Acta Oncologica | Percubaan TCHL: docetaxel/carboplatin/trastuzumab ± lapatinib dalam kanser payudara HER2-positif dengan analisis biopenanda |
-| [35837812](https://pubmed.ncbi.nlm.nih.gov/35837812/) | 2023 | Kohort | Cancer Medicine | Dos carboplatin berkaitan dengan kadar anemia dan pCR dalam TCHP praoperasi untuk kanser payudara HER2-positif |
-| [16720915](https://pubmed.ncbi.nlm.nih.gov/16720915/) | 2006 | Ulasan | Medical Oncology | Ulasan bukti terkumpul untuk sinergi, keberkesanan, dan keselamatan paclitaxel-carboplatin dalam kanser payudara lanjutan |
-| [8893899](https://pubmed.ncbi.nlm.nih.gov/8893899/) | 1996 | Ulasan | Seminars in Oncology | Penilaian awal paclitaxel dan carboplatin, sendiri dan digabungkan, dalam kanser payudara lanjutan |
+| [24794243](https://pubmed.ncbi.nlm.nih.gov/24794243/) | 2014 | RCT | The Lancet Oncology | GeparSixto: kesan penambahan carboplatin pada terapi neoadjuvan dalam kanser payudara triple-negative dan HER2-positif |
+| [33208340](https://pubmed.ncbi.nlm.nih.gov/33208340/) | 2021 | RCT | Clinical Cancer Research | NeoSTOP: rejimen carboplatin neoadjuvan tanpa/dengan antrasiklin dalam TNBC peringkat I-III |
+| [41436191](https://pubmed.ncbi.nlm.nih.gov/41436191/) | 2025 | RCT | BMJ | CITRINE (Fasa 3): kemoterapi adjuvan dengan carboplatin dipertingkat berbanding standard dalam TNBC awal berisiko tinggi |
+| [35044810](https://pubmed.ncbi.nlm.nih.gov/35044810/) | 2022 | RCT | Journal of Clinical Oncology | CALGB 40603: hasil jangka panjang selepas penambahan carboplatin dan bevacizumab dalam TNBC |
+| [29501363](https://pubmed.ncbi.nlm.nih.gov/29501363/) | 2018 | RCT | The Lancet Oncology | BrighTNess (Fasa 3): veliparib + carboplatin atau carboplatin sahaja ditambah kepada kemoterapi neoadjuvan dalam TNBC |
+| [41115255](https://pubmed.ncbi.nlm.nih.gov/41115255/) | 2026 | RCT | Journal of Clinical Oncology | Fasa 3: kesan penambahan platinum pada kemoterapi neoadjuvan taxane-antrasiklin dalam TNBC |
+| [29175149](https://pubmed.ncbi.nlm.nih.gov/29175149/) | 2018 | RCT | The Lancet Oncology | KRISTINE (Fasa 3): terapi neoadjuvan HER2-positif dengan kemoterapi berbanding T-DM1 + pertuzumab |
+| [40593759](https://pubmed.ncbi.nlm.nih.gov/40593759/) | 2025 | RCT | Nature Communications | ARX788 + pyrotinib berbanding TCbHP (termasuk carboplatin) dalam kanser payudara HER2-positif |
+| [39631485](https://pubmed.ncbi.nlm.nih.gov/39631485/) | 2024 | Tinjauan | Pharmacological Research | Tinjauan perencat bersasar dan sitotoksik dalam rawatan kanser payudara |
+| [41489230](https://pubmed.ncbi.nlm.nih.gov/41489230/) | 2026 | Tinjauan | Cancer Investigation | Kemajuan ASCO 2025: NRG-BR003 tidak menunjukkan manfaat survival daripada carboplatin dalam TNBC awal; pada HER2-positif, menghentikan carboplatin mengekalkan keberkesanan dengan toleransi lebih baik |
+
+---
+
+## Maklumat Pasaran di Malaysia
+
+Tiada lesen berdaftar direkodkan dalam data yang dikumpulkan untuk laporan ini (status "tidak dipasarkan", 0 pendaftaran). Ini dianggap jurang data dan perlu disahkan dengan NPRA.
+
+---
 
 ## Sitotoksisiti
 
 | Perkara | Kandungan |
 |------|------|
-| Klasifikasi Sitotoksisiti | Sitotoksik konvensional (sebatian platinum) |
-| Risiko Penindasan Sumsum Tulang | Tinggi — trombositopenia dan neutropenia yang menghad dos sudah terdokumen dengan baik; bukti literatur mengesahkan dos carboplatin berkaitan langsung dengan kadar anemia gred 3/4 dalam rejimen kombinasi |
-| Klasifikasi Emetogenisiti | Sederhana hingga Tinggi (bergantung pada AUC; rejimen dos AUC lebih tinggi berkaitan dengan risiko emetik yang lebih besar) |
-| Perkara Pemantauan | CBC dengan pembezaan (terutamanya kiraan platelet), fungsi renal/pelepasan kreatinin (diperlukan untuk dos berasaskan AUC), elektrolit (magnesium, kalium), fungsi hepatik |
-| Perlindungan Pengendalian | Ya — mesti mematuhi peraturan pengendalian ubat sitotoksik/berbahaya (PPE, peranti pemindahan sistem tertutup jika tersedia) |
+| Klasifikasi Sitotoksisiti | Sitotoksik konvensional (agen platinum, pengikat silang DNA) |
+| Risiko Penekanan Sumsum Tulang | Tinggi (neutropenia dan trombositopenia lazim; pelbagai ujian turut menilai perlindungan sumsum tulang) |
+| Klasifikasi Emetogenisiti | Sederhana |
+| Item Pemantauan | Hitung darah penuh (CBC) dengan pembezaan, fungsi hati dan buah pinggang, elektrolit |
+| Perlindungan Pengendalian | Perlu mengikut peraturan pengendalian ubat sitotoksik |
+
+> Nilai di atas berdasarkan pengetahuan umum tentang kategori ubat ini dan bukan data toksisiti khusus daripada pangkalan data. Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pek.
+
+---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk lembaran maklumat untuk maklumat keselamatan.
+**Interaksi Ubat:** Pertanyaan interaksi ubat selesai dengan 100 interaksi direkodkan. Antara yang disenaraikan:
+- **Tahap sederhana:** rabeprazole, omeprazole, esomeprazole, lansoprazole, dexlansoprazole, pantoprazole (perencat pam proton); metronidazole, tinidazole; kanamycin, neomycin, streptomycin, vancomycin; rosuvastatin, simvastatin
+- **Tahap ringan:** levofloxacin
+- **Tahap tidak diketahui:** calcitriol, glimepiride, mesalazine, doxycycline, clotrimazole
+
+Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pek.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Teruskan dengan Pengawalan**
+**Keputusan: Proceed with Guardrails**
 
 **Rasional:**
-Penggunaan Carboplatin dalam kanser payudara, terutamanya subtip TNBC dan berkaitan-BRCA, disokong oleh berbilang RCT yang selesai dan sedang berlangsung (GeparSixto, NeoSTOP, CamRelief, BROCADE3) dengan asas mekanisme HRD bersama yang kuat dengan petunjuk kanser ovari yang ditegakkannya, yang patut mendapat tahap bukti L1. Walau bagaimanapun, percubaan ini terutamanya menyokong carboplatin sebagai penambahan kepada rejimen praoperasi standard daripada petunjuk moniterapi, dan data keselamatan dan peraturan khusus Malaysia tetap tidak disahkan.
+- Beberapa RCT Fasa 2/3, termasuk GeparSixto, CALGB 40603, BrighTNess dan CITRINE, menyokong peranan carboplatin dalam kanser payudara, terutamanya TNBC. Namun bukti tidak seragam: NRG-BR003 tidak menunjukkan manfaat survival daripada carboplatin dalam TNBC awal, dan carboplatin boleh ditinggalkan dalam sebahagian kes HER2-positif. Fasa 3 dalam data ini mempunyai pelbagai matlamat dan tidak semuanya menilai carboplatin secara terasing.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Data DrugBank/mekanisme tindakan (jurang data yang menghalang pada masa ini)
-- Amaran lembaran maklumat NPRA, kontraindikasi, dan data interaksi ubat
-- Pengesahan sama ada pendaftaran Malaysia yang sedia ada sudah meliputi petunjuk kanser payudara
-- Maklumat lesen/produk terperinci (ketiga-tiga pendaftaran semasa kekurangan teks nama produk, bentuk dos, dan petunjuk yang boleh diperolehi)
-- Rancangan pemantauan keselamatan khusus subtip (TNBC/berkaitan-BRCA) yang selaras dengan profil risiko penindasan sumsum tulang yang ditegakkan
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Mengesahkan status pendaftaran dan indikasi diluluskan carboplatin dengan NPRA (data semasa kemungkinan tidak lengkap)
+- Memuat turun dan menganalisis sisipan pek NPRA untuk amaran dan kontraindikasi (jurang data yang menghalang)
+- Data mekanisme tindakan terperinci daripada DrugBank
+- Menentukan subkumpulan sasaran (contohnya TNBC, BRCA-mutasi, HER2-positif) berdasarkan hasil ujian terkini
+- Pelan pemantauan keselamatan hematologi dan antiemetik
 
+---
+
+## Calon Ramalan Lain (Ringkasan)
+
+| Penyakit | Skor TxGNN | Tahap Bukti | Keputusan |
+|------|------|------|------|
+| Sindrom kanser payudara-ovari berketurunan | 99.79% | L2 | Proceed with Guardrails |
+| Adenokarsinoma sel jernih ovari | 99.78% | L1 | Proceed with Guardrails |
+| Adenokarsinoma mucinous ovari | 99.50% | L1 | Proceed with Guardrails (manfaat lebih lemah berbanding jenis serous) |
+| Tumor kantung kuning telur | 99.44% | L1 | Proceed with Guardrails |
+| Adenokarsinoma endometrioid ovari | 99.38% | L1 | Proceed with Guardrails |
+| Koriokarsinoma ovari bukan gestasi primer | 99.81% | L5 | Hold |
+| Tumor sel granulosa ovari malignan | 99.43% | L5 | Hold |
+| Adenokarsinoma mucinous rektum | 99.28% | L5 | Hold |
+| Adenokarsinoma mucinous kolon | 99.26% | L5 | Hold |
+
+Calon peringkat L5 hanya bergantung pada skor model tanpa ujian klinikal atau literatur yang menyokong, jadi memerlukan bukti tambahan sebelum diteruskan.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

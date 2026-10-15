@@ -2,7 +2,7 @@
 layout: default
 title: Ferrous Fumarate
 parent: Low Evidence (L4-L5)
-nav_order: 343
+nav_order: 355
 evidence_level: L5
 indication_count: 5
 ---
@@ -29,89 +29,113 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Ferrous Fumarate: Daripada Anemia Kekurangan Zat Besi kepada Jerawat
+# Ferrous Fumarate: Daripada Anemia Kekurangan Zat Besi kepada Jerawat (Acne)
 
 ## Ringkasan Satu Ayat
 
-> Ferrous fumarate ialah garam zat besi oral generik (DrugBank DB14491) yang secara konvensional digunakan untuk merawat dan mencegah anemia kekurangan zat besi, walaupun teks indikasi yang diluluskan NPRA khusus tidak ditangkap dalam pakej bukti ini. Ramalan model TxGNN yang berada di peringkat tertinggi ialah **Jerawat**, tetapi pakej bukti ini mengandungi **0 percubaan klinikal** dan **8 penerbitan**, dan semakan literatur mendapati kajian sokongan hampir sepenuhnya tentang ubat pencegah hamilan oral, bukan suplementasi zat besi — kes mekanik pada masa ini tidak disokong.
+Ferrous fumarate ialah garam besi oral yang pada asalnya digunakan untuk merawat anemia kekurangan zat besi dan jenis anemia nutrisi yang berkaitan.
+Model TxGNN meletakkan **jerawat (acne)** sebagai ramalan indikasi pertama, tetapi dengan skor **0.00%**, dan data yang dikumpulkan untuk laporan ini mengandungi **0 ujian klinikal** dan **0 penerbitan** untuk indikasi tersebut.
+Bukti yang ada hanya menyokong penggunaan sedia ada dalam anemia kekurangan zat besi (lihat bahagian tambahan di bawah).
 
 ---
 
 ## Gambaran Ringkas
 
-| Item | Kandungan |
-|------|---------|
-| Indikasi Asal | Tidak ditangkap dalam pakej bukti ini (kesemua 5 rekod lesen NPRA mengembalikan `approved_indication_text` kosong); ferrous fumarate ialah garam zat besi oral generik yang terkenal ditunjukkan untuk anemia kekurangan zat besi |
-| Indikasi Baru Diramal | Jerawat |
-| Skor Ramalan TxGNN | 0.00% (nota: kesemua 5 ramalan berjenjang dalam pakej ini menunjukkan skor identik 0.0 — kemungkinan isu populasi data, bukan pembeza sebenar) |
-| Paras Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 152 |
-| Keputusan Disyorkan | Tahan |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Anemia kekurangan zat besi (sumber: graf pengetahuan TxGNN/PrimeKG, kerana tiada lesen tempatan untuk dirujuk) |
+| Indikasi Baharu yang Diramal | Jerawat (acne) |
+| Skor Ramalan TxGNN | 0.00% |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan terperinci tidak tersedia (jurang data DG002). Berdasarkan pengetahuan farmakologi umum, ferrous fumarate ialah garam zat besi ferrous mudah yang digunakan untuk mengisi semula storan zat besi dan membetulkan defisit sintesis hemoglobin — penggunaannya yang ditubuhkan adalah dalam anemia kekurangan zat besi dan anemia mikrositik, bukan dermatologi.
+Ramalan ini **tidak** disokong oleh data yang ada. Skor TxGNN ialah 0.00% dan tiada ujian klinikal atau literatur untuk jerawat. Jerawat juga tersenarai sebagai indikasi asal dalam rekod sumber, tetapi tiada bukti sokongan dikemukakan.
 
-Tiada laluan farmakologi yang diketahui menghubungkan pengembalian zat besi kepada patogenesis jerawat (yang terutamanya didorong oleh pengeluaran sebum yang dirangsang androgen, hiperkeratinisasi folikel, dan kolonisasi *C. acnes*). Dengan menyemak bukti asas untuk calon ini, 7 daripada 8 penerbitan yang dipetik membincangkan ubat pencegah hamilan oral (gabungan estrogen/progestin) dan kesan antiandrogenic mereka terhadap jerawat — kelas ubat yang sama sekali berbeza dan mekanisme dari garam zat besi. Corak ini konsisten dengan ketakpadanan kata kunci/ko-kejadian dalam pangkalan data sumber (cth., "zat besi" dan "anemia" yang bersama dengan kajian ubat pencegah hamil, atau produk ubat pencegah hamilan gabungan oral yang secara sejarah mengandungi zat besi dalam pil plasebo/inert) daripada isyarat farmakologi tulen.
-
-Satu kertas yang longgar berkaitan zat besi (PMID 1974991) melaporkan bahawa pesakit dengan *furunkulosis* berulang (jangkitan kulit bakteria, bukan jerawat) mempunyai zat besi serum rendah, dan bahawa suplementasi zat besi menyelesaikan jangkitan — ini menggambarkan kekurangan zat besi **mempredisposisi kepada jangkitan, yang bukan bukti bahawa suplementasi zat besi merawat jerawat**. Secara keseluruhan, nisbah mekanik untuk calon khusus ini adalah lemah hingga tiada berdasarkan bukti yang tersedia pada masa ini.
+Data terperinci mengenai mekanisme tindakan tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, ferrous fumarate membekalkan zat besi elemental yang diserap di duodenum dan digunakan untuk sintesis hemoglobin. Kegunaannya terbukti dalam anemia kekurangan zat besi, tetapi tiada kaitan mekanistik dengan jerawat dapat disahkan daripada data yang ada.
 
 ---
 
-## Bukti Percubaan Klinikal
+## Bukti Ujian Klinikal
 
-Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
+Buat masa ini tiada ujian klinikal berdaftar yang berkaitan dengan jerawat.
+
+### Bukti Tambahan: Indikasi Ramalan Lain (Anemia Kekurangan / "Deficiency Anemia")
+
+Satu-satunya ramalan dengan ujian klinikal ialah **anemia kekurangan (deficiency anemia)**, kedudukan ke-3 dengan skor TxGNN 0.00%. Ini ialah indikasi sedia ada, bukan pengitaran semula ubat yang baharu. Senarai di bawah dipilih daripada ujian yang didaftarkan (10 teratas).
+
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
+|---------|------|------|------|---------|
+| [NCT04130828](https://clinicaltrials.gov/study/NCT04130828) | Fasa 3 | Selesai | 66 | Ferrous fumarate oral tiga kali seminggu berbanding tiga kali sehari pada dewasa dengan anemia kekurangan zat besi; menguji ubat dan indikasi secara langsung |
+| [NCT03378791](https://clinicaltrials.gov/study/NCT03378791) | Fasa 3 | Selesai | 120 | Iron bisglycinate chelate berbanding ferrous fumarate pada wanita hamil dengan anemia kekurangan zat besi |
+| [NCT03484845](https://clinicaltrials.gov/study/NCT03484845) | Fasa 1/2 | Tidak diketahui | 150 | Lactoferrin berbanding ferrous fumarate dalam anemia kekurangan zat besi ringan hingga sederhana semasa kehamilan |
+| [NCT05278793](https://clinicaltrials.gov/study/NCT05278793) | Fasa 4 | Tidak diketahui | 58 | Suplemen besi berselang berbanding harian pada wanita hamil yang anemik |
+| [NCT07014371](https://clinicaltrials.gov/study/NCT07014371) | Tiada (NA) | Sedang merekrut | 60 | Dos ferrous fumarate selang hari berbanding sekali sehari dalam anemia kekurangan zat besi (ujian bukan-inferioriti) |
+| [NCT02300428](https://clinicaltrials.gov/study/NCT02300428) | Tiada (N/A) | Selesai | 406,902 | Kajian ekonomi kesihatan garam besi ferus dalam penjagaan primer UK; relevan untuk penggunaan dunia sebenar dan kos, bukan kecekapan intervensi |
+| [NCT01155375](https://clinicaltrials.gov/study/NCT01155375) | Fasa 3 | Ditamatkan | 14 | Ferumoxytol berbanding besi oral pada kanak-kanak dengan penyakit buah pinggang kronik; hanya 14 peserta, berat bukti terhad |
+| [NCT01155388](https://clinicaltrials.gov/study/NCT01155388) | Fasa 3 | Ditamatkan | 14 | Kajian pendamping bagi NCT01155375, dengan had yang sama |
+| [NCT03212781](https://clinicaltrials.gov/study/NCT03212781) | Fasa 3 | Selesai | 66 | Infusi dos penuh iron dextran berbanding besi oral pada wanita hamil dengan anemia kekurangan zat besi |
+| [NCT06303531](https://clinicaltrials.gov/study/NCT06303531) | Tiada (NA) | Tidak diketahui | 111 | Ferrous ascorbate atau ferrous fumarate berbanding polysaccharide iron dalam perubahan paras hemoglobin selama 12 minggu |
+
+Ramalan lain, iaitu anemia mikrositik, anemia pramatang dan anemia kekurangan asid folik, tidak mempunyai ujian klinikal yang didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
+Buat masa ini tiada literatur berkaitan jerawat.
+
+### Bukti Tambahan: Anemia Kekurangan (10 Penerbitan Terpilih)
+
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|------|------|-------|---------|
-| [16371290](https://pubmed.ncbi.nlm.nih.gov/16371290/) | 2006 | Ulasan | Contraception | Mengulas rejim ubat pencegah hamilan oral (estrogen/progestin) untuk rawatan jerawat — tidak berkaitan dengan suplementasi zat besi |
-| [9678128](https://pubmed.ncbi.nlm.nih.gov/9678128/) | 1996 | RCT (kelas ubat tidak berkaitan) | Eur J Contracept Reprod Health Care | Membandingkan pil ubat pencegah hamilan trifasik untuk keberkesanan pencegahan hamilan dan kawalan kitaran — tidak berkaitan dengan ferrous fumarate |
-| [2289388](https://pubmed.ncbi.nlm.nih.gov/2289388/) | 1990 | Ujian perbandingan (kelas ubat tidak berkaitan) | Contraception | Membandingkan kawalan kitaran merentas formulasi ubat pencegah hamilan oral dos rendah — tidak berkaitan dengan zat besi |
-| [16904419](https://pubmed.ncbi.nlm.nih.gov/16904419/) | 2006 | Kohort (kelas ubat tidak berkaitan) | Contraception | Menyiasat sama ada St. John's Wort mengganggu kesan antiandrogenic/jerawat ubat pencegah hamilan oral — tidak berkaitan dengan zat besi |
-| [14596626](https://pubmed.ncbi.nlm.nih.gov/14596626/) | 2003 | Kajian pengesahan (soal selidik QoL) | PharmacoEconomics | Mengesahkan soal selidik kualiti hidup khusus jerawat yang digunakan dalam ujian ubat pencegah hamilan oral — tiada data keberkesanan ubat |
-| [1863941](https://pubmed.ncbi.nlm.nih.gov/1863941/) | 1991 | Kajian Fasa IV (kelas ubat tidak berkaitan) | Clinical Therapeutics | Kajian pasca-pemasaran prestasi kawalan kitaran ubat pencegah hamilan trifasik dos rendah — tidak berkaitan dengan zat besi |
-| [1974991](https://pubmed.ncbi.nlm.nih.gov/1974991/) | 1990 | Siri kes/Laporan awal | Lancet | Pesakit dengan *furunkulosis* berulang (jangkitan kulit, bukan jerawat) mempunyai zat besi serum rendah; suplementasi zat besi menyelesaikan jangkitan — arah adalah "kekurangan zat besi → risiko jangkitan," bukan "zat besi merawat jerawat" |
-| [14158432](https://pubmed.ncbi.nlm.nih.gov/14158432/) | 1964 | Siri kes (bersejarah, tidak berkaitan) | Svenska Läkartidningen | Tinjauan bersejarah rawatan gestagen/estrogen peroral (tiada abstrak tersedia) — tidak berkaitan dengan zat besi |
+|------|-----|------|------|---------|
+| [37010569](https://pubmed.ncbi.nlm.nih.gov/37010569/) | 2023 | RCT | Annals of Hematology | Ferrous fumarate 200 mg tiga kali seminggu dibandingkan dengan tiga kali sehari pada dewasa dengan anemia kekurangan zat besi; menilai bukan-inferioriti dan kejadian buruk |
+| [36107229](https://pubmed.ncbi.nlm.nih.gov/36107229/) | 2023 | RCT | Archives of Gynecology and Obstetrics | Besi intravena (ferric derisomaltose) berbanding besi oral (ferrous fumarate) pada wanita hamil dengan kekurangan zat besi berterusan |
+| [17915799](https://pubmed.ncbi.nlm.nih.gov/17915799/) | 2007 | RCT | Journal of the Indian Medical Association | Sodium feredetate berbanding ferrous fumarate dalam anemia semasa kehamilan |
+| [39651609](https://pubmed.ncbi.nlm.nih.gov/39651609/) | 2024 | Kajian Sistematik | Cochrane Database of Systematic Reviews | Kesan dan keselamatan besi intravena berbanding oral untuk anemia kekurangan zat besi dalam kehamilan |
+| [23252877](https://pubmed.ncbi.nlm.nih.gov/23252877/) | 2013 | Kajian Sistematik | Current Medical Research and Opinion | Toleransi pelbagai suplemen besi oral dan kejadian kesan sampingan, termasuk gastrousus |
+| [39582678](https://pubmed.ncbi.nlm.nih.gov/39582678/) | 2024 | Kajian Klinikal (dua kajian rawak) | Journal of Pregnancy | Besi oral dos rendah (ferrous fumarate, bisglycinate, sulphate) dalam kehamilan tidak dikaitkan dengan aduan gastrousus yang bermakna secara klinikal |
+| [38740692](https://pubmed.ncbi.nlm.nih.gov/38740692/) | 2024 | Kajian Perbandingan | Daru | Perbandingan pelbagai garam besi oral; garam konvensional mempunyai penyerapan dan toleransi yang kurang baik |
+| [15646652](https://pubmed.ncbi.nlm.nih.gov/15646652/) | 2004 | Kajian Klinikal Perbandingan | International Journal of Hematology | Kajian Taiwan 12 minggu, 72 pesakit: produk gabungan ferrous fumarate berbanding polysaccharide iron complex |
+| [11478761](https://pubmed.ncbi.nlm.nih.gov/11478761/) | 2001 | Kajian Klinikal | Journal of the Indian Medical Association | Iron polymaltose complex dengan asid folik berbanding ferrous fumarate pada 100 pesakit wanita yang anemik |
+| [11722961](https://pubmed.ncbi.nlm.nih.gov/11722961/) | 2001 | Kajian Klinikal | American Journal of Clinical Nutrition | Ferrous fumarate bermikrokapsul dengan asid askorbik (sprinkles) untuk merawat anemia pada bayi |
 
-**Nota:** Tiada literatur di atas memberikan bukti langsung bahawa ferrous fumarate merawat jerawat; 7/8 kertas mengerbau kelas ubat yang tidak berkaitan (ubat pencegah hamilan oral).
-
----
-
-## Maklumat Pasaran Malaysia
-
-Rekod lesen menunjukkan 152 jumlah pendaftaran keseluruhan, tetapi entri sampel dalam pakej bukti ini mengembalikan tiada nombor lesen, nama produk, bentuk dos, atau teks indikasi — nilai medan adalah kosong. Butiran pendaftaran lengkap harus ditanyakan terus daripada pangkalan data NPRA QUEST3+.
+Bagi anemia pramatang, hanya dua rujukan tidak langsung tersedia (kajian kesan sampingan gastrousus pada wanita dewasa dan artikel sejarah 1967), dan tiada ujian klinikal ditemui. Bagi anemia kekurangan asid folik, bukti terhad kepada produk gabungan besi-folat dan kajian fortifikasi atau bioketersediaan, jadi kesan daripada komponen besi sahaja tidak dapat ditentukan.
 
 ---
 
-## Pertimbangan Keselamatan
+## Keselamatan
 
-Sila rujuk lembaran maklumat produk untuk maklumat keselamatan.
+Maklumat amaran utama dan kontraindikasi daripada sisipan pakej tidak tersedia buat masa ini. Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-*(Nota: DG001 — amaran lembaran maklumat TFDA/NPRA dan kontraindikasi ditandai Menghalang untuk saringan keselamatan pra (S1) dan belum diperoleh lagi.)*
+- **Kontraindikasi daripada graf pengetahuan** (bukan teks label rasmi, perlu disahkan): hipertensi, gangguan kebimbangan, porfiria, penyakit buah pinggang, penyakit hati, penyakit pundi hempedu, hiperglisemia, penyakit ulser peptik, diabetes mellitus dan ketoasidosis diabetik, hiperparatiroidisme, hiperkalsemia, nefrokalsinosis, penyakit metabolisme fosforus, anemia sel sabit, hemokromatosis keturunan, hemosiderosis, penyakit metabolisme besi, penyakit Wilson, dan beberapa keadaan lain.
+- **Interaksi Ubat**: 80 interaksi direkodkan. Contoh utama:
+  - **Sederhana**: perencat pam proton (omeprazole, esomeprazole, lansoprazole, dexlansoprazole, pantoprazole, rabeprazole); tetrasiklin (tetracycline, doxycycline, minocycline); levofloxacin; antasid dan kalsium (calcium carbonate, aluminium hydroxide, magaldrate, magnesium oxide); pancrelipase; sodium sulfate; triethylenetetramine.
+  - **Ringan**: cimetidine, zinc sulfate, zinc acetate.
+
+Kebanyakan interaksi melibatkan pengurangan penyerapan besi atau antibiotik, jadi penjadualan dos perlu dirancang dengan teliti.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
-**Rasional:**
-- Skor TxGNN dan paras bukti (L5) menunjukkan ramalan model sahaja, tanpa percubaan klinikal sokongan.
-- Literatur yang dipetik adalah terutamanya tentang kelas ubat yang tidak berkaitan (ubat pencegah hamilan oral), mencadangkan persatuan mungkin ketakpadanan kata kunci pangkalan data daripada isyarat tulen; tiada pautan mekanik yang munasabah antara pengembalian zat besi dan jerawat telah dikenalpasti.
+**Justifikasi:**
+- Bagi jerawat, skor TxGNN ialah 0.00%, tiada ujian klinikal atau literatur, tiada hubungan mekanistik yang disokong data, dan tahap bukti hanya L5.
+- Ferrous fumarate tidak dipasarkan di Malaysia (0 pendaftaran). Bukti kukuh yang ada hanya untuk anemia kekurangan zat besi (L1 dengan keputusan "Proceed with Guardrails" bagi indikasi itu). Ini ialah indikasi sedia ada, dan kebanyakan ujian Fasa 3 bersaiz kecil atau ditamatkan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Sahkan saluran pemarkahan TxGNN — kesemua 5 calon berjenjang dalam pakej ini menunjukkan skor identik 0.0, yang harus disiasat sebelum calon ini dibandingkan dengan yang lain.
-- Peroleh data MOA DrugBank yang disahkan (DG002) untuk menilai dengan betul keterplausibilan mekanik.
-- Peroleh lembaran maklumat NPRA (amaran/kontraindikasi, DG001 — Menghalang) sebelum sebarang saringan keselamatan pra-S1 dapat diteruskan.
-- Memandangkan bukti yang lemah untuk calon ini, pertimbangkan mengutamakan calon TxGNN-berjenjang lain ubat ini — **anemia mikrositik** (peringkat 2, L1, "Teruskan dengan Penjaga," 1 RCT Fasa 3 yang telah selesai) dan **anemia kekurangan** (peringkat 3, pangkalan percubaan/literatur yang luas) adalah koherensi mekanik dengan suplementasi zat besi dan disokong jauh lebih baik oleh pakej bukti yang sama ini.
-
+- Data mekanisme tindakan (MOA) terperinci, serta penilaian sama ada terdapat asas biologi untuk jerawat.
+- Sisipan pakej NPRA (amaran dan kontraindikasi) untuk saringan keselamatan.
+- Semakan pemetaan istilah penyakit sebelum bukti anemia kekurangan zat besi dikreditkan kepada istilah ramalan lain (contohnya anemia mikrositik).
+- Penjelasan status pasaran (jurang formulasi atau regulatori) jika penggunaan tempatan dalam anemia kekurangan zat besi dipertimbangkan.
+- Pelan pemantauan interaksi ubat dan populasi khas (penyakit buah pinggang, hati, kelebihan besi) sekiranya penilaian diteruskan.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

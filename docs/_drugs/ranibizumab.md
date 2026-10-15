@@ -2,7 +2,7 @@
 layout: default
 title: Ranibizumab
 parent: High Evidence (L1-L2)
-nav_order: 584
+nav_order: 612
 evidence_level: L1
 indication_count: 10
 ---
@@ -29,93 +29,119 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Ranibizumab: Daripada Degenerasi Makula Berkaitan Umur Neovaskuler kepada Retinopati Diabetes Nonproliferatif Teruk
+# Ranibizumab: Daripada Penyakit Mata Neovaskular kepada Retinopati Diabetik Non-Proliferatif Teruk
 
 ## Ringkasan Satu Ayat
 
-Ranibizumab adalah fragmen Fab anti-VEGF yang pada mulanya digunakan untuk merawat degenerasi makula berkaitan umur neovaskuler (basah) dan penyakit vaskular retina yang berkaitan dengan VEGF. Model TxGNN meramalkan ia juga mungkin berkesan untuk **Retinopati Diabetes Nonproliferatif Teruk (NPDR)**, dengan **6 percubaan klinikal** dan **19 penerbitan** yang kini menyokong arah ini — termasuk percubaan Fasa 3 khusus (Sistem Penghantaran Port) yang menyasarkan indikasi tepat ini.
+Ranibizumab ialah serpihan antibodi monoklonal anti-VEGF yang disuntik ke dalam mata. Data pendaftaran tempatan yang dikumpulkan untuk laporan ini tidak mengandungi indikasi asal. Model TxGNN meramalkan ia mungkin berkesan untuk **retinopati diabetik non-proliferatif teruk**, dengan sokongan literatur termasuk **RCT fasa 3** (seperti Pavilion, PMID 40048178) dan analisis susulan RIDE/RISE. Bagi ramalan teratas ini, tiada percubaan klinikal berdaftar yang dipadankan secara langsung dengan istilah penyakit tersebut. Percubaan klinikal yang berkaitan wujud di bawah entri "retinopati diabetik" (rank 2).
 
 ---
 
-## Gambaran Keseluruhan Pantas
+## Gambaran Ringkas
 
-| Item | Kandungan |
-|------|----------|
-| Indikasi Asal | Degenerasi makula berkaitan umur neovaskuler (basah) dan penyakit vaskular retina lain yang didorong oleh VEGF (kelas indikasi anti-VEGF yang mantap; teks indikasi yang diluluskan NPRA khusus tidak tersedia dalam ekstrak data semasa) |
-| Indikasi Baru yang Diramal | Retinopati Diabetes Nonproliferatif Teruk |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Tiada data indikasi asal dalam rekod pendaftaran |
+| Indikasi Baharu yang Diramalkan | Retinopati diabetik non-proliferatif teruk |
 | Skor Ramalan TxGNN | 99.99% |
 | Tahap Bukti | L1 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 1 |
-| Keputusan Cadangan | Teruskan dengan Penjaga |
+| Status Pasaran di Malaysia | Tidak dipasarkan (menurut data yang dikumpulkan; perlu disahkan) |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Proceed with Guardrails |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, rekod mekanisme-tindakan DrugBank yang rasmi tidak tersedia untuk ranibizumab dalam pakej bukti ini (ditandai sebagai jurang data keterukan tinggi). Namun, berdasarkan pengetahuan farmakologi yang mantap, ranibizumab adalah fragmen Fab antibodi monoklon berhumanisasi rekombin yang mengikat dan meneutralkan semua bentuk aktif biologi faktor pertumbuhan endotel vaskular A (VEGF-A). Dengan menyekat VEGF, ia menghalang kebolehtelapan vaskular dan neovaskularisasi patologi yang mendorong beberapa penyakit retina.
+Data terperinci tentang mekanisme tindakan belum tersedia dalam data yang dikumpulkan. Berdasarkan maklumat sedia ada, ranibizumab ialah perencat VEGF-A. VEGF mendorong kebolehtelapan vaskular retina, pembentukan saluran darah baharu dan perkembangan keterukan retinopati. Paras VEGF dalam serum dan vitreus meningkat dalam retinopati diabetik, dan ini menyokong mekanisme tersebut.
 
-Retinopati diabetes berkongsi patofisiologi teras yang sama didorong oleh VEGF seperti penyakit yang sudah dirawat oleh ranibizumab (edema makula diabetes, degenerasi makula basah, oklusi vena retina). Peningkatan VEGF terlibat secara langsung dalam perkembangan dari retinopati diabetes nonproliferatif kepada proliferatif, dan dalam kebolehtelapan vaskular retina yang menyebabkan komplikasi yang mengancam penglihatan.
+Analisis susulan percubaan fasa 3 RIDE/RISE menunjukkan regresi keterukan retinopati (peningkatan DRSS) dengan ranibizumab. Literatur juga merangkumi percubaan Pavilion (sistem penghantaran port dengan ranibizumab berbanding pemantauan dalam NPDR tanpa edema makula). Perlu diingatkan bahawa status bukti fasa 3 ini disimpulkan daripada tajuk sahaja, jadi ia harus disahkan melalui teks penuh.
 
-Ini bukan lompatan mekanistik semata-mata spekulatif: Sistem Penghantaran Port ranibizumab telah maju ke percubaan Fasa 3 khusus (NCT04503551) yang khusus menilai keberkesanan dan keselamatan pada pesakit dengan retinopati diabetes tanpa edema makula yang melibatkan pusat, dan pelbagai percubaan Fasa 3 yang selesai (e.g., NCT00444600, NCT02634333, NCT00989989) dan program percubaan RIDE/RISE telah menghasilkan bukti post-hoc yang besar pada hasil keterukan DR. Ini menjadikan ramalan TxGNN untuk NPDR teruk sebagai lanjutan yang munasabah sepanjang mekanisme terapeutik yang sudah disahkan daripada jalan yang novel dan belum diuji.
+Untuk entri "retinopati diabetik" yang lebih luas (rank 2), bukti klinikal lebih kukuh dan langsung, termasuk Protocol S (PRP berbanding ranibizumab) dan percubaan sistem penghantaran port.
 
 ---
 
 ## Bukti Percubaan Klinikal
 
-| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
+Tiada percubaan klinikal berdaftar yang dipadankan secara langsung dengan "retinopati diabetik non-proliferatif teruk". Percubaan paling relevan di bawah entri "retinopati diabetik" yang lebih luas (rank 2) ialah:
+
+| No. Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT04503551](https://clinicaltrials.gov/study/NCT04503551) | Fasa 3 | Aktif, tidak merekrut | 174 | Sistem Penghantaran Port dengan ranibizumab vs lengan pembanding pada pesakit dengan retinopati diabetes tanpa edema makula yang melibatkan pusat |
-| [NCT00444600](https://clinicaltrials.gov/study/NCT00444600) | Fasa 3 | Selesai | 691 | Perbandingan ranibizumab intravitreal vs triamsinol, kedua-duanya dengan fotokoagulasi laser, untuk edema makula diabetes |
-| [NCT02634333](https://clinicaltrials.gov/study/NCT02634333) | Fasa 3 | Selesai | 399 | Terapi anti-VEGF untuk pencegahan komplikasi DR yang mengancam penglihatan pada mata berisiko tinggi |
-| [NCT03452657](https://clinicaltrials.gov/study/NCT03452657) | Fasa 3 | Tidak diketahui | 118 | Ranibizumab intravitreal vs suntikan semu untuk pencegahan perkembangan DR berisiko tinggi |
-| [NCT02834663](https://clinicaltrials.gov/study/NCT02834663) | Fasa 4 | Selesai | 25 | Kajian perintis pusat tunggal kesan ranibizumab intravitreal pada pergantian mikroaneurisma dan kawasan retina yang tidak terperfusi pada NPDR dengan edema makula |
-| [NCT05222633](https://clinicaltrials.gov/study/NCT05222633) | Tidak Terpakai | Tidak diketahui | 1000 | Kajian pemerhatian dunia nyata terapi anti-VEGF (termasuk ranibizumab) merentasi degenerasi makula basah, PDR, edema makula, dan neovaskularisasi koroid |
+| [NCT04503551](https://clinicaltrials.gov/study/NCT04503551) | Fasa 3 | Selesai | 174 | Sistem Penghantaran Port dengan ranibizumab dalam retinopati diabetik tanpa DME melibatkan pusat; dibandingkan dengan lengan pembanding |
+| [NCT00996437](https://clinicaltrials.gov/study/NCT00996437) | Fasa 2/3 | Selesai | 261 | Ranibizumab intravitreal berbanding saline untuk pendarahan vitreus akibat PDR, dengan hasil keperluan vitrektomi |
+| [NCT01941329](https://clinicaltrials.gov/study/NCT01941329) | Fasa 2/3 | Selesai | 94 | PROTEUS: ranibizumab + PRP berbanding PRP sahaja dalam PDR berisiko tinggi |
+| [NCT03452657](https://clinicaltrials.gov/study/NCT03452657) | Fasa 3 | Tidak diketahui | 118 | Ranibizumab berbanding suntikan palsu untuk mencegah DR berisiko tinggi |
+| [NCT01594281](https://clinicaltrials.gov/study/NCT01594281) | Fasa 2 | Selesai | 107 | Ranibizumab dengan atau tanpa PRP berbanding PRP sahaja dalam PDR |
+| [NCT02857491](https://clinicaltrials.gov/study/NCT02857491) | Tidak berkenaan | Selesai | 90 | Ranibizumab berbanding suntikan palsu sebelum vitrektomi dalam PDR (RCT buta dua) |
+| [NCT01131585](https://clinicaltrials.gov/study/NCT01131585) | Fasa 3 | Ditamatkan | 128 | Laser sebagai tambahan kepada ranibizumab berbanding laser sahaja dalam DME; ditamatkan awal |
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [40048178](https://pubmed.ncbi.nlm.nih.gov/40048178/) | 2025 | RCT | JAMA Ophthalmology | Percubaan Pavilion: Sistem Penghantaran Port dengan ranibizumab vs pemantauan saja dalam NPDR tanpa edema makula |
-| [32606578](https://pubmed.ncbi.nlm.nih.gov/32606578/) | 2020 | Kohort (post-hoc RIDE/RISE) | Clinical Ophthalmology | Peramal regresi DR awal dengan ranibizumab dalam percubaan RIDE/RISE |
-| [35417296](https://pubmed.ncbi.nlm.nih.gov/35417296/) | 2022 | Kohort (post-hoc RIDE/RISE) | Ophthalmic Surgery, Lasers & Imaging Retina | Mencirikan perkembangan DR semula jadi dalam mata rakan sebagai pembanding kepada mata yang dirawat ranibizumab |
-| [33966556](https://pubmed.ncbi.nlm.nih.gov/33966556/) | 2021 | Tinjauan | Expert Opinion on Biological Therapy | Gambaran keseluruhan keberkesanan ranibizumab dalam retinopati diabetes, termasuk edema makula |
-| [39673354](https://pubmed.ncbi.nlm.nih.gov/39673354/) | 2024 | Tinjauan Sistematik | Health Technology Assessment | Tinjauan sistematik/meta-analisis ubat anti-VEGF vs fotokoagulasi laser untuk DR |
-| [36774994](https://pubmed.ncbi.nlm.nih.gov/36774994/) | 2023 | Kohort/Meta-Analisis | Ophthalmology Retina | Menilai masa kepada resolusi edema makula dengan ranibizumab mengikut keterukan DR asal merentasi percubaan Fasa 3 |
-| [40347224](https://pubmed.ncbi.nlm.nih.gov/40347224/) | 2025 | Tinjauan Sistematik | Health Technology Assessment | Tinjauan sistematik dan analisis ekonomi ubat anti-VEGF vs fotokoagulasi laser untuk DR |
-| [30234859](https://pubmed.ncbi.nlm.nih.gov/30234859/) | 2018 | Susulan RCT (Protokol DRCR.net I) | Retina | Laporan 5 tahun pada perubahan dalam keterukan DR dengan rawatan ranibizumab untuk edema makula |
-| [28448655](https://pubmed.ncbi.nlm.nih.gov/28448655/) | 2017 | Analisis Sekunder RCT | JAMA Ophthalmology | Perbandingan 2 tahun perubahan DR dengan aflibersept, bevacizumab, dan ranibizumab |
-| [30973596](https://pubmed.ncbi.nlm.nih.gov/30973596/) | 2019 | Kajian Kohort/Pencitraan | JAMA Ophthalmology | Mencirikan corak kesempurnaan retina dalam NPDR teruk dan PDR yang relevan dengan keputusan rawatan anti-VEGF |
+| [40048178](https://pubmed.ncbi.nlm.nih.gov/40048178/) | 2025 | RCT | JAMA Ophthalmol | Pavilion: sistem penghantaran port dengan ranibizumab berbanding pemantauan dalam NPDR tanpa edema makula |
+| [32606578](https://pubmed.ncbi.nlm.nih.gov/32606578/) | 2020 | Analisis susulan RCT | Clin Ophthalmol | Peramal regresi awal retinopati diabetik dengan ranibizumab dalam RIDE/RISE |
+| [36161830](https://pubmed.ncbi.nlm.nih.gov/36161830/) | 2022 | Analisis lanjutan label terbuka | BMJ Open Ophthalmol | Perubahan skor DRSS dengan rawatan ranibizumab yang kurang kerap selepas induksi |
+| [30234859](https://pubmed.ncbi.nlm.nih.gov/30234859/) | 2018 | Laporan susulan 5 tahun RCT | Retina | Perubahan keterukan DR selepas 5 tahun dengan ranibizumab dalam DRCR.net Protocol I |
+| [28448655](https://pubmed.ncbi.nlm.nih.gov/28448655/) | 2017 | Analisis sekunder RCT | JAMA Ophthalmol | Perubahan DR selama 2 tahun: aflibercept, bevacizumab dan ranibizumab |
+| [36774994](https://pubmed.ncbi.nlm.nih.gov/36774994/) | 2023 | Meta-analisis | Ophthalmol Retina | Keterukan DR dasar dan masa untuk resolusi DME dengan ranibizumab |
+| [40347224](https://pubmed.ncbi.nlm.nih.gov/40347224/) | 2025 | Tinjauan sistematik | Health Technol Assess | Anti-VEGF berbanding fotokoagulasi laser untuk DR, termasuk analisis ekonomi |
+| [37278412](https://pubmed.ncbi.nlm.nih.gov/37278412/) | 2023 | Simulasi | BMJ Open Ophthalmol | Kesan jangka panjang rawatan proaktif anti-VEGF dalam NPDR teruk berbanding menangguhkan |
+| [40969370](https://pubmed.ncbi.nlm.nih.gov/40969370/) | 2025 | Kohort | Front Endocrinol | Nomogram peramal respons terhadap anti-VEGF digabungkan dengan laser dalam NPDR teruk |
+| [33966556](https://pubmed.ncbi.nlm.nih.gov/33966556/) | 2021 | Ulasan | Expert Opin Biol Ther | Ranibizumab untuk rawatan retinopati diabetik |
+
+---
+
+## Retinopati Diabetik secara Umum (Entri Berkaitan, Rank 2)
+
+Entri ini mempunyai bukti terkuat. RCT utama termasuk:
+
+- [26565927](https://pubmed.ncbi.nlm.nih.gov/26565927/) (JAMA 2015), Protocol S: PRP berbanding ranibizumab intravitreal untuk PDR.
+- [30043039](https://pubmed.ncbi.nlm.nih.gov/30043039/) (2018): hasil 5 tahun Protocol S.
+- [22330964](https://pubmed.ncbi.nlm.nih.gov/22330964/) (2012): RISE dan RIDE, dua percubaan fasa 3 untuk DME.
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Rekod NPRA mengesahkan **1 lesen dipasarkan** untuk ranibizumab di Malaysia (status pasaran: Dipasarkan). Walau bagaimanapun, nombor lesen, nama produk, bentuk dos, pengeluar, dan teks indikasi yang diluluskan tidak tersedia dalam ekstrak data semasa — pengambilan semula catatan daftar produk NPRA yang lengkap diperlukan untuk melengkapkan bahagian ini.
+Menurut data yang dikumpulkan untuk laporan ini, tiada pendaftaran ranibizumab direkodkan di Malaysia (0 lesen). Status ini bercanggah dengan penggunaan oftalmik ranibizumab yang telah mantap, dan kemungkinan besar merupakan jurang data. Ia perlu disahkan melalui pangkalan data NPRA.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
+Sila rujuk sisipan pek untuk maklumat keselamatan.
+
+Beberapa isyarat keselamatan yang muncul dalam literatur yang dikumpulkan ialah kes pelaporan sindrom blok kapsul selepas suntikan intravitreal ranibizumab (PMID 38476863). Ia hanya laporan kes dan bukan data keselamatan yang berstruktur.
+
+---
+
+## Ramalan Lain dalam Senarai
+
+| Indikasi yang Diramalkan | Tahap Bukti | Cadangan |
+|------|------|------|
+| Retinopati diabetik | L1 | Proceed with Guardrails |
+| Katarak diabetik | L3 | Research Question (peranan tambahan semasa pembedahan katarak, bukan rawatan lensa) |
+| Katarak matang, kortikal, dan berkaitan diabetes jenis 2 | L4 | Hold (bukti tidak langsung sahaja) |
+| Katarak tetanik, kraniostenosis, imatur, nuklear senil | L5 | Hold (tiada mekanisme munasabah; kemungkinan artifak graf pengetahuan) |
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Teruskan dengan Penjaga**
+**Keputusan: Proceed with Guardrails**
 
-**Alasan:**
-Tahap bukti ialah L1, disokong oleh pelbagai RCT Fasa 3 yang selesai dan percubaan Fasa 3 (NCT04503551) yang menilai ranibizumab khusus dalam retinopati diabetes, bersama-sama dengan sokongan mekanistik yang konsisten daripada program percubaan RIDE/RISE dan DRCR.net. Ini adalah sambungan mekanistik yang mantap, kaya bukti bagi laluan anti-VEGF yang sudah disahkan, tetapi label keselamatan rasmi dan butiran pendaftaran tempatan tetap tidak terselesaikan.
+**Rasional:**
+- Mekanisme anti-VEGF jelas dan disokong RCT fasa 3 serta analisis susulan RIDE/RISE dalam retinopati diabetik. Walau bagaimanapun, bagi istilah NPDR teruk yang tepat, tiada percubaan berdaftar dipadankan dan bukti fasa 3 hanya disimpulkan daripada tajuk.
 
-**Untuk teruskan, perkara berikut diperlukan:**
-- Amaran sisipan pakej TFDA/NPRA, langkah berjaga-jaga, dan kontraindikasi (kini jurang data penyekat yang menghalang semakan keselamatan S1 rasmi)
-- Rekod mekanisme-tindakan yang disahkan DrugBank
-- Butiran lesen Malaysia yang lengkap (nombor lesen, nama produk, bentuk dos, teks indikasi yang diluluskan)
-- Pengesahan sama ada label Malaysia yang sedia ada sudah meliputi indikasi yang berkaitan dengan edema makula/DR, untuk menjelaskan berapa banyak daripada ini mewakili ubat baru yang sebenar berbanding perluasan label
-
+**Untuk meneruskan, perlu dilengkapkan:**
+- Pengesahan status pendaftaran ranibizumab dan indikasi lulus di NPRA (data pasaran kosong dan bercanggah dengan penggunaan sedia ada).
+- Amaran, kontraindikasi dan interaksi ubat daripada sisipan pek NPRA (jurang yang menghalang saringan keselamatan).
+- Data mekanisme tindakan terperinci (contohnya daripada DrugBank).
+- Pengesahan teks penuh bagi Pavilion (PMID 40048178) dan RIDE/RISE.
+- Pelan pemantauan keselamatan khusus untuk suntikan intravitreal dan sistem penghantaran port.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

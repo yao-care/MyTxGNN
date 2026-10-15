@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Cabergoline
-parent: Medium Evidence (L3)
-nav_order: 172
-evidence_level: L3
+parent: High Evidence (L1-L2)
+nav_order: 177
+evidence_level: L1
 indication_count: 5
 ---
 
 # Cabergoline
 {: .fs-9 }
 
-Tahap bukti: **L3** | Indikasi diramal: **5** 
+Tahap bukti: **L1** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,43 +29,56 @@ Tahap bukti: **L3** | Indikasi diramal: **5**
 
 </div>
 
-# Cabergoline: Daripada Hiperprolaktinemia (Prolaktinoma) ke Pituitary Adenocarcinoma (Penyakit)
+# Cabergoline: Daripada Hiperprolaktinemia kepada Kanser Pituitari
 
 ## Ringkasan Satu Ayat
 
-> Cabergoline adalah agonis reseptor dopamin D2 yang bertindak lama yang penggunaannya yang terbukti kaya dengan bukti adalah rawatan adenoma hipofisis yang mengeluarkan prolaktin dan adenoma hipofisis lain (hiperprolaktinemia). Ramalan berpangkat teratas model TxGNN untuk ubat ini ialah **Pituitary Adenocarcinoma (penyakit)**, tetapi bukti sokongan sangat nipis — **0 percubaan klinikal** dan hanya **3 penerbitan yang berkaitan secara bersinggungan**, dua daripadanya tidak benar-benar menerangkan penyakit yang diramalkan. Nod TxGNN yang berkaitan rapat dalam pakej bukti yang sama, "kanser hipofisis" (pangkat 3), membawa sokongan jauh lebih kuat (20 percubaan, 20 penerbitan) dan harus dianggap sebagai isyarat yang lebih boleh diambil tindakan untuk cerita penggunaan semula tumor hipofisis ubat ini.
+Cabergoline ialah agonis reseptor dopamin D2 yang pada asalnya digunakan untuk merawat hiperprolaktinemia dan tumor pituitari yang menghasilkan prolaktin.
+Model TxGNN meramalkan ia mungkin berkesan untuk **kanser pituitari**,
+dengan **13 percubaan klinikal** dan **20 penerbitan** yang dikumpulkan setakat ini. Namun, kebanyakannya melibatkan adenoma pituitari (bukan karsinoma pituitari sebenar).
 
 ---
 
-## Gambaran Pantas
+## Gambaran Keseluruhan Pantas
 
-| Item | Kandungan |
+| Perkara | Kandungan |
 |------|------|
-| Petunjuk Asal | Tidak tersedia daripada daftar Malaysia (NPRA) (rekod lesen tidak diisi). Berdasarkan literatur pakej bukti dan penerangan percubaan, penggunaan tetap cabergoline adalah rawatan hiperprolaktinemia / prolaktinoma dan adenoma hipofisis sekresi prolaktin lain. |
-| Petunjuk Baru yang Diramalkan | Pituitary Adenocarcinoma (penyakit) |
-| Skor Ramalan TxGNN | 99.06% |
-| Tahap Bukti | L3 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Jumlah Pendaftaran | 1 |
-| Keputusan yang Disyorkan | Tahan |
+| Indikasi Asal | Hiperprolaktinemia (termasuk hiperprolaktinemia familial, hiperprolaktinemia didapati dan tumor pituitari penghasil prolaktin) |
+| Indikasi Baharu yang Diramalkan | Kanser pituitari (pituitary cancer) |
+| Skor Ramalan TxGNN | 99.04% |
+| Tahap Bukti | L1 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
+
+> **Nota:** Ramalan peringkat teratas (adenokarsinoma pituitari, skor 99.06%) hanya disokong oleh tiga laporan kes yang tidak berkaitan secara langsung (tahap bukti L4, keputusan Hold). Laporan ini memberi tumpuan kepada "kanser pituitari" kerana ia mempunyai bukti klinikal yang paling banyak.
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci untuk cabergoline pada masa ini adalah jurang data yang didokumenkan (DG002) dalam pakej bukti ini. Walau bagaimanapun, literatur dan bukti percubaan klinikal yang dikumpulkan *dalam pakej ini* secara konsisten menerangkan cabergoline sebagai agonis reseptor dopamin D2 berpotency tinggi dan bertindak lama (dengan aktiviti 5-HT2B tambahan). Melalui pengaktifan reseptor D2, cabergoline menekan sekresi prolaktin dan secara langsung merencat proliferasi sel tumor hipofisis yang mengekspreskan reseptor D2 — ini adalah mekanismenya yang terbukti dalam prolaktinoma dan, semakin meningkat, dalam adenoma hipofisis bukan berfungsi (lihat cth PMID 38989697, PMID 31597135).
+Cabergoline ialah agonis reseptor dopamin D2. Ia merencat rembesan prolaktin dan boleh mengecutkan adenoma pituitari yang mengekspresikan reseptor D2. Peranannya dalam prolaktinoma sudah mantap. Kajian in vitro turut menunjukkan adenoma kortikotrof mengekspresikan reseptor D2, dan ulasan terkini menghuraikan mekanisme baharu cabergoline dalam merencat percambahan sel tumor dan mendorong kematian sel.
 
-Petunjuk baru yang diramalkan, "Pituitary Adenocarcinoma (penyakit)," adalah organ- dan mekanisme-berdekatan dengan penggunaan asal cabergoline: kedua-duanya melibatkan tumor kelenjar yang sama dan laluan sasaran dopaminergik yang sama. Pada pandangan pertama ini menjadikan ramalan TxGNN secara biologi munasabah. Walau bagaimanapun, rasional yang melekat pada nod tertentu ini adalah eksplisit bahawa kemunakalannya sebahagian besarnya diwarisi daripada **nod TxGNN yang berbeza dan berkaitan rapat — "kanser hipofisis" (pangkat 3 dalam pakej yang sama ini)** — daripada daripada bukti khusus untuk "pituitary adenocarcinoma" itu sendiri. Dua daripada tiga hit literatur yang diambil untuk nod ini hanya berkaitan secara bersinggungan (satu menerangkan karsinoma pankreas, yang lain kes varian gen MEN1), bermakna literatur *yang menyokong secara langsung* untuk label penyakit yang tepat ini pada asasnya adalah satu siri kes tunggal. Cerita mekanistik adalah boleh dipercayai, tetapi asas bukti langsung untuk label penyakit tepat ini adalah lemah.
+Hubungan antara indikasi asal dengan indikasi baharu terletak pada jenis tumor yang sama, iaitu tumor pituitari. Percubaan klinikal telah menguji cabergoline pada adenoma pituitari tidak berfungsi dan adenoma kortikotrof, dengan ekspresi reseptor D2 sebagai asas rasional.
 
-**Pembezaan penting:** badan bukti percubaan yang kuat dalam pakej bukti ini (20 percubaan, kebanyakannya Fasa 2–4, beberapa RCT yang siap) adalah untuk **adenoma** hipofisis — terutamanya prolaktinoma dan adenoma hipofisis bukan berfungsi, yang biasanya jinak — bukan untuk **karsinoma** hipofisis, entiti jarang dan lebih agresif yang bersifat ganas. Sebarang cadangan harus berhati-hati agar tidak mengelirukan bukti keberkesanan peringkat adenoma dengan tuntutan keberkesanan terhadap karsinoma hipofisis yang sebenar.
+Terdapat beberapa perkara yang perlu diberi perhatian. Kebanyakan bukti merujuk kepada **adenoma pituitari**, bukan karsinoma pituitari yang malignan. Karsinoma pituitari sangat jarang berlaku dan biasanya rintang terhadap agonis D2. Rawatan prolaktinoma sudah menjadi indikasi sedia ada, jadi ia bukan isyarat penggunaan semula ubat yang sebenar. Calon penggunaan semula yang sebenar ialah adenoma tidak berfungsi dan adenoma kortikotrof. Data terperinci tentang mekanisme tindakan (MOA) daripada DrugBank belum tersedia dalam data yang dikumpulkan untuk laporan ini.
 
 ---
 
 ## Bukti Percubaan Klinikal
 
-Pada masa ini tiada percubaan klinikal yang berkaitan didaftarkan untuk "Pituitary Adenocarcinoma (penyakit)" secara khusus (`clinical_trials` = 0 dalam nod bukti ini).
-
-*Nota: nod yang berkaitan rapat dalam pakej bukti yang sama ini, "kanser hipofisis," mempunyai 20 percubaan yang bersekutu — lihat "Calon TxGNN yang Berkaitan" di bawah untuk konteks.*
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
+|---------|------|------|------|---------|
+| [NCT00889525](https://clinicaltrials.gov/study/NCT00889525) | Fasa 3 | Selesai | Tidak dilaporkan | Cabergoline untuk tumor pituitari kortikotrof (penyakit Cushing); keputusan tidak dilaporkan |
+| [NCT03271918](https://clinicaltrials.gov/study/NCT03271918) | Fasa 3 | Selesai | 140 | RCT label terbuka cabergoline pada adenoma pituitari tidak berfungsi yang berbaki selepas pembedahan transsfenoid |
+| [NCT02288962](https://clinicaltrials.gov/study/NCT02288962) | Fasa 3 | Aktif, tidak merekrut | 60 | RCT agonis dopamin pada adenoma pituitari tidak berfungsi |
+| [NCT07463235](https://clinicaltrials.gov/study/NCT07463235) | Fasa 3 | Sedang merekrut | 70 | Dos tinggi cabergoline pada mikroprolaktinoma (indikasi sedia ada; fokus dos dan keselamatan) |
+| [NCT01620138](https://clinicaltrials.gov/study/NCT01620138) | Fasa 2/3 | Selesai | 21 | Ekspresi reseptor somatostatin dan dopamin pada adenoma tidak berfungsi dan prolaktinoma rintang; menyokong rasional mekanisme |
+| [NCT07034859](https://clinicaltrials.gov/study/NCT07034859) | Fasa 4 | Pendaftaran melalui jemputan | 30 | Cabergoline sebagai terapi utama untuk adenoma pituitari tidak berfungsi selama 48 minggu |
+| [NCT07045935](https://clinicaltrials.gov/study/NCT07045935) | Fasa 4 | Sedang merekrut | 60 | Kesan metabolik agonis dopamin pada pesakit prolaktinoma |
+| [NCT03457389](https://clinicaltrials.gov/study/NCT03457389) | Tiada fasa | Tidak diketahui | 68 | Paras prolaktin sasaran semasa rawatan cabergoline pada prolaktinoma |
+| [NCT01143584](https://clinicaltrials.gov/study/NCT01143584) | Tiada fasa | Tidak diketahui | 20 | Peningkatan dos pantas cabergoline pada makroprolaktinoma |
+| [NCT00376064](https://clinicaltrials.gov/study/NCT00376064) | Fasa 4 | Selesai | 20 | Gabungan octreotide dan cabergoline pada akromegali yang respons separa terhadap analog somatostatin |
 
 ---
 
@@ -73,59 +86,50 @@ Pada masa ini tiada percubaan klinikal yang berkaitan didaftarkan untuk "Pituita
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [20497940](https://pubmed.ncbi.nlm.nih.gov/20497940/) | 2010 | Siri kes/Retrospektif | Endocrine Practice | Pengurusan octreotide atau cabergoline jangka panjang dalam pesakit dengan hipersekresi ACTH ektopik; respons kortikotropin diterangkan dalam kes tunggal. |
-| [33569966](https://pubmed.ncbi.nlm.nih.gov/33569966/) | 2021 | Laporan kes (tidak berkaitan secara langsung — karsinoma pankreas adenoid) | Revista Española de Enfermedades Digestivas | Pesakit dengan adenoma hipofisis sedia ada pada cabergoline kemudian didiagnosis dengan penyusupan duodenal oleh karsinoma pankreas; cabergoline adalah insidental kepada kes itu, bukan fokus rawatan. |
-| [41760078](https://pubmed.ncbi.nlm.nih.gov/41760078/) | 2026 | Laporan kes (tidak langsung — sindrom MEN1) | Medicine | Kes MEN1 yang tidak tipikal dengan varian ketidakpastian patogenisiti; kaitannya dengan cabergoline/pituitary adenocarcinoma adalah tidak langsung (melalui tumor hipofisis yang bersekutu MEN1). |
+| [37097352](https://pubmed.ncbi.nlm.nih.gov/37097352/) | 2023 | Ulasan | JAMA | Diagnosis dan pengurusan adenoma pituitari, termasuk tumor berfungsi dan tidak berfungsi |
+| [40876473](https://pubmed.ncbi.nlm.nih.gov/40876473/) | 2025 | Ulasan | Lancet Diabetes Endocrinol | Patogenesis, diagnosis dan pengurusan adenoma perembes prolaktin |
+| [31597135](https://pubmed.ncbi.nlm.nih.gov/31597135/) | 2020 | Ulasan | Neuroendocrinology | Mekanisme anti-tumor baharu cabergoline dan potensi aplikasi yang lebih luas |
+| [38989697](https://pubmed.ncbi.nlm.nih.gov/38989697/) | 2024 | Praklinikal | Neuro-oncology | Menyasarkan HTR2B menekan pertumbuhan adenoma tidak berfungsi dan meningkatkan kepekaan terhadap cabergoline |
+| [25732645](https://pubmed.ncbi.nlm.nih.gov/25732645/) | 2015 | Ulasan | Endocrinol Metab Clin North Am | Kebanyakan kajian tidak mendapati peningkatan risiko valvulopati bererti dengan cabergoline |
+| [28025719](https://pubmed.ncbi.nlm.nih.gov/28025719/) | 2017 | Ulasan | Pituitary | Penggunaan cabergoline dalam akromegali |
+| [36013562](https://pubmed.ncbi.nlm.nih.gov/36013562/) | 2022 | Ulasan | Medicina (Kaunas) | Agonis dopamin sebagai rawatan utama prolaktinoma dan terapi pelbagai modaliti untuk kes agresif |
+| [34034260](https://pubmed.ncbi.nlm.nih.gov/34034260/) | 2022 | Ulasan | Neuroendocrinology | Kira-kira 10% pesakit yang dirawat cabergoline rintang; peranan miRNA |
+| [28170483](https://pubmed.ncbi.nlm.nih.gov/28170483/) | 2017 | Ulasan | JAMA | Diagnosis dan rawatan adenoma pituitari |
+| [36974474](https://pubmed.ncbi.nlm.nih.gov/36974474/) | 2023 | Ulasan | J Clin Endocrinol Metab | Pendekatan klinikal terhadap pesakit prolaktinoma |
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Daftar NPRA mengesahkan cabergoline dipasarkan di Malaysia (1 pendaftaran), tetapi bidang rekod lesen asas (nombor kebenaran, nama produk, bentuk dos, teks petunjuk yang diluluskan) pada masa ini kosong dalam pakej bukti ini. Maklumat pendaftaran terperinci tidak dapat diekstrak dan harus diperolehi terus daripada daftar produk NPRA sebelum titik data ini diandaikan sebelum ini.
-
----
-
-## Calon TxGNN yang Berkaitan dalam Pakej Bukti Ini
-
-Pakej bukti ini menjaringkan lima petunjuk yang diramalkan TxGNN untuk cabergoline. Untuk konteks, kerana mereka berkongsi biologi bertindih, mereka disarikan di sini (bukan pengganti bagi bahagian di atas, yang berskop kepada calon berpangkat teratas):
-
-| Pangkat | Penyakit | Skor TxGNN | Tahap Bukti | Cadangan | Nota |
-|------|---------|------|------|------|------|
-| 1 | Pituitary Adenocarcinoma (penyakit) | 99.06% | L3 | Soalan Penyelidikan | Tertakluk kepada laporan ini; literatur langsung sebahagian besarnya bersinggung |
-| 2 | Progeria–ringkas statur–nevi bercat sindrom | 99.06% | L5 | Tahan | Sifar percubaan/literatur; tiada pautan mekanistik yang munasabah ditegakkan |
-| 3 | Kanser hipofisis | 99.04% | L1 | Teruskan dengan Pengawal | 20 percubaan (beberapa Fasa 2/3 RCT yang siap) + 20 penerbitan, termasuk ulasan sistematik/meta-analisis dan garis panduan klinikal; bukti terkuat dalam pakej, tetapi kebanyakannya untuk adenoma (prolaktinoma/NFPA), bukan karsinoma sebenar |
-| 4 | Serebral palsi, spastik kuadriplegik | 99.02% | L5 | Tahan | Sifar percubaan/literatur; pautan dopaminergik teoretikal sahaja |
-| 5 | Glaukoma | 99.01% | L4 | Tahan | Literatur adalah bercanggah — laporan kes dan ulasan menerangkan cabergoline sebagai **punca** glaukoma sudut tertutup yang disebabkan ubat, bukan rawatan; isyarat risiko, bukan peluang penggunaan semula |
-
-Taburan ini mencadangkan skor TxGNN sahaja (semua lima calon berkelompok sekitar 99%) tidak membezakan di sini — tahap bukti berbeza dari L1 hingga L5 merentas calon dengan skor hampir sama, menekankan keperluan untuk tapisan berasaskan bukti daripada pemeringkatan berasaskan skor sahaja.
+Cabergoline kini **tidak dipasarkan** di Malaysia dan tiada pendaftaran NPRA dalam data yang dikumpulkan.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan (bidang keselamatan formal — amaran utama, kontraindikasi, interaksi ubat — semuanya ialah jurang data dalam pakej bukti ini; DG001 menandakan ini sebagai jurang **Menghalang** yang menghalang calon ini daripada memasuki peringkat pra-penilaian keselamatan S1).
+- **Kontraindikasi (berdasarkan graf pengetahuan, bukan teks label):** penyakit hati, penyakit pundi hempedu, penyakit injap jantung, fibrosis pulmonari (termasuk fibrosis pulmonari pasca-radang), fibrosis retroperitoneal berkaitan IgG4, pra-eklampsia teruk dan pra-eklampsia.
+- **Interaksi Ubat:** 60 interaksi direkodkan. Interaksi **Major** ialah **lorcaserin** dan **clarithromycin**. Interaksi **Moderate** ialah **metoclopramide**. Selebihnya (contohnya metformin, omeprazole, prednisone, simvastatin dan morphine) belum dikelaskan tahapnya.
+- **Isu keselamatan lain daripada literatur dan penilaian bukti:** risiko valvulopati jantung pada dos tinggi, gangguan kawalan impuls, dan satu laporan kes glaukoma sudut tertutup bilateral selepas cabergoline.
 
-Untuk kesedaran, literatur *dalam pakej bukti ini* (bukan label rasmi) berulang kali membangkitkan isyarat keselamatan yang relevan dengan cabergoline sebagai kelas agonis dopamin yang diterbitkan ergot yang harus dijejaki sebaik sahaja data label rasmi diperolehi:
-- Penyakit injap jantung / regurgitasi injap jantung dengan penggunaan kronik (PMID 25732645; NCT00460616)
-- Gangguan kawalan dorongan (sehingga prevalensi yang dilaporkan ~60% dalam satu kajian saringan) (PMID 41619686)
-- Glaukoma sudut tertutup dwisisi yang disebabkan ubat (PMID 21347189; PMID 25943730)
+Amaran utama dan kontraindikasi daripada sisipan pakej tidak tersedia. Sila rujuk sisipan pakej untuk maklumat keselamatan lengkap.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Proceed with Guardrails (Teruskan dengan Langkah Kawalan)**
 
-**Rasional:**
-Ramalan TxGNN berpangkat teratas untuk cabergoline — Pituitary Adenocarcinoma (penyakit) — mempunyai tiada percubaan klinikal yang menyokong dan hanya sokongan literatur yang bersinggung (L3, peringkat "Soalan Penyelidikan"), jadi ia tidak lagi wajar untuk kemajuan. Secara berasingan, data label Malaysia (NPRA) yang wajib — amaran/kontraindikasi — ialah jurang data **Menghalang** (DG001), bermakna tiada calon untuk ubat ini — termasuk nod "kanser hipofisis" yang lebih kaya bukti — boleh secara rasmi melepasi pra-penilaian keselamatan S1 sehingga data itu diperolehi.
+**Justifikasi:**
+- Terdapat beberapa RCT Fasa 3 (NCT00889525, NCT03271918, NCT02288962) yang menguji cabergoline pada adenoma pituitari tidak berfungsi dan kortikotrof, disokong oleh ulasan literatur. Namun bukti ini menyokong tumor pituitari secara umum dan tidak boleh diekstrapolasi terus kepada karsinoma pituitari yang malignan.
+- Ramalan lain (adenokarsinoma pituitari, sindrom progeria-bertubuh pendek-nevus berpigmen, lumpuh serebrum kuadriplegia spastik) berada pada tahap L4/L5 dengan keputusan **Hold**. Ramalan glaukoma tidak disokong kerana bukti menunjukkan potensi mudarat.
 
-**Untuk meneruskan, perkara berikut diperlukan:**
-- Ambil label/sisipan produk NPRA (amaran, kontraindikasi, DDI) untuk menutup jurang Menghalang (DG001) dan membolehkan pra-penilaian keselamatan S1
-- Dapatkan dokumentasi mekanisme tindakan yang disahkan daripada DrugBank untuk menutup DG002
-- Nyatakan skop penyakit dengan jelas: jelaskan sama ada "pituitary adenocarcinoma" dalam alur kerja ini dimaksudkan untuk menangkap adenoma hipofisis jinak (di mana bukti kuat, setiap nod pangkat-3 yang berkaitan) atau karsinoma hipofisis yang sebenar ganas (di mana bukti tetap pada asasnya tidak hadir)
-- Jika maksud ialah petunjuk adenoma/prolaktinoma, menilai semula menggunakan asas bukti "kanser hipofisis" pangkat-3 (L1, 20 percubaan termasuk Fasa 2/3 RCT yang siap dan ulasan sistematik/meta-analisis), yang jauh lebih kuat daripada nod pangkat-1 yang dijaringkan di sini
-- Lengkapkan butiran rekod lesen NPRA (nombor kebenaran, teks petunjuk yang diluluskan, bentuk dos) yang pada masa ini hilang daripada pengekstrakan daftar
-
+**Untuk diteruskan, perkara berikut diperlukan:**
+- Keputusan dan data pendaftaran daripada percubaan Fasa 3 yang telah selesai (terutamanya NCT00889525 dan NCT03271918).
+- Pengesahan ekspresi reseptor D2 pada tumor sasaran sebelum digunakan untuk tumor bukan prolaktin.
+- Sisipan pakej NPRA untuk amaran dan kontraindikasi (jurang data yang menghalang penyaringan keselamatan).
+- Data mekanisme tindakan terperinci (MOA).
+- Pelan pemantauan keselamatan: ekokardiografi untuk valvulopati pada dos tinggi, pemantauan gangguan kawalan impuls, dan semakan 60 interaksi ubat, terutamanya dengan clarithromycin dan lorcaserin.
+- Cabergoline tidak dipasarkan di Malaysia, jadi laluan pendaftaran atau akses perlu dinilai.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

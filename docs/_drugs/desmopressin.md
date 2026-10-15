@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Desmopressin
-parent: Low Evidence (L4-L5)
-nav_order: 259
-evidence_level: L4
+parent: Medium Evidence (L3)
+nav_order: 265
+evidence_level: L3
 indication_count: 7
 ---
 
 # Desmopressin
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **7** 
+Tahap bukti: **L3** | Indikasi diramal: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,43 +29,45 @@ Tahap bukti: **L4** | Indikasi diramal: **7**
 
 </div>
 
-# Desmopressin: Dari Indikasi Asal (Tidak Diekstrak) ke Kekurangan Protrombin Kongenital
+# Desmopressin: Daripada Penyakit von Willebrand kepada Gangguan Pelepasan Primer Platelet
 
 ## Ringkasan Satu Ayat
 
-Desmopressin (DrugBank DB00035) ialah ubat terdaftar di Taiwan (7 lesen TFDA, status pasaran "Dipasarkan"), walaupun teks indikasi asal yang berlabel tidak ditangkap dalam ekstrak data ini. Ramalan teratas model TxGNN ialah keberkesanan dalam **kekurangan protrombin kongenital**, tetapi bukti yang menyokong — **1 uji klinis** (mengkaji ubat yang berbeza, emicizumab) dan **4 penerbitan** (tidak ada yang secara khusus menangani penyakit ini) — tidak membuktikan pasangan mekanik, dan pakej bukti itu sendiri menandainya sebagai kemungkinan **ketidakpadanan bukti**.
+Desmopressin pada asalnya digunakan untuk merawat penyakit von Willebrand, hemofilia dan enuresis nokturnal.
+Model TxGNN meramalkan ia mungkin berkesan untuk **gangguan pelepasan primer platelet** (primary release disorder of platelets), iaitu calon dengan bukti paling munasabah antara semua ramalan yang disenaraikan.
+Setakat ini terdapat **0 percubaan klinikal** yang berdaftar dan **9 penerbitan** yang berkaitan, kebanyakannya ulasan serta kajian kecil.
+
+> Nota: Ramalan teratas mengikut skor TxGNN ialah *congenital prothrombin deficiency* (99.70%), tetapi tiada rasional mekanistik dan bukti yang menyokongnya. Laporan ini memilih calon rank 4 sebagai fokus kerana bukti dan rasional farmakologinya paling kukuh. Ramalan lain diringkaskan di bahagian akhir.
 
 ---
 
-## Panduan Pantas
+## Gambaran Keseluruhan Pantas
 
-| Item | Kandungan |
-|------|----------|
-| Indikasi Asal | Tidak tersedia — teks indikasi lesen TFDA tidak diekstrak untuk mana-mana 7 pendaftaran (Jurang Data DG001) |
-| Indikasi Baru yang Diramalkan | Kekurangan Protrombin Kongenital |
-| Skor Ramalan TxGNN | 99.70% |
-| Tahap Bukti | L4 |
-| Status Pasaran Malaysia (data TFDA/Taiwan) | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 7 |
-| Keputusan yang Disyorkan | Tangguh |
-
----
-
-## Mengapa Ramalan Ini Masuk Akal?
-
-Data mekanisme tindakan terperinci untuk desmopressin tidak tersedia dalam rekod sumber (`original_moa` adalah Jurang Data yang ditandai, DG002). Bagaimanapun, rasional yang diperoleh daripada literatur pakej bukti itu sendiri secara konsisten menerangkan farmakologi desmopressin yang telah ditetapkan: ia adalah agonis reseptor vasopressin V2 yang mencetuskan pelepasan faktor von Willebrand endogen (vWF) dan Faktor VIII daripada badan Weibel-Palade endotel, dan meningkatkan perlekatan platelet. Mekanisme ini mendasari penggunaannya yang diterima (termasuk penggunaan di luar label) dalam hemofilia A ringan, penyakit von Willebrand, dan gangguan pelepasan platelet tertentu — pola yang tercermin dalam literatur yang dilampirkan pada beberapa indikasi lain yang diramalkan dalam pakej bukti ini (cth. PMID 36656570, PMID 21509710).
-
-Untuk kekurangan protrombin (Faktor II) kongenital khususnya, mekanisme ini tidak terpakai: sintesis dan aktiviti protrombin tidak berkaitan dengan laluan pelepasan vWF/Faktor VIII yang desmopressin bertindak. Konsisten dengan ini, uji klinis yang dilampirkan (NCT04567511) mengkaji emicizumab — bukan desmopressin — untuk hemofilia A ringan, dan empat petikan literatur menyangkut hemofilia A yang diperoleh, kekurangan Faktor V/VIII gabungan, dan rawatan rasional umum gangguan pendarahan, tidak ada satupun yang secara langsung menangani kekurangan protrombin. Pakej bukti itu sendiri mencirikan ini sebagai "ketidakpadanan bukti": skor TxGNN yang tinggi tanpa asas mekanik atau klinis yang koheren.
-
-Dua calon lain dalam kumpulan penilaian yang sama menunjukkan penjajaran yang lebih kuat secara material dan mungkin memerlukan susulan berasingan: **gangguan pelepasan primer platelet** (kedudukan 4, tahap bukti L3, peringkat keputusan S2, cadangan "Teruskan dengan Pengawalan") dan **trombasenia Glanzmann** (kedudukan 3, tahap bukti L3, peringkat keputusan S1, "Soalan Penyelidikan"), kedua-duanya disokong secara langsung oleh literatur yang relevan dengan mekanisme tentang kesan pemendekkan masa pendarahan desmopressin yang diketahui.
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Penyakit von Willebrand (keturunan atau diperoleh), hemofilia, enuresis nokturnal |
+| Indikasi Baharu yang Diramalkan | Gangguan pelepasan primer platelet (primary release disorder of platelets) |
+| Skor Ramalan TxGNN | 99.26% |
+| Tahap Bukti | L3 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
 
 ---
 
-## Bukti Uji Klinis
+## Mengapakah Ramalan Ini Munasabah?
 
-| Nombor Uji | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT04567511](https://clinicaltrials.gov/study/NCT04567511) | Fasa 4 | Merekrut | 20 | Mengkaji Hemlibra (emicizumab) — bukan desmopressin — dalam hemofilia A ringan. Perkaitan dinilai **C** (rendah): ubat yang berbeza, indikasi yang berbeza daripada kekurangan protrombin kongenital. |
+Data terperinci mengenai mekanisme tindakan asal tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Walau bagaimanapun, berdasarkan maklumat yang diketahui, desmopressin ialah analog sintetik vasopressin yang merangsang pelepasan faktor von Willebrand (VWF) dan faktor VIII daripada simpanan endotelium. Kesannya meningkatkan lekatan platelet dan memendekkan masa pendarahan.
+
+Penyakit von Willebrand ialah gangguan hemostasis primer yang berpunca daripada kelainan lekatan platelet. Gangguan pelepasan platelet (termasuk kecacatan seperti aspirin dan sindrom Hermansky-Pudlak) turut menjejaskan fungsi platelet yang bergantung kepada perembesan. Oleh itu, kesan desmopressin terhadap hemostasis primer berpotensi relevan.
+
+Kajian kohort pediatrik mengenai kecacatan seperti aspirin menilai kesan desmopressin terhadap hemostasis primer. Kajian mekanistik juga menunjukkan jumlah VWF yang terikat pada mikropartikel meningkat selepas infusi desmopressin, yang mungkin menerangkan kesan pada gangguan platelet yang tidak dapat dijelaskan oleh peningkatan VWF/FVIII sahaja. Ulasan 2023 turut menyifatkan desmopressin sebagai agen hemostatik dan penjimat darah dalam gangguan pendarahan. Namun, bukti terhad kepada kajian kecil yang kebanyakannya tidak terkawal atau berbentuk pemerhatian, dan tindak balas antara pesakit berbeza-beza.
+
+---
+
+## Bukti Percubaan Klinikal
+
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ---
 
@@ -73,40 +75,61 @@ Dua calon lain dalam kumpulan penilaian yang sama menunjukkan penjajaran yang le
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [21115138](https://pubmed.ncbi.nlm.nih.gov/21115138/) | 2011 | Ulasan | Autoimmunity Reviews | Diagnosis, etiologi, dan rawatan hemofilia A yang diperoleh — bukan kekurangan protrombin. |
-| [7684674](https://pubmed.ncbi.nlm.nih.gov/7684674/) | 1993 | Ulasan | Drugs | Pilihan rawatan rasional untuk gangguan pendarahan kongenital secara umum (hemofilia A, penyakit von Willebrand). |
-| [1942544](https://pubmed.ncbi.nlm.nih.gov/1942544/) | 1991 | Laporan Kes | Rinsho Ketsueki | Pengurusan seksyen kaisar dengan penggantian Faktor VIII dalam kekurangan Faktor V/VIII gabungan — bukan kekurangan protrombin. |
-| [2607619](https://pubmed.ncbi.nlm.nih.gov/2607619/) | 1989 | Laporan Kes | Rinsho Ketsueki | Pentadbiran DDAVP dalam kekurangan Faktor V/VIII gabungan — bukan kekurangan protrombin. |
-
-Tidak ada literatur di atas yang secara langsung mengkaji desmopressin dalam kekurangan protrombin kongenital.
+| [36656570](https://pubmed.ncbi.nlm.nih.gov/36656570/) | 2023 | Ulasan | Eur J Haematol | Desmopressin melepaskan VWF dan FVIII, meningkatkan lekatan platelet dan memendekkan masa pendarahan; berkesan dalam hemofilia A ringan, subjenis VWD tertentu, uremia dan penyakit hati, tetapi boleh menyebabkan hiponatremia dan jarang kejadian trombotik arteri |
+| [22726100](https://pubmed.ncbi.nlm.nih.gov/22726100/) | 2012 | Ulasan | Haemophilia | Gambaran keseluruhan gangguan platelet keturunan yang menyebabkan pendarahan |
+| [18278172](https://pubmed.ncbi.nlm.nih.gov/18278172/) | 2008 | Ulasan | Thromb Haemost | Kecacatan genetik pada keturunan megakariosit dan sindrom pendarahan |
+| [21509710](https://pubmed.ncbi.nlm.nih.gov/21509710/) | 2011 | Kohort | Klin Padiatr | Penilaian kesan desmopressin terhadap hemostasis primer pada kanak-kanak dengan kecacatan seperti aspirin |
+| [23051555](https://pubmed.ncbi.nlm.nih.gov/23051555/) | 2013 | Kajian mekanistik | Haemophilia | Jumlah VWF yang terikat pada mikropartikel meningkat selepas infusi desmopressin |
+| [16580053](https://pubmed.ncbi.nlm.nih.gov/16580053/) | 2006 | Ulasan | Thromb Res | Desmopressin ialah rawatan utama bagi kebanyakan pesakit VWD melalui pelepasan VWF |
+| [30986390](https://pubmed.ncbi.nlm.nih.gov/30986390/) | 2019 | Garis panduan/Ulasan | Gastroenterology | Kemas kini amalan klinikal AGA mengenai koagulasi dalam sirosis |
+| [22057877](https://pubmed.ncbi.nlm.nih.gov/22057877/) | 2011 | Laporan kes | Hamostaseologie | Menorrhagia refraktori terhadap terapi sebagai manifestasi pertama sindrom Hermansky-Pudlak |
+| [34818873](https://pubmed.ncbi.nlm.nih.gov/34818873/) | 2022 | Kajian klinikal (agen lain) | Haematologica | Aptamer BT200 meningkatkan paras VWF dan FVIII dalam kajian pertama pada manusia (bukan desmopressin) |
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Butiran peringkat lesen (nombor kebenaran, nama produk, bentuk dos, teks indikasi) tidak ditangkap untuk mana-mana 7 pendaftaran TFDA dalam ekstrak data ini — hanya kiraan agregat dan status pasaran ("Dipasarkan") tersedia. Menurut Jurang Data DG001, menyelesaikan ini memerlukan memuat turun dan menganalisis PDF label TFDA secara langsung.
+Desmopressin pada masa ini tidak dipasarkan di Malaysia dan tiada pendaftaran yang direkodkan.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila merujuk sisipan pakej untuk maklumat keselamatan. Nota: Amaran label TFDA dan kontraindikasi untuk desmopressin tidak tersedia dalam ekstrak ini (Jurang Data DG001, keterukan: Menyekat) — jurang ini pada masa kini menghalang calon daripada memasuki peringkat penilaian keselamatan S1.
+- **Kontraindikasi (berdasarkan graf pengetahuan, bukan teks label):** hipertensi, penyakit arteri koronari, gangguan fungsi renal, fibrosis sistik, polidipsia, keracunan air, diabetes insipidus dipsogenik, penyakit von Willebrand (subjenis tertentu), serta beberapa keadaan respirasi seperti rinitis alergi, rinitis vasomotor, faringitis, selesema dan jangkitan saluran respirasi.
+- **Interaksi Ubat:** Sebanyak 100 interaksi direkodkan. Interaksi **Major** yang utama melibatkan kortikosteroid: hidrokortison, triamsinolon, deksametason, beklometason dipropionat, betametason, budesonid, prednisolon dan prednison. Interaksi **Moderate** termasuk epinefrin, loperamid, morfin (termasuk liposomal), opium dan klorpropamid. Interaksi **Minor**: asid asetilsalisilik.
+- **Risiko berkaitan penggunaan:** Hiponatremia dan, jarang, kejadian trombotik arteri (berdasarkan ulasan 2023). Pemantauan cecair dan natrium disyorkan.
+
+Sila rujuk sisipan pek untuk maklumat keselamatan lanjut.
+
+---
+
+## Ramalan Lain yang Dinilai
+
+| Penyakit yang Diramalkan | Skor TxGNN | Tahap Bukti | Keputusan | Catatan |
+|------|------|------|------|------|
+| Defisiensi protrombin kongenital | 99.70% | L5 | Hold | Tiada rasional mekanistik; skor tinggi mungkin hanya mencerminkan kedekatan rangkaian |
+| Trombofilia diwarisi | 99.44% | L5 | Hold | Arah pro-trombotik; isyarat ini lebih bersifat kebimbangan keselamatan |
+| Trombastenia Glanzmann | 99.30% | L4 | Research Question | Bukti tidak langsung (ulasan dan laporan kes); rawatan lini pertama ialah transfusi platelet dan rFVIIa |
+| Penyakit pseudo-von Willebrand | 99.16% | L4 | Hold | Desmopressin boleh memburukkan trombositopenia; secara amnya dielakkan atau digunakan dengan berhati-hati |
+| Sindrom Scott | 99.16% | L5 | Hold | Tiada kesan langsung yang diketahui terhadap kecacatan skramblase |
+| "Flood factor deficiency" | 99.15% | L4 | Hold | Nama penyakit nampaknya artifak pemetaan data; identiti perlu dijelaskan |
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tangguh**
+**Keputusan: Proceed with Guardrails (Teruskan dengan Langkah Kawalan)**
 
 **Rasional:**
-Skor TxGNN untuk kekurangan protrombin kongenital adalah tinggi, tetapi uji klinis yang dilampirkan dan bukti literatur tidak menangani pasangan ubat-penyakit ini, dan mekanisme yang mendasar (pelepasan vWF/Faktor VIII) tidak mempunyai sambungan yang ditetapkan dengan sintesis atau aktiviti protrombin. Ini dinilai sebagai ketidakpadanan bukti yang mungkin daripada isyarat penyusunan semula yang tulen.
+- Bagi gangguan pelepasan primer platelet, terdapat rasional mekanistik yang munasabah serta kajian kecil (kohort pediatrik dan kajian mekanistik) yang menyokong kesan terhadap hemostasis primer. Namun, tiada percubaan klinikal berdaftar, bukti terhad kepada kajian kecil dan tindak balas pesakit berbeza-beza.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Amaran label TFDA/kontraindikasi (DG001, Menyekat) — diperlukan sebelum sebarang penilaian keselamatan boleh dimulai
-- Butiran mekanisme tindakan DrugBank (DG002) untuk mengesahkan atau menolak mana-mana laluan tidak langsung kepada kekurangan protrombin
-- Jika pasangan ubat-penyakit ini akan diikuti lebih lanjut, carian literatur/uji yang disasarkan khusus untuk desmopressin dan kekurangan Faktor II (tidak ada yang wujud dalam pakej ini)
-- Pertimbangkan untuk mengutamakan semakan calon yang lebih kuat dalam kumpulan yang sama — **gangguan pelepasan primer platelet** (S2, "Teruskan dengan Pengawalan") dan **trombasenia Glanzmann** (S1, "Soalan Penyelidikan") — yang mempunyai sokongan mekanik dan literatur langsung
-
+- Amaran dan kontraindikasi daripada sisipan pek NPRA (jurang data yang menyekat saringan keselamatan)
+- Data mekanisme tindakan terperinci daripada DrugBank
+- Memandangkan produk tidak dipasarkan di Malaysia, laluan pendaftaran atau akses perlu dijelaskan
+- Protokol infusi ujian dengan pemantauan tindak balas, serta pemantauan cecair dan natrium untuk mengelakkan hiponatremia
+- Pengesahan melalui kajian terkawal atau siri kes yang lebih besar
+- Penjelasan identiti penyakit bagi entri "flood factor deficiency" sebelum sebarang penilaian lanjut
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

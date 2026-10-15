@@ -2,7 +2,7 @@
 layout: default
 title: Asfotase Alfa
 parent: Low Evidence (L4-L5)
-nav_order: 93
+nav_order: 97
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,77 +29,70 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Asfotase alfa: Daripada Hipofospatasia kepada Gangguan Fosforilasi Oksidatif Mitokondria Disebabkan Anomali DNA Nuklear
+# Asfotase Alfa: Daripada Terapi Penggantian Enzim TNSALP (Hipofosfatasia) kepada Gangguan Fosforilasi Oksidatif Mitokondria Akibat Anomali DNA Nukleus
 
 ## Ringkasan Satu Ayat
 
-Asfotase alfa (Strensiq) ialah terapi penggantian enzim berorientasikan tulang yang pertama dalam kelasnya (ERT) untuk hipofospatasia (HPP), suatu gangguan metabolik warisan yang jarang disebabkan oleh aktiviti alkalin fosfatase bukan-spesifik tisu (TNSALP) yang tidak mencukupi — suatu petunjuk yang telah terbukti yang disahkan secara independen oleh model TxGNN pada pangkat 3 dengan bukti Tahap 1.
-Ramalan novel bertaraf teratas model menunjukkan ia mungkin relevan untuk **gangguan fosforilasi oksidatif mitokondria yang disebabkan oleh anomali DNA nuklear**,
-dengan **0 percubaan klinikal** dan **0 penerbitan** yang kini menyokong arah ini.
+Asfotase alfa ialah terapi penggantian enzim (rekombinan TNSALP) yang digunakan untuk merawat hipofosfatasia.
+Model TxGNN meramalkan ia mungkin berkesan untuk **gangguan fosforilasi oksidatif mitokondria akibat anomali DNA nukleus**.
+Setakat ini **tiada sebarang percubaan klinikal atau penerbitan** yang menyokong ramalan ini, dan ia hanya berasaskan ramalan model.
 
 ---
 
-## Tinjauan Pantas
+## Gambaran Keseluruhan Pantas
 
-| Item | Kandungan |
-|------|----------|
-| Petunjuk Asal | Hipofospatasia (HPP) — teks petunjuk terkawal Malaysia tidak ditangkap; petunjuk yang diluluskan global yang telah ditetapkan |
-| Petunjuk Baharu yang Diramalkan | Gangguan fosforilasi oksidatif mitokondria yang disebabkan oleh anomali DNA nuklear |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Tiada data indikasi berdaftar tempatan (berdasarkan maklumat mekanisme, ubat ini menggantikan enzim TNSALP dalam hipofosfatasia) |
+| Indikasi Baharu yang Diramalkan | Gangguan fosforilasi oksidatif mitokondria akibat anomali DNA nukleus |
 | Skor Ramalan TxGNN | 99.95% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 2 |
-| Keputusan yang Disyorkan | Tahan |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (Tahan) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia dalam pakej bukti semasa. Berdasarkan maklumat klinikal yang diketahui, asfotase alfa ialah protein fusion TNSALP manusia rekombinan yang menggabungkan domain penargetan tulang deca-aspartat yang mengarahkan enzim ke kompartmen rangka. Mekanismenya yang telah ditetapkan melibatkan penghantaran subkutan TNSALP berfungsi, yang menghidrolisa pirofosfat anorganik ekstrasel (PPi) — penghambat kuat pemendapan kristal hidroksiapatit — dan piridoksal 5'-fosfat (PLP), memulihkan mineralisasi rangka normal pada pesakit dengan mutasi gen ALPL kehilangan fungsi.
+Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia dalam data yang dihimpunkan. Berdasarkan maklumat yang diketahui, asfotase alfa ialah protein gabungan TNSALP-Fc-deka-aspartat yang menggantikan aktiviti enzim alkali fosfatase tak spesifik tisu di luar sel, supaya mineralisasi tulang dapat dipulihkan.
 
-Pautan yang dicadangkan kepada gangguan fosforilasi oksidatif mitokondria (OxPhos) adalah **sangat spekulatif, tanpa asas mekanistik langsung.** Gangguan OxPhos timbul daripada mutasi dalam gen nuklear yang mengkod subunit rantai pengangkutan elektron mitokondria (ETC) atau faktor pemasangan — patofisiologi yang berbeza asasnya daripada mutasi gen ALPL dan kekurangan TNSALP. Walaupun alkalin fosfatase menyertai metabolisme purin ekstrasel (contohnya, hidrolisis ATP kepada AMP), pada masa ini tiada bukti yang diterbitkan bahawa pelengkapan TNSALP eksogen dapat membetulkan disfungsi ETC kompleks, meningkatkan pengeluaran tenaga mitokondria, atau memodulasi laluan OxPhos yang berkaitan dengan DNA nuklear.
-
-Ramalan pangkat 1 ini kemungkinan besar mencerminkan topologi graf pengetahuan (KG): kedua-dua keadaan adalah gangguan metabolik warisan sistemik yang jarang dan teruk berkongsi nod fenotip (contohnya, hipotonia otot, kelewatan perkembangan, penglibatan multisistem), yang dapat menghasilkan skor ramalan tinggi tanpa keselarasan mekanistik sebenar. Penting, model TxGNN dengan betul dan secara independen mengenal pasti hipofospatasia sebagai sasaran keyakinan tinggi (pangkat 3, skor 99.89%, tahap bukti L1) — menunjukkan kapasiti model untuk menangkap biologi ubat-penyakit yang tulin. Ramalan OxPhos pangkat 1, bagaimanapun, kekal hipotesis pengiraan penerokaan semata yang memerlukan penyelidikan mekanistik besar sebelum sebarang pertimbangan translasional atau klinikal dijamin.
+Penilaian mekanistik menyimpulkan bahawa **tiada hubungan mekanistik yang jelas** antara ubat ini dengan gangguan fosforilasi oksidatif mitokondria. Kecacatan dalam penyakit ini berpunca daripada gen yang dikodkan oleh nukleus dan menjejaskan rantaian respirasi dalam mitokondria, sedangkan asfotase alfa tidak menangani masalah tersebut. Skor TxGNN yang tinggi (99.95%) ialah ramalan berasaskan graf pengetahuan dan tidak disokong oleh bukti klinikal mahupun literatur.
 
 ---
 
 ## Bukti Percubaan Klinikal
 
-Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan untuk gangguan fosforilasi oksidatif mitokondria yang disebabkan oleh anomali DNA nuklear.
+Pada masa ini tiada percubaan klinikal berkaitan didaftarkan untuk indikasi yang diramalkan ini.
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Literatur
 
-Pada masa ini tiada kesusasteraan berkaitan tersedia untuk gangguan fosforilasi oksidatif mitokondria yang disebabkan oleh anomali DNA nuklear.
-
----
-
-## Maklumat Pasaran Malaysia
-
-Asfotase alfa memegang 2 pendaftaran di Malaysia (status pasaran: Dipasarkan). Rekod pendaftaran terperinci — termasuk nombor kebenaran, nama produk, bentuk dos, dan teks petunjuk yang diluluskan — tidak ditangkap dalam set data semasa. Sila rujuk Agensi Kawal Selia Farmaseutikal Kebangsaan (NPRA) Malaysia untuk butiran pendaftaran produk yang lengkap.
+Pada masa ini tiada literatur berkaitan yang tersedia untuk indikasi yang diramalkan ini.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk risalah pembungkusan untuk maklumat keselamatan.
+Sila rujuk sisipan pek untuk maklumat keselamatan. Tiada interaksi ubat yang direkodkan dalam data yang dihimpunkan.
 
 ---
 
-## Kesimpulan dan Langkah Berikutnya
+## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold (Tahan)**
 
 **Rasional:**
-Walaupun skor ramalan TxGNN tinggi (99.95%), tiada asas mekanistik, data percubaan klinikal, atau kesusasteraan yang diterbitkan menghubungkan asfotase alfa kepada gangguan fosforilasi oksidatif mitokondria yang disebabkan oleh anomali DNA nuklear (Tahap Bukti L5). Ramalan dikategorikan sebagai sangat spekulatif — kemungkinan besar didorong oleh pertindihan fenotip dan kedekatanproksimaliti penyakit metabolik jarang dalam graf pengetahuan, bukannya mekanisme biologi yang dikongsi.
+- Ramalan ini hanya berasaskan model (tahap bukti L5), tanpa percubaan klinikal, tanpa literatur, dan tanpa hubungan mekanistik yang munasabah.
+- Ubat ini juga tidak mempunyai pendaftaran di Malaysia.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- **Penyiasatan sains asas:** Tentukan sama ada TNSALP, PPi, atau PLP memodulasi fungsi mitokondria atau komponen laluan OxPhos dalam mana-mana sistem eksperimental
-- **Bukti-bukti preklinikal:** Kajian in vitro dan in vivo menggunakan model penyakit OxPhos yang ditetapkan (contohnya, sel ketiadaan kompleks ETC I/IV) yang dirawat dengan TNSALP rekombinan
-- **Pelengkapan data kawal selia:** Peroleh rekod pendaftaran NPRA penuh termasuk nama produk, bentuk dos, dan teks petunjuk yang diluluskan Malaysia
-- **Pengambilan data keselamatan:** Muat turun dan huraikan risalah pembungkusan untuk kontraindikasi, amaran utama, dan profil interaksi ubat-ubat daripada laman web NPRA
+- Data mekanisme tindakan yang terperinci, contohnya daripada DrugBank.
+- Maklumat amaran dan kontraindikasi daripada sisipan pek NPRA.
+- Bukti praklinikal atau mekanistik yang menunjukkan kaitan antara penggantian TNSALP dengan disfungsi fosforilasi oksidatif mitokondria.
 
+**Nota tambahan:** Antara 10 ramalan teratas, isyarat bukti terkuat ialah untuk **hipofosfatasia** (kedudukan ke-3, skor 99.89%). Terdapat 15 percubaan klinikal (termasuk beberapa kajian Fasa 2 dan Fasa 2/3 yang telah selesai) serta 17 penerbitan, dengan tahap bukti L1 dan cadangan Proceed with Guardrails. Namun, ini ialah penemuan semula indikasi yang sudah diluluskan di peringkat antarabangsa, bukan pengalihan guna yang sebenar. Satu percubaan Fasa 3 (NCT06079372) menilai agen lain, dengan asfotase alfa sebagai pembanding. Jika objektif ialah menilai kemasukan ubat ini ke Malaysia, indikasi hipofosfatasia wajar dinilai secara berasingan, bersama pengesahan status pendaftaran tempatan.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

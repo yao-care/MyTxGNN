@@ -2,7 +2,7 @@
 layout: default
 title: Linagliptin
 parent: Low Evidence (L4-L5)
-nav_order: 443
+nav_order: 463
 evidence_level: L5
 indication_count: 0
 ---

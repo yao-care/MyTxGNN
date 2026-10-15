@@ -2,7 +2,7 @@
 layout: default
 title: Corifollitropin Alfa
 parent: Low Evidence (L4-L5)
-nav_order: 237
+nav_order: 242
 evidence_level: L5
 indication_count: 8
 ---
@@ -29,78 +29,78 @@ Tahap bukti: **L5** | Indikasi diramal: **8**
 
 </div>
 
-# Corifollitropin Alfa: Daripada Indikasi Asal Tidak Berdaftar kepada Gastroduodenitis
+# Corifollitropin Alfa: Daripada Indikasi Asal (Tiada Data) kepada Gastroduodenitis
 
-## Satu Ayat Ringkasan
+## Ringkasan Satu Ayat
 
-> Corifollitropin alfa ialah analog FSH rekombinan yang bertindak lama; indikasi asal yang diluluskan tidak direkodkan dalam data pendaftaran Malaysia (NPRA) semasa, walaupun farmakologinya yang diketahui menyasarkan reseptor FSH sel granulosa ovari untuk mendorong perkembangan folikel.
-> Model TxGNN meramalkan kemungkinan persatuan dengan **Gastroduodenitis**, tetapi **0 uji klinikal** dan **0 penerbitan** semasa menyokong arah ini, dan rasional mekanistik model itu sendiri menandainya sebagai artifak hingar graf yang kemungkinan besar daripada isyarat biologi yang sahih.
+Corifollitropin alfa ialah analog FSH (hormon perangsang folikel) rekombinan bertindak panjang, yang pada asasnya bertindak pada reseptor FSH dalam tisu gonad. Model TxGNN meramalkan ia mungkin berkesan untuk **gastroduodenitis**, tetapi buat masa ini terdapat **0 ujian klinikal** dan **0 penerbitan** yang menyokong arah ini, dan ramalan ini kekal pada tahap ramalan model sahaja.
 
 ---
 
-## Ikhtisar Pantas
+## Gambaran Keseluruhan Pantas
 
-| Item | Kandungan |
-|------|----------|
-| Indikasi Asal | Tidak direkodkan dalam data lesen NPRA semasa; penerangan MOA mencadangkan rangsangan ovari untuk pembiakan berbantu |
-| Indikasi Baru Diramalkan | Gastroduodenitis |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Tiada data indikasi yang diluluskan daripada data tempatan yang dikumpulkan |
+| Indikasi Baharu yang Diramalkan | Gastroduodenitis |
 | Skor Ramalan TxGNN | 99.65% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Berada di Pasaran |
-| Bilangan Pendaftaran | 2 |
-| Keputusan yang Disyorkan | Tahan |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Corifollitropin alfa ialah analog FSH rekombinan yang bertindak lama yang bertindak pada reseptor FSH sel granulosa ovari untuk merangsang perkembangan folikel — mekanisme yang dirujuk dalam rasional paket bukti, walaupun rekod mekanisme tindakan yang formal dan berstruktur tidak tersedia pada masa ini untuk ubat ini.
+Data mekanisme tindakan (MOA) terperinci tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat sedia ada, corifollitropin alfa ialah analog FSH bertindak panjang (subunit beta FSH yang digabungkan dengan peptida hujung-C hCG) yang bertindak pada reseptor FSH dalam tisu gonad.
 
-Tiada pertindihan farmakologi atau laluan yang diketahui antara isyarat reseptor FSH dan gastroduodenitis (keadaan radang mukosa gastrik/duodenum). Ungkapan reseptor FSH dalam tisu gastrointestinal tidak mempunyai kepentingan biologi yang telah ditetapkan, dan anotasi model itu sendiri untuk calon ini secara eksplisit menyatakan pautan tidak mempunyai asas biologi yang munasabah, mengaitkan ramalan itu kepada ko-morbiditi graf pengetahuan atau hingar kedekatan nod dan bukannya isyarat mekanistik yang sahih.
+Tiada pautan mekanistik yang jelas dikenal pasti antara isyarat reseptor FSH dengan patologi mukosa gastroduodenum. Skor TxGNN yang tinggi (0.9965) merupakan ramalan pengiraan sahaja dan tidak boleh dianggap sebagai bukti biologi atau klinikal. Oleh sebab indikasi asal juga tidak direkodkan, hubungan antara indikasi asal dengan indikasi baharu tidak dapat dinilai.
 
-Lapan calon lain dalam kumpulan ini menunjukkan corak yang sama: beberapa (migrain, migrain dengan aura batang otak, hipertensi pulmoner) mempunyai teks rasional yang mencadangkan farmakologi ubat yang diketahui (turun naik hormonal akut, peralihan bendalir berkaitan OHSS) akan secara munasabah *memburuk* dan bukannya merawat keadaan yang diramalkan — iaitu, kebalikan mekanistik kepada hipotesis. Tiada lapan calon mempunyai bukti klinikal atau literatur yang menyokong pada masa ini.
+Ramalan lain dalam senarai (migrain, penyakit ulser peptik, migrain dengan aura batang otak, penyakit Raynaud, hipertensi pulmonari, penyakit jantung kifoskoliotik, dan kecenderungan migrain dengan/tanpa aura) juga berada pada tahap L5 tanpa sebarang ujian atau literatur sokongan. Bagi sesetengahnya, seperti migrain dan hipertensi pulmonari, perubahan hormon akibat rangsangan ovari mungkin lebih berpotensi memburukkan keadaan, atau menimbulkan kebimbangan keselamatan (contohnya risiko tromboembolisme dan anjakan cecair), berbanding merawatnya.
 
 ---
 
-## Bukti Uji Klinikal
+## Ringkasan Ramalan Lain
 
-Pada masa ini tiada uji klinikal yang berkaitan didaftarkan
+| Kedudukan | Penyakit | Skor TxGNN | Tahap Bukti | Cadangan |
+|------|------|------|------|------|
+| 1 | Gastroduodenitis | 99.65% | L5 | Hold |
+| 2 | Migrain | 99.63% | L5 | Hold |
+| 3 | Penyakit ulser peptik | 99.61% | L5 | Hold |
+| 4 | Migrain dengan aura batang otak | 99.59% | L5 | Hold |
+| 5 | Penyakit Raynaud | 99.59% | L5 | Hold |
+| 6 | Hipertensi pulmonari | 99.44% | L5 | Hold |
+| 7 | Penyakit jantung kifoskoliotik | 99.36% | L5 | Hold |
+| 8 | Kecenderungan migrain dengan/tanpa aura | 99.11% | L5 | Hold |
+
+---
+
+## Bukti Ujian Klinikal
+
+Buat masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
-Pada masa ini tiada literatur yang berkaitan tersedia
+Buat masa ini tiada literatur berkaitan yang tersedia.
 
 ---
 
-## Maklumat Pasaran Malaysia
+## Keputusan dan Langkah Seterusnya
 
-Dua pendaftaran NPRA wujud untuk ubat ini (status pasaran: ✓ Berada di Pasaran), tetapi nombor lesen, nama produk, bentuk dos, dan teks indikasi yang diluluskan tidak diisi dalam set data semasa. Butiran ini tidak boleh dilaporkan sehingga rekod pendaftaran asas diambil.
-
----
-
-## Pertimbangan Keselamatan
-
-Sila rujuk kepada maklumat produk untuk maklumat keselamatan.
-
-*(Nota: Amaran dan kontraindikasi yang berlabel TFDA/NPRA ditandakan sebagai jurang data yang menyekat (DG001) — sehingga ia diselesaikan, calon ini tidak boleh meneruskan ke pra-pemeriksaan keselamatan S1.)*
-
----
-
-## Kesimpulan dan Langkah Seterusnya
-
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
 **Rasional:**
-Ini ialah isyarat L5, ramalan model sahaja dengan sifar uji klinikal atau literatur yang menyokong. Rasional mekanistik itu sendiri menilai pautan FSH-reseptor-ke-gastroduodenitis sebagai implausibel dari segi biologi dan berkemungkinan artifak hingar graf, dan jurang data yang menyekat (data keselamatan TFDA hilang) secara bebas menghalang kemasukan ke pra-pemeriksaan keselamatan S1.
+- Ramalan ini hanya berasaskan model (L5), tanpa ujian klinikal, tanpa literatur, dan tanpa pautan mekanistik yang munasabah antara agonisme reseptor FSH dengan penyakit gastroduodenum. Ubat ini juga tidak dipasarkan di Malaysia.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Data maklumat produk TFDA/NPRA — amaran dan kontraindikasi (DG001, Menyekat)
-- Rekod mekanisme tindakan yang disahkan (DG002, Tinggi)
-- Indikasi yang diluluskan asal yang disahkan untuk ubat ini dalam pendaftaran Malaysia
-- Ulasan kesahihan biologi yang bebas sebelum memperuntukkan sumber pengumpulan bukti lanjut kepada calon ini, memandangkan rasional model sendiri meragukan isyarat itu
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Maklumat selitan pek (peringatan dan kontraindikasi) daripada NPRA, yang kini menjadi kekurangan data berstatus penghalang bagi saringan keselamatan.
+- Data mekanisme tindakan (MOA) terperinci, contohnya melalui pertanyaan DrugBank.
+- Hipotesis mekanistik yang boleh diuji dan bukti prapklinikal yang menghubungkan isyarat FSH dengan patologi gastroduodenum.
+- Penilaian status pendaftaran dan laluan pentadbiran yang sesuai, memandangkan ubat ini kini tidak berdaftar di Malaysia.
+- Kajian literatur sistematik untuk mengesahkan sama ada terdapat sebarang bukti yang menyokong atau menyangkal ramalan ini.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

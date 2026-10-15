@@ -2,7 +2,7 @@
 layout: default
 title: Diclofenac Sodium
 parent: Low Evidence (L4-L5)
-nav_order: 277
+nav_order: 286
 evidence_level: L5
 indication_count: 0
 ---

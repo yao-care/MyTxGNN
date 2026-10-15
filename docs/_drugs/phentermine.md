@@ -2,7 +2,7 @@
 layout: default
 title: Phentermine
 parent: Low Evidence (L4-L5)
-nav_order: 543
+nav_order: 570
 evidence_level: L5
 indication_count: 4
 ---
@@ -29,62 +29,95 @@ Tahap bukti: **L5** | Indikasi diramal: **4**
 
 </div>
 
-# Phentermine: Daripada Pengurusan Berat Badan kepada Hipervitaminosis
+# Phentermine: Daripada Gangguan Obesiti kepada Hipervitaminosis
 
 ## Ringkasan Satu Ayat
 
-> Phentermine dikenali secara antarabangsa sebagai penindas selera/perangsang CNS jangka pendek yang digunakan dalam pengurusan obesiti, walau bagaimanapun, teks indikasi asal formal tidak tersedia dalam ekstrak daftar semasa.
-> Ramalan teratas model TxGNN ialah **Hipervitaminosis**, tetapi ini adalah isyarat grafik pengetahuan tulen dengan **sifar ujian klinikal** dan **sifar penerbitan** menyokongnya, dan penjelasan mekanik model sendiri tidak menemui kebolehmungkinan farmakologi untuk pautan tersebut.
+Phentermine ialah amina simpatomimetik yang pada asalnya digunakan untuk merawat obesiti (termasuk obesiti monogenik) dan gangguan hipotensi.
+Model TxGNN meramalkan ia mungkin berkesan untuk **hipervitaminosis**, tetapi buat masa ini **tiada ujian klinikal** dan **tiada penerbitan** yang menyokong ramalan ini.
+Ramalan ini hanya berasaskan model, dan tiada asas farmakologi yang munasabah dikenal pasti.
 
-## Gambaran Pantas
+---
 
-| Item | Kandungan |
-|------|-----------|
-| Indikasi Asal | Tidak tercatat dalam ekstrak daftar (semua medan `approved_indication_text` kosong); didokumenkan secara antarabangsa sebagai penindas selera jangka pendek untuk obesiti |
-| Indikasi Baru yang Diramalkan | Hipervitaminosis |
+## Gambaran Keseluruhan Pantas
+
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Gangguan obesiti, obesiti monogenik, gangguan hipotensi (berdasarkan graf pengetahuan TxGNN) |
+| Indikasi Baharu yang Diramalkan | Hipervitaminosis |
 | Skor Ramalan TxGNN | 99.57% |
-| Tahap Bukti | L5 (ramalan model sahaja) |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 3 |
-| Keputusan yang Disyorkan | Tahan |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan yang Disyorkan | Hold |
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan terperinci tidak tersedia untuk phentermine dalam pakej bukti ini (`original_moa: [Data Gap]`), dan teks indikasi yang diluluskan daftar juga kosong untuk ketiga-tiga produk yang didaftarkan. Berdasarkan pengetahuan farmakologi umum, phentermine bertindak terutamanya sebagai penindas selera noradrenergik/simpatomimetik.
+Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat sedia ada, phentermine ialah amina simpatomimetik yang merangsang pembebasan norepinefrin dan menekan selera makan. Ia digunakan untuk pengurusan berat badan.
 
-Untuk ramalan berperingkat teratas, hipervitaminosis, penjelasan pakej bukti sendiri secara terang-terangan menyatakan tiada **pautan farmakologi atau patofisiologi yang diketahui** antara mekanisme phentermine dan keadaan kelebihan vitamin — skor TxGNN yang tinggi (0.9957) kemungkinan besar mencerminkan kedekatan nod graf daripada hubungan biologi sebenar, dan tiada bukti klinikal atau kesusasteraan mengesahkannya.
+Hipervitaminosis pula berpunca daripada pengambilan atau pengumpulan vitamin yang berlebihan. Tiada hubungan mekanistik yang munasabah dapat dikenal pasti antara penekanan selera makan dan keadaan ini. Skor TxGNN yang tinggi (0.996) hanyalah ramalan graf pengetahuan dan tidak disokong oleh asas farmakologi, ujian klinikal atau literatur.
 
-Kebolehmungkinan yang lemah ini konsisten merentas tiga calon berperingkat lain dalam pakej ini: peringkat 2 (sindrom penghapusan mikro 16p11.2 proksimal) tidak mempunyai sambungan mekanistik yang diketahui kepada aktiviti simpatomimetik; peringkat 3 (hipertelorizm ketinggalan zaman) ditandakan dalam ontologi asas sebagai **istilah ketinggalan zaman**, menunjukkan artefak kualiti data daripada indikasi tulen; dan peringkat 4 (frontorhiny) adalah gangguan kraniofasial berkaitan KAT6B yang sangat jarang dengan tiada pautan yang munasabah. Tiada satu pun daripada empat calon dalam pakej ini harus dianggap sebagai hipotesis perubahan tujuan yang boleh dipercayai tanpa ulasan mekanistik bebas.
+### Ramalan Lain yang Dinilai
+
+| Indikasi Diramalkan | Skor TxGNN | Tahap Bukti | Penilaian Ringkas |
+|------|------|------|------|
+| Sindrom mikropenghapusan 16p11.2 proksimal | 99.49% | L5 | Hubungan tidak langsung dan spekulatif. Penghapusan 16p11.2 dikaitkan dengan obesiti awal yang teruk dan hiperfagia, jadi pengurusan berat badan secara simptomatik boleh dibayangkan. Ini bukan rawatan bagi sindrom genetik itu sendiri. Skor mungkin mencerminkan kedekatan graf dengan obesiti. Keselamatan kardiovaskular dan neuropsikiatri perlu dipertimbangkan dengan teliti. |
+| Hipertelorisme (istilah usang) | 99.41% | L5 | Tiada hubungan mekanistik. Ia ialah anomali struktur kraniofasial, dan istilah penyakit ini ditandakan usang dalam ontologi, jadi ramalan ini berkemungkinan artifak graf pengetahuan. |
+| Frontorhiny | 99.04% | L5 | Tiada hubungan mekanistik. Ia ialah malformasi kraniofasial kongenital yang jarang berlaku, dan skor tinggi mungkin hanya mencerminkan hingar perkaitan dalam graf. |
+
+---
 
 ## Bukti Ujian Klinikal
 
-Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
+Buat masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
-## Bukti Kesusasteraan
+---
 
-Pada masa ini tiada kesusasteraan berkaitan tersedia.
+## Bukti Literatur
+
+Buat masa ini tiada literatur berkaitan yang tersedia.
+
+---
 
 ## Maklumat Pasaran Malaysia
 
-Daftar mengesahkan phentermine dipasarkan di Malaysia di bawah **3 pendaftaran aktif**, tetapi ekstrak tidak termasuk nombor lesen, nama produk, bentuk dos, atau teks indikasi untuk mana-mana daripadanya (semua medan dikembalikan kosong). Data peringkat produk terperinci perlu ditarik semula daripada daftar sumber sebelum jadual ini boleh diisi.
+Phentermine tidak dipasarkan di Malaysia dan tiada lesen berdaftar dalam data yang disusun untuk laporan ini.
+
+---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
+Data amaran utama dan kontraindikasi daripada sisipan pakej tidak tersedia. Sila rujuk sisipan pakej untuk maklumat keselamatan.
+
+Berdasarkan graf pengetahuan TxGNN (bukan teks label rasmi), phentermine dikaitkan dengan kontraindikasi pada keadaan berikut:
+
+- **Kardiovaskular**: hipertensi, hipertensi pulmonari, kegagalan jantung kongestif, penyakit jantung dan kardiovaskular, penyakit injap jantung, penyakit pengaliran jantung, sawan jantung mengejut, arteriosklerosis obliterans, pre-eklampsia (termasuk ringan)
+- **Psikiatri dan penyalahgunaan bahan**: gangguan psikotik, gangguan skizofreniform, gangguan skizoafektif, gangguan mental, penyalahgunaan/kebergantungan bahan
+- **Endokrin dan metabolik**: diabetes mellitus jenis 1, ketoasidosis diabetes, hipertiroidisme, penyakit Graves, tirotoksikosis
+- **Lain-lain**: glaukoma
+
+**Interaksi Ubat** (pertanyaan selesai; 100 interaksi direkodkan, 20 contoh dipaparkan):
+
+- **Tahap Major**: tramadol, bupropion, metilena biru
+- **Tahap Moderate** (sebahagian): fentanil, alfentanil, fenilefrin, pseudoefedrin, epinefrin, isometheptene, salbutamol, formoterol, arformoterol, amitriptilin, etanol, metformin, pioglitazon, acarbose, alogliptin, albiglutide, amifampridin
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
-**Nisbah:**
-Calon ini terletak sepenuhnya pada skor L5 TxGNN tanpa sokongan klinikal, kesusasteraan, atau mekanik — dan teks penjelasan pakej sendiri berhujah menentang kebolehmungkinan biologi untuk indikasi berperingkat teratas (hipervitaminosis) dan menandakan satu calon (hipertelorizm ketinggalan zaman) sebagai kemungkinan artefak ontologi. Selain itu, **Penghalang** data gap pada amaran dan kontraindikasi label TFDA/NPRA (DG001) bermakna calon ini tidak boleh memasuki pra-saringan keselamatan S1.
+**Justifikasi:**
+- Ramalan hipervitaminosis hanya berasaskan model (L5) tanpa ujian klinikal, literatur atau hubungan mekanistik yang munasabah. Ramalan lain (sindrom 16p11.2, hipertelorisme, frontorhiny) juga berada pada L5 dan tidak mempunyai sokongan bukti. Phentermine pula tidak dipasarkan di Malaysia.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Sisipan pakej TFDA/NPRA (amaran, kontraindikasi) — gap penghalang, diperlukan sebelum sebarang saringan keselamatan
-- Mekanisme tindakan (MOA) phentermine bersumber DrugBank
-- Data daftar peringkat produk lengkap (nombor lesen, bentuk dos, teks indikasi yang diluluskan) untuk 3 pendaftaran Malaysia
-- Ulasan farmakologi/ontologi bebas bagi semua empat indikasi yang diramalkan sebelum memperuntukkan usaha pencarian bukti lanjutan, memandangkan kebolehmungkinan a priori rendah yang sudah ditandakan dalam pakej ini
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) yang lengkap
+- Amaran dan kontraindikasi daripada sisipan pakej, kerana ini masih kekurangan data dan menghalang saringan keselamatan
+- Rasional farmakologi yang jelas serta bukti praklinikal atau klinikal sebelum sebarang penilaian lanjut
+- Jika sindrom mikropenghapusan 16p11.2 dikaji, penilaian khusus tentang keselamatan kardiovaskular dan neuropsikiatri dalam populasi tersebut
+- Penilaian status pendaftaran dan ketersediaan produk di Malaysia
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -2,7 +2,7 @@
 layout: default
 title: Degarelix
 parent: Low Evidence (L4-L5)
-nav_order: 255
+nav_order: 261
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,63 +29,89 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Degarelix: Dari Kanser Prostat Lanjutan hingga Hipertrikosis
-
-> **Nota mengenai sumber data**: Medan `original_indications` dalam pakej bukti dan medan `approved_indication_text` dalam lesen TFDA/NPRA kedua-duanya kosong (jurang data DG001, Pemblokiran). "Kanser Prostat Lanjutan" di bawah mencerminkan petunjuk global Degarelix yang diketahui umum (antagonis reseptor GnRH, dipasarkan sebagai Firmagon), bukan data yang disahkan dalam pakej bukti ini.
+# Degarelix: Daripada Penunjuk Asal yang Tidak Direkodkan kepada Hipertrikosis
 
 ## Ringkasan Satu Ayat
 
-Degarelix adalah antagonis reseptor GnRH (hormon pelepas gonadotropin), yang diketahui umum digunakan untuk kanser prostat lanjutan — walaupun pakej bukti itu sendiri tidak membawa petunjuk asal atau data mekanisme tindakan yang disahkan (jurang pemblokiran DG001). Ramalan model TxGNN berpangkat teratas ialah **Hipertrikosis**, tetapi **tiada uji klinis atau kesusasteraan yang kini menyokong arahan ini**, dan rasional model itu sendiri menandai pautan mekanistik sebagai spekulatif.
+Degarelix ialah antagonis reseptor GnRH yang menekan hormon LH/FSH dan seterusnya paras testosteron. Data yang dikumpulkan untuk laporan ini tidak mencatatkan penunjuk asal yang berdaftar di Malaysia.
+Model TxGNN meramalkan ia mungkin berkesan untuk **hipertrikosis**, tetapi ramalan ini berasaskan model sahaja, tanpa **sebarang percubaan klinikal** atau **penerbitan** yang menyokongnya.
 
-## Gambaran Keseluruhan Pantas
+---
+
+## Gambaran Keseluruhan
 
 | Item | Kandungan |
-|------|-----------|
-| Petunjuk Asal | Tidak tersedia dalam data sumber (diketahui umum: kanser prostat lanjutan) |
-| Petunjuk Baru yang Diramalkan | Hipertrikosis (penyakit) |
+|------|------|
+| Penunjuk Asal | Tiada data penunjuk berdaftar dalam data yang dikumpulkan |
+| Penunjuk Baharu yang Diramalkan | Hipertrikosis (hypertrichosis) |
 | Skor Ramalan TxGNN | 99.99% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan (status Dipasarkan) |
-| Bilangan Pendaftaran | 2 |
-| Keputusan Disyorkan | Tahan |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan yang Disyorkan | Hold (Tangguh) |
 
-## Mengapa Ramalan Ini Wajar?
+---
 
-Data mekanisme tindakan terperinci tidak tersedia dalam pakej bukti ini (jurang pemblokiran/berat DG001, DG002). Berdasarkan pengetahuan farmakologi umum, Degarelix adalah antagonis reseptor GnRH yang menekan paksi hipotalamik-hipofisis-gonad, menurunkan paras testosteron dan estrogen — mekanisme yang digunakan secara terapeutik dalam kanser prostat lanjutan.
+## Mengapa Ramalan Ini Munasabah?
 
-Alasan yang diberikan pakej bukti itu sendiri untuk calon berpangkat teratas adalah ragu-ragu daripada menyokong: ia mencatat bahawa hipertrikosis secara umumnya merujuk kepada pertumbuhan rambut yang tidak bergantung androgen dan meluas, sementara tindakan Degarelix secara khusus adalah penindasan androgen/estrogen. Rasional itu secara jelas menyatakan sambungan ini adalah "lemah" dan "spekulatif" (機轉與雄性素軸關聯薄弱，屬推測性連結). Dengan kata lain, skor TxGNN yang tinggi tidak sepadan dengan hipotesis biologi yang disokong dengan baik untuk petunjuk khusus ini.
+Maklumat terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan. Berdasarkan pengetahuan farmakologi umum, degarelix ialah antagonis reseptor GnRH yang menyekat paksi hipotalamus-pituitari-gonad, lalu merendahkan LH/FSH, testosteron dan androgen hiliran.
 
-Patut dicatat: dalam pakej bukti yang sama, pangkat 9 ("pubertas dini pusat 1") mempunyai rasional mekanistik yang jauh lebih kuat dan langsung — antagonisme GnRH Degarelix secara langsung menyasarkan patologi pubertas dini pusat yang bergantung GnRH — tetapi mencetak lebih rendah dan ditandai "Soalan Penyelidikan" daripada ramalan berpangkat teratas. Ini menunjukkan bahawa calon berpangkat pertama (hipertrikosis) mencerminkan kesamaan pembenaman graf pengetahuan lebih daripada hipotesis farmakologi yang disahkan.
+Hubungan mekanistik dengan hipertrikosis adalah **lemah dan spekulatif**. Hipertrikosis pada amnya tidak didorong androgen (berbeza dengan hirsutisme), jadi penindasan androgen tidak dijangka menjadi penyelesaian yang jelas. Skor TxGNN yang sangat tinggi ialah ramalan model semata-mata dan tiada percubaan atau literatur untuk mengesahkannya.
 
-## Bukti Uji Klinis
+Ramalan lain dalam senarai juga kurang munasabah dari segi mekanisme:
+- **Ambras hypertrichosis universalis congenita, sindrom Dandy-Walker, sindrom malformasi gigi/periodontium, kelainan batang rambut genetik, trikomegali familial**: keadaan genetik atau perkembangan yang tidak dijangka dibetulkan oleh antagonisme GnRH.
+- **Urtikaria alahan dan urtikaria sejuk**: dimediasi sel mast dan histamin. Kelas antagonis peptida ini dikaitkan dengan pembebasan histamin dan tindak balas hipersensitiviti, maka potensi mudarat lebih besar daripada manfaat.
+- **Akil baligh pramatang familial terhad lelaki**: disebabkan mutasi pengaktifan LHCGR yang bebas daripada GnRH, jadi keberkesanan tidak mungkin berlaku secara mekanistik. Ia tetap penunjuk yang paling hampir dengan farmakologi ubat ini.
+- **Akil baligh pramatang pusat 1**: antagonisme GnRH munasabah dari segi mekanisme, tetapi standard semasa ialah agonis GnRH. Degarelix tiada data pediatrik, tiada formulasi pediatrik tindakan panjang dan tidak dipasarkan di Malaysia. Ini ialah **soalan penyelidikan** yang paling wajar diteroka.
 
-Pada masa ini tiada uji klinis berkaitan yang didaftarkan.
+---
 
-## Bukti Kesusasteraan
+## Bukti Percubaan Klinikal
 
-Pada masa ini tiada kesusasteraan berkaitan yang tersedia.
+Setakat ini tiada percubaan klinikal berkaitan didaftarkan.
+
+---
+
+## Bukti Literatur
+
+Setakat ini tiada literatur berkaitan tersedia.
+
+---
 
 ## Maklumat Pasaran Malaysia
 
-Degarelix didaftarkan di bawah 2 lesen aktif ("Dipasarkan" / status Dipasarkan), tetapi pakej bukti tidak mengandungi nombor lesen yang dipopulasikan, nama produk, bentuk dosage, pengilang, atau teks petunjuk yang diluluskan untuk kedua-dua entri — medan ini semuanya kosong dalam data sumber dan memerlukan carian langsung NPRA untuk diselesaikan.
+Degarelix kini **tidak dipasarkan** di Malaysia dan tiada lesen berdaftar dalam data yang dikumpulkan.
+
+---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
+- **Penyakit yang dikaitkan dengan kontraindikasi (graf pengetahuan TxGNN/PrimeKG, bukan teks label)**: sindrom QT panjang, sindrom QT panjang familial, torsades de pointes, penyakit hati, penyakit pundi hempedu, kekurangan kalium.
+- **Interaksi Ubat**: sebanyak 100 interaksi direkodkan. Antara yang utama:
+  - **Major**: cisapride, dolasetron.
+  - **Moderate**: famotidine, loperamide, bisacodyl, clarithromycin, levofloxacin, ondansetron, granisetron, palonosetron, serta pelbagai julap dan larutan elektrolit (picosulfuric acid, polyethylene glycol, lactulose, lactitol, magnesium citrate, magnesium hydroxide, castor oil, glycerin, mineral oil).
+  - **Minor**: metronidazole.
+  - Banyak interaksi berkaitan risiko pemanjangan QT dan ketidakseimbangan elektrolit, selaras dengan senarai kontraindikasi di atas.
+- **Risiko khusus untuk penunjuk yang diramalkan**: risiko tindak balas tapak suntikan dan hipersensitiviti menimbulkan kebimbangan untuk urtikaria.
+
+Untuk amaran dan kontraindikasi rasmi, sila rujuk sisipan pek produk.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-Calon mempunyai bukti L5 (ramalan model sahaja, tiada uji klinis atau kesusasteraan), dan rasional mekanistik pakej bukti itu sendiri mencirikan pautan ubat-penyakit sebagai spekulatif dan lemah. Tiada asas empirikal atau mekanistik yang kuat untuk memajukan calon ini.
+- Semua ramalan hanya berada pada Tahap Bukti L5 (ramalan model sahaja) tanpa percubaan atau literatur. Hubungan mekanistik lemah atau tidak munasabah bagi kebanyakan penunjuk, dan ubat ini tidak dipasarkan di Malaysia.
+- Akil baligh pramatang pusat 1 dan akil baligh pramatang familial terhad lelaki ditanda sebagai **soalan penyelidikan**, tetapi belum layak untuk diteruskan.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Data sisipan pakej TFDA/NPRA — amaran utama, kontraindikasi, DDI (jurang pemblokiran, DG001)
-- Petunjuk asal yang disahkan dan mekanisme tindakan (jurang berat, DG002)
-- Butiran lesen NPRA (nombor lesen, teks petunjuk yang diluluskan, bentuk dosage) untuk 2 produk berdaftar
-- Jika meneruskan analisis penggunaan semula ubat lebih jauh, pertimbangkan untuk mengalihkan fokus ke pangkat 9 ("pubertas dini pusat 1"), yang mempunyai rasional mekanistik langsung yang lebih kuat walaupun skor TxGNN lebih rendah dan status "Soalan Penyelidikan" semasa
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Amaran dan kontraindikasi daripada sisipan pek NPRA (jurang data yang menyekat saringan keselamatan).
+- Data mekanisme tindakan (MOA) daripada DrugBank.
+- Semakan literatur dan pendaftaran percubaan untuk penunjuk yang paling munasabah, terutamanya akil baligh pramatang pusat.
+- Penilaian keserasian laluan pemberian dan formulasi, serta penilaian keselamatan pediatrik jika penunjuk akil baligh pramatang diteruskan.
+- Pengesahan status pendaftaran dan penunjuk asal ubat ini di Malaysia.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -2,7 +2,7 @@
 layout: default
 title: Artesunate
 parent: Low Evidence (L4-L5)
-nav_order: 89
+nav_order: 93
 evidence_level: L5
 indication_count: 0
 ---

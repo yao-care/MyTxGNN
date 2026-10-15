@@ -2,7 +2,7 @@
 layout: default
 title: Insulin Aspart
 parent: High Evidence (L1-L2)
-nav_order: 398
+nav_order: 417
 evidence_level: L1
 indication_count: 10
 ---
@@ -29,52 +29,55 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Insulin Aspart: Dari Diabetes Mellitus kepada Type 1 Diabetes Mellitus — Satu Isyarat Pengesahan, Bukan Indikasi Baharu
+# Insulin Aspart: Daripada Diabetes Mellitus kepada Diabetes Mellitus Jenis 1
 
 ## Ringkasan Satu Ayat
 
-Insulin aspart ialah analog insulin yang bertindak cepat yang telah dipasarkan di Malaysia untuk pengurusan diabetes. Ramalan berjajaran tertinggi TxGNN adalah **Type 1 Diabetes Mellitus** — namun ini bukan indikasi yang baru; anotasi sendiri dalam paket bukti mengesahkan ia sebagai penggunaan yang telah diluluskan sedia ada untuk insulin aspart, disokong oleh **50 ujian klinikal** dan **20 penerbitan** yang tersimpan. Tiada satu pun daripada sembilan indikasi lain yang diramalkan dalam paket bukti ini mempunyai sokongan klinikal atau literatur yang bermakna.
+Insulin aspart ialah analog insulin bertindak pantas yang pada asalnya digunakan untuk merawat diabetes mellitus dan ketoasidosis diabetik.
+Model TxGNN meramalkan ia berkesan untuk **diabetes mellitus jenis 1**, dengan **30 ujian klinikal** dan **20 penerbitan** yang menyokong arah ini. Perlu diingatkan bahawa ini pada dasarnya penggunaan sedia ada (on-label), bukan pengubahsuaian penggunaan ubat yang sebenar.
 
 ---
 
-## Gambaran Keseluruhan Pantas
+## Gambaran Keseluruhan Ringkas
 
-| Item | Kandungan |
+| Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tidak tersedia dalam paket bukti — teks indikasi lesen NPRA tidak dikembalikan (semua 5 rekod lesen yang dijujuk kosong) |
-| Indikasi Baharu yang Diramalkan | Type 1 Diabetes Mellitus *(lihat amaran di bawah — ini adalah penggunaan yang telah diluluskan, bukan indikasi baharu)* |
+| Indikasi Asal | Diabetes mellitus; ketoasidosis diabetik |
+| Indikasi Baharu yang Diramalkan | Diabetes mellitus jenis 1 |
 | Skor Ramalan TxGNN | 99.95% |
 | Tahap Bukti | L1 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 16 |
-| Keputusan yang Disyorkan | Tahan |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Proceed with Guardrails |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci untuk insulin aspart tidak tersedia dalam paket bukti ini (jurang data DG002, keterukan Tinggi). Berdasarkan farmakologi yang telah ditetapkan, insulin aspart ialah analog insulin manusia yang bertindak cepat yang mengaktifkan reseptor insulin untuk menggalakkan pengambilan glukosa periferal dan menekan keluaran glukosa hepatik — mekanisme yang mendasari terapi penggantian insulin eksogen di semua bentuk diabetes.
+Data terperinci mengenai mekanisme tindakan asal tidak tersedia dalam data yang dikompilasi untuk laporan ini. Berdasarkan maklumat sedia ada, insulin aspart ialah analog insulin bertindak pantas yang mengikat reseptor insulin dan menggantikan insulin endogen yang kurang. Keberkesanannya dalam diabetes mellitus telah terbukti, dan secara mekanistik ia sememangnya sesuai untuk diabetes jenis 1.
 
-Yang penting, **ini bukan isyarat pertukaran fungsi ubat yang tulen**. Rasional paket bukti sendiri untuk calon ini menyatakan dengan jelas bahawa Type 1 Diabetes Mellitus adalah indikasi yang telah diluluskan sedia ada untuk insulin aspart (penggantian insulin eksogen), bukan indikasi baharu yang dipermukakan oleh model. Skor TxGNN yang tinggi (99.95%) dan asas ujian/literatur yang padat mencerminkan peranan ubat yang telah mapan dalam pengurusan T1DM dan bukannya hipotesis terapeutik yang baru. Entri ini perlu dibaca sebagai **pengesahan penggunaan semasa**, bukan sebagai calon pertukaran fungsi ubat.
+Diabetes jenis 1 ialah keadaan kekurangan insulin mutlak akibat kemusnahan autoimun sel beta pankreas. Penggantian insulin ialah asas rawatan, dan insulin aspart lazimnya digunakan sebagai insulin bolus semasa waktu makan dalam regimen basal-bolus atau melalui pam insulin (CSII). Oleh itu, ramalan ini disokong oleh rasional farmakologi langsung.
 
-Tiada satu pun daripada sembilan ramalan TxGNN yang tinggal dalam batch ini (autoimmune oophoritis, opsismodysplasia, thiamine-responsive dysfunction syndrome, permanent neonatal diabetes mellitus, focal stiff limb syndrome, classic stiff person syndrome, pancreatic agenesis, drug-induced localized lipodystrophy, centrifugal lipodystrophy) mempunyai sokongan ujian klinikal, dan hanya dua (permanent neonatal diabetes mellitus, pancreatic agenesis) mempunyai sebarang literatur sama sekali — kedua-duanya dinilai L4 "Soalan Penyelidikan." Dua ramalan lipodistrofi jelas ditandai dalam paket bukti sebagai berkemungkinan mencerminkan hubungan **kesan sampingan** suntikan insulin yang diketahui (lipohipertrofi/lipoatrofi) dan bukannya indikasi rawatan — kemungkinan artifak kausaliti terbalik, bukan peluang pertukaran fungsi ubat.
+Status "tidak dipasarkan" di Malaysia perlu disahkan semula dengan rekod peraturan semasa sebelum sebarang syor dimuktamadkan.
 
 ---
 
 ## Bukti Ujian Klinikal
 
+Berikut ialah ujian yang paling relevan (gred relevansi A dan B, serta ujian Fasa 3 terpilih):
+
 | Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT01486940](https://clinicaltrials.gov/study/NCT01486940) | Fasa 3 | Selesai | 598 | Insulin detemir + insulin aspart vs. NPH insulin + insulin manusia larut dalam rejimen basal-bolus T1DM |
-| [NCT01513473](https://clinicaltrials.gov/study/NCT01513473) | Fasa 3 | Selesai | 350 | BEGIN Young 1: degludec vs. detemir pada kanak-kanak/remaja dengan T1DM, kedua-duanya menggunakan aspart sebagai insulin bolus |
-| [NCT02670915](https://clinicaltrials.gov/study/NCT02670915) | Fasa 3 | Selesai | 834 | Insulin aspart yang bertindak lebih cepat vs. NovoRapid, kedua-duanya dengan degludec, pada kanak-kanak/remaja dengan T1DM |
-| [NCT00447382](https://clinicaltrials.gov/study/NCT00447382) | Fasa 3 | Selesai | 330 | Perbandingan keselamatan 12 bulan bagi dua proses pengeluaran insulin detemir, kedua-duanya dengan insulin aspart sebagai insulin bolus, dalam T1DM |
-| [NCT01134107](https://clinicaltrials.gov/study/NCT01134107) | Fasa 3 | Selesai | 133 | Persilangan ujian buta berganda: insulin lispro vs. insulin aspart dalam mangkuk pam CSII untuk T1DM |
-| [NCT00046150](https://clinicaltrials.gov/study/NCT00046150) | Fasa 3 | Selesai | 59 | Keselamatan HMR1964 vs. insulin aspart dalam infusi insulin subkutaneus berterusan (CSII) untuk T1DM |
-| [NCT04196231](https://clinicaltrials.gov/study/NCT04196231) | Fasa 4 | Selesai | 258 | BEYOND: ketahanan kombinasi insulin basal/GLP-1RA atau SGLT-2i vs. rejimen insulin basal-bolus |
-| [NCT06199505](https://clinicaltrials.gov/study/NCT06199505) | Fasa 2 | Selesai | 153 | GZR101 vs. insulin degludec/aspart dalam diabetes jenis 2 yang tidak dikawal dengan baik pada agen oral |
-| [NCT01271517](https://clinicaltrials.gov/study/NCT01271517) | Fasa 4 | Tidak diketahui | 120 | Analog insulin basal jangka panjang (NPH/glargine/detemir) dan pemeliharaan pengeluaran insulin endogen pada permulaan T1DM pada remaja |
-| [NCT00700648](https://clinicaltrials.gov/study/NCT00700648) | N/A | Selesai | 3024 | Kajian keselamatan/keberkesanan pemerhatian NovoRapid intravena (insulin aspart) pada pesakit di hospital, Asia |
+| [NCT00097071](https://clinicaltrials.gov/study/NCT00097071) | Fasa 3 | Selesai | 299 | Insulin aspart berbanding insulin lispro dalam pam insulin pada kanak-kanak dan remaja dengan T1D |
+| [NCT02825251](https://clinicaltrials.gov/study/NCT02825251) | Fasa 3 | Selesai | 472 | Insulin aspart lebih pantas melalui CSII berbanding NovoRapid® pada dewasa T1D |
+| [NCT00595374](https://clinicaltrials.gov/study/NCT00595374) | Fasa 3 | Selesai | 114 | Insulin detemir + aspart berbanding NPH + aspart pada dewasa T1D |
+| [NCT00322257](https://clinicaltrials.gov/study/NCT00322257) | Fasa 3 | Ditamatkan | 596 | Insulin disedut waktu makan berbanding aspart subkutaneus, bersama detemir, dalam T1D |
+| [NCT00725036](https://clinicaltrials.gov/study/NCT00725036) | Fasa 3 | Selesai | 305 | Keselamatan jangka panjang insulin manusia disedut berbanding aspart subkutaneus dalam T1D |
+| [NCT01520818](https://clinicaltrials.gov/study/NCT01520818) | Fasa 3 | Selesai | 666 | Biphasic insulin aspart 50/70 berbanding insulin manusia bifasa 30 dalam T1D atau T2D |
+| [NCT01467323](https://clinicaltrials.gov/study/NCT01467323) | Fasa 3 | Selesai | 303 | Biphasic insulin aspart 30 berbanding insulin manusia 30/70 dalam T1D dan T2D |
+| [NCT00447382](https://clinicaltrials.gov/study/NCT00447382) | Fasa 3 | Selesai | 330 | Perbandingan keselamatan detemir dengan aspart sebagai insulin bolus dalam T1D |
+| [NCT01848990](https://clinicaltrials.gov/study/NCT01848990) | Fasa 4 | Selesai | 456 | CONSISTENT 1: hialuronidase pra-pentadbiran dalam CSII untuk T1D |
+| [NCT01194245](https://clinicaltrials.gov/study/NCT01194245) | Fasa 2 | Selesai | 135 | Lispro-PH20 atau aspart-PH20 berbanding lispro dalam T1D, kajian silang |
 
 ---
 
@@ -82,46 +85,52 @@ Tiada satu pun daripada sembilan ramalan TxGNN yang tinggal dalam batch ini (aut
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [36623517](https://pubmed.ncbi.nlm.nih.gov/36623517/) | 2023 | RCT | Lancet Diabetes & Endocrinol | Ujian EXPECT: degludec vs. detemir, kedua-duanya dengan aspart, pada wanita hamil dengan T1DM — reka bentuk tidak kelewatan |
-| [21333580](https://pubmed.ncbi.nlm.nih.gov/21333580/) | 2011 | RCT/Semakan Sistematik | Diabetes & Metabolism | Semakan sistematik membandingkan keberkesanan/keselamatan insulin aspart vs. insulin manusia biasa dalam T1DM/T2DM |
-| [37863084](https://pubmed.ncbi.nlm.nih.gov/37863084/) | 2023 | RCT | Lancet | ONWARDS 6, fasa 3a: insulin icodec seminggu sekali vs. degludec sekali sehari dalam rejimen basal-bolus untuk T1DM |
-| [41697686](https://pubmed.ncbi.nlm.nih.gov/41697686/) | 2026 | Semakan | JAMA | Semakan umum patofisiologi Type 1 Diabetes, epidemiologi, dan komplikasi |
-| [12215068](https://pubmed.ncbi.nlm.nih.gov/12215068/) | 2002 | Semakan | Drugs | Semakan keberkesanan/keselamatan insulin aspart dalam pengurusan T1DM dan T2DM |
-| [18710361](https://pubmed.ncbi.nlm.nih.gov/18710361/) | 2008 | Semakan | Expert Opin Pharmacother | Semakan bukti insulin aspart bifasik 30 untuk rawatan T1DM |
-| [15871555](https://pubmed.ncbi.nlm.nih.gov/15871555/) | 2003 | Semakan | Treatments in Endocrinology | Semakan farmakologi insulin aspart dan penggunaan klinikal dalam T1DM/T2DM |
-| [25143741](https://pubmed.ncbi.nlm.nih.gov/25143741/) | 2014 | Semakan | Vasc Health Risk Manag | Semakan kombinasi insulin degludec/aspart untuk T1DM dan T2DM |
-| [30789066](https://pubmed.ncbi.nlm.nih.gov/30789066/) | 2019 | Semakan | Expert Opin Drug Metab Toxicol | Semakan insulin bercampur dan peranan degludec/aspart dalam T1DM |
-| [37804858](https://pubmed.ncbi.nlm.nih.gov/37804858/) | 2023 | RCT | Lancet Diabetes & Endocrinol | CopenFast: aspart yang bertindak lebih cepat vs. insulin aspart dalam kehamilan/selepas penghantaran, T1DM/T2DM |
-
----
-
-## Maklumat Pasaran Malaysia
-
-Rekod peringkat lesen yang terperinci (nama produk, bentuk dos, teks indikasi) tidak dikembalikan dalam paket bukti ini — pertanyaan NPRA mengesahkan 16 pendaftaran aktif, tetapi entri lesen yang dijujuk kosong. Status pasaran disahkan sebagai dipasarkan ("Dipasarkan").
+| [36623517](https://pubmed.ncbi.nlm.nih.gov/36623517/) | 2023 | RCT | Lancet Diabetes Endocrinol | Degludec berbanding detemir bersama aspart pada wanita hamil dengan T1D (EXPECT) |
+| [37863084](https://pubmed.ncbi.nlm.nih.gov/37863084/) | 2023 | RCT | Lancet | Insulin icodec mingguan berbanding degludec harian dalam regimen basal-bolus T1D (ONWARDS 6) |
+| [40445776](https://pubmed.ncbi.nlm.nih.gov/40445776/) | 2025 | RCT | Diabetes Technol Ther | Gelung tertutup sepenuhnya dengan Fiasp memperbaik kawalan glisemik pada remaja T1D |
+| [38379002](https://pubmed.ncbi.nlm.nih.gov/38379002/) | 2024 | RCT | Diabetes Obes Metab | Sifat farmakokinetik/farmakodinamik icodec mingguan dalam T1D |
+| [27362975](https://pubmed.ncbi.nlm.nih.gov/27362975/) | 2016 | Kajian sistematik (Cochrane) | Cochrane Database Syst Rev | Analog insulin bertindak pendek berbanding insulin manusia biasa pada dewasa T1D |
+| [25644227](https://pubmed.ncbi.nlm.nih.gov/25644227/) | 2015 | Kajian sistematik/meta-analisis | Pol Arch Med Wewn | Keberkesanan dan keselamatan insulin aspart berbanding insulin manusia biasa dalam T1D dan T2D |
+| [21333580](https://pubmed.ncbi.nlm.nih.gov/21333580/) | 2011 | Kajian sistematik | Diabetes Metab | Perbandingan aspart dengan insulin manusia biasa dalam T1D dan T2D |
+| [15329046](https://pubmed.ncbi.nlm.nih.gov/15329046/) | 2004 | Ulasan | Drugs | Aspart memberi HbA1c dan kawalan glisemik pascamakan yang lebih baik daripada insulin manusia biasa |
+| [12215068](https://pubmed.ncbi.nlm.nih.gov/12215068/) | 2002 | Ulasan | Drugs | Ulasan penggunaan aspart dalam diabetes jenis 1 dan 2 |
+| [23243636](https://pubmed.ncbi.nlm.nih.gov/23243636/) | 2012 | Kajian sistematik | Drugs Today | Analog insulin untuk T1D pada kanak-kanak dan remaja |
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pek untuk maklumat keselamatan. **Nota:** Ketiadaan amaran sisipan pek TFDA/NPRA dan kontraindikasi ditandai dalam paket bukti ini sebagai jurang data keterukan Menghalang (DG001) — ia menghalang calon ini daripada mengosongkan peringkat pemeriksaan keselamatan S1.
+Sila rujuk sisipan pembungkusan untuk maklumat keselamatan.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Proceed with Guardrails**
 
 **Rasional:**
-- Ramalan berjajaran teratas (Type 1 Diabetes Mellitus) bukan indikasi baharu — paket bukti itu sendiri menotasikannya sebagai penggunaan yang telah diluluskan sedia ada untuk insulin aspart, jadi ia tidak mewakili peluang pertukaran fungsi ubat yang boleh diambil tindakan.
-- Jurang data keselamatan keterukan Menghalang (DG001 — tiada amaran sisipan pek/kontraindikasi yang tersimpan) bermakna calon ini tidak boleh melepasi pemeriksaan keselamatan S1 tanpa mengira bukti keberkesanan.
-- Semua sembilan indikasi yang diramalkan tinggal kekurangan sokongan ujian klinikal dan dinilai L4–L5 dengan status Tahan/Soalan Penyelidikan; dua berkemungkinan artifak kausaliti terbalik (lipodistrofi tapak suntikan insulin).
+- Terdapat beberapa ujian Fasa 3 yang selesai dan kajian sistematik yang menyokong penggunaan insulin aspart dalam diabetes jenis 1, dan ia merupakan penggunaan standard yang telah mantap (Tahap Bukti L1).
+- Ubat ini tidak mempunyai pendaftaran di Malaysia dalam data yang dikompilasi, dan maklumat keselamatan dari sisipan pembungkusan belum diperoleh.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Dapatkan sisipan pek TFDA/NPRA (amaran, kontraindikasi, interaksi ubat) untuk menutup DG001
-- Dapatkan butiran mekanisme tindakan DrugBank untuk menutup DG002
-- Jalankan semula penjanaan calon TxGNN dengan indikasi sedia ada/diluluskan dikecualikan, untuk menghasilkan hipotesis pertukaran fungsi ubat baharu yang tulen untuk ubat ini
-- Jika meneruskan permanent neonatal diabetes mellitus atau pancreatic agenesis sebagai soalan penyelidikan (kedua-duanya munasabah secara mekanik tetapi bukti lemah), pesan semakan literatur yang bertarget sebelum pengumpulan bukti lanjutan
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Pengesahan status pendaftaran dan pasaran semasa di Malaysia (NPRA)
+- Amaran dan kontraindikasi daripada sisipan pembungkusan NPRA (perlu dimuat turun dan dihuraikan)
+- Data mekanisme tindakan (MOA) terperinci daripada DrugBank
+- Pelan pemantauan keselamatan, terutamanya risiko hipoglisemia dan lipodistrofi di tapak suntikan
 
+---
+
+### Nota Tambahan: Indikasi Lain yang Diramalkan
+
+Indikasi lain yang diramalkan mempunyai bukti yang lemah atau tiada:
+
+| Indikasi | Tahap Bukti | Syor |
+|------|------|------|
+| Diabetes mellitus neonatal kekal | L4 | Research Question |
+| Agenesis pankreas | L4 | Research Question |
+| Oophoritis autoimun, opsismodisplasia, sindrom disfungsi responsif tiamin, sindrom anggota kaku fokal, sindrom orang kaku klasik, lipodistrofi setempat teraruh ubat, lipodistrofi sentrifugal | L5 | Hold |
+
+Bagi diabetes neonatal kekal dan agenesis pankreas, penggantian insulin munasabah secara mekanistik, tetapi bukti yang diperoleh terhad atau tidak langsung. Bagi lipodistrofi setempat teraruh ubat, ramalan ini berkemungkinan isyarat keselamatan (kesan advers suntikan insulin berulang) dan bukan indikasi terapeutik. Bagi sindrom orang kaku, skor mungkin mencerminkan kaitan dengan diabetes autoimun dan bukan hubungan terapeutik.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

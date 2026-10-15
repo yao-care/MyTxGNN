@@ -2,7 +2,7 @@
 layout: default
 title: Cinchocaine
 parent: Low Evidence (L4-L5)
-nav_order: 217
+nav_order: 222
 evidence_level: L5
 indication_count: 7
 ---
@@ -29,80 +29,80 @@ Tahap bukti: **L5** | Indikasi diramal: **7**
 
 </div>
 
-# Cinchocaine: Daripada Anestesi Lokal kepada Bronkitis
+# Cinchocaine: Daripada Dermatitis kepada Bronkitis
 
 ## Ringkasan Satu Ayat
 
-Cinchocaine (DrugBank DB00527) adalah anestesi lokal jenis amida yang telah ditubuhkan untuk pelepasan rasa sakit topikal/mukosal.
-Model TxGNN meramalkan ia mungkin berkesan untuk **Bronkitis**, dengan skor ramalan **99.77%**,
-tetapi pada masa kini **tiada percubaan klinikal dan tiada penerbitan** menyokong arah ini — ia adalah hipotesis peringkat model tulen.
+Cinchocaine (dibucaine) ialah anestetik tempatan jenis amida yang pada asalnya dikaitkan dengan rawatan dermatitis.
+Model TxGNN meramalkan ia mungkin berkesan untuk **bronkitis**,
+tetapi pada masa ini **tiada ujian klinikal** dan **tiada penerbitan** yang menyokong arah ini; ramalan ini hanya berasaskan model.
 
-## Gambaran Keseluruhan Cepat
+## Gambaran Ringkas
 
-| Item | Kandungan |
-|------|----------|
-| Petunjuk Asal | Anestesi lokal (penggunaan topikal/mukosal) — teks petunjuk label NPRA khusus tidak tersedia dalam data sumber |
-| Petunjuk Baru yang Diramalkan | Bronkitis |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Dermatitis (berdasarkan data graf pengetahuan TxGNN, bukan label produk tempatan) |
+| Indikasi Baharu yang Diramalkan | Bronkitis |
 | Skor Ramalan TxGNN | 99.77% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 1 |
-| Keputusan yang Disyorkan | Tahan |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (Tahan) |
 
-## Mengapa Ramalan Ini Adalah Munasabah?
+## Mengapakah Ramalan Ini Munasabah?
 
-Pada masa kini, data mekanisme tindakan terperinci tidak tersedia (ditandakan sebagai jurang data keterukan Tinggi). Berdasarkan farmakologi yang diketahui, Cinchocaine adalah anestesi lokal kelas amida yang menyekat saluran natrium bergantung-voltan untuk menghalang penghantaran saraf, dan ia juga mempunyai kesan analgesik mukosal topikal ringan dan penstabilan membran (kesan antiradang yang lemah). Penggunaan klinikal yang telah ditubuhkan adalah pelepasan rasa sakit lokal/topikal.
+Data terperinci mengenai mekanisme tindakan tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, cinchocaine ialah anestetik tempatan jenis amida yang menyekat saluran natrium bergerbang voltan, dan secara teori mungkin boleh digunakan untuk bronkitis.
 
-Sebaliknya, bronkitis terutamanya adalah keadaan jalan udara yang bersifat radang/infektif. Pakej bukti TxGNN sendiri yang memberi alasan mekanis untuk calon ini secara eksplisit mencirikan pautan sebagai lemah: cinchocaine tidak mempunyai laluan antiradang atau antimikrob yang ditubuhkan yang relevan dengan bronkitis, dan sebarang sambungan hanya akan terbatas kepada kesan antitussif/analgesik bukan khusus pada mukosa jalan udara dan bukannya mekanisme yang menangani patologi asas.
+Hubungan teori yang mungkin ialah penindasan aktiviti saraf deria saluran udara dan refleks batuk, seperti yang dilihat pada anestetik topikal lain. Dalam dermatitis, kesan anestetik dan antipruritik topikalnya melegakan gejala. Namun, hubungan ini masih bersifat hipotesis.
 
-Memandangkan ketiadaan laluan mekanis langsung yang munasabah dan ketiadaan sepenuhnya bukti klinikal atau kesusasteraan yang menyokong, calon ini harus dianggap sebagai output model peringkat awal dan penerokaan sahaja dan bukannya hipotesis yang berdasarkan farmakologi dengan baik.
+Perlu ditegaskan bahawa skor TxGNN hanyalah ramalan. Tiada ujian atau literatur menyokong indikasi ini. Penggunaan sistemik atau sedutan cinchocaine juga menimbulkan kebimbangan keselamatan kerana ketoksikannya yang agak tinggi berbanding anestetik tempatan lain.
 
-## Bukti Percubaan Klinikal
+## Bukti Ujian Klinikal
 
-Pada masa kini tiada percubaan klinikal berkaitan yang didaftarkan.
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
-## Bukti Kesusasteraan
+## Bukti Literatur
 
-Pada masa kini tiada kesusasteraan berkaitan yang tersedia.
+Pada masa ini tiada literatur berkaitan.
 
-## Maklumat Pasaran Malaysia
+## Indikasi Baharu Lain yang Diramalkan
 
-Rekod NPRA mengesahkan Cinchocaine dipasarkan di Malaysia dengan 1 pendaftaran aktif, tetapi data sumber tidak mengandungi nombor lesen yang dipenuhi, nama produk, bentuk dos, atau medan teks petunjuk yang diluluskan untuk entri ini — butir-butir ini perlu diambil terus daripada daftar produk NPRA sebelum penilaian lanjutan.
+Semua indikasi di bawah berada pada tahap bukti L5 (ramalan model sahaja, tiada ujian atau literatur) dan berstatus Hold.
 
-## Pertimbangan Keselamatan
+| Kedudukan | Penyakit | Skor TxGNN | Catatan Hubungan Mekanisme |
+|------|------|------|------|
+| 2 | Acrodermatitis chronica atrophicans | 99.76% | Rawatan pilihan ialah antibiotik; cinchocaine paling-paling hanya melegakan gejala dan tidak menangani jangkitan. |
+| 3 | Dermatomiositis neonatal | 99.72% | Berkemungkinan didorong oleh kedekatan graf; tidak menangani patologi autoimun. Penggunaan pada neonatus menimbulkan kebimbangan keselamatan serius (penyerapan sistemik, methemoglobinemia, ketoksikan). |
+| 4 | Penyakit paru interstisial sekunder khusus kanak-kanak yang berkaitan dengan penyakit tisu penghubung | 99.72% | Tiada hubungan mekanisme yang munasabah; keselamatan pediatrik belum ditetapkan. |
+| 5 | Acne keloid | 99.67% | Kesan anestetik/antipruritik mungkin melegakan gatal atau sakit, tetapi tiada bukti kesan terhadap keradangan atau parut. |
+| 6 | Hydroa vacciniforme, familial | 99.66% | Tindakan anestetik topikal tidak relevan dari segi mekanisme selain kelegaan gejala yang mungkin. |
+| 7 | Dermatomiositis amiopatik | 99.65% | Mungkin melegakan gatal atau sakit kulit, tetapi tiada tindakan imunomodulasi yang diketahui. |
 
-Sila rujuk sisipan paket untuk maklumat keselamatan.
+## Keselamatan
 
-*(Nota: Pengambilan label NPRA — amaran dan kontraindikasi — ditandakan sebagai jurang data Menghalang; ini menghalang selesainya penilaian keselamatan awal S1 untuk calon ini.)*
+Berdasarkan graf pengetahuan TxGNN (bukan teks label produk), penyakit berikut dikaitkan dengan kontraindikasi bagi ubat ini:
 
-## Calon Lain yang Diramalkan Model (Ubat Sama)
+- **Neurologi/otot:** epilepsi, miastenia gravis, miastenia gravis awal dewasa, penyakit simpang neuromuskular
+- **Buah pinggang dan hati:** penyakit buah pinggang, pyoureter, penyakit hati, penyakit pundi hempedu
+- **Kardiovaskular:** penghentian jantung mengejut, penyakit pengaliran jantung, penyakit kardiovaskular, penyakit jantung
+- **Pernafasan:** kegagalan pernafasan
+- **Lain-lain:** kekurangan butirilkolinesterase
 
-TxGNN juga menandakan enam petunjuk keyakinan rendah tambahan untuk Cinchocaine, semua pada tahap bukti L5 tanpa ujian atau kesusasteraan yang menyokong, dan semua disyorkan Tahan:
-
-| Pangkat | Petunjuk yang Diramalkan | Skor | Kebolehpercayaan Mekanis |
-|--------|----------------------|-------|---------------------------|
-| 2 | Acrodermatitis chronica atrophicans | 99.76% | Tiada — jangkitan Borrelia kronik; cinchocaine tidak mempunyai aktiviti antimikrob |
-| 3 | Dermatomyositis neonat | 99.72% | Tiada — patologi autoimmun/pelengkap; tiada tindakan imunomodulatif |
-| 4 | Penyakit paru interstisial sekunder kanak-kanak dengan penyakit jaringan ikat | 99.72% | Tiada — patologi paru berserat/autoimmun yang tidak berkaitan dengan penyekat saluran natrium |
-| 5 | Keloid jerawat | 99.67% | Lemah — kemungkinan analgesia simptomatik sahaja, tiada kesan antifibrosa/antimikrob |
-| 6 | Hydroa vacciniforme, keluarga | 99.66% | Tiada — fotosensitiviti/limfoproliferasi yang didorong oleh EBV |
-| 7 | Dermatomyositis amyopathic | 99.65% | Tiada — patologi autoimmun yang didorong oleh interferon jenis I |
-
-Corak ini (skor TxGNN yang sama tinggi dengan rasional mekanis lemah yang sama-sama seragam dan bukti dunia nyata sifar) mencadangkan ini adalah persatuan peringkat model yang luas dan bukannya isyarat penentuan ubat khusus, dan memerlukan berhati-hati sebelum pelaburan lanjutan dalam calon tunggal.
+Untuk maklumat amaran dan kontraindikasi lengkap, sila rujuk risalah maklumat produk.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold (Tahan)**
 
 **Rasional:**
-Ramalan Bronkitis bergantung semata-mata pada skor model TxGNN (L5) tanpa percubaan klinikal, tanpa kesusasteraan, dan rasional mekanis yang jelas lemah. Sebagai tambahan, jurang data Menghalang (amaran/kontraindikasi label NPRA yang hilang) menghalang penilaian keselamatan awal sahaja, dan data MOA belum disahkan secara rasmi.
+- Ramalan bronkitis hanya berasaskan model (L5) tanpa sebarang ujian klinikal atau literatur, ubat ini tidak dipasarkan di Malaysia, dan terdapat kebimbangan keselamatan untuk penggunaan sistemik atau sedutan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Ambil label produk NPRA (amaran, kontraindikasi) untuk produk Cinchocaine yang didaftarkan Malaysia — menyelesaikan DG001 (Menghalang)
-- Sahkan mekanisme tindakan melalui rujukan DrugBank/farmakologi — menyelesaikan DG002 (Tinggi)
-- Selesaikan butir-butir pendaftaran Malaysia yang hilang (nombor lesen, nama produk, bentuk dos, teks petunjuk yang diluluskan)
-- Carian kesusasteraan/praklinikal bebas khusus untuk cinchocaine (atau analog kelas) dalam radang jalan udara, untuk menguji hipotesis mekanis sebelum komitmen kepada penilaian peringkat percubaan
-
+- Data mekanisme tindakan (MOA) yang terperinci
+- Amaran dan kontraindikasi daripada risalah maklumat produk (data ini masih belum diperoleh dan menghalang saringan keselamatan)
+- Kajian praklinikal atau semakan literatur untuk menyokong hubungan antara cinchocaine dengan bronkitis
+- Penilaian keselamatan bagi laluan pemberian yang diperlukan (sedutan/sistemik), serta kesesuaian laluan dan bentuk dos
+- Maklumat status pendaftaran dan bentuk dos di Malaysia (pada masa ini tiada pendaftaran)
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

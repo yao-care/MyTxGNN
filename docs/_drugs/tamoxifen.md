@@ -2,7 +2,7 @@
 layout: default
 title: Tamoxifen
 parent: High Evidence (L1-L2)
-nav_order: 635
+nav_order: 667
 evidence_level: L1
 indication_count: 10
 ---
@@ -29,111 +29,128 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Tamoxifen: Dari Kanser Payudara kepada Karsinoma Payudara Perempuan
+# Tamoxifen: Daripada Terapi Endokrin Kanser Payudara kepada Karsinoma Payudara Wanita
 
 ## Ringkasan Satu Ayat
 
-Tamoxifen adalah modulator reseptor estrogen selektif (SERM) yang kegunaan utamanya yang telah ditubuhkan selama beberapa dekad adalah rawatan dan pencegahan kanser payudara positif reseptor hormon. Ramalan teratas model TxGNN untuk calon ini ialah **Karsinoma Payudara Perempuan** itu sendiri — bermaksud ini harus dibaca sebagai **isyarat pengesahan yang mengesahkan semula petunjukan teras tamoxifen** daripada hipotesis ubah tujuan novel, disokong oleh **10+ ujian klinikal** (termasuk RCT Fasa 3 besar) dan **20 penerbitan**. Di antara ramalan kedudukan lebih rendah dalam pakej bukti ini, **karsinoma payudara tahan hormon** (kedudukan 9, tahap bukti L2) ialah isyarat ubah tujuan yang lebih benar-benar novel dan mungkin memerlukan penilaian berasingan.
+Data yang dikumpul untuk laporan ini tidak mengandungi indikasi asal tamoxifen daripada pendaftaran NPRA. Walau bagaimanapun, tamoxifen ialah ubat terapi hormon yang sudah lama diketahui digunakan untuk kanser payudara reseptor hormon positif.
+Model TxGNN meramalkan ia berkesan untuk **karsinoma payudara wanita**, dengan **32 percubaan klinikal** dan **20 penerbitan** yang berkaitan.
+Ramalan ini lebih sesuai dianggap sebagai pengesahan indikasi sedia ada daripada pengalihan guna (*repurposing*) sebenar.
 
 ---
 
-## Gambaran Pantas
+## Gambaran Ringkas
 
-| Item | Kandungan |
-|------|----------|
-| Petunjukan Asal | Kanser payudara, hormon positif reseptor (ER) — petunjukan global yang telah ditubuhkan lama untuk tamoxifen; frasa label spesifik Malaysia tidak hadir dalam set data ini |
-| Petunjukan Baru yang Diprediksi | Karsinoma Payudara Perempuan |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Tiada rekod indikasi daripada lesen NPRA dalam data yang dikumpul (lihat nota di bawah) |
+| Indikasi Baharu yang Diramalkan | Karsinoma payudara wanita (*female breast carcinoma*) |
 | Skor Ramalan TxGNN | 99.95% |
 | Tahap Bukti | L1 |
-| Status Pasaran Malaysia | Dipasarkan |
-| Bilangan Pendaftaran | 1 |
-| Keputusan Disyorkan | Teruskan dengan Pengawalan |
+| Status Pasaran Malaysia | Tidak dipasarkan (menurut data yang dikumpul) |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
+
+> **Nota:** Status "tidak dipasarkan", sifar pendaftaran dan ketiadaan indikasi asal kemungkinan besar disebabkan jurang dalam saluran data. Tamoxifen ialah terapi kanser payudara yang telah lama diluluskan. Status pendaftaran dan label sebenar perlu disahkan semula dengan NPRA dan DrugBank.
 
 ---
 
-## Mengapa Ramalan Ini Masuk Akal?
+## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mekanisme tindakan tidak dikembalikan untuk calon ini dalam pakej bukti. Berdasarkan pengetahuan farmakologi yang telah ditubuhkan dengan baik, tamoxifen adalah modulator reseptor estrogen selektif (SERM) bukan steroid: ia terikat secara kompetitif pada reseptor estrogen (ER) dan menghalang proliferasi sel tumor payudara ER-positif yang didorong estrogen, bertindak sebagai antagonis dalam tisu payudara sambil mengekalkan aktiviti agonis separa dalam tulang dan endometrium.
+Maklumat terperinci mengenai mekanisme tindakan tidak terdapat dalam data yang dikumpul. Namun, tamoxifen diketahui sebagai pemodulat reseptor estrogen terpilih (SERM). Ia menyekat reseptor estrogen alfa secara kompetitif dalam tisu payudara dan menghalang percambahan sel tumor reseptor hormon positif yang didorong oleh estrogen.
 
-Kerana mekanisme ini ialah asas langsung kegunaan asal tamoxifen yang telah diluluskan, "ramalan" karsinoma payudara perempuan bukan hipotesis baharu — ia mengesahkan semula kes penggunaan teras ubat. Nisbah pakej bukti sendiri mengesahkan ini: *"ini membentuk asas mekanistik bagi petunjukan asal/teras, bukan hipotesis ubah tujuan novel."* Jumlah percubaan dan kesusasteraan yang sangat besar mencerminkan penggunaan tamoxifen selama beberapa dekad dalam kanser payudara, bukan penemuan baharu.
+Kanser payudara reseptor estrogen positif bergantung pada isyarat estrogen untuk membesar. Menyekat laluan ini ialah asas rawatan endokrin, jadi hubungan mekanistik antara tamoxifen dengan karsinoma payudara sangat kukuh. Hal ini selaras dengan skor ramalan TxGNN yang sangat tinggi.
 
-Untuk isyarat ubah tujuan yang tulen dalam pakej bukti ini, **karsinoma payudara tahan hormon** (kedudukan 9, bukti L2, peringkat "Soalan Penyelidikan") adalah lebih bermaklumat: beberapa percubaan menguji tamoxifen pada dos yang lebih tinggi atau dalam kombinasi dengan ejen bertarget (lapatinib, penyekat gamma-secretase, penggantian estradiol/anti-estrogen) khusus untuk mengatasi rintangan endokrin yang diperoleh — sambungan yang bermakna secara klinikal yang layak untuk penilaian berasingan, walaupun ia berada di luar skop laporan tumpuan kedudukan-1 ini.
-
----
-
-## Bukti Ujian Klinikal
-
-| Nombor Ujian | Fasa | Status | Peserta | Penemuan Utama |
-|---------|------|------|---------|---------|
-| [NCT01192308](https://clinicaltrials.gov/study/NCT01192308) | Fasa 1 | Selesai | 42 | Farmakokinetik tamoxifen dan metabolitnya (endoxifen) pada pesakit kanser payudara, berfokus pada pelarasan dos pembawa miskin CYP2D6 |
-| [NCT06033092](https://clinicaltrials.gov/study/NCT06033092) | Fasa 2 | Aktif, tidak merekrut | 200 | Tamoxifen dos rendah vs. intervensi gaya hidup untuk perubahan SHBG pada wanita dengan risiko kanser payudara yang meningkat |
-| [NCT02747004](https://clinicaltrials.gov/study/NCT02747004) | Fasa 2 | Aktif, tidak merekrut | 234 | Abemaciclib plus tamoxifen vs. abemaciclib sahaja dalam kanser payudara metastatik HR+/HER2- yang dirawat sebelumnya |
-| [NCT00003857](https://clinicaltrials.gov/study/NCT00003857) | Fasa 3 | Selesai | 636 | Tamoxifen sahaja vs. tamoxifen plus terapi radiasi untuk risiko baik DCIS payudara |
-| [NCT02040857](https://clinicaltrials.gov/study/NCT02040857) | Fasa 2 | Selesai | 162 | Palbociclib digabungkan dengan terapi endokrin adjuvan (tamoxifen sebagai terapi latar) dalam karsinoma payudara invasif positif HR |
-| [NCT03065621](https://clinicaltrials.gov/study/NCT03065621) | Fasa 2 | Selesai | 100 | Palbociclib neoajuvan digabungkan dengan terapi endokrin dalam kanser payudara ER+/HER2- |
-| [NCT00784940](https://clinicaltrials.gov/study/NCT00784940) | Fasa 3 | Selesai | 308 | Kesan ketumpatan/metabolisme mineral tulang Arimidex sahaja, Nolvadex (tamoxifen) sahaja, atau kombinasi sebagai terapi adjuvan |
-| [NCT00886535](https://clinicaltrials.gov/study/NCT00886535) | T/A | Selesai | 41 | Kajian pemerhatian perbezaan farmakogenomik dalam metabolisme tamoxifen vs. keberkesanan dan ketoksikan |
-| [NCT00066690](https://clinicaltrials.gov/study/NCT00066690) | Fasa 3 | Selesai | 3066 | Penindasan fungsi ovari plus tamoxifen atau exemestane sebagai terapi adjuvan dalam kanser payudara responsif endokrin premenopaus |
-| [NCT00002777](https://clinicaltrials.gov/study/NCT00002777) | Fasa 3 | Selesai | 342 | Exemestane vs. tamoxifen sebagai rawatan hormon baris pertama dalam kanser payudara metastatik pasca-menopaus |
+Beberapa percubaan fasa 3 yang besar menguji tamoxifen secara langsung dalam rawatan adjuvan dan pencegahan. Literatur juga menyokong penggunaannya. Namun, rintangan terhadap tamoxifen (contohnya melalui laluan MAPK, MUC1 dan mutasi ESR1) ialah cabaran klinikal yang diketahui.
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Percubaan Klinikal
+
+Sebanyak 32 percubaan klinikal dikesan. Jadual di bawah menyenaraikan 10 yang paling relevan.
+
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
+|---------|------|------|------|---------|
+| [NCT00002542](https://clinicaltrials.gov/study/NCT00002542) | Fasa 3 | Selesai | 672 | Tamoxifen berbanding plasebo (double-blind) selepas kemoterapi adjuvan pada pesakit nod positif atau risiko tinggi |
+| [NCT00784680](https://clinicaltrials.gov/study/NCT00784680) | Fasa 3 | Selesai | 308 | Kualiti hidup: Arimidex, tamoxifen (Nolvadex) atau kombinasi, sebagai rawatan adjuvan wanita pascamenopaus |
+| [NCT00293540](https://clinicaltrials.gov/study/NCT00293540) | Fasa 3 | Selesai | 249 | Ooforektomi fasa luteal berbanding fasa folikular ditambah tamoxifen pada wanita prameno dengan kanser metastatik |
+| [NCT00003906](https://clinicaltrials.gov/study/NCT00003906) | Fasa 3 | Selesai | 19,747 | Kajian STAR: raloxifene berbanding tamoxifen dalam pencegahan kanser payudara pada wanita pascamenopaus |
+| [NCT00032136](https://clinicaltrials.gov/study/NCT00032136) | Fasa 3 | Selesai | 4,400 | Exemestane 5 tahun berbanding tamoxifen 5 tahun sebagai rawatan adjuvan kanser payudara awal |
+| [NCT00912548](https://clinicaltrials.gov/study/NCT00912548) | Fasa 3 | Tidak diketahui | 1,234 | Penambahan penekanan fungsi ovari (goserelin) kepada tamoxifen pada wanita muda |
+| [NCT00002967](https://clinicaltrials.gov/study/NCT00002967) | Fasa 3 | Selesai | Tidak dinyatakan | Penambahan octreotide kepada tamoxifen sahaja atau tamoxifen dan kemoterapi |
+| [NCT00659373](https://clinicaltrials.gov/study/NCT00659373) | Fasa 3 | Selesai | 86 | Substudi fungsi kognitif dalam kajian SOFT (tamoxifen, tamoxifen + OFS, exemestane + OFS) |
+| [NCT04272801](https://clinicaltrials.gov/study/NCT04272801) | Fasa 2 | Aktif, tidak merekrut | 84 | Terapi endokrin praoperatif pada wanita berumur ≥65 tahun untuk menentukan keperluan radioterapi |
+| [NCT05941520](https://clinicaltrials.gov/study/NCT05941520) | Fasa 2 | Merekrut | 80 | Acolbifene berbanding tamoxifen dos rendah (5 mg) pada wanita prameno berisiko tinggi |
+
+---
+
+## Bukti Literatur
+
+Sebanyak 20 penerbitan dikesan. Jadual di bawah menyenaraikan 10 yang paling relevan, dengan keutamaan RCT, kemudian kajian ulasan (*review*), kohort dan laporan kes.
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|------|------|---------|---------|
-| [40332441](https://pubmed.ncbi.nlm.nih.gov/40332441/) | 2025 | Semakan Sistematik | International Journal of Molecular Sciences | Hasil pembiakan dan keselamatan onkologi penggangguran rawatan tamoxifen pada pesakit kanser payudara HR+ yang menginginkan kehamilan |
-| [33509057](https://pubmed.ncbi.nlm.nih.gov/33509057/) | 2022 | Kohort/Mekanistik | J Oncol Pharm Practice | Metilasi pempromosi PAX2 dan pelebihan ekspresi AIB1 dikaitkan dengan rintangan tamoxifen dalam karsinoma payudara ER+ |
-| [15712362](https://pubmed.ncbi.nlm.nih.gov/15712362/) | 2005 | Kohort | Cancer | Pesakit karsinoma payudara yang dirawat dengan tamoxifen menunjukkan risiko MI akut yang berubah dan angina baru didiagnosis |
-| [27344537](https://pubmed.ncbi.nlm.nih.gov/27344537/) | 2016 | Kohort | Cancer Radiotherapie | Kesan rangsangan radiotoerapi dan tamoxifen pada pengulangan setempat dalam rawatan mengekalkan payudara untuk DCIS |
-| [31853860](https://pubmed.ncbi.nlm.nih.gov/31853860/) | 2020 | Kohort/Mekanistik | Pathology Oncology Research | Pelebihan gankyrin dan Oct-4 dikaitkan dengan hasil yang tidak menguntungkan dan manfaat tamoxifen yang lemah |
-| [8792346](https://pubmed.ncbi.nlm.nih.gov/8792346/) | 1996 | Semakan | Oncology Nursing Forum | Semakan kontroversi tamoxifen termasuk risiko kanser endometrial dan cadangan penapisan |
-| [26631176](https://pubmed.ncbi.nlm.nih.gov/26631176/) | 2016 | Kohort (n=16,887) | Journal of the National Cancer Institute | Interaksi ubat tamoxifen dan antidepresan dalam kohort besar penyintas kanser payudara |
-| [23106852](https://pubmed.ncbi.nlm.nih.gov/23106852/) | 2012 | Semakan | Breast Cancer Research | Pendekatan tamoxifen dos rendah oral dan topical untuk pencegahan kanser payudara |
-| [9484623](https://pubmed.ncbi.nlm.nih.gov/9484623/) | 1998 | Semakan | Current Opinion in Obstetrics & Gynecology | Kontroversi mengenai risiko karsinoma uterus/endometrial tamoxifen |
-| [27905324](https://pubmed.ncbi.nlm.nih.gov/27905324/) | 2016 | Semakan/Siri Kes | Annali Italiani di Chirurgia | Karsinoma neuroendokrin payudara primer — pengalaman pusat tunggal dan semakan kesusasteraan |
+|------|-----|------|------|---------|
+| [23690420](https://pubmed.ncbi.nlm.nih.gov/23690420/) | 2013 | RCT | J Clin Oncol | Susulan jangka panjang CALGB 9343: lumpektomi + tamoxifen dengan atau tanpa radiasi pada wanita ≥70 tahun dengan kanser payudara awal |
+| [15712362](https://pubmed.ncbi.nlm.nih.gov/15712362/) | 2005 | Kohort | Cancer | Risiko infarksi miokardium akut dan angina pada pesakit karsinoma payudara yang dirawat dengan tamoxifen |
+| [12222137](https://pubmed.ncbi.nlm.nih.gov/12222137/) | 2002 | Ulasan | Harefuah | Tamoxifen sebagai agen lini pertama untuk kanser payudara metastatik sensitif hormon dan rawatan adjuvan |
+| [20193984](https://pubmed.ncbi.nlm.nih.gov/20193984/) | 2010 | Ulasan | Cancer Treat Rev | Ulasan kanser payudara lelaki |
+| [10894015](https://pubmed.ncbi.nlm.nih.gov/10894015/) | 2000 | Ulasan | Swiss Surg | Terapi neoadjuvan (kemoterapi dan endokrin) untuk kanser payudara lanjutan setempat |
+| [9803831](https://pubmed.ncbi.nlm.nih.gov/9803831/) | 1998 | Ulasan | Trends Pharmacol Sci | Antagonis estrogen steroid dan bukan steroid; tamoxifen sebagai sebatian piawai untuk terapi endokrin |
+| [22910442](https://pubmed.ncbi.nlm.nih.gov/22910442/) | 2012 | Ulasan | Clin Pharmacol Ther | Individualisasi rawatan tamoxifen: kesan genotip CYP2D6 dan pendedahan endoxifen |
+| [1292764](https://pubmed.ncbi.nlm.nih.gov/1292764/) | 1992 | Siri kes | Bull Cancer | Karsinoma endometrium pada wanita yang menerima tamoxifen adjuvan jangka panjang |
+| [7821489](https://pubmed.ncbi.nlm.nih.gov/7821489/) | 1994 | Kohort | Eur J Obstet Gynecol Reprod Biol | Hasil kuretaj bagi pendarahan faraj pascamenopaus pada pesakit yang dirawat dengan tamoxifen dan megestrol asetat |
+| [15944961](https://pubmed.ncbi.nlm.nih.gov/15944961/) | 2005 | Laporan kes | Ann Diagn Pathol | Metastasis karsinoma lobular payudara ke polip endometrium yang berkaitan dengan tamoxifen |
 
 ---
 
-## Maklumat Pasaran Malaysia
+## Sitotoksisiti (Ubat Antineoplastik)
 
-Status pendaftaran Malaysia mengesahkan tamoxifen kini **dipasarkan** dengan **1 lesen berdaftar**, tetapi pakej bukti tidak merangkumi nombor lesen asas, nama produk, bentuk dos, atau teks petunjukan yang diluluskan (semua medan dikembalikan kosong dalam penarikan data ini). Butiran pendaftaran ini harus bersumber terus daripada rekod pendaftaran produk NPRA sebelum digunakan dalam dokumentasi kawal selia atau klinikal.
+Tamoxifen digunakan untuk kanser payudara, jadi bahagian ini disertakan. Penilaian di bawah berdasarkan kategori ubat secara umum. Data ketoksikan terperinci daripada DrugBank tidak tersedia.
 
----
-
-## Sitotoksisiti
-
-Tamoxifen diklasifikasikan secara farmakologi sebagai ejen antineoplastik hormonal (ATC L02BA01) yang digunakan untuk merawat kanser payudara positif reseptor hormon, jadi bahagian ini terpakai — walaupun adalah penting untuk diperhatikan bahawa tamoxifen **bukan ejen kemoterapi sitotoksik konvensional**.
-
-| Item | Kandungan |
-|------|----------|
-| Klasifikasi Sitotoksisiti | Terapi hormonal/endokrin (bukan sitotoksik) — Modulator Reseptor Estrogen Selektif (SERM), bukan penghambat kinase bertarget atau immunoterapi |
-| Risiko Penindasan Sumsum Tulang | Rendah — tamoxifen tidak bertindak melalui mekanisme sitotoksik langsung dan tidak dikaitkan dengan penindasan sumsum tulang yang signifikan dari segi klinikal |
-| Klasifikasi Emetogenisiti | Minimal hingga rendah, mengikut kategori risiko antiemetik piawai untuk ejen antikanser hormonal |
-| Item Pemantauan | Ujian fungsi hati, profil lipid, gejala ginekologi endometrial/wanita (pendarahan vagina), tanda-tanda tromboembolisme vena; CBC rutin bukan kebimbangan utama tetapi mungkin diperiksa mengikut protokol institusi |
-| Perlindungan Pengendalian | Walaupun mekanisme bukan sitotoksik, tamoxifen biasanya disenaraikan dalam senarai ubat berbahaya institusi (toksisiti pembiakan/perkembangan) — langkah pencegahan piawai untuk ejen risiko pembiakan adalah disyorkan semasa penyediaan dan pentadbiran |
+| Perkara | Kandungan |
+|------|------|
+| Klasifikasi Sitotoksisiti | Terapi hormon (SERM), bukan sitotoksik konvensional |
+| Risiko Penekanan Sumsum Tulang | Rendah secara amnya; sila rujuk sisip pakej |
+| Klasifikasi Emetogenisiti | Rendah |
+| Perkara Pemantauan | Kiraan darah lengkap, fungsi hati, pemantauan endometrium dan risiko tromboembolisme |
+| Perlindungan Pengendalian | Sila rujuk amaran dan langkah berjaga-jaga dalam sisip pakej serta garis panduan institusi |
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan. Tiada data amaran keselamatan berstruktur, kontraindikasi, atau interaksi ubat dikembalikan dalam pakej bukti ini untuk tamoxifen (pertanyaan pangkalan data interaksi tidak mengembalikan hasil).
+**Interaksi Ubat:** Sebanyak 100 interaksi direkodkan dalam pangkalan data (sumber: DDInter). Antara 20 yang disenaraikan dalam data yang dikumpul, interaksi tahap **Major** ialah:
+- Bupropion
+- Lorcaserin
+- Cimetidine
+- Dolasetron
+- Eliglustat
+- Cisapride
+- Dexfenfluramine
+- Fenfluramine
+
+Interaksi tahap Moderate termasuk famotidine, loperamide, aprepitant, dexamethasone, clarithromycin, granisetron dan levofloxacin. Bupropion dan beberapa ubat lain dalam senarai ini berkaitan dengan metabolisme CYP2D6 atau pemanjangan selang QT, jadi semakan senarai ubat pesakit perlu dibuat sebelum preskripsi.
+
+**Isyarat keselamatan daripada literatur:** Literatur yang dikesan melaporkan risiko polip endometrium dan karsinoma endometrium dengan penggunaan jangka panjang. Satu kajian kohort juga meneliti risiko kardiovaskular. Kepelbagaian genotip CYP2D6 turut mempengaruhi pendedahan kepada metabolit aktif (endoxifen).
+
+Untuk amaran utama dan kontraindikasi rasmi, sila rujuk sisip pakej.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Teruskan dengan Pengawalan**
+**Keputusan: Proceed with Guardrails**
 
-**Nisbah:**
-Ramalan kedudukan-1 (karsinoma payudara perempuan) disokong oleh bukti RCT Fasa 3 yang luas dan kesusasteraan, tetapi ia bertindih dengan ketara dengan petunjukan yang telah ditubuhkan tamoxifen daripada mewakili peluang ubah tujuan novel — nilai praktikalnya adalah pengesahan, bukan penerokaan. Secara berasingan, terdapat **jurang data peringkat penghenti** pada tahap ubat: amaran label pengawalselia/Malaysia dan kontraindikasi tidak tersedia, yang menghalang calon ini daripada menjelaskan peringkat semakan keselamatan awal (S1) tanpa mengira bukti klinikal yang kuat untuk petunjukan spesifik ini.
+**Justifikasi:**
+- Terdapat banyak percubaan fasa 3 yang telah selesai, termasuk percubaan berplasebo, dengan tamoxifen sebagai agen utama atau pembanding. Literatur juga menyokong penggunaannya dalam kanser payudara reseptor hormon positif, jadi tahap bukti ialah L1.
+- Manfaat bergantung pada status reseptor hormon dan perlu ditimbang dengan risiko endometrium dan tromboembolisme.
 
-**Untuk teruskan, yang berikut diperlukan:**
-- Label peraturan Malaysia (amaran, kontraindikasi, sisipan pakej) untuk memuaskan jurang data keselamatan penghenti (DG001)
-- Data mekanisme tindakan ubat yang disahkan daripada DrugBank atau sumber setara (DG002)
-- Butiran lesen Malaysia lengkap (nombor lesen, nama produk, bentuk dos, teks petunjukan yang diluluskan) untuk pendaftaran sedia ada
-- Jika mengejar nilai ubah tujuan yang tulen daripada pelaporan pengesahan, penilaian berasingan **karsinoma payudara tahan hormon** (bukti L2) adalah disyorkan, kerana ia mewakili isyarat yang lebih novel dalam pakej bukti ini
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Mengesahkan status pendaftaran dan indikasi berlesen tamoxifen dengan NPRA, kerana data semasa menunjukkan sifar pendaftaran yang kemungkinan besar tidak tepat.
+- Memuat turun dan menghurai sisip pakej NPRA untuk amaran dan kontraindikasi (jurang data yang menghalang).
+- Mendapatkan data mekanisme tindakan (MOA) dan pengecam ubat daripada DrugBank.
+- Menyediakan pelan pemantauan keselamatan: kesihatan endometrium, risiko tromboembolisme, pertimbangan status CYP2D6 dan semakan interaksi ubat.
+- Mengesahkan status reseptor hormon (ER) pesakit sebelum memulakan rawatan.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

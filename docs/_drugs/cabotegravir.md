@@ -2,7 +2,7 @@
 layout: default
 title: Cabotegravir
 parent: Low Evidence (L4-L5)
-nav_order: 173
+nav_order: 178
 evidence_level: L5
 indication_count: 5
 ---
@@ -29,78 +29,82 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Cabotegravir: Dari Jangkitan HIV-1 kepada Artritis Reumatoid
+# Cabotegravir: Daripada Jangkitan HIV-1 kepada Artritis Reumatoid
 
 ## Ringkasan Satu Ayat
 
-Cabotegravir ialah penghambat pemindahan untai integrase HIV-1 (INSTI), digunakan secara klinikal untuk rawatan dan profilaksis pra-pendedahan (PrEP) jangkitan HIV-1. Model TxGNN meramal kemungkinan perkaitan dengan **Artritis Reumatoid**, tetapi arah ini kini disokong oleh **0 ujian klinikal** dan **0 penerbitan**, dan semakan mekanik menunjukkan skor ini lebih berkemungkinan artifak graf pengetahuan daripada isyarat farmakologi yang tulen.
+Cabotegravir ialah perencat integrase HIV-1 (INSTI) yang digunakan untuk rawatan dan pencegahan jangkitan HIV-1. Model TxGNN meramalkan ia mungkin berkesan untuk **artritis reumatoid** dengan skor tinggi, tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong arah ini. Ramalan ini hanya berasaskan model pengiraan.
 
 ---
 
-## Gambaran Pantas
+## Gambaran Keseluruhan Pantas
 
-| Item | Kandungan |
-|------|----------|
-| Indikasi Asal | Jangkitan HIV-1 (rawatan / PrEP) — berdasarkan identiti ubat yang diketahui; teks indikasi label NPRA yang rasmi belum diekstrak |
-| Indikasi Baru yang Diramal | Artritis Reumatoid |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Tiada maklumat indikasi berdaftar tempatan dalam data yang dikumpulkan. Menurut pengetahuan am, ia ialah perencat integrase HIV-1 |
+| Indikasi Baharu yang Diramalkan | Artritis reumatoid (rheumatoid arthritis) |
 | Skor Ramalan TxGNN | 99.45% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 2 |
-| Keputusan yang Disyorkan | Tahan |
+| Status Pasaran Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan terperinci tidak tersedia untuk Cabotegravir dalam pakej bukti ini. Berdasarkan maklumat yang diketahui, Cabotegravir ialah penghambat pemindahan untai integrase HIV-1 (INSTI), sebahagian daripada kelas farmakologi yang sama seperti dolutegravir dan bictegravir, dan keberkesanannya dalam rawatan dan pencegahan HIV-1 telah ditegakkan dengan baik. Tiada mekanisme anti-inflamasi, anti-TNF, laluan IL-6, atau imunomodulasi yang lebih luas telah dilaporkan untuk kelas ubat ini yang boleh secara munasabah menjelaskan kesan pada artritis reumatoid.
+Data mekanisme tindakan (MOA) terperinci tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, cabotegravir ialah perencat integrase strand transfer (INSTI) yang menyasarkan enzim virus HIV-1. Kesannya dalam jangkitan HIV-1 diketahui, tetapi **tiada hubungan mekanisme yang jelas** dengan artritis reumatoid.
 
-Artritis reumatoid ialah penyakit sendi autoimun/inflamasi kronik yang didorong oleh laluan sitokin (TNF-α, IL-6, JAK-STAT) yang tidak berkaitan secara mekanik dengan perencatan integrase virus. Skor TxGNN yang tinggi kemungkinan besar mencerminkan sambungan graf tidak langsung — sebagai contoh, nod bersama di sekitar pengaktifan imun berkaitan HIV atau komorbiditi autoimun dalam graf pengetahuan asas — daripada hubungan farmakologi langsung antara ubat dan penyakit.
+Patogenesis artritis reumatoid melibatkan laluan seperti TNF, IL-6 dan isyarat JAK/STAT. Tiada laluan bergantung integrase yang munasabah telah dikenal pasti dalam penyakit ini. Skor tinggi (0.995) merupakan ramalan graf pengetahuan sahaja, dan sebarang hipotesis memerlukan pengesahan *in vitro* secara bebas.
 
-Memandangkan ketiadaan sepenuhnya ujian klinikal atau literatur yang menyokong (0/0), dan tiada asas biologi yang munasabah, ramalan ini harus dianggap sebagai keluaran model yang tidak disahkan daripada petunjuk penggunaan semula yang boleh diambil tindakan pada peringkat ini.
+Indikasi lain yang diramalkan model juga tidak mempunyai sokongan bukti (semuanya L5, Hold):
 
----
-
-## Bukti Ujian Klinikal
-
-Pada masa ini tiada ujian klinikal yang berkaitan terdaftar.
-
----
-
-## Bukti Literatur
-
-Pada masa ini tiada literatur yang berkaitan tersedia.
+| Kedudukan | Penyakit | Skor TxGNN | Catatan |
+|------|------|------|------|
+| 2 | Kolangitis sklerosis | 99.22% | Tiada hubungan mekanisme. Cabotegravir dimetabolismekan di hati melalui UGT1A1, maka keselamatan hepatobilier perlu dipertimbangkan |
+| 3 | Bronkitis | 99.19% | Tiada aktiviti antibakteria; bronkitis akut kebanyakannya virus atau sembuh sendiri |
+| 4 | Sindrom displasia rizomelik-mikroftalmia kolobomatus | 99.16% | Gangguan genetik sangat jarang; ubat antivirus molekul kecil tidak mungkin membetulkan kecacatan kongenital |
+| 5 | Retinopati diabetik bukan proliferatif teruk | 99.03% | Tiada kaitan dengan laluan VEGF, keradangan atau mikrovaskular; penghantaran okular dan keselamatan belum dicirikan |
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Cabotegravir memegang **2 pendaftaran aktif** di Malaysia (status NPRA: Dipasarkan / Dipasarkan). Walau bagaimanapun, medan pendaftaran terperinci (nombor lesen, nama produk, bentuk dos, dan teks indikasi yang diluluskan) tidak dapat diekstrak daripada sumber data semasa dan memerlukan pengambilan susulan daripada daftar produk NPRA sebelum ia dapat dilaporkan di sini.
+Berdasarkan data yang dikumpulkan, cabotegravir **tidak dipasarkan** di Malaysia dan tiada lesen berdaftar dengan NPRA.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk brosur produk untuk maklumat keselamatan.
+**Interaksi Ubat (DDI):** Sebanyak 7 interaksi tahap **sederhana** dikesan (sumber: DDInter), semuanya melibatkan antasid atau agen yang mengandungi kation polivalen:
 
-*Nota: Pengekstrakan amaran label NPRA/TFDA dan kontraindikasi untuk Cabotegravir kini dihalang (lihat jurang data di bawah) dan tidak dapat diselesaikan untuk penilaian ini.*
+- Kalsium karbonat
+- Aluminium hidroksida
+- Magnesium karbonat
+- Magnesium hidroksida
+- Magnesium oksida
+- Natrium bikarbonat
+- Natrium sitrat
+
+Secara umum, kation polivalen boleh mengurangkan penyerapan perencat integrase, jadi masa pengambilan perlu dipertimbangkan. Pengesahan daripada risalah maklumat produk diperlukan.
+
+Untuk amaran utama dan kontraindikasi, sila rujuk risalah maklumat produk.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
-**Alasan:**
-Ramalan bertaraf teratas (artritis reumatoid) — bersama dengan semua ramalan TxGNN lima teratas yang lain untuk ubat ini — tidak mempunyai sokongan ujian klinikal atau literatur dan tiada pautan mekanik yang munasabah untuk perencatan integrase; nisbah penggunaan semula itu sendiri menandakan ini sebagai kemungkinan besar hingar-bingar graf pengetahuan daripada isyarat tulen. Sebagai tambahan, **jurang data yang menghalang** (amaran dan kontraindikasi label NPRA/TFDA yang hilang) kini mencegah bahkan semakan keselamatan asas, jadi calon ini tidak boleh meneruskan tanpa mengira kekuatan isyarat keberkesanan.
+**Rasional:**
+- Ramalan artritis reumatoid hanya berdasarkan model (L5), tanpa percubaan klinikal, penerbitan atau hubungan mekanisme yang munasabah. Ubat ini juga tidak dipasarkan di Malaysia.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Label produk NPRA/TFDA (amaran, kontraindikasi) — diperlukan untuk mengatasi jurang data yang menghalang (DG001) sebelum sebarang penilaian keselamatan
-- Data mekanisme tindakan terperinci daripada DrugBank — diperlukan untuk menyelesaikan jurang data berkeparahan tinggi (DG002) dan menyokong semakan mekanik
-- Butir pendaftaran NPRA yang lengkap (nombor lesen, nama produk, bentuk dos, teks indikasi yang diluluskan) untuk 2 pendaftaran Malaysia yang sedia ada
-- Jika hipotesis artritis reumatoid diusahakan lebih jauh: bukti pra-klinikal atau mekanik yang menetapkan laluan imunomodulasi yang munasabah, diikuti dengan pencarian yang diperbaharui untuk ujian klinikal dan literatur
-- Memandangkan bahawa tiada satu pun daripada 5 indikasi yang diramal TxGNN teratas untuk ubat ini menunjukkan kelayakan mekanik atau sokongan bukti, pertimbangkan untuk menilai semula keutamaan calon ini atau mengkaji semula keluaran model asas sebelum pelaburan lanjut
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data amaran dan kontraindikasi daripada risalah maklumat produk NPRA (jurang data yang menghalang penyaringan keselamatan)
+- Data mekanisme tindakan (MOA) daripada DrugBank
+- Pengesahan *in vitro* atau praklinikal terhadap hipotesis mekanisme dalam artritis reumatoid
+- Kajian keselamatan hepatobilier dan kesesuaian laluan pentadbiran, jika indikasi lain (cth. kolangitis sklerosis) dipertimbangkan
+- Pendaftaran produk di Malaysia, jika pembangunan klinikal diteruskan
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

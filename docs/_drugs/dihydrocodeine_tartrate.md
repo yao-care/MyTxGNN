@@ -2,7 +2,7 @@
 layout: default
 title: Dihydrocodeine Tartrate
 parent: Low Evidence (L4-L5)
-nav_order: 281
+nav_order: 290
 evidence_level: L5
 indication_count: 0
 ---

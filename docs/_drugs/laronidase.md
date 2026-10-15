@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Laronidase
-parent: High Evidence (L1-L2)
-nav_order: 426
-evidence_level: L1
+parent: Low Evidence (L4-L5)
+nav_order: 446
+evidence_level: L4
 indication_count: 2
 ---
 
 # Laronidase
 {: .fs-9 }
 
-Tahap bukti: **L1** | Indikasi diramal: **2** 
+Tahap bukti: **L4** | Indikasi diramal: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,61 +29,169 @@ Tahap bukti: **L1** | Indikasi diramal: **2**
 
 </div>
 
-# Laronidase: Daripada Mucopolysaccharidosis I (MPS I) kepada Penyakit Penyimpanan Lisosomal dengan Keterlibatan Rangka
+# Laronidase: Daripada Mukopolisakaridosis kepada Penyakit Simpanan Lisosom dengan Penglibatan Rangka
 
 ## Ringkasan Satu Ayat
 
-Laronidase (alpha-L-iduronidase manusia rekombinan) adalah terapi penggantian enzim yang dikembangkan dan diluluskan pada awalnya (sebagai Aldurazyme) untuk Mucopolysaccharidosis I (MPS I / spektrum Hurler-Scheie). Model TxGNN meramalkan kebolehgunaan tinggi untuk **penyakit penyimpanan lisosomal dengan keterlibatan rangka**, yang secara mekanistik bertindih dengan penggunaan yang diluluskan oleh ubat ini, disokong oleh **4 penerbitan** dan skor ramalan 99.31%, walaupun **tiada ujian klinikal khusus untuk label yang tepat ini** kini didaftarkan.
+Laronidase ialah enzim alfa-L-iduronidase rekombinan yang pada asalnya digunakan untuk merawat mukopolisakaridosis (MPS) jenis I, termasuk sindrom Hurler, Hurler-Scheie dan Scheie.
+Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit simpanan lisosom dengan penglibatan rangka**, tetapi tiada **percubaan klinikal** berdaftar dan hanya **4 penerbitan** yang disenaraikan, kebanyakannya ulasan, kajian in vitro dan satu laporan kes. Indikasi ini sebahagian besarnya bertindih dengan indikasi asal (MPS I), jadi ia bukan pengalihan guna sebenar.
 
-## Gambaran Keseluruhan Cepat
+---
 
-| Item | Kandungan |
-|------|---|
-| Petunjuk Asal | Mucopolysaccharidosis I (MPS I / sindrom Hurler, Hurler-Scheie, Scheie) |
-| Petunjuk Baharu yang Diramalkan | Penyakit penyimpanan lisosomal dengan keterlibatan rangka |
+## Gambaran Keseluruhan Pantas
+
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Mukopolisakaridosis, sindrom Hurler, sindrom Hurler-Scheie, sindrom Scheie |
+| Indikasi Baharu yang Diramalkan | Penyakit simpanan lisosom dengan penglibatan rangka |
 | Skor Ramalan TxGNN | 99.31% |
-| Tahap Bukti | L1 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 1 |
-| Keputusan yang Disyorkan | Teruskan dengan Penjaga |
+| Tahap Bukti | L4 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (Tangguh) |
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Laronidase ialah alpha-L-iduronidase manusia rekombinan, terapi penggantian enzim yang membekalkan enzim yang hilang dalam pesakit MPS I. MPS I timbul daripada kecacatan gen IDUA yang menyebabkan kehilangan aktiviti alpha-L-iduronidase, yang membawa kepada pengumpulan heparan sulfat dan dermatan sulfat. Penimbunan ini mendorong penyakit multi-sistem, termasuk displasia skeletal (dysostosis multiplex), kontraktur sendi, dan kerosakan organ yang progresif.
+Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, laronidase ialah alfa-L-iduronidase rekombinan yang menguraikan glikosaminoglikan (dermatan sulfat dan heparan sulfat) yang terkumpul dalam MPS I. Keberkesanannya dalam MPS I telah dibuktikan, dan secara mekanistik ia mungkin terpakai untuk manifestasi rangka penyakit tersebut.
 
-Petunjuk yang diramalkan — "penyakit penyimpanan lisosomal dengan keterlibatan rangka" — bukanlah penyakit baharu yang berbeza tetapi secara berkesan menerangkan manifestasi skeletal MPS I itu sendiri, keadaan yang laronidase telah diluluskan pada awalnya untuk dirawat. TxGNN dengan itu telah menemui semula penggunaan yang telah disahkan dan diluluskan daripada mengemukakan isyarat penggantian ubatan yang baru: pautan mekanistik adalah padanan langsung 1:1 (penggantian enzim untuk enzim yang benar-benar kekurangan), yang menjelaskan skor ramalan yang sangat tinggi.
+Penglibatan rangka (disostosis multipleks) ialah manifestasi MPS I yang diiktiraf. Oleh itu, indikasi yang diramalkan ini sebahagian besarnya bertindih dengan indikasi berlabel asal. Kajian in vitro (PMID 18758061) menunjukkan laronidase diambil oleh fibroblas dan osteoblas terkultur, dan ini menyokong mekanisme yang munasabah untuk tisu tulang dan rawan.
 
-Nota: medan `original_moa` berstruktur dalam DrugBank telah ditandai sebagai jurang data; mekanisme yang diterangkan di atas diambil daripada literatur sokongan dan rasional mekanistik pakej bukti itu sendiri daripada rekod DrugBank MOA.
+Walau bagaimanapun, penembusan ke dalam rawan dan tulang yang tidak bervaskular adalah terhad dengan terapi penggantian enzim (ERT) intravena, dan hasil rangka secara amnya sederhana. Skor TxGNN yang tinggi (0.993) berkemungkinan besar mencerminkan perkaitan MPS I sedia ada dalam graf pengetahuan, dan bukannya isyarat baharu.
 
-## Bukti Ujian Klinikal
+---
 
-Kini tiada ujian klinikal berkaitan yang didaftarkan
+## Bukti Percubaan Klinikal
+
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
+
+---
 
 ## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|------|------|------|------|
-| [25345091](https://pubmed.ncbi.nlm.nih.gov/25345091/) | 2014 | Ulasan | Pediatric Endocrinology Reviews | Gambaran keseluruhan spektrum penyakit MPS I (Hurler, Scheie, Hurler-Scheie); diagnosis melalui corak GAG air kencing dan ujian enzim iduronidase |
-| [12196045](https://pubmed.ncbi.nlm.nih.gov/12196045/) | 2002 | Ulasan | BioDrugs | Profil pembangunan laronidase sebagai ERT alpha-L-iduronidase rekombinan untuk MPS-I, termasuk penetapan ubat anak yatim dan data Fasa I awal |
-| [23127271](https://pubmed.ncbi.nlm.nih.gov/23127271/) | 2012 | Kohort | Pediatric Neurology | Susulan 6.5 tahun ERT dalam MPS I atenuasi (sindrom Scheie); pesakit menunjukkan kemajuan penyakit walaupun rawatan |
-| [18758061](https://pubmed.ncbi.nlm.nih.gov/18758061/) | 2008 | Penyelidikan asas/mekanistik | Biological & Pharmaceutical Bulletin | Menunjukkan pengambilan laronidase ke dalam fibroblas/osteoblas MPS I terutamanya melalui reseptor mannose-6-fosfat, dengan pemprosesan lisosomal |
+|------|-----|------|------|---------|
+| [25345091](https://pubmed.ncbi.nlm.nih.gov/25345091/) | 2014 | Ulasan | Pediatric Endocrinology Reviews | Ulasan MPS I: kekurangan enzim alfa-L-iduronidase menyebabkan pengumpulan GAG; spektrum Hurler, Hurler-Scheie dan Scheie |
+| [12196045](https://pubmed.ncbi.nlm.nih.gov/12196045/) | 2002 | Ulasan | BioDrugs | Monograf pembangunan laronidase sebagai ERT untuk MPS I, dengan status ubat yatim |
+| [18758061](https://pubmed.ncbi.nlm.nih.gov/18758061/) | 2008 | Kajian in vitro | Biological & Pharmaceutical Bulletin | Laronidase diambil oleh fibroblas MPS I terkultur terutamanya melalui reseptor M6P dan dihantar ke lisosom |
+| [23127271](https://pubmed.ncbi.nlm.nih.gov/23127271/) | 2012 | Laporan kes | Pediatric Neurology | Susulan 6.5 tahun ERT pada seorang budak dengan sindrom Scheie; status keseluruhan merosot dan penyakit berkembang selepas tempoh tersebut |
+
+---
+
+## Maklumat Pasaran Malaysia
+
+Laronidase tidak dipasarkan di Malaysia dan tiada pendaftaran dikesan dalam data yang disusun untuk laporan ini.
+
+---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
+**Interaksi Ubat** (2 interaksi, kedua-duanya tahap Minor, sumber DDInter):
+- Klorokuin
+- Prokain
+
+Untuk amaran utama dan kontraindikasi, sila rujuk sisip bungkusan.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Teruskan dengan Penjaga**
+**Keputusan: Hold (Tangguh)**
 
-**Rasional:**
-Pautan mekanistik adalah hampir pasti (ini adalah petunjuk yang telah diluluskan ubat itu sendiri), tetapi data keselamatan yang diperlukan untuk ulasan S1 penuh — amaran label TFDA/NPRA dan kontraindikasi — kini merupakan jurang data yang menghalang, dan tiada data interaksi yang ditemui. Isyarat calon berasingan untuk ubat yang sama (sindrom Sanfilippo / MPS III) juga telah disaring dan ditolak (**Pegang**), kerana enzim sasaran laronidase (alpha-L-iduronidase) tidak kurang dalam penyakit itu dan tiada asas farmakologi yang munasabah wujud.
+**Justifikasi:**
+- Tiada percubaan klinikal berdaftar untuk indikasi ini, dan bukti terhad kepada ulasan umum MPS I, kajian in vitro dan satu laporan kes. Skor TxGNN yang tinggi kemungkinan besar mencerminkan perkaitan MPS I sedia ada dan bukannya isyarat pengalihan guna baharu. Penembusan terhad ke tulang dan rawan juga mengehadkan hasil rangka.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Sisipan pakej TFDA/NPRA (amaran, kontraindikasi) — kini menghalang
-- Data mekanisme tindakan berstruktur daripada DrugBank
-- Butiran pendaftaran Malaysia lengkap (nombor lesen, nama produk, bentuk dos, teks petunjuk yang diluluskan), yang kosong dalam pakej bukti semasa
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data MOA terperinci dan amaran/kontraindikasi daripada sisip bungkusan (data keselamatan ini belum lengkap dan menghalang saringan keselamatan)
+- Data hasil rangka khusus (contohnya kajian radiografi atau mobiliti sendi) daripada kajian MPS I
+- Pengesahan status "tidak dipasarkan" di Malaysia dan laluan akses (contohnya program ubat yatim)
 
+---
+
+# Laronidase: Daripada Mukopolisakaridosis kepada Sindrom Sanfilippo
+
+## Ringkasan Satu Ayat
+
+Laronidase ialah enzim alfa-L-iduronidase rekombinan yang pada asalnya digunakan untuk merawat MPS I.
+Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom Sanfilippo (MPS III)**, tetapi **tiada percubaan klinikal** dan **8 penerbitan** yang diperoleh hampir kesemuanya mengenai MPS I, bukan Sanfilippo.
+
+---
+
+## Gambaran Keseluruhan Pantas
+
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Mukopolisakaridosis, sindrom Hurler, sindrom Hurler-Scheie, sindrom Scheie |
+| Indikasi Baharu yang Diramalkan | Sindrom Sanfilippo |
+| Skor Ramalan TxGNN | 99.22% |
+| Tahap Bukti | L4 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (Tangguh) |
+
+---
+
+## Mengapa Ramalan Ini Munasabah?
+
+Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia buat masa ini. Sindrom Sanfilippo (MPS III) disebabkan oleh kekurangan enzim dalam laluan penguraian heparan sulfat (sulfamidase, N-asetil-alfa-glukosaminidase, asetil-CoA:alfa-glukosaminida asetiltransferase dan N-asetilglukosamina-6-sulfatase). Alfa-L-iduronidase bertindak pada laluan heparan sulfat yang sama tetapi pada langkah yang berbeza.
+
+Oleh itu, laronidase **tidak dapat menggantikan enzim yang kekurangan** dalam MPS III, dan pertindihan substrat hanyalah pautan laluan tidak langsung. Selain itu, MPS III terutamanya penyakit sistem saraf pusat, manakala laronidase intravena tidak merentasi sawar darah-otak dengan berkesan.
+
+Skor TxGNN yang tinggi (0.992) kemungkinan besar mencerminkan kedekatan laluan dan kelas penyakit dalam graf pengetahuan. Hubungan mekanistik langsung belum ditunjukkan.
+
+---
+
+## Bukti Percubaan Klinikal
+
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
+
+---
+
+## Bukti Literatur
+
+Semua kajian di bawah menumpukan pada MPS I dan tidak menguji laronidase dalam sindrom Sanfilippo, kecuali PMID 23251908 yang menyentuh pendekatan mekanistik berkaitan.
+
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [15126990](https://pubmed.ncbi.nlm.nih.gov/15126990/) | 2004 | RCT (Fasa 3, terkawal plasebo, dalam MPS I) | The Journal of Pediatrics | Kajian multinasional untuk mengesahkan keberkesanan dan keselamatan laronidase dalam MPS I |
+| [40830667](https://pubmed.ncbi.nlm.nih.gov/40830667/) | 2025 | RCT (biosimilar vs rujukan, dalam MPS I) | Scientific Reports | Fasa III label terbuka: laronidase biosimilar (CinnaGen) berbanding Aldurazyme dalam mengekalkan tahap uGAG |
+| [32340185](https://pubmed.ncbi.nlm.nih.gov/32340185/) | 2020 | Ulasan | Int J Mol Sci | Keberkesanan dan had ERT intravena dalam MPS I, II, IVA, VI dan VII; data pasca-pemasaran kadangkala bercanggah |
+| [31020996](https://pubmed.ncbi.nlm.nih.gov/31020996/) | 2019 | Ulasan sistematik | J Inherit Metab Dis | Data terhad untuk menilai keberkesanan ERT sebenar dalam MPS I |
+| [15794739](https://pubmed.ncbi.nlm.nih.gov/15794739/) | 2005 | Kohort / pengalaman klinikal | Expert Opin Pharmacother | Pengalaman klinikal 5 tahun pertama laronidase dalam MPS I |
+| [33139350](https://pubmed.ncbi.nlm.nih.gov/33139350/) | 2021 | Kohort | Arch Dis Child | Masa ke rawatan bertambah baik, tetapi masa ke diagnosis tidak, dalam MPS I |
+| [12196045](https://pubmed.ncbi.nlm.nih.gov/12196045/) | 2002 | Ulasan | BioDrugs | Monograf pembangunan laronidase untuk MPS I |
+| [23251908](https://pubmed.ncbi.nlm.nih.gov/23251908/) | 2012 | Kajian in vitro | Acta Biochimica Polonica | Perbandingan siRNA (terapi pengurangan substrat) dengan ERT dalam kultur sel; laronidase tidak menunjukkan kesan sitotoksik |
+
+---
+
+## Maklumat Pasaran Malaysia
+
+Laronidase tidak dipasarkan di Malaysia dan tiada pendaftaran dikesan dalam data yang disusun untuk laporan ini.
+
+---
+
+## Pertimbangan Keselamatan
+
+**Interaksi Ubat** (2 interaksi, kedua-duanya tahap Minor, sumber DDInter):
+- Klorokuin
+- Prokain
+
+Untuk amaran utama dan kontraindikasi, sila rujuk sisip bungkusan.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Hold (Tangguh)**
+
+**Justifikasi:**
+- Laronidase tidak boleh menggantikan enzim yang kekurangan dalam MPS III dan tidak merentasi sawar darah-otak dengan berkesan, sedangkan Sanfilippo terutamanya penyakit CNS. Bukti yang diperoleh hampir semuanya mengenai MPS I, jadi skor TxGNN yang tinggi tidak disokong oleh data khusus penyakit ini.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data praklinikal yang menguji laronidase dalam model MPS III, termasuk strategi penghantaran merentasi sawar darah-otak
+- Data MOA terperinci dan amaran/kontraindikasi daripada sisip bungkusan
+- Pengesahan status "tidak dipasarkan" di Malaysia dan laluan akses yang mungkin
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

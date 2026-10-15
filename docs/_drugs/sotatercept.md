@@ -2,7 +2,7 @@
 layout: default
 title: Sotatercept
 parent: Low Evidence (L4-L5)
-nav_order: 625
+nav_order: 656
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,63 +29,92 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Sotatercept: Dari Hipertensi Arteri Pulmonal hingga Leukemia Limfoblastik Akut
+# Sotatercept: Daripada Penunjuk Asal yang Belum Direkodkan kepada Leukemia Limfoblastik Akut
 
 ## Ringkasan Satu Ayat
 
-Sotatercept adalah protein fusi ActRIIA-Fc ("perangkap ligan") yang farmakologinya yang telah ditetapkan berpusat pada remodeling vaskular paru dalam hipertensi arteri pulmonal (PAH) dan pada metabolisme tulang. Model TxGNN memprediksi kemungkinan hubungan dengan **leukemia limfoblastik akut (ALL)**, tetapi ini adalah **sinyal hanya-model (L5)** — tidak ada uji klinis atau publikasi yang mendukungnya saat ini, dan catatan mekanis yang mendasar itu sendiri menandai koneksi sebagai lemah dan mungkin merupakan artefak prediksi.
+Sotatercept ialah protein gabungan reseptor activin jenis IIA-Fc (ActRIIA-Fc) yang memerangkap activin dan ligan lain dalam superfamili TGF-beta. Data yang dikompilasi untuk laporan ini tidak mencatatkan penunjuk asalnya.
+Model TxGNN meramalkan ia mungkin berkesan untuk **leukemia limfoblastik akut** (skor 99.78%), tetapi buat masa ini terdapat **0 ujian klinikal** dan **0 penerbitan** yang menyokong arah ini. Ramalan ini hanya berasaskan model.
 
-## Tinjauan Cepat
+---
 
-| Item | Konten |
-|------|--------|
-| Indikasi Asli | Hipertensi Arteri Pulmonal (PAH) — disimpulkan dari catatan mekanis dalam paket bukti ini; teks indikasi label NPRA formal tidak tersedia (celah data pemblokiran) |
-| Indikasi Baru yang Diprediksi | Leukemia Limfoblastik Akut (penyakit) |
-| Skor Prediksi TxGNN | 99.78% |
-| Tingkat Bukti | L5 |
-| Status Pasar Malaysia | ✓ Dipasarkan |
-| Jumlah Registrasi | 2 |
-| Rekomendasi Keputusan | Tunda |
+## Gambaran Ringkas
 
-## Mengapa Prediksi Ini Masuk Akal?
+| Perkara | Kandungan |
+|------|------|
+| Penunjuk Asal | Tiada data (tiada lesen NPRA yang direkodkan) |
+| Penunjuk Baharu yang Diramalkan | Leukemia limfoblastik akut |
+| Skor Ramalan TxGNN | 99.78% |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan yang Disyorkan | Hold |
 
-Data mekanisme-aksi formal tidak dikembalikan untuk obat ini (celah data). Berdasarkan catatan mekanis yang terlampir pada paket bukti ini, sotatercept adalah protein fusi ActRIIA-Fc yang menjebak Activin A/B dan GDF8/11 (ligan superfamili TGF-β), menghambat signaling SMAD2/3. Jalur ini mendasari penggunaannya yang telah ditetapkan dalam remodeling vaskular paru (PAH) dan efeknya pada hematopoiesis/metabolisme tulang — superfamili yang sama ditargetkan oleh perangkap ligan terkait luspatercept, yang disetujui untuk anemia dalam sindrom mielodisplastik.
+---
 
-Untuk prediksi peringkat teratas, ALL, rasional paket bukti sendiri secara eksplisit skeptis: signaling Activin/GDF berkaitan dengan produksi sel merah dan mikrolingkungan sumsum tulang, tetapi ini adalah mekanisme hematopoietik *regulasi*, bukan jalur dengan hubungan langsung dengan proliferasi limfoblas ganas yang mendorong ALL. Tidak ada bukti klinis atau literatur yang mendukung koneksi, dan catatan sumber itu sendiri menilai ini sebagai hubungan mekanis lemah dengan kemungkinan tinggi bahwa ini adalah kebisingan prediksi TxGNN daripada sinyal farmakologis yang genuine.
+## Mengapa Ramalan Ini Munasabah?
 
-Singkatnya, rasional biologis untuk indikasi yang diketahui sotatercept koheren, tetapi perluasannya ke ALL khususnya tidak didukung dengan baik dan harus diperlakukan sebagai sinyal eksplorasi berkonfiden rendah saja.
+Sotatercept ialah protein gabungan ActRIIA-Fc yang memerangkap activin dan ligan berkaitan dalam superfamili TGF-beta. Isyarat activin dikaitkan dengan pengawalaturan hematopoiesis, maka kaitan mekanistik dengan leukemia boleh dibayangkan.
 
-## Bukti Uji Klinis
+Namun, tiada bukti klinikal atau literatur disediakan dalam data yang dikompilasi. Skor TxGNN (0.998) hanyalah ramalan model dan mekanismenya belum disahkan untuk penunjuk ini. Data mekanisme tindakan terperinci daripada pangkalan data rujukan juga belum tersedia, dan penunjuk asal belum dapat dikenal pasti.
 
-Saat ini tidak ada uji klinis terkait yang terdaftar.
+### Penunjuk Lain yang Diramalkan
+
+Semua penunjuk di bawah berada pada tahap bukti L5 dengan keputusan Hold. Tiada ujian klinikal atau literatur disediakan untuk mana-mana daripadanya.
+
+| Kedudukan | Penunjuk | Skor TxGNN | Catatan Mekanistik |
+|------|------|------|------|
+| 1 | Leukemia limfoblastik akut | 99.78% | Isyarat activin terlibat dalam pengawalaturan hematopoiesis; masih hipotesis |
+| 2 | Retinopati diabetik bukan proliferatif teruk | 99.77% | Isyarat activin/TGF-beta mungkin mempengaruhi vaskular retina; hipotesis, dan terdapat kebimbangan teori tentang kesan terhadap vaskulatur retina |
+| 3 | Retinopati diabetik | 99.72% | Pautan yang sama dengan subjenis di atas; kemungkinan ramalan berkorelasi |
+| 4 | Osteoporosis aruhan ubat | 99.65% | Rasional paling munasabah dari segi biologi: activin A menekan aktiviti osteoblas, dan molekul ActRIIA-Fc berkaitan menambah jisim tulang dalam model praklinikal (belum disahkan dalam data ini) |
+| 5 | Katarak diabetik | 99.49% | Tiada laluan mekanistik yang jelas; spekulatif |
+| 6 | Karsinoma payudara HER2 positif | 99.43% | Isyarat activin/TGF-beta bergantung konteks dalam tumor; tiada pautan langsung dengan HER2 |
+| 7 | Karsinoma sel peralihan | 99.39% | Kemungkinan didorong oleh kedekatan rangkaian dalam graf pengetahuan |
+| 8 | Karsinoma urotelial uretra prostat | 99.36% | Ramalan berkorelasi dengan karsinoma sel peralihan |
+| 9 | Karsinoma sel peralihan sarkomatoid pelvis buah pinggang | 99.36% | Pautan spekulatif melalui peralihan epitelium-mesenkim (EMT); subjenis jarang |
+| 10 | Karsinoma urotelial pundi kencing infiltratif varian sarkomatoid | 99.34% | Rasional EMT/TGF-beta yang sama; berkorelasi dengan ramalan urotelial lain |
+
+---
+
+## Bukti Ujian Klinikal
+
+Buat masa ini tiada ujian klinikal yang berkaitan didaftarkan dalam data yang dikompilasi.
+
+---
 
 ## Bukti Literatur
 
-Saat ini tidak ada literatur terkait yang tersedia.
+Buat masa ini tiada literatur yang berkaitan tersedia.
 
-## Informasi Pasar Malaysia
+---
 
-Sotatercept dicatat sebagai dipasarkan di Malaysia dengan **2 registrasi aktif** (NPRA, status pasar: Dipasarkan). Detail tingkat lisensi (nomor otorisasi, nama produk, bentuk dosis, teks indikasi yang disetujui) tidak dikembalikan dalam ekstrak data ini, sehingga tabel tingkat lisensi tidak dapat disajikan pada waktu ini.
+## Maklumat Pasaran Malaysia
+
+Sotatercept tidak dipasarkan di Malaysia dan tiada lesen NPRA direkodkan (jumlah pendaftaran: 0).
+
+---
 
 ## Pertimbangan Keselamatan
 
-Silakan lihat lembar fakta kemasan untuk informasi keselamatan.
+Sila rujuk sisipan pek produk untuk maklumat keselamatan. Pangkalan data interaksi ubat tidak mengembalikan sebarang rekod untuk sotatercept.
 
-## Kesimpulan dan Langkah Selanjutnya
+---
 
-**Keputusan: Tunda**
+## Kesimpulan dan Langkah Seterusnya
 
-**Rasional:**
-Prediksi ALL sepenuhnya bertumpu pada skor topologi TxGNN (L5) tanpa uji klinis atau publikasi pendukung, dan rasional mekanis yang disediakan dengan paket bukti itu sendiri menilai hubungan obat–penyakit sebagai lemah dan kemungkinan kebisingan. Secara terpisah, data label TFDA/NPRA (peringatan/kontraindikasi) adalah celah **pemblokiran** yang mencegah bahkan penilaian keselamatan awal (S1), terlepas dari kekuatan sinyal efikasi.
+**Keputusan: Hold**
 
-**Untuk melanjutkan, hal berikut diperlukan:**
-- Lembar fakta kemasan TFDA/NPRA (peringatan, kontraindikasi) — diperlukan sebelum tinjauan keselamatan S1
-- Catatan mekanisme-aksi DrugBank yang dikonfirmasi
-- Studi prekliniks atau mekanis yang secara khusus menghubungkan signaling Activin/GDF dengan patofisiologi ALL
-- Detail tingkat lisensi lengkap (nama produk, bentuk dosis, teks indikasi yang disetujui) untuk 2 registrasi Malaysia
+**Justifikasi:**
+- Semua ramalan hanya berasaskan model (L5) tanpa ujian klinikal atau literatur sokongan. Data keselamatan dan mekanisme tindakan juga tiada, jadi penilaian keselamatan tidak dapat diteruskan.
 
-Catatan: semua 10 indikasi yang diprediksi TxGNN untuk obat ini (termasuk ALL) saat ini dinilai L5/Tunda — tidak ada satupun yang memiliki dukungan klinis atau literatur dalam paket bukti ini.
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisipan pek NPRA, termasuk amaran dan kontraindikasi (jurang data yang menghalang)
+- Data mekanisme tindakan (MOA) daripada pangkalan data rujukan seperti DrugBank
+- Carian literatur dan pendaftaran ujian klinikal untuk penunjuk keutamaan, terutamanya osteoporosis aruhan ubat yang paling munasabah dari segi biologi, serta leukemia limfoblastik akut
+- Semakan dapatan berkaitan tulang dalam program klinikal sotatercept sendiri
+- Penilaian keselamatan retina secara berasingan sebelum mempertimbangkan penunjuk okular, memandangkan terdapat kebimbangan teori tentang kesan terhadap vaskulatur retina
+- Pengesahan penunjuk asal dan status pendaftaran tempatan, serta penilaian kesesuaian laluan pemberian
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

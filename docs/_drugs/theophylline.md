@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Theophylline
-parent: Low Evidence (L4-L5)
-nav_order: 644
-evidence_level: L5
+parent: High Evidence (L1-L2)
+nav_order: 677
+evidence_level: L1
 indication_count: 5
 ---
 
 # Theophylline
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **5** 
+Tahap bukti: **L1** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,11 +29,13 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Teofelin: Daripada Terapi Bronkodilator yang Telah Ditetapkan kepada Asma (Sinyal Pengesahan)
+# Teofilin: Daripada Asma kepada Asma (Petunjuk Sedia Ada yang Disahkan Semula)
 
 ## Ringkasan Satu Ayat
 
-Teofelin ialah bronkodilator metilksantin yang telah lama ditetapkan dan digunakan selama puluhan tahun dalam asma dan PPOK, walaupun ekstrak daftar semasa tidak mengandungi teks indikasi yang diluluskan dengan tepat dalam fail. Ramalan teratas model TxGNN menunjukkan kembali kepada **Asma** — indikasi bersejarah ubat itu sendiri — disokong oleh **48 ujian klinikal** dan **20 penerbitan** dalam pakej bukti, menjadikan ini sinyal pengesahan dan bukannya penemuan pemindahan tujuan novel. Skor TxGNN itu sendiri dilaporkan sebagai **0.00%**, yang anomali memandangkan jumlah bukti sokongan dan harus disahkan terhadap saluran sumber sebelum digunakan untuk pengutamaan.
+Teofilin ialah ubat jenis metilxantin yang telah lama digunakan untuk merawat asma dan penyakit paru-paru obstruktif.
+Model TxGNN meramalkan **asma** sebagai petunjuk teratas, tetapi ini sebenarnya petunjuk asal ubat tersebut dan bukan petunjuk baharu yang sebenar. Skor ramalan model ialah 0.0%.
+Data yang dikompilasi menunjukkan **12 ujian klinikal** dan **20 penerbitan** bagi petunjuk ini, namun bukti khusus untuk teofilin tidak selalunya jelas.
 
 ---
 
@@ -41,39 +43,40 @@ Teofelin ialah bronkodilator metilksantin yang telah lama ditetapkan dan digunak
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Tidak diisi dalam ekstrak daftar semasa; teofelin ialah bronkodilator yang telah lama ditetapkan untuk asma/PPOK menurut bahan bacaan puluhan tahun (cth., PMID 8471184: "digunakan dalam rawatan asma selama lebih 50 tahun") |
-| Indikasi Baru yang Diramalkan | Asma (paling tinggi kedudukan; kategori penyakit yang sama seperti penggunaan yang ditetapkan — lihat kaveat di bawah) |
-| Skor Ramalan TxGNN | 0.00% (nilai skor seperti yang dilaporkan — mengesyorkan pengesahan, memandangkan kekuatan bukti sokongan) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 8 |
-| Keputusan Cadangan | Teruskan dengan Pengawal Selia |
+| Petunjuk Asal | Asma (juga asma intrinsik, asma alergi, bronkitis, penyakit paru-paru, emfisema paru-paru) |
+| Petunjuk Baharu yang Diramalkan | Asma |
+| Skor Ramalan TxGNN | 0.0% |
+| Tahap Bukti | L1 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Proceed with Guardrails |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Dokumentasi MOA formal yang terperinci ditandai sebagai jurang data dalam pakej ini, tetapi medan rasional pakej bukti itu sendiri memberikan maklumat: teofelin bertindak melalui **perencatan fosfodiesterase (PDE) yang digabung dengan antagonisme reseptor adenosina**, menghasilkan pengambilan otot licin bronkial dan kesan anti-radang. Asas mekanisme ini mendasari puluhan tahun penggunaan klinikal standard dalam penyakit jalan nafas obstruktif.
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikompilasi. Berdasarkan maklumat sedia ada, teofilin ialah metilxantin yang bertindak sebagai perencat fosfodiesterase tidak selektif dan antagonis reseptor adenosin, menghasilkan pelebaran bronkus. Pada kepekatan rendah, ia juga mempunyai kesan anti-radang, termasuk pengaktifan histon deasetilase (HDAC), serta mempengaruhi sel mast dan keradangan saluran udara.
 
-Dengan penting, indikasi yang diramalkan paling tinggi — asma — bukan kawasan terapeutik baru untuk teofelin; ia ialah indikasi bersejarah ubat itu sendiri yang telah lama sedia ada dan terdokumen dengan baik (lihat bukti literatur di bawah, merangkumi 1983–2020). Ini bermakna penemuan harus dibaca sebagai model yang **memulihkan indikasi yang telah ditetapkan dengan betul** dan bukannya menampilkan peluang pemindahan tujuan yang benar-benar novel. Pakej bukti itu sendiri mencatat bahawa majoriti 48 ujian klinikal yang dipadankan bukan campur tangan khusus teofelin (cth., ujian Symbicort, lebrikizumab, atau biologi di mana teofelin muncul hanya sebagai terapi latar belakang yang dibenarkan) — sokongan mekanik dan keberkesanan diambil terutamanya daripada literatur yang telah lama sedia ada dan bukannya daripada ujian ini secara langsung.
+Asma ialah petunjuk asal teofilin, jadi ini bukan kes pengubahan guna yang sebenar. Skor TxGNN 0.0% juga bermakna model tidak memberikan sokongan; sokongan mekanistik datang daripada literatur, bukan model.
 
-Calon yang kedudukan lebih rendah (asma alergik, bronkitis, emfisema pulmonari, asma intrinsik) mewakili sambungan mekanisme yang munasabah bagi tindakan bronkodilator/anti-radang yang sama tetapi membawa bukti langsung yang semakin lemah (L3–L5), dengan asma intrinsik ditandai sebagai Tahan (L5, S0) disebabkan kekurangan data khusus subtipe.
+Petunjuk lain dalam senarai (asma alergi, asma intrinsik, bronkitis, emfisema) berkongsi laluan bronkodilatasi dan keradangan yang sama, tetapi bukti langsungnya berbeza-beza (lihat bahagian Kesimpulan).
 
 ---
 
 ## Bukti Ujian Klinikal
 
-Dipilih daripada 48 ujian yang dipadankan, mengutamakan kajian di mana teofelin ialah campur tangan atau pembanding kajian langsung:
-
 | Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT00252785](https://clinicaltrials.gov/study/NCT00252785) | Fasa 3 | Selesai | 340 | Symbicort Turbuhaler 160/4.5µg vs Pulmicort + tablet Theolong (teofelin) dalam pesakit asma Jepun |
-| [NCT00000578](https://clinicaltrials.gov/study/NCT00000578) | Fasa 3 | Selesai | N/A | Ujian Asma dalam Kehamilan NHLBI (ATPT): RCT beklometason terhisap vs teofelin dalam asma sederhana semasa kehamilan |
-| [NCT00756418](https://clinicaltrials.gov/study/NCT00756418) | Fasa 4 | Selesai | 84 | Montelukast vs teofelin ditambah kortikosteroid terhisap dalam asma bronkial pediatrik |
-| [NCT00119496](https://clinicaltrials.gov/study/NCT00119496) | Fasa 2/3 | Selesai | 79 | Teofelin membalikkan rintangan kortikosteroid dalam perokok asma; dibandingkan dengan rosiglitazon + ICS |
-| [NCT01132781](https://clinicaltrials.gov/study/NCT01132781) | Fasa 2 | Selesai | 28 | Kesan teofelin dalam pesakit dengan rhinitis alergik (penyakit jalan nafas komorbid dengan asma) |
-| [NCT02023554](https://clinicaltrials.gov/study/NCT02023554) | N/A | Selesai | 40 | Kajian interaksi ubat PK: kesan azitromicin pada tahap plasma teofelin keadaan mantap (populasi Cina) |
-| [NCT01684683](https://clinicaltrials.gov/study/NCT01684683) | Fasa 4 | Selesai | 100 | Keberkesanan dan keselamatan rawatan teofelin 24 minggu dalam bronkiektasis bukan fibrosis kistik |
-| [NCT04789499](https://clinicaltrials.gov/study/NCT04789499) | Fasa 2 | Selesai | 51 | Teofelin intranasal (perencat PDE) untuk anosmia/disgeusia berkaitan COVID-19 |
+| [NCT00252785](https://clinicaltrials.gov/study/NCT00252785) | Fasa 3 | Selesai | 340 | Ujian rawak, buta ganda: Symbicort berbanding Pulmicort + tablet Theolong (teofilin) pada pesakit asma Jepun |
+| [NCT00119496](https://clinicaltrials.gov/study/NCT00119496) | Fasa 2/3 | Selesai | 79 | Rosiglitazon, teofilin dan kortikosteroid terhirup pada perokok asma; teofilin berpotensi membalikkan rintangan steroid |
+| [NCT00756418](https://clinicaltrials.gov/study/NCT00756418) | Fasa 4 | Selesai | 84 | Montelukast berbanding teofilin sebagai tambahan kepada steroid terhirup pada kanak-kanak asma |
+| [NCT00000578](https://clinicaltrials.gov/study/NCT00000578) | Fasa 3 | Selesai | Tidak dilaporkan | Kajian NHLBI/NICHD asma dalam kehamilan; termasuk percubaan beklometason terhirup berbanding teofilin |
+| [NCT00157937](https://clinicaltrials.gov/study/NCT00157937) | Fasa 4 | Selesai | 31 | Kajian silang montelukast pada asma persisten ringan–sederhana; perbandingan dengan teofilin tidak dapat disahkan |
+| [NCT01696214](https://clinicaltrials.gov/study/NCT01696214) | Fasa 4 | Selesai | 20 | Kajian perintis pada perokok asma; peranan teofilin tidak pasti |
+| [NCT01132781](https://clinicaltrials.gov/study/NCT01132781) | Fasa 2 | Selesai | 28 | Kesan teofilin pada rinitis alergi (bukti tidak langsung) |
+| [NCT02537691](https://clinicaltrials.gov/study/NCT02537691) | Fasa 4 | Selesai | 483 | Kohort biopenanda asma teruk dunia sebenar; tidak khusus untuk teofilin |
+| [NCT00252863](https://clinicaltrials.gov/study/NCT00252863) | Fasa 3 | Selesai | 1600 | Terapi inhaler tunggal Symbicort; kaitan dengan teofilin kemungkinan tidak langsung |
+| [NCT03269318](https://clinicaltrials.gov/study/NCT03269318) | Fasa 4 | Ditamatkan | 2 | Kajian kebolehlaksanaan klinik perubatan peribadi kanak-kanak; tiada bukti keberkesanan yang boleh digunakan |
 
 ---
 
@@ -81,46 +84,60 @@ Dipilih daripada 48 ujian yang dipadankan, mengutamakan kajian di mana teofelin 
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [8471184](https://pubmed.ncbi.nlm.nih.gov/8471184/) | 1993 | Ulasan | Drug Safety | Teofelin digunakan dalam asma selama 50+ tahun; mengkaji keseimbangan risiko/manfaat berbanding dengan bronkodilator lebih baru |
-| [8614425](https://pubmed.ncbi.nlm.nih.gov/8614425/) | 1996 | Ulasan | New England Journal of Medicine | Ulasan klinikal yang ditetapkan tentang peranan teofelin dalam pengurusan asma |
-| [2010095](https://pubmed.ncbi.nlm.nih.gov/2010095/) | 1991 | Ulasan | Geriatrics | Peranan yang berubah dan kontroversi teofelin dalam asma dan PPOK |
-| [7589387](https://pubmed.ncbi.nlm.nih.gov/7589387/) | 1995 | Ulasan | European Respiratory Journal | Teofelin dan perencat PDE terpilih sebagai agen anti-radang dalam asma bronkial |
-| [9756184](https://pubmed.ncbi.nlm.nih.gov/9756184/) | 1998 | Ulasan | Clin Exp Allergy | Kesan teofelin pada radang jalan nafas melampaui bronkodilasi |
-| [1735811](https://pubmed.ncbi.nlm.nih.gov/1735811/) | 1992 | Kajian Kohort/Klinikal | Journal of Pediatrics | Keselamatan dan keberkesanan teofelin pada kanak-kanak dengan asma |
-| [11775391](https://pubmed.ncbi.nlm.nih.gov/11775391/) | 2001 | Ulasan | Allergy and Asthma Proceedings | Teofelin mengurangkan radang jalan nafas dan mempercepatkan apoptosis eosinofil pada dos rendah |
-| [32094104](https://pubmed.ncbi.nlm.nih.gov/32094104/) | 2020 | Ulasan | Respiratory Medicine | Teofelin tetap diberikan secara meluas untuk asma/PPOK dalam tetapan sumber terhad; kesan anti-radang dan pembalikan rintangan kortikosteroid |
-| [19479396](https://pubmed.ncbi.nlm.nih.gov/19479396/) | 1997 | Ulasan | Medizinische Klinik | Kombinasi kortikosteroid terhisap tambah teofelin sekurang-kurangnya sama berkuat kuasa seperti menggandakan dos ICS |
-| [3315274](https://pubmed.ncbi.nlm.nih.gov/3315274/) | 1987 | Ulasan | Chronobiology International | Teofelin larutan berkerpanjangan dan pemberian tidak sama (berat petang) untuk asma malam |
+| [29391776](https://pubmed.ncbi.nlm.nih.gov/29391776/) | 2018 | Kajian sistematik/Meta-analisis | Drug Des Devel Ther | Keberkesanan dan kesan sampingan teofilin intravena dalam asma akut |
+| [14988770](https://pubmed.ncbi.nlm.nih.gov/14988770/) | 2004 | Ulasan | Drugs Today | Mekanisme tindakan dan penggunaan dalam asma dan COPD; terapi barisan ketiga tetapi berpotensi sebagai tambahan kepada steroid terhirup |
+| [7589387](https://pubmed.ncbi.nlm.nih.gov/7589387/) | 1995 | Ulasan | Eur Respir J | Teofilin dan perencat PDE terpilih sebagai ubat anti-radang dalam asma |
+| [9756185](https://pubmed.ncbi.nlm.nih.gov/9756185/) | 1998 | Ulasan | Clin Exp Allergy | Asma, adenosin, sel mast dan teofilin; perencatan NF-kappaB dalam sel mast |
+| [9756184](https://pubmed.ncbi.nlm.nih.gov/9756184/) | 1998 | Ulasan | Clin Exp Allergy | Teofilin dan keradangan saluran udara |
+| [20859807](https://pubmed.ncbi.nlm.nih.gov/20859807/) | 2011 | Ulasan | Handb Exp Pharmacol | Metilxantin dalam asma; kesan terhadap halangan aliran udara, hiperresponsif dan keradangan |
+| [8471184](https://pubmed.ncbi.nlm.nih.gov/8471184/) | 1993 | Ulasan | Drug Saf | Risiko dan manfaat teofilin dalam asma |
+| [11775391](https://pubmed.ncbi.nlm.nih.gov/11775391/) | 2001 | Ulasan | Allergy Asthma Proc | Teofilin sebagai agen penjimat steroid dan anti-radang pada dos rendah |
+| [8993727](https://pubmed.ncbi.nlm.nih.gov/8993727/) | 1996 | Ulasan | Allergy Asthma Proc | Penggunaan teofilin yang berkurangan akibat indeks terapeutik sempit |
+| [13964](https://pubmed.ncbi.nlm.nih.gov/13964/) | 1976 | Kajian klinikal | Cutis | Rawatan asma dengan teofilin dan agen beta-adrenergik |
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Status pasaran Malaysia ialah **✓ Dipasarkan** dengan **8 lesen berdaftar** dalam fail, tetapi ekstrak daftar dalam pakej bukti ini tidak mengandungi nombor lesen yang diisi, nama produk, bentuk dos, atau teks indikasi untuk penyertaan ini — data ini perlu ditarik terus daripada daftar NPRA sebelum tuntutan menghadap pasaran boleh dibuat.
+Teofilin kini **tidak dipasarkan** di Malaysia dan tiada pendaftaran direkodkan dalam data yang dikompilasi.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk surat sisipan pakej untuk maklumat keselamatan.
+- **Penyakit yang berpotensi menjadi kontraindikasi** (daripada graf pengetahuan, bukan teks label): hipertensi, kegagalan hati, epilepsi, gangguan kebimbangan, porfiria, penyakit buah pinggang, penyakit hati, penyakit pundi hempedu, trombositopenia, hipotiroidisme, penyakit ulser peptik, glaukoma sudut terbuka, gangguan psikotik, skizofrenia, diabetes mellitus, ketoasidosis diabetes, hiperplasia prostat jinak, neutropenia dan agranulositosis.
+- **Interaksi ubat** (100 interaksi direkodkan; sebahagian disenaraikan):
+  - **Major**: Bupropion
+  - **Sederhana**: famotidin, ranitidin, simetidin, omeprazol, rabeprazol, doksisiklin, tetrasiklin, minosiklin, klaritromisin, hidrokortison, deksametason, betametason, triamsinolon, budesonid, arang aktif
+  - **Minor**: efedrin
+- **Faktor tambahan**: indeks terapeutik sempit, keperluan pemantauan kepekatan ubat dalam darah, dan kesan merokok terhadap pelepasan ubat.
+
+Sila rujuk sisipan pek untuk amaran dan kontraindikasi rasmi.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Teruskan dengan Pengawal Selia**
+**Keputusan: Proceed with Guardrails**
 
 **Rasional:**
-Teofelin mempunyai pangkalan literatur yang mendalam dan berbilang ujian Fasa 3 yang menyokong keberkesanan bronkodilator/anti-radang dalam asma, mewajarkan tahap bukti L1. Bagaimanapun, "ramalan" ini sebahagian besarnya mengesahkan semula indikasi yang ditetapkan teofelin itu sendiri dan bukannya mengenal pasti penggunaan yang benar-benar baru, dan skor TxGNN yang dilaporkan (0.00%) tidak konsisten dengan jumlah bukti sokongan — kedua-dua titik ini memerlukan penyelesaian sebelum calon ini dianggap sebagai peluang pemindahan tujuan. Data keselamatan (amaran, kontraindikasi, DDI) sepenuhnya tidak tersedia dan merupakan jurang yang menyekat untuk sebarang lintasan keselamatan S1.
+- Asma ialah petunjuk asal teofilin, dengan ujian Fasa 3 dan Fasa 2/3 yang selesai serta kajian sistematik, jadi tahap bukti L1. Namun, skor TxGNN ialah 0.0% dan beberapa ujian tidak dapat disahkan melibatkan teofilin secara langsung.
+
+**Petunjuk lain dalam data:**
+
+| Petunjuk | Tahap Bukti | Keputusan |
+|------|------|------|
+| Asma alergi | L2 | Proceed with Guardrails |
+| Bronkitis | L4 | Hold |
+| Asma intrinsik | L4 | Hold |
+| Emfisema paru-paru | L3 | Research Question (meta-analisis mortaliti COPD memerlukan semakan teliti) |
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-
-- Ambil amaran surat sisipan TFDA/NPRA dan kontraindikasi (DG001, menyekat)
-- Ambil dokumentasi MOA DrugBank formal (DG002)
-- Sahkan skor TxGNN 0.00% terhadap saluran pemarkahan sumber — berkemungkinan anomali data/normalisasi memandangkan bukti L1
-- Isi rekod 8 lesen Malaysia (nama produk, bentuk dos, teks indikasi yang diluluskan)
-- Jelaskan dengan pasukan semakan sama ada "asma" sebagai calon paling tinggi kedudukan harus dikelasifikasikan semula sebagai kes pengesahan/QA dan bukannya calon pemindahan tujuan, memandangkan ia sepadan dengan indikasi bersejarah teofelin itu sendiri
-
+- Data mekanisme tindakan (MOA) terperinci
+- Amaran dan kontraindikasi daripada sisipan pek NPRA (jurang data yang menghalang saringan keselamatan)
+- Pengesahan sama ada teofilin ialah lengan rawatan dalam ujian yang tajuknya dipotong
+- Pelan pemantauan ubat terapeutik dan pengurusan interaksi ubat
+- Pertimbangan status tidak berdaftar di Malaysia (laluan pendaftaran atau akses)
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

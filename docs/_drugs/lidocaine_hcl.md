@@ -2,7 +2,7 @@
 layout: default
 title: Lidocaine Hcl
 parent: Low Evidence (L4-L5)
-nav_order: 440
+nav_order: 460
 evidence_level: L5
 indication_count: 0
 ---

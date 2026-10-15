@@ -2,7 +2,7 @@
 layout: default
 title: Resorcinol
 parent: Low Evidence (L4-L5)
-nav_order: 589
+nav_order: 617
 evidence_level: L5
 indication_count: 6
 ---
@@ -29,63 +29,94 @@ Tahap bukti: **L5** | Indikasi diramal: **6**
 
 </div>
 
-# Resorcinol: Dari Penggunaan Dermatologi Topikal kepada Acne Keloid
+# Resorcinol: Daripada Jerawat kepada Acne Keloid
 
-## Ringkasan Satu Kalimat
+## Ringkasan Satu Ayat
 
-Resorcinol adalah agen keratolitik topikal yang telah lama dikenal dan agen antiseptik ringan, yang sudah digunakan dalam persiapan topikal terkait jerawat. Model TxGNN memprediksi bahwa ia mungkin relevan untuk **Acne Keloid** (acne keloidalis nuchae), tetapi prediksi ini saat ini tidak memiliki **uji klinis pendukung atau literatur yang dipublikasikan** — hal ini berlandaskan pada inferensi model-graf semata.
+Resorcinol ialah agen keratolitik dan antiseptik ringan yang dahulunya digunakan secara topikal untuk jerawat dan dermatitis.
+Model TxGNN meramalkan ia mungkin berkesan untuk **acne keloid** (folliculitis keloidalis nuchae),
+tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong arah ini, dan bukti hanya berasaskan ramalan model.
 
-## Gambaran Umum Cepat
+---
 
-| Item | Konten |
-|------|--------|
-| Indikasi Awal | Tidak ditentukan dalam catatan lisensi NPRA (entri daftar tidak mengandung teks indikasi); diklasifikasikan secara farmakologis sebagai agen keratolitik topikal/antiseptik yang digunakan dalam produk terkait jerawat |
-| Indikasi Baru yang Diprediksi | Acne Keloid |
-| Skor Prediksi TxGNN | 99.83% |
-| Tingkat Bukti | L5 (prediksi model saja — tidak ada uji klinis atau literatur yang teridentifikasi) |
-| Status Pasar Malaysia | ✓ Dipasarkan |
-| Jumlah Pendaftaran | 6 |
-| Keputusan yang Direkomendasikan | Tahan |
+## Gambaran Ringkas
 
-## Mengapa Prediksi Ini Masuk Akal?
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Jerawat (acne), dermatitis, dermatitis akneiform (berdasarkan graf pengetahuan PrimeKG) |
+| Indikasi Baharu yang Diramalkan | Acne keloid |
+| Skor Ramalan TxGNN | 99.83% |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
-Saat ini, data mekanisme tindakan terperinci untuk resorcinol tidak tersedia (kueri DrugBank mengembalikan entri MOA kosong). Berdasarkan klasifikasi farmakologis yang diketahui, resorcinol bertindak sebagai agen keratolitik topikal dan agen antibakteri ringan dan memiliki penggunaan yang terbukti dalam formulasi topikal terkait jerawat.
+---
 
-Acne keloidalis nuchae melibatkan peradangan folikel dan produksi keratin berlebih yang menyebabkan papula seperti keloid berbekas, biasanya di kulit kepala/leher posterior. Karena tindakan keratolitik dan antimikroba ringan resorcinol sudah diterapkan pada jerawat, terdapat tumpang tindih mekanistik yang permukaan dengan jalur keratinisasi/peradangan folikel keloid jerawat.
+## Mengapa Ramalan Ini Munasabah?
 
-Namun, paket bukti itu sendiri menandai tautan ini sebagai **analogi farmakologis daripada bukti langsung** — tidak ada data uji coba atau tingkat kasus yang menghubungkan resorcinol secara khusus ke acne keloidalis nuchae. Prediksi harus dibaca sebagai menghasilkan hipotesis, bukan sebagai efikasi yang dikonfirmasi.
+Data terperinci mengenai mekanisme tindakan (MOA) resorcinol tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, resorcinol ialah agen keratolitik topikal dengan kesan antiseptik ringan, dan ia telah digunakan secara sejarah untuk jerawat.
 
-## Bukti Uji Klinis
+Acne keloid ialah gangguan folikel yang radang dan kronik. Kesan keratolitik dan antiseptik ringan mungkin membantu mengurangkan sumbatan folikel dan keradangan, dan ini merupakan pertindihan mekanisme yang paling hampir antara semua calon yang diramalkan.
 
-Saat ini tidak ada uji klinis terkait yang terdaftar
+Walau bagaimanapun, pautan ini masih bersifat spekulatif. Ia hanya bergantung pada skor ramalan yang tinggi dan indikasi jerawat sedia ada. Fibrosis jenis keloid tidak ditangani oleh kesan keratolitik.
+
+---
+
+## Bukti Percubaan Klinikal
+
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
+
+---
 
 ## Bukti Literatur
 
-Saat ini tidak ada literatur terkait yang tersedia
+Pada masa ini tiada literatur berkaitan yang tersedia.
 
-## Informasi Pasar Malaysia
+---
 
-Catatan NPRA menunjukkan resorcinol sebagai **dipasarkan** di Malaysia dengan **6 lisensi terdaftar**. Namun, paket bukti ini tidak mencakup detail tingkat produk (nomor lisensi, nama produk, bentuk dosis, atau teks indikasi yang disetujui) — semua bidang mengembalikan kosong dari kueri sumber dan perlu ditarik ulang dari NPRA secara langsung.
+## Calon Ramalan Lain
+
+Selain acne keloid, model turut meramalkan lima indikasi lain. Kesemuanya berada pada tahap bukti L5 tanpa percubaan klinikal atau literatur, dan setiap satu dinilai **Hold**.
+
+| Peringkat | Penyakit | Skor TxGNN | Penilaian Pautan Mekanisme |
+|------|------|------|------|
+| 2 | Dermatomiositis amiopatik | 99.82% | Tiada pautan mekanisme yang boleh dipercayai; penyakit autoimun dipacu interferon, tidak disasarkan oleh resorcinol |
+| 3 | Dermatomiositis neonatal | 99.82% | Tiada rasional mekanisme; penyerapan perkutan pada neonat boleh menyebabkan methemoglobinemia dan ketoksikan sistemik |
+| 4 | Penyakit paru interstisial sekunder zaman kanak-kanak berkaitan penyakit tisu penghubung | 99.82% | Tiada pautan munasabah; agen keratolitik topikal tidak dapat sampai ke paru-paru |
+| 5 | Acrodermatitis chronica atrophicans | 99.81% | Jangkitan Borrelia yang dirawat berkesan dengan antibiotik; resorcinol topikal tidak mencapai jangkitan dermal |
+| 6 | Hydroa vacciniforme, familial | 99.75% | Tiada mekanisme fotoperlindungan atau antivirus; ramalan hanya bersifat pengiraan |
+
+Skor yang tinggi bagi calon-calon ini berkemungkinan mencerminkan kedekatan dalam graf dengan nod berkaitan dermatitis, dan bukan mekanisme sebab-akibat.
+
+---
 
 ## Pertimbangan Keselamatan
 
-Silakan merujuk pada kemasan produk untuk informasi keselamatan.
+- **Kontraindikasi daripada graf pengetahuan (bukan teks label produk)**: Graf pengetahuan TxGNN (PrimeKG) mengaitkan resorcinol dengan kontraindikasi bagi keadaan berikut, antaranya:
+  - Metabolik dan darah: kekurangan G6PD, methemoglobinemia (termasuk akibat kekurangan methemoglobin reductase), sulfhemoglobinemia, diabetes mellitus, ketoasidosis diabetik, penyakit simpanan glikogen, cystinuria, galaktosemia, kekurangan pyruvate dehydrogenase E3
+  - Kardiovaskular dan respirasi: sudden cardiac arrest, penyakit konduksi jantung, kegagalan respirasi, penyakit vaskular periferi, klaudikasi berselang, penyakit arteri periferi
+  - Buah pinggang dan lain-lain: penyakit buah pinggang, pyoureter, epilepsi
+  - Kulit: dermatitis, dermatitis seboreik, folikulitis, ruam (exanthem), kutil biasa, jangkitan HPV anogenital
+- **Perhatian khusus**: Penyerapan perkutan resorcinol boleh menyebabkan methemoglobinemia dan ketoksikan sistemik, terutamanya pada neonat.
 
-*(Catatan: data peringatan utama, kontraindikasi, dan interaksi obat tidak dikembalikan oleh kueri saat ini — DG001 menandai ini sebagai celah **Pemblokiran** yang mencegah tinjauan keselamatan awal (S1) hingga data kemasan NPRA/TFDA diperoleh.)*
+Maklumat interaksi ubat tidak ditemui. Sila rujuk sisipan pek produk untuk maklumat amaran dan kontraindikasi rasmi.
 
-## Kesimpulan dan Langkah Selanjutnya
+---
 
-**Keputusan: Tahan**
+## Kesimpulan dan Langkah Seterusnya
 
-**Rasionalisasi:**
-Prediksi hanya didukung oleh skor model TxGNN (L5, tidak ada uji klinis atau literatur), dan celah data Pemblokiran (kemasan—peringatan/kontraindikasi yang hilang) mencegah evaluasi keselamatan apa pun. Tidak ada bukti yang cukup untuk memajukan kandidat ini pada saat ini.
+**Keputusan: Hold**
 
-**Untuk melanjutkan, hal berikut diperlukan:**
-- Kemasan NPRA/TFDA (peringatan, kontraindikasi) — diperlukan untuk menghapus gerbang keselamatan S1
-- Mekanisme tindakan yang dikonfirmasi dari DrugBank atau literatur primer
-- Bukti preklinis, laporan kasus, atau pengamatan apa pun yang spesifik untuk acne keloidalis nuchae
-- Detail produk tingkat lisensi Malaysia (nomor lisensi, bentuk dosis, teks indikasi yang disetujui)
+**Rasional:**
+- Ramalan acne keloid hanya disokong oleh skor model yang tinggi (99.83%) dan indikasi jerawat sedia ada, tanpa sebarang percubaan klinikal atau literatur (L5). Resorcinol juga tidak dipasarkan di Malaysia, dan fibrosis jenis keloid tidak ditangani oleh kesan keratolitik.
 
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data amaran dan kontraindikasi daripada sisipan pek NPRA (jurang data yang menghalang saringan keselamatan peringkat seterusnya)
+- Data mekanisme tindakan (MOA) terperinci daripada DrugBank
+- Semakan literatur dan pendaftaran percubaan bagi acne keloid / folliculitis keloidalis nuchae
+- Penilaian keserasian laluan pentadbiran dan formulasi yang tersedia
+- Penilaian risiko penyerapan sistemik dan methemoglobinemia sebelum sebarang kajian lanjut
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

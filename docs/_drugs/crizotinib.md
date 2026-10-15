@@ -2,7 +2,7 @@
 layout: default
 title: Crizotinib
 parent: Low Evidence (L4-L5)
-nav_order: 238
+nav_order: 243
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,73 +29,80 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Crizotinib: Daripada NSCLC Positif ALK/ROS1 kepada Fibromatosis Gingiva
+# Crizotinib: Daripada Kanser Paru-paru Bukan Sel Kecil kepada Fibromatosis Gingiva
 
 ## Ringkasan Satu Ayat
 
-Crizotinib ialah perencat kinase tirosin yang menyasarkan ALK/ROS1/MET, dirujuk dalam pakej bukti ini sebagai diluluskan untuk kanser paru-paru bukan sel kecil positif ALK/ROS1 (NSCLC). Model TxGNN meramalkan ia mungkin berkesan untuk **Fibromatosis Gingiva**, tetapi ramalan ini kini disokong oleh **0 ujian klinikal** dan **0 penerbitan** — pakej bukti itu sendiri menandai pautan mekanik sebagai tidak hadir dan mengesyaki ini adalah hingar model daripada isyarat tulen.
+Crizotinib ialah perencat tirosin kinase yang pada asalnya digunakan untuk merawat kanser paru-paru bukan sel kecil (NSCLC).
+Model TxGNN meramalkan ia mungkin berkesan untuk **fibromatosis gingiva** (skor tinggi, 99.81%), tetapi ramalan ini **tidak disokong oleh sebarang percubaan klinikal atau penerbitan** yang berkaitan.
+Ia hanyalah ramalan model (tahap bukti L5).
+
+---
 
 ## Gambaran Keseluruhan Pantas
 
 | Item | Kandungan |
-|------|----------|
-| Petunjuk Asal | Kanser paru-paru bukan sel kecil positif ALK/ROS1 *(bersumber daripada nota rasional; medan petunjuk/indikasi berstruktur dalam data sumber adalah kosong)* |
-| Petunjuk Baru yang Diramalkan | Fibromatosis Gingiva |
+|------|------|
+| Indikasi Asal | Kanser paru-paru bukan sel kecil (NSCLC) / kanser paru-paru |
+| Indikasi Baharu yang Diramalkan | Fibromatosis gingiva |
 | Skor Ramalan TxGNN | 99.81% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Jumlah Pendaftaran | 2 |
-| Keputusan yang Disyorkan | Tahan |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci ditandai sebagai jurang data dalam pakej ini. Berdasarkan apa yang nota rasional pakej bukti nyatakan, crizotinib ialah perencat kinase tirosin molekul kecil untuk ALK, ROS1, dan MET, digunakan secara klinikal untuk NSCLC yang didorong ALK/ROS1 — kanser dengan mutasi pemandu onkogenik tertentu.
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikompilasi untuk laporan ini. Berdasarkan maklumat yang diketahui, crizotinib ialah perencat ALK, ROS1 dan MET, dan keberkesanannya dalam NSCLC positif ALK/ROS1 telah dibuktikan. Namun, tiada hubungan mekanistik yang jelas antara sasaran ini dengan fibromatosis gingiva.
 
-Fibromatosis gingiva, sebaliknya, ialah keadaan proliferatif tisu penghubung yang jinak, bukan malignansi, dan tiada sambungan yang telah ditetapkan kepada pensinyalan ALK/ROS1/MET. Nota rasional pakej bukti sendiri untuk calon ini menyatakan terdapat "tiada sambungan yang diketahui kepada mekanisme perencatan kinase ALK/ROS1/MET crizotinib yang terkenal, dan ia bukan penyakit neoplastik," dan secara eksplisit menandai skor sebagai kemungkinan artifak daripada kedekatan embedding graf pengetahuan daripada isyarat farmakologi sebenar.
+Skor TxGNN yang tinggi (0.998) hanyalah ramalan model. Tiada percubaan klinikal atau literatur yang ditemui untuk indikasi ini, dan tiada rasional yang menghubungkan ALK, ROS1 atau MET dengan penyakit tersebut. Ramalan ini perlu dianggap sebagai hipotesis awal sahaja.
 
-Corak ini konsisten di seluruh senarai 10 teratas dalam pakej bukti ini: setiap petunjuk yang diramalkan membawa tahap bukti L5 (ramalan model sahaja), sifar ujian klinikal, dan sifar pukulan kesusasteraan, dengan beberapa nota rasional secara bebas menghuraikan skor sebagai kemungkinan hingar KG. Ini mencadangkan skor ramalan sahaja bukan isyarat yang boleh dipercayai untuk ubat ini dalam jalur skor ini, dan kebolehpercayaan mekanik harus ditimbang dengan berat sebelum sebarang tindakan selanjutnya.
+**Nota mengenai ramalan lain:** Antara 10 ramalan teratas, beberapa mempunyai sedikit bukti tidak langsung:
+- **Karsinoma hilum paru-paru** (L4): dua laporan kes menunjukkan manfaat crizotinib dalam adenokarsinoma paru-paru positif ROS1/ALK. Ini pada dasarnya ialah indikasi NSCLC asal, bukan penemuan pengalihan guna yang baharu.
+- **Neoplasma benigna paru-paru** (L4): literatur kukuh (termasuk RCT fasa 3 seperti PROFILE 1014 dan ALEX) tetapi hanya untuk NSCLC malignan, jadi ia tidak menyokong indikasi benigna.
+- **Tumor sel germa paru-paru** (L3): terdapat dua percubaan klinikal jenis "basket" yang tidak khusus kepada tumor sel germa.
 
-## Bukti Ujian Klinikal
+---
 
-Pada masa ini tiada ujian klinikal yang berkaitan didaftarkan.
+## Bukti Percubaan Klinikal
 
-## Bukti Kesusasteraan
+Pada masa ini tiada percubaan klinikal berkaitan didaftarkan untuk fibromatosis gingiva.
 
-Pada masa ini tiada kesusasteraan yang berkaitan tersedia.
+---
 
-## Maklumat Pasaran Malaysia
+## Bukti Literatur
 
-Crizotinib memegang **2 lesen berdaftar** di Malaysia dengan status pasaran "Dipasarkan." Maklumat terperinci untuk setiap lesen (nombor kebenaran, nama produk, bentuk dos, teks petunjuk yang diluluskan) tidak tersedia dalam data sumber — semua medan yang berkaitan dikembalikan kosong.
+Pada masa ini tiada literatur berkaitan untuk fibromatosis gingiva.
 
-## Sitotoksisiti
+---
 
-Crizotinib ialah ubat onkologi (terapi ALK/ROS1/MET-terhala kinase tirosin untuk NSCLC), jadi bahagian ini terpakai.
+## Keselamatan
 
-| Item | Kandungan |
-|------|----------|
-| Klasifikasi Sitotoksisiti | Terapi bertarget (perencat kinase tirosin ALK/ROS1/MET) — bukan agen kemoterapi sitotoksik konvensional, mengikut nota rasional |
-| Risiko Penindasan Sum-sum | Sila rujuk amaran dan perkara berjaga dalam sisipan paket |
-| Klasifikasi Emetogeniti | Sila rujuk amaran dan perkara berjaga dalam sisipan paket |
-| Item Pemantauan | Sila rujuk amaran dan perkara berjaga dalam sisipan paket |
-| Perlindungan Pengendalian | Sila rujuk amaran dan perkara berjaga dalam sisipan paket |
+**Interaksi Ubat** (daripada 100 interaksi yang direkodkan, senarai ini hanya menunjukkan sebahagian):
+- **Major:** Clarithromycin, Cisapride, Dolasetron, Eliglustat, Granisetron
+- **Moderate:** Famotidine, Metformin, Loperamide, Bupropion, Aprepitant, Dexamethasone, Bisacodyl, Budesonide, Clotrimazole dan lain-lain
 
-## Pertimbangan Keselamatan
+Nota: Beberapa interaksi major melibatkan ubat yang boleh memanjangkan selang QT. Literatur yang diperoleh juga melaporkan ketoksikan jantung berkaitan crizotinib (bradikardia, pemanjangan QT) dalam laporan kes, yang wajar diberi perhatian.
 
-Sila rujuk sisipan paket untuk maklumat keselamatan.
+Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
 **Rasional:**
-Petunjuk yang diramalkan berkedudukan tertinggi (fibromatosis gingiva) tiada ujian klinikal, kesusasteraan, atau sokongan mekanik, dan pakej bukti itu sendiri mengenal pasti ramalan sebagai kemungkinan hingar graf pengetahuan daripada isyarat penyusunan semula tulen. Selain itu, jurang data penghalang (sisipan paket TFDA/NPRA yang hilang, amaran dan kontraindikasi) menghalang calon ini daripada memasuki peringkat ulasan keselamatan S1 tanpa mengira bukti tahap petunjuk.
+- Ramalan fibromatosis gingiva hanya berasaskan model (L5) tanpa percubaan klinikal, literatur atau hubungan mekanistik. Crizotinib juga tidak dipasarkan di Malaysia dan data keselamatan daripada sisipan pakej tidak tersedia.
 
-**Untuk meneruskan, perkara-perkara berikut diperlukan:**
-- Data sisipan paket TFDA/NPRA (amaran, kontraindikasi) — pada masa ini jurang data penghalang
-- Data mekanisme tindakan yang disahkan melalui API DrugBank
-- Maklumat lesen Malaysia yang lengkap (nama produk, bentuk dos, teks petunjuk yang diluluskan penuh)
-- Jika petunjuk ini diteruskan lebih jauh, rasional pra-klinikal atau mekanik yang menghubungkan biologi laluan ALK/ROS1/MET kepada patogenesis fibromatosis gingiva, yang pada masa ini tidak ada
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data amaran dan kontraindikasi daripada sisipan pakej NPRA (kekurangan data yang menghalang penyaringan keselamatan)
+- Data mekanisme tindakan (MOA) terperinci, contohnya daripada DrugBank
+- Rasional biologi yang menghubungkan ALK/ROS1/MET dengan patogenesis fibromatosis gingiva, termasuk kajian praklinikal
+- Penilaian keserasian laluan pentadbiran dan persamaan dengan indikasi asal
+- Pertimbangan lain: jika kajian lanjut diperlukan, ramalan karsinoma hilum paru-paru dan tumor sel germa paru-paru boleh dinilai sebagai soalan penyelidikan, tetapi yang pertama pada dasarnya bertindih dengan indikasi NSCLC sedia ada.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

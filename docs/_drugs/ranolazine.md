@@ -2,7 +2,7 @@
 layout: default
 title: Ranolazine
 parent: Low Evidence (L4-L5)
-nav_order: 586
+nav_order: 614
 evidence_level: L5
 indication_count: 1
 ---
@@ -29,65 +29,80 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Ranolazine: Daripada Angina Kronik kepada Nephrogenic Syndrome of Inappropriate Antidiuresis
-
-*Nota: Ekstrak pendaftaran Malaysia (NPRA) untuk ubat ini tidak mengembalikan teks petunjuk kegunaan yang boleh digunakan (semua medan lesen kosong). "Angina Kronik" ialah petunjuk kegunaan asal Ranolazine yang diiktiraf secara antarabangsa (DrugBank DB00243), digunakan di sini untuk konteks — ia tidak disahkan oleh ekstrak pendaftar tempatan dalam pakej bukti ini.*
+# Ranolazine: Daripada Indikasi Asal (Tidak Direkodkan) kepada Sindrom Antidiuresis Tidak Wajar Nefrogenik
 
 ## Ringkasan Satu Ayat
 
-Ranolazine ialah ejen antianginal yang ditunjukkan secara antarabangsa untuk angina kronik. Model TxGNN meramalkan ia mungkin berkesan untuk **Nephrogenic Syndrome of Inappropriate Antidiuresis (NSIAD)**, tetapi pada masa ini **tiada percubaan klinikal dan tiada penerbitan** menyokong arah ini — ramalan bergantung pada skor model semata-mata.
+Ranolazine ialah perencat arus natrium lewat (late sodium current) yang dikenali dalam rawatan angina kronik, tetapi data pendaftaran tempatan yang dikumpulkan untuk laporan ini tidak merekodkan sebarang indikasi diluluskan.
+Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom antidiuresis tidak wajar nefrogenik (NSIAD)**,
+namun kini terdapat **0 percubaan klinikal** dan **0 penerbitan** yang menyokong arah ini.
 
-## Tinjauan Pantas
+---
+
+## Gambaran Keseluruhan Pantas
 
 | Item | Kandungan |
-|------|-----------|
-| Petunjuk Kegunaan Asal | Tidak tersedia dalam ekstrak NPRA (jurang data); diketahui secara antarabangsa sebagai Angina Kronik |
-| Petunjuk Kegunaan Baru yang Diramalkan | Nephrogenic Syndrome of Inappropriate Antidiuresis |
-| Skor Ramalan TxGNN | 99.65% (pangkat 5645 dalam output model) |
+|------|------|
+| Indikasi Asal | Tiada data indikasi diluluskan daripada pendaftaran tempatan |
+| Indikasi Baharu yang Diramalkan | Nephrogenic syndrome of inappropriate antidiuresis (NSIAD) |
+| Skor Ramalan TxGNN | 99.65% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 3 |
-| Keputusan yang Disyorkan | Tahan |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan terperinci tidak tersedia. Berdasarkan maklumat yang diketahui, ranolazine menghalang arus natrium lewat (late I_Na) dalam miosit jantung, mengurangkan kelebihan natrium dan kalsium intraseluler — asas kesan antianginalnya.
+Data mekanisme tindakan (MOA) asal tidak tersedia. Berdasarkan maklumat yang diketahui, ranolazine ialah perencat arus natrium lewat (INaL) dengan kesan tambahan ke atas pengoksidaan separa asid lemak dan beberapa saluran ion (contohnya hERG/IKr).
 
-Tiada laluan mekanistik yang terdokumen menghubungkan tindakan saluran ion jantung ini kepada NSIAD (gangguan yang didorong oleh pengaktifan bersifat jangka panjang reseptor vasopressin V2 ginjal) dalam pakej bukti ini. Petunjuk kegunaan yang diramalkan dan mekanisme jantung ubat yang diketahui tidak berkongsi nisbah farmakologi yang jelas berdasarkan data yang tersedia pada masa ini.
+NSIAD disebabkan oleh mutasi gain-of-function pada gen reseptor vasopressin V2 (AVPR2), yang menyebabkan penyerapan semula air yang tidak wajar di duktus pengumpul tanpa bergantung pada vasopressin. Tiada satu pun tindakan ranolazine yang diketahui bertindak ke atas isyarat reseptor V2 atau pengangkutan akuaporin-2.
 
-Oleh kerana pemetaan petunjuk kegunaan asal dan sambungan mekanistik tidak dapat diselesaikan, ramalan ini pada masa ini harus dianggap sebagai isyarat yang dijana model semata-mata, bukan hipotesis yang disokong mekanistik.
+Oleh itu, **tiada hubungan mekanistik yang kukuh dapat disahkan** daripada data yang ada. Skor TxGNN (0.996) hanyalah ramalan graf pengetahuan tanpa rasional biologi sokongan. Sebarang hubungan, misalnya kesan hipotetikal ke atas pengangkutan ion renal atau isyarat cAMP hiliran, masih bersifat spekulatif dan memerlukan pengesahan praklinikal.
+
+---
 
 ## Bukti Percubaan Klinikal
 
-Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan
+Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
 
-## Bukti Kesusasteraan
+---
 
-Pada masa ini tiada kesusasteraan berkaitan yang tersedia
+## Bukti Literatur
 
-## Maklumat Pasaran Malaysia
+Pada masa ini tiada literatur berkaitan tersedia.
 
-Data NPRA mengesahkan Ranolazine dipasarkan di Malaysia di bawah 3 lesen berdaftar, tetapi ekstrak tidak memasukkan nombor lesen, nama produk, bentuk dos, atau teks petunjuk kegunaan untuk mana-mana daripadanya — butiran ini perlu diperolehi semula daripada daftar sumber.
+---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
+**Kontraindikasi berdasarkan graf pengetahuan (PrimeKG, bukan teks label):** sindrom QT panjang, sindrom QT panjang familial, torsades de pointes, penyakit buah pinggang, pioureter, sirosis hati.
 
-*Nota: Penjejakan jurang data (DG001) menandakan ini sebagai jurang **Penyekat** — amaran TFDA/NPRA dan kontraindikasi mesti diperolehi sebelum calon ini boleh diteruskan ke penilaian keselamatan (S1).*
+**Interaksi Ubat** (100 interaksi dikenal pasti; contoh utama daripada data yang disenaraikan):
+- **Major:** Aprepitant, Deksametason, Klaritromisin, Dolasetron, Eliglustat
+- **Moderate:** Famotidina, Metformin, Loperamid, Bisakodil, Budesonid, Kanagliflozin, Dapagliflozin, Empagliflozin, Asid pikosulfurik, Polietilena glikol, Natrium sulfat
+- **Minor:** Bupropion, Lorcaserin, Simetidina
+
+Perhatian: kontraindikasi QT dan penyakit buah pinggang amat relevan kerana indikasi yang diramalkan melibatkan buah pinggang dan ketidakseimbangan elektrolit/air.
+
+Untuk maklumat amaran dan kontraindikasi rasmi, sila rujuk sisipan pakej.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
-**Nisbah:**
-- Tahap bukti ialah L5 (skor model semata-mata — sifar percubaan klinikal, sifar kesusasteraan), dan jurang data keselamatan yang penyekat (amaran/kontraindikasi label) menghalang sebarang penilaian keselamatan awal. Tiada nisbah mekanistik pada masa ini menghubungkan tindakan jantung Ranolazine kepada NSIAD.
+**Rasional:**
+- Ramalan hanya berasaskan model (L5) tanpa percubaan klinikal, literatur, atau hubungan mekanistik yang munasabah. Ubat ini juga tidak dipasarkan di Malaysia, dan profil keselamatan (risiko pemanjangan QT, penyakit buah pinggang) menimbulkan kebimbangan bagi populasi sasaran.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Data sisipan pakej/label (amaran, kontraindikasi) daripada TFDA atau NPRA (DG001, penyekat)
-- Mekanisme tindakan yang disahkan daripada DrugBank (DG002)
-- Butiran lesen Malaysia yang lengkap (nombor pendaftaran, nama produk, teks petunjuk kegunaan yang diluluskan)
-- Satu nisbah mekanistik yang terdokumen menghubungkan farmakologi ranolazine kepada NSIAD, atau bukti yang menyokong praklinikal/kes
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data MOA terperinci daripada DrugBank
+- Sisipan pakej NPRA (amaran dan kontraindikasi), kerana data ini kini kosong dan menghalang saringan keselamatan
+- Kajian praklinikal untuk menilai sebarang kesan ke atas isyarat V2/cAMP atau pengangkutan akuaporin-2
+- Semakan literatur menyeluruh dan penilaian kebolehlaksanaan klinikal bagi penyakit yang sangat jarang berlaku ini
+- Penilaian keserasian laluan pemberian dan status pendaftaran tempatan
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

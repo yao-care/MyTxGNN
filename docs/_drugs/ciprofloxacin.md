@@ -2,7 +2,7 @@
 layout: default
 title: Ciprofloxacin
 parent: Medium Evidence (L3)
-nav_order: 218
+nav_order: 223
 evidence_level: L3
 indication_count: 5
 ---
@@ -29,71 +29,92 @@ Tahap bukti: **L3** | Indikasi diramal: **5**
 
 </div>
 
-# Ciprofloxacin: Daripada Jangkitan Bakteria kepada Demam Paratifoid
+# Ciprofloxacin: Daripada Demam Tifoid kepada Demam Paratifoid
 
 ## Ringkasan Satu Ayat
 
-Ciprofloxacin ialah antibiotik fluorokuinolon spektrum luas yang pada asalnya digunakan terhadap pelbagai jangkitan bakteria. Model TxGNN menonjolkan **Demam Paratifoid** sebagai calon indicasi kedudukan teratasnya, dan walaupun skor berangka TxGNN untuk calon ini dilaporkan sebagai 0.00% (berkemungkinan artefak data dan bukannya isyarat keyakinan benar-benar rendah), asas bukti sekitarnya sangat kuat: **1 percubaan klinikal yang relevan** dan **20 penerbitan**, termasuk semakan sistematik Cochrane khusus mengenai fluorokuinolon untuk demam enterik.
+Ciprofloxacin ialah antibiotik fluorokuinolon yang pada asalnya digunakan untuk merawat jangkitan bakteria seperti demam tifoid, salmonelosis, disentri dan pneumonia bakteria.
+Model TxGNN meramalkan ia mungkin berkesan untuk **demam paratifoid**,
+dengan **0 percubaan klinikal** dan **20 penerbitan** yang berkaitan pada masa ini; kebanyakan penerbitan ialah kajian semula, pengawasan dan kajian rintangan antimikrob.
 
-## Gambaran Pantas
+---
 
-| Item | Kandungan |
-|------|----------|
-| Indicasi Asal | Tidak ditangkap dalam pakej bukti (teks indicasi lesen TFDA/NPRA kosong); ciprofloxacin dikenali secara luas sebagai antibiotik fluorokuinolon yang dindikasikan untuk pelbagai jangkitan bakteria (cth: saluran kencing, sistem pernafasan, gastrointestinal) |
-| Indicasi Baru yang Diramal | Demam Paratifoid |
-| Skor Ramalan TxGNN | 0.00% (nilai yang dilaporkan; nampaknya tidak konsisten dengan bukti klinikal/literatur yang menyokong — ditandakan untuk QA data) |
+## Gambaran Keseluruhan Pantas
+
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Demam tifoid, salmonelosis, disentri, pneumonia bakteria dan lain-lain (daripada graf pengetahuan TxGNN; tiada teks indikasi berlesen kerana tiada pendaftaran di Malaysia) |
+| Indikasi Baharu yang Diramalkan | Demam paratifoid |
+| Skor Ramalan TxGNN | 0.00% (skor dilaporkan sebagai 0.0 dalam data yang dikumpulkan; perlu disahkan) |
 | Tahap Bukti | L3 |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 42 |
-| Keputusan Disyorkan | Teruskan dengan Pengawalan |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan yang terperinci tidak tersedia dalam pakej bukti. Berdasarkan farmakoloji yang diketahui, ciprofloxacin ialah fluorokuinolon yang menghalang DNA gyrase dan topoisomerase IV bakteria, menghalang replikasi DNA dalam organisma yang peka gram-negatif dan beberapa gram-positif; keberkesan nya merentasi pelbagai jangkitan bakteria terbukti dengan baik, dan secara mekanistik ia aktif terhadap *Salmonella enterica* serovar Paratyphi, organisma penyebab demam paratifoid.
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan. Berdasarkan maklumat sedia ada, ciprofloxacin ialah fluorokuinolon yang diketahui merencat DNA gyrase dan topoisomerase IV bakteria. Keberkesanannya dalam demam tifoid dan salmonelosis telah dikenal pasti, dan secara mekanistik ia mungkin terpakai kepada demam paratifoid.
 
-Demam paratifoid (bersama-sama dengan demam tifoid, secara kolektif "demam enterik") disebabkan oleh spesies *Salmonella* yang secara klasik peka terhadap fluorokuinolon. Ini bukan lompatan mekanistik novel dari indicasi yang tidak berkaitan — ciprofloxacin telah lama digunakan secara klinikal sebagai rawatan ejen tunggal oral untuk demam enterik, dan panduan WHO menyenaraikan fluorokuinolon antara pilihan yang disyorkan di mana corak rintangan membenarkan. Ini diperkokoh oleh semakan sistematik Cochrane dalam pakej bukti (PMID 21975746) yang secara khusus menilai fluorokuinolon untuk demam tifoid dan paratifoid, dan oleh percubaan rawak yang lebih lama bagi rejimen ciprofloxacin dalam demam enterik (PMID 7573719).
+Demam tifoid dan demam paratifoid bersama-sama dikenali sebagai demam enterik. Kedua-duanya disebabkan oleh *Salmonella enterica* (serovar Typhi dan Paratyphi A, B, C), disebarkan melalui laluan najis-mulut, dan mempunyai gambaran klinikal yang serupa. Oleh itu, demam paratifoid pada dasarnya ialah lanjutan daripada indikasi demam enterik sedia ada.
 
-Kaveat utama yang dinaikkan berulang kali merentasi literatur ialah rintangan fluorokuinolon yang muncul dalam *Salmonella* Typhi/Paratyphi, terutamanya di Asia Selatan, yang mengehadkan kebolehpercayaan ciprofloxacin sebagai terapi garis pertama dalam beberapa kawasan dan harus dipertimbangkan dalam sebarang kedudukan tempatan indicasi ini.
+Namun, kerintangan fluorokuinolon yang semakin meningkat pada Paratyphi A, terutamanya di Asia Selatan, mengehadkan penggunaan empirik. Kajian semula Cochrane terkini juga menyatakan bahawa kerintangan fluorokuinolon di Asia Selatan sering menghalang penggunaan ciprofloxacin.
+
+---
 
 ## Bukti Percubaan Klinikal
 
-| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT04349826](https://clinicaltrials.gov/study/NCT04349826) | Fasa 4 | Selesai | 2150 | Membandingkan azithromycin+cefixime vs. azithromycin sahaja untuk rawatan pesakit luar yang disyaki/disahkan demam tifoid yang tidak rumit di Asia Selatan; catatan latar belakang ciprofloxacin sebagai salah satu pilihan ejen tunggal oral yang ditubuhkan untuk demam enterik, walaupun percubaan itu sendiri tidak menguji ciprofloxacin sebagai cabang. |
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
+
+---
 
 ## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [7573719](https://pubmed.ncbi.nlm.nih.gov/7573719/) | 1995 | RCT | Am J Trop Med Hyg | Perbandingan rawak bagi rejimen ciprofloxacin 10 hari vs. 14 hari dalam 69 pesakit demam enterik (52% strain MDR); masa defervescence serupa dalam kedua-dua cabang. |
-| [21975746](https://pubmed.ncbi.nlm.nih.gov/21975746/) | 2011 | Semakan Sistematik (Cochrane) | Cochrane Database Syst Rev | Mengulas fluorokuinolon (termasuk ciprofloxacin) untuk demam tifoid/paratifoid, mengikut cadangan WHO di kawasan dengan rintangan kepada ejen garis pertama lebih lama. |
-| [36420914](https://pubmed.ncbi.nlm.nih.gov/36420914/) | 2022 | Semakan Sistematik (Cochrane) | Cochrane Database Syst Rev | Menilai sefalosporin untuk demam enterik; ambil perhatian WHO mengesyorkan azithromycin, ciprofloxacin, atau ceftriaxone memandangkan rintangan meluas terhadap ejen lebih lama, dengan rintangan fluorokuinolon serantau mengehadkan penggunaan ciprofloxacin di Asia Selatan. |
-| [40914181](https://pubmed.ncbi.nlm.nih.gov/40914181/) | 2025 | Semakan | Lancet | Gambaran keseluruhan epidemiologi demam enterik, penghantaran, perjalanan klinikal, dan komplikasi. |
-| [16271634](https://pubmed.ncbi.nlm.nih.gov/16271634/) | 2005 | Semakan | Lancet | Semakan umum demam tifoid dan paratifoid. |
-| [16271635](https://pubmed.ncbi.nlm.nih.gov/16271635/) | 2005 | Semakan | Lancet | Semakan umum demam tifoid dan paratifoid (artikel pendamping). |
-| [40934281](https://pubmed.ncbi.nlm.nih.gov/40934281/) | 2025 | Genomik/Pengawasan | PLoS Negl Trop Dis | Mendokumentasikan peningkatan yang ketara dalam demam paratifoid yang diperoleh secara domestik (*S.* Paratyphi A) di Taiwan sejak 2022, dengan penyiasatan genomik bagi laluan penghantaran. |
-| [35871037](https://pubmed.ncbi.nlm.nih.gov/35871037/) | 2022 | Kohort Retrospektif | J Formos Med Assoc | Mengulas 37 kes demam enterik berasli/diimport (termasuk 13 paratifoid) di dua pusat perubatan Taiwan, 2010–2020. |
-| [32050286](https://pubmed.ncbi.nlm.nih.gov/32050286/) | 2020 | Semakan | Z Gastroenterol | Gambaran keseluruhan diagnosis dan pengurusan demam tifoid/paratifoid, dengan catatan perolehan hampir eksklusif di luar Eropah. |
-| [38387472](https://pubmed.ncbi.nlm.nih.gov/38387472/) | 2024 | Pemerhatian | Lancet Microbe | Menyiasat hubungan antara prescribing ciprofloxacin dan non-susceptibility yang muncul dalam *Salmonella* Typhi di Malawi — isyarat risiko rintangan utama untuk indicasi ini. |
+| [21975746](https://pubmed.ncbi.nlm.nih.gov/21975746/) | 2011 | Kajian sistematik/Meta-analisis | Cochrane Database Syst Rev | Fluorokuinolon bagi rawatan demam tifoid dan paratifoid (demam enterik); WHO mengesyorkannya di kawasan dengan kerintangan terhadap antibiotik lini pertama lama |
+| [36420914](https://pubmed.ncbi.nlm.nih.gov/36420914/) | 2022 | Kajian sistematik | Cochrane Database Syst Rev | Rawatan demam enterik dengan sefalosporin; kerintangan fluorokuinolon di Asia Selatan sering menghalang penggunaan ciprofloxacin |
+| [40914181](https://pubmed.ncbi.nlm.nih.gov/40914181/) | 2025 | Kajian semula | Lancet | Ulasan mengenai demam enterik (tifoid dan paratifoid): penularan, gambaran klinikal dan komplikasi |
+| [11197787](https://pubmed.ncbi.nlm.nih.gov/11197787/) | 2000 | Kohort/Pemerhatian | Internal Medicine | Kesan advers dan kesan terapeutik fluorokuinolon oral dalam demam tifoid dan paratifoid di Jepun |
+| [37274536](https://pubmed.ncbi.nlm.nih.gov/37274536/) | 2023 | Ulasan | Open Forum Infect Dis | Syor rawatan demam enterik; kerintangan dilaporkan terhadap semua antimikrob termasuk ciprofloxacin |
+| [23985342](https://pubmed.ncbi.nlm.nih.gov/23985342/) | 2013 | Kajian sistematik/Meta-analisis | Clin Infect Dis | Tren etiologi dan kerintangan ubat demam enterik di Nepal |
+| [37939101](https://pubmed.ncbi.nlm.nih.gov/37939101/) | 2023 | Pengawasan | PLoS Negl Trop Dis | Tren kerintangan antimikrob Salmonella Paratyphi A di Bangladesh, 1999-2021 |
+| [40688374](https://pubmed.ncbi.nlm.nih.gov/40688374/) | 2025 | Kajian makmal | New Microbes New Infect | Kerintangan ciprofloxacin dan peningkatan biofilm akibat hempedu pada isolat Salmonella Paratyphi A |
+| [40934281](https://pubmed.ncbi.nlm.nih.gov/40934281/) | 2025 | Genomik/Epidemiologi | PLoS Negl Trop Dis | Genomik S. Paratyphi A di Taiwan; peningkatan kes tempatan sejak 2022 |
+| [17965350](https://pubmed.ncbi.nlm.nih.gov/17965350/) | 2007 | Kajian in vitro | J Med Microbiol | Aktiviti azitromisin, kuinolon baharu dan sefalosporin terhadap Salmonella enterik yang rintang ciprofloxacin |
+
+---
+
+## Maklumat Pasaran Malaysia
+
+Pada masa ini tiada produk ciprofloxacin yang didaftarkan di Malaysia dalam data yang dikumpulkan (status: tidak dipasarkan). Status ini perlu disahkan.
+
+---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk risalah pakej untuk maklumat keselamatan.
+- **Penyakit yang dikaitkan dengan kontraindikasi (daripada graf pengetahuan, bukan teks label):** sindrom QT panjang (termasuk familial), torsades de pointes, epilepsi, penyakit buah pinggang, kekurangan kalium, tendinitis, neuropati periferi, kolitis *Clostridium difficile*, miastenia gravis dan penyakit sambungan neuromuskular, serta beberapa keadaan tendon/sendi (bursitis Achilles, taji tumit).
+- **Interaksi Ubat:** Sebanyak 100 interaksi direkodkan. Antara yang bertahap **Major**: hidrokortison, deksametason, betametason, triamsinolon (kortikosteroid) dan bupropion. Antara yang bertahap **Moderate**: metformin, pioglitazon, alogliptin, albiglutid, akarbose (ubat diabetes; risiko perubahan glukosa darah), aspirin, famotidin, loperamid, aprepitan, budesonid dan lain-lain.
+
+Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi rasmi.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Teruskan dengan Pengawalan**
+**Keputusan: Hold**
 
-**Alasan:**
-Penggunaan ciprofloxacin dalam demam paratifoid/enterik disokong oleh semakan sistematik Cochrane dan data percubaan rawak langsung, dan mencerminkan peranan klinikal yang sudah ditubuhkan dengan baik dan bukannya repurposing yang secara mekanistik spekulatif — tetapi skor TxGNN yang dilaporkan (0.00%) tidak konsisten dengan bukti ini dan harus diselaraskan, dan pelbagai sumber menandakan rintangan fluorokuinolon yang meningkat sebagai kekangan material pada kebehasilan.
+**Rasional:**
+- Tiada percubaan klinikal didaftarkan, dan sokongan literatur terdiri daripada kajian semula serta kajian pemerhatian, dengan kerintangan fluorokuinolon yang meningkat pada Paratyphi A. Ubat ini juga tidak didaftarkan atau dipasarkan di Malaysia, dan data keselamatan peringkat label tidak lengkap.
 
-**Untuk teruskan, perkara berikut diperlukan:**
-- Selesaikan DG001 (Menghalang): dapatkan amaran paket TFDA/NPRA dan kontraindikasi sebelum sebarang penilaian keselamatan S1
-- Selesaikan DG002 (Tinggi): dapatkan data mekanisme tindakan yang disahkan daripada DrugBank
-- Sahkan sama ada lesen produk Malaysia yang sedia ada sudah menutup demam enterik/paratifoid dalam teks indicasi yang diluluskan mereka (data lesen tidak diisi dalam pakej bukti ini)
-- Siasat anomali skor TxGNN yang nampaknya (0.00% walaupun bukti SR/RCT yang menyokong) sebelum menggunakannya dalam scoring keputusan
-- Nilaikan data rintangan fluorokuinolon tempatan/serantau untuk *Salmonella* Paratyphi sebelum mengesyorkan penggunaan garis pertama
-
+**Untuk meneruskan, perlu:**
+- Data pengawasan kerentanan Salmonella Paratyphi di Malaysia
+- Sisipan pakej dan amaran/kontraindikasi rasmi daripada NPRA
+- Data mekanisme tindakan (MOA) terperinci
+- Pengesahan status pendaftaran dan pemasaran di Malaysia
+- Pengesahan skor ramalan TxGNN, kerana skor yang dilaporkan ialah 0.0
+- Bukti klinikal yang lebih langsung (contohnya data percubaan rawak atau kohort tempatan)
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

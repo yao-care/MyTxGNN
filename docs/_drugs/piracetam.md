@@ -2,7 +2,7 @@
 layout: default
 title: Piracetam
 parent: Low Evidence (L4-L5)
-nav_order: 551
+nav_order: 578
 evidence_level: L5
 indication_count: 0
 ---

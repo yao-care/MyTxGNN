@@ -2,7 +2,7 @@
 layout: default
 title: Rifampicin
 parent: Medium Evidence (L3)
-nav_order: 591
+nav_order: 619
 evidence_level: L3
 indication_count: 10
 ---
@@ -29,86 +29,102 @@ Tahap bukti: **L3** | Indikasi diramal: **10**
 
 </div>
 
-# Rifampicin: Daripada Tuberkulosis kepada Konjunktivitis
+# Rifampicin: Daripada Penggunaan Asal kepada Konjunktivitis
 
 ## Ringkasan Satu Ayat
 
-Rifampicin adalah antibiotik kelas rifamisin yang digunakan secara sejarah untuk merawat tuberkulosis dan jangkitan mikobakteria lain (cth., kusta, pencegahan meningokokal). Model TxGNN meramalkan ia mungkin berkesan untuk **Konjunktivitis**, dengan **tiada ujian klinikal yang berdaftar** tetapi **20 penerbitan sokongan** — sebahagian besarnya laporan kes bersejarah dan satu ujian trachoma terkontrol yang lebih lama — kini tersedia.
+Rifampicin ialah antibiotik yang menghalang RNA polimerase bakteria. Data yang dikumpulkan untuk laporan ini tidak mencatat indikasi asal yang berdaftar di Malaysia.
+Model TxGNN meramalkan ia mungkin berkesan untuk **konjunktivitis**, tetapi **tiada percubaan klinikal berdaftar** untuk indikasi ini. Sokongan terhad kepada **kira-kira 19 penerbitan** yang kebanyakannya lama, termasuk satu percubaan terkawal salap topikal untuk trakoma pada tahun 1975.
 
 ---
 
-## Gambaran Keseluruhan Cepat
+## Gambaran Keseluruhan Pantas
 
-| Item | Kandungan |
-|------|---------|
-| Petunjuk Asal | Tuberkulosis dan jangkitan mikobakteria lain (penggunaan klinikal yang sudah ditubuh; teks petunjuk pendaftaran terperinci tidak ditangkap dalam data pendaftaran yang diekstrak) |
-| Petunjuk Baru yang Diramalkan | Konjunktivitis |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Tiada data indikasi berdaftar |
+| Indikasi Baharu yang Diramalkan | Konjunktivitis |
 | Skor Ramalan TxGNN | 99.95% |
 | Tahap Bukti | L3 |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 8 |
-| Keputusan Disyorkan | Tahan |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa kini, data mekanisme tindakan terperinci tidak tersedia. Berdasarkan maklumat yang diketahui, rifampicin adalah antibiotik kelas rifamisin yang menghalang RNA polimerasebergantung-DNA dalam bakteria, dan keberkesanannya terhadap *Mycobacterium tuberculosis* dan patogen mikobakteria serta gram-positif/gram-negatif lain telah terbukti; dari segi mekanisme, aktiviti bakterisida spektrum luas ini mungkin boleh digunakan untuk konjunktivitis bakteria.
+Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang dikumpulkan. Berdasarkan maklumat yang diketahui, rifampicin menghalang RNA polimerase bergantung DNA pada bakteria. Ia aktif terhadap organisma Gram-positif, *Chlamydia* dan *Staphylococcus*, iaitu punca lazim konjunktivitis bakteria.
 
-Konjunktivitis boleh disebabkan oleh julat patogen bakteria termasuk *Chlamydia trachomatis* (trachoma), *Neisseria meningitidis*, *Staphylococcus aureus*, dan spesies *Corynebacterium* — beberapa daripadanya juga peka terhadap mekanisme antibakteria rifampicin. Ini bukan hipotesis yang semata-mata baru: rifampicin (topikal dan sistemik) sebenarnya telah digunakan secara klinikal dan dikaji sejak tahun 1970-an untuk trachoma dan konjunktivitis meningokokal, memberikan ramalan TxGNN beberapa asas sejarah walaupun kekurangan data ujian moden.
+Kajian kepekaan antibiotik dan laporan kes menyokong kaitan ini. Antaranya ialah kajian pada isolat pesakit konjunktivitis dan laporan sindrom okuloglandular Parinaud akibat *Bartonella*. Bukti kukuh yang lebih langsung datang daripada kerja topikal lama dalam jangkitan klamidia pada mata.
 
-Walau bagaimanapun, kesusasteraan sokongan adalah sebahagian besarnya lebih lama (tahun 1970-an–1990-an), terdiri sebahagian besarnya daripada laporan kes/siri kes dan bukannya ujian pengesahan, dan tiada ujian klinikal yang khusus menguji rifampicin terhadap konjunktivitis sedang didaftarkan pada masa kini. Ramalan itu oleh itu harus dianggap sebagai hipotesis yang munasabah dan disokong mekanisme daripada calon pengubahsuaian tujuan yang sudah ditubuh dengan baik.
-
----
-
-## Bukti Ujian Klinikal
-
-Pada masa kini tiada ujian klinikal berkaitan yang didaftarkan.
+Namun, bukti ini lama dan tidak mencukupi untuk menyokong penggunaan klinikal. Sebahagian besar penerbitan hanya menyebut konjunktivitis secara sampingan, malah ada yang melaporkan ketoksikan okular akibat rifampicin.
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Percubaan Klinikal
+
+Pada masa ini tiada percubaan klinikal berkaitan didaftarkan untuk konjunktivitis.
+
+---
+
+## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|--------|------|--------|-------------|
-| [1096630](https://pubmed.ncbi.nlm.nih.gov/1096630/) | 1975 | Ujian terkontrol | American Journal of Ophthalmology | Membandingkan salep topikal tetrasiklinterbentuk 1%, rifampicin 1%, dan asid borik 5% di kalangan pelajar sekolah Tunisia yang menghidap trachoma aktif; salep rifampicin telah dinilai sebagai lengan rawatan aktif selama 10 minggu |
-| [5411121](https://pubmed.ncbi.nlm.nih.gov/5411121/) | 1970 | Kajian mekanisme/makmal | Nature | Menunjukkan aktiviti anti-trachoma rifampicin dan terbitan rifamisin SV |
-| [6635446](https://pubmed.ncbi.nlm.nih.gov/6635446/) | 1983 | Ulasan | Reviews of Infectious Diseases | Rifampin adalah antibiotik yang paling aktif terhadap *Chlamydia trachomatis* berdasarkan berat; sama berkesan seperti tetrasiklinterbentuk untuk rawatan trachoma topikal |
-| [5005929](https://pubmed.ncbi.nlm.nih.gov/5005929/) | 1971 | Ulasan/ulasan | Annals of Ophthalmology | Perbincangan awal penggunaan rifampicin dalam oftalmologi |
-| [14686993](https://pubmed.ncbi.nlm.nih.gov/14686993/) | 2003 | Laporan kes | Clinical Microbiology and Infection | Kanak-kanak berusia 6 tahun dengan konjunktivitis meningokokal primer dirawat dengan antibiotik topikal diikuti dengan rifampin sistemik; tiada komplikasi berkembang |
-| [7806886](https://pubmed.ncbi.nlm.nih.gov/7806886/) | 1994 | Siri kes | The Journal of Infection | Tiga kes konjunktivitis meningokokal primer dengan sepsis sistemik; pengurusan termasuk terapi topikal/parenteral gabungan dan kemoprofilaksis berasaskan rifampicin untuk kontak rapat |
-| [19941479](https://pubmed.ncbi.nlm.nih.gov/19941479/) | 2010 | Ulasan | Current Medicinal Chemistry | Ulasan penyakit bakteria yang diabaikan termasuk trachoma, mencatat terapi gabungan rifampin/streptomisin |
-| [2483893](https://pubmed.ncbi.nlm.nih.gov/2483893/) | 1989 | Ulasan | Annali di Igiene | Ulasan *Chlamydia trachomatis* sebagai punca trachoma dan konjunktivitis inklusi |
-| [33457332](https://pubmed.ncbi.nlm.nih.gov/33457332/) | 2020 | Kajian keratan rentas | Advanced Biomedical Research | Tinjauan etiologi bakteria dan kepekaan antibiotik pesakit konjunktivitis di Iran (data patogen latar belakang, bukan keberkesanan rifampicin spesifik) |
-| [21484175](https://pubmed.ncbi.nlm.nih.gov/21484175/) | 2011 | Kajian bakteriologik/molekul | Journal of Ophthalmic Inflammation and Infection | Analisis bakteriologik dan plasmid patogen konjunktivitis di Lagos, Nigeria |
+|------|-----|------|------|---------|
+| [1096630](https://pubmed.ncbi.nlm.nih.gov/1096630/) | 1975 | Percubaan klinikal terkawal | Am J Ophthalmol | Salap rifampicin 1% dan tetrasiklin 1% dibandingkan dengan asid borik 5% bagi trakoma endemik pada kanak-kanak sekolah di Tunisia |
+| [322700](https://pubmed.ncbi.nlm.nih.gov/322700/) | 1977 | Percubaan label terbuka | Br J Ophthalmol | Salap rifampicin 1% pada 63 pesakit jangkitan mata *Chlamydia*: 3 minggu tidak mencukupi, 6–7 minggu memberi kadar sembuh klinikal dan mikrobiologi sekitar 90% |
+| [33457332](https://pubmed.ncbi.nlm.nih.gov/33457332/) | 2020 | Kajian keratan rentas kepekaan | Adv Biomed Res | Etiologi bakteria dan kepekaan antibiotik isolat konjunktivitis di Kashan, Iran |
+| [30347565](https://pubmed.ncbi.nlm.nih.gov/30347565/) | 2018 | Kajian penjenisan genetik dan kepekaan | Zhonghua Yan Ke Za Zhi | Hubungan genotip dan kepekaan *Staphylococcus aureus* daripada keratitis atau konjunktivitis |
+| [21191558](https://pubmed.ncbi.nlm.nih.gov/21191558/) | 2010 | Kajian kepekaan | Rev Esp Quimioter | Kepekaan antibiotik *Corynebacterium macginleyi* penyebab konjunktivitis |
+| [8363150](https://pubmed.ncbi.nlm.nih.gov/8363150/) | 1993 | Kajian mikrobiologi | An Esp Pediatr | Mikrobiologi dan kepekaan antibiotik konjunktivitis neonatal |
+| [39336466](https://pubmed.ncbi.nlm.nih.gov/39336466/) | 2024 | Laporan kes | Medicina (Kaunas) | Sindrom okuloglandular Parinaud dengan DNA *Bartonella* dikesan pada kornea dan konjunktiva |
+| [3191080](https://pubmed.ncbi.nlm.nih.gov/3191080/) | 1988 | Laporan kes | Br J Ophthalmol | Abses kornea marginal berkaitan oftalmia klamidia dewasa |
+| [1247775](https://pubmed.ncbi.nlm.nih.gov/1247775/) | 1976 | Surat/laporan | Br Med J | Ketoksikan okular akibat rifampicin |
+| [5005929](https://pubmed.ncbi.nlm.nih.gov/5005929/) | 1971 | Ulasan | Ann Ophthalmol | Ulasan mengenai rifampicin (tiada abstrak) |
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Rifampicin sedang dipasarkan di Malaysia dengan **8 pendaftaran berlesen**. Butir peringkat pendaftaran (nombor pendaftaran, nama produk, bentuk dos, teks petunjuk yang diluluskan) tidak tersedia dalam pengekstrakan data semasa dan perlu bersumber terus dari rekod NPRA.
+Rifampicin tidak dipasarkan di Malaysia berdasarkan data yang dikumpulkan, dan tiada lesen berdaftar dijumpai.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
+- **Interaksi Ubat**: Pangkalan data interaksi ubat merekodkan 100 interaksi, dan 20 yang pertama dipaparkan semuanya bertahap **sederhana**. Contohnya ialah rabeprazol, doksisiklin, hidrokortison, metformin, pioglitazon, bupropion, aprepitant, triamsinolon, morfin, omeprazol, deksametason, betametason, metronidazol, kalsitriol, kanagliflozin, klaritromisin dan klorpropamid. Rifampicin ialah perangsang enzim yang kuat (CYP3A4/P-gp) dan boleh menurunkan kepekatan ubat lain.
+- **Ketoksikan Okular**: Laporan lama (1976) menyebut ketoksikan okular akibat rifampicin.
+
+Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
-**Rasional:**
-- Data keselamatan (amaran utama, kontraindikasi) tidak dapat diekstrak dari rekod sumber, yang menghalang kemasukan ke peringkat pra-penilaian keselamatan S1. Digabungkan dengan ketiadaan sebarang ujian klinikal yang didaftarkan untuk konjunktivitis dan pergantungan pada laporan kes berusia beberapa dekad dan satu ujian trachoma terkontrol yang lebih lama, bukti semasa tidak mencukupi untuk maju melampaui hipotesis penyelidikan.
+**Justifikasi:**
+- Walaupun skor TxGNN tinggi dan mekanismenya munasabah, bukti hanya berupa kajian topikal lama, kajian kepekaan dan laporan kes, tanpa percubaan berdaftar.
+- Rifampicin tidak berdaftar di Malaysia dan tiada data amaran atau kontraindikasi daripada sisipan pakej, jadi saringan keselamatan belum boleh dilakukan.
+- Sistem penilaian menandakan ini sebagai soalan penyelidikan peringkat S1 dan bukan calon untuk diteruskan.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Amaran label TFDA/NPRA dan kontraindikasi (kini jurang data yang menghalang)
-- Data mekanisme tindakan yang disahkan daripada DrugBank
-- Bukti klinikal moden (ujian atau ulasan sistematik) yang khusus menilai rifampicin untuk konjunktivitis bakteria, melampaui laporan kes trachoma dan meningokokal bersejarah
-- Butir pendaftaran berlesen Malaysia yang lengkap (nama produk, bentuk dos, teks petunjuk yang diluluskan)
+**Untuk meneruskan, perlu:**
+- Sisipan pakej NPRA bagi amaran dan kontraindikasi.
+- Data mekanisme tindakan terperinci (contohnya daripada DrugBank).
+- Penentuan indikasi asal dan status pendaftaran di Malaysia.
+- Formulasi topikal oftalmik yang sesuai, kerana data lama menggunakan salap mata dan laluan pemberian belum dinilai.
+- Percubaan klinikal moden yang dikawal untuk konjunktivitis bakteria atau klamidia.
 
+---
+
+## Nota Indikasi Lain yang Diramalkan
+
+Indikasi lain dalam senarai ramalan tidak dijadikan fokus laporan ini:
+- **Jangkitan HIV (L2)**: percubaan yang ada berkaitan rawatan tuberkulosis bersama HIV dan interaksi ubat, bukan rawatan HIV, jadi ia bukan repurposing sebenar.
+- **Artritis reumatoid (L3)**: kajian kecil tahun 1980-an hingga 1990-an menunjukkan manfaat terhad dan tidak konsisten.
+- **Jerawat (L4)**: bukti tidak langsung, terutamanya untuk hidradenitis supurativa (gabungan dengan klindamisin), bukan jerawat vulgaris.
+- **Neoplasia endokrin berganda, gangguan neuroperkembangan, konjunktivitis berjangkit akut, jangkitan virus imunodefisiensi simian dan sindrom imunodefisiensi didapati kucing (L5)**: ramalan model sahaja tanpa bukti.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

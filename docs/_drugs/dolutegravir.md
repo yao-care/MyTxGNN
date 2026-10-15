@@ -2,15 +2,15 @@
 layout: default
 title: Dolutegravir
 parent: Low Evidence (L4-L5)
-nav_order: 295
-evidence_level: L5
+nav_order: 304
+evidence_level: L4
 indication_count: 3
 ---
 
 # Dolutegravir
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **3** 
+Tahap bukti: **L4** | Indikasi diramal: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,107 +29,93 @@ Tahap bukti: **L5** | Indikasi diramal: **3**
 
 </div>
 
-# Dolutegravir: Daripada Jangkitan HIV-1 kepada Jangkitan Virus Imunodefisiensi Simpai
+# Dolutegravir: Daripada Jangkitan HIV kepada Jangkitan Virus Kurang Daya Tahan Simian (SIV)
 
 ## Ringkasan Satu Ayat
 
-Dolutegravir ialah inhibitor pemindahan helai integrase generasi kedua (INSTI), pada awalnya diluluskan untuk rawatan jangkitan HIV-1. Model TxGNN meramalkan ia mungkin berkesan untuk **Jangkitan Virus Imunodefisiensi Simpai (SIV)**, dengan **1 ujian klinikal** dan **15 penerbitan** pada masa ini menyokong arahan ini. Memandangkan SIV ialah progenitor langsung HIV dan berkongsi homologi integrase tinggi, ramalan ini mempunyai asas mekanik yang kuat yang disokong terutamanya oleh kajian model hewan pra-klinikal.
+Dolutegravir ialah perencat integrase (integrase strand transfer inhibitor) yang pada asalnya digunakan untuk merawat jangkitan HIV dan AIDS.
+Model TxGNN meramalkan ia mungkin berkesan untuk **jangkitan virus kurang daya tahan simian (SIV)**, tetapi ini ialah model haiwan bagi HIV dan bukan sasaran terapeutik baharu untuk manusia.
+Setakat ini terdapat **0 ujian klinikal** dan **14 penerbitan** (kebanyakannya kajian praklinikal) yang berkaitan dengan arah ini.
 
-## Gambaran Pantas
+---
+
+## Gambaran Ringkas
 
 | Perkara | Kandungan |
 |------|------|
-| Petunjuk Asal | Jangkitan HIV-1 (terapi antiretrovirus) |
-| Petunjuk Baharu yang Diramalkan | Jangkitan Virus Imunodefisiensi Simpai |
+| Indikasi Asal | Jangkitan HIV, AIDS |
+| Indikasi Baharu yang Diramalkan | Jangkitan virus kurang daya tahan simian (SIV) |
 | Skor Ramalan TxGNN | 99.85% |
-| Aras Bukti | L3 (Kajian model hewan pra-klinikal) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 7 |
-| Keputusan Cadangan | Tunggu |
+| Tahap Bukti | L4 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Dolutegravir (DTG) ialah inhibitor pemindahan helai integrase generasi kedua (INSTI) yang menghalang HIV-1 integrase daripada memasukkan DNA virus ke dalam genom sel tuan rumah. Pada masa ini, data mekanisme tindakan terperinci tidak tersedia dalam bungkus bukti; walau bagaimanapun, dolutegravir telah ditubuhkan dengan baik sebagai batu loncatan terapi kombinasi antiretrovirus HIV-1 lini pertama (cART) kerana halangan genetik tinggi terhadap rintangan, pemberian sekali sehari, dan profil tolerabilitas yang menguntungkan.
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat sedia ada, dolutegravir ialah perencat integrase HIV-1 yang keberkesanannya dalam jangkitan HIV telah terbukti, dan secara mekanistik berkemungkinan terpakai kepada SIV.
 
-Virus imunodefisiensi simpai (SIV) dan HIV-1 kedua-duanya termasuk dalam genus Lentivirus, dan enzim integrase mereka berkongsi homologi struktur dan fungsi yang tinggi. Ini adalah tepat mengapa model primata bukan manusia (NHP) yang dijangkiti SIV berfungsi sebagai platform pra-klinikal piawai untuk menilai ubat antiretrovirus yang ditakdirkan untuk rawatan HIV manusia. Mekanisme dolutegravir yang menghalang pemindahan helai yang dimediasi integrase boleh digunakan secara langsung untuk integrase SIV, seperti yang disahkan oleh pelbagai kajian in vitro dan in vivo yang menunjukkan penindasan virus yang berkesan dalam makak yang dijangkiti SIV.
+Integrase SIV berkait rapat dengan integrase HIV-1 dari segi struktur. Kajian struktur intasom menunjukkan tapak pengikatan perencat yang dikongsi (PMID 32506843). Kajian praklinikal pada makak menunjukkan aktiviti antivirus terhadap SIV, termasuk monoterapi dolutegravir yang memilih corak mutasi rintangan (PMID 30381490). Perencat integrase berkaitan seperti bictegravir dan cabotegravir juga aktif terhadap SIVmac239 (PMID 28923862).
 
-Walaupun ramalan ini munasabah dari segi mekanik, adalah penting untuk diingati bahawa jangkitan SIV adalah keadaan veterinar/penyelidikan daripada petunjuk klinikal manusia. Nilai praktikal ramalan ini terletak dalam mengesahkan kegunaan dolutegravir dalam model penyelidikan NHP daripada mengenal pasti aplikasi terapeutik manusia yang baru. Walau bagaimanapun, asas bukti yang kuat daripada kajian pra-klinikal mengesahkan kredibiliti biologi ramalan model TxGNN.
+Perlu diberi perhatian: SIV terutamanya ialah model primata bukan manusia bagi HIV. Oleh itu, ini ialah indikasi pada spesies model dan bukan sasaran terapeutik manusia. Ia lebih menyokong mekanisme HIV yang asal berbanding indikasi yang benar-benar baharu.
+
+---
 
 ## Bukti Ujian Klinikal
 
-| Nombor Percubaan | Fasa | Status | Enrolmen | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT03577782](https://clinicaltrials.gov/study/NCT03577782) | Fasa 1/2 | Tidak diketahui | 12 | Vedolizumab digabungkan dengan ART (termasuk dolutegravir sebagai latar belakang) untuk mencapai remisi virologis dalam subjek yang dijangkiti HIV. Dolutegravir berfungsi sebagai sebahagian daripada tulang belakang ART daripada agen penyiasatan utama. |
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
-> Nota: Hanya 1 ujian klinikal telah dikenal pasti dengan kaitan langsung kepada penyelidikan inhibitor integrase SIV/HIV. Percubaan menilai vedolizumab daripada dolutegravir sebagai intervensi utama.
+---
 
 ## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [30381490](https://pubmed.ncbi.nlm.nih.gov/30381490/) | 2019 | Pra-klinikal (hewan) | J Virol | Monoterapi dolutegravir dalam makak yang dijangkiti SIV yang dipilih untuk pola mutasi rintangan berganda dengan hasil virologis yang berubah-ubah |
-| [26378179](https://pubmed.ncbi.nlm.nih.gov/26378179/) | 2015 | Pra-klinikal (in vitro) | J Virol | Mengesahkan profil rintangan ubat INSTI dalam SIVmac239, menunjukkan fenotip rintangan yang serupa antara SIV dan HIV |
-| [24920794](https://pubmed.ncbi.nlm.nih.gov/24920794/) | 2014 | Pra-klinikal (in vitro) | J Virol | Mutasi rintangan integrase HIV-1 dimasukkan ke dalam SIVmac239 menunjukkan pola kerentanan yang serupa terhadap INSTI termasuk dolutegravir |
-| [36365101](https://pubmed.ncbi.nlm.nih.gov/36365101/) | 2022 | Pra-klinikal (hewan) | Pharmaceutics | Terapi jangka panjang ART yang disahkan secara farmakologi (termasuk dolutegravir) dalam model NHP yang dijangkiti SIVmac251 |
-| [26150024](https://pubmed.ncbi.nlm.nih.gov/26150024/) | 2016 | Pra-klinikal (hewan) | AIDS Res Hum Retroviruses | Menilai rejimen cART novel yang mengandungi dolutegravir dalam makak rhesus yang dijangkiti SIVmac239 |
-| [34903055](https://pubmed.ncbi.nlm.nih.gov/34903055/) | 2021 | Pra-klinikal (hewan) | mBio | Menunjukkan kegigihan lentivirus dalam otak walaupun ART yang berkesan dalam model manusia dan NHP yang dijangkiti SIV |
-| [32506843](https://pubmed.ncbi.nlm.nih.gov/32506843/) | 2021 | Biologi struktur | FEBS J | Struktur intasom HIV/SIV mendedahkan bagaimana dolutegravir mengikat integrase dan menjelaskan halangan tinggi terhadap rintangan |
-| [28923862](https://pubmed.ncbi.nlm.nih.gov/28923862/) | 2017 | Pra-klinikal (in vitro) | Antimicrob Agents Chemother | Membandingkan aktiviti antivirus biktegravir dan kabotegravir terhadap SIVmac239 dan HIV-1 yang tahan INSTI |
-| [25583721](https://pubmed.ncbi.nlm.nih.gov/25583721/) | 2015 | Pra-klinikal (in vitro) | Antimicrob Agents Chemother | Menggunakan HIV tropikal simian sebagai model untuk mengkaji rintangan ubat INSTI, mengesahkan kebolehgunaan merentasi spesies |
-| [30161247](https://pubmed.ncbi.nlm.nih.gov/30161247/) | 2018 | Pra-klinikal (hewan) | PLoS Pathog | Perencatan p38 MAPK digabungkan dengan ART (termasuk dolutegravir) mengurangkan pengaktifan imun yang diinduksi SIV dalam makak |
+| [30381490](https://pubmed.ncbi.nlm.nih.gov/30381490/) | 2019 | Praklinikal in vivo (makak) | J Virol | Monoterapi dolutegravir pada makak terjangkit SIV memilih beberapa corak mutasi rintangan dengan hasil virologi yang berbeza |
+| [28923862](https://pubmed.ncbi.nlm.nih.gov/28923862/) | 2017 | Praklinikal in vitro/in vivo | Antimicrob Agents Chemother | Bictegravir dan cabotegravir aktif terhadap SIVmac239 yang rintang terhadap perencat integrase |
+| [32506843](https://pubmed.ncbi.nlm.nih.gov/32506843/) | 2021 | Ulasan biologi struktur | FEBS J | Struktur intasom HIV/SIV menjelaskan pengikatan perencat integrase dan mekanisme pelepasan virus |
+| [24920794](https://pubmed.ncbi.nlm.nih.gov/24920794/) | 2014 | Praklinikal in vitro | J Virol | Kesan mutasi rintangan integrase HIV-1 apabila dimasukkan ke dalam SIVmac239 terhadap kepekaan kepada perencat |
+| [26378179](https://pubmed.ncbi.nlm.nih.gov/26378179/) | 2015 | Praklinikal in vitro | J Virol | Profil rintangan perencat integrase pada SIVmac239 dalam kultur tisu |
+| [25583721](https://pubmed.ncbi.nlm.nih.gov/25583721/) | 2015 | Praklinikal in vitro | Antimicrob Agents Chemother | HIV tropik-simian sebagai model kajian rintangan terhadap perencat integrase |
+| [36365101](https://pubmed.ncbi.nlm.nih.gov/36365101/) | 2022 | Praklinikal in vivo | Pharmaceutics | Pengesahan farmakologi rawatan antiretroviral jangka panjang pada primata bukan manusia terjangkit SIV |
+| [26150024](https://pubmed.ncbi.nlm.nih.gov/26150024/) | 2016 | Komunikasi pendek | AIDS Res Hum Retroviruses | Perbandingan regimen cART suntikan terkoformulasi pada makak rhesus terjangkit SIV |
+| [34903055](https://pubmed.ncbi.nlm.nih.gov/34903055/) | 2021 | Praklinikal in vivo (makak) | mBio | Jangkitan lentivirus berterusan dalam otak walaupun dengan ART berkesan |
+| [40093003](https://pubmed.ncbi.nlm.nih.gov/40093003/) | 2025 | Praklinikal in vivo (pengimejan makak) | Front Immunol | Perubahan air bebas luar sel dan defisit saluran pada makak sebelum dan selepas rawatan emtricitabine + tenofovir + dolutegravir |
 
-## Maklumat Pasaran Malaysia
+---
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dosis | Petunjuk yang Diluluskan |
-|---------|------|------|-----------|
-| — | — | — | — |
+## Keselamatan
 
-> Butiran pendaftaran (nombor kebenaran, nama produk, bentuk dosis, dan teks petunjuk yang diluluskan) tidak tersedia dalam bungkus bukti. Terdapat 7 produk berdaftar yang mengandungi dolutegravir di pasaran Malaysia.
+**Interaksi Ubat:** Sebanyak 62 interaksi dikenal pasti. Antara yang disenaraikan:
 
-## Pertimbangan Keselamatan
+- **Tahap Major:** antasid dan sediaan kation polivalen, iaitu aluminium hidroksida, attapulgite, kaolin, magaldrate, kalsium (asetat, karbonat, sitrat, glubionat, glukonat, laktat, fosfat), magnesium (karbonat, klorida, sitrat) dan zat besi. Sediaan ini boleh mengurangkan penyerapan dolutegravir.
+- **Tahap Minor:** aprepitant, cimetidine, clarithromycin, clotrimazole, dexamethasone.
 
-> Sila rujuk sisipan paket untuk maklumat keselamatan. Amaran utama, kontraindikasi, dan data interaksi ubat tidak tersedia dalam bungkus bukti semasa.
-
-## Petunjuk Baharu yang Diramalkan Tambahan
-
-### Kedudukan 2: Sindrom Imunodefisiensi Perolehan Felina
-
-| Perkara | Kandungan |
-|------|------|
-| Skor Ramalan TxGNN | 99.85% |
-| Aras Bukti | L4 (Kajian veterinar pra-klinikal) |
-| Ujian Klinikal | 5 (semua ujian HIV-1 manusia, tiada yang mengkaji FIV secara langsung) |
-| Literatur | 1 penerbitan (cART berasaskan dolutegravir dalam kucing yang dijangkiti FIV) |
-| Cadangan | Tunggu |
-
-**Rasional:** Virus imunodefisiensi felina (FIV) termasuk dalam genus Lentivirus yang sama seperti HIV, tetapi integrase FIV mempunyai homologi yang lebih rendah kepada integrase HIV berbanding SIV. Satu kajian yang diterbitkan (PMID [37112803](https://pubmed.ncbi.nlm.nih.gov/37112803/), 2023) menilai cART berasaskan dolutegravir dalam kucing rumah yang dijangkiti FIV, tetapi keberkesanan terhadap FIV tetap tidak disahkan dengan mencukupi. Kesemua 5 ujian klinikal yang dipadankan adalah sebenarnya kajian manusia HIV-1 yang tidak sepadan kerana tindihan kata kunci pada "imunodefisiensi."
-
-### Kedudukan 3: Gangguan Perkembangan Neuro dengan Gait Ataksik, Ketiadaan Ucapan, dan Berkurangan Putih Kortikal
-
-| Perkara | Kandungan |
-|------|------|
-| Skor Ramalan TxGNN | 99.80% |
-| Aras Bukti | L5 (Ramalan model sahaja) |
-| Ujian Klinikal | 0 |
-| Literatur | 0 |
-| Cadangan | Tunggu |
-
-**Rasional:** Tiada pautan mekanik yang diketahui antara mekanisme INSTI dolutegravir dan gangguan perkembangan neuro genetik jarang ini. Ramalan ini kekurangan bukti sokongan sepenuhnya. Yang membimbangkan khususnya, dolutegravir telah dikaitkan dengan risiko kecacatan tabung saraf yang berpotensi dalam kehamilan, yang membangkitkan kemungkinan bahawa ubat ini boleh berbahaya daripada bermanfaat dalam konteks keadaan perkembangan neuro. Ramalan ini tidak patut diusul.
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tunggu**
+**Keputusan: Hold**
 
-**Rasional:**
-Ramalan utama (jangkitan SIV) adalah munasabah dari segi mekanik — dolutegravir dapat dibuktikan menekan SIV dalam model NHP pra-klinikal, yang disokong dengan baik oleh 15 penerbitan. Walau bagaimanapun, jangkitan SIV bukan petunjuk klinikal manusia tetapi model penyelidikan untuk pembangunan ubat HIV. Ramalan selebihnya (AIDS felina dan gangguan perkembangan neuro jarang) kekurangan bukti yang mencukupi atau justifikasi mekanik untuk usul klinikal.
+**Justifikasi:**
+- SIV ialah penyakit model primata bukan manusia, bukan sasaran terapeutik manusia. Bukti hanya praklinikal (L4) dan menyokong mekanisme HIV yang sedia ada, bukan indikasi baharu. Tiada ujian klinikal, dan ubat ini tidak dipasarkan di Malaysia.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Jelaskan tujuan utiliti klinikal: jika objektif adalah untuk mengesahkan dolutegravir bagi kegunaan veterinar dalam penyelidikan SIV/FIV, kajian farmakologi veterinar khusus diperlukan
-- Dapatkan data mekanisme tindakan terperinci (MOA) daripada DrugBank untuk melengkapkan bungkus bukti
-- Ambil butiran pendaftaran NPRA Malaysia (nombor kebenaran, nama produk, petunjuk yang diluluskan)
-- Muat turun dan huraikan PDF sisipan paket untuk maklumat keselamatan (amaran utama, kontraindikasi, interaksi ubat)
-- Pertimbangkan sama ada ramalan TxGNN untuk ubat ini perlu dinilai semula dengan tumpuan pada penyakit manusia dengan keperluan terapeutik yang tidak terpenuhi daripada jangkitan lentivirus hewan
+- Penjelasan sama ada SIV mempunyai nilai terapeutik sebenar di luar kegunaan sebagai model penyelidikan
+- Data mekanisme tindakan (MOA) terperinci
+- Amaran dan kontraindikasi daripada sisipan pakej NPRA, kerana maklumat keselamatan belum lengkap
+- Pendaftaran produk di Malaysia jika penilaian diteruskan
 
+---
+
+## Ramalan Lain yang Dinilai
+
+| Indikasi Diramalkan | Skor TxGNN | Tahap Bukti | Keputusan | Catatan |
+|------|------|------|------|------|
+| AIDS felin (feline acquired immunodeficiency syndrome) | 99.85% | L4 | Hold | Hanya satu kajian praklinikal (PMID 37112803) pada kucing terjangkit FIV menggunakan regimen gabungan dolutegravir + tenofovir + emtricitabine. Ini indikasi veterinar tanpa kaitan klinikal manusia, dan buktinya tidak langsung. |
+| Gangguan neuroperkembangan dengan gaya berjalan ataksia, ketiadaan pertuturan dan pengurangan bahan putih korteks | 99.80% | L5 | Hold | Tiada kaitan mekanistik yang jelas, tiada ujian klinikal atau literatur. Skor tinggi mungkin artifak rangkaian graf dan hanya hipotesis pengiraan. Pertimbangan keselamatan dolutegravir (kecacatan tiub saraf dan neuropsikiatri) perlu ditimbang dalam konteks neuroperkembangan. |
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -2,7 +2,7 @@
 layout: default
 title: Anifrolumab
 parent: Low Evidence (L4-L5)
-nav_order: 77
+nav_order: 81
 evidence_level: L5
 indication_count: 0
 ---

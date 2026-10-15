@@ -2,15 +2,15 @@
 layout: default
 title: Peppermint Oil
 parent: Low Evidence (L4-L5)
-nav_order: 537
-evidence_level: L5
+nav_order: 564
+evidence_level: L4
 indication_count: 10
 ---
 
 # Peppermint Oil
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L4** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,78 +29,81 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Minyak Peppermint: Daripada Petunjuk Tidak Ditentukan kepada Kusta
+# Minyak Pudina (Peppermint Oil): Daripada Indikasi Asal yang Tidak Direkodkan kepada Penyakit Kardiovaskular
 
 ## Ringkasan Satu Ayat
 
-Minyak peppermint sedang dipasarkan di Malaysia di bawah 46 pendaftaran NPRA, tetapi paket bukti tidak mengandungi teks petunjuk yang diluluskan untuk mana-mana produk ini. Ramalan model TxGNN tertinggi ialah minyak peppermint mungkin berkesan untuk **Kusta**, dengan skor pembenaman graf sebanyak **99.80%** — tetapi ramalan ini disokong oleh **sifar percubaan klinikal** dan **sifar penerbitan**, dan rasional model sendiri menyatakan tidak ada mekanisme antimikobakteria yang diketahui atau munasabah untuk ubat ini. Calon ini harus dianggap sebagai isyarat model-spekulatif sahaja, bukan peneraju berasaskan bukti.
+Minyak pudina (peppermint oil) tidak mempunyai indikasi asal yang direkodkan dalam data yang dikumpulkan untuk laporan ini, kerana tiada lesen berdaftar di Malaysia.
+Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit kardiovaskular** (skor 99.13%), dan ini merupakan ramalan dengan sokongan paling banyak antara 10 ramalan teratas.
+Setakat ini terdapat **1 ujian klinikal** dan **1 kajian RCT terkawal plasebo** (serta 1 protokolnya) dalam populasi hipertensi, tetapi hanya sebagai bukti tidak langsung.
 
 ---
 
-## Tinjauan Cepat
+## Gambaran Ringkas
 
-| Item | Kandungan |
-|------|--------|
-| Petunjuk Asal | Tidak ditentukan — tiada teks petunjuk yang diluluskan tersedia dalam rekod NPRA yang dibekalkan |
-| Petunjuk Baru yang Diramalkan | Kusta |
-| Skor Ramalan TxGNN | 99.80% |
-| Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 46 |
-| Keputusan yang Disyorkan | Tahan |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Tiada data (tiada lesen berdaftar) |
+| Indikasi Baharu yang Diramalkan | Penyakit kardiovaskular (cardiovascular disease) |
+| Skor Ramalan TxGNN | 99.13% |
+| Tahap Bukti | L4 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
+
+> Nota: Ramalan teratas berdasarkan kedudukan ialah *leprosy* (99.80%), tetapi ia hanya berdasarkan model (L5) tanpa sebarang bukti. Laporan ini memfokuskan pada **penyakit kardiovaskular** kerana ia satu-satunya antara 10 ramalan teratas yang mempunyai bukti klinikal yang boleh dinilai.
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan (MOA) terperinci kini tidak tersedia untuk minyak peppermint dalam paket bukti ini (ditandakan sebagai jurang data Keseriusan Tinggi). Konstituent aktif utama minyak peppermint, menthol, umumnya dikenali kerana kesan pelemas otot licin, anesteti tempatan, dan sifat antimikrob topik/in-vitro — tiada satupun yang sepadan dengan mekanisme yang ditegaskan terhadap *Mycobacterium leprae*.
+Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat sedia ada, minyak pudina kaya dengan mentol dan flavonoid. Mekanisme yang dicadangkan termasuk vasodilasi yang dimediasi mentol (modulasi saluran kalsium dan TRPM8) serta peningkatan aktiviti parasimpatetik jantung.
 
-Rasional penggunaan semula paket bukti untuk calon ini adalah jelas mengenai perkara ini: tidak ada "mekanisme antimikobakteria yang diketahui atau munasabah," dan hubungan itu wujud semata-mata kerana skor pembenaman graf model TxGNN, tanpa sokongan klinikal atau kesusasteraan di belakangnya. Dalam erti kata lain, ini adalah kes di mana skor model yang tinggi tidak sepadan dengan kebolehpadanan biologi.
+Satu kajian fisiologi manusia (PMID 30070742) pada sukarelawan sihat menunjukkan bahawa penyejukan gastrik dan mentol meningkatkan aktiviti eferen parasimpatetik jantung. Ini memberi sokongan mekanistik yang lemah, namun ia tidak dikaji dalam pesakit kardiovaskular.
 
-Untuk konteks, di antara 10 petunjuk yang diramalkan untuk minyak peppermint, hanya satu — **penyakit kardiovaskular** (pangkat 9, tahap bukti L3) — mempunyai sebarang sokongan percubaan klinikal atau kesusasteraan sebenar, termasuk dua percubaan yang telah selesai mengenai peppermint oral dan hasil kardiometabolik dan satu RCT 2025 mengenai hipertensi. Kusta, sebaliknya, berada di hujung spektrum bukti yang berlawanan walaupun mempunyai skor ramalan mentah tertinggi.
-
----
-
-## Bukti Percubaan Klinikal
-
-Kini tidak ada percubaan klinikal yang berkaitan yang terdaftar.
+Perlu diberi perhatian: bukti sedia ada terhad kepada kajian kecil dengan titik akhir pengganti (surrogate) dalam subpopulasi hipertensi, bukan titik akhir kardiovaskular yang keras. Maka ia hanya sokongan tidak langsung untuk penyakit kardiovaskular secara umum. Tiada hubungan indikasi asal dengan indikasi baharu dapat dinilai kerana indikasi asal tidak direkodkan.
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Ujian Klinikal
 
-Kini tiada kesusasteraan yang berkaitan tersedia.
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
+|---------|------|------|------|---------|
+| [NCT05561543](https://clinicaltrials.gov/study/NCT05561543) | Tiada fasa (NA) | Selesai | 40 | Kesan minyak pudina oral terhadap hasil kardiometabolik pada peserta hipertensi ringan–sederhana. Kajian kecil dengan titik akhir pengganti; tidak mengesahkan keberkesanan untuk penyakit kardiovaskular. Keputusan terperinci tidak disediakan. |
 
 ---
 
-## Maklumat Pasaran Malaysia
+## Bukti Literatur
 
-Paket bukti mengesahkan 46 pendaftaran NPRA aktif untuk minyak peppermint di Malaysia (status pasaran: Dipasarkan), tetapi rekod lesen yang dibekalkan tidak mengandungi nama produk, bentuk dos, pengilang, atau teks petunjuk yang diluluskan — bidang-bidang ini tidak diisi dalam pengekstrakan sumber. Butiran peringkat kebenaran tidak boleh dilaporkan sehingga jurang data ini diselesaikan.
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [42024666](https://pubmed.ncbi.nlm.nih.gov/42024666/) | 2026 | RCT terkawal plasebo | PloS one | Kesan minyak pudina dua kali sehari terhadap hasil kardiometabolik pada pesakit pra-hipertensi dan hipertensi peringkat 1 |
+| [40333716](https://pubmed.ncbi.nlm.nih.gov/40333716/) | 2025 | Protokol RCT | PloS one | Protokol untuk kajian di atas; mentol dan flavonoid dihipotesiskan memberi manfaat anti-hipertensi |
+| [30070742](https://pubmed.ncbi.nlm.nih.gov/30070742/) | 2018 | Kajian fisiologi mekanistik manusia | Experimental physiology | Penyejukan gastrik dan mentol meningkatkan aktiviti parasimpatetik jantung pada sukarelawan sihat |
+| [25037671](https://pubmed.ncbi.nlm.nih.gov/25037671/) | 2014 | Ulasan/komentari | Explore (New York) | Terutamanya berkaitan sindrom usus rengsa; kaitan terhad dengan penyakit kardiovaskular |
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pembungkus untuk maklumat keselamatan.
-
-*(Nota: Amaran label NPRA/kontraindikasi ditandakan sebagai jurang data Menyekat — ini menghalang calon daripada memasuki saringan keselamatan awal (S1) tanpa mengira kekuatan isyarat keberkesanan.)*
+Sila rujuk sisipan pakej untuk maklumat keselamatan. Tiada data amaran, kontraindikasi atau interaksi ubat yang ditemui dalam data yang dikumpulkan untuk laporan ini.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
-**Rasional:**
-Ramalan kusta tidak mempunyai sokongan percubaan klinikal atau kesusasteraan, dan rasional mekanistik dinilai sebagai tidak munasabah malah oleh analisis saluran paip sendiri. Digabungkan dengan jurang Menyekat mengenai amaran label/kontraindikasi, tidak ada asas untuk memajukan calon ini melampaui status ramalan-model-sahaja.
+**Justifikasi:**
+- Bukti terhad kepada satu ujian kecil (n=40) tanpa fasa dan satu RCT dalam populasi hipertensi dengan titik akhir pengganti, jadi ia tidak mencukupi untuk menyokong indikasi kardiovaskular secara umum. Ubat ini juga tidak berdaftar di Malaysia.
+- Sembilan ramalan lain (termasuk leprosy, pneumocystosis, penyakit arteri koronari, iskemia miokardium dan pelbagai polip) hanyalah ramalan model (L5) tanpa bukti sokongan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Amaran label NPRA dan kontraindikasi (jurang Menyekat — diperlukan sebelum sebarang saringan keselamatan)
-- Data mekanisme tindakan (MOA) untuk minyak peppermint (melalui DrugBank)
-- Butiran lesen/produk NPRA yang disiapkan (nama, bentuk dos, pengilang, teks petunjuk yang diluluskan)
-- Bukti mekanistik atau pra-klinikal bebas yang menghubungkan minyak peppermint kepada *M. leprae* atau patofisiologi kusta sebelum calon ini dipertimbangkan semula
-- Jika penyakit kardiovaskular adalah minat sebaliknya, calon itu (pangkat 9, L3, "Soalan Penyelidikan") telah mempunyai sokongan percubaan dan kesusasteraan yang bernilai untuk penilaian berasingan
-
+- Data keselamatan: amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menyekat)
+- Data mekanisme tindakan (MOA) daripada DrugBank
+- Keputusan terperinci RCT hipertensi (PMID 42024666 dan NCT05561543), termasuk perubahan tekanan darah dan kesan sampingan
+- Kajian yang lebih besar dengan titik akhir kardiovaskular yang bermakna
+- Status pendaftaran dan kategori produk (ubat, suplemen atau makanan) serta kesesuaian laluan pentadbiran di Malaysia
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

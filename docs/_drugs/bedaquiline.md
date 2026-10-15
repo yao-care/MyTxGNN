@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Bedaquiline
-parent: Low Evidence (L4-L5)
-nav_order: 121
-evidence_level: L5
+parent: High Evidence (L1-L2)
+nav_order: 126
+evidence_level: L1
 indication_count: 10
 ---
 
 # Bedaquiline
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L1** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,115 +29,143 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Bedaquiline: Daripada Rawatan TB-MDR Pulmonal kepada Tuberkulosis Resistan Ubat Pelbagai
+# Bedaquiline: Daripada Penggunaan Asal kepada Tuberkulosis Rintang Pelbagai Ubat (MDR-TB)
 
 ## Ringkasan Satu Ayat
 
-Bedaquiline ialah agen antimikobakteri diarylquinoline yang diluluskan untuk rawatan tuberkulosis resistan ubat pelbagai (TB-MDR) sebagai bahagian daripada terapi kombinasi.
-Model TxGNN meramalkan ia berkesan untuk **Tuberkulosis Resistan Ubat Pelbagai** dengan skor 99.98%, yang secara berkesan mengesahkan indikasi kelulusan ubat sedia ada.
-Dengan **50 percubaan klinis** dan **20 penerbitan** menyokong arah ini, asas bukti adalah sangat kuat — dan model seterusnya mengenalpasti potensi sambungan kepada **tuberkulosis tidak aktif**, **tuberculoma**, **tuberkulosis lembu**, dan **tuberkulosis kulit** sebagai calon penggunaan semula.
+Bedaquiline ialah ubat antimikobakteria yang menyekat enzim ATP sintase pada *Mycobacterium tuberculosis*. Data yang dikumpulkan untuk laporan ini tidak mencatat sebarang indikasi asal yang berdaftar di Malaysia. Model TxGNN meramalkan ia berkesan untuk **tuberkulosis rintang pelbagai ubat (MDR-TB)**, dengan **30 percubaan klinikal** dan **20 penerbitan** yang disenaraikan. Ramalan ini turut disokong oleh beberapa percubaan Fasa 3 yang telah selesai.
 
-## Gambaran Pantas
+---
 
-| Item | Kandungan |
+## Gambaran Ringkas
+
+| Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tuberkulosis resistan ubat pelbagai pulmonal (TB-MDR), sebagai bahagian daripada terapi kombinasi |
-| Indikasi Baru yang Diramalkan | Tuberkulosis resistan ubat pelbagai |
+| Indikasi Asal | Tiada data indikasi berdaftar di Malaysia |
+| Indikasi Baharu yang Diramalkan | Tuberkulosis rintang pelbagai ubat (MDR-TB) |
 | Skor Ramalan TxGNN | 99.98% |
-| Tahap Bukti | L1 (≥2 selesai Phase 3 RCTs) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 1 |
-| Keputusan yang Disyorkan | Teruskan dengan Penjagaan |
+| Tahap Bukti | L1 |
+| Status Pasaran di Malaysia | Tidak dipasarkan (perlu disahkan) |
+| Bilangan Pendaftaran | 0 |
+| Keputusan yang Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Bedaquiline (dahulunya TMC207) ialah penghambat diarylquinoline yang pertama dalam kelasnya yang secara selektif menghalang sintesis ATP subunit F₀F₁-ATP mycobateri, menyekat laluan fosforilasi oksidatif yang *Mycobacterium tuberculosis* bergantung untuk pengeluaran tenaga. Mekanisme tindakan novel ini berbeza daripada semua ubat anti-TB sedia ada dan berkesan terhadap kedua-dua basilus yang aktif mengganda dan tidak aktif, menjadikannya sangat bernilai terhadap strain yang tahan ubat yang telah mendapatkan rintangan terhadap agen konvensional seperti isoniazid dan rifampicin.
+Bedaquiline menyekat subunit c ATP sintase F1Fo pada mikobakteria, lalu mengurangkan ATP dalam *M. tuberculosis*. Sasaran ini terletak terus pada patogen penyebab MDR-TB, jadi hubungan mekanismenya langsung dan telah disahkan secara klinikal.
 
-Ramalan teratas model TxGNN bagi tuberkulosis resistan ubat pelbagai untuk bedaquiline berfungsi sebagai **isyarat pengesahan model** yang kuat — algoritma secara bebas mengenalpasti indikasi kelulusan ubat dengan keyakinan hampir sempurna (99.98%). Penemuan ini mengesahkan keupayaan model untuk mengesan hubungan ubat-penyakit tulen melalui analisis graf pengetahuan.
+Perlu diberi perhatian bahawa data pendaftaran tempatan menunjukkan "tidak dipasarkan" dan tiada indikasi asal. Ini bercanggah dengan rekod klinikal antarabangsa. MDR-TB pada hakikatnya ialah penggunaan utama yang sudah mantap, bukan pengalihan guna (repurposing) yang sebenar. Status pasaran di Malaysia wajar disahkan semula dengan NPRA.
 
-Di luar pengesahan ini, model mengenalpasti beberapa calon penggunaan semula yang biologi munasabah dalam spektrum tuberkulosis: tuberkulosis tidak aktif (laten) (pangkat 5, bukti L2), tuberculoma (pangkat 6, bukti L4), tuberkulosis lembu (pangkat 2, bukti L4), dan tuberkulosis kulit (pangkat 10, bukti L4). Ramalan-ramalan ini adalah koheren dari segi mekanik, kerana semuanya melibatkan spesies *Mycobacterium* yang berkongsi sasaran ATP synthase yang dipelihara. Terutamanya, ramalan untuk tuberkulosis tidak aktif sedang diuji dalam percubaan Phase 2/3 tanda aras (BREACH-TB, NCT06568484, n=2,530), seterusnya mengesahkan keupayaan ramalan model.
+---
 
-## Bukti Percubaan Klinis
+## Bukti Percubaan Klinikal
+
+Berikut ialah percubaan yang paling relevan (gred A dan B) bagi MDR-TB. Terdapat 30 percubaan dalam data, dan jadual ini menyenaraikan 10 yang paling berkaitan.
 
 | Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT02754765](https://clinicaltrials.gov/study/NCT02754765) | Phase 3 | Selesai | 754 | Percubaan endTB: percubaan RCT berbilang negara terbesar yang menilai lima rejimen oral tersingkat yang mengandungi bedaquiline untuk keberkesan dan keselamatan TB-MDR |
-| [NCT02409290](https://clinicaltrials.gov/study/NCT02409290) | Phase 3 | Selesai | 588 | STREAM Peringkat 2: menilai rejimen rawatan standard termasuk tangan bedaquiline-yang mengandungi untuk TB-MDR |
-| [NCT02589782](https://clinicaltrials.gov/study/NCT02589782) | Phase 2/3 | Selesai | 552 | TB-PRACTECAL: RCT berbilang tangan menilai kombinasi bedaquiline + pretomanid untuk TB-MDR; menunjukkan keunggulan rejimen berasaskan BPaL |
-| [NCT04062201](https://clinicaltrials.gov/study/NCT04062201) | Phase 3 | Selesai | 402 | BEAT-TB: regimen BDQ+DLM+LZD+LVX+CFZ 6 bulan vs. standard penjagaan Afrika Selatan untuk RR-TB |
-| [NCT03896685](https://clinicaltrials.gov/study/NCT03896685) | Phase 3 | Selesai | 323 | endTB-Q: dua rejimen oral tersingkat untuk TB-MDR dengan rintangan fluoroquinolone |
-| [NCT00910871](https://clinicaltrials.gov/study/NCT00910871) | Phase 2 | Selesai | 241 | Percubaan pivotal C209 terbuka label: bedaquiline + rejimen latar belakang yang disesuaikan untuk TB-MDR; data keselamatan dan keberkesan utama menyokong kelulusan kawal selia |
-| [NCT00449644](https://clinicaltrials.gov/study/NCT00449644) | Phase 2 | Selesai | 208 | C208: percubaan rawak terkawal plasebo pertama menunjukkan keunggulan aktiviti antibakteria bedaquiline berbanding plasebo dalam TB-MDR yang baru didiagnosis |
-| [NCT03086486](https://clinicaltrials.gov/study/NCT03086486) | Phase 3 | Selesai | 181 | Percubaan ZeNix: dos linezolid yang dioptimumkan dalam rejimen BPaL untuk TB-XDR dan TB-MDR yang tidak toleran rawatan |
-| [NCT02333799](https://clinicaltrials.gov/study/NCT02333799) | Phase 3 | Selesai | 109 | Nix-TB: rejimen BPaL (bedaquiline + pretomanid + linezolid) untuk TB-XDR/TB-MDR yang tidak toleran rawatan; hasil membawa kepada kelulusan FDA pretomanid |
-| [NCT05081401](https://clinicaltrials.gov/study/NCT05081401) | Phase 3 | Merekrut | 1,050 | INSPIRE-TB: RCT pragmatik menilai tujuh rejimen oral 9 bulan untuk RR-TB, percubaan gabungan bedaquiline sedang berlangsung terbesar |
+| [NCT02754765](https://clinicaltrials.gov/study/NCT02754765) | Fasa 3 | Selesai | 754 | endTB: lima regimen oral pendek termasuk bedaquiline untuk MDR-TB |
+| [NCT02409290](https://clinicaltrials.gov/study/NCT02409290) | Fasa 3 | Selesai | 588 | STREAM: regimen pendek untuk TB rintang rifampisin, peringkat kemudian termasuk bedaquiline |
+| [NCT02589782](https://clinicaltrials.gov/study/NCT02589782) | Fasa 2/3 | Selesai | 552 | TB-PRACTECAL: regimen pendek bedaquiline + pretomanid untuk MDR-TB paru-paru |
+| [NCT04062201](https://clinicaltrials.gov/study/NCT04062201) | Fasa 3 | Selesai | 402 | BEAT-TB: bedaquiline, delamanid, linezolid selama 6 bulan berbanding rawatan standard Afrika Selatan |
+| [NCT03896685](https://clinicaltrials.gov/study/NCT03896685) | Fasa 3 | Selesai | 323 | endTB-Q: regimen oral pendek untuk MDR-TB rintang fluorokuinolon |
+| [NCT03086486](https://clinicaltrials.gov/study/NCT03086486) | Fasa 3 | Selesai | 181 | Pelbagai dos dan tempoh linezolid bersama bedaquiline dan pretomanid untuk XDR-TB/pra-XDR-TB |
+| [NCT02454205](https://clinicaltrials.gov/study/NCT02454205) | Fasa 2/3 | Selesai | 154 | Regimen tanpa suntikan (linezolid, bedaquiline, levofloksasin, PZA, etionamida/INH dos tinggi) berbanding regimen konvensional |
+| [NCT02333799](https://clinicaltrials.gov/study/NCT02333799) | Fasa 3 | Selesai | 109 | ZeNix: bedaquiline + pretomanid + linezolid untuk TB rintang ubat tinggi |
+| [NCT06441006](https://clinicaltrials.gov/study/NCT06441006) | Fasa 2/3 | Sedang merekrut | 400 | PRISM-TB: pemendekan rawatan melalui perubatan berstrata |
+| [NCT06649721](https://clinicaltrials.gov/study/NCT06649721) | Fasa 3 | Aktif, tidak merekrut | 120 | Regimen oral 6 bulan BDLLfxC untuk RR-TB di China (keputusan belum tersedia) |
+
+---
 
 ## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [32130813](https://pubmed.ncbi.nlm.nih.gov/32130813/) | 2020 | Percubaan Tanda Aras | N Engl J Med | Rejimen BPaL mencapai kejayaan rawatan tinggi dalam TB pulmonal yang sangat tahan ubat dengan hasil yang secara sejarahnya lemah |
-| [35649043](https://pubmed.ncbi.nlm.nih.gov/35649043/) | 2022 | Ulasan Sistematik / Meta-Analisis | J Bras Pneumol | Rejimen yang mengandungi bedaquiline untuk TB-MDR menunjukkan kadar kejayaan rawatan tinggi merentasi kajian terkumpul |
-| [40172415](https://pubmed.ncbi.nlm.nih.gov/40172415/) | 2025 | Ulasan Sistematik / Meta-Analisis | J Bras Pneumol | Meta-analisis mengesahkan rejimen bedaquiline + linezolid meningkatkan hasil rawatan TB-MDR |
-| [32192585](https://pubmed.ncbi.nlm.nih.gov/32192585/) | 2020 | Analisis Meta Data Pesakit Individu | Lancet Respir Med | Analisis data pesakit individu peristiwa buruk yang berkaitan ubat dalam rawatan TB-MDR, memberikan maklumat penilaian risiko-manfaat |
-| [36331978](https://pubmed.ncbi.nlm.nih.gov/36331978/) | 2023 | Ulasan Sistematik / Meta-Analisis | Clin Infect Dis | Penggunaan seiring bedaquiline + delamanid menunjukkan hasil rawatan yang baik dengan risiko perpanjangan QTc yang boleh diurus |
-| [31526739](https://pubmed.ncbi.nlm.nih.gov/31526739/) | 2019 | Ulasan | Lancet | Pengurusan komprehensif TB resistan ubat, memposisikan bedaquiline sebagai batu asas rejimen TB-MDR moden |
-| [39431709](https://pubmed.ncbi.nlm.nih.gov/39431709/) | 2024 | Ulasan Naratif | J Clin Lab Anal | Gambaran ciri antimikrob bedaquiline dan delamanid, mekanisme rintangan, sinergisme, dan kesan sampingan |
-| [32700565](https://pubmed.ncbi.nlm.nih.gov/32700565/) | 2020 | Ulasan Klinis | Future Microbiol | Perspektif clinician pada penggunaan bedaquiline dan delamanid dalam TB resistan ubat, meringkas bukti percubaan dan pemerhatian |
-| [33837767](https://pubmed.ncbi.nlm.nih.gov/33837767/) | 2021 | Kajian Kohort | Clin Infect Dis | Perbandingan dunia nyata hasil rawatan bedaquiline vs. delamanid dalam pesakit TB-MDR/RR di Korea Selatan |
-| [39537610](https://pubmed.ncbi.nlm.nih.gov/39537610/) | 2024 | Sains Asas | Nat Commun | Kekurangan aktiviti katalase sensitif TB-MDR kepada bedaquiline, menguraikan mekanisme novel untuk keberkesan dipertingkat terhadap strain yang tahan isoniazid |
-
-## Maklumat Pasaran Malaysia
-
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Kelulusan |
-|---------|------|------|-----------|
-| (Nombor pendaftaran tidak tersedia) | Produk bedaquiline | (Tidak dinyatakan) | (Teks indikasi tidak tersedia dalam data pengekstrakan pendaftaran) |
-
-> **Nota:** Bedaquiline didaftarkan dan dipasarkan di Malaysia (1 kebenaran). Maklumat produk terperinci termasuk nombor kebenaran, nama produk, bentuk dos, dan teks indikasi kelulusan tidak tersedia dalam pengekstrakan data semasa. Sila rujuk pangkalan data NPRA untuk maklumat pendaftaran lengkap.
-
-## Pertimbangan Keselamatan
-
-> Sila rujuk sisipan paket untuk maklumat keselamatan.
->
-> **Kebimbangan kelas yang diketahui berdasarkan literatur yang diterbitkan** (bukan daripada data pendaftaran):
-> - **Perpanjangan QTc**: Bedaquiline dikaitkan dengan perpanjangan selang QT; pemantauan ECG disyorkan semasa rawatan
-> - **Toksisiti hepatik**: Pemantauan fungsi hati dinasihatkan
-> - **Interaksi ubat**: Sebagai substrat CYP3A4, pemberian seiring dengan penginduk CYP3A4 yang kuat (cth., rifampicin) secara signifikan mengurangkan pendedahan bedaquiline; pemberian seiring dengan penghambat CYP3A4 boleh meningkatkan pendedahan
-> - **Isyarat kematian**: Percubaan Phase 2 awal (C208) mencatat ketidakseimbangan berangka dalam kematian di tangan bedaquiline, walaupun kajian yang lebih besar kemudiannya tidak mengesahkan hubungan kausal
->
-> ⚠️ *Data keselamatan formal (amaran sisipan paket, kontraindikasi, DDI) tidak tersedia dalam pak bukti. Poin-poin di atas diperoleh daripada literatur klinis yang diterbitkan dan harus disahkan terhadap maklumat preskripsi yang diluluskan.*
-
-## Calon Penggunaan Semula Tambahan
-
-Di luar ramalan pengesahan utama, model TxGNN mengenalpasti calon penggunaan semula berikut yang mungkin menarik minat klinis:
-
-| Pangkat | Penyakit | Skor TxGNN | Tahap Bukti | Cadangan | Nisbah Utama |
-|------|---------|-------------|---------------|----------------|---------------|
-| 2 | Tuberkulosis lembu | 99.96% | L4 | Soalan Penyelidikan | *M. bovis* berkongsi ATP synthase yang sangat terpelihara dengan *M. tuberculosis*; aktiviti in vitro disahkan tetapi tiada data klinis |
-| 5 | Tuberkulosis tidak aktif (laten) | 99.96% | L2 | Teruskan dengan Penjagaan | *M. tuberculosis* tidak aktif bergantung pada fosforilasi oksidatif; percubaan Phase 2/3 tanda aras (BREACH-TB, n=2,530) sedang berlangsung |
-| 6 | Tuberculoma | 99.96% | L4 | Soalan Penyelidikan | Lesi TB granulomatous; laporan kes menyokong penggunaan rejimen BPaL, tetapi data penembusan CNS/jaringan diperlukan |
-| 10 | Tuberkulosis kulit | 99.70% | L4 | Soalan Penyelidikan | Patogen yang sama; penembusan ubat kulit dan kepekatan tempatan memerlukan pengesahan |
-
-> **Nota:** Ramalan untuk candidiasis vulvovaginal (pangkat 7), fascioliasis (pangkat 8), dan gangguan kitaran urea (pangkat 9) tidak mempunyai nisbah mekanik dan diklasifikasikan sebagai **Tahan** — penghambatan ATP synthase bedaquiline sangat selektif untuk mycobateri dan tidak mempunyai asas yang ditubuhkan untuk aktiviti terhadap kulat, parasit, atau gangguan metabolik.
-
-## Kesimpulan dan Langkah Seterusnya
-
-**Keputusan: Teruskan dengan Penjagaan**
-
-**Nisbah:**
-Ramalan TxGNN untuk bedaquiline dalam TB-MDR ialah kes pengesahan model yang kuat, disokong oleh bukti tahap L1 termasuk berbilang RCT Phase 3 yang selesai (endTB, STREAM, TB-PRACTECAL, BEAT-TB, ZeNix, Nix-TB) mendaftar ribuan pesakit. Bedaquiline sudah merupakan batu asas yang disyorkan WHO bagi rawatan TB-MDR moden. Peluang penggunaan semula yang lebih novel dan boleh diambil tindakan terletak dalam **pencegahan tuberkulosis tidak aktif (laten)**, yang mempunyai bukti tahap L2 dan percubaan Phase 2/3 besar yang sedang berlangsung (BREACH-TB).
-
-**Untuk meneruskan, perkara berikut diperlukan:**
-- **Lengkapkan data kawal selia Malaysia**: Dapatkan maklumat pendaftaran NPRA lengkap (nombor kebenaran, nama produk, teks indikasi kelulusan)
-- **Data keselamatan sisipan paket**: Muat turun dan analisis maklumat preskripsi yang diluluskan untuk amaran formal, kontraindikasi, dan interaksi ubat-ubatan
-- **Dokumentasi mekanisme tindakan**: Perolehi data MOA terperinci daripada DrugBank (penghambatan subunit c ATP synthase)
-- **Pembangunan indikasi TB tidak aktif**: Pantau hasil percubaan BREACH-TB (NCT06568484) untuk potensi perluasan label kepada terapi pencegah TB
-- **Analisis jurang farmakokinetik**: Untuk indikasi khusus jaringan (tuberculoma, TB kulit), nilai data penembusan ubat dalam granuloma, CNS, dan kompartmen kulit
+| [32130813](https://pubmed.ncbi.nlm.nih.gov/32130813/) | 2020 | Laporan percubaan klinikal | N Engl J Med | Rawatan TB paru-paru yang sangat rintang ubat |
+| [35649043](https://pubmed.ncbi.nlm.nih.gov/35649043/) | 2022 | Tinjauan sistematik/meta-analisis | J Bras Pneumol | Kadar kejayaan rawatan regimen berasaskan bedaquiline dalam MDR-TB |
+| [40172415](https://pubmed.ncbi.nlm.nih.gov/40172415/) | 2025 | Tinjauan sistematik/meta-analisis | J Bras Pneumol | Keberkesanan regimen bedaquiline dan linezolid untuk MDR-TB |
+| [32192585](https://pubmed.ncbi.nlm.nih.gov/32192585/) | 2020 | Meta-analisis data pesakit individu | Lancet Respir Med | Kekerapan kesan buruk ubat dalam rawatan MDR-TB |
+| [39300460](https://pubmed.ncbi.nlm.nih.gov/39300460/) | 2024 | Percubaan rawak | BMC Med | Regimen 9 bulan bedaquiline, linezolid, levofloksasin, klofazimin dan sikloserin di China |
+| [38523140](https://pubmed.ncbi.nlm.nih.gov/38523140/) | 2024 | Ulasan | Nat Rev Dis Primers | Gambaran menyeluruh MDR-TB |
+| [31526739](https://pubmed.ncbi.nlm.nih.gov/31526739/) | 2019 | Ulasan | Lancet | Pengurusan TB rintang ubat |
+| [30548290](https://pubmed.ncbi.nlm.nih.gov/30548290/) | 2019 | Ulasan | Drug Dev Res | Bedaquiline dan delamanid dalam MDR-TB: menjanjikan tetapi mencabar |
+| [31635903](https://pubmed.ncbi.nlm.nih.gov/31635903/) | 2020 | Analisis subkumpulan | Respir Investig | Keselamatan dan keberkesanan bedaquiline dalam subpopulasi Korea |
+| [26828052](https://pubmed.ncbi.nlm.nih.gov/26828052/) | 2016 | Analisis sistematik | Eur Respir J | Analisis kritikal bukti bedaquiline dalam MDR-TB |
 
 ---
 
-*Penafian: Laporan ini untuk tujuan penyelidikan sahaja dan tidak merupakan nasihat perubatan. Calon penggunaan semula ubat memerlukan pengesahan klinis sebelum aplikasi. Potong-off data: 2026-04-09.*
+## Penilaian Indikasi Lain yang Diramalkan
 
+| Indikasi | Skor TxGNN | Tahap Bukti | Ringkasan | Keputusan |
+|------|------|------|------|------|
+| TB bovin | 99.96% | L4 | Hanya kajian metodologi MIC in vitro; *M. bovis* secara semula jadi rintang pirazinamida | Hold |
+| TB avian | 99.96% | L5 | Tiada percubaan atau literatur | Hold |
+| Asites tuberkulosis | 99.96% | L5 | Satu-satunya penerbitan berkaitan kecederaan hati akibat ubat anti-TB, bukan keberkesanan | Hold |
+| TB tidak aktif (laten/pencegahan) | 99.96% | L2 | Ujian BREACH-TB (Fasa 2/3, 2,530 peserta) sedang merekrut tanpa keputusan; sebahagian percubaan lain merawat TB aktif | Research Question |
+| Tuberkuloma | 99.96% | L4 | Hanya laporan kes; penembusan CNS bedaquiline tidak pasti | Research Question |
+| Kandidiasis vulvovaginal | 99.88% | L5 | Tiada hubungan mekanisme; kemungkinan artifak model | Hold |
+| Fasciolliasis | 99.88% | L5 | Tiada hubungan mekanisme; kemungkinan artifak model | Hold |
+| Gangguan kitaran urea | 99.78% | L5 | Tiada hubungan mekanisme; kemungkinan artifak model | Hold |
+| TB kutaneus | 99.70% | L5 | Literatur hanya tentang tindak balas kulit terhadap ubat anti-TB | Hold |
+
+---
+
+## Sitotoksisiti
+
+Bedaquiline ialah ubat antimikobakteria, bukan ubat antineoplastik. Bahagian ini tidak berkenaan.
+
+---
+
+## Pertimbangan Keselamatan
+
+**Interaksi Ubat**: Pangkalan data DDInter mencatat **100 interaksi** yang diketahui. Antara yang bertahap **Major**:
+
+- Klaritromisin
+- Deksametason
+- Dolasetron
+- Palonosetron
+- Asid pikosulfurik
+- Polietilena glikol (3350 dengan elektrolit)
+- Natrium sulfat
+
+Antara yang bertahap **Moderate**:
+
+- Doksisiklin
+- Minosiklin
+- Tetrasiklin
+- Famotidin
+- Pioglitazon
+- Bupropion
+- Naltrekson
+- Loperamid
+- Akarbosa
+- Bisakodil
+- Asid kenodeoksikolik
+- Oksandrolon
+- Oksimetolon
+
+Literatur yang dikumpulkan turut menyebut risiko hepatotoksisiti ubat anti-TB, yang relevan untuk penilaian risiko.
+
+Maklumat amaran utama dan kontraindikasi tidak tersedia. Sila rujuk sisipan pakej untuk maklumat keselamatan lanjut.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Proceed with Guardrails (Teruskan dengan Langkah Kawalan)**
+
+**Rasional:**
+- Beberapa percubaan Fasa 3 yang telah selesai (endTB, endTB-Q, STREAM, BEAT-TB, ZeNix) dan meta-analisis menyokong keberkesanan bedaquiline dalam MDR-TB, jadi tahap bukti ialah L1.
+- Indikasi MDR-TB sudah mantap secara klinikal, tetapi pendaftaran di Malaysia belum disahkan.
+- Indikasi lain yang diramalkan (TB bovin, avian, kutaneus, kandidiasis, fasciolliasis, gangguan kitaran urea) tidak mempunyai bukti klinikal dan patut ditahan. TB laten/pencegahan dan tuberkuloma kekal sebagai persoalan penyelidikan.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Mengesahkan status pendaftaran dan indikasi bedaquiline dengan NPRA, kerana data semasa menunjukkan "tidak dipasarkan" dan ini bercanggah dengan rekod klinikal.
+- Memuat turun dan menghurai sisipan pakej NPRA untuk amaran dan kontraindikasi, yang merupakan jurang data yang menyekat saringan keselamatan.
+- Melengkapkan data mekanisme tindakan daripada DrugBank (ID DrugBank belum ada dalam data).
+- Mewujudkan pelan pemantauan keselamatan, terutamanya pemantauan interval QT, fungsi hati dan interaksi ubat bertahap Major (misalnya klaritromisin dan antagonis 5-HT3).
+- Menunggu keputusan percubaan yang masih berjalan (BREACH-TB, PRISM-TB, dan lain-lain) sebelum mempertimbangkan indikasi pencegahan.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

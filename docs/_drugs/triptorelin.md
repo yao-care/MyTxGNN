@@ -2,15 +2,15 @@
 layout: default
 title: Triptorelin
 parent: Low Evidence (L4-L5)
-nav_order: 671
-evidence_level: L5
+nav_order: 704
+evidence_level: L4
 indication_count: 10
 ---
 
 # Triptorelin
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L4** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,78 +29,60 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Triptorelin: Daripada Pubertas Pramatang kepada Hipertrikosis
+# Triptorelin: Daripada Agonis GnRH kepada Hipertrikosis
 
 ## Ringkasan Satu Ayat
 
-Triptorelin ialah agonis GnRH yang telah digunakan secara klinikal untuk pubertas pramatang (disahkan dalam pakej bukti ini melalui data percubaan Fasa 3 yang kuat di bawah entri calon berbeza). Isyarat baru bertaraf teratas model TxGNN ialah **Hipertrikosis (penyakit)**, namun ramalan ini hanya disokong oleh **1 laporan kes yang berkaitan secara marginal** dan **0 percubaan klinikal**, dan anotasi penyemak sendiri menandainya sebagai kemungkinan besar bunyi model daripada isyarat repurposing yang sebenar.
+Triptorelin ialah agonis hormon pelepas gonadotropin (GnRH) yang menekan hormon seks gonad. Model TxGNN meramalkan ia mungkin berkesan untuk **hipertrikosis** dengan skor yang sangat tinggi, tetapi bukti sebenar sangat lemah: **tiada ujian klinikal** dan hanya **1 penerbitan** (laporan kes), yang menerangkan hipertrikosis akibat ubat lain, bukan rawatan oleh triptorelin.
 
----
+## Gambaran Keseluruhan
 
-## Gambaran Keseluruhan Cepat
-
-| Item | Kandungan |
-|------|---------|
-| Indikasi Asal | Pubertas pramatang (agonis GnRH; disahkan dalam catatan rasional pakej bukti ini — teks indikasi lesen Malaysia tidak dipulangkan) |
-| Indikasi Baru yang Diramal | Hipertrikosis (penyakit) |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Baharu yang Diramalkan | Hipertrikosis |
 | Skor Ramalan TxGNN | 99.997% |
-| Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 6 |
-| Keputusan yang Disyorkan | Ditahan |
-
----
+| Tahap Bukti | L4 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan terperinci untuk Triptorelin tidak tersedia dalam pakej bukti ini. Triptorelin diketahui berfungsi sebagai agonis GnRH, secara kronik menekan pengeluaran LH/FSH hipofisis — mekanisme yang tidak mempunyai hubungan yang ditegakkan dengan peraturan pertumbuhan folikel rambut.
+Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Triptorelin tergolong dalam kelas agonis GnRH. Secara teori, ia menurunkan androgen gonad dan boleh mengurangkan hirsutisme yang bergantung kepada androgen.
 
-Rekod kesusasteraan tunggal yang dipulangkan untuk calon ini (PMID 41822646) sebenarnya tidak mengkaji kesan Triptorelin terhadap hipertrikosis. Ia menerangkan seorang wanita transgender yang menerima **siklosporin**, estradiol, dan triptorelin yang mengalami hipertrikosis umum yang dikaitkan dengan siklosporin, dengan triptorelin hanya sebagai ubat latar belakang yang bersama. Tiada dakuan kausal atau mekanistik dalam sumber ini yang menghubungkan Triptorelin sendiri dengan pertumbuhan rambut.
+Namun, hirsutisme berbeza daripada hipertrikosis umum, yang biasanya tidak bergantung kepada androgen. Satu-satunya penerbitan yang ditemui melaporkan hipertrikosis akibat siklosporin pada wanita transgender yang menerima estradiol dan triptorelin. Hipertrikosis itu berlaku walaupun androgen ditekan, jadi laporan tersebut tidak menunjukkan manfaat triptorelin, malah menunjukkan penekanan androgen tidak mencegahnya. Skor TxGNN yang tinggi tidak disokong oleh mekanisme yang munasabah.
 
-Mengingat tiada sebarang percubaan klinikal, sebarang hipotesis mekanik khusus penyakit, dan laporan kes tunggal yang sebenarnya tidak membayangkan ubat, calon ini harus dianggap sebagai kemungkinan positif palsu graf pengetahuan daripada petunjuk repurposing yang boleh dipercayai — konsisten dengan penilaian tahap bukti model itu sendiri (L5) dan rekomendasi Ditahan.
+## Bukti Ujian Klinikal
 
----
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
-## Bukti Percubaan Klinikal
-
-Pada masa ini tiada percubaan klinikal yang berkaitan berdaftar.
-
----
-
-## Bukti Kesusasteraan
+## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [41822646](https://pubmed.ncbi.nlm.nih.gov/41822646/) | 2026 | Laporan kes | Cureus | Menerangkan hipertrikosis umum yang diinduksi siklosporin pada seorang wanita transgender yang secara serentak menerima triptorelin dan estradiol; hipertrikosis dikaitkan dengan siklosporin, bukan triptorelin — ubat ini hanya muncul sebagai ubat latar belakang yang bersama. |
-
----
-
-## Maklumat Pasaran Malaysia
-
-Triptorelin dicatatkan sebagai dipasarkan di Malaysia dengan 6 jumlah pendaftaran keseluruhan, tetapi pakej bukti tidak memulangkan nombor lesen, nama produk, bentuk dos, atau teks indikasi yang diluluskan untuk mana-mana entri — jadual lesen pasaran tidak dapat dihasilkan daripada data semasa.
-
----
+| [41822646](https://pubmed.ncbi.nlm.nih.gov/41822646/) | 2026 | Laporan kes | Cureus | Wanita transgender berusia 25 tahun dengan psoriasis plak teruk mengalami hipertrikosis umum selepas memulakan siklosporin, sambil mengambil estradiol dan triptorelin. Hipertrikosis disebabkan oleh siklosporin, bukan dirawat oleh triptorelin. |
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
+**Interaksi Ubat** (pangkalan data DDInter, 100 interaksi direkodkan; contoh utama):
+- **Major**: Dolasetron
+- **Moderate**: ubat antidiabetes (metformin, pioglitazone, glimepiride, klorpropamid, akarbosa, alogliptin, saksagliptin, kanagliflozin, dapagliflozin, empagliflozin, albiglutide, dulaglutide), klaritromisin, famotidin, palonosetron, loperamid, bisakodil, asid pikosulfurik dan polietilena glikol
 
----
+Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Ditahan**
+**Keputusan: Hold (Tahan)**
 
 **Rasional:**
-Ramalan Hipertrikosis bertumpu pada skor TxGNN bertaraf teratas tetapi sifar percubaan klinikal sokongan dan satu laporan kes yang sebenarnya tidak membayangkan Triptorelin dalam pertumbuhan rambut — ini ialah tahap bukti L5 (ramalan model sahaja), dan cerita mekanik yang mendasar (penindasan paksi GnRH → hipertrikosis) tidak mempunyai asas yang ditegakkan.
+- Ramalan ini hanya berasaskan model dan tiada bukti ujian klinikal. Satu-satunya laporan kes tidak menunjukkan manfaat, dan mekanisme yang munasabah tidak dapat dikenal pasti.
 
-**Untuk meneruskan, berikut diperlukan:**
-- Amaran sisipan pakej TFDA/NPRA dan kontraindikasi (pada masa ini hilang — ditandai sebagai jurang yang menghalang)
-- Data mekanisme tindakan yang disahkan (pada masa ini hilang — jurang keterukan tinggi)
-- Butiran lesen Malaysia (nama produk, bentuk dos, teks indikasi yang diluluskan) untuk mencirikan penggunaan pasaran semasa
-- Hipotesis mekanik khusus yang boleh diuji yang menghubungkan agonis GnRH kepada biologi folikel rambut sebelum sebarang pengumpulan bukti selanjutnya dibenarkan
-- Jika calon ini tetap menarik, carian kesusasteraan/percubaan berdedikasi yang secara spesifik menanyakan mekanisme "Triptorelin AND hipertrikosis/hirsutisme" daripada bergantung pada laporan kes sampingan tunggal yang sedang dalam fail
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) yang lengkap
+- Sisipan pakej dan maklumat pendaftaran NPRA (amaran dan kontraindikasi), kerana rekod pendaftaran tempatan tidak ditemui
+- Bukti klinikal langsung bahawa triptorelin memberi manfaat untuk hipertrikosis
 
+**Nota tambahan mengenai ramalan lain:** Antara 10 ramalan teratas, **pubertas pramatang (precocious puberty)** mempunyai bukti terkuat (tahap L1, keputusan sistem: Proceed with Guardrails). Terdapat 5 ujian Fasa 3 yang selesai (NCT04736602, NCT00564850, NCT00909844, NCT01467882, NCT05029622) dan beberapa penerbitan, termasuk laporan Fasa 3 (PMID 39412628). Ini ialah kegunaan yang sudah diluluskan di banyak wilayah, jadi ia lebih tepat dianggap penggunaan sedia ada daripada pengalihan guna sebenar. Rekod pasaran dan indikasi asal yang kosong dalam data ini kelihatan seperti jurang data. Disyorkan penilaian berasingan untuk indikasi ini, dengan jaga-jaga: ujian bersifat label terbuka dan tanpa pembanding, hasil jangka panjang (ketinggian akhir, ketumpatan tulang, fungsi pembiakan) perlu disahkan, status kawal selia setiap bidang kuasa perlu disemak, dan bentuk periferi pubertas pramatang perlu disingkirkan sebelum penggunaan.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

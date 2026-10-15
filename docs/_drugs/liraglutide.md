@@ -2,7 +2,7 @@
 layout: default
 title: Liraglutide
 parent: Low Evidence (L4-L5)
-nav_order: 446
+nav_order: 466
 evidence_level: L5
 indication_count: 0
 ---

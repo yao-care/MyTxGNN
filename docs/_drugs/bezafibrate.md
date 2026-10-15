@@ -2,7 +2,7 @@
 layout: default
 title: Bezafibrate
 parent: Low Evidence (L4-L5)
-nav_order: 142
+nav_order: 147
 evidence_level: L5
 indication_count: 0
 ---

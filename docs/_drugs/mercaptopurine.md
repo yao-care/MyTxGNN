@@ -2,7 +2,7 @@
 layout: default
 title: Mercaptopurine
 parent: High Evidence (L1-L2)
-nav_order: 473
+nav_order: 494
 evidence_level: L1
 indication_count: 10
 ---
@@ -29,109 +29,116 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Mercaptopurine: Daripada Agen Tulang Punggung Kemoterapi kepada Leukemia Limfoblastik Akut
+# Mercaptopurine: Daripada Indikasi Asal (Tidak Direkodkan) kepada Leukemia Limfoblastik Akut
 
 ## Ringkasan Satu Ayat
 
-Mercaptopurine ialah agen antimetabolit tiofurin yang telah lama digunakan sebagai agen tulang punggung kemoterapi, walaupun teks indikasi asal yang spesifik tidak tersedia dalam ekstrak daftar NPRA semasa. Ramalan teratas model TxGNN — **Leukemia Limfoblastik Akut (ALL)** — adalah penting kerana mercaptopurine sudah pun merupakan komponen terapi penyelenggaraan yang mantap untuk ALL, jadi hasil ini sebaiknya dibaca sebagai **pengesahan penggunaan klinis yang diketahui** dan bukan isyarat penyalahgunaan ubat yang baru, disokong oleh **50 uji kaji klinis** dan **20 penerbitan** dalam pakej bukti.
+Maklumat indikasi asal mercaptopurine tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Ubat ini ialah antimetabolit purin yang diketahui digunakan sebagai agen penyelenggaraan dalam rejimen leukemia limfoblastik akut (ALL).
+Model TxGNN meramalkan ia mungkin berkesan untuk **leukemia limfoblastik akut**, dengan **40 ujian klinikal** dan **18 penerbitan** yang disenaraikan dalam data. Namun, ini ialah penggunaan standard yang sudah mantap dan bukan pembaharuan guna (repurposing) yang sebenar. Mercaptopurine juga **tidak berdaftar di pasaran Malaysia** menurut data yang ada.
 
 ---
 
-## Gambaran Umum Cepat
+## Gambaran Ringkas
 
-| Item | Kandungan |
+| Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tidak dinyatakan dalam ekstrak lesen NPRA semasa (medan teks pendaftaran kosong) |
-| Indikasi Baharu yang Diramalkan | Leukemia Limfoblastik Akut (ALL) |
+| Indikasi Asal | Tiada data (tiada lesen NPRA direkodkan) |
+| Indikasi Baharu yang Diramalkan | Leukemia limfoblastik akut |
 | Skor Ramalan TxGNN | 99.94% |
 | Tahap Bukti | L1 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 1 |
-| Keputusan Disyorkan | Tahan |
+| Status Pasaran Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa sekarang, data mekanisme tindakan terperinci tidak tersedia (DG002, keterukan tinggi). Berdasarkan farmakologi yang diketahui, mercaptopurine ialah agen antimetabolit tiofurin: selepas pengaktifan intraseluler kepada nukleotida tiaguanin, ia dimasukkan ke dalam DNA/RNA dan menghalang sintesis purin de novo, menghasilkan kesan sitotoksik dan antiperolifatif dalam sel yang berkembang pesat — asas klasik penggunaannya dalam keganasan hematologi.
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam sumber data. Berdasarkan maklumat yang diketahui, mercaptopurine ialah antimetabolit purin. Di dalam sel, ia ditukar kepada nukleotida tioguanina yang diselitkan ke dalam DNA dan RNA serta merencat sintesis purin *de novo*. Ini menyebabkan sitotoksisiti pada limfoblas yang membahagi dengan cepat.
 
-Yang penting, indikasi "yang diramalkan" di sini — leukemia limfoblastik akut — bertindih secara ketara dengan peranan klinis mercaptopurine yang sudah mapan. Bukti uji kaji klinis dan literatur yang dikumpul untuk calon ini sebahagian besarnya terdiri daripada protokol terapi penyelenggaraan ALL (cth., BFM, AIEOP, rejimen COG) di mana 6-mercaptopurine ialah komponen kombinasi kemoterapi piawai, bersama-sama dengan korpus literatur farmakogenomik yang besar (TPMT/NUDT15) mengenai dos dan toksisiti pada pesakit ALL. Corak ini menunjukkan model mengukuhkan indikasi yang sudah terdokumen dengan baik daripada mengenal pasti penggunaan terapeutik yang benar-benar baru.
+Mercaptopurine ialah agen tulang belakang dalam rejimen penyelenggaraan ALL. Oleh itu, ramalan ini selari dengan amalan klinikal sedia ada. Perlu diambil perhatian bahawa ini bukan pembaharuan guna yang sebenar. Ketiadaan medan indikasi asal dan MOA dalam data merupakan jurang data.
 
-Kerana teks indikasi berdaftar tempatan (NPRA) tidak diisi dalam pakej bukti ini, tidak dapat disahkan sama ada label Malaysia sudah pun merangkumi ALL. Perkara ini perlu diselesaikan sebelum menganggap ramalan sebagai "baru."
+Antara ramalan lain, bukti sokongan adalah lebih lemah: leukemia mieloid (L2, campuran, kebanyakannya rejimen berbilang agen), limfoma Hodgkin (L3, tiada bukti langsung), karsinoma sel kecil paru-paru (L3, hanya data Fasa 2 tahun 1985 dan data praklinikal), manakala selebihnya hanya ramalan model atau tidak berkaitan indikasi rawatan.
 
 ---
 
-## Bukti Uji Kaji Klinis
+## Bukti Ujian Klinikal
 
-| Nombor Uji Kaji | Fasa | Status | Pendaftaran | Penemuan Utama |
+Senarai di bawah ialah ujian terpilih yang paling relevan untuk ALL. Kebanyakannya ialah rejimen berbilang agen, jadi sumbangan mercaptopurine secara tersendiri sukar diasingkan.
+
+| Nombor Ujian | Fasa | Status | Pendaftaran | Dapatan Utama |
 |---------|------|------|------|---------|
-| [NCT01117441](https://clinicaltrials.gov/study/NCT01117441) | Fasa 3 | Selesai | 6136 | Protokol kemoterapi kombinasi kolaboratif antarabangsa untuk kanak-kanak/remaja dengan ALL |
-| [NCT02883049](https://clinicaltrials.gov/study/NCT02883049) | Fasa 3 | Aktif, tidak merekrut | 5949 | B-ALL berisiko tinggi yang baru didiagnosis, dasatinib ditambah untuk mutasi Ph-like sensitif TKI |
-| [NCT01190930](https://clinicaltrials.gov/study/NCT01190930) | Fasa 3 | Aktif, tidak merekrut | 9350 | Rejimen kemoterapi tersesuai risiko dalam B-ALL/B-LLy risiko piawai yang baru didiagnosis |
-| [NCT00816049](https://clinicaltrials.gov/study/NCT00816049) | Fasa 3 | Selesai | 775 | Protokol Nordik (NOPHO) menilai dos 6-MP yang dipersonalisasikan semasa penyatuan |
-| [NCT00549848](https://clinicaltrials.gov/study/NCT00549848) | Fasa 3 | Selesai | 600 | Total Therapy XVI: dos PEG-asparaginase dalam ALL yang baru didiagnosis |
-| [NCT00671034](https://clinicaltrials.gov/study/NCT00671034) | Fasa 3 | Selesai | 166 | Calaspargase pegol vs pegaspargase kemoterapi kombinasi dalam ALL berisiko tinggi |
-| [NCT02042690](https://clinicaltrials.gov/study/NCT02042690) | Fasa 3 | Selesai | 131 | Haplo-identical HSCT vs kemoterapi dalam remisi pertama, ALL risiko piawai dewasa |
-| [NCT02143414](https://clinicaltrials.gov/study/NCT02143414) | Fasa 2 | Aktif, tidak merekrut | 53 | Blinatumomab + POMP (incl. 6-MP) pada pesakit ALL Ph- yang lebih tua |
-| [NCT03022747](https://clinicaltrials.gov/study/NCT03022747) | Fasa 2 | Tidak diketahui | 60 | Allopurinol ditambah kepada penyelenggaraan 6-MP/metotreksat untuk mengoptimalkan metabolit tiofurin |
-| [NCT01906671](https://clinicaltrials.gov/study/NCT01906671) | Fasa 4 | Tidak diketahui | 16 | Kinetik plasma tablet vs formulasi cecair 6-mercaptopurine dalam ALL masa kanak-kanak |
+| [NCT00002744](https://clinicaltrials.gov/study/NCT00002744) | Fasa 3 | Selesai | 1970 | Perbandingan rawak mercaptopurine oral berbanding tioguanina serta MTX intratekal pada ALL risiko standard kanak-kanak |
+| [NCT00816049](https://clinicaltrials.gov/study/NCT00816049) | Fasa 3 | Selesai | 775 | Protokol NOPHO: dos 6MP individu semasa konsolidasi untuk meningkatkan kadar MRD-negatif |
+| [NCT01503632](https://clinicaltrials.gov/study/NCT01503632) | Fasa 3 | Selesai | 570 | Intervensi meningkatkan kepatuhan terhadap mercaptopurine pada ALL kanak-kanak |
+| [NCT00131027](https://clinicaltrials.gov/study/NCT00131027) | Fasa 3 | Tidak diketahui | 240 | Metotreksat dos tinggi semasa konsolidasi dalam ALL dewasa BCR-ABL negatif (bukti tidak langsung untuk mercaptopurine) |
+| [NCT02003222](https://clinicaltrials.gov/study/NCT02003222) | Fasa 3 | Aktif, tidak merekrut | 488 | Blinatumomab ditambah kemoterapi pada B-ALL dewasa; mercaptopurine ialah tulang belakang rejimen |
+| [NCT03643276](https://clinicaltrials.gov/study/NCT03643276) | Fasa 3 | Merekrut | 5000 | Protokol AIEOP-BFM ALL 2017 untuk kanak-kanak dan remaja |
+| [NCT00103285](https://clinicaltrials.gov/study/NCT00103285) | Fasa 3 | Selesai | 5377 | Perbandingan rejimen kemoterapi pada B-ALL risiko standard |
+| [NCT03920813](https://clinicaltrials.gov/study/NCT03920813) | Fasa 4 | Tidak diketahui | 500 | Penentu ketoksikan mercaptopurine dan farmakokinetik pada ALL kanak-kanak |
+| [NCT00184041](https://clinicaltrials.gov/study/NCT00184041) | Fasa 2 | Selesai | 47 | Terapi pasca-remisi intensif dengan PEG-asparaginase pada ALL dewasa |
+| [NCT02912676](https://clinicaltrials.gov/study/NCT02912676) | Fasa 1/2 | Selesai | 30 | 6-tioguanina dengan metotreksat dan 6-mercaptopurine semasa penyelenggaraan |
 
 ---
 
 ## Bukti Literatur
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+Bukti literatur untuk ALL kebanyakannya terdiri daripada ujian Fasa 2, kohort, kajian farmakogenomik dan ulasan.
+
+| PMID | Tahun | Jenis | Jurnal | Dapatan Utama |
 |------|-----|------|------|---------|
-| [38230823](https://pubmed.ncbi.nlm.nih.gov/38230823/) | 2024 | Kajian farmakogenomik | J Natl Cancer Inst | Kesan aditif varian TPMT dan NUDT15 pada mielosupresi teraruh tiofurin dalam ALL merentasi populasi multietnik |
-| [37550838](https://pubmed.ncbi.nlm.nih.gov/37550838/) | 2023 | Kajian farmakologi klinis | Clin Pharmacol Ther | Aras metabolit mercaptopurine berkaitan dengan hasil dalam protokol AIEOP-BFM ALL 2009 |
-| [35157496](https://pubmed.ncbi.nlm.nih.gov/35157496/) | 2022 | Uji kaji Fasa 2 | J Clin Oncol | SWOG 1318: blinatumomab diikuti dengan penyelenggaraan POMP (incl. 6-MP) dalam B-ALL Ph- yang lebih tua |
-| [29352703](https://pubmed.ncbi.nlm.nih.gov/29352703/) | 2018 | Fasa 2, satu lengan | Lancet Oncol | Inotuzumab ozogamicin + kemoterapi intensiti rendah pada pesakit ALL Ph- yang lebih tua |
-| [36279879](https://pubmed.ncbi.nlm.nih.gov/36279879/) | 2022 | Fasa 2, satu lengan | Lancet Haematol | Hyper-CVAD + blinatumomab berurutan dalam B-ALL Ph- yang baru didiagnosis |
-| [35501736](https://pubmed.ncbi.nlm.nih.gov/35501736/) | 2022 | Protokol RCT | BMC Cancer | Uji TEAM: menambah 6-thiogwanine dosis rendah kepada penyelenggaraan 6-MP/metotreksat dalam ALL |
-| [25624441](https://pubmed.ncbi.nlm.nih.gov/25624441/) | 2015 | GWAS | J Clin Oncol | Varian NUDT15 yang diwariskan dikenalpasti sebagai penentu genetik ketidaktoleransian mercaptopurine dalam ALL |
-| [33750748](https://pubmed.ncbi.nlm.nih.gov/33750748/) | 2021 | Ulasan | J Pediatr Hematol Oncol | Allopurinol digunakan untuk mencegah kesan sampingan mercaptopurine pada pesakit ALL |
-| [10653870](https://pubmed.ncbi.nlm.nih.gov/10653870/) | 2000 | Kajian kohort | J Clin Oncol | Hasil rejimen Hyper-CVAD intensiti dos dalam ALL dewasa |
-| [29364809](https://pubmed.ncbi.nlm.nih.gov/29364809/) | 2017 | Ulasan | Bol Med Hosp Infant Mex | Perspektif genomik pada ALL, termasuk pertimbangan rawatan farmakogenomik |
+| [31283407](https://pubmed.ncbi.nlm.nih.gov/31283407/) | 2019 | Kohort (Fasa 3 rawak antarabangsa) | J Clin Oncol | Hasil bayi <1 tahun dengan ALL dalam protokol Interfant-06 |
+| [35157496](https://pubmed.ncbi.nlm.nih.gov/35157496/) | 2022 | Ujian Fasa 2 | J Clin Oncol | SWOG 1318: blinatumomab diikuti penyelenggaraan POMP (termasuk 6-MP) pada pesakit lebih tua |
+| [37187201](https://pubmed.ncbi.nlm.nih.gov/37187201/) | 2023 | Ujian Fasa 2 | Lancet Haematol | Mini-hyper-CVD dengan inotuzumab ± blinatumomab pada pesakit lebih tua |
+| [29352703](https://pubmed.ncbi.nlm.nih.gov/29352703/) | 2018 | Fasa 2 satu lengan | Lancet Oncol | Inotuzumab dengan kemoterapi intensiti rendah pada ALL Ph-negatif |
+| [10653870](https://pubmed.ncbi.nlm.nih.gov/10653870/) | 2000 | Kohort | J Clin Oncol | Keberkesanan dan ketoksikan hyper-CVAD pada ALL dewasa |
+| [25624441](https://pubmed.ncbi.nlm.nih.gov/25624441/) | 2015 | GWAS | J Clin Oncol | Varian NUDT15 sebagai penentu genetik ketidaktoleran mercaptopurine |
+| [26033531](https://pubmed.ncbi.nlm.nih.gov/26033531/) | 2015 | Kajian genotip | Br J Haematol | Varian NUDT15 dan ketoksikan 6-MP pada kanak-kanak Jepun |
+| [28507448](https://pubmed.ncbi.nlm.nih.gov/28507448/) | 2017 | Ulasan | Pharmacogenomics Pers Med | Polimorfisme TPMT dan respons rawatan tiopurin |
+| [38485947](https://pubmed.ncbi.nlm.nih.gov/38485947/) | 2024 | Praklinikal | Cell Death Dis | Histidina menyensitifkan semula ALL kepada 6-MP; 6-MP ialah tulang belakang kemoterapi ALL |
+| [29759551](https://pubmed.ncbi.nlm.nih.gov/29759551/) | 2018 | Ulasan | Crit Rev Oncol Hematol | Genomik dan farmakogenomik ALL kanak-kanak |
 
 ---
 
-## Maklumat Pasaran Malaysia
+## Keselamatan
 
-Satu pendaftaran NPRA tercatat (status pasaran: Dipasarkan), tetapi medan perincian lesen (nombor pendaftaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan) tidak diisi dalam ekstrak data semasa. Perincian ini perlu diambil terus daripada daftar NPRA sebelum tuntutan status pasaran dapat diselesaikan.
+Data keselamatan daripada sisipan pakej tidak tersedia dalam data yang dikumpulkan. Sila rujuk sisipan pakej untuk maklumat keselamatan.
+
+**Interaksi Ubat** (pangkalan data DDInter; 100 interaksi direkodkan, sebahagian disenaraikan):
+- **Tahap sederhana**: mesalazine, balsalazide, naltrexone, olsalazine, sulfasalazine
+- **Tahap ringan**: levofloxacin
+- Banyak yang lain bertahap "tidak diketahui" (contohnya omeprazole, metformin, prednisone, simvastatin)
+
+**Panduan farmakogenomik** (daripada literatur): genotip TPMT dan NUDT15 diperlukan untuk mengurus miolotoksisiti, terutamanya pada populasi Asia di mana varian NUDT15 ialah punca utama ketidaktoleran mercaptopurine.
 
 ---
 
 ## Sitotoksisiti
 
-| Item | Kandungan |
+| Perkara | Kandungan |
 |------|------|
-| Klasifikasi Sitotoksisiti | Sitotoksik konvensional (agen antimetabolit purin / kelas tiofurin) |
-| Risiko Supresi Sumsum Tulang | Tinggi — literatur meluas (kajian TPMT/NUDT15) mendokumentasikan hemotoksisiti bergantung dos sebagai kesan sampingan yang dominan |
-| Klasifikasi Emetogenisiti | Rendah (tiofurin oral, potensi emetogenik minimal) |
-| Item Pemantauan | CBC dengan perbezaan, ujian fungsi hati, fungsi ginjal; genotip TPMT/NUDT15 atau fenotip disyorkan sebelum/semasa terapi memandangkan risiko toksisiti yang terdokumen |
-| Perlindungan Pengendalian | Ya — perlindungan pengendalian ubat sitotoksik piawai diperlukan |
-
----
-
-## Pertimbangan Keselamatan
-
-Sila rujuk sisipan bungkusan untuk maklumat keselamatan. Data amaran utama, kontraindikasi, dan data interaksi ubat semasa tidak tersedia dalam pakej bukti ini (DG001, keterukan penyekat) — ini perlu diselesaikan daripada label TFDA/NPRA sebelum sebarang penilaian keselamatan pra-awal dapat diteruskan.
+| Klasifikasi Sitotoksisiti | Sitotoksik konvensional (antimetabolit analog purin) |
+| Risiko Penindasan Sumsum Tulang | Tinggi pada pembawa varian TPMT/NUDT15; selebihnya sila rujuk sisipan pakej |
+| Klasifikasi Emetogenisiti | Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pakej |
+| Item Pemantauan | Hitung darah penuh (CBC), fungsi hati dan buah pinggang; genotip TPMT/NUDT15 |
+| Perlindungan Pengendalian | Ikut peraturan pengendalian ubat sitotoksik |
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Proceed with Guardrails**
 
-**Alasan:**
-Bukti uji kaji dan literatur untuk indikasi ALL adalah kuat (L1), tetapi jurang data penyekat (DG001: amaran sisipan bungkusan/kontraindikasi yang hilang) menghalang bahkan penilaian keselamatan awal. Tambahan pula, kerana mercaptopurine sudah pun mantap untuk rawatan leukemia, calon ini hendaklah dahulu disahkan sebagai penggunaan yang benar-benar baru berbanding penggunaan berlabel sudah sebelum sebarang tindakan lanjut.
+**Rasional:**
+- Bukti untuk ALL adalah kukuh (L1): terdapat beberapa ujian Fasa 3 yang selesai di mana mercaptopurine ialah komponen rejimen, termasuk satu yang membandingkannya secara langsung dengan tioguanina. Namun, ini ialah penggunaan standard sedia ada dan bukan penemuan baharu, dan kebanyakan ujian tidak mengasingkan sumbangan mercaptopurine.
+- Ubat ini tidak berdaftar di Malaysia menurut data yang ada, dan data keselamatan sisipan pakej tiada.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Sisipan bungkusan TFDA/NPRA (amaran, kontraindikasi) — selesaikan DG001 sebelum sebarang ulasan keselamatan
-- Data mekanisme tindakan DrugBank — selesaikan DG002
-- Pengesahan teks indikasi sebenar diluluskan NPRA untuk produk Malaysia berdaftar, untuk menentukan sama ada ALL sudah pun merupakan penggunaan berlabel
-- Data interaksi ubat (DDI), semasa tidak mengembalikan sebarang hasil
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Muat turun dan huraikan sisipan pakej NPRA untuk amaran dan kontraindikasi (jurang data yang menyekat)
+- Data mekanisme tindakan (MOA) dan ID DrugBank daripada DrugBank
+- Pengesahan status pendaftaran dan indikasi asal di Malaysia
+- Pelan genotip TPMT/NUDT15 serta pemantauan hematologi
+- Untuk ramalan lain: leukemia mieloid ialah soalan penyelidikan (L2) dan limfoma Hodgkin juga (L3); karsinoma sel kecil paru-paru, limfoma paru primer dan subjenis CLL/SLL serta blastoma paru adalah Hold kerana bukti lemah atau tiada
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

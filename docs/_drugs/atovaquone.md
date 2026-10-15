@@ -2,7 +2,7 @@
 layout: default
 title: Atovaquone
 parent: Low Evidence (L4-L5)
-nav_order: 102
+nav_order: 106
 evidence_level: L5
 indication_count: 0
 ---

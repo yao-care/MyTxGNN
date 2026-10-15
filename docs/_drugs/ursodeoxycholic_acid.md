@@ -2,7 +2,7 @@
 layout: default
 title: Ursodeoxycholic Acid
 parent: Low Evidence (L4-L5)
-nav_order: 679
+nav_order: 713
 evidence_level: L5
 indication_count: 1
 ---
@@ -29,59 +29,65 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Asid Ursodeoksikolis: Daripada Pelarutan Batu Hempedu/PBC kepada Hiperkolesterolemia Familiar Homozigot
+# Asid Ursodeoksikolik: Daripada Penyakit Hempedu dan Kolangitis Biliari Primer kepada Hiperkolesterolemia Familial Homozigot
 
 ## Ringkasan Satu Ayat
 
-Asid ursodeoksikolis (UDCA) ialah asid empedu hidrofil yang digunakan untuk melarutkan batu hempedu dan merawat kolangitis bilier primer (PBC) melalui kesan sitoprotektif dan koleresis. Model TxGNN meramalkan ia mungkin berkesan untuk **Hiperkolesterolemia Familiar Homozigot (HoFH)**, tetapi ramalan ini kini disokong oleh **0 ujian klinikal** dan **0 penerbitan** — ia adalah persatuan graf-pengetahuan semata-mata tanpa bukti langsung.
+Asid ursodeoksikolik (UDCA) ialah asid hempedu hidrofilik yang pada asalnya digunakan untuk merawat batu hempedu (kolelitiasis) dan kolangitis biliari primer.
+Model TxGNN meramalkan ia mungkin berkesan untuk **hiperkolesterolemia familial homozigot**,
+tetapi pada masa ini terdapat **0 percubaan klinikal** dan **0 penerbitan** yang menyokong arah ini; ramalan ini hanya berasaskan model.
 
-## Gambaran Keseluruhan Cepat
+## Gambaran Keseluruhan Ringkas
 
-| Item | Kandungan |
-|------|-----------|
-| Indikasi Asal | Pelarutan batu hempedu; Kolangitis Bilier Primer (PBC) |
-| Indikasi Baru yang Diramalkan | Hiperkolesterolemia Familiar Homozigot (HoFH) |
-| Skor Ramalan TxGNN | 99.86% (pangkat 2731) |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Kolelitiasis, kolesistolitiasis, koledokolitiasis, kolangitis biliari primer, sindrom Reynolds |
+| Indikasi Baharu yang Diramalkan | Hiperkolesterolemia familial homozigot |
+| Skor Ramalan TxGNN | 99.86% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 3 |
-| Keputusan yang Disyorkan | Tahan |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan yang Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Farmakologi UDCA yang diketahui melibatkan tiga mekanisme: (1) mengurangkan ketepuan kolesterol empedu untuk menggalakkan pelarutan batu hempedu, (2) kesan sitoprotektif/anti-apoptosis pada hepatosit (asas untuk penggunaannya bagi PBC), dan (3) modulasi separa isyarat reseptor asid empedu (FXR/TGR5). HoFH, sebaliknya, terhasil daripada kecacatan kehilangan fungsi dalam laluan reseptor LDL (LDLR, APOB, PCSK9, atau LDLRAP1), dan terapi berkesan mesti berfungsi melalui laluan bebas LDLR — perencatan PCSK9, perencatan ANGPTL3, perencatan MTP, atau aferesis LDL.
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, UDCA ialah asid hempedu hidrofilik yang mengubah komposisi kumpulan asid hempedu serta mengurangkan penyerapan kolesterol di usus dan rembesan kolesterol oleh hati. Kesan ini secara teori boleh menurunkan kolesterol secara sederhana.
 
-Walaupun sintesis asid empedu (melalui CYP7A1) bersilang secara biokimia dengan metabolisme kolesterol, UDCA bukanlah agonis FXR yang berkuasa (tidak seperti asid obetikolik), dan pada masa ini tiada bukti biokimia bahawa ia dapat memintas atau memberi pampasan untuk kekurangan reseptor LDL. Skor TxGNN sebanyak 99.86% adalah sangat tinggi, tetapi ia mencerminkan persatuan topologi graf dan bukannya laluan farmakologi yang disahkan — sambungan mekanistik ke HoFH harus dianggap spekulatif pada peringkat ini.
+Namun, hubungan ini bersifat tidak langsung dan hipotetikal. Hiperkolesterolemia familial homozigot disebabkan oleh kehilangan fungsi reseptor LDL (LDLR, atau kurang lazim varian APOB, PCSK9 atau LDLRAP1). Terapi semasa (statin berintensiti tinggi, ezetimib, perencat PCSK9, lomitapid, evinakumab, aferesis LDL) menyasarkan kecacatan ini secara langsung. Kesan melalui asid hempedu tidak mungkin memberi penurunan LDL-C yang bermakna secara klinikal pada pesakit dengan aktiviti LDLR yang tiada atau minimum.
 
-## Bukti Ujian Klinikal
+Skor TxGNN yang sangat tinggi (0.9986) kemungkinan mencerminkan jiran bersama dalam graf pengetahuan, seperti metabolisme kolesterol, sintesis asid hempedu dan penyakit hepatobiliari, dan bukannya hubungan terapeutik yang telah disahkan.
 
-Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
+## Bukti Percubaan Klinikal
+
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ## Bukti Literatur
 
 Pada masa ini tiada literatur berkaitan yang tersedia.
 
-## Maklumat Pasaran Malaysia
+## Keselamatan
 
-Asid ursodeoksikolis memiliki 3 pendaftaran NPRA aktif di Malaysia (status pasaran: dipasarkan). Walau bagaimanapun, tarikan data semasa tidak mengembalikan nombor lesen, nama produk, bentuk dos, atau teks indikasi yang diluluskan bagi pendaftaran ini (lihat Jurang Data DG001 — menghalang). Butiran ini perlu diambil daripada daftar produk NPRA atau leaflet pakej sebelum ringkasan pasaran lengkap dapat dihasilkan.
+Sila rujuk sisipan pakej untuk maklumat keselamatan (amaran utama dan kontraindikasi tidak tersedia dalam data yang dikumpulkan untuk laporan ini).
 
-## Pertimbangan Keselamatan
+**Interaksi Ubat**: Pertanyaan interaksi selesai dengan 100 rekod. Antara yang disenaraikan dalam data:
+- **Tahap Minor**: siklosporin, aluminium hidroksida, magaldrat
+- **Tahap tidak diketahui**: antaranya pravastatin, ramipril, lorazepam, tramadol, flukonazol, eritromisin, sildenafil, pantoprazol, sitalopram, moksifloksasin, nelfinavir, glimepirid, indinavir
 
-Sila rujuk leaflet pakej untuk maklumat keselamatan. Tarikan data khusus untuk amaran utama, kontraindikasi, dan interaksi ubat tidak mengembalikan sebarang hasil (status soalan DDI: tidak ditemui), dan jurang ini ditandai sebagai **menghalang** untuk penilaian keselamatan (DG001) — ia mesti diselesaikan sebelum calon ini dapat maju ke mana-mana peringkat penilaian klinikal.
+Tahap keterukan bagi kebanyakan interaksi tidak dikelaskan, maka penilaian farmasi lanjut diperlukan.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold (Tangguh)**
 
-**Alasan:**
-Ramalan duduk pada Tahap Bukti L5 (ramalan model sahaja) dengan sifar ujian klinikal atau literatur yang menyokong, dan mekanisme yang dicadangkan tidak munasabah mengatasi kecacatan reseptor LDL yang mendasari HoFH. Dikombinasikan dengan jurang data keselamatan yang menghalang (DG001), calon ini tidak bersedia untuk maju.
+**Rasional:**
+- Ramalan ini hanya berasaskan model (L5) tanpa sebarang percubaan klinikal atau literatur sokongan, dan mekanisme yang munasabah hanya bersifat tidak langsung. Pesakit dengan fungsi LDLR yang tiada atau minimum tidak mungkin mendapat manfaat bermakna, sementara pilihan terapi sedia ada menyasarkan kecacatan asas secara langsung.
+- Produk ini juga tidak dipasarkan di Malaysia (tiada pendaftaran).
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Leaflet pakej TFDA/NPRA dengan amaran dan kontraindikasi (DG001, menghalang)
-- Data mekanisme tindakan yang disahkan daripada DrugBank atau literatur utama (DG002)
-- Carian literatur/ujian yang disasarkan untuk UDCA dalam hiperkolesterolemia familiar atau gangguan lipid berkaitan, kerana tarikan semasa mengembalikan sifar hasil
-- Butiran lesen Malaysia yang lengkap (nombor lesen, nama produk, bentuk dos, teks indikasi yang diluluskan)
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) yang terperinci
+- Amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menghalang saringan keselamatan)
+- Kajian praklinikal atau kajian klinikal awal yang menunjukkan kesan penurunan LDL-C pada model atau pesakit dengan kekurangan LDLR
+- Penilaian kebolehlaksanaan pendaftaran dan laluan pentadbiran di Malaysia
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

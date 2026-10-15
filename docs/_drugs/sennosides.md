@@ -2,7 +2,7 @@
 layout: default
 title: Sennosides
 parent: Low Evidence (L4-L5)
-nav_order: 611
+nav_order: 641
 evidence_level: L5
 indication_count: 6
 ---
@@ -29,67 +29,85 @@ Tahap bukti: **L5** | Indikasi diramal: **6**
 
 </div>
 
-# Sennosides: Daripada Sembelit kepada Hypotrichosis Simplex Kulit Kepala
+# Sennosides: Daripada Julat Indikasi Asal kepada Hipotrikosis Simpleks Kulit Kepala
 
 ## Ringkasan Satu Ayat
 
-Sennosides adalah laksatif perangsang (anthraquinon-glikosida) yang secara farmakologi berkaitan dengan pengobatan sembelit, meskipun indikasi asal yang didokumentasikan sepenuhnya tidak tersedia dalam data daftar Malaysia semasa. Ramalan model TxGNN dengan peringkat teratas menunjukkan kemungkinan kaitan ke **Hypotrichosis Simplex Kulit Kepala**, namun pada masa ini disokong oleh **0 ujian klinis** dan **0 penerbitan**, dan rasionalisasi mekanisme model itu sendiri menyatakan tidak ada hubungan biologi yang diketahui antara tindakan laksatif sennosides dan biologi folikel rambut.
+Sennosides ialah julat julap perangsang (stimulant laxative) yang digunakan untuk melegakan sembelit. Model TxGNN meramalkan ia mungkin berkesan untuk **hipotrikosis simpleks kulit kepala**, tetapi sehingga kini **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong ramalan ini. Ramalan ini bersandarkan model sahaja.
 
-## Gambaran Pantas
+> Nota: Indikasi asal tidak tercatat dalam data yang dikumpulkan untuk laporan ini. Penerangan "sembelit" di atas berdasarkan kelas farmakologi sennosides, bukan data pendaftaran tempatan.
 
-| Item | Kandungan |
-|------|----------|
-| Indikasi Asal | Tidak dinyatakan dalam set data semasa (secara farmakologi laksatif perangsang/anthraquinon, menurut mekanisme yang dijelaskan dalam bungkus bukti) |
-| Indikasi Baru yang Diramalkan | Hypotrichosis Simplex Kulit Kepala |
+---
+
+## Gambaran Ringkas
+
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Tiada data pendaftaran tempatan (kelas: julap perangsang) |
+| Indikasi Baharu yang Diramalkan | Hipotrikosis simpleks kulit kepala |
 | Skor Ramalan TxGNN | 99.29% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 1 |
-| Keputusan yang Disyorkan | Tangguh |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (Tahan) |
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan terperinci tidak tersedia (ditanda sebagai jurang data). Berdasarkan maklumat yang tersedia dalam bungkus bukti ini, sennosides adalah glikosida anthraquinon yang dihidrolisis oleh flora usus menjadi rhein anthrone, yang bertindak pada sistem saraf enterik untuk merangsang motilitas kolon dan mengatur penyerapan air/elektrolit — iaitu, mekanisme laksatif perangsang klasik.
+Data mekanisme tindakan (MOA) terperinci tidak tersedia. Berdasarkan maklumat sedia ada, sennosides ialah julap perangsang. Metabolit aktifnya, rheinanthrone, bertindak pada mukosa kolon dan neuron enterik (peningkatan prostaglandin E2 dan rembesan cecair, serta perubahan ungkapan aquaporin-3).
 
-Mekanisme ini tidak mempunyai pautan biologi yang ditetapkan kepada hypotrichosis simplex kulit kepala, yang merupakan gangguan perkembangan folikel rambut bawaan yang didorong secara genetik. Rasionalisasi repurposing yang dilampirkan kepada ramalan ini secara eksplisit menyatakan tiada "hubungan biologi" dan "tiada sokongan literatur atau ujian" — skor TxGNN yang tinggi mencerminkan kesamaan embedding graf daripada hipotesis yang didorong oleh mekanisme.
+Tiada hubungan mekanistik yang dapat ditunjukkan antara laluan ini dengan biologi folikel rambut atau hipotrikosis genetik. Skor tinggi (0.993) merupakan ramalan berasaskan graf semata-mata dan berkemungkinan didorong oleh kedekatan rangkaian, bukan biologi sebenar.
 
-Corak ini bukan terpencil: ramalan teratas yang lain untuk ubat ini (hypotrichosis milia bawaan, alopecia tersebar areata, glaukoma sudut terbuka, glaukoma herediter utama, alopecia) membawa kaveat yang sama — setiap rasionalisasi secara bebas membuat kesimpulan tiada laluan farmakologi yang diketahui menghubungkan laksatif perangsang kepada gangguan folikel rambut atau tekanan okular. Ini mencadangkan gugusan ramalan semasa untuk sennosides tidak boleh diambil tindakan secara biologi tanpa pengesahan sasaran lanjut.
+Ramalan lain dalam senarai juga tidak mempunyai asas mekanistik: kehilangan rambut (alopecia umum, alopesia areata meresap, hipotrikosis milia kongenital) dan glaukoma (sudut terbuka dan keturunan primer). Pertindihan ramalan berkaitan rambut menunjukkan kemungkinan artifak kejiranan graf yang sama, bukan isyarat bebas.
 
-## Bukti Ujian Klinis
+---
 
-Pada masa ini tiada ujian klinis berkaitan yang didaftar.
+## Ramalan Lain (Rujukan)
+
+| Kedudukan | Penyakit | Skor TxGNN | Tahap Bukti | Keputusan |
+|------|------|------|------|------|
+| 2 | Hipotrikosis milia kongenital | 99.23% | L5 | Hold |
+| 3 | Alopesia areata meresap | 99.12% | L5 | Hold |
+| 4 | Glaukoma sudut terbuka | 99.11% | L5 | Hold |
+| 5 | Glaukoma keturunan primer | 99.10% | L5 | Hold |
+| 6 | Alopecia | 99.10% | L5 | Hold |
+
+Alopesia areata ialah gangguan autoimun yang diperantarai sel T (runtuhnya keistimewaan imun folikel, isyarat JAK/STAT). Sennosides tiada aktiviti imunomodulasi yang relevan, dan alternatif yang telah diluluskan (contohnya perencat JAK) sudah wujud. Glaukoma melibatkan aliran keluar aqueous humor dan tekanan intraokular, dan sennosides tiada sasaran okular yang diketahui.
+
+---
+
+## Bukti Percubaan Klinikal
+
+Setakat ini tiada percubaan klinikal berkaitan yang didaftarkan.
+
+---
 
 ## Bukti Literatur
 
-Pada masa ini tiada literatur berkaitan yang tersedia.
+Setakat ini tiada literatur berkaitan.
 
-## Maklumat Pasaran Malaysia
+---
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| Tidak dinyatakan dalam set data | Tidak dinyatakan dalam set data | Tidak dinyatakan dalam set data | Tidak dinyatakan dalam set data |
+## Keselamatan
 
-Daftar Malaysia mengesahkan **1 lesen yang dipasarkan** (status pasaran: Dipasarkan), tetapi nombor lesen, nama produk, bentuk dos, dan medan teks indikasi tidak diisi dalam set data semasa.
+Sila rujuk sisipan pakej untuk maklumat keselamatan. Perlu diingat bahawa kesan utama ubat ini (cirit-birit, kehilangan elektrolit dan isi padu cecair) tidak memberi rasional untuk kegunaan pada kulit kepala atau mata.
 
-## Pertimbangan Keselamatan
-
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
-
-*(Nota: data amaran dan kontraindikasi peringkat label pada masa ini merupakan jurang data Penyekat — lihat Kesimpulan di bawah.)*
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tangguh**
+**Keputusan: Hold (Tahan)**
 
-**Rasionalisasi:**
-Skor TxGNN tinggi, tetapi tiada bukti ujian klinis atau literatur sokongan, dan rasionalisasi mekanisme model itu sendiri menyatakan indikasi yang diramalkan tiada hubungan biologi yang munasabah kepada tindakan laksatif sennosides yang diketahui. Di samping itu, jurang data Penyekat pada amaran dan kontraindikasi label TFDA/NPRA bermakna calon ini belum lagi dapat memasuki bahkan tinjauan keselamatan awal (S1).
+**Justifikasi:**
+- Ramalan hanya bersandarkan skor model (tahap bukti L5), tanpa percubaan klinikal, literatur, atau hubungan mekanistik yang munasabah. Ubat ini juga tidak dipasarkan di Malaysia.
 
-**Untuk melanjutkan, perkara berikut diperlukan:**
-- PDF label TFDA/NPRA untuk amaran dan kontraindikasi (Jurang data Penyekat, DG001)
-- Data mekanisme tindakan terperinci daripada DrugBank (Jurang data keutamaan tinggi, DG002)
-- Teks indikasi yang diluluskan Malaysia secara rasmi untuk produk ini
-- Bukti praklinis/mekanisme bebas yang menetapkan laluan yang munasabah antara sennosides dan biologi folikel rambut sebelum sebarang pelaburan lanjut dalam calon ini
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisipan pakej dan maklumat amaran/kontraindikasi daripada NPRA (jurang data yang menghalang saringan keselamatan)
+- Data mekanisme tindakan (MOA) daripada DrugBank
+- Data indikasi asal dan status pendaftaran tempatan
+- Bukti praklinikal atau hipotesis mekanistik yang menghubungkan sennosides dengan biologi folikel rambut sebelum sebarang penilaian lanjut
+- Kajian keserasian laluan pemberian (kini belum dinilai)
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -2,15 +2,15 @@
 layout: default
 title: Fulvestrant
 parent: Low Evidence (L4-L5)
-nav_order: 360
-evidence_level: L5
+nav_order: 377
+evidence_level: L4
 indication_count: 10
 ---
 
 # Fulvestrant
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L4** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,65 +29,85 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Fulvestrant: Daripada Kanser Payudara kepada Penyakit Berjangkit HIV
+# Fulvestrant: Daripada Indikasi Asal (Tidak Direkodkan) kepada Jangkitan HIV
 
 ## Ringkasan Satu Ayat
 
-> Fulvestrant ialah peredam reseptor estrogen terpilih (SERD) yang digunakan untuk merawat kanser payudara lanjutan atau metastasis yang positif reseptor hormon, HER2-negatif.
-> Model TxGNN meramalkan ia mungkin berkesan untuk **Penyakit Berjangkit HIV**,
-> tetapi arah ini kini disokong hanya oleh **0 uji klinis** dan hanya **1 penerbitan yang berhubung secara tidak langsung** (mengenai HTLV-1, retrovirus yang berbeza), menunjukkan isyarat skor tinggi tetapi pada asasnya tidak disahkan.
+Fulvestrant ialah antagonis sekaligus pendegradasi reseptor estrogen. Data yang dikompil untuk laporan ini tidak mencatatkan indikasi asalnya di Malaysia kerana tiada lesen berdaftar.
+Model TxGNN meramalkan ia mungkin berkesan untuk **jangkitan HIV**, tetapi sokongan buktinya lemah: **0 ujian klinikal** dan **2 penerbitan** (satu kajian prasiklinikal in vitro dan satu kajian mengenai virus lain, HTLV-1).
 
-## Gambaran Keseluruhan Pantas
+---
 
-| Item | Kandungan |
+## Gambaran Ringkas
+
+| Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tidak didedahkan dalam teks lesen NPRA (kesemua 5 rekod lesen sampel mempunyai teks `approved_indication_text` kosong) |
-| Indikasi Baru Diramalkan | Penyakit Berjangkit HIV |
+| Indikasi Asal | Tiada data (tiada lesen NPRA direkodkan) |
+| Indikasi Baharu yang Diramalkan | Jangkitan HIV (HIV infectious disease) |
 | Skor Ramalan TxGNN | 99.91% |
-| Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 8 |
-| Keputusan Yang Disyorkan | Tunggu |
+| Tahap Bukti | L4 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
-## Mengapa Ramalan Ini Masuk Akal?
+---
 
-Data mekanisme tindakan terperinci untuk fulvestrant tidak tersedia dalam pakej bukti ini. Berdasarkan maklumat yang diketahui, fulvestrant ialah peredam reseptor estrogen terpilih (SERD) yang mengikat dan mempercepatkan degradasi reseptor estrogen; keberkesanannya dalam kanser payudara positif reseptor hormon telah terbukti dengan baik.
+## Mengapa Ramalan Ini Munasabah?
 
-Tiada laluan farmakologi yang diketahui menghubungkan degradasi reseptor estrogen kepada aktiviti antiretrovirus atau anti-HIV. Satu-satunya item literatur yang dikembalikan untuk ramalan ini ialah analisis omik silang 2025 mengenai mielopati berkaitan HTLV-1 (HAM) — penyakit neuroinflamasi yang disebabkan oleh retrovirus yang berbeza (HTLV-1, bukan HIV) — dan ia tidak menyebut fulvestrant, pensinyalan estrogen, atau sebarang mekanisme anti-HIV.
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, fulvestrant ialah antagonis reseptor estrogen (ER) yang juga mendegradasikan reseptor tersebut, dan mekanisme ini mungkin relevan kepada jangkitan HIV melalui laluan ER dalam sel imun.
 
-Mengingat ketiadaan sambungan mekanisme yang munasabah dan ketiadaan lengkap bukti klinis atau praklinik khusus ubat, ramalan TxGNN ini harus dianggap sebagai artifak model berskor tinggi yang tidak disahkan bukannya isyarat penjelmaan semula ubat yang tulen.
+Reseptor estrogen alfa (ERα) terdapat dalam sel T CD4+ dan nampaknya mempengaruhi kependaman (latensi) HIV. Kajian 2026 (PMID 42430506) meneliti kesan ligan ER dan agen pembalik latensi terhadap ERα dalam sel ini, dan menggunakan fulvestrant sebagai alat untuk menyiasat laluan tersebut. Ini mengaitkan fulvestrant dengan pengawalaturan latensi secara munasabah.
 
-## Bukti Uji Klinis
+Namun, bukti ini bersifat prasiklinikal dan tidak langsung. Skor TxGNN yang sangat tinggi hanyalah ramalan model, dan tiada ujian klinikal wujud. Hubungan dengan indikasi asal tidak dapat dinilai kerana indikasi asal tidak direkodkan.
 
-Pada masa kini tiada uji klinis berkaitan yang berdaftar.
+---
+
+## Bukti Ujian Klinikal
+
+Buat masa ini tiada ujian klinikal berkaitan didaftarkan.
+
+---
 
 ## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [40343334](https://pubmed.ncbi.nlm.nih.gov/40343334/) | 2025 | Analisis Omik Silang (pra-cetak) | Research Square | Kajian omik silang berbilang kohort mengenai mekanisme mielopati berkaitan HTLV-1 (HAM) dan sasaran terapeutik; tidak menangani HIV atau fulvestrant. |
+| [42430506](https://pubmed.ncbi.nlm.nih.gov/42430506/) | 2026 | Kajian prasiklinikal/in vitro | JCI Insight | Menilai kesan estrogen dan agen pembalik latensi HIV terhadap translokasi nuklear ERα dalam sel T CD4+, termasuk penggunaan fulvestrant sebagai antagonis ER |
+| [40343334](https://pubmed.ncbi.nlm.nih.gov/40343334/) | 2025 | Analisis cross-omics berbilang kohort | Research Square | Mengenai myelopati berkaitan HTLV-1 (virus berbeza, bukan HIV); kurang relevan secara langsung |
 
-## Maklumat Pasaran Malaysia
+---
 
-Pakej bukti mengesahkan fulvestrant dipasarkan di Malaysia (status pasaran: Dipasarkan) dengan **8** pendaftaran NPRA yang aktif. Walau bagaimanapun, rekod lesen yang dikembalikan tidak mengandungi nombor lesen, nama produk, bentuk dos, atau teks indikasi, jadi jadual setiap lesen tidak dapat dihasilkan daripada data ini.
+## Keselamatan
 
-## Pertimbangan Keselamatan
+- **Penyakit yang dikaitkan sebagai kontraindikasi dalam graf pengetahuan (PrimeKG, bukan teks label):** penyakit hati, penyakit pundi hempedu, trombositopenia dan gangguan pembekuan darah.
+- **Interaksi Ubat:** 92 interaksi direkodkan, antaranya pantoprazol, morfin, metformin, omeprazol, lansoprazol, prednison, simvastatin, kalium klorida, ranitidin, ondansetron, metronidazol, famotidin, asid asetilsalisilik, palonosetron, bupropion, kalsium klorida, metoklopramid, deksametason, prometazin dan warfarin. Tahap keterukan semuanya "tidak diketahui".
 
-Sila rujuk risalah produk untuk maklumat keselamatan.
+Untuk amaran utama dan kontraindikasi rasmi, sila rujuk sisipan pakej.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tunggu**
+**Keputusan: Hold**
 
-**Alasan:**
-Indikasi HIV hanya disokong oleh skor model TxGNN (L5, tahap keputusan S0) — tiada uji klinis dan hanya satu penerbitan tidak berkaitan (HTLV-1), tanpa alasan mekanisme yang menghubungkan degradasi ER kepada aktiviti antiretrovirus.
+**Rasional:**
+- Ramalan HIV hanya disokong oleh satu kajian in vitro dan skor model, tanpa ujian klinikal. Ubat ini juga tidak berdaftar di Malaysia dan maklumat keselamatan daripada label tiada.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Amaran risalah produk TFDA/NPRA dan kontraindikasi (kini menghalang jurang data DG001) sebelum sebarang pemeriksaan keselamatan S1 dapat dimulakan
-- Data mekanisme tindakan terperinci (MOA) (kini jurang data yang berat DG002)
-- Kajian praklinik atau mekanisme khusus yang khusus menguji fulvestrant terhadap sasaran HIV/retrovirus, kerana literatur sedia ada tidak menangani indikasi ini
-- Teks indikasi asal yang disahkan dan butiran lesen lengkap daripada NPRA (rekod semasa kosong)
+- Muat turun dan huraikan sisipan pakej NPRA bagi amaran dan kontraindikasi (jurang data yang menyekat).
+- Data mekanisme tindakan (MOA) terperinci daripada DrugBank.
+- Pengesahan indikasi asal dan status pendaftaran; fulvestrant ialah ubat kanser payudara yang mapan, maka status "tidak dipasarkan" dan indikasi asal kosong mungkin menunjukkan jurang kualiti data.
+- Kajian prasiklinikal tambahan mengenai kesan antagonisme/degradasi ER terhadap latensi HIV, sebelum sebarang ujian klinikal dipertimbangkan.
 
+---
+
+## Nota Mengenai Ramalan Lain
+
+Sembilan ramalan lain tidak disyorkan untuk diteruskan pada peringkat ini:
+
+- **Neoplasia endokrin berganda** (skor 99.85%): ujian yang disenaraikan hampir semuanya melibatkan kanser payudara HR+/HER2-, dengan fulvestrant sebagai pembanding atau tulang belakang gabungan, bukan MEN. Kaitan ini mungkin hasil padanan kata kunci "endokrin".
+- **Artritis reumatoid** (skor 99.58%): kajian haiwan menunjukkan sekatan estrogen boleh memburukkan keradangan, jadi antagonisme ER mungkin memudaratkan. Arah kesannya tidak pasti.
+- **Jangkitan virus imunodefisiensi simia, sindrom imunodefisiensi kucing, jerawat, dan beberapa penyakit genetik jarang** (gangguan neurodevelopmen, sindrom brakidaktili-sindaktili, hemoglobinopati, sindrom displasia mikroftalmia-koloboma): tiada ujian, tiada literatur dan tiada mekanisme yang disokong; ramalan hanya berasaskan graf.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

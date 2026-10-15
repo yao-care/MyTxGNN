@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Acetazolamide
-parent: High Evidence (L1-L2)
+parent: Low Evidence (L4-L5)
 nav_order: 19
-evidence_level: L2
+evidence_level: L5
 indication_count: 10
 ---
 
 # Acetazolamide
 {: .fs-9 }
 
-Tahap bukti: **L2** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,109 +29,97 @@ Tahap bukti: **L2** | Indikasi diramal: **10**
 
 </div>
 
-# Acetazolamide: Daripada Glaukoma dan Edema Hingga kepada Kardiomiopati
+# Acetazolamide: Daripada Penunjuk Asal Tidak Diketahui kepada Hipertermia Malignan Akibat Senaman
 
 ## Ringkasan Satu Ayat
 
-Acetazolamide ialah inhibitor karbonik anhidrasis yang telah diteguhkan dengan baik dengan indikasi terdaftar termasuk glaukoma dan diuresis; bagaimanapun, teks indikasi terdaftar khusus Malaysia yang terperinci tidak dapat diambil daripada pakej bukti ini.
-Model TxGNN meramalkan ia mungkin berkesan untuk **Kardiomiopati** (khususnya kegagalan jantung akut yang mengalami dekompensasi dengan rintangan diuretik) — disenaraikan #7 mengikut skor TxGNN tetapi **#1 mengikut kualiti bukti** dalam kalangan sepuluh indikasi yang dinilai.
-Arah ini disokong oleh **3 percubaan klinikal yang aktif** (semua Fasa 4, jumlah enrolmen 1,805) dan **10 penerbitan**, dengan RCT Fasa 3 mercu tanda ADVOR (NEJM 2022) memberikan pengesahan luaran tambahan yang tidak ditangkap dalam pakej bukti ini.
+Data yang dikumpulkan untuk laporan ini tidak mencatatkan penunjuk asal (indikasi diluluskan) bagi acetazolamide di Malaysia, kerana tiada lesen berdaftar ditemui.
+Model TxGNN meramalkan ia mungkin berkesan untuk **hipertermia malignan akibat senaman** dengan skor sangat tinggi (99.95%), tetapi ini ramalan komputasi semata-mata.
+Pada masa ini terdapat **0 percubaan klinikal** dan **0 penerbitan** yang menyokong indikasi ini.
 
 ---
 
-## Gambaran Pantas
+## Gambaran Ringkas
 
 | Item | Kandungan |
-|------|-----------|
-| Indikasi Asal | Tidak dapat diambil — semua medan teks indikasi produk terdaftar Malaysia kosong dalam pakej bukti ini |
-| Indikasi Baru Ramalan | Kardiomiopati |
-| Skor Ramalan TxGNN | 99.83% (kedudukan #7 mengikut TxGNN; kedudukan #1 mengikut kualiti bukti) |
-| Tahap Bukti | L2 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 3 |
-| Keputusan yang Disyorkan | Teruskan dengan Langkah Keselamatan |
-
-> **Nota mengenai pemilihan ramalan:** Ramalan berskor tertinggi TxGNN (hipertermia ganas teraruh latihan, 99.95%) membawa bukti L5 dengan cadangan **Tahan**, dan tiada percubaan klinikal atau penerbitan yang menyokong. Laporan ini memberi fokus kepada **Kardiomiopati** sebagai calon yang paling disokong bukti dan boleh dilakukan secara klinikal.
+|------|------|
+| Indikasi Asal | Tiada data (tiada lesen NPRA ditemui) |
+| Indikasi Baharu yang Diramalkan | Hipertermia malignan akibat senaman (exercise-induced malignant hyperthermia) |
+| Skor Ramalan TxGNN | 99.95% |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa kini, data mekanisme tindakan terperinci tidak tersedia daripada pakej bukti. Berdasarkan maklumat yang diketahui, acetazolamide ialah **inhibitor karbonik anhidrasis (CAI)** yang keberkesanannya dalam glaukoma, penyakit ketinggian, dan edema telah diteguhkan dengan baik, dan mekanisme tiub renalnya boleh digunakan secara langsung untuk pengurusan kegagalan jantung.
+Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia buat masa ini. Acetazolamide ialah perencat karbonik anhidrase, dan secara mekanistik perencatan ini mengubah keseimbangan asid-bes serta mungkin mempengaruhi gandingan pengujaan-pengecutan otot. Namun, hubungan ini hanyalah spekulasi dan tidak disokong oleh data yang dikumpulkan.
 
-Acetazolamide menghalang karbonik anhidrasis dalam tubul proksimal ginjal, menyekat penyerapan semula bikarbonat (HCO₃⁻). Dalam pesakit yang menerima diuretik gelung jangka panjang, alkalosis metabolik pampasan secara beransur berkembang, menumpulkan kesan natriuretik diuretik tersebut dan menghasilkan rintangan diuretik. Dengan membalikkan alkalosis metabolik ini, acetazolamide mengembalikan kepekaan diuretik gelung — dan akibatnya, meningkatkan dekongesti cecair dalam kegagalan jantung akut yang mengalami dekompensasi. RCT Fasa 3 ADVOR (NEJM 2022), walaupun tidak ditangkap dalam pakej bukti ini, mengesahkan laluan ini dengan peningkatan yang signifikan secara statistik dalam dekongesti yang berjaya berbanding plasebo.
+Skor TxGNN yang sangat tinggi (kedudukan 1105) mencerminkan persamaan rangkaian pengetahuan, bukan bukti terapeutik. Tiada percubaan klinikal atau literatur untuk mengesahkan ramalan ini.
 
-Kardiomiopati ialah salah satu punca utama kegagalan jantung kronik, dan dekompensasi akut dengan beban isipadu berlebihan dan rintangan diuretik ialah presentasi klinikal yang paling biasa dan mahal. Jambatan mekanistik — perencat karbonik anhidrasis → pembetulan alkalosis metabolik → penyesuaian semula diuretik gelung → dekongesti — menyasarkan dengan tepat keperluan terapeutik yang tidak terpenuhi ini. Tiga percubaan Fasa 4 yang bebas (jumlah n = 1,805) sedang merekrut pesakit dengan profil klinikal yang tepat, mencerminkan keyakinan penyelidik yang luas terhadap hipotesis penggunaan semula ubat.
+Ramalan lain yang berkedudukan tinggi turut dinilai: kardiomiopati hipertrofik, miopati kongenital dengan lebihan filamen nipis, kardiomiopati sirotik, kardiomiopati, halangan usus, dan pseudo-obstruksi usus. Kesemuanya berstatus Hold. Beberapa daripadanya menimbulkan isyarat keselamatan (lihat bahagian Pertimbangan Keselamatan).
 
 ---
 
 ## Bukti Percubaan Klinikal
 
-| Nombor Percubaan | Fasa | Status | Enrolmen | Penemuan Utama |
-|-------------|-------|--------|------------|--------------|
-| [NCT05802849](https://clinicaltrials.gov/study/NCT05802849) | Fasa 4 | Merekrut | 400 | Acetazolamide lisan sebagai tambahan kepada diuretik gelung dalam dekompensasi akut kegagalan jantung kronik (termasuk kardiomiopati); menguji hasil dekongesti pada pesakit dengan LVEF yang terpelihara dan berkurang |
-| [NCT06166654](https://clinicaltrials.gov/study/NCT06166654) | Fasa 4 | Merekrut | 939 | RCT dwibuta berbilang pusat membandingkan diuretik gelung + metolazon berbanding diuretik gelung + acetazolamide berbanding diuretik gelung sahaja dalam kegagalan jantung akut dengan beban isipadu berlebihan; titik akhir utama ialah strategi diuretik optimum untuk pesakit dengan rintangan diuretik gelung |
-| [NCT06092437](https://clinicaltrials.gov/study/NCT06092437) | N/A | Merekrut | 466 | TAILOR-AHF: algoritma diuretik terpersonalisasi yang dipandu natrium air kencing dalam kegagalan jantung dekompensasi akut; acetazolamide ialah opsyen peningkatan dalam algoritma, menilai pemilihan terapi yang dipandu penanda biologi |
+Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Literatur
+
+Pada masa ini tiada literatur berkaitan tersedia untuk indikasi utama ini.
+
+Sebagai rujukan, bagi ramalan kedudukan ke-7 (kardiomiopati) terdapat beberapa penerbitan tidak langsung, antaranya:
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|------|------|---------|--------------|
-| [38806171](https://pubmed.ncbi.nlm.nih.gov/38806171/) | 2025 | Semakan Tahunan | ESC Heart Failure | Pembaruan pengurusan kegagalan jantung 2024; menempatkan strategi diuretik yang berkembang termasuk inhibitor karbonik anhidrasis bersama dengan penghambat SGLT2 dan finerenone dalam penjagaan kegagalan jantung kontemporari |
-| [37169875](https://pubmed.ncbi.nlm.nih.gov/37169875/) | 2023 | Semakan | Eur Heart J Cardiovasc Pharmacother | Semakan farmakotherapi kardiovaskular baru pada 2022, termasuk persetujuan pertama dalam kelas untuk kardiomiopati hipertrofik obstruktif; memberikan landskap farmakologi untuk kemajuan pengurusan kardiomiopati |
-| [30279861](https://pubmed.ncbi.nlm.nih.gov/30279861/) | 2018 | Laporan Kes | J Cardiology Cases | Acetazolamide berjaya membetulkan hipokloremia dan meningkatkan tindak balas diuretik dalam pesakit berusia 87 tahun dengan kegagalan jantung maju dan kardiomiopati hipertrofik; menyerlahkan manipulasi klorida dan pemantauan elektrolit air kencing sebagai penting |
-| [29123889](https://pubmed.ncbi.nlm.nih.gov/29123889/) | 2017 | Laporan Peristiwa Buruk | Acute Medicine & Surgery | ⚠️ Edema paru-paru bukan kardiogenik berlaku 1 jam selepas acetazolamide **IV** dalam pesakit kardiomiopati yang meluas; isyarat keselamatan kritikal yang mencadangkan rute lisan lebih disukai dalam kardiomiopati |
-| [22426904](https://pubmed.ncbi.nlm.nih.gov/22426904/) | 2012 | Kajian Haiwan (ex vivo) | Saudi Medical Journal | Menyiasat kesan acetazolamide pada jantung kelinci terpencil iskemia-reperfusi; memberikan bukti mekanistik praklinikal untuk potensi kardioprotektor |
-| [23571262](https://pubmed.ncbi.nlm.nih.gov/23571262/) | 2014 | Laporan Kes | Indian Journal of Ophthalmology | Acetazolamide lisan digunakan dalam penyakit Danon — kardiomiopati penyimpanan glikogen — untuk pengurusan edema makula sistoid; bukti tidak langsung penggunaan dalam subtip kardiomiopati |
-| [7324871](https://pubmed.ncbi.nlm.nih.gov/7324871/) | 1981 | Siri Kes | Acta Neurologica Scandinavica | Pesakit pada acetazolamide 750–1000 mg/hari untuk kelumpuhan berkala hipokalelamik mengembangkan angina teraruh latihan dengan kemurunduran ST; pemantauan jantung diperlukan semasa terapi dos tinggi |
-| [742352](https://pubmed.ncbi.nlm.nih.gov/742352/) | 1978 | Siri Kes | Acta Neurologica Scandinavica | Bukti ekokardiografi kardiomiopati dalam keluarga kelumpuhan berkala hipokalelamik; mendokumentasikan penglibatan otot jantung berkaitan saluran ion yang relevan dengan mekanisme acetazolamide |
-| [9627326](https://pubmed.ncbi.nlm.nih.gov/9627326/) | 1998 | Siri Kes | Journal of Nuclear Medicine | Aliran darah otak SPECT dalam ensefalomiopati mitokondria; mendokumentasikan kesan vasodilatori acetazolamide pada perfusi tisu, tidak langsung tetapi mekanistik relevan dengan aplikasi jantung |
-| [35619116](https://pubmed.ncbi.nlm.nih.gov/35619116/) | 2022 | Laporan Kes | Journal of Medical Case Reports | Hidrosefali bawaan dengan trisomi 9p dan penyakit jantung bawaan yang wujud bersama; acetazolamide digunakan untuk pengurusan LCR, mengilustrasikan kerumitan pengurusan komorbidat jantung |
+|------|-----|------|------|---------|
+| [30279861](https://pubmed.ncbi.nlm.nih.gov/30279861/) | 2018 | Laporan kes | Journal of Cardiology Cases | Acetazolamide merawat hipoklorémia pada pesakit kegagalan jantung lanjut dengan kardiomiopati hipertrofik |
+| [29123889](https://pubmed.ncbi.nlm.nih.gov/29123889/) | 2017 | Laporan kes (kejadian buruk) | Acute Medicine & Surgery | Edema pulmonari bukan kardiogenik selepas acetazolamide intravena |
+| [22426904](https://pubmed.ncbi.nlm.nih.gov/22426904/) | 2012 | Praklinikal (ex vivo) | Saudi Medical Journal | Kesan acetazolamide pada jantung arnab terpencil yang mengalami iskemia-reperfusi |
+| [37169875](https://pubmed.ncbi.nlm.nih.gov/37169875/) | 2023 | Ulasan | Eur Heart J Cardiovasc Pharmacother | Ulasan umum farmakoterapi kardiovaskular 2022 |
+| [38806171](https://pubmed.ncbi.nlm.nih.gov/38806171/) | 2025 | Ulasan | ESC Heart Failure | Kemas kini umum kegagalan jantung 2024 |
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Tiga produk terdaftar dengan NPRA Malaysia (Status Pasaran: Dipasarkan). Bagaimanapun, butiran lesen individu — termasuk nombor pendaftaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan — tidak berjaya diambil dalam pakej bukti ini. Jadual di bawah mencerminkan jurang data.
-
-| Nombor Kelulusan | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------------------|-------------|-------------|---------------------|
-| (Menunggu pengambilan) | (Menunggu pengambilan) | (Menunggu pengambilan) | (Menunggu pengambilan) |
-| (Menunggu pengambilan) | (Menunggu pengambilan) | (Menunggu pengambilan) | (Menunggu pengambilan) |
-| (Menunggu pengambilan) | (Menunggu pengambilan) | (Menunggu pengambilan) | (Menunggu pengambilan) |
-
-> **Tindakan diperlukan:** Ambil data produk lengkap daripada pangkalan data [Pendaftaran Produk NPRA](https://www.npra.gov.my) menggunakan nama ubat "Acetazolamide" untuk melengkapkan bahagian ini.
+Tiada lesen acetazolamide berdaftar ditemui dalam data NPRA yang dikumpulkan (jumlah lesen: 0). Status: tidak dipasarkan.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan bungkusan untuk maklumat keselamatan. Semua medan data keselamatan (amaran utama, kontraindikasi, interaksi ubat-ubat) tertakluk kepada pengambilan dalam pakej bukti ini.
+**Interaksi Ubat** (pertanyaan selesai; jumlah 100 interaksi direkodkan, sebahagian disenaraikan):
+- **Major**: asid asetilsalisilat (aspirin), cisapride
+- **Moderate**: ubat antidiabetik (acarbose, acetohexamide, albiglutide, alogliptin, canagliflozin, chlorpropamide, dapagliflozin, dulaglutide), amphotericin B (dan formulasi lipid/liposomal/kolesteril sulfat), kortikosteroid (beclomethasone, betamethasone, dexamethasone), bisacodyl, minyak kastor
+- **Minor**: doxycycline
 
-> **Isyarat khusus yang dikenal pasti daripada kesusasteraan (tertakluk kepada pengesahan sisipan bungkusan formal):**
-> - **Risiko rute IV:** Edema paru-paru bukan kardiogenik dilaporkan selepas acetazolamide **IV** dalam pesakit kardiomiopati (PMID 29123889); **rute lisan sangat disukai** dalam indikasi ini.
-> - **Pemantauan elektrolit:** Kesan jantung berkaitan hipokalelamia didokumentasikan dalam siri kes (PMID 7324871); penggunaan diuretik gelung serentak meningkatkan risiko ini — pemantauan rapat kalium serum, klorida, dan natrium diperlukan.
+**Isyarat keselamatan daripada literatur dan penilaian ramalan:**
+- Laporan kes ileus adinamik akibat acetazolamide (PMID 19653068) dan ileus paralitik akibat ubat (PMID 13659695), yang bertentangan dengan ramalan halangan usus dan pseudo-obstruksi usus.
+- Edema pulmonari bukan kardiogenik selepas acetazolamide intravena (PMID 29123889).
+- Pada pesakit sirosis, acetazolamide boleh mencetuskan ensefalopati hepatik melalui pengekalan ammonia renal akibat pengalkalian air kencing, satu kebimbangan untuk ramalan kardiomiopati sirotik.
+
+Sila rujuk sisipan pek untuk maklumat amaran dan kontraindikasi yang lengkap.
 
 ---
 
-## Kesimpulan dan Langkah-Langkah Seterusnya
+## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Teruskan dengan Langkah Keselamatan**
+**Keputusan: Hold**
 
-**Alasan:**
-Tiga RCT Fasa 4 (jumlah enrolmen 1,805) sedang menguji acetazolamide lisan untuk kegagalan jantung akut yang mengalami dekompensasi/kardiomiopati, dan laluan perencat karbonik anhidrasis → pembetulan alkalosis metabolik → penyesuaian semula diuretik gelung bersifat luaran yang disahkan oleh RCT Fasa 3 ADVOR (NEJM 2022). Acetazolamide telah dipasarkan di Malaysia (3 pendaftaran), dan bentuk lisan tidak memberikan halangan keserasian rute untuk indikasi ini.
+**Rasional:**
+- Ramalan ini hanya berasaskan model (L5) tanpa percubaan klinikal, literatur atau lesen tempatan, dan beberapa ramalan lain mempunyai isyarat keselamatan yang bercanggah dengan kesan terapeutik.
 
-**Untuk meneruskan, berikut diperlukan:**
-
-- **Pengambilan data kawal selia:** Muat turun butiran pendaftaran NPRA Malaysia (nama produk, bentuk dos, indikasi yang diluluskan) dan PDF sisipan bungkusan untuk mengisi jurang data semasa
-- **Dokumentasi MOA:** Pertanyaan API DrugBank (ID DrugBank pada masa kini kosong) untuk melengkapkan rekod mekanisme tindakan
-- **Protokol keselamatan rute:** Hadkan penggunaan ke **rute lisan sahaja** dalam pesakit kardiomiopati; pemberian IV membawa risiko edema paru-paru yang didokumentasikan
-- **Rancangan pemantauan elektrolit:** Tetapkan pemantauan wajib K⁺ serum, Cl⁻, Na⁺, dan bikarbonat pada garis asas dan semasa rawatan, memandangkan risiko penyusutan elektrolit berkaitan diuretik gabungan
-- **Pemantauan bukti:** Pantau selesainya NCT05802849 (n = 400, dijangka Disember 2025) dan NCT06166654 (n = 939, dijangka September 2027) untuk tahap bukti yang ditingkatkan kepada L1
-- **Penjelasan skop:** Sahkan sama ada populasi pesakit Malaysia yang sasaran (kegagalan jantung akut/kardiomiopati dengan rintangan diuretik) jatuh dalam atau di luar label yang diluluskan Malaysia semasa, untuk menentukan sama ada protokol penggunaan luar label atau permohonan perluasan label diperlukan
-
+**Untuk diteruskan, perkara berikut diperlukan:**
+- Sisipan pek NPRA (amaran dan kontraindikasi), yang merupakan jurang data yang menyekat penyaringan keselamatan.
+- Data mekanisme tindakan (MOA) daripada DrugBank untuk analisis hubungan mekanistik.
+- Pengesahan status pendaftaran dan indikasi asal di Malaysia.
+- Kajian praklinikal atau literatur khusus yang menghubungkan acetazolamide dengan hipertermia malignan akibat senaman.
+- Penilaian keserasian laluan pentadbiran dan kesamaan dengan indikasi asal (kedua-duanya masih belum dinilai).
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

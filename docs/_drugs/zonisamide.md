@@ -2,7 +2,7 @@
 layout: default
 title: Zonisamide
 parent: Low Evidence (L4-L5)
-nav_order: 700
+nav_order: 737
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,78 +29,139 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Zonisamide: Dari Epilepsi ke Sindrom Tourette
+# Zonisamide: Daripada Epilepsi kepada Sindrom Tourette
 
 ## Ringkasan Satu Ayat
 
-Zonisamide adalah ubat antiepilepsi (AED) yang pada asalnya digunakan untuk merawat epilepsi, termasuk sawan separa dan ketiadaan. Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom Tourette**, dengan skor pengiraan yang sangat tinggi, tetapi **tiada ujian klinikal dan tiada kesusasteraan yang diterbitkan** pada masa ini menyokong ramalan khusus ini — ia hanyalah isyarat yang dihasilkan oleh model sahaja.
+Zonisamide ialah ubat antikonvulsan (anti-sawan) yang menyekat saluran natrium bergantung voltan dan saluran kalsium jenis-T. Model TxGNN meramalkan ia mungkin berkesan untuk **Sindrom Tourette** (skor tertinggi), tetapi **tiada percubaan klinikal** dan **tiada literatur** yang menyokong ramalan ini setakat ini. Antara 10 ramalan teratas, hanya **absence epilepsy** dan **gangguan bipolar mania** mempunyai literatur yang bermakna, manakala **fibromialgia** hanya mempunyai satu percubaan yang ditarik balik.
+
+> Nota: Data yang dikumpulkan untuk laporan ini tidak menyenaraikan indikasi asal yang diluluskan di Malaysia. Penilaian di bawah merujuk kepada penggunaan anti-sawan yang sedia diketahui bagi zonisamide.
 
 ---
 
-## Gambaran Singkat
+## Gambaran Keseluruhan Pantas
 
-| Item | Kandungan |
+| Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Epilepsi (sawan separa/ketiadaan) — disimpulkan daripada bukti dalam paket ini; teks label Malaysia tidak ditangkap dalam set data |
-| Indikasi Baru yang Diprediksi | Sindrom Tourette |
-| Skor Prediksi TxGNN | 99.85% |
+| Indikasi Asal | Epilepsi / sawan separa (berdasarkan penggunaan klinikal yang diketahui; tiada teks indikasi berlesen dalam data) |
+| Indikasi Baharu yang Diramalkan | Sindrom Tourette |
+| Skor Ramalan TxGNN | 99.85% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Pasaran (Pasaran) |
-| Bilangan Pendaftaran | 1 |
-| Keputusan yang Disyorkan | Tahan |
+| Status Pasaran Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (Tahan) |
+
+**Ramalan lain yang disenaraikan (10 teratas):**
+
+| Kedudukan | Penyakit | Skor TxGNN | Tahap Bukti | Syor |
+|------|------|------|------|------|
+| 1 | Sindrom Tourette | 99.85% | L5 | Hold |
+| 2 | Trikotilomania | 99.78% | L5 | Hold |
+| 3 | Methemoglobinemia, jenis alfa | 99.64% | L5 | Hold |
+| 4 | Methemoglobinemia | 99.63% | L5 | Hold |
+| 5 | Angina Prinzmetal | 99.55% | L5 | Hold |
+| 6 | Kekurangan methemoglobin reduktase | 99.53% | L5 | Hold |
+| 7 | Gangguan afektif bipolar mania | 99.35% | L4 | Soalan Penyelidikan |
+| 8 | Absence epilepsy | 99.24% | L4 | Soalan Penyelidikan |
+| 9 | Fibromialgia | 99.20% | L4 | Soalan Penyelidikan |
+| 10 | Konjunktivitis | 99.16% | L5 | Hold |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme kerja terperinci tidak tersedia (jurang data DG002). Berdasarkan maklumat yang diketahui, zonisamide adalah sebahagian daripada kelas ubat antiepilepsi (AED) — sulfonamid terbitan benzisoksazol yang bertindak melalui penyekatan saluran Na⁺/T-type Ca²⁺ dan, pada tahap yang lebih rendah, modulasi dopaminergik/serotoninergik. Keberkesanannya dalam epilepsi telah ditetapkan dengan baik melalui penggunaan klinikal selama beberapa dekad.
+Data mekanisme tindakan terperinci (MOA) tidak tersedia daripada data yang dikumpulkan. Berdasarkan maklumat yang diketahui, zonisamide menyekat saluran natrium bergantung voltan dan saluran kalsium jenis-T, serta merencat karbonik anhidrase secara lemah. Hubungan dengan litar tik dalam Sindrom Tourette bersifat **spekulatif**.
 
-Untuk sindrom Tourette, rasional yang dicadangkan bergantung pada aktiviti penyesuai dopamin zonisamide, yang secara teoretis serupa dengan ubat antiepilepsi lain yang kadang-kadang digunakan di luar label untuk gangguan tik. Walau bagaimanapun, ini adalah pautan mekanistik yang semata-mata teoretis — paket bukti itu sendiri secara eksplisit menyatakan bahawa tiada ujian klinikal atau kesusasteraan pada masa ini untuk menyokong indikasi khusus ini. Oleh itu, ramalan ini harus dianggap sebagai isyarat penjana hipotesis dan bukannya calon penyusunan semula tujuan yang didukung bukti.
+Satu ulasan yang diperoleh (PMID 36005856) menerangkan tik yang disebabkan oleh ubat anti-sawan. Ini lebih merupakan **isyarat keselamatan** berbanding sokongan terhadap ramalan.
 
-Adalah patut untuk diingat bahawa paket bukti ini juga mengandungi ramalan kedudukan lebih rendah tetapi jauh lebih disokong untuk ubat yang sama — terutamanya **epilepsi ketiadaan** (Tahap Bukti L1, Uji Rawak Terkawal Fasa 3 dengan n=583, "Teruskan dengan Perlindungan") dan **gangguan afektif bipolar manik** (Tahap Bukti L2, satu ujian rawak terkawal ditambah ulasan sistemik, "Soalan Penyelidikan"). Ini mewakili peluang penyusunan semula tujuan yang lebih kuat dalam jangka pendek daripada sindrom Tourette dan mungkin berpatutan untuk penilaian berasingan.
-
----
-
-## Bukti Ujian Klinikal
-
-Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
+Antara ramalan lain, yang paling munasabah dari segi mekanisme ialah **absence epilepsy**, kerana sekatan saluran kalsium jenis-T berkait langsung dengan ayunan talamokortikal. **Gangguan bipolar** juga munasabah kerana mekanisme serupa dengan antikonvulsan lain yang digunakan dalam bipolar. Sebaliknya, ramalan **methemoglobinemia** dan **konjunktivitis** tidak mempunyai mekanisme yang boleh dipercayai dan mungkin mencerminkan artifak jarak rangkaian dalam graf pengetahuan.
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Percubaan Klinikal
 
-Pada masa ini tiada kesusasteraan berkaitan yang tersedia.
+Tiada percubaan klinikal berdaftar untuk Sindrom Tourette (ramalan utama).
+
+Untuk ramalan lain, satu percubaan ditemui:
+
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
+|---------|------|------|------|---------|
+| [NCT00259636](https://clinicaltrials.gov/study/NCT00259636) | Fasa 4 | Ditarik balik | 0 | Zonisamide vs plasebo untuk fibromialgia dan migrain; ditarik balik tanpa peserta, jadi tiada data keberkesanan |
+
+---
+
+## Bukti Literatur
+
+Tiada literatur berkaitan untuk Sindrom Tourette (ramalan utama). Berikut ialah literatur terpilih bagi ramalan lain.
+
+**Absence epilepsy (kedudukan 8):**
+
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [35363878](https://pubmed.ncbi.nlm.nih.gov/35363878/) | 2022 | Meta-analisis rangkaian | Cochrane Database Syst Rev | Perbandingan monoterapi ubat antiepilepsi |
+| [23350722](https://pubmed.ncbi.nlm.nih.gov/23350722/) | 2013 | Kajian bukti ILAE | Epilepsia | Tahap bukti ubat antiepilepsi sebagai monoterapi awal |
+| [29898971](https://pubmed.ncbi.nlm.nih.gov/29898971/) | 2018 | Garis panduan | Neurology | Kemas kini garis panduan AAN/AES untuk epilepsi baru dikesan |
+| [15847848](https://pubmed.ncbi.nlm.nih.gov/15847848/) | 2005 | Kajian carta | Epilepsy Res | 23 daripada 45 pesakit (51.1%) bebas daripada sawan absence dengan zonisamide |
+| [24907183](https://pubmed.ncbi.nlm.nih.gov/24907183/) | 2014 | Siri kes kecil | Epilepsy Res | Kesan zonisamide pada epilepsi absence juvenil yang rintang ubat |
+| [15634623](https://pubmed.ncbi.nlm.nih.gov/15634623/) | 2004 | Kajian retrospektif | Epileptic Disord | Keberkesanan dan toleransi zonisamide dalam epilepsi mioklonik juvenil (15 pesakit) |
+| [28481729](https://pubmed.ncbi.nlm.nih.gov/28481729/) | 2017 | Ulasan sistematik | Expert Opin Pharmacother | Ubat antikonvulsan untuk sawan tonik-klonik umum |
+
+**Gangguan bipolar mania (kedudukan 7):**
+
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [17163811](https://pubmed.ncbi.nlm.nih.gov/17163811/) | 2007 | Kajian label terbuka (rintis) | Expert Opin Pharmacother | Zonisamide untuk kemurungan bipolar; keberkesanan dan toleransi dinilai |
+| [22575611](https://pubmed.ncbi.nlm.nih.gov/22575611/) | 2013 | Ulasan sistematik | Int J Neuropsychopharmacol | Antikonvulsan dalam kemurungan bipolar akut |
+| [12938867](https://pubmed.ncbi.nlm.nih.gov/12938867/) | 2003 | Ulasan | Ann Clin Psychiatry | Zonisamide dan topiramate boleh menurunkan berat badan |
+| [12000201](https://pubmed.ncbi.nlm.nih.gov/12000201/) | 2002 | Ulasan | J Clin Psychiatry | Keberkesanan antikonvulsan generasi ketiga dalam bipolar |
+| [2109869](https://pubmed.ncbi.nlm.nih.gov/2109869/) | 1990 | Laporan kes | Psychosomatics | Mania yang disebabkan zonisamide (isyarat keselamatan) |
+
+**Sindrom Tourette (isyarat keselamatan):**
+
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [36005856](https://pubmed.ncbi.nlm.nih.gov/36005856/) | 2022 | Ulasan | Expert Rev Neurother | Ubat anti-sawan boleh mencetuskan gangguan obsesif-kompulsif dan tik |
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Zonisamide mempunyai 1 lesen pendaftaran di Malaysia (status pasaran: Pasaran), tetapi nombor lesen, nama produk, bentuk dos, pengeluar, dan teks indikasi yang diluluskan tidak ditangkap dalam set data semasa. Ini mesti bersumber daripada NPRA secara langsung sebelum meneruskan.
+Zonisamide kini berstatus **tidak dipasarkan** dan tiada pendaftaran (0 lesen) dalam data yang dikumpulkan. Status ini perlu disahkan semula kerana ia mungkin tidak mencerminkan kelulusan serantau.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan paket untuk maklumat keselamatan (amaran label TFDA/NPRA dan kontraindikasi adalah jurang data yang menghalang — DG001).
+Maklumat amaran dan kontraindikasi daripada sisipan pakej tidak tersedia. Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-Nota: Zonisamide adalah sebatian terbitan sulfonamid. Entri lain dalam paket bukti ini (ramalan indikasi untuk methem​oglobinemia dan kekurangan enzim yang berkaitan) menandakan bahawa ubat kelas sulfonamid adalah **faktor risiko yang diketahui untuk membangkitkan methem​oglobinemia**, dan bukannya rawatan untuknya. Ini harus dianggap sebagai isyarat keselamatan untuk pemantauan, bukan peluang penyusunan semula tujuan, dan harus dimasukkan ke dalam sebarang ulasan keselamatan ubat ini pada masa depan.
+**Penyakit yang dikaitkan dengan kontraindikasi dalam graf pengetahuan (bukan teks label):**
+- Penyakit psikiatri: gangguan kebimbangan, gangguan neurotik, gangguan distimik, gangguan psikotik, skizoafektif, gangguan mental
+- Buah pinggang dan hempedu/hati: penyakit buah pinggang, nefrolitiasis, penyakit hati, penyakit pundi hempedu, nefropati urat akut
+- Metabolik: asidosis, asidosis metabolik
+- Hematologi: agranulositosis, neutropenia (termasuk pelbagai bentuk neutropenia kongenital)
+- Lain-lain: penyakit cirit-birit
+
+**Interaksi ubat (100 interaksi dikesan; contoh utama):**
+- **Major:** antikolinergik seperti atropin, hiosiamin, skopolamin, glikopironium, disiklomin, trospium, klidinium, propantelin, metskopolamin, mepenzolat; serta metformin
+- **Moderate:** aprepitan, morfin, deksametason, simetidin, klaritromisin, dronabinol, nabilon, metoklopramid, mikonazol
+
+**Isyarat keselamatan khusus indikasi:** laporan mania akibat zonisamide (PMID 2109869) dan tik/OCD akibat ubat anti-sawan (PMID 36005856) perlu dipertimbangkan.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold (Tahan)**
 
-**Dasar Pemikiran:**
-Ramalan sindrom Tourette disokong hanya oleh skor model TxGNN (L5) tanpa ujian klinikal atau kesusasteraan yang menyokong. Digabungkan dengan ketiadaan data mekanisme kerja dan pelabelan keselamatan TFDA/NPRA (kedua-duanya jurang data yang tertunggak), terdapat bukti yang tidak mencukupi untuk memajukan indikasi ini pada masa ini.
+**Justifikasi:**
+- Ramalan utama (Sindrom Tourette) hanya berasaskan skor model (L5), tanpa percubaan atau literatur, dan terdapat isyarat keselamatan berkaitan tik. Ramalan lain yang lebih munasabah (absence epilepsy, bipolar) berada pada L4 dan wajar dirawat sebagai soalan penyelidikan, bukan untuk diteruskan secara klinikal.
 
-**Untuk meneruskan, berikut diperlukan:**
-- Data mekanisme kerja zonisamide (DG002)
-- Sisipan paket TFDA/NPRA — amaran, kontraindikasi (DG001, menghalang)
-- Butiran pendaftaran Malaysia — nombor lesen, nama produk, bentuk dos, teks indikasi yang diluluskan
-- Bukti praklinikal atau peringkat kes yang secara khusus menghubungkan zonisamide kepada gangguan tik/sindrom Tourette
-- Pertimbangkan penyesuaian semula skop penilaian ke arah calon dengan bukti yang lebih tinggi dalam paket yang sama (epilepsi ketiadaan L1, mania bipolar L2), yang mungkin menawarkan laluan penyusunan semula tujuan yang lebih boleh diambil tindakan dalam jangka pendek
-
+**Untuk diteruskan, perlu:**
+- Memuat turun dan menghurai sisipan pakej NPRA bagi amaran dan kontraindikasi (jurang data menyekat saringan keselamatan)
+- Mendapatkan data MOA terperinci daripada DrugBank
+- Menyelaraskan status pasaran "tidak dipasarkan" dengan kelulusan serantau
+- Mengesahkan reka bentuk kajian zonisamide bagi absence epilepsy dan bipolar (kini kecil atau pemerhatian)
+- Menilai semula ramalan methemoglobinemia dan konjunktivitis sebagai kemungkinan artifak graf pengetahuan
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

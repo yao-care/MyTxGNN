@@ -2,7 +2,7 @@
 layout: default
 title: Nimodipine
 parent: Low Evidence (L4-L5)
-nav_order: 501
+nav_order: 524
 evidence_level: L5
 indication_count: 2
 ---
@@ -29,61 +29,86 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Nimodipine: Dari Pencegahan Vasospasme Serebral ke Hiperkolesterolemia Familial Homozigot
+# Nimodipine: Daripada Perdarahan Subaraknoid kepada Hiperkolesterolemia Familial Homozigot
 
 ## Ringkasan Satu Ayat
 
-Nimodipine ialah penyekat saluran kalsium dihydropyridine yang penggunaan klinikal yang telah ditubuhkan ialah pencegahan vasospasme serebral selepas perdarahan subarachnoid aneurisme. Model TxGNN meramalkan kemungkinan pautan ke **Hiperkolesterolemia Familial Homozigot (HoFH)**, tetapi arah ini kini disokong oleh **0 ujian klinikal** dan **0 penerbitan**, dan kajian mekanistik paket bukti itu sendiri tidak mendapati pautan farmakoloji yang munasabah.
+Nimodipine ialah penyekat saluran kalsium jenis L (kelas dihidropiridina) yang pada asalnya digunakan untuk merawat perdarahan subaraknoid, termasuk perdarahan subaraknoid akibat aneurisma.
+Model TxGNN meramalkan ia mungkin berkesan untuk **hiperkolesterolemia familial homozigot**, tetapi pada masa ini **tiada ujian klinikal** dan **tiada penerbitan** dalam data yang dikumpulkan untuk laporan ini yang menyokong arah ini.
 
-## Gambaran Pantas
+---
+
+## Gambaran Ringkas
 
 | Item | Kandungan |
-|------|-----------|
-| Petunjuk Asal | Tidak ditangkap dalam data pendaftaran; penggunaan klinikal yang diketahui ialah pencegahan vasospasme serebral berikutan perdarahan subarachnoid |
-| Petunjuk Baru yang Diramalkan | Hiperkolesterolemia Familial Homozigot |
+|------|------|
+| Indikasi Asal | Perdarahan subaraknoid (termasuk perdarahan subaraknoid akibat aneurisma) |
+| Indikasi Baharu yang Diramalkan | Hiperkolesterolemia familial homozigot |
 | Skor Ramalan TxGNN | 99.29% |
-| Tahap Bukti | L5 (ramalan model sahaja, tiada kajian sokongan) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 2 |
-| Keputusan yang Disyorkan | Tahan |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (Tangguh) |
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak dapat diambil daripada rekod DrugBank yang ditanya. Berdasarkan farmakologi yang diketahui, nimodipine ialah penyekat saluran kalsium dihydropyridine yang sangat lipofilik yang bertindak pada saluran Ca²⁺ jenis L dalam otot licin vaskular, dan satu-satunya petunjuk yang telah ditubuhkan ialah profilaksis vasospasme serebral selepas perdarahan subarachnoid.
+Data mekanisme tindakan (MOA) terperinci tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, nimodipine tergolong dalam kelas penyekat saluran kalsium dihidropiridina jenis L, dan keberkesanannya dalam perdarahan subaraknoid telah diketahui. Namun, kemungkinan ia sesuai untuk hiperkolesterolemia familial homozigot hanya berasaskan ramalan model.
 
-Patofisiologi HoFH didorong oleh mutasi kehilangan-fungsi homozigot dalam gen reseptor LDL (LDLR), mengganggu pembersihan LDL hepatik — suatu laluan tanpa interaksi yang diketahui dengan pensinyalan saluran kalsium jenis L. Kajian mekanistik paket bukti itu sendiri menyimpulkan bahawa skor TxGNN yang tinggi (0.993) berkemungkinan mencerminkan kedekatan topologi antara nod vaskular/kardiovaskular dalam graf pengetahuan daripada hubungan farmakoloji yang sebenarnya.
+Hiperkolesterolemia familial homozigot disebabkan oleh kecacatan laluan reseptor LDL (LDLR, APOB, PCSK9, LDLRAP1). Laluan ini bukan sasaran jelas bagi penyekatan saluran kalsium. Sesetengah literatur praklinikal mencadangkan penyekat saluran kalsium mungkin mempunyai kesan anti-aterosklerosis atau kesan vaskular, tetapi ini bersifat tidak langsung dan tidak menangani kecacatan metabolisme lipid yang utama.
 
-Calon kedua, sindrom nefrogenik antidiuresis yang tidak sesuai (NSIAD, skor 0.991), juga diramalkan. NSIAD timbul daripada mutasi keuntungan-fungsi dalam AVPR2 (reseptor vasopresin V2), bertindak melalui laluan cAMP saluran pengumpulan ginjal. Walaupun pensinyalan kalsium dan cAMP secara teorinya boleh saling berinteraksi, tiada bukti langsung menyokong penyekat saluran kalsium memodulasi aktiviti reseptor V2 atau merawat gangguan ini. Kedua-dua calon oleh itu mewakili output model keyakinan tinggi tanpa sokongan mekanistik atau klinikal yang sepadan.
+Oleh itu, tiada hubungan mekanistik langsung yang dapat dibuktikan daripada data yang ada. Skor TxGNN yang tinggi (0.993) ialah ramalan pengiraan sahaja.
+
+### Ramalan Lain
+
+Model turut meramalkan **sindrom antidiuresis tidak wajar nefrogenik (NSIAD)** (skor 99.05%, tahap bukti L5, keputusan Hold). Penyakit ini disebabkan varian peningkatan fungsi pada reseptor vasopresin V2 (AVPR2). Penyekatan saluran kalsium mungkin boleh mempengaruhi isyarat kalsium dalam sel duktus pengumpul buah pinggang, tetapi tiada bukti dalam data bahawa nimodipine menjejaskan isyarat reseptor V2 atau pengangkutan akuaporin-2. Kesan hipotensifnya dan penggunaannya dalam keadaan rawatan rapi neurologi (yang sering disertai hiponatremia) merupakan pertimbangan keselamatan tambahan, bukan bukti manfaat.
+
+---
 
 ## Bukti Ujian Klinikal
 
-Pada masa ini tidak ada ujian klinikal yang berkaitan didaftarkan.
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
-## Bukti Kesusasteraan
+---
 
-Pada masa ini tidak ada kesusasteraan yang berkaitan tersedia.
+## Bukti Literatur
+
+Pada masa ini tiada literatur berkaitan tersedia.
+
+---
 
 ## Maklumat Pasaran Malaysia
 
-Nimodipine mempunyai 2 pendaftaran NPRA aktif, tetapi nombor kebenaran, nama produk, bentuk dos, dan teks petunjuk yang diluluskan tidak ditangkap dalam paket bukti ini.
+Nimodipine pada masa ini **tidak dipasarkan** di Malaysia dan tiada pendaftaran yang direkodkan.
+
+---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan bungkusan untuk maklumat keselamatan. Amaran dan kontraindikasi berlabel TFDA/NPRA untuk nimodipine tidak dapat dipulih (ditandai sebagai jurang data Blocking, DG001), jadi pemeriksaan keselamatan S1 tidak dapat diselesaikan pada masa ini. Tiada data interaksi ubat-ubatan ditemui (pencarian tidak mengembalikan hasil).
+- **Penyakit yang dikaitkan dengan kontraindikasi (berdasarkan graf pengetahuan, bukan teks label)**: penyakit hati, penyakit pundi hempedu, gangguan hipotensif.
+- **Interaksi Ubat**: Pertanyaan selesai dengan jumlah 100 interaksi. Antara yang disenaraikan:
+  - **Major**: Clarithromycin, Dolasetron
+  - **Moderate**: Bupropion, Aprepitant, Morphine, Acetylsalicylic acid (aspirin), Cimetidine, Miconazole, Magnesium sulfate, Canagliflozin, Dapagliflozin, Empagliflozin, Kanamycin, Neomycin, Dronabinol, Nabilone, serta garam kalsium (kalsium fosfat, asetat, karbonat, klorida)
+- Memandangkan kesan hipotensif nimodipine, pemantauan tekanan darah perlu dipertimbangkan, terutamanya bagi pesakit yang menerima ubat antihipertensi lain.
+
+Untuk amaran utama dan kontraindikasi daripada label, sila rujuk sisipan pek produk.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-Kedua-dua petunjuk yang diramalkan berada di tahap bukti L5 / peringkat keputusan S0 — skor TxGNN tinggi tanpa sebarang ujian klinikal atau kesusasteraan yang menyokong, dan kajian mekanistik paket bukti itu sendiri tidak mendapati pautan farmakoloji yang munasabah antara penyekatan saluran kalsium jenis-L dan sama ada HoFH yang didorong LDLR atau NSIAD yang didorong AVPR2.
+- Kedua-dua ramalan hanya berasaskan skor model (tahap bukti L5) tanpa sebarang ujian klinikal atau penerbitan, dan hubungan mekanistik dengan penyakit sasaran tidak jelas. Nimodipine juga tidak dipasarkan di Malaysia.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Sisipan bungkusan TFDA/NPRA (amaran, kontraindikasi) — kini satu jurang Blocking
-- Data mekanisme tindakan yang disahkan daripada DrugBank atau kesusasteraan utama
-- Sebarang kajian praklinikal atau mekanistik yang mengaitkan aktiviti penyekat saluran kalsium kepada metabolisme lipid (HoFH) atau pensinyalan reseptor-V2/cAMP (NSIAD)
-- Pemeriksaan semula untuk ujian klinikal atau kesusasteraan secara berkala, kerana pencarian semasa tidak mengembalikan hasil untuk sama ada petunjuk
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) terperinci bagi nimodipine
+- Kajian praklinikal atau mekanistik yang menghubungkan penyekatan saluran kalsium dengan metabolisme LDL (atau isyarat reseptor V2 untuk NSIAD)
+- Amaran dan kontraindikasi daripada sisipan pek produk
+- Penilaian status pendaftaran dan ketersediaan produk di Malaysia, termasuk kesesuaian laluan pentadbiran
+- Pelan pemantauan keselamatan, khususnya bagi risiko hipotensi dan interaksi ubat utama (contohnya penghambat CYP3A4 seperti clarithromycin)
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

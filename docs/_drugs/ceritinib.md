@@ -2,7 +2,7 @@
 layout: default
 title: Ceritinib
 parent: Low Evidence (L4-L5)
-nav_order: 204
+nav_order: 209
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,92 +29,99 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Ceritinib: Daripada Kanser Paru-Paru Sel Bukan Kecil ALK-Positif kepada Fibromatosis Gingiva
+# Ceritinib: Daripada Kanser Paru-paru Bukan Sel Kecil kepada Fibromatosis Gingiva
 
 ## Ringkasan Satu Ayat
 
-Ceritinib adalah penghambat tirosin kinase ALK/ROS1 oral; berdasarkan literatur yang terkandung dalam paket bukti ini (data indikasi asal berstruktur tidak dikembalikan), ia awalnya dikembangkan dan diluluskan untuk **kanser paru-paru sel bukan kecil ALK-positif (NSCLC)**. TxGNN meramalkan kemungkinan aplikasi baru dalam **Fibromatosis Gingiva** dengan skor model yang sangat tinggi, tetapi pada masa kini **0 uji klinis** dan **0 penerbitan** menyokong pasangan khusus ini — ramalan sepenuhnya bergantung pada penilaian berasaskan graf model, tanpa pengesahan mekanis atau klinis yang ditemui.
+Ceritinib ialah perencat kinase ALK/ROS1 yang pada asalnya digunakan untuk merawat kanser paru-paru bukan sel kecil (NSCLC).
+Model TxGNN meramalkan ia mungkin berkesan untuk **fibromatosis gingiva**,
+tetapi **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong arah ini; ramalan ini hanya berasaskan model pengiraan.
 
 ---
 
 ## Gambaran Keseluruhan Pantas
 
-| Perkara | Kandungan |
-|--------|----------|
-| Indikasi Asal | Kanser Paru-Paru Sel Bukan Kecil ALK-Positif (NSCLC)* |
-| Indikasi Baru yang Diramalkan | Fibromatosis Gingiva |
+| Item | Kandungan |
+|------|------|
+| Indikasi Asal | Kanser paru-paru bukan sel kecil (NSCLC) / kanser paru-paru |
+| Indikasi Baharu yang Diramalkan | Fibromatosis gingiva |
 | Skor Ramalan TxGNN | 99.86% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 1 |
-| Keputusan yang Disyorkan | Tahan |
-
-\* Tiada teks indikasi yang diluluskan dikembalikan dalam data kawal selia berstruktur (`taiwan_regulatory.licenses` medan adalah kosong, dan `drug.original_indications` adalah kosong). Indikasi NSCLC di atas disimpulkan daripada literatur yang diambil di tempat lain dalam paket bukti ini (contohnya, PMID 24980964 "Ceritinib: first global approval"; PMID 28126333, uji klinis ASCEND-4 Fasa 3), bukan daripada sumber kawal selia yang disahkan.
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci untuk calon ini dibenderakan sebagai jurang data dalam rekod ubat berstruktur. Berdasarkan maklumat yang tersedia di tempat lain dalam paket bukti ini, Ceritinib adalah penghambat molekul kecil bagi reseptor tirosin kinase ALK (anaplastic lymphoma kinase) dan ROS1, dikembangkan untuk merawat NSCLC bertukar ALK — keganasan yang didorong oleh isyarat ALK fusion onkogenik.
+Data mekanisme tindakan terperinci tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, ceritinib ialah perencat kinase tirosin ALK/ROS1 dan keberkesanannya dalam NSCLC positif ALK telah dibuktikan.
 
-Fibromatosis gingiva, sebaliknya, ialah pertumbuhan jinak, bukan neoplastik jaringan ikat gingiva, biasanya warisan atau teraruh ubat (contohnya, oleh phenytoin, ciclosporin, penghambat saluran kalsium), dan tidak berkaitan dengan penyusunan ulang gen ALK atau isyarat ALK-didorong dalam literatur yang disemak. Tiada uji klinis atau penerbitan dalam paket bukti ini menghubungkan Ceritinib, perencatan ALK, atau biologi ALK kepada patofisiologi fibromatosis gingiva.
+Namun, analisis data yang dikumpulkan untuk laporan ini **tidak menemui hubungan mekanistik** antara ceritinib dengan fibromatosis gingiva. Tiada patologi didorong ALK yang ditetapkan dalam keadaan ini. Skor TxGNN yang tinggi merupakan ramalan pengiraan semata-mata dan mungkin mencerminkan kedekatan dalam graf pengetahuan, bukan asas biologi yang sebenar.
 
-Memandangkan ketiadaan sepenuhnya bukti sokongan dan kekurangan laluan mekanis yang ditubuhkan, ramalan ini harus dianggap sebagai artifak kehampiran graf model TxGNN daripada hipotesis yang berpandukan farmakologi pada masa kini.
+Oleh itu, ramalan ini harus dianggap sebagai hipotesis awal yang belum disahkan.
 
 ---
 
-## Bukti Uji Klinis
+## Bukti Percubaan Klinikal
 
-Pada masa kini tiada uji klinis berkaitan yang didaftarkan.
+Buat masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
-Pada masa kini tiada literatur berkaitan yang tersedia.
+Buat masa ini tiada literatur berkaitan yang tersedia untuk fibromatosis gingiva.
 
 ---
 
-## Maklumat Pasaran Malaysia
+## Penilaian Indikasi Lain yang Diramalkan
 
-Rekod kawal selia Malaysia menunjukkan **1 lesen berdaftar** di bawah status pasaran "Dipasarkan" (Dipasarkan). Nombor lesen, nama produk, bentuk dos, dan teks indikasi yang diluluskan tidak dikembalikan dalam ekstrak data semasa, jadi tiada jadual peringkat lesen yang dapat dihasilkan.
+Sembilan ramalan lain turut disenaraikan. Semuanya berstatus **Hold**.
 
----
-
-## Sitotoksisiti
-
-Ceritinib adalah agen antineoplasmik (penghambat kinase tersasaran yang digunakan dalam onkologi), jadi bahagian ini terpakai.
-
-| Perkara | Kandungan |
-|--------|----------|
-| Klasifikasi Sitotoksisiti | Terapi tersasaran (penghambat tirosin kinase ALK/ROS1) — bukan agen kemoterapia sitotoksik konvensional |
-| Risiko Penindasan Sumsum | Tidak ditubuhkan dalam data yang diambil. Sebagai kelas, penghambat ALK secara umum dikaitkan dengan risiko penindasan sumsum yang lebih rendah daripada kemoterapia sitotoksik konvensional; sila rujuk sisipan pakej untuk data toksisiti hematologi yang disahkan |
-| Klasifikasi Emetogenisiti | Tidak ditubuhkan dalam data yang diambil; sila rujuk sisipan pakej |
-| Perkara Pemantauan | Isyarat keselamatan berkaitan kelas yang dikenalpasti dalam literatur yang diambil (bukan khusus kepada indikasi baru ini) termasuk pemanjangan QT, hepatotoksisiti, dan pneumonitis/tindak balas hipersensitiviti — mencadangkan pemantauan ECG/QTc, ujian fungsi hati (ALT/AST/bilirubin), dan pemantauan gejala pernafasan sebagai pertimbangan yang munasabah |
-| Perlindungan Pengendalian | Tidak ditubuhkan dalam data yang diambil; sila rujuk protokol pengendalian ubat berbahaya institusi dan sisipan pakej |
+| Kedudukan | Penyakit | Skor TxGNN | Tahap Bukti | Catatan |
+|------|------|------|------|------|
+| 2 | Fibroma paru-paru | 99.82% | L5 | Fibroma benigna tiada kebergantungan ALK yang diketahui; kemungkinan didorong oleh kedekatan graf dengan neoplasma paru-paru |
+| 3 | Hamartoma paru-paru | 99.81% | L5 | Tiada mekanisme berkaitan ALK; tiada percubaan atau literatur |
+| 4 | Karsinoma hilum paru-paru | 99.80% | L5 | Kemungkinan subtapak indikasi sedia ada, bukan pelupusan semula yang sebenar |
+| 5 | Neoplasma benigna paru-paru | 99.80% | L4 | 20 penerbitan berkaitan NSCLC positif ALK, hanya bukti tidak langsung |
+| 6 | Tumor sel germa paru-paru | 99.80% | L4 | Literatur mengenai neuroblastoma dan glioblastoma; tiada data khusus |
+| 7 | Neoplasma sulkus pulmonari | 99.80% | L5 | Tumor Pancoast biasanya NSCLC; sebahagian daripada indikasi sedia ada |
+| 8 | Miopati badan inklusi dengan penyakit Paget awal | 99.79% | L5 | Proteinopati mutasi VCP; tiada kaitan dengan isyarat ALK/ROS1 |
+| 9 | Sindrom leukomelanoderma-infantilisme-hipodontia | 99.78% | L5 | Lima kertas yang diperoleh tidak berkaitan (padanan palsu); hanya relevan kepada keselamatan ceritinib |
+| 10 | Epidermolisis bulosa simpang | 99.77% | L5 | Gangguan genetik membran basal; tiada kaitan dengan ALK/ROS1 |
 
 ---
 
-## Pertimbangan Keselamatan
+## Ppertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
+### Interaksi Ubat
+
+Pertanyaan interaksi ubat telah selesai dengan **100 interaksi** dikesan. Antara yang dipaparkan:
+
+- **Major (Utama)**: Triamcinolone, Budesonide
+- **Moderate (Sederhana)**: antara lain perencat pam proton dan antagonis H2 (omeprazole, rabeprazole, famotidine, ranitidine), kortikosteroid (dexamethasone, hydrocortisone, betamethasone), ubat antidiabetes (metformin, pioglitazone, acarbose, alogliptin, canagliflozin, albiglutide), serta aprepitant, loperamide dan bisacodyl
+
+Literatur yang diperoleh turut menyebut risiko pemanjangan QT dan kes hipersensitiviti kepada ceritinib, yang perlu dipantau jika ubat ini dipertimbangkan.
+
+Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi lengkap.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
-**Alasan:**
-Walaupun skor ramalan TxGNN yang sangat tinggi, terdapat sifar uji klinis dan sifar penerbitan yang menyokong Ceritinib untuk fibromatosis gingiva, dan tiada pautan mekanis yang munasabah ditemui — ini adalah bukti model sahaja (L5) dan tidak memenuhi bar untuk meneruskan.
+**Rasional:**
+- Semua ramalan hanya berasaskan model (L5 bagi indikasi utama) tanpa percubaan klinikal, tanpa literatur khusus dan tanpa hubungan mekanistik yang munasabah. Ubat ini juga tidak didaftarkan di Malaysia.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Data indikasi asal dan MOA yang disahkan (kedua-duanya kini jurang data)
-- Sebarang rasional praklinik atau mekanis yang menghubungkan perencatan ALK kepada fibromatosis gingiva
-- Butiran lesen Malaysia penuh (nombor lesen, nama produk, bentuk dos, teks indikasi yang diluluskan)
-- Amaran sisipan pakej TFDA/NPRA, kontraindikasi, dan data DDI (semuanya pada masa kini tidak tersedia)
-- Nota: paket bukti ini mengandungi indikasi yang diramalkan lain untuk Ceritinib dengan bukti yang secara material lebih kuat (contohnya, pangkat 6, "tumor sel kuman paru-paru," L3/S1) yang mungkin menjamin penilaian berasingan sebelum kerja selanjutnya mengenai calon khusus ini
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan terperinci (MOA)
+- Amaran dan kontraindikasi daripada sisipan pakej yang diluluskan
+- Bukti biologi bahawa laluan ALK/ROS1 terlibat dalam fibromatosis gingiva
+- Data praklinikal atau kajian awal yang menyokong keberkesanan
+- Kajian keserasian laluan pemberian dan penilaian kesesuaian formulasi
+- Penilaian semula pilihan yang lebih rapat dengan indikasi sedia ada (contohnya karsinoma hilum paru-paru dan neoplasma sulkus pulmonari), yang pada hakikatnya ialah subset NSCLC
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

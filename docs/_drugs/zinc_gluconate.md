@@ -2,7 +2,7 @@
 layout: default
 title: Zinc Gluconate
 parent: Low Evidence (L4-L5)
-nav_order: 698
+nav_order: 735
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,80 +29,99 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Zinc Gluconate: Daripada Indikasi Asal yang Tidak Tertentukan kepada Anemia Prematuriti
+# Zink Glukonat: Daripada Indikasi Asal (Tidak Direkodkan) kepada Anemia Pramatang
 
 ## Ringkasan Satu Ayat
 
-> Indikasi asal yang diluluskan untuk zinc gluconate tidak didokumenkan dalam pakej bukti ini — rekod kawal selia Taiwan menunjukkan 136 kebenaran pasaran aktif, tetapi tiada teks indikasi peringkat lesen dikembalikan.
-> Model TxGNN meramalkan kemungkinan keberkesanan untuk **Anemia Prematuriti** (skor 99.94%),
-> tetapi ramalan ini pada masa ini **tiada ujian klinikal sokongan atau literatur yang diterbitkan** — ia hanya bergantung pada skor dalaman model.
+Zink glukonat ialah garam zink yang lazim digunakan sebagai suplemen mineral, tetapi data yang disusun untuk laporan ini tidak mencatatkan sebarang indikasi asal yang diluluskan di Malaysia.
+Model TxGNN meramalkan ia mungkin berkesan untuk **anemia pramatang** (skor 99.94%), namun **tiada ujian klinikal** dan **tiada penerbitan** yang menyokong ramalan ini.
+Ramalan ini masih pada tahap model semata-mata dan bimbang tentang keselamatan, kerana zink berlebihan boleh menyebabkan kekurangan kuprum dan anemia.
 
 ---
 
-## Gambaran Keseluruhan Cepat
+## Gambaran Ringkas
 
 | Perkara | Kandungan |
-|--------|---------|
-| Indikasi Asal | Tidak didokumenkan dalam pakej bukti (teks indikasi lesen tidak tersedia) |
-| Indikasi Baru Ramalan | Anemia Prematuriti |
+|------|------|
+| Indikasi Asal | Tiada data indikasi diluluskan dalam data yang disusun |
+| Indikasi Baharu yang Diramalkan | Anemia pramatang (*anemia of prematurity*) |
 | Skor Ramalan TxGNN | 99.94% |
 | Tahap Bukti | L5 |
-| Status Pasaran Taiwan | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 136 |
-| Keputusan Disyorkan | Ditangguhkan |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
-## Mengapa Ramalan Ini Adalah Munasabah?
+## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci bagi zinc gluconate tidak tersedia dalam pakej bukti ini (ditandai sebagai jurang data berisiko tinggi, DG002 — pemulihan: soalan API DrugBank). Berdasarkan farmakologi umum, zinc adalah kofaktor untuk pelbagai metalloenzim, termasuk beberapa yang terlibat dalam hematipoesis, yang merupakan asas keterkaitan mekanis yang dicadangkan oleh model.
+Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, zink glukonat ialah sumber zink, mineral perlu yang terlibat dalam pelbagai laluan enzim, termasuk eritropoiesis serta metabolisme besi dan kuprum.
 
-Alasan penyusunan semula yang dilampirkan pada ramalan spesifik ini menyatakan: *"Zinc adalah kofaktor hematipoetik dan boleh secara teorikal mempengaruhi eritropoesis, tetapi pada masa ini tidak ada bukti langsung yang menyokong zinc gluconate untuk anemia prematuriti."* Ini adalah keterkaitan yang munasabah tetapi sepenuhnya teorikal — tiada data indikasi asal tersedia untuk dibandingkan, dan tiada bukti klinikal atau praklinikal telah dikumpulkan untuk menguji hipotesis.
+Namun, tiada pautan langsung antara zink glukonat dengan anemia pramatang yang disokong oleh data yang disediakan. Sebaliknya, pengambilan zink berlebihan diketahui boleh mendorong kekurangan kuprum dan seterusnya anemia. Ini menimbulkan kebimbangan keselamatan yang serius untuk bayi pramatang, kumpulan yang sangat rentan.
 
-Memandangkan ketiadaan kedua-dua konteks indikasi asal dan perincian MOA, ramalan ini harus dianggap sebagai isyarat penjanaan hipotesis sahaja, bukan sebagai calon yang disokong mekanis.
+Skor TxGNN yang tinggi (kedudukan 1352) hanya menunjukkan hubungan dalam graf pengetahuan, bukan bukti klinikal. Kesamaan dengan indikasi asal tidak dapat dinilai kerana indikasi asal tidak direkodkan.
 
 ---
 
 ## Bukti Ujian Klinikal
 
-Pada masa ini tiada ujian klinikal berkaitan yang didaftar.
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan untuk anemia pramatang.
 
 ---
 
 ## Bukti Literatur
 
-Pada masa ini tiada literatur berkaitan yang tersedia.
+Pada masa ini tiada literatur berkaitan untuk anemia pramatang.
 
 ---
 
-## Maklumat Pasaran Taiwan
+## Maklumat Pasaran Malaysia
 
-Rekod kawal selia Taiwan mengesahkan zinc gluconate dipasarkan dengan **136 lesen aktif**, tetapi perincian peringkat lesen (nombor kebenaran, nama produk, bentuk dos, teks indikasi yang diluluskan) tidak dikembalikan dalam pakej bukti ini — semua medan dalam tatasusunan lesen kosong. Ini adalah isu kelengkapan data dalam pengekstrakan sumber, bukan petunjuk bahawa ubat kekurangan indikasi yang diluluskan.
+Zink glukonat pada masa ini tidak dipasarkan di Malaysia dan tiada lesen berdaftar dalam data yang disusun.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
+- **Interaksi Ubat**: Pangkalan data DDI mencatatkan 100 interaksi. Sebahagian besarnya bertahap *Minor*. Interaksi bertahap **Moderate** yang tersenarai termasuk:
+  - Asid alendronik
+  - Asid risedronik
+  - Ibandronat
+  - Tetrasiklin
+  - Baloxavir marboxil
 
-*(Nota: Data Amaran, kontraindikasi, dan DDI ditandai sebagai jurang data **Menyekat** — DG001 — bermakna calon ini belum lagi boleh memasuki penilaian keselamatan S1. Pemulihan memerlukan memuat turun dan menghurai PDF label TFDA.)*
+  Interaksi bertahap Minor termasuk beberapa imunosupresan dan kortikosteroid (contohnya abatacept, adalimumab, azatioprin, hidrokortison, deksametason, betametason, triamsinolon).
+- **Isyarat keselamatan daripada literatur**: Pengambilan zink berlebihan dilaporkan menyebabkan anemia akibat kekurangan kuprum (laporan kes, PMID 12728841). Zink glukonat intranasal pula dikaitkan dengan anosmia.
+
+Untuk maklumat amaran dan kontraindikasi lengkap, sila rujuk sisipan pakej produk.
+
+---
+
+## Ramalan Lain yang Dinilai (Ringkasan)
+
+| Kedudukan | Indikasi Diramalkan | Skor | Tahap Bukti | Catatan |
+|------|------|------|------|------|
+| 2 | Kecederaan (*injury*) | 99.89% | L4 | Hanya kajian praklinikal haiwan. Ujian Fasa 3 (NCT06290219) menggunakan plasma kaya platelet dan asid hialuronik, bukan zink glukonat, jadi bukan bukti langsung. |
+| 3 | Gangguan percambahan sel | 99.87% | L5 | Hanya kajian toksisiti pada tikus dan kajian disulfiram; tiada bukti klinikal. |
+| 4, 5, 10 | Displasia odontomaksila segmental, displasia sementum-tulang florid, odontodisplasia serantau | ~99.85–99.87% | L5 | Ramalan sahaja. Skor yang sama menunjukkan kemungkinan artifak struktur graf. |
+| 6, 8, 9 | Penyakit perinatal, penyakit mengikut sistem subsel, penyakit iatrogenik | ~99.85–99.87% | L5 | Nod ontologi yang terlalu umum; tidak boleh dilaksanakan. |
+| 7 | Gangguan akibat radiasi atau kimia | 99.86% | L4 | Literatur kebanyakannya tentang toksisiti zink glukonat (anosmia, fotosensitisasi), bukan manfaat terapeutik. |
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Ditangguhkan**
+**Keputusan: Hold**
 
-**Nisbah:**
-Ramalan paling tinggi (Anemia Prematuriti) hanya disokong oleh skor model TxGNN dengan sifar ujian klinikal atau literatur (Tahap Bukti L5). Menambah hal ini, jurang data peringkat ubat **Menyekat** (amaran label TFDA yang hilang/kontraindikasi) menghalang sebarang penyaringan keselamatan awal. Menyemak ramalan 10 teratas yang lain untuk ubat ini (cth, "kecederaan," "gangguan proliferasi sel," "displasia odontomaksila segmental") menunjukkan ia adalah sama ada label ontologi yang terlalu luas dengan bukti yang kebanyakannya tidak relevan yang diambil, atau tiada bukti sama sekali — tiada yang pada masa ini meningkat di atas L5/L4 dengan data yang berkaitan secara langsung dan bertujuan.
+**Rasional:**
+- Ramalan anemia pramatang hanya berasaskan model (L5), tanpa ujian klinikal atau literatur, manakala zink berlebihan boleh menyebabkan anemia, satu risiko serius untuk bayi pramatang.
+- Ramalan lain juga tidak mempunyai bukti klinikal yang menyokong, dan produk ini tidak berdaftar di Malaysia.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- PDF label TFDA (amaran, kontraindikasi) — DG001, menyekat, diperlukan sebelum sebarang penilaian keselamatan S1
-- Pertanyaan MOA DrugBank — DG002, diperlukan untuk menilai dengan wajar kebolehpercayaan mekanis
-- Teks indikasi asal daripada rekod lesen Taiwan (pada masa ini kosong dalam pakej bukti)
-- Pencarian literatur/ujian klinikal yang disasarkan khusus kepada "anemia prematuriti" + zinc, kerana pakej bukti semasa tidak mengembalikan sebarang
-- Penilaian semula sebaik sahaja calon L5 mengumpul sekurang-kurangnya bukti praklinikal (L4) atau pemerhatian (L3) yang disasarkan secara langsung
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisipan pakej NPRA (amaran dan kontraindikasi) untuk penyaringan keselamatan, jika produk berdaftar kelak.
+- Data mekanisme tindakan (MOA) daripada DrugBank.
+- Kajian klinikal atau semakan sistematik tentang zink dan anemia pada bayi pramatang, termasuk dos selamat dan pemantauan kuprum.
+- Penjelasan status pendaftaran dan indikasi asal di Malaysia.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

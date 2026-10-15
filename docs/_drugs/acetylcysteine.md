@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Acetylcysteine
-parent: High Evidence (L1-L2)
+parent: Low Evidence (L4-L5)
 nav_order: 21
-evidence_level: L1
+evidence_level: L5
 indication_count: 5
 ---
 
 # Acetylcysteine
 {: .fs-9 }
 
-Tahap bukti: **L1** | Indikasi diramal: **5** 
+Tahap bukti: **L5** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,124 +29,89 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-# Asetilsistein: Daripada Agen Mukolitik kepada Bronkitis
+# Asetilsisteina: Daripada Keracunan Parasetamol kepada Bronkitis
 
 ## Ringkasan Satu Ayat
 
-Asetilsistein (NAC) ialah sebatian mukolitik dan antioksidan yang telah diakui secara klinikal, dikenali sebagai ekspekoran untuk keadaan pernafasan dan sebagai antidot untuk overdosis asetaminofen.
-Model TxGNN meramalkan ia mungkin berkesan untuk **Bronkitis**,
-dengan **13 percubaan klinikal** dan **18 penerbitan** yang pada masa kini menyokong arah ini.
+Asetilsisteina (N-asetilsisteina, NAC) ialah agen mukolitik dan antioksidan. Ia digunakan sebagai antidot untuk keracunan parasetamol dan untuk penyakit pernafasan yang berkaitan dengan lendir pekat. Model TxGNN meramalkan ia berkesan untuk **bronkitis**, tetapi bronkitis sudah pun tersenarai sebagai indikasi asal dalam graf pengetahuan, jadi ini adalah pengesahan penggunaan sedia ada dan bukan pengalihan guna yang sebenar. Setakat ini terdapat **4 ujian klinikal** dan sekitar **17 penerbitan** (tidak termasuk artikel yang telah ditarik balik) yang menyokong arah ini.
 
 ---
 
-## Gambaran Keseluruhan Pantas
+## Gambaran Ringkas
 
-| Item | Kandungan |
-|------|---------|
-| Indikasi Asal | Agen mukolitik (keadaan pernafasan); antidot overdosis asetaminofen |
-| Indikasi Baru yang Diramalkan | Bronkitis |
-| Skor Ramalan TxGNN | Tidak tersedia (data skor tidak diisi dalam Paket Bukti semasa) |
-| Tahap Bukti | L1 |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 33 |
-| Keputusan yang Disyorkan | Teruskan dengan Pagar Keselamatan |
-
----
-
-## Mengapa Ramalan Ini Boleh Diterima?
-
-Pada masa kini, data mekanisme tindakan terperinci tidak tersedia daripada rekod data kawal selia. Berdasarkan kesusasteraan klinikal dan farmakoloji yang telah diakui dengan baik, asetilsistein (NAC) ialah sebatian mukolitik dan antioksidan yang mengandungi tiol yang tergolong dalam kelas turunan N-asetil. Keberkesanannya dalam menguruskan sekresi pernafasan patologis dan tekanan oksidatif saluran udara telah ditunjukkan sepanjang enam dekad penggunaan klinikal, dan profil farmakoloji anetnya memetakan langsung ke dalam patofisiologi bronkitis.
-
-NAC mengeluarkan kesan melalui tiga laluan pelengkap dan terwajar dengan baik: (1) **Tindakan mukolitik** — NAC membelah ikatan disulfida dalam glikoprotein mukus, mengurangkan kelikatan dan elastisiti sekresi bronkial serta memudahkan ekspektorasi; (2) **Penambahan glutationa (GSH)** — sebagai pendahulu langsung L-sistein, NAC memulihkan simpanan GSH intrasel yang habis oleh tekanan oksidatif kronik dalam epitelium saluran udara yang meradang; (3) **Isyarat anti-radang** — NAC menyekat pengaktifan laluan NF-κB, melemahkan pelepasan sitokin pro-radang dan mengurangkan radang saluran udara neutrofilik yang berterusan.
-
-Ketiga-tiga mekanisme ini memetakan dengan tepat ke dalam ciri-ciri patologis kardinal bronkitis: hipersekresi mukus menyebabkan batuk produktif, cedera tekanan oksidatif pada epitelium bronkial, dan radang saluran udara kronik yang mendorong perkembangan penyakit. Penjajaran mekanistik-penyakit adalah tinggi, dan ramalan model TxGNN sangat disokong oleh badan bukti klinikal yang besar — termasuk RCT Fasa 2–4 yang selesai dan berbilang ulasan sistematik serta analisis Cochrane yang mengesahkan peranan NAC sebagai mukolitik yang aktif secara klinikal dalam populasi bronkitis kronik dan COPD yang bertindih.
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Keracunan parasetamol (antara indikasi asal dalam graf pengetahuan: bronkitis, fibrosis sista, bronkiektasis, amiloidosis). Tiada teks indikasi diluluskan tempatan tersedia. |
+| Indikasi Baharu yang Diramalkan | Bronkitis |
+| Skor Ramalan TxGNN | 0.00% (nilai skor yang direkodkan ialah 0.0, jadi skor ini tidak boleh dijadikan asas penilaian) |
+| Tahap Bukti | L2 mengikut peraturan penilaian (satu ujian Fasa 3 selesai, disokong beberapa meta-analisis dan semakan Cochrane). Syarat L1 (≥2 ujian Fasa 3 RCT selesai) tidak dipenuhi dalam data bronkitis. |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Proceed with Guardrails |
 
 ---
 
-## Bukti Percubaan Klinikal
+## Mengapa Ramalan Ini Munasabah?
 
-| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
-|-------------|------|--------|------------|-------------|
-| [NCT00205647](https://clinicaltrials.gov/study/NCT00205647) | Fasa 2 | Selesai | 240 | Percubaan berpusat berbilang, rawak, dikawal plasebo yang menilai tiga dos NAC oral pada kelikatan sputum, sifat pengangkutan, simptom, kualiti hidup, dan kadar eksaserbasi pada pesakit dengan bronkitis kronik stabil; bukti teras paling langsung untuk indikasi ini |
-| [NCT00184977](https://clinicaltrials.gov/study/NCT00184977) | Fasa 4 | Selesai | 270 | RCT buta berganda besar membandingkan kesan jangka panjang NAC oral berbanding propisonat flutikazon terhisap pada perkembangan dan hasil COPD/bronkitis kronik selama beberapa tahun dalam amalan am |
-| [NCT03843541](https://clinicaltrials.gov/study/NCT03843541) | Fasa 3 | Selesai | 333 | RCT selari 3-lengan berpusat berbilang membandingkan NAC IV 600 mg BID berbanding hidroklorida ambroksol berbanding plasebo sebagai terapi ekspekoran pada pesakit China dengan penyakit saluran pernafasan dan sekresi mukus abnormal |
-| [NCT06688292](https://clinicaltrials.gov/study/NCT06688292) | Fasa 4 | Selesai | 42 | Perbandingan keselamatan dan keberkesanan berhadapan-berhadapan dua formulasi NAC 600 mg (granul Taneasy vs tablet eferesens Actein) yang ditadbir BID selama 14 hari pada pesakit COPD |
-| [NCT06828120](https://clinicaltrials.gov/study/NCT06828120) | Fasa 4 | Selesai | 45 | Perbandingan formulasi langsung granul Taneasy 600 mg vs granul Fluimucil 600 mg (produk NAC berjenama rujukan) BID selama 14 hari pada COPD dengan pertindihan bronkitis kronik |
-| [NCT07108166](https://clinicaltrials.gov/study/NCT07108166) | N/A | Merekrut | 290 | RCT sedang berlangsung menilai peningkatan dalam simptom pernafasan utama (kekerapan batuk, sesak nafas) dan fungsi paru-paru pada pesakit COPD dengan bronkitis kronik yang bertukar daripada rokok terbakar kepada sistem pemanasan tembakau |
-| [NCT01599884](https://clinicaltrials.gov/study/NCT01599884) | N/A | Tidak diketahui | 65 | Percubaan rawak, dikawal plasebo menyiasat sama ada NAC oral dos tinggi meningkatkan status kesihatan pernafasan dan kualiti hidup pada pesakit COPD dengan simptom bronkitis kronik serentak |
-| [NCT01739790](https://clinicaltrials.gov/study/NCT01739790) | N/A | Ditamatkan | 51 | Percubaan dikawal plasebo mengkaji sama ada NAC dos tinggi meningkatkan skor Soal Selidik Pernafasan St. George pada COPD dengan bronkitis kronik; ditamatkan sebelum pendaftaran penuh |
-| [NCT03364218](https://clinicaltrials.gov/study/NCT03364218) | Fasa 4 | Tidak diketahui | 106 | RCT NAC terhidupkan berbanding penjagaan standard untuk bronkiolitis pada bayi yang dirawat inap di bawah 6 bulan; menilai tempoh penginapan hospital dan resolusi simptom pernafasan |
-| [NCT05843669](https://clinicaltrials.gov/study/NCT05843669) | Fasa 4 | Selesai | 82 | Kajian satu kumpulan, berpusat berbilang, label terbuka menilai keberkesanan Mucinex® (guaifenesina) dalam tempoh rawatan 12 minggu pada pesakit dengan bronkitis kronik stabil, mengikut tempoh bebas rawatan 2 minggu untuk menetapkan garis asas |
+Data terperinci mengenai mekanisme tindakan (MOA) rasmi tidak tersedia dalam data yang dihimpunkan untuk laporan ini. Berdasarkan maklumat sedia ada, asetilsisteina ialah tiol yang memecahkan ikatan disulfida dalam glikoprotein mukus, sekali gus mengurangkan kelikatan kahak. Ia juga menambah glutation dan bertindak sebagai antioksidan, yang boleh mengurangkan tekanan oksidatif dan keradangan saluran udara.
+
+Bronkitis kronik dan COPD melibatkan lendir berlebihan dan tekanan oksidatif, jadi kedua-dua tindakan ini sepadan dengan patologi penyakit. Bronkitis juga sudah menjadi indikasi asal ubat ini, maka ramalan ini lebih bersifat pengesahan daripada penemuan baharu.
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Ujian Klinikal
+
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
+|---------|------|------|------|---------|
+| [NCT03843541](https://clinicaltrials.gov/study/NCT03843541) | Fasa 3 | Selesai | 333 | NAC intravena 600 mg dua kali sehari berbanding ambroksol dan plasebo sebagai ekspektoran pada pesakit dewasa Cina dengan penyakit saluran pernafasan dan rembesan mukus abnormal. Perbandingan dan titik akhir tepat perlu disahkan kerana tajuk dipotong. |
+| [NCT00184977](https://clinicaltrials.gov/study/NCT00184977) | Fasa 4 | Selesai | 270 | Ujian buta dua hala berkawal plasebo dalam amalan am. Mengkaji kesan jangka panjang dan keberkesanan kos NAC oral dan kortikosteroid terinhalasi pada pesakit COPD. |
+| [NCT01599884](https://clinicaltrials.gov/study/NCT01599884) | Tidak dilabel (NA) | Tidak diketahui | 65 | NAC dos tinggi berbanding plasebo ke atas status kesihatan respiratori pada pesakit COPD dan bronkitis kronik. Saiz kecil dan status penyiapan tidak pasti. |
+| [NCT01739790](https://clinicaltrials.gov/study/NCT01739790) | Tidak dilabel (NA) | Ditamatkan | 51 | NAC dos tinggi dalam COPD dan bronkitis kronik, dengan skor Soal Selidik Respiratori Saint George sebagai fokus. Ditamatkan awal, jadi kuasa statistik rendah. |
+
+---
+
+## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|------|------|---------|-------------|
-| [38555190](https://pubmed.ncbi.nlm.nih.gov/38555190/) | 2024 | Ulasan Sistematik | Archivos de Bronconeumologia | Meta-analisis yang berbeza secara terpisah menilai keberkesanan NAC dalam COPD dan dalam bronkitis kronik/pra-COPD; menunjukkan faedah antioksidan dan mukolitik serta membezakan profil respons antara kedua-dua populasi |
-| [26324807](https://pubmed.ncbi.nlm.nih.gov/26324807/) | 2015 | Meta-analisis | European Respiratory Review | Meta-analisis menjelaskan peranan NAC dalam mencegah eksaserbasi bronkitis kronik dan COPD; mengenal pasti hubungan dos-respons membandingkan regimen dos rendah (≤600 mg/hari) berbanding dos tinggi (>600 mg/hari) |
-| [31107966](https://pubmed.ncbi.nlm.nih.gov/31107966/) | 2019 | Ulasan Sistematik Cochrane | Cochrane Database of Systematic Reviews | Ulasan sistematik Cochrane yang komprehensif tentang mukolitik berbanding plasebo dalam bronkitis kronik/COPD; menilai kekerapan eksaserbasi, volum sputum, hari ketidakupayaan, dan kesan sampingan di seluruh berbilang percubaan |
-| [39413571](https://pubmed.ncbi.nlm.nih.gov/39413571/) | 2024 | Ulasan Sistematik | Respiratory Investigation | Ulasan sistematik dan meta-analisis keberkesanan dan keselamatan mukolitik pada pesakit dengan COPD stabil, dengan kebolehgunaan langsung kepada fenotip bronkitis kronik |
-| [31598901](https://pubmed.ncbi.nlm.nih.gov/31598901/) | 2019 | Meta-analisis | Advances in Therapy | Meta-analisis yang ditumpukan secara khusus pada kesan NAC yang ditadbir oral pada hasil klinikal — termasuk kadar eksaserbasi, ciri sputum, dan fungsi paru-paru — pada pesakit dengan bronkitis kronik |
-| [19138505](https://pubmed.ncbi.nlm.nih.gov/19138505/) | 2009 | RCT | Respiratory Medicine | RCT jangka panjang (penerbitan daripada NCT00184977) membandingkan flutikazon dan NAC pada pesakit amalan am dengan COPD atau bronkitis kronik; mengkaji tekanan oksidatif, radang bronkial, dan hasil klinikal |
-| [6376210](https://pubmed.ncbi.nlm.nih.gov/6376210/) | 1984 | RCT | J International Medical Research | Kajian titik penanda berpusat berbilang, buta berganda, dikawal plasebo asetilsistein oral (Fabrol) untuk simptom bronkitis kronik selama 3 bulan dalam amalan am UK; peningkatan yang signifikan secara statistik dalam kesukaran ekspektorasi dan keterukan batuk |
-| [27143871](https://pubmed.ncbi.nlm.nih.gov/27143871/) | 2016 | RCT | Int J Chronic Obstructive Pulmonary Disease | Percubaan dikawal plasebo rawak NAC dos tinggi pada COPD dengan bronkitis kronik; NAC dos tinggi gagal untuk meningkatkan status kesihatan pernafasan, membangkitkan soalan tentang siling dos optimal |
-| [32454850](https://pubmed.ncbi.nlm.nih.gov/32454850/) | 2020 | RCT | Evidence-Based Complementary and Alternative Medicine | Perbandingan rawak sirup batuk daun ivy berbanding asetilsistein pada orang dewasa dan kanak-kanak dengan bronkitis akut; menilai peningkatan relatif dalam batuk produktif dan beban simptom |
-| [24787454](https://pubmed.ncbi.nlm.nih.gov/24787454/) | 2014 | Ulasan | COPD | Penilaian semula farmakologi dan klinikal NAC dalam tekanan oksidatif sistem pernafasan; memberikan justifikasi mekanistik untuk penggunaan NAC dalam bronkitis kronik dan COPD di seluruh berbilang subkumpulan pesakit |
+|------|-----|------|------|---------|
+| [38555190](https://pubmed.ncbi.nlm.nih.gov/38555190/) | 2024 | Meta-analisis | Arch Bronconeumol | Meta-analisis berasingan tentang keberkesanan NAC dalam COPD dan bronkitis kronik/pra-COPD. |
+| [39413571](https://pubmed.ncbi.nlm.nih.gov/39413571/) | 2024 | Semakan sistematik dan meta-analisis | Respir Investig | Keberkesanan dan keselamatan mukolitik pada pesakit COPD stabil. |
+| [31107966](https://pubmed.ncbi.nlm.nih.gov/31107966/) | 2019 | Semakan Cochrane | Cochrane Database Syst Rev | Agen mukolitik berbanding plasebo pada bronkitis kronik atau COPD, dengan fokus pada pengurangan eksaserbasi. |
+| [26324807](https://pubmed.ncbi.nlm.nih.gov/26324807/) | 2015 | Meta-analisis | Eur Respir Rev | Pengaruh NAC terhadap eksaserbasi bronkitis kronik atau COPD, termasuk perbandingan dos rendah (≤600 mg/hari) dan dos tinggi (>600 mg/hari). |
+| [2866607](https://pubmed.ncbi.nlm.nih.gov/2866607/) | 1985 | RCT | Thorax | NAC oral 200 mg tiga kali sehari berbanding plasebo selama lima bulan ke atas kadar eksaserbasi pada bronkitis kronik dengan sekatan saluran udara teruk. |
+| [19138505](https://pubmed.ncbi.nlm.nih.gov/19138505/) | 2009 | Kajian klinikal | Respir Med | Flutikason dan NAC pada pesakit COPD atau bronkitis kronik dalam penjagaan primer. |
+| [23728642](https://pubmed.ncbi.nlm.nih.gov/23728642/) | 2013 | Semakan Cochrane | Cochrane Database Syst Rev | Asetilsisteina dan karbosisteina untuk jangkitan saluran pernafasan akut pada kanak-kanak tanpa penyakit bronkopulmonari kronik. |
+| [20956182](https://pubmed.ncbi.nlm.nih.gov/20956182/) | 2010 | Semakan | Eur Respir Rev | Terapi mukoaktif dalam COPD. Meta-analisis terbesar yang dikaji merangkumi 26 kajian, kebanyakannya pada bronkitis kronik. |
+| [39549856](https://pubmed.ncbi.nlm.nih.gov/39549856/) | 2024 | Semakan | Respir Med | Peranan NAC dalam strategi perubatan ketepatan untuk ciri paru COPD. |
+| [24787454](https://pubmed.ncbi.nlm.nih.gov/24787454/) | 2014 | Semakan | COPD | Penilaian semula farmakologi dan klinikal NAC terhadap tekanan oksidatif dalam sistem pernafasan. |
 
-> **Catatan:** PMID 35795313 dan notis penarikan baliknya (PMID 38075328) telah dikecualikan daripada analisis ini kerana penarikan balik yang disahkan (DOI: 10.1155/2022/9133777).
-
----
-
-## Maklumat Pasaran Malaysia
-
-Asetilsistein memegang **33 produk berdaftar** di Malaysia dengan status dipasarkan yang disahkan (Dipasarkan). Walau bagaimanapun, butiran produk individu — termasuk nombor kebenaran, nama jenama, bentuk dos, dan teks indikasi yang diluluskan — tidak tersedia dalam ekstrak data NPRA semasa. Sila rujuk pangkalan data pendaftaran produk [NPRA](https://www.npra.gov.my/) secara langsung untuk penyenaraian produk lengkap bagi menentukan indikasi yang diluluskan mana yang pada masa kini di-label di Malaysia.
+*Nota: Satu artikel (PMID 35795313) telah ditarik balik oleh penerbit (notis penarikan PMID 38075328), maka ia dikecualikan daripada jadual di atas.*
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk leaflet pembungkus untuk maklumat keselamatan.
+- **Kontraindikasi (daripada graf pengetahuan, bukan teks label rasmi)**: ulser peptik, gangguan hipotensi, kegagalan respiratori, asma, penyakit bronkus, varises esofagus.
+- **Interaksi Ubat**: Pangkalan data merekodkan 100 interaksi. Antara yang disenaraikan, **Sederhana**: insulin manusia (terinhalasi, bertindak pantas). **Minor**: arang aktif. Interaksi lain yang disenaraikan, termasuk mannitol, bupropion, kalsitriol, pantoprazol, glimepirid, doksisiklin, morfin, metformin, omeprazol, sukralfat, rosiglitazon, lansoprazol, simetidin, vankomisin, atropin, laktulosa, triamsinolon dan prednison, belum diberi tahap keterukan.
+
+Maklumat amaran utama daripada sisip bungkusan tidak tersedia. Sila rujuk sisip bungkusan untuk maklumat keselamatan yang lengkap.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Teruskan dengan Pagar Keselamatan**
+**Keputusan: Proceed with Guardrails**
 
 **Justifikasi:**
-Asas bukti untuk NAC dalam bronkitis memenuhi ambang L1, disokong oleh berbilang RCT Fasa 2–4 yang selesai (termasuk percubaan berpusat berbilang 333-pesakit Fasa 3), beberapa ulasan sistematik Cochrane, dan berbilang meta-analisis yang mengesahkan keberkesanan mukolitik dan anti-eksaserbasi. NAC sudah dirujuk dalam garis panduan pernafasan antarabangsa untuk bronkitis kronik dan fenotip COPD yang bertindih. Akses pasaran Malaysia disahkan dengan 33 produk berdaftar.
+- Terdapat satu ujian Fasa 3 selesai, satu ujian Fasa 4 selesai, serta beberapa meta-analisis dan semakan Cochrane yang menyokong penggunaan NAC dalam bronkitis kronik dan COPD.
+- Bronkitis sudah menjadi indikasi asal, jadi risiko pengalihan guna adalah rendah. Namun, ubat ini tidak berdaftar di Malaysia, skor TxGNN yang direkodkan ialah 0.0, dan bukti Fasa 3 yang jelas masih terhad kepada satu ujian.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Dapatkan dan semak leaflet pembungkus NPRA Malaysia untuk indikasi yang diluluskan, amaran utama, dan kontraindikasi — ini adalah **Jurang data penyekat (DG001)** yang menghalang pra-saringan keselamatan formal
-- Sahkan sama ada mana-mana daripada 33 produk NPRA berdaftar membawa indikasi yang diluluskan khusus bronkitis, untuk menetapkan status di-label berbanding luar-label di Malaysia
-- Dapatkan data mekanisme tindakan formal daripada DrugBank (Jurang Data DG002) untuk melengkapkan dokumentasi mekanistik
-- Jalankan ulasan interaksi ubat-ubatan khusus Malaysia, kerana data DDI tidak diambil dalam paket bukti semasa
-- Untuk pelaksanaan klinikal, perhatikan bahawa bukti memihak kepada NAC dos standard (600 mg/hari oral) berbanding rejimen dos tinggi dalam bronkitis kronik; pengoptimuman dos harus dinyatakan dalam mana-mana protokol pelaksanaan
-
----
-
-## Gambaran Keseluruhan Indikasi Diprediksi Tambahan
-
-Paket Bukti ini merangkumi 5 indikasi yang diprediksi TxGNN untuk Asetilsistein. Ringkasan di bawah:
-
-| Pangkat | Indikasi | Tahap Bukti | Keputusan |
-|------|-----------|---------------|---------|
-| 1 | Bronkitis | L1 | Teruskan dengan Pagar Keselamatan |
-| 2 | Bronkiektasis | L2 | Soalan Penyelidikan |
-| 3 | Amiloidosis | L3 | Soalan Penyelidikan |
-| 4 | Amiloidosis AL | L5 | Tahan |
-| 5 | Fibrosis Kistik | L2 | Soalan Penyelidikan |
-
-**Bronkiektasis (Pangkat 2):** Berbilang RCT menilai langsung NAC dalam bronkiektasis bukan-fibrosis kistik, termasuk percubaan BENE yang selesai (NCT02088216, n=161) dan percubaan Fasa 3 pemulihan TB yang akan datang (NCT07136987, n=1,104). Laporan terperinci yang berasingan disyorkan.
-
-**Fibrosis Kistik (Pangkat 5):** Justifikasi mekanistik yang kuat (kehabisan GSH adalah ciri khas penyakit paru CF; NAC membetulkan ketidakseimbangan redoks dan mengurangkan kelikatan mukus) dengan bukti RCT Fasa 2B (NCT00809094, n=70). Laporan terperinci yang berasingan disyorkan.
-
-**Amiloidosis (Pangkat 3):** Isyarat yang muncul tertumpu dalam subtip jarang — amiloid sistein C herediter angiopati (HCCAA) — di mana NAC mengganggu agregasi sistein C melalui pembelahan ikatan disulfida. Percubaan klinikal bukan rawak telah diterbitkan dalam *JAMA Neurology* (2025, PMID 40163249). Bukti untuk amiloidosis umum tetap praklinikal.
-
-**Amiloidosis AL (Pangkat 4):** Tiada bukti klinikal NAC yang relevan. Pautan mekanistik (salah lipat rantai ringan) adalah jauh daripada farmakoloji NAC. Keputusan **Tahan** adalah sesuai; kurangkan keutamaan kecuali justifikasi biologi selanjutnya muncul.
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Memuat turun dan menghurai sisip bungkusan NPRA untuk amaran dan kontraindikasi rasmi. Ini perlu diselesaikan sebelum tapisan keselamatan boleh diteruskan.
+- Mengesahkan butiran ujian NCT03843541 (komparator dan titik akhir) dan hasil sebenar ujian yang telah selesai.
+- Mendapatkan data mekanisme tindakan rasmi daripada DrugBank.
+- Menentukan laluan pentadbiran dan bentuk dos yang diperlukan, kerana tiada produk berdaftar di Malaysia.
+- Mengesahkan nilai skor TxGNN, kerana nilai 0.0 mungkin tidak mencerminkan skor sebenar.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

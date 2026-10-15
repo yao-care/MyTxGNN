@@ -2,7 +2,7 @@
 layout: default
 title: Asenapine Maleate
 parent: Low Evidence (L4-L5)
-nav_order: 92
+nav_order: 96
 evidence_level: L5
 indication_count: 0
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: Venetoclax
 parent: Low Evidence (L4-L5)
-nav_order: 687
+nav_order: 722
 evidence_level: L4
 indication_count: 10
 ---
@@ -29,49 +29,51 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Venetoclax: Daripada Chronic Lymphocytic Leukemia kepada Pregerminal-Center Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma
+# Venetoclax: Daripada Leukemia Limfoblastik Akut / Sindrom Richter kepada Leukemia Limfositik Kronik/Limfoma Limfositik Kecil Pra-Pusat Germinal
 
 ## Ringkasan Satu Ayat
 
-Venetoclax adalah penghambat BCL-2 selektif yang asalnya digunakan untuk merawat chronic lymphocytic leukemia (CLL) dan small lymphocytic lymphoma (SLL). Model TxGNN meramalkan ia mungkin juga berkesan khususnya untuk **pregerminal-center (IGHV-unmutated) CLL/SLL**, subtipe molekul daripada penyakit yang sama dengan prognosis lebih teruk, dengan skor ramalan sebesar **99.55%**, namun pada masa ini hanya **1 penerbitan bersinggung** dan **tiada percubaan klinikal berdedikasi** yang secara langsung menyokong tuntutan subtipe peringkat ini.
+Venetoclax pada asalnya digunakan untuk leukemia limfoblastik/limfositik akut dan sindrom Richter.
+Model TxGNN meramalkan ia mungkin berkesan untuk **leukemia limfositik kronik/limfoma limfositik kecil (CLL/SLL) jenis pra-pusat germinal**.
+Setakat ini terdapat **0 ujian klinikal** dan **1 penerbitan** yang menyokong subjenis ini, dan penerbitan itu hanya berkait secara tidak langsung.
 
 ---
 
-## Gambaran Keseluruhan Pantas
+## Gambaran Ringkas
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Chronic lymphocytic leukemia (CLL) / small lymphocytic lymphoma (SLL) — teks indikasi yang diluluskan secara tempatan tidak tersedia dalam pakej bukti ini |
-| Indikasi Baru yang Diramalkan | Pregerminal-center chronic lymphocytic leukemia/small lymphocytic lymphoma |
+| Indikasi Asal | Leukemia limfoblastik/limfositik akut; sindrom Richter |
+| Indikasi Baharu yang Diramalkan | Leukemia limfositik kronik/limfoma limfositik kecil pra-pusat germinal |
 | Skor Ramalan TxGNN | 99.55% |
 | Tahap Bukti | L4 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 3 |
-| Keputusan yang Dicadangkan | Tahan |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme aksi terperinci tidak tersedia dalam pakej bukti ini (ditandai sebagai jurang data keseteraan tinggi). Berdasarkan maklumat awam yang telah terbukti, venetoclax adalah penghambat BCL-2 (B-cell lymphoma 2) selektif pertama-jenis yang boleh diambil secara oral dengan biodisponibilitas tinggi. Ia memulihkan laluan apoptosis normal dalam sel-sel B ganas yang mengekspresi BCL-2 secara berlebihan untuk mengelak kematian sel yang diprogramkan, dan ia telah terbukti berkesan dalam CLL/SLL serta, dalam rejimen gabungan, dalam acute myeloid leukemia.
+Data terperinci tentang mekanisme tindakan tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, venetoclax ialah perencat BCL-2. Keberkesanannya telah dibuktikan dalam keganasan sel B yang lain, dan secara mekanistik ia mungkin sesuai untuk CLL/SLL jenis pra-pusat germinal.
 
-Indikasi baru yang diramalkan — "pregerminal-center CLL/SLL" — bukanlah penyakit tersendiri tetapi subtipe yang ditakrifkan secara molekul daripada CLL/SLL, dicirikan oleh gen pembolehubah rantai berat immunoglobulin yang tidak bermutasi (U-IGHV) dan sel asal pra-pusat germinal, yang dikaitkan dengan perjalanan klinikal lebih agresif berbanding subtipe bermutasi (M-CLL). Kerana mekanisme venetoclax (penghambatan kebergantungan BCL-2) tidak khusus untuk status IGHV, adalah munasabah secara mekanistik bahawa aktivitinya meluas merentas subtipe molekul CLL/SLL, termasuk subtipe ini.
+Sel CLL/SLL bergantung pada pengekspresan berlebihan BCL-2 untuk terus hidup, jadi menyekat BCL-2 boleh mencetuskan kematian sel kanser. Indikasi asal (leukemia limfoid dan sindrom Richter) juga merupakan keganasan sel limfoid, jadi terdapat persamaan biologi dengan indikasi baharu ini.
 
-Walau bagaimanapun, "ketersediaan mekanistik kerana ia adalah penyakit asas yang sama" adalah bentuk bukti repurposing yang lemah — ini lebih hampir kepada nuansa granulariti label daripada indikasi baru yang tulen. Satu-satunya literatur yang dikembalikan membincangkan biologi reseptor sel-B tumor (BCR) dan pengelasan subtipe CLL secara amnya, tanpa secara langsung mengkaji keberkesanan venetoclax dalam subkumpulan ini, dan tiada percubaan klinikal khusus untuk subtipe ini telah dikenal pasti dalam carian semasa.
+Namun, bukti khusus untuk subjenis ini masih terhad. Satu-satunya makalah yang diperoleh membincangkan struktur dan fungsi reseptor sel B (BCR) tumor, yang merupakan hubungan tidak langsung. Venetoclax memang mantap digunakan dalam CLL secara umum, tetapi data khusus subjenis pra-pusat germinal tidak ditunjukkan dalam data yang dihimpunkan untuk laporan ini.
 
 ---
 
-## Bukti Percubaan Klinikal
+## Bukti Ujian Klinikal
 
-Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan untuk subjenis ini.
 
 ---
 
 ## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|------|------|------|---------|
-| [35158929](https://pubmed.ncbi.nlm.nih.gov/35158929/) | 2022 | Ulasan | Cancers | Mengulas biologi reseptor sel-B tumor (BCR) dalam CLL, termasuk pembezaan antara subset pra-pusat germinal (IGHV tidak bermutasi, prognosis buruk) dan subset pasca-pusat germinal (IGHV bermutasi, prognosis baik); memberikan latar belakang mekanistik dan pengelasan tetapi tidak secara langsung mengkaji keberkesanan venetoclax dalam subkumpulan ini. |
+|------|-----|------|------|---------|
+| [35158929](https://pubmed.ncbi.nlm.nih.gov/35158929/) | 2022 | Lain-lain (biologi translasi BCR) | Cancers | Analisis struktur dan fungsi reseptor sel B tumor dalam CLL. Subset CLL pra-pusat germinal (U-CLL) mempunyai prognosis lebih buruk berbanding subset pasca-pusat germinal (M-CLL). Makalah ini tidak menilai venetoclax secara langsung. |
 
 ---
 
@@ -79,34 +81,47 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 | Perkara | Kandungan |
 |------|------|
-| Pengelasan Sitotoksisiti | Terapi tersasaran (penghambat BCL-2 selektif) |
-| Risiko Supresi Sumsum Tulang | Sila rujuk amaran dan langkah pencegahan dalam leaflet ubat |
-| Pengelasan Emetogenisiti | Sila rujuk amaran dan langkah pencegahan dalam leaflet ubat |
-| Item Pemantauan | Sila rujuk amaran dan langkah pencegahan dalam leaflet ubat |
-| Perlindungan Pengendalian | Sila rujuk amaran dan langkah pencegahan dalam leaflet ubat |
+| Klasifikasi Sitotoksisiti | Terapi bersasar (perencat BCL-2) |
+| Risiko Penindasan Sumsum Tulang | Sederhana. Penindasan sumsum tulang (sitopenia) dan sindrom lisis tumor ialah kesan sampingan yang paling kerap dilaporkan dalam literatur bagi penggunaan dalam keganasan limfoid |
+| Klasifikasi Emetogenisiti | Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pakej |
+| Parameter Pemantauan | Hitung darah penuh (CBC), fungsi hati dan buah pinggang, elektrolit serta penanda sindrom lisis tumor |
+| Perlindungan Pengendalian | Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pakej |
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk leaflet ubat untuk maklumat keselamatan.
+- **Interaksi Ubat**: Sejumlah 100 interaksi direkodkan. Interaksi tahap **Major** termasuk:
+  - Aprepitant
+  - Dexamethasone
+  - Clarithromycin
+  - Eliglustat
+  - Rolapitant
+  - Fidaxomicin
+  - Cobicistat
+  - Deferiprone
+  - Samarium (153Sm) lexidronam
+
+  Interaksi tahap sederhana (Moderate) termasuk Alvimopan, Loperamide, Cimetidine, Miconazole dan Rifaximin. Venetoclax ialah substrat CYP3A, jadi perencat kuat CYP3A/P-gp (contohnya posaconazole) memerlukan pelarasan dos dan pemantauan rapi.
+
+Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
-**Alasan:**
-Indikasi yang diramalkan adalah subtipe molekul daripada kawasan penyakit asal venetoclax sendiri daripada kawasan terapeutik yang benar-benar baru, namun pada masa ini ia tidak mempunyai percubaan klinikal berdedikasi dan hanya satu penerbitan yang tidak berkaitan secara langsung — bukti terlalu tipis untuk menyokong keputusan repurposing yang aktif pada masa ini.
+**Rasional:**
+- Ramalan TxGNN sangat tinggi (99.55%) dan munasabah dari segi mekanisme, tetapi tiada ujian klinikal dan hanya satu makalah tidak langsung untuk subjenis CLL/SLL pra-pusat germinal. Tahap bukti hanya L4.
+- Venetoclax juga belum didaftarkan di Malaysia.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Amaran leaflet ubat TFDA/NPRA dan kontraindikasi (pada masa ini jurang data penghalang; diperlukan sebelum mana-mana pengesahan keselamatan S1)
-- Dokumentasi mekanisme aksi yang disahkan (pada masa ini jurang data keseteraan tinggi)
-- Data keberkesanan khusus subtipe (berstrata menurut status mutasi IGHV) untuk venetoclax dalam CLL/SLL, jika ia wujud dalam bentuk pendaftaran atau analisis subkumpulan
-- Data interaksi ubat-ubatan (soalan DDI semasa tidak mengembalikan hasil)
-- Pertimbangkan untuk mengutamakan penilaian calon lain dalam pakej bukti yang sama dengan asas bukti yang lebih kuat secara material — contohnya, follicular lymphoma (L2, pelbagai percubaan gabungan Fasa 1/2 yang selesai) dan myeloid leukemia/Hodgkin lymphoma (50 percubaan dan 20 penerbitan masing-masing) — berbanding calon subtipe ini
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data klinikal khusus subjenis ini, iaitu analisis subkumpulan IGHV tidak bermutasi daripada ujian CLL yang sedia ada atau ujian baharu.
+- Data terperinci tentang mekanisme tindakan (MOA).
+- Maklumat keselamatan daripada sisipan pakej, termasuk amaran dan kontraindikasi.
+- Pengesahan status pendaftaran dan ketersediaan produk di Malaysia (NPRA).
+- Pelan pengurusan interaksi ubat (CYP3A/P-gp) serta pemantauan sindrom lisis tumor dan sitopenia.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

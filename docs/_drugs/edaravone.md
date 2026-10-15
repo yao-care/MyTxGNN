@@ -2,7 +2,7 @@
 layout: default
 title: Edaravone
 parent: Low Evidence (L4-L5)
-nav_order: 306
+nav_order: 315
 evidence_level: L5
 indication_count: 2
 ---
@@ -29,80 +29,59 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Edaravone: Daripada Petunjuk Asal yang Tidak Direkodkan hingga Kekurangan Heparin Cofactor 2
+# Edaravone: Daripada Strok Iskemia dan Sklerosis Lateral Amiotrofik kepada Kekurangan Kofaktor Heparin 2
 
 ## Ringkasan Satu Ayat
 
-Edaravone sedang dipasarkan di Malaysia (1 pendaftaran aktif), tetapi teks petunjuk asalnya yang telah diluluskan belum lagi diambil daripada data sumber. Model TxGNN meramalkan ia mungkin berkesan untuk **Kekurangan Heparin Cofactor 2**, dengan **tiada ujian klinikal** dan **tiada kesusasteraan yang diterbitkan** pada masa ini menyokong arah ini — isyarat itu sepenuhnya bergantung pada persamaan model graf pengetahuan.
+Edaravone ialah ubat yang pada asalnya digunakan untuk strok iskemia dan sklerosis lateral amiotrofik (ALS).
+Model TxGNN meramalkan ia mungkin berkesan untuk **kekurangan kofaktor heparin 2 (heparin cofactor 2 deficiency)**,
+tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong arah ini; ramalan ini bergantung pada model komputasi sahaja.
 
-> *Nota: Calon kedua, **Lebihan Factor V dengan Trombosis Spontan** (skor TxGNN 99.06%), juga telah ditandai oleh model dengan jurang bukti yang sama dan cadangan Hold yang sama.*
+## Gambaran Keseluruhan
 
----
-
-## Gambaran Keseluruhan Cepat
-
-| Item | Kandungan |
-|------|----------|
-| Petunjuk Asal | Tidak tersedia — teks lesen TFDA/NPRA belum diambil (lihat DG001) |
-| Petunjuk Baru yang Diramalkan | Kekurangan Heparin Cofactor 2 |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Strok iskemia, gangguan strok, sklerosis lateral amiotrofik (berdasarkan graf pengetahuan TxGNN) |
+| Indikasi Baharu yang Diramalkan | Kekurangan kofaktor heparin 2 |
 | Skor Ramalan TxGNN | 99.47% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 1 |
-| Cadangan Keputusan | Hold |
-
----
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci untuk edaravone pada masa ini adalah jurang data yang didokumentasikan (DG002). Berdasarkan pengetahuan farmakologi umum, edaravone dikenali sebagai ejen penyapu radikal bebas / antioksidan yang digunakan untuk neuroproteksi; tiada laluan mekanisme yang disahkan pada masa ini menghubungkan tindakan ini kepada kekurangan heparin cofactor 2 (faktor pembekuan darah yang menghambat trombin).
+Data mekanisme tindakan (MOA) terperinci tidak tersedia pada masa ini. Edaravone secara amnya diketahui sebagai penyental radikal bebas yang mengurangkan tekanan oksidatif. Kesannya dalam strok iskemia dan ALS telah dikaitkan dengan sifat ini, dan secara teori ia mungkin berkaitan dengan keadaan berkaitan trombosis.
 
-Kekurangan heparin cofactor 2 adalah gangguan langka pengawalaturan antikoagulasi. Tekanan oksidatif boleh, secara teorinya, mempengaruhi fungsi endothelial dan keseimbangan pembekuan/antikoagulasi yang lebih luas, jadi sambungan biologi tidak langsung tidak boleh sepenuhnya dikecualikan — tetapi pautan ini bersifat spekulatif dan tidak disokong oleh sebarang data eksperimental atau klinikal bebas dalam pakej bukti semasa.
+Namun, kekurangan kofaktor heparin 2 ialah gangguan trombofilik akibat penurunan perencatan trombin yang bergantung pada dermatan sulfat. Tindakan antioksidan edaravone tidak menangani kekurangan ini, jadi hubungan mekanistik yang dicadangkan hanyalah spekulatif. Skor TxGNN yang tinggi (0.995) merupakan ramalan komputasi semata-mata dan tidak disokong oleh bukti percubaan atau literatur.
 
-Oleh itu, ramalan ini harus dianggap sebagai **hipotesis yang dijana model sahaja**. Skor persamaan terbitan TxGNN (0.9947, pangkat 7,593) adalah satu-satunya asas untuk calon; tiada ujian klinikal, ujian pendaftar, atau kesusasteraan yang diterbitkan mengesahkan, membantah, atau bahkan meneroka hubungan ini.
+**Ramalan kedua (untuk rujukan):** *factor 5 excess with spontaneous thrombosis* (skor 99.06%, tahap bukti L5, keputusan Hold). Kesan antioksidan dan pelindung endotelium edaravone dalam strok iskemia mungkin mempunyai kaitan spekulatif, tetapi kecacatan asasnya (faktor V berlebihan atau hiperaktif) ialah kelainan lata pembekuan yang tidak diketahui boleh diperbetulkan oleh penyental radikal bebas. Tiada bukti klinikal atau literatur yang menyokongnya.
 
----
+## Bukti Percubaan Klinikal
 
-## Bukti Ujian Klinikal
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
-Pada masa ini tiada ujian klinikal berkaitan yang didaftar
+## Bukti Literatur
 
----
-
-## Bukti Kesusasteraan
-
-Pada masa ini tiada kesusasteraan berkaitan yang tersedia
-
----
-
-## Maklumat Pasaran Malaysia
-
-Rekod kawal selia mengesahkan edaravone mempunyai **1 pendaftaran aktif** di Malaysia (status pasaran: ✓ Dipasarkan). Bagaimanapun, nombor lesen, nama produk, bentuk dos, pengilang, dan teks petunjuk yang diluluskan belum lagi diambil daripada data sumber — ini dijejaki sebagai jurang data pemblokiran (DG001) yang juga menghalang semakan keselamatan lengkap.
-
----
+Pada masa ini tiada literatur berkaitan yang tersedia.
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk risalah produk untuk maklumat keselamatan.
-
-*(Data amaran utama, kontraindikasi, dan interaksi ubat-ubat tidak tersedia dalam set data semasa — ini dijejaki sebagai jurang data pemblokiran, DG001.)*
-
----
+Sila rujuk sisipan pakej untuk maklumat keselamatan. Pada masa ini tiada data interaksi ubat yang ditemui dan tiada kontraindikasi berasaskan graf pengetahuan yang direkodkan.
 
 ## Kesimpulan dan Langkah Seterusnya
 
 **Keputusan: Hold**
 
 **Justifikasi:**
-Ramalan disokong hanya oleh skor persamaan terbitan TxGNN (Tahap Bukti L5) dengan sifar ujian klinikal, sifar kesusasteraan yang diterbitkan, dan tiada laluan mekanisme yang ditetapkan menghubungkan tindakan antioksidan/neuroproteksi edaravone yang diketahui kepada gangguan faktor pembekuan darah langka. Selain itu, jurang data pemblokiran pada amaran/kontraindikasi label TFDA/NPRA (DG001) bermakna calon ini masih belum boleh memasuki semakan keselamatan awal (S1).
+- Ramalan ini hanya berasaskan model (L5) tanpa sebarang percubaan klinikal atau literatur, dan hubungan mekanistik antara tindakan antioksidan edaravone dengan kekurangan kofaktor heparin 2 adalah spekulatif.
+- Edaravone tidak berdaftar di Malaysia, dan data keselamatan daripada sisipan pakej belum diperoleh.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Ambil risalah produk TFDA/NPRA (amaran, kontraindikasi) — DG001
-- Ambil data mekanisme tindakan DrugBank terperinci — DG002
-- Sahkan teks petunjuk asal yang diluluskan dan maklumat lesen penuh (pada masa ini kosong dalam rekod pendaftar)
-- Jalankan semakan kesusasteraan/mekanisme yang disasarkan pada sebarang pautan antara laluan tekanan oksidatif dan pengawalaturan heparin cofactor II atau Factor V sebelum maju melepasi S0
-- Memandangkan ketiadaan bukti klinikal atau ujian yang lengkap (L5), sebarang usaha lanjutan harus bermula dengan kajian pra-klinikal/mekanisme dan bukannya penilaian klinikal
-
+- Data mekanisme tindakan (MOA) terperinci, contohnya melalui pertanyaan DrugBank
+- Amaran dan kontraindikasi daripada sisipan pakej (NPRA atau pihak berkuasa lain), yang menghalang saringan keselamatan peringkat seterusnya
+- Kajian praklinikal atau kajian mekanisme yang menghubungkan edaravone dengan laluan perencatan trombin atau pembekuan
+- Penilaian keserasian laluan pemberian dan status pendaftaran tempatan
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

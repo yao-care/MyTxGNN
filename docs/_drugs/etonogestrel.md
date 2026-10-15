@@ -2,15 +2,15 @@
 layout: default
 title: Etonogestrel
 parent: Low Evidence (L4-L5)
-nav_order: 330
-evidence_level: L4
+nav_order: 342
+evidence_level: L5
 indication_count: 5
 ---
 
 # Etonogestrel
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **5** 
+Tahap bukti: **L5** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,82 +29,84 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-# Etonogestrel: Dari Kontrasepsi kepada Amenorrhea
+# Etonogestrel: Daripada Penggunaan Asal kepada Amenorea (Ramalan Indikasi Baharu)
 
 ## Ringkasan Satu Ayat
 
-Etonogestrel ialah bahan aktif progestin dalam implan kontraseptif subderma, digunakan untuk mencegah kehamilan dengan menekan ovulasi dan menipis endometrium.
-Model TxGNN meramalkan ia juga mungkin relevan dengan **Amenorrhea**,
-dengan **1 percubaan klinikal** dan **2 penerbitan** kini dipautkan dengan ramalan ini — walaupun tidak ada yang secara langsung menguji etonogestrel sebagai *rawatan* amenorrhea.
+Etonogestrel ialah progestin (metabolit aktif desogestrel) yang menekan ovulasi dan menyebabkan atrofi endometrium. Data yang disusun untuk laporan ini tidak mengandungi indikasi asal yang berdaftar di Malaysia.
+Model TxGNN meramalkan ia mungkin berkesan untuk **amenorea**, tetapi pada masa ini terdapat **0 ujian klinikal** dan **1 penerbitan** (tidak berkaitan dengan indikasi ini), jadi bukti hanya setakat ramalan model.
 
 ---
 
-## Gambaran Pantas
+## Gambaran Ringkas
 
-| Item | Kandungan |
-|------|----------|
-| Indikasi Asal | Tidak ditangkap dalam rekod pendaftaran Malaysia semasa; berdasarkan identiti ubat yang diketahui, etonogestrel digunakan sebagai implan kontraseptif subderma |
-| Indikasi Baru yang Diramalkan | Amenorrhea (penyakit) |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Tiada data indikasi berdaftar |
+| Indikasi Baharu yang Diramalkan | Amenorea (amenorrhea) |
 | Skor Ramalan TxGNN | 99.84% |
-| Tahap Bukti | L4 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 1 |
-| Keputusan yang Disyorkan | Penahanan |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (Tahan) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia dalam bungkus bukti ini. Berdasarkan farmakologi yang diketahui, etonogestrel ialah progestin sintetik yang menekan ovulasi dan menginduksi atrofi endometrium — asas penggunaannya dalam implan kontraseptif jangka panjang.
+Butiran mekanisme tindakan (MOA) tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, etonogestrel ialah progestin berkesan yang menekan ovulasi dan menyebabkan atrofi endometrium.
 
-Amenorrhea (ketiadaan haid) ialah **akibat farmakologi** yang terdokumentasikan dengan baik dalam kontraseptif progestin-sahaja, dan implan progestin kadang-kadang digunakan luar label khusus untuk menginduksi amenorrhea terapeutik dalam keadaan seperti pendarahan menstruasi berat atau kesakitan berkaitan endometriosis. Ini memberikan asas mekanisme yang munasabah untuk ramalan tersebut.
+Amenorea merupakan kesan yang diketahui bagi implan etonogestrel. Skor tinggi model kemungkinan besar mencerminkan kesan farmakologi ini. Ia merupakan **kesan advers atau kesan yang dijangka**, bukan indikasi terapeutik. Menggunakannya sebagai sasaran repurposing memerlukan rasional klinikal yang jelas, contohnya rawatan amenorea sekunder, dan rasional sedemikian tidak disokong oleh data yang ada.
 
-Bagaimanapun, kaveat penting: percubaan klinikal sokongan dan rujukan literatur 1999 adalah kedua-duanya kajian keberkesanan kontraseptif, di mana amenorrhea/corak pendarahan dilaporkan sebagai **kesan sampingan atau hasil sekunder**, bukan sebagai sasaran rawatan. Bungkus bukti ini kini tidak menunjukkan bahawa etonogestrel sedang dikaji *untuk* amenorrhea sebagai indikasi terapeutik — pautan harus dibaca sebagai perkaitan mekanisme dan bukannya bukti penggunaan semula yang disahkan.
+**Ramalan lain (untuk rujukan, semuanya L5 dan Hold):**
+
+| Kedudukan | Penyakit | Skor TxGNN | Catatan |
+|------|------|------|------|
+| 2 | Penyakit fibrosistik payudara | 99.61% | Rasional hormon yang munasabah, tetapi tiada bukti klinikal |
+| 3 | Adenosis apokrin payudara | 99.29% | Penemuan histologi jinak yang jarang; bukan sasaran rawatan lazim |
+| 4 | Adenosis duktus tumpul payudara | 99.29% | Biasanya tidak memerlukan terapi farmakologi |
+| 5 | Displasia mamari jinak | 99.21% | Sakit payudara juga kesan advers implan; arah klinikal tidak pasti dan mungkin bertentangan dengan manfaat |
 
 ---
 
-## Bukti Percubaan Klinikal
+## Bukti Ujian Klinikal
 
-| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT04626596](https://clinicaltrials.gov/study/NCT04626596) | Fasa 3 | Selesai | 498 | Menilai keberkesanan dan keselamatan kontraseptif implan etonogestrel semasa penggunaan lanjutan (tahun 4–5 selepas pemasukan); tidak dirancang untuk menilai amenorrhea sebagai titik akhir rawatan |
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+| PMID | Tahun | Jenis | Jurnal | Dapatan Utama |
 |------|-----|------|------|---------|
-| [10549446](https://pubmed.ncbi.nlm.nih.gov/10549446/) | 1999 | RCT | Contraception | Perbandingan rawak implan Implanon (etonogestrel) vs. Norplant kontraseptif; melaporkan corak pendarahan (termasuk amenorrhea) sebagai hasil sekunder, tiada kehamilan di kedua-dua lengan |
-| [33430924](https://pubmed.ncbi.nlm.nih.gov/33430924/) | 2021 | Protokol Kajian | Trials | Protokol rawatan pneumonia COVID-19 (BIO101) — kandungan tidak berkaitan dengan etonogestrel atau amenorrhea; kemungkinan padanan palsu dan harus diabaikan |
-
----
-
-## Maklumat Pasaran Malaysia
-
-Rekod Malaysia (NPRA) menunjukkan **1 pendaftaran aktif** dengan status pasaran "Dipasarkan," tetapi nombor lesen, nama produk, bentuk dos, dan teks indikasi yang diluluskan tidak ditangkap dalam pengekstrakan data semasa dan memerlukan pengambilan susulan daripada NPRA sebelum semakan kawal selia dapat diteruskan.
+| [33430924](https://pubmed.ncbi.nlm.nih.gov/33430924/) | 2021 | Protokol RCT (tidak berkaitan) | Trials | Protokol kajian BIO101 untuk mencegah kemerosotan pernafasan dalam pneumonia COVID-19. Tidak berkaitan dengan etonogestrel atau amenorea. |
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan. Amaran label TFDA/kontraindikasi dan data interaksi ubat tidak tersedia pada masa ini (ditandai sebagai jurang data **Sekatan** — DG001), yang menghalang penyempurnaan skrin keselamatan awal untuk calon ini.
+- **Penyakit yang dikaitkan dengan kontraindikasi dalam graf pengetahuan (TxGNN/PrimeKG, bukan teks label):** hipertensi, epilepsi, gangguan kebimbangan, porfiria, penyakit buah pinggang, penyakit hati, penyakit pundi hempedu, lupus eritematosus sistemik, asma, diabetes mellitus dan ketoasidosis diabetes, hipertrigliseridemia, hiperlipidemia, karsinoma payudara wanita, tromboflebitis, migrain, penyakit arteri koronari, dan obesiti.
+- **Interaksi Ubat (DDI):** Sebanyak 100 interaksi direkodkan; semua yang disenaraikan bertahap **Sederhana**. Yang utama termasuk:
+  - Ubat antidiabetes: acarbose, albiglutide, alogliptin, metformin, canagliflozin, chlorpropamide, dapagliflozin, saxagliptin, dulaglutide, empagliflozin, glimepiride, semaglutide, dan pelbagai insulin (aspart, degludec, detemir, glargine, glulisine)
+  - Lain-lain: aprepitant, clarithromycin, linaclotide
+
+Untuk amaran utama dan kontraindikasi rasmi, sila rujuk sisipan pakej.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Penahanan**
+**Keputusan: Hold (Tahan)**
 
-**Alasan:**
-Alasan mekanisme untuk etonogestrel–amenorrhea adalah munasabah, tetapi percubaan yang dipetik dan sokongan literatur menyokong keberkesanan kontraseptif, bukan rawatan amenorrhea, dan jurang data Sekatan dalam pelabelan keselamatan TFDA menghalang mana-mana penilaian keselamatan awal.
+**Rasional:**
+- Ramalan hanya berasaskan model (L5), tanpa ujian klinikal atau literatur yang menyokong. Amenorea ialah kesan farmakologi yang dijangka bagi etonogestrel, bukan sasaran terapeutik yang jelas. Ubat ini juga tidak dipasarkan di Malaysia.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Sisipan pakej TFDA/NPRA (amaran, kontraindikasi) — diperlukan untuk menjelaskan jurang data Sekatan (DG001)
-- Mekanisme tindakan yang disahkan daripada DrugBank (DG002)
-- Rekod lesen Malaysia yang lengkap (nombor lesen, nama produk, bentuk dos, teks indikasi yang diluluskan)
-- Penjelasan sama ada penggunaan semula yang dimaksudkan adalah *induksi amenorrhea terapeutik* (cth., untuk menorragia/endometriosis) dan bukannya amenorrhea sebagai kesan sampingan kontraseptif, sebaik-baiknya disokong oleh percubaan dengan amenorrhea sebagai titik akhir utama
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisipan pakej NPRA (amaran dan kontraindikasi) bagi menyelesaikan jurang data keselamatan yang menyekat
+- Data mekanisme tindakan (MOA) terperinci daripada DrugBank
+- Rasional klinikal yang jelas untuk penggunaan terapeutik (contohnya amenorea sekunder) berbanding kesan advers
+- Bukti klinikal atau literatur yang berkaitan
+- Penilaian keserasian laluan pentadbiran dan status pendaftaran tempatan
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

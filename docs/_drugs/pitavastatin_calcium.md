@@ -2,7 +2,7 @@
 layout: default
 title: Pitavastatin Calcium
 parent: Low Evidence (L4-L5)
-nav_order: 556
+nav_order: 583
 evidence_level: L5
 indication_count: 0
 ---

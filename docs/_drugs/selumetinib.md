@@ -2,7 +2,7 @@
 layout: default
 title: Selumetinib
 parent: Low Evidence (L4-L5)
-nav_order: 610
+nav_order: 640
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,72 +29,92 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Selumetinib: Daripada Neurofibromatosis Jenis 1 (NF1)-Berkait Neurofibromas Pleksiform kepada Lentiginosis Umum Keluarga
+# Selumetinib: Daripada Indikasi Asal Tidak Dinyatakan kepada Schwannoma Saraf Periferal
 
 ## Ringkasan Satu Ayat
 
-Selumetinib ialah penghambat MEK1/2 yang selektif, dikenali secara antarabangsa dan dipasarkan (sebagai Koselugo) untuk neurofibromas pleksiform yang berkait dengan NF1.
-Model TxGNN meramalkan bahawa ia mungkin berkesan untuk **Lentiginosis Umum Keluarga**, tetapi ini adalah isyarat **ramalan model sahaja** — **tiada ujian klinikal dan tiada kesusasteraan terbitan** menyokong indikasi khusus ini.
+Maklumat indikasi asal selumetinib tidak tersedia dalam data yang dikumpulkan untuk laporan ini, kerana ubat ini tidak berdaftar di Malaysia. Model TxGNN meramalkan ia mungkin berkesan untuk **schwannoma saraf periferal** (peringkat tertinggi dengan sokongan bukti). Setakat ini terdapat **3 ujian klinikal** (semuanya Fasa 2) dan **6 penerbitan** yang berkaitan, tetapi belum ada keputusan yang mengesahkan keberkesanan.
 
-## Panduan Pantas
+---
 
-| Item | Kandungan |
-|------|-----------|
-| Indikasi Asal | Neurofibromas pleksiform yang berkait dengan Neurofibromatosis jenis 1 (NF1) *(identiti ubat dikenali; tidak disahkan oleh teks pendaftaran tempatan — lihat Data Gap DG002)* |
-| Indikasi Baru yang Diprediksi | Lentiginosis Umum Keluarga |
-| Skor Prediksi TxGNN | 99.96% |
-| Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 2 |
-| Keputusan yang Disyorkan | Tahan |
+## Gambaran Keseluruhan Ringkas
 
-## Mengapa Prediksi Ini Munasabah?
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Tiada data (tiada lesen NPRA) |
+| Indikasi Baharu Diramal | Schwannoma saraf periferal (peringkat 9 dalam senarai ramalan) |
+| Skor Ramalan TxGNN | 99.95% |
+| Tahap Bukti | L2 mengikut penilaian dalam data. Namun, tiada ujian Fasa 2/3 yang telah selesai dengan keputusan yang jelas, jadi bukti sebenar adalah lebih lemah |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Proceed with Guardrails (dengan pengawasan ketat; lihat bahagian kesimpulan) |
 
-Pada masa ini, data mekanisme tindakan terperinci tidak tersedia (Data Gap DG002). Berdasarkan maklumat yang diketahui, Selumetinib ialah penghambat MEK1/2 yang selektif yang bertindak pada laluan isyarat RAS-MAPK, dan keberkesanannya dalam neurofibromas pleksiform yang berkait dengan NF1 telah ditubuhkan secara klinikal.
+**Nota:** Ramalan peringkat 1 hingga 8 dan peringkat 10 kebanyakannya berskor tinggi (sekitar 99.95%–99.96%) tetapi tiada ujian atau literatur sokongan, kecuali tumor rhabdoid (peringkat 3, bukti praklinikal L4). Laporan ini memfokuskan indikasi dengan bukti paling banyak, iaitu schwannoma saraf periferal.
 
-Lentiginosis umum keluarga tergolong dalam spektrum Sindrom LEOPARD / Sindrom Noonan, suatu kumpulan RASopathies. Nota rasional pakej bukti menyatakan bahawa proliferasi melanosit ciri penyakit mungkin melibatkan pengaktifan berlebihan laluan RAS-MAPK — laluan yang sama yang disasarkan oleh Selumetinib — yang memberikan alasan teori yang munasabah untuk ramalan model.
+---
 
-Walau bagaimanapun, kaitan mekanis ini adalah inferensial dan belum disokong oleh sebarang data eksperimental atau klinikal. Tiada ujian klinikal atau penerbitan khusus untuk Selumetinib dalam indikasi ini yang wujud pada masa ini, jadi kebolehpercayaan biologi yang diterangkan di atas harus diperlakukan sebagai hipotesis yang memerlukan pengesahan, bukan fakta yang ditubuhkan.
+## Mengapa Ramalan Ini Munasabah?
+
+Data terperinci mengenai mekanisme tindakan (MOA) belum tersedia. Berdasarkan maklumat yang diketahui, selumetinib ialah perencat MEK1/2 dan terdapat sokongan mekanistik yang munasabah untuk schwannoma.
+
+Kehilangan fungsi NF1/NF2 menyebabkan pengaktifan berlebihan laluan isyarat RAS/RAF/MEK/ERK dalam tumor berasal sel Schwann. Ini memberikan rasional langsung untuk perencatan MEK1/2. Selumetinib mempunyai aktiviti yang telah dibuktikan dalam neurofibroma pleksiform berkaitan NF1.
+
+Untuk schwannoma berkaitan NF2, bukti masih di peringkat awal: satu ujian Fasa 2 yang ditamatkan (n=10), dua kajian Fasa 2 yang belum merekrut, dan satu laporan kes pada ependimoma berkaitan NF2 yang menunjukkan respons separa.
+
+---
 
 ## Bukti Ujian Klinikal
 
-Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
+|---------|------|------|------|---------|
+| [NCT03095248](https://clinicaltrials.gov/study/NCT03095248) | Fasa 2 | Ditamatkan | 10 | Selumetinib pada tumor berkaitan NF2; menilai sama ada tumor berhenti membesar dan perubahan pendengaran. Ditamatkan dengan hanya 10 peserta, jadi hasil terhad |
+| [NCT07707947](https://clinicaltrials.gov/study/NCT07707947) | Fasa 2 | Belum merekrut | 20 | Kajian satu lengan perencat MEK1/2 pada schwannomatosis berkaitan NF2 (dewasa dan kanak-kanak); tiada keputusan |
+| [NCT07713745](https://clinicaltrials.gov/study/NCT07713745) | Fasa 2 | Belum merekrut | 200 | Platform PRIME-NF2 untuk pelbagai agen pada tumor NF2-SWN; kemasukan selumetinib belum disahkan |
 
-## Bukti Kesusasteraan
+---
 
-Pada masa ini tiada kesusasteraan berkaitan yang tersedia
+## Bukti Literatur
 
-## Sitotoksisiti
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [37906356](https://pubmed.ncbi.nlm.nih.gov/37906356/) | 2023 | Ulasan | Current Oncology Reports | Ulasan pengurusan tumor sistem saraf pada neurofibromatosis; perencat MEK menunjukkan kemajuan |
+| [37046591](https://pubmed.ncbi.nlm.nih.gov/37046591/) | 2023 | Ulasan/Cadangan pakar | Cancers | Cadangan pakar EURACAN untuk diagnosis dan rawatan tumor saraf periferal dan kranial; bukti terhad kerana kekurangan kes |
+| [38058737](https://pubmed.ncbi.nlm.nih.gov/38058737/) | 2023 | Laporan kes | Mol Ther Methods Clin Dev | Respons separa kepada selumetinib pada ependimoma berkaitan NF2 |
+| [38216572](https://pubmed.ncbi.nlm.nih.gov/38216572/) | 2024 | Praklinikal | Nature Communications | Interaksi penekan tumor NF1 dan NF2 dalam nyahdiferensiasi tumor sel Schwann dan rintangan rawatan |
+| [33835000](https://pubmed.ncbi.nlm.nih.gov/33835000/) | 2020 | Laporan kes | Acta Dermatovenerol Croat | Neurofibroma pleksiform tanpa NF1 |
+| [40861330](https://pubmed.ncbi.nlm.nih.gov/40861330/) | 2025 | Laporan kes | Surgical Case Reports | Pembedahan schwannoma mediastinum gergasi berkaitan NF1 (tidak melibatkan selumetinib) |
 
-*(Selumetinib diklasifikasikan sebagai agen antineoplastik — penghambat protein kinase MEK1/2 — berdasarkan pengelasan ubat antarabangsa yang diketahui.)*
+---
 
-| Item | Kandungan |
-|------|-----------|
-| Pengelasan Sitotoksisiti | Terapi sasaran (penghambat MEK1/2) |
-| Risiko Penindasan Sumsum Tulang | Sila rujuk sisipan pakej untuk amaran dan tindakan berjaga-jaga |
-| Pengelasan Emetogeniti | Sila rujuk sisipan pakej untuk amaran dan tindakan berjaga-jaga |
-| Item Pemantauan | Sila rujuk sisipan pakej untuk amaran dan tindakan berjaga-jaga |
-| Perlindungan Pengendalian | Sila rujuk sisipan pakej untuk amaran dan tindakan berjaga-jaga |
+## Keselamatan
 
-## Pertimbangan Keselamatan
+- **Interaksi Ubat:** Sebanyak 84 interaksi dikenal pasti. Interaksi **Major** yang dipaparkan termasuk:
+  - Aprepitant
+  - Dexamethasone
+  - Clarithromycin
+  - Cobicistat
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
+  Interaksi **Moderate** merangkumi aspirin, cimetidine, clotrimazole, deferasirox, serta beberapa antikoagulan dan antiplatelet (apixaban, dipyridamole, cilostazol, bivalirudin, cangrelor, abciximab dan lain-lain). Pesakit yang menerima antikoagulan atau antiplatelet perlu dipantau lebih rapi.
+
+Amaran utama dan kontraindikasi daripada sisipan pakej belum diperoleh. Sila rujuk sisipan pakej untuk maklumat keselamatan yang lengkap.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Proceed with Guardrails**
 
 **Rasional:**
-Indikasi yang diprediksi pangkat teratas (Lentiginosis Umum Keluarga) tidak mempunyai sokongan ujian klinikal atau kesusasteraan — tahap bukti L5, ramalan model sahaja. Digabungkan dengan dua jurang data yang menghalang/berisiko tinggi (amaran label TFDA/NPRA, dan MOA ubat), pada masa ini tiada asas untuk ulasan keselamatan S1.
+- Terdapat rasional mekanistik yang kukuh (laluan RAS/MEK/ERK) dan tiga ujian Fasa 2 pada tumor NF2. Walau bagaimanapun, satu ujian ditamatkan awal dengan 10 peserta, dua lagi belum bermula, dan tiada keputusan keberkesanan. Selumetinib juga tidak berdaftar di Malaysia. Oleh itu, ia sesuai sebagai soalan penyelidikan sahaja, bukan untuk kegunaan klinikal rutin.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Amaran dan kontraindikasi sisipan pakej TFDA/NPRA (DG001, Menghalang)
-- Data mekanisme tindakan yang disahkan DrugBank (DG002, Berisiko Tinggi)
-- Sebarang bukti praklinikal atau peringkat kes khusus untuk lentiginosis umum keluarga atau spektrum Sindrom LEOPARD/Sindrom Noonan
-- Pengesahan indikasi yang diluluskan pada asalnya ubat daripada rekod pendaftaran tempatan (pada masa ini kosong dalam kedua-dua penyertaan lesen)
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisipan pakej dan data amaran/kontraindikasi (jurang data yang menghalang saringan keselamatan)
+- Data mekanisme tindakan terperinci daripada DrugBank
+- Keputusan ujian NCT03095248 dan perkembangan NCT07707947 serta NCT07713745
+- Status pendaftaran dan laluan kelulusan di Malaysia (NPRA)
+- Pelan pemantauan keselamatan dan pengurusan interaksi ubat untuk populasi sasaran
 
-**Nota:** Dalam pakej bukti yang sama ini, *schwannoma saraf periferi* (pangkat 9) mempunyai bukti yang jauh lebih kuat — ujian Phase 2 yang selesai dan 7 penerbitan sokongan (tahap bukti L2, peringkat keputusan S2, "Soalan Penyelidikan") — dan mungkin menjamin penilaian berasingan yang diprioritaskan di hadapan calon yang dipangkat teratas di atas.
-
+**Ramalan lain (ringkas):** Tumor rhabdoid (peringkat 3) mempunyai sokongan praklinikal (L4) dan satu protokol saringan Pediatric MATCH yang hanya memberi sokongan tidak langsung. Indikasi lain (lentiginosis keluarga, sindrom gastrokutaneus, akromelanosis, sindrom Moynahan, schwannoma trigeminal dan lain-lain) hanyalah ramalan model tanpa bukti sokongan (L5, Hold).
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

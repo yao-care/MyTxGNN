@@ -2,7 +2,7 @@
 layout: default
 title: Avanafil
 parent: Low Evidence (L4-L5)
-nav_order: 104
+nav_order: 109
 evidence_level: L5
 indication_count: 0
 ---

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Clavulanic Acid
-parent: High Evidence (L1-L2)
-nav_order: 224
-evidence_level: L2
+parent: Low Evidence (L4-L5)
+nav_order: 229
+evidence_level: L4
 indication_count: 5
 ---
 
 # Clavulanic Acid
 {: .fs-9 }
 
-Tahap bukti: **L2** | Indikasi diramal: **5** 
+Tahap bukti: **L4** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,74 +29,94 @@ Tahap bukti: **L2** | Indikasi diramal: **5**
 
 </div>
 
-# Asid Klavulanat: Daripada Terapi Kombinasi Perencat Beta-Laktamase kepada Pneumonia Streptokok
+# Asid Klavulanik: Daripada Jangkitan Saluran Kencing kepada Pneumonia Streptokokus
 
 ## Ringkasan Satu Ayat
 
-Asid klavulanat mempunyai aktiviti antibakteria yang boleh diabaikan pada dirinya sendiri; ia digunakan semata-mata sebagai rakan kombinasi dos tetap (paling lazim dengan amoksisilin, seperti dalam Augmentin) untuk melindungi penisilin daripada enzim beta-laktamase bakteria.
-Ramalan tertinggi model TxGNN ialah **Pneumonia Streptokok**, tetapi kes mekanistik adalah lemah kerana *S. pneumoniae* sendiri jarang menghasilkan beta-laktamase.
-Tiada ujian klinikal khusus untuk pasangan ini yang diperoleh; sokongan datang daripada **20 penerbitan**, kebanyakannya kesusasteraan tidak langsung tentang penggunaan amoksisilin/klavulanat dalam jangkitan pernafasan.
+Asid klavulanik ialah perencat beta-laktamase yang biasanya digandingkan dengan antibiotik beta-laktam seperti amoksisilin. Ia pada asalnya digunakan untuk jangkitan bakteria, termasuk jangkitan saluran kencing.
+Model TxGNN meramalkan ia mungkin berkesan untuk **pneumonia streptokokus**. Setakat ini terdapat **0 ujian klinikal** dan **20 penerbitan** yang berkaitan, dan hampir semuanya kajian ulasan atau data pengawasan, bukan ujian khusus.
 
-## Gambaran Ringkas
+---
 
-| Item | Kandungan |
+## Gambaran Keseluruhan
+
+| Perkara | Kandungan |
 |------|------|
-| Petunjuk Asal | Tidak dinyatakan dalam rekod pendaftaran NPRA yang diperoleh; asid klavulanat dipasarkan hanya sebagai produk kombinasi (contohnya, dengan amoksisilin) untuk jangkitan bakteria |
-| Petunjuk Baru Diramal | Pneumonia Streptokok |
+| Indikasi Asal | Jangkitan saluran kencing |
+| Indikasi Baharu yang Diramalkan | Pneumonia streptokokus |
 | Skor Ramalan TxGNN | 0.00% |
-| Tahap Bukti | L2 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 20 |
-| Keputusan Disyorkan | Teruskan dengan Penjagaan |
+| Tahap Bukti | L4 |
+| Status Pasaran di Malaysia | Tidak dipasarkan (sebagai agen tunggal) |
+| Bilangan Pendaftaran | 0 |
+| Keputusan yang Disyorkan | Hold (Tangguh) |
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan terperinci tidak tersedia. Berdasarkan maklumat yang diketahui, asid klavulanat ialah perencat tidak boleh balik beta-laktamase bakteria yang berasal daripada beta-laktam (terutamanya TEM-1). Ia mempunyai sedikit aktiviti antibakteria intrinsik pada dirinya sendiri; peranannya yang klinikal ialah memulihkan aktiviti penisilin yang diberikan bersama (biasanya amoksisilin, kadang-kadang tikarsilina) terhadap strain pengeluar beta-laktamase. Ia tidak pernah dipasarkan sebagai antibiotik tunggal.
+Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, asid klavulanik ialah perencat beta-laktamase yang melindungi amoksisilin daripada degradasi enzim. Keberkesanan gabungan ini dalam jangkitan bakteria telah dibuktikan, dan secara mekanistik ia mungkin boleh digunakan untuk pneumonia streptokokus.
 
-Untuk ramalan tertinggi, pneumonia streptokok, pakej bukti sendiri menandakan amaran: *S. pneumoniae* biasanya bukan pengeluar beta-laktamase, jadi sumbangan asid klavulanat di sini sebahagian besarnya tidak langsung — ia meluaskan liputan amoksisilin/klavulanat terhadap patogen bersama pengeluar beta-laktamase (contohnya, *H. influenzae*) yang biasa ditemui bersama *S. pneumoniae* dalam pneumonia yang diperoleh masyarakat (CAP), sebaliknya bertindak terhadap pneumokok secara langsung. Amoksisilin/klavulanat bagaimanapun ialah pilihan empirik garis pertama yang ditubuhkan untuk CAP, oleh itu kombinasi muncul berulang kali dalam kesusasteraan walaupun pautan mekanistik untuk asid klavulanat khususnya adalah tidak langsung.
+Hubungan antara indikasi asal dengan indikasi baharu ini agak lemah. Rintangan *Streptococcus pneumoniae* terhadap beta-laktam terutamanya disebabkan oleh perubahan protein pengikat penisilin (PBP), bukan beta-laktamase. Perencat beta-laktamase hanya menambah sedikit manfaat untuk patogen ini. Liputan antibiotik lebih bergantung pada rakan gabungan (amoksisilin) dan patogen bersama yang menghasilkan beta-laktamase, seperti *Haemophilus influenzae*.
 
-Patut diperhatikan: dalam kalangan petunjuk calon lain dalam pakej bukti ini, jangkitan saluran kencing (pangkat 3) mempunyai rasional mekanistik yang jauh lebih kuat dan langsung — perencat beta-laktamase asid klavulanat secara langsung memulihkan aktiviti amoksisilin terhadap uropatogen pengeluar beta-laktamase — dan membawa tahap bukti tertinggi (L1) daripada lima calon.
+Perlu diperhatikan juga bahawa ini lebih merupakan indikasi sedia ada daripada repurposing sebenar. Pangkalan pengetahuan TxGNN sendiri sudah menyenaraikan pneumonia streptokokus dalam kalangan indikasi asal asid klavulanik. Skor ramalan 0.00% menunjukkan sokongan model yang sangat rendah.
+
+---
 
 ## Bukti Ujian Klinikal
 
-Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
-## Bukti Kesusasteraan
+---
+
+## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [1854164](https://pubmed.ncbi.nlm.nih.gov/1854164/) | 1991 | Ujian Terkawal Rawak | Antimicrobial Agents and Chemotherapy | Amoksisilin-asid klavulanat berkesan terhadap jangkitan pernafasan *S. pneumoniae* eksperimental pada tikus; siprofloksasin gagal membersihkan jangkitan |
-| [15303634](https://pubmed.ncbi.nlm.nih.gov/15303634/) | 2004 | Ujian Terkawal Rawak | Respiratory Medicine | Gemifloksasin (7 hari) vs. amoksisilin/asid klavulanat (10 hari) untuk CAP asal pneumokok yang disyaki |
-| [10501315](https://pubmed.ncbi.nlm.nih.gov/10501315/) | 1999 | Ulasan | Seminars in Respiratory Infections | Rawatan pneumonia pneumokok di tengah peningkatan rintangan penisilin dan makrolid |
-| [9711451](https://pubmed.ncbi.nlm.nih.gov/9711451/) | 1998 | Ulasan | Drugs | Ulasan azitromisina dalam jangkitan pernafasan pediatrik, mengkontekstualisasikan alternatif beta-laktam |
-| [15212560](https://pubmed.ncbi.nlm.nih.gov/15212560/) | 2004 | Ulasan | Drugs | Ulasan sefalinir; menutup aktiviti terhadap *S. pneumoniae* yang terdedah kepada penisilin |
-| [16137193](https://pubmed.ncbi.nlm.nih.gov/16137193/) | 2005 | Ulasan | Treatments in Respiratory Medicine | Formulasi pelepasan lanjutan amoksisilin/asid klavulanat untuk jangkitan pernafasan, termasuk strain pneumokok yang terdedah berkurang |
-| [14979735](https://pubmed.ncbi.nlm.nih.gov/14979735/) | 2004 | Ulasan | Drugs & Aging | Pilihan antibakteria untuk jangkitan saluran pernafasan bawah pada pesakit warga tua; *S. pneumoniae* isolat paling biasa |
-| [9793046](https://pubmed.ncbi.nlm.nih.gov/9793046/) | 1998 | Ulasan | Presse Médicale | Ulasan sama ada monoterapi ampisilina mencukupi untuk pneumonia yang diperoleh masyarakat |
-| [2227080](https://pubmed.ncbi.nlm.nih.gov/2227080/) | 1990 | Kohort | J International Medical Research | Kajian terbuka amoksisilin+asid klavulanat pada kanak-kanak dengan jangkitan saluran pernafasan, termasuk bronkopneumonia |
-| [36086715](https://pubmed.ncbi.nlm.nih.gov/36086715/) | 2022 | Kohort | Medicine | Kajian keratan rentas bakteria penyebab CAP dan rintangan antibiotik pada pesakit Vietnam |
+| [10501315](https://pubmed.ncbi.nlm.nih.gov/10501315/) | 1999 | Ulasan | Seminars in Respiratory Infections | Rintangan penisilin banyak menjejaskan meningitis tetapi sedikit kesannya terhadap kematian akibat pneumonia pneumokokus, kerana kepekatan ubat dalam serum dan paru-paru jauh melebihi MIC. |
+| [16137193](https://pubmed.ncbi.nlm.nih.gov/16137193/) | 2005 | Ulasan | Treatments in Respiratory Medicine | Amoksisilin/asid klavulanik 2000 mg/125 mg lepas lama direka untuk jangkitan saluran pernafasan dewasa, terutamanya *S. pneumoniae* yang kurang peka terhadap amoksisilin. |
+| [14979735](https://pubmed.ncbi.nlm.nih.gov/14979735/) | 2004 | Ulasan | Drugs & Aging | Pilihan antibakteria untuk jangkitan saluran pernafasan bawah pada warga emas. *S. pneumoniae* ialah isolat bakteria paling lazim dalam pneumonia komuniti. |
+| [10615328](https://pubmed.ncbi.nlm.nih.gov/10615328/) | 1999 | Ulasan (farmakodinamik) | Deutsche Medizinische Wochenschrift | Aspek farmakodinamik baharu bagi amoksisilin/asid klavulanik 875/125 mg (tiada abstrak). |
+| [9793046](https://pubmed.ncbi.nlm.nih.gov/9793046/) | 1998 | Ulasan/Komentari | Presse Médicale | Perbincangan sama ada ampisilin sahaja memadai semula untuk pneumonia komuniti. |
+| [1854164](https://pubmed.ncbi.nlm.nih.gov/1854164/) | 1991 | Kajian haiwan | Antimicrobial Agents and Chemotherapy | Perbandingan siprofloksasin, amoksisilin, amoksisilin-asid klavulanik dan sefaklor dalam jangkitan pernafasan *S. pneumoniae* pada mencit. Dos menghasilkan kepekatan serum dan paru-paru yang serupa dengan manusia. |
+| [15303634](https://pubmed.ncbi.nlm.nih.gov/15303634/) | 2004 | Perbandingan klinikal | Respiratory Medicine | Gemifloksasin sekali sehari selama 7 hari dibandingkan dengan amoksisilin/asid klavulanik tiga kali sehari selama 10 hari untuk pneumonia komuniti yang disyaki berpunca daripada pneumokokus. |
+| [14745340](https://pubmed.ncbi.nlm.nih.gov/14745340/) | 2003 | Meta-analisis | Revue de Pneumologie Clinique | Empat kajian rawak membandingkan levofloksasin dengan antibiotik lain, termasuk amoksisilin-asid klavulanik, pada 1,738 pesakit pneumonia komuniti. |
+| [2227080](https://pubmed.ncbi.nlm.nih.gov/2227080/) | 1990 | Kajian label terbuka | Journal of International Medical Research | Amoksisilin dan asid klavulanik diberikan kepada 93 kanak-kanak dengan jangkitan saluran pernafasan, termasuk 33 kes bronkopneumonia. |
+| [28325626](https://pubmed.ncbi.nlm.nih.gov/28325626/) | 2017 | Laporan kes | Revista Argentina de Microbiología | Pneumonia nekrotik Streptococcus kumpulan B pada pesakit diabetes dewasa, dirawat dengan amoksisilin-asid klavulanik selepas ceftazidim dan klindamisin, dengan perkembangan yang baik. |
+
+---
 
 ## Maklumat Pasaran Malaysia
 
-20 produk yang mengandungi asid klavulanat (sebagai terapi kombinasi) didaftarkan sebagai Dipasarkan dengan NPRA. Nombor lesen, nama produk, bentuk dos, dan teks petunjuk yang diluluskan tidak dikembalikan dalam set data ini dan tidak boleh disenaraikan di sini.
+Asid klavulanik tidak dipasarkan sebagai agen tunggal di Malaysia dan tiada pendaftaran yang direkodkan dalam data yang disusun untuk laporan ini. Ia mungkin tersedia dalam bentuk gabungan, tetapi data gabungan tersebut tidak termasuk dalam laporan ini.
+
+---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan bungkusan untuk maklumat keselamatan.
+**Interaksi Ubat** (16 interaksi dikenal pasti):
+- **Major (Utama):** leflunomid dan teriflunomid.
+- **Moderate (Sederhana):** naltrekson, balsalazid, asparaginase *Escherichia coli*, brentuximab vedotin, klofarabin, epirubisin, idelalisib, interferon beta-1a, interferon beta-1b, pegaspargase, peginterferon beta-1a, tioguanin, trabektedin dan metotreksat.
+
+**Penyakit yang dikaitkan dengan kontraindikasi** (daripada pangkalan pengetahuan TxGNN, bukan teks label): penyakit buah pinggang, piouretur, penyakit hati, penyakit pundi hempedu, kolitis *Clostridium difficile*, enterokolitis nekrotik perinatal, kolestasis (termasuk kolestasis intrahepatik berulang jinak dan kolestasis intrahepatik familial), mononukleosis berjangkit dan sindrom jangkitan kronik virus Epstein-Barr.
+
+Amaran utama dan kontraindikasi daripada sisipan pakej tidak tersedia. Sila rujuk sisipan pakej untuk maklumat keselamatan yang lengkap.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Teruskan dengan Penjagaan**
+**Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-Amoksisilin/asid klavulanat ialah rawatan CAP yang mapan, tetapi khususnya untuk pneumonia streptokok, sumbangan mekanistik asid klavulanat adalah tidak langsung (menutup patogen bersama daripada pneumokok sendiri), dan tiada ujian klinikal yang secara langsung menyasarkan pasangan ini ditemui — bukti bergantung pada kesusasteraan tahap L2 sahaja.
+- Tiada ujian klinikal didaftarkan untuk pneumonia streptokokus. Literatur hanya terdiri daripada ulasan naratif, data pengawasan dan satu kajian haiwan, jadi buktinya setakat tahap L4.
+- Mekanisme rintangan pneumokokus (perubahan PBP) bukan sasaran asid klavulanik, dan skor ramalan TxGNN ialah 0.00%.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Amaran sisipan bungkusan TFDA/NPRA dan kontraindikasi (ditandakan sebagai jurang data **penyekat** — pra-penilaian keselamatan tidak dapat diteruskan tanpanya)
-- Dokumentasi mekanisme tindakan daripada DrugBank
-- Perincian tahap lesen NPRA (nama produk, bentuk dos, teks petunjuk yang diluluskan) untuk mengesahkan produk dan formulasi didaftarkan yang relevan
-- Pertimbangkan untuk mengutamakan calon jangkitan saluran kencing (bukti L1, pautan mekanistik langsung) bersama petunjuk ini untuk penilaian lanjut
-
+- Sisipan pakej NPRA (amaran dan kontraindikasi), kerana ketiadaannya menghalang saringan keselamatan.
+- Data mekanisme tindakan (MOA) yang terperinci daripada DrugBank.
+- Ujian klinikal yang dapat mengasingkan sumbangan asid klavulanik daripada rakan gabungan beta-laktamnya.
+- Data rintangan tempatan di Malaysia bagi *S. pneumoniae* dan patogen pernafasan bersama.
+- Sebagai rujukan, indikasi jangkitan saluran kencing yang juga dinilai dalam data ini mempunyai bukti lebih kukuh (L1, dengan ujian Fasa 3 dan satu ujian rawak 2024) dan disyorkan "Proceed with Guardrails". Walau bagaimanapun, ia juga merupakan indikasi sedia ada, bukan repurposing sebenar.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

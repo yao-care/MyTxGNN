@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Streptokinase
-parent: Low Evidence (L4-L5)
-nav_order: 628
-evidence_level: L5
+parent: High Evidence (L1-L2)
+nav_order: 659
+evidence_level: L1
 indication_count: 10
 ---
 
 # Streptokinase
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L1** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,87 +29,110 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Streptokinase: Dari Terapi Thrombolytic kepada Infark Miokard
+# Streptokinase: Daripada Indikasi Asal kepada Infarksi Miokardium
 
 ## Ringkasan Satu Ayat
 
-Streptokinase ialah enzim fibrinolitik (thrombolytic) yang berasal daripada bakteria. Ramalan teratas model TxGNN untuk ubat ini ialah **Infark Miokard**, disokong oleh **20 penerbitan sejarah** — namun, petunjukan yang diramalkan ini banyak bertindih dengan penggunaan klinikal klasikal streptokinase yang telah lama disahkan sebagai thrombolytic dalam MI akut, jadi ia harus dibaca sebagai pengesahan bukti, bukan sebagai isyarat pengubahturusan yang asli. Tiada percubaan klinikal berstruktur yang berdaftar untuk pasangan khusus ini, dan data label/keselamatan NPRA (Malaysia) untuk calon ini kini merupakan jurang yang menghalang.
+Streptokinase ialah agen trombolitik (pemecah bekuan) yang berfungsi dengan mengaktifkan plasminogen kepada plasmin untuk melarutkan fibrin dalam bekuan darah. Data pendaftaran tempatan tidak merekodkan sebarang indikasi asal yang diluluskan.
+Model TxGNN meramalkan ia mungkin berkesan untuk **infarksi miokardium (myocardial infarction)**, dengan **7 percubaan klinikal** dan **20 penerbitan** dalam data yang dikumpulkan untuk laporan ini menyokong arah ini. Perlu diingat bahawa ini sebenarnya penggunaan yang sudah mantap dan bukan pengangkatan semula (repurposing) yang sebenar.
 
 ---
 
-## Ikhtisar Cepat
+## Gambaran Ringkas
 
-| Perkara | Kandungan |
+| Item | Kandungan |
 |------|------|
-| Petunjukan Asal | Tidak tersedia — medan rekod lesen NPRA kini kosong (lihat Pertimbangan Keselamatan) |
-| Petunjukan Baru yang Diramalkan | Infark Miokard |
+| Indikasi Asal | Tiada rekod indikasi diluluskan dalam data pendaftaran tempatan |
+| Indikasi Baharu yang Diramalkan | Infarksi miokardium (myocardial infarction) |
 | Skor Ramalan TxGNN | 99.83% |
-| Tahap Bukti | L1 (percubaan terkawal rawak sejarah berganda dalam literatur) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 1 |
-| Keputusan yang Disyorkan | Hold |
+| Tahap Bukti | L1 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan yang Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Perlindungan) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa kini, data mekanisme tindakan terperinci daripada DrugBank tidak tersedia untuk calon ini (jurang data). Berdasarkan pengetahuan farmakologi umum, streptokinase ialah **enzim fibrinolitik/thrombolytic**: ia membentuk kompleks dengan plasminogen yang mengkatalisis penukaran plasminogen kepada plasmin, yang seterusnya merendahkan fibrin dan membubarkan thrombi intravaskular.
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan. Berdasarkan maklumat sedia ada, streptokinase membentuk kompleks dengan plasminogen yang menukarkan plasminogen kepada plasmin. Plasmin kemudian melarutkan fibrin dalam trombus koronari yang menyumbat salur darah, lalu memulihkan semula aliran darah (reperfusi).
 
-Infark miokard disebabkan oleh thrombosis arteri koronari akut; thrombolytic yang membersihkan bekuan oklusi dan memulihkan aliran koronari dapat diaplikasikan secara mekanik secara langsung kepada keadaan ini. Selaras dengan ini, set bukti literatur didominasi oleh kajian (daripada tahun 1970-an–1990-an) menilai penggunaan yang tepat — terapi reperfusi untuk MI akut.
+Infarksi miokardium akut biasanya disebabkan oleh sumbatan trombus pada arteri koronari. Oleh itu, mekanisme fibrinolisis secara langsung sepadan dengan patologi penyakit ini. Streptokinase ialah trombolitik lama yang diiktiraf dalam garis panduan untuk STEMI, terutamanya di tempat yang tidak mempunyai kemudahan intervensi koronari perkutaneus (PCI).
 
-**Kaveat penting**: ini bukan benar-benar petunjukan "baru" yang ditemui — thrombolysis untuk MI akut ialah aplikasi klinikal utama klasikal streptokinase yang berumur puluhan tahun. Skor TxGNN di sini kemungkinan besar mencerminkan model memulihkan persatuan ubat-penyakit yang terkenal yang tertanam dalam grafik pengetahuan latihannya, sebaliknya daripada meluncurkan peluang pengubahturusan yang benar-benar baru. Ini harus ditimbang dengan berat apabila mentafsir cadangan "Teruskan/Tahan" di bawah.
+Status "tidak dipasarkan" dan ketiadaan indikasi asal dalam data tempatan merupakan jurang data. Status pasaran sebenar perlu disahkan.
 
 ---
 
 ## Bukti Percubaan Klinikal
 
-Pada masa kini tiada percubaan klinikal berkaitan yang berdaftar (ClinicalTrials.gov dan ICTRP kedua-duanya mengembalikan 0 hasil untuk Streptokinase × infark miokard; bukti sokongan mendahului era pendaftaran percubaan moden, yang konsisten dengan tarikh literatur di bawah).
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
+|---------|------|------|------|---------|
+| [NCT00000507](https://clinicaltrials.gov/study/NCT00000507) | Fasa 3 | Selesai | Tidak dilaporkan | Streptokinase intravena awal dalam infarksi miokardium transmural akut untuk mengehadkan kerosakan miokardium |
+| [NCT00000503](https://clinicaltrials.gov/study/NCT00000503) | Fasa 3 | Selesai | Tidak dilaporkan | Reperfusi koronari tanpa pembedahan terhadap saiz infarksi (lengan streptokinase perlu disahkan) |
+| [NCT00627809](https://clinicaltrials.gov/study/NCT00627809) | Fasa 4 | Selesai | 53 | Streptokinase intrakoronari dos rendah sebagai tambahan kepada PCI primer dalam STEMI |
+| [NCT01305226](https://clinicaltrials.gov/study/NCT01305226) | Fasa 3 | Selesai | 120 | Staphylokinase rekombinan bolus berganda berbanding streptokinase dalam MI akut |
+| [NCT02182011](https://clinicaltrials.gov/study/NCT02182011) | Fasa 3 | Selesai | 49 | Perbandingan kesan prokoagulan tenecteplase, alteplase dan streptokinase dalam AMI |
+| [NCT03677466](https://clinicaltrials.gov/study/NCT03677466) | Tiada fasa | Selesai | 60 | Pendarahan intramiokardium dalam STEMI dengan strategi reperfusi berbeza |
+| [NCT02893280](https://clinicaltrials.gov/study/NCT02893280) | Tiada | Ditarik balik | 0 | Audit sindrom koronari akut di Sri Lanka; tiada nilai bukti |
 
 ---
 
 ## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|------|-------|-------|---------|
-| [4934187](https://pubmed.ncbi.nlm.nih.gov/4934187/) | 1971 | RCT | British Medical Journal | Percubaan multisentrik Pihak Kerja Eropah; 730 pesakit MI yang boleh dinilai dirandomisasi kepada streptokinase vs. heparin. |
-| [481511](https://pubmed.ncbi.nlm.nih.gov/481511/) | 1979 | RCT | New England Journal of Medicine | Percubaan terkawal dalam 512 pesakit AMI berstrata di 11 pusat Eropah; infusi streptokinase 24 jam vs. glukosa mengurangkan secara ketara mortaliti 6 bulan (p<0.01) dalam kumpulan risiko sederhana/tinggi. |
-| [2888018](https://pubmed.ncbi.nlm.nih.gov/2888018/) | 1987 | RCT | New England Journal of Medicine | Percubaan buta ganda, 219 pesakit dengan AMI <4h dari permulaan; streptokinase IV (1.5 MU) vs. plasebo; titik akhir utama fungsi ventrikel kiri. |
-| [3312370](https://pubmed.ncbi.nlm.nih.gov/3312370/) | 1987 | Ulasan | Journal of the American College of Cardiology | Ulasan percubaan rawak streptokinase intrakoronari dan intravena untuk AMI, termasuk percubaan Western Washington dan Netherlands. |
-| [8028463](https://pubmed.ncbi.nlm.nih.gov/8028463/) | 1994 | Meta-analisis / Analisis keputusan | Medical Decision Making | Analisis meta-gabungan dan analisis keputusan keberkesanan kos streptokinase IV mengikut lokasi infark dan kemungkinan infarksi. |
-| [21070617](https://pubmed.ncbi.nlm.nih.gov/21070617/) | 2012 | Ulasan | Cardiovascular Therapeutics | Ulasan penemuan streptokinase dan manfaat mortaliti yang ditunjukkan dalam AMI, dan aktivator plasminogen tisu kemudian (alteplase, reteplase, tenecteplase). |
-| [10172727](https://pubmed.ncbi.nlm.nih.gov/10172727/) | 1995 | Ulasan | Journal of Interventional Cardiology | Percubaan streptokinase Pihak Kerja Eropah dan percubaan alteplase Kumpulan Kajian Koperatif Eropah dalam AMI. |
-| [7895344](https://pubmed.ncbi.nlm.nih.gov/7895344/) | 1995 | Ulasan | Circulation | Membincangkan pengurusan AMI yang optimal memerlukan reperfusi awal yang lengkap. |
-| [3815914](https://pubmed.ncbi.nlm.nih.gov/3815914/) | 1987 | Laporan kes | Clinical Cardiology | Lelaki berusia 45 tahun mengembangkan MI kedua (anterior) semasa terapi streptokinase yang didapati berjaya untuk MI inferolateral awal. |
-| [8005961](https://pubmed.ncbi.nlm.nih.gov/8005961/) | 1993 | Ulasan | Journal of the Association of Physicians of India | Perbincangan penggunaan streptokinase dalam MI akut. |
+|------|-----|------|------|---------|
+| [10572811](https://pubmed.ncbi.nlm.nih.gov/10572811/) | 1999 | Meta-analisis | J Accid Emerg Med | Perbandingan hasil t-PA dipercepat dengan streptokinase dalam AMI |
+| [2146913](https://pubmed.ncbi.nlm.nih.gov/2146913/) | 1990 | Meta-analisis | Ann Intern Med | Kesan streptokinase intravena terhadap kematian awal mengikut lokasi infarksi |
+| [8130384](https://pubmed.ncbi.nlm.nih.gov/8130384/) | 1994 | Ulasan | Drugs & Aging | Faedah kelangsungan hidup streptokinase pada pesakit warga emas; ISIS-2 menunjukkan pengurangan kematian |
+| [2191849](https://pubmed.ncbi.nlm.nih.gov/2191849/) | 1990 | Ulasan | Drugs | Ujian GISSI, ISIS-2 dan ISAM (>30,000 pesakit) menyokong streptokinase intravena dalam MI akut |
+| [3312370](https://pubmed.ncbi.nlm.nih.gov/3312370/) | 1987 | Ulasan | J Am Coll Cardiol | Ulasan ujian rawak streptokinase intrakoronari dan intravena |
+| [481511](https://pubmed.ncbi.nlm.nih.gov/481511/) | 1979 | Ujian terkawal | N Engl J Med | Ujian Eropah: infusi streptokinase 24 jam mengurangkan kematian 6 bulan pada kumpulan risiko sederhana-tinggi |
+| [3396164](https://pubmed.ncbi.nlm.nih.gov/3396164/) | 1988 | Ujian rawak | Circulation | Ujian Western Washington (368 pesakit): kadar patensi arteri infarksi lebih tinggi dengan streptokinase (68.5%) |
+| [10163575](https://pubmed.ncbi.nlm.nih.gov/10163575/) | 1996 | Penilaian farmakoekonomi | PharmacoEconomics | Streptokinase setara dengan alteplase 3 jam dalam mengurangkan kematian |
+| [9339259](https://pubmed.ncbi.nlm.nih.gov/9339259/) | 1997 | Ulasan | Arch Mal Coeur Vaiss | Antibodi anti-streptokinase dan kesan imunogenik |
+| [10611814](https://pubmed.ncbi.nlm.nih.gov/10611814/) | 1999 | Laporan kes | Rev Esp Cardiol | Jaundis teraruh streptokinase selepas trombolisis |
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Rekod NPRA mengesahkan **1 pendaftaran aktif** dengan status pasaran "Dipasarkan," tetapi medan nombor lesen khusus, nama produk, bentuk dos, dan teks petunjukan yang diluluskan kini kosong dalam rekod dasar (jurang data — lihat DG001). Medan ini perlu diisi daripada leaflet ubat NPRA rasmi sebelum tuntutan perincian pasaran dapat dibuat.
+Streptokinase buat masa ini **tidak dipasarkan** di Malaysia berdasarkan data yang dikumpulkan, dan tiada pendaftaran direkodkan. Status ini perlu disahkan semula.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk leaflet ubat untuk maklumat keselamatan. (Data amaran utama, kontraindikasi, dan interaksi ubat–ubat semuanya kini tidak tersedia — DG001, Keparahan Pemblokiran — dan mesti diperolehi daripada leaflet ubat NPRA/pengilang rasmi sebelum mana-mana penilaian keselamatan dapat diteruskan.)
+- **Interaksi Ubat**: Sebanyak 100 interaksi direkodkan. Antara yang utama:
+  - **Major**: abciximab, apixaban, betrixaban, bivalirudin, acalabrutinib, avapritinib, deferasirox, ibritumomab tiuxetan, tositumomab (I-131)
+  - **Moderate**: asid asetilsalisilik, ibuprofen, ketorolac, celecoxib, asid aminokaproik, asid lemak omega-3, fenfluramine, sibutramine, halia
+- **Risiko berkaitan dalam literatur**: risiko pendarahan (termasuk pendarahan intrakranial), antibodi anti-streptokinase dan tindak balas alahan, serta jaundis teraruh streptokinase (laporan kes). Satu kajian memerhatikan kemungkinan kaitan trombolisis dengan pecah septum dan infarksi hemoragik.
+
+Sila rujuk sisipan pek (package insert) untuk amaran dan kontraindikasi yang lengkap.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold**
+**Keputusan: Proceed with Guardrails (Teruskan dengan Langkah Perlindungan)**
 
 **Rasional:**
-- Bukti keberkesanan untuk streptokinase dalam infark miokard adalah kuat (percubaan terkawal rawak sejarah berganda), tetapi ini sebahagian besarnya mencerminkan penggunaan klasikal yang telah disahkan ubat daripada isyarat pengubahturusan baru, mengehadkan nilai mengejar sebagai calon "petunjukan baru".
-- Lebih penting lagi, data label NPRA (amaran, kontraindikasi, DDI) adalah **Pemblokiran** jurang data yang menghalang malah penilaian keselamatan awal (S1) — calon tidak dapat maju sehingga ini diselesaikan.
+- Beberapa ujian Fasa 3 dan banyak literatur menyokong penggunaan streptokinase dalam infarksi miokardium akut. Namun, ini ialah penggunaan mantap dan bukan repurposing sebenar, dan statusnya yang "tidak dipasarkan" di Malaysia perlu disahkan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Dapatkan dan huraikan leaflet ubat NPRA rasmi (amaran, kontraindikasi, interaksi) untuk menutup DG001
-- Ambil data MOA/klasifikasi DrugBank untuk menutup DG002
-- Sahkan teks petunjukan yang diluluskan sebenarnya streptokinase pada label Malaysia, untuk menentukan sama ada MI sudah dilindungi (menjadikan ini latihan pengembangan label/pengesahan, bukan pengubahturusan sebenar)
-- Deprioritasi calon hiliran bukti rendah yang sudah ditandai Hold/L5 dalam pak ini (cth., hemoglobinopati, pemadaman 16p separa), yang kelihatan seperti artifak grafik pengetahuan daripada isyarat yang munasabah
+- Mengesahkan status pendaftaran dan pasaran di NPRA serta memuat turun sisipan pek untuk amaran dan kontraindikasi (jurang data yang menyekat)
+- Data mekanisme tindakan terperinci daripada DrugBank
+- Mengehadkan penggunaan kepada tetapan tanpa PCI
+- Langkah perlindungan: risiko pendarahan, antibodi anti-streptokinase dan tindak balas alahan, serta tiada pemberian semula selepas pendedahan terdahulu
+- Mengesahkan lengan streptokinase dalam NCT00000503
 
+---
+
+### Nota Mengenai Indikasi Lain yang Diramalkan
+
+| Indikasi | Skor TxGNN | Tahap Bukti | Keputusan |
+|------|------|------|------|
+| Trombosis koronari | 99.71% | L1 | Proceed with Guardrails (sokongan tidak langsung; ujian Fasa 3 melibatkan trombosis injap prostetik) |
+| Penyakit arteri periferi / penyakit vaskular periferi | 99.60% / 99.65% | L3 | Soalan penyelidikan (agen lebih baharu telah menggantikan streptokinase) |
+| Angina Prinzmetal, hemoglobinopati, subjenis MI (septal, posteroinferior, posterolateral), delesi separa lengan pendek kromosom 16 | 99.56%–99.80% | L4–L5 | Hold (bukti tidak langsung atau tiada; kemungkinan artifak graf pengetahuan) |
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

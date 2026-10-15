@@ -2,7 +2,7 @@
 layout: default
 title: Sevoflurane
 parent: Low Evidence (L4-L5)
-nav_order: 613
+nav_order: 643
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,59 +29,95 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Sevoflurane: Daripada Anestezi Umum kepada Angina Prinzmetal
+# Sevoflurane: Daripada Anestesia Umum kepada Prinzmetal Angina
 
 ## Ringkasan Satu Ayat
 
-Sevoflurane ialah anestetik umum inhalasi yang mudah meruap; petunjuk kelulusan khusus yang diluluskan Malaysia tidak tersedia dalam set data semasa. Ramalan berkedudukan teratas model TxGNN ialah **angina Prinzmetal**, tetapi arah ini tidak disokong oleh **sebarang ujian klinikal dan kesusasteraan** — dan satu-satunya ulasan mekanistik yang tersedia berhujah sebaliknya (laporan kes menggambarkan sevoflurane *mencetuskan atau memperburuk* vasospasm koroner, bukan merawatnya).
+Sevoflurane ialah agen anestetik terhidu (volatil) yang digunakan untuk anestesia umum, dan data yang dikumpulkan untuk laporan ini tidak mencatatkan indikasi asal yang berdaftar di Malaysia.
+Model TxGNN meramalkan ia mungkin berkesan untuk **Prinzmetal angina** (skor 99.78%), tetapi buat masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong ramalan ini.
+Ramalan ini hanya berdasarkan model (tahap bukti L5) dan masih bersifat spekulatif.
 
-## Gambaran Keseluruhan Pantas
+---
 
-| Item | Kandungan |
-|------|-----------|
-| Petunjuk Asal | Anestezi umum (aruhan/penyelenggaraan) — teks petunjuk kelulusan NPRA khusus tidak tersedia dalam set data |
-| Petunjuk Baru Yang Diramal | Angina Prinzmetal |
+## Gambaran Keseluruhan Ringkas
+
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Tiada data indikasi berdaftar daripada NPRA (secara umum digunakan sebagai anestetik umum terhidu) |
+| Indikasi Baharu yang Diramalkan | Prinzmetal angina |
 | Skor Ramalan TxGNN | 99.78% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 6 |
-| Keputusan Yang Disyorkan | Tahan |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci untuk sevoflurane tidak tersedia dalam paket bukti ini (ditandai sebagai jurang data yang teruk). Sevoflurane diketahui secara luas sebagai anestetik inhalasi eter berhalogen yang bertindak melalui potensiasi GABA-A dan antagonisme reseptor NMDA untuk menghasilkan kemurungan sistem saraf pusat — satu farmakologi yang tidak berkaitan dengan vasospasm koroner, yang merupakan patofisiologi asas angina Prinzmetal.
+Data terperinci mengenai mekanisme tindakan (MOA) buat masa ini tidak tersedia. Berdasarkan maklumat yang diketahui, sevoflurane ialah anestetik volatil yang digunakan dalam keadaan terkawal, dan hubungan mekanistiknya dengan angina vasospastik belum dibuktikan.
 
-Tidak ada jambatan mekanistik antara anestezi umum dan angina Prinzmetal dalam alasan yang disediakan. Sebaliknya, anotasi bukti secara jelas mencatat laporan kes vasospasm koroner yang berkaitan dengan sevoflurane — iaitu, ubat mungkin menggerakkan risiko ke arah yang bertentangan dengan manfaat terapeutik untuk keadaan ini. Tiada ujian klinikal, rekod ICTRP, atau kesusasteraan PubMed ditemui yang menghubungkan sevoflurane kepada angina Prinzmetal; ramalan bergantung semata-mata pada penilaian persamaan graf TxGNN (L5), tanpa isyarat klinikal yang menyokong.
+Satu kaitan yang bersifat spekulatif ialah anestetik volatil boleh mempengaruhi pengendalian kalsium dalam otot licin vaskular dan mungkin mengurangkan vasospasme. Namun, tiada bukti dalam data yang disediakan untuk menyokong hal ini.
 
-## Bukti Ujian Klinikal
+Sevoflurane digunakan semasa prosedur di bawah pemantauan anestesia. Oleh itu, penggunaan kronik atau pencegahan untuk angina vasospastik adalah tidak munasabah dari segi praktikal. Skor TxGNN yang tinggi mungkin mencerminkan hubungan dalam graf pengetahuan dan bukan bukti klinikal.
 
-Kini tiada ujian klinikal berkaitan yang berdaftar.
+---
 
-## Bukti Kesusasteraan
+## Bukti Percubaan Klinikal
 
-Kini tiada kesusasteraan berkaitan yang tersedia.
+Buat masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
-## Maklumat Pasaran Malaysia
+---
 
-Sevoflurane memegang **6 pendaftaran NPRA aktif** (status pasaran: Dipasarkan). Butiran tahap lesen (nombor kelulusan, nama produk, bentuk dos, teks petunjuk kelulusan) tidak diisi dalam set data semasa dan tidak dapat disenaraikan kini.
+## Bukti Literatur
+
+Buat masa ini tiada literatur berkaitan.
+
+---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk pamflet produk untuk maklumat keselamatan. Catatan: amaran label TFDA/NPRA dan kontraindikasi untuk sevoflurane kini ditandai sebagai jurang data **Menghalang** — ini sahaja menghalang penilaian keselamatan awal (S1) untuk sebarang calon penggunaan semula untuk ubat ini, bebas daripada bukti keberkesanan.
+- **Penyakit yang dikaitkan dengan kontraindikasi (berdasarkan graf pengetahuan, bukan teks label)**: epilepsi, penyakit buah pinggang, pyoureter, penyakit hati, penyakit pundi hempedu, gangguan hipotensi, hipertermia malignan akibat anestesia, hipertermia malignan akibat senaman, pseudotumor cerebri, hipertensi intrakranial, distrofi otot Duchenne, distrofi otot, distrofi otot Becker, proteinuria.
+- **Interaksi Ubat** (100 interaksi dikesan; contoh utama):
+  - **Major**: Epinephrine, Dolasetron, Cisapride
+  - **Moderate**: Famotidine, Loperamide, Morphine, Bisacodyl, Clarithromycin, Levofloxacin, Ondansetron, Palonosetron, Exenatide, Lactulose, Lactitol, Polyethylene glycol, Castor oil, antara lain
+  - **Minor**: Metronidazole
+
+Amaran utama dan kontraindikasi daripada sisipan pakej tidak tersedia. Sila rujuk sisipan pakej untuk maklumat keselamatan lengkap.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
-**Alasan:**
-Ramalan berkedudukan teratas (angina Prinzmetal) tidak mempunyai sokongan klinikal atau kesusasteraan, dan ulasan mekanistik yang tersedia mencadangkan sevoflurane mungkin memperburuk daripada merawat vasospasm koroner. Digabungkan dengan jurang penghalang dalam data keselamatan tahap label, kini tidak ada asas untuk memajukan calon ini melampaui saringan awal.
+**Rasional:**
+- Ramalan ini hanya berasaskan model tanpa percubaan klinikal atau literatur sokongan. Sevoflurane juga tidak dipasarkan di Malaysia dan penggunaannya sebagai anestetik tidak sesuai untuk pengurusan kronik angina vasospastik.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Label produk TFDA/NPRA (amaran, kontraindikasi) — diperlukan sebelum sebarang saringan keselamatan S1
-- Data mekanisme tindakan DrugBank untuk menilai kewajaran mekanistik dengan betul
-- Butiran pendaftaran Malaysia tahap lesen (nama produk, teks petunjuk kelulusan)
-- Catatan: calon TxGNN yang lain untuk ubat ini (contohnya, gangguan migrain, tendinitis, fibromialgia) juga kekurangan bukti rawatan langsung — ujian/kesusasteraan yang berkaitan menangani penggunaan sevoflurane *semasa* anestezi untuk pesakit dengan keadaan ini, bukan penggunaannya *untuk merawat* mereka. Tiada yang memenuhi kriteria untuk memajukan melampaui Tahan.
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menghalang saringan keselamatan)
+- Data mekanisme tindakan (MOA) terperinci daripada DrugBank
+- Bukti praklinikal atau klinikal yang menunjukkan kesan terhadap vasospasme koronari
+- Penilaian kebolehlaksanaan laluan pentadbiran dan konteks penggunaan
 
+---
+
+## Lampiran: Indikasi Lain yang Diramalkan
+
+Sepuluh indikasi teratas semuanya berstatus **Hold**. Tiada satu pun mempunyai percubaan klinikal. Literatur yang ada hanya laporan konteks anestesia, bukan bukti kesan terapeutik.
+
+| Kedudukan | Indikasi | Skor TxGNN | Tahap Bukti | Catatan |
+|------|------|------|------|------|
+| 1 | Prinzmetal angina | 99.78% | L5 | Hanya ramalan model |
+| 2 | Sindrom Tourette | 99.50% | L5 | Hanya ramalan model |
+| 3 | Fibromialgia | 99.42% | L4 | Satu laporan kes pengurusan anestesia; tiada kesan terapeutik ditunjukkan |
+| 4 | Tendinitis | 99.41% | L4 | Kajian anestesia perioperatif, bukan rawatan tendinitis |
+| 5 | Miositis fibrosa | 99.41% | L5 | Hanya ramalan model |
+| 6 | Miositis granulomatosa idiopatik | 99.41% | L5 | Skor sama dengan miositis fibrosa, mungkin artifak graf |
+| 7 | Sindrom antidiuresis tidak wajar nefrogenik | 99.40% | L5 | Hanya ramalan model |
+| 8 | Trikotilomania | 99.33% | L5 | Hanya ramalan model |
+| 9 | Gangguan migrain | 99.23% | L4 | Satu laporan pengalaman anestesia MRI kanak-kanak; mungkin artifak kata kunci |
+| 10 | Miositis jasad inklusi | 99.09% | L4 | Laporan kes pertimbangan anestesia; risiko keselamatan pada penyakit otot |
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

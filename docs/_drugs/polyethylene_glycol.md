@@ -2,7 +2,7 @@
 layout: default
 title: Polyethylene Glycol
 parent: Low Evidence (L4-L5)
-nav_order: 561
+nav_order: 588
 evidence_level: L5
 indication_count: 1
 ---
@@ -29,75 +29,76 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Polietilena Glikol: Daripada Pencahar Osmotik (Penyediaan Usus) kepada Eritroderma Iktiosis Kongenital
+# Polietilena Glikol: Daripada Sembelit dan Sindrom Mata Kering kepada Eritroderma Iktiosiform Kongenital
 
 ## Ringkasan Satu Ayat
 
-Polietilena Glikol (PEG, DrugBank DB09287) sedang digunakan secara klinikal sebagai pencahar osmotik untuk penyediaan usus dan secara meluas sebagai eksipien farmasi/pembawa; tiada indikasi asal yang dicatat secara rasmi dalam data lesen NPRA Malaysia yang tersedia. Model TxGNN meramalkan potensi kaitan dengan **Eritroderma Iktiosis Kongenital**, tetapi ramalan ini kini disokong oleh **0 uji klinik** dan **0 penerbitan** — ia adalah perhubungan graf pengetahuan sahaja, tanpa bukti biologi atau klinikal langsung yang dikenal pasti setakat ini.
+Polietilena glikol (PEG) pada asalnya digunakan sebagai julap osmotik untuk merawat sembelit, serta sebagai pelincir untuk sindrom mata kering (xerophthalmia).
+Model TxGNN meramalkan ia mungkin berkesan untuk **eritroderma iktiosiform kongenital**,
+tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong arah ini; ramalan ini hanya berasaskan model komputasi.
 
 ---
 
-## Tinjauan Cepat
+## Gambaran Keseluruhan Pantas
 
 | Perkara | Kandungan |
-|--------|----------|
-| Indikasi Asal | Tidak dicatat secara rasmi dalam data lesen NPRA Malaysia yang tersedia; ditegakkan secara klinikal sebagai pencahar osmotik (penyediaan usus) dan eksipien/pembawa farmasi |
-| Indikasi Baru yang Diramalkan | Eritroderma Iktiosis Kongenital |
+|------|------|
+| Indikasi Asal | Sembelit, sindrom mata kering, xerophthalmia (berdasarkan graf pengetahuan TxGNN; tiada teks indikasi berdaftar tempatan) |
+| Indikasi Baharu yang Diramalkan | Eritroderma iktiosiform kongenital (congenital ichthyosiform erythroderma) |
 | Skor Ramalan TxGNN | 99.03% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 9 |
-| Keputusan yang Disyorkan | Tahan |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (Tahan) |
 
 ---
 
-## Mengapa Ramalan Ini Munasabah?
+## Mengapakah Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan terperinci untuk PEG tidak tersedia. Berdasarkan maklumat yang diketahui, peranan klinikal yang ditegakkan PEG adalah sebagai pencahar osmotik (penyediaan usus) dan sebagai eksipien/pembawa farmasi — tiada peranan mencerminkan mekanisme farmakologi yang disasarkan.
+Data terperinci mengenai mekanisme tindakan (MOA) PEG tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, PEG ialah polimer hidrofilik yang berfungsi sebagai julap osmotik dan pelincir, dan keberkesanannya dalam sembelit serta mata kering telah diketahui. Secara mekanistik, kaitan dengan penyakit baharu ini belum dapat disahkan.
 
-Eritroderma iktiosis kongenital adalah gangguan keratinisasi yang biasanya berkaitan dengan kecacatan genetik seperti *TGM1* atau *ABCA12*. Polimer berasaskan PEG biasanya digunakan sebagai agen humektan/pelembab dalam formulasi topikal, dan secara teorinya munasabah bahawa PEG boleh meningkatkan hidrasi kulit dalam pesakit iktiosis. Walau bagaimanapun, ini akan menjadi kesan fisikokimia tidak langsung (pengekalan lembab), bukan campur tangan farmakologi yang menyasarkan kecacatan metabolisme keratin asas.
+Satu andaian spekulatif yang tidak disahkan ialah PEG bersifat seperti humektan yang secara teori boleh bertindak sebagai emolien atau pelembap untuk sisik dan kerosakan penghalang kulit dalam iktiosis. Andaian ini tidak disokong oleh sebarang percubaan atau penerbitan dalam data yang disusun untuk laporan ini.
 
-Skor TxGNN sebanyak 0.99 mencerminkan kekuatan perhubungan dalam graf pengetahuan, bukan kebolehpercayaan biologi yang disahkan. Tanpa sebarang bukti uji klinik atau kesusasteraan yang menyokong, pautan mekanistik antara kegunaan PEG yang diketahui dan indikasi yang diramalkan ini tetap spekulatif.
-
----
-
-## Bukti Uji Klinik
-
-Tiada uji klinik berkaitan yang didaftarkan pada masa ini
-
----
-
-## Bukti Kesusasteraan
-
-Tiada kesusasteraan berkaitan yang tersedia pada masa ini
+Indikasi asal PEG (sembelit, mata kering) tidak bertindih dengan patofisiologi eritroderma iktiosiform kongenital, yang berpunca daripada kecacatan genetik dalam pembezaan keratinosit dan metabolisme lipid penghalang kulit (contohnya *TGM1*, *ALOX12B*, *ALOXE3*, *NIPAL4*). Oleh itu, skor TxGNN yang tinggi (0.990) wajar dianggap sebagai isyarat komputasi sahaja dan bukan bukti keberkesanan.
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Rekod kebenaran terperinci (nombor lesen, nama produk, bentuk dos, teks indikasi yang diluluskan) tidak tersedia dalam pakej data semasa. Data NPRA Malaysia mengesahkan ubat tersebut Dipasarkan dengan 9 pendaftaran aktif dalam fail.
+Pada masa ini tiada produk polietilena glikol berdaftar dalam data yang disusun untuk laporan ini (status: tidak dipasarkan; 0 pendaftaran).
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk risalah untuk maklumat keselamatan.
+Data amaran utama dan kontraindikasi daripada sisipan pakej tidak tersedia. Maklumat interaksi dadah juga tidak ditemui. Sila rujuk sisipan pakej untuk maklumat keselamatan.
+
+Sebagai rujukan tambahan, graf pengetahuan TxGNN (bukan teks label rasmi) mengaitkan PEG dengan kontraindikasi pada keadaan berikut:
+
+- **Gastrousus**: ileus, ileus lumpuh, halangan usus, megakolon toksik, stenosis pilorus, miopati visera familial, apendisitis
+- **Kardiovaskular**: hipertensi, gangguan hipertensif, kegagalan jantung kongestif, penyakit kardiovaskular, penyakit jantung
+- **Renal dan metabolik**: penyakit buah pinggang, anuria, hiperglisemia, diabetes mellitus, ketoasidosis diabetes, kekurangan kalium, hiperkalsemia, nefrokalsinosis, gangguan metabolisme fosforus, piouretер
+- **Tiroid**: hipertiroidisme, penyakit Graves, tirotoksikosis
+- **Mata**: glaukoma sudut tertutup, jangkitan mata, konjunktivitis
+- **Neurologi**: epilepsi
+
+Senarai ini perlu disahkan dengan sumber label rasmi sebelum digunakan dalam keputusan klinikal.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold (Tahan)**
 
 **Rasional:**
-Ramalan adalah berdasarkan semata-mata pada output model TxGNN (Tahap Bukti L5) tanpa sebarang uji klinik atau kesusasteraan yang menyokong, dan jurang data pada amaran dan kontraindikasi surat risalah ubat kini menyekat sebarang pra-pemeriksaan keselamatan (S1).
+- Ramalan ini hanya berasaskan model (tahap bukti L5) tanpa sebarang percubaan klinikal atau penerbitan, dan mekanisme tindakan tidak dapat disahkan. Patofisiologi penyakit sasaran tidak bertindih dengan kegunaan asal PEG. Tiada pendaftaran tempatan, dan data keselamatan daripada sisipan pakej tidak lengkap.
 
-**Untuk meneruskan, berikut diperlukan:**
-- Amaran dan kontraindikasi surat risalah TFDA/NPRA (Jurang Halangan — diperlukan sebelum sebarang pra-pemeriksaan keselamatan)
-- Data mekanisme tindakan (MOA) daripada DrugBank atau kesusasteraan utama
-- Rekod lesen Malaysia terperinci (nombor lesen, nama produk, teks indikasi yang diluluskan)
-- Bukti praklinik atau peringkat kes yang meneroka kesan PEG pada keratinisasi/fungsi halangan kulit dalam iktiosis
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) daripada DrugBank
+- Sisipan pakej dan maklumat amaran/kontraindikasi daripada NPRA (jurang data yang menghalang saringan keselamatan)
+- Kajian praklinikal atau semakan literatur mengenai kesan PEG terhadap penghalang kulit dalam iktiosis
+- Penilaian kesesuaian laluan pentadbiran (contohnya formulasi topikal), yang masih belum ditentukan
+- Pengesahan senarai kontraindikasi graf pengetahuan dengan sumber label rasmi
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

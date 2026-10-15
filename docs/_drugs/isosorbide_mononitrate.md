@@ -2,7 +2,7 @@
 layout: default
 title: Isosorbide Mononitrate
 parent: Low Evidence (L4-L5)
-nav_order: 415
+nav_order: 434
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,63 +29,89 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Isosorbide Mononitrate: Daripada Angina Pectoris kepada Hipertrikosis
+# Isosorbide Mononitrate: Daripada Indikasi Asal kepada Hipertrikosis (Ramalan Teratas)
 
 ## Ringkasan Satu Ayat
 
-Isosorbide mononitrate ialah nitrat organik (penderma NO) yang telah ditetapkan untuk profilaksis angina pectoris. Ramalan teratas model TxGNN untuk ubat ini ialah **Hipertrikosis (penyakit)**, tetapi ramalan ini pada masa ini disokong oleh **sifar ujian klinikal dan sifar penerbitan** — ia hanya isyarat skor model.
+Isosorbide mononitrate ialah penderma nitrik oksida (NO) yang menyebabkan pelebaran saluran darah melalui laluan cGMP, dan maklumat indikasi asalnya tidak terdapat dalam data yang dikumpulkan untuk laporan ini.
+Model TxGNN meramalkan ia mungkin berkesan untuk **hipertrikosis**, tetapi **tiada percubaan klinikal** dan **tiada literatur** yang menyokong ramalan ini.
+Secara umum, ramalan ini hanyalah ramalan model komputer (tahap bukti L5).
 
-## Gambaran Keseluruhan Pantas
+---
 
-| Item | Kandungan |
-|------|-----------|
-| Indikasi Asal | Angina pectoris (profilaksis) — pengetahuan farmakologi am; teks indikasi label spesifik Malaysia belum lagi ditangkap dalam data pendaftaran |
-| Indikasi Baru Yang Diramalkan | Hipertrikosis (penyakit) |
-| Skor Ramalan TxGNN | 99.99% (pangkat 174 antara semua ramalan) |
+## Gambaran Ringkas
+
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Tiada data indikasi asal daripada lesen NPRA |
+| Indikasi Baharu yang Diramal | Hipertrikosis (hypertrichosis) |
+| Skor Ramalan TxGNN | 99.99% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 1 |
-| Keputusan Yang Disyorkan | Tahan |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan yang Disyorkan | Hold |
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci berstruktur belum tersedia untuk ubat ini (dibenderakan sebagai jurang data keseriusan tinggi). Berdasarkan farmakologi umum, isosorbide mononitrate ialah penderma NO yang bertindak melalui laluan NO–cGMP–sGC untuk menghasilkan vasodilatasi, kesan yang telah terbukti dengan jelas dalam penggunaannya untuk angina pectoris.
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan. Berdasarkan pengetahuan am, isosorbide mononitrate ialah penderma NO yang meningkatkan cGMP dan menyebabkan pelebaran saluran darah.
 
-Untuk hipertrikosis khususnya, tiada hipotesis mekanistik yang menghubungkan laluan vasodilatasi ini kepada biologi folikel rambut. Pakej bukti sendiri menyatakan dengan jelas untuk calon ini: *"無機轉假說支持，亦無任何臨床試驗或文獻證據，純屬模型預測分數"* ("tiada hipotesis mekanistik, dan tiada bukti ujian klinikal atau literatur — semata-mata skor ramalan model"). Ambil perhatian bahawa calon berkaitan dalam kumpulan yang sama (pangkat 5, alopecia) menarik analogi longgar kepada kesan aliran darah folikel minoxidil, tetapi pautan itu pun dilabelkan spekulatif dan tidak disokong oleh bukti langsung — ia tidak meluas kepada hipertrikosis.
+Tiada mekanisme mantap yang menghubungkan ubat ini dengan hipertrikosis. Satu hipotesis spekulatif ialah pelebaran saluran darah boleh mempengaruhi aliran darah di sekitar folikel rambut, serupa dengan profil vasodilator minoxidil. Namun, tiada data sokongan, dan skor tinggi model ini harus dianggap sebagai ramalan pengiraan semata-mata.
 
-Diberikan ketiadaan bukti yang mendukung, calon ini harus diperlakukan sebagai keluaran model yang tidak disahkan daripada hipotesis repurposing ubat yang dibuktikan.
+**Ramalan lain dalam kedudukan teratas (semuanya L5, Hold):**
+- Hipertrikosis universalis kongenital jenis Ambras, sindrom malformasi dengan komponen odontal/periodontal, dan sindrom dengan malformasi Dandy-Walker: kesemuanya gangguan perkembangan atau genetik; vasodilasi tidak munasabah untuk membetulkannya.
+- Alopesia: rasional lemah dan spekulatif melalui aliran darah perifolikular.
+- Kelainan batang rambut genetik, hipotrikosis simpleks kulit kepala, dan hipotrikosis kongenital dengan milia: asas genetik yang tidak ditangani oleh vasodilasi.
+- Alopesia areata meresap: penyakit autoimun yang diperantarai sel T; penderma NO tiada peranan imunomodulasi yang mantap.
 
-## Bukti Ujian Klinikal
+**Ramalan yang paling berpotensi untuk diterokai: hipertensi arteri pulmonari (PAH)** (kedudukan 10, skor 99.94%, tahap bukti L4, cadangan "Soalan Penyelidikan"). Laluan NO–sGC–cGMP ialah sasaran PAH yang telah disahkan (perencat PDE5, perangsang sGC seperti riociguat), dan isosorbide mononitrate meningkatkan cGMP. Walau bagaimanapun, kebimbangan termasuk toleransi nitrat, hipotensi sistemik dan ketidakpadanan pengudaraan-perfusi dalam penyakit paru-paru. Gabungan nitrat dengan perencat PDE5 juga dikontraindikasikan kerana risiko hipotensi teruk, yang menghadkan penggunaan bersama terapi PAH piawai.
 
-Pada masa ini tiada ujian klinikal yang berkaitan terdaftar.
+---
+
+## Bukti Percubaan Klinikal
+
+Pada masa ini tiada percubaan klinikal berkaitan didaftarkan untuk hipertrikosis.
+
+---
 
 ## Bukti Literatur
 
-Pada masa ini tiada literatur yang berkaitan tersedia.
+Pada masa ini tiada literatur berkaitan tersedia untuk hipertrikosis.
 
-## Maklumat Pasaran Malaysia
+Sebagai rujukan, dua penerbitan tidak langsung ditemui untuk ramalan PAH:
 
-Produk didaftarkan di Malaysia (status pasaran: Dipasarkan, 1 pendaftaran pada fail), tetapi butiran berstruktur — nombor kebenaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan — belum lagi diekstrak daripada dokumen sumber.
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [16422873](https://pubmed.ncbi.nlm.nih.gov/16422873/) | 2005 | Kajian hemodinamik klinikal | The Journal of Sexual Medicine | Kesan hemodinamik sildenafil dan isosorbide mononitrate pada lelaki dengan penyakit arteri koronari dan disfungsi erektil (bukan populasi PAH) |
+| [29705351](https://pubmed.ncbi.nlm.nih.gov/29705351/) | 2018 | Kajian praklinikal haiwan | Life Sciences | Rangsangan sGC peka NO pada tikus hipertensi pulmonari akibat monocrotaline (mekanistik, bukan ubat ini sendiri) |
 
-## Pertimbangan Keselamatan
+---
 
-Sila rujuk pada leaflet pakej untuk maklumat keselamatan. (Data amaran utama, kontraindikasi, dan interaksi ubat-ubatan belum lagi tersedia; data amaran/kontraindikasi label TFDA yang hilang dibenderakan sebagai jurang penyekat yang mesti diselesaikan sebelum sebarang penilaian keselamatan boleh dilakukan.)
+## Keselamatan dan Pertimbangan
+
+- **Penyakit yang dikaitkan dengan kontraindikasi (berdasarkan graf pengetahuan TxGNN/PrimeKG, bukan teks label):** gangguan hipotensi, kardiomiopati hipertrofik, infarksi miokardium, trombosis koronari, hemoglobinopati, anemia (termasuk anemia makrositik), hipertiroidisme, penyakit Graves, tirotoksikosis dan pendarahan intraserebrum.
+- **Interaksi Ubat:** 100 interaksi dikenal pasti. Antara yang bertahap sederhana: bupropion, morfin, canagliflozin, dapagliflozin, empagliflozin, ertugliflozin, dronabinol, nabilone, opium, sapropterin dan rosiglitazone. Omeprazole bertahap minor. Interaksi lain (contohnya metformin, glimepiride, pantoprazole) bertahap tidak diketahui.
+- **Penting:** gabungan nitrat dengan perencat PDE5 (contohnya sildenafil) boleh menyebabkan hipotensi teruk.
+
+Sila rujuk risalah pek untuk maklumat keselamatan lengkap, kerana amaran dan kontraindikasi daripada label NPRA belum tersedia.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
 **Rasional:**
-Ramalan teratas (hipertrikosis) mempunyai tahap bukti L5 — skor TxGNN tanpa hipotesis mekanistik, tiada ujian klinikal, dan tiada sokongan literatur. Terdapat asas yang tidak mencukupi untuk memajukan calon ini.
+- Semua ramalan teratas (hipertrikosis dan keadaan berkaitan rambut/malformasi) hanya berasaskan ramalan model (L5) tanpa percubaan klinikal atau literatur, dan mekanismenya tidak munasabah. Ubat ini juga tidak dipasarkan di Malaysia.
+- Hipertensi arteri pulmonari (L4) lebih munasabah secara biologi, tetapi bukti sedia ada tidak langsung dan terdapat isu keselamatan yang ketara.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- PDF label TFDA/NPRA untuk amaran dan kontraindikasi (jurang penyekat, DG001)
-- Data MOA rasmi melalui DrugBank (jurang prioriti tinggi, DG002)
-- Rasional mekanistik (pra-klinikal atau literatur) yang secara khusus menghubungkan aktiviti penderma NO kepada biologi folikel/hipertrikosis rambut, jika calon ini ingin diteruskan lebih jauh
-- Butiran rekod lesen Malaysia (nama produk, bentuk dos, teks indikasi yang diluluskan)
-
-**Nota:** Dalam pakej bukti yang sama, calon peringkat lebih rendah — **hipertensi arteri pulmonari** (pangkat 10, L3, peringkat keputusan S1, "Soalan Penyelidikan") — mempunyai rasional mekanistik yang lebih kuat (laluan NO–cGMP–sGC ialah sasaran ubat PAH yang disahkan) dan 6 penerbitan yang menyokong. Ini mungkin perlu dinilai secara berasingan kerana ia lebih terbukti daripada hit teratas.
-
+- Amaran dan kontraindikasi daripada risalah pek NPRA (jurang data yang menghalang saringan keselamatan)
+- Data mekanisme tindakan terperinci daripada DrugBank
+- Data indikasi asal dan status pendaftaran tempatan yang jelas
+- Bukti praklinikal atau klinikal langsung bagi ubat ini pada indikasi yang diramal
+- Untuk PAH: kajian khusus mengenai kesan hemodinamik, toleransi nitrat dan risiko hipotensi, termasuk strategi mengelakkan penggunaan bersama perencat PDE5
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

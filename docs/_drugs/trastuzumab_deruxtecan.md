@@ -2,7 +2,7 @@
 layout: default
 title: Trastuzumab Deruxtecan
 parent: Low Evidence (L4-L5)
-nav_order: 663
+nav_order: 696
 evidence_level: L5
 indication_count: 1
 ---
@@ -29,89 +29,106 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Trastuzumab Deruxtecan: Daripada Kanser Payudara/Gastrik Positif HER2 kepada Osteoporosis Teraruh Ubat
+# Trastuzumab Deruxtecan: Daripada Penggunaan Asal kepada Osteoporosis Teraruh Ubat
 
 ## Ringkasan Satu Ayat
 
-Trastuzumab deruxtecan adalah konjugat antibodi-ubat (ADC) yang disasarkan HER2, di mana muatan sitotoksiknya digunakan untuk merawat kanser payudara dan gastrik positif HER2. Model TxGNN meramalkan kemungkinan hubungan dengan **osteoporosis teraruh ubat**, tetapi ramalan ini disokong oleh **0 ujian klinikal** dan **0 penerbitan**, dan pakej bukti ubat itu sendiri menandai arah mekanik sebagai berkemungkinan terbalik (iaitu, model mungkin mengesan perkaitan kesan sampingan yang diketahui dan bukannya hubungan terapeutik).
+Trastuzumab deruxtecan ialah konjugat antibodi-ubat (ADC) yang menyasarkan HER2 dan membawa muatan perencat topoisomerase I (deruxtecan). Data yang dikompilasi untuk laporan ini tidak mencatatkan indikasi asal yang berdaftar di Malaysia.
+Model TxGNN meramalkan ubat ini mungkin berkesan untuk **osteoporosis teraruh ubat (drug-induced osteoporosis)**, tetapi pada masa ini terdapat **0 percubaan klinikal** dan **0 penerbitan** yang menyokong arah ini. Ramalan ini hanya berdasarkan skor model.
 
 ---
 
-## Gambaran Keseluruhan Cepat
+## Gambaran Keseluruhan Pantas
 
-| Item | Kandungan |
+| Perkara | Kandungan |
 |------|------|
-| Petunjuk Asal | Kanser payudara positif HER2 / kanser gastrik (mengikut profil ubat yang diketahui — teks petunjuk yang diluluskan TFDA tidak tersedia dalam set data ini) |
-| Petunjuk Baharu yang Diramalkan | Osteoporosis teraruh ubat |
+| Indikasi Asal | Tiada data indikasi berdaftar di Malaysia |
+| Indikasi Baharu yang Diramalkan | Osteoporosis teraruh ubat (drug-induced osteoporosis) |
 | Skor Ramalan TxGNN | 99.31% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 1 |
-| Keputusan yang Disyorkan | Tahan |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan terperinci dari DrugBank tidak tersedia (jurang data DG002). Berdasarkan profil ubat yang diketahui, trastuzumab deruxtecan adalah ADC yang menggabungkan antibodi yang menyasarkan HER2 dengan muatan perencat topoisomerase I (DXd), dan penggunaan klinikalnya adalah kemoterapi sitotoksik untuk tumor pepejal positif HER2.
+Butiran mekanisme tindakan (MOA) tidak tersedia dalam data yang dikompilasi. Berdasarkan maklumat yang diketahui, trastuzumab deruxtecan ialah ADC yang menyasarkan HER2 dengan muatan sitotoksik perencat topoisomerase I.
 
-Mekanisme ini tidak menunjuk ke arah kesan perlindungan tulang. Sebaliknya, kemoterapi sitotoksik, menopaus/hipogonadisme teraruh kemoterapi, dan terapi sokongan yang berkaitan adalah **punca yang mapan** bagi **osteoporosis teraruh ubat** dalam amalan klinikal — bukan rawatannya. Skor TxGNN sebanyak 99.31% sangat tinggi, tetapi penilaian nisbah pakej bukti itu sendiri menilai ini sebagai kes yang berkemungkinan di mana graf pengetahuan mengelirukan kedekatannya dalam "ubat → kesan sampingan → penyakit" dengan hubungan tulin "ubat → merawat → penyakit". Dengan kata lain, arah kausaliti yang diramalkan mungkin terbalik.
+Skor model yang tinggi (0.993) kemungkinan besar mencerminkan kedekatan rangkaian dalam graf pengetahuan atau jiran yang dikongsi (contohnya melalui agen onkologi lain atau laluan berkaitan tulang), dan bukannya hubungan biologi yang telah disahkan. Tiada mekanisme pelindung tulang yang jelas dapat dikenal pasti daripada data sedia ada.
 
-Memandangkan perkara ini, ramalan harus diperlakukan sebagai tidak munasabah secara mekanik sehingga disokong oleh bukti bebas, dan bukannya sebagai calon ubat semula guna yang menjanjikan.
+Perlu diberi perhatian bahawa muatan sitotoksik dan terapi onkologi lazimnya lebih dikaitkan dengan kehilangan tulang berbanding rawatan kehilangan tulang. Arah kesan masih tidak pasti dan mungkin juga memudaratkan. Ramalan ini perlu dianggap sebagai hipotesis yang sangat awal.
 
 ---
 
-## Bukti Ujian Klinikal
+## Bukti Percubaan Klinikal
 
-Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
-Pada masa ini tiada literatur berkaitan yang tersedia
+Pada masa ini tiada literatur berkaitan yang tersedia.
 
 ---
 
-## Maklumat Pasaran Malaysia
+## Maklumat Pasaran di Malaysia
 
-Produk ini dipasarkan di Malaysia dengan 1 lesen berdaftar, tetapi nombor lesen, nama produk, bentuk dos, dan teks petunjuk yang diluluskan tidak diisi dalam set data semasa. Perincian ini perlu diambil terus dari pendaftaran NPRA sebelum penilaian lanjutan.
+Trastuzumab deruxtecan pada masa ini tidak dipasarkan di Malaysia dan tiada lesen berdaftar (0 pendaftaran).
 
 ---
 
-## Sitotoksisiti
+## Kesitotoksikan (Ubat Antineoplastik Sahaja)
 
-Ubat ini layak sebagai sitostatik (ADC yang disasarkan HER2 dengan muatan perencat topoisomerase I sitotoksik konvensional, digunakan untuk kanser payudara/gastrik).
+Ubat ini ialah ADC antikanser dengan muatan sitotoksik. Data toksisiti khusus tidak terdapat dalam data yang dikompilasi.
 
-| Item | Kandungan |
+| Perkara | Kandungan |
 |------|------|
-| Klasifikasi Sitotoksisiti | Terapi yang disasarkan (konjugat antibodi-ubat) dengan muatan sitotoksik konvensional (perencat topoisomerase I) |
-| Risiko Supresi Sum Tulang | Sila rujuk amaran dan langkah berhati-hati dalam sisipan paket |
-| Klasifikasi Emetogenisiti | Sila rujuk amaran dan langkah berhati-hati dalam sisipan paket |
-| Item Pemantauan | Sila rujuk amaran dan langkah berhati-hati dalam sisipan paket |
-| Perlindungan Pengendalian | Sila rujuk amaran dan langkah berhati-hati dalam sisipan paket |
+| Klasifikasi Kesitotoksikan | Terapi tersasar (ADC anti-HER2) dengan muatan sitotoksik perencat topoisomerase I |
+| Risiko Penindasan Sumsum Tulang | Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pembungkusan |
+| Klasifikasi Emetogenisiti | Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pembungkusan |
+| Item Pemantauan | Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pembungkusan |
+| Perlindungan Pengendalian | Sila rujuk sisipan pembungkusan dan garis panduan pengendalian ubat sitotoksik |
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan paket untuk maklumat keselamatan.
+**Interaksi Ubat**: Pangkalan data interaksi ubat merekodkan sejumlah **42 interaksi**. Antara yang tahap **Major** ialah:
+- Deferiprone
+- Samarium (153Sm) lexidronam
+- Adalimumab
+- Baricitinib
+- Certolizumab pegol
+- Cladribine
+- Leflunomide
+- Natalizumab
+
+Antara yang tahap **Moderate** ialah palifermin, strontium chloride Sr-89, roflumilast, chloramphenicol, alefacept, alemtuzumab, anakinra, azathioprine, canakinumab, dimethyl fumarate dan niraparib.
+
+Sebahagian besar interaksi ini melibatkan agen imunosupresif atau agen yang menjejaskan sumsum tulang, dan perlu dinilai dengan teliti jika digunakan bersama.
+
+Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pembungkusan.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
-**Nisbah:**
-Ramalan ini tidak mempunyai sokongan ujian klinikal atau literatur (L5, model sahaja), dan nisbah ubat semula guna ubat itu sendiri menunjukkan arah mekanik berkemungkinan terbalik — mekanisme sitotoksik trastuzumab deruxtecan adalah penyebab yang munasabah bagi osteoporosis teraruh ubat, bukan rawatannya.
+**Rasional:**
+- Ramalan hanya bergantung pada skor model graf pengetahuan (Tahap Bukti L5), tanpa percubaan klinikal atau literatur. Tiada mekanisme pelindung tulang yang munasabah, dan terapi sitotoksik lazimnya dikaitkan dengan kehilangan tulang, jadi arah kesan mungkin bertentangan.
+- Ubat ini juga tidak dipasarkan di Malaysia.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- PDF label TFDA/NPRA dengan amaran dan kontraindikasi lengkap (menghalang jurang data DG001; diperlukan sebelum sebarang semakan keselamatan S1)
-- Mekanisme tindakan yang disahkan melalui API DrugBank (DG002)
-- Perincian lesen Malaysia yang lengkap (nombor lesen, nama produk, bentuk dos, teks petunjuk yang diluluskan)
-- Semakan mekanik bebas untuk mengesahkan/menolak kausaliti terbalik sebelum sebarang pengumpulan bukti lanjut dimulakan
-
+- Data mekanisme tindakan (MOA) yang terperinci
+- Sisipan pembungkusan NPRA (amaran dan kontraindikasi) untuk saringan keselamatan
+- Kajian praklinikal atau kajian mekanisme yang menilai kesan ke atas metabolisme tulang
+- Semakan literatur sistematik tentang kesan ADC ini terhadap kesihatan tulang
+- Pengesahan status pendaftaran dan ketersediaan di Malaysia
+- Analisis keserasian laluan pentadbiran dan penilaian risiko-manfaat bagi populasi sasaran
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

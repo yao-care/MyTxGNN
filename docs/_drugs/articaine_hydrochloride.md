@@ -2,7 +2,7 @@
 layout: default
 title: Articaine Hydrochloride
 parent: Low Evidence (L4-L5)
-nav_order: 90
+nav_order: 94
 evidence_level: L5
 indication_count: 0
 ---

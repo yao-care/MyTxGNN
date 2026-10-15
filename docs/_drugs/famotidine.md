@@ -2,7 +2,7 @@
 layout: default
 title: Famotidine
 parent: Low Evidence (L4-L5)
-nav_order: 337
+nav_order: 349
 evidence_level: L5
 indication_count: 5
 ---
@@ -29,77 +29,111 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Famotidine: Dari Penyakit Ulser Peptik / GERD ke Hyperinsulinisme
+# Famotidine: Daripada Penyakit Ulser Gastrik kepada Esofagitis (Refluks)
 
 ## Ringkasan Satu Ayat
 
-Famotidine adalah antagonis reseptor histamin H2 yang telah lama ditegakkan untuk keadaan gastrointestinal berkaitan asid (penyakit ulser peptik, GERD/esofagitis erosif) — ini disimpulkan daripada pakej bukti itu sendiri, di mana famotidine berulang kali muncul sebagai ubat komparator piawai dalam keadaan ini, kerana medan pendaftaran Malaysia dan medan indicasi asal tidak diisi dalam dataset ini. Calon terpangkat teratas TxGNN, **Hyperinsulinisme**, mempunyai skor ramalan **0%** dan disokong oleh **0 ujian klinikal** dan **0 penerbitan**; anotasi reviewer sendiri menandainya sebagai kemungkinan besar kebisingan padanan pangkalan data tanpa pautan mekanistik yang diketahui.
+Famotidine ialah antagonis reseptor histamin H2 yang pada asalnya digunakan untuk merawat ulser gastrik, penyakit refluks gastroesofagus dan ulser duodenum.
+Model TxGNN meramalkan calon utama **esofagitis**, tetapi skor ramalan ialah **0.0** dan esofagitis sebenarnya sudah tersenarai dalam indikasi asal, jadi ini bukan penggunaan semula yang benar-benar baharu.
+Data yang dikumpulkan untuk laporan ini menunjukkan **3 ujian klinikal** dan **20 penerbitan** bagi esofagitis, dan ubat ini **tidak berdaftar di Malaysia**.
 
 ---
 
-## Gambaran Keseluruhan Pantas
+## Gambaran Ringkas
 
-| Item | Kandungan |
-|------|----------|
-| Indicasi Asal | Tidak disediakan dalam data pendaftaran; famotidine adalah antagonis H2-reseptor yang telah mantap digunakan untuk penyakit ulser peptik dan GERD/esofagitis erosif (disimpulkan daripada peranannya sebagai komparator rujukan sepanjang pakej bukti ini) |
-| Indicasi Baru yang Diramalkan | Hyperinsulinisme |
-| Skor Ramalan TxGNN | 0.00% |
-| Tahap Bukti | L5 |
-| Status Pasaran Malaysia | Dipasarkan (Marketed) |
-| Bilangan Pendaftaran | 15 |
-| Keputusan yang Disyorkan | Tahan |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Ulser gastrik, penyakit refluks gastroesofagus, esofagitis, dispepsia, ulser duodenum, sindrom Zollinger-Ellison (daripada graf pengetahuan TxGNN; tiada data label NPRA) |
+| Indikasi Baharu yang Diramalkan | Hiperinsulinisme (kedudukan 1 dalam senarai ramalan); esofagitis dinilai sebagai calon dengan bukti terkuat (kedudukan 2) |
+| Skor Ramalan TxGNN | 0.00% (semua 5 calon teratas) |
+| Tahap Bukti | L5 untuk hiperinsulinisme; L1 untuk esofagitis, ulser gastrik dan ulser duodenum (berdasarkan data yang dikompil) |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (Tahan) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa kini, data mekanisme tindakan terperinci tidak tersedia (ditandai sebagai jurang data berkepentingan Blocking/High-severity dalam pakej bukti ini). Berdasarkan farmakologi yang diketahui, famotidine bertindak sebagai antagonis histamin H2-reseptor selektif pada sel parietal, mengurangkan sekresi asid gastrik — mekanisme tanpa hubungan yang ditegakkan dengan peraturan sekresi insulin.
+Butiran mekanisme tindakan (MOA) daripada pangkalan data tidak tersedia. Berdasarkan maklumat yang diketahui, famotidine ialah antagonis reseptor histamin H2 yang menyekat rangsangan histamin pada sel parietal gastrik, lalu mengurangkan rembesan asid. Kesannya terhadap ulser gastrik dan duodenum sudah mapan.
 
-Anotasi mekanistik pakej bukti sendiri untuk calon ini menyatakan dengan terus terang: antagonisme H2 famotidine bertindak pada sekresi asid gastrik dan tidak mempunyai hubungan mekanistik yang diketahui dengan hyperinsulinisme, dan dengan skor TxGNN sebesar 0.0 gandingan ini paling berkemungkinan adalah kebisingan padanan pangkalan data dan bukannya isyarat repurposing yang tulen.
+Untuk **esofagitis**, pengurangan asid menurunkan pendedahan mukosa esofagus kepada asid, mekanisme yang munasabah untuk esofagitis refluks. Namun esofagitis sudah tersenarai dalam indikasi asal, jadi ini ialah penggunaan sedia ada dan bukan penggunaan semula yang baharu. Skor TxGNN 0.0 tidak memberi sokongan ramalan.
 
-Kerana skor TxGNN adalah 0 merentasi semua lima calon dalam pakej ini (termasuk yang lebih terbukti di bawah), medan skor itu sendiri mungkin tidak diisi dengan boleh dipercayai untuk larian ini — ini harus disahkan terhadap output model mentah sebelum penggunaan lanjutan.
+Untuk **hiperinsulinisme**, tiada ujian klinikal atau literatur disediakan dan hubungan mekanismenya tidak dapat dinilai. Ia juga sudah tersenarai dalam indikasi asal, sebarang hubungan (contohnya paksi rembesan gastrin/insulin) hanyalah spekulasi. Begitu juga **kelainan rembesan gastrin**, yang berkait dengan sindrom Zollinger-Ellison: rasional penurunan asid wujud tetapi tidak disokong oleh data yang ada.
 
 ---
 
 ## Bukti Ujian Klinikal
 
-Pada masa kini tiada ujian klinikal berkaitan yang berdaftar.
+Berikut ialah ujian untuk esofagitis (calon dengan bukti terkuat). Tiada ujian klinikal didaftarkan untuk hiperinsulinisme atau kelainan rembesan gastrin.
+
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
+|---------|------|------|------|---------|
+| [NCT00229424](https://clinicaltrials.gov/study/NCT00229424) | Fasa 3 | Selesai | 325 | Lafutidine berbanding plasebo dan famotidine (pembanding aktif) dalam esofagitis refluks ringan; kadar penyembuhan endoskopik |
+| [NCT01499368](https://clinicaltrials.gov/study/NCT01499368) | Fasa 3 | Selesai | 495 | Lafutidine, famotidine dan omeprazole dalam esofagitis erosif di Korea; peranan tepat famotidine tidak dapat disahkan |
+| [NCT04248712](https://clinicaltrials.gov/study/NCT04248712) | Fasa 2 | Ditamatkan | 1 | Antihistamin berbanding plasebo dalam esofagitis eosinofilik; hanya 1 peserta, tidak bermaklumat |
+
+Untuk rujukan, ujian berkaitan ulser (gastrik/duodenum) termasuk:
+
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
+|---------|------|------|------|---------|
+| [NCT00843063](https://clinicaltrials.gov/study/NCT00843063) | Fasa 4 | Selesai | 161 | Famotidine dos tinggi berbanding pantoprazole untuk mencegah ulser/erosi akibat aspirin berulang |
+| [NCT01180179](https://clinicaltrials.gov/study/NCT01180179) | Fasa 4 | Selesai | 228 | Lansoprazole berbanding famotidine untuk mencegah pendarahan ulser idiopatik berulang |
+| [NCT02418312](https://clinicaltrials.gov/study/NCT02418312) | NA | Selesai | 228 | Antagonis H2 untuk mencegah ulser peptik berkaitan thienopyridine |
+| [NCT02551744](https://clinicaltrials.gov/study/NCT02551744) | NA | Selesai | 101 | Pantoprazole berbanding famotidine untuk mencegah ulser peptik berulang pada pengguna thienopyridine |
+| [NCT00557349](https://clinicaltrials.gov/study/NCT00557349) | Fasa 4 | Selesai | 40 | Zegerid berbanding famotidine untuk mencegah ulser anastomotik selepas pintasan gastrik |
+| [NCT03667703](https://clinicaltrials.gov/study/NCT03667703) | Fasa 4 | Selesai | 70 | Profilaksis ulser tekanan berbanding plasebo pada bayi sakit kritikal dengan penyakit jantung kongenital |
+| [NCT00839488](https://clinicaltrials.gov/study/NCT00839488) | Fasa 4 | Ditamatkan | 6 | Pantoprazole IV berbanding famotidine untuk profilaksis ulser tekanan; hanya 6 peserta |
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Literatur
 
-Pada masa kini tiada kesusasteraan berkaitan yang tersedia.
+Literatur terpilih (esofagitis dan ulser). Tiada literatur disediakan untuk hiperinsulinisme atau kelainan rembesan gastrin.
+
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [12167115](https://pubmed.ncbi.nlm.nih.gov/12167115/) | 2002 | RCT | J Gastroenterol Hepatol | Perbandingan rawak omeprazole dan famotidine dalam esofagitis refluks |
+| [15683433](https://pubmed.ncbi.nlm.nih.gov/15683433/) | 2005 | RCT | J Gastroenterol Hepatol | Nizatidine berbanding famotidine untuk terapi penyelenggaraan esofagitis erosif |
+| [20632193](https://pubmed.ncbi.nlm.nih.gov/20632193/) | 2010 | Kajian terkawal buta-ganda | J Gastroenterol | Lafutidine berbanding plasebo dan famotidine dalam esofagitis refluks ringan di Jepun |
+| [22186979](https://pubmed.ncbi.nlm.nih.gov/22186979/) | 2012 | RCT | Am J Gastroenterol | Ibuprofen/famotidine dos tinggi berbanding ibuprofen sahaja untuk mengurangkan ulser gastrik dan duodenum |
+| [8218758](https://pubmed.ncbi.nlm.nih.gov/8218758/) | 1993 | RCT | Aliment Pharmacol Ther | Omeprazole berbanding famotidine dalam penyembuhan dan kambuhan ulser duodenum |
+| [3310200](https://pubmed.ncbi.nlm.nih.gov/3310200/) | 1987 | Kajian klinikal (buta-ganda, plasebo) | Scand J Gastroenterol Suppl | Famotidine 40 mg waktu malam menyembuhkan ulser gastrik lebih tinggi daripada plasebo (336 pesakit) |
+| [8618582](https://pubmed.ncbi.nlm.nih.gov/8618582/) | 1996 | Kajian klinikal | N Engl J Med | Famotidine untuk mencegah ulser gastrik dan duodenum akibat NSAID |
+| [2573505](https://pubmed.ncbi.nlm.nih.gov/2573505/) | 1989 | Ulasan | Drugs | Famotidine berkesan menyembuhkan ulser duodenum dan gastrik dalam ujian terkawal plasebo |
+| [2875864](https://pubmed.ncbi.nlm.nih.gov/2875864/) | 1986 | Ulasan | Drugs | Sifat farmakodinamik/farmakokinetik dan kegunaan terapeutik dalam penyakit ulser peptik dan sindrom Zollinger-Ellison |
+| [1577391](https://pubmed.ncbi.nlm.nih.gov/1577391/) | 1992 | Ulasan | Hepato-gastroenterology | Famotidine dalam GERD; dos dua kali sehari diperlukan |
 
 ---
 
-## Maklumat Pasaran Malaysia
+## Cytotoksisiti
 
-Pendaftaran Malaysia (NPRA) merekodkan 15 lesen produk yang diluluskan untuk Famotidine dengan status pasaran "Dipasarkan" (Marketed). Nombor lesen individu, nama produk, bentuk dos, dan teks indicasi yang diluluskan tidak diisi dalam pakej bukti ini dan perlu ditarik terus dari rekod NPRA untuk melengkapkan jadual ini.
+Famotidine bukan ubat antineoplastik, maka bahagian ini tidak berkaitan.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
+- **Kontraindikasi daripada graf pengetahuan (bukan teks label):** penyakit buah pinggang, gangguan fungsi renal, penyakit hati, penyakit pundi hempedu, sarkoidosis, hiperparatiroidisme, hiperkalsemia, nefrolitiasis, cirit-birit, sembelit, dan beberapa keadaan kanser gastrik. Senarai ini perlu disahkan dengan label produk dan tidak boleh dianggap sebagai kontraindikasi rasmi.
+- **Interaksi ubat:** 100 interaksi direkodkan. Kebanyakannya bertahap Sederhana (contohnya abiraterone, acalabrutinib, tramadol, amiodarone, amitriptilin, aripiprazole, aminofilin, alfuzosin) dan sebahagian kecil bertahap Minor (contohnya asid alendronik, aluminium hidroksida).
+- **Laporan kes (literatur):** delirium dilaporkan selepas penukaran daripada cimetidine kepada famotidine (PMID 11573854).
+
+Amaran utama dan kontraindikasi daripada sisipan pakej NPRA tidak tersedia; sila rujuk sisipan pakej untuk maklumat keselamatan lengkap.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold (Tahan)**
 
-**Nisbah:**
-Indicasi yang diramalkan terpangkat teratas (Hyperinsulinisme) mempunyai sifar ujian yang menyokong, sifar kesusasteraan, skor model 0%, dan ketiadaan kebolehpercayaan mekanistik yang ditandai dengan jelas — ini tidak memenuhi bar untuk maju melepasi penyaringan awal.
+**Rasional:**
+- Skor TxGNN ialah 0.0 untuk semua calon, dan kesemua indikasi teratas (hiperinsulinisme, esofagitis, ulser gastrik, kelainan rembesan gastrin, ulser duodenum) sudah tersenarai sebagai indikasi asal, jadi tiada penggunaan semula yang benar-benar baharu dikenal pasti. Bukti L1 untuk esofagitis dan ulser sebahagian besarnya menyokong kegunaan sedia ada, dengan famotidine sering hanya sebagai pembanding. Hiperinsulinisme dan kelainan rembesan gastrin tidak mempunyai sebarang bukti (L5).
 
-**Untuk meneruskan, perkara berikut diperlukan:**
-- Sisipan pakej TFDA/NPRA (amaran, kontraindikasi) — pada masa kini jurang data Blocking
-- Teks indicasi asal yang diluluskan yang disahkan dan data MOA DrugBank
-- Pengesahan saluran pemarkahan TxGNN, memandangkan semua lima calon dalam pakej bukti ini mengembalikan skor 0.0
-- Jika hyperinsulinisme akan dikejar lebih lanjut, pencarian kesusasteraan/pra-klinikal yang tersasaran khusus pada antagonisme H2-reseptor dan laluan sekresi insulin, kerana tiada yang terdapat dalam pakej ini
-
-**Catatan tentang calon lain dalam pakej bukti ini:** Dataset ini juga mengandungi empat calon tambahan — esofagitis, ulser gastrik, ulser duodenum (setiap pangkat L1/S3, "Teruskan dengan Penjaga," disokong oleh banyak RCT Fasa 3 yang selesai dan puluhan penerbitan), dan kelainan sekresi gastrin (L5/Tahan, tiada bukti). Walau bagaimanapun, teks nisbah untuk esofagitis, ulser gastrik, dan ulser duodenum secara eksplisit menyatakan bahawa ini sudah mencerminkan indicasi yang telah ditegakkan, peringkat diluluskan bagi famotidine dan bukannya hipotesis repurposing novel — ia bukan kegunaan "baru" dalam erti repurposing, itulah sebabnya Hyperinsulinisme (calon pangkat-1 nominal, benar-benar novel) digunakan sebagai tajuk laporan ini walaupun bukti yang lemah. Jika tujuannya adalah untuk mengenal pasti calon repurposing yang berdaya maju dan bukannya mendokumentasikan penggunaan sedia ada, tidak seorang pun daripada lima calon dalam pakej ini pada masa kini layak — pakej bukti ini belum pun mengandungi isyarat indicasi-baru yang kredibel untuk Famotidine.
-
+**Untuk meneruskan, yang berikut diperlukan:**
+- Amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data berstatus penghalang untuk saringan keselamatan)
+- Data mekanisme tindakan (MOA) daripada DrugBank
+- Penjelasan status pendaftaran di Malaysia (kini tiada lesen direkodkan)
+- Bukti khusus famotidine berbanding plasebo untuk indikasi sasaran, atau pengenalpastian indikasi baharu sebenar dengan skor ramalan bermakna
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

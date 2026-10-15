@@ -2,7 +2,7 @@
 layout: default
 title: Docetaxel Trihydrate
 parent: Low Evidence (L4-L5)
-nav_order: 293
+nav_order: 302
 evidence_level: L5
 indication_count: 0
 ---

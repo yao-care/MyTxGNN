@@ -2,15 +2,15 @@
 layout: default
 title: Loteprednol Etabonate
 parent: Low Evidence (L4-L5)
-nav_order: 458
-evidence_level: L4
+nav_order: 478
+evidence_level: L5
 indication_count: 10
 ---
 
 # Loteprednol Etabonate
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,83 +29,105 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Loteprednol Etabonate: Dari Konjunktivitis Alergi ke Konjunktivitis Folikular Kronis
+# Loteprednol Etabonat: Daripada Uveitis kepada Konjunktivitis Folikular Kronik
 
-## Ringkasan Satu Kalimat
+## Ringkasan Satu Ayat
 
-Loteprednol etabonate adalah kortikosteroid oftalmik topikal yang disetujui secara internasional untuk kondisi peradangan mata yang responsif terhadap steroid seperti konjunktivitis alergi. Model TxGNN memprediksi bahwa obat ini mungkin efektif untuk **Konjunktivitis Folikular Kronis**, dengan **0 uji klinis** dan **2 publikasi tingkat laporan kasus** saat ini mendukung arah ini — bukti didorong oleh mekanisme daripada terbukti secara klinis.
-
----
-
-## Tinjauan Cepat
-
-| Item | Konten |
-|------|--------|
-| Indikasi Asli | Tidak ditentukan dalam paket bukti (teks indikasi lisensi Malaysia dan `original_indications` keduanya kosong). Secara internasional, formulasi oftalmik loteprednol etabonate disetujui untuk peradangan okular yang responsif terhadap steroid, termasuk konjunktivitis alergi. |
-| Indikasi Baru yang Diprediksi | Konjunktivitis Folikular Kronis |
-| Skor Prediksi TxGNN | 99.69% |
-| Tingkat Bukti | L4 |
-| Status Pasar Malaysia | ✓ Dipasarkan |
-| Jumlah Pendaftaran | 3 |
-| Keputusan yang Direkomendasikan | Tahan |
+Loteprednol etabonat ialah kortikosteroid topikal untuk mata yang pada asalnya digunakan untuk merawat keradangan mata seperti uveitis, konjunktivitis atopik dan konjunktivitis vernal.
+Model TxGNN meramalkan ia mungkin berkesan untuk **konjunktivitis folikular kronik**,
+tetapi setakat ini terdapat **0 percubaan klinikal** dan **0 penerbitan** yang menyokong indikasi ini secara langsung. Sokongan hanya datang daripada skor ramalan model.
 
 ---
 
-## Mengapa Prediksi Ini Masuk Akal?
+## Gambaran Keseluruhan
 
-Saat ini, data mekanisme aksi terperinci tidak tersedia dalam paket bukti (`original_moa`: Kesenjangan Data). Berdasarkan informasi yang diketahui, loteprednol etabonate adalah "steroid lembut" — kortikosteroid berbasis ester yang cepat dimetabolisme menjadi metabolit inaktif, dirancang untuk mengurangi penyerapan sistemik dan efek samping tekanan intraokular dibandingkan dengan steroid berbasis keton tradisional (misalnya, prednisolon, deksametason). Keampuhan dalam kondisi peradangan yang responsif terhadap steroid pada konjungtiva, kornea, dan segmen anterior — termasuk konjunktivitis alergi — sudah terbukti dengan baik.
-
-Konjunktivitis folikular kronis ditandai dengan hiperplasia folikular limfoid dan infiltrasi peradangan kronis pada konjungtiva. Karena kortikosteroid topikal menekan proliferasi limfosit dan pelepasan mediator peradangan, rasionalisasi mekanis untuk memperluas loteprednol etabonate dari konjunktivitis alergi ke konjunktivitis folikular kronis masuk akal dan konsisten dengan farmakologi anti-inflamasi yang diketahui.
-
-Namun, konjunktivitis folikular kronis memiliki etiologi yang heterogen, dan beberapa kasus berasal dari infeksi (misalnya, klamidia atau virus). Penggunaan steroid dalam kasus infeksi yang tidak dikonfirmasi dapat menutupi atau memperburuk infeksi yang mendasarinya, jadi penyebab infeksi harus dikecualikan sebelum mempertimbangkan terapi steroid — ini adalah peringatan mekanis, bukan kontraindikasi yang ditetapkan oleh bukti langsung.
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Uveitis, penyakit iris, penyakit badan silier, panuveitis, konjunktivitis atopik, konjunktivitis papilari, konjunktivitis vernal dan lain-lain (daripada graf pengetahuan TxGNN) |
+| Indikasi Baharu yang Diramalkan | Konjunktivitis folikular kronik |
+| Skor Ramalan TxGNN | 99.69% |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
-## Bukti Uji Klinis
+## Mengapa Ramalan Ini Munasabah?
 
-Saat ini tidak ada uji klinis terkait yang terdaftar.
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia pada masa ini. Berdasarkan maklumat sedia ada, loteprednol etabonat ialah kortikosteroid topikal (glukokortikoid) yang telah digunakan untuk keadaan keradangan dan alergi pada mata. Secara mekanistik, ia mungkin boleh digunakan untuk konjunktivitis folikular kronik.
+
+Indikasi asal merangkumi beberapa bentuk konjunktivitis keradangan dan alergi (atopik, vernal, papilari). Konjunktivitis folikular kronik juga melibatkan keradangan permukaan mata, jadi kesan anti-radang glukokortikoid secara teorinya boleh mengurangkan keradangan folikular pada konjunktiva.
+
+Namun, ini baru hipotesis. Tiada percubaan klinikal atau penerbitan yang menyokongnya dalam data yang dikumpulkan. Ramalan ini bergantung sepenuhnya pada skor graf pengetahuan (0.997).
+
+### Indikasi Lain yang Diramalkan
+
+Sepuluh indikasi teratas mempunyai skor yang hampir sama (99.1%–99.7%) dan semuanya pada tahap bukti L5:
+
+| Kedudukan | Indikasi Diramalkan | Skor | Syor Awal | Ringkasan |
+|------|------|------|------|------|
+| 1 | Konjunktivitis folikular kronik | 99.69% | Soalan Penyelidikan | Anti-radang munasabah, tiada bukti |
+| 2 | Konjunktivitis parasit | 99.69% | Hold | Steroid boleh memburukkan jangkitan parasit; rawatan antiparasit perlu dahulu |
+| 3 | Konjunktivitis serus (bukan virus) | 99.69% | Soalan Penyelidikan | Bertindih dengan indikasi alergi/radang yang diluluskan |
+| 4 | Folikulosis konjunktiva | 99.69% | Hold | Selalunya jinak dan sembuh sendiri; keperluan steroid dipersoalkan |
+| 5 | Konjunktivitis pseudomembran | 99.66% | Soalan Penyelidikan | Satu penerbitan tidak langsung; risiko perlanjutan penumpahan virus |
+| 6 | Sindrom Angelucci | 99.66% | Soalan Penyelidikan | Bentuk konjunktivitis vernal; loteprednol sudah diindikasikan untuk vernal |
+| 7 | Konjunktivitis hemoragik akut | 99.62% | Hold | Jangkitan virus sembuh sendiri; steroid mungkin melanjutkan penumpahan virus |
+| 8 | Konjunktivitis rosasea | 99.34% | Soalan Penyelidikan | Rosasea sudah termasuk dalam indikasi asal |
+| 9 | Konjunktivitis berjangkit akut | 99.26% | Hold | Steroid tanpa perlindungan anti-jangkitan boleh memburukkan jangkitan |
+| 10 | Otitis eksterna | 99.13% | Hold | Formulasi oftalmik tidak sesuai untuk saluran telinga |
+
+---
+
+## Bukti Percubaan Klinikal
+
+Setakat ini tiada percubaan klinikal berkaitan didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
-| PMID | Tahun | Tipe | Jurnal | Temuan Kunci |
-|------|-----|------|--------|---------|
-| [29801089](https://pubmed.ncbi.nlm.nih.gov/29801089/) | 2018 | Laporan Kasus | JAMA Ophthalmology | Laporan kasus konjunktivitis folikular kronis pada seorang wanita setengah baya; menggambarkan presentasi klinis dari kondisi target (abstrak tidak tersedia; tidak secara langsung mengevaluasi loteprednol etabonate). |
-| [17056466](https://pubmed.ncbi.nlm.nih.gov/17056466/) | 2006 | Laporan Kasus | Ocular Immunology and Inflammation | Sarkoidosis okular terisolasi yang hadir sebagai granuloma non-kaseating konjungtiva pada pasien HIV-positif; mengilustrasikan diagnosis banding untuk penyakit konjungtiva folikular kronis (tidak secara langsung mengevaluasi loteprednol etabonate). |
+Tiada literatur berkaitan secara langsung untuk konjunktivitis folikular kronik. Satu penerbitan tidak langsung dikenal pasti bagi indikasi kedudukan ke-5 (konjunktivitis pseudomembran):
 
-**Catatan:** Kedua publikasi bukan studi intervensi atau efikasi loteprednol etabonate — keduanya adalah laporan kasus deskripsi penyakit. Mereka mendukung karakterisasi penyakit tetapi bukan efikasi pengobatan, konsisten dengan tingkat bukti L4.
-
----
-
-## Informasi Pasar Malaysia
-
-Malaysia (NPRA) mencatat 3 otorisasi pemasaran terdaftar untuk produk oftalmik loteprednol etabonate (`total_licenses: 3`, status pasar: Dipasarkan). Nomor lisensi, nama produk, bentuk dosis, dan teks indikasi yang disetujui tidak diisi dalam paket bukti dan memerlukan pengambilan tindak lanjut dari catatan NPRA.
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [40638366](https://pubmed.ncbi.nlm.nih.gov/40638366/) | 2025 | Kajian perbandingan | Ocular Immunology and Inflammation | Menilai pengurangan beban virus berasaskan PCR dalam konjunktivitis adenovirus menggunakan ganciklovir dan povidon-iodin, serta gabungannya dengan loteprednol etabonat. Hubungan dengan loteprednol tidak langsung dan lengan ubat belum disahkan. |
 
 ---
 
-## Pertimbangan Keamanan
+## Safety Considerations
 
-Silakan lihat kemasan untuk informasi keamanan.
+**Penyakit/keadaan yang dikenal pasti sebagai kontraindikasi dalam graf pengetahuan** (bukan teks label produk):
+- Hipertensi okular
+- Glaukoma
+- Keratitis virus herpes simpleks
+- Jangkitan kulat pada mata
+- Jangkitan virus pada mata
+- Tuberkulosis okular
+- Herpes zoster oftalmik
 
-*(Catatan: `safety.key_warnings` dan `safety.contraindications` keduanya merupakan Kesenjangan Data yang tidak terselesaikan dalam paket bukti ini — lihat DG001 di bawah — dan tidak ada catatan interaksi obat yang ditemukan.)*
+**Interaksi Ubat:**
+Pangkalan data DDInter melaporkan 30 interaksi, tetapi tahap keterukan semuanya "tidak diketahui". Antara yang disenaraikan (20 pertama): pantoprazol, doksisiklin, omeprazol, lansoprazol, triamsinolon, prednison, simvastatin, kalium klorida, ranitidin, ondansetron, asid asetilsalisilik, nistatin, rosuvastatin, warfarin, klopidogrel, hidroksiklorokuin, cetirizin, feksofenadin, salbutamol dan ibuprofen.
+
+Untuk amaran utama dan kontraindikasi daripada label produk, sila rujuk risalah maklumat produk.
 
 ---
 
-## Kesimpulan dan Langkah Berikutnya
+## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
-**Rasionalisasi:**
-Prediksi TxGNN untuk konjunktivitis folikular kronis hanya didukung oleh kelayakan mekanis dan dua laporan kasus non-intervensi (tingkat bukti L4, tidak ada uji klinis), dan skor sistem itu sendiri menandainya sebagai "Pertanyaan Penelitian" daripada kandidat yang dapat ditindaklanjuti. Secara kritis, kesenjangan data **DG001** (peringatan label TFDA/NPRA dan kontraindikasi) ditandai sebagai **Pemblokiran** — paket bukti secara eksplisit menyatakan ini mencegah masuk ke tahap pra-penilaian keamanan S1, jadi tidak ada keputusan yang menginformasikan keamanan dapat dibuat terlepas dari efikasi yang diprediksi.
+**Justifikasi:**
+- Ramalan hanya disokong skor model (tahap bukti L5), tanpa percubaan klinikal atau literatur langsung. Ubat ini juga tidak dipasarkan di Malaysia, dan beberapa kontraindikasi graf pengetahuan (jangkitan virus, kulat dan herpes pada mata) bertindih dengan jenis konjunktivitis yang diramalkan.
 
-**Untuk melanjutkan, yang berikut diperlukan:**
-- Selesaikan DG001: dapatkan dan analisis peringatan paket resmi/kontraindikasi dari NPRA untuk membuka blokir ulasan keamanan S1
-- Selesaikan DG002: dapatkan dokumentasi mekanisme aksi formal dari DrugBank untuk mendukung rasionalisasi mekanis
-- Hilangkan etiologi infeksi dari konjunktivitis folikular kronis sebelum mempertimbangkan strategi pengobatan berbasis steroid apa pun
-- Lengkapi detail lisensi Malaysia yang hilang (nomor lisensi, nama produk, bentuk dosis, teks indikasi yang disetujui) untuk 3 produk terdaftar
-- Hasilkan bukti tingkat lebih tinggi (misalnya, seri kasus observasional atau studi prospektif) melampaui laporan kasus sebelum maju melampaui S1
-
+**Untuk meneruskan, perlu:**
+- Data mekanisme tindakan (MOA) daripada DrugBank
+- Amaran dan kontraindikasi daripada risalah maklumat produk NPRA (jika produk didaftarkan)
+- Kajian literatur dan pendaftaran percubaan klinikal khusus untuk konjunktivitis folikular kronik
+- Penyaringan etiologi (menyisih jangkitan virus, parasit, bakteria atau kulat) sebelum penggunaan steroid
+- Pelan pemantauan tekanan intraokular dan glaukoma
+- Pengesahan laluan dan formulasi yang sesuai serta status pendaftaran di Malaysia
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

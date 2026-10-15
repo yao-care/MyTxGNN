@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Midazolam
-parent: Medium Evidence (L3)
-nav_order: 484
-evidence_level: L3
+parent: Low Evidence (L4-L5)
+nav_order: 505
+evidence_level: L5
 indication_count: 1
 ---
 
 # Midazolam
 {: .fs-9 }
 
-Tahap bukti: **L3** | Indikasi diramal: **1** 
+Tahap bukti: **L5** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,88 +29,100 @@ Tahap bukti: **L3** | Indikasi diramal: **1**
 
 </div>
 
-# Midazolam: Daripada Sedasi/Anestesia kepada Insomnia
+# Midazolam: Daripada Keresahan (Anxiety) kepada Insomnia
 
 ## Ringkasan Satu Ayat
 
-Midazolam ialah benzodiazepin kerja pendek yang paling biasa digunakan untuk sedasi prosedur, anxiolisis praoperatif, dan aruhan anestesia. Model TxGNN meramalkan ia mungkin juga berkesan untuk **Insomnia**, dengan **32 uji klinikal** yang dikenal pasti dalam carian (kebanyakannya berkaitan dengan konteks sedasi/kualiti tidur) dan **11 penerbitan**, termasuk beberapa uji rawak berkumpul tertutup yang lebih tua yang menguji midazolam secara langsung untuk gangguan tidur. Jurang data yang menghalang masih tinggal: amaran sisipan paket NPRA dan kontraindikasi masih belum diambil, oleh itu saringan keselamatan penuh (S1) tidak dapat diselesaikan.
+Midazolam ialah benzodiazepin bertindak singkat yang pada asalnya digunakan untuk keresahan (anxiety) dan sedasi.
+Model TxGNN meramalkan ia mungkin berkesan untuk **insomnia**,
+dengan **2 ujian klinikal** dan **10 penerbitan** dalam data yang dikumpulkan. Namun, bukti yang benar-benar relevan hanya terdiri daripada beberapa RCT lama dari tahun 1981 hingga 1990.
 
 ---
 
-## Gambaran Pantas
+## Gambaran Ringkas
 
-| Item | Kandungan |
-|------|----------|
-| Indikasi Asal | Sedasi / aruhan anestesia (teks indikasi khusus yang diluluskan NPRA tidak ditangkap dalam set data semasa) |
-| Indikasi Baru yang Diramalkan | Insomnia |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Keresahan (anxiety), berdasarkan graf pengetahuan TxGNN (PrimeKG) kerana tiada lesen tempatan |
+| Indikasi Baharu yang Diramal | Insomnia |
 | Skor Ramalan TxGNN | 99.74% |
-| Tahap Bukti | L3 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 15 |
-| Keputusan yang Disyorkan | Tahan |
+| Tahap Bukti | L2 (lihat catatan di bawah) |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (Tangguh) |
+
+> **Catatan tahap bukti:** Tiada ujian Fasa 2/3 yang berdaftar untuk insomnia. Tahap L2 berdasarkan RCT yang diterbitkan (1981 hingga 1990), bukan ujian berdaftar moden, jadi ia perlu ditafsir dengan berhati-hati.
 
 ---
 
-## Mengapa Ramalan Ini Wajar?
+## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan terperinci tidak tersedia dalam pakej bukti ini. Berdasarkan farmakologi yang diketahui, midazolam ialah benzodiazepin kerja pendek yang bertindak sebagai modulator alosterik positif pada reseptor GABA-A, meningkatkan neurotransmisi GABAergik penghambatan untuk menghasilkan kesan sedatif, anxiolitis, amnestik, dan hipnotik. Ia digunakan terutamanya untuk sedasi prosedur, anxiolisis praoperatif, dan aruhan anestesia umum.
+Midazolam ialah benzodiazepin bertindak singkat yang bertindak sebagai modulator alosterik positif pada reseptor GABA-A. Ia meningkatkan neurotransmisi perencatan dan menghasilkan kesan sedatif-hipnotik. Mekanisme ini sama dengan benzodiazepin hipnotik yang diluluskan, seperti flurazepam, jadi kesan hipnotik untuk insomnia boleh diterima secara farmakologi. Skor TxGNN yang tinggi (0.997) selaras dengan hal ini.
 
-Kerana insomnia adalah pada asasnya gangguan permulaan dan penyelenggaraan tidur, dan tindakan farmakologi teras midazolam adalah hipnotik/sedatif, alasan mekanistik untuk tujuan semula kepada insomnia adalah langsung daripada kebetulan — benzodiazepin lain dalam kelas yang sama (cth., triazolam, temazepam) sudah diluluskan sebagai hipnotik. Mekanisme bersama ini secara munasabah menjelaskan skor TxGNN yang kuat.
+Indikasi asal (keresahan dan sedasi) bergantung pada tindakan GABAergik yang sama. Oleh itu, ramalan ini lebih tepat dilihat sebagai penerokaan semula kesan farmakologi yang sudah diketahui, bukan mekanisme baharu. Midazolam oral pernah dikaji untuk gangguan tidur pada tahun 1980-an hingga 1990-an, termasuk kajian penentuan dos dan perbandingan multipusat dengan flurazepam.
 
-Yang dikatakan, kebanyakan bukti uji klinikal yang diambil berkaitan dengan sedasi prosedur/perioperatif dan hasil kualiti tidur dalam tetapan pembedahan atau ICU, bukan kepada insomnia primer kronik sebagai indikasi kendiri. Bukti langsung yang paling kuat untuk indikasi insomnia datang daripada set kecil uji rawak berkumpul tertutup (1981–1990) yang lebih tua yang menguji midazolam oral secara khusus dalam pesakit dengan gangguan tidur.
+Medan data mekanisme tindakan asal tidak tersedia, dan status pasaran juga belum disahkan secara bebas. Penerangan mekanisme di atas berdasarkan analisis pautan mekanistik yang disusun untuk laporan ini.
 
 ---
 
-## Bukti Uji Klinikal
+## Bukti Ujian Klinikal
 
-| No. Uji | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|--------|----------|----------|
-| [NCT06407518](https://clinicaltrials.gov/study/NCT06407518) | NA | Merekrut | 280 | Midazolam oral praoperatif untuk kesakitan pasca operasi pada pesakit dengan gangguan tidur/kebimbangan yang menjalani reseksi kanser kolorektal laparoskopi |
-| [NCT02142595](https://clinicaltrials.gov/study/NCT02142595) | Fasa 4 | Selesai | 111 | Membandingkan kualiti tidur pasca operasi dengan sedasi IV dexmedetomidine vs. midazolam untuk TURP |
-| [NCT01966315](https://clinicaltrials.gov/study/NCT01966315) | T/A | Ditamatkan | 5 | Membandingkan kualiti/kuantiti tidur (polisomnografi 24j) antara dexmedetomidine dan midazolam dalam pesakit ICU |
-| [NCT00826553](https://clinicaltrials.gov/study/NCT00826553) | Fasa 1 | Ditamatkan | 6 | Membandingkan tahap tidur polisomnografik antara agonis α2 (dexmedetomidine) dan sedasi agonis GABA (kelas midazolam) |
-| [NCT04082767](https://clinicaltrials.gov/study/NCT04082767) | Fasa 3 | Tidak Diketahui | 120 | Keberkesanan sedasi dexmedetomidine vs. midazolam pada anak-anak berventilasi yang kritikal |
-| [NCT00744380](https://clinicaltrials.gov/study/NCT00744380) | NA | Selesai | 23 | Dexmedetomidine vs. midazolam untuk memudahkan ekstubasi pada pesakit ICU |
-| [NCT04149626](https://clinicaltrials.gov/study/NCT04149626) | Fasa 2 | Tidak Diketahui | 60 | Membandingkan dexmedetomidine, midazolam, dan remifentanil untuk sedasi dalam pembedahan ortopedik di bawah anestesia serantau |
-| [NCT07336095](https://clinicaltrials.gov/study/NCT07336095) | Fasa 3 | Belum mula merekrut | 195 | Melatonin oral vs. midazolam oral sebagai pramedikasi pada anak-anak yang menjalani tonsilektomi |
-| [NCT06480500](https://clinicaltrials.gov/study/NCT06480500) | Fasa 2 | Merekrut | 110 | CBT berasaskan internet ditambah ketamin IV untuk kesuicidan dalam kemurungan tahan rawatan, dikawal midazolam |
-| [NCT06498869](https://clinicaltrials.gov/study/NCT06498869) | NA | Selesai | 178 | Kesan ketamin pada kualiti tidur semasa sedasi kolonoskopi (midazolam digunakan dalam protokol sedasi standard) |
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
+|---------|------|------|------|---------|
+| [NCT02142595](https://clinicaltrials.gov/study/NCT02142595) | Fasa 4 | Selesai | 111 | Membandingkan kualiti tidur selepas pembedahan antara sedasi dexmedetomidine dan midazolam pada pesakit reseksi prostat transuretra (TURP). Relevan secara tidak langsung kerana ia berlaku dalam konteks sedasi pascaoperasi, bukan rawatan insomnia kronik. |
+| [NCT00886314](https://clinicaltrials.gov/study/NCT00886314) | NA | Tidak diketahui | 80 | Doktor badut berbanding premedikasi sedatif untuk kanak-kanak yang menjalani pembedahan. Berkaitan keresahan praoperasi dan tidak relevan untuk insomnia. |
 
 ---
 
 ## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|------|--------|--------|----------|
-| [6138072](https://pubmed.ncbi.nlm.nih.gov/6138072/) | 1983 | RCT | British Journal of Clinical Pharmacology | Uji berkumpul tertutup: midazolam 15mg vs. Vesparax dalam insomnia sekunder kepada penyakit neuromuskular; midazolam adalah hipnotik yang berkesan, bertolak ansur lebih baik, tiada kesan cangkup |
-| [2121802](https://pubmed.ncbi.nlm.nih.gov/2121802/) | 1990 | RCT | Journal of Clinical Psychopharmacology | Kajian berpusat multisentral berkumpul tertutup selari: tidur, prestasi, dan paras plasma dengan penggunaan 14 hari flurazepam vs. midazolam pada insomnia kronik |
-| [2229461](https://pubmed.ncbi.nlm.nih.gov/2229461/) | 1990 | RCT | Journal of Clinical Psychopharmacology | Ringkasan eksekutif ujian multisentral 14 hari flurazepam vs. midazolam di atas pada insomnia kronik |
-| [6120704](https://pubmed.ncbi.nlm.nih.gov/6120704/) | 1981 | Uji Klinikal | Arzneimittel-Forschung | Kajian pelopor carian dos multisentral midazolam oral (10–30mg) dalam 75 pesakit wad dengan insomnia ringan hingga sederhana |
-| [17988972](https://pubmed.ncbi.nlm.nih.gov/17988972/) | 2007 | Ulasan | Orvosi Hetilap | Ulasan patofisiologi insomnia, termasuk keadaan hiperbangun dalam insomnia primer |
-| [2883820](https://pubmed.ncbi.nlm.nih.gov/2883820/) | 1986 | Ulasan | Acta Psychiatrica Scandinavica Suppl. | Ulasan penggunaan klinikal hipnotik (termasuk benzodiazepin) dan rasional untuk pelbagai pilihan hipnotik |
+|------|-----|------|------|---------|
+| [2121802](https://pubmed.ncbi.nlm.nih.gov/2121802/) | 1990 | RCT | J Clin Psychopharmacol | Kajian buta ganda, kumpulan selari, multipusat, yang membandingkan tidur, prestasi dan mood pada pesakit insomnia kronik semasa penggunaan flurazepam dan midazolam selama 14 hari. |
+| [2229461](https://pubmed.ncbi.nlm.nih.gov/2229461/) | 1990 | RCT | J Clin Psychopharmacol | Ringkasan eksekutif kajian multipusat yang sama (tidur, prestasi dan paras plasma pada penghidap insomnia kronik). Tiada abstrak tersedia. |
+| [6138072](https://pubmed.ncbi.nlm.nih.gov/6138072/) | 1983 | RCT | Br J Clin Pharmacol | Midazolam 15 mg dan Vesparax terbukti hipnotik yang cekap pada 30 pesakit wanita dengan insomnia sekunder akibat penyakit neuromuskular. Midazolam lebih diterima dan tidak menyebabkan kesan kemabukan (hangover) seperti Vesparax. |
+| [6120704](https://pubmed.ncbi.nlm.nih.gov/6120704/) | 1981 | RCT | Arzneimittel-Forschung | Kajian penentuan dos multipusat pada 75 pesakit di hospital dengan insomnia ringan hingga sederhana (midazolam oral 10 hingga 30 mg). |
+| [2883820](https://pubmed.ncbi.nlm.nih.gov/2883820/) | 1986 | Ulasan | Acta Psychiatr Scand Suppl | Ulasan penggunaan klinikal hipnotik dan keperluan pelbagai jenis hipnotik benzodiazepin. |
+| [17988972](https://pubmed.ncbi.nlm.nih.gov/17988972/) | 2007 | Ulasan | Orv Hetil | Ulasan umum tentang insomnia dan hipoperfusi serebrum (hanya latar belakang, bukan khusus midazolam). |
+| [36615100](https://pubmed.ncbi.nlm.nih.gov/36615100/) | 2022 | Kohort | J Clin Med | Kajian perintis lemborexant untuk insomnia dan delirium selepas prosedur endoskopi. Menyebut benzodiazepin boleh meningkatkan delirium (relevan sebagai pertimbangan keselamatan). |
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan paket untuk maklumat keselamatan.
+- **Kontraindikasi (berdasarkan graf pengetahuan TxGNN, bukan teks label produk):** penyakit pulmonari obstruktif kronik (COPD), sirosis hati, glaukoma sudut tertutup, penyakit buah pinggang kronik dan kegagalan buah pinggang peringkat akhir.
+- **Interaksi Ubat:** Sebanyak 100 interaksi dikesan. Yang utama (tahap sederhana) ialah:
+  - morfin (kesan penekanan sistem saraf pusat yang boleh bertambah)
+  - bupropion
+  - aprepitant
+  - simetidin, ranitidin dan omeprazol
+  - klaritromisin
+  - metoklopramid
+  - mikonazol dan klotrimazol
+  - dronabinol dan nabilon
+  - eluxadoline
+  - teduglutide
+  - gliserol fenilbutirat
+
+  Interaksi tahap minor termasuk deksametason, betametason, magnesium oksida, aluminium hidroksida dan kalsium karbonat.
+
+Untuk amaran dan kontraindikasi rasmi, sila rujuk sisipan pakej (package insert).
 
 ---
 
-## Kesimpulan dan Langkah Berikutnya
+## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-- Ramalan TxGNN adalah kuat (99.74%) dan disokong oleh beberapa RCT berkumpul tertutup bersejarah yang menguji midazolam secara langsung untuk gangguan tidur/insomnia, memberikan kebolehpercayaan mekanistik dan empirik. Walau bagaimanapun, amaran sisipan paket NPRA dan kontraindikasi adalah jurang data yang **menghalang** — calon tidak dapat melepasi saringan keselamatan awal (S1) tanpa maklumat ini, terutamanya diberikan depresi pernafasan midazolam yang diketahui dan risiko kebergantungan dalam penggunaan umum.
+- Tindakan GABA-A midazolam menjadikan kesan hipnotik munasabah dan beberapa RCT lama menyokongnya. Namun, tiada ujian moden yang relevan, ubat ini tidak dipasarkan di Malaysia, dan maklumat keselamatan daripada sisipan pakej belum tersedia.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Amaran sisipan paket NPRA/TFDA dan kontraindikasi (jurang menghalang, DG001)
-- Butiran mekanisme tindakan yang disahkan dari DrugBank (DG002)
-- Butiran lesen produk Malaysia (nama jenama, bentuk dos, teks indikasi yang diluluskan) — data daftar semasa tidak lengkap
-- Profil interaksi dadah-dadah rasmi (DDI), kerana tidak ada yang ditemui dalam tarikan ini
-- Penilaian sama ada formulasi midazolam semasa (boleh suntik/prosedur) sesuai dengan rejimen dos insomnia kronik
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Memuat turun dan menganalisis sisipan pakej NPRA bagi amaran dan kontraindikasi (jurang data yang menghalang penilaian keselamatan).
+- Mengesahkan status pendaftaran dan pemasaran midazolam di Malaysia, serta bentuk dos yang sesuai untuk insomnia (contohnya oral).
+- Melengkapkan data mekanisme tindakan rasmi daripada DrugBank.
+- Menilai semula bukti RCT lama (1981 hingga 1990) dengan piawaian moden, dan mempertimbangkan ujian baharu berbanding hipnotik semasa.
+- Menyediakan pelan pemantauan keselamatan untuk populasi berisiko (COPD, penyakit hati dan buah pinggang, warga emas) serta risiko interaksi dengan opioid dan perencat CYP3A4.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

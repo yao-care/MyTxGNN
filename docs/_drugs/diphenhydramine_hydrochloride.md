@@ -2,7 +2,7 @@
 layout: default
 title: Diphenhydramine Hydrochloride
 parent: Low Evidence (L4-L5)
-nav_order: 288
+nav_order: 297
 evidence_level: L5
 indication_count: 0
 ---

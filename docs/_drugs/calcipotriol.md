@@ -2,7 +2,7 @@
 layout: default
 title: Calcipotriol
 parent: Medium Evidence (L3)
-nav_order: 177
+nav_order: 182
 evidence_level: L3
 indication_count: 10
 ---
@@ -29,83 +29,108 @@ Tahap bukti: **L3** | Indikasi diramal: **10**
 
 </div>
 
-# Kalsipotriol: Dari Psoriasis ke Keratosis Seborrheic
+# Calcipotriol: Daripada Indikasi Asal (Tiada Data) kepada Keratosis Seborea
 
-## Ringkasan Satu Kalimat
+## Ringkasan Satu Ayat
 
-Kalsipotriol adalah analog vitamin D3 topikal yang telah terbukti secara klinis untuk pengobatan psoriasis plak. Model TxGNN memprediksi bahwa ia juga dapat efektif untuk **Keratosis Seborrheic**, sebuah hipotesis yang saat ini didukung oleh **6 studi yang dipublikasikan** (belum ada uji klinis teregistrasi) yang menggambarkan respons klinis yang konsisten dan mekanisme pro-apoptosis yang dapat dipercaya.
-
----
-
-## Ikhtisar Cepat
-
-| Item | Konten |
-|------|--------|
-| Indikasi Asli | Psoriasis (psoriasis plak) — berdasarkan farmakologi yang terbukti; tidak ditentukan dalam teks pendaftaran NPRA yang tersedia |
-| Indikasi Baru yang Diprediksi | Keratosis Seborrheic |
-| Skor Prediksi TxGNN | 99.96% |
-| Tingkat Bukti | L3 |
-| Status Pasar Malaysia | ✓ Dipasarkan |
-| Jumlah Pendaftaran | 6 |
-| Keputusan yang Direkomendasikan | Lanjutkan dengan Penjagaan |
+Calcipotriol ialah analog vitamin D3 yang digunakan secara topikal, dan dikenali sebagai rawatan psoriasis. Data pendaftaran tempatan yang dikumpulkan untuk laporan ini tidak mencatatkan indikasi asal.
+Model TxGNN meramalkan ubat ini mungkin berkesan untuk **keratosis seborea (seborrheic keratosis)**, dengan **0 percubaan klinikal** dan **4 penerbitan** (kebanyakannya siri kes kecil dan laporan kes) yang menyokong arah ini.
 
 ---
 
-## Mengapa Prediksi Ini Masuk Akal?
+## Gambaran Keseluruhan Pantas
 
-Saat ini, data mekanisme tindakan terperinci untuk kalsipotriol tidak tersedia dalam dataset sumber. Berdasarkan pengetahuan farmakologi yang telah ditetapkan, kalsipotriol adalah analog vitamin D3 sintetis (kalsitriol) dan agonis reseptor vitamin D (VDR). Efikasinya yang terbukti dalam psoriasis berasal dari penekanan proliferasi keratinosit yang berlebihan sambil mempromosikan diferensiasi keratinosit dan pergantian normal.
-
-Keratosis seborrheic (SK) dicirikan secara patologis dengan proses inti yang sama — akumulasi keratinosit yang proliferatif berlebihan tetapi jinak. Target seluler bersama ini adalah jembatan mekanis antara dua indikasi: obat yang menormalkan proliferasi/diferensiasi keratinosit dalam plak psoriasis secara plausibel dapat melakukan hal yang sama dalam lesi SK.
-
-Ini bukan murni teoritis. PMID 16043912 secara langsung menunjukkan bahwa analog vitamin D3 topikal (termasuk kalsipotriol) menginduksi **apoptosis** dalam lesi SK ("senile wart"), memberikan penjelasan mekanis spesifik daripada ekstrapolasi generik. Beberapa seri kasus independen, termasuk studi perbandingan terhadap bedah cryosurgery standar (PMID 15090020), melaporkan regresi klinis yang konsisten dengan kalsipotriol topikal, yang meningkatkan kepercayaan pada prediksi TxGNN melampaui skor saja.
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Tiada data pendaftaran tempatan |
+| Indikasi Baharu yang Diramalkan | Keratosis seborea (seborrheic keratosis) |
+| Skor Ramalan TxGNN | 99.96% |
+| Tahap Bukti | L3 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
-## Bukti Uji Klinis
+## Mengapa Ramalan Ini Munasabah?
 
-Saat ini tidak ada uji klinis terkait yang teregistrasi.
+Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, calcipotriol ialah analog vitamin D3 yang terikat pada reseptor vitamin D dalam keratinosit. Ia merencat hiperproliferasi, menggalakkan pembezaan sel dan mendorong apoptosis.
+
+Keratosis seborea ialah tumor epitelium benigna yang tumbuh perlahan, terutamanya pada orang tua. Kesan antiproliferasi dan pro-pembezaan calcipotriol pada keratinosit secara mekanistik sesuai dengan penyakit ini. Ia juga selaras dengan penggunaannya dalam penyakit kulit berkeratin yang radang seperti psoriasis.
+
+Perlu diingat bahawa kajian 2023 (PMID 36752725) ialah siri kes kecil, bukan RCT yang disahkan. Penerbitan lain adalah laporan klinikal kecil atau laporan kes. Oleh itu, kebolehpercayaan bukti masih terhad.
+
+---
+
+## Bukti Percubaan Klinikal
+
+Buat masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
-| PMID | Tahun | Jenis | Jurnal | Temuan Utama |
-|------|------|------|--------|---------|
-| [15090020](https://pubmed.ncbi.nlm.nih.gov/15090020/) | 2004 | Uji Klinis Perbandingan (vs cryosurgery) | International Journal of Dermatology | Membandingkan cryosurgery standar dengan kalsipotriene topikal, tazarotene, dan imiquimod untuk keratosis seborrheic. |
-| [36752725](https://pubmed.ncbi.nlm.nih.gov/36752725/) | 2023 | Studi Klinis Prospektif (seri kasus, n=12) | The Australasian Journal of Dermatology | 12 pasien dengan SK wajah datar diobati dengan salep kalsipotriol 0.005% selama 3–8 bulan mencapai regresi lesi lengkap, dengan remisi berlangsung 6–10 tahun. |
-| [16043912](https://pubmed.ncbi.nlm.nih.gov/16043912/) | 2005 | Studi Klinis (mekanisme: apoptosis) | The Journal of Dermatology | 116 senile warts (SK) diobati dengan vitamin D3 topikal (takalkitol, kalsipotriol, atau maksalkitol) selama 3–12 bulan; 30.2% menunjukkan respons, dengan apoptosis yang diusulkan sebagai mekanismenya. |
-| [15577148](https://pubmed.ncbi.nlm.nih.gov/15577148/) | 2004 | Studi Klinis / Tinjauan | Clinical Calcium | Pembaruan berbahasa Jepang tentang salep vitamin D3 topikal (takalkitol, kalsipotriol, maksalkitol) untuk pengobatan senile warts (SK). |
-| [10721662](https://pubmed.ncbi.nlm.nih.gov/10721662/) | 2000 | Laporan Kasus | The Journal of Dermatology | Seorang wanita berusia 35 tahun dengan keratosis lichenoides chronica (suatu kondisi mirip dermatitis seborrheic, tahan terhadap terapi) menunjukkan respons yang mencolok terhadap salep kalsipotriol. |
-| [21534378](https://pubmed.ncbi.nlm.nih.gov/21534378/) | 2011 | Laporan Kasus / Vignette Klinis | JAAPA | Vignette klinis yang menggambarkan keratosis seborrheic sebagai diagnosis untuk ruam tungkai bintik dan gatal (kasus pengajaran diagnostik, bukan studi pengobatan). |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [36752725](https://pubmed.ncbi.nlm.nih.gov/36752725/) | 2023 | Siri kes (12 pesakit) | Australas J Dermatol | Salap calcipotriol 0.005% selama 3–8 bulan pada keratosis seborea rata di muka menyebabkan regresi lengkap lesi; tempoh remisi 6–10 tahun |
+| [16043912](https://pubmed.ncbi.nlm.nih.gov/16043912/) | 2005 | Kajian klinikal / siri kecil | J Dermatol | Vitamin D3 topikal (tacalcitol, calcipotriol, maxacalcitol) pada 116 kes ketuk-ketuk (senile wart) selama 3–12 bulan; 35 kes (30.2%) menunjukkan respons, dengan kemungkinan mekanisme apoptosis |
+| [15577148](https://pubmed.ncbi.nlm.nih.gov/15577148/) | 2004 | Laporan klinikal / ulasan | Clin Calcium | Vitamin D3 topikal aktif digunakan untuk ketuk-ketuk (keratosis seborea) sebagai alternatif kepada pembedahan, pembekuan dan laser |
+| [10721662](https://pubmed.ncbi.nlm.nih.gov/10721662/) | 2000 | Laporan kes | J Dermatol | Respons ketara terhadap salap calcipotriol pada keratosis lichenoides chronica (penyakit berkaitan tetapi berbeza) |
 
 ---
 
-## Informasi Pasar Malaysia
+## Keratosis Seborea: Calon Ramalan Lain (Ringkasan)
 
-Kalsipotriol saat ini dipasarkan di Malaysia dengan **6 pendaftaran NPRA aktif** (Status Pasar: ✓ Dipasarkan). Catatan tingkat produk terperinci (nomor lisensi, nama merek, bentuk dosis, dan teks indikasi yang disetujui) tidak tersedia dalam dataset saat ini.
+Calon lain yang diramalkan semuanya berbukti rendah (L4–L5) dan berstatus Hold:
+
+| Penyakit | Skor TxGNN | Tahap Bukti | Catatan |
+|------|------|------|------|
+| Vulvar inverted follicular keratosis | 99.94% | L5 | Tiada bukti; hanya persamaan dengan keratosis seborea |
+| Vulvovaginitis | 99.74% | L5 | Tiada kaitan mekanistik jelas; risiko kerengsaan mukosa |
+| Vulvitis | 99.58% | L4 | Hanya audit psoriasis vulva (PMID 22968059); tidak membuktikan keberkesanan umum |
+| Vulvar neoplasm | 99.51% | L4 | Hanya laporan kes lesi benigna (PMID 27789051) |
+| Ulceration of vulva | 99.50% | L5 | Ramalan sahaja |
+| Vulvar squamous neoplasm | 99.43% | L5 | Hanya rasional praklinikal |
+| Postmenopausal atrophic vaginitis | 99.37% | L5 | Tidak sesuai untuk mukosa vagina |
+| Bone Paget disease | 99.20% | L5 | Pendedahan sistemik topikal minimum; bisfosfonat ialah rawatan standard |
+| Breast fibrocystic disease | 99.02% | L5 | Berasaskan kedekatan graf sahaja |
+
+---
+
+## Maklumat Pasaran Malaysia
+
+Berdasarkan data yang dikumpulkan untuk laporan ini, calcipotriol tidak mempunyai pendaftaran di Malaysia (0 lesen). Status pasaran: tidak dipasarkan.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Silakan merujuk ke insert kemasan untuk informasi keselamatan.
+Maklumat amaran dan kontraindikasi daripada sisipan pakej tidak tersedia. Sila rujuk sisipan pakej untuk maklumat keselamatan.
+
+**Kontraindikasi daripada graf pengetahuan (bukan teks label):** Graf pengetahuan TxGNN (PrimeKG) mencatatkan penyakit berikut sebagai kontraindikasi, antaranya:
+- Gangguan metabolisme kalsium dan fosforus: hiperkalsemia, nefrokalsinosis, hipervitaminosis, kalsinosis, kalsifilaksis, hiperkalsiuria idiopatik
+- Insufisiensi adrenokortikal / penyakit Addison
+- Penyakit kulit dan vaskular: atrofi kulit, telangiektasia (termasuk telangiektasia hemoragik herediti), penyakit vaskular periferi, penyakit arteri periferi
+- Gangguan keratinisasi: ichthyosis (pelbagai jenis), penyakit Darier, pseudoxanthoma elasticum
+- Psoriasis guttate
+
+**Interaksi ubat:** Pangkalan data mencatatkan 84 interaksi, namun tahap keterukan semuanya "tidak diketahui". Contoh ubat yang disenaraikan: aspirin, bupropion, pantoprazole, doxycycline, clotrimazole, morphine, metformin, omeprazole, prednisone, hydrocortisone, triamcinolone, simvastatin, clarithromycin. Keterukan perlu disahkan sebelum sebarang kesimpulan klinikal.
 
 ---
 
-## Kesimpulan dan Langkah Selanjutnya
+## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Lanjutkan dengan Penjagaan**
+**Keputusan: Hold**
 
-**Dasar Pemikiran:**
-Prediksi keratosis seborrheic didukung oleh basis literatur spesifik yang didukung mekanismenya (L3 — studi observasional, termasuk satu uji perbandingan dan studi mekanisme yang menunjukkan induksi apoptosis), yang lebih kuat daripada prediksi berbasis skor model saja. Namun, tidak ada uji klinis teregistrasi yang ada saat ini, dan **celah data pemblokir** dalam label Malaysia obat (peringatan/kontraindikasi) saat ini mencegah penyelesaian penilaian keselamatan S1 yang wajib.
+**Rasional:**
+- Calcipotriol tidak berdaftar di Malaysia dan tiada percubaan klinikal didaftarkan untuk keratosis seborea. Bukti terbaik hanyalah siri kes kecil dan laporan klinikal (L3), manakala data keselamatan daripada sisipan pakej tidak tersedia, yang menghalang saringan keselamatan.
 
-**Untuk melanjutkan, diperlukan hal berikut:**
-- Selesaikan celah data pemblokir: ambil dan periksa insert kemasan NPRA/TFDA untuk kalsipotriol untuk mendapatkan peringatan dan kontraindikasi (diperlukan sebelum persetujuan keselamatan S1)
-- Dapatkan dokumentasi mekanisme tindakan (MOA) resmi dari DrugBank untuk menyelesaikan tinjauan hubungan mekanis
-- Lengkapi detail tingkat lisensi (nama produk, bentuk dosis, teks indikasi yang disetujui) untuk 6 pendaftaran Malaysia yang ada
-- Pertimbangkan uji prospektif/perbandingan kecil dalam SK untuk memindahkan bukti dari L3 menuju L2, mengingat tidak ada uji terkontrol yang ada saat ini
-- Catatan: indikasi yang diprediksi dengan peringkat lebih rendah (mis., vulvitis, neoplasma vulva) menunjukkan bukti yang dapat dipercaya secara mekanis tetapi awal (L4) dan belum siap untuk kemajuan; beberapa lainnya (mis., vulvovaginitis, penyakit Paget tulang, penyakit payudara fibroksistik) tetap pada L5/Tahan dengan tidak ada literatur atau uji pendukung, dan satu entri (penyakit Paget tulang) mungkin mencerminkan kesalahan pemetaan entitas penyakit yang harus dikoreksi sebelum evaluasi lebih lanjut.
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Muat turun dan huraikan sisipan pakej NPRA untuk amaran dan kontraindikasi (jurang data yang menyekat).
+- Data mekanisme tindakan (MOA) terperinci daripada DrugBank.
+- Pengesahan indikasi asal dan status pendaftaran calcipotriol di Malaysia.
+- Percubaan klinikal terkawal rawak (RCT) untuk keratosis seborea, dengan reka bentuk kajian 2023 disahkan.
+- Pengesahan tahap keterukan interaksi ubat dan pelan pemantauan kalsium serum untuk populasi berisiko.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

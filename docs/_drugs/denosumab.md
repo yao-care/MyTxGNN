@@ -2,7 +2,7 @@
 layout: default
 title: Denosumab
 parent: Low Evidence (L4-L5)
-nav_order: 257
+nav_order: 263
 evidence_level: L5
 indication_count: 2
 ---
@@ -29,57 +29,87 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Denosumab: Daripada Osteoporosis kepada Retinopati Diabetes Nonproliferatif Teruk
+# Denosumab: Daripada Osteoporosis kepada Retinopati Diabetik Non-Proliferatif Teruk
 
 ## Ringkasan Satu Ayat
 
-Denosumab adalah antibodi monoklonal yang menargetkan RANKL yang digunakan awalnya untuk osteoporosis dan pencegahan acara berkaitan kerangka (cth, dalam metastasis tulang). Model TxGNN meramalkan ia mungkin berkesan untuk **Retinopati Diabetes Nonproliferatif Teruk**, tetapi ini pada masa kini adalah **ramalan model tulen (skor 99.63%) tanpa ujian klinikal atau kesusasteraan sokongan** yang dikenalpasti setakat kini.
+Denosumab ialah antibodi monoklonal yang pada asalnya digunakan untuk merawat osteoporosis (termasuk osteoporosis pascamenopaus dan osteoporosis akibat ubat).
+Model TxGNN meramalkan ia mungkin berkesan untuk **retinopati diabetik non-proliferatif teruk**,
+tetapi pada masa ini **tiada percubaan klinikal** dan **tiada kajian langsung** yang menyokong indikasi ini; ramalan ini hanya berasaskan model pengiraan.
 
-## Ikhtisar Pantas
+---
 
-| Item | Kandungan |
+## Gambaran Pantas
+
+| Perkara | Kandungan |
 |------|------|
-| Petunjuk Asal | Osteoporosis / acara berkaitan kerangka (penggunaan yang diketahui secara global — teks lesen setempat tidak tersedia dalam pakej data ini) |
-| Petunjuk Baharu Diramalkan | Retinopati Diabetes Nonproliferatif Teruk |
+| Indikasi Asal | Osteoporosis, osteoporosis pascamenopaus, osteoporosis akibat ubat |
+| Indikasi Baharu yang Diramalkan | Retinopati diabetik non-proliferatif teruk |
 | Skor Ramalan TxGNN | 99.63% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 6 |
-| Keputusan yang Disyorkan | Tahan |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
-## Mengapa Ramalan Ini Munasabah?
+Nota: Indikasi asal di atas diambil daripada pangkalan pengetahuan TxGNN, bukan daripada teks label NPRA, kerana tiada lesen berdaftar di Malaysia.
 
-Pada masa kini, data mekanisme tindakan terperinci tidak tersedia dalam pakej bukti ini. Berdasarkan maklumat yang diketahui, denosumab adalah antibodi monoklonal sepenuhnya manusia yang menghalang RANKL (RANK ligand), dengan itu menyekat pembentukan dan aktiviti osteoklas; keberkesan dalam osteoporosis dan pencegahan acara berkaitan kerangka adalah terbukti dengan baik dan diluluskan secara meluas.
+---
 
-Pautan antara denosumab dan retinopati diabetes terletak pada paksi isyarat RANK/RANKL/OPG, yang telah dikaji secara pemerhatian sebagai laluan biopenanda dalam komplikasi vaskular diabetes — osteoprotegerin (OPG) serum yang meningkat telah dikaitkan dengan penyakit mikrovaskuler termasuk retinopati dalam beberapa kajian kohort. Ini adalah **perkaitan biopenanda korelatif**, bukan mekanisme kausal atau intervensi yang terbukti, dan petunjuk asal (metabolisme tulang) dan petunjuk yang diramalkan (penyakit mikrovaskuler retina) adalah jauh secara mekanistik di luar laluan isyarat bersama ini.
+## Mengapakah Ramalan Ini Munasabah?
 
-Kritikalnya, rasional ini terpakai kepada kategori lebih luas "retinopati diabetes" (ramalan berkaitan, bertaraf lebih rendah dengan skor 99.23%, yang mempunyai satu publikasi kohort/meta-analisis dunia nyata dan satu kajian rentasan, walaupun kaitannya dengan petunjuk khusus ini masih belum disahkan). Untuk petunjuk khusus yang diramalkan yang dilaporkan di sini — **retinopati diabetes nonproliferatif teruk** — tidak ada bukti ujian klinikal atau kesusasteraan langsung sekalipun; ramalan ini berasal tulen daripada graf pengetahuan TxGNN.
+Data terperinci mengenai mekanisme tindakan (MOA) denosumab tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat yang diketahui, denosumab ialah antibodi yang menyekat RANKL (ligan bagi RANK) dan keberkesanannya dalam osteoporosis telah mantap. Secara mekanisme, laluan RANKL/RANK/osteoprotegerin dikaitkan dengan pengkalsifikasian vaskular, keradangan dan patologi mikrovaskular berkaitan diabetes.
 
-## Bukti Ujian Klinikal
+Secara teori, perencatan RANKL oleh denosumab boleh memodulasi proses ini pada retina. Namun begitu, tiada bukti retina secara langsung dikemukakan, dan hubungan ini masih bersifat hipotesis. Skor TxGNN yang sangat tinggi (0.996) ialah ramalan pengiraan sahaja dan tidak boleh dianggap sebagai bukti keberkesanan klinikal.
 
-Pada masa kini tiada ujian klinikal berkaitan yang didaftarkan.
+Indikasi kedua yang diramalkan, **retinopati diabetik** (skor 99.23%), juga tidak mempunyai percubaan klinikal. Ia disertakan dalam bahagian literatur di bawah kerana hanya indikasi ini mempunyai penerbitan yang dikemukakan.
 
-## Bukti Kesusasteraan
+---
 
-Pada masa kini tiada kesusasteraan berkaitan yang tersedia.
+## Bukti Percubaan Klinikal
+
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
+
+---
+
+## Bukti Literatur
+
+Penerbitan berikut dikaitkan dengan indikasi **retinopati diabetik** (peringkat 2). Tiada literatur untuk retinopati diabetik non-proliferatif teruk.
+
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [38899553](https://pubmed.ncbi.nlm.nih.gov/38899553/) | 2024 | Kohort/pemerhatian (dianggar daripada tajuk, belum disahkan) | Diabetes, Obesity & Metabolism | Menilai kesan denosumab terhadap kejadian diabetes jenis 2 dan hasil jangka panjang (komplikasi mikrovaskular termasuk retinopati, komplikasi makrovaskular, kematian); tajuk melaporkan kejadian diabetes, risiko ulser kaki dan kematian yang lebih rendah berbanding bisfosfonat. Hasil khusus retinopati tidak dapat disahkan. |
+| [36960265](https://pubmed.ncbi.nlm.nih.gov/36960265/) | 2023 | Kohort/pemerhatian (dianggar daripada tajuk, belum disahkan) | Cureus | Menilai penggunaan alat FRAX untuk risiko patah tulang pada dewasa dengan diabetes jenis 2; tidak berkaitan dengan rawatan retinopati. |
+
+Secara keseluruhan, kedua-dua penerbitan hanya memberikan konteks tidak langsung yang menjana hipotesis dan tidak menyokong dakwaan keberkesanan klinikal.
+
+---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk risalah pembungkus untuk maklumat keselamatan.
+**Interaksi Ubat**: Pertanyaan interaksi ubat telah selesai dengan 100 interaksi direkodkan. Antara yang disenaraikan (semuanya tahap sederhana, sumber DDInter):
+- Kortikosteroid: hidrokortison, triamsinolon (termasuk oftalmik), deksametason, betametason, budesonid, prednisolon, prednison, metilprednisolon
+- Imunosupresan/imunomodulator: takrolimus, dupilumab, levamisol
+- Agen sitotoksik/radiofarmaseutikal: merkaptopurin, trimetreksat, ibritumomab tiuxetan, iobenguane (I-131), tositumomab (termasuk I-131)
+- Hormon: kortikotropin, tetrakosaktid
+
+Untuk maklumat amaran utama dan kontraindikasi, sila rujuk sisipan pakej produk.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
 **Rasional:**
-Ramalan untuk retinopati diabetes nonproliferatif teruk disokong hanya oleh skor graf-pengetahuan TxGNN (L5) dengan sifar ujian klinikal atau kesusasteraan yang menangani petunjuk ini secara langsung. Sebagai tambahan, **kekosongan data penyekat** wujud pada amaran label setempat (NPRA)/kontraindikasi, yang menghalang walaupun penilaian keselamatan (S1) awal.
+- Ramalan ini hanya berasaskan model (L5) tanpa sebarang percubaan klinikal atau literatur langsung mengenai retina. Denosumab juga tidak berdaftar di Malaysia, dan data keselamatan peringkat label belum tersedia.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Risalah pembungkus yang diluluskan NPRA (amaran, kontraindikasi) — pada masa kini kekosongan data penyekat (DG001)
-- Dokumentasi mekanisme-tindakan yang disahkan daripada DrugBank atau setara (DG002)
-- Carian kesusasteraan/ujian klinikal yang disasarkan untuk perencatan RANKL dan hasil mikrovaskuler retina, sebaiknya intervensi daripada kajian perkaitan-biopenanda
-- Penilaian selanjutnya bagi petunjuk lebih luas berkaitan "retinopati diabetes" (skor TxGNN 99.23%), yang data kohort dunia nyata yang sedia ada masih belum dinilai untuk kaitannya
-
+- Data mekanisme tindakan (MOA) terperinci bagi denosumab
+- Sisipan pakej dan maklumat amaran/kontraindikasi yang disahkan (belum ada kerana tiada pendaftaran NPRA)
+- Kajian praklinikal atau pemerhatian yang secara khusus menilai hasil retinopati diabetik dengan denosumab
+- Semakan teks penuh PMID 38899553 untuk mengesahkan sama ada data retinopati dilaporkan
+- Penilaian kebolehlaksanaan laluan pentadbiran untuk indikasi mata (status keserasian laluan masih belum ditentukan)
+- Pelan pemantauan keselamatan untuk pesakit diabetes, termasuk pertimbangan interaksi dengan kortikosteroid
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

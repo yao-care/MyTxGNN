@@ -2,15 +2,15 @@
 layout: default
 title: Dimenhydrinate
 parent: Low Evidence (L4-L5)
-nav_order: 283
-evidence_level: L5
+nav_order: 292
+evidence_level: L4
 indication_count: 2
 ---
 
 # Dimenhydrinate
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **2** 
+Tahap bukti: **L4** | Indikasi diramal: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,86 +29,80 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Dimenhydrinate: Dari Mabuk Perjalanan/Antiemetik kepada Urtikaria Alergi
+# Dimenhydrinate: Daripada Vertigo Asal Sistem Saraf Pusat dan Mabuk Perjalanan kepada Urtikaria Alergik
 
 ## Ringkasan Satu Ayat
 
-Dimenhydrinate ialah antihistamin generasi pertama yang digunakan secara meluas untuk pencegahan dan rawatan mabuk perjalanan, mual, dan muntah. Model TxGNN meramalkan ia mungkin berkesan untuk **Urtikaria Alergi**, dengan **1 penerbitan farmakokinetik** yang kini menyokong arah ini tetapi **tiada ujian klinikal** yang didaftarkan. Perkara yang penting, moiti aktif ubat ini — diphenhydramine — sudah digunakan secara klinikal untuk urtikaria, menjadikan ini penambahan tujuan peringkat formulasi, bukan hipotesis mekanisme yang baru.
+Dimenhydrinate ialah garam bagi diphenhydramine (antihistamin H1 generasi pertama) dan 8-chlorotheophylline, yang pada asalnya digunakan untuk merawat vertigo berpunca daripada sistem saraf pusat dan mabuk perjalanan.
+Model TxGNN meramalkan ia mungkin berkesan untuk **urtikaria alergik (allergic urticaria)**,
+tetapi setakat ini terdapat **0 percubaan klinikal** dan hanya **1 penerbitan** (kajian farmakokinetik pada anjing) yang berkaitan dengan hala tuju ini.
 
-## Gambaran Keseluruhan Cepat
+---
 
-| Item | Kandungan |
-|------|----------|
-| Indikasi Asal | Mabuk perjalanan, mual, dan muntah (butiran lesen tertangguh) |
-| Indikasi Baru Ramalan | Urtikaria Alergi |
+## Gambaran Ringkas
+
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Vertigo berpunca daripada sistem saraf pusat; mabuk perjalanan (berdasarkan graf pengetahuan TxGNN/PrimeKG) |
+| Indikasi Baharu yang Diramalkan | Urtikaria alergik (allergic urticaria) |
 | Skor Ramalan TxGNN | 99.74% |
-| Aras Bukti | L4 (Kajian Praklinikal / kajian peringkat mekanisme) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 15 |
-| Keputusan Disyorkan | Teruskan dengan Pengawasan Ketat |
+| Tahap Bukti | L4 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Dimenhydrinate ialah kombinasi garam 1:1 daripada **diphenhydramine** (antagonis reseptor H1 generasi pertama) dan **8-chlorotheophylline** (rangsang ringan ditambah untuk mengurangkan kantuk). Selepas pentadbiran oral, ia terurai untuk melepaskan diphenhydramine sebagai moiti aktif secara farmakoloji. Diphenhydramine secara kompetitif menyekat reseptor histamin H1 pada sel endotel vaskular, otot licin, dan hujung saraf sensorik.
+Data terperinci tentang mekanisme tindakan asal (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, dimenhydrinate ialah garam bagi diphenhydramine dan 8-chlorotheophylline. Komponen diphenhydramine menyekat reseptor histamin H1, dan kesannya dalam vertigo serta mabuk perjalanan telah dikenali. Secara mekanistik ia mungkin boleh digunakan untuk urtikaria alergik.
 
-Urtikaria alergi didorong oleh degranulasi sel mastosit, yang melepaskan histamin yang bertindak pada reseptor H1 untuk menyebabkan vasodilatasi, peningkatan kebolehtelapan vaskular, pruritus, dan pembentukan bentol. Antagonisme reseptor H1 secara langsung mengganggu lata patologi ini dan merupakan asas farmakoloji untuk rawatan urtikaria baris pertama. Sebenarnya, diphenhydramine (dipasarkan sebagai Benadryl) sudah banyak digunakan di luar label dan dalam label untuk urtikaria akut di banyak pasaran.
+Dalam urtikaria alergik, histamin yang dilepaskan melalui reseptor H1 menyebabkan tindak balas bengkak dan kemerahan (wheal-and-flare). Oleh itu, penyekatan reseptor H1 oleh komponen diphenhydramine mempunyai asas farmakologi yang munasabah. Diphenhydramine sendiri digunakan secara klinikal untuk urtikaria dan tindak balas alergik akut. Skor TxGNN yang tinggi (0.997) selaras dengan kesan kelas antihistamin ini.
 
-Perbezaan utama ialah **dimenhydrinate sebagai formulasi khusus** belum diluluskan dengan indikasi urtikaria — labelnya terhad kepada penggunaan mabuk perjalanan dan antiemetik. Bagaimanapun, kerana komponen aktif sama dengan ubat yang telah terbukti berkesan untuk urtikaria, ramalan ini mencerminkan **peluang penambahan tujuan peringkat formulasi** dengan rasional mekanisme yang kuat. Garis panduan rawatan terkini mengutamakan antihistamin generasi kedua (contoh: cetirizine, loratadine) kerana kesan sampingan sedatif yang lebih sedikit, yang akan memposisikan dimenhydrinate sebagai pilihan penyelamat atau rawatan akut yang berpotensi, bukannya terapi penyelenggaraan.
+Namun, bukti untuk dimenhydrinate secara khusus adalah tidak langsung. Ia bergantung pada komponen diphenhydramine dan satu kajian farmakokinetik sahaja, bukan data keberkesanan dalam urtikaria pada manusia.
 
----
-
-## Bukti Ujian Klinikal
-
-Pada masa ini tiada ujian klinikal yang didaftarkan untuk dimenhydrinate dalam urtikaria alergi di ClinicalTrials.gov atau ICTRP.
+**Ramalan kedua:** TxGNN juga meramalkan **urtikaria sejuk (cold urticaria)** (skor 99.24%). Mekanismenya munasabah (pelepasan histamin oleh sel mast selepas pendedahan kepada sejuk), tetapi tiada percubaan klinikal atau literatur diperoleh. Antihistamin generasi kedua ialah rawatan barisan pertama, dan agen generasi pertama yang menyebabkan kantuk kurang diutamakan. Tahap buktinya ialah L5.
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Percubaan Klinikal
+
+Setakat ini tiada percubaan klinikal berkaitan yang didaftarkan.
+
+---
+
+## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|------|------|------|---------|
-| [30779257](https://pubmed.ncbi.nlm.nih.gov/30779257/) | 2019 | Kajian Farmakokinetik | Veterinary Dermatology | Membandingkan farmakokinetik diphenhydramine selepas pemberian oral/IV diphenhydramine dan oral dimenhydrinate pada anjing. Mendapati dimenhydrinate mungkin menghasilkan penyerapan oral diphenhydramine yang lebih unggul. Menilai kesan farmakodinamik pada pembentukan bentol teraruh histamin, mengesahkan aktiviti anti-bentol yang berkaitan dengan patofisiologi urtikaria. |
-
----
-
-## Maklumat Pasaran Malaysia
-
-Dimenhydrinate mempunyai **15 pendaftaran aktif** di Malaysia. Bagaimanapun, maklumat lesen terperinci (nombor pendaftaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan) tidak tersedia dalam pengekstrakan data semasa. Butiran lanjut harus diperolehi daripada pangkalan data NPRA.
+|------|-----|------|------|---------|
+| [30779257](https://pubmed.ncbi.nlm.nih.gov/30779257/) | 2019 | Kajian farmakokinetik (anjing sihat) | Veterinary Dermatology | Kajian perintis yang membandingkan farmakokinetik diphenhydramine selepas pemberian diphenhydramine secara oral/intravena dengan dimenhydrinate secara oral, serta kesan farmakodinamik terhadap pembentukan wheal akibat histamin. Dimenhydrinate dilaporkan memberi penyerapan oral diphenhydramine yang lebih baik. Ini bukan data keberkesanan pada manusia. |
 
 ---
 
 ## Pertimbangan Keselamatan
 
-> Sila rujuk sisipan pakej untuk maklumat keselamatan.
->
-> **Nota:** Jurang data berikut telah dikenal pasti dan harus diselesaikan sebelum meneruskan:
-> - **Peringatan sisipan pakej dan kontrajangkaan** — Sumber: Laman rasmi NPRA / TFDA (Keparahan: Menyekat)
-> - **Mekanisme tindakan terperinci (MOA)** — Sumber: API DrugBank (Keparahan: Tinggi)
->
-> **Pertimbangan umum untuk antihistamin H1 generasi pertama** (berdasarkan pengetahuan peringkat kelas):
-> - **Kemurungan SSP**: Kantuk, sedasi, prestasi psikomotor terganggu
-> - **Kesan antikolinergik**: Mulut kering, retensi urin, penglihatan kabur, sembelit
-> - **Berhati-hati dalam**: Pesakit warga emas, pesakit dengan glaukoma, hiperplasia prostat, atau asma
-> - **Interaksi ubat**: Kemurungan SSP tambahan dengan alkohol, benzodiazepin, opioid, dan ubat-ubatan sedatif yang lain
+Data amaran dan kontraindikasi daripada sisipan pakej tidak tersedia. Sila rujuk sisipan pakej untuk maklumat keselamatan.
+
+Maklumat tambahan daripada graf pengetahuan dan pangkalan data interaksi ubat:
+
+- **Penyakit yang dikaitkan dengan kontraindikasi (daripada graf pengetahuan, bukan teks label):** hipertensi dan gangguan hipertensi, hipotensi, penyakit hati, penyakit pundi hempedu, trombositopenia, hiperglisemia, diabetes mellitus dan ketoasidosis diabetik, penyakit ulser peptik, stenosis pilorus, hiperplasia prostat benigna, halangan leher pundi kencing, gout, penyalahgunaan/ketagihan bahan, gangguan pembekuan darah, sindrom koronari akut, penyakit arteri koronari, infarksi miokardium, trombosis koronari, hemoglobinopati, hipertensi okular, glaukoma sudut tertutup, hipertiroidisme (termasuk penyakit Graves dan tirotoksikosis), serta hipofosfatemia.
+- **Interaksi Ubat:** Sebanyak 67 interaksi dikenal pasti. Interaksi **Major** yang disenaraikan ialah dengan **potassium citrate** dan **potassium chloride**. Interaksi **Moderate** termasuk antikolinergik/antimuskarinik (atropine, hyoscyamine, scopolamine, glycopyrronium, dicyclomine, trospium, propantheline, methscopolamine, mepenzolate, clidinium), opioid (morphine, opium, loperamide, eluxadoline), nabilone, metoclopramide, dan prucalopride.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Teruskan dengan Pengawasan Ketat**
+**Keputusan: Hold**
 
-**Rasional:**
-Pautan mekanis antara dimenhydrinate (melalui moiti aktifnya diphenhydramine) dan urtikaria alergi sudah mantap — antagonisme reseptor H1 secara langsung menangani patologi yang dimediasi histamin. Walaupun tiada ujian klinikal yang khusus menguji dimenhydrinate untuk urtikaria, bahan aktif diphenhydramine sudah menjadi rawatan yang diiktiraf. Halangan utama adalah dari segi kawal selia (indikasi khusus formulasi), bukan saintifik.
+**Justifikasi:**
+- Ramalan TxGNN adalah tinggi dan mekanisme kelas antihistamin H1 munasabah, tetapi bukti khusus untuk dimenhydrinate hanyalah satu kajian farmakokinetik haiwan (L4 untuk urtikaria alergik; L5 untuk urtikaria sejuk) tanpa percubaan klinikal. Ubat ini juga tidak dipasarkan di Malaysia, dan data MOA serta keselamatan daripada sisipan pakej masih tiada.
 
-**Untuk meneruskan, berikut diperlukan:**
-- **Selesaikan jurang data keselamatan**: Dapatkan amaran sisipan pakej lengkap dan kontrajangkaan daripada pangkalan data NPRA (kini menyekat penilaian keselamatan S1)
-- **Analisis kedudukan langsung**: Bandingkan dimenhydrinate dengan antihistamin generasi kedua (cetirizine, loratadine) untuk urtikaria untuk menentukan niche klinikal (contoh: tetapan akut/kecemasan vs. penyelenggaraan)
-- **Penilaian formulasi & dos**: Tentukan sama ada bentuk dos yang dipasarkan dan kekuatan yang ada sesuai untuk rejim dos urtikaria
-- **Penilaian jalan kawal selia**: Nilaikan sama ada pelanjutan label untuk pendaftaran yang ada atau penyerahan baru lebih boleh dilakukan dalam konteks Malaysia
-- **Penjanaan bukti klinikal**: Pertimbangkan kajian farmakodinamik pelopor (penindasan bentol-dan-kemerahan) dalam subjek manusia untuk menyokong permohonan penambahan tujuan
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Muat turun dan huraikan sisipan pakej NPRA untuk amaran dan kontraindikasi (jurang data yang menghalang saringan keselamatan)
+- Data mekanisme tindakan (MOA) terperinci daripada DrugBank
+- Bukti klinikal pada manusia untuk dimenhydrinate (atau diphenhydramine) dalam urtikaria, serta perbandingan dengan antihistamin generasi kedua yang tidak menyebabkan kantuk
+- Penilaian status pendaftaran dan ketersediaan produk di Malaysia, termasuk kesesuaian laluan pemberian dan bentuk dos
+- Pelan pemantauan keselamatan, terutamanya bagi pesakit dengan keadaan kontraindikasi yang disenaraikan dan mereka yang mengambil ubat antikolinergik, opioid, atau suplemen kalium
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

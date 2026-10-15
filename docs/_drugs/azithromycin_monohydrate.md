@@ -2,7 +2,7 @@
 layout: default
 title: Azithromycin Monohydrate
 parent: Low Evidence (L4-L5)
-nav_order: 114
+nav_order: 119
 evidence_level: L5
 indication_count: 0
 ---

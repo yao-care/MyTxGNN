@@ -2,7 +2,7 @@
 layout: default
 title: Lignocaine Hydrochloride
 parent: Low Evidence (L4-L5)
-nav_order: 442
+nav_order: 462
 evidence_level: L5
 indication_count: 0
 ---

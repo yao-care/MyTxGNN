@@ -2,7 +2,7 @@
 layout: default
 title: Lactic Acid
 parent: Low Evidence (L4-L5)
-nav_order: 421
+nav_order: 441
 evidence_level: L5
 indication_count: 5
 ---
@@ -29,63 +29,94 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Asid Laktik: Dari Indikasi Asal yang Tidak Terdokumen kepada Koarktasi Aorta Atipik
+# Asid Laktik: Daripada Indikasi Asal (Tidak Direkodkan) kepada Koarktasi Aorta Atipikal
 
-## Ringkasan Satu Kalimat
+## Ringkasan Satu Ayat
 
-Asid Laktik (DrugBank DB04398) dipasarkan di Malaysia di bawah 7 pendaftaran, tetapi tiada teks indikasi asal yang diluluskan dikembalikan dalam pengambilan data ini. Ramalan model TxGNN yang berada di tempat teratas ialah **Koarktasi Aorta Atipik** (skor 99.59%), tetapi ramalan spesifik ini mempunyai **sifar ujian klinikal yang menyokong dan sifar literatur**, dan rasional model itu sendiri menyatakan tiada mekanisme biologi yang diketahui dengan mana asid laktik boleh mempengaruhi kecacatan struktur bawaan ini.
+Asid laktik (lactic acid) ialah metabolit endogen, dan tiada indikasi asal yang didaftarkan di Malaysia kerana ia tidak mempunyai lesen NPRA.
+Model TxGNN meramalkan ia mungkin berkesan untuk **koarktasi aorta atipikal** dengan skor tinggi (99.59%),
+tetapi **tiada ujian klinikal** dan **tiada literatur** yang menyokong ramalan ini; ia hanya ramalan berasaskan model graf.
 
-## Gambaran Ringkas
+---
 
-| Item | Kandungan |
-|------|----------|
-| Indikasi Asal | Tidak tersedia — tiada teks indikasi yang diluluskan pada fail untuk mana-mana daripada 7 pendaftaran NPRA |
-| Indikasi Baru yang Diramalkan | Koarktasi Aorta Atipik |
+## Gambaran Keseluruhan
+
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Tiada data indikasi berdaftar |
+| Indikasi Baharu yang Diramalkan | Koarktasi aorta atipikal |
 | Skor Ramalan TxGNN | 99.59% |
-| Tahap Bukti | L5 (ramalan model sahaja, tiada kajian yang menyokong) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 7 |
-| Keputusan yang Disyorkan | Tahan |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (Tahan) |
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan tidak tersedia untuk asid laktik dalam pakej bukti ini.
+Data terperinci tentang mekanisme tindakan asid laktik tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, asid laktik ialah metabolit endogen, dan tiada kesan farmakologi yang diketahui terhadap patologi perkembangan atau struktur aorta.
 
-Untuk calon spesifik ini, pakej bukti itu sendiri membuat kesimpulan bahawa ramalan **bukan** munasabah dari segi mekanisme: koarktasi aorta atipik ialah kecacatan struktur bawaan, dan asid laktik — suatu metabolit molekul kecil — tidak mempunyai mekanisme yang diketahui untuk memperbaiki atau membentuk semula struktur anatomi. Skor TxGNN yang tinggi (99.59%) nampaknya mencerminkan persatuan tahap graf (cth. nod bersama/ko-kejadian dalam graf pengetahuan) dan bukannya hubungan farmakologi atau klinikal yang tulen. Tiada ujian klinikal atau literatur dijumpai untuk menyokong pasangan ubat–penyakit spesifik ini.
+Koarktasi aorta ialah kecacatan struktur kongenital yang dirawat melalui pembedahan atau intervensi kateter, bukan secara farmakologi. Oleh itu, tiada hubungan mekanistik yang kukuh dapat ditubuhkan. Skor TxGNN yang tinggi (0.996) hanyalah ramalan berasaskan graf dan tidak boleh dianggap sebagai bukti keberkesanan.
 
-Ambil perhatian bahawa ramalan berperingkat lebih rendah dalam pakej ini mencapai hasil yang agak lebih baik dalam bukti: peringkat 2 ("ketaksamaan aortik") mengubah 9 ujian dan 20 penerbitan, tetapi penilai menilai semua daripada mereka sebagai ko-kejadian nod dan bukannya sokongan mekanisme tulen (laktik muncul di sana hanya sebagai biopenanda perfusi/iskemia, bukan rawatan). Peringkat 5 ("sindrom mata kering") mencapai tahap keputusan S1 ("Soalan Penyelidikan") — asid laktik mempunyai kaitan yang munasabah di sana sebagai bahan pelembab tambahan dalam beberapa formulasi air mata tiruan, walaupun literatur juga menunjukkan isyarat laktate boleh *mempromosikan* keradangan dalam mata kering jenis Sjögren, jadi arah mekanisme tidak dapat diselesaikan.
+Ramalan lain yang berkedudukan tinggi juga lemah dari segi sokongan:
+- **Malformasi aorta** (99.35%): literatur yang diperoleh hanya berkait secara kebetulan (contohnya metabolisme dinding aorta dalam aterosklerosis eksperimen, stent biodegradasi, pemantauan perioperatif pembedahan jantung kanak-kanak). Laktat mungkin hanya muncul sebagai penanda biologi, bukan agen terapeutik.
+- **Malformasi esofagus bukan sindrom** (99.23%): tiada ujian klinikal atau literatur.
+- **Amenorea** (99.16%): hanya kaitan tangen, iaitu asid laktik dihasilkan oleh laktobasilus vagina; satu kajian pemerhatian pada babun liar tidak menguji asid laktik sebagai rawatan.
+- **Sindrom mata kering** (99.13%): kaitan tidak langsung dan lemah; kajian tikus menggunakan bakteria asid laktik (probiotik), bukan asid laktik itu sendiri. Ini hanya sesuai untuk penjanaan hipotesis (tahap bukti L4, "Research Question").
+
+---
 
 ## Bukti Ujian Klinikal
 
-Pada masa ini tiada ujian klinikal terdaftar yang berkaitan.
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
+
+---
 
 ## Bukti Literatur
 
-Pada masa ini tiada literatur yang berkaitan tersedia.
+Tiada literatur yang menyokong koarktasi aorta atipikal secara langsung. Untuk indikasi kedua tertinggi (malformasi aorta), rujukan terpilih ialah seperti berikut; semuanya hanya berkait secara kebetulan:
 
-## Maklumat Pasaran Malaysia
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [3367436](https://pubmed.ncbi.nlm.nih.gov/3367436/) | 1988 | Praklinikal/haiwan | Journal of Vascular Surgery | Metabolisme dinding aorta berkaitan kerentanan terhadap aterosklerosis pada arnab dengan koarktasi aorta |
+| [23791497](https://pubmed.ncbi.nlm.nih.gov/23791497/) | 2013 | RCT | J Cardiothorac Vasc Anesth | Strategi ultraturasan gabungan semasa pembedahan jantung kanak-kanak (bukan asid laktik) |
+| [25157439](https://pubmed.ncbi.nlm.nih.gov/25157439/) | 2015 | Praklinikal/haiwan | Catheter Cardiovasc Interv | Stent biodegradasi poli-L-laktik pada aorta menurun arnab (bahan peranti, bukan rawatan asid laktik) |
+| [32382764](https://pubmed.ncbi.nlm.nih.gov/32382764/) | 2020 | Laporan kes | Pediatric Cardiology | Mikroplat poli-L-laktik boleh serap untuk bronkomalasia pada bayi penyakit jantung kongenital |
+| [31714687](https://pubmed.ncbi.nlm.nih.gov/31714687/) | 2020 | Siri kes | Catheter Cardiovasc Interv | Peranti penutup ASD boleh serap berasaskan PLLA, dari kajian praklinikal ke manusia pertama |
 
-Rekod NPRA menunjukkan 7 pendaftaran aktif untuk Asid Laktik (status pasaran: Dipasarkan / Dipasarkan), tetapi maklumat peringkat lesen (nombor lesen, nama produk, bentuk dos, pengilang, teks indikasi yang diluluskan) tidak dikembalikan dalam pengambilan data ini — semua medan datang kembali kosong. Ini perlu disiasat semula daripada sumber NPRA sebelum sebarang perbandingan regulasi boleh dibuat.
+---
+
+## Maklumat Pasaran di Malaysia
+
+Asid laktik tidak dipasarkan di Malaysia dan tiada lesen berdaftar (0 pendaftaran).
+
+---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk lembaran maklumat produk untuk maklumat keselamatan.
+**Interaksi Ubat**: Pertanyaan interaksi ubat telah selesai dan menemui 17 interaksi.
 
-*(Nota: Amaran label TFDA/NPRA dan kontraindikasi ditandakan sebagai jurang data yang menghalang (DG001) — ini mesti diselesaikan sebelum sebarang pemeriksaan keselamatan (S1) boleh diteruskan untuk ubat ini, tanpa mengira indikasi mana yang diikuti.)*
+- **Sederhana (Moderate)**: doksisiklin, asid asetilsalisilik, tetrasiklin, minosiklin, efedrin (termasuk nasal), pseudoefedrin, demeklosiklin, oksitetrasiklin, natrium salisilat
+- **Ringan (Minor)**: klorpropamid, tolazamid, glipizid, glibenklamid (glyburide), asetoheksamid, tolbutamid, metotreksat
+
+Untuk amaran utama dan kontraindikasi, sila rujuk risalah maklumat produk (package insert).
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold (Tahan)**
 
 **Rasional:**
-Indikasi yang diramalkan berperingkat teratas (Koarktasi Aorta Atipik) tiada ujian klinikal, tiada literatur, dan kekurangan kejelasan mekanisme yang diakui dengan jelas — ia adalah isyarat L5, ramalan model sahaja yang tidak seharusnya maju. Data keselamatan regulasi juga merupakan jurang yang menghalang, jadi calon ini belum boleh membersihkan pemeriksaan keselamatan awal (S1).
+- Ramalan hanya berasaskan skor graf TxGNN yang tinggi tanpa ujian klinikal, tanpa literatur yang relevan, dan tanpa hubungan mekanistik yang munasabah. Koarktasi aorta ialah kecacatan struktur yang dirawat secara pembedahan atau kateter, bukan dengan metabolit kecil.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Lembaran maklumat produk TFDA/NPRA (amaran, kontraindikasi) — Jurang yang menghalang (DG001)
-- Data mekanisme tindakan ubat (MOA) melalui DrugBank — Jurang keutamaan tinggi (DG002)
-- Maklumat peringkat lesen NPRA (nama produk, bentuk dos, indikasi yang diluluskan) untuk 7 pendaftaran sedia ada
-- Jika isyarat penyalahgunaan semula masih dikehendaki untuk ubat ini, nilaikan semula peringkat 5 (sindrom mata kering) sebagai gantinya, yang mencapai status S1/"Soalan Penyelidikan" dengan beberapa rasional biologi, dan bukannya ramalan berperingkat teratas tetapi mekanisme aorta yang tidak disokong
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) yang terperinci
+- Amaran dan kontraindikasi daripada risalah maklumat produk NPRA
+- Hipotesis biologi yang jelas serta data praklinikal yang menyokong laluan terapeutik
+- Pertimbangan laluan pentadbiran dan formulasi (belum dinilai)
+- Jika mahu diteruskan, pertimbangkan indikasi lain yang lebih munasabah (contohnya sindrom mata kering sebagai soalan penyelidikan sahaja)
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

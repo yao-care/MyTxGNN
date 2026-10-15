@@ -2,7 +2,7 @@
 layout: default
 title: Thymol
 parent: Low Evidence (L4-L5)
-nav_order: 647
+nav_order: 680
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,97 +29,71 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Thymol: Dari Penggunaan Antiseptik kepada Aneurisma Septum Interventrikel
+# Thymol: Daripada Indikasi Asal yang Tidak Direkodkan kepada Aneurisme Septum Interventrikular
 
 ## Ringkasan Satu Ayat
 
-Thymol (DrugBank DB02513) adalah monoterpenol fenol yang secara tradisional digunakan sebagai bahan antiseptik/anti-radang dalam produk oral dan topikal; tiada teks indikasi asal yang dicatat dalam data pendaftaran semasa.
-Model TxGNN meramalkan ia mungkin berkesan untuk **Aneurisma Septum Interventrikel**, namun ini kini disokong oleh **0 ujian klinikal** dan **0 penerbitan** — ramalan adalah keluaran model tulen tanpa bukti sokongan.
+Thymol ialah sebatian fenol monoterpena semula jadi yang terdapat dalam minyak pati thyme. Data yang dikumpulkan untuk laporan ini tidak merekodkan sebarang indikasi diluluskan di Malaysia.
+Model TxGNN meramalkan ia mungkin berkesan untuk **aneurisme septum interventrikular**, tetapi ramalan ini **tidak disokong oleh sebarang ujian klinikal atau literatur khusus penyakit**. Ia hanyalah ramalan model (tahap bukti L5).
 
 ---
 
 ## Gambaran Keseluruhan Pantas
 
 | Item | Kandungan |
-|------|-----------|
-| Indikasi Asal | Tidak dinyatakan dalam data pendaftaran (Thymol umumnya digunakan sebagai agen antiseptik/anti-radang dalam produk oral dan topikal) |
-| Indikasi Baru yang Diramalkan | Aneurisma Septum Interventrikel |
+|------|------|
+| Indikasi Asal | Tiada data indikasi diluluskan direkodkan |
+| Indikasi Baharu yang Diramalkan | Aneurisme septum interventrikular |
 | Skor Ramalan TxGNN | 99.25% |
-| Tahap Bukti | L5 (ramalan model sahaja, tiada kajian sokongan) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 21 |
-| Keputusan Disyorkan | Tahan |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan terperinci tidak tersedia. Berdasarkan maklumat yang diketahui, thymol adalah monoterpena fenol yang terbitan daripada minyak thyme, dengan aktiviti antimikrob, antioksidan, dan anti-radang yang didokumentasikan dengan baik yang digunakan dalam produk penjagaan mulut/tekak dan antiseptik. Tiada daripada farmakologi yang diketahui ini melibatkan pengubahan struktur jantung, biologi tisu injap, atau laluan integriti dinding septum.
+Pada masa ini, data terperinci tentang mekanisme tindakan tidak tersedia. Thymol dikenali mempunyai aktiviti antimikrob, antioksidan dan antiradang. Walau bagaimanapun, aktiviti ini tidak mempunyai kaitan yang mantap dengan aneurisme septum interventrikular, iaitu kecacatan struktur jantung sama ada kongenital atau selepas infarksi.
 
-Aneurisma septum interventrikel adalah ketaksiatan struktur jantung yang abnormal (tonjolan setempat/penipisan dinding septum), biasanya berpunca daripada kelahiran atau pasca-infarksi. Tiada laluan mekanisme yang diketahui — antimikrob, antioksidan, atau anti-radang — yang mana thymol dijangka mempengaruhi patologi struktur jantung. Skor TxGNN didorong oleh persamaan graf pengetahuan bukannya sebarang rasional farmakologi, dan pakej bukti sendiri menemui sifar ujian klinikal, sifar ujian ICTRP, dan sifar penerbitan PubMed yang menghubungkan thymol kepada penyakit ini.
+Tiada pautan mekanistik dapat dikenal pasti. Skor tinggi datang daripada ramalan graf pengetahuan TxGNN sahaja, dan kemungkinan besar mencerminkan kedekatan graf dan bukannya biologi sebenar. Oleh itu, ramalan ini perlu ditafsirkan dengan sangat berhati-hati.
 
-Oleh kerana kedua-dua pautan mekanisme dan asas sastera/ujian adalah tidak hadir, ramalan ini harus dianggap sebagai isyarat persamaan graf sahaja, bukan sebagai hipotesis pengubahsuaian yang boleh bertindak pada masa ini.
+Sembilan ramalan lain dalam kedudukan 10 teratas juga tidak mempunyai pautan mekanistik. Kebanyakannya ialah kecacatan struktur atau perkembangan, seperti penyakit injap pulmonari, sindrom Laubry-Pezzi, sindrom Pierre Robin, sindrom pembelahan orofasial, penghapusan separa kromosom 22q dan 7q, serta sindrom Jeune. Molekul kecil fitokimia seperti thymol tidak dijangka dapat membetulkan punca genetik atau perkembangan embrio bagi keadaan ini.
 
 ---
 
 ## Bukti Ujian Klinikal
 
-Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Literatur
 
-Pada masa ini tiada sastera berkaitan yang tersedia.
+Pada masa ini tiada literatur berkaitan yang tersedia untuk aneurisme septum interventrikular.
 
----
-
-## Maklumat Pasaran Malaysia
-
-Pakej bukti mengesahkan Thymol memegang **21 pendaftaran aktif** di bawah status "Dipasarkan" (Marketed) di Malaysia, namun tiada nombor lesen, nama produk, bentuk dos, atau teks indikasi yang diluluskan dikembalikan untuk mana-mana entri yang dijadual sampel. Pemulihan butiran pendaftaran perlu dijalankan semula terhadap sumber NPRA untuk mengisi jadual ini.
+Bagi ramalan kedudukan ke-8 (gangguan sintesis fukoglikosan), 20 penerbitan telah diperoleh (10 pertama disemak). Semuanya ialah ulasan umum atau kajian praklinikal tentang thymol dan thyme (antioksidan, antiradang, antimikrob, antikanser, mikrobiom usus, autofagi). Tiada satu pun menyentuh gangguan fukosilasi atau glikosilasi, maka ia bukan bukti khusus penyakit.
 
 ---
 
-## Calon Lain yang Disaring (Kelompok Sama)
+## Keselamatan dan Pertimbangan
 
-Pakej bukti ini (`TW-DB02513-multi`) menyaring 10 indikasi bertaraf TxGNN teratas untuk Thymol. Kesemua 10 dinilai L5 / Tahan:
-
-| Ranking | Indikasi yang Diramalkan | Skor | Catatan |
-|---------|--------------------------|------|--------|
-| 1 | Aneurisma septum interventrikel | 99.25% | Tiada pautan mekanisme, tiada bukti |
-| 2 | Penyakit injap paru-paru | 99.17% | Tiada pautan mekanisme, tiada bukti |
-| 3 | Sindrom Laubry-Pezzi | 99.17% | Cacat struktur kongenital, bukan sasaran yang boleh ubat |
-| 4 | Sindrom kongenital genetik Pierre Robin | 99.15% | Gangguan pembangunan/genetik, tiada MOA yang relevan |
-| 5 | Sindrom pecahan orofasial | 99.15% | Gangguan pembangunan, tiada MOA yang relevan |
-| 6 | Pemadaman separa kromosom 22q | 99.14% | Gangguan kromosom, bukan boleh ubat |
-| 7 | Sindrom Pierre Robin (anomali kromosom) | 99.13% | Gangguan genetik, tiada MOA yang relevan |
-| 8 | Gangguan sintesis fucoglycosan | 99.13% | 20 hit sastera, namun ulasan manual mendapati **tiada** yang menangani penyakit ini — semua adalah kertas farmakologi thymol umum (antioksidan, anti-radang, endometriosis, sepsis, dsb.). Dinilai sebagai artifak pemetaan perbendaharaan penyakit, bukan bukti sebenar. |
-| 9 | Pemadaman separa kromosom 7q | 99.13% | Gangguan kromosom, bukan boleh ubat |
-| 10 | Sindrom Jeune dengan situs inversus | 99.12% | Ciliopati, tiada MOA yang relevan |
-
-Tiada daripada 10 calon dalam kelompok ini membersihkan bar bukti terendah (L4). Ranking 8 layak ditandakan khusus untuk mengelakkan *bilangan* sasterinya disalahguna sebagai *perkaitan* sastera dalam triage hiliran.
-
----
-
-## Pertimbangan Keselamatan
-
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
+Sila rujuk sisipan pek (package insert) untuk maklumat keselamatan.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-Ramalan adalah keluaran model TxGNN sahaja (L5), dengan sifar ujian klinikal, sifar ujian ICTRP, dan sifar sokongan sastera, dan teks rasional sendiri menyimpulkan tiada pautan mekanisme yang diketahui antara farmakologi antiseptik/anti-radang thymol dan aneurisma septum interventrikel (ketaksiatan struktur jantung). Ini tidak memenuhi ambang bukti untuk maju kepada saringan keselamatan (S1).
+- Ramalan hanya berasaskan model (L5), tanpa ujian klinikal, tanpa literatur khusus penyakit dan tanpa pautan mekanistik yang munasabah. Ubat ini juga tidak dipasarkan di Malaysia.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Data mekanisme tindakan (MOA) yang disahkan untuk Thymol daripada DrugBank atau sastera utama
-- Data label bersumber NPRA: amaran utama, kontraindikasi, dan teks indikasi yang diluluskan (pada masa ini semua tidak hadir/menghalang jurang)
-- Sebarang kajian praklinik atau mekanisme yang secara langsung menghubungkan thymol kepada patologi struktur jantung, sebelum calon ini dipertimbangkan semula
-- Jika meneruskan calon #8 (gangguan sintesis fucoglycosan) lebih jauh, jalankan semula carian sastera dengan istilah MeSH khusus penyakit daripada padanan nama ubat sahaja untuk menolak artifak pemetaan
-
+- Data amaran dan kontraindikasi daripada sisipan pek NPRA (jurang data yang menyekat saringan keselamatan)
+- Data mekanisme tindakan (MOA) terperinci daripada DrugBank
+- Bukti praklinikal atau mekanistik yang menghubungkan thymol dengan patofisiologi aneurisme septum interventrikular
+- Penilaian keserasian laluan pemberian dan indikasi asal
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

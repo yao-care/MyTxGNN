@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Guselkumab
-parent: Low Evidence (L4-L5)
-nav_order: 378
-evidence_level: L5
+parent: High Evidence (L1-L2)
+nav_order: 397
+evidence_level: L1
 indication_count: 10
 ---
 
 # Guselkumab
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L1** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,75 +29,102 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Guselkumab: Daripada Psoriasis kepada Osteoporosis Teraruh Ubat
+# Guselkumab: Daripada Indikasi Asal (Tidak Dinyatakan) kepada Kolitis Ulseratif
 
 ## Ringkasan Satu Ayat
 
-Guselkumab (antibodi monoklonal anti-IL-23p19, dipasarkan sebagai Tremfya) awalnya diluluskan untuk psoriasis plak sederhana hingga teruk. Ramalan teratas model TxGNN dalam pakej bukti ini ialah **osteoporosis teraruh ubat**, tetapi calon ini mempunyai **0 ujian klinis** dan **0 penerbitan** yang menyokongnya, dan rasional model itu sendiri menunjukkan skor ini berkemungkinan besar adalah kebisingan daripada graf-embeddings dan bukannya isyarat biologi yang sebenar.
+Guselkumab ialah antibodi monoklonal yang menyekat subunit p19 bagi IL-23. Data yang dikumpulkan untuk laporan ini tidak mencatatkan indikasi asalnya di Malaysia.
+Model TxGNN meramalkan ia mungkin berkesan untuk **kolitis ulseratif**, dengan **10 ujian klinikal** dan **20 penerbitan** yang menyokong arah ini.
+
+> **Nota penting:** Ramalan peringkat teratas (osteoporosis akibat ubat, skor 99.84%) hanya berasaskan model tanpa sebarang ujian atau literatur. Laporan ini memfokuskan kepada kolitis ulseratif, indikasi dengan bukti paling kukuh antara yang tidak diluluskan secara tempatan. Psoriasis (kedudukan ke-3) ialah indikasi guselkumab yang sudah mantap, jadi ia bukan calon repurposing sebenar.
 
 ---
 
-## Gambaran Pantas
+## Gambaran Ringkas
 
-| Item | Kandungan |
+| Perkara | Kandungan |
 |------|------|
-| Indikasi Asli | Psoriasis plak sederhana hingga teruk (dikenalpasti daripada anotasi pakej bukti; tidak disahkan oleh teks label NPRA — lihat Maklumat Pasaran Malaysia) |
-| Indikasi Baru yang Diprediksi | Osteoporosis teraruh ubat |
-| Skor Ramalan TxGNN | 99.84% |
-| Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 2 |
-| Keputusan yang Disyorkan | Tahan |
+| Indikasi Asal | Tiada data pelesenan tempatan (psoriasis ialah indikasi mantap dalam amalan klinikal) |
+| Indikasi Baharu yang Diramalkan | Kolitis ulseratif (kedudukan ke-6 dalam senarai ramalan) |
+| Skor Ramalan TxGNN | 99.70% |
+| Tahap Bukti | L1 |
+| Status Pasaran di Malaysia | Tidak dipasarkan (menurut data; perlu disahkan) |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Berjaga-jaga) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan yang terperinci untuk guselkumab tidak tersedia dalam pakej bukti ini (ditandai secara dalaman sebagai jurang data tahap Tinggi yang memerlukan pengesahan DrugBank). Berdasarkan maklumat tertanam di tempat lain dalam pakej ini, guselkumab ialah antibodi monoklonal IgG1 manusia yang mengikat subunit p19 interleukin-23 (IL-23) secara selektif, menyekat paksi keradangan IL-23/Th17 — mekanisme yang mendasari perlulusannya yang asal untuk psoriasis plak.
+Guselkumab menyekat subunit p19 bagi IL-23. IL-23 mendorong pembezaan dan pengekalan sel Th17, laluan utama dalam keradangan imun kronik. Laluan ini penting dalam psoriasis dan juga dalam penyakit radang usus (IBD).
 
-Untuk calon teratas, **osteoporosis teraruh ubat**, tiada pautan biologi yang ditegakkan antara penyekat IL-23p19 dan metabolisme tulang atau patologi osteoporosis teraruh steroid. Rasional pakej bukti itu sendiri menyatakan skor ini berkemungkinan timbul daripada kedekataan graf-embeddings kepada nod "penyakit keradangan" dan bukannya bukti farmakologi yang sebenar, dan tiada ujian klinis atau penerbitan yang ditemui untuk menyokongnya.
+Dalam kolitis ulseratif, IL-23 menggalakkan tindak balas Th17 pada mukosa dan keradangan usus kronik. Penyekatan selektif p19 disokong oleh data fasa 2b/3 (QUASAR). Mekanisme ini sama dengan yang digunakan dalam psoriasis, jadi ramalan model selari dengan biologi penyakit.
 
-Patut diingat: dua calon lain dalam pakej bukti yang sama ini membawa sokongan yang jauh lebih kuat — **psoriasis** (pangkat 3), yang pakej itu sendiri mengenali sebagai indikasi asal guselkumab yang diluluskan dan bukannya ramalan novel, dan **kolitis ulseratif** (pangkat 6, L1/S3, 18 ujian, 20 penerbitan, termasuk program QUASAR Fasa 3 yang telah selesai), yang pakej itu catakan telah diluluskan di AS pada 2024–2025. Kedua-duanya bukan isyarat penggabungan semula novel yang sebenar untuk penilaian ini, tetapi mereka menunjukkan bahawa skor teratas model yang mentah tidak sepadan dengan penemuan yang paling boleh diambil tindakan secara klinis dalam set data ini.
+Data terperinci tentang mekanisme tindakan (MOA) daripada pangkalan data rujukan tidak tersedia. Huraian di atas berdasarkan literatur yang disenaraikan dalam laporan ini.
 
 ---
 
-## Bukti Ujian Klinis
+## Bukti Ujian Klinikal
 
-Pada masa ini tiada ujian klinis berkaitan yang didaftarkan.
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
+|---------|------|------|------|---------|
+| [NCT04033445](https://clinicaltrials.gov/study/NCT04033445) | Fasa 2b/3 | Aktif, tidak merekrut | 1064 | QUASAR: kecekapan dan keselamatan guselkumab berbanding plasebo dalam UC sederhana-teruk |
+| [NCT05528510](https://clinicaltrials.gov/study/NCT05528510) | Fasa 3 | Aktif, tidak merekrut | 418 | Induksi subkutaneus berbanding plasebo; hasil utama remisi klinikal |
+| [NCT05242484](https://clinicaltrials.gov/study/NCT05242484) | Fasa 2b | Aktif, tidak merekrut | 577 | Terapi kombinasi guselkumab + golimumab dalam UC |
+| [NCT03662542](https://clinicaltrials.gov/study/NCT03662542) | Fasa 2a | Selesai | 214 | Bukti konsep kombinasi guselkumab + golimumab |
+| [NCT06260163](https://clinicaltrials.gov/study/NCT06260163) | Fasa 3 | Aktif, tidak merekrut | 112 | Kecekapan pada pesakit pediatrik UC |
+| [NCT06663332](https://clinicaltrials.gov/study/NCT06663332) | Fasa 3 | Sedang merekrut | 196 | Lanjutan jangka panjang, keselamatan pediatrik (UC, Crohn, jPsA) |
+| [NCT07577856](https://clinicaltrials.gov/study/NCT07577856) | Fasa 3 | Sedang merekrut | 644 | JNJ-78934804 berbanding guselkumab pada minggu ke-48 |
+| [NCT07245394](https://clinicaltrials.gov/study/NCT07245394) | N/A | Sedang merekrut | 200 | SHIFT-IBD: beralih kepada guselkumab selepas ustekinumab |
+| [NCT07726888](https://clinicaltrials.gov/study/NCT07726888) | N/A | Sedang merekrut | 97 | Kohort dunia sebenar, keberkesanan dan keselamatan |
+| [NCT07654751](https://clinicaltrials.gov/study/NCT07654751) | Fasa 4 | Sedang merekrut | 10 | Kepekatan guselkumab dalam susu ibu (bukan bukti keberkesanan) |
 
 ---
 
 ## Bukti Literatur
 
-Pada masa ini tiada literatur berkaitan tersedia.
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [39706209](https://pubmed.ncbi.nlm.nih.gov/39706209/) | 2025 | RCT | Lancet | QUASAR fasa 3: induksi dan penyelenggaraan guselkumab dalam UC |
+| [41544637](https://pubmed.ncbi.nlm.nih.gov/41544637/) | 2026 | RCT | Lancet Gastroenterol Hepatol | ASTRO: induksi subkutaneus guselkumab dalam UC |
+| [37659673](https://pubmed.ncbi.nlm.nih.gov/37659673/) | 2023 | RCT | Gastroenterology | QUASAR fasa 2b induksi dalam UC |
+| [40113101](https://pubmed.ncbi.nlm.nih.gov/40113101/) | 2025 | RCT | Gastroenterology | GRAVITI: guselkumab subkutaneus dalam penyakit Crohn |
+| [39572132](https://pubmed.ncbi.nlm.nih.gov/39572132/) | 2024 | Garis panduan | Gastroenterology | Garis panduan AGA untuk pengurusan farmakologi UC |
+| [39425738](https://pubmed.ncbi.nlm.nih.gov/39425738/) | 2024 | Meta-analisis | Gastroenterology | Sintesis bukti AGA: kecekapan perbandingan terapi lanjutan UC |
+| [40407729](https://pubmed.ncbi.nlm.nih.gov/40407729/) | 2025 | Meta-analisis | Aliment Pharmacol Ther | Meta-analisis rangkaian terapi penyelenggaraan UC |
+| [42117726](https://pubmed.ncbi.nlm.nih.gov/42117726/) | 2026 | Garis panduan | J Gastroenterol Hepatol | Garis panduan APAGE: perencat IL-23 p19 dan molekul kecil dalam UC/Crohn |
+| [37069321](https://pubmed.ncbi.nlm.nih.gov/37069321/) | 2023 | Ulasan | Nat Rev Gastroenterol Hepatol | Perencatan laluan IL-12/IL-23 dalam IBD |
+| [41397905](https://pubmed.ncbi.nlm.nih.gov/41397905/) | 2026 | Laporan kes | J Crohns Colitis | Penambahbaikan ketara pada UC refraktori yang tidak bertindak balas terhadap mirikizumab |
 
 ---
 
-## Maklumat Pasaran Malaysia
+## Keselamatan
 
-Guselkumab mempunyai 2 lesen berdaftar di Malaysia (status pasaran: Dipasarkan). Maklumat pendaftaran terperinci — nombor lesen, nama produk, bentuk dos, dan teks indikasi yang diluluskan — tidak ditangkap dalam pakej bukti ini dan memerlukan pencarian NPRA secara langsung.
+**Interaksi Ubat:** Pangkalan data interaksi merekodkan 100 interaksi, dengan 20 yang dipaparkan.
+- **Major:** Adalimumab (risiko imunosupresi tambahan jika digabungkan dengan biologik lain)
+- **Moderate:** Simvastatin, apixaban, warfarin, rivaroxaban, dikumarol, lidokain, hidrokodon, teofilin, roflumilast, aminofilin, oksitrifilin, takrolimus, fentanil, nifedipin, toksoid tetanus
+- **Minor:** Garam zink (sulfat, asetat, glukonat, klorida)
 
----
-
-## Pertimbangan Keselamatan
-
-Sila rujuk risalah pakej untuk maklumat keselamatan.
+Bagi maklumat amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Proceed with Guardrails (Teruskan dengan Langkah Berjaga-jaga)**
 
-**Alasan:**
-Indikasi yang diprediksi teratas (osteoporosis teraruh ubat) tidak mempunyai ujian klinis yang menyokong, tiada literatur, dan tiada pautan mekanistik yang munasabah — skor TxGNN berkemungkinan besar merupakan artefak graf-embeddings dan bukannya isyarat sebenar.
+**Rasional:**
+- Kolitis ulseratif disokong oleh ujian fasa 3 (QUASAR) yang diterbitkan dalam Lancet, serta garis panduan antarabangsa dan serantau, jadi tahap bukti ialah L1.
+- Status "tidak dipasarkan" dan ketiadaan indikasi asal dalam data kemungkinan besar jurang data dan bukan fakta.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Label produk NPRA / risalah pakej (amaran, kontraindikasi) — pada masa ini jurang data yang menghalang
-- Data mekanisme tindakan yang disahkan daripada DrugBank
-- Rasional pra-klinis atau mekanistik yang menghubungkan penyekat IL-23 kepada metabolisme tulang, jika indikasi ini ingin diusulkan lebih jauh
-- Jika peluang penggabungan semula yang benar-benar disokong oleh bukti dikehendaki, pertimbangkan **kolitis ulseratif** (tahap bukti L1, sokongan ujian klinis fase 3 (RCT), telah diluluskan di pasaran lain) sebagai calon alternatif
+**Untuk diteruskan, perkara berikut diperlukan:**
+- Mengesahkan status pendaftaran guselkumab di NPRA dan indikasi yang diluluskan
+- Mendapatkan sisipan pakej NPRA (amaran dan kontraindikasi), kerana ketiadaan data ini menghalang saringan keselamatan
+- Mendapatkan data MOA daripada pangkalan data rujukan
+- Pelan pemantauan jangkitan serta penilaian pendedahan biologik terdahulu (contohnya ustekinumab)
+- Semakan kombinasi dengan biologik lain (contohnya adalimumab, interaksi Major)
 
+**Ramalan lain (Hold):** Osteoporosis akibat ubat, retinopati diabetik (teruk bukan proliferatif dan umum), osteodistrofi renal, hipotrikosis kongenital dengan distrofi makula juvana, gangguan pelepasan primer platelet, trombastenia Glanzmann dan hiperparatiroidisme sekunder bukan renal. Semuanya berstatus L5 tanpa ujian atau literatur, jadi tidak disyorkan untuk diteruskan.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

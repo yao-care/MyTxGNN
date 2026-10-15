@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Latanoprost
-parent: High Evidence (L1-L2)
-nav_order: 427
-evidence_level: L2
+parent: Low Evidence (L4-L5)
+nav_order: 447
+evidence_level: L5
 indication_count: 10
 ---
 
 # Latanoprost
 {: .fs-9 }
 
-Tahap bukti: **L2** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,79 +29,77 @@ Tahap bukti: **L2** | Indikasi diramal: **10**
 
 </div>
 
-# Latanoprost: Daripada Glaucoma kepada Glaucoma Herediter Primer
+# Latanoprost: Daripada Glaukoma Sudut Terbuka kepada Glaukoma Keturunan Primer
 
 ## Ringkasan Satu Ayat
 
-Latanoprost adalah analog prostaglandin F2α yang telah lama digunakan untuk menurunkan tekanan intraokular dalam glaucoma dan hipertensi okular. Model TxGNN meramalkan bahawa ia mungkin juga berkesan untuk **Glaucoma Herediter Primer**, dengan **1 ujian klinikal** kini menyokong arah ini. Oleh kerana kedua-dua petunjukan berada dalam keluarga penyakit glaucoma yang sama, rasional mekanik adalah kuat walaupun bukti klinikal langsung masih terbatas.
+Latanoprost ialah analog prostaglandin F2-alfa yang pada asalnya digunakan untuk merawat glaukoma sudut terbuka dan hipertensi okular.
+Model TxGNN meramalkan ia mungkin berkesan untuk **glaukoma keturunan primer (primary hereditary glaucoma)**,
+tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong arah ini; ramalan ini bersifat pengiraan model sahaja.
 
----
+## Gambaran Keseluruhan Ringkas
 
-## Gambaran Keseluruhan Pantas
-
-| Item | Kandungan |
-|------|----------|
-| Petunjukan Asal | Tidak tersedia daripada rekod pendaftaran Malaysia dalam pakej bukti ini (medan lesen kosong). Latanoprost ditunjukkan secara antarabangsa untuk menurunkan tekanan intraokular dalam glaucoma sudut terbuka / hipertensi okular. |
-| Petunjukan Baru yang Diramalkan | Glaucoma Herediter Primer |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Glaukoma sudut terbuka, hipertensi okular |
+| Indikasi Baharu yang Diramalkan | Glaukoma keturunan primer |
 | Skor Ramalan TxGNN | 99.88% |
-| Tahap Bukti | L2 |
-| Status Pasaran Malaysia | ✓ Telah dipasarkan |
-| Bilangan Pendaftaran | 17 |
-| Keputusan yang Disyorkan | Tangguh |
-
----
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan yang Disyorkan | Hold |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan terperinci tidak tersedia (Jurang Data). Berdasarkan pengetahuan farmakoloji umum, latanoprost adalah analog prostaglandin F2α yang meningkatkan aliran keluar uveoskleral humor akueus, dengan itu mengurangkan tekanan intraokular (IOP) — keefikatifannya dalam glaucoma/hipertensi okular sudah terbukti dengan baik.
+Data terperinci mengenai mekanisme tindakan (MOA) pada masa ini tidak tersedia dalam data yang dihimpunkan. Berdasarkan maklumat sedia ada, latanoprost ialah analog prostaglandin F2-alfa yang menurunkan tekanan intraokular (IOP) dengan meningkatkan aliran keluar uveosklera. Ini ialah mekanisme yang mapan bagi glaukoma sudut terbuka.
 
-Glaucoma herediter primer (termasuk glaucoma kongenital/remaja primer) adalah, seperti glaucoma sudut terbuka dewasa, didorong oleh IOP yang tinggi, walaupun penyebab anatomi/genetik yang mendasar berbeza. Oleh kerana penurunan IOP adalah sasaran terapeutik bersama merentas subtip glaucoma, agen yang sudah terbukti mengurangkan IOP memiliki laluan mekanik yang munasabah untuk memberikan manfaat kepada bentuk penyakit herediter — terutamanya dalam kes yang tahan terhadap prosedur pembedahan, yang merupakan penduduk yang dikaji dalam ujian yang menyokong di bawah.
+Glaukoma keturunan primer (contohnya bentuk kongenital atau juvenil) mempunyai patofisiologi yang sama, iaitu IOP yang meningkat. Oleh itu, ramalan ini munasabah dari sudut mekanisme. Walau bagaimanapun, kelainan sudut dan perkembangan pada pesakit kanak-kanak mungkin bertindak balas secara berbeza terhadap terapi berasaskan aliran keluar. Skor TxGNN yang tinggi berkemungkinan didorong oleh kedekatan dengan indikasi glaukoma asal dalam graf pengetahuan, dan bukan oleh bukti klinikal.
 
-Ini adalah isyarat repurposing yang agak konservatif: petunjukan "baru" adalah subtip dalam keluarga penyakit yang sama luas seperti penggunaan latanoprost yang sudah terbukti, bukan sistem organ yang tidak berkaitan, yang meningkatkan keberpeluasan biologi tetapi juga bermakna kebaharuan tambahan adalah sederhana.
+### Ramalan Lain yang Dinilai (Kedudukan 2–10)
 
----
+Semua ramalan lain juga berada pada tahap bukti L5 tanpa percubaan klinikal atau literatur.
 
-## Bukti Ujian Klinikal
+| Penyakit | Skor | Penilaian Kebolehpercayaan Mekanisme | Syor |
+|------|------|------|------|
+| Kalsifilaksis viseral | 99.83% | Tiada kaitan mekanisme yang jelas; pendedahan sistemik topikal minimum | Hold |
+| Hipotrikosis simpleks kulit kepala | 99.81% | Munasabah (analog PGF2α merangsang pertumbuhan rambut), tetapi kesan pada folikel dengan kecacatan genetik belum terbukti | Research Question |
+| Sindrom saluran toraks arteri | 99.78% | Tiada kaitan mekanisme; gangguan mampatan mekanikal | Hold |
+| Sindrom saluran toraks vena | 99.78% | Tiada kaitan mekanisme yang munasabah | Hold |
+| Sindrom saluran toraks neurogenik | 99.72% | Tiada mekanisme untuk melegakan mampatan saraf | Hold |
+| Milia hipotrikosis kongenital | 99.71% | Munasabah sebagai hipotesis sahaja; keadaan genetik yang jarang | Research Question |
+| Angiodisplasia perut | 99.70% | Tiada sokongan; vasodilasi secara teori boleh memburukkan pendarahan | Hold |
+| Sindrom jari kaki biru | 99.69% | Kaitan lemah; prostanoid sistemik ialah agen berbeza | Hold |
+| Limfangiektasis | 99.67% | Tidak langsung dan tidak dibuktikan secara klinikal | Hold |
 
-| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|--------|--------|---------|
-| [NCT01527682](https://clinicaltrials.gov/study/NCT01527682) | Fasa 2 | Selesai | 37 | Menilai kesan hipotensif okular dan keselamatan latanoprost yang digabungkan dengan dorzolamid dalam pesakit glaucoma primer pediatrik yang tahan terhadap prosedur pembedahan. |
+## Bukti Percubaan Klinikal
 
----
+Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
 
 ## Bukti Literatur
 
-Pada masa ini tiada literatur berkaitan yang tersedia.
+Pada masa ini tiada literatur berkaitan tersedia.
 
----
+## Keselamatan
 
-## Maklumat Pasaran Malaysia
+- **Penyakit yang dikaitkan dengan kontraindikasi (berdasarkan graf pengetahuan, bukan teks label)**: uveitis, penyakit iris, penyakit badan silia, panuveitis, edema makula retina, edema makula sistoid, iritis, konjunktivitis, konjunktivitis berjangkit akut.
+- **Interaksi Ubat**: Pertanyaan interaksi selesai dan 100 rekod dikesan, tetapi tahap keterukan semuanya "tidak diketahui". Contoh ubat yang disenaraikan: kalsitriol, glimepirid, doksisiklin, klotrimazol, lansoprazol, simetidin, atropin, pantoprazol, mesalazin, akarbosa, morfin, metformin, omeprazol, sukralfat, rosiglitazon, vankomisin, laktulosa, triamsinolon, prednison dan simvastatin. Rekod ini perlu disahkan dengan sumber klinikal sebelum digunakan.
 
-Pendaftaran Malaysia (NPRA) merekodkan 17 lesen produk total untuk latanoprost, mengesahkan kehadiran pasaran yang terbentuk. Walau bagaimanapun, nombor lesen individu, nama produk, bentuk dos, dan teks petunjukan yang diluluskan tidak dikembalikan dalam pakej bukti ini, oleh itu jadual per-produk tidak dapat dipersembahkan.
-
----
-
-## Pertimbangan Keselamatan
-
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
-
-*(Nota: Amaran label TFDA/NPRA dan kontraindikasi ditandai sebagai jurang data **Pemblokiran** — lihat Kesimpulan di bawah.)*
-
----
+Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi yang rasmi.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tangguh**
+**Keputusan: Hold**
 
 **Rasional:**
-Rasional mekanik adalah kukuh — kesan penurunan IOP latanoprost yang sudah terbukti munasabahnya memanjang kepada subtip glaucoma herediter, dan satu ujian Fasa 2 yang selesai menyokong ini dalam penduduk pediatrik yang tahan berkaitan. Walau bagaimanapun, jurang data **Pemblokiran** (amaran label TFDA/NPRA dan kontraindikasi yang hilang) menghalang penyiapan semakan keselamatan awal, oleh itu calon tidak dapat maju lagi.
+- Ramalan utama (glaukoma keturunan primer) munasabah dari sudut mekanisme, tetapi hanya pada tahap L5 tanpa sebarang percubaan klinikal atau literatur. Latanoprost juga tidak didaftarkan di Malaysia, dan data keselamatan rasmi belum lengkap. Ramalan lain sama ada tidak mempunyai kaitan mekanisme yang jelas atau hanya setakat hipotesis.
 
-**Untuk meneruskan, berikut diperlukan:**
-- Data amaran label rasmi, kontraindikasi, dan DDI daripada TFDA/NPRA (menyelesaikan DG001, Pemblokiran)
-- Data mekanisme tindakan terperinci daripada DrugBank (menyelesaikan DG002)
-- Rekod lesen Malaysia yang lengkap (nama produk, bentuk dos, teks petunjukan yang diluluskan) untuk 17 produk berdaftar
-- Literatur atau ujian tambahan secara khusus dalam penduduk glaucoma herediter/kongenital primer untuk menguatkan tahap bukti melebihi L2
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Memuat turun dan menghurai sisipan pakej NPRA bagi amaran dan kontraindikasi (jurang data yang menyekat saringan keselamatan).
+- Data mekanisme tindakan (MOA) terperinci daripada DrugBank.
+- Tinjauan literatur dan carian pendaftaran percubaan klinikal bagi glaukoma keturunan primer, terutamanya data keselamatan dan keberkesanan pada pesakit kanak-kanak.
+- Menilai kebolehlaksanaan pendaftaran atau pengimportan produk di Malaysia, kerana tiada lesen aktif.
+- Pengesahan tahap keterukan interaksi ubat yang kini tidak diketahui.
+- Jika meneroka hipotrikosis, kaji kesan analog PGF2α pada folikel rambut kulit kepala dengan latar belakang genetik berkaitan.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

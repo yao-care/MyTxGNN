@@ -2,7 +2,7 @@
 layout: default
 title: Iodixanol
 parent: Low Evidence (L4-L5)
-nav_order: 405
+nav_order: 424
 evidence_level: L5
 indication_count: 3
 ---
@@ -29,93 +29,99 @@ Tahap bukti: **L5** | Indikasi diramal: **3**
 
 </div>
 
-# Iodixanol: Dari Pengambilan Imej Kontras Diagnostik hingga Kerentanan Osteoartritis
+# Iodixanol: Daripada Agen Kontras Radiografi kepada Osteoartritis
 
 ## Ringkasan Satu Ayat
 
-Iodixanol ialah agen kontras radiografi bukan-ionik, iso-osmolar, yang digunakan terutamanya sebagai alat pengambilan imej daripada ubat terapeutik. Model TxGNN meramalkan kemungkinan kaitan dengan tiga fenotip penyakit sendi — **kerentanan osteoartritis** (peringkat teratas), osteoartritis, dan artritis reumatoid — semuanya dengan skor rangkaian ~99%, tetapi **tiada ujian klinikal wujud untuk mana-mana satu daripada ketiga-tiganya**, dan kesusasteraan yang tersedia (8 makalah keseluruhan) menggunakan iodixanol secara eksklusif sebagai alat penyelidikan/pengambaran dalam kajian osteoartritis dan bukannya sebagai rawatan, mencadangkan skor tinggi berkemungkinan besar mencerminkan artifak ko-kejadian daripada isyarat farmakologi asli.
+Iodixanol ialah agen kontras radiografi beryodin yang digunakan dalam pengimejan. Model TxGNN meramalkan ia mungkin berkesan untuk **osteoartritis**, tetapi **tiada percubaan klinikal** dan hanya **5 penerbitan** (kesemuanya kajian pengimejan atau makmal, bukan kajian terapeutik) yang berkaitan. Bukti ini tidak menyokong penggunaan terapeutik.
 
 ---
 
-## Tinjauan Cepat
+## Gambaran Keseluruhan Pantas
 
-| Item | Kandungan |
+| Perkara | Kandungan |
 |------|------|
-| Petunjuk Asal | Tidak dinyatakan dalam rekod lesen NPRA yang tersedia; menurut pakej bukti kesusasteraan sendiri, iodixanol dikenal pasti sebagai "agen kontras tomografi berkomputer (CT) yang neutral penyebar" — iaitu agen pengambaran diagnostik, bukan rawatan |
-| Petunjuk Baru yang Diramalkan | Kerentanan osteoartritis |
-| Skor Ramalan TxGNN | 99.16% |
+| Indikasi Asal | Agen kontras untuk pengimejan radiografi (data indikasi berlesen tidak tersedia) |
+| Indikasi Baharu yang Diramalkan | Osteoartritis (ramalan peringkat 1 ialah "osteoarthritis susceptibility", iaitu kecenderungan genetik, bukan keadaan yang boleh dirawat) |
+| Skor Ramalan TxGNN | 99.16% (osteoarthritis susceptibility); 99.07% (osteoartritis) |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 4 |
-| Keputusan yang Disyorkan | Tahan |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia untuk iodixanol (ditandai sebagai jurang data Keterukan-Tinggi). Berdasarkan maklumat yang tersedia, iodixanol ialah medium kontras radiografi — peranannya yang telah ditubuhkan ialah meningkatkan visualisasi tisu sinar-X/CT, bukan mengubah biologi penyakit. Ia tidak mempunyai mekanisme anti-radang, kondroprotektif, atau imunomodulasi yang diketahui yang akan memperlakukan osteoartritis atau artritis reumatoid dengan munasabah.
+Data terperinci tentang mekanisme tindakan tidak tersedia pada masa ini. Iodixanol ialah agen kontras beryodin tanpa farmakologi pengubah penyakit yang diketahui. Fungsinya ialah menyerap sinar-X untuk meningkatkan kontras imej.
 
-Kesusasteraan yang sebenarnya diambil dalam pakej bukti ini menyokong kebimbangan ini daripada menyelesaikannya: semua 7 makalah berkaitan osteoartritis dan 1 makalah berkaitan artritis reumatoid menggunakan iodixanol (atau agen berkaitan iohexol) sebagai **alat penyelidikan atau diagnostik** — contohnya, perunut CT untuk mengkaji pengangkutan solut kartilaj/tulang subkondral, agen kontras dalam pengambaran CT kartilaj photon-counting, atau agen kontras radiologi yang memerlukan desensitisasi pada pesakit RA — bukan sebagai campur tangan terapeutik yang diuji terhadap penyakit ini.
+Dalam literatur, iodixanol dikaitkan dengan osteoartritis hanya sebagai alat pengimejan dan diagnostik. Ia digunakan sebagai agen kontras CT untuk menilai rawan, mengkaji resapan bahan terlarut merentasi rawan dan antara muka osteokondral, serta menguji keserasian dengan plasma kaya platelet (PRP). Tiada kajian menunjukkan kesan terhadap perkembangan penyakit atau simptom.
 
-Corak ini konsisten dengan positif palsu TxGNN: kerana iodixanol kerap ko-berlaku dengan osteoartritis dalam kesusasteraan (sebagai alat pengambaran yang digunakan *untuk mengkaji* OA), embedding graf-pengetahuan mungkin mendaftarkan persatuan ubat-penyakit yang kuat tanpa sebarang hubungan rawatan asas. Medan rasional pakej bukti sendiri untuk kandidat osteoartritis membuat ini jelas, dan kebimbangan yang sama terpakai pada kandidat bersiranan teratas "kerentanan osteoartritis", yang mempunyai sifar kesusasteraan atau ujian sokongan sama sekali.
-
----
-
-## Bukti Ujian Klinikal
-
-Kini tiada ujian klinikal berkaitan berdaftar untuk kerentanan osteoartritis, osteoartritis, atau artritis reumatoid (0 keputusan di seluruh ClinicalTrials.gov dan ICTRP untuk ketiga-tiga kandidat).
+Skor TxGNN yang tinggi kemungkinan besar mencerminkan kedekatan rangkaian dengan kajian pengimejan dan resapan berkaitan osteoartritis, bukan mekanisme farmakologi. Bagi artritis reumatoid (peringkat 3), satu-satunya kertas yang diperoleh ialah laporan kes tentang penyahpekaan kepada agen kontras lain (iohexol), yang tiada kaitan dengan keberkesanan iodixanol.
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Percubaan Klinikal
 
-Tiada kesusasteraan ditemui untuk kandidat bersiranan teratas (kerentanan osteoartritis). Jadual di bawah menyenaraikan kesusasteraan yang ditemui untuk dua kandidat lain yang dinilai dalam pakej bukti ini, tiada satupun yang membentuk bukti terapeutik.
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
-**Untuk osteoartritis:**
+---
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+## Bukti Literatur
+
+**Osteoartritis**
+
+| PMID | Tahun | Jenis | Jurnal | Dapatan Utama |
 |------|-----|------|------|---------|
-| [40155520](https://pubmed.ncbi.nlm.nih.gov/40155520/) | 2025 | Pengambaran/Metodologi | Ann Biomed Eng | Menggunakan pendekatan dwi-kontras (nanopartikel + molekul) dalam CT photon-counting untuk menilai kesihatan kartilaj artikular — teknik pengambaran diagnostik, bukan rawatan |
-| [39012563](https://pubmed.ncbi.nlm.nih.gov/39012563/) | 2024 | Pengambaran/Metodologi | Ann Biomed Eng | Difusi nanopartikel CT + kajian unsur terhingga fungsi kartilaj |
-| [28063646](https://pubmed.ncbi.nlm.nih.gov/28063646/) | 2017 | Sains Asas (model pengangkutan) | J Biomech | Menggunakan iodixanol (~1550 Da) sebagai perunut kontras CT neutral untuk mengkaji kebolehtelapan solut merentas antara muka kartilaj/tulang subkondral dalam model OA |
-| [27793406](https://pubmed.ncbi.nlm.nih.gov/27793406/) | 2016 | Sains Asas (model unsur terhingga) | J Biomech | Pemodelan unsur terhingga pengangkutan solut neutral merentas antara muka osteokondral menggunakan penjejakan kontras CT |
-| [28518064](https://pubmed.ncbi.nlm.nih.gov/28518064/) | 2017 | J Vis Exp | Protokol Eksperimental/FEM untuk penjejakan pengangkutan solut neutral dan bercas merentas kartilaj |
-| [30145230](https://pubmed.ncbi.nlm.nih.gov/30145230/) | 2018 | Sains Asas (ex vivo) | Osteoarthritis Cartilage | Kesan penuaan pada kekukuhan kartilaj kondil mandibula (metodologi berasaskan difusi) |
-| [30374787](https://pubmed.ncbi.nlm.nih.gov/30374787/) | 2018 | In vitro | J Exp Orthop | Agen kontras iodin tidak menjejaskan fungsi Plasma Kaya Platelet yang digunakan untuk panduan suntikan intra-articular |
+| [28063646](https://pubmed.ncbi.nlm.nih.gov/28063646/) | 2017 | Kajian pengangkutan eksperimen/komputasi | J Biomech | Iodixanol (~1550 Da) digunakan sebagai agen kontras CT untuk mengkaji kebolehtelapan antara muka osteokondral pada sampel kuda dan manusia |
+| [27793406](https://pubmed.ncbi.nlm.nih.gov/27793406/) | 2016 | Model komputasi | J Biomech | Model unsur terhingga pengangkutan bahan terlarut neutral merentasi antara muka osteokondral |
+| [30374787](https://pubmed.ncbi.nlm.nih.gov/30374787/) | 2018 | Kajian in vitro | J Exp Orthop | Agen kontras beryodin tidak menjejaskan fungsi PRP pada peringkat awal secara in vitro |
+| [39012563](https://pubmed.ncbi.nlm.nih.gov/39012563/) | 2024 | Kajian pengimejan praklinikal | Ann Biomed Eng | Pengimejan resapan nanozarah CT untuk menilai fungsi rawan sendi |
+| [40155520](https://pubmed.ncbi.nlm.nih.gov/40155520/) | 2025 | Kajian metodologi pengimejan | Ann Biomed Eng | Agen kontras dwi dalam CT pengiraan foton untuk menilai kesihatan rawan sendi |
 
-**Untuk artritis reumatoid:**
+**Artritis Reumatoid**
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+| PMID | Tahun | Jenis | Jurnal | Dapatan Utama |
 |------|-----|------|------|---------|
-| [36628042](https://pubmed.ncbi.nlm.nih.gov/36628042/) | 2022 | Laporan kes | Cureus | Desensitisasi yang berjaya kepada iohexol kontras radio dalam pesakit RA dengan amiloidosis yang memerlukan pencitraan angioplasti berulang — kes pengurusan alahan, tidak berkaitan dengan rawatan RA |
+| [36628042](https://pubmed.ncbi.nlm.nih.gov/36628042/) | 2022 | Laporan kes | Cureus | Penyahpekaan berjaya kepada iohexol pada pesakit amiloidosis sekunder akibat artritis reumatoid; tidak berkaitan dengan rawatan RA |
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Rekod NPRA mengesahkan iodixanol dipasarkan di Malaysia dengan **4 pendaftaran aktif**. Bagaimanapun, rekod lesen terperinci (nombor pendaftaran, nama produk, bentuk dos, dan teks petunjuk yang diluluskan) tidak dikembalikan dalam pengeluaran data ini dan tidak dapat dijadualkan pada masa ini.
+Iodixanol tidak dipasarkan di Malaysia dan tiada pendaftaran NPRA ditemui.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
+**Interaksi Ubat**: Pertanyaan selesai dengan 100 interaksi direkodkan. Interaksi tahap **Major** yang disenaraikan termasuk:
+- Metformin
+- Amphotericin B (termasuk formulasi lipid complex, cholesteryl sulfate dan liposomal)
+- Mesalazine, balsalazide, olsalazine dan sulfasalazine
+- Vankomisin
+- Aminoglikosida: kanamisin, neomisin, streptomisin
+- Polymyxin B
+
+Mannitol disenaraikan sebagai interaksi tahap **Moderate**. Beberapa interaksi lain (contohnya famotidine, aspirin, morfin, omeprazole, prednisone) bertahap tidak diketahui.
+
+Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
 **Rasional:**
-Kandidat bersiranan teratas (kerentanan osteoartritis) tidak mempunyai ujian klinikal atau kesusasteraan sokongan sama sekali — skor model tulen. Dua kandidat berikutnya (osteoartritis, artritis reumatoid) mempunyai kesusasteraan, tetapi setiap makalah menggunakan iodixanol sebagai alat pengambaran/penyelidikan daripada agen terapeutik, sepadan dengan profil artifak ko-kejadian TxGNN daripada isyarat repurposing sebenar. Secara berasingan, data pelabelan TFDA/NPRA (amaran dan kontraindikasi) ialah jurang Bloking-keterukan, yang dengan sendirinya mencegah kandidat ini daripada memasuki peringkat saringan keselamatan S1.
+- Tiada percubaan klinikal, dan literatur hanya menunjukkan iodixanol sebagai alat pengimejan, bukan rawan. Skor TxGNN yang tinggi ialah ramalan komputasi semata-mata (tahap bukti L5).
+- "Osteoarthritis susceptibility" ialah konsep risiko genetik, bukan keadaan yang boleh dirawat, manakala bukti untuk artritis reumatoid tidak relevan.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Sisipan pakej TFDA/NPRA: amaran dan kontraindikasi utama (jurang Bloking, DG001)
-- Data mekanisme tindakan yang disahkan (jurang keutamaan Tinggi, DG002)
-- Penilaian bebas sama ada skor TxGNN mencerminkan hipotesis farmakologi asli atau artifak ko-kejadian kesusasteraan, sebelum berkomitmen untuk sumber penilaian selanjutnya
-- Jika dikejar, rasional praklinikal/farmakologi untuk sebarang aktiviti anti-artritik iodixanol, yang tidak wujud dalam bukti yang disemak
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data menyekat saringan keselamatan)
+- Data mekanisme tindakan (MOA) daripada DrugBank
+- Bukti praklinikal atau klinikal bahawa iodixanol mempunyai kesan terapeutik pada osteoartritis
+- Penilaian keserasian laluan pentadbiran (contohnya intra-artikular berbanding intravaskular), kerana ia belum dinilai
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -2,7 +2,7 @@
 layout: default
 title: Isotretinoin
 parent: Low Evidence (L4-L5)
-nav_order: 416
+nav_order: 435
 evidence_level: L5
 indication_count: 2
 ---
@@ -29,58 +29,91 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Isotretinoin: Dari Jerawat Nodular Teruk kepada Penyakit Ginjal Hipertensi Ganas
+# Isotretinoin: Daripada Gangguan Hipertensi kepada Penyakit Renal Hipertensi Malignan
 
 ## Ringkasan Satu Ayat
 
-Isotretinoin adalah retinoid oral yang secara konvensional digunakan untuk jerawat nodular teruk yang tahan terhadap rawatan (teks indikasi berdaftar NPRA untuk ubat ini tidak ditangkap dalam pakej bukti semasa). Model TxGNN meramalkan kemungkinan keberkesanan dalam **Penyakit Ginjal Hipertensi Ganas**, tetapi ramalan ini pada masa ini disokong oleh **sifar ujian klinikal** dan **sifar penerbitan** — ia adalah isyarat model semata-mata tanpa sokongan mekanistik atau empirik.
+Isotretinoin dalam data yang dikompil untuk laporan ini dikaitkan dengan indikasi asal **gangguan hipertensi / hipertensi**, berdasarkan graf pengetahuan TxGNN (PrimeKG), dan bukan berdasarkan label produk berdaftar.
+Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit renal hipertensi malignan** (skor 99.01%).
+Pada masa ini terdapat **0 percubaan klinikal** dan **0 penerbitan** yang menyokong ramalan ini, jadi ia hanyalah ramalan berasaskan model.
+
+---
 
 ## Gambaran Keseluruhan Pantas
 
 | Item | Kandungan |
-|------|----------|
-| Indikasi Asal | Jerawat nodular teruk (berdasarkan farmakoloji yang mapan; teks indikasi lesen NPRA tidak ditangkap dalam pakej bukti ini) |
-| Indikasi Baru Yang Diramalkan | Penyakit Ginjal Hipertensi Ganas |
+|------|------|
+| Indikasi Asal | Gangguan hipertensi / hipertensi (daripada graf pengetahuan TxGNN; tiada teks indikasi berlesen tersedia) |
+| Indikasi Baharu yang Diramalkan | Penyakit renal hipertensi malignan |
 | Skor Ramalan TxGNN | 99.01% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 8 |
-| Keputusan Yang Disyorkan | Tangguh |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
+
+Nota: Indikasi kedua yang diramalkan, **hipertensi renovaskular malignan**, mempunyai skor yang sama (99.01%) dan juga berada pada tahap bukti L5 dengan cadangan Hold.
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia dalam pakej bukti ini (ditandai sebagai jurang data keterukan tinggi). Berdasarkan pengetahuan farmakoloji yang mapan, isotretinoin (asid 13-cis-retinoik) bertindak terutamanya dalam mengatur kelenjar sebum dan diferensiasi sel epitelial; isyarat keselamatan yang dikenalinya — hepatotoksisiti, hipertrigliseremia/dislipidemia, pseudotumor serebri (hipertensi intrakranial jinak, bukan hipertensi ganas), dan teratogenisiti — tidak menunjukkan mana-mana jalan yang ditubuhkan yang relevan dengan penyakit ginjal hipertensi ganas, keadaan yang didorong oleh nekrosis fibrinoid arteriol ginjal dan pengaktifan RAAS yang mendadak.
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia pada masa ini. Isotretinoin ialah retinoid, dan indikasi asal yang direkodkan dalam graf pengetahuan ialah hipertensi. Hubungan mekanistik dengan penyakit renal hipertensi malignan tidak dapat dibuktikan daripada data yang ada.
 
-Tiada pautan mekanistik, praklinikal, atau klinikal antara ubat dan indikasi ini dikenal pasti. Rasional pakej bukti itu sendiri menandai skor TxGNN yang tinggi sebagai kemungkinan mencerminkan hubungan graf tidak langsung antara nod berkaitan retinoid dan nod pembuluh darah/ginjal bukannya kebertapatan farmakoloji yang tulen. Terutama, ramalan bertaraf kedua, "hipertensi renovaskular ganas," mempunyai skor yang sama (99.01%) dan pada asasnya menggambarkan konsep penyakit yang sama — pasangan yang hampir sama ini lebih konsisten dengan struktur graf pengetahuan berganda atau bising daripada dengan dua rangkaian bukti sokongan model yang berasingan.
+Skor tinggi (99.01%) ialah keluaran pengiraan model dan bukan bukti keberkesanan. Skor yang sama bagi kedua-dua indikasi yang diramalkan menunjukkan isyarat berasaskan graf yang dikongsi, bukan bukti khusus bagi setiap penyakit. Kajian mengenai kesan retinoid terhadap biologi renal dan vaskular tidak disokong oleh data yang ada dan perlu disahkan secara bebas.
 
-## Bukti Ujian Klinikal
+Indikasi asal juga perlu disahkan. Isotretinoin lazimnya tidak dikenali sebagai ubat antihipertensi, dan data indikasi ini datang daripada graf pengetahuan, bukan daripada label produk.
 
-Pada masa ini tiada ujian klinikal berkaitan terdaftar.
+---
 
-## Bukti Kesusasteraan
+## Bukti Percubaan Klinikal
 
-Pada masa ini tiada kesusasteraan berkaitan tersedia.
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
+
+---
+
+## Bukti Literatur
+
+Pada masa ini tiada literatur berkaitan yang tersedia.
+
+---
 
 ## Maklumat Pasaran Malaysia
 
-Isotretinoin mempunyai 8 lesen berdaftar di Malaysia dan pada masa ini sedang dipasarkan, tetapi butiran setiap lesen (nombor lesen, nama produk, bentuk dos, teks indikasi yang diluluskan) tidak ditangkap dalam pakej bukti ini — hanya jumlah pendaftaran keseluruhan dan status pasaran yang tersedia.
+Isotretinoin pada masa ini **tidak dipasarkan** di Malaysia, dengan 0 pendaftaran dalam data yang dikompil.
+
+---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk kemasan produk untuk maklumat keselamatan.
+- **Kontraindikasi daripada graf pengetahuan** (bukan teks label; perlu disahkan): gangguan kebimbangan, gangguan neurotik, gangguan distimik, penyakit buah pinggang, piouretra, pankreatitis, penyakit hati, penyakit pundi hempedu, angioedema (pelbagai jenis termasuk angioedema keturunan dan yang disebabkan oleh penyekat sistem renin-angiotensin-aldosteron), penyakit radang usus, osteoporosis (termasuk pascamenopaus), lupus eritematosus sistemik (termasuk pediatrik), gangguan psikotik, gangguan skizofreniform, gangguan skizoafektif, gangguan mental, kekurangan kalium, diabetes mellitus, ketoasidosis diabetes, hiperurisemia, neutropenia, agranulositosis dan gangguan hipotensi.
+  - Beberapa keadaan ini (penyakit buah pinggang, gangguan hipotensi) amat relevan kepada populasi sasaran penyakit renal hipertensi.
+- **Interaksi Ubat**: Sebanyak 98 interaksi direkodkan. Interaksi **Major** yang disenaraikan termasuk:
+  - Doksisiklin
+  - Minosiklin
+  - Tetrasiklin
+  - Vitamin A
+  
+  Interaksi **Moderate** termasuk kortikosteroid (betametason, budesonid, deksametason, hidrokortison, prednisolon, prednison, triamsinolon), warfarin, dikumarol, naltreksona, nitisinon, etanol, fostamatinib, ivakaftor, lumakaftor dan abametapir (topikal).
+- Isotretinoin ialah teratogen yang diketahui, dan keselamatannya pada pesakit hipertensi teruk dengan kemerosotan renal belum dinilai dalam data ini.
+
+Untuk amaran utama dan kontraindikasi berasaskan label, sila rujuk risalah maklumat produk.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tangguh**
+**Keputusan: Hold**
 
 **Rasional:**
-Ramalan adalah dijana model sahaja (L5), tanpa ujian klinikal atau kesusasteraan yang menyokong dan tiada jalan mekanistik yang boleh dikenal pasti antara farmakoloji isotretinoin yang diketahui dan penyakit ginjal hipertensi ganas. Skor yang hampir serupa dan berulang bagi indikasi yang diramalkan hampir sama yang kedua mencadangkan lebih lanjut bising graf pengetahuan daripada isyarat penggunaan semula ubat yang tulen.
+- Tiada bukti klinikal atau literatur menyokong ramalan ini; satu-satunya sokongan ialah skor model TxGNN (L5). Profil keselamatan (teratogenisiti, 98 interaksi ubat, banyak kontraindikasi daripada graf pengetahuan yang termasuk penyakit buah pinggang) dan status tidak dipasarkan di Malaysia menambah keperluan untuk berhati-hati.
 
-**Untuk meneruskan, perkara berikut diperlukan:**
-- Amaran kemasan TFDA/NPRA dan kontraindikasi (pada masa ini jurang data Penyekat — diperlukan sebelum sebarang saringan keselamatan S1)
-- Mekanisme tindakan yang disahkan daripada DrugBank atau kesusasteraan utama (pada masa ini jurang data keterukan tinggi)
-- Bukti praklinikal atau mekanistik bebas yang menghubungkan aktiviti retinoid dengan patologi pembuluh darah ginjal, atau sekurang-kurangnya laporan kes awal atau isyarat pemerhatian, sebelum mengalokasikan sumber untuk semakan lanjutan
-
+**Untuk meneruskan, perlu:**
+- Mengesahkan indikasi asal (hipertensi) dengan sumber label yang sah.
+- Data mekanisme tindakan (MOA) daripada DrugBank bagi menilai hubungan mekanistik.
+- Amaran dan kontraindikasi daripada risalah maklumat produk NPRA (jurang data yang menyekat saringan keselamatan).
+- Kajian praklinikal atau literatur bebas mengenai kesan retinoid terhadap biologi renal dan vaskular.
+- Penilaian keselamatan pada pesakit hipertensi teruk dan kemerosotan renal, serta pelan pengurusan risiko teratogenik.
+- Pengesahan kebolehlaksanaan laluan pentadbiran dan status pendaftaran tempatan.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

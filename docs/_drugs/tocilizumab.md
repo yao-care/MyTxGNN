@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Tocilizumab
-parent: Medium Evidence (L3)
-nav_order: 654
-evidence_level: L3
+parent: Low Evidence (L4-L5)
+nav_order: 687
+evidence_level: L5
 indication_count: 10
 ---
 
 # Tocilizumab
 {: .fs-9 }
 
-Tahap bukti: **L3** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,35 +29,35 @@ Tahap bukti: **L3** | Indikasi diramal: **10**
 
 </div>
 
-# Tocilizumab: Daripada Artritis Reumatoid kepada Spondilitis Ankilosa
+# Tocilizumab: Daripada Penggunaan Asal kepada Spondilitis Ankilosis
 
 ## Ringkasan Satu Ayat
 
-Tocilizumab ialah antibodi monoklonal manusia-terubahsuai penghambat reseptor IL-6, yang asalnya dibangunkan dan diluluskan untuk artritis reumatoid dan keadaan peradangan lain yang didorong oleh IL-6. Model TxGNN meramalkan ia mungkin berkesan untuk **Spondilitis Ankilosa**, dengan **9 ujian klinikal** dan **19 penerbitan** kini tersedia — namun, dua ujian Fasa 3 yang penting dalam petunjuk ini (BUILDER-1/BUILDER-2) adalah **ditamatkan lebih awal**, dan hasil yang diterbitkan mencadangkan isyarat keberkesanan tidak cukup kuat untuk menyokong petunjuk tersebut.
+Data yang dikumpulkan untuk laporan ini tidak mencatatkan indikasi asal Tocilizumab, kerana tiada lesen berdaftar di Malaysia. Tocilizumab ialah antibodi monoklonal yang menyekat reseptor IL-6. Model TxGNN meramalkan ia mungkin berkesan untuk **spondilitis ankilosis** (skor 99.99%). Terdapat **2 ujian klinikal fasa 3** secara langsung dalam penyakit ini, tetapi **kedua-duanya ditamatkan awal**, dan 1 kajian RCT yang diterbitkan menilai keberkesanan simptomatik jangka pendek. Hasil klinikal tidak menunjukkan keberkesanan yang bermakna.
 
 ---
 
-## Ikhtisar Cepat
+## Gambaran Ringkas
 
-| Item | Kandungan |
-|------|---------|
-| Petunjuk Asal | Artritis Reumatoid (petunjuk yang mantap untuk tocilizumab; tidak direkodkan dalam pakej bukti ini — lihat Jurang Data) |
-| Petunjuk Baru yang Diprediksi | Spondilitis Ankilosa |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Tiada data (tiada lesen di Malaysia) |
+| Indikasi Baharu yang Diramalkan | Spondilitis ankilosis (*ankylosing spondylitis*) |
 | Skor Ramalan TxGNN | 99.99% |
-| Tahap Bukti | L3 |
-| Status Pasaran Malaysia | Dipasarkan |
-| Bilangan Pendaftaran | 2 |
-| Keputusan yang Disyorkan | Tahan |
+| Tahap Bukti | L1 (mengikut kriteria penarafan data; lihat nota di bawah) |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (Tahan) |
+
+> **Nota tahap bukti:** Tahap L1 secara formal memerlukan ≥2 RCT fasa 3 yang selesai. Kedua-dua RCT fasa 3 dalam spondilitis ankilosis telah **ditamatkan**, bukan diselesaikan, dan penamatan itu menunjukkan kekurangan keberkesanan. Tahap L1 ini harus ditafsirkan dengan berhati-hati, dan bukti sebenar untuk indikasi ini adalah lemah.
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan yang terperinci tidak tersedia dalam pakej bukti ini. Berdasarkan maklumat yang diketahui, tocilizumab ialah antibodi monoklonal manusia-terubahsuai yang menghalang reseptor interleukina-6 (IL-6), menghalang penghantaran isyarat bermediat IL-6. Ia ialah rawatan yang ditegakkan untuk artritis reumatoid, artritis idiopatik juvenis sistemik dan polisendi, dan arteritis sel raksasa — semua keadaan di mana IL-6 memainkan peranan patogenik yang penting.
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan. Berdasarkan maklumat sedia ada, Tocilizumab menyekat isyarat reseptor IL-6, sitokin yang terlibat dalam keradangan paksi dan metabolisme tulang dalam spondiloartritis.
 
-Spondilitis ankilosa (AS) berkongsi ciri-ciri patofisiologi yang luas dengan keadaan yang diluluskan ini: peradangan sinovial/aksial kronik, sitokin peradangan yang meningkat, dan tangga rawatan yang serupa (NSAIDs → biologic DMARDs). Pertindihan ini adalah asas yang munasabah untuk skor ramalan model TxGNN yang tinggi, dan diperkuat oleh fakta bahawa dua calon lain dalam larian ramalan yang sama ini — artritis reumatoid juvenis polisendi (pangkat 7) dan artritis idiopatik juvenis (pangkat 9) — adalah petunjuk di mana tocilizumab *sudah* diluluskan, menunjukkan model dengan betul memulihkan kebenaran yang diketahui bersama calon novel.
-
-Namun, patogenesis AS kini difahami sebagai didorong terutamanya oleh paksi IL-17/IL-23 dan TNF dan bukannya IL-6, yang merupakan penjelasan biologi yang paling berkemungkinan mengapa ujian tocilizumab yang berdedikasi di AS tidak berjaya. Ini adalah kes di mana kebolehpercayaan mekanik wujud, tetapi biologi khusus penyakit berbeza cukup daripada petunjuk yang terbukti tocilizumab sehingga pengesahan klinikal adalah penting — dan dalam kes ini, pengesahan itu sudah pun mengembalikan isyarat negatif (lihat Bukti Ujian Klinikal di bawah).
+Namun, secara klinikal, sekatan laluan IL-6 menunjukkan prestasi lebih lemah berbanding perencatan TNF dan IL-17 dalam spondilitis ankilosis. Ramalan model ini mempunyai asas mekanistik yang munasabah, tetapi **tidak disokong oleh keberkesanan klinikal yang terbukti**.
 
 ---
 
@@ -65,63 +65,80 @@ Namun, patogenesis AS kini difahami sebagai didorong terutamanya oleh paksi IL-1
 
 | Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT01209689](https://clinicaltrials.gov/study/NCT01209689) | Fasa 3 | **Ditamatkan** | 113 | RCT tocilizumab (8 mg/kg atau 4 mg/kg IV) vs plasebo pada pesakit AS dengan respons tidak mencukupi terhadap rawatan antagonis TNF sebelumnya |
-| [NCT01209702](https://clinicaltrials.gov/study/NCT01209702) | Fasa 2/3 | **Ditamatkan** | 306 | RCT tocilizumab vs plasebo pada pesakit AS TNF-naif yang gagal NSAIDs; reka bentuk dua bahagian menilai tanda/simptom dan kerosakan struktur |
-| [NCT01965132](https://clinicaltrials.gov/study/NCT01965132) | N/A | Merekrut | 10,000 | Daftar nasional Korea menjejaki keselamatan sebenar biologi/ubat modulasi penyakit sintetik tersasaran dalam RA, AS, dan PsA |
-| [NCT05670301](https://clinicaltrials.gov/study/NCT05670301) | N/A | Merekrut | 2,500 | Kajian pemerhatian pelbagai pusat profil penanda hayat sitokin darah merentas penyakit peradangan sistemik |
-| [NCT02925338](https://clinicaltrials.gov/study/NCT02925338) | N/A | Selesai | 1,431 | Daftar sebenar nasional pesakit yang dirawat dengan Inflectra (biosimilar infliksimab); konteks perbandingan tidak langsung |
-| [NCT05696106](https://clinicaltrials.gov/study/NCT05696106) | N/A | Tidak diketahui | 750,000 | Kajian berskala besar risiko penyakit peradangan bermediat imun (IMID) insiden pada pesakit pada biologi/imunopenindas |
-| [NCT02569736](https://clinicaltrials.gov/study/NCT02569736) | N/A | Selesai | 60 | Kajian mekanik kesan tocilizumab pada pembantu folikular T dan kematangan sel B pada pesakit RA |
-| [NCT07477795](https://clinicaltrials.gov/study/NCT07477795) | Fasa 2 | Belum merekrut | 52 | Sekulinumab (bukan tocilizumab) dalam arteritis Takayasu; kaitan laluan IL-6 yang relevan secara tangen |
-| [NCT07138898](https://clinicaltrials.gov/study/NCT07138898) | Fasa 2 | Belum merekrut | 80 | Pengurusan imunopenindas periprosedur pada pesakit reumatologi menjalani artroplasti bahu |
-
-**Nota:** Dua RCT Fasa 3 khusus penyakit dalam AS kedua-duanya **ditamatkan**, bukan disiapkan seperti yang dirancang — ini adalah isyarat paling penting dalam asas bukti dan mempengaruhi tahap bukti dan cadangan di bawah.
+| [NCT01209689](https://clinicaltrials.gov/study/NCT01209689) | Fasa 3 | Ditamatkan | 113 | RCT dwi-buta berkawal plasebo dalam pesakit spondilitis ankilosis yang tidak bertindak balas secukupnya terhadap antagonis TNF; Tocilizumab 8 atau 4 mg/kg IV setiap 4 minggu selama 24 minggu |
+| [NCT01209702](https://clinicaltrials.gov/study/NCT01209702) | Fasa 3 (2/3 lancar) | Ditamatkan | 306 | RCT berkawal plasebo dalam pesakit gagal NSAID dan belum menerima antagonis TNF; Tocilizumab 8 mg/kg IV vs plasebo |
+| [NCT01965132](https://clinicaltrials.gov/study/NCT01965132) | N/A | Sedang merekrut | 10,000 | Daftar biologik di Korea (pemerhatian); tidak khusus untuk Tocilizumab dalam spondilitis ankilosis |
+| [NCT07138898](https://clinicaltrials.gov/study/NCT07138898) | Fasa 2 | Sedang merekrut | 80 | Pengurusan imunosupresan sebelum pembedahan penggantian bahu; bukan kajian keberkesanan |
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [23765873](https://pubmed.ncbi.nlm.nih.gov/23765873/) | 2014 | RCT | Annals of the Rheumatic Diseases | BUILDER-1/BUILDER-2: menilai keberkesanan simptom jangka pendek tocilizumab dalam AS; bersesuaian dengan dua ujian Fasa 3 yang ditamatkan di atas |
-| [26986130](https://pubmed.ncbi.nlm.nih.gov/26986130/) | 2016 | Ulasan Sistematik / Meta-analisis Rangkaian | Medicine | Keberkesanan perbandingan rejimen terapi biologi untuk AS merentas RCT |
-| [22452603](https://pubmed.ncbi.nlm.nih.gov/22452603/) | 2012 | Ulasan | Inflammation & Allergy Drug Targets | Ulasan ringkas tentang mengantagoniskan IL-6 khususnya dalam AS |
-| [29290076](https://pubmed.ncbi.nlm.nih.gov/29290076/) | 2018 | Meta-analisis | Clinical Rheumatology | Risiko jangkitan serius dengan biologi dalam AS/SpA aksial bukan radiografi |
-| [20959960](https://pubmed.ncbi.nlm.nih.gov/20959960/) | 2011 | Ulasan | Osteoporosis International | Kesan tulang sistemik terapi biologi dalam RA dan AS |
-| [27789989](https://pubmed.ncbi.nlm.nih.gov/27789989/) | 2009 | Ulasan | Open Access Rheumatology | Gambaran keseluruhan biologi dalam RA, AS, dan PsA |
-| [19822066](https://pubmed.ncbi.nlm.nih.gov/19822066/) | 2009 | Ulasan | Clinical and Experimental Rheumatology | Biologi dalam rawatan RA dan AS, perbezaan mekanik |
-| [22450391](https://pubmed.ncbi.nlm.nih.gov/22450391/) | 2012 | Ulasan | Current Opinion in Rheumatology | Alternatif rawatan untuk AS yang tahan terhadap perencatan TNF |
-| [28413099](https://pubmed.ncbi.nlm.nih.gov/28413099/) | 2017 | Ulasan | Seminars in Arthritis and Rheumatism | Pengoptimalan terapi biologi barisan kedua dalam RA, PsA, AS |
-| [20851032](https://pubmed.ncbi.nlm.nih.gov/20851032/) | 2010 | Laporan Kes | Joint Bone Spine | Tocilizumab pada pesakit dengan AS dan penyakit Crohn yang tahan terhadap antagonis TNF |
+| [23765873](https://pubmed.ncbi.nlm.nih.gov/23765873/) | 2014 | RCT | Ann Rheum Dis | BUILDER-1 dan BUILDER-2: menilai keberkesanan simptomatik jangka pendek dan keselamatan Tocilizumab dalam spondilitis ankilosis |
+| [26986130](https://pubmed.ncbi.nlm.nih.gov/26986130/) | 2016 | Tinjauan sistematik | Medicine | Meta-analisis rangkaian terapi biologik untuk spondilitis ankilosis |
+| [22450391](https://pubmed.ncbi.nlm.nih.gov/22450391/) | 2012 | Ulasan | Curr Opin Rheumatol | Alternatif rawatan untuk pesakit spondilitis ankilosis yang refrakter terhadap perencatan TNF |
+| [22452603](https://pubmed.ncbi.nlm.nih.gov/22452603/) | 2012 | Ulasan | Inflamm Allergy Drug Targets | Ulasan ringkas mengenai antagonis IL-6 dalam spondilitis ankilosis |
+| [25488787](https://pubmed.ncbi.nlm.nih.gov/25488787/) | 2014 | Ulasan | Best Pract Res Clin Rheumatol | Rawatan spondiloartritis selain sekatan TNF-alfa |
+| [29290076](https://pubmed.ncbi.nlm.nih.gov/29290076/) | 2018 | Meta-analisis | Clin Rheumatol | Risiko jangkitan serius dalam rawatan biologik untuk spondilitis ankilosis dan axSpA bukan radiografi |
+| [33981717](https://pubmed.ncbi.nlm.nih.gov/33981717/) | 2021 | Laporan kes | Front Med | Rawatan berjaya amiloidosis AA dalam spondilitis ankilosis menggunakan Tocilizumab (2 kes) |
+| [28413099](https://pubmed.ncbi.nlm.nih.gov/28413099/) | 2017 | Ulasan | Semin Arthritis Rheum | Pengoptimuman terapi biologik barisan kedua dalam RA, PsA dan spondilitis ankilosis |
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Rekod NPRA menunjukkan tocilizumab sebagai **Dipasarkan** di Malaysia dengan **2 pendaftaran**, tetapi pakej bukti ini tidak mengandungi nombor lesen, nama produk, bentuk dos, atau teks petunjuk yang diluluskan untuk mana-mana pendaftaran — medan ini dikembalikan kosong oleh pertanyaan sumber dan perlu diambil semula terus dari NPRA.
+Tocilizumab tidak mempunyai pendaftaran di Malaysia dalam data yang dikumpulkan (0 lesen). Walau bagaimanapun, status "tidak dipasarkan" ini mungkin merupakan jurang data dan bukan keadaan sebenar, kerana Tocilizumab ialah ubat yang telah mapan di peringkat antarabangsa.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk helaian maklumat produk untuk maklumat keselamatan. Pakej bukti ini mempunyai jurang data **Penghalang** (DG001: amaran label TFDA/NPRA dan kontrain belum diperolehi), yang bermaksud profil keselamatan ubat ini belum disemak dan tiada pemeriksaan keselamatan S1 boleh disiapkan sehingga ia diselesaikan.
+**Interaksi Ubat** (100 interaksi direkodkan; contoh utama):
+- **Major:** Deferiprone
+- **Moderate:** Warfarin, Apixaban, Rivaroxaban, Dicoumarol (antikoagulan); Simvastatin, Rosuvastatin (statin); Hydroxychloroquine, Chloroquine; Metronidazole, Tinidazole, Secnidazole, Benznidazole; Naltrexone; Disulfiram; Lidocaine
+- **Minor:** Garam zink (sulfat, asetat, glukonat, klorida)
+
+**Perhatian daripada literatur:** Laporan kes menyatakan kerosakan hati teruk selepas permulaan Tocilizumab dan vaskulitis akibat Tocilizumab. Literatur juga menekankan peningkatan risiko jangkitan, termasuk tuberkulosis, semasa rawatan biologik.
+
+Sila rujuk sisipan pakej untuk amaran dan kontraindikasi rasmi; data tersebut tidak tersedia.
+
+---
+
+## Ramalan Indikasi Lain yang Dinilai
+
+| Indikasi Diramalkan | Skor TxGNN | Tahap Bukti | Ringkasan | Cadangan |
+|------|------|------|------|------|
+| Spondilitis ankilosis | 99.99% | L1 (RCT ditamatkan) | Tiada keberkesanan klinikal terbukti | Hold |
+| Vaskulitis reumatoid | 99.98% | L4 | Hanya laporan kes; vaskulitis akibat Tocilizumab juga dilaporkan | Soalan penyelidikan |
+| Hipermobiliti koksiks | 99.98% | L5 | Tiada bukti dan tiada kaitan mekanistik | Hold |
+| Spondiloartropati, kerentanan | 99.98% | L5 | Hanya kajian mekanistik in vitro; istilah genetik, bukan penyakit boleh dirawat | Hold |
+| Spondilopati radang | 99.98% | L1 | Bertindih dengan spondilitis ankilosis; bukti sama | Soalan penyelidikan |
+| Penyakit Kummell | 99.98% | L5 | Tiada kaitan mekanistik, tiada bukti | Hold |
+| Artritis reumatoid juvenil poliartikular | 99.98% | L1 | RCT fasa 3 penarikan balik dan kajian lanjutan jangka panjang menyokong; ini indikasi mapan, bukan penggunaan semula baharu | Proceed with Guardrails |
+| Penyakit vertebra | 99.93% | L4 | Padanan didorong oleh literatur RA umum | Hold |
+| Artritis idiopatik juvenil | 99.90% | L1 | RCT fasa 3 dalam JIA sistemik dan poliartikular; indikasi mapan | Proceed with Guardrails |
+| MSMD akibat kekurangan IL12B lengkap | 99.87% | L5 | Berpotensi memudaratkan (imunosupresan meningkatkan risiko jangkitan mikobakteria); kemungkinan positif palsu | Hold |
+
+Nota: artritis idiopatik juvenil (JIA) dan JIA poliartikular mempunyai bukti terkuat, tetapi ia merupakan indikasi yang telah mapan, jadi ini lebih merupakan pengesahan daripada penggunaan semula. Status "tidak dipasarkan" kemungkinan besar jurang data.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold (Tahan)** untuk spondilitis ankilosis sebagai indikasi baharu utama.
 
 **Justifikasi:**
-- Justifikasi mekanik untuk AS adalah munasabah tetapi lebih lemah daripada petunjuk yang terbukti didorong IL-6 tocilizumab, dan ini disokong secara klinikal: kedua-dua RCT Fasa 3 berdedikasi dalam AS (BUILDER-1/BUILDER-2) adalah **ditamatkan** dan bukannya disiapkan, dengan laporan yang diterbitkan hanya menilai keberkesanan simptom jangka pendek — konsisten dengan program yang tidak mencapai ambang keberkesanannya.
-- Ulasan keselamatan tidak dapat diteruskan kerana data label TFDA/NPRA yang diperlukan (amaran, kontrain) adalah jurang data **Penghalang** dan belum dibekalkan.
+- Kedua-dua RCT fasa 3 dalam spondilitis ankilosis ditamatkan, dan literatur menunjukkan sekatan IL-6 kurang berkesan berbanding perencatan TNF dan IL-17. Skor ramalan model yang tinggi tidak disokong oleh hasil klinikal.
+- Jika penilaian diteruskan, indikasi JIA (sistemik dan poliartikular) mempunyai bukti paling kukuh dan layak dinilai dengan langkah berjaga-jaga (*Proceed with Guardrails*), tetapi ia adalah pengesahan indikasi sedia ada.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Perolehan hasil primer BUILDER-1/BUILDER-2 yang lengkap (hasil ASAS20/ASAS40) untuk mengesahkan sebab penamatan dan magnitud kekurangan keberkesanan
-- Insert pemasan TFDA/NPRA (amaran, kontrain) mengikut DG001, sebelum sebarang penilaian keselamatan S1 dapat dimulai
-- Data mekanisme tindakan bersumber DrugBank mengikut DG002, untuk memperkuat penulisan justifikasi mekanik
-- Butiran peringkat lesen Malaysia (nama produk, bentuk dos, teks petunjuk yang diluluskan) untuk 2 pendaftaran sedia ada
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisipan pakej NPRA (amaran dan kontraindikasi) bagi melengkapkan saringan keselamatan (jurang data berstatus *Blocking*)
+- Data mekanisme tindakan terperinci daripada DrugBank
+- Pengesahan status pendaftaran sebenar Tocilizumab di Malaysia
+- Sebab rasmi penamatan kedua-dua ujian spondilitis ankilosis (BUILDER-1 dan BUILDER-2) dan data hasil lengkap
+- Pelan pemantauan keselamatan (jangkitan, tuberkulosis, fungsi hati, kiraan neutrofil) jika diteruskan
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -2,7 +2,7 @@
 layout: default
 title: Bismuth Subgallate
 parent: Low Evidence (L4-L5)
-nav_order: 149
+nav_order: 154
 evidence_level: L5
 indication_count: 0
 ---

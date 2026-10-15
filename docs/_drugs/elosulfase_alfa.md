@@ -2,7 +2,7 @@
 layout: default
 title: Elosulfase Alfa
 parent: Low Evidence (L4-L5)
-nav_order: 308
+nav_order: 317
 evidence_level: L5
 indication_count: 9
 ---
@@ -29,62 +29,55 @@ Tahap bukti: **L5** | Indikasi diramal: **9**
 
 </div>
 
-# Elosulfase Alfa: Dari Sindrom Morquio A (Mucopolysaccharidosis IVA) kepada Sindrom Scheie
+# Elosulfase Alfa: Daripada Mukopolisakaridosis kepada Sindrom Scheie
 
 ## Ringkasan Satu Ayat
 
-Elosulfase alfa adalah terapi penggantian enzim dengan kegunaan yang diluluskan — ditetapkan melalui literatur klinikal sendirinya — untuk sindrom Morquio A (Mucopolysaccharidosis IVA, MPS IVA), yang disebabkan oleh defisiensi N-acetylgalactosamine-6-sulfatase (GALNS). Model TxGNN meramalkan potensi keberkesanan dalam **sindrom Scheie**, tetapi isyarat ini kini disokong oleh **0 percubaan klinikal** dan hanya **2 publikasi**, tidak satupun mengkaji elosulfase alfa atau sindrom Scheie secara langsung. Kekuatan bukti adalah minimal, dan data keselamatan peraturan ubat sendiri (amaran/kontraindikasi label Malaysia) belum tersedia untuk semakan.
+Elosulfase alfa ialah terapi penggantian enzim (ERT) yang pada asalnya digunakan untuk mukopolisakaridosis, khususnya MPS IVA (sindrom Morquio A). Model TxGNN meramalkan ia mungkin berkesan untuk **Sindrom Scheie** dengan skor tinggi, tetapi **tiada percubaan klinikal dan tiada penerbitan** yang menyokong penunjuk baharu ini. Ramalan ini pada masa ini hanya berasaskan model (tahap bukti L5).
 
 ---
 
-## Gambaran Pantas
+## Gambaran Keseluruhan Pantas
 
-| Item | Kandungan |
+| Perkara | Kandungan |
 |------|------|
-| Petunjuk Asal | Sindrom Morquio A (Mucopolysaccharidosis IVA, MPS IVA) — disimpulkan daripada bukti literatur tertanam; teks label Malaysia formal belum diambil |
-| Petunjuk Baru Diramalkan | Sindrom Scheie |
+| Indikasi Asal | Mukopolisakaridosis (MPS IVA / sindrom Morquio A) |
+| Indikasi Baharu yang Diramalkan | Sindrom Scheie |
 | Skor Ramalan TxGNN | 99.90% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 1 |
-| Keputusan Disyorkan | Hold |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan yang Disyorkan | Hold |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci untuk elosulfase alfa belum tersedia dalam pakej bukti ini (ditandai sebagai jurang data berketukan tinggi). Berdasarkan maklumat tertanam dalam literatur sokongan, elosulfase alfa adalah terapi penggantian enzim GALNS manusia rekombinan yang ditunjukkan untuk sindrom Morquio A (MPS IVA), di mana defisiensi enzim GALNS menyebabkan pengumpulan keratan sulfat dan kondroitin-6-sulfat, mendorong displasia rangka dan penyakit multi-organ.
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, elosulfase alfa ialah enzim rekombinan N-asetilgalaktosamina-6-sulfatase yang menguraikan keratan sulfat dan kondroitin-6-sulfat. Keberkesanannya dalam MPS IVA telah dibuktikan.
 
-Sindrom Scheie, sebaliknya, adalah hujung ringan/lemah spektrum Mucopolysaccharidosis jenis I (MPS I), disebabkan oleh defisiensi α-L-iduronidase (IDUA), enzim berbeza yang bertindak pada substrat berbeza (dermatan sulfat/heparan sulfat) daripada laluan keratan sulfat yang disasarkan oleh elosulfase alfa. Kedua-dua keadaan termasuk dalam keluarga penyakit "mucopolysaccharidosis" yang lebih luas dan berkongsi ciri klinikal bertindih (keterlibatan rangka, sendi, dan jaringan ikat), yang mungkin menjelaskan mengapa model graf pengetahuan akan meletakkan mereka berdekatan dalam ruang penyisipan. Bagaimanapun, tiada sasaran enzimatik bersama antara dua keadaan, jadi asas mekanik untuk pengubahan tujuan adalah lemah.
-
-Secara keseluruhan, ini kelihatan lebih seperti isyarat kedekatan keluarga penyakit (MPS I vs. MPS IVA) daripada peluang pengubahan tujuan mekanik yang tulen. Literatur sokongan mengesahkan ini: kedua-dua makalah yang dipetik adalah kajian pencirian molekul kohort MPS umum, bukan kajian rawatan elosulfase alfa atau sindrom Scheie khususnya.
+Sindrom Scheie (bentuk MPS I yang lebih ringan) disebabkan oleh kekurangan alfa-L-iduronidase, yang menyebabkan pengumpulan dermatan sulfat dan heparan sulfat. Enzim dan substrat ini berbeza daripada elosulfase alfa, maka ubat ini **tidak menggantikan enzim yang kurang**. Skor TxGNN yang tinggi berkemungkinan mencerminkan ciri kelas MPS yang dikongsi, bukan padanan mekanisme sebenar. Oleh itu, kemunasabahan mekanisme adalah **rendah**.
 
 ---
 
 ## Bukti Percubaan Klinikal
 
-Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
+Pada masa ini tiada percubaan klinikal berkaitan didaftarkan untuk Sindrom Scheie.
+
+*Nota:* Bagi penunjuk lain yang diramalkan, satu percubaan Fasa 1 (NCT04532047, PEARL; terapi penggantian enzim prenatal untuk gangguan simpanan lisosom, 10 peserta, sedang merekrut) dikaitkan dengan sindrom Hurler. Tiada data yang menunjukkan elosulfase alfa digunakan di dalamnya, jadi ia hanya bukti tidak langsung.
 
 ---
 
 ## Bukti Literatur
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|------|------|------|---------|
-| [35005816](https://pubmed.ncbi.nlm.nih.gov/35005816/) | 2022 | Kohort (pencirian penyakit, bukan kajian ubat) | Human Mutation | Pencirian molekul/genetik bagi 302 pesakit MPS Iran di seluruh pelbagai subtip MPS; tidak menilai elosulfase alfa atau hasil rawatan dalam sindrom Scheie. |
-| [18584975](https://pubmed.ncbi.nlm.nih.gov/18584975/) | 2009 | Kohort (pencirian penyakit, bukan kajian ubat) | Pathologie-biologie | Menerangkan ciri klinikal dan corak keberkaitan dalam pesakit MPS I (Hurler) dan MPS IVA (Morquio A) Tunisia; membezakan defisiensi IDUA bagi MPS I dengan defisiensi GALNS bagi MPS IVA — tiada data campur tangan elosulfase alfa. |
+Pada masa ini tiada literatur berkaitan untuk Sindrom Scheie.
+
+*Nota:* Literatur yang dikaitkan dengan ramalan lain (contohnya kajian RCT Fasa 3 PMID 24810369 dan kajian lanjutan) semuanya berkenaan MPS IVA, iaitu indikasi asal, bukan indikasi baharu. Ia tidak menyokong pengubahsuaian guna ini.
 
 ---
 
-## Maklumat Pasaran Malaysia
+## Keselamatan
 
-Elosulfase alfa direkodkan sebagai dipasarkan di Malaysia dengan 1 lesen terdaftar; bagaimanapun, nombor kebenaran terperinci, nama produk, bentuk dos, pengilang, dan teks petunjuk yang diluluskan tidak tersedia dalam pakej bukti ini pada masa ini (jurang data). Ini harus diperolehi terus daripada pendaftaran produk NPRA sebelum sebarang penggunaan menghadapi peraturan laporan ini.
-
----
-
-## Pertimbangan Keselamatan
-
-Sila rujuk sisipan pakej untuk maklumat keselamatan. Nota: pengambilan amaran/kontraindikasi label Malaysia ditandai sebagai jurang data **Penyekat** dalam pakej bukti ini — ini mesti diselesaikan sebelum sebarang pra-penilaian keselamatan Peringkat 1 (S1) boleh diteruskan.
+Sila rujuk risalah maklumat produk untuk maklumat keselamatan. Tiada interaksi ubat yang ditemui dalam data yang dikumpulkan untuk laporan ini.
 
 ---
 
@@ -92,16 +85,16 @@ Sila rujuk sisipan pakej untuk maklumat keselamatan. Nota: pengambilan amaran/ko
 
 **Keputusan: Hold**
 
-**Rasional:**
-Persatuan yang diramalkan antara elosulfase alfa dan sindrom Scheie mempunyai tahap bukti L5 (ramalan model sahaja) — tiada percubaan klinikal dan tiada literatur yang benar-benar mengkaji elosulfase alfa dalam sindrom Scheie. Dua enzim yang terlibat (GALNS untuk Morquio A vs. IDUA untuk Scheie/MPS I) bertindak pada substrat berbeza, jadi rasional mekanik adalah lemah dan isyarat paling baik ditafsirkan sebagai artifak penyisipan keluarga penyakit daripada petunjuk pengubahan tujuan tulen.
+**Justifikasi:**
+- Tiada bukti klinikal atau literatur untuk Sindrom Scheie, dan enzim sasaran (alfa-L-iduronidase) berbeza daripada enzim yang dikendalikan elosulfase alfa. Skor tinggi tersebut berkemungkinan artifak model.
+- Ubat ini tidak dipasarkan di Malaysia (0 pendaftaran), dan data keselamatan tempatan tidak lengkap.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Amaran/kontraindikasi label Malaysia (NPRA) untuk elosulfase alfa (pada masa ini jurang data Penyekat yang menghalang pra-penilaian keselamatan)
-- Dokumentasi mekanisme tindakan yang disahkan daripada DrugBank atau pengilang
-- Butiran lesen/pendaftaran NPRA lengkap (nombor kebenaran, nama produk, bentuk dos, teks petunjuk yang diluluskan)
-- Sebarang data praklinik atau biokimia yang secara khusus menangani reaktivitas silang atau potensi manfaat ERT yang disasarkan GALNS dalam penyakit kekurangan IDUA (MPS I/Scheie), sekiranya hipotesis sedemikian ingin diteruskan lebih jauh
-- Semakan pemetaan kosa kata penyakit asas yang digunakan oleh saluran ramalan — petunjuk calon lain dalam pakej bukti yang sama ini menunjukkan ketidakpadanan literatur-ke-penyakit yang jelas (cth., percubaan elosulfase alfa khusus Morquio A diindeks di bawah label "Sanfilippo syndrome" yang tidak berkaitan), mencadangkan sumber data ini harus disahkan sebelum digunakan untuk pengambilan keputusan lebih lanjut
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) terperinci
+- Amaran dan kontraindikasi daripada risalah maklumat produk NPRA
+- Data praklinikal atau percubaan klinikal yang menunjukkan aktiviti terhadap Sindrom Scheie
+- Pertimbangan terapi sedia ada yang lebih sesuai (ERT khusus MPS I)
+- Penilaian laluan pentadbiran dan status pendaftaran di Malaysia
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

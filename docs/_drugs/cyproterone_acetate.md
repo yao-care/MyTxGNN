@@ -2,15 +2,15 @@
 layout: default
 title: Cyproterone Acetate
 parent: Low Evidence (L4-L5)
-nav_order: 243
-evidence_level: L5
+nav_order: 248
+evidence_level: L4
 indication_count: 10
 ---
 
 # Cyproterone Acetate
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L4** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,71 +33,78 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 ## Ringkasan Satu Ayat
 
-Cyproterone acetate adalah antiandrogen dengan aktiviti progestagenik, dipasarkan di Malaysia untuk keadaan bergantung androgen (teks indikasi yang diluluskan khusus tidak tersedia dalam set data semasa). Model TxGNN meramalkan ia mungkin berkesan untuk **Gangguan Migrain**, tetapi ramalan ini kini disokong oleh **0 ujian klinikal** dan **0 penerbitan** — ia bergantung sepenuhnya pada hipotesis mekanistik teoritikal.
+Cyproterone acetate (CPA) ialah ubat antiandrogen dengan aktiviti progestogen. Ia digunakan untuk keadaan bergantung androgen seperti kanser prostat, jerawat dan hirsutisme pada wanita, serta dalam sesetengah pil kontraseptif.
+Model TxGNN meramalkan ia mungkin berkesan untuk **gangguan migrain (migraine disorder)**.
+Setakat ini **tiada ujian klinikal** dan hanya **3 penerbitan** tidak langsung (2 kajian ulasan dan 1 kajian kohort), jadi bukti masih lemah.
 
 ---
 
-## Gambaran Keseluruhan Pantas
+## Gambaran Keseluruhan
 
 | Item | Kandungan |
-|------|-----------|
-| Indikasi Asal | Tidak dinyatakan dalam pakej bukti (teks indikasi lesen NPRA adalah kosong); penggunaan yang diketahui secara amnya adalah keadaan bergantung androgen (cth. hirsutisme, jerawat teruk, keadaan responsif hormon) |
-| Indikasi Baru yang Diramalkan | Gangguan Migrain |
+|------|------|
+| Indikasi Asal | Tiada rekod lesen tempatan. Menurut data farmakologi: keadaan bergantung androgen (cth. kanser prostat, jerawat, hirsutisme) |
+| Indikasi Baharu yang Diramalkan | Gangguan migrain (migraine disorder) |
 | Skor Ramalan TxGNN | 99.66% |
-| Aras Bukti | L5 (ramalan model sahaja) |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 4 |
-| Keputusan yang Disyorkan | Tahan |
+| Tahap Bukti | L4 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia dalam set data ini (DG002, pertanyaan DrugBank masih tertunda). Berdasarkan asas mekanistik yang dilampirkan pada calon ini, cyproterone acetate menyupress fungsi ovari dan mengaburkan lonjakan LH, yang merupakan asas farmakologi yang dicadangkan untuk ramalan ini: migrain menstruasi dicetuskan oleh penarikan estrogen bersiklik, jadi menstabilkan turun naik hormonal secara teoritikal boleh mengurangkan frekuensi migrain.
+Maklumat terperinci tentang mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan data yang dikumpulkan, CPA mengikat reseptor androgen (AR) dan menyekat kesannya. Ia juga mempunyai aktiviti progestogen. Secara mekanistik, ia mungkin berkaitan dengan migrain melalui laluan hormon.
 
-Ini secara eksplisit ditandakan dalam data sumber sebagai mekanisme inferen, tidak disahkan — tiada ujian klinikal, laporan kes, atau kajian prakliniken mengesahkan sambungan ini untuk cyproterone acetate secara khusus. Sambungan kepada aktiviti hormonal ubat yang diketahui (antiandrogen + progestagenik) adalah mungkin secara biologis tetapi tidak telah diuji dalam populasi migrain.
+Perubahan hormon (estrogen/progestin) diketahui boleh mencetuskan migrain. Kajian ulasan yang diperoleh menyatakan bahawa progestin berinteraksi dengan reseptor GABA-A dan sistem dopamin. CPA dilaporkan meningkatkan tindak balas dopaminergik dan mengikat reseptor opioid secara bebas daripada kesan antiandrogen klasiknya. Ini memberi kaitan yang munasabah, tetapi hanya pada tahap teori.
 
-Perlu juga diambil perhatian bahawa daripada 10 indikasi yang diramalkan TxGNN untuk ubat ini, beberapa calon-calon yang kedudukan lebih rendah (trombofilia, kekurangan antitrombin, kekurangan faktor kofaktor heparin 2, faktor 5 lebihan dengan trombosis spontan) ditandakan dalam rasional sumber sebagai kemungkinan **positif palsu daripada arah risiko terbalik** — iaitu, keadaan di mana cyproterone acetate (khususnya dalam formulasi yang mengandungi estrogen gabungan) adalah faktor risiko yang diketahui, bukan rawatan. Ini meningkatkan usul berhati-hati umum tentang mengandalkan skor TxGNN sahaja untuk ubat ini tanpa penyaringan mekanistik.
+Bukti yang ada hanya menunjukkan hormon boleh mempengaruhi migrain secara umum. Tiada bukti bahawa CPA merawat atau mencegah migrain, dan terapi hormon boleh memburukkan migrain pada sesetengah pesakit. Skor ramalan yang tinggi mungkin hanya mencerminkan kedekatan dalam rangkaian pengetahuan, bukan data klinikal.
 
 ---
 
 ## Bukti Ujian Klinikal
 
-Tiada ujian klinikal berkaitan yang didaftarkan pada masa ini.
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Literatur
 
-Tiada kesusasteraan berkaitan yang tersedia pada masa ini.
-
----
-
-## Maklumat Pasaran Malaysia
-
-Rekod NPRA mengesahkan cyproterone acetate memegang **4 kebenaran dipasarkan** di Malaysia (status: Dipasarkan/Dipasarkan). Nombor kebenaran terperinci, nama produk, bentuk dos, dan teks indikasi yang diluluskan tidak tersedia dalam set data semasa.
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [14670648](https://pubmed.ncbi.nlm.nih.gov/14670648/) | 2003 | Ulasan | Maturitas | Progestin berinteraksi dengan reseptor GABA-A, dopamin dan opioid. CPA meningkatkan tindak balas dopaminergik dan mengikat reseptor opiat |
+| [12390622](https://pubmed.ncbi.nlm.nih.gov/12390622/) | 2002 | Kohort | Headache | Tiga skim terapi penggantian hormon oral memberi kesan berbeza terhadap migrain pada wanita pascamenopaus |
+| [10857213](https://pubmed.ncbi.nlm.nih.gov/10857213/) | 2000 | Ulasan | Zentralblatt fur Gynakologie | Kesan sampingan jangka panjang terapi mengandungi CPA dalam ginekologi, termasuk perbahasan tentang potensi mutagenik. Tidak berkaitan secara langsung dengan keberkesanan untuk migrain |
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk surat risalah produk untuk maklumat keselamatan.
+- **Risiko trombosis**: Literatur yang diperoleh untuk indikasi lain secara konsisten menunjukkan bahawa produk mengandungi CPA/etinilestradiol dikaitkan dengan peningkatan risiko tromboembolisme vena. Ini sangat penting untuk migrain, kerana migrain dengan aura bersama produk mengandungi estrogen meningkatkan risiko strok.
+- **Potensi mutagenik**: Kajian ulasan (PMID 10857213) membincangkan potensi mutagenik CPA pada dos tertentu. Data masih bercanggah.
+- **Interaksi ubat**: Data yang dikumpulkan hanya menunjukkan sasaran farmakologi CPA, iaitu reseptor androgen (AR). Tiada interaksi ubat-ubat yang terperinci disenaraikan.
+
+Sila rujuk sisipan pembungkusan untuk maklumat amaran dan kontraindikasi yang lengkap.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
-**Rasional:**
-Calon ini mempunyai aras bukti L5 — skor TxGNN sahaja, tanpa sebarang ujian klinikal atau kesusasteraan yang menyokong (disahkan oleh 3 pertanyaan sumber berasingan yang mengembalikan 0 hasil). Digabungkan dengan jurang data Menghalang pada amaran TFDA/NPRA dan kontraindikasi, calon tidak boleh lagi memasuki pra-penyaringan keselamatan (S1).
+**Justifikasi:**
+- Tiada ujian klinikal dan hanya literatur tidak langsung. Tiada bukti bahawa CPA merawat migrain, sementara profil risiko trombotik dan kemungkinan memburukkan migrain menimbulkan kebimbangan keselamatan.
+- CPA tidak dipasarkan di Malaysia (0 pendaftaran), jadi laluan akses tempatan juga belum jelas.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Amaran pakej risalah TFDA/NPRA dan kontraindikasi (DG001, Menghalang — diperlukan sebelum sebarang ulasan keselamatan S1)
-- Data mekanisme tindakan yang disahkan daripada DrugBank (DG002)
-- Minimum, bukti prakliniken atau pemerhatian yang menghubungkan modulasi hormonal kepada frekuensi migrain sebelum mempertimbangkan penilaian klinikal lanjutan
-- Berhati-hati: penyaringan semula set ramalan 10 calon lengkap untuk ubat ini — beberapa entri nampaknya mencerminkan persatuan faktor risiko dan bukannya rawatan, dan tidak seharusnya dimajukan tanpa ulasan mekanistik bebas
+- Sisipan pembungkusan daripada NPRA (amaran dan kontraindikasi) untuk saringan keselamatan.
+- Data mekanisme tindakan (MOA) terperinci daripada DrugBank.
+- Kajian praklinikal atau klinikal yang menilai CPA secara langsung dalam migrain.
+- Penilaian risiko tromboembolisme dan strok pada pesakit migrain, terutamanya yang mengalami aura.
+- Kajian kesesuaian laluan pentadbiran dan bentuk dos.
 
+**Nota:** Antara indikasi lain yang diramalkan, "amenorea" mempunyai bukti lebih kukuh (L3, satu ujian Fasa 4 NCT01103518 dengan status tidak diketahui dan literatur klinikal lama). Namun ini lebih merupakan pengurusan simptom hiperandrogenisme, bukan indikasi baharu yang sebenar. Beberapa ramalan lain, seperti trombofilia dan kekurangan antitrombin, menunjukkan isyarat bahaya, bukan peluang terapeutik.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -2,7 +2,7 @@
 layout: default
 title: Cladribine
 parent: Low Evidence (L4-L5)
-nav_order: 222
+nav_order: 227
 evidence_level: L5
 indication_count: 7
 ---
@@ -29,91 +29,94 @@ Tahap bukti: **L5** | Indikasi diramal: **7**
 
 </div>
 
-# Cladribine: Daripada Keganasan Limfoid ke Rabdomiosarkoma Embrional Parameningeal
+# Cladribine: Daripada Leukemia Sel Berbulu kepada Rabdomiosarkoma Embrional Parameningeal
 
 ## Ringkasan Satu Ayat
 
-Cladribine adalah analog nukleosida purin dengan kegunaan klinis yang telah ditubuhkan dalam leukemia sel berbulu, leukemia limfositik kronik, dan multiple sclerosis. Model TxGNN meramalkan ia mungkin berkesan untuk **rabdomiosarkoma embrional parameningeal**, tetapi ramalan ini kini disokong oleh **0 percubaan klinis** dan **0 penerbitan** — ia bergantung sepenuhnya pada skor perkaitan statistik model.
+Cladribine ialah analog nukleosida purin yang pada asalnya digunakan untuk merawat leukemia sel berbulu (*hairy cell leukemia*), varian leukemia sel berbulu, dan sklerosis berbilang jenis relaps-remisi.
+Model TxGNN meramalkan ia mungkin berkesan untuk **rabdomiosarkoma embrional parameningeal**, tetapi pada masa ini terdapat **0 percubaan klinikal** dan **0 penerbitan** yang menyokong arah ini secara langsung. Ramalan ini hanya berdasarkan model.
 
 ---
 
-## Gambaran Cepat
+## Gambaran Ringkas
 
-| Item | Kandungan |
-|------|----------|
-| Indikasi Asal | Tidak ditentukan dalam data lesen NPRA; kegunaan klinis yang diketahui (mengikut rasional paket bukti) termasuk leukemia sel berbulu, CLL, dan multiple sclerosis |
-| Indikasi Baru yang Diramalkan | Rabdomiosarkoma embrional parameningeal |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Leukemia sel berbulu, varian leukemia sel berbulu, sklerosis berbilang relaps-remisi |
+| Indikasi Baharu yang Diramalkan | Rabdomiosarkoma embrional parameningeal |
 | Skor Ramalan TxGNN | 99.77% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 3 |
-| Keputusan yang Disyorkan | Tahan |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan yang Disyorkan | Hold |
 
 ---
 
-## Mengapa Ramalan Ini Munasabah?
+## Mengapakah Ramalan Ini Munasabah?
 
-Buat masa ini, data mekanisme tindakan terperinci tidak tersedia dalam bentuk berstruktur (ditandakan sebagai jurang data). Berdasarkan maklumat yang tertanam dalam rasional paket bukti itu sendiri, cladribine adalah analog deoksiadenina yang, selepas pengfosfatan oleh deoksisitidina kinase, mengumpul secara pilihan dalam sel dengan aktiviti DCK tinggi/5'-nukleotidase rendah — terutamanya limfosit dan monosit. Ini mendasari kegunaannya yang telah ditubuhkan dalam keganasan limfoid (leukemia sel berbulu, CLL) dan multiple sclerosis.
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikompilasi untuk laporan ini. Berdasarkan maklumat sedia ada, cladribine ialah analog nukleosida purin yang rintang terhadap adenosina deaminase. Ia menyebabkan pecahan untai DNA dan apoptosis, terutamanya dalam limfosit dan monosit yang mempunyai aktiviti deoksisitidina kinase yang tinggi. Kesannya telah dibuktikan dalam leukemia sel berbulu dan sklerosis berbilang.
 
-Rabdomiosarkoma, sebaliknya, adalah tumor daripada keturunan otot rangka yang biasanya didorong oleh gen fusion PAX3/7-FOXO1 atau perubahan laluan RAS. Tidak ada pertindihan biologi yang diketahui antara mekanisme analog nukleosida terpilih limfosit cladribine dan laluan pemandu rabdomiosarkoma.
+Walau bagaimanapun, tiada pautan mekanistik yang didokumenkan antara cladribine dengan rabdomiosarkoma embrional, iaitu tumor pepejal berasal mesenkima. Skor tinggi (0.998) berkemungkinan didorong oleh ciri rangkaian yang dikongsi merentasi subjenis rabdomiosarkoma dalam graf pengetahuan, dan bukan oleh biologi yang khusus. Ramalan lain dalam kluster ini (contohnya rabdomiosarkoma embrional botrioid pada vagina, rabdomiosarkoma saluran hempedu ekstrahepatik, rabdomiosarkoma embrional prostat, dan rabdomiosarkoma secara am) pada dasarnya merupakan satu hipotesis yang sama dan tidak disokong oleh data.
 
-Paket bukti itu sendiri adalah jelas bahawa ramalan ini adalah perkaitan statistik dalam graf-pengetahuan dan bukannya hipotesis yang diterima secara mekanik: semua tujuh indikasi yang diramalkan adalah subtip rabdomiosarkoma (ditambah satu sarkoma hati) yang berkelompok pada skor TxGNN yang hampir sama (0.9975–0.9977), dengan sifar percubaan klinis, sifar sastera, dan sifar rekod ICTRP di semua pertanyaan yang dilakukan. Corak ini lebih konsisten dengan kawasan terdekat penyakit dalam model daripada dengan isyarat mekanistik yang sebenarnya.
-
----
-
-## Bukti Percubaan Klinis
-
-Pada masa ini tiada percubaan klinis berkaitan yang berdaftar.
+Langkah pengesahan awal yang munasabah ialah ujian sitotoksisiti *in vitro* pada titisan sel rabdomiosarkoma serta penilaian ekspresi dCK dan 5'-nukleotidase.
 
 ---
 
-## Bukti Sastera
+## Bukti Percubaan Klinikal
 
-Pada masa ini tiada sastera berkaitan yang tersedia.
-
----
-
-## Maklumat Pasaran Malaysia
-
-Rekod NPRA mengesahkan cladribine mempunyai **3 pendaftaran yang dipasarkan** di Malaysia (status pasaran: Dipasarkan / Dipasarkan). Bagaimanapun, paket bukti tidak termasuk nombor lesen tertentu, nama produk, bentuk dos, atau teks indikasi yang diluluskan untuk pendaftaran ini — bidang ini dikembalikan kosong daripada pertanyaan sumber dan memerlukan pengambilan susulan daripada NPRA.
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ---
 
-## Sitotoksisiti
+## Bukti Literatur
 
-Kegunaan klinis cladribine yang diketahui (leukemia sel berbulu, CLL) menempatkannya dalam kategori antineoplastik/sitotoksik.
+Tiada literatur yang berkaitan secara langsung untuk rabdomiosarkoma embrional parameningeal.
 
-| Item | Kandungan |
-|------|----------|
-| Klasifikasi Sitotoksisiti | Sitotoksik konvensional (analog nukleosida purin / antimetabolit) |
-| Risiko Penindasan Sumsum Tulang | Sila rujuk amaran dan langkah-langkah berjaga dalam risalah pakej |
-| Klasifikasi Emetogenisiti | Sila rujuk amaran dan langkah-langkah berjaga dalam risalah pakej |
-| Item Pemantauan | Sila rujuk amaran dan langkah-langkah berjaga dalam risalah pakej |
-| Perlindungan Pengendalian | Sila rujuk amaran dan langkah-langkah berjaga dalam risalah pakej |
+Untuk rujukan, ramalan peringkat ke-7 (sarkoma hati) hanya mempunyai satu penerbitan yang diperoleh, dan ia tidak berkaitan secara langsung:
+
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [15241520](https://pubmed.ncbi.nlm.nih.gov/15241520/) | 2004 | Laporan kes | Der Hautarzt | Rawatan berjaya dengan cladribine pada mastositosis sistemik *smoldering*, iaitu neoplasma hematologi dan bukan sarkoma hati. Ia menyokong aktiviti cladribine dalam gangguan klonal hematopoietik atau sel mast, tetapi tidak memberikan bukti langsung untuk sarkoma. |
+
+---
+
+## Sitotoksisiti (Ubat Antineoplastik Sahaja)
+
+| Perkara | Kandungan |
+|------|------|
+| Klasifikasi Sitotoksisiti | Sitotoksik konvensional (analog nukleosida purin) |
+| Risiko Penindasan Sumsum Tulang | Tinggi. Data graf pengetahuan menyenaraikan neutropenia, trombositopenia, anemia dan agranulositosis sebagai keadaan kontraindikasi. |
+| Klasifikasi Emetogenisiti | Sila rujuk risalah maklumat produk |
+| Item Pemantauan | Kiraan darah penuh (CBC) dengan pembezaan, fungsi hati dan buah pinggang |
+| Perlindungan Pengendalian | Perlu mematuhi peraturan pengendalian ubat sitotoksik |
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk risalah pakej untuk maklumat keselamatan.
+- **Kontraindikasi daripada graf pengetahuan (TxGNN/PrimeKG, bukan teks label)**: penyakit buah pinggang, piouretur, trombositopenia, neutropenia, agranulositosis, anemia, anemia makrositik, hiperurisemia, penyakit sistem saraf periferi dan neuropati periferi.
+- **Interaksi Ubat**: Carian selesai dengan 100 interaksi dikesan. Antara yang utama:
+  - **Tahap Major**: kortikosteroid (hidrokortison, triamsinolon, deksametason, betametason, budesonid, prednisolon, prednison), deferiprone, ibritumomab tiuxetan, iobenguane (I-131), tositumomab (dan I-131), samarium (153Sm) lexidronam, serta strontium klorida Sr-89.
+  - **Tahap Moderate**: palifermin, dipiridamol, cilostazol dan eltrombopag.
+  - Interaksi dengan asid asetilsalisilik tidak diklasifikasikan tahapnya.
 
-*Nota: Amaran label NPRA/kontraindikasi untuk ubat ini ditandakan sebagai jurang data yang **Menghalang** (DG001) dalam paket bukti sumber — data ini mesti diperolehi sebelum sebarang penilaian keselamatan dapat diteruskan.*
+Amaran utama dan kontraindikasi daripada risalah maklumat produk tidak tersedia. Sila rujuk risalah maklumat produk untuk maklumat keselamatan yang lengkap.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
-**Nisbah:**
-Ramalan ini hanya disokong oleh skor model TxGNN (L5, tiada bukti klinis atau sastera di semua 7 indikasi calon), dan jurang data yang menghalang dalam maklumat keselamatan label NPRA menghalang bahkan skrin keselamatan awal. Pada masa ini tidak ada asas mekanistik, klinis, atau pra-klinis dalam fail yang menghubungkan cladribine kepada rabdomiosarkoma.
+**Justifikasi:**
+- Ramalan ini hanya berasaskan model (L5), tanpa percubaan klinikal atau literatur yang menyokong, dan tiada pautan mekanistik yang didokumenkan. Skor tinggi berkemungkinan mencerminkan persamaan dalam rangkaian rabdomiosarkoma. Cladribine juga tidak dipasarkan di Malaysia dan mempunyai profil toksisiti hematologi yang ketara.
 
-**Untuk meneruskan, perkara berikut diperlukan:**
-- Amaran label NPRA/kontraindikasi (DG001, Menghalang) — diperlukan sebelum sebarang semakan keselamatan S1
-- Mekanisme tindakan yang disahkan daripada DrugBank (DG002, Tinggi) — diperlukan untuk menilai kemungkinan mekanistik
-- Bukti pra-klinis atau peringkat kes yang secara khusus menghubungkan cladribine kepada rabdomiosarkoma atau laluan sarkoma berkaitan
-- Butiran lesen NPRA yang lengkap (nama produk, bentuk dos, teks indikasi yang diluluskan) untuk 3 pendaftaran sedia ada
-
+**Untuk diteruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) yang terperinci
+- Amaran dan kontraindikasi daripada risalah maklumat produk NPRA (jurang data yang menghalang penyaringan keselamatan)
+- Kajian praklinikal: ujian sitotoksisiti pada titisan sel rabdomiosarkoma dan penilaian ekspresi dCK/5'-nukleotidase
+- Kajian literatur sistematik yang disasarkan untuk rabdomiosarkoma dan analog nukleosida purin
+- Pelan pemantauan keselamatan hematologi sekiranya penyelidikan diteruskan
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

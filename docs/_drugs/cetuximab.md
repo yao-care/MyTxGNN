@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Cetuximab
-parent: Low Evidence (L4-L5)
-nav_order: 206
-evidence_level: L5
+parent: High Evidence (L1-L2)
+nav_order: 211
+evidence_level: L2
 indication_count: 10
 ---
 
 # Cetuximab
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L2** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,90 +29,99 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Cetuximab: Daripada Indikasi Onkologi yang Diluluskan kepada Lesi Non-seminomatosa
+# Cetuximab: Daripada Kanser Kolon kepada Lesi Pra-malignan (Pre-malignant Neoplasm)
 
 ## Ringkasan Satu Ayat
 
-Cetuximab (DrugBank DB00002) ialah antibodi monoklonal anti-EGFR yang dipasarkan di Malaysia dengan 2 pendaftaran; teks indikasi asal yang diluluskan tidak ditangkap dalam senarai data ini (jurang data). Ramalan teratas model TxGNN untuk ubat ini ialah **Lesi Non-seminomatosa**, tetapi isyarat khusus ini pada masa ini **tidak disokong oleh bukti** — **0 ujian klinikal** dan **0 penerbitan** telah ditemui untuk pasangan ubat-penyakit ini.
+Cetuximab ialah antibodi monoklonal yang menyasarkan reseptor faktor pertumbuhan epidermis (EGFR), pada asalnya digunakan untuk kanser kolorektal dan kanser sel skuamosa kepala dan leher.
+Model TxGNN meramalkan ia mungkin berkesan untuk **neoplasma pra-malignan**, dengan **4 ujian klinikal** dan **2 penerbitan** yang berkaitan, tetapi hanya **1 ujian fasa 2 yang benar-benar relevan** (NCT00524017).
+
+> Nota: Calon pertama (peringkat 1) dalam data, iaitu "non-seminomatous lesion", hanya disokong oleh ramalan model tanpa sebarang ujian atau literatur (L5, Hold). Laporan ini memberi tumpuan kepada **neoplasma pra-malignan** (peringkat 10) kerana ia mempunyai bukti klinikal paling kukuh antara semua calon yang diramalkan, dan calon-calon lain dibincangkan secara ringkas dalam bahagian kesimpulan.
 
 ---
 
 ## Gambaran Keseluruhan Pantas
 
-| Item | Kandungan |
-|------|----------|
-| Indikasi Asal | Tidak ditangkap dalam data semasa (medan original_indications kosong; MOA juga jurang data — lihat di bawah) |
-| Indikasi Baru yang Diramalkan | Lesi Non-seminomatosa |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Neoplasma kolon malignan / kanser kolorektal / kanser sel skuamosa kepala dan leher (daripada pangkalan pengetahuan TxGNN; tiada teks indikasi berlesen kerana tiada pendaftaran di Malaysia) |
+| Indikasi Baharu yang Diramal | Pre-malignant neoplasm (lesi pra-malignan) |
 | Skor Ramalan TxGNN | 99.95% |
-| Paras Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 2 |
-| Keputusan Disyorkan | Tahan |
+| Tahap Bukti | L2 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (Soalan Penyelidikan) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan yang terperinci tidak tersedia untuk Cetuximab dalam pakej bukti ini (ditandai sebagai jurang data dengan keparahan tinggi, DG002). Berdasarkan maklumat yang terdapat di tempat lain dalam bukti kesusasteraan pakej ini, Cetuximab diketahui bertindak sebagai antibodi monoklonal kimia IgG1 yang diarahkan terhadap penerima faktor pertumbuhan epidermis (EGFR), dan digunakan merentasi beberapa kanser epitelial yang didorong EGFR (cth., kanser kolorektal, karsinoma sel skuamosa kepala dan leher, dan karsinoma kelenjar liur muncul berulang kali dalam kesusasteraan sokongan yang diambil untuk calon indikasi lain).
+Data mekanisme tindakan terperinci tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, cetuximab menyasarkan EGFR, dan keberkesanannya dalam kanser kolorektal serta kanser sel skuamosa kepala dan leher telah terbukti. Dari segi mekanisme, ia mungkin boleh digunakan untuk lesi pra-malignan yang bergantung pada isyarat EGFR.
 
-Untuk ramalan khusus yang ditampilkan di sini — **Lesi Non-seminomatosa** — tiada rekod ujian klinikal, ICTRP, atau PubMed telah diambil walaupun carian tersasaran. Rasional yang disediakan dengan calon ini menyatakan dengan jelas bahawa pautan itu ialah "skor ramalan TxGNN sahaja, tanpa sokongan kesusasteraan mekanistik" untuk ungkapan EGFR dalam lesi non-seminomatosa. Dengan kata lain, persatuan pada masa ini bergantung sepenuhnya pada output pangkat model embedding graf, bukan pada mana-mana isyarat biologi atau klinikal yang independen.
+EGFR dikaitkan dengan karsinogenesis kanser sel skuamosa kepala dan leher. Lesi pra-malignan mulut menunjukkan ekspresi protein EGFR dan bilangan salinan gen *EGFR* yang lebih tinggi berbanding mukosa normal (PMID 24412287). Ini menyokong idea kemoprevensyen melalui sekatan EGFR, iaitu menghalang lesi daripada berkembang menjadi kanser.
 
-**Nota:** Pakej bukti yang sama ini mengandungi calon TxGNN lain untuk Cetuximab dengan sokongan yang bermakna lebih kuat daripada yang ini — terutamanya **neoplasma kistik** (pangkat 8, paras bukti L2, didorong oleh ujian Fasa II dalam karsinoma kistik saliva/adenoid) dan **neoplasma pra-ganas** (pangkat 10, paras bukti L1, didorong oleh ujian Fasa II yang selesai bagi cetuximab dalam lesi aerodigestif atas pra-ganas berisiko tinggi, NCT00524017). Penyemak yang menilai potensi ubat baru ini harus mempertimbangkan calon tersebut secara berasingan, kerana mereka jauh lebih terbukti daripada ramalan tertinggi yang dibincangkan dalam laporan ini.
+Walau bagaimanapun, kebanyakan ujian lain dalam senarai ialah gabungan kemoterapi kanser kolorektal dan tidak menyokong indikasi pra-malignan secara langsung.
 
 ---
 
 ## Bukti Ujian Klinikal
 
-Pada masa ini tiada ujian klinikal berkaitan yang berdaftar.
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
+|---------|------|------|------|---------|
+| [NCT00524017](https://clinicaltrials.gov/study/NCT00524017) | Fasa 2 | Selesai | 35 | Cetuximab agen tunggal untuk lesi pra-malignan saluran aerodigestif atas berisiko tinggi; sangat relevan |
+| [NCT00482222](https://clinicaltrials.gov/study/NCT00482222) | Fasa 3 | Tidak diketahui | 340 | Oxaliplatin/fluoropirimidin dengan atau tanpa cetuximab sebelum dan selepas pembedahan untuk metastasis hati kolorektal; bukan ujian lesi pra-malignan |
+| [NCT00719199](https://clinicaltrials.gov/study/NCT00719199) | Fasa 1 | Ditamatkan | 21 | FOLFIRI + cetuximab + IMO-2055 dalam kanser kolorektal; tidak langsung |
+| [NCT00537823](https://clinicaltrials.gov/study/NCT00537823) | Fasa 2 | Ditamatkan | 9 | Terapi neoadjuvan berasaskan FOLFOX sebelum reseksi hati; bukan berkaitan penyakit pra-malignan |
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Literatur
 
-Pada masa ini tiada kesusasteraan berkaitan yang tersedia.
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [24412287](https://pubmed.ncbi.nlm.nih.gov/24412287/) | 2014 | Ulasan | Oral Oncology | EGFR meningkat dalam lesi pra-malignan mulut; sasaran EGFR berpotensi untuk kemoprevensyen kanser kepala dan leher |
+| [33243986](https://pubmed.ncbi.nlm.nih.gov/33243986/) | 2020 | Ulasan | Nature Reviews Disease Primers | Gambaran keseluruhan kanser sel skuamosa kepala dan leher (HNSCC) |
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Rekod lesen wujud untuk Cetuximab (2 pendaftaran, status pasaran "Dipasarkan"), tetapi nama produk, bentuk dos, pengilang, dan teks indikasi yang diluluskan tidak diisi dalam senarai data ini — jadual produk terperinci tidak boleh dipersembahkan tanpa membuat nilai.
-
----
-
-## Sitotoksisiti
-
-Cetuximab ialah biologi antineoplastik (antibodi monoklonal anti-EGFR yang digunakan merentasi pelbagai kanser epitelial mengikut kesusasteraan yang diambil di tempat lain dalam pakej ini), jadi bahagian ini terpakai.
-
-| Item | Kandungan |
-|------|----------|
-| Pengelasan Sitotoksisiti | Terapi yang tersasaran (Antibodi monoklonal anti-EGFR) |
-| Risiko Supresi Sumsum Tulang | Sila rujuk amaran dan tindakan pencegahan dalam sisipan bungkus |
-| Pengelasan Emetogenisiti | Sila rujuk amaran dan tindakan pencegahan dalam sisipan bungkus |
-| Item Pemantauan | Sila rujuk amaran dan tindakan pencegahan dalam sisipan bungkus |
-| Perlindungan Pengendalian | Sila rujuk amaran dan tindakan pencegahan dalam sisipan bungkus |
+Cetuximab kini tidak dipasarkan di Malaysia dan tiada lesen berdaftar dalam data yang dikumpulkan untuk laporan ini.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan bungkus untuk maklumat keselamatan.
+Cetuximab mempunyai interaksi dadah yang direkodkan, antaranya:
+
+- **Major**: asid aminolevulinik, thalidomide
+- **Moderate**: perencat pam proton (rabeprazole, omeprazole, dexlansoprazole, esomeprazole, lansoprazole, pantoprazole); agen kemoterapi (capecitabine, carboplatin, cisplatin, fluorouracil, oxaliplatin); methoxsalen, idelalisib, omacetaxine mepesuccinate, verteporfin dan produk topikal fotosensitif (asid aminolevulinik topikal, metil aminolevulinat topikal)
+
+Rujuk sisipan pakej untuk amaran utama dan kontraindikasi, kerana data tersebut tidak tersedia dalam data yang dikumpulkan. Laporan kes dalam literatur turut menyebut risiko reaksi infusi yang teruk (PMID 39415301) dan gangguan kulit akibat cetuximab (PMID 30141310).
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold (Soalan Penyelidikan)**
 
 **Rasional:**
-Ramalan yang ditampilkan (Cetuximab → Lesi Non-seminomatosa) tidak mempunyai bukti ujian klinikal atau kesusasteraan dan bergantung sepenuhnya pada skor model TxGNN (Paras Bukti L5); ia tidak memenuhi ambang untuk meneruskan melepasi S0.
+- Hanya satu ujian fasa 2 agen tunggal yang relevan (NCT00524017, n=35) dan tiada ujian fasa 3 yang menyokong indikasi pra-malignan; ujian fasa 3 yang disenaraikan ialah kajian kolorektal. Tahap bukti L2 sahaja tidak mencukupi untuk bergerak ke hadapan.
+- Cetuximab tidak berdaftar di Malaysia, dan profil risiko-faedah (reaksi infusi, toksisiti kulit) kurang memihak untuk lesi yang bersifat pra-malignan.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Label produk TFDA/NPRA (amaran dan kontraindikasi) — pada masa ini jurang data Menghalang (DG001), diperlukan sebelum penskrinan keselamatan S1 apa pun
-- Dokumentasi mekanisme tindakan Cetuximab daripada DrugBank — pada masa ini jurang data dengan keparahan tinggi (DG002), diperlukan untuk analisis pautan mekanistik
-- Maklumat lesen/terperinci produk Malaysia untuk 2 pendaftaran sedia ada (nama produk, bentuk dos, pengilang, teks indikasi yang diluluskan)
-- Jika calon ini akan diusahakan lebih lanjut, bukti kesusasteraan bebas atau praklinikal yang menghubungkan biologi EGFR kepada lesi non-seminomatosa
-- Secara berasingan, pertimbangkan untuk mengutamakan penilaian calon yang lebih terbukti telah dipermukaankan dalam pakej ini — **neoplasma kistik (L2)** dan **neoplasma pra-ganas (L1)** — yang mempunyai sokongan ujian klinikal sebenar
+**Calon lain dalam senarai ramalan (ringkas):**
+- **Cystic neoplasm** (L2, Soalan Penyelidikan): bukti tertumpu pada karsinoma sista adenoid dan kelenjar air liur (NCT01192087, fasa 1/2, status tidak diketahui; PMID 18804410, fasa 2). Aktiviti dalam kajian kelenjar air liur tidak dapat disahkan daripada data yang ada.
+- **Ductal or ductular proliferation** (L4): kebanyakannya kajian praklinikal dan ulasan berkaitan kanser pankreas, dan padanan istilah ini longgar.
+- **Odontogenic cyst** (L4): hanya laporan kes karsinoma intraosseus primer; tidak mengesahkan penggunaan cetuximab.
+- **Epiglottis neoplasm** (L5): kemungkinan bertindih dengan indikasi sedia ada untuk kanser sel skuamosa kepala dan leher, bukan peluang repurposing sebenar.
+- **Non-seminomatous lesion, bronchial adenomas/carcinoids childhood, chondroid hamartoma, tumor of testis and paratestis, thyroglossal duct cyst** (L5, Hold): tiada ujian atau literatur.
 
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data bertaraf Blocking)
+- Data mekanisme tindakan terperinci (MOA) daripada DrugBank
+- Semakan hasil sebenar NCT00524017 (kadar tindak balas, kemajuan kepada kanser, toksisiti)
+- Kajian lanjut sama ada ujian fasa 3 yang menyokong wujud untuk lesi pra-malignan
+- Penilaian laluan pendaftaran dan ketersediaan produk di Malaysia
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

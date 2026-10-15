@@ -2,7 +2,7 @@
 layout: default
 title: Ropeginterferon Alfa-2B
 parent: Low Evidence (L4-L5)
-nav_order: 603
+nav_order: 631
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,62 +29,79 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Ropeginterferon Alfa-2b: Daripada Polycythemia Vera kepada Laubry-Pezzi Syndrome (Ramalan Tidak Disokong)
+# Ropeginterferon Alfa-2b: Daripada Polisitemia Vera kepada Sindrom Laubry-Pezzi
 
 ## Ringkasan Satu Ayat
 
-Ropeginterferon alfa-2b (DrugBank DB15119) dipasarkan di Malaysia dengan 1 lesen berdaftar, tetapi teks indikasi yang diluluskan tidak tersedia dalam dataset semasa — bukti luaran yang tertanam dalam literatur pakej sendiri (lihat Peringkat 6 di bawah) menunjukkan Polycythemia Vera (jenama Besremi) sebagai kegunaan yang ditetapkan. Ramalan teratas model TxGNN, **Laubry-Pezzi syndrome**, ialah kerosakan jantung bawaan berstruktur dengan **sifar ujian klinikal, sifar literatur, dan tiada pautan mekanik biologi yang munasabah** kepada farmakologi interferon — ini dan semua 9 calon 10 teratas lain ditandai dalam pakej bukti itu sendiri sebagai kemungkinan bunyi ruang pembenam atau ralat pemetaan ontologi penyakit.
+Ropeginterferon alfa-2b ialah interferon monopegilasi yang pada asalnya digunakan untuk merawat polisitemia vera (neoplasma mieloproliferatif) dan keadaan berkaitan.
+Model TxGNN meramalkan ia mungkin berkesan untuk **Sindrom Laubry-Pezzi** dengan skor yang sangat tinggi, tetapi pada masa ini terdapat **0 percubaan klinikal** dan **0 penerbitan** yang menyokong arah ini. Ramalan ini kemungkinan besar merupakan artifak graf pengetahuan.
 
-## Ikhtisar Cepat
+---
 
-| Item | Kandungan |
-|------|-----------|
-| Indikasi Asal | Tidak tersedia dalam data pendaftaran Malaysia (approved_indication_text kosong); konteks literatur menunjukkan Polycythemia Vera (lihat nota di bawah) |
-| Indikasi Baru Diramalkan | Laubry-Pezzi syndrome |
+## Gambaran Keseluruhan Pantas
+
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Polisitemia vera yang diperoleh (acquired), plasmasitoma, polisitemia |
+| Indikasi Baharu yang Diramalkan | Sindrom Laubry-Pezzi |
 | Skor Ramalan TxGNN | 99.93% |
-| Tahap Bukti | L5 (ramalan model sahaja, tiada kajian sokongan) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 1 |
-| Keputusan yang Disyorkan | Tahan |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
-## Mengapa Ramalan Ini Munasabah?
+---
 
-Data mekanisme tindakan yang terperinci tidak tersedia (`original_moa: [Data Gap]`). Ropeginterferon alfa-2b ialah interferon alfa-2b terpegil, sebuah kelas yang secara umum difahami bertindak melalui laluan imunomodulatori, antiviral, dan antipeliferatif (dirantai oleh JAK-STAT).
+## Mengapa Ramalan Ini Munasabah (atau Tidak)?
 
-Ramalan berperingkat teratas, Laubry-Pezzi syndrome, ialah kerosakan jantung bawaan berstruktur (kecacatan septal ventrikuler dengan prolaps injap aortik/aneurisma). Tiada laluan biologi yang munasabah menghubungkan mekanisme imun/antipeliferatif interferon kepada kecacatan anatomi berstruktur, dan rasional pakej bukti itu sendiri secara jelas mencirikan ini sebagai "bunyi berperingkat tinggi dalam ruang pembenam KG" dengan sifar ujian sokongan atau penerbitan. Baki peringkat 2–10 (aneurisma septal interventrikuler, sindrom pemadaman kromosom, sindrom malformasi kraniofasial, penyakit injap pulmonari) berkongsi corak yang sama: skor TxGNN tinggi tanpa sokongan mekanik atau bukti.
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, ropeginterferon alfa-2b ialah agen imunomodulasi dan antiproliferatif yang bertindak melalui isyarat reseptor interferon jenis I, dan digunakan untuk mengawal klon malignan dalam neoplasma mieloproliferatif.
 
-Khususnya, Peringkat 6 ("disorder of fucoglycosan synthesis") mengembalikan 4 hasil literatur, tetapi kesemua 4 kertas kerja menyangkut ropeginterferon alfa-2b dalam **Polycythemia Vera** — tidak berkaitan dengan label penyakit yang dilampirkan kepada peringkat tersebut. Ini menunjukkan dengan kuat ralat pemetaan ontologi penyakit dalam graf pengetahuan asas, dan kebetulannya menunjukkan bahawa Polycythemia Vera ialah indikasi kegunaan yang ditetapkan ubat (sepadan dengan jenamanya yang diluluskan, Besremi), bukan calon repurposing baru.
+Sindrom Laubry-Pezzi (kecacatan septum ventrikel dengan regurgitasi aorta) ialah kecacatan struktur jantung kongenital. Tiada hubungan mekanistik yang dapat dikenal pasti antara ubat ini dengan keadaan tersebut, kerana ubat ini tidak mungkin mempengaruhi anatomi injap atau septum.
 
-## Bukti Ujian Klinikal
+Skor TxGNN yang tinggi kemungkinan besar dipacu oleh kedekatan nod dalam graf pengetahuan dan bukannya oleh asas biologi atau klinikal. Sembilan ramalan lain dalam senarai sepuluh teratas (contohnya aneurisma septum interventrikular, sindrom Pierre Robin, delesi kromosom separa, penyakit injap pulmonari) juga tidak mempunyai hubungan mekanistik dan menunjukkan corak yang sama.
 
-Pada masa ini tiada ujian klinikal berdaftar yang berkaitan untuk Laubry-Pezzi syndrome.
+---
+
+## Bukti Percubaan Klinikal
+
+Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
+
+---
 
 ## Bukti Literatur
 
-Pada masa ini tiada literatur berkaitan tersedia untuk Laubry-Pezzi syndrome.
+Pada masa ini tiada literatur berkaitan yang tersedia untuk indikasi yang diramalkan ini.
+
+Nota: Lima penerbitan yang diperoleh bagi ramalan peringkat keenam (gangguan sintesis fukoglikan) semuanya mengenai polisitemia vera, iaitu indikasi asal ubat ini, dan bukan penyakit yang diramalkan. Ia kemungkinan diperoleh melalui padanan nama ubat dan tidak dikira sebagai bukti sokongan.
+
+---
 
 ## Maklumat Pasaran Malaysia
 
-Malaysia mempunyai 1 lesen berdaftar untuk ropeginterferon alfa-2b (status pasaran: Dipasarkan), tetapi nombor lesen, nama produk, bentuk dos, dan teks indikasi yang diluluskan tidak diisikan dalam dataset semasa.
+Ropeginterferon alfa-2b pada masa ini tidak dipasarkan di Malaysia dan tiada pendaftaran direkodkan.
+
+---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk surat pembungkus pakej untuk maklumat keselamatan. (Amaran utama dan kontraindikasi ditandai sebagai jurang data **Menyekat** — DG001 — menunggu penerimaan sisipan produk NPRA/TFDA; ini mesti diselesaikan sebelum sebarang kajian keselamatan dapat diteruskan.)
+Sila rujuk sisipan pembungkusan untuk maklumat keselamatan.
+
+Pangkalan data interaksi ubat tidak mengembalikan sebarang rekod untuk ubat ini.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
 **Rasional:**
-Tiada satu pun daripada 10 ramalan teratas TxGNN — termasuk Laubry-Pezzi syndrome berperingkat teratas — mempunyai sebarang ujian klinikal sokongan, literatur, atau kebolehpercayaan mekanik. Pakej bukti itu sendiri menandai ini sebagai kemungkinan bunyi ruang pembenam, dan satu calon (Peringkat 6) mendedahkan ralat pemetaan ontologi penyakit yang jelas daripada isyarat repurposing tulen.
+- Ramalan ini hanya berasaskan model (L5), tanpa percubaan klinikal atau literatur yang menyokong, dan tiada hubungan mekanistik yang munasabah dengan kecacatan struktur jantung kongenital. Skor tinggi kemungkinan besar merupakan artifak graf pengetahuan.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Selesaikan jurang menyekat DG001: dapatkan sisipan produk NPRA (amaran/kontraindikasi) untuk saringan keselamatan
-- Selesaikan jurang DG002: dapatkan mekanisme tindakan yang disahkan daripada DrugBank
-- Betulkan ralat pemetaan ontologi penyakit yang mempengaruhi label "disorder of fucoglycosan synthesis" (Peringkat 6), yang nampaknya sebenarnya merujuk kepada literatur Polycythemia Vera
-- Sahkan indikasi asal ubat yang sebenarnya melalui teks lesen NPRA (semasa kosong) dan bukannya daripada inferens
-- Jalankan semula tinjauan ramalan melampaui 10 peringkat teratas, kerana tiada satu pun dalam set ini memenuhi ambang bukti L4 (praklinikal/mekanik)
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) yang terperinci
+- Maklumat amaran dan kontraindikasi daripada sisipan pembungkusan (NPRA)
+- Bukti praklinikal atau klinikal yang menunjukkan kaitan biologi antara isyarat interferon jenis I dengan patologi Sindrom Laubry-Pezzi
+- Semakan semula ramalan ini jika bukti baharu muncul; jika tidak, pertimbangkan untuk menumpukan sumber pada indikasi lain yang lebih berasas
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

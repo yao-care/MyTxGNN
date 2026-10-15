@@ -2,7 +2,7 @@
 layout: default
 title: Empagliflozin
 parent: Low Evidence (L4-L5)
-nav_order: 311
+nav_order: 321
 evidence_level: L5
 indication_count: 3
 ---
@@ -29,61 +29,85 @@ Tahap bukti: **L5** | Indikasi diramal: **3**
 
 </div>
 
-# Empagliflozin: Dari Diabetes Jenis 2 kepada Focal Stiff Limb Syndrome
+# Empagliflozin: Daripada Diabetes Mellitus Jenis 2 kepada Sindrom Anggota Kaku Fokal
 
 ## Ringkasan Satu Ayat
 
-Empagliflozin adalah penghambat SGLT2 yang awalnya digunakan untuk pengurusan diabetes jenis 2 (dengan peluasan yang telah ditetapkan kepada gagal jantung dan penyakit ginjal kronik). Model TxGNN meramalkan keberkesanan yang berpotensi untuk **Focal Stiff Limb Syndrome**, tetapi calon ini — bersama-sama dengan dua calon berpangkat teratas yang lain (Classic Stiff Person Syndrome, Opsismodysplasia) — pada masa ini mempunyai **0 percubaan klinikal** dan **0 penerbitan** yang menyokongnya, suatu corak yang konsisten dengan artifak graf pengetahuan daripada hipotesis farmakoloji yang tulen.
+Empagliflozin ialah perencat SGLT2 yang pada asalnya digunakan untuk merawat diabetes mellitus jenis 2.
+Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom anggota kaku fokal (focal stiff limb syndrome)**,
+tetapi pada masa ini terdapat **0 percubaan klinikal** dan **0 penerbitan** yang menyokong ramalan ini. Ramalan ini hanyalah ramalan model.
 
-## Gambaran Lintasan Pantas
+---
+
+## Gambaran Ringkas
 
 | Item | Kandungan |
-|------|----------|
-| Indikasi Asal | Tidak tercatat dalam data daftar NPRA Malaysia; empagliflozin ditubuhkan secara global untuk Diabetes Mellitus Jenis 2 (juga gagal jantung, penyakit ginjal kronik) |
-| Indikasi Baru yang Diramalkan | Focal Stiff Limb Syndrome |
+|------|------|
+| Indikasi Asal | Diabetes mellitus jenis 2 |
+| Indikasi Baharu yang Diramalkan | Sindrom anggota kaku fokal (focal stiff limb syndrome) |
 | Skor Ramalan TxGNN | 99.06% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 15 |
-| Keputusan Disyorkan | Tahan |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak dikembalikan oleh pertanyaan DrugBank untuk pakej ini (ditandai sebagai jurang data berat, DG002). Berdasarkan apa yang tertanam dalam teks rasional pakej bukti sendiri, empagliflozin bertindak sebagai penghambat SGLT2, menyekat kotransporter natrium-glukosa-2 dalam tubulus proksikal ginjal untuk mengurangkan penyerapan semula glukosa — asas farmakoloji penggunaannya yang ditubuhkan dalam diabetes jenis 2, dan baru-baru ini dalam gagal jantung dan penyakit ginjal kronik.
+Data mekanisme tindakan terperinci tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, empagliflozin ialah perencat SGLT2 yang bertindak pada penyerapan semula glukosa di buah pinggang, dan keberkesanannya dalam diabetes mellitus jenis 2 telah dibuktikan. Namun, tiada hubungan mekanistik yang disokong oleh data yang dikumpulkan untuk laporan ini.
 
-Tiada tiga calon berpangkat teratas TxGNN yang berkongsi pautan mekanistik yang jelas dengan laluan ini. Focal stiff limb syndrome dan classic stiff person syndrome adalah keadaan autoimmun/neurologi yang didorong oleh defisit penghantaran GABAergik (selalunya dimediasi oleh antibodi anti-GAD65) — tidak berkaitan dengan pengendalian glukosa ginjal. Opsismodysplasia adalah displasia rangka kongenital yang jarang dikaitkan dengan isyarat INPPL1/PI3K — gangguan perkembangan struktur yang ubat metabolik tidak dijangka menangani.
+Sindrom anggota kaku fokal ialah keadaan jarang dalam spektrum sindrom orang kaku (stiff person), yang dikaitkan dengan autoimun atau paraneoplastik, dengan kerosakan perencatan GABAergik/glisinergik serta autoimuniti anti-GAD65 atau anti-amphiphysin. Tiada laluan yang jelas menghubungkan mekanisme empagliflozin dengan patologi neuroimunologi ini.
 
-Teks rasional pakej bukti sendiri untuk ketiga-tiga calon secara berasingan menimbulkan kebimbangan yang sama ini, dan 11 pertanyaan berasingan merentasi ClinicalTrials.gov, ICTRP, dan PubMed untuk ketiga-tiga pasangan ubat-penyakit semuanya mengembalikan hasil sifar. Bersama-sama dengan skor TxGNN yang hampir sama, tidak biasa tinggi (0.990–0.991) merentasi tiga penyakit yang mekanistiknya tidak berkaitan, corak ini lebih konsisten dengan artifak pembenaman graf pengetahuan — mungkin didorong oleh jarak nod fenotip yang cetek (cth., istilah berkaitan "kaku") — daripada isyarat repurposing yang tulen.
+Skor TxGNN yang sangat tinggi (0.9906) kemungkinan besar mencerminkan kejiranan graf pengetahuan yang berkongsi kaitan dengan diabetes, bukan hubungan terapeutik sebenar. Sebarang kaitan, seperti kesan anti-radang atau metabolik tidak langsung, hanyalah spekulatif.
+
+Dua ramalan lain dengan skor hampir sama turut dijana oleh model, dan kedua-duanya juga tidak mempunyai sokongan bukti:
+
+- **Sindrom orang kaku klasik (classic stiff person syndrome)** (skor 99.06%): gangguan neurologi autoimun dengan perencatan GABAergik pusat yang berkurang. Diabetes yang bersama (comorbid) lazim pada pesakit anti-GAD65, tetapi ini berkaitan kawalan glisemik dan bukan rawatan penyakit neurologi.
+- **Opsismodisplasia (opsismodysplasia)** (skor 99.03%): displasia rangka resesif autosom yang disebabkan mutasi INPPL1 (kehilangan fungsi SHIP2). Pertindihan konsep dengan isyarat insulin adalah spekulatif, dan keselamatan serta kesan pertumbuhan perencatan SGLT2 pada populasi pediatrik ini tidak diketahui.
+
+---
 
 ## Bukti Percubaan Klinikal
 
-Pada masa ini tiada percubaan klinikal yang berkaitan berdaftar.
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
-## Bukti Kesusasteraan
+---
 
-Pada masa ini tiada kesusasteraan yang berkaitan tersedia.
+## Bukti Literatur
+
+Pada masa ini tiada literatur berkaitan yang tersedia.
+
+---
 
 ## Maklumat Pasaran Malaysia
 
-Empagliflozin disahkan dipasarkan di Malaysia dengan 15 jumlah pendaftaran produk; walau bagaimanapun, pakej bukti ini tidak mengembalikan butiran peringkat lesen (nombor kebenaran, nama produk, bentuk dos, atau teks indikasi yang diluluskan) daripada pertanyaan NPRA — bidang ini memerlukan pertanyaan susulan.
+Empagliflozin pada masa ini tidak dipasarkan di Malaysia dan tiada pendaftaran (0 lesen) dalam data yang dikumpulkan untuk laporan ini.
+
+---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
+- **Interaksi Ubat**: Sebanyak 100 interaksi dikenal pasti, dan 20 yang pertama disenaraikan dalam data. Kebanyakannya bertahap **Sederhana (Moderate)**, dan sebahagian kecil bertahap **Ringan (Minor)**. Contoh utama:
+  - **Sederhana**: fenilefrina, asebutolol, asetazolamida, formoterol, pseudoefedrina, nifedipina, epinefrina, etinilestradiol, hidrokortison, salbutamol, etanol, fosamprenavir, fosinopril, fosfenitoin, fostamatinib, fostemsavir, furosemid, gemifloksasin
+  - **Ringan**: hidrokortison (topikal), alklometason (topikal)
+
+Maklumat amaran utama dan kontraindikasi daripada sisipan pembungkusan tidak tersedia. Sila rujuk sisipan pembungkusan untuk maklumat keselamatan lanjut.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
-**Rasional:**
-Ketiga-tiga calon berpangkat teratas adalah L5 (ramalan model sahaja) dengan sifar percubaan dan kesusasteraan yang menyokong, dan analisis mekanistik pakej sendiri tidak mendapati pautan biologi yang munasabah antara perencatan SGLT2 dan mana-mana daripada tiga penyakit yang diramalkan. Digabungkan dengan jurang data yang menyekat pada amaran label TFDA/NPRA (DG001), tidak ada asas untuk memajukan calon ini melepasi S0.
+**Justifikasi:**
+- Ramalan ini hanyalah ramalan model (L5) tanpa sebarang percubaan klinikal atau literatur, dan tiada hubungan mekanistik yang munasabah antara perencatan SGLT2 dengan patologi neuroimunologi sindrom anggota kaku fokal. Selain itu, ubat ini tidak dipasarkan di Malaysia.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Label TFDA/NPRA (amaran, kontraindikasi) — pada masa ini menyekat, diperlukan sebelum sebarang penyaringan keselamatan S1
-- Teks indikasi asal yang disahkan daripada rekod lesen Malaysia
-- MOA yang disahkan daripada API DrugBank (bidang MOA semasa adalah jurang data)
-- Rasional mekanistik atau praklinikal bebas untuk mana-mana calon sebelum melakukan sumber penilaian lanjutan
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) terperinci bagi empagliflozin
+- Amaran dan kontraindikasi daripada sisipan pembungkusan NPRA (jurang data yang menghalang penyaringan keselamatan)
+- Bukti praklinikal atau mekanistik yang menghubungkan perencatan SGLT2 dengan laluan GABAergik/glisinergik atau autoimuniti anti-GAD65
+- Laporan kes, kajian praklinikal atau pendaftaran percubaan klinikal yang berkaitan, sebelum sebarang penilaian lanjut
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

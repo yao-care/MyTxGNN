@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Albendazole
-parent: Medium Evidence (L3)
-nav_order: 35
-evidence_level: L3
+parent: Low Evidence (L4-L5)
+nav_order: 36
+evidence_level: L5
 indication_count: 5
 ---
 
 # Albendazole
 {: .fs-9 }
 
-Tahap bukti: **L3** | Indikasi diramal: **5** 
+Tahap bukti: **L5** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,101 +29,122 @@ Tahap bukti: **L3** | Indikasi diramal: **5**
 
 </div>
 
-# Albendazole: Daripada Jangkitan Cacing Usus hingga Penyakit Jangkitan Echinococcus granulosus
+# Albendazole: Daripada Ekinokokosis Sista kepada Ekinokokosis Sista (Indikasi Asal Disahkan) dan Sistiserkosis
+
+> **Nota penting:** Semua indikasi yang diramalkan oleh model untuk ubat ini ialah indikasi asalnya (ekinokokosis sista, jangkitan *Echinococcus granulosus* dan sistiserkosis). Laporan ini oleh itu menilai sejauh mana bukti sedia ada menyokong penggunaan sedia ada, dan bukan penemuan indikasi baharu yang sebenar. Skor ramalan TxGNN dalam data yang dikompil ialah 0.0 bagi semua indikasi, jadi tidak boleh ditafsirkan sebagai ukuran keyakinan.
+
+---
 
 ## Ringkasan Satu Ayat
 
-Albendazole ialah agen antelmintik spektrum luas dari kelas benzimidazol yang digunakan terutamanya untuk merawat jangkitan cacing usus dan jangkitan parasit yang menjangkau tisu.
-Model TxGNN meramalkan ia mungkin berkesan untuk **Penyakit Jangkitan Echinococcus granulosus** (penyakit kista hidatid),
-disokong oleh **1 percubaan klinikal berdaftar** dan **20 penerbitan**, termasuk beberapa ulasan sistematik yang memposisikan albendazole sebagai pilihan farmakologi piawai untuk petunjuk ini.
+Albendazole ialah ubat antihelmintik benzimidazol yang pada asalnya digunakan untuk merawat ekinokokosis sista, jangkitan *Echinococcus granulosus* dan sistiserkosis.
+Model TxGNN meramalkan indikasi **ekinokokosis sista** (kedudukan teratas) serta **sistiserkosis**, yang kesemuanya ialah indikasi asal.
+Bagi sistiserkosis terdapat **10 ujian klinikal** dan **20 penerbitan**, manakala bagi ekinokokosis tiada ujian klinikal berdaftar tetapi terdapat **18-20 penerbitan** bagi setiap indikasi.
 
 ---
 
-## Gambaran Keseluruhan Cepat
+## Gambaran Keseluruhan Pantas
 
 | Item | Kandungan |
-|------|----------|
-| Petunjuk Asal | Antiparasit — agen antelmintik spektrum luas untuk jangkitan cacing usus dan tisu |
-| Petunjuk Baru Diramalkan | Penyakit Jangkitan Echinococcus granulosus (Echinococcosis Kistik / Penyakit Hidatid) |
-| Skor Ramalan TxGNN | Tidak tersedia (skor mentah: 0.0 — pengekstrakan skor belum selesai) |
-| Tahap Bukti | L3 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Jumlah Pendaftaran | 29 |
-| Keputusan yang Disyorkan | Teruskan Bersyarat |
+|------|------|
+| Indikasi Asal | Ekinokokosis sista, sistiserkosis, jangkitan *Echinococcus granulosus* (daripada graf pengetahuan PrimeKG; tiada teks indikasi berlesen) |
+| Indikasi Baharu yang Diramalkan | Jangkitan *Echinococcus granulosus* (kedudukan 1); ekinokokosis sista (kedudukan 2 dan 5); sistiserkosis (kedudukan 3) |
+| Skor Ramalan TxGNN | 0.00% |
+| Tahap Bukti | Sistiserkosis: L1; jangkitan *E. granulosus*: L3; ekinokokosis sista: L4 |
+| Status Pasaran di Malaysia | Tidak dipasarkan (menurut data NPRA yang dikompil) |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
 
 ---
 
-## Mengapa Ramalan Ini Masuk Akal?
+## Mengapa Ramalan Ini Munasabah?
 
-Albendazole tergolong dalam kelas antelmintik benzimidazol. Mekanisme kerjanya melibatkan pengikatan selektif kepada β-tubulin parasit, menghambat polimerisasi menjadi mikrotubul berfungsi. Ini mengganggu seni bina sitoskeleton parasit, menghalang pengangkutan glukosa intrasel dan metabolisme tenaga, dan akhirnya membawa kepada pelumpuran parasit dan kematian. Metabolit aktif farmakologi — albendazole sulphoxide (ABZ-SO) — dijana melalui metabolisme first-pass hepatik dan bertanggungjawab untuk aktiviti antiparasit sistemik. (Nota: data MOA terperinci dari DrugBank telah ditandai sebagai jurang data dan menunggu pengambilan.)
+Data mekanisme tindakan (MOA) tidak tersedia dalam data yang dikompil. Berdasarkan farmakologi am, albendazole dan metabolit aktifnya, albendazole sulfoksida, mengikat beta-tubulin parasit dan menghalang pempolimeran mikrotubul. Ini mengganggu pengambilan glukosa dan metabolisme tenaga larva, lalu menyebabkan degenerasi sista. Mekanisme yang sama terpakai pada larva *Echinococcus granulosus* dan *Taenia solium*.
 
-*Echinococcus granulosus* ialah cacing pita (cestode) yang menyebabkan echinococcosis kistik pada manusia, terutamanya menjejaskan hati dan paru-paru. Kebergantungan parasit terhadap pembahagian sel berasaskan tubulin dan integriti sitoskeleton menjadikannya sasaran yang munasabah secara biologi bagi ubat benzimidazol. Beberapa kajian farmakokinetik telah mengesahkan bahawa ABZ-SO menembusi ke dalam kista hidatid, di mana ia menjalankan kesan parasitistik — memperlahankan perkembangan kista dan mengurangkan daya hidup parasit. Walaupun albendazole tidak secara konsisten mencapai aktiviti parasitisida lengkap (terutamanya dalam kista besar atau terkalsifikasi), ia tetap menjadi satu-satunya terapi perubatan yang tersedia secara meluas dan disokong garis panduan untuk penyakit ini.
+Ketiga-tiga penyakit ialah jangkitan larva cestoda yang membentuk sista dalam tisu manusia, dan ketiga-tiganya disenaraikan sebagai indikasi asal ubat ini. Maka ramalan ini ialah pengesahan penggunaan sedia ada, bukan pengalihan guna (repurposing). Satu kajian 2024 (PMID 39195613) mencadangkan isyarat reseptor tirosin kinase sebagai sasaran perumah-parasit tambahan, tetapi ini masih bersifat penerokaan.
 
-Ramalan graf pengetahuan TxGNN sangat konsisten dengan amalan klinikal yang ditubuhkan: garis panduan WHO dan konsensus pakar antarabangsa telah mengiktiraf albendazole sebagai agen farmakologi lini pertama untuk echinococcosis kistik, digunakan sama ada sebagai terapi monofarmakal untuk kes yang tidak boleh dioperasi atau sebagai rawatan penyerta perioperatif. Oleh itu, ramalan ini berfungsi sebagai isyarat pengesahan mekanik dan tahap bukti, mengesahkan bahawa graf pengetahuan menangkap hubungan ubat–penyakit dengan betul. Peluang repurposing utama dalam konteks Malaysia berkaitan dengan sama ada label produk tempatan secara formal merangkumi petunjuk ini — satu titik yang memerlukan pengesahan label.
-
----
-
-## Bukti Percubaan Klinikal
-
-| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
-|-------------|-------|--------|------------|--------------|
-| [NCT05824442](https://clinicaltrials.gov/study/NCT05824442) | N/A | Merekrut | 43 | Menilai teknik qPCR multiplex baru untuk diagnosis echinococcosis; albendazole disebut sebagai ubat benzimidazol piawai untuk echinococcosis kistik (CE) bersama pembedahan, dinyatakan sebagai parasitistik sahaja |
+Perlu diingat bahawa tahap bukti L3/L4 bagi ekinokokosis hanya mencerminkan data yang dibekalkan (ulasan dan siri rawatan, tanpa ujian berdaftar). Ini berkemungkinan memandang rendah sokongan sebenar, kerana konsensus pakar WHO-IWGE (PMID 19931502) mengesyorkan albendazole.
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Ujian Klinikal
+
+Tiada ujian klinikal berdaftar bagi ekinokokosis sista dan jangkitan *E. granulosus*. Jadual di bawah ialah bagi **sistiserkosis**:
+
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
+|---------|------|------|------|---------|
+| [NCT02243644](https://clinicaltrials.gov/study/NCT02243644) | Fasa 3 | Selesai | 97 | Perbandingan dua tempoh albendazole dalam neurosistiserkosis (≤5 lesi pada CT) pada bulan ke-6 |
+| [NCT00441285](https://clinicaltrials.gov/study/NCT00441285) | Fasa 2/3 | Selesai | 156 | Keselamatan dan keberkesanan rawatan gabungan praziquantel dan albendazole |
+| [NCT00283699](https://clinicaltrials.gov/study/NCT00283699) | Fasa 3 | Selesai | 178 | Kajian perintis: albendazole berbanding rawatan simptomatik dalam neurosistiserkosis |
+| [NCT00004403](https://clinicaltrials.gov/study/NCT00004403) | Tidak berkenaan | Selesai | 120 | Kesan albendazole ke atas epilepsi akibat neurosistiserkosis |
+| [NCT00290823](https://clinicaltrials.gov/study/NCT00290823) | Fasa 3 | Selesai | 110 | Dos kortikosteroid dipertingkat semasa rawatan neurosistiserkosis intraparenkima (maklumat kawalan keselamatan; bukan ujian keberkesanan albendazole) |
+| [NCT02947581](https://clinicaltrials.gov/study/NCT02947581) | Fasa 3 | Ditamatkan | 107 | Albendazole + praziquantel berbanding albendazole sahaja dalam sistiserkosis subaraknoid; ditamatkan awal |
+| [NCT06376396](https://clinicaltrials.gov/study/NCT06376396) | Fasa 4 | Belum merekrut | 300 | Praziquantel + albendazole berbanding albendazole sahaja (Tanzania dan Zambia) |
+| [NCT06565507](https://clinicaltrials.gov/study/NCT06565507) | Fasa 2/3 | Belum merekrut | 544 | Rejimen oxfendazole; albendazole paling banyak sebagai pembanding |
+| [NCT00133458](https://clinicaltrials.gov/study/NCT00133458) | Fasa 3 | Ditarik balik | 0 | Dua tempoh albendazole dalam sistiserkosis subaraknoid; tiada data |
+| [NCT03950037](https://clinicaltrials.gov/study/NCT03950037) | Fasa 2 | Ditarik balik | 0 | Intervensi awal dalam penyakit tanpa gejala; tiada data |
+
+---
+
+## Bukti Literatur
+
+### Ekinokokosis (sista dan jangkitan *E. granulosus*)
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|------|------|---------|--------------|
-| [30760475](https://pubmed.ncbi.nlm.nih.gov/30760475/) | 2019 | Ulasan | Clinical Microbiology Reviews | Ulasan komprehensif keadaan terkini echinococcosis; mengesahkan albendazole sebagai rawatan farmakologi penjuru untuk CE dan echinococcosis alveolar (AE) |
-| [27085708](https://pubmed.ncbi.nlm.nih.gov/27085708/) | 2016 | Ulasan Sistematik | Parasitology Research | Meta-analisis data pesakit individu kepekatan ABZ-SO intra-kista; menunjukkan penembusan ubat ke dalam kista hidatid dan mengenal pasti saiz kista dan lokasi sebagai penentu pendedahan utama |
-| [29976137](https://pubmed.ncbi.nlm.nih.gov/29976137/) | 2018 | Ulasan Sistematik & Meta-analisis | BMC Infectious Diseases | Ulasan sistematik pilihan rawatan perubatan untuk CE; menganalisis data keberkesanan merentas empat modaliti rawatan; menyoroti albendazole sebagai tulang belakang farmakologi utama walaupun kadar tindak balas berubah-ubah |
-| [2256768](https://pubmed.ncbi.nlm.nih.gov/2256768/) | 1990 | Siri Klinikal | Annals of Tropical Medicine and Parasitology | Kajian pelopor merawat 50 pesakit dengan kista hidatid (105 kista keseluruhan) dengan albendazole 10–12 mg/kg/hari selama 3 bulan; 4 sembuh, 31 bertambah baik; kesan sampingan tidak serius |
-| [24778101](https://pubmed.ncbi.nlm.nih.gov/24778101/) | 2014 | Kajian Klinikal | Croatian Medical Journal | Kepekatan plasma dan ABZ-SO intra-kista disiasat dalam pesakit hidatidosis hati; pendedahan ubat dalam cecair kista meramalkan tindak balas parasitologi dan berulang penyakit |
-| [36384195](https://pubmed.ncbi.nlm.nih.gov/36384195/) | 2022 | Kajian In Vitro | Experimental Parasitology | Pembawa nano albendazole yang diisi β-cyclodextrin menunjukkan aktiviti protoscolicidal yang dipertingkatkan terhadap *E. granulosus* s.s. berbanding dengan formulasi piawai; menangani batasan ketersediaan oral yang lemah |
-| [31586448](https://pubmed.ncbi.nlm.nih.gov/31586448/) | 2020 | Kajian Haiwan | Acta Tropica | Kombinasi sitokina IL-12 + IFN-γ dengan albendazole menunjukkan keberkesanan unggul untuk profilaksis dan rawatan CE dalam tikus Balb/c berbanding monofarmakal albendazole |
-| [31123477](https://pubmed.ncbi.nlm.nih.gov/31123477/) | 2019 | Kajian Makmal | Iranian Journal of Parasitology | Formulasi zarah lipid pepejal albendazole dinilai untuk kesan protoscolicidal in vitro dan in vivo; formulasi nano dengan ketara meningkatkan keberkesanan berbanding albendazole piawai |
-| [22509076](https://pubmed.ncbi.nlm.nih.gov/22509076/) | 2012 | Ulasan | World Journal of Gastroenterology | Ulasan klinikal dan terapeutik echinococcosis hepatik; menerangkan pembedahan digabungkan dengan albendazole perioperatif sebagai piawai pengurusan; membincangkan faktor prognosis |
-| [39195613](https://pubmed.ncbi.nlm.nih.gov/39195613/) | 2024 | Ulasan | Tropical Medicine and Infectious Disease | Pensinyalan reseptor tyrosine kinase sebagai sasaran terapeutik baru dalam echinococcosis hepatik; memposisikan albendazole sebagai ubat pilihan semasa sambil mengenal pasti batasan mekanik dan cabaran rintangan |
+|------|-----|------|------|---------|
+| [19931502](https://pubmed.ncbi.nlm.nih.gov/19931502/) | 2010 | Garis panduan konsensus pakar | Acta Tropica | Konsensus WHO-IWGE mengenai diagnosis, rawatan dan susulan ekinokokosis |
+| [29976137](https://pubmed.ncbi.nlm.nih.gov/29976137/) | 2018 | Kajian sistematik dan meta-analisis | BMC Infect Dis | Rawatan perubatan ekinokokosis sista; bukti bagi empat modaliti rawatan dinilai tidak mencukupi |
+| [23898558](https://pubmed.ncbi.nlm.nih.gov/23898558/) | 2013 | Kajian sistematik | Acta Gastroenterol Belg | Penglibatan hati dalam penyakit hidatid untuk pakar hepato-gastroenterologi |
+| [37593991](https://pubmed.ncbi.nlm.nih.gov/37593991/) | 2023 | Ulasan | Curr Opin Infect Dis | Pengurusan perubatan dengan benzimidazol, dengan praziquantel dalam keadaan tertentu |
+| [2256768](https://pubmed.ncbi.nlm.nih.gov/2256768/) | 1990 | Siri rawatan klinikal | Ann Trop Med Parasitol | 50 pesakit, albendazole 10-12 mg/kg/hari selama 3 bulan; kesan sampingan tidak teruk, sebahagian sembuh atau bertambah baik |
+| [27589236](https://pubmed.ncbi.nlm.nih.gov/27589236/) | 2016 | Kohort pediatrik | PLoS One | Albendazole dalam ekinokokosis sista abdomen pada kanak-kanak |
+| [37466820](https://pubmed.ncbi.nlm.nih.gov/37466820/) | 2023 | Siri kes | Acta Parasitol | Monoterapi albendazole pada kanak-kanak dengan ekinokokosis sista |
+| [39060987](https://pubmed.ncbi.nlm.nih.gov/39060987/) | 2024 | Kajian susulan | BMC Infect Dis | Albendazole dan praziquantel dalam ekinokokosis sista bergejala di Uruguay |
+| [30760475](https://pubmed.ncbi.nlm.nih.gov/30760475/) | 2019 | Ulasan | Clin Microbiol Rev | Kemajuan abad ke-21 dalam genetik, diagnosis dan rawatan ekinokokosis |
+| [39195613](https://pubmed.ncbi.nlm.nih.gov/39195613/) | 2024 | Kajian praklinikal/mekanistik | Trop Med Infect Dis | Isyarat reseptor tirosin kinase sebagai sasaran berpotensi; albendazole ialah ubat pilihan utama |
+
+### Sistiserkosis
+
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [30366559](https://pubmed.ncbi.nlm.nih.gov/30366559/) | 2018 | Ulasan | Neurol Clin | Diagnosis dan terapi bergantung pada jenis, lokasi dan peringkat lesi |
+| [30095486](https://pubmed.ncbi.nlm.nih.gov/30095486/) | 2018 | Ulasan | Curr Opin Infect Dis | Perkembangan terkini dan garis panduan pengurusan neurosistiserkosis |
+| [15853623](https://pubmed.ncbi.nlm.nih.gov/15853623/) | 2004 | Ulasan terapi | Expert Rev Neurother | Albendazole ubat pilihan untuk pesakit bergejala dengan pelbagai sista viable dalam parenkima otak |
+| [24365429](https://pubmed.ncbi.nlm.nih.gov/24365429/) | 2014 | Ulasan | Handb Clin Neurol | Neurosistiserkosis: punca utama epilepsi didapati di seluruh dunia |
+| [23829921](https://pubmed.ncbi.nlm.nih.gov/23829921/) | 2013 | Ulasan | Handb Clin Neurol | Epidemiologi dan pengurusan, termasuk di Asia |
 
 ---
 
-## Maklumat Pasaran Malaysia
+## Maklumat Pasaran di Malaysia
 
-Evidence Pack telah mendapatkan **29 pendaftaran aktif** daripada pangkalan data NPRA Malaysia untuk Albendazole. Bagaimanapun, maklumat terperinci peringkat produk — termasuk nama produk, bentuk dos, pengilang, dan teks petunjuk yang diluluskan — tidak tersedia dalam ekstrak data semasa (semua medan mengembalikan kosong).
-
-**Tindakan diperlukan:** Sila pertanyakan daftar produk NPRA secara langsung di [https://www.npra.gov.my](https://www.npra.gov.my) untuk mendapatkan butiran kebenaran individu untuk 29 produk Albendazole berdaftar, dan untuk mengesahkan sama ada echinococcosis/penyakit hidatid disenaraikan sebagai petunjuk yang diluluskan dalam label produk Malaysia.
+Menurut data NPRA yang dikompil, albendazole **tidak dipasarkan** dan tiada pendaftaran (0 lesen) ditemui. Oleh itu tiada maklumat produk untuk dipaparkan.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
+- **Penyakit/keadaan yang dikaitkan dengan kontraindikasi dalam graf pengetahuan (bukan teks label):** penyakit hati, penyakit pundi hempedu, neutropenia, agranulositosis, anemia (termasuk anemia makrositik), pansitopenia, anemia aplastik idiopatik dan anemia aplastik.
+- **Interaksi Ubat:** Sejumlah **96** interaksi direkodkan (sumber DDInter). Contoh interaksi **sederhana**: aprepitant, cobicistat, deferasirox, iodida I-123 dan I-131, fostamatinib, abametapir (topikal), alemtuzumab, amprenavir, anagrelide, apalutamide, bendamustine, bexarotene, binimetinib, boceprevir dan bosentan. Contoh interaksi **minor**: cimetidine, dexamethasone, lidocaine dan armodafinil.
+- **Langkah kawalan yang dicadangkan:** pantau fungsi hati dan kiraan darah; beri perlindungan antiradang (kortikosteroid) semasa rawatan neurosistiserkosis; sahkan lokasi dan daya hidup sista melalui pengimejan; berhati-hati dalam penyakit subaraknoid atau intraventrikel; sediakan perlindungan perioperatif jika sista mungkin pecah; pilih rawatan ekinokokosis mengikut peringkat sista WHO; berikan kaunseling mengenai kontraseptif.
 
-> **Nota:** Amaran keselamatan, kontraindikasi, dan data interaksi ubat tidak diambil dalam Evidence Pack ini. Ini telah ditandai sebagai **jurang data penyekat (DG001)** — penyelesaian memerlukan muat turun label produk Malaysia rasmi daripada tapak web NPRA. Sehingga ini diselesaikan, pemeriksaan keselamatan awal formal untuk petunjuk ini tidak dapat diselesaikan.
+Amaran utama dan kontraindikasi daripada sisipan pakej NPRA tidak tersedia. Sila rujuk sisipan pakej untuk maklumat keselamatan lengkap.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Teruskan Bersyarat**
+**Keputusan: Proceed with Guardrails (Teruskan dengan Langkah Kawalan)**
 
-**Rasional:**
-Albendazole telah didaftarkan dan dipasarkan di Malaysia dengan 29 lesen aktif, dan asas bukti global — termasuk garis panduan WHO, beberapa ulasan sistematik, dan beberapa dekad pengalaman klinikal — dengan kuat menyokong penggunaannya sebagai rawatan farmakologi lini pertama untuk echinococcosis kistik yang disebabkan oleh *E. granulosus*. Ramalan model TxGNN secara langsung konsisten dengan bukti yang ditubuhkan ini, mengesahkan kebolehjadian mekanik yang kuat. Soalan utama yang tertunggak ialah sama ada petunjuk ini telah diluluskan secara formal pada label produk Malaysia, bukannya sama ada ubat itu berkesan.
+**Justifikasi:**
+- Albendazole sudah mempunyai kedudukan mantap untuk ketiga-tiga indikasi, dan sokongan terkuat ialah bagi sistiserkosis (beberapa ujian Fasa 3 dan Fasa 2/3 selesai, L1). Bagi ekinokokosis, bukti yang dibekalkan hanya konsensus, ulasan dan siri rawatan (L3-L4), tanpa ujian berdaftar.
+- Penemuan ini ialah pengesahan indikasi asal, bukan penemuan indikasi baharu. Ubat ini tidak berdaftar di Malaysia, dan skor TxGNN 0.0 tidak memberi maklumat tambahan.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-
-- **[Penyekat — DG001]** Dapatkan semua 29 label produk Malaysia (sisipan pakej) daripada tapak web NPRA untuk mengesahkan petunjuk yang kini diluluskan, kontraindikasi, dan amaran
-- **[Tinggi — DG002]** Dapatkan data MOA lengkap daripada DrugBank (DB00518) untuk mendokumentasikan secara formal mekanisme pengikatan tubulin untuk dossier kawal selia
-- Dapatkan rekod lesen NPRA terperinci (nama produk, bentuk dos, pengilang) untuk 29 produk Albendazole berdaftar
-- Sahkan sama ada echinococcosis / penyakit hidatid sudah menjadi petunjuk yang diluluskan dalam label produk Malaysia yang sedia ada; jika ya, ini adalah pengesahan label daripada aplikasi repurposing baru
-- Jika petunjuk tidak diluluskan pada peringkat tempatan, sediakan permohonan sambungan label yang disokong oleh garis panduan rawatan WHO dan data ulasan sistematik yang tersedia
-- Jelaskan isu pengekstrakan skor ramalan TxGNN (semua skor mengembalikan sebagai 0.0) untuk memastikan pemeringkatan yang betul dan penentukuran keyakinan untuk pengambilan keputusan seterusnya
-
----
-
-> ⚠️ **Penafian:** Laporan ini adalah untuk tujuan rujukan penyelidikan sahaja dan tidak membentuk nasihat perubatan. Calon repurposing ubat memerlukan pengesahan klinikal sebelum aplikasi terapeutik.
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisipan pakej NPRA (amaran dan kontraindikasi) bagi menyelesaikan jurang keselamatan yang menghalang saringan keselamatan.
+- Data mekanisme tindakan terperinci daripada DrugBank.
+- Penjelasan status pendaftaran di Malaysia (sama ada tiada produk berdaftar atau data belum lengkap) dan laluan akses jika perlu.
+- Pelan pemantauan keselamatan (fungsi hati, kiraan darah, kontraseptif) dan protokol rawatan mengikut peringkat sista.
+- Semakan manual terhadap kajian utama, memandangkan kebanyakan kajian ekinokokosis dan sistiserkosis masih belum dinilai kerelevanannya.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

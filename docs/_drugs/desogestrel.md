@@ -2,7 +2,7 @@
 layout: default
 title: Desogestrel
 parent: Low Evidence (L4-L5)
-nav_order: 260
+nav_order: 266
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,61 +29,132 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Desogestrel: Daripada Pencegahan Konsepsi kepada Penyakit Fibrokistik Payudara
+# Desogestrel: Daripada Indikasi Asal (Tiada Data) kepada Penyakit Fibrosistik Payudara
 
 ## Ringkasan Satu Ayat
 
-Desogestrel ialah progestin yang paling banyak digunakan di seluruh dunia sebagai kontraseptif oral hanya progestin ("mini-pill"). Model TxGNN meramalkan ia mungkin berkesan untuk **Penyakit Fibrokistik Payudara**, tetapi pautan spesifik ini kini disokong oleh **0 ujian klinikal** dan **0 penerbitan** — ia berdasarkan skor model semata-mata.
+Desogestrel ialah progestin generasi baharu yang lazim digunakan dalam kontrasepsi hormon. Namun, data indikasi asal daripada lesen tempatan tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
+Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit fibrosistik payudara** (skor 99.96%), tetapi **tiada sebarang percubaan klinikal atau penerbitan** menyokong indikasi ini setakat ini. Antara 10 ramalan teratas, **jerawat (acne)** mempunyai bukti paling kukuh (1 percubaan klinikal Fasa 4 dan banyak penerbitan, namun kebanyakannya melibatkan produk kombinasi).
 
-## Gambaran Ringkas
+---
 
-| Item | Kandungan |
-|------|----------|
-| Petunjuk Asal | Tidak dinyatakan dalam rekod pendaftaran Malaysia yang tersedia dalam pakej bukti ini (Desogestrel diluluskan secara antarabangsa sebagai kontraseptif oral hanya progestin) |
-| Petunjuk Baru yang Diramal | Penyakit Fibrokistik Payudara |
+## Gambaran Keseluruhan Pantas
+
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Tiada data lesen tempatan |
+| Indikasi Baharu yang Diramalkan | Penyakit fibrosistik payudara (breast fibrocystic disease) |
 | Skor Ramalan TxGNN | 99.96% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 11 |
-| Keputusan yang Disyorkan | Tahan |
+| Status Pasaran di Malaysia | Tidak dipasarkan (tiada pendaftaran NPRA dalam data) |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (Tahan) |
 
-## Mengapa Ramalan Ini Bermutu Baik?
+**Nota:** Calon peringkat teratas (rank 1) hanyalah ramalan model. Untuk perbandingan, calon lain dalam senarai ramalan diringkaskan di bawah.
 
-Pada masa kini, data mekanisme tindakan terperinci tidak tersedia. Berdasarkan farmakologi yang diketahui, desogestrel ialah progestin generasi ketiga (suatu prohormone yang dimetabolisma kepada bentuk aktifnya, etonogestrel), yang paling terbukti sebagai kontraseptif oral hanya progestin. Keberkesanan kontraseptifnya sudah terbukti dengan baik, bekerja terutamanya melalui penindasan paksi hipotalamus-hipofisis-ovari, perencatan ovulasi, dan pengubahan mucus serviks dan reseptiviti endometrium.
+| Kedudukan | Indikasi Diramalkan | Skor TxGNN | Tahap Bukti | Syor |
+|------|------|------|------|------|
+| 1 | Penyakit fibrosistik payudara | 99.96% | L5 | Hold |
+| 2 | Amenorea | 99.96% | L4 | Persoalan penyelidikan |
+| 3 | Adenosis apokrin payudara | 99.92% | L5 | Hold |
+| 4 | Adenosis duktus tumpul payudara | 99.92% | L5 | Hold |
+| 5 | Displasia mamari benigna | 99.92% | L5 | Hold |
+| 6 | Jerawat (acne) | 99.91% | L3 | Persoalan penyelidikan |
+| 7 | Abses payudara | 99.89% | L5 | Hold |
+| 8 | Nekrosis lemak payudara | 99.89% | L5 | Hold |
+| 9 | Penyakit laktasi | 99.87% | L4 | Hold |
+| 10 | Adenosis payudara | 99.85% | L5 | Hold |
 
-Untuk ramalan tertinggi, Penyakit Fibrokistik Payudara, skor TxGNN sangat tinggi (99.96%), tetapi tiada bukti ujian klinikal atau kesusasteraan diperolehi untuk pasangan ubat-penyakit spesifik ini. Corak skor tinggi tanpa bukti sokongan apa pun dikongsi oleh beberapa ramalan berkaitan payudara yang lain dalam pakej bukti ini (apokrin adenosis, blunt duct adenosis, abses payudara, fat necrosis payudara, adenosis payudara) — semuanya dinilai pada L5/Tahan. Pakej bukti ini mengandungi satu isyarat tidak langsung yang lebih lemah: satu artikel tahap ulasan yang menyentuh "benign mammary dysplasia" (pangkat 5, L4) dalam konteks penggunaan kontraseptif oral, yang mencadangkan kontraseptif hormon telah dikaji untuk kesan tisu payudara umum, tetapi ini tidak merupakan mekanisme terapi yang disahkan untuk penyakit fibrokistik secara khusus.
+---
 
-Sebaliknya, calon lain dalam set ramalan yang sama untuk desogestrel — amenorrhea (L3) dan jerawat (L2) — berlabuh dalam fenomena sebenar yang koheren mekanistik: penindasan paksi reproduktif didorong progestin dan modulasi androgen adalah kesan yang diketahui, didokumentasikan bagi rejimen yang mengandungi desogestrel. Penyakit Fibrokistik Payudara tidak mempunyai sauh mekanistik setanding dalam data yang diberikan, jadi pada peringkat ini ramalan harus dianggap sebagai isyarat penjanaan hipotesis sahaja, bukan calon penyusunan semula yang disokong mekanistik.
+## Mengapa Ramalan Ini Munasabah?
 
-## Bukti Ujian Klinikal
+Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, desogestrel ialah progestin yang digunakan dalam kontrasepsi hormon, dan secara mekanistik mungkin berkaitan dengan keadaan payudara yang dipacu oleh estrogen.
 
-Kini tiada ujian klinikal berkaitan terdaftar
+Untuk penyakit fibrosistik payudara, hipotesisnya ialah progestin boleh mengimbangi percambahan tisu payudara yang dipacu estrogen. Namun, tiada percubaan atau penerbitan yang menguji desogestrel untuk keadaan ini. Skor tinggi kemungkinan besar didorong oleh kedekatan rangkaian dengan agen hormon lain dan **bukan bukti klinikal**. Perkara yang sama terpakai kepada adenosis apokrin, adenosis duktus tumpul dan adenosis payudara: skor yang sama bagi sesetengahnya menunjukkan ramalan datang daripada nod ontologi yang dikongsi.
 
-## Bukti Kesusasteraan
+Antara semua calon, **jerawat** mempunyai asas mekanistik paling munasabah. Desogestrel berandrogenisiti rendah; apabila digabungkan dengan etinilestradiol, ia meningkatkan SHBG dan menurunkan testosteron bebas, lalu mengurangkan penghasilan sebum. Namun bukti ini adalah untuk produk kombinasi, jadi kesan desogestrel secara bersendirian tidak dapat diasingkan. Bagi **amenorea**, arahnya kabur: desogestrel boleh menyebabkan amenorea sebagai kesan sampingan kontraseptif, dan bukti sedia ada hanya berkaitan pengurusan kesan amenorea (perlindungan tulang), bukan rawatan penyakit itu.
 
-Kini tiada kesusasteraan berkaitan tersedia
+---
 
-## Maklumat Pasaran Malaysia
+## Bukti Percubaan Klinikal
 
-Rekod NPRA mengesahkan 11 pendaftaran aktif untuk desogestrel dan status "Dipasarkan", tetapi rekod kebenaran terperinci (nombor lesen, nama produk, bentuk dos, dan teks petunjuk yang diluluskan) tidak dikembalikan dalam pakej bukti ini dan tidak dapat dijadualkan pada masa kini.
+Untuk indikasi teratas (penyakit fibrosistik payudara): Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
 
-## Pertimbangan Keselamatan
+Percubaan klinikal bagi calon lain (rujukan):
 
-Sila rujuk sisipan bungkusan untuk maklumat keselamatan.
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
+|---------|------|------|------|---------|
+| [NCT00946192](https://clinicaltrials.gov/study/NCT00946192) | Fasa 3 | Selesai | 121 | Modulasi fungsi reproduktif dan endokrin oleh lemak pada atlet muda (amenorea atletik); estrogen transdermal/oral berbanding tiada estrogen untuk ketumpatan tulang. Desogestrel bukan intervensi yang dinyatakan (gred relevan C). |
+| [NCT01466673](https://clinicaltrials.gov/study/NCT01466673) | Fasa 4 | Selesai | 201 | Perbandingan kontraseptif oral trifasik norgestimat dengan bifasik desogestrel untuk jerawat ringan hingga sederhana. Desogestrel bukan ubat kajian utama (gred relevan C); sokongan hanya pada tahap kelas. |
+
+---
+
+## Bukti Literatur
+
+Untuk indikasi teratas (penyakit fibrosistik payudara): Pada masa ini tiada literatur berkaitan.
+
+Literatur terpilih bagi calon lain (rujukan; keutamaan kajian perbandingan/klinikal dan kajian semula):
+
+**Jerawat**
+
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [8894800](https://pubmed.ncbi.nlm.nih.gov/8894800/) | 1996 | Kajian klinikal perbandingan | Int J Fertil Menopausal Stud | Kesan dua kontraseptif oral (desogestrel berbanding siproteron asetat) terhadap jerawat pada wanita Asia |
+| [8689881](https://pubmed.ncbi.nlm.nih.gov/8689881/) | 1996 | Kajian klinikal perbandingan | Contraception | Etinilestradiol dengan gestoden atau desogestrel pada wanita muda dengan jerawat vulgaris; kesan klinikal dan hormon (n=19) |
+| [6084924](https://pubmed.ncbi.nlm.nih.gov/6084924/) | 1984 | Kajian klinikal | Acta Derm Venereol | Testosteron serum dan SHBG pada pesakit jerawat wanita yang dirawat dengan dua kontraseptif oral |
+| [7825629](https://pubmed.ncbi.nlm.nih.gov/7825629/) | 1995 | Kajian semula | Am J Med | Androgenisiti progestin |
+| [8520092](https://pubmed.ncbi.nlm.nih.gov/8520092/) | 1995 | Kajian semula | Ann Pharmacother | Perbandingan progestin baharu (desogestrel, norgestimat, gestoden) |
+| [12566804](https://pubmed.ncbi.nlm.nih.gov/12566804/) | 2003 | Kajian semula | Dermatology | Kemas kini rawatan jerawat sistemik |
+
+**Amenorea**
+
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [11725730](https://pubmed.ncbi.nlm.nih.gov/11725730/) | 2001 | Kohort | J Reprod Med | Ketumpatan mineral tulang pada wanita muda oligoamenorea hipotalamus yang dirawat dengan kontraseptif oral |
+| [8447356](https://pubmed.ncbi.nlm.nih.gov/8447356/) | 1993 | Kajian semula | Am J Obstet Gynecol | Profil toleransi desogestrel/etinilestradiol dan manfaat bukan kontraseptif |
+| [3161265](https://pubmed.ncbi.nlm.nih.gov/3161265/) | 1985 | Kajian farmakodinamik | Acta Obstet Gynecol Scand Suppl | Androgenisiti desogestrel secara bersendirian dan bersama etinilestradiol |
+
+**Penyakit laktasi**
+
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [19323063](https://pubmed.ncbi.nlm.nih.gov/19323063/) | 2009 | Kenyataan pakar | Ginekol Pol | Penggunaan mini-pil desogestrel 75 µg dalam pelbagai situasi klinikal; berkaitan keserasian dengan penyusuan, bukan rawatan penyakit laktasi |
+
+Bagi displasia mamari benigna, satu-satunya rencana yang diperoleh (PMID 3659796, 1987, ulasan umum kontrasepsi) bukan bukti klinikal untuk indikasi ini.
+
+---
+
+## Keselamatan
+
+- **Interaksi Ubat**: Pangkalan data menemui **43 interaksi** (ditunjukkan 20 pertama; semuanya tahap **Sederhana**). Kebanyakannya melibatkan ubat antidiabetik, kerana hormon boleh mengubah kawalan glukosa:
+  - Insulin (aspart, degludec, detemir, glulisine, lispro, manusia/zink)
+  - Agonis GLP-1 (albiglutide, liraglutide, lixisenatide)
+  - Perencat DPP-4 (alogliptin, linagliptin)
+  - Perencat SGLT2 (dapagliflozin, ertugliflozin)
+  - Metformin, nateglinide, rosiglitazone, metreleptin
+  - Lain-lain: aprepitant, glycerol phenylbutyrate
+
+- Satu kajian kohort (PMID 10652979) mengkaji risiko tromboembolisme vena dengan kontraseptif oral kombinasi, yang relevan sebagai pertimbangan keselamatan kelas.
+
+Bagi amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold (Tahan)**
 
-**Alasan:**
-Pasangan yang diramal (Desogestrel → Penyakit Fibrokistik Payudara) tidak mempunyai ujian klinikal atau kesusasteraan sokongan dan bergantung semata-mata pada skor model TxGNN (L5), jadi ia tidak memenuhi bar untuk penilaian lanjutan pada masa kini.
+**Rasional:**
+- Indikasi teratas (penyakit fibrosistik payudara) hanyalah ramalan model (L5) tanpa percubaan atau penerbitan. Desogestrel juga tidak mempunyai pendaftaran NPRA dalam data ini, dan data keselamatan peringkat label tidak tersedia, maka penilaian keselamatan tidak dapat diteruskan.
+- Jika ingin menerokai arah lain, **jerawat** (L3) wajar dikaji sebagai persoalan penyelidikan, tetapi bukti terhad kepada produk kombinasi dengan etinilestradiol. **Amenorea** (L4) mempunyai arah indikasi yang kabur.
 
-**Untuk meneruskan, perkara berikut diperlukan:**
-- Amaran dan kontraindikasi label Malaysia (data gap DG001 yang menghalang)
-- Data mekanisme tindakan DrugBank (jurang data DG002)
-- Butir lesen produk Malaysia lengkap (nama produk, bentuk dos, teks petunjuk yang diluluskan) untuk 11 pendaftaran
-- Jika mengejar penyelidikan penyusunan semula untuk ubat ini, utamakan calon bukti lebih tinggi dalam set ramalan yang sama ini — jerawat (L2, Soalan Penyelidikan) atau amenorrhea (L3, Soalan Penyelidikan) — berbanding Penyakit Fibrokistik Payudara
-
+**Untuk diteruskan, perkara berikut diperlukan:**
+- Muat turun dan huraikan sisipan pakej NPRA untuk amaran dan kontraindikasi (jurang data yang menyekat)
+- Data mekanisme tindakan (MOA) daripada DrugBank
+- Data indikasi asal dan status pendaftaran tempatan yang disahkan
+- Untuk jerawat: percubaan terkawal yang mengasingkan kesan desogestrel daripada etinilestradiol
+- Untuk penyakit fibrosistik payudara: kajian literatur dan percubaan klinikal khusus sebelum sebarang pertimbangan lanjut
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

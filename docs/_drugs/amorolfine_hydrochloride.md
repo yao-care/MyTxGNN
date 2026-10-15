@@ -2,7 +2,7 @@
 layout: default
 title: Amorolfine Hydrochloride
 parent: Low Evidence (L4-L5)
-nav_order: 62
+nav_order: 66
 evidence_level: L5
 indication_count: 0
 ---

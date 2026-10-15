@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Erythromycin
-parent: High Evidence (L1-L2)
-nav_order: 323
-evidence_level: L2
+parent: Medium Evidence (L3)
+nav_order: 334
+evidence_level: L3
 indication_count: 5
 ---
 
 # Erythromycin
 {: .fs-9 }
 
-Tahap bukti: **L2** | Indikasi diramal: **5** 
+Tahap bukti: **L3** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,95 +29,97 @@ Tahap bukti: **L2** | Indikasi diramal: **5**
 
 </div>
 
-# Eritromisin: Dari Jangkitan Bakteria kepada Acne Vulgaris
+# Erythromycin: Daripada Jerawat kepada Jerawat (Acne) — Penilaian Semula Indikasi
 
 ## Ringkasan Satu Ayat
 
-> Eritromisin ialah antibiotik makrolid yang secara historis digunakan untuk merawat jangkitan bakteria (jangkitan saluran pernafasan, jangkitan kulit dan tisu lembut).
-> Model TxGNN meramalkan ia mungkin berkesan untuk **Acne Vulgaris**,
-> dengan **8 uji klinikal** dan **20 penerbitan** yang kini menyokong arah ini.
+Erythromycin ialah antibiotik makrolida yang pada asalnya digunakan untuk pelbagai jangkitan bakteria seperti jerawat, jangkitan telinga tengah, radang paru-paru dan batuk kokol (pertussis).
+Model TxGNN meletakkan **jerawat (acne)** sebagai indikasi teratas, tetapi jerawat sebenarnya sudah menjadi indikasi asal ubat ini, jadi ini bukan pengalihan guna (repurposing) yang sebenar.
+Bukti yang ada ialah **2 percubaan klinikal** (kedua-duanya tidak menguji erythromycin secara langsung) dan **18 penerbitan** (kebanyakannya garis panduan dan ulasan).
 
 ---
 
-## Gambaran Pantas
+## Gambaran Ringkas
 
-| Item | Kandungan |
+| Perkara | Kandungan |
 |------|------|
-| Petunjuk Asal | Tidak dinyatakan dalam ekstrak data semasa (tiada `approved_indication_text` direkodkan). Eritromisin ialah antibiotik makrolid yang mantap secara historis untuk jangkitan bakteria. |
-| Petunjuk Baru Yang Diramalkan | Acne Vulgaris |
+| Indikasi Asal | Jerawat, jangkitan telinga tengah, jangkitan streptokokus dan stafilokokus, radang paru-paru bakteria, gonorea, pertussis, uretritis, konjunktivitis dan lain-lain |
+| Indikasi Baharu yang Diramalkan | Jerawat (acne) |
 | Skor Ramalan TxGNN | 0.00% |
-| Tahap Bukti | L2 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 40 |
-| Keputusan yang Disyorkan | Tahan |
+| Tahap Bukti | L3 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
+
+Nota: skor TxGNN untuk kelima-lima ramalan dalam data ialah 0.0, yang kemungkinan besar menunjukkan nilai tidak diisi, bukan skor sebenar. Skor ini perlu disemak semula.
 
 ---
 
-## Mengapa Ramalan Ini Wajar?
+## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan yang terperinci tidak tersedia (ditandakan sebagai Jurang Data). Berdasarkan farmakologi yang diketahui, eritromisin ialah antibiotik makrolid yang merencat sintesis protein bakteria dengan mengikat subunit ribosomal 50S; secara topikal dan sistematik ia juga telah ditunjukkan untuk mengeluarkan kesan anti-radang dan anti-kemotatik neutrofil yang bebas daripada tindakannya yang antibakterial.
+Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia dalam data yang dihimpun untuk laporan ini. Berdasarkan maklumat sedia ada, erythromycin ialah makrolida yang secara umumnya mengikat subunit ribosom 50S bakteria dan merencat sintesis protein. Keberkesanannya dalam jangkitan bakteria telah lama diketahui.
 
-Acne vulgaris mempunyai komponen yang didorong oleh radang dan *Cutibacterium (Propionibacterium) acnes* yang terdokumentasi dengan baik. Aktiviti dwi antibakterial/anti-radang eritromisin adalah konsisten secara mekanis dengan patofisiologi acne, dan eritromisin topikal sebenarnya telah digunakan secara klinikal sebagai rawatan acne selama beberapa dekad (cth., akne-Mycin), walaupun penggunaannya telah berkurangan disebabkan peningkatan rintangan antimikrobial. Corak penggunaan dunia nyata yang sedia ada ini memberikan kemungkinan kepada ramalan TxGNN, walaupun skor yang disebarkan untuk calon ini dilaporkan sebagai 0.00%, yang mengehadkan berapa berat yang dapat diberikan kepada output model sahaja.
+Untuk jerawat, ubat ini (lazimnya dalam bentuk topikal, atau oral sebagai alternatif tetrasiklin) bertindak melalui aktiviti antibakteria terhadap *Cutibacterium acnes* dan kesan anti-radang. Garis panduan dan ulasan yang diperoleh meletakkan makrolida dalam pengurusan jerawat, termasuk semasa kehamilan, apabila erythromycin topikal sering disebut sebagai pilihan.
+
+Oleh kerana jerawat sudah menjadi indikasi asal, ramalan ini lebih bersifat pengesahan indikasi sedia ada daripada penemuan kegunaan baharu. Ramalan lain dalam senarai juga kebanyakannya indikasi asal. Hanya **listeriosis** merupakan calon indikasi baharu yang sebenar, tetapi bukti untuknya sangat lemah.
 
 ---
 
-## Bukti Uji Klinikal
+## Bukti Percubaan Klinikal
 
-| Nombor Uji | Fasa | Status | Pendaftaran | Penemuan Utama |
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT05629468](https://clinicaltrials.gov/study/NCT05629468) | Fasa 3 | Selesai | 75 | Keberkesanan probiotik berbanding azitromisis, dan gabungan mereka, untuk acne vulgaris |
-| [NCT03883269](https://clinicaltrials.gov/study/NCT03883269) | Fasa 4 | Merekrut | 30 | Kajian terkawal plasebo rawak bagi kesan anti-radang eritromisin topikal dan klindamisin dalam acne wajah yang meradang |
-| [NCT00841776](https://clinicaltrials.gov/study/NCT00841776) | Fasa 4 | Selesai | 54 | Keberkesanan antimikrobial perbandingan dua terapi acne topikal; menilai perkembangan rintangan mikrobial |
-| [NCT07384793](https://clinicaltrials.gov/study/NCT07384793) | Fasa 4 | Aktif, bukan perekrutan | 60 | Azitromisis sahaja berbanding azitromisis + probiotik dalam acne vulgaris ringan hingga sederhana |
-| [NCT00419848](https://clinicaltrials.gov/study/NCT00419848) | Fasa 2 | Tidak diketahui | 100 | Perbandingan keberkesanan azitromisis berbanding doksisklin dan kesan buruk dalam acne sederhana |
-| [NCT04254601](https://clinicaltrials.gov/study/NCT04254601) | T/A | Selesai | 45 | Laser merah tahap rendah berbanding UVB jalur sempit digabungkan dengan krim akne-Mycin (eritromisin) dalam acne wajah |
-| [NCT03090048](https://clinicaltrials.gov/study/NCT03090048) | Fasa Awal 1 | Tidak diketahui | 30 | Vitamin A topikal dengan/tanpa azitromisis untuk lesi acne tahan rawatan |
-| [NCT01668498](https://clinicaltrials.gov/study/NCT01668498) | Fasa 2 | Selesai | 88 | Strategi rawatan untuk ruam seperti acne yang disebabkan antibodi anti-EGFR dalam pesakit kanser kolorektal |
+| [NCT03883269](https://clinicaltrials.gov/study/NCT03883269) | Fasa 4 | Sedang merekrut | 30 | Kajian terkawal plasebo, disilang buta penilai, tentang kesan anti-radang erythromycin dan clindamycin topikal pada jerawat muka radang. Kaitan tidak dapat disahkan sepenuhnya (gred C). |
+| [NCT04254601](https://clinicaltrials.gov/study/NCT04254601) | Tidak berkenaan | Selesai | 45 | Laser aras rendah merah berbanding UVB jalur sempit untuk jerawat muka, dengan krim akne-Mycin sebagai asas. Tiada lengan erythromycin sendiri, maka tiada bukti langsung (gred C). |
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [39417892](https://pubmed.ncbi.nlm.nih.gov/39417892/) | 2024 | RCT | Archives of Dermatological Research | Kajian intervensi rawak membandingkan doksisklin oral, azitromisis, dan isotretinoin pada penanda radang (IL-17A) dalam acne |
-| [30998422](https://pubmed.ncbi.nlm.nih.gov/30998422/) | 2020 | Uji Klinikal | The Journal of Dermatological Treatment | Penilaian klinikal gel eritromisin topikal dengan/tanpa zinc asetat untuk acne vulgaris ringan hingga sederhana |
-| [38300170](https://pubmed.ncbi.nlm.nih.gov/38300170/) | 2024 | Panduan | J Am Acad Dermatol | Panduan AAD yang dikemas kini mengenai pengurusan acne vulgaris |
-| [26897386](https://pubmed.ncbi.nlm.nih.gov/26897386/) | 2016 | Panduan | J Am Acad Dermatol | Panduan AAD berasaskan bukti meliputi pengurusan acne topikal dan sistematik |
-| [32356369](https://pubmed.ncbi.nlm.nih.gov/32356369/) | 2020 | Ulasan Sistematik | Cochrane Database of Systematic Reviews | Ulasan asid azelaic, asid salislik, nikotinamid, sulfur, zink, dan AHA topikal untuk acne |
-| [37550898](https://pubmed.ncbi.nlm.nih.gov/37550898/) | 2023 | Ulasan Sistematik | J Cosmetic Dermatology | Keberkesanan asid azelaic dalam acne, rosacea, melasma dan penuaan kulit |
-| [36447117](https://pubmed.ncbi.nlm.nih.gov/36447117/) | 2023 | Ulasan Naratif | Dermatology and Therapy | Ulasan keselamatan rawatan acne semasa kehamilan dan laktasi, termasuk eritromisin |
-| [38453786](https://pubmed.ncbi.nlm.nih.gov/38453786/) | 2024 | Ulasan | American J Clinical Dermatology | Pengurusan acne dalam kehamilan, termasuk eritromisin topikal |
-| [32474948](https://pubmed.ncbi.nlm.nih.gov/32474948/) | 2021 | Ulasan | JEADV | Aliran rintangan antibiotik dalam rawatan acne, termasuk eritromisin/klindamisin topikal |
-| [24690039](https://pubmed.ncbi.nlm.nih.gov/24690039/) | 2014 | Kajian Mekanisme | Experimental Dermatology | Menyiasat sama ada tetrasklin/eritromisin mengeluarkan kesan anti-acne melalui perencatan degradasi asid retinoik |
+| [38300170](https://pubmed.ncbi.nlm.nih.gov/38300170/) | 2024 | Garis panduan | J Am Acad Dermatol | Garis panduan terkini pengurusan jerawat vulgaris |
+| [26897386](https://pubmed.ncbi.nlm.nih.gov/26897386/) | 2016 | Garis panduan | J Am Acad Dermatol | Garis panduan berasaskan bukti, daripada penggredan jerawat hingga rawatan topikal dan sistemik |
+| [38453786](https://pubmed.ncbi.nlm.nih.gov/38453786/) | 2024 | Ulasan | Am J Clin Dermatol | Pilihan rawatan jerawat semasa hamil; erythromycin topikal antara yang dikaji |
+| [36447117](https://pubmed.ncbi.nlm.nih.gov/36447117/) | 2023 | Ulasan naratif | Dermatol Ther | Rawatan jerawat semasa hamil dan penyusuan |
+| [38294764](https://pubmed.ncbi.nlm.nih.gov/38294764/) | 2024 | Ulasan | Med Lett Drugs Ther | Ulasan ubat untuk jerawat |
+| [26957383](https://pubmed.ncbi.nlm.nih.gov/26957383/) | 2016 | Ulasan | J Am Board Fam Med | Erythromycin atau clindamycin topikal bersama benzoyl peroxide disyorkan semasa hamil |
+| [15152959](https://pubmed.ncbi.nlm.nih.gov/15152959/) | 2004 | Ulasan | Am Fam Physician | Erythromycin atau clindamycin topikal boleh ditambah untuk jerawat radang ringan hingga sederhana |
+| [24690039](https://pubmed.ncbi.nlm.nih.gov/24690039/) | 2014 | Kajian mekanisme | Exp Dermatol | Hipotesis bahawa tetrasiklin dan erythromycin mungkin merencat degradasi asid retinoik oleh P450 |
+| [1826114](https://pubmed.ncbi.nlm.nih.gov/1826114/) | 1991 | Tidak dikelaskan | J Am Acad Dermatol | Erythromycin dan zink topikal untuk jerawat |
+| [11187144](https://pubmed.ncbi.nlm.nih.gov/11187144/) | 2000 | Laporan kes | Ugeskr Laeger | Kes jerawat teruk pada bayi 10 bulan; erythromycin sistemik memberi kesan sederhana |
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Butiran peringkat lesen (nombor pendaftaran, nama produk, bentuk dos, teks petunjuk yang diluluskan) tidak diisi dalam ekstrak data semasa. Menurut rekod NPRA, Eritromisin memegang **40 pendaftaran jumlah** di Malaysia dengan status pasaran **Dipasarkan**.
+Erythromycin pada masa ini **tidak dipasarkan** di Malaysia dan tiada lesen berdaftar dalam data yang dihimpun.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk risalah pakej untuk maklumat keselamatan.
+- **Kontraindikasi (daripada graf pengetahuan, bukan teks label)**: sindrom QT panjang (termasuk jenis keluarga), torsades de pointes, porfiria, penyakit buah pinggang, penyakit hati, penyakit pundi hempedu, penyakit hematologi, dermatitis eksfoliatif dan dermatitis, kolitis *Clostridium difficile*, miastenia gravis dan penyakit simpang neuromuskular, anemia kekurangan asid folik, serta gangguan pendengaran.
+- **Interaksi ubat**: sebanyak 100 interaksi dikenal pasti; 20 pertama dipaparkan dalam data. Interaksi **Major** termasuk **loperamide** dan **clarithromycin**. Kebanyakan lain bertahap Moderate, contohnya famotidine, pioglitazone, alosetron, aprepitant, cimetidine, chlorpropamide dan beberapa kortikosteroid (hydrocortisone, dexamethasone, betamethasone, budesonide, triamcinolone). Amoxicillin bertahap Minor.
+
+Sila rujuk sisipan pakej untuk amaran dan kontraindikasi rasmi, kerana teks label belum diperoleh.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
-**Alasan:**
-- Bukti keberkesanan untuk petunjuk acne adalah sederhana (L2: satu uji RCT Fasa 3 yang selesai ditambah pelbagai uji Fasa 2/4 dan ulasan), tetapi **Jurang Data Penyekat** pada amaran sisipan pakej TFDA/NPRA dan kontraindikasi (DG001) menghalang sebarang pra-penilaian keselamatan, dan data mekanisme tindakan (DG002) juga hilang.
+**Rasional:**
+- Jerawat sudah menjadi indikasi asal erythromycin, jadi ini bukan repurposing sebenar. Kedua-dua percubaan klinikal tidak menguji erythromycin secara langsung, dan literatur kebanyakannya garis panduan serta ulasan. Selain itu, ubat ini tidak berdaftar di Malaysia dan data keselamatan label belum lengkap.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Perolehi dan parskan sisipan pakej Malaysia untuk amaran utama dan kontraindikasi (selesaikan DG001)
-- Perolehi data mekanisme tindakan yang disahkan daripada DrugBank (selesaikan DG002)
-- Isi butiran pendaftaran Malaysia peringkat lesen (nama produk, bentuk dos, teks petunjuk yang diluluskan)
-- Sahkan petunjuk asal yang diluluskan untuk Eritromisin dalam pasaran tempatan
-
+- Memuat turun dan menghuraikan sisipan pakej NPRA untuk amaran dan kontraindikasi (jurang data yang menghalang).
+- Data mekanisme tindakan (MOA) daripada DrugBank.
+- Menyemak semula skor ramalan TxGNN yang kelihatan tidak diisi (0.0).
+- Mengesahkan intervensi sebenar dalam NCT03883269 dan mencari percubaan rawak yang membandingkan erythromycin secara langsung.
+- Menentukan keperluan sebenar pasaran Malaysia, kerana ubat tidak dipasarkan.
+- Jika mahu mengkaji indikasi baharu sebenar (listeriosis), bukti klinikal langsung diperlukan; penisilin/ampicillin dengan gentamicin kekal sebagai rawatan standard, dan penembusan makrolida ke CNS terhad.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

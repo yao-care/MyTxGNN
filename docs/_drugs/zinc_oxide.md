@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Zinc Oxide
-parent: Low Evidence (L4-L5)
-nav_order: 699
-evidence_level: L5
+parent: High Evidence (L1-L2)
+nav_order: 736
+evidence_level: L2
 indication_count: 5
 ---
 
 # Zinc Oxide
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **5** 
+Tahap bukti: **L2** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,11 +29,13 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Seng Oksida: Daripada Agen Pelindung Kulit Topikal kepada Dermatitis
+# Zink Oksida: Daripada Dermatitis/Ruam Kulit kepada Dermatitis (Dermatitis Lampin dan Dermatitis Berkaitan Inkontinensia)
 
-## Ringkasan dalam Satu Ayat
+## Ringkasan Satu Ayat
 
-Seng oksida adalah ejen topikal OTC yang telah lama ditubuhkan, digunakan terutamanya sebagai bahan pelindung/penghalang kulit (cth. salep ruam lampin, krim penghalang ketidakupayaan) — model TxGNN menempatkan **Dermatitis** sebagai indikasi yang diprediksi teratas, disokong oleh **24 ujian klinikal** dan **20 penerbitan** — walaupun sebahagian besar bukti ini sudah mendokumentasikan penggunaan seng oksida yang sedia ada dan terkenal untuk dermatitis lampin/berkaitan ketidakupayaan daripada isyarat yang benar-benar baru.
+Zink oksida ialah agen topikal pelindung kulit yang digunakan untuk pelbagai keadaan kulit seperti dermatitis, ruam, jangkitan kulat (tinea) dan buasir.
+Model TxGNN meramalkan ia mungkin berkesan untuk **dermatitis**, dengan **5 percubaan klinikal** dan **19 penerbitan** yang dikumpulkan dalam data laporan ini.
+Perlu diingat bahawa dermatitis lampin sudah menjadi kegunaan sedia ada zink oksida, jadi ini bukan pengitlakan semula ubat yang sebenar.
 
 ---
 
@@ -41,86 +43,83 @@ Seng oksida adalah ejen topikal OTC yang telah lama ditubuhkan, digunakan teruta
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tidak dinyatakan dalam set data semasa (tiada teks indikasi yang diluluskan atau perincian lesen yang tersedia); seng oksida secara amnya diklasifikasikan sebagai agen pelindung/astringen kulit topikal |
-| Indikasi Baru yang Diprediksi | Dermatitis |
-| Skor Ramalan TxGNN | 0.00% (seperti yang dilaporkan — lihat nota kualiti data di bawah) |
-| Paras Bukti | L2 (1 RCT Fasa 2/3 yang telah selesai dikenal pasti) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 280 |
-| Keputusan yang Disyorkan | Tahan |
-
-**Nota kualiti data:** Skor TxGNN untuk ramalan pangkat-1 ini dilaporkan sebagai 0.00%, yang tidak konsisten dengan penempatannya sebagai yang pertama. Ini harus disahkan dengan keluaran model mentah sebelum calon ini digunakan untuk penentuan keutamaan.
+| Indikasi Asal | Tinea pedis, ruam (exanthem), dermatitis, tinea corporis, kandidiasis kutaneus, buasir, luka bakar dan lain-lain (daripada graf pengetahuan TxGNN; tiada teks indikasi berlesen tempatan) |
+| Indikasi Baharu yang Diramalkan | Dermatitis |
+| Skor Ramalan TxGNN | 0.00% |
+| Tahap Bukti | L2 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan terperinci untuk seng oksida tidak tersedia (pertanyaan DrugBank sedang diproses — DG002). Berdasarkan bukti yang dikumpulkan, seng oksida digunakan secara meluas sebagai agen pelindung kulit topikal dan astrigen ringan yang membentuk penghalang fizikal pada permukaan kulit, mengurangkan pendedahan kepada lembapan, pengacau, dan geseran — ini secara langsung ditunjukkan dalam bukti yang dikumpulkan itu sendiri, di mana majoriti ujian melibatkan salep ruam lampin seng oksida komersial (cth. Desitin) dan krim penghalang.
+Data terperinci mengenai mekanisme tindakan (MOA) belum tersedia. Berdasarkan maklumat yang diketahui, zink oksida bertindak sebagai penghalang topikal dan astringen ringan dengan aktiviti antimikrob dan anti-radang yang lemah. Ini menyokong penggunaannya yang sedia ada dalam dermatitis lampin.
 
-Yang penting, hubungan antara "indikasi asal" dan "indikasi baru yang diprediksi" di sini bukan senario penggunaan semula ubat yang tipikal: dermatitis (khususnya dermatitis lampin dan dermatitis berkaitan ketidakupayaan) sudah merupakan penggunaan klinikal utama dan berkesinambungan lama seng oksida, bukan hipotesis terapeutik yang baru. Ramalan TxGNN dalam kes ini nampaknya mengenal pasti semula penggunaan yang telah ditubuhkan daripada mendedahkan satu yang baru, yang harus diambil kira dalam cara calon ini diutamakan terhadap peluang penggunaan semula ubat yang benar-benar baru.
+Dermatitis lampin dan dermatitis berkaitan inkontinensia disebabkan oleh pendedahan berpanjangan kepada air kencing dan najis. Lapisan pelindung zink oksida mengurangkan sentuhan kulit dengan perengsa, jadi mekanismenya selaras dengan indikasi ini. Skor TxGNN yang tercatat ialah 0.0, jadi ramalan model tidak boleh dijadikan asas utama. Sokongan lebih kuat datang daripada percubaan klinikal dan penggunaan klinikal sedia ada.
+
+Ramalan lain dalam data (proktitis, ruam/exanthem, tinea pedis, kandidiasis kutaneus) mempunyai bukti yang jauh lebih lemah, dan dibincangkan secara ringkas dalam bahagian kesimpulan.
 
 ---
 
-## Bukti Ujian Klinikal
+## Bukti Percubaan Klinikal
 
-| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT02080247](https://clinicaltrials.gov/study/NCT02080247) | Fasa 3 | Selesai | 142 | RCT membandingkan Calmoseptine vs. Desitin (seng oksida) salep ruam lampin untuk dermatitis berkaitan ketidakupayaan (IAD) dalam orang dewasa/kanak-kanak yang dirawat di hospital |
-| [NCT02716415](https://clinicaltrials.gov/study/NCT02716415) | Fasa 4 | Selesai | 319 | RCT membandingkan salep Calmoseptine vs. salep Desitin Kekuatan Maksimum 40% seng oksida untuk dermatitis lampin dalam bayi baru lahir/bayi muda |
-| [NCT00219466](https://clinicaltrials.gov/study/NCT00219466) | Fasa 4 | Selesai | 112 | RCT dua agen pelindung kulit topikal seng oksida yang dipasarkan untuk melegakan tanda/gejala ruam lampin |
-| [NCT03309059](https://clinicaltrials.gov/study/NCT03309059) | NA | Selesai | 138 | Membandingkan salep seng oksida vs. filem penghalang bukan pengacau untuk pencegahan IAD dalam orang tua yang dirawat di hospital |
-| [NCT07186907](https://clinicaltrials.gov/study/NCT07186907) | NA | Selesai | 44 | Membandingkan pembalut hidrokolloid vs. krim seng oksida 40% untuk dermatitis lampin dalam bayi baru lahir/bayi muda di NICU |
-| [NCT06134505](https://clinicaltrials.gov/study/NCT06134505) | NA | Selesai | 93 | Membandingkan krim penghalang berdasarkan produk lebah vs. krim penghalang yang mengandungi seng oksida untuk dermatitis lampin |
-| [NCT05427760](https://clinicaltrials.gov/study/NCT05427760) | NA | Selesai | 103 | Menyiasat kesan oksigen/pengudaraan pada dermatitis lampin bayi (seng oksida sebagai perbandingan) |
-| [NCT06800352](https://clinicaltrials.gov/study/NCT06800352) | NA | Selesai | 45 | Menyiasat minyak zaitun dan minyak centaury vs. penjagaan standard untuk pengurusan dermatitis lampin |
-| [NCT04173247](https://clinicaltrials.gov/study/NCT04173247) | NA | Selesai | 28 | RCT pelopor krim KeraStat vs. penjagaan kulit rutin untuk dermatitis yang diinduksi radiasi (kepala/leher) |
-| [NCT06770374](https://clinicaltrials.gov/study/NCT06770374) | NA | Merekrut | 400 | RCT peranti pengikat pelekat seng oksida untuk perakuan kateter pusat, menilai komplikasi kulit |
+| [NCT00219466](https://clinicaltrials.gov/study/NCT00219466) | Fasa 4 | Selesai | 112 | Percubaan rawak, buta penilai, membandingkan dua pelindung kulit topikal berasaskan zink oksida dalam ruam lampin kanak-kanak (penilaian pada 12 dan 24 jam). Pegangan zink oksida dalam kedua-dua lengan perlu disahkan kerana tajuk dipotong. |
+| [NCT03309059](https://clinicaltrials.gov/study/NCT03309059) | NA | Selesai | 138 | Zink oksida berbanding filem penghalang tidak merengsa untuk mencegah dermatitis berkaitan inkontinensia pada warga emas di hospital |
+| [NCT07637695](https://clinicaltrials.gov/study/NCT07637695) | NA | Selesai | 40 | Semburan penghalang silikon berbanding salap zink oksida untuk dermatitis berkaitan inkontinensia di penjagaan jangka panjang (rawak; zink oksida sebagai perbandingan, bukti tidak langsung) |
+| [NCT07186907](https://clinicaltrials.gov/study/NCT07186907) | NA | Selesai | 44 | Pembalut hidrokoloid berbanding krim zink oksida 40% untuk dermatitis lampin bayi di NICU (kuasi-eksperimen, bukan rawak) |
+| [NCT06221046](https://clinicaltrials.gov/study/NCT06221046) | NA | Belum merekrut | 60 | Krim penghalang yang dipertingkat untuk kerosakan kulit berkaitan kelembapan; kaitan dengan zink oksida belum disahkan, belum ada keputusan |
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [27841440](https://pubmed.ncbi.nlm.nih.gov/27841440/) | 2016 | Kajian Sistematik (Cochrane) | Cochrane Database Syst Rev | Mengkaji intervensi, termasuk seng oksida, untuk mencegah/merawat dermatitis berkaitan ketidakupayaan pada orang dewasa |
-| [33960676](https://pubmed.ncbi.nlm.nih.gov/33960676/) | 2021 | RCT Gerombol | International Wound Journal | Rejimen agen pelindung kulit seng oksida vs. polimer terpolimer akril untuk merawat IAD yang sudah ditubuhkan dalam penjagaan akut |
-| [36717288](https://pubmed.ncbi.nlm.nih.gov/36717288/) | 2023 | RCT | Journal of Tissue Viability | Kaedah kerak hidrokolloid vs. penjagaan standard (termasuk seng oksida) untuk IAD dalam orang dewasa penjagaan akut |
-| [34434272](https://pubmed.ncbi.nlm.nih.gov/34434272/) | 2021 | Kajian Haiwan | Experimental and Therapeutic Medicine | Model tikus IAD; menilai kesan terapeutik seng oksida vs. filem pelindung kulit/pembalut silikon |
-| [29901362](https://pubmed.ncbi.nlm.nih.gov/29901362/) | 2016 | Kajian Klinikal Perbandingan | J Med Assoc Thai | Membandingkan serbuk talk vs. krim seng oksida untuk pencegahan dermatitis lampin kontak pengacau |
-| [17128840](https://pubmed.ncbi.nlm.nih.gov/17128840/) | 2006 | Kajian Klinikal Berbilang Pusat | J Med Assoc Thai | Membandingkan dexpanthenol vs. salep seng oksida untuk dermatitis lampin pengacau dari cirit-birit |
-| [39081404](https://pubmed.ncbi.nlm.nih.gov/39081404/) | 2024 | Kajian Pelopor | J Multidisciplinary Healthcare | Program kejururawatan menggunakan seng oksida + petroleum jelly untuk pencegahan IAD dalam pesakit ICU lebih tua |
-| [34747103](https://pubmed.ncbi.nlm.nih.gov/34747103/) | 2022 | Laporan Kes | Pediatrics International | Hiperzincemia pada bayi berikutan penggunaan seng oksida topikal untuk dermatitis lampin |
-| [29181960](https://pubmed.ncbi.nlm.nih.gov/29181960/) | 2017 | Ujian Penilai Buta | Minerva Pediatrica | Krim kanji/glisiretik/seng oksida/bisabolol untuk dermatitis atopik ringan hingga sederhana yang kronik pada kanak-kanak |
-| [38099219](https://pubmed.ncbi.nlm.nih.gov/38099219/) | 2023 | Kajian Makmal | Front Cell Infect Microbiol | Whisker nano seng oksida menunjukkan sifat antibakteria dan mitigasi dermatitis dalam vitro |
+| [41014074](https://pubmed.ncbi.nlm.nih.gov/41014074/) | 2025 | Kajian sistematik | Acta Dermatovenerol Alp Pannonica Adriat | 13 kajian melibatkan 2,935 kanak-kanak; menilai strategi rawatan dan pencegahan dermatitis lampin |
+| [17128840](https://pubmed.ncbi.nlm.nih.gov/17128840/) | 2006 | Kajian berbilang pusat | J Med Assoc Thai | Dexpanthenol dan salap zink oksida berbanding asas salap dalam dermatitis lampin akibat cirit-birit |
+| [29901362](https://pubmed.ncbi.nlm.nih.gov/29901362/) | 2016 | Kajian perbandingan | J Med Assoc Thai | Bedak talkum berbanding krim zink oksida untuk mencegah dermatitis lampin |
+| [10640841](https://pubmed.ncbi.nlm.nih.gov/10640841/) | 1999 | Kajian perbandingan | Dermatology | Eosin berbanding pes zink oksida dan krim kortikosteroid untuk dermatitis lampin |
+| [34621960](https://pubmed.ncbi.nlm.nih.gov/34621960/) | 2021 | Ulasan | Int J Womens Dermatol | Kombinasi baharu agen topikal (zink glukonat, zink oksida, dexpanthenol, taurin) untuk dermatitis lampin |
+| [34434272](https://pubmed.ncbi.nlm.nih.gov/34434272/) | 2021 | Praklinikal (tikus) | Exp Ther Med | Model tikus dermatitis berkaitan inkontinensia; kesan terapeutik zink oksida, filem pelindung dan pembalut silikon dinilai |
+| [34747103](https://pubmed.ncbi.nlm.nih.gov/34747103/) | 2022 | Laporan kes | Pediatr Int | Hiperzinkemia akibat zink oksida topikal pada bayi dengan dermatitis lampin |
+| [38099219](https://pubmed.ncbi.nlm.nih.gov/38099219/) | 2023 | Praklinikal | Front Cell Infect Microbiol | Nanokumis zink oksida menunjukkan sifat antibakteria dan mengurangkan dermatitis |
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Data terperinci peringkat lesen/produk (nombor kebenaran, nama produk, bentuk dos, teks indikasi yang diluluskan) tidak dipenuhi dalam set data semasa — semua 5 rekod lesen yang disampel kosong. Status pendaftaran NPRA mengesahkan seng oksida **dipasarkan** dengan **280 jumlah pendaftaran** dalam fail, tetapi perincian peringkat produk mesti ditarik terus dari NPRA sebelum ia boleh dilaporkan di sini.
+Zink oksida tidak dipasarkan di Malaysia berdasarkan data yang dikumpulkan dan tiada lesen berdaftar (0 pendaftaran).
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan. Data amaran utama, kontraindikasi, dan interaksi ubat-ubat semuanya tidak tersedia pada masa ini dalam set data ini (ditandakan sebagai **Menghalang** dalam log jurang data — DG001), yang menghalang calon ini daripada memasuki peringkat pra-penilaian keselamatan S1.
+- **Keadaan yang dikaitkan dalam graf pengetahuan (bukan teks label)**: Graf pengetahuan TxGNN mengaitkan zink oksida dengan keadaan berikut sebagai kontraindikasi, termasuk hipertensi, hiperplasia prostat jinak, anemia sel sabit, hiperoksaluria primer, hemokromatosis keturunan, hemosiderosis, penyakit metabolisme besi, penyakit Wilson, penyakit arteri koronari, serangan jantung mengejut, penyakit konduksi jantung, hipertiroidisme, penyakit Graves, tirotoksikosis dan kebimbangan (anxiety). Senarai ini daripada hubungan model dan perlu disahkan dengan label produk sebelum dijadikan rujukan klinikal.
+- **Hiperzinkemia**: Satu laporan kes mendapati hiperzinkemia selepas penggunaan topikal zink oksida pada bayi dengan dermatitis lampin. Dos dan kawasan aplikasi pada bayi baru lahir memerlukan langkah kawalan.
+
+Untuk maklumat amaran dan kontraindikasi lain, sila rujuk sisipan pek produk.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Proceed with Guardrails (Teruskan dengan Langkah Kawalan)**
 
-**Alasan:**
-Walaupun seng oksida mempunyai asas bukti yang sederhana untuk penggunaan berkaitan dermatitis (L2, termasuk satu RCT Fasa 3 yang telah selesai dan kajian sistematik Cochrane), ketiadaan lengkap data keselamatan (amaran, kontraindikasi, DDI) adalah jurang **Menghalang** yang menghalang kemajuan ke peringkat penilaian keselamatan S1. Selain itu, ramalan ini sebahagian besarnya mengenal pasti semula penggunaan yang telah ditubuhkan seng oksida daripada mendedahkan indikasi yang benar-benar baru.
+**Rasional:**
+- Bagi dermatitis, terdapat percubaan rawak yang selesai (termasuk satu percubaan Fasa 4 dan satu percubaan rawak dengan zink oksida sebagai lengan langsung) serta kajian sistematik, tetapi ia merupakan indikasi sedia ada dan bukan pengitlakan semula yang sebenar. Skor TxGNN ialah 0.0, dan produk tidak dipasarkan di Malaysia.
+- Ramalan lain tidak disyorkan untuk diteruskan sekarang: proktitis (tiada percubaan atau literatur, Hold), ruam/exanthem (bukti tidak langsung, Hold), serta tinea pedis dan kandidiasis kutaneus (hanya kajian nanopartikel, praklinikal atau tidak langsung; sebagai soalan penyelidikan).
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Amaran sisipan pakej TFDA/NPRA dan kontraindikasi (DG001, Menghalang — muat turun dan analisis PDF label)
-- Data mekanisme tindakan DrugBank (DG002)
-- Pengesahan skor TxGNN anomali 0.00% untuk calon pangkat-1 ini
-- Perincian peringkat lesen/produk Malaysia (nombor kebenaran, teks indikasi yang diluluskan) yang sedang hilang walaupun 280 pendaftaran dalam fail
-- Penyiapan penggredan relevansi untuk entri ujian klinikal dan kesusasteraan "menunggu" untuk mengesahkan kekuatan isyarat sebenar
-
+**Untuk meneruskan, perlu:**
+- Amaran dan kontraindikasi daripada sisipan pek NPRA (jurang data yang menyekat saringan keselamatan)
+- Data mekanisme tindakan terperinci (MOA) daripada DrugBank
+- Pengesahan lengan zink oksida dalam NCT00219466 dan keputusan terperinci percubaan
+- Garis panduan dos dan kawasan aplikasi untuk bayi baru lahir dan bayi, berikutan risiko hiperzinkemia
+- Pelan pendaftaran atau laluan peraturan tempatan, kerana tiada lesen berdaftar di Malaysia
+- Semakan reka bentuk dan keputusan kajian RCT zink oksida nanopartikel dalam larutan Whitfield (PMID 39871011) untuk tinea pedis
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

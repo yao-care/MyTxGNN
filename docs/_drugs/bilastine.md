@@ -2,7 +2,7 @@
 layout: default
 title: Bilastine
 parent: Low Evidence (L4-L5)
-nav_order: 145
+nav_order: 150
 evidence_level: L5
 indication_count: 0
 ---

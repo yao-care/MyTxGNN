@@ -2,7 +2,7 @@
 layout: default
 title: Iopromide
 parent: Low Evidence (L4-L5)
-nav_order: 407
+nav_order: 426
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,77 +29,94 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Iopromide: Daripada Pengimejan Kontras Radiografi kepada Kerentanan Osteoarthritis
+# Iopromide: Daripada Agen Kontras Radiografi kepada Osteoartritis Susceptibility
 
 ## Ringkasan Satu Ayat
 
-Iopromide ialah agen kontras radiografi beryodium yang digunakan untuk pengimejan diagnostik dan bukannya ubat terapeutik untuk penyakit tertentu. Model TxGNN meramalkan kemungkinan pautan kepada **kerentanan osteoarthritis**, tetapi ramalan ini pada masa ini hanyalah keluaran graf pengetahuan tulen dengan **tiada percubaan klinikal dan tiada kesusasteraan yang menyokong** sama sekali.
+Iopromide ialah agen kontras radiografi beryodium bukan ionik yang digunakan untuk pengimejan diagnostik, dan data yang dikompilasi untuk laporan ini tidak mencatatkan sebarang indikasi terlulus tempatan.
+Model TxGNN meramalkan ia mungkin berkesan untuk **osteoarthritis susceptibility** (skor 99.57%), tetapi **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong arah ini.
+Ramalan ini hanya berasaskan model dan kemungkinan besar merupakan artifak graf pengetahuan.
 
 ---
 
-## Gambaran Pantas
+## Gambaran Keseluruhan Pantas
 
-| Item | Kandungan |
-|------|----------|
-| Indikasi Asal | Tidak tersedia dalam rekod pendaftaran — bungkus bukti mengenal pasti iopromide sebagai medium kontras beryodium untuk pengimejan diagnostik, bukan indikasi rawatan |
-| Indikasi Baru yang Diramalkan | Kerentanan osteoarthritis |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Tiada data indikasi diluluskan tempatan (digunakan sebagai agen kontras diagnostik) |
+| Indikasi Baharu yang Diramalkan | Osteoarthritis susceptibility |
 | Skor Ramalan TxGNN | 99.57% |
-| Tahap Bukti | L5 (ramalan model sahaja) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 2 |
-| Keputusan yang Disyorkan | Tahan |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
-## Mengapa Ramalan Ini Masuk Akal?
+## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan terperinci tidak tersedia (ditandai sebagai jurang data berketerukan tinggi). Berdasarkan maklumat yang diketahui, iopromide tergolong dalam kelas agen kontras beryodium osmolariti rendah yang digunakan untuk meningkatkan visualisasi semasa pengimejan CT dan pengimejan radiografi lain — ia tidak mempunyai aktiviti farmakoloji anticemar, pelindung rawan tulang, atau pengubah penyakit yang terbina.
+Data mekanisme tindakan (MOA) terperinci tidak tersedia pada masa ini. Iopromide ialah agen kontras beryodium bukan ionik yang berfungsi untuk meningkatkan kontras imej radiografi, dan bukan ubat dengan farmakologi pengubah penyakit.
 
-Indikasi yang diramalkan, "kerentanan osteoarthritis," lebih terlihat seperti nod ciri kerentanan genetik dalam graf pengetahuan daripada indikasi klinikal konvensional. Bungkus bukti itu sendiri menyatakan dengan jelas bahawa tiada pautan mekanistik: ini ialah ramalan graf penyisipan TxGNN tulen (skor 0.9957) dengan tanpa sokongan percubaan klinikal atau kesusasteraan.
+"Osteoarthritis susceptibility" ialah fenotip risiko genetik, bukan keadaan klinikal yang boleh dirawat. Iopromide hanya digunakan secara intra-artikular sebagai agen diagnostik (artrografi), bukan sebagai rawatan. Skor tinggi (0.996) kemungkinan besar didorong oleh kedekatan rangkaian dengan nod berkaitan sendi dalam graf, dan bukan oleh hubungan mekanisme yang sebenar.
 
-Walaupun calon yang berkaitan rapat "osteoarthritis" (pangkat 2) hanya mengembalikan dua kertas, kedua-duanya menggunakan iopromide semata-mata sebagai alat pengimejan untuk teknik diagnostik atau kajian pengukuran rawan tulang — bukan sebagai rawatan. Tiada rasional farmakoloji yang menghubungkan agen kontras kepada patofisiologi osteoarthritis pada masa ini.
+Oleh itu, tiada pautan mekanisme yang munasabah dapat dibina antara iopromide dan indikasi yang diramalkan ini.
 
 ---
 
 ## Bukti Percubaan Klinikal
 
-Pada masa ini tiada percubaan klinikal yang berkaitan didaftarkan.
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Literatur
 
-Pada masa ini tiada kesusasteraan yang berkaitan tersedia.
+Pada masa ini tiada literatur berkaitan yang tersedia.
 
 ---
 
-## Maklumat Pasaran Malaysia
+## Ramalan Lain yang Disenaraikan
 
-Iopromide dipasarkan di Malaysia di bawah 2 pendaftaran; bagaimanapun, nombor lesen, nama produk, bentuk dos, pengilang, dan teks indikasi yang diluluskan tidak tersedia dalam bungkus bukti ini.
+Sembilan ramalan seterusnya turut berada pada tahap bukti L5 dan keputusan Hold, tanpa percubaan klinikal atau literatur.
+
+| Kedudukan | Penyakit | Skor TxGNN | Penilaian Ringkas |
+|------|------|------|------|
+| 2 | Osteoarthritis | 99.53% | Digunakan hanya sebagai agen diagnostik artrografi; tiada mekanisme terapeutik |
+| 3 | Rheumatoid arthritis | 99.37% | Tiada mekanisme anti-radang atau imunomodulasi didokumenkan |
+| 4 | Brachyolmia | 99.19% | Displasia rangka genetik yang jarang; kemungkinan artifak graf |
+| 5 | Acromesomelic dysplasia, jenis Hunter-Thompson | 99.14% | Berkaitan CDMP1/GDF5; tiada tindakan pada laluan ini |
+| 6 | Sindrom brachyolmia-amelogenesis imperfecta | 99.12% | Tiada hubungan mekanisme yang munasabah |
+| 7 | Alopecia | 99.11% | Tiada kesan diketahui pada biologi folikel rambut |
+| 8 | Myosclerosis | 99.09% | Tiada rasional farmakologi |
+| 9 | Hemoglobinopathy | 99.08% | Agen kontras beryodium memerlukan berhati-hati pada sesetengah hemoglobinopati seperti penyakit sel sabit; mungkin risiko, bukan manfaat |
+| 10 | Pseudoachondroplasia | 99.06% | Displasia akibat mutasi COMP; tiada tindakan pada biologi matriks rawan |
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila merujuk sisipan pakej untuk maklumat keselamatan (amaran label TFDA/kontraindikasi ditandai sebagai jurang data yang menyekat — sisipan pakej belum diambil/dianalisis lagi).
+**Interaksi Ubat** (daripada pangkalan data DDInter, jumlah 100 interaksi direkodkan; contoh utama):
 
-**Isyarat keselamatan tambahan yang dikenal pasti semasa carian kesusasteraan (bukan sebahagian daripada data label rasmi):** Laporan kes (PMID [16628721](https://pubmed.ncbi.nlm.nih.gov/16628721/)) menerangkan peristiwa vaso-oklusi serebral berikutan kontras intravena osmolariti rendah (kelas yang iopromide tergolong) dalam pesakit dengan penyakit sel sabit, muncul di bawah calon "hemoglobinopati". Ini nampaknya merupakan isyarat peristiwa buruk/kontraindikasi dan bukannya isyarat rawatan, dan harus dianggap sebagai bendera amaran untuk pesakit hemoglobinopati tertunda pengesahan daripada label rasmi apabila diambil.
+- **Tahap Major**: Metformin, Amphotericin B (termasuk formulasi lipid complex, cholesteryl sulfate dan liposomal), Mesalazine, Balsalazide, Olsalazine, Sulfasalazine, Vancomycin, Kanamycin, Neomycin, Streptomycin, Polymyxin B
+- **Tahap Moderate**: Mannitol
+- **Tahap tidak diketahui**: Clotrimazole, asid asetilsalisilik, bupropion, dexamethasone, pantoprazole
+
+Untuk maklumat amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
 **Rasional:**
-Ramalan berperingkat teratas (kerentanan osteoarthritis) tidak mempunyai sokongan percubaan klinikal atau kesusasteraan apa pun — ia adalah bukti L5, ramalan-model-sahaja. Digabungkan dengan jurang data yang menyekat pada amaran keselamatan/kontraindikasi TFDA, calon tidak dapat meneruskan ke pemeriksaan keselamatan (S1) atau dipertimbangkan untuk pembangunan lanjutan pada masa ini.
+- Ramalan ini hanya berasaskan model (L5) tanpa sebarang percubaan klinikal atau literatur, dan tiada pautan mekanisme yang munasabah. Iopromide ialah agen kontras diagnostik, dan "osteoarthritis susceptibility" ialah fenotip risiko genetik, bukan keadaan yang boleh dirawat. Ubat ini juga tidak dipasarkan di Malaysia.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Ambil dan analisis sisipan pakej TFDA (amaran, kontraindikasi) untuk membersihkan jurang data yang menyekat
-- Dapatkan data mekanisme tindakan DrugBank untuk menilai kebolehkredibilan biologi
-- Jika meneruskan indikasi berkaitan arthritis, jalankan carian tersasaran untuk kajian rawatan sebenar (hits semasa untuk "osteoarthritis" dan "rheumatoid arthritis" hanya kertas teknik pengimejan, bukan bukti keberkesanan)
-- Jelaskan dan sahkan isyarat keselamatan penyakit sel sabit / peristiwa vaso-oklusi terhadap label rasmi sebelum sebarang penilaian lanjutan
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menyekat saringan keselamatan)
+- Data mekanisme tindakan (MOA) daripada DrugBank
+- Bukti praklinikal atau klinikal yang menunjukkan kesan terapeutik pada penyakit sendi
+- Penilaian kesesuaian laluan pentadbiran dan status pendaftaran tempatan
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

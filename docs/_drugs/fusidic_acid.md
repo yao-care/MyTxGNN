@@ -2,15 +2,15 @@
 layout: default
 title: Fusidic Acid
 parent: Low Evidence (L4-L5)
-nav_order: 361
-evidence_level: L5
+nav_order: 378
+evidence_level: L4
 indication_count: 5
 ---
 
 # Fusidic Acid
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **5** 
+Tahap bukti: **L4** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,69 +29,92 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Fusidic Acid: Daripada Jangkitan Stafilokokus hingga Ornithosis
+# Asid Fusidik: Daripada Jangkitan Bakteria kepada Ornitosis (Psitakosis)
 
 ## Ringkasan Satu Ayat
 
-Fusidic Acid (DrugBank DB02703) adalah antibiotik anti-stafilokokus mapan yang dipasarkan di Malaysia di bawah 38 pendaftaran. Indikasi baru berperingkat teratas daripada model TxGNN, **Ornithosis** (psittacosis), mempunyai **skor ramalan 0%** dan disokong oleh **0 ujian klinis** serta **0 penerbitan** — keluaran model itu sendiri menandai ini sebagai perhubungan yang lemah dan tanpa sokongan, bukan sebagai calon penemuan semula ubat yang menjanjikan.
+Asid fusidik ialah antibiotik yang pada asalnya digunakan untuk pelbagai jangkitan bakteria, termasuk jangkitan saluran kkencing, bronkitis, jerawat, folikulitis, pneumonia bakteria dan antraks.
+Model TxGNN meramalkan ia mungkin berkesan untuk **ornitosis**, tetapi skor ramalan ialah **0.0%**, tiada **percubaan klinikal** didaftarkan, dan hanya **1 penerbitan** yang berkaitan secara tidak langsung (kajian veterinar ke atas kucing).
+
+---
 
 ## Gambaran Keseluruhan Pantas
 
 | Perkara | Kandungan |
-|--------|-----------|
-| Indikasi Asal | Tidak dinyatakan dalam bungkusan bukti (tiada `approved_indication_text` yang tidak kosong dalam 5 rekod lesen yang disediakan) |
-| Indikasi Baru yang Diramalkan | Ornithosis |
-| Skor Ramalan TxGNN | 0% |
-| Tahap Bukti | L5 (ramalan model sahaja, tiada kajian sokongan) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 38 |
-| Keputusan Disyorkan | Tahan |
+|------|------|
+| Indikasi Asal | Jangkitan saluran kencing, bronkitis, jerawat, folikulitis, pneumonia bakteria, antraks (berdasarkan graf pengetahuan TxGNN/PrimeKG) |
+| Indikasi Baharu yang Diramalkan | Ornitosis (psitakosis) |
+| Skor Ramalan TxGNN | 0.0% |
+| Tahap Bukti | L4 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (Tahan) |
 
-## Mengapa Ramalan Ini Masuk Akal?
+---
 
-Pada masa ini, data mekanisme tindakan yang terperinci tidak tersedia (ditandai dalam bungkusan bukti sebagai jurang data keparahan tinggi).
+## Mengapa Ramalan Ini Munasabah?
 
-Berdasarkan pengetahuan farmakologi umum, fusidic acid menghambat sintesis protein bakteria dengan menyekat translokasi ribosom yang dimediasi oleh faktor pemanjangan G (EF-G), dan aktiviti antibakteria yang diketahuinya tertumpu pada organisma Gram-positif, terutamanya *Staphylococcus aureus*.
+Data terperinci tentang mekanisme tindakan asal tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, asid fusidik menghalang sintesis protein bakteria dengan mengikat faktor pemanjangan G (EF-G). Aktivitinya terutamanya terhadap bakteria Gram-positif.
 
-Ornithosis (psittacosis) disebabkan oleh *Chlamydia psittaci*, patogen intraseluler wajib yang secara struktur dan mekanisme jauh berbeza daripada bakteria Gram-positif yang merupakan sasaran fusidic acid. Kelas rawatan piawai untuk patogen ini adalah tetrasiklin, bukan fusidic acid. Rasional mekanistik bungkusan bukti itu sendiri untuk calon ini secara jelas menyatakan perhubungan itu lemah, tanpa sokongan klinis atau kesusasteraan yang dikenal pasti.
+Ornitosis disebabkan oleh *Chlamydia psittaci*, bakteria intrasel obligat. Tiada aktiviti asid fusidik terhadap *Chlamydia* yang telah dibuktikan, jadi kaitan mekanistik hanya bersifat spekulatif. Satu-satunya penerbitan yang dipautkan (PMID 11919013) membincangkan klamidiosis okular kucing, iaitu keadaan veterinar pada perumah dan spesies *Chlamydia* yang berbeza. Oleh itu, sokongannya lemah dan tidak langsung.
 
-Melintasi kesemua lima calon berperingkat TxGNN dalam bungkusan ini (ornithosis, superior limbic keratoconjunctivitis, cholera, gastrointestinal anthrax, typhus), setiap skor ramalan ialah 0%, setiap tahap bukti ialah L5, dan setiap cadangan ialah Tahan. Hanya "gastrointestinal anthrax" (peringkat 4) yang mempunyai rasional mekanistik yang munasabah (*Bacillus anthracis* Gram-positif jatuh dalam spektrum aktiviti diketahui fusidic acid), tetapi calon itu pun tidak mempunyai ujian atau kesusasteraan sokongan. Corak ini menunjukkan bahawa keluaran model untuk ubat ini pada masa ini hanyalah penerokaan, tanpa sokongan bukti.
+Ramalan lain dalam senarai juga lemah. Skor TxGNN bagi semuanya ialah 0.0, dan bukti hanya berasaskan ramalan model:
 
-## Bukti Ujian Klinis
+- **Keratokonjunktivitis limbik superior**: penyakit permukaan mata yang umumnya tidak berjangkit, jadi mekanisme antibakteria tiada rasional yang jelas. Tiada percubaan atau literatur.
+- **Kolera**: *Vibrio cholerae* ialah bakteria Gram-negatif dan asid fusidik mempunyai aktiviti Gram-negatif yang terhad. Dua penerbitan yang dipautkan berkaitan mekanisme rintangan antibiotik, bukan keberkesanan klinikal.
+- **Antraks gastrousus**: *Bacillus anthracis* ialah Gram-positif, jadi perencatan EF-G munasabah, dan antraks sedia ada dalam indikasi asal. Namun tiada percubaan atau literatur, dan rejimen barisan pertama yang mantap sudah wujud.
+- **Tifus**: disebabkan *Rickettsia*; tetrasiklin ialah rawatan piawai dan asid fusidik tiada aktiviti yang mantap.
 
-Pada masa ini tiada ujian klinis berkaitan yang didaftar.
+---
 
-## Bukti Kesusasteraan
+## Bukti Percubaan Klinikal
 
-Pada masa ini tiada kesusasteraan berkaitan tersedia untuk indikasi berperingkat teratas (Ornithosis).
+Buat masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
-*Nota: Dua rekod PubMed telah diperoleh untuk calon "cholera" berperingkat lebih rendah (PMID [31762145](https://pubmed.ncbi.nlm.nih.gov/31762145/), kajian sains struktur/asas tentang chloramphenicol acetyltransferases dalam *Vibrio*, dan PMID [15950082](https://pubmed.ncbi.nlm.nih.gov/15950082/), kajian epidemiologi molekul *Shigella dysenteriae*), tetapi kedua-duanya tidak secara langsung mengkaji rawatan cholera dengan fusidic acid, dan kedua-duanya merupakan bukti Tier 3 (sains asas/epidemiologi, bukan keberkesanan klinis).*
+---
 
-## Maklumat Pasaran Malaysia
+## Bukti Literatur
 
-Rekod NPRA menunjukkan 38 jumlah pendaftaran dengan status pasaran aktif, tetapi butiran kebenaran individu (nombor pendaftaran, nama produk, bentuk dos, teks indikasi yang diluluskan) tidak diisikan dalam bungkusan bukti ini — kesemua 5 rekod lesen sampel mengandungi medan kosong.
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [11919013](https://pubmed.ncbi.nlm.nih.gov/11919013/) | 1999 | Kajian klinikal veterinar | Journal of Feline Medicine and Surgery | Keberkesanan terapi topikal dan sistemik bagi klamidiosis okular kucing (*C. psittaci*, kucing). Peranan asid fusidik tidak jelas daripada tajuk; bukan kajian manusia. |
 
-Ini perlu diselesaikan sebelum laporan ini digunakan untuk tujuan kawal selia.
+Nota: dua penerbitan berkaitan kolera (PMID 31762145 dan 15950082) ialah kajian struktur/mikrobiologi tentang rintangan antibiotik, bukan bukti klinikal untuk ornitosis, maka tidak disenaraikan di sini.
+
+---
+
+## Keputusan dan Langkah Seterusnya
+
+**Keputusan: Hold (Tahan)**
+
+**Rasional:**
+- Skor TxGNN ialah 0.0%, tiada percubaan klinikal, dan satu-satunya literatur ialah kajian veterinar yang berkaitan secara tidak langsung. Bukti kekal pada tahap ramalan model (L4). Produk juga tidak berdaftar di Malaysia.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) terperinci daripada DrugBank
+- Data in vitro tentang aktiviti asid fusidik terhadap *Chlamydia psittaci*
+- Maklumat amaran dan kontraindikasi daripada sisipan pakej NPRA (merupakan jurang data yang menyekat penilaian keselamatan)
+- Pengesahan laluan pentadbiran dan bentuk dos yang sesuai, memandangkan tiada produk berdaftar di Malaysia
+- Penilaian semula skor ramalan dan semakan literatur oleh pakar
+
+---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan bungkusan untuk maklumat keselamatan. (Amaran kunci, kontraindikasi, dan data interaksi ubat ditandai sebagai jurang data dalam bungkusan bukti ini — terutamanya DG001, jurang pemblokiran pada amaran dan kontraindikasi label TFDA/NPRA, yang menghalang penyaringan keselamatan awal.)
+Data keselamatan daripada sisipan pakej tidak tersedia. Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-## Kesimpulan dan Langkah Seterusnya
+Graf pengetahuan (PrimeKG) mencatat kaitan kontraindikasi dengan penyakit berikut. Ini bukan teks label rasmi dan perlu disahkan:
 
-**Keputusan: Tahan**
+- **Hati dan hempedu**: kegagalan hati, penyakit hati, penyakit pundi hempedu
+- **Buah pinggang**: penyakit buah pinggang, nefrokalsinosis, piouretra
+- **Metabolik**: diabetes mellitus, ketoasidosis diabetes, kekurangan kalium, hiperkalsemia, gangguan metabolisme fosforus
+- **Jantung**: fibrilasi atrium, blok atrioventrikular, sindrom Adams-Stokes, sindrom Wolff-Parkinson-White
+- **Mata**: glaukoma, glaukoma sudut terbuka, hipertensi okular, keratitis virus herpes simpleks, jangkitan mata, konjunktivitis
+- **Saluran penghadaman**: kolitis, kolitis *Clostridium difficile*, enterokolitis nekrotik perinatal, dismotiliti esofagus
+- **Saraf dan otot**: miastenia gravis (termasuk permulaan dewasa), penyakit simpang neuromuskular, vertigo asal sistem saraf pusat
+- **Pernafasan**: kegagalan pernafasan
 
-**Rasional:**
-
-Indikasi berperingkat teratas yang diramalkan (Ornithosis) mempunyai skor TxGNN 0%, bukti L5 (ramalan model sahaja), tiada ujian klinis, tiada kesusasteraan, dan rasional mekanistik yang lemah. Kesemua empat calon berperingkat lain dalam bungkusan ini menunjukkan corak yang sama. Pada masa ini tiada asas untuk memajukan calon ini melepasi penyaringan awal.
-
-**Untuk meneruskan, perkara berikut diperlukan:**
-
-- Data sisipan bungkusan TFDA/NPRA (amaran, kontraindikasi) — pada masa ini jurang pemblokiran (DG001)
-- Mekanisme tindakan yang disahkan daripada DrugBank — pada masa ini jurang data keparahan tinggi (DG002)
-- Teks lesen/indikasi lengkap untuk 38 pendaftaran Malaysia (kesemua 5 rekod sampel kosong)
-- Jika calon ini akan diusul lebih lanjut, carian kesusasteraan/praklinis yang ditargetkan khususnya mengenai aktiviti fusidic acid terhadap *Chlamydia psittaci* (belum ada yang ditemui sejauh ini)
-
+Interaksi ubat: tiada rekod ditemui.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

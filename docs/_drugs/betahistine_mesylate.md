@@ -2,7 +2,7 @@
 layout: default
 title: Betahistine Mesylate
 parent: Low Evidence (L4-L5)
-nav_order: 135
+nav_order: 140
 evidence_level: L5
 indication_count: 0
 ---

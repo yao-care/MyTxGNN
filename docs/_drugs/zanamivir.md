@@ -2,7 +2,7 @@
 layout: default
 title: Zanamivir
 parent: Low Evidence (L4-L5)
-nav_order: 693
+nav_order: 730
 evidence_level: L5
 indication_count: 2
 ---
@@ -33,78 +33,155 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 ## Ringkasan Satu Ayat
 
-> Zanamivir ialah penghambat neuraminidase yang paket bukti tidak merekodkan petunjuk asal yang disahkan atau teks indikasi yang diluluskan, tetapi mekanismenya (menyekat pelepasan virus influenza melalui perencatan glikoprotein permukaan virus) didokumentasikan dengan baik dalam rasional yang disertakan.
-> Model TxGNN meramalkan ia mungkin berkesan untuk **Pyelonephritis**, jangkitan saluran kencing atas yang berbakteri,
-> tetapi ramalan ini disokong oleh **0 percubaan klinikal** dan **0 penerbitan**, dan paket bukti itu sendiri menandai pautan mekanistik sebagai tidak munasabah secara biologi.
+Zanamivir ialah perencat neuraminidase yang pada asalnya digunakan untuk merawat influenza.
+Model TxGNN meramalkan ia mungkin berkesan untuk **pyelonephritis** (jangkitan buah pinggang),
+tetapi pada masa ini terdapat **0 ujian klinikal** dan **0 penerbitan** yang menyokong arah ini, jadi ramalan ini hanya berasaskan model.
 
 ---
 
-## Gambaran Pantas
+## Gambaran Keseluruhan Pantas
 
-| Item | Kandungan |
-|------|-----------|
-| Indikasi Asal | Tidak direkodkan dalam teks lesen TFDA atau medan `original_indications`; rasional paket bukti mengenal pasti zanamivir sebagai penghambat neuraminidase anti-influenza |
-| Indikasi Baru Diramalkan | Pyelonephritis |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Influenza |
+| Indikasi Baharu yang Diramalkan | Pyelonephritis |
 | Skor Ramalan TxGNN | 99.84% |
-| Tahap Bukti | L5 (ramalan model sahaja, tiada percubaan klinikal atau penerbitan sokongan) |
-| Status Pasaran Malaysia | ✓ Berada di Pasaran |
-| Bilangan Pendaftaran | 1 |
-| Keputusan Disyorkan | **Tunggu** |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
-## Mengapa Ramalan Ini Munasabah?
+## Mengapakah Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci untuk zanamivir ditandakan sebagai jurang data (`original_moa: [Data Gap]`), tetapi rasional paket bukti itu sendiri menerangkannya sebagai **penghambat neuraminidase** yang bertindak eksklusif pada glikoprotein permukaan virus influenza untuk menyekat pelepasan zarah virus — mekanisme semata-mata antivirus.
+Data terperinci tentang mekanisme tindakan (MOA) zanamivir tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat yang diketahui, zanamivir ialah perencat sialidase (neuraminidase) virus influenza, dan keberkesanannya dalam influenza telah dibuktikan.
 
-Pyelonephritis, sebaliknya, ialah jangkitan saluran kencing atas yang **berbakteri** (paling biasa disebabkan oleh *E. coli*), didorong oleh keadhesifan bakterial, pencerobohan, dan jalur keradangan sepenuhnya tidak berkaitan dengan aktiviti neuraminidase virus influenza. Tiada tindak balas silang yang diketahui, sasaran bersama, atau laluan bertindih antara perencatan neuraminidase virus dan aktiviti antibakteria.
+Pyelonephritis pula ialah jangkitan **bakteria** pada buah pinggang, lazimnya disebabkan oleh *Escherichia coli* uropatogenik. Tiada kaitan mekanistik yang kukuh dapat dikenal pasti. Walaupun bakteria juga mempunyai sialidase, tiada data menunjukkan zanamivir merencatnya pada kepekatan yang bermakna secara klinikal, dan tiada bukti kesan antibakteria di saluran kencing.
 
-Paket bukti secara eksplisit menilai pautan ini sebagai **bukan sokongan mekanistik**: skor kesamaan TxGNN yang tinggi dikaitkan dengan kedekatan pembenaman graf pengetahuan dan bukannya mana-mana hubungan farmakologi atau klinikal yang sebenar. Ini disokong oleh ramalan kedua yang berpangkat lebih rendah dalam paket yang sama (gangguan metabolisme tirosin, skor 99.02%), di mana satu-satunya kesusasteraan yang dikembalikan membincangkan mutasi rintangan NA influenza (H274Y/N294S) — tidak relevan secara topik dengan gangguan metabolisme asid amino keturunan, sekali lagi menunjukkan artifak padanan kata kunci/entiti dan bukannya isyarat repurposing yang tulen. Corak ini di seluruh kedua-dua ramalan teratas mencadangkan larian semasa mempunyai isu positif palsu sistemik untuk ubat ini dan bukannya anomali terpencil.
-
----
-
-## Bukti Percubaan Klinikal
-
-Pada masa ini tiada percubaan klinikal yang berkaitan didaftarkan.
+Skor TxGNN yang sangat tinggi (0.998) ialah ramalan berasaskan model semata-mata. Ia berkemungkinan mencerminkan kedekatan dalam graf pengetahuan dengan nod penyakit berjangkit, dan bukannya kaitan farmakologi sebenar. Selain itu, status tidak dipasarkan di Malaysia dan ketiadaan data MOA menghadkan kebolehlaksanaan.
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Ujian Klinikal
 
-Pada masa ini tiada kesusasteraan yang berkaitan tersedia.
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
+
+---
+
+## Bukti Literatur
+
+Pada masa ini tiada literatur berkaitan untuk indikasi pyelonephritis.
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| Tidak dinyatakan dalam paket bukti | Tidak dinyatakan dalam paket bukti | Tidak dinyatakan dalam paket bukti | Tidak dinyatakan dalam paket bukti |
-
-*Nota: `total_licenses` melaporkan 1 pendaftaran, tetapi rekod lesen itu sendiri tidak mengandungi medan yang dipenuhi (nombor, nama produk, bentuk dos, atau teks indikasi) dalam paket bukti ini.*
+Zanamivir pada masa ini tidak dipasarkan di Malaysia dan tiada lesen berdaftar.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan peket untuk maklumat keselamatan.
+- **Interaksi Ubat** (8 interaksi direkodkan): 
+  - Insulin manusia (disedut, bertindak pantas): tahap **Sederhana**
+  - Clarithromycin, loratadine, montelukast, ketotifen, fexofenadine, ibuprofen, diclofenac: tahap tidak diketahui
+- **Penyakit yang Dikaitkan dengan Kontraindikasi (berdasarkan graf pengetahuan, bukan teks label)**: epilepsi, penyakit pulmonari obstruktif kronik (COPD), penyakit bronkus, delirium.
 
-*Nota: Paket bukti menandakan amaran label TFDA/keterangan kontra (DG001) sebagai jurang data **Menghalang** — ini sahaja menghalang calon daripada memasuki saringan keselamatan awal (S1), bebas daripada bukti keberkesanan yang dibincangkan di atas.*
+Untuk amaran dan kontraindikasi rasmi, sila rujuk sisipan pakej.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tunggu**
+**Keputusan: Hold**
 
 **Rasional:**
-Indikasi yang diramalkan (pyelonephritis) tidak mempunyai pautan mekanistik yang munasabah secara biologi kepada aktiviti antivirus zanamivir yang diketahui (perencatan neuraminidase), tiada percubaan klinikal sokongan, dan tiada kesusasteraan sokongan — paket bukti itu sendiri mengkelaskan ini sebagai Tahap Bukti L5 dengan cadangan pemarkahan "Tunggu". Indikasi yang diramalkan kedua dalam paket yang sama menunjukkan corak yang sama (skor tinggi, kesusasteraan tidak relevan), mencadangkan isyarat asas ialah artifak pembenaman graf dan bukannya calon repurposing yang tulen.
+- Ramalan pyelonephritis hanya berasaskan model (L5), tanpa ujian klinikal atau literatur sokongan, dan tiada kaitan mekanistik yang munasabah antara perencatan neuraminidase virus dengan jangkitan bakteria buah pinggang.
 
-**Untuk diteruskan, yang berikut diperlukan:**
-- Selesaikan DG001 (Menghalang): ambil dan huraikan sisipan peket TFDA untuk amaran/keterangan kontra sebelum sebarang saringan keselamatan boleh bermula
-- Selesaikan DG002 (Tinggi): sahkan mekanisme tindakan zanamivir melalui API DrugBank untuk mendokumentasikan secara formal ketidakpadanan mekanistik
-- Jika calon ini hendak diteruskan lagi, pengesahan bebas bagi rasional biologi yang munasabah (cth., kesan sambilan antibakteria atau imunomodulatif) diperlukan, kerana tiada yang wujud pada masa ini dalam paket bukti
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) yang lengkap
+- Data in vitro atau praklinikal yang menunjukkan aktiviti antibakteria terhadap patogen uropatogenik
+- Amaran dan kontraindikasi daripada sisipan pakej yang diluluskan oleh NPRA
+- Pertimbangan status pendaftaran dan ketersediaan produk di Malaysia
 
+---
+
+# Zanamivir: Daripada Influenza kepada Gangguan Metabolisme Tirosin
+
+## Ringkasan Satu Ayat
+
+Zanamivir ialah perencat neuraminidase yang pada asalnya digunakan untuk merawat influenza.
+Model TxGNN meramalkan ia mungkin berkesan untuk **gangguan metabolisme tirosin**,
+dengan **0 ujian klinikal** dan **3 penerbitan** yang diperoleh, tetapi tiada satu pun yang berkaitan secara langsung dengan penyakit ini.
+
+---
+
+## Gambaran Keseluruhan Pantas
+
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Influenza |
+| Indikasi Baharu yang Diramalkan | Gangguan metabolisme tirosin |
+| Skor Ramalan TxGNN | 99.02% |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
+
+---
+
+## Mengapakah Ramalan Ini Munasabah?
+
+Data terperinci tentang mekanisme tindakan zanamivir tidak tersedia. Zanamivir ialah perencat neuraminidase influenza, tetapi tiada kaitan mekanistik yang boleh dipercayai antara perencatan neuraminidase dengan gangguan metabolisme tirosin (contohnya tirosinemia, alkaptonuria) dapat dikenal pasti.
+
+Tiga penerbitan yang diperoleh semuanya berkaitan perencat neuraminidase influenza dan tiada satu pun membincangkan metabolisme tirosin. Padanan literatur ini nampaknya disebabkan oleh artifak kata kunci atau tatatanda mutasi (contohnya H274Y, yang merujuk kepada penggantian histidin kepada tirosin), bukan kaitan penyakit. Ramalan ini hanya bersifat pengiraan, tanpa sokongan klinikal.
+
+---
+
+## Bukti Ujian Klinikal
+
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
+
+---
+
+## Bukti Literatur
+
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [23675925](https://pubmed.ncbi.nlm.nih.gov/23675925/) | 2013 | Ulasan | Infectious Disorders Drug Targets | Kemunculan rintangan oseltamivir dan pengurusan influenza; mutasi H275Y memberi rintangan (tidak berkaitan dengan metabolisme tirosin) |
+| [25727669](https://pubmed.ncbi.nlm.nih.gov/25727669/) | 2015 | Kaedah in vitro | Journal of Molecular Recognition | Ujian resonans plasmon permukaan untuk kepekaan neuraminidase jenis liar dan mutan H274Y terhadap zanamivir dan oseltamivir |
+| [21367898](https://pubmed.ncbi.nlm.nih.gov/21367898/) | 2011 | Praklinikal (virologi/haiwan) | Journal of Virology | Kesan mutasi N294S neuraminidase terhadap kepatogenan virus H5N1 |
+
+---
+
+## Maklumat Pasaran Malaysia
+
+Zanamivir pada masa ini tidak dipasarkan di Malaysia dan tiada lesen berdaftar.
+
+---
+
+## Pertimbangan Keselamatan
+
+- **Interaksi Ubat** (8 interaksi direkodkan): insulin manusia (disedut, bertindak pantas) pada tahap **Sederhana**; clarithromycin, loratadine, montelukast, ketotifen, fexofenadine, ibuprofen dan diclofenac pada tahap tidak diketahui.
+- **Penyakit yang Dikaitkan dengan Kontraindikasi (berdasarkan graf pengetahuan, bukan teks label)**: epilepsi, COPD, penyakit bronkus, delirium.
+
+Untuk amaran dan kontraindikasi rasmi, sila rujuk sisipan pakej.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Hold**
+
+**Rasional:**
+- Tiada kaitan mekanistik atau bukti klinikal yang menyokong; literatur yang diperoleh tidak relevan dan kemungkinan besar hasil padanan kata kunci.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data MOA yang lengkap
+- Bukti biologi yang menghubungkan perencatan neuraminidase dengan laluan metabolisme tirosin
+- Amaran dan kontraindikasi daripada sisipan pakej yang diluluskan oleh NPRA
+- Pertimbangan status pendaftaran di Malaysia
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

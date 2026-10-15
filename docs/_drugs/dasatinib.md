@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Dasatinib
-parent: High Evidence (L1-L2)
-nav_order: 250
-evidence_level: L2
+parent: Low Evidence (L4-L5)
+nav_order: 256
+evidence_level: L5
 indication_count: 10
 ---
 
 # Dasatinib
 {: .fs-9 }
 
-Tahap bukti: **L2** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,47 +29,46 @@ Tahap bukti: **L2** | Indikasi diramal: **10**
 
 </div>
 
-# Dasatinib: Daripada Leukemia Mieloid Kronik kepada Ewing Sarcoma
+# Dasatinib: Daripada Leukemia Myeloid Kronik (CML) kepada Sarkoma Ewing
 
 ## Ringkasan Satu Ayat
 
-Dasatinib adalah penghambat kinase pelbagai sasaran oral (BCR-ABL, SRC family, KIT, PDGFR) yang ditetapkan untuk leukemia mieloid kronik dan ALL Ph+. Ramalan model TxGNN berperingkat tertinggi ialah ia mungkin berkesan untuk **Ewing Sarcoma**, disokong oleh **3 percubaan klinikal** dan **9 penerbitan**, walaupun data keberkesanan manusia langsung khusus untuk indikasi ini masih terhad.
-
-> Nota: Medan lesen rasmi Taiwan/TFDA paket bukti (teks indikasi yang diluluskan, nama dagangan, nombor lesen) adalah kosong, dan rekod MOA DrugBank formal adalah jurang data yang ditandai (DG002). Apabila diperhatikan di bawah, latar belakang tentang mekanisme/indikasi dasatinib yang ditetapkan adalah berdasarkan pengetahuan awam yang terbukti dan bukannya paket bukti ini.
+Dasatinib ialah perencat kinase berbilang sasaran (BCR-ABL dan keluarga SRC) yang pada asalnya digunakan untuk merawat leukemia myeloid kronik (CML) dan leukemia limfoblastik akut positif kromosom Philadelphia (Ph+ ALL). Model TxGNN meramalkan ia mungkin berkesan untuk **Sarkoma Ewing**. Setakat ini terdapat **2 ujian klinikal** dan **10 penerbitan** yang berkaitan, tetapi bukti klinikal belum menunjukkan keberkesanan sebagai ubat tunggal.
 
 ---
 
-## Ikhtisar Cepat
+## Gambaran Ringkas
 
-| Item | Kandungan |
-|------|----------|
-| Indikasi Asal | Leukemia Mieloid Kronik (CML) / ALL Ph+ — teks indikasi yang diluluskan khusus TFDA tidak disediakan dalam set data ini (lihat DG001) |
-| Indikasi Ramalan Baru | Ewing Sarcoma |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | CML dan Ph+ ALL (berdasarkan literatur; maklumat lesen NPRA tidak tersedia) |
+| Indikasi Baharu yang Diramalkan | Sarkoma Ewing |
 | Skor Ramalan TxGNN | 99.90% |
-| Tahap Bukti | L2 |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 2 |
-| Keputusan yang Disyorkan | Tangguhkan |
+| Tahap Bukti | L2 (satu ujian Phase 2 selesai, tetapi bukan RCT dan tidak khusus untuk Ewing; lihat nota di bawah) |
+| Status Pasaran di Malaysia | Tidak dipasarkan (mungkin kekurangan data, lihat bahagian Kesimpulan) |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
+
+> Nota: Tahap L2 diberikan dalam penilaian data yang dikumpulkan. Ujian Phase 2 yang ada ialah ujian sarkoma pelbagai histologi, bukan RCT. Hasil khusus Sarkoma Ewing tidak dipaparkan, dan ulasan literatur melaporkan dasatinib sebagai ubat tunggal gagal dalam subjenis ini. Tahap bukti sebenar mungkin lebih rendah.
 
 ---
 
-## Mengapa Ramalan Ini Wajar Dipertimbangkan?
+## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, rekod mekanisme aksi DrugBank formal tidak tersedia untuk ubat ini (jurang data DG002). Berdasarkan maklumat yang diketahui, dasatinib ialah penghambat kinase generasi kedua pelbagai sasaran yang menargetkan BCR-ABL dan kinase keluarga SRC (serta KIT dan PDGFR), dan keberkesanannya dalam CML/ALL Ph+ adalah mantap.
+Maklumat terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan. Namun, dasatinib diketahui merencat kinase keluarga SRC selain BCR-ABL, dan keberkesanannya dalam CML telah terbukti.
 
-Sel-sel Ewing sarcoma sangat bergantung pada isyarat kinase keluarga SRC (SRC/FAK) untuk mendorong pembentukan invadopodia, migrasi, dan invasi. Pelbagai kajian in vitro dalam paket bukti ini menunjukkan bahawa dasatinib, sebagai penghambat SRC yang kuat, menyupresi proliferasi dan kapasiti migrasi/invasi dalam garis sel Ewing sarcoma (PMID 17363602, 18202781, 27566104, 31521948). Ini memberikan ramalan asas mekanik yang koheren.
+Dalam Sarkoma Ewing, isyarat Src/FAK mendorong pencerobohan, penghijrahan dan pembentukan invadopodia sel tumor. Kajian praklinikal menunjukkan dasatinib mempunyai aktiviti antiproliferatif dan antimigrasi dalam titisan sel Ewing. Ini memberikan asas mekanistik yang munasabah.
 
-Walau bagaimanapun, bukti klinikal tetap awal: satu-satunya percubaan selesai yang secara langsung berkaitan dengan populasi ini (NCT00464620) adalah kajian Fasa 2 "sarcoma lanjutan" yang luas tanpa hasil keberkesanan khusus Ewing-sarcoma dalam set data ini, dan percubaan kombinasi pediatrik yang disasarkan (dasatinib + ifosfamide/carboplatin/etoposide, NCT00788125) telah ditamatkan dengan hanya 7 pesakit yang didaftarkan — isyarat yang membawa kepada berhati-hati dan bukannya keyakinan.
+Namun, bukti klinikal masih lemah. Ujian Phase 2 sarkoma lanjutan hanya memasukkan Ewing sebagai salah satu subjenis, dan ulasan literatur melaporkan dasatinib gagal sebagai ubat tunggal dalam Ewing dan rhabdomiosarkoma. Ujian kombinasi pediatrik telah ditamatkan awal dengan hanya 7 pesakit. Oleh itu, peranan dasatinib lebih berkemungkinan sebagai sebahagian daripada kombinasi (contohnya regimen RIST) dan bukannya ubat tunggal.
 
 ---
 
-## Bukti Percubaan Klinikal
+## Bukti Ujian Klinikal
 
-| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT00464620](https://clinicaltrials.gov/study/NCT00464620) | Fasa 2 | Selesai | 366 | Dasatinib dalam sarcoma lanjutan (kadar respons, PFS 6 bulan); bukti keberkesanan paling langsung sehingga kini, termasuk kohort Ewing sarcoma, namun ringkasan hasil khusus indikasi tidak disertakan dalam set data ini. |
-| [NCT00788125](https://clinicaltrials.gov/study/NCT00788125) | Fasa 1/2 | Ditamatkan | 7 | Dasatinib + ifosfamide/carboplatin/etoposide dalam tumor pepejal pediatrik; ditamatkan dengan pendaftaran sangat kecil (N=7), berkemungkinan mencerminkan kesukaran perekrutan atau isyarat negatif awal. |
-| [NCT06500819](https://clinicaltrials.gov/study/NCT06500819) | Fasa 1 | Merekrut | 41 | Percubaan terapi sel CAR-T B7-H3 dalam tumor pepejal pediatrik relaps/refraktori (termasuk Ewing sarcoma); dasatinib, jika digunakan, berkemungkinan berfungsi hanya sebagai mekanisme keselamatan CAR-T berbasis kinase, bukan sebagai terapi anti-Ewing-sarcoma itu sendiri — perkaitan langsung yang rendah. |
+| [NCT00788125](https://clinicaltrials.gov/study/NCT00788125) | Phase 1/2 | Ditamatkan | 7 | Dasatinib bersama ifosfamide, carboplatin dan etoposide pada pesakit pediatrik. Ditamatkan awal dengan hanya 7 pesakit, jadi maklumat keselamatan dan keberkesanan sangat terhad. |
+| [NCT00464620](https://clinicaltrials.gov/study/NCT00464620) | Phase 2 | Selesai | 366 | Dasatinib ubat tunggal dalam sarkoma lanjutan (kadar respons dan kemandirian bebas progresi 6 bulan). Kajian pelbagai histologi, tanpa hasil khusus Ewing dalam data yang ada. |
 
 ---
 
@@ -77,57 +76,55 @@ Walau bagaimanapun, bukti klinikal tetap awal: satu-satunya percubaan selesai ya
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [26170970](https://pubmed.ncbi.nlm.nih.gov/26170970/) | 2015 | Ulasan | Oncology Letters | Mengulas peranan pensinyalan SRC dalam biologi sarcoma dan kebolehalannya sebagai sasaran ubat. |
-| [35655525](https://pubmed.ncbi.nlm.nih.gov/35655525/) | 2022 | Ulasan/Mekanik | Sarcoma | Membincangkan penargetan kompleks FAK-SRC dalam DSRCT, Ewing sarcoma dan rabdomiosarcoma; mencatat dasatinib gagal sebagai agen tunggal dalam kajian Fasa 2 terdahulu untuk subtaip ini, memotivasi pendekatan kombinasi. |
-| [35190971](https://pubmed.ncbi.nlm.nih.gov/35190971/) | 2022 | Ulasan (berfokus kondrosarcoma; perkaitan langsung rendah) | Curr Treat Options Oncol | Ulasan terapi sistemik untuk kondrosarcoma, bukan khusus Ewing-sarcoma. |
-| [17363602](https://pubmed.ncbi.nlm.nih.gov/17363602/) | 2007 | Pra-klinikal (in vitro) | Cancer Research | Dasatinib menghalang migrasi/invasi merentasi garis sel sarcoma dan mendorong apoptosis dalam sel sarcoma tulang bergantung SRC. |
-| [18202781](https://pubmed.ncbi.nlm.nih.gov/18202781/) | 2008 | Pra-klinikal (in vitro) | Oncology Reports | Dasatinib menunjukkan aktiviti antiproliferatif dan anti-migrasi dalam garis sel neuroblastoma dan Ewing sarcoma melalui perencatan c-KIT/PDGFR. |
-| [27566104](https://pubmed.ncbi.nlm.nih.gov/27566104/) | 2016 | Pra-klinikal (in vitro) | Neoplasia | Tekanan persekitaran mikro mengaktifkan invadopodia bergantung SRC dan migrasi sel dalam Ewing sarcoma. |
-| [31521948](https://pubmed.ncbi.nlm.nih.gov/31521948/) | 2019 | Pra-klinikal (in vitro) | Neoplasia | Tenascin C dan SRC bekerjasama untuk mempromosikan pembentukan invadopodia dan potensi metastatik dalam Ewing sarcoma. |
-| [29776413](https://pubmed.ncbi.nlm.nih.gov/29776413/) | 2018 | Pra-klinikal (in vitro; tidak berfokus dasatinib) | Cell Commun Signal | Penentang reseptor CXCR4 plerixafor mengaktifkan pensinyalan reseptor tirosin kinase dalam Ewing sarcoma — konteks penyokong, bukan bukti dasatinib langsung. |
-| [32999666](https://pubmed.ncbi.nlm.nih.gov/32999666/) | 2020 | Laporan kes (krisis ledakan CML — nampak tidak berkaitan dengan Ewing sarcoma) | Case Rep Oncol | Abnormaliti kromosom dalam krisis ledakan CML; berkemungkinan ketidakpadanan pengelasan dalam paket bukti ini, tidak berkaitan dengan indikasi Ewing sarcoma. |
+| [35655525](https://pubmed.ncbi.nlm.nih.gov/35655525/) | 2022 | Ulasan | Sarcoma | Menyasarkan kompleks FAK-Src dalam DSRCT, sarkoma Ewing dan rhabdomiosarkoma. Dasatinib ubat tunggal telah dikaji dalam Phase 2 tetapi gagal dalam subjenis ini. |
+| [26170970](https://pubmed.ncbi.nlm.nih.gov/26170970/) | 2015 | Ulasan | Oncology Letters | Src mempunyai peranan penting dalam proliferasi, invasi dan metastasis sarkoma, dan berpotensi menjadi sasaran terapeutik. |
+| [42804591](https://pubmed.ncbi.nlm.nih.gov/42804591/) | 2026 | Siri kes | J Pediatr Hematol Oncol | Pengalaman klinikal dengan regimen RIST (rapamycin, irinotecan, dasatinib, temozolomide) dalam sarkoma Ewing berulang, sebagai alternatif biologi tersasar. |
+| [18202781](https://pubmed.ncbi.nlm.nih.gov/18202781/) | 2008 | In vitro | Oncology Reports | Dasatinib menunjukkan kesan antiproliferatif dan antimigrasi dalam titisan sel neuroblastoma dan sarkoma Ewing. |
+| [17363602](https://pubmed.ncbi.nlm.nih.gov/17363602/) | 2007 | In vitro | Cancer Research | Dasatinib merencat migrasi dan invasi dalam pelbagai titisan sel sarkoma, dan mendorong apoptosis dalam sel sarkoma tulang yang bergantung pada kinase SRC. |
+| [27566104](https://pubmed.ncbi.nlm.nih.gov/27566104/) | 2016 | In vitro | Neoplasia | Tekanan mikropersekitaran mengaktifkan invadopodia dan penghijrahan sel Ewing melalui Src. |
+| [31521948](https://pubmed.ncbi.nlm.nih.gov/31521948/) | 2019 | In vitro | Neoplasia | Tenascin C dan Src bekerjasama mendorong pembentukan invadopodia dalam sarkoma Ewing. |
+| [35190971](https://pubmed.ncbi.nlm.nih.gov/35190971/) | 2022 | Ulasan | Curr Treat Options Oncol | Ulasan rawatan sistemik kondrosarkoma. Kaitan langsung dengan Sarkoma Ewing terhad. |
 
 ---
 
-## Maklumat Pasaran Malaysia
+## Maklumat Kardiotoksisiti dan Sitotoksisiti (Ubat Antineoplastik)
 
-Status pasaran menunjukkan ubat dipasarkan dengan **2 lesen berdaftar**, namun perincian lesen (nombor kebenaran, nama produk, bentuk dosage, teks indikasi yang diluluskan) tidak diisi dalam set data ini — ini adalah jurang data penghalang DG001 (data label/amaran TFDA), yang perlu diselesaikan melalui label produk TFDA sebelum semakan peraturan atau keselamatan dapat diteruskan.
+Dasatinib ialah ubat antineoplastik, dan bahagian ini diberikan sewajarnya.
 
----
-
-## Sitotoksisiti
-
-Dasatinib adalah agen antineoplastik (pada asalnya ditunjukkan untuk CML/ALL Ph+; penghambat multi-kinase), jadi bahagian ini terpakai.
-
-| Item | Kandungan |
+| Perkara | Kandungan |
 |------|------|
-| Pengelasan Sitotoksisiti | Terapi bersasaran (penghambat multi-kinase: BCR-ABL, keluarga SRC, KIT, PDGFR) |
-| Risiko Pemangkatan Sumsum Tulang | Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pembungkus (data toksisiti formal adalah jurang penghalang, DG001); pengalaman peringkat kelas TKI dan literatur dalam paket ini (cth., efusi pleura/kilotoraks, laporan pneumonitis interstisial) menunjukkan kesan samping myelosepresi dan pengekalan bendalir bermakna secara klinikal dan harus dipantau |
-| Pengelasan Emetogenisiti | Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pembungkus |
-| Item Pemantauan | CBC dengan pembezaan, fungsi hati dan ginjal; memandangkan isyarat literatur dalam paket ini, juga pantau untuk efusi pleura/perikardium dan gejala paru-paru |
-| Perlindungan Pengendalian | Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pembungkus; ikut protokol pengendalian piawai untuk ubat sitotoksik/onkologi bersasaran menunggu pengesahan |
+| Klasifikasi Sitotoksisiti | Terapi tersasar (perencat tirosin kinase) |
+| Risiko Penekanan Sumsum Tulang | Berkemungkinan ketara (sitopenia lazim dilaporkan dengan perencat kinase ini). Sila rujuk amaran dalam sisipan pakej. |
+| Klasifikasi Emetogenisiti | Rendah (anggaran berdasarkan kategori ubat) |
+| Item Pemantauan | Kiraan darah lengkap (CBC) dengan pembezaan, fungsi hati dan buah pinggang, elektrolit. Pantau juga efusi pleura dan kilotoraks, yang dilaporkan dalam literatur. |
+| Perlindungan Pengendalian | Ikuti garis panduan pengendalian ubat berbahaya/sitotoksik. Sila rujuk sisipan pakej. |
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pembungkus untuk maklumat keselamatan. (Tiada data amaran utama, kontraindikasi, atau interaksi ubat yang tersedia dalam paket bukti ini — DG001 adalah jurang penghalang.)
+- **Interaksi Ubat**: Pangkalan data interaksi merekodkan sejumlah 100 interaksi. Antara yang utama:
+  - **Major**: famotidine, ranitidine, cimetidine, omeprazole, rabeprazole (penekan asid, yang boleh mengurangkan penyerapan dasatinib), dexamethasone, asid asetilsalisilik, clarithromycin.
+  - **Moderate**: hydrocortisone, budesonide, loperamide, aprepitant, bisacodyl, magnesium oxide, aluminium hydroxide, kalsium karbonat, saxagliptin, polietilena glikol dan minyak kastor.
+- **Kesan Advers Dilaporkan dalam Literatur**: Efusi pleura sering dilaporkan, dan kilotoraks dilaporkan dalam laporan kes pesakit CML.
+
+Sila rujuk sisipan pakej untuk amaran utama dan kontraindikasi.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tangguhkan**
+**Keputusan: Hold**
 
-**Alasan:**
-Bukti mekanik dan in vitro wajar menghubungkan perencatan laluan SRC dasatinib dengan biologi Ewing sarcoma, namun bukti klinikal khusus indikasi lemah — percubaan selesai yang berkaitan menyatukan pelbagai jenis sarcoma tanpa hasil khusus Ewing, dan satu-satunya percubaan kombinasi pediatrik yang disasarkan telah ditamatkan dengan N=7. Digabungkan dengan jurang data keselamatan/label yang menghalang (DG001), calon ini belum siap untuk maju melampaui peringkat soalan penyelidikan.
+**Justifikasi:**
+- Terdapat asas mekanistik yang munasabah (isyarat Src/FAK) dan data praklinikal yang menyokong. Namun bukti klinikal belum menunjukkan manfaat: ujian pelbagai sarkoma tidak mempamerkan hasil khusus Ewing, ulasan melaporkan kegagalan sebagai ubat tunggal, dan ujian kombinasi pediatrik ditamatkan awal dengan 7 pesakit.
+- Status pasaran "tidak dipasarkan" di Malaysia berkemungkinan besar disebabkan kekurangan data, kerana dasatinib sudah lama mempunyai indikasi untuk CML. Perkara ini perlu disahkan.
 
-**Untuk meneruskan, berikut diperlukan:**
-- Label produk TFDA — amaran dan kontraindikasi utama (DG001, penghalang)
-- Rekod mekanisme aksi DrugBank (DG002)
-- Hasil subkumpulan khusus Ewing-sarcoma daripada NCT00464620
-- Perincian lesen TFDA lengkap (nombor kebenaran, bentuk dosage, teks indikasi yang diluluskan)
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Mengesahkan status pendaftaran dan indikasi sebenar dasatinib di NPRA, serta memuat turun dan menganalisis sisipan pakej (amaran dan kontraindikasi).
+- Melengkapkan data mekanisme tindakan (MOA) daripada sumber seperti DrugBank.
+- Mendapatkan hasil khusus Sarkoma Ewing daripada ujian Phase 2 sarkoma (NCT00464620) dan menilai data regimen kombinasi (contohnya RIST) dalam ujian yang lebih besar.
+- Menyediakan pelan pemantauan keselamatan, termasuk pengurusan interaksi dengan penekan asid dan pemantauan efusi pleura.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

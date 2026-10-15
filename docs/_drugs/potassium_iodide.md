@@ -2,7 +2,7 @@
 layout: default
 title: Potassium Iodide
 parent: Low Evidence (L4-L5)
-nav_order: 567
+nav_order: 594
 evidence_level: L4
 indication_count: 2
 ---
@@ -29,82 +29,87 @@ Tahap bukti: **L4** | Indikasi diramal: **2**
 
 </div>
 
-# Kalium Iodida: Dari Indikasi Asal yang Tidak Ditentukan hingga Penyakit Rongga Hidung
+# Kalium Iodida: Daripada Rinitis Alergik kepada Penyakit Rongga Hidung
 
-## Ringkasan Satu Kalimat
+## Ringkasan Satu Ayat
 
-Kalium iodida (DrugBank DB06715) memiliki 121 produk terdaftar di Malaysia, tetapi indikasi persetujuan aslinya tidak tercatat dalam data registri yang tersedia.
-Model TxGNN memprediksi potensi relevansi terhadap **Penyakit Rongga Hidung** (skor 99.95%), dengan **0 uji klinis** dan **4 publikasi laporan kasus** — semuanya menjelaskan infeksi nasal/sinus jamur (mikotik) daripada kategori TxGNN yang luas itu sendiri, dan sebagian besar dalam pengaturan veteriner.
-
----
-
-## Gambaran Singkat
-
-| Item | Kandungan |
-|------|---------|
-| Indikasi Asli | Tidak ditentukan dalam data NPRA/registri yang tersedia |
-| Indikasi Baru yang Diprediksi | Penyakit Rongga Hidung |
-| Skor Prediksi TxGNN | 99.95% |
-| Tingkat Bukti | L4 |
-| Status Pasar Malaysia | ✓ Dipasarkan |
-| Jumlah Pendaftaran | 121 |
-| Keputusan yang Direkomendasikan | Tahan |
+Kalium iodida pada asalnya dikaitkan dengan rinitis alergik, rinitis vasomotor, faringitis, selesema biasa dan nasofaringitis (berdasarkan graf pengetahuan TxGNN).
+Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit rongga hidung (nasal cavity disease)**,
+tetapi setakat ini hanya terdapat **0 ujian klinikal** dan **4 penerbitan** (kesemuanya laporan kes, tiga daripadanya veterinar) yang menyokong arah ini.
 
 ---
 
-## Mengapa Prediksi Ini Masuk Akal?
+## Gambaran Keseluruhan Pantas
 
-Saat ini, data mekanisme aksi terperinci tidak tersedia untuk kalium iodida. Berdasarkan bukti yang dikumpulkan, kalium iodida (sebagai larutan jenuh, SSKI) memiliki sejarah tradisional yang panjang sebagai pengobatan untuk infeksi jamur subkutan dan mukosa — terutama sporotrikosis dan mukormikosis (zigomikosis). Mekanismenya tidak sepenuhnya dijelaskan, tetapi diyakini melibatkan aktivitas antijamur langsung dari yodium yang dilepaskan bersama dengan modulasi respons inflamasi/imun lokal.
-
-Literatur yang mendukung prediksi ini menjelaskan skenario klinis yang sempit — rinitis mikotik dan infeksi jamur rhinofasial (disebabkan oleh organisme seperti *Aspergillus fumigatus*, *Pseudallescheria boydii*, dan *Pythium insidiosum*) — daripada "penyakit rongga hidung" sebagai kategori yang luas. Ini mewakili **pemetaan tidak langsung**: skor TxGNN mencerminkan kesamaan tingkat grafik pengetahuan, sementara dukungan klinis aktual terbatas pada subset infeksi jamur spesifik penyakit nasal, sebagian besar dalam laporan kasus veteriner.
-
-Karena hubungan mekanistik dan kategori penyakit itu sempit dan tidak langsung, dan tidak ada uji intervensi yang ada, prediksi ini harus ditafsirkan sebagai penghasil hipotesis daripada dapat ditindaklanjuti secara klinis pada tahap ini.
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Rinitis alergik, rinitis vasomotor, faringitis, selesema biasa, nasofaringitis (daripada graf pengetahuan TxGNN; tiada teks indikasi berlesen kerana tiada pendaftaran) |
+| Indikasi Baharu yang Diramalkan | Penyakit rongga hidung (nasal cavity disease) |
+| Skor Ramalan TxGNN | 99.95% |
+| Tahap Bukti | L4 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
-## Bukti Uji Klinis
+## Mengapa Ramalan Ini Munasabah?
 
-Saat ini tidak ada uji klinis terkait yang terdaftar.
+Data terperinci mengenai mekanisme tindakan kalium iodida belum tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat yang diketahui, kalium iodida ialah rawatan yang mantap untuk jangkitan kulat dan oomisetes tertentu (contohnya sporotrikosis serta entomoftoromikosis jenis konidiobolomikosis/basidiobolomikosis yang menyebabkan penyakit rinofasial). Ia mungkin juga berkesan secara mekanistik untuk penyakit rongga hidung yang bersifat berjangkit.
+
+Indikasi asal (rinitis alergik/vasomotor, selesema biasa) kemungkinan besar berasaskan penggunaan sejarah sebagai ekspektoran/mukolitik. Skor TxGNN yang tinggi (0.9995) mencerminkan ramalan rangkaian, bukan pengesahan klinikal. Bukti yang ada **tidak** merangkumi penyakit rongga hidung yang tidak berjangkit.
+
+Ramalan kedua, **laringofaringitis akut** (skor 99.95%, tahap bukti L5), tidak mempunyai sebarang ujian klinikal atau literatur. Sokongannya hanya skor model, yang kemungkinan didorong oleh kedekatan rangkaian dengan indikasi asal (faringitis, nasofaringitis, selesema biasa).
+
+---
+
+## Bukti Ujian Klinikal
+
+Setakat ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
-| PMID | Tahun | Jenis | Jurnal | Temuan Utama |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [34902797](https://pubmed.ncbi.nlm.nih.gov/34902797/) | 2022 | Laporan kasus | Journal de mycologie médicale | Pengobatan kalium iodida yang berhasil untuk pithiosis rhinofasial (infeksi oomiseta) pada domba, menyebabkan rongga nasal dan massa palatum keras |
-| [39576399](https://pubmed.ncbi.nlm.nih.gov/39576399/) | 2024 | Laporan kasus | Veterinary Research Communications | Rinitis mikotik yang disebabkan oleh *Aspergillus fumigatus* pada kuda yang diobati dengan klotrimazol topikal ditambah kalium iodida oral |
-| [10976304](https://pubmed.ncbi.nlm.nih.gov/10976304/) | 2000 | Laporan kasus | Journal of the American Veterinary Medical Association | Infeksi rongga nasal *Pseudallescheria boydii* pada kuda, diobati dengan mikonazol intranasal dan natrium iodida intravena |
-| [7997795](https://pubmed.ncbi.nlm.nih.gov/7997795/) | 1994 | Laporan kasus | Revista do Instituto de Medicina Tropical de São Paulo | Kasus manusia zigomikosis nasofasial (mukormikosis) di Brasil menunjukkan respons cepat terhadap terapi kalium iodida |
+| [34902797](https://pubmed.ncbi.nlm.nih.gov/34902797/) | 2022 | Laporan kes (veterinar, biri-biri) | Journal de mycologie medicale | Rawatan kalium iodida berjaya bagi piotiosis rinofasial pada biri-biri |
+| [39576399](https://pubmed.ncbi.nlm.nih.gov/39576399/) | 2024 | Laporan kes (veterinar, kuda) | Veterinary research communications | Rinitis mikotik akibat *Aspergillus fumigatus* pada kuda betina dirawat dengan klotrimazol topikal dan kalium iodida oral |
+| [10976304](https://pubmed.ncbi.nlm.nih.gov/10976304/) | 2000 | Laporan kes (veterinar, kuda) | J Am Vet Med Assoc | Jangkitan rongga hidung oleh *Pseudallescheria boydii* pada kuda; dirawat dengan mikonazol intranasal dan natrium iodida intravena |
+| [7997795](https://pubmed.ncbi.nlm.nih.gov/7997795/) | 1994 | Laporan kes (manusia) | Rev Inst Med Trop Sao Paulo | Zigomikosis nasofasial pada pesakit wanita berusia 64 tahun; respons pantas terhadap kalium iodida |
 
 ---
 
-## Informasi Pasar Malaysia
+## Maklumat Pasaran Malaysia
 
-Malaysia memiliki 121 produk terdaftar yang mengandung kalium iodida (status pasar: Dipasarkan), tetapi nomor otorisasi, nama produk, bentuk dosis, dan teks indikasi yang disetujui tidak tersedia dalam ekstrak data saat ini.
+Kalium iodida pada masa ini tidak dipasarkan di Malaysia dan tiada pendaftaran (lesen) NPRA yang direkodkan.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Silakan merujuk pada selebaran kemasan untuk informasi keselamatan.
+- **Penyakit yang dikaitkan dengan kontraindikasi dalam graf pengetahuan** (bukan teks label produk): hipertensi, kegagalan hati, epilepsi, penyakit paru obstruktif kronik (COPD), gangguan kebimbangan, porfiria, penyakit buah pinggang, pankreatitis, penyakit hempedu, trombositopenia, hipotiroidisme/miksedema, penyakit ulser peptik, penyakit radang usus, gangguan psikotik, dermatitis herpetiformis, diabetes mellitus dan ketoasidosis diabetes.
+- **Interaksi Ubat**: Sebanyak 45 interaksi direkodkan. Interaksi **Major** yang disenaraikan termasuk perencat ACE (benazepril, captopril, enalapril, lisinopril, moexipril, perindopril, quinapril), penyekat reseptor angiotensin (olmesartan, valsartan, azilsartan medoxomil, losartan, telmisartan) dan trimetoprim. Interaksi **Moderate** termasuk NSAID (ketorolac, ibuprofen, diclofenac, oxaprozin, naproxen), aliskiren dan tolvaptan.
+- Risiko berkaitan iodida, seperti disfungsi tiroid dan hipersensitiviti, perlu ditimbang sebelum sebarang pertimbangan lanjut.
+
+Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi rasmi.
 
 ---
 
-## Kesimpulan dan Langkah Berikutnya
+## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
-**Alasan:**
-- Bukti terbatas pada empat laporan kasus (sebagian besar veteriner), mengatasi indikasi rinitis jamur yang lebih sempit daripada kategori "penyakit rongga hidung" yang diprediksi oleh TxGNN, tanpa uji klinis. Indikasi yang diprediksi kedua (laringofaring akut, skor 99.95%) tidak memiliki uji klinis pendukung atau literatur sama sekali dan juga dinilai Tahan — tidak akan ditindaklanjuti lebih lanjut pada tahap ini.
-- Tinjauan keselamatan tidak dapat dilanjutkan: peringatan selebaran kemasan TFDA/NPRA dan kontraindikasi adalah celah data pemblokiran (DG001), dan data mekanisme aksi juga hilang (DG002).
+**Justifikasi:**
+- Ramalan ini hanya disokong oleh skor model dan laporan kes (kebanyakannya veterinar) pada jangkitan kulat/oomisetes; tiada ujian klinikal. Ubat ini juga tidak dipasarkan di Malaysia dan data keselamatan rasmi belum ada.
 
-**Untuk melanjutkan, hal berikut diperlukan:**
-- Peringatan selebaran kemasan, kontraindikasi, dan data interaksi obat untuk kalium iodida (celah pemblokiran, DG001)
-- Informasi mekanisme aksi yang diverifikasi (DG002)
-- Klarifikasi kondisi nasal/sinus spesifik mana (misalnya, rinosinusitis jamur) kategori "penyakit rongga hidung" TxGNN sesuai dengan, dan apakah bukti manusia (bukan hanya veteriner) ada
-- Detail lisensi dan produk khusus Malaysia (saat ini tidak tersedia meskipun ada 121 pendaftaran)
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisipan pakej dan maklumat amaran/kontraindikasi daripada NPRA (jurang data yang menghalang saringan keselamatan)
+- Data mekanisme tindakan (MOA) terperinci daripada DrugBank
+- Penjelasan sama ada sasaran ialah penyakit rongga hidung berjangkit (kulat) sahaja atau juga yang tidak berjangkit
+- Kajian klinikal pada manusia, atau ulasan sistematik yang relevan
+- Penilaian risiko tiroid dan interaksi ubat (terutamanya perencat ACE, ARB dan trimetoprim)
+- Penilaian kesesuaian laluan pentadbiran dan bentuk dos
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

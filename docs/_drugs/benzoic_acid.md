@@ -2,7 +2,7 @@
 layout: default
 title: Benzoic Acid
 parent: Low Evidence (L4-L5)
-nav_order: 130
+nav_order: 135
 evidence_level: L5
 indication_count: 5
 ---
@@ -29,95 +29,89 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Benzoic acid: Daripada Agen Pengawet/Antifungal kepada Pemfigus
+# Asid Benzoik: Daripada Penyakit Kulit/Tisu Penghubung kepada Pemfigus (Ramalan Berskor 0.0)
 
-## Ringkasan Satu Kalimat
+## Ringkasan Satu Ayat
 
-Benzoic acid ialah asid aromatic karbosilik mudah yang biasanya digunakan sebagai pengawet dan agen antifungal topikal dalam produk farmaseutikal dan makanan. Model TxGNN meramalkan ia mungkin berkesan untuk **Pemfigus**, tetapi pada masa ini **tiada ujian klinikal** dan **tiada penerbitan** yang menyokong arah ini. Kesemua lima petunjuk yang diramalkan tidak mempunyai rasional mekanistik dan bukti klinikal, menjadikan ini ramalan peringkat awal sahaja dari model.
+Asid benzoik ialah sebatian yang dalam graf pengetahuan TxGNN dikaitkan dengan beberapa penyakit kulit dan tisu penghubung, antaranya pemfigus, penyakit Peyronie dan skleroderma.
+Model TxGNN meletakkan **pemfigus** sebagai ramalan tertinggi, tetapi dengan skor **0.0%**, dan **tiada percubaan klinikal** serta **tiada kajian yang relevan secara langsung** menyokong arah ini.
+Penilaian ini hanya berasaskan ramalan model (tahap bukti L5).
 
 ---
 
-## Gambaran Keseluruhan Pantas
+## Gambaran Keseluruhan
 
-| Item | Kandungan |
-|------|----------|
-| Petunjuk Asal | Pengawet dan agen antifungal topikal (biasanya dalam produk kombinasi) |
-| Petunjuk Baru yang Diramalkan | Pemfigus |
-| Skor Ramalan TxGNN | 0.00% |
-| Tahap Bukti | L5 (Ramalan model sahaja, tiada kajian sebenar) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 36 |
-| Keputusan yang Disyorkan | Tahan |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Tiada teks indikasi berlesen (tiada pendaftaran di Malaysia). Dalam graf pengetahuan: pemfigus, penyakit Peyronie, fibromatosis penis, balanitis xerotica obliterans, skleroderma, skleroderma setempat, sklerosis sistemik, dermatomiositis |
+| Indikasi Baharu yang Diramalkan | Pemfigus |
+| Skor Ramalan TxGNN | 0.0% |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (Tahan) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan terperinci tidak tersedia. Benzoic acid ialah pengawet yang digunakan secara meluas dan, dalam kombinasi dengan asid salisilat (salap Whitfield), berfungsi sebagai agen antifungal topikal. Ia dikenali terutamanya untuk sifat antimikrobanya melalui pengasidan dan gangguan pada membran sel mikrob, bukan sebarang aktiviti imunomodulator atau terapeutik sistemik.
+Data mekanisme tindakan (MOA) asid benzoik tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Hubungan mekanistik antara asid benzoik dengan pemfigus tidak dapat diwujudkan: skor TxGNN ialah 0.0, tiada percubaan klinikal dan tiada literatur yang dikemukakan. Sebarang rasional pada tahap ini hanyalah spekulasi.
 
-Pemfigus ialah kumpulan penyakit berbuih autoimun yang teruk didorong oleh autoantibodi (terutamanya anti-desmoglein 1 dan 3) yang menyerang protein pelekatan desmosomal dalam kulit dan selaput lendir. Rawatan biasanya memerlukan imunosupresi sistemik dengan kortikosteroid, rituximab, atau ejen imunosupresif lain. Tiada mekanisme farmakologi yang diketahui di mana benzoic acid boleh memodulasi pengeluaran autoantibodi, pengaktifan komplemen, atau integriti desmosomal.
+Perlu dinyatakan bahawa semua indikasi yang disenaraikan (pemfigus, dermatomiositis, sklerosis sistemik, balanitis xerotica obliterans, fibromatosis penis) berasal daripada kaitan dalam graf pengetahuan, bukan daripada label produk yang diluluskan. Kesamaan dengan indikasi asal masih belum dinilai.
 
-Skor ramalan TxGNN sebanyak 0.00% seterusnya menggariskan kelemahan perkaitan ini. Model mungkin telah mengenal pasti kedekatannya struktur atau berasaskan graf dalam graf pengetahuan, tetapi tiada bukti biologi, klinikal, atau mekanistik yang menyokong pengguna semula benzoic acid untuk pemfigus atau mana-mana daripada empat petunjuk lain yang diramalkan (dermatomiositis, sklerosis sistemik, balanitis xerotika obliterans, fibromatosis penis).
-
----
-
-## Bukti Ujian Klinikal
-
-Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan untuk mana-mana daripada lima petunjuk yang diramalkan.
+Bagi **sklerosis sistemik** (ramalan ke-3), empat penerbitan ditemui tetapi tiada satu pun menyokong asid benzoik sebagai rawatan. Kajian tersebut melibatkan biologi penyakit tanpa asid benzoik (CLIC4 dalam fibroblas), terbitan sebatian yang berbeza dalam model ALS, kajian tikus tanpa SOD2, serta kimia perubatan terbitan akrilamida. Padanan ini kelihatan hanya berdasarkan kata kunci, jadi buktinya tidak langsung dan sampingan.
 
 ---
 
-## Bukti Literatur (Sklerosis Sistemik — Pangkat 3)
+## Bukti Percubaan Klinikal
 
-Tiada literatur yang dikenal pasti untuk ramalan pangkat teratas (pemfigus) atau untuk dermatomiositis, balanitis xerotika obliterans, atau fibromatosis penis. Empat penerbitan diperoleh untuk petunjuk pangkat-3 (sklerosis sistemik), tetapi tiada satupun menunjukkan relevansi langsung kepada benzoic acid sebagai agen terapeutik untuk sklerosis sistemik:
+Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
+
+---
+
+## Bukti Literatur
+
+Bagi ramalan teratas (pemfigus), pada masa ini tiada literatur berkaitan. Bagi ramalan sklerosis sistemik, penerbitan berikut ditemui tetapi tidak relevan secara langsung dengan asid benzoik:
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [33118131](https://pubmed.ncbi.nlm.nih.gov/33118131/) | 2021 | Praklinik/Hewan | Neurotherapeutics | Derivatif **asid benzoik nitroalkena** (bukan benzoic acid itu sendiri) menunjukkan inhibisi NF-κB dalam model tikus ALS — tidak berkaitan dengan sklerosis sistemik |
-| [33331912](https://pubmed.ncbi.nlm.nih.gov/33331912/) | 2021 | Sains Asas (in vitro) | Rheumatology | Mengkaji CLIC4 dalam pengaktifan fibroblas SSc — tiada sebutan benzoic acid sebagai agen terapeutik |
-| [33078092](https://pubmed.ncbi.nlm.nih.gov/33078092/) | 2020 | Kimia Ubat | Acta Pharm Sin B | Perencat DHODH (analog akrilamidobenzoat) untuk artritis reumatoid — derivatif sintetik, bukan benzoic acid |
-| [9462746](https://pubmed.ncbi.nlm.nih.gov/9462746/) | 1998 | Sains Asas (tikus knockout) | Nat Genet | Fenotip neurologis tikus knockout MnSOD — tiada kaitan dengan benzoic acid atau sklerosis sistemik |
-
-> **Nota:** Kesemua empat penerbitan adalah ketidakpadanan kata kunci — ia menyebut derivatif benzoic acid atau konteks penyakit yang tidak berkaitan. Tiada satupun memberikan bukti yang menyokong benzoic acid untuk rawatan sklerosis sistemik.
+| [33331912](https://pubmed.ncbi.nlm.nih.gov/33331912/) | 2021 | Praklinikal (in vitro) | Rheumatology (Oxford) | Saluran klorida CLIC4 mengaktifkan fibroblas sklerosis sistemik; tidak melibatkan asid benzoik |
+| [33118131](https://pubmed.ncbi.nlm.nih.gov/33118131/) | 2021 | Praklinikal (model haiwan) | Neurotherapeutics | Terbitan asid benzoik nitroalkena memanjangkan kelangsungan hidup dalam model ALS melalui perencatan NF-κB; sebatian dan penyakit berbeza |
+| [33078092](https://pubmed.ncbi.nlm.nih.gov/33078092/) | 2020 | Kimia perubatan / in vitro | Acta Pharm Sin B | Terbitan akrilamida sebagai perencat DHODH untuk arthritis reumatoid; tidak relevan |
+| [9462746](https://pubmed.ncbi.nlm.nih.gov/9462746/) | 1998 | Praklinikal (tikus knockout) | Nature Genetics | Fenotip neurologi tikus tanpa SOD2 mitokondria; tidak relevan |
 
 ---
 
-## Maklumat Pasaran Malaysia
+## Keselamatan
 
-Benzoic acid didaftarkan dengan **36 lesen produk** di Malaysia. Walau bagaimanapun, maklumat lesen terperinci (nombor kebenaran, nama produk, bentuk dos, dan petunjuk yang diluluskan) tidak tersedia dalam ekstraksi data semasa.
+Maklumat keselamatan daripada sisipan pakej tidak tersedia. Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-| Item | Kandungan |
-|------|----------|
-| Jumlah Pendaftaran | 36 |
-| Butiran Produk | Tidak tersedia dalam set data semasa |
+Sebagai petunjuk tambahan, graf pengetahuan TxGNN (bukan teks label) mengaitkan asid benzoik dengan kontraindikasi bagi penyakit berikut:
 
-> Benzoic acid biasanya didaftarkan sebagai bahan tambahan/pengawet atau dalam produk antifungal topikal kombinasi (cth., salap Whitfield dengan asid salisilat).
+- **Kardiovaskular**: hipertensi, penyakit arteri koronari, penyakit jantung, penyakit kardiovaskular, sawan jantung mengejut, penyakit pengaliran jantung
+- **Hati, hempedu dan ginjal**: kegagalan hati, penyakit hati, penyakit pundi hempedu, penyakit ginjal, piouretur
+- **Metabolik**: diabetes mellitus, ketoasidosis diabetes, penyakit penyimpanan glikogen, sistinuria, galaktosemia, kekurangan G6PD
+- **Hematologi**: penyakit pembekuan darah, hemofilia, anemia, anemia makrositik
+- **Neuromuskular**: miastenia gravis (termasuk permulaan dewasa), penyakit simpang neuromuskular
+- **Gastrousus dan lain-lain**: gastritis, akalasia, megaesofagus, hiperplasia prostat jinak, anoreksia nervosa
 
----
-
-## Pertimbangan Keselamatan
-
-> Sila rujuk kepada kertas sisipan untuk maklumat keselamatan. Data amaran utama, kontraindikasi, dan interaksi ubat-ubatan tidak tersedia dalam pakej bukti ini. Tiada interaksi ubat-ubatan yang dikenal pasti dalam pertanyaan DrugBank.
+Maklumat ini perlu disahkan dengan sumber label rasmi sebelum digunakan.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold (Tahan)**
 
 **Rasional:**
-Kesemua lima petunjuk yang diramalkan TxGNN untuk benzoic acid mencapai skor 0.00% dan membawa tahap bukti L5 (ramalan model sahaja). Tiada ujian klinikal, tiada penerbitan yang relevan, dan tiada rasional mekanistik yang menghubungkan benzoic acid — pengawet topikal mudah/antifungal — kepada mana-mana keadaan autoimun atau fibrotik yang diramalkan (pemfigus, dermatomiositis, sklerosis sistemik, balanitis xerotika obliterans, fibromatosis penis). Empat penerbitan yang diambil untuk sklerosis sistemik semuanya adalah ketidakpadanan kata kunci yang melibatkan derivatif benzoic acid atau model penyakit yang tidak berkaitan.
+- Skor TxGNN ialah 0.0, tahap bukti ialah L5, dan tiada percubaan klinikal atau literatur yang menyokong asid benzoik secara langsung untuk mana-mana indikasi yang diramalkan. Produk ini juga tidak berdaftar di Malaysia.
 
-**Untuk meneruskan, yang berikut akan diperlukan:**
-- Pengenalpastian mekanisme tindakan yang munasabah yang menghubungkan benzoic acid kepada laluan autoimun atau fibrotik
-- Sekurang-kurangnya bukti praklinik (in vitro atau model hewan) menunjukkan kesan terapeutik benzoic acid (bukan derivatif) dalam mana-mana petunjuk yang diramalkan
-- Penyelesaian data profil keselamatan (amaran kertas sisipan, kontraindikasi)
-- Penjelasan keserasian laluan — bentuk berdaftar semasa adalah terutamanya topikal/pengawet, manakala petunjuk yang diramalkan mungkin memerlukan terapi sistemik
-
----
-
-*Penafian: Laporan ini adalah untuk rujukan penyelidikan sahaja dan tidak membentuk nasihat perubatan. Calon pengguna semula ubat memerlukan pengesahan klinikal sebelum aplikasi.*
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisipan pakej NPRA (amaran dan kontraindikasi), yang merupakan jurang data penghalang untuk saringan keselamatan
+- Data mekanisme tindakan (MOA) daripada DrugBank
+- Carian literatur yang lebih spesifik tentang asid benzoik (bukan terbitannya) untuk pemfigus dan penyakit tisu penghubung
+- Penilaian keserasian laluan pentadbiran dan kesamaan dengan indikasi asal
+- Pengesahan kontraindikasi daripada graf pengetahuan dengan sumber label rasmi
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

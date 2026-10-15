@@ -2,7 +2,7 @@
 layout: default
 title: Amoxycillin Sodium
 parent: Low Evidence (L4-L5)
-nav_order: 67
+nav_order: 71
 evidence_level: L5
 indication_count: 0
 ---

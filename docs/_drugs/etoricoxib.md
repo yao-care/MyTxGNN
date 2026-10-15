@@ -2,7 +2,7 @@
 layout: default
 title: Etoricoxib
 parent: Low Evidence (L4-L5)
-nav_order: 332
+nav_order: 344
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,73 +29,89 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Etoricoxib: Dari Keadaan Nyeri Inflamasi kepada Gangguan Migrain
+# Etorikoksib: Daripada Penunjuk Asal yang Tidak Direkodkan kepada Gangguan Migrain
 
 ## Ringkasan Satu Ayat
 
-Etoricoxib ialah inhibitor COX-2 selektif NSAID, yang biasanya digunakan untuk osteoartritis, artritis reumatoid, spondilitis ankilosa, pirai akut dan keadaan nyeri inflamasi lain (teks indikasi lesen NPRA tidak tersedia dalam ekstrak data semasa).
-Model TxGNN meramalkan bahawa ia mungkin berkesan untuk **Gangguan Migrain**, tetapi ini pada masa ini adalah **ramalan model tulen dengan sifar ujian klinis dan sifar penerbitan** yang menyokongnya secara langsung.
+Etorikoksib ialah perencat COX-2 terpilih daripada kelas NSAID, yang secara klinikal digunakan untuk keradangan dan kesakitan (contohnya artritis, sakit belakang, gout), tetapi data lesen NPRA bagi penunjuk asal tidak tersedia kerana ubat ini tidak berdaftar di Malaysia.
+Model TxGNN meramalkan ubat ini mungkin berkesan untuk **gangguan migrain** (skor 99.90%),
+tetapi pada masa ini **tiada ujian klinikal** dan hanya **1 penerbitan** (kajian skop yang tidak langsung) menyokong arah ini.
 
 ---
 
-## Gambaran Pantas
+## Gambaran Ringkas
 
-| Item | Kandungan |
+| Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tidak tersedia daripada data sumber (teks indikasi lesen NPRA kosong; lihat Data Gap DG001/DG002) |
-| Indikasi Baru yang Diramalkan | Gangguan Migrain |
+| Penunjuk Asal | Tiada rekod lesen NPRA; rujukan farmakologi menyenaraikan artritis reumatoid, osteoartritis, sakit belakang bawah kronik, spondilitis ankilosing, sakit akut dan gout |
+| Penunjuk Baharu yang Diramalkan | Gangguan migrain (*migraine disorder*) |
 | Skor Ramalan TxGNN | 99.90% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 79 |
-| Keputusan Disyorkan | Tunggu |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
 
-## Mengapa Ramalan Ini Masuk Akal?
+## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan terperinci tidak tersedia (Data Gap DG002). Berdasarkan farmakologi yang diketahui, etoricoxib ialah inhibitor siklooksigenase-2 (COX-2) selektif yang mengurangkan sintesis prostaglandin, dan ia dipasarkan untuk keadaan inflamasi dan nyeri. Ini adalah maklumat latar belakang peringkat kelas, bukan khusus ubat — ia tidak diambil daripada data lesen NPRA dalam Pak Bukti ini, yang pada masa ini tidak mengandungi teks indikasi.
+Data terperinci mengenai mekanisme tindakan (MOA) daripada pangkalan data tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, etorikoksib ialah perencat COX-2 terpilih (gen sasaran PTGS2) yang mengurangkan sintesis prostaglandin E2.
 
-Penghambatan NSAID/COX-2 ialah kesan farmakologi kelas yang diiktiraf dalam rawatan migrain akut, kerana peradangan neurovaskular yang dimediasi prostaglandin menyumbang kepada patofisiologi migrain. Ini adalah asas bagi skor kesamaan tinggi model TxGNN (99.90%) antara etoricoxib dan gangguan migrain.
+Pengurangan prostaglandin E2 dan keradangan neurogenik berkemungkinan relevan dengan patofisiologi migrain, dan NSAID ialah kelas ubat yang mantap untuk migrain akut. Maka secara mekanistik, ramalan ini boleh diterima.
 
-Walau bagaimanapun, pautan mekanistik ini adalah semata-mata disimpulkan daripada kesamaan kelas farmakologi dalam graf pengetahuan — tidak ada **ujian klinis atau penerbitan khusus etoricoxib** yang menyokongnya dalam migrain. Antara ramalan model yang lain untuk keadaan sakit kepala yang berkaitan, hanya "keadaan sakit kepala" (pangkat 9) dan "sefalgia autonomik trigeminal" (pangkat 10) disokong oleh literatur peringkat kes yang sebenar (keadaan sakit kepala yang responsif terhadap indometasin di mana etoricoxib digunakan sebagai pengganti indometasin), dan malah bukti itu tidak meluas kepada gangguan migrain secara khusus. Ramalan bertaraf paling tinggi dalam pak ini — gangguan migrain — mempunyai sifar bukti langsung dan harus dibaca sebagai yang paling sedikit disokong antara calon berkaitan migrain.
+Namun, satu-satunya penerbitan yang dipautkan ialah kajian skop mengenai sakit kepala akibat berpuasa semasa Ramadan, yang tidak memberikan bukti langsung tentang etorikoksib dalam migrain. Skor tinggi TxGNN (0.999) hanyalah ramalan.
 
 ---
 
-## Bukti Ujian Klinis
+## Bukti Ujian Klinikal
 
-Pada masa ini tiada ujian klinis yang berkaitan didaftarkan
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
-Pada masa ini tiada literatur yang berkaitan tersedia
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [42841395](https://pubmed.ncbi.nlm.nih.gov/42841395/) | 2026 | Kajian semula (skop) | Pain management | Mengkaji sakit kepala akibat berpuasa semasa Ramadan; tidak memberikan bukti langsung untuk etorikoksib dalam migrain |
+
+### Penunjuk Berkaitan Lain yang Dikesan
+
+Selain migrain, bukti berikut ditemui untuk penunjuk berkaitan sakit kepala (bagi rujukan):
+
+| Penunjuk | Tahap Bukti | Penemuan Ringkas |
+|------|------|------|
+| Gangguan sakit kepala (*headache disorder*) | L4 | Beberapa laporan kes dan siri kecil (PMID [17883876](https://pubmed.ncbi.nlm.nih.gov/17883876/), [18171381](https://pubmed.ncbi.nlm.nih.gov/18171381/), [35277974](https://pubmed.ncbi.nlm.nih.gov/35277974/), [36893522](https://pubmed.ncbi.nlm.nih.gov/36893522/)) melaporkan tindak balas terhadap etorikoksib dalam sakit kepala menikam primer, sakit kepala responsif indometasin dan sakit kepala batuk sekunder. Terdapat juga laporan kes sindrom vasokonstriksi serebrum boleh balik yang mungkin disebabkan etorikoksib ([25229174](https://pubmed.ncbi.nlm.nih.gov/25229174/)). |
+| Sefalalgia autonomik trigeminal | L4 | Satu laporan pemerhatian kecil ([35277974](https://pubmed.ncbi.nlm.nih.gov/35277974/)) menunjukkan COX-2 perencat mungkin alternatif kepada indometasin yang sukar ditoleransi. |
+| Migrain dengan atau tanpa aura, kerentanan | L4 | Kajian praklinikal ([29209105](https://pubmed.ncbi.nlm.nih.gov/29209105/)) menunjukkan NSAID, termasuk etorikoksib, memodulasi pembebasan CGRP dan PGE2 daripada ganglia trigeminal tikus. Ini bukti tidak langsung; entri ini ialah fenotip kerentanan genetik, bukan keadaan klinikal yang boleh dirawat. |
+
+Ramalan lain (migrain dengan aura batang otak, atrofoderma vermikulata, ulerythema ophryogenesis, hipertensi pulmonari, hiperplasia prostat benigna, penyakit jantung kifoskoliotik) hanya berasaskan ramalan model (L5) tanpa bukti sokongan. Bagi hipertensi pulmonari, satu-satunya laporan ialah kes hiperkalemia dan disfungsi buah pinggang akibat etorikoksib, iaitu isu keselamatan dan bukan manfaat terapeutik.
 
 ---
 
-## Pertimbangan Keselamatan
+## Keselamatan
 
-Sila rujuk risalah produk untuk maklumat keselamatan.
+- **Interaksi Ubat**: Pertanyaan interaksi telah selesai tetapi hanya mengembalikan satu rekod farmakologi (sasaran COX-2/PTGS2), tanpa interaksi ubat-ubat yang klinikal spesifik.
+- **Isyarat keselamatan daripada literatur**: Laporan kes hiperkalemia dan kerosakan buah pinggang akut yang mengancam nyawa (bersama telmisartan dan diet rendah natrium), serta sindrom vasokonstriksi serebrum boleh balik. Perencat COX-2 juga dikaitkan dengan risiko kardiovaskular dan retensi cecair.
 
-*(Nota: Amaran/kontraindikasi risalah produk TFDA/NPRA ditandai sebagai jurang data yang menghalang (DG001) — data ini mesti diperoleh sebelum sebarang pra-penilaian keselamatan (S1) boleh diteruskan.)*
+Sila rujuk sisipan pek untuk maklumat keselamatan lengkap.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tunggu**
+**Keputusan: Hold (Tangguh)**
 
-**Alasan:**
-Skor ramalan tinggi, tetapi tahap bukti ialah L5 — ramalan model TxGNN tulen tanpa ujian klinis atau literatur yang menyokong khusus kepada etoricoxib dalam migrain. Tidak ada asas untuk memajukan calon ini melampaui hipotesis penyelidikan pada peringkat ini.
+**Rasional:**
+- Ramalan migrain disokong hanya oleh skor model dan satu kajian skop yang tidak langsung (L5), tanpa ujian klinikal. Etorikoksib juga tidak berdaftar di Malaysia.
+- Penunjuk berkaitan sakit kepala (gangguan sakit kepala dan sefalalgia autonomik trigeminal) mempunyai bukti peringkat kes (L4) dan wajar dijadikan soalan penyelidikan, bukan keputusan klinikal.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Risalah produk TFDA/NPRA (amaran, kontraindikasi) — pada masa ini jurang data yang menghalang (DG001)
-- Data mekanisme tindakan yang disahkan daripada DrugBank (DG002)
-- Pencarian ujian atau penerbitan migrain khusus etoricoxib, atau ulasan literatur formal bagi NSAID/inhibitor COX-2 dalam rawatan migrain
-- Jika mengejar indikasi spektrum sakit kepala sebaliknya, pertimbangkan penilaian semula "keadaan sakit kepala" dan "sefalgia autonomik trigeminal" (pangkat 9–10), yang mempunyai sokongan literatur peringkat kes yang tidak ada pada gangguan migrain itu sendiri
-- Teks indikasi asal (yang diluluskan) daripada data pelesenan NPRA, pada masa ini kosong dalam ekstrak sumber
-
+- Sisipan pek NPRA (amaran dan kontraindikasi) bagi saringan keselamatan; ini data yang menghalang kemajuan
+- Data mekanisme tindakan terperinci daripada DrugBank
+- Kajian terkawal (RCT) etorikoksib dalam migrain atau sakit kepala primer
+- Penilaian keselamatan sistematik (kardiovaskular, renal, serebrovaskular)
+- Penjelasan status pendaftaran dan kebolehcapaian produk di Malaysia
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -2,7 +2,7 @@
 layout: default
 title: Haloperidol
 parent: High Evidence (L1-L2)
-nav_order: 379
+nav_order: 398
 evidence_level: L1
 indication_count: 10
 ---
@@ -29,52 +29,58 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Haloperidol: Dari Petunjuk Diluluskan Tidak Tertentu kepada Skizofrenia
+# Haloperidol: Daripada Indikasi Asal (Tiada Rekod) kepada Skizofrenia
 
 ## Ringkasan Satu Ayat
 
-Haloperidol adalah ubat yang dipasarkan di Malaysia (3 pendaftaran NPRA), tetapi teks petunjuk asal yang direkodkan secara rasmi adalah jurang data pada masa ini dalam pakej bukti ini. Ramalan teratas model TxGNN adalah **Skizofrenia** (skor 99.96%), disokong oleh **50 uji klinis** dan **20 penerbitan** — namun, nota rasional model sendiri menunjukkan ini sangat mungkin pengesahan penggunaan antipsikotik piawai sedia ada Haloperidol *yang wujud* dan bukannya isyarat pemindahan tujuan yang betul-betul baru.
+Haloperidol ialah ubat antipsikotik generasi pertama (golongan butirofenon). Rekod indikasi asal ubat ini tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
+Model TxGNN meramalkan ia mungkin berkesan untuk **skizofrenia**. Kajian ini disokong oleh **35 percubaan klinikal** dan **19 penerbitan** yang berkaitan.
+Perlu diambil perhatian bahawa skizofrenia ialah penggunaan sedia ada (on-label) yang mantap, bukan pengalihan guna (repurposing) yang sebenar. Metadata rekod ubat perlu dibetulkan.
 
 ---
 
-## Gambaran Keseluruhan Cepat
+## Gambaran Keseluruhan Pantas
 
-| Item | Kandungan |
-|------|----------|
-| Petunjuk Asal | Tidak direkodkan dalam data pendaftaran sumber (jurang data — lihat DG001/DG002); Haloperidol adalah antipsikotik generasi pertama yang ditetapkan secara klinikal |
-| Petunjuk Baru yang Diprediksi | Skizofrenia |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Tiada data (tiada lesen NPRA yang direkodkan) |
+| Indikasi Baharu yang Diramalkan | Skizofrenia |
 | Skor Ramalan TxGNN | 99.96% |
 | Tahap Bukti | L1 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 3 |
-| Keputusan yang Disyorkan | Teruskan dengan Penjaga |
+| Status Pasaran di Malaysia | Tidak dipasarkan (menurut data yang dikumpulkan) |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan terperinci tidak tersedia dalam medan `drug.original_moa` berstruktur. Walau bagaimanapun, rasional pemindahan tujuan pakej bukti sendiri menyediakan farmakologi yang berkaitan: Haloperidol adalah antipsikotik generasi pertama (tipikal) yang mekanismenya ialah antagonisme reseptor dopamin D2 pusat — mekanisme buku teks piawai untuk merawat skizofrenia.
+Data terperinci tentang mekanisme tindakan tidak tersedia dalam rekod yang dikumpulkan. Namun, berdasarkan maklumat yang diketahui, haloperidol ialah antagonis reseptor dopamin D2 berafiniti tinggi. Sekatan isyarat D2 pada laluan mesolimbik ialah mekanisme mantap untuk mengurangkan gejala positif skizofrenia, seperti halusinasi dan delusi.
 
-Dengan penting, pakej bukti secara terang-terangan menandakan bahawa ini **bukan kes ketat pemindahan tujuan ubat**: Skizofrenia adalah petunjuk jangka panjang yang ditetapkan dan diluluskan Haloperidol dalam dunia sebenar, dan medan `original_indications` yang kosong mencerminkan jurang pengekstrakan data dan bukannya ketiadaan petunjuk itu. Dengan kata lain, model TxGNN telah mengenal pasti semula penggunaan utama Haloperidol yang diketahui — yang merupakan pemeriksaan kesahihan model yang berguna, tetapi tidak boleh dibentangkan kepada pihak berkepentingan sebagai peluang pemindahan tujuan baru.
+Oleh sebab itu, skizofrenia bukan indikasi yang benar-benar baharu bagi haloperidol. Ia merupakan penggunaan klinikal yang telah lama diterima. Ketiadaan indikasi asal dan data MOA dalam rekod menunjukkan kekosongan metadata, bukan kekurangan bukti klinikal.
 
-Untuk perbandingan, calon pangkat 8 pakej ("gangguan psikotik," bukti L1) menunjukkan corak yang sama — antagonisme D2 secara langsung menyokong pengurusan psikosis akut dan merupakan amalan klinikal piawai, bukan penemuan baru. Sebaliknya, pangkat 3–7, 9, dan 10 (cth., gangguan sintesis glikoprotein bawaan, distrofi retina, hidranensefalus, miopia terikat-X, penyakit Charcot-Marie-Tooth) mempunyai **tiada uji klinis, tiada literatur, dan tiada pautan mekanistik yang munasabah** — pakej bukti sendiri melabelkan ini sebagai artifak positif palsu kemungkinan besar ruang pembenaman graf pengetahuan (L5, Tahan). Hanya pangkat 2 (gangguan skizofreniafom, L3, "Soalan Penyelidikan") mewakili isyarat yang betul-betul eksploratori patut dipantau.
+Ramalan ini juga konsisten dengan sejumlah besar percubaan yang menggunakan haloperidol sebagai ubat perbandingan aktif atau rujukan, termasuk dalam perbandingan dengan olanzapin, risperidon, asenapin dan ziprasidon.
 
 ---
 
-## Bukti Uji Klinis
+## Bukti Percubaan Klinikal
 
-| Nombor Uji | Fasa | Status | Pendaftaran | Penemuan Utama |
+Percubaan paling relevan (gred A dan B) daripada senarai untuk skizofrenia:
+
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT01052389](https://clinicaltrials.gov/study/NCT01052389) | Fasa 4 | Selesai | 300 | Uji GiSAS — aripiprazol, olanzapin, dan haloperidol dibandingkan selama 12 bulan pada pesakit ambulatori skizofrenia |
-| [NCT00203775](https://clinicaltrials.gov/study/NCT00203775) | N/A | Ditamatkan | N/A | Risperidon lawan haloperidol untuk kekerasan/permusuhan dalam narapidana psikotik |
-| [NCT00485901](https://clinicaltrials.gov/study/NCT00485901) | Fasa 3 | Selesai | 50 | Olanzapin IM lawan haloperidol IM dalam pesakit skizofrenia yang teruja secara akut |
-| [NCT00455234](https://clinicaltrials.gov/study/NCT00455234) | Fasa 3 | Selesai | 300 | Olanzapin IM lawan haloperidol IM + prometazin untuk tranquilisasi cepat |
-| [NCT00249119](https://clinicaltrials.gov/study/NCT00249119) | Fasa 3 | Selesai | 1579 | Risperidon lawan haloperidol tetap 10mg dalam skizofrenia kronik |
-| [NCT00191555](https://clinicaltrials.gov/study/NCT00191555) | Fasa 4 | Selesai | 360 | Olanzapin jangka panjang lawan haloperidol dalam pesakit skizofrenia yang stabil |
-| [NCT00866645](https://clinicaltrials.gov/study/NCT00866645) | Fasa 2/3 | Selesai | 240 | Levosulpirid IM lawan haloperidol IM untuk pengagitan dalam pesakit skizofrenia Cina |
-| [NCT00631722](https://clinicaltrials.gov/study/NCT00631722) | N/A | Selesai | 80 | Ketiapin lawan haloperidol untuk gejala yang teruja dalam skizofrenia akut |
-| [NCT01164059](https://clinicaltrials.gov/study/NCT01164059) | Fasa 4 | Selesai | 149 | Antipsikotik lebih baru lawan haloperidol/flupentiksol dos rendah dalam skizofrenia |
-| [NCT00723606](https://clinicaltrials.gov/study/NCT00723606) | Fasa 3 | Selesai | 376 | Ziprasidone IM lawan haloperidol IM untuk pengagitan dalam skizofrenia (kajian pendaftaran China) |
+| [NCT00191555](https://clinicaltrials.gov/study/NCT00191555) | Fasa 4 | Selesai | 360 | Olanzapin berbanding haloperidol, buta berganda jangka panjang, dalam pesakit skizofrenia yang stabil |
+| [NCT00723606](https://clinicaltrials.gov/study/NCT00723606) | Fasa 3 | Selesai | 376 | Ziprasidon IM berbanding haloperidol untuk agitasi dalam skizofrenia (populasi Cina) |
+| [NCT00797277](https://clinicaltrials.gov/study/NCT00797277) | Fasa 3 | Selesai | 67 | Olanzapin IM berbanding haloperidol + lorazepam untuk agitasi akut (populasi Taiwan); saiz sampel kecil |
+| [NCT00156104](https://clinicaltrials.gov/study/NCT00156104) | Fasa 3 | Selesai | 460 | Asenapin berbanding plasebo dengan haloperidol sebagai kawalan positif dalam eksaserbasi akut |
+| [NCT00455234](https://clinicaltrials.gov/study/NCT00455234) | Fasa 3 | Selesai | 300 | Olanzapin IM berbanding haloperidol + prometazin untuk pesakit agitasi di kecemasan psikiatri |
+| [NCT00866645](https://clinicaltrials.gov/study/NCT00866645) | Fasa 2/3 | Selesai | 240 | Levosulpirid IM berbanding haloperidol IM untuk agitasi dalam skizofrenia |
+| [NCT00253110](https://clinicaltrials.gov/study/NCT00253110) | Fasa 4 | Selesai | 396 | Risperidon berbanding haloperidol untuk pencegahan relaps |
+| [NCT01052389](https://clinicaltrials.gov/study/NCT01052389) | Fasa 4 | Selesai | 300 | Percubaan GiSAS: aripiprazol, olanzapin dan haloperidol dalam rawatan jangka panjang |
+| [NCT01164059](https://clinicaltrials.gov/study/NCT01164059) | Fasa 4 | Selesai | 149 | Antipsikotik lebih baharu berbanding antipsikotik konvensional dos rendah (haloperidol, flupentiksol) |
+| [NCT01161277](https://clinicaltrials.gov/study/NCT01161277) | Fasa 4 | Selesai | 54 | Kajian fMRI farmakologi tentang kesan aripiprazol dan haloperidol pada fungsi mesolimbik (sokongan mekanisme) |
+
+Nota: dalam kebanyakan percubaan ini haloperidol berperanan sebagai ubat pembanding, bukan ubat yang dikaji. Terdapat juga satu percubaan fasa 3 yang ditarik balik (NCT00189995), yang tidak memberikan bukti.
 
 ---
 
@@ -82,45 +88,61 @@ Untuk perbandingan, calon pangkat 8 pakej ("gangguan psikotik," bukti L1) menunj
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [11777998](https://pubmed.ncbi.nlm.nih.gov/11777998/) | 2002 | RCT | The New England Journal of Medicine | Perbandingan jangka panjang risperidon lawan haloperidol untuk pencegahan relaps dalam gangguan skizofrenia/skizofaektif |
-| [31006114](https://pubmed.ncbi.nlm.nih.gov/31006114/) | 2019 | Ulasan (Cochrane) | Cochrane Database of Systematic Reviews | Ulasan sistematik pemutusan haloperidol dalam pesakit skizofrenia stabil |
-| [18254045](https://pubmed.ncbi.nlm.nih.gov/18254045/) | 2008 | Ulasan (Cochrane) | Cochrane Database of Systematic Reviews | Haloperidol lawan klorpromazin — perbandingan antipsikotik penanda aras |
-| [11552769](https://pubmed.ncbi.nlm.nih.gov/11552769/) | 2001 | Analisis berkumpul | International Clinical Psychopharmacology | Analisis bersatu 12 uji buta ganda, risperidon lawan haloperidol dan antipsikotik lain |
-| [15342619](https://pubmed.ncbi.nlm.nih.gov/15342619/) | 2004 | RCT | Journal of Clinical Pharmacology | Kesan haloperidol/lorazepam IM pada selang QT dalam skizofrenia |
-| [27516021](https://pubmed.ncbi.nlm.nih.gov/27516021/) | 2016 | Kohort | Romanian Journal of Morphology and Embryology | Hasil klinikal/biologi rawatan haloperidol lanjutan |
-| [33472389](https://pubmed.ncbi.nlm.nih.gov/33472389/) | 2021 | Kajian perbandingan | The American Journal of Psychiatry | Klozapin lawan olanzapin lawan haloperidol untuk kekerasan dalam skizofrenia dengan gangguan kondu |
-| [10200746](https://pubmed.ncbi.nlm.nih.gov/10200746/) | 1999 | Kajian | The American Journal of Psychiatry | Gangguan seksual semasa rawatan klozapin lawan haloperidol |
-| [35887056](https://pubmed.ncbi.nlm.nih.gov/35887056/) | 2022 | Praklinikal | International Journal of Molecular Sciences | Kesan haloperidol/olanzapin pada proliferasi sel hipokampal (model haiwan) |
-| [37635268](https://pubmed.ncbi.nlm.nih.gov/37635268/) | 2023 | Praklinikal | International Journal of Developmental Neuroscience | Kesan haloperidol pada faktor neurotrofik/epigenetik dalam model skizofrenia teraruh ketamin |
+| [38958149](https://pubmed.ncbi.nlm.nih.gov/38958149/) | 2024 | Kajian sistematik (Cochrane) | Cochrane Database Syst Rev | Haloperidol oral berbanding olanzapin oral untuk skizofrenia dan gangguan spektrum skizofrenia |
+| [24242360](https://pubmed.ncbi.nlm.nih.gov/24242360/) | 2013 | Kajian sistematik (Cochrane) | Cochrane Database Syst Rev | Haloperidol berbanding plasebo untuk skizofrenia |
+| [11406070](https://pubmed.ncbi.nlm.nih.gov/11406070/) | 2001 | Kajian sistematik (Cochrane) | Cochrane Database Syst Rev | Versi terdahulu kajian haloperidol berbanding plasebo |
+| [31006114](https://pubmed.ncbi.nlm.nih.gov/31006114/) | 2019 | Kajian sistematik (Cochrane) | Cochrane Database Syst Rev | Kesan penghentian haloperidol pada pesakit yang stabil |
+| [18254045](https://pubmed.ncbi.nlm.nih.gov/18254045/) | 2008 | Kajian sistematik (Cochrane) | Cochrane Database Syst Rev | Haloperidol berbanding klorpromazin untuk skizofrenia |
+| [10796438](https://pubmed.ncbi.nlm.nih.gov/10796438/) | 2000 | Kajian sistematik (Cochrane) | Cochrane Database Syst Rev | Haloperidol dekanoat depot untuk skizofrenia |
+| [11552769](https://pubmed.ncbi.nlm.nih.gov/11552769/) | 2001 | Analisis gabungan | Int Clin Psychopharmacol | Analisis gabungan 12 percubaan buta berganda risperidon berbanding antipsikotik lain, termasuk haloperidol |
+| [12721815](https://pubmed.ncbi.nlm.nih.gov/12721815/) | 2003 | Kajian klinikal | J Neural Transm | Olanzapin, risperidon dan haloperidol pada remaja dengan skizofrenia |
+| [15342619](https://pubmed.ncbi.nlm.nih.gov/15342619/) | 2004 | Kajian klinikal (keselamatan) | J Clin Pharmacol | Kesan haloperidol atau lorazepam IM pada selang QT |
+| [7575103](https://pubmed.ncbi.nlm.nih.gov/7575103/) | 1995 | Kajian klinikal | Arch Gen Psychiatry | Paras plasma haloperidol 5–11 ng/mL mungkin optimum untuk eksaserbasi akut, namun bukti tidak konsisten |
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Rekod NPRA mengesahkan 3 pendaftaran aktif (status pasaran: Dipasarkan), tetapi nombor lesen individu, nama produk, bentuk dos, dan medan teks petunjuk kelulusan tidak diisi dalam cabutan data ini — jurang pengekstrakan data, bukan ketiadaan pendaftaran. Pertanyaan semula pangkalan data produk NPRA diperlukan untuk melengkapkan jadual ini.
+Menurut data yang dikumpulkan untuk laporan ini, tiada lesen NPRA direkodkan bagi haloperidol (jumlah pendaftaran: 0). Ketiadaan rekod ini perlu disahkan secara terus dengan pangkalan data NPRA.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan. **Nota:** amaran label TFDA/NPRA dan kontraindikasi (DG001) dan data interaksi ubat pada masa ini tidak tersedia dan ditandakan sebagai jurang data *Pemblokiran* — ini mesti diselesaikan sebelum sebarang penilaian peringkat keselamatan (S1) dapat diselesaikan.
+**Interaksi Ubat**: Sebanyak 100 interaksi direkodkan. Interaksi tahap **Major** yang tersenarai termasuk:
+- Bupropion
+- Morfin
+- Klaritromisin
+- Dolasetron
+
+Banyak interaksi tahap Moderate juga dicatatkan, antaranya famotidin, epinefrin, hidrokortison, amfoterisin B, atropin, loperamid dan aprepitan.
+
+**Perkara yang perlu diawasi (berdasarkan penilaian bukti)**: gejala ekstrapiramidal, pemanjangan QT (terutamanya melalui laluan IM), hiperprolaktinemia, diskinesia tardif, dan risiko kematian yang meningkat dalam psikosis berkaitan demensia pada warga emas.
+
+Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi yang lengkap.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Teruskan dengan Penjaga**
+**Keputusan: Proceed with Guardrails (Teruskan dengan Langkah Kawalan)**
 
-**Rasional:**
-Ramalan pangkat 1 (skizofrenia) disokong oleh bukti RCT Fasa 3/4 yang luas dan ulasan sistematik (L1), tetapi ini sebahagian besarnya mengesahkan penggunaan yang sudah ditetapkan Haloperidol dan bukannya mengenal pasti peluang pemindahan tujuan baru — jadi nilai praktikalnya di sini ialah sebagai pemeriksaan kesahihan model, bukan calon baru untuk memajukan. Jurang data pemblokiran (amaran label TFDA/NPRA dan kontraindikasi yang hilang) menghalang penyiapan saringan keselamatan awal untuk sebarang petunjuk, termasuk yang ini.
+**Justifikasi:**
+- Terdapat banyak percubaan klinikal fasa 3 dan 4 serta beberapa kajian sistematik Cochrane yang menyokong penggunaan haloperidol dalam skizofrenia, dan mekanisme D2 antagonis adalah mantap. Ini adalah penggunaan sedia ada, bukan repurposing sebenar.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Ambil dan urai sisipan pakej TFDA/NPRA (amaran, kontraindikasi) — jurang pemblokiran DG001
-- Perolehi data MOA DrugBank untuk mendokumentasikan mekanisme secara rasmi (jurang peringkat ubat semasa DG002)
-- Pertanyaan semula NPRA untuk nama produk lengkap setiap lesen, bentuk dos, dan teks petunjuk kelulusan
-- Jelaskan dengan kakitangan kawal selia/klinikal sama ada skizofrenia harus diperlakukan sebagai kes "pengesahan" dan bukannya calon pemindahan tujuan sebelum pelaburan lanjutan
-- Pangkat 3, 5, 6, 7, 9, 10 (L5, tiada uji/literatur, tiada kebolehpercayaan mekanistik) harus diprioritaskan semula sebagai positif palsu kemungkinan; pangkat 2 (gangguan skizofreniafom, L3) mungkin wajar pemantauan ringan sahaja
+- Membetulkan metadata rekod ubat (indikasi asal, ID DrugBank dan MOA yang kini kosong)
+- Memuat turun dan menganalisis sisipan pakej NPRA bagi amaran dan kontraindikasi (jurang data yang menghalang)
+- Mengesahkan status pendaftaran haloperidol di Malaysia
+- Pelan pemantauan keselamatan (EKG/QT, gejala ekstrapiramidal, prolaktin) dan semakan interaksi ubat
 
+---
+
+## Nota Tambahan: Indikasi Lain yang Diramalkan
+
+- **Gangguan skizofreniform** dan **gangguan psikotik** (Proceed with Guardrails, L1): bukti sebahagian besarnya diekstrapolasi daripada skizofrenia dan bertindih dengan senarai percubaan skizofrenia, jadi tidak bebas. Untuk psikosis berkaitan demensia, amaran kotak tentang peningkatan kematian terpakai.
+- **Distrofi retina**: hanya bukti praklinikal pada tikus (L4). Kesan ini menggambarkan kesan sampingan pada pemprosesan visual dan bukan kesan terapeutik. Keputusan: Hold.
+- **Gangguan kongenital glikosilasi, hidranensefali, miopia berkaitan-X (dua subjenis), miopia sindromik, penyakit Charcot-Marie-Tooth jenis 1G**: ramalan model sahaja tanpa percubaan atau literatur (L5). Tiada kaitan mekanisme yang munasabah. Keputusan: Hold.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -2,7 +2,7 @@
 layout: default
 title: Calcium Lactate Gluconate
 parent: Low Evidence (L4-L5)
-nav_order: 183
+nav_order: 188
 evidence_level: L5
 indication_count: 2
 ---
@@ -29,37 +29,41 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Calcium Lactate Gluconate: Daripada Pemampasan Kalsium kepada Sindrom Kalsium-Alkali
+# Kalsium Laktat Glukonat: Daripada Hiperkalsemia kepada Sindrom Kalsium-Alkali (Ramalan)
 
 ## Ringkasan Satu Ayat
 
-> Calcium Lactate Gluconate (DrugBank DB13365) adalah kombinasi garam kalsium yang umumnya digunakan untuk pemampasan kalsium, walaupun data asal petunjukan dan mekanisme kerja yang terperinci tidak tersedia dalam rekod pendaftaran pada masa ini.
-> Isyarat berpangkat teratas model TxGNN menunjuk kepada **Sindrom Kalsium-Alkali**, tetapi ini sangat mungkin merupakan **perkaitan terbalik/kesan sampingan** — ubat ini adalah faktor risiko penyebab yang diketahui untuk sindrom ini, bukan calon rawatan untuknya.
-> Pada masa ini terdapat **0 ujian klinikal** dan **0 penerbitan** yang menyokong perkaitan terapeutik, jadi calon ini tidak memenuhi paras bukti untuk penggunaan semula ubat.
+Kalsium laktat glukonat ialah garam kalsium yang pada asalnya dikaitkan dengan hiperkalsemia, nefrokalsinosis dan penyakit metabolisme fosforus.
+Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom kalsium-alkali**, tetapi pada masa ini terdapat **0 ujian klinikal** dan **0 penerbitan** yang menyokong ramalan ini.
+Ramalan ini kemungkinan besar positif palsu dan berpotensi menimbulkan isu keselamatan.
 
 ---
 
 ## Gambaran Keseluruhan Pantas
 
-| Item | Kandungan |
-|------|----------|
-| Petunjukan Asal | Tidak dinyatakan dalam rekod pendaftaran yang tersedia (calcium lactate gluconate secara meluas diketahui sebagai suplemen kalsium oral) |
-| Petunjukan Baru yang Dijangka | Sindrom Kalsium-Alkali *(kemungkinan besar perkaitan kesan sampingan, bukan petunjukan rawatan — lihat di bawah)* |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Hiperkalsemia, nefrokalsinosis, penyakit metabolisme fosforus (berdasarkan graf pengetahuan TxGNN/PrimeKG; tiada teks indikasi kelulusan NPRA) |
+| Indikasi Baharu yang Diramalkan | Sindrom kalsium-alkali |
 | Skor Ramalan TxGNN | 99.34% |
-| Paras Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 6 |
-| Keputusan yang Disyorkan | Tahan |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
-## Mengapa Ramalan Ini Munasabah?
+## Mengapa Ramalan Ini Munasabah (atau Tidak)?
 
-Pada masa ini, data mekanisme kerja yang terperinci tidak tersedia untuk produk ini. Berdasarkan farmakologi yang diketahui, calcium lactate gluconate adalah kombinasi garam kalsium oral yang digunakan untuk membetulkan keadaan kekurangan kalsium; peranannya sebagai sumber sistemik kalsium ionik sudah mapan. Secara mekanis, bagaimanapun, ini adalah sebab mengapa isyarat TxGNN berpangkat teratas harus diperlakukan dengan berhati-hati dan bukannya antusias.
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia pada masa ini. Kalsium laktat glukonat ialah garam kalsium yang digunakan sebagai sumber kalsium.
 
-Sindrom kalsium-alkali (secara sejarah "milk-alkali syndrome") adalah sindrom klinikal hiperkalsemia, alkalosis metabolik, dan gangguan buah pinggang yang disebabkan oleh **pengambilan berlebihan kalsium bersama alkali yang dapat diserap**. Pemampasan calcium lactate gluconate adalah faktor *penyebab/risiko* yang diketahui untuk sindrom ini — hubungan farmakologi berlangsung dalam arah yang bertentangan dengan yang terapeutik. Skor TxGNN yang tinggi paling munasabah mencerminkan kemunculan bersama ubat-penyakit yang dipelajari daripada konteks kesan sampingan atau toksisiti dalam graf pengetahuan, bukannya isyarat rawatan yang sebenarnya. Calon ini **tidak boleh** ditafsirkan sebagai peluang penggunaan semula; rasional model sendiri menyatakan dengan jelas bahawa ini adalah hubungan terbalik (ubat-menyebabkan-penyakit).
+Sindrom kalsium-alkali disebabkan oleh pengambilan kalsium berlebihan bersama alkali yang boleh diserap, yang membawa kepada hiperkalsemia, alkalosis metabolik dan kecederaan buah pinggang akut. Oleh kerana ubat ini sendiri ialah garam kalsium, ia lebih berkemungkinan menjadi **punca atau faktor yang memburukkan** keadaan ini, bukan rawatan yang munasabah.
 
-Calon berpangkat kedua yang lebih rendah yang dikenal pasti oleh model — *displasia tulang utama dengan osifikasi tulang yang cacat* — mempunyai rasional yang lebih munasabah, walaupun masih semata-mata mekanis: kalsium adalah substrat yang diperlukan untuk pembentukan hidroksiapatit, dan pemampasan boleh secara teorinya menyokong osifikasi dalam beberapa gangguan tulang. Walau bagaimanapun, kumpulan penyakit ini adalah heterogen dan sering didorong oleh kecacatan genetik/enzimatik yang mendasar (cth., ALPL, PHEX, laluan berkaitan FGF23) dan bukannya kekurangan kalsium yang mudah; dalam beberapa subtip (cth., hipofosfatasia) kalsium tambahan mungkin malah meningkatkan risiko hiperkalsemia atau pengapuran ektopik. Tiada bukti klinikal atau kesusasteraan yang ada pada masa ini untuk petunjukan ini juga, jadi ia tetap menjadi soalan penyelidikan dan bukannya calon yang boleh diambil tindakan.
+Skor tinggi daripada model kemungkinan besar mencerminkan kedekatan dalam graf pengetahuan dengan indikasi asal (hiperkalsemia, nefrokalsinosis), bukannya hubungan terapeutik sebenar. Ramalan ini dianggap **positif palsu** dengan kemungkinan isu keselamatan (kontraindikasi).
+
+### Ramalan kedua: displasia tulang primer dengan mineralisasi tulang yang cacat
+
+Skor TxGNN ialah 99.28%. Terdapat rasional biologi yang lemah dan tidak langsung: suplemen kalsium boleh membekalkan substrat untuk mineralisasi tulang, yang mungkin relevan dalam keadaan kekurangan kalsium seperti riket. Namun, displasia tulang primer jenis ini (contohnya hipofosfatasia atau keadaan berkaitan osteogenesis imperfecta) biasanya didorong oleh kelainan genetik atau fosfat/enzim, dan kalsium sahaja tidak dijangka dapat membetulkannya. Kalsium berlebihan juga boleh memburukkan hiperkalsemia atau hiperkalsiuria. Bukti hanya berasaskan ramalan, tiada ujian klinikal atau literatur.
 
 ---
 
@@ -69,38 +73,33 @@ Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Literatur
 
-Pada masa ini tiada kesusasteraan berkaitan yang tersedia.
-
----
-
-## Maklumat Pasaran Malaysia
-
-Rekod pendaftaran NPRA mengesahkan produk sedang dipasarkan di Malaysia dengan **6 kebenaran aktif**, tetapi butiran peringkat lesen (nombor kebenaran, nama produk, bentuk dos, dan teks petunjukan yang diluluskan) tidak diisi dalam pek bukti semasa dan memerlukan ekstraksi langsung daripada data pendaftaran produk NPRA sebelum mereka dapat dilaporkan secara individu.
+Pada masa ini tiada literatur berkaitan yang tersedia.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk risalah pek untuk maklumat keselamatan. Nota: pek bukti semasa mempunyai **jurang data pemblokiran (DG001)** — amaran label TFDA/NPRA dan kontraindikasi belum diambil — jadi tiada pernyataan keselamatan khusus ubat dapat dibuat pada masa ini; pertanyaan pangkalan data DDI juga mengembalikan tiada hasil.
+- **Kontraindikasi (berdasarkan graf pengetahuan, bukan teks label)**: tiada penyakit direkodkan.
+- **Interaksi Ubat**: tiada interaksi ditemui dalam data yang dikumpulkan.
+- **Catatan penting**: Ubat ini ialah garam kalsium, maka penggunaannya pada sindrom kalsium-alkali berpotensi memburukkan hiperkalsemia. Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
-**Rasional:**
-Petunjukan yang dijangka berpangkat teratas (sindrom kalsium-alkali) paling baik difahami sebagai kesan sampingan/perkaitan risiko yang diketahui daripada calcium lactate gluconate dan bukannya petunjukan yang boleh dirawat, dan tidak disokong oleh sebarang ujian klinikal atau kesusasteraan (Paras Bukti L5, ramalan model sahaja). Calon sekunder (gangguan osifikasi tulang) mempunyai rasional mekanis yang munasabah tetapi begitu juga mempunyai sifar ujian atau penerbitan yang menyokong dan melibatkan kumpulan penyakit heterogen di mana pemampasan kalsium mungkin tidak menangani patologi asas. Kedua-dua calon pada masa ini tidak membenarkan bergerak melampaui peringkat hipotesis.
+**Justifikasi:**
+- Kedua-dua ramalan hanya bertaraf L5 (ramalan model sahaja) tanpa sebarang ujian klinikal atau literatur. Untuk sindrom kalsium-alkali, ramalan ini kelihatan positif palsu dan mungkin berbahaya kerana kalsium ialah punca keadaan tersebut. Produk ini juga tidak didaftarkan di Malaysia.
 
-**Untuk meneruskan, perkara berikut diperlukan:**
-- Ambil amaran label produk TFDA/NPRA dan kontraindikasi (jurang pemblokiran, DG001)
-- Ambil data mekanisme kerja yang disahkan daripada DrugBank (DG002)
-- Jelaskan sama ada isyarat sindrom kalsium-alkali dalam graf pengetahuan mencerminkan kemunculan bersama kesan sampingan dan bukannya hubungan rawatan, untuk mengesahkan ia harus dikecualikan daripada penilaian penggunaan semula lanjutan
-- Jika mengejar calon displasia tulang, kenal pasti subtip penyakit khusus/etiologi genetik untuk menentukan sama ada pemampasan kalsium adalah sesuai secara mekanis, dan cari bukti pra-klinikal atau peringkat kes sebelum sebarang pelaburan selanjutnya
-- Lengkapkan ekstraksi peringkat lesen data pendaftaran NPRA Malaysia (nama produk, bentuk dos, teks petunjukan yang diluluskan)
-
+**Untuk diteruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) yang lengkap
+- Amaran dan kontraindikasi daripada sisipan pakej NPRA (jika produk didaftarkan)
+- Semakan literatur dan pendaftaran ujian untuk mengesahkan atau menolak kedua-dua ramalan
+- Penilaian keselamatan khusus mengenai risiko hiperkalsemia dan hiperkalsiuria
+- Pertimbangan semula ramalan sindrom kalsium-alkali sebagai calon penggunaan semula; disyorkan agar ia ditandakan sebagai potensi kontraindikasi
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -2,15 +2,15 @@
 layout: default
 title: Gemfibrozil
 parent: Low Evidence (L4-L5)
-nav_order: 366
-evidence_level: L5
+nav_order: 383
+evidence_level: L4
 indication_count: 10
 ---
 
 # Gemfibrozil
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L4** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,80 +29,82 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Gemfibrozil: Daripada Dislipidemik kepada Artritis Reumatoid
+# Gemfibrozil: Daripada Dislipidemia kepada Rheumatoid Arthritis
 
-## Ringkasan dalam Satu Ayat
+## Ringkasan Satu Ayat
 
-Gemfibrozil adalah agen pengatur lipid kelas fibrat, yang telah ditentukan secara klinis untuk merawat hipertrigliseridemia dan dislipidemik bercampur. Model TxGNN meramalkan ia mungkin berkesan untuk **Artritis Reumatoid**, namun arahan ini kini hanya disokong oleh **literatur model hewan dan laporan kes (4 penerbitan)**, tanpa uji klinik berdaftar.
+Gemfibrozil ialah agonis PPAR-alfa daripada kelas fibrat yang lazimnya digunakan untuk merendahkan trigliserida dan lipid darah. Model TxGNN meramalkan ia mungkin berkesan untuk **Rheumatoid Arthritis (RA)**. Setakat ini **tiada ujian klinikal berdaftar** dan hanya **4 penerbitan** dengan relevansi rendah hingga sederhana yang menyokong arah ini, kebanyakannya kajian praklinikal.
 
 ---
 
-## Gambaran Pantas
+## Gambaran Keseluruhan
 
-| Item | Kandungan |
+| Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Dislipidemik / hipertrigliseridemia (kelas fibrat; perkataan indikasi yang diluluskan NPRA secara terperinci tidak ditangkap dalam pakej bukti ini) |
-| Indikasi Baharu Diramalkan | Artritis Reumatoid |
+| Indikasi Asal | Dislipidemia / hipertrigliseridemia (berdasarkan pengetahuan umum; data lesen NPRA tidak mengandungi teks indikasi) |
+| Indikasi Baharu yang Diramalkan | Rheumatoid arthritis |
 | Skor Ramalan TxGNN | 99.90% |
-| Tahap Bukti | L4 (kajian preklinik / mekanistik sahaja) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 8 |
-| Keputusan Disyorkan | Tahan (ditanda secara dalaman sebagai peringkat "Soalan Penyelidikan" — S1) |
+| Tahap Bukti | L4 |
+| Status Pasaran Malaysia | Tidak dipasarkan (tiada lesen berdaftar dalam data yang dikumpulkan) |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan terperinci tidak tersedia. Berdasarkan maklumat yang diketahui, gemfibrozil adalah agonist kelas fibrat **PPAR-α**, yang digunakan secara klinis untuk menurunkan trigliserida dan meningkatkan HDL-C dalam dislipidemik. Secara mekanistik, aktivasi PPAR-α telah didokumentasikan mempunyai kesan anti-radang dan imunomodulasi di luar metabolisme lipid, yang membentuk asas farmakologi untuk ramalan TxGNN yang menghubungkan ia dengan artritis reumatoid (RA).
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat sedia ada, gemfibrozil ialah agonis PPAR-alfa. Pengaktifan PPAR mempunyai kesan anti-radang dan imunomodulatori, termasuk pengurangan sitokin pro-radang dan kesan ke atas pembezaan sel T. Ini memberikan hubung kait mekanistik yang munasabah dengan RA, penyakit autoimun yang didorong oleh keradangan kronik.
 
-Literatur sokongan adalah pada peringkat kelas dan bukan spesifik kepada ubat dalam kebanyakan kes. Satu kajian (PMID 30074417) secara langsung menguji gemfibrozil yang digabungkan dengan dos steroid yang lebih rendah dalam model arthritis teraruh adjuvan tikus (AIA), menunjukkan keberkesan yang setara dengan steroid dos penuh sendiri. Kajian yang berkaitan tentang bezafibrat — agonist pan-PPAR dalam kelas ubat yang sama — menunjukkan pelemahan RA eksperimental melalui modulasi laluan radang yang bergantung PPAR-γ (PMID 41207105), memberikan sokongan mekanistik secara tidak langsung.
+Hubungan antara indikasi asal (gangguan lipid) dengan RA tidak langsung. Kedua-duanya berkaitan metabolisme dan keradangan, dan pesakit RA diketahui mempunyai risiko kardiovaskular yang lebih tinggi. Kajian praklinikal menunjukkan agonis PPAR lain (bezafibrat) mengurangkan keradangan dalam model RA eksperimen. Satu kajian tikus juga melaporkan gemfibrozil bersama dos steroid yang dikurangkan memberikan kawalan penyakit yang setanding dengan dos steroid penuh.
 
-Walau bagaimanapun, tiada uji klinik manusia untuk gemfibrozil dalam RA telah dikenal pasti, dan asas bukti kekal terhad kepada model hewan, laporan kes, dan analogi mekanistik lintas kelas. Ini memastikan penemuan ini berada pada peringkat "soalan penyelidikan" dan bukannya calon ubat yang dapat ditindaklanjuti secara klinis untuk penggunaan semula.
+Namun, sokongan ini terhad kepada kajian haiwan dan mekanistik. Tiada bukti klinikal pada manusia untuk RA dalam data yang ada.
 
 ---
 
-## Bukti Uji Klinik
+## Bukti Ujian Klinikal
 
-Pada masa ini tiada uji klinik berkaitan berdaftar.
+Setakat ini tiada ujian klinikal berkaitan yang didaftarkan untuk gemfibrozil dalam RA.
 
 ---
 
 ## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|------|------|------|---------|
-| [30074417](https://pubmed.ncbi.nlm.nih.gov/30074417/) | 2019 | Model hewan (tikus AIA) | Modern Rheumatology | Gemfibrozil + prednislon dos berkurangan memberikan hasil pengurusan penyakit yang serupa dengan steroid dos penuh dalam model arthritis yang diinduksi adjuvan tikus |
-| [41207105](https://pubmed.ncbi.nlm.nih.gov/41207105/) | 2026 | Preklinik/hewan (bezafibrat, analog kelas) | International Immunopharmacology | Agonist pan-PPAR bezafibrat melemahkan RA eksperimental melalui modulasi laluan radang yang bergantung PPAR, menekankan aktiviti PPAR-γ |
-| [20083653](https://pubmed.ncbi.nlm.nih.gov/20083653/) | 2010 | Preklinik/mekanistik (model EAE, bukan RA) | Journal of Immunology | Penyediaan protein myelin asas mengurangkan ekspresi Foxp3 dalam sel T melalui nitrik oksida — mekanisme Treg/autoimun umum, bukan spesifik RA |
-| [18039017](https://pubmed.ncbi.nlm.nih.gov/18039017/) | 2007 | Laporan kes (penemuan tidak berkaitan) | American Journal of Clinical Dermatology | Tinjauan punca eritema palmar; kaitan tangen, bukan kajian rawatan |
+|------|-----|------|------|---------|
+| [30074417](https://pubmed.ncbi.nlm.nih.gov/30074417/) | 2019 | Kajian haiwan (model tikus artritis aruhan adjuvan) | Modern Rheumatology | Gemfibrozil digabungkan dengan dos prednisolon yang dikurangkan memberikan gambaran pengurusan yang serupa dengan dos steroid penuh |
+| [41207105](https://pubmed.ncbi.nlm.nih.gov/41207105/) | 2026 | Praklinikal (model haiwan) | International Immunopharmacology | Bezafibrat (agonis pan-PPAR, bukan gemfibrozil) mengurangkan RA eksperimen melalui modulasi laluan keradangan bergantung PPAR, terutamanya aktiviti PPAR-γ |
+| [20083653](https://pubmed.ncbi.nlm.nih.gov/20083653/) | 2010 | Praklinikal (mekanistik) | Journal of Immunology | Kajian mekanisme sel T regulatori, Foxp3 dan nitrik oksida dalam autoimuniti; hubungan tidak langsung |
+| [18039017](https://pubmed.ncbi.nlm.nih.gov/18039017/) | 2007 | Ulasan / nota klinikal | American Journal of Clinical Dermatology | Ulasan eritema palmar; relevansi rendah |
 
 ---
 
-## Maklumat Pasaran Malaysia
+## Keselamatan
 
-Gemfibrozil dipasarkan di Malaysia dengan 8 pendaftaran NPRA yang aktif, tetapi pakej bukti ini tidak termasuk butiran lesen individu (nombor kebenaran, nama produk, bentuk dos, atau teks indikasi yang diluluskan) — medan ini kembali kosong daripada pertanyaan sumber dan perlu ditarik semula daripada NPRA.
+- **Interaksi ubat**: Pangkalan data interaksi merekodkan 100 interaksi dengan gemfibrozil. Antara yang bertaraf **Major**:
+  - Statin: rosuvastatin, simvastatin
+  - Agen antidiabetes: pioglitazon, repaglinid
+  - Eluxadoline
+  - Loperamid
 
----
-
-## Pertimbangan Keselamatan
-
-Sila rujuk sisipan pakej untuk maklumat keselamatan. Data amaran utama, kontraindikasi, dan interaksi ubat tidak tersedia dalam pakej bukti ini (ditanda secara dalaman sebagai jurang data **Menyekat** — DG001), bermaksud penilaian keselamatan pra-lengkap tidak dapat lagi diselesaikan.
+  Interaksi bertaraf **Moderate** termasuk beberapa jenis insulin, nateglinid, rosiglitazon, tolazamid, klorpropamid, asid kenodeoksikolik dan rifaximin. Gabungan dengan statin memerlukan perhatian khusus kerana risiko kesan sampingan otot.
+- Maklumat amaran utama dan kontraindikasi berdasarkan sisipan pakej tidak tersedia. Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
 **Rasional:**
-Rasional mekanistik (aktiviti anti-radang PPAR-α/γ) adalah munasabah, tetapi bukti semasa untuk gemfibrozil dalam RA terhad kepada satu model AIA tikus, analogi lintas kelas (bezafibrat), dan laporan kes yang berkaitan secara tangen — tiada uji manusia wujud. Digabungkan dengan jurang data pelabelan keselamatan TFDA/NPRA yang menyekat, calon ini tidak bersedia untuk maju melampaui peringkat soalan penyelidikan.
+- Ramalan RA hanya disokong oleh bukti praklinikal (L4) dan hubung kait mekanistik PPAR yang munasabah, tanpa sebarang ujian klinikal pada manusia. Skor TxGNN yang tinggi sahaja tidak mencukupi untuk meneruskan ke peringkat seterusnya.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Amaran sisipan pakej TFDA/NPRA dan kontraindikasi (DG001, menyekat)
-- Mekanisme tindakan yang disahkan DrugBank (DG002)
-- Butiran lesen NPRA (nombor kebenaran, nama produk, teks indikasi yang diluluskan) untuk 8 pendaftaran Malaysia
-- Kajian klinik prospektif (sekurang-kurangnya Fasa 2) dalam pesakit RA, kerana bukti sedia ada adalah sepenuhnya preklinik
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan terperinci (contohnya daripada DrugBank)
+- Maklumat amaran dan kontraindikasi daripada sisipan pakej NPRA
+- Kajian praklinikal tambahan yang menggunakan gemfibrozil secara langsung, diikuti ujian klinikal fasa awal dalam pesakit RA
+- Penilaian risiko interaksi ubat, terutamanya dengan statin, kerana pesakit RA sering menerima pelbagai ubat
 
+**Nota tambahan:** Antara ramalan lain dalam data yang sama, **pengurusan dislipidemia/hipertrigliseridemia berkaitan terapi antiretroviral pada pesakit HIV** mempunyai bukti lebih kukuh (tahap L2, termasuk kajian RCT buta-ganda PMID 12409741). Ini ialah pengurusan komplikasi metabolik, bukan rawatan jangkitan HIV itu sendiri. Ia wajar dinilai secara berasingan sebagai soalan penyelidikan.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

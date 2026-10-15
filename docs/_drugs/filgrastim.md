@@ -2,7 +2,7 @@
 layout: default
 title: Filgrastim
 parent: Low Evidence (L4-L5)
-nav_order: 345
+nav_order: 357
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,88 +29,107 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Filgrastim: Dari Indikasi Asal yang Tidak Ditentukan kepada Gangguan Pelepasan Trombosit Utama
+# Filgrastim: Daripada Penggunaan Asal kepada Gangguan Pendarahan Jenis Platelet (Ramalan)
 
 ## Ringkasan Satu Ayat
 
-> Evidence pack tidak menyertakan indikasi asal yang diluluskan bagi Filgrastim (medan data kosong), walaupun ia adalah produk pasaran di Malaysia dengan 10 pendaftaran dalam fail.
-> Model TxGNN meramalkan potensi keberkesanan untuk **Gangguan Pelepasan Trombosit Utama**, tetapi ulasan mekanisme evidence pack sendiri menandai ini sebagai kemungkinan **artifak topologi graf dan bukannya farmakologi sebenar** — tiada satupun daripada 14 percubaan klinikal yang diambil, dan tiada kesusasteraan, secara langsung menyokong indikasi ini.
+Filgrastim ialah faktor perangsang koloni granulosit (G-CSF) yang bertindak pada keturunan sel mieloid untuk merangsang pembiakan dan pembezaan neutrofil. Data yang disusun untuk laporan ini tidak mencatat indikasi asal yang berdaftar di Malaysia.
+Model TxGNN meramalkan ia mungkin berkesan untuk **primary release disorder of platelets** (skor 99.998%), tetapi ramalan ini **tiada sebarang percubaan klinikal atau penerbitan** sebagai sokongan. Kesemuanya masih pada tahap ramalan model sahaja.
 
 ---
 
-## Gambaran Keseluruhan Cepat
+## Gambaran Ringkas
 
-| Item | Kandungan |
-|------|----------|
-| Indikasi Asal | Tidak tersedia dalam evidence pack (medan lesen dan indikasi kosong) |
-| Indikasi Baru Diramalkan | Gangguan pelepasan trombosit utama |
-| Skor Ramalan TxGNN | 99.99% |
-| Tahap Bukti | L5 (ramalan model sahaja, tiada kajian sokongan) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 10 |
-| Keputusan Disyorkan | Tahan |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Tiada maklumat indikasi berdaftar dalam data yang disusun |
+| Indikasi Baharu yang Diramalkan | Primary release disorder of platelets (gangguan pelepasan primer platelet) |
+| Skor Ramalan TxGNN | 99.998% |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
+
+Nota: Indikasi lain dalam senarai ramalan (kedudukan 2–10) juga berada pada tahap Hold. Hanya "platelet-type bleeding disorder" (kedudukan 10) mempunyai percubaan klinikal yang dipadankan (tahap L4), tetapi kesemuanya berkaitan secara tidak langsung.
 
 ---
 
-## Mengapa Ramalan Ini Munasabah?
+## Mengapa Ramalan Ini Munasabah (atau Tidak)?
 
-Filgrastim ialah faktor rangsangan koloni granulosit rekombinan (G-CSF) yang mengikat reseptor CSF3R pada sel pemula mieloid sumsum tulang, mendorong proliferasi/pembezaan neutrofil dan mobilisasi sel induk hematopoietik. Ini ialah satu-satunya maklumat mekanisme yang tersedia untuk ubat ini dalam evidence pack (`original_moa` sendiri ditandai sebagai jurang data; mekanisme di atas diambil daripada bukti nisbah-ubat penggunaan semula).
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan pengetahuan umum, filgrastim ialah G-CSF yang bertindak pada keturunan mieloid (percambahan dan pembezaan neutrofil), bukan pada pelepasan granul platelet atau fungsi platelet.
 
-Gangguan pelepasan trombosit utama, sebaliknya, adalah gangguan fungsi trombosit yang melibatkan sekresion granula padat/gran-α yang rosak semasa pengaktifan trombosit — laluan yang tidak berkaitan dengan isyarat mieloid yang dimediasi CSF3R. Penilaian mekanisme evidence pack sendiri menyatakan ini secara jelas: tiada pautan mekanisme langsung yang diketahui wujud antara keduanya, dan skor TxGNN yang tinggi kemungkinan besar mencerminkan kedekatan topologi nod "sumsum tulang / hematopoiesis" dalam graf pengetahuan dan bukannya hubungan farmakologi sebenar.
+Skor TxGNN yang tinggi ialah ramalan berasaskan graf tanpa sokongan klinikal atau literatur. Tiada hubungan mekanistik yang munasabah dengan kecacatan rembesan platelet dapat dikenal pasti. Begitu juga bagi indikasi lain yang diramalkan:
 
-Menyokong berhati-hati ini, kesemua 14 percubaan klinikal yang diambil untuk pasangan ini dinilai "C" (relevansi rendah) oleh sistem pemeringkatan relevansi evidence pack sendiri — ia adalah pemindahan sel induk, profilaksis GVHD, atau kajian pencegahan CMV dengan Filgrastim digunakan hanya sebagai agen mobilisasi sel induk/penjagaan sokongan, bukan sebagai rawatan untuk gangguan pelepasan trombosit. Tiada kesusasteraan ditemui sama sekali.
+- **Pseudo-von Willebrand disease**: gangguan peningkatan fungsi GPIb-alfa; G-CSF tidak mempunyai tindakan diketahui pada ikatan GPIb-VWF.
+- **Glanzmann thrombasthenia**: kekurangan atau disfungsi integrin αIIbβ3; G-CSF tidak membetulkan kecacatan ini.
+- **Scott syndrome**: kecacatan pendedahan fosfatidilserina (TMEM16F/ANO6); tiada kesan diketahui.
+- **Trombositopenia konstitusi dengan pendarahan**: G-CSF bukan agen trombopoietik (tidak bertindak pada laluan MPL); hanya rasional tidak langsung melalui mobilisasi progenitor hematopoietik, tanpa bukti sokongan.
+- **Kecacatan reseptor kolagen**: G-CSF tiada interaksi diketahui dengan GPVI/integrin α2β1.
+- **Kekurangan C1 inhibitor**: kecacatan pengawalaturan sistem komplemen/sentuhan; tiada mekanisme untuk memulihkan fungsi C1-INH.
+- **Serpinopati**: pempolimeran serpin yang salah lipat; G-CSF tidak menangani masalah ini.
+- **Trombositopenia aloimun janin dan neonatal (FNAIT)**: didorong oleh aloantibodi ibu; G-CSF tiada peranan mekanistik langsung.
+- **Platelet-type bleeding disorder**: satu-satunya pautan tidak langsung ialah penggunaan G-CSF untuk mobilisasi sel stem darah periferi dalam transplantasi sel stem hematopoietik (HSCT), kerana HSCT alogenik boleh menyembuhkan sesetengah gangguan platelet warisan. Namun G-CSF hanyalah komponen sokongan, bukan terapi yang diuji.
 
 ---
 
 ## Bukti Percubaan Klinikal
 
-**Berhati-hati: percubaan di bawah ini diambil melalui kesamaan ubat/penyakit tetapi dinilai sebagai relevansi rendah (Gred C) oleh ulasan evidence pack sendiri — Filgrastim muncul hanya sebagai agen sokongan/mobilisasi dalam tetapan pemindahan sel induk atau onkologi, bukan sebagai rawatan bagi indikasi yang diramalkan.**
+Untuk indikasi utama (primary release disorder of platelets): Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
 
-| Bilangan Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
+Untuk indikasi kedudukan 10 (platelet-type bleeding disorder), terdapat 7 percubaan yang dipadankan, semuanya bergred relevan C (tidak langsung):
+
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT02646098](https://clinicaltrials.gov/study/NCT02646098) | Fasa 2 | Selesai | 64 | Pemindahan sel induk autologi CD34+ dipilih vs. tidak dipilih dalam MCL/DLBCL; G-CSF digunakan hanya untuk mobilisasi sel induk, bukan percubaan rawatan gangguan trombosit. |
-| [NCT05170828](https://clinicaltrials.gov/study/NCT05170828) | Fasa 1 | Ditarik balik | 0 | Kajian pemindahan sumsum tulang penderma tidak berkaitan yang dipaparcaair; ditarik balik dengan pendaftaran sifar. |
-| [NCT04047628](https://clinicaltrials.gov/study/NCT04047628) | Fasa 3 | Merekrut | 156 | HSCT autologi vs. terapi terbaik yang tersedia dalam MS rintangan rawatan; tidak berkaitan dengan gangguan trombosit. |
-| [NCT05436418](https://clinicaltrials.gov/study/NCT05436418) | Fasa 1/2 | Merekrut | 260 | Pencarian dos untuk siklofosfamida pasca-pemindahan profilaksis GVHD; bukan kajian gangguan trombosit. |
-| [NCT01503918](https://clinicaltrials.gov/study/NCT01503918) | Fasa 2 | Selesai | 124 | Profilaksis antiviral untuk penggiataktifan CMV dalam penjagaan kritikal; indikasi tidak berkaitan. |
-| [NCT04540120](https://clinicaltrials.gov/study/NCT04540120) | Fasa 2 | Ditamatkan | 49 | Dapansutrile untuk COVID-19 sederhana; ditamatkan, tidak berkaitan dengan Filgrastim atau gangguan trombosit. |
-| [NCT01335932](https://clinicaltrials.gov/study/NCT01335932) | Fasa 2 | Selesai | 160 | Gansiklovir/valgansiklovir untuk penggiataktifan CMV dalam kegagalan pernafasan; indikasi tidak berkaitan. |
-| [NCT00043979](https://clinicaltrials.gov/study/NCT00043979) | Fasa 2 | Selesai | 60 | Pilot pemindahan sel induk alogenei/singenei dalam sarkoma pediatrik; indikasi tidak berkaitan. |
-| [NCT00245037](https://clinicaltrials.gov/study/NCT00245037) | Fasa 1/2 | Selesai | 147 | HSCT alogenei intensiti kurang bagi keganasan hematologi; indikasi tidak berkaitan. |
-| [NCT00923364](https://clinicaltrials.gov/study/NCT00923364) | Fasa 2 | Selesai | 19 | Pilot HSCT intensiti berkurangan untuk pesakit mutasi GATA2; indikasi tidak berkaitan. |
+| [NCT00296023](https://clinicaltrials.gov/study/NCT00296023) | NA | Selesai | 25 | Transplantasi sel stem periferi alogenik dos rendah untuk keganasan hematologi gred rendah berisiko tinggi; G-CSF hanya sebagai agen mobilisasi/sokongan |
+| [NCT00004232](https://clinicaltrials.gov/study/NCT00004232) | Fasa 1 | Selesai | Tiada maklumat | Penambahan sumsum tulang dengan sel stem darah periferi diperkaya CD34 untuk transplantasi alogenik |
+| [NCT00054236](https://clinicaltrials.gov/study/NCT00054236) | Fasa 1 | Selesai | 55 | Transplantasi pelbagai unit darah tali pusat selepas penyesuaian bukan mieloablatif (keganasan hematologi atau anemia aplastik teruk) |
+| [NCT00301912](https://clinicaltrials.gov/study/NCT00301912) | Fasa 2 | Ditarik balik | 0 | Busulfan dan fludarabin sebagai terapi persediaan transplantasi penderma tidak berkaitan; tiada data boleh digunakan |
+| [NCT00295997](https://clinicaltrials.gov/study/NCT00295997) | NA | Tidak diketahui | 35 | Transplantasi sel stem alogenik bukan mieloablatif dengan penderma tidak berkaitan yang sepadan |
+| [NCT00080925](https://clinicaltrials.gov/study/NCT00080925) | Fasa 1 | Selesai | 20 | Transplantasi sel stem haploidentikal intensiti dikurangkan dengan penyusutan sel T |
+| [NCT00004904](https://clinicaltrials.gov/study/NCT00004904) | Fasa 1 | Selesai | Tiada maklumat | Transplantasi sel stem penderma separa sepadan dengan penyusutan sel T dan sel "veto" CD34 |
 
-4 percubaan tambahan diambil tetapi belum dinilai untuk relevansi (tidak ditunjukkan; tiada satupun menyasarkan indikasi yang diramalkan secara langsung berdasarkan tajuk mereka).
+Kesemua percubaan ialah protokol transplantasi untuk keganasan hematologi, bukan kajian gangguan pendarahan platelet.
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Literatur
 
-Pada masa ini tiada kesusasteraan berkaitan yang tersedia.
+Pada masa ini tiada literatur berkaitan tersedia.
+
+---
+
+## Maklumat Pasaran Malaysia
+
+Filgrastim pada masa ini tidak dipasarkan di Malaysia dan tiada pendaftaran lesen direkodkan dalam data yang disusun.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
+**Interaksi Ubat**: Pertanyaan interaksi ubat telah selesai, dengan jumlah 100 interaksi direkodkan (sumber: DDInter). Dua puluh yang pertama dipaparkan dan semuanya bertahap **Sederhana (Moderate)**, termasuk:
 
-*(Nota: amaran label TFDA/NPRA dan kontraindikasi ditandai sebagai jurang data Sekatan dalam evidence pack ini — lihat Kesimpulan di bawah.)*
+- Agen radiofarmaseutikal/radioimunoterapi: iobenguane (I-131), fludeoxyglucose (18F), ibritumomab tiuxetan, tositumomab, tositumomab (I-131)
+- Agen sitotoksik dan antineoplastik: paclitaxel, mercaptopurine, trimetrexate, azacitidine, bendamustine, altretamine, arsenic trioxide, asparaginase *Escherichia coli*
+- Agen terapi sasaran dan imunoterapi: abemaciclib, acalabrutinib, avapritinib, aldesleukin, alemtuzumab, belantamab mafodotin
+- Lain-lain: levamisole
+
+Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej produk.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
-**Alasan:**
-Tiada percubaan klinikal atau kesusasteraan yang secara langsung menyokong Filgrastim untuk gangguan pelepasan trombosit utama, dan mekanisme yang dicadangkan (mielopoiesis yang didorong CSF3R) tidak mempunyai pautan yang ditubuhkan dengan laluan sekresion granula trombosit — ulasan evidence pack sendiri mengaitkan skor TxGNN yang tinggi dengan topologi graf pengetahuan dan bukannya farmakologi sebenar. Digabungkan dengan jurang data Sekatan pada amaran label produk/kontraindikasi, calon ini tidak memenuhi ambang untuk maju melampaui S0.
+**Justifikasi:**
+- Ramalan untuk primary release disorder of platelets hanyalah keluaran model (L5) tanpa percubaan klinikal, literatur atau hubungan mekanistik yang munasabah. Semua 10 indikasi yang diramalkan berada pada tahap Hold. Satu-satunya isyarat tidak langsung (tahap L4) bagi platelet-type bleeding disorder datang daripada protokol transplantasi, bukan bukti keberkesanan filgrastim.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Label produk TFDA/NPRA (amaran, kontraindikasi) — pada masa ini jurang data Sekatan (DG001)
-- Rekod mekanisme tindakan DrugBank yang disahkan — pada masa ini jurang data Keterukan Tinggi (DG002)
-- Kajian praklinik atau mekanisme yang secara langsung menghubungkan isyarat G-CSF/CSF3R kepada pelepasan granula padat/gran-α trombosit
-- Percubaan klinikal khusus atau siri kes yang menguji Filgrastim dalam pesakit dengan gangguan pelepasan trombosit (tiada yang wujud pada masa ini)
-- Indikasi asal yang diluluskan yang disahkan untuk Filgrastim, yang tidak hadir dalam evidence pack ini
-
+- Data MOA terperinci (contohnya melalui DrugBank) untuk menilai hubungan mekanistik
+- Amaran dan kontraindikasi daripada sisipan pakej NPRA bagi penilaian keselamatan
+- Data indikasi asal dan status pendaftaran tempatan (kini tiada lesen direkodkan)
+- Kajian praklinikal atau literatur yang menyokong peranan G-CSF dalam gangguan fungsi platelet
+- Penilaian keserasian laluan pentadbiran dan persamaan dengan indikasi asal (kini belum ditentukan)
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

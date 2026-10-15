@@ -2,7 +2,7 @@
 layout: default
 title: Selinexor
 parent: Low Evidence (L4-L5)
-nav_order: 609
+nav_order: 639
 evidence_level: L5
 indication_count: 1
 ---
@@ -29,35 +29,36 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Selinexor: Dari Indikasi Belum Didaftar ke Osteoporosis Teraruh Ubat
+# Selinexor: Daripada Penunjuk Asal Tidak Didokumenkan kepada Osteoporosis Teraruh Ubat
 
 ## Ringkasan Satu Ayat
 
-Selinexor (DB11942) dipasarkan di Malaysia, tetapi indikasi yang diluluskan asalnya dan mekanisme kerja belum tersedia dalam pakej bukti ini. Model TxGNN meramalkan kemungkinan kesan pada **osteoporosis teraruh ubat**, dengan skor ramalan sebesar **99.22%**, tetapi pada masa ini **0 ujian klinikal** dan **0 penerbitan** menyokong arah ini — penemuan ini adalah ramalan model sahaja pada peringkat ini.
+Selinexor ialah perencat XPO1 (eksportin-1) yang menyekat pengeksportan nuklear. Data yang dikumpulkan untuk laporan ini tidak mengandungi penunjuk asal yang berdaftar di Malaysia.
+Model TxGNN meramalkan ubat ini mungkin berkesan untuk **osteoporosis teraruh ubat (drug-induced osteoporosis)**, tetapi pada masa ini **tiada ujian klinikal** dan **tiada penerbitan** yang menyokong arah ini; ramalan ini hanya berasaskan model.
 
 ---
 
-## Gambaran Pantas
+## Gambaran Ringkas
 
-| Item | Kandungan |
+| Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tidak tersedia dalam set data semasa (jurang data) |
-| Indikasi Baru Yang Diramalkan | Osteoporosis Teraruh Ubat |
+| Penunjuk Asal | Tiada data penunjuk berdaftar tempatan |
+| Penunjuk Baharu yang Diramalkan | Osteoporosis teraruh ubat (drug-induced osteoporosis) |
 | Skor Ramalan TxGNN | 99.22% |
-| Aras Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 1 |
-| Keputusan Yang Disyorkan | Tahan |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme kerja terperinci untuk selinexor belum tersedia dalam pakej bukti ini, dan indikasi asal juga tidak tercatat. Berdasarkan rasional penyusunan semula yang dilampirkan pada ramalan ini, selinexor difahamkan sebagai perencat selektif XPO1 (exportin-1/CRM1). Secara mekanis, perencatan XPO1 dapat menyekat pengeksportan faktor transkripsi daripada nukleus seperti NF-κB, dan laluan NF-κB/RANKL terlibat dalam pembezaan osteoklas — jadi kesan tidak langsung pada metabolisme tulang adalah munasabah secara biologi.
+Data mekanisme tindakan terperinci daripada sumber rasmi belum tersedia dalam data yang dikumpulkan. Selinexor diketahui sebagai perencat XPO1, iaitu penyekat pengeksportan nuklear, dan merupakan ubat antineoplastik.
 
-Bagaimanapun, pautan ini adalah teori semata-mata pada masa ini. Tiada bukti klinikal atau pra-klinikal langsung yang menghubungkan selinexor ke osteoporosis teraruh ubat secara khusus. Selinexor juga diketahui menyebabkan kesan sampingan sistemik (cth., hiponatremia, mual, kehilangan berat badan), dan arah bersih kesannya pada ketumpatan tulang (melindungi berbanding berbahaya) tidak terbukti daripada data yang tersedia — peningkatan kehilangan tulang tidak boleh dikecualikan.
+Satu kaitan yang mungkin tetapi **belum disahkan**: perencatan XPO1 boleh mengubah pengekalan dalam nukleus bagi pengawal selia pembentukan semula tulang (contohnya NF-κB dan laluan isyarat lain yang mempengaruhi aktiviti osteoklas dan osteoblas). Hipotesis ini bersifat spekulatif dan tidak disokong oleh sebarang ujian atau literatur dalam data yang ada. Ramalan ini juga mungkin mencerminkan artifak topologi graf pengetahuan dan bukan biologi sebenar.
 
-Kerana indikasi asal dan MOA tidak disahkan, hubungan antara indikasi asal dan yang diramalkan tidak dapat dinilai dengan bermakna pada masa ini. Ramalan ini harus diperlakukan sebagai hipotesis awal yang dijana oleh model, bukan sebagai bukti kaitan terapeutik.
+Selain itu, selinexor mempunyai ketoksikan yang ketara (loya, keletihan, sitopenia, penurunan berat badan, hiponatremia). Bersama 81 interaksi ubat yang direkodkan, ini menambah beban keselamatan bagi penunjuk kronik dan tidak mengancam nyawa seperti osteoporosis.
 
 ---
 
@@ -75,29 +76,54 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-Satu pendaftaran produk tersedia dalam fail sebagai dipasarkan di Malaysia, tetapi butir-butir pendaftaran (nombor lesen, nama produk, bentuk dos, teks indikasi yang diluluskan) belum tersedia dalam set data semasa.
+Selinexor pada masa ini **tidak dipasarkan** di Malaysia dan tiada lesen yang didaftarkan dalam data yang dikumpulkan.
+
+---
+
+## Sitotoksisiti
+
+Selinexor ialah ubat antineoplastik (perencat nuklear export XPO1). Rujuk amaran dan langkah berjaga-jaga dalam sisipan pek untuk butiran.
+
+| Perkara | Kandungan |
+|------|------|
+| Klasifikasi Sitotoksisiti | Terapi bersasar (perencat XPO1) |
+| Risiko Penekanan Sumsum Tulang | Sitopenia dilaporkan sebagai ketoksikan yang diketahui; rujuk sisipan pek untuk butiran |
+| Klasifikasi Emetogenisiti | Loya merupakan ketoksikan yang diketahui; rujuk sisipan pek untuk tahap klasifikasi |
+| Item Pemantauan | Hitung darah lengkap (CBC), natrium serum, berat badan dan status pemakanan |
+| Perlindungan Pengendalian | Rujuk sisipan pek untuk keperluan pengendalian ubat sitotoksik |
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
+**Interaksi Ubat**: Sebanyak 81 interaksi direkodkan. Antara yang dikategorikan **Major** (contoh daripada senarai yang diperoleh):
+- Deferiprone
+- Samarium (153Sm) lexidronam
+- Adalimumab
+- Baricitinib
+- Certolizumab pegol
+- Cladribine
+- Clozapine
+
+Interaksi tahap **Moderate** termasuk strontium klorida Sr-89, roflumilast, kloramfenikol, zidovudin, azatioprin, alemtuzumab, anakinra, kanakinumab, serta beberapa vaksin (contohnya toksoid tetanus, vaksin antraks, vaksin kolera hidup).
+
+Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pek.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
 **Rasional:**
-Skor ramalan TxGNN tinggi, tetapi bukti sokongan sepenuhnya hilang (0 ujian klinikal, 0 ujian ICTRP, 0 penerbitan), meletakkan calon ini pada Aras Bukti L5 — ramalan model sahaja. Digabungkan dengan jurang data penyekat pada pelabelan keselamatan (amaran/kontraindikasi) dan jurang keparahan tinggi pada mekanisme kerja, pada masa ini tiada asas untuk memajukan calon ini melampaui penapisan awal.
+- Ramalan ini hanya disokong oleh skor model (L5) tanpa sebarang ujian klinikal atau literatur, dan ubat ini tidak didaftarkan di Malaysia. Profil ketoksikan ubat antineoplastik ini kurang sesuai untuk penunjuk kronik seperti osteoporosis.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Data sisipan pakej TFDA/NPRA (amaran, kontraindikasi) — jurang penyekat, diperlukan sebelum sebarang pra-penilaian keselamatan S1
-- Mekanisme kerja yang disahkan melalui DrugBank
-- Indikasi asal yang disahkan dan butir-butir pendaftaran Malaysia yang lengkap (nombor lesen, nama produk, bentuk dos, teks indikasi yang diluluskan)
-- Pencarian literatur/ujian klinikal tertumpu untuk selinexor dan hasil berkaitan tulang (osteoporosis, ketumpatan tulang, aktiviti osteoklas), kerana carian semasa tidak memberikan hasil
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) daripada DrugBank bagi menilai kaitan mekanistik
+- Amaran dan kontraindikasi daripada sisipan pek NPRA (jurang data yang menghalang penyaringan keselamatan)
+- Kajian praklinikal atau literatur yang menunjukkan kesan perencatan XPO1 terhadap metabolisme tulang
+- Penilaian nisbah manfaat-risiko untuk penunjuk kronik bukan maut
+- Pengesahan keserasian laluan pemberian dan penilaian pendaftaran tempatan
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

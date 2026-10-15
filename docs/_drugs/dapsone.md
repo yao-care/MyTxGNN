@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Dapsone
-parent: Low Evidence (L4-L5)
-nav_order: 247
-evidence_level: L5
+parent: High Evidence (L1-L2)
+nav_order: 253
+evidence_level: L1
 indication_count: 1
 ---
 
 # Dapsone
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **1** 
+Tahap bukti: **L1** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,65 +29,105 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Dapsone: Daripada Penyakit Kusta / Dermatitis Herpetiformis kepada Pneumokistosis
-
-*Catatan: Rekod lesen kawal selia Taiwan/Malaysia dalam pakej bukti tidak mengandungi teks petunjuk asal yang diisi (jurang data DG001), jadi "Penyakit Kusta / Dermatitis Herpetiformis" di atas mencerminkan petunjuk yang telah terbina dengan baik secara amnya untuk Dapsone dan bukannya nilai yang diekstrak daripada pakej ini.*
+# Dapson: Daripada Kusta, Dermatitis Herpetiformis dan Jerawat kepada Pneumocystosis
 
 ## Ringkasan Satu Ayat
 
-Dapsone ialah antibakteri kelas sulfon yang pada asalnya ditunjukkan untuk penyakit kusta (penyakit Hansen) dan dermatitis herpetiformis; butiran label TFDA yang diperlukan untuk mengesahkan ini secara tempatan kini tiada dalam pakej bukti (jurang data DG001). Model TxGNN meramalkan ia mungkin berkesan untuk **Pneumokistosis (pneumonia Pneumocystis)**, satu ramalan yang selaras dengan penggunaan luar label/berasaskan garis panduan Dapsone yang terbina dengan baik sebagai profilaksis PCP — tetapi pakej kini mengandungi **0 ujian klinikal yang sepadan** dan **0 penerbitan yang sepadan** untuk pasangan khusus ini.
+Dapson ialah ubat sulfon yang pada asalnya digunakan untuk merawat dermatitis herpetiformis, jerawat dan kusta.
+Model TxGNN meramalkan ia mungkin berkesan untuk **Pneumocystosis** (jangkitan *Pneumocystis jirovecii*),
+dengan **10 ujian klinikal** dan **20 penerbitan** yang menyokong arah ini, termasuk beberapa ujian Fasa 3 yang telah selesai.
+Namun, penggunaan ini sudah mantap dalam amalan klinikal (profilaksis PCP), jadi ia lebih tepat dianggap sebagai penggunaan yang telah disahkan berbanding calon penggunaan semula yang baharu.
 
-## Gambaran Keseluruhan Cepat
+---
 
-| Item | Kandungan |
-|------|---------|
-| Petunjuk Asal | Tidak diisi dalam pakej bukti (teks lesen TFDA kosong — lihat DG001); secara amnya dikenali sebagai penyakit kusta / dermatitis herpetiformis |
-| Petunjuk Baru yang Diramalkan | Pneumokistosis (pneumonia Pneumocystis) |
+## Gambaran Keseluruhan Ringkas
+
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Dermatitis herpetiformis, jerawat, kusta (berdasarkan graf pengetahuan TxGNN/PrimeKG; tiada teks indikasi diluluskan NPRA) |
+| Indikasi Baharu yang Diramal | Pneumocystosis |
 | Skor Ramalan TxGNN | 99.73% |
-| Paras Bukti | L2 (mengikut penilaian sumber — lihat rasional di bawah; nota sifar ujian/literatur diindeks dalam pakej ini) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 2 |
-| Keputusan yang Disyorkan | Tahan |
+| Tahap Bukti | L1 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan yang Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Perlindungan) |
 
-## Mengapa Ramalan Ini Berdasar?
+---
 
-Pada masa ini, data mekanisme tindakan terperinci tidak tersedia (DG002 — Jurang keterukan tinggi). Berdasarkan farmakologi yang diketahui, Dapsone ialah analog sulfonamida yang menghalang sintesis dihidroptoroat dalam *Pneumocystis jirovecii*, sasaran mekanistik yang sama dengan sulfametoksazol. Ini meletakkan dapsone dengan jelas dalam laluan antifolat yang terbina dengan baik yang digunakan terhadap organisma ini.
+## Mengapa Ramalan Ini Munasabah?
 
-Secara klinikal, dapsone (sahaja atau digabungkan dengan pirimethamine) adalah alternatif yang diiktiraf untuk profilaksis dan rawatan pneumonia Pneumocystis (PCP) dalam pesakit yang tidak dapat menoleransi TMP-SMX, dan disertakan dalam garis panduan jangkitan oportunistik CDC/NIH/IDSA. Dalam erti kata lain, ini bukan hipotesis repurposing novel yang dijana semata-mata daripada inferens graf — ia mencerminkan amalan klinikal sedia ada yang model TxGNN telah pulih secara bebas, yang merupakan isyarat konsistensi dalaman yang kuat untuk ramalan.
+Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan farmakologi sulfon yang diketahui, dapson merencat enzim dihidropteroat sintase dalam laluan sintesis folat, iaitu sasaran yang sama dengan sulfonamida seperti sulfametoksazol. Perlu diingat bahawa pautan mekanisme ini disimpulkan daripada pengetahuan farmakologi umum, bukan daripada data yang dibekalkan.
 
-Skor TxGNN yang tinggi (99.73%) oleh itu konsisten dengan bukti mekanistik dan garis panduan sebelumnya, walaupun pakej bukti khusus ini tidak mengembalikan entri yang sepadan daripada ClinicalTrials.gov, ICTRP, atau PubMed untuk pasangan dapsone–pneumokistosis (lihat bahagian Ujian Klinikal dan Literatur di bawah).
+*Pneumocystis jirovecii* bergantung pada laluan folat ini, maka mekanisme antimikrob tersebut munasabah secara biologi dan selaras dengan skor ramalan TxGNN yang sangat tinggi. Dapson juga mempunyai kesan antimikrob dan anti-radang, yang menjelaskan penggunaannya dalam kusta dan penyakit kulit neutrofilik.
+
+Dapson sudah mantap secara klinikal untuk profilaksis PCP dan, bersama trimetoprim, untuk rawatan PCP ringan hingga sederhana, terutamanya bagi pesakit yang tidak tahan trimetoprim-sulfametoksazol (TMP-SMX). Oleh itu, ramalan ini mengesahkan penggunaan sedia ada dan bukan penemuan baharu.
+
+---
 
 ## Bukti Ujian Klinikal
 
-Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
+|---------|------|------|------|---------|
+| [NCT00000802](https://clinicaltrials.gov/study/NCT00000802) | Fasa 3 | Selesai | 700 | Dapson harian berbanding atovakuon harian untuk profilaksis PCP pada pesakit HIV yang tidak tahan trimetoprim/sulfonamida |
+| [NCT00000991](https://clinicaltrials.gov/study/NCT00000991) | Fasa 3 | Selesai | 600 | Perbandingan tiga agen anti-Pneumocystis (termasuk dapson) bersama zidovudin untuk pencegahan primer pada HIV lanjutan |
+| [NCT00001028](https://clinicaltrials.gov/study/NCT00001028) | Fasa 3 | Selesai | 400 | Pentamidin teraerosol bulanan berbanding dapson tiga kali seminggu untuk profilaksis PCP |
+| [NCT00000640](https://clinicaltrials.gov/study/NCT00000640) | Fasa 3 | Selesai | 290 | Dapson/trimetoprim dan klindamisin/primakuin berbanding TMP-SMX untuk PCP ringan hingga sederhana |
+| [NCT00000739](https://clinicaltrials.gov/study/NCT00000739) | Fasa 1 | Selesai | 96 | Perbandingan dos dapson harian dan mingguan untuk profilaksis pada kanak-kanak HIV (ketoksikan dan farmakokinetik) |
+| [NCT00002120](https://clinicaltrials.gov/study/NCT00002120) | Fasa 1 | Selesai | 20 | Trimetreksat + leukovorin + dapson berbanding TMP-SMX; fokus keselamatan, saiz sampel kecil |
+| [NCT00002043](https://clinicaltrials.gov/study/NCT00002043) | NA | Selesai | Tidak dilaporkan | Dapson 100 mg berbanding 50 mg untuk profilaksis primer PCP pada pesakit ARC |
+| [NCT00002283](https://clinicaltrials.gov/study/NCT00002283) | NA | Selesai | Tidak dilaporkan | Dapson + trimetoprim berbanding TMP-SMX untuk episod pertama PCP pada pesakit AIDS |
+| [NCT02550080](https://clinicaltrials.gov/study/NCT02550080) | Fasa 4 | Tidak diketahui | 3130 | Saringan genetik HLA-B*1301 untuk risiko sindrom hipersensitiviti dapson; tidak tertumpu pada PCP |
+
+Dua ujian lain yang disenaraikan dalam data (termasuk NCT00636935, kortikosteroid dalam PCP, status ditarik balik) tidak memberi bukti tentang dapson dan tidak dimasukkan di atas.
+
+---
 
 ## Bukti Literatur
 
-Pada masa ini tiada literatur berkaitan tersedia.
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [38583518](https://pubmed.ncbi.nlm.nih.gov/38583518/) | 2024 | Kajian sistematik/meta-analisis rangkaian | Clin Microbiol Infect | Perbandingan keberkesanan dan keselamatan rejimen profilaksis PCP (TMP-SMX, rejimen berasaskan dapson, pentamidin teraerosol, atovakuon) pada pesakit HIV |
+| [39732393](https://pubmed.ncbi.nlm.nih.gov/39732393/) | 2025 | Kajian sistematik/meta-analisis rangkaian | Clin Microbiol Infect | Perbandingan rejimen rawatan PCP pada pesakit HIV; TMP-SMX kekal rawatan utama |
+| [27550992](https://pubmed.ncbi.nlm.nih.gov/27550992/) | 2016 | Garis panduan | J Antimicrob Chemother | Garis panduan ECIL: TMP-SMX ialah pilihan utama profilaksis PCP pada pesakit malignansi hematologi dan penerima transplan sel stem |
+| [33870843](https://pubmed.ncbi.nlm.nih.gov/33870843/) | 2021 | Ulasan | Expert Opin Pharmacother | Ulasan *P. jirovecii* dengan tumpuan pencegahan dan rawatan |
+| [11155588](https://pubmed.ncbi.nlm.nih.gov/11155588/) | 2001 | Ulasan | Dermatol Clin | Dapson berguna untuk profilaksis PCP pada penyakit HIV, dan ialah rawatan pilihan untuk dermatitis herpetiformis |
+| [18971152](https://pubmed.ncbi.nlm.nih.gov/18971152/) | 2008 | Ulasan | J Formos Med Assoc | Ulasan pneumonia Pneumocystis pada individu imunokompromi |
+| [9606476](https://pubmed.ncbi.nlm.nih.gov/9606476/) | 1998 | Laporan kes (keselamatan) | Ann Pharmacother | Methemoglobinemia akibat dapson semasa profilaksis PCP |
+| [33280223](https://pubmed.ncbi.nlm.nih.gov/33280223/) | 2021 | Kajian carta retrospektif | Pediatr Transplant | Methemoglobinemia akibat dapson pada kanak-kanak lepas transplan buah pinggang |
+| [32714715](https://pubmed.ncbi.nlm.nih.gov/32714715/) | 2020 | Laporan kes | Cureus | Hipoksia akibat methemoglobinemia semasa terapi dapson |
+| [31631707](https://pubmed.ncbi.nlm.nih.gov/31631707/) | 2021 | Ulasan | Drug Chem Toxicol | Komplikasi hepar akibat dapson, melangkaui methemoglobinemia |
 
-## Maklumat Pasaran Malaysia
+---
 
-Dapsone memegang **2 pendaftaran** dengan status pasaran "Dipasarkan," tetapi rekod lesen pakej bukti (nombor kebenaran, nama produk, bentuk dos, petunjuk yang diluluskan) kosong untuk kedua-dua entri — ini konsisten dengan jurang data DG001 (ekstraksi label/amaran TFDA belum selesai). Butiran lesen yang diisi diperlukan sebelum jadual ini boleh dihasilkan.
+## Keselamatan
 
-## Pertimbangan Keselamatan
+- **Penyakit/keadaan yang dikaitkan dengan kontraindikasi (berdasarkan graf pengetahuan TxGNN, bukan teks label produk):** penyakit hati, penyakit pundi hempedu, anemia, anemia makrositik, kekurangan G6PD, penyakit penyimpanan glikogen, sistinuria, galaktosemia, kekurangan piruvat dehidrogenase E3, dan methemoglobinemia akibat kekurangan methemoglobin reduktase.
+- **Amaran utama daripada literatur:**
+  - Risiko hemolisis pada kekurangan G6PD; saringan G6PD disyorkan sebelum permulaan.
+  - Methemoglobinemia (PMID 9606476, 32714715, 33280223); pemantauan diperlukan.
+  - Kecederaan hati (PMID 31631707) dan kes pankreatitis akut (PMID 14519046).
+  - Sindrom hipersensitiviti dapson, dengan kajian saringan HLA-B*1301 (NCT02550080).
+  - Kemungkinan tindak balas silang pada pesakit dengan hipersensitiviti sulfonamida.
+- **Interaksi ubat:** 100 interaksi direkodkan; sampel yang tersedia termasuk:
+  - Tahap **Sederhana**: aprepitan, metronidazol, asid pikosulfurik, nateglinid, nitisinon, rosuvastatin, simvastatin, tinidazol, arang aktif, troglitazon.
+  - Tahap **Tidak diketahui**: kalsitriol, pantoprazol, glimepirid, morfin, metformin, omeprazol, sukralfat, rosiglitazon, lansoprazol, vankomisin.
 
-Sila rujuk risalah maklumat ubat untuk maklumat keselamatan.
+Maklumat amaran dan kontraindikasi daripada sisipan pakej NPRA tidak diperoleh; sila rujuk sisipan pakej produk yang berkenaan.
 
-Nota: Data amaran utama, kontraindikasi, dan interaksi ubat semuanya kini tidak tersedia dalam pakej bukti ini (DG001, keterukan: Blocking — "tidak boleh meneruskan ke pemeriksaan keselamatan S1"). Ini adalah penghalang keras untuk sebarang penilaian berasaskan keselamatan pergi/tanpa pergi, bebas daripada bukti keberkesanan di atas.
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Proceed with Guardrails (Teruskan dengan Langkah Perlindungan)**
 
 **Rasional:**
-Rasional mekanistik dan berasaskan garis panduan untuk dapsone dalam pneumokistosis adalah kukuh dan mencerminkan amalan klinikal sedia ada, tetapi jurang data Blocking (amaran label TFDA/kontraindikasi, DG001) menghalang sebarang pemeriksaan keselamatan, dan pakej ini secara bebas mengindeks sifar ujian klinikal atau penerbitan untuk pasangan khusus.
+- Beberapa ujian rawak Fasa 3 yang telah selesai (melibatkan 290 hingga 700 peserta) serta meta-analisis rangkaian menyokong dapson untuk profilaksis dan rawatan PCP, terutamanya apabila TMP-SMX tidak sesuai. Bukti kukuh (L1), tetapi dapson biasanya ubat alternatif, bukan pilihan lini pertama, dan risiko keselamatan hematologi memerlukan kawalan.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Label produk TFDA (amaran/kontraindikasi) untuk menutup DG001 dan membuka kunci ulasan keselamatan S1
-- Dokumentasi mekanisme tindakan daripada DrugBank untuk menutup DG002
-- Butiran lesen Malaysia yang diisi (nama produk, bentuk dos, teks petunjuk yang diluluskan)
-- Carian literatur disasarkan untuk petikan garis panduan profilaksis PCP dapsone (CDC/NIH/IDSA) untuk mengesahkan penilaian bukti L2 dengan sumber utama
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisipan pakej dan amaran/kontraindikasi rasmi (data ini tidak diperoleh). Tiada produk dapson berdaftar di Malaysia menurut data NPRA yang dikumpulkan, jadi status pendaftaran dan sumber bekalan perlu dijelaskan.
+- Data mekanisme tindakan (MOA) yang disahkan daripada DrugBank.
+- Protokol saringan G6PD sebelum permulaan dan pemantauan methemoglobinemia, kiraan darah penuh dan fungsi hati semasa rawatan.
+- Penilaian risiko tindak balas silang pada pesakit dengan alahan sulfonamida, dan semakan interaksi ubat dengan senarai ubat pesakit.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -2,7 +2,7 @@
 layout: default
 title: Histidine
 parent: Low Evidence (L4-L5)
-nav_order: 382
+nav_order: 401
 evidence_level: L5
 indication_count: 2
 ---
@@ -29,89 +29,161 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Histidine: Daripada Suplemen Asid Amino kepada Gastroparesis Terprediksi
+# Histidine: Daripada Tiada Indikasi Berdaftar kepada Gastroparesis
 
 ## Ringkasan Satu Ayat
 
-Histidine ialah asid amino penting yang dipasarkan di Malaysia melalui 32 produk berdaftar, namun teks indikasi yang diluluskan khusus tidak ditangkap dalam set data ini. Model TxGNN meramalkan kemungkinan kaitan dengan **Gastroparesis**, tetapi ramalan ini pada masa kini mempunyai **tiada percubaan klinikal sokongan dan tiada petikan literatur** — ia adalah isyarat algoritma tulen tanpa pengesahan bebas.
+Histidine ialah asid amino yang juga merupakan prekursor histamin. Data yang dikumpulkan untuk laporan ini tidak mengandungi sebarang indikasi asal yang berdaftar di Malaysia.
+Model TxGNN meramalkan ia mungkin berkesan untuk **gastroparesis**, tetapi buat masa ini terdapat **0 percubaan klinikal** dan hanya **1 penerbitan** yang berkaitan secara longgar, jadi ramalan ini kekal sebagai hipotesis berasaskan model sahaja.
 
 ---
 
-## Gambaran Keseluruhan Ringkas
+## Gambaran Keseluruhan Pantas
 
-| Item | Kandungan |
+| Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tidak tersedia dalam data daftar (teks indikasi yang diluluskan tidak diekstrak untuk mana-mana 32 lesen Malaysia) |
-| Indikasi Baru Terprediksi | Gastroparesis (penyakit) |
+| Indikasi Asal | Tiada data indikasi berdaftar |
+| Indikasi Baharu yang Diramalkan | Gastroparesis |
 | Skor Ramalan TxGNN | 99.55% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 32 |
-| Keputusan yang Disyorkan | Tahan |
+| Status Pasaran Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan yang Disyorkan | Hold |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa kini, data mekanisme tindakan terperinci tidak tersedia untuk histidine dalam pak bukti ini. Berdasarkan biokimia yang diketahui, histidine ialah prekursor biosintesis histamin (melalui L-histidine decarboxylase), dan histamin bertindak pada reseptor H2 untuk mengawal motiliti otot licin gastrointestinal — memberikan kaitan teori tak langsung kepada pengosongan gastrik / gastroparesis.
+Data terperinci mengenai mekanisme tindakan histidine tidak tersedia pada masa ini. Histidine ialah asid amino yang diketahui sebagai prekursor histamin melalui enzim L-histidine decarboxylase, tetapi data yang dikumpulkan tidak menunjukkan sebarang mekanisme yang menghubungkan histidine dengan motiliti gastrik.
 
-Bagaimanapun, pautan ini adalah spekulatif dan bukannya terbukti: skor TxGNN (0.9955) ialah ramalan tulen berasaskan graf dengan **tiada percubaan klinikal sokongan, percubaan ICTRP, atau literatur PubMed** untuk pasangan histidine–gastroparesis. Tambahan pula, arah kesan netto histamin pada pengosongan gastrik tidak diselesaikan dalam literatur — beberapa laporan menerangkan kesan prokinetik, yang lain kesan perencat — jadi walaupun mekanisme yang dicadangkan tidak boleh ditandatangani dengan yakin sebagai bermanfaat.
+Satu-satunya penerbitan yang dipautkan (PMID 42668409) menerangkan patologi amiloid gastrik dan penyahsarafan mukosa dalam amiloidosis ATTRv. Kajian itu tidak menguji histidine dan tidak menunjukkan peranan mekanistik histidine dalam gastroparesis. Skor TxGNN yang sangat tinggi (0.9955) hanyalah ramalan pengiraan dan bukan bukti klinikal.
 
-Penting untuk diambil perhatian, indikasi TxGNN terprediksi kedua untuk ubat ini (sklerozing kolangitis, bukan fokus utama laporan ini) disokong oleh literatur praklinikal sebenar — tetapi literatur itu sebenarnya menunjukkan dalam arah **bertentangan**: ia menunjukkan bahawa *menghalang* isyarat histamin (bukan menambah prekursornya) mengurangkan kecederaan biliar dan fibrosis. Ini menimbulkan amaran yang lebih luas tentang bergantung pada penalaran laluan histidine→histamin sahaja sebagai asas untuk keputusan penggunaan semula.
+Oleh sebab itu, hubungan antara histidine dan gastroparesis tidak disokong oleh data yang ada.
 
 ---
 
 ## Bukti Percubaan Klinikal
 
-Pada masa kini tiada percubaan klinikal yang berkaitan berdaftar untuk pasangan histidine–gastroparesis (0 hit daripada ClinicalTrials.gov dan ICTRP).
+Buat masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
-Pada masa kini tiada literatur yang berkaitan tersedia untuk pasangan histidine–gastroparesis (0 hit daripada PubMed).
-
----
-
-## Nota Tambahan: Indikasi Terprediksi Kedua (Sklerozing Kolangitis)
-
-Pak bukti ini (ID calon berakhir dengan "-multi") juga membawa ramalan TxGNN kedua berperingkat lebih rendah yang perlu diperhatikan bersama dengan yang utama, kerana ia mempunyai literatur sokongan sebenar dan kaveat penting:
-
-| Item | Kandungan |
-|------|------|
-| Penyakit | Sklerozing kolangitis |
-| Skor TxGNN | 99.27% (pangkat 9734) |
-| Tahap Bukti | L4 (8 petikan PubMed, semua kajian praklinikal/mekanik atau kajian biomarker; tiada percubaan klinikal) |
-
-Pelbagai kajian binatang (PMIDs 27351144, 32054995, 35799467, 29601088) menunjukkan bahawa histamin yang dihasilkan oleh sel mast *mendorong* proliferasi biliar dan fibrosis dalam model kolangiitis sklerosis primer (PSC), dan bahawa **memblok** reseptor H1/H2 atau **knockout gen** histidine decarboxylase (enzim histidine→histamin) *mengurangkan* kerosakan biliar. Ini ialah isyarat arah yang bertentangan: bukti mekanik menyokong *menghalang* laluan histamin sebagai bermanfaat dalam PSC, bukan menambah prekursornya (histidine). Ini harus diperlakukan sebagai isyarat keselamatan yang mungkin dan bukannya peluang penggunaan semula, dan memerlukan tinjauan eksplisit sebelum sebarang penilaian lanjutan histidine dalam penyakit hepatobiliar.
-
----
-
-## Maklumat Pasaran Malaysia
-
-Histidine memegang 32 pendaftaran aktif di Malaysia di bawah status "Dipasarkan" (dipasarkan). Detail peringkat lesen (nombor kebenaran, nama produk, bentuk dos, teks indikasi yang diluluskan) tidak diisi dalam set data yang diekstrak untuk ubat ini, jadi jadual per-produk tidak boleh dipersembahkan tanpa mengada nilai.
+| PMID | Tahun | Jenis | Jurnal | Dapatan Utama |
+|------|-----|------|------|---------|
+| [42668409](https://pubmed.ncbi.nlm.nih.gov/42668409/) | 2026 | Kajian campuran (pesakit, tikus, patologi) | Amyloid | Menerangkan patologi amiloid gastrik dan penyahsarafan mukosa dalam amiloidosis ATTRv; tidak menguji histidine |
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan. (Tiada data amaran utama, kontraindikasi, atau interaksi ubat-ubat tersedia dalam pak bukti ini — bendera DG001 menandakan amaran/kontraindikasi label TFDA/NPRA sebagai jurang data Penyekat.)
+Data keselamatan daripada sisipan pakej tidak tersedia. Sila rujuk sisipan pakej untuk maklumat keselamatan.
+
+Sebagai maklumat tambahan, graf pengetahuan TxGNN (PrimeKG) mencatatkan kaitan penyakit yang berpotensi menjadi kontraindikasi (bukan teks label rasmi):
+
+- **Penyakit buah pinggang dan batu karang**: penyakit buah pinggang, penyakit buah pinggang kronik, kegagalan buah pinggang kronik, kegagalan buah pinggang peringkat akhir, nefrolitiasis, nefrokalsinosis, nefropati urat akut, piourether
+- **Gangguan kalsium dan fosforus**: hiperkalsemia, hiperkalsemia humoral akibat keganasan, sarkoidosis, gangguan metabolisme fosforus
+- **Penyakit kardiovaskular**: penyakit jantung, penyakit kardiovaskular, keracunan digitalis, fibrilasi ventrikel
+- **Gangguan metabolisme asid amino**: fenilketonuria, gangguan metabolisme fenilalanina
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
-**Alasan:**
-Indikasi terprediksi utama (gastroparesis) ialah tahap bukti L5 — skor model tanpa percubaan atau literatur sokongan sama sekali. Indikasi terprediksi sekunder (sklerozing kolangitis) mempunyai bukti mekanik L4, tetapi bukti itu menunjukkan terhadap, bukan ke arah, kebolehplausibilan biologi menambah histidine. Kedua-dua indikasi pada masa kini tidak memenuhi bar untuk maju melampaui S0.
+**Rasional:**
+- Ramalan ini hanya berasaskan model (tahap bukti L5), tanpa percubaan klinikal dan tanpa mekanisme yang disokong. Satu-satunya penerbitan yang dipautkan tidak berkaitan dengan histidine.
+- Histidine tidak dipasarkan di Malaysia dan tiada indikasi berdaftar sebagai rujukan.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Sisipan pakej TFDA/NPRA (amaran, kontraindikasi) — pada masa kini jurang data Penyekat (DG001)
-- Mekanisme tindakan yang disahkan untuk histidine — pada masa kini jurang Berisiko Tinggi (DG002)
-- Sebarang bukti dunia nyata atau praklinikal khusus untuk histidine (bukan hanya histamin hiliran) dalam gangguan motiliti gastrik
-- Penyelesaian percanggahan arah yang dilihat dalam literatur sklerozing kolangitis sebelum mempertimbangkan indikasi itu lebih lanjut
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) histidine
+- Sisipan pakej NPRA untuk amaran dan kontraindikasi
+- Bukti praklinikal atau klinikal yang menghubungkan histidine dengan motiliti gastrik
+- Penilaian keserasian laluan pentadbiran
 
+---
+
+# Histidine: Daripada Tiada Indikasi Berdaftar kepada Kolangitis Sklerosan
+
+## Ringkasan Satu Ayat
+
+Histidine ialah asid amino dan prekursor histamin tanpa indikasi berdaftar di Malaysia.
+Model TxGNN meramalkan ia mungkin berkesan untuk **kolangitis sklerosan**, tetapi hanya terdapat **0 percubaan klinikal** dan **8 penerbitan** (kebanyakannya praklinikal) yang sebenarnya mencadangkan bahawa isyarat histamin yang meningkat adalah **memudaratkan**.
+
+---
+
+## Gambaran Keseluruhan Pantas
+
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Tiada data indikasi berdaftar |
+| Indikasi Baharu yang Diramalkan | Kolangitis sklerosan |
+| Skor Ramalan TxGNN | 99.27% |
+| Tahap Bukti | L4 |
+| Status Pasaran Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan yang Disyorkan | Hold (soalan penyelidikan) |
+
+---
+
+## Mengapa Ramalan Ini Munasabah?
+
+Data terperinci mengenai mekanisme tindakan asal histidine tidak tersedia. Namun, histidine ialah prekursor histamin melalui L-histidine decarboxylase (HDC), dan kajian praklinikal mengaitkan histamin daripada sel mast dengan kolangitis sklerosan primer (PSC).
+
+Kajian tersebut menunjukkan bahawa:
+- Perencatan histamin daripada sel mast mengurangkan percambahan biliari dan fibrosis (PMID 27351144).
+- Isyarat cAMP/pERK melalui reseptor H2 mensasarkan kolangiosit besar (PMID 35799467).
+- Tikus tanpa HDC menunjukkan kerosakan biliari dan fibrosis yang lebih rendah (PMID 32054995).
+- Penyekatan reseptor H1/H2 mengurangkan kerosakan dan fibrosis pada tikus Mdr2-/- serta model kolangiokarsinoma manusia (PMID 29601088).
+
+Bukti ini menunjukkan bahawa peningkatan isyarat histamin adalah memudaratkan. Justeru, pemberian histidine (prekursor histamin) berkemungkinan **memburukkan** penyakit dan bukannya merawatnya. Hubungan ini tidak langsung dan berpotensi menjadi kontraindikasi, maka arah repurposing ini tidak disokong oleh bukti yang ada.
+
+---
+
+## Bukti Percubaan Klinikal
+
+Buat masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
+
+---
+
+## Bukti Literatur
+
+| PMID | Tahun | Jenis | Jurnal | Dapatan Utama |
+|------|-----|------|------|---------|
+| [27351144](https://pubmed.ncbi.nlm.nih.gov/27351144/) | 2016 | Praklinikal (haiwan dan in vitro) | Hepatology | Perencatan histamin daripada sel mast mengurangkan percambahan biliari dan fibrosis pada tikus PSC Mdr2-/- |
+| [35799467](https://pubmed.ncbi.nlm.nih.gov/35799467/) | 2022 | Praklinikal (haiwan dan in vitro) | Hepatology Communications | Sel mast mensasarkan kolangiosit besar melalui isyarat cAMP/pERK1/2 yang diperantarai H2HR |
+| [32054995](https://pubmed.ncbi.nlm.nih.gov/32054995/) | 2020 | Praklinikal (tikus knockout) | Laboratory Investigation | Ketiadaan HDC/isyarat histamin memperbaiki kerosakan biliari dan fibrosis hati |
+| [29601088](https://pubmed.ncbi.nlm.nih.gov/29601088/) | 2018 | Praklinikal (haiwan dan sel manusia) | Hepatology | Penyekatan reseptor H1/H2 merencat kerosakan/fibrosis dan tumorigenesis kolangiokarsinoma |
+| [30325540](https://pubmed.ncbi.nlm.nih.gov/30325540/) | 2019 | Kohort (biopenanda) | Hepatology | Metabolit serum sebagai biopenanda diagnostik kolangiokarsinoma, HCC dan PSC |
+| [8020893](https://pubmed.ncbi.nlm.nih.gov/8020893/) | 1994 | Ulasan | Hepatology | Genetik molekul penyakit hati autoimun dan kaitan HLA |
+| [23928409](https://pubmed.ncbi.nlm.nih.gov/23928409/) | 2013 | Kohort (biopenanda) | Journal of Hepatology | Profil microRNA dalam larutan pemeliharaan graf meramalkan lesi biliari jenis iskemia |
+| [19691661](https://pubmed.ncbi.nlm.nih.gov/19691661/) | 2010 | Kohort (retrospektif) | Transplant International | Insiden dan faktor risiko lesi biliari jenis iskemia selepas pemindahan hati |
+
+---
+
+## Pertimbangan Keselamatan
+
+Data keselamatan daripada sisipan pakej tidak tersedia. Sila rujuk sisipan pakej untuk maklumat keselamatan.
+
+Graf pengetahuan TxGNN (PrimeKG) mencatatkan kaitan kontraindikasi yang berpotensi untuk histidine, antaranya penyakit buah pinggang (termasuk kegagalan buah pinggang kronik dan peringkat akhir), nefrolitiasis, nefrokalsinosis, hiperkalsemia, sarkoidosis, penyakit jantung dan kardiovaskular, keracunan digitalis, fibrilasi ventrikel, serta fenilketonuria dan gangguan metabolisme fenilalanina. Ini bukan teks label rasmi.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Hold (soalan penyelidikan)**
+
+**Rasional:**
+- Bukti sedia ada hanyalah praklinikal dan menunjukkan bahawa isyarat histamin yang meningkat memudaratkan kolangitis sklerosan, jadi histidine sebagai prekursor histamin berpotensi memburukkan penyakit.
+- Tiada percubaan klinikal, dan histidine tidak dipasarkan di Malaysia.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) histidine
+- Kajian praklinikal yang menilai secara langsung kesan histidine terhadap fibrosis biliari dan paras histamin
+- Sisipan pakej NPRA untuk amaran dan kontraindikasi
+- Penilaian keserasian laluan pentadbiran
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

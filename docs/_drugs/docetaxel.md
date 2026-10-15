@@ -2,7 +2,7 @@
 layout: default
 title: Docetaxel
 parent: Low Evidence (L4-L5)
-nav_order: 292
+nav_order: 301
 evidence_level: L5
 indication_count: 5
 ---
@@ -29,141 +29,104 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Docetaxel: Dari Tumor Padat Ganda kepada Karsinoma Prostat Familial
+# Docetaxel: Daripada Kanser Paru-paru Bukan Sel Kecil kepada Karsinoma Prostat Familial
 
 ## Ringkasan Satu Ayat
 
-Docetaxel ialah agen sitotoksik kelas taksana yang diluluskan secara meluas untuk rawatan kanser payudara, kanser paru-paru sel bukan kecil, kanser prostat, kanser gastrik, dan kanser kepala dan leher. Model TxGNN meramalkan ia juga boleh berkesan untuk **Karsinoma Prostat Familial**, dengan **28 percubaan klinikal** dan **20 penerbitan** kini menyokong arahan ini. Terutama, docetaxel sudah menjadi standard-of-care dalam kanser prostat rintang kastrasi metastatik (mCRPC), dan ramalan ini memanjangkan potensinya kepada subtaip herediter/familial di mana kecacatan pembaikan DNA (cth. BRCA2) mungkin mempengaruhi sensitiviti taksana.
+Docetaxel ialah ubat kemoterapi kelas taksan yang pada asalnya digunakan untuk kanser paru-paru bukan sel kecil, kanser payudara, kanser gastrik, kanser kepala dan leher serta kanser prostat.
+Model TxGNN meramalkan ia mungkin berkesan untuk **karsinoma prostat familial** (kanser prostat dengan latar belakang keluarga).
+Setakat ini **tiada ujian klinikal** didaftarkan khusus untuk subjenis ini, dan terdapat **20 penerbitan** yang berkaitan, kebanyakannya tentang kanser prostat secara amnya.
 
-## Gambaran Pantas
+---
 
-| Item | Kandungan |
-|------|----------|
-| Petunjuk Asal | Kanser payudara, NSCLC, kanser prostat (mCRPC), kanser gastrik, kanser kepala dan leher (butiran pendaftaran belum selesai) |
-| Petunjuk Baru Ramalan | Karsinoma Prostat Familial |
-| Skor Ramalan TxGNN | 0.00% (data skor menunggu penyelaian semula) |
-| Tahap Bukti | L1 (≥2 uji kaji fase 3 RCT yang selesai) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 10 |
-| Keputusan Disyorkan | Teruskan dengan Penjagaan |
+## Gambaran Ringkas
+
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Kanser paru-paru bukan sel kecil, kanser prostat, kanser kepala dan leher, kanser gastrik, kanser payudara (berdasarkan graf pengetahuan TxGNN; tiada teks indikasi berlesen tempatan) |
+| Indikasi Baharu yang Diramalkan | Karsinoma prostat familial |
+| Skor Ramalan TxGNN | 0.00% (nilai skor dalam data ialah 0.0, jadi skor ini tidak boleh dijadikan asas keyakinan) |
+| Tahap Bukti | L3 (kajian kohort, ulasan dan satu ujian Fasa 2 satu lengan; tiada RCT khusus untuk subjenis familial) |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Docetaxel tergolong dalam keluarga taksana dan berfungsi dengan menstabilkan mikrotubul, dengan itu menghalang pembongkaran mereka dan menahan sel dalam fasa G2/M kitaran sel. Mekanisme ini sangat berkesan terhadap sel kanser yang berkembang biak dengan pantas. Docetaxel telah menjadi titik teras rawatan kanser prostat sejak uji kaji TAX 327 yang mercu penting membuktikan manfaat kemandulan dalam kanser prostat rintang kastrasi metastatik, dan uji kaji CHAARTED (NCT00309985) terus menetapkan perannya dalam penyakit metastatik yang peka hormon.
+Butiran mekanisme tindakan asal tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat yang diketahui, docetaxel ialah taksan yang menstabilkan mikrotubul. Kesannya ialah sel terhenti dalam mitosis dan mati. Kajian dalam literatur juga mencadangkan gangguan terhadap pengangkutan reseptor androgen ke dalam nukleus. Keberkesanannya dalam kanser prostat rintang kastrasi metastatik sudah mantap, dan secara mekanistik ia boleh digunakan untuk kanser prostat secara amnya.
 
-Karsinoma prostat familial sering mengandungi mutasi germline dalam gen pembaikan DNA seperti BRCA2, ATM, dan CHEK2. Kecacatan pembaikan DNA ini mungkin secara paradoks menjadikan sel tumor lebih bergantung kepada mesin mitotik yang utuh untuk kemandulan, kemungkinan mengekalkan atau bahkan meningkatkan sensitiviti kepada agen menstabilkan mikrotubul seperti docetaxel. Nisbah penyusunan semula yang disediakan dalam pak bukti mengesahkan hubungan mekanis yang kuat, menyatakan bahawa sementara mekanisme anti-mitotik teras tetap sama, pesakit kanser prostat familial dengan kecacatan pembaikan DNA mungkin mempamerkan corak sensitiviti taksana yang berbeza.
+Perlu diperhatikan bahawa kanser prostat sudah tersenarai antara indikasi asal docetaxel. Karsinoma prostat familial ialah subjenis kanser prostat, jadi ini bukan penggunaan semula yang benar-benar baharu. Soalan sebenar ialah sama ada status familial atau keturunan mengubah tindak balas terhadap rawatan, dan data yang ada belum menjawabnya.
 
-Tambahan pula, docetaxel sudah disepadukan ke dalam pelbagai barisan rawatan kanser prostat — sebagai kemoterapi barisan pertama untuk mCRPC, dalam kombinasi dengan terapi penindasan androgen (ADT) untuk penyakit peka hormon, dan sebagai tulang belakang di mana agen lebih baru (enzalutamid, abirateron, kabazitaksel) berurutan. Pelanjutan untuk menangani secara khusus subtaip familial/herediter mewakili penyempurnaan amalan klinikal sedia ada daripada aplikasi yang sepenuhnya novel.
-
----
-
-## Bukti Percubaan Klinikal
-
-| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|--------|---------|---------|
-| [NCT00309985](https://clinicaltrials.gov/study/NCT00309985) | Fasa 3 | Selesai | 790 | **Uji kaji CHAARTED**: ADT ± docetaxel dalam kanser prostat metastatik peka hormon. Kajian mercu penting yang menetapkan manfaat docetaxel awal dalam penyakit metastatik bervolum tinggi. |
-| [NCT01308567](https://clinicaltrials.gov/study/NCT01308567) | Fasa 3 | Selesai | 1,168 | Kabazitaksel (25 mg/m² dan 20 mg/m²) vs docetaxel dalam mCRPC barisan pertama. Docetaxel berkhidmat sebagai cabang pembanding standard, mengesahkan keberkesan yang ditetapkan. |
-| [NCT00974311](https://clinicaltrials.gov/study/NCT00974311) | Fasa 3 | Selesai | 1,199 | **Uji kaji AFFIRM**: Enzalutamid vs plasebo dalam mCRPC pasca-docetaxel. Mengesahkan docetaxel sebagai kemoterapi standard barisan pertama di mana strategi penjujukan dibina. |
-| [NCT01308580](https://clinicaltrials.gov/study/NCT01308580) | Fasa 3 | Selesai | 1,200 | Kabazitaksel 20 mg/m² vs 25 mg/m² selepas kegagalan docetaxel dalam mCRPC. Mengesahkan docetaxel sebagai standard barisan pertama yang ditetapkan. |
-| [NCT00514917](https://clinicaltrials.gov/study/NCT00514917) | Fasa 3 | Ditamatkan | 413 | ADT dengan leuprolida ± docetaxel untuk PSA yang meningkat selepas terapi tempatan. Menilai penggunaan docetaxel awal dalam kanser prostat berulang biokimia. |
-| [NCT00676650](https://clinicaltrials.gov/study/NCT00676650) | Fasa 3 | Ditamatkan | 873 | Sunitinib + prednison vs prednison pasca-docetaxel dalam mCRPC. Docetaxel sebagai standard barisan pertama; data berskala besar tentang penyakit pasca-docetaxel. |
-| [NCT01957436](https://clinicaltrials.gov/study/NCT01957436) | Fasa 3 | Aktif | 1,173 | ADT ± docetaxel ± radioterapi ± abirateron dalam kanser prostat metastatik peka hormon. Reka bentuk multifaktorial menilai kombinasi docetaxel. |
-| [NCT02288247](https://clinicaltrials.gov/study/NCT02288247) | Fasa 3 | Selesai | 688 | Meneruskan enzalutamid semasa docetaxel + prednison dalam mCRPC naïf kemoterapi selepas kemajuan enzalutamid. |
-| [NCT04028388](https://clinicaltrials.gov/study/NCT04028388) | Fasa 2b | Selesai | 135 | Formulasi docetaxel oral (ModraDoc006/r) dalam mCRPC. Menyokong secara langsung peranan docetaxel yang berterusan dengan formulasi novel. |
-| [NCT02485691](https://clinicaltrials.gov/study/NCT02485691) | Fasa 4 | Selesai | 255 | **Uji kaji CARD**: Kabazitaksel vs agen sasaran AR dalam mCRPC yang telah dirawat sebelum dengan docetaxel. Mengesahkan strategi penjujukan pasca-docetaxel. |
+Literatur yang ada tidak mengkaji populasi familial atau keturunan. Satu laporan kes berkaitan BRCA2 melibatkan kanser pankreas, bukan kanser prostat. Mekanisme rintangan seperti kehilangan SLCO1B3, ekspresi berlebihan SLC6A1 dan mikroRNA beredar telah diterangkan, tetapi kesemuanya dalam kanser prostat umum.
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Ujian Klinikal
+
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan untuk karsinoma prostat familial.
+
+---
+
+## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|------|------|--------|---------|
-| [26041764](https://pubmed.ncbi.nlm.nih.gov/26041764/) | 2015 | Garis Panduan Konsensus | Ann Oncol | St Gallen APCCC 2015: Konsensus pakar tentang pengurusan kanser prostat lanjut, termasuk penjujukan docetaxel dan strategi kombinasi. |
-| [34649352](https://pubmed.ncbi.nlm.nih.gov/34649352/) | 2021 | Uji Kaji Klinikal Fasa 2 | Biomed Pharmacother | Docetaxel + likopen dalam mCRPC; data tindak balas PSA median dan kemandulan dalam pesakit naïf kemoterapi (n=13). |
-| [24714754](https://pubmed.ncbi.nlm.nih.gov/24714754/) | 2014 | Kajian Biopenanda | Br J Cancer | MicroRNA yang beredar dikaitkan dengan hasil kemoterapi docetaxel dalam CRPC; potensi untuk ramalan tindak balas awal. |
-| [27537383](https://pubmed.ncbi.nlm.nih.gov/27537383/) | 2016 | Penyelidikan Translasi | Br J Cancer | Kehilangan SLCO1B3 mendorong rintangan taksana dalam kanser prostat; wawasan mekanis ke rintangan docetaxel dan kabazitaksel dalam mCRPC. |
-| [32252682](https://pubmed.ncbi.nlm.nih.gov/32252682/) | 2020 | Penyelidikan Translasi | BMC Cancer | Pelebihan SLC6A1 dikaitkan dengan rintangan docetaxel dan prognosis buruk dalam kanser prostat. |
-| [22112969](https://pubmed.ncbi.nlm.nih.gov/22112969/) | 2012 | RCT Fasa 2 | Ann Oncol | Docetaxel + prednison ± AT-101 (perencat Bcl-2) dalam mCRPC barisan pertama; reka bentuk plasebo-terkawal buta berganda rawak. |
-| [23973186](https://pubmed.ncbi.nlm.nih.gov/23973186/) | 2013 | Analisis KoH Fasa 3 | Eur J Cancer | Kesan abirateron pada KoH pasca-docetaxel dalam mCRPC; hasil KoH FACT-P yang disahkan dari COU-AA-301. |
-| [27402060](https://pubmed.ncbi.nlm.nih.gov/27402060/) | 2017 | Analisis Post Hoc | Eur Urol | Corak rawatan pasca-abirateron dalam COU-AA-302; docetaxel sebagai kemoterapi berikutnya dalam penjujukan mCRPC. |
-| [23832735](https://pubmed.ncbi.nlm.nih.gov/23832735/) | 2013 | Ulasan | Eur Rev Med Pharmacol Sci | Kemoterapi berasaskan taksana dan epotilona untuk CRPC; mekanisme rintangan ubat dan strategi terapi kombo. |
-| [34425813](https://pubmed.ncbi.nlm.nih.gov/34425813/) | 2021 | Laporan Kes | BMC Urol | Mutasi germline BRCA2 dalam kanser prostat peka kepada kemoterapi platinum; relevan kepada genomik kanser prostat familial. |
-
----
-
-## Maklumat Pasaran Malaysia
-
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjuk Diluluskan |
-|---------|------|------|----------|
-| (Butiran pendaftaran belum selesai) | — | — | — |
-| (Butiran pendaftaran belum selesai) | — | — | — |
-| (Butiran pendaftaran belum selesai) | — | — | — |
-| (Butiran pendaftaran belum selesai) | — | — | — |
-| (Butiran pendaftaran belum selesai) | — | — | — |
-
-> **Catatan:** 10 pendaftaran produk direkodkan dengan status dipasarkan di Malaysia. Butiran nombor kebenaran, nama produk, bentuk dos, dan teks petunjuk yang diluluskan menunggu pemulihan daripada pangkalan data NPRA.
-
----
-
-## Sitotoksisiti
-
-| Item | Kandungan |
-|------|----------|
-| Klasifikasi Sitotoksisiti | Sitotoksik konvensional (kelas Taksana — agen menstabilkan mikrotubul) |
-| Risiko Supresi Sumsum Tulang | **Tinggi** — Neutropenia ialah toksisiti yang mengehadkan dos; neutropenia demam terjadi dalam lebih kurang 3–12% pesakit. Trombositopenia dan anemia juga dilaporkan. |
-| Klasifikasi Emetogenisiti | Rendah hingga sederhana |
-| Item Pemantauan | CBC dengan pembezaan (sebelum setiap kitaran), ujian fungsi hati (AST/ALT/bilirubin — kontraindikasi jika bilirubin > ULN), fungsi ginjal, penilaian neuropati perifer, pemantauan retensi cecair |
-| Perlindungan Pengendalian | Mesti mematuhi peraturan pengendalian ubat sitotoksik; peranti pemindahan ubat sistem tertutup disyorkan; gaun pelindung, sarung tangan berganda, dan kabinet keselamatan biologi diperlukan semasa persediaan |
+|------|-----|------|------|---------|
+| [22112969](https://pubmed.ncbi.nlm.nih.gov/22112969/) | 2012 | RCT Fasa 2 | Annals of Oncology | Docetaxel + prednison dengan plasebo atau AT-101 (perencat Bcl-2 oral) sebagai terapi barisan pertama mCRPC; uji rawak, buta-ganda |
+| [34649352](https://pubmed.ncbi.nlm.nih.gov/34649352/) | 2021 | Ujian Fasa 2 | Biomed Pharmacother | Docetaxel 75 mg/m² setiap 21 hari + likopen 30 mg setiap hari pada mCRPC; 13 pesakit; titik akhir utama ialah penurunan PSA ≥50% |
+| [24714754](https://pubmed.ncbi.nlm.nih.gov/24714754/) | 2014 | Kohort | Br J Cancer | MikroRNA beredar dikaji sebagai penanda awal tindak balas terhadap docetaxel dalam CRPC |
+| [27402060](https://pubmed.ncbi.nlm.nih.gov/27402060/) | 2017 | Kohort (analisis post hoc) | Eur Urol | Corak kemoterapi susulan selepas abiraterone asetat dalam mCRPC (COU-AA-302) |
+| [23832735](https://pubmed.ncbi.nlm.nih.gov/23832735/) | 2013 | Ulasan | Eur Rev Med Pharmacol Sci | Kemoterapi berasaskan taksan dan epotilon dalam pengurusan CRPC |
+| [23199349](https://pubmed.ncbi.nlm.nih.gov/23199349/) | 2013 | Ulasan | Expert Opin Pharmacother | Abiraterone asetat untuk kanser prostat; konteks rawatan CRPC |
+| [27537383](https://pubmed.ncbi.nlm.nih.gov/27537383/) | 2016 | Praklinikal | Br J Cancer | Kehilangan SLCO1B3 mendorong rintangan terhadap taksan (docetaxel dan cabazitaxel) |
+| [32252682](https://pubmed.ncbi.nlm.nih.gov/32252682/) | 2020 | Praklinikal | BMC Cancer | Ekspresi berlebihan SLC6A1 dikaitkan dengan rintangan docetaxel dan prognosis buruk |
+| [28235398](https://pubmed.ncbi.nlm.nih.gov/28235398/) | 2017 | Praklinikal | BMC Cancer | Gen TSPYL5: ekspresi, metilasi dan implikasi terhadap kepekaan ubat dalam karsinoma prostat |
+| [15332713](https://pubmed.ncbi.nlm.nih.gov/15332713/) | 2004 | Praklinikal | J Chemother | Kesan paclitaxel dan docetaxel terhadap sel karsinoma yang mengekspres EGFR dalam keadaan normoksia dan hipoksia |
 
 ---
 
 ## Pertimbangan Keselamatan
 
-> Sila rujuk sisipan paket untuk maklumat keselamatan. Butiran amaran, kontraindikasi, dan data interaksi ubat menunggu pemulihan daripada pangkalan data sisipan produk NPRA.
+Data label produk tidak tersedia. Maklumat di bawah datang daripada graf pengetahuan TxGNN dan pangkalan data interaksi ubat, bukan daripada teks sisipan pakej.
 
-**Isyarat keselamatan tahap kelas yang diketahui untuk docetaxel (untuk rujukan klinikal):**
-- **Kerosakan hati**: Docetaxel dikontraindikasikan dalam pesakit dengan kerosakan hati yang teruk (bilirubin > ULN); ubahsuai dos diperlukan untuk kerosakan hati ringan hingga sederhana
-- **Hipersensitiviti**: Tindak balas hipersensitiviti yang teruk dilaporkan; premedicasi dengan kortikosteroid adalah standard
-- **Retensi cecair**: Kumulatif; boleh menjadi teruk tanpa premedicasi deksametason
-- **Neuropati perifer**: Bergantung pada dos; mungkin tidak boleh diterbalikkan
+- **Penyakit yang dikaitkan dengan kontraindikasi (graf pengetahuan):** penyakit hati, penyakit pundi hempedu, trombositopenia, neutropenia, agranulositosis, penyakit sistem saraf periferi, neuropati periferi, anemia (termasuk anemia makrositik), hiperbilirubinemia (termasuk hiperbilirubinemia keturunan dan sindrom Gilbert), penyakit diarea, edema pulmonari, stomatitis, neuritis (termasuk neuritis saraf motor dan neuropati periferi motor), tamponad jantung.
+- **Interaksi ubat:** terdapat 100 interaksi direkodkan. Antara yang disenaraikan:
+  - **Major:** clarithromycin.
+  - **Sederhana:** aprepitant, metronidazole, cimetidine, eliglustat, miconazole, rolapitant, rosuvastatin, simvastatin, tinidazole, troglitazone.
+  - **Minor:** dexamethasone, levofloxacin, prednisolone, prednisone.
+  - **Tidak diketahui:** calcitriol, clotrimazole, mannitol, chlorhexidine, asid asetilsalisilik.
+
+Sila rujuk sisipan pakej untuk amaran dan kontraindikasi rasmi.
 
 ---
 
-## Petunjuk Ramalan Tambahan
+## Sitotoksisiti
 
-Model TxGNN juga meramalkan docetaxel mungkin berkesan untuk petunjuk berikut:
-
-| Pangkat | Penyakit | Tahap Bukti | Percubaan Klinikal | Kesusasteraan | Cadangan |
-|--------|---------|----------|-----------------|-------------|---------|
-| 2 | Kanser Paru-paru | L1 | 50 | 0* | Teruskan dengan Penjagaan |
-| 3 | Kanser Kepala dan Leher | L1 | 50 | 20 | Teruskan dengan Penjagaan |
-| 4 | Karsinoma Paru-paru Sel Bukan Kecil | L1 | 50 | 20 | Teruskan dengan Penjagaan |
-| 5 | Neoplasma Traktus Aeridigestif Atas | L2 | 1 | 20 | Teruskan dengan Penjagaan |
-
-> *Catatan: Kanser paru-paru dan NSCLC (pangkat 2 dan 4) menunjukkan pertindihan yang besar dalam bukti percubaan klinikal. Docetaxel sudah merupakan standard-of-care yang diluluskan untuk NSCLC dalam kedua-dua tetapan barisan pertama (dengan platinum) dan barisan kedua (monoterapi), disokong oleh ujian kaji mercu penting seperti TAX 326. Kanser kepala dan leher (pangkat 3) sama-sama sudah mantap melalui uji kaji TAX 323 dan TAX 324 yang menunjukkan keunggulan TPF berbanding PF dalam kemoterapi induksi.
+| Perkara | Kandungan |
+|------|------|
+| Klasifikasi Sitotoksisiti | Sitotoksik konvensional (kelas taksan; penstabil mikrotubul) |
+| Risiko Penekanan Sumsum Tulang | Tinggi (neutropenia ialah toksisiti yang mengehadkan dos; neutropenia dan trombositopenia juga tersenarai dalam kontraindikasi graf pengetahuan) |
+| Klasifikasi Emetogenisiti | Rendah hingga sederhana |
+| Item Pemantauan | Kiraan darah lengkap (CBC dengan pembezaan), fungsi hati dan bilirubin, fungsi buah pinggang, gejala neuropati periferi, retensi cecair, tindak balas hipersensitiviti |
+| Perlindungan Pengendalian | Perlu mengikut garis panduan pengendalian ubat sitotoksik |
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Teruskan dengan Penjagaan**
+**Keputusan: Hold**
 
 **Justifikasi:**
-Docetaxel sudah menjadi standard-of-care yang terbukti dalam kanser prostat rintang kastrasi metastatik, dan pelanjutan kepada karsinoma prostat familial disokong oleh bukti tahap L1 (berbilang uji kaji fase 3 RCT yang selesai termasuk CHAARTED dan AFFIRM). Subtaip familial, sering dicirikan oleh kecacatan pembaikan DNA germline (BRCA2, ATM), mungkin mempamerkan tindak balas rawatan yang berbeza yang menjustifikasi penilaian disesuaikan. Hubungan mekanis adalah kuat, dan infrastruktur klinikal untuk penggunaan docetaxel dalam kanser prostat sudah mantap.
+- Tiada ujian klinikal dan tiada literatur yang menyasarkan populasi familial atau keturunan. Bukti sedia ada datang daripada kanser prostat umum, dengan hanya satu ujian Fasa 2 kecil (13 pesakit) dan satu RCT Fasa 2 yang keputusannya tidak dilaporkan dalam abstrak.
+- Docetaxel tidak dipasarkan di Malaysia dan data keselamatan label tidak tersedia. Skor TxGNN sebanyak 0.0 juga tidak menyokong keyakinan tambahan.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- **Data mekanisme tindakan terperinci (MOA)** dari DrugBank untuk melengkapkan profil farmakoloji
-- **Pemulihan sisipan produk NPRA** untuk mengisi amaran keselamatan, kontraindikasi, dan teks petunjuk yang diluluskan untuk produk berdaftar Malaysia
-- **Analisis stratifikasi genomik** — penilaian sama ada pesakit kanser prostat familial dengan mutasi germline khusus (BRCA2, ATM, CHEK2) menunjukkan tindak balas berbeza kepada docetaxel berbanding mCRPC sporadik
-- **Pelan pemantauan keselamatan** untuk populasi khusus, terutama pesakit dengan penggunaan perencat PARP serentak (lazim dalam kanser prostat BRCA2+)
-- **Pengumpulan bukti dunia sebenar** dari pusat onkologi Malaysia tentang corak penggunaan docetaxel dalam pesakit kanser prostat herediter
-
----
-
-*Penafian: Laporan ini adalah untuk rujukan penyelidikan sahaja dan tidak membentuk nasihat perubatan. Calon penyusunan semula ubat memerlukan pengesahan klinikal sebelum aplikasi klinikal.*
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Muat turun dan huraikan sisipan pakej NPRA bagi amaran dan kontraindikasi.
+- Lengkapkan data mekanisme tindakan (MOA) daripada DrugBank.
+- Sahkan status pendaftaran dan pemasaran di Malaysia, kerana status "tidak dipasarkan" untuk ubat yang mantap ini mungkin masalah kualiti data.
+- Cari atau jalankan kajian yang membandingkan tindak balas docetaxel dalam kanser prostat familial atau berkaitan BRCA dengan kanser prostat sporadik.
+- Rancang strategi pemantauan keselamatan untuk pesakit berisiko (penyakit hati, neutropenia, neuropati periferi).
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

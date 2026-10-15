@@ -2,7 +2,7 @@
 layout: default
 title: Levetiracetam
 parent: Low Evidence (L4-L5)
-nav_order: 434
+nav_order: 454
 evidence_level: L4
 indication_count: 10
 ---
@@ -29,103 +29,98 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Levetiracetam: Dari Epilepsi Kepada Visual Epilepsi
+# Levetiracetam: Daripada Ubat Antisawan kepada Epilepsi Visual
 
 ## Ringkasan Satu Ayat
 
-Levetiracetam adalah ubat anti-kejang generasi kedua yang telah ditubuhkan, yang telah diluluskan untuk spektrum luas sindrom epilepsi (kejang permulaan separa, kejang miokloni dalam epilepsi miokloni remaja, dan kejang tonik-klonik tergeneralisasi primer). Model TxGNN meramalkan ia mungkin juga berkesan untuk **Visual Epilepsi** (fenotip epilepsi reflek/fotosensitif), dengan **9 percubaan klinikal** dan **20 penerbitan** yang diambil — walaupun, seperti yang dijelaskan di bawah, kebanyakan bukti ini menangani pengurusan kejang secara meluas dan bukannya visual epilepsi secara khusus.
+Levetiracetam ialah ubat antisawan (antiepileptik) generasi kedua, tetapi data pendaftaran NPRA yang disusun untuk laporan ini tidak mengandungi indikasi asal.
+Model TxGNN meramalkan ia mungkin berkesan untuk **epilepsi visual (visual epilepsy)**.
+Ramalan ini disokong oleh **0 ujian klinikal** dan **20 penerbitan**, dan tiada satu pun penerbitan itu khusus tentang epilepsi visual atau fotosensitif.
 
 ---
 
-## Gambaran Umum Cepat
+## Gambaran Ringkas
 
-| Item | Kandungan |
+| Perkara | Kandungan |
 |------|------|
-| Petunjuk Asal | Epilepsi — kejang permulaan separa (adjuvan/monoterapi), kejang miokloni dalam JME, dan kejang tonik-klonik tergeneralisasi primer (menurut bukti literatur dalam paket ini; teks petunjuk lesen NPRA tidak dikembalikan dalam pengambilan data ini — semua 5 rekod lesen mempunyai medan `approved_indication_text` kosong) |
-| Petunjuk Baru Diramalkan | Visual Epilepsi |
+| Indikasi Asal | Tiada dalam data pendaftaran NPRA yang disusun (kesusasteraan menggambarkan levetiracetam sebagai ubat antisawan untuk sawan separa dan epilepsi am) |
+| Indikasi Baharu Diramalkan | Epilepsi visual (visual epilepsy) |
 | Skor Ramalan TxGNN | 99.98% |
 | Tahap Bukti | L4 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 44 |
-| Keputusan Disyorkan | Tahan |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (Tahan) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data struktur mekanisme tindakan untuk ubat ini ditandai sebagai jurang data (DG002, keterukan Tinggi) dalam paket bukti. Walau bagaimanapun, literatur yang diambil dalam paket yang sama ini menunjukkan Levetiracetam mengikat glikoprotein vesikel sinapsis 2A (SV2A) dan menyesuaikan pelepasan neurotransmiter pra-sinapsis, satu tindakan yang dipercayai dapat melembapkan pembakaran kortikal yang tidak normal dan tersinkron yang mendasari penjanaan kejang (PMID 34903423, PMID 21936590). Mekanisme yang dimediasi SV2A ini dianggap spektrum luas, bertindak merentasi jenis kejang fokus, tergeneralisasi, dan reflek daripada terbatas kepada fenotip epilepsi tunggal.
+Data terperinci tentang mekanisme tindakan tidak terdapat dalam data yang disusun. Berdasarkan kesusasteraan yang diperoleh, levetiracetam mengikat protein vesikel sinaptik SV2A dan mengubah suai pelepasan neurotransmitter. Ini boleh mengurangkan keterujaan berlebihan korteks otak.
 
-Petunjuk asal Levetiracetam merangkumi pelbagai fenotip kejang — kejang permulaan separa, kejang miokloni dalam epilepsi miokloni remaja, dan kejang tonik-klonik tergeneralisasi primer (PMID 21936590). Visual epilepsi (epilepsi reflek yang dicetuskan oleh rangsangan visual, berkait rapat dengan epilepsi fotosensitif) terletak dalam spektrum epilepsi yang lebih luas yang sama dan dianggap berkongsi mekanisme hipereksitabiliti kortikal asas yang Levetiracetam sudah sasarkan, yang merupakan kemungkinan asas bagi skor ramalan model TxGNN yang hampir 100%.
+Epilepsi visual ialah sejenis sawan refleks yang dicetuskan oleh rangsangan visual. Mekanisme antisawan levetiracetam yang luas secara teorinya sesuai untuk keadaan ini.
 
-Walau bagaimanapun, bacaan teliti bukti yang diambil menunjukkan jurang antara ramalan dan pengesahan khusus penyakit: 9 percubaan klinikal dan 20 penerbitan yang dikembalikan untuk calon ini sebahagian besarnya menangani profil kejang dalam kecederaan otak trauma, perdarahan intraserebral, kejang neonatal, status epileptikus, dan migrain — tiada yang khusus mendaftarkan atau mengkaji pesakit dengan visual/epilepsi fotosensitif sebagai keadaan sasaran. Sebaliknya, fenotip epilepsi reflek yang berkaitan yang dinilai di tempat lain dalam paket bukti ini (contohnya, epilepsi membaca, epilepsi kejutan) memang mempunyai bukti klinikal langsung untuk Levetiracetam atau analog seletracetam. Ini mencadangkan kebolehgunaan kelas ubat yang munasabah tetapi belum lagi asas bukti khusus penyakit untuk "visual epilepsi" itu sendiri — tercermin dalam medan pemarkahan bukti calon sendiri ditandakan "sedang ditangguhkan" dan bukannya diberikan dalam data sumber.
-
----
-
-## Bukti Percubaan Klinikal
-
-| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT04573803](https://clinicaltrials.gov/study/NCT04573803) | Fasa 3 | Belum mula merekrut | 1649 | Percubaan MAST — menentukan tempoh optimal dan pilihan (fenitoin vs. levetiracetam) ubat anti-epilepsi untuk pencegahan kejang selepas kecederaan otak trauma |
-| [NCT00855738](https://clinicaltrials.gov/study/NCT00855738) | Fasa 4 | Selesai | 111 | Kajian Liceo — keberkesanan pemerhatian ubat AED baru (termasuk levetiracetam) sebagai terapi dwi pilihan pertama dalam epilepsi fokus |
-| [NCT07336992](https://clinicaltrials.gov/study/NCT07336992) | Fasa 3 | Belum mula merekrut | 580 | RCT levetiracetam profilaktik untuk meningkatkan hasil fungsian dalam perdarahan intraserebral akut |
-| [NCT03107507](https://clinicaltrials.gov/study/NCT03107507) | Fasa 4 | Tidak diketahui | 40 | Keberkesanan levetiracetam dalam kawalan kejang neonatal |
-| [NCT04833907](https://clinicaltrials.gov/study/NCT04833907) | Fasa 1/2 | Merekrut atas undangan | 24 | Kajian terapi gen AVASPA untuk penyakit Canavan; levetiracetam bukan ubat kajian utama — keanggunaan kepada visual epilepsi tidak jelas |
-| [NCT00105040](https://clinicaltrials.gov/study/NCT00105040) | Fasa 2 | Selesai | 87 | Keselamatan kognitif/neuropsikologi levetiracetam sebagai terapi tambahan dalam kanak-kanak dengan kejang permulaan separa refraktori |
-| [NCT04559529](https://clinicaltrials.gov/study/NCT04559529) | Fasa 2 | Selesai | 62 | Kesan Levetiracetam terhadap hiperoksitabiliti hipokampal dalam pesakit dengan gangguan psikotik (kajian fMRI) |
-| [NCT04277936](https://clinicaltrials.gov/study/NCT04277936) | Fasa 2 | Ditamatkan | 1 | Rekaan kajian hiperoksitabiliti hipokampal/psikosis yang sama, ditamatkan awal (pendaftaran n=1) |
-| [NCT00203216](https://clinicaltrials.gov/study/NCT00203216) | T/A | Selesai | 31 | Percubaan terbuka levetiracetam untuk rawatan profilaktik migrain, dengan atau tanpa aura (visual) |
-
-*Nota: tiada satu pun percubaan di atas khusus mendaftarkan atau menilai pesakit dengan visual/epilepsi fotosensitif; ia dikembalikan melalui istilah carian ubat yang luas + berkaitan kejang.*
+Namun, kesusasteraan yang diperoleh hanya merangkumi jenis sawan umum: sawan neonatal, sawan selepas strok, pencegahan dalam rawatan rapi neurologi dan status epileptikus. **Tiada satu pun khusus untuk epilepsi visual atau fotosensitif.** Sokongan ini tidak langsung, bergantung pada aktiviti antisawan levetiracetam yang luas.
 
 ---
 
-## Bukti Literatur
+## Bukti Ujian Klinikal
+
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan untuk indikasi ini.
+
+---
+
+## Bukti Kesusasteraan
+
+Jadual ini menyenaraikan penerbitan yang paling relevan secara umum. Ia berkaitan sawan secara amnya, bukan epilepsi visual secara khusus.
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [35963261](https://pubmed.ncbi.nlm.nih.gov/35963261/) | 2022 | RCT (Fasa 3, PEACH) | The Lancet Neurology | Levetiracetam profilaktik tidak jelas mengurangkan risiko kejang akut selepas perdarahan intraserebral dalam percubaan terkawal plasebo ini |
-| [32385134](https://pubmed.ncbi.nlm.nih.gov/32385134/) | 2020 | RCT | Pediatrics | Levetiracetam vs. fenobarbital untuk kejang neonatal; keberkesanan dan keselamatan dibandingkan kepala-ke-kepala |
-| [34286461](https://pubmed.ncbi.nlm.nih.gov/34286461/) | 2022 | Ulasan sistemik/meta-analisis | Neurocritical Care | Levetiracetam untuk profil kejang dalam ICH, TBI, pembedahan saraf, dan SAH; keberkesanan dan dos optimal tetap tidak jelas |
-| [38316735](https://pubmed.ncbi.nlm.nih.gov/38316735/) | 2024 | Garis panduan amalan klinikal | Neurocritical Care | Garis panduan mengenai profil kejang dalam dewasa yang dirawat di hospital dengan TBI sederhana-teruk |
-| [37378757](https://pubmed.ncbi.nlm.nih.gov/37378757/) | 2023 | Ulasan sistemik/meta-analisis rangkaian | Journal of Neurology | Keberkesanan relatif/keselamatan ubat anti-seizure, termasuk levetiracetam, untuk epilepsi tergeneralisasi idiopatik |
-| [40450767](https://pubmed.ncbi.nlm.nih.gov/40450767/) | 2025 | Ulasan sistemik/meta-analisis | Epilepsy & Behavior | Levetiracetam untuk kejang miokloni dalam epilepsi tergeneralisasi idiopatik, termasuk epilepsi miokloni remaja |
-| [35538830](https://pubmed.ncbi.nlm.nih.gov/35538830/) | 2023 | Meta-analisis | CNS & Neurological Disorders Drug Targets | Keselamatan/keberkesanan levetiracetam vs. fenitoin dalam status epileptikus pediatrik |
-| [30487494](https://pubmed.ncbi.nlm.nih.gov/30487494/) | 2018 | RCT | Mymensingh Medical Journal | Perbandingan rawak fenobarbital dan levetiracetam dalam epilepsi kanak-kanak |
-| [38678766](https://pubmed.ncbi.nlm.nih.gov/38678766/) | 2024 | RCT terbuka | Seizure | Fenitoin vs. levetiracetam untuk kejang simptomatik akut dalam kanak-kanak dengan sindrom ensefalitis akut |
-| [21936590](https://pubmed.ncbi.nlm.nih.gov/21936590/) | 2011 | Ulasan | CNS Drugs | Gambaran keseluruhan petunjuk levetiracetam yang ditubuhkan: kejang permulaan separa, kejang miokloni dalam JME, dan kejang tonik-klonik tergeneralisasi primer |
-
-*Nota: seperti percubaan klinikal, tiada literatur yang diambil khusus mengkaji visual/epilepsi fotosensitif; badan bukti sebaliknya menyokong peranan levetiracetam yang luas dan ditubuhkan merentasi jenis kejang lain.*
-
----
-
-## Maklumat Pasaran Malaysia
-
-Levetiracetam disahkan dipasarkan di Malaysia dengan **44 jumlah pendaftaran NPRA**. Walau bagaimanapun, butiran peringkat produk (nombor kebenaran, nama produk, bentuk dos, dan teks petunjuk yang diluluskan) tidak diisi dalam pengambilan bukti ini — semua 5 rekod lesen sampel dikembalikan dengan medan kosong untuk atribut ini. Pertanyaan data NPRA susulan diperlukan sebelum jadual peringkat produk dapat dibentangkan.
+| [32385134](https://pubmed.ncbi.nlm.nih.gov/32385134/) | 2020 | RCT | Pediatrics | Perbandingan levetiracetam dengan fenobarbital untuk sawan neonatal |
+| [35963261](https://pubmed.ncbi.nlm.nih.gov/35963261/) | 2022 | RCT (Fasa 3) | The Lancet Neurology | Levetiracetam profilaktik berbanding plasebo untuk mencegah sawan akut selepas pendarahan intraserebrum (PEACH) |
+| [38678766](https://pubmed.ncbi.nlm.nih.gov/38678766/) | 2024 | RCT (label terbuka) | Seizure | Fenitoin berbanding levetiracetam untuk sawan simptomatik akut pada kanak-kanak dengan sindrom ensefalitis akut |
+| [28528211](https://pubmed.ncbi.nlm.nih.gov/28528211/) | 2017 | RCT (prospektif) | Seizure | Levetiracetam intravena berbanding fenitoin untuk status epileptikus dan sawan kluster |
+| [34286461](https://pubmed.ncbi.nlm.nih.gov/34286461/) | 2022 | Kajian sistematik/meta-analisis | Neurocritical Care | Levetiracetam untuk pencegahan sawan dalam rawatan rapi neurologi (ICH, TBI, SAH, pembedahan supratentorial) |
+| [39808752](https://pubmed.ncbi.nlm.nih.gov/39808752/) | 2025 | Kajian sistematik/meta-analisis rangkaian | Neurology | Perbandingan ubat antisawan untuk sawan selepas strok |
+| [33060105](https://pubmed.ncbi.nlm.nih.gov/33060105/) | 2021 | Kajian sistematik/meta-analisis | Arch Dis Child | Levetiracetam untuk status epileptikus konvulsif pada kanak-kanak |
+| [36209676](https://pubmed.ncbi.nlm.nih.gov/36209676/) | 2022 | Kajian sistematik/meta-analisis rangkaian | Seizure | Rawatan status epileptikus yang rintang benzodiazepin |
+| [21936590](https://pubmed.ncbi.nlm.nih.gov/21936590/) | 2011 | Ulasan | CNS Drugs | Gambaran keseluruhan levetiracetam dalam epilepsi, termasuk indikasi yang diluluskan di peringkat global |
+| [12915343](https://pubmed.ncbi.nlm.nih.gov/12915343/) | 2003 | Ulasan | Epileptic Disorders | Profil keselamatan levetiracetam sebagai terapi tambahan untuk sawan separa |
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan paket untuk maklumat keselamatan.
+Maklumat amaran utama dan kontraindikasi daripada sisipan pakej tidak terdapat dalam data yang disusun.
 
-*(Tiada data amaran berstruktur, kontraindikasi, atau interaksi ubat yang dikembalikan untuk calon ini. Terutamanya, jurang ini ditandai dalam paket bukti sebagai DG001 — "amaran label TFDA/NPRA/kontraindikasi" — dengan keterukan Penyekat, bermakna ia pada masa ini mencegah pra-penilaian keselamatan S1 penuh.)*
+**Interaksi Ubat (hasil carian DDI: 100 interaksi direkodkan)**
+Interaksi bertahap **Sederhana** yang disenaraikan ialah: morfin (termasuk bentuk liposomal), dronabinol, metoklopramida, nabilon, opium dan sibutramin. Beberapa interaksi lain bertahap "Tidak diketahui", antaranya kalsitriol, pantoprazol, glimepirida, metformin, omeprazol, vankomisin dan atropin.
+
+**Isyarat keselamatan daripada kesusasteraan**
+- Kes hiperplasia gingiva yang jarang berlaku pada seorang remaja (PMID 35848684).
+- Laporan hiponatremia akibat levetiracetam (PMID 28755154).
+- Kajian pratlinikal tentang kesan levetiracetam terhadap fungsi koklea (PMID 34903423), yang relevan untuk keadaan dicetuskan bunyi.
+
+Sila rujuk sisipan pakej untuk maklumat keselamatan yang lengkap.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold (Tahan)**
 
 **Rasional:**
-Levetiracetam mempunyai asas bukti yang kuat dan ditubuhkan merentasi pelbagai jenis kejang, tetapi tiada satu pun daripada 9 percubaan klinikal atau 20 penerbitan yang diambil untuk calon ini khusus menilai visual/epilepsi fotosensitif — paket bukti itu sendiri meninggalkan tahap bukti calon ini, tahap keputusan, dan pengesyoran ditandakan sebagai "sedang ditangguhkan." Digabungkan dengan jurang data keterukan Penyekat pada amaran/kontraindikasi label NPRA (DG001), pra-penilaian keselamatan yang boleh dipertahankan tidak lagi dapat diselesaikan.
+- Ramalan epilepsi visual hanya bersandarkan skor model dan bukti tidak langsung tentang sawan umum, tanpa ujian klinikal atau penerbitan khusus untuk indikasi ini.
+- Data yang disusun juga tidak menunjukkan sebarang pendaftaran levetiracetam di Malaysia, dan data keselamatan sisipan pakej tidak lengkap.
 
-**Untuk meneruskan, berikut diperlukan:**
-- PDF label NPRA (amaran, kontraindikasi) untuk menyelesaikan DG001 (Penyekat)
-- Data mekanisme tindakan DrugBank untuk menyelesaikan DG002 (Tinggi)
-- Carian literatur/percubaan yang disasarkan khusus untuk "visual epilepsi" / epilepsi reflek fotosensitif (hasil semasa ialah padanan ubat + kejang generik, bukan khusus penyakit)
-- Pertanyaan interaksi ubat-ubat (DDI) yang telah selesai — status semasa ialah `not_found` dengan 0 hasil
-- Data lesen peringkat produk NPRA (nombor kebenaran, nama produk, bentuk dos, teks petunjuk), kerana sampel semasa dikembalikan dengan medan kosong merentasi semua 5 rekod
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Memuat turun dan menghurai sisipan pakej NPRA (amaran dan kontraindikasi). Ini penting dan menghalang saringan keselamatan.
+- Mengesahkan status pendaftaran dan indikasi asal di Malaysia.
+- Data mekanisme tindakan terperinci (contohnya daripada DrugBank).
+- Mencari data khusus tentang epilepsi fotosensitif atau visual, termasuk ujian klinikal atau siri kes.
 
+**Nota tambahan tentang ramalan lain dalam data:**
+- **Status epileptikus** mempunyai bukti terkuat (L1, Proceed with Guardrails). Ia disokong oleh RCT Fasa 3 [NCT01960075](https://clinicaltrials.gov/study/NCT01960075) (478 pesakit; penerbitan [PMID 31774955](https://pubmed.ncbi.nlm.nih.gov/31774955/)) dan [NCT01150331](https://clinicaltrials.gov/study/NCT01150331) (203 pesakit). Penggunaannya sebagai terapi barisan kedua selepas benzodiazepin patut dinilai sebagai calon utama.
+- **Epilepsi terkejut (startle epilepsy)** berada pada tahap L3 (soalan penyelidikan). Terdapat kajian kecil dan laporan kes, tetapi tiada ujian klinikal berdaftar.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

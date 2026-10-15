@@ -2,7 +2,7 @@
 layout: default
 title: Trastuzumab
 parent: High Evidence (L1-L2)
-nav_order: 662
+nav_order: 695
 evidence_level: L1
 indication_count: 10
 ---
@@ -29,11 +29,13 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Trastuzumab: Dari Kanser Payudara Positif HER2 kepada Kanser Payudara Positif Reseptor Progesteron
+# Trastuzumab: Daripada Kanser Payudara HER2-Positif kepada Kanser Payudara Positif Reseptor Progesteron
 
 ## Ringkasan Satu Ayat
 
-Trastuzumab adalah antibodi monoklonal humanisasi anti-HER2 yang telah ditegakkan untuk kanser payudara positif HER2. Model TxGNN meramalkan ia mungkin juga berkesan dalam **kanser payudara positif reseptor progesteron (PR)**, dengan **36 uji klinis** dan **20 penerbitan** yang dikenal pasti dalam pakej bukti yang menyokong arah ini — walaupun pautan mekanis dijalankan melalui status HER2 dan bukannya status PR itu sendiri.
+Trastuzumab ialah antibodi monoklonal yang pada asalnya digunakan untuk merawat kanser payudara HER2-positif.
+Model TxGNN meramalkan ia mungkin berkesan untuk **kanser payudara positif reseptor progesteron (PR)**,
+dengan **13 ujian klinikal** dan **20 penerbitan** yang disenaraikan dalam data yang dikompilasi untuk laporan ini. Perlu diingat bahawa ramalan ini sebenarnya ialah lanjutan dalam indikasi HER2-positif yang sedia ada, bukan indikasi yang benar-benar baharu.
 
 ---
 
@@ -41,40 +43,42 @@ Trastuzumab adalah antibodi monoklonal humanisasi anti-HER2 yang telah ditegakka
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Kanser payudara positif HER2 (dirujuk di seluruh rasional pakej bukti sebagai indikasi yang telah ditegakkan trastuzumab; teks label TFDA yang jelas tidak dikembalikan dalam penggalian data ini) |
-| Indikasi Baru Ramalan | Kanser payudara positif reseptor progesteron |
+| Indikasi Asal | Karsinoma payudara HER2-positif |
+| Indikasi Baharu yang Diramalkan | Kanser payudara positif reseptor progesteron |
 | Skor Ramalan TxGNN | 99.90% |
 | Tahap Bukti | L1 |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 18 |
-| Keputusan yang Disyorkan | Teruskan dengan Penjaga Sempadan |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan yang Disyorkan | Proceed with Guardrails |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Trastuzumab adalah antibodi monoklonal IgG1 yang dimanusiakan yang menyasarkan domain ekstrasel HER2/neu (ErbB2). Tindakan farmakoloji yang ditegakkan adalah untuk menghalang proliferasi sel tumor yang terlalu banyak mengekspresikan HER2 dan untuk menengahkan sitotoksisiti bergantung antibodi sel pembunuh (ADCC) — seperti yang ditunjukkan secara konsisten dalam tajuk uji klinis pakej bukti (contohnya, NCT01785420: "trastuzumab... bertindak secara ekstrasel pada reseptor erbB-2... mediator yang kuat bagi sitotoksisiti bergantung antibodi sel pembunuh").
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, trastuzumab menyasarkan reseptor HER2 pada sel tumor, dan keberkesanannya dalam kanser payudara HER2-positif telah terbukti.
 
-Indikasi baru yang diramalkan, kanser payudara positif PR, bukan sasaran penyakit yang berbeza untuk trastuzumab — ia adalah **subkumpulan klinis biasa bagi populasi kanser payudara positif HER2 yang sedia ada**. Kira-kira satu pertiga daripada kanser payudara positif HER2 turut mengekspresikan reseptor hormon (ER dan/atau PR), dan trastuzumab digabungkan dengan terapi endokrin (contohnya, letrozol, fulvestran) sudah pun digunakan dalam populasi "triple receptor" ini, seperti ditunjukkan dalam uji coba seperti NCT00134680 dan NCT02152943 serta dalam kajian terjemahan tentang "kanser payudara triple-positif" (PMID 31410192).
+Sebahagian besar kanser payudara positif PR juga HER2-positif (penyakit HR+/HER2+). Manfaat trastuzumab datang daripada sekatan HER2, bukan status PR. Dalam subkumpulan ini, ia digabungkan dengan kemoterapi dan terapi endokrin. Oleh itu, ini ialah lanjutan dalam indikasi kanser payudara HER2-positif yang telah diluluskan.
 
-**Kaveat penting daripada analisis mekanis pakej bukti sendiri:** sasaran farmakoloji trastuzumab adalah HER2, bukan PR. Positif PR adalah penanda bersama yang digunakan untuk stratifikasi rawatan (contohnya, menambah terapi endokrin), bukan pemacu keberkesanan trastuzumab. Ramalan keberkesanan oleh itu harus terus bergantung terutamanya pada status HER2, dengan status PR digunakan hanya sebagai pemboleh ubah stratifikasi — suatu perbezaan yang bendera pakej bukti secara jelas merentasi pelbagai rasional calon.
+Status pasaran "tidak dipasarkan" dan data MOA yang tiada perlu disahkan semula berbanding pelabelan terkini.
 
 ---
 
-## Bukti Uji Klinis
+## Bukti Ujian Klinikal
 
-| Nombor Uji | Fasa | Status | Enrolmen | Penemuan Utama |
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT00134680](https://clinicaltrials.gov/study/NCT00134680) | Fasa 2 | Selesai | 33 | Letrozol + trastuzumab dalam kanser payudara metastatik positif ErbB2, positif ER dan/atau PR — secara langsung menguji gabungan trastuzumab + terapi endokrin dalam populasi PR+ |
-| [NCT00053339](https://clinicaltrials.gov/study/NCT00053339) | Fasa 3 | Ditarik balik (enrolmen 0) | 0 | Percubaan terkawal rawak (RCT) yang dirancang bagi trastuzumab ± tamoksifen dalam kanser payudara peringkat IV positif ER/PR, positif HER2/neu; ditarik balik sebelum enrolmen |
-| [NCT02152943](https://clinicaltrials.gov/study/NCT02152943) | Fasa 1 | Selesai | 37 | Everolimus + trastuzumab + letrozol dalam kanser payudara lanjutan positif reseptor hormon dan HER2 |
-| [NCT04886531](https://clinicaltrials.gov/study/NCT04886531) | Fasa 2 | Merekrut | 30 | Neratinib + terapi endokrin + trastuzumab dalam kanser positif ER, positif HER2 |
-| [NCT00999804](https://clinicaltrials.gov/study/NCT00999804) | Fasa 2 | Aktif, tidak merekrut | 128 | Percubaan neoadjuvan rawak bagi lapatinib + trastuzumab ± terapi endokrin dalam kanser payudara yang terlebih mengekspresikan HER2 (gred bukti B pakej: berkaitan secara langsung, bukan khusus PR mengikut reka bentuk) |
-| [NCT02689921](https://clinicaltrials.gov/study/NCT02689921) | Fasa 2 | Tidak diketahui | 7 | Inhibitor aromatase neoadjuvan + pertuzumab/trastuzumab tanpa kemoterapi dalam kanser payudara lokalisasi positif HR (ER+ dan/atau PR+), positif HER2 (gred bukti B pakej; n kecil mengehadkan kekuatan) |
-| [NCT05802225](https://clinicaltrials.gov/study/NCT05802225) | Fasa 3 | Aktif, tidak merekrut | 398 | Percubaan buta dua arah rawak bagi BCD-178 lawan Perjeta sebagai terapi neoadjuvan untuk kanser payudara positif HER2, subkumpulan ER/PR-negatif (gred bukti A pakej; ambil perhatian populasi ER/PR-negatif, disertakan untuk kebersebelahan) |
-| [NCT01275677](https://clinicaltrials.gov/study/NCT01275677) | Fasa 3 | Selesai | 3,270 | Percubaan adjuvan rawak membandingkan kemoterapi sahaja lawan kemoterapi + trastuzumab dalam kanser payudara positif HER2-rendah nod-positif/risiko tinggi |
-| [NCT00005970](https://clinicaltrials.gov/study/NCT00005970) | Fasa 3 | Selesai | 3,436 | Percubaan adjuvan rawak AC→paklitaksel ± trastuzumab dalam kanser payudara terlebih mengekspresikan HER2, nod-positif atau risiko tinggi |
-| [NCT00667251](https://clinicaltrials.gov/study/NCT00667251) | Fasa 3 | Selesai | 652 | Perbandingan baris pertama rawak taksan + lapatinib lawan taksan + trastuzumab dalam kanser payudara metastatik positif HER2 |
+| [NCT01275677](https://clinicaltrials.gov/study/NCT01275677) | Fasa 3 | Selesai | 3270 | Kemoterapi adjuvan sahaja berbanding kemoterapi + trastuzumab dalam kanser payudara berisiko tinggi; bukti Fasa 3 langsung (gred A) |
+| [NCT01750073](https://clinicaltrials.gov/study/NCT01750073) | Fasa 2 | Selesai | 92 | Kemoterapi neoadjuvan dengan dan tanpa trastuzumab |
+| [NCT00194779](https://clinicaltrials.gov/study/NCT00194779) | Fasa 2 | Selesai | 50 | Rejimen kemoterapi neoadjuvan diikuti terapi mengandungi trastuzumab untuk kanser payudara HER2-positif |
+| [NCT02260531](https://clinicaltrials.gov/study/NCT02260531) | Fasa 2 | Selesai | 36 | Cabozantinib dengan atau tanpa trastuzumab pada metastasis otak |
+| [NCT00134680](https://clinicaltrials.gov/study/NCT00134680) | Fasa 2 | Selesai | 33 | Letrozole + trastuzumab dalam kanser payudara metastatik ErbB2-positif dan ER/PR-positif |
+| [NCT04629846](https://clinicaltrials.gov/study/NCT04629846) | Fasa 3 | Selesai | 517 | Biosimilar pertuzumab QL1209 + trastuzumab + docetaxel (HER2-positif, ER/PR-negatif) |
+| [NCT04886531](https://clinicaltrials.gov/study/NCT04886531) | Fasa 2 | Sedang merekrut | 30 | Neratinib dan terapi endokrin dengan trastuzumab pra-pembedahan dalam kanser ER-positif, HER2-positif |
+| [NCT02152943](https://clinicaltrials.gov/study/NCT02152943) | Fasa 1 | Selesai | 37 | Everolimus, letrozole dan trastuzumab dalam kanser HR+/HER2+ |
+| [NCT04334330](https://clinicaltrials.gov/study/NCT04334330) | Fasa 2 | Tidak diketahui | 34 | Palbociclib, trastuzumab, pyrotinib dan fulvestrant pada metastasis otak; sumbangan trastuzumab tidak dapat diasingkan |
+| [NCT02774681](https://clinicaltrials.gov/study/NCT02774681) | Fasa 2 | Ditamatkan | 12 | Palbociclib satu lengan pada metastasis otak; nilai bukti rendah |
+
+Nota: [NCT00053339](https://clinicaltrials.gov/study/NCT00053339) (Fasa 3, trastuzumab dengan atau tanpa tamoxifen) telah ditarik balik dengan 0 peserta, jadi tiada bukti boleh digunakan.
 
 ---
 
@@ -82,58 +86,60 @@ Indikasi baru yang diramalkan, kanser payudara positif PR, bukan sasaran penyaki
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [32353342](https://pubmed.ncbi.nlm.nih.gov/32353342/) | 2020 | RCT (Peringkat 1) | The Lancet. Oncology | Fasa 2 RCT monarcHER: abemaciclib + trastuzumab ± fulvestran lawan kemoterapi + trastuzumab dalam kanser payudara lanjutan positif HR, positif HER2 |
-| [27179402](https://pubmed.ncbi.nlm.nih.gov/27179402/) | 2016 | RCT, susulan 5 tahun (Peringkat 1) | The Lancet. Oncology | Uji coba NeoSphere: pertuzumab neoadjuvan + trastuzumab meningkatkan respons patologis lengkap dalam kanser payudara positif HER2 |
-| [37166817](https://pubmed.ncbi.nlm.nih.gov/37166817/) | 2023 | RCT | JAMA Oncology | Uji coba rawak WSG-TP-II: terapi endokrin + trastuzumab/pertuzumab lawan kemoterapi berkurang dalam kanser payudara awal positif HR/HER2 |
-| [38906970](https://pubmed.ncbi.nlm.nih.gov/38906970/) | 2024 | RCT (kesetaraan biosimilar) | British Journal of Cancer | Fasa 3 uji coba kesetaraan pertuzumab biosimilar + trastuzumab + dosetaksel dalam kanser payudara positif HER2, ER/PR-negatif |
-| [26874901](https://pubmed.ncbi.nlm.nih.gov/26874901/) | 2016 | RCT Fasa 3 | The Lancet. Oncology | Uji coba ExteNET: neratinib selepas terapi adjuvan berasaskan trastuzumab dalam kanser payudara positif HER2 |
-| [34983437](https://pubmed.ncbi.nlm.nih.gov/34983437/) | 2022 | Kohort retrospektif | BMC Cancer | Terapi gabungan trastuzumab + fulvestran dalam kanser payudara lanjutan positif reseptor hormon dan HER2 |
-| [31410192](https://pubmed.ncbi.nlm.nih.gov/31410192/) | 2019 | Kohort/Terjemahan (Peringkat 2) | Theranostics | Potret molekul dan responsif trastuzumab kanser payudara ER+, PR+, HER2+ ("triple-positif") |
-| [28945833](https://pubmed.ncbi.nlm.nih.gov/28945833/) | 2017 | Uji coba Fasa 2 | Annals of Oncology | Uji coba WSG-ADAPT HER2+/HR-: de-eskalasi dengan trastuzumab neoadjuvan + pertuzumab ± paklitaksel |
-| [26253814](https://pubmed.ncbi.nlm.nih.gov/26253814/) | 2015 | Ulasan (Peringkat 3) | Breast (Edinburgh) | Implikasi klinis subjenis molekul intrinsik kanser payudara, termasuk interaksi reseptor hormon/HER2 |
-| [39631485](https://pubmed.ncbi.nlm.nih.gov/39631485/) | 2024 | Ulasan | Pharmacological Research | Perencat tersasarkan dan sitotoksik yang digunakan dalam rawatan kanser payudara, berstrata mengikut status HER2/HR/ER/PR |
+| [27179402](https://pubmed.ncbi.nlm.nih.gov/27179402/) | 2016 | RCT Fasa 2 (susulan 5 tahun) | Lancet Oncol | NeoSphere: pertuzumab + trastuzumab neoadjuvan; analisis kelangsungan bebas progresi dan bebas penyakit 5 tahun |
+| [32353342](https://pubmed.ncbi.nlm.nih.gov/32353342/) | 2020 | RCT Fasa 2 | Lancet Oncol | monarcHER: abemaciclib + trastuzumab ± fulvestrant dalam kanser payudara HR+/HER2+ lanjutan |
+| [28945833](https://pubmed.ncbi.nlm.nih.gov/28945833/) | 2017 | RCT Fasa 2 | Ann Oncol | WSG-ADAPT HER2+/HR-: blokade dwi 12 minggu dengan trastuzumab dan pertuzumab ± paclitaxel |
+| [26874901](https://pubmed.ncbi.nlm.nih.gov/26874901/) | 2016 | RCT Fasa 3 | Lancet Oncol | ExteNET: neratinib selepas terapi adjuvan berasaskan trastuzumab |
+| [29117498](https://pubmed.ncbi.nlm.nih.gov/29117498/) | 2017 | Meta-analisis | N Engl J Med | Risiko berulang kanser payudara 20 tahun selepas menghentikan terapi endokrin pada tahun ke-5 |
+| [15894097](https://pubmed.ncbi.nlm.nih.gov/15894097/) | 2005 | Meta-analisis | Lancet | Kesan kemoterapi dan terapi hormon pada kanser payudara awal terhadap berulang dan kelangsungan 15 tahun |
+| [31410192](https://pubmed.ncbi.nlm.nih.gov/31410192/) | 2019 | Kohort/molekul | Theranostics | Profil molekul dan tindak balas trastuzumab dalam kanser payudara ER+/PR+/HER2+ (triple-positive) |
+| [21151204](https://pubmed.ncbi.nlm.nih.gov/21151204/) | 2011 | Ulasan | Nat Rev Clin Oncol | Kanser payudara HER2-positif dan reseptor hormon-positif: menyekat sasaran yang tepat |
+| [35640077](https://pubmed.ncbi.nlm.nih.gov/35640077/) | 2022 | Garis panduan | J Clin Oncol | Kemas kini garis panduan ASCO untuk terapi sistemik kanser payudara HER2-positif lanjutan |
+| [40339592](https://pubmed.ncbi.nlm.nih.gov/40339592/) | 2025 | Fasa 2a lengan tunggal | Lancet Oncol | Zanidatamab + palbociclib + fulvestrant dalam kanser HR+/HER2+ metastatik |
 
 ---
 
-## Maklumat Pasaran Malaysia
+## Keselamatan
 
-Malaysia merekodkan **18 produk trastuzumab berdaftar** (status pasaran: sudah dipasarkan). Walau bagaimanapun, butiran peringkat lesen yang dikembalikan dalam penggalian data ini (nombor kebenaran, nama produk, bentuk dos, teks indikasi yang diluluskan) semuanya kosong, jadi jadual per-produk tidak dapat diisi daripada set data semasa. Ini harus dianggap sebagai jurang data terbuka yang memerlukan pertanyaan peringkat lesen NPRA yang segar.
+Maklumat label keselamatan (amaran dan kontraindikasi) tidak tersedia dalam data yang dikompilasi untuk laporan ini.
 
----
+**Interaksi Ubat**: Sebanyak 94 interaksi direkodkan. Antara yang utama:
+- **Tahap Major**: deferiprone, samarium (153Sm) lexidronam, adalimumab, baricitinib
+- **Tahap Moderate**: warfarin, dicoumarol, paclitaxel, zidovudine, chloramphenicol, alemtuzumab, azathioprine, anakinra, canakinumab, palifermin
 
-## Sitotoksisiti
-
-Trastuzumab adalah agen antineoplastik (terapi tersasarkan anti-HER2), jadi bahagian ini terpakai.
-
-| Perkara | Kandungan |
-|------|------|
-| Pengelasan Sitotoksisiti | Terapi tersasarkan (antibodi monoklonal humanisasi anti-HER2; bukan agen kemoterapeutik sitotoksik konvensional) |
-| Risiko Penindasan Sumsum Tulang | Sila rujuk amaran sisipan pakej dan kesederhanaan |
-| Pengelasan Keupayaan Emesikal | Sila rujuk amaran sisipan pakej dan kesederhanaan |
-| Item Pemantauan | Sila rujuk amaran sisipan pakej dan kesederhanaan |
-| Perlindungan Pengendalian | Sila rujuk amaran sisipan pakej dan kesederhanaan |
+Kardiotoksisiti berkaitan trastuzumab juga dibincangkan dalam literatur yang diperoleh (PMID 17687157), dan pemantauan jantung wajar dipertimbangkan.
 
 ---
 
-## Pertimbangan Keselamatan
+## Kesimpulan dan Langkah Seterusnya
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan. Bidang amaran/kontraindikasi TFDA pakej bukti dan pertanyaan interaksi ubat (DDI) kedua-duanya mengembalikan tiada data yang boleh diguna (status pertanyaan DDI: tidak ditemui, 0 interaksi).
-
----
-
-## Kesimpulan dan Langkah Berikutnya
-
-**Keputusan: Teruskan dengan Penjaga Sempadan**
+**Keputusan: Proceed with Guardrails**
 
 **Rasional:**
-Calon mencapai tahap bukti L1 (pelbagai RCT Fasa 3 yang selesai, contohnya NCT01275677, NCT00005970) dan subkumpulan PR-positif sudah muncul sebagai lengan stratifikasi dalam beberapa uji coba kanser payudara positif HER2 sedia ada (NCT00134680, NCT02689921). Walau bagaimanapun, mekanis asas beroperasi melalui terlalu banyak ekspresi HER2, bukan positif PR — penjaga sempadan harus memerlukan pengesahan status HER2 di samping status PR sebelum ini dianggap sebagai indikasi bebas.
+- Terdapat bukti Fasa 3 yang selesai (NCT01275677, n=3270) dan beberapa RCT dalam populasi HER2-positif termasuk HR+/HER2+. Namun manfaat bergantung pada status HER2, bukan status PR, dan ramalan ini ialah lanjutan indikasi sedia ada.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Amaran sisipan pakej TFDA/kontraindikasi (kini jurang data pemblokiran — DG001)
-- Dokumentasi mekanisme aksi yang disahkan daripada DrugBank (kini jurang data keparahan tinggi — DG002)
-- Data hasil hasil stratifikasi status HER2 untuk subkumpulan PR-positif, untuk mengesahkan hubungan penanda biologi adalah stratifikasi dan bukannya mekanisme ubat-sasaran baru
-- Butiran peringkat lesen Malaysia (nama produk, bentuk dos, teks indikasi yang diluluskan) melalui pertanyaan peringkat lesen NPRA yang dijalankan semula, memandangkan 18 pendaftaran semasa tidak mengembalikan bidang yang boleh diguna
+**Untuk meneruskan, perlu:**
+- Penggunaan terhad kepada pesakit HER2-positif yang disahkan; kanser PR-positif/HER2-negatif dan triple-negatif bukan sasaran yang sah
+- Maklumat amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menghalang)
+- Data mekanisme tindakan (MOA) terperinci daripada DrugBank
+- Pengesahan status pendaftaran di Malaysia (data menunjukkan 0 pendaftaran)
+- Pelan pemantauan jantung dan semakan interaksi ubat
 
+---
+
+## Lampiran: Penilaian Indikasi Ramalan Lain
+
+| Indikasi Ramalan | Skor TxGNN | Tahap Bukti | Keputusan | Catatan |
+|------|------|------|------|------|
+| Kanser payudara negatif reseptor progesteron | 99.90% | L1 | Proceed with Guardrails | Sah hanya jika HER2-positif; bukti Fasa 3 termasuk NCT01275677 dan NCT04629846 |
+| Tumor payudara luminal A atau B | 99.90% | L2 | Proceed with Guardrails | Hanya subset luminal B HER2-positif; tiada ujian berdaftar dan beberapa rujukan di luar topik |
+| Subjenis seakan-normal karsinoma payudara | 99.90% | L4 | Hold | Biasanya HER2-negatif; satu-satunya ujian menguji ubat lain (trastuzumab rezetecan) |
+| Tumor sel granular kutaneus malignan | 99.48% | L5 | Hold | Ramalan model sahaja |
+| Ektomesenkimoma | 99.48% | L5 | Hold | Ramalan model sahaja |
+| Tumor berkaitan virus herpes manusia 8 | 99.46% | L5 | Hold | Ramalan model sahaja |
+| Tumor neuroendokrin telinga tengah | 99.44% | L5 | Hold | Ramalan model sahaja |
+| Karsinoma sel peralihan sarkomatoid pelvis buah pinggang | 99.04% | L5 | Hold | HER2 diekspres dalam sebahagian karsinoma uroteli; rasional munasabah tetapi belum diuji |
+| Karsinoma uroteli uretra prostat | 99.04% | L5 | Hold | Rasional munasabah tetapi belum disahkan |
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

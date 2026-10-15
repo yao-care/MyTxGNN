@@ -2,7 +2,7 @@
 layout: default
 title: Pimecrolimus
 parent: High Evidence (L1-L2)
-nav_order: 546
+nav_order: 573
 evidence_level: L2
 indication_count: 4
 ---
@@ -29,104 +29,103 @@ Tahap bukti: **L2** | Indikasi diramal: **4**
 
 </div>
 
-# Pimecrolimus: Daripada Dermatitis Atopik kepada Dermatitis Seboroik
+# Pimecrolimus: Daripada Ekzema Atopik kepada Dermatitis Seborea
 
-## Ringkasan dalam Satu Ayat
+## Ringkasan Satu Ayat
 
-Pimecrolimus (nama merek: Elidel) ialah penghambat kalsineurin topikal yang pada asalnya dibangunkan dan diluluskan untuk rawatan dermatitis atopik ringan hingga sederhana (eksim), menawarkan pilihan anti-inflamasi yang menjimatkan steroid terutamanya sesuai untuk kawasan kulit sensitif seperti muka dan leher.
-Model TxGNN meramalkan ia mungkin berkesan untuk **Dermatitis Seboroik**,
-dengan **1 uji klinis** dan **18 penerbitan** kini menyokong arah ini, termasuk 2 tinjauan sistematik dan 2 uji terkontrol acak.
+Pimecrolimus ialah perencat kalsineurin topikal yang pada asalnya digunakan untuk merawat ekzema atopik (dermatitis atopik).
+Model TxGNN meramalkan ia mungkin berkesan untuk **Dermatitis Seborea**,
+dengan **1 ujian klinikal** (Fasa 2, selesai) dan **18 penerbitan** yang menyokong arah ini, termasuk dua kajian sistematik ke atas ujian terkawal rawak.
 
 ---
 
-## Tinjauan Ringkas
+## Gambaran Keseluruhan Pantas
 
-| Item | Kandungan |
-|------|----------|
-| Indikasi Asal | Dermatitis Atopik (ringan hingga sederhana) |
-| Indikasi Baru yang Diramalkan | Dermatitis Seboroik |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Ekzema atopik / dermatitis atopik |
+| Indikasi Baharu yang Diramal | Dermatitis seborea |
 | Skor Ramalan TxGNN | 99.73% |
 | Tahap Bukti | L2 |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 1 |
-| Keputusan Disyorkan | Lanjutkan dengan Penjaga |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
 
 ---
 
-## Mengapa Ramalan Ini Masuk Akal?
+## Mengapa Ramalan Ini Munasabah?
 
-Pimecrolimus ialah derivatif makrolaktam ascomycin dan penghambat kalsineurin topikal selektif. Walaupun data mekanisme tindakan terperinci tidak tersedia daripada rekod DrugBank dalam Pek Bukti ini, literatur terbitan secara konsisten menerangkan mekanismenya: pimecrolimus mengikat macrophilin-12 (FKBP-12), menghalang aktiviti fosfatase kalsineurin dan dengan itu menyekat transkripsi NFAT yang dimediasi sitokin pro-inflamasi — termasuk IL-2, IL-4, dan TNF-α — dalam sel T dan sel mast. Secara penting, tidak seperti kortikosteroid topikal, pimecrolimus tidak merosakkan fungsi halangan kulit dan tidak membawa risiko atrofi kulit, menjadikannya terutamanya sesuai untuk penggunaan jangka panjang yang kronik pada kulit muka yang nipis.
+Data terperinci mengenai mekanisme tindakan asal tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan farmakologi yang diketahui, pimecrolimus ialah perencat kalsineurin yang menyekat pengaktifan sel T serta pembebasan sitokin keradangan (seperti IL-2, IFN-gamma dan TNF-alfa), dan juga merencat degranulasi sel mast.
 
-Rasional biologis untuk penggantian tujuan kepada dermatitis seboroik adalah menarik. Dermatitis seboroik kini difahami melibatkan kaskad inflamasi yang dimediasi sel T yang dicetuskan oleh respons imun yang abnormal terhadap ragi kulit komensal *Malassezia*. Disregulasi Th1/Th2 ini — dicirikan oleh IL-2, IL-4, dan interferon-γ yang meningkat dalam kulit lesi — memetakan terus ke sasaran sitokin mekanisme penghambatan kalsineurin pimecrolimus. Kedua-dua dermatitis atopik dan dermatitis seboroik berkongsi laluan imunologi yang bertindih: inflamasi kulit kronik yang dimediasi oleh limfosit T yang diaktifkan di wilayah yang kaya sebum yang terdedah kepada disregulasi imun.
+Dermatitis seborea melibatkan tindak balas keradangan terhadap yis *Malassezia*. Perencat kalsineurin topikal turut dilaporkan mempunyai aktiviti antikulat terhadap *Malassezia*. Mekanisme ini berkait rapat dengan indikasi ekzema atopik yang telah diluluskan, kerana kedua-dua penyakit ialah dermatosis keradangan yang didorong sel T.
 
-Secara penting, penggunaan luar label pimecrolimus krim 1% untuk dermatitis seboroik sudah terdokumentasi dengan baik dalam literatur dermatologi. Beberapa tinjauan sistematik bebas mengesahkan bahawa pimecrolimus berkesan dan ditoleransi dengan baik, dengan keberkesanan yang setanding dengan antikulat topikal (ketokonazol) dan keselamatan superior berbanding kortikosteroid topikal untuk aplikasi wajah jangka panjang. Penumpuan ini kepada kebolehbahagian mekanistik dan bukti klinis yang terkumpul menjadikan ramalan TxGNN sangat boleh dipercayai daripada spekulatif.
+Perlu diingat bahawa pautan mekanistik ini berdasarkan farmakologi umum, bukan rekod mekanisme tindakan yang dibekalkan.
 
 ---
 
-## Bukti Uji Klinis
+## Bukti Ujian Klinikal
 
-| Nombor Uji | Fasa | Status | Pendaftaran | Penemuan Utama |
-|-----------|------|--------|------------|-----------------|
-| [NCT00403559](https://clinicaltrials.gov/study/NCT00403559) | Fasa 2 | Selesai | 113 | Kajian 4 minggu yang dikawal oleh pembanding aktif berkod ganda secara rawak yang dirancang terus untuk menilai Elidel (pimecrolimus) untuk rawatan dermatitis seboroik. Ini adalah uji terdaftar yang paling berkaitan secara terus untuk indikasi ini. |
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
+|---------|------|------|------|---------|
+| [NCT00403559](https://clinicaltrials.gov/study/NCT00403559) | Fasa 2 | Selesai | 113 | Kajian penerokaan rawak, buta berganda, pembanding aktif selama 4 minggu untuk menilai keberkesanan Elidel (pimecrolimus) dalam dermatitis seborea |
+
+Satu-satunya ujian ini menguji indikasi sasaran secara langsung, tetapi ia Fasa 2 dan tempohnya singkat.
 
 ---
 
 ## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|------|------|--------|-----------------|
-| [36072203](https://pubmed.ncbi.nlm.nih.gov/36072203/) | 2022 | Tinjauan Sistematik | Cureus | Tinjauan sistematik ujian rawak terkontrol yang menilai keberkesanan dan keselamatan pimecrolimus dalam dermatitis seboroik wajah; mengkaji penghambat kalsineurin sebagai kategori rawatan utama bersama antikulat dan kortikosteroid. |
-| [22142161](https://pubmed.ncbi.nlm.nih.gov/22142161/) | 2012 | Tinjauan Sistematik | Expert Review of Clinical Pharmacology | Tinjauan sistematik ujian rawak terkontrol krim pimecrolimus 1% untuk dermatitis seboroik vs kortikosteroid, antimikotik, dan plasebo; membuat kesimpulan pimecrolimus ditoleransi dengan baik dan berkesan dengan keberkesanan yang setanding dengan pembanding. |
-| [27804089](https://pubmed.ncbi.nlm.nih.gov/27804089/) | 2017 | Tinjauan Sistematik | American Journal of Clinical Dermatology | Tinjauan sistematik rawatan topikal untuk dermatitis seboroik wajah; mengkaji peranan antikulat, keratolitik, dan kortikosteroid, dengan penghambat kalsineurin dibincangkan sebagai kategori rawatan yang muncul. |
-| [34910320](https://pubmed.ncbi.nlm.nih.gov/34910320/) | 2022 | Ujian Rawak Terkontrol | Clinical and Experimental Dermatology | Ujian terkontrol berkod buta yang membandingkan terus krim pimecrolimus 1% vs krim sertakonazol 2% dalam dermatitis seboroik wajah; menangani pengurusan jangka panjang keadaan berulang kronik ini. |
-| [23715821](https://pubmed.ncbi.nlm.nih.gov/23715821/) | 2013 | Ujian Rawak Terkontrol | Irish Journal of Medical Science | Ujian rawak terkontrol membandingkan krim sertakonazol 2% berbanding krim pimecrolimus 1% dalam dermatitis seboroik; menyediakan data keberkesanan perbandingan terus untuk indikasi ini. |
-| [23441238](https://pubmed.ncbi.nlm.nih.gov/23441238/) | 2013 | Kajian Klinis | Journal of Clinical and Aesthetic Dermatology | Ulasan dan perbincangan klinis pimecrolimus 1% topikal sebagai alternatif penghambat kalsineurin untuk dermatitis seboroik, terutamanya untuk penggunaan jangka panjang di mana kesan sampingan kortikosteroid topikal menjadi kebimbangan. |
-| [20000875](https://pubmed.ncbi.nlm.nih.gov/20000875/) | 2010 | Kajian Terbuka Label | American Journal of Clinical Dermatology | Kajian terbuka label krim pimecrolimus 1% dalam dermatitis seboroik wajah yang tahan rawatan; menunjukkan keberkesanan dan toleransi dalam kes di mana rawatan piawai telah gagal. |
-| [16033622](https://pubmed.ncbi.nlm.nih.gov/16033622/) | 2005 | Tinjauan | International Journal of Clinical Practice | Tinjauan mekanistik komprehensif pimecrolimus dalam dermatologi, meliputi penyasaran sel T dan sel mast selektifnya serta aplikasinya di luar dermatitis atopik, termasuk dermatitis seboroik. |
-| [19255921](https://pubmed.ncbi.nlm.nih.gov/19255921/) | 2009 | Kajian Klinis | Journal of Dermatological Treatment | Kajian prospektif tentang pengalaman pimecrolimus dalam dermatitis seboroik dengan susulan dekat; mendokumentasikan masa penyembuhan dan remisi serta profil kesan sampingan, mengesahkan penggunaan luar label yang meningkat. |
-| [18677657](https://pubmed.ncbi.nlm.nih.gov/18677657/) | 2009 | Kajian Klinis | Journal of Dermatological Treatment | Kajian perbandingan prospektif rawak terbuka krim pimecrolimus 1% topikal vs krim ketokonazol 2% topikal dalam dermatitis seboroik; menyediakan data keberkesanan kepala-ke-kepala terhadap piawai penjagaan antikulat. |
+|------|-----|------|------|---------|
+| [22142161](https://pubmed.ncbi.nlm.nih.gov/22142161/) | 2012 | Kajian sistematik RCT | Expert Rev Clin Pharmacol | Krim pimecrolimus 1% nampaknya diterima baik dan berkesan untuk dermatitis seborea, dengan keberkesanan setanding kortikosteroid |
+| [36072203](https://pubmed.ncbi.nlm.nih.gov/36072203/) | 2022 | Kajian sistematik RCT | Cureus | Menilai keberkesanan dan keselamatan pimecrolimus dalam dermatitis seborea muka |
+| [27804089](https://pubmed.ncbi.nlm.nih.gov/27804089/) | 2017 | Kajian sistematik | Am J Clin Dermatol | Rawatan topikal dermatitis seborea muka; perencat kalsineurin antara pilihan |
+| [19222250](https://pubmed.ncbi.nlm.nih.gov/19222250/) | 2009 | Ulasan | Am J Clin Dermatol | Perencat kalsineurin topikal ialah alternatif selamat berbanding kortikosteroid untuk dermatitis seborea |
+| [31053034](https://pubmed.ncbi.nlm.nih.gov/31053034/) | 2019 | Ulasan | J Cutan Med Surg | Ulasan penggunaan luar label pimecrolimus topikal, tertumpu pada RCT |
+| [20000875](https://pubmed.ncbi.nlm.nih.gov/20000875/) | 2010 | Kajian label terbuka | Am J Clin Dermatol | Krim pimecrolimus 1% berkesan dan diterima baik untuk dermatitis seborea muka yang rintang |
+| [17982237](https://pubmed.ncbi.nlm.nih.gov/17982237/) | 2007 | Kajian label terbuka | J Korean Med Sci | 20 pesakit Korea menggunakan krim 1% selama 4 minggu; berpotensi berguna untuk dermatitis seborea muka |
+| [19213227](https://pubmed.ncbi.nlm.nih.gov/19213227/) | 2009 | Ulasan | J Drugs Dermatol | Status semasa dan prospek terapeutik dermatitis seborea muka |
+| [16033622](https://pubmed.ncbi.nlm.nih.gov/16033622/) | 2005 | Ulasan | Int J Clin Pract | Pimecrolimus menyasarkan sel T dan sel mast; potensi melangkaui dermatitis atopik |
+| [17020422](https://pubmed.ncbi.nlm.nih.gov/17020422/) | 2006 | Ulasan | Expert Opin Pharmacother | Pimecrolimus topikal berpotensi untuk penyakit kulit keradangan selain dermatitis atopik |
 
 ---
 
-## Maklumat Pasaran Malaysia
+## Maklumat Pasaran di Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|-----------------|-----------|-----------|----------------------|
-| — | Pimecrolimus (1 produk berdaftar) | Krim Topikal (krim 1%, kelas Elidel) | Teks indikasi terperinci tidak direkodkan dalam set data kawal selia semasa; pendaftaran disahkan aktif (Dipasarkan) |
-
-> **Nota:** Pertanyaan NPRA Malaysia mengesahkan 1 pendaftaran aktif untuk pimecrolimus. Nama produk terperinci, nombor lesen, dan teks indikasi yang diluluskan memerlukan pengesahan terus daripada pangkalan data produk NPRA atau sisipan pakej berdaftar.
+Pimecrolimus tidak dipasarkan di Malaysia dan tiada pendaftaran direkodkan.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Data amaran sisipan paket terperinci, kontraindikasi, dan maklumat interaksi ubat tidak ditangkap dalam Pek Bukti ini. Berdasarkan farmakologi yang telah ditetapkan dan literatur terbitan, yang berikut adalah pertimbangan keselamatan yang relevan secara klinis untuk pimecrolimus:
+- **Penyakit berkaitan kontraindikasi (daripada graf pengetahuan TxGNN, bukan teks label):** ketuat biasa, epidermodysplasia verruciformis, jangkitan human papillomavirus anogenital, jangkitan herpes simplex, penyakit sistem limfatik, mononukleosis berjangkit, sindrom jangkitan Epstein-Barr kronik, herpes zoster, cacar air, dermatitis herpes simplex, sindrom Netherton dan ichthyosis linearis circumflexa.
+- **Interaksi Ubat:** 100 interaksi direkodkan, tetapi tahap keterukan tidak diketahui. Antaranya termasuk fenterminin, pantoprazol, doksisiklin, metformin, omeprazol, triamsinolon, prednison, simvastatin, hidrokortison dan budesonid.
+- **Langkah kawalan kelas ubat:** perencat kalsineurin topikal mempunyai amaran kotak berkaitan keselamatan jangka panjang (kebimbangan keganasan). Penggunaannya harus terhad kepada rawatan lini kedua, jangka pendek atau berselang-seli, serta dielakkan pada kanak-kanak yang sangat kecil mengikut had pelabelan.
 
-- **Amaran Kotak Hitam (FDA):** Keselamatan jangka panjang penghambat kalsineurin topikal, termasuk pimecrolimus, belum ditetapkan. Penggunaan harus dihadkan kepada terapi barisan kedua; penggunaan berterusan jangka panjang harus dielakkan. Risiko teori keganasan (kanser kulit, limfoma) telah dikenal pasti dalam pengawasan selepas pemasaran, bagaimanapun tinjauan sistematik dan meta-analisis 2023 (*Lancet Child & Adolescent Health*, PMID 36370744) mendapati tiada peningkatan statistik yang signifikan dalam risiko kanser.
-- **Reaksi Tapak Aplikasi:** Pembakaran, sengatan, dan pruritus di tapak aplikasi adalah kesan sampingan yang paling biasa, terutamanya pada aplikasi awal.
-- **Reaksi Flushing Alkohol:** Pengambilan alkohol serentak mungkin menyebabkan flushing wajah sementara dan kerengsaan kulit di tapak aplikasi.
-- **Risiko Jangkitan:** Pimecrolimus mengurangkan pengawasan imun tempatan; berhati-hati diperlukan pada pesakit dengan jangkitan kulit aktif, termasuk tinea (risiko tinea tersembunyi dengan persembahan atipikal).
-- **Kontraindikasi:** Hipersensitiviti yang diketahui kepada pimecrolimus atau sebarang bahan tambahan; sindrom Netherton; eritrodermia umum.
-
-Sila sahkan senarai kontraindikasi lengkap dan amaran semasa dalam sisipan paket berdaftar Malaysia (jururawat/SmPC).
+Amaran dan kontraindikasi daripada sisip bungkusan tidak tersedia; sila rujuk sisip bungkusan.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Lanjutkan dengan Penjaga**
+**Keputusan: Proceed with Guardrails (Teruskan dengan Langkah Kawalan)**
 
 **Rasional:**
-Penggunaan pimecrolimus untuk dermatitis seboroik adalah asas yang mekanistik baik dan disokong oleh beberapa tinjauan sistematik, dua ujian rawak terkontrol terus, dan satu ujian Fasa 2 yang selesai (NCT00403559). Mekanisme penghambat kalsineurin secara terus menangani patologi inflamasi yang dimediasi sel T bagi dermatitis seboroik, dan kelebihan keselamatan yang telah ditetapkan ubat berbanding kortikosteroid topikal (tiada atrofi kulit, sesuai untuk penggunaan wajah jangka panjang) mewakili kelebihan klinis yang bermakna bagi keadaan berulang kronik ini yang menjejaskan wajah dan kulit kepala.
+- Terdapat satu ujian Fasa 2 yang selesai secara langsung dalam dermatitis seborea, disokong dua kajian sistematik RCT yang melaporkan keberkesanan setanding kortikosteroid dan toleransi baik. Namun bukti pengesahan Fasa 3 belum ada dan ubat ini tidak dipasarkan di Malaysia.
 
-**Untuk meneruskan, yang berikut diperlukan:**
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisip bungkusan NPRA (amaran dan kontraindikasi), yang merupakan jurang data penyekat untuk saringan keselamatan.
+- Data mekanisme tindakan terperinci daripada DrugBank.
+- Ujian terkawal rawak yang lebih besar dan lebih panjang dalam dermatitis seborea.
+- Pelan pemantauan keselamatan jangka panjang (terutamanya risiko keganasan) dan semakan status pendaftaran serta formulasi topikal untuk pasaran Malaysia.
 
-- **Sahkan indikasi berdaftar Malaysia:** Ambil teks indikasi yang diluluskan daripada sisipan paket berdaftar NPRA untuk menentukan sama ada dermatitis seboroik sudah pun tertutup atau merupakan penggunaan luar label yang benar di Malaysia.
-- **Dapatkan data keselamatan lengkap:** Muat turun dan huraikan SmPC/sisipan paket berdaftar Malaysia untuk melengkapkan profil amaran dan kontraindikasi (kini menghalang penilaian keselamatan formal).
-- **Pengesahan bentuk dos:** Sahkan bahawa produk yang didaftar semasa di Malaysia ialah krim pimecrolimus 1% (formulasi yang dikaji dalam semua ujian relevan), dan bahawa laluan aplikasi topikal tercakup.
-- **Penilaian farmakoekonomik:** Nilaikan daya saing kos berbanding ketokonazol dan kortikosteroid topikal potensi rendah, yang merupakan piawai penjagaan semasa di Malaysia untuk dermatitis seboroik.
-- **Ulasan laluan kawal selia:** Tentukan sama ada permohonan lanjutan label kepada NPRA diperlukan atau sama ada indikasi dermatitis yang luas semasa merangkumi dermatitis seboroik.
+---
 
+### Nota Tambahan: Indikasi Lain yang Diramal
+
+- **Dermatitis (am):** skor 99.37%, tahap bukti L1. Kategori ini sebahagian besarnya bertindih dengan indikasi asal (ekzema atopik), jadi lebih kepada pengesahan penggunaan sedia ada daripada pengalihan guna sebenar. Terdapat beberapa ujian Fasa 3 yang selesai (contohnya dermatitis tangan kronik, n=652; dermatitis perioral, n=124) serta RCT 5 tahun pada bayi (PMID 25802354).
+- **Exanthem:** skor 99.32%, tahap bukti L2, dengan syor penyelidikan. Ujian tertumpu pada keadaan berbeza (liken planus oral, liken sklerosus vulva, ruam akibat perencat EGFR) dan semuanya kecil.
+- **Acrodermatitis chronica atrophicans:** skor 99.01%, tahap bukti L5, keputusan Hold. Tiada bukti klinikal atau literatur, dan imunosupresi tidak mempunyai rasional jelas untuk manifestasi lewat borreliosis Lyme.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

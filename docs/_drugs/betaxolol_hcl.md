@@ -2,7 +2,7 @@
 layout: default
 title: Betaxolol Hcl
 parent: Low Evidence (L4-L5)
-nav_order: 139
+nav_order: 144
 evidence_level: L5
 indication_count: 0
 ---

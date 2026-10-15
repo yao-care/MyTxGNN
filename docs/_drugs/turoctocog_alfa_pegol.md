@@ -2,7 +2,7 @@
 layout: default
 title: Turoctocog Alfa Pegol
 parent: Low Evidence (L4-L5)
-nav_order: 675
+nav_order: 708
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,64 +29,91 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Turoctocog Alfa Pegol: Daripada Hemofilia A kepada Gangguan Pelepasan Primer Plat
+# Turoctocog Alfa Pegol: Daripada Hemofilia kepada Gangguan Pembebasan Primer Platelet
 
 ## Ringkasan Satu Ayat
 
-Turoctocog alfa pegol (DrugBank DB14738) ialah produk penggantian Faktor VIII yang tersusun semula dan dipegil, dirujuk dalam pakej bukti sebagai diluluskan untuk kekurangan Faktor VIII bawaan (Hemofilia A). Model TxGNN meramalkan bahawa ia mungkin berkesan untuk **Gangguan Pelepasan Primer Plat**, tetapi arah ini pada masa ini disokong oleh **0 percubaan klinikal** dan **0 penerbitan**, dan anotasi mekanik model itu sendiri menandakan tiada pautan farmakologi langsung antara dua keadaan tersebut.
+Turoctocog alfa pegol ialah faktor VIII (FVIII) rekombinan berPEG yang pada asalnya digunakan untuk merawat hemofilia, termasuk bentuk bergejala hemofilia pada wanita pembawa.
+Model TxGNN meramalkan ia mungkin berkesan untuk **gangguan pembebasan primer platelet** (*primary release disorder of platelets*), tetapi **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong ramalan ini setakat ini.
+
+---
 
 ## Gambaran Keseluruhan Pantas
 
-| Item | Kandungan |
-|------|----------|
-| Petunjuk Asal | Tidak direkodkan secara rasmi dalam dataset ini (`original_indications` kosong; teks petunjuk lesen NPRA juga kosong). Teks rasional di tempat lain dalam pakej mengenal pasti kelas ubat sebagai terapi penggantian kekurangan Faktor VIII bawaan (Hemofilia A). |
-| Petunjuk Baru yang Diramalkan | Gangguan pelepasan primer plat |
-| Skor Ramalan TxGNN | 99.9966% |
-| Tahap Bukti | L5 (ramalan model sahaja, tiada sokongan klinikal atau literatur) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 4 |
-| Keputusan yang Disyorkan | Tahan |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Hemofilia; bentuk bergejala hemofilia pada wanita pembawa (berdasarkan graf pengetahuan TxGNN) |
+| Indikasi Baharu yang Diramalkan | Gangguan pembebasan primer platelet |
+| Skor Ramalan TxGNN | 99.997% |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci untuk turoctocog alfa pegol ditandai sebagai jurang data dalam pakej bukti ini (DG002, keterukan tinggi). Berdasarkan maklumat yang tersedia, beberapa anotasi rasional model itu sendiri menggambarkan ubat ini sebagai terapi penggantian Faktor VIII yang tersusun semula dan dipegil, ditunjukkan untuk kekurangan Faktor VIII bawaan (Hemofilia A) — gangguan lata pembekuan yang diperbetulkan oleh penggantian faktor pembekuan eksogen.
+Data terperinci tentang mekanisme tindakan (MOA) belum tersedia. Berdasarkan maklumat yang diketahui, turoctocog alfa pegol ialah terapi penggantian FVIII rekombinan yang dipanjangkan separuh hayatnya melalui PEGilasi. Ia digunakan untuk menggantikan FVIII yang kurang pada hemofilia A.
 
-Gangguan pelepasan primer plat, bagaimanapun, ialah kerosakan **fungsi** plat (pelepasan granula terganggu, contohnya penyakit kolam penyimpanan delta/alfa), bukan kekurangan faktor pembekuan. Anotasi mekanik pakej bukti sendiri untuk calon ini menyatakan dengan jelas bahawa terdapat "tiada persatuan mekanik langsung" antara patologi pelepasan granula plat dan penggantian Faktor VIII. Ini mencadangkan bahawa skor TxGNN yang sangat tinggi kemungkinan besar mencerminkan kedekatan topologi graf antara gangguan plat dan gangguan pembekuan dalam graf pengetahuan, dan bukannya rasional farmakologi yang terbukti.
+Namun, gangguan pembebasan primer platelet ialah kecacatan fungsi platelet (rembesan granul terjejas), bukan kekurangan FVIII. Penambahan FVIII tidak akan membetulkan kecacatan asas ini. Skor TxGNN yang tinggi berkemungkinan besar merupakan artifak kedekatan rangkaian akibat anotasi hemostasis/gangguan pendarahan yang dikongsi. Secara keseluruhan, hubungan mekanistik adalah **lemah**.
 
-Memandangkan ini, ramalan harus dibaca sebagai isyarat penjanaan hipotesis daripada calon yang berasaskan mekanik, selaras dengan tahap bukti L5 dan cadangan Tahan yang telah diperuntukkan dalam data sumber.
+Sebagai tambahan, sembilan ramalan lain dalam senarai teratas juga tidak mempunyai bukti sokongan:
+
+| Kedudukan | Penyakit Diramalkan | Skor TxGNN | Penilaian Mekanistik Ringkas |
+|------|------|------|------|
+| 2 | Penyakit pseudo-von Willebrand | 99.996% | Hubungan longgar melalui VWF yang menstabilkan FVIII, tetapi kecacatan utama pada platelet (GPIbα) |
+| 3 | Trombastenia Glanzmann | 99.996% | Kecacatan integrin αIIbβ3; FVIII tidak menyasarkan kecacatan agregasi |
+| 4 | Kekurangan faktor pembekuan terakuisisi | 99.974% | Paling munasabah secara mekanistik, tetapi sering berbilang faktor atau dimediasi perencat; kategori tidak spesifik |
+| 5 | Sindrom Scott | 99.973% | Kecacatan permukaan membran (TMEM16F/ANO6); FVIII tambahan tidak memulihkan fungsi |
+| 6 | Diatesis pendarahan akibat kecacatan reseptor kolagen | 99.949% | Masalah reseptor platelet, tidak berkaitan paras FVIII |
+| 7 | Gangguan hemoragik akibat trombositopenia konstitusi | 99.948% | Bergantung kepada sokongan platelet dan agen trombopoietik |
+| 8 | "Flood factor deficiency" | 99.752% | Istilah tidak jelas, mungkin artifak nomenklatur; perlu resolusi entiti |
+| 9 | Trombositosis keturunan dengan kecacatan anggota melintang | 99.694% | Fenotip protrombotik; pemberian faktor prokoagulan tidak sesuai dan berpotensi berbahaya |
+| 10 | Trombositopenia aloimun janin dan neonatal | 99.693% | Mekanisme imun; rawatan ialah IVIG, steroid dan platelet serasi |
+
+---
 
 ## Bukti Percubaan Klinikal
 
-Pada masa ini tiada percubaan klinikal terkait yang didaftarkan.
+Setakat ini tiada percubaan klinikal berkaitan yang didaftarkan.
+
+---
 
 ## Bukti Literatur
 
-Pada masa ini tiada literatur terkait yang tersedia.
+Setakat ini tiada literatur berkaitan yang tersedia.
+
+---
 
 ## Maklumat Pasaran Malaysia
 
-Rekod NPRA menunjukkan turoctocog alfa pegol sebagai dipasarkan di Malaysia dengan **4 pendaftaran aktif**. Namun, butiran lesen individu (nombor kelulusan, nama produk, bentuk dos, teks petunjuk yang diluluskan) tidak diisi dalam dataset semasa dan tidak dapat ditabelkan.
+Produk ini tidak dipasarkan di Malaysia dan tiada kebenaran pendaftaran direkodkan.
+
+---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk risalah bungkusan untuk maklumat keselamatan.
+Sila rujuk sisipan pakej untuk maklumat keselamatan. Tiada data interaksi ubat yang ditemui dalam data yang dikumpulkan untuk laporan ini.
 
-*(Nota: Data `key_warnings`, `contraindications`, dan DDI semuanya tidak tersedia dalam pakej bukti ini — DG001, Keterukan Sekatan — yang dengan sendirinya menghalang kemajuan ke peringkat pra-penilaian keselamatan S1.)*
+Satu catatan keselamatan berasaskan mekanisme: bagi ramalan nombor 9 (trombositosis keturunan), pemberian faktor prokoagulan berpotensi membahayakan kerana fenotip yang cenderung kepada trombosis.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
-**Rasional:**
-Ramalan disokong hanya oleh skor model TxGNN (L5, tiada percubaan klinikal atau literatur), dan anotasi mekanik pakej bukti itu sendiri menunjukkan tiada pautan farmakologi langsung antara penggantian Faktor VIII dan gangguan pelepasan granula plat. Jurang data berkadar keterukan Sekatan (amaran label TFDA/NPRA dan kontraindikasi) juga menghalang sebarang pra-penilaian keselamatan pada masa ini.
+**Justifikasi:**
+- Semua ramalan berada pada tahap bukti L5 (ramalan model sahaja) tanpa sebarang percubaan klinikal atau literatur, dan penggantian FVIII tidak menangani kecacatan platelet yang menjadi punca kebanyakan penyakit yang diramalkan. Produk ini juga tidak dipasarkan di Malaysia.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Risalah bungkusan TFDA/NPRA (amaran, kontraindikasi) — diperlukan sebelum sebarang pra-penilaian keselamatan (DG001, Sekatan)
-- Mekanisme tindakan yang disahkan daripada DrugBank atau literatur utama (DG002, Tinggi)
-- Teks petunjuk asal yang disahkan (pada masa ini hilang daripada kedua-dua `original_indications` dan rekod lesen NPRA)
-- Butiran lesen Malaysia yang lengkap (nombor kelulusan, nama produk, bentuk dos)
-- Bukti praklinikal atau mekanik bebas yang secara khusus menghubungkan aktiviti laluan Faktor VIII kepada fisiologi pelepasan granula plat, sebelum sebarang penerokaan klinikal dipertimbangkan
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) terperinci daripada DrugBank
+- Amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data berstatus penghalang untuk saringan keselamatan)
+- Carian literatur dan percubaan klinikal yang sistematik bagi setiap penyakit yang diramalkan
+- Pertimbangan khusus terhadap kekurangan faktor pembekuan terakuisisi (kedudukan 4), termasuk membezakan hemofilia terakuisisi (perencat) daripada punca lain
+- Resolusi entiti bagi istilah "flood factor deficiency" sebelum penilaian lanjut
+- Pengesahan status pendaftaran atau laluan akses produk di Malaysia
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

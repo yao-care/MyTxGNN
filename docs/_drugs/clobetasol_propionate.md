@@ -2,7 +2,7 @@
 layout: default
 title: Clobetasol Propionate
 parent: High Evidence (L1-L2)
-nav_order: 226
+nav_order: 231
 evidence_level: L1
 indication_count: 5
 ---
@@ -29,101 +29,102 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-# Clobetasol Propionate: Daripada Keadaan Kulit Responsif Kortikosteroid kepada Dermatitis
+# Clobetasol Propionate: Daripada Dermatitis Atopik kepada Dermatitis (Dermatitis Seboroik dan Dermatosis Kulit Kepala)
 
 ## Ringkasan Satu Ayat
 
-Clobetasol propionate adalah kortikosteroid topikal super-kuat yang telah digunakan secara luas untuk keadaan kulit yang responsif steroid. Model TxGNN menandakan **Dermatitis** sebagai petunjukan utama yang diprakirakan, dan arah ini kini disokong oleh **19 uji klinis** dan **20 penerbitan**. Oleh kerana clobetasol propionate sudah menjadi terapi andalan untuk keadaan spektrum dermatitis di kebanyakan pasaran, ramalan ini sebahagian besarnya mengesahkan penggunaan yang telah ditetapkan daripada mendedahkan isyarat penggunaan semula yang benar-benar baru.
+Clobetasol propionate ialah kortikosteroid topikal berkuasa super tinggi yang pada asalnya digunakan untuk pelbagai keadaan dermatitis, termasuk ekzema atopik, dermatitis sentuh dan dermatitis seboroik.
+Model TxGNN meramalkan ia berkesan untuk **dermatitis** (istilah umum), tetapi skor ramalan ialah **0.0%**, jadi sokongan sebenar datang daripada data klinikal: **8 ujian klinikal** dan **23 penerbitan** yang berkaitan dengan indikasi utama ini.
+Perlu diingat bahawa indikasi ramalan ini sebenarnya sudah termasuk dalam indikasi asal ubat tersebut.
 
 ---
 
-## Gambaran Keseluruhan Cepat
+## Gambaran Keseluruhan Ringkas
 
 | Perkara | Kandungan |
 |------|------|
-| Petunjukan Asal | Tidak ditentukan dalam pakej bukti (teks petunjukan lesen NPRA dan `original_indications` kedua-duanya kosong); secara umum dikenali sebagai kortikosteroid topikal super-kuat untuk dermatosis responsif kortikosteroid |
-| Petunjukan Baru yang Diprakirakan | Dermatitis |
-| Skor Prakiraan TxGNN | 0.00% (seperti yang dikembalikan dalam pakej bukti — nilai ini memerlukan semakan kualiti data sebelum digunakan dalam penilaian) |
+| Indikasi Asal | Ekzema atopik, dermatitis atopik, dermatitis sentuh, dermatitis pekerjaan, dermatitis seboroik, dermatosis kulit kepala (daripada graf pengetahuan TxGNN; tiada lesen NPRA tersedia) |
+| Indikasi Baharu yang Diramalkan | Dermatitis |
+| Skor Ramalan TxGNN | 0.0% |
 | Tahap Bukti | L1 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 28 |
-| Keputusan yang Disyorkan | Teruskan dengan Pengawal |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Perlindungan) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan terperinci tidak tersedia (Jurang Data DG002). Berdasarkan maklumat yang diketahui, Clobetasol propionate termasuk dalam kelas kortikosteroid topikal super-kuat (Kelas I). Keberkesanannya dalam dermatosis responsif kortikosteroid — termasuk dermatitis atopi, psoriasis, dan lichen sclerosus vulva — telah ditegakkan dengan baik dalam kesusasteraan dermatologi, dan secara mekanistik tindakan anti-radang, imunopenindas, dan antimitotiknya pada sel epidermal berlaku secara langsung kepada dermatitis radang.
+Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan. Namun, berdasarkan maklumat farmakologi yang diketahui, clobetasol propionate ialah kortikosteroid topikal berkuasa super tinggi yang mengikat reseptor glukokortikoid (NR3C1). Pengikatan ini menekan transkripsi gen pro-radang (laluan NF-kB/AP-1, sitokin dan perencatan fosfolipase A2), selaras dengan kesan anti-radang, imunosupresif dan antimitotiknya.
 
-Hubungan antara penggunaan asal dan petunjukan yang diprakirakan adalah rapat daripada jauh: dermatitis adalah keadaan kulit radang responsif kortikosteroid, kategori farmakoloji yang sama yang clobetasol sudah rawat. Rasional pakej bukti itu sendiri untuk ramalan ini mengakui ini secara langsung: *"'Dermatitis' adalah kategori luas yang sejajar rapat dengan farmakoloji inti clobetasol — ini pada asasnya berada dalam skop petunjukan sediaadanya daripada hipotesis pengguna semula yang benar-benar baru, walaupun kualiti bukti cukup untuk menyokongnya."*
+Dermatitis merupakan istilah payung bagi penyakit kulit radang yang responsif terhadap steroid, dan ia sudah termasuk dalam indikasi asal ubat ini. Oleh itu, "ramalan" ini lebih bersifat pengesahan indikasi sedia ada berbanding penemuan baharu. Skor TxGNN 0.0% bermakna model tidak memberi sokongan tambahan; kemunasabahan ramalan bergantung sepenuhnya pada data klinikal.
 
-Dalam terma praktikal, calon ini perlu dibaca kurang sebagai "hipotesis terapeutik baru" dan lebih sebagai "pengesahan penggunaan yang ditetapkan, bernilai disahkan terhadap label yang diluluskan NPRA sebenarnya" — yang sama sekali mengapa data label yang hilang (DG001) adalah item terbuka kritikal di bawah.
+Subjenis yang mempunyai bukti terkuat ialah dermatitis seboroik kulit kepala (ujian Fasa 3) dan dermatitis atopik (RCT berbanding kenderaan). Dermatosis kulit kepala lain, seperti psoriasis kulit kepala, juga responsif kepada mekanisme yang sama.
 
 ---
 
-## Bukti Uji Klinis
+## Bukti Ujian Klinikal
 
-| Nombor Uji | Fasa | Status | Pendaftaran | Penemuan Utama |
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT01323673](https://clinicaltrials.gov/study/NCT01323673) | Fasa 4 | Selesai | 125 | Busa clobetasol propionate bebas etanol 0.05% berbanding busa kenderaan untuk dermatitis tangan kronik |
-| [NCT00862654](https://clinicaltrials.gov/study/NCT00862654) | Fasa 3 | Selesai | 326 | Syampu clobetasol propionate 0.05% digabungkan dengan syampu antijamur untuk dermatitis seborrhoeik kulit kepala sederhana hingga teruk |
-| [NCT01591785](https://clinicaltrials.gov/study/NCT01591785) | T/A | Selesai | 60 | Merawat kolonisasi S. aureus dalam eksema tangan untuk mengurangkan keterukan penyakit |
-| [NCT02376049](https://clinicaltrials.gov/study/NCT02376049) | Fasa 1 | Selesai | 30 | Perbandingan dalam-pesakit agen topikal dalam dermatitis atopi ringan hingga sederhana |
-| [NCT00828464](https://clinicaltrials.gov/study/NCT00828464) | Fasa 4 | Selesai | 30 | Keselamatan terbuka-label, keberkesanan, dan tolerabiliti busa clobetasol propionate dalam dermatitis tangan kronik |
-| [NCT01870050](https://clinicaltrials.gov/study/NCT01870050) | T/A | Tidak diketahui | 20 | Steroid topikal/kenderaan berbanding kombinasi steroid/dapson dalam lichen simplex chronicus dan prurigo nodularis |
-| [NCT01987076](https://clinicaltrials.gov/study/NCT01987076) | T/A | Tidak diketahui | 112 | Strategi rawatan kortikosteroid dalam sindrom DRESS |
-| [NCT02573883](https://clinicaltrials.gov/study/NCT02573883) | Fasa 3 | Selesai | 52 | Salap clobetasol propionate 0.05% berbanding laser CO2 berfraksion untuk lichen sclerosus vulva |
-| [NCT03847389](https://clinicaltrials.gov/study/NCT03847389) | Fasa 1/2 | Ditamatkan | 8 | Farmakokinetik dan keselamatan penindasan paksi HPA minyak topikal clobetasol dalam dermatitis atopi sederhana hingga teruk pediatrik |
-| [NCT06120140](https://clinicaltrials.gov/study/NCT06120140) | Fasa 2 | Merekrut | 300 | Pengurusan dermatologi yang dipertingkat berbanding standard bagi acara buruk kulit berkaitan EGFR-inhibitor (relevansi tidak langsung) |
-
-*9 uji berdaftar tambahan wujud dalam data sumber tetapi adalah relevansi/status lebih rendah (ditarik balik, tidak diketahui, atau hanya terhubung secara tangensial) dan telah ditinggalkan mengikut peraturan top-10.*
+| [NCT00862654](https://clinicaltrials.gov/study/NCT00862654) | Fasa 3 | Selesai | 326 | Syampu clobetasol 0.05% bersama syampu antikulat dalam dermatitis seboroik kulit kepala sederhana-teruk; bukti langsung Fasa 3 |
+| [NCT01323673](https://clinicaltrials.gov/study/NCT01323673) | Fasa 4 | Selesai | 125 | Buih clobetasol bebas etanol 0.05% (Olux-E) berbanding buih kenderaan dalam dermatitis tangan kronik |
+| [NCT00828464](https://clinicaltrials.gov/study/NCT00828464) | Fasa 4 | Selesai | 30 | Kajian label terbuka tentang keselamatan, keberkesanan dan toleransi buih clobetasol dalam dermatitis tangan kronik; kecil dan tidak terkawal |
+| [NCT03847389](https://clinicaltrials.gov/study/NCT03847389) | Fasa 1/2 | Ditamatkan | 8 | Farmakokinetik dan penekanan paksi HPA bagi minyak topikal clobetasol pada kanak-kanak dengan dermatitis atopik; memberi isyarat keselamatan, maklumat keberkesanan terhad |
+| [NCT02376049](https://clinicaltrials.gov/study/NCT02376049) | Fasa 1 | Selesai | 30 | Perbandingan intra-pesakit ejen topikal dalam dermatitis atopik ringan-sederhana; bersifat penerokaan |
+| [NCT03983460](https://clinicaltrials.gov/study/NCT03983460) | Tidak berkenaan | Tidak diketahui | 20 | Kesan dupilumab terhadap sel T memori residen kulit; clobetasol sebagai elemen perbandingan, bukan reka bentuk menilai keberkesanannya |
+| [NCT03779360](https://clinicaltrials.gov/study/NCT03779360) | Tidak berkenaan | Selesai | 32 | Kesan anti-radang antibiotik topikal dalam model cabaran LPS kulit; clobetasol berkemungkinan kawalan positif |
+| [NCT01381445](https://clinicaltrials.gov/study/NCT01381445) | Fasa 1 | Selesai | 20 | Potensi penipisan kulit GW870086 topikal; clobetasol 0.05% sebagai pembanding |
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [24672120](https://pubmed.ncbi.nlm.nih.gov/24672120/) | 2005 | RCT | Curr Ther Res Clin Exp | Keberkesanan relatif dan kebolehtukar berbagai kenderaan clobetasol propionate dalam dermatosis responsif steroid |
-| [18806904](https://pubmed.ncbi.nlm.nih.gov/18806904/) | 2008 | Ulasan | Drugs of Today | Gambaran keseluruhan penggunaan clobetasol propionate merentasi dermatitis atopi, psoriasis, dan lichen sclerosus |
-| [3528243](https://pubmed.ncbi.nlm.nih.gov/3528243/) | 1986 | Ulasan | J Am Acad Dermatol | Semakan keberkesanan klinis dan keselamatan clobetasol-17-propionate topikal |
-| [20672788](https://pubmed.ncbi.nlm.nih.gov/20672788/) | 2010 | Ulasan | Am Fam Physician | Diagnosis dan pengurusan dermatitis kenalan |
-| [30145645](https://pubmed.ncbi.nlm.nih.gov/30145645/) | 2019 | Ulasan | Clin Rev Allergy Immunol | Dermatitis kenalan terhadap ubat-ubatan dan produk kulit, termasuk alergi kenalan kortikosteroid |
-| [30222987](https://pubmed.ncbi.nlm.nih.gov/30222987/) | 2019 | Kohort | J Am Acad Dermatol | Praperlakuan clobetasol untuk mengurangkan/mencegah dermatitis tapak suntikan dari agen biologi |
-| [19454093](https://pubmed.ncbi.nlm.nih.gov/19454093/) | 2007 | Tidak Diklasifikasi | BMJ Clin Evid | Gambaran keseluruhan dermatitis seborrhoeik — mekanisme radang yang didorong Malassezia |
-| [32462741](https://pubmed.ncbi.nlm.nih.gov/32462741/) | 2020 | Laporan Kes | Contact Dermatitis | Dermatitis kenalan alergi yang disebabkan oleh clobetasol propionate dan lanoconazole |
-| [35214115](https://pubmed.ncbi.nlm.nih.gov/35214115/) | 2022 | Tidak Diklasifikasi | Pharmaceutics | Kemas kini sistem penghantaran derma baru untuk clobetasol propionate |
-| [9542676](https://pubmed.ncbi.nlm.nih.gov/9542676/) | 1998 | Tidak Diklasifikasi (reka bentuk RCT buta-ganda) | Int J Dermatol | Uji buta-ganda 4 minggu krim emolien clobetasol propionate 0.05% berbanding kenderaan dalam dermatitis atopi |
-
-*10 penerbitan tambahan wujud dalam data sumber dengan abstrak menunggu klasifikasi/penilaian relevansi dan telah ditinggalkan mengikut peraturan top-10.*
+| [21707573](https://pubmed.ncbi.nlm.nih.gov/21707573/) | 2011 | RCT | Br J Dermatol | Syampu clobetasol 0.05% bersama syampu ketoconazole 2% cekap dan selamat dalam dermatitis seboroik kulit kepala sederhana-teruk |
+| [17569404](https://pubmed.ncbi.nlm.nih.gov/17569404/) | 2007 | RCT (kajian perintis) | Cutis | Keberkesanan dan keselamatan syampu clobetasol 0.05% dalam dermatitis seboroik kulit kepala |
+| [9542676](https://pubmed.ncbi.nlm.nih.gov/9542676/) | 1998 | RCT | Int J Dermatol | Krim emolien clobetasol 0.05% berbanding kenderaan selama 4 minggu pada 81 pesakit dermatitis atopik sederhana-teruk |
+| [3902682](https://pubmed.ncbi.nlm.nih.gov/3902682/) | 1985 | RCT | Int J Dermatol | Krim clobetasol berbanding fluocinonide dalam psoriasis dan ekzema (227 pesakit) |
+| [15898289](https://pubmed.ncbi.nlm.nih.gov/15898289/) | 2005 | RCT | J Drugs Dermatol | Losyen clobetasol berbanding krim emolien dan kenderaan pada 229 subjek dermatitis atopik |
+| [18806904](https://pubmed.ncbi.nlm.nih.gov/18806904/) | 2008 | Ulasan | Drugs Today | Clobetasol ialah steroid topikal paling kuat; digunakan untuk dermatitis atopik, psoriasis dan lichen sclerosus, terutamanya simptomatik |
+| [31025714](https://pubmed.ncbi.nlm.nih.gov/31025714/) | 2019 | Ulasan sistematik | Cochrane Database Syst Rev | Intervensi untuk ekzema tangan |
+| [31424707](https://pubmed.ncbi.nlm.nih.gov/31424707/) | 2019 | Ulasan | J Drugs Dermatol | Keberkesanan dan keselamatan buih kortikosteroid topikal |
+| [41379754](https://pubmed.ncbi.nlm.nih.gov/41379754/) | 2026 | Kajian pemodelan | Dermatology | Pemodelan kesan clobetasol terhadap kortisol beredar dan kelajuan pertumbuhan kanak-kanak dengan dermatitis atopik |
+| [32045171](https://pubmed.ncbi.nlm.nih.gov/32045171/) | 2019 | Laporan kes | Dermatol Online J | Semburan clobetasol 0.05% berkesan untuk dermatitis sentuh alergi akibat peranti pemantauan glukosa |
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Detail tahap lesen (nombor kebenaran, nama produk, bentuk dos, teks petunjukan) **tidak dikembalikan** dalam pelukis data ini — semua 5 rekod lesen sampel dalam pakej bukti mempunyai medan kosong. Yang disahkan: rekod NPRA menunjukkan **28 pendaftaran aktif** di bawah status pasaran **Dipasarkan (Marketed)**. Detail tahap lesen harus dipertanyakan semula daripada NPRA sebelum laporan ini digunakan untuk tujuan kawal selia.
+Menurut data yang dikumpulkan, tiada lesen NPRA berdaftar untuk bahan ini (status: tidak dipasarkan; jumlah lesen: 0). Oleh itu, tiada jadual lesen dipaparkan.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan paket untuk maklumat keselamatan. (Data amaran utama, kontraindikasi, dan DDI semuanya dikembalikan sebagai Jurang Data dalam pelukis ini — DG001 ditandakan sebagai **Menyekat** untuk prapenilaian keselamatan.)
+- **Penyakit yang disenaraikan sebagai kontraindikasi dalam graf pengetahuan (bukan teks label)**: hiperglisemia, diabetes mellitus, ketoasidosis diabetik, insufisiensi adrenokortikal, penyakit Addison, folikulitis, dermatitis seboroik, glaukoma, atrofi kulit, penyakit vaskular periferi, klaudikasio berselang-seli dan penyakit arteri periferi. Perhatikan bahawa dermatitis seboroik turut muncul dalam senarai ini sekaligus indikasi asal, jadi percanggahan ini perlu disahkan semasa semakan label.
+- **Interaksi / farmakologi**: Interaksi ubat-ubat tidak dikenal pasti. Satu entri farmakologi sahaja dikesan, iaitu pengikatan pada reseptor glukokortikoid (NR3C1).
+- **Isyarat keselamatan daripada literatur dan ujian**: risiko penekanan paksi HPA, penipisan/atrofi kulit, dan penyerapan sistemik, terutamanya pada kanak-kanak dan penggunaan meluas (NCT03847389; PMID 41379754, 40641358). Dermatitis sentuh alergi terhadap clobetasol atau bahan dalam kenderaannya turut dilaporkan (PMID 32462741, 37133477).
+
+Amaran utama dan kontraindikasi daripada sisipan pakej NPRA tidak tersedia; sila rujuk sisipan pakej produk.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Teruskan dengan Pengawal**
+**Keputusan: Proceed with Guardrails (Teruskan dengan Langkah Perlindungan)**
 
-**Rasional:**
-Asas bukti untuk dermatitis adalah kuat (L1: berbilang uji Fasa 3/4 yang diselesaikan secara langsung menilai clobetasol propionate dalam keadaan spektrum dermatitis), tetapi ini paling baik difahami sebagai pengesahan penggunaan yang sudah ditetapkan daripada peluang penggunaan semula yang baru. Cadangan dihadkan pada "Pengawal" daripada "Pergi" kerana data label keselamatan yang diperlukan untuk prapenilaian keselamatan S1 hilang (DG001, Menyekat).
+**Justifikasi:**
+- Terdapat ujian Fasa 3 (dermatitis seboroik kulit kepala, n=326) dan beberapa RCT dermatitis atopik serta seboroik yang menyokong keberkesanan, dan indikasi ini sudah termasuk dalam indikasi asal. Walau bagaimanapun, skor TxGNN 0.0% tidak memberi sokongan ramalan, ubat ini tidak dipasarkan di Malaysia, dan ujian dermatitis atopik yang ada kebanyakannya awal atau kecil.
+- Untuk subjenis, dermatitis seboroik (L1, Fasa 3 dan RCT) dan dermatitis atopik (L2) mempunyai sokongan lebih kukuh; dermatosis kulit kepala (L3) bersandarkan literatur; keratosis seboroik (L5, Hold) tiada sebarang bukti dan nampaknya hasil kekeliruan nama dengan dermatitis seboroik.
 
-**Untuk teruskan, perkara berikut diperlukan:**
-- Sisipan produk NPRA (amaran, kontraindikasi) — ambil dan huraikan PDF label (DG001, Menyekat)
-- Pengesahan mekanisme-tindakan DrugBank (DG002, Tinggi)
-- Teks petunjukan tahap lesen daripada NPRA untuk mengesahkan sama ada "dermatitis" sudah berada dalam label yang diluluskan (akan mengklasifikasi semula ini daripada calon penggunaan semula kepada semakan konsistensi label)
-- Semakan kualiti data pada medan skor TxGNN, yang mengembalikan 0.0 merentasi semua lima petunjukan berpangkat dalam pakej ini
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisipan pakej NPRA (amaran dan kontraindikasi) bagi penilaian keselamatan; ini ialah jurang data yang menyekat.
+- Data mekanisme tindakan terperinci (MOA) daripada DrugBank.
+- Pengesahan status pendaftaran dan ketersediaan produk di Malaysia, termasuk bentuk dos (krim, syampu, buih) yang sesuai.
+- Pelan pemantauan keselamatan: penggunaan jangka pendek atau berselang-seli, pemantauan atrofi kulit dan penekanan paksi HPA, serta langkah berjaga-jaga khas untuk kanak-kanak dan pesakit diabetes atau glaukoma.
+- Pengesahan jenis dermatitis tepat bagi NCT01323673 dan NCT00828464 kerana tajuknya terpotong.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

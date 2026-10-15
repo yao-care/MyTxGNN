@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Meloxicam
-parent: Low Evidence (L4-L5)
-nav_order: 470
-evidence_level: L5
+parent: High Evidence (L1-L2)
+nav_order: 491
+evidence_level: L1
 indication_count: 5
 ---
 
 # Meloxicam
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **5** 
+Tahap bukti: **L1** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,101 +29,120 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Meloxicam: Daripada Penggunaan NSAID yang Telah Tertanam kepada Osteoartritis (Isyarat Pengesahan, Bukan Calon Novel)
+# Meloxicam: Daripada Artritis Reumatoid kepada Osteoartritis
 
 ## Ringkasan Satu Ayat
 
-Meloxicam ialah NSAID selektif pilihan COX-2 yang telah digunakan untuk nyeri sendi yang meradang. Calon berpangkat teratas dalam saluran alur TxGNN untuk ubat ini ialah **Osteoartritis** — namun rasional dalam pakej bukti itu sendiri menandai ini sebagai pengenalan semula petunjuk yang sedia wujud dan telah diluluskan, bukan sebagai isyarat repurposing yang tulin, disokong oleh **35 percubaan klinikal** dan **20 penerbitan** dalam carian asas (dengan skor model TxGNN itu sendiri tercatat sebagai 0.0, yang harus dianggap sebagai bendera kualiti data, bukan hasil keyakinan sifar yang benar).
+Meloxicam ialah ubat antiradang bukan steroid (NSAID) yang bersifat perencat COX-2 secara keutamaan, pada asalnya digunakan untuk merawat artritis reumatoid dan osteoartritis.
+Model TxGNN meramalkan ia berkesan untuk **osteoartritis**, namun skor ramalan ialah 0.0%, dan ini sebenarnya indikasi sedia ada (penggunaan sebagai label), bukan pengitaran semula ubat yang sebenar.
+Bukti klinikal yang dikumpulkan adalah kukuh, dengan **21 ujian klinikal** dan **20 penerbitan** yang disenaraikan, termasuk beberapa ujian Fasa 3.
 
 ---
 
-## Gambaran Umum Ringkas
+## Gambaran Keseluruhan
 
 | Item | Kandungan |
 |------|------|
-| Petunjuk Asal | Osteoartritis / Artritis Reumatoid / Spondilitis Ankilotik (mengikut rasional repurposing — ini adalah petunjuk NSAID meloxicam yang dikenali dan telah diluluskan; tiada teks petunjuk peringkat lesen Malaysia tersedia untuk mengesahkan ini secara tempatan) |
-| Petunjuk Baharu yang Diramal | Osteoartritis |
-| Skor Ramalan TxGNN | 0.00% (tercatat sebagai 0.0 dalam data sumber — berkemungkinan anomali penilaian/eksport daripada ramalan hampir-sifar yang tulin; bendera untuk QA data) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 24 |
-| Keputusan yang Disyorkan | Teruskan dengan Pengawalan |
+| Indikasi Asal | Artritis reumatoid, osteoartritis, artritis juvana idiopatik, spondiloartropati (berdasarkan graf pengetahuan; tiada teks indikasi berlesen tersedia) |
+| Indikasi Baharu yang Diramalkan | Osteoartritis |
+| Skor Ramalan TxGNN | 0.0% |
+| Tahap Bukti | L1 |
+| Status Pasaran di Malaysia | Tidak dipasarkan (menurut data; perlu disahkan) |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Proceed with Guardrails |
+
+> **Nota:** Status "tidak dipasarkan" dan 0 pendaftaran bercanggah dengan jumlah besar data pasca-pemasaran serta ujian Fasa 3/4 bagi meloxicam. Maklumat ini perlu disahkan dengan NPRA.
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Meloxicam ialah NSAID pilihan COX-2 yang merencat sintesis prostaglandin, dengan itu mengurangkan radang sinovium dan nyeri. Ini ialah mekanisme farmakologi **asli, langsung** meloxicam — bukan sambungan mekanis novel yang ditemui oleh model.
+Data terperinci mengenai mekanisme tindakan asal tidak tersedia dalam data yang dikumpulkan. Berdasarkan maklumat yang diketahui, meloxicam ialah NSAID kelas oksikam dan perencat COX-2 secara keutamaan, terutamanya pada dos terapeutik terendah. Ia mengurangkan sintesis prostaglandin yang mendorong keradangan dan kesakitan sendi.
 
-Secara kritikal, rasional dalam pakej bukti itu sendiri menyatakan ini secara eksplisit: *"此為藥物原始核准適應症之直接藥理機轉，非老藥新用推論——本節屬於「既有適應症再確認」而非新候選"* (ini ialah mekanisme asli yang diluluskan ubat, bukan suatu inferens repurposing — calon ini ialah pengesahan semula petunjuk yang sedia wujud, bukan yang baharu). Perkara yang sama berlaku untuk calon berpangkat kedua, artritis reumatoid.
+Artritis reumatoid dan osteoartritis kedua-duanya melibatkan keradangan serta kesakitan sendi yang dimediasi prostaglandin. Pengurangan prostaglandin secara langsung relevan untuk kawalan gejala osteoartritis. Perlu diingat bahawa kesannya bersifat simptomatik dan tidak mengubah perjalanan penyakit.
 
-Untuk perbandingan, dua calon berpangkat lebih rendah dalam pakej bukti yang sama ini — "kerentanan osteoartritis" (suatu nod graf pengetahuan risiko genetik, bukan penyakit yang boleh dirawat) dan "artritis remaja disebabkan kecacatan LACC1" (suatu keadaan autoinflammasi monogenik yang jarang dengan tiada sambungan laluan COX-2) — telah diberi skor dengan betul sebagai **L5 / Pegangan**, tanpa sebarang percubaan atau literatur yang menyokong. Ini mencadangkan bahawa larian TxGNN asas untuk ubat ini tidak menampilkan calon yang benar-benar novel dengan asas mekanis di bahagian atas senarai; isyarat repurposing yang sebenar (jika ada) mungkin terletak di luar apa yang tertangkap di sini.
-
-Pada masa ini, dokumentasi mekanisme tindakan formal yang terperinci (medan DrugBank MOA) juga tidak tersedia untuk calon ini — ditandai sebagai jurang data Tinggi-keterukan (DG002) dalam pakej bukti.
+Skor TxGNN 0.0% tidak memberi sokongan ramalan tambahan. Namun, bukti klinikal langsung (ujian terkawal plasebo dan ujian perbandingan) menyokong penggunaan meloxicam dalam osteoartritis.
 
 ---
 
-## Bukti Percubaan Klinikal
+## Bukti Ujian Klinikal
 
-| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
+Berikut ialah ujian yang paling relevan untuk osteoartritis (maksimum 10):
+
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT00239395](https://clinicaltrials.gov/study/NCT00239395) | Fasa 3 | Selesai | 168 | IM vs. meloxicam 7.5mg oral sekali sehari dalam OA — perbandingan keberkesanan/keselamatan langsung berlabel (Gred A) |
-| [NCT01799213](https://clinicaltrials.gov/study/NCT01799213) | Fasa 2 | Selesai | 490 | Menghentikan NSAID (termasuk meloxicam) dalam veteran dengan OA lutut — berfokus risiko GI/CV (Gred B) |
-| [NCT02183064](https://clinicaltrials.gov/study/NCT02183064) | Fasa 3 | Selesai | 1309 | Meloxicam 7.5mg vs. NSAID penjagaan biasa dalam OA pinggul/lutut/tangan/tulang belakang — kejayaan/kegagalan rawatan dan penggunaan penjagaan kesihatan |
-| [NCT01787188](https://clinicaltrials.gov/study/NCT01787188) | Fasa 3 | Selesai | 403 | Kapsul Meloxicam SoluMatrix untuk nyeri OA lutut/pinggul — keberkesanan/keselamatan terkawal plasebo |
-| [NCT01801735](https://clinicaltrials.gov/study/NCT01801735) | Fasa 3 | Selesai | 600 | Kajian keselamatan 52 minggu kapsul Meloxicam SoluMatrix dalam OA lutut/pinggul |
-| [NCT02183129](https://clinicaltrials.gov/study/NCT02183129) | Fasa 4 | Selesai | 91 | Meloxicam 7.5mg vs. diclofenac 100mg SR dalam OA lutut selama 8 minggu |
-| [NCT02183116](https://clinicaltrials.gov/study/NCT02183116) | Fasa 4 | Selesai | 30 | Keberkesanan/keselamatan Meloxicam 7.5mg dalam OA lutut selama 56 hari |
-| [NCT01430559](https://clinicaltrials.gov/study/NCT01430559) | T/A | Selesai | 408 | Meloxicam vs. plasebo dalam pesakit OA lutut Cina daratan; pengesahan alat WOMAC |
-| [NCT02180516](https://clinicaltrials.gov/study/NCT02180516) | T/A | Selesai | 9984 | Kohort keselamatan observasi besar — kadar peristiwa buruk GI meloxicam vs. NSAID lain merentas keadaan RA/OA/berkaitan |
-| [NCT00612885](https://clinicaltrials.gov/study/NCT00612885) | T/A | Selesai | 425 | Kajian PMS Korea bagi suntikan IM Mobic® keselamatan/keberkesanan dalam pesakit OA dan RA |
+| [NCT01787188](https://clinicaltrials.gov/study/NCT01787188) | Fasa 3 | Selesai | 403 | Ujian rawak, double-blind, terkawal plasebo bagi kapsul Meloxicam SoluMatrix untuk kesakitan osteoartritis lutut/pinggul (tajuk terpotong; perlu pengesahan) |
+| [NCT01430559](https://clinicaltrials.gov/study/NCT01430559) | Tidak berkenaan | Selesai | 408 | Meloxicam (Mobic) berbanding plasebo dalam osteoartritis lutut di tanah besar China, termasuk pengesahan skala WOMAC |
+| [NCT02183064](https://clinicaltrials.gov/study/NCT02183064) | Fasa 3 | Selesai | 1,309 | Meloxicam 7.5 mg berbanding NSAID preskripsi penjagaan biasa dalam osteoartritis pinggul, lutut, tangan atau tulang belakang (label terbuka) |
+| [NCT00239395](https://clinicaltrials.gov/study/NCT00239395) | Fasa 3 | Selesai | 168 | Meloxicam 7.5 mg IM berbanding oral selama 7 hari dalam osteoartritis (label terbuka) |
+| [NCT01801735](https://clinicaltrials.gov/study/NCT01801735) | Fasa 3 | Selesai | 600 | Kajian keselamatan label terbuka kapsul Meloxicam SoluMatrix sehingga 52 minggu |
+| [NCT07549386](https://clinicaltrials.gov/study/NCT07549386) | Fasa 3 | Selesai | 123 | Etoricoxib + diacerein berbanding meloxicam + diacerein; meloxicam sebagai pembanding aktif |
+| [NCT02183129](https://clinicaltrials.gov/study/NCT02183129) | Fasa 4 | Selesai | 91 | Meloxicam 7.5 mg berbanding diclofenac 100 mg SR selama 8 minggu (label terbuka) |
+| [NCT02183116](https://clinicaltrials.gov/study/NCT02183116) | Fasa 4 | Selesai | 30 | Kajian label terbuka kecil meloxicam 7.5 mg dalam osteoartritis lutut |
+| [NCT02180516](https://clinicaltrials.gov/study/NCT02180516) | Tidak berkenaan | Selesai | 9,984 | Kajian kohort pemerhatian besar; keselamatan GI meloxicam berbanding NSAID lain |
+| [NCT02184052](https://clinicaltrials.gov/study/NCT02184052) | Tidak berkenaan | Selesai | 121 | Pengawasan pasca-pemasaran ampul Mobic untuk episod sakit akut osteoartritis dan keadaan berkaitan |
 
 ---
 
 ## Bukti Literatur
 
+Keutamaan diberikan kepada kajian manusia; kajian veterinar dan haiwan dikecualikan.
+
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [12387696](https://pubmed.ncbi.nlm.nih.gov/12387696/) | 2002 | Ulasan | Expert Opinion on Pharmacotherapy | Gambaran keseluruhan profil pilihan COX-2 meloxicam dan penggunaan lulusan dalam OA, RA, spondilitis ankilotik |
-| [32164967](https://pubmed.ncbi.nlm.nih.gov/32164967/) | 2020 | Ulasan | Profiles of Drug Substances, Excipients and Related Methodology | Profil bahan ubat yang komprehensif; mengesahkan OA/RA/spondilitis ankilotik/JIA sebagai petunjuk yang tertanam |
-| [18405470](https://pubmed.ncbi.nlm.nih.gov/18405470/) | 2008 | Ulasan Sistematik / Penilaian Teknologi Kesihatan | Health Technology Assessment | Ulasan sistematik dan penilaian ekonomi NSAID selektif COX-2 (termasuk meloxicam) untuk OA dan RA |
-| [8882380](https://pubmed.ncbi.nlm.nih.gov/8882380/) | 1996 | Ulasan | Drugs | Monograf asas yang menentapkan profil anti-radang meloxicam dalam RA dan OA |
-| [26963155](https://pubmed.ncbi.nlm.nih.gov/26963155/) | 2016 | Buletin Ubat | The Medical Letter on Drugs and Therapeutics | Penilaian bebas meloxicam dos-rendah (Vivlodex) untuk nyeri OA |
-| [23918578](https://pubmed.ncbi.nlm.nih.gov/23918578/) | 2013 | Kajian Klinikal | Yonsei Medical Journal | Keberkesanan kombinasi meloxicam + pregabalin untuk nyeri OA lutut |
-| [35399845](https://pubmed.ncbi.nlm.nih.gov/35399845/) | 2022 | Kajian Klinikal | Journal of Healthcare Engineering | Akupunktur hangat digabung dengan meloxicam untuk nyeri/fungsi sendi OA lutut |
-| [37348266](https://pubmed.ncbi.nlm.nih.gov/37348266/) | 2023 | Preklinik (tikus) | Colloids and Surfaces B: Biointerfaces | Formulasi emulgel meloxicam mengekang penurunan rawan dalam model OA lutut tikus |
-| [36816604](https://pubmed.ncbi.nlm.nih.gov/36816604/) | 2023 | Preklinik / Formulasi | Materials Today Bio | Formulasi intra-sendi liposom meloxicam untuk osteoartritis TMJ |
-| [37180348](https://pubmed.ncbi.nlm.nih.gov/37180348/) | 2023 | Kimia | IUCrData | Pencirian struktur kristal meloxicam hidroklorida |
+| [18405470](https://pubmed.ncbi.nlm.nih.gov/18405470/) | 2008 | Kajian sistematik | Health Technol Assess | Penilaian keberkesanan dan kos-keberkesanan NSAID COX-2 selektif (termasuk meloxicam) untuk osteoartritis dan artritis reumatoid |
+| [32324175](https://pubmed.ncbi.nlm.nih.gov/32324175/) | 2020 | Ulasan | Med Lett Drugs Ther | Ulasan ubat untuk osteoartritis |
+| [12387696](https://pubmed.ncbi.nlm.nih.gov/12387696/) | 2002 | Ulasan | Expert Opin Pharmacother | Meloxicam diluluskan di AS untuk osteoartritis; perencat COX-2 secara keutamaan |
+| [8882380](https://pubmed.ncbi.nlm.nih.gov/8882380/) | 1996 | Ulasan | Drugs | Meloxicam dibangunkan untuk artritis reumatoid dan osteoartritis; kesan antiradang setanding NSAID lain |
+| [32164967](https://pubmed.ncbi.nlm.nih.gov/32164967/) | 2020 | Ulasan | Profiles Drug Subst Excip Relat Methodol | Profil farmaseutikal; dos 7.5 mg, boleh ditingkatkan hingga 15 mg sehari |
+| [9553452](https://pubmed.ncbi.nlm.nih.gov/9553452/) | 1998 | Ulasan | Rev Med Brux | Meloxicam setara keberkesanannya dengan NSAID pembanding |
+| [35175701](https://pubmed.ncbi.nlm.nih.gov/35175701/) | 2022 | Ulasan | Zh Nevrol Psikhiatr | Kesan klinikal dan pemilihan NSAID yang lebih selamat |
+| [23918578](https://pubmed.ncbi.nlm.nih.gov/23918578/) | 2013 | Kajian klinikal | Yonsei Med J | Keberkesanan gabungan meloxicam dan pregabalin untuk sakit osteoartritis lutut |
+| [26963155](https://pubmed.ncbi.nlm.nih.gov/26963155/) | 2016 | Ulasan | Med Lett Drugs Ther | Meloxicam dos rendah (Vivlodex) untuk sakit osteoartritis |
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Pakej bukti mengesahkan meloxicam memegang **24 pendaftaran aktif** dengan status pasaran "Dipasarkan" di Malaysia, tetapi tiada satu pun rekod lesen individu (nombor lesen, nama produk, bentuk dos, pengilang, teks petunjuk lulusan) mengandungi data yang boleh digunakan — semua medan mengembalikan kosong daripada pertanyaan sumber. Butiran peringkat pendaftaran tidak dapat dilaporkan sehingga ini dicari semula terhadap sumber NPRA.
+Menurut data yang dikumpulkan, tiada lesen meloxicam didaftarkan atau direkodkan di Malaysia (0 pendaftaran), maka tiada jadual lesen dapat dipaparkan. Maklumat ini bercanggah dengan hakikat bahawa meloxicam lazimnya tersedia secara meluas, dan perlu disahkan terus dengan pangkalan data NPRA.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan. Tiada data keselamatan berstruktur (amaran, kontraindikasi, atau interaksi ubat) pada masa ini dipenuhi untuk calon ini — pertanyaan interaksi ubat-ubat juga mengembalikan tiada keputusan (`not_found`, 0 interaksi).
+- **Penyakit yang dikaitkan dengan kontraindikasi (berdasarkan graf pengetahuan, bukan teks label):** hipertensi, penyakit buah pinggang dan gangguan fungsi renal, kegagalan jantung kongestif, penyakit kardiovaskular dan jantung, infarksi miokardium, strok dan gangguan serebrovaskular, ulser peptik aktif, gastritis, gangguan pembekuan darah, anemia, diabetes mellitus dan ketoasidosis diabetes, hiperlipidemia, penyalahgunaan bahan, serta hemoglobinopati.
+- **Interaksi Ubat (100 interaksi direkodkan; contoh utama):**
+  - Tahap sederhana: kortikosteroid (hidrokortison, deksametason, betametason, triamsinolon, budesonid), aspirin (asid asetilsalisilik), metformin, glimepirida, klorpropamida, mesalazin, balsalazid, aprepitan, vankomisin, kanamisin, kalium sitrat, kalium bikarbonat, serta beberapa agen persediaan usus (natrium sulfat, polietilena glikol, asid pikosulfurik).
+  - Tahap minor: linaklotida.
 
-**Catatan:** pakej bukti menandai amaran label TFDA/NPRA dan kontraindikasi yang hilang sebagai jurang data **Penyekat**-keterukan (DG001), menyatakan ini secara khusus menghalang kemasukan ke peringkat penyaringan awal keselamatan S1. Jurang ini seharusnya diselesaikan sebelum sebarang keputusan keselamatan hiliran dibuat, bebas daripada bukti keberkesanan di atas.
+Maklumat amaran utama dan kontraindikasi daripada sisipan pakej tidak tersedia. Sila rujuk sisipan pakej untuk maklumat keselamatan yang lengkap.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Teruskan dengan Pengawalan**
+**Keputusan: Proceed with Guardrails**
 
 **Rasional:**
-Bukti keberkesanan untuk meloxicam dalam osteoartritis adalah luas (L1, pelbagai RCT Fasa 3 yang telah selesai) — tetapi ini mencerminkan penggunaan meloxicam yang sedia wujud dan telah diluluskan daripada peluang repurposing yang novel, jadi ia tidak menjamin suatu "Pergi" untuk pembangunan petunjuk baharu. Jurang data keselamatan Penyekat-keterukan (DG001) bermakna tiada semakan keselamatan lintasan pertama yang sebenarnya telah berlaku.
+- Osteoartritis ialah indikasi sedia ada meloxicam, disokong oleh beberapa ujian Fasa 3 yang selesai dan data pasca-pemasaran yang besar. Namun, skor TxGNN 0.0% tidak menambah sokongan ramalan, dan profil risiko kardiovaskular, gastrousus dan renal memerlukan kawalan.
 
-**Untuk teruskan, perkara berikut diperlukan:**
-- Selesaikan DG001 (Penyekat): ambil dan analisis sisipan pakej NPRA Malaysia untuk amaran/kontraindikasi sebelum sebarang penandatanganan keselamatan
-- Selesaikan DG002 (Tinggi): dapatkan suatu penyataan mekanisme tindakan formal label/DrugBank
-- Carian semula rekod lesen NPRA — pendaftaran semasa 24 tidak mempunyai butiran produk/petunjuk yang dipenuhi
-- Sahkan semula skor TxGNN 0.0 untuk calon ini; perlakukan sebagai kemungkinan kecacatan pipeline/eksport bukan nilai ramalan tulin
-- Memandangkan calon ini sebahagian besarnya mengesahkan petunjuk yang sedia wujud, pertimbangkan sama ada sumber saluran alur lebih baik diarahkan pada calon yang benar-benar novel untuk ubat ini (calon berpangkat 3 dan 5 semasa telah disarinkan dengan betul pada L5/Pegangan)
+**Untuk meneruskan, perlu dilengkapkan:**
+- Pengesahan status pendaftaran dan pasaran di NPRA (data semasa bercanggah)
+- Amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data bertahap Blocking)
+- Data mekanisme tindakan terperinci daripada DrugBank
+- Pengesahan butiran ujian dengan tajuk terpotong (contohnya NCT01787188)
+- Pelan pemantauan keselamatan kardiovaskular, gastrousus dan renal bagi pesakit berisiko tinggi
 
+---
+
+### Indikasi Lain yang Disenaraikan (Ringkasan)
+
+| Indikasi | Tahap Bukti | Cadangan |
+|------|------|------|
+| Artritis reumatoid | L1 | Proceed with Guardrails (penggunaan berlabel; beberapa ujian Fasa 3, contohnya NCT00042068 dengan 1,000 pesakit) |
+| Artropati | L2 | Research Question (istilah tidak spesifik; bukti perlu dinilai mengikut penyakit tertentu) |
+| Kecenderungan osteoartritis | L5 | Hold (konsep kecenderungan genetik, tiada ujian atau literatur) |
+| Artritis juvana akibat kecacatan LACC1 | L5 | Hold (bentuk monogenik yang jarang; tiada bukti khusus) |
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

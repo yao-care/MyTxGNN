@@ -2,7 +2,7 @@
 layout: default
 title: Sorbitol
 parent: Low Evidence (L4-L5)
-nav_order: 624
+nav_order: 655
 evidence_level: L5
 indication_count: 1
 ---
@@ -29,61 +29,78 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Sorbitol: Dari Penggunaan Laksatif Osmotik/Diuretik kepada Hipertermia Malignan Terinduksi Senaman
+# Sorbitol: Daripada Tiada Indikasi Berdaftar kepada Hipertermia Malignan Akibat Senaman
 
 ## Ringkasan Satu Ayat
 
-Sorbitol (DrugBank DB01638) ialah sebatian yang biasa digunakan sebagai laksatif osmotik dan diuretik osmotik; petunjukan kelulusan asal khususnya tidak dicatat dalam data pendaftaran Malaysia yang telah dikaji di sini. Model TxGNN meramalkan kemungkinan kaitan kepada **Hipertermia Malignan Terinduksi Senaman**, dengan skor ramalan **99.40%**, tetapi pada masa kini **0 ujian klinikal** dan **0 penerbitan** menyokong arah ini.
+Sorbitol ialah alkohol gula dengan aktiviti osmotik, namun tiada indikasi asal yang berdaftar dalam data yang dikumpulkan untuk laporan ini.
+Model TxGNN meramalkan ia mungkin berkesan untuk **hipertermia malignan akibat senaman (exercise-induced malignant hyperthermia)**,
+tetapi pada masa ini **tiada kajian klinikal** dan **tiada penerbitan** yang menyokong arah ini; ramalan ini hanya berasaskan model.
 
-## Gambaran Keseluruhan Cepat
+---
+
+## Gambaran Keseluruhan
 
 | Item | Kandungan |
-|------|----------|
-| Petunjukan Asal | Tidak dicatat dalam data lesen Malaysia yang tersedia (biasa digunakan sebagai laksatif osmotik/diuretik) |
-| Petunjukan Baru yang Diramalkan | Hipertermia Malignan Terinduksi Senaman |
+|------|------|
+| Indikasi Asal | Tiada data indikasi berdaftar |
+| Indikasi Baharu yang Diramalkan | Hipertermia malignan akibat senaman |
 | Skor Ramalan TxGNN | 99.40% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 3 |
-| Keputusan yang Disyorkan | Tahan |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan yang Disyorkan | Hold (Tangguhkan) |
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa kini, data mekanisme tindakan terperinci untuk sorbitol tidak tersedia daripada sumber yang telah dikaji. Berdasarkan pengetahuan farmakologi umum, sorbitol bertindak terutamanya sebagai laksatif osmotik dan diuretik osmotik — menarik air ke dalam usus atau tubul ginjal melalui kesan kecerunan osmotik.
+Pada masa ini, data terperinci mengenai mekanisme tindakan tidak tersedia. Sorbitol ialah alkohol gula dengan sifat osmotik, tetapi tiada indikasi asal yang direkodkan dan ia tidak dipasarkan di Malaysia, maka tiada asas klinikal yang jelas untuk dikaitkan dengan indikasi baharu.
 
-Tiada laluan farmakologi yang dikenali atau didokumentasikan yang menghubungkan mekanisme osmotik ini kepada patofisiologi hipertermia malignan terinduksi senaman, yang melibatkan disregulasi reseptor ryanodina otot rangka (RYR1) yang membawa kepada pelepasan kalsium yang tidak terkawal dan krisis hipermetabolik. Skor TxGNN yang tinggi (99.40%) mencerminkan kesamaan dalam ruang penyisipan graf pengetahuan dan bukannya mekanisme yang disahkan atau dapat dijelaskan secara biologi.
+Tiada hubungan mekanistik yang kukuh dapat dikenal pasti. Hipertermia malignan berpunca daripada pelepasan kalsium otot rangka yang tidak terkawal (melibatkan RYR1/CACNA1S), dan rawatan standardnya ialah dantrolene yang bertindak pada reseptor ryanodine. Sorbitol tidak diketahui memberi kesan pada laluan ini. Mana-mana kaitan pada ketika ini hanyalah spekulasi.
 
-Memandangkan ketiadaan ujian klinikal yang menyokong, literatur, atau nisbah mekanistik yang munasabah, ramalan ini harus dianggap sebagai isyarat keyakinan rendah, penerokaan sahaja, dan bukan sebagai asas untuk pertimbangan klinikal pada peringkat ini.
+Skor TxGNN yang tinggi (0.994) hanyalah ramalan graf pengetahuan dan tidak boleh dianggap sebagai bukti keberkesanan.
+
+---
 
 ## Bukti Ujian Klinikal
 
-Pada masa kini tiada ujian klinikal berkaitan yang didaftarkan.
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
+
+---
 
 ## Bukti Literatur
 
-Pada masa kini tiada literatur berkaitan yang tersedia.
+Pada masa ini tiada literatur berkaitan yang tersedia.
 
-## Maklumat Pasaran Malaysia
-
-Sorbitol mempunyai 3 pendaftaran aktif di bawah NPRA (status pasaran: Dipasarkan), tetapi maklumat peringkat produk terperinci (nombor kebenaran, nama produk, bentuk dos, teks petunjukan yang diluluskan) tidak tersedia dalam data yang dikumpul untuk penilaian ini.
+---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
+- **Penyakit yang dikaitkan dengan kontraindikasi (graf pengetahuan TxGNN/PrimeKG, bukan teks label):** ulser peptik aktif.
+- **Interaksi Ubat** (2 interaksi dikesan, sumber DDInter):
+
+| Ubat yang Berinteraksi | Tahap |
+|------|------|
+| Tolevamer | Major (Utama) |
+| Lamivudine | Moderate (Sederhana) |
+
+Sila rujuk sisipan pek untuk maklumat keselamatan yang lengkap, kerana amaran dan kontraindikasi daripada label belum diperoleh.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold (Tangguhkan)**
 
-**Nisbah:**
-Ramalan itu disokong hanya oleh skor model TxGNN (Tahap Bukti L5), tanpa ujian klinikal, tanpa literatur, dan tiada kaitan mekanistik yang munasabah dikenal pasti. Data keselamatan kritikal (amaran, kontraindikasi) juga hilang, yang menghalang kemasukan ke peringkat ulasan keselamatan S1.
+**Rasional:**
+- Ramalan ini hanya berasaskan model (tahap bukti L5) tanpa sebarang ujian klinikal atau literatur, tiada hubungan mekanistik yang munasabah, dan ubat ini tidak dipasarkan di Malaysia.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Data sisipan pakej TFDA/NPRA (amaran utama, kontraindikasi) — kini menghalang
+**Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) daripada DrugBank
-- Butiran pendaftaran peringkat produk lengkap (nombor lesen, bentuk dos, teks petunjukan yang diluluskan)
-- Sebarang bukti preklinikal atau berasaskan kes yang meneroka hubungan sorbitol–hipertermia malignan, jika wujud
-
+- Amaran dan kontraindikasi daripada sisipan pek NPRA (jurang data yang menghalang saringan keselamatan)
+- Bukti praklinikal atau mekanistik yang menunjukkan sorbitol memberi kesan pada patofisiologi hipertermia malignan
+- Penilaian keserasian laluan pentadbiran dan status pendaftaran tempatan
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

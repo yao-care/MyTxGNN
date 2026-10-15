@@ -2,7 +2,7 @@
 layout: default
 title: Eculizumab
 parent: Low Evidence (L4-L5)
-nav_order: 305
+nav_order: 314
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,80 +29,85 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Ekulizumab: Data Indikasi Asal Tidak Tersedia → Indikasi Baru yang Diramalkan: Hematopoiesis Siklik
+# Eculizumab: Daripada Indikasi Asal kepada Hematopoiesis Kitaran (Cyclic Hematopoiesis)
 
 ## Ringkasan Satu Ayat
 
-Indikasi asal yang telah diluluskan untuk Ekulizumab tidak dapat diambil daripada pakej bukti semasa (medan lesen kawal selia dan teks indikasi adalah kosong). TxGNN meramalkan ubat ini mungkin berkesan untuk **Hematopoiesis Siklik**, tetapi ramalan ini kini disokong oleh **0 percubaan klinikal** dan **0 penerbitan**, dan penilaian mekanistik pengulas sendiri tidak menemui sebarang pautan biologi yang diketahui antara perencatan pelengkap dan penyakit ini. Kualiti bukti keseluruhan di semua 10 calon berjenjang TxGNN dalam pakej ini sangat rendah (semua dinilai L5), dan jurang data Blokir mengenai maklumat keselamatan sisipan pembungkus menghalang sebarang penilaian keselamatan pada masa ini.
+Eculizumab ialah perencat komplemen C5 (antibodi monoklonal). Data yang dikumpulkan untuk laporan ini tidak mengandungi indikasi asal yang didaftarkan di Malaysia.
+Model TxGNN meramalkan ia mungkin berkesan untuk **hematopoiesis kitaran (cyclic hematopoiesis)** dengan skor sangat tinggi, tetapi ramalan ini berasaskan graf rangkaian sahaja dan **tiada satu pun ujian klinikal atau penerbitan khusus penyakit** menyokongnya.
 
 ---
 
-## Gambaran Umum Pantas
+## Gambaran Keseluruhan Pantas
 
-| Item | Kandungan |
-|------|----------|
-| Indikasi Asal | Tidak tersedia — rekod lesen kawal selia wujud (1 lesen, status pasaran "Marketed"/Dipasarkan) tetapi medan teks indikasi kosong dalam data sumber |
-| Indikasi Baru yang Diramalkan | Hematopoiesis Siklik |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Tiada data indikasi berdaftar di Malaysia dalam data yang dikumpulkan |
+| Indikasi Baharu Diramal | Cyclic hematopoiesis (hematopoiesis kitaran) |
 | Skor Ramalan TxGNN | 99.97% |
-| Aras Bukti | L5 (ramalan model sahaja, tanpa sokongan klinikal atau literatur) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 1 |
-| Keputusan yang Disyorkan | Tahan |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci (MOA) untuk Ekulizumab tidak tersedia dalam pakej bukti semasa (ditandakan sebagai jurang data Keterukan Tinggi, DG002). Berdasarkan pengetahuan farmakologi am yang dirujuk dalam nota nisbah rasional pengulas, Ekulizumab bertindak sebagai perencat pelengkap terminal (perencatan C5/kompleks serangan membran); walau bagaimanapun, mekanisme am ini tidak disahkan berbanding rekod indikasi asal yang disahkan dalam pakej ini.
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, eculizumab ialah perencat protein komplemen C5 yang menyekat pengaktifan laluan komplemen terminal. Ia digunakan secara klinikal dalam penyakit yang didorong komplemen seperti paroxysmal nocturnal haemoglobinuria (PNH), sindrom uremik hemolitik atipikal (aHUS) dan myasthenia gravis.
 
-Secara kritikal, nisbah rasional mekanistik yang diberikan oleh pengulas untuk Hematopoiesis Siklik secara eksplisit menyimpulkan bahawa terdapat **tiada pautan patologi yang diketahui** antara penyakit ini dan biologi pelengkap: Hematopoiesis Siklik didorong oleh mutasi gen ELANE yang menyebabkan peraturan siklik elastase neutrofil dan rentak granulopoiesis terganggu, laluan dengan tiada pautan yang mantap kepada lata pelengkap yang disasarkan oleh Ekulizumab. Skor TxGNN yang tinggi dinilai sebagai kemungkinan mencerminkan kesamaan tertanam nod di kalangan kelompok penyakit hematologi dalam graf pengetahuan, bukan hubungan mekanistik yang tulen.
+Hematopoiesis kitaran (neutropenia kitaran, berkaitan ELANE) disebabkan oleh mutasi neutrophil elastase, bukan disregulasi komplemen. **Tiada kaitan mekanistik yang munasabah dikenal pasti.** Skor TxGNN yang tinggi (0.9997) merupakan ramalan berasaskan graf sahaja dan berkemungkinan didorong oleh kedekatan rangkaian dengan nod penyakit hematologi.
 
-Corak yang sama berulang di semua sembilan calon berjenjang lain dalam pakej ini (cth., kekurangan JAGN1, SCN bersambung-X, kecacatan reseptor CXCR2/CSF3R) — semua adalah neutropenia bawaan atau sindrom gangguan butiran sel putih yang biologi asasnya (pengangkutan protein, isyarat reseptor, apoptosis) tidak bersilang dengan perencatan pelengkap terminal. Dua calon (pangkat 4 dan 10) mengembalikan pukulan literatur, tetapi apabila diperiksa penerbitan ini membincangkan indikasi yang telah diluluskan oleh Ekulizumab (PNH, aHUS, TMA, miastenia gravis) bukan penyakit calon itu sendiri, dan ditandakan oleh pengulas sebagai kemungkinan ketidakpadanan nama penyakit/literatur bukan bukti sokongan tulen.
+Ramalan lain dalam kedudukan teratas (pelbagai jenis neutropenia kongenital dan gangguan berkaitan) juga mempunyai skor hampir sama (99.94%–99.97%), tetapi semuanya tidak mempunyai hubungan mekanistik dengan perencatan C5, dan tiada bukti klinikal yang khusus.
 
 ---
 
-## Bukti Percubaan Klinikal
+## Bukti Ujian Klinikal
 
-Pada masa ini tiada percubaan klinikal berkaitan berdaftar
+Buat masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
-Pada masa ini tiada literatur berkaitan tersedia
+Buat masa ini tiada literatur berkaitan yang tersedia untuk hematopoiesis kitaran.
 
-*(Catatan: Sebagai rujukan, calon lain dalam pakej bukti ini — contohnya, "sindrom neutropenia bawaan-mielofibrosis-nephromegaly" dan "gangguan pelepasan platelet primer" — memang mengembalikan pukulan literatur, tetapi ini dinilai sebagai ketidakpadanan nama penyakit/topik (membincangkan PNH, aHUS, TMA, dan miastenia gravis sebagai gantinya daripada penyakit calon) dan tidak membentuk bukti sah untuk Hematopoiesis Siklik.)*
+Sebagai rujukan, bagi ramalan peringkat keempat (sindrom neutropenia kongenital-myelofibrosis-nefromegali, berkaitan kekurangan G6PC3), literatur yang diperoleh bersifat tidak khusus penyakit dan hanya mencerminkan penggunaan sedia ada eculizumab:
 
----
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [25237200](https://pubmed.ncbi.nlm.nih.gov/25237200/) | 2014 | Ulasan | Blood | Ulasan PNH: pengaktifan komplemen tidak terkawal akibat kekurangan CD55/CD59 |
+| [30205388](https://pubmed.ncbi.nlm.nih.gov/30205388/) | 2018 | Kajian klinikal | Am J Nephrol | Eculizumab memperbaiki hasil pada dewasa aHUS dengan kecederaan buah pinggang akut |
+| [19556379](https://pubmed.ncbi.nlm.nih.gov/19556379/) | 2009 | Laporan klinikal | Clin J Am Soc Nephrol | Eculizumab dalam aHUS: menyekat laluan komplemen terminal |
+| [28622911](https://pubmed.ncbi.nlm.nih.gov/28622911/) | 2017 | Ulasan/Laporan kes | Mol Immunol | Mutasi CD59 kongenital dan manfaat eculizumab |
+| [37216524](https://pubmed.ncbi.nlm.nih.gov/37216524/) | 2023 | Kajian genetik/siri kes | PNAS | Mutasi C1GALT1C1 menyebabkan chaperonopati berbilang sistem (kaitan paling hampir, tetapi tidak membuktikan keberkesanan) |
 
-## Maklumat Pasaran Malaysia
-
-Rekod pendaftaran wujud (status pasaran: Dipasarkan, 1 jumlah lesen keseluruhan), tetapi medan nombor lesen, nama produk, bentuk dos, pengilang, dan teks indikasi yang diluluskan semuanya kosong dalam ekstrak data semasa. Maklumat ini harus dicapai semula daripada pangkalan data kawal selia sumber sebelum meneruskan lebih jauh.
+Satu-satunya rujukan bagi "gangguan pelepasan platelet primer" (peringkat kesepuluh) ialah monograf kes PNH ([23271156](https://pubmed.ncbi.nlm.nih.gov/23271156/), 2012), yang berkaitan indikasi diluluskan eculizumab dan bukan gangguan platelet.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pembungkus untuk maklumat keselamatan.
+- **Interaksi Ubat**: Empat interaksi tahap **Minor** (sumber: DDInter) dikesan dengan imunoglobulin G manusia (intravena, subkutaneus, intramuskular, serta intravena dan subkutaneus).
+- **Risiko jangkitan**: Perencatan C5 meningkatkan risiko jangkitan (terutamanya meningokokus). Ini membimbangkan bagi pesakit neutropenia atau imunodefisiensi, iaitu populasi sasaran ramalan ini.
 
-*(Catatan: Amaran utama, kontraindikasi, dan data interaksi ubat semuanya ditandakan sebagai jurang data dalam pakej ini. Pengambilan sisipan pembungkus rasmi (DG001, keterukan Blokir) diperlukan sebelum sebarang keputusan berkaitan keselamatan boleh dibuat.)*
+Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pek produk.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold (Tangguh)**
 
-**Nisbah Rasional:**
-Semua bukti untuk ramalan Hematopoiesis Siklik adalah pada Aras L5 (ramalan model sahaja) — tiada percubaan klinikal atau literatur khusus menyokong indikasi ini, dan nisbah rasional mekanistik itu sendiri menunjukkan tiada pautan biologi yang munasabah antara perencatan pelengkap dan penyakit ini. Selain itu, jurang data keterukan Blokir (amaran sisipan pembungkus/kontraindikasi hilang) bermaksud calon ini belum dapat lulus penapisan keselamatan awal (S1), dan corak bukti lemah/tidak ada ini konsisten di semua 10 calon berjenjang TxGNN dalam pakej ini.
+**Rasional:**
+- Ramalan hanya berasaskan model (L5) tanpa ujian klinikal, tanpa literatur khusus penyakit dan tanpa kaitan mekanistik yang munasabah. Eculizumab juga tidak dipasarkan di Malaysia, dan risiko jangkitan menambah kebimbangan keselamatan pada pesakit neutropenia.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Sisipan pembungkus TFDA/NPRA (amaran, kontraindikasi) — kini Blokir (DG001)
-- Data mekanisme tindakan yang disahkan melalui DrugBank (DG002)
-- Indikasi asal yang disahkan dan butiran lesen (medan data kawal selia kini kosong)
-- Pengesahan bebas sebarang pukulan literatur atau percubaan masa depan terhadap nama penyakit calon yang tepat, memandangkan corak ketidakpadanan yang diperhatikan dalam pakej ini
-- Penilaian semula jika bukti praklinikal atau peringkat kes yang tulen khusus kepada Hematopoiesis Siklik muncul
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Amaran dan kontraindikasi daripada sisipan pek NPRA (jurang data yang menyekat saringan keselamatan)
+- Data mekanisme tindakan (MOA) daripada DrugBank
+- Maklumat indikasi asal dan status pendaftaran di Malaysia
+- Bukti praklinikal atau klinikal khusus penyakit yang menunjukkan peranan komplemen C5 dalam neutropenia kongenital/kitaran
+- Penilaian keserasian laluan pentadbiran dan pelan pemantauan jangkitan (vaksinasi meningokokus) sekiranya dipertimbangkan semula
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

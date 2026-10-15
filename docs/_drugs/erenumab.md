@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Erenumab
-parent: High Evidence (L1-L2)
-nav_order: 320
-evidence_level: L2
+parent: Medium Evidence (L3)
+nav_order: 330
+evidence_level: L3
 indication_count: 1
 ---
 
 # Erenumab
 {: .fs-9 }
 
-Tahap bukti: **L2** | Indikasi diramal: **1** 
+Tahap bukti: **L3** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,86 +29,91 @@ Tahap bukti: **L2** | Indikasi diramal: **1**
 
 </div>
 
-# Erenumab: Dari Pencegahan Migrain hingga Migrain dengan Aura Batang Otak
+# Erenumab: Daripada Migrain kepada Migrain dengan Aura Batang Otak
 
-## Ringkasan Satu Kalimat
+## Ringkasan Satu Ayat
 
-Erenumab adalah antibodi monoklonal humanisasi yang menargetkan reseptor CGRP yang telah disetujui untuk pencegahan migrain. Model TxGNN memprediksi kemungkinan juga efektif untuk **migrain dengan aura batang otak**, subtipe migrain, dengan **0 uji klinis khusus** tetapi **20 publikasi pendukung** (termasuk analisis subkelompok RCT dan tinjauan sistematis) saat ini tersedia.
-
----
-
-## Ikhtisar Cepat
-
-| Item | Isi |
-|------|-----|
-| Indikasi Asli | Pencegahan migrain (indikasi yang telah disetujui; teks label TFDA/NPRA terperinci tidak ditangkap dalam paket bukti ini) |
-| Indikasi Baru yang Diprediksi | Migrain dengan aura batang otak |
-| Skor Prediksi TxGNN | 99.89% |
-| Tingkat Bukti | L2 |
-| Status Pasar Malaysia | Sudah dipasarkan |
-| Jumlah Pendaftaran | 2 |
-| Rekomendasi Keputusan | Lanjutkan dengan Pengamanan |
+Erenumab ialah antibodi monoklonal yang menyasarkan reseptor CGRP dan pada asalnya digunakan untuk pencegahan migrain.
+Model TxGNN meramalkan ia mungkin berkesan untuk **migrain dengan aura batang otak (migraine with brainstem aura)**,
+tetapi pada masa ini **tiada percubaan klinikal berdaftar** dan hanya **sekitar 20 penerbitan** berkaitan, kebanyakannya tentang migrain secara amnya atau migrain dengan aura; tiada yang khusus untuk subjenis aura batang otak.
 
 ---
 
-## Mengapa Prediksi Ini Masuk Akal?
+## Gambaran Keseluruhan Ringkas
 
-Data mekanisme aksi terperinci tidak tersedia secara langsung untuk obat ini dalam paket bukti. Berdasarkan rasional penggantian tujuan yang tersedia, erenumab adalah antibodi monoklonal humanisasi yang menargetkan reseptor CGRP (peptida yang berkaitan dengan gen kalsitonin), memblokir aktivasi sistem trigeminavaskuler yang dimediasi CGRP dan peradangan neurogenik — jalur patogenik inti yang dibagikan di seluruh subtipe migrain.
-
-Migrain dengan aura batang otak (sebelumnya dikenal sebagai migrain tipe basilaris) ditandai dengan gejala aura batang otak/sirkulasi posterior, tetapi mekanisme pemicunya masih diyakini berada pada depresi penyebaran kortikalis (CSD) diikuti oleh pelepasan CGRP, seperti subtipe migrain lainnya. Ini berarti mekanisme preventif yang terbukti erenumab dapat secara masuk akal diekstrapolasikan ke subtipe ini tanpa memerlukan hipotesis farmakologi baru.
-
-Dalam praktiknya, indikasi yang diprediksi ini mewakili **perluasan sub-populasi dari indikasi yang disetujui erenumab yang ada (pencegahan migrain)** daripada penggantian tujuan lintas penyakit. Ini mempersempit profil risiko prediksi, karena keamanan umum obat dan kemanjuran dalam pencegahan migrain sudah well established — pertanyaan terbuka khususnya apakah profil aura/risiko vaskular dari subkelompok ini mengubah keseimbangan risiko-manfaat.
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Gangguan migrain (migraine disorder) |
+| Indikasi Baharu yang Diramalkan | Migrain dengan aura batang otak |
+| Skor Ramalan TxGNN | 99.89% |
+| Tahap Bukti | L3 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
-## Bukti Uji Klinis
+## Mengapa Ramalan Ini Munasabah?
 
-Saat ini tidak ada uji klinis terkait yang terdaftar khusus untuk migrain dengan aura batang otak.
+Data terperinci mengenai mekanisme tindakan asal tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat yang diketahui, erenumab ialah antibodi yang menyekat reseptor CGRP. Data farmakologi menunjukkan ia menghapuskan penghasilan cAMP yang dirangsang CGRP (IC50 2.3 nM) dan 5,000 kali lebih selektif untuk reseptor CGRP berbanding reseptor keluarga kalsitonin manusia yang lain.
+
+Isyarat CGRP menjadi pusat kepada pengaktifan sistem trigeminovaskular dalam migrain. Migrain dengan aura batang otak ialah subjenis migrain yang berkongsi patofisiologi ini dengan indikasi yang telah diluluskan (pencegahan migrain), jadi kaitan mekanistik adalah munasabah. Namun, kaitan ini disimpulkan daripada pengetahuan am tentang biologi CGRP, bukan daripada rekod mekanisme yang lengkap.
+
+Perlu diingat bahawa ini lebih merupakan lanjutan **tahap perincian indikasi** bagi penggunaan migrain sedia ada, bukannya pengembalian semula (repurposing) yang benar-benar berbeza. Skor TxGNN yang sangat tinggi ialah ramalan pengiraan sahaja dan bukan bukti klinikal.
+
+---
+
+## Bukti Percubaan Klinikal
+
+Pada masa ini tiada percubaan klinikal berkaitan didaftarkan untuk indikasi yang diramalkan ini.
 
 ---
 
 ## Bukti Literatur
 
-| PMID | Tahun | Tipe | Jurnal | Temuan Utama |
-|------|-------|------|--------|-------------|
-| [34928306](https://pubmed.ncbi.nlm.nih.gov/34928306/) | 2022 | Analisis subkelompok post-hoc RCT | JAMA Neurology | Analisis sekunder RCT menilai keamanan/kemanjuran erenumab dalam subkelompok migrain dengan vs. tanpa aura |
-| [30360965](https://pubmed.ncbi.nlm.nih.gov/30360965/) | 2018 | RCT (Fase 3b) | Lancet | Erenumab efektif dan ditoleransi dengan baik pada pasien migrain episodik yang gagal 2–4 agen preventif sebelumnya |
-| [37012858](https://pubmed.ncbi.nlm.nih.gov/37012858/) | 2023 | Tinjauan Sistematis | Int Immunopharmacol | Mengkonfirmasi kemanjuran erenumab dalam terapi preventif migrain episodik dan kronis |
-| [36942409](https://pubmed.ncbi.nlm.nih.gov/36942409/) | 2023 | Kohort (post hoc terpadu) | Headache | Keamanan kardiovaskular erenumab dievaluasi dalam migrain dengan dan tanpa aura; tidak ada sinyal CV yang meningkat diidentifikasi |
-| [40275185](https://pubmed.ncbi.nlm.nih.gov/40275185/) | 2025 | Kohort (REFORM study) | J Headache Pain | Plasma suPAR, biomarker peradangan yang meningkat dalam migrain dengan aura, terkait dengan respons terapeutik yang ditargetkan CGRP |
-| [35151970](https://pubmed.ncbi.nlm.nih.gov/35151970/) | 2022 | Kohort (dunia nyata) | Clin Neurol Neurosurg | Kemanjuran dan keamanan dunia nyata erenumab setelah 6 bulan dalam migrain kronis yang resisten terhadap pengobatan |
-| [32867533](https://pubmed.ncbi.nlm.nih.gov/32867533/) | 2021 | Studi fisiologis | Cephalalgia | Erenumab tidak mengubah reaktivitas vasomotor serebral atau fungsi endotel, mendukung keamanan vaskular |
-| [40596876](https://pubmed.ncbi.nlm.nih.gov/40596876/) | 2025 | Kohort (studi beralih) | J Headache Pain | Sebagian besar pasien yang beralih dari erenumab ke fremanezumab setelah kejadian yang merugikan mentoleransi pertukaran |
-| [35538414](https://pubmed.ncbi.nlm.nih.gov/35538414/) | 2022 | Kohort (dunia nyata) | J Headache Pain | Keamanan dan tolerabilitas erenumab 12 bulan dunia nyata, dengan prediktor kejadian merugikan dinilai |
-| [33125303](https://pubmed.ncbi.nlm.nih.gov/33125303/) | 2021 | Kohort/Seri kasus | J Pain Palliat Care Pharmacother | Kombinasi erenumab + onabotulinumtoxinA mengurangi frekuensi serangan dalam migrain kronis yang refraktif tanpa aura |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [34928306](https://pubmed.ncbi.nlm.nih.gov/34928306/) | 2022 | Analisis sekunder RCT | JAMA Neurology | Menilai keselamatan dan keberkesanan erenumab pada pesakit migrain dengan dan tanpa aura |
+| [30360965](https://pubmed.ncbi.nlm.nih.gov/30360965/) | 2018 | RCT fasa 3b | Lancet | Keberkesanan dan toleransi erenumab pada migrain episodik selepas 2–4 rawatan pencegahan gagal |
+| [37012858](https://pubmed.ncbi.nlm.nih.gov/37012858/) | 2023 | Kajian sistematik | Int Immunopharmacol | Keberkesanan erenumab dalam profilaksis migrain episodik dan kronik |
+| [36942409](https://pubmed.ncbi.nlm.nih.gov/36942409/) | 2023 | Analisis post hoc data percubaan | Headache | Risiko vaskular pada pesakit migrain dengan dan tanpa aura yang dirawat dengan erenumab |
+| [41888647](https://pubmed.ncbi.nlm.nih.gov/41888647/) | 2026 | Kajian REFORM | J Headache Pain | Kesan erenumab terhadap kekerapan aura migrain |
+| [42390441](https://pubmed.ncbi.nlm.nih.gov/42390441/) | 2026 | Kajian farmakoepidemiologi | Cephalalgia | Risiko serebrovaskular antibodi monoklonal CGRP berbanding onabotulinumtoxinA |
+| [32867533](https://pubmed.ncbi.nlm.nih.gov/32867533/) | 2021 | Kajian mekanistik/fisiologi | Cephalalgia | Erenumab tidak mengubah hemodinamik serebrum dan fungsi endotelium pada migrain tanpa aura |
+| [35230406](https://pubmed.ncbi.nlm.nih.gov/35230406/) | 2022 | Ringkasan berita | JAMA | Ringkasan analisis sekunder RCT: erenumab selamat dan berkesan untuk migrain dengan aura |
+| [30725283](https://pubmed.ncbi.nlm.nih.gov/30725283/) | 2019 | Ulasan | Handb Exp Pharmacol | Peranan CGRP dalam migrain |
+| [35538414](https://pubmed.ncbi.nlm.nih.gov/35538414/) | 2022 | Kajian retrospektif dunia sebenar | J Headache Pain | Keselamatan dan toleransi erenumab selama 12 bulan |
 
 ---
 
-## Informasi Pasar Malaysia
+## Maklumat Pasaran Malaysia
 
-Obat ini dikonfirmasi sebagai sudah dipasarkan dengan 2 lisensi terdaftar. Nomor otorisasi, nama produk, bentuk dosis, dan teks indikasi yang disetujui untuk lisensi ini tidak ditangkap dalam paket bukti ini dan memerlukan pengambilan langsung dari sumber peraturan.
-
----
-
-## Pertimbangan Keamanan
-
-Silakan merujuk pada leaflet paket untuk informasi keamanan.
+Erenumab pada masa ini tidak dipasarkan di Malaysia dan tiada pendaftaran direkodkan.
 
 ---
 
-## Kesimpulan dan Langkah Berikutnya
+## Pertimbangan Keselamatan
 
-**Keputusan: Lanjutkan dengan Pengamanan**
+- **Interaksi Ubat**: Hanya satu rekod ditemui, iaitu interaksi farmakologi dengan reseptor CGRP, yang merupakan sasaran terapeutik erenumab sendiri dan bukan interaksi dengan ubat lain.
+- **Isyarat keselamatan daripada literatur**: Kajian risiko vaskular dan serebrovaskular (PMID 36942409, 42390441) serta kajian risiko glaukoma (PMID 42090640) wujud dalam literatur. Ini patut diteliti kerana pesakit migrain dengan aura mempunyai risiko vaskular yang lebih tinggi.
+
+Sila rujuk sisipan pakej untuk maklumat keselamatan lengkap.
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Hold**
 
 **Rasional:**
-Tautan mekanistik kuat (jalur CGRP bersama di seluruh subtipe migrain) dan didukung oleh analisis subkelompok RCT, tinjauan sistematis, dan data keamanan vaskular khusus untuk subkelompok aura, tetapi tidak ada uji klinis yang secara langsung merekrut pasien dengan migrain dengan aura batang otak, jadi ini tetap merupakan extrapolasi sub-populasi daripada indikasi yang terbukti secara langsung.
+- Tiada percubaan klinikal didaftarkan dan tiada bukti khusus untuk subjenis aura batang otak. Bukti sedia ada hanya meliputi migrain dengan aura secara amnya. Produk ini juga tidak dipasarkan di Malaysia, dan data keselamatan daripada sisipan pakej belum tersedia.
 
-**Untuk melanjutkan, diperlukan hal berikut:**
-- Peringatan label TFDA/NPRA dan kontraindikasi (saat ini merupakan kesenjangan data yang memblokir)
-- Dokumentasi mekanisme aksi asli yang dikonfirmasi dari DrugBank
-- Detail lisensi/pendaftaran lengkap (nomor otorisasi, nama produk, teks indikasi yang disetujui) untuk 2 pendaftaran Malaysia
-- Evaluasi kemanjuran/keamanan yang didedikasikan (atau setidaknya analisis subkelompok yang ditargetkan) pada pasien yang secara khusus didiagnosis dengan migrain dengan aura batang otak, mengingat peringatan risiko vaskular historis yang terkait dengan subtipe ini
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Amaran dan kontraindikasi daripada sisipan pakej NPRA (halangan utama untuk saringan keselamatan)
+- Data mekanisme tindakan terperinci daripada DrugBank
+- Bukti khusus untuk subjenis aura batang otak, termasuk kajian terkawal atau siri kes
+- Penilaian risiko vaskular pada pesakit migrain dengan aura
+- Penjelasan status pendaftaran dan laluan pentadbiran di Malaysia
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

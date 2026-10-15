@@ -2,7 +2,7 @@
 layout: default
 title: Azathioprine
 parent: Low Evidence (L4-L5)
-nav_order: 109
+nav_order: 114
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,91 +29,78 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Azathioprine: Daripada Imunopenindasan kepada Sindrom Kolobomatik Mikroftalmi-Displasia Rizomeli
+# Azathioprine: Daripada Artritis Reumatoid kepada Sindrom Mikroftalmia Kolobomatus-Displasia Rizomelik (Colobomatous Microphthalmia-Rhizomelic Dysplasia Syndrome)
 
 ## Ringkasan Satu Ayat
 
-Azathioprine adalah agen imunopenindas yang telah terbukai (antimetabolit purin) digunakan untuk mencegah penolakan transplantasi organ dan merawat keadaan autoimun termasuk penyakit radang usus. Model TxGNN meramalkan ia mungkin berkesan untuk **Sindrom Kolobomatik Mikroftalmi-Displasia Rizomeli**, bagaimanapun terdapat **0 uji klinis** dan **0 publikasi** yang menyokong arah spesifik ini — ramalan ini kekurangan sebarang mekanisme atau asas klinis.
+Azathioprine ialah ubat imunosupresan (antimetabolit purin) yang pada asalnya digunakan untuk merawat **artritis reumatoid**.
+Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom mikroftalmia kolobomatus-displasia rizomelik**, dengan skor yang sangat tinggi.
+Namun, **tiada satu pun ujian klinikal dan tiada satu pun penerbitan** yang menyokong ramalan ini setakat ini, jadi ia hanyalah ramalan berasaskan model.
 
-## Gambaran Keseluruhan Cepat
+---
 
-| Item | Kandungan |
-|------|----------|
-| Petunjuk Asal | Imunopenindasan (teks petunjuk diluluskan khusus tidak tersedia daripada rekod NPRA) |
-| Petunjuk Baru Diramalkan | Sindrom Kolobomatik Mikroftalmi-Displasia Rizomeli |
+## Gambaran Keseluruhan
+
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Artritis reumatoid |
+| Indikasi Baharu yang Diramalkan | Sindrom mikroftalmia kolobomatus-displasia rizomelik |
 | Skor Ramalan TxGNN | 99.99% |
-| Tahap Bukti | L5 (Ramalan model sahaja, tiada kajian sebenar) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 3 |
-| Keputusan Disyorkan | Tahan |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
-## Mengapa Ramalan Ini Adalah Wajar?
+---
 
-**Ramalan ini tidak dianggap wajar.** Sindrom mikroftalmi kolobomatik-displasia rizomeli adalah gangguan perkembangan bawaan yang jarang melibatkan kecacatan okular (mikroftalmi kolobomatik) dan displasia tulang proksimals anggota tubuh. Patogenesis berasal daripada peraturan gen yang tidak normal semasa perkembangan embrionik, menghasilkan kecacatan struktur yang tidak dapat dipulihkan terbentuk sebelum lahir.
+## Mengapa Ramalan Ini Munasabah?
 
-Azathioprine adalah antimetabolit purin yang ditukar kepada 6-merkaptopurin dalam vivo, yang seterusnya menghalang sintesis purin dan menekan proliferasi limfosit. Mekanisme imunopenindas ini menargetkan sistem imun adaptif — khususnya proliferasi sel T dan sel B — dan tidak mempunyai perkaitan terapeutik kepada kecacatan perkembangan struktural bawaan.
+Data terperinci mengenai mekanisme tindakan tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, azathioprine ialah imunosupresan antimetabolit purin, keberkesanannya dalam artritis reumatoid telah dibuktikan, tetapi tiada asas mekanisme yang jelas untuk penyakit yang diramalkan ini.
 
-Skor TxGNN yang sangat tinggi (99.99%) berkemungkinan mencerminkan corak palsu dalam graf pengetahuan daripada hubungan farmakologi yang tulen. Ketiadaan lengkap sebarang bukti percubaan klinis atau literatur selanjutnya mengesahkan bahawa ramalan ini tidak layak untuk penyiasatan lanjutan. Terutama, model juga mengenal pasti dengan betul keberkesanan azathioprine yang telah terbukai dalam penyakit radang usus (Pangkat 5, L1) dan kolitis ulseratif (Pangkat 9, L1), yang sudah merupakan petunjuk yang diluluskan — mengesahkan keupayaan model untuk mengesan hubungan ubat-penyakit yang tulen sambil juga menunjukkan kecenderungannya untuk menjana positif palsu untuk keadaan yang tidak berkaitan.
+Sindrom ini ialah sindrom kecacatan perkembangan yang jarang berlaku, melibatkan rangka dan mata. Tindakan imunosupresif azathioprine tidak dijangka mengubah kecacatan perkembangan atau genetik yang mendasarinya. Skor TxGNN yang sangat tinggi (0.99999) mencerminkan hubungan dalam graf pengetahuan sahaja dan bukan bukti biologi atau klinikal. Hubungan mekanisme yang boleh dipercayai tidak dapat dikenal pasti.
 
-## Bukti Uji Klinis
+---
 
-Pada masa ini tiada uji klinis berkaitan didaftarkan untuk azathioprine dalam sindrom mikroftalmi kolobomatik-displasia rizomeli.
+## Bukti Ujian Klinikal
+
+Setakat ini tiada ujian klinikal berkaitan yang didaftarkan.
+
+---
 
 ## Bukti Literatur
 
-Pada masa ini tiada literatur berkaitan tersedia untuk azathioprine dalam sindrom mikroftalmi kolobomatik-displasia rizomeli.
+Setakat ini tiada literatur berkaitan yang tersedia.
 
-## Maklumat Pasaran Malaysia
-
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjuk Diluluskan |
-|---------|------|------|-----------|
-| (Tidak tersedia) | (Tidak tersedia) | (Tidak tersedia) | (Tidak tersedia) |
-| (Tidak tersedia) | (Tidak tersedia) | (Tidak tersedia) | (Tidak tersedia) |
-| (Tidak tersedia) | (Tidak tersedia) | (Tidak tersedia) | (Tidak tersedia) |
-
-> *Nota: 3 pendaftaran telah dikenal pasti dalam pangkalan data NPRA, tetapi maklumat produk terperinci (nombor kebenaran, nama produk, bentuk dos, petunjuk diluluskan) tidak tersedia pada masa pengekstrakan data.*
+---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
+Maklumat di bawah diperoleh daripada graf pengetahuan dan pangkalan data interaksi ubat, bukan daripada teks sisipan pakej produk.
 
-> *Nota: Data keselamatan termasuk amaran utama, kontraindikasi, dan interaksi ubat-ubat tidak tersedia dalam pek bukti. Memandangkan azathioprine adalah agen imunopenindas yang kuat dengan risiko terkenal termasuk mielodispensi, hepatotoksisiti, peningkatan risiko jangkitan, dan risiko keganasan jangka panjang yang berpotensi, doktor mengamalkan harus merujuk maklumat preskripsi penuh sebelum digunakan.*
+- **Penyakit yang dikaitkan dengan kontraindikasi (daripada graf pengetahuan)**: pankreatitis, trombositopenia, jangkitan kulat, dermatofitosis, anemia (termasuk anemia makrositik), gangguan fungsi buah pinggang, penyakit berjangkit, limfoma (termasuk limfoma sistem saraf pusat primer, limfosarkoma dan limfoma sel T hepatosplenik), trombosis vena hepatik dan sindrom Budd-Chiari.
+- **Interaksi Ubat**: sebanyak 100 interaksi direkodkan. Yang utama ialah:
+  - Tahap sederhana: mesalazine, balsalazide, olsalazine, sulfasalazine.
+  - Tahap minor: zink asetat, zink glukonat, zink sulfat.
+  - Tahap belum diketahui, antaranya: epinefrin, amfoterisin B, asid asetilsalisilik, kalsitriol, pantoprazol, glimepirid, doksisiklin, klotrimazol, morfin, metformin, omeprazol, sukralfat, rosiglitazon.
+
+Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi yang lengkap.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
-**Nisbah:**
-Ramalan TxGNN untuk sindrom mikroftalmi kolobomatik-displasia rizomeli tidak mempunyai asas mekanik. Ini adalah sindrom perkembangan struktural bawaan yang disebabkan oleh kecacatan peraturan gen embrionik, dan mekanisme imunopenindas azathioprine tidak mempunyai perkaitan terapeutik kepada ketakupayaan perkembangan yang tidak dapat dipulihkan. Tahap bukti adalah L5 (ramalan model sahaja) tanpa bukti klinis atau praklinis yang menyokong.
+**Justifikasi:**
+- Ramalan ini berada pada tahap bukti L5 (hanya ramalan model), tanpa ujian klinikal atau literatur, dan tiada hubungan mekanisme yang munasabah dengan penyakit tersebut.
+- Azathioprine tidak berdaftar di Malaysia berdasarkan data yang dikumpulkan.
 
-**Untuk meneruskan, berikut diperlukan (walaupun tidak disyorkan):**
-- Sebarang bukti praklinis yang menunjukkan imunomodulasi memainkan peranan dalam sindrom ini
-- Pengenalan komponen yang dimediasi imun dalam patogenesis penyakit
-- Laporan kes atau data pemerhatian yang menunjukkan manfaat
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) yang lengkap, untuk menilai sama ada wujud sebarang hubungan biologi dengan penyakit ini.
+- Sisipan pakej daripada NPRA untuk amaran dan kontraindikasi, kerana maklumat ini diperlukan sebelum penilaian keselamatan boleh diteruskan.
+- Bukti praklinikal atau klinikal yang menyokong sebelum sebarang pertimbangan lanjut.
 
----
-
-### Lampiran: Ramalan Ketara dengan Bukti Sedia Ada
-
-Model TxGNN juga mengenal pasti dua petunjuk yang mana azathioprine **sudah merupakan terapi yang diluluskan**, mengesahkan keupayaan model untuk mengesan pasangan ubat-penyakit yang disahkan:
-
-| Pangkat | Petunjuk Diramalkan | Skor TxGNN | Tahap Bukti | Status |
-|------|---------------------|-------------|----------------|--------|
-| 5 | Penyakit Radang Usus | 99.52% | L1 | Sudah diluluskan — bukan calon peningkatan penggunaan |
-| 9 | Kolitis Ulseratif | 99.33% | L1 | Sudah diluluskan — bukan calon peningkatan penggunaan |
-
-**IBD (Pangkat 5):** Disokong oleh **50 uji klinis** (termasuk pelbagai RCT Fasa 3 seperti [NCT00094458](https://clinicaltrials.gov/study/NCT00094458) dengan 508 pesakit dan [NCT00098111](https://clinicaltrials.gov/study/NCT00098111)) dan **20 publikasi** termasuk ulasan yang mengesahkan 45+ tahun pengalaman klinis.
-
-**Kolitis Ulseratif (Pangkat 9):** Disokong oleh **50 uji klinis** dan **20 publikasi** termasuk pelbagai ulasan sistematik Cochrane ([PMID 40013523](https://pubmed.ncbi.nlm.nih.gov/40013523/), [PMID 27192092](https://pubmed.ncbi.nlm.nih.gov/27192092/), [PMID 22972046](https://pubmed.ncbi.nlm.nih.gov/22972046/)) dan meta-analisis ([PMID 19392869](https://pubmed.ncbi.nlm.nih.gov/19392869/)).
-
-Ramalan novel yang tinggal (Pangkat 1–4, 6–8, 10) semua menerima rekomendasi **Tahan** disebabkan kekurangan nisbah mekanik — kebanyakannya menargetkan kecacatan perkembangan struktural bawaan atau imunodefisiensi primer di mana imunopenindasan akan menjadi tidak relevan atau berpotensi berbahaya (terutama sindrom WHIM pada Pangkat 4, yang merupakan **kontraindikasi mekanik**).
-
----
-
-*Penafian: Laporan ini adalah untuk tujuan penyelidikan sahaja dan tidak merupakan nasihat perubatan. Calon peningkatan penggunaan ubat memerlukan pengesahan klinis sebelum aplikasi.*
-
-*Potongan data: 2026-04-05 | Versi pek bukti: v4*
-
+**Nota tambahan:** Dalam data yang sama, dua ramalan lain mempunyai bukti yang jauh lebih kukuh, iaitu **penyakit radang usus (inflammatory bowel disease)** dan **kolitis ulseratif**. Kedua-duanya berada pada tahap bukti L1 dengan keputusan "Proceed with Guardrails". Ujian klinikal dan ulasan Cochrane menyokong azathioprine untuk indikasi ini, dan ia sudah menjadi penggunaan yang mantap dalam amalan klinikal. Langkah berjaga-jaga yang disyorkan ialah ujian genotip TPMT/NUDT15, pemantauan kiraan darah dan fungsi hati, serta kewaspadaan terhadap jangkitan dan keganasan. Laporan berasingan untuk indikasi ini wajar dipertimbangkan.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

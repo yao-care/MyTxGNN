@@ -2,7 +2,7 @@
 layout: default
 title: Amorolfine
 parent: Low Evidence (L4-L5)
-nav_order: 61
+nav_order: 65
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,85 +29,95 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Amorolfine: Daripada Onychomycosis Kepada Drug-Induced Osteoporosis
+# Amorolfine: Daripada Jangkitan Kulat Kuku kepada Osteoporosis Teraruh Ubat
 
 ## Ringkasan Satu Ayat
 
-Amorolfine ialah ejen antijamur topikal dari kelas morfolin, yang terutamanya digunakan untuk rawatan onychomycosis (jangkitan kulat kuku) dengan mengganggu membran sel kulat melalui penghambatan biosintesis ergosterol.
-Model TxGNN meramalkan bahawa ia mungkin berkesan untuk **Drug-Induced Osteoporosis**, dengan **0 ujian klinikal** dan **0 penerbitan** yang pada masa ini menyokong arah ini.
-Ramalan ini sepenuhnya bergantung pada hasil model, meletakkannya pada Tahap Bukti **L5** — tahap paling rendah.
+Amorolfine ialah antikulat morfolin topikal yang digunakan untuk merawat jangkitan kulat kuku (onikomikosis). Model TxGNN meramalkan ia mungkin berkesan untuk **osteoporosis teraruh ubat**, tetapi pada masa ini **tiada ujian klinikal** dan **tiada penerbitan** yang menyokong ramalan ini. Ramalan ini berasaskan graf pengetahuan sahaja.
 
 ---
 
-## Ikhtisar Pantas
+## Gambaran Ringkas
 
-| Item | Kandungan |
-|------|-----------|
-| Indikasi Asal | Onychomycosis (jangkitan kulat kuku) |
-| Indikasi Baru yang Diramalkan | Drug-Induced Osteoporosis |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Jangkitan kulat kuku (onikomikosis), berdasarkan maklumat rujukan farmakologi; tiada teks indikasi diluluskan daripada pendaftaran tempatan |
+| Indikasi Baharu yang Diramalkan | Osteoporosis teraruh ubat (*drug-induced osteoporosis*) |
 | Skor Ramalan TxGNN | 99.998% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 3 |
-| Keputusan yang Disyorkan | **Tangguhkan** |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan yang terperinci tidak tersedia dalam Evidence Pack ini. Berdasarkan farmakologi yang telah ditegakkan, Amorolfine termasuk dalam kelas morfolin antijamur. Cara kerjanya adalah dengan menghambat dua enzim kulat utama — Δ14-reductase dan Δ7-Δ8-isomerase — dalam laluan biosintesis ergosterol. Ini menyebabkan sterol perantara beracun menumpuk dalam membran sel kulat, yang akhirnya mengakibatkan kematian sel. Penting sekali, laluan ini spesifik kepada kulat dan tidak wujud dalam sel mamalia.
+Amorolfine ialah antikulat morfolin yang merencat biosintesis ergosterol pada kulat melalui perencatan delta-14 reduktase dan delta-7,8 isomerase. Data mekanisme tindakan asal (MOA) tidak tersedia dalam data yang disusun untuk laporan ini.
 
-Kaitan yang dicadangkan dengan osteoporosis yang diinduksi ubat sangat lemah secara mekanis. Metabolisme tulang pada manusia dikawal oleh keseimbangan antara osteoblas (pembentukan tulang) dan osteoklas (resorpsi tulang), suatu proses yang tidak mempunyai hubungan yang diketahui dengan biosintesis ergosterol. Analogi dangkal boleh diambil kepada antijamur azol tertentu (contohnya vorikonazol), yang telah dikaitkan dengan periostitis dan anomali tulang — bagaimanapun, kesan tersebut dimediasi oleh perencatan CYP450 sistemik dan pengumpulan fluorida, suatu mekanisme yang sama sekali tidak terpakai kepada amorolfine. Amorolfine diberikan secara eksklusif sebagai pernis kuku topikal dengan penyerapan sistemik yang boleh diabaikan, bermaksud ia tidak boleh menjalankan kesan farmakologi sistemik pada tisu tulang.
+Tiada hubungan mekanistik yang dapat dikenal pasti antara perencatan sintesis sterol kulat dengan metabolisme tulang atau kehilangan tulang akibat glukokortikoid. Ramalan TxGNN bersifat berasaskan graf semata-mata, dan data yang ada tidak menyokong sebarang laluan yang munasabah. Kesamaan dengan indikasi asal juga belum dinilai.
 
-Ringkasnya, meskipun model TxGNN memberikan skor ramalan tinggi (mungkin mencerminkan kedekatan struktur atau graph-embedding dalam knowledge graph), tiada laluan biologi yang boleh dipercayai pada masa ini yang menghubungkan mekanisme antijamur amorolfine dengan osteoporosis yang diinduksi ubat. Ramalan ini tidak boleh dimajukan tanpa terlebih dahulu mengenal pasti hipotesis mekanis yang munasabah.
+Satu maklumat farmakologi yang ditemui ialah interaksi dengan sasaran Nav1.7 (gen SCN9A), tetapi ini tidak dikaitkan dengan osteoporosis dan tidak menjadi asas hubungan mekanistik.
 
 ---
 
 ## Bukti Ujian Klinikal
 
-Pada masa ini tiada ujian klinikal berkaitan yang terdaftar.
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
-Pada masa ini tiada literatur berkaitan yang tersedia.
+Pada masa ini tiada literatur berkaitan tersedia.
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Amorolfine mempunyai **3 produk berdaftar** dengan NPRA di Malaysia (status pasaran: Dipasarkan). Maklumat produk terperinci — termasuk nombor kebenaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan — belum diisi dalam Evidence Pack ini. Data ini harus diambil terus daripada portal pencarian produk NPRA.
-
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|------------------|-------------|-----------|-------------------------|
-| *(Menunggu pengambilan)* | *(Menunggu pengambilan)* | *(Menunggu pengambilan)* | *(Menunggu pengambilan)* |
+Amorolfine pada masa ini **tidak dipasarkan** di Malaysia dan tiada lesen didaftarkan dalam data yang disusun.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk lembaran maklumat produk untuk maklumat keselamatan.
+Maklumat amaran utama dan kontraindikasi tidak tersedia. Sila rujuk risalah maklumat produk untuk maklumat keselamatan.
 
-> **Nota:** Kedua-dua amaran utama dan kontraindikasi telah ditandai sebagai jurang data dalam Evidence Pack ini (keterukan: Blocking dan High masing-masing). Semakan keselamatan lengkap tidak boleh diteruskan sehingga lembaran maklumat produk NPRA (Ringkasan Ciri-ciri Produk) telah dimuat turun dan dihuraikan.
+Satu rekod farmakologi dikesan: amorolfine dilaporkan berinteraksi dengan sasaran Nav1.7 (SCN9A, manusia). Tahap keterukan tidak dinyatakan, dan ini bukan interaksi ubat-ubat yang klinikal.
+
+---
+
+## Ramalan Lain daripada TxGNN
+
+Sembilan ramalan lain turut dijana. Kesemuanya berada pada tahap bukti L5, tanpa ujian klinikal atau literatur, dan tanpa hubungan mekanistik yang dikenal pasti. Keputusan bagi setiap satu ialah **Hold**.
+
+| Kedudukan | Penyakit yang Diramalkan | Skor TxGNN | Catatan |
+|------|------|------|------|
+| 2 | Penyakit retroperitoneum | 99.997% | Kategori anatomi luas; kemungkinan artifak topologi graf |
+| 3 | Penyakit ligamen lebar uterus | 99.997% | Kategori anatomi luas; tiada sasaran molekul berkaitan |
+| 4 | Stenosis spinal lumbar | 99.997% | Keadaan degeneratif mekanikal; tiada kaitan |
+| 5 | Kehamilan ektopik abdomen | 99.996% | Tiada kesan diketahui terhadap biologi trofoblas |
+| 6 | Limfangioma sista abdomen | 99.996% | Laluan (cth. PI3K/mTOR) tidak berkaitan dengan amorolfine |
+| 7 | Sindrom mampatan trunkus seliak | 99.996% | Sindrom vaskular, dirawat terutamanya melalui pembedahan |
+| 8 | Miofibroblastoma palisad nodus limfa | 99.996% | Tumor jinak yang jarang; dirawat dengan eksisi |
+| 9 | Kordoma sakrum | 99.996% | Modulasi sintesis sterol dalam onkologi hanya bersifat spekulatif |
+| 10 | Penyakit uretra | 99.996% | Kategori luas; relevan hanya jika ia jangkitan kulat, yang tidak dinyatakan |
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tangguhkan**
+**Keputusan: Hold (Tangguh)**
 
-**Alasan:**
-Calon ini disokong semata-mata oleh ramalan model TxGNN (Tahap Bukti L5) tanpa ujian klinikal terdaftar dan tanpa literatur yang diterbitkan. Tambahan pula, kaitan mekanis antara perencatan ergosterol spesifik kulat amorolfine dan osteoporosis yang diinduksi ubat tidak munasabah secara biologi — ubat ini mempunyai pendedahan sistemik yang boleh diabaikan, dan laluan sasaran yang dicadangkan tidak wujud dalam tisu tulang mamalia.
+**Justifikasi:**
+- Ramalan ini hanya berasaskan model (L5) tanpa sebarang ujian klinikal, literatur atau hubungan mekanistik, dan ubat ini tidak dipasarkan di Malaysia.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Ambil butiran pendaftaran NPRA lengkap (nombor kebenaran, nama produk, bentuk dos, indikasi yang diluluskan) untuk semua 3 produk berdaftar
-- Muat turun dan huraikan PDF lembaran maklumat produk NPRA untuk mengisi data keselamatan (amaran utama, kontraindikasi) — pada masa ini merupakan jurang data **Blocking**
-- Soal API DrugBank (DB09056) untuk mendapatkan mekanisme tindakan lengkap (MOA) — pada masa ini merupakan jurang data **High** severity
-- Lakukan carian literatur praklinikal yang lebih luas untuk menentukan sama ada sebarang sebatian kelas morfolin (selain antijamur) telah menunjukkan aktiviti metabolisme tulang
-- Jika sebarang isyarat praklinikal muncul, rancang kajian in vitro yang tersasaran sebelum mempertimbangkan kemajuan klinikal
-- Nilaikan semula justifikasi ramalan: jika tiada kaitan mekanis yang boleh ditegakkan selepas langkah-langkah di atas, tutup calon ini secara rasmi
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) yang terperinci daripada DrugBank
+- Amaran dan kontraindikasi daripada risalah maklumat produk NPRA (jurang data yang menyekat saringan keselamatan)
+- Kajian praklinikal atau literatur yang menghubungkan amorolfine dengan metabolisme tulang
+- Penilaian kesesuaian laluan pentadbiran, kerana amorolfine ialah ubat topikal dengan pendedahan sistemik yang terhad
+- Pertimbangan semula calon indikasi lain yang mungkin lebih berkaitan dengan aktiviti antikulat, kerana sepuluh ramalan teratas tidak menunjukkan sebarang sokongan biologi
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

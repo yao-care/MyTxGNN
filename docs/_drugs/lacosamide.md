@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Lacosamide
-parent: Medium Evidence (L3)
-nav_order: 420
-evidence_level: L3
+parent: Low Evidence (L4-L5)
+nav_order: 440
+evidence_level: L5
 indication_count: 10
 ---
 
 # Lacosamide
 {: .fs-9 }
 
-Tahap bukti: **L3** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,86 +29,115 @@ Tahap bukti: **L3** | Indikasi diramal: **10**
 
 </div>
 
-# Lacosamide: Dari Epilepsi (Kejang Partial-Onset) ke Gangguan Afektif Bipolar Manik
+# Lacosamide: Daripada Epilepsi kepada Migrain
 
-## Ringkasan Satu Kalimat
+## Ringkasan Satu Ayat
 
-Lacosamide adalah obat antiepilepsi generasi ketiga (AED) yang penggunaannya yang disetujui adalah untuk kejang partial-onset (fokal). Model TxGNN memprediksi bahwa ia mungkin efektif untuk **Gangguan Afektif Bipolar Manik**, tetapi basis bukti saat ini — 1 uji klinis dan 14 publikasi yang diambil — terutama mengatasi **depresi bipolar**, bukan fase manik secara khusus, jadi kecocokan arah penyakit perlu konfirmasi sebelum ini dapat dianggap sebagai dukungan yang kuat.
+Lacosamide ialah ubat antiepilepsi (antikonvulsan) yang menyekat saluran natrium bergantung voltan. Model TxGNN meramalkan ia mungkin berkesan untuk **gangguan migrain**, dengan **4 ujian klinikal** dan **18 penerbitan** yang berkaitan buat masa ini. Data yang dikumpulkan tidak menyatakan indikasi asal yang diluluskan di Malaysia, kerana tiada pendaftaran tempatan ditemui.
 
----
-
-## Ikhtisar Cepat
-
-| Item | Konten |
-|------|--------|
-| Indikasi Asli | Epilepsi — kejang partial-onset (fokal) (adjuvan/monoterapi); *Teks indikasi yang disetujui NPRA khusus Malaysia tidak tersedia — rekam jejak lisensi NPRA untuk pull ini kosong* |
-| Indikasi Baru yang Diprediksi | Gangguan Afektif Bipolar Manik |
-| Skor Prediksi TxGNN | 99.96% |
-| Tingkat Bukti | L3 |
-| Status Pasar Malaysia | ✓ Dipasarkan |
-| Jumlah Pendaftaran | 4 |
-| Keputusan yang Direkomendasikan | Tunggu |
+> Nota: Laporan ini memfokuskan pada ramalan kedudukan ke-5 (migrain), kerana ia mempunyai bukti terkuat daripada 10 ramalan yang disenaraikan. Ramalan kedudukan pertama dalam senarai (gangguan afektif bipolar manik) hanya mempunyai bukti L3 yang terhad. Ringkasan semua ramalan diberikan pada akhir laporan.
 
 ---
 
-## Mengapa Prediksi Ini Masuk Akal?
+## Gambaran Keseluruhan Pantas
 
-Saat ini, data mekanisme aksi terperinci tidak tersedia untuk Lacosamide (`original_moa` adalah kesenjangan data). Berdasarkan informasi yang muncul dalam bukti literatur itu sendiri, Lacosamide secara selektif meningkatkan inaktivasi lambat dari saluran natrium yang bergantung pada tegangan, menghasilkan stabilisasi lanjutan dari membran sel saraf (PMID 28845834) — mekanisme umum yang sama dengan obat AED lain (valproate, lamotrigine, carbamazepine) yang bertindak sebagai penstabil suasana hati dalam gangguan bipolar. Ini memberikan preseden tingkat kelas untuk menggunakan kembali AED ke indikasi psikiatri.
-
-Namun, kecocokan arah penyakit tidak presisi: indikasi yang diprediksi secara khusus adalah gangguan bipolar "manik", tetapi hampir semua bukti pendukung (uji klinis Phase 3 yang sedang berlangsung, studi kohort retrospektif, dan pilot terbuka) menargetkan **depresi bipolar**, bukan mania. Satu studi retrospektif memang melaporkan peningkatan pada gejala depresif dan manik dalam pengaturan terbuka, jadi tautan mekanis untuk penstabilan suasana hati secara luas masuk akal, tetapi bukti khusus indikasi (fase manik) saat ini tipis.
-
-**Catatan:** Di antara 10 indikasi yang diprediksi TxGNN dalam paket bukti ini, rangking 5 ("migraine disorder") memiliki bukti pendukung yang jauh lebih kuat (Tingkat Bukti L1, 6 uji klinis termasuk 3 uji klinis RCT Phase 2/3 yang selesai langsung menguji lacosamide) daripada kandidat rangking-1 ini. Jika mengevaluasi kandidat mana yang akan diprioritaskan untuk investasi, migraine disorder menjamin tinjauan terpisah.
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Tiada data indikasi asal daripada pendaftaran tempatan (secara umum diketahui sebagai ubat tambahan untuk sawan fokal) |
+| Indikasi Baharu yang Diramalkan | Gangguan migrain (*migraine disorder*) |
+| Skor Ramalan TxGNN | 99.87% |
+| Tahap Bukti | L1 (mengikut penilaian data yang dikumpulkan) |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Proceed with Guardrails |
 
 ---
 
-## Bukti Uji Klinis
+## Mengapa Ramalan Ini Munasabah?
 
-| Nomor Uji | Fase | Status | Pendaftaran | Temuan Utama |
-|---------|-----|-------|------|---------|
-| [NCT07412132](https://clinicaltrials.gov/study/NCT07412132) | Fase 3 | Merekrut | 40 | Mengevaluasi lacosamide sebagai augmentasi untuk pengobatan lini pertama/kedua untuk episode depresif berat hingga sedang dalam Gangguan Bipolar Tipe I dan II (kelompok paralel, double-blind, acak); menguji efikasi episode depresif, bukan fase manik secara khusus. |
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia daripada pangkalan data ubat. Walau bagaimanapun, berdasarkan analisis kaitan mekanistik yang dikompilasi: lacosamide meningkatkan penyahaktifan perlahan saluran natrium bergantung voltan dan memodulasi CRMP2 (*collapsin response mediator protein 2*). Kedua-dua mekanisme ini bertindih dengan antiepilepsi penstabil mood dan pencegah migrain yang mantap, jadi kelas sasaran ini munasabah.
+
+Hipotesis utama ialah lacosamide boleh merencat pembebasan CGRP (*calcitonin gene-related peptide*) dalam sistem trigeminal melalui CRMP2, dan CGRP berperanan penting dalam serangan migrain. Data praklinikal menyokong hal ini: lacosamide mempengaruhi *cortical spreading depolarization* pada tikus, iaitu mekanisme aura migrain yang diiktiraf, dan model praklinikal sakit kepala sefalik turut dilaporkan.
+
+Hubungan antara indikasi asal (sawan) dengan migrain ialah kedua-duanya melibatkan kehiperujaan neuron. Beberapa antiepilepsi lain sudah digunakan untuk pencegahan migrain (contohnya topiramate), maka lacosamide mungkin menjadi pilihan alternatif, terutamanya bagi pesakit yang tidak bertoleransi terhadap propranolol.
+
+---
+
+## Bukti Ujian Klinikal
+
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
+|---------|------|------|------|---------|
+| [NCT05851781](https://clinicaltrials.gov/study/NCT05851781) | Fasa 3 | Selesai | 600 | Lacosamide berbanding propranolol dalam migrain; menilai pengurangan hari sakit kepala bulanan dan kadar respons ≥50% |
+| [NCT00440518](https://clinicaltrials.gov/study/NCT00440518) | Fasa 2 | Selesai | 218 | Ujian berganda buta, terkawal plasebo, dos 100 mg dan 300 mg/hari untuk pencegahan migrain sehingga 18 minggu; keputusan perlu disahkan |
+| [NCT06243692](https://clinicaltrials.gov/study/NCT06243692) | Fasa 3 | Tidak diketahui | 600 | Lacosamide berbanding topiramate dalam migrain; tiada data keputusan yang disahkan |
+| [NCT05632133](https://clinicaltrials.gov/study/NCT05632133) | Fasa 3 | Selesai | 200 | Kajian perintis rawak mengenai kesan lacosamide terhadap paras CGRP serum; tertumpu pada biopenanda (label fasa kelihatan tidak konsisten dengan reka bentuk perintis) |
 
 ---
 
 ## Bukti Literatur
 
-| PMID | Tahun | Jenis | Jurnal | Temuan Utama |
-|------|-----|------|--------|---------|
-| [30251375](https://pubmed.ncbi.nlm.nih.gov/30251375/) | 2018 | Kohort retrospektif | Psychiatry Clin Neurosci | Perbandingan 30 hari lacosamide vs. antiepilepsi lain pada pasien gangguan bipolar tanpa epilepsi — bukti klinis komparatif langsung. |
-| [33666402](https://pubmed.ncbi.nlm.nih.gov/33666402/) | 2021 | Uji pilot terbuka | J Clin Psychopharmacol | Pilot terbuka 12 minggu menilai efikasi/keamanan lacosamide untuk depresi bipolar. |
-| [28845834](https://pubmed.ncbi.nlm.nih.gov/28845834/) | 2017 | Laporan kasus | Acta Biomed | Stabilisasi klinis gangguan suasana hati yang menyertai PTSD dan epilepsi fronto-temporal menggunakan lacosamide; mendeskripsikan mekanisme inaktivasi lambat saluran natrium. |
-| [30275630](https://pubmed.ncbi.nlm.nih.gov/30275630/) | 2018 | Laporan kasus (peristiwa buruk) | Indian J Psychol Med | Neutropenia yang dipicu lacosamide pada pasien dengan gangguan bipolar dan epilepsi komorbid. |
-| [38304661](https://pubmed.ncbi.nlm.nih.gov/38304661/) | 2024 | Laporan kasus | Cureus | Pasien Bipolar I dengan multiple komorbiditas termasuk kejang-like activity; laporan kontekstual, bukan studi efikasi pengobatan. |
-| [29957667](https://pubmed.ncbi.nlm.nih.gov/29957667/) | 2018 | Tinjauan | Ther Drug Monit | Tinjauan pemantauan obat terapi untuk AED; mencatat bahwa AED juga digunakan untuk manajemen gangguan bipolar secara umum. |
-| [32693579](https://pubmed.ncbi.nlm.nih.gov/32693579/) | 2020 | Tinjauan | ACS Chem Neurosci | Tinjauan druggability CRMP2, relevan dengan mekanisme saluran natrium/CRMP2 yang dibagikan di seluruh aplikasi mood AED. |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [41863672](https://pubmed.ncbi.nlm.nih.gov/41863672/) | 2026 | RCT | Molecular Neurobiology | Lacosamide berbanding propranolol dalam migrain episodik (berganda buta); menilai keberkesanan dan keselamatan sebagai alternatif |
+| [38502425](https://pubmed.ncbi.nlm.nih.gov/38502425/) | 2024 | RCT | Acta Neurologica Belgica | Kesan lacosamide terhadap paras CGRP serum dalam pesakit migrain episodik |
+| [22779776](https://pubmed.ncbi.nlm.nih.gov/22779776/) | 2013 | Kajian sistematik/meta-analisis | Epilepsia | Profil kesan buruk lacosamide daripada RCT |
+| [40670944](https://pubmed.ncbi.nlm.nih.gov/40670944/) | 2025 | Praklinikal | J Headache Pain | Kesan lacosamide terhadap *cortical spreading depolarization* pada tikus |
+| [27917413](https://pubmed.ncbi.nlm.nih.gov/27917413/) | 2016 | Praklinikal | Pain Reports | (S)-Lacosamide dalam model praklinikal sakit sefalik melalui sasaran CRMP2 |
+| [22862686](https://pubmed.ncbi.nlm.nih.gov/22862686/) | 2012 | Ulasan | Expert Opin Emerg Drugs | Rawatan baharu untuk migrain kronik dan migrain kronik refraktori |
+| [38870050](https://pubmed.ncbi.nlm.nih.gov/38870050/) | 2024 | Ulasan | Expert Rev Neurother | Kemas kini farmakoterapi neuralgia trigeminal |
+| [35696452](https://pubmed.ncbi.nlm.nih.gov/35696452/) | 2022 | Ulasan | Brain | Spektrum gangguan SCN1A gain-of-function, termasuk migrain hemiplegia familial jenis 3 |
 
 ---
 
-## Informasi Pasar Malaysia
+## Maklumat Pasaran di Malaysia
 
-Catatan NPRA mengkonfirmasi Lacosamide dipasarkan di Malaysia dengan **4 lisensi aktif**, tetapi bidang lisensi terperinci (nomor otorisasi, nama produk, bentuk dosis, teks indikasi yang disetujui) semuanya dikembalikan kosong dalam pull data ini — ini adalah kesenjangan data, bukan ketiadaan pendaftaran.
+Berdasarkan data yang dikompilasi, lacosamide **tidak mempunyai pendaftaran** di Malaysia (0 lesen). Oleh itu tiada jadual lesen dipaparkan.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Silakan merujuk ke vademekum untuk informasi keselamatan. (Tidak ada data peringatan utama, kontraindikasi, atau interaksi obat yang dapat diambil dalam pull ini — data label TFDA/NPRA ditandai sebagai kesenjangan data **Memblokir**, DG001.)
+- **Interaksi Ubat**: Sebanyak 25 interaksi dikenal pasti (20 butiran disenaraikan dalam data). Interaksi **Major** ialah:
+  - Dolasetron
+  - Ceritinib
+  - Siponimod
+
+  Interaksi **Moderate** yang ketara termasuk klaritromisin, etanol, kobisistat, klorokuin, hidroksiklorokuin, mefloquine, lidokain, ketokonazol, pasireotide, alectinib, brigatinib, crizotinib, fingolimod, idelalisib, imatinib, ozanimod dan sunitinib.
+- **Isyarat keselamatan daripada literatur**: Terdapat laporan kes neutropenia yang dicetuskan oleh lacosamide pada pesakit gangguan bipolar dengan epilepsi (PMID 30275630). Meta-analisis RCT (PMID 22779776) boleh dirujuk untuk profil kesan buruk.
+
+Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pek produk.
 
 ---
 
-## Kesimpulan dan Langkah-Langkah Berikutnya
+## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tunggu**
+**Keputusan: Proceed with Guardrails**
 
-**Alasan:**
-Tingkat Bukti L3 dengan hanya satu uji klinis Phase 3 kecil (n=40), masih merekrut, dan tidak ada RCT yang selesai khusus untuk fase manik tidak cukup untuk melanjutkan. Bukti yang paling kuat yang ada menargetkan depresi *bipolar*, bukan episode *manik* yang dinamai oleh indikasi yang diprediksi ini — kecocokan arah penyakit itu sendiri memerlukan konfirmasi. Selain itu, data label keselamatan TFDA/NPRA (peringatan/kontraindikasi) adalah kesenjangan yang Memblokir, yang mencegah pre-screen keselamatan S1 apa pun.
+**Rasional:**
+- Migrain mempunyai bukti terkuat antara semua ramalan, termasuk beberapa ujian Fasa 3 dengan pembanding aktif, satu ujian Fasa 2 terkawal plasebo, dan satu RCT yang diterbitkan pada 2026. Namun, status sebahagian ujian tidak disahkan, reka bentuknya menggunakan pembanding aktif, dan keputusan ujian Fasa 2 lama (NCT00440518) mungkin negatif, maka langkah berjaga-jaga diperlukan.
 
-**Untuk melanjutkan, berikut diperlukan:**
-- Vademekum TFDA/NPRA (peringatan dan kontraindikasi) — Kesenjangan Memblokir (DG001)
-- Data mekanisme aksi yang bersumber dari DrugBank — Kesenjangan prioritas tinggi (DG002)
-- Konfirmasi arah indikasi: bukti khusus fase-manik, vs. bukti fase-depresi yang tersedia saat ini
-- Hasil dari NCT07412132 setelah selesai (diperkirakan 2027-01)
-- Detail lisensi NPRA lengkap (nama produk, bentuk dosis, teks indikasi yang disetujui) untuk 4 lisensi terdaftar
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Mengesahkan keputusan NCT00440518, NCT05851781 dan NCT06243692, serta menyemak data penuh RCT 2026 (PMID 41863672)
+- Mendapatkan sisipan pek produk untuk amaran dan kontraindikasi (data ini hilang dan merupakan halangan bagi saringan keselamatan)
+- Melengkapkan data mekanisme tindakan (MOA) daripada DrugBank
+- Memandangkan lacosamide tidak berdaftar di Malaysia, menilai laluan pendaftaran dan ketersediaan bentuk dos
+- Merancang pemantauan interaksi ubat, terutamanya dengan ubat berisiko pemanjangan QT/kardiak
 
+---
+
+## Ringkasan Ramalan Lain
+
+| Kedudukan | Penyakit Diramalkan | Skor TxGNN | Tahap Bukti | Cadangan |
+|------|------|------|------|------|
+| 1 | Gangguan afektif bipolar manik | 99.96% | L3 | Research Question (kajian retrospektif kecil 30 hari dan satu laporan keselamatan neutropenia) |
+| 2 | Sindrom Tourette | 99.95% | L5 | Hold (literatur menunjukkan tik yang dicetuskan oleh antiepilepsi, isu keselamatan yang mungkin) |
+| 3 | Trikotilomania | 99.92% | L5 | Hold (tiada bukti) |
+| 4 | Sindrom antidiuresis tidak sesuai nefrogenik | 99.91% | L5 | Hold (kemungkinan artifak rangkaian) |
+| 6 | Insomnia | 99.83% | L5 | Hold |
+| 7 | Migrain dengan aura batang otak | 99.82% | L4 | Research Question (rasional tidak langsung sahaja) |
+| 8 | Sindrom sakit miofasial | 99.81% | L2 | Research Question (satu ujian Fasa 2 tanpa keputusan tersedia) |
+| 9 | Gangguan obsesif-kompulsif | 99.78% | L5 | Hold (ujian berkaitan mengkaji penggunaan alkohol, bukan OCD) |
+| 10 | Konjunktivitis papilari | 99.72% | L5 | Hold (tiada bukti) |
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

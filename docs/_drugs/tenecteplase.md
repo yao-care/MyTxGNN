@@ -2,15 +2,15 @@
 layout: default
 title: Tenecteplase
 parent: Low Evidence (L4-L5)
-nav_order: 640
-evidence_level: L5
+nav_order: 672
+evidence_level: L4
 indication_count: 10
 ---
 
 # Tenecteplase
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L4** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,65 +29,77 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Tenecteplase: Dari Infark Miokardium Elevasi ST kepada Infark Miokardium Posterolateral
+# Tenecteplase: Daripada Infarksi Miokardium kepada Infarksi Miokardium Posterolateral
 
 ## Ringkasan Satu Ayat
 
-> Tenecteplase ialah agen trombolisis yang spesifik fibrin dengan indikasi yang diluluskan dalam infark miokardium elevasi ST (STEMI). Model TxGNN meramalkan ia juga mungkin berkesan untuk **Infark Miokardium Posterolateral**, iaitu subtaip anatomi MI, tetapi arah ini pada masa ini disokong oleh **0 ujian klinikal** dan **0 penerbitan** — ramalan bergantung pada skor model semata-mata.
+Tenecteplase ialah ubat trombolitik (pengaktif plasminogen tisu yang spesifik terhadap fibrin) yang pada asalnya digunakan untuk merawat infarksi miokardium dan trombosis koronari.
+Model TxGNN meramalkan ia mungkin berkesan untuk **infarksi miokardium posterolateral**, tetapi **tiada ujian klinikal** dan **tiada kajian literatur khusus** untuk subjenis ini; sokongan hanya datang daripada indikasi induk (infarksi miokardium), jadi ini bukan pengitaran semula yang sebenar.
 
-## Gambaran Pantas
+---
+
+## Gambaran Ringkas
 
 | Perkara | Kandungan |
-|---------|----------|
-| Indikasi Asal | Infark miokardium elevasi ST (STEMI) — disimpulkan daripada rasional pakej bukti; tidak disahkan secara bebas oleh teks pendaftaran (lihat di bawah) |
-| Indikasi Baru Yang Diramalkan | Infark Miokardium Posterolateral |
+|------|------|
+| Indikasi Asal | Infarksi miokardium, trombosis koronari (daripada graf pengetahuan TxGNN; hemoglobinopati turut disenaraikan) |
+| Indikasi Baharu yang Diramalkan | Infarksi miokardium posterolateral |
 | Skor Ramalan TxGNN | 99.87% |
-| Paras Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 2 |
-| Keputusan yang Disyorkan | Tahan |
+| Tahap Bukti | L4 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci untuk tenecteplase belum tersedia dalam pakej bukti ini (ditandai sebagai jurang data Keterukan Tinggi, DG002 — menunggu carian API DrugBank). Berdasarkan rasional pengubahan tujuan model sendiri, penggunaan yang diluluskan tenecteplase adalah konsisten dengan **STEMI**, di mana ia bertindak dengan melarutkan trombi arteri koroner (trombolisis).
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat sedia ada, tenecteplase ialah pengaktif plasminogen tisu spesifik fibrin yang melarutkan bekuan koronari. Keberkesanannya dalam infarksi miokardium telah diketahui, dan secara mekanistik ia boleh digunakan untuk subjenis anatomi infarksi.
 
-Infark miokardium posterolateral bukanlah penyakit yang berbeza — ia adalah subtaip anatomi infark miokardium, ditentukan oleh lokasi lesi koroner penyebab dan bukannya patofisiologi yang berlainan. Secara mekanistik, trombolisis harus digunakan secara sama rata tanpa mengira wilayah infark, itulah sebabnya rasional model menggambarkan skor sebagai mencerminkan "mekanisme yang sama seperti indikasi STEMI yang telah diluluskan, hanya dibahagikan mengikut lokasi infark."
+Infarksi miokardium posterolateral ialah subjenis wilayah bagi indikasi infarksi miokardium yang sedia ada. Mekanisme pelarutan trombus sama sahaja, maka kebolehgunaan mekanisme adalah langsung. Namun, skor TxGNN yang tinggi (0.9987) sebahagian besarnya hanya mengulangi indikasi label sedia ada, bukan penemuan baharu.
 
-Walau bagaimanapun, rasional juga memberi amaran bahawa skor tinggi ini berkemungkinan mencerminkan persatuan umum graf pengetahuan dengan konsep luas "infark miokardium" dan bukannya bukti bebas untuk subtaip anatomi khusus ini — tiada ujian klinikal atau penerbitan dalam pakej ini yang menyasarkan MI posterolateral secara khusus.
+Ramalan lain dalam senarai (contohnya infarksi posteroinferior dan septum) mempunyai logik yang serupa. Ramalan berkaitan penyakit darah atau kromosom (contohnya thalassemia beta, kekurangan piruvat kinase, pyropoikilocytosis) tidak mempunyai asas mekanistik yang jelas dan kelihatan sebagai artifak graf.
+
+---
 
 ## Bukti Ujian Klinikal
 
-Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan untuk indikasi yang diramalkan.
 
-## Bukti Kesusasteraan
+---
 
-Pada masa ini tiada kesusasteraan berkaitan yang tersedia.
+## Bukti Literatur
 
-## Maklumat Pasaran Malaysia
+Pada masa ini tiada literatur berkaitan yang tersedia untuk infarksi miokardium posterolateral.
 
-Ubat ini didaftarkan di Malaysia (2 lesen, status pasaran: Dipasarkan), tetapi medan pendaftaran terperinci (nombor lesen, nama produk, bentuk dos, teks indikasi yang diluluskan) tidak berjaya diekstrak dalam set data ini dan tidak dapat dijadualkan pada masa ini.
+Sebagai rujukan, bagi ramalan lain, literatur tidak langsung ada ditemui, contohnya kajian kebolehlaksanaan tenecteplase intrakoronari semasa PCI primer (ICE T-TIMI 49, [31870492](https://pubmed.ncbi.nlm.nih.gov/31870492/), 2020, 40 pesakit) dan kajian CAPITAL AMI ([16053952](https://pubmed.ncbi.nlm.nih.gov/16053952/), 2005). Ini tidak menyokong secara langsung subjenis posterolateral.
 
-## Pertimbangan Keselamatan
+---
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
+## Keselamatan
 
-*Nota: Amaran label bersamaan TFDA dan kontraindikasi ditandai sebagai jurang data Penyekat dalam pakej bukti ini (DG001) — ini menghalang calon daripada memasuki peringkat pra-saring keselamatan S1 tanpa mengira skor ramalan.*
+- **Interaksi Ubat**: Pangkalan data mencatatkan 100 interaksi. Antara yang utama:
+  - **Major (Utama)**: abciximab, apixaban, betrixaban, deferasirox, acalabrutinib, avapritinib, ibritumomab tiuxetan, tositumomab. Kebanyakannya meningkatkan risiko pendarahan.
+  - **Moderate (Sederhana)**: asid asetilsalisilik, ibuprofen, ketorolac, celecoxib, asid aminokaproik, asid lemak omega-3, fenfluramine, dexfenfluramine, sibutramine.
+- **Isyarat keselamatan daripada literatur**: satu laporan kes menunjukkan pecah septum ventrikel selepas reperfusi farmako-invasif dengan tenecteplase dalam STEMI anterior (PMID [42220791](https://pubmed.ncbi.nlm.nih.gov/42220791/), 2026).
+
+Sila rujuk sisipan pembungkusan untuk amaran dan kontraindikasi lengkap.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
 **Rasional:**
-- Ramalan berkaitan tertinggi (MI posterolateral) tidak mempunyai sokongan ujian klinikal atau kesusasteraan — ia adalah isyarat skor-model semata-mata (L5) yang berkemungkinan mencerminkan kluster "infark miokardium" umum dalam graf pengetahuan dan bukannya bukti khusus subtaip. Secara berasingan, jurang data keselamatan Penyekat (amaran label/kontraindikasi yang hilang) bermakna calon belum dapat melepasi semakan keselamatan S1 walaupun bukti bertambah baik.
+- Tiada ujian klinikal atau literatur khusus untuk infarksi miokardium posterolateral (Tahap Bukti L4). Ramalan ini pada asasnya subjenis indikasi sedia ada dan bukan pengitaran semula yang benar.
+- Ubat ini tidak berdaftar di Malaysia (0 lesen), dan data keselamatan daripada label tidak tersedia, jadi tidak boleh meneruskan ke saringan keselamatan.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Amaran label bersamaan TFDA dan kontraindikasi (DG001, Penyekat — diperlukan sebelum sebarang pra-saring keselamatan)
-- Mekanisme tindakan yang disahkan melalui DrugBank (DG002)
-- Pengekstrakan butiran pendaftaran Malaysia sebenar (nombor lesen, nama produk, teks indikasi yang diluluskan)
-- Carian kesusasteraan/ujian yang khusus menyasarkan "infark miokardium posterolateral" sebagai populasi rawatan yang ditakrifkan, dan bukannya kajian MI/trombolisis umum
-
-**Nota mengenai calon lain dalam pakej ini:** di antara 10 ramalan berkaitan, *infark miokardium septal* (kaitan 3, L4, peringkat keputusan S1, "Soalan Penyelidikan") dan *stenosis koroner* (kaitan 5, 1 ujian Fasa 2 yang selesai + 12 pukulan PubMed, skor belum dimuktamadkan) pada masa ini mempunyai bukti sokongan yang lebih ketara daripada calon berkaitan tertinggi dan mungkin menjamin penilaian yang berasingan dan khusus.
-
+**Untuk diteruskan, perkara berikut diperlukan:**
+- Sisipan pembungkusan NPRA (amaran dan kontraindikasi) serta pengesahan sama ada ubat boleh didaftarkan atau diimport di Malaysia.
+- Data mekanisme tindakan (MOA) yang terperinci.
+- Bukti klinikal khusus subjenis (contohnya analisis subkumpulan daripada ujian STEMI sedia ada).
+- Pelan pemantauan keselamatan, terutamanya risiko pendarahan dan interaksi dengan antikoagulan/antiplatelet.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

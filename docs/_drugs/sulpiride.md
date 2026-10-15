@@ -2,15 +2,15 @@
 layout: default
 title: Sulpiride
 parent: Low Evidence (L4-L5)
-nav_order: 631
-evidence_level: L5
+nav_order: 663
+evidence_level: L4
 indication_count: 9
 ---
 
 # Sulpiride
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **9** 
+Tahap bukti: **L4** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,74 +29,88 @@ Tahap bukti: **L5** | Indikasi diramal: **9**
 
 </div>
 
-# Sulpirid: Dari Indikasi Psikiatrik/Vertigo ke Distrofi Retina dengan Anomali Ekstraokular
+# Sulpiride: Daripada Skizofrenia kepada Distrofi Retina (dengan atau tanpa Anomali Ekstraokular)
 
-## Ringkasan Satu Kalimat
+## Ringkasan Satu Ayat
 
-Sulpirid ialah antagonis reseptor dopamin D2/D3 kelas benzamid yang digunakan secara klinis untuk skizofrenia, depresi, dan vertigo. Model TxGNN meramalkan ia mungkin berkesan untuk **Distrofi Retina dengan atau tanpa Anomali Ekstraokular**, sejenis gangguan mata kongenital, tetapi pada masa kini **0 uji klinik** dan **tiada penerbitan khusus sulpirid** menyokong arahan ini — rasional paket bukti itu sendiri menandakan hubungan biologis sebagai tidak terbina.
+Sulpiride ialah antagonis reseptor dopamin D2/D3 yang pada asalnya digunakan untuk merawat skizofrenia.
+Model TxGNN meramalkan ia mungkin berkesan untuk **distrofi retina (dengan atau tanpa anomali ekstraokular)**,
+tetapi buat masa ini hanya terdapat **0 ujian klinikal** dan **2 penerbitan praklinikal** yang menyokong arah ini, jadi bukti masih sangat awal.
 
-## Gambaran Ringkas
+---
 
-| Perkara | Kandungan |
+## Gambaran Keseluruhan Pantas
+
+| Item | Kandungan |
 |------|------|
-| Indikasi Asal | Skizofrenia, depresi, vertigo (mengikut penerangan kelas ubat dalam paket bukti; teks indikasi lesen rasmi tidak dikembalikan) |
-| Indikasi Baharu yang Diramalkan | Distrofi retina dengan atau tanpa anomali ekstraokular |
+| Indikasi Asal | Skizofrenia |
+| Indikasi Baharu yang Diramal | Distrofi retina dengan atau tanpa anomali ekstraokular |
 | Skor Ramalan TxGNN | 99.95% |
-| Tahap Bukti | L5 (ramalan model sahaja, tiada kajian penyokong) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Jumlah Pendaftaran | 3 |
-| Keputusan yang Disyorkan | Tahan |
+| Tahap Bukti | L4 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Dokumentasi mekanisme tindakan terperinci untuk sulpirid tidak diambil semula dari DrugBank dalam penarikan ini (ditandai sebagai jurang data Keparahan Tinggi). Berdasarkan maklumat kelas ubat yang tersedia dalam paket bukti, sulpirid ialah antagonis reseptor dopamin D2/D3 terpilih bagi kelas benzamid, digunakan untuk skizofrenia, depresi, dan vertigo.
+Sulpiride ialah antagonis selektif reseptor dopamin D2 dan D3 (gen DRD2 dan DRD3). Ia mempunyai afiniti rendah terhadap reseptor D4. Data yang dikumpulkan juga menunjukkan ia berinteraksi dengan beberapa isoform karbonik anhidrase (CA1, CA7 dan CA12). Penggunaan klinikal utamanya ialah skizofrenia, serta kemurungan, kebimbangan dan masalah tingkah laku kanak-kanak di sesetengah negara.
 
-Distrofi retina dengan atau tanpa anomali ekstraokular ialah gangguan mata struktur kongenital yang biasanya didorong oleh kecacatan perkembangan genetik, bukan oleh isyarat dopaminergik. Penilaian mekanis paket bukti itu sendiri menyatakan tiada sambungan patologis yang diketahui antara antagonisme reseptor D2/D3 dan penyakit ini, dan bahawa kesimpulan ini tidak akan berubah walaupun data MOA penuh tersedia.
+Dalam retina, reseptor dopamin jenis D2 turut memodulasi aktiviti sel ganglion retina. Dua kajian praklinikal pada model tikus retinitis pigmentosa (P23H) menunjukkan antagonis D2, termasuk sulpiride, mengubah tindak balas cahaya sel ganglion retina. Ini menunjukkan penglibatan laluan dopamin retina, iaitu hubungan mekanistik yang tidak langsung.
 
-Memandangkan ketiadaan rasional biologis yang munasabah, calon ini harus diperlakukan sebagai isyarat positif palsu yang mungkin daripada model penyisipan graf pengetahuan daripada peluang pengubahan semula yang tulen — amaran yang juga terpakai pada 8 indikasi yang diramalkan lain dalam paket bukti ini (hidranensefali, sindrom polimikrogiria, CMT1G, varian miopia terikat X, CDG, ensefalopatia glisin), semuanya membawa status L5/Tahan yang sama dengan sifar uji klinik atau kesusasteraan penyokong.
+Namun begitu, bukti ini **tidak** menunjukkan bahawa sulpiride melambatkan degenerasi fotoreseptor atau memperbaiki penglihatan pada pesakit distrofi retina baka. Perubahan tindak balas sel ganglion juga boleh bersifat neutral atau tidak menguntungkan. Hubungan antara indikasi asal (gangguan psikiatri) dan indikasi baharu (penyakit retina baka) juga tidak rapat. Selain itu, tajuk dan abstrak kajian dalam data yang dikumpulkan terpotong, maka butiran ubat, model dan dapatan tidak dapat disahkan sepenuhnya.
 
-## Bukti Uji Klinik
+---
 
-Pada masa kini tiada uji klinik berkaitan yang didaftarkan.
+## Bukti Ujian Klinikal
 
-## Bukti Kesusasteraan
+Buat masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|-------|------|--------|---------|
-| [9416661](https://pubmed.ncbi.nlm.nih.gov/9416661/) | 1997 | Ulasan | Seminars in Ultrasound, CT, and MR | Gambaran keseluruhan peringkat jangkitan orbital/selulitis sekunder kepada sinusitis; tidak membincangkan sulpirid |
-| [20127583](https://pubmed.ncbi.nlm.nih.gov/20127583/) | 2010 | Ulasan | Seminars in Neurology | Pendekatan diagnostik terhadap diplopia daripada penyebab okular/neurologis/otot; petua klinikal umum |
-| [22241537](https://pubmed.ncbi.nlm.nih.gov/22241537/) | 2012 | Laporan Kes/Ulasan | Klinische Monatsblätter für Augenheilkunde | Klasifikasi ptosis kongenital (bentuk ringkas vs. kompleks) dan fibrosis ekstraokular berkaitan |
-| [38249493](https://pubmed.ncbi.nlm.nih.gov/38249493/) | 2023 | Ulasan | Taiwan Journal of Ophthalmology | Anomali kongenital bentuk lensa dan disgenesis segmen anterior berkaitan |
-| [7035111](https://pubmed.ncbi.nlm.nih.gov/7035111/) | 1981 | Ulasan | Documenta Ophthalmologica | Kompleks sindrom Wagner-Stickler: degenerasi vitreoretin dengan ciri ekstraokular sistemik |
-| [38321238](https://pubmed.ncbi.nlm.nih.gov/38321238/) | 2024 | Ulasan | Pediatric Radiology | Klasifikasi pengimejan patologi orbital/okular pediatrik (kongenital dan perkembangan) |
-| [109006](https://pubmed.ncbi.nlm.nih.gov/109006/) | 1979 | Laporan Kes | American Journal of Ophthalmology | Dua kes kriptoftalmia unilateral dengan malformasi orbital/globe |
-| [24413161](https://pubmed.ncbi.nlm.nih.gov/24413161/) | 2014 | Laporan Kes | Journal of Neuro-Ophthalmology | Sinkinesis troklear-okulomotor kongenital, gangguan disinnervasi kranial |
-| [19826317](https://pubmed.ncbi.nlm.nih.gov/19826317/) | 2009 | Laporan Kes | Optometry and Vision Science | Fibrosis kongenital otot ekstraokular dengan perbezaan/aduksi sinergistik |
-| [19064847](https://pubmed.ncbi.nlm.nih.gov/19064847/) | 2008 | Laporan Kes | Archives of Ophthalmology | Siri kes malformasi arteriovena orbital |
+---
 
-**Nota:** Tiada satu pun artikel yang diambil semula mengkaji sulpirid atau sebarang campur tangan farmakologi untuk penyakit ini — ia adalah ulasan oftalmologi/radiologi am dan laporan kes mengenai anomali mata/orbit kongenital, berkemungkinan muncul melalui pertindihan kata kunci ("kongenital," "ekstraokular") daripada bukti ubat-penyakit yang tulen.
+## Bukti Literatur
+
+| PMID | Tahun | Jenis | Jurnal | Dapatan Utama |
+|------|-----|------|------|---------|
+| [27788033](https://pubmed.ncbi.nlm.nih.gov/27788033/) | 2016 | Praklinikal (elektrofisiologi haiwan) | J Ocul Pharmacol Ther | Pada model tikus retinitis pigmentosa P23H, antagonis D2 (sulpiride dan eticlopride) nampaknya memperbaiki tindak balas visual sel ganglion retina; kajian ini menguji haloperidol dan clozapine sebagai ubat antipsikotik untuk melihat kesan serupa. |
+| [26717015](https://pubmed.ncbi.nlm.nih.gov/26717015/) | 2015 | Praklinikal (elektrofisiologi haiwan) | PloS one | Kesan antagonis reseptor D2-like terhadap tindak balas cahaya sel ganglion retina pada retina tikus jenis liar dan P23H. |
+
+---
 
 ## Maklumat Pasaran Malaysia
 
-Malaysia (NPRA) merekodkan 3 pendaftaran aktif untuk sulpirid (status pasaran: Dipasarkan), tetapi nombor lesen, nama produk, bentuk dos, dan teks indikasi yang diluluskan tidak dikembalikan dalam penarikan data ini.
+Sulpiride tidak dipasarkan di Malaysia dan tiada pendaftaran dikesan dalam data yang dikumpulkan.
+
+---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan. (Nota: pengambilan semula sisipan pakej TFDA/NPRA — diperlukan untuk amaran dan kontraindikasi — ialah jurang data Keparahan Sekatan terbuka yang mesti diselesaikan sebelum sebarang prapenilaian keselamatan boleh diteruskan.)
+- **Interaksi / sasaran farmakologi**: Data menunjukkan sulpiride terikat pada reseptor D2 dan D3 (sasaran utama) serta karbonik anhidrase 1, 7 dan 12. Ini ialah maklumat sasaran farmakologi, bukan senarai interaksi ubat-ubat yang dikelaskan mengikut tahap keterukan.
+
+Untuk amaran utama dan kontraindikasi, sila rujuk risalah maklumat produk.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
 **Rasional:**
-Tiada bukti uji klinik atau kesusasteraan khusus penyakit untuk pasangan ubat-penyakit ini, dan analisis mekanis paket bukti itu sendiri tidak mendapati hubungan biologis yang munasabah antara antagonisme dopamin D2/D3 dan distrofi retina kongenital yang didorong secara genetik — ini kemungkinan besar artefak penyisipan graf pengetahuan. Prapenilaian keselamatan (S1) juga disekat menunggu pengambilan semula sisipan pakej.
+- Bukti hanya terhad kepada dua kajian praklinikal tidak langsung pada model tikus, tanpa sebarang ujian klinikal. Kesan antagonis D2 terhadap sel ganglion retina belum terbukti bermanfaat untuk fungsi penglihatan. Ubat ini juga tidak dipasarkan di Malaysia.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Sisipan pakej TFDA/NPRA (PDF) untuk menyelesaikan jurang data Keparahan Sekatan untuk amaran/kontraindikasi
-- Mekanisme tindakan yang disahkan melalui API DrugBank untuk menutup jurang data MOA
-- Penilaian kemungkinan biologis/genetik bebas, kerana sasaran yang diramalkan ialah gangguan kongenital struktur bukannya laluan yang boleh diubahsuai secara farmakologi
-- Memandangkan corak di seluruh 9 ramalan dalam pakej ini (L5/Tahan seragam, sifar uji klinik/kesusasteraan), pertimbangkan untuk mengurangkan prioriti set calon ini menunggu isyarat lebih kuat daripada lelaran model masa depan
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data keselamatan rasmi (amaran dan kontraindikasi) daripada risalah maklumat produk
+- Data mekanisme tindakan yang lebih terperinci
+- Kajian praklinikal tambahan yang menunjukkan kesan terhadap degenerasi fotoreseptor dan fungsi penglihatan, bukan sekadar tindak balas sel ganglion
+- Pengesahan butiran kajian yang dipetik (ubat, model, dapatan) berdasarkan teks penuh
+- Penilaian laluan pendaftaran dan ketersediaan produk di Malaysia
 
+---
+
+### Nota tentang Ramalan Lain
+
+Lapan ramalan lain (hidranensefali, polimikrogiria perisylvian dengan hipoplasia serebelum dan artrogriposis, penyakit Charcot-Marie-Tooth demielinasi jenis 1G, miopia berangkai-X, miopia 26 berangkai-X terhad perempuan, miopia sindromik, gangguan kongenital glikosilasi dengan fukosilasi cacat, dan ensefalopati glisin atipikal) berada pada tahap bukti L5 tanpa ujian klinikal atau literatur, dengan keputusan **Hold**. Bagi miopia, antagonisme D2 secara teori mungkin tidak menguntungkan atau memburukkan keadaan, kerana agonisme dopamin biasanya dianggap melindungi.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

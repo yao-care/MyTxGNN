@@ -2,7 +2,7 @@
 layout: default
 title: Pyrazinamide
 parent: Low Evidence (L4-L5)
-nav_order: 581
+nav_order: 609
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,75 +29,98 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Pyrazinamide: Daripada Tuberkulosis Paru-paru kepada Otitis Media Berjangkit
+# Pyrazinamide: Daripada Tuberkulosis Pulmonari kepada Otitis Media Berjangkit
 
 ## Ringkasan Satu Ayat
 
-Pyrazinamide ialah ejen anti-tuberkulosis garis pertama, digunakan sebagai sebahagian daripada terapi kombinasi piawai (bersama-sama isoniazid, rifampicin, ± ethambutol) untuk tuberkulosis paru-paru. Model TxGNN meramalkan ia mungkin berkesan untuk **Otitis Media Berjangkit**, namun calon khusus ini pada masa kini mempunyai **0 ujian klinikal** dan **0 penerbitan** yang menyokongnya secara langsung — skor tinggi model nampaknya mencerminkan kesamaan penyisipan kepada entiti berkaitan yang lebih terdokumen (otitis media tuberkulosis) daripada bukti langsung.
+Pyrazinamide ialah ubat anti-tuberkulosis yang pada asalnya digunakan untuk merawat tuberkulosis pulmonari dan tuberkulosis meninges.
+Model TxGNN meramalkan ia mungkin berkesan untuk **otitis media berjangkit (infectious otitis media)**,
+tetapi pada masa ini **tiada ujian klinikal** dan **tiada kajian literatur** yang menyokong ramalan ini secara langsung. Ramalan ini pada asasnya hanyalah ramalan model (Tahap Bukti L5).
 
 ---
 
-## Gambaran Pantas
+## Gambaran Keseluruhan Pantas
 
 | Item | Kandungan |
-|------|---------|
-| Indikasi Asal | Tuberkulosis paru-paru (komponen rejimen kombinasi anti-TB garis pertama; teks indikasi peringkat lesen NPRA tidak tersedia dalam data sumber) |
-| Indikasi Baru yang Dijangka | Otitis Media Berjangkit |
+|------|------|
+| Indikasi Asal | Tuberkulosis pulmonari, tuberkulosis meninges, meningitis tuberkulosis |
+| Indikasi Baharu yang Diramalkan | Otitis media berjangkit (infectious otitis media) |
 | Skor Ramalan TxGNN | 99.96% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 5 |
-| Keputusan yang Disyorkan | Tahan |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
-## Mengapa Ramalan Ini Masuk Akal?
+## Mengapa Ramalan Ini Munasabah?
 
-Pada masa kini, data mekanisme tindakan terperinci tidak tersedia (ditandakan sebagai jurang data dalam pakej sumber). Berdasarkan farmakologi yang diketahui, pyrazinamide ialah ubat prodrug yang diubah oleh pyrazinamidase mikoakteri kepada asid pyrazinoik, yang mengganggu potensi membran dan metabolisme tenaga *Mycobacterium tuberculosis* dalam persekitaran asid dan nekrotik lesi TB. Ia adalah komponen utama rejimen kombinasi empat ubat garis pertama piawai untuk tuberkulosis paru-paru, dan keberkesanannya dalam indikasi itu sudah terbukti.
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, pyrazinamide ialah komponen rejimen anti-tuberkulosis berbilang ubat, keberkesanannya dalam tuberkulosis telah terbukti, dan aktivitinya bergantung kepada pH berasid melalui asid pirazinoik, yang aktif terhadap *Mycobacterium tuberculosis*.
 
-Untuk calon puncak itu sendiri — otitis media berjangkit — tiada bukti ujian klinikal atau kesusasteraan yang dikembalikan dalam pakej bukti ini. Menurut rasionalisasi model itu sendiri, skor TxGNN yang tinggi (pangkat 1030 secara dalaman) berkemungkinan besar mencerminkan kesamaan penyisipan graf pengetahuan kepada nod penyakit jiran yang lebih spesifik — "otitis media tuberkulosis" — daripada suatu isyarat baru yang tulen dan disokong bukti.
+Skor TxGNN yang tinggi (0.9996) berkemungkinan mencerminkan kedekatan dalam graf pengetahuan dengan otitis tuberkulosis, dan bukan hubungan antibakteria yang sebenar. Otitis media berjangkit biasa disebabkan oleh *Streptococcus pneumoniae*, *Haemophilus influenzae* dan *Moraxella catarrhalis*, yang tidak dilitupi oleh pyrazinamide. Oleh itu, kemunasabahan mekanistik untuk indikasi ini **lemah**.
 
-Terutamanya, beberapa calon yang berkaitan rapat dalam set ramalan yang sama (penyakit telinga tengah, otitis media kronik, otitis media bernanah — pangkat 2, 4, 5) **adalah** masing-masing disokong oleh 5–8 laporan kes/tinjauan. Semua kesusasteraan itu menerangkan **otitis media tuberkulosis** — manifestasi ekstrapulmoner TB yang jarang mempengaruhi telinga tengah — berjaya dirawat dengan rejimen anti-TB piawai yang merangkumi pyrazinamide. Ini mencadangkan bahawa indikasi yang boleh dipertahankan secara farmakologi adalah lebih sempit daripada "otitis media berjangkit" secara umum: ia adalah otitis media **sekunder kepada jangkitan tuberkulosis yang disahkan**, bukan otitis media dengan etiologi lain (seperti bakteri tipikal), kerana spektrum antimikrobial pyrazinamide pada asasnya terhad kepada mikoakteri.
+Perlu diingat bahawa bagi kes otitis media tuberkulosis yang jarang berlaku, pyrazinamide sudah menjadi sebahagian daripada rawatan piawai anti-tuberkulosis. Ini adalah lanjutan indikasi sedia ada, bukan isyarat penggunaan semula ubat yang baharu.
 
 ---
 
 ## Bukti Ujian Klinikal
 
-Pada masa kini tiada ujian klinikal yang berkaitan didaftarkan.
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Literatur
 
-Pada masa kini tiada kesusasteraan yang berkaitan tersedia.
+Tiada literatur yang berkaitan secara langsung dengan otitis media berjangkit (ramalan utama). Bagi indikasi berkaitan telinga yang berada di kedudukan lebih rendah, literatur yang ada hanyalah laporan kes atau kajian haiwan:
+
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [26785789](https://pubmed.ncbi.nlm.nih.gov/26785789/) | 2013 | Laporan kes | Int J Mycobacteriol | Pesakit wanita 55 tahun dengan TB hidung dan telinga tengah dirawat dengan rifampicin, isoniazid dan pyrazinamide selama 9 bulan; tiada kambuhan selepas 1 tahun |
+| [15168420](https://pubmed.ncbi.nlm.nih.gov/15168420/) | 2004 | Laporan kes | Am J Kidney Dis | Otitis media tuberkulosis pada penerima transplan buah pinggang, selepas rawatan antibiotik empirik berulang |
+| [41783873](https://pubmed.ncbi.nlm.nih.gov/41783873/) | 2026 | Laporan kes | Cureus | Otitis media tuberkulosis yang jarang berlaku dengan otorea; diagnosis lewat |
+| [8011030](https://pubmed.ncbi.nlm.nih.gov/8011030/) | 1994 | Siri kes | Laryngo-Rhino-Otologie | 12 pesakit dengan TB di kawasan kepala dan leher sebagai penemuan sampingan, termasuk satu kes telinga tengah |
+| [21439219](https://pubmed.ncbi.nlm.nih.gov/21439219/) | 2011 | Kajian haiwan (tikus) | J Am Assoc Lab Anim Sci | Tortikolis pada tikus yang dijangkiti *M. tuberculosis*, termasuk kumpulan yang menerima terapi gabungan dengan pyrazinamide |
+
+Catatan: semua bukti di atas berkaitan otitis tuberkulosis yang sudah berada dalam indikasi TB sedia ada, bukan otitis media berjangkit secara umum.
 
 ---
 
-## Maklumat Pasaran Malaysia
+## Ppertimbangan Keselamatan
 
-5 kebenaran produk didaftarkan dengan NPRA (status pasaran: Dipasarkan), namun butiran peringkat lesen (nombor lesen, nama produk, bentuk dos, teks indikasi yang diluluskan) tidak dikembalikan dalam pakej data sumber dan tidak dapat dilengkapkan di sini.
+**Data keselamatan dari pangkalan pengetahuan (bukan teks label):** Penyakit/keadaan yang dikaitkan dengan kontraindikasi ialah:
+- Penyakit hati: kegagalan hati, kegagalan hati akut, penyakit hati, hepatitis
+- Porfiria: porfiria keturunan, penyakit metabolisme porfirin, porfiria
+- Penyakit pundi hempedu
+- Diabetes mellitus dan ketoasidosis diabetik
+- Gout
+- Penyakit sistem saraf periferi dan neuropati periferi
+- Penyalahgunaan/ketagihan bahan
+- Asetilasi perlahan
 
----
+**Interaksi Ubat:** Sebanyak 56 interaksi direkodkan. Yang dikelaskan sebagai *Sederhana (Moderate)*:
+- Picosulfuric acid
+- Naltrexone
 
-## Pertimbangan Keselamatan
+Antara interaksi lain (tahap belum diketahui) termasuk: pantoprazole, omeprazole, lansoprazole, mesalazine, morphine, vancomycin, prednisone, prednisolone, amphotericin B, potassium chloride, sulfasalazine, ranitidine, famotidine, metronidazole, aspirin, glyburide, amoxicillin dan streptomycin.
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
+Sila rujuk sisipan pakej untuk amaran utama dan kontraindikasi rasmi.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
-**Alasan:**
-Walaupun skor keyakinan TxGNN yang tinggi, "otitis media berjangkit" mempunyai sokongan ujian klinikal atau kesusasteraan langsung yang sifar, memenuhi hanya tahap bukti ramalan model sahaja (L5). Bukti sokongan sebenarnya dalam set data ini tertumpu pada otitis media tuberkulosis khususnya, yang boleh dikatakan sebagai lanjutan indikasi TB pyrazinamide yang sudah ada daripada satu yang benar-benar baru.
+**Rasional:**
+- Ramalan hanya berasaskan model tanpa sebarang ujian klinikal atau literatur sokongan langsung. Pyrazinamide tidak aktif terhadap patogen biasa otitis media, dan skor tinggi berkemungkinan hanya mencerminkan kedekatan graf dengan otitis tuberkulosis, yang sudah dilitupi indikasi TB sedia ada.
+- Ubat ini juga tidak dipasarkan di Malaysia (tiada pendaftaran NPRA).
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Sisipan pakej TFDA/NPRA (amaran, kontraindikasi) — pada masa kini merupakan jurang data yang menghalang penyaringan keselamatan awal
-- Data mekanisme tindakan DrugBank melalui API — diperlukan untuk menilai secara formal kerasionalan mekanik
-- Pertimbangkan untuk mengubah semula skop calon daripada "otitis media berjangkit" kepada "otitis media tuberkulosis" dan kumpulkan bukti klinikal yang dikaitkan dengan diagnosis untuk indikasi yang lebih sempit itu
-- Data produk lesen Malaysia (nombor lesen, nama produk, bentuk dos, teks indikasi yang diluluskan) untuk melengkapkan bahagian maklumat pasaran
-
+- Data mekanisme tindakan (MOA) yang terperinci
+- Amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menyekat saringan keselamatan)
+- Bukti klinikal atau praklinikal yang menunjukkan aktiviti terhadap patogen otitis media yang relevan
+- Penilaian semula sama ada hanya otitis tuberkulosis (lanjutan indikasi sedia ada) yang perlu difokuskan
+- Pertimbangan status pendaftaran dan ketersediaan produk di Malaysia
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

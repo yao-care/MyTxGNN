@@ -2,7 +2,7 @@
 layout: default
 title: Oxaliplatin
 parent: High Evidence (L1-L2)
-nav_order: 524
+nav_order: 549
 evidence_level: L2
 indication_count: 4
 ---
@@ -29,87 +29,89 @@ Tahap bukti: **L2** | Indikasi diramal: **4**
 
 </div>
 
-# Oxaliplatin: Daripada Kanser Kolorektal kepada Mesotelioma Pleura Ganas
+# Oxaliplatin: Daripada Metastasis Kanser Kolon kepada Mesotelioma Pleura Malignan
 
 ## Ringkasan Satu Ayat
 
-Oxaliplatin adalah agen sitotoksik berasaskan platinum generasi ketiga, yang paling dikenali sebagai tulang belakang rejimen kemoterapi kanser kolorektal (cth., FOLFOX).
-Model TxGNN meramalkan ia mungkin juga berkesan untuk **Mesotelioma Pleura Ganas**,
-dengan **5 percubaan klinikal** dan **20 penerbitan** kini menyokong arah ini.
+Oxaliplatin ialah ubat kemoterapi berasaskan platinum yang pada asalnya digunakan untuk merawat metastasis kanser kolon.
+Model TxGNN meramalkan ia mungkin berkesan untuk **mesotelioma pleura malignan**,
+dengan **3 percubaan klinikal** (2 daripadanya berkaitan secara langsung) dan **20 penerbitan** yang disenaraikan setakat ini. Bukti yang ada terdiri daripada kajian Fasa II kecil, tanpa RCT Fasa 3.
 
-*Nota: Paket bukti tidak mengandungi teks lesen TFDA/NPRA yang menyatakan petunjuk yang diluluskan secara setempat, jadi "Kanser Kolorektal" di atas mencerminkan petunjuk asal oxaliplatin yang sudah mapan daripada pengetahuan ubat umum dan bukannya daripada teks bersumber paket.*
+---
 
-## Gambaran Keseluruhan Pantas
+## Gambaran Ringkas
 
 | Item | Kandungan |
-|------|---------|
-| Petunjuk Asal | Kanser kolorektal (pengetahuan ubat umum; teks petunjuk lesen setempat tidak tersedia dalam paket bukti) |
-| Petunjuk Baru Meramalkan | Mesotelioma Pleura Ganas |
+|------|------|
+| Indikasi Asal | Metastasis daripada tumor malignan kolon |
+| Indikasi Baharu yang Diramalkan | Mesotelioma pleura malignan |
 | Skor Ramalan TxGNN | 99.68% |
 | Tahap Bukti | L2 |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 9 |
-| Keputusan yang Disyorkan | Teruskan dengan Pengawal |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (Tahan) |
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan asal yang terperinci tidak tersedia dalam paket bukti ini (ditandakan sebagai jurang data tahap keparahan tinggi). Berdasarkan rasional ubat-ubat-baru-untuk-ubat-lama yang dilampirkan pada ramalan ini, oxaliplatin adalah sebatian platinum generasi ketiga yang berfungsi dengan membentuk lintasan silang DNA intra dan antara untai, menghambat replikasi dan transkeripsian DNA serta mendorong apoptosis. Mekanisme sitotoksik ini mempunyai aktiviti luas merentas pelbagai jenis tumor pepejal, bukan hanya petunjuk asalnya.
+Data terperinci mengenai mekanisme tindakan (MOA) daripada pangkalan data ubat tidak tersedia. Berdasarkan maklumat sedia ada, oxaliplatin ialah agen platinum generasi ketiga yang membentuk adduct DNA, merencat replikasi dan transkripsi, lalu mencetuskan apoptosis.
 
-Kanser kolorektal dan mesotelioma pleura ganas (MPM) disambungkan secara farmakoologi melalui mekanisme sitotoksik bersama ini. Apabila digabungkan dengan agen seperti gemcitabine (perencat sintesis nukleotida) atau raltitrexed (perencat timin sintetase/antifol), lintasan silang DNA oxaliplatin adalah pelengkap mekanisme yang munasabah — pasangan ini menggabungkan penindasan sintesis DNA dengan kerosakan DNA langsung. Beberapa percubaan tahap 2 satu lengan telah menunjukkan aktiviti kombinasi oxaliplatin ini dalam MPM, mewakili bentuk ubat-ubat-baru-untuk-ubat-lama yang telah diuji dalam amalan klinikal, walaupun belum disahkan oleh percubaan RCT Tahap 3.
+Agen platinum lain (cisplatin, carboplatin) ialah tulang belakang kemoterapi mesotelioma yang mantap, jadi platinum berkaitan mempunyai kebolehpercayaan biologi. Kesan oxaliplatin terhadap kanser kolon telah terbukti, dan mekanisme kerosakan DNA yang sama mungkin terpakai kepada mesotelioma.
+
+Beberapa kajian Fasa II menggabungkan oxaliplatin dengan gemcitabine, raltitrexed atau vinorelbine dan menunjukkan aktiviti. Namun, tiada RCT Fasa 3 yang menunjukkan keunggulan berbanding standard rawatan cisplatin/pemetrexed. Satu kajian raltitrexed-oxaliplatin sebagai rawatan lini kedua juga tidak menunjukkan sebarang respons objektif (14 pesakit).
+
+---
 
 ## Bukti Percubaan Klinikal
 
-| Nombor Percubaan | Tahap | Status | Pendaftaran | Penemuan Utama |
-|---------|------|--------|------|---------|
-| [NCT00859469](https://clinicaltrials.gov/study/NCT00859469) | Tahap 2 | Selesai | 29 | Oxaliplatin + gemcitabine sebagai terapi garis pertama atau kedua dalam mesotelioma pleura/peritoneal; bukti langsung teras untuk pasangan ubat-penyakit ini |
-| [NCT00996385](https://clinicaltrials.gov/study/NCT00996385) | Tahap 2 | Tidak diketahui | 29 | Bortezomib (Velcade) + oxaliplatin (Eloxatin) dalam mesotelioma pleura/peritoneal yang telah dirawat sebelumnya |
-| [NCT03210298](https://clinicaltrials.gov/study/NCT03210298) | T/A | Tidak diketahui | 1000 | Daftar antarabangsa Penggasaran Kimia Aerosol Tekanan Intraperitonal/IntraToraks (PIPAC/PITAC) untuk penyakit pleura/peritoneal ganas; bukan khusus oxaliplatin, kaitan tidak langsung |
-| [NCT05107674](https://clinicaltrials.gov/study/NCT05107674) | Tahap 1 | Mengambil peserta | 345 | Kajian peningkatan dos NX-1607 (perencat CBL-B) dalam keganasan lanjutan termasuk kohort MPM; ubat penyiasat yang tidak berkaitan dengan oxaliplatin |
-| [NCT06310473](https://clinicaltrials.gov/study/NCT06310473) | Tahap 2 | Belum mula mengambil peserta | 30 | Cadonilimab neoadjuvan + kemoterapi dalam kanser persimpangan gastrik/gastrik; ketidaksesuaian penyakit, kaitan rendah |
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
+|---------|------|------|------|---------|
+| [NCT00996385](https://clinicaltrials.gov/study/NCT00996385) | Fasa 2 | Tidak diketahui | 29 | Bortezomib (Velcade) + oxaliplatin (Eloxatin) pada pesakit mesotelioma pleura/peritoneum yang telah dirawat sebelum ini; satu lengan, penilaian respons tumor melalui CT |
+| [NCT00859469](https://clinicaltrials.gov/study/NCT00859469) | Fasa 2 | Selesai | 29 | Oxaliplatin + gemcitabine sebagai kemoterapi lini pertama atau kedua; menilai kadar respons; tidak rawak |
+| [NCT07532902](https://clinicaltrials.gov/study/NCT07532902) | Fasa 1 | Sedang merekrut | 60 | Percubaan bakul BMS-986504 dengan rawatan standard pada tumor pepejal metastatik MTAP-terpadam; oxaliplatin hanya sebahagian terapi latar, kaitan rendah |
 
-## Bukti Kesusasteraan
+---
+
+## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [11989592](https://pubmed.ncbi.nlm.nih.gov/11989592/) | 2001 | Percubaan Tahap 2 | Tumori | Kajian rintis oxaliplatin + raltitrexed dalam MPM yang tidak boleh dioperasi, mengikuti isyarat aktiviti yang lebih awal dalam kajian Tahap 1 |
-| [14609447](https://pubmed.ncbi.nlm.nih.gov/14609447/) | 2003 | Percubaan Tahap 2 (pelbagai pusat) | Clinical Lung Cancer | Percubaan pelbagai pusat gemcitabine + oxaliplatin (25 pesakit) menilai aktiviti dalam MPM |
-| [12525529](https://pubmed.ncbi.nlm.nih.gov/12525529/) | 2003 | Percubaan Tahap 2 | Journal of Clinical Oncology | Raltitrexed + oxaliplatin dalam 70 pesakit MPM diffus yang tidak menerima kemoterapi/pra-rawat |
-| [19091133](https://pubmed.ncbi.nlm.nih.gov/19091133/) | 2008 | Tahap 2/retrospektif | J Occup Med Toxicol | Gemcitabine ± oxaliplatin dalam pesakit MPM yang pra-rawat pemetrexed; data keamanan/keberkesanan pemerhatian |
-| [15639727](https://pubmed.ncbi.nlm.nih.gov/15639727/) | 2005 | Percubaan Tahap 2 | Lung Cancer | Vinorelbine + oxaliplatin sebagai terapi garis pertama dalam MPM yang tidak dirawat |
-| [15893013](https://pubmed.ncbi.nlm.nih.gov/15893013/) | 2005 | Percubaan Tahap 2 | Lung Cancer | Raltitrexed-oxaliplatin sebagai terapi garis kedua MPM; percubaan ditutup awal disebabkan tiada respons objektif |
-| [10930799](https://pubmed.ncbi.nlm.nih.gov/10930799/) | 2000 | Semakan institusional | European Journal of Cancer | Pengalaman 9 tahun Institut Gustave Roussy merentas 7 percubaan kemo/kemo-imuniterapi dalam mesotelioma, termasuk raltitrexed-oxaliplatin |
-| [26526504](https://pubmed.ncbi.nlm.nih.gov/26526504/) | 2015 | Semakan | Cancer Treatment Reviews | Ulasan landskap terapeutik MPM, mencatat pemetrexed-platinum sebagai penjagaan garis pertama standard |
-| [12601280](https://pubmed.ncbi.nlm.nih.gov/12601280/) | 2003 | Semakan | Current Opinion in Oncology | Merumuskan hasil percubaan kemoterapi dalam MPM, termasuk kombinasi raltitrexed-oxaliplatin |
-| [31455014](https://pubmed.ncbi.nlm.nih.gov/31455014/) | 2019 | Semakan | Int J Mol Sciences | Ulasan kesan imunomodulatif agen kemo termasuk oxaliplatin, untuk menginformasikan kombinasi dengan penyekat semak imun dalam MPM |
+| [14609447](https://pubmed.ncbi.nlm.nih.gov/14609447/) | 2003 | Fasa II | Clin Lung Cancer | Gemcitabine + oxaliplatin pada 25 pesakit mesotelioma pleura malignan |
+| [12525529](https://pubmed.ncbi.nlm.nih.gov/12525529/) | 2003 | Fasa II | J Clin Oncol | Raltitrexed + oxaliplatin ialah regimen aktif pada mesotelioma (70 pesakit) |
+| [15639727](https://pubmed.ncbi.nlm.nih.gov/15639727/) | 2005 | Fasa II | Lung Cancer | Vinorelbine + oxaliplatin sebagai rawatan lini pertama |
+| [11989592](https://pubmed.ncbi.nlm.nih.gov/11989592/) | 2001 | Fasa II (perintis) | Tumori | Oxaliplatin + raltitrexed pada mesotelioma pleura yang tidak boleh dibedah |
+| [19091133](https://pubmed.ncbi.nlm.nih.gov/19091133/) | 2008 | Fasa II (pesakit dirawat sebelum ini) | J Occup Med Toxicol | Oxaliplatin ± gemcitabine pada pesakit yang telah menerima pemetrexed |
+| [15893013](https://pubmed.ncbi.nlm.nih.gov/15893013/) | 2005 | Fasa II | Lung Cancer | Raltitrexed-oxaliplatin tidak aktif sebagai lini kedua; tiada respons objektif |
+| [12610498](https://pubmed.ncbi.nlm.nih.gov/12610498/) | 2003 | Ulasan | Br J Cancer | Ulasan kemoterapi mesotelioma pleura malignan |
+| [15261443](https://pubmed.ncbi.nlm.nih.gov/15261443/) | 2004 | Ulasan | Lung Cancer | Ulasan keputusan dan perkembangan terkini kemoterapi mesotelioma |
+| [12601280](https://pubmed.ncbi.nlm.nih.gov/12601280/) | 2003 | Ulasan | Curr Opin Oncol | Kemoterapi mesotelioma; kombinasi platinum-pemetrexed memberi kadar respons sehingga 45% |
+| [31455014](https://pubmed.ncbi.nlm.nih.gov/31455014/) | 2019 | Praklinikal/Ulasan | Int J Mol Sci | Kesan kemoterapi (termasuk oxaliplatin) terhadap ekspresi pusat pemeriksaan imun |
 
-## Sitotoksisiti
+---
 
-| Item | Kandungan |
-|------|---------|
-| Klasifikasi Sitotoksisiti | Sitotoksik konvensional (agen berasaskan platinum) |
-| Risiko Mielosapresan | Sila rujuk amaran dan langkah berjaga paket sisipan |
-| Klasifikasi Emetogenisiti | Sila rujuk amaran dan langkah berjaga paket sisipan |
-| Item Pemantauan | Sila rujuk amaran dan langkah berjaga paket sisipan |
-| Perlindungan Pengendalian | Sila rujuk amaran dan langkah berjaga paket sisipan; peraturan pengendalian ubat sitotoksik secara umum terpakai kepada agen platinum |
+## Keselamatan
 
-## Pertimbangan Keselamatan
+- **Penyakit yang dikenal pasti sebagai kontraindikasi dalam graf pengetahuan** (bukan teks label): penyakit buah pinggang, penyakit hati, penyakit pundi hempedu, penyakit sistem saraf periferi/neuropati periferi, penyakit paru-paru interstisial dan fibrosis pulmonari.
+- **Interaksi Ubat**: sebanyak 100 interaksi direkodkan. Interaksi **Major** yang dilaporkan ialah dengan **dolasetron**. Antara interaksi **Moderate**: famotidine, amphotericin B, loperamide, mesalazine, balsalazide, bisacodyl, metronidazole, clarithromycin, vancomycin, kanamycin, naltrexone, levofloxacin, palonosetron, lactulose, lactitol, serta pencuci usus (picosulfuric acid, natrium sulfat, polyethylene glycol).
 
-Sila rujuk paket sisipan untuk maklumat keselamatan.
+Untuk amaran utama dan kontraindikasi rasmi, sila rujuk sisipan pakej.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Teruskan dengan Pengawal**
+**Keputusan: Hold (Tahan)**
 
 **Rasional:**
-Pelbagai percubaan Tahap 2 satu lengan yang selesai dan asas kesusasteraan yang besar (20 penerbitan) menyokong aktiviti kombinasi berasaskan oxaliplatin dalam MPM, tetapi tiada percubaan RCT Tahap 3 mengesahkan keberkesanan, dan tahap bukti calon ini adalah L2. Secara kritikal, data amaran/kontraindikasi TFDA adalah jurang data **Menghalang** yang mesti diselesaikan sebelum sebarang semakan peringkat keselamatan (S1) boleh diteruskan.
+- Bukti terhad kepada kajian Fasa II kecil dan tidak rawak (sekitar 25–70 pesakit), dengan satu kajian lini kedua yang negatif dan tiada RCT Fasa 3 berbanding standard rawatan cisplatin/pemetrexed. Selain itu, oxaliplatin tidak berdaftar di Malaysia dan data keselamatan rasmi belum lengkap.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Label produk TFDA (amaran, kontraindikasi) — kini menghalang (DG001)
-- Butiran mekanisme tindakan DrugBank yang disahkan — kini jurang tahap keparahan tinggi (DG002)
-- Teks petunjuk yang diluluskan setempat (Malaysia/Taiwan) daripada rekod lesen, yang kosong dalam paket bukti ini
-- Penilaian keserasian rute pentadbiran (kini ditandakan "tertangguh" dalam paket bukti)
-- Secara ideal, percubaan rawak Tahap 3 atau semakan sistematik/meta-analisis untuk bergerak melampaui bukti L2
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisipan pakej/amaran dan kontraindikasi daripada NPRA (jurang data yang menghalang penilaian keselamatan)
+- Data mekanisme tindakan terperinci daripada DrugBank
+- Bukti perbandingan yang lebih kukuh (contohnya percubaan rawak berbanding cisplatin/pemetrexed)
+- Data khusus subjenis histologi (epitelioid, sarkomatoid)
+- Pertimbangan status pendaftaran dan ketersediaan produk di Malaysia
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

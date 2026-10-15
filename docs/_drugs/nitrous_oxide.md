@@ -2,15 +2,15 @@
 layout: default
 title: Nitrous Oxide
 parent: Low Evidence (L4-L5)
-nav_order: 506
-evidence_level: L5
+nav_order: 530
+evidence_level: L4
 indication_count: 1
 ---
 
 # Nitrous Oxide
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **1** 
+Tahap bukti: **L4** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,66 +29,83 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Oksida Nitrus: Daripada Anestesi/Analgesia kepada Hiperplasia Prostat Jinak
+# Nitrous Oxide: Daripada Penggunaan Asal kepada Hiperplasia Prostat Benigna (BPH)
 
 ## Ringkasan Satu Ayat
 
-Oksida nitrus adalah gas anestesi/analgesia inhalasi yang telah lama digunakan untuk sedasi prosedural dan kontrol kesakitan (contohnya, prosedur gigi, obstetrik, dan pembedahan kecil). Model TxGNN meramalkan ia mungkin berkesan untuk **Hiperplasia Prostat Jinak (HPJ)**, tetapi ini kini hanya disokong oleh **1 percubaan klinikal** (kajian sedasi prosedural untuk peredaman kecemasan, bukan percubaan rawatan HPJ) dan **3 penerbitan laporan kes/teknikal yang lebih lama**, tiada yang menguji oksida nitrus sebagai terapi HPJ.
+Nitrous oxide (gas ketawa) ialah anestetik dan analgesik sedut yang digunakan dalam prosedur pergigian, pediatrik dan prosedur perubatan lain; data pendaftaran tempatan untuk indikasi asalnya tidak tersedia dalam data yang dihimpunkan untuk laporan ini.
+Model TxGNN meramalkan ia mungkin berkesan untuk **Hiperplasia Prostat Benigna (BPH)**, tetapi kini hanya terdapat **1 ujian klinikal** (berkaitan prosedur, bukan rawatan BPH) dan **1 penerbitan** (laporan kes) sebagai sokongan tidak langsung.
+
+---
 
 ## Gambaran Keseluruhan Pantas
 
-| Item | Kandungan |
-|------|----------|
-| Indikasi Asal | Gas anestesi/analgesia inhalasi — teks indikasi yang diluluskan oleh NPRA khususnya tidak ditangkap dalam pak bukti ini |
-| Indikasi Baru yang Diramalkan | Hiperplasia Prostat Jinak |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Tiada data indikasi lulus daripada pendaftaran tempatan |
+| Indikasi Baharu yang Diramalkan | Hiperplasia prostat benigna (BPH) |
 | Skor Ramalan TxGNN | 99.52% |
-| Tahap Bukti | L5 (ramalan model sahaja; percubaan tunggal yang sedia ada dan semua kesusasteraan berkaitan dengan prosedur/anestesia, bukan bukti rawatan HPJ) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 5 |
-| Keputusan Disyorkan | Tunggu |
+| Tahap Bukti | L4 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan terperinci tidak tersedia untuk oksida nitrus dalam pak bukti ini (Jurang Data DG002). Berdasarkan farmakologi yang diketahui, oksida nitrus bertindak terutamanya sebagai antagonis reseptor NMDA serta gas anestesi/analgesia yang ringan — suatu mekanisme tanpa kaitan yang jelas dengan tonus otot licin α1-adrenergik atau laluan patofisiologi yang didorong oleh DHT/5α-reduksase dalam hiperplasia kelenjar yang mendasari HPJ.
+Pada masa ini, data terperinci mengenai mekanisme tindakan tidak tersedia. Nitrous oxide diketahui sebagai anestetik sedut dengan kesan anxiolitik dan analgesik, tetapi tiada mekanisme biologi yang didokumenkan dalam data yang dihimpunkan yang menghubungkannya dengan patologi BPH (tonus otot licin prostat, isyarat androgen, atau percambahan stroma/epitelium).
 
-Penjelasan penjanaan semula dalam pak bukti sendiri dengan jelas menunjukkan bahawa skor TxGNN yang tinggi ini (99.52%) kemungkinan besar mencerminkan **isyarat graf pengetahuan yang terkacau**: oksida nitrus sering muncul bersama dalam kesusasteraan urologi/prosedur prostat (sebagai anestesi yang digunakan *semasa* biopsi prostat, krioterapi, dan prostatektomi) daripada digunakan *untuk merawat* HPJ itu sendiri. Dalam erti kata lain, nampaknya model telah mempelajari "oksida nitrus dikaitkan dengan prosedur prostat," bukan "oksida nitrus merawat pembesaran prostat."
+Skor TxGNN yang sangat tinggi (0.995) berasal daripada ramalan berasaskan rangkaian pengetahuan, bukan bukti biologi langsung. Satu-satunya isyarat klinikal ialah penggunaan prosedur: nitrous oxide digunakan untuk mengurangkan kebimbangan dan kesakitan semasa biopsi prostat transrektal. Ini ialah sokongan simptom/prosedur, bukan pengubahsuaian penyakit atau rawatan BPH.
 
-Memandangkan ketiadaan data MOA yang menyokong laluan biologi yang munasabah, dan anotasi model sendiri bahawa ini berkemungkinan isyarat ko-kejadian yang palsu, kes mekanis untuk penjanaan semula adalah lemah.
+Oleh itu, sebarang kaitan antara indikasi asal dan indikasi baharu ini hanyalah tidak langsung, dan kemunasabahan mekanistiknya masih lemah.
 
-## Bukti Percubaan Klinikal
+---
 
-| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
+## Bukti Ujian Klinikal
+
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT05803096](https://clinicaltrials.gov/study/NCT05803096) | Fasa 4 | Selesai | 143 | Menilai oksida nitrus yang ditadbir sendiri oleh pesakit semasa biopsi prostat transrektal untuk mengurangkan kebimbangan/kesakitan pesakit. Ini adalah kajian sedasi prosedural dan peredaman kecemasan, bukan percubaan oksida nitrus sebagai rawatan HPJ — tiada titik akhir berkaitan keberkesanan HPJ (isipadu prostat, uroflowmetri, IPSS) telah diukur. Dinilai relevansi langsung rendah (Gred C). |
+| [NCT05803096](https://clinicaltrials.gov/study/NCT05803096) | Fasa 4 | Selesai | 143 | Nitrous oxide yang ditadbir sendiri (SANO) semasa biopsi prostat transrektal untuk mengurangkan kebimbangan dan kesakitan pesakit. Ujian ini menilai pengalaman prosedur, bukan keberkesanan terhadap BPH. |
 
-## Bukti Kesusasteraan
+---
+
+## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [9223887](https://pubmed.ncbi.nlm.nih.gov/9223887/) | 1997 | Laporan kes | Masui (Jpn J Anesthesiology) | Pengurusan anestesi (termasuk ejen inhalasi) untuk pesakit dengan kegagalan autonomik tulen yang menjalani prostatektomi suprapubik — laporan kes anestesia, bukan kajian rawatan HPJ. |
-| [4108916](https://pubmed.ncbi.nlm.nih.gov/4108916/) | 1971 | Laporan kes | Zeitschrift für praktische Anästhesie und Wiederbelebung | Menerangkan anestesia gabungan (berbasis methohexital) dalam pesakit urologi berisiko tinggi; oksida nitrus muncul sebagai sebahagian daripada rejimen anestesi, bukan sebagai terapi HPJ. |
-| [4171323](https://pubmed.ncbi.nlm.nih.gov/4171323/) | 1968 | Lain-lain (laporan teknikal/peranti) | International Surgery | Menerangkan radas baru untuk krioterapi penyumbatan prostat; peranan oksida nitrus di sini berkemungkinan sebagai kryogen/penyejuk dalam peranti, bukan rawatan farmakologi. |
+| [9223887](https://pubmed.ncbi.nlm.nih.gov/9223887/) | 1997 | Laporan kes | Masui (Jpn J Anesthesiol) | Pengurusan anestesia bagi pesakit lelaki 64 tahun dengan kegagalan autonomi tulen yang menjalani prostatektomi suprapubik; tiada kaitan dengan keberkesanan terapeutik terhadap BPH. |
 
-## Maklumat Pasaran Malaysia
+---
 
-Malaysia (NPRA) menunjukkan oksida nitrus dipasarkan dengan **5 pendaftaran aktif**; bagaimanapun, nombor lesen individu, nama produk, bentuk dos, dan teks indikasi yang diluluskan tidak diperolehi semasa penelusuran bukti ini dan tidak dapat ditampilkan dalam bentuk jadual pada masa ini.
+## Kesan Sitotoksik
+
+Bahagian ini tidak berkenaan kerana nitrous oxide bukan ubat antineoplastik.
+
+---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
+- **Interaksi Ubat**: Pangkalan data mencatatkan 5 interaksi:
+  - **Major**: Methotrexate
+  - **Moderate**: Morphine, Opium, Codeine, Hydrocodone
+
+Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tunggu**
+**Keputusan: Hold**
 
-**Nisbah:**
-Indikasi HPJ yang diramalkan tidak disokong oleh mekanisme yang munasabah, dan semua "bukti" yang sedia ada (percubaan tunggal dan ketiga-tiga penerbitan) menyangkut penggunaan oksida nitrus sebagai anestesi/analgesia prosedural semasa intervensi prostat — bukan sebagai rawatan untuk HPJ itu sendiri. Pak bukti sendiri menandai ini sebagai isyarat graf pengetahuan yang berkemungkinan terkacau (L5, peringkat keputusan S0).
+**Rasional:**
+- Ramalan TxGNN sangat tinggi, tetapi bukti sebenar hanya berkaitan prosedur (pengurangan kebimbangan semasa biopsi), bukan rawatan BPH. Tiada bukti mekanistik atau klinikal langsung, dan produk ini tidak berdaftar di Malaysia.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Amaran sisipan pakej NPRA, kontraindikasi, dan data interaksi ubat (jurang yang menyekat, DG001) — diperlukan sebelum sebarang penilaian keselamatan pendahuluan dapat bermula
-- Data mekanisme tindakan yang disahkan (DG002) untuk menilai kelayakan biologi
-- Jika hipotesis ini masih diikuti, kajian khusus untuk menilai oksida nitrus terhadap titik akhir HPJ yang khusus (isipadu prostat, uroflowmetri, IPSS), bukannya penggunaan anestesia prosedural yang sampingan
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) yang jelas dan hipotesis biologi yang menghubungkan nitrous oxide dengan BPH
+- Sisipan pakej/maklumat amaran dan kontraindikasi daripada NPRA untuk saringan keselamatan
+- Kajian praklinikal atau klinikal yang menilai terus keberkesanan terhadap BPH
+- Penilaian keserasian laluan pentadbiran dan status pendaftaran tempatan
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

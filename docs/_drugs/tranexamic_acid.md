@@ -2,7 +2,7 @@
 layout: default
 title: Tranexamic Acid
 parent: Low Evidence (L4-L5)
-nav_order: 661
+nav_order: 694
 evidence_level: L4
 indication_count: 1
 ---
@@ -29,62 +29,79 @@ Tahap bukti: **L4** | Indikasi diramal: **1**
 
 </div>
 
-# Asid Traneksamik: Dari Perdarahan Menstruasi Berat kepada Amenorrhea — Isyarat yang Bercanggah
+# Asid Traneksamik: Daripada Endometriosis kepada Amenorea
 
 ## Ringkasan Satu Ayat
 
-Asid traneksamik adalah ejen antifibrinolitik yang peranannya yang telah terbukti secara klinikal ialah *mengurangkan* perdarahan menstruasi yang berlebihan (menorrhagia/perdarahan uterus abnormal), bukan mendorong atau merawat ketiadaan menstruasi. Model TxGNN meramalkan kaitan dengan **Amenorrhea**, tetapi pakej bukti ini tidak mengandungi **sebarang percubaan klinikal yang menyokong** dan hanya **2 penerbitan jenis ulasan**, tidak satu pun yang mengkaji indikasi ini secara langsung. Arah ramalan yang diramalkan nampaknya bertentangan secara farmakologis dengan kesan ubat yang diketahui, dan telah ditandai dalam pakej ini sebagai artifak graf pengetahuan yang mungkin dan bukannya isyarat repurposing yang tulen.
+Asid traneksamik ialah agen antifibrinolitik yang, menurut data yang disusun untuk laporan ini, berkait dengan indikasi asal endometriosis (endometriosis uterus).
+Model TxGNN meramalkan ia mungkin berkesan untuk **amenorea**, tetapi buat masa ini hanya terdapat **0 percubaan klinikal** dan **2 penerbitan** (kedua-duanya ulasan) yang menyentuh hala tuju ini secara tidak langsung.
 
-## Tinjauan Pantas
+---
+
+## Gambaran Ringkas
 
 | Item | Kandungan |
-|------|-----------|
-| Indikasi Asal | Tidak dinyatakan dalam teks lesen TFDA yang tersedia; mengikut nota rasional pakej bukti itu sendiri, asid traneksamik adalah ejen antifibrinolitik yang digunakan untuk mengawal/mengurangkan perdarahan menstruasi berat dan keadaan hemoraji lain |
-| Indikasi Baru Yang Diramalkan | Amenorrhea (penyakit) |
+|------|------|
+| Indikasi Asal | Endometriosis (endometriosis uterus) (berdasarkan graf pengetahuan TxGNN/PrimeKG; tiada teks indikasi berlesen tersedia) |
+| Indikasi Baharu yang Diramalkan | Amenorea |
 | Skor Ramalan TxGNN | 99.19% |
 | Tahap Bukti | L4 |
-| Status Pasaran Malaysia | ✓ Dimasarkan |
-| Bilangan Pendaftaran | 10 |
-| Keputusan yang Disyorkan | Tahan |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (Tangguh) |
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan yang terperinci tidak tersedia dalam pakej bukti ini (ditandai sebagai jurang data berkesedar tinggi). Berdasarkan maklumat yang tersedia, asid traneksamik adalah penghambat plasminogen/plasmin (antifibrinolitik) yang kesannya klinikal yang terbukti ialah **mengurangkan** perdarahan uterus yang berlebihan — arah fisiologi yang bertentangan dengan amenorrhea (ketiadaan menstruasi).
+Butiran mekanisme tindakan (MOA) rasmi tidak tersedia dalam data yang disusun. Namun, asid traneksamik secara umumnya dikenali sebagai analog lisina yang menghalang pengikatan plasminogen kepada fibrin, lalu mengurangkan pendarahan haid yang banyak. Ini memberi kaitan yang munasabah dengan penindasan haid.
 
-Pakej bukti itu sendiri menimbulkan kebimbangan ini secara langsung: skor TxGNN yang tinggi (0.99) kemungkinan besar mencerminkan kedekatannya dalam graf antara nod "amenorrhea" dan nod "perdarahan menstruasi / perdarahan uterus abnormal (AUB)", dan bukannya hubungan kausal atau terapeutik. Dalam erti kata lain, model mungkin memilih maklumat bahawa asid traneksamik sangat dikaitkan dengan konsep penyakit berkaitan menstruasi secara umum, tanpa membezakan dengan betul "merawat perdarahan" daripada "menyebabkan ketiadaan perdarahan."
+Walau bagaimanapun, kaitan ini lemah. Asid traneksamik tidak mendorong amenorea melalui mekanisme hormon atau endometrium. Amenorea ialah ketiadaan haid, iaitu keadaan klinikal yang berbeza daripada pengurangan pendarahan. Agen antifibrinolitik tidak dijangka menyebabkan atau merawat keadaan ini. Ramalan tersebut mungkin mencerminkan kekeliruan antara kegunaan penindasan haid dengan amenorea sebagai entiti penyakit.
 
-Kerana data MOA asal hilang, konflik mekanik ini tidak boleh disemak silang secara bebas atau diselesaikan daripada pakej ini sahaja. Ia harus dianggap sebagai percanggahan yang belum diselesaikan, bukan sebagai bukti yang menyokong.
+Skor TxGNN yang sangat tinggi (0.99) hanyalah ramalan pengiraan. Indikasi asal (endometriosis) juga tidak disokong oleh mekanisme tindakan yang jelas dalam data yang ada.
+
+---
 
 ## Bukti Percubaan Klinikal
 
-Tiada percubaan klinikal berkaitan yang didaftarkan pada masa ini.
+Buat masa ini tiada percubaan klinikal berkaitan didaftarkan.
+
+---
 
 ## Bukti Literatur
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|------|------|--------|---------|
-| [21701432](https://pubmed.ncbi.nlm.nih.gov/21701432/) | 2011 | Ulasan | Menopause (New York, N.Y.) | Ulasan berasaskan bukti tentang terapi farmakologi untuk **perdarahan uterus abnormal** (iaitu, merawat perdarahan berlebihan, bukan amenorrhea); tidak menangani asid traneksamik untuk amenorrhea secara khusus |
-| [39043214](https://pubmed.ncbi.nlm.nih.gov/39043214/) | 2024 | Ulasan | Journal of Oncology Pharmacy Practice | Pendekatan sistemik kepada **profilaksis menstruasi dan penindasan** pada pesakit kanser hematologi pra-menopaus yang menjalani sitopenias yang berkaitan dengan rawatan; membincangkan strategi penindasan menstruasi secara luas, bukan amenorrhea sebagai indikasi yang dirawat untuk ubat ini |
+| PMID | Tahun | Jenis | Jurnal | Dapatan Utama |
+|------|-----|------|------|---------|
+| [21701432](https://pubmed.ncbi.nlm.nih.gov/21701432/) | 2011 | Ulasan | Menopause | Ulasan terapi farmakologi untuk pendarahan uterus abnormal; terapi bukan hormon dan hormon berkesan serta umumnya diterima baik, pilihan bergantung pada punca dan jumlah pendarahan, keperluan kontraseptif, status perimenopaus, serta kesan sampingan |
+| [39043214](https://pubmed.ncbi.nlm.nih.gov/39043214/) | 2024 | Ulasan | J Oncol Pharm Pract | Pendekatan sistematik untuk profilaksis dan penindasan haid pada pesakit kanser hematologi pra-menopaus; data perbandingan antara terapi masih terhad |
 
-Tidak satu pun penerbitan memberikan bukti langsung untuk asid traneksamik sebagai rawatan untuk amenorrhea; kedua-duanya berkaitan dengan pengurusan perdarahan menstruasi, memperkuat konflik mekanik yang dinyatakan di atas.
+Kedua-dua penerbitan menyebut asid traneksamik sebagai salah satu pilihan sahaja, dan tiada satu pun ialah kajian langsung asid traneksamik untuk amenorea.
+
+---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan. Nota: data amaran/kontraindikasi TFDA untuk ubat ini adalah jurang data berkesedar **Menyekat** (DG001) yang tertunggak — penilaian keselamatan (Peringkat S1) tidak boleh diteruskan sehingga ini diselesaikan.
+- **Penyakit/keadaan yang dikaitkan dengan kontraindikasi dalam graf pengetahuan** (daripada graf pengetahuan TxGNN, bukan teks label): hipertensi, gangguan kebimbangan, porfiria, penyakit hati, penyakit pundi hempedu, hiperglisemia, edema otak, diabetes mellitus, ketoasidosis diabetes, hipertrigliseridemia, hiperlipidemia, karsinoma payudara wanita, tromboflebitis, migrain, penyakit arteri koronari, obesiti, kanser endometrium, strok dan gangguan serebrovaskular.
+- **Interaksi Ubat**: sebanyak 35 interaksi dikenal pasti; antara yang utama ialah:
+  - Tahap **Major**: etinilestradiol, estradiol, estrogen terkonjugasi, noretisteron, drospirenon, etonogestrel, dietilstilbestrol, estramustin, karfilzomib, kompleks koagulan anti-perencat, dan kompleks Faktor IX (Manusia). Sebahagian besar ialah estrogen/hormon, yang meningkatkan risiko tromboembolisme.
+  - Tahap **Moderate**: alteplase dan anistreplase.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-Indikasi yang diramalkan (amenorrhea) bertentangan dengan kesan farmakologis asid traneksamik yang diketahui mengurangkan perdarahan menstruasi, dan tiada bukti percubaan klinikal wujud untuk menyokongnya — kedua-dua penerbitan yang tersedia berkaitan dengan pengurusan perdarahan, bukan merawat ketiadaannya. Digabungkan dengan data MOA dan keselamatan yang hilang, calon ini tidak memenuhi standard untuk maju melampaui skrining awal (peringkat keputusan S0).
+- Bukti hanya pada peringkat ramalan model (L4/L5 dalam amalan), tanpa percubaan klinikal dan hanya dua ulasan tidak langsung. Mekanisme antifibrinolitik tidak menyokong amenorea, dan ubat ini tidak dipasarkan di Malaysia.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Amaran sisipan pakej TFDA/kontraindikasi (DG001, Menyekat — diperlukan sebelum mana-mana skrining keselamatan S1)
-- Data mekanisme tindakan ubat daripada DrugBank (DG002, Tinggi)
-- Rasional mekanik atau klinikal bebas yang menjelaskan bagaimana ejen antifibrinolitik mungkin boleh merawat amenorrhea, untuk mengetepikan artifak kedekatannya graf pengetahuan
-- Rekod lesen/produk TFDA yang terperinci (nombor lesen, nama produk, bentuk dos, teks indikasi yang diluluskan), yang tidak dikembalikan dalam pakej ini walaupun terdapat 10 pendaftaran yang tersedia
-
+- Pengesahan sama ada ramalan merujuk kepada penindasan haid/pendarahan haid berat dan bukannya amenorea sebagai penyakit
+- Data mekanisme tindakan (MOA) terperinci daripada DrugBank
+- Maklumat amaran dan kontraindikasi daripada sisipan pakej NPRA (kini tidak tersedia, dan ini menyekat saringan keselamatan)
+- Kajian klinikal langsung yang menilai asid traneksamik untuk indikasi yang dicadangkan
+- Penilaian risiko tromboembolisme, terutamanya jika digunakan bersama hormon
+- Penjelasan status pendaftaran dan pasaran di Malaysia
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

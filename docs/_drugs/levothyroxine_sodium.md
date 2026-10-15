@@ -2,7 +2,7 @@
 layout: default
 title: Levothyroxine Sodium
 parent: Low Evidence (L4-L5)
-nav_order: 438
+nav_order: 458
 evidence_level: L5
 indication_count: 0
 ---

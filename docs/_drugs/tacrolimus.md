@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Tacrolimus
-parent: High Evidence (L1-L2)
-nav_order: 633
-evidence_level: L1
+parent: Low Evidence (L4-L5)
+nav_order: 665
+evidence_level: L5
 indication_count: 3
 ---
 
 # Tacrolimus
 {: .fs-9 }
 
-Tahap bukti: **L1** | Indikasi diramal: **3** 
+Tahap bukti: **L5** | Indikasi diramal: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,91 +29,86 @@ Tahap bukti: **L1** | Indikasi diramal: **3**
 
 </div>
 
-# Tacrolimus: Daripada Dermatitis Atopik kepada Dermatitis Seborrheik
+# Tacrolimus: Daripada Ekzema Atopik kepada Dermatitis Seboroik
 
 ## Ringkasan Satu Ayat
 
-> Tacrolimus (DrugBank DB00864) ialah modulator imun perencat kalsineurin yang formulasi salep topikal (Protopic®) telah ditetapkan untuk rawatan dermatitis atopik.
-> Model TxGNN meramalkan ia juga mungkin berkesan untuk **Dermatitis Seborrheik**,
-> dengan **2 uji klinikal berdedikasi** dan **20 penerbitan berkaitan** yang sedang menyokong arah ini.
+Tacrolimus ialah perencat calcineurin yang pada asalnya digunakan untuk merawat ekzema atopik (dermatitis atopik).
+Model TxGNN meramalkan ia mungkin berkesan untuk **dermatitis seboroik**,
+dengan **2 ujian klinikal** yang berkaitan secara langsung (termasuk 1 ujian Fasa 3 yang telah selesai) dan beberapa penerbitan, termasuk satu kajian penyelenggaraan klinikal (PMID 26512166), yang menyokong hala tuju ini.
 
----
+## Gambaran Ringkas
 
-## Gambaran Keseluruhan Cepat
-
-| Item | Kandungan |
+| Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Dermatitis atopik (salep topikal, penggunaan yang ditetapkan) — teks lesen NPRA untuk produk khusus ini tidak tersedia dalam ekstrak data semasa |
-| Indikasi Baru Diramalkan | Dermatitis Seborrheik |
+| Indikasi Asal | Ekzema atopik / dermatitis atopik |
+| Indikasi Baharu yang Diramalkan | Dermatitis seboroik |
 | Skor Ramalan TxGNN | 99.26% |
-| Tahap Bukti | L1 |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 17 |
-| Keputusan yang Disyorkan | Teruskan dengan Pagar Keselamatan |
-
----
+| Tahap Bukti | L1 (mengikut penilaian dalam data yang dihimpunkan; hanya 1 ujian Fasa 3 yang telah selesai bagi indikasi ini dan keputusannya tidak tersedia, jadi tahap ini perlu disahkan) |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan yang Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan terperinci tidak tersedia dalam pakej bukti (Jurang Data). Berdasarkan maklumat farmakologi yang diketahui, tacrolimus ialah perencat kalsineurin: ia menghalang pendefosforilasian NFAT yang dimediasi kalsineurin, menekan pengaktifan sel T dan pelepasan hiliran sitokin pro-keradangan seperti IL-2. Keberkesanannya dalam dermatitis atopik — indikasi yang ditetapkan untuk salep topikal — telah dibuktikan dengan baik dan disokong oleh asas uji klinikal yang luas.
+Data terperinci tentang mekanisme tindakan asal (MOA) tidak tersedia dalam data yang dihimpunkan. Namun, berdasarkan analisis mekanistik yang disertakan, tacrolimus topikal merencat calcineurin, lalu menyekat pengaktifan sel T yang bergantung pada NFAT serta pembebasan sitokin pro-radang (seperti IL-2, IL-4 dan IFN-gamma).
 
-Dermatitis seborrheik berkongsi ciri-ciri patofisiologi utama dengan dermatitis atopik: kedua-duanya melibatkan tindak balas imun tempatan yang dicetuskan *Malassezia* atau antigen dengan keradangan kulit yang dimediasi sel T. Kerana tindakan anti-keradangan tacrolimus bukan khusus penyakit tetapi menyasarkan laluan keradangan sel T bersama ini, mekanismenya boleh dipindahkan terus ke dermatitis seborrheik.
+Dermatitis seboroik melibatkan tindak balas radang terhadap yis *Malassezia* dan berkongsi laluan radang dengan dermatitis atopik. Oleh itu, tindakan anti-radang tacrolimus berkemungkinan relevan. Skor TxGNN yang tinggi (0.993) selaras dengan mekanisme bersama ini.
 
-Yang penting, ini bukan ekstrapolasi pengiraan semata-mata — indikasi yang diramalkan sudah disokong oleh dua percubaan berdedikasi yang dirancang dengan tujuan (satu kajian Fasa 3 yang selesai dan satu kajian Fasa 4 yang selesai) dijalankan khusus untuk salep tacrolimus dalam dermatitis seborrheik, ditambah dengan badan kerja perbandingan RCT dan ulasan yang besar dalam kesusasteraan. Ini memberikan ramalan kebolehgunaan yang luar biasa kuat dalam dunia nyata untuk calon penyusunan semula guna.
+Kajian ulasan turut menyokong peranan perencat calcineurin topikal dalam dermatitis seboroik (PMID 19222250), dan ia digambarkan sebagai alternatif kepada kortikosteroid yang mempunyai had penggunaan jangka panjang.
 
----
+## Bukti Ujian Klinikal
 
-## Bukti Uji Klinikal
-
-| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT02004860](https://clinicaltrials.gov/study/NCT02004860) | Fasa 3 | Selesai | 120 | Salep tacrolimus (Protopic®) dinilai sebagai rawatan penyelenggaraan untuk dermatitis seborrheik wajah yang teruk pada orang dewasa, bertujuan untuk mengurangkan kekerapan relaps dan mengurangkan pergantungan pada steroid topikal |
-| [NCT01591070](https://clinicaltrials.gov/study/NCT01591070) | Fasa 4 | Selesai | 104 | Penggunaan proaktif (sekali/dua kali seminggu) salep tacrolimus 0.1% dalam dermatitis seborrheik wajah orang dewasa untuk mengekalkan remisi dan mengurangkan insiden eksaserbasi |
+| [NCT02004860](https://clinicaltrials.gov/study/NCT02004860) | Fasa 3 | Selesai | 120 | Rawatan penyelenggaraan salap tacrolimus (Protopic) untuk dermatitis seboroik teruk pada muka orang dewasa, bagi mengurangkan kekerapan kambuh. Reka bentuk kawalan dan keputusan tidak tersedia. |
+| [NCT01591070](https://clinicaltrials.gov/study/NCT01591070) | Fasa 4 | Selesai | 104 | Penggunaan proaktif salap tacrolimus 0.1% sekali atau dua kali seminggu untuk mengekalkan remisi dermatitis seboroik muka orang dewasa. |
 
----
-
-## Bukti Kesusasteraan
+## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [33010323](https://pubmed.ncbi.nlm.nih.gov/33010323/) | 2021 | RCT | J Am Acad Dermatol | Percubaan RCT pelbagai pusat, buta berganda: tacrolimus 0.1% vs. ciclopiroxolamine 1% untuk terapi penyelenggaraan dermatitis seborrheik wajah yang teruk |
-| [26512166](https://pubmed.ncbi.nlm.nih.gov/26512166/) | 2015 | RCT/Kajian klinikal | Annals of Dermatology | Terapi penyelenggaraan dermatitis seborrheik wajah dengan salep tacrolimus 0.1% |
-| [24171300](https://pubmed.ncbi.nlm.nih.gov/24171300/) | 2013 | RCT (perbandingan) | Annals of Parasitology | Dibandingkan keberkesanan krim sertakonazol 2% vs. krim tacrolimus 0.03% dalam dermatitis seborrheik (n=60) |
-| [37067129](https://pubmed.ncbi.nlm.nih.gov/37067129/) | 2023 | RCT | Indian J Dermatol Venereol Leprol | Itrakonazol oral + tacrolimus topikal vs. tacrolimus sahaja untuk rawatan penyelenggaraan dermatitis seborrheik (Vietnam) |
-| [39219446](https://pubmed.ncbi.nlm.nih.gov/39219446/) | 2024 | Ulasan Sistematik Cochrane + NMA | Clin Exp Allergy | Meta-analisis rangkaian rawatan anti-keradangan topikal (termasuk perencat kalsineurin) untuk eksim/dermatitis |
-| [27804089](https://pubmed.ncbi.nlm.nih.gov/27804089/) | 2017 | Ulasan Sistematik | American J Clinical Dermatology | Ulasan sistematik rawatan topikal (antifungal, keratolitik, kortikosteroid, TCI) untuk dermatitis seborrheik wajah |
-| [19222250](https://pubmed.ncbi.nlm.nih.gov/19222250/) | 2009 | Ulasan | American J Clinical Dermatology | Peranan perencat kalsineurin topikal dalam dermatitis seborrheik: patofisiologi, keselamatan, dan keberkesanan |
-| [12833030](https://pubmed.ncbi.nlm.nih.gov/12833030/) | 2003 | Kajian pilot terbuka | J Am Acad Dermatol | Kajian pilot label terbuka tacrolimus 0.1% dalam 18 pesakit SD; 61% mencapai pembersihan lengkap |
-| [19213227](https://pubmed.ncbi.nlm.nih.gov/19213227/) | 2009 | Ulasan | J Drugs in Dermatology | Dermatitis seborrheik wajah: status semasa dan ufuk terapeutik, termasuk perencat kalsineurin |
-| [15461548](https://pubmed.ncbi.nlm.nih.gov/15461548/) | 2004 | Ulasan | Expert Opin Pharmacother | Salep tacrolimus untuk dermatitis atopik dan penyakit kulit keradangan lain, termasuk dermatitis seborrheik |
+| [26512166](https://pubmed.ncbi.nlm.nih.gov/26512166/) | 2015 | Kajian klinikal | Annals of Dermatology | Terapi penyelenggaraan dermatitis seboroik muka dengan salap tacrolimus 0.1% |
+| [27804089](https://pubmed.ncbi.nlm.nih.gov/27804089/) | 2017 | Kajian sistematik | American Journal of Clinical Dermatology | Rawatan topikal dermatitis seboroik muka (antikulat, keratolitik, kortikosteroid) |
+| [19222250](https://pubmed.ncbi.nlm.nih.gov/19222250/) | 2009 | Ulasan | American Journal of Clinical Dermatology | Peranan perencat calcineurin topikal dalam dermatitis seboroik: patofisiologi, keselamatan dan keberkesanan |
+| [19213227](https://pubmed.ncbi.nlm.nih.gov/19213227/) | 2009 | Ulasan | Journal of Drugs in Dermatology | Status semasa dan prospek terapeutik dermatitis seboroik muka |
+| [24171300](https://pubmed.ncbi.nlm.nih.gov/24171300/) | 2013 | Ujian klinikal | Annals of Parasitology | Perbandingan krim sertaconazole 2% dengan krim tacrolimus 0.03% pada 60 pesakit dermatitis seboroik |
+| [31476936](https://pubmed.ncbi.nlm.nih.gov/31476936/) | 2019 | Ulasan | Journal of Cutaneous Medicine and Surgery | Penggunaan luar label perencat calcineurin topikal dalam penyakit kulit |
+| [17685874](https://pubmed.ncbi.nlm.nih.gov/17685874/) | 2007 | Ulasan | Expert Opinion on Investigational Drugs | Peranan baharu tacrolimus topikal |
+| [11770914](https://pubmed.ncbi.nlm.nih.gov/11770914/) | 2001 | Ulasan | Seminars in Cutaneous Medicine and Surgery | Tacrolimus dan pimecrolimus topikal untuk psoriasis, dermatitis seboroik dan penyakit lain |
+| [15461548](https://pubmed.ncbi.nlm.nih.gov/15461548/) | 2004 | Ulasan | Expert Opinion on Pharmacotherapy | Salap tacrolimus untuk dermatitis atopik dan penyakit radang kulit lain |
 
----
+## Maklumat Pasaran di Malaysia
 
-## Maklumat Pasaran Malaysia
-
-Tacrolimus memegang **17 pendaftaran NPRA aktif** dan sedang dipasarkan (Dipasarkan) di Malaysia. Data pendaftaran terperinci (nombor lesen, nama produk, bentuk dos, teks indikasi yang diluluskan) tidak dikembalikan dalam ekstrak bukti ini — rekod sumber untuk semua lesen sampel adalah medan kosong. Ini dibendera sebagai jurang data (DG001-berdekatan) yang memerlukan pertanyaan pangkalan data produk NPRA langsung sebelum digunakan dalam pembuatan keputusan kawal selia.
-
----
+Berdasarkan data yang dihimpunkan, tacrolimus tidak dipasarkan di Malaysia dan tiada pendaftaran direkodkan.
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan bungkusan untuk maklumat keselamatan. Data peringatan utama pakej bukti, kontraindikasi, dan data interaksi ubat (DDI) semuanya sedang tidak tersedia pada masa ini (dibendera sebagai jurang data **Penyekat**, DG001) — carian NPRA/label berdedikasi diperlukan sebelum calon ini dapat terus ke penilaian keselamatan (S1).
+Data amaran utama dan kontraindikasi daripada sisipan pembungkusan tidak tersedia. Sila rujuk sisipan pembungkusan untuk maklumat keselamatan.
 
----
+Maklumat tambahan daripada data yang dihimpunkan:
+
+- **Kontraindikasi (daripada graf pengetahuan, bukan teks label):** antaranya hipertensi, sindrom QT panjang, torsades de pointes, kegagalan hati, penyakit buah pinggang, epilepsi, hiperglisemia, diabetes mellitus, jangkitan (termasuk herpes simpleks dan herpes zoster), kanser dan limfoma, serta leukoensefalopati multifokal progresif.
+- **Interaksi ubat:** 100 interaksi direkodkan. Interaksi **Major** yang disenaraikan termasuk amphotericin B (termasuk kompleks lipid), loperamide, mesalazine, omeprazole dan balsalazide. Interaksi **Moderate** termasuk acarbose, famotidine, rabeprazole, kortikosteroid (hydrocortisone, dexamethasone, betamethasone, budesonide, triamcinolone), metformin, pioglitazone, aprepitant dan metronidazole.
+- **Kebimbangan keselamatan topikal:** terdapat amaran kotak berkaitan risiko keganasan bagi perencat calcineurin topikal. Satu kajian sistematik dan meta-analisis 2023 (PMID 36370744) mengkaji risiko kanser ini. Penggunaan tidak wajar boleh menyembunyikan jangkitan kulat (tinea incognito).
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Teruskan dengan Pagar Keselamatan**
+**Keputusan: Proceed with Guardrails (Teruskan dengan Langkah Kawalan)**
 
-**Alasan:**
-Dermatitis seborrheik disokong oleh asas bukti yang luar biasa kuat untuk calon penyusunan semula guna — dua percubaan berdedikasi yang selesai (Fasa 3 dan Fasa 4) dijalankan khusus untuk indikasi ini, diperkuat oleh pelbagai RCT perbandingan dan ulasan (Tahap Bukti L1). Walau bagaimanapun, data label keselamatan asas untuk tacrolimus dalam set data ini adalah jurang Penyekat, jadi calon tidak dapat maju melepas tahap pagar ini sehingga itu diselesaikan.
+**Rasional:**
+- Terdapat satu ujian Fasa 3 yang telah selesai dan satu kajian Fasa 4 yang secara langsung menilai salap tacrolimus untuk dermatitis seboroik muka, disokong oleh kajian penyelenggaraan klinikal dan ulasan. Namun, keputusan dan reka bentuk kawalan ujian tersebut belum disahkan, dan produk ini tidak dipasarkan di Malaysia.
 
-**Untuk terus, yang berikut diperlukan:**
-- Peringatan sisipan bungkusan TFDA/NPRA dan kontraindikasi (jurang Penyekat, DG001)
-- Dokumentasi mekanisme tindakan bersumber DrugBank/NPRA formal (DG002)
-- Butiran pendaftaran Malaysia lengkap (nombor lesen, nama produk, bentuk dos, teks indikasi yang diluluskan) untuk 17 lesen yang disenaraikan
-- Pertanyaan pangkalan data DDI (pertanyaan semasa tidak mengembalikan hasil)
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisipan pembungkusan dan data amaran/kontraindikasi daripada NPRA (jurang data yang menghalang saringan keselamatan)
+- Data mekanisme tindakan (MOA) terperinci daripada DrugBank
+- Pengesahan keputusan dan magnitud keberkesanan NCT02004860 dan NCT01591070
+- Status pendaftaran dan ketersediaan formulasi topikal di Malaysia
+- Pelan pemantauan keselamatan jangka panjang (risiko keganasan, jangkitan) serta had penggunaan pada kanak-kanak kecil
 
+---
+
+**Catatan tambahan:** Ramalan kedua dalam data (parapsoriasis, tahap bukti L4, hanya laporan kes) dan ramalan ketiga (dermatitis, yang sebahagian besarnya bertindih dengan indikasi atopik asal) tidak dihuraikan dalam laporan ini, kerana laporan tertumpu pada ramalan teratas.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

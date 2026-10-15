@@ -2,7 +2,7 @@
 layout: default
 title: Lamotrigine
 parent: Low Evidence (L4-L5)
-nav_order: 424
+nav_order: 444
 evidence_level: L5
 indication_count: 5
 ---
@@ -33,75 +33,77 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 ## Ringkasan Satu Ayat
 
-> Lamotrigine ialah ubat anti-epilepsi yang telah diiktiraf (pemblok saluran natrium bergantung voltan) yang digunakan untuk epilepsi, termasuk sawan separa dan sindrom Lennox-Gastaut. Ramalan indikasi baharu paling tertinggi model TxGNN ialah **Cutis Verticis Gyrata**, tetapi isyarat ini mempunyai **skor TxGNN sebesar 0%** dan disokong oleh **0 ujian klinikal** dan **0 penerbitan**, menunjukkan kemungkinan artifak graf pengetahuan daripada isyarat penggunaan semula yang sebenar.
+Lamotrigine ialah ubat antiepilepsi yang digunakan untuk epilepsi, termasuk epilepsi separa dan sindrom Lennox-Gastaut.
+Model TxGNN meletakkan **Cutis Verticis Gyrata** sebagai indikasi teratas, tetapi skornya ialah **0.00%**.
+Pada masa ini terdapat **0 ujian klinikal** dan **0 penerbitan** yang menyokong arah ini.
 
 ---
 
-## Gambaran Pantas
+## Gambaran Ringkas
 
-| Item | Kandungan |
-|------|---------|
-| Indikasi Asal | Epilepsi (sawan separa, sindrom Lennox-Gastaut) — disimpulkan daripada rasional mekanisme pakej bukti sendiri; teks indikasi label NPRA rasmi ialah jurang data (lihat DG001) |
-| Indikasi Baharu yang Diramalkan | Cutis Verticis Gyrata |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Epilepsi (berdasarkan graf pengetahuan TxGNN; tiada lesen tempatan untuk dirujuk) |
+| Indikasi Baharu yang Diramalkan | Cutis verticis gyrata |
 | Skor Ramalan TxGNN | 0.00% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 20 |
-| Keputusan yang Disyorkan | Tahan |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa kini, data mekanisme tindakan yang terperinci tidak tersedia (DG002, Keparahan Tinggi — penyelesaian: pertanyaan API DrugBank). Berdasarkan maklumat yang tersedia, Lamotrigine ialah ubat anti-epilepsi spektrum luas yang menyekat saluran natrium bergantung voltan, menstabilkan membran neuron, dan menghambat pelepasan neurotransmiter eksitatori (glutamat, aspartat). Tindakan ini adalah asas penggunaannya yang diiktiraf dalam epilepsi.
+Lamotrigine menyekat saluran natrium bergerbang voltan secara bergantung penggunaan. Ini menstabilkan membran neuron dan mengurangkan pembebasan glutamat. Mekanisme ini mantap bagi kesan antiseizur dan disokong oleh ulasan farmakologi (PMID 34296824, 32120063). Data terperinci mengenai mekanisme tindakan asal ubat ini tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
 
-Untuk ramalan paling tertinggi, **Cutis Verticis Gyrata** (gangguan hiperplasia kulit tisu penghubung kulit kepala yang jarang), rasional pakej bukti sendiri adalah terang: tidak ada **kaitan mekanisme yang boleh dikenalpasti** antara laluan penghambatan saluran natrium/glutamat lamotrigine dan patofiziologi keadaan ini. Bersama skor TxGNN sebesar 0.00% dan sifar ujian klinikal atau literatur, calon ini lebih baik ditafsirkan sebagai **bunyi graf pengetahuan** daripada hipotesis penggunaan semula yang munasabah secara biologi.
+Cutis verticis gyrata ialah keadaan kulit kepala dengan lipatan seperti otak. Ia tersenarai dalam rekod sebagai salah satu indikasi asal, tetapi tiada data ujian atau literatur yang dibekalkan dan skor TxGNN ialah 0.0. Kaitan yang mungkin ialah epilepsi atau komorbiditi neurologi yang kadangkala menyertai bentuk sekunder keadaan ini. Lamotrigine tidak dijangka memberi kesan terhadap perubahan kulit kepala itu sendiri. **Ini hanyalah inferens dan tidak disokong oleh sebarang data.**
 
-Perlu diperhatikan bahawa calon-calon baki dalam pakej bukti ini (epilepsi, sindrom Lennox-Gastaut, epilepsi separa) **bukan ramalan baharu** — rasional model sendiri untuk setiap satu menyatakan ini ialah indikasi lamotrigine yang sedia ada dan ditubuhkan label, itulah mengapa mereka membawa bukti tahap L1 yang melimpah (pelbagai ujian rawak terkawal Fasa 3 yang disiapkan, SANAD/SANAD II, ulasan Cochrane). Satu calon dengan isyarat yang lebih lemah tetapi pengkajian tulen ialah **epilepsi visual (fotosensitif)** (pangkat 5, L3, cadangan "Soalan Penyelidikan") — pemblokan saluran natrium luas secara teorinya boleh digunakan, namun tiada literatur yang secara khusus menangani fenotip sawan ini.
+Indikasi lain dalam senarai ramalan lebih kukuh buktinya, tetapi semuanya ialah indikasi asal ubat ini, bukan penggunaan semula:
+
+| Indikasi | Tahap Bukti | Cadangan |
+|------|------|------|
+| Epilepsi | L1 | Proceed with Guardrails |
+| Epilepsi separa | L1 | Proceed with Guardrails |
+| Sindrom Lennox-Gastaut | L4 | Research Question |
+| Epilepsi visual | L4 | Research Question |
 
 ---
 
 ## Bukti Ujian Klinikal
 
-*(untuk calon paling tertinggi, Cutis Verticis Gyrata)*
-
-Pada masa kini tiada ujian klinikal berkaitan yang telah didaftarkan.
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan untuk cutis verticis gyrata.
 
 ---
 
 ## Bukti Literatur
 
-*(untuk calon paling tertinggi, Cutis Verticis Gyrata)*
-
-Pada masa kini tiada literatur berkaitan yang tersedia.
-
----
-
-## Maklumat Pasaran Malaysia
-
-20 pendaftaran produk tercatat untuk Lamotrigine di Malaysia, namun pakej bukti tidak mengandungi butiran lesen yang dilengkapi (nombor kelulusan, nama produk, bentuk dos, pengeluar, dan teks indikasi yang diluluskan semuanya tidak tersedia dalam data sumber — lihat DG001, Keparahan Blokir). Pengambilan PDF label NPRA diperlukan sebelum bahagian ini dapat diselesaikan.
+Pada masa ini tiada literatur berkaitan yang tersedia untuk cutis verticis gyrata.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk risalah dalaman untuk maklumat keselamatan. (Amaran utama, kontraindikasi, dan data DDI semuanya ditanda sebagai jurang data dalam pakej bukti — DG001, Keparahan Blokir, kini menghalang kemasukan ke peringkat pra-penilaian keselamatan S1.)
+- **Penyakit yang dikaitkan sebagai kontraindikasi dalam graf pengetahuan** (bukan teks label ubat): gangguan kebimbangan, gangguan neurotik, gangguan distimik, penyakit hati, penyakit pundi hempedu, trombositopenia, neutropenia, agranulositosis, anemia, anemia makrositik, pansitopenia, anemia aplastik idiopatik, anemia aplastik, dan meningitis bukan berjangkit.
+- **Interaksi Ubat**: 100 interaksi direkodkan. Yang bertahap sederhana termasuk morfin (dan morfin liposomal), dronabinol, nabilon, metoklopramid, opium dan orlistat. Metformin dikelaskan sebagai ringan. Beberapa interaksi lain tidak diketahui tahapnya.
+- **Perhatian umum daripada bahan sokongan**: sebatian seperti valproat meningkatkan paras lamotrigine, manakala perangsang enzim menurunkannya. Risiko ruam serius memerlukan titrasi dos yang perlahan.
+
+Untuk amaran utama dan kontraindikasi rasmi, sila rujuk risalah maklumat produk.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
 **Rasional:**
-Ramalan TxGNN paling tertinggi (Cutis Verticis Gyrata) mempunyai skor ramalan 0%, tiada ujian klinikal atau literatur yang menyokong, dan tiada kaitan mekanisme yang munasabah mengikut rasional model sendiri — ia tidak memenuhi ambang untuk maju. Secara berasingan, jurang data Keparahan Blokir (amaran label NPRA/kontraindikasi yang hilang) menghalang sebarang calon ubat ini daripada memasuki pra-penilaian keselamatan (S1) pada masa ini.
+- Ramalan untuk cutis verticis gyrata mempunyai skor 0.00%, tahap bukti L5, dan tiada ujian klinikal atau literatur. Kaitan mekanistik hanya inferens.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Selesaikan DG001 (Blokir): dapatkan dan huraikan PDF label NPRA/Malaysia untuk amaran dan kontraindikasi
-- Selesaikan DG002 (Tinggi): soal API DrugBank untuk mekanisme tindakan yang disahkan
-- Jika meneruskan isyarat yang benar-benar baharu, utamakan **epilepsi visual/fotosensitif** (pangkat 5) untuk ulasan literatur yang disasarkan daripada Cutis Verticis Gyrata
-- Isi butiran lesen/pendaftaran Malaysia (nombor kelulusan, nama produk, teks indikasi yang diluluskan) yang kini hilang daripada sumber data
-
+- Bukti klinikal atau praklinikal yang secara langsung mengaitkan lamotrigine dengan cutis verticis gyrata.
+- Data mekanisme tindakan terperinci yang disahkan daripada pangkalan data rujukan.
+- Amaran dan kontraindikasi daripada risalah produk NPRA.
+- Pengesahan status pasaran. Data menunjukkan "tidak dipasarkan" dengan 0 pendaftaran, yang bercanggah dengan rekod klinikal penggunaan lamotrigine yang meluas, jadi perlu disemak dalam pangkalan data sumber.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

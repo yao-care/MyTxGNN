@@ -2,7 +2,7 @@
 layout: default
 title: Isoleucine
 parent: Low Evidence (L4-L5)
-nav_order: 412
+nav_order: 431
 evidence_level: L5
 indication_count: 1
 ---
@@ -29,59 +29,80 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Isoleucine: Daripada Suplemen Asid Amino kepada Gastroparesis
+# Isoleucine: Daripada Penggunaan Asal (Tiada Indikasi Berdaftar) kepada Gastroparesis
 
 ## Ringkasan Satu Ayat
 
-Isoleucine adalah asid amino rantai bercabang (BCAA) penting yang dipasarkan di Malaysia merentasi 42 produk terdaftar, tanpa sebarang petunjukan penyakit spesifik pada fail semasa. Model TxGNN meramalkan keberkesanan yang mungkin untuk **Gastroparesis**, tetapi arah ini kini disokong oleh **0 ujian klinikal** dan **0 penerbitan** — ramalan bergantung pada topologi graf pengetahuan semata-mata.
+Isoleucine ialah asid amino rantai bercabang (BCAA) yang tidak mempunyai indikasi asal yang direkodkan dalam data yang dikumpulkan untuk laporan ini dan tidak berdaftar di Malaysia.
+Model TxGNN meramalkan ia mungkin berkesan untuk **gastroparesis**,
+tetapi pada masa ini terdapat **0 percubaan klinikal** dan **0 penerbitan** yang menyokong arah ini; ramalan ini bergantung sepenuhnya pada skor model.
 
-## Pandangan Cepat
+---
+
+## Gambaran Ringkas
 
 | Perkara | Kandungan |
 |------|------|
-| Petunjukan Asal | Tidak dinyatakan dalam data pendaftaran yang tersedia |
-| Petunjukan Baru yang Diramalkan | Gastroparesis |
+| Indikasi Asal | Tiada rekod indikasi diluluskan |
+| Indikasi Baharu yang Diramalkan | Gastroparesis |
 | Skor Ramalan TxGNN | 99.32% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 42 |
-| Keputusan yang Disyorkan | Tahan |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (Tangguh) |
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan terperinci tidak tersedia (ditandai sebagai jurang data keterukan tinggi). Berdasarkan farmakologi yang diketahui, isoleucine adalah asid amino rantai bercabang penting dengan peranan biologi yang ditubuhkan berpusat pada sintesis protein, metabolisme tenaga otot, dan pensinyalan mTOR — ia lazimnya digunakan sebagai bahan suplemen nutrisional/asid amino daripada untuk petunjukan penyakit spesifik.
+Data terperinci tentang mekanisme tindakan isoleucine tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, isoleucine ialah asid amino rantai bercabang yang penting dalam nutrisi dan metabolisme. Hubungan dengan gastroparesis hanya bersifat andaian dan belum disahkan.
 
-Tiada laluan mekanistik yang diketahui atau diterbitkan menghubungkan metabolisme BCAA kepada motiliti gastrik, pengosongan gastrik, atau gangguan pengawalaturan autonomik yang mendasari gastroparesis. Skor TxGNN 0.993 berkemungkinan mencerminkan keterhubungan topologi yang kuat dalam graf pengetahuan (cth., melalui nod metabolik atau nutrisional bersama) daripada mekanisme farmakologi yang disahkan. Tanpa data MOA atau sebarang bukti ujian/literatur sokongan, kelayakan biologi ramalan ini tidak dapat ditubuhkan pada masa ini.
+Satu kemungkinan ialah sokongan nutrisi atau metabolik, atau pengubahsuaian pengosongan gastrik melalui laluan pengesan nutrien dan hormon usus (contohnya perembesan GLP-1 dan CCK). Tiada bukti mekanistik langsung disediakan untuk menyokong hubungan ini.
 
-## Bukti Ujian Klinikal
+Skor model yang tinggi sahaja tidak membuktikan relevansi klinikal. Skor ini mungkin mencerminkan artifak kedekatan rangkaian (network proximity) bagi asid amino yang biasa, dan bukannya kesan terapeutik sebenar.
 
-Pada masa ini tiada ujian klinikal berkaitan yang didaftar
+---
+
+## Bukti Percubaan Klinikal
+
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
+
+---
 
 ## Bukti Literatur
 
-Pada masa ini tiada literatur berkaitan yang tersedia
+Pada masa ini tiada literatur berkaitan yang tersedia.
 
-## Maklumat Pasaran Malaysia
-
-Rekod pendaftaran terperinci peringkat produk (nombor lesen, nama produk, bentuk dos, pengeluar, teks petunjukan yang diluluskan) tidak tersedia dalam pakej bukti semasa. Pertanyaan NPRA mengesahkan 42 pendaftaran keseluruhan untuk produk yang mengandungi Isoleucine di Malaysia, tetapi perincian per-produk memerlukan pengumpulan data lanjutan.
+---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan bungkusan untuk maklumat keselamatan.
+Data amaran dan kontraindikasi daripada sisipan pakej tidak tersedia. Graf pengetahuan TxGNN (PrimeKG) mencatatkan hubungan kontraindikasi ubat-penyakit berikut (bukan daripada teks label produk, dan perlu disahkan):
+
+- **Penyakit buah pinggang dan saluran kencing**: penyakit buah pinggang, penyakit buah pinggang kronik, sindrom kegagalan renal kronik, kegagalan renal peringkat akhir, nefropati urat akut, nefrolitiasis, kerentanan nefrolitiasis akibat SLC26A1, nefrokalsinosis, piouretor
+- **Penyakit kardiovaskular**: penyakit jantung, penyakit kardiovaskular, fibrilasi ventrikel, keracunan digitalis
+- **Gangguan kalsium dan fosforus**: hiperkalsemia, hiperkalsemia humoral akibat keganasan, sarkoidosis, gangguan metabolisme fosforus
+- **Gangguan metabolisme asid amino**: fenilketonuria, gangguan metabolisme fenilalanina
+
+Interaksi ubat (DDI): tiada rekod interaksi ditemui dalam pangkalan data yang disemak.
+
+Untuk maklumat keselamatan produk, sila rujuk sisipan pakej.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold (Tangguh)**
 
-**Nisbah:**
-Tiada pautan mekanistik antara metabolisme BCAA dan patofisiologi gastroparesis telah dikenalpasti, dan ramalan tidak disokong oleh sebarang ujian klinikal atau literatur terbitan (Tahap Bukti L5 — ramalan model sahaja). Data mekanisme tindakan itu sendiri adalah jurang penyekat yang juga menghalang sebarang pra-penilaian keselamatan.
+**Justifikasi:**
+- Ramalan ini hanya disokong oleh skor model TxGNN yang tinggi (L5), tanpa percubaan klinikal, literatur, atau data mekanisme. Isoleucine juga tidak berdaftar di Malaysia dan mempunyai beberapa isyarat kontraindikasi daripada graf pengetahuan, terutamanya berkaitan buah pinggang dan jantung.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Amaran sisipan bungkusan TFDA/NPRA dan kontraindikasi (Jurang data penyekat)
-- Data mekanisme tindakan DrugBank (Jurang data prioriti tinggi)
-- Bukti praklinik atau mekanistik menghubungkan suplemen BCAA kepada motiliti gastrik/patofisiologi gastroparesis
-- Perincian pendaftaran peringkat produk (nombor lesen, petunjukan) untuk 42 produk terdaftar
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisipan pakej NPRA (amaran dan kontraindikasi), kerana ketiadaannya menghalang saringan keselamatan peringkat seterusnya
+- Data mekanisme tindakan (MOA) daripada DrugBank
+- Semakan literatur dan pendaftaran percubaan klinikal untuk isoleucine/BCAA dalam gastroparesis
+- Data pembentukan dan laluan pemberian yang sesuai serta status pendaftaran tempatan
+- Penilaian keselamatan bagi populasi berisiko (penyakit buah pinggang, jantung dan gangguan metabolisme asid amino)
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

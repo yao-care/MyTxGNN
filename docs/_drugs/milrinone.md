@@ -2,7 +2,7 @@
 layout: default
 title: Milrinone
 parent: Low Evidence (L4-L5)
-nav_order: 485
+nav_order: 506
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,70 +29,74 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Milrinone: Daripada Kegagalan Jantung Decompensated Akut ke Gangguan Sakit Kepala (Sindrom Vasokonstriksi Serebral Boleh Balik)
+# Milrinone: Daripada Kegagalan Jantung Kongestif kepada Alopesia
 
 ## Ringkasan Satu Ayat
 
-Milrinone ialah inhibitor PDE3 yang berfungsi sebagai inotrope/vasodiilator yang digunakan jangka pendek untuk kegagalan jantung decompensated akut dan syok kardiogenik. Di antara 10 petunjuk ulang guna yang diramalkan oleh TxGNN, empat keputusan skor tertinggi (alopecia, hypotrichosis simplex, hypotrichosis milia bawaan, alopecia areata penyebaran) ditandai oleh pakej bukti itu sendiri sebagai artifak ruang embedding yang mungkin — **sifar percubaan atau literatur sokongan**, semua berskor "Tahan." Calon satu-satunya dengan sokongan klinikal nyata, walaupun sempit, ialah **Gangguan Sakit Kepala**, didorong khususnya oleh bukti laporan kes untuk milrinone membalikkan vasospasm dalam Sindrom Vasokonstriksi Serebral Boleh Balik (RCVS), dengan **1 percubaan sepadan longgar** dan **3 laporan kes** (L3).
+Milrinone ialah perencat fosfodiesterase 3 (PDE3) yang digunakan melalui suntikan intravena untuk kegagalan jantung kongestif.
+Model TxGNN meramalkan ia mungkin berkesan untuk **alopesia (keguguran rambut)**,
+tetapi setakat ini **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong arah ini. Ramalan ini bersifat pengiraan model semata-mata.
 
-## Gambaran Pantas
+---
 
-| Item | Kandungan |
-|------|----------|
-| Petunjuk Asal | Kegagalan jantung decompensated akut / syok kardiogenik (sokongan inotropik IV jangka pendek) — teks petunjuk spesifik TFDA/NPRA ialah jurang data dalam pakej ini |
-| Petunjuk Ulang Guna Diramalkan | Gangguan Sakit Kepala (khususnya: sakit kepala berkaitan RCVS) |
-| Skor Ramalan TxGNN | 99.46% (kedudukan 7,623 calon) |
-| Tahap Bukti | L3 (laporan kes/siri kes sahaja) |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 1 |
-| Keputusan Disyorkan | Soalan Penyelidikan |
+## Gambaran Ringkas
 
-*Nota: predicted_indications[0] (alopecia, 99.91%) tidak digunakan sebagai tajuk utama — rasionalnya sendiri menyebutnya "疑為 embedding 空間鄰近性造成的假陽性" tanpa percubaan klinikal, tanpa literatur, dan cadangan Tahan. Kedudukan 6 (congestive heart failure, L1) juga dikecualikan daripada tajuk kerana ia merupakan kegunaan yang *sudah diluluskan* untuk milrinone, bukan calon ulang guna yang baru — rasionalnya sendiri menyatakan "此為已建立用途而非新穎再利用."*
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Kegagalan jantung kongestif (daripada data farmakologi; tiada teks indikasi diluluskan NPRA kerana tiada pendaftaran) |
+| Indikasi Baharu yang Diramalkan | Alopesia |
+| Skor Ramalan TxGNN | 99.91% |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Milrinone ialah penghambat fosfodiesterase-3 (PDE3) yang meningkatkan cAMP intrasel dalam otot jantung dan otot licin vaskular, menghasilkan inotrop positif dan vasodilatasi (suatu "inodilator"). Mekanisme ini telah terbukti dengan baik untuk penggunaan jantung, tetapi ia juga memberikan milrinone sifat vasodilatasi serebral langsung apabila disampaikan secara intra-arterial.
+Milrinone menghalang enzim PDE3 (data farmakologi turut merekodkan pengikatan pada PDE2A, PDE3A, PDE3B dan PDE5A). Perencatan ini meningkatkan cAMP dalam otot jantung dan otot licin salur darah, lalu menghasilkan kesan inotropik (menguatkan degupan jantung) dan vasodilasi (melebarkan salur darah). Inilah sebab ia digunakan untuk kegagalan jantung.
 
-Sindrom Vasokonstriksi Serebral Boleh Balik (RCVS) ialah gangguan neurologis yang jarang didefinisikan oleh penyempitan multifokus, boleh balik pembuluh darah serebral yang secara klasikal mempersembahkan sakit kepala thunderclap berulang. Kerana milrinone merelakskan otot licin vaskular, ia telah digunakan di luar label sebagai terapi penyelamat intra-arterial untuk membalikkan vasospasm yang memacu gejala RCVS — ini ialah pautan spesifik dan munasabah mekanik di sebalik ramalan "gangguan sakit kepala", bukan kesan antimigrain atau analgesik umum.
+Hubungan dengan alopesia hanyalah andaian. Pelebaran salur darah mungkin meningkatkan perfusi folikel rambut, serupa dengan minoksidil. Namun hubungan ini spekulatif, tiada data eksperimen atau klinikal yang menyokongnya. Selain itu, milrinone hanya wujud sebagai sediaan intravena atau sedutan, tanpa sediaan topikal. Ini menyukarkan penggunaannya untuk keguguran rambut.
 
-Mekanisme ini sempit: ia terpakai pada sakit kepala sekunder yang didorong vasospasm (RCVS), bukan kepada gangguan sakit kepala utama seperti migrain atau sakit kepala ketegangan — perbezaan yang ditandai oleh pakej bukti asas itu sendiri. Terutama, percubaan klinikal tunggal yang dipautkan kepada ramalan ini (NCT06205758) ialah percubaan milrinone-vs-levosimendan syok kardiogenik dengan tiada kaitan kepada sakit kepala, bersatu "C" (berkemungkinan ralat pautan data) — sokongan sebenar datang sepenuhnya daripada literatur di bawah.
+Skor model yang tinggi kemungkinan besar mencerminkan persamaan rangkaian pengetahuan, bukan bukti biologi langsung. Ramalan lain yang berkaitan keguguran rambut (hipotrikosis, alopesia areata meresap) juga bersifat pengiraan semata-mata. Untuk alopesia areata, perencatan PDE4 lebih relevan secara imun, manakala perencatan PDE3 oleh milrinone tiada peranan yang ditunjukkan.
+
+---
 
 ## Bukti Percubaan Klinikal
 
-| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT06205758](https://clinicaltrials.gov/study/NCT06205758) | N/A | Tidak Diketahui | 1600 | Membandingkan milrinone vs. levosimendan sebagai inotrope awal dalam kegagalan jantung akut/lanjutan dengan ketidakcukupan buah pinggang — **tidak berkaitan dengan sakit kepala**; disertakan dalam pakej bukti sebagai padanan kerelevanan rendah (gred C), berkemungkinan artifak pautan data. |
+Setakat ini tiada percubaan klinikal berkaitan didaftarkan.
+
+---
 
 ## Bukti Literatur
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|-----|------|------|---------|
-| [18647181](https://pubmed.ncbi.nlm.nih.gov/18647181/) | 2009 | Laporan kes | Headache | Milrinone intra-arterial digunakan untuk merawat RCVS selepas pesakit gagal dengan ubat pemblokir saluran kalsium oral dan membangunkan defisit neurologis fokus. |
-| [25440342](https://pubmed.ncbi.nlm.nih.gov/25440342/) | 2015 | Siri kes | J Stroke Cerebrovasc Dis | Menerangkan pendekatan diagnostik untuk RCVS (sakit kepala thunderclap + vasokonstriksi segmental boleh balik); milrinone dirujuk dalam konteks rawatan. |
-| [34784343](https://pubmed.ncbi.nlm.nih.gov/34784343/) | 2021 | Laporan kes | Am J Case Rep | RCVS dalam tempat preeklampsia, bertindak balas kepada infusi milrinone. |
+Setakat ini tiada literatur berkaitan.
 
-## Maklumat Pasaran Malaysia
-
-Rekod NPRA mengesahkan bahawa Milrinone memegang **1 pendaftaran aktif** di Malaysia dengan status pasaran "Dipasarkan (Dipasarkan)." Nombor lesen, nama produk, bentuk dos, dan teks petunjuk yang diluluskan tidak ditangkap dalam cabutan data ini — ini direkodkan sebagai **Jurang Data DG001 (Menyekat)** dalam pakej bukti dan mesti diselesaikan sebelum sebarang ulasan keselamatan boleh diteruskan.
+---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan bungkus untuk maklumat keselamatan. (Data amaran utama, kontraindikasi, dan DDI tidak tersedia dalam pakej bukti ini — DG001, keterukan: Menyekat.)
+- **Penyakit yang dikaitkan sebagai kontraindikasi dalam graf pengetahuan TxGNN** (bukan teks label produk): penyakit buah pinggang, pyoureter, gangguan hipotensi, infarksi miokardium, trombosis koronari, hemoglobinopati, henti jantung mengejut, penyakit konduksi jantung, stenosis injap pulmonari, kardiomiopati hipertrofik (termasuk jenis keluarga).
+- **Interaksi Ubat (tahap sederhana)**: Amifostine, Diatrizoate, Anagrelide, Ozanimod, Procarbazine.
+
+Untuk amaran dan kontraindikasi rasmi, sila rujuk sisipan pek produk.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Soalan Penyelidikan**
+**Keputusan: Hold**
 
 **Rasional:**
-Bukti terbatas kepada tiga laporan kes/siri (L3) menyokong penggunaan spesifik mekanik tetapi sempit — milrinone intra-arterial untuk sakit kepala yang didorong RCVS — bukan gangguan sakit kepala umum. Satu percubaan yang dipautkan adalah tidak berkaitan dengan sakit kepala, dan data keselamatan asas (amaran/kontraindikasi) yang diperlukan untuk sebarang pintu keselamatan S1 ialah jurang data **Menyekat**.
+- Ramalan alopesia berada pada tahap bukti L5 (ramalan model sahaja), tanpa percubaan klinikal atau literatur. Mekanismenya spekulatif, dan tiada sediaan topikal untuk laluan pentadbiran yang sesuai.
+- Sebagai perbandingan, dua ramalan lain bagi milrinone mempunyai bukti lebih kukuh (L2): kegagalan jantung kongestif dan penyakit jantung pulmonari akut. Namun kedua-duanya hampir dengan penggunaan sedia ada ubat ini, bukan pengalihan guna yang sebenar. Satu lagi ialah sindrom vasokonstriksi serebrum boleh balik yang menyebabkan sakit kepala (L4, hanya laporan kes).
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Selesaikan DG001 (Menyekat): dapatkan sisipan bungkus TFDA/NPRA untuk data amaran, kontraindikasi, dan DDI
-- Selesaikan DG002 (Tinggi): sahkan MOA melalui API DrugBank daripada bergantung pada inferens teks rasional
-- Jelaskan laluan pentadbiran yang diperlukan untuk keberkesanan RCVS (kes yang diterbitkan menggunakan infusi intra-arterial — ramalan milrinone IV/oral standard mungkin tidak menggandakan kesan ini)
-- Cari siri kes RCVS berdedikasi atau data daftar di luar 3 laporan kes sedia ada untuk menaikkan tahap bukti di atas L3
-- Sekali-kali tapis semula kedudukan 1–4 (kelompok alopecia/hypotrichosis) dan kedudukan 7–9 (kelompok migrain) — pakej bukti sudah merekomendasikan Tahan tanpa tindakan lanjutan menunggu isyarat percubaan/literatur baru
-
+- Kajian pra-klinikal atau data mekanistik yang menunjukkan perencatan PDE3 memberi kesan kepada folikel rambut.
+- Penilaian kebolehlaksanaan sediaan topikal atau laluan pentadbiran lain yang sesuai.
+- Amaran dan kontraindikasi daripada sisipan pek produk, serta data mekanisme tindakan yang lebih terperinci.
+- Pertimbangan semula calon dengan bukti lebih kukuh (kegagalan jantung kongestif, penyakit jantung pulmonari akut), dan penjelasan status "tidak dipasarkan" di Malaysia jika ingin diteruskan.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

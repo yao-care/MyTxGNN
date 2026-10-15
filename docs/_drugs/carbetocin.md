@@ -2,7 +2,7 @@
 layout: default
 title: Carbetocin
 parent: Low Evidence (L4-L5)
-nav_order: 190
+nav_order: 195
 evidence_level: L5
 indication_count: 2
 ---
@@ -29,75 +29,67 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Carbetocin: Daripada Pencegahan Pendarahan Pasca-Persalinan kepada Sindrom Serupa Isotretinoin
+# Carbetocin: Daripada Sindrom Prader-Willi dan Sindrom Noonan kepada Sindrom Seperti Isotretinoin
 
 ## Ringkasan Satu Ayat
 
-Carbetocin adalah agonis reseptor oksitoksin jangka panjang yang dikenali secara klinis untuk mencegah pendarahan pasca-persalinan dan inersia rahim. Model TxGNN meramalkan bahawa ia mungkin berkesan untuk **sindrom serupa isotretinoin**, tetapi petunjukan baru ini kini disokong oleh **0 ujian klinis** dan **0 penerbitan** — pakej bukti itu sendiri menandakan ini sebagai calon bunyi model yang berkemungkinan daripada isyarat penyusunan semula yang boleh dipercayai.
+Carbetocin ialah analog oxytocin bertindak panjang. Dalam graf pengetahuan, indikasi asalnya ialah sindrom Prader-Willi dan sindrom Noonan, manakala penggunaan klinikal yang diketahui ialah mencegah pendarahan lepas bersalin akibat atoni uterus.
+Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom seperti isotretinoin (isotretinoin-like syndrome)**, tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong ramalan ini, jadi ia hanya ramalan berasaskan model.
 
 ---
 
-## Gambaran Keseluruhan Pantas
+## Gambaran Ringkas
 
-| Item | Kandungan |
-|------|----------|
-| Petunjuk Asal | Pencegahan pendarahan pasca-persalinan / inersia rahim (daripada latar belakang ubat yang diketahui; teks petunjuk label Malaysia rasmi tidak tersedia dalam set data ini) |
-| Petunjuk Baru yang Diramalkan | Sindrom serupa isotretinoin |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Sindrom Prader-Willi, sindrom Noonan (daripada graf pengetahuan PrimeKG; tiada lesen tempatan untuk dirujuk) |
+| Indikasi Baharu yang Diramalkan | Sindrom seperti isotretinoin |
 | Skor Ramalan TxGNN | 99.15% |
-| Tahap Bukti | L5 (ramalan model sahaja, tiada kajian sokongan) |
-| Status Pasaran Malaysia | Dipasarkan |
-| Bilangan Pendaftaran | 2 |
-| Keputusan yang Disyorkan | Tahan |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa kini, data mekanisme tindakan terperinci tidak tersedia (`original_moa` ialah jurang data). Berdasarkan maklumat yang diketahui, carbetocin adalah agonis reseptor oksitoksin jangka panjang yang terbukti berkesan dalam mencegah pendarahan pasca-persalinan dan inersia rahim. Tiada laluan mekanistik yang menghubungkan agonis reseptor oksitoksin dengan "sindrom serupa isotretinoin" — ini bukan istilah penyakit standard, dan bahkan di bawah tafsiran yang paling masuk akal (sindrom malformasi janin serupa keracunan asid retinoik), tiada pautan farmakologi yang diketahui dengan pensignalan oksitoksin.
+Data mekanisme tindakan (MOA) terperinci tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, carbetocin ialah analog oxytocin sintetik yang bertindak pada reseptor oxytocin (OXTR). Ia digunakan untuk mencegah pendarahan lepas bersalin akibat atoni uterus, dan formulasi intranasal (LV-101) sedang dibangunkan untuk sindrom Prader-Willi bagi mengurangkan rasa lapar melampau (hiperfagia).
 
-Pakej bukti sendiri secara jelas mencirikan ini sebagai **artefak murni berbasis skor (skor 0.991, kedudukan 11018)** tanpa sokongan mekanistik atau literatur, dan menandakannya sebagai calon bunyi graf pengetahuan yang berkemungkinan. Ramalan berpangkat teratas kedua untuk ubat ini, sindrom Goodman (skor 99.06%), membawa profil yang sama — ujian sifar, literatur sifar, tiada pautan mekanistik yang masuk akal, tahap bukti L5, saranan Tahan — mencadangkan isu sistemik dalam pemetaan nod penyakit untuk ubat ini, bukan dua isyarat penyusunan semula yang bebas dan tulen.
+Indikasi asal dalam graf pengetahuan (sindrom Prader-Willi dan sindrom Noonan) ialah gangguan sindromik. Skor TxGNN yang tinggi (0.991) berkemungkinan besar mencerminkan kedekatan rangkaian dengan keadaan sindromik tersebut dalam graf pengetahuan, dan bukan laluan biologi yang telah disahkan.
 
-Memandangkan data MOA yang hilang dan tiada sebarang bukti menyokong, ramalan ini tidak boleh dianggap sebagai hipotesis penyusunan semula yang boleh dipercayai kini.
+Tiada hubungan mekanistik antara agonisme reseptor oxytocin dan patofisiologi sindrom seperti isotretinoin yang dapat dibuktikan daripada data yang dikumpulkan. Ini ialah ramalan komputasi sahaja dan belum disokong oleh bukti lain.
 
----
-
-## Bukti Ujian Klinis
-
-Kini tiada ujian klinis yang berkaitan berdaftar
-
----
-
-## Bukti Literatur
-
-Kini tiada literatur yang berkaitan tersedia
+*Nota: Ramalan kedua, **sindrom Goodman** (skor 99.06%, tahap bukti L5, juga Hold), turut tidak mempunyai hubungan mekanistik yang disokong, tiada percubaan klinikal dan tiada literatur.*
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Rekod Malaysia (NPRA) menunjukkan carbetocin mempunyai **2 pendaftaran aktif**, tetapi data kebenaran terperinci (nombor lesen, nama produk, bentuk dos, teks petunjuk kelulusan) tidak tersedia dalam set data ekstrak semasa.
+Carbetocin pada masa ini **tidak dipasarkan** di Malaysia dan tiada lesen berdaftar dalam data yang dikumpulkan.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk ke leaflet produk untuk maklumat keselamatan.
+**Interaksi Dadah / Farmakologi:** Satu rekod ditemui, iaitu interaksi farmakologi dengan reseptor oxytocin (OXTR, gen Entrez 5021), yang merupakan sasaran tindakan carbetocin. Tiada tahap keterukan dinyatakan.
+
+Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pek produk.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
-**Alasan:**
-Kedua-dua ramalan TxGNN berpangkat teratas untuk carbetocin (sindrom serupa isotretinoin, sindrom Goodman) kekurangan sebarang rasional mekanistik, bukti ujian klinis, atau sokongan literatur, dan data sumber itu sendiri menilai ini sebagai bunyi model yang berkemungkinan daripada isyarat penyusunan semula tulen. Data MOA asal dan label keselamatan juga hilang, menghalang kemajuan kepada penilaian keselamatan (S1).
+**Rasional:**
+- Ramalan ini hanya berasaskan model (L5), tanpa percubaan klinikal, tanpa literatur dan tanpa hubungan mekanistik yang dapat dibuktikan. Produk juga tidak dipasarkan di Malaysia.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Data mekanisme tindakan (DG002, Kesungguhan Tinggi) untuk membolehkan sebarang semakan kaitan mekanistik
-- Amaran label TFDA/NPRA dan kontraindikasi (DG001, Menyekat) diperlukan sebelum sebarang penilaian keselamatan S1
-- Medan butiran lesen Malaysia (nombor lesen, nama produk, bentuk dos, teks petunjuk kelulusan yang diluluskan) kini kosong dalam ekstrak pendaftaran
-- Penjelasan/pengesahan istilah penyakit "sindrom serupa isotretinoin" dan "sindrom Goodman" seperti yang dimeta dalam graf pengetahuan, kerana kedua-duanya bukan petunjuk standard dan kedua-duanya mungkin mencerminkan salah label nod
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) yang lengkap daripada DrugBank
+- Amaran dan kontraindikasi daripada sisipan pek NPRA (jurang data yang menyekat saringan keselamatan)
+- Kajian praklinikal atau semakan literatur untuk mewujudkan hubungan biologi antara laluan reseptor oxytocin dan sindrom seperti isotretinoin
+- Penilaian kesesuaian laluan pemberian dan status pendaftaran tempatan
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

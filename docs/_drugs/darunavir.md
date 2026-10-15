@@ -2,15 +2,15 @@
 layout: default
 title: Darunavir
 parent: Low Evidence (L4-L5)
-nav_order: 249
-evidence_level: L5
+nav_order: 255
+evidence_level: L4
 indication_count: 4
 ---
 
 # Darunavir
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **4** 
+Tahap bukti: **L4** | Indikasi diramal: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,75 +29,87 @@ Tahap bukti: **L5** | Indikasi diramal: **4**
 
 </div>
 
-# Darunavir: Daripada Perencat Protease HIV-1 kepada Tiada Indikasi Baru yang Boleh Diambil Tindakan
+# Darunavir: Daripada Jangkitan HIV kepada Jangkitan Virus Imunodefisiensi Simian
 
 ## Ringkasan Satu Ayat
 
-Darunavir (DrugBank DB01264) ialah perencat protease HIV-1 yang telah mantap; teks indikasi khusus yang diluluskan TFDA tidak hadir dalam ekstrak data semasa, dan perincian mekanisme tindakan juga hilang menunggu pertanyaan API DrugBank. Ramalan TxGNN yang berpangkat paling tinggi, **feline acquired immunodeficiency syndrome**, bersama tiga calon lain, disokong oleh **0 ujian klinikal** dan **0 penerbitan**, dan rasional mekanik yang disertakan untuk setiap calon membuat hujah menentang kebolehupayaan klinikal yang munasabah daripada menyokongnya.
+Darunavir ialah perencat protease HIV-1 yang pada asalnya digunakan untuk merawat jangkitan HIV dan AIDS.
+Model TxGNN meramalkan ia mungkin berkesan untuk **jangkitan virus imunodefisiensi simian (SIV)**, dengan **0 ujian klinikal** dan **4 penerbitan** praklinikal (model primat bukan manusia) yang menyokong arah ini secara tidak langsung.
+Bukti ini hanya menyokong penggunaan sebagai alat penyelidikan dalam model haiwan, bukan penggunaan semula klinikal pada manusia.
 
 ---
 
-## Tinjauan Cepat
+## Gambaran Keseluruhan Pantas
 
-| Item | Kandungan |
-|------|--------|
-| Indikasi Asal | Tidak tersedia dalam rekod semasa (teks indikasi lesen TFDA adalah kosong; darunavir ialah perencat protease HIV-1 yang diiktiraf kelas) |
-| Indikasi Baru yang Diramalkan | Feline Acquired Immunodeficiency Syndrome |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Jangkitan HIV, AIDS |
+| Indikasi Baharu yang Diramalkan | Jangkitan virus imunodefisiensi simian (dipilih kerana ia mempunyai bukti literatur; ramalan teratas mengikut kedudukan ialah sindrom imunodefisiensi didapati kucing) |
 | Skor Ramalan TxGNN | 99.97% |
-| Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 1 |
-| Keputusan yang Disyorkan | Tangguh |
+| Tahap Bukti | L4 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (soalan penyelidikan sahaja) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia pada masa ini (ditandai sebagai jurang data berketerasan tinggi, remediasi: pertanyaan API DrugBank). Berdasarkan pengetahuan farmakologi umum, darunavir ialah perencat protease HIV-1 peptidomimetik yang digunakan untuk menghalang kematangan virus dalam jangkitan HIV-1 manusia.
+Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, darunavir ialah perencat protease aspartil virus. Keberkesanannya dalam jangkitan HIV telah terbukti, dan secara mekanistik ia mungkin boleh digunakan untuk jangkitan lentivirus yang berkaitan.
 
-Ramalan TxGNN yang berpangkat tertinggi — feline acquired immunodeficiency syndrome (FIV) — ialah penyakit veterinar di luar skop ubat pelbagai guna manusia, dan rasional model itu sendiri melemahkan ramalan: protease FIV mempunyai homologi urutan rendah dengan protease HIV, dan farmakologi veterinar yang diterbitkan menunjukkan kebanyakan perencat protease HIV menunjukkan aktiviti persilangan-perencat yang sedikit atau tiada terhadap protease FIV. Calon berpangkat kedua (jangkitan SIV) ialah konstruk penyelidikan primata bukan manusia/model hewan dan bukannya indikasi klinikal manusia, jadi ia tidak boleh diterjemahkan ke dalam laluan pelbagai guna manusia walaupun terdapat homologi protease teori. Calon ketiga (gangguan neurokembangan yang jarang) tiada pautan biologi yang diketahui dengan perencatan protease dan dinilai sebagai kemungkinan artifak daripada pemprosesan data model graf-pengetahuan. Calon keempat (hiperlidemia gabungan keluarga) adalah tidak munasabah dari segi arah: dislipidemia ialah kesan sampingan yang terdokumen dengan baik bagi perencat protease HIV sebagai satu kelas (melalui kesan metabolisme lipid yang dimediasi SREBP-1), bukan sasaran terapeutik — persatuan KG kemungkinan besar mencerminkan kejadian bersama ubat-peristiwa sampingan yang disalah baca sebagai perhubungan rawatan, dan istilah penyakit itu sendiri ditandai sebagai "usang" dalam ontologi yang mendasari.
+SIV ialah lentivirus primat yang sangat rapat dengan HIV, dan proteasenya cukup homolog sehingga perencat protease HIV digunakan dalam model makak. Darunavir berkemungkinan menjadi salah satu komponen rejimen terapi antiretroviral gabungan (cART) dalam kajian-kajian ini, tetapi tajuk kajian yang dipotong menyebabkan peranan khusus darunavir tidak dapat disahkan.
 
-Tiada satu pun daripada keempat-empat calon mempersembahkan isyarat pelbagai guna klinikal yang boleh diambil tindakan dan munasabah secara mekanik berdasarkan bukti yang tersedia pada masa ini.
+Perlu diingat bahawa bukti ini bersifat tidak langsung dan praklinikal. Kajian-kajian tersebut ialah model haiwan bagi ART, bukan bukti indikasi baharu pada manusia. Ramalan lain (sindrom imunodefisiensi didapati kucing, gangguan neurodevelopmen yang jarang berlaku, dan hiperlipidemia gabungan familial yang usang) tidak mempunyai bukti sokongan; bagi dua yang terakhir, tiada hubungan mekanistik yang munasabah dan perencat protease sebenarnya diketahui menyebabkan dislipidemia.
 
 ---
 
 ## Bukti Ujian Klinikal
 
-Pada masa ini tiada ujian klinikal yang berkaitan berdaftar.
+Buat masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Literatur
 
-Pada masa ini tiada kesusasteraan yang berkaitan tersedia.
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [25033210](https://pubmed.ncbi.nlm.nih.gov/25033210/) | 2014 | Praklinikal (primat bukan manusia) | PloS one | Kesan cART penekan dan perencat HDAC (SAHA) pada makak rhesus Cina yang dijangkiti SIV, bagi mengkaji reservoir virus |
+| [26150024](https://pubmed.ncbi.nlm.nih.gov/26150024/) | 2016 | Praklinikal (primat bukan manusia) | AIDS Res Hum Retroviruses | Perbandingan rejimen cART suntikan terformulasi bersama pada makak rhesus yang dijangkiti SIV |
+| [22737073](https://pubmed.ncbi.nlm.nih.gov/22737073/) | 2012 | Praklinikal (primat bukan manusia) | PLoS Pathogens | Rejimen ART sangat intensif mendorong penekanan virus jangka panjang dan pengehadan reservoir dalam model AIDS simian |
+| [21505294](https://pubmed.ncbi.nlm.nih.gov/21505294/) | 2011 | Praklinikal (primat bukan manusia) | AIDS | Auranofin mengehadkan reservoir virus dan membantu mengawal beban virus selepas ART dihentikan dalam model AIDS monyet |
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Darunavir mempunyai 1 lesen berdaftar dan sedang dipasarkan, tetapi rekod lesen dalam ekstrak data semasa tidak merangkumi nombor lesen, nama produk, bentuk dos, atau teks indikasi yang diluluskan — medan-medan ini kosong menunggu pengesahan sumber.
+Darunavir tidak dipasarkan di Malaysia dan tiada pendaftaran direkodkan dalam data yang disusun untuk laporan ini.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan. (Nota: pengambilan amaran/kontraindikasi sisipan pakej TFDA ialah jurang data terbuka, berketerasan penghalang — lihat Kesimpulan di bawah.)
+- **Penyakit yang dikaitkan dengan kontraindikasi dalam graf pengetahuan (bukan teks label):** kegagalan hati, penyakit hati, sirosis hati, penyakit pundi hempedu, hiperglisemia, diabetes mellitus, ketoasidosis diabetes, jangkitan kronik virus hepatitis C dan B, hipertrigliseridemia, hemofilia (termasuk bentuk bergejala pada pembawa wanita).
+- **Interaksi Ubat:** 100 interaksi direkodkan. Yang utama ialah:
+  - **Major:** Cisapride.
+  - **Moderate:** ubat antidiabetes (acarbose, albiglutide, alogliptin, metformin, pioglitazone, canagliflozin, dapagliflozin, saxagliptin, chlorpropamide, acetohexamide), kortikosteroid (hidrokortison, triamcinolone, dexamethasone, betamethasone, budesonide), aprepitant dan clarithromycin.
+
+Untuk amaran utama dan kontraindikasi rasmi, sila rujuk risalah pek (package insert).
 
 ---
 
-## Kesimpulan dan Langkah-Langkah Seterusnya
+## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tangguh**
+**Keputusan: Hold**
 
 **Rasional:**
-Semua empat calon yang diramalkan TxGNN ialah Tahap Bukti L5 (ramalan model sahaja) tanpa ujian klinikal atau kesusasteraan yang menyokong, dan rasional mekanik model itu sendiri untuk setiap calon sama ada mengenal pasti ketidakpadanan spesies/terjemahan (penyakit veterinar atau model hewan), kemungkinan artifak pembenaman, atau arah kausa yang terbalik (kesan sampingan yang diketahui disalah baca sebagai indikasi). Tiada isyarat pelbagai guna klinikal yang boleh diambil tindakan dalam set calon ini.
+- Bukti hanya terdiri daripada ramalan model dan empat kajian praklinikal primat bukan manusia yang tidak mengesahkan peranan darunavir secara khusus. Indikasi SIV dan FIV ialah penyakit haiwan, jadi relevansinya untuk penggunaan semula ubat pada manusia adalah terhad. Dua ramalan lain tidak mempunyai asas mekanistik.
 
-**Untuk meneruskan, berikut diperlukan:**
-- Sisipan pakej TFDA (amaran/kontraindikasi) — Jurang data berketerasan penghalang (DG001); diperlukan sebelum sebarang pemeriksaan keselamatan S1 dapat berlaku
-- Mekanisme tindakan darunavir melalui API DrugBank — Jurang berprioriti tinggi (DG002); diperlukan untuk analisis pautan mekanik
-- Teks indikasi yang diluluskan TFDA yang disahkan daripada rekod lesen (pada masa ini kosong)
-- Pemeriksaan semula keluaran TxGNN melangkaui 4 teratas semasa (pangkat 806–10,598) untuk calon dengan kaitan penyakit manusia yang munasabah dan sokongan ujian/kesusasteraan yang bukan sifar
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) terperinci daripada DrugBank.
+- Amaran dan kontraindikasi daripada risalah pek NPRA (ketiadaannya menghalang saringan keselamatan).
+- Pengesahan peranan sebenar darunavir dalam rejimen kajian SIV melalui teks penuh.
+- Pemetaan istilah penyakit usang kepada istilah semasa sebelum sebarang penilaian lanjut.
+- Penilaian status pendaftaran dan ketersediaan di Malaysia, kerana ubat ini tidak dipasarkan di sini.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

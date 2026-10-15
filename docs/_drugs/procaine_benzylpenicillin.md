@@ -2,7 +2,7 @@
 layout: default
 title: Procaine Benzylpenicillin
 parent: Low Evidence (L4-L5)
-nav_order: 574
+nav_order: 601
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,61 +29,75 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Procaine Benzylpenicillin: Dari Jangkitan Bakterial Rentan-Penisilin ke Otitis Media Berjangkit
+# Procaine Benzylpenicillin: Daripada Penggunaan Antibakteria Asal kepada Otitis Media Berjangkit
 
 ## Ringkasan Satu Ayat
 
-Procaine benzylpenicillin ialah penisilin bertindakan lama intramuskular yang klasiknya digunakan untuk mengubati jangkitan yang disebabkan oleh bakteria rentan-penisilin (teks indikasi khusus berdaftar TFDA tidak tersedia dalam set data semasa). Model TxGNN meramalkan ia mungkin berkesan untuk **Otitis Media Berjangkit**, tetapi indikasi khusus ini pada masa kini memiliki **0 ujian klinikal** dan **0 penerbitan** yang menyokongnya — ramalan tersebut bergantung pada skor model semata-mata.
+Procaine benzylpenicillin ialah bentuk depot penisilin G, sejenis antibiotik beta-laktam. Data yang dikumpulkan untuk laporan ini tidak mencatatkan indikasi asal yang berdaftar di Malaysia.
+Model TxGNN meramalkan ia mungkin berkesan untuk **otitis media berjangkit (infectious otitis media)**, tetapi pada masa ini terdapat **0 percubaan klinikal** dan **0 penerbitan** yang menyokong arah ini. Ramalan ini hanya berasaskan model.
+
+---
 
 ## Gambaran Keseluruhan Pantas
 
 | Item | Kandungan |
-|------|----------|
-| Indikasi Asal | Jangkitan bakterial rentan-penisilin (teks indikasi formal yang diluluskan NPRA tidak dapat diperoleh — lihat jurang data di bawah) |
-| Indikasi Baharu yang Diramalkan | Otitis Media Berjangkit |
+|------|------|
+| Indikasi Asal | Tiada data indikasi berdaftar |
+| Indikasi Baharu yang Diramalkan | Infectious otitis media (otitis media berjangkit) |
 | Skor Ramalan TxGNN | 99.89% |
-| Paras Bukti | L5 (ramalan model semata-mata) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 3 |
-| Keputusan Disyorkan | Tangguhkan |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa kini, data mekanisme tindakan terperinci tidak tersedia (ditandai sebagai jurang data berketerukan Tinggi, DG002). Berdasarkan farmakologi yang diketahui, Procaine benzylpenicillin ialah penisilin bakterisid spektrum sempit yang mengambat transpeptidase bakterial (PBP), menyekat sintesis dinding sel dalam organisma rentan-penisilin.
+Procaine benzylpenicillin ialah bentuk depot penisilin G. Ia merencat sintesis dinding sel bakteria dengan mengikat protein pengikat penisilin (PBP). Data terperinci mengenai mekanisme tindakan belum tersedia daripada sumber data rasmi, tetapi mekanisme am ini merupakan pengetahuan farmakologi yang mantap.
 
-Justifikasi mekanistik untuk otitis media berjangkit adalah munasabah melalui analogi kepada otitis media benanah, memandangkan banyak patogen otitis media klasik (cth., *S. pneumoniae*, *S. pyogenes*) adalah rentan-penisilin. Bagaimanapun, tidak seperti calon berkaitan "otitis media benanah" dalam pakej bukti ini (yang mempunyai literatur ujian klinikal bersejarah dari tahun 1950-an), label "otitis media berjangkit" secara khususnya memiliki **tiada ujian klinikal atau literatur yang dikenal pasti** dalam mana-mana sumber yang dicari (ClinicalTrials.gov, ICTRP, PubMed semuanya mengembalikan 0 hasil). Oleh itu, ramalan ini harus dianggap sebagai hipotesis yang dihasilkan oleh skor model TxGNN semata-mata, bukan ubah guna yang disokong bukti.
+*Streptococcus pneumoniae* dan streptokokus kumpulan A, penyebab biasa otitis media, sering sensitif terhadap penisilin. Oleh itu, ramalan ini munasabah dari segi biologi. Namun, ini berkemungkinan besar merupakan penggunaan antibakteria sedia ada dan bukan pengalihan guna (repurposing) yang sebenar. Tiada bukti yang dibekalkan untuk mengesahkannya.
 
-## Bukti Ujian Klinikal
+Ramalan lain dalam senarai juga perlu ditafsir dengan berhati-hati:
+- **Bacterial arthritis (rank 2, 99.89%)**: munasabah dari segi mekanisme, tetapi profil depot yang memberikan kepekatan serum rendah dan berpanjangan mungkin tidak mencukupi untuk jangkitan sendi yang lazimnya memerlukan terapi intravena berkepekatan tinggi.
+- **Chronic otitis media dan suppurative otitis media (rank 3 dan 5)**: sering melibatkan organisma gram-negatif seperti *Pseudomonas aeruginosa* dan spesies penghasil beta-laktamase yang tidak dilitupi penisilin G.
+- **Middle ear disease, otosalpingitis, non-suppurative otitis media (rank 4, 6, 7)**: kemungkinan besar mencerminkan kedekatan ontologi dengan istilah otitis media; hubungan mekanismenya lemah.
+- **Allergic otitis media dan middle ear cholesterol granuloma (rank 8 dan 9)**: tidak didorong oleh jangkitan bakteria, jadi kemungkinan besar positif palsu.
+- **Epiglottitis (rank 10)**: procaine penicillin bukan rawatan lini pertama, dan profil pelepasan perlahan intramuskularnya tidak sesuai untuk kecemasan akut.
 
-Pada masa kini, tiada ujian klinikal yang berkaitan didaftarkan.
+---
+
+## Bukti Percubaan Klinikal
+
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
+
+---
 
 ## Bukti Literatur
 
-Pada masa kini, tiada literatur yang berkaitan tersedia.
+Pada masa ini tiada literatur berkaitan yang tersedia.
 
-## Maklumat Pasaran Malaysia
-
-Procaine benzylpenicillin mempunyai 3 pendaftaran produk aktif dengan NPRA (status pasaran: Dipasarkan). Bagaimanapun, bidang nombor lesen, nama produk, bentuk dos, dan teks indikasi yang diluluskan tidak diisi dalam set data semasa untuk mana-mana daripada 3 pendaftaran tersebut, maka jadual kelulusan terperinci tidak dapat dipersembahkan di sini. Ini harus dianggap sebagai jurang data yang memerlukan susulan terhadap daftar produk NPRA.
+---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan bungkusan untuk maklumat keselamatan. (Data amaran utama, kontraindikasi, dan interaksi ubat tidak tersedia dalam set data semasa — DG001, jurang berketerukan Blok, menunjukkan bahawa amaran label TFDA/NPRA dan kontraindikasi mesti diambil sebelum calon ini boleh memasuki semakan keselamatan.)
+Sila rujuk risalah maklumat produk (package insert) untuk maklumat keselamatan. Tiada data interaksi ubat (DDI) ditemui dalam data yang dikumpulkan.
 
-## Kesimpulan dan Langkah-Langkah Seterusnya
+---
 
-**Keputusan: Tangguhkan**
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Hold**
 
 **Justifikasi:**
-Indikasi "otitis media berjangkit" tidak mempunyai sokongan ujian klinikal atau literatur — hanya skor model TxGNN (L5, peringkat keputusan S0) — jadi ia tidak dapat diteruskan tanpa bukti langsung.
+- Ramalan ini hanya berasaskan model (L5) tanpa percubaan klinikal atau literatur yang dibekalkan. Ubat ini tidak berdaftar di Malaysia dan tiada data keselamatan atau mekanisme yang lengkap.
 
-**Untuk diteruskan, yang berikut diperlukan:**
-- Amaran sisipan bungkusan dan kontraindikasi (DG001, Blok — diperlukan sebelum mana-mana semakan keselamatan S1)
-- Data mekanisme tindakan dari DrugBank (DG002)
-- Pencarian literatur/klinikal yang disasarkan khusus untuk "otitis media berjangkit" (bukan untuk label berkaitan namun berbeza)
-- Butiran lesen NPRA lengkap (nombor lesen, nama produk, bentuk dos, teks indikasi yang diluluskan) untuk 3 pendaftaran yang sedia ada
-
-**Nota:** Pakej bukti ini mengandungi 10 indikasi yang diramalkan TxGNN untuk ubat ini. Antaranya, **artritis bakterial** (kedudukan 2, skor 99.89%) mempunyai sokongan yang jauh lebih kuat — paras bukti L2, peringkat keputusan S2, cadangan "Teruskan dengan Penjagaan" — disokong oleh literatur klinikal bersejarah tentang penisilin prokain dalam artritis gonokokus (termasuk ujian dos perbandingan tahun 1976, PMID 824468). Jika calon ubah guna diperlukan daripada ubat ini, artritis bakterial berkemungkinan besar merupakan titik permulaan dengan bukti lebih kuat daripada otitis media berjangkit.
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Muat turun dan huraikan risalah maklumat produk NPRA untuk amaran dan kontraindikasi (jurang data yang menyekat saringan keselamatan)
+- Data mekanisme tindakan (MOA) daripada DrugBank
+- Semakan literatur dan percubaan klinikal untuk otitis media berjangkit, termasuk panduan rawatan tempatan dan data kerintangan bakteria di Malaysia
+- Penilaian kesesuaian farmakokinetik formulasi depot untuk setiap indikasi, serta pengesahan laluan pentadbiran
+- Pengesahan sama ada ini penggunaan antibakteria sedia ada dan bukan pengalihan guna yang sebenar
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

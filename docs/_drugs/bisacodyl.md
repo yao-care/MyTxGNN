@@ -2,7 +2,7 @@
 layout: default
 title: Bisacodyl
 parent: Low Evidence (L4-L5)
-nav_order: 148
+nav_order: 153
 evidence_level: L5
 indication_count: 0
 ---

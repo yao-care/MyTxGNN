@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Iloprost
-parent: High Evidence (L1-L2)
-nav_order: 390
-evidence_level: L1
+parent: Low Evidence (L4-L5)
+nav_order: 409
+evidence_level: L5
 indication_count: 9
 ---
 
 # Iloprost
 {: .fs-9 }
 
-Tahap bukti: **L1** | Indikasi diramal: **9** 
+Tahap bukti: **L5** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,100 +29,85 @@ Tahap bukti: **L1** | Indikasi diramal: **9**
 
 </div>
 
-# Iloprost: Daripada Hipertansi Arterial Pulmonari kepada Hipertansi Arterial Pulmonari Berkaitan HIV
+# Iloprost: Daripada Hipertensi Arteri Pulmonari kepada Hipotrikosis Simpleks Kulit Kepala
 
 ## Ringkasan Satu Ayat
 
-> Iloprost adalah analog prostasiklin (PGI2) sintetik yang telah ditubuhkan sebagai rawatan untuk hipertansi arterial pulmonari (HAP). Dalam kalangan sembilan petunjuk indikasi ramalan TxGNN untuk ubat ini, bukti terkuat menyokong **HAP yang berkaitan dengan infeksi HIV** — suatu subtip HAP Kumpulan 1 WHO yang diiktiraf — disokong oleh **1 ujian klinis Fasa 3 terkawal rawak yang telah selesai** dan **4 penerbitan sokongan**. Beberapa ramalan berperingkat tertinggi mengikut skor model mentah (cth., hipotrikosis kulit kepala, alopecia areata) tidak mempunyai kemungkinan mekanik atau bukti sokongan dan ditandai dalam pek itu sendiri sebagai kemungkinan hingar pembenaman graf pengetahuan.
+Iloprost ialah analog prostasiklin yang pada asalnya digunakan untuk merawat hipertensi arteri pulmonari (PAH).
+Model TxGNN meramalkan ia mungkin berkesan untuk **hipotrikosis simpleks kulit kepala**,
+tetapi pada masa ini terdapat **0 ujian klinikal** dan **0 penerbitan** yang menyokong arah ini, jadi ramalan ini berasaskan model semata-mata.
 
 ---
 
-## Gambaran Lintasan Pantas
+## Gambaran Ringkas
 
-| Item | Kandungan |
+| Perkara | Kandungan |
 |------|------|
-| Petunjuk Asal | Hipertansi Arterial Pulmonari (mengikut rujukan rasional penggunaan semula ubat kepada "petunjuk HAP sedia ada"; teks label rasmi TFDA/NPRA itu sendiri adalah jurang data) |
-| Petunjuk Ramalan Baru | Hipertansi Arterial Pulmonari yang berkaitan dengan infeksi HIV |
-| Skor Ramalan TxGNN | 99.21% |
-| Tahap Bukti | L1 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 1 |
-| Cadangan Keputusan | Teruskan dengan Langkah Keselamatan |
+| Indikasi Asal | Hipertensi arteri pulmonari (berdasarkan graf pengetahuan TxGNN/PrimeKG) |
+| Indikasi Baharu yang Diramalkan | Hipotrikosis simpleks kulit kepala |
+| Skor Ramalan TxGNN | 99.45% |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan DrugBank yang terperinci adalah jurang yang ditandai dalam pek ini (DG002). Bagaimanapun, rasional penggunaan semula ubat pek bukti itu sendiri secara konsisten menggambarkan iloprost sebagai **analog prostasiklin (PGI2) sintetik** dengan aktiviti vasodilator pulmonari dan antiplatelet/antitrombotik — kelas farmakologi teras yang digunakan untuk merawat HAP Kumpulan 1 WHO.
+Butiran mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat sedia ada, iloprost ialah analog prostasiklin (PGI2) yang stabil. Keberkesanannya dalam PAH sudah dibuktikan, dan secara mekanistik ia mungkin ada kaitan dengan isyarat prostaglandin dalam biologi folikel rambut.
 
-HAP berkaitan HIV secara rasmi diklasifikasikan sebagai subtip HAP Kumpulan 1 di bawah nosologi hipertansi pulmonari semasa, berkongsi patologi vaskular pulmonari asas yang sama (disfungsi endotel, vasokonstriksi, pemodelan semula vaskular) dengan petunjuk HAP sedia ada ubat. Oleh itu, teks rasional dengan jelas mencatat bahawa ini **bukan** pengekstrapolasian petunjuk merentas tetapi aplikasi langsung mekanisme iloprost yang ditubuhkan kepada subkumpulan etiologi khusus yang mungkin tidak dinamakan secara jelas pada label semasa.
+Kaitan ini bersifat teori. Beberapa analog prostaglandin F2α diketahui menggalakkan pertumbuhan rambut, manakala PGD2 menghalangnya. Kesan iloprost sebagai agonis prostasiklin ke atas pertumbuhan rambut belum pasti dan tiada data yang menyokongnya di sini.
 
-Ini juga menjelaskan corak di seluruh calon ramalan lain: subtip HAP yang berkaitan dengan penyakit jantung bawaan, penyakit tisu penghubung, anemia hemolitik kronik, dan schistosomiasis semuanya mendapat markah tinggi untuk alasan mekanik yang sama (semuanya adalah HAP Kumpulan 1). Sebaliknya, dua ramalan skor model mentah tertinggi — hipotrikosis kulit kepala dan alopecia areata — melibatkan patologi folikel rambut/imun tanpa koneksi yang diketahui kepada farmakologi prostasiklin, dan kedua-duanya secara jelas ditandai dalam pek sebagai kemungkinan hingar model dengan sifar ujian sokongan atau kesusasteraan.
-
----
-
-## Bukti Ujian Klinis
-
-| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT00709956](https://clinicaltrials.gov/study/NCT00709956) | Fasa 3 | Selesai | 64 | Kajian berbilang pusat, tersamar berganda, rawak dan terkawal plasebo dengan pertukaran bagi dos tunggal Iloprost Power 15 pada keupayaan senaman dalam pesakit HAP simptomatik, termasuk HAP berkaitan HIV; berperingkat relevan "A" — bukti Fasa 3 langsung yang selesai untuk subkumpulan ini. |
+Hipotrikosis simpleks ialah keadaan keturunan monogenik. Rawatan berasaskan vasodilator tidak mungkin menangani punca genetiknya. Skor TxGNN yang sangat tinggi mungkin hanya mencerminkan kedekatan dalam graf pengetahuan dengan nod gangguan rambut lain, dan bukan rasional farmakologi yang sebenar.
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Ujian Klinikal
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|-----|------|------|---------|
-| [31090367](https://pubmed.ncbi.nlm.nih.gov/31090367/) | 2019 | Kohort/Pendaftaran | Terapevticheskii arkhiv | Analisis pendaftaran HAP nasional (pemerhatian 6 tahun) yang meliputi prevalans, perjalanan klinis, terapi, dan kematian. |
-| [17195895](https://pubmed.ncbi.nlm.nih.gov/17195895/) | 2006 | Ulasan | Mt Sinai J Med | Gambaran keseluruhan patogenesis hipertansi arterial pulmonari berkaitan HIV dan persembahan. |
-| [14720012](https://pubmed.ncbi.nlm.nih.gov/14720012/) | 2003 | Ulasan | Am J Respir Med | Ulasan terapi prostanoid di seluruh etiologi HAP, termasuk infeksi HIV. |
-| [18260882](https://pubmed.ncbi.nlm.nih.gov/18260882/) | 2007 | Ulasan | Kardiologiia | Ulasan ujian terkawal prostasiklin/prostanoid di seluruh subtip HAP termasuk infeksi HIV. |
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ---
 
-## Maklumat Pasaran Malaysia
+## Bukti Literatur
 
-Iloprost sedang dipasarkan di Malaysia dengan 1 pendaftaran aktif, tetapi nombor lesen, nama produk, bentuk dos, pengeluar, dan teks petunjuk yang diluluskan tidak tersedia dalam pek bukti ini (jurang data DG001 — butiran label TFDA/NPRA belum diambil).
-
----
-
-## Petunjuk Ramalan Lain (Ubat yang Sama)
-
-Untuk konteks, pek bukti lengkap menilai 9 petunjuk ramalan TxGNN untuk iloprost. Disusun mengikut kekuatan bukti dan bukannya skor model mentah:
-
-| Petunjuk Ramalan | Tahap Bukti | Cadangan |
-|---|---|---|
-| HAP yang berkaitan dengan infeksi HIV | L1 | Teruskan dengan Langkah Keselamatan |
-| HAP yang berkaitan dengan penyakit tisu penghubung | L2 | Teruskan dengan Langkah Keselamatan |
-| HAP yang berkaitan dengan penyakit jantung bawaan | L2 | Soalan Penyelidikan |
-| HAP yang berkaitan dengan schistosomiasis | L4 | Soalan Penyelidikan |
-| Malformasi arteriovena pulmonari | L4 | Tahan |
-| HAP yang berkaitan dengan anemia hemolitik kronik | L5 | Tahan |
-| Hipotrikosis mudah kulit kepala | L5 | Tahan (kemungkinan hingar pembenaman yang disyaki) |
-| Hipotrikosis bawaan milia | L5 | Tahan (kemungkinan hingar pembenaman yang disyaki) |
-| Alopecia areata difus | L5 | Tahan |
+Pada masa ini tiada literatur berkaitan.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk kemasukan pek untuk maklumat keselamatan. (Semua medan keselamatan dalam pek bukti ini — amaran utama, kontraindikasi, dan interaksi ubat — adalah jurang data yang tidak diselesaikan; bendera DG001 amaran/kontraindikasi label TFDA sebagai jurang **Pemblokiran** yang mesti ditutup sebelum semakan keselamatan rasmi S1.)
+Data label (amaran utama dan kontraindikasi daripada sisipan pakej) belum diperoleh. Maklumat di bawah datang daripada graf pengetahuan dan pangkalan data interaksi ubat.
+
+- **Kontraindikasi (daripada graf pengetahuan, bukan teks label):** kegagalan hati, penyakit pulmonari obstruktif kronik (COPD), COPD teruk awal permulaan, gangguan hipotensi, edema pulmonari dan penyakit bronkus.
+- **Interaksi Ubat:** 100 interaksi dikenal pasti. Antara yang bertahap sederhana ialah:
+  - epinefrin, efedrin (termasuk nasal)
+  - asid asetilsalisilik
+  - perencat SGLT2 (kanagliflozin, dapagliflozin, empagliflozin, ertugliflozin)
+  - insulin manusia (disedut, bertindak pantas)
+  - manitol, gliserin, papaverin
+  - fenfluramin, deksfenfluramin, sibutramin
+
+  Beberapa interaksi lain (contohnya kalsitriol, pantoprazol, morfin, metformin, omeprazol) bertahap tidak diketahui.
+
+Sila rujuk sisipan pakej untuk maklumat keselamatan yang lengkap.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Teruskan dengan Langkah Keselamatan**
+**Keputusan: Hold (Tangguh)**
 
-**Rasional:**
-HAP berkaitan HIV mempunyai sokongan bukti terkuat dalam kalangan calon ramalan — ujian klinis Fasa 3 terkawal rawak yang selesai ditambah kesusasteraan yang menyokong — dan mewakili sambungan mekanik langsung petunjuk HAP sedia ada iloprost dan bukan hipotesis penggunaan semula ubat yang baru. Calon subtip HAP lain (penyakit tisu penghubung, penyakit jantung bawaan) menyokong arah tetapi berdaya rendah (L2), manakala calon skor model mentah tertinggi (hipotrikosis, alopecia) tidak mempunyai asas mekanik atau bukti dan harus ditahan.
+**Justifikasi:**
+- Ramalan ini hanya berasaskan model (L5) tanpa ujian klinikal atau literatur. Mekanisme vasodilator juga tidak sepadan dengan sifat genetik keadaan ini, jadi ia tidak wajar diteruskan pada masa ini.
+- Sebagai perbandingan, dua indikasi lain dalam senarai ramalan yang sama mempunyai sokongan lebih kukuh, iaitu **PAH berkaitan penyakit jantung kongenital** dan **PAH berkaitan penyakit tisu penghubung**. Kedua-duanya berada pada tahap bukti L3 (kajian pemerhatian) dengan syor *Proceed with Guardrails*. Kedua-duanya masih dalam kelas PAH, jadi ia lebih merupakan lanjutan penggunaan sedia ada daripada pengalihan fungsi sebenar. Jika matlamatnya ialah mengutamakan calon, kedua-dua indikasi ini wajar dinilai dahulu.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Selesaikan DG001 (pemblokiran): ambil amaran label TFDA/NPRA, kontraindikasi, dan butiran pendaftaran lengkap
-- Selesaikan DG002: dapatkan rekod mekanisme tindakan DrugBank rasmi untuk mengesahkan sambungan mekanik yang digunakan di atas
-- Sahkan sama ada label Malaysia semasa telah pun meliputi HAP berkaitan HIV secara jelas, atau sama ada ini mewakili jurang pelabelan dan bukannya petunjuk baru
-- Klasifikasikan entri kesusasteraan relevansi="tertunda" yang tinggal untuk menyatakan semula tahap bukti untuk calon berperingkat lebih rendah sebelum pelaburan lanjut
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Muat turun dan huraikan sisipan pakej NPRA untuk amaran dan kontraindikasi (data keselamatan yang menghalang penyaringan keselamatan).
+- Data mekanisme tindakan (MOA) terperinci daripada DrugBank.
+- Bukti prasiklinikal atau klinikal yang menghubungkan iloprost dengan biologi folikel rambut atau hipotrikosis keturunan.
+- Penilaian keserasian laluan pentadbiran (iloprost sedia ada ialah bentuk disedut atau intravena, sedangkan keadaan ini bersifat kulit kepala).
+- Pengesahan status pendaftaran iloprost di Malaysia, kerana tiada lesen berdaftar direkodkan.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -2,7 +2,7 @@
 layout: default
 title: Pinaverium Bromide
 parent: Low Evidence (L4-L5)
-nav_order: 547
+nav_order: 574
 evidence_level: L5
 indication_count: 0
 ---

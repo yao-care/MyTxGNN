@@ -2,15 +2,15 @@
 layout: default
 title: Alprostadil
 parent: Low Evidence (L4-L5)
-nav_order: 47
-evidence_level: L4
+nav_order: 48
+evidence_level: L5
 indication_count: 10
 ---
 
 # Alprostadil
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,84 +29,96 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Alprostadil: Dari Penyakit Jantung Kongenital yang Bergantung pada Duktus hingga Koarktasio Aorta Atipikal
+# Alprostadil: Daripada Indikasi Asal yang Belum Direkodkan kepada Koarktasi Aorta Atipikal
 
-## Ringkasan Satu Baris
+## Ringkasan Satu Ayat
 
-Alprostadil (Prostaglandin E1, PGE1) adalah prostaglandin sintetik yang digunakan pada bayi baru lahir untuk mempertahankan patensi duktus arteriosus dalam penyakit jantung kongenital yang bergantung pada duktus, berfungsi sebagai batu loncatan dalam stabilisasi pra-operasi di pengaturan ini.
-Model TxGNN memprediksi bahwa hal ini mungkin efektif untuk **Koarktasio Aorta Atipikal**,
-dengan **1 uji klinis** dan **2 publikasi** yang saat ini mendukung arah ini.
-
----
-
-## Ikhtisar Cepat
-
-| Item | Konten |
-|------|--------|
-| Indikasi Asli | Penyakit jantung kongenital yang bergantung pada duktus — pemeliharaan PDA (teks peraturan terperinci tidak tersedia dalam dataset saat ini) |
-| Indikasi Baru yang Diprediksi | Koarktasio Aorta Atipikal |
-| Skor Prediksi TxGNN | 99.99% |
-| Tingkat Bukti | L4 |
-| Status Pasar Malaysia | ✓ Dipasarkan |
-| Jumlah Pendaftaran | 2 |
-| Keputusan yang Direkomendasikan | Tahan |
+Alprostadil (prostaglandin E1, PGE1) ialah ubat yang dikenali untuk mengekalkan keterbukaan duktus arteriosus pada bayi baru lahir. Dalam data yang dikumpulkan untuk laporan ini, indikasi asalnya tidak direkodkan.
+Model TxGNN meramalkan ia mungkin berkesan untuk **koarktasi aorta atipikal**, tetapi setakat ini **tiada ujian klinikal berdaftar** dan **tiada literatur** yang menyokong indikasi khusus ini. Ramalan ini hanya berasaskan model (tahap bukti L5).
 
 ---
 
-## Mengapa Prediksi Ini Masuk Akal?
+## Gambaran Ringkas
 
-Saat ini, data mekanisme aksi yang terperinci tidak tersedia dalam paket bukti. Berdasarkan farmakologi yang diketahui, Alprostadil adalah analog sintetik dari Prostaglandin E1 (PGE1), eikosanoid yang terjadi secara alami yang berasal dari asam arakidonat. Tindakan farmakologis utamanya meliputi vasodilatasi arteri, relaksasi otot polos, penghambatan agregasi trombosit, dan efek anti-inflamasi (termasuk penekanan produksi TNF-α dan IL-6). Pada tingkat molekuler, PGE1 bekerja melalui reseptor EP untuk meningkatkan cyclic AMP intraseluler (cAMP), memicu relaksasi otot polos vaskular — khususnya di dinding duktus arteriosus, yang membentuk dasar penggunaan neonatal yang sudah ditetapkan.
-
-Koarktasio aorta atipikal mencakup kasus yang didorong bukan oleh penyempitan struktural sederhana, melainkan oleh vaskulitis inflamasi — paling terutama arteritis Takayasu. Dalam fase inflamasi akut penyakit Takayasu, peradangan dinding pembuluh darah yang aktif menyebabkan stenosis dan perfusi distal yang terganggu. Sifat anti-inflamasi dan vasodilatasi Alprostadil secara teoritis dapat diterapkan di sini: dengan mengurangi peradangan dinding vaskular dan meningkatkan perfusi mikrovaskular, hal ini dapat membantu pasien menuju terapi imunosupresif definitif atau perbaikan bedah. Jika gagal jantung menyertai (seperti yang sering terlihat pada arteritis Takayasu pediatrik), efek pengurang beban akhir Alprostadil dapat memberikan dukungan hemodinamik tambahan.
-
-Hubungan mekanistik bersifat tidak langsung tetapi dapat dipercaya secara biologis. Ini tidak mewakili tumpang tindih langsung dengan indikasi PDA yang disetujui obat, melainkan perpanjangan farmakologi vaskularnya ke dalam konteks penyakit aorta inflamasi. Validasi klinis yang kuat dalam indikasi spesifik ini saat ini tidak ada, membatasi ini ke tahap pembangkitan hipotesis.
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Tiada data direkodkan |
+| Indikasi Baharu yang Diramalkan | Koarktasi aorta atipikal (*atypical coarctation of aorta*) |
+| Skor Ramalan TxGNN | 99.99% |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Tidak dipasarkan (menurut data NPRA yang dikumpulkan) |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
-## Bukti Uji Klinis
+## Mengapa Ramalan Ini Munasabah?
 
-| Nomor Uji | Fase | Status | Jumlah Peserta | Temuan Kunci |
-|-----------|------|--------|--------|--------------|
-| [NCT02042092](https://clinicaltrials.gov/study/NCT02042092) | N/A | Selesai | 39 | Perbandingan lintas-seksi antara pencitraan CDUS vs MRA dalam vaskulitis pembuluh besar sistemik (aorta, karotis, subklavia, vertebra, aksila, dan arteri temporal). Ini adalah studi pencitraan diagnostik — tidak menguji Alprostadil sebagai intervensi terapeutik dan tidak memberikan bukti efikasi obat langsung. |
+Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia buat masa ini. Namun, berdasarkan pengetahuan sedia ada, alprostadil (PGE1) merehatkan otot licin duktus arteriosus dan mengekalkan keterbukaannya. Ini membekalkan aliran darah sistemik atau pulmonari pada bayi baru lahir yang peredaran darahnya bergantung pada duktus.
+
+Dalam lesi seperti koarktasi aorta kritikal, strategi mengekalkan keterbukaan duktus ialah pendekatan yang diiktiraf. Secara biologi, mekanisme ini munasabah untuk koarktasi aorta atipikal. Walau bagaimanapun, tiada ujian atau literatur khusus untuk subjenis atipikal ini, dan skor TxGNN yang tinggi (0.9999) hanyalah ramalan.
+
+Perlu diberi perhatian bahawa status "tidak dipasarkan" dan ketiadaan indikasi asal kemungkinan besar mencerminkan jurang data dan bukan keadaan sebenar. Perkara ini perlu disemak semula.
+
+---
+
+## Bukti Ujian Klinikal
+
+Buat masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
-| PMID | Tahun | Jenis | Jurnal | Temuan Kunci |
-|------|-------|-------|--------|--------------|
-| [30172258](https://pubmed.ncbi.nlm.nih.gov/30172258/) | 2018 | Laporan Kasus | Journal of Medical Case Reports | Infusi berkelanjutan lipo-PGE1 (Alprostadil) pada bayi berusia 11 bulan dengan arteritis Takayasu yang dikomplikasikan oleh gagal jantung. Menunjukkan kelayakan dan rasional klinis penggunaan Alprostadil dalam penyakit aorta inflamasi pediatrik dengan kompromi hemodinamik; kortikosteroid tetap menjadi pengobatan utama untuk pencegahan kerusakan vaskular. |
-| [9506883](https://pubmed.ncbi.nlm.nih.gov/9506883/) | 1998 | Laporan Kasus | Scandinavian Journal of Rheumatology | Sindrom aortitis (arteritis Takayasu) yang muncul dengan katarak sebagai temuan awal, dengan peningkatan VEGF serum sebelum pengobatan prednison. Memberikan konteks penyakit dan menyoroti peran sitokin inflamasi dalam aortitis; tidak secara langsung mengevaluasi terapi Alprostadil. |
+Untuk indikasi utama (koarktasi aorta atipikal), tiada literatur tersedia. Sebagai rujukan tidak langsung, berikut ialah literatur yang dikaitkan dengan indikasi kedua yang diramalkan, iaitu **malformasi aorta**:
+
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [6763200](https://pubmed.ncbi.nlm.nih.gov/6763200/) | 1982 | Penilaian klinikal/Ulasan | Pharmacotherapy | Penilaian alprostadil dalam pengurusan penyakit jantung kongenital pada bayi; infusi PGE1 melebarkan duktus dan meningkatkan aliran darah pulmonari |
+| [19068708](https://pubmed.ncbi.nlm.nih.gov/19068708/) | 2008 | Laporan kes | Kyobu Geka | Bayi baru lahir dengan lengkung aorta terputus jenis B; alprostadil digunakan untuk mengekalkan duktus terbuka sebelum pembaikan satu peringkat |
+| [30184041](https://pubmed.ncbi.nlm.nih.gov/30184041/) | 2018 | Laporan kes | Braz J Cardiovasc Surg | Pembaikan tingkap aortopulmonari yang kompleks; milrinone dan alprostadil digunakan sebelum pembedahan untuk menurunkan tekanan paru-paru |
+| [15362549](https://pubmed.ncbi.nlm.nih.gov/15362549/) | 2004 | Ulasan | Kyobu Geka | Transposisi arteri besar; alprostadil mengekalkan duktus terbuka bagi mencegah kemerosotan fungsi ventrikel kiri |
+| [19080093](https://pubmed.ncbi.nlm.nih.gov/19080093/) | 2008 | Kajian klinikal | Zhonghua Yi Xue Za Zhi | Kesan alprostadil dan ulinastatin terhadap tindak balas keradangan dan kecederaan paru-paru selepas pintasan kardiopulmonari pada kanak-kanak |
+| [42469655](https://pubmed.ncbi.nlm.nih.gov/42469655/) | 2026 | Kajian awal retrospektif | BMC Pregnancy Childbirth | Pengurusan kehamilan dan perinatal bersepadu bagi penyakit jantung kongenital janin yang kompleks |
+| [41167776](https://pubmed.ncbi.nlm.nih.gov/41167776/) | 2025 | Kajian retrospektif | Zhonghua Fu Chan Ke Za Zhi | Kaedah dan masa kelahiran bagi penyakit jantung kongenital janin yang kompleks |
+| [20029353](https://pubmed.ncbi.nlm.nih.gov/20029353/) | 2009 | Kajian haiwan | Minerva Chirurgica | Alprostadil mengurangkan kecederaan iskemia-reperfusi otot rangka tikus (tidak berkaitan secara langsung) |
+
+Literatur ini bersifat tidak langsung dan tiada bukti RCT.
 
 ---
 
-## Informasi Pasar Malaysia
+## Maklumat Pasaran Malaysia
 
-Informasi pendaftaran produk terperinci — termasuk nomor lisensi, nama produk, bentuk dosis, dan teks indikasi yang disetujui — tidak tersedia dalam dataset peraturan saat ini. Obat dikonfirmasi dipasarkan di Malaysia dengan **2 produk terdaftar**. Untuk mengambil informasi pendaftaran lengkap, silakan berkonsultasi dengan basis data National Pharmaceutical Regulatory Agency (NPRA) secara langsung.
+Menurut data NPRA yang dikumpulkan, tiada pendaftaran produk alprostadil direkodkan (0 pendaftaran). Ini perlu disahkan semula kerana mungkin merupakan jurang data.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Silakan merujuk insert paket untuk informasi keselamatan.
+### Interaksi Ubat
+
+Pertanyaan interaksi ubat telah selesai dengan **59 interaksi** dikesan. Antara yang dilaporkan (sumber: DDInter):
+
+- **Tahap sederhana**: canagliflozin, dapagliflozin, empagliflozin, ertugliflozin, lorcaserin, sapropterin
+- **Tahap tidak diketahui**: pantoprazole, morphine, metformin, omeprazole, rosiglitazone, lansoprazole, vancomycin, atropine, prednisone, simvastatin, amphotericin B, kalium klorida, prednisolone, ranitidine
+
+Amaran utama dan kontraindikasi daripada sisipan pakej belum diperoleh. Sila rujuk sisipan pakej untuk maklumat keselamatan lanjut.
 
 ---
 
-## Kesimpulan dan Langkah Berikutnya
+## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
 **Rasional:**
-Basis bukti untuk Alprostadil khususnya dalam koarktasio aorta atipikal (inflamasi) terbatas pada satu laporan kasus yang relevan secara langsung dan satu studi pencitraan non-intervensi. Meskipun rasional biologis masuk akal mengingat profil vasodilatasi dan anti-inflamasi PGE1, ketiadaan data klinis terkontrol berarti indikasi ini belum dapat melampaui tahap pertanyaan penelitian. Secara khusus, prediksi peringkat kedua (Malformasi Aorta, L3 bukti, "Lanjutkan dengan Penjagaan") membawa basis bukti yang jauh lebih kaya — termasuk uji Alprostadil langsung (NCT04054115) dan 20 publikasi — dan dapat mewakili jalur repurposing yang lebih dapat ditindaklanjuti dalam jangka pendek.
+- Ramalan untuk koarktasi aorta atipikal hanya berasaskan model (L5) tanpa ujian klinikal atau literatur khusus. Penggunaan alprostadil untuk mengekalkan keterbukaan duktus dalam lesi bergantung duktus sudah merupakan amalan klinikal sedia ada, jadi dapatan ini lebih kepada pengesahan amalan semasa dan bukan repurposing yang baharu.
 
-**Untuk melanjutkan, berikut yang diperlukan:**
-- Data mekanisme aksi (MOA) dari DrugBank untuk secara formal mengkarakterisasi target reseptor dan pensinyalan hilir yang relevan dengan penyakit vaskular inflamasi
-- Data peraturan Malaysia lengkap: peringatan insert paket, kontraindikasi, dan teks indikasi yang disetujui dari portal NPRA (saat ini merupakan kesenjangan data penghalang — DG001)
-- Seri kasus prospektif atau studi yang dipimpin penyelidik pilot dalam arteritis Takayasu pediatrik dengan keterlibatan aorta mengevaluasi Alprostadil sebagai terapi anti-inflamasi tambahan
-- Tinjauan sistematis penggunaan PGE1 dalam vaskulitis pembuluh besar dalam literatur yang ada untuk mengkonsolidasikan bukti tingkat kasus yang tersebar
-- Klarifikasi rute dan dosis yang dapat diterapkan pada indikasi ini (infusi IV seperti dalam penggunaan PDA vs. rute alternatif) mengingat data kompatibilitas rute saat ini tertunda
-- Evaluasi paralel dari indikasi Malformasi Aorta (Peringkat 2, L3), yang berbagi fondasi mekanis yang sama tetapi memiliki bukti klinis yang lebih luas dan lebih baik dicirikan mendukung pengembangan
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisipan pakej NPRA (amaran dan kontraindikasi), kerana ini menghalang saringan keselamatan peringkat seterusnya
+- Data mekanisme tindakan (MOA) daripada DrugBank
+- Pengesahan status pendaftaran dan indikasi asal di Malaysia
+- Bukti klinikal khusus untuk koarktasi aorta atipikal, atau pertimbangan semula indikasi kedua (malformasi aorta, tahap L4) sebagai soalan penyelidikan
+- Penilaian keserasian laluan pentadbiran
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

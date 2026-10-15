@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Mycophenolate Mofetil
-parent: High Evidence (L1-L2)
-nav_order: 494
-evidence_level: L2
+parent: Low Evidence (L4-L5)
+nav_order: 517
+evidence_level: L5
 indication_count: 10
 ---
 
 # Mycophenolate Mofetil
 {: .fs-9 }
 
-Tahap bukti: **L2** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,96 +29,97 @@ Tahap bukti: **L2** | Indikasi diramal: **10**
 
 </div>
 
-# Mycophenolate Mofetil: Dari Profilaksis Penolakan Transplantasi Kepada Penyakit Infeksi HIV
+# Mycophenolate Mofetil: Daripada Penggunaan Asal kepada Jangkitan HIV
 
 ## Ringkasan Satu Ayat
 
-Mycophenolate mofetil (MMF) ialah suatu imunosupresan yang telah terbukti untuk pencegahan penolakan transplantasi organ. Model TxGNN meramalkan ia mungkin juga berkesan untuk **penyakit infeksi HIV**, dengan **10 uji klinis** dan **20 penerbitan** yang dikenal pasti, walaupun kebanyakannya adalah kajian yang lebih kecil dan lebih lama dengan hasil yang tidak konsisten atau tidak disahkan.
+Mycophenolate mofetil ialah ubat imunosupresan. Data NPRA yang dikumpulkan untuk laporan ini tidak mencatatkan indikasi asal yang berdaftar di Malaysia.
+Model TxGNN meramalkan ia mungkin berkesan untuk **jangkitan HIV**,
+dengan **4 ujian klinikal** (tiada satu pun yang menunjukkan bukti keberkesanan) dan **20 penerbitan** yang berkaitan setakat ini.
 
 ---
 
-## Gambaran Keseluruhan Cepat
+## Gambaran Ringkas
 
-| Item | Kandungan |
-|------|----------|
-| Petunjuk Asal | Tidak tersedia dalam Paket Bukti ini (tiada lesen `approved_indication_text` yang diisi; `original_indications` kosong). Menurut farmakoloji yang telah ditetapkan: profilaksis penolakan transplantasi organ (ginjal, jantung, hati). |
-| Petunjuk Baru yang Diramalkan | Penyakit infeksi HIV |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Tiada data indikasi berdaftar di Malaysia |
+| Indikasi Baharu yang Diramal | Jangkitan HIV (HIV infectious disease) |
 | Skor Ramalan TxGNN | 99.86% |
-| Tahap Bukti | L2 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 12 |
-| Keputusan Yang Disyorkan | Tahan |
+| Tahap Bukti | L2 (mengikut penilaian dalam data yang dikumpulkan; lihat nota di bawah) |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (Tahan) |
+
+**Nota tahap bukti:** Penilaian awal ialah L2. Namun, satu-satunya ujian Fasa 2 yang selesai (NCT00038272) menguji ubat lain dan bukan ujian terus bagi mycophenolate, manakala ujian terus (NCT00021489) telah ditarik balik tanpa peserta. Bukti sebenar bagi HIV adalah lebih lemah daripada tahap L2 yang tersirat dan lebih hampir kepada L3 (kajian pemerhatian dan satu RCT kecil dalam literatur).
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan terperinci untuk ubat ini tidak tersedia dalam Paket Bukti (ditandai sebagai jurang data DG002). Berdasarkan farmakoloji yang diketahui, MMF ialah prodrug asid mikofenolik, suatu penyekat inosina monofosfat dehidrogenase (IMPDH) yang selektif dan boleh balik yang menghalang sintesis purin de novo (guanosina), lebih-lebih lagi dalam limfosit T dan B yang diaktifkan. Keberkesanannya yang telah ditetapkan adalah dalam menekan proliferasi limfosit untuk mencegah penolakan transplantasi.
+Data yang dikompilasi tidak menyediakan huraian mekanisme tindakan asal ubat ini. Berdasarkan rasional pengulangguna dalam data, mycophenolate mofetil merencat enzim inosine monophosphate dehydrogenase (IMPDH) dan mengurangkan nukleotida guanosin dalam limfosit. Ini menghadkan percambahan sel T, termasuk klon sel yang dijangkiti HIV.
 
-Secara mekanisma, kesan IMPDH yang sama yang menghalang dan anti-proliferasi mengurangkan kumpulan sel T CD4+ yang diaktifkan — sel sasaran utama untuk replikasi HIV — dan menghabiskan trifosfat deoksigunaosin intrasel (dGTP), yang beberapa kajian mencadangkan akan meningkatkan keberkesanan perencat pembalikan transkriptase nukleosida (contohnya, abakaavir) dan mengurangkan saiz takungan virus.
+Pengurangan kolam dGTP juga mungkin menguatkan analog nukleosida seperti abacavir dan didanosine. Kajian kecil (PMID 12352149) melaporkan penurunan dGTP intrasel dan RNA HIV-1 plasma apabila ubat ini ditambah kepada rejimen yang mengandungi abacavir.
 
-Hipotesis ini diuji dalam siri kajian Fasa 1/2/4 yang kecil antara 2001 dan 2015 (sebagai tambahan kepada terapi antiretroviral, dalam pesakit naif ART, dan semasa gangguan rawatan), tetapi hasilnya tidak konsisten, saiz sampel kecil, dan beberapa ujian dikeluarkan atau mencapai status penyiapan yang tidak diketahui. Ramalan ini secara mekanisma munasabah tetapi belum diterjemahkan kepada manfaat klinis yang ditunjukkan atau kelulusan kawal selia untuk HIV.
+Namun, keberkesanan klinikal terhadap hasil virus masih belum terbukti. Imunosupresi juga membawa risiko kepada pesakit HIV.
 
 ---
 
-## Bukti Uji Klinis
+## Bukti Ujian Klinikal
 
 | Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT00120419](https://clinicaltrials.gov/study/NCT00120419) | Fasa 4 | Tidak Diketahui | 90 | MMF dalam pesakit HIV-1 kronik naif ART untuk menilai kesan pada hiperaktivasi imun kronik, penurunan CD4+, dan RNA HIV-1 plasma |
-| [NCT00021489](https://clinicaltrials.gov/study/NCT00021489) | Fasa 2 | Ditarik Balik | 0 | MMF sebagai tambahan kepada abakaavir dalam pesakit HIV berpengalaman; dinilai keselamatan/tolerabiliti dan aktiviti antiretroviral — ditarik balik, tiada data |
-| [NCT00247494](https://clinicaltrials.gov/study/NCT00247494) | Fasa 4 | Tidak Diketahui | 90 | Subjajian MAN2; kesan MMF pada penanda surrogate kardiovaskular dalam pesakit yang dijangkiti HIV-1 |
-| [NCT01453192](https://clinicaltrials.gov/study/NCT01453192) | Fasa 3 | Selesai | 27 | Penjejakan transplantasi ginjal dalam pesakit HIV-1; MMF digunakan sebagai imunosupresan penjagaan standard, bukan fokus kajian |
-| [NCT00038272](https://clinicaltrials.gov/study/NCT00038272) | Fasa 1/2 | Selesai | 56 | DAPD vs. DAPD + MMF dalam subjek HIV berpengalaman, menilai keselamatan, keberkesanan dan kesan sampingan |
-| [NCT00112593](https://clinicaltrials.gov/study/NCT00112593) | T/A | Selesai | 5 | HSCT allogeneik untuk kimerisme campuran dalam pesakit HIV-1; MMF digunakan sebagai imunosupresi pasca-transplantasi |
-| [NCT00009009](https://clinicaltrials.gov/study/NCT00009009) | Fasa 2 | Selesai | 10 | Transplantasi ginjal untuk pesakit yang dijangkiti HIV dengan penyakit ginjal peringkat akhir; MMF sebagai terapi antipenolakan standard |
-
-*Tiga ujian tambahan (NCT06869265, NCT01288131, NCT02793544) dikembalikan oleh carian tetapi tidak berkaitan dengan HIV (pengkondisian transplantasi AML, PRCA, BMT tidak sepadan HLA) dan dikecualikan di atas.*
+| [NCT00038272](https://clinicaltrials.gov/study/NCT00038272) | Fasa 2 | Selesai | 56 | DAPD berbanding DAPD + MMF ditambah kepada rejimen anti-HIV; ujian perintis berplasebo (relevansi rendah) |
+| [NCT01288131](https://clinicaltrials.gov/study/NCT01288131) | Fasa 3 | Ditamatkan | 8 | Rawatan PRCA berkaitan anti-r-HuEpo; bukan ujian HIV |
+| [NCT00112593](https://clinicaltrials.gov/study/NCT00112593) | Tiada fasa | Selesai | 5 | Pemindahan sel induk alogenik pada pesakit HIV dengan imunosupresi selepas pemindahan; sangat kecil |
+| [NCT00021489](https://clinicaltrials.gov/study/NCT00021489) | Fasa 2 | Ditarik balik | 0 | MMF tambahan kepada abacavir pada pesakit HIV yang gagal rawatan; tiada peserta didaftarkan |
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [12352149](https://pubmed.ncbi.nlm.nih.gov/12352149/) | 2002 | RCT | J Acquir Immune Defic Syndr | MMF ditambah kepada ART berasaskan abakaavir menghabiskan dGTP intrasel dan dikaitkan dengan penurunan RNA HIV-1 plasma dalam 5 pesakit |
-| [15213566](https://pubmed.ncbi.nlm.nih.gov/15213566/) | 2004 | RCT | J Acquir Immune Defic Syndr | Kajian percubaan rawak: MMF semasa gangguan HAART dalam HIV-1 kronik; menilai tindak balas imun dan beban virus dalam plasma/tisu limfatik |
-| [17017956](https://pubmed.ncbi.nlm.nih.gov/17017956/) | 2006 | Ulasan | Curr Top Med Chem | Mengulas ubat-ubat imunosupresan, termasuk MMF, dalam penyakit HIV dan pengaktifan imun kronik |
-| [15871638](https://pubmed.ncbi.nlm.nih.gov/15871638/) | 2005 | Kajian PK/PD | Clin Pharmacokinet | Farmakokinetik/farmakodinamik MMF dos rendah dalam pesakit HIV pada abakaavir, efavirenz, nelfinavir |
-| [16379601](https://pubmed.ncbi.nlm.nih.gov/16379601/) | 2005 | Kohort | AIDS Res Hum Retroviruses | Tiada kesan imunologi yang merugikan yang diperhatikan dengan MMF + HAART dalam pesakit HIV-1 naif rawatan |
-| [15355127](https://pubmed.ncbi.nlm.nih.gov/15355127/) | 2004 | Kajian PK | Clin Pharmacokinet | Kesan MMF pada farmakokinetik antiretroviral dan kumpulan trifosfat nukleosida intrasel |
-| [11391161](https://pubmed.ncbi.nlm.nih.gov/11391161/) | 2001 | Pilot/Kohort | J Acquir Immune Defic Syndr | Kajian pilot MMF sebagai komponen terapi untuk HIV-1 rintangan berbilang ubat (7 pesakit) |
-| [15353978](https://pubmed.ncbi.nlm.nih.gov/15353978/) | 2004 | Kajian | AIDS | HAART dengan atau tanpa MMF dalam pesakit HIV-1 naif rawatan; kesan pada peluruhan RNA plasma dan takungan terpendam |
-| [17885292](https://pubmed.ncbi.nlm.nih.gov/17885292/) | 2007 | Kajian | AIDS | DAPD (amdoxovir) dengan atau tanpa MMF dalam jangkitan HIV rintangan ubat |
-| [41118390](https://pubmed.ncbi.nlm.nih.gov/41118390/) | 2025 | Kohort/Mekanistik | J Clin Invest | Ubat antiproliferasi mengurangkan secara selektif sel T CD4+ yang dijangkiti HIV yang berkembang secara klonal (rasional mekanisma, bukan khusus untuk MMF) |
+| [15353978](https://pubmed.ncbi.nlm.nih.gov/15353978/) | 2004 | RCT | AIDS | HAART dengan atau tanpa MMF pada pesakit HIV-1 naif rawatan; kesan ke atas kadar penurunan RNA HIV-1 dan reservoir sel terjangkit laten |
+| [17017956](https://pubmed.ncbi.nlm.nih.gov/17017956/) | 2006 | Ulasan | Curr Top Med Chem | Ubat imunosupresif dalam penyakit HIV; mensasarkan faktor sel T perumah bersama HAART |
+| [16515490](https://pubmed.ncbi.nlm.nih.gov/16515490/) | 2006 | Ulasan | Curr Pharm Des | Virostatik sebagai pendekatan mensasarkan jangkitan HIV |
+| [15871638](https://pubmed.ncbi.nlm.nih.gov/15871638/) | 2005 | Kohort | Clin Pharmacokinet | Farmakokinetik dan farmakodinamik MMF dos rendah dengan abacavir, efavirenz dan nelfinavir |
+| [16379601](https://pubmed.ncbi.nlm.nih.gov/16379601/) | 2005 | Kohort | AIDS Res Hum Retroviruses | Tiada kesan imunologi memudaratkan MMF bersama HAART pada pesakit naif rawatan |
+| [12352149](https://pubmed.ncbi.nlm.nih.gov/12352149/) | 2002 | Siri kes kecil | J Acquir Immune Defic Syndr | MMF + abacavir dikaitkan dengan penurunan dGTP intrasel dan RNA HIV-1 plasma (5 pesakit) |
+| [41118390](https://pubmed.ncbi.nlm.nih.gov/41118390/) | 2025 | Praklinikal/Mekanistik | J Clin Invest | Mensasarkan klon sel terjangkit HIV dengan rangsangan peptida dan ubat antiproliferatif |
+| [12003181](https://pubmed.ncbi.nlm.nih.gov/12003181/) | 2002 | Ulasan | J Biol Regul Homeost Agents | Peranan potensi modulasi imun dalam kawalan HIV-1 jangka panjang |
+| [20840478](https://pubmed.ncbi.nlm.nih.gov/20840478/) | 2010 | Retrospektif | Am J Transplant | Pemindahan buah pinggang pada 27 pesakit HIV dengan rejimen termasuk MMF |
+| [19112763](https://pubmed.ncbi.nlm.nih.gov/19112763/) | 2008 | Laporan kes | J Drugs Dermatol | Psoriasis dan artritis psoriatik pada pesakit HIV yang bertindak balas terhadap MMF |
 
 ---
 
-## Maklumat Pasaran Malaysia
+## Keselamatan
 
-Paket Bukti mengesahkan MMF dipasarkan di Malaysia dengan **12 jumlah pendaftaran**, tetapi bidang lesen individu (nombor lesen, nama produk, bentuk dos, pengilang, teks petunjuk yang diluluskan) tidak diisi dalam pengambilan data ini — jadual peringkat produk yang terperinci tidak boleh dihasilkan daripada data yang tersedia.
+- **Kontraindikasi daripada graf pengetahuan (bukan teks label):** Graf pengetahuan TxGNN (PrimeKG) mengaitkan ubat ini dengan keadaan seperti neutropenia, agranulositosis, anemia aplastik (termasuk bentuk keturunan, Fanconi anemia dan Diamond-Blackfan anemia), jangkitan sitomegalovirus, herpes simpleks dan herpes zoster, leukoensefalopati multifokal progresif, limfoma (termasuk limfoma CNS primer), kanser kulit, penyakit hati, penyakit pundi hempedu dan ulser peptik aktif. Ini ialah isyarat daripada graf dan perlu disahkan dengan sisipan pembungkusan.
+- **Interaksi Ubat:** 92 interaksi dikesan. Contoh yang disenaraikan:
+  - **Major:** arang aktif.
+  - **Sederhana:** perencat pam proton (omeprazole, esomeprazole, lansoprazole, dexlansoprazole, rabeprazole), antibiotik (amoxicillin, clarithromycin, doxycycline, tetracycline, minocycline, vancomycin, kanamycin, paromomycin), serta antasid (magnesium oksida, aluminium hidroksida, kalsium karbonat).
+  - **Minor:** zink sulfat, zink asetat dan zat besi.
 
----
-
-## Pertimbangan Keselamatan
-
-Sila rujuk sisipan pakej untuk maklumat keselamatan. Nota: Data `key_warnings`, `contraindications`, dan interaksi ubat (DDI) tidak tersedia dalam Paket Bukti ini (jurang data DG001, ditandai sebagai keterukan **Menghalang** — ini secara khusus menghalang penyiapan penilaian awal keselamatan S1 yang wajib).
+Amaran utama dan kontraindikasi berdasarkan sisipan pembungkusan NPRA tidak tersedia. Sila rujuk sisipan pembungkusan untuk maklumat keselamatan.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold (Tahan)**
 
 **Rasional:**
-Bukti mekanisma dan klinis awal untuk HIV sebagai petunjuk penyusunan semula adalah munasabah tetapi lemah — kebanyakan ujian langsung adalah kecil, beberapa ditarik balik atau status penyiapan tidak diketahui, dan tiada RCT yang telah menetapkan manfaat klinis. Lebih penting lagi, ketiadaan amaran/kontraindikasi sisipan pakej NPRA (DG001, Menghalang) bermaksud penilaian awal keselamatan wajib (S1) belum dapat diselesaikan, yang menghalang rekomendasi Go atau Proceed-with-Guardrails tanpa mengira kekuatan isyarat keberkesanan.
+- Ubat ini tidak mempunyai pendaftaran di Malaysia dan data keselamatan daripada sisipan NPRA tiada. Bukti klinikal untuk HIV tidak mencukupi: ujian terus telah ditarik balik, dan keberkesanan ke atas hasil virus belum terbukti. Risiko imunosupresi pada pesakit HIV juga membimbangkan.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Sisipan pakej yang diluluskan NPRA: amaran, kontraindikasi, dan data DDI untuk produk MMF berdaftar Malaysia (menyelesaikan DG001)
-- Mekanisme tindakan yang disahkan daripada DrugBank (menyelesaikan DG002)
-- Data pasaran peringkat lesen yang lengkap (nama produk, bentuk dos, teks petunjuk yang diluluskan) untuk 12 pendaftaran Malaysia
-- Penilaian sama ada ujian HIV-MMF yang lebih baru dan lebih besar wujud di luar yang ditangkap dalam penarikan ini, mengingat kebanyakan kajian yang dikenal pasti adalah lebih dari 15 tahun yang lalu
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Memuat turun dan menganalisis sisipan pembungkusan serta amaran dan kontraindikasi daripada NPRA (jurang data yang menghalang penyaringan keselamatan).
+- Data mekanisme tindakan terperinci daripada DrugBank.
+- Ujian klinikal yang direka dengan baik dan berkuasa mencukupi, dengan hasil virologi dan imunologi sebagai titik akhir.
+- Pelan pemantauan keselamatan untuk jangkitan oportunis dan sitopenia pada pesakit HIV.
+- Pengesahan status pendaftaran atau laluan akses ubat ini di Malaysia.
 
+**Nota tentang indikasi lain:** Antara 10 ramalan teratas, **sklerosis berbilang (multiple sclerosis)** mempunyai bukti klinikal yang lebih banyak (beberapa ujian Fasa 1/2 kecil serta ulasan Cochrane), tetapi ulasan Cochrane dan meta-analisis rangkaian mendapati bukti manfaat tidak mencukupi. Lapan ramalan lain tidak mempunyai bukti klinikal yang menyokong dan dinilai Hold.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

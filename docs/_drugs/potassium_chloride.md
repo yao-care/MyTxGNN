@@ -2,7 +2,7 @@
 layout: default
 title: Potassium Chloride
 parent: Low Evidence (L4-L5)
-nav_order: 565
+nav_order: 592
 evidence_level: L4
 indication_count: 5
 ---
@@ -29,78 +29,106 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-# Potassium Chloride: Daripada Terapi Penggantian Elektrolit kepada Potassium Deficiency Disease (Hipokalemia)
+# Potassium Chloride: Daripada Kekurangan Kalium kepada Kekurangan Kalium (Tiada Pengubahsuaian Indikasi Sebenar)
 
 ## Ringkasan Satu Ayat
 
-Potassium chloride ialah sebatian elektrolit fundamental yang sudah digunakan secara klinikal untuk penggantian kalium dan pengurusan hipokalemia. Indikasi "baru" yang berpangkat teratas oleh model TxGNN untuk ubat ini ialah **Potassium Deficiency Disease (Hipokalemia)** — bagaimanapun, skor ramalan adalah sebanyak **0.00%**, dan calon ini bertindih secara substantif dengan penggunaan klinikal yang sudah terbina dengan baik bagi potassium chloride dan bukannya mewakili peluang penyusunan semula ubat yang benar-benar baru.
+Kalium klorida ialah garam penggantian kalium yang pada asalnya digunakan untuk merawat **kekurangan kalium** dan **sembelit**.
+Model TxGNN meramalkan indikasi yang sama (kekurangan kalium dan sembelit) dengan skor **0.0%**, jadi ini pada dasarnya bukan pengubahsuaian indikasi sebenar.
+Bukti yang ada hanyalah **1 percubaan klinikal tidak langsung** untuk kekurangan kalium dan **1 percubaan yang belum disahkan** untuk sembelit, dengan literatur yang kebanyakannya tidak berkaitan secara langsung.
+
+---
 
 ## Gambaran Keseluruhan Pantas
 
-| Item | Kandungan |
-|------|---------|
-| Indikasi Asal | Penggantian kalium / suplemen elektrolit (teks indikasi yang diluluskan tertentu tidak ditangkap dalam paket bukti ini) |
-| Indikasi Baru yang Diramalkan | Potassium Deficiency Disease (Hipokalemia) |
-| Skor Ramalan TxGNN | 0.00% |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Kekurangan kalium (potassium deficiency disease); sembelit (constipation disorder) |
+| Indikasi Baharu yang Diramalkan | Kekurangan kalium (potassium deficiency disease) |
+| Skor Ramalan TxGNN | 0.0% |
 | Tahap Bukti | L4 |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 115 |
-| Keputusan Cadangan | Tunda |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan terperinci untuk potassium chloride tidak tersedia dalam paket bukti ini. Berdasarkan pengetahuan farmakologi umum, potassium chloride ialah sebatian elektrolit penting yang secara langsung mengisi semula kepekatan ion kalium intrasel dan ekstrasel, memulihkan potensi rehat membran sel normal dan menyokong pengaliran jantung, fungsi neuromuskular, dan keseimbangan elektrolit renal.
+Data terperinci mengenai mekanisme tindakan (MOA) belum tersedia. Berdasarkan maklumat sedia ada, kalium klorida ialah penggantian kalium standard. Kalium (K⁺) ialah kation intrasel utama dan penting untuk potensi membran, homeostasis sel serta fungsi nefron distal buah pinggang.
 
-Indikasi yang diramalkan — potassium deficiency disease (hipokalemia) — bukanlah kawasan terapeutik yang jauh atau tidak dijangka bagi potassium chloride; ia sebenarnya ialah penggunaan klinikal jangka panjang dan mengikut buku teks sebagai agen penggantian elektrolit oral/IV. Ini bermakna isyarat TxGNN di sini berkemungkinan besar mencerminkan model yang memulihkan perhubungan ubat-penyakit yang diketahui dengan baik dan bukannya mendedahkan peluang yang benar-benar baru, yang konsisten dengan skor ramalan hampir sifar (0.00%) yang dilaporkan untuk pasangan ini.
+Bagi **kekurangan kalium**, rasional biologinya langsung dan mantap. Namun ini sebenarnya indikasi asal (on-label), bukan pengubahsuaian indikasi yang sebenar. Skor TxGNN ialah 0.0, jadi tiada sokongan daripada model.
 
-Literatur sokongan dalam paket ini sebahagian besarnya mekanistik/fisiologi (tinjauan potassium dan pengendalian renal, patofisiologi hipokalemia) dan bukannya ujian klinikal yang direka khusus untuk menguji potassium chloride terhadap indikasi ini — yang dijangka, kerana terapi standard-of-care yang telah bertahun-tahun tidak mungkin menjana ujian terdaftar baru untuk "kecekapan" dalam indikasi ini. Kebanyakan ujian klinikal yang dikembalikan oleh carian adalah tidak berkaitan dengan potassium chloride atau hipokalemia (contohnya, ujian HIV, hepatitis B, onkologi yang dipilih sebagai bunyi kata kunci) dan hanya sebilangan kecil yang berkaitan secara tematik dengan homeostasis kalium.
+Bagi **sembelit**, tiada hubungan mekanistik yang jelas dalam data. Hipokalemia boleh menjejaskan kontraktiliti otot licin gastrousus dan menyebabkan ileus atau sembelit, jadi pembetulan kalium mungkin bermanfaat secara tidak langsung. Walau bagaimanapun, tablet KCl sendiri dikaitkan dengan kecederaan mukosa gastrousus (stenosis ulseratif usus kecil, PMID 4783770), yang merupakan isyarat keselamatan terhadap penggunaan ini.
 
-## Bukti Ujian Klinikal
+---
 
-| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
+## Bukti Percubaan Klinikal
+
+**Kekurangan kalium:**
+
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT03833089](https://clinicaltrials.gov/study/NCT03833089) | Fasa 4 | Aktif, tidak merekrut | 1200 | Menilai potassium serum yang dikawal dengan ketat dan berubah-ubah tinggi (4.5–5.0 mEq/L) melalui diet, suplemen kalium, dan antagonis reseptor mineralokortikoid untuk mengurangi insiden aritmia jantung dalam pesakit ICD — secara langsung relevan kepada suplemen kalium, tetapi untuk pencegahan aritmia dan bukannya rawatan kekurangan per se |
-| [NCT05173584](https://clinicaltrials.gov/study/NCT05173584) | Fasa 4 | Tidak diketahui | 30 | Membandingkan levalbuterol vs. albuterol untuk merawat **hiperkalemia** (lebihan kalium) — arah klinikal bertentangan dengan penyusunan semula kalium, disertakan hanya untuk relevansi topik kepada gangguan kalium |
-| [NCT04585542](https://clinicaltrials.gov/study/NCT04585542) | Fasa 4 | Ditamatkan | 37 | Membandingkan pengikat kalium oral untuk menurunkan kalium darah dalam hiperkalemia akut — sekali lagi mekanisme bertentangan dengan penyusunan semula KCl; bukti tidak sokong untuk indikasi ini |
-| [NCT02709031](https://clinicaltrials.gov/study/NCT02709031) | Fasa 1/2 | Tidak diketahui | 24 | Menyiasat sama ada magnesium tambahan mengekalkan kalium dan natrium semasa terapi cicletanine dalam hipertensi diabetes — relevansi mekanistik tangen kepada pemuliharaan kalium |
-| [NCT06251713](https://clinicaltrials.gov/study/NCT06251713) | T/A | Merekrut | 40 | Ujian perintis penggabungan VeXUS untuk penyingkiran cecair vs. penjagaan biasa dalam injuri ginjal akut pasca-pembedahan jantung — relevansi lemah, kebimbangan pengurusan cecair/elektrolit secara luas dan bukannya terapi KCl khusus |
+| [NCT03253172](https://clinicaltrials.gov/study/NCT03253172) | NA | Aktif, tidak merekrut | 532 | Suplemen kalium untuk perlindungan buah pinggang dalam penyakit buah pinggang kronik (CKD); bukti tidak langsung kerana hasil utama bukan pembetulan kekurangan kalium |
 
-**Nota:** Tiada ujian yang dikembalikan oleh carian menilai terus terapi potassium chloride untuk hipokalemia — konsisten dengan ini menjadi standard-of-care yang terbina dengan baik dan bukannya indikasi "baru" yang sedang disiasat. Majoriti ujian yang diambil oleh carian asas (tidak ditunjukkan di sini) adalah bunyi kata kunci yang tidak berkaitan (HIV, hepatitis B, kajian onkologi) dan telah dikecualikan kerana tidak relevan.
+**Sembelit:**
+
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
+|---------|------|------|------|---------|
+| [NCT00796354](https://clinicaltrials.gov/study/NCT00796354) | Fasa 3 | Selesai | 210 | Percubaan Movicol® berbanding plasebo dalam sembelit berkaitan IBS; tiada bukti bahawa KCl ialah intervensi, jadi belum disahkan |
+
+---
 
 ## Bukti Literatur
 
+**Kekurangan kalium** (pilihan yang paling relevan):
+
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [36639120](https://pubmed.ncbi.nlm.nih.gov/36639120/) | 2023 | Tinjauan | Annales d'endocrinologie | Rangka kerja patofisiologi terkini untuk mendiagnosis hipokalemia genetik dan bukan genetik, meliputi mekanisme homeostasis kalium renal dan ekstrarenal |
-| [35195759](https://pubmed.ncbi.nlm.nih.gov/35195759/) | 2022 | Tinjauan | Pediatric Nephrology | Menerangkan hubungan timbal balik antara pengendalian kalium dan fungsi ginjal, termasuk risiko pengambilan kalium diet rendah dan tinggi |
-| [33391739](https://pubmed.ncbi.nlm.nih.gov/33391739/) | 2020 | Tinjauan | Clinical Kidney Journal | Membincangkan manfaat berpotensi kalium diet dalam pesakit penyakit ginjal kronik, seimbang menentang risiko hiperkalemia |
-| [40232853](https://pubmed.ncbi.nlm.nih.gov/40232853/) | 2025 | Praklinik (haiwan) | JCI Insight | Kajian model tikus menunjukkan suplemen kalium mengecilkan kenaikan tekanan darah semasa perkembangan hipertensi sensitif garam |
-| [13194326](https://pubmed.ncbi.nlm.nih.gov/13194326/) | 1954 | Siri Kes | Pediatrics | Kajian bersejarah tentang klorida badan keseluruhan dalam kanak-kanak dengan kekurangan kalium dan kekurangan nutrisi |
-| [2650515](https://pubmed.ncbi.nlm.nih.gov/2650515/) | 1989 | Tinjauan | American Journal of Cardiology | Memberi tinjauan kehilangan magnesium dan klorida yang berlaku semasa penyusunan semula kalium yang resistan dan akibat kardiovaskular yang berkaitan |
-| [3543514](https://pubmed.ncbi.nlm.nih.gov/3543514/) | 1986 | Tinjauan | Magnesium | Memberi tinjauan interaksi antara terapi diuretik, kehilangan magnesium, dan homeostasis kalium |
-| [6389078](https://pubmed.ncbi.nlm.nih.gov/6389078/) | 1984 | Tinjauan | Drugs | Gambaran keseluruhan kawalan endokrin metabolisme elektrolit, termasuk regulasi kalium |
+| [18827800](https://pubmed.ncbi.nlm.nih.gov/18827800/) | 2008 | Laporan kes | Kidney Int | Rawatan natrium dan kalium klorida melindungi buah pinggang dalam kanak-kanak dengan cirit-birit klorida kongenital, tetapi hasil jangka panjang masih tidak jelas |
+| [29786180](https://pubmed.ncbi.nlm.nih.gov/29786180/) | 2018 | Kajian | G Ital Nefrol | Sindrom Bartter menyebabkan kehilangan garam dan hipokalemia |
+| [6932641](https://pubmed.ncbi.nlm.nih.gov/6932641/) | 1980 | Kajian | Pediatrics | Sindrom kekurangan klorida diet pada bayi dengan alkalosis metabolik hipokalemik |
+| [6277192](https://pubmed.ncbi.nlm.nih.gov/6277192/) | 1982 | Kajian | Am J Med | Gangguan fungsi nefron distal |
+| [33080306](https://pubmed.ncbi.nlm.nih.gov/33080306/) | 2020 | Kajian | J Biotechnol | Peranan kalium dalam homeostasis sel (tumpuan pada tumbuhan, kurang relevan untuk manusia) |
 
-## Maklumat Pasaran Malaysia
+**Sembelit** (pilihan yang paling relevan):
 
-Data kawal selia menunjukkan **115 pendaftaran aktif** untuk Potassium Chloride di Malaysia, mengesahkan kehadiran pasaran yang luas (Dipasarkan / Dipasarkan). Bagaimanapun, nombor lesen terperinci, nama produk, bentuk dos, dan teks indikasi yang diluluskan tidak ditangkap dalam paket bukti ini dan memerlukan pencarian langsung dari rekod sumber kawal selia.
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [4783770](https://pubmed.ncbi.nlm.nih.gov/4783770/) | 1973 | Laporan kes | J Chir | Stenosis ulseratif usus kecil akibat tablet kalium klorida (isyarat keselamatan) |
+| [32678865](https://pubmed.ncbi.nlm.nih.gov/32678865/) | 2020 | Kohort | PLoS One | Kontraktiliti usus dan mikrobiota dalam sembelit kronik teruk; tidak melibatkan KCl |
+| [28531429](https://pubmed.ncbi.nlm.nih.gov/28531429/) | 2016 | Kohort | Clin Nutr ESPEN | Gangguan metabolik dan elektrolit pada kanak-kanak dengan lumpuh otak dan gangguan gastrousus termasuk sembelit |
+
+Kebanyakan literatur lain yang diperoleh tidak berkaitan secara langsung dengan kalium klorida dan tidak disenaraikan.
+
+---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
+- **Penyakit yang dikaitkan sebagai kontraindikasi (daripada graf pengetahuan TxGNN, bukan teks label):** hipertensi, epilepsi, penyakit paru obstruktif kronik (COPD), ulser gastrik dan peptik, penyakit buah pinggang, anuria, pankreatitis, penyakit hati, penyakit pundi hempedu, kegagalan jantung kongestif, penyakit jantung dan kardiovaskular, penyakit arteri koronari, hiperkalsemia, nefrokalsinosis, anemia sel sabit, hemokromatosis keturunan, hiperoksaluria primer, penyakit Wilson, sarkoidosis, hiperplasia prostat jinak, dan beberapa gangguan metabolisme fosforus serta besi.
+- **Interaksi Ubat (100 interaksi dikenal pasti; contoh utama):**
+  - **Major:** amiloride, benazepril, olmesartan, valsartan, azilsartan medoxomil (risiko hiperkalemia), amitriptilina, serta antikolinergik dan antihistamin seperti atropina, hyoscyamine, homatropine, glycopyrronium, benzatropine, biperiden, chlorpheniramine, brompheniramine, acrivastine, phenyltoloxamine.
+  - **Moderate:** ketorolac, ibuprofen, aliskiren.
+  - **Minor:** cyanocobalamin.
+- Amaran utama dan kontraindikasi daripada sisipan pakej NPRA belum tersedia. Sila rujuk sisipan pakej untuk maklumat keselamatan lengkap.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tunda**
+**Keputusan: Hold**
 
-**Asasan:**
-Skor ramalan TxGNN untuk indikasi ini adalah berkesan 0.00%, menunjukkan keyakinan model yang boleh diabaikan, dan indikasi "baru" bertindih secara substantif dengan peranan klinikal yang sudah terbina dengan baik bagi potassium chloride sebagai terapi penggantian elektrolit dan bukannya mewakili peluang penyusunan semula ubat yang tulen. Secara kritikal, paket bukti ini membawa jurang data **Blocking** yang teruk (kehilangan amaran label kawal selia TFDA dan kontraindikasi), yang menurut penilaian paket bukti sendiri menghalang bahkan saringan keselamatan S1 asas.
+**Rasional:**
+- Untuk kekurangan kalium, rasional biologi adalah mantap tetapi ini ialah indikasi asal, bukan pengubahsuaian sebenar. Skor TxGNN ialah 0.0, dan hanya ada satu percubaan tidak langsung (Fasa NA). Tahap bukti ialah L4.
+- Untuk sembelit, tiada hubungan mekanistik yang jelas, percubaan Fasa 3 yang ada belum disahkan melibatkan KCl, dan terdapat isyarat keselamatan gastrousus.
+- Ubat ini tidak didaftarkan di Malaysia, dan data keselamatan daripada sisipan pakej belum tersedia.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Label produk rasmi Malaysia / sisipan (amaran, kontraindikasi, langkah berjaga-jaga) untuk melengkapkan penilaian keselamatan asas — pada masa ini menghalang
-- Mekanisme tindakan yang disahkan dan teks indikasi asal yang diluluskan daripada sumber DrugBank/kawal selia
-- Penjelasan sama ada "potassium deficiency disease" harus dianggap sebagai indikasi yang benar-benar baru atau hanya penggunaan asal ubat yang ada, sebelum memperuntukkan lebih banyak sumber semakan
-- Penyelesaian peringkatan relevansi untuk rekod ujian klinikal dan literatur yang sedang "tertunda", dan penskoraan semula setelah jurang di atas diselesaikan
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Mengesahkan secara manual lengan intervensi NCT00796354 (sama ada KCl terlibat)
+- Memperoleh sisipan pakej dan data amaran/kontraindikasi daripada NPRA
+- Melengkapkan data mekanisme tindakan (MOA) daripada DrugBank
+- Mencari RCT atau percubaan Fasa 2/3 yang menilai KCl secara langsung untuk pembetulan hipokalemia
+- Menilai status pendaftaran dan keperluan pasaran tempatan kerana tiada lesen berdaftar di Malaysia
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

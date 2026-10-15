@@ -2,7 +2,7 @@
 layout: default
 title: Amiloride Hydrochloride
 parent: Low Evidence (L4-L5)
-nav_order: 53
+nav_order: 56
 evidence_level: L5
 indication_count: 0
 ---

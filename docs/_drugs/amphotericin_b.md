@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Amphotericin B
-parent: High Evidence (L1-L2)
-nav_order: 69
-evidence_level: L2
+parent: Low Evidence (L4-L5)
+nav_order: 73
+evidence_level: L5
 indication_count: 5
 ---
 
 # Amphotericin B
 {: .fs-9 }
 
-Tahap bukti: **L2** | Indikasi diramal: **5** 
+Tahap bukti: **L5** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,95 +29,91 @@ Tahap bukti: **L2** | Indikasi diramal: **5**
 
 </div>
 
-# Amphotericin B: Daripada Jangkitan Kulat Sistemik kepada Candidiasis Esofageal
+# Amphotericin B: Daripada Kandidiasis (Indikasi Asal) kepada Kandidiasis Esofagus
 
 ## Ringkasan Satu Ayat
 
-Amphotericin B adalah agen antijamur polien spektrum luas yang telah lama ditetapkan sebagai rawatan standard emas untuk jangkitan jamur sistemik invasif yang serius.
-Model TxGNN meramalkan ia mungkin berkesan untuk **Candidiasis Esofageal**,
-dengan **2 percubaan klinikal** dan **19 penerbitan** kini menyokong arah ini.
+Amphotericin B ialah antikulat polien yang sejak lama digunakan untuk jangkitan kulat, termasuk kandidiasis.
+Model TxGNN meramalkan ia berkesan untuk **kandidiasis esofagus** (skor 0.00%), dengan **1 percubaan klinikal** dan **19 penerbitan** (kebanyakannya ulasan) dalam data yang dikumpulkan.
+Kandidiasis esofagus sudah tersenarai antara indikasi asal dalam graf pengetahuan, jadi ini **bukan pengubahsuaian guna yang benar-benar baharu**.
 
 ---
 
-## Tinjauan Singkat
+## Gambaran Keseluruhan
 
-| Item | Kandungan |
-|------|-----------|
-| Petunjuk Asal | Jangkitan jamur sistemik (butiran produk berdaftar tidak tersedia dalam sistem semasa) |
-| Petunjuk Baru Diramal | Candidiasis Esofageal |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Kandidiasis (antara lain kandidiasis kulit, mulut dan esofagus), berdasarkan graf pengetahuan TxGNN. Tiada teks indikasi berlesen tempatan tersedia. |
+| Indikasi Baharu yang Diramalkan | Kandidiasis esofagus |
 | Skor Ramalan TxGNN | 0.00% |
-| Paras Bukti | L2 |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 2 |
-| Keputusan yang Disyorkan | Langsungkan dengan Persyaratan Keselamatan |
+| Tahap Bukti | L4 (satu percubaan selesai tanpa fasa dan saiz sampel dilaporkan; literatur terutamanya ulasan naratif dan kajian pramklinikal) |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan terperinci tidak tersedia dalam paket bukti. Berdasarkan maklumat yang diketahui, Amphotericin B adalah antibiotik makrolid polien yang kecekapannya dalam merawat jangkitan jamur sistemik invasif yang serius telah terbukti dengan mantap selama beberapa dekad. Ia diketahui mengikat dengan afiniti tinggi kepada ergosterol — sterol unik kepada membran sel jamur — membentuk liang transmembran yang mengganggu keseimbangan osmotik dan menyebabkan kebocoran kandungan intrasel, yang membawa kepada aktiviti fungisida langsung terhadap spesies *Candida*. Kedua-dua formulasi intravena — deoxycholate konvensional (Fungizone) dan liposamal (AmBisome) — dapat mencapai kepekatan ubat yang berkesan di tisu mukosa esofageal.
+Amphotericin B mengikat ergosterol pada membran sel kulat lalu membentuk liang. Ini menyebabkan kebocoran ion dan kematian sel. Mekanisme ini terterterus relevan kepada *Candida*, termasuk esofagitis kandidiasis.
 
-Candidiasis esofageal disebabkan oleh *Candida albicans* dan, kurang kerap, spesies *Candida* lain (*C. glabrata*, *C. tropicalis*, *C. krusei*). Kerana patogen penyakit adalah sasaran yang sama seperti mekanisme tindakan Amphotericin B, pautan mekanistik adalah langsung dan terbukti — ini bukan lompatan merentasi kategori penyakit tetapi sambungan aktiviti antijamur yang terbukti kepada tapak anatomis tertentu. Sifat mukosa penyakit esofageal sepenuhnya dapat ditangani melalui pentadbiran intravena.
+Indikasi ini sudah tersenarai antara kegunaan asal ubat tersebut. Amphotericin B lama digunakan sebagai pembanding atau terapi penyelamat untuk kandidiasis esofagus. Garis panduan semasa lebih mengutamakan azol dan ekinokandin kerana ketoksikan amphotericin B. Literatur juga menyebut bahawa flukonazol didapati sama atau lebih berkesan daripada amphotericin B untuk kandidiasis oral dan esofagus.
 
-Secara klinikal, Amphotericin B telah lama berfungsi sebagai terapi alternatif atau penyelamat untuk candidiasis esofageal, terutamanya pada pesakit yang imunotersepit (HIV/AIDS, keganasan hematologi) dan pada mereka yang mempunyai penyakit tahan azol. Satu percubaan klinikal yang telah selesai (NCT00002041) secara langsung menilai Amphotericin B dalam esofagitis *Candida* yang disahkan biopsi, dan berbilang percubaan terkontrol rawak telah memasukkan AmB sebagai lengan pembanding aktif terhadap agen lebih baru seperti caspofungin dan anidulafungin — secara kolektif mengesahkan peranannya yang terbukti dalam petunjuk ini.
+Data terperinci tentang mekanisme tindakan daripada pangkalan data ubat tidak tersedia dalam data yang dikumpulkan. Penjelasan di atas berdasarkan mekanisme yang diketahui umum.
 
 ---
 
 ## Bukti Percubaan Klinikal
 
-| Nombor Percubaan | Fasa | Status | Enrolmen | Penemuan Utama |
-|-------------|-------|--------|------------|--------------|
-| [NCT00002041](https://clinicaltrials.gov/study/NCT00002041) | Fasa Tiada | Selesai | Tiada | Menilai langsung Amphotericin B untuk esofagitis *Candida* yang disahkan biopsi pada pesakit yang imunotersepit; menilai tempoh rawatan optimum dan membandingkan dua paras dos untuk keberkesanan dan nefrotoksisiti |
-| [NCT00041704](https://clinicaltrials.gov/study/NCT00041704) | Fasa 2 | Selesai | 19 | Kajian Fasa 2 anidulafungin untuk candidiasis mukosa tahan azol; Amphotericin B dimasukkan sebagai pembanding alternatif, mencerminkan peranannya yang menyelamat dalam penyakit esofageal tahan flukonazol |
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
+|---------|------|------|------|---------|
+| [NCT00002041](https://clinicaltrials.gov/study/NCT00002041) | Tiada fasa (NA) | Selesai | Tidak dilaporkan | Menilai tempoh rawatan yang sesuai dan membandingkan dua dos amphotericin B untuk esofagitis *Candida* yang disahkan biopsi pada pesakit imunokompromi. Turut menilai sama ada dos rendah kurang toksik serta parameter farmakokinetik dan farmakodinamik. |
+
+Percubaan ini mungkin lama dan tidak mempunyai data hasil yang boleh diekstrak, jadi ia tidak boleh dianggap bukti RCT fasa 2/3.
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|------|------|---------|-------------|
-| [8804799](https://pubmed.ncbi.nlm.nih.gov/8804799/) | 1996 | RCT | Chemotherapy | Percubaan rawak flukonazol oral vs IV Amphotericin B (0.3 mg/kg) dalam 31 pesakit kanser dengan candidiasis esofageal yang disahkan endoskopi; kedua-dua agen menghasilkan resolusi cepat disfagia dan odynophagia |
-| [11796357](https://pubmed.ncbi.nlm.nih.gov/11796357/) | 2002 | RCT | Antimicrobial Agents and Chemotherapy | Kajian rawak buta berkembar multikenter Fasa 2 membandingkan caspofungin vs Amphotericin B (0.5 mg/kg/hari IV) untuk candidiasis orofaring dan esofageal; menetapkan AmB sebagai penanda aras pembanding aktif |
-| [41226935](https://pubmed.ncbi.nlm.nih.gov/41226935/) | 2025 | Ulasan Farmakoterapia Klinikal | Journal of Clinical Medicine | Ulasan komprehensif pengurusan farmakologi candidiasis oral dan esofageal dari perspektif farmakoterapia klinikal; memposisikan Amphotericin B dalam algoritma rawatan semasa |
-| [10839593](https://pubmed.ncbi.nlm.nih.gov/10839593/) | 2000 | Percubaan Klinikal | AIDS | Kajian ACTG 295; menilai penggantungan oral Amphotericin B untuk candidiasis oral tahan flukonazol pada pesakit positif HIV, menunjukkan utiliti AmB dalam penyakit mukosa tahan azol |
-| [35699443](https://pubmed.ncbi.nlm.nih.gov/35699443/) | 2022 | Haiwan/Praklinikal | Antimicrobial Agents and Chemotherapy | Menilai formulasi Amphotericin B berkocok dalam model tikus candidiasis mukokutaneus dan pesakit CMC tahan azol; menyokong kebolehlaksanaan AmB bukan parenteral untuk candidiasis mukosa |
-| [7811544](https://pubmed.ncbi.nlm.nih.gov/7811544/) | 1994 | Ulasan Kohort/Rintangan | AIDS Research and Human Retroviruses | Meninjau corak candidiasis mukosa tahan flukonazol pada pesakit HIV; membincangkan Amphotericin B sebagai pilihan penyelamat utama untuk penyakit esofageal dan orofaring tahan azol |
-| [11590489](https://pubmed.ncbi.nlm.nih.gov/11590489/) | 2000 | Ulasan | HIV Clinical Trials | Meninjau pilihan terapeutik untuk candidiasis orofaring dan esofageal pada pesakit HIV/AIDS; memposisikan peranan Amphotericin B relatif kepada azol dan ekinokandin |
-| [10959741](https://pubmed.ncbi.nlm.nih.gov/10959741/) | 2000 | Kajian Kohort | Pediatric Infectious Disease Journal | Menyiasat pembentangan klinikal dan faktor risiko candidiasis esofageal dalam kohort yang dipantau secara prospektif besar kanak-kanak yang dijangkiti HIV di Institut Kanser Kebangsaan |
-| [11363911](https://pubmed.ncbi.nlm.nih.gov/11363911/) | 1996 | Ulasan | Journal of the International Association of Physicians in AIDS Care | Gambaran candidiasis — termasuk penglibatan esofageal — pada hos yang imunotersepit; memasukkan perbincangan terapi Amphotericin B |
-| [3181663](https://pubmed.ncbi.nlm.nih.gov/3181663/) | 1983 | Artikel Asal | Digestive Diseases and Sciences | Pencirian klinikal awal esofagitis *Candida* termasuk odynophagia, disfagia, dan pendarahan GI; menetapkan rawatan antijamur (termasuk Amphotericin B) sebagai standard penjagaan |
+|------|-----|------|------|---------|
+| [35699443](https://pubmed.ncbi.nlm.nih.gov/35699443/) | 2022 | Pramklinikal/klinikal | Antimicrob Agents Chemother | Amphotericin B berkoklea (formulasi oral baharu) dinilai pada model tikus dan pesakit kandidiasis mukokutaneus rintang azol. Rintangan amphotericin B jarang tetapi penggunaannya terhad oleh pemberian parenteral dan nefrotoksisiti. |
+| [41226935](https://pubmed.ncbi.nlm.nih.gov/41226935/) | 2025 | Ulasan | J Clin Med | Ulasan farmakoterapi untuk kandidiasis oral dan esofagus, terutamanya pada pesakit imunokompromi. |
+| [11590489](https://pubmed.ncbi.nlm.nih.gov/11590489/) | 2000 | Ulasan | HIV Clin Trials | Pilihan rawatan kandidiasis orofaring dan esofagus pada pesakit HIV/AIDS. Azol telah menggantikan antikulat topikal lama. |
+| [1750792](https://pubmed.ncbi.nlm.nih.gov/1750792/) | 1991 | Ulasan | ANNA J | Flukonazol didapati sama atau lebih berkesan daripada amphotericin B untuk kandidiasis oral dan esofagus. |
+| [7811544](https://pubmed.ncbi.nlm.nih.gov/7811544/) | 1994 | Ulasan | AIDS Res Hum Retroviruses | Kandidiasis mukosa rintang flukonazol semakin dikenali pada pesakit HIV. |
+| [3041396](https://pubmed.ncbi.nlm.nih.gov/3041396/) | 1988 | Ulasan | Postgrad Med | Pengurusan kandidiasis esofagus sebagai jangkitan oportunistik yang semakin lazim. |
+| [6339183](https://pubmed.ncbi.nlm.nih.gov/6339183/) | 1983 | Ulasan | Dig Dis Sci | Ciri klinikal esofagitis *Candida*, dengan odinofagia dan disfagia sebagai gejala utama. |
+| [2502408](https://pubmed.ncbi.nlm.nih.gov/2502408/) | 1989 | Ulasan | Eur J Clin Microbiol Infect Dis | Gambaran kandidiasis pada hos imunokompromi, terutamanya pesakit kanser. |
+| [19029563](https://pubmed.ncbi.nlm.nih.gov/19029563/) | 2008 | Ulasan (ubat pembanding) | Indian Pediatr | Kaspofungin setanding dengan amphotericin B dan flukonazol untuk kandidiasis orofaring/esofagus. |
+| [2040125](https://pubmed.ncbi.nlm.nih.gov/2040125/) | 1991 | Ulasan (ubat pembanding) | Clin Pharm | Flukonazol berlabel untuk kandidiasis orofaring dan esofagus. |
 
----
-
-## Maklumat Pasaran Malaysia
-
-Paket bukti mengesahkan **2 produk berdaftar** di Malaysia dengan status pasaran **Dipasarkan (Dipasarkan)**. Walau bagaimanapun, data pendaftaran terperinci — termasuk nombor lesen, nama produk, bentuk dos, dan teks petunjuk yang diluluskan — tidak tersedia dalam paket bukti semasa. Sila rujuk [pangkalan data pendaftaran NPRA](https://www.npra.gov.my/) untuk butiran produk penuh.
+Hanya 10 daripada 19 penerbitan disenaraikan. Tiada RCT atau tinjauan sistematik khusus untuk kandidiasis esofagus dikesan dalam data ini.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan paket untuk maklumat keselamatan.
+- **Kontraindikasi (daripada graf pengetahuan, bukan teks label)**: penyakit buah pinggang, piouretur, penyakit hati, penyakit pundi hempedu, kekurangan kalium, kolitis *Clostridium difficile* dan enterokolitis nekrosis perinatal.
+- **Interaksi Ubat**: 100 interaksi direkodkan. Antara yang bertahap **Major** ialah foscarnet, galium nitrat, amiodaron dan arsenik trioksida. Antara yang bertahap **Moderate** ialah zidovudin, asetazolamid, furosemid, hidroklorotiazid, ganciklovir, amikasin dan hidrokortison. Banyak daripadanya mungkin berkaitan risiko nefrotoksisiti, ketidakseimbangan elektrolit dan pemanjangan QT.
+- **Perhatian umum**: nefrotoksisiti, tindak balas infusi dan gangguan elektrolit, yang menjadi sebab formulasi lipid diutamakan.
 
-> **Nota:** Data amaran utama, kontraindikasi, dan interaksi ubat tidak boleh diambil dalam paket bukti ini (Jurang Data DG001 — Keseriusan Penyekat). Peremediatan: muat turun dan analisis PDF sisipan paket yang diluluskan NPRA. Kebimbangan peringkat kelas yang diketahui untuk Amphotericin B termasuk reaksi berkaitan infusi dan nefrotoksisiti dengan formulasi deoxycholate; formulasi liposamal membawa profil kebolehtoleraan yang jauh lebih baik.
+Sila rujuk sisipan pakej untuk amaran dan kontraindikasi rasmi.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Langsungkan dengan Persyaratan Keselamatan**
+**Keputusan: Hold**
 
-**Nisbah:**
-Mekanisme antijamur Amphotericin B secara langsung menyasarkan patogen penyebab candidiasis esofageal (*Candida* spp. melalui ikatan ergosterol), menjadikan ini aplikasi yang didukung mekanisme yang jelas. Satu percubaan klinikal yang telah selesai telah secara langsung menilai AmB dalam esofagitis *Candida* yang disahkan biopsi, berbilang RCT yang diterbitkan memasukkan AmB sebagai pembanding aktif, dan ulasan farmakoterapia klinikal 2025 memposisikannya dalam garis panduan rawatan semasa — secara kolektif memenuhi ambang bukti L2 untuk cadangan Langsungkan dengan Persyaratan Keselamatan.
+**Rasional:**
+- Amphotericin B berpotensi secara mekanisme, tetapi ini bukan penemuan pengubahsuaian guna yang baharu. Bukti klinikal khusus untuk kandidiasis esofagus lemah (satu percubaan tanpa fasa dan data hasil, serta literatur terutamanya ulasan lama). Ubat ini juga tidak dipasarkan di Malaysia, dan garis panduan semasa mengutamakan azol dan ekinokandin.
 
-**Untuk melanjutkan, yang berikut diperlukan:**
-
-- **Pengambilan data keselamatan (Penyekat):** Muat turun dan analisis PDF sisipan paket yang diluluskan NPRA untuk mengekstrak data amaran utama, kontraindikasi, dan interaksi ubat (DG001)
-- **Data mekanisme tindakan:** Gunakan API DrugBank untuk memperoleh profil MOA lengkap untuk Amphotericin B (DG002)
-- **Bentuk dos berdaftar:** Sahkan yang mana daripada 2 produk Malaysia berdaftar adalah formulasi deoxycholate vs. liposamal, kerana ini berbeza secara substansial dalam profil keselamatan dan dos
-- **Protokol pemantauan keselamatan:** Takrifkan pelan pemantauan nefrotoksisiti (kreatinin serum, elektrolit) dan pengurusan reaksi berkaitan infusi, terutamanya untuk formulasi konvensional
-- **Konteks rintangan azol:** Jelaskan epidemiologi *Candida* tahan flukonazol Malaysia tempatan untuk memposisikan peranan AmB relatif kepada ekinokandin sebagai alternatif lini pertama dalam kes rintangan
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Amaran dan kontraindikasi daripada sisipan pakej NPRA (diperlukan sebelum saringan keselamatan).
+- Data terperinci mekanisme tindakan.
+- Pengesahan status pasaran, termasuk formulasi tertentu (contohnya lipid) yang mungkin berdaftar.
+- Bukti perbandingan terkini dengan azol dan ekinokandin untuk kandidiasis esofagus, jika ada.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

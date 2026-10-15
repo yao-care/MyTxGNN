@@ -2,7 +2,7 @@
 layout: default
 title: Diclofenac Potassium
 parent: Low Evidence (L4-L5)
-nav_order: 276
+nav_order: 285
 evidence_level: L5
 indication_count: 0
 ---

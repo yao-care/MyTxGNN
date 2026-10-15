@@ -2,15 +2,15 @@
 layout: default
 title: Netarsudil
 parent: Low Evidence (L4-L5)
-nav_order: 499
-evidence_level: L4
+nav_order: 522
+evidence_level: L5
 indication_count: 2
 ---
 
 # Netarsudil
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **2** 
+Tahap bukti: **L5** | Indikasi diramal: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,65 +29,75 @@ Tahap bukti: **L4** | Indikasi diramal: **2**
 
 </div>
 
-# Netarsudil: Daripada Glaukoma Sudut Terbuka kepada Glaukoma Warisan Primer
+# Netarsudil: Daripada Glaukoma Sudut Terbuka kepada Glaukoma Keturunan Primer
 
 ## Ringkasan Satu Ayat
 
-> Netarsudil adalah perencat Rho-kinase (ROCK) yang sudah dipasarkan untuk menurunkan tekanan intraokular dalam glaukoma sudut terbuka dan hipertensi okular.
-> Model TxGNN meramalkan ia mungkin juga berkesan untuk **Glaukoma Warisan Primer**,
-> tetapi arah ini kini hanya disokong oleh **1 percubaan klinikal yang relevan secara tidak langsung** dan **0 penerbitan khusus**.
+Netarsudil ialah penyekat Rho kinase (ROCK) dalam bentuk titisan mata, pada asalnya digunakan untuk merawat glaukoma sudut terbuka dan hipertensi okular.
+Model TxGNN meramalkan ia mungkin berkesan untuk **glaukoma keturunan primer**.
+Setakat ini **tiada ujian klinikal** dan **tiada penerbitan** khusus untuk indikasi ini, jadi ramalan ini hanya berasaskan model.
 
-## Gambaran Pantas
+---
 
-| Item | Kandungan |
-|------|----------|
-| Petunjuk Asal | Tidak dinyatakan dalam rekod lesen NPRA yang diberikan (medan kosong); mengikut tajuk literatur/percubaan pek bukti sendiri, kegunaan yang diluluskan bagi netarsudil adalah glaukoma sudut terbuka / hipertensi okular (penurunan IOP) |
-| Petunjuk Baru Ramalan | Glaukoma Warisan Primer |
+## Gambaran Ringkas
+
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Glaukoma sudut terbuka, hipertensi okular |
+| Indikasi Baharu yang Diramalkan | Glaukoma keturunan primer (*primary hereditary glaucoma*) |
 | Skor Ramalan TxGNN | 99.50% |
-| Tahap Bukti | L4 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 2 |
-| Keputusan Disyorkan | Tahan |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan yang Disyorkan | Hold |
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Teks mekanisme tindakan DrugBank terperinci tidak tersedia untuk ubat ini (jurang data). Berdasarkan literatur yang ditangkap dalam pek bukti ini, netarsudil dikenali bertindak sebagai perencat kinase yang berkait dengan Rho (ROCK) berganda dan perencat pengangkut norepinefrin. Ia bertindak terus pada jaringan jala trabekular, meningkatkan aliran keluar akueus konvensional dan mengurangkan tekanan vena episkleral — mekanisme yang mendasari kesan penurunan IOP yang telah ditetapkan dalam glaukoma sudut terbuka dan hipertensi okular.
+Netarsudil menyekat ROCK (ROCK1 dan ROCK2) serta pengangkut norepinefrin. Kesannya ialah meningkatkan aliran keluar akueus melalui jaringan trabekular, menurunkan tekanan vena episklera dan mengurangkan penghasilan akueus. Ketiga-tiga kesan ini menurunkan tekanan intraokular (IOP).
 
-Glaukoma warisan primer adalah subtip glaukoma yang didorong secara genetik di mana tekanan intraokular yang meningkat kembali timbul daripada rintangan yang meningkat kepada aliran keluar humor akueus, biasanya disebabkan oleh keterlaluan perkembangan sudut kamar depan. Oleh kerana titik hujung patofisiologi (rintangan aliran keluar yang meningkat → IOP yang meningkat) dikongsi dengan petunjuk yang sudah diluluskan, terdapat rasional mekanisme yang munasabah untuk memperluaskan kesan netarsudil kepada subtip warisan ini.
+Glaukoma keturunan primer berkait rapat dengan glaukoma sudut terbuka, iaitu indikasi asal ubat ini. Jika kecacatan laluan aliran keluar menjadi punca penyakit, mekanisme netarsudil secara teori boleh digunakan. Skor TxGNN yang sangat tinggi (0.995) mencerminkan kedekatan penyakit ini dengan glaukoma yang sudah diluluskan.
 
-Walau bagaimanapun, ekstrapolasi ini belum lagi disahkan secara klinikal untuk populasi warisan spesifik ini. Satu-satunya percubaan yang dipetakan kepada petunjuk ini, NCT06969586, mendaftarkan pesakit dengan distrofi kornea endotel Fuchs (beberapa di antaranya mempunyai glaukoma) dan mengukur perlindungan sel endotel kornea selepas pembedahan katarak — bukan keberkesanan penurunan IOP dalam glaukoma warisan primer. Tiada percubaan yang telah dirancang dengan subtip warisan ini sebagai populasi kajian utama atau titik akhir.
+Namun terdapat had yang jelas. Bentuk keturunan, terutamanya jenis kongenital primer atau juvenil, sering melibatkan kelainan perkembangan sudut. Keberkesanan netarsudil pada kumpulan ini belum dibuktikan dan mungkin terhad. Bukti setakat ini hanyalah ramalan model.
 
-## Bukti Percubaan Klinikal
+---
 
-| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT06969586](https://clinicaltrials.gov/study/NCT06969586) | Tidak Tersedia | Mendaftarkan Mengikut Jemputan | 50 | Menilai sama ada perencat ROCK topikal melindungi sel endotel kornea selepas pembedahan katarak pada pesakit dengan glaukoma dan distrofi kornea endotel Fuchs — kajian keselamatan kornea, bukan percubaan keberkesanan dalam glaukoma warisan primer |
+## Bukti Ujian Klinikal
+
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan untuk indikasi ini.
+
+---
 
 ## Bukti Literatur
 
-Kini tiada literatur berkaitan tersedia
+Pada masa ini tiada literatur berkaitan untuk indikasi ini.
 
-## Maklumat Pasaran Malaysia
-
-Rekod NPRA mengesahkan netarsudil didaftarkan di bawah **2 kebenaran** dan kini dipasarkan, tetapi medan terperinci (nombor kebenaran, nama produk, bentuk dos, teks petunjuk yang diluluskan) tidak dikembalikan dalam tarik data ini dan tidak tersedia untuk petikan di sini.
+---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
+Data keselamatan daripada risalah pek tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Sila rujuk risalah pek untuk maklumat keselamatan.
+
+Sebagai maklumat tambahan, laporan kes dalam literatur tentang penggunaan netarsudil untuk glaukoma ada melaporkan keratopati epitelium, *cornea verticillata*, kerapuhan konjunktiva dan penstenosan atau penutupan punktum. Perkara ini perlu diberi perhatian jika penggunaan baharu dipertimbangkan.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
-**Rasional:**
-Rasional mekanisme adalah munasabah (patofisiologi rintangan aliran keluar berkongsi dengan kegunaan ubat yang diluluskan), tetapi bukti adalah L4 — satu-satunya percubaan yang dipetakan tidak menguji keberkesanan dalam subtip glaukoma warisan ini, dan tiada literatur yang menyokong. Semakan keselamatan peringkat TFDA/NPRA juga disekat sementara data sisipan pakej tertangguh (DG001).
+**Justifikasi:**
+- Ramalan ini hanya disokong oleh model (L5), tanpa ujian klinikal atau literatur khusus untuk glaukoma keturunan primer.
+- Bentuk kongenital dan juvenil melibatkan kelainan perkembangan sudut, jadi keberkesanan mungkin terhad walaupun mekanismenya munasabah.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Sisipan pakej TFDA/NPRA (amaran, kontraindikasi) — kini jurang data yang menyekat
-- Rekod mekanisme tindakan DrugBank yang disahkan
-- Percubaan klinikal atau kajian pemerhatian dengan pesakit glaukoma warisan primer sebagai populasi/titik akhir utama
-- Detail lesen Malaysia yang lengkap (nombor kebenaran, nama produk, teks petunjuk yang diluluskan)
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Maklumat amaran dan kontraindikasi daripada risalah pek NPRA, kerana data keselamatan ini belum diperoleh.
+- Pengesahan status pasaran di Malaysia. Data semasa menunjukkan "tidak dipasarkan", tetapi wujud banyak ujian fasa 4 untuk Rhopressa dan Rocklatan, jadi status ini perlu disemak.
+- Data mekanisme tindakan yang lebih terperinci, kerana data asal tidak lengkap.
+- Kajian praklinikal atau klinikal kecil khusus pada subjenis glaukoma keturunan, termasuk pertimbangan keselamatan bagi pesakit kanak-kanak.
 
+**Nota tambahan:** Ramalan kedua model, iaitu **glaukoma** umum, mempunyai bukti kukuh (tahap L1). Ini termasuk beberapa ujian fasa 3 yang selesai, antaranya NCT02558374, NCT02674854 dan NCT02207491, serta beberapa RCT yang diterbitkan. Walau bagaimanapun, indikasi ini hampir sama dengan indikasi asal ubat, jadi ia lebih merupakan penggunaan sedia ada (*on-label*) daripada penemuan pengalihan guna (*repurposing*) yang sebenar.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

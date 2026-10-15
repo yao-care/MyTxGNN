@@ -2,7 +2,7 @@
 layout: default
 title: Baricitinib
 parent: Low Evidence (L4-L5)
-nav_order: 118
+nav_order: 123
 evidence_level: L5
 indication_count: 2
 ---
@@ -29,82 +29,59 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Baricitinib: Daripada Penyakit Autoimun kepada Sindrom Colobomatous Microphthalmia-Rhizomelic Dysplasia
+# Baricitinib: Daripada Artritis Reumatoid kepada Sindrom Displasia Rizomelik-Mikroftalmia Kolobomatus
 
 ## Ringkasan Satu Ayat
 
-Baricitinib adalah penghambat JAK1/JAK2 yang selektif, pada awalnya diluluskan untuk rawatan keadaan autoimun seperti artritis reumatoid dan dermatitis atopik. Model TxGNN meramalkan ia mungkin berkesan untuk **Sindrom Colobomatous Microphthalmia-Rhizomelic Dysplasia**, walau bagaimanapun pada masa ini tidak ada **percubaan klinikal** dan **tiada penerbitan** yang menyokong arah ini. Ramalan sekunder untuk **Sindrom Brachydactyly-Syndactyly** juga tidak mempunyai bukti sokongan.
+Baricitinib ialah ubat yang pada asalnya digunakan untuk merawat artritis reumatoid.
+Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom mikroftalmia kolobomatus-displasia rizomelik**, dengan skor ramalan yang sangat tinggi.
+Namun, pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong arah ini; ramalan ini hanyalah ramalan model komputasi.
 
 ## Gambaran Keseluruhan Pantas
 
 | Item | Kandungan |
 |------|------|
-| Petunjuk Asal | Penyakit autoimun (teks petunjuk yang diluluskan secara khusus tidak tersedia dalam data) |
-| Petunjuk Baru yang Diramalkan | Sindrom Colobomatous Microphthalmia-Rhizomelic Dysplasia |
+| Indikasi Asal | Artritis reumatoid |
+| Indikasi Baharu yang Diramalkan | Sindrom mikroftalmia kolobomatus-displasia rizomelik |
 | Skor Ramalan TxGNN | 99.94% |
-| Tahap Bukti | L5 (Ramalan model sahaja, tiada kajian sebenar) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 2 |
-| Keputusan yang Disyorkan | Tahan |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan yang Disyorkan | Hold |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan yang terperinci tidak tersedia dalam bungkus bukti. Berdasarkan maklumat yang diketahui secara umum, baricitinib adalah penghambat kinase Janus (JAK) 1 dan JAK2 yang selektif. Dengan menghalang isyarat JAK-STAT, ia menekan air terjun keradangan hiliran yang didorong oleh pelbagai sitokin (IL-6, IL-12, IL-23, IFN-γ, dan lain-lain). Mekanisme ini telah terbukti berkesan dalam artritis reumatoid, dermatitis atopik, alopecia areata, dan diberikan kebenaran penggunaan kecemasan untuk COVID-19.
+Baricitinib ialah perencat JAK1/JAK2 yang menyekat isyarat JAK-STAT, laluan penting dalam tindak balas keradangan. Inilah asas penggunaannya dalam artritis reumatoid. Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
 
-Sindrom microphthalmia colobomatous-rhizomelic dysplasia adalah gangguan kongenital yang jarang disebabkan oleh mutasi dalam laluan isyaran perkembangan (SHH, PAX2, BMP), yang menyebabkan malformasi struktur mata (microphthalmia dengan coloboma) dan sistem rangka (pemendekan rhizomelic). Pautan mekanistik antara perencatan JAK-STAT dan gangguan perkembangan ini adalah **sangat lemah** — penyakit timbul daripada kecacatan morfogenetik embrionik yang tidak dapat dipulihkan selepas lahir, dan isyaran JAK-STAT bukan pemacu utama laluan perkembangan yang terjejas.
+Sindrom yang diramalkan ialah keadaan perkembangan yang jarang berlaku, melibatkan mikroftalmia dengan koloboma dan displasia rangka rizomelik. Tiada hubungan mekanistik yang boleh dipastikan antara perencatan JAK-STAT dan patologi sindrom ini. Satu-satunya sokongan ialah skor ramalan graf pengetahuan yang tinggi (0.9994), yang bukan bukti klinikal atau eksperimen.
 
-Walaupun TxGNN memberikan skor ramalan yang tinggi (99.94%), ini berkemungkinan mencerminkan kedekatan topologi dalam graf pengetahuan dan bukannya rasional farmakologi yang tulen. Ketiadaan sebarang percubaan klinikal, kajian pra-klinikal, atau literatur yang diterbitkan lebih jauh mengganggu kelayakan biologi calon repurposing ini. Petunjuk yang diramalkan sekunder (sindrom brachydactyly-syndactyly) berkongsi profil yang sama — malformasi rangka kongenital yang didorong oleh mutasi laluan BMP/GDF tanpa sambungan mekanistik untuk perencatan JAK.
+Sebarang hubungan masih bersifat spekulatif. Langkah pengesahan yang wajar termasuk menyemak asas genetik sindrom ini dan sama ada ia melibatkan isyarat sitokin atau JAK-STAT.
 
-## Bukti Percubaan Klinikal
+**Ramalan kedua (untuk rujukan):** model juga meramalkan **sindrom brakidaktili-sindaktili** (skor 99.94%, tahap bukti L5, Hold). Ini ialah kecacatan anggota badan kongenital, dan tiada bukti bahawa perencatan JAK-STAT mempengaruhi pembentukan anggota atau patologi asasnya.
 
-Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan untuk baricitinib dalam sindrom colobomatous microphthalmia-rhizomelic dysplasia.
+## Keselamatan
 
-## Bukti Literatur
+**Interaksi Ubat** (pertanyaan selesai; 100 interaksi direkodkan, sebahagian disenaraikan di bawah):
 
-Pada masa ini tiada literatur berkaitan yang tersedia untuk baricitinib dalam sindrom colobomatous microphthalmia-rhizomelic dysplasia.
+- **Major**: kortikosteroid (hidrokortison, triamsinolon termasuk bentuk oftalmik, betametason, budesonid, deksametason, prednisolon, prednison); deferiprone; ibritumomab tiuxetan; iobenguane (I-131); tositumomab (I-131)
+- **Moderate**: morfin (termasuk liposomal), asid asetilsalisilik, nitisinone, opium
+- **Minor**: garam zink (asetat, glukonat, sulfat)
 
-## Maklumat Pasaran Malaysia
-
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjuk yang Diluluskan |
-|------|------|------|------|
-| (Tidak tersedia) | (Tidak tersedia) | (Tidak tersedia) | (Tidak tersedia) |
-
-*Nota: Baricitinib mempunyai 2 produk berdaftar di Malaysia, tetapi maklumat pendaftaran terperinci tidak ditangkap dalam pengumpulan data semasa. Sila rujuk pangkalan data NPRA Quest untuk maklumat produk yang lengkap.*
-
-## Pertimbangan Keselamatan
-
-> Sila rujuk sisipan pakej untuk maklumat keselamatan. Data amaran kunci, kontraindikasi, dan interaksi ubat tidak tersedia dalam bungkus bukti semasa. Sebagai penghambat JAK, penyedia perkhidmatan kesihatan secara umum harus sedar akan risiko termasuk jangkitan serius, tromboemboli, keganasan, dan peristiwa kardiovaskular seperti yang dinyatakan dalam amaran kawal selia seluruh kelas untuk penghambat JAK.
-
-## Petunjuk yang Diramalkan Sekunder: Sindrom Brachydactyly-Syndactyly
-
-| Item | Kandungan |
-|------|------|
-| Petunjuk Baru yang Diramalkan | Sindrom Brachydactyly-Syndactyly |
-| Skor Ramalan TxGNN | 99.94% |
-| Tahap Bukti | L5 (Ramalan model sahaja) |
-| Pautan Mekanistik | Sangat lemah — penyakit didorong oleh mutasi gen laluan BMP/GDF (GDF5, HOXD13, BMPR1B); malformasi rangka kongenital tidak dapat dipulihkan selepas lahir |
-| Percubaan Klinikal | Tiada |
-| Literatur | Tiada |
-| Keputusan yang Disyorkan | Tahan |
+Maklumat amaran utama dan kontraindikasi daripada sisipan pakej tidak tersedia. Sila rujuk sisipan pakej untuk maklumat keselamatan lanjut.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
 **Rasional:**
-Kedua-dua petunjuk yang diramalkan adalah gangguan perkembangan kongenital yang jarang dengan tiada sambungan mekanistik untuk perencatan JAK-STAT. Tahap bukti adalah L5 — terdapat sifar percubaan klinikal, sifar penerbitan, dan rasional repurposing dari perspektif biologi sangat lemah. Malformasi struktur kongenital ini tidak dapat dipulihkan selepas lahir, menjadikan campur tangan farmakologi pascalahir dengan penghambat JAK secara biologi tidak munasabah.
+- Ramalan hanya disokong oleh skor model (L5) tanpa percubaan klinikal, penerbitan atau hubungan mekanistik yang jelas. Baricitinib juga tidak dipasarkan di Malaysia.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Bukti pra-klinikal yang menunjukkan penglibatan JAK-STAT dalam patogenesis sindrom colobomatous microphthalmia-rhizomelic dysplasia
-- Pengenalan sebarang komponen keradangan pascalahir atau progresif penyakit yang boleh diubahsuai dengan perencatan JAK
-- Penyelesaian data pendaftaran NPRA Malaysia (nama produk, bentuk dos, petunjuk yang diluluskan)
-- Data mekanisme tindakan terperinci daripada DrugBank
-- Pengekstrakan profil keselamatan daripada sisipan pakej (amaran kunci, kontraindikasi, interaksi ubat)
-
----
-
-*Penafian: Laporan ini adalah untuk rujukan penyelidikan sahaja dan tidak membentuk nasihat perubatan. Calon repurposing ubat memerlukan pengesahan klinikal sebelum aplikasi.*
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) terperinci
+- Semakan asas genetik dan patofisiologi sindrom yang diramalkan, serta kaitannya dengan isyarat JAK-STAT
+- Bukti praklinikal atau penerbitan yang menyokong hubungan ini
+- Amaran dan kontraindikasi daripada sisipan pakej (NPRA) untuk saringan keselamatan
+- Kajian kesesuaian laluan pentadbiran dan status pendaftaran tempatan
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

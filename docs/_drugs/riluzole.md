@@ -2,7 +2,7 @@
 layout: default
 title: Riluzole
 parent: Low Evidence (L4-L5)
-nav_order: 593
+nav_order: 621
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,64 +29,86 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Riluzole: Daripada Sklerosis Lateral Amiotrofik kepada Polimikrogiri Parieto-Oksipital Parasagital Bilateral
+# Riluzole: Daripada Sklerosis Lateral Amiotrofik (ALS) kepada Polimikrogiria Parieto-Oksipital Parasagital Bilateral
 
 ## Ringkasan Satu Ayat
 
-Riluzole adalah penghambat penghantaran neurotransmiter glutamatik yang pada asalnya diluluskan untuk **Sklerosis Lateral Amiotrofik (ALS)**.
-Ramalan kedudukan teratas model TxGNN untuk ubat ini ialah **Polimikrogiri Parieto-Oksipital Parasagital Bilateral**, suatu malformasi otak kongenital,
-tetapi ramalan ini disokong oleh **sifar ujikaji klinikal** dan **sifar penerbitan**, dan semakan mekanistik pakej bukti itu sendiri menandanya sebagai kemungkinan bising graf pengetahuan dan bukannya isyarat biologi yang tulin.
+Riluzole ialah ubat yang dikenali untuk merawat sklerosis lateral amiotrofik (ALS), berdasarkan literatur dalam data yang dihimpunkan untuk laporan ini.
+Model TxGNN meramalkan ia mungkin berkesan untuk **polimikrogiria parieto-oksipital parasagital bilateral** (gangguan malformasi korteks otak) dengan skor tinggi.
+Namun, **tiada ujian klinikal** dan **tiada literatur** menyokong ramalan ini setakat ini. Ia hanya ramalan pengiraan.
 
-## Gambaran Ringkas
+---
 
-| Item | Kandungan |
-|------|---------|
-| Petunjukan Asal | Sklerosis Lateral Amiotrofik (ALS) *(mengikut rasional pakej bukti; rekod lesen TFDA sendiri kosong — lihat Maklumat Pasaran)* |
-| Petunjukan Baru Diprakirakan | Polimikrogiri Parieto-Oksipital Parasagital Bilateral |
+## Gambaran Keseluruhan
+
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Tiada dalam data pendaftaran tempatan. Literatur yang dihimpunkan menunjukkan riluzole ialah ubat ALS. |
+| Indikasi Baharu yang Diramalkan | Polimikrogiria parieto-oksipital parasagital bilateral |
 | Skor Ramalan TxGNN | 99.99% |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 1 |
-| Keputusan yang Disyorkan | Tangguh |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia dalam rekod ubat berstruktur. Berdasarkan farmakologi yang diketahui yang dipetik di tempat lain dalam pakej bukti ini, riluzole bertindak dengan menghalang pelepasan glutamat pra-sinaptik dan menghalang saluran natrium bersandar voltan, mengurangkan eksitotoksisiti neuron motor — asas untuk keberkesanannya dalam ALS.
+Data terperinci mengenai mekanisme tindakan tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, riluzole dikaitkan dengan perencatan neurotransmisi glutamat di sistem saraf pusat. Mekanisme ini digunakan dalam rawatan ALS, dan secara teori mungkin berkaitan dengan gangguan neurologi lain.
 
-Polimikrogiri parieto-oksipital parasagital bilateral ialah malformasi kortikal struktur yang disebabkan oleh migrasi neuron yang tidak normal semasa perkembangan otak janin. Ini adalah kategori penyakit yang asasnya berbeza daripada ALS: ia adalah gangguan perkembangan, bukan satu gangguan degeneratif saraf/eksitotoksisiti, dan ia terwujud sebelum atau semasa lahir dan bukannya pada usia dewasa.
+Polimikrogiria ialah malformasi perkembangan korteks otak. Hubungan yang munasabah tetapi **belum terbukti** ialah modulasi isyarat glutamatergik oleh riluzole dalam gangguan korteks. Tiada kajian yang menunjukkan kesan ini bagi keadaan tersebut.
 
-Rasional pengguna semula pakej bukti sendiri adalah jelas pada titik ini: **tiada pautan patofisiologi yang diketahui** antara modulasi glutamat/saluran natrium riluzole dan gangguan migrasi kortikal. Skor TxGNN yang sangat tinggi (99.99%, kedudukan model 232) dinilai sebagai kemungkinan mencerminkan kedekatan ruang pembenaman atau bising graf pengetahuan dan bukannya isyarat mekanistik yang sebenar. Tiada hipotesis mekanistik menyokong pasangan ini.
+Skor TxGNN yang sangat tinggi (99.99%) ialah hasil pengiraan model graf pengetahuan sahaja. Ia tidak boleh dianggap sebagai bukti klinikal. Persamaan dengan indikasi asal belum dinilai.
 
-## Bukti Ujikaji Klinikal
+---
 
-Pada masa ini tiada ujikaji klinikal berkaitan yang didaftarkan.
+## Bukti Ujian Klinikal
 
-## Bukti Kesusasteraan
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
-Pada masa ini tiada kesusasteraan berkaitan yang tersedia.
+---
 
-## Maklumat Pasaran Malaysia
+## Bukti Literatur
 
-Pakej bukti merekodkan 1 jumlah pendaftaran untuk riluzole dengan status pasaran "Dipasarkan" (Dipasarkan), tetapi rekod lesen asas (nombor kebenaran, nama produk, bentuk dos, teks petunjukan yang diluluskan) kosong dalam data sumber — tiada bidang yang diisi tersedia untuk membina jadual maklumat pasaran.
+Pada masa ini tiada literatur berkaitan tersedia.
+
+---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
+Maklumat keselamatan daripada sisipan pakej tidak tersedia. Sila rujuk sisipan pakej untuk amaran dan kontraindikasi.
+
+**Interaksi Ubat**: Pertanyaan interaksi ubat telah selesai dengan **44 interaksi** dikenal pasti. Antara yang bertahap **Sederhana (Moderate)** ialah:
+
+- Asid obetikolik (obeticholic acid)
+- Naltrexone
+- Deferasirox
+- Osilodrostat
+- Anagrelide
+- Asparaginase (*Escherichia coli*)
+- Brentuximab vedotin
+- Clofarabine
+- Methotrexate
+- Epirubicin
+
+Antara yang bertahap **Minor** ialah omeprazole, kafein, teofilin dan aminofilin. Beberapa interaksi lain, seperti metformin, simvastatin, ranitidine, sianokobalamin, salbutamol dan ibuprofen, belum mempunyai tahap yang ditentukan.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tangguh**
+**Keputusan: Hold**
 
 **Rasional:**
-Calon kedudukan teratas tidak mempunyai sokongan klinikal atau kesusasteraan (L5, S0), dan semakan mekanistik dalam pakej bukti yang sama ini menyimpulkan bahawa tiada pautan biologi yang munasabah antara mod tindakan riluzole dan malformasi kortikal kongenital ini — skor model yang tinggi kemungkinan besar adalah artifak dan bukannya isyarat pengguna semula yang tulin.
+- Ramalan ini hanya berasaskan model pengiraan (L5), tanpa ujian klinikal, literatur atau mekanisme yang disahkan untuk polimikrogiria. Produk ini juga tidak mempunyai pendaftaran di Malaysia dalam data yang dihimpunkan.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Data mekanisme tindakan (MOA) bersumber DrugBank untuk riluzole
-- Data label TFDA: amaran, kontraindikasi, dan butiran lesen/produk lengkap (kini kosong)
-- Sebarang bukti pra-klinikal atau peringkat kes yang khususnya menghubungkan riluzole dengan gangguan migrasi kortikal, sebelum calon ini boleh bergerak melepasi S0
-
-**Catatan tentang calon lain dalam pakej ini:** kedudukan 2 (ALS) ialah petunjukan asal yang diluluskan riluzole, bukan calon pengguna semula, walaupun bukti yang kuat (L1). Kedudukan 4, 7, dan 8 (sindrom neuron motor bawah, amiotrofi monomeli, sindrom Mills) mempunyai tindih mekanistik yang munasabah dengan patologi ALS tetapi pada masa ini mempunyai sokongan ujikaji/kesusasteraan sifar (L5) — ini ditandakan "Soalan Penyelidikan" dalam data sumber dan mungkin calon yang lebih produktif untuk pengumpulan bukti masa depan daripada ramalan kedudukan teratas yang disemak di atas.
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) yang terperinci, contohnya daripada DrugBank.
+- Amaran dan kontraindikasi daripada sisipan pakej NPRA, yang diperlukan sebelum saringan keselamatan.
+- Pengesahan status pendaftaran riluzole dengan NPRA. Data pendaftaran dan indikasi asal yang kosong mungkin satu jurang data kerana riluzole ialah ubat ALS yang mapan.
+- Bukti praklinikal atau mekanistik yang menghubungkan riluzole dengan patologi polimikrogiria.
+- Pertimbangan lanjut terhadap indikasi lain dalam senarai ramalan. Ramalan ALS (kedudukan ke-2) mempunyai bukti terkuat (L1) tetapi ialah indikasi sedia ada, bukan penggunaan semula. Ramalan berkaitan neuron motor, seperti sindrom neuron motor bawah dan penyakit Mills, boleh dikaji sebagai persoalan penyelidikan melalui ekstrapolasi daripada ALS.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

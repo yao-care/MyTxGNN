@@ -2,7 +2,7 @@
 layout: default
 title: Ravulizumab
 parent: Low Evidence (L4-L5)
-nav_order: 587
+nav_order: 615
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,63 +29,92 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Ravulizumab: Dari Penyakit Dimediasi Komplemen ke Neutropenia Kongenital Berat (Defisiensi G6PC3)
+# Ravulizumab: Daripada Indikasi Asal (Tidak Direkodkan) kepada Neutropenia Kongenital Teruk Autosomal Resesif Akibat Kekurangan G6PC3
 
-## Ringkasan Satu Kalimat
+## Ringkasan Satu Ayat
 
-Ravulizumab adalah penghambat komplemen C5 terminal jangka panjang, dengan indikasi global yang ditetapkan mencakup penyakit yang terkait dengan komplemen dan mikroangiopati trombotik (PNH, aHUS, gMG, NMOSD). Prediksi teratas model TxGNN adalah **neutropenia kongenital berat resesif autosom akibat defisiensi G6PC3**, tetapi arah ini — bersama dengan semua 9 kandidat lainnya dalam paket bukti ini — memiliki **nol uji klinis dan nol dukungan literatur**, dan rasional yang dihasilkan model secara eksplisit menandainya sebagai artefak pengelompokan grafik yang mungkin daripada tautan mekanis yang sebenarnya.
+Ravulizumab ialah perencat komplemen C5, tetapi data yang dikumpulkan untuk laporan ini tidak merekodkan indikasi asalnya di Malaysia.
+Model TxGNN meramalkan ia mungkin berkesan untuk **neutropenia kongenital teruk autosomal resesif akibat kekurangan G6PC3**,
+namun **tiada sebarang ujian klinikal** dan **tiada penerbitan** yang menyokong ramalan ini setakat ini. Ramalan ini hanya berasaskan model graf.
 
-## Gambaran Umum Cepat
+---
 
-| Item | Konten |
-|------|---------|
-| Indikasi Asli | Tidak ditangkap dalam penarikan data peraturan Malaysia saat ini; berdasarkan anotasi dalam paket bukti ini, indikasi global Ravulizumab yang diketahui adalah penyakit yang dimediasi komplemen (PNH, aHUS, gMG, NMOSD) |
-| Indikasi Baru yang Diprediksi | Neutropenia kongenital berat resesif autosom akibat defisiensi G6PC3 |
-| Skor Prediksi TxGNN | 99.96% |
-| Tingkat Bukti | L5 |
-| Status Pasar Malaysia | ✓ Dipasarkan |
-| Jumlah Registrasi | 1 |
-| Keputusan yang Disarankan | Tahan |
+## Gambaran Keseluruhan Pantas
 
-## Mengapa Prediksi Ini Dapat Diterima?
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Tiada rekod (tiada lesen berdaftar di Malaysia) |
+| Indikasi Baharu yang Diramalkan | Neutropenia kongenital teruk autosomal resesif akibat kekurangan G6PC3 |
+| Skor Ramalan TxGNN | 99.96% |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold (Tahan) |
 
-Data mekanisme aksi terperinci tidak tersedia dalam catatan terstruktur (`original_moa`: Kesenjangan Data). Namun, anotasi yang tertanam di tempat lain dalam paket bukti ini menunjukkan bahwa Ravulizumab adalah penghambat komplemen C5 terminal jangka panjang (kelas mekanis yang sama dengan eculizumab), memblokir pembelahan C5 menjadi C5a/C5b dan mencegah pembentukan kompleks serangan membran (MAC). Indikasi yang ditetapkannya adalah penyakit yang dimediasi komplemen dan mikroangiopati trombotik.
+---
 
-Kandidat peringkat teratas model — neutropenia kongenital akibat defisiensi G6PC3 — tidak memiliki koneksi patofisiologis yang diketahui dengan mekanisme ini: hal ini timbul dari defek glukosa-6-fosfatase yang menyebabkan stres retikulum endoplasma dan pematangan neutrofil yang terganggu, bukan aktivasi komplemen. Rasional paket bukti untuk kandidat ini secara eksplisit menyatakan bahwa skor TxGNN yang tinggi kemungkinan besar didorong oleh pengelompokan node "penyakit genetik hematologis/imun langka" dalam grafik pengetahuan daripada tautan biologis yang sebenarnya. Pola ini berulang di semua 10 kandidat peringkat dalam paket ini (subtipe neutropenia kongenital, gangguan trombosit, anemia megaloblastik, dll.) — setiap rasional secara independen menyimpulkan tidak ada jembatan mekanis yang masuk akal ke penghambatan C5. Satu pengecualian parsial adalah peringkat 3, hyperoxaluria primer, di mana rasional mencatat rute spekulatif dan tidak langsung (nephropati oksalat dapat memicu mikroangiopati trombotik hilir, yang kadang-kadang diobati di luar label dengan penghambat komplemen) — tetapi ini menargetkan komplikasi, bukan defek enzimatik yang mendasari penyakit (AGXT/GRHPR/HOGA1), dan juga tidak memiliki bukti pendukung langsung.
+## Mengapa Ramalan Ini Munasabah?
 
-Secara keseluruhan, set kandidat ini terlihat sebagai kasus di mana skor kepercayaan diri TxGNN yang tinggi tidak didukung dengan baik oleh kelayakan mekanis, dan tidak ada yang didukung oleh bukti klinis dunia nyata atau literatur.
+Butiran mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan. Namun, ravulizumab diketahui sebagai perencat komplemen C5 yang menyekat pengaktifan komplemen terminal.
 
-## Bukti Uji Klinis
+Berdasarkan penilaian mekanistik, **tiada kaitan yang mantap** antara pengaktifan komplemen terminal dengan neutropenia akibat kekurangan G6PC3. Penyakit ini berpunca daripada aktiviti glukosa-6-fosfatase yang terjejas dan apoptosis neutrofil, bukan daripada proses yang dimediasi komplemen. Skor TxGNN yang tinggi hanyalah ramalan berasaskan graf tanpa sokongan ujian atau literatur. Kesamaan dengan indikasi asal masih belum dinilai.
 
-Saat ini tidak ada uji klinis terkait yang terdaftar.
+### Ramalan Lain yang Disenaraikan
 
-## Bukti Literatur
+Sembilan ramalan lain turut diperoleh. Kesemuanya berada pada tahap bukti L5, tanpa ujian klinikal atau literatur, dan dengan keputusan Hold.
 
-Saat ini tidak ada literatur terkait yang tersedia.
+| Kedudukan | Penyakit | Skor TxGNN | Catatan Mekanistik |
+|------|------|------|------|
+| 2 | Hematopoiesis kitaran | 99.94% | Biasanya disebabkan mutasi ELANE; tiada peranan munasabah bagi perencatan C5 |
+| 3 | Hiperoksaluria primer | 99.90% | Kecacatan enzim hepar; kaitan tidak langsung dengan komplemen hanya spekulatif; terapi berkesan sedia ada menyasarkan penghasilan oksalat |
+| 4 | Neutropenia kongenital teruk | 99.87% | Perencatan komplemen tidak menangani kecacatan asas dan menambah risiko jangkitan (terutamanya *Neisseria*) |
+| 5 | Neutropenia kongenital teruk akibat kekurangan CXCR2 | 99.86% | Tiada kaitan diketahui dengan perencatan C5 |
+| 6 | Sindrom imunodefisiensi primer akibat kekurangan p14 | 99.83% | Menyekat komplemen boleh melemahkan lagi pertahanan perumah |
+| 7 | Penyakit pseudo-von Willebrand | 99.82% | Gangguan platelet (GP1BA), bukan mekanisme komplemen |
+| 8 | Neutropenia kongenital teruk terangkai-X | 99.82% | Mutasi WAS; tiada rasional bagi perencatan C5 |
+| 9 | Gangguan pembebasan primer platelet | 99.81% | Kecacatan sekresi granul; tidak ditangani oleh sekatan C5 |
+| 10 | Anemia megaloblastik | 99.80% | Disebabkan kekurangan B12/folat; hemolisis bukan dipacu komplemen |
 
-## Informasi Pasar Malaysia
+---
 
-Catatan NPRA mengkonfirmasi 1 registrasi ada di file dengan status pasar ✓ Dipasarkan. Nomor lisensi, nama produk, bentuk dosis, dan teks indikasi yang disetujui tidak ditangkap dalam penarikan data ini.
+## Maklumat Pasaran Malaysia
+
+Ravulizumab tidak mempunyai sebarang lesen berdaftar di Malaysia (jumlah pendaftaran: 0), maka tiada produk untuk disenaraikan.
+
+---
 
 ## Pertimbangan Keselamatan
 
-Silakan merujuk pada risalah ubat untuk informasi keselamatan.
+### Interaksi Ubat
 
-*(Catatan: `key_warnings` dan `contraindications` ditandai sebagai kesenjangan data yang menghalangi — DG001 — dalam paket bukti ini, yang berarti penyaringan keselamatan S1 formal tidak dapat dilanjutkan sampai risalah ubat TFDA diperoleh.)*
+Terdapat 4 interaksi **Minor** direkodkan (sumber: DDInter), semuanya dengan imunoglobulin G manusia:
 
-## Kesimpulan dan Langkah Selanjutnya
+- Imunoglobulin G manusia (intravena)
+- Imunoglobulin G manusia (subkutaneus)
+- Imunoglobulin G manusia (intramuskular)
+- Imunoglobulin G manusia (intravena dan subkutaneus)
 
-**Keputusan: Tahan**
+### Nota Keselamatan Berkaitan Ramalan
+
+- Penghambatan komplemen terminal meningkatkan risiko jangkitan bakteria berkapsul, terutamanya *Neisseria*. Risiko ini amat membimbangkan bagi pesakit neutropenia atau imunodefisiensi primer (contohnya kekurangan p14), yang sudah mempunyai pertahanan perumah yang terjejas.
+
+Untuk amaran utama dan kontraindikasi, sila rujuk risalah pek (package insert).
+
+---
+
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Hold (Tahan)**
 
 **Rasional:**
-Semua 10 indikasi yang diprediksi adalah L5 (prediksi model saja) tanpa uji klinis atau literatur pendukung, dan rasional mekanis 9 dari 10 kandidat sendiri secara eksplisit menemukan tidak ada tautan yang masuk akal untuk mekanisme kerja penghambatan C5 Ravulizumab. Dikombinasikan dengan kesenjangan data yang menghalangi pada peringatan keselamatan/kontraindikasi (DG001), saat ini tidak ada dasar untuk memajukan salah satu dari kandidat ini melampaui penyaringan awal.
+- Semua ramalan hanya berada pada tahap bukti L5 (ramalan model sahaja) tanpa ujian klinikal atau literatur, dan tiada kaitan mekanistik yang munasabah antara perencatan C5 dengan penyakit-penyakit tersebut. Ubat ini juga tidak berdaftar di Malaysia, dan data keselamatan labelnya belum lengkap.
 
-**Untuk melanjutkan, yang berikut diperlukan:**
-- Risalah ubat TFDA (peringatan, kontraindikasi) — menyelesaikan DG001, diperlukan sebelum evaluasi keselamatan S1 apa pun
-- Catatan mekanisme kerja DrugBank yang dikonfirmasi — menyelesaikan DG002
-- Jika mengejar arah hyperoxaluria primer (peringkat 3) secara khusus: bukti tingkat kasus atau registri pada penggunaan penghambat komplemen dalam TMA yang terkait dengan nephropati oksalat, karena ini saat ini hipotesis komplikasi hilir daripada hipotesis indikasi primer
-- Detail lisensi peraturan Malaysia yang lengkap (nama produk, bentuk dosis, teks indikasi yang disetujui) untuk registrasi yang ada
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Amaran dan kontraindikasi daripada risalah pek NPRA (jurang data yang menyekat saringan keselamatan)
+- Data mekanisme tindakan (MOA) terperinci, contohnya daripada DrugBank
+- Bukti praklinikal atau klinikal yang menghubungkan perencatan komplemen C5 dengan penyakit yang diramalkan
+- Penilaian status pendaftaran dan ketersediaan produk di Malaysia
+- Penilaian kesesuaian laluan pemberian dan kesamaan dengan indikasi asal
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

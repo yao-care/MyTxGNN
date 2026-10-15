@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Hydrocortisone
-parent: Low Evidence (L4-L5)
-nav_order: 384
-evidence_level: L4
+parent: High Evidence (L1-L2)
+nav_order: 403
+evidence_level: L2
 indication_count: 5
 ---
 
 # Hydrocortisone
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **5** 
+Tahap bukti: **L2** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,99 +29,109 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-# Hydrocortisone: Daripada Terapi Penggantian Kortikosteroid & Anti-Radang kepada Eritema Multiforme
+# Hydrokortison: Daripada Penyakit Autoimun/Insufisiensi Adrenal kepada Buasir (Hemorrhoid)
 
 ## Ringkasan Satu Ayat
 
-Hydrocortisone adalah glukokortikoid fisiologi yang digunakan secara meluas untuk ketidakcukupan adrenokorteks dan keadaan radang/alergi (formulasi topikal, sistemik, oftalmik, dan rektal); teks indikasi label TFDA khusus tidak tersedia dalam pakej bukti ini. Ramalan kedudukan teratas model TxGNN menunjukkan **Eritema Multiforme**, tetapi bukti yang menyokong adalah lemah — **6 percubaan klinikal** (tiada yang menguji secara langsung hydrocortisone dalam EM) dan **20 penerbitan**, kebanyakan adalah laporan kes tentang topik tangen atau bahkan melaporkan EM yang disebabkan oleh hydrocortisone dan bukannya rawatan.
+Hydrokortison ialah kortikosteroid yang pada asalnya digunakan untuk merawat penyakit autoimun, insufisiensi adrenokortikal (penyakit Addison), penyakit Crohn dan leukemia limfoblastik akut.
+Model TxGNN meramalkan ia mungkin berkesan untuk **buasir (hemorrhoid)**, iaitu calon dengan bukti terkuat antara lima calon yang diramalkan.
+Setakat ini terdapat **4 ujian klinikal** dan **20 penerbitan** yang berkaitan dengan arah ini, termasuk tiga ujian rawak Fasa 2 yang telah selesai.
+
+> Nota: Skor ramalan TxGNN untuk kesemua lima calon ialah 0.0%, jadi skor tidak boleh dijadikan asas pemeringkatan. Pemilihan calon utama berdasarkan kekuatan bukti klinikal.
 
 ---
 
-## Gambaran Pantas
+## Gambaran Ringkas
 
-| Item | Kandungan |
-|------|-----------|
-| Indikasi Asal | Tidak boleh diekstrak daripada data lesen TFDA dalam pakej bukti ini (semua medan `approved_indication_text` kosong); sebagai kortikosteroid, hydrocortisone secara amnya ditunjukkan untuk ketidakcukupan adrenokorteks dan keadaan radang/alergi |
-| Indikasi Baru yang Diramalkan | Eritema Multiforme |
-| Skor Ramalan TxGNN | 0.00% *(seperti yang direkodkan dalam pakej bukti ini — berkemungkinan nilai tidak dipenuhi/pengganti daripada skor hampir sifar sebenar; harus disahkan semula sebelum digunakan)* |
-| Tahap Bukti | L4 |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 58 |
-| Keputusan yang Disyorkan | Tahan |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Penyakit autoimun, insufisiensi adrenokortikal (penyakit Addison), penyakit Crohn, leukemia limfoblastik akut (daripada graf pengetahuan TxGNN) |
+| Indikasi Baharu yang Diramalkan | Buasir (hemorrhoid) |
+| Skor Ramalan TxGNN | 0.0% |
+| Tahap Bukti | L2 |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan terperinci tidak tersedia. Berdasarkan maklumat yang diketahui, hydrocortisone adalah agonis reseptor glukokortikoid dengan kesan anti-radang dan imunosupresan; keberkesanannya merentasi pelbagai keadaan dermatologi radang dan berkaitan imun telah ditegakkan, dan secara mekanik ia boleh mengubah tindak balas imun/radang yang mendasari eritema multiforme (EM).
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat yang diketahui, hydrokortison ialah kortikosteroid dengan kesan anti-radang dan imunosupresif yang luas, dan keberkesanannya dalam penyakit radang seperti penyakit Crohn dan penyakit autoimun telah diketahui. Secara mekanistik, ia mungkin sesuai untuk keradangan setempat pada mukosa anorektum.
 
-Namun, alasan di sini adalah teori daripada sokongan bukti. Kesusasteraan tertua dan paling relevan (Patterson et al., 1990) membingkai penggunaan kortikosteroid dalam EM/Sindrom Stevens-Johnson sebagai **"kontroversi terapeutik"** yang jelas — kortikosteroid bukan terapi lini pertama yang ditetapkan untuk EM, dan peranan mereka tetap dipertikaikan. Tiada satu pun daripada enam percubaan klinikal yang diambil menguji hydrocortisone secara langsung sebagai intervensi untuk EM; mereka ditangkap dengan pertindihan kata kunci (dermatitis atopik, percubaan onkologi/kardiologi yang tidak berkaitan) daripada relevansi tulen.
+Hydrokortison topikal mengurangkan keradangan, kegatalan dan edema setempat, yang sepadan dengan profil simptom penyakit buasir. Faedahnya bersifat melegakan simptom, bukan merawat punca.
 
-Secara ketara, satu laporan kes dalam set kesusasteraan (PMID 10696380) menerangkan pesakit yang **mengembangkan EM selepas aplikasi topikal produk yang mengandungi hydrocortisone** (Gentisone HC titis telinga) — tindak balas buruk, bukan kegunaan terapeutik. Ini lebih jauh melemahkan, daripada menyokong, hipotesis pengubahsuaian tujuan.
+Bukti sokongan termasuk tiga ujian rawak Fasa 2 yang telah selesai (dua daripadanya dua-buta dan terkawal plasebo/kenderaan), satu meta-analisis rawatan setempat buasir dan ekzema perianal, serta satu ujian rawak berbanding streptokinase. Tiada data Fasa 3 ditunjukkan.
 
 ---
 
-## Bukti Percubaan Klinikal
+## Bukti Ujian Klinikal
 
-| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT02153762](https://clinicaltrials.gov/study/NCT02153762) | N/A | Selesai | 41 | Kajian urutan aplikasi Locoid Lipocream (hidrokortison butirat) dalam dermatitis atopik — **bukan berkaitan EM** (Gred C) |
-| [NCT05199376](https://clinicaltrials.gov/study/NCT05199376) | N/A | Merekrut | 30 | Krioterapi perkutaneus untuk neurofibroma dalam NF1 — ketidakpadanan kata kunci, **tidak relevan** (Gred C) |
-| [NCT00332163](https://clinicaltrials.gov/study/NCT00332163) | Fasa 2 | Selesai | 95 | Pengurusan ketoksikan kulit untuk panitumumab/FOLFIRI dalam mCRC — tidak khusus untuk EM (Gred C) |
-| [NCT05468372](https://clinicaltrials.gov/study/NCT05468372) | Fasa 2 | Merekrut | 50 | Amfoterisin B vs posakonazol untuk mucormycosis pulmonari — **tidak berkaitan** (Gred C) |
-| [NCT06878729](https://clinicaltrials.gov/study/NCT06878729) | N/A | Merekrut | 74 | Perbandingan prosedur CTO-PCI koroner — **tidak berkaitan** (Gred C) |
-| [NCT01650194](https://clinicaltrials.gov/study/NCT01650194) | Fasa 2 | Selesai | 60 | Enzalutamid + abiraterone dalam kanser prostat — **tidak berkaitan** (Gred C) |
-
-**Tiada satu pun percubaan yang diambil menilai secara langsung hydrocortisone untuk rawatan eritema multiforme.**
+| [NCT00405288](https://clinicaltrials.gov/study/NCT00405288) | N/A | Selesai | 408 | Kajian keselamatan Proctofoam-HC topikal pada trimester ketiga kehamilan (keselamatan janin, bukan keberkesanan) |
+| [NCT01913158](https://clinicaltrials.gov/study/NCT01913158) | Fasa 2 | Selesai | 150 | Ujian rawak, dua-buta, terkawal kenderaan: supositori rektum hydrokortison asetat 25 mg untuk buasir dalaman bersimptom |
+| [NCT02689856](https://clinicaltrials.gov/study/NCT02689856) | Fasa 2 | Selesai | 211 | Ujian rawak, dua-buta, julat dos: lidokain dan/atau hydrokortison asetat selama 14 hari untuk buasir Gred I atau II |
+| [NCT03335774](https://clinicaltrials.gov/study/NCT03335774) | Fasa 2 | Selesai | 103 | Ujian rawak, dua-buta, terkawal plasebo: supositori hydrokortison asetat 25 mg untuk buasir dalaman bersimptom |
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [2198136](https://pubmed.ncbi.nlm.nih.gov/2198136/) | 1990 | Ulasan | Chest | Mengulaskan pengurusan EM/SJS; secara jelas membingkai peranan terapeutik kortikosteroid sebagai kontroversi |
-| [3869906](https://pubmed.ncbi.nlm.nih.gov/3869906/) | 1985 | Siri kes (pengelasan tertunda) | Czasopismo stomatologiczne | Iontoforesis hidrokortison digunakan dalam rawatan eritema exudativum multiforme — rekod paling berkaitan secara langsung |
-| [26627523](https://pubmed.ncbi.nlm.nih.gov/26627523/) | 2015 | Laporan kes | JPMA | Kortikosteroid digunakan dalam pengurusan EM berkaitan Herpes dalam kes pediatrik |
-| [10696380](https://pubmed.ncbi.nlm.nih.gov/10696380/) | 1999 | Laporan kes | J Laryngol Otol | EM **disebabkan oleh** titis telinga yang mengandungi asetad hidrokortison/gentamicin topikal — tindak balas buruk, bukan rawatan |
-| [1068978](https://pubmed.ncbi.nlm.nih.gov/1068978/) | 1976 | Ulasan | Int Dent J | Kortikosteroid (termasuk hemisuksinat hidrokortison) dalam pengurusan penyakit membran mukosa mulut |
-| [37854261](https://pubmed.ncbi.nlm.nih.gov/37854261/) | 2023 | Laporan kes | Clin Case Rep | Lesi seperti EM yang dipicu oleh terapi radiasi |
-| [15243755](https://pubmed.ncbi.nlm.nih.gov/15243755/) | 2005 | Laporan kes | Arch Gynecol Obstet | EM major susulan pemberian docetaxel |
-| [18370879](https://pubmed.ncbi.nlm.nih.gov/18370879/) | 2008 | Laporan kes | J Ocul Pharmacol Ther | EM susulan penggunaan topikal dorzolamid |
-| [20407030](https://pubmed.ncbi.nlm.nih.gov/20407030/) | 2010 | Laporan kes | Ann Pharmacother | Nekrolisis epidermal toksik (TEN) yang disebabkan oleh caspofungin |
-| [13994257](https://pubmed.ncbi.nlm.nih.gov/13994257/) | 1963 | Perbandingan terapi topikal | Arch Dermatol | Perbandingan triamsinolone vs hydrocortisone dalam terapi topikal |
-
-*10 daripada 20 penerbitan yang diambil ditunjukkan, diutamakan untuk relevansi langsung kepada hydrocortisone dan EM. Tiada RCT telah dikenalpasti; bukti adalah didominasi oleh laporan kes, beberapa daripadanya menghuraikan hydrocortisone sebagai **penyebab** daripada rawatan EM.*
+| [26109819](https://pubmed.ncbi.nlm.nih.gov/26109819/) | 2015 | RCT | World J Gastroenterol | Streptokinase rekombinan berbanding supositori hydrokortison asetat dalam buasir akut |
+| [12189774](https://pubmed.ncbi.nlm.nih.gov/12189774/) | 2002 | Meta-analisis | Arzneimittel-Forschung | Keberkesanan dan keselamatan salap ampaian kultur E. coli secara tunggal atau bersama hydrokortison untuk buasir dan ekzema perianal |
+| [39945661](https://pubmed.ncbi.nlm.nih.gov/39945661/) | 2025 | Ulasan | Minerva Surgery | Bukti klinikal salap nifedipin dan lidokain untuk fisur anal dan buasir |
+| [3538088](https://pubmed.ncbi.nlm.nih.gov/3538088/) | 1986 | Ulasan | Primary Care | Buasir lazimnya diurus secara konservatif, termasuk krim hydrokortison setempat |
+| [40143012](https://pubmed.ncbi.nlm.nih.gov/40143012/) | 2025 | Kajian formulasi | Pharmaceutics | Formulasi krim hydrokortison asetat dan pramoksin dengan profil pelepasan in vitro yang dipertingkat untuk keadaan anorektum |
+| [1800704](https://pubmed.ncbi.nlm.nih.gov/1800704/) | 1991 | Farmakokinetik | J Pharm Sci | Bioavailabiliti rektum hydrokortison asetat sangat rendah (kira-kira 2%) |
+| [11361050](https://pubmed.ncbi.nlm.nih.gov/11361050/) | 2001 | Farmakokinetik | J Clin Pharmacol | Penyerapan sistemik buih rektum hydrokortison asetat selepas dos tunggal dan berulang adalah kecil |
+| [17728120](https://pubmed.ncbi.nlm.nih.gov/17728120/) | 2007 | Ulasan | Clin Oncol | Rawatan proktitis radiasi, termasuk instilasi rektum hydrokortison |
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Butiran peringkat lesen (nombor kebenaran, nama produk, bentuk dos, pengilang) tidak tersedia dalam pakej bukti semasa — semua lima rekod lesen sampel mempunyai medan kosong. Data peraturan mengesahkan 58 jumlah lesen berdaftar dan status "Dipasarkan" (dipasarkan) (lihat Gambaran Pantas), tetapi butiran peringkat produk memerlukan pencarian TFDA langsung.
+Hydrokortison pada masa ini **tidak dipasarkan** di Malaysia dan tiada pendaftaran yang direkodkan dalam data yang dikumpulkan.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk buku maklumat untuk maklumat keselamatan. Tiada rekod interaksi ubat ditemui (`query_status: not_found`).
+Maklumat amaran dan kontraindikasi daripada sisipan pakej NPRA tidak tersedia. Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-Nota: pakej bukti menandakan amaran/kontraindikasi buku maklumat TFDA sebagai jurang data **Menyekat** (DG001) — ini mesti diselesaikan sebelum sebarang penilaian keselamatan Peringkat 1 dapat diteruskan.
+Maklumat tambahan daripada graf pengetahuan dan pangkalan data interaksi:
+
+- **Penyakit berkontraindikasi (graf pengetahuan, bukan teks label)**: hipertensi, epilepsi, ulser gastrik, penyakit buah pinggang, penyakit hati, penyakit pundi hempedu, hiperglisemia, campak, keratitis virus herpes simpleks, jangkitan HPV anogenital, ketuat biasa, dan pelbagai keadaan kekurangan hormon pituitari/hipogonadisme.
+- **Interaksi dadah**: 100 interaksi direkodkan. Contoh utama termasuk **adalimumab (Major)**, serta interaksi Moderate dengan ibuprofen, ketorolak, nifedipin, isotretinoin, etinilestradiol, asetazolamid dan beberapa agen antidiabetik (akarbosa, asetoheksamid, albiglutid). Interaksi Minor termasuk salbutamol dan formoterol.
+- **Langkah kawalan khusus untuk indikasi buasir**: atrofi mukosa dengan penggunaan berpanjangan, dan penggunaan semasa kehamilan.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Proceed with Guardrails (Teruskan dengan Langkah Kawalan)**
 
-**Alasan:**
-Tahap bukti adalah L4 (mekanisme/yang bersebelahan dengan praklinikal sahaja) tanpa percubaan klinikal yang menguji secara langsung hydrocortisone dalam EM, dan kesusasteraan itu sendiri mengkhususkan penggunaan kortikosteroid dalam EM sebagai kontroversi terapeutik yang berdiri lama. Satu laporan kes juga mendokumentasikan EM yang disebabkan oleh hydrocortisone, yang menentang daripada menyokong hipotesis pengubahsuaian tujuan.
+**Rasional:**
+- Tiga ujian rawak Fasa 2 yang telah selesai menyokong hydrokortison asetat topikal untuk buasir, ditambah meta-analisis dan ujian rawak perbandingan. Namun tiada data Fasa 3, faedahnya hanya bersifat simptomatik, dan skor TxGNN ialah 0.0%.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Amaran/kontraindikasi buku maklumat TFDA (DG001, Menyekat) — diperlukan sebelum sebarang penilaian keselamatan
-- Data mekanisme tindakan (DG002, Tinggi) — diperlukan untuk menilai ketentusan mekanik di luar kesan kelas kortikosteroid umum
-- Percubaan klinikal atau siri kes yang khusus menguji hydrocortisone (bukan kortikosteroid lain) sebagai rawatan EM, untuk melampaui bukti praklinikal/anekdot
-- **Nota:** pakej bukti ini juga menjaringkan "hemoroid" sebagai indikasi ramalan peringkat-2 ubat ini, dengan bukti yang jauh lebih kuat (L2, pelbagai RCT Fasa 2 yang selesai, pengesyoran "Teruskan dengan Pagar Keselamatan") mencerminkan kegunaan label yang sudah ditetapkan hydrocortisone (cth., Anusol-HC, Proctofoam-HC). Kandidat itu mungkin memerlukan penilaian berasingan sebagai kes pengubahsuaian tujuan/perluasan label yang lebih boleh tindakan daripada eritema multiforme.
+**Untuk meneruskan, perlu:**
+- Memuat turun dan menghurai sisipan pakej NPRA untuk amaran dan kontraindikasi (jurang data yang menyekat saringan keselamatan).
+- Data mekanisme tindakan (MOA) terperinci daripada DrugBank.
+- Pelan pemantauan keselamatan untuk penggunaan berpanjangan (atrofi mukosa) dan untuk wanita hamil.
+- Penentuan laluan pentadbiran (supositori/krim rektum) dan status pendaftaran produk topikal di Malaysia, kerana hydrokortison belum dipasarkan di sini.
 
+---
+
+## Calon Lain yang Diramalkan (Rujukan Ringkas)
+
+| Peringkat | Indikasi Diramalkan | Tahap Bukti | Cadangan | Catatan |
+|------|------|------|------|------|
+| 1 | Eritema multiforme | L5 | Hold | Hanya laporan kes (kebanyakannya eritema multiforme dicetuskan oleh ubat); tiada ujian klinikal dan tiada sokongan bagi hydrokortison sebagai rawatan |
+| 3 | Limfosarkoma | L1 | Research Question | Ujian Fasa 3 besar (cth. NCT00002744, n=1970) melibatkan terapi intratekal mengandungi hydrokortison, tetapi sumbangannya tidak dapat diasingkan; istilah ini lapuk dan bertindih dengan indikasi asal (ALL); neurotoksisiti serius pernah dilaporkan |
+| 4 | Penyakit kawasan orbit | L2 | Research Question | Ujian hydrokortison oftalmik terhenti awal atau berstatus tidak diketahui; kategori heterogen; tekanan intraokular ialah kebimbangan keselamatan |
+| 5 | Leukemia limfositik, kerentanan | L5 | Hold | Entiti kerentanan genetik yang bertindih dengan indikasi ALL; tiada ujian klinikal |
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

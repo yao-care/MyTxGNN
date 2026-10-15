@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Pantoprazole
-parent: High Evidence (L1-L2)
-nav_order: 532
-evidence_level: L1
+parent: Low Evidence (L4-L5)
+nav_order: 557
+evidence_level: L5
 indication_count: 6
 ---
 
 # Pantoprazole
 {: .fs-9 }
 
-Tahap bukti: **L1** | Indikasi diramal: **6** 
+Tahap bukti: **L5** | Indikasi diramal: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,91 +29,101 @@ Tahap bukti: **L1** | Indikasi diramal: **6**
 
 </div>
 
-# Pantoprazole: Dari Penyakit Reflux Gastroesofageal ke Penyakit Ulser Peptik Aktif
+# Pantoprazole: Daripada Penyakit Ulser Peptik kepada Penyakit Ulser Peptik Aktif
 
 ## Ringkasan Satu Ayat
 
-> Pantoprazole adalah inhibitor pompa proton (IPP) yang diakui secara internasional untuk mengobati kondisi gastrointestinal terkait asam seperti GERD dan esofagitis erosif.
-> Model TxGNN memprediksi bahwa obat ini mungkin efektif untuk **Penyakit Ulser Peptik Aktif**,
-> dengan **3 uji klinis** dan **19 publikasi** saat ini mendukung arah ini.
+Pantoprazole ialah perencat pam proton (PPI) yang pada asalnya digunakan untuk penyakit ulser peptik, penyakit refluks gastroesofagus dan sindrom Zollinger-Ellison.
+Model TxGNN meramalkan ia berkesan untuk **penyakit ulser peptik aktif**, dan **1 ujian klinikal** serta **20 penerbitan** yang terkumpul menyokong arah ini.
+Indikasi ramalan ini bertindih dengan kegunaan asal ubat, jadi ia lebih merupakan pengesahan kegunaan sedia ada dan bukan pengalihan tujuan (*repurposing*) yang sebenar.
 
 ---
 
-## Tinjauan Cepat
+## Gambaran Ringkas
 
-| Item | Konten |
-|------|--------|
-| Indikasi Asli | Tidak ditentukan dalam data pendaftaran NPRA saat ini (indikasi pantoprazole yang diakui secara internasional termasuk GERD dan esofagitis erosif — lihat catatan di bawah) |
-| Indikasi Baru yang Diprediksi | Penyakit Ulser Peptik Aktif |
-| Skor Prediksi TxGNN | 99.69% |
-| Tingkat Bukti | L1 |
-| Status Pasar Malaysia | ✓ Dipasarkan |
-| Jumlah Pendaftaran | 30 |
-| Keputusan yang Direkomendasikan | Lanjutkan dengan Pengaman |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Penyakit ulser peptik, penyakit refluks gastroesofagus, esofagitis, sindrom Zollinger-Ellison, dan lain-lain (daripada graf pengetahuan TxGNN, bukan teks label) |
+| Indikasi Baharu Diramal | Penyakit ulser peptik aktif |
+| Skor Ramalan TxGNN | 99.69% |
+| Tahap Bukti | L1 mengikut data yang dikompilasi; L2 jika hanya dikira daripada ujian yang disenaraikan di bawah (lihat nota) |
+| Status Pasaran Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Proceed with Guardrails |
 
----
-
-## Mengapa Prediksi Ini Masuk Akal?
-
-Saat ini, data mekanisme aksi terperinci dari DrugBank tidak tersedia (ditandai sebagai celah data). Berdasarkan bukti dari paket literatur, pantoprazole adalah inhibitor pompa proton yang mengikat secara irreversibel dan spesifik ke H⁺/K⁺-ATPase gastrik ("pompa proton") pada sel parietal, sehingga mengurangi sekresi asam lambung (PMID 19938880, 9017763).
-
-Penyakit ulser peptik dan kondisi terkait asam seperti GERD dan gastritis yang terkait H. pylori berbagi patofisiologi yang sama — asam lambung yang berlebih atau tidak tersangga merusak mukosa gastrointestinal. Karena penekanan asam adalah prinsip terapeutik pusat untuk keduanya, mekanisme inti pantoprazole dapat langsung diterapkan pada penyakit ulser peptik aktif.
-
-Ini diperkuat oleh fakta bahwa pantoprazole sudah merupakan salah satu IPP yang paling banyak diteliti dalam manajemen ulser peptik, termasuk terapi triple eradikasi H. pylori dan pencegahan/pengobatan pendarahan ulser, yang tercermin dalam tubuh bukti uji klinis dan publikasi yang substansial di bawah ini.
+*Nota tahap bukti:* Data yang dikompilasi memberikan L1. Namun untuk indikasi ini hanya satu ujian Fasa 3 yang telah selesai disenaraikan (NCT02084420), yang menurut peraturan penentuan setara L2. L1 akan terpakai jika ujian Fasa 3 lain pada ulser duodenum, seperti NCT00261300 dan NCT00374101, diambil kira.
 
 ---
 
-## Bukti Uji Klinis
+## Mengapa Ramalan Ini Munasabah?
 
-| Nomor Uji | Fase | Status | Jumlah Peserta | Temuan Utama |
-|---------|------|--------|--------|---------|
-| [NCT02084420](https://clinicaltrials.gov/study/NCT02084420) | Fase 3 | Selesai | 323 | Uji multisenter, teracak, buta ganda, terkontrol aktif yang membandingkan terapi triple ilaprazole vs. pantoprazole (7 hari) untuk eradikasi H. pylori pada pasien dengan ulser lambung/duodenum |
-| [NCT02197039](https://clinicaltrials.gov/study/NCT02197039) | N/A | Selesai | 316 | Studi prospektif mengidentifikasi faktor risiko yang memprediksi stigmata yang tidak teratasi dengan baik atau pendarahan ulang awal setelah hemostasis endoskopik dan infus IPP dosis tinggi, untuk membimbing keputusan melakukan endoskopi pandangan kedua |
-| [NCT00930670](https://clinicaltrials.gov/study/NCT00930670) | Fase 4 | Selesai | 320 | Mengevaluasi efek berbagai IPP (termasuk pantoprazole) pada agregasi trombosit dan interaksi antiplatelet clopidogrel pada pasien menjalani PCI dengan terapi antiplatelet dual |
+Data terperinci mengenai mekanisme tindakan belum tersedia dalam data yang dikompilasi. Berdasarkan penerangan farmakologi dalam literatur, pantoprazole merencat enzim H+/K+ ATPase (pam proton) dalam sel parietal secara tidak boleh balik. Ini menurunkan rembesan asid gastrik dan membolehkan ulser sembuh.
+
+Penyakit ulser peptik aktif ialah kegunaan teras kumpulan PPI, dan ia sudah termasuk dalam indikasi asal pantoprazole. Skor TxGNN yang tinggi mencerminkan kesesuaian ini, tetapi ia tidak menunjukkan penemuan kegunaan baharu. Ujian klinikal dan kajian perbandingan sedia ada (contohnya berbanding ranitidin dan omeprazole) turut mengesahkan keberkesanan ubat ini pada ulser.
+
+---
+
+## Bukti Ujian Klinikal
+
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
+|---------|------|------|------|---------|
+| [NCT02084420](https://clinicaltrials.gov/study/NCT02084420) | Fasa 3 | Selesai | 323 | Ujian rawak, buta dua, multipusat dan terkawal aktif yang membandingkan terapi tiga serangkai ilaprazole dengan pantoprazole selama 7 hari untuk pembasmian *H. pylori* pada pesakit ulser gastrik/duodenum. Perincian lengan pantoprazole perlu disahkan kerana tajuk dipotong. |
 
 ---
 
 ## Bukti Literatur
 
-| PMID | Tahun | Jenis | Jurnal | Temuan Utama |
-|------|------|--------|--------|---------|
-| [18824852](https://pubmed.ncbi.nlm.nih.gov/18824852/) | 2008 | UKT | Digestion | Studi teracak prospektif membandingkan infusi pantoprazole intermiten vs. berkelanjutan untuk mencegah pendarahan ulser peptik berulang setelah terapi endoskopik |
-| [10632647](https://pubmed.ncbi.nlm.nih.gov/10632647/) | 2000 | UKT | Aliment Pharmacol Ther | Rejimen pantoprazole + amoksisilin + azitromisin/klaritomisin untuk eradikasi H. pylori pada ulser duodenum |
-| [12752349](https://pubmed.ncbi.nlm.nih.gov/12752349/) | 2003 | UKT | Aliment Pharmacol Ther | Perbandingan tiga terapi triple berbasis pantoprazole untuk eradikasi H. pylori dan penyembuhan ulser lambung |
-| [16677158](https://pubmed.ncbi.nlm.nih.gov/16677158/) | 2006 | UKT | J Gastroenterol Hepatol | UKT prospektif menunjukkan infusi pantoprazole sebagai terapi ajuvan setelah perawatan endoskopik meningkatkan hasil pada pendarahan ulser peptik |
-| [19938880](https://pubmed.ncbi.nlm.nih.gov/19938880/) | 2009 | Tinjauan | Clin Drug Investig | Tinjauan mekanisme pantoprazole (pengikatan pompa proton irreversibel) dan profil interaksi obat yang menguntungkan |
-| [9017763](https://pubmed.ncbi.nlm.nih.gov/9017763/) | 1997 | Tinjauan | Pharmacotherapy | Tinjauan mekanisme aksi IPP dan keunggulan dibandingkan H2RA dalam pengendalian penyakit terkait asam |
-| [38345252](https://pubmed.ncbi.nlm.nih.gov/38345252/) | 2024 | Tinjauan | Am J Gastroenterol | Meta-analisis jaringan membandingkan kemanjuran P-CAB vs. IPP (termasuk pantoprazole) pada esofagitis parah (Tingkat C/D) |
-| [10983736](https://pubmed.ncbi.nlm.nih.gov/10983736/) | 2000 | Tinjauan | Drugs | Tinjauan komparatif esomeprazole vs. IPP lainnya termasuk pantoprazole dalam penyembuhan GERD/esofagitis erosif |
-| [38652367](https://pubmed.ncbi.nlm.nih.gov/38652367/) | 2024 | Praklinik | Inflammopharmacology | Studi model tikus pantoprazole dikombinasikan dengan sel punca mesenkimal pada penyembuhan ulser lambung, jalur stres oksidatif dan apoptosis |
-| [15244210](https://pubmed.ncbi.nlm.nih.gov/15244210/) | 2003 | Kohort | Hepatogastroenterology | Perbandingan kemanjuran lansoprazole vs. pantoprazole dalam pengobatan ulser duodenum aktif dan eradikasi H. pylori |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [38384180](https://pubmed.ncbi.nlm.nih.gov/38384180/) | 2024 | RCT | Gut and Liver | Ujian rawak multipusat terkawal aktif tegoprazan (perencat asid) pada ulser buatan akibat reseksi endoskopik. Pantoprazole tidak menjadi tumpuan, jadi bukti ini tidak langsung. |
+| [38345252](https://pubmed.ncbi.nlm.nih.gov/38345252/) | 2024 | Kajian sistematik / meta-analisis rangkaian | Am J Gastroenterol | Membandingkan P-CAB dengan PPI untuk penyembuhan esofagitis gred C/D. Berkaitan penyakit berkaitan asid secara am. |
+| [10638560](https://pubmed.ncbi.nlm.nih.gov/10638560/) | 2000 | Kajian multipusat (reka bentuk perlu disahkan) | Am J Gastroenterol | Membandingkan keberkesanan dan toleransi pantoprazole dengan ranitidin dalam rawatan ulser duodenum di Brazil. |
+| [15244210](https://pubmed.ncbi.nlm.nih.gov/15244210/) | 2003 | Kajian perbandingan (reka bentuk perlu disahkan) | Hepato-gastroenterology | Membandingkan lansoprazole dengan pantoprazole dalam rawatan ulser duodenum aktif dan pembasmian *H. pylori*. |
+| [19938880](https://pubmed.ncbi.nlm.nih.gov/19938880/) | 2009 | Ulasan | Clin Drug Investig | Pantoprazole mengikat pam proton secara tidak boleh balik; tiada interaksi ubat dikenal pasti dalam banyak kajian interaksi. |
+| [21534455](https://pubmed.ncbi.nlm.nih.gov/21534455/) | 2011 | Ulasan | Medicinski Arhiv | Peranan PPI dalam pengurusan GERD melalui penekanan asid. |
+| [16961157](https://pubmed.ncbi.nlm.nih.gov/16961157/) | 2006 | Ulasan | Int J Clin Pharmacol Ther | Kesan polimorfisme CYP2C19 terhadap tindakan PPI, termasuk pantoprazole. |
+| [10450061](https://pubmed.ncbi.nlm.nih.gov/10450061/) | 1999 | Ulasan | Pharmacology | PPI berbeza menunjukkan hubungan dos-respons yang serupa pada dos miligram yang sama. |
+| [15989651](https://pubmed.ncbi.nlm.nih.gov/15989651/) | 1997 | Ulasan | Expert Opin Investig Drugs | Berbanding antagonis H2, pantoprazole memberi kelegaan sakit lebih cepat, penyembuhan ulser lebih pantas dan keberkesanan lebih besar pada refluks esofagus. |
+| [8930575](https://pubmed.ncbi.nlm.nih.gov/8930575/) | 1996 | Ulasan | Eur J Gastroenterol Hepatol | Pantoprazole terkumpul dalam ruang berasid sel parietal dan perlu diaktifkan oleh asid, memberi selektiviti tinggi. |
+
+Kajian lain dalam data yang dikompilasi ialah kajian haiwan dan ulasan farmakologi am. Ia tidak disenaraikan di sini.
 
 ---
 
-## Informasi Pasar Malaysia
+## Maklumat Pasaran Malaysia
 
-Pantoprazole memiliki **30 pendaftaran produk NPRA aktif** dan dikonfirmasi **Dipasarkan** di Malaysia. Namun, nomor otorisasi individual, nama produk, bentuk dosis, dan teks indikasi yang disetujui tidak tersedia dalam kumpulan data saat ini — ini telah dicatat sebagai celah data Pemblokiran (memerlukan pengunduhan dan penguraian PDF label produk NPRA).
+Berdasarkan data yang dikompilasi, pantoprazole **tidak dipasarkan** di Malaysia dan tiada lesen pendaftaran direkodkan (0 pendaftaran). Mana-mana penggunaan klinikal akan memerlukan pengesahan status pendaftaran dengan NPRA terlebih dahulu.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Silakan merujuk ke sisipan paket untuk informasi keselamatan. Data peringatan utama, kontraindikasi, dan interaksi antar-obat tidak tersedia dalam paket bukti ini (ditandai sebagai celah data Pemblokiran yang harus diselesaikan sebelum tahap tinjauan keselamatan).
+Maklumat amaran utama dan kontraindikasi daripada sisipan pakej belum tersedia.
+
+- **Penyakit berkaitan kontraindikasi (daripada graf pengetahuan, bukan teks label):** osteoporosis, osteoporosis pascamenopaus, patah tulang dan anemia pernisiosa.
+- **Interaksi ubat:** 100 interaksi direkodkan, dan 20 yang pertama disemak. Antaranya ialah:
+  - **Major:** acalabrutinib, atazanavir.
+  - **Sederhana (*Moderate*):** hidroklorotiazid, atorvastatin, fenofibrat, amfetamin, amikasin, amfoterisin B, alpelisib, apalutamid, armodafinil, bosutinib, bumetanid.
+  - **Minor:** asid asetilsalisilik, aksitinib, bortezomib, brivarasetam, sianokobalamin.
+
+Sila rujuk sisipan pakej untuk maklumat keselamatan yang lengkap.
 
 ---
 
-## Kesimpulan dan Langkah Selanjutnya
+## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Lanjutkan dengan Pengaman**
+**Keputusan: Proceed with Guardrails**
 
-**Alasan:**
-Rasional mekanistik kuat dan didukung langsung oleh bukti tingkat L1 (UKT Fase 3 ditambah basis literatur yang substansial) untuk efek penekan asam pantoprazole dalam penyakit ulser peptik aktif. Namun, celah data Pemblokiran pada peringatan/kontraindikasi label NPRA berarti kandidat ini belum dapat melewati pra-skrining keselamatan S1, sehingga kemajuan harus bergantung pada penutupan celah data tersebut.
+**Rasional:**
+- Keberkesanan pantoprazole pada ulser peptik disokong oleh ujian Fasa 3 dan beberapa kajian perbandingan. Indikasi ini sudah menjadi kegunaan sedia ada, jadi nilai pengalihan tujuan baharu adalah rendah.
+- Ubat ini tidak berdaftar di Malaysia dan data keselamatan daripada label belum tersedia, jadi kemajuan perlu disertai langkah kawalan.
 
-**Untuk melanjutkan, hal berikut diperlukan:**
-- Label produk NPRA (peringatan, kontraindikasi, Interaksi Antar-Obat) — unduh dan analisis dari sumber resmi NPRA
-- Data mekanisme aksi DrugBank melalui kueri API
-- Detail lisensi/produk NPRA individual (saat ini hanya agregat jumlah 30 yang diketahui)
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Memuat turun dan menganalisis sisipan pakej daripada NPRA untuk amaran dan kontraindikasi (jurang data yang menyekat).
+- Memperoleh data mekanisme tindakan (MOA) terperinci, contohnya melalui API DrugBank.
+- Mengesahkan perincian lengan pantoprazole dalam NCT02084420.
+- Mengesahkan status pendaftaran dan laluan pendaftaran di Malaysia.
+- Merangka pelan pemantauan keselamatan, termasuk interaksi ubat (terutamanya atazanavir dan acalabrutinib) serta risiko pada pesakit osteoporosis atau kekurangan vitamin B12.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

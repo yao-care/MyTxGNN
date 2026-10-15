@@ -2,7 +2,7 @@
 layout: default
 title: Enfortumab Vedotin
 parent: Low Evidence (L4-L5)
-nav_order: 313
+nav_order: 323
 evidence_level: L5
 indication_count: 9
 ---
@@ -29,75 +29,110 @@ Tahap bukti: **L5** | Indikasi diramal: **9**
 
 </div>
 
-# Enfortumab Vedotin: Daripada Kanser Pundi Kencing (ADC Bertarget Nectin-4) kepada Kusta
-
-*Nota: `taiwan_regulatory.licenses[].approved_indication_text` dan `drug.original_indications` adalah kosong dalam pak bukti ini (jurang data). "Kanser pundi kencing" di atas disimpulkan daripada bukti dalam-pak — entri literatur dan rasional penggunaan semula secara berulang menggambarkan ubat ini sebagai ADC bertarget Nectin-4 yang dikaji dalam kanser pundi kencing — bukan daripada sumber luaran/pendaftaran.*
+# Enfortumab Vedotin: Daripada Indikasi Asal (Tiada Rekod Berdaftar) kepada Kusta (Leprosy)
 
 ## Ringkasan Satu Ayat
 
-Enfortumab vedotin ialah konjugat antibodi-ubat (ADC) yang menyasarkan Nectin-4, menyampaikan perencat mikrotubul MMAE sebagai muatannya, digunakan dalam konteks kanser pundi kencing mengikut rujukan literatur yang tersedia. Ramalan teratas model TxGNN untuk penggunaan semula ialah **Kusta**, tetapi rasional yang disertakan secara jelas menyatakan bahawa terdapat **tiada hubungan mekanik** antara mekanisme sitotoksik ADC ini dan rawatan anti-kusta, dan **0 percubaan klinikal dan 0 penerbitan** menyokong ramalan spesifik ini.
+Enfortumab vedotin ialah konjugat antibodi-ubat (ADC) yang menyasarkan Nectin-4 dan menghantar muatan sitotoksik MMAE; data indikasi asal tidak terdapat dalam data yang dikumpulkan untuk laporan ini kerana ubat ini tidak berdaftar di Malaysia.
+Model TxGNN meramalkan ia mungkin berkesan untuk **kusta (leprosy)** dengan skor tinggi, tetapi terdapat **0 ujian klinikal** dan **0 penerbitan** yang menyokong arah ini.
+Ramalan ini hanyalah ramalan model graf pengetahuan tanpa bukti sokongan.
 
-## Gambaran Keseluruhan Pantas
+---
 
-| Item | Kandungan |
-|------|----------|
-| Petunjuk Asli | Tidak direkodkan dalam data pendaftaran (jurang data); berkaitan secara kontekstual dengan kanser pundi kencing mengikut literatur dalam-pak |
-| Petunjuk Baru yang Diramalkan | Kusta |
+## Gambaran Ringkas
+
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Tiada data (tiada lesen NPRA) |
+| Indikasi Baharu yang Diramalkan | Kusta (leprosy) |
 | Skor Ramalan TxGNN | 99.53% |
-| Tahap Bukti | L5 (ramalan model sahaja) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 2 |
-| Keputusan yang Disyorkan | Tahan |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | ✗ Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Hold |
 
-## Mengapa Ramalan Ini Munasabah?
+---
 
-Dokumentasi mekanisme-tindakan bersumber terperinci tidak tersedia (`original_moa` ialah jurang data yang ditandai, keterukan Tinggi). Apa yang boleh ditegakkan daripada pak bukti itu sendiri ialah enfortumab vedotin ialah konjugat antibodi-ubat menggabungkan antibodi bertarget Nectin-4 dengan MMAE (auristatin monometil E), perencat polimerisasi mikrotubul, menyampaikan sitotoksisiti bertarget kepada sel tumor yang mengekspresikan Nectin-4.
+## Mengapakah Ramalan Ini Munasabah?
 
-Untuk ramalan kedudukan tertinggi, **kusta**, rasional yang dihasilkan model adalah jelas dan negatif: ia menyatakan bahawa tiada hubungan mekanik yang diketahui — mod tindakan sitotoksik anti-mikrotubul ADC tidak mempunyai peranan yang ditegakkan dalam merawat jangkitan mikobjakteria, dan Nectin-4 bukan sasaran ubat anti-kusta yang diiktiraf. Ini disokong oleh pangkalan bukti kosong (sifar percubaan klinikal, sifar percubaan ICTRP, sifar literatur).
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, enfortumab vedotin ialah ADC yang diarahkan kepada Nectin-4, menghantar MMAE, perencat mikrotubul sitotoksik, dan digunakan dalam bidang onkologi.
 
-Meneliti senarai berpangkat lengkap mengukuhkan kebimbangan ini daripada menyelesaikannya: beberapa calon sepuluh teratas lain (neoplasia endokrin berbilang, jangkitan sitomegalovirus, infark serebral, HIV, hiperkolesterolemik keluarga homozigot) begitu juga tidak mempunyai rasional mekanik dan tiada bukti, dan dua calon (rhinotracheitis bovine berjangkit, demam catarrhal ganas) adalah **penyakit veterinar, bukan manusia** dengan skor TxGNN yang sama — corak yang mencadangkan pencemaran silang ontologi graf-pengetahuan atau hingar ruang benam berhampiran nod ubat ini, daripada isyarat biologi tulen. Satu-satunya calon dengan mana-mana literatur (candidiasis, kedudukan 4) disokong oleh satu kajian farmakovigilans dunia sebenar (FAERS) yang menggambarkan candidiasis sebagai **isyarat peristiwa buruk** daripada imunopenekanan berkaitan ADC — bukan bukti terapeutik — dan sendirinya secara jelas ditandai dalam pak sebagai kemungkinan positif palsu daripada corak "ubat–peristiwa buruk–penyakit" bersama daripada hipotesis penggunaan semula.
+Tiada pautan mekanistik dapat dikenal pasti antara ubat ini dengan jangkitan *Mycobacterium leprae* atau imunopatologi kusta. Skor TxGNN yang tinggi hanyalah ramalan graf pengetahuan dan tidak disokong oleh data klinikal atau literatur. Kesamaan dengan indikasi asal masih belum dinilai.
 
-## Bukti Percubaan Klinikal
+---
 
-Pada masa kini tiada percubaan klinikal berkaitan yang didaftarkan.
+## Penilaian Ramalan Lain
+
+Data yang dikumpulkan turut merangkumi lapan ramalan lain. Kesemuanya berada pada tahap bukti L5 dan berstatus Hold.
+
+| Penyakit Diramalkan | Skor TxGNN | Catatan |
+|------|------|------|
+| Neoplasia endokrin berganda | 99.43% | Ekspresi Nectin-4 pada tumor MEN tidak dibuktikan; tiada ujian atau literatur |
+| Jangkitan sitomegalovirus | 99.36% | Hanya satu laporan kes kesan buruk (esofagitis ulseratif); bukan bukti keberkesanan |
+| Kandidiasis | 99.30% | Hanya analisis farmakovigilans FAERS; mewakili isyarat keselamatan |
+| Infark serebrum | 99.23% | Tiada mekanisme yang munasabah |
+| Jangkitan HIV | 99.19% | Tiada mekanisme antivirus; risiko mielosupresi |
+| Hiperkolesterolemia familial homozigot | 99.18% | Tiada kaitan dengan metabolisme lipid |
+| Rinotrakeitis bovin berjangkit | 99.13% | Penyakit veterinar; kemungkinan artifak graf |
+| Katarh malignan | 99.13% | Penyakit veterinar; kemungkinan artifak graf |
+
+---
+
+## Bukti Ujian Klinikal
+
+Buat masa ini tiada ujian klinikal berkaitan didaftarkan untuk kusta.
+
+---
 
 ## Bukti Literatur
 
-Pada masa kini tiada literatur berkaitan yang tersedia.
+Buat masa ini tiada literatur berkaitan untuk kusta.
 
-*(Untuk konteks: merentasi set penuh 9 calon berpangkat teratas TxGNN, hanya satu — candidiasis, kedudukan 4 — mempunyai mana-mana literatur berkaitan, dan ia adalah kajian isyarat keselamatan farmakovigilans, bukan bukti keberkesanan. Lihat "Mengapa Ramalan Ini Munasabah?" di atas.)*
+Nota: Dua penerbitan ditemui untuk ramalan lain, tetapi kedua-duanya berkaitan kesan buruk, bukan keberkesanan:
 
-## Maklumat Pasaran Malaysia
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [42647281](https://pubmed.ncbi.nlm.nih.gov/42647281/) | 2026 | Laporan kes (kesan buruk) | Reports (MDPI) | Esofagitis ulseratif meresap yang teruk selepas enfortumab vedotin dan pembrolizumab dalam karsinoma urotelium metastatik |
+| [41341429](https://pubmed.ncbi.nlm.nih.gov/41341429/) | 2025 | Analisis farmakovigilans (FAERS) | Clinical Epidemiology | Isyarat risiko ADC dalam kanser pundi kencing berdasarkan data dunia sebenar |
 
-Pak bukti mengesahkan ubat dipasarkan di Malaysia dengan 2 pendaftaran aktif (NPRA), tetapi nombor lesen, nama produk, bentuk dos, pengeluar, dan medan teks petunjuk yang diluluskan semuanya kosong dalam pak ini — data pendaftaran terperinci adalah jurang yang memerlukan pencarian NPRA terus.
+---
 
 ## Sitotoksisiti
 
-| Item | Kandungan |
-|------|----------|
-| Klasifikasi Sitotoksisiti | Terapi bertarget — konjugat antibodi-ubat (ADC) dengan muatan perencat mikrotubul sitotoksik (MMAE) yang ditujukan pada Nectin-4 |
-| Risiko Penyusutan Sumsum | Sila rujuk peringatan sisipan paket dan langkah penjagaan |
-| Klasifikasi Emetogenisiti | Sila rujuk peringatan sisipan paket dan langkah penjagaan |
-| Item Pemantauan | Sila rujuk peringatan sisipan paket dan langkah penjagaan |
-| Perlindungan Pengendalian | Sila rujuk peringatan sisipan paket dan langkah penjagaan |
+| Perkara | Kandungan |
+|------|------|
+| Klasifikasi Sitotoksisiti | Konjugat antibodi-ubat (ADC) dengan muatan sitotoksik MMAE (perencat mikrotubul) |
+| Risiko Mielosupresi | Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pembungkusan |
+| Klasifikasi Emetogenisiti | Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pembungkusan |
+| Perkara Pemantauan | Sila rujuk sisipan pembungkusan; secara amnya parameter hematologi serta fungsi hati dan buah pinggang |
+| Perlindungan Pengendalian | Perlu mematuhi peraturan pengendalian ubat sitotoksik |
+
+---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan paket untuk maklumat keselamatan. (Peringatan utama, kontraindikasi, dan data interaksi ubat semuanya ditandai sebagai jurang data dalam pak ini; mendapatkan label NPRA/pengeluar adalah jurang pemblokiran untuk sebarang penilaian keselamatan.)
+- **Interaksi Ubat**: Terdapat 100 interaksi direkodkan; contoh yang dipaparkan termasuk:
+  - **Major**: Klaritromisin
+  - **Moderate**: Ubat antidiabetes, antaranya metformin, pioglitazon, akarbosa, glimepirida, glipizida, gliburida, perencat SGLT2 (kanagliflozin, dapagliflozin, empagliflozin, ertugliflozin), perencat DPP-4 (alogliptin, saksagliptin, linagliptin), agonis reseptor GLP-1 (albiglutid, dulaglutid, exenatid), serta aprepitan
+
+- **Isyarat keselamatan daripada literatur**: Esofagitis ulseratif teruk (apabila digabungkan dengan pembrolizumab) dan isyarat kesan buruk ADC dalam analisis FAERS.
+
+Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pembungkusan.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
-**Rasional:**
-Semua 9 ramalan TxGNN berpangkat teratas untuk ubat ini membawa cadangan "Tahan" dan bukti L4–L5 paling baik. Calon teratas (kusta) mempunyai penilaian tiada-hubungan-mekanik yang jelas dan sifar kajian sokongan; senarai berpangkat juga mengandungi dua entri penyakit veterinar/bukan manusia, menunjukkan kemungkinan hingar graf-pengetahuan daripada isyarat penggunaan semula yang boleh dipercayai.
+**Justifikasi:**
+- Ramalan kusta hanya berasaskan model (L5) tanpa ujian klinikal, tanpa literatur, dan tanpa pautan mekanistik. Profil sitotoksik ubat ini juga tidak sesuai untuk penyakit jangkitan tanpa rasional khusus.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Dapatkan peringatan label TFDA/NPRA dan kontraindikasi (jurang pemblokiran, DG001) sebelum sebarang penilaian dari sisi keselamatan boleh bermula
-- Dapatkan dokumen mekanisme-tindakan bersumber dari DrugBank (DG002)
-- Selidiki pencemaran ontologi graf-pengetahuan yang jelas menyebabkan ramalan penyakit veterinar berpangkat bersama petunjuk manusia, kerana ini menjejaskan keyakinan dalam senarai calon keseluruhan untuk ubat ini
-- Jika sebarang calon dikejar lebih lanjut, utamakan satu dengan rasional mekanik sebenar dan asas bukti nyata — tiada dari 9 teratas semasa yang memenuhi bar tersebut
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisipan pembungkusan NPRA (amaran dan kontraindikasi) bagi membolehkan saringan keselamatan
+- Data mekanisme tindakan (MOA) terperinci daripada DrugBank
+- Bukti praklinikal atau mekanistik yang menghubungkan Nectin-4/MMAE dengan patogenesis kusta
+- Penilaian kesamaan dengan indikasi asal dan keserasian laluan pentadbiran
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

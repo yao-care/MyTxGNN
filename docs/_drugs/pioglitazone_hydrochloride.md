@@ -2,7 +2,7 @@
 layout: default
 title: Pioglitazone Hydrochloride
 parent: Low Evidence (L4-L5)
-nav_order: 548
+nav_order: 575
 evidence_level: L5
 indication_count: 0
 ---

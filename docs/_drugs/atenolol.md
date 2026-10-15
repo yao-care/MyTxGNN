@@ -2,7 +2,7 @@
 layout: default
 title: Atenolol
 parent: High Evidence (L1-L2)
-nav_order: 97
+nav_order: 101
 evidence_level: L1
 indication_count: 5
 ---
@@ -29,105 +29,104 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-# Atenolol: Daripada Penyakit Kardiovaskular kepada Hipertensi
+# Atenolol: Daripada Hipertensi kepada Hipertensi (Ramalan TxGNN Peringkat Teratas)
 
 ## Ringkasan Satu Ayat
 
-Atenolol adalah penyekat reseptor adrenergik β1 yang selektif daripada kelas penyekat beta; rekod indikasi asal yang terperinci tidak dipulangkan daripada daftar NPRA Malaysia dalam set data semasa, walaupun ia diiktiraf secara meluas sebagai ejen kardiovaskular utama.
-Model TxGNN meletakkan **Hipertensi** sebagai indikasi ramalan teratasnya, disokong oleh **10+ percubaan klinikal yang relevan** dan **20 penerbitan sokongan** dalam rangkaian bukti semasa.
-Ini adalah pasangan ubat-indikasi yang sangat terbukti pada Tahap Bukti **L1**, mewakili kedua-dua pengesahan TxGNN yang kuat dan tiang penyanggah terapi antihipertensi berasaskan bukti.
+Atenolol ialah penyekat beta-1 selektif yang pada asalnya digunakan untuk merawat hipertensi, infarksi miokardium dan keadaan kardiovaskular berkaitan.
+Model TxGNN meletakkan **hipertensi** sebagai ramalan peringkat teratas, diikuti **infarksi miokardium**, **hemoglobinopati** dan **trombosis koronari**.
+Untuk ramalan utama, data yang dihimpun menyenaraikan **40 ujian klinikal** dan **20 penerbitan**. Namun, ramalan ini pada hakikatnya bertindih dengan indikasi asal ubat ini, jadi ia bukan penggunaan semula yang benar-benar baharu.
 
 ---
 
-## Tinjauan Pantas
+## Gambaran Ringkas
 
-| Item | Kandungan |
-|------|----------|
-| Indikasi Asal | Tidak tersedia dalam data daftar NPRA semasa |
-| Indikasi Baru Yang Diramalkan | Hipertensi |
-| Skor Ramalan TxGNN | N/A (data skor sedang ditunggu dalam set data semasa) |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Hipertensi, infarksi miokardium (daripada pengetahuan graf TxGNN; tiada teks indikasi berlesen kerana tiada pendaftaran di Malaysia) |
+| Indikasi Baharu yang Diramalkan | Hipertensi (ramalan peringkat 1); calon lain: infarksi miokardium, hemoglobinopati, trombosis koronari |
+| Skor Ramalan TxGNN | 0.00% (skor dalam data ialah 0.0 bagi semua ramalan; perlu disahkan semula) |
 | Tahap Bukti | L1 |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 30 |
-| Keputusan Disyorkan | Teruskan dengan Penjagaan |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Proceed with Guardrails |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Atenolol adalah antagonis reseptor adrenergik β1 yang selektif. Dengan menyekat reseptor β1 di jantung, ia mengurangkan kadar jantung dan output jantung, membawa kepada penurunan yang berterusan dalam tekanan darah sistolik dan diastolik. Ini adalah mekanisme farmakodinamik langsung — bukan inferensi yang jauh — dan hubungan mekanik antara penyekatan β1 dan pengurangan tekanan darah adalah salah satu hubungan yang paling terperinci dicirikan dalam farmakologi klinikal.
+Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang dihimpun. Berdasarkan maklumat yang diketahui, atenolol ialah penyekat reseptor beta-1 adrenergik selektif. Ia menurunkan tekanan darah dengan mengurangkan kadar denyutan jantung dan keluaran kardiak serta menekan rembesan renin. Mekanisme ini mantap dan selaras dengan indikasi asalnya.
 
-Hipertensi adalah keadaan yang didorong sebahagian besarnya oleh nada simpatis yang meningkat dan rangsangan katekolamin yang berlebihan terhadap jantung dan vaskulatur. Keseselektifan jantung atenolol (aktiviti β2 minimal pada dos terapeutik) bermakna ia melemahkan kenaikan tekanan darah yang dimulakan secara simpatis sambil mengurangkan risiko bronkospasma yang berkaitan dengan penyekat beta yang tidak selektif. Profil keseselektifan ini menjadikannya sangat sesuai untuk pesakit hipertensi dengan keadaan komorbid seperti penyakit arteri koronari atau pasca-infark miokard — selanjutnya memperluas kebolehgunaannya secara klinikal.
+Bagi **infarksi miokardium**, sekatan beta-1 mengurangkan keperluan oksigen miokardium, kadar denyutan jantung dan risiko aritmia, serta mungkin mengehadkan saiz infarks dan remodeling. Mekanisme ini munasabah dan disokong oleh kajian praklinikal (contohnya kajian babun, PMID 1782934). Walau bagaimanapun, manfaat moden pada pesakit tanpa pecahan ejeksi yang berkurang masih tidak pasti. Ujian besar REBOOT (NCT03596385) menguji penyekat beta sebagai satu kelas, bukan atenolol secara khusus.
 
-Percubaan hasil kardiovaskular mercu tanda telah dengan tegasnya menetapkan peranan antihipertensi atenolol. Percubaan INVEST (n=22,000) menggunakan atenolol sebagai lengan pembanding untuk hipertensi dengan penyakit arteri koronari, dan percubaan ASCOT (n=19,257) menilai strategi berasaskan atenolol berbanding berasaskan amlodipina, kedua-duanya menghasilkan bukti jangka panjang berkualiti tinggi. Walaupun garis panduan yang lebih baru telah membahaskan kelebihan relatif atenolol berbanding ejen yang lebih baru (khususnya ARB dan CCB), peranannya dalam pengurusan tekanan darah tetap disokong dengan baik dan relevan secara klinikal.
-
----
-
-## Bukti Percubaan Klinikal
-
-| Nombor Percubaan | Fasa | Status | Kemasukan | Penemuan Utama |
-|---|---|---|---|---|
-| [NCT00133692](https://clinicaltrials.gov/study/NCT00133692) | Fasa 4 | Selesai | 22,000 | Percubaan INVEST: ujian terkontrol rawak skala besar membandingkan strategi berasaskan verapamil SR/trandolapril lawan atenolol dalam pesakit hipertensi dengan penyakit arteri koronari; menyediakan data hasil kardiovaskular jangka panjang utama untuk atenolol |
-| [NCT01499511](https://clinicaltrials.gov/study/NCT01499511) | N/A | Selesai | 1,718 | ASCOT-10: susulan pasca-percubaan 10 tahun daripada peserta terselamat ASCOT UK; menguji sama ada manfaat daripada strategi antihipertensi berasaskan amlodipina berbanding berasaskan atenolol berterusan melampaui tempoh percubaan asal |
-| [NCT00262236](https://clinicaltrials.gov/study/NCT00262236) | Fasa 3 | Selesai | 693 | Ujian terkontrol rawak Fasa 3 selama 12 minggu membandingkan aliskiren sahaja dan digabungkan dengan atenolol dalam hipertensi esensial; secara langsung menilai keberkesanan antihipertensi atenolol dalam tetapan terkontrol yang teguh |
-| [NCT00389168](https://clinicaltrials.gov/study/NCT00389168) | Fasa 2/3 | Selesai | 115 | Perbandingan rawak irbesartan lawan atenolol pada perubahan struktur jantung dan vaskular (dimensi LV) dalam pesakit hipertensi dengan LVH; menilai kesan pelindung organ |
-| [NCT00246519](https://clinicaltrials.gov/study/NCT00246519) | Fasa 4 | Selesai | 1,701 | Kajian farmakogenomik PEAR: mengenal pasti penentu genetik tindak balas antihipertensi terhadap atenolol lawan hidroklorotiazida; data perubatan ketepatan asas untuk atenolol |
-| [NCT01251146](https://clinicaltrials.gov/study/NCT01251146) | Fasa 4 | Selesai | 177 | Ujian terkontrol rawak multisenter membandingkan kesan bisoprolol lawan atenolol pada kadar jantung rehat dan aktiviti sistem saraf simpatis dalam hipertensi esensial |
-| [NCT01762436](https://clinicaltrials.gov/study/NCT01762436) | Fasa 4 | Selesai | 109 | Membandingkan bisoprolol lawan atenolol pada aktiviti saraf simpatis dan tekanan aorta pusat dalam hipertensi esensial; profil hemodinamik pembezaan dicirikan |
-| [NCT01939509](https://clinicaltrials.gov/study/NCT01939509) | Fasa 4 | Selesai | 80 | Perbandingan kepala-ke-kepala bisoprolol lawan atenolol hemodinamik dan kekakuan arteri dalam hipertensi dengan sindrom metabolik |
-| [NCT00529750](https://clinicaltrials.gov/study/NCT00529750) | Fasa 4 | Selesai | 108 | Membandingkan irbesartan lawan atenolol pada fungsi endotel dan tekanan oksidatif dalam pesakit hipertensi dengan sindrom metabolik |
-| [NCT00147563](https://clinicaltrials.gov/study/NCT00147563) | Fasa 4 | Selesai | 34 | Membandingkan eplerenom lawan atenolol pada pemodelan arteri rintangan dalam hipertensi primer ringan hingga sederhana; menilai perubahan struktur vaskular sebagai titik akhir proksi |
+Bagi **trombosis koronari**, hanya ada kajian praklinikal tidak langsung. Kesan antitrombotik yang dilaporkan untuk nebivolol dan karvedilol melibatkan laluan beta-2 dan NO/COX-2, yang tidak terbukti untuk atenolol. Bagi **hemoglobinopati**, tiada hubungan mekanistik dapat dikenal pasti, dan perkaitan ini kemungkinan besar artifak graf pengetahuan.
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Ujian Klinikal
+
+Ramalan utama (hipertensi). Hanya ujian yang telah dinilai relevannya disenaraikan, dengan keutamaan kepada gred relevan yang tinggi.
+
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
+|---------|------|------|------|---------|
+| [NCT00133692](https://clinicaltrials.gov/study/NCT00133692) | Fasa 4 | Selesai | 22,000 | INVEST: strategi berasaskan verapamil SR berbanding strategi berasaskan atenolol pada pesakit hipertensi dengan penyakit koronari |
+| [NCT00338260](https://clinicaltrials.gov/study/NCT00338260) | Fasa 3 | Selesai | 496 | LIFE: losartan berbanding atenolol pada pesakit hipertensi dengan hipertrofi ventrikel kiri; losartan lebih baik dalam mengurangkan risiko strok |
+| [NCT00108082](https://clinicaltrials.gov/study/NCT00108082) | Fasa 3 | Selesai | 287 | Karvedilol MR berbanding atenolol pada hipertensi dengan hipertrofi ventrikel kiri (titik akhir: jisim ventrikel kiri) |
+| [NCT00529750](https://clinicaltrials.gov/study/NCT00529750) | Fasa 4 | Selesai | 108 | Irbesartan berbanding atenolol pada fungsi endotelium (titik akhir pengganti) |
+| [NCT00541684](https://clinicaltrials.gov/study/NCT00541684) | Fasa 3 | Selesai | 143 | Losartan berbanding atenolol pada hipertensi ringan hingga sederhana (kesan ke atas kekerapan hubungan seksual) |
+| [NCT00582114](https://clinicaltrials.gov/study/NCT00582114) | Fasa 3 | Ditamatkan | 200 | Terapi berasaskan lisinopril berbanding atenolol pada hipertensi hemodialisis |
+| [NCT01762436](https://clinicaltrials.gov/study/NCT01762436) | Fasa 4 | Selesai | 109 | Bisoprolol berbanding atenolol pada aktiviti saraf simpatetik dan tekanan aorta pusat |
+| [NCT00772499](https://clinicaltrials.gov/study/NCT00772499) | Fasa 4 | Selesai | 100 | Olmesartan berbanding atenolol pada struktur dan fungsi vaskular |
+| [NCT04931108](https://clinicaltrials.gov/study/NCT04931108) | Fasa 4 | Status tidak diketahui | 32 | Gabungan nitrendipin/atenolol pada kebolehubahan tekanan darah |
+| [NCT00200421](https://clinicaltrials.gov/study/NCT00200421) | Fasa 2 | Selesai | 110 | Nebivolol berbanding atenolol pada kapasiti senaman |
+
+Calon infarksi miokardium: [NCT03596385](https://clinicaltrials.gov/study/NCT03596385) (Fasa 4, Selesai, 8,505 peserta) menguji terapi penyekat beta jangka panjang selepas infarksi tanpa pecahan ejeksi berkurang, tetapi menilai kelas ubat, bukan atenolol sahaja. Calon hemoglobinopati dan trombosis koronari tidak mempunyai ujian klinikal berdaftar.
+
+---
+
+## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|------|------|---------|-------------|
-| [15530629](https://pubmed.ncbi.nlm.nih.gov/15530629/) | 2004 | Ulasan/Meta-analisis | *Lancet* | Ulasan sistematik atenolol sebagai ubat rujukan dalam ujian terkontrol rawak hipertensi; menilai data morbiditi dan mortaliti kardiovaskular — rujukan utama untuk mengkontekstualisasikan keberkesanan perbandingan atenolol |
-| [31259](https://pubmed.ncbi.nlm.nih.gov/31259/) | 1979 | UKR | *Clin Pharmacol Ther* | Percubaan silang atenolol lawan tiga penyekat beta tidak selektif (propranolol, oksprenolol, pindolol) dalam hipertensi yang sudah ditetapkan; menunjukkan kelebihan keseselektifan jantung |
-| [6805588](https://pubmed.ncbi.nlm.nih.gov/6805588/) | 1982 | UKR | *BMJ* | Atenolol sekali sehari (50 mg/100 mg) lawan metoprolol SR dalam 9 pesakit hipertensi luar; tekanan darah dan kadar jantung diukur selepas 3 minggu setiap lengan rawatan |
-| [1104047](https://pubmed.ncbi.nlm.nih.gov/1104047/) | 1975 | UKR | *BMJ* | Percubaan silang buta berganda atenolol sahaja (200/400 mg) dan digabungkan dengan bendrofluazida dalam 24 pesakit hipertensi; atenolol menghasilkan pengurangan tekanan darah yang jauh lebih besar daripada diuretik sahaja |
-| [9759992](https://pubmed.ncbi.nlm.nih.gov/9759992/) | 1998 | UKR | *J Hum Hypertens* | Valsartan 160 mg lawan atenolol 100 mg sekali sehari dalam 103 pesakit hipertensi primer teruk selama 6 minggu; kedua-dua ubat mengurangkan DBP dengan keberkesanan yang setanding |
-| [2216994](https://pubmed.ncbi.nlm.nih.gov/2216994/) | 1990 | UKR | *Postgrad Med J* | Enalapril lawan atenolol dalam 67 pesakit hipertensi esensial (silang buta tunggal); atenolol menormalkan tekanan darah dalam bahagian besar merentas gred keterukan |
-| [7340890](https://pubmed.ncbi.nlm.nih.gov/7340890/) | 1981 | UKR | *Br J Clin Pharmacol* | Silang rawak terbuka atenolol lawan metoprolol pada 50, 100, dan 200 mg sekali sehari; tekanan darah dan kadar jantung diukur semasa rehat dan semasa latihan dalam hipertensi esensial ringan hingga sederhana |
-| [26425837](https://pubmed.ncbi.nlm.nih.gov/26425837/) | 2015 | Farmakogenomik | *J Hypertens* | GWAS mengenal pasti SNP gen PTPRD yang dikaitkan secara signifikan dengan tindak balas tekanan darah sistolik terhadap atenolol dan dengan hipertensi rintangan; menyokong preskripsi ketepatan |
-| [7903118](https://pubmed.ncbi.nlm.nih.gov/7903118/) | 1993 | Kajian Klinikal | *Minerva Cardioangiol* | Ulasan gabungan tetap lepas cepat nifedipin/atenolol (Niften) untuk hipertensi dan angina; menunjukkan keberkesanan gabungan yang lebih tinggi berbanding mana-mana ubat sahaja |
-| [3602015](https://pubmed.ncbi.nlm.nih.gov/3602015/) | 1986 | UKR | *Pharmatherapeutica* | Kajian prospektif buta berganda membandingkan atenolol+nifedipin lawan atenolol+diuretik (amilorida/HCTZ) dalam 98 pesakit yang tidak dikawal memadai pada atenolol sahaja; menilai kawalan tekanan darah pada 8 minggu |
-
----
-
-## Maklumat Pasaran Malaysia
-
-Pertanyaan daftar NPRA mengesahkan **30 produk berdaftar** untuk atenolol di Malaysia dengan status pasaran **Dipasarkan (Dipasarkan)**. Walau bagaimanapun, maklumat terperinci peringkat produk — termasuk nombor lesen, nama produk, bentuk dos, dan teks indikasi yang diluluskan — tidak dipulangkan dalam set data semasa.
-
-Sila rujuk daftar rasmi NPRA di [https://www.npra.gov.my](https://www.npra.gov.my) untuk butiran pendaftaran lengkap produk yang mengandungi atenolol individu.
-
----
-
-## Pertimbangan Keselamatan
-
-Sila rujuk sisipan paket untuk maklumat keselamatan.
-
-> **Nota:** Rangkaian bukti semasa telah menandai dua jurang data pemblokiran: (1) amaran sisipan paket NPRA dan kontraindikasi (DG001 — Keterukan Pemblokiran), dan (2) data mekanisme tindakan DrugBank (DG002 — Keterukan Tinggi). Kedua-duanya harus diselesaikan sebelum meneruskan ke tinjauan pelaksanaan klinikal.
+|------|-----|------|------|---------|
+| [11937178](https://pubmed.ncbi.nlm.nih.gov/11937178/) | 2002 | RCT (LIFE) | Lancet | Losartan berbanding atenolol: kesan ke atas morbiditi dan mortaliti kardiovaskular pada hipertensi |
+| [16154016](https://pubmed.ncbi.nlm.nih.gov/16154016/) | 2005 | RCT (ASCOT-BPLA) | Lancet | Amlodipin + perindopril berbanding atenolol + bendroflumetiazid dalam pencegahan kejadian kardiovaskular |
+| [9732338](https://pubmed.ncbi.nlm.nih.gov/9732338/) | 1998 | RCT (UKPDS 39) | BMJ | Atenolol berbanding kaptopril pada komplikasi diabetes jenis 2 |
+| [28107561](https://pubmed.ncbi.nlm.nih.gov/28107561/) | 2017 | Ulasan sistematik (Cochrane) | Cochrane Database Syst Rev | Penyekat beta sebagai terapi barisan pertama hipertensi tanpa indikasi mendesak masih kontroversi |
+| [17253471](https://pubmed.ncbi.nlm.nih.gov/17253471/) | 2007 | Ulasan sistematik (Cochrane) | Cochrane Database Syst Rev | Penyekat beta barisan pertama kurang berkesan mengurangkan strok berbanding kelas lain |
+| [15530629](https://pubmed.ncbi.nlm.nih.gov/15530629/) | 2004 | Ulasan | Lancet | Atenolol dalam hipertensi: sama ada pilihan bijak dipersoalkan |
+| [1104047](https://pubmed.ncbi.nlm.nih.gov/1104047/) | 1975 | Ujian klinikal perbandingan | Br Med J | Atenolol menurunkan tekanan darah dengan ketara dalam ujian silang dua buta |
+| [6992822](https://pubmed.ncbi.nlm.nih.gov/6992822/) | 1980 | Ujian terkawal plasebo | Br J Clin Pharmacol | Atenolol menurunkan tekanan darah dan kadar nadi pada hipertensi ringan |
+| [25821584](https://pubmed.ncbi.nlm.nih.gov/25821584/) | 2015 | Ulasan | Open Heart | Penyekat beta tidak sesuai sebagai terapi barisan pertama hipertensi; penting dalam kegagalan jantung |
+| [1782934](https://pubmed.ncbi.nlm.nih.gov/1782934/) | 1991 | Kajian haiwan (babun) | Eur Heart J | Atenolol dalam trombosis koronari dan trombolisis (saiz infarks miokardium) |
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Teruskan dengan Penjagaan**
+**Keputusan: Proceed with Guardrails**
 
-**Alasan:**
-Berbilang ujian terkontrol rawak Fasa 3/4 yang selesai dengan saiz sampel besar — termasuk INVEST (n=22,000), PEAR (n=1,701), dan percubaan gabungan aliskiren (n=693) — mengesahkan keberkesanan antihipertensi atenolol pada tahap bukti L1. Tiga puluh pendaftaran NPRA aktif mengesahkan ketersediaan pasaran di Malaysia.
+**Justifikasi:**
+- Untuk hipertensi, terdapat banyak ujian Fasa 3/4 dan RCT besar, tetapi ia adalah indikasi asal atenolol, bukan penggunaan semula yang baharu. Garis panduan dan literatur (contohnya PMID 15530629, Cochrane) mempersoalkan atenolol sebagai terapi barisan pertama kerana manfaat hasil kardiovaskular yang lebih lemah. Calon infarksi miokardium berstatus "Research Question" (L2), manakala hemoglobinopati dan trombosis koronari berstatus "Hold" (L5 dan L4).
+- Atenolol tidak dipasarkan di Malaysia berdasarkan data yang dihimpun, jadi akses tempatan perlu ditangani.
 
-**Untuk meneruskan, perkara berikut diperlukan:**
+**Untuk meneruskan, perlu dilengkapkan:**
+- Amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menyekat saringan keselamatan)
+- Data mekanisme tindakan terperinci daripada DrugBank
+- Semakan semula skor TxGNN, kerana semua skor ialah 0.0
+- Semakan keputusan REBOOT (NCT03596385) bagi kesan penyekat beta selepas infarksi dan hubungannya dengan atenolol secara khusus
+- Pengesahan status pendaftaran atau laluan import di Malaysia
 
-- **Data keselamatan (Pemblokiran):** Muat turun dan susun atur sisipan paket NPRA PDF untuk mengekstrak amaran utama, kontraindikasi, dan maklumat interaksi ubat (DG001)
-- **Data MOA (Tinggi):** Pertanyaan API DrugBank untuk profil mekanisme tindakan lengkap, farmakodinamik, dan farmakokinetik untuk atenolol (DB00335) (DG002)
-- **Butiran pendaftaran NPRA:** Ambil nombor lesen, teks indikasi yang diluluskan, dan bentuk dos untuk semua 30 produk berdaftar daripada daftar NPRA
-- **Penilaian risiko metabolik:** Memandangkan bukti kesusasteraan yang ada tentang kesan atenolol pada sensitiviti glukosa/insulin dan profil lipid (PMID 9140673, PMID 00607347), sertakan protokol pemantauan metabolik untuk populasi pesakit berisiko tinggi (diabetes, obes, sindrom metabolik)
-- **Peletakan pembanding:** Memandangkan data percubaan ASCOT dan LIFE menunjukkan kerendahan atenolol terhadap ejen yang lebih baru (amlodipina, ARB) dalam titik akhir tertentu, jelaskan peletakan klinikal atenolol dalam garis panduan rawatan hipertensi Malaysia semasa (cth., sebagai pilihan baris pertama atau dalam subkumpulan spesifik)
+---
 
+## Pertimbangan Keselamatan
+
+**Kontraindikasi/penyakit berisiko (daripada graf pengetahuan, bukan teks label):** kegagalan hati, gangguan kebimbangan, gangguan neurotik, gangguan distimik, pankreatitis, lupus eritematosus sistemik, asma (termasuk asma intrinsik dan alergi), kekurangan kalium, psoriasis, anuria, gout, hiperkalsemia, nefrokalsinosis, gangguan metabolisme fosforus, diabetes mellitus (jenis 1 dan 2), ketoasidosis diabetes, blok atrioventrikular, penyakit Raynaud, anafilaksis.
+
+**Interaksi Dadah (100 interaksi ditemui; contoh utama):**
+- Sederhana: epinefrin, hidrokortison, hiosiamin, bupropion, triamsinolon, morfin, asetoheksamid, atropin, betametason, budesonid, serta garam kalsium (asetat, karbonat, sitrat, glukonat, laktat, fosfat)
+- Ringan: asid asetilsalisilik, aluminium hidroksida, attapulgit
+
+Untuk amaran utama dan kontraindikasi rasmi, sila rujuk sisipan pakej.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

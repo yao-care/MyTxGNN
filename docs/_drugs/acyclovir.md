@@ -33,103 +33,93 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 ## Ringkasan Satu Ayat
 
-Acyclovir ialah antivirus analog nukleosida yang pada asalnya diluluskan untuk rawatan jangkitan herpes simplex virus (HSV), termasuk herpes kelamin dan penyakit HSV mukokutan. Ramalan peringkat teratas model TxGNN ialah **Herpes Zoster** (kayap), disokong oleh pelbagai uji klinikal Fasa 3 yang telah selesai dan **20 penerbitan yang diindeks** yang mengesahkan peranan antiviranya sebagai pilihan pertama dalam keadaan ini. Sehingga dapat diperhatikan, kesemua lima ramalan model meliputi penyakit keluarga herpesvirus di mana Acyclovir sudah berfungsi sebagai rawatan yang disyorkan oleh panduan, mencerminkan konsistensi mekanik yang kuat merentasi spektrum herpesvirus.
+Acyclovir ialah ubat antivirus yang pada asalnya digunakan untuk merawat jangkitan herpes simplex, herpes zoster, cacar air (chickenpox), herpes labialis, ensefalitis herpes simplex dan herpes genital.
+Model TxGNN meramalkan ia mungkin berkesan untuk **herpes zoster** (indikasi utama di kedudukan pertama).
+Indikasi ini sebenarnya sudah ada pada label ubat (*on-label*) dan bukan hipotesis repurposing baharu. Setakat ini terdapat **4 ujian klinikal** dan **20 penerbitan** yang disenaraikan bagi indikasi ini.
 
 ---
 
 ## Gambaran Pantas
 
 | Perkara | Kandungan |
-|------|---------|
-| Petunjuk Asal | Tidak tersedia (medan teks lesen NPRA Malaysia tidak ditangkap dalam Pakej Bukti ini) |
-| Petunjuk Baru yang Diramal | Herpes Zoster |
-| Skor Ramalan TxGNN | 0.00% (data skor mungkin tidak diisi; pangkat 1 daripada 5 ramalan) |
+|------|------|
+| Indikasi Asal | Jangkitan herpes simplex, herpes zoster, cacar air, herpes labialis, ensefalitis herpes simplex, herpes genital |
+| Indikasi Baharu yang Diramalkan | Herpes zoster |
+| Skor Ramalan TxGNN | 0.00% (skor dilaporkan sebagai 0.0 dalam data; tidak boleh ditafsirkan sebagai kebarangkalian sebenar) |
 | Tahap Bukti | L1 |
-| Status Pasaran Malaysia | ✓ Berada di Pasaran (Berada di Pasaran) |
-| Bilangan Pendaftaran | 46 |
-| Keputusan yang Disyorkan | Teruskan dengan Pengawal Penjaga |
+| Status Pasaran di Malaysia | Tidak dipasarkan |
+| Bilangan Pendaftaran | 0 |
+| Keputusan Disyorkan | Proceed with Guardrails |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa kini, data mekanisme tindakan terperinci tidak tersedia daripada pertanyaan DrugBank Pakej Bukti ini. Berdasarkan pengetahuan saintifik yang ditubuhkan, Acyclovir ialah analog nukleosida asiklik sintetik yang keselek­tifan antivirusnya bergantung sepenuhnya pada **virus-encoded thymidine kinase (TK)**. Hanya sel yang dijangkiti virus yang mengekspreskan TK virus yang diperlukan untuk memfosforsilasi Acyclovir ke bentuk monofosfatnya; kinase sel tuan rumah kemudian menukar perantara ini kepada trifosfat aktif (Acyclovir-TP). Mekanisme pengaktifan dua langkah ini memberikan Acyclovir tetingkap selektiviti terapeutik kira-kira 30–100 kali ganda berbanding DNA polimerase tuan rumah — bermaksud ia bertindak hampir secara eksklusif di dalam sel yang dijangkiti, menyelamatkan tisu yang sihat.
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat sedia ada, acyclovir difosforilasi secara selektif oleh timidin kinase virus. Virus varicella-zoster (VZV) mengekodkan enzim ini, jadi ubat diaktifkan terutamanya dalam sel yang dijangkiti. Bentuk trifosfat acyclovir kemudian menghalang DNA polimerase virus dan menamatkan rantaian DNA.
 
-Dalam konteks herpes zoster, virus varisela-zoster (VZV) mengekod homolog TK (UL23) yang dengan cekap memfosforsilasi Acyclovir. Acyclovir-TP yang terhasil bersaing dengan trifosfat deoxyguanosine dan, selepas dimasukkan ke dalam rantai DNA VZV yang sedang berkembang, bertindak sebagai penamat rantai wajib, menyekat replikasi VZV lebih lanjut. Secara klinikal, inisiasi awal Acyclovir memendekkan tempoh vesikular erupsi aktif dan dengan ketara mengurangkan kejadian dan keterukan neuralgia postherpetik (PHN) — komplikasi jangka panjang yang paling melumpuhkan daripada herpes zoster.
+Herpes zoster disebabkan oleh pengaktifan semula VZV, iaitu virus yang sama yang menyebabkan cacar air. Oleh sebab mekanisme ini bergantung pada enzim virus yang terdapat dalam keluarga virus herpes, acyclovir secara mekanistik sesuai untuk jangkitan herpes simplex dan herpes zoster. Tinjauan literatur yang disertakan juga menyatakan acyclovir ialah pilihan rawatan bagi varicella dan herpes zoster (Arvin, 2002).
 
-Jambatan mekanik antara petunjuk asal (jangkitan HSV) dan herpes zoster adalah langsung dan telah dicirikan dengan baik: kedua-dua HSV dan VZV adalah alfa-herpesviruses yang berkongsi pengaktifan Acyclovir yang bergantung pada TK. Ini menjelaskan mengapa TxGNN menyusun herpes zoster, ensefalitis herpes simplex, herpes labialis, herpes kelamin, dan penyakit HSV yang luas sebagai lima ramalan teratasnya — semua berkongsi sasaran farmakologi asas yang sama. Keluaran model adalah konsisten dengan profil kelulusan kawal selia Acyclovir merentasi petunjuk ini di Amerika Syarikat (FDA) dan Eropah (EMA).
+Perlu diingat bahawa indikasi ini sudah berada pada label asal, jadi ia bukan hipotesis repurposing sebenar. Nilai laporan ini terletak pada pengesahan kekuatan bukti dan pemetaan kawalan keselamatan.
 
 ---
 
-## Bukti Uji Klinikal
+## Bukti Ujian Klinikal
 
-| Nombor Uji | Fasa | Status | Pendaftaran | Penemuan Utama |
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT03134196](https://clinicaltrials.gov/study/NCT03134196) | Fasa 4 | Selesai | 527 | Uji berbilang pusat, berganda-tertutup, dikawal plasebo bagi Valacyclovir penindas (prodrug Acyclovir) selama satu tahun dalam pesakit imunocelik dengan Herpes Zoster Ophthalmicus (keratitis, uveitis); menilai keselamatan dan keberkesanan penindasan jangka panjang |
-| [NCT01959841](https://clinicaltrials.gov/study/NCT01959841) | Fasa 3 | Selesai | 751 | Kajian terkawal Valaciclovir buta-penuh membandingkan ASP2151 (Amenamevir) 200 mg dan 400 mg vs Valaciclovir 3000 mg/hari dalam pesakit herpes zoster; Valaciclovir berfungsi sebagai perbandingan aktif piawai emas |
-| [NCT00002315](https://clinicaltrials.gov/study/NCT00002315) | Fasa 3 | Selesai | 400 | Kajian berbilang pusat buta-penuh membandingkan 882C87 oral vs Acyclovir oral untuk herpes zoster terlokalisasi dalam pesakit imunokompromis; secara langsung menguji keberkesaan dan toleransi Acyclovir dalam populasi berisiko tinggi ini |
-| [NCT01327144](https://clinicaltrials.gov/study/NCT01327144) | Fasa 3 | Selesai | 177 | Kajian rawak multiputusan prospektif membandingkan Famciclovir 500 mg vs Aciclovir 400 mg dalam herpes zoster; data perbandingan keberkesaan dan keselamatan kepala-ke-kepala langsung untuk Acyclovir |
-| [NCT00209352](https://clinicaltrials.gov/study/NCT00209352) | Fasa 3 | Selesai | 120 | Uji rawak Acyclovir oral jangka panjang untuk mencegah reaktivasi VZV semasa tahun pertama selepas pemindahan sumsum tulang allogenik; menubuhkan manfaat profilaksis dalam populasi imunoditekan berisiko tertinggi |
-| [NCT00000953](https://clinicaltrials.gov/study/NCT00000953) | Fasa 2 | Selesai | 180 | Sorivudine (Brovavir) vs Acyclovir oral untuk herpes zoster terlokalisasi dalam pesakit HIV-positif; salah satu uji pangsi yang mengesahkan peranan Acyclovir sebagai penjagaan piawai secara khusus dalam individu yang dijangkiti bersama HIV |
-| [NCT00487682](https://clinicaltrials.gov/study/NCT00487682) | Fasa 2 | Selesai | 403 | Kajian penentuan dos ASP2151 vs Valacyclovir hydrochloride dalam herpes zoster; Valacyclovir berfungsi sebagai kawalan aktif memberikan data PK perbandingan dos dan keberkesaan |
-| [NCT00652184](https://clinicaltrials.gov/study/NCT00652184) | Fasa 2/3 | Tidak Diketahui | 300 | Perbandingan empat-lengan, buta-penuh, dikawal plasebo bagi Sorivudine topikal krim 3% vs Valaciclovir oral vs kombinasi vs plasebo untuk herpes zoster dalam dewasa imunocelik; lengan Valaciclovir memberikan tanda aras keberkesaan terkawal aktif n=300 |
-| [NCT00900783](https://clinicaltrials.gov/study/NCT00900783) | Fasa 2 | Selesai | 373 | Kajian buta-penuh rawak FV-100 pada dua dos vs Valacyclovir dalam herpes zoster akut; membandingkan penyelesaian kesakitan dan penyembuhan lesi dengan Valacyclovir sebagai piawai aktif |
-| [NCT01254630](https://clinicaltrials.gov/study/NCT01254630) | Fasa 3 | Selesai | 5305 | Uji besar terkawal plasebo vaksin VZV tidak aktif (V212) dalam pesakit kanser dewasa yang menerima kemoterapi; mendokumentasikan beban penyakit herpes zoster yang besar dalam populasi imunokompromis dan keperluan klinikal untuk strategi pencegahan antivirus |
+| [NCT00002315](https://clinicaltrials.gov/study/NCT00002315) | Fasa 3 | Selesai | 400 | Perbandingan 882C87 oral dengan acyclovir oral bagi herpes zoster setempat pada pesakit imunokompromi; acyclovir sebagai kawalan aktif |
+| [NCT00209352](https://clinicaltrials.gov/study/NCT00209352) | Fasa 3 | Selesai | 120 | Acyclovir oral jangka panjang untuk mencegah pengaktifan semula herpes zoster dalam tahun pertama selepas pemindahan sumsum tulang alogenik |
+| [NCT00000953](https://clinicaltrials.gov/study/NCT00000953) | Fasa 2 | Selesai | 180 | Brovavir (sorivudine) berbanding acyclovir bagi herpes zoster setempat pada pesakit dijangkiti HIV |
+| [NCT02151240](https://clinicaltrials.gov/study/NCT02151240) | Fasa 4 | Selesai | 94 | Foscarnet berbanding acyclovir intravena bagi herpes zoster di China; kaitan dengan keberkesanan acyclovir adalah lemah |
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [3941520](https://pubmed.ncbi.nlm.nih.gov/3941520/) | 1986 | Sorotan Klinikal | JAMA | Sorotan titik tanda Acyclovir dalam keuntungan terapeutik dan kesan buruk secara khusus dalam herpes zoster; menyimpulkan uji terkawal awal menunjukkan penyembuhan lesi yang dipercepat dan pengurangan kesakitan |
-| [27566094](https://pubmed.ncbi.nlm.nih.gov/27566094/) | 2016 | Kajian Perbandingan | In Vivo | Perbandingan keberkesaan profilaksis kepala-ke-kepala Acyclovir vs Valaciclovir terhadap herpes zoster dalam pesakit hematologi imunokompromis; termasuk simulasi keuntungan kos menyokong Acyclovir sebagai pilihan profilaksis yang cekap kos |
-| [8809466](https://pubmed.ncbi.nlm.nih.gov/8809466/) | 1996 | Ulasan | Clin Microbiol Rev | Ulasan komprehensif virologi VZV, epidemiologi, dan pengurusan klinikal; mendokumentasikan asas bukti klinikal untuk terapi antivirus termasuk Acyclovir dalam herpes zoster merentasi hos imunocelik dan imunokompromis |
-| [12449270](https://pubmed.ncbi.nlm.nih.gov/12449270/) | 2002 | Sorotan Klinikal | Am Fam Physician | Panduan penilaian dan pengurusan untuk Herpes Zoster Ophthalmicus; membincangkan peranan Acyclovir oral dan produgnya dalam mencegah komplikasi okular termasuk keratitis dan uveitis |
-| [10794584](https://pubmed.ncbi.nlm.nih.gov/10794584/) | 2000 | Ulasan | Am Fam Physician | Sorotan pengurusan klinikal herpes zoster dan neuralgia postherpetik; menangani terapi antivirus dengan Acyclovir sebagai asas rawatan dan peranannya dalam mengurangkan kejadian PHN |
-| [6355050](https://pubmed.ncbi.nlm.nih.gov/6355050/) | 1983 | Ulasan | J Antimicrob Chemother | Ulasan bukti awal: Acyclovir intravena dengan ketara menyelesaikan ruam zoster akut; Acyclovir topikal mengawal kerato-uveitis herpes zoster; menubuhkan prinsip antivirus untuk manifestasi sistemik dan okular |
-| [12118839](https://pubmed.ncbi.nlm.nih.gov/12118839/) | 2002 | Ulasan | Sem Pediatr Infect Dis | Mengulas terapi antivirus untuk varisela dan herpes zoster merentasi populasi pediatrik; mengenal pasti Acyclovir sebagai ubat pilihan dengan panduan dos mengikut status imunologi dan cara pentadbiran |
-| [9675639](https://pubmed.ncbi.nlm.nih.gov/9675639/) | 1997 | Ulasan | Intervirology | Mengulas bukti uji klinikal untuk Acyclovir dan produgnya (Valaciclovir, Famciclovir) dalam herpes zoster akut; menyimpulkan keberkesaan daripada uji berbilang pusat besar pada kesakitan yang berkaitan zoster dan penyembuhan lesi |
-| [34137062](https://pubmed.ncbi.nlm.nih.gov/34137062/) | 2021 | Kajian Kes | J Dermatol | Mendokumentasikan kes jangkitan herpes zoster tahan Acyclovir yang berjaya dirawat oleh Amenamevir; menyoroti kepentingan klinikal penyeliaan rintangan dan keperluan untuk pilihan baris kedua dalam kes yang tahan Acyclovir |
-| [9707315](https://pubmed.ncbi.nlm.nih.gov/9707315/) | 1998 | Laporan Kes | Eur J Clin Microbiol Infect Dis | Dua pesakit HIV-positif dengan leukoensefalitis herpes zoster yang mencapai pemulihan klinikal lengkap dan penyelesaian lesi MRI penuh selepas rawatan Acyclovir; menyokong penembusan CNS Acyclovir dan keberkesanan dalam komplikasi neurologi VZV yang teruk |
+| [36851652](https://pubmed.ncbi.nlm.nih.gov/36851652/) | 2023 | Ulasan | Viruses | Jangkitan HSV dan VZV pada pesakit kanser, yang berisiko lebih tinggi |
+| [12449270](https://pubmed.ncbi.nlm.nih.gov/12449270/) | 2002 | Ulasan | Am Fam Physician | Penilaian dan pengurusan herpes zoster ophthalmicus |
+| [3060343](https://pubmed.ncbi.nlm.nih.gov/3060343/) | 1988 | Ulasan | Drug Ther Bull | Acyclovir oral untuk herpes zoster |
+| [12118839](https://pubmed.ncbi.nlm.nih.gov/12118839/) | 2002 | Ulasan | Semin Pediatr Infect Dis | Acyclovir ialah pilihan ubat bagi varicella dan herpes zoster; laluan intravena atau oral bergantung pada imuniti perumah |
+| [33853490](https://pubmed.ncbi.nlm.nih.gov/33853490/) | 2021 | Ulasan | Expert Rev Anti Infect Ther | Kemunculan rintangan VZV terhadap acyclovir, pencegahan dan rawatan |
+| [15341504](https://pubmed.ncbi.nlm.nih.gov/15341504/) | 2004 | Ulasan | Drugs | Brivudin sebagai alternatif untuk herpes zoster akut pada orang dewasa imunokompeten |
+| [7290161](https://pubmed.ncbi.nlm.nih.gov/7290161/) | 1981 | Ulasan | N Engl J Med | Acyclovir dan herpes zoster |
+| [6289962](https://pubmed.ncbi.nlm.nih.gov/6289962/) | 1982 | Ulasan | Br Med J | Ulasan awal mengenai acyclovir |
+| [29631821](https://pubmed.ncbi.nlm.nih.gov/29631821/) | 2018 | Kajian sistematik | Can J Ophthalmol | Rawatan herpes zoster ophthalmicus dan perbandingan kos di Kanada |
+| [9475829](https://pubmed.ncbi.nlm.nih.gov/9475829/) | 1998 | Laporan/ulasan keselamatan | Ann Pharmacother | Neurotoksisiti akibat acyclovir dan ganciclovir; disfungsi renal ialah faktor risiko |
 
 ---
 
-## Maklumat Pasaran Malaysia
+## Cytotoksisiti
 
-Acyclovir disahkan sebagai **berada di pasaran di Malaysia** dengan **46 pendaftaran produk** pada fail dengan NPRA (Agensi Kawal Selia Farmasetik Kebangsaan Malaysia). Rekod pendaftaran individu tidak ditangkap dalam larian data Pakej Bukti ini; kesemua lima entri lesen sampel kembali dengan medan kosong. Perkara berikut mencerminkan data agregat yang tersedia:
-
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjuk yang Diluluskan |
-|---------|------|------|-----------|
-| — | (46 pendaftaran disahkan; butiran produk individu tidak ditangkap dalam larian data ini) | — | Sila rujuk Carian Pendaftaran Produk NPRA di npra.gov.my |
-
-> **Nota**: Untuk mendapatkan penyenaraian produk lengkap termasuk nombor MAL, nama jenama, bentuk dos, dan teks petunjuk yang diluluskan, soalselidik pangkalan data Pendaftaran Produk NPRA menggunakan "Acyclovir" sebagai bahan aktif. Memandangkan 46 pendaftaran, pelbagai bentuk dos oral (tablet/kapsul), intravena (serbuk untuk suntikan), topikal (krim/salap), dan oftalmik dijangka diwakili.
+Bahagian ini tidak berkenaan kerana acyclovir bukan ubat antineoplastik.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk risalah bungkusan untuk maklumat keselamatan.
-
-> Semua medan keselamatan dalam Pakej Bukti ini — termasuk amaran utama, kontraindikasi, dan data interaksi ubat — telah direkod sebagai jurang data. Penilaian keselamatan formal memerlukan pengambilan risalah Malaysia (仿單 / risalah maklumat produk) daripada NPRA dan/atau profil keselamatan DrugBank untuk DB00787.
+- **Kontraindikasi (berdasarkan graf pengetahuan TxGNN, bukan teks label):** Graf pengetahuan mengaitkan ubat ini dengan beberapa keadaan, antaranya penyakit buah pinggang dan gangguan fungsi renal, sindrom hemolitik-uremik, purpura trombositopenia, hipertensi, hiperglisemia/diabetes, strok dan infarksi miokardium, penyakit vaskular periferi, serta insufisiensi adrenokortikal. Senarai ini tidak disahkan oleh teks label rasmi dan perlu disemak oleh pakar.
+- **Neurotoksisiti:** Literatur yang disertakan menyatakan disfungsi renal ialah faktor risiko neurotoksisiti acyclovir; pengurangan dos atau penghentian diperlukan jika berlaku.
+- **Interaksi Ubat:** Pertanyaan selesai dengan 100 interaksi direkodkan. Interaksi tahap **sederhana** ialah balsalazide, mesalazine, olsalazine, sulfasalazine dan trospium. Interaksi lain yang disenaraikan (tahap tidak diketahui) termasuk amphotericin B, metformin, morfin, mannitol, epinephrine, calcitriol, glimepiride, rosiglitazone, doxycycline dan beberapa perencat pam proton (omeprazole, pantoprazole, lansoprazole).
+- Amaran utama dan kontraindikasi daripada sisipan pakej NPRA tidak tersedia. Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Teruskan dengan Pengawal Penjaga**
+**Keputusan: Proceed with Guardrails**
 
-**Alasan:**
-Kesemua lima ramalan TxGNN untuk Acyclovir mewakili petunjuk herpesvirus dengan kekuatan bukti L1 (pelbagai uji klinikal rawak Fasa 3 yang telah selesai). Acyclovir mempunyai lebih empat dekad penggunaan klinikal dunia sebenar, kelulusan kawal selia global yang ditubuhkan (FDA, EMA, dan 46 pendaftaran Malaysia), dan mekanisme tindakannya telah dicirikan dengan menyeluruh dalam kesusasteraan saintifik. Ramalan model selaras dengan tepat dengan farmakologi yang diketahui, mengesahkan kredibiliti mekanik yang tinggi daripada penambahan ubat yang spekulatif.
+**Rasional:**
+- Terdapat dua ujian Fasa 3 yang selesai untuk herpes zoster dan literatur klinikal yang konsisten bahawa acyclovir ialah rawatan standard, justeru tahap bukti L1. Namun, ujian yang disenaraikan kebanyakannya melibatkan acyclovir sebagai pembanding atau berfokus pada pencegahan, dan skor TxGNN dilaporkan 0.0.
+- Tiada produk acyclovir berdaftar di Malaysia berdasarkan data yang dikumpulkan, dan data keselamatan peringkat label tidak lengkap.
 
-**Untuk teruskan, perkara berikut diperlukan:**
-
-- **Pengambilan data lesen NPRA**: Muat turun dan susun rekod pendaftaran MAL individu untuk mengisi nama produk, bentuk dos, teks petunjuk yang diluluskan, dan nombor kebenaran pemasaran untuk kesemua 46 produk terdaftar
-- **Sorotan keselamatan risalah bungkusan**: Ambil dan ekstrak amaran utama, kontraindikasi, dan persediaan penduduk khas daripada risalah maklumat produk Malaysia untuk melengkapkan penilaian keselamatan (pada masa kini menghalang — diklasifikasikan sebagai DG001 Keterukan: Menyekat)
-- **Pengambilan data MOA DrugBank**: Pertanyaan API DrugBank untuk DB00787 untuk mendapatkan mekanisme tindakan formal, kategori ubat, dan klasifikasi toksisiti (DG002 Keterukan: Tinggi)
-- **Pengesahan skor TxGNN**: Selidiki mengapa kesemua lima skor ramalan direkod sebagai 0.0; ini mungkin mencerminkan isu saluran data daripada keluaran model sebenar — nilai skor yang betul diperlukan untuk menyusun dan membandingkan keyakinan ramalan dengan tepat merentasi petunjuk
-- **Pelan pemantauan strain tahan Acyclovir**: Memandangkan bukti strain VZV dan HSV tahan Acyclovir mutasi TK dalam populasi imunokompromis, sebarang pengembangan penggunaan klinikal harus termasuk protokol penyeliaan rintangan
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Semak status pendaftaran NPRA bagi produk acyclovir (mungkin di bawah nama dagang atau bentuk lain) kerana data menunjukkan 0 lesen.
+- Muat turun dan huraikan sisipan pakej NPRA untuk amaran dan kontraindikasi.
+- Data mekanisme tindakan (MOA) daripada DrugBank.
+- Pelan pemantauan fungsi renal dan pelarasan dos untuk pesakit dengan penyakit buah pinggang atau warga emas.
+- Kajian tambahan mengenai rintangan VZV terhadap acyclovir dalam populasi tempatan.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
