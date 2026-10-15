@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-14T23:40:49.518661",
+  "fetched": "2026-10-15T03:13:34.193997",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,20 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
+    {
+      "title": "AIA Excluding Individual IHH Consultants From Panel On ‘Purely Commercial’ Basis: IHH",
+      "url": "https://codeblue.galencentre.org/2026/10/aia-excluding-individual-ihh-consultants-from-panel-on-purely-commercial-basis-ihh/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-15T02:00:00",
+      "summary": "IHH protests the exclusion of individual consultants from AIA's panel, even though its hospitals remain empanelled, saying the exclusions were made on a \"purely commercial\" basis. Even within AIA's Smart hospitals, doctors are classified as \"Smart\" or not. The post AIA Excluding Individual IHH Consultants From Panel On ‘Purely Commercial’ Basis: IHH appeared first on CodeBlue .",
+      "keywords_matched": [
+        "hospital",
+        "doctor",
+        "hospital"
+      ]
+    },
     {
       "title": "Action Plan Needed After Permanent Posts Promised To Pharmacists — MPS",
       "url": "https://codeblue.galencentre.org/2026/10/action-plan-needed-after-permanent-posts-promised-to-pharmacists-mps/",
@@ -92,23 +104,23 @@
       ]
     },
     {
-      "title": "Long Delay In Specialist Recognition, Perform Specialist Duties But MO On-Call Rates — Specialist Doctor",
-      "url": "https://codeblue.galencentre.org/2026/10/long-delay-in-specialist-recognition-perform-specialist-duties-but-mo-on-call-rates-specialist-doctor/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-13T02:00:00",
-      "summary": "After 6 months of SWE, it may take another 5-6 months for issuance of an SWE completion letter. NSR registration may then take a further 4-6 months. During this long admin delay, doctors may perform specialist on-call duties, but get paid MO on-call rates. The post Long Delay In Specialist Recognition, Perform Specialist Duties But MO On-Call Rates — Specialist Doctor appeared first on CodeBlue .",
+      "title": "Fatal Jalan Kuching pile-up: 24-year-old BYD driver claims trial to causing child’s death",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/15/fatal-jalan-kuching-pile-up-24-year-old-byd-driver-claims-trial-to-causing-childs-death/239178",
+      "source": "Malay Mail",
+      "published": "2026-10-15T02:54:07",
+      "summary": "KUALA LUMPUR, Oct 15 — A 24-year-old bank assistant sales manager claimed trial at the Magistrate's Court here...",
       "keywords_matched": [
-        "doctor"
+        "trial"
       ]
     },
     {
-      "title": "Nhaveen murder trial: Prosecution cites contradictions in four accused’s defence",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/14/nhaveen-murder-trial-prosecution-cites-contradictions-in-four-accuseds-defence/239106",
+      "title": "Choking haze sweeps Malaysia: 34 stations unhealthy, zero stations record good air",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/15/choking-haze-sweeps-malaysia-34-stations-unhealthy-zero-stations-record-good-air/239170",
       "source": "Malay Mail",
-      "published": "2026-10-14T08:49:35",
-      "summary": "GEORGE TOWN, Oct 14 — The High Court here was told today that there are four main grounds for the prosecution&rsqu...",
+      "published": "2026-10-15T01:45:40",
+      "summary": "KUALA LUMPUR, Oct 15 — Thick transboundary haze continued to blanket Malaysia this morning, pushing exactly half o...",
       "keywords_matched": [
-        "trial"
+        "health"
       ]
     }
   ]
