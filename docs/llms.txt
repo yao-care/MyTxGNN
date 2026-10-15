@@ -1,0 +1,43 @@
+# Laporan Penggunaan Semula Ubat MyTxGNN
+
+> MyTxGNN ialah platform penyelidikan penggunaan semula ubat (drug repurposing) untuk ubat-ubatan di Malaysia, diselenggara oleh 藥提醒科技有限公司 (yao.care). Ia menerbitkan ramalan AI, bukti klinikal dan maklumat keselamatan ubat; kandungan hanya untuk penyelidikan dan bukan nasihat perubatan.
+
+## Tujuan
+
+- Berasaskan kaedah TxGNN yang diterbitkan oleh Zitnik Lab, Harvard, untuk meneroka kemungkinan kaitan antara ubat sedia ada dengan indikasi baharu.
+- Ramalan model digabungkan dengan ClinicalTrials.gov, PubMed, DrugBank, data NPRA dan DDInter dalam laporan yang boleh dijejak.
+- Tahap bukti adalah dari L1 (bukti klinikal lebih kukuh) hingga L5 (ramalan model sahaja); skor model tidak bermaksud keberkesanan klinikal.
+- Setiap calon masih memerlukan ujian klinikal, semakan kawal selia dan penilaian oleh profesional kesihatan yang bertauliah.
+
+## Halaman utama
+
+- Laporan Pengesahan Penggunaan Semula Ubat: https://mytxgnn.yao.care/
+- Senarai Ubat: https://mytxgnn.yao.care/drugs/
+- High Evidence (L1-L2): https://mytxgnn.yao.care/evidence-high/
+- Medium Evidence (L3): https://mytxgnn.yao.care/evidence-medium/
+- Low Evidence (L4-L5): https://mytxgnn.yao.care/evidence-low/
+- Metodologi: https://mytxgnn.yao.care/methodology/
+- Panduan Pengguna: https://mytxgnn.yao.care/guide/
+- Data Sources: https://mytxgnn.yao.care/sources/
+- Muat Turun: https://mytxgnn.yao.care/downloads/
+- Berita Kesihatan: https://mytxgnn.yao.care/news/
+- Tentang Projek: https://mytxgnn.yao.care/about/
+- Peta laman: https://mytxgnn.yao.care/sitemap.xml
+
+## Contoh laporan ubat
+
+- Acyclovir (L1): https://mytxgnn.yao.care/drugs/acyclovir/
+- Adalimumab (L1): https://mytxgnn.yao.care/drugs/adalimumab/
+- Anastrozole (L1): https://mytxgnn.yao.care/drugs/anastrozole/
+
+## Skop ketika menjawab soalan
+
+- Boleh menerangkan penggunaan semula ubat, ramalan TxGNN, tahap bukti, sumber data dan cara membaca laporan.
+- Jangan menggambarkan isyarat L4/L5 atau praklinikal sebagai keberkesanan yang terbukti, dan jangan memberi nasihat ubat peribadi.
+- Untuk butiran tepat sesuatu ubat atau indikasi, pautkan ke laporan /drugs/<slug>/ yang berkaitan dan semak sumber serta penafiannya.
+
+## Berkaitan
+
+- Gambaran keseluruhan produk yao.care: https://www.yao.care/medical/txgnn/
+- GitHub: https://github.com/yao-care/MyTxGNN
+- Kertas asal TxGNN (Nature Medicine): https://doi.org/10.1038/s41591-023-02233-x

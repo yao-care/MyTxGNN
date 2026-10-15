@@ -1,0 +1,42 @@
+# MyTxGNN — Ringkasan boleh dibaca AI
+
+## Kedudukan platform
+
+MyTxGNN ialah platform penyelidikan penggunaan semula ubat (drug repurposing) untuk ubat-ubatan di Malaysia, diselenggara oleh 藥提醒科技有限公司 (yao.care). Ia menerbitkan ramalan AI, bukti klinikal dan maklumat keselamatan ubat; kandungan hanya untuk penyelidikan dan bukan nasihat perubatan.
+
+## Kaedah dan bukti
+
+Berasaskan kaedah TxGNN yang diterbitkan oleh Zitnik Lab, Harvard, untuk meneroka kemungkinan kaitan antara ubat sedia ada dengan indikasi baharu. Ramalan model digabungkan dengan ClinicalTrials.gov, PubMed, DrugBank, data NPRA dan DDInter dalam laporan yang boleh dijejak.
+
+Tahap bukti adalah dari L1 (bukti klinikal lebih kukuh) hingga L5 (ramalan model sahaja); skor model tidak bermaksud keberkesanan klinikal. Setiap calon masih memerlukan ujian klinikal, semakan kawal selia dan penilaian oleh profesional kesihatan yang bertauliah.
+
+## Kandungan utama
+
+- `/` Laporan Pengesahan Penggunaan Semula Ubat — Ramalan penggunaan semula ubat berkuasa AI untuk ubat yang diluluskan NPRA Malaysia menggunakan graf pengetahuan TxGNN dan model pembelajaran mendalam.
+- `/drugs/` Senarai Ubat — Browse all 508 drugs with drug repurposing predictions from MyTxGNN
+- `/evidence-high/` High Evidence (L1-L2) — L1-L2 drug repurposing candidates with strong clinical trial or systematic review evidence.
+- `/evidence-medium/` Medium Evidence (L3) — L3 drug repurposing candidates with moderate clinical evidence requiring further investigation.
+- `/evidence-low/` Low Evidence (L4-L5) — L4-L5 drug repurposing candidates with limited clinical evidence, primarily AI predictions.
+- `/methodology/` Metodologi — MyTxGNN prediction and validation methodology
+- `/guide/` Panduan Pengguna — How to use MyTxGNN drug repurposing prediction platform
+- `/sources/` Data Sources — Data sources used in MyTxGNN drug repurposing predictions
+- `/downloads/` Muat Turun — Download MyTxGNN drug repurposing prediction data
+- `/news/` Berita Kesihatan — Pemantauan berita kesihatan automatik untuk ubat dan indikasi di Malaysia.
+- `/about/` Tentang Projek — MyTxGNN is a drug repurposing prediction platform based on Harvard's TxGNN model, focused on Malaysia NPRA-approved drugs.
+
+## Contoh laporan ubat
+
+- Acyclovir (L1): https://mytxgnn.yao.care/drugs/acyclovir/
+- Adalimumab (L1): https://mytxgnn.yao.care/drugs/adalimumab/
+- Anastrozole (L1): https://mytxgnn.yao.care/drugs/anastrozole/
+
+## Petikan dan batasan
+
+Sila petik kertas asal TxGNN (https://doi.org/10.1038/s41591-023-02233-x). Kandungan dan ramalan laman ini hanya untuk penyelidikan dan pendidikan dan bukan nasihat perubatan; sebarang penggunaan sebenar mesti disahkan oleh profesional bertauliah, ujian klinikal dan semakan kawal selia.
+
+## Pautan rasmi
+
+- https://mytxgnn.yao.care/
+- https://www.yao.care/medical/txgnn/
+- https://github.com/yao-care/MyTxGNN
+- https://doi.org/10.1038/s41591-023-02233-x
