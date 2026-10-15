@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-15T08:50:59.419901",
+  "fetched": "2026-10-15T13:56:35.402605",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,28 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
+    {
+      "title": "Putrajaya Paying RM130,000 Each To Four FDS Crash Victims’ Families",
+      "url": "https://codeblue.galencentre.org/2026/10/putrajaya-paying-rm130000-each-to-four-fds-crash-victims-families/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-15T10:30:35",
+      "summary": "MOH announces federal lump-sum payments of at least RM130,000 to each family of its four staff killed in the Long Lellang tragedy. But MOH didn't mention any payment from Putrajaya for the family of the fifth victim, the pilot, who was a private worker. The post Putrajaya Paying RM130,000 Each To Four FDS Crash Victims’ Families appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "e-CKAPS Licensing Portal Expected To Expedite Hospital Licensing — APHM",
+      "url": "https://codeblue.galencentre.org/2026/10/e-ckaps-licensing-portal-expected-to-expedite-hospital-licensing-aphm/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-15T09:30:30",
+      "summary": "APHM believes e‑CKAPS can set a benchmark for wider digitalisation across the health care sector, in line with the Ministry of Health’s vision to digitalise Malaysia’s health care sector. The post e-CKAPS Licensing Portal Expected To Expedite Hospital Licensing — APHM appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "hospital",
+        "hospital"
+      ]
+    },
     {
       "title": "Bend The Bamboo While It’s Still A Shoot: The Ticking Time Bomb Of Overprotective Parenting",
       "url": "https://codeblue.galencentre.org/2026/10/bend-the-bamboo-while-its-still-a-shoot-the-ticking-time-bomb-of-overprotective-parenting/",
@@ -84,32 +104,23 @@
       "keywords_matched": []
     },
     {
-      "title": "Budget 2027: Missed Opportunity To Prioritise Malaysians’ Health — MyWatch",
-      "url": "https://codeblue.galencentre.org/2026/10/budget-2027-missed-opportunity-to-prioritise-malaysians-health-mywatch/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-13T07:30:00",
-      "summary": "Perhaps the most glaring disappointment is the absence of any further increase in tobacco excise duties. We are equally dismayed by the absence of a clear commitment to ban the commercial sale and distribution of recreational vaping products. The post Budget 2027: Missed Opportunity To Prioritise Malaysians’ Health — MyWatch appeared first on CodeBlue .",
+      "title": "Malaysia’s haze map turns red: Klang, Nilai, Shah Alam among worst affected at near‑200 API",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/15/malaysias-haze-map-turns-red-klang-nilai-shah-alam-among-worst-affected-at-near200-api/239237",
+      "source": "Malay Mail",
+      "published": "2026-10-15T10:54:08",
+      "summary": "KUALA LUMPUR, Oct 15 — A total of 34 areas recorded unhealthy Air Pollutant Index (API) readings as of 5pm today,...",
       "keywords_matched": [
         "health"
       ]
     },
     {
-      "title": "Thirteen Years Without Prof Radin Umar: The Will To Act Is Still Missing — Shahrim Tamrin",
-      "url": "https://codeblue.galencentre.org/2026/10/thirteen-years-without-prof-radin-umar-the-will-to-act-is-still-missing-shahrim-tamrin/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-13T06:07:29",
-      "summary": "The greatest tribute to the man who fought to build Miros is not to preserve its name, but to preserve the reason it was built. The post Thirteen Years Without Prof Radin Umar: The Will To Act Is Still Missing — Shahrim Tamrin appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Health Ministry races to stock aerochambers and nebulisers as haze drives surge in respiratory cases",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/15/health-ministry-races-to-stock-aerochambers-and-nebulisers-as-haze-drives-surge-in-respiratory-cases/239203",
+      "title": "Dzulkefly: Families of MOH staff killed in Sarawak helicopter crash to receive pensions from Oct 21",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/15/dzulkefly-families-of-moh-staff-killed-in-sarawak-helicopter-crash-to-receive-pensions-from-oct-21/239236",
       "source": "Malay Mail",
-      "published": "2026-10-15T07:10:38",
-      "summary": "KUALA LUMPUR, Oct 15 — The Health Ministry (MOH) has increased stocks of medical equipment at healthcare facilitie...",
+      "published": "2026-10-15T10:31:54",
+      "summary": "PUTRAJAYA, Oct 15 — The next-of-kin of four Ministry of Health (MOH) staff who perished in a helicopter crash in L...",
       "keywords_matched": [
-        "health",
-        "medical"
+        "health"
       ]
     }
   ]
