@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Terbutaline: indikasi baharu diramal Penyakit paru obstruktif (obstructive lung disease) (tahap bukti L1). Indikasi asal: Asma, asma intrinsik, asma alergi, bronkitis, dermatitis…"
+monitor_inn: "terbutaline"
+predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome"]
 ---
 
 # Terbutaline

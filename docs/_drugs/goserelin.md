@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Goserelin: indikasi baharu diramal Amenorea (tahap bukti L2). Indikasi asal: Endometriosis (endometriosis uterus)"
+monitor_inn: "goserelin"
+predicted_indications: ["amenorrhea (disease)", "renal hypoplasia (disease)", "renal hypoplasia, bilateral"]
 ---
 
 # Goserelin

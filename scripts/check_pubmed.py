@@ -105,7 +105,7 @@ ESUMMARY_URL = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi"
 CACHE_FILE = Path(__file__).parent.parent / "data" / "cache" / "pubmed_cache.json"
 DRUG_LIST_FILE = Path(__file__).parent / "drug_list.json"
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")
-GITHUB_REPO = os.environ.get("GITHUB_REPOSITORY", "yao-care/MyTxGNN")
+GITHUB_REPO = os.environ.get("GITHUB_REPOSITORY", "yao-care/EuTxGNN")
 NCBI_API_KEY = os.environ.get("NCBI_API_KEY")  # Optional, for higher rate limits
 RATE_LIMIT_DELAY = 0.4 if NCBI_API_KEY else 1.0  # seconds between API calls
 
@@ -170,6 +170,43 @@ def search_pubmed(drug_name: str, indication: str = "", days_back: int = 7) -> l
         return []
 
 
+def _clean_indication(name: str) -> str:
+    name = re.sub(r"\s*\((disease|disorder)\)\s*", " ", name, flags=re.I)
+    return re.sub(r"\s+", " ", name).strip().replace('"', "")
+
+
+def search_pubmed_predicted(inn: str, indications: list, days_back: int = 7) -> list:
+    """2026-10-16：查「INN AND (預測新適應症1 OR …)」，只抓和預測有關的新文獻。"""
+    terms = [f'"{_clean_indication(i)}"[Title/Abstract]' for i in indications if len(_clean_indication(i)) > 3]
+    if not terms:
+        return []
+    query = f'"{inn}"[Title/Abstract] AND (' + " OR ".join(terms) + ")"
+    params = {
+        "db": "pubmed",
+        "term": query,
+        "datetype": "edat",
+        "reldate": days_back,
+        "retmode": "json",
+        "retmax": 50,
+        "sort": "date",
+    }
+    if NCBI_API_KEY:
+        params["api_key"] = NCBI_API_KEY
+    try:
+        response = requests.get(ESEARCH_URL, params=params, timeout=30)
+        response.raise_for_status()
+        return response.json().get("esearchresult", {}).get("idlist", [])
+    except requests.RequestException as e:
+        print(f"Error searching PubMed for {inn}: {e}")
+        return []
+
+
+def matched_indications(papers: list, indications: list) -> list:
+    """以論文標題比對命中哪些預測新適應症；比對不到就回傳空串列。"""
+    titles = " ".join(p.get("title", "") for p in papers).lower()
+    return [i for i in indications if _clean_indication(i).lower() in titles]
+
+
 def get_paper_details(pmids: list) -> list:
     """Get details for a list of PMIDs."""
     if not pmids:
@@ -209,9 +246,13 @@ def get_paper_details(pmids: list) -> list:
         return []
 
 
-def create_github_issue(drug_name: str, new_papers: list):
+def create_github_issue(drug_name: str, new_papers: list, indications: list = None):
     """Create a GitHub Issue for new papers found."""
+    indications = indications or []
+    ind_label = "; ".join(indications[:2]) + (" …" if len(indications) > 2 else "")
     title = f"📚 New Publications: {drug_name} ({len(new_papers)} papers)"
+    if ind_label:
+        title += f" → {ind_label}"  # 接在數量後面，github_utils 以「：…(」擷取藥名才對得上
 
     if not GITHUB_TOKEN:
         print(f"[DRY RUN] Would create issue for {drug_name} with {len(new_papers)} new papers")
@@ -243,6 +284,12 @@ This issue was automatically created by GitHub Actions.
 
 ### Drug Name
 {drug_name}
+
+### Predicted New Indication(s)
+{chr(10).join("- " + x for x in indications) if indications else "-"}
+
+### PMIDs
+{", ".join(p["pmid"] for p in new_papers)}
 
 ### Data Source
 PubMed
@@ -303,7 +350,10 @@ def main():
 
         print(f"\n[{i+1}/{len(drugs)}] Checking: {drug_name}")
 
-        pmids = search_pubmed(drug_name, indication, days_back=7)
+        predicted = drug.get("predicted_indications") or []
+        if not predicted or not drug.get("inn"):
+            continue
+        pmids = search_pubmed_predicted(drug["inn"], predicted, days_back=7)
         time.sleep(RATE_LIMIT_DELAY)
 
         if not pmids:
@@ -330,7 +380,8 @@ def main():
                     print(f"  Found {len(papers)} new papers!")
                     new_findings.append({
                         "drug": drug_name,
-                        "papers": papers
+                        "papers": papers,
+                        "indications": matched_indications(papers, predicted) or predicted,
                     })
 
             # Update seen PMIDs
@@ -352,7 +403,7 @@ def main():
         print(f"New findings: {len(new_findings)}")
         print("\nCreating Issues...")
         for finding in new_findings:
-            create_github_issue(finding["drug"], finding["papers"])
+            create_github_issue(finding["drug"], finding["papers"], finding["indications"])
     else:
         print("No new papers found.")
 

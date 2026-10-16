@@ -104,7 +104,7 @@ API_BASE = "https://clinicaltrials.gov/api/v2/studies"
 CACHE_FILE = Path(__file__).parent.parent / "data" / "cache" / "clinicaltrials_cache.json"
 DRUG_LIST_FILE = Path(__file__).parent / "drug_list.json"
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")
-GITHUB_REPO = os.environ.get("GITHUB_REPOSITORY", "yao-care/MyTxGNN")
+GITHUB_REPO = os.environ.get("GITHUB_REPOSITORY", "yao-care/EuTxGNN")
 RATE_LIMIT_DELAY = 0.5  # seconds between API calls
 
 
@@ -158,8 +158,16 @@ def _role_bound(study: dict, drug_name: str) -> bool:
             return True
     return False
 
-def search_trials(drug_name: str, days_back: int = 7) -> list:
-    """Search for trials updated in the last N days."""
+def _clean_condition(name: str) -> str:
+    name = re.sub(r"\s*\((disease|disorder)\)\s*", " ", name, flags=re.I)
+    return re.sub(r"\s+", " ", name).strip().replace('"', "")
+
+
+def search_trials(drug_name: str, days_back: int = 7, conditions: list = None) -> list:
+    """Search for trials updated in the last N days.
+
+    2026-10-16：conditions 給預測新適應症時，只抓「藥＋這些疾病」的試驗。
+    """
     min_date = (datetime.now() - timedelta(days=days_back)).strftime("%Y-%m-%d")
 
     params = {
@@ -168,9 +176,19 @@ def search_trials(drug_name: str, days_back: int = 7) -> list:
         "pageSize": 50,
         "fields": "NCTId,BriefTitle,OverallStatus,Phase,EnrollmentCount,Condition,LastUpdatePostDate,InterventionName,InterventionType,InterventionOtherName"
     }
+    # ClinicalTrials.gov 對過長片語回 400「Too complicated query」：略過超過 6 個字的疾病名
+    conds = [f'"{_clean_condition(c)}"' for c in (conditions or [])
+             if len(_clean_condition(c)) > 3 and len(_clean_condition(c).split()) <= 6]
+    if conditions and not conds:
+        return []
+    if conds:
+        params["query.cond"] = " OR ".join(conds)
 
     try:
         response = requests.get(API_BASE, params=params, timeout=30)
+        if response.status_code == 400 and len(conds) > 3:
+            params["query.cond"] = " OR ".join(conds[:3])
+            response = requests.get(API_BASE, params=params, timeout=30)
         response.raise_for_status()
         data = response.json()
         return [s for s in data.get("studies", []) if _role_bound(s, drug_name)]
@@ -179,9 +197,13 @@ def search_trials(drug_name: str, days_back: int = 7) -> list:
         return []
 
 
-def create_github_issue(drug_name: str, new_trials: list):
+def create_github_issue(drug_name: str, new_trials: list, indications: list = None):
     """Create a GitHub Issue for new trials found."""
+    indications = indications or []
+    ind_label = "; ".join(indications[:2]) + (" …" if len(indications) > 2 else "")
     title = f"🔬 New Clinical Trials: {drug_name} ({len(new_trials)} trials)"
+    if ind_label:
+        title += f" → {ind_label}"  # 接在數量後面，github_utils 以「：…(」擷取藥名才對得上
 
     if not GITHUB_TOKEN:
         print(f"[DRY RUN] Would create issue for {drug_name} with {len(new_trials)} new trials")
@@ -225,6 +247,12 @@ This issue was automatically created by GitHub Actions.
 
 ### Drug Name
 {drug_name}
+
+### Predicted New Indication(s)
+{chr(10).join("- " + x for x in indications) if indications else "-"}
+
+### NCT IDs
+{", ".join(t.get("protocolSection", {}).get("identificationModule", {}).get("nctId", "") for t in new_trials)}
 
 ### Data Source
 ClinicalTrials.gov
@@ -283,7 +311,10 @@ def main():
 
         print(f"\n[{i+1}/{len(drugs)}] Checking: {drug_name}")
 
-        trials = search_trials(drug_name, days_back=7)
+        predicted = drug.get("predicted_indications") or []
+        if not predicted or not drug.get("inn"):
+            continue
+        trials = search_trials(drug["inn"], days_back=7, conditions=predicted)
         time.sleep(RATE_LIMIT_DELAY)
 
         if not trials:
@@ -309,9 +340,11 @@ def main():
                 print(f"  Only {len(new_trials)} trial found - below threshold")
             else:
                 print(f"  Found {len(new_trials)} new trials!")
+                conds = " ".join(" ".join(t.get("protocolSection", {}).get("conditionsModule", {}).get("conditions", [])) for t in new_trials).lower()
                 new_findings.append({
                     "drug": drug_name,
-                    "trials": new_trials
+                    "trials": new_trials,
+                    "indications": [x for x in predicted if _clean_condition(x).lower() in conds] or predicted,
                 })
 
         # Update seen trials
@@ -331,7 +364,7 @@ def main():
         print(f"New findings: {len(new_findings)}")
         print("\nCreating Issues...")
         for finding in new_findings:
-            create_github_issue(finding["drug"], finding["trials"])
+            create_github_issue(finding["drug"], finding["trials"], finding["indications"])
     else:
         print("No new trials found.")
 

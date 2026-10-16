@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Niraparib: indikasi baharu diramal Neoplasma sista (cystic neoplasm) (tahap bukti L5). Indikasi asal: Kanser peritoneum, tumor epitelium malignan ovari…"
+monitor_inn: "niraparib"
+predicted_indications: ["epiglottis neoplasm", "cystic neoplasm", "benign neoplasm of hypopharynx", "benign neoplasm of tongue", "benign neoplasm of floor of mouth", "cervical neuroblastoma", "tumor of testis and paratestis", "inner ear neoplasm", "pre-malignant neoplasm", "schwannoma of jugular foramen"]
 ---
 
 # Niraparib

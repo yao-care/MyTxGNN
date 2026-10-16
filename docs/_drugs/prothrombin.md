@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Prothrombin: indikasi baharu diramal Glanzmann thrombasthenia (tahap bukti L5). Indikasi asal: Tiada data (tiada lesen berdaftar)"
+monitor_inn: "prothrombin"
+predicted_indications: ["Glanzmann thrombasthenia", "primary release disorder of platelets"]
 ---
 
 # Prothrombin

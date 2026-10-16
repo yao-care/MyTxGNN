@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-10-15
 description: "Framycetin: indikasi baharu diramal Sclerosing cholangitis (tahap bukti L5). Indikasi asal: Tiada data (tiada lesen NPRA yang direkodkan)"
+monitor_inn: "framycetin"
+predicted_indications: ["sclerosing cholangitis", "urinary tract infection (disease)", "congenital prothrombin deficiency", "Ureaplasma urethritis", "gonococcal urethritis", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis"]
 ---
 
 # Framycetin

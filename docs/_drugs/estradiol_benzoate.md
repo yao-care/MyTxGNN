@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Estradiol Benzoate: indikasi baharu diramal Migraine disorder (migrain) (tahap bukti L4). Indikasi asal: Tiada data tersedia"
+monitor_inn: "estradiol benzoate"
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "thrombotic disease"]
 ---
 
 # Estradiol Benzoate

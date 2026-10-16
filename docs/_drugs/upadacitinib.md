@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Upadacitinib: indikasi baharu diramal Sindrom displasia rizomelik-mikroftalmia kolobomatus (tahap bukti L5). Indikasi asal: Artritis reumatoid"
+monitor_inn: "upadacitinib"
+predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
 ---
 
 # Upadacitinib

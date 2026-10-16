@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Fluphenazine: indikasi baharu diramal Distrofi retina dengan atau tanpa anomali ekstraokular (tahap bukti L5). Indikasi asal: Skizofrenia, gangguan psikotik, gangguan skizoafektif…"
+monitor_inn: "fluphenazine"
+predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "syndromic myopia", "myopia X-linked", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "myopia 26, X-linked, female-limited", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "atypical glycine encephalopathy", "manic bipolar affective disorder"]
 ---
 
 # Fluphenazine

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Eribulin: indikasi baharu diramal Demam Mediterranean familial resesif autosom (tahap bukti L5). Indikasi asal: Liposarkoma (berdasarkan graf pengetahuan TxGNN"
+monitor_inn: "eribulin"
+predicted_indications: ["autosomal recessive familial Mediterranean fever", "dermatofibrosarcoma protuberans", "pleural mesothelioma", "malignant peritoneal mesothelioma", "ovarian myxoid liposarcoma", "pleural adenomatoid tumor", "pleural biphasic mesothelioma", "fibroblastic neoplasm", "pleural epithelioid mesothelioma", "heart fibrosarcoma"]
 ---
 
 # Eribulin

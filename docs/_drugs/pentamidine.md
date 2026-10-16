@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Pentamidine: indikasi baharu diramal Keratokonjunktivitis epitelium berpunktat (tahap bukti L5). Indikasi asal: Pneumocystosis, trypanosomiasis Afrika manusia, trypanosomiasis"
+monitor_inn: "pentamidine"
+predicted_indications: ["punctate epithelial keratoconjunctivitis", "neurotrophic keratopathy", "exposure keratitis", "non-human animal disease", "congenital analbuminemia"]
 ---
 
 # Pentamidine

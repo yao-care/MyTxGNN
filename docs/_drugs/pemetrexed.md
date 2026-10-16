@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Pemetrexed: indikasi baharu diramal Mesotelioma peritoneum malignan (tahap bukti L5). Indikasi asal: Kanser paru-paru bukan sel kecil, kanser paru-paru…"
+monitor_inn: "pemetrexed"
+predicted_indications: ["malignant peritoneal mesothelioma", "pleural adenomatoid tumor", "pleural mesothelioma", "pleural epithelioid mesothelioma", "pleural sarcomatoid mesothelioma", "pleural biphasic mesothelioma", "pericardium cancer", "well differentiated papillary mesothelioma", "lymphohistiocytoid mesothelioma", "iminoglycinuria"]
 ---
 
 # Pemetrexed

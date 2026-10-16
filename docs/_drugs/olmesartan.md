@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Olmesartan: indikasi baharu diramal Angina Prinzmetal (tahap bukti L5). Indikasi asal: Tiada dalam data pendaftaran NPRA (secara umum: hipertensi)"
+monitor_inn: "olmesartan"
+predicted_indications: ["Prinzmetal angina", "hypotrichosis simplex of the scalp", "migraine disorder", "alopecia", "pulmonary hypertension", "congenital hypotrichosis milia", "diffuse alopecia areata", "migraine with brainstem aura", "kyphoscoliotic heart disease", "open-angle glaucoma"]
 ---
 
 # Olmesartan

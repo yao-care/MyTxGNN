@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-10-15
 description: "Valbenazine: indikasi baharu diramal Psychogenic movement disorders (tahap bukti L5). Indikasi asal: Tardive dyskinesia"
+monitor_inn: "valbenazine"
+predicted_indications: ["psychogenic movement disorders", "primary orthostatic tremor", "tremor-nystagmus-duodenal ulcer syndrome", "benign paroxysmal tonic upgaze of childhood with ataxia", "chronic tic disorder", "extrapyramidal and movement disease", "benign shuddering attacks"]
 ---
 
 # Valbenazine

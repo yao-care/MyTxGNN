@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Streptomycin: indikasi baharu diramal Konjunktivitis (tahap bukti L4). Indikasi asal: Tuberkulosis paru-paru (juga kankroid, leptospirosis…"
+monitor_inn: "streptomycin"
+predicted_indications: ["conjunctivitis", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "otitis externa", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "Lyme disease", "infectious otitis interna"]
 ---
 
 # Streptomycin

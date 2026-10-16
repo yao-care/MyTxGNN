@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Amikacin: indikasi baharu diramal Demam paratifoid (paratyphoid fever) (tahap bukti L4). Indikasi asal: Radang paru-paru bakteria, jangkitan Pseudomonas aeruginosa…"
+monitor_inn: "amikacin"
+predicted_indications: ["paratyphoid fever", "diffuse scleroderma", "punctate epithelial keratoconjunctivitis", "typhoid fever", "epiglottitis", "salmonellosis", "congenital analbuminemia", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "meningococcemia"]
 ---
 
 # Amikacin

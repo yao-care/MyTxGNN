@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Desvenlafaxine: indikasi baharu diramal Gangguan obsesif-kompulsif (OCD) (tahap bukti L4). Indikasi asal: Kemurungan unipolar, kemurungan endogen, gangguan kemurungan major…"
+monitor_inn: "desvenlafaxine"
+predicted_indications: ["obsessive-compulsive disorder", "schizotypal personality disorder", "schizoid personality disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "Ohdo syndrome and variants", "benign paroxysmal torticollis of infancy", "dysthymic disorder", "agoraphobia", "melancholia"]
 ---
 
 # Desvenlafaxine

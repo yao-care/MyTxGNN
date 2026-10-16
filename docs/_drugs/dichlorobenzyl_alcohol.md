@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Dichlorobenzyl Alcohol: indikasi baharu diramal Bronkitis (tahap bukti L5). Indikasi asal: Tiada data indikasi diluluskan dalam data yang dikumpulkan (antisepti…"
+monitor_inn: "dichlorobenzyl alcohol"
+predicted_indications: ["bronchitis", "migraine disorder"]
 ---
 
 # Dichlorobenzyl Alcohol

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Ademetionine: indikasi baharu diramal Jerawat (acne) (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar"
+monitor_inn: "ademetionine"
+predicted_indications: ["acne (disease)", "colonic neoplasm", "cecum villous adenoma", "lipoma of colon", "rectosigmoid junction neoplasm", "colonic lymphangioma", "cecum neuroendocrine tumor G1", "cecal disease", "benign neoplasm of cecum", "colon leiomyoma"]
 ---
 
 # Ademetionine
