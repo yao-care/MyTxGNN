@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 242
 evidence_level: L5
 indication_count: 8
+last_modified_at: 2026-10-15
+description: "Corifollitropin Alfa: indikasi baharu diramal Gastroduodenitis (tahap bukti L5). Indikasi asal: Tiada data indikasi yang diluluskan daripada data tempatan yang dikum…"
 ---
 
 # Corifollitropin Alfa

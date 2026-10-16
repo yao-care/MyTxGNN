@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 445
 evidence_level: L4
 indication_count: 2
+last_modified_at: 2026-10-15
+description: "Lansoprazole: indikasi baharu diramal Refluks duodenogastrik (duodenogastric reflux) (tahap bukti L4). Indikasi asal: Ulser gastrik, penyakit ulser peptik, GERD, esofagitis…"
 ---
 
 # Lansoprazole

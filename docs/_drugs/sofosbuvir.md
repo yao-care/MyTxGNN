@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 653
 evidence_level: L5
 indication_count: 8
+last_modified_at: 2026-10-15
+description: "Sofosbuvir: indikasi baharu diramal Jangkitan virus hepatitis B (tahap bukti L5). Indikasi asal: Jangkitan virus hepatitis C kronik"
 ---
 
 # Sofosbuvir

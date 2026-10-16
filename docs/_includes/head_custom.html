@@ -62,7 +62,7 @@ window.TXGNN_ANALYTICS = {
 <link rel="alternate" type="application/rss+xml" title="MyTxGNN Latest Updates" href="{{ '/feed.xml' | absolute_url }}">
 
 <!-- YMYL 審核資訊 Meta -->
-<meta name="last-reviewed" content="2026-02-19">
+<meta name="last-reviewed" content="{{ page.last_modified_at | default: '2026-02-19' | date: '%Y-%m-%d' }}">
 <meta name="reviewed-by" content="藥提醒科技有限公司 (yao.care)">
 
 <script type="application/ld+json">
@@ -133,8 +133,8 @@ window.TXGNN_ANALYTICS = {
       "description": "{{ page.description | default: page.title | append: ' drug repurposing potential analysis' }}",
       "url": "{{ page.url | absolute_url }}",
       "datePublished": "2026-02-19",
-      "dateModified": "2026-02-19",
-      "lastReviewed": "2026-02-19",
+      "dateModified": "{{ page.last_modified_at | default: '2026-02-19' | date: '%Y-%m-%d' }}",
+      "lastReviewed": "{{ page.last_modified_at | default: '2026-02-19' | date: '%Y-%m-%d' }}",
       "reviewedBy": {
         "@id": "https://www.yao.care/#organization"
       },
@@ -212,7 +212,7 @@ window.TXGNN_ANALYTICS = {
       }
     },
     {
-      "@type": "Article",
+      "@type": "WebPage",
       "@id": "https://mytxgnn.yao.care/#article",
       "headline": "Drug Repurposing: From Data to Evidence",
       "description": "AI-predicted new indications for medicines approved in Malaysia, with clinical trial and literature evidence reports",

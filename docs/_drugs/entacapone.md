@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 324
 evidence_level: L5
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Entacapone: indikasi baharu diramal Penyakit Parkinson (kedudukan ke-3 (tahap bukti L5). Indikasi asal: Penyakit Parkinson"
 ---
 
 # Entacapone

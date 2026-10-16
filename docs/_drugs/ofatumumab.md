@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 539
 evidence_level: L2
 indication_count: 8
+last_modified_at: 2026-10-15
+description: "Ofatumumab: indikasi baharu diramal Limfoma folikular (tahap bukti L2). Indikasi asal: Leukemia limfoblastik/limfositik akut"
 ---
 
 # Ofatumumab

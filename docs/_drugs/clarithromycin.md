@@ -5,6 +5,8 @@ parent: Medium Evidence (L3)
 nav_order: 228
 evidence_level: L3
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Clarithromycin: indikasi baharu diramal Sinusitis maksila (tahap bukti L3). Indikasi asal: Otitis media berjangkit (indikasi pertama dalam senarai indikasi asal…"
 ---
 
 # Clarithromycin

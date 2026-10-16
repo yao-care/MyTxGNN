@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 249
 evidence_level: L4
 indication_count: 9
+last_modified_at: 2026-10-15
+description: "Cytarabine: indikasi baharu diramal Karsinoma paru-paru sel kecil (small cell lung carcinoma) (tahap bukti L4). Indikasi asal: Leukemia limfoblastik akut dan leukemia mieloid akut (berdasarkan gra…"
 ---
 
 # Cytarabine

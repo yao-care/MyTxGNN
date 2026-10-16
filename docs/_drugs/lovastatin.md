@@ -5,6 +5,8 @@ parent: Medium Evidence (L3)
 nav_order: 479
 evidence_level: L3
 indication_count: 6
+last_modified_at: 2026-10-15
+description: "Lovastatin: indikasi baharu diramal Hiperkolesterolemia familial homozigot (tahap bukti L3). Indikasi asal: Hiperlipidemia (termasuk hipertrigliseridemia…"
 ---
 
 # Lovastatin

@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 367
 evidence_level: L5
 indication_count: 9
+last_modified_at: 2026-10-15
+description: "Flupentixol: indikasi baharu diramal Distrofi retina dengan atau tanpa anomali ekstraokular (tahap bukti L5). Indikasi asal: Skizofrenia"
 ---
 
 # Flupentixol

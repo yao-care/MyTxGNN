@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 110
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Avelumab: indikasi baharu diramal Tumor berkaitan virus herpes manusia 8 (HHV-8) (tahap bukti L5). Indikasi asal: Karsinoma neuroendokrin kutaneus"
 ---
 
 # Avelumab

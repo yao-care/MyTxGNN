@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 418
 evidence_level: L1
 indication_count: 6
+last_modified_at: 2026-10-15
+description: "Insulin Degludec: indikasi baharu diramal Diabetes mellitus jenis 1 (tahap bukti L1). Indikasi asal: Diabetes mellitus"
 ---
 
 # Insulin Degludec

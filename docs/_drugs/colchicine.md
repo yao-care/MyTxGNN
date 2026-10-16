@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 241
 evidence_level: L5
 indication_count: 3
+last_modified_at: 2026-10-15
+description: "Colchicine: indikasi baharu diramal Malaria Plasmodium falciparum (tahap bukti L5). Indikasi asal: Gout, demam Mediterranean keluarga (FMF)"
 ---
 
 # Colchicine

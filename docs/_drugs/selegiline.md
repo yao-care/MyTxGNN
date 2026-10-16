@@ -5,6 +5,8 @@ parent: Medium Evidence (L3)
 nav_order: 638
 evidence_level: L3
 indication_count: 4
+last_modified_at: 2026-10-15
+description: "Selegiline: indikasi baharu diramal Skizofrenia (tahap bukti L3). Indikasi asal: Penyakit Parkinson, gangguan kemurungan major…"
 ---
 
 # Selegiline

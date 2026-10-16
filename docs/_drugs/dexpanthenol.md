@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 274
 evidence_level: L4
 indication_count: 7
+last_modified_at: 2026-10-15
+description: "Dexpanthenol: indikasi baharu diramal Exanthem (ruam kulit) (tahap bukti L4). Indikasi asal: Ileus paralitik, halangan usus, gastroparesis, dermatitis…"
 ---
 
 # Dexpanthenol

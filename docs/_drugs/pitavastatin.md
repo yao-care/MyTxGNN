@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 582
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Pitavastatin: indikasi baharu diramal Hiperlipidemia gabungan familial (obsolete familial combined hyperlip… (tahap bukti L5). Indikasi asal: Tiada maklumat indikasi berdaftar tempatan"
 ---
 
 # Pitavastatin

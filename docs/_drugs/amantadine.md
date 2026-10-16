@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 51
 evidence_level: L5
 indication_count: 4
+last_modified_at: 2026-10-15
+description: "Amantadine: indikasi baharu diramal Rasmussen subacute encephalitis (tahap bukti L5). Indikasi asal: Penyakit Parkinson (dan gangguan parkinsonisme yang berkaitan)"
 ---
 
 # Amantadine

@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 606
 evidence_level: L4
 indication_count: 3
+last_modified_at: 2026-10-15
+description: "Propylthiouracil: indikasi baharu diramal Rintangan hormon tiroid akibat mutasi reseptor hormon tiroid beta (tahap bukti L4). Indikasi asal: Hipertiroidisme, penyakit Graves, tirotoksikosis…"
 ---
 
 # Propylthiouracil

@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 229
 evidence_level: L4
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Clavulanic Acid: indikasi baharu diramal Pneumonia streptokokus (tahap bukti L4). Indikasi asal: Jangkitan saluran kencing"
 ---
 
 # Clavulanic Acid

@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 561
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Pembrolizumab: indikasi baharu diramal Fibromatosis gingiva (fibromatosis, gingival) (tahap bukti L5). Indikasi asal: Kanser paru-paru bukan sel kecil, kanser paru-paru…"
 ---
 
 # Pembrolizumab

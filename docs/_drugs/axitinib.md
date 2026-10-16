@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 112
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Axitinib: indikasi baharu diramal Karsinoma sel renal berkaitan neuroblastoma (tahap bukti L5). Indikasi asal: Karsinoma sel renal (termasuk karsinoma sel renal sel jernih dan buka…"
 ---
 
 # Axitinib

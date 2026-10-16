@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 644
 evidence_level: L5
 indication_count: 6
+last_modified_at: 2026-10-15
+description: "Silodosin: indikasi baharu diramal Ambras type hypertrichosis universalis congenita (tahap bukti L5). Indikasi asal: Hiperplasia prostat benigna (benign prostatic hyperplasia)"
 ---
 
 # Silodosin

@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 514
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Moxifloxacin: indikasi baharu diramal Hiperamilasemia (tahap bukti L5). Indikasi asal: Jangkitan bakteria (jangkitan streptokokus, radang paru-paru bakteria…"
 ---
 
 # Moxifloxacin

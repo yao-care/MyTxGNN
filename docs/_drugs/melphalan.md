@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 492
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Melphalan: indikasi baharu diramal Sindrom kanser payudara-ovari herediter (tahap bukti L5). Indikasi asal: Tiada maklumat"
 ---
 
 # Melphalan

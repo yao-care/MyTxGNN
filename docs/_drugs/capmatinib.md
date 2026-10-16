@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 192
 evidence_level: L5
 indication_count: 2
+last_modified_at: 2026-10-15
+description: "Capmatinib: indikasi baharu diramal Rheumatoid arthritis (tahap bukti L5). Indikasi asal: Tiada data (tiada lesen berdaftar di Malaysia)"
 ---
 
 # Capmatinib

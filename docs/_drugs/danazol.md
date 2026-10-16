@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 252
 evidence_level: L2
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Danazol: indikasi baharu diramal Penyakit fibrosistik payudara (breast fibrocystic disease) (tahap bukti L2). Indikasi asal: Tiada data indikasi berdaftar di Malaysia"
 ---
 
 # Danazol

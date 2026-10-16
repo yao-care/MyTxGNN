@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 356
 evidence_level: L4
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Ferrous Gluconate: indikasi baharu diramal Sindrom Plummer-Vinson (tahap bukti L4). Indikasi asal: Anemia kekurangan zat besi (berdasarkan graf pengetahuan TxGNN/PrimeKG"
 ---
 
 # Ferrous Gluconate

@@ -5,6 +5,8 @@ parent: Medium Evidence (L3)
 nav_order: 265
 evidence_level: L3
 indication_count: 7
+last_modified_at: 2026-10-15
+description: "Desmopressin: indikasi baharu diramal Gangguan pelepasan primer platelet (primary release disorder of plate… (tahap bukti L3). Indikasi asal: Penyakit von Willebrand (keturunan atau diperoleh), hemof…"
 ---
 
 # Desmopressin

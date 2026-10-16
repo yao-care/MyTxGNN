@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 158
 evidence_level: L2
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Bortezomib: indikasi baharu diramal Neoplasma sel B (tahap bukti L2). Indikasi asal: Mieloma sel plasma, limfoma sel mantel, neoplasma sel B…"
 ---
 
 # Bortezomib

@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 63
 evidence_level: L5
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Ammonium Chloride: indikasi baharu diramal Faringitis (sama dengan indikasi asal) (tahap bukti L5). Indikasi asal: Faringitis, selesema biasa…"
 ---
 
 # Ammonium Chloride

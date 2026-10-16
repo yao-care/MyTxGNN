@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 219
 evidence_level: L5
 indication_count: 6
+last_modified_at: 2026-10-15
+description: "Ciclesonide: indikasi baharu diramal Ekzema atopik (atopic eczema) (tahap bukti L5). Indikasi asal: Asma, asma intrinsik, asma alergi, rinitis alergi…"
 ---
 
 # Ciclesonide

@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 722
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Venetoclax: indikasi baharu diramal Leukemia limfositik kronik/limfoma limfositik kecil pra-pusat germinal (tahap bukti L4). Indikasi asal: Leukemia limfoblastik/limfositik akut"
 ---
 
 # Venetoclax

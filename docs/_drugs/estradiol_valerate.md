@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 336
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Estradiol Valerate: indikasi baharu diramal Bentuk bergejala sindrom fragile X pada pembawa wanita (tahap bukti L5). Indikasi asal: Tiada maklumat indikasi berdaftar"
 ---
 
 # Estradiol Valerate

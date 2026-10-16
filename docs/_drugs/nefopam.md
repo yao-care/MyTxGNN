@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 520
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Nefopam: indikasi baharu diramal 99.98% (tahap bukti L5). Indikasi asal: Katarak belum matang (immature cataract)"
 ---
 
 # Nefopam

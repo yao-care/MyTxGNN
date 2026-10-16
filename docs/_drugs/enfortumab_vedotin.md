@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 323
 evidence_level: L5
 indication_count: 9
+last_modified_at: 2026-10-15
+description: "Enfortumab Vedotin: indikasi baharu diramal Kusta (leprosy) (tahap bukti L5). Indikasi asal: Tiada data (tiada lesen NPRA)"
 ---
 
 # Enfortumab Vedotin

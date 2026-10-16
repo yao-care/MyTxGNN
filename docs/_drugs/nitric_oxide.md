@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 527
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Nitric Oxide: indikasi baharu diramal Sindrom malformasi dengan komponen gigi dan/atau periodontium (tahap bukti L5). Indikasi asal: Hipertensi pulmonari (juga displasia kapilari alveolar kongenital …"
 ---
 
 # Nitric Oxide

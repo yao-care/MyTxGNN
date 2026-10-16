@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 275
 evidence_level: L5
 indication_count: 6
+last_modified_at: 2026-10-15
+description: "Dextromethorphan: indikasi baharu diramal Penyakit rongga hidung (nasal cavity disease) (tahap bukti L5). Indikasi asal: Rinitis alergik, rinitis vasomotor, faringitis, selesema biasa…"
 ---
 
 # Dextromethorphan

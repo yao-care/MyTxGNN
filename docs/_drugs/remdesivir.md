@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 616
 evidence_level: L5
 indication_count: 6
+last_modified_at: 2026-10-15
+description: "Remdesivir: indikasi baharu diramal Multiple endocrine neoplasia (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar di Malaysia"
 ---
 
 # Remdesivir

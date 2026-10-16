@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 40
 evidence_level: L4
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Alfacalcidol: indikasi baharu diramal Hipoparatiroidisme terpencil familial akibat rembesan PTH terjejas (tahap bukti L4). Indikasi asal: Hiperparatiroidisme, osteitis fibrosa, hipoparatiroidisme…"
 ---
 
 # Alfacalcidol

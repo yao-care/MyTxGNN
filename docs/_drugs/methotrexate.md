@@ -5,6 +5,8 @@ parent: Medium Evidence (L3)
 nav_order: 498
 evidence_level: L3
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Methotrexate: indikasi baharu diramal Neoplasma saluran aerodigestif atas (tahap bukti L3). Indikasi asal: Leukemia limfoblastik akut, artritis reumatoid, psoriasis…"
 ---
 
 # Methotrexate

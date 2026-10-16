@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 375
 evidence_level: L2
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Fosfomycin: indikasi baharu diramal Uretritis gonokokus (tahap bukti L2). Indikasi asal: Jangkitan saluran kencing (UTI)"
 ---
 
 # Fosfomycin

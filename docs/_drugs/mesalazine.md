@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 496
 evidence_level: L5
 indication_count: 7
+last_modified_at: 2026-10-15
+description: "Mesalazine: indikasi baharu diramal Osteoartritis (ramalan peringkat 2 dalam senarai (tahap bukti L5). Indikasi asal: Kolitis ulseratif, penyakit radang usus, proktosigmoiditis ulseratif"
 ---
 
 # Mesalazine

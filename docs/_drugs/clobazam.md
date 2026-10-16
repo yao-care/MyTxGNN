@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 230
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Clobazam: indikasi baharu diramal Sindrom epilepsi berkaitan jangkitan demam (FIRES) (tahap bukti L4). Indikasi asal: Sindrom Lennox-Gastaut (indikasi asal kedua dalam graf pengetahuan: c…"
 ---
 
 # Clobazam

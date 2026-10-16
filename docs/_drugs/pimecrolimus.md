@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 573
 evidence_level: L2
 indication_count: 4
+last_modified_at: 2026-10-15
+description: "Pimecrolimus: indikasi baharu diramal Dermatitis seborea (tahap bukti L2). Indikasi asal: Ekzema atopik / dermatitis atopik"
 ---
 
 # Pimecrolimus

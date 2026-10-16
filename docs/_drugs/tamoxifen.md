@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 667
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Tamoxifen: indikasi baharu diramal Karsinoma payudara wanita (female breast carcinoma) (tahap bukti L1). Indikasi asal: Tiada rekod indikasi daripada lesen NPRA dalam data yang dikumpul (li…"
 ---
 
 # Tamoxifen

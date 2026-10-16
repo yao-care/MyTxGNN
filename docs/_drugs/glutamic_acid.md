@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 389
 evidence_level: L4
 indication_count: 4
+last_modified_at: 2026-10-15
+description: "Glutamic Acid: indikasi baharu diramal Osteoporosis pascamenopaus (tahap bukti L4). Indikasi asal: Tiada data indikasi yang diluluskan"
 ---
 
 # Glutamic Acid

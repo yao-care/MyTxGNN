@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 609
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Pyrazinamide: indikasi baharu diramal Otitis media berjangkit (infectious otitis media) (tahap bukti L5). Indikasi asal: Tuberkulosis pulmonari, tuberkulosis meninges, meningitis tuberkulosis"
 ---
 
 # Pyrazinamide

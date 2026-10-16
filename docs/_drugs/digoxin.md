@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 289
 evidence_level: L5
 indication_count: 6
+last_modified_at: 2026-10-15
+description: "Digoxin: indikasi baharu diramal Angina Prinzmetal (tahap bukti L5). Indikasi asal: Fibrilasi atrium"
 ---
 
 # Digoxin

@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 625
 evidence_level: L5
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Risperidone: indikasi baharu diramal Autism susceptibility 1 (lokus kerentanan genetik AUTS1) (tahap bukti L5). Indikasi asal: Skizofrenia, gangguan bipolar (mania)…"
 ---
 
 # Risperidone

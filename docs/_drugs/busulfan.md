@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 175
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Busulfan: indikasi baharu diramal Sindrom mielodisplastik (myelodysplastic syndrome) (tahap bukti L1). Indikasi asal: Tiada data indikasi diluluskan tempatan dalam data yang dikumpulkan"
 ---
 
 # Busulfan

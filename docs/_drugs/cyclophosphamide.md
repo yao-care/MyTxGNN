@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 245
 evidence_level: L2
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Cyclophosphamide: indikasi baharu diramal Leukemia mieloid (tahap bukti L2). Indikasi asal: Mycosis fungoides dan varian, limfoma, mieloma plasma, neuroblastoma…"
 ---
 
 # Cyclophosphamide

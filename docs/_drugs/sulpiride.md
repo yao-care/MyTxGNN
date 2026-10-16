@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 663
 evidence_level: L4
 indication_count: 9
+last_modified_at: 2026-10-15
+description: "Sulpiride: indikasi baharu diramal Distrofi retina dengan atau tanpa anomali ekstraokular (tahap bukti L4). Indikasi asal: Skizofrenia"
 ---
 
 # Sulpiride

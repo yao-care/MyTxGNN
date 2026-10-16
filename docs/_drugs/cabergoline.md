@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 177
 evidence_level: L1
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Cabergoline: indikasi baharu diramal Kanser pituitari (pituitary cancer) (tahap bukti L1). Indikasi asal: Hiperprolaktinemia (termasuk hiperprolaktinemia familial…"
 ---
 
 # Cabergoline

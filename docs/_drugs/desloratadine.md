@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 264
 evidence_level: L4
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Desloratadine: indikasi baharu diramal Faringitis (tahap bukti L4). Indikasi asal: Rinitis alergi, rinitis vasomotor, faringitis, selesema biasa…"
 ---
 
 # Desloratadine

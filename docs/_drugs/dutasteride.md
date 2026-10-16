@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 312
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Dutasteride: indikasi baharu diramal Hipertrikosis universalis kongenita jenis Ambras (tahap bukti L5). Indikasi asal: Hiperplasia prostat benigna (BPH)"
 ---
 
 # Dutasteride

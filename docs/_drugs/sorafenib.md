@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 654
 evidence_level: L2
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Sorafenib: indikasi baharu diramal Liposarkoma (tahap bukti L2). Indikasi asal: Karsinoma hepatoselular (kanser hati)"
 ---
 
 # Sorafenib

@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 731
 evidence_level: L5
 indication_count: 6
+last_modified_at: 2026-10-15
+description: "Zanubrutinib: indikasi baharu diramal Leukemia mieloid (tahap bukti L5). Indikasi asal: Limfoma sel mantel, neoplasma sel B, limfosarkoma"
 ---
 
 # Zanubrutinib

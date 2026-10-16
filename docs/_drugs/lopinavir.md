@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 474
 evidence_level: L5
 indication_count: 3
+last_modified_at: 2026-10-15
+description: "Lopinavir: indikasi baharu diramal Sindrom kurang daya tahan imun kucing (feline AIDS) (tahap bukti L5). Indikasi asal: Jangkitan HIV dan AIDS"
 ---
 
 # Lopinavir

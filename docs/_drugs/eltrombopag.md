@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 318
 evidence_level: L5
 indication_count: 1
+last_modified_at: 2026-10-15
+description: "Eltrombopag: indikasi baharu diramal Penyakit berjangkit HIV (tahap bukti L5). Indikasi asal: Trombositopenia autoimun"
 ---
 
 # Eltrombopag

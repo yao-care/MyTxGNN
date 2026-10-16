@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 557
 evidence_level: L5
 indication_count: 6
+last_modified_at: 2026-10-15
+description: "Pantoprazole: indikasi baharu diramal Penyakit ulser peptik aktif (tahap bukti L5). Indikasi asal: Penyakit ulser peptik, penyakit refluks gastroesofagus, esofagitis…"
 ---
 
 # Pantoprazole

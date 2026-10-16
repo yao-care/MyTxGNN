@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 732
 evidence_level: L4
 indication_count: 6
+last_modified_at: 2026-10-15
+description: "Zidovudine: indikasi baharu diramal Jangkitan virus imunodefisiensi simian (SIV) (tahap bukti L4). Indikasi asal: Jangkitan HIV dan AIDS"
 ---
 
 # Zidovudine

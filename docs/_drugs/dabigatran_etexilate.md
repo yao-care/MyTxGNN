@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 250
 evidence_level: L4
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Dabigatran Etexilate: indikasi baharu diramal Kolangitis sklerosis (sclerosing cholangitis) (tahap bukti L4). Indikasi asal: Tiada data indikasi berdaftar di Malaysia"
 ---
 
 # Dabigatran Etexilate

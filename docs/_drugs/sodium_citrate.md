@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 651
 evidence_level: L5
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Sodium Citrate: indikasi baharu diramal Faringitis (tahap bukti L5). Indikasi asal: Penyakit ulser peptik, penyakit refluks gastroesofagus, dispepsia…"
 ---
 
 # Sodium Citrate

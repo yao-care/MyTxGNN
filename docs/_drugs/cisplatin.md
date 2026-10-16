@@ -11,6 +11,7 @@ evidence_level: "L5"
 indication_count: 0
 brands: []
 permalink: /drugs/cisplatin/
+last_modified_at: 2026-03-30
 ---
 
 # Cisplatin

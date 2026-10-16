@@ -5,6 +5,8 @@ parent: Medium Evidence (L3)
 nav_order: 218
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Choline Salicylate: indikasi baharu diramal Artritis reumatoid (rheumatoid arthritis) (tahap bukti L3). Indikasi asal: Tiada data indikasi berlesen yang tersedia"
 ---
 
 # Choline Salicylate

@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 537
 evidence_level: L5
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Ocrelizumab: indikasi baharu diramal Karsinoma payudara HER2 positif (tahap bukti L5). Indikasi asal: Sklerosis berbilang progresif"
 ---
 
 # Ocrelizumab

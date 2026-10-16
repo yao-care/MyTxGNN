@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 349
 evidence_level: L5
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Famotidine: indikasi baharu diramal Hiperinsulinisme (kedudukan 1 dalam senarai ramalan) (tahap bukti L5). Indikasi asal: Ulser gastrik, penyakit refluks gastroesofagus, esofagitis, dispepsia…"
 ---
 
 # Famotidine

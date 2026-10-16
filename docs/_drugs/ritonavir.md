@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 626
 evidence_level: L5
 indication_count: 3
+last_modified_at: 2026-10-15
+description: "Ritonavir: indikasi baharu diramal Sindrom imunodefisiensi didapati feline (feline acquired immunodefici… (tahap bukti L5). Indikasi asal: Jangkitan virus hepatitis C kronik, jangkitan HIV, AIDS"
 ---
 
 # Ritonavir

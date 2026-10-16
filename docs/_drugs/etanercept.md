@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 338
 evidence_level: L4
 indication_count: 6
+last_modified_at: 2026-10-15
+description: "Etanercept: indikasi baharu diramal Vaskulitis reumatoid (tahap bukti L4). Indikasi asal: Artritis psoriatik, artritis reumatoid, spondilitis ankilosing…"
 ---
 
 # Etanercept

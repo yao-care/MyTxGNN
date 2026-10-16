@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 544
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Omalizumab: indikasi baharu diramal Bronkitis (tahap bukti L4). Indikasi asal: Tiada rekod dalam data lesen tempatan"
 ---
 
 # Omalizumab

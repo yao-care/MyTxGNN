@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 499
 evidence_level: L5
 indication_count: 7
+last_modified_at: 2026-10-15
+description: "Methoxy Polyethylene Glycol-Epoetin Beta: indikasi baharu diramal Gangguan pelepasan primer platelet (primary release disorder of plate… (tahap bukti L5). Indikasi asal: Tiada data indikasi berlesen …"
 ---
 
 # Methoxy Polyethylene Glycol-Epoetin Beta

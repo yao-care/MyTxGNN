@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 301
 evidence_level: L5
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Docetaxel: indikasi baharu diramal Karsinoma prostat familial (tahap bukti L5). Indikasi asal: Kanser paru-paru bukan sel kecil, kanser prostat…"
 ---
 
 # Docetaxel

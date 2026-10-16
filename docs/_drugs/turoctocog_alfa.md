@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 707
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Turoctocog Alfa: indikasi baharu diramal Gangguan pelepasan primer platelet (tahap bukti L5). Indikasi asal: Hemofilia"
 ---
 
 # Turoctocog Alfa

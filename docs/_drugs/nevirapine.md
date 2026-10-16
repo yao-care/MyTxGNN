@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 523
 evidence_level: L4
 indication_count: 3
+last_modified_at: 2026-10-15
+description: "Nevirapine: indikasi baharu diramal Sindrom imunodefisiensi didapati kucing (feline acquired immunodefici… (tahap bukti L4). Indikasi asal: Jangkitan HIV dan AIDS"
 ---
 
 # Nevirapine

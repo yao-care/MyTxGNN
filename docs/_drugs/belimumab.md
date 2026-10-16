@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 128
 evidence_level: L5
 indication_count: 6
+last_modified_at: 2026-10-15
+description: "Belimumab: indikasi baharu diramal Gangguan pelepasan primer platelet (primary release disorder of plate… (tahap bukti L5). Indikasi asal: Lupus eritematosus sistemik"
 ---
 
 # Belimumab

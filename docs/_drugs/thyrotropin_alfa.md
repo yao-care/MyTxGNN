@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 681
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Thyrotropin Alfa: indikasi baharu diramal Migrain (migraine disorder) (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar dalam data yang dikumpulkan"
 ---
 
 # Thyrotropin Alfa

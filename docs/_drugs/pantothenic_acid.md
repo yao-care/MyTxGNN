@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 558
 evidence_level: L5
 indication_count: 9
+last_modified_at: 2026-10-15
+description: "Pantothenic Acid: indikasi baharu diramal Kekurangan protrombin kongenital (tahap bukti L5). Indikasi asal: Kekurangan asid askorbik, skurvi (daripada graf pengetahuan PrimeKG"
 ---
 
 # Pantothenic Acid

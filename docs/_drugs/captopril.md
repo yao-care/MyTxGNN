@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 193
 evidence_level: L4
 indication_count: 4
+last_modified_at: 2026-10-15
+description: "Captopril: indikasi baharu diramal Hipertensi renovaskular malignan (tahap bukti L4). Indikasi asal: Gangguan hipertensi, hipertensi…"
 ---
 
 # Captopril

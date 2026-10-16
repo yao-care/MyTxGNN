@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 195
 evidence_level: L5
 indication_count: 2
+last_modified_at: 2026-10-15
+description: "Carbetocin: indikasi baharu diramal Sindrom seperti isotretinoin (tahap bukti L5). Indikasi asal: Sindrom Prader-Willi…"
 ---
 
 # Carbetocin

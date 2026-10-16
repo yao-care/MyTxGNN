@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 120
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Bacitracin: indikasi baharu diramal Keratokonjunktivitis epitelium bertitik (punctate epithelial keratoco… (tahap bukti L5). Indikasi asal: Tiada data indikasi lulus dalam rekod pendaftaran tempatan"
 ---
 
 # Bacitracin

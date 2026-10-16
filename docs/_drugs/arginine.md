@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 88
 evidence_level: L4
 indication_count: 1
+last_modified_at: 2026-10-15
+description: "Arginine: indikasi baharu diramal Gastroparesis (tahap bukti L4). Indikasi asal: Tiada data indikasi berdaftar"
 ---
 
 # Arginine

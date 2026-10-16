@@ -5,6 +5,8 @@ parent: Medium Evidence (L3)
 nav_order: 706
 evidence_level: L3
 indication_count: 8
+last_modified_at: 2026-10-15
+description: "Tryptophan: indikasi baharu diramal Sindrom kaki gelisah (restless legs syndrome) (tahap bukti L3). Indikasi asal: Tiada data (tiada lesen berdaftar)"
 ---
 
 # Tryptophan

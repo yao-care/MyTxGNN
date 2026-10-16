@@ -5,6 +5,8 @@ parent: Medium Evidence (L3)
 nav_order: 535
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Nystatin: indikasi baharu diramal Vulvovaginitis (tahap bukti L3). Indikasi asal: Kandidiasis kulit, kandidiasis mulut, kandidiasis…"
 ---
 
 # Nystatin

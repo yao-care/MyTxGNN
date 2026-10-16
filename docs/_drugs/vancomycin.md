@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 719
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Vancomycin: indikasi baharu diramal Artritis bakteria (bacterial arthritis) (tahap bukti L5). Indikasi asal: Tiada maklumat dalam data pendaftaran tempatan"
 ---
 
 # Vancomycin

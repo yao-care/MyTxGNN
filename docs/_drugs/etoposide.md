@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 343
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Etoposide: indikasi baharu diramal Adenokarsinoma janin berdiferensiasi baik pada paru-paru (tahap bukti L4). Indikasi asal: Tiada rekod indikasi diluluskan dalam data yang dikumpulkan"
 ---
 
 # Etoposide

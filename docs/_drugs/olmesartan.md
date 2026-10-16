@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 543
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Olmesartan: indikasi baharu diramal Angina Prinzmetal (tahap bukti L5). Indikasi asal: Tiada dalam data pendaftaran NPRA (secara umum: hipertensi)"
 ---
 
 # Olmesartan

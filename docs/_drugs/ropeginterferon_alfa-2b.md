@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 631
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Ropeginterferon Alfa-2B: indikasi baharu diramal Sindrom Laubry-Pezzi (tahap bukti L5). Indikasi asal: Polisitemia vera yang diperoleh (acquired), plasmasitoma, polisitemia"
 ---
 
 # Ropeginterferon Alfa-2B

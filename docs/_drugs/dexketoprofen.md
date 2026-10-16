@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 271
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Dexketoprofen: indikasi baharu diramal 99.90% (tahap bukti L4). Indikasi asal: Tendinitis"
 ---
 
 # Dexketoprofen

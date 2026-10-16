@@ -5,6 +5,8 @@ parent: Medium Evidence (L3)
 nav_order: 724
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Vinblastine: indikasi baharu diramal Rhabdomyosarcoma (tahap bukti L3). Indikasi asal: Limfoma Hodgkin, limfoma bukan Hodgkin…"
 ---
 
 # Vinblastine

@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 410
 evidence_level: L2
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Imatinib: indikasi baharu diramal Dermatofibrosarcoma protuberans (tahap bukti L2). Indikasi asal: Tiada data indikasi asal dalam data yang dikumpulkan"
 ---
 
 # Imatinib

@@ -5,6 +5,8 @@ parent: Medium Evidence (L3)
 nav_order: 622
 evidence_level: L3
 indication_count: 6
+last_modified_at: 2026-10-15
+description: "Rimegepant: indikasi baharu diramal Migrain dengan aura batang otak (tahap bukti L3). Indikasi asal: Gangguan migrain (migraine disorder)"
 ---
 
 # Rimegepant

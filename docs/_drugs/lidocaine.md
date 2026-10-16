@@ -5,6 +5,8 @@ parent: Medium Evidence (L3)
 nav_order: 459
 evidence_level: L3
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Lidocaine: indikasi baharu diramal Dermatitis (tahap bukti L3). Indikasi asal: Neuralgia, neuralgia pasca-herpes, buasir, ejakulasi pramatang…"
 ---
 
 # Lidocaine

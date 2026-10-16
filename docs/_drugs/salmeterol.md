@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 637
 evidence_level: L1
 indication_count: 7
+last_modified_at: 2026-10-15
+description: "Salmeterol: indikasi baharu diramal Bronkitis (tahap bukti L1). Indikasi asal: Emfisema pulmonari, asma intrinsik…"
 ---
 
 # Salmeterol

@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 210
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Cetrorelix: indikasi baharu diramal Hipertrikosis (hypertrichosis) (tahap bukti L5). Indikasi asal: Menghalang lonjakan LH pramatang dalam rangsangan ovari terkawal untu…"
 ---
 
 # Cetrorelix

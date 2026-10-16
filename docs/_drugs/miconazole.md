@@ -5,6 +5,8 @@ parent: Medium Evidence (L3)
 nav_order: 504
 evidence_level: L3
 indication_count: 1
+last_modified_at: 2026-10-15
+description: "Miconazole: indikasi baharu diramal Jerawat (acne) (tahap bukti L3). Indikasi asal: Tinea pedis, tinea corporis, jangkitan tinea, kandidiasis kulit…"
 ---
 
 # Miconazole

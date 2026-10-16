@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 536
 evidence_level: L5
 indication_count: 3
+last_modified_at: 2026-10-15
+description: "Obinutuzumab: indikasi baharu diramal CLL/SLL dengan hipermutasi somatik gen variabel rantai berat imunoglo… (tahap bukti L5). Indikasi asal: Leukemia limfoblastik/limfositik akut"
 ---
 
 # Obinutuzumab

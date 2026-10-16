@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 572
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Phenytoin: indikasi baharu diramal Neoplasma saraf trigeminal (tahap bukti L5). Indikasi asal: Sawan/epilepsi"
 ---
 
 # Phenytoin

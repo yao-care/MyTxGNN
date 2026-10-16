@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 591
 evidence_level: L5
 indication_count: 1
+last_modified_at: 2026-10-15
+description: "Potassium Bicarbonate: indikasi baharu diramal Gastroduodenitis (tahap bukti L5). Indikasi asal: Penyakit ulser peptik, kekurangan kalium, GERD, esofagitis…"
 ---
 
 # Potassium Bicarbonate

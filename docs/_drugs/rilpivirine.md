@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 620
 evidence_level: L4
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Rilpivirine: indikasi baharu diramal Sindrom imunodefisiensi dapatan kucing (feline acquired immunodeficie… (tahap bukti L4). Indikasi asal: Jangkitan HIV, AIDS"
 ---
 
 # Rilpivirine

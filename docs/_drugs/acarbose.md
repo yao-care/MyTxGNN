@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 16
 evidence_level: L5
 indication_count: 9
+last_modified_at: 2026-10-15
+description: "Acarbose: indikasi baharu diramal Sindrom orang kaku klasik (classic stiff person syndrome) (tahap bukti L5). Indikasi asal: Diabetes mellitus jenis 2"
 ---
 
 # Acarbose

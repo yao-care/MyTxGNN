@@ -5,6 +5,8 @@ parent: Medium Evidence (L3)
 nav_order: 180
 evidence_level: L3
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Caffeine: indikasi baharu diramal Faringitis (tahap bukti L3). Indikasi asal: Rinitis alergi (daripada senarai indikasi graf pengetahuan TxGNN"
 ---
 
 # Caffeine

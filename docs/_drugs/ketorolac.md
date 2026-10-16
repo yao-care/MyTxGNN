@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 439
 evidence_level: L1
 indication_count: 3
+last_modified_at: 2026-10-15
+description: "Ketorolac: indikasi baharu diramal Gangguan sakit kepala (headache disorder) (tahap bukti L1). Indikasi asal: Konjunktivitis atopik, konjunktivitis papilari…"
 ---
 
 # Ketorolac

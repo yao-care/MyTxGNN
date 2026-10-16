@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 316
 evidence_level: L4
 indication_count: 3
+last_modified_at: 2026-10-15
+description: "Efavirenz: indikasi baharu diramal Feline acquired immunodeficiency syndrome (sindrom kekurangan imun ku… (tahap bukti L4). Indikasi asal: Jangkitan HIV, AIDS"
 ---
 
 # Efavirenz

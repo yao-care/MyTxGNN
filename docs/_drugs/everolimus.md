@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 345
 evidence_level: L5
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Everolimus: indikasi baharu diramal Neoplasma payudara (tahap bukti L5). Indikasi asal: Karsinoma sel renal (berdasarkan graf pengetahuan TxGNN"
 ---
 
 # Everolimus

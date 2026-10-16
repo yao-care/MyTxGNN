@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 260
 evidence_level: L4
 indication_count: 9
+last_modified_at: 2026-10-15
+description: "Deferiprone: indikasi baharu diramal Porfiria hepatik (hepatic porphyria) (tahap bukti L4). Indikasi asal: Hemosiderosis…"
 ---
 
 # Deferiprone

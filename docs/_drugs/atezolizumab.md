@@ -5,6 +5,8 @@ parent: Medium Evidence (L3)
 nav_order: 102
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Atezolizumab: indikasi baharu diramal Karsinoma urotelial uretra prostat (tahap bukti L3). Indikasi asal: Karsinoma sel peralihan (transitional cell carcinoma)"
 ---
 
 # Atezolizumab

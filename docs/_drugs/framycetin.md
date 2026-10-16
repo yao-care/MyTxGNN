@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 376
 evidence_level: L5
 indication_count: 7
+last_modified_at: 2026-10-15
+description: "Framycetin: indikasi baharu diramal Sclerosing cholangitis (tahap bukti L5). Indikasi asal: Tiada data (tiada lesen NPRA yang direkodkan)"
 ---
 
 # Framycetin

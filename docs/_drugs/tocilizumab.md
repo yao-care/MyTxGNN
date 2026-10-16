@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 687
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Tocilizumab: indikasi baharu diramal Spondilitis ankilosis (ankylosing spondylitis) (tahap bukti L5). Indikasi asal: Tiada data (tiada lesen di Malaysia)"
 ---
 
 # Tocilizumab

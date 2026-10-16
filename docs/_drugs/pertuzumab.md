@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 568
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Pertuzumab: indikasi baharu diramal Karsinoma payudara positif HER2 (tahap bukti L1). Indikasi asal: Tiada rekod dalam data yang dikumpulkan (lesen tiada)"
 ---
 
 # Pertuzumab

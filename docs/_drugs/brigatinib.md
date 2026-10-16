@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 164
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Brigatinib: indikasi baharu diramal Fibromatosis gingiva (tahap bukti L5). Indikasi asal: Kanser paru-paru bukan sel kecil (NSCLC) / kanser paru-paru"
 ---
 
 # Brigatinib

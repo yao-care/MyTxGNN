@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 320
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Emicizumab: indikasi baharu diramal Penyakit pseudo-von Willebrand (tahap bukti L5). Indikasi asal: Hemofilia (daripada graf pengetahuan TxGNN)"
 ---
 
 # Emicizumab

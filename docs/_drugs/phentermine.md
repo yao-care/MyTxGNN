@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 570
 evidence_level: L5
 indication_count: 4
+last_modified_at: 2026-10-15
+description: "Phentermine: indikasi baharu diramal Hipervitaminosis (tahap bukti L5). Indikasi asal: Gangguan obesiti, obesiti monogenik…"
 ---
 
 # Phentermine

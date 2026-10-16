@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 478
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Loteprednol Etabonate: indikasi baharu diramal Konjunktivitis folikular kronik (tahap bukti L5). Indikasi asal: Uveitis, penyakit iris, penyakit badan silier, panuveitis…"
 ---
 
 # Loteprednol Etabonate

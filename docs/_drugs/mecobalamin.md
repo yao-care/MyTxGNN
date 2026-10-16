@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 487
 evidence_level: L5
 indication_count: 3
+last_modified_at: 2026-10-15
+description: "Mecobalamin: indikasi baharu diramal Kolangitis sklerosis (tahap bukti L5). Indikasi asal: Tiada data (tiada lesen berdaftar dengan teks indikasi)"
 ---
 
 # Mecobalamin

@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 512
 evidence_level: L5
 indication_count: 8
+last_modified_at: 2026-10-15
+description: "Moroctocog Alfa: indikasi baharu diramal Gangguan pelepasan primer platelet (tahap bukti L5). Indikasi asal: Hemofilia"
 ---
 
 # Moroctocog Alfa

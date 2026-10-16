@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 530
 evidence_level: L4
 indication_count: 1
+last_modified_at: 2026-10-15
+description: "Nitrous Oxide: indikasi baharu diramal Hiperplasia prostat benigna (BPH) (tahap bukti L4). Indikasi asal: Tiada data indikasi lulus daripada pendaftaran tempatan"
 ---
 
 # Nitrous Oxide

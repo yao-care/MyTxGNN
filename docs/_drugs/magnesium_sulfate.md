@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 483
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Magnesium Sulfate: indikasi baharu diramal Pra-eklampsia/eklampsia (tahap bukti L1). Indikasi asal: Sembelit"
 ---
 
 # Magnesium Sulfate

@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 92
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Artemether: indikasi baharu diramal Angioedema didapati (acquired angioedema) (tahap bukti L5). Indikasi asal: Tiada rekod indikasi dalam pendaftaran tempatan. Dari segi klinikal…"
 ---
 
 # Artemether

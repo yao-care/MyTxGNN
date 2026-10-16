@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 113
 evidence_level: L2
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Azacitidine: indikasi baharu diramal Leukemia mieloid akut dan sindrom mielodisplastik berkaitan terapi (tahap bukti L2). Indikasi asal: Leukemia mieloid (termasuk pelbagai subjenis AML) berdasarkan …"
 ---
 
 # Azacitidine

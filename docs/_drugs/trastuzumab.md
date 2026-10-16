@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 695
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Trastuzumab: indikasi baharu diramal Kanser payudara positif reseptor progesteron (tahap bukti L1). Indikasi asal: Karsinoma payudara HER2-positif"
 ---
 
 # Trastuzumab

@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 191
 evidence_level: L1
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Capecitabine: indikasi baharu diramal Neoplasma gastrik (tahap bukti L1). Indikasi asal: Metastasis daripada tumor malignan kolon"
 ---
 
 # Capecitabine

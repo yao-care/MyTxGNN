@@ -5,6 +5,8 @@ parent: Medium Evidence (L3)
 nav_order: 529
 evidence_level: L3
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Nitroglycerin: indikasi baharu diramal Hipertensi pulmonari (pulmonary hypertension) (tahap bukti L3). Indikasi asal: Tiada data indikasi berdaftar di Malaysia dalam data yang dikumpulkan…"
 ---
 
 # Nitroglycerin

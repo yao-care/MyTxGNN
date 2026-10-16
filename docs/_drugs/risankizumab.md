@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 623
 evidence_level: L2
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Risankizumab: indikasi baharu diramal Dermatitis (tahap bukti L2). Indikasi asal: Tiada data dalam rekod lesen tempatan"
 ---
 
 # Risankizumab

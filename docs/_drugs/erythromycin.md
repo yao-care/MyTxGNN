@@ -5,6 +5,8 @@ parent: Medium Evidence (L3)
 nav_order: 334
 evidence_level: L3
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Erythromycin: indikasi baharu diramal Jerawat (acne) (tahap bukti L3). Indikasi asal: Jerawat, jangkitan telinga tengah…"
 ---
 
 # Erythromycin

@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 308
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Doxycycline: indikasi baharu diramal Keratokonjunktivitis epitelium punktat (tahap bukti L4). Indikasi asal: Tiada data indikasi diluluskan dalam rekod pendaftaran NPRA yang diku…"
 ---
 
 # Doxycycline

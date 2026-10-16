@@ -7,6 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 458
 evidence_level: L5
 indication_count: 0
+last_modified_at: 2026-09-19
 ---
 
 # Levothyroxine Sodium

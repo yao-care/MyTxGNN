@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 225
 evidence_level: L5
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Citalopram: indikasi baharu diramal Gangguan obsesif-kompulsif (OCD) (tahap bukti L5). Indikasi asal: Gangguan kemurungan major, kemurungan unipolar, kemurungan endogen…"
 ---
 
 # Citalopram

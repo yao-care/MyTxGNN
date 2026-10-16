@@ -5,6 +5,8 @@ parent: Medium Evidence (L3)
 nav_order: 272
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Dexlansoprazole: indikasi baharu diramal Penyakit ulser peptik aktif (tahap bukti L3). Indikasi asal: Penyakit ulser peptik, GERD, esofagitis…"
 ---
 
 # Dexlansoprazole

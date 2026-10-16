@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 333
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Eribulin: indikasi baharu diramal Demam Mediterranean familial resesif autosom (tahap bukti L5). Indikasi asal: Liposarkoma (berdasarkan graf pengetahuan TxGNN"
 ---
 
 # Eribulin

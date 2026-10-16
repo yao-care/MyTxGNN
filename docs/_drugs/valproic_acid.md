@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 717
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Valproic Acid: indikasi baharu diramal Neoplasma saraf trigeminal (tahap bukti L5). Indikasi asal: Epilepsi, mania dalam gangguan afektif bipolar…"
 ---
 
 # Valproic Acid

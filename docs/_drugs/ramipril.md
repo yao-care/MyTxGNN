@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 610
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Ramipril: indikasi baharu diramal Kerentanan terhadap strok iskemia (entri usang) (tahap bukti L5). Indikasi asal: Tidak tersedia (tiada rekod lesen tempatan)"
 ---
 
 # Ramipril

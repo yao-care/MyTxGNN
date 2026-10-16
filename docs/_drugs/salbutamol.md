@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 635
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Salbutamol: indikasi baharu diramal Konjunktivitis papilari (tahap bukti L5). Indikasi asal: Tiada rekod dalam data yang dikumpulkan"
 ---
 
 # Salbutamol

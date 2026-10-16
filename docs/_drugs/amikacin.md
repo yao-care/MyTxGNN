@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 55
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Amikacin: indikasi baharu diramal Demam paratifoid (paratyphoid fever) (tahap bukti L4). Indikasi asal: Radang paru-paru bakteria, jangkitan Pseudomonas aeruginosa…"
 ---
 
 # Amikacin

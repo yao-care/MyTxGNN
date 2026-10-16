@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 36
 evidence_level: L5
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Albendazole: indikasi baharu diramal Jangkitan Echinococcus granulosus (kedudukan 1) (tahap bukti L5). Indikasi asal: Ekinokokosis sista, sistiserkosis…"
 ---
 
 # Albendazole

@@ -5,6 +5,8 @@ parent: Medium Evidence (L3)
 nav_order: 22
 evidence_level: L3
 indication_count: 9
+last_modified_at: 2026-10-15
+description: "Acetylsalicylic Acid: indikasi baharu diramal Migrain dengan aura batang otak (tahap bukti L3). Indikasi asal: Artritis reumatoid, migrain, infarksi miokardium, trombosis koronari…"
 ---
 
 # Acetylsalicylic Acid

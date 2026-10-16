@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 597
 evidence_level: L1
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Pregabalin: indikasi baharu diramal Fibromialgia (tahap bukti L1). Indikasi asal: Gangguan kebimbangan, fibromialgia, sindrom nyeri miofasial…"
 ---
 
 # Pregabalin

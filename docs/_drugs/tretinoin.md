@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 699
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Tretinoin: indikasi baharu diramal Rheumatoid nodulosis (tahap bukti L5). Indikasi asal: Jerawat, leukemia promielositik akut, keratosis yang diperoleh…"
 ---
 
 # Tretinoin

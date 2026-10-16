@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 235
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Clomipramine: indikasi baharu diramal Gangguan kebimbangan (anxiety disorder) (tahap bukti L1). Indikasi asal: Tiada data indikasi berdaftar tempatan dalam data yang dikompilasi"
 ---
 
 # Clomipramine

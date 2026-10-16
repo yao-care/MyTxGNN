@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 247
 evidence_level: L4
 indication_count: 7
+last_modified_at: 2026-10-15
+description: "Cyclosporine: indikasi baharu diramal Penyakit granulomatus kronik, autosomal resesif (tahap bukti L4). Indikasi asal: Artritis reumatoid, sindrom mata kering, xerophthalmia…"
 ---
 
 # Cyclosporine

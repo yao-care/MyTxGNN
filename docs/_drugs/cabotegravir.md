@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 178
 evidence_level: L5
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Cabotegravir: indikasi baharu diramal Artritis reumatoid (rheumatoid arthritis) (tahap bukti L5). Indikasi asal: Tiada maklumat indikasi berdaftar tempatan dalam data yang dikumpulka…"
 ---
 
 # Cabotegravir

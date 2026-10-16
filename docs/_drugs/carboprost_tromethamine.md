@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 200
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Carboprost Tromethamine: indikasi baharu diramal Koarktasio aorta atipikal (atypical coarctation of aorta) (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar di Malaysia"
 ---
 
 # Carboprost Tromethamine

@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 194
 evidence_level: L1
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Carbamazepine: indikasi baharu diramal Epilepsi dengan sawan tonik-klonik umum (tahap bukti L1). Indikasi asal: Epilepsi, sawan separa, gangguan bipolar manik, neuralgia trigeminal…"
 ---
 
 # Carbamazepine

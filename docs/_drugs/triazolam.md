@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 701
 evidence_level: L4
 indication_count: 1
+last_modified_at: 2026-10-15
+description: "Triazolam: indikasi baharu diramal Gangguan tidur (memulakan dan mengekalkan tidur) (tahap bukti L4). Indikasi asal: Insomnia"
 ---
 
 # Triazolam

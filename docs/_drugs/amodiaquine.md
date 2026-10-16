@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 64
 evidence_level: L5
 indication_count: 6
+last_modified_at: 2026-10-15
+description: "Amodiaquine: indikasi baharu diramal Hipertensi pulmonari (tahap bukti L5). Indikasi asal: Tiada data indikasi yang diluluskan dalam data tempatan (secara umum…"
 ---
 
 # Amodiaquine

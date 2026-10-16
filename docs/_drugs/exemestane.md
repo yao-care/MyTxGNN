@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 347
 evidence_level: L5
 indication_count: 7
+last_modified_at: 2026-10-15
+description: "Exemestane: indikasi baharu diramal Amenorea (ramalan kedudukan #2 (tahap bukti L5). Indikasi asal: Tiada data pendaftaran tempatan (tiada lesen direkodkan)"
 ---
 
 # Exemestane

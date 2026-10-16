@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 387
 evidence_level: L5
 indication_count: 9
+last_modified_at: 2026-10-15
+description: "Glimepiride: indikasi baharu diramal Sindrom anggota kaku fokal (focal stiff limb syndrome) (tahap bukti L5). Indikasi asal: Diabetes mellitus jenis 2"
 ---
 
 # Glimepiride

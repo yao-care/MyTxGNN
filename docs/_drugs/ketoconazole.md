@@ -5,6 +5,8 @@ parent: Medium Evidence (L3)
 nav_order: 437
 evidence_level: L3
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Ketoconazole: indikasi baharu diramal Kromomikosis (chromomycosis) (tahap bukti L3). Indikasi asal: Tinea pedis, dermatitis seboroik, kandidiasis kutaneus dan oral…"
 ---
 
 # Ketoconazole

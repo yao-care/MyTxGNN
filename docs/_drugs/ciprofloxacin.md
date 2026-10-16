@@ -5,6 +5,8 @@ parent: Medium Evidence (L3)
 nav_order: 223
 evidence_level: L3
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Ciprofloxacin: indikasi baharu diramal Demam paratifoid (tahap bukti L3). Indikasi asal: Demam tifoid, salmonelosis, disentri…"
 ---
 
 # Ciprofloxacin

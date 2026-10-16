@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 611
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Ramucirumab: indikasi baharu diramal Adenokarsinoma ligamen uterus (tahap bukti L5). Indikasi asal: Kanser paru-paru bukan sel kecil, adenokarsinoma gastrik…"
 ---
 
 # Ramucirumab

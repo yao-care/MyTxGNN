@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 503
 evidence_level: L1
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Metronidazole: indikasi baharu diramal Rosacea (tahap bukti L1). Indikasi asal: Jangkitan anaerob, peritonitis, vaginosis bakteria, giardiasis…"
 ---
 
 # Metronidazole

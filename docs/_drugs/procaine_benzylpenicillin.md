@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 601
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Procaine Benzylpenicillin: indikasi baharu diramal Infectious otitis media (otitis media berjangkit) (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar"
 ---
 
 # Procaine Benzylpenicillin

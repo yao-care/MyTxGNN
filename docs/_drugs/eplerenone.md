@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 328
 evidence_level: L5
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Eplerenone: indikasi baharu diramal Hipertensi pulmonari dengan mekanisme pelbagai faktor yang tidak jelas (tahap bukti L5). Indikasi asal: Hipertensi (daripada graf pengetahuan TxGNN"
 ---
 
 # Eplerenone

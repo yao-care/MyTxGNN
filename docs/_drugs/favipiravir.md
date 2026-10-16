@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 350
 evidence_level: L4
 indication_count: 3
+last_modified_at: 2026-10-15
+description: "Favipiravir: indikasi baharu diramal Sindrom hemofagositik berkaitan jangkitan (tahap bukti L4). Indikasi asal: Influenza"
 ---
 
 # Favipiravir

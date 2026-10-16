@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 233
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Clofarabine: indikasi baharu diramal Leukemia mieloid (tahap bukti L1). Indikasi asal: Leukemia limfoblastik akut"
 ---
 
 # Clofarabine

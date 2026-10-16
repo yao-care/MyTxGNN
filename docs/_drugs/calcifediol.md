@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 181
 evidence_level: L5
 indication_count: 4
+last_modified_at: 2026-10-15
+description: "Calcifediol: indikasi baharu diramal Kekurangan vitamin D (istilah lapuk) (tahap bukti L5). Indikasi asal: Hiperkalsemia, nefrokalsinosis, gangguan metabolisme fosforus…"
 ---
 
 # Calcifediol

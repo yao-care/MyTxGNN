@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 552
 evidence_level: L5
 indication_count: 4
+last_modified_at: 2026-10-15
+description: "Palbociclib: indikasi baharu diramal Artritis reumatoid (peringkat 2 (tahap bukti L5). Indikasi asal: Tiada data (tiada lesen berdaftar di Malaysia)"
 ---
 
 # Palbociclib

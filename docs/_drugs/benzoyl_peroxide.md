@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 136
 evidence_level: L5
 indication_count: 4
+last_modified_at: 2026-10-15
+description: "Benzoyl Peroxide: indikasi baharu diramal Keratosis folikular terbalik vulva (tahap bukti L5). Indikasi asal: Jerawat (acne), dermatitis atopik, dermatitis kontak…"
 ---
 
 # Benzoyl Peroxide

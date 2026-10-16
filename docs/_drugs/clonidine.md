@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 237
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Clonidine: indikasi baharu diramal ADHD jenis kurang perhatian (attention deficit hyperactivity disorder… (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar tempatan"
 ---
 
 # Clonidine

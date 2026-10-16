@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 424
 evidence_level: L5
 indication_count: 3
+last_modified_at: 2026-10-15
+description: "Iodixanol: indikasi baharu diramal Osteoartritis (ramalan peringkat 1 ialah \"osteoarthritis susceptibili… (tahap bukti L5). Indikasi asal: Agen kontras untuk pengimejan radiografi"
 ---
 
 # Iodixanol

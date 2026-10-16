@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 326
 evidence_level: L5
 indication_count: 7
+last_modified_at: 2026-10-15
+description: "Enzalutamide: indikasi baharu diramal Kerentanan kanser prostat/kanser otak (tahap bukti L5). Indikasi asal: Kanser prostat"
 ---
 
 # Enzalutamide

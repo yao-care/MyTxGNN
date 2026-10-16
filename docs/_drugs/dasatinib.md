@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 256
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Dasatinib: indikasi baharu diramal Sarkoma Ewing (tahap bukti L5). Indikasi asal: CML dan Ph+ ALL (berdasarkan literatur"
 ---
 
 # Dasatinib

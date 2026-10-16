@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 605
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Propylene Glycol: indikasi baharu diramal Bronkitis (tahap bukti L4). Indikasi asal: Sindrom mata kering, xerophthalmia"
 ---
 
 # Propylene Glycol

@@ -5,6 +5,8 @@ parent: Medium Evidence (L3)
 nav_order: 632
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Ropinirole: indikasi baharu diramal Gangguan kurang daya tumpuan-hiperaktiviti (ADHD) (tahap bukti L3). Indikasi asal: Tiada data (tiada lesen NPRA direkodkan)"
 ---
 
 # Ropinirole

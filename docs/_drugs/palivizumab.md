@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 554
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Palivizumab: indikasi baharu diramal Benign neoplasm of tongue (tahap bukti L5). Indikasi asal: Data indikasi berlesen tidak tersedia dalam data yang dikompilasi unt…"
 ---
 
 # Palivizumab

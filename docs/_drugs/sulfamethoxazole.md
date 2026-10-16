@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 661
 evidence_level: L5
 indication_count: 1
+last_modified_at: 2026-10-15
+description: "Sulfamethoxazole: indikasi baharu diramal Konjunktivitis berjangkit akut (tahap bukti L5). Indikasi asal: Otitis media berjangkit, nokardiosis, toksoplasmosis, pneumosistosis…"
 ---
 
 # Sulfamethoxazole

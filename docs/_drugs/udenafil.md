@@ -13,6 +13,7 @@ brands: []
 permalink: /drugs/udenafil/
 nav_exclude: true
 search_exclude: true
+last_modified_at: 2026-03-30
 ---
 
 # Udenafil

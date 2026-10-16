@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 715
 evidence_level: L5
 indication_count: 7
+last_modified_at: 2026-10-15
+description: "Valbenazine: indikasi baharu diramal Psychogenic movement disorders (tahap bukti L5). Indikasi asal: Tardive dyskinesia"
 ---
 
 # Valbenazine

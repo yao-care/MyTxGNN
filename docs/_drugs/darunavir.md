@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 255
 evidence_level: L4
 indication_count: 4
+last_modified_at: 2026-10-15
+description: "Darunavir: indikasi baharu diramal Jangkitan virus imunodefisiensi simian (dipilih kerana ia mempunyai b… (tahap bukti L4). Indikasi asal: Jangkitan HIV, AIDS"
 ---
 
 # Darunavir

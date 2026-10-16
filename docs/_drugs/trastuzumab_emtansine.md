@@ -5,6 +5,8 @@ parent: Medium Evidence (L3)
 nav_order: 697
 evidence_level: L3
 indication_count: 4
+last_modified_at: 2026-10-15
+description: "Trastuzumab Emtansine: indikasi baharu diramal Kanser payudara negatif reseptor progesteron (tahap bukti L3). Indikasi asal: Karsinoma payudara positif HER2"
 ---
 
 # Trastuzumab Emtansine

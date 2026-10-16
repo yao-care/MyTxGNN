@@ -5,6 +5,8 @@ parent: Medium Evidence (L3)
 nav_order: 416
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Indomethacin: indikasi baharu diramal Artritis reumatoid (tahap bukti L3). Indikasi asal: Tiada data indikasi berdaftar"
 ---
 
 # Indomethacin

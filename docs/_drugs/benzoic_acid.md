@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 135
 evidence_level: L5
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Benzoic Acid: indikasi baharu diramal Pemfigus (tahap bukti L5). Indikasi asal: Tiada teks indikasi berlesen (tiada pendaftaran di Malaysia). Dalam g…"
 ---
 
 # Benzoic Acid

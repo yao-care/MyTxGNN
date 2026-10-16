@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 105
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Atosiban: indikasi baharu diramal Glaukoma keturunan primer (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar tempatan"
 ---
 
 # Atosiban

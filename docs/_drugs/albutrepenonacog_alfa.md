@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 37
 evidence_level: L5
 indication_count: 6
+last_modified_at: 2026-10-15
+description: "Albutrepenonacog Alfa: indikasi baharu diramal Penyakit von Willebrand pseudo (pseudo-von Willebrand disease) (tahap bukti L5). Indikasi asal: Hemofilia (termasuk bentuk bergejala hemofilia pada pemb…"
 ---
 
 # Albutrepenonacog Alfa

@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 711
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Uracil: indikasi baharu diramal Neoplasma kolon (colonic neoplasm) (tahap bukti L4). Indikasi asal: Tiada data (tiada lesen berdaftar dengan teks indikasi)"
 ---
 
 # Uracil

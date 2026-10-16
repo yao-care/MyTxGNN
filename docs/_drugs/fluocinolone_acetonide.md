@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 362
 evidence_level: L5
 indication_count: 4
+last_modified_at: 2026-10-15
+description: "Fluocinolone Acetonide: indikasi baharu diramal Lichen planus pigmentosus (tahap bukti L5). Indikasi asal: Ekzema atopik, dermatitis (kontak, okupasi, seboroik)…"
 ---
 
 # Fluocinolone Acetonide

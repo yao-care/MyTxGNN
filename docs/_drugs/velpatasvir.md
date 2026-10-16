@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 721
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Velpatasvir: indikasi baharu diramal Jangkitan virus hepatitis B (tahap bukti L5). Indikasi asal: Jangkitan virus hepatitis C kronik"
 ---
 
 # Velpatasvir

@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 662
 evidence_level: L5
 indication_count: 3
+last_modified_at: 2026-10-15
+description: "Sulodexide: indikasi baharu diramal Glanzmann thrombasthenia (tahap bukti L5). Indikasi asal: Tiada data (tiada lesen NPRA)"
 ---
 
 # Sulodexide

@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 173
 evidence_level: L4
 indication_count: 1
+last_modified_at: 2026-10-15
+description: "Bumetanide: indikasi baharu diramal Penyakit jantung pulmonari akut (acute pulmonary heart disease) (tahap bukti L4). Indikasi asal: Kegagalan jantung kongestif"
 ---
 
 # Bumetanide

@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 444
 evidence_level: L5
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Lamotrigine: indikasi baharu diramal Cutis verticis gyrata (tahap bukti L5). Indikasi asal: Epilepsi (berdasarkan graf pengetahuan TxGNN"
 ---
 
 # Lamotrigine

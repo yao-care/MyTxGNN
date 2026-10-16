@@ -5,6 +5,8 @@ parent: Medium Evidence (L3)
 nav_order: 236
 evidence_level: L3
 indication_count: 3
+last_modified_at: 2026-10-15
+description: "Clonazepam: indikasi baharu diramal Sindrom kaki resah (restless legs syndrome) (tahap bukti L3). Indikasi asal: Early myoclonic encephalopathy, epilepsi absens…"
 ---
 
 # Clonazepam

@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 665
 evidence_level: L5
 indication_count: 3
+last_modified_at: 2026-10-15
+description: "Tacrolimus: indikasi baharu diramal Dermatitis seboroik (tahap bukti L5). Indikasi asal: Ekzema atopik / dermatitis atopik"
 ---
 
 # Tacrolimus

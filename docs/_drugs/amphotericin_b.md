@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 73
 evidence_level: L5
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Amphotericin B: indikasi baharu diramal Kandidiasis esofagus (tahap bukti L5). Indikasi asal: Kandidiasis (antara lain kandidiasis kulit, mulut dan esofagus)…"
 ---
 
 # Amphotericin B

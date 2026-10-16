@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 507
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Minoxidil: indikasi baharu diramal Hypotrichosis simplex of the scalp (tahap bukti L4). Indikasi asal: Tiada indikasi asal berdaftar di Malaysia dalam data yang dikompil. R…"
 ---
 
 # Minoxidil

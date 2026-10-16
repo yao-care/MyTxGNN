@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 358
 evidence_level: L4
 indication_count: 4
+last_modified_at: 2026-10-15
+description: "Fimasartan: indikasi baharu diramal Hipertensi pulmonari akibat penyakit paru-paru dan/atau hipoksia (tahap bukti L4). Indikasi asal: Hipertensi (hypertensive disorder / hypertension)"
 ---
 
 # Fimasartan

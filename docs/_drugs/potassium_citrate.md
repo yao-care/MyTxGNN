@@ -5,6 +5,8 @@ parent: Medium Evidence (L3)
 nav_order: 593
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Potassium Citrate: indikasi baharu diramal 99.99% (tahap bukti L3). Indikasi asal: Asidosis tubulus renal (renal tubular acidosis)"
 ---
 
 # Potassium Citrate

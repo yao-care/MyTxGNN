@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 368
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Fluphenazine: indikasi baharu diramal Distrofi retina dengan atau tanpa anomali ekstraokular (tahap bukti L5). Indikasi asal: Skizofrenia, gangguan psikotik, gangguan skizoafektif…"
 ---
 
 # Fluphenazine

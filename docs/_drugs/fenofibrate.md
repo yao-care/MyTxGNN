@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 353
 evidence_level: L4
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Fenofibrate: indikasi baharu diramal Hipoalfalipoproteinemia (tahap bukti L4). Indikasi asal: Hipertrigliseridemia dan hiperlipidemia (termasuk hiperlipidemia fami…"
 ---
 
 # Fenofibrate

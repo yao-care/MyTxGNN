@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 91
 evidence_level: L2
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Arsenic Trioxide: indikasi baharu diramal Sindrom mielodisplastik (MDS) (tahap bukti L2). Indikasi asal: Leukemia promielositik akut"
 ---
 
 # Arsenic Trioxide

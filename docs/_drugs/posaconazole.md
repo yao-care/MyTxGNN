@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 589
 evidence_level: L4
 indication_count: 1
+last_modified_at: 2026-10-15
+description: "Posaconazole: indikasi baharu diramal Pneumocystosis (tahap bukti L4). Indikasi asal: Chromomycosis, coccidioidomycosis, aspergillosis, sporotrichosis…"
 ---
 
 # Posaconazole

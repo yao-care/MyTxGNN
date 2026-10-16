@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 433
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Isosorbide Dinitrate: indikasi baharu diramal Alopesia (tahap bukti L5). Indikasi asal: Tiada maklumat indikasi diluluskan daripada pendaftaran tempatan"
 ---
 
 # Isosorbide Dinitrate

@@ -5,6 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 555
 evidence_level: L4
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Palonosetron: indikasi baharu diramal Gangguan migrain (migraine disorder) (tahap bukti L4). Indikasi asal: Tiada data indikasi diluluskan tempatan"
 ---
 
 # Palonosetron
