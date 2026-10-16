@@ -1,4072 +1,3649 @@
 {
-  "generated": "2026-03-03",
-  "total_drugs": 508,
-  "total_kg_predictions": 41560,
-  "total_dl_predictions": 176021,
-  "drugs": [
-    {
-      "drugbank_id": "DB00860",
-      "name": "PREDNISOLONE",
-      "kg_predictions": 3650,
-      "dl_predictions": 762,
-      "license_id": "MAL06081197AZ",
-      "brand_name": "Predsone Syrup 3mg/5ml"
-    },
-    {
-      "drugbank_id": "DB00443",
-      "name": "BETAMETHASONE",
-      "kg_predictions": 3198,
-      "dl_predictions": 526,
-      "license_id": "MAL20071620AEZ",
-      "brand_name": "BETAMETHASONE-G TABLET 0.5MG"
-    },
-    {
-      "drugbank_id": "DB01234",
-      "name": "DEXAMETHASONE",
-      "kg_predictions": 2736,
-      "dl_predictions": 720,
-      "license_id": "MAL06071071ASZ",
-      "brand_name": "SW-Dexasone Tablet 0.5mg"
-    },
-    {
-      "drugbank_id": "DB00741",
-      "name": "HYDROCORTISONE",
-      "kg_predictions": 2780,
-      "dl_predictions": 629,
-      "license_id": "MAL19871349ACZ",
-      "brand_name": "PROCTOSEDYL OINTMENT"
-    },
-    {
-      "drugbank_id": "DB14539",
-      "name": "HYDROCORTISONE ACETATE",
-      "kg_predictions": 2880,
-      "dl_predictions": 472,
-      "license_id": "MAL16075024AZ",
-      "brand_name": "HYDROSONE CREAM 1% W/W"
-    },
-    {
-      "drugbank_id": "DB02703",
-      "name": "FUSIDIC ACID",
-      "kg_predictions": 3008,
-      "dl_predictions": 294,
-      "license_id": "MAL11105004AZ",
-      "brand_name": "DEFUZIN CREAM 2% W/W"
-    },
-    {
-      "drugbank_id": "DB00620",
-      "name": "TRIAMCINOLONE",
-      "kg_predictions": 645,
-      "dl_predictions": 637,
-      "license_id": "MAL19910856AZ",
-      "brand_name": "TRINOLONE CREAM 0.1% W/W"
-    },
-    {
-      "drugbank_id": "DB06212",
-      "name": "TOLVAPTAN",
-      "kg_predictions": 18,
-      "dl_predictions": 1196,
-      "license_id": "MAL22066001ACZ",
-      "brand_name": "Samsca Tolvaptan Tablet 15mg"
-    },
-    {
-      "drugbank_id": "DB00787",
-      "name": "ACYCLOVIR",
-      "kg_predictions": 252,
-      "dl_predictions": 926,
-      "license_id": "MAL19971376AZ",
-      "brand_name": "VIREST 400MG TABLET"
-    },
-    {
-      "drugbank_id": "DB01241",
-      "name": "GEMFIBROZIL",
-      "kg_predictions": 8,
-      "dl_predictions": 1094,
-      "license_id": "MAL20162649AEZ",
-      "brand_name": "Lipistorol Capsule 300mg"
-    },
-    {
-      "drugbank_id": "DB01229",
-      "name": "PACLITAXEL",
-      "kg_predictions": 370,
-      "dl_predictions": 678,
-      "license_id": "MAL21106046ACZ",
-      "brand_name": "PAXUS PM (Paclitaxel) Powder for Injection 100mg"
-    },
-    {
-      "drugbank_id": "DB00281",
-      "name": "LIDOCAINE",
-      "kg_predictions": 108,
-      "dl_predictions": 828,
-      "license_id": "MAL11050003AZ",
-      "brand_name": "Lignoral Oral Spray 10%W/V"
-    },
+  "generated": "2026-10-17",
+  "total_drugs": 606,
+  "level_counts": {
+    "L1": 77,
+    "L2": 31,
+    "L3": 43,
+    "L4": 116,
+    "L5": 339
+  },
+  "all_drugs": [
     {
-      "drugbank_id": "DB00916",
-      "name": "METRONIDAZOLE",
-      "kg_predictions": 425,
-      "dl_predictions": 491,
-      "license_id": "MAL19920123AZ",
-      "brand_name": "B. BRAUN METRONIDAZOLE INTRAVENOUS INFUSION 500MG "
+      "name": "Acarbose",
+      "slug": "acarbose",
+      "level": "L5",
+      "indication_count": 9
     },
     {
-      "drugbank_id": "DB01165",
-      "name": "OFLOXACIN",
-      "kg_predictions": 690,
-      "dl_predictions": 185,
-      "license_id": "MAL20020027AZ",
-      "brand_name": "OFLICIN-100 TABLET"
+      "name": "Aceclofenac",
+      "slug": "aceclofenac",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00936",
-      "name": "SALICYLIC ACID",
-      "kg_predictions": 567,
-      "dl_predictions": 282,
-      "license_id": "MAL07010967X",
-      "brand_name": "Sebitar Scalp Cleansing Treatment"
+      "name": "Acetaminophen",
+      "slug": "acetaminophen",
+      "level": "L4",
+      "indication_count": 1
     },
     {
-      "drugbank_id": "DB01026",
-      "name": "KETOCONAZOLE",
-      "kg_predictions": 759,
-      "dl_predictions": 62,
-      "license_id": "MAL19992693AZ",
-      "brand_name": "FUNGINOX TABLET"
+      "name": "Acetazolamide",
+      "slug": "acetazolamide",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB01045",
-      "name": "RIFAMPICIN",
-      "kg_predictions": 6,
-      "dl_predictions": 781,
-      "license_id": "MAL19860827AZ",
-      "brand_name": "Royce Rifampicin Capsule 300mg"
+      "name": "Acetic Acid",
+      "slug": "acetic_acid",
+      "level": "L5",
+      "indication_count": 9
     },
     {
-      "drugbank_id": "DB05578",
-      "name": "RAMUCIRUMAB",
-      "kg_predictions": 20,
-      "dl_predictions": 750,
-      "license_id": "MAL17075033ARZ",
-      "brand_name": "Cyramza 100mg/10ml concentrate for solution for in"
+      "name": "Acetylcysteine",
+      "slug": "acetylcysteine",
+      "level": "L5",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB14512",
-      "name": "MOMETASONE FUROATE",
-      "kg_predictions": 640,
-      "dl_predictions": 121,
-      "license_id": "MAL11080006AZ",
-      "brand_name": "VIZOMET OINTMENT 0.1% W/W"
+      "name": "Acetylsalicylic Acid",
+      "slug": "acetylsalicylic_acid",
+      "level": "L3",
+      "indication_count": 9
     },
     {
-      "drugbank_id": "DB15071",
-      "name": "OMIDENEPAG ISOPROPYL",
-      "kg_predictions": 4,
-      "dl_predictions": 721,
-      "license_id": "MAL21076001ARZ",
-      "brand_name": "Eybelis ophthalmic solution 0.002%"
+      "name": "Acitretin",
+      "slug": "acitretin",
+      "level": "L3",
+      "indication_count": 4
     },
     {
-      "drugbank_id": "DB00742",
-      "name": "MANNITOL",
-      "kg_predictions": 18,
-      "dl_predictions": 698,
-      "license_id": "MAL21076024AZ",
-      "brand_name": "B. Braun Mannitol 20% Solution for Infusion"
+      "name": "Acyclovir",
+      "slug": "acyclovir",
+      "level": "L1",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB01248",
-      "name": "DOCETAXEL",
-      "kg_predictions": 70,
-      "dl_predictions": 610,
-      "license_id": "MAL18026176ACZ",
-      "brand_name": "Seacross Docetaxel 20mg/ml Concentrate for Solutio"
+      "name": "Adalimumab",
+      "slug": "adalimumab",
+      "level": "L1",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB01590",
-      "name": "EVEROLIMUS",
-      "kg_predictions": 80,
-      "dl_predictions": 573,
-      "license_id": "MAL20071691ARZ",
-      "brand_name": "CERTICAN 0.75 MG TABLETS"
+      "name": "Adapalene",
+      "slug": "adapalene",
+      "level": "L5",
+      "indication_count": 1
     },
     {
-      "drugbank_id": "DB04951",
-      "name": "PIRFENIDONE",
-      "kg_predictions": 9,
-      "dl_predictions": 643,
-      "license_id": "MAL16115027ACRZ",
-      "brand_name": "ESBRIET HARD CAPSULES 267MG"
+      "name": "Ademetionine",
+      "slug": "ademetionine",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00588",
-      "name": "FLUTICASONE PROPIONATE",
-      "kg_predictions": 540,
-      "dl_predictions": 110,
-      "license_id": "MAL11105001AZ",
-      "brand_name": "Flutinide Nasal Spray 50mcg/dose"
+      "name": "Adenosine",
+      "slug": "adenosine",
+      "level": "L5",
+      "indication_count": 2
     },
     {
-      "drugbank_id": "DB00641",
-      "name": "SIMVASTATIN",
-      "kg_predictions": 528,
-      "dl_predictions": 120,
-      "license_id": "MAL11100002ARZ",
-      "brand_name": "SimvaHEXAL 20mg Film-coated Tablet"
+      "name": "Aflibercept",
+      "slug": "aflibercept",
+      "level": "L5",
+      "indication_count": 1
     },
     {
-      "drugbank_id": "DB09321",
-      "name": "ZINC OXIDE",
-      "kg_predictions": 504,
-      "dl_predictions": 143,
-      "license_id": "MAL20061575XCZ",
-      "brand_name": "Polylab Zinc Paste BP 25 % w/w"
+      "name": "Agomelatine",
+      "slug": "agomelatine",
+      "level": "L2",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00257",
-      "name": "CLOTRIMAZOLE",
-      "kg_predictions": 549,
-      "dl_predictions": 83,
-      "license_id": "MAL10100180XZ",
-      "brand_name": "MYCORIL SPRAY 1%"
+      "name": "Alanine",
+      "slug": "alanine",
+      "level": "L5",
+      "indication_count": 1
     },
     {
-      "drugbank_id": "DB00750",
-      "name": "PRILOCAINE",
-      "kg_predictions": 4,
-      "dl_predictions": 618,
-      "license_id": "MAL24066016AZ",
-      "brand_name": "Axcel Lignocaine-P Cream"
+      "name": "Albendazole",
+      "slug": "albendazole",
+      "level": "L5",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB05676",
-      "name": "APREMILAST",
-      "kg_predictions": 3,
-      "dl_predictions": 600,
-      "license_id": "MAL22086024AZ",
-      "brand_name": "Aprezo 10mg Film Coated Tablets"
+      "name": "Albutrepenonacog Alfa",
+      "slug": "albutrepenonacog_alfa",
+      "level": "L5",
+      "indication_count": 6
     },
     {
-      "drugbank_id": "DB00544",
-      "name": "FLUOROURACIL",
-      "kg_predictions": 57,
-      "dl_predictions": 533,
-      "license_id": "MAL09082788AZ",
-      "brand_name": "FLURAC INJECTION B.P. 50MG/ML"
+      "name": "Alfacalcidol",
+      "slug": "alfacalcidol",
+      "level": "L4",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB00563",
-      "name": "METHOTREXATE",
-      "kg_predictions": 150,
-      "dl_predictions": 415,
-      "license_id": "MAL20014315ARZ",
-      "brand_name": "Zexate Solution for Injection or Infusion 25 mg/ml"
+      "name": "Alfuzosin",
+      "slug": "alfuzosin",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB09303",
-      "name": "EVOLOCUMAB",
-      "kg_predictions": 4,
-      "dl_predictions": 550,
-      "license_id": "MAL17065004AZ",
-      "brand_name": "Repatha Solution for Injection in Pre-filled Syrin"
+      "name": "Allopurinol",
+      "slug": "allopurinol",
+      "level": "L4",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00437",
-      "name": "ALLOPURINOL",
-      "kg_predictions": 33,
-      "dl_predictions": 512,
-      "license_id": "MAL19992398AZ",
-      "brand_name": "YSP Allopurinol Tablet 300mg"
+      "name": "Alpelisib",
+      "slug": "alpelisib",
+      "level": "L5",
+      "indication_count": 1
     },
     {
-      "drugbank_id": "DB06151",
-      "name": "ACETYLCYSTEINE",
-      "kg_predictions": 232,
-      "dl_predictions": 269,
-      "license_id": "MAL20014507X",
-      "brand_name": "FLUIMUCIL A-200 GRANULES"
+      "name": "Alpha-Tocopherol Acetate",
+      "slug": "alpha-tocopherol_acetate",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00537",
-      "name": "CIPROFLOXACIN",
-      "kg_predictions": 280,
-      "dl_predictions": 215,
-      "license_id": "MAL17107040ACREZ",
-      "brand_name": "hovid Ciprofloxacin Ophthalmic Solution 0.3% w/v"
+      "name": "Alprazolam",
+      "slug": "alprazolam",
+      "level": "L4",
+      "indication_count": 3
     },
     {
-      "drugbank_id": "DB06366",
-      "name": "PERTUZUMAB",
-      "kg_predictions": 3,
-      "dl_predictions": 481,
-      "license_id": "MAL22056048ARZ",
-      "brand_name": "PHESGO Solution for Subcutaneous Injection 1200mg/"
+      "name": "Alprostadil",
+      "slug": "alprostadil",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00829",
-      "name": "DIAZEPAM",
-      "kg_predictions": 56,
-      "dl_predictions": 413,
-      "license_id": "MAL16105030AZ",
-      "brand_name": "STESOLID RECTAL TUBE 5MG"
+      "name": "Amantadine",
+      "slug": "amantadine",
+      "level": "L5",
+      "indication_count": 4
     },
     {
-      "drugbank_id": "DB01050",
-      "name": "IBUPROFEN",
-      "kg_predictions": 360,
-      "dl_predictions": 77,
-      "license_id": "MAL19963163AZ",
-      "brand_name": "NUROFEN FOR CHILDREN"
+      "name": "Ambrisentan",
+      "slug": "ambrisentan",
+      "level": "L4",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00115",
-      "name": "CYANOCOBALAMIN",
-      "kg_predictions": 320,
-      "dl_predictions": 113,
-      "license_id": "MAL20162590ACREZ",
-      "brand_name": "Hovid Neurovit Injection"
+      "name": "Amikacin",
+      "slug": "amikacin",
+      "level": "L4",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00773",
-      "name": "ETOPOSIDE",
-      "kg_predictions": 16,
-      "dl_predictions": 417,
-      "license_id": "MAL11070004AZ",
-      "brand_name": "Fytosid Injection (20mg/ml)"
+      "name": "Ammonium Chloride",
+      "slug": "ammonium_chloride",
+      "level": "L5",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB01222",
-      "name": "BUDESONIDE",
-      "kg_predictions": 216,
-      "dl_predictions": 208,
-      "license_id": "MAL16065020AZ",
-      "brand_name": "Besonin Aqua Nasal Spray 64mcg/dose"
+      "name": "Amodiaquine",
+      "slug": "amodiaquine",
+      "level": "L5",
+      "indication_count": 6
     },
     {
-      "drugbank_id": "DB00966",
-      "name": "TELMISARTAN",
-      "kg_predictions": 348,
-      "dl_predictions": 72,
-      "license_id": "MAL21106018AZ",
-      "brand_name": "TELMIDIP 40 mg Tablets"
+      "name": "Amorolfine",
+      "slug": "amorolfine",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00072",
-      "name": "TRASTUZUMAB",
-      "kg_predictions": 11,
-      "dl_predictions": 399,
-      "license_id": "MAL20014475ARZ",
-      "brand_name": "HERCEPTIN VIAL 440MG POWDER FOR CONCENTRATE"
+      "name": "Amoxicillin",
+      "slug": "amoxicillin",
+      "level": "L5",
+      "indication_count": 8
     },
     {
-      "drugbank_id": "DB01101",
-      "name": "CAPECITABINE",
-      "kg_predictions": 72,
-      "dl_predictions": 328,
-      "license_id": "MAL21126009AZ",
-      "brand_name": "CAPIIBINE 150 (Capecitabine Film-Coated Tablets 15"
+      "name": "Amphotericin B",
+      "slug": "amphotericin_b",
+      "level": "L5",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB00133",
-      "name": "SERINE",
-      "kg_predictions": 54,
-      "dl_predictions": 344,
-      "license_id": "MAL16085022AZ",
-      "brand_name": "OLIMEL N9E, emulsion for infusion"
+      "name": "Ampicillin",
+      "slug": "ampicillin",
+      "level": "L4",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB08899",
-      "name": "ENZALUTAMIDE",
-      "kg_predictions": 12,
-      "dl_predictions": 375,
-      "license_id": "MAL16045039ACRZ",
-      "brand_name": "Xtandi 40mg Soft Capsules"
+      "name": "Amylmetacresol",
+      "slug": "amylmetacresol",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00684",
-      "name": "TOBRAMYCIN",
-      "kg_predictions": 78,
-      "dl_predictions": 296,
-      "license_id": "MAL19920042ARZ",
-      "brand_name": "TOBRADEX OPHTHALMIC SUSPENSION"
+      "name": "Anastrozole",
+      "slug": "anastrozole",
+      "level": "L1",
+      "indication_count": 6
     },
     {
-      "drugbank_id": "DB00196",
-      "name": "FLUCONAZOLE",
-      "kg_predictions": 182,
-      "dl_predictions": 183,
-      "license_id": "MAL05121155AZ",
-      "brand_name": "Zocol 50mg Capsule"
+      "name": "Andexanet Alfa",
+      "slug": "andexanet_alfa",
+      "level": "L5",
+      "indication_count": 4
     },
     {
-      "drugbank_id": "DB04272",
-      "name": "CITRIC ACID",
-      "kg_predictions": 18,
-      "dl_predictions": 346,
-      "license_id": "MAL19962144XR",
-      "brand_name": "ENO FRUIT SALT"
+      "name": "Apixaban",
+      "slug": "apixaban",
+      "level": "L4",
+      "indication_count": 1
     },
     {
-      "drugbank_id": "DB00518",
-      "name": "ALBENDAZOLE",
-      "kg_predictions": 72,
-      "dl_predictions": 286,
-      "license_id": "MAL06061544XZ",
-      "brand_name": "Adazol tablets"
+      "name": "Aprepitant",
+      "slug": "aprepitant",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00053",
-      "name": "IMIGLUCERASE",
-      "kg_predictions": 1,
-      "dl_predictions": 352,
-      "license_id": "MAL20071673AZ",
-      "brand_name": "CEREZYME 400 UNIT"
+      "name": "Arginine",
+      "slug": "arginine",
+      "level": "L4",
+      "indication_count": 1
     },
     {
-      "drugbank_id": "DB00091",
-      "name": "CYCLOSPORINE",
-      "kg_predictions": 4,
-      "dl_predictions": 348,
-      "license_id": "MAL20071648ARZ",
-      "brand_name": "RESTASIS 0.05% w/w OPHTHALMIC EMULSION"
+      "name": "Aripiprazole",
+      "slug": "aripiprazole",
+      "level": "L5",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB00230",
-      "name": "PREGABALIN",
-      "kg_predictions": 252,
-      "dl_predictions": 97,
-      "license_id": "MAL21106023AZ",
-      "brand_name": "Pregal 150 mg capsule"
+      "name": "Arsenic Trioxide",
+      "slug": "arsenic_trioxide",
+      "level": "L2",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00564",
-      "name": "CARBAMAZEPINE",
-      "kg_predictions": 96,
-      "dl_predictions": 241,
-      "license_id": "MAL06071037AZ",
-      "brand_name": "Carbatol CR-200 Tablet"
+      "name": "Artemether",
+      "slug": "artemether",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB01598",
-      "name": "IMIPENEM",
-      "kg_predictions": 16,
-      "dl_predictions": 319,
-      "license_id": "MAL07061387AZ",
-      "brand_name": "BACQURE FOR IV INJECTION 500MG"
+      "name": "Ascorbic Acid",
+      "slug": "ascorbic_acid",
+      "level": "L4",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB11248",
-      "name": "ZINC GLUCONATE",
-      "kg_predictions": 2,
-      "dl_predictions": 329,
-      "license_id": "MAL06061547X",
-      "brand_name": "GNC Zinc 50mg Tablet"
+      "name": "Asfotase Alfa",
+      "slug": "asfotase_alfa",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB01013",
-      "name": "CLOBETASOL PROPIONATE",
-      "kg_predictions": 224,
-      "dl_predictions": 105,
-      "license_id": "MAL11030009AZ",
-      "brand_name": "Clonate  Cream 0.05%w/w"
+      "name": "Aspartic Acid",
+      "slug": "aspartic_acid",
+      "level": "L5",
+      "indication_count": 1
     },
     {
-      "drugbank_id": "DB03793",
-      "name": "BENZOIC ACID",
-      "kg_predictions": 80,
-      "dl_predictions": 249,
-      "license_id": "MAL19970697XC",
-      "brand_name": "SAW HONG CHOON SKIN OINTMENT"
+      "name": "Atenolol",
+      "slug": "atenolol",
+      "level": "L1",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB00874",
-      "name": "GUAIFENESIN",
-      "kg_predictions": 56,
-      "dl_predictions": 271,
-      "license_id": "MAL07122841X",
-      "brand_name": "Homecare Guafensin Syrup 20mg/ml"
+      "name": "Atezolizumab",
+      "slug": "atezolizumab",
+      "level": "L3",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB01211",
-      "name": "CLARITHROMYCIN",
-      "kg_predictions": 252,
-      "dl_predictions": 75,
-      "license_id": "MAL20013757AZ",
-      "brand_name": "KLACID GRANULES 250MG/5ML PEDIATRIC SUSPENSION"
+      "name": "Atosiban",
+      "slug": "atosiban",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00110",
-      "name": "PALIVIZUMAB",
-      "kg_predictions": 1,
-      "dl_predictions": 318,
-      "license_id": "MAL16125042ACZ",
-      "brand_name": "Synagis 100mg/ml solution for Injection"
+      "name": "Atracurium Besylate",
+      "slug": "atracurium_besylate",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00482",
-      "name": "CELECOXIB",
-      "kg_predictions": 198,
-      "dl_predictions": 121,
-      "license_id": "MAL22066006AZ",
-      "brand_name": "CELXIB 200mg Capsule"
+      "name": "Atropine",
+      "slug": "atropine",
+      "level": "L4",
+      "indication_count": 2
     },
     {
-      "drugbank_id": "DB00455",
-      "name": "LORATADINE",
-      "kg_predictions": 297,
-      "dl_predictions": 18,
-      "license_id": "MAL21046021ACZ",
-      "brand_name": "ALLOR (LORATADINE ORAL SOLUTION 5MG/5ML USP)"
+      "name": "Avelumab",
+      "slug": "avelumab",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00051",
-      "name": "ADALIMUMAB",
-      "kg_predictions": 180,
-      "dl_predictions": 130,
-      "license_id": "MAL21106016ACRZ",
-      "brand_name": "IDACIO solution for Injection for paediatric use 4"
+      "name": "Axitinib",
+      "slug": "axitinib",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00724",
-      "name": "IMIQUIMOD",
-      "kg_predictions": 22,
-      "dl_predictions": 287,
-      "license_id": "MAL22036009ACZ",
-      "brand_name": "ALDARA CREAM 5% w/w"
+      "name": "Azacitidine",
+      "slug": "azacitidine",
+      "level": "L2",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB00334",
-      "name": "OLANZAPINE",
-      "kg_predictions": 224,
-      "dl_predictions": 81,
-      "license_id": "MAL11030090ACZ",
-      "brand_name": "OlanklineTM 5mg film-coated tablet"
+      "name": "Azathioprine",
+      "slug": "azathioprine",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00766",
-      "name": "CLAVULANIC ACID",
-      "kg_predictions": 110,
-      "dl_predictions": 194,
-      "license_id": "MAL20013767AZ",
-      "brand_name": "PHARMANIAGA CO-AMOXICLAV TABLET 625MG"
+      "name": "Azithromycin",
+      "slug": "azithromycin",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB01394",
-      "name": "COLCHICINE",
-      "kg_predictions": 21,
-      "dl_predictions": 279,
-      "license_id": "MAL22096029ACZ",
-      "brand_name": "COLSYN (Colchicine Tablets USP 500 mcg)"
+      "name": "Bacitracin",
+      "slug": "bacitracin",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00265",
-      "name": "CROTAMITON",
-      "kg_predictions": 27,
-      "dl_predictions": 270,
-      "license_id": "MAL10080071XZ",
-      "brand_name": "Crotocort Lotion 10% w/w"
+      "name": "Baclofen",
+      "slug": "baclofen",
+      "level": "L5",
+      "indication_count": 2
     },
     {
-      "drugbank_id": "DB01169",
-      "name": "ARSENIC TRIOXIDE",
-      "kg_predictions": 3,
-      "dl_predictions": 293,
-      "license_id": "MAL20071712AZ",
-      "brand_name": "ASADIN INJECTION 1.0MG/ML"
+      "name": "Baricitinib",
+      "slug": "baricitinib",
+      "level": "L5",
+      "indication_count": 2
     },
     {
-      "drugbank_id": "DB00967",
-      "name": "DESLORATADINE",
-      "kg_predictions": 230,
-      "dl_predictions": 65,
-      "license_id": "MAL21126003AZ",
-      "brand_name": "Actilor Syrup 2.5 mg/ 5 ml"
+      "name": "Beclomethasone Dipropionate",
+      "slug": "beclomethasone_dipropionate",
+      "level": "L1",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB01137",
-      "name": "LEVOFLOXACIN",
-      "kg_predictions": 52,
-      "dl_predictions": 240,
-      "license_id": "MAL17107077ARZ",
-      "brand_name": "Cravit 1.5% ophthalmic solution"
+      "name": "Bedaquiline",
+      "slug": "bedaquiline",
+      "level": "L1",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB01609",
-      "name": "DEFERASIROX",
-      "kg_predictions": 98,
-      "dl_predictions": 190,
-      "license_id": "MAL22066013AZ",
-      "brand_name": "Irosix 360mg Film Coated Tablets"
+      "name": "Belimumab",
+      "slug": "belimumab",
+      "level": "L5",
+      "indication_count": 6
     },
     {
-      "drugbank_id": "DB00043",
-      "name": "OMALIZUMAB",
-      "kg_predictions": 28,
-      "dl_predictions": 255,
-      "license_id": "MAL22086007ACRZ",
-      "brand_name": "Xolair 150mg/ml Solution for Injection in Pre-fill"
+      "name": "Benralizumab",
+      "slug": "benralizumab",
+      "level": "L2",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB09357",
-      "name": "DEXPANTHENOL",
-      "kg_predictions": 30,
-      "dl_predictions": 253,
-      "license_id": "MAL07050214ARZ",
-      "brand_name": "Cernevit, Lyophilisate for Reconstitution"
+      "name": "Benzbromarone",
+      "slug": "benzbromarone",
+      "level": "L5",
+      "indication_count": 1
     },
     {
-      "drugbank_id": "DB00501",
-      "name": "CIMETIDINE",
-      "kg_predictions": 252,
-      "dl_predictions": 28,
-      "license_id": "MAL19961701AZ",
-      "brand_name": "TYMIDIN 200"
+      "name": "Benzocaine",
+      "slug": "benzocaine",
+      "level": "L5",
+      "indication_count": 1
     },
     {
-      "drugbank_id": "DB00973",
-      "name": "EZETIMIBE",
-      "kg_predictions": 234,
-      "dl_predictions": 45,
-      "license_id": "MAL21076010AZ",
-      "brand_name": "ETIMICOL 10 (Ezetimibe Tablets 10mg)"
+      "name": "Benzoic Acid",
+      "slug": "benzoic_acid",
+      "level": "L5",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB09125",
-      "name": "POTASSIUM CITRATE",
-      "kg_predictions": 27,
-      "dl_predictions": 247,
-      "license_id": "MAL19962488X",
-      "brand_name": "REXOM POTASSIUM CITRATE MIXTURE"
+      "name": "Benzoyl Peroxide",
+      "slug": "benzoyl_peroxide",
+      "level": "L5",
+      "indication_count": 4
     },
     {
-      "drugbank_id": "DB00287",
-      "name": "TRAVOPROST",
-      "kg_predictions": 8,
-      "dl_predictions": 264,
-      "license_id": "MAL17035029AZ",
-      "brand_name": "TRAVO EYE DROPS 0.004% W/V"
+      "name": "Betamethasone",
+      "slug": "betamethasone",
+      "level": "L4",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB00626",
-      "name": "BACITRACIN",
-      "kg_predictions": 3,
-      "dl_predictions": 269,
-      "license_id": "MAL19921141AZ",
-      "brand_name": "POLYBAMYCIN OINTMENT"
+      "name": "Bevacizumab",
+      "slug": "bevacizumab",
+      "level": "L1",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB00438",
-      "name": "CEFTAZIDIME",
-      "kg_predictions": 105,
-      "dl_predictions": 166,
-      "license_id": "MAL20014320AZ",
-      "brand_name": "CEF-4 1G INJECTION"
+      "name": "Bicalutamide",
+      "slug": "bicalutamide",
+      "level": "L4",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00199",
-      "name": "ERYTHROMYCIN",
-      "kg_predictions": 88,
-      "dl_predictions": 180,
-      "license_id": "MAL20020154AZ",
-      "brand_name": "AXCEL ERYTHROMYCIN ES TABLET"
+      "name": "Bimatoprost",
+      "slug": "bimatoprost",
+      "level": "L2",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00987",
-      "name": "CYTARABINE",
-      "kg_predictions": 60,
-      "dl_predictions": 205,
-      "license_id": "MAL19930477AZ",
-      "brand_name": "CYTARABINE CS INJ 1000MG IN 10ML"
+      "name": "Biotin",
+      "slug": "biotin",
+      "level": "L5",
+      "indication_count": 2
     },
     {
-      "drugbank_id": "DB00201",
-      "name": "CAFFEINE",
-      "kg_predictions": 108,
-      "dl_predictions": 153,
-      "license_id": "MAL16095032X",
-      "brand_name": "Panadol Extra Tablet Optizorb Formulation"
+      "name": "Bortezomib",
+      "slug": "bortezomib",
+      "level": "L2",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB00446",
-      "name": "CHLORAMPHENICOL",
-      "kg_predictions": 140,
-      "dl_predictions": 120,
-      "license_id": "MAL19860736AZ",
-      "brand_name": "XEPANICOL EYE DROPS 0.5%"
+      "name": "Brentuximab Vedotin",
+      "slug": "brentuximab_vedotin",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00526",
-      "name": "OXALIPLATIN",
-      "kg_predictions": 9,
-      "dl_predictions": 241,
-      "license_id": "MAL11070003ARZ",
-      "brand_name": "Oxitan Injection (5mg/ml)"
+      "name": "Brigatinib",
+      "slug": "brigatinib",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00581",
-      "name": "LACTULOSE",
-      "kg_predictions": 36,
-      "dl_predictions": 212,
-      "license_id": "MAL21076023XZ",
-      "brand_name": "Lacphavid Oral Solution 3.35g/5ml"
+      "name": "Brinzolamide",
+      "slug": "brinzolamide",
+      "level": "L5",
+      "indication_count": 1
     },
     {
-      "drugbank_id": "DB00126",
-      "name": "ASCORBIC ACID",
-      "kg_predictions": 36,
-      "dl_predictions": 206,
-      "license_id": "MAL19961675XZ",
-      "brand_name": "Zhubee Vitamin C Tablet 300mg"
+      "name": "Brolucizumab",
+      "slug": "brolucizumab",
+      "level": "L5",
+      "indication_count": 4
     },
     {
-      "drugbank_id": "DB00788",
-      "name": "NAPROXEN",
-      "kg_predictions": 100,
-      "dl_predictions": 136,
-      "license_id": "MAL19961702AZ",
-      "brand_name": "SUNPROX 275MG TABLET"
+      "name": "Bromazepam",
+      "slug": "bromazepam",
+      "level": "L5",
+      "indication_count": 1
     },
     {
-      "drugbank_id": "DB00335",
-      "name": "ATENOLOL",
-      "kg_predictions": 180,
-      "dl_predictions": 52,
-      "license_id": "MAL19913259AZ",
-      "brand_name": "DYNORMIN TABLET 100MG"
+      "name": "Bromocriptine",
+      "slug": "bromocriptine",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB01042",
-      "name": "MELPHALAN",
-      "kg_predictions": 44,
-      "dl_predictions": 187,
-      "license_id": "MAL07101257ACZ",
-      "brand_name": "Alkeran Tablets 2mg"
+      "name": "Budesonide",
+      "slug": "budesonide",
+      "level": "L1",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB09036",
-      "name": "SILTUXIMAB",
-      "kg_predictions": 4,
-      "dl_predictions": 227,
-      "license_id": "MAL17035027AZ",
-      "brand_name": "Sylvant 400mg Powder for Concentrate for Solution "
+      "name": "Bumetanide",
+      "slug": "bumetanide",
+      "level": "L4",
+      "indication_count": 1
     },
     {
-      "drugbank_id": "DB00755",
-      "name": "TRETINOIN",
-      "kg_predictions": 8,
-      "dl_predictions": 220,
-      "license_id": "MAL20061541ACRZ",
-      "brand_name": "TRI-LUMA CREAM"
+      "name": "Bupropion",
+      "slug": "bupropion",
+      "level": "L1",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00145",
-      "name": "GLYCINE",
-      "kg_predictions": 192,
-      "dl_predictions": 35,
-      "license_id": "MAL16085022AZ",
-      "brand_name": "OLIMEL N9E, emulsion for infusion"
+      "name": "Busulfan",
+      "slug": "busulfan",
+      "level": "L1",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00440",
-      "name": "TRIMETHOPRIM",
-      "kg_predictions": 112,
-      "dl_predictions": 115,
-      "license_id": "MAL19961699AZ",
-      "brand_name": "COMAZOLE SUSPENSION"
+      "name": "Cabazitaxel",
+      "slug": "cabazitaxel",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00977",
-      "name": "ETHINYLESTRADIOL",
-      "kg_predictions": 105,
-      "dl_predictions": 122,
-      "license_id": "MAL19991384AZ",
-      "brand_name": "MINULET TABLET"
+      "name": "Cabergoline",
+      "slug": "cabergoline",
+      "level": "L1",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB01238",
-      "name": "ARIPIPRAZOLE",
-      "kg_predictions": 150,
-      "dl_predictions": 74,
-      "license_id": "MAL06071067AZ",
-      "brand_name": "ARIP MT 10 TABLETS 10mg"
+      "name": "Cabotegravir",
+      "slug": "cabotegravir",
+      "level": "L5",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB09154",
-      "name": "SODIUM CITRATE",
-      "kg_predictions": 90,
-      "dl_predictions": 132,
-      "license_id": "MAL17015017X",
-      "brand_name": "Urilyte Syrup"
+      "name": "Cabozantinib",
+      "slug": "cabozantinib",
+      "level": "L3",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00770",
-      "name": "ALPROSTADIL",
-      "kg_predictions": 18,
-      "dl_predictions": 199,
-      "license_id": "MAL19970629ARZ",
-      "brand_name": "CAVERJECT STERILE POWDER INJECTION"
+      "name": "Caffeine",
+      "slug": "caffeine",
+      "level": "L3",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB00035",
-      "name": "DESMOPRESSIN",
-      "kg_predictions": 12,
-      "dl_predictions": 203,
-      "license_id": "MAL20116002ACRZ",
-      "brand_name": "Nocdurna Oral Lyophilisate for Sublingual 25 mcg"
+      "name": "Calcifediol",
+      "slug": "calcifediol",
+      "level": "L5",
+      "indication_count": 4
     },
     {
-      "drugbank_id": "DB00480",
-      "name": "LENALIDOMIDE",
-      "kg_predictions": 100,
-      "dl_predictions": 113,
-      "license_id": "MAL22076030AZ",
-      "brand_name": "Lenmicare Capsules 5mg"
+      "name": "Calcipotriol",
+      "slug": "calcipotriol",
+      "level": "L3",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00734",
-      "name": "RISPERIDONE",
-      "kg_predictions": 150,
-      "dl_predictions": 61,
-      "license_id": "MAL11100010AZ",
-      "brand_name": "Risnia Tablets 2 mg"
+      "name": "Calcitriol",
+      "slug": "calcitriol",
+      "level": "L5",
+      "indication_count": 7
     },
     {
-      "drugbank_id": "DB06650",
-      "name": "OFATUMUMAB",
-      "kg_predictions": 2,
-      "dl_predictions": 208,
-      "license_id": "MAL21086008ARZ",
-      "brand_name": "Bonspri 20mg/0.4mL Solution for Injection in Pre-f"
+      "name": "Calcium Carbonate",
+      "slug": "calcium_carbonate",
+      "level": "L4",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB09096",
-      "name": "BENZOYL PEROXIDE",
-      "kg_predictions": 54,
-      "dl_predictions": 156,
-      "license_id": "MAL19962883XZ",
-      "brand_name": "OXY COVER CREAM"
+      "name": "Calcium Chloride",
+      "slug": "calcium_chloride",
+      "level": "L4",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB00624",
-      "name": "TESTOSTERONE",
-      "kg_predictions": 90,
-      "dl_predictions": 119,
-      "license_id": "MAL06100555AZ",
-      "brand_name": "Androgel 50mg, gel of testosterone 1%"
+      "name": "Calcium Citrate",
+      "slug": "calcium_citrate",
+      "level": "L5",
+      "indication_count": 4
     },
     {
-      "drugbank_id": "DB00853",
-      "name": "TEMOZOLOMIDE",
-      "kg_predictions": 15,
-      "dl_predictions": 194,
-      "license_id": "MAL22096014AZ",
-      "brand_name": "TemoRel Hard Capsule 250 mg"
+      "name": "Calcium Lactate",
+      "slug": "calcium_lactate",
+      "level": "L4",
+      "indication_count": 2
     },
     {
-      "drugbank_id": "DB09104",
-      "name": "MAGNESIUM HYDROXIDE",
-      "kg_predictions": 162,
-      "dl_predictions": 43,
-      "license_id": "MAL19911699X",
-      "brand_name": "BELCID SUSPENSION"
+      "name": "Calcium Lactate Gluconate",
+      "slug": "calcium_lactate_gluconate",
+      "level": "L5",
+      "indication_count": 2
     },
     {
-      "drugbank_id": "DB00591",
-      "name": "FLUOCINOLONE ACETONIDE",
-      "kg_predictions": 51,
-      "dl_predictions": 153,
-      "license_id": "MAL20061541ACRZ",
-      "brand_name": "TRI-LUMA CREAM"
+      "name": "Camphor",
+      "slug": "camphor",
+      "level": "L4",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00928",
-      "name": "AZACITIDINE",
-      "kg_predictions": 204,
-      "dl_predictions": 0,
-      "license_id": "MAL22126024AZ",
-      "brand_name": "AZADUAL 100 (Azacitidine Powder for Suspension for"
+      "name": "Candesartan Cilexetil",
+      "slug": "candesartan_cilexetil",
+      "level": "L5",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB00945",
-      "name": "ACETYLSALICYLIC ACID",
-      "kg_predictions": 26,
-      "dl_predictions": 178,
-      "license_id": "MAL19970944XZ",
-      "brand_name": "ASPIRIN CARDIO"
+      "name": "Capecitabine",
+      "slug": "capecitabine",
+      "level": "L1",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB01262",
-      "name": "DECITABINE",
-      "kg_predictions": 96,
-      "dl_predictions": 107,
-      "license_id": "MAL22046021AZ",
-      "brand_name": "DECI SPAL-P 50 Decitabine Powder for Concentrate f"
+      "name": "Capmatinib",
+      "slug": "capmatinib",
+      "level": "L5",
+      "indication_count": 2
     },
     {
-      "drugbank_id": "DB00350",
-      "name": "MINOXIDIL",
-      "kg_predictions": 45,
-      "dl_predictions": 157,
-      "license_id": "MAL16105054AZ",
-      "brand_name": "Axcel Minoxidil 2% Topical Solution"
+      "name": "Captopril",
+      "slug": "captopril",
+      "level": "L4",
+      "indication_count": 4
     },
     {
-      "drugbank_id": "DB00820",
-      "name": "TADALAFIL",
-      "kg_predictions": 115,
-      "dl_predictions": 87,
-      "license_id": "MAL21066025AZ",
-      "brand_name": "TADACCORD 20 (TADALAFIL TABLETS USP 20 mg)"
+      "name": "Carbamazepine",
+      "slug": "carbamazepine",
+      "level": "L1",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB01212",
-      "name": "CEFTRIAXONE",
-      "kg_predictions": 27,
-      "dl_predictions": 174,
-      "license_id": "MAL20076049ASZ",
-      "brand_name": "MEDAXONUM 1G POWDER FOR SOLUTION FOR INJECTION/INF"
+      "name": "Carbetocin",
+      "slug": "carbetocin",
+      "level": "L5",
+      "indication_count": 2
     },
     {
-      "drugbank_id": "DB00555",
-      "name": "LAMOTRIGINE",
-      "kg_predictions": 100,
-      "dl_predictions": 99,
-      "license_id": "MAL06081206AZ",
-      "brand_name": "LAMITOR 100MG TABLET"
+      "name": "Carbidopa",
+      "slug": "carbidopa",
+      "level": "L1",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB00927",
-      "name": "FAMOTIDINE",
-      "kg_predictions": 135,
-      "dl_predictions": 63,
-      "license_id": "MAL20002518AZ",
-      "brand_name": "SUNPEPCIN 40 TABLET"
+      "name": "Carbimazole",
+      "slug": "carbimazole",
+      "level": "L5",
+      "indication_count": 3
     },
     {
-      "drugbank_id": "DB00207",
-      "name": "AZITHROMYCIN",
-      "kg_predictions": 48,
-      "dl_predictions": 149,
-      "license_id": "MAL19970271ACZ",
-      "brand_name": "ZITHROMAX POWDER FOR ORAL SUSPENSION"
+      "name": "Carbocisteine",
+      "slug": "carbocisteine",
+      "level": "L5",
+      "indication_count": 1
     },
     {
-      "drugbank_id": "DB00958",
-      "name": "CARBOPLATIN",
-      "kg_predictions": 42,
-      "dl_predictions": 155,
-      "license_id": "MAL22036015AZ",
-      "brand_name": "CARBOL - Carboplatin Concentrate for Solution for "
+      "name": "Carboplatin",
+      "slug": "carboplatin",
+      "level": "L2",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00415",
-      "name": "AMPICILLIN",
-      "kg_predictions": 35,
-      "dl_predictions": 159,
-      "license_id": "MAL19985980AZ",
-      "brand_name": "DYNA AMPICILLIN 125MG/5ML"
+      "name": "Carboprost Tromethamine",
+      "slug": "carboprost_tromethamine",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB01068",
-      "name": "CLONAZEPAM",
-      "kg_predictions": 24,
-      "dl_predictions": 168,
-      "license_id": "MAL19950146AZ",
-      "brand_name": "RIVOPAM TABLET 2MG"
+      "name": "Carfilzomib",
+      "slug": "carfilzomib",
+      "level": "L5",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB00394",
-      "name": "BECLOMETHASONE DIPROPIONATE",
-      "kg_predictions": 147,
-      "dl_predictions": 38,
-      "license_id": "MAL21066006AZ",
-      "brand_name": "TRIMBOW (BECLOMETASONE DIPROPIONATE/FORMOTEROL FUM"
+      "name": "Carvedilol",
+      "slug": "carvedilol",
+      "level": "L5",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB01270",
-      "name": "RANIBIZUMAB",
-      "kg_predictions": 7,
-      "dl_predictions": 176,
-      "license_id": "MAL20071650ARZ",
-      "brand_name": "ACCENTRIX 10MG/ML SOLUTION FOR INJECTION"
+      "name": "Cefoperazone",
+      "slug": "cefoperazone",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00158",
-      "name": "FOLIC ACID",
-      "kg_predictions": 132,
-      "dl_predictions": 50,
-      "license_id": "MAL19961654XCZ",
-      "brand_name": "FOLIMIL TABLET 5 MG"
+      "name": "Ceftazidime",
+      "slug": "ceftazidime",
+      "level": "L1",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB00112",
-      "name": "BEVACIZUMAB",
-      "kg_predictions": 180,
-      "dl_predictions": 0,
-      "license_id": "MAL20081788ARSZ",
-      "brand_name": "AVASTIN INJECTION 25MG/ML"
+      "name": "Ceftriaxone",
+      "slug": "ceftriaxone",
+      "level": "L5",
+      "indication_count": 7
     },
     {
-      "drugbank_id": "DB00999",
-      "name": "HYDROCHLOROTHIAZIDE",
-      "kg_predictions": 165,
-      "dl_predictions": 14,
-      "license_id": "MAL16075019AZ",
-      "brand_name": "Saranto-H 50mg/12.5mg Tablets"
+      "name": "Cefuroxime",
+      "slug": "cefuroxime",
+      "level": "L3",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00396",
-      "name": "PROGESTERONE",
-      "kg_predictions": 63,
-      "dl_predictions": 115,
-      "license_id": "MAL17035024ACZ",
-      "brand_name": "ENDOMETRIN 100mg Vaginal Tablet"
+      "name": "Celecoxib",
+      "slug": "celecoxib",
+      "level": "L1",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB08816",
-      "name": "TICAGRELOR",
-      "kg_predictions": 32,
-      "dl_predictions": 145,
-      "license_id": "MAL21096010AZ",
-      "brand_name": "Trixevas 90mg FC Tablet"
+      "name": "Cephalexin",
+      "slug": "cephalexin",
+      "level": "L4",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB08826",
-      "name": "DEFERIPRONE",
-      "kg_predictions": 48,
-      "dl_predictions": 125,
-      "license_id": "MAL12015002AZ",
-      "brand_name": "GPO-L-One Tablet 500mg"
+      "name": "Ceritinib",
+      "slug": "ceritinib",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00814",
-      "name": "MELOXICAM",
-      "kg_predictions": 119,
-      "dl_predictions": 52,
-      "license_id": "MAL06081205ARZ",
-      "brand_name": "Apo-Meloxicam 7.5 mg Tablets"
+      "name": "Cetrorelix",
+      "slug": "cetrorelix",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB14596",
-      "name": "LOTEPREDNOL ETABONATE",
-      "kg_predictions": 26,
-      "dl_predictions": 145,
-      "license_id": "MAL20071704AZ",
-      "brand_name": "LOTEMAX STERILE OPHTHALMIC SUSPENSION"
+      "name": "Cetuximab",
+      "slug": "cetuximab",
+      "level": "L2",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB01039",
-      "name": "FENOFIBRATE",
-      "kg_predictions": 78,
-      "dl_predictions": 86,
-      "license_id": "MAL11045012AZ",
-      "brand_name": "FENO-TG 160mg tablet"
+      "name": "Chlorambucil",
+      "slug": "chlorambucil",
+      "level": "L5",
+      "indication_count": 8
     },
     {
-      "drugbank_id": "DB00073",
-      "name": "RITUXIMAB",
-      "kg_predictions": 90,
-      "dl_predictions": 73,
-      "license_id": "MAL16065058ARZ",
-      "brand_name": "MABTHERA 1400MG SOLUTION FOR SUBCUTANEOUS INJECTIO"
+      "name": "Chloramphenicol",
+      "slug": "chloramphenicol",
+      "level": "L3",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB00525",
-      "name": "TOLNAFTATE",
-      "kg_predictions": 112,
-      "dl_predictions": 51,
-      "license_id": "MAL19962166XC",
-      "brand_name": "DERMOPLEX ANTIFUNGAL CREAM"
+      "name": "Chlordiazepoxide",
+      "slug": "chlordiazepoxide",
+      "level": "L4",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB01029",
-      "name": "IRBESARTAN",
-      "kg_predictions": 141,
-      "dl_predictions": 21,
-      "license_id": "MAL20162572AE",
-      "brand_name": "hovid-Irbesartan Tablet 300mg"
+      "name": "Chlorthalidone",
+      "slug": "chlorthalidone",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB01592",
-      "name": "IRON",
-      "kg_predictions": 90,
-      "dl_predictions": 72,
-      "license_id": "MAL21036012XC",
-      "brand_name": "HAEMO XL SYRUP (IRON (III) HYDROXIDE POLYMALTOSE C"
+      "name": "Chlorzoxazone",
+      "slug": "chlorzoxazone",
+      "level": "L5",
+      "indication_count": 9
     },
     {
-      "drugbank_id": "DB00864",
-      "name": "TACROLIMUS",
-      "kg_predictions": 26,
-      "dl_predictions": 135,
-      "license_id": "MAL22036013AZ",
-      "brand_name": "Tacroz Ointment 0.1% w/w"
+      "name": "Cholecalciferol",
+      "slug": "cholecalciferol",
+      "level": "L2",
+      "indication_count": 7
     },
     {
-      "drugbank_id": "DB00059",
-      "name": "PEGASPARGASE",
-      "kg_predictions": 4,
-      "dl_predictions": 156,
-      "license_id": "MAL22076006ARZ",
-      "brand_name": "Oncaspar 750 U/ml powder for solution for injectio"
+      "name": "Choline Salicylate",
+      "slug": "choline_salicylate",
+      "level": "L3",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00582",
-      "name": "VORICONAZOLE",
-      "kg_predictions": 50,
-      "dl_predictions": 109,
-      "license_id": "MAL21066023AZ",
-      "brand_name": "VORITROP 200 (Voriconazole Tablets 200 mg)"
+      "name": "Ciclesonide",
+      "slug": "ciclesonide",
+      "level": "L5",
+      "indication_count": 6
     },
     {
-      "drugbank_id": "DB06767",
-      "name": "AMMONIUM CHLORIDE",
-      "kg_predictions": 99,
-      "dl_predictions": 60,
-      "license_id": "MAL19900422AZ",
-      "brand_name": "DEXCOPHAN COUGH LINCTUS PLUS"
+      "name": "Cilastatin",
+      "slug": "cilastatin",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00515",
-      "name": "CISPLATIN",
-      "kg_predictions": 42,
-      "dl_predictions": 115,
-      "license_id": "MAL16085028AZ",
-      "brand_name": "PLATOL (Cisplatin Concentrate for solution for Inf"
+      "name": "Cimetidine",
+      "slug": "cimetidine",
+      "level": "L5",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB00717",
-      "name": "NORETHISTERONE",
-      "kg_predictions": 40,
-      "dl_predictions": 113,
-      "license_id": "MAL19871922AZ",
-      "brand_name": "NORCOLUT TABLET 5MG"
+      "name": "Cinchocaine",
+      "slug": "cinchocaine",
+      "level": "L5",
+      "indication_count": 7
     },
     {
-      "drugbank_id": "DB00836",
-      "name": "LOPERAMIDE",
-      "kg_predictions": 2,
-      "dl_predictions": 149,
-      "license_id": "MAL18056073AE",
-      "brand_name": "LOPERAX CAPSULE 2MG"
+      "name": "Ciprofloxacin",
+      "slug": "ciprofloxacin",
+      "level": "L3",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB01059",
-      "name": "NORFLOXACIN",
-      "kg_predictions": 150,
-      "dl_predictions": 0,
-      "license_id": "MAL19921583AZ",
-      "brand_name": "JANACIN TABLET"
+      "name": "Cisatracurium",
+      "slug": "cisatracurium",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB01235",
-      "name": "LEVODOPA",
-      "kg_predictions": 150,
-      "dl_predictions": 0,
-      "license_id": "MAL19984315AZ",
-      "brand_name": "CREDANIL 25/250 TABLET"
+      "name": "Citalopram",
+      "slug": "citalopram",
+      "level": "L5",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB00339",
-      "name": "PYRAZINAMIDE",
-      "kg_predictions": 12,
-      "dl_predictions": 135,
-      "license_id": "MAL19920525AZ",
-      "brand_name": "PHARMANIAGA PYRAZINAMIDE TABLET 500MG"
+      "name": "Citric Acid",
+      "slug": "citric_acid",
+      "level": "L4",
+      "indication_count": 8
     },
     {
-      "drugbank_id": "DB00603",
-      "name": "MEDROXYPROGESTERONE ACETATE",
-      "kg_predictions": 63,
-      "dl_predictions": 84,
-      "license_id": "MAL19950156AZ",
-      "brand_name": "RAVIMED TABLET 5MG"
+      "name": "Cladribine",
+      "slug": "cladribine",
+      "level": "L5",
+      "indication_count": 7
     },
     {
-      "drugbank_id": "DB00643",
-      "name": "MEBENDAZOLE",
-      "kg_predictions": 33,
-      "dl_predictions": 114,
-      "license_id": "MAL06061546X",
-      "brand_name": "M-zole Chewable Tablet"
+      "name": "Clarithromycin",
+      "slug": "clarithromycin",
+      "level": "L3",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB00709",
-      "name": "LAMIVUDINE",
-      "kg_predictions": 90,
-      "dl_predictions": 57,
-      "license_id": "MAL19963153ACRZ",
-      "brand_name": "3TC TABLETS 150MG"
+      "name": "Clavulanic Acid",
+      "slug": "clavulanic_acid",
+      "level": "L4",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB01156",
-      "name": "BUPROPION",
-      "kg_predictions": 10,
-      "dl_predictions": 137,
-      "license_id": "MAL22096003ACRZ",
-      "brand_name": "CONTRAVE Prolonged-Release Tablet Naltrexone Hydro"
+      "name": "Clobazam",
+      "slug": "clobazam",
+      "level": "L4",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB14509",
-      "name": "LITHIUM CARBONATE",
-      "kg_predictions": 11,
-      "dl_predictions": 136,
-      "license_id": "MAL19910006AZ",
-      "brand_name": "LICONATE TABLET 300MG"
+      "name": "Clobetasol Propionate",
+      "slug": "clobetasol_propionate",
+      "level": "L1",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB14491",
-      "name": "FERROUS FUMARATE",
-      "kg_predictions": 91,
-      "dl_predictions": 55,
-      "license_id": "MAL20020030XZ",
-      "brand_name": "SOLIDIRON TABLET 200MG"
+      "name": "Clobetasone",
+      "slug": "clobetasone",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00317",
-      "name": "GEFITINIB",
-      "kg_predictions": 20,
-      "dl_predictions": 125,
-      "license_id": "MAL21096005AZ",
-      "brand_name": "Gefticip 250 (Gefitinib Tablets 250 mg) "
+      "name": "Clofarabine",
+      "slug": "clofarabine",
+      "level": "L1",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00410",
-      "name": "MUPIROCIN",
-      "kg_predictions": 20,
-      "dl_predictions": 124,
-      "license_id": "MAL06081211AZ",
-      "brand_name": "Supirocin Ointment"
+      "name": "Clofazimine",
+      "slug": "clofazimine",
+      "level": "L5",
+      "indication_count": 3
     },
     {
-      "drugbank_id": "DB00558",
-      "name": "ZANAMIVIR",
-      "kg_predictions": 2,
-      "dl_predictions": 139,
-      "license_id": "MAL20061471ARZ",
-      "brand_name": "RELENZA ROTADISK 5MG"
+      "name": "Clomipramine",
+      "slug": "clomipramine",
+      "level": "L1",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB12466",
-      "name": "FAVIPIRAVIR",
-      "kg_predictions": 2,
-      "dl_predictions": 139,
-      "license_id": "MAL21036045AZ",
-      "brand_name": "Fabiflu 200mg Tablets"
+      "name": "Clonazepam",
+      "slug": "clonazepam",
+      "level": "L3",
+      "indication_count": 3
     },
     {
-      "drugbank_id": "DB00761",
-      "name": "POTASSIUM CHLORIDE",
-      "kg_predictions": 108,
-      "dl_predictions": 32,
-      "license_id": "MAL16085022AZ",
-      "brand_name": "OLIMEL N9E, emulsion for infusion"
+      "name": "Clonidine",
+      "slug": "clonidine",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00390",
-      "name": "DIGOXIN",
-      "kg_predictions": 8,
-      "dl_predictions": 131,
-      "license_id": "MAL19861532AZ",
-      "brand_name": "LANOXIN PAEDIATRIC/GERIATRIC ELIXIR"
+      "name": "Clopidogrel",
+      "slug": "clopidogrel",
+      "level": "L5",
+      "indication_count": 8
     },
     {
-      "drugbank_id": "DB00099",
-      "name": "FILGRASTIM",
-      "kg_predictions": 16,
-      "dl_predictions": 120,
-      "license_id": "MAL12035084ACZ",
-      "brand_name": "Zarzio 30 MU/0.5 ml solution for injection or infu"
+      "name": "Clotrimazole",
+      "slug": "clotrimazole",
+      "level": "L1",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB01060",
-      "name": "AMOXICILLIN",
-      "kg_predictions": 24,
-      "dl_predictions": 111,
-      "license_id": "MAL09032000AZ",
-      "brand_name": "Clamentin powder for syrup 31.25mg/ml"
+      "name": "Clozapine",
+      "slug": "clozapine",
+      "level": "L2",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00554",
-      "name": "PIROXICAM",
-      "kg_predictions": 32,
-      "dl_predictions": 100,
-      "license_id": "MAL19920515AZ",
-      "brand_name": "FELXICAM 20 CAPSULE"
+      "name": "Colchicine",
+      "slug": "colchicine",
+      "level": "L5",
+      "indication_count": 3
     },
     {
-      "drugbank_id": "DB13946",
-      "name": "TESTOSTERONE UNDECANOATE",
-      "kg_predictions": 4,
-      "dl_predictions": 127,
-      "license_id": "MAL20061572ACRZ",
-      "brand_name": "NEBIDO 1000MG SOLUTION FOR INJECTION"
+      "name": "Corifollitropin Alfa",
+      "slug": "corifollitropin_alfa",
+      "level": "L5",
+      "indication_count": 8
     },
     {
-      "drugbank_id": "DB14762",
-      "name": "RISANKIZUMAB",
-      "kg_predictions": 8,
-      "dl_predictions": 123,
-      "license_id": "MAL22086006ACRZ",
-      "brand_name": "Skyrizi solution for injection in pre-filled pen 1"
+      "name": "Crizotinib",
+      "slug": "crizotinib",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00030",
-      "name": "INSULIN HUMAN",
-      "kg_predictions": 110,
-      "dl_predictions": 20,
-      "license_id": "MAL21066008ASZ",
-      "brand_name": "Mixtard 30 FlexPen  100 IU/ml Suspension for Injec"
+      "name": "Cyanocobalamin",
+      "slug": "cyanocobalamin",
+      "level": "L4",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB00567",
-      "name": "CEPHALEXIN",
-      "kg_predictions": 64,
-      "dl_predictions": 65,
-      "license_id": "MAL06081196AZ",
-      "brand_name": "Cephanmycin Capsule 500mg"
+      "name": "Cyclophosphamide",
+      "slug": "cyclophosphamide",
+      "level": "L2",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB00568",
-      "name": "CINNARIZINE",
-      "kg_predictions": 10,
-      "dl_predictions": 118,
-      "license_id": "MAL19900161AZ",
-      "brand_name": "PRINAZIN TABLET 25MG"
+      "name": "Cycloserine",
+      "slug": "cycloserine",
+      "level": "L5",
+      "indication_count": 7
     },
     {
-      "drugbank_id": "DB00654",
-      "name": "LATANOPROST",
-      "kg_predictions": 34,
-      "dl_predictions": 93,
-      "license_id": "MAL17015025ACZ",
-      "brand_name": "PROSDROP 0.05mg/ml EYE DROPS, SOLUTION"
+      "name": "Cyclosporine",
+      "slug": "cyclosporine",
+      "level": "L4",
+      "indication_count": 7
     },
     {
-      "drugbank_id": "DB00338",
-      "name": "OMEPRAZOLE",
-      "kg_predictions": 126,
-      "dl_predictions": 0,
-      "license_id": "MAL18056152AZ",
-      "brand_name": "Promesec Capsule 20mg"
+      "name": "Cyproterone Acetate",
+      "slug": "cyproterone_acetate",
+      "level": "L4",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB05332",
-      "name": "ROMIPLOSTIM",
-      "kg_predictions": 3,
-      "dl_predictions": 123,
-      "license_id": "MAL20112174AZ",
-      "brand_name": "ROMIPLATE 250 ug INJECTION"
+      "name": "Cytarabine",
+      "slug": "cytarabine",
+      "level": "L4",
+      "indication_count": 9
     },
     {
-      "drugbank_id": "DB00845",
-      "name": "CLOFAZIMINE",
-      "kg_predictions": 12,
-      "dl_predictions": 111,
-      "license_id": "MAL09102930AZ",
-      "brand_name": "Fazim 50 mg Capsule"
+      "name": "Dabigatran Etexilate",
+      "slug": "dabigatran_etexilate",
+      "level": "L4",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB00186",
-      "name": "LORAZEPAM",
-      "kg_predictions": 40,
-      "dl_predictions": 80,
-      "license_id": "MAL19900509AZ",
-      "brand_name": "TRANPAM TABLET 0.5MG"
+      "name": "Dacarbazine",
+      "slug": "dacarbazine",
+      "level": "L4",
+      "indication_count": 1
     },
     {
-      "drugbank_id": "DB00244",
-      "name": "MESALAZINE",
-      "kg_predictions": 48,
-      "dl_predictions": 70,
-      "license_id": "MAL17085067ACZ",
-      "brand_name": "Mezavant XL 1200mg, gastro-resistant, prolonged re"
+      "name": "Danazol",
+      "slug": "danazol",
+      "level": "L2",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00959",
-      "name": "METHYLPREDNISOLONE",
-      "kg_predictions": 118,
-      "dl_predictions": 0,
-      "license_id": "MAL19990587AZ",
-      "brand_name": "MEDIXON TABLET"
+      "name": "Dapsone",
+      "slug": "dapsone",
+      "level": "L1",
+      "indication_count": 1
     },
     {
-      "drugbank_id": "DB04572",
-      "name": "THIOTEPA",
-      "kg_predictions": 117,
-      "dl_predictions": 0,
-      "license_id": "MAL23066003AZ",
-      "brand_name": "TEPADINA 400 mg powder and solvent for solution fo"
+      "name": "Daptomycin",
+      "slug": "daptomycin",
+      "level": "L4",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00499",
-      "name": "FLUTAMIDE",
-      "kg_predictions": 3,
-      "dl_predictions": 112,
-      "license_id": "MAL17117035AE",
-      "brand_name": "Eumide Tablet 250mg"
+      "name": "Darunavir",
+      "slug": "darunavir",
+      "level": "L4",
+      "indication_count": 4
     },
     {
-      "drugbank_id": "DB12023",
-      "name": "BENRALIZUMAB",
-      "kg_predictions": 2,
-      "dl_predictions": 113,
-      "license_id": "MAL21116004ACRZ",
-      "brand_name": "Fasenra 30mg Solution for Injection in Pre-filled "
+      "name": "Dasatinib",
+      "slug": "dasatinib",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00404",
-      "name": "ALPRAZOLAM",
-      "kg_predictions": 42,
-      "dl_predictions": 71,
-      "license_id": "MAL19992139AZ",
-      "brand_name": "XANAPAM TABLETS 1MG"
+      "name": "Daunorubicin",
+      "slug": "daunorubicin",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB09020",
-      "name": "BISACODYL",
-      "kg_predictions": 13,
-      "dl_predictions": 100,
-      "license_id": "MAL19970975XZ",
-      "brand_name": "PRICOLAX SUPPOSITORIES 5MG"
+      "name": "Decitabine",
+      "slug": "decitabine",
+      "level": "L2",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB05679",
-      "name": "USTEKINUMAB",
-      "kg_predictions": 24,
-      "dl_predictions": 87,
-      "license_id": "MAL22036010AZ",
-      "brand_name": "STELARA 45mg/0.5mL Solution for Injection in Singl"
+      "name": "Deferasirox",
+      "slug": "deferasirox",
+      "level": "L4",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB00177",
-      "name": "VALSARTAN",
-      "kg_predictions": 82,
-      "dl_predictions": 27,
-      "license_id": "MAL16085026AZ",
-      "brand_name": "hovid-Valsartan Film-coated Tablet 160 mg"
+      "name": "Deferiprone",
+      "slug": "deferiprone",
+      "level": "L4",
+      "indication_count": 9
     },
     {
-      "drugbank_id": "DB00493",
-      "name": "CEFOTAXIME",
-      "kg_predictions": 11,
-      "dl_predictions": 97,
-      "license_id": "MAL20034201AZ",
-      "brand_name": "VAXCEL CEFOTAXIME-1G INJECTION"
+      "name": "Degarelix",
+      "slug": "degarelix",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00671",
-      "name": "CEFIXIME",
-      "kg_predictions": 40,
-      "dl_predictions": 66,
-      "license_id": "MAL20162602ACREZ",
-      "brand_name": "hovid-Xyfisim Granules 100mg"
+      "name": "Delamanid",
+      "slug": "delamanid",
+      "level": "L4",
+      "indication_count": 7
     },
     {
-      "drugbank_id": "DB00681",
-      "name": "AMPHOTERICIN B",
-      "kg_predictions": 106,
-      "dl_predictions": 0,
-      "license_id": "MAL09072763AZ",
-      "brand_name": "AMPHOTRET FOR INJECTION USP 50MG"
+      "name": "Denosumab",
+      "slug": "denosumab",
+      "level": "L5",
+      "indication_count": 2
     },
     {
-      "drugbank_id": "DB01009",
-      "name": "KETOPROFEN",
-      "kg_predictions": 40,
-      "dl_predictions": 65,
-      "license_id": "MAL06100567AZ",
-      "brand_name": "Ketofen Gel  2.5%w/w"
+      "name": "Desloratadine",
+      "slug": "desloratadine",
+      "level": "L4",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB06724",
-      "name": "CALCIUM CARBONATE",
-      "kg_predictions": 96,
-      "dl_predictions": 9,
-      "license_id": "MAL21086016X",
-      "brand_name": "GASTRACID Suspension"
+      "name": "Desmopressin",
+      "slug": "desmopressin",
+      "level": "L3",
+      "indication_count": 7
     },
     {
-      "drugbank_id": "DB00548",
-      "name": "AZELAIC ACID",
-      "kg_predictions": 4,
-      "dl_predictions": 100,
-      "license_id": "MAL20000036AZ",
-      "brand_name": "SKINOREN CREAM"
+      "name": "Desogestrel",
+      "slug": "desogestrel",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00169",
-      "name": "CHOLECALCIFEROL",
-      "kg_predictions": 50,
-      "dl_predictions": 52,
-      "license_id": "MAL07050214ARZ",
-      "brand_name": "Cernevit, Lyophilisate for Reconstitution"
+      "name": "Desonide",
+      "slug": "desonide",
+      "level": "L1",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00178",
-      "name": "RAMIPRIL",
-      "kg_predictions": 48,
-      "dl_predictions": 53,
-      "license_id": "MAL17055006AZ",
-      "brand_name": "ANGIRAM 10 (Ramipril Tablets 10 mg)"
+      "name": "Desvenlafaxine",
+      "slug": "desvenlafaxine",
+      "level": "L4",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00227",
-      "name": "LOVASTATIN",
-      "kg_predictions": 32,
-      "dl_predictions": 68,
-      "license_id": "MAL19973311AZ",
-      "brand_name": "MEDOSTATIN TABLET 20MG"
+      "name": "Dexamethasone",
+      "slug": "dexamethasone",
+      "level": "L1",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB11703",
-      "name": "ACALABRUTINIB",
-      "kg_predictions": 3,
-      "dl_predictions": 97,
-      "license_id": "MAL21106005AZ",
-      "brand_name": "Calquence Hard Capsules 100mg"
+      "name": "Dexchlorpheniramine Maleate",
+      "slug": "dexchlorpheniramine_maleate",
+      "level": "L5",
+      "indication_count": 1
     },
     {
-      "drugbank_id": "DB01395",
-      "name": "DROSPIRENONE",
-      "kg_predictions": 21,
-      "dl_predictions": 78,
-      "license_id": "MAL12085067AZ",
-      "brand_name": "LIZA 0.03MG/3MG FILM-COATED TABLET"
+      "name": "Dexketoprofen",
+      "slug": "dexketoprofen",
+      "level": "L4",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB06674",
-      "name": "GOLIMUMAB",
-      "kg_predictions": 12,
-      "dl_predictions": 87,
-      "license_id": "MAL12025082ACRZ",
-      "brand_name": "SIMPONI SOLUTION FOR INJECTION"
+      "name": "Dexlansoprazole",
+      "slug": "dexlansoprazole",
+      "level": "L3",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00400",
-      "name": "GRISEOFULVIN",
-      "kg_predictions": 42,
-      "dl_predictions": 56,
-      "license_id": "MAL19860837AZ",
-      "brand_name": "Royce Griseofulvin Tablet 125mg"
+      "name": "Dexpanthenol",
+      "slug": "dexpanthenol",
+      "level": "L4",
+      "indication_count": 7
     },
     {
-      "drugbank_id": "DB00250",
-      "name": "DAPSONE",
-      "kg_predictions": 6,
-      "dl_predictions": 91,
-      "license_id": "MAL19961321AZ",
-      "brand_name": "PHARMANIAGA DAPSONE TABLET 100MG"
+      "name": "Dextromethorphan",
+      "slug": "dextromethorphan",
+      "level": "L5",
+      "indication_count": 6
     },
     {
-      "drugbank_id": "DB00668",
-      "name": "EPINEPHRINE",
-      "kg_predictions": 16,
-      "dl_predictions": 81,
-      "license_id": "MAL06051338ACRZ",
-      "brand_name": "EpiPen Jr  (Epinephrine) Auto-Injector 0.15mg"
+      "name": "Diazepam",
+      "slug": "diazepam",
+      "level": "L4",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00989",
-      "name": "RIVASTIGMINE",
-      "kg_predictions": 25,
-      "dl_predictions": 71,
-      "license_id": "MAL22046015AZ",
-      "brand_name": "Rivacure Patch 10"
+      "name": "Dichlorobenzyl Alcohol",
+      "slug": "dichlorobenzyl_alcohol",
+      "level": "L5",
+      "indication_count": 2
     },
     {
-      "drugbank_id": "DB01164",
-      "name": "CALCIUM CHLORIDE",
-      "kg_predictions": 80,
-      "dl_predictions": 16,
-      "license_id": "MAL19920241AZ",
-      "brand_name": "B. BRAUN RINGER'S INJECTION"
+      "name": "Diclofenac",
+      "slug": "diclofenac",
+      "level": "L1",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00722",
-      "name": "LISINOPRIL",
-      "kg_predictions": 36,
-      "dl_predictions": 59,
-      "license_id": "MAL19890681ACZ",
-      "brand_name": "ZESTRIL 20MG TABLET"
+      "name": "Dienogest",
+      "slug": "dienogest",
+      "level": "L4",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB01436",
-      "name": "ALFACALCIDOL",
-      "kg_predictions": 56,
-      "dl_predictions": 39,
-      "license_id": "MAL21066036XC",
-      "brand_name": "Alfost 0.5mcg (Alfacalcidol Capsule)"
+      "name": "Digoxin",
+      "slug": "digoxin",
+      "level": "L5",
+      "indication_count": 6
     },
     {
-      "drugbank_id": "DB08865",
-      "name": "CRIZOTINIB",
-      "kg_predictions": 4,
-      "dl_predictions": 91,
-      "license_id": "MAL12095102AZ",
-      "brand_name": "Xalkori 200mg Hard Capsules"
+      "name": "Dimenhydrinate",
+      "slug": "dimenhydrinate",
+      "level": "L4",
+      "indication_count": 2
     },
     {
-      "drugbank_id": "DB00313",
-      "name": "VALPROIC ACID",
-      "kg_predictions": 6,
-      "dl_predictions": 88,
-      "license_id": "MAL12010002AZ",
-      "brand_name": "Valparin XR 300 Tablet"
+      "name": "Diosmin",
+      "slug": "diosmin",
+      "level": "L5",
+      "indication_count": 1
     },
     {
-      "drugbank_id": "DB01080",
-      "name": "VIGABATRIN",
-      "kg_predictions": 2,
-      "dl_predictions": 92,
-      "license_id": "MAL19961357AZ",
-      "brand_name": "SABRIL 500MG TABLET"
+      "name": "Docetaxel",
+      "slug": "docetaxel",
+      "level": "L5",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB00005",
-      "name": "ETANERCEPT",
-      "kg_predictions": 35,
-      "dl_predictions": 58,
-      "license_id": "MAL20071720ARZ",
-      "brand_name": "ENBREL 25MG SOLUTION FOR INJECTION IN A PRE-FILLED"
+      "name": "Dolutegravir",
+      "slug": "dolutegravir",
+      "level": "L4",
+      "indication_count": 3
     },
     {
-      "drugbank_id": "DB00367",
-      "name": "LEVONORGESTREL",
-      "kg_predictions": 24,
-      "dl_predictions": 69,
-      "license_id": "MAL06030792AZ",
-      "brand_name": "Escapelle Tablet 1.5mg"
+      "name": "Domperidone",
+      "slug": "domperidone",
+      "level": "L5",
+      "indication_count": 1
     },
     {
-      "drugbank_id": "DB00917",
-      "name": "DINOPROSTONE",
-      "kg_predictions": 6,
-      "dl_predictions": 87,
-      "license_id": "MAL20013983AZ",
-      "brand_name": "PROSTIN E2 3MG VAGINAL TABLETS"
+      "name": "Doxofylline",
+      "slug": "doxofylline",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB08879",
-      "name": "BELIMUMAB",
-      "kg_predictions": 2,
-      "dl_predictions": 91,
-      "license_id": "MAL12115079ACRZ",
-      "brand_name": "Benlysta Powder for Solution for Infusion 120mg"
+      "name": "Doxorubicin",
+      "slug": "doxorubicin",
+      "level": "L2",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB06612",
-      "name": "MEPOLIZUMAB",
-      "kg_predictions": 4,
-      "dl_predictions": 87,
-      "license_id": "MAL22096009ARZ",
-      "brand_name": "Nucala 100mg/ml Solution for Injection in pre-fill"
+      "name": "Doxycycline",
+      "slug": "doxycycline",
+      "level": "L4",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00190",
-      "name": "CARBIDOPA",
-      "kg_predictions": 90,
-      "dl_predictions": 0,
-      "license_id": "MAL18086152AZ",
-      "brand_name": "CELTOR TABLETS 50+12.5+200 MG"
+      "name": "Duloxetine",
+      "slug": "duloxetine",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB09053",
-      "name": "IBRUTINIB",
-      "kg_predictions": 45,
-      "dl_predictions": 44,
-      "license_id": "MAL22106003ARZ",
-      "brand_name": "IMBRUVICA 420 mg film-coated tablets"
+      "name": "Dupilumab",
+      "slug": "dupilumab",
+      "level": "L3",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00494",
-      "name": "ENTACAPONE",
-      "kg_predictions": 88,
-      "dl_predictions": 0,
-      "license_id": "MAL18086152AZ",
-      "brand_name": "CELTOR TABLETS 50+12.5+200 MG"
+      "name": "Durvalumab",
+      "slug": "durvalumab",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00370",
-      "name": "MIRTAZAPINE",
-      "kg_predictions": 32,
-      "dl_predictions": 55,
-      "license_id": "MAL17075015AZ",
-      "brand_name": "MENELAT 45 MG TABLETS"
+      "name": "Dutasteride",
+      "slug": "dutasteride",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00503",
-      "name": "RITONAVIR",
-      "kg_predictions": 48,
-      "dl_predictions": 39,
-      "license_id": "MAL12020021AZ",
-      "brand_name": "Lopimune Tablets 200/50 mg (Lopinavir and Ritonavi"
+      "name": "Ebastine",
+      "slug": "ebastine",
+      "level": "L5",
+      "indication_count": 2
     },
     {
-      "drugbank_id": "DB00218",
-      "name": "MOXIFLOXACIN",
-      "kg_predictions": 16,
-      "dl_predictions": 70,
-      "license_id": "MAL23056026AZ",
-      "brand_name": "MOVELOXIN 400mg/250ml solution for infusion"
+      "name": "Eculizumab",
+      "slug": "eculizumab",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB09481",
-      "name": "MAGNESIUM CARBONATE",
-      "kg_predictions": 48,
-      "dl_predictions": 38,
-      "license_id": "MAL21086016X",
-      "brand_name": "GASTRACID Suspension"
+      "name": "Edaravone",
+      "slug": "edaravone",
+      "level": "L5",
+      "indication_count": 2
     },
     {
-      "drugbank_id": "DB01120",
-      "name": "GLICLAZIDE",
-      "kg_predictions": 72,
-      "dl_predictions": 12,
-      "license_id": "MAL19960983AZ",
-      "brand_name": "GLIMICRON 80MG TABLET"
+      "name": "Efavirenz",
+      "slug": "efavirenz",
+      "level": "L4",
+      "indication_count": 3
     },
     {
-      "drugbank_id": "DB00047",
-      "name": "INSULIN GLARGINE",
-      "kg_predictions": 65,
-      "dl_predictions": 17,
-      "license_id": "MAL16065057AZ",
-      "brand_name": "BASALOG Insulin Glargine Injection (rDNA Origin) 1"
+      "name": "Elosulfase Alfa",
+      "slug": "elosulfase_alfa",
+      "level": "L5",
+      "indication_count": 9
     },
     {
-      "drugbank_id": "DB00273",
-      "name": "TOPIRAMATE",
-      "kg_predictions": 48,
-      "dl_predictions": 34,
-      "license_id": "MAL20013560ARZ",
-      "brand_name": "TOPAMAX TABLET 50MG"
+      "name": "Eltrombopag",
+      "slug": "eltrombopag",
+      "level": "L5",
+      "indication_count": 1
     },
     {
-      "drugbank_id": "DB00442",
-      "name": "ENTECAVIR",
-      "kg_predictions": 1,
-      "dl_predictions": 81,
-      "license_id": "MAL20061502ACRZ",
-      "brand_name": "BARACLUDE TABLET 0.5 MG"
+      "name": "Elvitegravir",
+      "slug": "elvitegravir",
+      "level": "L4",
+      "indication_count": 3
     },
     {
-      "drugbank_id": "DB00188",
-      "name": "BORTEZOMIB",
-      "kg_predictions": 64,
-      "dl_predictions": 16,
-      "license_id": "MAL21066026AZ",
-      "brand_name": "Retrox 3.5mg Powder for Solution for Injection"
+      "name": "Emicizumab",
+      "slug": "emicizumab",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00310",
-      "name": "CHLORTHALIDONE",
-      "kg_predictions": 9,
-      "dl_predictions": 71,
-      "license_id": "MAL19900183AZ",
-      "brand_name": "PRETENOL C 100 TABLET"
+      "name": "Empagliflozin",
+      "slug": "empagliflozin",
+      "level": "L5",
+      "indication_count": 3
     },
     {
-      "drugbank_id": "DB01086",
-      "name": "BENZOCAINE",
-      "kg_predictions": 30,
-      "dl_predictions": 47,
-      "license_id": "MAL07010991AZ",
-      "brand_name": "Deqben Lozenge"
+      "name": "Emtricitabine",
+      "slug": "emtricitabine",
+      "level": "L4",
+      "indication_count": 3
     },
     {
-      "drugbank_id": "DB02701",
-      "name": "NICOTINAMIDE",
-      "kg_predictions": 42,
-      "dl_predictions": 35,
-      "license_id": "MAL19920267X",
-      "brand_name": "SIMEPAR CAPSULES"
+      "name": "Enfortumab Vedotin",
+      "slug": "enfortumab_vedotin",
+      "level": "L5",
+      "indication_count": 9
     },
     {
-      "drugbank_id": "DB00514",
-      "name": "DEXTROMETHORPHAN",
-      "kg_predictions": 35,
-      "dl_predictions": 40,
-      "license_id": "MAL19972991AZ",
-      "brand_name": "LASTUSS COUGH SYRUP 30MG/5ML"
+      "name": "Entacapone",
+      "slug": "entacapone",
+      "level": "L5",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB00346",
-      "name": "ALFUZOSIN",
-      "kg_predictions": 1,
-      "dl_predictions": 73,
-      "license_id": "MAL20020894AZ",
-      "brand_name": "XATRAL XL 10MG TABLET"
+      "name": "Entecavir",
+      "slug": "entecavir",
+      "level": "L4",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00136",
-      "name": "CALCITRIOL",
-      "kg_predictions": 42,
-      "dl_predictions": 31,
-      "license_id": "MAL19990255XCR",
-      "brand_name": "ROCALTROL CAPSULE 0.25MCG"
+      "name": "Enzalutamide",
+      "slug": "enzalutamide",
+      "level": "L5",
+      "indication_count": 7
     },
     {
-      "drugbank_id": "DB01202",
-      "name": "LEVETIRACETAM",
-      "kg_predictions": 44,
-      "dl_predictions": 29,
-      "license_id": "MAL21036023ACZ",
-      "brand_name": "hovid-Levetiracetam Tablets 500 mg"
+      "name": "Epinephrine",
+      "slug": "epinephrine",
+      "level": "L1",
+      "indication_count": 4
     },
     {
-      "drugbank_id": "DB01306",
-      "name": "INSULIN ASPART",
-      "kg_predictions": 30,
-      "dl_predictions": 43,
-      "license_id": "MAL21066012ASZ",
-      "brand_name": "NovoMix 30 FlexPen  100 U/ml Suspension for Inject"
+      "name": "Eplerenone",
+      "slug": "eplerenone",
+      "level": "L5",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB00996",
-      "name": "GABAPENTIN",
-      "kg_predictions": 38,
-      "dl_predictions": 31,
-      "license_id": "MAL06071076ARZ",
-      "brand_name": "Neurontin 100mg capsule"
+      "name": "Eptinezumab",
+      "slug": "eptinezumab",
+      "level": "L3",
+      "indication_count": 1
     },
     {
-      "drugbank_id": "DB01126",
-      "name": "DUTASTERIDE",
-      "kg_predictions": 14,
-      "dl_predictions": 55,
-      "license_id": "MAL21066020ARZ",
-      "brand_name": "UROKA Dutasteride Soft Gelatin Capsules 0.5mg"
+      "name": "Erenumab",
+      "slug": "erenumab",
+      "level": "L3",
+      "indication_count": 1
     },
     {
-      "drugbank_id": "DB06643",
-      "name": "DENOSUMAB",
-      "kg_predictions": 18,
-      "dl_predictions": 51,
-      "license_id": "MAL22126017AZ",
-      "brand_name": "Prolia Solution for Injection 60mg/ml Pre-filled S"
+      "name": "Ergocalciferol",
+      "slug": "ergocalciferol",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB01606",
-      "name": "TAZOBACTAM",
-      "kg_predictions": 10,
-      "dl_predictions": 58,
-      "license_id": "MAL19990548AZ",
-      "brand_name": "TAZOCIN EF INJECTION 4.5G"
+      "name": "Ergometrine",
+      "slug": "ergometrine",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB01110",
-      "name": "MICONAZOLE",
-      "kg_predictions": 8,
-      "dl_predictions": 59,
-      "license_id": "MAL07010892AZ",
-      "brand_name": "Decozol Oral Gel 2%w/w"
+      "name": "Eribulin",
+      "slug": "eribulin",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB09035",
-      "name": "NIVOLUMAB",
-      "kg_predictions": 4,
-      "dl_predictions": 63,
-      "license_id": "MAL17055001ARZ",
-      "brand_name": "Opdivo 10mg/ml, Concentrate for solution for infus"
+      "name": "Erythromycin",
+      "slug": "erythromycin",
+      "level": "L3",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB12243",
-      "name": "EDARAVONE",
-      "kg_predictions": 3,
-      "dl_predictions": 64,
-      "license_id": "MAL21126002ACRZ",
-      "brand_name": "RADICAVA IV Concentrate Solution for Infusion 30mg"
+      "name": "Estradiol Benzoate",
+      "slug": "estradiol_benzoate",
+      "level": "L4",
+      "indication_count": 3
     },
     {
-      "drugbank_id": "DB00560",
-      "name": "TIGECYCLINE",
-      "kg_predictions": 5,
-      "dl_predictions": 61,
-      "license_id": "MAL20061610ARZ",
-      "brand_name": "TYGACIL (TIGECYCLINE) 50MG LYOPHILIZED POWDER FOR "
+      "name": "Estradiol Valerate",
+      "slug": "estradiol_valerate",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB09281",
-      "name": "MAGNESIUM TRISILICATE",
-      "kg_predictions": 65,
-      "dl_predictions": 0,
-      "license_id": "MAL19940176XC",
-      "brand_name": "ALUSIL MPS SUSPENSION"
+      "name": "Estriol",
+      "slug": "estriol",
+      "level": "L3",
+      "indication_count": 1
     },
     {
-      "drugbank_id": "DB00153",
-      "name": "ERGOCALCIFEROL",
-      "kg_predictions": 11,
-      "dl_predictions": 53,
-      "license_id": "MAL19970681ARZ",
-      "brand_name": "VITALIPID N INFANT"
+      "name": "Etanercept",
+      "slug": "etanercept",
+      "level": "L4",
+      "indication_count": 6
     },
     {
-      "drugbank_id": "DB00277",
-      "name": "THEOPHYLLINE",
-      "kg_predictions": 64,
-      "dl_predictions": 0,
-      "license_id": "MAL13025048ACZ",
-      "brand_name": "Nuelin syrup 80mg/15ml"
+      "name": "Ethanol",
+      "slug": "ethanol",
+      "level": "L5",
+      "indication_count": 2
     },
     {
-      "drugbank_id": "DB06809",
-      "name": "PLERIXAFOR",
-      "kg_predictions": 4,
-      "dl_predictions": 60,
-      "license_id": "MAL12045095ARZ",
-      "brand_name": "Mozobil 20 mg/ml solution for injection"
+      "name": "Ethinylestradiol",
+      "slug": "ethinylestradiol",
+      "level": "L4",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB13956",
-      "name": "ESTRADIOL VALERATE",
-      "kg_predictions": 3,
-      "dl_predictions": 60,
-      "license_id": "MAL20021014AZ",
-      "brand_name": "PROGYLUTON TABLETS"
+      "name": "Ethyl Chloride",
+      "slug": "ethyl_chloride",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB09109",
-      "name": "TUROCTOCOG ALFA",
-      "kg_predictions": 6,
-      "dl_predictions": 56,
-      "license_id": "MAL16085029AZ",
-      "brand_name": "NovoEight 500IU Powder and Solvent for Solution fo"
+      "name": "Etonogestrel",
+      "slug": "etonogestrel",
+      "level": "L5",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB00065",
-      "name": "INFLIXIMAB",
-      "kg_predictions": 40,
-      "dl_predictions": 21,
-      "license_id": "MAL22116005ACZ",
-      "brand_name": "Remsima 120mg solution for injection in pre-filled"
+      "name": "Etoposide",
+      "slug": "etoposide",
+      "level": "L4",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00601",
-      "name": "LINEZOLID",
-      "kg_predictions": 45,
-      "dl_predictions": 16,
-      "license_id": "MAL22026007AZ",
-      "brand_name": "CINEZOLID solution for infusion 2mg/mL"
+      "name": "Etoricoxib",
+      "slug": "etoricoxib",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB01005",
-      "name": "HYDROXYUREA",
-      "kg_predictions": 58,
-      "dl_predictions": 0,
-      "license_id": "MAL20040573AZ",
-      "brand_name": "DHNP HYDROXYUREA CAPSULE 500MG"
+      "name": "Everolimus",
+      "slug": "everolimus",
+      "level": "L5",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB00808",
-      "name": "INDAPAMIDE",
-      "kg_predictions": 42,
-      "dl_predictions": 15,
-      "license_id": "MAL07061382AZ",
-      "brand_name": "INTRIL SR 1.5 MG TABLETS"
+      "name": "Evolocumab",
+      "slug": "evolocumab",
+      "level": "L5",
+      "indication_count": 6
     },
     {
-      "drugbank_id": "DB00863",
-      "name": "RANITIDINE",
-      "kg_predictions": 9,
-      "dl_predictions": 48,
-      "license_id": "MAL20013772AZ",
-      "brand_name": "AMEKET INJECTION 2ML"
+      "name": "Exemestane",
+      "slug": "exemestane",
+      "level": "L5",
+      "indication_count": 7
     },
     {
-      "drugbank_id": "DB00625",
-      "name": "EFAVIRENZ",
-      "kg_predictions": 22,
-      "dl_predictions": 34,
-      "license_id": "MAL16115033AZ",
-      "brand_name": "EFAMAT Tablets 200mg"
+      "name": "Ezetimibe",
+      "slug": "ezetimibe",
+      "level": "L1",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB01167",
-      "name": "ITRACONAZOLE",
-      "kg_predictions": 55,
-      "dl_predictions": 0,
-      "license_id": "MAL06051296AZ",
-      "brand_name": "UNITRAC CAPSULE 100MG"
+      "name": "Famotidine",
+      "slug": "famotidine",
+      "level": "L5",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB09074",
-      "name": "OLAPARIB",
-      "kg_predictions": 54,
-      "dl_predictions": 0,
-      "license_id": "MAL19106013ACRZ",
-      "brand_name": "Lynparza 150 mg Film-Coated Tablets"
+      "name": "Favipiravir",
+      "slug": "favipiravir",
+      "level": "L4",
+      "indication_count": 3
     },
     {
-      "drugbank_id": "DB00833",
-      "name": "CEFACLOR",
-      "kg_predictions": 10,
-      "dl_predictions": 41,
-      "license_id": "MAL20033666AZ",
-      "brand_name": "SIFACLOR (ORAL SUSPENSION) 250 MG/5 ML"
+      "name": "Febuxostat",
+      "slug": "febuxostat",
+      "level": "L4",
+      "indication_count": 3
     },
     {
-      "drugbank_id": "DB01194",
-      "name": "BRINZOLAMIDE",
-      "kg_predictions": 6,
-      "dl_predictions": 45,
-      "license_id": "MAL16085016ARZ",
-      "brand_name": "SIMBRINZA 10mg/ml + 2mg/ml eye drops, suspension"
+      "name": "Felodipine",
+      "slug": "felodipine",
+      "level": "L5",
+      "indication_count": 7
     },
     {
-      "drugbank_id": "DB00922",
-      "name": "LEVOSIMENDAN",
-      "kg_predictions": 2,
-      "dl_predictions": 48,
-      "license_id": "MAL22116002AZ",
-      "brand_name": "Simdax 2.5 mg/ml concentrate for solution for infu"
+      "name": "Fenofibrate",
+      "slug": "fenofibrate",
+      "level": "L4",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB08889",
-      "name": "CARFILZOMIB",
-      "kg_predictions": 2,
-      "dl_predictions": 48,
-      "license_id": "MAL22096012AZ",
-      "brand_name": "CARFILNAT (CARFILZOMIB) POWDER FOR SOLUTION FOR IN"
+      "name": "Ferric Carboxymaltose",
+      "slug": "ferric_carboxymaltose",
+      "level": "L5",
+      "indication_count": 1
     },
     {
-      "drugbank_id": "DB09325",
-      "name": "SODIUM FLUORIDE",
-      "kg_predictions": 3,
-      "dl_predictions": 46,
-      "license_id": "MAL20021424ACRZ",
-      "brand_name": "PEDITRACE"
+      "name": "Ferrous Fumarate",
+      "slug": "ferrous_fumarate",
+      "level": "L5",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB11656",
-      "name": "REBAMIPIDE",
-      "kg_predictions": 4,
-      "dl_predictions": 45,
-      "license_id": "MAL21066024AZ",
-      "brand_name": "Bapid 100mg Tablet"
+      "name": "Ferrous Gluconate",
+      "slug": "ferrous_gluconate",
+      "level": "L4",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB00879",
-      "name": "EMTRICITABINE",
-      "kg_predictions": 24,
-      "dl_predictions": 24,
-      "license_id": "MAL21116027AZ",
-      "brand_name": "TAFICITA (Emtricitabine and Tenofovir Alafenamide "
+      "name": "Filgrastim",
+      "slug": "filgrastim",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB08930",
-      "name": "DOLUTEGRAVIR",
-      "kg_predictions": 2,
-      "dl_predictions": 46,
-      "license_id": "MAL14055050ACRZ",
-      "brand_name": "Tivicay 50mg Film-Coated Tablets"
+      "name": "Fimasartan",
+      "slug": "fimasartan",
+      "level": "L4",
+      "indication_count": 4
     },
     {
-      "drugbank_id": "DB01088",
-      "name": "ILOPROST",
-      "kg_predictions": 1,
-      "dl_predictions": 46,
-      "license_id": "MAL20071630AZ",
-      "brand_name": "VENTAVIS NEBULISER SOLUTION"
+      "name": "Finasteride",
+      "slug": "finasteride",
+      "level": "L4",
+      "indication_count": 6
     },
     {
-      "drugbank_id": "DB00031",
-      "name": "TENECTEPLASE",
-      "kg_predictions": 8,
-      "dl_predictions": 38,
-      "license_id": "MAL20021358AZ",
-      "brand_name": "METALYSE 10,000 UNITS INJECTION"
+      "name": "Fluconazole",
+      "slug": "fluconazole",
+      "level": "L1",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB09101",
-      "name": "ELVITEGRAVIR",
-      "kg_predictions": 2,
-      "dl_predictions": 44,
-      "license_id": "MAL17025022ACZ",
-      "brand_name": "Genvoya (Elvitegravir 150mg/Cobicistat 150mg/Emtri"
+      "name": "Fludarabine",
+      "slug": "fludarabine",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00328",
-      "name": "INDOMETHACIN",
-      "kg_predictions": 45,
-      "dl_predictions": 0,
-      "license_id": "MAL19940036AZ",
-      "brand_name": "INDOMEN CAPSULE"
+      "name": "Fluocinolone Acetonide",
+      "slug": "fluocinolone_acetonide",
+      "level": "L5",
+      "indication_count": 4
     },
     {
-      "drugbank_id": "DB00527",
-      "name": "CINCHOCAINE",
-      "kg_predictions": 1,
-      "dl_predictions": 44,
-      "license_id": "MAL19871349ACZ",
-      "brand_name": "PROCTOSEDYL OINTMENT"
+      "name": "Fluorescein",
+      "slug": "fluorescein",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB03904",
-      "name": "UREA",
-      "kg_predictions": 18,
-      "dl_predictions": 27,
-      "license_id": "MAL19972556X",
-      "brand_name": "AXCEL UREA CREAM"
+      "name": "Fluorometholone",
+      "slug": "fluorometholone",
+      "level": "L4",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB13231",
-      "name": "CALCIUM LACTATE",
-      "kg_predictions": 18,
-      "dl_predictions": 27,
-      "license_id": "MAL19911133X",
-      "brand_name": "CALACTATE 300 TABLET"
+      "name": "Fluorouracil",
+      "slug": "fluorouracil",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00399",
-      "name": "ZOLEDRONIC ACID",
-      "kg_predictions": 20,
-      "dl_predictions": 24,
-      "license_id": "MAL17065013AZ",
-      "brand_name": "OLEDRON (ZOLEDRONIC ACID CONCENTRATE FOR SOLUTION "
+      "name": "Fluoxetine",
+      "slug": "fluoxetine",
+      "level": "L1",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB06207",
-      "name": "SILODOSIN",
-      "kg_predictions": 1,
-      "dl_predictions": 42,
-      "license_id": "MAL17117022ARZ",
-      "brand_name": "Urief Film-Coated Tablets 4mg"
+      "name": "Flupentixol",
+      "slug": "flupentixol",
+      "level": "L5",
+      "indication_count": 9
     },
     {
-      "drugbank_id": "DB06715",
-      "name": "POTASSIUM IODIDE",
-      "kg_predictions": 15,
-      "dl_predictions": 28,
-      "license_id": "MAL16105018X",
-      "brand_name": "Optishine Vitreo Eye Drops"
+      "name": "Fluphenazine",
+      "slug": "fluphenazine",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00796",
-      "name": "CANDESARTAN CILEXETIL",
-      "kg_predictions": 26,
-      "dl_predictions": 16,
-      "license_id": "MAL22036007ACZ",
-      "brand_name": "BLOPRESS TABLET 8MG"
+      "name": "Flurbiprofen",
+      "slug": "flurbiprofen",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB06595",
-      "name": "MIDOSTAURIN",
-      "kg_predictions": 42,
-      "dl_predictions": 0,
-      "license_id": "MAL19046009ACRZ",
-      "brand_name": "Rydapt 25mg Soft Capsules"
+      "name": "Flutamide",
+      "slug": "flutamide",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB13928",
-      "name": "SEMAGLUTIDE",
-      "kg_predictions": 30,
-      "dl_predictions": 12,
-      "license_id": "MAL22056045AZ",
-      "brand_name": "Rybelsus 7mg Tablet"
+      "name": "Fluticasone Furoate",
+      "slug": "fluticasone_furoate",
+      "level": "L5",
+      "indication_count": 8
     },
     {
-      "drugbank_id": "DB00121",
-      "name": "BIOTIN",
-      "kg_predictions": 2,
-      "dl_predictions": 39,
-      "license_id": "MAL20040879ARZ",
-      "brand_name": "SOLUVIT N"
+      "name": "Fluticasone Propionate",
+      "slug": "fluticasone_propionate",
+      "level": "L5",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB01216",
-      "name": "FINASTERIDE",
-      "kg_predictions": 8,
-      "dl_predictions": 32,
-      "license_id": "MAL19992040ACRZ",
-      "brand_name": "PROPECIA TABLET"
+      "name": "Fluvoxamine",
+      "slug": "fluvoxamine",
+      "level": "L1",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB06292",
-      "name": "DAPAGLIFLOZIN",
-      "kg_predictions": 28,
-      "dl_predictions": 12,
-      "license_id": "MAL22126055AZ",
-      "brand_name": "Dapiga 10mg Film Coated Tablets"
+      "name": "Folic Acid",
+      "slug": "folic_acid",
+      "level": "L4",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB09070",
-      "name": "TIBOLONE",
-      "kg_predictions": 2,
-      "dl_predictions": 38,
-      "license_id": "MAL19913394AZ",
-      "brand_name": "LIVIAL TABLET 2.5MG"
+      "name": "Fosfomycin",
+      "slug": "fosfomycin",
+      "level": "L2",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB11644",
-      "name": "TAFAMIDIS",
-      "kg_predictions": 4,
-      "dl_predictions": 36,
-      "license_id": "MAL22086001ACRZ",
-      "brand_name": "Vyndamax 61 mg Soft Capsules"
+      "name": "Framycetin",
+      "slug": "framycetin",
+      "level": "L5",
+      "indication_count": 7
     },
     {
-      "drugbank_id": "DB01069",
-      "name": "PROMETHAZINE",
-      "kg_predictions": 7,
-      "dl_predictions": 32,
-      "license_id": "MAL20012740AZ",
-      "brand_name": "AXCEL DEXTROZINE SYRUP"
+      "name": "Fulvestrant",
+      "slug": "fulvestrant",
+      "level": "L4",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB01601",
-      "name": "LOPINAVIR",
-      "kg_predictions": 14,
-      "dl_predictions": 25,
-      "license_id": "MAL12020021AZ",
-      "brand_name": "Lopimune Tablets 200/50 mg (Lopinavir and Ritonavi"
+      "name": "Fusidic Acid",
+      "slug": "fusidic_acid",
+      "level": "L4",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB04876",
-      "name": "VILDAGLIPTIN",
-      "kg_predictions": 24,
-      "dl_predictions": 15,
-      "license_id": "MAL22116027AZ",
-      "brand_name": "VILDACORD (Vildagliptin Tablets 50 mg)"
+      "name": "Galcanezumab",
+      "slug": "galcanezumab",
+      "level": "L5",
+      "indication_count": 3
     },
     {
-      "drugbank_id": "DB00213",
-      "name": "PANTOPRAZOLE",
-      "kg_predictions": 16,
-      "dl_predictions": 22,
-      "license_id": "MAL19972093ARZ",
-      "brand_name": "CONTROLOC 40MG TABLET"
+      "name": "Ganirelix",
+      "slug": "ganirelix",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00222",
-      "name": "GLIMEPIRIDE",
-      "kg_predictions": 20,
-      "dl_predictions": 18,
-      "license_id": "MAL06061328AZ",
-      "brand_name": "Glimaryl 2mg Tablet"
+      "name": "Gefitinib",
+      "slug": "gefitinib",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00128",
-      "name": "ASPARTIC ACID",
-      "kg_predictions": 21,
-      "dl_predictions": 16,
-      "license_id": "MAL16085022AZ",
-      "brand_name": "OLIMEL N9E, emulsion for infusion"
+      "name": "Gemcitabine",
+      "slug": "gemcitabine",
+      "level": "L1",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00776",
-      "name": "OXCARBAZEPINE",
-      "kg_predictions": 4,
-      "dl_predictions": 33,
-      "license_id": "MAL20021155ARZ",
-      "brand_name": "TRILEPTAL 300MG"
+      "name": "Gemfibrozil",
+      "slug": "gemfibrozil",
+      "level": "L4",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB01115",
-      "name": "NIFEDIPINE",
-      "kg_predictions": 27,
-      "dl_predictions": 10,
-      "license_id": "MAL19861588AZ",
-      "brand_name": "CORDIPIN TABLET 10MG"
+      "name": "Gilteritinib",
+      "slug": "gilteritinib",
+      "level": "L5",
+      "indication_count": 1
     },
     {
-      "drugbank_id": "DB01136",
-      "name": "CARVEDILOL",
-      "kg_predictions": 28,
-      "dl_predictions": 8,
-      "license_id": "MAL11070001AZ",
-      "brand_name": "Ditran Tablets 25 mg (Carvedilol)"
+      "name": "Gimeracil",
+      "slug": "gimeracil",
+      "level": "L1",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB01263",
-      "name": "POSACONAZOLE",
-      "kg_predictions": 36,
-      "dl_predictions": 0,
-      "license_id": "MAL23036027AZ",
-      "brand_name": "POSACONAZOLE DR. REDDY'S (Posaconazole 100 mg Modi"
+      "name": "Gliclazide",
+      "slug": "gliclazide",
+      "level": "L1",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB01279",
-      "name": "GALSULFASE",
-      "kg_predictions": 1,
-      "dl_predictions": 35,
-      "license_id": "MAL12075023ARZ",
-      "brand_name": "Naglazyme Concentrated Solution for Intravenous In"
+      "name": "Glimepiride",
+      "slug": "glimepiride",
+      "level": "L5",
+      "indication_count": 9
     },
     {
-      "drugbank_id": "DB00422",
-      "name": "METHYLPHENIDATE",
-      "kg_predictions": 35,
-      "dl_predictions": 0,
-      "license_id": "MAL18106134AZ",
-      "brand_name": "Medikinet MR 10mg Hard Capsules"
+      "name": "Glucagon",
+      "slug": "glucagon",
+      "level": "L5",
+      "indication_count": 1
     },
     {
-      "drugbank_id": "DB00857",
-      "name": "TERBINAFINE",
-      "kg_predictions": 6,
-      "dl_predictions": 28,
-      "license_id": "MAL06061541XR",
-      "brand_name": "Lamisil 1% DermGel"
+      "name": "Glutamic Acid",
+      "slug": "glutamic_acid",
+      "level": "L4",
+      "indication_count": 4
     },
     {
-      "drugbank_id": "DB08819",
-      "name": "TAFLUPROST",
-      "kg_predictions": 6,
-      "dl_predictions": 27,
-      "license_id": "MAL17035023ACZ",
-      "brand_name": "TAPCOM-S ophthalmic solution 15 micrograms/ml + 5 "
+      "name": "Glycerin",
+      "slug": "glycerin",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00683",
-      "name": "MIDAZOLAM",
-      "kg_predictions": 6,
-      "dl_predictions": 26,
-      "license_id": "MAL11100004AZ",
-      "brand_name": "MIDAZ Injection 1mg/mL"
+      "name": "Glycine",
+      "slug": "glycine",
+      "level": "L5",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB01023",
-      "name": "FELODIPINE",
-      "kg_predictions": 10,
-      "dl_predictions": 22,
-      "license_id": "MAL07050185AZ",
-      "brand_name": "Felocor&reg; 5mg Tablet"
+      "name": "Golimumab",
+      "slug": "golimumab",
+      "level": "L4",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB11866",
-      "name": "ROMOSOZUMAB",
-      "kg_predictions": 2,
-      "dl_predictions": 30,
-      "license_id": "MAL21076004AZ",
-      "brand_name": "EVENITY SOLUTION FOR INJECTION IN PRE-FILLED SYRIN"
+      "name": "Goserelin",
+      "slug": "goserelin",
+      "level": "L2",
+      "indication_count": 3
     },
     {
-      "drugbank_id": "DB06237",
-      "name": "AVANAFIL",
-      "kg_predictions": 9,
-      "dl_predictions": 22,
-      "license_id": "MAL22016002AZ",
-      "brand_name": "Spedra 100mg Tablets"
+      "name": "Griseofulvin",
+      "slug": "griseofulvin",
+      "level": "L5",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB08882",
-      "name": "LINAGLIPTIN",
-      "kg_predictions": 18,
-      "dl_predictions": 13,
-      "license_id": "MAL12045094ARZ",
-      "brand_name": "TRAJENTA 5MG FILM-COATED TABLETS"
+      "name": "Guaiacol",
+      "slug": "guaiacol",
+      "level": "L5",
+      "indication_count": 2
     },
     {
-      "drugbank_id": "DB00985",
-      "name": "DIMENHYDRINATE",
-      "kg_predictions": 30,
-      "dl_predictions": 0,
-      "license_id": "MAL19984045AZ",
-      "brand_name": "PRIDRINATE SUPPOSITORIES 50MG"
+      "name": "Guaifenesin",
+      "slug": "guaifenesin",
+      "level": "L4",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB01267",
-      "name": "PALIPERIDONE",
-      "kg_predictions": 30,
-      "dl_predictions": 0,
-      "license_id": "MAL24026051ACZ",
-      "brand_name": "HEALOL PALIPERIDONE EXTENDED RELEASE TABLETS 3 MG"
+      "name": "Guselkumab",
+      "slug": "guselkumab",
+      "level": "L1",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB09038",
-      "name": "EMPAGLIFLOZIN",
-      "kg_predictions": 30,
-      "dl_predictions": 0,
-      "license_id": "MAL18016005AZ",
-      "brand_name": "Glyxambi Film-Coated Tablets 10mg/5mg"
+      "name": "Haloperidol",
+      "slug": "haloperidol",
+      "level": "L1",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB09128",
-      "name": "BREXPIPRAZOLE",
-      "kg_predictions": 30,
-      "dl_predictions": 0,
-      "license_id": "MAL20026044ARZ",
-      "brand_name": "Rexulti 1mg film-coated tablets"
+      "name": "Hesperidin",
+      "slug": "hesperidin",
+      "level": "L5",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB09320",
-      "name": "PROCAINE BENZYLPENICILLIN",
-      "kg_predictions": 30,
-      "dl_predictions": 0,
-      "license_id": "MAL08061566AZ",
-      "brand_name": "PROPEN INJECTION 4MU"
+      "name": "Hexetidine",
+      "slug": "hexetidine",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00316",
-      "name": "ACETAMINOPHEN",
-      "kg_predictions": 7,
-      "dl_predictions": 22,
-      "license_id": "MAL20051462AZ",
-      "brand_name": "ULTRACET TABLET"
+      "name": "Histidine",
+      "slug": "histidine",
+      "level": "L5",
+      "indication_count": 2
     },
     {
-      "drugbank_id": "DB00284",
-      "name": "ACARBOSE",
-      "kg_predictions": 10,
-      "dl_predictions": 18,
-      "license_id": "MAL06100582AZ",
-      "brand_name": "Dibose Tablets 50mg"
+      "name": "Hydrochlorothiazide",
+      "slug": "hydrochlorothiazide",
+      "level": "L1",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB09564",
-      "name": "INSULIN DEGLUDEC",
-      "kg_predictions": 10,
-      "dl_predictions": 18,
-      "license_id": "MAL22096008AZ",
-      "brand_name": "Xultophy 100 units/mL + 3.6 mg/mL Solution for Inj"
+      "name": "Hydrocortisone",
+      "slug": "hydrocortisone",
+      "level": "L2",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB00448",
-      "name": "LANSOPRAZOLE",
-      "kg_predictions": 27,
-      "dl_predictions": 0,
-      "license_id": "MAL08042460ARZ",
-      "brand_name": "Prevacid FDT 30mg Tablets"
+      "name": "Hydrocortisone Acetate",
+      "slug": "hydrocortisone_acetate",
+      "level": "L5",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB01015",
-      "name": "SULFAMETHOXAZOLE",
-      "kg_predictions": 27,
-      "dl_predictions": 0,
-      "license_id": "MAL08082721ACRZ",
-      "brand_name": "DBL&trade; SULFAMETHOXAZOLE AND TRIMETHOPRIM CONCE"
+      "name": "Hydroquinone",
+      "slug": "hydroquinone",
+      "level": "L4",
+      "indication_count": 4
     },
     {
-      "drugbank_id": "DB00695",
-      "name": "FUROSEMIDE",
-      "kg_predictions": 15,
-      "dl_predictions": 11,
-      "license_id": "MAL07061531AZ",
-      "brand_name": "Suopinchon Injection 20mg/2ml"
+      "name": "Hydroxyurea",
+      "slug": "hydroxyurea",
+      "level": "L4",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB01307",
-      "name": "INSULIN DETEMIR",
-      "kg_predictions": 6,
-      "dl_predictions": 20,
-      "license_id": "MAL21066010ASZ",
-      "brand_name": "Levemir FlexPen  100 U/ml Solution for Injection i"
+      "name": "Ibuprofen",
+      "slug": "ibuprofen",
+      "level": "L1",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB09033",
-      "name": "VEDOLIZUMAB",
-      "kg_predictions": 8,
-      "dl_predictions": 18,
-      "license_id": "MAL17025031ACZ",
-      "brand_name": "Entyvio 300mg Powder for Concentrate for Solution "
+      "name": "Ifosfamide",
+      "slug": "ifosfamide",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00373",
-      "name": "TIMOLOL",
-      "kg_predictions": 4,
-      "dl_predictions": 21,
-      "license_id": "MAL20091944ARZ",
-      "brand_name": "AZARGA 10MG/ML + 5MG/ML EYE DROPS, SUSPENSION"
+      "name": "Iloprost",
+      "slug": "iloprost",
+      "level": "L5",
+      "indication_count": 9
     },
     {
-      "drugbank_id": "DB01260",
-      "name": "DESONIDE",
-      "kg_predictions": 25,
-      "dl_predictions": 0,
-      "license_id": "MAL10070557AZ",
-      "brand_name": "Ezenide Lotion 0.05% w/w"
+      "name": "Imatinib",
+      "slug": "imatinib",
+      "level": "L2",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB01410",
-      "name": "CICLESONIDE",
-      "kg_predictions": 25,
-      "dl_predictions": 0,
-      "license_id": "MAL20102029ACRZ",
-      "brand_name": "OMNARIS NASAL SPRAY 50MCG 120 PUFFS"
+      "name": "Imiglucerase",
+      "slug": "imiglucerase",
+      "level": "L4",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB04854",
-      "name": "FEBUXOSTAT",
-      "kg_predictions": 11,
-      "dl_predictions": 14,
-      "license_id": "MAL16075031ACRZ",
-      "brand_name": "Feburic 80 mg film-coated tablets"
+      "name": "Imipenem",
+      "slug": "imipenem",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00653",
-      "name": "MAGNESIUM SULFATE",
-      "kg_predictions": 24,
-      "dl_predictions": 0,
-      "license_id": "MAL22126035ACZ",
-      "brand_name": "Magnesium sulfate Kalceks 500mg/ml solution for in"
+      "name": "Imiquimod",
+      "slug": "imiquimod",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00783",
-      "name": "ESTRADIOL",
-      "kg_predictions": 24,
-      "dl_predictions": 0,
-      "license_id": "MAL19992694AZ",
-      "brand_name": "LOETTE 21 TABLET"
+      "name": "Inclisiran",
+      "slug": "inclisiran",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00897",
-      "name": "TRIAZOLAM",
-      "kg_predictions": 1,
-      "dl_predictions": 23,
-      "license_id": "MAL20041071AZ",
-      "brand_name": "INZOLAM 0.25MG TABLET"
+      "name": "Indacaterol",
+      "slug": "indacaterol",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB01261",
-      "name": "SITAGLIPTIN",
-      "kg_predictions": 12,
-      "dl_predictions": 12,
-      "license_id": "MAL20071662ACRZ",
-      "brand_name": "JANUVIA 25 MG TABLET"
+      "name": "Indomethacin",
+      "slug": "indomethacin",
+      "level": "L3",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB11098",
-      "name": "POTASSIUM BICARBONATE",
-      "kg_predictions": 24,
-      "dl_predictions": 0,
-      "license_id": "MAL25046041XC",
-      "brand_name": "Remeco PEPTICON Advance Oral Suspension"
+      "name": "Insulin Aspart",
+      "slug": "insulin_aspart",
+      "level": "L1",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00302",
-      "name": "TRANEXAMIC ACID",
-      "kg_predictions": 18,
-      "dl_predictions": 5,
-      "license_id": "MAL11110007AZ",
-      "brand_name": "TRANEXAMIC ACID 500mg/5mL INJECTION Bioindustria L"
+      "name": "Insulin Degludec",
+      "slug": "insulin_degludec",
+      "level": "L1",
+      "indication_count": 6
     },
     {
-      "drugbank_id": "DB00790",
-      "name": "PERINDOPRIL",
-      "kg_predictions": 16,
-      "dl_predictions": 7,
-      "license_id": "MAL06041482AZ",
-      "brand_name": "COVINACE 4 MG TABLET"
+      "name": "Insulin Detemir",
+      "slug": "insulin_detemir",
+      "level": "L1",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00982",
-      "name": "ISOTRETINOIN",
-      "kg_predictions": 16,
-      "dl_predictions": 7,
-      "license_id": "MAL20013005ARZ",
-      "brand_name": "NIMEGEN SOFT CAPSULE"
+      "name": "Insulin Glargine",
+      "slug": "insulin_glargine",
+      "level": "L2",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB05109",
-      "name": "TRABECTEDIN",
-      "kg_predictions": 23,
-      "dl_predictions": 0,
-      "license_id": "MAL20091970ACRZ",
-      "brand_name": "YONDELIS 1MG FOR INJECTION"
+      "name": "Insulin Glulisine",
+      "slug": "insulin_glulisine",
+      "level": "L1",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB06708",
-      "name": "LUMEFANTRINE",
-      "kg_predictions": 8,
-      "dl_predictions": 14,
-      "license_id": "MAL20122220AEZ",
-      "brand_name": "LUTER TABLET 40 / 240 mg"
+      "name": "Insulin Human",
+      "slug": "insulin_human",
+      "level": "L5",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB08885",
-      "name": "AFLIBERCEPT",
-      "kg_predictions": 20,
-      "dl_predictions": 0,
-      "license_id": "MAL13035065AZ",
-      "brand_name": "EYLEA 40MG/ML SOLUTION FOR INJECTION IN VIAL"
+      "name": "Insulin Lispro",
+      "slug": "insulin_lispro",
+      "level": "L5",
+      "indication_count": 9
     },
     {
-      "drugbank_id": "DB08906",
-      "name": "FLUTICASONE FUROATE",
-      "kg_predictions": 20,
-      "dl_predictions": 0,
-      "license_id": "MAL20081823ARZ",
-      "brand_name": "AVAMYS NASAL SPRAY"
+      "name": "Iodixanol",
+      "slug": "iodixanol",
+      "level": "L5",
+      "indication_count": 3
     },
     {
-      "drugbank_id": "DB11591",
-      "name": "BILASTINE",
-      "kg_predictions": 20,
-      "dl_predictions": 0,
-      "license_id": "MAL14085008AZ",
-      "brand_name": "BILAXTEN 20mg Tablets"
+      "name": "Iohexol",
+      "slug": "iohexol",
+      "level": "L5",
+      "indication_count": 2
     },
     {
-      "drugbank_id": "DB15566",
-      "name": "PREDNISOLONE ACETATE",
-      "kg_predictions": 20,
-      "dl_predictions": 0,
-      "license_id": "MAL19986420AZ",
-      "brand_name": "PREDON INJECTION 25MG/ML"
+      "name": "Iopromide",
+      "slug": "iopromide",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00191",
-      "name": "PHENTERMINE",
-      "kg_predictions": 6,
-      "dl_predictions": 13,
-      "license_id": "MAL14035017ACRZ",
-      "brand_name": "Duromine capsule 15mg"
+      "name": "Ipilimumab",
+      "slug": "ipilimumab",
+      "level": "L5",
+      "indication_count": 2
     },
     {
-      "drugbank_id": "DB00763",
-      "name": "METHIMAZOLE",
-      "kg_predictions": 3,
-      "dl_predictions": 16,
-      "license_id": "MAL07050041AZ",
-      "brand_name": "Timazol Tablet 5mg"
+      "name": "Irbesartan",
+      "slug": "irbesartan",
+      "level": "L1",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB00502",
-      "name": "HALOPERIDOL",
-      "kg_predictions": 18,
-      "dl_predictions": 0,
-      "license_id": "MAL19985177AZ",
-      "brand_name": "MANACE INJECTION (1ML AMP)"
+      "name": "Iron",
+      "slug": "iron",
+      "level": "L5",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB00819",
-      "name": "ACETAZOLAMIDE",
-      "kg_predictions": 18,
-      "dl_predictions": 0,
-      "license_id": "MAL19984701AZ",
-      "brand_name": "APO-ACETAZOLAMIDE TABLET 250MG"
+      "name": "Isoflurane",
+      "slug": "isoflurane",
+      "level": "L5",
+      "indication_count": 7
     },
     {
-      "drugbank_id": "DB01197",
-      "name": "CAPTOPRIL",
-      "kg_predictions": 18,
-      "dl_predictions": 0,
-      "license_id": "MAL08061553AZ",
-      "brand_name": "Miniten 25mg Tablet"
+      "name": "Isoleucine",
+      "slug": "isoleucine",
+      "level": "L5",
+      "indication_count": 1
     },
     {
-      "drugbank_id": "DB06655",
-      "name": "LIRAGLUTIDE",
-      "kg_predictions": 6,
-      "dl_predictions": 12,
-      "license_id": "MAL17085003AZ",
-      "brand_name": "Saxenda 6mg/ml Solution for Injection in Pre-fille"
+      "name": "Isoniazid",
+      "slug": "isoniazid",
+      "level": "L4",
+      "indication_count": 1
     },
     {
-      "drugbank_id": "DB11951",
-      "name": "LEMBOREXANT",
-      "kg_predictions": 2,
-      "dl_predictions": 15,
-      "license_id": "MAL22066114AZ",
-      "brand_name": "Dayvigo 5mg Film coated tablet"
+      "name": "Isosorbide Dinitrate",
+      "slug": "isosorbide_dinitrate",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB01067",
-      "name": "GLIPIZIDE",
-      "kg_predictions": 4,
-      "dl_predictions": 12,
-      "license_id": "MAL19992070AZ",
-      "brand_name": "GIPZIDE TABLET 5MG"
+      "name": "Isosorbide Mononitrate",
+      "slug": "isosorbide_mononitrate",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00046",
-      "name": "INSULIN LISPRO",
-      "kg_predictions": 15,
-      "dl_predictions": 0,
-      "license_id": "MAL20102051AZ",
-      "brand_name": "HUMALOG MIX 25 KWIKPEN INJECTION 3ML (100 IU/ML)"
+      "name": "Isotretinoin",
+      "slug": "isotretinoin",
+      "level": "L5",
+      "indication_count": 2
     },
     {
-      "drugbank_id": "DB01586",
-      "name": "URSODEOXYCHOLIC ACID",
-      "kg_predictions": 15,
-      "dl_predictions": 0,
-      "license_id": "MAL19990011ACRZ",
-      "brand_name": "URSOFALK CAPSULE 250MG"
+      "name": "Itraconazole",
+      "slug": "itraconazole",
+      "level": "L5",
+      "indication_count": 1
     },
     {
-      "drugbank_id": "DB08875",
-      "name": "CABOZANTINIB",
-      "kg_predictions": 15,
-      "dl_predictions": 0,
-      "license_id": "MAL21046002ACZ",
-      "brand_name": "CABOMETYX 20mg film-coated tablets"
+      "name": "Ketoconazole",
+      "slug": "ketoconazole",
+      "level": "L3",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB09256",
-      "name": "TEGAFUR",
-      "kg_predictions": 15,
-      "dl_predictions": 0,
-      "license_id": "MAL19071004AZ",
-      "brand_name": "TS-ONE OD Tablet 20"
+      "name": "Ketoprofen",
+      "slug": "ketoprofen",
+      "level": "L1",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB12141",
-      "name": "GILTERITINIB",
-      "kg_predictions": 15,
-      "dl_predictions": 0,
-      "license_id": "MAL23126003ARZ",
-      "brand_name": "Xospata 40mg Film Coated Tablets"
+      "name": "Ketorolac",
+      "slug": "ketorolac",
+      "level": "L1",
+      "indication_count": 3
     },
     {
-      "drugbank_id": "DB00531",
-      "name": "CYCLOPHOSPHAMIDE",
-      "kg_predictions": 14,
-      "dl_predictions": 0,
-      "license_id": "MAL19890356AZ",
-      "brand_name": "ENDOXAN INJ 1GM (50ML VIAL)"
+      "name": "Lacosamide",
+      "slug": "lacosamide",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB01001",
-      "name": "SALBUTAMOL",
-      "kg_predictions": 14,
-      "dl_predictions": 0,
-      "license_id": "MAL19930049AZ",
-      "brand_name": "ASMIN EXPECTORANT"
+      "name": "Lactic Acid",
+      "slug": "lactic_acid",
+      "level": "L5",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB01124",
-      "name": "TOLBUTAMIDE",
-      "kg_predictions": 2,
-      "dl_predictions": 12,
-      "license_id": "MAL06011692ASZ",
-      "brand_name": "Tobumide Tablet"
+      "name": "Lactulose",
+      "slug": "lactulose",
+      "level": "L3",
+      "indication_count": 8
     },
     {
-      "drugbank_id": "DB01377",
-      "name": "MAGNESIUM OXIDE",
-      "kg_predictions": 14,
-      "dl_predictions": 0,
-      "license_id": "MAL13115222X",
-      "brand_name": "PICO-SALAX Powder for Oral Solution"
+      "name": "Lamivudine",
+      "slug": "lamivudine",
+      "level": "L5",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB06273",
-      "name": "TOCILIZUMAB",
-      "kg_predictions": 14,
-      "dl_predictions": 0,
-      "license_id": "MAL20091983ACRZ",
-      "brand_name": "ACTEMRA  20 MG/ML CONCENTRATE FOR SOLUTION FOR INF"
+      "name": "Lamotrigine",
+      "slug": "lamotrigine",
+      "level": "L5",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB09045",
-      "name": "DULAGLUTIDE",
-      "kg_predictions": 4,
-      "dl_predictions": 10,
-      "license_id": "MAL16115030ARZ",
-      "brand_name": "Trulicity 1.5mg solution for injection in pre-fill"
+      "name": "Lansoprazole",
+      "slug": "lansoprazole",
+      "level": "L4",
+      "indication_count": 2
     },
     {
-      "drugbank_id": "DB12281",
-      "name": "LUSPATERCEPT",
-      "kg_predictions": 14,
-      "dl_predictions": 0,
-      "license_id": "MAL22126015ACZ",
-      "brand_name": "Reblozyl 75 mg powder for solution for injection"
+      "name": "Laronidase",
+      "slug": "laronidase",
+      "level": "L4",
+      "indication_count": 2
     },
     {
-      "drugbank_id": "DB00324",
-      "name": "FLUOROMETHOLONE",
-      "kg_predictions": 13,
-      "dl_predictions": 0,
-      "license_id": "MAL19890344ARZ",
-      "brand_name": "FML LIQUIFILM STERILE OPHTHALMIC S*"
+      "name": "Latanoprost",
+      "slug": "latanoprost",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00968",
-      "name": "METHYLDOPA",
-      "kg_predictions": 6,
-      "dl_predictions": 7,
-      "license_id": "MAL22096026AZ",
-      "brand_name": "Methyldopa Remedica 250 mg film-coated tablets"
+      "name": "Ledipasvir",
+      "slug": "ledipasvir",
+      "level": "L2",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00104",
-      "name": "OCTREOTIDE",
-      "kg_predictions": 12,
-      "dl_predictions": 0,
-      "license_id": "MAL19913234ACRZ",
-      "brand_name": "SANDOSTATIN AMPOULES 0.05 MG/1 ML"
+      "name": "Leflunomide",
+      "slug": "leflunomide",
+      "level": "L5",
+      "indication_count": 2
     },
     {
-      "drugbank_id": "DB00184",
-      "name": "NICOTINE",
-      "kg_predictions": 12,
-      "dl_predictions": 0,
-      "license_id": "MAL23026003ARZ",
-      "brand_name": "Nicorette QuickMist Freshmint 1mg/spray Mouthspray"
+      "name": "Lemborexant",
+      "slug": "lemborexant",
+      "level": "L1",
+      "indication_count": 1
     },
     {
-      "drugbank_id": "DB00351",
-      "name": "MEGESTROL ACETATE",
-      "kg_predictions": 12,
-      "dl_predictions": 0,
-      "license_id": "MAL18016021AZ",
-      "brand_name": "Megex-I Suspension 800mg/20ml"
+      "name": "Lenalidomide",
+      "slug": "lenalidomide",
+      "level": "L1",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB00389",
-      "name": "CARBIMAZOLE",
-      "kg_predictions": 12,
-      "dl_predictions": 0,
-      "license_id": "MAL19860195AZ",
-      "brand_name": "CAMAZOL TABLET 5MG"
+      "name": "Letermovir",
+      "slug": "letermovir",
+      "level": "L5",
+      "indication_count": 1
     },
     {
-      "drugbank_id": "DB00646",
-      "name": "NYSTATIN",
-      "kg_predictions": 12,
-      "dl_predictions": 0,
-      "license_id": "MAL20032250AZ",
-      "brand_name": "TYSTATIN ORAL SUSPENSION"
+      "name": "Letrozole",
+      "slug": "letrozole",
+      "level": "L1",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00704",
-      "name": "NALTREXONE",
-      "kg_predictions": 3,
-      "dl_predictions": 9,
-      "license_id": "MAL22096003ACRZ",
-      "brand_name": "CONTRAVE Prolonged-Release Tablet Naltrexone Hydro"
+      "name": "Levetiracetam",
+      "slug": "levetiracetam",
+      "level": "L4",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00712",
-      "name": "FLURBIPROFEN",
-      "kg_predictions": 12,
-      "dl_predictions": 0,
-      "license_id": "MAL18016023ASZ",
-      "brand_name": "Strepsils Max Pro Honey & Lemon 8.75mg Lozenge"
+      "name": "Levodopa",
+      "slug": "levodopa",
+      "level": "L1",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB00851",
-      "name": "DACARBAZINE",
-      "kg_predictions": 12,
-      "dl_predictions": 0,
-      "license_id": "MAL19930485ARZ",
-      "brand_name": "<p>DBL&trade; Dacarbazine for Injection 200mg</p>"
+      "name": "Levofloxacin",
+      "slug": "levofloxacin",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00905",
-      "name": "BIMATOPROST",
-      "kg_predictions": 12,
-      "dl_predictions": 0,
-      "license_id": "MAL20081836ARZ",
-      "brand_name": "GANFORT EYE DROPS"
+      "name": "Levonorgestrel",
+      "slug": "levonorgestrel",
+      "level": "L4",
+      "indication_count": 6
     },
     {
-      "drugbank_id": "DB01041",
-      "name": "THALIDOMIDE",
-      "kg_predictions": 1,
-      "dl_predictions": 11,
-      "license_id": "MAL20102065AZ",
-      "brand_name": "DOMIDE CAPSULE 50MG"
+      "name": "Lidocaine",
+      "slug": "lidocaine",
+      "level": "L3",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB01198",
-      "name": "ZOPICLONE",
-      "kg_predictions": 4,
-      "dl_predictions": 8,
-      "license_id": "MAL19900140ARZ",
-      "brand_name": "IMOVANE TABLET 7.5MG"
+      "name": "Lisinopril",
+      "slug": "lisinopril",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB04930",
-      "name": "PERMETHRIN",
-      "kg_predictions": 12,
-      "dl_predictions": 0,
-      "license_id": "MAL20040878XZ",
-      "brand_name": "A Scabs"
+      "name": "Lithium Carbonate",
+      "slug": "lithium_carbonate",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB08910",
-      "name": "POMALIDOMIDE",
-      "kg_predictions": 12,
-      "dl_predictions": 0,
-      "license_id": "MAL23016019AZ",
-      "brand_name": "POMARZA 1 (POMALIDOMIDE CAPSULES 1mg)"
+      "name": "Lonoctocog Alfa",
+      "slug": "lonoctocog_alfa",
+      "level": "L5",
+      "indication_count": 4
     },
     {
-      "drugbank_id": "DB08934",
-      "name": "SOFOSBUVIR",
-      "kg_predictions": 12,
-      "dl_predictions": 0,
-      "license_id": "MAL18046002AZ",
-      "brand_name": "Epclusa (sofosbuvir 400mg/ velpatasvir 100mg) Film"
+      "name": "Loperamide",
+      "slug": "loperamide",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00528",
-      "name": "LERCANIDIPINE",
-      "kg_predictions": 2,
-      "dl_predictions": 9,
-      "license_id": "MAL07050024AZ",
-      "brand_name": "Zanidip 20mg, film-coated tablet"
+      "name": "Lopinavir",
+      "slug": "lopinavir",
+      "level": "L5",
+      "indication_count": 3
     },
     {
-      "drugbank_id": "DB06761",
-      "name": "BERACTANT",
-      "kg_predictions": 4,
-      "dl_predictions": 7,
-      "license_id": "MAL20020869AZ",
-      "brand_name": "SURVANTA 4ML"
+      "name": "Loratadine",
+      "slug": "loratadine",
+      "level": "L4",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB00432",
-      "name": "TRIFLURIDINE",
-      "kg_predictions": 10,
-      "dl_predictions": 0,
-      "license_id": "MAL20026040AZ",
-      "brand_name": "Lonsurf Film-coated Tablet 20 mg/8.19 mg (Trifluri"
+      "name": "Lorazepam",
+      "slug": "lorazepam",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB01044",
-      "name": "GATIFLOXACIN",
-      "kg_predictions": 10,
-      "dl_predictions": 0,
-      "license_id": "MAL15045158ARZ",
-      "brand_name": "ZYMAXID (gatifloxacin ophthalmic solution) 0.5%"
+      "name": "Lorlatinib",
+      "slug": "lorlatinib",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB01097",
-      "name": "LEFLUNOMIDE",
-      "kg_predictions": 10,
-      "dl_predictions": 0,
-      "license_id": "MAL23046034AZ",
-      "brand_name": "LAREYA 20 mg Film-Coated Tablet"
+      "name": "Loteprednol Etabonate",
+      "slug": "loteprednol_etabonate",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB06285",
-      "name": "TERIPARATIDE",
-      "kg_predictions": 10,
-      "dl_predictions": 0,
-      "license_id": "MAL22126016AZ",
-      "brand_name": "SONDELBAY (Teriparatide) 20 micrograms/ 80 microli"
+      "name": "Lovastatin",
+      "slug": "lovastatin",
+      "level": "L3",
+      "indication_count": 6
     },
     {
-      "drugbank_id": "DB08931",
-      "name": "RIOCIGUAT",
-      "kg_predictions": 10,
-      "dl_predictions": 0,
-      "license_id": "MAL14115021ARZ",
-      "brand_name": "Adempas 2.5mg film-coated tablet"
+      "name": "Loxoprofen",
+      "slug": "loxoprofen",
+      "level": "L5",
+      "indication_count": 2
     },
     {
-      "drugbank_id": "DB09257",
-      "name": "GIMERACIL",
-      "kg_predictions": 10,
-      "dl_predictions": 0,
-      "license_id": "MAL19071004AZ",
-      "brand_name": "TS-ONE OD Tablet 20"
+      "name": "Magnesium Carbonate",
+      "slug": "magnesium_carbonate",
+      "level": "L4",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB13998",
-      "name": "LONOCTOCOG ALFA",
-      "kg_predictions": 10,
-      "dl_predictions": 0,
-      "license_id": "MAL20046087ARZ",
-      "brand_name": "AFSTYLA 250IU powder and solvent for solution for "
+      "name": "Magnesium Hydroxide",
+      "slug": "magnesium_hydroxide",
+      "level": "L3",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB00291",
-      "name": "CHLORAMBUCIL",
-      "kg_predictions": 9,
-      "dl_predictions": 0,
-      "license_id": "MAL04125474ACZ",
-      "brand_name": "Leukeran Tablets 2mg"
+      "name": "Magnesium Sulfate",
+      "slug": "magnesium_sulfate",
+      "level": "L1",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00475",
-      "name": "CHLORDIAZEPOXIDE",
-      "kg_predictions": 9,
-      "dl_predictions": 0,
-      "license_id": "MAL20013121AZ",
-      "brand_name": "LIBLAN FILM-COATED TABLET"
+      "name": "Magnesium Trisilicate",
+      "slug": "magnesium_trisilicate",
+      "level": "L4",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB01406",
-      "name": "DANAZOL",
-      "kg_predictions": 9,
-      "dl_predictions": 0,
-      "license_id": "MAL20033461AEZ",
-      "brand_name": "NAZOL CAPSULE 200MG"
+      "name": "Mannitol",
+      "slug": "mannitol",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB09242",
-      "name": "MOXONIDINE",
-      "kg_predictions": 9,
-      "dl_predictions": 0,
-      "license_id": "MAL20033336ACZ",
-      "brand_name": "PHYSIOTENS 0.3MG TABLET"
+      "name": "Mebendazole",
+      "slug": "mebendazole",
+      "level": "L5",
+      "indication_count": 1
     },
     {
-      "drugbank_id": "DB05351",
-      "name": "DEXLANSOPRAZOLE",
-      "kg_predictions": 8,
-      "dl_predictions": 0,
-      "license_id": "MAL14015012ARZ",
-      "brand_name": "Dexilant Delayed Release Capsules 30mg"
+      "name": "Mecobalamin",
+      "slug": "mecobalamin",
+      "level": "L5",
+      "indication_count": 3
     },
     {
-      "drugbank_id": "DB06626",
-      "name": "AXITINIB",
-      "kg_predictions": 8,
-      "dl_predictions": 0,
-      "license_id": "MAL13115126AZ",
-      "brand_name": "Inlyta Film-coated Tablets 1mg"
+      "name": "Medroxyprogesterone Acetate",
+      "slug": "medroxyprogesterone_acetate",
+      "level": "L5",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB09108",
-      "name": "SIMOCTOCOG ALFA",
-      "kg_predictions": 8,
-      "dl_predictions": 0,
-      "license_id": "MAL20026054AZ",
-      "brand_name": "Nuwiq 500IU Powder for Solution for Injection"
+      "name": "Mefenamic Acid",
+      "slug": "mefenamic_acid",
+      "level": "L5",
+      "indication_count": 8
     },
     {
-      "drugbank_id": "DB09119",
-      "name": "ESLICARBAZEPINE ACETATE",
-      "kg_predictions": 8,
-      "dl_predictions": 0,
-      "license_id": "MAL25046017AZ",
-      "brand_name": "Excarb Tablets 600mg"
+      "name": "Megestrol Acetate",
+      "slug": "megestrol_acetate",
+      "level": "L2",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB11362",
-      "name": "SELEXIPAG",
-      "kg_predictions": 8,
-      "dl_predictions": 0,
-      "license_id": "MAL18086114ACRZ",
-      "brand_name": "Uptravi 200 microgram Film-coated tablets"
+      "name": "Meloxicam",
+      "slug": "meloxicam",
+      "level": "L1",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB13884",
-      "name": "ALBUTREPENONACOG ALFA",
-      "kg_predictions": 8,
-      "dl_predictions": 0,
-      "license_id": "MAL18046018ARZ",
-      "brand_name": "IDELVION 500 IU powder and solvent for solution fo"
+      "name": "Melphalan",
+      "slug": "melphalan",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB13999",
-      "name": "MOROCTOCOG ALFA",
-      "kg_predictions": 8,
-      "dl_predictions": 0,
-      "license_id": "MAL20091990AZ",
-      "brand_name": "Xyntha 500 IU Powder and Solvent for Solution for "
+      "name": "Mepolizumab",
+      "slug": "mepolizumab",
+      "level": "L4",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB14738",
-      "name": "TUROCTOCOG ALFA PEGOL",
-      "kg_predictions": 8,
-      "dl_predictions": 0,
-      "license_id": "MAL26016008AZ",
-      "brand_name": "Esperoct 3000 IU powder and solvent for solution f"
+      "name": "Mercaptopurine",
+      "slug": "mercaptopurine",
+      "level": "L1",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00002",
-      "name": "CETUXIMAB",
-      "kg_predictions": 7,
-      "dl_predictions": 0,
-      "license_id": "MAL20081796AZ",
-      "brand_name": "ERBITUX 5MG/ML SOLUTION FOR INFUSION"
+      "name": "Meropenem",
+      "slug": "meropenem",
+      "level": "L4",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00146",
-      "name": "CALCIFEDIOL",
-      "kg_predictions": 7,
-      "dl_predictions": 0,
-      "license_id": "MAL25036004ACZ",
-      "brand_name": "Hidroferol 0.266mg Soft Capsules (Calcifediol mono"
+      "name": "Mesalazine",
+      "slug": "mesalazine",
+      "level": "L5",
+      "indication_count": 7
     },
     {
-      "drugbank_id": "DB00421",
-      "name": "SPIRONOLACTONE",
-      "kg_predictions": 7,
-      "dl_predictions": 0,
-      "license_id": "MAL19870234AZ",
-      "brand_name": "Spiro 25mg Tablet"
+      "name": "Methionine",
+      "slug": "methionine",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB06736",
-      "name": "ACECLOFENAC",
-      "kg_predictions": 7,
-      "dl_predictions": 0,
-      "license_id": "MAL20026048AZ",
-      "brand_name": "Airtal 100mg Film-coated Tablet"
+      "name": "Methotrexate",
+      "slug": "methotrexate",
+      "level": "L3",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB00215",
-      "name": "CITALOPRAM",
-      "kg_predictions": 6,
-      "dl_predictions": 0,
-      "license_id": "MAL19950394AZ",
-      "brand_name": "CIPRAM TABLETS 20MG"
+      "name": "Methoxy Polyethylene Glycol-Epoetin Beta",
+      "slug": "methoxy_polyethylene_glycol-epoetin_beta",
+      "level": "L5",
+      "indication_count": 7
     },
     {
-      "drugbank_id": "DB00238",
-      "name": "NEVIRAPINE",
-      "kg_predictions": 6,
-      "dl_predictions": 0,
-      "license_id": "MAL12115051AZ",
-      "brand_name": "Zidovex LN (Lamivudine 150mg, Zidovudine 300mg, Ne"
+      "name": "Methylene Blue",
+      "slug": "methylene_blue",
+      "level": "L5",
+      "indication_count": 3
     },
     {
-      "drugbank_id": "DB00242",
-      "name": "CLADRIBINE",
-      "kg_predictions": 6,
-      "dl_predictions": 0,
-      "license_id": "MAL20096001ARZ",
-      "brand_name": "Mavenclad 10mg Tablets"
+      "name": "Methylphenidate",
+      "slug": "methylphenidate",
+      "level": "L5",
+      "indication_count": 4
     },
     {
-      "drugbank_id": "DB00495",
-      "name": "ZIDOVUDINE",
-      "kg_predictions": 6,
-      "dl_predictions": 0,
-      "license_id": "MAL20142455AEZ",
-      "brand_name": "hovid-Lambivir Tablet 150mg/300mg"
+      "name": "Methylprednisolone",
+      "slug": "methylprednisolone",
+      "level": "L4",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB00806",
-      "name": "PENTOXIFYLLINE",
-      "kg_predictions": 6,
-      "dl_predictions": 0,
-      "license_id": "MAL05032541AZ",
-      "brand_name": "Trenlin SR Tablet 400mg"
+      "name": "Metronidazole",
+      "slug": "metronidazole",
+      "level": "L1",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB06267",
-      "name": "UDENAFIL",
-      "kg_predictions": 6,
-      "dl_predictions": 0,
-      "license_id": "MAL20091987AZ",
-      "brand_name": "ZYDENA 200 TABLET"
+      "name": "Miconazole",
+      "slug": "miconazole",
+      "level": "L3",
+      "indication_count": 1
     },
     {
-      "drugbank_id": "DB08883",
-      "name": "PERAMPANEL",
-      "kg_predictions": 6,
-      "dl_predictions": 0,
-      "license_id": "MAL14035002AZ",
-      "brand_name": "Fycompa 2mg Film-coated Tablets"
+      "name": "Midazolam",
+      "slug": "midazolam",
+      "level": "L5",
+      "indication_count": 1
     },
     {
-      "drugbank_id": "DB11085",
-      "name": "RESORCINOL",
-      "kg_predictions": 6,
-      "dl_predictions": 0,
-      "license_id": "MAL20001124X",
-      "brand_name": "T3 PIMPLE GEL"
+      "name": "Milrinone",
+      "slug": "milrinone",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB11581",
-      "name": "VENETOCLAX",
-      "kg_predictions": 6,
-      "dl_predictions": 0,
-      "license_id": "MAL18061001ARZ",
-      "brand_name": "VENCLEXTA TABLET 10MG"
+      "name": "Minoxidil",
+      "slug": "minoxidil",
+      "level": "L4",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB11742",
-      "name": "EBASTINE",
-      "kg_predictions": 6,
-      "dl_predictions": 0,
-      "license_id": "MAL19096026AZ",
-      "brand_name": "Kestine 20mg film-coated tablets"
+      "name": "Mirtazapine",
+      "slug": "mirtazapine",
+      "level": "L5",
+      "indication_count": 3
     },
     {
-      "drugbank_id": "DB12267",
-      "name": "BRIGATINIB",
-      "kg_predictions": 6,
-      "dl_predictions": 0,
-      "license_id": "MAL21046005AZ",
-      "brand_name": "Alunbrig (Brigatinib) 30mg Film-Coated Tablet"
+      "name": "Mitomycin",
+      "slug": "mitomycin",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB14498",
-      "name": "POTASSIUM ACETATE",
-      "kg_predictions": 6,
-      "dl_predictions": 0,
-      "license_id": "MAL20031947AZ",
-      "brand_name": "NUTRIFLEX LIPID PLUS"
+      "name": "Moclobemide",
+      "slug": "moclobemide",
+      "level": "L5",
+      "indication_count": 2
     },
     {
-      "drugbank_id": "DB00210",
-      "name": "ADAPALENE",
-      "kg_predictions": 5,
-      "dl_predictions": 0,
-      "license_id": "MAL04103438ARZ",
-      "brand_name": "Differin Cream 0.1%"
+      "name": "Mometasone Furoate",
+      "slug": "mometasone_furoate",
+      "level": "L4",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB00877",
-      "name": "SIROLIMUS",
-      "kg_predictions": 5,
-      "dl_predictions": 0,
-      "license_id": "MAL20032403ARZ",
-      "brand_name": "RAPAMUNE TABLET 1MG"
+      "name": "Moroctocog Alfa",
+      "slug": "moroctocog_alfa",
+      "level": "L5",
+      "indication_count": 8
     },
     {
-      "drugbank_id": "DB00951",
-      "name": "ISONIAZID",
-      "kg_predictions": 5,
-      "dl_predictions": 0,
-      "license_id": "MAL07050004AZ",
-      "brand_name": "FORECOX-TRAC FILM COATED TABLET"
+      "name": "Morphine",
+      "slug": "morphine",
+      "level": "L4",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB01033",
-      "name": "MERCAPTOPURINE",
-      "kg_predictions": 5,
-      "dl_predictions": 0,
-      "license_id": "MAL25076017AZ",
-      "brand_name": "PURINETONE TABLETS MERCAPTOPURINE 50MG"
+      "name": "Moxifloxacin",
+      "slug": "moxifloxacin",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB01268",
-      "name": "SUNITINIB",
-      "kg_predictions": 5,
-      "dl_predictions": 0,
-      "license_id": "MAL24086019ACZ",
-      "brand_name": "INTEGA SUNITINIB  12.5mg Hard Capsule"
+      "name": "Moxonidine",
+      "slug": "moxonidine",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB01409",
-      "name": "TIOTROPIUM",
-      "kg_predictions": 5,
-      "dl_predictions": 0,
-      "license_id": "MAL20091850AZ",
-      "brand_name": "SPIRIVA RESPIMAT 2.5 MICROGRAM, SOLUTION FOR INHAL"
+      "name": "Mupirocin",
+      "slug": "mupirocin",
+      "level": "L5",
+      "indication_count": 2
     },
     {
-      "drugbank_id": "DB08870",
-      "name": "BRENTUXIMAB VEDOTIN",
-      "kg_predictions": 5,
-      "dl_predictions": 0,
-      "license_id": "MAL15045085ACRZ",
-      "brand_name": "Adcetris 50mg, powder for concentrate for solution"
+      "name": "Mycophenolate Mofetil",
+      "slug": "mycophenolate_mofetil",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB11696",
-      "name": "RACECADOTRIL",
-      "kg_predictions": 5,
-      "dl_predictions": 0,
-      "license_id": "MAL13045048AZ",
-      "brand_name": "Hidrasec Children 30mg Granules for Oral Suspensio"
+      "name": "Mycophenolic Acid",
+      "slug": "mycophenolic_acid",
+      "level": "L3",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB14488",
-      "name": "FERROUS GLUCONATE",
-      "kg_predictions": 5,
-      "dl_predictions": 0,
-      "license_id": "MAL19911002X",
-      "brand_name": "SANGOBION COMPLETE CAPSULE"
+      "name": "Naproxen",
+      "slug": "naproxen",
+      "level": "L5",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB00090",
-      "name": "LARONIDASE",
-      "kg_predictions": 4,
-      "dl_predictions": 0,
-      "license_id": "MAL20091892ACZ",
-      "brand_name": "ALDURAZYME (LARONIDASE)"
+      "name": "Nefopam",
+      "slug": "nefopam",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00107",
-      "name": "OXYTOCIN",
-      "kg_predictions": 4,
-      "dl_predictions": 0,
-      "license_id": "MAL19985966AZ",
-      "brand_name": "UDOXAN INJECTION (1ML AMP)"
+      "name": "Nepafenac",
+      "slug": "nepafenac",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00248",
-      "name": "CABERGOLINE",
-      "kg_predictions": 4,
-      "dl_predictions": 0,
-      "license_id": "MAL19971775AZ",
-      "brand_name": "DOSTINEX TABLET 0.5MG"
+      "name": "Netarsudil",
+      "slug": "netarsudil",
+      "level": "L5",
+      "indication_count": 2
     },
     {
-      "drugbank_id": "DB00393",
-      "name": "NIMODIPINE",
-      "kg_predictions": 4,
-      "dl_predictions": 0,
-      "license_id": "MAL19940480ACZ",
-      "brand_name": "NIMOTOP INFUSION SOLUTION 0.02% 50ML"
+      "name": "Nevirapine",
+      "slug": "nevirapine",
+      "level": "L4",
+      "indication_count": 3
     },
     {
-      "drugbank_id": "DB00550",
-      "name": "PROPYLTHIOURACIL",
-      "kg_predictions": 4,
-      "dl_predictions": 0,
-      "license_id": "MAL19930398AZ",
-      "brand_name": "PROPYL TABLET 50MG"
+      "name": "Nimodipine",
+      "slug": "nimodipine",
+      "level": "L5",
+      "indication_count": 2
     },
     {
-      "drugbank_id": "DB00631",
-      "name": "CLOFARABINE",
-      "kg_predictions": 4,
-      "dl_predictions": 0,
-      "license_id": "MAL20076043AZ",
-      "brand_name": "NUCLOFAR Clofarabine 1mg/mL Concentrate for Soluti"
+      "name": "Niraparib",
+      "slug": "niraparib",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00700",
-      "name": "EPLERENONE",
-      "kg_predictions": 4,
-      "dl_predictions": 0,
-      "license_id": "MAL20081802ARZ",
-      "brand_name": "INSPRA 50MG  FILM-COATED TABLETS"
+      "name": "Nitrazepam",
+      "slug": "nitrazepam",
+      "level": "L4",
+      "indication_count": 3
     },
     {
-      "drugbank_id": "DB00912",
-      "name": "REPAGLINIDE",
-      "kg_predictions": 4,
-      "dl_predictions": 0,
-      "license_id": "MAL20001008ACRZ",
-      "brand_name": "NOVONORM TABLET 1.0MG"
+      "name": "Nitric Oxide",
+      "slug": "nitric_oxide",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00971",
-      "name": "SELENIUM SULFIDE",
-      "kg_predictions": 4,
-      "dl_predictions": 0,
-      "license_id": "MAL05023182ACZ",
-      "brand_name": "Selsun 2.5% Suspension Treatment"
+      "name": "Nitrofurantoin",
+      "slug": "nitrofurantoin",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB01083",
-      "name": "ORLISTAT",
-      "kg_predictions": 4,
-      "dl_predictions": 0,
-      "license_id": "MAL09122042AZ",
-      "brand_name": "ASLENE CAPSULE 120MG"
+      "name": "Nitroglycerin",
+      "slug": "nitroglycerin",
+      "level": "L3",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB01254",
-      "name": "DASATINIB",
-      "kg_predictions": 4,
-      "dl_predictions": 0,
-      "license_id": "MAL24026019ACZ",
-      "brand_name": "TAZATRED (Dasatinib Film-Coated Tablets 50mg)"
+      "name": "Nitrous Oxide",
+      "slug": "nitrous_oxide",
+      "level": "L4",
+      "indication_count": 1
     },
     {
-      "drugbank_id": "DB01282",
-      "name": "CARBETOCIN",
-      "kg_predictions": 4,
-      "dl_predictions": 0,
-      "license_id": "MAL20040963AZ",
-      "brand_name": "DURATOCIN RTS 100mcg/ml"
+      "name": "Nonivamide",
+      "slug": "nonivamide",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB03255",
-      "name": "PHENOL",
-      "kg_predictions": 4,
-      "dl_predictions": 0,
-      "license_id": "MAL18046132X",
-      "brand_name": "NW CALAMINE CREAM WITH PHENOL"
+      "name": "Norelgestromin",
+      "slug": "norelgestromin",
+      "level": "L5",
+      "indication_count": 1
     },
     {
-      "drugbank_id": "DB06594",
-      "name": "AGOMELATINE",
-      "kg_predictions": 4,
-      "dl_predictions": 0,
-      "license_id": "MAL20091965AZ",
-      "brand_name": "VALDOXAN 25MG FILM-COATED TABLETS"
+      "name": "Norethisterone",
+      "slug": "norethisterone",
+      "level": "L5",
+      "indication_count": 1
     },
     {
-      "drugbank_id": "DB06774",
-      "name": "CAPSAICIN",
-      "kg_predictions": 4,
-      "dl_predictions": 0,
-      "license_id": "MAL14075045X",
-      "brand_name": "Shine J-CARE Cream"
+      "name": "Norfloxacin",
+      "slug": "norfloxacin",
+      "level": "L5",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB09265",
-      "name": "LIXISENATIDE",
-      "kg_predictions": 4,
-      "dl_predictions": 0,
-      "license_id": "MAL19056043AZ",
-      "brand_name": "Soliqua SoloStar 100units/mL+33mcg/mL solution for"
+      "name": "Nystatin",
+      "slug": "nystatin",
+      "level": "L3",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB09331",
-      "name": "DARATUMUMAB",
-      "kg_predictions": 2,
-      "dl_predictions": 2,
-      "license_id": "MAL17085027ACZ",
-      "brand_name": "Darzalex 20mg/mL Concentrate for Solution for Infu"
+      "name": "Obinutuzumab",
+      "slug": "obinutuzumab",
+      "level": "L5",
+      "indication_count": 3
     },
     {
-      "drugbank_id": "DB11359",
-      "name": "GUAIACOL",
-      "kg_predictions": 4,
-      "dl_predictions": 0,
-      "license_id": "MAL19930179AZ",
-      "brand_name": "ASMALIN EXPECTORANT"
+      "name": "Ocrelizumab",
+      "slug": "ocrelizumab",
+      "level": "L5",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB11569",
-      "name": "IXEKIZUMAB",
-      "kg_predictions": 4,
-      "dl_predictions": 0,
-      "license_id": "MAL25086005AZ",
-      "brand_name": "Taltz 80 mg solution for injection in pre-filled p"
+      "name": "Octreotide",
+      "slug": "octreotide",
+      "level": "L5",
+      "indication_count": 2
     },
     {
-      "drugbank_id": "DB11613",
-      "name": "VELPATASVIR",
-      "kg_predictions": 4,
-      "dl_predictions": 0,
-      "license_id": "MAL18046002AZ",
-      "brand_name": "Epclusa (sofosbuvir 400mg/ velpatasvir 100mg) Film"
+      "name": "Ofatumumab",
+      "slug": "ofatumumab",
+      "level": "L2",
+      "indication_count": 8
     },
     {
-      "drugbank_id": "DB12130",
-      "name": "LORLATINIB",
-      "kg_predictions": 4,
-      "dl_predictions": 0,
-      "license_id": "MAL20126003AZ",
-      "brand_name": "Lorviqua 25 mg Film-Coated Tablets"
+      "name": "Ofloxacin",
+      "slug": "ofloxacin",
+      "level": "L3",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB12159",
-      "name": "DUPILUMAB",
-      "kg_predictions": 4,
-      "dl_predictions": 0,
-      "license_id": "MAL19056001AZ",
-      "brand_name": "Dupixent 300 mg Solution for Injection in Pre-fill"
+      "name": "Olanzapine",
+      "slug": "olanzapine",
+      "level": "L1",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB13923",
-      "name": "EMICIZUMAB",
-      "kg_predictions": 4,
-      "dl_predictions": 0,
-      "license_id": "MAL19056107ARZ",
-      "brand_name": "HEMLIBRA 150MG/ML SOLUTION FOR INJECTION"
+      "name": "Olaparib",
+      "slug": "olaparib",
+      "level": "L1",
+      "indication_count": 1
     },
     {
-      "drugbank_id": "DB13931",
-      "name": "NETARSUDIL",
-      "kg_predictions": 4,
-      "dl_predictions": 0,
-      "license_id": "MAL25046004ACZ",
-      "brand_name": "Rhopressa (netarsudil ophthalmic solution) 0.02%"
+      "name": "Olmesartan",
+      "slug": "olmesartan",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB14039",
-      "name": "ERENUMAB",
-      "kg_predictions": 4,
-      "dl_predictions": 0,
-      "license_id": "MAL19056108ARZ",
-      "brand_name": "Pasurta 70mg/ml Solution for Injection in a Prefil"
+      "name": "Omalizumab",
+      "slug": "omalizumab",
+      "level": "L4",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB14042",
-      "name": "GALCANEZUMAB",
-      "kg_predictions": 4,
-      "dl_predictions": 0,
-      "license_id": "MAL21016002AZ",
-      "brand_name": "Pontevia 120 mg solution for injection in pre-fill"
+      "name": "Omeprazole",
+      "slug": "omeprazole",
+      "level": "L4",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB00391",
-      "name": "SULPIRIDE",
-      "kg_predictions": 3,
-      "dl_predictions": 0,
-      "license_id": "MAL08061576AZ",
-      "brand_name": "Sulpin F.C. Tablet 200mg"
+      "name": "Omidenepag Isopropyl",
+      "slug": "omidenepag_isopropyl",
+      "level": "L5",
+      "indication_count": 7
     },
     {
-      "drugbank_id": "DB00435",
-      "name": "NITRIC OXIDE",
-      "kg_predictions": 3,
-      "dl_predictions": 0,
-      "license_id": "MAL26016028AZ",
-      "brand_name": "Linde Medicinal Nitric Oxide 1000ppm Gas Mixture"
+      "name": "Orlistat",
+      "slug": "orlistat",
+      "level": "L5",
+      "indication_count": 1
     },
     {
-      "drugbank_id": "DB00758",
-      "name": "CLOPIDOGREL",
-      "kg_predictions": 3,
-      "dl_predictions": 0,
-      "license_id": "MAL19992344AZ",
-      "brand_name": "PLAVIX TABLET 75MG"
+      "name": "Oteracil",
+      "slug": "oteracil",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00887",
-      "name": "BUMETANIDE",
-      "kg_predictions": 3,
-      "dl_predictions": 0,
-      "license_id": "MAL13115202ACZ",
-      "brand_name": "Burinex Injection 0.5mg/ml (4ml)"
+      "name": "Oxaliplatin",
+      "slug": "oxaliplatin",
+      "level": "L2",
+      "indication_count": 4
     },
     {
-      "drugbank_id": "DB00993",
-      "name": "AZATHIOPRINE",
-      "kg_predictions": 3,
-      "dl_predictions": 0,
-      "license_id": "MAL20021382AZ",
-      "brand_name": "AZAMUN 50MG TABLETS"
+      "name": "Oxcarbazepine",
+      "slug": "oxcarbazepine",
+      "level": "L1",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB01004",
-      "name": "GANCICLOVIR",
-      "kg_predictions": 3,
-      "dl_predictions": 0,
-      "license_id": "MAL20026069ACRZ",
-      "brand_name": "CYMEVENE 500MG powder for concentrate for solution"
+      "name": "Paclitaxel",
+      "slug": "paclitaxel",
+      "level": "L1",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB01117",
-      "name": "ATOVAQUONE",
-      "kg_predictions": 3,
-      "dl_predictions": 0,
-      "license_id": "MAL20014470ACRZ",
-      "brand_name": "MALARONE TABLETS"
+      "name": "Palbociclib",
+      "slug": "palbociclib",
+      "level": "L5",
+      "indication_count": 4
     },
     {
-      "drugbank_id": "DB01166",
-      "name": "CILOSTAZOL",
-      "kg_predictions": 3,
-      "dl_predictions": 0,
-      "license_id": "MAL19096025AZ",
-      "brand_name": "CILOSOL 100mg Tablet"
+      "name": "Paliperidone",
+      "slug": "paliperidone",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB01171",
-      "name": "MOCLOBEMIDE",
-      "kg_predictions": 3,
-      "dl_predictions": 0,
-      "license_id": "MAL13035054ACZ",
-      "brand_name": "Aurorix Film Coated Tablet 150mg"
+      "name": "Palivizumab",
+      "slug": "palivizumab",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB09037",
-      "name": "PEMBROLIZUMAB",
-      "kg_predictions": 3,
-      "dl_predictions": 0,
-      "license_id": "MAL16035008ARZ",
-      "brand_name": "Keytruda 100mg Solution for Infusion"
+      "name": "Palonosetron",
+      "slug": "palonosetron",
+      "level": "L4",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB09274",
-      "name": "ARTESUNATE",
-      "kg_predictions": 3,
-      "dl_predictions": 0,
-      "license_id": "MAL12050001ACZ",
-      "brand_name": "ARTESUN POWDER FOR INJECTION 60 MG"
+      "name": "Panitumumab",
+      "slug": "panitumumab",
+      "level": "L5",
+      "indication_count": 2
     },
     {
-      "drugbank_id": "DB09287",
-      "name": "POLYETHYLENE GLYCOL",
-      "kg_predictions": 3,
-      "dl_predictions": 0,
-      "license_id": "MAL25116061X",
-      "brand_name": "KLEARIT (Polyethylene Glycol 3350 and Electrolytes"
+      "name": "Pantoprazole",
+      "slug": "pantoprazole",
+      "level": "L5",
+      "indication_count": 6
     },
     {
-      "drugbank_id": "DB11901",
-      "name": "APALUTAMIDE",
-      "kg_predictions": 3,
-      "dl_predictions": 0,
-      "license_id": "MAL20026041ARZ",
-      "brand_name": "Erleada 60mg Film-Coated Tablets"
+      "name": "Pantothenic Acid",
+      "slug": "pantothenic_acid",
+      "level": "L5",
+      "indication_count": 9
     },
     {
-      "drugbank_id": "DB13365",
-      "name": "CALCIUM LACTATE GLUCONATE",
-      "kg_predictions": 3,
-      "dl_predictions": 0,
-      "license_id": "MAL13115226X",
-      "brand_name": "Calcium Vitamin D3 STELLA Effervescent tablet"
+      "name": "Pegaspargase",
+      "slug": "pegaspargase",
+      "level": "L1",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB14012",
-      "name": "BUROSUMAB",
-      "kg_predictions": 3,
-      "dl_predictions": 0,
-      "license_id": "MAL22126023ARZ",
-      "brand_name": "CRYSVITA 30 MG SOLUTION FOR INJECTION "
+      "name": "Pegfilgrastim",
+      "slug": "pegfilgrastim",
+      "level": "L5",
+      "indication_count": 2
     },
     {
-      "drugbank_id": "DB14644",
-      "name": "METHYLPREDNISOLONE HEMISUCCINATE",
-      "kg_predictions": 3,
-      "dl_predictions": 0,
-      "license_id": "MAL25106005AZ",
-      "brand_name": "Vaxcel Methylprednisolone-500mg for Injection or I"
+      "name": "Pembrolizumab",
+      "slug": "pembrolizumab",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB15035",
-      "name": "ZANUBRUTINIB",
-      "kg_predictions": 3,
-      "dl_predictions": 0,
-      "license_id": "MAL23086003ACRZ",
-      "brand_name": "BRUKINSA 80 mg capsules"
+      "name": "Pemetrexed",
+      "slug": "pemetrexed",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB15119",
-      "name": "ROPEGINTERFERON ALFA-2B",
-      "kg_predictions": 3,
-      "dl_predictions": 0,
-      "license_id": "MAL24066032AZ",
-      "brand_name": "BESREMi 500mcg/mL solution for injection in prefil"
+      "name": "Pentamidine",
+      "slug": "pentamidine",
+      "level": "L5",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB00140",
-      "name": "RIBOFLAVIN",
-      "kg_predictions": 2,
-      "dl_predictions": 0,
-      "license_id": "MAL19987358XZ",
-      "brand_name": "SHINE VITAMIN-B COMPLEX"
+      "name": "Peppermint Oil",
+      "slug": "peppermint_oil",
+      "level": "L4",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00337",
-      "name": "PIMECROLIMUS",
-      "kg_predictions": 2,
-      "dl_predictions": 0,
-      "license_id": "MAL20034628ARZ",
-      "brand_name": "ELIDEL 1% CREAM"
+      "name": "Perampanel",
+      "slug": "perampanel",
+      "level": "L4",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00349",
-      "name": "CLOBAZAM",
-      "kg_predictions": 2,
-      "dl_predictions": 0,
-      "license_id": "MAL19861330ACRZ",
-      "brand_name": "FRISIUM TABLET 10MG"
+      "name": "Perindopril",
+      "slug": "perindopril",
+      "level": "L5",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB00362",
-      "name": "ANIDULAFUNGIN",
-      "kg_predictions": 2,
-      "dl_predictions": 0,
-      "license_id": "MAL20081739ACRZ",
-      "brand_name": "ERAXIS 100MG FOR INJECTION"
+      "name": "Perphenazine",
+      "slug": "perphenazine",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00640",
-      "name": "ADENOSINE",
-      "kg_predictions": 2,
-      "dl_predictions": 0,
-      "license_id": "MAL15105032AZ",
-      "brand_name": "MYODEEN Adenosine Injection USP 3mg/ml"
+      "name": "Pertuzumab",
+      "slug": "pertuzumab",
+      "level": "L1",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00850",
-      "name": "PERPHENAZINE",
-      "kg_predictions": 2,
-      "dl_predictions": 0,
-      "license_id": "MAL19984737ACRZ",
-      "brand_name": "AA-Perphenazine Tablet 4mg"
+      "name": "Phenol",
+      "slug": "phenol",
+      "level": "L5",
+      "indication_count": 8
     },
     {
-      "drugbank_id": "DB01032",
-      "name": "PROBENECID",
-      "kg_predictions": 2,
-      "dl_predictions": 0,
-      "license_id": "MAL19870996AZ",
-      "brand_name": "SW PROBENECID TABLET 500MG"
+      "name": "Phentermine",
+      "slug": "phentermine",
+      "level": "L5",
+      "indication_count": 4
     },
     {
-      "drugbank_id": "DB01257",
-      "name": "ECULIZUMAB",
-      "kg_predictions": 2,
-      "dl_predictions": 0,
-      "license_id": "MAL24096027ACZ",
-      "brand_name": "Soliris 10mg/ml Concentrate for Solution for Infus"
+      "name": "Phenylalanine",
+      "slug": "phenylalanine",
+      "level": "L4",
+      "indication_count": 2
     },
     {
-      "drugbank_id": "DB01264",
-      "name": "DARUNAVIR",
-      "kg_predictions": 2,
-      "dl_predictions": 0,
-      "license_id": "MAL19046001ARZ",
-      "brand_name": "Prezista 600mg Film Coated Tablet"
+      "name": "Phenytoin",
+      "slug": "phenytoin",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB01309",
-      "name": "INSULIN GLULISINE",
-      "kg_predictions": 2,
-      "dl_predictions": 0,
-      "license_id": "MAL20081842AZ",
-      "brand_name": "APIDRA SOLOSTAR 100 UNITS/ML, SOLUTION FOR INJECTI"
+      "name": "Pimecrolimus",
+      "slug": "pimecrolimus",
+      "level": "L2",
+      "indication_count": 4
     },
     {
-      "drugbank_id": "DB01393",
-      "name": "BEZAFIBRATE",
-      "kg_predictions": 2,
-      "dl_predictions": 0,
-      "license_id": "MAL19988485ASZ",
-      "brand_name": "BEZAMIDIN TABLET 200MG"
+      "name": "Piperacillin",
+      "slug": "piperacillin",
+      "level": "L5",
+      "indication_count": 9
     },
     {
-      "drugbank_id": "DB01595",
-      "name": "NITRAZEPAM",
-      "kg_predictions": 2,
-      "dl_predictions": 0,
-      "license_id": "MAL19900511AZ",
-      "brand_name": "NITRAPAM TABLETS 5MG"
+      "name": "Pirfenidone",
+      "slug": "pirfenidone",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB01783",
-      "name": "PANTOTHENIC ACID",
-      "kg_predictions": 2,
-      "dl_predictions": 0,
-      "license_id": "MAL19991439X",
-      "brand_name": "HEPAVITE CAPSULE"
+      "name": "Piribedil",
+      "slug": "piribedil",
+      "level": "L5",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB01839",
-      "name": "PROPYLENE GLYCOL",
-      "kg_predictions": 2,
-      "dl_predictions": 0,
-      "license_id": "MAL19871130AZ",
-      "brand_name": "OTEK-P EAR DROPS"
+      "name": "Piroxicam",
+      "slug": "piroxicam",
+      "level": "L4",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB03166",
-      "name": "ACETIC ACID",
-      "kg_predictions": 2,
-      "dl_predictions": 0,
-      "license_id": "MAL19871130AZ",
-      "brand_name": "OTEK-P EAR DROPS"
+      "name": "Pitavastatin",
+      "slug": "pitavastatin",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB05219",
-      "name": "CRISABOROLE",
-      "kg_predictions": 2,
-      "dl_predictions": 0,
-      "license_id": "MAL24036010AZ",
-      "brand_name": "Staquis Topical Ointment 2%"
+      "name": "Plerixafor",
+      "slug": "plerixafor",
+      "level": "L5",
+      "indication_count": 7
     },
     {
-      "drugbank_id": "DB05773",
-      "name": "TRASTUZUMAB EMTANSINE",
-      "kg_predictions": 2,
-      "dl_predictions": 0,
-      "license_id": "MAL14075032ACRZ",
-      "brand_name": "Kadcyla 100 mg powder for concentrate for solution"
+      "name": "Polatuzumab Vedotin",
+      "slug": "polatuzumab_vedotin",
+      "level": "L5",
+      "indication_count": 1
     },
     {
-      "drugbank_id": "DB06201",
-      "name": "RUFINAMIDE",
-      "kg_predictions": 2,
-      "dl_predictions": 0,
-      "license_id": "MAL18046016ACZ",
-      "brand_name": "Inovelon 200 mg film-coated tablets"
+      "name": "Polyethylene Glycol",
+      "slug": "polyethylene_glycol",
+      "level": "L5",
+      "indication_count": 1
     },
     {
-      "drugbank_id": "DB06403",
-      "name": "AMBRISENTAN",
-      "kg_predictions": 2,
-      "dl_predictions": 0,
-      "license_id": "MAL20102009ACRZ",
-      "brand_name": "VOLIBRIS 10 MG FILM COATED TABLET"
+      "name": "Posaconazole",
+      "slug": "posaconazole",
+      "level": "L4",
+      "indication_count": 1
     },
     {
-      "drugbank_id": "DB08864",
-      "name": "RILPIVIRINE",
-      "kg_predictions": 2,
-      "dl_predictions": 0,
-      "license_id": "MAL13035067AZ",
-      "brand_name": "Edurant 25mg film-coated tablet"
+      "name": "Potassium Acetate",
+      "slug": "potassium_acetate",
+      "level": "L5",
+      "indication_count": 1
     },
     {
-      "drugbank_id": "DB08880",
-      "name": "TERIFLUNOMIDE",
-      "kg_predictions": 2,
-      "dl_predictions": 0,
-      "license_id": "MAL25036160AZ",
-      "brand_name": "TENEX-Teriflunomide Film Coated Tablets 14 mg"
+      "name": "Potassium Bicarbonate",
+      "slug": "potassium_bicarbonate",
+      "level": "L5",
+      "indication_count": 1
     },
     {
-      "drugbank_id": "DB08893",
-      "name": "MIRABEGRON",
-      "kg_predictions": 2,
-      "dl_predictions": 0,
-      "license_id": "MAL15015107ACRZ",
-      "brand_name": "Betmiga prolonged-release tablets 50mg"
+      "name": "Potassium Chloride",
+      "slug": "potassium_chloride",
+      "level": "L4",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB08935",
-      "name": "OBINUTUZUMAB",
-      "kg_predictions": 2,
-      "dl_predictions": 0,
-      "license_id": "MAL15105037ARZ",
-      "brand_name": "GAZYVA 1000 MG/ 40 ML CONCENTRATE FOR SOLUTION FOR"
+      "name": "Potassium Citrate",
+      "slug": "potassium_citrate",
+      "level": "L3",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB09027",
-      "name": "LEDIPASVIR",
-      "kg_predictions": 2,
-      "dl_predictions": 0,
-      "license_id": "MAL20116010AZ",
-      "brand_name": "VIRPAS - Ledipasvir & Sofosbuvir Tablets 90mg/400m"
+      "name": "Potassium Iodide",
+      "slug": "potassium_iodide",
+      "level": "L4",
+      "indication_count": 2
     },
     {
-      "drugbank_id": "DB09063",
-      "name": "CERITINIB",
-      "kg_predictions": 2,
-      "dl_predictions": 0,
-      "license_id": "MAL16015076ARZ",
-      "brand_name": "Zykadia 150mg Hard Capsules"
+      "name": "Prednisolone",
+      "slug": "prednisolone",
+      "level": "L4",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB09105",
-      "name": "ASFOTASE ALFA",
-      "kg_predictions": 2,
-      "dl_predictions": 0,
-      "license_id": "MAL25036138ACRZ",
-      "brand_name": "Strensiq 100mg/ml Solution for Injection"
+      "name": "Prednisolone Acetate",
+      "slug": "prednisolone_acetate",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB09241",
-      "name": "METHYLENE BLUE",
-      "kg_predictions": 2,
-      "dl_predictions": 0,
-      "license_id": "MAL23016001ACZ",
-      "brand_name": "Proveblue 5mg/ml Solution for Injection"
+      "name": "Pregabalin",
+      "slug": "pregabalin",
+      "level": "L1",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB11595",
-      "name": "ATEZOLIZUMAB",
-      "kg_predictions": 2,
-      "dl_predictions": 0,
-      "license_id": "MAL18026067ARZ",
-      "brand_name": "Tecentriq 60mg/ml Concentrate for Solution for Inf"
+      "name": "Pretomanid",
+      "slug": "pretomanid",
+      "level": "L5",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB11689",
-      "name": "SELUMETINIB",
-      "kg_predictions": 2,
-      "dl_predictions": 0,
-      "license_id": "MAL23046003ACRZ",
-      "brand_name": "Koselugo Hard Capsules 10 mg"
+      "name": "Prilocaine",
+      "slug": "prilocaine",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB11817",
-      "name": "BARICITINIB",
-      "kg_predictions": 2,
-      "dl_predictions": 0,
-      "license_id": "MAL18086128ARZ",
-      "brand_name": "Olumiant 2mg Film-Coated Tablets"
+      "name": "Probenecid",
+      "slug": "probenecid",
+      "level": "L5",
+      "indication_count": 3
     },
     {
-      "drugbank_id": "DB11855",
-      "name": "REVEFENACIN",
-      "kg_predictions": 2,
-      "dl_predictions": 0,
-      "license_id": "MAL25086003ACZ",
-      "brand_name": "YUPELRI Inhalation Solution 175mcg/3ml"
+      "name": "Procaine Benzylpenicillin",
+      "slug": "procaine_benzylpenicillin",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB12070",
-      "name": "LETERMOVIR",
-      "kg_predictions": 2,
-      "dl_predictions": 0,
-      "license_id": "MAL19096013ARZ",
-      "brand_name": "PREVYMIS 480MG FILM-COATED TABLET"
+      "name": "Prochlorperazine",
+      "slug": "prochlorperazine",
+      "level": "L4",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB12319",
-      "name": "BENZBROMARONE",
-      "kg_predictions": 2,
-      "dl_predictions": 0,
-      "license_id": "MAL20034447AZ",
-      "brand_name": "LANOLONE TABLET"
+      "name": "Progesterone",
+      "slug": "progesterone",
+      "level": "L5",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB12457",
-      "name": "RIMEGEPANT",
-      "kg_predictions": 2,
-      "dl_predictions": 0,
-      "license_id": "MAL23076001ACRZ",
-      "brand_name": "Nurtec ODT 75mg"
+      "name": "Propofol",
+      "slug": "propofol",
+      "level": "L2",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB12478",
-      "name": "PIRIBEDIL",
-      "kg_predictions": 2,
-      "dl_predictions": 0,
-      "license_id": "MAL19961025AZ",
-      "brand_name": "TRIVASTAL RETARD 50"
+      "name": "Propylene Glycol",
+      "slug": "propylene_glycol",
+      "level": "L4",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB13997",
-      "name": "BALOXAVIR MARBOXIL",
-      "kg_predictions": 2,
-      "dl_predictions": 0,
-      "license_id": "MAL20046078ACRZ",
-      "brand_name": "XOFLUZA FILM-COATED TABLET 40MG"
+      "name": "Propylthiouracil",
+      "slug": "propylthiouracil",
+      "level": "L4",
+      "indication_count": 3
     },
     {
-      "drugbank_id": "DB14040",
-      "name": "EPTINEZUMAB",
-      "kg_predictions": 2,
-      "dl_predictions": 0,
-      "license_id": "MAL24086006AZ",
-      "brand_name": "Vyepti 100 mg/mL concentrate for solution for infu"
+      "name": "Prothrombin",
+      "slug": "prothrombin",
+      "level": "L5",
+      "indication_count": 2
     },
     {
-      "drugbank_id": "DB00087",
-      "name": "ALEMTUZUMAB",
-      "kg_predictions": 1,
-      "dl_predictions": 0,
-      "license_id": "MAL15125074AZ",
-      "brand_name": "LEMTRADA Concentrate for Solution for Infusion 12 "
+      "name": "Prucalopride",
+      "slug": "prucalopride",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00260",
-      "name": "CYCLOSERINE",
-      "kg_predictions": 1,
-      "dl_predictions": 0,
-      "license_id": "MAL06091379AZ",
-      "brand_name": "Coxerin ( Cycloserine Capsules USP 250mg)"
+      "name": "Pyrazinamide",
+      "slug": "pyrazinamide",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00609",
-      "name": "ETHIONAMIDE",
-      "kg_predictions": 1,
-      "dl_predictions": 0,
-      "license_id": "MAL06091362AZ",
-      "brand_name": "Ethomid Tablets 250mg"
+      "name": "Ramipril",
+      "slug": "ramipril",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00740",
-      "name": "RILUZOLE",
-      "kg_predictions": 1,
-      "dl_predictions": 0,
-      "license_id": "MAL20051294AZ",
-      "brand_name": "RILUTEK TABLETS 50MG"
+      "name": "Ramucirumab",
+      "slug": "ramucirumab",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB00809",
-      "name": "TROPICAMIDE",
-      "kg_predictions": 1,
-      "dl_predictions": 0,
-      "license_id": "MAL19890180AZ",
-      "brand_name": "MYDRIACYL 1% OPHTHALMIC PREPARATION"
+      "name": "Ranibizumab",
+      "slug": "ranibizumab",
+      "level": "L1",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB01269",
-      "name": "PANITUMUMAB",
-      "kg_predictions": 1,
-      "dl_predictions": 0,
-      "license_id": "MAL13075067ACZ",
-      "brand_name": "Vectibix 100mg Concentrate for Solution for Infusi"
+      "name": "Ranitidine",
+      "slug": "ranitidine",
+      "level": "L3",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB01271",
-      "name": "IDURSULFASE",
-      "kg_predictions": 1,
-      "dl_predictions": 0,
-      "license_id": "MAL20091972ACZ",
-      "brand_name": "ELAPRASE SOLUTION FOR INTRAVENOUS INFUSION"
+      "name": "Ranolazine",
+      "slug": "ranolazine",
+      "level": "L5",
+      "indication_count": 1
     },
     {
-      "drugbank_id": "DB06149",
-      "name": "TEICOPLANIN",
-      "kg_predictions": 1,
-      "dl_predictions": 0,
-      "license_id": "MAL23096023AZ",
-      "brand_name": "Ticplat 200 (Teicoplanin 200mg powder for solution"
+      "name": "Ravulizumab",
+      "slug": "ravulizumab",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB06186",
-      "name": "IPILIMUMAB",
-      "kg_predictions": 1,
-      "dl_predictions": 0,
-      "license_id": "MAL23126011ACZ",
-      "brand_name": "YERVOY 5 mg/ml concentrate for solution for infusi"
+      "name": "Remdesivir",
+      "slug": "remdesivir",
+      "level": "L5",
+      "indication_count": 6
     },
     {
-      "drugbank_id": "DB08932",
-      "name": "MACITENTAN",
-      "kg_predictions": 1,
-      "dl_predictions": 0,
-      "license_id": "MAL20016146ACRZ",
-      "brand_name": "Opsumit  10mg Film-Coated Tablets"
+      "name": "Resorcinol",
+      "slug": "resorcinol",
+      "level": "L5",
+      "indication_count": 6
     },
     {
-      "drugbank_id": "DB09051",
-      "name": "ELOSULFASE ALFA",
-      "kg_predictions": 1,
-      "dl_predictions": 0,
-      "license_id": "MAL15095036AZ",
-      "brand_name": "Vimizim 1mg/ml Concentrate for Solution for Infusi"
+      "name": "Revefenacin",
+      "slug": "revefenacin",
+      "level": "L4",
+      "indication_count": 2
     },
     {
-      "drugbank_id": "DB09262",
-      "name": "IMIDAFENACIN",
-      "kg_predictions": 1,
-      "dl_predictions": 0,
-      "license_id": "MAL18016070ARZ",
-      "brand_name": "Uritos Film Coated Tablets 0.1mg"
+      "name": "Rifampicin",
+      "slug": "rifampicin",
+      "level": "L3",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB11580",
-      "name": "RAVULIZUMAB",
-      "kg_predictions": 1,
-      "dl_predictions": 0,
-      "license_id": "MAL24096028ACRZ",
-      "brand_name": "Ultomiris 100mg/mL Concentrate For Solution For In"
+      "name": "Rilpivirine",
+      "slug": "rilpivirine",
+      "level": "L4",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB11637",
-      "name": "DELAMANID",
-      "kg_predictions": 1,
-      "dl_predictions": 0,
-      "license_id": "MAL24086003ARZ",
-      "brand_name": "Deltyba Film-Coated Tablets 50 mg"
+      "name": "Riluzole",
+      "slug": "riluzole",
+      "level": "L5",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB11714",
-      "name": "DURVALUMAB",
-      "kg_predictions": 1,
-      "dl_predictions": 0,
-      "license_id": "MAL18106019ACZ",
-      "brand_name": "IMFINZI CONCENTRATE FOR SOLUTION FOR INTRAVENOUS I"
+      "name": "Rimegepant",
+      "slug": "rimegepant",
+      "level": "L3",
+      "indication_count": 6
     },
     {
-      "drugbank_id": "DB11945",
-      "name": "AVELUMAB",
-      "kg_predictions": 1,
-      "dl_predictions": 0,
-      "license_id": "MAL22126020AZ",
-      "brand_name": "BAVENCIO 200 mg/10mL concentrate for solution for "
+      "name": "Risankizumab",
+      "slug": "risankizumab",
+      "level": "L2",
+      "indication_count": 10
     },
     {
-      "drugbank_id": "DB11988",
-      "name": "OCRELIZUMAB",
-      "kg_predictions": 1,
-      "dl_predictions": 0,
-      "license_id": "MAL23116001ARZ",
-      "brand_name": "OCREVUS 300mg/10mL Concentrate for Solution for In"
+      "name": "Risdiplam",
+      "slug": "risdiplam",
+      "level": "L5",
+      "indication_count": 1
     },
     {
-      "drugbank_id": "DB12808",
-      "name": "TRIFAROTENE",
-      "kg_predictions": 1,
-      "dl_predictions": 0,
-      "license_id": "MAL24076001ARZ",
-      "brand_name": "AKLIEF CREAM 50MCG/G"
+      "name": "Risperidone",
+      "slug": "risperidone",
+      "level": "L5",
+      "indication_count": 5
     },
     {
-      "drugbank_id": "DB14864",
-      "name": "BROLUCIZUMAB",
-      "kg_predictions": 1,
-      "dl_predictions": 0,
-      "license_id": "MAL20096003ARZ",
-      "brand_name": "Pagenax 120mg/ml Solution For Injection"
+      "name": "Ritonavir",
+      "slug": "ritonavir",
+      "level": "L5",
+      "indication_count": 3
     },
     {
-      "drugbank_id": "DB14895",
-      "name": "VIBEGRON",
-      "kg_predictions": 1,
-      "dl_predictions": 0,
-      "license_id": "MAL24126008ARZ",
-      "brand_name": "Beova 50mg Film-Coated Tablets"
+      "name": "Rituximab",
+      "slug": "rituximab",
+      "level": "L1",
+      "indication_count": 5
+    },
+    {
+      "name": "Rivaroxaban",
+      "slug": "rivaroxaban",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
+      "name": "Rivastigmine",
+      "slug": "rivastigmine",
+      "level": "L4",
+      "indication_count": 1
+    },
+    {
+      "name": "Romiplostim",
+      "slug": "romiplostim",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Ropeginterferon Alfa-2B",
+      "slug": "ropeginterferon_alfa-2b",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Ropinirole",
+      "slug": "ropinirole",
+      "level": "L3",
+      "indication_count": 10
+    },
+    {
+      "name": "Roxithromycin",
+      "slug": "roxithromycin",
+      "level": "L5",
+      "indication_count": 8
+    },
+    {
+      "name": "Rufinamide",
+      "slug": "rufinamide",
+      "level": "L5",
+      "indication_count": 5
+    },
+    {
+      "name": "Salbutamol",
+      "slug": "salbutamol",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Salicylic Acid",
+      "slug": "salicylic_acid",
+      "level": "L4",
+      "indication_count": 5
+    },
+    {
+      "name": "Salmeterol",
+      "slug": "salmeterol",
+      "level": "L1",
+      "indication_count": 7
+    },
+    {
+      "name": "Selegiline",
+      "slug": "selegiline",
+      "level": "L3",
+      "indication_count": 4
+    },
+    {
+      "name": "Selinexor",
+      "slug": "selinexor",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Selumetinib",
+      "slug": "selumetinib",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Sennosides",
+      "slug": "sennosides",
+      "level": "L5",
+      "indication_count": 6
+    },
+    {
+      "name": "Serine",
+      "slug": "serine",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Sevoflurane",
+      "slug": "sevoflurane",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Silodosin",
+      "slug": "silodosin",
+      "level": "L5",
+      "indication_count": 6
+    },
+    {
+      "name": "Siltuximab",
+      "slug": "siltuximab",
+      "level": "L5",
+      "indication_count": 8
+    },
+    {
+      "name": "Simoctocog Alfa",
+      "slug": "simoctocog_alfa",
+      "level": "L1",
+      "indication_count": 10
+    },
+    {
+      "name": "Simvastatin",
+      "slug": "simvastatin",
+      "level": "L5",
+      "indication_count": 5
+    },
+    {
+      "name": "Sirolimus",
+      "slug": "sirolimus",
+      "level": "L3",
+      "indication_count": 10
+    },
+    {
+      "name": "Sodium Acetate",
+      "slug": "sodium_acetate",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Sodium Carbonate",
+      "slug": "sodium_carbonate",
+      "level": "L5",
+      "indication_count": 6
+    },
+    {
+      "name": "Sodium Citrate",
+      "slug": "sodium_citrate",
+      "level": "L5",
+      "indication_count": 5
+    },
+    {
+      "name": "Sodium Fluoride",
+      "slug": "sodium_fluoride",
+      "level": "L5",
+      "indication_count": 7
+    },
+    {
+      "name": "Sofosbuvir",
+      "slug": "sofosbuvir",
+      "level": "L5",
+      "indication_count": 8
+    },
+    {
+      "name": "Sorafenib",
+      "slug": "sorafenib",
+      "level": "L2",
+      "indication_count": 10
+    },
+    {
+      "name": "Sorbitol",
+      "slug": "sorbitol",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Sotatercept",
+      "slug": "sotatercept",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Soybean Oil",
+      "slug": "soybean_oil",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Spironolactone",
+      "slug": "spironolactone",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Streptokinase",
+      "slug": "streptokinase",
+      "level": "L1",
+      "indication_count": 10
+    },
+    {
+      "name": "Streptomycin",
+      "slug": "streptomycin",
+      "level": "L4",
+      "indication_count": 10
+    },
+    {
+      "name": "Sulfamethoxazole",
+      "slug": "sulfamethoxazole",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Sulodexide",
+      "slug": "sulodexide",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
+      "name": "Sulpiride",
+      "slug": "sulpiride",
+      "level": "L4",
+      "indication_count": 9
+    },
+    {
+      "name": "Sunitinib",
+      "slug": "sunitinib",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Tacrolimus",
+      "slug": "tacrolimus",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
+      "name": "Tadalafil",
+      "slug": "tadalafil",
+      "level": "L1",
+      "indication_count": 5
+    },
+    {
+      "name": "Tamoxifen",
+      "slug": "tamoxifen",
+      "level": "L1",
+      "indication_count": 10
+    },
+    {
+      "name": "Tazobactam",
+      "slug": "tazobactam",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Tegafur",
+      "slug": "tegafur",
+      "level": "L1",
+      "indication_count": 10
+    },
+    {
+      "name": "Telmisartan",
+      "slug": "telmisartan",
+      "level": "L1",
+      "indication_count": 5
+    },
+    {
+      "name": "Temozolomide",
+      "slug": "temozolomide",
+      "level": "L1",
+      "indication_count": 2
+    },
+    {
+      "name": "Tenecteplase",
+      "slug": "tenecteplase",
+      "level": "L4",
+      "indication_count": 10
+    },
+    {
+      "name": "Terbutaline",
+      "slug": "terbutaline",
+      "level": "L1",
+      "indication_count": 3
+    },
+    {
+      "name": "Teriflunomide",
+      "slug": "teriflunomide",
+      "level": "L1",
+      "indication_count": 1
+    },
+    {
+      "name": "Teriparatide",
+      "slug": "teriparatide",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Testosterone",
+      "slug": "testosterone",
+      "level": "L2",
+      "indication_count": 5
+    },
+    {
+      "name": "Theophylline",
+      "slug": "theophylline",
+      "level": "L1",
+      "indication_count": 5
+    },
+    {
+      "name": "Thiotepa",
+      "slug": "thiotepa",
+      "level": "L5",
+      "indication_count": 5
+    },
+    {
+      "name": "Threonine",
+      "slug": "threonine",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Thymol",
+      "slug": "thymol",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Thyrotropin Alfa",
+      "slug": "thyrotropin_alfa",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Ticagrelor",
+      "slug": "ticagrelor",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Tildrakizumab",
+      "slug": "tildrakizumab",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
+      "name": "Tiotropium",
+      "slug": "tiotropium",
+      "level": "L1",
+      "indication_count": 10
+    },
+    {
+      "name": "Tipiracil",
+      "slug": "tipiracil",
+      "level": "L1",
+      "indication_count": 10
+    },
+    {
+      "name": "Tobramycin",
+      "slug": "tobramycin",
+      "level": "L5",
+      "indication_count": 5
+    },
+    {
+      "name": "Tocilizumab",
+      "slug": "tocilizumab",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Tolnaftate",
+      "slug": "tolnaftate",
+      "level": "L5",
+      "indication_count": 5
+    },
+    {
+      "name": "Tolvaptan",
+      "slug": "tolvaptan",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Topiramate",
+      "slug": "topiramate",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Topotecan",
+      "slug": "topotecan",
+      "level": "L3",
+      "indication_count": 10
+    },
+    {
+      "name": "Trabectedin",
+      "slug": "trabectedin",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Tramadol",
+      "slug": "tramadol",
+      "level": "L1",
+      "indication_count": 10
+    },
+    {
+      "name": "Tranexamic Acid",
+      "slug": "tranexamic_acid",
+      "level": "L4",
+      "indication_count": 1
+    },
+    {
+      "name": "Trastuzumab",
+      "slug": "trastuzumab",
+      "level": "L1",
+      "indication_count": 10
+    },
+    {
+      "name": "Trastuzumab Deruxtecan",
+      "slug": "trastuzumab_deruxtecan",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Trastuzumab Emtansine",
+      "slug": "trastuzumab_emtansine",
+      "level": "L3",
+      "indication_count": 4
+    },
+    {
+      "name": "Travoprost",
+      "slug": "travoprost",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Tretinoin",
+      "slug": "tretinoin",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Triamcinolone",
+      "slug": "triamcinolone",
+      "level": "L4",
+      "indication_count": 5
+    },
+    {
+      "name": "Triazolam",
+      "slug": "triazolam",
+      "level": "L4",
+      "indication_count": 1
+    },
+    {
+      "name": "Trifarotene",
+      "slug": "trifarotene",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Trimethoprim",
+      "slug": "trimethoprim",
+      "level": "L1",
+      "indication_count": 5
+    },
+    {
+      "name": "Triptorelin",
+      "slug": "triptorelin",
+      "level": "L4",
+      "indication_count": 10
+    },
+    {
+      "name": "Tropicamide",
+      "slug": "tropicamide",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
+      "name": "Tryptophan",
+      "slug": "tryptophan",
+      "level": "L3",
+      "indication_count": 8
+    },
+    {
+      "name": "Turoctocog Alfa",
+      "slug": "turoctocog_alfa",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Turoctocog Alfa Pegol",
+      "slug": "turoctocog_alfa_pegol",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Tyrosine",
+      "slug": "tyrosine",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Upadacitinib",
+      "slug": "upadacitinib",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Uracil",
+      "slug": "uracil",
+      "level": "L4",
+      "indication_count": 10
+    },
+    {
+      "name": "Urofollitropin",
+      "slug": "urofollitropin",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Ursodeoxycholic Acid",
+      "slug": "ursodeoxycholic_acid",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Ustekinumab",
+      "slug": "ustekinumab",
+      "level": "L2",
+      "indication_count": 10
+    },
+    {
+      "name": "Valbenazine",
+      "slug": "valbenazine",
+      "level": "L5",
+      "indication_count": 7
+    },
+    {
+      "name": "Valine",
+      "slug": "valine",
+      "level": "L4",
+      "indication_count": 10
+    },
+    {
+      "name": "Valproic Acid",
+      "slug": "valproic_acid",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Valsartan",
+      "slug": "valsartan",
+      "level": "L5",
+      "indication_count": 5
+    },
+    {
+      "name": "Vancomycin",
+      "slug": "vancomycin",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Vasopressin",
+      "slug": "vasopressin",
+      "level": "L4",
+      "indication_count": 2
+    },
+    {
+      "name": "Velpatasvir",
+      "slug": "velpatasvir",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Venetoclax",
+      "slug": "venetoclax",
+      "level": "L4",
+      "indication_count": 10
+    },
+    {
+      "name": "Vildagliptin",
+      "slug": "vildagliptin",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Vinblastine",
+      "slug": "vinblastine",
+      "level": "L3",
+      "indication_count": 10
+    },
+    {
+      "name": "Vincristine",
+      "slug": "vincristine",
+      "level": "L3",
+      "indication_count": 3
+    },
+    {
+      "name": "Vinorelbine",
+      "slug": "vinorelbine",
+      "level": "L2",
+      "indication_count": 10
+    },
+    {
+      "name": "Vitamin A",
+      "slug": "vitamin_a",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Vitamin E",
+      "slug": "vitamin_e",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Vonoprazan",
+      "slug": "vonoprazan",
+      "level": "L1",
+      "indication_count": 10
+    },
+    {
+      "name": "Zanamivir",
+      "slug": "zanamivir",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
+      "name": "Zanubrutinib",
+      "slug": "zanubrutinib",
+      "level": "L5",
+      "indication_count": 6
+    },
+    {
+      "name": "Zidovudine",
+      "slug": "zidovudine",
+      "level": "L4",
+      "indication_count": 6
+    },
+    {
+      "name": "Zinc Acetate",
+      "slug": "zinc_acetate",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Zinc Chloride",
+      "slug": "zinc_chloride",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
+      "name": "Zinc Gluconate",
+      "slug": "zinc_gluconate",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Zinc Oxide",
+      "slug": "zinc_oxide",
+      "level": "L2",
+      "indication_count": 5
+    },
+    {
+      "name": "Zonisamide",
+      "slug": "zonisamide",
+      "level": "L5",
+      "indication_count": 10
     }
   ]
 }

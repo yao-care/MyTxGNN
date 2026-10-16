@@ -13,7 +13,7 @@ Tahap bukti adalah dari L1 (bukti klinikal lebih kukuh) hingga L5 (ramalan model
 ## Kandungan utama
 
 - `/` Laporan Pengesahan Penggunaan Semula Ubat — Ramalan penggunaan semula ubat berkuasa AI untuk ubat yang diluluskan NPRA Malaysia menggunakan graf pengetahuan TxGNN dan model pembelajaran mendalam.
-- `/drugs/` Senarai Ubat — Browse all 508 drugs with drug repurposing predictions from MyTxGNN
+- `/drugs/` Senarai Ubat — Browse all drugs with drug repurposing predictions from MyTxGNN
 - `/evidence-high/` High Evidence (L1-L2) — L1-L2 drug repurposing candidates with strong clinical trial or systematic review evidence.
 - `/evidence-medium/` Medium Evidence (L3) — L3 drug repurposing candidates with moderate clinical evidence requiring further investigation.
 - `/evidence-low/` Low Evidence (L4-L5) — L4-L5 drug repurposing candidates with limited clinical evidence, primarily AI predictions.
